@@ -48,7 +48,7 @@ updated: 2026-10-16
 
 ## 生平与职涯
 
-> [!note]
+> [!note|notitle]
 > - 1857年出生于英国伦敦
 > - 1904年在《英国医学杂志》发表伤寒疫苗接种数据的跨研究合并分析，首次提出合并多项研究数据以回答因果问题的思想([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.33]])
 > - 担任伦敦大学学院[[Francis Galton|高尔顿]]优生学教授及高尔顿实验室主任
@@ -58,28 +58,28 @@ updated: 2026-10-16
 
 ## 主要著作
 
-> [!abstract]
+> [!abstract|notitle]
 > - Pearson, K. (1904). Report on certain enteric fever inoculation statistics. *The British Medical Journal*, 2(2288), 1243–1246. — 首次尝试合并多项研究数据以判断疫苗效果，并探索效果变异的原因。
 
 ---
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 > Pearson 在 1904 年的分析中同时追求两个目标：合并多项小研究的发现以获得更可靠的答案，以及探索研究间效果变异的原因。这两个目标构成了[[Meta-analysis\|元分析]]的核心概念([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.33]])。
 >
 > 他将每项研究的结果以独立行呈现，列出效果测量值和研究内不确定性测量，最后一行给出平均相关系数作为汇总估计。这种呈现方式预示了后来[[Meta-analysis\|元分析]]中[[Forest Plot\|森林图]]（forest plot）的标准形式。
 >
 > Pearson 还考虑了志愿者自我选择偏差的问题——自愿接种的士兵可能本身就处于较低的患病风险中。他提出可以通过"每隔一位志愿者接种"的[[Random Assignment\|随机化]]试验来回答这一不确定性，预见了[[Randomised Controlled Trials\|随机对照试验]]的发展方向。
 
-> [!quote]
+> [!quote|notitle]
 > Pearson 的分析虽然尚未包含汇总效应的不确定性估计，但"我们可以确认 Pearson 的表格就是'元分析'，尽管没有被如此命名"([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.33]])。
 
 ---
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - Pearson 的工作为[[Meta-analysis\|元分析]]奠定了思想基础——合并多项研究数据以获得更可靠结论，同时探索效果变异的原因
 > - 他预见了[[Randomised Controlled Trials\|随机对照试验]]在评估干预效果中的作用
 > - 其[[Pearson Product-Moment Correlation\|积差相关]]系数和[[Chi-Squared Test\|卡方检验]]至今仍是统计学的基础工具

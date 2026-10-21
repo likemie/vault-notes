@@ -71,7 +71,7 @@ updated: 2026-10-16
 > [!info] 定义
 > 聚敛式设计（convergent design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。在聚敛式设计中，研究者同时收集量化数据和质性数据，对两类数据分别进行分析，然后将两组分析结果合并（merge）进行比较，以综合解释[[Research Question\|研究问题]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.136]])。
 
-> [!quote]
+> [!quote|notitle]
 > "A convergent mixed methods design will be used, and it is a type of design in which qualitative and quantitative data are collected to provide multiple perspectives on a problem or question."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.136]])
 > 
 > 将采用聚敛式混合方法设计，这是一种通过收集质性数据和量化数据，以对某项研究问题提供多重透视的设计类型。
@@ -166,7 +166,7 @@ updated: 2026-10-16
 
 ## 6. 方法变体与对比
 
-> [!tip]
+> [!tip|notitle]
 > - [[Explanatory Sequential Design\|解释性序列设计]] — 顺序不同：聚敛式是同时收集、合并比较；解释性序列是量化在前、质性在后，质性用于解释量化结果。
 > - [[Exploratory Sequential Design\|探索性序列设计]] — 顺序相反（质性→量化），且质性发现直接用于开发或修改量化工具。
 > - **复杂嵌入设计 (Complex Embedded Design)** — 将聚敛式设计嵌入更大的框架（如实验、[[Case Study\|案例研究]]）中使用。
@@ -175,7 +175,7 @@ updated: 2026-10-16
 
 ## 7. 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - Argument_Classen_2007_CreswellExample — 对全国车祸数据集（量化）进行二次分析，同时对六项[[Qualitative Research\|质性研究]]进行[[Meta-meta-analysis\|元综合]]，将两组结果合并比较以制定老年驾驶员安全促进模型([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.137]])。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 通过三个阶段同时收集量化和质性数据：阶段一全国 ToK 学生[[Internet-based Survey\|在线调查]]（[[Critical Thinking Strategies Scale\|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]], n=1,338）、阶段二四校[[Case Study\|案例研究]]（访谈、[[Focus Group\|焦点小组]]、[[Classroom Observation|课堂观察]]）、阶段三 DP 与非 DP 大学新生比较（[[California Critical Thinking Disposition Inventory\|CCTDI]]+[[Academic Self-Concept\|ASC]]+ATAR, n=389），三组结果合并比较以检验 IB ToK 课程与[[Critical Thinking\|批判性思维]]技能发展的关系。
 
@@ -183,7 +183,7 @@ updated: 2026-10-16
 
 ## 8. 相关概念与理论
 
-> [!tip]
+> [!tip|notitle]
 > - pragmatism — 作为其哲学基础的[[Pragmatic Paradigm\|实用主义]]。
 > - [[Integration in Mixed Methods]] — [[Mixed Methods Research\|混合方法研究]]的整合核心过程。
 > - [[Joint Display]] — 核心可视化整合工具。

@@ -101,7 +101,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 本文不采用单一理论框架，而是以方法论史为线索，追溯[[Meta-analysis\|元分析]]从统计技术到政策工具的演变。核心概念包括：
 > - [[Effect Size\|效应量]]作为跨研究比较的通用尺度
 > - [[Heterogeneity\|异质性]]作为研究间效果变异及其来源探索的工具
@@ -112,7 +112,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 本文为方法论综述，不涉及实证数据收集。作者通过系统性追溯[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]的发展历史，评述关键方法论文献，并以[[EEF Teaching and Learning Toolkit]]为例说明元综合在教育政策中的应用。
 
 ---
@@ -433,7 +433,7 @@ Toolkit and Visible Learning 中跨所有领域的效果变异表明，元综合
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - Pearson(1904)的伤寒疫苗分析是最早的跨研究合并尝试，同时追求合并数据和探索变异两个目标，预示了[[Meta-analysis\|元分析]]的核心概念，并预见了[[Randomised Controlled Trials\|随机对照试验]]的发展(p.33)
 > - ESP 案例提醒了三个持久教训：[[Publication Bias\|发表偏差]]可能导致系统性不完整的研究图景；研究者先验立场可能无意识地影响分析决策；独立重复验证至关重要(pp.34–35)
 > - Glass(1976)命名元分析并确立[[Effect Size\|效应量]]为跨研究比较的通用尺度，其心理治疗效果研究（0.6 个标准差）直接挑战了 Eysenck 的"心理治疗无效"共识(pp.36–37)
@@ -458,17 +458,17 @@ Toolkit and Visible Learning 中跨所有领域的效果变异表明，元综合
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > 当然它混合苹果和橙子。在研究水果时没有别的合理做法。比较苹果和橙子才是配得上真正科学家的事业。比较苹果和苹果是微不足道的。(Gene Glass, 2000, cited in p.37)
 
-> [!quote]
+> [!quote|notitle]
 > 效应量允许跨测试、情境、主题和其他研究特征进行粗略的比较校准。然而，这些估计受各组方差、结果测量的信度、课程与结果测量的匹配度以及一系列其他因素的影响，其中某些情况可以被具体或一般地估计。尽管效应量会受到扭曲，但它们是使用各种结果测量对非均匀群体的原始研究进行效果大小比较的唯一明确手段。(Fraser et al., 1987, pp. 151–152, cited in p.46)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - 本文聚焦于[[Intervention Research\|干预研究]]和实验设计的[[Meta-analysis\|元分析]]，未充分讨论[[Non-intervention Research\|非干预研究]]的综合方法(p.32)
 > - [[Meta-meta-analysis\|元综合]]的总体效果估计（如"额外学习月数"）仍是粗糙的，但考虑到数据的可比性限制，这可能是现实的(p.47)
 > - 教育中元分析面临的根本问题在于干预的可重复性远低于药物，教学实践可能随时间演变产生"教学抗性"，而对这些几乎一无所知(p.36)

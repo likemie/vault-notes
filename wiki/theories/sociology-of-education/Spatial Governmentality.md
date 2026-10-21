@@ -69,7 +69,7 @@ updated: 2026-10-21
 > [!claim] 核心判断
 > 现代社会的权力运作本质上是空间化的；国家与专业机构并非仅在预先存在的地理空间中发号施令，而是通过“领地化划界”、“空间化统治之眸”以及“空间质地建模”三大技术，持续生产出可计算、可干预的治理单元。学校在这一体制中承担着双重空间职能：既是把人群固定于特定物理网格内的规训容器，又是评判个体是否具备进入其他社会空间资格的筛选关卡。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论空间作为现代治理的舞台与工具**
 > 将空间理解为现代治理的舞台与工具，使我们能够看清学校承担的双重职能：（1）作为用于管理人口的封闭空间容器（Enclosure）；（2）作为评判个体（及特定群体）是否具备参与或不参与其他社会空间资格的筛选场所（Site for Qualification/Disqualification）。各种流动形式与移民实践同学校教育日常运作发生碰撞，并在教育政策与研究中被问题化，这对少数群体和边缘人群具有极为深远的影响。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 

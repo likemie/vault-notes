@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!note]
+> [!note|notitle]
 > - 1944 出生于英国曼彻斯特
 > - 1970s 在伦敦大学学院（UCL）和开放大学（Open University）从事地理学教学与研究
 > - 1982 任开放大学地理学教授，直至 2009 年退休
@@ -84,14 +84,14 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 > Massey 的空间理论以**开放[[Ontology\|本体论]]** 为根基，其核心主张可概括为三条互相关联的命题：（1）空间是关系性的、不断被制造的，而非静态容器；（2）空间本质上是[[Multiplicity\|多重性]]的——是"共存[[Heterogeneity\|异质性]]"的领域；（3）空间关系必然包含权力不对称（[[Power-Geometries\|权力几何学]]）。以下逐一展开，但详细论述见各概念条目。
 
 ### 开放本体论与关系性空间
 
 Massey 反对将空间视为静态容器。社会空间不是预先存在的、等待被填充的空容器（如空体育场），而是处于持续运动之中，由人类行动者不断构建。每个人的生命是在时间中移动的轨迹，这些轨迹在空间中交汇——"如果时间作为变化展开，那么空间作为互动展开"（Massey, 2005, p. 61）。现实从未固定或完成，而是持续[[Emergence|涌现]]的([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 3]])。这一立场是 空间制造 框架的直接理论基础。
 
-> [!quote]
+> [!quote|notitle]
 > "If time unfolds as change then space unfolds as interaction"（Massey, 2005, p. 61）
 
 ### 多重性
@@ -114,7 +114,7 @@ Massey 反复论证全球空间不是预先给定的、"在外面的"、外在�
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的[[Relational Space\|关系性空间]]理论之上，三个维度中的"想象"和"社会实践"维度尤其以 Massey 的开放[[Ontology\|本体论]]为基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–4]])
 > - [[Multiplicity]] — 多重性概念直接来自 Massey 的理论，Marginson 以此挑战高等教育研究中[[Methodological Nationalism\|方法论民族主义]]和[[World-Systems Theory\|世界体系理论]]的封闭空间假设
 > - [[Geopolitics of Knowledge]] — Massey 的空间理论为理解[[Geopolitics of Higher Education\|高等教育地缘政治]]中的权力关系（"区域和全球尺度上制度化的权力关系"）提供了核心概念工具([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 11]])

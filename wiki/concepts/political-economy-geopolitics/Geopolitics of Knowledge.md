@@ -127,7 +127,7 @@ updated: 2026-10-21
 > [!info] 核心定义
 > 知识[[Geopolitics|地缘政治]]（Geopolitics of Knowledge，GPK）指在知识密集型资本主义的全球语境中，高等教育被重构为[[Knowledge Production\|知识生产]]、创新和[[Human Capital Theory\|人力资本]]的核心场所，从而成为地缘政治竞争和战略定位的关键维度。该概念关注创新、科学和教育如何被想象为个体、企业、地区和国家的全球竞争优势来源，以及这一过程中涉及的政治、[[Discourse|话语]]和物质/结构性转变（Thompson & Parreira do Amaral, 2022, pp.8–9）。
 
-> [!quote]
+> [!quote|notitle]
 > "geopolitics of"之后最常见的名词从 2010 年起已是 Knowledge——超越 energy、oil、capitalism、Europe、war——知识已成为当代地缘政治中书写和辩论最密集的主题。（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.68]]）
 
 > [!boundary]- 概念边界
@@ -175,7 +175,7 @@ updated: 2026-10-21
 
 各国发展出不同的国家-全球协同（national/global synergy）模式（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 17–20]]）：
 
-> [!quad-grid]
+> [!quad-grid|notitle]
 > - **美国**
 >   精英大学大规模资助外国博士生培养，利用相对开放的移民制度招募全球人才（尤其是中国和印度的研究生），同时增强了美国的科研实力和[[Soft Power\|软实力]]
 > - **英国**
@@ -194,7 +194,7 @@ updated: 2026-10-21
 
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > GPK 的命题结构从宏观到微观形成三个相互嵌套的分析层次：①**空间-竞争层**——[[Knowledge-Based Economization\|知识经济化]]重构了大学的空间逻辑和国家竞争形态，其核心悖论是[[Fixity-Motion Tension\|固着-流动张力]]与 Hub-[[Flow]] 想象；②**主体-治理层**——大学成为生产特定主体性的核心[[Geopolitics|地缘政治]]装置，治理通过[[Epistemology\|认识论]]控制在全球尺度运作；③**知识-认识论层**——GPK 的最终战场是知识本身：谁生产何种知识、知识如何流动和被控制（两面模型），以及哪种认识论被认定为合理（[[Narrative Knowledge\|叙事知识]]衰退），决定[[Discourse|话语]]权力的全球格局。
 
 > [!logic-map]- 核心命题关系
@@ -260,7 +260,7 @@ updated: 2026-10-21
 
 ## 实证发现
 
-> [!stat-cards]-
+> [!stat-cards|notitle]-
 > - **5.5%+**
 >   亚洲年均经济增长率（1990年代初至今）（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.93]]）
 > - **50%+**
@@ -272,7 +272,7 @@ updated: 2026-10-21
 > - **7/100**
 >   澳大利亚 [[Academic Ranking of World Universities\|ARWU]] 前 100 大学（人口仅 2500 万）
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. 知识[[Discourse|话语]]自 2010 年起超越能源、石油等自然资源，成为[[Geopolitics|地缘政治]]讨论最密集的主题（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.68]]）
 > 2. 国际化主导理性已从[[Developmentalism|发展主义]]转向市场理性（收入创造、全球排名），高等教育被视为出口产业（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.96–97]]）
 > 3. [[Global Universities Rankings\|全球大学排名]]是 GPK 的核心运作机制，通过"[[Halo Effect\|光环效应]]"固化[[Knowledge Production\|知识生产]]不平等等级秩序（[[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.132–138]]）
@@ -284,7 +284,7 @@ updated: 2026-10-21
 
 #### 知识经济化与空间竞争
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **[[Knowledge-Based Economization\|知识经济化]]与城市空间竞争** 大型城市日益体现[[Competitiveness|国家竞争力]]，国家将资源转向首都和城市基础设施。[[Economic Patriotism\|经济爱国主义]]将特定领土的利益推进作为核心策略（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]]）
 > 2. **[[Spatial Sortings\|空间分选]]的系统性效应** 增长潜力集中在[[Knowledge-Based Economy\|知识经济]]城市枢纽，枢纽之外地区经历相对衰退。关键[[Research Problem\|研究议题]]：包容与排斥机制、被排斥人群的后果、国家的中介角色（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]]）
 > 3. **[[Global Regionalisms\|全球区域主义]]中教育角色转变** 从"国际组织如何影响教育"到"教育项目如何参与想象和建构世界区域本身"的[[Epistemology\|认识论]]转向（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.41]]）
@@ -297,7 +297,7 @@ updated: 2026-10-21
 
 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 从亚洲经济和政治崛起的视角拓展了 GPK 的分析。其核心贡献在于揭示了 GPK 中此前未被充分讨论的**市场化维度**——既有关于 GPK 的讨论关注了知识经济化、空间分选和认识论治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局。
 
-> [!stat-cards]-
+> [!stat-cards|notitle]-
 > - **5.5%+**
 >   亚洲年人均经济增长率（1990年代初至今）（Khanna, 2019）
 > - **50%+**
@@ -344,7 +344,7 @@ updated: 2026-10-21
 > [!abstract] [[Analytic Framework\|分析框架]]：GPK 的教学层微观运作
 > Thompson 等人（2022）将 GPK 分析延伸至教学治理的微观层面，展示 GPK 逻辑如何通过数字化治理技术渗透到学生主体层面。
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **竞争力作为地缘政治装置** 大学通过排名、指标化和审计文化被重塑为竞争者。教学领域中，竞争力表现为对学生"潜在未来努力"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标（[[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.220]]）
 > 2. **[[Online Self-Assessment\|OSA]] 作为 GPK 治理工具** 将 GPK 的竞争逻辑[[Operationalization\|操作化]]为个体化的自我评估实践——潜在学生被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self\|数字自我]]与[[Digital Optimum\|数字最优]]之间的差距驱动着永不停息的自我优化（[[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.224–226]]）
 > 3. **[[Promising Student\|有前景的学生]]：[[Geopolitical Subject\|地缘政治主体]]的教学变体** GPK 在教学治理层面产出的主体形态——通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体（[[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222]]）
@@ -358,14 +358,14 @@ updated: 2026-10-21
 > [!abstract] GPK 话语-主体性传导链条
 > [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]揭示了 GPK 如何通过全球技能话语（[[Single-Case Design\|SCD]]）在全球尺度生产特定主体性——将 GPK 分析从"制度如何被重塑"拓展至"主体性如何被生产"。
 
-> [!logic-map]-
+> [!logic-map|notitle]-
 > ```mermaid
 > flowchart LR
 >     D(["远距治理"]) -. 驱动 .-> A
 >     A(["SCD话语装置"]) --> B["竞争性张力对"] --> C(["自我企业家"])
 > ```
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **SCD 作为 GPK 的话语装置** SCD 不受限于任何特定机构，但占据并再生产新自由主义知识型社会的地缘政治空间——通过排名、影响因子和国际合作标准等隐性[[Success Criteria\|成功标准]]保障霸权地位（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.259]]）
 > 2. **主体性生产的三组张力** SCD 通过愿意／不愿主体、结果导向／品质本位素养、经济增长／社会包容三组张力对，将 GPK 的竞争逻辑转化为个体的自我引导模式。详见 [[21st Century Skills and Competencies Discourse#三组张力中的主体性生产]]
 > 3. **[[Self-Entrepreneur\|自我企业家]]：GPK 的全球主体形态** SCD 所生产的自我企业家——以[[Employability\|就业力]]和市场为导向、以意愿和激情为生产要素的主体性——正在全球范围内成为"心灵景观"（Moisio & Kangas, 2016, p.275, cit. by Zelinka, 2022, p.260）
@@ -386,7 +386,7 @@ updated: 2026-10-21
 
 排名通过多重地缘政治机制运作（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.132, 137–138]]）：
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **作为国家权力的标志** "排名构成了国家权力的标志之一"（Cantwell, 2016, p.316）——拥有顶尖排名大学可以提升国家的国际声望和软实力（[[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.138]]）
 > 2. **作为不平等合法化的工具** 排名"确认、巩固和再生产高等教育的声望和权力"（Marginson, 2009, p.600），将全球[[Knowledge Production\|知识生产]]中的资源差异和不均衡结构合法化为"自然的"等级秩序（[[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.132, 134]]）
 > 3. **作为全球竞争驱动者** 排名驱动"高等教育中的市场式竞争"（Marginson, 2014, p.47），使高等教育从"以社会为主的机构转变为经济政策的基石并负有地缘政治责任"（Hazelkorn, 2018, p.16）
@@ -407,7 +407,7 @@ updated: 2026-10-21
 > [!abstract] 核心主张：知识本身是地缘政治场域
 > 知识-认识论层揭示了 GPK 最深层的运作逻辑：控制何种知识被视为"有效"知识、何种认识路径被视为"科学"，本身就是一种地缘政治权力。
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **知识话语的主导性崛起** 知识话语自 2010 年起超越能源、石油等自然资源，成为地缘政治讨论最密集的主题（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.68]]）——"谁控制知识／谁定义何为有价值的知识"已成为新型地缘政治竞争的核心
 > 2. **排名作为知识秩序的认识论装置** 全球排名通过定义"卓越"的评价标准，将特定知识生产模式（英语发表、引用量逻辑、西方期刊体系）确立为普遍规范，对不符合这一知识型的机构进行系统性惩罚（详见 [[#全球排名作为 GPK 的核心治理机制]]）
 

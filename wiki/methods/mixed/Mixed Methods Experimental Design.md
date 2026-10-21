@@ -43,7 +43,7 @@ updated: 2026-06-02
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > [[Mixed Methods Research\|混合方法]]实验（干预）设计（Mixed Methods Experimental/Intervention Design）是一种复杂混合方法设计，将质性数据收集嵌入实验或干预过程中，使参与者的个人经验得以纳入研究。这要求研究者既理解实验设计又能够严格实施实验（如[[Randomised Controlled Trials\|随机对照试验]]），同时使用质性数据来丰富对实验过程和结果的理解([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.245]])。
 
 质性数据可以在实验的不同时间点加入（Sandelowski, 1996）：实验前、实验中或实验后。加入的时间点决定了嵌入的核心设计类型。
@@ -52,7 +52,7 @@ updated: 2026-06-02
 
 ## 研究程序
 
-> [!example]
+> [!example|notitle]
 > 质性数据嵌入实验的三个时间点和对应的核心设计([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.245–246]])：
 >
 > **1. 实验前——嵌入[[Exploratory Sequential Design\|探索性序列设计]]**
@@ -76,7 +76,7 @@ updated: 2026-06-02
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > - 适合健康科学领域的[[Randomised Controlled Trials\|随机对照试验]]和[[Intervention Research\|干预研究]]，该类型在健康科学中尤为流行。
 > - 当研究者不仅想知道"干预是否有效"，还想了解"为什么有效（或无效）""参与者的体验如何"时。
 > - 适合需要同时满足量化效度标准（实验设计）和质性深度理解（参与者视角）的资助项目。
@@ -86,7 +86,7 @@ updated: 2026-06-02
 
 ## 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - Betancourt et al. (2011) — 在卢旺达使用[[Mixed Methods Research\|混合方法研究]]来调整和评价一项家庭强化干预，先从[[Qualitative Interview\|质性访谈]]和[[Literature Review\|文献回顾]]出发开发文化适切的测量工具，再在实验干预中使用这些工具作为前[[Pre-test and Post-test\|后测]]评估([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.248]])。
 
 ---

@@ -42,14 +42,14 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 从统治到治理的转变描述了国家治理模式的变化。Government（统治）指传统的国家官僚机构自上而下的[[Bureaucracy|科层制]]管理，权力集中于国家机关。Governance（治理）指包括国家、国际组织、企业、大学、咨询公司、发展机构、区域集团和非政府组织等多元行动者共同参与的[[Network Governance\|网络化治理]]。这一转变并不一定意味着国家的削弱，但涉及教育治理在不同层级和不同类型行动者之间的分工（Dale, 2005, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
 
 ---
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 >
 > **网络国家**。为了保持或恢复合法性，国家适应并转变为「网络国家」，由国际、跨国、国家、区域、地方和非政府政治机构之间的复杂权力共享和协商决策网络构成（Castells, 2000, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
 >
@@ -63,7 +63,7 @@ updated: 2026-10-16
 
 ## 对教育政策研究的启示
 
-> [!info]
+> [!info|notitle]
 >
 > **权力部署方式的多样化**。有些权力机制直接与国家政策相关，有些松散相关，有些绕过国家政策，甚至与之矛盾。因此，[[Policy Borrowing\|政策借用]]概念的使用需要谨慎评估，因为它倾向于只关注国家政策([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
 >
@@ -75,7 +75,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Policy Borrowing\|政策借用]] — 政策借用倾向于只关注国家政策。从统治到治理的转变表明，权力的部署方式已经多样化，只关注国家政策会错过大部分机制。
 > - vs [[Network Governance\|网络治理]] — 网络治理是分析这一转变的具体概念工具，关注[[Policy Network\|政策网络]]和治理的变化。从统治到治理的转变是更广泛的现象描述。
 > - vs [[Actor-Network Theory\|行动者网络理论]] — ANT 提供了追踪多元行动者网络的方法论工具，有助于使绕过国家政策的权力关系变得可见。

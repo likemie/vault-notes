@@ -59,7 +59,7 @@ updated: 2026-10-16
 > 
 > [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p.138)]] 将其目的概括为：to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample.（首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，然后在大样本中检验该设计的或修改后的量化评估。）
 
-> [!quote]
+> [!quote|notitle]
 > "The purpose of this exploratory sequential design will be to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.138]])
 > 
 > 本探索性序列设计的目的是，首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，随后在大样本中检验这一设计的或修改后的量化评估。
@@ -145,7 +145,7 @@ updated: 2026-10-16
 
 ## 6. 方法变体与对比
 
-> [!tip]
+> [!tip|notitle]
 > - [[Explanatory Sequential Design\|解释性序列设计]]：顺序相反（量化在前），目的是解释结果而非开发工具。
 > - [[Convergent Design\|聚敛式设计]]：同时收集，不涉及工具开发。
 > - **工具开发研究 (Instrument Development Studies)** 探索性序列设计是将此类研究正名化并嵌入[[Mixed Methods Research\|混合方法]]框架的标准方案。
@@ -161,7 +161,7 @@ updated: 2026-10-16
 
 ## 8. 相关概念与理论
 
-> [!tip]
+> [!tip|notitle]
 > - [[Construct Validity]] in Quantitative Measurement — 第三阶段检验的核心指标。
 > - [[Coding in Qualitative Research]] — 第一阶段向第二阶段转化的基础。
 

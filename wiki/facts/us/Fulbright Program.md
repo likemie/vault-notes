@@ -43,7 +43,7 @@ updated: 2026-10-21
 
 ---
 
-> [!event-context]
+> [!event-context|notitle]
 > - **时间** 1946年
 > - **地点** 美国
 > - **关键主体** 美国联邦政府（参议员 J. William Fulbright 推动立法）

@@ -85,7 +85,7 @@ updated: 2026-10-17
 
 ## 生平与职涯
 
-> [!note]
+> [!note|notitle]
 > - 中国成长，大学阶段学习德语文学([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
 > - 1977 年通过文革后首届[[Gaokao\|高考]]，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge\|Li, 2012, pp.2–3]])
 > - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik\|教学理论]]，实质接受了具有德国色彩的[[Liberal Education\|博雅教育]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.3]])
@@ -104,21 +104,21 @@ updated: 2026-10-17
 
 ## 主要著作
 
-> [!abstract]
+> [!abstract|notitle]
 > - Li, J. (2012). *Cultural Foundations of Learning: East and West*. Cambridge University Press. — 系统比较东亚与西方两种文化学习模型，追溯其知识传统，分析两种模型如何影响儿童的学习信念与学习过程。
 
 ---
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 > Li 的核心理论主张是：东亚与西方各自拥有系统而完整的学习[[Cultural Models\|文化模型]]（cultural learning models），两种模型分别植根于不同的知识传统与价值取向，并在儿童的学习信念、情感与行为层面产生深远而系统性的差异。
 
 具体而言，Li 的研究以[[Heart and Mind for Wanting to Learn|好學心]]（[[Heart and Mind for Wanting to Learn]]）这一中国本土概念为切入点，对比欧裔美国精英学生对学习的理解，发现两种文化在学习的意义、目标、过程与情感维度上几乎没有重叠——尽管两种文化都重视学习、拥有悠久的智识传统和相似的教育制度([[Argument_Li_2012_Cambridge|Li, 2012, p.x]])。
 
 Li 的研究取向是描述性和解释性的（descriptive and interpretive），而非规范性（prescriptive），其目标是通过追溯各自的知识传统来"照亮"[[Cultural Models|文化模型]]对学习的塑造力量([[Argument_Li_2012_Cambridge|Li, 2012, p.x–xi]])。
 
-> [!quote]
+> [!quote|notitle]
 > "我的努力在于描述和解释，而非规定。……不同文化有不同的光照和回应方式。研究的任务就是让这些光照亮并记录它们的影响。"([[Argument_Li_2012_Cambridge\|Li, 2012, p.xi]])
 
 ### 第 2 章：两种文化学习模型
@@ -166,7 +166,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 ## 思想发展
 
-> [!note]
+> [!note|notitle]
 > Li 的研究议程诞生于一段曲折的跨文化思想历程，她称之为"锯齿般的智识之旅"（jagged intellectual journey）([[Argument_Li_2012_Cambridge\|Li, 2012, p.11]])。
 
 ### 浮士德困惑：中西学习观的初次碰撞
@@ -195,14 +195,14 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 这一认识使她最终从全盘否定中国文化的立场转向了重新发现其力量的立场——从"不停批评自己文化的人变成了发现了其优点的人"([[Argument_Li_2012_Cambridge|Li, 2012, p.xii]])。
 
-> [!quote]
+> [!quote|notitle]
 > "这种转变的智识立场帮助我既向西方大师学习，也重新学习我从自己文化中学到的东西。这种跨文化学习及其益处在于：先将陌生的变熟悉（西方），再将熟悉的变陌生（中国），然后将两者都吸收进自身，同时又将两者都作为持续思考的对象。"([[Argument_Li_2012_Cambridge\|Li, 2012, p.xii]])
 
 ---
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - 对跨文化学习研究领域的贡献：以中国本土概念而非西方心理学框架为出发点研究[[Chinese Learner\|中国学习者]]，推动了从"[[Deficiencies Model for an Introduction\|缺陷模型]]"向"文化差异模型"的[[Paradigm\|范式]]转变
 > - 师从 Howard Gardner 与 [[Kurt Fischer]]，深受其理论影响；Gardner 对 Li 的指导被 Li 描述为"西方学习的典范"([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
 
@@ -210,7 +210,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - Li 的研究以自传体[[Ethnography\|民族志]]（[[Autoethnography]]）为重要方法来源，第 1 章的个人经历构成了全书论证的经验基础。这种方法的优势在于深度与亲历性，但将个人体验直接上升为[[Cultural Models\|文化模型]]，存在从"我"到"我们"的归纳跳跃（Li 本人在前言中承认研究聚焦"一般文化取向"的局限，见 Li, 2012, p.xi）
 > - 六主题框架的提炼过程未在第 1 章中被方法论化——Li 没有说明她是如何从几百条童年回忆中筛选出恰好六个主题的，筛选标准不够透明
 > - "学习偏惠高能力者"作为西方学习传统第五主题，可能过于简化了西方教育内部对平等主义的长期追求——从[[John Dewey\|杜威]]的[[Democratic Education\|民主教育]]到当代多元文化教育运动，西方传统内部也存在大量反例

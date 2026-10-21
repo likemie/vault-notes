@@ -82,12 +82,12 @@ citation_aliases:
 
 ## 核心论点
 
-> [!tip]
+> [!tip|notitle]
 本章提出，当前高等教育正经历一种"新的[[Geopolitics of Knowledge|知识地缘政治]]"（New [[Geopolitics of Knowledge]]）——高等教育被整合进不同行动者在全球[[Knowledge-Based Economy|知识经济]]中确立和改善自身地位的政治经济想象和计算之中。这种整合不仅催生了对高等教育未来的（再）想象，而且正在重塑和转变高等教育的使命和基础设施。高等教育机构已成为知识密集型资本主义的核心场所——被同时视为专有知识（专利、创新）、创新学习环境和[[Human Capital Theory|人力资本]]及关联主体性（associated subjectivities）的主要生产场所(pp.36–39)。
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 本章从两条独立但有交集的[[Geopolitics of Knowledge|知识地缘政治]]讨论脉络出发，发展出一种综合[[Analytic Framework|分析框架]]：
 
 ### 脉络一：批判地缘政治学（Critical Geopolitics）
@@ -117,7 +117,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 本章的论证分为五个步骤展开：
 
 **第一步（§3.1 引言）：问题提出与概念定位。** 确立知识社会/[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的霸权地位——创新被热情拥抱为所有社会问题的万能解药，高等教育被置于当代社会未来讨论的核心。引出论证核心主张：高等教育正被整合进不同行动者的战略想象和计算之中，以确立和改善其在全球知识经济中的位置(pp.35–37)。
@@ -144,7 +144,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 - **"新[[Geopolitics of Knowledge|知识地缘政治]]"的出现** 创新、科研能力和教育被视为在全球经济竞争中取得成功的关键。高等教育机构成为知识密集型资本主义想象的核心——被同时视为专有知识、创新学习环境和驱动创新的主体性的主要生产场所。[[Knowledge Production|知识生产]]被整合进国家、区域和企业在全球经济中的战略定位(pp.38–39)
 - **知识范畴的三重窄化** 在这一语境中，"知识"主要指向：(a) 创意及相关创新在生产链中创造价值的角色；(b) 将知识商品化的尝试，包括专家、学者等生产知识的过程；(c) 关于政治社群作为[[Knowledge-Based Economy|知识经济]]体表现的数据的持续收集(Moisio, 2018, p.9, p.39)
 - **两条[[Geopolitics|地缘政治]]脉络的共构性**[[Classical Geopolitics|古典地缘政治]]和关系性地缘政治并非前后替代关系而是共构——如 RCEP 协议中既包含全球连接性的开放流动[[Discourse|话语]]，又包含国家层面的权力博弈（中国的战略计算旨在超越美国主导的 TPP），两者共同构成当代地缘政治的实际运作逻辑(pp.37–38)
@@ -155,13 +155,13 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “本章认为，在这种背景下，高等教育是新[[Geopolitics of Knowledge\|知识地缘政治]]的一部分，指的是将高等教育纳入不同行动者的想象和计算中，旨在主张和/或改善他们在全球[[Knowledge-Based Economy\|知识经济]]中的地位。”
 > ("The chapter argues that higher education, in this setting, is part of a New [[Geopolitics of Knowledge]] that refers to the integration of higher education in the imaginations and calculations of different actors aiming at asserting and/or improving their positions in the global [[Knowledge-Based Economy]].") (pp.36–37)
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 - 本章为概念性/理论性章节，未包含实证研究方法——所举案例（IEHs、Minerva）作为例证而非系统实证分析使用，其代表性和推广性有待独立检验
 - 后殖民/去殖民脉络主要以 1990–2000 年代的经典文献(Dussel, 1993; Mignolo, 2002)为基础，未充分纳入近年"南方[[Epistemology|认识论]]"(Connell, 2007, 2019)和"多元世界"建构(Escobar, 2018; Reiter, 2019)领域的最新发展
 - 两大传统的综合仍处于初步阶段——前者以空间配置和政治想象为中心，后者以认识论暴力和殖民性为中心，两者在[[Ontology|本体论]]和认识论前提上的张力尚未被充分理论化

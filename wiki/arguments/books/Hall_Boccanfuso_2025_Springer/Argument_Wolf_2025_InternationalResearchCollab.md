@@ -85,7 +85,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > - [[Stokes' Quadrant Model of Scientific Research]]，以[[Pasteur's Quadrant|巴斯德象限]]（Pasteur's Quadrant）为国际 UI 合作提供[[Epistemology\|认识论]]定位。大学的基础研究能力与产业的应用问题驱动相结合，合作自然落在"[[Use-Inspired Basic Research|应用启发的基础研究]]"（use-inspired Basic Research）区间(p.310)
 > - [[Dollinger et al. Framework for UI Collaboration]]，从环境、技术和管理三个因素评估国际合作，提供操作性基准工具(pp.316–317)
 > - [[Triple Helix]]，Rossoni et al.(2023)以此为第一个[[Theoretical Perspective\|理论视角]]评估 UI 合作的障碍因素，另两个视角为关系社会资本和[[Technology Transfer\|技术转移]](p.316)
@@ -94,7 +94,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 采用实践导向的综述与案例分析，非实证研究。方法包括：
 > - 对国际 UI 合作文献和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership\|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
 > - 一手实践经验来源于 Mars（Wolf and Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
@@ -262,7 +262,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - 国际 UI 合作的五重挑战（目标对齐、合作经验、知识产权、[[Geopolitics|地缘政治]]、文化沟通）呈现出从"要不要合作"到"能不能持续"的层层嵌套结构(pp.311–316)
 > - 共同选址作为空间策略，通过缩短物理距离同时降低沟通成本、增进文化理解和简化 IP 操作摩擦，系统性回应了五重挑战(pp.317–318)
 > - Mars and UC Davis 的合作序列展示了从问题驱动项目（AWD）到使命驱动网络（[[African Orphan Crops Consortium\|AOCC]]）再到制度化创新平台（[[Innovation Institute for Food and Health\|IIFH]]）的三阶段演化，每一阶段以前一阶段的信任积累为前提(pp.319–323)
@@ -278,17 +278,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "International research collaborations require time, clear communication, trust, and shared values."(p.309)
 
-> [!quote]
+> [!quote|notitle]
 > "Securing pre-negotiated rights is essential to ensure the long-term success of relationships throughout the licensing process. A '[[Pre-negotiated IP Rights\|first right to negotiate]]' can create uncertainty for companies, leaving them unsure of when or how they will gain access to the asset they are investing in."(p.314)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - Wolf and Stevenson 受雇于 Mars，Siegel 受雇于 UC Davis，案例选择基于自身参与经验，可能偏向正面呈现，无法代表所有类型的国际 UI 合作模式(pp.323–324)
 > - 未提供系统性的[[Literature Search\|文献检索]]方法或纳入排除标准，论据筛选标准不透明
 > - 三个案例均属于食品与农业领域，该领域的[[University-Industry Collaboration\|产学合作]]IP 敏感性可能低于制药或国防技术领域，因此"开放获取"策略的[[External Validity\|可推广性]]有限

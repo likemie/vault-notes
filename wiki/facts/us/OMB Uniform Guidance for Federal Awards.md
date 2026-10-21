@@ -42,12 +42,12 @@ updated: 2026-10-16
 
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > 管理与预算办公室（Office of Management and Budget, OMB）的 Uniform Guidance for Federal Awards（《联邦拨款统一指南》，编入 2 CFR 200）于 2014 年生效，规定了美国大学研究预算必须遵循的会计核算原则。在此之前，联邦拨款的财务管理分散在多个 OMB 通告中，如 A-21（教育机构成本原则）、A-110（高等教育机构统一行政要求）和 A-133（审计要求）。Uniform Guidance 将这些分散规则整合为单一框架([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, pp.263–264]])。
 
 ## 政策文本摘要
 
-> [!abstract]
+> [!abstract|notitle]
 > Uniform Guidance 的核心会计规则（pp.263–264）：
 
 > - **直接成本（Direct Costs）** 直接归属于特定资助项目的成本，包括雇员实际工资 × 工作月数 × 每月投入百分比、材料费、设备费和差旅费
@@ -58,17 +58,17 @@ updated: 2026-10-16
 
 ## 对大学研究预算的影响
 
-> [!note]
+> [!note|notitle]
 > 行政间接成本 26% 的上限意味着大学在制度设计上就被要求补贴研究项目——因为实际行政成本可能超过这一上限，而大学无法向联邦赞助方收取超出部分。此外，由于预算必须显示雇员实际工资而非按小时打包计费，企业在查看大学研究预算时常常感到不习惯——企业内部的研发成本核算通常不公开雇员工资，而是使用打包费率（fully loaded rates）（p.264）。
 
-> [!note]
+> [!note|notitle]
 > 在这种会计框架下，大学很少按小时构建研究预算，也几乎不使用完全打包时薪——尽管在[[Sponsored Research Agreement|产业赞助研究]]中这样做是允许的。此外，大学通常不在审计成本之上加收利润，进一步强化了其非营利的运作逻辑（pp.263–264）。
 
 ## 在产学合作中的角色
 
-> [!warning]
+> [!warning|notitle]
 > Uniform Guidance 在[[University-Industry Collaboration\|产学合作]]协议谈判中制造了一个具体的制度摩擦点。企业习惯于商业承包商的报价方式——不透明但全成本回收（包括利润）——而大学的预算是"透明但有补贴"的：企业可以看到每位教授的确切工资，但也必须接受大学实际上在以机构资金补贴研究项目（因为 26% 的行政成本上限不可突破）。
 
-> [!note]
+> [!note|notitle]
 > 产业赞助的[[Clinical Trial\|临床试验]]是这一规则的重要例外：许多临床站点成本按直接费用收取，间接成本费率低于典型的联邦费率，且临床成本按"[[Fair Market Value\|公平市场价值]]"（Fair Market VALUE）确定（p.264）。
 

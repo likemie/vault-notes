@@ -531,7 +531,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 1. **因果推论局限** 纳入的 18 项研究绝大多数为横断面[[Correlational Research\|相关设计]]（仅 1 项准[[Experimental Research\|实验研究]]），无法确立[[Epistemic Cognition\|认识论认知]]对学习成果的时序因果效应或发展因果链。（p.1, p.14）
 > 2. **样本范围边界** 样本严格限定于韩国 K-12 阶段中小学生，未涵盖高等教育群体，结论向其他东亚社会或非西方国家的普适性推广需进一步实证检验。（p.1, p.14）
 > 3. **测量工具的自陈偏倚与权威二元化缺陷** 纳入研究高度依赖自陈式[[Questionnaire\|问卷]]，且量表题项普遍将权威简化为“外在权威（朴素）vs. 内在经验（成熟）”的二元对立，未能充分反映现代多源信息与[[Generative Artificial Intelligence\|生成式人工智能]]情境下多方求证、算法批判与人机协作的复杂[[Epistemology\|认识论]]实践。（pp.13–15）

@@ -66,7 +66,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 本章未采用单一命名理论，而是以**全球化（globalization）** 和**去国家化（denationalization）** 两个视角贯穿分析。
 >
 > 核心前提来自 Suárez-Orozco and Qin-Hilliard(2004)：在全球化时代，知识的跨国流通已成为经济生产力的关键要素——固守本地、忽视全球力量的教育系统"可能变得过时"，而主动应对全球化挑战的系统"更有可能繁荣"(p.1)。
@@ -75,14 +75,14 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 汇集来自 [[OECD]]、IIE（[[International Education\|国际教育]]协会）、[[UNESCO]]、各国政府统计和主流媒体的二手数据，再结合已有学术文献的分析，拼接出一幅国际教育发展的全景图。
 >
 > 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国出国留学生人数），Slethaug 指出了这些差异但未系统评估各数据来源的[[Reliability\|可靠性]]。
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > Slethaug 的论证分为六个递进步骤，从最宏观的"教育为什么是地方事务"开始，一步步推到"[[International Education\|国际教育]]在无人察觉中爆炸了"和"[[Chinese Learner\|中国学习者]]的复杂性被低估了"。每一步都有具体的例子支撑。
 
 ### 第 1 步：教育传统上是地方和国家的"私有财产"
@@ -181,20 +181,20 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > **[[International Schools\|国际学校]]的规模与转型**
 > - 国际学校从约 50 所(1964)增至约 3,000 所(2005)，学生约 200 万(pp.22–23)
 > - 学生构成去国家化：创始国学生比例从 70%(1960)降至 30%(2005)(p.24)
 > - 国际学校已成为面向精英阶层的市场化机构：香港年费 US$10,000–20,000(p.26)
 > - 课程从国家课程转向 IB，语言设置从单一母语转向双语/三语(pp.27–28)
 
-> [!success]
+> [!success|notitle]
 > **[[Chinese Learner\|中国学习者]]的流动性与多元性**
 > - 1978–2003 年共 580,000 名中国学生赴美留学(p.17)
 > - 中国自身也成为留学目的地：外国学生从 61,869(2001)增至 140,000+(2005)(p.18)
 > - 中国学习者内部因地区、年龄、性别、宗教、经济和文化地位而极为多元——不存在单一类型的"中国学习者"(p.34)
 
-> [!success]
+> [!success|notitle]
 > **师资培训的系统性缺失**
 > - 全球仅极少数大学设有[[International Education\|国际教育]]专业项目，远不足以服务 200 万+ 学生、3,000+ 所学校的产业规模(pp.32–33)
 > - 这一缺口导致旧刻板印象延续和教学中的"智识殖民主义"持续运作(p.33)
@@ -209,13 +209,13 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “那些与民族国家公民的培养和局限于本地系统的消费者紧密相连，而忽视更大全球力量的教育系统，很可能会变得过时；而那些主动应对全球化新挑战的教育系统则更有可能蓬勃发展。”
 > ("Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive.")(Suárez-Orozco & Qin-Hilliard, 2004, p.23, 转, p.1)
 >
 > — 这是 Slethaug 全章的题眼：固守本地的教育体系将被淘汰，拥抱全球化的将繁荣。
 
-> [!quote]
+> [!quote|notitle]
 > “因此，也许比大多数主流学校更重要的是，[[International Schools\|国际学校]]必须面向市场。它们必须以目标客户能够承受的价格提供抢手的课程，并且必须关注不断变化的人口和经济力量。”
 > ("Perhaps more than most mainstream schools, therefore, [[International Schools]] must orient themselves to the market. They must provide curricula that are in demand at a price that can be afforded by their target clients, and must pay attention to changing demographic and economic forces.")(Yamato & Bray, 2006, p.60, 转, p.26)
 >
@@ -223,7 +223,7 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **数据[[Reliability\|可靠性]]** 本章高度依赖二手统计数据和媒体报道。不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍(pp.17–18)。Slethaug 指出了这些差异但未系统评估各数据来源的方法论质量。
 > - **核心概念未[[Operationalization\|操作化]]** 对"[[International Education\|国际教育]]""全球化""[[Knowledge-Based Economy\|知识经济]]"等概念的使用停留在常识层面，未进行批判性审视或操作化定义。"知识经济"作为一个有争议的概念被当作事实接受。
 > - **缺乏原创实证分析** 本章作为背景章节，论证主要是描述性和综合性的——这在全书结构中合理，但独立看时说服力有一定限度。

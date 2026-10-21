@@ -44,12 +44,12 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 协[[Analysis of Variance\|方差分析]]（Analysis of Covariance, ANCOVA）是 [[Analysis of Variance\|ANOVA]] 的扩展，在比较组间均值差异时控制一个或多个协[[Variable\|变量]]（covariates）的影响。它通过统计手段移除协变量对[[Dependent Variable\|因变量]]的效应后，比较调整后的组间均值（adjusted means），从而更精确地评估[[Independent Variable\|自变量]]对因变量的独立效应（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
 
-> [!example]
+> [!example|notitle]
 > Creswell & Creswell (2022, Ch8, Table 8.3) 提供的选择标准：
 > - [[Research Question\|研究问题]]性质：组间比较
 > - 自[[Variable\|变量]]数量：1 个或以上
@@ -63,20 +63,20 @@ updated: 2026-10-15
 
 ## 方法变体与相近方法
 
-> [!tip]
+> [!tip|notitle]
 > - vs [[Analysis of Variance\|ANOVA]] — ANOVA 直接比较组间均值；ANCOVA 在控制协[[Variable\|变量]]后比较调整均值。当各组在某一连续变量（如[[Pre-test and Post-test\|前测]]分数）上存在初始差异且该变量与[[Dependent Variable\|因变量]]相关时，ANCOVA 比 ANOVA 更合适。
 > - vs [[Multiple Regression\|多元回归]] — 多[[Meta-regression\|元回归]]使用连续[[Independent Variable\|预测变量]]；ANCOVA 同时包含类别自变量和连续协变量，可视为 ANOVA 和回归的混合形式。
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > - [[Experimental Research\|实验研究]]中，各组在[[Pre-test and Post-test\|前测]]分数上存在初始差异时，使用前测作为协[[Variable\|变量]]进行 ANCOVA 可以更准确地评估处理效应。
 > - [[Quasi-Experimental Designs\|准实验设计]]中，由于缺乏[[Random Assignment\|随机分配]]，各组可能在关键特征上不等价——ANCOVA 通过统计控制来减少这种选择偏差。
 > - [[Survey Research\|调查研究]]中，需要在控制人口学变量（如年龄、收入）后比较不同群体在某结果上的均值差异时（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - ANCOVA 假设协[[Variable\|变量]]与[[Dependent Variable\|因变量]]之间存在线性关系，且各组回归斜率相同（homogeneity of regression slopes）。若这一假设不成立，ANCOVA 的结果不可靠。
 > - 协变量应在处理之[[Pre-test and Post-test\|前测]]量——若协变量本身可能受到处理的影响，则使用 ANCOVA 是不适当的（因为控制处理效应的中介变量会人为削弱处理效应）。
 > - 与其他[[Analysis of Variance\|方差分析]]方法一样，对正态分布和方差同质性假设敏感。

@@ -38,7 +38,7 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 引言缺陷模型（Deficiencies Model for an Introduction）是 Creswell 提出的一种学术[[Research Introduction\|研究引言]]写作模板，其核心思路是在已有文献的缺口（deficiencies）之上构建研究的必要性。该模型包含四个部分：陈述[[Research Question\|研究问题]]、综述文献中关于该问题的已有证据、指出已有证据中的缺陷、说明该问题对特定受众的重要性（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 
 之所以称为"缺陷模型"，是因为该模型的一个主要组成部分是确立既往研究中的缺陷（deficiencies）。Creswell 对已发表研究文献的回顾表明，这个结构在社会科学领域尤其流行，反复出现在许多已发表的研究中（尽管不一定按照这里呈现的顺序）。

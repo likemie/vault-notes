@@ -50,7 +50,7 @@ updated: 2026-10-20
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 高等教育中的文化外交（Cultural Diplomacy）指国家利用高等教育机构——包括引入外国大学设立分校、建立精英教育合作伙伴、资助高端文化机构等——来提升国际形象、投射进步形象和扩大全球影响力的战略行为。与传统的军事或经济外交不同，文化外交通过"[[Soft Power\|软实力]]"（soft power, Nye, 2005）运作——不以强制或收买为手段，而是通过**吸引力**和**声誉关联**来影响他国精英和公众的认知([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.206–209]])。
 
 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 在分析[[International Education Hubs|国际教育枢纽]]时，将文化外交与政治经济并列为教育枢纽的两个核心运作维度。文化外交维度的关注点是：国家如何通过高等教育**不是**为了直接经济回报而进行投资，而是为了在"全球政治舞台上的位置和声誉"——这是一种"难以量化但无形回报可能很高"的长期战略([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.205, 208]])。
@@ -59,7 +59,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 - vs [[Soft Power|软实力]]（Soft Power）：软实力是文化外交的**理论基础**——Nye (2005) 提出的"通过吸引力而非强制力影响他者"的概念框架。高等教育中的文化外交是软实力在高等教育领域的具体运作形式
 - vs 公共外交（Public Diplomacy）：公共外交面向外国公众；高等教育文化外交同时面向**精英层**（通过培育他国未来政治和商业领袖）和**公众层**（通过博物馆、文化机构改善国家形象）
 - vs [[Internationalization of Higher Education|高等教育国际化]]：国际化以院校层面的跨境流动与合作为核心；高等教育文化外交是**国家层面**的、以[[Geopolitics|地缘政治]]目标为导向的战略性活动——大学在其中是工具而非主体
@@ -69,7 +69,7 @@ updated: 2026-10-20
 
 ## 运作机制
 
-> [!abstract]
+> [!abstract|notitle]
 > [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022, pp.206–209)]] 通过对新加坡和阿联酋的[[Case Study\|案例研究]]，识别出高等教育中文化外交的三种主要运作机制：
 
 ### 精英培育与区域影响
@@ -84,7 +84,7 @@ updated: 2026-10-20
 
 - **阿联酋案例** 阿布扎比利用石油财富全额资助 NYU Abu Dhabi、索邦大学阿布扎比、卢浮宫阿布扎比、古根海姆阿布扎比等机构的运营。"通过用外国高雅文化产物填充其文化景观，该酋长国将自己与这些产物的声誉关联起来"（p.208）
 
-> [!quote]
+> [!quote|notitle]
 > "The signaling is simple, but the effect on the country and the international reputation it has gained is enormous."([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p.208]])
 
 ### 叙事重构与话语生产
@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 与政治经济维度的关系
 
-> [!note]
+> [!note|notitle]
 > [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] 的分析揭示，文化外交维度和政治经济维度不是相互独立的，而是在同一枢纽项目中以不同方式组合：
 
 - **新加坡的时间交替模式** 文化外交先行（"[[Singapore Education Hub Policy|东方波士顿]]"、[[Lee Kuan Yew|李光耀]]公共政策学院），政治经济跟进（"全球校园"），但后者市场失败后政策重心回调至监管（pp.207–209）。详见 [[Singapore Education Hub Policy]]
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 - **绕开制度建设的软性工具**[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 指出，文化外交在威权和半威权国家中扮演着特殊角色——它允许这些国家在不进行社会和政治制度改革的情况下，仍然获得国际社会的"进步"认可。大学、博物馆和高端文化机构成为**替代**（而非补充）民主制度建设的合法性来源（pp.200, 211）
 - **大学的工具化代价** 当大学被用作文化外交工具时，其作为社会批判和民主促进场所的传统功能可能被系统性地压制。"大多数项目提供的是自然科学课程，而非社会科学"（p.212）——因为这恰好避免了大学在枢纽国家发挥社会批判功能的风险
 - **[[Soft Power|软实力]]排名的[[Performativity|表演性]]** 阿联酋在 2020 年全球软实力指数排名第 18 的"证据"本身建立在国家大量投资于排名相关指标的基础上——"软实力"在操作中可能从"被赢得的尊重"滑向"被购买的排名"
@@ -118,7 +118,7 @@ updated: 2026-10-20
 
 ## 相关案例
 
-> [!example]
+> [!example|notitle]
 - [[Singapore Education Hub Policy]] — "东方波士顿"战略和[[Lee Kuan Yew|李光耀]]公共政策学院是文化外交的时间先行模式
 - [[UAE Education Hub Projects]] — 阿布扎比的 NYUAD、索邦、卢浮宫是文化外交的空间分工模式的代表
 - [[International Education Hubs]] — 文化外交是所有 IEH 项目的共同维度

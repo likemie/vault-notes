@@ -41,19 +41,19 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 整合（Integration）是[[Mixed Methods Research\|混合方法研究]]的核心概念，指在单个研究或一系列研究中，将量化数据和质性数据的信息进行组合（combining）或"混合"（mixing）。整合包括两个层面：组合两类数据库的原因或"意图"（intent），以及实施这一组合的"程序"（procedures）([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.233]])。
 
 整合不是简单地将量化和质性结果并列报告，而是在分析层面建立两类数据之间有意义的对话。整合的具体方式取决于所采用的混合方法设计类型：[[Convergent Design|聚敛式设计]]通过合并（merging）来整合，序列设计通过连接（connecting）来整合，复杂设计通过嵌入（embedding）来整合。
 
-> [!quote]
+> [!quote|notitle]
 > "This 'mixing' or integrating of data provides a stronger understanding of the problem or question than either by itself."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.231]])
 
 ---
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 整合包含三个相互关联的维度([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.233–234]])：
 >
 > 1. **整合的意图（Intent of Integration）** 为何要组合两类数据——是为了比较（compare）、解释（explain）、构建（build）还是增强（augment）？
@@ -73,7 +73,7 @@ updated: 2026-10-15
 
 ## 整合分析
 
-> [!abstract]
+> [!abstract|notitle]
 > 整合分析的具体操作因设计类型而异，但都遵循一个基本逻辑：先分别分析两个数据库，再进行跨数据库的整合分析。
 >
 > **[[Convergent Design\|聚敛式设计]]的三阶段整合分析([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.238]])**

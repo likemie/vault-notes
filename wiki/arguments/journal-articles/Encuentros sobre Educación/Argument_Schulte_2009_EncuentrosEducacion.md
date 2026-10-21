@@ -75,14 +75,14 @@ citation_aliases:
 > [!question]
 > 一个外国教育思想家的影响力，究竟是思想本身的力量所致，还是接受国的知识分子按照自身议程对其主动塑造的结果？具体而言：[[John Dewey\|杜威]]（John Dewey）在 1919 年访华后的九十年间，经历了从"朋友"到"魔鬼"再到"现代化旗帜"的剧烈身份转换。这一现象如何解释？它揭示了教育思想跨国转移中的什么规律？
 
-> [!info]
+> [!info|notitle]
 > 该研究属于教育史与比较教育的[[Comparative Education as a Cross-Sectional Area|交叉领域]]，采用的是历史[[Discourse Analysis\|话语分析]]（historical [[Discourse]] analysis）：以中国学术界和教育界围绕[[John Dewey\|杜威]]的出版文本（期刊文章、演讲记录、政策文件）为主要素材，追踪同一个教育思想家的话语形象如何在不同政治时期被彻底重构。覆盖时段从 1919 年到 2009 年，共九十年、四个时段。不是实证研究，不对政策效果做[[Causality\|因果推断]]。
 
 ---
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 贯穿全文的核心分析概念是 **[[Recontextualization\|再脉络化]]（recontextualization）** 外国思想在进入接受国之后，不是被"正确理解"或"误读"的二元选择，而是接受者根据自身的集体经验、意识形态议程和个人网络，主动从原始思想中**选择性拾取**某些元素、**忽略或扭曲**另一些元素、再将其**重新嵌入**本土[[Discourse|话语]]结构的过程(pp.68–69)。
 
 > [!example] 为什么不是"误解"？
@@ -100,7 +100,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > - **方法类型** 历史[[Discourse Analysis\|话语分析]]，不属于实证研究，而是对公开学术出版物和政策文本的纵向比较分析
 > - **主要素材** 1910 年代至 2000 年代中国学者围绕[[John Dewey\|杜威]]发表的中文期刊文章、会议论文集、报刊报道。以 Cao Fu(1950)、Che Wenbo(1956)、Wang Tianyi(1982)、Chen Hancai(1981)等关键作者的阶段性标志文章为主要分析节点
 > - **分析逻辑** 对每个时段提炼出围绕杜威的核心论题（如"[[Pragmatic Paradigm\|实用主义]]""以儿童为中心""教育无目的论"），追踪同一论题的评价如何在四个时段之间发生逆转，并解释每次逆转背后的政治-意识形态驱动力
@@ -112,7 +112,7 @@ citation_aliases:
 
 ### 步骤 1：起点观察："杜威在中国影响力最大"这个共识本身就值得追问
 
-> [!info]
+> [!info|notitle]
 > 论证从一个看似平淡的共识出发：中国研究者普遍认为，[[John Dewey\|杜威]]在中国的影响力是"例外的"（exceptional），不仅因为影响特别深，还因为有一种广泛的说法：杜威在中国的影响"比在任何其他地方都大，包括美国"（Zhou Ye 2005，引自 p.70）。
 
 > 这个共识隐含了一个需要解释的谜题：为什么是杜威？为什么是中国？如果杜威的思想本身具有普适力量，为什么在日本的接受就远不如中国成功？（在日本，德国/传统模式的霸权地位阻碍了对杜威思想的认真考虑，p.77。）
@@ -123,7 +123,7 @@ citation_aliases:
 
 ### 步骤 2：提出核心机制：再脉络化，而非"误解"
 
-> [!abstract]
+> [!abstract|notitle]
 > 针对上述问题，分析提出一个关键区分：外国思想在本土的变形不应被框架化为"误解"（misunderstanding），而应理解为 **[[Recontextualization\|再脉络化]]（recontextualization）**。
 
 > 具体来说，这意味着[[John Dewey\|杜威]]的思想（无论是他本人亲自宣讲的、还是通过著作传播的）提供了一个"丰富的思想与意识形态储备库"（rich repertoire of ideas and ideologies，p.68），中国知识分子从中根据自身需要选择性地拾取和改造。这个过程不是对杜威的"背叛"，而是思想跨文化转移的常规机制。
@@ -142,7 +142,7 @@ citation_aliases:
 
 ### 步骤 3：揭示再脉络化的前提条件：杜威进入中国时已经"不中立"了
 
-> [!info]
+> [!info|notitle]
 > 再脉络化不是从零开始的。四个前置条件使得杜威从一开始就深度嵌入中国的精英网络和[[Discourse|话语]]结构中：
 
 > **第一，人事网络**。杜威在哥伦比亚大学的中国学生（[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]、[[Jiang Menglin\|蒋梦麟]]等人）回国后占据了北京大学、南京高等[[Normal School\|师范学校]]等关键教育机构的领导职位，并参与了 1915–1922 年间制定新教育体系的核心组织。这些学生不是中立的翻译者，而是有自己的改革议程的行动者(p.73)。
@@ -157,7 +157,7 @@ citation_aliases:
 
 ### 步骤 4：第一时段的再脉络化：如何在民国时期（1912–1949）把杜威变成"朋友"
 
-> [!abstract]
+> [!abstract|notitle]
 > 民国时期的接受看似是杜威思想自身魅力的自然结果，实际上是三个再脉络化机制同时运作的产物。
 
 #### 机制 1：[[Hu Shi|胡适]]的极端化转译
@@ -187,7 +187,7 @@ citation_aliases:
 
 ### 步骤 5：第二时段的再脉络化：如何在毛泽东时代（1949–1976）把杜威变成"魔鬼"
 
-> [!abstract]
+> [!abstract|notitle]
 > 1949 年后斯大林主义在中国的确立带来了对杜威的全面否定。但关键不在于"否定"本身，在于**选择哪些点来攻击以及为什么选这些点**。被挑出来批判的三个靶子，每一个都对应着马克思主义世界观中的一条核心信念。
 
 #### 靶子 1："自然主义"：因为威胁了"社会可以朝预定方向被改造"的信念
@@ -220,7 +220,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ### 步骤 6：第三时段的再脉络化：如何在 1980 年代把杜威变成"现代化旗帜"
 
-> [!abstract]
+> [!abstract|notitle]
 > 文革结束后，杜威的恢复不是直接的正名（这在政治上仍然太危险），而是通过两个间接渠道实现的。
 
 #### 间接渠道 1：把四人帮反称为"实用主义者"
@@ -248,7 +248,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ### 步骤 7：第四时段的再脉络化：如何在当代（1990s–2009）把杜威变成"改革工具"
 
-> [!abstract]
+> [!abstract|notitle]
 > 1990 年代至今，杜威在中国的使用进入了一个新阶段：他不再只是一个被"接受"或"拒绝"的外国思想家，而是被部署在多个政策战场上的**正当性资源**，一个话语工具。
 
 #### 战场 1：素质教育（suzhi jiaoyu）的理论代言人
@@ -273,7 +273,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ### 步骤 8：总结：杜威的三重变形
 
-> [!success]
+> [!success|notitle]
 > 综合四个时段的分析，可以识别出杜威在中国经历了三次结构性的身份转换(pp.93–94)：
 
 > **第一次变形** 从科学的对立面（1950 年代的"反科学"指控）变为创新科学的象征（1980 年代的"科学态度"与"实验方法"旗手）。同一个"实验主义"概念，从需要被批判的西方资产阶级货色变成了中国现代化急需的科学精神。
@@ -288,7 +288,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - [[John Dewey\|杜威]]在中国的影响力并非由其思想的内在质量单独决定，而是因为其思想体系具有**高可塑性（malleability）**，作为一个"丰富的思想与意识形态储备库"，不同的行动者可以从中选取不同的元素来服务截然不同、甚至相互矛盾的政治议程(pp.68, 93–94)
 > - 外国教育思想在本土的变形不应被框架化为"误解"——"误解"框架假设存在一个"正确理解"的标准，同时将接受者视为被动的认知失误者。更准确的[[Analytic Framework\|分析框架]]是 **[[Recontextualization\|再脉络化]]（recontextualization）** 接受者是主动的、有目的的行为者，他们基于自身的集体经验、意识形态议程和个人网络来选择性拾取、扭曲和重新嵌入外来思想(pp.68–69)
 > - [[Hu Shi\|胡适]]对[[Pragmatic Paradigm\|实用主义]]的极端化转译（将"education is life"中的[[Pragmatic Paradigm\|实用主义]]从一种温和的哲学方法重构为"打倒迷信的唯一武器"）是再脉络化的经典案例，它为后来来自各种立场的批评者攻击杜威提供了便利，也反过来说明中介人在思想转移中的关键塑造作用(pp.72–73)
@@ -300,19 +300,19 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “[[John Dewey\|杜威]]并不是简单地被‘误解’了，正如一位杜威思想研究者在阅读 1950 年代中国关于杜威的文章时可能直觉感受到的那样。相反，杜威——无论是他本人还是通过他的著作——提供了一个丰富的思想和意识形态储备库，中国知识分子热切地采纳或猛烈地拒绝这些思想，以此为他们关于未来中国应该是什么样子的论证提供动力。”
 > ("Dewey was not simply 'misunderstood,' as a researcher in Deweyan thought might intuitively perceive when reading, for instance, Chinese articles on Dewey from the 1950s. On the contrary, Dewey — both in person and through his writings — offered a rich repertoire of ideas and ideologies which Chinese intellectuals eagerly took up or vehementely rejected to fuel their arguments about what China should be like in the future.")(pp.68–69)
 
-> [!quote]
+> [!quote|notitle]
 > “对约翰·杜威（John Dewey）的热情或批评，不仅仅是关于杜威的思想。至少在表面之下，它也关乎那些与他的哲学和教育思想联系在一起的中国本土概念和意识形态。”
 > ("The enthusiasm or criticism towards John Dewey was not only about Deweyan ideas. At least below the surface, it was also about Chinese concepts and ideologies that were associated with his philosophy and educational thought.")(p.70)
 
-> [!quote]
+> [!quote|notitle]
 > “杜威并不仅仅代表概念上的想象。通过他作为大量中国学生的老师和导师的角色，通过他亲自且长期对该国的访问，以及后来通过他个人对托洛茨基审判的参与，他不仅是或多或少抽象思想和理论的化身，更是一个能够在中国知识分子中唤起钦佩、不信任甚至仇恨的人格实体。”
 > ("Dewey did not just represent conceptual imaginaries. Through his role as teacher and mentor of a large number of Chinese students, through his personal and prolonged visit to the country, and, later, through his personal involvement in the Trotsky trial, he was not only the embodiment of more or less [[Abstract]] ideas and theories, but a personality who could arouse admiration, distrust, or even hatred among Chinese intellectuals.")(p.69)
 
-> [!quote]
+> [!quote|notitle]
 > “约翰·杜威——或者更确切地说是‘杜威（Duwei）’——确实已经变得既‘红’又‘专’了。”
 > ("John Dewey — or rather Duwei — has indeed become both 'red' and 'expert.'")(p.93)
 
@@ -320,7 +320,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - 该研究的分析素材以公开发表的中文文献为主，对各个时期实际政策制定过程的链接为间接推断，未系统利用未公开的档案材料或内部政策讨论记录
 > - 不同时段资料覆盖不均衡：民国时期和 1980 年代的出版物较为丰富，1950–1960 年代因政治环境限制，可获得的文本在数量和类型上存在偏差；1990 年代后的资料量大但选择性较强
 > - 该研究聚焦于学术精英和官方出版物中的[[John Dewey\|杜威]][[Discourse|话语]]，未涉及课堂实践层面。教师在日常教学中如何理解和使用杜威、杜威思想在非正式教育空间中的传播，均不在分析范围内

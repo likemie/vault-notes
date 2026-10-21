@@ -53,7 +53,7 @@ updated: 2026-09-11
 
 ## 核心思想
 
-> [!abstract]
+> [!abstract|notitle]
 > Eddy 在 The Challenge of Russia 中提出了承认苏联的四项论据([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.107]])：
 >
 > 1. **先例原则**——美国曾承认一战期间的德国等在意识形态和制度上存在重大差异的国家，承认苏联与此一脉相承
@@ -63,13 +63,13 @@ updated: 2026-09-11
 >
 > 在教育章节中，Eddy 将 Dewey 1928 年访苏观察作为关键经验证据，用 Dewey 的结论——苏联人民营养良好、普及教育规模巨大——来表明苏联并非美国公众想象中的落后和混乱，而是一个值得认真对待和接触的国家([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.107–108]])。
 
-> [!quote]
+> [!quote|notitle]
 > "an experiment by all means the most interesting one going on upon our globe"（Eddy, 1931, p.119, cited in [[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.107]]）
 > 
 > 在我们的地球上正在进行的各种实验中，毫无疑问是最有趣的一个。
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - The Challenge of Russia 是 1933 年美国正式承认苏联之前，由美国知名宗教-教育人士撰写的、以一手观察为基础的、系统论证承认苏联的代表性著作之一([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.107–108]])。
 > - Eddy 的工作展示了 Dewey 访苏在美国国内政治辩论中的传播路径：Dewey 的观察 → 被 Eddy 引用于承认苏联的论证中 → 进入更广泛的美国公众讨论。

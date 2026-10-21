@@ -53,14 +53,14 @@ updated: 2026-10-16
 > - **用途** 作为[[Technology Transfer\|技术转移]]的非法渠道，它帮助分析后发国家如何绕过合法渠道（贸易、FDI、许可）获取前沿技术知识。
 > - **边界** 与合法的"竞争情报"（competitive intelligence，收集公开可得信息）存在灰色地带；并非所有秘密信息获取都涉及商业秘密盗窃——[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] 指出斯塔西接收的情报中相当一部分可能是本就公开的信息（p.1061）。
 
-> [!info]
+> [!info|notitle]
 > Søilen (2016) 区分了两种知识间谍活动：经济间谍（economic espionage）指"政府收集信息、侵占商业机密和窃取知识的努力"；工业间谍（industrial espionage）则无政府参与（Søilen, 2016, p.52; 引自 Partaken, 2022, p.78）。两者共同构成[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）中[[Knowledge Transfer\|知识转移]]的关键非法模态。对于无法负担昂贵 R&D 的发展中国家和产业而言，间谍活动提供了获取知识的"捷径"——虽然短期成本效益高，但其本身就是内部和外部冲突的来源([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.77, 79]])。
 
 ---
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > - 1450–1550 年：威尼斯出现原始专利法，表明对知识产权的争夺早于工业时代（Prager, 1944; 引自 Partaken, 2022, p.77）
 > - 18 世纪：英法之间围绕煤燃料技术[[Knowledge Transfer\|知识转移]]的工业间谍（Harris, 1998; 引自 Partaken, 2022, p.77）
 > - 1970 年：专利合作条约（Patent Cooperation Treaty）由八国签署，国际专利法律体系开始建立([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.70]])
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > Partaken 总结了经济和工业间谍的几个关键特征([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.77–79]])：
 > - **历史上"较弱方"的策略** 从事间谍活动的一方往往是"科学和工业上较弱的一方，正在学习或试图追赶的一方"（Søilen, 2016, p.51）
 > - **经济间谍作为中美紧张的核心理由** 美国对华贸易争端中，[[Technology Transfer\|技术转让]]限制（合法或非法）是美国的核心目标([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.78]])
@@ -90,7 +90,7 @@ updated: 2026-10-16
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - [[Sino-American Trade War]] — 经济间谍指控是中美贸易战的核心议题
 > - [[US-China Economic and Security Review Commission]] — 美国监控中国经济间谍的主要制度机制
 > - [[Thousand Talents Program]] — 被美方视为经济间谍的制度化形式的典型案例
@@ -99,7 +99,7 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **间谍活动有效性的方法论问题**[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] 对东德经济间谍的研究虽提供了"有力证据"，但东德案例是否具有普遍性存疑——东德与西德共享语言和文化，且间谍活动发生在冷战两极结构的特殊条件下。将这一单一案例的结论推广到其他 [[Geopolitics of Knowledge\|GPK]] 情境（如中美）需要更审慎的方法论检验([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.77]])
 > - **"较弱方"叙事的历史简化**Søilen (2016) 的"历史上从事间谍活动的一方始终是科学和工业上较弱的一方"这一论断，可能简化了更复杂的历史现实——冷战期间美苏双方均从事大规模间谍活动，难分强弱。该简化叙事隐含地将间谍活动"自然化"为追赶型国家的合理策略([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.77–78]])
 > - **自我孤立悖论的因果方向** Partaken 论证依赖间谍获取知识的国家可能"悖论性地转向内部，远离对引领真实创新至关重要的全球知识流动的开放"——但这一因果链条的方向可以反过来理解：是国家首先因制裁或结构性排斥而无法通过合法渠道获取知识，然后才转向间谍活动。Partaken 的分析倾向于将间谍活动视为自我孤立的"原因"而非"症状"([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.79]])

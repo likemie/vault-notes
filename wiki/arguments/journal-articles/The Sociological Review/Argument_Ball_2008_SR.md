@@ -135,11 +135,11 @@ citation_aliases:
 > “教育社会学创造了‘可能性的条件’和一种‘权力的光学’”
 > ("the sociology of education has created the 'conditions of possibility' and an 'optics of power'")(p.651)
 
-> [!quote]
+> [!quote|notitle]
 > “教育不再是解决方案，而成了问题所在。”
 > ("Education was no longer the solution but the problem.")(p.657)
 
-> [!quote]
+> [!quote|notitle]
 > “有效性作为一种正常化的技术在运作。”
 > ("effectiveness operates as a technology of normalisation.")(p.664)
 

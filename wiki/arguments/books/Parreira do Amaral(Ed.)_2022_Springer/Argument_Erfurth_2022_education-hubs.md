@@ -82,7 +82,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 
 本章采用 [[Cultural Political Economy|文化政治经济学]](Sum & Jessop, 2013)作为概念框架。其核心主张是：文化（非物质-符号）维度与结构-物质维度应被同等分析，而非像传统政治经济学那样侧重后者(p.202)。
 
@@ -96,7 +96,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 
 - 研究设计：[[Comparative Case Study|比较案例研究]]（Comparative [[Case Study]], Bartlett & Vavrus, 2017），通过三个轴比较新加坡和阿联酋——水平轴（不同地点相似政策如何展开）、垂直轴（跨尺度关注）、横贯轴（历时追溯 1990–2018 年间现象的变迁）。本章重点使用横贯维度(p.202, 204)
 - 分析方法：**批判[[Discourse Analysis|话语分析]](Critical Discourse Analysis, Fairclough, 2003)**，结合文本分析与社会理论分析，考察教育枢纽如何被[[Discourse|话语]]性地生产、话语建构如何沉淀为社会结构(p.202)
@@ -165,7 +165,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 
 - 新加坡和阿联酋的教育枢纽项目是**国家主导**的[[Geopolitics|地缘政治]]项目，旨在减轻对国际组织的依赖、获得更大全球政治[[Discourse|话语]]权(p.205)
 - 教育枢纽的"政策混合体"（policy-mix）远超出高等教育领域——需纳入发展经济学、[[Cultural Diplomacy|文化外交]]和地缘政治等多重视角才能充分理解(p.205)
@@ -183,22 +183,22 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "教育枢纽在国家层面普遍存在，被定义为'有计划的努力，以建立本地和国际行动者的关键规模，战略性地参与跨境教育、培训、[[Knowledge Production\|知识生产]]和创新活动'"(Knight, 2014, p.20, cited in p.203)
 
-> [!quote]
+> [!quote|notitle]
 > "阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上。他的指导策略是向所有文化和人民展示友谊，推广温和伊斯兰教，并为与所有国家的互利合作而努力"(MoFAIC, 2020, cited in p.208)
 
-> [!quote]
+> [!quote|notitle]
 > "本章的分析表明，政策和治理在阿联酋主要在联邦酋长国层面驱动，至少在阿布扎比和迪拜是如此"(p.206)
 
-> [!quote]
+> [!quote|notitle]
 > "2020 年，阿联酋在地区排名第一、全球软实力指数排名第 18。这证明了国家持续致力于确保机遇、创新、发展和宽容的环境"(MoFAIC, 2020, cited in p.208)
 
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 
 **作者自述局限(pp.212–213)**
 - 仅聚焦新加坡和阿联酋两个案例，限制了规模和适用范围，无法对教育枢纽现象做出一般性假设

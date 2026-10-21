@@ -50,14 +50,14 @@ updated: 2026-10-20
 
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > Innovation Union（创新联盟）是[[EU|欧盟]] [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一，由欧盟委员会和欧盟理事会自 2010 年起部署。其远景植根于 1990 年代欧盟创始条约中对创新的法律架构，以及 2001 年[[Lisbon Strategy\|里斯本议程]]（Lisbon Agenda）首次将创新原则转化为政策目标的尝试([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169]])。
 >
 > 提出背景包括：欧盟成员国面临财政紧缩、人口结构变迁以及全球市场竞争中新兴挑战的加剧。欧盟官方立场认为，需要发明新方法、产品、路径和实践来应对这些问题(European Commission, 2010; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
 
 ## 政策文本摘要
 
-> [!abstract]
+> [!abstract|notitle]
 > Innovation Union 旨在构建覆盖全[[EU|欧盟]]的"[[Innovation Ecosystem\|创新生态]]体系"（innovation eco-system）。该政策同时具有两个维度([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168, 170–171]])：
 >
 > **[[Competitiveness|竞争力]]维度** 强调全球市场中的创新竞争力，核心目标包括：
@@ -69,7 +69,7 @@ updated: 2026-10-20
 >
 > 两项维度共同服务于 [[Europe 2020 Strategy]] 的总目标：促进智能、可持续与包容性增长（[[Start Making a Reader Today]], sustainable and inclusive growth）。
 
-> [!quote]
+> [!quote|notitle]
 > "The Innovation Union introduced a more strategic and broad approach to innovation by including actions that aimed to tackle both the supply and demand side elements of the innovation eco-system: the public sector, businesses, academia and finance."（European Union, 2015，引用于 Rambla, 2022, p.172）
 
 ### 核心政策工具：区域创新记分牌
@@ -78,7 +78,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 时间线
 
-> [!note]
+> [!note|notitle]
 > - 1990 年代：[[EU|欧盟]]创始条约为 Innovation Union 提供了法律架构建构([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])
 > - 2001 年：[[Lisbon Strategy\|里斯本议程]]首次尝试将创新原则转化为可操作的政策目标（p.169）
 > - 2010 年：[[Europe 2020 Strategy]] 启动，Innovation Union 成为旗舰倡议（p.168）
@@ -87,7 +87,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 实施情况
 
-> [!example]
+> [!example|notitle]
 > Innovation Union 要求多元利益相关方参与[[Innovation Ecosystem\|创新生态]]体系构建，并为其分别分配了责任和行动(European Union, 2015; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])：
 >
 > - **公共部门** 提供监管框架和公共研发投资
@@ -99,7 +99,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 效果与评价
 
-> [!success]
+> [!success|notitle]
 > - Innovation Union 成功将"[[Innovation Ecosystem\|创新生态]]体系"建构为[[EU|欧盟]]政策[[Discourse|话语]]中的核心概念，使区域成为创新政策的基本治理单元([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.175]])
 > - 政策通过[[Performance Indicators\|绩效指标]]和区域排名有效地动员了各成员国和区域的竞争意识（p.165）
 
@@ -114,14 +114,14 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 ## 争议与评论
 
-> [!warning]
+> [!warning|notitle]
 > - **区域同质化假设** Innovation Union 假设所有[[EU|欧盟]]区域——无论其经济发展水平、制度传统和创新能力如何——都应且能够成为同一类型的"[[Innovation Ecosystem\|创新生态]]体系"。这一假设忽视了区域之间在产业结构、[[Human Capital Theory\|人力资本]]、制度能力等维度上的根本结构性差异([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
 > - **创新定义的窄化** 通过将创新[[Operationalization\|操作化]]为研发支出、专利数量和科技人员数量，Innovation Union 在[[Discourse|话语]]上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
 > - **与 [[EU Skills Agenda]] 的协调问题** 两个旗舰政策共享"协同演化"的[[Theory of Change\|变革理论]]（[[Theories of Policy Change]]），但在治理实践中，通过模糊此前分离的政策领域边界，为代表不同层级政府的行动者带来了大量协调问题——这些在政策设计中未被充分预见（p.169）
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip|notitle]
 > - [[Performance Indicators]] — 区域创新记分牌是绩效指标作为政策工具的典型案例
 > - [[Theories of Policy Change]] — Innovation Union 承载"[[Innovation Ecosystem\|创新生态]]体系→经济增长"的核心因果叙事
 > - [[Selectivity]] — Innovation Union 通过指标定义"什么是创新"，系统性地优先技术研发型创新

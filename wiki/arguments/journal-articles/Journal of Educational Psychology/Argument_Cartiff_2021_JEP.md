@@ -542,7 +542,7 @@ journal: "Journal of Educational Psychology"
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - **纳入文献与样本规模有限** 符合实验与准实验严格标准的[[Intervention Research\|干预研究]]总计仅 26 篇（28 个样本），导致部分亚组检验的统计功效相对有限（如[[Procedural Knowledge\|程序性知识]]仅 1 项研究，成人样本仅 2 项研究），可能存在因[[Sample Size Determination\|样本量]]较小而未检测出的真实差异。（pp. 492–493）
 > - **[[Construct\|构念]]主观性与[[Nature of Science\|科学本质]]排除** 为保证[[Epistemic Cognition\|认识论认知]]构念的纯度，研究严格排除了单纯针对科学本质（NOS）的文献和泛化的数学解题信念干预，虽然提升了结论的聚焦度，但也相应限制了样本总量。
 > - **学科覆盖主要偏向理科** 纳入的干预研究中有超过 80% 集中在科学与物理学科，人文学科、历史与跨学科领域的干预研究相对匮乏，跨学科推广结论时需保持审慎。

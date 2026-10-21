@@ -53,7 +53,7 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 空间分选（Spatial Sortings）是 [[Sami Moisio]]（2022）在分析[[Knowledge-Based Economization\|知识经济化]]的极化效应时使用的概念，指知识密集型资本主义系统性地将地点和人口划分为**赢家**与**输家**的过程：某些地点和人口被置于发展和资本积累的中心，而其他地点和人口被边缘化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]])。
 
 Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些地点和人口置于发展和资本积累的中心，同时将其他地点和人口边缘化——这不是市场的自然结果，而是由公共和私人投资驱动、国家中介的结构性过程([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
@@ -64,7 +64,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - **vs 区域不平等 (Regional Inequality)** 区域不平等是描述性概念，指地区间经济指标的差异；空间分选是过程性概念，关注产生和维持这种不平等的机制——特别是政策和投资如何分选空间。
 > - **vs [[Fixity-Motion Tension]]** Harvey 的固着-流动张力解释为什么资本主义不断创造和摧毁空间配置；空间分选描述这一过程的具体结果——谁被包含、谁被排斥。
 > - **vs 绅士化 (Gentrification)** 绅士化关注城市内部社区层面的空间置换；空间分选关注更宏观的尺度——城市群与农村地区之间、大型枢纽城市与较小城市群之间的分化。
@@ -73,7 +73,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > 空间分选的运作可以从四个递进层面理解：从空间层面的包容-排斥双运动，到政策层面的投资与规划中介，再到主体层面的赢家-输家分化，最后到时间层面的锁定与自我强化——四层命题共同构成空间分选的完整机制链条。
 
 > [!line-a] 包容-排斥与中心-边缘的双重运动
@@ -110,7 +110,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ## 理论语境
 
-> [!tip]
+> [!tip|notitle]
 > - Sassen (2010) 的**驱逐（expulsion）** 概念——
 > 
 > > "the core organizing logic of the POST-Keynesian world is not to VALUE people as workers and consumers, but to expel people and to destroy traditional capitalism to feed high finance and high tech" (cited in Moisio, 2022, p. 31)
@@ -127,7 +127,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ### 知识经济化与教育枢纽中的空间分选
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **枢纽与边缘的分化** 增长潜力集中在 [[Knowledge-Based Economy\|KBE]] 的城市枢纽中，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.30]])。
 > 2. **三次演变中的空间分选模式** 从晚期凯恩斯主义技术极化到智能性城市政策再到创业经济——每次演变都重新配置了空间赢家与输家的版图([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.29–30]])。
 > 3. **三个核心[[Research Problem\|研究议题]]** [[Argument_Moisio_2022_Springer\|Moisio (2022, pp.31–32)]] 确定了空间分选研究的三个方向：
@@ -143,7 +143,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ### 中国 EST 一体化中的空间分选：赢家-输家格局的量化证据
 
-> [!abstract]
+> [!abstract|notitle]
 > Fan 等（2024）对中国 30 个省份 2001–2022 年教育-科技-人才（EST）一体化发展的耦合协调分析，为空间分选提供了一个完整的量化实证案例——它不仅记录了赢家-输家的空间分布，更通过 LISA 时空路径和[[LISA Spatiotemporal Transition\|空间转移矩阵]]量化了分选格局的自我强化机制。
 
 > [!line-a] EST 发展的东中西梯度分选
@@ -190,7 +190,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ## 相关概念
 
-> [!example]
+> [!example|notitle]
 > - [[Hub and Flow Imaginaries]] — Hub and [[Flow]] 想象是驱动空间分选的认知框架：将世界划分为枢纽和边缘，为空间分选提供合法性。
 > - [[Fixity-Motion Tension]] — 空间分选是固着-流动张力的具体空间表现：被固着投资的枢纽成为赢家，资本流动放弃的地区成为输家。
 > - [[Geopolitical Subject]] — 空间分选的主体维度：地缘政治主体的形塑过程决定了谁成为全球竞争的赢家、谁被排斥为输家。

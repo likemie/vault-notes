@@ -60,7 +60,7 @@ updated: 2026-10-20
 > [!info] 定义
 > 解释性序列设计（explanatory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.137]])。
 
-> [!quote]
+> [!quote|notitle]
 > "An explanatory sequential mixed methods design will be used, and it will involve collecting quantitative data first and then explaining the quantitative results with in-depth follow-up qualitative data."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.137]])
 > 
 > 将采用解释性序列混合方法设计，这涉及首先收集量化数据，然后通过后续的深入质性数据来解释量化结果。
@@ -144,7 +144,7 @@ updated: 2026-10-20
 
 ## 6. 方法变体与对比
 
-> [!tip]
+> [!tip|notitle]
 > - [[Convergent Design\|聚敛式设计]]：同时进行 vs. 序列进行；聚敛式是互证，解释性是驱动与解释。
 > - [[Exploratory Sequential Design\|探索性序列设计]]：顺序相反（质性在前）；目的是开发工具而非解释结果。
 
@@ -183,7 +183,7 @@ updated: 2026-10-20
 
 ## 8. 相关概念与理论
 
-> [!tip]
+> [!tip|notitle]
 > - [[Purposeful Sampling]] — 序列设计中连接两阶段的关键抽样策略。
 > - [[Metainferences]] — 整合解释阶段的最终产出。
 

@@ -86,7 +86,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 从三个层面展开批评，然后提出替代方案
 >
 > - 转移概念的静态和领土性空间假设
@@ -220,7 +220,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 >
 > **既有词汇的局限**。转移、全球化、[[Policy Borrowing\|政策借用]]等概念基于领土性和静态的空间假设，无法捕捉教育[[Discourse|话语]]跨空间流通的复杂性。这些概念有时被用作逃避复杂性的舒适方式。
 >
@@ -236,17 +236,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "Certain established vocabularies that are used to interpret the circulation of educational discourse and its transformation in different settings have significant limitations to capture the complexity inherent to new geographies of power/knowledge in education."
 >
 > 某些用来解释教育话语跨情境流通及其转化的既有词汇，在捕捉教育中新权力/知识地理所固有的复杂性方面存在显著局限。
 
-> [!quote]
+> [!quote|notitle]
 > "Networks are not contained within space, networks produce and shape space."
 >
 > 网络不被包含在空间中，网络生产和塑造空间。
 
-> [!quote]
+> [!quote|notitle]
 > "The social sciences have to reveal innovation as a permanent and contingent process of construction and reconstruction; or, in ANT's langue, processes of assemblage and reassemblage."
 >
 > 社会科学必须揭示创新作为一个永久的、偶然的建构与重构过程，或者用 ANT 的语言来说，组装与重新组装的过程。
@@ -255,7 +255,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 >
 > **[[Actor-Network Theory\|ANT]] 的浅层使用**。对 ANT 的使用相当肤浅，仅作为[[Relational Space\|关系性空间]]概念如何克服传统框架局限的例证，并非将 ANT 作为理论方法论万能药推广。
 >

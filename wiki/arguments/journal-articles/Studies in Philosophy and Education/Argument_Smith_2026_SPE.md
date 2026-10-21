@@ -340,7 +340,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - **实证案例主要聚焦于人文学科读写教学** 作者明确指出，文中所提出的[[Formative Epistemic Injustice|成长性认识不正义]]机制与反思教学规程主要基于写作学与人文学科课程，其分析逻辑与防御建议是否能无缝推广至科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）类课程，仍有待跨学科检验。（p.11）
 > - **课堂现实约束与学生应试时间压力** 作者自述承认，要求学生将 AI 视为[[Alien Intelligence|异己心智]]并开展精细反思对比的教学设计，在真实学校情境中极易遭遇现实阻抗；特别是在学生面临繁重考核、在截止日期前数小时仓促赶工时，[[Reflexivity|反思性]]规约很可能沦为形式主义，难以真正撼动走捷径的冲动。（p.10）
 

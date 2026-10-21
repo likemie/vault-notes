@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 ## 核心主张
 
-> [!tip]
+> [!tip|notitle]
 > 去殖民[[Geopolitics of Knowledge\|知识地缘政治]]是 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]"新[[Geopolitics of Knowledge\|知识地缘政治]]"[[Analytic Framework\|分析框架]]的**两大理论支柱之一（另一支柱为[[Critical Geopolitics\|批判地缘政治学]]）**。它发源于拉丁美洲去殖民思想传统，将注意力引向[[Epistemology\|认识论]]本身的政治性，与发源于英语世界人文地理学的另一脉络并列互补。详见 知识[[Geopolitics|地缘政治]] > 概念演变。
 >
 > 去殖民知识地缘政治（Decolonial Geopolitics of Knowledge）是 1990 年代至 2000 年代初在拉丁美洲去殖民思想传统中发展起来的[[Critical Theory\|批判理论]]，核心主张是：西方资本主义的全球扩张不仅意味着经济关系和政治控制的扩张，更密切地、互补地与一种特定的西方认识论（Western epistemology）及认知和存在方式相连——这种认识论通过殖民差异（colonial difference）维持并稳定了全球权力的空间表达（即殖民性, coloniality），同时系统地压制和消声了替代性的认识论、[[Ways of Knowing\|认知方式]]和存在方式([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]])。
@@ -77,7 +77,7 @@ updated: 2026-10-20
 
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > - **殖民性不同于殖民主义** 殖民主义（colonialism）是历史上的政治军事统治形式，殖民性（coloniality）则是持续运作的权力逻辑——即使殖民行政体系已结束，殖民性通过[[Knowledge Production\|知识生产]]、分类系统和制度安排继续塑造全球不平等秩序。例：今天的高等教育排名系统以英美[[Research Universities|研究型大学]]为基准模板，即使前殖民地国家已独立，其大学仍被按照西方标准评价和排序，这正是殖民性的持续运作
 > - **殖民差异（Colonial Difference）** 殖民者与被殖民者之间的绝对差异——不仅是政治经济的，更是[[Epistemology\|认识论]]的。殖民差异将非欧洲的知识体系标注为"传统的""本土的""非科学的"，从而将其排除在全球知识生产的合法范畴之外（Mignolo, 2002, p.59, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）。例：中医学在西方医学教育体系中长期不被承认为"科学知识"，尽管其具有数千年的临床实践传统——这是殖民差异在知识分类中的表现
 > - **认识论不服从（Epistemic Disobedience）** Mignolo 提出的去殖民实践策略——主动"去链接"（delink）西方认识论框架，拒绝在其[[Discourse|话语]]体系内部寻求承认和合法性，转而从被边缘化的知识传统中建构替代性[[Ways of Knowing\|认知方式]]（Mignolo, 2009, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.39–40]]）
@@ -90,7 +90,7 @@ updated: 2026-10-20
 
 ### 1990s–2000s 奠基期
 
-> [!note]
+> [!note|notitle]
 > - 1993 Enrique Dussel 发表 *Eurocentrism and Modernity*，批评后现代性对现代性的批判"必要但不充分"，指出欧洲内部批判不足以捕捉殖民差异（Dussel, 1993, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）
 > - 1999 Dussel 出版 *Postmodernidad y Transmodernidad*，发展"跨现代性"（transmodernity）概念作为超越后现代性的替代方案
 > - 2002 [[Walter Mignolo]] 发表 *The [[Geopolitics of Knowledge]] and the Colonial Difference*，系统阐述去殖民知识[[Geopolitics|地缘政治]]的理论框架（Mignolo, 2002, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.38–39]]）
@@ -98,7 +98,7 @@ updated: 2026-10-20
 
 ### 2010s–present 延伸与扩展
 
-> [!note]
+> [!note|notitle]
 > - 2007 Raewyn Connell 出版 *Southern Theory*，从社会学角度推进"南方[[Epistemology\|认识论]]"议程（Connell, 2007, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）
 > - 2018 [[Arturo Escobar]] 出版 *Designs for the Pluriverse*，将去殖民理论延伸至设计实践和社区自主发展（Escobar, 2018, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.38–39]]）
 > - 2019 Reiter 编辑 *Constructing the Pluriverse*，系统汇集去殖民多元世界建构的案例和路径（Reiter, 2019, cited in）
@@ -113,7 +113,7 @@ updated: 2026-10-20
 
 ## 认识论立场
 
-> [!info]
+> [!info|notitle]
 > - **[[Ontology\|本体论]]** 实在不是单一的——存在多种同时有效的现实和存在方式（ontological [[Pluralism]]）。欧洲现代性只是其中一种，不是普遍的基准
 > - **[[Epistemology\|认识论]]** 所有知识都"位于"（situated）特定的地理-历史-政治位置中——不存在"无处所的"普遍知识。西方认识论将自身呈现为普遍有效，正是其霸权运作的核心机制——通过隐藏自身的位置性来主张普遍性
 > - **常用方法** 历史[[Discourse Analysis\|话语分析]]、殖民[[Archival Research\|档案研究]]、反叙事（counter-narrative）建构、参与式[[Action Research\|行动研究]]
@@ -122,7 +122,7 @@ updated: 2026-10-20
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - [[Argument_Partaken_2022_Springer\|Partaken (2022)]] 批评后殖民 [[Geopolitics of Knowledge\|GPK]] 传统将[[Knowledge Production\|知识生产]]作为核心分析维度，而忽视了知识一旦被生产后进入的动态过程——[[Knowledge Transfer\|知识转移]]（挪用、传授、窃取、审查、破坏）才是[[Decodification\|解码]]当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.74–75]])
 > - 去殖民理论面临"如何在不重新陷入西方[[Epistemology\|认识论]]框架的前提下进行学术对话"的方法论困境——完全的"认识论不服从"可能导致自我隔离而非真正挑战霸权
 
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!example]
+> [!example|notitle]
 > 去殖民[[Geopolitics of Knowledge\|知识地缘政治]]与[[Critical Geopolitics\|批判地缘政治学]]互为补充而非互斥，二者共同构成 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] 的"新知识[[Geopolitics|地缘政治]]"[[Analytic Framework\|分析框架]]：
 >
 > | 维度   | 批判地缘政治学                                      | 去殖民知识地缘政治              |
@@ -146,7 +146,7 @@ updated: 2026-10-20
 
 ## 应用领域
 
-> [!success]
+> [!success|notitle]
 > [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] 将这一脉络与[[Critical Geopolitics\|批判地缘政治学]]并列，作为理解当代高等教育[[Geopolitics of Knowledge\|知识地缘政治]]转型的两大分析支柱之一。具体应用层面：
 >
 > - **揭示"创新"[[Discourse|话语]]的[[Epistemology\|认识论]]暴力** 当前全球高等教育政策中，创新被视为所有问题的万能解药——"创新是热情拥抱为所有社会和经济问题的万能解药"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.35]])。从去殖民视角看，这一"创新"话语并非认识论中立——它预设了一个特定的知识价值等级：能够产生专利、推动经济增长、可商业化的知识（通常来自 [[STEM Education\|STEM]] 学科和[[Positivism\|实证主义]]方法论）被赋予最高价值，而批判性、阐释性、非工具性的知识（通常来自人文学科和质性社会科学）被系统性地边缘化

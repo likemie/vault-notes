@@ -341,7 +341,7 @@ journal: New Zealand Journal of Educational Studies
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 格雷斯指出，这项批评基于其在惠灵顿维多利亚大学参与立法咨询的经历，以及教育社会学学者的个人反思述评，聚焦于厘清概念原意并推动严肃公共辩论，未对可见学习的全部[[Meta-analysis|元分析]]统计技术展开全面量化复核；作者明确期待[[John Hattie|哈蒂]]未来能撰写续作，系统将非学校因素纳入分析轨道，以真正确立其作为社会批评者与良知的学术主张。（pp. 90–92）
 
 ---

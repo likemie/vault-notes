@@ -350,7 +350,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 原文[[Literature Search|文献检索]]局限于学术数据库中能够追踪到的经济学、法学、社会学、政治学、公共政策与公共行政学期刊论文，未能穷尽该学科领域的所有未收录文献与专著。（p. 16）
 
 ---

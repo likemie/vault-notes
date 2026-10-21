@@ -31,12 +31,12 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > [[Research Question\|研究问题]]（Research Problem）是引导研究需求的难题或议题（problem or issue that leads to the need for a study）。它是学术研究中引言部分的核心要素，为整个研究提供存在理由（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 
 研究问题与研究问题句（research questions）不同：前者是一个难题或议题，后者是通过收集和分析数据来回答的具体问题。研究问题回答"为什么需要这项研究"，研究问题句回答"这项研究要探索或检验什么"。
 
-> [!quote]
+> [!quote|notitle]
 > "A research problem is the problem or issue that leads to the need for a study."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）
 
 ---
@@ -49,7 +49,7 @@ updated: 2026-10-15
 - **文献中的争论** 学术文献中的争议往往揭示了研究空白、需要解决的对立观点或需要扩展的讨论
 - **政策讨论** 政府或高层决策者之间的政策辩论
 
-> [!note]
+> [!note|notitle]
 > 无论来源为何，研究者通常在单一研究中陈述多个研究问题。
 
 ---
@@ -85,7 +85,7 @@ Creswell & Creswell（2022, 第5章）指出了陈述[[Research Question|研究�
 
 Creswell & Creswell（2022, 第5章）提供了多个来自应用社会科学研究的典型[[Research Question|研究问题]]示例：
 
-> [!example]
+> [!example|notitle]
 > - "学校没有多元文化指南，导致歧视现象"——需要审查招生标准
 > - "大学兼职教师面临经济困难"——需要更公平的薪酬体系
 > - "未被充分代表的学生被大学拒之门外"——需要审视招生标准

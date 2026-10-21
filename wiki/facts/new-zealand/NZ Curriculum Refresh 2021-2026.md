@@ -51,14 +51,14 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > [[The New Zealand Curriculum\|新西兰课程]]改革（NZ Curriculum Refresh）是新西兰教育部于 2021 年启动的课程修订过程，计划于 2026 年完成。改革的核心转向是从[[Outcomes-based Education\|结果导向课程]]转向进步导向课程（progression-focused curriculum），通过使用理解-知道-做（Understand, Know, Do，UKD）框架来组织课程内容。改革的原型是 2022 年发布的新西兰历史课程([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 
 ---
 
 ## 背景
 
-> [!note]
+> [!note|notitle]
 > 改革的直接推动力来自 2019 年新西兰历史教师协会发起的请愿活动，要求新西兰历史成为必修课程。时任总理 Jacinda Ardern 支持了这一倡议。2022 年 3 月发布的新西兰历史课程标志着与教育部之前灵活课程方法的显著不同，该方法让学校和[[Teacher Choices\|教师选择]]与广泛陈述的成就目标相关的内容。
 >
 > 新的历史课程引入了新的结构和新的指导原则，成为当前课程改革的推动力和原型。改革始于 2021 年，计划完成日期为 2026 年([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
@@ -77,7 +77,7 @@ updated: 2026-10-15
 
 ## UKD 结构
 
-> [!info]
+> [!info|notitle]
 > 课程文件根据这三个组成部分构建，它们出现在每个学科的概述部分，也为新的五个学习阶段的更具体的进度成果提供组织框架([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 >
 > **「理解」**。为每个学科识别一组关键的[[Big Ideas\|大概念]]。这些是所有学习者都能联系和接触的持久思想。
@@ -92,7 +92,7 @@ updated: 2026-10-15
 
 ## 五个学习阶段
 
-> [!note]
+> [!note|notitle]
 > 课程改革引入了五个学习阶段：
 >
 > - 第一阶段：Years 0-3
@@ -105,7 +105,7 @@ updated: 2026-10-15
 
 ## 进展状态
 
-> [!note]
+> [!note|notitle]
 > - **2022 年 3 月** Aotearoa New Zealand's Histories in [[The New Zealand Curriculum]] 发布，成为改革的原型。
 > - **2022 年 10 月** 社会科学课程第一个被改革。
 > - **2023 年** Te Mātaiaho 草案发布，包括数学和统计、英语两个学习领域。
@@ -115,7 +115,7 @@ updated: 2026-10-15
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **[[Epistemology\|认识论]]混乱**。UKD 结构在认识论上是混乱的。从课程设计和学习的角度来看，知道-做-理解是更合乎逻辑的概念框架。课程文件声称该结构「清晰且易于使用」，但作者发现其多层次结构实际上相当复杂([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 > - **[[Regulative and Instructional Discourse\|规约性话语]]主导**。课程改革主要关注创建规约性[[Discourse|话语]]，即道德和政治义务的话语，而非学科知识的识别和组织。Te Mātaiaho 更像是一份阐述道德和政治义务的文件，而非传统意义上的课程文件。
 > - **[[Recontextualization\|再脉络化]]原则的张力**。三种突出的再脉络化原则之间存在潜在的[[Ontology\|本体论]]和认识论张力：

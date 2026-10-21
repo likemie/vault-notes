@@ -55,7 +55,7 @@ updated: 2026-10-16
 > - **用途** 判断量表是适合评估长期稳定特征（高重测信度）还是对近期事件更敏感（低重测信度），为研究者在工具选择和研究设计时提供依据。
 > - **边界** 重测信度不同于[[Internal Consistency\|内部一致性]]（同一时间点各条目间的一致性）和[[Inter-Rater Reliability\|评分者间信度]]（不同评分者间的一致性）。某些[[Construct\|构念]]本身就不应具有高重测信度——如"当前情绪状态"应在短期内波动，高重测信度反而说明量表不够灵敏。
 
-> [!quote]
+> [!quote|notitle]
 > 这种信度形式关注的是量表在重复施测间是否随时间保持合理的稳定——例如，一组受试者在时间点 1 完成 PSS，一个月后再次完成同一量表，两次得分是否具有可比性？（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）
 >
 > *This form of reliability concerns whether the scale is reasonably stable over time with repeated administrations (e.g., is there a comparable score on the PSS taken by a group of participants at time 1 and then one month later?).*

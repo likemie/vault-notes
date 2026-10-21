@@ -39,12 +39,12 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 同学（tongxue, 同學）是中文对学校同伴的称谓，由两个汉字组成：同（"together"，一起）和学（"learning"，学习）。字面含义是"一起学习的人"。《新现代汉语词典》将其定义为"与同一教师和/或在同一学校学习／研习的人"（转引自 Li, 2012, p.100）。
 
 日语中更正式的对应词是學友（"学习朋友"），日常用语有同僚（douryou）和仲間（nakama）。韩语对应词是校友（kyo-woo），意为"学校朋友"。三种语言共享的核心字是"同"（一起）、"学"（学习）或"友"（朋友）([[Argument_Li_2012_Cambridge|Li, 2012, pp.99–100]])。
 
-> [!quote]
+> [!quote|notitle]
 > "To have [like-minded] friends come from distant quarters [to study with oneself] – is this not a source of enjoyment?"
 > — [[Confucius]], Analects 1:1([[Argument_Li_2012_Cambridge\|Li, 2012, p.100]])
 
@@ -52,7 +52,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > ### vs 西方 Peer 概念
 
 根据《韦氏英语词典》，peer 是"与另一人地位平等的存在，属于同一年龄、年级或地位的社会群体中的一员"。其关键定义属性是**地位平等**——年龄、年级或身份([[Argument_Li_2012_Cambridge|Li, 2012, p.100]])。
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 同学概念包含三个相互关联的文化维度：
 
 ### 1. 共同学习
@@ -80,7 +80,7 @@ updated: 2026-10-16
 
 ### 3. 切磋琢磨
 
-> [!quote]
+> [!quote|notitle]
 > "如切如磋，如琢如磨"（Like bone carved and polished, Like jade cut and ground）
 > —《诗经》，转引自《论语》([[Argument_Li_2012_Cambridge\|Li, 2012, p.101]])
 
@@ -92,7 +92,7 @@ updated: 2026-10-16
 
 ## 在同伴学习中的功能
 
-> [!example]
+> [!example|notitle]
 > 同学概念为东亚学校中的同伴支持学习（[[Peer-Supported Learning]]）提供了文化基础。具体表现包括([[Argument_Li_2012_Cambridge\|Li, 2012, pp.103–108]])：
 
 - **学科代表制度** 每个学科有一名学生担任科代表，教师鼓励学生向科代表和其他高成就学生寻求帮助；低成就学生被鼓励向同伴求助。帮助者和受助者之间有一种默契：学生可以进步，求助不丢脸，提供帮助也没有不恰当之处
@@ -105,7 +105,7 @@ Heyman 等人比较了中美学童向同伴披露成绩的行为：欧裔美国�
 
 ## 与文化的关系
 
-> [!tip]
+> [!tip|notitle]
 > 同学概念运作的深层文化逻辑包括三个方面：
 
 **亲属称谓的社会延伸**。中国儿童在家庭中学会按"兄／姐／弟／妹"称呼同胞，按"伯伯／叔叔／阿姨"称呼成人，每个称谓都带有明确的责任与权利——年长者有照顾、指导、示范的责任，年幼者有尊重、听从、跟随的立场。在台湾，学生至今仍在校园中使用学長（xuezhang，"学习兄长"）、学弟（xuedi，"学习弟弟"）、学姐（xuejie，"学习姐姐"）、学妹（xuemei，"学习妹妹"）等称谓。这种基于家庭模型的社会关系使得高成就学生对低成就学生的帮助，以及低成就学生对高成就学生指导的接受，都是**理所当然的义务**——不涉及羞耻或轻视([[Argument_Li_2012_Cambridge|Li, 2012, pp.113–114]])。

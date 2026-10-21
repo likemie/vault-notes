@@ -26,12 +26,12 @@ updated: 2026-09-11
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 写作习惯（writing habit）指研究者建立的定期、持续写作的日常纪律。核心原则是每天都写，持续投入写作过程，包括思考、收集信息和回顾。仅在周末集中写作会导致思考的中断。定时写作让研究者在短暂离开后返回时获得新的视角，而间歇式的停停写写则会打断工作流，将一个有心的研究者变成"周末写作者"（weekend writer），即只在完成一周其他工作后才在周末碰研究（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 ## 核心策略
 
-> [!abstract]
+> [!abstract|notitle]
 
 Boice (1990, pp.77–78) 建立良好写作习惯的九项策略（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）：
 
@@ -60,7 +60,7 @@ Boice (1990, pp.77–78) 建立良好写作习惯的九项策略（[[Argument_Cr
 - **工具** 在线词典和同义词库、用于速记想法的平板电脑、一杯咖啡、几块饼干（Wolcott, 2009）；一支喜欢的钢笔；语法检查软件
 - **空间** 选择没有干扰的场所
 
-> [!quote]
+> [!quote|notitle]
 > "One wants a room with no view, so imagination can meet memory in the dark. When I furnished this study seven years ago, I pushed the long desk against a blank wall, so I could not see from either window. Once, fifteen years ago, I wrote in a cinder-block cell over a parking lot. It overlooked a tar-and-gravel roof. This pine shed under trees is not quite so good as the cinder-block study was, but it will do."（Annie Dillard, 1989, pp.26–27; 引自 Creswell & Creswell, 2022, 第4章）
 
 > [!note] 空间与时间的互补
@@ -70,7 +70,7 @@ Boice (1990, pp.77–78) 建立良好写作习惯的九项策略（[[Argument_Cr
 
 ## 反面模式
 
-> [!warning]
+> [!warning|notitle]
 
 - **周末写作者** 只在周末处理研究工作，认为平日的工作更重要。但研究工作需要的是每日的持续投入，包括思考、阅读和回顾，而不仅仅是落笔写作
 - **暴饮暴食式写作** 一次写很长时间但间隔很久。这种模式导致每次重启时都需要重新进入状态，效率反而不如每日少量但持续的写作

@@ -35,12 +35,12 @@ updated: 2026-09-10
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 背景知识产权（Background IP, BIP）指在[[University-Industry Collaboration\|产学合作]]协议生效之前，任何一方独立于该合作开发或控制的知识产权。BIP 区别于[[Foreground IP\|前景知识产权]]（Foreground IP, FIP），后者是在合作期间为履行工作范围而产生的 IP。BIP 条款是产学合作协议中最激烈的谈判焦点之一，因为产业方需要足够访问大学的 BIP 以确保对 FIP 的[[Freedom to Operate\|自由实施权]]（Freedom to Operate, FTO）（pp.275–276, 280）。
 
 ## 核心张力
 
-> [!warning]
+> [!warning|notitle]
 > BIP 条款的核心矛盾在于（pp.280–281）：
 
 - **产业方需求** 足够的[[Freedom to Operate|自由实施权]]（Freedom to Operate, FTO）以利用合作开发的 [[Foreground IP|FIP]]。在最极端的情况下，企业甚至可能要求大学赔偿其因第三方 IP 侵权造成的损失。几乎没有大学会同意这一条款
@@ -49,7 +49,7 @@ updated: 2026-09-10
 
 ## 限制策略
 
-> [!note]
+> [!note|notitle]
 > 实践中通常通过多重限制来找到 BIP 条款的中间地带（pp.280–281）：
 
 - **时间限制** 将 BIP 限制在协议生效日已存在的 IP，或至多在协议期内开发的 IP
@@ -59,12 +59,12 @@ updated: 2026-09-10
 
 ## 软件背景 IP
 
-> [!note]
+> [!note|notitle]
 > 软件相关的 BIP 需要特殊考量。许多"新"软件融合了已有代码，而后者可能受到各种开源许可或其他许可的约束。根据具体许可条款，将已有代码（BIP）融入新代码（[[Foreground IP\|FIP]]）可能自动使 FIP 受相应开源条款约束。因此，对于软件相关项目，双方应在项目启动前讨论对开源代码、库和其他软件组件的使用期望，并在必要时设置使用限制或要求事先通知（p.281）。
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Foreground IP\|FIP]]：FIP 是合作的产出，BIP 是合作的输入；FIP 的定义通常争议较小，BIP 是更激烈的谈判焦点
 > - 产业方对大学 BIP 的需求本质上是对[[Freedom to Operate\|FTO]]的保障，而非对 BIP 本身的所有权
 

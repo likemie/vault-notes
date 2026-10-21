@@ -282,17 +282,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > 本研究揭示了两地中国历史教科书中关于国家构建的一国两叙视角。（p. 586）
 >
 > *This study revealed a 'one country, two narratives' view of China in the two regions' Chinese history textbooks.*
 
-> [!quote]
+> [!quote|notitle]
 > 中国大陆的教科书通过强调其构成性领土和种族包容性来将中国构建为一个国家，而香港的教科书则突出了其构成性种族和不断变化的领土，更频繁、更直接地叙述族际冲突，并更明确地宣扬汉族优越论。（pp. 573–574）
 >
 > *Mainland China's textbooks constructed China as a nation by stressing its constitutive territory and ethnic inclusiveness, whereas Hong Kong's highlighted its constitutive ethnicity and changing territory, more frequently and directly narrated interethnic conflicts, and more explicitly promoted Han superiority.*
 
-> [!quote]
+> [!quote|notitle]
 > 该研究提出，应将历史教育中的国家构建视为一种情境化的、社会政治性的实践，即重新解释过去以反映当前的背景和需求。（p. 573）
 >
 > *The study proposes constructing the nation in history education as a contextualised and socio-political exercise of reinterpreting the past to reflect current contexts and needs.*
@@ -301,7 +301,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 原文自述了以下三项明确的局限与边界条件（pp. 587–588）：
 >
 > 1. **学科覆盖限制** 研究仅聚焦于初中中国历史教科书，未涵盖语文、公民教育等其他同样参与国家构建的学科。

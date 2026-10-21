@@ -46,10 +46,10 @@ updated: 2026-10-17
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 理论立场（theoretical standpoint）是[[Qualitative Research\|质性研究]]中运用理论的一种方式：研究者以某一[[Theoretical Perspective\|理论视角]]作为整体导向透镜（orienting lens），围绕性别、阶级、种族或其他边缘群体议题来塑造研究。这一视角成为变革性视角（transformative perspective），旨在带来改变、提升未被充分代表群体的声音、揭示个体隐藏的假设。它塑造所提出的问题，指导数据如何被收集和分析，并提供行动或变革的呼吁([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.65]])。
 
-> [!quote]
+> [!quote|notitle]
 > "Researchers increasingly use a theoretical standpoint in qualitative research to provide an overall orienting lens for the study questions about gender, class, and race (or other issues of marginalized groups). This lens becomes a transformative perspective to bring about change, lift the voices of underrepresented groups, and uncover largely hidden assumptions of individuals."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.65]])
 
 ## 概念演变
@@ -60,7 +60,7 @@ updated: 2026-10-17
 
 [[Qualitative Research|质性研究]]中可用的几种主要理论立场视角包括([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp.65–66]])：
 
-> [!abstract]
+> [!abstract|notitle]
 > - **女性主义视角（Feminist perspectives）** 视女性的压迫性处境及其制度框架为问题所在，[[Research Problem\|研究议题]]包括改变政策以实现社会正义或消除女性的压迫性状况（Olesen, 2000）。
 > - **种族化[[Discourse|话语]]（Racialized discourses）** 提出关于谁控制[[Knowledge Production\|知识生产]]的重要问题，尤其关注有色人种群体和社区（Ladson-Billings, 2000）。
 > - **批判[[Theoretical Perspective\|理论视角]]（[[Critical Theory]] perspectives）** 关注赋权人类超越种族、阶级和性别所施加的约束（Fay, 1987）。
@@ -69,15 +69,15 @@ updated: 2026-10-17
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > Rossman and Rallis (2012) 概括了质性探究中批判视角和后现代视角的核心主张：（1）研究本质涉及权力问题；（2）研究报告并非透明，而是由具有种族、性别、阶级和政治取向的个体所撰写；（3）种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要；（4）历史上，传统研究压制了受压迫和边缘化群体的声音（p.91）。
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > **理论立场 vs [[Theoretical End Point\|理论终点]]** 理论立场在研究开始时引入，作为观察和解释的框架；理论终点在研究结束时生成，是从数据中归纳产生的理论或概括。前者是"用理论来看"，后者是"从数据中生成理论"。
 
-> [!example]
+> [!example|notitle]
 > **理论立场 vs 世界观的演绎使用**[[Quantitative Research\|量化研究]]中的理论从研究开始就作为演绎框架（deductive framework）指导假设和数据收集，而理论立场不仅是[[Analytic Framework\|分析框架]]，还包含价值立场——研究者对特定群体和权力关系的明确承诺。
 
 ## 相关概念

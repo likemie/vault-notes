@@ -86,7 +86,7 @@ updated: 2026-10-21
 
 在学校采购层面，教育产品消费者不仅需要“是否有效”的结论，还需要产品特征、实施要求、使用满意度、成本、潜在结果和情境相关性等信息。实践者偏好同伴推荐和本地试点，并不只是因为他们“不懂研究”，也因为这些渠道常常更快提供学校持续实施必须知道的信息([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.120-121]])。
 
-> [!example]
+> [!example|notitle]
 > 如果一个数字学习平台在研究中有显著正向效果，校长仍需要知道：教师每天要花多少准备时间？学生是否愿意持续使用？旧设备能否运行？家长是否支持？这些问题不是[[Statistical Significance\|统计显著性]]能直接回答的，而是本地知识进入[[Evidence-Informed Practice\|证据知情实践]]的地方([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.120-121]])。
 
 

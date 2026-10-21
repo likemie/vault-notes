@@ -92,7 +92,7 @@ $$\text{因果效应} = (O_2 - O_1) - (O_4 - O_3)$$
 
 ## 局限性
 
-> [!method-limits]
+> [!method-limits|notitle]
 > - **[[Pre-test Sensitisation\|前测敏感化]]** [[Pre-test and Post-test\|前测]]可能使受试者对干预更加敏感，前测×处理的[[Interaction Effect\|交互效应]]可能混淆干预效应的估计（Good, 1963）。
 > - **[[Sample Size Determination\|样本量]]需求** 两组设计需要足够的样本量才能使[[Random Assignment\|随机化]]发挥有效控制。
 > - **推广性受限** 实验室或高度受控情境中的发现可能缺乏[[Ecological Validity\|生态效度]]。

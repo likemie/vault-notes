@@ -83,21 +83,21 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 首先，影响本身具有多种性质——有形与无形、短期与长期、直接与间接、正面与负面——任何一种单一的[[Scale of Measurement|测量尺度]]都无法覆盖全貌(pp.345–346)。
 
-> [!example]
+> [!example|notitle]
 > 一个合作项目同时产生专利（有形、短期、直接）和研究声誉提升（无形、长期、间接）。用专利计数来衡量，只能捕捉到前者；但如果忽略声誉提升对后续合作的催化作用，就严重低估了这次合作的总回报。
 
 其次，不同利益相关者对"什么算作有价值的影响"存在根本分歧。产业看重的是新产品的销售增长和[[Competitiveness|竞争力]]提升；大学看重学术产出和科研声誉；社会——包括纳税人、政策制定者和社区居民——关注的是就业机会和生活质量的改善。同一项合作在这三个群体眼中可能有完全不同的"成功"定义(p.346)。
 
 第三，此前的综述研究——无论是关于[[Technology Transfer|技术转移]](Da Silva Florencio & De Oliveira, 2022)、合作创新(Sjoo & Hellstrom, 2019)，还是 UIC 的知识分享(Mascarenhas et al., 2018)——都只关注 UIC 影响的单一侧面，从未将影响类型、测量挑战和应对策略同时整合进一个[[Analytic Framework|分析框架]](pp.349–351)。
 
-> [!abstract]
+> [!abstract|notitle]
 > 核心主张：只有将影响的多维性质、利益相关者的不同视角以及测量过程中的方法论难题同时纳入一个统一的[[Analytic Framework\|分析框架]]，才能为 UIC 影响测量方法学的发展提供坚实基础(p.351)。
 
 ---
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 三条学术脉络交汇构成分析基础：
 
 - **[[University-Industry Collaboration|产学合作]]（UIC）的多视角研究** UIC 是大学与产业之间以联合研发为目的的正式或非正式合作关系，涵盖合同研究、联合发表、研发咨询等活动(Pinto & Fernandes, 2021)。合作产生的影响可从跨组织关系视角分为三个层次——微观（个体研究者、学生、企业家）、中观（研究团队、行业协会、合作共同体内部）和宏观（产业界、学术界、区域社会及更广泛的受合作间接影响的群体）(Siemieniako et al., 2021)(p.349)。这三个层次并非割裂的：一个博士生的技能提升（微观）可能转化为其所在企业的创新能力（中观），进而催生区域产业集群（宏观）。
@@ -110,7 +110,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 系统性[[Literature Review\|文献综述]]，不涉及一手实证数据。方法遵循 Tranfield et al.(2003)的三阶段流程(pp.351–353)：
 
 **阶段一：检索与筛选**
@@ -129,7 +129,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 论证沿着四条逻辑链依次推进：① 建立影响的多维分类系统（描述"要测量什么"）→ ② 诊断测量过程中的方法论障碍（解释"为什么难测量"）→ ③ 将具体策略映射到对应挑战（说明"如何克服"）→ ④ 将前三步整合为统一的可操作框架。
 
 ### 步骤一：影响的多维分类——建立"测量对象"的完整清单
@@ -223,7 +223,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 > [!abstract] Table 2 的关键信息
 > 三类主体共享的影响仅 2 种（I.7 新商业机会、I.10 经济增长），这意味着大多数 UIC 影响对不同主体而言是互斥的——产业关心的影响（如 I.9 新产品与服务、I.13 招聘质量）大学和社会并不直接关心；社会关心的影响（如 I.17 减少污染、I.21 生活质量）产业和大学极少关注。影响列表的差异本质上反映了三类组织在 UIC 中根本目标的不同。
 
-> [!warning]
+> [!warning|notitle]
 > 社会视角的匮乏不是偶然的。大多数 UIC 实证研究由产业或大学资助，研究设计自然偏向资助方的关注点。这意味着现有文献对 UIC 的"社会回报"——纳税人最关心的问题——实际上知之甚少。
 
 ---
@@ -236,7 +236,7 @@ UIC 影响测量长期面临三个相互交织的困难。
 
 传统 UIC 测量方法集中关注合作的最后一个阶段——专利数量、许可收入、联合发表篇数等末端可量化产出。然而，大量影响在合作过程中就已产生（如交互学习、隐性[[Knowledge Transfer|知识转移]]、信任建立），并且具有无形、间接、长期的特征，传统末端指标完全无法捕捉(pp.362–363)。
 
-> [!example]
+> [!example|notitle]
 > 一个博士生在合作企业中实习一年，期间学会了产业界的质量管控流程和项目管理方法。这个学习过程（I.2 增强的交互学习 + I.4 增强的实践技能）不会出现在任何专利统计或许可收入报表中，但它可能比一篇联合发表的论文对产业创新能力的长期贡献更大(Scandura, 2016)。
 
 ---
@@ -301,7 +301,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 > 
 > 操作层面包括两个环节：在合作启动阶段，三方协商确定哪些影响类型为优先测量对象（例如社会方可能坚持纳入 I.20 就业创造而产业方优先关注 I.9 新产品）；在评估阶段，三方分别提供各自视角的数据和判断，再由评估者综合。与策略 1 的持续监控配合时，这种协商不是一次性的——随着合作推进，各方对影响的理解也在演变，指标权重可以动态调整(Albats et al., 2018)。
 > 
-> > [!example]
+> > [!example|notitle]
 > > 一项大学与可再生能源企业的合作中，大学方最初提议以"专利数"和"发表量"为核心指标。但在启动研讨会上，产业方提出"招聘质量提升（I.13）"——能否从合作中识别并雇佣优秀毕业生——是他们的核心关切；当地政府代表则要求纳入"区域新增绿色就业岗位（I.20）"。三方协商后形成了一份 8 项核心指标的清单，每季度联合审查一次。如果不经历这个过程，测量的就是"大学想要的"而非"合作实际产生的"。
 > 
 > > - **应对挑战** 影响的多维性质、影响的识别
@@ -404,7 +404,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 
 框架的核心创新不在于发现新的影响类型——25 种影响中大多数在已有文献中都有零散讨论——而在于将此前分散在不同研究中的三个问题（分类、挑战、策略）首次整合到一个逻辑连贯、可操作的结构中。它为未来开发系统化的 UIC 影响测量方法学提供了概念基础，但不是方法论本身(p.365)。
 
-> [!example]
+> [!example|notitle]
 > 设想一个评估者需要评估一所大学与三家制药企业的合作项目的影响。在没有这个框架的情况下，他可能会随机收集专利数、发表数和合同金额——然后发现这些数字无法回答"合作到底对社会产生了什么价值"。
 >
 > 使用这个框架时，他的工作流程会不同：
@@ -418,7 +418,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - 25 种 UIC 影响被归入智力、经济、技术、环境、社会和战略六种类型，构成 UIC 影响测量框架的分类基础。按主体划分，产业视角涵盖 18 种影响（最多），社会视角仅 10 种（最少）——这一不对称反映了现有研究对产业视角的系统性倾斜(pp.355–361)。
 > - 五维分类系统（类型 × 主体 × 时间 × 发生方式 × 性质）使每种影响可从多个维度同时标记，克服了单一维度分类的信息损失，并为不同研究之间的比较提供了共同语言(pp.354–355)。
 > - 影响类型的时间趋势明显分化：经济影响从 2000 年起持续占据主导地位；社会影响在 2015–2022 年间急剧增长，表明学界对"研究如何回应社会需求"的关注在上升；环境影响则始终处于边缘——在 92 篇分析文献中仅个别研究触及（Fig. 3, p.362）。
@@ -435,23 +435,23 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "在 UIC 语境中，影响被定义为源自合作的正向或负向变化，可以直接或间接地影响个体、组织、社区和整个社会。"（"impact is defined as a positive or negative change originated in the UIC context that can directly or indirectly affect individuals, organizations, communities and society in general."）(p.346, citing Siemieniako et al., 2021)
 
-> [!quote]
+> [!quote|notitle]
 > "尽管大量科学文献在过去十年中讨论了 UIC 的社会经济影响，但对合作研究更广泛影响——即'社会'影响——的全面评估仍然有限。"（"Although a considerable body of scientific literature has addressed the socio-economic impacts of UICs in the past decade, comprehensive assessments of the broader impacts of collaborative research, known as 'societal' impacts, have remained limited."）(p.346)
 
-> [!quote]
+> [!quote|notitle]
 > "测量 UIC 影响的过程中，一个反复出现的困难是缺乏充分和适当的信息，尤其是在微观层面的数据方面。无论出于何种原因，这一数据限制问题都可能缩小研究的范围——例如，不得不将小型企业从样本中排除。"（"another frequent difficulty in measuring the impacts of UICs is having sufficient and appropriate information, especially when it comes to micro-level data. Whatever the reason, this problem may limit the scope of the study by having to exclude part of a sample, for example small companies, from a study."）(p.363, citing Maietta, 2015)
 
-> [!quote]
+> [!quote|notitle]
 > "本研究的主要贡献是整合了过去二十年关于 UIC 影响的见解，将影响测量过程的关键元素呈现在一个可以服务于未来测量方法学发展的统一框架中。"（"The main contribution of this article is to consolidate insights from the past two decades regarding the impacts of UICs, subsequently presenting key elements of the process in a single framework that can serve as a basis for the development of future impact measurement methodologies."）(p.347)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - [[Systematic Review\|系统性综述]]不可能穷尽所有相关文献，关键词选择、检索字符串和检索范围的限制可能导致部分文献被遗漏(Xia et al., 2018)(pp.367–368)。
 > - 自反性主题分析中研究者的认知偏见无法完全消除，因此所得发现和框架不构成唯一的理解方式，其他研究者可能提出不同的分类和解释。
 > - 未深入分析测量 UIC 影响的具体方法类型（如计量模型、结构方程模型等），为未来研究留下了空间(p.350)。

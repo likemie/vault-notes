@@ -249,7 +249,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 实施基于释放欲望和想象力的“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”，可能会在实践中遭遇阻力（缺乏明确的、预设的单一教学方向）。对于高度目标导向的一线教育工作者来说，在科层化的学校体系中，系统性地接纳并探索充满混乱的情感情境（maelstrom of emotionality）是一个极具挑战性的实务难题，需要面对完全异质化和失控的课堂张力。（pp.215, 217, 222）
 
 ---

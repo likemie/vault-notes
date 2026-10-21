@@ -46,7 +46,7 @@ updated: 2026-10-20
 > [!info] 核心定义
 > **理性/控制修辞（Rational/Control Rhetoric）** 是管理修辞分类学中的一个重要概念，指组织或系统在面临慢性、持续而缓慢的绩效下滑压力时，自发激活的一种技术统治主义[[Discourse|话语]]体系。这种修辞强调通过系统化、逻辑化和顺序规划的干预措施来追求确定性，其核心关切在于探寻“什么有效”（what works）以及“什么最有效”（what works best），以此建立标准化的控制结构并实现持续的改进。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 415]])
 
-> [!quote]
+> [!quote|notitle]
 > 在澳大利亚学校学生表现持续下滑的基础上，管理修辞已经凝聚在理性周围。追求改进的期望路径被建立在专注于“什么有效”的系统、逻辑和序列规划的干预之上。
 > Original: On the basis of sustained arguments stressing the declining performance of Australian school students ... managerial rhetoric has coalesced around rationality. The desired path to improvement is based on a systematic, logical and sequentially planned intervention focused on ‘what works’. ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 415]])
 
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > 理性/控制修辞在慢性危机中将教育质量问题简化为数据指标，进而将泰勒制的效率逻辑与“唯一正确方法”引入教育行政管理。
 
 > [!logic-map]- 命题关系

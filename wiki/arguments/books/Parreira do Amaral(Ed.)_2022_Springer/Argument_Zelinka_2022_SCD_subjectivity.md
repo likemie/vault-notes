@@ -66,7 +66,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 该章的分析建立在三个相互嵌套的理论资源之上：
 
 - **[[Governmentality]]（治理术）** — 取自 Foucault(2004)，指通过引导个体的自我引导来治理社会的方式。Zelinka 将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种**全球治理技术（global governmental technology）**，以此透视全球趋势和宏大发展之下的权力微观机制(p.264)。
@@ -77,7 +77,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 该章采用批判性[[Discourse Analysis\|话语分析]]（critical [[Discourse]] analysis）方法，具体做法为：
 > - **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], EC），时间跨度超过 15 年。
 > - **[[Critical Companion\|批判性伴随]]（critical companion）** 不提供传统的系统性[[Literature Review\|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点(p.254)。
@@ -85,7 +85,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 该章的论证从宏观到微观再回到宏观，形成三层递进结构。
 
 ### 第一层：高等教育的新自由主义转型与（新）知识地缘政治的浮现
@@ -145,14 +145,14 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - 21 世纪 [[Single-Case Design\|SCD]] 生产的（新）[[Geopolitics of Knowledge\|知识地缘政治]]主体性具有三个核心特征：对关键技能的**意愿**和竞争准备；以**结果导向技能**为首要焦点以增强[[Employability\|就业力]]和[[Self-Entrepreneur\|自我企业家]]精神；推广一套适用于全球议题但忽视区域需求的**同质化技能**集合(p.263)。
 > - 新自由主义对教育的工具化和对社会的深层原子化共同构成了正在发生的更大范围的[[Paradigm\|范式]]转型(p.265)。
 > - 对（新）知识[[Geopolitics|地缘政治]]的抵抗起点在于质疑其根本前提——即将主体定义为"知识承载者"（knowledge-bearers）。
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 
 **缺乏实证验证**。该章属于概念性／理论性分析，虽然对七个框架进行了文本分析，但并未提供关于"主体实际如何回应 [[Single-Case Design|SCD]]"的经验证据。主体性是被[[Discourse|话语]]"生产"的还是在实际中被采纳、协商或抵抗的，该章的分析无法区分。
 
@@ -162,17 +162,17 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
 > (“成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
 > ("It is not skills and competencies gained by subjects, but subjectivities, i.e. modes of self-conduct based on desired competencies, that become a source of production."))(Reed, 2009, p.33, cit. by, p.261)
 
-> [!quote]
+> [!quote|notitle]
 > “主体只有承认并增强其自我创业的主体性，表现出对成长的热情和加速的意愿，才不会沦为一次性用品（被随时抛弃）。”
 > (“主体只有承认并增强其自我创业的主体性，表现出对成长的热情和加速的意愿，才不会沦为一次性用品（被随时抛弃）。”
 > ("Subjects are only disposable unless they acknowledge and enhance their self-entrepreneurial subjectivity and show passion for growth and a will to accelerate."))(p.261)
 
-> [!quote]
+> [!quote|notitle]
 > “对这种新颖和创新尝试的反对，始于质疑其根本基础，即质疑其将主体定义为知识承载者的做法。”
 > (“对这种新颖和创新尝试的反对，始于质疑其根本基础，即质疑其将主体定义为知识承载者的做法。”
 > ("The opposition to this kind of novel and innovative endeavor starts with questioning its very basis, i.e. its definition of subjects as knowledge-bearers."))(p.265)

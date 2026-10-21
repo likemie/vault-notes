@@ -52,14 +52,14 @@ updated: 2026-10-16
 
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > YOUNG_ADULLLT 是[[EU|欧盟]] Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的[[Lifelong Learning\|终身学习]]（lifelong learning）政策治理实践。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])。
 >
 > 项目的政策背景是 [[Europe 2020 Strategy]] 及其旗舰倡议 [[EU Skills Agenda]] 和 [[Youth Guarantee Scheme]] 的实施期——这一时期欧盟通过 [[Performance Indicators]] 和区域排名体系推动成员国和区域的教育培训改革，而 YOUNG_ADULLLT 正为理解这些政策在地方层面的实际接受与转化提供了系统的经验证据（p.172–174）。
 
 ## 项目概况
 
-> [!abstract]
+> [!abstract|notitle]
 > YOUNG_ADULLLT 项目的核心设计如下([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])：
 >
 > - **资助框架** Horizon 2020（Grant No 693167）
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > [[Argument_Rambla_2022_Springer\|Rambla (2022, p.172–174)]]基于 YOUNG_ADULLLT 数据报告了以下核心发现：
 
 ### 治理模式的差异化格局
@@ -105,7 +105,7 @@ updated: 2026-10-16
 
 ## 相关概念／理论
 
-> [!tip]
+> [!tip|notitle]
 > - [[Network Governance]] — YOUNG_ADULLLT 的核心发现之一是[[Lifelong Learning\|终身学习]]政策的官僚—网络混合治理模式
 > - [[Theories of Policy Change]] — 项目考察了地方专业人员如何内化、转化或自主建构[[Theory of Change\|变革理论]]
 > - [[Selectivity]] — 项目数据为[[Performance Indicators\|绩效指标]]体系的选择性效应提供了直接的经验证据

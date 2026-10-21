@@ -39,17 +39,17 @@ updated: 2026-10-16
 
 ## 核心主张
 
-> [!tip]
+> [!tip|notitle]
 > Andreas Gruschka（2009, 2013, 2019）将教学（teaching）理解为一个由三种行动维度交织而成的复杂系统：[[Bildung]]（人格陶成）、Erziehung（教育／教养）和 [[Didaktik]]（教学法）。三者在每一次教学行动中同时在场、不可分割。Gruschka 借用 Adorno 的"星座"（constellation）概念将这一结构称为"整合性星座案例"（an integrated case of constellation），以强调三要素之间"非同一"（non-identical）的相互缠绕关系——它们不能被还原为彼此，也不能被拆分为独立步骤（Gruschka, 2019, p.680, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.238–239]]）。
 
-> [!quote]
+> [!quote|notitle]
 > "Teaching is understood as a complex system of actions that consists of 'Bildung', education ('Erziehung') and didactics. All three aspects are interwoven in the action of teaching." ([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.238, summarizing Gruschka, 2009, 2013, 2019]])
 > 
 > 教学被理解为一个复杂的行动系统，由人格陶成 (Bildung)、教育/教养 (Erziehung) 和教学法 (didactics) 组成。所有这三个方面在教学行动中相互交织。
 
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 
 ### 三元结构
 
@@ -61,7 +61,7 @@ updated: 2026-10-16
 
 3. **[[Didaktik]]（教学法）——目标的安排与呈现** Didaktik 指教师如何同时安排 Bildung 的目标（就学校主题或学科而言）和 Erziehung 的层面（帮助学生聚焦）。Didaktik 包括关于哪部分知识必须在什么时间点、以什么数量被呈现的决策（Gruschka, 2019, p.676）。这不是一个纯粹的技术问题——它要求教师判断什么内容在什么时刻最能激发理解、最有助于学生朝向 Bildung。
 
-> [!example]
+> [!example|notitle]
 > 一位历史教师在准备关于法国大革命的课。她面临的不是一个讲什么内容的简单问题，而是三种维度的同时权衡：（1）Bildung 维度——学生通过理解大革命的起因和后果，应该形成对社会变革何以发生这一根本问题的判断力；（2）Erziehung 维度——学生在学习过程中需要被引导去关心不公正的社会结构如何被挑战这一问题，而不仅仅把革命当作记忆日期；（3）Didaktik 维度——应该先放罗伯斯庇尔的演讲视频，还是先让学生读一段当代目击者的日记？应该把三级会议和攻占巴士底狱放在一节课还是分两节？每一个选择都同时在三个维度上产生后果。
 
 ### 星座结构的哲学基础
@@ -74,7 +74,7 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 ... Applied fuzzy match at line 41-94.
 ## 发展脉络
 
-> [!note]
+> [!note|notitle]
 > Gruschka 的[[Didaktik\|教学理论]]是在德语教学论（Didaktik）和 [[Bildung]] 传统的长线脉络中发展的。其主要著作包括：
 > - Gruschka（2009）：*Erkenntnis in und durch Unterricht*（教学中的认识与通过教学的认识）——奠定理论基础
 > - Gruschka（2013）：*Unterrichten — eine pädagogische Theorie auf empirischer Basis*（教学——基于经验的教育理论）——将理论建立在对课堂教学的经验研究之上
@@ -84,13 +84,13 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **德国语境的特殊性** 该理论深深根植于德国 [[Bildung]]/[[Didaktik]] 传统，其核心概念（Bildung, Erziehung, Didaktik）在其他教育文化中缺乏精确的对应概念，跨国适用性有待验证（Jornitz & Klinge, 2022 本身即是将该理论应用于全球 EdTech 分析的一次尝试）
 > - **经验基础的可见性**虽然 Gruschka（2013）声称基于经验研究，但在当前仅通过 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge（2022）]]一章的引用，尚无法全面评估其经验基础的质量和范围
 > - **信息量限制**本条目仅基于 Jornitz & Klinge对 Gruschka 理论的总结性介绍，Gruschka 原著的完整论证有待直接阅读后补充
 
 ## 相关研究
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — Jornitz & Klinge 以 Gruschka [[Didaktik\|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
 

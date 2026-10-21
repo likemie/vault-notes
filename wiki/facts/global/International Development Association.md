@@ -172,7 +172,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a]
+> [!evidence-grid-a|notitle]
 >
 > | 来源 | 核心发现 / 论点 | 关联主题 / [[Variable\|变量]] |
 > |:---|:---|:---|

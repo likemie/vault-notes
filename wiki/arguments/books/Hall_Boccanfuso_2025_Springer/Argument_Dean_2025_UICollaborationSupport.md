@@ -81,7 +81,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 不依赖正式学术理论，而是基于作者在滑铁卢大学研究行政部门的集体实践经验，同时整合以下分析资源：
 > - [[University-Industry Collaboration]] — 采用 Ankrah and Al-Tabbaa（2015, p.388）的定义，将产学合作理解为产业与大学之间的**双向信息交流（bi-directional exchange of information）**，而非狭义的合同研究(p.242)。
 > - Bruneel、D'Este and Salter(2010)的障碍分类框架 — 将产学合作障碍分为两类：(i) 产学取向差异（differences in UI orientation），即大学与企业在使命、文化和价值观上的系统性差异；(ii) 交易相关障碍（transaction-related barriers），即合同谈判、知识产权安排和行政流程等操作层面的摩擦(p.245)。
@@ -91,7 +91,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 实践者反思与制度案例分析。六位作者全部在滑铁卢大学研究行政系统担任领导职务，覆盖学术管理、企业伙伴关系、政府关系和[[Technology Transfer\|技术转移]]等多个职能领域(p.242)。研究方法以以下来源的归纳与反思为基础：
 > - 滑铁卢大学的制度实践与行政经验。
 > - 对现有[[University-Industry Collaboration\|产学合作]]文献的综合引用(Ankrah & Al-Tabbaa, 2015; Sjöo & Hellström, 2019; Bruneel et al., 2010; Nsanzumuhire & Groot, 2020 等)。
@@ -101,14 +101,14 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 论证沿**前提→六重机制→案例验证→收敛**的线索展开。前提是[[University-Industry Collaboration\|产学合作]]面临 Bruneel et al.(2010)识别的两类障碍（取向差异与交易摩擦）；六重机制分别攻克这些障碍的不同维度；[[Schlegel-UW Research Institute for Aging\|RIA]] 案例展示所有机制在单一组织中的协同运作；最后论证这些机制之间的互补性：每一项解决一个特定障碍，合在一起才构成自增强系统。
 
 ---
 
 ### 前提：两类障碍——为什么教师不合作
 
-> [!info]
+> [!info|notitle]
 > Bruneel、D'Este and Salter(2010)将产学合作的障碍分为两类(p.245)：
 
 **第一类：产学取向差异（differences in UI orientation）**。大学与企业在使命、文化和价值观上存在系统性差异。滑铁卢大学的六个学院（艺术、环境、健康、工程、数学、科学）各自有不同的合作文化：工程学院的文化期待教师从事应用研究，产学合作几乎被视为常态；文学院的研究伙伴关系则更多面向非营利组织和政府机构，合作体量较低，行政支持资源也相应较少(pp.246–247)。即使在工程学院，部分教师对产学合作仍持保留态度，担心[[Academic Freedom|学术自由]]受限、研究成果无法自由发表、以及被产业议程绑架(pp.247–248)。然而 Sjöo & Hellström(2019)指出，没有证据表明这些担忧与实际合作能力之间存在关联，担忧更多来自信息不对称而非实质性障碍(p.248)。
@@ -203,7 +203,7 @@ citation_aliases:
 
 ### 论证六：RIA 案例——七重机制的具象化
 
-> [!example]
+> [!example|notitle]
 > Schlegel-UW 老龄化研究所（[[Schlegel-UW Research Institute for Aging\|RIA]]）是上述所有机制在单一组织中的完整呈现。它也是对前面五个论证的经验检验：如果多重机制确实需要同时存在才能产生效果，那么一个成功的产学合作案例应该同时包含所有这些机制。RIA 恰好满足这一预测。
 
 #### 背景与起点：一个村庄概念
@@ -289,7 +289,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > 1. **政府配资项目构成最直接的硬性激励**。NSERC Alliance Advantage and Mitacs Accelerate 的 1:1 配资要求通过项目叠加可产生最高 3:1 的杠杆效应。过去五年滑铁卢大学一个学院的产业及产业杠杆经费占总经费的 34%，其中 NSERC 资助中 41% 来自产业配资项目。这一比例本身就是对不参与合作的系统性惩罚(p.243)。
 > 2. **行政支持的核心功能是消除信息不对称**。教师对[[University-Industry Collaboration\|产学合作]]的顾虑（知识产权、发表自由、合同复杂性）在实证研究中未被发现与实际合作能力之间存在关联(Sjöo & Hellström, 2019)。研究办公室的合同团队和早期职业研究者工作坊的实质作用是让教师在有充分信息和制度后盾的前提下做出判断(pp.247–248)。
 > 3. **共同选址缩短了从认知距离到信任的距离**。多伦多-滑铁卢走廊的 15,000 家科技公司和短途 commute 条件使定期面对面互动成为可能；NRC 合作中心和 [[Schlegel-UW Research Institute for Aging\|RIA]] 的实践表明，当研究者和终端用户在同一物理空间中日常共处时，反馈循环从以月计缩短为以走廊计(pp.248–249, 253–254)。
@@ -321,7 +321,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > 我们开发了一个村庄概念，围绕一条主街和城镇广场建立社区生活，邻里之间友善相待。这是一种以生活目标为导向的积极生活的社会模式，而非传统的以医疗护理为导向的机构化模式。（We have developed a village concept around which a main street and town square exist and function to build community living with neighborhoods and friendly neighbors. It is a social model of active living with life purpose, rather than the traditional institutional model of medical care.）(p.241)
 >
 > 我认为不存在这样一个时代——大学不会被我们社会的新要求所挑战。同样，我也无法预见这样一个时代——滑铁卢大学会被传统束缚到无法调整自身来提供满足这些需求的教育。（I cannot perceive a time when the universities will not be challenged by new requirements from our society. Equally, I cannot foresee a time when the University of Waterloo will be so hidebound by tradition that it cannot adjust itself to providing education to meet these needs.）——滑铁卢大学首任校长 Gerald Hagey(p.244)
@@ -334,7 +334,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > **单一制度经验的局限性**。六位作者全部在滑铁卢大学研究行政系统任职，所阐述的原则虽然声称广泛适用于整个高等教育领域（broadly applicable across the POST-secondary sector），但最终根植于滑铁卢大学的特定制度条件——一所拥有全球最大[[Cooperative Education\|合作教育]]项目的中等规模加拿大[[Research Universities|研究型大学]]，地处北美最密集的科技创新走廊(pp.242, 248)。未讨论这些机制在以下情境中的适用边界：
 > - 缺乏大型合作教育项目的大学（多数研究型大学没有滑铁卢规模的 co-op 项目）。
 > - 位于[[Innovation Ecosystem\|创新生态系统]]较不成熟地区的大学（缺乏 15,000 家科技公司的地理禀赋）。

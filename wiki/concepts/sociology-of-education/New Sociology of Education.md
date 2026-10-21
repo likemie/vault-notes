@@ -87,6 +87,6 @@ updated: 2026-10-21
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - [[Committee for the Accreditation of Teacher Education]] — 1984 年后将教师教育从学科基础转向课堂技能和能力训练，压缩了 NSE 依托教师教育课程传播的制度空间([[Argument_Ball_2008_SR\|Ball, 2008, p.659]])。
 

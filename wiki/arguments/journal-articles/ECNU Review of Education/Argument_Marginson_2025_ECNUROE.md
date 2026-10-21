@@ -92,7 +92,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 论证依托一个多层理论框架，每层承担不同的分析功能：
 
 ### 本体论基础：Massey 的关系性空间理论
@@ -135,7 +135,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > **方法类型** 理论化的历史综合（theorized historical synthesis）——这是一种非实证的理论研究方法，作者将自己的定位描述为"利用一系列学术和实证来源，发展出原创的理论化历史综合"(p. 1)。
 >
 > **分析策略** 论文采用"先建立理论框架，再用框架组织历史叙述"的两段式结构。前三分之一(pp. 2–14)建立空间[[Ontology\|本体论]]、[[Scale in Higher Education\|尺度分析]]和[[Geopolitics|地缘政治理论]]；后三分之二(pp. 15–39)以该框架组织两个历史阶段的叙述分析。
@@ -147,7 +147,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 论文的论证分为五个步骤，但前三个步骤（理论构建）并非线性推进而是层层嵌套，后两个步骤（历史分析）则是前三个步骤的经验应用。
 
 ### 第一步：建立空间本体论基础——空间不是容器，而是不断被制造的开放过程
@@ -254,7 +254,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 
 ### 理论贡献
 
@@ -278,34 +278,34 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “如果时间作为变迁而展开，那么空间则作为互动而展开”
 > ("If time unfolds as change then space unfolds as interaction")(Massey, 2005, p. 61, cited p. 3)
 
-> [!quote]
+> [!quote|notitle]
 > “总是有未竟的线索（未收尾之处）”
 > ("There are always loose ends")(Massey, 2003, p. 5, cited p. 6)
 
-> [!quote]
+> [!quote|notitle]
 > “将空间概念化为开放的、多重的和相关的、未完成的且始终在生成的，这是历史保持开放的先决条件，进而……也是政治保持可能性的先决条件”
 > ("Conceptualizing space as open, multiple and relational, unfinished and always becoming, is a prerequisite for history to be open and thus … for the possibility of politics")(Massey, 2005, p. 59, cited p. 7)
 
-> [!quote]
+> [!quote|notitle]
 > “高等教育不应仅仅被视为一项教育事业，而应同时被视为一项地缘政治项目”
 > ("Higher education should not be viewed solely as an educational endeavour, but also as a geopolitical project")(Moscovitz & Sabzalieva, 2023, p. 152, cited p. 14)
 
-> [!quote]
+> [!quote|notitle]
 > “我们许多习惯的想象空间的方式，都曾是试图驯服它的尝试”
 > ("So many of our accustomed ways of imagining space have been attempts to tame it")(Massey, 2005, p. 151, cited p. 5)
 
-> [!quote]
+> [!quote|notitle]
 > “每一个空间最终都‘在某种程度上逃脱了那些利用它的人的掌控’”
 > ("Every space eventually 'escapes in part from those who make use of it'")(Lefebvre, 1991, p. 26, cited p. 12)
 
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 
 ### 方法透明度问题
 作为"理论化的历史综合"，文献筛选标准、覆盖范围或系统检索策略未被说明。读者难以评估其历史叙述是否存在选择性偏差——选择了哪些事实、跳过了哪些事实、选择的标准是什么？这使得后续研究者难以复制或检验其历史叙述。

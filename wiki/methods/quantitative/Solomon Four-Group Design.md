@@ -97,7 +97,7 @@ updated: 2026-10-20
 
 ## 局限性
 
-> [!method-limits]
+> [!method-limits|notitle]
 > - **[[Sample Size Determination\|样本量]]需求翻倍** 需要四倍的样本量（四组而非两组），资源需求显著增加，在实际教育研究中执行门槛高。
 > - **统计分析复杂** 需要 2 × 2 [[Analysis of Variance\|ANOVA]] 或混合模型来检验[[Pre-test and Post-test\|前测]]×处理的[[Interaction Effect\|交互效应]]，分析复杂度高于标准前后测设计。
 > - **使用频率低** 由于后勤和伦理门槛高，所罗门四组设计的实际使用频率远低于[[Posttest-Only Control Group Design\|仅后测对照组设计]]——许多研究者倾向于取消前测而非增设组别来控制前测效应。

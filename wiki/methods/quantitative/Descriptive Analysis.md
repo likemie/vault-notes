@@ -44,17 +44,17 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 描述性分析（Descriptive Analysis）是[[Quantitative Research\|量化研究]]数据分析的基础步骤，报告所有预测[[Variable\|变量]]和[[Dependent Variable\|结果变量]]的均值（means）、标准差（standard deviations）和得分范围（range of scores）。它提供数据的整体图景，为后续的推断统计检验奠定基础（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 描述性分析在调查和实验数据分析中的位置（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 ### 调查数据分析中的描述性分析（步骤 3）
 
-> [!example]
+> [!example|notitle]
 > - 对所有预测[[Variable\|变量]]和[[Dependent Variable\|结果变量]]计算均值、标准差和得分范围。
 > - 识别数据中是否存在缺失数据——某些受试者可能未对某些题项或整个量表提供回应。
 > - 制定计划报告缺失数据的程度（如缺失百分比、缺失模式）。
@@ -62,7 +62,7 @@ updated: 2026-10-15
 
 ### 实验数据分析中的描述性分析
 
-> [!example]
+> [!example|notitle]
 > - 报告频率（frequencies）——如样本中男性和女性受试者各多少人。
 > - 报告均值和标准差——如样本平均年龄、族裔构成。
 > - 报告各组在主要结果变量上的均值和标准差——如实验组和控制组的倦怠症状均值及各自的标准差。
@@ -72,14 +72,14 @@ updated: 2026-10-15
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > - 任何[[Quantitative Research\|量化研究]]的数据分析都必须从描述性分析开始。
 > - 方法计划中应预先说明将报告哪些描述统计量，以便读者理解数据的整体特征。
 > - 期刊论文通常要求结果部分以描述统计表开头。
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - 描述性分析只提供样本特征的总结，不能直接用于推断总体特征或检验假设。
 > - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和[[Standard Error\|标准误]]。
 > - 仅报告均值而不报告变异指标（如标准差或[[Standard Error\|标准误]]）可能导致对数据分布特征的误读。

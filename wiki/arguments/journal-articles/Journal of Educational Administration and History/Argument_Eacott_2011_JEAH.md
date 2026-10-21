@@ -65,7 +65,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 论文以 **[[Pierre Bourdieu]] 的社会理论**为核心分析工具(p.47-49)：
 
 - **[[Champ|场域]]** 相对自主的社会世界，其自主性体现为生成自身价值和成就标志的能力。教育场域正在削弱——"市场和管理主义的语言已渗透进[[CORE Education|核心教育]]论述"(Blackmore, 2010, p.108, p.48)
@@ -78,7 +78,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > - **方法** 理论性／[[Critical Policy Analysis|批判性政策分析]]（polemical intervention），以 Bourdieuian 社会理论为分析透镜
 > - **案例** NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
 > - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *[[Melbourne Declaration]]*）、联邦/州教育政策、学术文献
@@ -87,7 +87,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 论文以四个递进步骤展开论证：
 
 ### 第一步：NSW 校长培养是管理主义国家干预
@@ -124,7 +124,7 @@ Eacott 提出(p.56-58)：
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 
 1. NSW 公立学校系统的校长培养方案体现了教育[[Champ|场域]]被经济和政治场域渗透的系统性削弱——"校长培养不过是当代国家对公共部门管理主义干预的一部分"(p.45)
 2. [[School Leadership|学校领导力]] [[Doxa]] 通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家改革的交付者"(p.45, 52)
@@ -139,30 +139,30 @@ Eacott 提出(p.56-58)：
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “新南威尔士州公立学校系统对校长的培训，证明了学校教育[[Champ\|场域]]折射来自其他场域（特别是经济和政治场域）干预的力量正在减弱。”
 > ("The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the [[Champ\|field]] of schooling to refract interference from other fields, particularly the economic and political fields.")(p.45)
 
-> [!quote]
+> [!quote|notitle]
 > “本文的核心论点是，如果[[School Leadership\|学校领导]]者要重拾其激进的过去并参与公共知识分子活动，就需要一种替代性的领导惯习，这种惯习是建立在提出教育问题和争论（而非解决组织问题）的基础之上的。”
 > ("The central thesis of this article is that if school leaders are to reclaim their radical past and engage in public intellectualism, an alternate leadership [[Habitus]], one built on educational problem posing and contestation as opposed to organisational problem solving, is required.")(p.45)
 
-> [!quote]
+> [!quote|notitle]
 > “要成为[[School Leadership\|学校领导力]]游戏中的玩家，一个人必须学习或习惯于游戏规则。这是一场用经济语言表达的游戏，伴随着来自教育领域之外的人的频繁干预或干扰。”
 > ("To be a player in the game of [[School Leadership]], one must learn or be habituated to the rules of the game. A game couched in economic language with frequent intervention, or interference, from those beyond education.")(p.50)
 
-> [!quote]
+> [!quote|notitle]
 > “任何试图将领导实践客观化和/或去情境化的尝试，都会摧毁它试图解释的东西。领导力是一种社会实践，它不是静止的，它是在组织/群体成员之间的互动中每时每刻被定义出来的。”
 > ("Any attempt to objectify and/or de-contextualise leadership practice destroys that which it attempts to explain. Leadership is a social practice, it is not static, it is defined moment-by-moment in the interactions between organisational/group members.")(p.56)
 
-> [!quote]
+> [!quote|notitle]
 > “如果正统观念要受到挑战，就需要替代性的存在方式。不仅仅是解决问题的替代手段，还必须是替代性的思维方式和提出问题的方式。”
 > ("If orthodoxy is to be challenged alternate ways of being are needed. Not just alternate means of problem solving, but alternate ways of thinking and problem posing.")(p.58)
 
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **论文自认局限** 作为一篇"争论性干预"（polemical intervention），论文明确基于对现状的"不满"立场(p.44)，可能被批评为选择性使用证据
 > - **大学本位偏见** 作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"，尽管声明试图同时问题化两种立场以避免现代主义二元对立
 > - **NSW 案例的推广性** 论文聚焦单一系统（NSW 公立学校），其结论向其他情境（私立学校、其他州/国家）的推广需要谨慎

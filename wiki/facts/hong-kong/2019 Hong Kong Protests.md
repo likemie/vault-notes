@@ -79,12 +79,12 @@ updated: 2026-10-21
 > 
 > 中共在 2019 年的骚乱中找到了干预点。这是通过将 2019 年的骚乱框定为国家安全问题，并将通识教育科 (LS) 视为煽动颠覆和叛乱的主要载体来实现的。
 
-> [!quote]
+> [!quote|notitle]
 > "History has taught us that the rejuvenation of countries in the modern era necessitates the control of educational matters, alongside the exercise of sovereignty over its physical borders." — *China Youth Daily* (2019, cited in Yan & Morris, 2025, p. 489)
 > 
 > 历史告诉我们，现代国家的复兴不仅需要行使对物质边界的主权，还需要对教育事务的控制。
 
-> [!quote]
+> [!quote|notitle]
 > 2019 年中国历史课程指引核心目标：培养学生 "sense of state and national identity, belonging, and responsibility" (Curriculum Development Council 2020, p. 5, cited in Xu, 2024, p. 579)
 > 
 > 培养学生国家观念和国家认同、归属感和责任感。

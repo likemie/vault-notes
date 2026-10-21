@@ -93,7 +93,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 - [[University-Industry Collaboration]] — 核心概念，定义为"有目的的、对齐的参与"（purposeful and aligned engagement），涵盖研究与学术、教育与学习、公共效益三大维度
 - [[Triple Helix]]（三重螺旋）— Etzkowitz and Leydesdorff(1995)提出，将大学-产业-政府之间的反馈循环理解为相互支撑的关系结构，在[[Innovation Ecosystem|创新生态系统]]的历史脉络中被引用(p.13)
 - [[Multi-University]]（多元大学）— Clark Kerr(2001)对美国现代综合性大学的描述：广泛而扩张，以文化、教育、发现、创新乃至医疗保健等多元方式触及社区和社会(p.5)
@@ -102,7 +102,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 - 类型：导论性书籍章节，兼有[[Literature Review|文献综述]]、历史分析和框架建构
 - 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
 - 未报告独立的实证数据；四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）作为说明性证据引用
@@ -111,7 +111,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 论证链可以分为三个层次：首先是**概念框架的建立**——定义[[University-Industry Collaboration\|产学合作]]的三重回报和目标对齐机制；然后是**挑战的诊断**——从治理差异、[[Academic Freedom\|学术自由]]、合同谈判到大学-企业竞争的系统性分析；最后是**解决路径的展示**——通过历史追溯、文献定位和 [[University Industry Demonstration Partnership\|UIDP]] 案例说明如何搭建合作的制度桥梁。
 
 ### 第一层：何为产学合作——三重回报与目标对齐
@@ -120,7 +120,7 @@ citation_aliases:
 
 2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
 
-> [!example]
+> [!example|notitle]
 > 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis and Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统假设。
 
 ---
@@ -129,7 +129,7 @@ citation_aliases:
 
 仅仅存在产学关系（relationships）并不足够；真正产生影响力的是"参与"（engagement）——一种有目的的、对齐的、通常通过正式协议确立的合作。这种参与覆盖三大领域：研究与学术、教育与学习、公共效益(p.4)。
 
-> [!example]
+> [!example|notitle]
 > 可以这样理解"关系"与"参与"的区别：一所大学和一家企业签署了合作备忘录，每年开一次联谊会，这叫"关系"。但如果双方签订了一份[[Sponsored Research Agreement\|赞助研究协议]]，约定了知识产权归属、发表审查时间表、学生参与方式和交付物要求，并且共同产出可商业化的技术或可发表的研究——这才叫"参与"。
 
 ---
@@ -161,7 +161,7 @@ citation_aliases:
 
 > 上图（Figure 1.2, p.6）展示了双方各自的回报与共享目标。左侧圆是大学的核心追求——经费支持、研究引用和学术声誉；右侧圆是企业的核心追求——盈利能力、产品创新和获取人才与知识。两圆交叠处是双方高度对齐的领域：经济增长、[[Workforce Development|劳动力发展]]和知识产权。最左端的经费支持——企业支付赞助研究费用——同时服务于大学的经费目标和企业的知识获取目标，因此靠近交叠区；而学术声誉和盈利能力分别位于两端，是分歧最大的目标。这个结构解释了为什么产学合作在某些领域顺畅（交叠区内）、在另一些领域摩擦不断（两端）。
 
-> [!example]
+> [!example|notitle]
 > 想象一家制药公司和一所大学医学院合作开发一种新药。公司想要的是药物专利和市场份额——对应图中右侧"盈利能力"和"产品创新"；大学想要的是发表在顶级医学期刊上的[[Clinical Trial\|临床试验]]论文和该领域的研究声誉——对应左侧"研究引用"和"学术声誉"。这两种目标不是天然冲突的——论文可以提高药物的科学可[[Reliability\|信度]]进而帮助市场推广——但它们的时间线和优先级不同：公司希望尽快获得 FDA 批准，而大学希望尽可能全面地收集和分析数据。这种张力正是图中交叠区两侧存在的结构性分歧的具体表现。
 
 ---
@@ -190,7 +190,7 @@ citation_aliases:
 
 大学重视学术自由（academic freedom）：教师和学生有追求个人学术兴趣的高度自主权，几乎不受限制地分享工作成果。这使得大学在信息、人员和创意上"具有渗透性"（porous）——这些东西可以自由地流入和流出。企业则恰恰相反：必须限制有价值的知识产权——发明、数据、软件、出版物和媒体的流动(p.8–9)。
 
-> [!example]
+> [!example|notitle]
 > 一个形象的对比：大学教授可以在学术会议上自由地展示未发表的数据和初步发现，甚至把博士生暑期派到合作企业去实习；但企业的研究人员通常需要经过法务部门批准才能在外部会议发言，而且可能被禁止讨论某些技术细节。这两种行为逻辑的冲突，正是产学协议谈判中大量摩擦的根源。
 
 这一差异的本质是"提升声誉的工作相对于提升商业化的工作的相对重要性"不同(p.9)。
@@ -213,7 +213,7 @@ citation_aliases:
 
 每一项都可能引发大学内部多方（教师项目负责人、院系、合同与拨款部门、[[Technology Transfer Office|技术许可办公室]]）和企业内部多方（研究伙伴、管理层、合同部门）之间旷日持久的谈判。有些谈判因为一方无法保证另一方的预期——比如保证独立教师的行动、或企业想用研究来推广特定产品或观点——而永远无法完成(p.10)。
 
-> [!example]
+> [!example|notitle]
 > 考虑一个情境：一家 AI 初创公司想赞助某大学计算机系的一位教授做自然语言处理研究。公司希望获得所有研究成果的独家商业使用权，并要求在论文提交前 90 天进行审查；教授希望研究成果可以自由发表并开源代码；系主任担心研究项目占用研究生太多时间影响毕业进度；大学技术许可办公室认为独家许可期限不应超过 5 年；合同与拨款办公室需要确认间接成本率是否合规。这五个利益相关方中的任何一个说"不"，合作就可能搁浅。
 
 ---
@@ -222,7 +222,7 @@ citation_aliases:
 
 内战到一战期间大学的形成期，大学和领先企业并不竞争——企业生产食品、燃料、钢铁和制成品等实物产品，大学不以规模生产这些。但今天，领先企业也生产、传播、处理、存储和分析信息，能提供教育课程，管理海量图书馆资源，雇用大量博士训练的研究人员。"大学和企业作为依赖声誉和信息收入的企业，已经变得更加相似"(p.10)。
 
-> [!example]
+> [!example|notitle]
 > Google 不仅是一个搜索引擎公司——它通过 Google Research 发表大量学术论文，通过 Google Career Certificates 提供职业培训，通过 DeepMind 从事基础科学研究（AlphaFold 就是证明）。在这种环境下，大学需要回答一个问题：如果企业可以自己做基础研究、自己培训人才，大学在产学合作中的独特价值是什么？
 
 ---
@@ -249,7 +249,7 @@ citation_aliases:
 
 大学是区域创新生态系统的"锚点"——斯坦福之于硅谷，MIT 之于波士顿。但重要的是，基于地点的生态系统需要一系列学院和大学，而非仅一所精英大学。[[California Master Plan for Higher Education|加州高等教育总体规划]]下包括社区学院、加州州立大学和加州大学三个层次，支撑了整个区域的创新经济(pp.12–13)。
 
-> [!example]
+> [!example|notitle]
 > 硅谷不仅需要斯坦福培养的 AI 研究员和计算机科学家，也需要社区学院培养的实验室技术员和加州州立大学培养的工程项目经理。O'Mara(2019)在 The Code 中引用原文："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"(p.13)。
 
 ---
@@ -274,7 +274,7 @@ UI 合作面临的合同谈判挑战是 UIDP 的起源。2003 年，GUIRR 发起
 
 2004 年白皮书提出了创建 UIDP 的建议。2006 年发布了 Guiding Principles。早期成果包括 TurboNegotiator（辅助合同谈判的工具）和 Contract Accords（针对最棘手的合同条款，提供概述、学术和企业各自视角以及解决差异的策略）。Contract Accords 最初涵盖 5 个条款，现已扩展到近 20 个(p.16)。
 
-> [!example]
+> [!example|notitle]
 > 举例来说，Contract Accords 不告诉你"发表审查期应该是 30 天还是 90 天"——因为没有一个答案适合所有情况。它告诉你的是：为什么企业需要审查期（保护商业机密和知识产权）、为什么大学抵制过长的审查期（影响学生按时毕业和学术发表）、以及在不同情境下（基础研究 vs 应用开发、多公司联合体 vs 一对一合作）什么样的折中方案已被证明可行。
 
 2012 年，UIDP 发布了 [[Partnership Continuum]]（伙伴关系连续体）——展示产学合作不同模式的图谱，使人们意识到企业和大学可以通过多种方式合作，而不仅仅是赞助研究(p.16)。
@@ -299,7 +299,7 @@ UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 - 当代最前沿的科技创新——以 2024 年诺贝尔奖为代表——越来越多地发生在大学与产业的"界面"上，纯学术或纯企业环境难以单独产生同等影响力的突破(pp.3–4)
 - [[University-Industry Collaboration|产学合作]]的核心不是建立关系（relationships），而是建立有目的的、对齐的"参与"（engagement），通常以正式协议为框架(p.4)
 - 产学合作的回报可分为三大维度：研究与学术、教育与学习、公共效益，分别对应现代大学的多重使命(pp.4–5)
@@ -313,19 +313,19 @@ UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “当今的创新通常发生在’界面’处，即产业界和大学为了共同目标而相互合作的间隙空间。”
 > (“Innovation today often occurs at the ‘interface,’ the interstitial space where industry and universities work with each other toward common goals.”)(p.4)
 
-> [!quote]
+> [!quote|notitle]
 > “实力与影响力的发展，不仅仅依靠大学与产业之间的关系，更在于深度参与。”
 > (“Strength and impact are developed not solely through relationships between universities and industry but engagement.”)(p.4)
 
-> [!quote]
+> [!quote|notitle]
 > “创新很难在孤立的状态下发生。”
 > (“Innovation does not readily occur in isolation.”)(p.12)
 
-> [!quote]
+> [!quote|notitle]
 > “有大量文献表明，现代社会要持续保持高水平的激进创新，就需要组织形式的多样性、组织结构的异质性以及思想的多样性。”
 > (“There is substantial literature which suggests that continuous high levels of radical innovation in modern societies require diversity in organization forms, heterogeneity in organizational structures, diversity in ideas.”)(Hollingsworth & Hollingsworth, 2011, p.27,转引自 p.12)
 
@@ -333,7 +333,7 @@ UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的�
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 - 这一章的功能是提供全书的导论框架而非完整的[[Literature Review|文献综述]]；更全面的研究综述在第二章中呈现(p.11)
 - 四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）是说明性的而非系统性的[[Case Study|案例研究]]——它们展示了合作的可能性，但未提供失败案例的同等详细分析
 - 分析主要基于美国大学和企业体系的经验；虽然 [[University Industry Demonstration Partnership|UIDP]] 的国际扩展被提及，但对非美国背景下的[[University-Industry Collaboration|产学合作]]挑战和机制着墨有限(p.19)

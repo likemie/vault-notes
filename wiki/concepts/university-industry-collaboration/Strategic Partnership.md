@@ -41,17 +41,17 @@ updated: 2026-10-03
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 产学战略伙伴关系（Strategic Partnership in [[University-Industry Collaboration]]）是产学互动的最高层次。与战术/交易型互动（tactical and transactional）和协作型互动（collaborations）不同，战略伙伴关系建立在信任、互利目标、持续联络和长期规划之上——它不是围绕单个项目的临时合作，而是一种制度化的、面向未来的联盟关系（[[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, pp.78–79]]; UIDP, 2012，引自 [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.45–46]]）。
 
-> [!quote]
+> [!quote|notitle]
 > "any UI relationship that aims to become a strategic partnership will be built on trust between partners, mutually beneficial goals, consistent points of contact, strategic roadmapping, long-term planning, setting and accounting of annual objectives, and adjusting, pivoting, and growing."([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.78]])
 
 ---
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 产学战略伙伴关系至少需要四个基本要素([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, pp.78–79]])：
 
 1. **双方联络人（Points of Contact, POCs）** 大学和企业各指定一个固定的对接人。联络人不仅要了解各自组织的需求，还要有能力在组织内部协调资源、推动决策。缺少联络人，合作关系会在"不知道该找谁"中逐渐冷却。
@@ -63,7 +63,7 @@ updated: 2026-10-03
 
 ## 关系层次
 
-> [!abstract]
+> [!abstract|notitle]
 > [[University Industry Demonstration Partnership\|UIDP]]（2012）将产学互动区分为三个层次([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.45–46]])：
 
 | 层次 | 特征 | 治理逻辑 |
@@ -78,7 +78,7 @@ updated: 2026-10-03
 
 ## 生长路径
 
-> [!note]
+> [!note|notitle]
 > 大多数产学战略伙伴关系不是顶层设计出来的，而是从一个小项目"生长"出来的。典型路径包含六个阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.79]])：
 
 1. 一个教师与一个产业研究者因共同兴趣启动一个小项目。
@@ -94,7 +94,7 @@ updated: 2026-10-03
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > **vs [[Partnership Continuum\|伙伴关系连续体]]** [[University Industry Demonstration Partnership\|UIDP]] 的伙伴关系连续体（Partnership Continuum）描述了产学互动的全部光谱——从单次交易到全面战略联盟。战略伙伴关系是该连续体的一端，但二者的侧重点不同：连续体强调的是"互动形式有多少种"，战略伙伴关系强调的是"互动如何被治理"——四个基本要素（联络人、愿景、路线图、问责）是治理的核心机制。
 >
 > **vs 战术/交易型互动** 战术型互动以合同管理为中心——双方就范围、时间、交付物和价格达成一致，项目完成后关系即结束。战略伙伴关系的不同在于：目标不限于单个项目的交付物；双方有制度化的定期审查机制，而不是"做完就散"；失败不自动导致关系终止，而是触发调整和转向。

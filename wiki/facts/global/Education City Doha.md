@@ -37,14 +37,14 @@ updated: '2026-05-18'
 
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > 进入 21 世纪，西方大学开始大规模在海外建立分校。此前，大学通常与当地机构合作提供有限课程或进行师生交流，教师短期飞行授课([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.14]])。但近年来，美、澳、英、加等国大学开始在海外建设综合性分校，配备长期驻地的教学和行政人员([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.15]])。
 
 ---
 
 ## 经过
 
-> [!note]
+> [!note|notitle]
 > 卡塔尔首都多哈的教育城（Education City）是大学海外分支校园集中布局的典型案例。在一个共享的园区内，多所美国顶尖大学设立了分校（Lewin, 2008a, p.1，转引自 Slethaug, 2010, pp.15–16）：
 > - 康奈尔大学威尔医学院（Weill Medical College of Cornell University）— 医学
 > - 乔治城大学（Georgetown）— 国际事务
@@ -57,7 +57,7 @@ updated: '2026-05-18'
 
 ## 争议与评论
 
-> [!warning]
+> [!warning|notitle]
 > 教育城的出现标志着教育与全球化的一个新阶段，但也提出了诸多问题([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.16]])：
 > - 市场驱动的政策与财务可持续性——这些分校能否在经济上自给自足？
 > - 将一种文化嫁接到另一种文化之上的影响——西方教育模式在中东文化中的适用性
@@ -68,7 +68,7 @@ updated: '2026-05-18'
 
 ## 相关概念／政策
 
-> [!example]
+> [!example|notitle]
 > - [[International Education]] — 教育城是[[Internationalization of Higher Education\|高等教育国际化]]的极端案例
 > - [[International Schools]] — K-12 层面的类似"去国家化"机构
 

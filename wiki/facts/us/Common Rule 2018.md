@@ -45,23 +45,23 @@ updated: 2026-10-16
 
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > Common Rule（正式名称为 Federal Policy for the Protection of Human Subjects）是美国联邦政府规范人类受试者研究的基础性法规，由卫生与公众服务部（Department of Health and Human Services, HHS）下属的人类研究保护办公室（Office for Human Research Protections, OHRP）发布。其最初版本于 1991 年由 15 个联邦部门共同采用，2018 年进行了重要修订（OHRP, 2018, cited in [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.265]]）。
 
 ## 政策文本摘要
 
-> [!abstract]
+> [!abstract|notitle]
 > Common Rule 的核心要求包括两个相互关联的机制（p.265）：
 
 > 1. **[[Institutional Review Board\|机构审查委员会]]（[[Institutional Review Board\|IRB]]）审批** 所有涉及人类受试者的研究方案必须在研究开始前获得所在机构的 IRB 审查和批准。IRB [[Evaluation Research\|评估研究]]参与者的风险水平，决定审批、要求修改或拒绝方案
 > 2. **[[Informed Consent\|知情同意]]（Informed Consent）** 研究者必须获得每位研究受试者的知情同意，确保参与者了解[[Research Purpose\|研究目的]]、程序、风险和权利
 
-> [!quote]
+> [!quote|notitle]
 > Common Rule 将"研究"（research）定义为"旨在发展或贡献可推广知识（generalizable knowledge）的系统性调查，包括研究开发、测试和评估"（OHRP, 2018, cited in [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.265]]）。
 
 ## 在产学合作中的不对称性
 
-> [!warning]
+> [!warning|notitle]
 > Common Rule 在[[University-Industry Collaboration\|产学合作]]中创造了一个关键的制度不对称（pp.265）：
 
 > - **企业侧** 私营企业使用自有资金开展人类受试者研发时，**不需要**遵守 Common Rule。企业有更大的灵活性来决定研究方案审查和受试者保护的方式
@@ -71,7 +71,7 @@ updated: 2026-10-16
 
 ## 相关概念
 
-> [!example]
+> [!example|notitle]
 > - [[Institutional Review Board]]
 > - [[Informed Consent]]
 > - [[Research Ethics]]

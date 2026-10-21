@@ -72,7 +72,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 分析从三个理论资源出发，三者层层递进：
 
 - **[[Bildung]] 传统** 以 Humboldt(1793)的经典定义——个体与世界之间"最独立的[[Interaction Effect|交互作用]]"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo(2002)强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein and Ricken(2010)的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准(pp.237–239, 246)。
@@ -83,12 +83,12 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 理论-分析讨论（theoretical-analytical discussion），结合对三款德国学校学习软件（Antolin 阅读平台、bettermarks 数学平台，以及一款未具名的学习软件）的界面和功能进行批判性分析。分析聚焦三个维度：即时反馈机制、奖励系统设计、表现仪表盘可视化。这些软件虽来自德国市场，但分析所揭示的机制——即时响应、[[Gamification]]、仪表盘——是跨国 EdTech 产品的通用设计模式。
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 
 ### 第一步：观察——GEI 中的算法技术不是中立的工具
 
@@ -205,7 +205,7 @@ Masschelein and Ricken（2010, p.130）将 Bildung 拆解为三重关系，为�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - 算法系统中的[[Knowledge Building Theory|知识建构]]与教育学的知识概念"截然对立"——前者依赖同时性和可检索性（知识是随时可调取的信息），后者要求时间和主观意义建构（知识是在时间中形成的理解）(p.235)
 > - 在算法系统中，思考被视为"干扰[[Variable\|变量]]，因为它需要时间"；而对教育而言，思考是"应该在学校中培养的核心行动"(p.238)
 > - 学习软件的即时反馈消除了教学过程中的"中间阶段"——这一阶段本可以用于反思，也正是在这一阶段 [[Bildung]] 有可能发生(pp.240–241)
@@ -216,29 +216,29 @@ Masschelein and Ricken（2010, p.130）将 Bildung 拆解为三重关系，为�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “对于此类系统而言，思考仅仅是一个干扰[[Variable\|变量]]，因为它会耗费时间。然而，对于受教育学指导的教育过程而言，思考才是应该在学校中培养的核心行动。”
 > ("For such systems, thinking is just an interfering [[Variable]] because it takes time. For an education process guided by pedagogy, however, thinking is the central action that should be cultivated in school.")(p.238)
 
-> [!quote]
+> [!quote|notitle]
 > “在这种知识中，不存在从过去到未来的时间线性，只有同步性。”
 > ("In this kind of knowledge there is no linearity of time from past into future, just synchrony.")(Esposito, 2013, p.132, p.235)
 
-> [!quote]
+> [!quote|notitle]
 > “如果被跟踪和调节的仅仅是行为，那么洞察力就不再相关了。理性的时代终于走向终结。（……）现在看来，人们不需要被启蒙，而只需被分数和徽章所调节，就能让他们变得更适应、更快乐、更多产。”
 > ("Insight is no longer relevant if all that is tracked and regulated is behavior. The age of reason finally comes to an end. (...) Now it seems that people do not have to be illuminated but simply regulated by points and badges in order to make them fitter, happier, and more productive.")(Schrape, 2014, p.43, p.236)
 
-> [!quote]
+> [!quote|notitle]
 > “‘陶冶（[[Bildung]]）的概念总是包含着一种对什么是人的理解（对人性的理解），以及我们如何才能实现这一点。它总是蕴含着一种人性的理念，以及对那些令人不满或不充分的事物的认识和表征。’”
 > ("the 'concept of [[Bildung]] always contains an understanding of what is human (an understanding of humanity) and how we can attain this. It always implies an idea of humanity and a knowledge and representation of that which is unsatisfactory or insufficient'")(Masschelein & Ricken, 2010, p.131, p.239)
 
-> [!quote]
+> [!quote|notitle]
 > “数字技术拥有精简全世界教育教学情境的权力。”
 > ("Digital technologies have the power to streamline pedagogical settings worldwide.")(p.246)
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 
 **案例范围的局限** 经验材料限于德国学校学习软件（Antolin、bettermarks），对其他国家或高等教育情境的适用性需要进一步论证。虽然指向[[Global Education Industry|全球教育产业]]，但德国的教学论传统（[[Didaktik]]/[[Bildung]]）在其他教育文化——尤其是英语国家的教育传统——中并不具有同等地位，这可能影响论证的跨国说服力。
 

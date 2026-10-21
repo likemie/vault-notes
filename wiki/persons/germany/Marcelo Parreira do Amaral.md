@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!note]
+> [!note|notitle]
 
 - 任职于明斯特大学教育学院（Institute of Education, University of Münster, Germany）（Thompson & Parreira do Amaral, 2022, p.1）
 - 2019 年与 [[Christiane Thompson]] 和 [[Gita Steiner-Khamsi]] 共同编辑 *Researching the [[Global Education Industry]] — Commodification, the Market and Business Involvement*（Palgrave Macmillan）（Thompson & Parreira do Amaral, 2022, p.17）
@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 主要著作与思想发展
 
-> [!abstract]
+> [!abstract|notitle]
 
 - Parreira do Amaral, M., [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]], & [[Christiane Thompson|Thompson, C.]] (Eds.). (2019). *Researching the [[Global Education Industry]] — Commodification, the market and business involvement*. Palgrave Macmillan. — 系统研究全球教育产业的商品化、市场和商业参与
 - Parreira do Amaral, M. (2019). Embedding education research in the European economic imaginary? In M. Parreira do Amaral, G. Steiner-Khamsi, & C. Thompson (Eds.), *Researching the global education industry*. Palgrave Macmillan. — 论证教育研究正被嵌入欧洲经济想象，从而被缩减为对技术科学创新的工具性贡献
@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 
 在本书导言中，Parreira do Amaral and Thompson 共同提出，当前高等教育正经历一种"（新的）[[Geopolitics of Knowledge|知识地缘政治]]"，其中创新、科学和教育成为个体、企业和国家在全球竞争中进行战略定位的关键维度。他强调需要关注高等教育从民族国家框架中"脱位"并在全球政治经济[[Champ|场域]]中"再定位"的多层面过程。
 

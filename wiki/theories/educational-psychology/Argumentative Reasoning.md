@@ -35,7 +35,7 @@ updated: 2026-10-16
 
 ## 理论定位
 
-> [!theory-position] 
+> [!theory-position|notitle]
 > - **解释对象** 个体针对日常社会问题产生因果解释和论辩的思维过程。
 > - **理论问题** 论辩技能如何与底层的[[Epistemology\|认识论]]标准（如证明、专长和确定性）相关联？
 > - **理论类型** 基于日常非正式推理的认识论类型学。
@@ -45,10 +45,10 @@ updated: 2026-10-16
 
 ### 基于专家确定性的三种认识论观点
 
-> [!proposition-chain] 
+> [!proposition-chain|notitle]
 > [[Epistemology\|认识论]]观点可依据对专长确定性的态度划分为[[Absolutist\|绝对论者]]、[[Multiplist\|多元论者]]和[[Evaluativist\|评价论者]]。
 
-> [!chain-link]
+> [!chain-link|notitle]
 > - **前提一** 对知识确定性和专家角色的看法决定了个体如何生成和权衡替代性论据。
 > - **机制一** 绝对论者（Absolutists）：视知识为确定的绝对事实，高度肯定自己的信念，认为专家确切掌握真理。
 > - **机制二** 多元论者（Multiplists）：否定专家确定性的可能，对专长持怀疑态度，陷入极端[[Subjectivism\|主观主义]]，认为所有观点等价。
@@ -56,6 +56,6 @@ updated: 2026-10-16
 
 ## 适用边界
 
-> [!theory-boundary] 
+> [!theory-boundary|notitle]
 > - **适合** 分析横跨不同年龄层个体处理日常非正式问题时的认知立场与论证生成能力。
 > - **局限** 模型分类仅建立在对“专长（expertise）”问题的回应上，且[[Evaluativist\|评价论者]]层级仅占极小比例；该分类很大程度上反映了西方学校教育强调论辩与证据的价值。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 105)]]

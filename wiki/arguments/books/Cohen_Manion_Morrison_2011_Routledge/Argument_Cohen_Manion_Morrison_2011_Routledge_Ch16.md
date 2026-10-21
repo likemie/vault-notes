@@ -991,7 +991,7 @@ Cobb et al. (2003, p. 9) 强调：理论生成是设计实验的核心，它们�
 
 设计研究的创始通常归功于 Brown (1992)。她的自述性研究历程描绘了一个从实验室走向教室的轨迹（p. 338）：
 
-> [!quote]
+> [!quote|notitle]
 > 为了捕捉真实世界的真实性，认识到真实世界的组成部分很少可隔离，整体确实大于部分之和。（第16章，p. 338）
 >
 > *The real world is 'rarely isolatable' in terms of its components... the whole really is more than the sum of its parts.* (Brown, 1992, p. 166)

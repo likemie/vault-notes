@@ -96,7 +96,7 @@ citation_aliases:
 
 ## 全书结构
 
-> [!abstract]
+> [!abstract|notitle]
 > 编者将 14 章组织为三部分，从宏观想象到制度互动再到主体性生产，逐层展开对[[Geopolitics of Knowledge\|知识地缘政治]]的考察(Thompson &, pp.12–13)：
 
 **Part I — Imaginaries, Spaces, Tensions（Ch 2–7）**
@@ -111,7 +111,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!tip]
+> [!tip|notitle]
 > - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics\|古典地缘政治]]（领土扩张、民族国家中心）转向[[New Geopolitics\|新地缘政治]]（[[Relational Space\|关系性空间]]构型、政治想象与全球连接性），整合后殖民／去殖民视角(Mignolo, 2002, 2009)
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的[[Discourse|话语]]建构
 - [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（[[EU]]、[[ASEAN]] 等）
@@ -121,7 +121,7 @@ citation_aliases:
 
 ## 各章概览
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Moisio_2022_Springer]] — Ch2 [[Sami Moisio]]: [[Knowledge-Based Economization\|知识经济化]]在何种意义上具有[[Geopolitics|地缘政治]]维度，以 Harvey、Porter and Hub and [[Flow]] 想象为分析资源
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 [[Marcelo Parreira do Amaral]]: 提出新[[Geopolitics of Knowledge\|知识地缘政治]]概念，以[[Critical Geopolitics\|批判地缘政治学]]和后殖民去殖民两脉络综合为框架，分析[[Global Regionalisms\|全球区域主义]]和 [[Global Education Industry\|GEI]] 两大转型语境，展示 IEHs and Minerva 作为地缘政治案例
 > - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen 的 [[Transitology]] 和双轴模型为框架，对比[[Transhumanism\|超人类主义]]与[[Posthumanism\|后人类主义]]两种晚期现代性教育愿景，呼吁以 connectivity 和 [[Response-ability]] 为组织原则的新型公共教育理论

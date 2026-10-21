@@ -41,13 +41,13 @@ updated: 2026-10-16
 ---
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > 荷兰的产业政策经历了长期演变：1945–1970 年积极产业政策 → 1970 年代转向防御性政策 → 1990 年代主要关注市场[[Liberalization|自由化]] → 2000 年代转向"强商业-强政府"（strong-business-strong-government）方法 → 2010 年后转向"顶级行业"（top-sector）和使命驱动政策。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
 
 ---
 ## 政策文本摘要
 
-> [!abstract]
+> [!abstract|notitle]
 > 政策的三个核心要素：（i）通用轨道为企业家创新创造空间；（ii）针对性的顶级行业政策以强化关键战略经济部门的绩效；（iii）关注风险投资和种子资本融资。政策目标包括到 2020 年进入全球[[Competitiveness|竞争力]]指数前五名，以及达到 2.5% 的研发支出占 GDP 比例。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
 
 > [!info] 九个顶级行业的选择标准
@@ -82,6 +82,6 @@ updated: 2026-10-16
 ---
 ## 相关概念／政策
 
-> [!tip]
+> [!tip|notitle]
 > - [[Triple Helix]] — 该政策明确旨在让三重螺旋机制运转起来。
 > - [[Industrial Strategy Challenge Fund]] — 英国的产业战略挑战基金在逻辑上有类似之处，同为产业主导、挑战驱动的创新政策。

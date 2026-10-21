@@ -45,10 +45,10 @@ updated: 2026-09-11
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 写作连贯性（coherence）指文本中观念之间的逻辑联结：观念相互关联（tie together），句子之间逻辑推进（logically [[Flow]] from one sentence to another），段落之间自然衔接（connect from one paragraph to another）。连贯性是增强学术文本可读性的核心手段（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
-> [!quote]
+> [!quote|notitle]
 > "Every sentence should be a logical sequel to the one that preceded it."（Zinsser, 1983; 引自 Creswell & Creswell, 2022, 第4章）
 
 ## 三个层面的连贯性
@@ -76,7 +76,7 @@ updated: 2026-09-11
 
 [[Quantitative Research|量化研究]]中，连贯性通过重复关键术语来实现。在标题、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]和[[Literature Review|文献综述]]标题中一致地使用同一[[Variable|变量]]名称，使读者在文本各组成部分之间建立起清晰的连接。强调[[Independent Variable|自变量]]和[[Dependent Variable|因变量]]的一致呈现顺序，同样有助于构建连贯的研究计划（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章）。
 
-> [!example]
+> [!example|notitle]
 > 如果一项量化研究的标题使用"academic [[Self-Efficacy]]"，那么目的陈述中应继续使用"academic self-efficacy"而非换成"academic confidence"或"self-belief in learning"。术语的每一次替换都会削弱文本的连贯性，迫使读者重新理解概念之间的对应关系。
 
 ## 术语一致性作为连贯性基础

@@ -77,7 +77,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 报告的核心概念框架建立在两个轴上：
 
 - **五个合作领域（categories）** 学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展——覆盖了大学与企业互动的全部主要维度
@@ -89,7 +89,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > - 类型：实践导向的框架开发报告，非学术实证研究
 > - 方法：基于 [[University Industry Demonstration Partnership\|UIDP]] 项目工作组的集体经验和多次讨论（电话会议、邮件交流、面对面会议）；在 UIDP 成员社区的多次展示和反馈中迭代完善
 > - 起点：工作组成员 Wayne Johnson 此前对[[University-Industry Collaboration\|产学合作]]形式的初步分类（Figure 1）提供了项目的出发点(p.4)
@@ -102,7 +102,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 报告的逻辑是"问题诊断 → 框架建构 → 逐类展开 → 路径建议"。核心主张是：只有在看到合作形式的完整光谱之后，大学和企业才能做出真正知情的合作策略选择。
 
 ### 步骤一：问题诊断——偏好的盲区
@@ -149,7 +149,7 @@ citation_aliases:
 > [!example] 图3：参与层级（Levels of Engagement）
 > ![](https://img.mylikemie.icu/sources/UIDP_2012_PartnershipContinuum/figures/UIDP_2012_PartnershipContinuum_Fig3_Levels_of_Engagement.jpg)
 
-> [!warning]
+> [!warning|notitle]
 > 这三个层级不是阶段模型。报告明确强调：合作不需要从 Level 1 开始逐级上升，"双方可以在任何层级开始互动，可以同时在多个层级进行互动，也可以在任何方向上在层级之间移动"(p.7)。同一家大型企业可能与同一所大学在学生招聘上处于 Level 1（交易型招聘会），在联合研究上处于 Level 3（共建联合实验室），两种关系并行不悖。
 
 ---
@@ -306,7 +306,7 @@ citation_aliases:
 
 #### 跨越五个领域的终极形态：多面关系
 
-> [!note]
+> [!note|notitle]
 > 当大学与企业的合作跨越了上述全部五个领域——而非仅集中在其中一两个——并且每个领域的互动都达到了相当的深度（通常为 Level 2 或 Level 3），合作关系就达到了报告所描述的终极形态：多面关系（Multi-Faceted Relationships）。
 
 多面关系的独特之处不在于合作规模——单个领域的 Level 3 合作（如一座冠名研究大楼）在金额上可能远超五个领域的组合——而在于**风险分散和相互增强**。当合作关系仅依赖于单一领域（例如唯一的赞助研究协议），一旦该领域出现波动（项目结束、研究人员离职、预算削减），整个合作关系就面临断裂。而当合作关系分布在五个领域时，一个领域的暂时困难可以由其他领域的关系维系——学生招聘仍在继续、设备共享仍在运作、咨询委员会仍在开会——合作关系的"韧性"远高于任何单一维度的合作。
@@ -327,7 +327,7 @@ citation_aliases:
 > | 员工校友匹配项目与校友团体组织 | 公司激励员工向母校捐赠，或组织员工校友团体 |
 > | 大学-产业-政府三方互动 | 产学合作参与与双方利益一致的政府项目 |
 
-> [!warning]
+> [!warning|notitle]
 > 报告特别指出，维持多面关系的核心不是"做更多事情"，而是"确保每一方在优先级变化时透明地沟通"。一个机构可能在某一阶段聚焦资源获取，在另一阶段转向经济发展——这种变化不应被视为合作的不稳定信号，但如果没有被及时传达，就可能因为预期错位而产生摩擦(p.20)。
 
 ---
@@ -352,7 +352,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 - 大学与产业之间的合作形式远比对"赞助研究"或"技术许可"的常见关注更丰富——至少涵盖五个相互关联但各自独立的领域(p.5)
 - 每个领域内部的合作都可以在交易、协作和联盟三个层级上发生；这三个层级构成连续体而非线性阶段(p.7)
 - 大学和企业的组织内部部门分工导致了对合作机会的系统性盲区——每个部门只看到与自己职能匹配的那一段光谱(pp.4–5)
@@ -363,17 +363,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "我们太经常地感觉到，个别大学和企业倾向于某一种特定的伙伴关系形式，并且有时对其他有价值的替代伙伴关系策略视而不见——也许是因为缺乏对这些替代形式的存在和他人成功实施的经验的意识。"（"Too often we felt that individual universities and companies were biased toward a particular preferred form of partnership and sometimes blinded to valuable alternative partnership strategies, perhaps out of a lack of awareness of their existence and successful implementation by others."）(p.5)
 
-> [!quote]
+> [!quote|notitle]
 > "并不存在规定性的方法——双方不必从第一级开始、推进到第二级、以此类推。有时双方会同时在多个层级上进行互动，并且可以在层级之间任意方向上移动。"（"There is no prescriptive approach here — it is not necessary for the parties to start at Level One, proceed to Level Two, and so on. Sometimes parties will interact at several levels at the same time and may move among the levels in any direction."）(p.7)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 - 报告明确声明每个领域列出的合作活动示例"并非穷举"，而是希望"说明在每个广泛的互动和合作领域内由他人创造的互动的多样性"(p.5)
 - 报告聚焦于"有什么合作形式"，但未系统分析"为什么双方会选择某一种形式而非另一种"——后者被留作未来研究课题(p.7)
 - 框架基于 [[University Industry Demonstration Partnership|UIDP]] 成员（主要是美国大型[[Research Universities|研究型大学]]和企业的代表）的集体经验，对小型院校和发展中国家大学的适用性未被验证

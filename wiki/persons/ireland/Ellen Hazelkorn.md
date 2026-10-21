@@ -49,14 +49,14 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!note]
+> [!note|notitle]
 > 未提供。待核。
 
 ---
 
 ## 主要著作与思想发展
 
-> [!abstract]
+> [!abstract|notitle]
 
 ### 2015 — *Rankings and the Reshaping of Higher Education* (2nd ed.)
 
@@ -76,17 +76,17 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 > Hazelkorn 的核心理论贡献包括：（1）排名是"[[Geopolitics of Higher Education\|高等教育地缘政治]]的隐喻"——它们通过测量有限领域的基础研究，为"受益于数十年甚至数世纪积累的财富和投资"的精英大学和国家提供系统性竞争优势（Hazelkorn, 2018, p.10）；（2）"排名已成为必然"——尽管持续受到批评，排名的出现是高等教育大众化、市场化和全球化的结构性后果；（3）排名的驱动力取决于指标选择——"排名无疑驱动行为……但驱动力向何方取决于指标的选择"（Hazelkorn, 2019, p.9）([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.126, 130, 132]])。
 
-> [!quote]
+> [!quote|notitle]
 > "rankings are here to stay" 和 "nowhere to hide"（Hazelkorn, 2014, p.23, cited in [[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.130]]）
 
 ---
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - 排名研究的奠基性工作——其 2014 年国际调查数据和 2015 年专著被后续排名研究广泛引为基础参照
 > - 影响了 [[Geopolitics of Knowledge]] 概念中关于排名作为[[Geopolitics|地缘政治]]机制的讨论
 > - 与 [[Philip Altbach]] 联合呼吁高校"专注于使命，而非排名"（Altbach & Hazelkorn, 2017），影响了政策讨论的方向

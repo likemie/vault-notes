@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 局限性
 
-> [!method-limits]
+> [!method-limits|notitle]
 > - **[[Ecological Validity\|生态效度]]受限** 实验室或高度受控情境的发现可能不适用于真实教育情境（Hammersley, 2008, p. 4）。
 > - **伦理约束** 拒绝控制组获得可能有益的干预存在伦理争议（Gorard, 2001b, p. 146）。
 > - **复杂理论的挑战** Morrison (2001) 指出在动态、演化的开放系统中保持[[Variable\|变量]]恒定是误导性的。

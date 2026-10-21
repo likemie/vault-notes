@@ -79,12 +79,12 @@ Campbell and Stanley (1963) 符号表示为：
 
 ## 局限性
 
-> [!method-limits]
+> [!method-limits|notitle]
 > - 缺乏[[Random Assignment\|随机化]]意味着组间可能存在未测量的系统性差异，威胁[[Internal Validity\|内部效度]]。
 > - 匹配仅覆盖少数命名[[Variable\|变量]]，无法像随机化一样控制全部可能的混淆变量。
 > - 回归效应可能使匹配失效，尤其是当组间差异较大时。
 
 ## 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Mason et al. (1992) 在 Shevington 综合中学使用非等价控制组设计，检验显性语言教学对 GCSE 考试成绩的影响。

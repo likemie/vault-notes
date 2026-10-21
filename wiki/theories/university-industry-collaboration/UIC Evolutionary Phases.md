@@ -44,7 +44,7 @@ updated: 2026-10-12
 ---
 ## 核心主张
 
-> [!abstract]
+> [!abstract|notitle]
 > O'Dwyer、Filieri 和 O'Malley（2023）基于对[[Synthesis and Solid State Pharmaceutical Centre\|爱尔兰合成与固态制药中心]]（Synthesis and Solid State Pharmaceutical Centre，SSPC）的深度[[Case Study\|案例研究]]——涉及 10 家跨国制药企业和 8 所学术机构——提出了[[University-Industry Collaboration\|产学合作]]网络演化的四阶段模型。核心主张是：产学合作的障碍和促进因素**并非静态存在，而是随时间演化**——在合作的不同阶段出现、转变或被克服[[Argument_ODwyer_Filieri_OMalley_2023_JTT\|(O'Dwyer et al., 2023)]]。
 
 该模型直接回应的理论缺口是：已有研究虽然识别了产学合作的各种障碍和促进因素，但都是横截面分析——"对障碍和促进因素的分析局限于单一[[Theoretical Perspective|理论视角]]"，没有捕捉到合作关系发展过程中这些因素的动态演化（pp.902-903）。四阶段模型将时间维度引入障碍分析，使政策制定者和实践者能够**在正确的时间采取正确的干预措施**。
@@ -125,7 +125,7 @@ updated: 2026-10-12
 ---
 ## 核心发现
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **障碍和促进因素是阶段特定的** 强不信任和知识泄露恐惧主导胚胎期，知识产权协议缺失主导启动期，信任演化和互惠性主导参与期。不同阶段需要不同的干预策略
 > 2. **政府资助的均等分配是关键杠杆** 均等分配资金在启动期培养了平等、伙伴关系和所有权意识，增加了各方对合作成功的承诺。资助还作为平台吸引后续的企业专项资助和私人资本
 > 3. **信任随阶段演化** 声誉基础的信任（启动期）→ 诚信基础的信任（参与期），从信任个人转向信任网络
@@ -134,7 +134,7 @@ updated: 2026-10-12
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - **[[Evolutionary Economics\|演化经济学]]** — 四阶段模型的核心[[Theoretical Perspective\|理论视角]]，将[[University-Industry Collaboration\|产学合作]]视为一个随时间演化的动态过程，而非静态状态
 > - **[[Social Capital Theory\|社会资本理论]]** — 信任（声誉基础 vs 诚信基础）、凝聚性和互惠性在合作演化中的角色变化
 > - **交易成本经济学** — 知识产权协议作为一种降低交易成本的制度安排

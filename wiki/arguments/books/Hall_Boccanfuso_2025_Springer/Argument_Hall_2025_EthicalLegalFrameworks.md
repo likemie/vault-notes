@@ -70,7 +70,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 不使用显性理论框架，而是提供一种**操作性的三维分析视角(p.261)**，这三个透镜在协议谈判中同时运作：
 
 > [!abstract] 战略透镜（Strategic Lens）
@@ -86,7 +86,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 这是一篇政策与实践综述（policy and practice overview）。作者基于自身在 USC 担任科研副校长近 15 年的管理经验，结合美国大学[[University-Industry Collaboration\|产学合作]]的制度框架，系统梳理了产学合作协议的类型学、法律约束和伦理议题。
 
 ---
@@ -102,7 +102,7 @@ citation_aliases:
 > [!example] 图14.1：Mechanics of successful UI relationships
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_14-1_Mechanics_of_Successful_UI_Relationships.jpg)
 
-> [!example]
+> [!example|notitle]
 > 一个典型转化场景：一位化工系教授在某次学术会议上遇到一家材料公司的研发总监。两人发现教授实验室在催化方面的基础研究与公司的新型聚合物开发高度相关。经过几次互访和初步数据共享（非正式阶段），双方决定推进为正式的[[Sponsored Research Agreement\|赞助研究协议]]。此时，谈判从"我们能不能一起做"变成了"谁拥有什么权利、什么可以发表、什么必须保密"——这正是协议需要回答的问题。
 
 ---
@@ -113,7 +113,7 @@ citation_aliases:
 
 但正式化的过程本身就是一个挑战。谈判耗时且进展可能受阻，因为条款、条件和支付系统缺乏标准化：企业协议因公司而异，甚至在同一公司内部也不统一。双方需要投入大量时间建立相互理解。更为根本的是，大学和企业在谈判中看重不同的事物：企业担心大学在保护知识产权方面太慢或太粗心，大学担心企业会阻碍研究发表或博士生的学位进展。这些关切都是真实且正当的，必须在协议中找到满足各方目标的解决方案(pp.259, 261)。
 
-> [!warning]
+> [!warning|notitle]
 > 关键张力在于：企业的商业化时间压力（季度规划周期）与大学的研究时间框架（年为单位）之间天然不匹配。企业需要在合理时间内获得可商业化的成果，学术研究则无法像工程项目那样精确预测时间表和产出。这一张力只能通过合理设置预期和阶段性里程碑来管理。
 
 ---
@@ -129,10 +129,10 @@ citation_aliases:
 > 4. 各方是否有能力在协议签署后按承诺履行？
 > 5. 协议结束时将开展哪些活动来实现合作的目标？
 
-> [!warning]
+> [!warning|notitle]
 > 五个问题中没有任何一个可以由单一个人独立回答。组织内部的沟通——包括执行者（如项目负责人）、合同官员、合规官员、[[Technology Transfer\|技术转移]]官员和高级领导层——是达成协议的[[Necessary and Sufficient Conditions\|必要条件]]。每个人贡献独特的视角：执行者知道研究内容和团队能力，合同官员知道可接受的条款边界，合规官员知道法规红线，技术转移官员知道知识产权商业化通道，领导层知道战略优先级(p.263)。缺少任何一方，谈判可能遗漏关键风险。
 
-> [!example]
+> [!example|notitle]
 > 以问题 1（战略对齐）为例：一家制药公司希望赞助一所大学的[[Clinical Trial\|临床试验]]。从公司角度，目标是验证新药的安全性和有效性以获得美国食品药品监督管理局（Food and Drug Administration, FDA）批准；从大学角度，目标包括研究经费、学术发表和临床培训机会。这些目标大部分对齐，但潜在一个关键分歧——公司可能希望控制发表时间以配合监管提交的时间表，而大学的研究者需要在合理时间内发表结果以满足学术职业要求。如果这一分歧在谈判前未被识别和讨论，它可能在协议执行中途爆发为冲突。
 
 ---
@@ -155,13 +155,13 @@ citation_aliases:
 | 组队协议（Teaming） | 双方合作争取第三方（通常是政府机构）的资助 |
 | 技术许可（Technology Licensing） | 在指定条款和价格下提供知识产权权利供进一步开发和商业化 |
 
-> [!info]
+> [!info|notitle]
 > 这 11 种协议类型沿两个维度分化：**权利交换的深度**（从捐赠的零权利回报到合资企业的全权利共享）和**关系的时间长度**（从一次性材料转移到多年赞助研究）。捐赠位于最简单的一端：企业不能以捐赠换取任何权利回报。赞助研究协议则给予企业更大的监督权和更清晰的商业化路径。保密协议往往是更实质性协议的前奏，双方先通过保密协议（Non-Disclosure Agreement, NDA）建立信任，再进入更复杂的谈判(p.262)。
 
-> [!example]
+> [!example|notitle]
 > 一个常见的选择困境：一家科技公司希望与大学合作开发新算法。它可以选择**捐赠**（最简单，但没有任何知识产权权利，大学研究者可能把算法开源或许可给该公司的竞争对手）、**赞助研究**（获得知识产权优先权，但谈判耗时且成本更高）、或**联合组队申请政府资助**（成本分摊，但时间表受政府资助周期约束）。选择取决于公司的战略优先级：速度优先于控制时捐赠可能是最优的，控制优先于速度时赞助研究是必要选择。
 
-> [!warning]
+> [!warning|notitle]
 > 不论选择哪种协议类型，协议都使组织受其条款的法律约束。因此，在选择协议类型之前回答五个关键问题，比进入谈判之后再调整类型要高效得多。
 
 ---
@@ -188,7 +188,7 @@ citation_aliases:
 > [!warning] 人类受试者保护
 > "通用规则"（[[Common Rule 2018]]）要求由[[Institutional Review Board\|IRB]]审查和批准涉及人类受试者的研究方案，并获得受试者的[[Informed Consent\|知情同意]]。私营企业使用自有资金进行人类受试者研发时不需遵守通用规则。但当大学以企业资金开展人类受试者研究时，大学的 IRB 将介入审查，这意味着产学合作可以将企业不习惯遵守的法规引入其研究活动。对于习惯于内部研发灵活性的企业，IRB 的审查周期和修改要求可能构成意外的延迟和约束(p.265)。
 
-> [!info]
+> [!info|notitle]
 > 六类法律框架的共同主题是：**协议将双方暴露于对方的制度环境中**。大学需要了解产业赞助研究可能触发出口管制（联邦基础研究豁免的法规），企业需要了解大学预算不收取利润且间接成本被政策封顶。对任何一方的制度环境缺乏了解，都可能导致谈判中对条款的误判。
 
 ---
@@ -200,7 +200,7 @@ citation_aliases:
 > [!warning] 学术自由的发表权及其折中
 > 美国大学教授协会(American Association of University Professors, AAUP, 2025)将学术自由定义为"探索所有学术、研究和[[Creativity\|创造性]]表达途径并发表此类工作成果的自由"(p.265)。这意味着大学在原则上不授予研究赞助方控制研究产出的权利。但实践中存在一个关键折中：大学通常授予赞助方**发表前审查权**——在提交发表前审查稿件以确保不泄露保密信息、且知识产权得到充分保护——并在必要时允许**延迟发表**（通常 30–90 天），以便申请专利。这不是禁止发表，而是程序性延迟，是学术自由与知识产权保护之间可以操作的平衡点(pp.265–266)。
 
-> [!example]
+> [!example|notitle]
 > 典型的冲突场景：一位计算机科学教授接受科技公司赞助开发新算法。教授希望将代码开源、研究结果发表在开放获取期刊；公司希望在提交发表前有 90 天审查期、保留核心算法的商业机密。折中方案是：教授可以发表方法和结果（维护学术自由），但代码的具体实现参数（可识别的商业机密）在审查期后以抽象形式呈现。双方都部分让渡：教授的发表不是完全即时的、公司的机密不是完全保密的。
 
 > [!warning] "双层发表权"：大学层面 vs 个人层面
@@ -236,55 +236,55 @@ citation_aliases:
 
 即使协议已经签署，合作的真正执行仍然取决于**文化和领导力**。产学合作的价值来自互补文化（大学的创造性探索 + 企业的目标导向执行）的协同，但风险同样来自文化差异。双方参与者都需要放弃不适应合作关系的习惯(pp.268–269)。
 
-> [!info]
+> [!info|notitle]
 > 成功需要三个层面的组织支持：
 > - **大学侧** 阐明将产学关系纳入研究、学习和公共服务使命的战略、价值观和使命；说明政策、协议、单位和支持结构如何服务于产学参与；评估对产业关系的支持程度以及如何利用它们增强创新和影响力声誉
 > - **企业侧** 制定支持产学关系的统一战略——不能将其视为一系列孤立的单次协议，而应视为通过新技术、创造性见解和人才招募帮助公司成功的战略组成部分
 > - **行政与领导层** 认识到产学合作不是联邦赞助研究、咨询或纯服务的变体，而是一种需要综合参与战略的独特活动模式(p.269)
 
-> [!warning]
+> [!warning|notitle]
 > 缺乏制度性支持时，产学协议的签署只是合作的开始而非结束。协议可以规定双方的权利和义务，但无法规定双方如何理解对方的文化、如何在不适应时调整习惯、如何在分歧出现时保持信任。这些"软"要素依赖于领导层对产学合作的战略承诺——而非仅仅是合同办公室的合规操作。
 
 ---
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > 正式[[University-Industry Collaboration\|产学合作]]极少从零开始——其起点几乎总是非正式的、基于人际网络的关系（专业会议、校友就业、学生实习、研究者之间的共同兴趣发现等）。协议的作用是将这些非正式关系中已经验证的信任和共同兴趣转化为法律上可执行的承诺(pp.260–261)。
 
-> [!success]
+> [!success|notitle]
 > 谈判的五个关键问题跨越战略、法律和伦理三个维度，没有任何一个问题可以由单一角色独立回答。组织内部的多方沟通——执行者、合同官员、合规官员、[[Technology Transfer\|技术转移]]官员和领导层——是达成可执行协议的组织前提。缺少任何一方的参与，协议可能在某些维度上出现盲点(pp.262–263)。
 
-> [!success]
+> [!success|notitle]
 > 大学和企业进入合作协议时各自暴露于不熟悉的法规中：大学面临出口管制、隐私法规和人类受试者保护等在企业内部研发中不适用的约束；企业则需适应大学的预算核算方式（按实际工资而非打包时薪）、间接成本上限（26% 行政成本封顶）以及不收取利润的惯例。这一制度环境的不对称性是协议谈判中大多数摩擦的根源(pp.263–265)。
 
-> [!success]
+> [!success|notitle]
 > [[Academic Freedom\|学术自由]]在实践中并非绝对——大学通过发表前审查权和延迟发表提供了与知识产权保护兼容的折中机制，并在国家安全等特定领域接受有限的发表限制（须经教师委员会审批）。这意味着"学术自由"在具体协议中是一个可[[Operationalization\|操作化]]的概念，而非一个绝对化的口号(pp.265–266)。
 
-> [!success]
+> [!success|notitle]
 > 研究成果的署名伦理和知识产权管理共享一条核心原则：**披露与[[Informed Consent\|知情同意]]**。无论是决定作者排序、知识产权归属还是商业化通道选择，都应以相关各方（教师、学生、产业伙伴）的充分知情和自愿同意为前提。在多个资金渠道、多个创造者和多种商业化选项交叉的产学合作中，这一原则是防止后续纠纷的最低制度保障(pp.266–267)。
 
 ---
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "Both universities and companies look for creativity, novelty, and impact, as well as workforce development, economic growth, and IP, they prioritize different outcomes."(p.259)
 
-> [!quote]
+> [!quote|notitle]
 > "Formal UI engagements—those executed through signed agreements between organizations—seldom begin without prior informal relationships."(p.260)
 
-> [!quote]
+> [!quote|notitle]
 > "No one person has sufficient insight to answer all five questions. Communication inside each organization—including performers, contracting officers, compliance officers, technology transfer officers, and senior leadership—is crucial."(p.263)
 
-> [!quote]
+> [!quote|notitle]
 > "Quality control is much less systematic in universities than in industry, owing to a culture that values creative independence, along with a shortage of institutional controls and infrastructure supporting the conduct of research."(p.266)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 作为该书"Mechanics of UI Relationships"部分的引言，不提供实证数据或系统性的案例分析。后续章节承担了更深入的专题讨论：第 15 章处理知识产权管理、第 16 章处理数据获取生成与使用、第 17 章处理国际伙伴关系(p.270)。这意味着此处提出的六类法律框架和伦理议题在后续章节中有更详细的展开——此处的功能是提供一个全景地图，而非逐一深挖。
 
 ---

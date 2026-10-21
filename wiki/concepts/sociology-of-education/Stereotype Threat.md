@@ -37,29 +37,29 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > Aronson (2002) 提出的社会心理学概念：当个体意识到关于自身群体的负面刻板印象存在时，会产生额外的情感与认知负担（extra emotional or cognitive burden），进而导致"去认同化"（disidentification）——即对该领域失去兴趣、动机和投入——最终刻板印象成为"自我实现的预言"（self-fulfilling prophesy），证实了原本错误的预期([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.44]])。
 
-> [!quote]
+> [!quote|notitle]
 > 当刻板印象被激活时，"an extra emotional or cognitive burden and 'disidentification' — a lack of interest, motivation, and engagement"随之产生，"the stereotype then becomes a 'self-fulfilling prophesy'"（Aronson, 2002, 转引自 [[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.44]]）
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs 偏见（prejudice）— 偏见是持有者对某一群体的负面态度；刻板印象威胁是**被标签者**在意识到刻板印象存在时产生的心理反应，不要求被标签者自身持有偏见
 > - vs 自我实现的预言（self-fulfilling prophecy）— 刻板印象威胁是自我实现预言的**触发机制**之一：刻板印象 → 威胁感 → 行为改变 → 刻板印象被"证实"。前者是原因端，后者是结果端
 > - vs 文化[[Deficiencies Model for an Introduction\|缺陷模型]]（cultural [[Deficit Model of Science Communication\|deficit model]]）— 文化缺陷模型直接声称某群体"缺乏"某种能力；刻板印象威胁不判断群体是否真的"缺乏"，而是解释**为什么即使没有缺乏，刻板标签本身也会制造出缺乏的效果**
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > - **2002 年** — Aronson 在 social psychology 领域正式提出 stereotype threat 概念，最初用于解释标准化测试中的种族和性别成绩差距
 > - **2007 年** — Ryan & Louie 将这一概念引入[[Intercultural Education|跨文化教育]]研究，观察到[[Chinese Learner\|中国学习者]]在西方课堂中**内化**了关于自己"被动"的刻板描述，甚至为不够主动而主动道歉([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.44]])
 > - **2010 年** — [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]]在 [[Chinese Learner]] 的批判分析中，系统展示了刻板印象威胁在跨文化教育中的完整运作链条，并将其与 [[Orientalism]] 的理论框架对接
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 刻板印象威胁在教育跨文化语境中的因果链([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, pp.44, 49–50]])：
 > - **前提条件：刻板印象的存在与流通** — 西方学术文献中广泛流通着"[[Chinese Learner\|中国学习者]]被动、缺乏批判思维"等描述，构成刻板印象威胁的激活源
 > - **威胁感知** — 当中国学习者进入以这些描述为"常识"的西方课堂，他们意识到自己被以某种简化标签看待
@@ -71,14 +71,14 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - 植根于社会心理学的刻板印象研究传统（Aronson, 2002）
 > - 在[[Intercultural Education|跨文化教育]]语境中与 [[Orientalism]]（Said, 1978）形成理论衔接：正是西方学术界将[[Chinese Learner\|中国学习者]]定义为"以偏离西方规范来定义"（Watkins & Biggs, 2001, p.4），才为刻板印象威胁提供了[[Discourse|话语]]激活条件。详见 [[Chinese Learner#定义]]
 > - 与 [[Meta-Cultural Sensitivity]] 形成理论互补：刻板印象威胁描述了**问题机制**（刻板印象如何伤害学生），元文化敏感度提供了**解决方案**（教师如何超越刻板印象）
 
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 > - Ryan and Louie（2007）发现，[[Chinese Learner\|中国学习者]]在西方课堂中经常**内化**了关于自己"被动"的刻板描述，甚至在没有实际问题的情况下主动道歉说"我太被动了"([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.44]])。这直接体现了刻板印象威胁的内化阶段
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010, p.50)]]基于十年间对国际学生的访谈，记录了许多学生在海外学习中经历的"身份丧失和自尊降低"——这是去认同化的具体表现
 > - 权力不平等放大了威胁效应：由于教师-学生关系中教师处于更强势一方，"教师携带的文化包袱比学生携带的具有更强的支配效应"（Louie, 2005, p.23, 转引自 Ryan, 2010, p.49），这意味着教师的刻板化预期比学生的应对能力更有力量
@@ -87,13 +87,13 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - 该概念最初在社会心理学实验室环境中发展，其在 **[[Intercultural Education|跨文化教育]]** 领域的适用性尚未经过独立的实证检验——Ryan 的论述是理论应用而非实验验证
 > - 在内化/去认同化的链条中，哪些环节是刻板印象威胁特有的、哪些与其他因素（如语言障碍、社会孤立）重叠，尚未被清晰区分
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - [[Chinese Learner]] — 刻板印象威胁在[[Intercultural Education|跨文化教育]]中的主要应用案例：中国学习者如何在西方课堂中经历威胁感知 → 内化 → 自我实现的完整链条
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] 对刻板印象威胁在中国学习者案例中的系统论证
 

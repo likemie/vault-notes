@@ -35,7 +35,7 @@ updated: 2026-10-20
 > [!info] 核心定义
 > Military-Industrial Black Hole（军工黑洞）描述了[[Soviet Statism\|苏联国家主义]]体制中一个自我强化的恶性循环：国家安全的绝对优先地位导致军事工业复合体吸纳了不成比例的经济资源和科技人才，而军工系统的过度保密和封闭性又阻止了军事技术创新向民用经济溢出，使巨额投入无法产生广泛的生产力回报。这一概念由 Castells 在分析苏联信息时代转型失败时使用[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015）]]。
 
-> [!quote]
+> [!quote|notitle]
 > 将其全部研究能力导向使苏联成为一台全面战争机器的极其狭隘的目标，苏联军事工业部门变成了一个黑洞，从苏联经济中吸走了巨大的生产力和创造力。
 >
 > Original: In directing all of its research capacities toward the extremely narrow goal of making the Soviet Union a total war machine, the Soviet military-industrial sector became a black hole that sucked away massive productive and creative energies from the Soviet economy.
@@ -46,7 +46,7 @@ updated: 2026-10-20
 ---
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > 军工黑洞的运行机制包含三个相互关联的环节：资源汲取、技术隔离和创新锁定。
 
 > [!line-a] 资源汲取
@@ -65,7 +65,7 @@ updated: 2026-10-20
 ---
 ## 实证发现
 
-> [!stat-cards]-
+> [!stat-cards|notitle]-
 > - **2/3** 1980年代军工占苏联工业生产的比例。
 > - **15–25%** 军工占苏联 GNP 的比例，同期美峰值 6.6%。
 > - **≈ 10,000** 仅反导弹研究所拥有的科学家数量。

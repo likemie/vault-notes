@@ -51,17 +51,17 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 > Kerlinger (1979) 对[[Quantitative Research\|量化研究]]中的理论给出了一个被广泛引用的经典定义。理论是一套相互关联的[[Construct\|构念]]（[[Variable\|变量]]）、定义和命题，通过具体说明变量间的关系来呈现对现象的系统观点，其目的在于解释自然现象（p.64; 引自 Creswell & Creswell, 2022, p.53）。这一定义强调理论有两个核心组成部分：目的（解释现象）和程序（通过变量间关系实现解释）。
 
-> [!quote]
+> [!quote|notitle]
 > "a set of interrelated constructs (variables), definitions, and propositions that presents a systematic view of phenomena by specifying relations among variables, with the purpose of explaining natural phenomena"（Kerlinger, 1979, p.64）
 > 
 > 一套相互关联的构念（变量）、定义和命题，通过具体说明变量间的关系来呈现对现象的系统观点，其目的在于解释自然现象。
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - Kerlinger 的理论定义成为[[Quantitative Research\|量化研究]]方法教学中的标准引用，至今仍是 Creswell 等教材作者的首选定义
 > - *Foundations of Behavioral Research* 是社会科学量化方法领域被广泛使用的参考书
 > - 他对[[Scale of Measurement\|测量尺度]]和[[Variable\|变量]]的讨论为后续方法论教材奠定了基础

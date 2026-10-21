@@ -72,7 +72,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 全书未采用单一理论框架，但以下理论资源在各章中不同程度地被调用：
 > - **[[Paul Morris]] 的教育四象限（学术理性主义、社会经济效率、儿童中心、社会重建）**— Schmidt（第 5 章）用于论证价值观为本课程的理论定位(pp. 6–7)
 > - **[[Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题(p.9]])
@@ -82,13 +82,13 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools\|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"(p.2]])。
 
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 编者的论证分为三个层次递进(pp.1–15]])：
 
 > **第 1 层（第 1–2 章）：奠定基础，打破刻板印象。** Slethaug 描绘[[International Education\|国际教育]]的增长全景图、确立[[Chinese Learner\|中国学习者]]的核心地位；Ryan 系统审视关于中国学习者的缺陷型和优势型刻板印象，提出去本质化的[[Analytic Framework\|分析框架]]。
@@ -102,12 +102,12 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > 编者提出两个核心判断：
 > - "[[Chinese Learner\|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。最佳教学实践高度依赖于学习者文化、教师文化以及两者之间的互动。"(p.15]])
 > - [[International Education\|国际教育]]已经从"地方和国家绑定"的教育模式转变为跨国市场和全球竞争[[Champ\|场域]]——而这一转变"在几乎无人察觉的情况下"完成了(p.15, 呼应标题"Something Happened While Nobody Was Looking"]])
 
-> [!success]
+> [!success|notitle]
 > ### 各章概览
 > - [[Argument_Slethaug_2010_InternationalEducation]] — 考察全球化时代国际教育的增长、学生交流机会的扩张、[[International Schools\|国际学校]]和海外大学项目的兴起，以及中国学习者在其中的重要角色（第 1 章）
 > - [[Argument_Ryan_2010_ChineseLearner]] — 审视关于中国学习者的缺陷型和优势型刻板印象，主张通过全面考察学生文化背景、教育经历和教师文化预设来打破本质化认知（第 2 章）
@@ -122,7 +122,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "[[Chinese Learner\|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。"(p.15]])
 
 

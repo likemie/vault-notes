@@ -39,15 +39,15 @@ updated: 2026-10-07
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 医用创新（Applied Medical Innovation, AMI）定义为"整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新"（p.175）。与纯粹的基础科学研究或单纯的工程技术开发不同，AMI 以临床患者需求为起点，以改善患者预后或患者体验为终点，要求跨学科知识、跨机构协作和从实验室到临床的全链条翻译能力。
 
-> [!quote]
+> [!quote|notitle]
 > "The 'secret sauce' for healthcare innovation (particularly in the United States) is Applied Medical Innovation (AMI)."（p.175）
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > AMI 的运转依赖三个相互关联的驱动力（pp.175–181）：
 
 ### 医学翻译循环（Cycle of Medical Translation）
@@ -66,14 +66,14 @@ AMI 的文化条件是组织层面同时容纳学术、临床和产业三种逻�
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs **[[Translational Research\|转化研究]]（Translational Research）** — 转化研究泛指将实验室发现转化为临床应用的科学研究过程。AMI 的范围更广：不仅涵盖从实验室到临床的转化，还包括从产业到市场的产品开发、从教学到医院的技术扩散、以及在多样化诊疗环境中的规模化部署。
 > - vs **生物医学创新（Biomedical Innovation）** — 生物医学创新侧重生命科学和医学领域的发现与发明。AMI 在此基础上明确纳入了物理科学、计算科学和工程学的跨学科整合，强调创新必须最终改善医疗结果。
 > - vs **[[Technology Transfer\|技术转移]]（Technology Transfer）** — 技术转移是 AMI 医学翻译循环中的一个环节（偏向产品开发和商业化端）。AMI 的完整循环从临床需求出发，经过研究、开发、验证、部署后回到临床需求，是一个闭环而非单向转移。
 
 ## 文化条件：为什么在美国繁荣
 
-> [!note]
+> [!note|notitle]
 > AMI 在美国特别繁荣的三个文化因素（p.175）：
 > - 个人主义（individualism）和创业精神（entrepreneurship）— 鼓励个体识别问题并主动寻求解决方案
 > - 自由市场（free market）— 为创新商业化提供激励机制和资本支持
@@ -83,7 +83,7 @@ AMI 的文化条件是组织层面同时容纳学术、临床和产业三种逻�
 
 ## 历史例证
 
-> [!example]
+> [!example|notitle]
 > 外科手术的演进展示了 AMI 的典型轨迹（Gawande, 2012, 转引自 pp.175–176）：
 > - 1800 年代：手术仅限于体表可见状况（截肢）或放血控制炎症，无麻醉、无无菌操作
 > - 麻醉（anesthesia）和抗菌术（antisepsis）的引入改变了一切——这些新概念必须先经过手术室中的探索、测试和应用，才使更复杂、侵入性和精确的手术操作成为可能

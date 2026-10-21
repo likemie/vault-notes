@@ -393,20 +393,20 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "Institutions that optimize these metrics can significantly improve study startup times and improve operations, making them more attractive to industry sponsors and CROs."(p.211)
 
-> [!quote]
+> [!quote|notitle]
 > "Collaboration between industry and universities plays a pivotal role in driving these innovations. Academic institutions contribute cutting-edge research, methodological advancements, and access to diverse patient populations, while industry partners provide funding, regulatory expertise, and large-scale implementation capabilities."(p.215)
 
-> [!quote]
+> [!quote|notitle]
 > "Just as start-up timelines can be lengthy, the administrative costs for these reviews can also be immense. At academic medical centers, the total administrative charges and overhead fees for start-up average $25,000 to upward of $200,000 before a single patient is enrolled."(p.208)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 全文为单一位从业者的行业经验分析，未采用系统性的[[Literature Review\|文献综述]]或实证研究方法。所有数据和使用案例来自 Soo Bang 在 Pfizer、Celgene、Bristol Myers Squibb 等公司的管理经验及公开行业报告（包括 [[Clinical Trials Transformation Initiative\|CTTI]] 项目报告和 IQVIA 研究所数据），论证视角偏向产业方。大学行政管理方的立场、应对策略和内部制度逻辑未被同等呈现。此外，文中引用的启动时间和成本数据主要基于美国市场，未必适用于其他国家的[[Clinical Trial\|临床试验]]生态。
 
 ---

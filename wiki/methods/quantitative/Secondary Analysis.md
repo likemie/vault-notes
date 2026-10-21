@@ -75,13 +75,13 @@ updated: 2026-10-20
 > - **[[Unit of Analysis|分析单位]]** 个体学生、教师、学校、行政区域（如自治区、州）、年份或主权国家。
 > - **输出形式** 描述性统计、跨国比较矩阵、[[Heterogeneity|异质性]]亚组分析、回归估计、[[Trend Study|趋势分析]]与政策失效机制诊断。
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **Hakim (1982) & [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011)]] 论二手分析的核心界定**
 > 二手分析是对已有数据集的进一步分析，这种分析以不同于原始调查的解释路径和发现方式推进对数据的理解。在社会科学与教育研究中，人口普查报告、全国性队列追踪与专业数据库为此类分析提供了取之不尽的丰富资源。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Hakim, 1982, 转引自 p. 12)]]
 >
 > *Secondary analysis is the further analysis of existing datasets, which advances understanding of the data through different interpretative approaches and discoveries from the original survey.*
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论官方统计与评估数据的二次批判分析**
 > 比较教育研究者通过对西班牙国家[[Evaluation Research|评估研究]]所（INCE/INECSE）官方报告、欧洲委员会 Eurydice 数据集以及大学理事会人事统计展开系统二手分析，挖掘出隐藏在官方亲欧繁荣叙事之下的结构性危机：实证揭示出 14 岁失败率 25%、16 岁义务教育终点失败率 33% 且卓越表现低于 4% 的冰冷现实，并利用高校人事普查证实高达 95% 教师留校任教的近亲繁殖，从而有力[[Falsification|证伪]]了均质综合制促进教育平等与[[Bologna Process|博洛尼亚进程]]带来国际[[Competitiveness|竞争力]]的[[Rationalized Myth|制度神话]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–333)]]
 >

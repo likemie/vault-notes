@@ -77,7 +77,7 @@ updated: 2026-10-20
 > - **政策工具** 建立国家统一的基础教育大纲，整合初等与初中低年级教育设施，允许非公立学校（教会与社会力量办学）通过公共财政资助作为协约体系（Concertada）纳入供给，实施大学单轨化管理。
 > - **约束机制** 法定八年制义务教育制度与基础教育毕业考核（Graduado Escolar 文凭），强化国家[[School Inspection|教育督导]]职能。
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论 1970 年法案的[[Open-Mindedness|开放性]]与超前综合化原则**
 > 1970 年《普通教育法》毫无疑问地将西班牙教育体系的边界向外部潮流敞开；正因如此，该法在当时遭到了许多政治与社会权威乃至众多知识分子的严厉批判，指责其屈从于外国光彩并向联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO，简称联合国教科文组织）的国际标准低头。然而，该法敢于在法国、意大利甚至某些北欧国家之前，率先在 6 至 14 岁学段推行初等与初中低段整合的综合教育原则，构成了无可辩驳的重大制度进步。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
 >
@@ -170,7 +170,7 @@ updated: 2026-10-20
 > > - **1970 年法案设计逻辑（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）** 在 14 岁前实行无差别[[Comprehensive Education|综合教育]]促进了阶层平等；而在 14 岁之后引入清晰分流则切合了学生禀赋与劳动力市场现实，构成了适切平衡。
 > > - **1990 年 LOGSE 批判者视角** 1990 年法案在二十年后不合时宜地重复并夸大了综合原则，硬性强加相同的课程至 16 岁，反倒将 1970 年无可辩驳的进步异化为系统性的平庸与失败。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论两代法案的历史唯物主义对比**
 > 1970 年法案敢于在法国、意大利甚至某些北欧国家之前将综合教育原则应用于初等和初中低段。然而，在 1970 年构成无可辩驳之重大进步的制度设计，在 20 年之后却被新的法案（LOGSE）在不合时宜的节点被机械重复与夸大，将统一步调的单一课程硬性推向 16 岁，导致政策设计与欧洲邻国转向多样化选修的主流轨迹发生背离。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
 >

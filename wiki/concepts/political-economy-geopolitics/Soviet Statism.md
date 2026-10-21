@@ -44,7 +44,7 @@ updated: 2026-10-20
 > [!info] 核心定义
 > Soviet Statism（苏联国家主义）由 [[Manuel Castells]] 在分析信息时代国家转型时提出。国家主义社会系统的核心定义是"围绕国家机器权力持有者对社会经济剩余的占有而组织起来"[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.3）]]。与资本主义追求利润最大化不同，国家主义追求国家机器权力最大化。在苏联案例中，这一逻辑表现为党对国家、国家对社会的全面控制，通过中央计划经济以马克思列宁主义意识形态为支撑。
 
-> [!quote]
+> [!quote|notitle]
 > 国家主义社会系统是围绕国家机器权力持有者对社会所生产的经济剩余的占有而组织起来的。
 >
 > Original: A statist social system is one organized around the appropriation of the economic surplus produced in a society by the holders of power in the state apparatus.
@@ -56,7 +56,7 @@ updated: 2026-10-20
 ---
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > 苏联国家主义的运作逻辑通过五个互相强化的机制，系统性地抑制了从工业化向[[Informationalization\|信息化]]转型所需的制度条件。
 
 > [!line-a] 军工优先的资源黑洞
@@ -83,7 +83,7 @@ updated: 2026-10-20
 ---
 ## 实证发现
 
-> [!stat-cards]-
+> [!stat-cards|notitle]-
 > - **2/3** 1980年代军工占苏联工业生产的比例。
 > - **15–25%** 军工占 GNP 的比例，1987年美国军工占 GNP 峰值仅为 6.6%。
 > - **10,000 / 1.3M** 1986年苏联与美国计算机主机数量的对比。

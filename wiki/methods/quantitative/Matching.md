@@ -99,7 +99,7 @@ updated: 2026-10-20
 
 ## 资料与分析
 
-> [!info]
+> [!info|notitle]
 > 匹配后的数据分析需要在匹配样本（而非原始样本）上进行。关键分析步骤包括：检验匹配后两组在协[[Variable\|变量]]上的标准化均值差（SMD < 0.1 通常视为平衡良好）；在匹配样本上估计处理效应（平均处理效应 ATT 或 [[Advanced Technological Education|ATE]]）；通过 Rosenbaum 敏感性分析评估结果对未观测混杂的稳健性。[[Argument_Berk_2011_EvalRev\|Berk (2011, p. 198)]] 强调匹配过程中的[[Dependent Variable\|结果变量]]应"锁在保险箱里"——匹配变量的选择不得参考结果变量，以避免循环论证。
 
 ## 适用场景
@@ -111,7 +111,7 @@ updated: 2026-10-20
 
 ## 局限性
 
-> [!method-limits]
+> [!method-limits|notitle]
 > - **对未观测混杂因素的敏感性** "样本中的平衡并不意味着未观测协[[Variable\|变量]]也存在平衡"([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.198]])。匹配仅能基于已观测和已包含的协变量建立可比性——如果关键混杂因素未被测量，结果的因果解释仍然脆弱。
 > - **需要满足与随机实验相同的假设** 匹配不能豁免随机实验所需的关键假设——同样必须满足无干扰（no interference）的 [[Stable Unit Treatment Value Assumption\|SUTVA]] 要求([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.199]])。
 > - **远不如[[Random Assignment\|随机化]]** Smith (1991, p. 215) 指出匹配最常用于准实验和非[[Experimental Research\|实验研究]]，在排除替代因果解释方面远不如随机化——随机化控制所有变量，匹配只控制命名变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 323]]）。

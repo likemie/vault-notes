@@ -39,7 +39,7 @@ updated: 2026-10-05
 > [!info] 核心定义
 > State Vertical（国家垂直结构）指国家主义体制中由垂直行政层级主导的组织结构，其核心特征是：决策和资源分配沿着自上而下的行政链条流动，而跨部门、跨机构的水平联结（horizontal linkages）严重匮乏。苏联经济被描述为一台"由庞大官僚机构的垂直行政决策推动的巨型机器"[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.8）]]，包含无数的计划机构、执行部门和生产单位，但各单位之间的交流由各自上级主管部门预先设定，极少存在自主的横向联系。
 
-> [!quote]
+> [!quote|notitle]
 > 整个苏联经济是一台由庞大官僚机构的垂直行政决策推动的巨型机器，拥有无数计划机构、执行部门和生产单位。因此，机构之间几乎没有水平联系，交流由各自的上级主管部门预先设定。
 >
 > Original: The whole Soviet economy was a gargantuan piece of machinery moved by the vertical administrative decisions of a massive bureaucracy with countless planning institutions, ministries of execution, and production units. As a result, few horizontal links existed across agencies, and exchanges were pre-established by respective parent administrations.
@@ -51,7 +51,7 @@ updated: 2026-10-05
 ---
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > 国家垂直结构通过两条路径阻碍[[Informationalization\|信息化]]转型：一是将科研、应用和生产隔离在封闭回路中，扼杀创新所需的知识交叉；二是使体制难以容纳"[[Creativity\|创造性]]破坏"，因为新技术的引入可能打乱自上而下的计划链条。
 
 > [!line-a] 科研–应用–生产的封闭回路
@@ -70,7 +70,7 @@ updated: 2026-10-05
 ---
 ## 实证发现
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. 苏联的[[Chinese Academy of Sciences|科学院]]、应用研究和工业生产在彼此隔离的回路中运行，几乎没有跨机构的知识交叉（pp.8–9）。
 > 2. 相比之下，美国斯坦福电子研究实验室等机构与国防承包商和私营企业密切合作，科学家和工程师拥有将技术创新商业化和创办公司的相对自由（p.8）。
 > 3. 赫鲁晓夫试图通过建造 [[Akademgorodok]] 复制美国的产学研协同模式，但该科学城最终在勃列日涅夫时代被重新纳入官僚化、意识形态保守的科学体制，沦为"日益吱吱作响的苏联工业机器中的又一个齿轮"[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.9）]]。

@@ -66,7 +66,7 @@ updated: 2026-10-20
 
 ## 生平与职涯
 
-> [!note]
+> [!note|notitle]
 > - 1941 年出生于阿根廷
 > - 获阿根廷科尔多瓦国立大学哲学学士学位，后赴法国巴黎高等研究实践学院（École des Hautes Études）学习符号学，师从 Roland Barthes
 > - 长期任职于杜克大学，为 William H. Wannamaker 文学与文化研究教授，曾任杜克大学拉丁美洲与加勒比研究中心主任([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.50]])
@@ -75,7 +75,7 @@ updated: 2026-10-20
 
 ## 主要著作与思想发展
 
-> [!abstract]
+> [!abstract|notitle]
 
 ### 1995 — *The Darker Side of the Renaissance: Literacy, Territoriality, and Colonization*
 
@@ -109,7 +109,7 @@ updated: 2026-10-20
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 > Mignolo 的核心思想可概括为三个层层递进的概念：
 
 **1. 殖民性（Coloniality）区别于殖民主义（Colonialism）**
@@ -130,7 +130,7 @@ updated: 2026-10-20
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - 与 Enrique Dussel、Aníbal Quijano 共同开创了拉丁美洲现代性/殖民性（M/C）研究项目，将"殖民性"建立为一个独立于"殖民主义"的分析范畴
 > - 其"[[Geopolitics of Knowledge\|知识地缘政治]]"概念被 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] 整合进"新知识[[Geopolitics|地缘政治]]"的[[Analytic Framework\|分析框架]]，与[[Critical Geopolitics\|批判地缘政治学]]并列为两大理论支柱([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.37–39]])
 > - [[Arturo Escobar]]（2018）和 Reiter（2019）将 Mignolo 的去殖民视角延伸至"多元世界"（pluriverse）的设计和建构
@@ -139,14 +139,14 @@ updated: 2026-10-20
 
 ## 格言／关键表述
 
-> [!quote]
+> [!quote|notitle]
 > "The [[Geopolitics of Knowledge]] was organized around the diversification, through history, of the colonial and the imperial differences." (Mignolo, 2002, p.59)
 
 > "将社会科学去殖民化——而非仅仅是开放——因为开放知识只在维持其全球学术事业的地位。"（Mignolo, 2002, p.64, 转引自 Parreira do Amaral, 2022, p.38）
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - Mignolo 的"去链接"（delink）主张面临一个实践难题：完全脱离西方[[Epistemology\|认识论]]框架后，替代性知识如何在全球化制度（如大学、学术出版、国际政策）中获得认可和流通？[[Argument_Delambre_2022_Springer\|Delambre (2022)]] 的工作可视为对这一困境的回应，但其 [[Ganz-Methode]] 的有效性同样缺乏独立验证
 > - 有批评者认为 Mignolo 的论证有时以西方认识论为唯一靶子，对非西方社会内部的认识论霸权和知识排斥（如性别、种姓、阶级）关注不足
 > - 其"边界思维"概念的操作性有限——如何在学术写作和教学中具体实践"在边界地带思考"，缺乏明确的方法论指引

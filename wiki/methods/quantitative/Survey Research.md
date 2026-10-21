@@ -101,7 +101,7 @@ updated: 2026-10-20
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 调查研究（Survey Research）是一种[[Quantitative Research\|量化研究]]设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research\|量化研究]]中最常用的设计类型之一，包括使用[[Questionnaire\|问卷]]或结构化访谈进行数据收集，目的是从样本推广到总体。
 
 > [!method-scope] 方法范围
@@ -116,12 +116,12 @@ updated: 2026-10-20
 
 ## 研究程序
 
-> [!example]
+> [!example|notitle]
 > Creswell & Creswell (2022, Ch8) 将调查方法计划的组成部分系统分解为以下几个环节：
 
 ### 调查设计
 
-> [!info]
+> [!info|notitle]
 > - **调查目的** 回答关于[[Variable\|变量]]间关系的[[Research Question\|研究问题]]，如"加班时数是否预测急诊护士的倦怠症状"。
 > - **使用调查方法的理由** 认可调查设计的优势（经济性、数据回收迅速），并说明为何其他设计（如实验）不可行或不合理。
 > - **调查类型** [[Cross-sectional Study\|横截面研究]]（cross-sectional）在单一时间点收集数据；[[Longitudinal Study\|纵向研究]]（longitudinal）在多个时间点收集数据。
@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ### 总体与样本
 
-> [!abstract]
+> [!abstract|notitle]
 > - **研究总体（[[Study Population and Sample\|study population]]）** 研究者希望做出推论的全部人群。
 > - **研究样本（Study Sample）** 调查中实际检验的受试者子集。
 > - **抽样设计（Sampling Design）** 单[[Stage Sampling\|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling\|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
@@ -139,7 +139,7 @@ updated: 2026-10-20
 
 ### 工具
 
-> [!info]
+> [!info|notitle]
 > - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，[[Questionnaire\|问卷]]之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
 > - **工具的效度** 报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity\|构念效度]]（工具是否准确测量目标[[Construct\|构念]]）和效标／[[Concurrent Validity\|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 > - **工具的[[Reliability\|信度]]** 报告分数的[[Internal Consistency\|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 [[Cronbach's Alpha\|Cronbach's α]] 值量化（范围 0–1，最佳值.7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α =.84–.86。[[Test-Retest Reliability\|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（, Ch8）。
@@ -150,7 +150,7 @@ updated: 2026-10-20
 
 ### 变量
 
-> [!info]
+> [!info|notitle]
 > 在方法部分直接陈述[[Variable\|变量]]名称、[[Definition of Terms\|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源文献。
 >
 > > [!example] 表8.2：变量、定义及其对应的调查题项（Variables, Definitions, and Their Corresponding Items on a Survey）
@@ -167,7 +167,7 @@ updated: 2026-10-20
 
 ### 数据分析
 
-> [!example]
+> [!example|notitle]
 > 数据分析的序列步骤（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 报告样本中回应和未回应的人数与百分比。
@@ -179,10 +179,10 @@ updated: 2026-10-20
 
 ### 预注册与研究结果解释
 
-> [!note]
+> [!note|notitle]
 > 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中 **[[Preregistration\|预注册]]（Preregistration）** 研究计划和假设，以提高[[Quantitative Research\|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 [[National Institutes of Health|NIH]] 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
-> [!info]
+> [!info|notitle]
 > 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance\|统计显著性]]检验、[[Confidence Interval\|置信区间]]和[[Effect Size\|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ### 调查方法计划检查清单
@@ -291,7 +291,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 ## 方法变体
 
-> [!tip]
+> [!tip|notitle]
 > - **[[Cross-sectional Study\|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Correlational Research\|相关性研究]]问题，但难以建立[[Causality\|因果关系]]。
 > - **[[Longitudinal Study\|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition\|样本流失]]（attrition）和控制效应（control effect）等问题。
 > - **[[Cohort Study\|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国文献中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
@@ -301,7 +301,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > - 需要了解某一总体的态度、意见、行为趋势或特征分布时。
 > - 适合描述性和[[Correlational Research\|相关性研究]]问题。
 > - 横截面设计适合在单一时间点进行快照式描述，纵向设计适合追踪变化趋势。
@@ -310,7 +310,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - 调查结果受限于[[Questionnaire\|问卷]]设计和抽样质量；低回复率可能导致无答复偏差。
 > - 自我报告数据可能受社会期望偏差影响。
 > - 横截面设计难以建立[[Causality\|因果关系]]。

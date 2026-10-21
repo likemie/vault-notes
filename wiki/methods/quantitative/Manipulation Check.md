@@ -41,15 +41,15 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 操纵检查（Manipulation Check）是[[Experimental Research\|实验研究]]中用于定量[[Evaluation Research\|评估研究]]者是否成功操纵了目标自[[Variable\|变量]]（[[Independent Variable]]）的测量。它在实验操纵之后施测，通过比较各实验条件组在操纵检查测量上的得分，验证自变量操纵是否产生了预期的组间差异（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
-> [!quote]
+> [!quote|notitle]
 > "A manipulation check measure is defined as a measure of the intended manipulated variable of interest."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 操纵检查的核心逻辑（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 在实验操纵之后、主要结果测量之前（或同时），施测一个简短的相关测量。
@@ -64,13 +64,13 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs 自[[Variable\|变量]]（[[Independent Variable]]） — 操纵检查是测量自变量的工具，而不是自变量本身。自变量是被操纵的[[Construct\|构念]]（如自尊），操纵检查是验证该操纵是否生效的测量（如状态自尊量表得分）。
 > - vs [[Dependent Variable\|因变量]]（Dependent Variable） — 因变量是研究的核心结果变量（如攻击行为），操纵检查是研究内部的质量控制测量，通常不是[[Hypothesis\|研究假设]]的直接检验对象。
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - 操纵检查本身可能影响受试者对后续测量的反应——受试者在完成操纵检查后可能意识到研究的真实目的（需求特征，demand characteristics），从而改变其在因[[Variable\|变量]]上的行为或回答。
 > - 因此操纵检查通常在时间上靠近操纵但尽可能不影响主要结果测量的位置施测。有些研究者将操纵检查放在所有[[Dependent Variable\|因变量]]测量之后，以避免干扰，但这又可能引入操纵效应随时间衰减的问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 

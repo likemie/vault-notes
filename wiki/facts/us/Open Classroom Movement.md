@@ -129,7 +129,7 @@ updated: 2026-10-20
 
 ## 相关研究
 
-> [!evidence-grid-a]
+> [!evidence-grid-a|notitle]
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|

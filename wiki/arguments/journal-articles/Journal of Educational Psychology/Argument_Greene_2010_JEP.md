@@ -316,7 +316,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 1. 740人的样本对复杂的[[Factor Mixture Modeling\|因子混合模型]]仍然偏小；为获得可识别的模型，作者不得不施加类别间方差、协方差等值约束。
 > 2. 样本仅包括处于正规教育中的学生，且中学样本来自较富裕地区；有效回应率约为65%，因此代表性和[[External Validity\|外部效度]]有限。
 > 3. 部分 [[Epistemic and Ontological Cognition Questionnaire|EOCQ]] 题项和[[Construct|构念]][[Reliability\|信度]]仍需改进，数学 SC 尤其薄弱；4个轮廓无法解释，也提示模型可能遗漏重要维度。

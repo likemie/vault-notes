@@ -40,10 +40,10 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > LISA时空路径（LISA Time Path）是探索性时空数据分析（Exploratory Spatiotemporal Data Analysis, ESTDA）的核心方法之一。它将时间维度引入传统的LISA（局部空间自相关指标），追踪每个空间单元在Moran散点图上多年的移动轨迹，通过相对长度和弯曲度两个几何指标刻画局部空间关联格局的动态演化特征。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 
-> [!quote]
+> [!quote|notitle]
 > 基于ESTDA模型，LISA时空路径将时间维度纳入LISA以实现动态交互。LISA时空路径可以通过相对长度和弯曲度来计算。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 > Original: Based on the ESTDA model, the LISA time path incorporates the temporal dimension into the LISA to realize dynamic interaction. The LISA time path can be calculated by relative length and tortuosity.
 
@@ -51,12 +51,12 @@ updated: 2026-10-16
 
 ## 研究程序
 
-> [!abstract]
+> [!abstract|notitle]
 > LISA 时空路径的计算建立在传统 LISA 分析之上，核[[Flow\|心流]]程为：逐年 LISA 计算 → 提取 Moran 散点坐标轨迹 → 计算几何指标（RL、D、方向）。以下逐步展开。
 
 ### 第一步：空间权重矩阵的构建
 
-> [!info]
+> [!info|notitle]
 > 空间权重矩阵 $\mathbf{W}$ 定义了 $n$ 个空间单元之间的"邻居关系"。常见构造方式：
 > - **地理距离倒数** $w_{ij} = 1/d_{ij}$（$i \neq j$），距离越近权重越大；$w_{ii} = 0$
 > - **经济-地理复合权重** $\theta_{ij} = NL_j \times 1/d_{ij}$（$i \neq j$），引入经济因子 $NL$ 修正地理距离的非对称性——经济强省对弱省的影响权重大于反向。Fan 等（2024）使用此构造，以地区 GDP 衡量 $NL$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
@@ -174,7 +174,7 @@ updated: 2026-10-16
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > 适合回答"空间格局的稳定性和演化方向如何？哪些区域的空间关联类型变化最活跃？"等问题。尤其适用于：
 > - 长期面板数据的空间格局演化分析
 > - 区域发展收敛/发散趋势的识别
@@ -184,7 +184,7 @@ updated: 2026-10-16
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - **描述性工具** RL和D是描述性几何指标，提供了格局变化的量化证据，但不能直接解释变化的原因
 > - **对空间权重矩阵敏感** RL和D的值依赖于空间权重矩阵的设定，不同权重构造方式可能导致不同结论
 > - **象限坐标的精度损失** 将Moran散点图连续坐标压缩为四个象限再追踪，丢失了连续变化信息
@@ -193,7 +193,7 @@ updated: 2026-10-16
 
 ## 相关方法
 
-> [!tip]
+> [!tip|notitle]
 > - [[LISA Spatiotemporal Transition]] — LISA时空路径关注连续轨迹的几何特征，LISA时空转移关注离散状态间的跳转概率，两者互补
 > - Moran's I — 全局和局部Moran's I是LISA时空路径的基础分析层
 > - [[Coupling Coordination Model]] — 耦合协调模型提供可被LISA时空路径追踪的综合发展指标
@@ -202,5 +202,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用LISA时空路径追踪中国30个省份EST耦合协调度的22年空间关联演化，计算RL和D揭示东部"高质量稳态"与西部"低质量扰动"的稳定性分化

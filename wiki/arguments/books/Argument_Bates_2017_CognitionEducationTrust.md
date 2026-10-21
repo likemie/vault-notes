@@ -52,21 +52,21 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > - 达尔文雀（Darwin finch）隐喻构成全书最核心的解释框架。组织被写成会随环境压力改变形态、重点和规模的适应性生命体，而不是依赖单一稳定业务的公司。(p.8-9, p.76)
 > - [[Tomorrow's Schools Reforms]] 形成的并不是稳定自由市场，而是由国家不断设定合同、采购与治理规则的准市场。组织的每次扩张和收缩，都被放回这一国家塑形的市场环境中理解。(p.11-18, p.76)
 > - 商业公司与慈善信托的双重结构，不只是背景设定，而是解释组织合法性、治理调整和长期延续性的另一条主轴。商业利润、公益授权与制度问责被写成彼此嵌套的关系。(p.7, p.69-74)
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > - 方法：受委托的组织史叙述与历史回顾，而不是围绕明确研究设计展开的学术研究。(p.7-9)
 > - 样本：[[Cognition Education\|Cognition Education Trust]]、Cognition Education Limited 及其相关团队与子公司。(p.7)
 > - 数据来源：组织档案、董事与同事对事实和章节的校核意见，以及作者作为前高管的长期工作经验。(p.9)
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 1. 这本书先把 [[Cognition Education]] 的起源放回 [[Tomorrow's Schools Reforms]] 创造的准市场，以此确立一个基本前提：组织命运始终由国家设定的采购与治理边界塑形。(p.11-18)
 > 2. 接着，书中把公司从国内学校支持服务走向国际咨询、建校与培训的历程，解释为一连串由脆弱性驱动的适应，而不是稳定、线性的成长史。具体发展经过见 [[Cognition Education]] 与 [[Jerudong International School Establishment]].(p.21-63)
 > 3. 当叙述推进到 [[Visible Learning Branding and Global Influences]] 与 Culture Counts 等知识产品时，重点已不只是“公司做了什么”，而是作者如何把这些业务重写成更轻资产、更可复制、也更能证明组织适应性的商业模型。(p.59-63)
@@ -105,7 +105,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - 这本书的核心工作不是证明某个外部学术命题，而是把 [[Cognition Education]] 的多次转向组织成一套关于适应性的内部解释。(p.7-9, p.75-76)
 > - 全书最关键的分析动作，是把公司史持续放回 [[Tomorrow's Schools Reforms]] 及其后续国家采购重组中理解，从而把成败解释为制度环境与组织适应的关系，而不只是管理能力问题。(p.11-18, p.76)
 > - 国际扩张、中东高增长与编织河道（braided river）式重组，在书中都不是孤立章节，而是被串成同一条组织神话的[[Chain of Evidence\|证据链]]。(p.35-63)
@@ -114,18 +114,18 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > 书名《达尔文雀》借用了演化生物学中的隐喻（原文：The title, Darwin’s Finch, is a metaphor drawn from evolutionary biology.）。(p.8)
 
-> [!quote]
+> [!quote|notitle]
 > 雀鸟的喙，鲜明象征着公司及其成员持续重塑自身并积极适应不可预测变化力量的能力（原文：The beak of the finch speaks pungently to the consistent ability of the company and its people to reshape and productively adapt to unpredictable forces of change.）。(p.9)
 
-> [!quote]
+> [!quote|notitle]
 > 与其做煤矿中的金丝雀，不如做一只灵活的加拉帕戈斯雀鸟（原文：better to be an agile Galapagos finch than the proverbial canary in a coal-mine.）。(p.76)
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 > - 这是一部受信托委托、主要服务内部读者的组织史，因此材料选择和叙述重点天然更接近机构自我理解，而不是外部独立审视。(p.7)
 > - 作者本人长期担任公司高管，虽然提高了叙述的内部细节密度，但也增加了把组织历史写成韧性、使命与适应故事的可能性。(p.9)
 > - 全书大量发展史细节其实更适合作为 [[Cognition Education]] 的事实材料，而不应自动等同于已经被外部验证的论证结论。

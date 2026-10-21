@@ -53,7 +53,7 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 > | **创新模式** | 国家主导、大型工程、线性规划 | 分散试错、产学研协同、风险资本分担 |
 > | **制度兼容性** | 与集中计划体制高度兼容 | 与垂直控制、信息封闭体制结构性不相容 |
 
-> [!quote]
+> [!quote|notitle]
 > 信息化是一种发展模式，其主要生产力来源在于基于知识和信息优化生产要素组合与使用的质化能力。
 >
 > Original: Informationalization is a mode of development in which the main source of productivity lies in the qualitative capacity to optimize combination and use factors of production on the basis of knowledge and information.
@@ -63,7 +63,7 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 ---
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > Informationalism 包含两个相互关联的核心命题。第一个命题确立工业化与[[Informationalization\|信息化]]作为两种性质不同的发展模式；第二个命题论证国家主义体制在结构上无法满足信息化的制度前提。
 
 > [!line-a] 命题一：发展模式转换（Mode Transition）
@@ -75,7 +75,7 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 ---
 ## 分析框架
 
-> [!abstract]
+> [!abstract|notitle]
 > Informationalism 提供的[[Analytic Framework\|分析框架]]将技术发展从"资源投入—产出"的线性逻辑中解放出来，嵌入到社会制度结构中理解。
 
 这一框架的核心方法论贡献在于：它不将技术落后归因于资源短缺、人才不足或缺乏政治意愿。苏联在1980年代拥有全球最高比例的科学家和工程师，且国家在科学和技术上的投入极为慷慨。而是将分析焦点转向体制逻辑与发展模式之间的匹配性（compatibility）问题。技术不是在真空中发展的；信息革命所要求的社会组织方式（分散决策、水平协作、信息共享）本身就构成对特定政治经济体制的选择压力。
@@ -94,5 +94,5 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 ---
 ## 相关研究
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Chan_2015_Intersect|Chan (2015)]] — 运用 Informationalism 框架分析苏联科技落后的五个机制，论证国家主义逻辑与[[Informationalization\|信息化]]要求之间的结构性不相容。

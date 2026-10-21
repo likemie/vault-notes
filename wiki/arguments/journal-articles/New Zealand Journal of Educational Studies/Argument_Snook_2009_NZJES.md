@@ -413,7 +413,7 @@ journal: "New Zealand Journal of Educational Studies"
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - **评论性质定位** 原文明确声明本文属于批判性评论（Critical Commentary）而非针对[[Primary and Secondary Documents|原始文献]]的全面[[Systematic Review|系统综述]]（Systematic Review），其主旨在于针对[[John Hattie|哈蒂]]代表作引发的公众与政策狂热提出审慎警示，未声称穷尽所有细分干预的次级计算。（p. 93）
 > - **依赖已有公开数据** 原文分析建立在哈蒂专著已公布的章节文本、附录索引及国际公开实证文献基础之上，未对哈蒂未公开的内部二阶合成计算程序开展底层代码级复算。（pp. 93–94）
 

@@ -41,7 +41,7 @@ updated: 2026-10-21
 > [!info] 核心定义
 > Ideological Capture of Science（科学意识形态化）指政治意识形态凌驾于科学理性和科学共同体自主规范之上的制度性现象。其核心机制是国家以意识形态正统的名义，判断科学理论的"政治正确性"，拒绝、压制或歪曲那些被认为与官方意识形态相冲突的科学理论和发现。在苏联，这一现象起源于革命例外论——革命立足于对旧世界的全面否定，深信自己开创了一个全新的知识世界，因而试图以马克思主义正统取代科学客观性，拒绝西方"资产阶级科学"[[Argument_Chan_2015_Intersect\|Chan, 2015]]。
 
-> [!quote]
+> [!quote|notitle]
 > 苏联科学生活在革命和例外论的精神气质中。放弃科学客观性，它试图通过将苏联例外主义延伸到科学本身，来区分自己与西方的"资产阶级科学"。
 >
 > Original: Soviet science lived in the revolutionary and exceptional ethos under which the USSR was born. Forgoing scientific objectivity, it sought to distinguish itself from the "bourgeois science" of the West by extending Soviet exceptionalism to science itself.
@@ -54,7 +54,7 @@ updated: 2026-10-21
 ---
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > 科学意识形态化的运作建立在革命例外论与科学连续性之间的根本张力之上。革命立足于断裂（discontinuity），科学则依赖于连续的知识积累和方法论传统。当政治权威以断裂的名义干预科学，结果是科学共同体的瓦解和[[Knowledge Production\|知识生产]]的倒退。
 
 > [!line-a] 命题一：革命断裂与科学连续性的不相容
@@ -90,5 +90,5 @@ updated: 2026-10-21
 ---
 ## 应用案例
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Chan_2015_Intersect|Chan (2015)]] — 将科学意识形态化作为解释苏联技术落后的第二机制，通过[[Lysenkoism\|李森科事件]]和相对论风波两个案例展示意识形态如何系统性地切断苏联科学与全球科学共同体的联系。

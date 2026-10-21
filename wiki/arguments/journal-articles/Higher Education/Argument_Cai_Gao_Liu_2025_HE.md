@@ -163,7 +163,7 @@ Burt 的结构洞理论为理解关键节点教师的角色提供了社会网络
 ---
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 研究采用[[Qualitative Interview\|质性访谈]]方法，样本聚焦于具有跨部门经验的关键节点教师，可能无法代表 [[Guangdong-Hong Kong-Macau Greater Bay Area\|GBA]] 大学教师的整体经验。此外，GBA 倡议仍在发展中，研究提供的是早期阶段的快照，而非成熟空间的全貌。
 
 ---

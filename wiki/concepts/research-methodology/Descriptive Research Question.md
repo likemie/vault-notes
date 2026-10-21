@@ -36,7 +36,7 @@ updated: 2026-05-31
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 描述性[[Research Question\|研究问题]]（descriptive [[Research Question]]）是[[Quantitative Research\|量化研究]]中描述单一[[Variable\|变量]]的频率（frequency）和变异（variation）的研究问题类型。数据分析使用描述性统计，包括均值（means）、标准差（standard deviations）、方差（variance）和范围（range of scores）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。
 
 描述性研究问题只涉及一个变量，不考察变量间的关系或群体间比较。这类问题属于描述性研究（descriptive research）的范畴。
@@ -45,7 +45,7 @@ updated: 2026-05-31
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > **描述性[[Research Question\|研究问题]] vs 关系型（推论性）[[Research Question\|研究问题]]**
 >
 > | | 描述性 | 关系型／推论性 |
@@ -61,7 +61,7 @@ updated: 2026-05-31
 
 ## 写作脚本
 
-> [!tip]
+> [!tip|notitle]
 > Creswell & Creswell (2022, Ch7) 提供的描述性[[Quantitative Research\|量化研究]]问题[[Research Writing Script\|写作脚本]]：
 >
 > "What is the frequency and variation of scores on ____（[[Variable\|变量]]名称____）for ____（参与者____）in the study?"

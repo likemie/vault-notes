@@ -38,14 +38,14 @@ updated: 2026-10-03
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 [[Knowledge Integration|知识整合]]共同体（Knowledge integration Community，简称 KIC）是 Acworth（2008）基于 Cambridge-MIT Institute 的经验提出的[[University-Industry Collaboration|产学合作]]组织模型。KIC 围绕科学或技术领域的"[[Grand Challenges|重大挑战]]"（grand challenges）组织产学合作，将教育、研究、产业和政府整合为一个多维度联盟（multidimensional alliance）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 
 KIC 的一个关键制度设计是：每个 KIC 设有一名经理（manager）负责推动[[Knowledge Exchange|知识交流]]（knowledge exchange），该经理被赋予与来自 Cambridge and MIT 的教师首席研究员（faculty principal investigators）同等的地位（equal status）——这意味着知识整合功能在组织上不隶属于学术研究功能（p.54）。
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 - **围绕[[Grand Challenges|重大挑战]]组织** 不是围绕单一学科或单一技术，而是围绕跨学科的科学或技术宏大问题聚合产学资源（p.54）
 - **四维整合** 教育、研究、产业、政府四个领域在 KIC 内部形成制度化的互动结构（p.54）
 - **平等的[[Knowledge Integration|知识整合]]角色** KIC 经理在地位上与教师首席研究员平等，确保[[Knowledge Exchange|知识交流]]和产学协调不被学术权威所压制（p.54）
@@ -53,7 +53,7 @@ KIC 的一个关键制度设计是：每个 KIC 设有一名经理（manager）�
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 - vs [[Technology Transfer Office|技术转移办公室]]（[[Technology Transfer]] Office）— 技术转移办公室聚焦于知识产权保护和许可交易；KIC 是更广泛的[[Knowledge Integration|知识整合]]机制，不仅涉及技术转移，还包括教育合作、联合研究和公共政策参与
 - vs [[University-Industry Collaboration]] 的一般合作项目 — 一般产学合作项目可能是双边、单维度的（如一家企业赞助一个实验室）；KIC 是多边、多维度的联盟，在组织架构上赋予知识整合功能独立和平等的地位
 

@@ -47,7 +47,7 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 
 **[[Autopoiesis]]（自创生）** 与 [[Francisco Varela]] 在 *The Tree of Knowledge* (1987) 中共同提出：生命系统通过自我指涉和自我生产持续维持自身。这一理论的核心主张——生命是"自组织的"——后被 Escobar 延伸至社会转型领域：社会变革在多重地方行动的非计划交互中[[Emergence|涌现]]，不需要中央计划或智能引导（Escobar, 2018, p.152；Amos, 2022, p.61）。
 
@@ -57,7 +57,7 @@ updated: 2026-10-16
 
 ## 主要著作与思想发展
 
-> [!abstract]
+> [!abstract|notitle]
 
 - Maturana, H. R., & [[Francisco Varela|Varela, F.]] J. (1987). *The tree of knowledge: The biological [[ROOTS]] of human understanding*. Shambhala. — 与 Varela 共同提出[[Autopoiesis|自创生]]理论，从生物学延伸到人类理解
 

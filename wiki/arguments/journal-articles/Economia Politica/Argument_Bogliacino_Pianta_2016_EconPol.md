@@ -238,7 +238,7 @@ updated: 2026-10-16
 ---
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 研究明确承认以下局限（pp.175-176）：
 > - 数据为行业层面聚合数据，无法捕捉企业内部的[[Heterogeneity\|异质性]]：同一两位数行业内不同企业的创新模式可能差异显著
 > - 社区创新调查（[[Community Innovation Survey]]，CIS） 数据的国家覆盖范围有限（7+1 国），未纳入东欧国家和新兴经济体，限制了结论的全球[[External Validity\|可推广性]]

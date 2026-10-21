@@ -77,7 +77,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > - [[Academic Health System\|学术健康系统]] — 核心概念。区别于传统[[Academic Medical Center\|学术医学中心]]（Academic Medical Center, AMC），指在优先患者诊疗之后同时追求学术研究和产业创新、兼具科研基础设施和区域性临床网络的独立组织实体(pp.179–181)。
 > - **[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）** — 定义为"整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新"(p.175)。AHS 正是 AMI 类[[University-Industry Collaboration\|产学合作]]的理想促进者。
 > - [[Physician-Scientist\|医师科学家]] — AMI 的关键催化者，同时具备医学博士（Doctor of Medicine, MD）和哲学博士（Doctor of Philosophy, PhD）学位，在临床前线识别问题、与基础科学家合作翻译发现、并在学界和产业之间充当联络者(pp.176–177)。
@@ -93,7 +93,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > - 类型：观点性书籍章节（perspective chapter），包含一个历史性的[[Case Study\|案例研究]]
 > - 方法：基于作者在 Houston Methodist 研究所（Houston Methodist Research Institute, HMRI）的从业经验（Swick 为研究发展副主任, Jones 为 HMRI 总裁兼首席执行官），结合文献引用和对 TAVR [[University-Industry Collaboration\|产学合作]]历程的历史案例分析
 > - 案例：Houston Methodist DeBakey 心脏与血管中心与 Medtronic 合作开发 TAVR 的产学合作历程(pp.192–194)
@@ -323,7 +323,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - [[Academic Health System\|AHS]] 是一种与 [[Academic Medical Center\|AMC]] 在组织结构、优先事项和能力上存在实质差异的独特组织形态。其混合学术、临床和产业三种逻辑的结构性特征（"中心辐射"网络、双向学术管线、多元化伙伴组合）使其成为 [[Applied Medical Innovation\|AMI]] 类[[University-Industry Collaboration\|产学合作]]的理想促进者(pp.179–182)。
 > - [[Physician-Scientist\|医师科学家]]是 AMI 的关键催化者，但面临严重的时间挤压（研究可用时间中 44.3% 花在行政任务上）和超亚专业化带来的跨学科沟通障碍。AHS 通过专门基础设施（如 Houston Methodist Bookout Center、快速装置转化中心）来减轻这些负担(pp.176–177, 185–187, 195)。
 > - 七重结构性挑战（创新成本、监管负担、数据管理、问题复杂性与技术变革速度、超亚专业化、医师科学家时间挤压、合作光谱定位）共同构成了单一组织无法独立完成医用创新的论证。产学合作不是众多选项之一，而是穿越这些障碍的唯一路径(pp.182–187)。
@@ -346,37 +346,37 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "The 'secret sauce' for healthcare innovation (particularly in the United States) is [[Applied Medical Innovation]] (AMI)."(p.175)
 >
 > 医疗创新的秘密配方（特别是在美国）是医用创新（AMI）。
 
-> [!quote]
+> [!quote|notitle]
 > "the nature of [[Team Science]] today conflicts with the historical nature of the Nobel Prize, which is more reflective of how science was conducted 100 years ago."(pp.178–179)
 >
 > 当代团队科学的本质与诺贝尔奖的历史本质存在冲突，后者更多地反映了 100 年前科学研究的开展方式。
 
-> [!quote]
+> [!quote|notitle]
 > "academic health systems are deeply invested in innovations that improve patient care or transform the patient experience."(p.179)
 >
 > [[Academic Health System\|学术健康系统]]深耕于那些能够改善患者诊疗或变革患者体验的创新。
 
-> [!quote]
+> [!quote|notitle]
 > "It is only when people who think differently come together that innovation happens."(p.186)
 >
 > 只有当思维方式不同的人汇聚在一起时，创新才会发生。
 
-> [!quote]
+> [!quote|notitle]
 > "UI partnerships are the only path through these myriad challenges."(p.187)
 >
 > 产学伙伴关系是穿越这些重重挑战的唯一路径。
 
-> [!quote]
+> [!quote|notitle]
 > "For every partnership we enter, we must ask ourselves: What does 'values alignment' mean? What counter currents are pulling us away from alignment, and how can we reconcile those forces to realign our goals, balance the model, and achieve innovation together?"(pp.190–191)
 >
 > 对于我们进入的每一个伙伴关系，我们必须问自己：这里的价值对齐意味着什么？什么反向潮流正在将我们拉离对齐？我们如何调和这些力量以重新对齐目标、平衡模型并共同实现创新？
 
-> [!quote]
+> [!quote|notitle]
 > "At some point, standard therapies fail patients with NCDs as well."(p.190)
 >
 > 在某个时间点，标准疗法对非传染性疾病（NCD）患者也会失效。
@@ -385,7 +385,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - Houston Methodist 作为范例来阐明 [[Academic Health System\|AHS]] 的特征和能力，"the one with which we are most familiar"(p.180)。所描述的 AHS 模型可能带有该机构的特殊性，其他具备类似模式的 AHS（如 Cleveland Clinic、Cedars-Sinai Medical Center、MedStar Health）在结构上各有差异。
 > - Medtronic and Edwards Lifesciences 之间的专利争议被明确排除在讨论范围之外（"a topic beyond the scope of this chapter"）(p.193)，因此 TAVR 案例没有覆盖[[University-Industry Collaboration\|产学合作]]中知识产权争议这一完整维度。
 > - [[Values Alignment Model\|价值对齐模型]]是一个概念性框架，其有效性主要通过 TAVR 的单一案例和 COVID-19 的历史经验进行推论，尚未经过系统的实证验证。

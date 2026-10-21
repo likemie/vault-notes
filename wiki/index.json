@@ -29000,6 +29000,16 @@
     ]
   },
   {
+    "title": "Fraser Institute",
+    "type": "fact",
+    "path": "wiki/facts/canada/Fraser Institute.md",
+    "aliases": [
+      "弗雷泽研究所",
+      "菲沙研究所",
+      "The Fraser Institute"
+    ]
+  },
+  {
     "title": "Schlegel-UW Research Institute for Aging",
     "type": "fact",
     "path": "wiki/facts/canada/Schlegel-UW Research Institute for Aging.md",
@@ -29037,6 +29047,17 @@
       "加拿大教育指标计划",
       "CEIP",
       "Programme d'indicateurs de l'éducation au Canada"
+    ]
+  },
+  {
+    "title": "Alto al SIMCE",
+    "type": "fact",
+    "path": "wiki/facts/chile/Alto al SIMCE.md",
+    "aliases": [
+      "停止 SIMCE 运动",
+      "智利停止 SIMCE 运动",
+      "Stop SIMCE",
+      "Alto al SIMCE Campaign"
     ]
   },
   {
@@ -31993,6 +32014,16 @@
     ]
   },
   {
+    "title": "INVALSI",
+    "type": "fact",
+    "path": "wiki/facts/italy/INVALSI.md",
+    "aliases": [
+      "意大利国家教育培训系统评估研究院",
+      "意大利国家教育评估院",
+      "Istituto Nazionale per la Valutazione del Sistema Educativo di Istruzione e di Formazione"
+    ]
+  },
+  {
     "title": "Azione LIM",
     "type": "fact",
     "path": "wiki/facts/italy/Azione LIM.md",
@@ -32821,6 +32852,19 @@
       "挪威大学生学业体验晴雨表",
       "Norwegian National Student Survey",
       "Studiebarometeret Survey"
+    ]
+  },
+  {
+    "title": "Nasjonale prøver",
+    "type": "fact",
+    "path": "wiki/facts/norway/Nasjonale prøver.md",
+    "aliases": [
+      "挪威国家统考",
+      "挪威国家测试",
+      "挪威国家教育评估系统",
+      "Norwegian National Tests",
+      "National Tests (Norway)",
+      "Nasjonale prover"
     ]
   },
   {

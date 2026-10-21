@@ -73,7 +73,7 @@ updated: 2026-10-20
 > - **政策工具** 设立四年初中（ESO）学制，后接两年制多样化高中（Bachillerato）或中级职业培训（Formación Profesional de Grado Medio，CFGM）；下放学校课程 35%–45% 的自主规划权给自治区。
 > - **约束机制** 实行初中统一步调结业文凭（Graduado en ESO），未取得文凭者不得升入普通高中；全面取消全国性统一学术水平测试。
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论 LOGSE 的滞后夸大与学制平庸化**
 > 1970 年法案推行[[Comprehensive Education|综合教育]]是无可争辩的重大进步；然而 20 年后 LOGSE 却在一个不合时宜的节点过度夸大了这一原则，同时将义务教育年限与综合教育硬性拔高到十年。此时大部分欧洲邻国已在反思并修正均质综合教育的负面效应，寻求多样化分流路径以适应 14 至 16 岁学生的实际志趣与能力。西班牙反而在立法中将其绝对化，导致严重忽视青少年分化规律的体制平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
 >
@@ -169,7 +169,7 @@ updated: 2026-10-20
 > > - **分权主导者叙事** 权力下放贴近公民与地方历史文化，是去集权化的必然选择。
 > > - **国家统一与效能批判** 狂热分权导致 17 个互不统属的平行系统，行政队伍严重肥胖，摧毁了全国教育统一空间。
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论 1990 年 LOGSE 均质学制的实证后果**
 > 1990 年法律要求所有学生在 16 岁之前修习完全相同的课程。其后果在教育界是众所周知的：它在学校内部创造了一大批缺乏任何学习动机的学业抗拒者，使得初中最后两年成为冲突多发的温床；高达三分之一的学生在 16 岁遭遇学业失败，而达到卓越学术水平的学生不足 4%。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 >

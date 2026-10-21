@@ -142,20 +142,20 @@ citation_aliases:
 > [!question]
 > 大学与企业——两种治理模式、时间尺度和核心目标截然不同的组织——如何在各自保持制度特性的同时实现有效合作？本书的核心主张是：真正产生影响力的不是泛泛的产学"关系"（relationships），而是有目的的、对齐的"参与"（engagement）——一种在研究与学术、教育与学习、公共效益三个维度上，通过正式协议框架建立的深度合作。
 
-> [!quote]
+> [!quote|notitle]
 > “贯穿本书的基本理念是：实力与影响力的发展，不仅仅依靠大学与产业之间的关系，更在于研究与学术、教育与学习以及公共利益方面的深度参与。”
 > ("Fundamental to our book is the notion that strength and impact are developed not solely through relationships between universities and industry but engagement, in research and scholarship, education and learning, and public benefits.")(p.4)
 
 全书从第一章起就建立了一个贯穿始终的[[Analytic Framework|分析框架]]：创新越来越多地发生在大学与产业的"界面"（interface）上——这一界面并非简单的接触点，而是贯穿整个科学、工程和学术链条的协作空间，连接理论、实验、发现、测试、开发、设计、实施和商业化(p.4)。
 
-> [!example]
+> [!example|notitle]
 > 2024 年诺贝尔奖的三个科学奖项被用作说明这一趋势的关键证据：物理学奖表彰了神经网络的基础研究（得主 Geoffrey Hinton 曾在 Google 工作十年），化学奖表彰了 AlphaFold 蛋白质结构预测软件（得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发）；生理学与医学奖得主虽未曾在产业工作，但其 MicroRNA 研究通过治疗开发对生物医学公司产生了变革性影响(pp.3–4)。换一个角度看：如果 Hinton 从未进入 Google，或 Hassabis and Jumper 不在 DeepMind 工作，这些诺贝尔奖级别的成果可能根本不会以同样的方式出现。
 
 ### 目标对齐的逻辑
 
 大学和企业的关系之所以可能，是因为它们在目标上有交集——但交集不完全。大学的核心使命——研究、教学、公共服务——分别对应[[University-Industry Collaboration|产学合作]]的三重回报；但要实现这些使命，大学还需要财务资源（financial resources）和正向声誉（positive reputation）。企业同样追求财务回报和声誉，但比例和优先级不同(pp.5–7)。
 
-> [!abstract]
+> [!abstract|notitle]
 > **对齐（alignment）的三个层次**
 > - **高度对齐的领域** 人才发展（[[Workforce Development]]）、经济增长、知识产权——双方都有强烈动机
 > - **部分对齐的领域** 研究与学术——大学视其为目的本身，企业更多将其视为服务于盈利的手段
@@ -178,7 +178,7 @@ citation_aliases:
 | 成果输出 | 公开发表、开放分享 | 商业机密、专利保护 |
 | 目标优先级 | 声誉 > 收入 | 利润 > 声誉 |
 
-> [!example]
+> [!example|notitle]
 > 学术自由导致的"渗透性"（porosity）是理解产学摩擦的关键。大学教授可以在学术会议上自由展示未发表的数据，把博士生派到合作企业实习；企业研究人员通常需要法务部门批准才能在外部发言，并可能被禁止讨论某些技术细节。当这两种逻辑在"界面"上相遇时，每一项合作协议——发表审查权、知识产权归属、学生权益保护、间接成本核算、数据使用权等——都可能成为僵持的战场(pp.9–10)。
 
 更深层的挑战是：当今的领先企业和大学"已经变得更加相似"——两者都生产、传播和利用信息，都能提供教育课程，都雇用博士训练的研究人员——这意味着它们在某些领域不是互补者而是竞争者(p.10)。
@@ -195,7 +195,7 @@ citation_aliases:
 
 ## 全书结构
 
-> [!abstract]
+> [!abstract|notitle]
 > 全书分为三层——基础（Foundations）、路径（Avenues）和机制（Mechanics）——对应从"为什么做"到"在哪些领域做"再到"怎么做"的逻辑递进。共 17 章。
 
 ### 三层架构
@@ -248,7 +248,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!tip]
+> [!tip|notitle]
 > 全书共用的[[Theoretical Perspective\|理论视角]]。
 
 - [[Triple Helix]] — Etzkowitz and Leydesdorff(1995)的大学-产业-政府三重螺旋模型，三者在以知识为基础的经济发展中形成相互支撑的反馈循环(p.13)
@@ -259,7 +259,7 @@ citation_aliases:
 
 ## 各章概览
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Boccanfuso_Hall_2025_Alignment]]（第一章 Alignment, Engagement, and Public Benefits）— 以 2024 年诺贝尔奖为引，提出全书核心框架：[[University-Industry Collaboration\|产学合作]]的三重回报（研究与学术、教育与学习、公共效益）；系统分析大学与企业目标对齐的逻辑——双方在人才发展、经济增长和知识产权上高度对齐，在盈利与学术声誉上分歧显著；诊断治理模式、[[Academic Freedom\|学术自由]]与知识产权控制、合同谈判复杂度及大学-企业竞争四重挑战；追溯美国产学合作的历史制度遗产（[[Morrill Land-Grant Act of 1862\|Morrill Act]] 1862、[[Smith Lever Act of 1914\|Smith Lever Act]] 1914、[[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 1980）；在既有文献中定位[[Innovation Ecosystem\|创新生态系统]]、[[Technology Transfer\|技术转移]]和产学参与的研究脉络；详述 [[University Industry Demonstration Partnership\|UIDP]] 从 2004 年白皮书到 2015 年独立的制度化历程及其 Contract Accords 和 [[Partnership Continuum]] 等核心产出。以"基础-路径-机制"三层框架预告全书 17 章的组织逻辑。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution]]（第二章 Evolution of University-Industry Relationships for Driving Innovation）— 综述过去 50 年产学关系（UIRs）的演变历程。从三个维度追踪变化：创新模型（线性→耦合→系统集成→[[Systems of Innovation\|创新系统]]）、国家[[Innovation Policy Paradigms\|创新政策范式]]（科学促增长→创新系统升级→[[Transformative Change\|变革转型]]）、大学与企业角色的历史性再分配（[[Corporate R&D Labs\|企业研发实验室]]的兴衰、大学从脱钩到重新嵌入创新系统、[[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 与各国类似立法的催生作用）。记录 UIR 规模增长的趋势数据（美国产业资助大学研发 1990–2022 年增长约 2.6 倍），识别互动模式从交易型向关系型、从零散向战略性集中的转变。基于多项实证研究提出涵盖大学领导、学术人员、互动项目、产业伙伴、制度环境、供给条件和需求条件七层次的影响因素框架（Table 2.1）。面向未来提出八项战略方向，包括将社会科学和人文学科纳入 UIR、实验新组织空间、构建地方创新生态系统等。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy]]（第三章 Organization and Strategy for University-Industry Relationships）— 构建产学参与（UI engagement）的活动-基础-特征三维框架：五个使命领域（教育、研究、临床、辅助/行政、经济/社区发展）的具体活动，以及支撑这些活动的政策、协议、关键单位和利益相关者基础。通过对 65 所 UIDP 成员大学的网站分析和产学双方的[[Questionnaire\|问卷调查]]，识别出五种常见的中心办公室组织模式（科研办公室、经济发展/政府关系、企业/基金会关系、伙伴关系、全面模式），发现没有任何一种模式是真正全面的——中心办公室通常扮演导航者/[[Concierge Service\|礼宾]]角色而非执行者。调查显示大学和企业在"互利关系"上高度一致（>80%），但企业特别呼吁灵活的知识产权政策和专注于特定行业的大学伙伴[[Boundary Spanner\|关系经理]]。

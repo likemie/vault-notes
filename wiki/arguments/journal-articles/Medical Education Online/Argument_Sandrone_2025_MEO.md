@@ -65,7 +65,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 论文基于以下理论和实证基础
 >
 > - [[Mentorship\|导师制]]在科学中的核心地位及其对被指导者成功的影响
@@ -77,7 +77,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 使用[[Content Analysis\|内容分析]]方法，对 208 篇[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 [[Mentorship\|mentor]] 一词在演讲中出现的次数。
 >
 > 分析范围涵盖 1901-2023 年间所有可用的诺贝尔演讲， except where only the slides, but not the lecture transcript, were uploaded（即 2017 年的 Young 和 2022、2023 年的获奖者），以及当只有视频录像但没有演讲或其[[Transcription in Qualitative Research\|转录]]本可用时（即 2020 和 2021 年）。1915-1918、1921、1925 年未颁奖，因此没有诺贝尔演讲可用。
@@ -170,7 +170,7 @@ citation_aliases:
 
 ### 可能的解释
 
-> [!warning]
+> [!warning|notitle]
 >
 > **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变往往带来开创性研究，在诺贝尔奖获得者中尤为常见(Ma et al., 2020)。
 >
@@ -182,7 +182,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 >
 > **[[Mentorship Recognition\|导师致谢]]的缺失**。在[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition\|导师致谢]]的缺失是令人意外的，尤其是考虑到[[Mentorship\|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式。
 >
@@ -196,17 +196,17 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "Only twenty Nobel Laureates have explicitly acknowledged their mentors in their Nobel Lectures."
 >
 > 只有 20 位诺贝尔奖获得者在他们的诺贝尔演讲中明确承认了他们的导师。
 
-> [!quote]
+> [!quote|notitle]
 > "This highlights an unexpected gap in the explicit acknowledgment of mentors in the context of the Nobel Prize, which we report and discuss for the first time."
 >
 > 这凸显了诺贝尔奖背景下导师明确承认的一个意外缺失，我们首次报告和讨论了这一点。
 
-> [!quote]
+> [!quote|notitle]
 > "Being awarded a Nobel Prize does not happen simply by making a great achievement and passively waiting for it to be rewarded."(Hansson & Schlich, 2024)
 >
 > 获得诺贝尔奖不仅仅是取得伟大成就并被动等待其被奖励。
@@ -215,7 +215,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 >
 > **方法论的局限**。方法论直接、有效且无偏见，仅依赖于计算给定文本中 [[Mentorship\|mentor]] 一词的频率。
 >

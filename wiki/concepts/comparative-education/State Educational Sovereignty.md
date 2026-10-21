@@ -211,7 +211,7 @@ updated: 2026-10-21
 > [!claim] Sutton, Arnove and Kamat
 > **公共服务外包异化为去政治化影子国家并架空主权权威** 萨顿与阿诺夫（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示，国际援助机构出于对受援国官僚的不信任，普遍绕过国家教育部直接委托非政府组织提供教育；这种公共服务外包使国家丧失了统筹教育与颁发文凭的核心权威，不仅导致国民教育碎片化，更将民间组织异化为依附于外部指标的影子国家，彻底架空了国家公共教育主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] 论跨国经贸与非政府组织对国家教育主权的削弱**
 > 国际援助方绕过受援国政府直接资助非政府组织提供基础教育，使国家丧失了统筹公共教育与颁发文凭的核心权威；世贸组织消除边境壁垒，更使弱小边缘国家丧失了宏观调控教育的主权能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
 >

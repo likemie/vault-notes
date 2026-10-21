@@ -42,7 +42,7 @@ updated: 2026-10-21
 
 ## 背景
 
-> [!event-context]
+> [!event-context|notitle]
 > - **发布时间** 2024年
 > - **发布主体** [[ASEAN|东盟]]（ASEAN）与东南亚教育部长组织（SEAMEO）
 > - **涉及地区** 东南亚（东盟成员国）

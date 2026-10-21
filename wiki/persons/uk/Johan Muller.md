@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 与其他学者的关系
 
-> [!example]
+> [!example|notitle]
 > - 与 Young 长期合作，共同提出[[Powerful Knowledge\|有力知识]]概念（Young & Muller, 2010; Muller & Young, 2019）
 > - 继承 Bernstein 的知识结构理论
 > - 与 Hoadley 合作研究南非课程改革与[[Academic Achievement\|学业成就]]不平等

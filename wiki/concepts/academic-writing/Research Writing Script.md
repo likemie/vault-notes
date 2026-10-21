@@ -44,20 +44,20 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 在研究写作中，脚本（script）是一种填空式模板工具，包含某一类型学术陈述的核心词语、逻辑结构和关键要素，同时为研究者预留填入自身项目具体信息的空间。[[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p.127)]] 将其定义为："A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."
 
 脚本的作用不在于提供完美的写作范本，而在于帮助研究者系统性地覆盖某一陈述类型所需的所有必要要素。它降低遗漏关键组件的风险，也为初学者提供一个可直接操作的写作起点。
 
-> [!quote]
+> [!quote|notitle]
 > "Here is a script helpful in drafting a complete statement. A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.127]])
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > **脚本 vs 模板（Template）** 脚本比模板更结构化——模板通常只给出标题和章节框架，脚本则将句子级别的语法结构和关键术语一并提供，研究者只需填入空缺部分。脚本是"可填空的句子"，模板是"可填空的章节"。
 
-> [!example]
+> [!example|notitle]
 > **脚本 vs 范例（Example）** 范例是已完成的、来自具体研究的实际文本，展示的是最终成果的样子；脚本是生成文本的工具，展示的是搭建过程的"骨架"。Creswell & Creswell 的教科书同时提供脚本和范例，两者配合使用。
 
 ## 核心要素
@@ -133,7 +133,7 @@ Creswell & Creswell (2022, Ch7)：
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > 脚本作为一种研究写作工具，其设计逻辑基于两个前提。一是**要素完整性原则**——如果一种研究陈述在方法论上有明确规定的必要构成部分，那么写作工具就应该确保每个部分都被覆盖。二是**认知减负原则**——将"我该写什么"的认知决策转换为"我填入什么"的填空操作，降低初学者的写作焦虑。
 >
 > 脚本同时也发挥着方法论教育功能：填空过程强迫研究者思考"我的研究路径是什么""我的[[Central Phenomenon\|核心现象]]是什么""我的[[Variable\|变量]]之间是什么关系"等基本问题。在某种意义上，使用脚本的过程本身就是研究设计的深化过程。

@@ -58,12 +58,12 @@ updated: 2026-10-16
 
 ## 核心思想
 
-> [!abstract]
+> [!abstract|notitle]
 > Shatskii 希望通过改革学校体系来逐步变革整个俄国的制度——即通过教育实验实现渐进的社会改造([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.103]])。这一思路与 Dewey 的渐进主义（gradualism）高度一致，也是他被拿来与 Dewey 比较的主要原因。
 
 他的教育实践以项目与活动课程为核心，强调从经验中学习（learning from experience），反对以背诵和[[Rote Learning|机械记忆]]为主的传统教学方式。
 
-> [!quote]
+> [!quote|notitle]
 > "We must begin this great undertaking — the coming together of the more democratic nations of the world." — Shatskii to John Dewey, July 23, 1928([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.107]])
 > 
 > 我们必须开始这项伟大的事业——让世界上更民主的国家汇聚在一起。
@@ -72,7 +72,7 @@ updated: 2026-10-16
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - 其农村实验学校体系被视为世界上规模最大的[[Progressive Education\|进步教育]]实验之一（Partlett 2011，引自 Ryabyy, 2024, p.103）。
 > - 1928 年与 Dewey 会面时，Shatskii 表示希望 Dewey 回国后能驱散美国社会中对苏联的各种误解，推动两国的文化与教育交流([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.107]])。
 > - 与 [[Anton Makarenko]] 同为苏俄最重要的进步教育改革家——两人均被拿来与 Dewey 进行比较（Gehring, Bowers & Wright 2005; Holtz 2002，引自 Ryabyy, 2024, p.103）。

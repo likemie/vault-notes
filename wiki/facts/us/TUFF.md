@@ -44,7 +44,7 @@ updated: 2026-10-16
 
 ## 内容
 
-> [!info]
+> [!info|notitle]
 > 大学融资基金会（The University Financing Foundation, TUFF）是 1982 年在佐治亚州亚特兰大成立的 501(c)(3) 运营基金会，由佐治亚理工学院（Georgia Tech）校友创立，专门为大学[[Innovation Park\|研究园区]]和[[Innovation Hub\|创新中心]]提供开发、融资和[[Placemaking\|场所营造]]服务([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.123]])。
 
 TUFF 的起源可追溯到 Georgia Tech 时任校长 Joseph Pettit 对研究事业的三项授权：以私营部门交付模式建设高质量研究设施；采用低于市场的租赁结构（以匹配公共融资成本）；最大化联邦资金机会。TUFF 的首个项目是 Georgia Tech 的 J. Frank Smith Centennial Research Building（p.123）。
@@ -55,14 +55,14 @@ TUFF 现任总裁兼 CEO 为 Kevin T. Byrne（Wharton MBA），首席财务官�
 
 TUFF 基于四十三年的[[University-Industry Collaboration|产学合作]]开发经验，提炼出[[Innovation Hub|创新中心]]建设的四个核心信条与六项优先领域（pp.124–136）：
 
-> [!abstract]
+> [!abstract|notitle]
 > **四个核心信条**（边界条件）：
 > 1. 高质量学术机构（University）
 > 2. 产业研发的私人投资（Industry）
 > 3. 产学之间的合作（Collaboration）
 > 4. 知识产权保护（Intellectual Property, IP）
 
-> [!abstract]
+> [!abstract|notitle]
 > **六项优先领域**（操作路径，同时推进、相互交织）：
 > 1. 创业与[[Asset Mapping\|资产映射]]
 > 2. 学术存在

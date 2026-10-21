@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,8 +288,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bd88d0cdfde06150",
+  "active": "013944e50abdeb09",
   "lastOpenFiles": [
+    "tmp/callout-design-backup-v4/gen-r20.py",
+    "tmp/callout-design-backup-v4/v41-r20.css",
+    "tmp/callout-design-backup-v4/untitled-before.tgz",
+    "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
+    "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+    "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
+    "wiki/facts/us/Sputnik Shock 1957.md",
     "wiki/facts/norway/Nasjonale prøver.md",
     "wiki/facts/italy/INVALSI.md",
     "wiki/facts/canada/Fraser Institute.md",
@@ -312,20 +319,13 @@
     "wiki/concepts/political-economy-geopolitics/Institutional Layering.md",
     "wiki/concepts/political-economy-geopolitics/Institutional Drift.md",
     "wiki/concepts/political-economy-geopolitics/Institutional Conversion.md",
-    "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
     "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md",
     "output/verger_2019_fulltext.txt",
-    "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-011/prompt.md",
     "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-011/batch-result.schema.json",
-    "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-010/prompt.md",
     "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-010/batch-result.schema.json",
-    "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-009/prompt.md",
     "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-008/batch-result.schema.json",
-    "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-008/prompt.md",
     "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-007/batch-result.schema.json",
-    "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-001/batch-result.schema.json",
-    "output/related-updates/Argument_Niemann_Martens_2018_GSP-20261021-184739/batch-006/batch-result.schema.json",
     "tmp/callout-design-backup-v4/v41-preview.png",
     "tmp/callout-design-backup-v4/before-after.png",
     "sources/Zhu_Yang_2025_HE/figures/Zhu_Yang_2025_HE_Fig1_Higher_Education_Nexus_Neo_Tributary_Framework.jpg",

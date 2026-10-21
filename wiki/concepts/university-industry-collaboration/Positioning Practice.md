@@ -44,17 +44,17 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 定位实践（Positioning Practice）是 Angermuller 在 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]的一期 Higher Education 中阐述的[[Discourse|话语]]理论概念，源于其更早的学术[[Discourse Analysis\|话语分析]]研究（Angermuller, 2013）。其核心主张是：积极参与高等教育和研究始终是一种"定位实践"——行动者通过使用可用的社会范畴（职称、机构隶属、发表记录、学术头衔）来主张自己的位置并界定他人的归属([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.807–808]])。
 
 这一概念将学术交流从"信息传递"重新理解为**社会位置的持续协商**。每次学术会议发言、每篇论文的署名机构、每个职称标签——都不是中立的"事实陈述"，而是在话语中生产、确认或挑战学术等级的行动。一个学者说"我是 Harvard 的教授"——这不只是陈述一个事实，更是在使用制度化的地位范畴来定位自己在学术[[Champ|场域]]中的位置。
 
-> [!quote]
+> [!quote|notitle]
 > "积极参与高等教育和研究始终是一种'定位实践'，在其中行动者通过使用可用的社会范畴来主张自己的位置并界定他人的归属。"([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.807–808]])
 
 ## 运作机制
 
-> [!abstract]
+> [!abstract|notitle]
 > 定位实践通过三个层面运作([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.807–808]])：
 
 ### 范畴的使用与激活
@@ -71,13 +71,13 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Discursive Stratification]]：话语分层是分析路径，定位实践是其中的一个**具体机制**——通过日常[[Discourse|话语]]中的位置协商来操作等级建构
 > - vs [[Field Images]]：[[Champ\|场域]]图像关注宏观的认知层面——排名如何让整个社会"看见"层级。定位实践关注微观的互动层面——个体学者如何在日常交流中主张和协商自己的位置。两者是同一等级建构过程的宏观和微观两端
 > - vs 身份认同（identity）：身份认同是心理学/社会学概念，关注内在的自我认知。定位实践是[[Discourse Analysis\|话语分析]]概念，关注**话语中的位置主张**——重要的不是学者"内心"认为自己是谁，而是在公开交流中**声称**自己是谁，以及这种声称如何被接受或挑战
 
 ## 在 Burton Clark 三角中的位置
 
-> [!note]
+> [!note|notitle]
 > Angermuller（本条目来源）指出，学术行动者通过定位实践在 Burton Clark 的三角协调模型——国家权威、市场力量、[[Academic Oligarchy\|专业寡头]]——中进行符号位置的持续协商。日常[[Discourse|话语]]中的定位（"我是 [[National Science Foundation\|NSF]] 资助的研究者"、"我在 state university 任教"）同时触达了三角的三个端点：国家（拨款机构）、市场（机构竞争地位）、专业寡头（学科内部的地位等级）([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.807–808]])。
 

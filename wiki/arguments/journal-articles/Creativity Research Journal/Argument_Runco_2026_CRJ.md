@@ -464,7 +464,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 1. **受限于既有一阶[[Meta-analysis\|元分析]]数据** [[Meta-meta-analysis\|二阶元分析]]只能利用已发表元分析所提供的数据与[[Variable\|变量]]，许多尚未被一阶元分析覆盖的重要因素（如特定文化差异、具体历史时代演进或未报告的领域细分）无法纳入实证检验。（pp. 4, 8–9）
 > 2. **[[Criterion Problem\|效标问题]]与跨研究测量不可比性** 作为[[Independent Variable\|预测变量]]与作为[[Dependent Variable\|结果变量]]的研究在具体测量工具与设计上存在[[Heterogeneity\|异质性]]，不可简单直接等同；效标问题依然制约着对[[Creativity\|创造力]]形成机制的精确归因。（p. 8）
 > 3. **先验分类的理论边界** 调节变量分类（如认知、外认知、教育干预）基于先验理论设定，未来随着更多一阶元分析发表，可能[[Emergence\|涌现]]出新的分类框架。（p. 9）

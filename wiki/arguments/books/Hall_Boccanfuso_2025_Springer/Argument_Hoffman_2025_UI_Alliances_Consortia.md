@@ -280,7 +280,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - 产学联盟与联合体的组织化程度构成一个从轻量到重度的光谱：[[Industry Advisory Board\|IAB]]（纯对话，无资金，无协议）→ [[Industry Affiliate Program|CAP]]（会员费，投票决定研究，捐赠型或合同型）→ [[University-Based Research Center\|大学研究型中心]]（大学设定方向，政府共同资助，优先许可）→ [[Innovation Hub\|创新中心]]（多方大规模投资，治理结构，区域经济目标）(pp.108–113)
 > - 三种基础设施性要素贯穿所有四种模式：价值主张必须从企业角度"电梯演讲"长度讲清楚、[[Boundary Spanner\|关系经理]]必须有人对关系的存活负责、[[Master Agreement\|主协议]]覆盖 IP-赔偿-治理的完整法律框架并保持长期稳定(pp.105–108)
 > - [[Advanced Manufacturing Research Centre\|AMRC]] 验证的最关键原则是**找到产业的共同痛点**——联合体的技术主题应当扎根于多公司正在独立烧钱试图解决的共同问题，而非大学自身的强项。技术焦点要窄到足以让有限投资产生可见成果，但不能窄到只吸引一个行业细分(pp.113–117)
@@ -297,15 +297,15 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “也许最重大的挑战在于，当对关系至关重要的个体调换工作或岗位职责发生变化时，企业与大学之间合作互动的连续性和延续性。”
 > ("Perhaps the most significant challenge is the continuity and continuation of collaborative interactions between a company and university when the individuals who are key to the relationship switch to different jobs or different job descriptions.")(p.105)
 
-> [!quote]
+> [!quote|notitle]
 > “问这样一个问题：发起成员目前分别在独立花费哪些资金，而这些是可以通过共享投资来解决的？这个问题的答案就是产业的‘痛点’，也是该联盟的潜在[[Research Topic\|研究主题]]。”
 > ("Ask the question, what are the launch members spending money on independently that could be addressed with a shared investment? The answer to this question is the 'pain' in industry and a potential research theme for the consortium.")(p.117)
 
-> [!quote]
+> [!quote|notitle]
 > “让竞争对手在一个联盟环境中合作似乎是一项不可能完成的任务，但经验表明，如果建立起适当的条件，这是可能实现的。”
 > ("It may seem like an impossible task to get competitors to work together in a consortium setting, but experience shows that it is possible if the right conditions are established.")(p.117)
 
@@ -313,7 +313,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - 四种模式的分类属于实践类型学（practitioner typology），基于三位作者的经验归纳而非系统的理论推导或大规模实证检验(pp.103–121)
 > - 深度案例仅包括 [[Advanced Manufacturing Research Centre\|AMRC]] 一个成功案例，其他联合体（TPRC、SERC Aerospace Program）仅简要提及作为补充——缺少失败案例的对照，可能仅捕捉了成功的[[Necessary and Sufficient Conditions\|必要条件]]而非充要条件(pp.113–119)
 > - 作者专业背景主要在航空航天和先进制造领域，对生物医药、信息技术和教育等领域的产学联合体适用性未经验证(pp.119–120)

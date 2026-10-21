@@ -302,7 +302,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 个体层面的[[Epistemology\|认识论]]认知得到了基于双重辩护的充分论证，而社会层面的知识在群体动态中的实际传播、认识实践在群体层面的聚集探讨仍显不足。未来需要在[[Constructivist Paradigm\|建构主义]]学习环境中考察学习者群体的互动。
 
 ---

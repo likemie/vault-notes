@@ -80,7 +80,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 实践指南类章节，基于作者在美国[[Technology Transfer\|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership\|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
 
 ---
@@ -130,7 +130,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 - **稳定的人才管道** 大学持续输出有经验、有动力的学生，成为企业的招聘目标
 - **"搭便车"机会** 产业方有时能受益于由其他实体（联邦资助机构、非营利基金会）支持的研究成果。这对小型企业或研究预算有限的公司尤为有利
 
-> [!warning]
+> [!warning|notitle]
 > "搭便车"安排需要大学谨慎处理，特别是在涉及联邦研究资助、州政府支持或地方税收豁免的情况下，必须避免产生"公共资源被不当用于支持私人利益"的印象(p.274)。
 
 > [!success] 理想状态的产学合作
@@ -213,7 +213,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 
 协议中 IP 的典型定义(p.279)：
 
-> [!quote]
+> [!quote|notitle]
 > "Intellectual Property (IP)" means Inventions and Copyrightable Material, where "Invention" means any invention or discovery that is or may be patentable or otherwise protectable under Title 35 of the United States Code, and "Copyrightable Material" means any material or other property, including computer software, that is or may be copyrightable or otherwise protectable under Title 17 of the United States Code.
 
 > [!abstract] [[Foreground IP\|FIP]] 的定义与所有权
@@ -360,20 +360,20 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "Intellectual property may be one of the most valuable outcomes of UI collaboration—and may often be the most complex and highly negotiated aspect."(p.272)
 
-> [!quote]
+> [!quote|notitle]
 > "An ideal UI collaboration results in a mutually beneficial scenario. University researchers can conduct publishable work that may not have been feasible otherwise, while industry gains exclusive access to technology or innovation it could not have developed independently."(p.274)
 
-> [!quote]
+> [!quote|notitle]
 > "Graduate students and postdocs, in particular, should never be put in a position where their ability to freely and timely publish their research is constrained."(p.285)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 分析聚焦于仅涉及美国合作方的[[University-Industry Collaboration\|产学合作]]中的 IP 条款(p.275)。国际合作的 IP 规则和法律因司法管辖区而异。例如，美国以外的某些国家，大学研究人员可能保留其开发 IP 的个人所有权，大学在向产业方提供 IP 权利时必须将这一因素纳入考量。文化层面对产学关系和 IP 的期望也因国家而异（参见第 17 章）。此外，数据相关问题（特别是在机器学习和人工智能的背景下）在第 16 章单独讨论(p.279)。
 
 ---

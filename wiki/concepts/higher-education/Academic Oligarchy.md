@@ -47,24 +47,24 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 学术寡头（Academic Oligarchy）源自 Burton Clark（1983）在 The Higher Education System 中提出的三角协调模型，将"专业寡头"（professional oligarchy）定位为高等教育治理中与国家权威和市场力量并列的第三极。在 Clark 的原始框架中，专业寡头指资深教授和学术行会通过控制学术标准、准入资格和同行评审来治理高等教育的一种协调模式。
 
 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]在分析高等教育的新政治经济学时重新激活并扩展了这一概念：在当代竞争转型中，市场化和[[Non-monetary Competition|非货币竞争]]不仅没有消解专业寡头的权力，反而催生了**新型的学术寡头结构**，少数精英大学和精英学者在公平竞争和卓越的[[Discourse|话语]]下，进一步集中了对学术资源分配和价值定义的实质控制（pp.798–799, 808–809）。
 
-> [!quote]
+> [!quote|notitle]
 > "在竞争和市场化的转向中，现有等级倾向于被正式化和固化，而非松动……学术寡头，在竞争的新结构中扮演着重要角色。"([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.798–799]])
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs Clark 的原始概念：Clark 的"专业寡头"描述的是教授行会作为一种治理模式，一种与国家[[Bureaucracy|官僚制]]和市场并列的协调方式。Schulze-Cleven et al. 的"学术寡头"描述的是**等级结构**，少数精英大学和学者对学术资源和标准的垄断性控制。前者是治理机制，后者是权力结构。
 > - vs [[Academic Capitalism]]：学术资本主义描述市场逻辑的渗透过程；学术寡头描述这一过程的**结构性结果**，市场的渗透并没有创造开放竞争，而是固化了少数参与者的支配地位。
 > - vs [[Neo-feudalism in Higher Education]]：新封建主义是更广泛的诊断性概念，描述了学术界的整体权力结构和运作逻辑。学术寡头是新封建主义中最顶层的角色，那些控制价值定义和资源分配核心节点的机构和个体。
 
 ## 形成机制
 
-> [!abstract]
+> [!abstract|notitle]
 > [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp.798–799, 801–802, 805–809)]]揭示了当代学术寡头形成的多条路径：
 
 ### 竞争作为寡头化的引擎

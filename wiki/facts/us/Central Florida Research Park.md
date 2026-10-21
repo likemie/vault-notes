@@ -38,19 +38,19 @@ updated: 2026-05-28
 
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > 中佛罗里达研究园（Central Florida [[Innovation Park\|research park]], CFRP）位于佛罗里达州奥兰多（Orlando），毗邻中佛罗里达大学（University of Central Florida, UCF）主校区，于 1978 年通过与 UCF 合作建立([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.132]])。
 
 ## 发展过程
 
-> [!note]
+> [!note|notitle]
 > - **1978** 年：通过与 UCF 合作建立（p.132）
 > - **1993** 年：美国海军空战中心训练系统部（Naval Air Warfare Center Training Systems Division）迁入研究园，成为园区发展的转折点（p.132）
 > - **1993 年后** UCF 和佛罗里达州政府持续投资，以吸引更多国防部租户入驻园区（p.132）
 
 ## 运营规模
 
-> [!success]
+> [!success|notitle]
 > 如今 CFRP 拥有超过 9,500 名雇员。园区租户以国防承包商为主，包括 Northrop Grumman、Boeing、Leidos、ManTech、General Dynamics、Parsons and Booz Allen Hamilton 等主要企业（p.132）。
 
 UCF 的研发支出在过去十年间翻了一番多，从 2011 年的 1.09 亿美元增长到 2020 年的 2.39 亿美元（p.132）。

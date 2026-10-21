@@ -41,7 +41,6 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Transparency Bypass]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Evaluation Research]]"
   - "[[Data Infrastructure]]"
   - "[[Firewall Effect]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -70,14 +69,15 @@ related_facts:
   - "[[Race to the Top]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[Ofsted]]"
+  - "[[Nasjonale prøver]]"
+  - "[[Fraser Institute]]"
+  - "[[INVALSI]]"
   - "[[Educational Testing Service]]"
   - "[[Opt-Out Movement]]"
   - "[[Common Core State Standards]]"
   - "[[Alto al SIMCE]]"
-  - "[[Fraser Institute]]"
-  - "[[INVALSI]]"
-  - "[[Nasjonale prøver]]"
   - "[[National Education Association]]"
+  - "[[National Education]]"
   - "[[American Federation of Teachers]]"
 related_arguments: []
 sources:
@@ -92,10 +92,10 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 52
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Discourse: Studies in the Cultural Politics of Education"
 book_title: ""
 publication_place: ""
@@ -259,7 +259,7 @@ issuing_organization: ""
 在丹麦、挪威与瑞典等北欧大陆国家，治理工具的采纳源于地方分权所诱发的国家治理失控焦虑，但这些国家极力避免将评估演化为优胜劣汰的市场工具。（pp. 254–255）
 
 > [!case] [[Neo-Weberian State|新韦伯主义]]国家案例：挪威与丹麦的排名叫停
-> - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入[[Nasjonale prøver|国家评估系统]]（Nasjonale prøver），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
+> - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入国家评估系统（[[Nasjonale prøver]]），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
 > - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》，2005 年要求学校官网披露教学评价信息，教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（p. 258）
 
 虽然中央层面废止了官方排位表，但规制型治理中累积的数据资产却通过制度缝隙外溢，孕育出体制外的非官方问责网络。（p. 258）
@@ -313,7 +313,7 @@ issuing_organization: ""
 >
 > - **技术指标复杂化与专门机构专设**
 >
->   传统原始分被增值模型（VAM）、排位索引与综合质量矩阵取代，依托国家评估专门机构（如意大利国家教育培训系统[[Evaluation Research|评估研究]]院〔Istituto Nazionale per la Valutazione del Sistema Educativo di Istruzione e di Formazione, INVALSI〕、德国各州质量监测中心）获得自我维系的行政合法性。（pp. 256–257）
+>   传统原始分被增值模型（VAM）、排位索引与综合质量矩阵取代，依托国家评估专门机构（如[[INVALSI|意大利国家教育培训系统评估研究院]]〔Istituto Nazionale per la Valutazione del Sistema Educativo di Istruzione e di Formazione, INVALSI〕、德国各州质量监测中心）获得自我维系的行政合法性。（pp. 256–257）
 
 #### 2. 附加在考试上的惩罚力度随政党轮替起伏波动，或由地方政府主动加码
 
@@ -342,8 +342,8 @@ issuing_organization: ""
 
 > [!case] 社会抗争案例：[[Opt-Out Movement|美国退考运动]]与教师工会的多元策略
 > - **[[Opt-Out Movement|美国退考运动]]（Opt-Out Movement）与家长联盟** 面对《力争上游》计划与[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）统考的强利害考核，纽约州等地的中产阶级家庭发起大规模罢考倡议，罢考率在部分学区超过 20%；公平与公开考试中心（National Center for Fair & Open Testing, FairTest）与草根反测验联盟（United Opt Out）等组织成功推动改进测验设计，并选举退考家长进入学区教育董事会。（pp. 261–262）
-> - **智利停止 [[SIMCE]] 运动（Alto al SIMCE）** 学生、教师与批判学者联合组成反测验联盟，借助社交媒体揭露统考对学校文化的破坏，促使教育部成立特别委员会评估统考利害。（p. 261）
-> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与教师卓越评估系统（Sistema de Evaluación del Desempeño Profesional Docente, Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国[[National Education Association|全美教育协会]]（National Education Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）则陷入 NCLB 的民权与教育公平话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
+> - **[[Alto al SIMCE|智利停止 SIMCE 运动]]（Alto al SIMCE）** 学生、教师与批判学者联合组成反测验联盟，借助社交媒体揭露统考对学校文化的破坏，促使教育部成立特别委员会评估统考利害。（p. 261）
+> - **教师工会的战略分化** 智利教师工会采取妥协合作策略，将参与教师卓越评估系统（Sistema de Evaluación del Desempeño Profesional Docente, Docentemás）作为抵御全盘私有化和争取涨薪的次优选择；美国[[National Education Association|全美教育协会]]（[[National Education]] Association, NEA）与[[American Federation of Teachers|美国教师联合会]]（American Federation of Teachers, AFT）则陷入 NCLB 的民权与教育公平话语框架，难以形成抗争合力；南欧工会则以总罢工与合法抵制构筑了阻止问责落地的坚实防线。（pp. 260–261）
 
 各国的抗争实践表明，公众抵抗与工会抵制虽然能够阶段性缓解问责压力，却难以动摇规制型治理的[[Data Infrastructure|数据基础设施]]。（pp. 261–263）
 
@@ -389,7 +389,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 1. [[Literature Search|文献检索]]主要依赖英文索引数据库（Scopus），对非英语发表物及未被国际引文体系充分收录的发展中国家实证经验存在覆盖局限。（p. 252）
 > 2. 既有实证研究多集中于宏观与中观维度的政策工具采纳与制度演变，对学校微观层面上校长与教师如何日常化再诠释、策略性挪用或隐性抵抗治理工具的经验证据相对匮乏。（p. 264）
 > 3. 针对不带刚性惩戒后果的[[Soft Accountability|软问责]]体系如何在学校生态中产生深层规训效应，实证积累依然不足。（p. 264）

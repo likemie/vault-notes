@@ -44,7 +44,7 @@ updated: 2026-10-21
 ---
 ## 核心主张
 
-> [!abstract]
+> [!abstract|notitle]
 > 社会资本理论的核心主张是：社会关系网络、信任、规范和互惠性构成一种**资本形式**——社会资本，它能够为个体和组织带来经济和社会回报，降低交易成本，促进合作和知识流动。ODwyer、Filieri and OMalley（2023）将社会资本理论应用于[[University-Industry Collaboration\|产学合作]]网络的演化分析，揭示了不同阶段需要不同类型的社会资本[[Argument_ODwyer_Filieri_OMalley_2023_JTT\|(O'Dwyer et al., 2023)]]。
 
 社会资本理论为理解产学合作中的三个核心问题提供了[[Analytic Framework|分析框架]]：
@@ -55,7 +55,7 @@ updated: 2026-10-21
 ---
 ## 在产学合作中的应用
 
-> [!info]
+> [!info|notitle]
 > ODwyer 等（2023）的研究揭示了社会资本在[[University-Industry Collaboration\|产学合作]]网络演化中的三个关键发现（pp.914-925）：
 
 > [!line-a] 信任的类型随阶段演化
@@ -70,7 +70,7 @@ updated: 2026-10-21
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - **Bourdieu（1986）** 社会资本是嵌入在社会关系网络中的资源，可通过群体成员身份获取
 > - **Coleman（1988）** 社会资本存在于社会结构之中，促进结构内的行动者实现特定目标
 > - **Putnam（1993, 2000）** 社会资本包括网络、规范和信任，是社会组织的特征，促进协调与合作以实现共同利益

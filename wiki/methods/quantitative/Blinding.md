@@ -45,7 +45,7 @@ updated: 2026-10-16
 > - **用途** 盲法保护的是[[Internal Validity\|内部效度]]——确保观察到的组间差异来自干预而非来自研究者或参与者的期望。在医学实验中，盲法与安慰剂共同构成了偏差控制的双重防线。
 > - **边界** 盲法不等于[[Random Assignment\|随机分配]]——随机化控制组间初始差异，盲法控制实验过程中的期望偏差。盲法也不等于安慰剂——安慰剂是让参与者相信自己在接受处理，盲法是让参与者不知道自己接受的是什么。
 
-> [!quote]
+> [!quote|notitle]
 > "Blinding in experimental research is when the experimenter (and/or the participant) is kept unaware of the participant's assigned study condition."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）
 
 ---

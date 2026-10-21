@@ -49,7 +49,7 @@ updated: 2026-10-16
 
 ## 概述
 
-> [!info]
+> [!info|notitle]
 > 本条目记录 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 7 章中母子对话（[[Mother-Child Conversation]], MCC）研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行[[Discourse Analysis\|话语分析]]。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
 
 话语分析的理论锚点是 Vygotsky 学派的[[Scaffolding|认知支架]]（cognitive scaffolding）概念，[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础是 Frijda 的评估理论和 Gottman 的元情感哲学([[Argument_Li_2012_Cambridge|Li, 2012]])。
@@ -1276,7 +1276,7 @@ updated: 2026-10-16
 
 ## Li 话语分析的总体技术特征
 
-> [!abstract]
+> [!abstract|notitle]
 > 1. **建立共性基线再展示差异** 先识别三种跨文化共同特征，在共性的地基上展示差异
 > 2. **平行对比** 对每一对 EA and TW 对话保持分析维度一致，让差异在相同框架中自然显现
 > 3. **追踪因果方向** 不仅看母亲说了什么，更看母亲将对话**引向何处**——EA 终点是"你聪明/你[[Pride in Learning\|骄傲]]吗？"，TW 终点是"你还可以怎么更好？"

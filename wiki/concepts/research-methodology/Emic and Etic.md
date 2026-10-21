@@ -62,7 +62,7 @@ updated: 2026-10-21
 >
 > *The authors distinguish between emic approaches (as in the term 'phonemic', where the concern is to catch the subjective meanings placed on situations by participants) and etic approaches (as in the term 'phonetic', where the intention is to identify and understand the objective or researcher's meaning and constructions of a situation). (LeCompte & Preissle, 1993, p. 45)*
 
-> [!quote]
+> [!quote|notitle]
 > 主位视角是源自被研究者的内部人视角，与源自外部观察者或研究者的客位视角相对。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.77)]]
 >
 > *An emic perspective is the insider perspective, originating with the people being studied, as opposed to the one originating with the outside observer/researcher, which is called an etic perspective.*
@@ -121,7 +121,7 @@ updated: 2026-10-21
 
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 > - Emic 视角在研究文化原生概念及行为底层信念方面具有更高的效度，优于单纯依赖外部范畴的 etic 路径（[[Argument_Li_2012_Cambridge\|Li, 2012, p.77-78]]）。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]]运用 emic 路径，让中英文母语大学生自由联想"学习"（xuexi / learn/learning）相关词汇，分别获得 225 个中文核心词汇和 203 个英文核心词汇。[[Cluster Analysis\|聚类分析]]生成了欧美与中国两种文化层面的学习模型，揭示了二者在学习目的、能动过程、情感维度和成就标准上的系统性差异（[[Argument_Li_2012_Cambridge\|Li, 2012, p.79-85]]）。
 

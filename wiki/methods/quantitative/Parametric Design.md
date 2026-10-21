@@ -83,7 +83,7 @@ updated: 2026-10-20
 
 ## 局限性
 
-> [!method-limits]
+> [!method-limits|notitle]
 > - **[[Sample Size Determination\|样本量]]需求大** 每个水平需要一个组加上控制组，水平越多样本量需求越大。
 > - **水平划分的任意性** 将连续[[Variable\|变量]]划分为离散水平（如差/中等/良好/优秀）的切分点可能影响结果——不同的切分可能得出不同的结论。
 > - **不能检验[[Interaction Effect\|交互效应]]** 参数设计只处理一个[[Independent Variable\|自变量]]的多个水平，不涉及多个自变量的交叉。

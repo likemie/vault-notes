@@ -78,7 +78,7 @@ updated: 2026-10-20
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > "中国学习者"（Chinese learner）在学术文献中有两个相互关联但不完全重叠的用法：
 >
 > **1. 文化学习模型（cultural learning model）**[[Argument_Li_2012_Cambridge\|Li (2012)]] 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues\|学习美德]]为个人能动性，以[[Self-Cultivation\|修身]]为终身项目，以[[Take the World Upon Oneself\|以天下为己任]]为社会归属。这一用法描述的是**文化理想型（ideal type）**，而非任何个体学习者的描述([[Argument_Li_2012_Cambridge\|Li, 2012, pp.57-58]])。
@@ -94,7 +94,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > [[Argument_Li_2012_Cambridge\|Li (2012)]] 在 Cultural Foundations of Learning 中追溯了[[Confucian Learning Tradition\|儒家学习传统]]的知识根源，将其提炼为与 [[Western Learner\|西方学习者]]模型 形成系统对比的完整画像。以下按**学习方向 → 学习路径 → 学习动力 → 学习表达**四个主题组织([[Argument_Li_2012_Cambridge\|Li, 2012, pp.46-58]])。
 
 ### 学习方向：向内完善自我
@@ -110,7 +110,7 @@ updated: 2026-10-20
 
 ### 八层学习路径：从格物到平天下
 
-> [!abstract]
+> [!abstract|notitle]
 > Li 将 [[Confucian Learning Tradition\|儒家学习传统]] 的学习路径组织为八个同心圆层次，由内向外扩展，表示从个人修身逐步延伸到天下关怀([[Argument_Li_2012_Cambridge\|Li, 2012, pp.46-47, Fig. 2.2]])：
 
 ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png)
@@ -206,7 +206,7 @@ updated: 2026-10-20
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs **[[Western Learner]]** — 中国学习者向内完善自我，西方学习者向外探究世界。方向性差异衍生出全部次级差异：品德 vs 心智、尊师 vs 挑战权威、[[Action Better Than Words\|行胜于言]] vs 自我表达、终身[[Self-Cultivation\|修身]] vs 项目式探究。系统对比见 [[Western Learner#概念辨析]]
 > - vs **"亚洲学习者"（Asian learner）** — 中国学习者更具体地指向中国及[[Confucian Heritage Cultures\|儒家文化圈]]；"亚洲"掩盖了 CHC 与南亚、东南亚非儒家文化圈之间的根本差异([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.39]])
 > - vs **"国际学生"（international student）** — 按签证/流动状态的制度标签 vs 按文化背景的学术概念
@@ -216,7 +216,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > 西方学界对"中国学习者"的认知经历了从**刻板印象建构**到 **[[Cultural Models\|文化模型]]理解**的演变。以下按时间顺序组织。
 
 ### 第一阶段：缺陷型刻板印象（Deficit Stereotypes）
@@ -254,7 +254,7 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - [[Confucian Learning Tradition]] — 中国学习者模型的知识根源。[[Confucius\|孔子]]的"好之者不如乐之者"将[[Heart and Mind for Wanting to Learn\|好學心]]置于"知之"之上，奠定了学习的情感/品德优先性
 > - [[Cultural Models]] — Li 将中国学习者模型归类为一种文化模型（cultural model）——文化成员共享的、通常隐性的关于"学习是什么"的心智图式
 > - [[Self-Cultivation]] — 修身是中国学习者模型的核心枢纽，连接认知准备（格物→正心）与社会实践（齐家→平天下）
@@ -266,7 +266,7 @@ updated: 2026-10-20
 
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 > Li（2012, Ch3）综述了数十年跨文化比较研究的系统性实证证据。以下按研究发现组织：
 
 **归因模式：努力 vs 能力**。Stevenson and Stigler（1992）的十年跨国研究发现：美国儿童、家长和教师以**能力**解释[[Academic Achievement|学业成就]]，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-80]])。
@@ -286,7 +286,7 @@ updated: 2026-10-20
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **"中国学习者"范畴本身的问题**[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p.34)]]指出，仅考虑一种"中国性"是有问题的；完全忽视学生的中国性以迁就教师母国价值，同样有问题
 > - **"儒家价值"归因缺乏实证基础**Clark and Gieve（2006, p.63）指出西方教师通过诉诸"看似有道理的儒家传统解释"来验证对中国学习者的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——[[Lee Kuan Yew|李光耀]]称新加坡为"儒家社会"，但其中的许多价值与[[Confucius\|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）。Louie（2005）指出 20 世纪对儒学的解读经历了"使得任何公认的诠释变得毫无意义"的转变
 > - **中国内部文化多元性被忽视** 中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.47]])
@@ -298,7 +298,7 @@ updated: 2026-10-20
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - [[English Schools Foundation Hong Kong]] — 香港华人学生占 40%–50% 的英语学校体系
 > - [[Transnationalism and America Project SYSU]] — 中国本土大学生接受美式团队教学
 > - [[Fourth Culture]] — 本地中国学生在母国就读[[International Schools\|国际学校]]的特殊文化空间

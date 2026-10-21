@@ -66,7 +66,7 @@ updated: 2026-10-16
 
 ## 与其他学者的关系
 
-> [!example]
+> [!example|notitle]
 > - 与 Muller 长期合作，共同提出[[Powerful Knowledge\|有力知识]]概念（Young & Muller, 2010; Muller & Young, 2019）
 > - 继承 Bernstein 的知识结构理论和[[Recontextualization\|再脉络化]]概念
 > - 继承涂尔干的知识社会学传统

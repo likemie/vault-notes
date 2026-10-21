@@ -88,7 +88,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 
 Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]][[Geopolitics|地缘政治]]的复合框架：
 
@@ -104,7 +104,7 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 
 - 方法：概念分析（conceptual analysis）与理论综合（theoretical synthesis）
 - 性质：非经验研究，属于政治地理学与[[Cultural Political Economy|文化政治经济学]]的理论交叉论证
@@ -112,7 +112,7 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 
 Moisio 的论证分为四个递进步骤，从概念梳理到方法论转向，再到[[Geopolitics|地缘政治]]维度的系统展开，最后落脚于当代影响。
 
@@ -207,7 +207,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 
 - [[Knowledge-Based Economization|知识经济化]]作为一种[[Geopolitics|地缘政治]]过程，通过"Hub and [[Flow]] 想象"将世界划分为核心枢纽与边缘区域，大型城市日益体现[[Competitiveness|国家竞争力]]和吸引力(pp.26–28)
 - Harvey 的[[Fixity-Motion Tension|固着-流动张力]]（fixity-motion tension）构成[[Knowledge-Based Economy|知识经济]]化的核心地缘政治悖论：国家和地方配置被创造出来以促进资本流动，但流动本身又不断动摇这些配置的稳定性(pp.27–28)
@@ -221,7 +221,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 
 Moisio 的核心论旨：
 
@@ -244,7 +244,7 @@ Moisio 从中推导出的地缘政治悖论：
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 
 - 该章为纯理论论证，未提供经验案例的详细分析，概念的经验适用性有待检验
 - [[Analytic Framework|分析框架]]主要基于西方发达资本主义国家的经验，对非西方语境中[[Knowledge-Based Economization|知识经济化]]的[[Geopolitics|地缘政治]]运作讨论有限

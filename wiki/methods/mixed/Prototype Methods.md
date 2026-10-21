@@ -47,12 +47,12 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 原型方法（prototype methods）是一种以认知心理学的**原型理论（prototype theory）** 为基础、通过分析特定文化语言中的词汇来建构 **[[Cultural Models\|文化模型]]（cultural models）** 的混合研究方法。其核心假设是：人类对世界的理解很大程度上依赖于对物体、活动和经验的分类（categorization），而语言承载着这些类别——一个文化的语言包含了该文化成员共享的原型概念，可以通过系统分析这些语言材料来揭示文化层面的共享信念结构([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。
 
 Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国两种文化中"学习"（learning／學習）这个概念的文化原型**——不是测量个体差异，而是描绘文化成员共享的[[Concept Mapping|概念地图]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])。
 
-> [!quote]
+> [!quote|notitle]
 > "Language carries these categories, making them shared prototypes among members of a given culture. Prototype methodology is suited to the study of how humans living in specific cultures conceptualize learning."([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])
 >
 > 语言承载着这些类别，使它们成为特定文化成员共享的原型。原型方法适合研究生活在特定文化中的人类如何概念化学习。
@@ -63,14 +63,14 @@ Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国
 
 ### 主位视角（Emic Perspective）
 
-> [!abstract]
+> [!abstract|notitle]
 > 原型方法属于**主位视角（[[Emic and Etic\|emic perspective]]）** 研究——即从被研究文化**内部成员**的角度出发，让文化成员用自己的语言生成和定义概念，而非从外部研究者预设的理论框架出发（后者称为客位视角／etic perspective）。Li 明确将这一方法定位为对传统客位研究主导的补充([[Argument_Li_2012_Cambridge\|Li, 2012, pp.87-88]])。
 
 **主位 vs 客位的核心差异([[Argument_Li_2012_Cambridge|Li, 2012, pp.87-88]])**
 - **客位视角（etic perspective）** 研究者带着预设的理论框架（通常来自西方心理学）去"测量"其他文化——如用"成就动机"量表测量中国学生。优势是可复制、可比较；局限是无法发现框架外的本土概念
 - **主位视角（emic perspective）** 让文化成员用自己的语言和分类体系来"定义"概念——如让中国学生自由联想"學習"相关的所有词汇。优势是**效度高（high validity）**，能发现本土概念；局限是难以直接跨文化比较
 
-> [!tip]
+> [!tip|notitle]
 > [[Ethnography\|人类学研究]]率先引入主位视角。从主位视角出发的研究在揭示**本土概念**和支撑观察行为的**信念**方面优于客位视角([[Argument_Li_2012_Cambridge\|Li, 2012, pp.87-88]])。Li 的研究中，最有力的例证是 **[[Heart and Mind for Wanting to Learn\|好學心]]**——这一概念在西方心理学框架中根本没有对应物，只会因为客位视角而完全不可见。它之所以出现在 Li 的研究中，正是因为采用了主位视角——让数据自己"说话"。
 
 > [!example] 主位视角的论证后果
@@ -78,7 +78,7 @@ Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国
 
 ### 文化模型框架（Cultural Models Framework）
 
-> [!abstract]
+> [!abstract|notitle]
 > 原型方法的另一个[[Epistemology\|认识论]]支柱是 [[Cultural Models\|文化模型]]这一人类学概念。文化模型由文化的历史过程建立并随文化演进而修订，作为共享的概念框架塑造成员的体验和行为([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。详见 [[Cultural Models]]。
 
 Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行动。因此，原型方法产出的文化学习模型不应被等同于任何具体个人的学习信念——它描绘的是**文化层面的共享理解**，而非个体层面的心理测量([[Argument_Li_2012_Cambridge|Li, 2012, pp.104-105]])。这一区分的详细讨论见 [[Cultural Models#概念辨析]]。
@@ -87,7 +87,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ## 研究程序
 
-> [!example]
+> [!example|notitle]
 > [[Argument_Li_2012_Cambridge\|Li (2012, pp.89-105)]]使用了两个互补研究来建构文化学习模型。以下程序以该研究为范例说明。
 
 ### 研究一：学习词汇的概念地图（prototype methods 主程序）
@@ -122,7 +122,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 **分析方法** 对书面描述同时进行质性分析和量化分析，生成四个维度的理想学习者画像([[Argument_Li_2012_Cambridge|Li, 2012, p.96]])。
 
-> [!note]
+> [!note|notitle]
 > 研究一提供的是"概念——概念"之间的关系网络（词汇如何被聚类），研究二提供的是"人——情境"之间的叙事图像（理想学习者如何感受、思考和行动）。两条独立证据线的汇聚（convergence）是 Li 论证文化学习模型存在系统性差异的核心策略([[Argument_Li_2012_Cambridge\|Li, 2012, p.96]])。
 
 ### 研究汇总：两套文化学习模型的构建
@@ -133,7 +133,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > - **比较文化概念结构** 适合回答"X 概念在文化 A 和文化 B 中分别如何被理解和组织？"这类问题。不测量个体差异，而描绘文化层面的共享理解([[Argument_Li_2012_Cambridge\|Li, 2012, p.104]])
 > - **本土概念挖掘** 适合发现外部分类框架无法捕捉的本土概念和概念关系——Li 的研究发现[[Heart and Mind for Wanting to Learn\|好學心]]是中国学习[[Concept Mapping\|概念地图]]中最大的集群（46%），而没有任何西方理论框架曾预测过这一概念的存在和中心性([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94-97]])
 > - **与后续研究方法[[Triangulation\|三角验证]]** 原型方法生成的概念地图可作为[[Cultural Models\|文化模型]]的初步假设，后续可通过访谈、观察、实验等方法进行验证和细化
@@ -143,7 +143,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - **样本代表性问题** Li 的[[Study Population and Sample\|研究样本]]均为大学生——通常是该文化中受教育程度最高、年龄最集中的群体。这些参与者可能不是各自文化整体人口的代表性样本（Li 未在研究中直接讨论此限制）
 > - **语言 vs 信念的差距** 原型方法假设语言材料直接反映文化信念，但词汇存在（lexical availability）不等于信念存在——一个文化可能保留了某些"化石词汇"（如成语），但成员已不再持有相应的信念
 > - **[[Cluster Analysis\|聚类分析]]的主观性** 虽然聚类分析是统计方法，但参与者在"按意义相似性分组"时仍然涉及大量主观判断——不同的分组标准（如按功能、按情境、按情感效价）可能产生不同的[[Concept Mapping\|概念地图]]。Li 没有报告分组指导语的详细措辞，也没有讨论不同分组策略的可能性
@@ -154,7 +154,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ## 相关理论
 
-> [!tip]
+> [!tip|notitle]
 > - Prototype Theory — 原型方法是该理论在文化心理学中的直接方法论应用：人们对世界的理解通过分类系统组织，语言为这些类别提供标签
 > - [[Cultural Models]] — 原型方法产出的[[Concept Mapping\|概念地图]]是文化模型的一种形式——经群体共识验证、对文化成员具有可识别性
 > - [[Emic and Etic\|emic perspective]] — 原型方法是一种系统的、可复制的主位研究方法，克服了传统主位研究中"研究者即唯一工具"的[[Reliability\|信度]]问题
@@ -163,7 +163,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ## 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — Li 使用原型方法比较欧裔美国和中国大学生的"学习"概念结构，产出两套文化学习模型的综合描述
 
 ---

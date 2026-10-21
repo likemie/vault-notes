@@ -79,7 +79,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 本章以两个相互补充的[[Theoretical Perspective\|理论视角]]为[[Analytic Framework\|分析框架]]：
 
 - **Foucault [[Governmentality|治理术]]（governmentality）** 借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
@@ -90,7 +90,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment\|OSA]] 操作手册的[[Discourse Analysis\|话语分析]]。
 > - 方法：话语分析（[[Discourse]] analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
 > - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
@@ -98,7 +98,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 
 ### 第一步：观察——竞争性大学如何定义"好学生"
 
@@ -152,7 +152,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 
 - [[Competitiveness|竞争力]]作为[[Geopolitics|地缘政治]]装置通过排名、指标化和比较实践重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来努力"(p.220)
 - OSAs 作为治理工具重新定义了从中学到大学的过渡——从集体性的约定转变为个体化的自我反思情境(p.222)
@@ -163,25 +163,25 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “然而，‘[[Promising Student\|有前途的学生]]’的识别并非仅仅是寻找天生的才华。相反，这意味着要通过自我评价和自我优化，着眼于学生的潜在成功来对待他们。”
 > ("The identification of the '[[Promising Student]]' is not simply a matter of finding the naturally given talents, however. Rather, it means to address students with respect to their potential success through self-evaluation and self-optimization.")(p.221)
 
-> [!quote]
+> [!quote|notitle]
 > “[[Digital Self\|数字自我]]与[[Digital Optimum\|数字最优]]状态形成了一种行使算法治理的级差。这种级差塑造了学生的行为（也包括与其他学生的关系），从而重构了高等教育。”
 > ("[[Digital Self]] and [[Digital Optimum]] form a differential that exerts algorithmic governance (Beer, 2016). This differential shapes student behavior (also in relation to other students) and thus it restructures higher education.")(p.226)
 
-> [!quote]
+> [!quote|notitle]
 > “当前的方法缺乏（高等）教育中的一个基本理念，即教育和 陶冶（[[Bildung]]） 是与开放和不可预测的未来相关的；它们超越了数据的相关性。”
 > ("The current approaches lack the fundamental idea within (higher) education that education and [[Bildung]] are related to an open and unpredictable future; they go beyond the correlations of data.")(p.227)
 
-> [!quote]
+> [!quote|notitle]
 > “批判的实践是学习过程中一项至关重要的知识实践，它重新开启了有哪些事物需要思考和探索。”
 > ("The exercise of critique is a crucial knowledge practice within the course of study that reopens what is there to think and to explore.")(p.227)
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **作者自述局限** 篇幅限制，未能提供对文本材料的完整[[Discourse Analysis\|话语分析]]，仅识别了核心主题和方面(p.223)
 > - **经验覆盖的局限** 分析主要基于德国大学的政策文件和进展报告，[[Online Self-Assessment\|OSA]] 类型和形式的多样性（600+ 种工具）意味着分析无法覆盖全部实践
 > - **理论框架的依赖** 该章高度依赖 Foucault [[Governmentality\|治理术]]和 Deleuze [[Societies of Control\|控制社会]]两个特定[[Theoretical Perspective\|理论视角]]，可能低估了其他可能的解释框架——例如制度理论或组织社会学视角

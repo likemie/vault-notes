@@ -52,17 +52,17 @@ updated: 2026-10-17
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > "[[Chinese Learner\|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学实践"——教师中心、威权主义、学生被动服从、[[Rote Learning\|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge\|Li, 2012, pp.82-83]])。
 
-> [!quote]
+> [!quote|notitle]
 > "如果不是被彻底激怒并谴责中国学习的话，每当西方人教中国学生或参观中国学校时，他们都会感到失望。如前所述，中国教育体系主要由过时的教与学组成。"([[Argument_Li_2012_Cambridge\|Li, 2012, p.82]])
 
 ---
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > ### 提出背景
 
 该悖论由一群在香港工作的澳大利亚、英国和瑞典研究者推动形成。他们直接观察到 [[Confucian Heritage Cultures|CHC]] 学习者和西方教师之间的碰撞，并将其系统化为一个学术研究议程([[Argument_Li_2012_Cambridge|Li, 2012, pp.83-84]])：
@@ -77,7 +77,7 @@ updated: 2026-10-17
 
 ## 核心要素：悖论的两面
 
-> [!abstract]
+> [!abstract|notitle]
 > 悖论包含两个看似不可调和的面相：
 
 ### 被批评的学习方式
@@ -100,7 +100,7 @@ updated: 2026-10-17
 
 ## 研究回应：悖论的拆解
 
-> [!success]
+> [!success|notitle]
 > [[Argument_Li_2012_Cambridge\|Li (2012, pp.84-89)]]综述了 [[Confucian Heritage Cultures\|CHC]] 研究界从两个层面回应悖论的系统性发现：
 
 ### 学习信念层面
@@ -124,7 +124,7 @@ updated: 2026-10-17
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - [[Confucian Learning Tradition]] — 悖论的"高成就"一面的文化解释来源：儒家传统将学习视为 [[Self-Cultivation\|修身]] 的道德项目，由此衍生出 [[Learning Virtues\|学习美德]] 的个人能动性系统
 > - [[Surface and Deep Learning]] — 悖论的"低效学习方法"一面涉及对该二分法的跨文化挑战：[[Confucian Heritage Cultures\|CHC]] 研究显示"记忆"可以是通往深层理解的路径而非其替代品
 > - [[Cultural Models]] — Li 的研究框架：文化模型影响和引导（但不决定）成员行为，因此 CHC 学习者的行为需要在 CHC 文化模型内而非西方模型内被理解
@@ -135,7 +135,7 @@ updated: 2026-10-17
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **悖论框架本身的西方中心预设** 将中国学习方式定性为"看似低效的"，实际上预设了西方教育方法的优越性——悖论之所以是"悖论"，恰恰因为它以西方标准为默认参照系
 > - **过度同质化 [[Confucian Heritage Cultures\|CHC]] 内部差异** 将中国、日本、韩国、越南学习者的高成就归因于同一套"儒家价值"，可能掩盖了各国不同的教育制度、政治经济条件和本土文化传统
 > - **悖论可能已被解决** 经过 Marton、Dahlin、Watkins、Li 等三十余年的研究，"悖论"可能已不再是悖论——它只是揭示了两种文化学习模型在目的、过程和成就标准上的系统性差异。在此意义上，"[[Chinese Learner\|中国学习者]]悖论"的持久生命力更多反映了**西方教育[[Discourse|话语]]对替代性学习模型持续的不理解**，而非研究证据的缺乏

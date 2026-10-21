@@ -54,17 +54,17 @@ updated: 2026-10-17
 
 ## 核心思想
 
-> [!tip]
+> [!tip|notitle]
 > Bandura 的核心理论主张人类行为是认知、行为和环境决定因素之间持续交互的结果，而非单一因素决定。这一交互[[Determinism\|决定论]]打破了[[Behaviorism|行为主义]]的单向因果观。他特别强调三种人类独有的学习过程：替代性过程（通过观察他人学习）、象征性过程（通过语言和符号表征世界）和自我调节过程（通过自我观察、判断和反应调控行为）。
 
-> [!quote]
+> [!quote|notitle]
 > "This unified theoretical framework approaches the explanation of human behavior in terms of a continuous (reciprocal) interaction between cognitive, behavioral, and environmental determinants."（Bandura, 1977, p.vii; 引自 Creswell & Creswell, 2022, p.60）
 > 
 > 这一统一的理论框架通过认知、行为和环境决定因素之间的持续（互惠）交互作用来解释人类行为。
 
 ## 影响
 
-> [!success]
+> [!success|notitle]
 > - [[Social Learning Theory\|社会学习理论]]被广泛应用于对竞争性、攻击性、异常行为和病理行为等社会行为的解释（Bandura & Walters, 1963; Bandura, 1977; Mischel, 1968; Miller & Dollard, 1941; Rotter, 1954; Staats, 1975）
 > - 理论被用于人格评估技术（Mischel, 1968）以及临床和教育情境中的行为修正（Bandura, 1977; Bower & Hilgard, 1981）
 > - Crutchfield (1986) 在其博士论文中以社会学习理论作为[[Theoretical Perspective\|理论视角]]研究护理教育者的学术生产力

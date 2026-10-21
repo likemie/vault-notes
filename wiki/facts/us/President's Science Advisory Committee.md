@@ -172,7 +172,7 @@ updated: 2026-10-16
 
 ## 相关研究
 
-> [!evidence-grid-a]
+> [!evidence-grid-a|notitle]
 >
 > | 研究文献 | 核心发现与论述 | 对应页码 |
 > |:---|:---|:---|

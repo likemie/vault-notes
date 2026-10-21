@@ -55,13 +55,13 @@ updated: 2026-10-17
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > Doxa 是 wiki-[[Pierre Bourdieu]] 社会理论的核心概念，指[[Champ\|场域]]中被行动者视为**理所当然、不言自明**的正统信念或"常识"。当行动者对世界的感知与世界的客观结构完美匹配时，社会秩序的任意性被**自然化**为"事情本身就是如此"——doxa 由此产生并维持（Bourdieu，引自 Wikipedia）。
 
-> [!quote]
+> [!quote|notitle]
 > "某些知识和资本被特权化，提供了 Bourdieu 称之为 doxa 的常识或正统"（Blackmore, 2010, p.102，引自 [[Argument_Eacott_2011_JEAH\|Eacott, 2011, p.50]]）
 
-> [!quote]
+> [!quote|notitle]
 > "问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 doxa 的认可"（Bourdieu & Wacquant, 1992, p.248，引自 [[Argument_Eacott_2015_EPT\|Eacott, 2015, p.320]]）
 
 Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质疑它**。它不是被辩护的立场，而是被预设的前提。
@@ -70,7 +70,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 
 **不言自明性**。Doxa 的首要特征是其被视为理所当然——行动者不意识到它是特定社会建构的产物，而是将其体验为"自然的"或"客观的"秩序。这种信念如此根深蒂固，以至于无需辩护、也无人追问其来源。
 
@@ -86,7 +86,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 
 **vs Symbolic Violence**。符号暴力是支配关系通过符号被合法化的**过程**，doxa 则是这一过程的**结果**——即已经被自然化了的那套常识本身。符号暴力制造 doxa，doxa 遮蔽符号暴力的任意性。两者是过程与结果的关系。
 
@@ -105,7 +105,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ## 案例
 
-> [!example]
+> [!example|notitle]
 
 ### 学校领导力中的 doxa
 
@@ -136,7 +136,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > Doxa 经历了从古希腊[[Epistemology\|认识论]]范畴到 Bourdieu 社会分析工具的漫长演变。
 
 **古希腊哲学（[[Plato|柏拉图]]／[[Aristotle|亚里士多德]]）**。*doxa* 原指"意见"或"信念"，与 *epistēmē*（知识）相对——是介于无知与真知之间的认知状态。柏拉图视 doxa 为不可靠的感知世界产物，亚里士多德则部分恢复其认识论地位。在这一阶段，doxa 是**个体认知**层面的概念。
@@ -149,7 +149,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **概念边界模糊** doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在实践中不易[[Operationalization\|操作化]]——批评者认为 Bourdieu 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
 > - **经验研究的困难** 如何经验地识别和测量 doxa 是主要挑战——研究者自身也嵌入了特定[[Champ\|场域]]，如何区分研究者的分析范畴与被研究者体验为自然的 doxa？([[Argument_Eacott_2015_EPT\|Eacott, 2015]])
 > - **变革可能性被低估** 如果 doxa 如此不言自明且被结构性地再生产，行动者如何可能挑战它？批评者指出 Bourdieu 对 doxa 的变革路径阐述不足

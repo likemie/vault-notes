@@ -201,7 +201,7 @@ updated: 2026-10-21
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - NZU 博士毕业生 profile — 明确列出三项全球公民属性：全球视野（global perspective）、文化理解（cultural understanding）和环境素养（environmental literacy），是少数将全球公民[[Operationalization\|操作化]]为具体博士培养目标的大学之一。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 88]])
 > - Manchester 大学[[Graduate Attributes\|毕业生特质]]表述 — “毕业生被鼓励和赋能去面对作为地方、区域和全球公民的公民价值观和责任”。([[Argument_Wong_2022_HERD\|Wong et al., 2022, p. 1347]])
 > - Keele 大学毕业生特质 — 毕业生能够并有动力“作为积极公民负责任地和协作地参与其所生活和工作的社群”。

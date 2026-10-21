@@ -79,14 +79,14 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 这是一篇综述文章，系统梳理近二十年来对 [[PISA]] 的批评。[[Yong Zhao]] 采用的方法是文献综合，将分散在学术期刊和技术报告中的批评汇集为一篇非技术性语言的总结。专注于 PISA 的三个根本缺陷：其对教育的基本观点、其实施、以及其对全球教育的解释和影响。
 
 ---
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 从 [[PISA]] 的营销策略入手，经由三个根本缺陷的分析（教育观、实施、解释），到达批评未能阻止 PISA 影响力扩大的困境。各步骤之间存在严格的递进关系。先说明 PISA 如何通过营销策略获得影响力，再揭示其三个根本缺陷，最后指出批评的困境。
 
 ### 第一步：PISA 的营销策略
@@ -221,7 +221,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - **捏造的主张**。[[PISA]] 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
 > - **单一教育观**。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家，非 OECD 国家面临更大的错配。
 > - **扭曲的教育观**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
@@ -234,17 +234,17 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "There is no research available that proves this assertion beyond the point that knowing something is always good and knowing more is better."(Hopmann, 2008, p.438)
 >
 > 没有研究能够证明这一断言，除了知道一些东西总是好的、知道更多更好之外。
 
-> [!quote]
+> [!quote|notitle]
 > "There are very few things you can summarise with a number and yet Pisa claims to be able to capture a country's entire education system in just three of them. It can't be possible. It is madness."(Morrison, 2013)
 >
 > 很少有东西可以用一个数字来概括，而 PISA 声称能够仅用三个数字捕捉一个国家的整个教育系统。这不可能，这是疯狂。
 
-> [!quote]
+> [!quote|notitle]
 > "The lack of impact is no reason to give up exposing PISA as a flawed business that has great power to misguide education."
 >
 > 尽管既往批评收效甚微，学术界依然有必要持续揭露 PISA 作为误导全球教育政策力量的企业本质与制度缺陷。
@@ -253,7 +253,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - **故意偏颇**。故意选择了不呈现正反平衡的观点，因为 [[PISA]] 运营者已经成功地向世界分享了其优点，而缺点一直被忽视。
 > - **综述性质**。研究属于[[Critical Review|批判性文献综述]]，侧重对过去二十年既有批评文献展开系统综合与理论重构。
 

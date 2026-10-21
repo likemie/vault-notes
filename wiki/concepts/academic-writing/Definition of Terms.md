@@ -36,12 +36,12 @@ updated: 2026-10-16
 
 ## 定义与目的
 
-> [!info]
+> [!info|notitle]
 > 术语定义（Definition of Terms）是研究计划中对关键术语的精确界定。其目的是确保读者（尤其是领域外人士）能够准确理解研究者使用的概念，避免读者带着一套定义阅读，后来才发现作者使用的是另一套定义([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
 Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scientists have sharply defined terms with which to think clearly about their research and to communicate their findings and ideas accurately"（p.22）。Firestone (1987) 则从语言哲学的角度解释了为何需要定义：
 
-> [!quote]
+> [!quote|notitle]
 > "The words of an everyday language are rich in multiple meanings. Like other symbols, their power comes from the combination of meaning in a specific setting. . . . Scientific language ostensibly strips this [[Multiplicity]] of meaning from words in the interest of precision. This is the reason common terms are given 'technical meanings' for scientific purposes."（Firestone, 1987, p.17，引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
 
 ---

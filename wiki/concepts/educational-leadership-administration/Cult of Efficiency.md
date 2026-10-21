@@ -50,14 +50,14 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Neo-Taylorism]] — 效率崇拜反映的是 20 世纪初美国教育界对泰勒制工厂模式的“第一波盲从”，注重时间-动作研究和成本控制；而新泰勒主义（Neo-Taylorism）则是效率崇拜在 21 世纪的变体，以[[Effect Size\|效应量]]账本、标准绩效数据流和[[External Auditor\|外部审计]]问责为主要中介，虽然工具更加符号化和微观化，但其通过“唯一最佳方法（One Right Method）”追求效率控制的底层逻辑高度一致。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 415–416, 422]])
 
 ---
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > - **历史缘起（20世纪初）** 在工商业崛起和进步主义时代的社会压力下，美国公立学校管理层面临着低效的猛烈指责。为自保和彰显专业性，埃尔伍德·库伯利（Ellwood Cubberly）、乔治·斯[[Michael Traill\|特雷尔]]（George Strayer）和[[Michael Fullan|富兰]]克林·博比特（Franklin Bobbit）等教育行政学开山鼻祖大量将泰勒制引入名校教育行政培训中，确立了行政事务与教学目标的永久性结构分离。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 413, 416]])
 > - **现实返祖（21世纪初）** 由于 [[PISA]]/NAPLAN 测试所造成的社会性评估恐慌，当代教育行政管理者再次萌生对“科学控制与标准解药”的理性饥渴，直接导致了[[John Hattie\|约翰·哈蒂]]以[[Effect Size\|效应量]]排名为支柱的“[[Cult of the Guru\|大师崇拜]]（Cult of Hattie）”的大行其道，重演了百年前卡拉汉批判的效率悲剧。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 413–414, 419]])
 
@@ -65,7 +65,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 效率崇拜的运作主要表现为以下特征： ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 413, 416, 418]])
 > - **学校的工厂化隐喻** 把学校视作工业流水线，学生是待处理的原料，教师是装配工人，而校长则变成了坐在办公室核算账本的首席执行官（CEO）。
 > - **手段与目的的倒置** 将教育的根本价值（促进个体的全面发展与民主参与）退化为行政手段（例如如何使生均运营成本最小化、或者如何在最短时间内拉高学生标准考试成绩）。
@@ -75,5 +75,5 @@ updated: 2026-10-16
 
 ## 实证案例 / 政策映射
 
-> [!example]
+> [!example|notitle]
 > - **“[[Visible Learning\|可见的学习]]”（Visible Learning，VL）的商业网络** [[John Hattie\|哈蒂]]与 [[Corwin Press|Corwin]] 出版社以及澳大利亚教育领导者理事会（ACEL）形成广泛的商业合作，推销其标准化的“VL学校（Hattie Schools）”认证。这让大量学校主动剪裁自己的本地情境与文化特色，在组织身份上贴标为“VL学校”以迎合系统的效率问责，这复刻了卡拉汉所描述的工商业模式对学校文化的全面收编。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 419]])

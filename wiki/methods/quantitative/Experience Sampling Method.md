@@ -34,14 +34,14 @@ updated: 2026-05-23
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 经验取样法（Experience Sampling Method，简称 ESM）是 Csikszentmihalyi 及其同事在 1970 年代开发的一种实证研究方法。研究者给参与者配备一个寻呼机（beeper）和一本包含问题的小册子，寻呼机在一天和傍晚期间被编程为随机响起。每当寻呼机响起时，参与者被要求回答小册子中的问题，包括：在哪里、在做什么、正在感受什么情绪（正面和负面）、以及是否更想在别处或做别的事([[Argument_Li_2012_Cambridge\|Li, 2012, p.59]])。
 
 ---
 
 ## 研究程序
 
-> [!example]
+> [!example|notitle]
 > 经验取样法的关键步骤([[Argument_Li_2012_Cambridge\|Li, 2012, p.59]])：
 
 1. **准备工具** 向参与者提供信号装置（现多为手机或专用设备）和记录工具
@@ -54,7 +54,7 @@ updated: 2026-05-23
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > ESM 适合研究人们在日常自然环境中实时波动的心理状态，特别适合以下问题：
 > - 学习和工作中的情感体验变化
 > - 日常活动中的[[Flow]]状态
@@ -67,7 +67,7 @@ Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - 依赖参与者的自我报告准确性和即时配合意愿
 > - 随机信号可能在关键时刻（流动状态中）打断参与者
 > - 信号频率和时机可能捕捉不到某些短暂或罕见的情感体验
@@ -77,7 +77,7 @@ Csikszentmihalyi 的团队正是通过该方法从大量青少年日常体验数
 
 ## 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - Li_2012_Cambridge — Li 提及该方法作为 Csikszentmihalyi 发现[[Flow\|心流]]的方法基础，并指出后续研究也使用该方法收集了跨文化的真实情感体验数据([[Argument_Li_2012_Cambridge\|Li, 2012, p.77–78]])
 
 ---

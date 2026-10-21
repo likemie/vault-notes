@@ -50,17 +50,17 @@ updated: 2026-10-20
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > "有前景的学生"（promising student）是 Thompson、Schröder 和 Wrana（2022）在分析竞争性大学治理时提出的概念，指在高等教育的竞争性[[Geopolitics|地缘政治]]框架中被期望和建构的一种理想学生主体形态。'Promising' 有双重含义：既指"有前景的"（形容词），也暗示一种"承诺"（名词）——学生被赋予"将来会成功"的承诺，同时也被要求以当下的自我管理来兑现([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.221]])。
 
 这一概念的核心洞见是：有前景的学生不是因天赋而被"发现"的，而是通过自我评估和自我优化的治理技术——尤其是[[Online Self-Assessment|在线自评工具]]——被"呼唤"（addressed）出来的([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]])。
 
-> [!quote]
+> [!quote|notitle]
 > "The identification of the 'promising student' is not simply a matter of finding the naturally given talents, however. Rather, it means to address students with respect to their potential success through self-evaluation and self-optimization."([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.221]])
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 
 ### 竞争性大学的地缘政治框架
 
@@ -85,18 +85,18 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > 有前景的学生这一概念依托于两个[[Theoretical Perspective\|理论视角]]：
 
 - **Foucault 的 [[Governmentality|治理术]]（governmentality）** 治理术关涉"行为的引导"（conduct of conduct）——不是通过强制，而是通过塑造主体的自我理解来引导行为。有前景的学生正是通过 [[Online Self-Assessment|OSA]] 等自我技术被引导为"企业家型的学术主体"（entrepreneurial academic subject）([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])。
 - **Deleuze 的[[Societies of Control|控制社会]]** Deleuze（1992）指出，规训性社会控制正在被"超快形式自由浮动的控制"取代。在教育领域，学生不再像过去那样在一次考试后从机构中被释放，而是处于持续的调制之中——从入学前的 OSA 到毕业后的校友追踪，控制从未终止([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
 
-> [!example]
+> [!example|notitle]
 > 在规训社会中，考试是权力的节点——学生在考试前被规训、考试后被释放。在控制社会中，OSA 将权力的作用点提前到入学之前，[[Learning Analytics\|学习分析]]系统在学习全程中持续追踪学生的每一项行为。一个学生可能因为 OSA 结果显示"外语经历不足"而在入学前就开始自行弥补，入学后被学习平台标记为"高风险"，被辅导员约谈——但她从未被"开除"。控制社会的特点是"'解雇'不再存在"（Deleuze, 1992, p.5），任何人都被永久地纳入调制之中。
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 
 - **个体化责任的过度赋予** 将学业成功框架为个人选择问题，忽视了结构性不平等——入学前的"起点差异"（如[[Socioeconomic Status|社会经济背景]]、学校质量）在 [[Online Self-Assessment|OSA]] 的自我反思框架中被转化为"个人需要弥补的不足"
 - **教育[[Open-Mindedness|开放性]]的丧失** 当学生的未来被简化为"被预测的未来"（predicted future），教育的根本开放性——即 [[Bildung]] 所指向的不可预测的成长——被压缩为数据相关性([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])

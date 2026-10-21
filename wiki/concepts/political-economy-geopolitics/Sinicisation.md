@@ -47,15 +47,15 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 汉化（Sinicisation）指以汉文化传统为核心重新界定"中国性"（Chinese-ness），并通过制度性手段将非汉民族群体纳入这一文化框架的过程。在中国语境中，这一过程体现为将汉族的语言、历史叙事和文化规范确立为国家的标准，同时将少数民族的语言、宗教和文化实践边缘化或压制([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.62–64]])。
 
-> [!quote]
+> [!quote|notitle]
 > 这一汉化过程"[[Construct\|constructs]] an idealised notion of 'Chinese' culture, focusing upon Han traditions, as the embodiment of both Chinese ancient 'civilization' and 'modernity'"（O'Brien & Brown, 2022, p.278，引自 [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.64]]）。
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > - **语言统一** 以普通话替代少数民族语言作为教育媒介，压缩地方语言的使用空间([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.61–62]])。
 > - **历史叙事重构** 课程中的历史叙事日益以汉人为中心，非汉群体被描绘为汉文化的接受者而非平等参与者([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.62, 67]])。
 > - **文化同化** 将汉传统等同于"中华文化"，将少数民族文化置于低等、落后或博物馆化的位置([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.62]])。
@@ -63,10 +63,10 @@ updated: 2026-10-15
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > 汉化并非当代独有现象。历史上，儒家"教化"边疆族群的传统——以文明化、同化文化"他者"为使命——支撑了中国帝国的扩张和对少数民族的控制（Vickers 2015; Yi 2008，引自 Yu & Zhao, 2024, p.63–64）。当代汉化区别于历史形式的关键特征在于其与现代国家建构、民族主义和社会主义意识形态的紧密交织。
 
-> [!note]
+> [!note|notitle]
 > [[Pan Yue\|潘岳]]的"[[Wuhu Ruhua\|五胡入华]]"叙事
 >
 > 新任国家民委主任潘岳（Pan Yue）在 2021 年发表的文章中对汉化的历史逻辑做了进一步的意识形态建构([[Argument_Bulag_2024_CE\|Bulag, 2024, p.107–108]])：
@@ -76,7 +76,7 @@ updated: 2026-10-15
 >
 > [[Argument_Bulag_2024_CE\|Bulag (2024)]]指出，潘岳通过更换一个字，将少数民族成为汉人的过程从被迫同化（forced assimilation）重新包装为少数民族"自愿"的文化选择，这是奥威尔式的双重思想。
 
-> [!note]
+> [!note|notitle]
 > 弗兰肯斯坦（Frankenstein）隐喻与去政治化逻辑
 >
 > 西方后殖民批评将中国少数民族框定为"族裔"（ethnicity／zuqun）而非"民族"（nationality／minzu）的做法，与中共推动汉化的努力形成了一种非意图的合谋([[Argument_Bulag_2024_CE\|Bulag, 2024, p.101–103]])：
@@ -86,7 +86,7 @@ updated: 2026-10-15
 
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 > 在新疆，汉化表现为系统性地压制维吾尔语使用和宗教实践，强制被拘留者学习儒家经典（如《三字经》）和普通话（Finley 2019，引自 Yu & Zhao, 2024, p.64）。
 >
 > 在学校课程中，教科书对非汉政权的叙述强调其精英"学习汉人方式"、研习儒家思想。典型的叙述模式是将非汉文化的改革描绘为以儒家学问为基础抛弃落后政治文化实践的过程([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.67–68]])。
@@ -107,10 +107,10 @@ updated: 2026-10-15
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > 批评者将中国的汉化教育政策定性为"文化灭绝"（cultural genocide）——以国族建构之名系统性消除地方语言、文化和身份认同（Leibold & Dorjee 2023，引自 Yu & Zhao, 2024, p.72）。中国政府则将这一政策框定为"民族团结教育"，强调普通话作为少数民族融入国家经济发展的工具性价值。
 
-> [!warning]
+> [!warning|notitle]
 > 自我牺牲的逻辑
 >
 > [[Argument_Bulag_2024_CE\|Bulag (2024, p.98)]]指出，中国汉化政策的独特之处在于，它不仅消除少数民族文化和身份构成的障碍，还要求少数民族"自愿"放弃自己的身份和权利以认同[[Zhonghua Minzu\|中华民族]]——即少数民族的"自我牺牲"（self-sacrifice）。这一逻辑体现在：
@@ -118,14 +118,14 @@ updated: 2026-10-15
 > - 少数民族精英被要求以身作则——如内蒙古 2021 年表彰两名蒙古族"北疆楷模"，表彰他们为学习和使用国家通用语言所做的努力，实际上是在庆祝他们的"自我阉割"（self-castration）([[Argument_Bulag_2024_CE\|Bulag, 2024, p.110–111]])。
 > - 根据 Halbertal（2012）的[[Sacrifice Theory\|牺牲理论]]，为中华民族殉道的烈士们的自我牺牲赋予了中华民族以道德价值，而这种债务又反过来要求今天中国公民的进一步自我牺牲([[Argument_Bulag_2024_CE\|Bulag, 2024, p.109]])。
 
-> [!warning]
+> [!warning|notitle]
 > 西方话语与中共的非意图合谋
 >
 > [[Argument_Bulag_2024_CE\|Bulag (2024, p.112)]]进一步指出了一个悖论性的趋同：西方学者以"包容性多元文化主义"为名将民族（minzu）降格为族群（zuqun），虽然出发点是反殖民批评，但实质上与中共拆除中国多民族宪法框架的努力产生了合谋效应。[[Settler Colonialism\|定居殖民主义]]／土著性（Settler Colonialism／indigeneity）框架虽然有力地批判了中国的主权政治，却并不呼吁少数民族的自决权，这实际上呼应了阿尔伯茨（Alberts, 2015）所说的"土著自决被重新概念化为国家内部的自治"的逻辑([[Argument_Bulag_2024_CE\|Bulag, 2024, p.100]])。
 
 ## 相关案例
 
-> [!example]
+> [!example|notitle]
 > - 新疆"再教育营"中强制学习儒家经典和普通话([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.64]])
 > - 中国学校教科书中日益以汉人为中心的历史叙事（Yan & Vickers 2020，引自 Yu & Zhao, 2024, p.62）
 > - 西藏[[Boarding Schools\|寄宿学校]]系统扩展（Leibold & Dorjee 2023，引自 Yu & Zhao, 2024, p.62）

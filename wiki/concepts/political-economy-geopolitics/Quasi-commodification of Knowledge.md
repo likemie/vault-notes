@@ -40,24 +40,24 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 知识的准商品化（Quasi-commodification of Knowledge）是 Jessop（2007）在 Polanyi 视角下提出的概念，后由 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]置于高等教育新政治经济学的[[Analytic Framework\|分析框架]]中。它描述知识在当代资本主义中被当作可交易商品（commodity）来处理，但由于知识固有的公共品特性——非竞争性使用（一个人的使用不减少另一个人的使用）和非排他性（排除他人使用的成本很高）——它无法被完整地转化为商品。因此，知识处于一种"准商品"（quasi-commodity）的状态：被定价、被交换、被赋予市场价值，但其商品化始终是不完全的，需要持续的制度努力来维持([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.804–805]])。
 
 这一概念的分析功能在于：揭示"[[Academic Capitalism|学术资本主义]]"概念的一个核心模糊性——大学被说成在"市场化"，但大学的"产品"（知识、教育、研究）从根本上抗拒完全的市场化。准商品化的概念精确地捕捉了知识在这个过程中的"半市场"状态。
 
-> [!quote]
+> [!quote|notitle]
 > Jessop（2007）将知识分析为 Polanyi 意义上的"虚拟商品"（[[Fictitious Commodity of Knowledge\|fictitious commodity]]）——它被当作商品来对待，但其固有的社会性质使其无法被完全商品化([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.804–805]])。
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs 商品化（commodification）：商品化指某物被转化为可以在市场上买卖的商品。准商品化则强调转化过程的**不完全性**——知识被推向市场，但始终保留着公共品的残余特性，无法像一袋土豆或一支股票那样被完整地私有化和交易。
 > - vs [[Academic Capitalism]]：学术资本主义描述制度层面的市场化转型——大学日益卷入市场活动。准商品化则更精确地分析市场化在**知识本体层面**的张力——知识作为公共品和潜在商品的矛盾性质，使得学术资本主义始终面临内在的不稳定性。
 > - vs 私有化（privatization）：私有化是将公共资产转移为私人所有。准商品化不一定涉及所有权的转移——它关注的是交易逻辑的渗透，即便在法律所有权不变的情况下（如公开发表的论文被赋予影响因子和引用数的"市场价值"）。
 
 ## 核心张力
 
-> [!abstract]
+> [!abstract|notitle]
 > [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp.804–805)]]通过 Jessop and Reitz 在该期期刊中的分析，揭示了知识准商品化中的三组核心张力：
 
 ### 公共品与私有资产的张力
@@ -81,7 +81,7 @@ Reitz提出了一个激进的论证：资本主义知识经济需要一个非资
 
 ## 在高等教育新政治经济学分析中的位置
 
-> [!note]
+> [!note|notitle]
 > Jessop的三重思想实验将准商品化置于一个更广泛的谱系中([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.804–805]])：
 > - **成本效率（cost-efficiency）** 大学追求更有效的资源利用——这不是资本主义，只是好的管理
 > - **准商品化（quasi-commodification）** 知识劳动被当作可交易商品处理——进入"[[Academic Capitalism\|学术资本主义]]"的门槛

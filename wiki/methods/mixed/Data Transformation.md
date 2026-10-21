@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 数据转换是 Caracelli and Greene (1993) 提出的四种[[Mixed Methods Research|混合方法]]数据整合策略之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > - **数据转换（data transformation）** 将一种数据类型转换为另一种——本条目
 > - **类型学发展（typology development）** 从一组数据产生的分类被应用到另一组数据
 > - **极端案例分析（extreme case analysis）** 在一种数据中发现的极端值使用不同数据和方法探索

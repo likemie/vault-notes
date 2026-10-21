@@ -29,12 +29,12 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > Tarshis (1982) 提出，写作者应当意识到文本中不同尺度的叙事思想各有其特定功能和目的。他将叙事思想分为四种类型，形成一个从宏观到微观、从内容到导航的功能层级（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 ## 四种类型
 
-> [!abstract]
+> [!abstract|notitle]
 
 | 类型 | 英文 | 功能 | 初学者常见问题 |
 |---|---|---|---|

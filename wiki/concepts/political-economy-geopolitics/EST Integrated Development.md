@@ -42,7 +42,7 @@ updated: 2026-06-12
 > [!info] 核心定义
 > EST一体化发展（Education-Science and Technology-Talent Integrated Development）指教育、科技和人才三个子系统在系统论视角下的协同演进过程。在这一框架中，教育子系统处于基础地位——它是知识传播和人才培养的主渠道；科技子系统发挥动力作用——它驱动经济社会发展和教育现代化；人才子系统占据核心位置——人的参与和能动性是教育和科技运行的先决条件。三者并非独立运行，而是在相互支撑和相互制约的复杂关系中共同构成一个超系统（megasystem）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 62–64)]]
 
-> [!quote]
+> [!quote|notitle]
 > 在EST系统内，教育子系统处于基础地位……科技子系统在EST中发挥动力作用……人才子系统在EST中占据核心位置。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 62–64)]]
 > Original: Within the EST system, the educational subsystem holds a foundational position... The science and technology subsystem plays a dynamic role within EST... The talent subsystem occupies a central position within EST.
 
@@ -54,7 +54,7 @@ updated: 2026-06-12
 
 ## 核心命题
 
-> [!abstract]
+> [!abstract|notitle]
 > EST一体化发展包含三个核心命题：结构命题（三者的功能定位）、关系命题（两两之间的互动机制）和空间命题（一体化水平的区域分化）。
 
 > [!line-a] 结构命题：三者的功能层级
@@ -83,7 +83,7 @@ updated: 2026-06-12
 
 ## 实证发现
 
-> [!finding-cards]
+> [!finding-cards|notitle]
 > 1. **整体上升，教育领先** 2001-2022年中国EST整体上升，东部教育增幅（127%）远超科技（62%）和人才（76%）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 69)]]
 > 2. **区域路径分化** 东部以教育为引擎，中部以人才为突破口（+57%），西部以科技为驱动力（+71%）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 69–70)]]
 > 3. **空间格局高度锁定** 80.2%省份-年份观测的空间关联类型保持不变（$SC = 0.849$，$p = 0.089$），科技子系统锁定最强。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 72–73)]]
@@ -92,7 +92,7 @@ updated: 2026-06-12
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **描述性有余[[Causality\|因果性]]不足** 现有EST研究大多停留在综合评价层面，准确描述了"是什么"（空间分异格局、锁定特征），但未能解释"为什么"（驱动机制和因果路径）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 75)]]
 > - **省级尺度的粗糙性** 省级面板数据掩盖了省内城乡和地市差异，而EST一体化最薄弱的环节可能恰恰在更微观的空间尺度上
 > - **评价指标的选取争议** 不同研究对EST评价指标的侧重不同，可能导致相反的结论——例如Fan等（2024）发现教育处于领先地位，而Huang等（2024）的实证结果认为人才占主导。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 74)]]

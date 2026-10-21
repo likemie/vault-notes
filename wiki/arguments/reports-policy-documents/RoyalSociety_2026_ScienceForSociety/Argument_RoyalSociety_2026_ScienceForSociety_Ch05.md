@@ -464,7 +464,7 @@ updated: 2026-10-20
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 本章分析主要聚焦于英国中央政府内阁行政中枢、部委首席科学顾问机制以及威斯敏斯特议会的科学咨询与决策整合体系；虽然政策制定中的科学融入对于国际“科学外交”（Science Diplomacy）同样至关重要，但鉴于议题的广度与复杂性，报告明确说明科学外交的具体运作已剥离至英国皇家学会与[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）联合发布的专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*）中单独深入讨论，不在本章考察范围之内；此外，科学证据在司法体系与法庭审判中的具体应用亦作为独立案例单独考察，未纳入本章常规政策治理框架。（pp. 79–80）
 
 ---

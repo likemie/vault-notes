@@ -94,7 +94,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 分析依托三个相互关联的理论资源：[[Social Realism\|社会实在论]]的[[Epistemology\|认识论]]立场、[[Basil Bernstein\|伯恩斯坦]]关于知识结构和[[Recontextualization\|再脉络化]]的理论，以及 [[Curriculum Design Coherence Model\|课程设计连贯性模型]]（CDCM）。
 
 ---
@@ -137,7 +137,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 使用 [[Curriculum Design Coherence Model\|CDCM]] 的翻译装置，基于 Bratland and El Ghami (2022) 为挪威课程改革研究开发的分析量规，分析[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]文件的两个方面：
 >
 > - 改革的目的声明和整体结构（学习进步和 UKD 结构）
@@ -147,7 +147,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > 从课程改革的背景出发，经由[[Regulative and Instructional Discourse\|规约性话语]]分析和知识结构分析，到达课程改革主要关注规约性[[Discourse|话语]]而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的[[Epistemology\|认识论]]混乱，最后指出 UKD 框架的逻辑问题。
 
 ### 第一步：学科知识为何重要
@@ -329,7 +329,7 @@ citation_aliases:
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - **[[Regulative and Instructional Discourse\|规约性话语]]主导**。课程改革主要关注创建规约性[[Discourse|话语]]，即道德和政治义务的话语，而非学科知识的识别和组织。
 > - **[[Recontextualization\|再脉络化]]原则的张力**。双文化主义、地方化和道德原则三种再脉络化原则之间存在潜在的[[Ontology\|本体论]]和[[Epistemology\|认识论]]张力。
 > - **[[Big Ideas\|大概念]]的不一致**。[[Big Ideas\|大概念]]在不同学科中的构想不同，有些捕捉知识，有些论证学科价值。
@@ -346,22 +346,22 @@ citation_aliases:
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > "The curriculum is informed by the knowledge landscape and by insights from a range of curriculum theories that are transforming our understanding about the importance of our dual heritage, our culturally diverse communities, and a shared, sustainable, and prosperous future for Aotearoa New Zealand."（Ministry of Education, March 2023d, p.12, 斜体为原文所加）
 >
 > 课程受到知识景观和一系列课程理论洞见的启发，这些理论正在改变我们对双重遗产、文化多样社区以及新西兰共享、可持续和繁荣未来的重要性的理解。
 
-> [!quote]
+> [!quote|notitle]
 > "We argue that there is no easy escape from the play of ideology."(p.522)
 >
 > 我们认为，意识形态的运作没有简单的逃脱方式。
 
-> [!quote]
+> [!quote|notitle]
 > "The primary question of exactly what we, as a nation, expect our students to know, do, and understand at school still appears to be a secondary or subsidiary concern in the curriculum."(p.522)
 >
 > 作为一个国家，我们究竟期望学生在学校知道什么、做什么、理解什么——这个首要问题在课程中似乎仍然居于次要地位。
 
-> [!quote]
+> [!quote|notitle]
 > "Students develop 'a relationship to knowledge' by 'becoming members, initially very junior members, of a range of subjects as "communities of enquiry" within which they engage with teachers and senior students as more knowledgeable members'."（[[Michael Young]], 2020, p.16, p.523）
 >
 > 学生通过成为一系列学科「探究社区」的成员——最初是非常初级的成员，在其中与教师和高年级学生作为更有知识的成员一起参与探究——来发展与知识的关系。
@@ -370,7 +370,7 @@ citation_aliases:
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > - **部分完成**。课程改革在分析时仍在进行中，许多学科尚未开发。但已有足够证据判断课程文件是否展示了向学科知识的更强转向。分析以十年级末（中学第二年）为例，这一阶段代表了学生在课程中进展的关键节点。
 > - **分析范围**。并非对[[Recontextualization\|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将[[Epistemology\|认识论]]、理论和思想差异很大的各种取向整合在一起。例如，[[Mātauranga Māori\|毛利知识体系]]的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的[[Ontology\|本体论]]和认识论张力，教师如何处理这种张力仍有待观察。
 > - **方法论说明**。分析使用了基于 Bratland and El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model\|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。

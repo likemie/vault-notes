@@ -482,7 +482,7 @@ issuing_organization: ""
 
 ## 自述局限
 
-> [!warning] 
+> [!warning|notitle]
 > - **[[Causality\|因果推断]]受限** 由于仅纳入了非实验性研究，无法推断[[Epistemic Cognition\|认识论认知]]与成绩之间的直接因果关系。
 > - **垃圾进，垃圾出（Garbage in, garbage out）** 该领域的自陈[[Questionnaire\|问卷]]长期存在[[Reliability\|信度]]偏低的问题，这不仅衰减了相关性，也使得通过[[Meta-analysis\|元分析]]得到的数据可能低估了真实的潜在效应。
 > - **[[Meta-regression\|元回归]]的稀疏数据限制** 由于部分[[Construct\|构念]]和调节[[Variable\|变量]]的组合[[Sample Size Determination\|样本量]]极小，无法对所有变量组合进行同时的元回归以剥离深层混杂变量。（p.1103）

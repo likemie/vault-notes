@@ -39,14 +39,14 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 档案通信分析（Archival Correspondence Analysis）是一种历史研究方法，通过收集和分析个人通信（信件）、同时期报纸报道、政府外交或行政函件等一手档案资料，交叉验证以重建历史事件的经过、参与者的互动以及不同行动者的视角。其核心逻辑不是依赖单一来源叙述，而是通过多源资料的比对和互补来逼近事件的完整图景([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.102–103]])。
 
 ---
 
 ## 认识论立场
 
-> [!abstract]
+> [!abstract|notitle]
 > 该方法通常依赖[[Interpretivism|解释主义]]（interpretivist）立场——不追求从档案中提取"客观事实"，而是在不同行动者的叙述之间寻找交汇点和分歧点，理解每个来源所承载的行动者立场和意图([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.107–109]])。
 
 三种典型资料来源各有其视角偏向：
@@ -60,7 +60,7 @@ updated: 2026-10-16
 
 ## 研究程序
 
-> [!example]
+> [!example|notitle]
 > [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]]的操作步骤提供了一个简明的范例：
 >
 > 1. **确定核心行动者和时间窗口** 以 Dewey 为中心行动者，聚焦 1928 年 5–8 月（pp.105–106）。
@@ -73,7 +73,7 @@ updated: 2026-10-16
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > - 适合研究历史人物的跨国访问、学术交流和[[International Education\|国际教育]]互动——这些事件通常有通信、报道和档案三重记录([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024]])。
 > - 适合关注历史事件中多行动者的不同视角和利益——当仅依赖已出版回忆录或官方叙述时，私人通信和政府内部函件能提供不同版本的故事。
 > - 适合对已出版叙述（如 Dewey 的 Impressions of the Revolutionary World）进行补充和校正——私人信件可揭示出版文本中省略或淡化的内容。
@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - **语言和获取门槛** 档案通信通常分散在不同国家的档案馆中，获取需要时间和资源。[[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]]主要依赖英文资料，俄文档案未被系统纳入——这在美苏交流的研究中构成一个内在视角不对称。
 > - **通信的选择性保存** 被保存和收录的信件本身经过了选择——通信集的编辑者（如 Hickman 等人）决定了哪些信件"值得收录"，这一层的选择逻辑通常不可见。
 > - **信件的[[Performativity|表演性]]** 私人通信不等于"真实想法"——写信人可能根据收信人调整语气和内容。Shatskii 对 Dewey 的告别信使用了"民主"一词，这可能是真诚信念，也可能是在迎合 Dewey 的价值观。
@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 方法变体与相近方法
 
-> [!tip]
+> [!tip|notitle]
 > - [[Historical Document Analysis of Curriculum]] — 聚焦课程文件（课程标准、教科书等）的历史分析；档案通信分析更关注个人和机构间的互动记录。
 > - 口述历史（Oral History） — 同为历史重建方法，但以访谈为资料来源；可与档案通信分析互补使用。
 
@@ -99,7 +99,7 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 利用 Dewey 的私人通信、纽约时报报道和美国国务院外交函件三类档案资料交叉验证，重建 Dewey 1928 年访苏的行程、互动与多向影响。（pp.102–109）
 
 ---

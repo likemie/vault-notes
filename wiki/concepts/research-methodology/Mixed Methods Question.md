@@ -45,10 +45,10 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > [[Mixed Methods Research\|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.150]])。
 
-> [!quote]
+> [!quote|notitle]
 > "The mixed methods question addresses what the researcher hopes to learn with the combination (integration) of the quantitative and qualitative data."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 
 混合方法[[Research Question|研究问题]]是研究方法论中的一个新概念，与其他研究方法教科书中的问题类型不同。其正式讨论始于 Tashakkori and Creswell (2007) 在 Journal of Mixed Methods Research 上发表的社论（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch7）。
@@ -57,7 +57,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > **[[Mixed Methods Research\|混合方法研究]]问题与量化／[[Qualitative Research\|质性研究]]问题的区别**
 >
 > | 类型 | 询问的内容 |
@@ -72,7 +72,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > [[Mixed Methods Research\|混合方法研究]]问题的两个核心组件（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：
 >
 > 1. **整合的意图（intent of integration）** 说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
@@ -101,7 +101,7 @@ updated: 2026-10-16
 
 ## 写作范例
 
-> [!example]
+> [!example|notitle]
 > Moseholm et al. (2017) 在健康科学领域的[[Mixed Methods Research\|混合方法研究]]中提供了出色的三部分目标陈述范例（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。他们研究非特异性症状患者诊断评估中与健康相关的生活质量变化：
 >
 > - 量化陈述：测量诊断评估过程中 HRQoL 的变化
@@ -110,7 +110,7 @@ updated: 2026-10-16
 >
 > 虽然作者将其表述为[[Purpose Statement\|目的陈述]]而非[[Research Question\|研究问题]]，但这些目标对应于量化、质性和混合方法的三部分结构。
 
-> [!example]
+> [!example|notitle]
 > DeCoito and Estaiteyeh (2022) 研究了加拿大一个省份科学／[[STEM Education\|STEM]] 教师在线教学与学习的经历（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。他们的研究问题是：
 >
 > 1. 教师在在线环境中使用了哪些数字工具和资源？（描述性量化问题）
@@ -124,7 +124,7 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > [[Mixed Methods Research\|混合方法研究]]问题的价值可能不易被理解，特别是对于不熟悉数据连接或整合的研究者而言。因为它是一个关于方法的问题，而非关于研究内容的问题，读者可能质疑其必要性。然而，整合是混合方法研究的核心，混合方法[[Research Question\|研究问题]]正是传达这一核心意图的工具（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。
 
 ---

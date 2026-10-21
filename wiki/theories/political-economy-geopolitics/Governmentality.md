@@ -94,11 +94,11 @@ updated: 2026-10-21
 > [!claim] 核心判断
 > 治理术的核心本质是“行为的引导”（Conduct of Conduct）。现代权力通过提供分类框架、竞争准则、评价标准与理想人格，积极塑造主体的自我理解与欲望结构，超越了单纯依靠暴力压制主体意志的传统统治模式；治理不以抹杀自由为代价，反而将个体的“自由选择”与“自我管理”作为权力高效运转的前提机制。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 226)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] 论治理术作为行为引导的本质**
 > 治理术关涉的是“行为的引导”（Conduct of conduct），即通过塑造主体的自我理解来引导行为，超越强制命令的直接干预。权力积极建构主体的反思能力，使其在自我审视中主动对齐体制的期许，有别于以否定性禁止为主的传统形态。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, p. 226)]]
 
-> [!citation-card]
+> [!citation-card|notitle]
 > **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论古典政治理论视野下的广义治理**
 > 在政治社会学与比较教育学中，“治理”（Government）绝不能窄化为国家机构（State）的同义词；它在更宽广的古典政治理论维度被界定为一个总体性分析范畴，涵盖了人类个体受到外部制度规制以及进行自我调节（Regulated and Self-regulate）的微观且多元的全部方式。正是在这一制度基础上，学校演变为现代治理将个体与人口转化为可计算、可行政管理对象的中枢节点。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 367)]]
 

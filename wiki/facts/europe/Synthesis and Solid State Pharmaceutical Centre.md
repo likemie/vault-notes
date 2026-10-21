@@ -43,7 +43,7 @@ updated: 2026-10-16
 ---
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > 合成与固态制药中心（Synthesis and Solid State Pharmaceutical Centre，SSPC）是爱尔兰政府资助的制药[[University-Industry Collaboration\|产学合作]]网络，由[[Science Foundation Ireland|爱尔兰科学基金会]]（Science Foundation Ireland，SFI）提供核心资助。SSPC 的使命是进行制药领域的尖端研究，从分子到制造全链条覆盖。其研究聚焦结晶化（crystallization）这一制药核心工艺——解决固态形式的不可重复性问题。网络拥有显著的工艺创新和连续制造能力，包括连续结晶试验台和干燥试验台等专业设施[[Argument_ODwyer_Filieri_OMalley_2023_JTT\|(O'Dwyer et al., 2023, pp.905-907)]]。
 
 SSPC 的成立源于一位学术关键行动者（化名 Robert）的发起。他识别了与其他学者和产业伙伴在结晶化领域联合工作的机会，利用其个人声誉和在制定互利知识产权政策方面的可[[Reliability|信度]]，吸引了最初的产业和学术伙伴参与。Robert 最初联系了潜在的参与者以评估他们的兴趣："他原本认为可能在这个领域做些什么，然后联系人们看看他们的想法"（大学 3 的 Mark）。截至研究时，SSPC 已进入其第二个资助周期，成为全球制药研发卓越中心。
@@ -60,14 +60,14 @@ SSPC 的成立源于一位学术关键行动者（化名 Robert）的发起。�
 ---
 ## 组织特征
 
-> [!abstract]
+> [!abstract|notitle]
 > - **规模** 8 所学术机构 + 10 家跨国制药企业
 > - **资助** [[Science Foundation Ireland|SFI]] 政府资助（770 万欧元启动），后续吸引企业专项资助和私人资本
 > - **治理** 联合知识产权委员会（产业法律团队与学术代表共同参与），项目经理（具产学双重经验）
 > - **独特机制** 均等分配资金（在通常由一个主导伙伴把持的研究集群中极为罕见），平等培养了所有权感和对合作成功的承诺
 > - **信任基础** 从声誉基础的信任（信任关键行动者 Robert 个人）演化为诚信基础的信任（信任网络本身）
 
-> [!quote]
+> [!quote|notitle]
 > "在这个合作中每个人都是平等的。这在研究集群中是不寻常的，通常有一个更大的伙伴。在 SSPC 中，每个伙伴都被视为完全平等的，甚至资金分配也是如此。"（大学 2 的 Andrew）
 >
 > Original: "In this partnership everyone is equal. That is unusual even in research clusters, there normally tends to be one partner that is bigger. In the SSPC each of the partners is seen very much as equal and that goes down to the level of funding that is received."
@@ -75,6 +75,6 @@ SSPC 的成立源于一位学术关键行动者（化名 Robert）的发起。�
 ---
 ## 相关概念
 
-> [!tip]
+> [!tip|notitle]
 > - [[UIC Evolutionary Phases]] — SSPC 是该四阶段模型的经验基础
 > - [[University-Industry Collaboration]] — SSPC 是产学合作网络的成功案例

@@ -92,7 +92,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 本章以 **[[World Society Theory]]**（世界社会理论，Meyer et al., 1997）为核心[[Analytic Framework\|分析框架]]。
 >
 > **世界社会理论的核心直觉** 想象一下，当今世界各国为什么都有教育部、大学、宪法？Meyer 的回答是：不是因为每个国家独立发明了这些制度，而是因为存在一个全球共享的"文化剧本"——世界社会——它规定了"一个现代国家应该长什么样"。这个世界社会没有中央政府、没有警察、没有法律来强制执行，但它照样能运转。为什么？因为它依赖的不是强制力，而是 **"[[Otherhood\|他者代理]]"（[[Otherhood]]）**——各类组织主动把自己定位为"替别人办事"的角色，替弱势群体发声、替环境保护呼吁、替"进步"和"正义"这些抽象理想提供证据和方案。
@@ -105,14 +105,14 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 本章为理论-概念讨论（conceptual discussion），非实证研究。
 > - 方法：[[Literature Review\|文献综述]]、概念分析、二次数据分析
 > - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp and Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, CSR）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 
 ### 第一步：观察一个被忽略的事实
 
@@ -205,7 +205,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 
 ### 大学的身份转型
 
@@ -253,25 +253,25 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “大学通过战略性地将自身定位为全球知识行动者，已经进入了全球治理的图景。”
 > ("Universities have entered the global governance landscape by strategically positioning themselves as global knowledge actors.")(p.143)
 
-> [!quote]
+> [!quote|notitle]
 > “这里的他者身份指的是为其他行动者（如民族国家）、非行动者实体（如全世界的儿童；濒危物种）和原则（如人权）行使能动性的社会过程。”
 > ("[[Otherhood]], here, refers to the social process of enacting agency for other actors (e.g. nation-states), non-actor entities (e.g. the world's children; endangered species) and principles (e.g. human rights).")(p.149)
 
-> [!quote]
+> [!quote|notitle]
 > “随着大学知识成为全球经济中的重要资源和资产，大学间为声誉、收入和研究人员展开的竞争，被奇特地置换到了一个不平坦的全球地缘政治竞技场上。”
 > ("With university knowledge becoming an important resource and asset in the global economy, the inter-university race for reputation, revenues, and researchers is oddly transposed to an unlevelled global geopolitical playing [[Champ\|field]].")(p.145)
 
-> [!quote]
+> [!quote|notitle]
 > “如果大学想要在全球治理中保持其作为独立知识仲裁者的独特地位，甚至重组传统上偏向政治和市场的权力结构，它们必须确保不仅是追随全球议程，而且要开始积极地塑造它。”
 > ("If universities want to preserve their unique status as independent knowledge arbiters in global governance and even reshuffle power structures traditionally skewed towards politics and markets, they have to make sure to not only follow the global agenda but begin to actively shape it.")(p.157)
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **作者自述局限** 本章为概念性讨论而非系统性实证研究，四种机制的识别基于二次数据和[[Literature Review\|文献综述]]，需要更多一手实证研究验证大学在全球治理中的实际影响力(p.157)
 > - **方法论局限** 本章未提供系统的跨国比较或[[Causality\|因果推断]]；案例选择偏向欧洲和北美知名大学，可能高估大学参与全球治理的普遍程度——南半球和资源匮乏的大学是否也在经历同样的转型，存疑
 > - **过度推论风险** 将 CSR 报告、SDG 课程数量等组织表层变化直接等同于大学实质性参与全球治理，可能存在"口头采纳"（talk）与"实际行动"（action）之间的落差。正如批评者对新制度主义的常见质疑——组织可能在正式结构中采纳全球规范（"我们支持 [[UN Sustainable Development Goals\|SDGs]]"），但在核心运作中维持旧有逻辑

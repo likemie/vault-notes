@@ -50,31 +50,31 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 在治理和政策分析中，选择性（selectivity）指政策工具和制度安排系统性地优先某些政策替代方案、同时使其他方案被边缘化的过程。此概念源自 Jessop（2007）的策略关系国家理论（strategic-relational approach）：政策工具并非中立的筛选器，而是嵌入特定的权力关系，使某些政策选择比其他选择在操作上更可行、在[[Discourse|话语]]上更"自然"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166, 174]])。
 >
 > Jessop 的关键洞见在于：选择性不是决策者有意的偏见或偏袒，而是政策工具本身的结构性特征。在自由主义经济秩序的框架下——即 Jessop 所描述的"[[EU|欧盟]]就业和经济政策的深层预设"——政策工具"不可避免地使决策者聚焦于某些议题而忽略其他"(Jessop, 2007; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166]])。
 
-> [!quote]
+> [!quote|notitle]
 > "policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 Rambla, 2022, p.166）
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs 有意的偏向（intentional bias）：选择性不是决策者主动排斥某些议题，而是政策工具本身的设计使某些替代方案在操作上更可行、在[[Discourse|话语]]上更"合理"。这是一种结构效应，而非个人动机([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
 > - vs 优先级设定（priority-setting）：优先级设定是明确的议程选择（如"本年度重点推进创新政策"），而选择性是隐性的——它是政策工具运作中产生的系统性效应，常不被行动者意识到（Jessop, 2007）
 > - vs [[Performance Indicators]]：选择性是绩效指标的四个操作维度之一。绩效指标是工具，选择性是该工具产生的一种系统性效应——指该工具"筛选掉了什么"。详见 [[Performance Indicators]]
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > - **Jessop（2007）** 在 State Power: A Strategic-Relational Approach 中提出选择性概念，论证国家权力通过"策略选择性"（strategic selectivity）使某些策略比其他策略更有可能成功
 > - **Le Galès（2016）** 将选择性概念纳入政策工具理论，论证政策工具的技术成分和权力成分相互关联，选择性正是通过技术—权力双重性得以运作([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166]])
 > - **[[Argument_Rambla_2022_Springer\|Rambla (2022)]]** 将选择性概念应用于[[EU|欧盟]][[Performance Indicators\|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning\|终身学习]]政策中的三种具体表现（p.174–175）
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 基于 [[Argument_Rambla_2022_Springer\|Rambla (2022, pp. 174–175)]] 对[[EU|欧盟]]创新与教育培训政策的分析，选择性通过以下三种机制运作（参见 [[Argument_Rambla_2022_Springer\|Rambla (2022)]] 第 6 步的详细拆解）：
 
 ### 筛选议题优先次序
@@ -95,13 +95,13 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - **Jessop（2007）的策略关系国家理论** 选择性是嵌入制度结构和政策工具中的结构性特征，并非个人选择的结果。在自由主义经济秩序框架下，政策工具不可避免地使某些议题被优先、另一些被边缘化。
 > - **Le Galès（2016）的政策工具理论** 政策工具的技术成分和权力成分相互关联，选择性正是通过这种技术—权力的双重性得以运作。
 
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 > 以下发现全部来自 [[Argument_Rambla_2022_Springer\|Rambla (2022)]] 基于 [[YOUNG_ADULLLT]] 数据的分析：
 
 ### 制度传统对选择性的缓冲效应
@@ -122,13 +122,13 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **去政治化风险** 选择性通过将价值判断（如"研发密集型创新优于其他创新""就业优先于赋权"）嵌入看似中立的指标体系，使本应属于民主审议的政治选择被技术化为"客观标准"。这与 [[Scientization of Politics]]([[Argument_Zapp_2022_Springer\|Zapp, 2022]])的诊断相通——科学知识从信息来源转变为治理合法性的构成性要素([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.175–176]])
 > - **区域不平等的固化**[[Performance Indicators\|绩效指标]]体系将区域分类为"领先创新者"和"一般创新者"，分类本身可能进一步固化而非缩小区域不平等——"领先"区域更容易吸引投资和人才，形成自我强化的循环（p.174）
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - [[Innovation Union]] — [[Performance Indicators\|绩效指标]]对创新的界定向研发密集型模式倾斜，排斥社会创新
 > - [[EU Skills Agenda]] — [[Lifelong Learning\|终身学习]]政策中就业优先于个人发展和公民参与维度的选择性
 > - [[Europe 2020 Strategy]] — 战略框架隐含的自由主义经济秩序预设本身就是一种结构性选择

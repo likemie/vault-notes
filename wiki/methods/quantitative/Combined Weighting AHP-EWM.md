@@ -37,10 +37,10 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > AHP-熵权法组合赋权（Combined Weighting AHP-EWM）是一种将主观赋权和客观赋权相结合的多指标权重确定方法。它分别采用层次分析法（Analytic Hierarchy Process, AHP）获取基于专家判断的主观权重，采用熵权法（Entropy Weight Method, EWM）获取基于数据变异程度的客观权重，再通过最小二乘决策（Least Square Decision, LSD）模型求解综合权重，使综合权重与两种来源权重的总偏差最小。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 66–67)]]
 
-> [!quote]
+> [!quote|notitle]
 > 综合权重向量 $f = (f_1, f_2, \dots, f_n)^T$，通过最小化与主观权重向量 $v$ 和客观权重向量 $g$ 的偏差平方和求解，约束条件为 $\sum f_i = 1, f_i \geq 0$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 67)]]
 > Original: The least square decision (LSD) model is established to control the deviation of the judgment index decision results in a small range.
 
@@ -48,7 +48,7 @@ updated: 2026-10-16
 
 ## 研究程序
 
-> [!abstract]
+> [!abstract|notitle]
 > 组合赋权分为三个独立模块，各模块可独立执行，LSD模型作为最终的融合机制。
 
 > [!line-a] 模块一：层次分析法（AHP）——主观赋权
@@ -64,20 +64,20 @@ updated: 2026-10-16
 
 ## 适用场景
 
-> [!success]
+> [!success|notitle]
 > 适合构建综合评价指标体系时需要确定指标权重的场景，尤其当：
 > - 既有领域专家知识可用、又有充分数据支撑时
 > - 单一赋权方法（纯主观或纯客观）难以令人信服时
 > - 指标体系中同时包含"易于量化的硬指标"和"难以量化的软指标"时（如教育关注度、技术复杂度）
 
-> [!warning]
+> [!warning|notitle]
 > 当AHP专家过程和评判质量不透明时，组合赋权可能实际退化为以EWM为主的客观驱动模式，失去"组合"的方法论意义。
 
 ---
 
 ## 局限性
 
-> [!warning]
+> [!warning|notitle]
 > - **AHP过程不透明** 若未报告专家数量、背景及评判过程，AHP方法论的严谨性无法评估。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 71)]]
 > - **时间不变性假设** 组合权重基于全时段数据计算，未考虑指标重要性随时间推移的变化
 > - **LSD模型的对称性假设** LSD对主观和客观权重偏差施以同等惩罚，但两者的[[Reliability\|可靠性]]在实际中可能不等
@@ -86,7 +86,7 @@ updated: 2026-10-16
 
 ## 相关方法
 
-> [!tip]
+> [!tip|notitle]
 > - Analytic Hierarchy Process — AHP是该组合方法的子模块
 > - Entropy Weight Method — EWM是该组合方法的子模块
 > - [[Coupling Coordination Model]] — 组合赋权常与耦合协调模型配合使用，前者确定指标权重，后者计算系统协同水平
@@ -95,5 +95,5 @@ updated: 2026-10-16
 
 ## 使用此方法的研究
 
-> [!example]
+> [!example|notitle]
 > - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用AHP-EWM-LSD组合赋权确定15项EST评价指标的权重，为[[Coupling Coordination Model\|耦合协调模型]]提供综合权重输入

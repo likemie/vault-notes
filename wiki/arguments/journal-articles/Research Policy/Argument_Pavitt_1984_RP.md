@@ -165,7 +165,7 @@ Pavitt 进一步将分类差异归因于三个因素的[[Interaction Effect|交�
 ---
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > Pavitt 本人承认分类法的经验基础主要是英国制造业数据，对服务业的覆盖不足。分类法需要根据产业结构的持续变化进行更新——特别是 ICT 技术的崛起和服务业在经济中占比的持续上升。这些局限在 [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta（2016）]]的研究中得到了回应和部分解决。
 
 ---

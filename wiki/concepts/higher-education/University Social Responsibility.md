@@ -42,16 +42,16 @@ updated: 2026-10-15
 ---
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 大学社会责任（University Social Responsibility, USR）指大学对多元利益相关者和社会议题的制度化[[Open-Mindedness|开放性]]，是[[Organizational Actorhood\|组织能动者身份]]（[[Organizational Actorhood]]）中社会嵌入性（social embeddedness / citizenship）维度在大学语境中的具体表现（Ramirez, 2006; Bromley & Meyer, 2015; Sørensen et al., 2019）。USR 将长期仅在营利部门讨论的企业社会责任（CSR）概念延伸至高等教育机构，涵盖就业政策、校园建设、可持续发展管理、学生生活以及对全球议题（如气候变化、贫困、社会不平等等）的研究与教学贡献([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149, 152–153]])。
 
-> [!quote]
+> [!quote|notitle]
 > "Corporate social responsibility (CSR), long only discussed in the context of corporations, is slowly being used as a concept to interpret universities' internal changes."（Larrán & Andrades Peña, 2017; Wigmore-Álvarez & Ruiz-Lozano, 2012，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]]）
 
 ---
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs 企业社会责任（CSR） — CSR 长期仅在营利部门讨论，关注企业对股东、员工、社区和环境的责任；USR 将这一概念延伸至高等教育机构，但大学的"社会责任"有本质区别：企业的首要责任是对股东的经济回报，而大学作为公共知识机构，其社会责任内嵌于其核心使命——[[Knowledge Production\|知识生产]]、人才培养和社会批判——之中，不是附加的"慈善"活动([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])
 > - vs [[Third Mission\|第三使命]]（third mission） — "第三使命"通常指大学在教学和研究之外的产业联系、[[Technology Transfer\|技术转移]]和经济贡献；USR 涵盖更广的非经济维度——就业公平、校园可持续性、[[Global Citizenship\|全球公民]]意识、对社会不平等的研究和倡导——是 [[Organizational Actorhood]] 中社会嵌入性维度的制度化表达([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.148–149, 152]])
 > - vs [[Otherhood]] — otherhood 是解释"为什么"大学会承担 USR 的理论机制（大学作为"他者代理"的社会过程）；USR 是 otherhood 在大学组织层面的制度化表现（发布 CSR 报告、设立可持续发展办公室、加入 SDG 排名）。两者的关系犹如"动机"与"行为"([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149, 152–153]])
@@ -59,7 +59,7 @@ updated: 2026-10-15
 ---
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 
 ### 理论奠基：从社会嵌入性到责任大学
 
@@ -75,7 +75,7 @@ updated: 2026-10-15
 ---
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > USR 在大学中的表现领域([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])：
 > - **就业政策** 保障雇员权利、促进多样性、支持工作生活平衡。例：THE 影响力排名指标中包括"安全雇佣合同的使用""高级女性学术人员的比例"等——就业公平已被纳入大学的排名考核([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.147]])
 > - **校园建设与运营** 能源、水、交通、废物和食品的全校园可持续使用，将校园转变为"活实验室"（living laboratories）和"可持续发展试验台"（testbeds for sustainability）。例：ETH Zurich 推行"2000 Watt Society"项目，将全校能源效率目标与教学研究结合；Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–151]])
@@ -86,14 +86,14 @@ updated: 2026-10-15
 ---
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - [[Organizational Actorhood]] — USR 是组织能动者身份中社会嵌入性维度的具体化：大学通过 USR 表明自己不仅是[[Knowledge Production\|知识生产]]机构，更是对社会负责的公民组织（Bromley & Meyer, 2015）
 > - [[Otherhood]] — USR 实践是大学 otherhood 的制度化表达：大学的 USR 活动（如减碳、促进性别平等、扶贫研究）本质上是为非行动者实体和现代性原则行使代理权([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 
 ---
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 > - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 CSR 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数精英大学的特权实践([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])
 > - 大多数大学的 CSR 报告在过去 5 年内首次发布（Fig. 9.1），其增长曲线呈指数形态，暗示我们正处于 USR 制度化的"起飞期"——这一加速与 [[UN Sustainable Development Goals\|SDGs]]（2015）和 [[THE Impact Ranking]]（2019）的时间节点高度吻合([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]])
 > - 可持续发展已被部分学者视为大学的一种新型"[[Third Mission\|第三使命]]"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.150]]）
@@ -106,7 +106,7 @@ updated: 2026-10-15
 ---
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **"口头采纳"与"实际行动"的落差**[[Argument_Zapp_2022_Springer\|Zapp (2022)]] 提示，CSR 报告的快速增长可能反映的是制度性"口头采纳"（talk）而非实质性行动转变（p.153）
 > - **作为新自由主义合法化工具** 从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
 > - **指标化的简化风险** THE 影响力排名将 USR 的复杂多维实践简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面努力而忽视深层的制度变革
@@ -114,7 +114,7 @@ updated: 2026-10-15
 ---
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - [[UN Sustainable Development Goals]] — SDGs 为 USR 提供了全球性的内容框架和目标体系
 > - [[THE Impact Ranking]] — THE 影响力排名是 USR 被量化和排名化的标志性事件
 

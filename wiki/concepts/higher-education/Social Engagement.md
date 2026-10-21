@@ -50,10 +50,10 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 社会性投入（Social Engagement）是[[Student Engagement\|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在[[Yajun Zheng\|郑雅君]]（2023）的"大学过程"[[Analytic Framework\|分析框架]]中，社会性投入与[[Academic Engagement\|学业投入]]并列构成"投入过程"的两大分析轴。
 
-> [!quote]
+> [!quote|notitle]
 > "学业投入（academic integration/engagement）与社会性投入（social integration/engagement）一般被认为是学生的投入中促进自身发展的两个最重要方面"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
 
 社会性投入之所以重要，不仅因为它是融入大学社交环境的关键，更因为在[[Knowledge-Based Economy|知识经济]]时代，它已成为积累[[Employability|就业力]]和[[Economy of Experience|履历资本]]的核心途径——毕业证书只是敲门砖，社会性投入中锻造的软技能和职业网络才是区分求职者的关键（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Brown & Hesketh, 2003）。
@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Academic Engagement]] — 社会性投入聚焦人际互动和课外活动（学生组织、实习、同伴交往），学业投入聚焦学术相关活动（课程学习、师生学术互动、学术规范）。两者在[[Yajun Zheng\|郑雅君]]（2023）框架中构成"投入过程"的两个互补维度
 > - vs Tinto 的社交融入（Social integration）— Tinto 侧重**心理层面**的融入感（"社交环境与自己的偏好或期待相协调的程度"），Kuh 的社会性投入侧重**行为层面**的时间精力分配。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]综合使用两者——[[Questionnaire\|问卷]]测量行为投入，访谈评估融入质量（，引 Tinto, 1993; Kuh, 1991）
 
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > - **1993 社交融入** Tinto 在融入理论中提出社交融入（Social integration），定义为学生发现大学社交环境与自身偏好相协调的程度（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tinto, 1993）
 > - **1991 行为[[Operationalization\|操作化]]** Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（，引 Kuh, 1991）
 > - **2003 [[Employability\|就业力]]转向** Brown & Hesketh 将社会性投入与[[Employability\|就业力]]关联——在[[Knowledge-Based Economy\|知识经济]]时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（，引 Brown & Hesketh, 2003, 2004）
@@ -80,7 +80,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > - **学生组织与社团参与** 加入并投入学生组织、社团活动——从普通成员到领导职务构成投入深度的连续统（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - **实习与职业探索** 通过实习积累职业经验、锻造软技能、建立职业网络。在[[Knowledge-Based Economy\|知识经济]]时代，雇主越来越看重这类"[[Economy of Experience\|履历资本]]"（，引 Brown & Hesketh, 2003）
 > - **同伴与[[Student-Teacher Relationship\|师生关系]]** 与同伴建立有意义的人际连接、与教师建立非正式互动——这既是社交融入的指标，也是积累社会资本的渠道
@@ -90,7 +90,7 @@ updated: 2026-10-16
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - [[Academic and Social Integration]]（Tinto, 1993）— 社交融入维度是社会性投入的理论原型
 > - [[Student Engagement]]（Kuh, 1991）— 提供了社会性投入的[[Operationalization\|操作化]]定义和行为指标
 > - [[Employability]]（Brown & Hesketh, 2003）— 揭示了社会性投入在[[Knowledge-Based Economy\|知识经济]]时代的新功能——积累就业力
@@ -100,7 +100,7 @@ updated: 2026-10-16
 
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 > [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]第4章揭示社会性投入在两种大学生活组织模式中的系统性差异，且这一差异对毕业出路的影响可能超过[[Academic Engagement\|学业投入]]差异：
 > - **[[Goal-Controlled Mode\|目标掌控模式]]** 社会性投入被视为**自我探寻和职业锚定的核心机制**——学生通过实习、人际网络、课外活动探索职业方向、积累雇主看重的软技能（如钦凯的"演绎"能力），并发展出顺藤摸瓜型或试错型的职业探索路径
 > - **[[Intuition-Dependent Mode\|直觉依赖模式]]** 社会性投入**被习惯性忽略**——弱势学生在名校中面临"语言包"不适配（文化语码差距）、屡次社团面试失败后的"弃疗"、对社交的根本性疏离，导致出路决策高度被动
@@ -114,7 +114,7 @@ updated: 2026-10-16
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **"中立过程"假设的延续** 与社会性投入相关的概念——从 Tinto 的社交融入到 Kuh 的社会性投入——均将投入默认为由学生自主决定的中立过程。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]的经验材料表明，弱势学生的"不投入"并非个人选择，而是文化语码不适配（大成的"语言包"比喻）和屡次失败后的回避（冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
 > - Brown 的[[Employability\|就业力]]框架虽有洞察力，但将社会性投入完全工具化为就业筹码，可能忽视了社交融入对个人成长和意义建构的非工具性价值
 
@@ -122,7 +122,7 @@ updated: 2026-10-16
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - 目标掌控者案例：钦凯凭借丰富的求职面试经历提炼出"演绎"能力（情商、印象管理、"转化率"），并在与年长商界精英的广泛交往中锻造了面试从容感。经纬通过"尝试—体验—放弃—再尝试"的试错路径最终锚定金融方向。详见 [[Goal-Controlled Mode]]
 > - 直觉依赖者案例：大成用"处理器难以识别语码"来描述社交融入困境（"你并不能讲出一个很好的玩笑"——文化语码不适配）；冰倩屡次社团面试失败后"弃疗"（"就觉得自己不够优秀"——其实"很多人也都不会，去了才有人手把手教的"）。详见 [[Intuition-Dependent Mode]]
 > - 模式转换案例：梓桐（听讲座→学术小圈子→台湾交流→移入学者价值图式）和高程（学生工作→观察优秀学长学姐→确立从政方向）均以社会性投入为转折引擎。详见 [[Intuition-Dependent Mode]]

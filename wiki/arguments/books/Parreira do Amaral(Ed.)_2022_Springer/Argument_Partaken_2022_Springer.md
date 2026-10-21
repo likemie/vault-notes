@@ -99,7 +99,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究文献（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美[[Geopolitics|地缘政治]]紧张为核心案例。理论资源包括：
 > - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge\|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
 > - Lyotard [[Narrative Knowledge\|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
@@ -110,7 +110,7 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 属于理论讨论与概念分析文章。方法包括：
 > - 方法：Google Books Ngram Viewer 词频分析，追踪"[[Geopolitics|geopolitics]]""[[Geopolitics of Knowledge]]"等术语的历史使用频率
 > - 数据来源：后殖民研究文献、美国国会报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
@@ -119,7 +119,7 @@ citation_aliases:
 
 ## 论证结构
 
-> [!example]
+> [!example|notitle]
 > Partaken 的论证采用"诊断—替代—[[Typification\|类型化]]—验证—理论化"五步结构。以下逐步还原每一步的推理链。
 
 ### 第一步：确立 GPK 的重要性和历史深度（§5.1, pp.67–69）
@@ -252,7 +252,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > - "[[Geopolitics of Knowledge\|知识地缘政治]]"（[[Geopolitics|geopolitics]] of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK [[Discourse|话语]](p.68)
 > - [[Narrative Knowledge\|叙事知识]](Lyotard, 1979/1984)处于急剧衰退中，原因不是后现代对[[Grand Theory\|元叙事]]的不信任，而是全球化中商业价值的"科学知识"得到国家和产业赞助(p.74–75, 83–84)
 > - 经济间谍活动确实能有效缩小技术差距：[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，东德通过间谍活动显著缩小了与西德的工业技术差距(p.77)
@@ -267,18 +267,18 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “与其关注知识的这种静态，对地缘政治的探究应该更多地关注‘运动中的知识’现象，如转移、传播、教学法、灌输、窃取、间谍活动、监视和审查。”
 > ("Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of '[[Knowledge Transfer\|knowledge in motion]]' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship.")(p.84)
 
-> [!quote]
+> [!quote|notitle]
 > “主权隐藏在知识之中”
 > ("The sovereignty lieth hid in knowledge") — Francis Bacon (1597/1825, p.255)，Partaken 以此作为全章的框架性引语和结论性回应(p.85)
 
 
 ## 局限性与批评
 
-> [!warning]
+> [!warning|notitle]
 > - **作者自述局限** 未明确陈述。
 > - **读者批评空间** 论文以中美对立为核心案例，对中国[[Knowledge Transfer\|知识转移]]行为采用强烈[[Analytical Stance\|批判立场]]（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington [[Clash of Civilizations|文明冲突论]]作为[[Analytic Framework\|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为因果论证。
 

@@ -51,22 +51,22 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 毕业生特质（graduate attributes）在本科层次被广泛理解为"大学社群认同其学生在学期间应当发展的品质、技能和理解，这些特质将塑造他们对其专业和作为公民所能做出的贡献"（Bowden et al., 2000, p.3; 引自 Spronken-Smith et al., 2024, p.86）。它与[[Employability\|就业能力]]紧密相关，但涵盖更广——就业能力只是其中一个维度([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])。
 
-> [!info]
+> [!info|notitle]
 > 在博士层次，Senekal, Munnik, and Frantz（2022）的[[Systematic Review\|系统综述]]将博士毕业生特质定义为"毕业生完成博士学位后所拥有的品质、技能和能力"（引自 Spronken-Smith et al., 2024, p.87）。这一定义强调博士毕业生特质的**整体性**——不仅是研究技能，还包括人际、组织、公民和职业发展等多维能力。
 
 文献中亦使用 graduate outcomes、graduate skills、graduate qualities、graduate capabilities 等术语，与 graduate attributes 基本同义（Barrie et al., 2009; 引自 Wong et al., 2022, p.1341）。
 
-> [!quote]
+> [!quote|notitle]
 > "the qualities, skills and understandings a university community agrees its students would desirably develop during their time at the institution"（Bowden et al., 2000, p.3）
 
 ---
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Employability]] — 毕业生特质涵盖更广泛的人文素养（如[[Global Citizenship\|全球公民]]、[[Lifelong Learning\|终身学习]]），就业能力是其中一个维度([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])。就业能力[[Discourse|话语]]更偏向雇主要求和短期职场准备，毕业生特质则包含公民责任和终身发展
 > - **本科 vs 博士层次** — 本科毕业生特质强调通用性和基础性，博士层次则要求"更高水平的能力"([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.86]])。博士特质还包括学术声誉（scholarship）和职业管理（career management）等本科不常见的维度([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp.98–99]])
 
@@ -74,7 +74,7 @@ updated: 2026-10-15
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > 毕业生特质的兴起与高等教育市场化（marketisation）直接相关：政府与政策要求大学培养高技能劳动力以满足[[Knowledge-Based Economy\|知识经济]]需求，大学则将其用作学习质量、教学质量和[[Organizational Culture\|组织文化]]的标志（Hill et al., 2016; Bridgstock, 2009; Wald & Harland, 2019; 引自 Wong et al., 2022, pp.1340–1341）。
 >
 > 在澳大利亚、新西兰和英国，大学日益普遍地向潜在学生宣传其毕业生特质愿景，但早期研究集中在本科层次（Barrie et al., 2009; Normand & Anderson, 2017; 引自 Wong et al., 2022, p.1340）。
@@ -85,7 +85,7 @@ updated: 2026-10-15
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > 毕业生特质的内容因层次、国家和机构文化而异，但可归纳为五个跨层次的主题域。以下按主题组织，每个主题内先呈现本科层次的研究发现，再呈现博士层次的对应内容。
 
 ### 研究与学术素养
@@ -169,7 +169,7 @@ updated: 2026-10-15
 
 ## 理论基础
 
-> [!tip]
+> [!tip|notitle]
 > - **高等教育市场化理论** 大学需要向学生证明其价值和[[Return on Investment\|投资回报]]，推动了毕业生特质在本科层次的产生与发展([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1340]])。博士层次同样受此驱动——就业多元化使大学面临培养"不只做学术"的博士毕业生的问责压力([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.86]])
 > - **[[Disciplinary Socialization\|学科社会化]]理论（disciplinary socialization）** 博士培养不仅传递知识技能，更传递"什么是有价值的职业路径"的隐性规范。[[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]]的访谈揭示了这一机制：导师和院系文化主动暗示非学术路径是"次等选择"，从而系统性地压制了对可转移技能和职业发展的需求表达（p.96）
 
@@ -177,7 +177,7 @@ updated: 2026-10-15
 
 ## 实证发现
 
-> [!success]
+> [!success|notitle]
 
 ### 本科层次
 - [[Argument_Wong_2022_HERD|Wong et al. (2022)]]首次对 UK 大学毕业生特质进行全国性系统映射：Universities UK 137 所成员大学中，76 所（55%）公开列出了毕业生特质（截至 2020 年 1 月）（p.1343）
@@ -194,7 +194,7 @@ updated: 2026-10-15
 
 ## 争议与批评
 
-> [!warning]
+> [!warning|notitle]
 
 ### 本科层次的争议
 - **自上而下 vs 自下而上** 毕业生特质通常由高级管理层制定和推动，其是否充分征询师生意见存疑（Osmani et al., 2015; 引自 Wong et al., 2022, p.1342）。"自上而下"可能导致政策与师生观点脱节（Ball et al., 2012; 引自 Wong et al., 2022, p.1342）
@@ -212,7 +212,7 @@ updated: 2026-10-15
 
 ## 相关案例／政策
 
-> [!example]
+> [!example|notitle]
 > - 澳大利亚毕业生特质国家项目（Barrie et al., 2009）— 全国性系统映射
 > - 澳大利亚大学毕业生特质映射（Oliver & Jorre de St Jorre, 2018）— 除学科知识外识别出八类核心特质
 > - NZU 博士毕业生 profile — 在研究技能和专业知识之外，明确列出 13 项可转移技能和情感属性，包括全球视野、文化理解和环境素养三项[[Global Citizenship\|全球公民]]属性([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.88]])

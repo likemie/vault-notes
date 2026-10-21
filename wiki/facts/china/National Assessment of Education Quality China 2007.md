@@ -77,14 +77,14 @@ updated: 2026-10-16
 
 ## 争议与评论
 
-> [!note]
+> [!note|notitle]
 > 学界对中国在引入 [[PISA]] 标准与坚持国内教育传统之间的平衡存在不同评价。Xie et al.（2022）的体用框架分析指出：中国在操作层面采纳了 PISA 的技术工具（用），但保留了以国家课程标准和考试制度为核心的教育治理逻辑（体）。这种选择性采纳策略使中国既能与[[International Education\|国际教育]]评估体系对接，又能维护国内教育政策自主权。
 
 ---
 
 ## 相关概念／政策
 
-> [!note]
+> [!note|notitle]
 > [[Argument_Li_2025_HSSC\|Li et al. (2025)]]的[[Systematic Review\|系统综述]]将 NAEQ 作为 [[PISA]] 在中观决策层面影响教育改革的典型案例。
 
 > [!entry-map|notitle]

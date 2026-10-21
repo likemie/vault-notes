@@ -50,21 +50,21 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 伙伴关系连续体（Partnership Continuum）是 [[University Industry Demonstration Partnership\|UIDP]] 于 2012 年发布的[[University-Industry Collaboration\|产学合作]]分类框架（详见 [[Argument_UIDP_2012_PartnershipContinuum|Southerton et al. (2012)]]）。它将大学与产业之间的合作形式沿两条轴线组织：一条是**五个合作领域**（学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展），另一条是每个领域内的**三个参与层级**（交易、协作、联盟）([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012, pp.5–7]])。
 
 该框架的核心主张是：大学和企业对合作形式的认知通常高度碎片化——各部门只看到与自己职能匹配的那一段光谱，因此容易偏好某种熟悉的合作形式而忽略其他可能更有价值的路径。Partnership Continuum 的价值在于提供了一份"合作全景地图"，使组织能够系统性地诊断现有合作组合中的空白和机会（p.5）。
 
 2017 年 UIDP 基于 Partnership Continuum 框架进一步发布了 Collaboration Metrics Guide，为大学和企业提供了一套可供选择的指标菜单来评估单个战略产学伙伴关系的绩效。该指南的核心目标是使组织能够描绘出伙伴关系是应被培育、有成长机会，还是应升级为战略关系([[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019, pp.23–24]])。Collaboration Metrics 的指标菜单与 Partnership Continuum 中确定的互动类型紧密关联，形成了一套从"分类合作形式"到"度量合作绩效"的完整实践工具链。
 
-> [!example]
+> [!example|notitle]
 > 一个[[Technology Transfer\|大学技术转移]]办公室可能只看到赞助研究和专利许可（属于"研究者互动"领域），而完全没有意识到同一家企业已经在学生招聘会上活跃了十年（属于"学生导向参与"领域）。如果大学能跨越部门界限看到这张全景图，就可以把"招聘合作方"升级为"战略研究伙伴"——这正是 Partnership Continuum 试图促成的认知转变。
 
 ---
 
 ## 框架结构：五个领域 × 三个层级
 
-> [!abstract]
+> [!abstract|notitle]
 > 框架将[[University-Industry Collaboration\|产学合作]]形式组织为 5×3 矩阵（Tables 1–5, pp.9–19）：
 
 ### 五个合作领域
@@ -97,7 +97,7 @@ updated: 2026-10-16
 
 ## 核心原则
 
-> [!abstract]
+> [!abstract|notitle]
 > 报告正文和五个领域的详细表格（Tables 1–5）共同揭示了 Partnership Continuum 的三个底层假设([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012]])：
 
 - **非规定性（non-prescriptive）** 框架描述"有什么"而不规定"应该怎么做"。它是一张地图而非操作手册——地图帮助你看到全部可选路径，但走哪条路由你根据自己的目标和条件决定
@@ -108,7 +108,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Technology Transfer\|技术转移]] — 技术转移（专利许可、衍生企业）是 Partnership Continuum 上的一种特定合作形式，主要属于"研究者互动"领域和"经济发展"领域。连续体的范围要广得多，覆盖了学生培养、资源共享和机构合作等技术转移概念无法涵盖的维度
 > - vs Boccanfuso and Hall（2025）的活动-基础-特征三维框架 — 后者聚焦合作的**组织架构和制度安排**（使命领域、支撑基础、成功特征），Partnership Continuum 聚焦合作的**形式和深度光谱**。前者是"如何组织"，后者是"有哪些选择"
 > - vs 三螺旋（[[Triple Helix]]）— 三螺旋是大学-产业-政府三方互动的宏观理论模型，Partnership Continuum 则提供了三方可以在五个领域中以何种具体方式互动的微观操作清单
@@ -117,7 +117,7 @@ updated: 2026-10-16
 
 ## 在学术健康系统中的应用
 
-> [!example]
+> [!example|notitle]
 > 伙伴关系连续体在[[Academic Health System\|学术健康系统]]（AHS）中的适用方式与大学和 [[Academic Medical Center\|AMC]] 非常相似：AHS 参与从 Level 1 到 Level 3 的合作；与新伙伴的首次合作可以从任何级别进入；与同一伙伴可以同时在不同级别维持多个合作关系([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, p.188]])。
 
 > [!note] 互补视角：合作光谱（[[SPECTRUM]] of Partnerships）

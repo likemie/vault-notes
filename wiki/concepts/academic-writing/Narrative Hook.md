@@ -31,7 +31,7 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 叙事钩子（Narrative Hook）是学术引言中用于吸引、抓住或"钩住"读者的开篇语句。它借用了英语写作（English composition）中的概念，指那些让读者产生阅读兴趣、进而继续阅读全文的最初几句话（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 
 叙事钩子的核心功能是双重的：(a) 激发读者对研究的兴趣，(b) 传达一个明确的[[Research Question|研究问题]]或议题。好的叙事钩子能让广泛受众理解[[Research Topic|研究主题]]，同时避免将读者直接抛入陌生的细节之中。
@@ -42,7 +42,7 @@ updated: 2026-10-15
 
 Creswell & Creswell（2022, 第5章）用一个隐喻来说明叙事钩子的写作原则：
 
-> [!quote]
+> [!quote|notitle]
 > "We use the metaphor of the writer lowering a barrel into a well. The beginning writer plunges the barrel (the reader) into the depths of the well (the article). The reader sees only unfamiliar material. The experienced writer slowly lowers the barrel (the reader, again), allowing the reader to acclimate to the depths (of the study)."
 
 这个隐喻的含义是：有经验的作者会缓缓地将读者引入研究的深度，开头具有足够的概括性，让读者逐步理解主题。初学者则往往直接将读者抛入陌生的专业细节之中。

@@ -44,12 +44,12 @@ updated: 2026-10-16
 
 ## 背景
 
-> [!info]
+> [!info|notitle]
 > 1912 年民国建立后沿用清末以日本学制为蓝本的教育体系，至 1919 年前后，在[[New Education Movement\|新教育运动]]和[[John Dewey\|杜威]]访华的刺激下，教育改革者要求彻底改造学制。1919 年全国教育联合会通过"废止教育宗旨、颁布教育本义"决议案，标志着旧体系的正式动摇([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
 
 ## 政策文本摘要
 
-> [!abstract]
+> [!abstract|notitle]
 > 1922 年教育部颁布《学校系统改革案》("Decree on Reforming the Educational System")，以七项教育标准取代民国元年以社会需要为导向的"道德、实利、军国民教育"宗旨([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
 
 七项标准如下（"Decree" 1922, p.1，引自 Zhou & Westberg, 2024, p.617）：
@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ## 时间线
 
-> [!note]
+> [!note|notitle]
 > - **1919** — 全国教育联合会通过"废止教育宗旨"决议案([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])
 > - **1919–1922** — 教育改革者围绕新学制标准持续讨论，[[John Dewey\|杜威]]在教育部、北京美术学校、徐州等地就学制、教育目标、教材组织发表演讲([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.617]])
 > - **1922-10** — 教育部召集学制会议，通过决议并颁布《学校系统改革案》
@@ -72,15 +72,15 @@ updated: 2026-10-16
 
 ## 实施情况
 
-> [!example]
+> [!example|notitle]
 > **学制结构** 采用美国式六-三-三学制（小学六年、初中三年、高中三年），取代此前以日本-德国为蓝本的旧体系。
 
-> [!example]
+> [!example|notitle]
 > **课程改革（1923）** 小学课程只规定每学年最低课时数和各科课时比例；中学采用美国高中式学分制，学生可根据兴趣和需要选课。科目层面，将历史、地理、公民、卫生合并为"社会"科，并增设园艺、工艺美术、形象艺术等职业和艺术科目（"General Manual" 1923, pp.2–3，引自 Zhou & Westberg, 2024, p.618）。
 
 ## 与杜威思想的关联与偏差
 
-> [!abstract]
+> [!abstract|notitle]
 
 > [!success] 接受的部分
 > - 反对固定教育目标——[[John Dewey\|杜威]]认为"外部确立的目的是僵化的"，该改革体现了灵活应变的理念（Dewey [1916] 2018, pp.112–117，引自 Zhou & Westberg, 2024, p.618）。
@@ -94,11 +94,11 @@ updated: 2026-10-16
 
 ## 效果与评价
 
-> [!success]
+> [!success|notitle]
 > - 从法理上废除了固定的教育宗旨，代之以灵活、多元的标准体系([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
 > - 引入学分制与课程整合，突破了此前僵化的科目-课时安排([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.618]])。
 
-> [!warning]
+> [!warning|notitle]
 > - 新学制缺乏财政支持和法律细化，遭北洋政府冷遇([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.619]])。
 > - 激进地取消农业科目，与中国仍属农业国的国情脱节([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.618]])。
 > - [[Tao Xingzhi\|陶行知]]亦批评其激进性，呼吁"以科学的方法和态度温和改革学制"（Tao 1922, pp.129–130，引自 Zhou & Westberg, 2024, p.619）。

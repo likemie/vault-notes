@@ -38,14 +38,14 @@ updated: 2026-10-20
 # Knowledge Sabotage
 
 ## 定义
-> [!info]
+> [!info|notitle]
 > 知识破坏（knowledge sabotage）是[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）中[[Knowledge Transfer\|知识转移]]的一种模态，指蓄意对敌对方的知识资产造成损害——任何被蓄意施加的致残性损害，尤其是秘密实施以破坏经济或军事资源的行为（OED, 2020; 引自 Partaken, 2022, p.83）。与间谍活动不同，知识破坏的目标不是获取有价值的信息，而是摧毁权力对手和意识形态敌人的知识。
 
 ---
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Economic and Industrial Espionage]] — 间谍活动旨在获取知识为己所用；破坏旨在摧毁对方的知识，动机可能是[[Geopolitics|地缘政治]]、意识形态或纯粹的享乐主义([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])
 > - vs 监视与审查 — 监视（如[[China Social Credit System]]）和审查（如[[Great Firewall of China]]）主要涉及对知识流动的监控和阻断；破坏是主动的摧毁性行为
 
@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ## 核心要素
 
-> [!abstract]
+> [!abstract|notitle]
 > Partaken 识别出知识破坏的三种形式与特征([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])：
 > - **网络攻击作为主要武器** 未来的军事对抗和战场将主要在线进行，伤亡以 Gigabytes 计，主要武器是黑客攻击
 > - **国家行为者排名** 中国是最大的网络攻击来源国（~27% 直接攻击，含重定向可达 41%），其次是美国（~17%）、土耳其（10%）、巴西（8%）和俄罗斯（5%），但美国网络攻击因复杂性获得**荣誉提名（Baig, 2017; 引自 Partaken, 2022, p.83）**
@@ -63,7 +63,7 @@ updated: 2026-10-20
 
 ## 概念演变
 
-> [!note]
+> [!note|notitle]
 > 知识破坏作为 [[Geopolitics of Knowledge\|GPK]] 概念的分析范畴，经历了从物理破坏到网络破坏、从军事工具到[[Geopolitics|地缘政治]]模态的演变：
 > - **传统意义上的破坏** 破坏（sabotage）一词源于工业时代，原指工人对生产工具的蓄意损坏。OED 将其定义为任何被蓄意施加的致残性损害，尤其是秘密实施以破坏经济或军事资源的行为（OED, 2020; 引自 Partaken, 2022, p.83）
 > - **从物理到知识的位移** 在信息时代，破坏的对象从物理基础设施转向知识资产——数据、代码、算法、研究基础设施成为新的攻击目标。未来的军事对抗和战场将主要在线进行，伤亡以 Gigabytes 计([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.83]])
@@ -79,7 +79,7 @@ updated: 2026-10-20
 
 ## 理论基础
 
-> [!abstract]
+> [!abstract|notitle]
 > Partaken 将知识破坏置于 concealment-exposure（隐藏-暴露）的二元操控框架中分析，这一框架借鉴了 Nagel (1998) 关于个人隐私边界与人性关系的[[Philosophical Analysis in Education\|哲学分析]]：
 ... Applied fuzzy match at line 42-100.
 > - 隐藏（concealment）是有意使某些知识不可获取的行为；暴露（exposure）是在便利时刻披露特定知识以削弱对手([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.80]])

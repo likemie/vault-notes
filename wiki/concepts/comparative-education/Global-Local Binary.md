@@ -40,14 +40,14 @@ updated: 2026-10-16
 
 ## 定义
 
-> [!info]
+> [!info|notitle]
 > 全球/地方二元对立（Global/Local Binary）是一种将「全球」与「地方」视为对立两极的[[Analytic Framework\|分析框架]]。在这一框架中，地方/空间与领土邻近性、固定性、静态性和真实性相关联，而全球/空间被定义为抽象的、无限的、代表未来和运动的事物([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
 
 ---
 
 ## 核心批评
 
-> [!warning]
+> [!warning|notitle]
 > [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] 对全球/地方二元对立提出了三方面批评：
 >
 > - **「全球」并非纯粹外在**。所谓的「全球」不是某种外在的抽象力量，它有物质基础，是在地方环境中建构的。几乎没有哪个地方不以某种方式参与「全球」的建构（Massey, 2009, 引自）。例如，[[World Bank\|世界银行]]和 [[OECD]] 推广的「新自由主义」政策，其生产者和再生产者来自具体的地方，如果这些政策在某地被制定为教育政策，也是因为某些所谓的「地方」专家或官员认可了它们。
@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!example]
+> [!example|notitle]
 > - vs [[Relational Space\|关系性空间]] — 关系性空间概念旨在超越全球/地方二元对立，将空间理解为关系的效果而非固定的容器。
 > - vs [[Actor-Network Theory\|行动者网络理论]] — ANT 通过将全球-地方二元对立视为网络效果而非基础假设，提供了超越这一对立的方法论工具。
 > - vs [[Methodological Nationalism\|方法论民族主义]] — 方法论民族主义以民族国家为[[Unit of Analysis\|分析单位]]，隐含着全球/地方二元对立的空间假设。

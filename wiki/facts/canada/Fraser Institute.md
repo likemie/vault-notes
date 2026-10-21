@@ -8,8 +8,12 @@ summary: "加拿大温哥华的一家保守派自由市场经济与公共政策�
 type: fact
 subtype: organization
 region: canada
-fact_region: canada
-fact_kind: organization
+fact_region: "canada"
+fact_kind: "organization"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: think-tank
 headquarters: "Vancouver, Canada"
 established: "1974"
@@ -20,17 +24,14 @@ tags:
   - theme/school-choice
   - theme/accountability
 related_concepts:
-  - "[[Transparency Bypass]]"
   - "[[School Choice]]"
-  - "[[Test-Based Accountability]]"
+  - "[[Policy Network]]"
+  - "[[Transparency Bypass]]"
+  - "[[Global Universities Rankings]]"
   - "[[Soft Accountability]]"
-  - "[[Data Infrastructure]]"
-  - "[[New Public Management]]"
-related_theories:
-  - "[[Policy Instrumentation Theory]]"
-  - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Socioeconomic Status]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -49,11 +50,11 @@ updated: 2026-10-21
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 弗雷泽研究所（Fraser Institute，又译菲沙研究所）是加拿大极具政治影响力的独立自由市场公共政策智库，在教育治理领域充当了运用信息公开法规突破行政壁垒、自主编制民间学校排行榜以建构择校准市场竞争的关键行动主体。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> 弗雷泽研究所（Fraser Institute，又译菲沙研究所）是加拿大极具政治影响力的独立自由市场公共政策智库，在教育治理领域充当了运用信息公开法规突破行政壁垒、自主编制民间学校排行榜以建构[[School Choice|择校]]准市场竞争的关键行动主体。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1974 年创立于加拿大温哥华，由经济学家迈克尔·沃克（Michael Walker）与商界领袖共同发起，旨在对抗凯恩斯主义国家干预，倡导自由放任市场经济。
-> - **总部地点 / 业务辐射** 总部设于不列颠哥伦比亚省温哥华，并在多伦多、蒙特利尔、卡尔加里设立分支机构，业务辐射加拿大全境及北美公共政策网络。
+> - **总部地点 / 业务辐射** 总部设于不列颠哥伦比亚省温哥华，并在多伦多、蒙特利尔、卡尔加里设立分支机构，业务辐射加拿大全境及北美公共[[Policy Network|政策网络]]。
 > - **法人属性与经费基础** 注册为独立非营利慈善智库（Registered Charity），完全依赖私人基金会资助、企业赞助与个人捐赠维系运营，恪守拒绝接受政府任何财政资助的资助原则。
 > - **核心宗旨与法定职责** 宣称致力于通过研究与普及市场竞争机制提升公民生活质量；在基础教育领域，核心使命在于破除公立学校的垄断壁垒，主张赋予家长充分的择校权与学业质量知情权。
 
@@ -73,9 +74,9 @@ updated: 2026-10-21
 >   - **1998** 首次利用省统考原始数据自主换算学校综合学业指标，引发公立教师工会强力反弹。
 >   - **2000 年代中** 面对不列颠哥伦比亚省教育厅禁止官方制作排位表的行政立场，系统启动法律程序调取数据。
 >
-> - **2010 年代–至今 — 全域数据治理与透明度绕道机制深化**
+> - **2010 年代–至今 — 全域数据治理与[[Transparency Bypass|透明度绕道机制]]深化**
 >
->   将学校报告卡上线为动态交互式数据库，成为商业媒体、房地产中介与中产阶级择校的核心参考基准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+>   将学校报告卡上线为动态交互式数据库，成为商业媒体、房地产中介与中产阶级[[School Choice|择校]]的核心参考基准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
 
@@ -100,18 +101,18 @@ updated: 2026-10-21
 > - **世界经济自由度指数（Economic Freedom of the World）** 联合跨国学术网络编撰的全球各国自由市场制度年度评估报告。
 > - **教育选择与教育券倡导丛书** 系统出版论证特许学校、教育补贴券与私立教育竞争优势的政策研究专著。
 
-> [!citation-card] 智库推动民间问责的透明度绕道机制
-> 在加拿大不列颠哥伦比亚省，省教育部采取了温和的评估方式并明确拒绝公布官方排位表，但一家保守派智库（弗雷泽研究所）通过动用信息自由申请获取学校评估数据，并常年在媒体上发布年度学校排名，系统性绕过了官方政策。（Simmonds & Webb, 2013; 引自 Verger et al., 2019, p. 258）
+> [!citation-card] 智库推动民间问责的[[Transparency Bypass|透明度绕道机制]]
+> 在加拿大不列颠哥伦比亚省，省教育部采取了温和的评估方式并明确拒绝公布官方排位表，但一家保守派智库（弗雷泽研究所）通过动用信息自由申请获取学校评估数据，并常年在媒体上发布年度学校排名，系统性绕过了官方政策。[[Argument_Verger_2019_Discourse|(Simmonds & Webb, 2013; cited in Verger et al., 2019, p. 258)]]
 >
-> *In British Columbia (Canada), where the provincial education ministry has adopted a soft approach to assessment and explicitly refused to publish official league tables, a conservative think tank (the Fraser Institute) has systematically circumvented official policy by using Freedom of Information requests to access school assessment data and publish annual school rankings in the media.*
+> *In British Columbia (Canada), where the provincial education ministry has adopted a soft approach to assessment and explicitly refused to publish official [[Global Universities Rankings|league tables]], a conservative think tank (the Fraser Institute) has systematically circumvented official policy by using Freedom of Information requests to access school assessment data and publish annual school rankings in the media.*
 
 ---
 
 ## 影响与体系成效
 
 > [!indicators] 影响力维度
-> - **制度突破成效** 弗雷泽研究所的做法在政策社会学中被正式提炼为“透明度绕道机制”（[[Transparency Bypass]]）：证实即便国家行政机关承诺实施低利害软问责并叫停官方排名，外部民间资本与智库依然能够合法调取底层数据，自发构筑去中心化的民间高利害准市场问责网络。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
-> - **社会与资本反响** 其报告卡直接影响了温哥华等大都市区的学区房产估值、中产阶层家庭安家择校决策，并反向对公立学校校长施加了巨大的声誉竞争压力。
+> - **制度突破成效** 弗雷泽研究所的做法在政策社会学中被正式提炼为“[[Transparency Bypass|透明度绕道机制]]”（[[Transparency Bypass]]）：证实即便国家行政机关承诺实施低利害[[Soft Accountability|软问责]]并叫停官方排名，外部民间资本与智库依然能够合法调取底层数据，自发构筑去中心化的民间高利害准市场问责网络。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> - **社会与资本反响** 其报告卡直接影响了温哥华等大都市区的学区房产估值、中产阶层家庭安家[[School Choice|择校]]决策，并反向对公立学校校长施加了巨大的声誉竞争压力。
 
 ---
 
@@ -123,4 +124,4 @@ updated: 2026-10-21
 > > 围绕弗雷泽研究所的报告卡实践，学界与社会力量展开了激烈论争。
 > >
 > > - **新自由主义与家长知情权视角** 认为智库运用公开法律打破官僚信息垄断，为普通纳税人提供了衡量公立教育投资成效的客观镜子，促进了教育系统的优胜劣汰。
-> > - **教育社会学与工会批判视角（如 Simmonds & Webb, 2013）** 指责其报告卡采用粗暴的单维学业加权算法，完全忽视生源家庭社会经济背景的决定性影响，客观上造成了富裕社区学校高分、弱势社区学校被污名化的恶性分化循环，严重破坏了公立教育的公共属性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
+> > - **教育社会学与工会批判视角（如 Simmonds & Webb, 2013）** 指责其报告卡采用粗暴的单维学业加权算法，完全忽视生源[[Socioeconomic Status|家庭社会经济背景]]的决定性影响，客观上造成了富裕社区学校高分、弱势社区学校被污名化的恶性分化循环，严重破坏了公立教育的公共属性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]

@@ -98,7 +98,7 @@ citation_aliases:
 
 ## 理论框架
 
-> [!abstract]
+> [!abstract|notitle]
 > 本章属于历史综述（historical review），不以单一理论为[[Analytic Framework\|分析框架]]，而是整合多条理论线索来组织对 UIR 演变的追溯：
 
 - **[[Systems of Innovation|创新系统理论]](Lundvall et al., 2002)**——将创新理解为多行动者在制度环境下的集体学习活动，是本章组织材料的核心视角。它帮助读者理解：UIR 不是孤立的人际互动，而是嵌套在法律框架、金融系统、文化规范等多层制度之中的系统行为
@@ -110,14 +110,14 @@ citation_aliases:
 
 ## 研究方法
 
-> [!info]
+> [!info|notitle]
 > 本章为[[Literature Review\|文献综述]]，综合了大量历史研究(Arora et al., 2020; Martin, 2012)、政策分析(Schot & Steinmueller, 2018; Lindner et al., 2024)、实证调查(Cohen et al., 2002; Hughes & Kitson, 2012)和大型纵向数据库（美国 [[National Science Foundation\|NSF]] HERD Survey、英国 HEBCI Survey）。资料来源覆盖美国、英国、欧洲和中国的政策演变。
 
 ---
 
 ## 核心论证
 
-> [!example]
+> [!example|notitle]
 > 本章的论证可以拆解为五个递进步骤："环境变了 → 角色跟着变 → 互动模式也变了 → 什么因素影响成败 → 未来往哪走"。每一步都在为下一步积累分析基础。
 
 ### 第一层：创新的环境变了——三个维度同时变
@@ -319,7 +319,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 
 ## 主要发现
 
-> [!success]
+> [!success|notitle]
 > 1. UIR 对驱动和赋能创新的重要性日益增长，这不是短期趋势或政策修辞，而是过去五十年长期结构性变化的结果：创新性质从线性到系统、政策[[Paradigm\|范式]]从补市场到管系统、[[Knowledge Production\|知识生产]]组织从企业实验室一体化到大学-初创-大企业分工协作(p.50)。
 > 2. UIR 的规模持续扩大，关系型互动取代交易型互动成为主导。美国产业资助大学研发从 1990 年 22 亿增至 2022 年 57 亿美元，英国大学[[Knowledge Transfer\|知识转移]]收入从 2004 年 43 亿增至 2022 年 87 亿美元（均为不变价）(p.44)。
 > 3. 大企业从大量零散学术互动转向少数战略性大学伙伴，始于 2000 年代、加速于 2010 年代，其逻辑是深度关系在[[Tacit Knowledge|隐性知识]]转移和长期信任建立上比广度覆盖更具优势(pp.44–45)。
@@ -331,18 +331,18 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 
 ## 关键引用
 
-> [!quote]
+> [!quote|notitle]
 > “创新过程‘既不平滑也不线性，而且通常表现得不太规矩’。”
 > ("Innovation processes were 'neither smooth nor linear, nor often well behaved'.")(Kline & Rosenberg, 1986, p.285,引自 p.28)
 
-> [!quote]
+> [!quote|notitle]
 > Universities... becoming "more deeply embedded in [[Systems of Innovation\|innovation systems]], seeking to actively foster interactions and spillovers to link research with application and commercialization, and taking on roles of catalyzing and animating economic and social development."(Youtie & Shapira, 2008, p.1189,引自 p.42)
 
 ---
 
 ## 自述局限
 
-> [!warning]
+> [!warning|notitle]
 > 本章作为综述性章节，未明确陈述自身方法局限。但可识别以下边界条件：
 > - 分析主要聚焦美国、英国和部分欧洲国家，对中国之外的亚洲国家、非洲和拉丁美洲的 UIR 演变涉及有限
 > - 影响 UIR 的因素框架整合自多个以不同方式测量同一因素的研究（如"信任"有时被研究为障碍、有时被研究为促进因素），使文献间的可比性受限(p.49)
