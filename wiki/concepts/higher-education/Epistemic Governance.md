@@ -154,6 +154,9 @@ updated: 2026-10-22
 > [!claim] [[Argument_Zapp_2022_Springer|Zapp (2022)]]
 > **知识网络对全球治理议程的认知支撑** 扎普指出，全球治理已从单纯依赖国家强制力的硬治理拓展为以观念和知识为资源的软治理架构。大学依托其科学研究的普适性与中立性声誉，通过研究对齐、教学供给、组织社会责任对齐以及跨国网络联结四重机制，深嵌于[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）等全球重大议程。国际组织通过系统引用学术文献，将分散的专业[[Research Translation|研究转化]]为全球政策的认知基础设施；这种知识流动使符合科学规范的议题获得天然正当性，确立起不依赖枪炮却深刻约束成员国行为的认知治理基准。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–153)]]
 
+> [!claim] [[Argument_Zapp_2017_IJED|Zapp (2017)]]
+> **国际组织认知治理的三维运作机制** 扎普指出，全球治理机制可划分为规制性（强制）、规范性（道德）与认知/认识论（文化与知识）三大维度。现代多边机构（如世界银行）依托知识生产（自主科研与学术专著发表）、知识管理（文献库集中化与指标标准化）与知识传播（官员培训、实地项目与仪式赞誉）三维机制行使认知治理权威。国际组织不仅是政策协调平台，更是世界社会普遍理性化与科学化变迁的“理论家”，通过自我引证与技术中立性话语将特定政策范式建构为全球普遍常识。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2–5, 9–10)]]
+
 ---
 
 ### 命题二　标准化测评与大学排名作为认识论治理装置规训微观办学实践并固化中心外围依附
@@ -193,6 +196,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1990s — 国际关系与社会学的“知识转向”** [[Constructivist Paradigm|建构主义]]与[[World Society Theory|世界社会理论]]（Wendt, 1999; Meyer et al., 1997）揭示规范、[[Cultural Models|文化模型]]与意义系统的建构性力量，治理研究从关注国家[[Hard Power|硬实力]]竞争拓展至观念与认知基础。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 145)]]
 > - **2000s–2010s — 欧洲教育政策分析与证据生态工程开拓** Normand (2016) 将概念系统引入欧洲教育治理分析；[[OECD]] [[Centre for Educational Research and Innovation|CERI]] 自 2000 年开启从外在指标调控转向重塑主权国家内部“教育知识治理”（Education Knowledge Governance）与[[Evidence Ecosystem|证据生态系统]]建设。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
+> - **2017 — 国际组织“认知治理”三维分析框架奠定** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）系统建构涵盖知识生产、知识管理与知识传播的三维认知治理模型，通过多源纵向统计揭示世界银行如何凭借科研产出、指标标准化与全球培训演进为全球教育认知治理中枢。
 > - **2015–2022 — 大学嵌入全球治理与软性规训机制确立** 扎普（[[Argument_Zapp_2022_Springer|Zapp, 2022]]）阐明高等教育通过四重对齐机制深度嵌入 [[UN Sustainable Development Goals|SDGs]] 知识治理网络；同时批判学者（[[Argument_Huang_2020_APJE|Huang & Kan, 2020]]; [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025]]）系统揭示学校测评与大学排名作为[[Epistemology|认识论]]治理装置的规训与象征暴力机制。
 > - **2024 至今 — 后西方地缘转向与关系性多轨治理探索** 周孟芬与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）基于亚洲与丝路多边大学联盟经验，揭示非西方新兴大国如何依托天下关系性哲学，将开放[[Knowledge Diplomacy|知识外交]]与精英[[Knowledge Power|知识权力]]统一于多极化跨国治理实践。
 
@@ -205,6 +209,7 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
+> | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | 世界银行 1973–2009 年研究课题汇编、1962–2010 年教育项目库（EdStats）、Scopus（1977–2013）及 OKR 数据库 | 纵向行政数据统计、[[Trend Study\|趋势计量]]与政策引文分析 | 论文出版量、教育科研支出、OKR 下载量、SABER 诊断国别数、教育借贷总额 | 累计生产 19,000+ 份出版物（教育成果是高产大学均值的 3 倍）；2001–2010 年教育科研支出 4,900 万美元；OKR 收录 6,900+ 份教育文献（日均下载 6,164 次）；SABER 覆盖 100+ 国开展 200+ 次评估 | 全样统计与跨期趋势普查 | 反映世界银行作为全球教育科研生产者与标准化指标中枢的规模演化，未测算政策采纳的因果干预效应 |
 > | [[Argument_Zapp_2022_Springer\|Zapp (2022)]]（引述 Zapp, 2017b, 2020a; Zapp & Lerch, 2020） | 全球 1325+ 国际组织、46.5 万个学位项目及跨越半个世纪的 IO 旗舰报告 | 跨国组织网络计量与文本[[Content Analysis\|内容分析]] | 大学与 IO 联合出版规模、国际化项目数量、报告科学引用率 | 公立大学与国际组织平均合署学术成果达 40,000 篇；22,451 个学位项目具备国际取向；1980 年代末起 IO 全球报告普遍建立学术引用体系 | 普查与大规模文本计量 | 说明大学知识深度嵌入跨国组织运作，但未反映知识转化的因果干预效能 |
 > | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] | “[[Belt and Road Initiative\|一带一路]]”沿线两大跨国大学联盟（[[University Alliance of the Silk Road\|UASR]] 与 [[Asian Universities Alliance\|AUA]]） | 多案例比较研究与档案制度文本分析 | 联盟成员规模、地理覆盖范围、治理结构与竞争性联合科研资助门槛 | UASR 吸纳 38 国 160+ 所高校且保持开放低门槛；AUA 严格限定为 13 国 15 所顶尖旗舰大学，单项联合研究资助达 13.5 万美元并实行校长理事会闭门治理 | 官方档案与一手调研数据 | 证实多边高等教育知识治理呈现开放大众化与精英排他性的双轨制度设计 |
 
@@ -240,6 +245,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 构建涵盖知识生产、管理与传播的三维认知治理模型，实证揭示世界银行作为全球教育智力中枢的演化历程（pp. 1–11）。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 结合[[World Society Theory|世界社会理论]]与组织能动性框架，系统论述大学如何通过四大机制嵌入全球知识治理及 [[UN Sustainable Development Goals|SDGs]]（pp. 143–161）。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 梳理 [[Centre for Educational Research and Innovation|OECD CERI]] 二十年教育知识治理与证据生态演进，剖析国际组织对成员国科研体制的深层调控（pp. 16–27）。
 > - [[Argument_Huang_2020_APJE|Huang and Kan (2020)]] — 批判[[OECD|经合组织]]依托学校级国际测评推行量化[[Epistemology|认识论]]治理，揭示空间同质化对微观教育生态的去情境化冲击（pp. 422–424）。

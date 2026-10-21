@@ -114,6 +114,7 @@ updated: 2026-10-22
 
 > [!feature] 知识银行运作的核心制度构件
 > - **自指性最佳实践数据库（[[Warehousing of Good Practices|Warehousing of Good Practices]]）** 建立集中化政策数据库，将各借贷国的试点数据汇总至华盛顿总部清洗后归纳为通用处方，在后续国别借贷报告中反复循环引用自身既往项目，形成自我引证的实证支持体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **认知治理三维架构（Epistemic Governance Triad）** 迈克·扎普（Mike Zapp）实证揭示，知识银行并非松散的技术咨询，而是依托知识生产（自主科研与学术专著发表）、知识管理（文献库集中化与 SABER/STEP 指标标准化）与知识传播（决策者培训、实地项目干预与仪式性赞誉）三维机制构建的全球认知治理网络，其教育学术产出达到全球顶尖大学均值的三倍。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]
 > - **[[Epistemology|认识论]]规训与指标诊断体系（[[Epistemic Governance|Epistemic Governance]] & [[Systems Approach for Better Education Results|SABER]]）** 推出涵盖 13 个领域的政策基准量规，将复杂的国家教育治理体制转译为可量化比较的标准指标，使外部政策干预呈现为客观、技术化的专业评估工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–543)]]
 > - **信贷资金作为政策杠杆（Funds as Policy Levers）** 资金注入构成了促使借款国政府协商并推进深层体制改革的关键机制；脱离贷款资金支持的单纯政策建议难以克服国内制度阻力（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 472–473]]）。然而批判学者指出，[[World Bank|世行]]资金在受援国教育总支出中的占比实际不足 0.5%，正是资金体量的有限性促成了其在 1996 年转向“知识银行”，转而依托有限资金杠杆推动借款国采纳成套的外部制度模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]
 > - **理念成熟时滞与政策风潮更迭（Policy Fashion Cycles & Policy Maturation Lag）** 知识银行提出的前沿理念往往需要经历 10 至 20 年的漫长渗透方能被个别受援国在国家层面采纳（如学生学业评价、教科书标准化）；同时其政策优先项呈现出周期性的明显波动（从 20 世纪 60 年代大力资助高等教育，到暂停大学贷款十余年，再到在[[Knowledge-Based Economy|知识经济]]背景下重新支持高等教育）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 473–474)]]
@@ -149,6 +150,9 @@ updated: 2026-10-22
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
 > **0.5% 资金杠杆与成套西方制度蓝图的输出** [[Jason Beech|杰森·比奇]]（Jason Beech）指出，世界银行自 1963 年发放首笔教育贷款后，至 1995 年已成为发展中国家最大的单一外部出资方；然而，其资金实际占[[Development Education|发展中国家教育]]总开支的比重不足 0.5%。正是因为资金份额有限、无法单靠资本体量主导全局，行长沃尔芬森才在 1996 年正式宣布转型为“知识银行”。这一转型的制度实质在于：借款国在接受微弱外部信贷的同时，因 0.5% 的资金杠杆而引入了整套由世行统一设计的去情境化教育制度模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]
 
+> [!claim] [[Argument_Zapp_2017_IJED|Zapp (2017)]]
+> **认知治理网络与全球教育研究的垄断性生产** 扎普基于长时段纵向数据论证指出，知识银行的实质在于通过庞大的实体化科研机构（DEC）与出版网络行使认知治理权威。世界银行教育部门自 1996 年起充当全行知识管理系统（EKMS）试点的先导部门；其教育学术产出在 2000 年代初出现爆发式增长，年发文量达到顶尖大学均值的三倍，并依托开放知识库（OKR）与开放学习园区（OLC）实现了从科学研究生产、指标标准化到全球官员培训的全流程认知覆盖。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–8)]]
+
 ---
 
 ### 命题二　政策理念面临长周期时滞与政策风潮更迭
@@ -169,6 +173,7 @@ updated: 2026-10-22
 > | **信贷杠杆与受援动机命题** | 知识建议的实质效能依托于主权信贷资金的财务约束，脱离贷款资金后纯粹智库咨询设想往往受制于借款国国内政治现实。 | 解构世界银行从资金银行向理念银行转型的现实边界与受援国博弈机制。 | [[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 472–473)]] |
 > | **认识论规训与自指中介命题** | 知识银行通过集中化[[Warehousing of Good Practices\|最佳实践知识库]]与基准量规构建了自我引证体系，将特定新自由主义经济学范式包装为客观技术中立的评估依据。 | 批判全球教育[[Policy Brokerage\|政策中介]]机制、[[Systems Approach for Better Education Results\|SABER]] 诊断工具与多边知识垄断。 | Stone (2000); [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–545)]] |
 > | **微小杠杆与蓝图捆绑命题** | 世行资金仅占受援国教育预算不足 0.5%，促使其转向知识银行定位，以较小资金带动借款国采纳成套的外部教育制度方案。 | 揭示[[Multilateral Development Bank\|多边开发银行]]以[[Knowledge Mediation\|知识中介]]辅助结构调整、引导受援国引入普遍模型的机制。 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 345–346)]] |
+> | **认知治理与学术生产垄断命题** | 知识银行依托内部科研体系与集中化出版网络演进为全球最高产的教育研究中枢，通过知识生产、管理与传播构筑起具有深层规训力的认知治理体系。 | 解析世界银行作为全球智库与教育科学研究生产者的实体化组织机制与自指性循环。 | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] |
 > | **成熟时滞与政策风潮命题** | 政策理念具有漫长的跨国采纳时滞，且多边银行内部议程存在周期性的学术时尚更替，容易给受援国制度建设造成代际断裂。 | 考察国际组织政策借贷与跨国政策转移（如高等教育贷款长期冻结）中的政策摇摆问题。 | [[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 473–474)]] |
 
 ---
@@ -180,8 +185,10 @@ updated: 2026-10-22
 > - **1980 — 《教育部门政策文件》与[[UNESCO|教科文组织]]决裂** 世行正式发布具有里程碑意义的政策白皮书，单方面终结此前与联合国教科文组织长达 16 年的《合作协定》，确立了以[[Human Capital Theory|人力资本理论]]与[[Cost-Benefit Analysis|成本效益分析]]为核心的自主教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1989 — [[World Development Indicators|世界发展指标]]（World Development Indicators, WDI）确立[[Governing by Numbers|数字治理]]基础** 正式以数据库形式发布世界发展指标，[[Performance Indicators|教育指标]]从最初的 116 项扩展至 1,600 余项，开创跨国量化监测先河，构成了知识银行依托数据重塑全球政策议程的统计基础。
 > - **1995–1996 — 0.5% 资金比重与沃尔芬森“知识银行”战略转型** 1995 年世行成为南方国家最大外部出资方，但其资金占借款国教育总支出不足 0.5%；由于无法仅靠资本体量主导全局，行长沃尔芬森于 1996 年正式宣布转型为“知识银行”，开启以较小资金推动借款国引入成套西方制度方案的时期。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
+> - **1996–1998 — 教育部门先导试验与教育知识管理系统（EKMS）奠基** 教育部门率先被确立为全行知识管理系统试点的关键领域；奥鲁克（Maris O'Rourke）主持构建教育知识管理系统（EKMS）与教育咨询服务部，开创了电子化档案与知识仓储转化模板。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 > - **1999 — [[Global Development Network|全球发展网络]]（Global Development Network, GDN）去中心化构想的实践起伏** 建立全球发展网络以期培育全球南方本土研究能力；然而在华盛顿总部的组织惯性下，GDN 逐渐被边缘化，决策权力仍高度集中于总部统筹的评估工具中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]
 > - **2000s–至今 — [[Systems Approach for Better Education Results|SABER]] 量规体系、买方市场竞争与自指性中介** 推出改善教育成果系统分析法（SABER）等 13 领域基准诊断量规，确立自指性最佳实践知识库；与此同时，新兴市场国家自主融资能力提升使世行面临更激烈的业务竞争，促使知识银行探索基于成果的信贷等新型治理工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 475–476)]]
+> - **2010–2014 — 开放发展战略、STEP 跨国技能测评与全球知识集散地成型** 启动开放知识与开放数据倡议，设立开放知识库（OKR）与开放学习园区（OLC），配合 STEP 成人技能测试与 SABER 全球评估，实现从微观借贷向全方位跨国认知治理的系统升级。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 
 ---
 
@@ -228,6 +235,17 @@ updated: 2026-10-22
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | 世界银行 1973–2009 年研究汇编、1962–2010 年教育借贷数据库（EdStats）、Scopus（1977–2013）及 OKR 数据库 | 纵向行政数据统计、[[Trend Study\|趋势计量]]与引文分析 | 论文出版量、教育科研支出、OKR 下载量、SABER 诊断国别数、教育借贷总额 | 累计生产 19,000+ 份出版物（教育成果是高产大学均值的 3 倍）；2001–2010 年教育科研支出 4,900 万美元（280 项成果）；OKR 收录 6,900+ 份教育文献（日均下载 6,164 次）；SABER 覆盖 100+ 国开展 200+ 次评估 | 全样统计与跨期趋势普查 | 反映世界银行作为全球教育科研生产者与标准化指标中枢的规模演化，未测算政策采纳的因果干预效应 |
+
+---
+
 > [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
@@ -251,3 +269,4 @@ updated: 2026-10-22
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验[[World Bank|世界银行]]作为知识银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从[[UNESCO|教科文组织]]依附期到回报率帝国与知识银行演变的全过程（pp. 540–550）。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角反思知识银行的“构想 vs 资金”辩论，指出政策建议之所以被认真采纳根本上依赖于巨额贷款资金的财务约束机制，纯粹知识咨询无法单独发挥改革实效，并揭示了政策理念成熟的长周期与政策风潮的周期性更替（pp. 466, 472–474）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示世界银行教育贷款仅占受援国预算不足 0.5% 的事实，剖析其转向“知识银行”以极小财务杠杆捆绑输出西方整套去情境化教育制度愿景的深层机制。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 基于多源长时段统计与 Scopus 文献计量，系统解构世界银行“知识转向”及涵盖知识生产、管理与传播的三维认知治理体系（pp. 1–11）。

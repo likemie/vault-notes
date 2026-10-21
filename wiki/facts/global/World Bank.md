@@ -188,9 +188,10 @@ updated: 2026-10-22
 >
 >   詹姆斯·沃尔芬森（James Wolfensohn）主导世行转型为知识银行。比奇指出，这意味着借款国在获得有限资金的同时，被迫成套借入西方技术官僚量身打造的整套教育制度愿景；而[[Claudio de Moura Castro|卡斯特罗]]（Castro）的实务观察表明，借款国重视世行建议的根本原因在于背后捆绑的主权贷款支持，脱离资金的纯政策咨询会重蹈教科文组织的无效覆辙。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
 >
->   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景。
+>   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景；教育部门率先设立教育知识管理系统（EKMS）与教育咨询服务部开展数字化知识集散先导试验。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 >   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，促使非政府组织转变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
+>   - **2010–2014** 启动开放发展倡议与开放知识库（OKR），实施 STEP 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 SABER 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 >   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
 >   - **21 世纪** 拉美与亚洲中等收入国家主权信用提升、可直接在国际私人资本市场低成本融资，世行面临从卖方市场转向买方市场的业务缩水危机，被迫推出基于成果的框架贷款（Program-for-Results，PforR）与分步递进式信贷，以降低借款国的官僚合规交易成本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 475–476)]]
 >
@@ -265,7 +266,7 @@ updated: 2026-10-22
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 年均教育信贷承诺额超 30–50 亿美元，是全球发展中国家最大的外部教育公共资助方；在华盛顿及全球驻外使团拥有数千名经济与技术专家。
-> - **学术与[[Knowledge Production|知识生产]]** 发展经济学工作报告年产出数百篇，其[[Return on Investment|教育投资回报率]]研究、教师缺勤率调查与 [[Randomised Controlled Trials|RCT]] 实验成果在发展经济学界具有极高的引文声誉。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
+> - **学术与[[Knowledge Production|知识生产]]** 发展经济学工作报告年产出数百篇，其教育科研产出是全球前 13 所高产大学均值的三倍（[[Argument_Zapp_2017_IJED|Zapp, 2017, p. 6]]）；其[[Return on Investment|教育投资回报率]]研究、教师缺勤率调查与 [[Randomised Controlled Trials|RCT]] 实验成果在发展经济学界具有极高的引文声誉。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
 > - **政策与制度渗透** 深度主导了全球南方 100 多个国家的国家教育部门计划（ESP）编制；将量化问责指标直接写入主权借贷契约，重塑了借贷国财政部与教育部之间的权力支配关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!finding-cards] 关键成效与辐射影响
@@ -281,6 +282,10 @@ updated: 2026-10-22
 > - **1/3** 1980 年代世界银行激进强推[[Structural Adjustment Programs|结构调整政策]]附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
 > - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
 > - **1,600** （项） [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
+> - **3×** 世界银行教育学术产出达到全球前 13 所高产大学均值的倍数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
+> - **6,900+** （份） 开放知识库（OKR）收录的免费教育学术文献总数，累计下载近 900 万次。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
+> - **3,261** （项） 教育统计查询系统（EdStats）整合的跨国可比教育指标数量。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
+> - **10,000+** （个） 1947 年以来世界银行发起的教育项目总数，总投资累计达 690 亿美元。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 ---
 
@@ -398,3 +403,4 @@ updated: 2026-10-22
 > | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视世界银行等机构的教育援助政策，揭示其防卫性规训与扶植影子国家的政治经济学后果。 |
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 实证反思世界银行结构调整方案与外债危机对拉美教育投入和产业研发的负面制度锁定。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 解构世界银行在拉美依托守门人垄断[[Discourse\|话语]]与制度愿景借贷的微观知识流动悖论。 |
+> | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | Argument | 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育认知治理中枢的三维机制。 |

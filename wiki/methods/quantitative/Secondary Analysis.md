@@ -156,5 +156,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — 以英国全国儿童发展研究（NCDS）等大型队列数据为例，说明二手分析如何通过新路径挖掘原始研究未涵盖的发现。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 针对西班牙国家[[Evaluation Research|评估研究]]所与教育部官方统计展开二手分析，提取初中 33% 失败率与高校 95% 近亲繁殖数据，系统揭露均质综合学制与博洛尼亚对标的制度病理。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对世界银行年度研究汇编（1973–2009）与 EdStats 数据库展开二手分析，实证解构世行教育认知治理的演变（pp. 3–6）。
 
 ---

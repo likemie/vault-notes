@@ -10,7 +10,7 @@ summary: "问卷设计与调查研究中针对受访者私密、威胁或具社�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -52,7 +52,7 @@ updated: 2026-10-22
 > - **输出形式** 优化后的问卷题项表述、题序编排规程、施测模式选择方案（如密封信封法、日记法）及偏差评估指标。
 
 > [!citation-card] 敏感性必须通过受访者的眼睛来看待
-> 随着问题变得更具威胁和敏感，研究者理应预期更大的偏差和不可靠性。敏感性和威胁必须通过受访者的眼睛来看待，而非问卷设计者的眼睛；对研究者看似无害的事项，对受访者可能高度敏感甚至具有冒犯性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20, p. 156)]]；引自 Sudman & Bradburn (1982, p. 86)
+> 随着问题变得更具威胁和敏感，研究者理应预期更大的偏差和不可靠性。敏感性和威胁必须通过受访者的眼睛来看待，而非问卷设计者的眼睛；对研究者看似无害的事项，对受访者可能高度敏感甚至具有冒犯性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20, p. 156)]]；引自 Sudman and Bradburn (1982, p. 86)
 >
 > *As the questions become more threatening and sensitive, it is wise to expect greater bias and unreliability. Sensitivity and threat are to be viewed through the eyes of respondents rather than the questionnaire designer; what might appear innocuous to the researcher might be highly sensitive or offensive to participants.*
 

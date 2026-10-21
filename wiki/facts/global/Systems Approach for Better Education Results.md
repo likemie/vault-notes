@@ -90,7 +90,7 @@ updated: 2026-10-22
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2011–2014 — 工具研发与指标基准确立期** 华盛顿总部组织学者与技术专家编制 13 个领域的政策诊断框架与数据采集[[Questionnaire\|问卷]]，并在东欧、拉美与非洲十余个国家完成先导试验。
+> - **2011–2014 — 工具研发、指标基准确立与爆发式普及** 华盛顿总部组织学者与技术专家编制 13 个领域的政策诊断框架与数据采集[[Questionnaire\|问卷]]，并在东欧、拉美与非洲完成先导试验。截至 2014 年短短一年间，SABER 诊断工具在 100 余个国家实施逾 200 次，出版 55 份专题国别报告，不仅覆盖中低收入国家，亦吸引了芬兰、法国与新加坡等发达国家自愿参与。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **2015–2018 — 全球大规模诊断与方案库建构期** 扩展至全球逾百个主权国家，出版数百份国别政策诊断报告（SABER Country Reports），形成庞大的跨国政策数据库。
 > - **2019–至今 — SABER 2.0 与全球教育政策仪表板整合** 启动 SABER 2.0 迭代，将静态的政策法律条文评估与一线的“全球教育政策仪表板（Global Education Policy Dashboard，GEPD）”实地教学测量相融合，强化对政策落地依从性的监控。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
@@ -120,11 +120,15 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心实证结论
 > - **主要效应（自指性循环运作）** 塞策等学者（Seitzer, Baek, & Steiner-Khamsi, 2023）利用[[World Education Reform Database\|世界教育改革数据库]]（WERD）证实，世界银行的政策报告在推介建议时呈现高度的自指性，极少汲取非世行体系的跨国经验，而是反复循环引用自身在 SABER 中归档的最佳实践方案。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **认知治理与全球对标效应** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）指出，SABER 设立从“潜伏级”至“领先级”的四级成熟度量规，成为人类历史上首个意图跨越发展水平全面对标主权国家教育体系的多元基准工具，其在 2014 年一年内即在百余国开展逾 200 次诊断，将外部实证研究转译为刚性评级指标。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 > - **[[Heterogeneity\|异质性]]效应（对本土[[Knowledge Production\|知识生产]]的边缘化）** 施泰纳-哈姆西等指出，SABER 等集权式全球指标数据库的确立，直接导致旨在赋权全球南方本土学者的[[Global Development Network\|全球发展网络]]（GDN）被架空，发展中国家专家沦为为华盛顿总部填报数据的“翻译员与信息员”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 > - **边界条件** 评分基于中央层面的法定文本与行政法令，难以准确测量地方官僚执行中的脱耦（[[Cognitive Decoupling|decoupling]]）与非正式协商实践。
 
 > [!stat-cards]- 关键实证数据
-> 设立 13 个标准化教育政策评估领域、涵盖 4 级成熟度评价量规、覆盖全球 100 余个国家、沉淀数十万条法定规章诊断数据条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> - **13** （个） 标准化教育政策评估领域。
+> - **4** （级） 政策成熟度评价量规（潜伏级、起步级、确立级、领先级）。
+> - **200+** （次） 截至 2014 年在 100 多个国家开展的政策诊断应用总次数，发布 55 份专题国别报告。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
+> - **100+** 覆盖的主权国家数量，沉淀数十万条法定规章诊断数据条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 ---
 
@@ -156,4 +160,5 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[World Bank\|世界银行]]如何依靠 SABER 构建自指性最佳实践仓库，并剖析其与[[OECD\|经合组织]]外向型国别借鉴模式的本质分野。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示[[World Bank|世界银行]]如何依靠 SABER 构建自指性最佳实践仓库，并剖析其与[[OECD|经合组织]]外向型国别借鉴模式的本质分野。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 记录 SABER 在百余国的爆发式诊断应用与跨国教育政策基准标准化机制（pp. 7–8）。
