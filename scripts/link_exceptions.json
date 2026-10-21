@@ -100,5 +100,11 @@
       "sentence": "**常态制度嵌入** 欧盟委员会在经合组织国家教育指标系统（Indicators of National Education Systems, INES）及其所有下属科学委员会中享有正式法定席位，实现双方决策网络的深度嵌合。",
       "target": "wiki/facts/hong-kong/National Education.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md": [
+    {
+      "sentence": "**问题界定（Problem Definition）** 重塑行动者对现状的理解，将特定的办学现实解释为亟待纠正的体制缺陷与危机（Hay, 2011; Lieberman, 2002）。",
+      "target": "wiki/concepts/competency-and-assessment/Problem Finding.md"
+    }
   ]
 }
