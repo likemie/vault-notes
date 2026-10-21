@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -67,8 +67,7 @@
               "title": "Critique of Meta-analysis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,15 +272,33 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "aac4f372d06fab2a",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-008/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-008/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-007/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-007/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-006/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-006/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-005/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-005/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-004/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-004/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-003/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-003/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-002/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-002/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-001/prompt.md",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-001/batch-result.schema.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/state.json",
+    "output/related-updates/Argument_Custer_2021_AidData-d20a08e0/batch-008",
+    "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
     "wiki/methods/quantitative/Meta-analysis.md",
     "wiki/methods/quantitative/Meta-meta-analysis.md",
     "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md",
     "wiki/arguments/journal-articles/Review of Educational Research/Argument_Wadhwa_2024_RER.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md",
     "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
-    "tmp/argument-callouts.backup-20261022.css",
     "sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig8_Sister_City_Relationships_SCA.jpg",
     "sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig7_Language_Culture_Centers_US_Russia_China.jpg",
     "sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig6_American_Spaces_vs_Confucius_Institutes.jpg",
@@ -289,12 +306,8 @@
     "sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig4_SCA_Students_in_China_Trends.jpg",
     "sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig3_Educational_Assistance_Projects_Distribution.jpg",
     "tmp/Meta-meta-analysis.backup-20261022.md",
-    "sources/Custer_2021_AidData/figures",
-    "sources/Custer_2021_AidData/Custer_2021_AidData.pdf",
     "sources/Custer_2021_AidData/Custer_2021_AidData.md",
-    "sources/Custer_2021_AidData",
     "sources/Custer_2021_AidData.md",
-    "sources/Custer_2021_AidData.pdf",
     "wiki/facts/us/AidData.md",
     "wiki/facts/multi/China-Pakistan Economic Corridor.md",
     "wiki/concepts/political-economy-geopolitics/Public Diplomacy.md",
@@ -303,20 +316,6 @@
     "wiki/facts/global/Starting Strong.md",
     "sources/Abrami_2015_RER/Abrami_2015_RER.md",
     "wiki/concepts/comparative-education/Naming and Shaming in Education Governance.md",
-    "wiki/concepts/comparative-education/Comparative Turn in Education Policy.md",
-    "wiki/concepts/comparative-education/Meditative Mode of Governance.md",
-    "wiki/templates/template-argument.md",
-    "wiki/concepts/comparative-education/Inquisitive Mode of Governance.md",
-    "wiki/concepts/comparative-education/OECD-fication.md",
-    "tmp/callout-design-backup-v4/gen-r24.py",
-    "tmp/callout-design-backup-v4/v41-r24.css",
-    "wiki/concepts/educational-policy-reform/Academic Attrition.md",
-    "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md",
-    "output/niemann_martens_2018_text.txt",
-    "wiki/templates/template-argument-textbook.md",
-    "wiki/templates/template-argument-edited-volume.md",
-    "tmp/callout-design-backup-v4/tables-before.tgz",
-    "tmp/callout-design-backup-v4/escape-before.tgz",
     "tmp/callout-design-backup-v4/v41-preview.png",
     "tmp/callout-design-backup-v4/before-after.png",
     "sources/Zhu_Yang_2025_HE/figures/Zhu_Yang_2025_HE_Fig1_Higher_Education_Nexus_Neo_Tributary_Framework.jpg",
