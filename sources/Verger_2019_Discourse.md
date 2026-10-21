@@ -1,6 +1,7 @@
 ---
 citation: "Verger, A., Fontdevila, C., & Parcerisa, L. (2019). Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide. Discourse: Studies in the Cultural Politics of Education, 40(2), 248–270."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Verger_2019_Discourse]]"
 processed_date: 2026-10-21
 ---
 
