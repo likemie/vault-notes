@@ -22293,6 +22293,17 @@
     ]
   },
   {
+    "title": "Value-Added Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Value-Added Model.md",
+    "aliases": [
+      "增值评价模型",
+      "教师增值模型",
+      "学校增值模型",
+      "Value-Added Modeling"
+    ]
+  },
+  {
     "title": "Violin Plot",
     "type": "method",
     "path": "wiki/methods/quantitative/Violin Plot.md",

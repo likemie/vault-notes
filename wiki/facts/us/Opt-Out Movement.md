@@ -11,9 +11,9 @@ subtype: event
 region: "us"
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - event/social-movement
@@ -32,7 +32,8 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[National Large-Scale Assessments]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Value-Added Model]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -64,7 +65,7 @@ updated: 2026-10-21
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2012 至 2016 年间达到抗争高潮，发源并集中于纽约州、新泽西州、华盛顿州、科罗拉多州等美国多地公立学区。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **核心当事主体** 公立学校中产家庭家长、草根反测验联盟（United Opt Out）、全国公平与公开考试中心（National Center for Fair & Open Testing, FairTest）以及地方学区教育董事会。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
-> - **深层制度与社会背景** 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）确立全员统考后，联邦政府在 2011 年通过《[[Race to the Top|力争上游]]》（Race to the Top, RTTT）竞标拨款强推[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS），并推广增值模型（Value-Added Model, VAM）将学生统考分数与公立教师绩效考核甚至解聘直接绑定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254, 256–257)]]
+> - **深层制度与社会背景** 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）确立全员统考后，联邦政府在 2011 年通过《[[Race to the Top|力争上游]]》（Race to the Top, RTTT）竞标拨款强推[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS），并推广增值模型（[[Value-Added Model]], VAM）将学生统考分数与公立教师绩效考核甚至解聘直接绑定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254, 256–257)]]
 > - **直接导火索 / 触发事件** 2013 年前后各州匆忙上线与 CCSS 挂钩的高难度机考统考，引发考题技术故障、大面积学生及格率暴跌以及一线教学严重窄化为应试操练。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---

@@ -57,6 +57,7 @@ related_theories:
   - "[[Rational Action Theory]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Value-Added Model]]"
   - "[[Random Sampling]]"
 related_instruments: []
 related_persons: []
@@ -72,6 +73,10 @@ related_facts:
   - "[[Educational Testing Service]]"
   - "[[Opt-Out Movement]]"
   - "[[Common Core State Standards]]"
+  - "[[Alto al SIMCE]]"
+  - "[[Fraser Institute]]"
+  - "[[INVALSI]]"
+  - "[[Nasjonale prøver]]"
   - "[[National Education Association]]"
   - "[[American Federation of Teachers]]"
 related_arguments: []
@@ -87,7 +92,7 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -237,7 +242,7 @@ issuing_organization: ""
 > [!case] 市场化国家案例：智利、英格兰与美国
 > - **智利的激进准市场建制与连续性累加** 1988 年军政府建立教育质量测度系统（[[SIMCE|Sistema de Medición de la Calidad de la Educación]], SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入国家学校绩效评估系统（Sistema Nacional de Evaluación del Desempeño, SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行《优惠学校补贴法》（Ley de Subvención Escolar Preferencial, SEP），向弱势学生提供差别化资助，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。（pp. 253, 257–258）
 > - **英格兰的国家干预与表现主义治理深化** 1988 年《教育改革法》（[[Education Reform Act 1988|Education Reform Act]], ERA）确立全国关键学段统考、学校地方自主管理（Local Management of Schools, LMS）与官方排行榜；新工党执政期间（1997–2010）引入绩效与评估报告（Performance and Assessment, Panda）和学生学业追踪系统（Pupil Assessment Tracker, PAT），推行绩效挂钩薪资，并对薄弱学校施加分级行政干预；2010 年联合政府进一步增设 6 岁语音拼读筛查（Phonics Screening Check）与英国学士学位（English Baccalaureate, EBacc）[[Performance Indicators|绩效指标]]，持续收紧量化控制网底。（pp. 253, 256–257）
-> - **美国的联邦跨越与民权话语包装** 长期受制于地方分权体系，直至 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）通过，将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立 3–8 年级全员统考与学业年均进步（[[Adequate Yearly Progress]], AYP）制裁；2011 年《[[Race to the Top|力争上游]]》计划（Race to the Top, RTTT）进一步推动各州采纳增值模型（Value-Added Model, VAM）将学生统考成绩与教师个人解聘直接绑定。（pp. 253–254, 256–257）
+> - **美国的联邦跨越与民权话语包装** 长期受制于地方分权体系，直至 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）通过，将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立 3–8 年级全员统考与学业年均进步（[[Adequate Yearly Progress]], AYP）制裁；2011 年《[[Race to the Top|力争上游]]》计划（Race to the Top, RTTT）进一步推动各州采纳增值模型（[[Value-Added Model]], VAM）将学生统考成绩与教师个人解聘直接绑定。（pp. 253–254, 256–257）
 
 英格兰、美国与智利虽共享市场化改革基底，但在具体规制工具、制裁机制与政党博弈策略上呈现出各异的演化路径。（pp. 252–254）
 
@@ -254,14 +259,14 @@ issuing_organization: ""
 在丹麦、挪威与瑞典等北欧大陆国家，治理工具的采纳源于地方分权所诱发的国家治理失控焦虑，但这些国家极力避免将评估演化为优胜劣汰的市场工具。（pp. 254–255）
 
 > [!case] [[Neo-Weberian State|新韦伯主义]]国家案例：挪威与丹麦的排名叫停
-> - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入国家评估系统（Nasjonale prøver），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
+> - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入[[Nasjonale prøver|国家评估系统]]（Nasjonale prøver），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
 > - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》，2005 年要求学校官网披露教学评价信息，教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（p. 258）
 
 虽然中央层面废止了官方排位表，但规制型治理中累积的数据资产却通过制度缝隙外溢，孕育出体制外的非官方问责网络。（p. 258）
 
 > [!exegesis]- [[Transparency Bypass|透明度绕道机制]]（Transparency Bypass）
 > - **数据外溢与非官方排位** 在挪威与丹麦，地方自治市政当局与商业媒体利用《公共行政信息公开法》，合法调取公立学校的原始测验数据，并自行测算、发布非官方学校排位表，促发了[[Transparency Bypass|透明度绕道机制]]，使市场问责机制在中央政策退潮后通过地方治理与大众传媒网络变相存活。（p. 258）
-> - **智库中介的跨国同构** 在加拿大不列颠哥伦比亚省，尽管省教育厅恪守温和评估立场，倡导新自由主义议程的保守派智库弗雷泽研究所（Fraser Institute）系统性调取公共测评数据，独立编制全省学校表现报告卡并借助商业媒体公开发布，在体制外达成了事实上的市场问责效果。（p. 258）
+> - **智库中介的跨国同构** 在加拿大不列颠哥伦比亚省，尽管省教育厅恪守温和评估立场，倡导新自由主义议程的保守派智库[[Fraser Institute|弗雷泽研究所]]（Fraser Institute）系统性调取公共测评数据，独立编制全省学校表现报告卡并借助商业媒体公开发布，在体制外达成了事实上的市场问责效果。（p. 258）
 
 #### 3. 南欧国家因常任公务员制度与工会强力反弹，测验问责举措遭遇长期抵制与反复摇摆
 

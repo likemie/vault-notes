@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定教学干预或高等教育求学期间，在专业知识储备、概念理解、高阶思维技能及综合素养等方面所实现的净增长幅度与纵向发展距离。"
 type: concept
 domain: "higher-education"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
   - "[[Hierarchical Linear Model]]"
+  - "[[Value-Added Model]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
@@ -123,7 +124,7 @@ updated: 2026-10-21
 > - **实验干预的净因果增益识别** 在教学对比实验中，通过严格的[[Pre-test and Post-test\|前测]]基线控制与后测延迟测试，剔除先验知识与自然成长影响，精准度量特定教学法诱发的认知结构变化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
 > - **标准化通用认知测试（Standardized Cognitive Assessments）** 运用脱离具体专业事实的[[Higher-Order Thinking Skills\|高阶思维]]测评工具（如 [[Collegiate Learning Assessment\|CLA+]]、[[Collegiate Assessment of Academic Proficiency\|CAAP]]、[[Educational Testing Service\|ETS]] 档案），追踪[[Critical Thinking\|批判性思维]]、因果推理与[[Problem Solving\|问题解决]]的跨周期进阶。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **质性表现性量规与课程真实作品（Authentic Rubrics）** 追踪学生在学术研讨报告、设计项目及毕业创作中基于表现性量规（如 [[VALUE Rubrics]]）的水平跨越，弥补客观测试对复杂学科素养的简化。
-> - **多层统计模型与残差剥离** 依托增值建模（Value-Added Modeling, VAM）控制学生[[Socioeconomic Status|社会经济背景]]（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> - **多层统计模型与残差剥离** 依托增值建模（[[Value-Added Model|Value-Added Modeling]], VAM）控制学生[[Socioeconomic Status|社会经济背景]]（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 > [!logic-map]- 学习增益的测量与转化逻辑链
 > ```mermaid
@@ -179,7 +180,7 @@ updated: 2026-10-21
 > |---|---|---|---|
 > | **质量范式重塑** | 关注学生认知净位移以打破名校声誉与生源选拔偏误 | 高等教育质量保障、院校评估与课程改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **探究机制归因** | 学习增益源于支架卸载工作记忆负荷，六类指导形态功能等价 | 理科教学干预、[[Inquiry-Based Learning\|指导式探究]]与实验设计 | Lazonder & Harmsen; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
-> | **治理生态制约** | 低利害作答动机衰退与机械惩戒性人事转化的制度反噬 | 增值评价模型（VAM）、政策问责与绩效监测 | Raudenbush; [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] |
+> | **治理生态制约** | 低利害作答动机衰退与机械惩戒性人事转化的制度反噬 | [[Value-Added Model\|增值评价模型]]（VAM）、政策问责与绩效监测 | Raudenbush; [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] |
 
 ---
 
@@ -239,4 +240,4 @@ updated: 2026-10-21
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]的实证全景，引用 Lazonder and Harmsen (2016) 确证指导[[Scaffolding\|脚手架]]带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 梳理 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills\|高阶思维]]评价的政策项目（英国 [[Higher Education Funding Council for England\|HEFCE]]、德国 [[KoKoHs Program\|KoKoHs]]、意大利 [[TECO Project\|TECO]]），辨析不同测度方法的优劣与实施挑战。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, p. 199)]] — 揭示经合组织发起 [[OECD AHELO Project|AHELO]] 高教测评项目时，以增值评价（learning gain）作为批判商业排名的核心武器，声称唯有测量教学增值才能提供客观中立的跨国高校质量数据。
-> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析增值评价模型（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality\|技术理性]]与宏观学校治理生态之间的深层张力。
+> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析[[Value-Added Model|增值评价模型]]（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality\|技术理性]]与宏观学校治理生态之间的深层张力。
