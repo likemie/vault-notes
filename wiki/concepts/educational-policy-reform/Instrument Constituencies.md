@@ -8,6 +8,11 @@ aliases:
   - instrument constituency
 summary: "政策科学与治理研究概念，指因专业权威、组织法定职责或经济收益而高度依赖特定政策工具，并致力于开发、维护和扩张该工具治理模式的行动者群体。在教育治理中，由国际组织、国家测评机构、商业测评企业与智库构成的支持群体，推动评估工具从抽样向全员持续扩张，并形成阻断体制退出的制度锁定效应。"
 type: concept
+domain: "educational-policy-reform"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/policy-instruments
   - theme/educational-governance
@@ -148,7 +153,7 @@ updated: 2026-10-21
 > > 围绕政策工具支持群体的行动效能，学界在解释工具扩散动力时存在视角差异。
 > >
 > > - **Simons & Voß (2018)** 强调工具自身所蕴含的认知图式与专业载体具有自组织演化的结构性力量。
-> > - **Verger et al. (2019)** 强调本土政体行政传统的制度过滤机制，指出工具支持群体能否成功锁定政策，依然取决于该国文官体制与工会力量的博弈结构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252–255)]]
+> > - **[[Argument_Verger_2019_Discourse|Verger et al. (2019)]]** 强调本土政体行政传统的制度过滤机制，指出工具支持群体能否成功锁定政策，依然取决于该国文官体制与工会力量的博弈结构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252–255)]]
 
 > [!warning] 适用局限
 > 分析有效性依赖于政策工具是否具备清晰的技术载体与市场化外包空间；当政策主要体现为价值理念宣示或零预算的规制条款时，工具支持群体的解释力将受到局限。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
@@ -159,9 +164,3 @@ updated: 2026-10-21
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 系统梳理全球 158 篇教育治理文献，揭示跨国商业测评产业与行政官僚构成的工具支持群体如何推动国家统考单向扩张并阻断制度退出。
-
----
-
-## 来源
-
-- [[Argument_Verger_2019_Discourse]]

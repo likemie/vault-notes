@@ -5455,6 +5455,18 @@
     ]
   },
   {
+    "title": "Instrument Constituencies",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Instrument Constituencies.md",
+    "aliases": [
+      "工具支持群体",
+      "政策工具选民",
+      "政策工具支持联盟",
+      "政策工具受益群体",
+      "instrument constituency"
+    ]
+  },
+  {
     "title": "Juridification of Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Juridification of Education.md",
@@ -6257,6 +6269,17 @@
       "Tiered Evidence Grantmaking",
       "Tiered Evidence Framework",
       "Tiered Funding"
+    ]
+  },
+  {
+    "title": "Transparency Bypass",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Transparency Bypass.md",
+    "aliases": [
+      "透明度绕道机制",
+      "绕道透明度机制",
+      "信息公开绕道",
+      "transparency bypass mechanism"
     ]
   },
   {
@@ -16876,6 +16899,18 @@
       "政策导航框架",
       "Serpell's Navigational Framework",
       "Navigational Framework"
+    ]
+  },
+  {
+    "title": "Neo-Weberian State",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Neo-Weberian State.md",
+    "aliases": [
+      "新韦伯主义国家",
+      "新韦伯主义行政模式",
+      "新韦伯主义",
+      "Neo-Weberian State Model",
+      "NWS"
     ]
   },
   {

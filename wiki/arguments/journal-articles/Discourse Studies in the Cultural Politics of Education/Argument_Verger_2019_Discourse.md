@@ -45,12 +45,15 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Construct]]"
   - "[[Literature Search]]"
+  - "[[Instrument Constituencies]]"
+  - "[[Transparency Bypass]]"
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
   - "[[Policy Instrumentation Theory]]"
   - "[[Rational Action Theory]]"
+  - "[[Neo-Weberian State]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[External Auditor]]"
@@ -69,6 +72,9 @@ related_facts:
   - "[[National Education Association]]"
   - "[[National Education]]"
   - "[[American Federation of Teachers]]"
+  - "[[Opt-Out Movement]]"
+  - "[[SIMCE]]"
+  - "[[Education Reform Act 1988]]"
 related_arguments: []
 sources:
   - "[[sources/Verger_2019_Discourse|Verger_2019_Discourse]]"
@@ -82,7 +88,7 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -107,7 +113,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 全球范围内以国家大规模评估、基于测验的问责制和国家学习标准为核心的数据密集型治理工具体系。（p. 249）
 > - **张力** 全球[[Convergence Theory in Comparative Education|趋同论]]（如[[Global Education Reform Movement|全球教育改革运动]]倡导的同质化政策工具包）与[[Historical Institutionalism|历史制度主义]]情境敏感性（本土行政体制的[[Path Dependence|路径依赖]]与制度折射）之间的解释冲突。（pp. 249–250）
-> - **贡献** 构建了审视教育治理工具变迁的社会历史分析视角，提出行政传统三维分化模型（[[New Public Management|新公共管理]]〔New Public Management, NPM〕市场化、新韦伯主义与拿破仑传统），揭示了评估扩张与问责涨落的非同步累积机制。（pp. 250–252, 262–264）
+> - **贡献** 构建了审视教育治理工具变迁的社会历史分析视角，提出行政传统三维分化模型（[[New Public Management|新公共管理]]〔New Public Management, NPM〕市场化、[[Neo-Weberian State|新韦伯主义]]与拿破仑传统），揭示了评估扩张与问责涨落的非同步累积机制。（pp. 250–252, 262–264）
 
 ---
 
@@ -118,7 +124,7 @@ issuing_organization: ""
 > |----------|----------|
 > | **[[Policy Instrumentation Theory\|政策工具化理论]]**<br>Lascoumes and Le Galès (2007) | 阐明政策工具兼具技术性、社会性与政治性，拒绝中立工具观，揭示工具如何作为治理装置自主结构化公共政策并生产特定权力关系。（pp. 250–251） |
 > | **[[Historical Institutionalism\|历史制度主义]]渐进变迁理论**<br>(Mahoney, 2000; Thelen, 2004) | 提供[[Institutional Layering\|制度分层化]]（Layering）、政策转换（Conversion）与政策漂移（Drift）等分析范畴，解释治理工具如何在旧制度框架上逐层累积叠加并产生意外后果。（pp. 251–252） |
-> | **政体行政传统模型**<br>Pollitt and Bouckaert (2011) | 划分[[New Public Management\|新公共管理]]市场化（NPM marketizers）、新韦伯主义（Neo-Weberian）与拿破仑传统（Napoleonic）三大行政体制，作为中介解释跨国工具差异化轨迹的中观分析支柱。（pp. 250, 252–255） |
+> | **政体行政传统模型**<br>Pollitt and Bouckaert (2011) | 划分[[New Public Management\|新公共管理]]市场化（NPM marketizers）、[[Neo-Weberian State\|新韦伯主义]]（Neo-Weberian）与拿破仑传统（Napoleonic）三大行政体制，作为中介解释跨国工具差异化轨迹的中观分析支柱。（pp. 250, 252–255） |
 
 > [!dimension] 政策工具的三重分析维度
 > - **技术与操作维度**
@@ -214,9 +220,9 @@ issuing_organization: ""
 >
 >   最初用于辅助教学诊断、供宏观参考的温和监测工具，在推行中逐步被赋予整肃学校与考核人员的刚性权能。（p. 251）
 >
-> - **利益同盟生成与锁定**
+> - **[[Instrument Constituencies|政策工具支持群体]]的生成与锁定**
 >
->   工具运转催生出掌握测评[[Discourse|话语]]权的商业集团与技术官僚同盟，彻底改变了教育政策[[Champ|场域]]的权力分配。（p. 252）
+>   工具运转催生出由掌握测评[[Discourse|话语]]权的商业集团与技术官僚构成的[[Instrument Constituencies|政策工具支持群体]]（Instrument Constituencies），彻底改变了教育政策[[Champ|场域]]的权力分配。（pp. 251–252）
 
 ---
 
@@ -248,14 +254,14 @@ issuing_organization: ""
 
 在丹麦、挪威与瑞典等北欧大陆国家，治理工具的采纳源于地方分权所诱发的国家治理失控焦虑，但这些国家极力避免将评估演化为优胜劣汰的市场工具。（pp. 254–255）
 
-> [!case] 新韦伯主义国家案例：挪威与丹麦的排名叫停
+> [!case] [[Neo-Weberian State|新韦伯主义]]国家案例：挪威与丹麦的排名叫停
 > - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入国家评估系统（Nasjonale prøver），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
 > - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》，2005 年要求学校官网披露教学评价信息，教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（p. 258）
 
 虽然中央层面废止了官方排位表，但规制型治理中累积的数据资产却通过制度缝隙外溢，孕育出体制外的非官方问责网络。（p. 258）
 
-> [!exegesis]- 透明度绕道机制（Transparency Bypass）
-> - **数据外溢与非官方排位** 在挪威与丹麦，地方自治市政当局与商业媒体利用《公共行政信息公开法》，合法调取公立学校的原始测验数据，并自行测算、发布非官方学校排位表，使市场问责机制在中央政策退潮后通过地方治理与大众传媒网络变相存活。（p. 258）
+> [!exegesis]- [[Transparency Bypass|透明度绕道机制]]（Transparency Bypass）
+> - **数据外溢与非官方排位** 在挪威与丹麦，地方自治市政当局与商业媒体利用《公共行政信息公开法》，合法调取公立学校的原始测验数据，并自行测算、发布非官方学校排位表，促发了[[Transparency Bypass|透明度绕道机制]]，使市场问责机制在中央政策退潮后通过地方治理与大众传媒网络变相存活。（p. 258）
 > - **智库中介的跨国同构** 在加拿大不列颠哥伦比亚省，尽管省教育厅恪守温和评估立场，倡导新自由主义议程的保守派智库弗雷泽研究所（Fraser Institute）系统性调取公共测评数据，独立编制全省学校表现报告卡并借助商业媒体公开发布，在体制外达成了事实上的市场问责效果。（p. 258）
 
 #### 3. 南欧国家因常任公务员制度与工会强力反弹，测验问责举措遭遇长期抵制与反复摇摆
@@ -313,17 +319,17 @@ issuing_organization: ""
 > | 行政传统类型 | 核心利害性演进轨迹 | 动力机制与代表性案例 |
 > |---|---|---|
 > | **新公共管理市场化** | 从单一市场择校演变为行政制裁与市场竞争的双重刚性叠加；问责网底持续收紧。 | 智利在公布统考成绩后追加全校薪酬奖励（SNED），并在弱势补贴中强制挂钩达标要求，违规低分校面临关停。（pp. 257–258） |
-> | **新韦伯主义** | 官方声誉制裁经历周期性回撤；国家层面废除排位表，但地方政府与商业媒体借助信息公开法变相复活民间排名。 | 挪威与丹麦中左翼联盟先后暂停官方学校排行榜，但智库与媒体借助信息公开条例继续独立编制并发布排位表。（p. 258） |
+> | **[[Neo-Weberian State|新韦伯主义]]** | 官方声誉制裁经历周期性回撤；国家层面废除排位表，但地方政府与商业媒体借助信息公开法触发[[Transparency Bypass|透明度绕道机制]]变相复活民间排名。 | 挪威与丹麦中左翼联盟先后暂停官方学校排行榜，但智库与媒体借助信息公开条例继续独立编制并发布排位表。（p. 258） |
 > | **拿破仑传统** | 停滞、试验与政治轮替高度绑定；经历长达十余年的断续摇摆后，最终在技术官僚内阁下实现局部建制化。 | 意大利自2000年代初多次试水校长评估均遭抵制叫停，直至2015年通过《好学校》（La Buona Scuola）法案方才落定。（p. 258） |
 > | **联邦制次国家升级** | 联邦层面维持温和低利害，地方州/市级政府主动叠加高利害后果。 | 巴西基础教育发展指数（Índice de Desenvolvimento da Educação Básica, IDEB）仅为参考，但塞阿腊州（Ceará）与圣保罗州自主追加高额教师奖金与资源挂钩。（p. 259） |
 
-#### 3. 商业测试机构与技术官僚结成利益同盟，阻断了废止问责制度的可能
+#### 3. 商业测试机构与技术官僚构成工具支持群体，阻断了废止问责制度的可能
 
 规制型国家治理的推行催生出庞大的外包测评产业，彻底重构了教育政策场域。（pp. 259–260）
 
 > [!chain-link] 测试产业链与治理制度锁定的因果推导链
 > - **前提：测评职能外包** 规制型政府将标准化命题、电子化阅卷、云端数据库运维及教材教辅开发大规模外包给私营商业跨国集团。（p. 259）
-> - **机制：利益同盟固化** 培生（Pearson）、[[Educational Testing Service|教育考试服务中心]]（Educational Testing Service, ETS）、剑桥大学考评院（Cambridge Assessment）等机构通过政治游说与技术绑定获得高额合同，智库与技术官僚将专业权威锚定于数据生产。（pp. 259–260）
+> - **机制：[[Instrument Constituencies|工具支持群体]]固化** 培生（Pearson）、[[Educational Testing Service|教育考试服务中心]]（Educational Testing Service, ETS）、剑桥大学考评院（Cambridge Assessment）等机构通过政治游说与技术绑定获得高额合同，智库与技术官僚将专业权威锚定于数据生产，结成紧密的[[Instrument Constituencies|政策工具支持群体]]（Instrument Constituencies）。（pp. 251, 259–260）
 > - **结果：不可逆制度锁定** 即便学术证据持续揭示测试异化、即便面临社会反弹，庞大的食利集团与行政惯性依然确保了评估问责体制的持久维系。（pp. 260, 263–264）
 
 #### 4. 家长罢考与工会反弹虽能逼停公开排名，却无法撼动全员统考的制度根基
@@ -345,9 +351,9 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **治理工具的选择与演进具有深度[[Path Dependence|路径依赖]]** 数据密集型治理改革在落地时深度受到[[New Public Management|新公共管理]]市场化、新韦伯主义与拿破仑等政体行政传统的体制性折射，展现出多样化的制度变迁轨迹。（pp. 250, 262）
+> 1. **治理工具的选择与演进具有深度[[Path Dependence|路径依赖]]** 数据密集型治理改革在落地时深度受到[[New Public Management|新公共管理]]市场化、[[Neo-Weberian State|新韦伯主义]]与拿破仑等政体行政传统的体制性折射，展现出多样化的制度变迁轨迹。（pp. 250, 262）
 > 2. **评估工具与问责后果的非同步演进** 国家评估体系通常先于问责制确立，且具有持续扩张覆盖学段与全员普查的自组织惯性；基于测验的问责后果则经历政治周期的起伏涨落与制度博弈。（pp. 255–258, 263）
-> 3. **新支持群体的生成导致不可逆制度锁定** 评估外包与问责常态化孕育出由商业测试集团、数据分析公司与智库组成的获益联盟，即便学术证据明确质疑测试效用，制度退出依然极其困难。（pp. 259–260, 263–264）
+> 3. **[[Instrument Constituencies|政策工具支持群体]]的生成导致不可逆制度锁定** 评估外包与问责常态化孕育出由商业测试集团、数据分析公司与智库组成的[[Instrument Constituencies|政策工具支持群体]]，即便学术证据明确质疑测试效用，制度退出依然极其困难。（pp. 251, 259–260, 263–264）
 > 4. **微观集体行动具有防御性局限** 教师工会抵制与公众退考运动能够迫使政府调减局部利害或叫停官方排名，却难以瓦解国家评估作为底层治理装置的制度根基。（pp. 260–262）
 
 > [!stat-cards]- 核心数据

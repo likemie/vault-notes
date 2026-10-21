@@ -5,6 +5,18 @@
       "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Verger_2019_Discourse.md"
     },
     {
+      "basename": "Transparency Bypass",
+      "path": "wiki/concepts/educational-policy-reform/Transparency Bypass.md"
+    },
+    {
+      "basename": "Instrument Constituencies",
+      "path": "wiki/concepts/educational-policy-reform/Instrument Constituencies.md"
+    },
+    {
+      "basename": "Rational Action Theory",
+      "path": "wiki/theories/sociology-of-education/Rational Action Theory.md"
+    },
+    {
       "basename": "Institutional Layering",
       "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Evidence-Based Education",
       "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Evidence-Based School Development",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Based School Development.md"
-    },
-    {
-      "basename": "Evidence-Informed Practice",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Informed Practice.md"
-    },
-    {
-      "basename": "Zhu_Yang_2025_HE",
-      "path": "sources/Zhu_Yang_2025_HE/Zhu_Yang_2025_HE.md"
     }
   ],
   "omittedPaths": [],
