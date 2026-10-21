@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -29,23 +29,24 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[NAPLAN]]"
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 背景
 
 > [!info|notitle] 背景
-> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 NAPLAN 标准化测试的引入和国家课程的推行——同期发生。[[Argument_Eacott_2011_JEAH\|Eacott (2011)]]将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
+> My School 网站于 **2008 年**在澳大利亚建立，是澳大利亚公立教育系统中市场问责机制的核心基础设施。其建立与更广泛的"教育革命"议程——包括 [[NAPLAN]] 标准化测试的引入和国家课程的推行——同期发生。[[Argument_Eacott_2011_JEAH\|Eacott (2011)]]将 My School 的建立视为"国家对教育的管理主义项目几乎完成"的标志之一。
 
 ## 政策文本摘要
 
 > [!abstract|notitle] 政策文本摘要
-> My School 网站提供所有澳大利亚学校的**人口统计信息**，特别侧重于**基于 NAPLAN 标准化考试成绩比较学校（Keddie et al., 2020, p.434）**。
+> My School 网站提供所有澳大利亚学校的**人口统计信息**，特别侧重于**基于 [[NAPLAN]] 标准化考试成绩比较学校（Keddie et al., 2020, p.434）**。
 >
 > > 网站的一个关键理由是为家长提供关于学校质量的透明度，以支持其为子女做出知情的[[School Choice\|学校选择]]（Keddie et al., 2020, p.434, citing Doolan & Blackmore, 2018; Lingard, Sellar, & Savage, 2014）。
 >
@@ -63,7 +64,7 @@ updated: 2026-10-21
 > [!example|notitle] 实施情况
 > 网站整合了全澳大利亚学校的以下信息：
 > - 人口统计数据（学生构成、[[Socioeconomic Status|社会经济背景]]）
-> - NAPLAN 标准化测试成绩，允许学校间直接比较
+> - [[NAPLAN]] 标准化测试成绩，允许学校间直接比较
 >
 > 利益相关者描述了该网站在实际使用中的社会效应（Keddie et al., 2020, p.437）：
 >
@@ -96,5 +97,5 @@ updated: 2026-10-21
 > [!example|notitle] 相关概念／理论
 > - [[School Autonomy]] — My School 是市场驱动的学校自主权改革的核心问责工具
 > - [[New Public Management]] — My School 体现了 NPM 的"产出控制"和"管理问责"特征
-> - [[Performativity of Measurement]] — My School 的排名使 NAPLAN 分数从测量工具变为学校身份的定义者
+> - [[Performativity of Measurement]] — My School 的排名使 [[NAPLAN]] 分数从测量工具变为学校身份的定义者
 

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Centros Concertados
@@ -166,7 +166,7 @@ updated: 2026-10-21
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[General Act of Education of 1970]] | 政策事实 | 首次在现代立法中为西班牙非公立学校引入国家财政资助模式的法律开端。 |
-> | [[Organic Law on Education 2006]] | 政策事实 | 进一步规约公立与协约学校在生源吸纳与公共经费分配上责任的后继法案。 |
+> | [[Organic Law on Education 2006]] | 政策事实 | 进一步规范公立与协约学校在生源吸纳与公共经费分配上责任的后继法案。 |
 > | [[State Educational Sovereignty]] | 概念 | 协约制度反映了国家世俗教育主权与天主教会及民间社会办学权利之间的制度妥协。 |
 > | [[Comprehensive Education]] | 概念 | 协约学校在初中阶段同样必须强制执行国家统一的综合教育课程大纲。 |
 > | [[José Luis García Garrido]] | 人物 | 主张理性承认协约学校客观贡献、破除单一公立意识形态排他偏见的比较教育学者。 |

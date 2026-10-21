@@ -28867,6 +28867,17 @@
     ]
   },
   {
+    "title": "NAPLAN",
+    "type": "fact",
+    "path": "wiki/facts/australia/NAPLAN.md",
+    "aliases": [
+      "澳大利亚全国读写与计算能力测评计划",
+      "全国读写与计算能力测评计划",
+      "National Assessment Program – Literacy and Numeracy",
+      "National Assessment Program - Literacy and Numeracy"
+    ]
+  },
+  {
     "title": "Schulqualität Allgemeinbildung",
     "type": "fact",
     "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
@@ -28943,6 +28954,17 @@
       "ENADE",
       "巴西全国学生学业成就测试",
       "巴西全国学生成绩考试"
+    ]
+  },
+  {
+    "title": "SIMAVE",
+    "type": "fact",
+    "path": "wiki/facts/brazil/SIMAVE.md",
+    "aliases": [
+      "米纳斯吉拉斯基础教育评估系统",
+      "米纳斯吉拉斯绩效问责改革",
+      "Sistema Mineiro de Avaliação da Educação Básica",
+      "PROEB"
     ]
   },
   {
@@ -32956,6 +32978,17 @@
     ]
   },
   {
+    "title": "Programa de Avaliação Externa das Escolas",
+    "type": "fact",
+    "path": "wiki/facts/portugal/Programa de Avaliação Externa das Escolas.md",
+    "aliases": [
+      "葡萄牙学校外部评估计划",
+      "Portuguese Schools Evaluation Programme",
+      "学校外部评估计划",
+      "PEE (葡萄牙)"
+    ]
+  },
+  {
     "title": "Akademgorodok",
     "type": "fact",
     "path": "wiki/facts/russia/Akademgorodok.md",
@@ -33179,6 +33212,18 @@
       "LOGSE",
       "Ley Orgánica de Ordenación General del Sistema Educativo",
       "Organic Law 1/1990"
+    ]
+  },
+  {
+    "title": "Prueba CDI",
+    "type": "fact",
+    "path": "wiki/facts/spain/Prueba CDI.md",
+    "aliases": [
+      "马德里不可或缺知识与技能测验",
+      "马德里市场化问责改革",
+      "Prueba de Conocimientos y Destrezas Indispensables",
+      "Madrid CDI Test",
+      "Prueba CDI Madrid"
     ]
   },
   {
@@ -34347,6 +34392,19 @@
       "数数算算",
       "数数算算项目",
       "Every Child Counts Numbers Count"
+    ]
+  },
+  {
+    "title": "PANDA",
+    "type": "fact",
+    "path": "wiki/facts/uk/PANDA.md",
+    "aliases": [
+      "英国学校表现与评估报告",
+      "学生成就追踪系统",
+      "Performance and Assessment Reports",
+      "Pupil Achievement Tracker",
+      "PANDA Reports",
+      "RAISEonline"
     ]
   },
   {
