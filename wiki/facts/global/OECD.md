@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 139
-fact_related_level: 13
-fact_related_stars: "💎💎💎💎⭐"
+fact_related_count: 140
+fact_related_level: 14
+fact_related_stars: "💎💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）
@@ -171,6 +171,7 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -227,7 +228,7 @@ updated: 2026-10-21
 >   - **1992** 推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），标志 OECD 从投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
 >   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型新自由主义视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
->   - **1995** 发布《转型中的治理》（*Governance in Transition*）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–446)]]
+>   - **1995** 发布《转型中的治理》（*Governance in Transition*），系统推广以分权、绩效管理与问责为特征的新公共管理原则；后续研究表明，经合组织倡导的 NPM 与考试问责（TBA）在各成员国落地时受到英美市场模式、欧洲大陆新韦伯模式与拿破仑模式等行政传统的深刻过滤与折射。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 250)]]
 >   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《[[Delors Report|德洛尔报告]]》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
 >   - **1996 起** 协同[[World Bank|世行]]与教科文组织共同预设单一平面的信息时代，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷、巴西等受援国注重系统记忆的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1997** 发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），官方科技政策范式从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。
@@ -445,3 +446,4 @@ updated: 2026-10-21
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | 考察中国对标经合组织国际标准建立全国教育质量监测系统与循证督导体制的实践进路。 |
 > | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 剖析经合组织在 PISA 与 AHELO [[Test Production\|测验生产]]早期如何通过承袭成功、凝聚知识网络与调动官僚资源确立全球治理合法性。 |
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 考证经合组织在跨国政策借用连续谱中扮演的协商性政策转移（Negotiated Transfer）与软法中介治理机制。 |
+> | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] | Argument | 剖析经合组织推动的新公共管理与测评问责工具在全球三大行政传统下的分层扩散与制度折射。 |

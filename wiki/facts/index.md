@@ -49,7 +49,7 @@ Total entries: **847**
 | University Industry Collaboration `#theme` | 74 |
 | Science Policy `#theme` | 70 |
 | K12 `#level` | 66 |
-| Educational Governance `#theme` | 36 |
+| Educational Governance `#theme` | 37 |
 | International Education `#theme` | 36 |
 | Semiconductor `#theme` | 34 |
 | Innovation `#theme` | 32 |
@@ -1056,7 +1056,7 @@ Total entries: **847**
 > - [[Department of Energy]] — 美国联邦政府主管国家能源安全、核安全监管、重大科技基础设施及前沿物理与计算科学研发的内阁级行政部门，管理包括橡树岭、劳伦斯伯克利、阿贡及桑迪亚等17所国家实验室；既是冷战大科学工程与极紫外光刻（EUV LLC）的制度发源地，也是国家微电子战略中微电子领导小组（SML）联合主席单位与纳米科学基础设施（NSRCs）统筹者，并领航创世纪计划AI科学超级平台。
 > - [[Directorate for Technology, Innovation and Partnerships]] — 美国国家科学基金会（NSF）依据《2022 年芯片与科学法案》授权设立的业务理事会，系 NSF 时隔 30 余年设立的首个全新理事会。专门致力于破除基础研究向产业应用的转化鸿沟，以公私合作伙伴关系（PPP）、区域创新引擎（NSF Engines）、X 实验室（FRO 联邦转化实体）、金券破格资助及元科学资助实验为支柱，将国家科研投入直接转化为经济繁荣与战略技术自主。
 > - [[Education Resources Information Center]] — 由美国联邦教育部教育科学研究院（IES）赞助维护的全球最大教育学公共数字文献数据库与索引系统，为基础教育决策者、政策制定者与科研人员提供涵盖同行评议期刊与灰色文献的免费循证检索门户
-> - [[Educational Testing Service]] — 全球规模最大的私立非营利性教育测评与心理测量研究机构，1947年成立，研发托福、GRE、Praxis及ETS HEIghten与EPP通识测评，在高教核心素养测度领域具有全球引领地位。
+> - [[Educational Testing Service]] — 1947 年成立的全球规模最大私立非营利性教育测评与心理测量研究机构；主导托福、GRE、Praxis及EPP等标准化测验；在教育治理中作为第三方测验生产巨头，与政策决策者形成共生支持网络，驱动测评规制扩张与制度锁定
 > - [[EUV LLC]] — 1997年由英特尔、AMD、摩托罗拉等半导体巨头联合美国能源部（DOE）旗下三大国家实验室组建的前竞争研发联合体；投入约2.5亿美元攻克13.5纳米极紫外光源、多层钼硅反射镜与超净光刻胶等工程极限，于2001年研制出全球首台全视场工程测试曝光机原型并产出逾150项专利；作为巴斯德象限中解决全行业共享风险的公私协同典范，同时因本土制造承接缺失导致产业主导权流向欧洲ASML，成为反思研发制造脱节与战略红利外溢的历史镜鉴。
 > - [[Fairchild Semiconductor]] — 1957年由“八叛逆”在加州山景城创立的半导体先驱企业，首创平面工艺、单片集成电路、双列直插封装（DIP）与应用工程模式；不仅早期依托中央情报局侦察卫星与军工导弹订单孕育了微芯片底层技术，更率先开启半导体制造全球离岸外包并繁衍出英特尔与AMD等数十家硅谷衍生企业（Fairchildren）。
 > - [[Federally Funded Research and Development Centers]] — 由美国联邦政府全额资助但委托大学、工业企业或非营利财团管理运营的国家级科研机构体系；涵盖劳伦斯伯克利、费米实验室等面向大学开放共享的大科学设施，以及洛斯阿拉莫斯等国防与综合国家实验室，构成了战后美国大科学研究与国家战略任务的核心组织形态。
