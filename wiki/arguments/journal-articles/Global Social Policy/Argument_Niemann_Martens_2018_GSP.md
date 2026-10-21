@@ -21,8 +21,13 @@ tags:
   - social-constructivism
   - comparative-education
 related_concepts:
+  - "[[Comparative Turn in Education Policy]]"
   - "[[Cognitive Authority]]"
   - "[[Boundary Spanner]]"
+  - "[[Inquisitive Mode of Governance]]"
+  - "[[Meditative Mode of Governance]]"
+  - "[[Naming and Shaming in Education Governance]]"
+  - "[[OECD-fication]]"
   - "[[Constructivist Paradigm]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Brokerage]]"
@@ -76,9 +81,9 @@ title: "Argument_Niemann_Martens_2018_GSP"
 argument_key: "Argument_Niemann_Martens_2018_GSP"
 argument_display_title: "Soft governance by hard fact? The OECD as a knowledge broker in education policy"
 argument_kind: "journal-article"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Global Social Policy"
 book_title: ""
@@ -217,7 +222,7 @@ issuing_organization: ""
 > [!ref-table] 经合组织基于数据硬事实构建的政策处方矩阵
 > | 政策议题领域 | 经合组织代表性出版物与工具箱 | 核心政策倡议与推荐做法 |
 > |---|---|---|
-> | **早期幼儿教育** | Starting Strong 系列报告（OECD, 2011b） | 强调幼儿早期教育质量工具箱建设，夯实未来学术表现与人力资本基础。 |
+> | **早期幼儿教育** | [[Starting Strong|Starting Strong 系列报告]]（OECD, 2011b） | 强调幼儿早期教育质量工具箱建设，夯实未来学术表现与人力资本基础。 |
 > | **教师专业发展** | 21 世纪教师评价报告（OECD, 2013） | 建立以评价促提升的教师专业化机制，优化工作条件与绩效反馈规程。 |
 > | **教育技术应用** | 国际学生评估项目信息技术专题（OECD, 2007） | 推广信息通信技术与课堂教学融合，提升学生数字化情境应用能力。 |
 > | **产出与增值评估** | 学习结果改善测量手册（OECD, 2008） | 倡导开展标准化产出测评与学校[[Learning Gain\|增值评价]]，以可测指标反映办学效能。 |

@@ -103,6 +103,9 @@ updated: 2026-10-22
 > [!claim] Broome and Seabrooke (2012); [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
 > **技术理性声誉与自主权威生成** 传统委托代理理论假定国际组织仅为主权国家的仆从；国际组织社会学则指出，国际组织通过发展内部行政网络与专业工作机制，能够获取超越原始委托范围的自主行动空间。当国际组织在特定领域展现出严密、理性和不偏不倚的技术官僚专业水准时，便被政策社群接纳为合法的“认知权威”。这种权威主要在持续的专业实践、知识供给与声誉积累中自发建构，独立于主权条约的法理授权，使国际组织提出的政策方案具备不可轻易否定的客观正当性。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–270)]]
 
+> [!claim] Barnett (2002); Sharman (2007)
+> **去政治化专业声誉与认知正当性生产** 国际组织之所以能被各方接纳为认知权威，关键机制在于其声誉评价（Reputation）。巴奈特（Barnett, 2002）指出，国际组织的合法性深植于其展现出的“非政治化与技术官僚专业素养”（apolitical and technocratic expertise）。沙尔曼（Sharman, 2007）进一步论证，国际组织政策输出的实际效力，与其在国际社会中享有的理性、中立声誉评价不可分割；这种技术理性声誉将国际组织自身的特定规范偏好封装为无可置疑的客观真理，促使成员国自愿遵循其政策建议。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
+
 ---
 
 ### 命题二　认知权威依托探究与调解双重模式将原始测量数据转化为政策行动脚本
@@ -120,13 +123,14 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技术理性声誉与自主权威** | 阐明国际组织如何依托专业特长与客观声誉获取超越主权委托的认知统治力 | 缺乏硬法制裁权的多边治理机构（如 [[OECD]]、[[World Bank]]） | Broome and Seabrooke (2012); [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
+> | **技术理性声誉与自主权威** | 阐明国际组织如何依托专业特长与客观声誉获取超越主权委托的认知统治力 | 缺乏硬法制裁权的多边治理机构（如 [[OECD]]、[[World Bank]]） | Barnett (2002); Sharman (2007); Broome and Seabrooke (2012); [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
 > | **探究与调解知识转化** | 揭示从原始数据采集到问题界定、再到国内政治动员的两阶段软治理路径 | 跨国大规模测评与比较政策咨询的推广过程 | Mahon and McBride (2009); [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
-> - **2004 — 国际组织权威的社会学奠基** 迈克尔·巴奈特（Michael Barnett）与玛莎·芬尼莫尔（Martha Finnemore）论证国际组织官僚机构能够基于理性和专业知识建构社会现实与行动规则，突破物质主义国际关系理论对权力的界定。
+> - **2002–2004 — 国际组织权威的社会学奠基** 迈克尔·巴奈特（Michael Barnett）与玛莎·芬尼莫尔（Martha Finnemore）论证国际组织官僚机构能够基于理性和专业特长建构社会现实与行动规则，指出非政治化的技术声誉是其规制合法性的核心来源。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
+> - **2007 — 声誉机制在多边规制中的操作化** 沙尔曼（J. C. Sharman）论证国际组织政策产出的实际规制效力，在因果上直接绑定于国际社会对其“理性与中立”的声誉评价。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
 > - **2012 — 认知权威构念的正式提出** 安德烈·布鲁姆（André Broome）与伦纳德·西布鲁克（Leonard Seabrooke）在《新政治经济学》系统提出国际组织的“认知权威”，分析其如何通过特定指标与测量视角规范成员国宏观政策。
 > - **2018 — 认知权威与全球教育治理的经验结合** 丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（[[Kerstin Martens]]）将认知权威引入全球教育政策分析，揭示经合组织如何依托 PISA 测验所赋予的认知裁判权重构主权国家教育体系。
 

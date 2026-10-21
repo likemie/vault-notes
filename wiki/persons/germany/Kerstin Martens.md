@@ -70,7 +70,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 德国国际关系与全球社会政策学者，不来梅大学（University of Bremen）政治科学教授，德国科学基金会（DFG）SFB 1342“全球社会政策动态”跨学科合作研究中心核心负责人。
 > - **核心角色** 当代国际组织行为学、非国家行为体参与与跨国教育治理政治学的前沿领军学者；将国际关系机制分析引入比较教育政策研究，开创“硬[[Soft Power by Hard Facts\|事实软实力]]”与“[[Education-for-Mandates\|使命性教育嵌入]]”研究传统。
-> - **代表贡献** 提出并深化[[Soft Power by Hard Facts\|以硬事实施展软权力]][[Analytic Framework\|分析框架]]；提出[[Education-for-Mandates\|使命性教育嵌入]][[Construct\|构念]]；构建涵盖全球 30 个政府间组织涉教育规章的 IO-ED 权威实证数据库；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 中奠定国际政治学分析基石。
+> - **代表贡献** 提出并深化[[Soft Power by Hard Facts\|以硬事实施展软权力]][[Analytic Framework\|分析框架]]；提出[[Education-for-Mandates\|使命性教育嵌入]][[Construct\|构念]]；主持全球 495 个国际组织教育治理全域普查并构建 IO-ED 权威数据库；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 中奠定国际政治学分析基石。
 
 > [!citation-card] 人物定位的关键来源
 > 克里斯汀·马滕斯敏锐地捕捉到了当代全球治理中一种隐蔽而强大的权力形态：国际组织无需动用主权强权或经济制裁，仅凭对量化硬事实的垄断生产与议程设置，便能对主权国家的公共政策产生深远的认知塑造与规制效应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–540)]]
@@ -85,7 +85,7 @@ updated: 2026-10-22
 > - **2005–2009** 在不来梅大学“国家转型”（TranState）特种研究领域（SFB 597）担任高级研究员，主持[[OECD\|经合组织]]对民族国家教育政策影响的跨国比较项目。
 > - **2010** 与 Ansgar Weymann 等合著出版《经合组织治理机制：国家决策的国际激励？》（*Mechanisms of OECD Governance*，牛津大学出版社）。
 > - **2013** 与丹尼斯·尼曼（Dennis Niemann）在《比较教育评论》（*Comparative Education Review*）发表奠基性论文《[[Soft Power by Hard Facts\|以硬事实施展软权力]]：经合组织、[[PISA]] 与教育治理》（*[[Soft Power]] by Hard Facts*）。
-> - **2018** 升任德国科学基金会 SFB 1342“全球社会政策动态”子项目 A05（全球教育[[Policy Network\|政策网络]]）首席科学家，构建全球 IO-ED 组织数据库。
+> - **2018** 升任德国科学基金会 SFB 1342“全球社会政策动态”子项目 A05（全球教育[[Policy Network\|政策网络]]）首席科学家，依托战争关联（COW）数据库对全球 495 个国际组织展开全域检索并识别出涉教 20 大核心多边组织，构建全球 IO-ED 组织数据库。
 > - **2024** 与吉塔·施泰纳-哈姆西、[[Christian Ydesen\|克里斯蒂安·伊德森]]合作发表《[[Governing by Numbers\|数字治理]] 2.0》（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]），系统阐发[[Policy Brokerage\|政策中介]]作为全球治理工具的理论议程。
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-10-22
 > - **2010–2018 — 经合组织的软治理与“硬[[Soft Power by Hard Facts|事实软实力]]”框架** 创立“以硬事实施展[[Soft Power|软权力]]”理论体系，系统解构经合组织如何凭借 [[PISA]] 与比较指标改变成员国内部改革议程。
 >   - **代表著作** *Mechanisms of OECD Governance* (Oxford, 2010); *Soft Power by Hard Facts* (CER, 2013); *Soft Governance by Hard Fact?* (Global Social Policy, 2018)。
 >   - **关键概念／方法** [[Soft Power by Hard Facts]]、[[Cognitive Authority]]、[[Peer Pressure]]、[[PISA]]。
->   - **阶段转向** 从单一聚焦 OECD 转向对全球所有涉足教育事务的 30 余个政府间组织的系统量化实证普查。
+>   - **阶段转向** 主持全球国际组织全域实证普查，在战争关联（COW）数据库 495 个国际组织中识别出 20 个深度涉足教育治理的核心机构（仅占 4.0%），实证确立经合组织在多边教育治理中的领跑地位。
 > - **2019年至今 — 全球社会政策动态与[[Education-for-Mandates\|使命性教育嵌入]]** 构建 IO-ED 数据库，揭示大量经济、安全与政治组织如何将教育作为服务其核心使命的工具性载体跨界介入。
 >   - **代表著作** *Education in IO Mandates* (2024); *[[Governing by Numbers\|governance by numbers]] 2.0* (Comparative Education, 2024)。
 >   - **关键概念／方法** [[Education-for-Mandates]]、[[Policy Brokerage]]、[[Façade of Rationality]]。
