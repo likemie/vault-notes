@@ -109,6 +109,10 @@
     {
       "sentence": "**跨国系统比较研究有限** 现有文献大量聚焦于德国等少数明星单国案例，跨越多国的大规模系统性政策变迁追踪研究仍显匮乏。",
       "target": "wiki/methods/quantitative/Cohort Study.md"
+    },
+    {
+      "sentence": "*In our contribution, we argue that the OECD influences national education policies by means of soft governance through hard facts; that is, by changing its own strategy toward comparative quantifiable assessments in education policy, it augments its leverage over states.",
+      "target": "wiki/facts/hong-kong/National Education.md"
     }
   ],
   "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Verger_2019_Discourse.md": [

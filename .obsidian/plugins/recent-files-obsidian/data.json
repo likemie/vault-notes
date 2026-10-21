@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
-    },
-    {
       "basename": "Argument_Grek_2009_JEdPolicy",
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md"
+    },
+    {
+      "basename": "Argument_Simpson_2017_JEdPolicy",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEdPolicy.md"
+    },
+    {
+      "basename": "Argument_Helgetun_2022_JEdPolicy",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEdPolicy.md"
+    },
+    {
+      "basename": "Niklas Luhmann",
+      "path": "wiki/persons/germany/Niklas Luhmann.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
     },
     {
       "basename": "PISA",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Liu_2025_IndHE",
       "path": "wiki/arguments/journal-articles/Industry and Higher Education/Argument_Liu_2025_IndHE.md"
-    },
-    {
-      "basename": "Argument_King_2020_ECNUROE",
-      "path": "wiki/arguments/journal-articles/ECNU Review of Education/Argument_King_2020_ECNUROE.md"
-    },
-    {
-      "basename": "Gaokao",
-      "path": "wiki/facts/china/Gaokao.md"
-    },
-    {
-      "basename": "Purposeful Sampling",
-      "path": "wiki/methods/qualitative/Purposeful Sampling.md"
     }
   ],
   "omittedPaths": [],
