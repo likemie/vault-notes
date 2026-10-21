@@ -234,4 +234,5 @@ updated: 2026-10-22
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政策转移理论与[[Evidence-Based Policy-Making|循证政策制定]]机会结构建构两阶段分析框架，系统解构英国新工党跨国搜寻福利模式与成套引入美国[[Random Assignment|随机分配]]评估技术的动力机制（pp. 333–336）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 构建融合[[Critical Discourse Analysis|批判话语分析]]、[[Policy Framing|政策框架化]]、政策三维视角及[[Explanatory Critique|解释性批判]]的四维分析框架，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高教政策的深层因果机制（pp. 680–687）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合[[Tianxia Heuristic|天下启发式]]秩序观与批判性[[Epistemic Governance|知识治理]]框架，解构大国如何依托双轨跨国大学联盟同时开展[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]运作（pp. 1699–1700, 1704）。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用[[Suyan Pan|潘苏燕]]与卢天佑构建的高等教育[[Neo-Tributary Perspective|新朝贡分析框架]]（涵盖[[Chinese Exceptionalism|中国例外论]]、经贸外交联动、[[Cultural Recognition|文化认同探索]]及形象塑造四大支柱），通过对中柬高教合作案例开展实证检验，修正了原框架中的文化同化预设，并揭示了地缘经贸主导下的制度张力（pp. 1045–1046, 1050–1054）。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用四支柱高等教育[[Neo-Tributary Perspective|新朝贡分析框架]]检验中柬合作案例，修正原框架的文化同化预设并揭示地缘经贸制度张力（pp. 1045–1046, 1050–1054）。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 整合制度三支柱与治理工具分类构建国际组织全球教育认知治理分析框架，实证解构世界银行知识权力机制（pp. 2, 5）。

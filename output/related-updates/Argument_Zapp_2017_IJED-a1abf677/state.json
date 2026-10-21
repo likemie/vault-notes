@@ -370,7 +370,7 @@
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -421,11 +421,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T21:24:40.244521+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -510,11 +511,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T21:28:58.481760+00:00"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -532,7 +534,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T21:32:10.275791+00:00"
     },
     {
       "number": 9,
