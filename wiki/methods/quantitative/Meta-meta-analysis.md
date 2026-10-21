@@ -3,8 +3,6 @@ title: Meta-meta-analysis
 aliases:
   - 元-元分析
   - 元元分析
-  - mega-analysis
-  - meta-synthesis
   - 元综合
   - super-analysis
   - super-synthesis
@@ -200,19 +198,38 @@ updated: 2026-10-22
 
 ## 历史演变与三代方法谱系演进
 
-> [!phase] 二阶[[Meta-analysis\|元分析]]的三代方法谱系演进
+> [!org-evolution] 二阶[[Meta-analysis\|元分析]]的三代方法谱系演进
+> - **1980s–2000s** **第一代：粗放元综合**
 >
-> - **第一代：早期探索与粗放元综合（1980s–2000s）**
+>   把各元分析报告的平均[[Effect Size\|效应量]]直接放到同一尺度上排序，追求规模与全景排行榜，但不加权、不统一测度、不处理初级研究重叠，也不报告[[Confidence Interval\|置信区间]]。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
 >
->   Glass 提出元分析 10 年后，Fraser, Walberg, Welch and Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model\|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning\|可见的学习]]》中将其扩展至 800 多项元分析（据 Terhart, 2011, Table 1：816 项元分析、52,649 项研究、约 8,300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非[[Inverse-Variance Weighting\|逆方差加权]]、混用不同[[Effect Size\|效应量]]测度、强行套用[[Fixed-Effect Model\|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval\|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
+>   - **1987** Fraser, Walberg, Welch and Hattie 综合 226 项元分析，检验[[Walberg's Educational Productivity Model\|教育生产力模型]]。
+>   - **1992** Hattie 汇总其中 134 项元分析，提出以标准差为单位的通用连续体。
+>   - **2009** Hattie《[[Visible Learning\|可见的学习]]》扩展至 816 项元分析、52,649 项研究，建立 $d = 0.40$ 的影响气压计。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, Table 1)]]
 >
-> - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
+> - **1990s–至今** **第二代：规范化伞状二阶元分析**
 >
->   针对第一代的统计乱象，Sipe and Curlette（1996, 1997）率先以系统检索与明确纳入标准推进元综合方法论，并估计其样本与 Fraser et al.（1987）、Hattie（1992）的重叠不足 10%；Cooper and Koenka（2012）在《American Psychologist》系统阐述了[[Umbrella Review|综述之综述]]（Overview of Reviews / [[Umbrella Review]]）的独特挑战与方法学规范；Pieper et al.（2014）在《Journal of Clinical Epidemiology》提出以引用矩阵计算[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA）来量化重叠；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**[[Random-Effects Model|随机效应模型]]**（Borenstein et al., 2021），并以 $\le 25\%$ 重叠率门槛（Güngör、Erdem 等援引 Cooper & Koenka, 2012）或 CCA 控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。需要区分的是，Cafri, Kromrey and Brannick（2010）在《Multivariate Behavioral Research》发表的 meta-meta-analysis 以 *Psychological Bulletin* 1995–2005 年的元分析为单位，审查统计功效、I 型错误率与模型选择，属于 [[Argument_Higgins_2016_ROE\|Higgins (2016)]] 所说的方法学过程研究，而非实质性主题综合。三代划分是方法学成熟度的分层而非严格的时间先后，2026 年发表的 Güngör、Erdem、Ünal 等研究仍属第二代做法。
+>   在单水平框架内引入系统检索、质量评级、效应量统一换算、[[Inverse-Variance Weighting\|逆方差加权]][[Random-Effects Model\|随机效应模型]]与重叠控制，至今仍是二阶元分析的主流做法。
 >
-> - **第三代：现代多水平、集群稳健二阶元分析与[[Metascience|元科学]]质量审计（2013–至今）**
+>   - **1996** Sipe and Curlette 以系统检索和明确纳入标准推进元综合方法论。
+>   - **2012** Cooper and Koenka 在 *American Psychologist* 阐述[[Umbrella Review|综述之综述]]的方法学规范。
+>   - **2014** Pieper et al. 提出[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA）量化重叠。
+>   - **2016** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应模型推导出六项方法论规范。
+>   - **2026** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]、[[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]]、[[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 将该做法用于[[Cooperative Learning\|合作学习]]、问题本位学习与 AI 教育应用。
 >
->   Hedges, Tipton and Johnson（2010）在《Research Synthesis Methods》将[[Robust Variance Estimation\|稳健方差估计]]（RVE）引入元分析，Tipton（2015）补充小样本自由度校正；Van den Noortgate et al.（2013）与 Cheung（2014）建立三水平元分析模型；Pustejovsky and Tipton（2022）提出[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）并将其作为 RVE 的工作模型；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 在[[Creativity\|创造力]]全领域综合中将这一组合用于二阶元分析。另有一条平行的心理测量路线：Schmidt and Oh（2013）在《Organizational Behavior and Human Decision Processes》基于 Hunter–Schmidt 元分析传统提出二阶元分析方法，估计各元分析平均效应之间的变异中有多少来自二阶[[Sampling Error\|抽样误差]]。第三代方法放弃单水平独立性假设，尽可能对初级研究去重，采用 **CHE** 进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内效应量间变异、Level 3 跨元分析变异），结合 **RVE（三明治估计量）** 提供在工作模型设定有误时仍然一致的[[Standard Error\|标准误]]，并以 Satterthwaite 自由度 $t$ 检验或 HTZ 检验（近似 Hotelling $T^2$ 的 $F$ 检验）进行小样本推断。与此同时，面对第一代海量二阶证据库的泛滥，[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 建立了**全库[[Preregistration|预注册]]二阶元科学审计范式** 通过对《可见的学习》322 个影响因素开展独立重抽样与[[Chain of Evidence|证据链]]追溯，证实缺乏严格 [[PICO Framework|PICO]] [[Construct|构念]]对齐的一阶汇总在面临复现检验时会遭遇体系性崩溃（301 项可核查因素中仅 2 项可复现，44% 报告效应量在所引元分析中找不到），确立了“微观统计建模”与“宏观元科学证据审计”并重的新一代研究标准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–6)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1–28)]]
+> - **2010–至今** **第三代：多水平稳健建模与元科学审计**
+>
+>   以三水平模型分解变异、以[[Robust Variance Estimation\|稳健方差估计]]（RVE）处理集群内依赖，同时用[[Preregistration|预注册]]全库审计检验[[Chain of Evidence|证据链]]能否追溯与复现。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–6)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025)]]
+>
+>   - **2010** Hedges, Tipton and Johnson 将 RVE 引入元分析。
+>   - **2013** Van den Noortgate et al. 建立三水平元分析模型；Schmidt and Oh 提出估计二阶[[Sampling Error\|抽样误差]]的心理测量路线，与多水平路线平行。
+>   - **2014** Cheung 以结构方程模型框架实现三水平元分析。
+>   - **2015** Tipton 与 Tipton and Pustejovsky 给出 RVE 小样本校正。
+>   - **2022** Pustejovsky and Tipton 提出[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）作为 RVE 工作模型。
+>   - **2025** [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 审计《可见的学习》322 个影响因素，301 项可核查因素中仅 2 项可复现。
+>   - **2026** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 以 CHE、RVE 与多水平 Egger 检验完成[[Creativity\|创造力]]全领域二阶元分析。
+
+三代划分是方法学成熟度的分层而非严格的时间先后，三条路线在 2010 年后长期并存，各代的具体做法见上方多维对比表。另需区分 Cafri, Kromrey and Brannick（2010）发表于 *Multivariate Behavioral Research* 的 meta-meta-analysis：它以元分析为单位审查统计功效与模型选择，属于 [[Argument_Higgins_2016_ROE\|Higgins (2016)]] 所说的方法学过程研究，而非实质性主题综合。
 
 ---
 
@@ -261,13 +278,42 @@ updated: 2026-10-22
 > [!concept-lens] 第三代方法适用情境
 > 适用于存在多结果重叠依赖、一阶元分析内部嵌套多重效应量集群（Clusters）、初级研究无法完全去重以及[[Heterogeneity\|异质性]]极高的大型复杂宏观[[Research Synthesis|证据综合]]。
 
-> [!contrast-table] 第三代核心统计方法矩阵
-> | 方法与定位 | 解决的核心统计问题与方法论痛点 | 判断标准与决策阈值 |
-> |:---|:---|:---|
-> | **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型（CHE）]]**<br><small>方差分解与三水平加权工作模型</small> | Pustejovsky and Tipton（2022）提出。模型为 $y_{ij} = \mu + u_j + v_{ij} + e_{ij}$：$u_j \sim N(0, \tau^2)$ 为 Level 3 跨元分析变异，$v_{ij} \sim N(0, \omega^2)$ 为 Level 2 元分析内效应量间变异，$e_{ij}$ 为 Level 1 抽样误差，同一集群内 $\operatorname{Cov}(e_{ij}, e_{hj}) = \rho\sqrt{V_{ij}V_{hj}}$。同时处理相关效应与层级效应的**双重依赖问题**，工作模型近似正确时给出接近最优的权重矩阵 $\mathbf{W}$。 | **三水平方差分布诊断** 报告 $\tau^2$、$\omega^2$ 及各水平 $I^2$ 分布（Cheung, 2014）；以似然比检验比较三水平模型与去掉 $\tau^2$ 或 $\omega^2$ 的简化模型，判断多水平建模是否必要；$\rho$ 为假定值，应做敏感性分析。 |
-> | **[[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]**<br><small>稳健统计推断与[[Standard Error\|标准误]]校正</small> | Hedges, Tipton and Johnson（2010）引入元分析：$\hat{\mathbf{V}}^{R} = (\mathbf{X}'\mathbf{W}\mathbf{X})^{-1}\left(\sum_j \mathbf{X}_j'\mathbf{W}_j\mathbf{A}_j\mathbf{e}_j\mathbf{e}_j'\mathbf{A}_j\mathbf{W}_j\mathbf{X}_j\right)(\mathbf{X}'\mathbf{W}\mathbf{X})^{-1}$，$\mathbf{A}_j$ 为 CR2 偏差校正矩阵。解决**集群内**依赖结构未知或工作模型设定有误导致标准误失真的问题，所得标准误随集群数增大而一致。前提是集群之间相互独立，不同元分析共享初级研究造成的跨集群相关不会被 RVE 吸收。 | **小样本自由度安全门槛** 单系数检验用 Satterthwaite 自由度 $t$ 检验，多参数检验用 HTZ 检验（Tipton & Pustejovsky, 2015）；有效自由度 **$\text{df} < 4$** 时结果不可信（Tipton, 2015）。 |
-> | **[[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]**<br><small>多水平[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正</small> | 将 $SE_{ij}$ 作为调节变量纳入三水平模型 $y_{ij} = \beta_0 + \beta_1 SE_{ij} + u_j + v_{ij} + e_{ij}$，并以 RVE 推断，避免把集群内聚集误判为偏倚（Fernández-Castilla et al., 2021; Rodgers & Pustejovsky, 2021）。 | **双重参数研判准则** ① 斜率 $\beta_1$：$p < .05$ 提示存在小研究效应（不等同于发表偏倚）；② 截距 $\beta_0$：$SE \to 0$ 时的外推效应量，即 PET 型校正估计。真实效应不为零时 PET 常偏于低估，可改用以 $SE^2$ 为预测变量的 PEESE（Stanley & Doucouliagos, 2014）。 |
-> | **[[Second-Order Meta-Regression\|二阶元回归（Second-Order Meta-Regression）]]**<br><small>全领域[[Heterogeneity\|异质性]]来源多水平分解与调节检验</small> | 解决宏观二阶效应量高度离散、单一平均值掩盖因果机制的问题，在控制文献重叠下系统检验[[Construct\|构念]]分类、[[Variable\|变量]]角色与研究特征的[[Interaction Effect\|调节效应]]。 | **全模型与亚组解释力标准** 通过多变量 $F$ 检验（$p < .05$）判断协变量联合调节显著性；计算 $R^2$ 评估调节变量对 Level 2 与 Level 3 异质性方差的解释比例。 |
+> [!formula-step] [[Correlated and Hierarchical Effects Model\|相关与层级效应模型（CHE）]]　方差分解与三水平加权工作模型
+> $$y_{ij} = \mu + u_j + v_{ij} + e_{ij}, \quad u_j \sim N(0, \tau^2), \quad v_{ij} \sim N(0, \omega^2)$$
+> $$\operatorname{Cov}(e_{ij}, e_{hj}) = \rho\sqrt{V_{ij}V_{hj}}$$
+>
+> **符号** $u_j$ 为 Level 3 跨元分析变异，$v_{ij}$ 为 Level 2 元分析内效应量间变异，$e_{ij}$ 为 Level 1 抽样误差（方差 $V_{ij}$ 已知），$\rho$ 为同一集群内抽样误差的假定相关。（Pustejovsky & Tipton, 2022）
+>
+> **解决的问题** 同时处理相关效应与层级效应的**双重依赖问题**，工作模型近似正确时给出接近最优的权重矩阵 $\mathbf{W}$。
+>
+> **判断标准** 报告 $\tau^2$、$\omega^2$ 及各水平 $I^2$ 分布（Cheung, 2014）；以似然比检验比较三水平模型与去掉 $\tau^2$ 或 $\omega^2$ 的简化模型，判断多水平建模是否必要；$\rho$ 为假定值，应做敏感性分析。
+
+> [!formula-step] [[Robust Variance Estimation\|稳健方差估计（RVE / 三明治估计量）]]　稳健统计推断与[[Standard Error\|标准误]]校正
+> $$\hat{\mathbf{V}}^{R} = \underbrace{(\mathbf{X}'\mathbf{W}\mathbf{X})^{-1}}_{\text{bread}} \underbrace{\left(\sum_j \mathbf{X}_j'\mathbf{W}_j\mathbf{A}_j\mathbf{e}_j\mathbf{e}_j'\mathbf{A}_j\mathbf{W}_j\mathbf{X}_j\right)}_{\text{meat}} \underbrace{(\mathbf{X}'\mathbf{W}\mathbf{X})^{-1}}_{\text{bread}}$$
+>
+> **符号** $\mathbf{W}$ 为工作模型（如 CHE）给出的权重矩阵，$\mathbf{e}_j$ 为集群 $j$ 的残差向量，$\mathbf{A}_j$ 为 CR2 偏差校正矩阵。（Hedges, Tipton & Johnson, 2010）
+>
+> **解决的问题** **集群内**依赖结构未知或工作模型设定有误导致标准误失真，所得标准误随集群数增大而一致。前提是集群之间相互独立，不同元分析共享初级研究造成的跨集群相关不会被 RVE 吸收。
+>
+> **判断标准** 单系数检验用 Satterthwaite 自由度 $t$ 检验，多参数检验用 HTZ 检验（Tipton & Pustejovsky, 2015）；有效自由度 $\text{df} < 4$ 时结果不可信（Tipton, 2015）。
+
+> [!formula-step] [[Multilevel Egger's Test\|多水平艾格检验（Multilevel Egger's Test）]]　多水平[[Small Study Effects\|小研究效应]]诊断与截距偏倚校正
+> $$y_{ij} = \beta_0 + \beta_1 SE_{ij} + u_j + v_{ij} + e_{ij}$$
+>
+> **解决的问题** 将 $SE_{ij}$ 作为调节变量纳入三水平模型并以 RVE 推断，避免把集群内聚集误判为偏倚。（Fernández-Castilla et al., 2021; Rodgers & Pustejovsky, 2021）
+>
+> **判断标准**
+> 1. 斜率 $\beta_1$：$p < .05$ 提示存在小研究效应（不等同于发表偏倚）；
+> 2. 截距 $\beta_0$：$SE \to 0$ 时的外推效应量，即 PET 型校正估计。真实效应不为零时 PET 常偏于低估，可改用以 $SE^2$ 为预测变量的 PEESE（Stanley & Doucouliagos, 2014）。
+
+> [!formula-step] [[Second-Order Meta-Regression\|二阶元回归（Second-Order Meta-Regression）]]　全领域[[Heterogeneity\|异质性]]来源多水平分解与调节检验
+> $$y_{ij} = \beta_0 + \sum_{k} \beta_k x_{kij} + u_j + v_{ij} + e_{ij}, \qquad R^2_{(3)} = \frac{\tau^2_{0} - \tau^2_{1}}{\tau^2_{0}}, \quad R^2_{(2)} = \frac{\omega^2_{0} - \omega^2_{1}}{\omega^2_{0}}$$
+>
+> **符号** $x_{kij}$ 为调节变量；下标 0、1 分别表示不含与含调节变量的模型。
+>
+> **解决的问题** 宏观二阶效应量高度离散、单一平均值掩盖因果机制，在控制文献重叠下系统检验[[Construct\|构念]]分类、[[Variable\|变量]]角色与研究特征的[[Interaction Effect\|调节效应]]。
+>
+> **判断标准** 以稳健 Wald 检验（HTZ）判断协变量联合调节显著性（$p < .05$）；用各水平伪 $R^2$ 评估调节变量对 Level 2 与 Level 3 异质性的解释比例。
 
 ---
 
