@@ -4,17 +4,17 @@ aliases:
   - No Child Left Behind Act
   - 不让一个孩子掉队法案
   - NCLB
-summary: "Bush 政府 ESEA 重新授权，“科学本位研究”出现 110 次，将实验证据标准嵌入联邦教育项目核心，ESSA (2015) 的前身"
+summary: "2001年美国联邦《初等与中等教育法》（ESEA）重大重新授权法案；将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立3–8年级全员统考与学年充分进展（AYP）阶梯制裁，全文110次提及“科学本位研究”并将实验因果证据确立为联邦资助准入门槛；其实施引发各州调低及格线的竞相向下沉沦及课程窄化，后被《每个学生成功法》（ESSA 2015）替代"
 type: fact
 subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 69
-fact_related_level: 6
-fact_related_stars: "💎💎"
+fact_related_count: 74
+fact_related_level: 7
+fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
-issuing_organization: ''
+issuing_organization: "美国联邦教育部（U.S. Department of Education & U.S. Congress）"
 tags:
   - no-child-left-behind
   - evidence-based-education
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Test-Based Accountability]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods:
@@ -83,6 +84,9 @@ related_facts:
   - "[[Kenniskamer]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[Institute of Education Sciences]]"
+  - "[[Educational Testing Service]]"
+  - "[[National Education Association]]"
+  - "[[American Federation of Teachers]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
   - "[[Argument_Hattie_2005_ACER]]"
@@ -98,10 +102,11 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 related_instruments: []
 confidence: high
-status: draft
-created: '2026-05-01'
+status: completed
+created: 2026-05-01
 updated: 2026-10-21
 ---
 
@@ -112,35 +117,36 @@ updated: 2026-10-21
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2001 年由美国国会通过，乔治·沃克·布什（George W. Bush）总统于 2002 年 1 月签署颁布，是布什政府第一项重大国内立法倡议。([[Argument_Slavin_2002_ER\|Slavin, 2002, pp. 15–16]])
-> - **适用地区 / 对象** 全美公立初等与中等教育学校（K–12），重点覆盖接受 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦专项资助的高贫困学校及各学区。
-> - **问题背景与资源悖论** 旨在回应 1990 年代以来全美对学生[[Academic Achievement\|学业成就]]差距与教育质量平庸的担忧。埃里克·汉努舍克（Eric Hanushek, 2005）的实证考证揭示了深层动因：1960 至 2000 年间，全美公立学校生均实际支出激增 240%（从 \$2,235 升至 \$7,591 美元），生师比从 25.8 降至 17.3，硕士学历师资占比翻倍（24% 升至 56%），但全美教育进展评估（[[National Assessment of Educational Progress|NAEP]]）17 岁学生的读写、数学与科学成绩在过去 30 年中呈现近乎完全平缓的停滞曲线；巨额财政投入与学业产出的严重脱钩引发了公众与政界的系统性焦虑，倒逼国会推行严苛的高利害测试问责。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 12–13)]]
-> - **制度位置与功能属性** 政策是对 1965 年《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的重大重新授权，是美国联邦教育法历史上干预性最强的一版，也是后续《[[Every Student Succeeds Act\|每一个学生成功法案]]（Every Student Succeeds Act, ESSA 2015）》的直接前身。在制度功能上，NCLB 属于典型的“服务支出规制法案”（Service Statute）：其立法核心在于规约受助学区如何使用联邦数百亿美元公帑购买教学服务；依据美国宪法第十修正案，联邦无权直接规定地方课程，因此法案通过将 1998 年《[[Reading Excellence Act|卓越阅读法案]]》确立的“[[Scientifically Based Research|科学本位研究]]”表述高密度平移（全文 110 次提及），以刚性财政支出审查杠杆强推实证控制与高利害问责。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]; [[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 41)]]
+> - **发布时间 / 发布主体** 2001 年由美国国会通过，乔治·沃克·布什（George W. Bush）总统于 2002 年 1 月签署颁布，是布什政府第一项重大国内立法倡议。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
+> - **适用地区 / 对象** 全美公立初等与中等教育学校（K–12），重点覆盖接受 [[Title I of the Elementary and Secondary Education Act|Title I]] 联邦专项资助的高贫困学校及各学区。
+> - **问题背景与资源悖论** 旨在回应 1990 年代以来全美对学生[[Academic Achievement|学业成就]]差距与教育质量平庸的担忧。埃里克·汉努舍克（Eric Hanushek, 2005）的实证考证揭示了深层动因：1960 至 2000 年间，全美公立学校生均实际支出激增 240%（从 \$2,235 升至 \$7,591 美元），生师比从 25.8 降至 17.3，硕士学历师资占比翻倍（24% 升至 56%），但全美教育进展评估（[[National Assessment of Educational Progress|NAEP]]）17 岁学生的读写、数学与科学成绩在过去 30 年中呈现近乎完全平缓的停滞曲线；巨额财政投入与学业产出的严重脱钩引发了公众与政界的系统性焦虑，倒逼国会推行严苛的高利害测试问责。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 12–13)]]
+> - **制度位置与功能属性** 政策是对 1965 年《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]》（Elementary and Secondary Education Act of 1965, ESEA）的重大重新授权，是美国联邦教育法历史上干预性最强的一版，也是后续《[[Every Student Succeeds Act|每个学生成功法]]案》（Every Student Succeeds Act, ESSA 2015）的直接前身。在制度功能上，NCLB 属于典型的“服务支出规制法案”（Service Statute）：其立法核心在于规范受助学区如何使用联邦数百亿美元公帑购买教学服务；依据美国宪法第十修正案，联邦无权直接规定地方课程，因此法案通过将 1998 年《[[Reading Excellence Act|卓越阅读法案]]》确立的“[[Scientifically Based Research|科学本位研究]]”表述高密度平移（全文 110 次提及），以刚性财政支出审查机制推行实证控制与高利害问责。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]; [[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 41)]]
+> - **意识形态话语策略与宪制突破** 安东尼·韦尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 253–254]]）考证指出，美国基础教育长期受制于高度分权的宪制体系，联邦直接干预教育存在制度阻力；NCLB 的立法突破关键在于将新自由主义的市场选择诉求与弥合种族学业差距的民权话语（Civil Rights Discourse）进行策略性捆绑，使传统的右翼绩效问责获得了捍卫弱势群体的道德合法性，从而在两党跨党派支持下突破了分权传统。
 
 ---
 
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> NCLB 强制要求各州建立统一的学业标准与年度测试问责体系，全文 110 次提及“[[Scientifically Based Research\|科学本位研究]]”（scientifically based research），首次以联邦法律形式将基于[[Randomised Controlled Trials\|随机对照试验]]（RCT）与[[Quasi-Experimental Designs\|准实验设计]]（QED）的实证[[Evidence Standards\|证据标准]]嵌入联邦教育拨款与学校问责的核心机制中。([[Argument_Slavin_2002_ER\|Slavin, 2002, p. 16]]; [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])
+> NCLB 强制要求各州建立统一学术标准与 3–8 年级全员年度测试问责体系，确立学年充分进展（[[Adequate Yearly Progress|AYP]]）阶梯制裁，并将全文 110 次提及的“[[Scientifically Based Research|科学本位研究]]”（SBR）作为联邦教育拨款与采购的法定准入门槛。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement\|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。
+> - **政策目标** 确保所有儿童接受公平、高质量教育，消除基于种族、贫困和特殊需求的[[Academic Achievement|学业成就]]差距，要求到 2013–2014 学年全美学生 100% 达到州立标准的“熟练”（proficient）水平。
 > - **适用对象** 全美各州教育厅、学区公立中小学校、K–12 教师及在读学生。
-> - **政策工具** 借助联邦 [[Elementary and Secondary Education Act of 1965\|ESEA]] 专项拨款（整体拨款因法案增长 18%，创当时历史新高），重点嵌入以下核心项目：
->   - **[[Title I of the Elementary and Secondary Education Act\|Title I]]** — 为高贫困学校提供补充教育资金；
->   - **Reading First** — K–3 年级阅读教学专项扶持；
->   - **Early Reading First** — 学前阶段早期阅读项目；
->   - **Comprehensive School Reform (CSR)** — [[Comprehensive School Reform Program\|综合学校改革项目]]；
->   - **学校报告卡（School Report Card）** — 强制各州和学区公开追踪并公示学校统考表现、师资资质及学年中途转校率（[[Student Mobility|学生流动性]]）。
-> - **规制型治理进路（Regulatory Approach）** 法案采取了典型的规制型政策进路，设定强制性法定框架以监督并纠正违规办学行为；将[[Scientifically Based Research\|基于科学的研究]]与单一量化达标作为拨款准入的硬性门槛，明确规定了严苛的不达标惩戒后果。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
-> - **约束机制** 实行严格的学年[[Adequate Yearly Progress|充分学业进展]]（Adequate Yearly Progress, AYP）绩效问责制；对未达标学校实施阶梯式行政与财务制裁（包括学生转学、补充教育服务、重组管理层直至学校关闭）；要求获得联邦资助的教学项目必须严格符合“[[Scientifically Based Research\|科学本位研究]]”标准。
+> - **政策工具** 借助联邦 [[Elementary and Secondary Education Act of 1965|ESEA]] 专项拨款（整体拨款因法案增长 18%），重点嵌入以下核心项目：
+>   - **[[Title I of the Elementary and Secondary Education Act|Title I]]** 为高贫困学校提供补充教育资金；
+>   - **Reading First** K–3 年级阅读教学专项扶持；
+>   - **Early Reading First** 学前阶段早期阅读项目；
+>   - **Comprehensive School Reform (CSR)** [[Comprehensive School Reform Program|综合学校改革项目]]；
+>   - **学校报告卡（School Report Card）** 强制各州和学区公开追踪并公示学校统考表现、师资资质及学年中途转校率（[[Student Mobility|学生流动性]]）。
+> - **规制型治理进路（Regulatory Approach）** 法案采取了典型的规制型政策进路，设定强制性法定框架以监督并纠正违规办学行为；将[[Scientifically Based Research|基于科学的研究]]与单一量化达标作为拨款准入的硬性门槛，明确规定了严苛的不达标惩戒后果。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 41)]]
+> - **约束机制** 实行严格的学年[[Adequate Yearly Progress|充分学业进展]]（Adequate Yearly Progress, AYP）绩效问责制；对连续未达标学校实施阶梯式行政与财务制裁（包括学生转学、补充教育服务、重组管理层直至学校关闭）；要求获得联邦资助的教学项目必须严格符合“[[Scientifically Based Research|科学本位研究]]”标准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
 > [!figure] 图 1　NCLB 法案中关于科学本位研究的法定定义（Title IX, Sec. 9101(37)）
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig3_NCLB_Definition_SBR.jpg)
 
 > [!citation-card] 科学本位研究法定定义
-> “采用严格、系统和客观程序以获得有效知识的研究”，包括“使用实验或准实验设计进行评估”的研究，最好使用[[Random Assignment\|随机分配]]。(U.S. Congress, 2001, cited in [[Argument_Slavin_2002_ER\|Slavin, 2002, p. 16]]; [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
+> “采用严格、系统和客观程序以获得有效知识的研究”，包括“使用实验或准实验设计进行评估”的研究，最好使用[[Random Assignment|随机分配]]。(U.S. Congress, 2001, cited in [[Argument_Slavin_2002_ER|Slavin, 2002, p. 16]]; [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
 >
 > *"The term 'scientifically based research' means research that involves the application of rigorous, systematic, and objective procedures to obtain reliable and valid knowledge relevant to education activities and programs... includes experimental or quasi-experimental designs... with a preference for random-assignment experiments."*
 
@@ -149,11 +155,12 @@ updated: 2026-10-21
 ## 时间线
 
 > [!dev-timeline] 政策时间线
-> - **2001** — NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 [[Elementary and Secondary Education Act of 1965\|ESEA]] 的重新授权法案。
-> - **2002** — 布什总统于 1 月正式签署生效。Robert E. Slavin 发表专题分析，指出 NCLB 法定“[[Scientifically Based Research\|科学本位研究]]”概念界定缺乏[[Operationalization\|操作化]]标准化，任何教学项目都能寻得支持性文献，尚未产生实质性实践约束。([[Argument_Slavin_2002_ER\|Slavin, 2002, pp. 16, 18–19]])
-> - **2003** — 美国教育研究协会（[[American Educational Research Association\|AERA]]）前主席罗伯特·林恩（Robert Linn）发表著名会长演说，通过数学外推指出：按过去十年的实际进步速率，四年级数学达成 100% 达标需 150 年，八年级数学需 160 年；要求 2013–2014 年全员达标属于不可企及的政治幻想，除非出现具有“原子弹级规模”的颠覆性技术创新。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]; Linn (2003)
-> - **2002–2014** — NCLB 的 [[Adequate Yearly Progress|AYP]] 问责条款引发全美范围的治理反弹与学术争议；要求至 2014 年实现 100% 熟练水平的法定红线被普遍批评为违背统计规律与教育现实。
-> - **2015** — 贝拉克·奥巴马（Barack Obama）总统签署《[[Every Student Succeeds Act\|每个学生成功法]]案》（Every Student Succeeds Act，ESSA），正式替代 NCLB。ESSA 废除了严苛的联邦统一处罚机制，将过于笼统的“[[Scientifically Based Research\|科学本位研究]]”重构为四级操作化证据层级（强证据、中等证据、有希望证据与理论依据）。([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])
+> - **2001** NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 [[Elementary and Secondary Education Act of 1965|ESEA]] 的重新授权法案。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
+> - **2002** 布什总统于 1 月正式签署生效。罗伯特·E·斯拉文（Robert E. Slavin）发表专题分析，指出 NCLB 法定“[[Scientifically Based Research|科学本位研究]]”概念界定缺乏[[Operationalization|操作化]]标准，任何教学项目都能寻得支持性文献，尚未产生实质性实践约束。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 16, 18–19)]]
+> - **2003** 美国教育研究协会（[[American Educational Research Association|AERA]]）前主席罗伯特·林恩（Robert Linn）发表会长演说，通过数学外推指出：按过去十年的实际进步速率，四年级数学达成 100% 达标需 150 年，八年级数学需 160 年；要求 2013–2014 年全员达标属于不可企及的政治幻想。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
+> - **2002–2014** NCLB 的 [[Adequate Yearly Progress|AYP]] 问责条款引发全美范围的治理反弹与学术争议；要求至 2014 年实现 100% 熟练水平的法定红线诱发各州下调及格切分点（竞相向下沉沦）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **2011** 奥巴马政府启动《[[Race to the Top|力争上游]]》（RTTT）并出台 ESEA 灵活性豁免，要求各州采纳统一学术标准（如 CCSS）并试点将学生统考成绩与教师评价解聘挂钩的增值模型（VAM）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
+> - **2015** 贝拉克·奥巴马（Barack Obama）总统签署《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015），正式替代 NCLB。ESSA 废除了严苛的联邦统一处罚机制，将过于笼统的“[[Scientifically Based Research|科学本位研究]]”重构为四级操作化证据层级。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 109)]]
 
 ---
 
@@ -163,20 +170,56 @@ updated: 2026-10-21
 > - **发布与主导主体** 美国联邦教育部（ED），负责制定统一规章、审批各州实施计划并监督专项拨款拨付。
 > - **执行主体** 各州教育厅（制定本州学术标准与年度测试量度）与地方学区（组织统考与落实干预措施）。
 > - **适用对象** K–12 公立学校管理团队、学科任课教师及全体在读学生。
-> - **政策工具** 联邦财政专项资助杠杆、[[Adequate Yearly Progress|AYP]] 阶梯式问责制裁、全州统考量化排名与“[[Scientifically Based Research\|科学本位研究]]”合规性审核。
+> - **政策工具** 联邦财政专项资助机制、[[Adequate Yearly Progress|AYP]] 阶梯式问责制裁、全州统考量化排名与“[[Scientifically Based Research|科学本位研究]]”合规性审核。
 
 > [!pathways] 实施路径与评估机制转向
 > - **中央标准与地方测试落实** 各州依据联邦框架制定阅读与数学学术标准，并在 3–8 年级及高中阶段推行年度全员统考；学校与学区被强制要求公开发布按种族、家庭收入、特殊教育需求及英语学习者（EL）分层的学生学业细分报告。
-> - **非学校情境缺失引发的治理危机** [[Argument_Downey_2016_SoE\|Downey and Condron (2016, pp. 10–11)]] 指出，NCLB 最初实施时完全依赖单一时间点的绝对通过率来评估学校，未对校际之间显著的非学校环境（如家庭[[Socioeconomic Status|社会经济地位]]差距）进行任何统计调整。由于校际成就差距在儿童进入幼儿园时便已广泛成型，这种不考虑情境的静态考评在方法学与教育学上毫无道理。
-> - **向增值评估（Value-Added Assessments）的制度转变** 面对治理危机，多州在执行后期逐步摒弃静态通过率，转向运用统计模型分离学校净增贡献的增值评估模型。Downey & Condron 将这一转变定性为“情境方的一次值得关注的胜利”（a noteworthy acknowledgment by policymakers that context matters），表明政策制定者被迫承认了学校外部社会环境的基础性作用。([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p. 11]])
+> - **非学校情境缺失引发的治理危机** [[Argument_Downey_2016_SoE|Downey and Condron (2016, pp. 10–11)]] 指出，NCLB 最初实施时完全依赖单一时间点的绝对通过率来评估学校，未对校际之间显著的非学校环境（如家庭[[Socioeconomic Status|社会经济地位]]差距）进行任何统计调整。由于校际成就差距在儿童进入幼儿园时便已广泛成型，这种不考虑情境的静态考评在方法学与教育学上存在重大缺陷。
+> - **向增值评估（Value-Added Assessments）的制度转变** 面对治理危机，多州在执行后期逐步摒弃静态通过率，转向运用统计模型分离学校净增贡献的增值评估模型。Downey & Condron 将这一转变定性为“情境方的一次值得关注的胜利”，表明政策制定者被迫承认了学校外部社会环境的基础性作用。[[Argument_Downey_2016_SoE|(Downey & Condron, 2016, p. 11)]]
 > - **学校报告卡与[[Student Mobility|学生流动]]的病态化编码** 法案强制推行的“学校报告卡”（School Report Card）要求公开追踪中小学生的学年中途转校率（[[Student Mobility|学生流动性]]）。在问责指标体系中，学生流动被问题化为表征贫困、家庭破裂与学业失败的“[[Transiency|流动漂泊]]”（Transiency），并被学校管理层视作解释未能达成 AYP 绩效目标的潜在推卸借口或失范指标，折射出空间[[Governmentality|治理术]]将不服从空间圈禁的学生界定为越轨群体的规训逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
-> - **各州标准碎片化与“竞相向下沉沦”（Race to the Bottom）** NCLB 授权各州自主界定“熟练”（proficient）标准并选择统考测验，导致全美形成 50 套互不可比的割裂标准。为规避未达 AYP 带来的严厉联邦制裁与重组处罚，大量州政府纷纷采取下调考试及格线、简化试题难度的“战略性妥协”。美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究确证，部分州报告的高达 80%–90% 的熟练率在国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）标准下仅对应 30% 左右的真实熟练水平。各州间的巨大差距与竞相向下沉沦的逆向激励，直接暴露了 NCLB 分权标准的制度失灵，为后续推动全美统一的[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）提供了最直接的危机动员依据。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **各州标准碎片化与“竞相向下沉沦”（Race to the Bottom）** NCLB 授权各州自主界定“熟练”（proficient）标准并选择统考测验，导致全美形成 50 套互不可比的割裂标准。为规避未达 AYP 带来的严厉联邦制裁与重组处罚，大量州政府纷纷采取下调考试及格线、简化试题难度的“战略性妥协”。美国国家教育统计中心（NCES, 2007）的实证映射研究确证，部分州报告的高达 80%–90% 的熟练率在国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）标准下仅对应 30% 左右的真实熟练水平。各州间的巨大差距与竞相向下沉沦的逆向激励，直接暴露了 NCLB 分权标准的制度失灵，为后续推动全美统一的[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）提供了最直接的危机动员依据。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **商业测评产业的利益锁定与支持联盟形成** 韦尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 259–260]]）考证指出，NCLB 确立的全员标准化统考为私营测评与出版巨头创造了庞大的市场机会；以教育测试服务社（[[Educational Testing Service|ETS]]）、培生（Pearson）为代表的测评机构结成强大的支持工具联盟（Pro-instrument Constituencies），通过深度参与命题、技术外包与政策游说，将基于测验的问责规程锁定为不可逆转的制度常态。
+
+---
+
+## 行动者与利益相关者
+
+> [!actor-grid] 权力—利益矩阵
+> - **高权力 · 高利益 — 关键行动者** 美国联邦教育部（ED）与白宫决策层（掌握 ESEA 拨款中枢与豁免审批权，借民权话语推进联邦规制）、国会参众两院教育委员会领袖。
+> - **高权力 · 低利益 — 潜在否决者或盟友** 各州教育厅（SEAs）与州长协会（拥有州内教育宪制管辖权，既依赖联邦财政资助，又通过调降及格线自保）。
+> - **低权力 · 高利益 — 受影响群体** 公立中小学教师与教师工会（[[National Education Association|全美教育协会]] NEA、[[American Federation of Teachers|美国教师联合会]] AFT） — 面对测试高压陷入支持民权标准与抵制高利害惩戒的话语困境；处境不利家庭与边缘学生。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260–261)]]
+> - **低权力 · 低利益 — 边缘行动者** 私营测验出版商与教育咨询机构（通过技术合同获利，形成坚固的支持工具阵营）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259–260)]]
+
+> [!prop-table]- 关键行动者属性
+> | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
+> |:---|:---|:---|:---|:---|
+> | 联邦教育部（ED） | 权威 / 资金 | 强化联邦规制，消除各群体学业差距 | 主导推动 | 绑定 Title I 拨款与豁免审查 |
+> | 各州教育厅（SEAs） | 权威 / 组织 | 维系联邦拨款同时保护本州学校免受制裁 | 妥协适应 | 调低及格切分点（竞相向下沉沦） |
+> | 商业测评机构（ETS、培生等） | 信息 / 资金 | 扩大标准化考试市场与合同收益 | 坚定支持 | 组建支持工具联盟，游说锁定测试规程 |
+> | 教师工会（NEA & AFT） | 组织 / 会员 | 保障教师权益与专业自主权 | 矛盾与抵制 | 受制于民权话语框架，从支持标准转向反对惩罚 |
+> | 处境不利学生与家庭 | 选民 / 权益 | 获得公平优质教学资源 | 诉求分化 | 借助公开数据维权或遭遇学校劝退免考 |
+
+> [!tension]- 联盟结构与冲突
+>
+> | 维度 | 联邦问责与市场测验联盟 | 基层工会与地方防御阵营 |
+> |:---|:---|:---|
+> | 核心行动者 | 联邦教育部、白宫、商业测验集团、民权倡导组织 | 各州教育行政部门、全美教育协会（NEA）、美国教师联合会（AFT）、一线教师 |
+> | 资源基础 | 数百亿美元 ESEA 拨款、法定统考规程、民权道德叙事 | 地方行政管辖权、300 万教师会员、课堂实际执行控制权 |
+> | 利益框架 | 强调以客观测量保障所有学生权益，打破公立系统平庸 | 强调教学情境复杂性，反对唯分数论惩戒与课程生态窄化 |
+> | 主要策略 | 设定刚性 AYP 考核红线与阶梯制裁，推动特许学校改制 | 调低及格线制造达标假象，诉诸司法诉讼与推动立法修订 |
+>
+> **关键分歧** 双方核心分歧在于：教育质量改进应依赖刚性量化指标惩戒倒逼，还是依托支持性资源投入与专业自主发展；以及外部标准化测验是否能够无损表征复杂的人性化育人过程。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254, 260–261)]]; [[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
 
 ---
 
 ## 效果与评价
 
-> [!finding-cards|notitle] 效果与评价
+> [!indicators] 评价指标
+> - **投入指标** 联邦 ESEA 专项拨款额度（增长 18%）、Title I 专项补偿资金、Reading First 与 CSR 专项资助规模。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
+> - **过程指标** 3–8 年级及高中全员年度测试参与率（法定 $\ge 95\%$）、各州及格切分点等值性、学校报告卡公示达标率。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **结果指标** 各亚群学业成就差距缩减幅度、AYP 阶段性达标比例、高利害问责诱发的作弊率与非统考科目课时压缩比。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]
+
+> [!finding-cards] 效果与评价
 > - **制度异化催生“竞相向下沉沦”并反向催化 [[Common Core State Standards|CCSS]] 运动** [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013, pp. 8–9)]] 考证指出，NCLB 严苛的高利害 [[Adequate Yearly Progress|AYP]] 问责与各州自主划定熟练线相结合，诱发了全美范围内的“竞相向下沉沦”（race to the bottom）。各州为制造达标假象不断降低及格门槛，致使州立测验通过率与 [[National Assessment of Educational Progress|NAEP]] 真实表现产生巨大断层（NCES, 2007）。这一由联邦政策逆向激励催生的国家教育质量信任危机，成为了政策倡导者（如国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将政策议程转向制定自愿性国家标准（CCSS）的关键证据催化剂。
 > - **流动性赤字编码与“漂泊”推诿机制** 法案强制推行的学校报告卡将[[Student Mobility|学生流动性]]编码为负向学校人口学特征，被学校管理层用于解释和推诿未达 AYP 的表现（Offenberg, 2004）。但实证研究表明，60% 的转校源于住房变动等家庭经济约束（Rumberger, 2003），且芝加哥低收入家庭频繁转学往往是逃避暴力和劣质学校的主动自救策略（Kerbow et al., 2003），高利害问责将结构性不平等归咎于家庭道德缺陷，诱发了对流动学生的次生空间排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 > - **催生并固化第一代[[Data-Based Decision Making|基于数据的决策]]模式** [[Argument_Brown_2017_EducRes|Brown et al. (2017, p. 157)]] 考证指出，现代[[Data-Based Decision Making|基于数据的决策]]（DBDM）历史发源于美国的问责政策，尤其是 NCLB 的出台将数据使用强制绑定于大规模标准化考试成绩与行政达标监控，催生了以终结性测试和高利害奖惩为特征的第一代 DBDM [[Paradigm|范式]]。这一模式不仅确立了数据作为学校治理核心依据的国际潮流，其过于窄化的唯分数论缺陷也直接倒逼后续国际学界（如荷兰与瑞典的[[Data Team Intervention|数据团队]]项目）反思并转向形成性改进与协作探究。
@@ -189,15 +232,21 @@ updated: 2026-10-21
 > [!effect-table]- 政策评估与实证数据
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
 >
-> | [[Evaluation Research\|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable\|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
+> | [[Evaluation Research|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
 > | NCES (2007)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 8–9)]] | 全美各州 2005 年州立统考与 NAEP 成绩对照数据 | 宏观政策映射与心理测量分数等值化分析 | 各州自定熟练线（Proficiency Cut-score）在 NAEP 尺度上的等值分数与达标率断层 | 多州公布的 **80%–90%** 达标率在 NAEP 尺度下仅对应 **25%–35%** 真实熟练度；各州自定标准最大跨度达两个完整年级水准 | 实证证实 NCLB 问责诱发各州普遍下调标准（竞相向下沉沦），构成 CCSS 统一国家标准运动的直接催化依据 |
-> | Hanushek (2005)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 12–13)]] | 全美公立学校 1960–2000 年宏观纵向数据 | 宏观教育经济学纵向追踪分析 | 财政生均支出、生师比、高学历教师占比 vs NAEP 17 岁[[Academic Achievement\|学业成绩]] | 生均实际支出激增 **240%**（\$2,235 $\to$ \$7,591），生师比降至 17.3，硕士师资升至 56%，但 NAEP 成绩近乎完全平缓停滞 | 揭示了传统资源投入与学业产出的严重脱钩，构成 NCLB 高利害问责立法的主要推力 |
+> | Hanushek (2005)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 12–13)]] | 全美公立学校 1960–2000 年宏观纵向数据 | 宏观教育经济学纵向追踪分析 | 财政生均支出、生师比、高学历教师占比 vs NAEP 17 岁[[Academic Achievement|学业成绩]] | 生均实际支出激增 **240%**（\$2,235 $\to$ \$7,591），生师比降至 17.3，硕士师资升至 56%，但 NAEP 成绩近乎完全平缓停滞 | 揭示了传统资源投入与学业产出的严重脱钩，构成 NCLB 高利害问责立法的主要推力 |
 > | Linn (2003)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]] | 全美 NAEP 统考历史增长率模型 | 统计外推与增长率线性建模 | 达成 100% 熟练水平（Proficiency）所需时间 | 按历史实际速率，四年级数学需 **150 年**、八年级数学需 **160 年** 方能实现 100% 达标 | 实证证实 NCLB 设定的 2014 年全员达标指标违背统计规律与教育现实 |
-> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；实证显示流动性显著负向预测学校统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
-| Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 全美加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | 强力[[Falsification\|证伪]]了 NCLB 政策假定中将学生流动等同于“家庭失范”与“学业冷漠”的赤字[[Discourse\|话语]] |
-| [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 1988–2017 年中小学实证[[Intervention Research\|干预研究]]库 | 政策法案与因果实证文献演进分析 | 符合严格因果标准（ESSA 强/中等）的研究产出数量 | 1988–2003 年（NCLB 前期）每两年仅产出 **0–2 项**合格因果研究；[[Institute of Education Sciences\|IES]] 成立及 i3 实施后跃升至每两年 **20+ 项** | 证明单纯提出“科学本位研究”口号无效，唯有配套公共研发管线才能形成项目存量 |
-| Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire\|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下高利害外部测试对教学行为与学校生态的严重扭曲 |
+> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；实证显示流动性显著负向预测学校统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
+> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 全美加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | 强力[[Falsification|证伪]]了 NCLB 政策假定中将学生流动等同于“家庭失范”与“学业冷漠”的赤字[[Discourse|话语]] |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 1988–2017 年中小学实证[[Intervention Research|干预研究]]库 | 政策法案与因果实证文献演进分析 | 符合严格因果标准（ESSA 强/中等）的研究产出数量 | 1988–2003 年（NCLB 前期）每两年仅产出 **0–2 项**合格因果研究；[[Institute of Education Sciences|IES]] 成立及 i3 实施后增长至每两年 **20+ 项** | 证明单纯提出“科学本位研究”口号无效，唯有配套公共研发管线才能形成项目存量 |
+> | Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下高利害外部测试对教学行为与学校生态的严重扭曲 |
+
+> [!stat-cards]- 核心数据
+> - **110** （次） 法案全文提及“[[Scientifically Based Research|科学本位研究]]”的总频次。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
+> - **100%** 法定要求至 2013–2014 学年全美学生达到的“熟练”水平比例。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
+> - **18%** NCLB 生效当年联邦基础教育拨款相比上一财年的增幅。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
+> - **80%–90% vs 25%–35%** 各州自定及格线达标率与 NAEP 真实熟练度之间的巨大统计落差。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 
 ---
 
@@ -208,22 +257,22 @@ updated: 2026-10-21
 > > [!axis] 争议一：过度迷信高风险问责与支持性资源供给脱节
 > > 政策假定施加惩罚性问责即可倒逼学校改进，忽视了改善学校能力所需的实质性资源支持。
 > >
-> > - **[[Argument_Slavin_2002_ER\|Slavin (2002)]]** 问责制是必要但不充分的手段，若无配套的高质量专业发展、有效课程材料与深层体制支持，单纯依靠指标问责无法带来实质性教育改进。
-> > - **林恩（Linn, 2003）的统计学批判** 将 2014 年 100% 熟练率设为硬性指标违背统计规律（四年级需 150 年、八年级需 160 年），导致绝大部分公立学校最终被技术性定性为“失败学校”，严重瓦解了公共政策公信力。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]
-> > - **[[Argument_Hattie_2005_ACER\|Hattie (2005)]] 的形成性证据批判** 自上而下的惩罚性问责不仅无法提供支持课堂教学改进的诊断性信息，反而诱发教师采用钻空子、钻营考题技巧与窄化课程等防御性策略；唯有将数据重塑为教师反思自身教学效能的形成性反馈，问责才能转化为实质学业增进。
+> > - **[[Argument_Slavin_2002_ER|Slavin (2002)]]** 问责制是必要手段，若无配套的高质量专业发展、有效课程材料与深层体制支持，单纯依靠指标问责无法带来实质性教育改进。
+> > - **林恩（Linn, 2003）的统计学批判** 将 2014 年 100% 熟练率设为硬性指标违背统计规律（四年级需 150 年、八年级需 160 年），导致绝大部分公立学校最终被技术性定性为“失败学校”，严重瓦解了公共政策公信力。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
+> > - **[[Argument_Hattie_2005_ACER|Hattie (2005)]] 的形成性证据批判** 自上而下的惩罚性问责不仅无法提供支持课堂教学改进的诊断性信息，反而诱发教师采用钻空子、钻营考题技巧与窄化课程等防御性策略；唯有将数据重塑为教师反思自身教学效能的形成性反馈，问责才能转化为实质学业增进。
 >
 > > [!axis] 争议二：教学法价值预设立法化与课程形态窄化
-> > 联邦法律将特定阅读教学[[Paradigm\|范式]]上升为强制准入要求，引发激烈的教育学哲学争论。
+> > 联邦法律将特定阅读教学[[Paradigm|范式]]上升为强制准入要求，引发激烈的教育学哲学争论。
 > >
-> > - **[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]]** NCLB 实际禁止联邦拨款流向不支持合成语音（synthetic phonics）的学区，将联邦政府直接绑定于特定教学流派。这一举措反映了 1990 年代全美反[[Whole Language\|全语言]]运动的意识形态渗透，限制了地方[[Teacher Professional Agency\|教师专业自主权]]。
+> > - **[[Argument_OConnor_2020_AJLL|O'Connor (2020)]]** NCLB 实际禁止联邦拨款流向不支持合成语音（synthetic phonics）的学区，将联邦政府直接绑定于特定教学流派。这一举措反映了 1990 年代全美反[[Whole Language|全语言]]运动的意识形态渗透，限制了地方[[Teacher Professional Agency|教师专业自主权]]。
 > > - **课程生态失衡** 统考科目与非统考科目的资源倾斜，导致基础教育人文素养与全面育人功能受到结构性侵蚀。
 >
 > > [!axis] 争议三：国家科研议程的强制窄化与实证方法学垄断
-> > 联邦政府借助财政杠杆对教育研究范式进行行政规制，引发[[Knowledge Production\|知识生产]]生态的深层失衡。
+> > 联邦政府借助财政拨款限制对教育研究范式进行行政规制，引发[[Knowledge Production|知识生产]]生态的深层失衡。
 > >
-> > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] & Fazekas and Burns (2012)** NCLB 作为国家立法强行规定教育研究议程的典型案例，通过财政拨款限制（funding restrictions）将研究资助严苛绑定于特定实证方法（尤其是大规模量化 [[Randomised Controlled Trials\|RCT]]），对国家教育科研生产方式进行强力规训。
-> > - **[[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003, pp. 31–34)]] 的制度功能分野剖析** 指出学界早期对 NCLB 的抗议往往将其与整个联邦教育科研体系（如 ESRA 2002 与 IES）混为一谈；NCLB 的法定定义本质上是服务支出法案（Service Statute）下的财务合规门槛，用于规约受助学区证明联邦公帑采购方案的有效性，因此必然偏向控制论下的严格实验假设检验；但如果将这种服务支出[[Standard Error|标准误]]用为全域科学研究的唯一准则，则会严重扼杀探索性与理论性研究。后续 [[Education Sciences Reform Act 2002|ESRA 2002]] 在国会听证与专业质证下确立“方法契合[[Research Question|研究问题]]”，正是对 NCLB 单一实验垄断的制度纠偏。
-> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022, pp. 60–65)]]** 尽管这种以单一[[Causality\|因果推断]]为核心的标准保障了 [[What Works Clearinghouse\|WWC]] 的高[[Internal Validity\|内部效度]]并赢得了制度化预算，但其严苛门槛导致干预方案筛选通过率畸低，且在制度上排斥了复杂的本土[[Phronesis\|实践智慧]]与质性证据，甚至使“证据知情”标签容易沦为商业利益集团的营销工具。这种方法学垄断危机直接促使后续 ESSA (2015) 走向包容性更强的四级[[Operationalization\|操作化]]分级框架。
+> > - **[[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] & Fazekas and Burns (2012)** NCLB 作为国家立法强行规定教育研究议程的典型案例，通过财政拨款限制（funding restrictions）将研究资助严苛绑定于特定实证方法（尤其是大规模量化 [[Randomised Controlled Trials|RCT]]），对国家教育科研生产方式进行强力规训。
+> > - **[[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003, pp. 31–34)]] 的制度功能分野剖析** 指出学界早期对 NCLB 的抗议往往将其与整个联邦教育科研体系（如 ESRA 2002 与 IES）混为一谈；NCLB 的法定定义本质上是服务支出法案（Service Statute）下的财务合规门槛，用于要求受助学区证明联邦公帑采购方案的有效性，因此必然偏向控制论下的严格实验假设检验；但如果将这种服务支出[[Standard Error|标准误]]用为全域科学研究的唯一准则，则会严重扼杀探索性与理论性研究。后续 [[Education Sciences Reform Act 2002|ESRA 2002]] 在国会听证与专业质证下确立“方法契合[[Research Question|研究问题]]”，正是对 NCLB 单一实验垄断的制度纠偏。
+> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022, pp. 60–65)]]** 尽管这种以单一[[Causality|因果推断]]为核心的标准保障了 [[What Works Clearinghouse|WWC]] 的高[[Internal Validity|内部效度]]并赢得了制度化预算，但其严苛门槛导致干预方案筛选通过率畸低，且在制度上排斥了本土[[Phronesis|实践智慧]]与质性证据，甚至使“证据知情”标签容易沦为商业利益集团的营销工具。这种方法学垄断危机直接促使后续 ESSA (2015) 走向包容性更强的四级[[Operationalization|操作化]]分级框架。
 > > - **知识生态扭曲效应** 这种方法学垄断压制了非[[Experimental Research|实验研究]]、质性探索与理论建构空间，忽视了复杂教育情境中不同类型知识的互补性，导致教育研究成果与一线复杂的实践生态脱节。
 >
 > > [!axis] 争议四：空间流动性的病态化编码与“漂泊”问责推诿
@@ -240,26 +289,30 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
+## 相关概念／理论
 
 > [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Adequate Yearly Progress]] | 政策事实 | NCLB 整个测试问责制的核心量度标尺与阶梯制裁执行引擎。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]] |
 > | [[Common Core State Standards]] | 政策事实 | NCLB 造成的各州标准割裂与“向下沉沦”危机，成为全美催生统一共同核心标准的直接催化剂与动员抓手。[[Argument_McDonnell_2013_AmJE\|(McDonnell & Weatherford, 2013, pp. 8–9)]] |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 深入考证 NCLB 的制度逆向激励与 NCES 映射实证数据如何被政策倡导者转化为制定国家标准的政治催化剂。 |
+> | [[Test-Based Accountability]] | 核心概念 | NCLB 属于全球基于测试的问责制中最具标志性的国家法定形态。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 253–254)]] |
+> | [[Educational Testing Service]] | 机构事实 | 深度参与 NCLB 州级统考命题并受政策红利支撑的大型测评产业核心机构。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 259–260)]] |
+> | [[National Education Association]] | 机构事实 | 全美最大教师工会，在 NCLB 推行中陷入民权公平诉求与抵制高利害惩罚的双重困境。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 260–261)]] |
+> | [[American Federation of Teachers]] | 机构事实 | 早期支持严格国家标准、后期转向抵制狭隘统考与高利害惩罚的教师工会组织。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 260–261)]] |
 > | [[Data-Based Decision Making]] | 概念 | NCLB 是推动第一代基于数据的决策（DBDM）并在全球普及大规模标准化测试数据利用的政策发源地。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]] |
-> | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] | 论证条目 | 考证 NCLB 作为 DBDM 历史起点的问责渊源，分析其将数据利用窄化为终结性考试的局限。 |
-> | [[Evidence-Based Reform]] | 概念 / 理论 | NCLB 是美国[[Evidence-Based Education\|循证教育]]改革思潮由学术构想走向国家立法的早期制度化标杆。 |
+> | [[Evidence-Based Reform]] | 概念 / 理论 | NCLB 是美国[[Evidence-Based Education|循证教育]]改革思潮由学术构想走向国家立法的早期制度化标杆。 |
 > | [[Scientifically Based Research]] | 政策概念 / 准入标准 | NCLB 全文 110 次提及的法定证据准入标准，首次将实验与准实验因果推断确立为联邦法定义务。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]] |
-> | [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] | 政策事实 | 替代 NCLB 的后续法律，确立了四级[[Operationalization\|操作化]]证据分级体系。 |
+> | [[Every Student Succeeds Act]] | 政策事实 | 替代 NCLB 的后续法律，确立了四级[[Operationalization|操作化]]证据分级体系。 |
 > | [[Comprehensive School Reform Program]] | 项目事实 | 与 NCLB 协同推行的联邦证据本位项目，重点要求学校采用有证据支持的整体改革方案。 |
-> | [[What Works Clearinghouse]] | 机构事实 | 联邦建立的权威证据清理平台，直接服务于识别 NCLB 所要求的“[[Scientifically Based Research\|科学本位研究]]”干预。 |
+> | [[What Works Clearinghouse]] | 机构事实 | 联邦建立的权威证据清理平台，直接服务于识别 NCLB 所要求的“[[Scientifically Based Research|科学本位研究]]”干预。 |
 > | [[Educational Evidence Clearinghouses]] | 概念 / 机构类型 | NCLB 为美国证据清算中心机制提供了最高联邦法律依据与经常性资金支撑。 |
-> | [[Danish Clearinghouse for Educational Research]] | 机构事实 | [[OECD\|经合组织]] 15 年追踪中的对照案例；缺乏类似 NCLB 的法定经常性预算保障是其 2017 年关停的主因。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 深入论证了 NCLB 法定授权与经常性预算对[[Educational Brokerage Agency\|证据中介机构]]跨越政党选举周期的关键制度护城河作用。 |
-> | [[Randomised Controlled Trials]] | 研究方法 | NCLB 法定界定中明确偏好的“黄金标准”[[Paradigm\|研究范式]]。 |
-> | [[Quasi-Experimental Designs]] | 研究方法 | NCLB 认可的实证[[Causality\|因果推断]]方法之一。 |
-> | [[Student Mobility\|学生流动性]] | 概念 | NCLB 将学年中途转校率作为学校报告卡的核心指标，将其问题化为学业危机与学校失范的表征。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 揭示 NCLB 学校报告卡将学生流动性建构为失范指标与人口治理[[Disciplina and Doctrina\|规训]]工具的机制。 |
-
+> | [[Danish Clearinghouse for Educational Research]] | 机构事实 | [[OECD|经合组织]] 15 年追踪中的对照案例；缺乏类似 NCLB 的法定经常性预算保障是其 2017 年关停的主因。 |
+> | [[Student Mobility|学生流动性]] | 概念 | NCLB 将学年中途转校率作为学校报告卡的核心指标，将其问题化为学业危机与学校失范的表征。 |
+> | [[Governmentality]] | 上位理论 | 阐释 NCLB 如何依托数字分类、空间圈禁与指标达标技术进行人口规训与治理术建构的理论透镜。 |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | 论证条目 | 深入分析 NCLB 将民权话语与新自由主义问责捆绑以跨越宪制阻力的政治经济学与话语分析。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 深入考证 NCLB 的制度逆向激励与 NCES 映射实证数据如何被政策倡导者转化为制定国家标准的政治催化剂。 |
+> | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] | 论证条目 | 考证 NCLB 作为 DBDM 历史起点的问责渊源，分析其将数据利用窄化为终结性考试的局限。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 深入论证了 NCLB 法定授权与经常性预算对[[Educational Brokerage Agency|证据中介机构]]跨越政党选举周期的关键制度护城河作用。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 揭示 NCLB 学校报告卡将学生流动性建构为失范指标与人口治理规训工具的机制。 |

@@ -5,13 +5,13 @@ aliases:
   - 适度年度进展
   - AYP
   - 学年充分进展
-summary: "2001年美国《不让一个孩子掉队法》（NCLB）确立的法定核心绩效问责机制；强制要求所有公立学校和学区在阅读与数学测试中实现年度可衡量目标（AMOs），设定至2013–2014学年达到100%熟练水平的刚性红线，并对未达标学校实施阶梯式行政与财务惩罚。该机制因过于死板苛刻引发广泛的统计与治理异化，诱发各州调低切分点（竞相向下沉沦）并挤占非统考科目，最终在2015年《每个学生成功法》（ESSA）中被全面废除与下放。"
+summary: "2001年美国《不让一个孩子掉队法》（NCLB）确立的法定核心绩效问责机制；强制要求所有公立学校和学区在阅读与数学测试中实现年度可衡量目标（AMOs），设定至2013–2014学年达到100%熟练水平的刚性红线，并对未达标学校实施阶梯式行政与财务惩罚。该机制因过于死板苛刻引发广泛的统计与治理异化，诱发各州调低切分点（竞相向下沉沦）并挤占非统考科目，最终在2015年《每个学生成功法》（ESSA）中被全面废除与下放"
 type: fact
 subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 31
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Migrant Children]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories:
   - "[[Spatial Governmentality]]"
 related_methods:
@@ -56,16 +57,18 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[Common Core State Standards]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Race to the Top]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
-status: stable
+status: completed
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # Adequate Yearly Progress
@@ -77,18 +80,19 @@ updated: 2026-10-20
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2001 年作为《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）核心条款经国会通过，2002 年 1 月由乔治·W·布什总统签署生效；由美国联邦教育部（ED）制定联邦规章并负责监督各州执行。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 > - **适用地区 / 对象** 全美 50 个州及哥伦比亚特区接受联邦《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]》（ESEA）第一条款（[[Title I of the Elementary and Secondary Education Act|Title I]]）财政资助的所有公立学区与公立中小学校。
-> - **问题背景** 1983 年《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告以来美国基础教育质量长期停滞，低收入群体、少数族裔与残障学生的学业差距严重；克林顿时期《1994 年改善美国学校法》（IASA）设立的软性标准缺乏刚性执行力，迫使国会寻求建立具有硬性约束的“结果驱动型”行政问责框架。
-> - **制度位置** 构成了 NCLB 整个[[Test-Based Accountability|基于考试的问责制]]（Test-Based Accountability）的法定执行引擎与核心测量标尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **问题背景** 1983 年《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告以来美国基础教育质量长期停滞，低收入群体、少数族裔与残障学生的学业差距严重；克林顿时期《1994 年改善美国学校法》（IASA）设立的软性标准缺乏刚性执行力，迫使国会寻求建立具有硬性约束的结果驱动型行政问责框架。
+> - **制度位置** 构成了 NCLB 整个[[Test-Based Accountability|基于测试的问责制]]（Test-Based Accountability）的法定执行引擎与核心测量标尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
 ---
 
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 充分学业进展（Adequate Yearly Progress, AYP）是联邦法律强制要求各州建立的量化年度[[Performance Indicators|绩效指标]]体系，规定各州必须通过年度标准化考试设定阶段性年度可衡量目标（Annual Measurable Objectives, AMOs），确保所有学生及各细分亚群至 2013–2014 学年全员达到 100% 熟练水平（Proficient），并对连续未达标学校施加阶梯式行政与财务制裁。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> 充分学业进展（Adequate Yearly Progress, AYP）是联邦法律强制要求各州建立的量化年度[[Performance Indicators|绩效指标]]体系，规定各州必须通过年度标准化考试设定阶段性年度可衡量目标（Annual Measurable Objectives, AMOs），确保所有学生及各细分亚群至 2013–2014 学年全员达到 100% 熟练水平（Proficient），并对连续未达标学校施加阶梯式行政与财务制裁。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
 > [!policy-design] 政策设计
-> - **政策目标** 彻底消除不同种族、家庭经济背景、残障状态及英语熟练度学生之间的学业差距，实现全美基础教育全面达标。
+> - **政策目标** 消除不同种族、家庭经济背景、残障状态及英语熟练度学生之间的学业差距，实现全美基础教育全面达标。
+> - **适用对象** 全美各州教育厅、Title I 受助公立学区、公立中小学及 K–12 在校学生。
 > - **核心量度公式** 
 >   1. **全员通过红线** 设定为期 12 年的线性增长轨道，各州基准线逐年抬升，法定终极目标为 2013–2014 学年所有学生熟练率达到 100%。
 >   2. **亚群分别考核（Disaggregation）** 学校不仅整体成绩必须达标，且各主要细分亚群（经济劣势学生、主要种族/族裔群体、残障学生、英语学习者）均必须独立达标。
@@ -99,10 +103,10 @@ updated: 2026-10-20
 >   - **连续 3 年未达标** 必须动员 [[Title I of the Elementary and Secondary Education Act|Title I]] 经费向低收入学生免费提供课外“补充教育服务”（Supplemental Educational Services, [[Socioeconomic Status|SES]]，如私立辅导机构）。
 >   - **连续 4 年未达标** 实施“纠正措施”（Corrective Action），包括更换核心课程、削减管理层权限或延长学日。
 >   - **连续 5 年未达标** 制定“学校重组计划”（Restructuring Plan）。
->   - **连续 6 年未达标** 强制执行重组：转为特许学校（Charter School）、更换全部校长教师、由州教育厅直接接管或彻底关闭。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]
+>   - **连续 6 年未达标** 强制执行重组：转为特许学校（Charter School）、更换全部校长教师、由州教育厅直接接管或彻底关闭。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
 
 > [!citation-card] [[No Child Left Behind Act 2001|NCLB]] 法定 AYP 与竞相向下沉沦的历史定性
-> 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）考证指出，各州为了应付《不让一个孩子掉队法》（NCLB）严苛的充分学业进展（AYP）考核与惩罚威胁，被迫陷入了蓄意调低合格切分点、制造虚假高及格率的“竞相向下沉沦”（Race to the bottom）困境；各州自设的通过率与国家统一的[[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）之间拉开巨大鸿沟，成为打破各州分权垄断、推动国家学术标准的最重要实证依据。
+> 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与 M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）考证指出，各州为了应付《不让一个孩子掉队法》（NCLB）严苛的充分学业进展（AYP）考核与惩罚威胁，被迫陷入了蓄意调低合格切分点、制造虚假高及格率的“竞相向下沉沦”（Race to the bottom）困境；各州自设的通过率与国家统一的[[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）之间拉开巨大鸿沟，成为打破各州分权垄断、推动国家学术标准的最重要实证依据。
 >
 > *Proponents capitalized on research documenting the disparity between student performance on the NAEP and on state tests. In 2007 the National Center for Education Statistics published a study showing that states' definition of proficient varied widely across the country... States' rush to show Adequate Yearly Progress under NCLB had led to a 'race to the bottom' where states lowered cut scores to report high pass rates.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 
@@ -111,12 +115,12 @@ updated: 2026-10-20
 ## 时间线
 
 > [!timeline] 政策时间线
-> - **2001年** 国会跨党派通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），AYP 正式确立为联邦法定义务。
-> - **2002–2003年** 各州教育厅提交本州 AYP 计算方案与年度可衡量目标（AMOs），在 3–8 年级全面铺开年度统考。
-> - **2007年** 美国国家教育统计中心（NCES）发布里程碑映射研究，揭露各州为应付 AYP 考核大幅下调及格线，全美 AYP 达标数据丧失客观公信力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
-> - **2010–2011年** 随着 2014 年 100% 达标红线临近，全美超过半数公立学校面临未达 AYP 的行政制裁；联邦教育部部长阿恩·邓肯（Arne Duncan）警告全美将有高达 82% 的公立学校被标记为“不合格学校”。
-> - **2011年** 奥巴马政府启动“[[Elementary and Secondary Education Act of 1965|ESEA]] 灵活性豁免”（ESEA Flexibility Waivers），允许承诺采纳[[College and Career Readiness|大学与职业就绪]]标准（如 [[Common Core State Standards|CCSS]]）的州豁免 2014 年全员达标红线及惩罚条款。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
-> - **2015年** 国会两党联合通过《[[Every Student Succeeds Act|每个学生成功法]]》（[[Every Student Succeeds Act|ESSA]]），正式废除 AYP 统一联邦公式，将学校评价与干预自主权归还各州。
+> - **2001** 国会跨党派通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），AYP 正式确立为联邦法定义务。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
+> - **2002–2003** 各州教育厅提交本州 AYP 计算方案与年度可衡量目标（AMOs），在 3–8 年级全面铺开年度统考。
+> - **2007** 美国国家教育统计中心（NCES）发布里程碑映射研究，揭露各州为应付 AYP 考核大幅下调及格线，全美 AYP 达标数据丧失客观公信力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
+> - **2010–2011** 随着 2014 年 100% 达标红线临近，全美超过半数公立学校面临未达 AYP 的行政制裁；联邦教育部部长阿恩·邓肯（Arne Duncan）警告全美将有高达 82% 的公立学校被标记为“不合格学校”。
+> - **2011** 奥巴马政府启动“[[Elementary and Secondary Education Act of 1965|ESEA]] 灵活性豁免”（ESEA Flexibility Waivers），允许承诺采纳[[College and Career Readiness|大学与职业就绪]]标准（如 [[Common Core State Standards|CCSS]]）的州豁免 2014 年全员达标红线及惩罚条款。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
+> - **2015** 国会两党联合通过《[[Every Student Succeeds Act|每个学生成功法]]》（[[Every Student Succeeds Act|ESSA]]），正式废除 AYP 统一联邦公式，将学校评价与干预自主权归还各州。
 
 ---
 
@@ -138,6 +142,11 @@ updated: 2026-10-20
 
 ## 效果与评价
 
+> [!indicators] 评价指标
+> - **投入指标** Title I 补充教育服务（SES）专项预算、转学交通补贴经费支出。
+> - **过程指标** 3–8 年级与高中统考参测率（法定 $\ge 95\%$）、各细分亚群独立达标比例、各州及格切分点变动幅度。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **结果指标** 被标记为“需改进”的学校总数占比、州测达标率与 NAEP 真实成绩偏差、非统考科目课时被压缩比例。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]
+
 > [!finding-cards] 历史影响与制度评价
 > - **揭开弱势亚群教育差距的制度面纱** AYP 最具历史进步意义的贡献在于破除了“以全校平均分掩盖少数群体失败”的伪善机制，强制学校正视非裔、西裔、低收入家庭及残障学生的学习困境，确立了教育公平的数据基准。
 > - **诱发“竞相向下沉沦”并反向催化国家标准** 各州自设标准的虚假高通过率与国家统一的 [[National Assessment of Educational Progress|NAEP]] 真实测试拉开巨大鸿沟，彻底暴露了分权标准体制的破产，成为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的最重要政策火种。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
@@ -147,17 +156,23 @@ updated: 2026-10-20
 > [!effect-table]- 政策评估与实证数据
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
 >
-> | [[Evaluation Research\|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable\|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
+> | [[Evaluation Research|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
 > | NCES (2007)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 8–9)]] | 全美各州 2005 年统考与 NAEP 对照数据 | 宏观政策映射与心理测量等值化分析 | 各州自定熟练线在 NAEP 尺度上的达标率断层 | 多州公布的高达 **80%–90%** 的 AYP 达标率在 NAEP 真实标准下仅对应 **25%–35%** 熟练度 | 实证证实 AYP 刚性问责诱发各州普遍下调标准（竞相向下沉沦） |
 > | Linn (2003)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]] | 全美 NAEP 统考历史增长率模型 | 统计外推与增长率线性建模 | 达成 100% 熟练水平所需时间 | 按历史实际速率，四年级数学需 **150 年**、八年级数学需 **160 年** 方能实现 100% 达标 | 强力证实 AYP 设定的 2014 年全员达标指标违背统计规律与教育现实 |
-> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；流动性显著负向预测统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
-> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | [[Falsification\|证伪]]了政策假定中将[[Student Mobility\|学生流动]]等同于“家庭失范”与“学业冷漠”的赤字[[Discourse\|话语]] |
-> | Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire\|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下 AYP 刚性指标对一线教学行为与学校生态的严重扭曲 |
+> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；流动性显著负向预测统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
+> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | [[Falsification|证伪]]了政策假定中将[[Student Mobility|学生流动]]等同于“家庭失范”与“学业冷漠”的赤字[[Discourse|话语]] |
+> | Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下 AYP 刚性指标对一线教学行为与学校生态的严重扭曲 |
+
+> [!stat-cards]- 核心数据
+> - **100%** 2014 年法定全员熟练通过率目标。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
+> - **82%** 2011 年全美面临未达 AYP 制裁风险的公立学校比例预估。
+> - **95%** 统考各学科与各细分亚群法定最低参测率红线。
+> - **150–160** （年） 林恩（Linn, 2003）模型测算的全美数学达成 100% 达标实际所需统计时间。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
 
 ---
 
-## 争议与批评
+## 争议与评论
 
 > [!debates] 政策争议
 >
@@ -172,23 +187,29 @@ updated: 2026-10-20
 > >
 > > - **实证与空间批判学者（Offenberg, 2004; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 指出 AYP 绩效压力导致学校管理层将高流动率作为免责工具，把宏观经济与住房动荡造成的学生迁移归咎于家庭道德缺陷，诱发了针对弱势[[Migrant Children|流动儿童]]的次生空间排斥。
 > > - **制度问责辩护者** 坚持统一考核指标不应因学生转学而妥协，唯有将流动学生纳入亚群考核才能防范学校忽视转校生学业。
+>
+> > [!axis] 阶梯式问责制裁的惩戒逻辑与制度不可持续性
+> > 阶梯式行政惩罚未能提供学校改进所需的资源支持，反而诱发广泛的体制异化与信任危机。
+> >
+> > - **批判学者（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）** 指出以学校关闭、削减编制和特许改制为威胁的问责无法提升教学质量，反而迫使学校采取作弊与课程窄化等短视手段。
+> > - **政治经济学分析（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）** 强调 AYP 阶梯制裁反映了新自由主义管理主义的典型特征，其严苛公式最终因引发过广泛的反对而被 ESSA (2015) 废止。
 
 ---
 
-## 条目关联
+## 相关概念／理论
 
 > [!entry-map|notitle]
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[No Child Left Behind Act 2001]] | 母体法案 | 确立 AYP 考核规程与制裁细则的联邦法定基础。 |
+> | [[No Child Left Behind Act 2001]] | 母体法案 | 确立 AYP 考核规程与阶梯制裁细则的联邦法定基础。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]] |
 > | [[Title I of the Elementary and Secondary Education Act]] | 关联政策 | AYP 行政与财务制裁所直接约束绑定的联邦专项财政中枢。 |
-> | [[Common Core State Standards]] | 政策事实 | 借助 AYP 诱发的各州及格线下沉危机而兴起并取而代之的国家学术标准。 |
-> | [[Every Student Succeeds Act]] | 替代法案 | 2015 年终结并正式废除 AYP 联邦统一公式的替代性法规。 |
-> | [[Test-Based Accountability]] | 核心概念 | AYP 属于全球基于考试的问责制中最极端刚性的典型制度案例。 |
-> | [[Student Mobility\|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者编码为“漂泊”失范与未达标的核心免责借口。 |
+> | [[Common Core State Standards]] | 政策事实 | 借助 AYP 诱发的各州及格线下沉危机而兴起并取而代之的国家学术标准。[[Argument_McDonnell_2013_AmJE\|(McDonnell & Weatherford, 2013, pp. 8–9)]] |
+> | [[Every Student Succeeds Act]] | 替代法案 | 2015 年终结并正式废除 AYP 联邦统一公式的替代性法规。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]] |
+> | [[Test-Based Accountability]] | 核心概念 | AYP 属于全球基于测试的问责制中最极端刚性的典型制度案例。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 253–254)]] |
+> | [[Race to the Top]] | 关联政策 | 借助 AYP 危机设立灵活性豁免，推动各州采纳 CCSS 与教师增值评估的联邦计划。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 256–257)]] |
+> | [[Student Mobility|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者编码为“漂泊”失范与未达标的核心免责借口。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 361–362)]] |
 > | [[Spatial Governmentality]] | 上位理论 | 阐释 AYP 如何通过空间圈禁与指标达标将流动学童排斥为边缘异类的治理技术。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录[[Policy Entrepreneur\|政策企业家]]如何动员 AYP 与 [[National Assessment of Educational Progress\|NAEP]] 差距数据撬开[[Policy Window\|政策之窗]]的经典研究。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 批判论证 | 揭示 AYP 问责制如何将学生流动病态化为学校免责替罪羊与次生空间排斥的论证。 |
-
----
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | 论证条目 | 深入分析 AYP 达标阶梯制裁在美国测试问责体制中的治理功能与制度限度。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 详细记录政策企业家如何动员 AYP 与 NAEP 差距数据撬开政策之窗的经典研究。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 揭示 AYP 问责制如何将学生流动病态化为学校免责替罪羊与次生空间排斥的论证。 |

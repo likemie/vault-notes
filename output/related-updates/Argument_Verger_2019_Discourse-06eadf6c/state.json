@@ -609,7 +609,7 @@
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -672,11 +672,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T08:09:19.839694+00:00"
     },
     {
       "number": 10,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -712,7 +713,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T08:12:39.498263+00:00"
     }
   ]
 }
