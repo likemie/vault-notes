@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
       "basename": "Argument_Grek_2009_JEdPolicy",
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Knowledge Diplomacy",
       "path": "wiki/concepts/political-economy-geopolitics/Knowledge Diplomacy.md"
-    },
-    {
-      "basename": "Effect Size",
-      "path": "wiki/methods/quantitative/Effect Size.md"
     }
   ],
   "omittedPaths": [],
