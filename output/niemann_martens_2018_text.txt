@@ -1,0 +1,817 @@
+=== PAGE 1 ===
+https://doi.org/10.1177/1468018118794076
+Global Social Policy
+2018, Vol. 18(3) 267 –283
+© The Author(s) 2018
+Article reuse guidelines:  
+sagepub.com/journals-permissions
+DOI: 10.1177/1468018118794076
+journals.sagepub.com/home/gsp
+gsp
+Soft governance by hard fact? 
+The OECD as a knowledge 
+broker in education policy
+Dennis Niemann and Kerstin Martens 
+University of Bremen, Germany
+Abstract
+As the policy field of education has become increasingly internationalized over the 
+last two decades, international organizations like the Organisation for Economic Co-
+operation and Development (OECD) play an increasingly decisive role in the diffusion 
+of knowledge, monitoring, and research in global education policy. Although the OECD 
+lacks any binding or coercive governance instruments in relation to states, or ability to 
+provide material incentives for compliance, it has nevertheless successively expanded its 
+influence regarding education. From a perspective of social constructivism, we argue that 
+the transmission of ideas and information generated through ratings and rankings can be 
+viewed as a crucial governance tool for the influence of an international organization (IO). 
+Our article seeks to analyze how the OECD uses large-scale education assessments to 
+promote the economically based idea of human capital and related learning techniques 
+in education policy – thus influencing national education systems. Furthermore, the 
+OECD and its distinctive approach of soft governance through putative hard fact may 
+become a role model for other IOs, both in the field of education and beyond.
+Keywords
+Global education policy, international organizations, OECD, social constructivism, soft 
+governance
+Introduction
+In contrast to trade, security, or environmental policy, education displays no vital need 
+for international cooperation to achieve an overall better policy outcome. There is no 
+obvious underlying dilemma calling for multilateral coordination as in other 
+Corresponding author:
+Dennis Niemann, Collaborative Research Centre 1342 “Global Dynamics of Social Policy”, University of 
+Bremen, Mary-Somerville-Strasse 7, D-28359 Bremen, Germany. 
+Email: dniemann@uni-bremen.de
+794076 GSP0010.1177/1468018118794076Global Social PolicyNiemann and Martens
+research-article2018
+Article
+
+=== PAGE 2 ===
+268 Global Social Policy 18(3)
+fields, leading to a lack of interdependencies which would otherwise encourage states to 
+cooperate with one another (Porter and Webb, 2008: 43). Education simply exhibits no 
+semblance of zero-sum logic, no necessity for the increase of educational outcome in one 
+state to coincide with a decrease in another. Rather, education is considered a core 
+responsibility of the state in order to generate social coherence, economic independence, 
+and national identity (Nagel et al., 2010: 15). As its prerogative, education policy serves 
+as a means to educate its people in civic rights and duties, enable them to succeed in the 
+labor market, and teach national history and languages. Accordingly, this policy field 
+seems to be traditionally dealt with exclusively on the national level only.
+Nevertheless, in the wake of ongoing globalization processes and worldwide compe-
+tition, education policy is indeed becoming increasingly internationalized (Deacon, 
+2007; Mundy, 2007). School and university training is considered to play an important 
+role in contributing to the further economic, scientific, and social development of pro-
+gressively intertwined societies. National education systems have to respond to new 
+challenges posed by the emergent global knowledge economy (Robertson, 2005). From 
+the early 1990s on, there has been an observable, steady increase in international 
+exchange and cooperation, particularly through IO activities in global education policy 
+(Martens et al., 2007). A striking peculiarity of this current trend is the prominence of 
+comparative quantitative evaluations of national education systems and the rising num-
+bers of countries participating in such international large-scale assessments (Benavot and 
+Tanner, 2007). It seems fair to say that education policy has developed into an arena of 
+increasing international coordination.
+Expanding education into the international arena can be analytically grasped as a 
+complementary process of two developments. On one hand, international institutions, 
+like IOs, are directly mandated by states to administer and facilitate multilateral coopera-
+tion in the field of education that states could not otherwise realize on their own. IOs 
+carry out these tasks by establishing rules, procedures, or standards for monitoring and 
+reporting governance indicators and mechanisms (Arndt and Oman, 2008; Davis et al., 
+2012; V on et al., 2012). Historically, state actors themselves have been the main driving 
+force behind the formation of international initiatives in education (Fulge et al., 2016). 
+On the other hand, these IOs may exceed their predefined mission and produce unin-
+tended consequences, lock-in effects, or path dependencies for state actors. In education, 
+IOs autonomously expanded their portfolio and successively became important players 
+in the field without having a strong predefined mandate for doing so (Martens et al., 
+2007). Among these, the Organisation for Economic Co-operation and Development 
+(OECD), the International Monetary Fund (IMF), and the World Bank are some promi-
+nent examples. By becoming proactive in education, they have not only shaped the inter-
+national field of education but also reinforced their position as influential and autonomous 
+actors vis-à-vis their member states.
+In this article, we focus on the OECD as a prime example of an IO that has constantly 
+expanded its expertise and influence in education policy (Henry et al., 2001; Martens 
+and Jakobi, 2010). It can be regarded as an example of a de jure powerless IO, but one 
+which has gained regulatory influence (De Francesco, 2016). In our contribution, we 
+argue that the OECD influences national education policies by means of soft govern-
+ance through hard facts; that is, by changing its own strategy toward comparative 
+
+=== PAGE 3 ===
+Niemann and Martens 269
+quantifiable assessments in education policy, it augments its leverage over states. Such 
+governance strategies could possibly become a role model for other IOs, particularly the 
+OECD’s governance by numbers technique (Erkkilä et al., 2016; Espeland and Sauder, 
+2007). In other words, the OECD has become a central node in the network of interna-
+tional education politics, allowing us to now speak of an OECD-fication of global edu-
+cation policy.
+The power of ideas in the realm of soft governance
+Whether intended or unintended, consequences of the globalization of education pol-
+icy for states are clearly visible: national policy makers and other stakeholders in edu-
+cation can hardly ignore initiatives from the international level, which are widely 
+perceived to have clout by the public. These international impetuses frame problems 
+and priorities and challenge domestic policies, politics, and traditional conceptualiza-
+tions of education. Central to this regard is the role of IOs and their ability to gain 
+autonomy and authority. Often equipped to set agendas, prepare and shape decisions or 
+foster implementation, IOs are more than the sum of their member states’ interests 
+(Koremenos et al., 2001).
+While it is well understood that international institutions matter, the way in which 
+they actually impact states’ behavior remains the subject of a contested theoretical 
+debate. Especially in an asymmetrical, top-down setting without enforceability, it is piv-
+otal to provide an explanation of how the ‘top’ exerts influence on the ‘down’. In addi-
+tion, asymmetries can also be constituted differently, if, for instance, one party possesses 
+information which other parties do not. In the absence of command and control, IOs 
+make use of their ability to produce information and knowledge to generate influence 
+and exert soft governance (Conzelmann, 2008: 44). In consequence, soft governance 
+cannot be equated with traditional hierarchical steering.
+IO soft governance implies that although IOs are set up by states and consist of state 
+delegates, they are able to develop their own positions, ideas, or dynamics because of 
+intra-organizational networks and interactions that cannot be fully controlled by any 
+principals (Hawkins et al., 2006). Despite the provision of a clear mandate on how to act, 
+IOs can go beyond their previously defined roles and generate new aims and administra-
+tive activities that exceed their initial purpose and scope. With time, IOs even act against 
+the interest of their founders, thereby exerting influence back onto their member states 
+and beyond, given the potential for agency slack (Koenig-Archibugi, 2006). This may be 
+accomplished when IOs – or more specifically, their bodies (e.g. secretariats, depart-
+ments, and working groups) – embrace a topic and develop their own ways of dealing 
+with issues: instead of simply carrying out what their member states urge them to do, IOs 
+follow their own interests and agendas (Barnett and Finnemore, 2004).
+For such governance to be possible, an IO needs to be accepted as a ‘cognitive author-
+ity’ in the given policy field (Broome and Seabrooke, 2012, 2015). Authority can be 
+granted by the state principals (e.g. through conventions, constitutions, and legal acts) or 
+acquired through action, expertise, and routines. Furthermore, authority of an actor lack-
+ing coercive powers is strongly linked to the aspect of legitimacy. An indicator of an IO’s 
+legitimacy is its reputation; IOs with ‘good’ reputations, that is, a reputation for being 
+
+=== PAGE 4 ===
+270 Global Social Policy 18(3)
+rational and impartial, are accepted as legitimate sources of information and advice to a 
+great extent due to the fact that they exhibit apolitical and technocratic expertise (Barnett, 
+2002: 113). The impact of IO outputs ‘is inseparably bound up with judgments about the 
+reputation of that institution’ (Sharman, 2007: 30). The perceived legitimacy of an IO 
+leads others to follow its recommendations.
+How then do IOs govern? In general, ‘governance […] encompasses the activities of 
+governments, but it also includes the many other channels through which “commands” 
+flow’ (Rosenau, 2005: 46). Thereby, a command can be understood as any token that 
+implies a behavioral adaptation in the sense that something should be done (or omitted) 
+(Niemann, 2014a, 2014b). This understanding of governance presents IOs (and other 
+inter- and transnational actors) as having the ability to create, diffuse, and implement 
+rules, norms, and standards through means of soft governance rather than through bind-
+ing legislation understood as hard law (Abbott and Snidal, 2000). Hence, the perspective 
+of governance entails a shift from states to a multiplicity of regulatory actors, from hard 
+to soft law, and from formal to informal rules (Mingst, 1999: 93).
+Social constructivism offers explanatory strength in assessing IO governance capa-
+bilities by highlighting the ability of IOs to promote the normative value of a certain 
+norm as legitimate and worthy of acceptance. IOs do not revert to a set of predefined 
+prescriptions to influence others’ behavior but convince the addressees to do (or omit) 
+something by sound arguments rather than sticks or carrots. This discursive power of 
+IOs, which relies on their moral authority, is depicted as ideational rather than material 
+as it refers to influencing states and others to adhere to IO outputs. In this sense, IOs dis-
+seminate certain norms and constrain behavior that is not in accordance with a promoted 
+norm by discursive means (Joachim et al., 2008: 11) by reverting to mechanisms such as 
+shaming or prestige rather than coercion or material incentives (Manners, 2009). Hence, 
+this type of soft governance can also delegitimize a certain behavior by establishing the 
+understanding that it runs counter to an aspired higher goal. In this case, behavior is 
+stigmatized as socially unacceptable or undesirable.
+Thus, both the social creation of common knowledge as a standard in a policy field 
+and the role of IOs in shaping international discourse are essential for soft governance 
+(Abbott and Snidal, 1998: 5). Since IOs utilizing soft governance rely on their function 
+as advisors and opinion leaders, one key element is the role and dissemination of ideas.
+1 
+The central argument in this respect is that the proliferation of ideas and ideational 
+change in turn promote policy change. Ideas serve as a cognitive framework for inter -
+preting an issue, identifying something as a problem, and rendering suitable solution 
+strategies. Consequently, how agents act in the world is strongly determined by how they 
+perceive their environment. Furthermore, the perceptions of the actors’ environment are 
+neither stable nor fixed. Perception, in the first instance, is a matter of interpretation.
+Ideas serve as ‘cognitive filters through which actors come to […] conceive of their 
+own interests’ (Hay, 2011: 69). First, ideas shape the definition of an issue as a problem. 
+In this regard, the reinterpretation of a policy in the light of a new idea reveals that some-
+thing is wrong. Second, by identifying something as problematic, ideas can also indicate 
+goals – that is, a more desirable policy. Third, suitable means for accomplishing the 
+(new) goal are communicated through ideas. Ideas are not just tools in the hands of stra-
+tegic actors (Lieberman, 2002: 699), they need agents to be disseminated. IOs act as 
+
+=== PAGE 5 ===
+Niemann and Martens 271
+these disseminators or broadcasters of ideas (Djelic and Sahlin-Andersson, 2006: 17) 
+and aim to ‘nurture people’s identities, helping them to construct their fundamental val-
+ues which, in turn, shapes their beliefs and interests’ (Béland and Cox, 2011: 9). IOs (and 
+other institutions) help to define what (domestic) stakeholders want and provide them 
+with the justification for why they want something. In this regard, an IO (and its staff) 
+can be a ‘transfer entrepreneur’ (Nay, 2012) in that it determines and disseminates policy 
+goals that shape national policy frameworks, policy instruments, and policy contents.
+Two interlinked modes in exerting soft power can be derived from the work of Mahon 
+and McBride (2009): the inquisitive and the meditative mode. The inquisitive mode 
+involves the gathering of information regarding a specific issue. In this context, the abil-
+ity to define something as a problem becomes pivotal. This means IOs first create a com-
+mon shared knowledge by providing information, which was otherwise not accessible. 
+The collected data are then interpreted against the background of views and ideas within 
+the IO. Pure information is transformed into substantial knowledge (Barnett and 
+Finnemore, 2004) as a basis for further (soft) governance actions. It is deemed essential 
+to back arguments with empirical evidence, as they must be proved to be conclusive and 
+sound. In addition, the meditative mode addresses direct contributions to the policy dis-
+course. IOs make recommendations to their members (and beyond) on the basis of pub-
+licized information and findings about best practices in a certain policy field, and 
+consequently lobby for them (Martens and Jakobi, 2010). This lobbying can take differ-
+ent forms, for instance, as recommendations which illustrate directly how to act in a 
+policy field. More indirectly, recommendations can also emphasize the behavior of a 
+peer actor in order to serve as a blueprint.
+Overall, soft governance by IOs is characterized by discursively constraining the 
+frame of appropriate behavior. This governance technique aims at increasing or decreas-
+ing the legitimacy of a certain behavior, and therefore tries to influence a policy outcome 
+indirectly. IOs are able to govern their member states because they possess the authority 
+to orient action and create social reality (Barnett and Finnemore, 2004, 2005) and, with 
+the tool of ‘naming and shaming’, IOs can generate immaterial, rather than traditional, 
+costs for behavior that is defined as not desired (Hafner-Burton, 2008; Joachim et al., 
+2008). IOs aim to frame a common understanding of the issue at stake and define goals 
+for policy making by increasing or decreasing the legitimacy of a certain norm, policy, 
+or behavior (Nay, 2014).
+OECD as knowledge broker: empirical observations
+How did the OECD mature into a reference point for education policy and how was it 
+able to apply its influence at the national and global levels? In the following part, we 
+trace empirically how the OECD has become a knowledge broker and norm entrepre-
+neur in education policy over the last two decades. We use the Programme for 
+International Student Assessment (PISA) as a prime example of the IO’s practice of 
+exerting soft governance. From the year 2000 onward, PISA tests have been conducted 
+triennially with the results published in the following year. Thus, by now we have had 
+not only the results of six PISA circles but almost 20 years of worldwide testing through 
+this OECD regime.
+
+=== PAGE 6 ===
+272 Global Social Policy 18(3)
+PISA aims to evaluate and compare education systems by testing the skills and knowl-
+edge of a nationally representative sample of 15-year-olds, an age in which students in 
+many countries may start to make the transition into adult life. PISA tests focus on 
+assessing students’ competencies in reading, mathematics, and science in the context of 
+everyday situations. The number of participating countries gradually increased from 32 
+(of which four were not members of the OECD) in 2000; taken together, around 80 states 
+all around the globe have participated regularly or occasionally in the study.
+PISA as the OECD’s tool for global governance
+Since the mid-1990s, the OECD has emphasized the production of human capital as a 
+counteraction to the emerging effects of globalization (Henry et al., 2001: 45). Its thor-
+ough educational means were seen as a precondition to succeed on the global market. 
+From the human capital perspective, education is an investment for which public authori-
+ties are responsible (Resnik, 2006). This perspective is largely borrowed from the Anglo-
+American ideological education framework, which focuses much more on the dimension 
+of economic usability of education than other traditions. Education is defined as a driv-
+ing force for growth and the OECD is committed to improving the quality, equity, effi-
+ciency, and effectiveness of their member countries’ education systems (OECD, [2010] 
+2011). The OECD’s understanding of education outcomes is closely coupled to the util-
+ity of generated knowledge. The value of knowledge depends on its utility in other areas 
+(e.g. applied research, technological progress; Mangez and Hilgers, 2012). The emphasis 
+on generating human capital became the cornerstone of the OECD’s education frame-
+work, from which it proactively pushes strategies and recommendations for intensifying 
+the competitiveness of its member states through education.
+The primary turning point in the OECD’s education activities was characterized by a 
+shift from ‘discursive contributions to education policy’ (Martens and Jakobi, 2010: 15) 
+to the gathering of empirical quantitative comparative data. It was this comparative turn 
+which the OECD took gradually, starting in the early 1990s and boosting it to become an 
+important player with discursive power in education policy:
+whereas in the past it has focused on each state individually acknowledging differences and 
+idiosyncrasies, it now decisively compares states with each other and against standardized 
+criteria. Such direct comparisons put states under greater pressure to reform their systems 
+because the OECD’s statistics on education performances have become more easily accessible 
+and interpretable by politicians, the media, and the wider public. (Martens, 2007: 40)
+Most importantly, the OECD advanced its status as an influential education IO by 
+designing, managing, and conducting PISA tests. Although from the side of the IO, it is 
+argued that ‘[a]ll the OECD provides is evidence, analysis, and advice of the type PISA 
+presents’ (Schleicher and Zoido, 2016: 375), its assessment tool is more than a database 
+on education information: it has become a political instrument for the OECD. The IO and 
+its staff not only solve methodological problems and technical issues of data collection 
+but also make and promote decisions on how to perceive and present education goals. As 
+Bloem (2016) has shown, while the OECD in the beginning of PISA still kept a rather 
+
+=== PAGE 7 ===
+Niemann and Martens 273
+neutral position as a mere producer of education data, it increasingly applied PISA as a 
+tool to govern the international discourse on education.
+While PISA is continuously expanding, there are still states that have not been scruti-
+nized by the OECD’s education flagship. Non-participation is not to be equated with 
+irrelevance, however. Even tiny states, like Grenada or Vanuatu, are influenced by PISA 
+where it comes to reforming their own education systems or designing similar national 
+evaluation mechanisms. For instance, in Vanuatu, the PISA results were used as a source 
+of data to justify reforms and provoke policy debates. In Grenada, the PISA model proved 
+helpful in improving the national education system regarding curriculum, the organization 
+of education governance, and in shaping the qualification and preparation of teachers.
+2 
+Thus, the study reaches well beyond the core group of OECD member states, influencing 
+the education performance of emerging and developing economies. PISA is an interna-
+tionally applied framework for education performance and is depicted as the ‘harbinger of 
+changes in both the political frameworks and the educational objectives’ (Meyer and 
+Benavot, 2013: 10).
+Thus, today domestic education systems are evaluated on a global perspective. The 
+OECD not only assesses voluntarily participating member countries in secondary edu-
+cation but is also arguably extending its range of influence gradually by expanding its 
+participatory base. In 2015, for example, the IO started PISA for Development of mid-
+dle- and low-income countries (Addey, 2017); in addition, it has run the PISA for 
+Schools program for the last few years, allowing individual schools to be measured 
+against both state and non-state entities in the database. Sellar and Lingard (2013) 
+argue that the expansion of the OECD activities in education includes widening the 
+scope of assessment by measuring a broader set of competencies, increasing the scale 
+by covering more countries, and, thus, enhancing the explanatory power for policy 
+makers and educators.
+In general, the international acceptance of testing regimes is associated with key ideo-
+logical forces that emphasize the globalization of national and international cultural, 
+economic, and political structures (Kamens and McNeely, 2010). Hence, PISA reflects 
+the demand of states to make education outcomes internationally comparable. At the 
+same time, the comparative PISA study contributes to a global concept of ‘good educa-
+tion’: national education systems are evaluated against a predefined set of benchmarks 
+concerning which factors produce the best performance outcomes.
+Why does PISA seem to be an attractive tool for soft governance? PISA is easily 
+accessible and useful for both experts and a wider public audience (Martens and Niemann, 
+2013). Experts can extract detailed quantitative information from the encompassing 
+assessment data, establish mathematical correlations between diverse items, and produce 
+policy recommendations on the basis of PISA data. At the same time, the broader public 
+can learn how national education systems perform, are able to compare them in a general 
+sense based on the provided league tables, and find out why some are better than others 
+by reading further publications provided by the OECD. The general focus of the process 
+has been on comparability, and data are processed in order to be interpreted in terms of 
+‘the development of common prisms’ (Woodward, 2009: 66). Since PISA has been con-
+ducted regularly for six cycles, these rankings are also compared over time to demon-
+strate if and to what extent a country has improved.
+
+=== PAGE 8 ===
+274 Global Social Policy 18(3)
+The normative advantage of the OECD’s governance
+Although the OECD does not have any legal means or fiscal capacities to force states 
+into compliance with its policy recommendations (Carroll and Kellow, 2011; Woodward, 
+2009), states nonetheless follow OECD advice (Breakspear, 2012) – or at least feel the 
+need to justify decisions against these recommendations. However, the intuitive expecta-
+tion for a strong correlation between domestic reforms and performance in the interna-
+tional education test does not hold true empirically. As we have shown in previous work, 
+countries that perform similarly in PISA are not inevitably interchangeable with respect 
+to their reform reactions to PISA (Martens and Niemann, 2013). It has been outlined that 
+negative press coverage on countries’ performance in PISA would also reflect the nega-
+tive public opinion about national education policy (Dixon et al., 2013). Taking domestic 
+media reception as an indicator for the saliency of an issue in national politics, we 
+observed that the plain performance of a country only has some minor influence on the 
+extent and nature of national responses to international education studies:
+In regard to particularly poor results, the likelihood of it becoming a substantial issue of public 
+discourse increased in countries such as Germany, Spain, Austria and Mexico. However, other 
+countries at the lower end of the PISA league, like the US, Poland and Portugal, did not 
+experience a public outcry reflected in the media coverage. As an overall trend, the worse the 
+rank, the more differentiated the reactions are. (Martens and Niemann, 2013: 320)
+Since other mechanisms must be accountable for explaining the impact of PISA, it 
+seems worth taking a closer look at the soft governance activities of the OECD. The 
+OECD made use of naming and shaming by evaluating national education systems, com-
+paring them to other states, and deriving indirect implications from inferior educational 
+performances. PISA possesses considerable influence on education policy through use of 
+the media by ascribing the status of ‘winners’ and ‘losers’ to participating countries 
+(Grek, 2009; Porter and Webb, 2008: 47). Obviously, no state, and in particular no indus-
+trialized OECD member state, wants to be labeled as an underperformer when measured 
+by international education standards that define how well a state is prepared for future 
+economic challenges. By making these publicly visible, the OECD is potentially able to 
+stimulate national discourse in low-performing countries on the necessity of reforms or 
+to reinforce the proven-as-successful policy paths in high performing countries.
+At the same time, the OECD’s PISA showed which education policies seemed to 
+produce better performance outcomes (in PISA) and those which do not (Bieber et al., 
+2014). In highlighting ‘best practices’, the OECD uses PISA to urge national policy mak-
+ers to look across borders in order to identify international education policies worth 
+implementing (Niemann, 2014a). This could be identified with regard to several OECD 
+analyses which provided information on a multitude of education issue areas: for 
+instance, early childhood education (OECD, 2011b), teachers’ training and working con-
+ditions (OECD, 2013), using new information technologies (OECD, 2007), evaluation 
+and measuring of education performances (OECD, 2008), and school governance 
+(OECD, 2011a). In short, the OECD had a sweeping portfolio on education policy data 
+and presented it to enable policy orientation.
+
+=== PAGE 9 ===
+Niemann and Martens 275
+By identifying models of ‘what works’ as well as providing periodical reviews and 
+comparative datasets, PISA results put pressure on national policy makers (and other 
+stakeholders in the education administration and civil society) to improve national edu-
+cation policies and to reflect the identified best practice models in order to be competi-
+tive in globalized knowledge economy (Niemann et al., 2017). Through the generation 
+and interpretation of PISA data, the OECD also highlights specific features of particular 
+education systems that are appropriate for improving human capital production. For 
+instance, school autonomy in combination with increased accountability measures is 
+seen as integral to enhance effectiveness in secondary education (OECD, 2011a). Based 
+on the knowledge derived from the PISA results, the OECD makes references to peer 
+countries which should be converted to domestic education systems to boost academic 
+performance. By doing so, the IO is able to set global agendas and diffuse policies in a 
+variety of fields among OECD members and non-members alike (Ougaard, 2010).
+Basically, with PISA benchmarking, the OECD generates normative pressure for lag-
+ging countries to implement educational policies consistent with better performing coun-
+tries and best practices (Sellar and Lingard, 2013). The OECD makes resources and 
+expertise available for other actors, introduces networks of experts, provides forums for 
+coordination and advice, and acts as a surveillance and evaluation organization regarding 
+the adoption of commitments, agreements, and the like. Hence, reporting procedures of 
+the OECD can ‘provide ammunition crucial for “naming and shaming” techniques or for 
+lobby campaigns by domestic coalitions’ (Conzelmann, 2008: 36). PISA was not (merely) 
+an activity of the OECD to conduct research on education and to provide general infor -
+mation but was also designed and conceived as an instrument to support decision making 
+(Mangez and Hilgers, 2012: 196). Hence, the OECD does not stop at knowledge fabrica-
+tion, it seeks to disseminate this knowledge as policy advice.
+Soft governance through hard (PISA) facts
+The last decade witnessed comprehensive education reforms in several countries. It 
+remains uncontested that international institutions have had an impact, but it remains an 
+open question as to how they manage to exert influence. By using standardized tests as a 
+means of measuring educational outcomes, large-scale assessments like PISA allow for 
+the quantification as well as comparison of education systems across countries, regions, 
+and even individual schools. These comparisons are used to identify strengths and weak-
+nesses of education systems, which can prompt and shape educational reform processes. 
+This trend has been observed in many countries, wherein school reforms were initiated 
+following the publication of international assessment results (Lingard and Grek, 2007; 
+Martens et al., 2014).
+While some states reformed their education systems with clear reference to PISA, 
+others did not. In fact, about 50% of all PISA participating countries initiated reforms in 
+direct response to PISA (Breakspear, 2012). Take Germany as an example: it has been 
+argued that the reforms in the German education system would not have occurred to 
+such a great extent without the OECD’s PISA study (Münch, 2009). While it was con-
+tested that PISA (or the OECD) invented any new reform steps for the German educa-
+tion system, it is largely accepted that PISA was a catalyst for introducing overdue 
+
+=== PAGE 10 ===
+276 Global Social Policy 18(3)
+reforms. Accordingly, PISA in Germany became the object of intensified research 
+(Niemann, 2016; Tillmann et al., 2008). While the awareness of potential German edu-
+cation deficits rose in the mid-1990s, PISA actually triggered a landslide of education 
+reforms in Germany. While the country was below average in PISA 2000, it constantly 
+improved and was among the group of states that performed above average in PISA 
+2012 (Prenzel et al., 2013). Overall, the diagnosis by PISA was not a one-shot observa-
+tion but an identification of a systemic problem embodied in the German education 
+system which was designed in such a way as to strengthen the already privileged stu-
+dents while neglecting disadvantaged students. This led to massive equity issues 
+(Allmendinger and Leibfried, 2003), and since then the German policy discourse on 
+education reforms has regularly addressed how socio-economic factors predetermine 
+education performances (Niemann et al., 2017).
+The political reactions in Germany to PISA were equally remarkable. Almost instantly 
+after the publication of the first PISA results in December 2001, comprehensive educa-
+tion reforms were introduced in Germany to improve the educational outcome. German 
+policy makers began to look beyond national borders, evaluating other education sys-
+tems against the background of performance and aspects worth copying 
+(Bundesministerium für Bildung und Forschung [BMBF], 2003). The focus was on early 
+education in order to create a better basis for academic performances and on the advance-
+ment of socio-economically disadvantaged students (e.g. students with an immigrant 
+background). Furthermore, and directly derived from the example of PISA, a stronger 
+focus on the outputs of the education system and corresponding evidence-based policy 
+making took place built on empirical evidence to guide policy decisions. In this context, 
+comparative education research was massively promoted by launching several assess-
+ments to review performances by implementing comparative tests in schools.
+Taking a look at the actual impact of PISA beyond Germany, we can identify a pleth-
+ora of different reactions. Like Germany, Denmark was shocked by its first PISA results, 
+particularly since Denmark’s Scandinavian neighbors performed much better in the first 
+round. Substantial changes toward increased national assessment procedures and support 
+for disadvantaged students, however, were only implemented after an in-depth interna-
+tional review (Egelund, 2008). After the surprising results spurred broad public debate, 
+numerous studies analyzing these results were conducted, bringing policy recommenda-
+tions to the fore as of 2003 (Egelund, 2008: 250).
+Although Switzerland placed in the upper tier of the PISA league table in all testing 
+rounds, about 20% of its students placed within the two lowest competence levels in 
+reading literacy. Consequently, the results enforced already existing attempts of innova-
+tion, which accelerated the famous reform project, ‘HarmoS’, that finally harmonized 
+the 26 different cantonal school systems. Swiss policy makers adopted a majority of 
+PISA-based OECD recommendations for secondary education, such as social equity, 
+school autonomy, and quality assurance, within only a few years (Bieber et al., 2015).
+With regard to PISA’s impact on Japan, Takayama (2008) shows that PISA greatly 
+influenced Japan’s education discourse and policy reforms. A perceived crisis in edu-
+cation policy erupted in the late 1990s in Japan as publications showed great shortcom-
+ings in the education system. In this climate, the results from the 2000 PISA round fell 
+on fertile ground (Takayama, 2008). The Japanese government utilized the PISA 
+
+=== PAGE 11 ===
+Niemann and Martens 277
+results as an external source of legitimacy for highly sensitive policies and reforms 
+(Takayama, 2008: 401).
+After the publication of the 2000 PISA results in 2003, the Ministry of Education in 
+Israel used the momentum to create a task force for educational reforms. Feniger et al. 
+(2012) argue that the ministry had already been working on reforms before PISA brought 
+in the first internationally comparative rankings on the Israeli education system. The 
+newly formed committee emphasized reforms that clearly carried the thumbprint of 
+PISA recommendations in terms of ‘managerialism and a globalistic approach’, includ-
+ing the goal to improve the country’s performance in international rankings (Feniger 
+et al., 2012: 329).
+Reverse reactions appeared in the United States, where a relatively low perfor -
+mance position in the league tables compared to other advanced economies did not 
+necessarily lead to public or political responses (Martens and Niemann, 2013). Only 
+with the 2009 PISA study, when the Chinese demonstrated extraordinarily good 
+results, did PISA become central to education discourse. This was viewed essentially 
+as a new Sputnik shock.
+Similarly, the Chinese lead in PISA was interpreted as an omen of China overtaking 
+the United States in its economic output.
+In other countries, reactions to PISA vary between testing cycles and professions. For 
+example, the British education system had already been substantially reformed in the 
+1980s, and standardized testing programs were already commonplace. England per -
+formed well in the first round of PISA in 2000 but dropped in later rounds. Although 
+results did not improve significantly, reactions to PISA were moderate, and the British 
+government employed a ‘pick-and-choose’ strategy to adopting OECD recommenda-
+tions (Knodel and Walkenhorst, 2010). In Finland, reactions vary by status groups. Being 
+among the top of the first two PISA testings, the government argued that comprehensive 
+schooling should not be altered, rather that the country may serve as a model for others 
+while Finnish teachers, as professionals, complained about the meager investments in 
+education and the poor appreciation of the education system as a whole (Rautalin and 
+Alasuutari, 2007).
+Apart from case studies of single countries, systematic comparisons of policy changes 
+in a larger number of countries are scarce. By looking at different aspects of accountabil-
+ity and assessment practices, Teltemann and Klieme (2016) showed that the use of stand-
+ardized assessments increased throughout OECD countries between PISA 2000 and 
+2009. Likewise, the use of assessment for purposes of comparison between schools 
+increased in many OECD countries. Other policies, such as school inspections and 
+accountability in the form of tracked achievement data, show more mixed patterns of 
+change between different rounds of PISA.
+Taken together, the OECD seeks to frame how education should be organized. 
+Thereby, the OECD empowers national stakeholders and interest groups to prompt 
+domestic education reforms by providing sound empirical arguments for their views 
+while others’ positions are eclipsed. As noted in Germany and Switzerland, the PISA 
+findings were used to introduce assessment procedures and measures of accountability. 
+In particular, employers’ organizations gained leverage in this regard by referring to 
+PISA data while other groups against these measures, such as teachers’ unions, lost 
+
+=== PAGE 12 ===
+278 Global Social Policy 18(3)
+discursive power (Niemann, 2014a). They were no longer able to block these reform 
+streams because of the indirect yet influential power of PISA. Hence, the OECD was 
+indirectly able to change the power constellations in national education politics since the 
+international organization strengthened those actors whose preferences and beliefs were 
+identical to the OECD’s program (Armingeon, 2004). Actors who held different posi-
+tions in education that were not supported by the empirical evidence presented by PISA 
+lost power in terms of argumentative leverage.
+Conclusion: a dissonant orchestra of IOs in education 
+policy?
+We have argued that the OECD is able to shape domestic education policies by a soft 
+governance strategy of legitimizing and delegitimizing national education systems and 
+practices. This strategy is based on comparative empirical data on the performance of 
+domestic education systems. The provided examples illustrate that the OECD diffuses its 
+ideas regarding education policy to the national level. At the same time, the OECD, first 
+and foremost by the means of its PISA initiative, also defined a standard for assessing 
+education performance through comparative, large-scale assessments. PISA became the 
+most prominent and most comprehensive international education assessment to date.
+Our findings also provide some implications for theorizing in the realm of social con-
+structivism. First of all, the definition and dissemination of specific ideas, in our case in 
+the field of education, is interlinked with sound reasoning based on data. Ideas become 
+perceived suitable in framing political action if they correspond with empirical observa-
+tions presented as hard facts. Ideas do not float around and get eclectically chosen by 
+stakeholders; rather, they successively diffuse throughout the system by being linked to 
+measurement and, eventually, become a cornerstone in the mind-set of actors. Second, an 
+important caveat for explaining influence of IOs’ ideas on domestic policy making is that 
+ideas work mostly through intermediaries. In this regard, IOs make an offer regarding 
+their ideational framing. Actors on the national level need to be convinced by the argu-
+ment of the IO as beneficial or legitimate and make use of it in their pursuits to introduce 
+a change (e.g. in terms of reforms).
+The field of global education policy is today populated by several IOs (and other 
+international non-governmental institutions) constituting a dense net of actors competing 
+for influence. Although various single studies on the ‘usual suspects’ (e.g. on the 
+UNESCO, the OECD, and the World Bank) exist, we know little about the universe of 
+education IOs as a whole. Of all 495 internationally operating IOs in the Correlates of 
+War dataset, 20 IOs can be identified as working intensely in the field of education 
+(Martens and Niemann, 2017). More scholarly work is needed on how these IOs interact 
+with and influence both each other and states. In combination with our research result 
+that the OECD is powerful in influencing states toward reforming their education sys-
+tems, the subsequent research question arises whether the OECD has become a role 
+model for other IOs. Since the OECD is often considered one of the most influential IOs 
+in global education, it seems plausible to assume that other IOs are eager to copy or imi-
+tate the OECD’s approach and foster their own significance. In sum, a next step may be 
+to identify if and how other education IOs operate in regard to education.
+
+=== PAGE 13 ===
+Niemann and Martens 279
+Funding 
+The author(s) received no financial support for the research, authorship, and/or publication of this 
+article.
+Notes
+1. We follow Béland and Cox’s (2011) definition in conceiving ideas as causal beliefs that ‘pro-
+vide guides for action. Ideas help us to think about ways to address problems and challenges 
+that we face and therefore are the cause of our actions’ (p. 4).
+2. Data have been taken from the survey ‘The Appeal of Numbers? An Interdisciplinary 
+Approach to International Assessments in Education’, conducted in 2015, financed by 
+Welfare Societies, University of Bremen.
+References
+Abbott KW and Snidal D (1998) Why states act through formal international organizations. The 
+Journal of Conflict Resolution 42(1): 3–32.
+Abbott KW and Snidal D (2000) Hard and soft law in international governance. International 
+Organization 54(3): 421–456.
+Addey C (2017) Golden relics & historical standards: How the OECD is expanding global educa-
+tion governance through PISA for development. Critical Studies in Education 58(3): 311–325.
+Allmendinger J and Leibfried S (2003) Education and the welfare state: The four worlds of com-
+petence production. Journal of European Social Policy 13(1): 63–81.
+Armingeon K (2004) OECD and national welfare state development. In: Armingeon K and Beyeler 
+M (eds) The OECD and European Welfare States. Cheltenham: Edward Elgar Publishing, pp. 
+226–241.
+Arndt C and Oman C (2008) The politics of governance ratings. Working Paper Mgsog/2008/
+wp003. Maastricht Graduate School of Education, Maastricht University, The Netherlands, 
+April.
+Barnett MN (2002) Historical sociology and constructivism: An estranged past, a federated 
+future? In: Hobden S and Hobson JM (eds) Historical Sociology of International Relations. 
+Cambridge: Cambridge University Press, pp. 99–119.
+Barnett MN and Finnemore M (2004) Rules for the World: International Organizations in Global 
+Politics. Ithaca, NY; London: Cornell University Press.
+Barnett MN and Finnemore M (2005) The power of liberal international organizations. In: Barnett 
+MN and Duvall R (eds) Power in Global Governance. Cambridge: Cambridge University 
+Press, pp. 161–184.
+Béland D and Cox RH (2011) Introduction: Ideas and politics. In: Béland D and Cox RH (eds) 
+Ideas and Politics in Social Science Research. Oxford: Oxford University Press, pp. 3–20.
+Benavot A and Tanner E (2007) The Growth of National Learning Assessments in the World, 1995-
+2006. Paris: UNESCO. Available at: unesdoc.unesco.org/images/0015/001555/155507e.pdf.
+Bieber T, Martens K, Niemann D, et al. (2014) Grenzenlose Bildungspolitik? Empirische 
+Evidenz für PISA als Weltweites Leitbild für Nationale Bildungsreformen. Zeitschrift für 
+Erziehungswissenschaft 17: 141–166.
+Bieber T, Martens K, Niemann D, et al. (2015) Towards a global model in education? 
+International student literacy assessments and their impact on policies and institutions. In: 
+Hamilton M, Maddox B and Addey C (eds) Literacy as Numbers: Researching the Politics 
+and Practices of International Literacy Assessment. Cambridge: Cambridge University 
+Press, pp. 165–186.
+
+=== PAGE 14 ===
+280 Global Social Policy 18(3)
+Bloem S (2016) Die PISA-Strategie der OECD. Zur Bildungspolitik eines globalen Akteurs. 
+Weinheim: Beltz Juventa.
+Breakspear S (2012) The policy impact of PISA: An exploration of the normative effects of interna-
+tional benchmarking in school system performance. OECD Education Working Papers 71: 1–31.
+Broome A and Seabrooke L (2012) Seeing like an international organisation. New Political 
+Economy 17(1): 1–16.
+Broome A and Seabrooke L (2015) Shaping policy curves: Cognitive authority in transnational 
+capacity building. Public Administration 93(4): 956–972.
+Bundesministerium für Bildung und Forschung (BMBF) (2003) Vertiefender Vergleich der 
+Schulsysteme Ausgewählter PISA-Staaten. Bonn: BMBF.
+Carroll P and Kellow A (2011) The OECD: A Study of Organisational Adaptation. Cheltenham: 
+Edward Elgar Publishing.
+Conzelmann T (2008) Beyond the carrot and the stick: State reporting procedures in the World 
+Trade Organization and the Organization for Economic Cooperation and Development. In: 
+Joachim J, Reinalda B and Verbeek B (eds) International Organizations and Implementation: 
+Enforcers, Managers, Authorities? London: Routledge, pp. 35–47.
+Davis K, Fisher A, Kingsbury B, et al. (eds) (2012) Governance by Indicators: Global Power 
+through Classification and Rankings. Oxford: Oxford University Press.
+De Francesco F (2016) Transfer agents, knowledge authority, and indices of regulatory quality: 
+A comparative analysis of the World Bank and the Organisation for Economic Co-operation 
+and Development. Journal of Comparative Policy Analysis 18(4): 350–365.
+Deacon B (2007) The international and global dimensions of social policy. In: Deacon B (ed.) 
+Global Social Policy and Governance. London: Sage, pp. 3–23.
+Dixon R, Arndt C, Mullers M, et al. (2013) A lever for improvement or a magnet for blame? Press 
+and political responses to international educational rankings in four EU countries. Public 
+Administration 91: 484–505.
+Djelic ML and Sahlin-Andersson K (2006) Introduction: A world of governance: The rise of trans-
+national regulation. In: Djelic ML and Sahlin-Andersson K (eds) Transnational Governance: 
+Institutional Dynamics of Regulation. Cambridge: Cambridge University Press, pp. 1–28.
+Egelund N (2008) The value of international comparative studies of achievement – A Danish per-
+spective. Assessment in Education: Principles, Policy & Practice 15(3): 245–251.
+Erkkilä T, Guy Peters B and Piironen O (2016) Politics of comparative quantification: The case of 
+governance metrics. Journal of Comparative Policy Analysis: Research and Practice 18(4): 
+319–328.
+Espeland WN and Sauder M (2007) Rankings and reactivity: How public measures recreate social 
+worlds. American Journal of Sociology 113(1): 1–40.
+Feniger Y, Livneh I and Yogev A (2012) Globalisation and the politics of international tests: The 
+case of Israel. Comparative Education 48(3): 323–335.
+Fulge T, Bieber T and Martens K (2016) On the interplay between international and national 
+policy-making in education policy: Rational intentions, unintended consequences, and trans-
+formation capacities. In: Mundy K, Green A, Lingard R, et al. (eds) Global Policy and Policy-
+Making in Education. Hoboken, NJ: Wiley-Blackwell, pp. 453–469.
+Grek S (2009) Governing by numbers: The PISA ‘effect’ in Europe. Journal of Education Policy 
+24: 23–37.
+Hafner-Burton EM (2008) Sticks and stones: Naming and shaming the human rights enforcement 
+problem. International Organization 62(4): 689–716.
+Hawkins DG, Lake DA, Nielson D, et al. (2006) Delegation and Agency in International 
+Organizations. Cambridge: Cambridge University Press.
+Hay C (2011) Ideas and the construction of interests. In: Béland D and Cox RH (eds) Ideas and 
+Politics in Social Science Research. Oxford: Oxford University Press, pp. 65–82.
+
+=== PAGE 15 ===
+Niemann and Martens 281
+Henry M, Lingard B, Rizvi F, et al. (2001) The OECD, Globalisation and Education Policy. 
+Oxford: IAU Press/Pergamon.
+Joachim J, Reinalda B and Verbeek B (2008) International organizations and implementation: Pieces 
+of the puzzle. In: Joachim J, Reinalda B and Verbeek B (eds) International Organizations and 
+Implementation: Enforcers, Managers, Authorities? London: Routledge, pp. 3–18.
+Kamens DH and McNeely CL (2010) Globalization and the growth of international educational 
+testing and national assessment. Comparative Education Review 54: 5–25.
+Knodel P and Walkenhorst H (2010) What’s England got to do with it? British underestimation of 
+international initiatives in education policy. In: Martens K, Nagel A, Windzio M, et al. (eds) 
+Transformation of Education Policy. Basingstoke: Palgrave Macmillan, pp. 132–152.
+Koenig-Archibugi M (2006) Introduction: Institutional diversity in global governance. In: Koenig-
+Archibugi M and Zürn M (eds) New Modes of Governance in the Global System: Exploring 
+Publicness, Delegation and Inclusiveness. Basingstoke: Palgrave Macmillan, pp. 1–30.
+Koremenos B, Lipson C and Snidal D (2001) The rational design of international institutions. 
+International Organization 55(4): 761–799.
+Lieberman RC (2002) Ideas, institutions, and political order: Explaining political change. American 
+Political Science Review 96(4): 697–712.
+Lingard B and Grek S (2007) The OECD, Indicators and PISA: An Exploration of Events and 
+Theoretical Perspectives. Edinburgh: ESRC/ESF Research Project on Fabricating Quality in 
+Education at the University of Edinburgh.
+Mahon R and McBride S (2009) Standardizing and disseminating knowledge: The role of the 
+OECD in global governance. European Political Science Review 1(1): 83–101.
+Mangez E and Hilgers M (2012) The field of knowledge and the policy field in education: PISA and 
+the production of knowledge for policy. European Educational Research Journal 11: 189–205.
+Manners I (2009) The social dimension of EU trade policies: Reflections from a normative power 
+perspective. European Foreign Affairs Review 14(5): 785–803.
+Martens K (2007) How to become an influential actor – The ‘comparative turn’ in OECD education 
+policy. In: Martens K, Rusconi A and Leuze K (eds) New Arenas of Education Governance 
+– The Impact of International Organizations and Markets on Education Policy Making. 
+Basingstoke: Palgrave Macmillan, pp. 40–56.
+Martens K and Jakobi AP (2010) Introduction. The OECD as an actor in international politics. In: 
+Martens K and Jakobi AP (eds) Mechanisms of OECD Governance: International Incentives 
+for National Policy Making? Oxford: Oxford University Press, pp. 1–30.
+Martens K and Niemann D (2013) When do numbers count? The differential impact of ratings and 
+rankings on national education policy in Germany and the US. German Politics 22(3): 314–332.
+Martens K and Niemann D (2017) Who is who in global social policy? International organizations 
+in education policy. In: ‘Doing’ comparative social policy analysis in a changing global 
+context, Lingnan University, Hong Kong, China, 8–9 December.
+Martens K, Knodel P, Windzio M, et al. (2014) Internationalization of Education Policy: A New 
+Constellation of Statehood in Education? Basingstoke: Palgrave Macmillan.
+Martens K, Rusconi A, Leuze K, et al. (2007) New Arenas of Education Governance: The Impact 
+of International Organizations and Markets on Educational Policy Making. Basingstoke: 
+Palgrave Macmillan.
+Meyer HD and Benavot A (2013) PISA and the globalization of education governance: Some 
+puzzles and problems. In: Meyer HD and Benavot A (eds) PISA, Power, and Policy: The 
+Emergence of Global Educational Governance. Oxford: Symposium Books, pp. 7–26.
+Mingst KA (1999) Global governance: The American perspective. In: Väyrynen R (ed.) 
+Globalization and Global Governance. Lanham, MD: Rowman & Littlefield, pp. 87–104.
+Münch R (2009) Globale Eliten, lokale Autoritäten. Bildung und Wissenschaft unter dem Regime 
+von PISA, McKinsey & Co. Frankfurt am Main: Suhrkamp.
+
+=== PAGE 16 ===
+282 Global Social Policy 18(3)
+Mundy K (2007) Educational multilateralism: Origins and indications for global governance. In: 
+Martens K, Rusconi A and Leuze K (eds) New Arenas of Education Governance: The Impact 
+of International Organizations and Markets on Educational Policy Making. Basingstoke: 
+Palgrave Macmillan, pp. 19–39.
+Nagel AK, Martens K and Windzio M (2010) Introduction – Education policy in transforma-
+tion. In: Martens K, Nagel AK, Windzio M, et al. (eds) Transformation of Education Policy. 
+Basingstoke: Palgrave Macmillan, pp. 3–27.
+Nay O (2012) How do policy ideas spread among international administrators? Policy entrepreneurs 
+and bureaucratic influence in the UN response to AIDS. Journal of Public Policy 32(1): 53–76.
+Nay O (2014) International organisations and the production of hegemonic knowledge: How the 
+World Bank and the OECD helped invent the fragile state concept. Third World Quarterly 
+35(2): 210–231.
+Niemann D (2014a) After the Big Bang – German education policy in the wake of the PISA study 
+and the Bologna process. In: Martens K, Knodel P and Windzio M (eds) Internationalization 
+of Education Policy: A New Constellation of Statehood in Education? Basingstoke: Palgrave 
+Macmillan, pp. 91–114.
+Niemann D (2014b) Instruments of IO governance: OECD influence on German education policy. 
+PhD dissertation, University of Bremen, Germany.
+Niemann D (2016) Germany: The intersection of international achievement testing and educa-
+tional policy development. In: Volante L (ed.) The Intersection of International Achievement 
+Testing and Educational Policy: Global Perspectives on Large-Scale Reform. London: 
+Routledge, pp. 19–36.
+Niemann D, Martens K and Teltemann J (2017) PISA and its consequences: Shaping international 
+comparisons in education. European Journal of Education 52(2): 175–183.
+Organisation for Economic Co-operation and Development (OECD) (2007) PISA - The OECD 
+Programme for International Student Assessment. Paris: OECD Publishing.
+Organisation for Economic Co-operation and Development (OECD) (2008) Measuring 
+Improvements in Learning Outcomes: Best Practices to Assess the Value-Added of Schools. 
+Paris: OECD Publishing.
+Organisation for Economic Co-operation and Development (OECD) ([2010] 2011) Work on 
+Education. Paris: OECD Publishing.
+Organisation for Economic Co-operation and Development (OECD) (2011a) School autonomy and 
+accountability: Are they related to student performance? PISA in Focus 9: 1–4.
+Organisation for Economic Co-operation and Development (OECD) (2011b) Starting Strong III: 
+A Quality Toolbox for Early Childhood Education and Care. Paris: OECD Publishing.
+Organisation for Economic Co-operation and Development (OECD) (2013) Teachers for the 21st 
+Century: Using Evaluation to Improve Teaching. Paris: OECD Publishing.
+Ougaard M (2010) The OECD’s global role: Agenda setting and policy diffusion. In: Martens 
+K and Jakobi AP (eds) Mechanisms of OECD Governance: International Incentives for 
+National Policy-Making? Oxford: Oxford University Press, pp. 246–272.
+Porter T and Webb M (2008) Role of the OECD in the orchestration of global knowledge networks. 
+In: Mahon R and McBride S (eds) The OECD and Transnational Governance. Vancouver, 
+BC, Canada: University of British Columbia Press, pp. 43–59.
+Prenzel M, Sälzer C, Klieme E, et al. (2013) PISA 2012: Fortschritte und Herausforderungen in 
+Deutschland. Münster: Waxmann.
+Rautalin M and Alasuutari P (2007) The curse of success: The impact of the OECD’s Programme 
+for International Student Assessment on the discourses of the teaching profession in Finland. 
+European Education Research Journal 6(4): 348–363.
+Resnik J (2006) International organizations, the ‘education-economic growth’ black box, and the 
+development of world education culture. Comparative Education Review 50: 173–195.
+
+=== PAGE 17 ===
+Niemann and Martens 283
+Robertson SL (2005) Re-imagining and rescripting the future of education: Global knowledge econ-
+omy discourses and the challenge to education systems. Comparative Education 41: 151–170.
+Rosenau JN (2005) Governance in the twenty-first century. In: Wilkinson R (ed.) The Global 
+Governance Reader. London: Routledge, pp. 179–209.
+Schleicher A and Zoido P (2016) The policies that shaped PISA, and the policies that PISA 
+shaped. In: Mundy K, Green A, Lingard B, et al. (eds) Handbook of Global Education Policy. 
+Hoboken, NJ: Wiley, pp. 374–384.
+Sellar S and Lingard B (2013) The OECD and the expansion of PISA: New global modes of gov-
+ernance in education. British Educational Research Journal 40(6): 917–936.
+Sharman JC (2007) Rationalist and constructivist perspectives on reputation. Political Studies 
+55(1): 20–37.
+Takayama K (2008) The politics of international league tables: PISA in Japan’s achievement crisis 
+debate. Comparative Education 44(4): 387–407.
+Teltemann J and Klieme E (2016) The impact of international testing projects on policy and 
+practice. In: Brown G and Harris L (eds) Handbook of Human and Social Conditions in 
+Assessment. Abingdon: Routledge, pp. 369–386.
+Tillmann KJ, Dedering K, Kneuper D, et al. (2008) PISA als bildungspolitisches Ereignis. 
+Fallstudien in vier Bundesländern. Wiesbaden: VS Verlag für Sozialwissenschaften.
+Von Bodandy A and Goldmann M (2012) Taming and framing indicators: A legal reconstruction 
+of the OECD’s Programme for International Student Assessment (PISA). In: Davis K, Fisher 
+A, Kingsbury B, et al. (eds) Governance by Indicators: Global Power through Classification 
+and Rankings. Oxford: Oxford University Press, pp. 52–85.
+Woodward R (2009) The Organisation for Economic Co-operation and Development (OECD). 
+London: Routledge.
+Author biographies
+Dennis Niemann is post-doctoral researcher in the project “The global development, diffusion and 
+transformation of education systems” at the Collaborative Research Centre 1342 “Global Dynamics 
+of Social Policy” at the University of Bremen. He holds a PhD in Political Science from the University 
+of Bremen. His research interests include the internationalization of education policy, qualitative 
+methods, and the role of international organizations in global governance. He has published on soft 
+governance influence of international organizations and on domestic policy-making and on recent 
+internationalization processes in the field of education policy in international journals such as 
+German Politics, Publius: The Journal of Federalism, and European Journal of Education.
+Kerstin Martens is Professor of International Relations at the University of Bremen, Germany. Her 
+research interests include social and education policy in international and comparative perspec-
+tives, international large scale assessment in education, international organisations, NGOs and 
+qualitative methodology. Since 2018, she heads the research project on “The global development, 
+diffusion and transformation of education systems” as part of the Collaborative Research Centre 
+1342 “Global Dynamics of Social Policy“. Previously, she headed a research project on 
+“Internationalization of Education Policy”, a 12-year project financed by the German Research 
+Foundation. She has published widely on the above mentioned research areas, including leading 
+international journals such as Journal of International Relations and Development, Policy Studies, 
+Global Society and European Journal of Education. Recent volumes she co-edited include, 
+Mechanisms of OECD Governance – International Incentives for National Policy Making?, 
+Oxford University Press 2010, Internationalisation of Education Policy, Palgrave Macmillan 
+2014, and Education in Political Science – Discovering a Neglected Field, Routledge 2010. She 
+holds a PhD in Social and Political Sciences from the European University Institute, Florence, 
+Italy.
