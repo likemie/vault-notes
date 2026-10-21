@@ -64,6 +64,7 @@ related_arguments:
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 confidence: medium
 status: draft
 created: 2026-10-09
@@ -102,6 +103,7 @@ updated: 2026-10-21
 > - **2000 — 政治学与制度主义扩展** [[Paul Pierson|保罗·皮尔逊]]（Paul Pierson, 2000）将路径依赖模型系统迁移至政治学与公共政策分析，指出政治制度具有比经济市场更高的转换成本与更强的权力自我强化机制。
 > - **2009 — 国际主权借贷契约惯性与审计锁定拓展** [[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）将路径依赖理论运用于超国家[[Multilateral Development Bank|多边开发银行]]的主权教育贷款治理，揭示契约惰性与[[Counterpart Funds|对等配套资金]]在抵御借款国内阁政客短视更迭的积极减震功能，以及放贷流水线指标与报销审计程序如何造成灾难性的合规锁定与“白色大象”。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 458, 470–472)]]
 > - **2014–2026 — 开源生态与“教育即标准”机制拓展** Krste Asanović 与 David Patterson（2014）推动 RISC-V 架构发展，卓泽林进一步揭示大学如何通过课程教学体系、教材编写与跨层级工程人才培养，将开源指令集架构直接内生化为新一代软硬件开发者的认知事实标准，在全球范围内形成反向锁定与技术生态主导权。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
+> - **2019 — 国家行政传统对政策工具折射的路径依赖** 安东尼·维格（Antoni Verger）等学者揭示不同国家的历史行政传统（如英美新公共管理体制与欧洲大陆新韦伯主义体制）构成强大的制度路径依赖，系统性过滤与折射全球流动的标准化测验问责工具，阻断了全球政策的同质化收敛。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250, 262–263)]]
 
 ---
 

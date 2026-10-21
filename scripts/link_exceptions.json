@@ -106,5 +106,11 @@
       "sentence": "**问题界定（Problem Definition）** 重塑行动者对现状的理解，将特定的办学现实解释为亟待纠正的体制缺陷与危机（Hay, 2011; Lieberman, 2002）。",
       "target": "wiki/concepts/competency-and-assessment/Problem Finding.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Verger_2019_Discourse.md": [
+    {
+      "sentence": "*The seductive power of these instruments relies on the fact that they contribute to transform complex and multi-dimensional educational realities into numerical categories, and to construct the perception that deep educational problems (such as inequalities or quality issues) can be addressed by setting up predefined patterns of conduct, measuring actors’ performance, and distributing incentives accordingly.*",
+      "target": "wiki/concepts/research-methodology/Construct.md"
+    }
   ]
 }

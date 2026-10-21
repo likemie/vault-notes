@@ -1,14 +1,21 @@
 ---
 title: Literature Search
-aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for literature"]
-summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
+aliases:
+  - 文献检索
+  - 文献搜索
+  - literature retrieval
+  - searching for literature
+summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，在大规模系统综述中其语言与数据库检索覆盖边界直接限定实证证据的外部效度（Verger et al., 2019）。"
 type: concept
 domain: "research-methodology"
-related_count: 57
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
-tags: [source/textbook, method/research-process]
+related_count: 35
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
+tags:
+  - source/textbook
+  - method/research-process
+  - methodology
 related_concepts:
   - "[[Literature Review]]"
   - "[[Research Topic]]"
@@ -19,379 +26,107 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Construct Validity]]"
   - "[[Content Validity]]"
-  - "[[International Education]]"
-  - "[[Artefact]]"
   - "[[Evaluation Research]]"
-  - "[[Engineering Education]]"
-  - "[[Lifelong Learning]]"
-  - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[Informationalization]]"
-  - "[[Intelligent Tutoring Systems]]"
-  - "[[Normal School]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Chain of Evidence]]"
-  - "[[Paradigm]]"
-  - "[[Dynamic Research Notebook]]"
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Tacit Knowledge]]"
   - "[[Document]]"
-related_theories: []
 related_methods:
   - "[[Literature Map]]"
-  - "[[Meta-analysis]]"
-  - "[[Cohort Study]]"
-  - "[[Trend Study]]"
-  - "[[Network Analysis]]"
   - "[[Systematic Review]]"
-  - "[[Research Synthesis]]"
+  - "[[Meta-analysis]]"
+  - "[[Network Analysis]]"
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
   - "[[Michael Kratsios]]"
 related_facts:
-  - "[[SPECTRUM]]"
   - "[[Education Resources Information Center]]"
   - "[[EPPI-Centre]]"
   - "[[What Works Clearinghouse]]"
   - "[[British Educational Research Association]]"
-  - "[[PISA]]"
-  - "[[Education at a Glance]]"
-  - "[[National Assessment of Educational Progress]]"
-  - "[[EU]]"
-  - "[[Institute of Education Sciences]]"
-  - "[[Comparative and International Education Society]]"
-  - "[[British Association for International and Comparative Education]]"
-  - "[[Office of Science and Technology Policy]]"
+related_instruments:
+  - "[[PRISMA]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
-related_instruments:
-  - "[[PRISMA]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: active
 created: 2026-06-21
 updated: 2026-10-21
 ---
+
 # Literature Search
+
+---
 
 ## 定义
 
-> [!def] 文献检索（Literature Search）
-> 文献检索是[[Literature Review\|文献综述]]的操作性环节，指运用系统策略从多种来源定位、筛选和获取与[[Research Topic\|研究主题]]相关的已有文献的过程。它服务于文献综述的论证构建，但本身是技术性操作而非论证性写作（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7]]）。
+> [!def] 核心定义
+> 文献检索（Literature Search）是[[Literature Review|文献综述]]的操作性环节，指运用系统策略从学术数据库、图书专著、学术会议与官方机构等多元渠道定位、筛选和获取与[[Research Topic|研究主题]]相关的已有文献的过程。它为文献综述的理论论证提供实证材料基础，本身侧重于技术性信息获取与质量甄别操作（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1]]）。在大规模[[Systematic Review|系统文献综述]]中，检索所设定的数据库类型与语种边界直接决定了后续综合证据的覆盖广度与代表性（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 252]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 文献检索关注"如何找到"文献。它涉及检索策略、数据库操作、关键词优化和来源优先级判断。
-> - **用途** 为研究者提供具体可执行的操作程序，确保文献收集的系统性和全面性，避免遗漏关键文献。
-> - **边界** 文献检索不等同于文献综述——检索是收集材料的过程，综述是对材料进行论证组织的结果。
+> - **含义** 文献检索聚焦于“如何定位与获取文献”，涉及检索策略编制、布尔语法运用、多源数据库交叉查询与纳入排除标准把控。
+> - **用途** 为科学研究提供规范化的信息收集规程，保障已有知识库收集的系统性与查全率，防范关键文献遗漏。
+> - **边界** 检索是收集与筛选材料的技术过程，综述则是对已有研究开展概念综合与观点批判的论证建构。
+
+> [!citation-card] 科恩等关于文献检索奠定论证基础的论述
+> 文献检索是服务于一整套论证目的的逻辑起点。通过严密的文献检索与综述，研究能够确立自身的构念效度与内容效度，标示出既有理论与经验格局的现状，进而界定核心构念与需要填补的知识空白，为进入实证探究提供跳板。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
+>
+> *Literature search serves a chain of argumentative purposes, establishing construct and content validity, mapping theoretical and empirical landscapes, identifying gaps, and providing a springboard for empirical inquiry.*
+
+> [!citation-card] 贝尔赫论跨国文献检索的语言与数据库边界
+> 在针对全球教育改革政策的大规模系统文献综述中，文献检索主要依赖国际主流引文数据库（如 Scopus），且多局限于同行评审的英语学术发表；这种检索边界对非英语国家的本土研究以及未被国际引文体系收录的发展中国家实证经验形成了覆盖局限。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
+>
+> *The literature search relies primarily on academic databases (such as Scopus) and English peer-reviewed articles, which imposes coverage limitations regarding non-English literature and evidence from developing countries not fully captured by international citation systems.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Literature Review\|文献综述]] — 检索产出文献列表、摘要或[[Literature Map\|文献地图]]；综述产出有论证结构的文本。
-> - 不等于 [[Inverted Triangle Literature Search\|倒三角文献检索]] — 后者是一种特定的检索策略模型，适用于从宽泛到聚焦的渐进式搜索。
-> - 不适用于 — 直接回答[[Research Question\|研究问题]]（检索定位已有知识，回答研究问题需要原始数据收集和分析）。
+> - 不等于[[Literature Review|文献综述]] — 检索产出的是文献清单、摘要库或[[Literature Map|文献地图]]；综述产出的是具有论证结构与观点评析的文本。
+> - 不等于[[Inverted Triangle Literature Search|倒三角文献检索]] — 倒三角检索属于一种具体的策略路径，指从宽泛背景向核心问题逐层收窄的渐进检索模式。
+> - 不等于最终回答研究问题 — 检索旨在梳理既有知识体，解答研究问题仍须依托研究者本人的经验数据与分析推论。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 文献检索 vs [[Literature Review\|文献综述]]
-> | 维度 | 文献检索 | [[Literature Review\|文献综述]] |
+> [!contrast-table] 文献检索与文献综述的多维对比
+> | 维度 | 文献检索（Literature Search） | 文献综述（Literature Review） |
 > |---|---|---|
-> | 本质 | 技术性操作 | 论证性写作 |
-> | 产出 | 文献列表、摘要、[[Literature Map\|文献地图]] | 有组织、有论证发展的文本 |
-> | 核心能力 | 检索策略、数据库操作、来源判断 | 批判性综合、论证构建 |
-> | 关系 | 服务于综述的论证需要 | 依赖检索提供材料 |
+> | **活动本质** | 信息定位、筛选与甄别的技术性操作过程 | 知识批判、理论提炼与学术对话的论证性写作 |
+> | **核心产出** | 文献题录、结构化摘要、筛选流程图与文献地图 | 具有严密逻辑线索与理论主题的综述文本 |
+> | **主要能力** | 关键词提取、布尔语法操作、数据库选用与来源鉴别 | 批判性知识综合、理论概念重构与学术争鸣评述 |
+> | **功能关系** | 作为综述的前置基础，为理论论证提供材料输入 | 指导检索的方向与边界，并将检索材料转化为证据支撑 |
 
 ---
 
 ## 核心要素
 
-### 检索流程与操作方法
+> [!feature] 核心要素
+> - **系统检索流程七步法（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）** ① 确立并逐步收窄关键词；② 检索专业计算机数据库；③ 初步筛选定位候选文献；④ 快速浏览摘要并排除无关项；⑤ 绘制[[Literature Map|文献地图]]理清知识脉络；⑥ 撰写结构化文献摘要；⑦ 按主题或概念结构组织综述。
+> - **布尔语法与检索操作符** 熟练运用引号精确匹配、星号词根扩展、波浪号近义联想与 AND / OR / NOT 布尔逻辑组合，在查准率与查全率之间取得平衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 129–131)]]
+> - **文献多维分类与载体鉴别** 区分正式出版文献（专著、期刊）与未正式出版文献（博硕毕业成果、研讨报告）；区分[[Primary and Secondary Documents|初级文献]]（一手经验研究数据）与次级文献（教材、年鉴、述评）。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
+> - **多源学术数据库梯队** 综合运用国际专业库（[[Education Resources Information Center|ERIC]]、Scopus、Web of Science）、开放获取平台（DOAJ）以及中文学术总库（CNKI），兼顾广度与专业深度。
+> - **文献与来源质量评估准则** 优先参考经过严格同行评审的高水平学术期刊；审慎评估出版机构声誉、时间跨度、研究团队学术资质及客观中立性，防范商业立场偏见。
+> - **人工智能代理检索与语义挖掘** 随着[[Generative Artificial Intelligence|生成式人工智能]]的发展，智能研究代理介入文献初筛、语义跨模态提取与证据链关联，推动检索向动态代码与数据沙盒延伸。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
 
-Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
-
-> [!proc] 文献检索七步法
-> 1. **确定关键词** 从宽泛术语开始，逐步缩小和精确化（如从 mental health 缩小到 autism [[SPECTRUM]] disorder，再指定为 family factors, support, autism spectrum disorder）
-> 2. **检索计算机数据库** 搜索 [[Education Resources Information Center\|ERIC]]、Google Scholar、Web of Science、EBSCO、ProQuest、JSTOR 等
-> 3. **初步定位约 50 篇文献** 优先搜索期刊文章和书籍，因为它们易于定位和获取
-> 4. **浏览并筛选** 快速浏览已收集的文章或章节，收集最核心的文献
-> 5. **设计[[Literature Map\|文献地图]]** 制作文献的视觉化图示，展示文献的分组方式
-> 6. **撰写[[Abstract\|文献摘要]]** 为最相关的文章撰写摘要，组合成最终的[[Literature Review\|文献综述]]
-> 7. **组织文献综述** 按主题或核心概念结构化组织，以主要主题的总结结尾
-
-> [!tip] 迭代搜索策略
-> 先使用在线词表中的描述词进行初步搜索，找到一篇与[[Research Topic\|研究主题]]相关的期刊文章，然后仔细查看这篇文章使用的描述词，再用这些词进行第二轮搜索。索引者使用的描述词往往比研究者自己想到的关键词更精确（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
-
-齐梅 (2015, Ch.1) 归纳了五种文献检索的操作方法：
-
-> [!feature] 文献检索五种操作方法
-> - **互助法（Mutual Help Method）** 同领域的研究伙伴彼此相互帮助，或不同领域的研究伙伴相互支持。同领域伙伴搜集的资料同质性较高，不同领域伙伴可提供互补资料。
-> - **追溯法（Tracing Method）** 从最新的文献开始搜集，由这些文献所附的参考文献去查找相关文献，再从此文献的参考文献继续追溯，层层向前。
-> - **绵延法（Citation [[Tracking]]）** 从[[Research Question\|研究问题]]所属领域的重要文献着手，尽量搜集引用此篇文献的所有文献。如通过社会科学引注索引（SSCI）或其他索引搜集。
-> - **人工检索（Manual Search）** 以人工方式从图书、期刊、摘要、杂志、学报等方面去检查。例如从学位论文或期刊论文的参考书目寻找[[Primary and Secondary Documents\|初级文献]]。
-> - **网上检索（Online Search）** 利用图书馆所购买的光碟或数据库进行网上检索，可以迅速找到相关的文献。
-
----
-
-### 网络检索与检索操作符
-
-互联网上研究数据的存储和检索不仅能跟进全球发展，还为文献检索提供数据访问以确立自身研究中的[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]。在线期刊、摘要和标题使研究者能够跟上研究前沿。有些类型的研究本质上就是大规模文献检索，如发表在 *Review of Educational Research* 上的论文，以及 [[EPPI-Centre]] 和 [[What Works Clearinghouse]] 的材料。网站和电子邮件通讯使网络和信息得以共享（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
-
-> [!tip] 四个检索操作符
-> - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
-> - **星号（\*）** 在词根后加星号，返回不同结尾的网站（如 Teach\* → teach, teaching, teacher）
-> - **波浪号（\~）** 在词前加波浪号，识别相似词（如 \~English teaching 同时返回 English language 和 English teaching）
-> - **布尔操作符** and, not, or 连接词语或短语
-
----
-
-### 文献分类与信息类型
-
-齐梅 (2015, Ch.1) 从公开性和加工程度两个维度对文献进行分类，并梳理了三类文献资料来源：
-
-> [!contrast-table] 维度一：按公开性划分
-> | 维度 | 正式文献 | 非正式文献 |
-> |---|---|---|
-> | 定义 | 正式出版的专著、论文、期刊、教科书等，经出版管理程序登记取得许可 | 未正式出版的论著、研究报告、统计资料，以及私人通信、日记、笔记、手稿等 |
-> | 示例 | 期刊论文、学术专著、教科书 | 硕博士论文、会议论文、私人通信 |
-> | 使用建议 | 以正式出版文献为主 | 因取得不易且难以判断真伪，尽量少引用 |
-
-> [!taxonomy] 维度二：按加工程度划分
-> - **一般性参考资料**
->   索引（indexes）和摘要（abstracts），列出论文的作者、题目、出版地点等。
-> - **[[Primary and Secondary Documents\|初级文献]]（第一手资料）**
->   将研究结果直接提出发表的出版物，大部分来自期刊或集刊。文献检索时最好直接参考第一手资料。
-> - **次级文献（第二手资料）**
->   对初级资料加以分析、比较和整理后提出的综合资料，如教材、教育大辞典、研究述评和教育年鉴。
-
-> [!feature] 三类文献资料载体
-> - **书籍** 包括专著（作者对自己在某领域多年研究结果的系统梳理）、论文集（众多专家关于同一主题的学术论文汇编，往往观点各异、信息量大）、教科书（系统阐述某一学科研究对象、基本理论和基本问题的入门读本）、工具书（如《中国教育统计年鉴》《[[International Education\|国际教育]]大辞典》《教育大辞典》）。
-> - **期刊** 定期或不定期的连续出版物。学术性期刊反映教育研究的研究动态和成果，如《教育研究》《高等教育研究》《北京大学教育评论》等。情报性期刊包括《新华文摘》《人大复印报刊资料》等；普及性期刊如《中国高等教育》。
-> - **未正式出版的文献** 包括学术会议论文集（反映学科领域前沿水平）、学位论文（具有一定的创新性，文献综述较为全面）、研究报告（以应用研究为主，为政府或企业决策提供建议）。
-
-[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011)]] 对文献综述中涉及的信息类型进行了系统梳理：
-
-> [!index-table] 文献综述中的信息类型（Box 7.2）
-> | 类别 | 具体内容 |
-> |---|---|
-> | **书籍** | 精装/平装和电子书 |
-> | **期刊文章** | 学术和专业期刊（纸质和在线） |
-> | **研究** | 实证和非实证研究 |
-> | **报告** | 来自政府、NGO、组织、有影响力的协会 |
-> | **政策文件** | 来自政府、组织、智库 |
-> | **公共和私人记录** | — |
-> | **研究论文和报告** | 来自研究中心、研究组织 |
-> | **学位论文** | 硕士和博士论文 |
-> | **手稿** | — |
-> | **数据库** | 可检索的记录集合（电子或其他） |
-> | **会议论文** | 地方、区域、国家、国际 |
-> | **一手来源** | 原始、第一手、当代的来源材料（文件、演讲、日记、信件、自传、回忆录、公共记录、采访和原始研究数据、会议纪要、备忘录、公报、宪章、法案、法律文件、证人陈述、口述历史、未发表作品、专利、网站、视频片段、照片、音频记录、[[Artefact\|人工制品]]等） |
-> | **在线数据库** | — |
-> | **电子期刊或媒体** | — |
-> | **二手来源** | 第二手材料（百科全书、词典、报纸文章、评论、文摘、教材、研究综合、[[Meta-analysis\|元分析]]、研究综述、历史、杂志文章、传记、专著、评论著作等） |
-> | **三手来源** | 一手和二手来源的蒸馏或汇编（年鉴、书目、目录、词典、百科全书、事实书、指南、索引、文摘、手册、年表等） |
-
----
-
-### 检索资源与学术数据库
-
-数据库选择遵循几条隐含原则（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：同时使用免费和机构订阅资源以扩大覆盖面；跨学科搜索而非局限于本领域；优先使用提供全文访问的数据库以减少获取时间。
-
-> [!index-table] 主要学术数据库
-> | 数据库 | 特征 |
-> |---|---|
-> | [ERIC](https://eric.ed.gov) | 教育学期刊、报告、会议论文；免费，含在线词表可精确检索，1966 年至今 140 万条 |
-> | [Google Scholar](https://scholar.google.com) | 跨学科学术搜索，含论文、学位论文、图书；免费，自动统计引用次数 |
-> | [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生物医学与生命科学；免费，1700 万条引文 |
-> | [ProQuest](https://www.proquest.com) | 综合学术内容库，全球最大的学位论文收藏；机构订阅 |
-> | [EBSCO](https://www.ebsco.com) | 综合性数据库，350+ 专业子库；机构订阅，含 British Education Index |
-> | [Scopus](https://www.scopus.com) | 同行评审文献摘要与引文数据库；机构订阅，支持引文追踪 |
-> | [DOAJ](https://doaj.org) | 开放获取期刊目录，700 万篇文章全免费；无需订阅 |
-> | [知网（CNKI）](https://www.cnki.net) | 中文学术期刊、硕博论文、会议、年鉴；[高级检索](https://kns.cnki.net/kns8s/AdvSearch?classid=YSTT4HG0) 支持多字段组合 |
-> | [SCI-Hub](https://sci-hub.sg) | 通过 DOI 获取付费论文全文；域名可能变动 |
-
-> [!index-table] 研究协会与组织
-> | 组织 | 说明 |
-> |---|---|
-> | [AERA](https://www.aera.net) | 美国教育研究协会，年会、期刊（AERJ, RER, EEPA 等）、研究网络 |
-> | [BERA](https://www.bera.ac.uk) | [[British Educational Research Association\|英国教育研究协会]]，年会、期刊（BERJ）、伦理指南 |
-> | [EERA](https://www.eera.ac.uk) | 欧洲教育研究协会，欧洲教育研究年会（ECER） |
-> | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会，[[PISA]] 澳洲实施方、[[Evaluation Research\|评估研究]] |
-> | [SERA](https://www.sera.ac.uk) | 苏格兰教育研究协会，年会、网络 |
-> | [NFER](https://www.nfer.ac.uk) | 英国国家教育研究基金会，大规模教育评估与政策研究 |
-> | [CEM](https://www.cem.org) | 课程评估与监测中心，全球最大的教育监测机构之一 |
-> | [HKERA](https://www.hkera.org) | 香港教育研究协会 |
-> | [WERA](https://www.weraonline.org) | 世界教育研究协会，[[International Education\|国际教育]]研究网络 |
-> | [ESRC](https://www.ukri.org/councils/esrc) | 英国经济与社会研究理事会，教育研究资助机构 |
-
-> [!index-table] 政府与统计网站
-> | 资源 | 说明 |
-> |---|---|
-> | [ONS](https://www.ons.gov.uk) | 英国国家统计署，人口、经济、社会统计数据 |
-> | [UK Data Service](https://ukdataservice.ac.uk) | 英国社会科学数据仓储，含大型追踪调查数据 |
-> | [UNESCO](https://www.unesco.org) | 全球教育、科学、文化统计与政策报告 |
-> | [OECD Education](https://www.oecd.org/education) | PISA、TALIS、[[Education at a Glance]] 等国际比较数据 |
-> | [NCES](https://nces.ed.gov) | 美国教育统计，含 [[National Assessment of Educational Progress\|NAEP]]、Digest of Education Statistics |
-> | [World Bank](https://www.worldbank.org) | 全球发展数据，含教育支出、入学率等跨国指标 |
-> | [EU Gateway](https://european-union.europa.eu) | [[EU\|欧盟]]政策、统计（Eurostat）与法律文件 |
-> | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案联盟，跨国数据检索 |
-> | [Council of Europe](https://www.coe.int) | 欧洲人权、教育、文化政策 |
-> | [HESA](https://www.hesa.ac.uk) | 英国高等教育统计局，学生、教职工、财务数据 |
-> | [GSR](https://www.gsr.gov.uk) | 英国政府社会研究，方法论与数据服务 |
-> | [ICPSR](https://www.icpsr.umich.edu) | 美国校际政治与社会研究数据联盟，需机构订阅 |
-> | [Eurydice](https://eurydice.eacea.ec.europa.eu) | 欧盟教育制度比较数据 |
-> | [CLS](https://www.cls.ioe.ac.uk) | 英国[[Cohort Study\|队列研究]]，纵向追踪数据（1958、1970、2000+） |
-> | [data.gov.uk](https://data.gov.uk) | 英国政府开放数据，含 DfE 教育统计 |
-> | [TIMSS / PIRLS](https://nces.ed.gov/timss/) | 国际数学与科学[[Trend Study\|趋势研究]]数据 |
-
-> [!index-table] 图书馆与档案
-> | 资源 | 说明 |
-> |---|---|
-> | [Internet Archive](https://archive.org) | 全球最大的互联网数字档案库，含网页回溯（Wayback Machine）、千万册图书、音视频、软件 |
-> | [Library of Congress](https://www.loc.gov) | 美国国会图书馆，全球最大图书馆，海量数字化馆藏 |
-> | [British Library](https://explore.bl.uk) | 大英图书馆，1.5 亿件藏品，集成目录 |
-> | [Library Hub Discover](https://discover.libraryhub.jisc.ac.uk) | 英国 170+ 高校图书馆联合目录，原 COPAC |
-> | [Virtual Library](http://vlib.org) | 在线虚拟图书馆目录 |
-> | [NDLTD](https://www.ndltd.org/find) | 全球学位论文数字图书馆，跨国检索 |
-> | [Aslib Index to Theses](https://www.theses.com) | 英国学位论文索引 |
-> | [AbeBooks](https://www.abebooks.com) | 旧书、绝版书与珍本检索 |
-
-> [!index-table] 期刊与出版平台
-> | 平台 | 说明 |
-> |---|---|
-> | [Springer](https://link.springer.com) | 科学、技术、医学（STM）文献，含图书、期刊、参考工具书 |
-> | [Elsevier](https://www.elsevier.com) | 科学、技术、医学文献，含 ScienceDirect 全文平台 |
-> | [Wiley](https://onlinelibrary.wiley.com) | 多学科期刊与在线图书，含 Cochrane Library |
-> | [JSTOR](https://www.jstor.org) | 人文社科回溯期刊全文库，含艺术、历史、教育等领域 |
-> | [Sage](https://uk.sagepub.com) | 社会科学与教育学期刊，研究方法丛书 |
-> | [Taylor & Francis](https://taylorfrancis.com) | 教育、社科等人文领域期刊平台 |
-> | [Emerald](https://www.emeraldinsight.com) | 管理学、教育、图书馆学等期刊 |
-
-> [!index-table] CSSCI（2025–2026）来源期刊（教育学）
-> | 期刊名称 | 主办单位与定位 |
-> |---|---|
-> | [北京大学教育评论](https://navi.cnki.net/knavi/journals/BJPL/detail) | 北京大学主办，综合性高等教育学术评论 |
-> | [比较教育研究](https://navi.cnki.net/knavi/journals/BJJY/detail) | 北京师范大学主办，国际与比较教育研究核心期刊 |
-> | [大学教育科学](https://navi.cnki.net/knavi/journals/JXGJ/detail) | 湖南大学、中国机械工业教育协会主办，高等教育理论与实践研究 |
-> | [电化教育研究](https://navi.cnki.net/knavi/journals/DHJY/detail) | 西北师范大学、中国电化教育研究会主办，教育技术学核心期刊 |
-> | [复旦教育论坛](https://navi.cnki.net/knavi/journals/GWZX/detail) | 复旦大学主办，高等教育改革与大学治理学术论坛 |
-> | [高等工程教育研究](https://navi.cnki.net/knavi/journals/GDGJ/detail) | 华中科技大学主办，[[Engineering Education\|工程教育]]理论与工程创新研究 |
-> | [高等教育研究](https://navi.cnki.net/knavi/journals/HIGH/detail) | 华中科技大学、中国高等教育学会主办，高等教育学综合性期刊 |
-> | [高校教育管理](https://navi.cnki.net/knavi/journals/ZJSK/detail) | 江苏大学主办，高校内部治理与高等教育管理政策研究 |
-> | [国家教育行政学院学报](https://navi.cnki.net/knavi/journals/GJXZ/detail) | 国家教育行政学院主办，教育行政体制与教育治理现代化研究 |
-> | [湖南师范大学教育科学学报](https://navi.cnki.net/knavi/journals/FLJY/detail) | 湖南师范大学主办，教育基础理论与多学科交叉研究 |
-> | [华东师范大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/HDXK/detail) | 华东师范大学主办，教育部名刊工程入选学术期刊 |
-> | [江苏高教](https://navi.cnki.net/knavi/journals/JSGJ/detail) | 江苏省高等教育学会主办，地方高校改革与高等教育区域发展研究 |
-> | [教师教育研究](https://navi.cnki.net/knavi/journals/GDSZ/detail) | 北京师范大学、华东师范大学主办，教师专业发展与教师教育理论 |
-> | [教育发展研究](https://navi.cnki.net/knavi/journals/SHGJ/detail) | 上海市[[Institute of Education Sciences\|教育科学研究院]]主办，宏观教育政策分析与教育战略规划 |
-> | [教育科学](https://navi.cnki.net/knavi/journals/JYKO/detail) | 辽宁师范大学主办，教育学基础理论与经验实证研究 |
-> | [教育科学研究](https://navi.cnki.net/knavi/journals/JYKY/detail) | 北京市教育科学研究院主办，侧重基础教育改革与教育实证探索 |
-> | [教育实践与研究](https://jepr.ntue.edu.tw/) | 国立台北教育大学主办，教育实务与课程教学研究（TSSCI / CSSCI 来源） |
-> | [教育学报](https://navi.cnki.net/knavi/journals/XKJY/detail) | 北京师范大学主办，教育学一级学科综合性学术期刊 |
-> | [教育研究](https://navi.cnki.net/knavi/journals/JYYJ/detail) | 中国教育科学研究院主办，全国教育科学综合性权威学术期刊 |
-> | [教育研究与实验](https://navi.cnki.net/knavi/journals/YJSY/detail) | 华中师范大学主办，侧重教育实验探索与实证研究方法 |
-> | [教育与经济](https://navi.cnki.net/knavi/journals/JYJI/detail) | 华中师范大学、中国教育经济学研究会主办，教育经济学专业期刊 |
-> | [开放教育研究](https://navi.cnki.net/knavi/journals/KFJY/detail) | 上海开放大学主办，开放远程学习与[[Lifelong Learning\|终身教育]]理论研究 |
-> | [课程·教材·教法](https://navi.cnki.net/knavi/journals/KJJF/detail) | 人民教育出版社主办，中小学课程改革与教材教法理论研究 |
-> | [清华大学教育研究](https://navi.cnki.net/knavi/journals/QHDJ/detail) | 清华大学主办，高等教育理论与工程教育学科前沿 |
-> | [全球教育展望](https://navi.cnki.net/knavi/journals/WGJN/detail) | 华东师范大学主办，比较课程论与国际教育发展前沿 |
-> | [苏州大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/SZJK/detail) | 苏州大学主办，教育哲学、实证探索与[[Comparative Education as a Cross-Sectional Area\|交叉学科]]研究 |
-> | [特殊教育研究学刊](https://specedu.ntnu.edu.tw/) | 国立台湾师范大学特殊教育学系主办，特殊教育核心学术期刊（TSSCI / CSSCI 来源） |
-> | [外国教育研究](https://navi.cnki.net/knavi/journals/WGJY/detail) | 东北师范大学主办，各国教育制度变革与国际比较研究 |
-> | [现代大学教育](https://navi.cnki.net/knavi/journals/YSJG/detail) | 中南大学、湖南省高等教育学会主办，高等教育理论与文化研究 |
-> | [现代教育技术](https://navi.cnki.net/knavi/journals/XJJS/detail) | 清华大学主办，教育[[Informationalization\|信息化]]、[[Intelligent Tutoring Systems\|智能教学系统]]与多媒体学习研究 |
-> | [现代远程教育研究](https://navi.cnki.net/knavi/journals/XDYC/detail) | 四川开放大学主办，终身教育体系与远程数字化学习 |
-> | [现代远距离教育](https://navi.cnki.net/knavi/journals/YUAN/detail) | 黑龙江开放大学主办，远程开放教育与终身学习理论 |
-> | [学前教育研究](https://navi.cnki.net/knavi/journals/XQJY/detail) | 中国学前教育研究会、长沙[[Normal School\|师范学院]]主办，幼儿教育学术期刊 |
-> | [学位与研究生教育](https://navi.cnki.net/knavi/journals/XWYY/detail) | 国务院学位委员会主办，研究生教育管理与学科建设研究 |
-> | [研究生教育研究](https://navi.cnki.net/knavi/journals/JIAO/detail) | 中国学位与研究生教育学会、中国科学技术大学主办，拔尖创新人才培养研究 |
-> | [远程教育杂志](https://navi.cnki.net/knavi/journals/YCJY/detail) | 浙江开放大学主办，开放教育技术与数字化教学前沿 |
-> | [中国大学教学](https://navi.cnki.net/knavi/journals/JXCY/detail) | 高等教育出版社主办，高校本科教学改革与专业课程建设 |
-> | [中国电化教育](https://navi.cnki.net/knavi/journals/ZDJY/detail) | 中央电化教育馆主办，教育信息化推进与智能教学应用 |
-> | [中国高等教育](https://navi.cnki.net/knavi/journals/ZGDJ/detail) | 中华人民共和国教育部主管，高校办学方向与高教政策指导 |
-> | [中国高教研究](https://navi.cnki.net/knavi/journals/ZGGJ/detail) | 中国高等教育学会主办，高等教育宏观政策与学术研究 |
-> | [中国教育学刊](https://navi.cnki.net/knavi/journals/ZJYX/detail) | 中国教育学会主办，面向基础教育理论与教育实践创新 |
-> | [中国特殊教育](https://navi.cnki.net/knavi/journals/ZDTJ/detail) | 中国教育科学研究院主办，特殊儿童心理发展与融合教育理论 |
-> | [中国远程教育](https://navi.cnki.net/knavi/journals/DDJY/detail) | 国家开放大学主办，数字化终身教育与开放远程教育发展 |
-
-> [!index-table] 学科特色期刊：中文教学
-> | 期刊名称 | 主办单位与定位 |
-> |---|---|
-> | [华文教学与研究](https://navi.cnki.net/knavi/journals/JNHW/detail) | 暨南大学华文学院主办，国际中文教育与华语传承核心期刊（CSSCI 来源） |
-> | [世界汉语教学](https://navi.cnki.net/knavi/journals/SJHY/detail) | 北京语言大学主办，教育部名刊工程入选，汉语二语教学与汉语研究权威期刊（CSSCI / 北大核心） |
-> | [语文建设](https://navi.cnki.net/knavi/journals/YWJS/detail) | 教育部语言文字报刊社主办，全国中文核心期刊，聚焦语文课程改革与中小学语文教学 |
-
-> [!index-table] 学科特色期刊：地理教学
-> | 期刊名称 | 主办单位与定位 |
-> |---|---|
-> | [地理教学](https://navi.cnki.net/knavi/journals/DLJX/detail) | 华东师范大学主办，中国教育学会地理教学专业委员会会刊，全国中文核心期刊 |
-> | [地理教育](https://navi.cnki.net/knavi/journals/DLJY/detail) | 重庆师范大学主办，聚焦中学地理课堂教学、地理研学与复习备考 |
-> | [中学地理教学参考](https://navi.cnki.net/knavi/journals/ZDCK/detail) | 陕西师范大学主办，教育部主管，全国中文核心期刊，专注于中学地理教学实践 |
-> | [历史地理研究](https://navi.cnki.net/knavi/journals/LSDL/detail) | 复旦大学、中国地理学会主办，教育部主管，CSSCI 来源期刊，聚焦历史地理学与人地关系研究 |
-
-> [!index-table] 学科特色期刊：比较教育
-> | 刊物名称 | 原名 / 中文名 | 创刊时间 | 主办单位与定位 |
-> |---|---|---|---|
-> | [比较教育研究](https://navi.cnki.net/knavi/journals/BJJY/detail) | 外国教育动态 | 1965 | 北京师范大学主办，国际与比较教育研究核心期刊（CSSCI 来源） |
-> | [全球教育展望](https://navi.cnki.net/knavi/journals/WGJN/detail) | 外国教育资料 | 1972 | 华东师范大学主办，比较课程论与国际教育发展前沿（CSSCI 来源） |
-> | [外国教育研究](https://navi.cnki.net/knavi/journals/WGJY/detail) | — | 1974 | 东北师范大学主办，各国教育制度变革与国际比较研究（CSSCI 来源） |
-> | [比较教育学报](https://navi.cnki.net/knavi/journals/BJJX/detail) | — | 1982 | 上海师范大学主办，比较教育理论与国别区域教育研究（CSSCI 扩展版） |
-> | [Comparative Education Review](https://www.journals.uchicago.edu/toc/cer/current) | 比较教育评论 | 1957 | 美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and International Education Society, CIES）主办，芝加哥大学出版社出版 |
-> | [Comparative Education](https://www.tandfonline.com/toc/cced20/current) | 比较教育 | 1964 | 英国牛津大学与伦敦国王学院学者主编，Taylor & Francis 出版 |
-> | [Compare](https://www.tandfonline.com/toc/pcom20/current) | 比较 | 1970 | 英国国际与比较教育协会（[[British Association for International and Comparative Education]], BAICE）主办，Taylor & Francis 出版 |
-> | [Globalisation, Societies and Education](https://www.tandfonline.com/toc/cgse20/current) | 全球化、社会与教育 | 2003 | Taylor & Francis 出版，聚焦全球化背景下的教育、社会与国际政治经济学前沿 |
-
-> [!index-table] 搜索引擎
-> | 引擎 | 说明 |
-> |---|---|
-> | [Google](https://www.google.com) | 通用搜索，含学术、图书、新闻等垂直搜索 |
-> | [Google Scholar](https://scholar.google.com) | 学术文献专用搜索，含引用追踪 |
-> | [Perplexity](https://www.perplexity.ai) | AI 驱动搜索与问答，自动引用来源 |
-
-> [!index-table] 开放电子书与文献
-> | 资源 | 说明 |
-> |---|---|
-> | [Anna's Archive](https://zh.annas-archive.gl) | 聚合 Z-Library、Library Genesis 等多个来源，支持 ISBN/DOI 检索 |
-> | [Library Genesis](https://libgen.bz) | 学术书籍与论文免费资源库 |
-> | [Z-Library](https://z-library.sk) | 最大的免费电子书库之一 |
-> | [Memory of the World](https://library.memoryoftheworld.org) | 保存被遗忘和稀缺的书籍与文献 |
-> | [Ocean of PDF](https://oceanofpdf.com) | 免费 PDF 电子书搜索 |
-> | [Liber3](https://liber3.eth.limo) | Web3 去中心化电子书检索，通过 ENS 域名访问 |
-
-> [!index-table] 中文阅读平台
-> | 资源 | 说明 |
-> |---|---|
-> | [微信读书](https://weread.qq.com) | 腾讯电子书平台，支持划线、笔记、社交阅读，部分免费 |
-> | [京东读书](https://e.jd.com) | 京东电子书平台，畅读会员制，含学术与专业书籍 |
-> | [掌阅](https://m.zhangyue.com) | 国内主流电子书平台，支持多端同步阅读 |
-> | [雅书](https://yabook.blog) | 电子书资源分享与推荐博客 |
-
----
-
-### 文献筛选与检索优先级
-
-> [!proc] 文献搜索优先级
-> 1. **百科全书中的广泛综述** 适合首次了解某个主题
-> 2. **科学期刊中的研究文章** 尤其是报告实证研究的文章，从最新一期向前追溯
-> 3. **书籍** 从总结学术文献的研究专著开始，再到单一主题的专著或编著
-> 4. **近期会议论文** 通常报告最新的研究进展
-> 5. **联系相关研究的作者** 询问是否知道相关领域的研究
-
-这个优先级顺序的设计意图是（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：从概括到具体（百科全书 → 期刊文章 → 专著）、从易获取到难获取（已发表文献 → 会议论文 → 直接联系作者）、从已沉淀到最新。
-
----
-
-### 智能时代与 AI 代理文献检索的范式跃迁
-
-> [!feature] 智能代理驱动的自动化文献挖掘与知识综合
-> - **微观文献检索的自动化代理承接** 随着[[Generative Artificial Intelligence|生成式人工智能]]与自主研究代理（Research Agents）进入科学工作流，文献检索从传统手工卡片、布尔操作符与关键词数据库匹配，跃升为海量学术语料与开源代码的自主语义挖掘、[[Chain of Evidence|证据链]]跨模态提取与初步假说生成。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
-> - **检索对象从静态文献延伸至动态代码与可复现沙盒** 伴随科学交流[[Paradigm|范式]]向“[[Dynamic Research Notebook|动态研究笔记本]]”（包含数据、代码与运行环境）的演进，文献检索不再局限于孤立的 PDF 静态文本，而是直接穿透检索可执行算法、原始实验数据、未发表负面结果以及自动化形式化证明脚本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–70)]]
-> - **学术劳动分工的重组与聚焦** 智能代理在微观层面承担起数以万计文献的初筛、跨语言翻译与关联网络构建，使人类研究者从繁琐的机械信息检索中解放出来，将核心认知精力聚焦于高阶理论综合与原创问题定义。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 70)]]
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart TD
+>     A["研究主题与核心问题"] --> B["检索策略设计<br>(关键词 / 概念界定 / PICO 框架)"]
+>     B --> C["多源数据库执行<br>(ERIC / Scopus / CNKI / AI 代理)"]
+>     C --> D["布尔操作与多轮迭代检索"]
+>     D --> E["文献初筛库<br>(标题与摘要快速排查)"]
+>     E --> F["质量与方法学标准甄别<br>(同行评审 / 证据等级)"]
+>     F --> G["核心纳入文献集<br>(绘制文献地图 / 结构化摘要)"]
+>     G --> H["文献综述论证建构"]
+> ```
 
 ---
 
@@ -399,120 +134,112 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 
 ---
 
-### 命题一　文献检索是奠定研究信效度与构建理论框架的逻辑起点
+### 命题一　文献检索是确立研究信效度与构建理论框架的逻辑起点
 
-> [!concept-lens] 论证推进逻辑
-> 探讨文献检索如何从技术性资料收集上升为确立研究[[Reliability\|信度]]、效度与学术合法性的论证基石。
+> [!concept-lens] 论证推进与信效度奠基维度
+> 探讨文献检索如何从技术性资料收集上升为确立研究可信度、效度与学术合法性的论证基石。
 
-> [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]], & [[Keith Morrison\|Morrison, K.]]
-> **论证目的链条** 文献检索不是孤立的技术操作，而是一连串论证目的的逻辑起点。通过彻底的文献检索与综述为项目奠定[[Construct Validity\|构念效度]]和[[Content Validity\|内容效度]]基础，指明理论与经验领域现状以建立理论框架，识别需要填补的空白与关键议题，从而确立研究的可信度、效度、主题性与重要性，并作为进入实证研究的跳板。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch.7, pp.126–127)]]
-
-> [!chain-link] 文献检索→论证的推进逻辑
-> - **奠基[[Reliability\|信度]]与效度**
->   通过彻底的[[Literature Review\|文献综述]]为项目奠定[[Construct Validity\|构念效度]]和[[Content Validity\|内容效度]]基础。检索的质量直接决定了综述是否能充分建立研究的可信度。
-> - **建立理论框架**
->   检索到的文献应能指明理论和经验领域的现状、已进行的重要研究和已发布的政策，定义关键术语、[[Construct\|构念]]和概念。
-> - **识别关键议题与空白**
->   文献检索设定领域中需要探索的关键议题及为什么它们是关键议题，识别需要填补的空白。
-> - **贡献主题性与重要性**
->   所有这一切贡献于研究的可信度、效度、主题性和重要性，并作为进入研究的跳板。
+> [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
+> **文献检索服务于整套论证目的链条** 文献检索构成了研究论证链条的逻辑起点。通过系统检索与梳理已有文献，研究者为整个课题奠定[[Construct Validity|构念效度]]与[[Content Validity|内容效度]]基础，界定相关理论与实证领域的演进现状，明确关键术语与变量的界限，进而识别具有学术价值的研究空白。检索质量直接制约着后续研究设计的科学性与理论深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
 
 ---
 
 ### 命题二　系统文献检索是识别知识空白与生成研究课题的关键机制
 
-> [!concept-lens] 课题发现功能
-> 探讨研究者如何通过批判性文献检索定位学术前沿并提炼具有理论价值与实践意义的[[Research Question\|研究问题]]。
+> [!concept-lens] 课题发现与问题提炼维度
+> 探讨研究者如何通过批判性文献检索定位学术前沿并提炼具有理论意义的研究问题。
 
 > [!claim] 齐梅
-> **选题生成机制** 通过文献检索与批判性阅读，研究者能够从四个维度发现和提出研究课题：关注已有文献中被忽略的问题以填补知识链条空白；注意已有文献之间相互矛盾的研究结果以展开深层探究；审视已有研究在方法运用与[[Variable\|变量]]控制方面的不足以寻求方法修正；把握研究问题的本质与相互联系以构建理论解释框架。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.1)]]
-
-> [!feature] 文献检索在选题中的四项作用
-> - **关注已有研究文献中忽略的问题** 很多重要问题因种种原因未被研究者认识到，查阅和评价已有文献时，宜善于发现知识链条中的空白点。
-> - **注意已有研究文献之间相互矛盾之处** 两个或更多研究者在研究同一问题时，尽管方法类似但结果不一致甚至相互矛盾，说明该领域值得做进一步研究。
-> - **关注已有研究在方法运用方面的不足** 例如研究过程中某些[[Variable\|变量]]是否得到适当控制，若文献中的研究方法需要修正，则为研究者提供了值得进一步探讨的问题。
-> - **关注研究问题的本质与联系** 阅读研究文献有助于研究者从多方面获取信息，形成对研究问题本质的理解和把握，围绕研究问题形成理论解释框架。
+> **通过文献检索提炼四维选题机制** 文献检索与批判性阅读为发现研究课题提供系统路径：关注已有研究中被忽略的重要盲区以填补知识空白；审视多项研究在相同主题上得出的矛盾结果以展开深层探究；识别已有研究在变量控制与测量方法上的短板以谋求方法改进；把握研究现象的内在联系以建构综合性理论解释框架。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
 
 ---
 
-### 命题三　智能科研范式下 AI 代理检索重塑学术分工并驱动人类聚焦高阶战略综合
+### 命题三　大规模系统综述中的文献检索边界决定了实证证据的外推效度
 
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学术分工与高阶认知聚焦
-> 剖析大模型与智能代理深度介入文献检索后，研究者如何从繁重的微观信息搬运中解脱，转向宏观科学方向把控与跨学科综合。
+> [!concept-lens] 数据库偏倚与语言覆盖边界维度
+> 检视宏观政策综述中检索来源与语言选择对证据代表性的制约，揭示技术检索边界引发的知识偏倚。
+
+> [!claim] [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]]
+> **商业索引库与英语发表偏向限制证据代表性** 在针对测试问责（TBA）全球扩散的系统综述中，文献检索主要依托 Scopus 等商业数据库并局限于英语同行评审文献。这种检索边界虽然保障了纳入文献的方法学基准，但也使得广大非英语国家（如拉美、南欧）的本土经验以及未被国际引文数据库收录的发展中国家实证证据处于边缘地位，对综述结论的全球适用性与普适推广构成了结构性制约。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
+
+---
+
+### 命题四　智能科研环境下人工智能代理检索重构学术分工格局
+
+> [!concept-lens] 人机共生学术分工与高阶认知聚焦维度
+> 剖析人工智能代理介入文献检索后，研究者如何从繁琐的机械初筛中解放，转向宏观科学方向把控与原创性知识综合。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **文献检索代理化与人类高阶价值聚焦假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，随着人工智能系统全面融入科研流程，数以万亿计的智能代理能够在微观层面以极高效率执行文献检索、信息抽取、模式挖掘与初步跨学科关联；这一技术跃升彻底颠覆了传统科研中耗费学者大量时间的初级信息检索环节。在这种新型人机共生分工中，人类科学家的不可替代性将牢固聚焦于宏观战略方向的审慎把控、原创性根本命题的提炼提出、跨异质领域的批判性知识综合，以及重大科技伦理价值的决断。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
+> **文献检索代理化与人类战略综合聚焦假说** 随着生成式人工智能与自主研究代理融入科学研究工作流，数以万计的智能代理能够在微观层面高效执行海量跨模态文献检索、模式挖掘与假说生成，打破了传统人工逐篇检索的效率瓶颈。在这种人机协同分工中，人类研究者得以将有限的认知资源集中于重大科学方向的把握、原创性根本命题的构想、跨学科知识综合以及重大伦理价值的决断。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
 
 ---
 
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 关键机制与适用情境 | 代表学者 / 论据 |
-> |:---|:---|:---|:---|
-> | **论证支撑与信效度奠基** | 确立研究的可信度、效度、理论框架与学术合法性 | 文献综述论证链条构建、术语与构念界定 | Cohen, L.; Manion, L.; Morrison, K. |
-> | **知识空白识别与课题生成** | 发现被忽略问题、理论矛盾、方法缺陷并把握问题本质 | 批判性阅读、知识空白挖掘、[[Research Topic\|研究选题]]与设计 | 齐梅 |
-> | **智能代理分工与高阶综合** | 代理执行海量文献挖掘，人类聚焦宏观方向与根本命题提出 | 智能科研工作流、[[Dynamic Research Notebook\|动态研究笔记本]]检索、战略认知聚焦 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **论证与效度奠基** | 检索为项目奠定构念效度与理论基础，支撑学术合法性 | 研究方案设计、文献综述开题 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011)]] |
+> | **知识空白识别** | 发现被忽略问题、矛盾结果与方法短板以确立研究选题 | 课题选题论证、学术前沿追踪 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
+> | **检索边界制约** | 单一商业库与语言限制会导致非英语与发展中国家经验缺失 | 大规模系统文献综述、全球政策比较 | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] |
+> | **智能代理分工** | 智能代理承担微观信息初筛，人类聚焦宏观理论与战略综合 | 智能科研工作流、人机共生学习 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 
 ---
 
-## 概念演变历程
+## 概念演变
 
-> [!dev-timeline] 文献检索[[Paradigm|范式]]与工具的谱系演化脉络
-> - **19 世纪–20 世纪中叶 — 印刷目录、卡片索引与人工追溯时代** 文献检索主要依赖图书馆实体卡片目录、印刷索引年鉴（如 Index Medicus）、学位论文书目与学者间互助追溯。
-> - **1960s–1980s — 计算机化专业数据库与布尔逻辑检索** 1966 年美国[[Education Resources Information Center|教育资源信息中心]]（[[Education Resources Information Center|ERIC]]）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的标准工具。
-> - **1990s–2000s — 互联网学术搜索平台与引文[[Network Analysis|网络分析]]** Web of Science、Google Scholar、中国知网（CNKI）等大型在线平台崛起，SSCI 引文追踪（绵延法）与关键词倒三角检索成为规范流程。
-> - **2010s — 开放获取、[[Systematic Review|系统综述]]标准与证据库整合** DOAJ 开放获取目录普及，[[PRISMA]] 系统综述流程与 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]] 等循证证据库成为高质量文献检索与筛选的核心基准。
-> - **2025–2026 — 生成式 AI 代理、语义关联与[[Dynamic Research Notebook|动态研究笔记本]]检索** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新范式，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学者向宏观战略综合演进。
+> [!dev-timeline|notitle] 概念演变
+> - **19 世纪–20 世纪中叶 — 印刷卡片目录与实体索引时代** 文献检索主要依赖图书馆实体卡片目录、印刷索引年鉴（如 Index Medicus）、研究生研究书目与学者间互助追溯。
+> - **1966 — 计算机化专业数据库与布尔逻辑检索** 美国[[Education Resources Information Center|教育资源信息中心]]（ERIC）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的行业标准。
+> - **1990s–2000s — 网络学术搜索与引文网络分析** Web of Science、Google Scholar、中国知网（CNKI）等大型在线平台普及，SSCI 引文追踪（绵延法）与关键词倒三角检索成为规范流程。
+> - **2010s — 开放获取、系统综述规范与循证证据库** DOAJ 开放获取目录普及，[[PRISMA]] 系统综述规范与 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]] 等循证证据库确立了结构化文献检索与质量把关的行业标杆。
+> - **2019 — 大规模系统综述检索覆盖边界反思** 贝尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）在对测试问责的大规模系统文献综述中，实证指明主流商业引文库检索对非英语本土经验的覆盖盲区。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
+> - **2026 — 生成式 AI 代理与可执行代码沙盒检索** 迈克尔·克拉齐奥斯（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新范式，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学术分工向宏观战略综合转型。
 
 ---
 
 ## 争议与批评
 
-> [!warning] 网络检索与未审查信息的局限
-> 互联网是大量无序且大多未经审查的材料库，需要通过试错和偶然发现来寻找信息。网络中存在大量低质或无帮助的信息，且连接速度和信息稳定性参差不齐，研究者必须建立系统的书签与文献管理机制，并严格甄别网络材料的学术价值（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.131]]）。
-
-> [!warning] 期刊影响因子的评价边界
-> 影响因子（impact factor）指某刊物近两年刊出的论文被 SSCI 或 CSSCI 论文引用的总次数与刊出论文总数之比（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。影响因子仅衡量期刊层面的整体引用影响力，不代表单篇论文的具体质量。在文献检索中，影响因子可作为筛选期刊的参考指标之一，但不应替代对单篇文献内容的实质性评估。
-
-> [!debates] 文献检索[[Paradigm|范式]]学术争鸣
+> [!debates] 学术争议
 >
-> > [!axis] 手工精读与结构化布尔检索 vs AI 代理自动化文献挖掘与算法黑箱
-> > 争论研究者应当坚守人工逐篇阅读与关键词精确布尔筛选，还是依托大模型代理进行全自动文献综合。
+> > [!axis] 人工精读与结构化布尔检索 vs 算法驱动自动化挖掘
+> > 争论研究者应坚守人工逐篇阅读与关键词布尔筛选，还是依托大模型代理进行全自动文献综合。
 > >
-> > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味、洞察隐性方法假设与体会作者论证手感的不可替代过程；AI 检索容易产生幻觉假引用并忽略非结构化[[Tacit Knowledge|默会知识]]。
-> > - **AI 增强与[[Man-Computer Symbiosis|人机协同]]派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证面对全球每年数百万篇海量论文爆发，传统人工检索已达认知极限；唯有利用智能代理执行全景式文献挖掘与机器验证，人类学者才能在高阶理论层面维系跨学科视野。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
+> > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味与体会文本隐性假说不可替代的过程；AI 检索存在幻觉假引用与语境误读风险。
+> > - **AI 增强与人机协同派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 面对每年数百万篇海量文献增长，传统人工检索已达认知极限；依托智能代理执行全景式挖掘才能在高阶理论层面维系跨学科视野。
+>
+> > [!axis] 英语核心期刊库垄断 vs 地方性多元知识生态
+> > 国际主流系统综述过度依赖单一英语索引库，是否在方法学上造成了知识生产的学术中心主义。
+> >
+> > - **标准化计量学者** 认为锁定知名核心索引库能够保证纳入文献的方法学严谨性与数据质量。
+> > - **批判教育学者（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）** 指出这种检索策略系统性排除了广阔的南方国家本土文献，强化了英美经验的普遍化假象。
 
-> [!feature] 质量评估标准
-> - **文献质量评估标准** 期刊文章应优先选择有严格同行评审委员会的国家级评审期刊；在线期刊应核实是否有已发布的同行评审标准与编辑委员会；书籍应选择学术声誉良好且运营成熟的专业出版社；优先参考近 10 年内的最新研究；网络文献需审慎评估其是否代表严谨和系统的学术研究（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
-> - **网站评估标准** 针对网络来源，研究者需从六大维度评估其适用性：**目的**（是否明确且适切）、**权威性与真实性**（作者资质与机构声誉）、**内容**（时效性与覆盖范围）、**可[[Reliability\|信度]]与合法性**（受尊重机构背书）、**准确性与完整性**（是否有可靠参考文献）、**客观性与严谨性**（有无商业或立场偏见）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.131–133]]）。
+> [!tension] 核心张力
+> - **检索范围穷尽性的理想诉求** 推动研究者尽可能覆盖所有相关未发表报告、灰色文献与多语种文献。
+> - **实际研究资源与检索周期的现实约束** 迫使研究团队在语言门槛、数据库订阅费用与时间成本之间妥协。
+
+> [!warning] 适用局限
+> 互联网学术文献良莠不齐，单纯的关键词检索无法保证纳入文献的内在因果效度；若文献检索仅局限于单一商业数据库，极易在地理区域与制度模式上引入发表偏倚。
 
 ---
 
-## 条目关联网络
+## 实证数据
 
-> [!entry-map|notitle]
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 条目 | 类型 | 关联维度与贡献 |
-> |:---|:---|:---|
-> | [[Document]] | Concept | 文献检索的对象实体，涵盖期刊论文、学术专著、政策报告与原始一手档案。 |
-> | [[Literature Review]] | Concept | 文献检索直接服务的上层综合论证任务，将检索获取的零散材料转化为结构化综述。 |
-> | [[Inverted Triangle Literature Search]] | Concept | 文献检索的具体操作策略模型，指从宽泛背景向特定核心问题逐层收窄的检索方法。 |
-> | [[Research Question]] | Concept | 文献检索的核心导向与出发点，通过检索发现空白以提炼具有理论与现实意义的问题。 |
-> | [[Generative Artificial Intelligence]] | Concept | 驱动文献检索向自动化智能代理挖掘、语义跨模态提取与知识综合跃迁的核心技术。 |
-> | [[Literature Map]] | Method | 文献检索结果的视觉化拓扑呈现方法，展示不同文献主题之间的分组与衍生关系。 |
-> | [[What Works Clearinghouse]] | Fact (Organization) | 实施大规模系统性文献检索与[[Research Synthesis\|证据综合]]、评定干预证据等级的国家级专业机构。 |
-> | [[Education Resources Information Center]] | Fact (Organization) | 全球最大的教育学计算机化文献书目数据库与在线词表检索平台。 |
-> | [[Michael Kratsios]] | Person | 主持起草白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 报告，系统阐明智能代理在文献检索与科学工作流中分工重塑的政策学者。 |
-> | [[Louis Cohen]] | Person | 权威教育研究方法学者，系统阐明文献检索对于确立研究信效度与构建理论框架的逻辑链条。 |
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 252)]] | 针对全球测试问责（TBA）实证文献的系统性文献检索 | 系统综述检索规程设计与文献初筛统计 | 数据库来源、检索策略与初筛排除数量 | 通过 Scopus 数据库初筛获取 1,180 篇潜在文献；经独立双盲标题与摘要筛选后，最终确认纳入 115 篇同行评审实证研究 | 明确记录检索词与布尔语法规则 | 证实大规模学术系统综述对单一英语商业数据库的依赖，及其在非英语经验覆盖上的局限 |
+> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 70–72)]] | 全球人工智能赋能科学研究（AI4Science）前沿实验室样本 | 科技战略政策调研与前沿工作流追踪 | AI 代理参与文献检索、代码生成与假说提出的任务占比 | 自主研究代理能够将微观文献检索与数据代码沙盒溯源时间缩短数个数量级；推动跨学科假说提出与证据链综合效率显著提升 | 质性深度战略研判 | 揭示智能科研工作流中文献检索自动化与人类战略综合聚焦的学术分工重组趋势 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统阐述了文献检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 提出了文献检索服务于论证与信效度的推进逻辑、网络检索操作符、信息类型分类（Box 7.2）及网站评估标准。
-> - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 提出了文献分类的双维度（公开性与加工程度）、文献资料的三类载体、文献检索的五种操作方法以及在课题选题中的四项发现机制。
-> - [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献检索与假说生成，驱动人类科研分工向宏观战略综合演化。
-
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐述文献检索七步法、主要学术数据库选用原则、搜索优先级排序与迭代检索策略。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen, Manion & Morrison (2011, Ch. 7)]] — 提出文献检索服务于理论论证与信效度的推进逻辑，梳理网络检索操作符、文献类型与来源质量甄别标准。
+> - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 1)]] — 阐释文献分类的公开性与加工程度双维度、五种文献检索操作方法及文献检索在课题选题中的四项发现机制。
+> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 报告基于 Scopus 数据库筛选 1,180 篇文献的大规模系统综述检索规程，实证反思英语数据库检索对非英语本土经验的覆盖偏倚。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献挖掘与代码沙盒溯源，驱动人类科研分工向战略综合演化。
