@@ -1,6 +1,7 @@
 ---
 citation: "Zapp, M. (2017). The World Bank and Education: Governing (through) knowledge. International Journal of Educational Development, 53, 1–11."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Zapp_2017_IJED]]"
 processed_date: 2026-10-22
 ---
 
