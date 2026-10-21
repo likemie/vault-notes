@@ -5577,6 +5577,18 @@
     ]
   },
   {
+    "title": "National Large-Scale Assessments",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/National Large-Scale Assessments.md",
+    "aliases": [
+      "国家大规模教育评估",
+      "国家大规模评估",
+      "NLSAs",
+      "NLSA",
+      "national large-scale assessment"
+    ]
+  },
+  {
     "title": "Outcome-Based Apprenticeship Funding",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Outcome-Based Apprenticeship Funding.md",
@@ -6206,6 +6218,8 @@
     "aliases": [
       "基于考试的问责制",
       "考试问责",
+      "基于测验的问责制",
+      "TBA",
       "test-oriented accountability",
       "high-stakes testing accountability"
     ]
@@ -16891,6 +16905,18 @@
       "淹没性多元主义",
       "科学多元主义",
       "Scientific Pluralism"
+    ]
+  },
+  {
+    "title": "Policy Instrumentation Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Policy Instrumentation Theory.md",
+    "aliases": [
+      "政策工具化理论",
+      "政策工具社会学",
+      "政策工具论",
+      "policy instrumentation",
+      "sociological approach to policy instruments"
     ]
   },
   {
@@ -38308,6 +38334,11 @@
     "title": "Argument_McKnight_2020_Discourse",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_McKnight_2020_Discourse.md"
+  },
+  {
+    "title": "Argument_Verger_2019_Discourse",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Verger_2019_Discourse.md"
   },
   {
     "title": "Argument_Cheung_2021_ECNUROE",

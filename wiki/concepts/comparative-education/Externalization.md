@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: draft
 created: 2026-05-06
@@ -175,6 +176,7 @@ updated: 2026-10-21
 > - **2006 — [[Cross-National Attraction|跨国吸引力]]模型与双向对称拓展** [[Jeremy Rappleye|杰里米·拉普利]]将外化整合入跨国吸引力[[Concept Mapping|概念地图]]，确立了外化到国际趋势与外化到传统的双向操作[[Paradigm|范式]]。
 > - **2009 — 数字治理与跨国基准的策略性外在化** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 34–35)]] 将外化机制引入跨国大型评估分析，揭示各国政府如何借由援引经合组织数据与“世界态势”为国内争议性改革提供科学证据背书，同时向国际受众展示对全球竞争规范的追随。
 > - **2012 — [[Policy Borrowing|政策借用]]的政治经济学契机** 吉塔·施泰纳-哈姆西与弗洛里安·瓦尔多系统阐述旷日持久的政策僵局与地缘依附如何成为触发外化的核心动因。
+> - **2018 — 硬事实外化与打破制度否决点** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018, pp. 274–278)]] 提出跨国量化测评的国内政治效应高度依赖本土媒体转译与政治外化机制，实证分析日本（文部科学省将测评小幅下滑外化为合法性资源以化解教师工会阻力推行国家督导）与德国案例，揭示数据硬事实如何通过外化打破既有制度否决点。
 > - **2020–2024 — 内部建构论与芬兰神话解构** Mangez & Vanden Broeck 以及 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, & Ydesen (2024)]] 重新结合[[Niklas Luhmann|卢曼]]系统论，将外化深化为“内部建构外部参照点”与“仿佛有效”的拟似权威投射。
 
 ---
@@ -203,6 +205,7 @@ updated: 2026-10-21
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 28–32, 34–35)]] | 芬兰、德国、英格兰与苏格兰四法域教育政策体系与媒体舆论 | 跨国[[Comparative Case Study\|比较案例研究]]与媒体政策文本分析 | [[PISA]] 表现基准、媒体报道版面量、官方改革归因与外在化功能 | 芬兰顶尖（媒体仅 8 版面报道，归因综合学制并反常增加必修课时以应对国际审视）；德国 32 国列第 20 位（刊发 687 版面并展开电视辩论，出台国家标准打破修法僵局）；英格兰阅读第 7、数学第 8、科学第 4（9 篇头版赞扬，回避阶层差距以确证择校问责）；苏格兰列前三分之一（强调快乐自评，抵制英格兰检查体系渗透） | 质性文本与政策过程饱和分析 | 证实无论成绩高低，各国均将 PISA 跨国数据作为策略性外在化资源，用于压制国内异议或确证既定体制 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 546)]] | 经合组织成员国对芬兰基础教育成功经验的政策引证文本 | 政策文本话语分析与比较制度追踪 | 芬兰神话政策归因取向与国内争议性议题匹配度 | 发现芬兰成功被交替归因于高校师范体系、不分流包容性体制或无高利害测验环境，归因分布完全随引证国国内政治争议点而对称漂移 | 质性比较追踪 | 确证外部参照系是由本土政治利益在内部反向建构的“仿佛有效”规制投射 |
+> | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018, pp. 274–278)]] | 德国、日本、丹麦、瑞士等国对 PISA 结果的政治吸纳与改革走向 | 比较制度政策过程追踪与话语分析 | 媒体危机动员、政治外化机制与制度性重组 | 文部科学省将微弱学力下滑外化为中立证据，成功化解国内否决势力阻力并推行全国学力测试；德国借由 PISA 震荡外化打破联邦教育主权壁垒建立国家标准 | 质性深度饱和经验分析 | 证实量化硬事实通过为本土改革派提供外化合法性资源，发挥化解制度阻力与重组治理结构的功能 |
 
 ---
 
@@ -211,6 +214,7 @@ updated: 2026-10-21
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合卢曼与施泰纳-哈姆西的外在化概念，分析芬兰、德国、英格兰与苏格兰如何将 PISA 排名转化为国内政策合法化与体制确证的策略性工具。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合[[Niklas Luhmann|卢曼]]系统论阐发外部参照点的内部建构性，通过解构多国对芬兰 [[PISA]] 奇迹的随心投射，揭示外化化解本土改革僵局的机制。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统论证跨国测评冲击如何依托媒体转译与政治外化打破国内制度否决阻力，促进主权国家采纳标准化治理模式。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] — 将外化概念对称性地嵌入[[Cross-National Attraction|跨国吸引力]]情境地图，通过美苏与德国历史案例奠定双向外化[[Paradigm|范式]]。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 93)]] — 阐述施里韦尔在柏林洪堡大学结合[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]理论与[[World-Systems Theory|世界体系理论]]创立“向世界参照外化”比较[[Paradigm|范式]]的学术史背景。
 > - [[American Attraction to Japanese Education 1980s]] — 20 世纪 80 年代美国借由外化日本学校管理模式来推动国内标准与问责改革的经典案例。

@@ -271,3 +271,4 @@ updated: 2026-10-21
 > - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 在 WWC 等四大证据库检索 129 项实践并评定证据等级，再与学区 2.88 亿美元 Title I 支出对照，测算资金投向循证实践的比例。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对《可见的学习》2,111 项元分析开展预注册审计，对照 PRISMA 与 MECCIR 规范发现仅 19.3% 满足 PICO 要求，并存在严重数据缺失。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪瑞典学校督察局在开展质量审计时对“知识综述”（Knowledge Review）的编制与使用机制，揭示官方如何依托单一片面范式组织综述并规训学术多元性（pp. 648–650）。
+- [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于 Scopus 数据库检索并筛选 158 篇教育治理实证文献，采用国别提取表聚合跨期碎片研究，系统分析国家评估与考试问责在全球三大行政传统下的扩散演进。
