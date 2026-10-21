@@ -67,6 +67,7 @@ related_facts:
   - "[[SIMCE]]"
   - "[[SNED]]"
   - "[[Ley SEP]]"
+  - "[[Asistencias Técnicas Educativas]]"
   - "[[Education Reform Act 1988]]"
   - "[[PANDA]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -76,7 +77,9 @@ related_facts:
   - "[[Ofsted]]"
   - "[[Nasjonale prøver]]"
   - "[[Danish Act on Transparency 2002]]"
+  - "[[Nationale test]]"
   - "[[Fraser Institute]]"
+  - "[[Progetto Valorizza]]"
   - "[[La Buona Scuola]]"
   - "[[Prueba CDI]]"
   - "[[Programa de Avaliação Externa das Escolas]]"
@@ -106,7 +109,7 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -254,7 +257,7 @@ issuing_organization: ""
 英格兰、美国、智利等推行[[New Public Management|新公共管理]]（NPM）体制的国家，早已奠定了市场选择与绩效主义的制度基础，因而迅速将测验问责深度嵌入到学校竞争与私有化进程中。（pp. 252–253）
 
 > [!case] 市场化国家案例：智利、英格兰与美国
-> - **智利的激进准市场建制与连续性累加** 1988 年军政府建立教育质量测度系统（[[SIMCE|Sistema de Medición de la Calidad de la Educación]], SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入[[SNED|国家学校绩效评估系统]]（[[SNED|Sistema Nacional de Evaluación del Desempeño]], SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行优先学校补贴法（[[Ley SEP|Ley de Subvención Escolar Preferencial]], SEP），向弱势学生提供差别化资助，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。（pp. 253, 257–258）
+> - **智利的激进准市场建制与连续性累加** 1988 年军政府建立教育质量测度系统（[[SIMCE|Sistema de Medición de la Calidad de la Educación]], SIMCE），最初作为课程监控与家长择校信息工具；1995 年首次公开发布成绩单；随后引入[[SNED|国家学校绩效评估系统]]（[[SNED|Sistema Nacional de Evaluación del Desempeño]], SNED），将学校测验成绩与教师工资奖金直接挂钩；2008 年中左翼政府推行优先学校补贴法（[[Ley SEP|Ley de Subvención Escolar Preferencial]], SEP），向弱势学生提供差别化资助，并允许学校动用专项公帑采购[[Asistencias Técnicas Educativas|外部技术教育支持机构]]（[[Asistencias Técnicas Educativas]]）的提分与咨询服务，但强制绑定学业改善协议，未达标学校面临接管关停；两派政党均将测验问责视为维系市场运转的核心支柱。（pp. 253, 257–260）
 > - **英格兰的国家干预与表现主义治理深化** 1988 年《教育改革法》（[[Education Reform Act 1988|Education Reform Act]], ERA）确立全国关键学段统考、学校地方自主管理（Local Management of Schools, LMS）与官方排行榜；新工党执政期间（1997–2010）引入学校表现与评估报告（[[PANDA|Performance and Assessment Reports]], PANDA）和学生成就追踪系统（Pupil Achievement Tracker, PAT），推行绩效挂钩薪资，并对薄弱学校施加分级行政干预；2010 年联合政府进一步增设 6 岁语音拼读筛查（Phonics Screening Check）与英国学士学位（English Baccalaureate, EBacc）[[Performance Indicators|绩效指标]]，持续收紧量化控制网底。（pp. 253, 256–257）
 > - **美国的联邦跨越与民权话语包装** 长期受制于地方分权体系，直至 2001 年《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）通过，将市场选择诉求与弥合种族学业差距的民权话语策略性捆绑，确立 3–8 年级全员统考与学业年均进步（[[Adequate Yearly Progress]], AYP）制裁；2011 年《[[Race to the Top|力争上游]]》计划（Race to the Top, RTTT）进一步推动各州采纳增值模型（[[Value-Added Model]], VAM）将学生统考成绩与教师个人解聘直接绑定。（pp. 253–254, 256–257）
 
@@ -274,7 +277,7 @@ issuing_organization: ""
 
 > [!case] [[Neo-Weberian State|新韦伯主义]]国家案例：挪威与丹麦的排名叫停
 > - **挪威的国家质量监测与官方排行榜叫停** 1990 年代激进的市政化分权削弱了中央掌控力；2004 年保守党联合政府引入国家评估系统（[[Nasjonale prøver]]），意图通过公布成绩与促进择校对学校施压；2005 年中左翼联盟上台后，鉴于测验[[Reliability|信度]]争议、教师工会抵制及大城市学生罢考抗议，政府宣布暂停在国家层面公开发布学校排行榜，将评估回归校本诊断与质量支持。（pp. 254–255, 258）
-> - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》（[[Danish Act on Transparency 2002|Lov om gennemsigtighed og åbenhed i uddannelserne]]），2005 年要求学校官网披露教学评价信息，教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（p. 258）
+> - **丹麦的透明度法案与排位表废止** 2002 年通过《透明度法案》（[[Danish Act on Transparency 2002|Lov om gennemsigtighed og åbenhed i uddannelserne]]），2005 年要求学校官网披露教学评价信息，并为基础学校推行全国自适应统考（[[Nationale test]]），教育部试水公布学校排名；但该举措引发社会对学校标签化与不平等的强烈批评，2011 年上台的中左翼政府正式在国家层面废除学校排行榜的编制与发布。（pp. 254, 258）
 
 虽然中央层面废止了官方排位表，但规制型治理中累积的数据资产却通过制度缝隙外溢，孕育出体制外的非官方问责网络。（p. 258）
 
@@ -287,7 +290,7 @@ issuing_organization: ""
 南欧的意大利与西班牙等[[Napoleonic Administrative Tradition|拿破仑行政传统]]国家，具备中央集权、层级分明、法治主义与公立常任文官教师队伍等特征，加上学校民主共决传统，使由上而下的绩效考核改革步履维艰。（pp. 255, 260）
 
 > [!case] 拿破仑体制国家案例：意大利的断续试错与西班牙马德里的孤岛实验
-> - **意大利的长周期停滞与碎片化试验** 2000 年代初中右翼内阁发起校长评估自愿试点，遭遇学校基层普遍抵制；2006 年中左翼普罗迪政府上台后随即叫停试点；2008 年中右翼政府重启绩效议程，教育部长杰尔米尼（Gelmini）强推卓越与优胜劣汰话语；2012 年再度试水整合增值评估与校长考核的试验模型；历经十五年党派拉锯，直至 2015 年伦齐技术官僚/中左内阁出台《好学校》（[[La Buona Scuola|Legge 107/2015]]）法案，校长考核才得以勉强建制化。（pp. 255, 258）
+> - **意大利的长周期停滞与碎片化试验** 2000 年代初中右翼内阁发起校长评估自愿试点，遭遇学校基层普遍抵制；2006 年中左翼普罗迪政府上台后随即叫停试点；2008 年中右翼政府重启绩效议程，教育部长杰尔米尼（Gelmini）强推卓越与唯才主义话语，启动针对教师绩效奖金的实验项目（[[Progetto Valorizza]]）；2012 年再度试水整合增值评估与校长考核的试验模型；历经十五年党派拉锯，直至 2015 年伦齐技术官僚/中左内阁出台《好学校》（[[La Buona Scuola|Legge 107/2015]]）法案，校长考核才得以勉强建制化。（pp. 255, 258）
 > - **西班牙马德里大区的激进新自由主义孤岛** 西班牙地方分权架构下，马德里大区主席埃斯佩兰萨·阿吉雷（Esperanza Aguirre, 2003–2012）凭借个人政治意志，强推全区全员统考（[[Prueba CDI|Prueba de Conocimientos y Destrezas Indispensables]]）、公开发布学校排行榜并实施无边界择校，在拿破仑传统内部打造出一条孤立的市场化道路；然而由于高度依赖领导人集权风格且缺乏行政法理共识，2012 年阿吉雷辞职后，同党新政府迅速放弃了成绩排名并调减统考频次，孤岛实验旋即退潮。（pp. 258–259）
 > - **葡萄牙与希腊对民主治理传统的捍卫** 战后推翻独裁政权的历史造就了两国强调教师、家长与学生共同投票决策的学校民主管理传统；葡萄牙推行的[[Programa de Avaliação Externa das Escolas|学校外部评估计划]]（Programa de Avaliação Externa das Escolas, PEE）等管理主义问责改革被教师工会视为对民主共决权与专业尊严的侵犯，并被赋予对抗专制复辟的历史合法性，使绩效问责举措遭遇持续的全行业大罢工。（pp. 255, 260）
 
@@ -347,7 +350,7 @@ issuing_organization: ""
 
 > [!chain-link] 测试产业链与治理制度锁定的因果推导链
 > - **前提：测评职能外包** 规制型政府将标准化命题、电子化阅卷、云端数据库运维及教材教辅开发大规模外包给私营商业跨国集团。（p. 259）
-> - **机制：[[Instrument Constituencies|工具支持群体]]固化** 培生（Pearson）、[[Educational Testing Service|教育考试服务中心]]（Educational Testing Service, ETS）、剑桥大学考评院（Cambridge Assessment）等机构通过政治游说与技术绑定获得高额合同，智库与技术官僚将专业权威锚定于数据生产，结成紧密的政策工具支持群体（Instrument Constituencies）。（pp. 251, 259–260）
+> - **机制：[[Instrument Constituencies|工具支持群体]]固化** 在智利，政府允许学校动用 SEP 资金向外部技术教育支持机构（[[Asistencias Técnicas Educativas]]）采购提分咨询，直接孵化出庞大的私营改进服务市场；培生（Pearson）、[[Educational Testing Service|教育考试服务中心]]（Educational Testing Service, ETS）、剑桥大学考评院（Cambridge Assessment）等跨国机构与本土供应商通过政治游说与技术绑定获得高额合同，智库与技术官僚将专业权威锚定于数据生产，结成紧密的政策工具支持群体（Instrument Constituencies）。（pp. 251, 259–260）
 > - **结果：不可逆制度锁定** 即便学术证据持续揭示测试异化、即便面临社会反弹，庞大的食利集团与行政惯性依然确保了评估问责体制的持久维系。（pp. 260, 263–264）
 
 #### 4. 家长罢考与工会反弹虽能逼停公开排名，却无法撼动全员统考的制度根基

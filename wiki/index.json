@@ -29121,6 +29121,19 @@
     ]
   },
   {
+    "title": "Asistencias Técnicas Educativas",
+    "type": "fact",
+    "path": "wiki/facts/chile/Asistencias Técnicas Educativas.md",
+    "aliases": [
+      "智利外部技术教育支持机构",
+      "外部技术教育支持机构",
+      "智利ATE制度",
+      "ATE (智利)",
+      "Registro ATE",
+      "Educational Technical Assistance"
+    ]
+  },
+  {
     "title": "Docentemás",
     "type": "fact",
     "path": "wiki/facts/chile/Docentemás.md",
@@ -29702,6 +29715,18 @@
       "丹麦公立学校改革",
       "Folkeskolereformen 2014",
       "Folkeskole Reform 2014"
+    ]
+  },
+  {
+    "title": "Nationale test",
+    "type": "fact",
+    "path": "wiki/facts/denmark/Nationale test.md",
+    "aliases": [
+      "丹麦国家测试",
+      "丹麦全国统考",
+      "Danish National Tests",
+      "Folkeskole National Tests",
+      "丹麦自适应全国测试"
     ]
   },
   {
@@ -32112,6 +32137,18 @@
       "Legge 107/2015",
       "The Good School Reform",
       "Riforma della Buona Scuola"
+    ]
+  },
+  {
+    "title": "Progetto Valorizza",
+    "type": "fact",
+    "path": "wiki/facts/italy/Progetto Valorizza.md",
+    "aliases": [
+      "Valorizza 项目",
+      "意大利教师绩效评估实验项目",
+      "Project Valorizza",
+      "Valorizza Experiment",
+      "意大利唯才主义教育评价试点"
     ]
   },
   {

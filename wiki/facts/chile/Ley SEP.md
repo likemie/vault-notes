@@ -12,7 +12,7 @@ subtype: policy
 region: "chile"
 fact_region: "chile"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_facts:
   - "[[Chilean Educational Reform of 1981]]"
   - "[[SIMCE]]"
   - "[[Advanced Technological Education]]"
+  - "[[Asistencias Técnicas Educativas]]"
   - "[[SNED]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
@@ -116,7 +117,7 @@ updated: 2026-10-22
 > [!finding-cards] 效果与评价
 > - **国家干预模式的实质转型** 政策将测验从单纯的家长[[School Choice|择校]]信息工具，彻底升级为连接财政资源配置与关停淘汰罚则的国家行政规制中枢，是典型[[Institutional Layering|制度分层]]的产物。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 257)]]
 > - **跨党派政治联盟的达成** 该法案展现了[[New Public Management|新公共管理]]与社会民主取向政策工具的折衷结合：中左翼通过追加定向补贴回应社会对教育公平的诉求，右翼则通过强化测试与绩效竞争维护了教育券基本盘的延续。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257–258)]]
-> - **催生外部教育商业外包链条** 由于弱势学校必须将 SEP 资金购买外部技术服务以提升成绩，促成了庞大的私营教育咨询、教材包与模拟测验产业（Asistencias Técnicas Educativas, [[Advanced Technological Education|ATE]]）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
+> - **催生外部教育商业外包链条** 由于弱势学校必须将 SEP 资金购买外部技术服务以提升成绩，促成了庞大的私营教育咨询、教材包与模拟测验产业（[[Asistencias Técnicas Educativas]], [[Advanced Technological Education|ATE]]）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 > [!stat-cards]- 核心数据
 > - **2008** 智利优先学校补贴法颁布与生效年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
