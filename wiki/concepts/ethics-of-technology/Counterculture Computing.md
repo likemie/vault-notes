@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Counterculture Computing
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 反文化计算 | 战后国家科技战略体制（布什[[Paradigm\|范式]]） | 当代商业[[Consumer Internet\|消费互联网]] |
 > |---|---|---|---|
 > | **核心目的** | 赋权个体、抵御集权官僚、实现精神解放 | 捍卫国家地缘优势、赢得冷战、提供公共繁荣 | 追求资本估值最大化、算法变现与用户注意力占有 |
@@ -86,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **去中心化赋权（Decentralized Empowerment）** 坚信小型化、便携化的个人计算设备能够瓦解大政府与大企业的信息垄断，使普通人掌握认知与创造工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
 > - **反中央集权意识形态（Anti-Centralization Ideology）** 继承 1960 年代反越战与民权运动的激进反体制立场，对五角大楼、情报机构和联邦官僚持有本能的敌意与防范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 > - **艺术与工程的融合审美（Art-Engineering Synthesis）** 以[[Steve Jobs|史蒂夫·乔布斯]]（[[Steve Jobs]]）在里德学院对书法与排版的研究为代表，将东方灵修、人文美学与严密工程相结合，视计算机为人类心智的自行车。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–101)]]
@@ -133,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1968 — 《[[Whole Earth Catalog|全球概览]]》出版** [[Stewart Brand|斯图尔特·布兰德]]提出“获取工具”理念，开启反文化与技术的联姻。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
 > - **1975 — [[Homebrew Computer Club|家酿计算机俱乐部]]成立** [[Lee Felsenstein|李·费尔森斯坦]]与早期的硅谷极客群体研制微型电脑原型，强调摆脱大企业与政府控制。
 > - **1984 — 苹果 Macintosh 与《1984》广告** 乔布斯将反文化精神商业化包装为个人抗击体制老大哥的象征，标志着反文化计算进入全球大众消费时代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
@@ -155,7 +149,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著系统剖析 1960–1970 年代反文化计算的哲学起源、个体解放宗旨及其如何颠覆战后[[Technological Republic|技术共和国]]的动员传统并最终蜕变为唯利是图的[[Consumer Internet|消费互联网]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

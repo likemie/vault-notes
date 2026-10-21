@@ -44,7 +44,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -53,17 +53,13 @@ updated: 2026-10-20
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 
 - 兰卡斯特大学社会学系教授([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 
 ---
 
-## 主要著作与思想发展
-
-> [!abstract|notitle]
+> [!abstract] 主要著作与思想发展
 
 - Jessop, B. (2005). [[Cultural Political Economy]], the [[Knowledge-Based Economy]], and the state. In A. Barry & D. Slater (Eds.), *The technological economy* (pp. 142–164). Routledge. — 将 KBE 定位为霸权的元治理对象（hegemonic meta-object of governance），论证 KBE 作为成功的经济治理依赖于经济形式与额外经济形式（科学、教育、法律、社会制度、传统）的"共在"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.23]])
 - Sum, N.-L., & Jessop, B. (2013). *Towards a cultural political economy: Putting culture in its place in political economy*. Edward Elgar. — 提出文化政治经济学（CPE）框架，系统定义 KBE 为"一般智识在知识和设计密集型商品中的价值化"，涉及知识作为经济增长、财富创造和就业创造关键驱动力的生产、管理、分配和使用（p.284）([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23–24]])
@@ -75,9 +71,7 @@ updated: 2026-10-20
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 
 Jessop 对[[Knowledge-Based Economy|知识经济]]研究的核心贡献体现在三个相互关联的概念创新上：
 
@@ -116,9 +110,7 @@ Sum and Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 
 - 其 [[Cultural Political Economy|CPE]] 框架直接影响了 Moisio（2018, 2022）的[[Knowledge-Based Economization|知识经济化]]概念发展
 - [[Knowledge-Based Economy|KBE]] 作为"元治理"对象的定位为高等教育研究提供了分析大学在知识经济中战略角色的理论资源

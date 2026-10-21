@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Linguistic Turn
@@ -70,7 +70,5 @@ Sol Cohen（1999, p. 81）提出了[[Documentary Analysis|文献分析]]中语�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — Cohen、Manion and Morrison 将语言学转向定位为[[Documentary Analysis\|文献分析]]的文本层面方法论深化的核心组成部分，并在 Cohen（1999）五维框架的基础上连接了解释学和文学批评传统。

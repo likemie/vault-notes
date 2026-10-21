@@ -117,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Causality
@@ -343,9 +343,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen, Manion, & Morrison (2011)]] — 系统构建教育研究因果推断全景，详述概率因果、[[Counterfactual\|反事实]]、[[Screening Off\|筛选隔离]]、[[Causal Over-determination\|因果过度决定]]及真实验前[[Pre-test and Post-test\|后测]][[Difference-in-Differences\|双重差分]]效应模型（Ch. 4 / Ch. 16）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 明确量化因果推断三要件（关联证据、时间顺序、排除替代解释）及[[Causal Modeling\|因果建模]]路径。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证单一被试实验（[[Single-Case Design\|SCD]]）与组间实验的因果推断同构性及[[Internal Validity\|内部效度]]门控机制。

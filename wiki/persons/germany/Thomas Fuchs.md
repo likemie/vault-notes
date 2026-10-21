@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Thomas Fuchs
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1958** 出生于德国巴伐利亚州慕尼黑。
 > - **1980–1986** 在慕尼黑大学与柏林自由大学先后研读医学、哲学与历史学，获医学博士与哲学博士学位。
 > - **1990 年代** 在海德堡大学精神病学诊所接受临床训练并任职，师从现代精神病学[[Phenomenology|现象学]]传统。
@@ -114,9 +112,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术继承** [[Edmund Husserl]] — 继承胡塞尔开创的[[Phenomenology|现象学]]原初生活世界与身体性（Leiblichkeit）反思传统。
 > - **理论合作者** Hanne De Jaegher — 共同创立[[Participatory Sense-Making|生成主体间性]]与参与式意义建构理论。
 > - **思想对话与应用** [[Steen Nepper Larsen]] — 拉森在其[[Danish Public School Reform|丹麦公立学校改革]]批判中全面引入福克斯的脑生态学与身体现象学框架。
@@ -136,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

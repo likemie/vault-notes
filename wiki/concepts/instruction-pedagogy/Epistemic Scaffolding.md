@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic Scaffolding
@@ -145,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2019 — CSCL [[Epistemology\|认识论]]支架概念奠基** Lin & Puntambekar 明确提出并界定认识论支架，将其与传统程序性、概念性支架区分开来，强调外显化科学探究底层认识论的重要性。
 > - **2020–2021 — 分布式支架理论深化** Puntambekar 提出分布式支架理论，阐明认识论支架如何协同分布于教师对话、学习材料与数字化工具中。
 > - **2026 — [[Man-Computer Symbiosis|人机协同]]解释与双轨支架系统** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 将认识论支架拓展至生成式 AI 协同学习领域，构建“显性学科标准 + 反思提问提示语”双轨认识论支架体系，实证解析其激活初中生三维[[Epistemological Vigilance\|认识论警觉]]的微观机制。
@@ -183,7 +181,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生[[Man-Computer Symbiosis|人机协同]]科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。

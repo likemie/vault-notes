@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Peer-Supported Learning
@@ -206,9 +206,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:-----|
@@ -223,9 +221,7 @@ updated: 2026-10-20
 
 ---
 
-## 证据链条
-
-> [!evidence-grid|notitle]
+> [!evidence-grid] 证据链条
 >
 > | 论证条目 | 证据类型 | 关键学者 / 报告 | 支撑的核心论断 |
 > |:---|:---|:---|:---|

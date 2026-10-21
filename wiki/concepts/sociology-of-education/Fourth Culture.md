@@ -25,21 +25,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: '2026-05-18'
+updated: 2026-10-22
 ---
 
 # Fourth Culture
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > "第四文化"（fourth culture）由 Deveney（2005）提出，指一种特殊的文化空间：既不是学生母国的教育体系，不是异国他乡的外国体系，也不是海外的[[International Schools\|国际学校]]，而是位于学生母国境内、但并不代表其本土文化与信仰的国际学校（Deveney, 2005, p.161，转引自 Slethaug, 2010, p.5）。
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs **第一文化**（母国文化）：学生家庭和本地社区的文化
 > - vs **第二文化**（外国文化）：海外留学时所接触的外国文化
 > - vs **第三文化（海外[[International Schools\|国际学校]]文化）** 在海外就读国际学校时所处的文化空间
@@ -57,9 +53,7 @@ updated: '2026-05-18'
 
 ---
 
-## 相关案例
-
-> [!example|notitle]
+> [!example] 相关案例
 > - [[English Schools Foundation Hong Kong]] — 香港最大的英语学校体系，40%–50% 学生为本地华人，是第四文化的典型案例
 > - [[International Schools]] — 第四文化现象发生的制度场所
 

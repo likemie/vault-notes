@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Education in Europe
@@ -119,9 +119,7 @@ updated: 2026-10-15
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

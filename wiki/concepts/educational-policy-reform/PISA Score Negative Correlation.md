@@ -127,7 +127,5 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统界定 PISA 分数负相关构念，多维论证高分体系在兴趣、幸福感与创业信心上的深层危机。

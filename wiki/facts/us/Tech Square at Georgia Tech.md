@@ -35,14 +35,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Tech Square at Georgia Tech
 
-## 内容
-
-> [!info|notitle]
+> [!info] 内容
 > Tech Square（Technology Square）是佐治亚理工学院（Georgia Institute of Technology）于 1990 年代末在亚特兰大 Midtown 开发的[[University-Industry Collaboration\|产学合作]][[Innovation Park\|创新园区]]。最初位于校园传统边界之外、一片不受欢迎且物理上隔离的地块上([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.128–130]])。
 
 ## 发展过程
@@ -53,9 +51,7 @@ updated: 2026-10-20
 - Georgia Tech Foundation 同意投入新资金，条件是大学须将部分学术项目迁入新开发的 Tech Square（p.130）
 - [[TUFF]] 参与了 Tech Square 从规划到[[Placemaking|场所营造]]的多个环节。TUFF 的第一笔合作始于 1982 年 Georgia Tech 时任校长 Joseph Pettit 的愿景——以私营部门交付模式建设高质量研究设施（p.123）
 
-## 运营影响
-
-> [!success|notitle]
+> [!success] 运营影响
 > - Tech Square 经历了两次严重的经济衰退和一场全球疫情——后者不仅打乱了商业房地产市场，也永久改变了美国劳动者的心理——但仍保持了活力和韧性。[[TUFF]] 认为，这是通过成功的文化建设、长期投资和真正响应式的[[Placemaking\|场所营造]]实现的（p.139）
 > - TUFF 的 [[Theory of Mind|ToM]] Hall 在 Tech Square 创新了"非传统激活"（unconventional activation）概念——通过乐高搭建比赛、知识问答、桌游、Taco Tuesday 等活动，让研究人员和企业人士在非正式场景中建立真实的人际关系（pp.136–137）
 > - TUFF 的口号"密度就是命运"（density is destiny）在 Tech Square 得到最直接的验证（p.136）

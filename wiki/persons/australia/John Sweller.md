@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John Sweller
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1972** 于阿德莱德大学（University of Adelaide）获得心理学博士学位，随后进入新南威尔士大学任教，长期从事人类[[Problem Solving\|问题解决]]与认知加工机制研究。
 > - **1988** 在《认知科学》（*Cognitive Science*）发表奠基性论文《问题解决中的认知负荷：对教学设计的影响》，正式提出[[Cognitive Load Theory\|认知负荷理论]]，开启教学设计从[[Behaviorism|行为主义]]向认知心理学的大转向。
 > - **1998** 与 Jeroen van Merriënboer 及 Fred Paas 合作发表《认知架构与教学设计》，系统确立内在认知负荷、外在认知负荷与关联认知负荷的三维分类模型。
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** Paul A. Kirschner — 长期核心学术盟友，共同发表 2006 年极简指导批判及 2022 年科学教育政策危机论；Richard E. Clark — 共同合著 2006 年论文；Jeroen J. G. van Merriënboer 与 Fred Paas — 1990 年代共同奠定现代三维[[Cognitive Load Theory\|认知负荷理论]]模型；张莉（Li Zhang）— 合作撰写 2022 年反探究政策论文。
 > - **论敌与批评者** [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] — 学习科学阵营学者，于 2007 年与 2023 年两度对 Sweller 阵营发起系统反击，证明[[Inquiry-Based Learning\|指导式探究]]具有更优的概念建构与迁移成效；Anthony Skourdoumbis — 批判其理论沦为保守派智库规训教师教育的工具；[[Deanna Kuhn]] — 通过[[Control of Variables Strategy\|变量控制策略]]长期实验反驳其关于[[Direct Instruction\|直接教学]]具有持久优势的主张。
 > - **机构与政策项目** 新南威尔士大学（UNSW）— 长期任职机构与荣休学术基地；[[Centre for Independent Studies]] — 合作保守智库，资助并出版其政策批判报告；[[Education Endowment Foundation]] — 推广机构，将其理论工具列入全球教学工具箱；[[Strong Beginnings Report]] — 澳大利亚联邦政策报告，将其著作列为全国[[Initial Teacher Training\|初始教师教育]]法定必修文献。
@@ -185,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

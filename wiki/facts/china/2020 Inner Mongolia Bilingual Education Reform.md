@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # 2020 Inner Mongolia Bilingual Education Reform
@@ -98,9 +98,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

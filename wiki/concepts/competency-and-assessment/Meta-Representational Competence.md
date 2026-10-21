@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Meta-Representational Competence
@@ -120,7 +120,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 引入元表征能力[[Construct\|构念]]解释中学生在[[Graphic Organizer\|图形组织器]]干预下表现出显著高于其他学段的促学收益峰值。

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-13'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Decolonial Paradox
@@ -122,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2022 — 泰沃提出批判** 哲学家 Olúfẹ́mi Táíwò 发表著作《Against Decolonisation》，批判泛非主义去殖民研究剥夺了非洲本地人的选择能动性（native agency），指出本土人完全有权保留和使用那些对自身有益的现代制度（如法治和自由意志）。
 > - **2024 — 维克引入比较教育分析** Vickers 将泰沃的理论引入比较教育学界，剖析香港在国安法实施后课程改革中的去政治化与去专业化危机，首次提炼出“去殖民化思维的悖论”来解释盎格鲁学界在面对香港案例时的失语（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp. 154–155]]）。
 
@@ -149,7 +147,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 首次在比较教育框架下使用“去殖民悖论”理论解构香港[[Citizenship and Social Development\|公民与社会发展科]]对通识科的替代。

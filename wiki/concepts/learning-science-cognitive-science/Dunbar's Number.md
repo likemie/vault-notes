@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dunbar's Number
@@ -130,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1992–1993 — 理论奠基** [[Robin Dunbar|罗宾·邓巴]]发表系列灵长类演化研究，正式确立群体规模与脑容量的关联模型并提出 150 人经验常数。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Dunbar, 1993)]]
 > - **2000年代 — 组织与管理学应用** 格拉德威尔（Malcolm Gladwell）等学者将邓巴数引入企业管理与组织设计，推动高科技初创企业采用 150 人团队裂变模式。
 > - **2020年代 — 政治哲学与国家战略反思** 卡普与扎米斯卡将邓巴数用于诊断西方国家认同危机，论证宏观共同体对共享叙事的生存级依赖。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]

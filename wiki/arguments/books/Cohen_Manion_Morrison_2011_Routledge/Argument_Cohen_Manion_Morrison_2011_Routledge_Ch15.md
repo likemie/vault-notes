@@ -357,7 +357,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > | 研究联盟 | [校际政治与社会研究联盟（ICPSR）](https://www.icpsr.umich.edu) |
 > | 国际组织 | [欧盟教育信息网络（Eurydice）](https://eurydice.eacea.ec.europa.eu)、[[OECD]]、[国际学生评估（PISA）](https://www.oecd.org/pisa/)、[教科文组织统计所（UNESCO）](https://www.uis.unesco.org)、[世界银行（World Bank）](https://data.worldbank.org)、[国际数学与科学趋势（TIMSS）](https://nces.ed.gov/timss/) |
 > | 个别数据集 | [英国教育研究协会（BERA）](https://www.bera.ac.uk) |
-> | 高校数据集 | [英国队列研究（CLS）](https://www.cls.ioe.ac.uk)
+> | 高校数据集 | [英国队列研究（CLS）](https://www.cls.ioe.ac.uk) |
 
 ---
 

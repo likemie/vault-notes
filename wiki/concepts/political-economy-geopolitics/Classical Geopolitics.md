@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Classical Geopolitics
@@ -185,9 +185,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1899–1901 — 术语创生与殖民扩张教义** 瑞典学者契伦（R. Kjellén）于 1899 年提出“[[Geopolitics|地缘政治学]]”一词，借由希腊词根探讨土地与权力关联；1871 年德国统一后，[[Francis Bacon|弗朗西斯·培根]]的“知识即权力”演进为“地理知识即世界权力”的帝国对外扩张信条。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 67–68)]]
 > - **1890s–1945 — 陆海权理论确立与纳粹扩张滥觞** 麦金德“陆权论”、马汉“海权论”构筑起古典理论基石。二战期间，社会达尔文主义空间观念被纳粹政权用于论证侵略扩张，导致该学科战后在西方政治学中一度沉寂。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 36–37)]]
 > - **1945–1991 — 冷战阵营对峙与大学外事工具化** 美苏两极依循古典势力范围逻辑构建对峙同盟；大学通过[[Fulbright Program|富布莱特计划]]与莫斯科卢蒙巴人民友谊大学被动纳入地缘竞争网络，充当外交防卫从属工具。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 4)]]
@@ -216,9 +214,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 界定古典[[Geopolitics|地缘政治]]的核心逻辑，并通过中美技术竞争与芯片封锁案例分析领土势力范围逻辑在当代数字经济时代的延伸。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，剖析传统西方对外干预[[Paradigm|范式]]同中国[[South-South Cooperation|南南合作]]多边互惠与文明互鉴范式之间的深层理论对峙（pp. 231–233）。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 以 Dalby 现实主义古典地缘政治为对照基线，指出纯粹国家间[[Hard Power|硬实力]]斗争视角难以解释当代高等教育的跨国[[Social Imaginary|社会想象]]与网络化关系。

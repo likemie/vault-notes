@@ -85,7 +85,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research Literacy
@@ -124,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 研究素养（德性、整合与民主权利视角） | [[Teacher Professional Agency\|教师专业能动性]] | 传统实证技术技能（赤字视角） |
 > |------|--------------------------|----------------|----------------|
 > | **分析重点** | 与科研证据打交道时的[[Professional Judgment\|专业判断力]]、批判审议与公民民主权利 | 教师在教学决策中行使自主裁决的能动空间 | 检索文献、阅读统计图表与撰写报告的操作技能 |
@@ -256,9 +254,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000s–2010s — 信息素养与实证技能测度** 文献多将研究素养[[Operationalization\|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
 > - **2017 — [[Inquiry Cycle\|探究循环]]视阈下的双素养协同（[[School Enquiry Cycle\|ESTI]]）** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 揭示教师在检索与转译期刊学术论文时面临的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
 > - **2018 — [[Scientific Literacy\|科学素养]]确立为公民民主权利** Chalmers 等人（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
@@ -306,9 +302,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将研究素养确立为驱动“深思熟虑参与”的个体使能构件（技能网络与态度价值观），强调个体使能与组织氛围的深度互构。
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 揭示一线教师在研读专业学术论文时的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供转译支架，并倡导职前与在职教育中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 基于[[Theory of Planned Behavior\|计划行为理论]]开发 20 题四维度[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS），并实证检验科研参与和学术期刊阅读对素养维度的促进机制。
@@ -319,9 +313,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|

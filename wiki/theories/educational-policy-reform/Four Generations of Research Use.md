@@ -50,7 +50,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Four Generations of Research Use
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -159,25 +157,19 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 教师难以直接套用外部科研成果的原因、大学与中小学合作中的[[Epistemology\|认识论]]冲突、[[Evidence-Based Education\|循证教育]]政策在学校落实中的落差。
 > - **谨慎使用** 完全由一线教师自主开展的[[Action Research\|行动研究]]或校本探究（此时[[Knowledge Production\|知识生产]]与使用高度合一，较少涉及外源知识与实践割裂的典型矛盾）。
 > - **不适合解释** 纯实验室环境下的短期记忆或认知心理学控制实验。
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **2019 — 三代演进框架确立** Boaz and Nutley（2019）在公共部门循证政策与实践研究中系统梳理了理性-线性、关系互动与系统全局三代[[Research Utilization\|证据使用]][[Paradigm\|范式]]。
 > - **2022 — 专业[[Epistemology\|认识论]]与德性论拓展** Eriksen（2022）等学者探讨专业人员的[[Research Literacy\|研究素养]]，提出专业实践作为技艺需要调和有效性与恰当性。
 > - **2025 — 第四代专业敏感模型建构** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 通过系统性批判综述，正式确立面向教师专业[[Knowledge Integration\|知识整合]]与价值规范的第四代[[Research Utilization\|研究使用]]范式。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 基于 34 项文献的[[Critical Review\|批判性综述]]提出该四代模型，论证教育研究必须从第三代系统观推进至以[[Knowledge Integration\|知识整合]]与专业规范为支柱的第四代概念化。

@@ -35,19 +35,15 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 价值本位教育（VALUE-Based Education）是 [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 提出的教育取向，作为[[Evidence-Based Education\|证据本位教育]]的替代。其核心主张是：**价值先于证据**——教育实践的方向来自关于教育目的的规范性判断，关于"什么有效"的手段性问题始终从属于"我们想要达成什么"的目的性问题。
 >
 > > "Calling the idea of value-based education an alternative, is not meant to suggest that evidence plays no role at all in value-based education but is to highlight that its role is subordinate to the values that constitute practices as educational practices." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 492]])
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > - **1992** — Carr 指出教育中手段与目的具有**内在关系**（惩罚教会学生以暴力实现意志）
 > - **2007** — Biesta 在 "Why 'What Works' Won't Work" 中首次提出"民主缺陷"概念，为价值本位教育奠定基础
 > - **2010** — 本文正式提出价值本位教育概念，作为[[Evidence-Based Education\|证据本位教育]]的系统性替代方案
@@ -84,16 +80,12 @@ updated: 2026-10-21
 >
 > > "There are limits to the kind of knowledge that can be generated and limits to the extent to which there can be strong and secure links between actions and consequences in the human and social domain." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 501]])
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - **vs [[Evidence-Based Education]]** — 证据本位教育将手段问题（效果）置于首位；价值本位教育将目的问题（方向）置于首位。前者可能成为"没有方向的有效性"；后者要求方向先于有效性
 > - **vs Values Education（价值观教育）** — 价值观教育是向学生传授特定价值观；价值本位教育是关于**教育实践本身的规范性基础**，而非课程内容
 > - **vs [[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice）** — 证据知情实践是证据本位教育的弱化版；价值本位教育不是弱化证据的角色，而是**重新定义**证据与价值的关系——证据从主角变为配角
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - **教育的 Teleological 特征** — 教育的核心特征是它是由 *telos*（目的）框定的实践
 > - [[Transactional Epistemology]] — Dewey 的交易[[Epistemology\|认识论]]揭示证据只能提供关于过去的可能性，强化了价值判断的必要性
 > - **Carr (1992)** — 教育手段与目的的内在联系

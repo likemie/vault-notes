@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: report
 publication_type: book-chapter
 title: "Argument_Streeck_Thelen_2005_OUP"
@@ -393,9 +393,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **经验范围局限于发达工业民主国家** 全书讨论主要立足于战后富裕的西方资本主义国家核心制度，所提炼的规制博弈模型在多大程度上适用于缺乏法治传统与成熟国家能力的发展中国家，仍需进一步经验检验。（pp. 3–4, 10–11）
 > - **[[Liberalization|自由化]]与渐进形态因果必然性尚存理论疑问** 导论明确指出，当前观察到的五大渐进变迁形态与自由化浪潮之间的紧密契合，究竟属于战后特定历史时期的阶段性偶合，抑或反映了自由市场逻辑与制度渐变之间存在某种超越历史时空的必然联系，仍有待未来进一步研究澄清。（pp. 31–33）
 

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Socratic Elenchus
@@ -121,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | [[Socrates\|苏格拉底]]驳诘法（Elenchus） | [[Banking Model of Education\|储蓄式教育]] | 儒家启发式与[[Self-Cultivation\|修身]] |
 > |------|--------------------------|----------------|--------------------------|
 > | 知识假设 | 知识潜藏于灵魂，需通过反诘唤醒 | 知识是外在事实，由教师单向存入 | 德性与学问需通过尊师重道与内省修养 |
@@ -132,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 理论与实践路径
-
-> [!influence-path|notitle] 理论与实践路径
+> [!influence-path] 理论与实践路径
 > - **理论路径** 奠定了西方哲学方法论与[[Critical Thinking\|批判性思维]]的基石，为[[Pragmatic Paradigm\|实用主义]]探究与辩证法提供了直接源头。
 > - **教学实践路径** 发展出[[Socrates\|苏格拉底]]式指导风格、提问式教学（problem-posing）以及法学教育中的 Socratic Case Method。
 > - **课程审查路径** 用于评估课程体系（如 IB [[Theory of Knowledge\|TOK]] 课程）是否真正提供了深度的概念反诘与探究自由 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 10)]]。

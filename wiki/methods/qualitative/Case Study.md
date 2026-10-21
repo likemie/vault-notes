@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 96
+method_related_count: 92
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Unit of Analysis]]"
-  - "[[Epistemology]]"
   - "[[Naturalistic Generalization]]"
   - "[[Rich and Thick Description]]"
   - "[[Professional Judgment]]"
@@ -31,8 +30,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Research Question]]"
-  - "[[Research Purpose]]"
-  - "[[Falsification]]"
   - "[[Causality]]"
   - "[[Grand Theory]]"
   - "[[Learner-Centred Education]]"
@@ -67,7 +64,6 @@ related_methods:
   - "[[External Auditor]]"
   - "[[Semi-structured Interview]]"
   - "[[Theoretical Sampling]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
@@ -76,11 +72,11 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Field Notes]]"
   - "[[Member Checking]]"
+  - "[[Comparative Case Study]]"
   - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Expert Interview]]"
-  - "[[Comparative Case Study]]"
   - "[[Purposeful Sampling]]"
 related_persons: []
 related_arguments:
@@ -88,6 +84,7 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Wang_2025_CE]]"
@@ -105,7 +102,6 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -121,7 +117,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Case Study
@@ -208,9 +204,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

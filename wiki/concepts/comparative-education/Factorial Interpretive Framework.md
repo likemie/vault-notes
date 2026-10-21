@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Factorial Interpretive Framework
@@ -332,7 +332,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 思想史考古全面剖析汉斯 1949 年专著，系统拆解自然、宗教与世俗三维阶梯因素架构，记录 1960 年代实证学派的严苛批判，并以广义科学观为历史因果因素解释学进行当代学术平反。

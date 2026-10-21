@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Family Resemblance Approach
 
@@ -91,9 +91,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 中小学与大学各学科（物理、化学、生物、地学、工程）课程标准、教材[[Content Analysis\|内容分析]]，以及探究教学设计的[[Epistemology\|认识论]]广度评估。
 > - **成立条件** 需要教师具备对具体学科发展史与科学哲学的基本素养，能够辨识各分支的独特认识论规程。
 > - **解释不足** 理论维度较为宏大庞杂，在微观课堂实时教学中，难以在一节课内同时完整覆盖所有 11 个子维度。
@@ -162,8 +158,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 运用家族相似性进路论证科学[[Epistemology\|认识论]]的学科[[Heterogeneity\|异质性]]，并系统解构[[Scientific Method\|科学方法]]五步法。
 > - [[Views of Nature of Science Questionnaire]] — 传统共识观[[Nature of Science\|科学本质]]评估工具，常被 FRA 研究者作为对比与批判的基准。

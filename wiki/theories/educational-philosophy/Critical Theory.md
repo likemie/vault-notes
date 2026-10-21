@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critical Theory
@@ -206,9 +206,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 深度剖析官方强力规制教学法与科研标准的政策博弈、教育制度再生产社会不平等的隐蔽机制、技术官僚同盟对学科[[Discourse|话语]]权的寡头垄断，以及自下而上的教育平权抗争。
 > - **成立条件** 需要研究者掌握穿透技术话语的跨学科分析工具（社会学、政治学与经济学眼光），获取深入决策内幕的一手档案与政商关联数据，并持有明确的批判自省立场。
 > - **解释不足** 理论偏向宏观政治经济结构批判与微观意识形态解构，本身并不直接提供微观课堂教学法设计或良构的教学组织技术；过度依赖冲突[[Paradigm|范式]]，可能在一定程度上低估了制度内部合作协商与渐进改良的实际成效。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 107–116)]]
@@ -252,9 +250,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育研究理论与方法：解构[[Technical Rationality|技术理性]]，界定[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]（Ch. 2, Ch. 18）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与政策价值建构论剖析[[Reading Excellence Act|卓越阅读法案]]立法铁三角，创立[[Critical Pluralism|批判性多元主义]]框架。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 揭示批判知识共同体打破战后[[Structural Functionalism|结构功能主义]]霸权、确立26种[[Theoretical Standpoint|理论立场]]共存的[[Pluralism|多元主义]]历程。

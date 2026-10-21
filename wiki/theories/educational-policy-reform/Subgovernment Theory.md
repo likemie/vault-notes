@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Subgovernment Theory
@@ -141,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 具有高度专业技术门槛、涉及巨额政府采购与专项资金转移支付、且存在稳定政商结盟网络的政策领域。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–9)]]
 > - **成立条件** 需要研究者掌握国会听证会实录、跨机构人事重叠与任职履历、以及财政拨款与商业采纳的具体流向数据。
 > - **解释不足** 随着分散流动的利益网络兴起，铁三角结构在很多新兴领域呈现多孔与碎片化特征；且理论偏向自上而下的寡头控制视角，未能充分解释基层实践者开展地方抵制与反制性结盟的能动空间。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8, 10–13)]]

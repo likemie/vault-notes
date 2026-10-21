@@ -92,7 +92,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-04"
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Johnson_2023_CritEduc
 
@@ -362,9 +362,7 @@ VL 并非纯粹的高校学术成果，而是自诞生之日起就作为一项�
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 作为批判性述评（Critical Essay），聚焦于对既有著作及其制度生态开展思想解构与政治经济学审视，未采集新的经验统计样本，亦未实施大规模[[Qualitative Observation|田野观察]]。（p. 25）
 
 ---

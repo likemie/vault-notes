@@ -38,11 +38,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
-## 背景
 
-> [!info|notitle] 背景
+> [!info] 背景
 > Tomorrow's Schools（明日学校）是 1989 年新西兰推出的重大教育行政改革，将学校管理权从中央教育部大幅下放至各校董事会，引入学校自我管理（self-management）模式。这一改革在全球[[Educational Decentralization|教育分权]]化浪潮中具有标志性地位([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66]])。
 >
 > 改革前，教育被视为经济增长和社会发展的关键因素（Hawke, cited in Sarbiewska, 2019, p.120）。然而这一阶段的改革主要聚焦于行政管理调整，尚未进入基于研究的教学改革阶段。
@@ -54,24 +53,18 @@ updated: 2026-10-21
 > - 校际竞争更加激烈
 > - 教育质量不平等加剧
 
-## 政策内容
-
-> [!info|notitle] 政策内容
+> [!info] 政策内容
 > - 设立各校董事会（Board of Trustees），赋予学校在财务、人事和运营方面的自主权
 > - 原先由教育部集中提供的学校支持服务（工资发放、交通、财务行政等）转移至新成立的实体
 > - 作为改革过渡机制，全国设立 13 个 education service centres（ESCs），承接原教育部与各地教育委员会的部分行政与服务职能，并以政府 suspensory loans 支持启动；这些机构从一开始就被设计为可被竞争逐步取代的过渡安排，而不是永久性公共机构([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.11-12]])
 > - Tomorrow's Schools 政策文本明确把 ESCs 定义为学校行政支持的“one source”，学校可以选择继续使用 ESC，也可以向其他供应者购买服务，因此改革不仅是放权给学校，也是把学校支持服务逐步改写为可竞争采购的准市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.12]])
 
-## 时间线
-
-> [!note|notitle] 时间线
+> [!note] 时间线
 > - 1989 年 10 月：[[Cognition Education\|Multi Serve Education Trust]] 在 Tomorrow's Schools 改革启动之初成立，为学校提供交通、工资和财务行政支持([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66]])
 > - 1990 年 4 月：Lough Report 在改革实施约六个月后提出进一步压缩教育官僚体系，并建议把更多人事管理责任继续下放给学校，为后续围绕工资管理去中心化的争论奠定方向([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.14-15]])
 > - 1990 年代：围绕 bulk-funding 与学校工资应由中央还是学校直接管理的争论持续存在，导致工资合同长期以短周期方式续签，政策方向处于不稳定状态([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])
 
-## 实施影响
-
-> [!success|notitle] 实施影响
+> [!success] 实施影响
 > - 改革创造了学校支持服务的市场空间，使私营和非营利组织得以进入此前由公共部门垄断的领域
 > - [[Cognition Education\|Multi Serve Education Trust]]（后演变为 Cognition Education Group）是直接因改革而生的组织([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66, p.x–xi]])
 > - 此后约 20 年间，学校支持服务逐渐商业化，最终在 2011 年被教育部转为竞争性招标（见 [[Contestable School Support Services]]）
@@ -88,9 +81,7 @@ updated: 2026-10-21
 > - Hattie and Cognition 的关系追溯至商业化之前：2006 年成为 Multi Serve Education Trust Board 董事，2008 年成为 Cognition Education 董事
 > - 这一转化链为 2010 年的 [[Visible Learning Branding and Global Influences]] 提供了制度基础
 
-## 相关概念
-
-> [!example|notitle] 相关概念
+> [!example] 相关概念
 > - [[Educational Management Organisation]]
 > - [[Network Governance]]
 > - [[School Autonomy]]

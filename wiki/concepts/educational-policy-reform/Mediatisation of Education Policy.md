@@ -8,7 +8,7 @@ aliases:
 summary: "揭示大众媒体的运作逻辑、报道格式与戏剧化话语深度介入并重构教育政策制定过程的政策社会学概念；跨国评估结果在媒体场域中常被加工为政治危机叙事或政绩宣示，倒逼决策系统采取高可见度的激进改革"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,31 +20,26 @@ tags:
   - theme/mediatisation
   - theme/pisa
 related_concepts:
-  - "[[Governing by Numbers]]"
   - "[[Externalization]]"
-  - "[[Discourse]]"
-  - "[[Policy Borrowing]]"
-  - "[[PISA Shock]]"
   - "[[Champ]]"
-related_theories:
-  - "[[Governmentality]]"
-related_methods:
-  - "[[Documentary Analysis]]"
-  - "[[Comparative Case Study]]"
+  - "[[Governing by Numbers]]"
+  - "[[PISA Shock]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Bob Lingard]]"
   - "[[Sotiria Grek]]"
 related_facts:
   - "[[PISA]]"
-  - "[[OECD]]"
   - "[[PISA Shock in Germany]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mediatisation of Education Policy
@@ -72,10 +67,8 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析
-> | 维度 | 教育政策媒介化 | 政策公共传播（Public Communication） | [[Externalization|政策外在化（Externalization）]] |
+> | 维度 | 教育政策媒介化 | 政策公共传播（Public Communication） | [[Externalization\|政策外在化（Externalization）]] |
 > |------|--------|----------------|----------------|
 > | 驱动机制 | 媒体场域逻辑对政策场域的跨场域重塑 | 政府对政策信息的单向发布与解释 | 诉诸外部客观权威以消解本土改革争议 |
 > | 核心载体 | 头条新闻、危机话语、排位榜单与电视大辩论 | 官方新闻公报、政策白皮书、政策吹风会 | 国际组织报告、跨国测评基准、全球最佳实践 |
@@ -132,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

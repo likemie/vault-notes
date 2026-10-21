@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # InTASC Standards
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 彻底重塑了全美[[Normal School\|师范教育]]的专业认证体系，成为 40 多个州教师资格立法的统一模板。
 > - **实践影响** 促使大学师范专业大幅削减[[Rote Learning\|死记硬背]]式考试，转而采用以表现性任务与教学录像反思为核心的临床教学评价体系。
 > - **知识影响** 实证证明了教师自身的评价素养与设计[[Higher-Order Thinking Skills\|高阶思维]]任务的能力是撬动课堂[[Creativity\|创造力]]与思辨力培养的关键枢纽。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]

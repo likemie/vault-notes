@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Public-Private Partnership
@@ -237,9 +237,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 核心关联说明 |
 > |:---|:---|:---|
@@ -257,9 +255,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]] — 揭示跨国教育公司如何借助公私伙伴关系（PPP）向海外扩张并转型为政府顾问，重构全球教育治理空间。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 从企业实务视角提出多边治理、竞争理论、路线图与知识产权四大决策支柱，总结研发型 PPP 三代演进机制。
 > - [[Argument_NIST_2023_NSTC|NIST, 2023]] — 阐明第三代法定研发型公私合作机制运行蓝图，由非营利组织 [[Natcast]] 运营 [[National Science and Technology Council|NSTC]] 并建立共享中试设施与云端网关。

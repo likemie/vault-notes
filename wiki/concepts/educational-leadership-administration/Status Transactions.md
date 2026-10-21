@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Status Transactions
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 工具性地位交易 | 固化科层种姓制 | 动物本能[[Pecking Order\|啄序]]支配 |
 > |---|---|---|---|
 > | **地位本质** | 服务于现实目标的临时工具与情境表演 | 终身绑定职位、不可侵犯的特权标志 | 依靠体力与群体威慑确立的生物性等级支配 |
@@ -126,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1949 — 动物行为学灵感** [[Konrad Lorenz|康拉德·劳伦兹]]在《所罗门王的指环》中揭示鸟类社会的森严[[Pecking Order|啄序]]。
 > - **1979 — 戏剧学与心理学创立** [[Keith Johnstone|基思·约翰斯通]]在《即兴：即兴创作与剧场》中系统提出地位交易与本质/扮演地位二分法。
 > - **2025 — 科技组织与工程文化应用** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中将地位交易理论确立为初创企业抵御官僚化、塑造敏捷即兴工程组织的核心文化武器。

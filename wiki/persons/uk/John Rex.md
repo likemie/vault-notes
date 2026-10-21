@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John Rex
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1925** 出生于南非伊丽莎白港，早年在罗德斯大学（Rhodes University）求学，因坚决反对南非种族隔离制度而遭受政治迫害，后流亡英国。
 > - **1950s** 在利兹大学获得博士学位，深受[[Max Weber\|马克斯·韦伯]]方法论与冲突理论启发，投身英国工业城市阶级结构与移民社会学研究。
 > - **1967** 与罗伯特·摩尔（Robert Moore）合作出版里程碑式著作《种族、社区与冲突》（*Race, Community and Conflict*），奠定城市住房阶级（housing classes）理论。
@@ -111,9 +109,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论同盟** [[Basil Bernstein]] — 在 1974 年《社会学研究进路》中共事合作，共同对微观互动论与常人方法学的去权力化倾向发起有力批判。
 > - **思想源流** [[Max Weber]] — 继承韦伯关于社会行动意义理解（Verstehen）与客观因果解释并重的辩证传统。
 > - **学术论敌** [[Peter Woods]] — 雷克斯的批判直指微观课堂互动论将客观现实矮化为行动者主观报告的理论倾向。
@@ -132,9 +128,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

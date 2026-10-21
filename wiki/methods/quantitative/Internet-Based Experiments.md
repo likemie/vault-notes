@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Internet-Based Experiments
 
@@ -100,9 +100,7 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 > > 4. 不忽略网络固有的技术变异，配置细节、浏览器、平台、带宽和软件可能全部扭曲实验。
 > > 5. 不因表单元素使用不当而产生结果偏差，例如遗漏中立、不愿回答、既不同意也不反对等选项，这引入测量误差。
 
-## 资料与分析
-
-> [!info|notitle]
+> [!info] 资料与分析
 > 网络实验的数据收集与传统实验共享核心逻辑——操纵[[Independent Variable\|自变量]]、测量[[Dependent Variable\|因变量]]——但额外面临三类特殊的数据质量问题：(1) 退出率可能极高（1% 至 87%），需作为因[[Variable\|变量]]分析而非简单忽略；(2) 技术变异（网络速度、计算机速度、软件差异）可能产生比传统实验更大的结果变异（Reips, 2002b, pp. 245–246）；(3) 多次提交和身份验证困难可能混淆[[Reliability\|信度]]。Reips (2002a) 建议通过激励（付费或彩票）降低退出率约 31%；通过单次密码和一致性检查减少多次提交；通过子样本一致性检验检测数据可靠性。
 
 ## 适用场景
@@ -117,9 +115,7 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 > - 更高的[[Ecological Validity\|生态效度]]，参与者在熟悉的环境中、方便的时间参与
 > - 高自愿性，可观察到更真实的行为
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **退出率问题** 退出率从 1% 到 87% 不等，可通过激励（金钱或抽奖）降低约 31%（Reips, 2002a）。
 > - **技术变异** 网络连接速度、计算机速度、并行运行的多软件导致结果变异大于传统实验（Reips, 2002b, pp. 245–246）。
 > - **控制减弱** 对参与者所处环境的控制远低于实验室实验（Reips, 2009, p. 381）。
@@ -127,9 +123,7 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 > - **多次提交** 单个参与者的多次返回可能混淆[[Reliability\|信度]]。
 > - **JavaScript 效应** 使用 JavaScript 的实验退出率比完全相同的非 JavaScript 实验高 13%（Schwarz & Reips, 2001）。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Experimental Research]] | 方法 | 母方法——网络实验是传统实验在远程环境中的延伸，共享操纵[[Independent Variable\|自变量]]、测量[[Dependent Variable\|因变量]]、[[Random Assignment\|随机分配]]等核心逻辑 |

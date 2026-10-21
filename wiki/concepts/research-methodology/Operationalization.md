@@ -52,16 +52,16 @@ related_facts:
   - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Operationalization
@@ -103,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **目的解构与焦点锁定（Purpose Deconstruction & Focus Selection）** 将宏观宽泛的一般研究目的或法定治理任务，逐层拆解为具体的组成要素与子议题，并依据资源边界锁定核心研究焦点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
 > - **经验指标与行为锚定（Empirical Indicators & Behavioral Anchoring）** 建立从理论构念到可观察行为描述符的映射链条，采用行为锚定评分（BARS）或明确的调查题项规范测量行为。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 > - **推论负荷与认知负荷调控（Inference Load & Cognitive Load Balancing）** 权衡测量维度的推论层次（低推论客观快照与高推论质性等级），控制指标数量以防范观察员注意力超载。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
@@ -232,9 +230,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1927 — 科学哲学起源** 布里奇曼（Percy Bridgman, 1927）在《现代物理学的逻辑》中提出“操作主义”（Operationalism），主张概念的意义即等同于一套对应的测量操作，为经验科学的操作化奠定哲学基石。
 > - **1940s–1950s — 社会科学与心理测量学规范化** 史蒂文斯（Stevens, 1946）与拉扎斯菲尔德（Lazarsfeld, 1958）将操作化推进至社会科学，确立从构念形成、维度划分、指标选择到综合指数构建的标准化测量规程。
 > - **2010s — 潜变量多层级行为锚定** [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] 研制 Teach 课堂观察工具，建立“4 领域 $\to$ 10 要素 $\to$ 28 项行为描述符”的多层级操作化框架，开创低推论快照与高推论行为锚定结合的现代田野测评范式。
@@ -272,9 +268,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐明操作化五步推进程序、假设操作化的方向性与可检验性原则，以及问卷设计中的三步操作化路径（参见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|第 7 章, pp. 126–131]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|第 20 章, pp. 108–113]]）。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 示范多层级教育[[Construct|构念]]操作化（4 领域 $\rightarrow$ 10 要素 $\rightarrow$ 28 项行为描述符）、低推论快照与高推论行为锚定双轨机制及 N/A 边界控制。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪瑞典学校督导实践中将抽象法律要求操作化为常规督导指标与办学常模的完整链条，揭示技术官僚操作化对教学情境性的简化风险（pp. 647–651）。

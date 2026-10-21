@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Article 9 of the Japanese Constitution
@@ -114,9 +114,7 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **经济腾飞保障** 战后数十年间将防卫支出控制在 GDP 1% 左右，使日本得以将财政资源全力集中于工业制造与技术研发，实现战后经济奇迹。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 43)]]
 > - **外部安全依赖固化** 造成日本对美国军事指挥与核保护伞的长期单向依附，自身缺乏独立应对高烈度大国[[Strategic Bargaining Theory|冲突的战略]]自主性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
 > - **印太战略失衡风险** 卡普与扎米斯卡指出，面对具备强大[[Hard Power|硬实力]]与 AI 武器库的对手，亚洲最富裕民主国家的单方面去武力化正向潜在侵略者传递软弱信号，削弱了区域威慑体系的整体韧性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -159,8 +155,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻反思日本战后宪法第九条对印太力量平衡的长期侵蚀，论证在软件与人工智能世纪日本必须通过先进算法与自主系统重构防御威慑底座。
 

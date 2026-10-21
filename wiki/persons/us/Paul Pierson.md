@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Paul Pierson
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1959** 出生于美国俄勒冈州尤金市。
 > - **1981** 于奥柏林学院（Oberlin College）获政治学学士学位。
 > - **1989** 于耶鲁大学获政治学博士学位。
@@ -133,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与长期合作者** [[Theda Skocpol]] — 哈佛大学时期的引路人与密切学术合作者，共同推进[[Historical Institutionalism|历史制度主义]]学科建设。
 > - **长期学术合著者** [[Jacob S. Hacker]] — 共同合著多部美国政治经济学经典，形成紧密的制度分析学术同盟。
 > - **理论同行与对话者** [[James Mahoney]] — 共同致力于[[Path Dependence|路径依赖]]形式化建模与比较历史分析规范化。
@@ -157,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 为[[Subversives\|颠覆者]]角色提供地下室白蚁微观机制表述，其早期理论直接触发了渐进变迁对连续性偏误的突破。 |

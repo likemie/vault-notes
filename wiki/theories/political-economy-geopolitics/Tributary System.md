@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tributary System
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -150,7 +148,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 深度回顾古代朝贡体系争议，检视当代高等教育[[Neo-Tributary Perspective|新朝贡分析框架]]的解释效力与实证局限，修正文化同化预设并确立[[Cultural Recognition|文化认同探索]]新路径。

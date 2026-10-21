@@ -32,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # University Inc
@@ -45,9 +45,7 @@ updated: 2026-10-16
 > [!quote|notitle]
 > "The emergence of a utilitarian, market-model university, combined with a loud drumbeat calling on schools to spur national and regional economic growth, now threatens to obliterate the distinctiveness of …academic research culture."（Washburn, 2005，转引自 pp.10, 370–371）
 
-## 影响与争议
-
-> [!warning|notitle]
+> [!warning] 影响与争议
 > Washburn 的批判是[[University-Industry Collaboration\|产学合作]]讨论中最常被引用的批评声音之一。Boccanfuso and Hall（2025）在引出这一批评后，同时呈现了反方观点（p.10）：
 
 - **Washburn 的立场** 功利主义、市场模式的大学威胁要消除学术研究文化的独特性

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Bernard Barber
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1918** 出生于美国马萨诸塞州波士顿。
 > - **1939–1948** 在哈佛大学攻读社会学，先后获得学士与博士学位，深受导师[[Talcott Parsons|帕森斯]][[Structural Functionalism|结构功能主义]]与默顿科学社会学的双重滋养。
 > - **1948–1952** 任教于史密斯学院社会学系。
@@ -107,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

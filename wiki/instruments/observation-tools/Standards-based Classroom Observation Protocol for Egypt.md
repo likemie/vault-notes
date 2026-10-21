@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Standards-based Classroom Observation Protocol for Egypt
@@ -130,9 +130,7 @@ SCOPE 严格对应埃及国家教师专业标准，涵盖四大核心教学领�
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | SCOPE 所依托的基于标准的教学观察方法系统。 |
@@ -141,7 +139,5 @@ SCOPE 严格对应埃及国家教师专业标准，涵盖四大核心教学领�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 将 SCOPE 作为发展中国家既有代表性观察工具进行要素梳理与横向比照。

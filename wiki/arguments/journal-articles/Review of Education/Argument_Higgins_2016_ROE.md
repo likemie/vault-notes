@@ -85,7 +85,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-06-08'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2016
 doi: ""
 citation_aliases:
@@ -97,9 +97,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 本文不采用单一理论框架，而是以方法论史为线索，追溯[[Meta-analysis\|元分析]]从统计技术到政策工具的演变。核心概念包括：
 > - [[Effect Size\|效应量]]作为跨研究比较的通用尺度
 > - [[Heterogeneity\|异质性]]作为研究间效果变异及其来源探索的工具
@@ -108,9 +106,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 本文为方法论综述，不涉及实证数据收集。作者通过系统性追溯[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]的发展历史，评述关键方法论文献，并以[[EEF Teaching and Learning Toolkit]]为例说明元综合在教育政策中的应用。
 
 ---
@@ -464,9 +460,7 @@ Toolkit and Visible Learning 中跨所有领域的效果变异表明，元综合
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - 本文聚焦于[[Intervention Research\|干预研究]]和实验设计的[[Meta-analysis\|元分析]]，未充分讨论[[Non-intervention Research\|非干预研究]]的综合方法(p.32)
 > - [[Meta-meta-analysis\|元综合]]的总体效果估计（如"额外学习月数"）仍是粗糙的，但考虑到数据的可比性限制，这可能是现实的(p.47)
 > - 教育中元分析面临的根本问题在于干预的可重复性远低于药物，教学实践可能随时间演变产生"教学抗性"，而对这些几乎一无所知(p.36)

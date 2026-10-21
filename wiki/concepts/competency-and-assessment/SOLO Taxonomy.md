@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # SOLO Taxonomy
@@ -175,9 +175,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1982 — 理论创立与经典专著确立五级结构** [[John Biggs|约翰·比格斯]]与凯文·柯利斯出版《评估学习质量：SOLO 分类法》（*Evaluating the Quality of Learning: The SOLO Taxonomy*），开创性地提出超越[[Jean Piaget|皮亚杰]]静态认知发展阶段的质性评估工具，按回答结构复杂性确立五级层级。
 > - **1990 年代 — 高等教育教学论应用与[[Constructive Alignment|建构性对齐]]融合** 比格斯将 SOLO 深度融入高等教育教学设计，提出以行为认知动词驱动的[[Constructive Alignment|建构性对齐]]理论，将五级结构推广为国际高等教育界规范课程大纲与评估标准的通行语言。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 66–67)]]
 > - **2000 年代–2010 年代 — [[Evidence-Based Education|循证教育]]与[[Learning Progression|学业进阶]]基础设施化** 《[[Visible Learning|可见的学习]]》框架将 SOLO 采纳为贯穿显性[[Learning Intentions|学习意图]]、[[Success Criteria|成功标准]]与学业进阶（Learning Progression）的核心认知支撑，广泛用于破除师生认知盲区并诊断教学干预的认知适切性。
@@ -206,8 +204,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 将 SOLO 的五层理解结构系统转化为课程设计动词，用于建立连接目标、教学活动与表现标准的[[Constructive Alignment|建构性对齐]]模型。
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 记录[[John Hattie|哈蒂]]基于 SOLO 复杂性阶梯对[[Problem-Based Learning|基于问题的学习]]（PBL）偏低[[Effect Size|效应量]]的理论解释，论证了探究教学严格依循认知进阶规律的必要性。

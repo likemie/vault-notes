@@ -32,20 +32,16 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 自我主导性（self-authorship）是美国心理学家 [[Marcia Baxter Magolda]] 发展的学生发展理论概念，指个体根据其内在声音和核心价值观去主导自己的认知发展、自我认同和人际关系的成熟状态（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Baxter Magolda & King, 2012）。一个达到自我主导性的个体能够：（1）在认知层面，基于自我选择的信念体系做出判断，而非单纯依赖外部权威；（2）在自我认同层面，形成内在整合的自我感，而非被外部期望所定义；（3）在人际关系层面，维持真实的亲密关系而不丧失自我边界。
 >
 > > "[[Goal-Controlled Mode\|目标掌控模式]]"中的"掌控"一词，含有该理论所指涉的自我主导之意
 >
 
-## 在郑雅君（2023）中的应用
-
-> [!success|notitle] 在[[Yajun Zheng\|郑雅君]]（2023）中的应用
+> [!success] 在[[Yajun Zheng\|郑雅君]]（2023）中的应用
 > 郑雅君在建构 [[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 的区分时，将 Baxter Magolda 的自我主导理论列为三个理论灵感来源之一（另两个为[[Pierre Bourdieu\|布迪厄]]的《继承人》和 Swidler 的[[Culture as Toolkit\|文化工具箱]]理论）([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
 >
 > 二者的对应关系：
@@ -57,9 +53,7 @@ updated: 2026-10-21
 > | **人际关系** | 批判性地看待同辈常规，不为大众风潮所动 | 跟随大多数同学的选择——"大家都考我也去考" |
 >
 
-## 与阶层的关系
-
-> [!info|notitle] 与阶层的关系
+> [!info] 与阶层的关系
 > [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]对 Baxter Magolda 理论的借助同时也包含了对其理论局限的反思：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。[[Yajun Zheng\|郑雅君]]将自我主导性（作为个体能力）与 Bourdieu 的习性理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场。
 >
 

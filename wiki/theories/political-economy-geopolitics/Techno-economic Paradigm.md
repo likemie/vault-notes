@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Techno-economic Paradigm
@@ -86,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -130,17 +128,13 @@ updated: 2026-10-21
 
 ---
 
-## 认识论立场与方法含义
-
-> [!theory-stance|notitle] [[Epistemic Stances|认识论立场]]与方法含义
+> [!theory-stance] [[Epistemic Stances|认识论立场]]与方法含义
 > - **演化主义与历史唯物主义张力** 拒绝技术[[Determinism|决定论]]，主张技术经济潜力与社会政治选择之间存在复杂的共演（Co-evolution）关系。
 > - **历史比较方法论** 要求将技术变迁置于长达数十年的[[Immanuel Kant|康德]]拉季耶夫长波脉络中考察，反对仅看截面数据的短期静态回归。
 
 ---
 
-## 适用边界与误用警示
-
-> [!theory-boundary|notitle] 适用边界与误用警示
+> [!theory-boundary] 适用边界与误用警示
 > - **慎用于短期行业微调** 本理论专用于解释跨越数十年的全局性产业[[Paradigm|范式]]变革，不适合套用于企业内部普通单项软硬件工具的升级。
 > - **警惕将范式简单等同于某一具体行业** 信息技术范式指的是影响所有制造业与服务业的通用生产与管理原则，而非仅仅指代半导体或计算机制造本身。
 
@@ -154,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

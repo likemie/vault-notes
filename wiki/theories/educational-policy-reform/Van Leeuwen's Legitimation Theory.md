@@ -45,12 +45,10 @@ related_instruments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 核心主张
-
-> [!info|notitle] 核心主张
+> [!info] 核心主张
 > Van Leeuwen（2007）的合法化理论（Legitimation Theory）提出：**证据是否被接受并行动，取决于其是否与接收方现有的社会价值结构和道德假设对齐并在其中被"合法化"（legitimated）。**
 >
 > > "Evidence will be interpreted as legitimate and more likely accepted and acted on if it aligns with and is beneficial towards existing social values."([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9，综述 Van Leeuwen, 2007]])
@@ -60,9 +58,7 @@ updated: 2026-10-21
 > [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]将合法化理论与 Dewey 式的 正当理由（[[Justified Warrants]]） 概念结合，论证二者相互支持：正当理由提供了从证据到结论的逻辑标准，合法化理论解释了即使逻辑上合理的证据也会因价值不对齐而被拒绝的社会机制（p.9）。
 >
 
-## 核心命题：四个合法化层次
-
-> [!abstract|notitle] 核心命题：四个合法化层次
+> [!abstract] 核心命题：四个合法化层次
 > Van Leeuwen（2007）将合法化操作分为四个层次([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])：
 >
 > **1. 权威合法化（Authority Legitimation）**
@@ -88,38 +84,28 @@ updated: 2026-10-21
 > 四个层次不是互斥的——Bainbridge et al. 的[[Case Study\|案例研究]]表明它们**同时运作**且相互强化：文法学校因传统而具权威（层次 1）、因"good"而具道德价值（层次 2）、表面引用证据定义（层次 3）、并嵌入社会流动性奖励叙事（层次 4）。
 >
 
-## 发展脉络
-
-> [!note-|notitle] 发展脉络
+> [!note-] 发展脉络
 > [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架，未涉及该理论的后续发展或修订，本条目的知识范围因此受限于此单一来源。
 >
 > 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone and Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
 >
 
-## 认识论立场
-
-> [!info|notitle] [[Epistemology\|认识论]]立场
+> [!info] [[Epistemology\|认识论]]立场
 > 合法化理论属于**批判[[Discourse Analysis\|话语分析]]（Critical [[Discourse]] Analysis）** 传统。其[[Epistemic Stances\|认识论立场]]是[[Constructivist Paradigm\|社会建构主义]]——不假定证据本身具有固定效力，而是追问证据在特定社会-制度条件下被接受或拒绝的**话语机制**。
 >
 > 这与 [[Evidence-Based Education\|证据本位教育]] 中隐含的[[Positivism\|实证主义]]认识论形成张力——后者假定证据质量本身决定其政策影响力，而合法化理论揭示价值对齐可能是更重要的[[Variable\|变量]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9, 27]])。
 >
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - **框架过于宏观** 四个层次的区分在实践中难以精确划定边界——权威合法化和道德价值合法化经常相互渗透（如一机构被视为道德权威）。Bainbridge et al. 自身也未严格分离四个层次，而是将其作为整体解释框架使用
 > - **Van Leeuwen 原始著作未直接审查** Bainbridge et al. 通过综述形式引用该理论，未提供对 Van Leeuwen（2007）原始著作的详细解读或批评。本条目的内容因此限于 Bainbridge et al. 的转述和运用
 >
 
-## 相关研究
-
-> [!example|notitle] 相关研究
+> [!example] 相关研究
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] — 将合法化理论应用于英国议会选择性教育政策辩论分析，论证 [[Ofsted]] "good" 评级通过四个层次被合法化为"证据"，从而系统性回避了关于选择性教育负面影响的学术研究
 >
 
-## 应用领域
-
-> [!success|notitle] 应用领域
+> [!success] 应用领域
 > - [[Grammar School]] — 文法学校的 [[Ofsted]] 评级通过权威合法化 + 道德价值合法化被转化为"好学校"[[Discourse|话语]]
 > - [[Moral Sidestep]] — 合法化理论解释了道德侧步为何有效：证据如果不能在接收方的价值框架内被合法化，会被道德话语替代
 > - [[Evidence-Based Education]] — 合法化理论对 EBE 的隐含前提（证据质量 → 政策影响力）提出挑战：合法化过程可能是证据到政策转化的关键中介[[Variable\|变量]]

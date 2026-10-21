@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dilution of Comparative Education
@@ -120,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 学术影响
-
-> [!impact-cards|notitle]
+> [!impact-cards] 学术影响
 > - **强化比较教育学术共同体的危机意识** 米特的论断成为当代比较教育学界反思学科“合法性危机”的重要纲领，警示学者警惕被技术官僚数据治理完全同化。
 > - **推动比较方法论课程与专业训练规范化** 促使各国大学比较教育教席加强对研究生在比较逻辑、[[Epistemology|认识论]]传统与跨文化质性方法上的专业训练，筑牢专业防护网。
 > - **重申文化历史[[Rich and Thick Description|深描]]的不可替代性** 为抵抗新自由主义与[[Governing by Numbers|数字治理]]的量化霸权提供了坚实的认识论防线，确立了欧洲文化主义传统在全球学术版图中的长久价值。

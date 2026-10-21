@@ -67,7 +67,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-22
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -148,9 +148,7 @@ aliases:
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|

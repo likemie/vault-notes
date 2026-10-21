@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Generative AI Agent in Education
@@ -157,7 +157,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中将生成式智能体作为核心技术亚组（$k = 17, g = 0.421$），系统揭示了其促进[[Computational Thinking\|计算思维]]与写作表现的双重属性：当结合显性反思量规时产生稳健增益，若缺乏[[Scaffolding\|脚手架]]则可能诱发严重的[[Cognitive Offloading\|认知卸载]]。

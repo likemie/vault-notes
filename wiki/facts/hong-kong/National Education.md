@@ -10,7 +10,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,38 +24,37 @@ tags:
   - theme/patriotism
 related_concepts:
   - "[[Zhonghua Minzu]]"
-  - "[[Patriotic Education]]"
-  - "[[Membership-Creating Function of Education]]"
-  - "[[National Rejuvenation Narrative]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
   - "[[One Country, Two Systems]]"
+  - "[[Membership-Creating Function of Education]]"
   - "[[Sinicisation]]"
   - "[[Psychologisation]]"
-  - "[[Paradigm]]"
+  - "[[Patriotic Education]]"
+  - "[[National Rejuvenation Narrative]]"
 related_theories:
   - "[[Nation Building through Education]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Citizenship and Social Development]]"
-  - "[[Liberal Studies]]"
-  - "[[2019 Hong Kong Protests]]"
   - "[[National Security Law]]"
-  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
+  - "[[2019 Hong Kong Protests]]"
+  - "[[Citizenship and Social Development]]"
   - "[[Youth Development Blueprint]]"
+  - "[[Liberal Studies]]"
   - "[[My Pledge to Act]]"
+  - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
-  - "[[Argument_Amos_2022_Springer]]"
-  - "[[Argument_Vickers_2024_CE]]"
   - "[[Argument_Yan_2025_JCS]]"
+  - "[[Argument_Vickers_2024_CE]]"
+  - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Bulag_2024_CE]]"
 confidence: high
 status: completed
 created: 2026-05-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # National Education
@@ -184,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-09-23
+updated: 2026-10-22
 ---
 
 # Multiplicity
@@ -49,17 +49,13 @@ updated: 2026-09-23
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 层级（hierarchy） — 层级只是多样性的一种形式（如 大学排名 中的等级差异），多重性还包括质的差异和外部关系对内部现象的分化效应。例如，各国大学系统因与全球活动的不同连接方式而走向差异化，而非趋同——这一现象被 Marginson 概括为"全球化-分化悖论"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 6]])
 > - vs 多样性（diversity） — "多样性"通常指类别内既有的差异，"多重性"则强调差异是[[Relational Space\|关系性空间]]中不断生成和再生成的动态过程，包含不可控的新差异([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 7]])
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **差异共存** — 差异涵盖"多样性、从属关系、利益冲突"等所有意义（Massey, 2005, p. 61）。在特定情境中，相关区分的轴线可以不同：例如在全球科学中可以是语言和引用网络，在国际学生市场中可以是学费和移民政策([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 6]])
 > - **全球化加剧多重性** — 全球化是"一个通过连接来分化世界的共享历史过程"（Gupta & Ferguson, 1992, p. 16）。趋同产生越来越频繁的与他者相遇——例如[[International Education\|国际教育]]使学生和学者接触不同的知识传统，但这并不导致同质化，反而使差异更加可见
 > - **权力系统的非永久性** — 在不断[[Emergence\|涌现]]的[[Ontology\|本体论]]中，任何权力系统都不是永久固定的。Massey（2003）指出"总是有松散的末端"（loose ends），包括那些通过想象和实践塑造空间的人和机构行动者。Marginson 以中国和新加坡大学的崛起为例，说明即使在英美主导的全球高等教育格局中，松动末端始终存在([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 6–7]])
@@ -67,32 +63,24 @@ updated: 2026-09-23
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > 多重性概念植根于 Massey 对 20 世纪末全球化讨论的介入。她反对两种对立的简化论：一是"全球同质化"论（认为全球化使世界变得相同），二是"地方抵抗"论（认为地方文化可以免疫于全球化）。Massey 的贡献在于提出第三种立场：全球化通过连接来分化世界——更多接触产生更多差异而非更少。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一逻辑应用于高等教育，指出[[International Education\|国际教育]]的扩张并未导致全球大学的同质化，各国系统的差异反而更加显著([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 5–7]])。
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Doreen Massey]] — 多重性是 Massey 空间理论的核心概念，建立在其开放[[Ontology\|本体论]]之上，详见 Massey > 核心思想
 > - Lefebvre（1991）[[Space Production\|空间生产]]理论 — 为多重性提供了"空间是社会产物"的前提，但 Massey 比 Lefebvre 更强调空间的[[Open-Mindedness|开放性]]和未完成性
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **Pieterse（2020）** — 认为分化和普遍主义是人类事务的双重"驱动力"，二者交替主导而非一方压倒另一方，这意味着多重性可能在某些历史时期退潮([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 7]])
 > - **Marston et al.（2005）** — 认为复杂系统同时生成系统性秩序和开放[[Creativity\|创造性]]事件，但系统性秩序更常见，变异会随时间聚集并变得模仿性。这对 Massey "总是有松散的末端"的乐观有一定制衡
 
 ---
 
-## 应用领域
-
-> [!success|notitle]
+> [!success] 应用领域
 > - [[Geopolitics of Knowledge]] — 多重性意味着同质化的英语全球科学最终必然走向多元化，因为全球科学的扩张不可避免地引入更多差异轴线
 > - [[Space-Making]] — 空间制造的分析必须容纳多重轨迹和多重行动者，不能简化为单一中心-边缘逻辑
 

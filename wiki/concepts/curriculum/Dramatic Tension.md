@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Dramatic Tension
 
@@ -81,7 +81,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen, Manion & Morrison (2011, Ch. 26)]] — 将戏剧张力列为[[Role-playing\|角色扮演]]成功的核心机制，并纳入八项设计原则之一，用于维持参与者的角色信念与情境投入。

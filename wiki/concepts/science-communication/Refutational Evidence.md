@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Refutational Evidence
@@ -165,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990s — 认知心理学异常数据响应理论** 钦与布鲁尔（Chinn & Brewer, 1993）提出学习者面对“异常与反驳性数据（Anomalous Data）”的七种心理响应模型，奠定了[[Falsification\|证伪]]性信息引发认知拒斥的微观认知基础。
 > - **2000s–2010s — 概念转变理论与反驳性文本应用** 沃斯尼亚杜（Vosniadou, 2013）等学者将概念转变框架引入科学教育，开发出“反驳性文本（Refutational Texts）”结构，证实直接对比错误观念与科学原理解释能显著提升教学效果。
 > - **2023 — 德语区教师教育反驳性证据概念化** 鲍尔与科拉尔（Bauer & Kollar, 2023）正式提出“反驳性证据（widerlegende Evidenz）”[[Construct\|构念]]，将其作为解释教师抵触[[Evidence-Based Education\|循证教育]]与坚持[[Neuromyth|神经神话]]的关键心理[[Variable\|变量]]。
@@ -193,9 +191,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -209,7 +205,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 系统论证反驳性证据在缺乏建设性行动方案时引发教师心理防御与专业疏离的机制，倡导基于概念转变的双向递归科学传播。

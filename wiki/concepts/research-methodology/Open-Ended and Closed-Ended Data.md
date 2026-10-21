@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Open-Ended and Closed-Ended Data
@@ -58,9 +58,7 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **开放式 vs 封闭式数据 vs 数字 vs 文本的二分法**
 >
 > Creswell and Creswell (2023, p.232) 认为用"开放式 vs 封闭式"来区分两类数据，比"数字 vs 文本"或"数字数据 vs 故事"的二分法更精确。因为某些数据来源可以同时包含封闭式和开放式信息——例如健康数据中既有体检指标的封闭式得分，也有病历记录中开放式的病史信息。
@@ -70,9 +68,7 @@ updated: 2026-10-16
 
 ---
 
-## 在混合方法研究中的位置
-
-> [!abstract|notitle]
+> [!abstract] 在混合方法研究中的位置
 > 在 Creswell and Creswell (2023, p.231) 的[[Mixed Methods Research\|混合方法]]定义中，同时收集量化和质性两类数据是[[Mixed Methods Research\|混合方法研究]]的第一个定义性特征。量化数据以封闭式为主，质性数据以开放式为主。两类数据提供不同类型的信息来回答[[Research Question\|研究问题]]：
 >
 > - **封闭式数据** 适合检验[[Variable\|变量]]关系、测量群体差异、从样本推断总体。

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pure Evaluation
@@ -141,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2001 — 理论前身“纯粹教育”** 波普凯维茨（Thomas Popkewitz）等人在探讨现代教育改革制度史时提出“纯粹教育”（pure education）概念，指涉一种被宣称在自调节系统中独立于具体时空运转的教育学说。
 > - **2014 — 纯粹评价概念的正式提出** 丹麦学者 Tanggaard、Rømer 与 Brinkmann 在分析丹麦国家评价文化时，将“纯粹教育”的逻辑迁移至评价领域，正式界定“纯粹评价”概念，用以指称脱离本土情境与教育实质的量化问责意识形态。
 > - **2018 — 批判可见学习与[[Deschooling|去学校化]]反思** 罗默在《教育哲学与理论》发表论文，将纯粹评价作为首要理论武器，系统解构[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》背后的评价至上主义，指认其通过 138 个原子化[[Variable|变量]]与[[Meta-meta-analysis|二阶元分析]]构筑了现代去学校化的控制论牢笼。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–5)]]
@@ -165,16 +163,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 运用纯粹评价概念系统解剖可见学习的理论预设与[[Epistemology|认识论]]架构，揭示其如何将教育理论退化为自指性的控制论评价系统。（pp. 2–5）
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

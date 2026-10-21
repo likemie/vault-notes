@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Plyler v. Doe 1982
@@ -130,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

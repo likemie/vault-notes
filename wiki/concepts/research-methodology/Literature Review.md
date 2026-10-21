@@ -7,46 +7,39 @@ aliases:
 summary: "教育研究与社会科学中对已有研究文献开展系统检索、批判性评估与综合归纳的论证性学术实践；不仅为明确研究问题与构建理论框架提供跳板，而且在不同研究范式中承担从量化变量假设推导到质性归纳比较的差异化认识论功能。"
 type: concept
 domain: "research-methodology"
-related_count: 23
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - source/textbook
   - method/research-process
 related_concepts:
   - "[[Research Topic]]"
-  - "[[Reliability]]"
-  - "[[Abstract]]"
-  - "[[Literature Search]]"
   - "[[Research Question]]"
-  - "[[Primary and Secondary Documents]]"
-  - "[[Paradigm]]"
-  - "[[Epistemology]]"
-  - "[[Variable]]"
+  - "[[Literature Search]]"
+  - "[[Abstract]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Postpositivism]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Literature Map]]"
-  - "[[Memos]]"
-  - "[[Quantitative Research]]"
-  - "[[Qualitative Research]]"
-  - "[[Mixed Methods Research]]"
   - "[[Systematic Review]]"
+  - "[[Literature Map]]"
+  - "[[Effect Size]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
+  - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Literature Review
@@ -195,9 +188,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960s–1970s — 传统叙事性综述的经验化确立** 伴随现代社会科学研究的建制化发展，文献综述成为学术出版与学位研究的前置基石，主要以叙事性手法梳理学术源流与思想谱系。
 > - **1980s–1990s — 循证医学驱动与系统综述（SLR）范式兴起** 循证思潮批判传统文献综述存在主观筛选偏误，正式引入包含明确检索式、纳入排除标准与质量评估的系统文献综述方法，并逐步扩展至教育学与社会政策领域。
 > - **2000s — 教科书对综述论证本质与范式角色的系统化界定** Cohen et al. (2000/2011) 系统提出文献综述的七项目的与四步论证进路；[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 明确将文献区分为量化中的变量演绎指导者、质性中的文末对照参照系以及混合设计中的动态平衡要素。
@@ -239,9 +230,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 将文献综述作为研究方案的核心支柱，系统阐释其在量化变量演绎、质性文末比较与混合方法路径中的差异化设计策略（pp. 25–30）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 将文献综述作为选题论证的核心依据（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|第 6 章]]，p. 112），并系统确立由论题方向、支持证据、对立材料至批判结论的四步论证结构与写作规程（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|第 7 章]]，pp. 126–128）。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 1)]] — 系统阐明文献综述的核心任务、阅读文献的三种策略（浏览、泛读、精读）、五部分撰写结构以及避免单篇摘要堆砌的注意事项（pp. 18–20）。

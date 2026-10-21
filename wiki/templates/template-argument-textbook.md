@@ -42,7 +42,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | [[Argument_BookFolder_Ch01|第1章 <章节标题>]] | 用一两句话说明这一章主要讲什么。 | [[<概念名>]]、[[<方法名>]]、[[<理论名>]] |
+> | [[Argument_BookFolder_Ch01\|第1章 <章节标题>]] | 用一两句话说明这一章主要讲什么。 | [[<概念名>]]、[[<方法名>]]、[[<理论名>]] |
 > | 第<X>章 <章节标题> | 若不分章节建页，保留普通章节名即可。 | [[<概念名>]]、[[<方法名>]]、[[<理论名>]] |
 
 > [!knowledge-map] 知识路线图
@@ -75,9 +75,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% <book-folder> 与 sources/ 下的教材文件夹名一致。案例或练习无图时，删除图片行，改为说明文字或链接到对应条目。 %%
 
-#### 关键引用
-
-> [!citation-card|notitle] 关键引用
+> [!citation-card] 关键引用
 > 中文译文或中文原文。（第X章，p.X）
 >
 > *Original text or English translation.*

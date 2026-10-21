@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,32 +27,27 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[European Education Space]]"
   - "[[Space of Equivalence]]"
-  - "[[Data Infrastructure]]"
-  - "[[Commensuration]]"
-  - "[[Externalization]]"
-related_theories:
-  - "[[Governmentality]]"
+related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Expert Interview]]"
-  - "[[In-depth Interview]]"
-  - "[[Documentary Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Jenny Ozga]]"
   - "[[Sotiria Grek]]"
   - "[[Bob Lingard]]"
 related_facts:
+  - "[[PISA]]"
+  - "[[Lisbon Strategy]]"
+  - "[[Eurydice]]"
   - "[[EU]]"
   - "[[OECD]]"
-  - "[[PISA]]"
-  - "[[Eurydice]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Fabricating Quality in European Education
@@ -147,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

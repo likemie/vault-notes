@@ -40,25 +40,21 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Brazilian Secondary Education Curriculum Reform 1998
 
 ---
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 1990 年代，阿根廷、巴西和智利的中等教育课程改革在官方修辞上强烈批判传统的[[Encyclopaedism\|百科全书主义]]（强调学生需记忆大量脱离语境的事实知识），转向以能力发展为导向的教育理念。这一转向呼应了[[OECD]]、[[World Bank\|世界银行]]和 [[UNESCO]] 等国际机构在全球层面倡导的能力[[Discourse|话语]]。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 
 巴西先前的教育形式被官方文件描述为去语境化、被切割为隔间、基于信息积累。改革的核心目标是将学校知识从碎片化的学科分类转向以跨学科能力为基础的整合框架。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 
 ---
 
-## 政策文本
-
-> [!abstract|notitle]
+> [!abstract] 政策文本
 > 1998 年，巴西国家教育委员会通过 Resolução Ceb/Cne N° 03/98，颁布了《国家中等教育课程指南》（Diretrizes Curriculares Nacionais Para O Ensino Médio）。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 
 ### 三大领域
@@ -84,9 +80,7 @@ updated: 2026-10-15
 
 ---
 
-## 理论意义
-
-> [!abstract|notitle]
+> [!abstract] 理论意义
 > [[Argument_Beech_2009_CE|Beech (2009a)]]将巴西课程改革作为国家层面[[Floating Signifier\|漂浮能指]]选择性具体化的核心案例，论证了这一矛盾不是改革的失败或被利益集团绑架，而是国家层面[[Discourse|话语]]转化的结构性产物。
 
 国家同样需要稳定而同时可塑的话语来应对不同的利益相关者。面对国际机构和改革派，政府强调三大领域和跨学科工作；面对教师工会和保守派，政府强调学科知识的保留和延续。不兼容声明的组合是政治上的功能，不是逻辑上的失误。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 356–357)]]
@@ -95,9 +89,7 @@ updated: 2026-10-15
 
 ---
 
-## 相关概念／理论
-
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 > - [[Encyclopaedism\|百科全书主义]] — 巴西改革在修辞层面批判百科全书主义，但在实践层面保留了其核心结构（14 门学科）。
 > - [[Floating Signifier\|漂浮能指]] — 能力发展这一全球漂浮能指在巴西被选择性具体化：既采纳了能力[[Discourse|话语]]的修辞，又保留了百科全书式学科知识。
 > - [[Governance by Spin\|舆论操控]] — 三大领域与 14 门学科的共存体现了舆论操控的双层运作：对国际机构展示革新面，对国内保守派展示延续面。

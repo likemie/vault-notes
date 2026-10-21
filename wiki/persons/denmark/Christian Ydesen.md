@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Christian Ydesen
@@ -92,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1977** 出生于丹麦。
 > - **2007–2011** 获丹麦哥本哈根大学博士学位，博士论文深入考察 20 世纪跨国智力测验与心理测量技术的制度化传播。
 > - **2011–2017** 任职于丹麦奥尔堡大学教育、学习与哲学系，主持丹麦独立研究基金会（DFF）关于[[OECD\|经合组织]]教育治理历史的多项重大科研项目。
@@ -148,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作关系** [[Gita Steiner-Khamsi]] — 长期学术合作伙伴，共同推进[[Policy Borrowing\|政策借用]]与借用理论在[[Governing by Numbers\|数字治理]] 2.0 时代的深化。
 > - **师承／合作关系** [[Kerstin Martens]] — 国际关系与全球社会政策研究合作伙伴，共同探索多边组织涉足教育的法定授权机制。
 > - **师承／合作关系** Maren Elfert — 合作撰写《全球教育治理》（2023），系统重构 [[UNESCO]] 与[[World Bank\|世界银行]]/[[OECD]] 的六十年博弈史。
@@ -181,9 +177,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Complex Instruction Programme
@@ -157,9 +157,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

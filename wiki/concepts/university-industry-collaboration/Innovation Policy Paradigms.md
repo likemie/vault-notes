@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Innovation Policy Paradigms
@@ -238,9 +238,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统梳理英美等国创新政策三[[Paradigm|范式]]演进历程，深度阐发大学在[[Knowledge Production|知识生产]]、系统催化与方向贡献上的角色转型。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述从市场修复向[[Market Shaping and Creating|市场塑造]]与共创跃迁的理论逻辑，提出 ROAR 治理框架与五大实施准则。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出[[Transformative Change|变革转型范式]]下的问题–解决方案空间，系统解构重大社会挑战的双重棘手性与收敛治理路径。

@@ -64,7 +64,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2015
 doi: ""
 citation_aliases:
@@ -82,9 +82,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 从三个层面展开批评，然后提出替代方案
 >
 > - 转移概念的静态和领土性空间假设
@@ -216,9 +214,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 >
 > **既有词汇的局限**。转移、全球化、[[Policy Borrowing\|政策借用]]等概念基于领土性和静态的空间假设，无法捕捉教育[[Discourse|话语]]跨空间流通的复杂性。这些概念有时被用作逃避复杂性的舒适方式。
 >
@@ -251,9 +247,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 >
 > **[[Actor-Network Theory\|ANT]] 的浅层使用**。对 ANT 的使用相当肤浅，仅作为[[Relational Space\|关系性空间]]概念如何克服传统框架局限的例证，并非将 ANT 作为理论方法论万能药推广。
 >

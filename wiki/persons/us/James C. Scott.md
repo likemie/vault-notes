@@ -9,7 +9,7 @@ summary: "美国著名比较政治学家与政治人类学家，耶鲁大学斯�
 type: person
 subtype: scholar
 person_region: "us"
-person_related_count: 8
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -29,12 +29,10 @@ tags:
 related_concepts:
   - "[[State Simplification]]"
   - "[[Technical Rationality]]"
-  - "[[Governing at a Distance]]"
-  - "[[Pluralism]]"
 related_theories:
   - "[[Governing by Inspection]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Pluralism]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # James C. Scott
@@ -60,9 +58,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1936** 出生于美国新泽西州芒特霍利（Mount Holly）。
 > - **1958** 毕业于威廉姆斯学院，获学士学位。
 > - **1967** 获耶鲁大学政治学博士学位，博士研究聚焦马来西亚地方行政精英的意识形态。
@@ -101,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政治学与人类学** 彻底打破国家中心主义的实证主义叙事，开辟了底层抵抗研究与非国家政治地理学范式。
 > - **公共管理与社会政策** 成为当代政策社会学解构量化问责、关键绩效指标（KPI）崇拜与审计社会的理论利刃。
 > - **教育督导与循证治理批判** 其“国家简化”与“实践智慧”范畴被欧洲批判教育学者广泛借用；塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, p. 653]]）直接以其概念揭示瑞典学校督察局如何通过十项评估指标与知识综述，对复杂的教育现实与充满争议的科学研究推行国家简化，排斥学术多元性。
@@ -122,9 +116,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

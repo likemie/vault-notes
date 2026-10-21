@@ -8,10 +8,10 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 66
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 58
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/epistemology
   - theme/research-philosophy
@@ -32,13 +32,12 @@ related_concepts:
   - "[[Critical Dualism]]"
   - "[[Rich and Thick Description]]"
   - "[[Externalization]]"
-  - "[[Postpositivism]]"
-  - "[[Falsification]]"
-  - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[Scientific Paradigm]]"
   - "[[Value Neutrality]]"
+  - "[[Postpositivism]]"
+  - "[[Scientific Paradigm]]"
   - "[[National Character]]"
+  - "[[Subsidiarity Principle]]"
+  - "[[Governing by Numbers]]"
   - "[[Paradigm Wars]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Intercultural Education]]"
@@ -47,12 +46,10 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Research Question]]"
   - "[[Developmentalism]]"
-  - "[[Subsidiarity Principle]]"
-  - "[[Governing by Numbers]]"
 related_theories:
-  - "[[Critical Theory]]"
   - "[[Critical Realism]]"
   - "[[Theories of the Driving Forces]]"
+  - "[[Critical Theory]]"
   - "[[Postmodernism]]"
   - "[[Pluralism]]"
   - "[[Autopoiesis]]"
@@ -64,35 +61,30 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Problem Approach]]"
-  - "[[Historical-Comparative Method]]"
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Thomas Kuhn]]"
-  - "[[Mark Schneider]]"
+  - "[[Louis Cohen]]"
+  - "[[Wolfgang Mitter]]"
+  - "[[Friedrich Schneider]]"
   - "[[Karl Popper]]"
   - "[[Jürgen Habermas]]"
   - "[[Brian Holmes]]"
-  - "[[Friedrich Schneider]]"
-  - "[[Wolfgang Mitter]]"
-  - "[[Louis Cohen]]"
   - "[[Niklas Luhmann]]"
   - "[[Jurgen Schriewer]]"
 related_facts:
   - "[[Positivist Dispute in German Sociology]]"
-  - "[[PISA]]"
-  - "[[OECD]]"
-  - "[[EU]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mitter_2009_Europe]]"
-  - "[[Argument_Chou_Demiryol_2024_HE]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Paradigm
@@ -230,8 +222,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变
 > - **1962 — 库恩科学哲学奠基** [[Thomas Kuhn|托马斯·库恩]]出版《科学革命的结构》，确立常规科学、异常、危机与范式转换理论，打破了逻辑[[Positivism|实证主义]]平稳线性积累的科学进步观。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新马克思主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
@@ -270,8 +260,6 @@ updated: 2026-10-21
 > 范式概念若被滥用，极易退化为一种“学术部落主义”的标签化工具，阻碍跨阵营的理性学术对话与互证；在教育实务探究中，过分执念于范式纯粹性往往会牺牲对复杂教育实态的解释力与行动改进效能。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。

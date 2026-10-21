@@ -101,9 +101,7 @@ updated: 2026-10-22
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -159,9 +157,7 @@ updated: 2026-10-22
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 具有高度技术结构化与中度以上制度化水平的规制型政策领域（如测评问责、量化指标体系、绩效审计与环境标准）。
 > - **成立条件** 国家治理具备科层化或网络化规制工具载体；存在可追踪的技术规章与指标演变档案。
 > - **解释不足** 偏重于中观政策工具与宏观制度结构的互动，对学校与课堂层面基层一线人员（教师、校长）日常微观实践中的戏仿、转译、规避与抵抗动力学刻画不足；原初模型基于欧洲与北美行政体制，对非西方国家或威权体制下的混合治理形态适用性仍待检验。
@@ -185,9 +181,7 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 结合政策工具社会学与[[Historical Institutionalism|历史制度主义]]，通过全球 158 篇文献系统解构国家评估与[[Test-Based Accountability|考试问责]]工具在三大行政传统下的分层化演进与制度锁定机制。（pp. 249–264）
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 援引拉斯库姆等政策工具理论，分析[[European Education Space|欧洲教育空间]]如何将数据指标作为[[Governing by Numbers|数字治理]]装置实现远处掌舵。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 运用政策工具理论审视跨国大学联盟的准入标准与组织架构，透视高等教育网络中的[[Knowledge Power|知识权力]]投射。

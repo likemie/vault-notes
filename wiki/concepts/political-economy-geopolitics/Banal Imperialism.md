@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Banal Imperialism
@@ -106,9 +106,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 详述了平庸的帝国主义如何作为超国家数据网络对非西方实施他者化和认识规训的当代手段。
 > - [[Re-Westernisation]] (再西方化) — 再西方化利用平庸帝国主义作为大数据[[Governing at a Distance\|远处治理]]的核心承载物。
 > - Governing at a Distance (远处治理) — 数据化平庸帝国主义最核心的制度与测评执行机制。

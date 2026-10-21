@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Success Criteria
@@ -161,8 +161,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 系统呈现毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。
 > - **[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]]** 记录[[John Hattie|哈蒂]]对原子化[[Learning Intentions|学习意图]]误用的反思，主张以 10 至 12 周大周期成功标准呈现优秀样例，融合表层与深层认知进阶。

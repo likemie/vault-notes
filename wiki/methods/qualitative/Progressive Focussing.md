@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Progressive Focussing
@@ -55,17 +55,13 @@ updated: 2026-10-21
 >
 > *Progressive focussing starts with the researcher taking a wide angle lens to gather data, and then, by sifting, sorting, reviewing and reflecting on them, the salient features of the situation emerge. These are then used as the agenda for subsequent focusing. The process is like funnelling from the wide to the narrow.*
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **广角收集（Wide Angle Collection）** 初始阶段不加预设地广泛收集各类质性数据（观察、访谈、文档、[[Field Notes\|田野笔记]]等），确保不遗漏可能重要的维度。
 > - **筛选与归类（Sifting and Sorting）** 对大量数据进行初步组织和分组，识别重复出现的主题、模式和差异。
 > - **审视与反思（Reviewing and Reflecting）** 对初步归类进行批判性审视，评估哪些特征最显著、最频繁出现、对理解情境最核心。
 > - **聚焦（Focussing）** 将识别的显著特征作为后续数据收集和分析的核心议程，丢弃次要线索，集中资源深入关键维度。
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1976 — 提出阶段** Parlett and Hamilton 在"作为启明的评估"（Evaluation as Illumination）[[Paradigm\|研究范式]]中提出逐步聚焦，用于应对改革项目的复杂性和质性数据的庞大量。
 > - **1980s — 被纳入[[Qualitative Research\|质性研究]]方法论** Miles and Huberman（1984）将逐步聚焦逻辑纳入其质性数据[[Analytic Framework\|分析框架]]，强调[[Data Reduction\|数据缩减]]和[[Data Display\|数据展示]]的重要性。
 > - **2000s — 与[[Longitudinal Study\|纵向研究]]结合** 在纵向质性研究中，逐步聚焦帮助研究者管理持续涌入的新数据，在跨截面分析（cross-sectional）和纵向[[Narrative Analysis\|叙事分析]]（longitudinal narrative）之间取得平衡。
@@ -76,7 +72,5 @@ updated: 2026-10-21
 > - 不等于 [[Theoretical Sampling]] — 逐步聚焦是数据分析和焦点收窄策略，不直接决定下一个受访者或案例的选取；理论抽样则是在数据分析后决定下一步去哪里收集数据。
 > - 不等于 [[Analytic Induction]] — 逐步聚焦是在分析过程中收窄关注范围，不必然涉及主动寻找负面案例来检验理论。
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 将逐步聚焦纳入质性数据分析的七步骤框架的总体策略，并指出其在[[Longitudinal Study\|纵向研究]]中的应用（p. 435–436）。

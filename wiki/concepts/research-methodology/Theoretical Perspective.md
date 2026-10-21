@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Theoretical Perspective
@@ -206,9 +206,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s–1960s — 隐性预设与[[Structural Functionalism|结构功能主义]]单一正统垄断** 战后初期比较教育研究大量缺乏显性理论视角（拉斯特计量显示高达 32.7% 的研究未阐明[[Theoretical Standpoint|理论立场]]）；随后诺亚与埃克斯坦推动实证[[Scientism|科学主义]]，结构功能主义成为唯一的统治性显性[[Paradigm|范式]]。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 > - **1970s–1980s — 范式大论争与写作规范化** 冲突理论、新马克思主义与[[World-Systems Theory|世界体系理论]]正面挑战正统功能主义；同时在美国教育研究协会（[[American Educational Research Association|AERA]]）等专业共同体推动下，“理论视角”成为[[Research Proposal|课题申报]]与实证研究设计的规范构件。
 > - **1986 — 实证[[Research Writing Script|写作脚本]]经典范例确立** 克鲁奇菲尔德（Crutchfield, 1986）在学术生产力研究中完整示范了将[[Social Learning Theory|社会学习理论]]作为“理论视角”的五步阐释结构，以[[Locus of Control|控制点]]等[[Independent Variable|自变量]]演绎预测学术产出，成为方法论经典教科书范本。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 60–62)]]
@@ -258,9 +256,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述[[Quantitative Research|量化研究]]计划中理论视角章节的[[Research Writing Script|写作脚本]]、彩虹桥梁比喻及克鲁奇菲尔德经典案例。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合罗布森与菲利普斯的研究分层理论，实证计量 26 种理论视角的长程演进，确立理论视角作为上位方法论的[[Epistemology|认识论]]合法性。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 揭示[[Geopolitics|地缘政治]]与[[Developmentalism|发展主义]]二元理论视角在跨国大学联盟中的解释盲区，提出基于[[Tianxia Heuristic|天下观]]的非西方理论视角（pp. 1702–1705）。

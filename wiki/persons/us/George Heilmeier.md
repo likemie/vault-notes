@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # George Heilmeier
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1936** 出生于美国宾夕法尼亚州费城，后获得宾夕法尼亚大学电气工程学士学位及普林斯顿大学固态电子学博士学位。
 > - **1964–1968** 在 RCA 实验室发现动态散射模式，成功研制出世界上第一台液晶显示工作原型，为现代显示器产业奠定物理基础。
 > - **1975–1977** 出任 [[DARPA]] 第五任局长；制定著名的“[[Heilmeier Catechism|海尔迈耶问卷]]”，推动该机构在 《[[Mansfield Amendment 1969|曼斯菲尔德修正案 1969]]》 出台后的战略转型，将资助重心聚焦于具有明确军事变革潜力的大型颠覆性项目（如隐形战机技术、反潜作战声学探测、空间红外监视）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
@@ -120,18 +118,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **机构管理者** [[DARPA]] — 1975–1977 年出任第五任局长。
 > - **制度工具** [[Heilmeier Catechism]] — 亲手制定并制度化为国家前沿研发立项审查标准。
 > - **政策背景** [[Mansfield Amendment 1969]] — 应对国会关于科研经费必须直接服务军事需求的立法限制，重构 DARPA 项目管理体系。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

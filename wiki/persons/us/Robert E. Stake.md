@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Robert E. Stake
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927** 出生于美国。
 > - **1958** 获普林斯顿大学心理测量学博士学位，奠定其早期量化[[Evaluation Research|评估研究]]的理论基础。
 > - **1963–至今** 加入伊利诺伊大学厄巴纳-香槟分校，长期任职于教育学院，并出任教育质量研究与课程评估中心（CIRCE）主任，发展出以自然主义[[Fieldwork|田野调查]]为核心的教育评估[[Paradigm|范式]]。
@@ -121,9 +119,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

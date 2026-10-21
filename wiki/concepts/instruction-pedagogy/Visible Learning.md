@@ -180,7 +180,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Visible Learning
@@ -212,9 +212,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 可见的学习（Visible Learning） | [[Effect Size\|效应量（Effect Size）]] | [[Evidence-Based Education\|循证教育（Evidence-Based Education）]] |
 > |---|---|---|---|
 > | **分析对象** | 跨领域的教学干预[[Research Synthesis\|证据综合]]、教师思维框架与学校反思改进体系 | 衡量两组差异或纵向增值强度的标准化统计指标（均值差/标准差比值） | 循证原则在教育政策制定与学校[[Praxis\|实践]]中的宏观制度化运动 |
@@ -356,9 +354,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1987–1992 — [[Meta-meta-analysis|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis|元分析]]、22,155 个[[Effect Size|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）后，格雷斯（[[Argument_Grace_2010_NZJES|Grace, 2010]]）进一步发表学理质询，区隔学术领域批评者与[[Critic and Conscience of Society|社会的批评者与良知]]，指认排除非学校因素的[[Educational Reductionism|教育还原主义]]为维持现状与推卸阶级治理责任提供政治掩护。
@@ -483,9 +479,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 奠定 VL 理论与统计框架，提出 $d=0.40$ 关节点、30% 教师方差贡献、[[Assessment Tools for Teaching and Learning\|asTTle]] 形成性三提问与[[Learning Progression\|学业进阶]]共享语言。
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] — 提炼八项教师思维框架、DIE 教学循环及高等教育情境下的六项高影响条件。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 从学习科学与脑科学视角解读 VL，提出“使学校成为反馈文化”的组织转型主张。

@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Actor-Network Theory
@@ -120,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -205,9 +203,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国教育[[Policy Borrowing\|政策借用]]与流动、数字教育软硬件在微观课堂的落地调适、跨界[[Policy Network\|政策网络]]（政-商-产-学）以及中介机构治理等复杂异质情境。
 > - **成立条件** 研究者必须具备获取多尺度异质材料的可行性（如深入课堂进行观察，或调取法律底册、企业注册和财务档案）。
 > - **解释不足** 对宏观历史大周期发展规律、长程阶级结构固化及深度心理心智加工过程的阐释力较弱，容易陷入对当下一刻关系网的过度沉溺。
@@ -235,9 +231,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 ANT [[Center of Calculation\|计算中心]]理论与[[Topological Spatialisation\|拓扑空间]]学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的[[Governing at a Distance\|远处治理]]与政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合 ANT、[[Network Ethnography\|网络民族志]]与耐用材料装配视角，解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation\|共同从属]]及麦肯锡系[[Venture Philanthropy\|风险慈善]]渗透网络。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。

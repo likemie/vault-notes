@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Carlota Perez
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1939** 出生于委内瑞拉加拉加斯。
 > - **1970s** 在委内瑞拉能源与矿业部及工业部任职，亲历石油危机与发展中国家技术引进的制度阻滞。
 > - **1980s** 赴英国萨塞克斯大学科技政策研究所（SPRU）访学，与 [[Chris Freeman]] 展开长达数十年的密切合作。
@@ -117,18 +115,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心学术合作者** [[Chris Freeman]] — 共同提炼和完善“[[Techno-economic Paradigm|技术-经济范式]]”长波理论体系。
 > - **理论盟友** [[Bengt-Åke Lundvall]] — 共同将演化创新理论拓展至国家制度学习与多样性比较。
 > - **理论盟友** [[Richard Nelson]] — 共同探讨技术体制与制度环境的演化共生。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

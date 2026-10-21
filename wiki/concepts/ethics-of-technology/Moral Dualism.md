@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Moral Dualism
@@ -164,9 +164,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1968 — [[Paulo Freire|弗莱雷]]《被压迫者教育学》确立经典二元论** [[Paulo Freire|保罗·弗莱雷]]提出压迫者与被压迫者的绝对伦理界定，主张被压迫者在历史上从未发起暴力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968; Karp & Zamiska, 2025, p. 53)]]
 > - **1996 — 基利《文明前的战争》考古学解构** [[Lawrence H. Keeley|劳伦斯·基利]]以扎实人类学数据证明前现代部落暴力普遍存在，解构[[Jean-Jacques Rousseau|卢梭]]式的高贵野蛮人和平神话。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Keeley, 1996; Karp & Zamiska, 2025, pp. 53–54)]]
 > - **2023 — [[Remi Adekoya|阿德科亚]]与莫林对道德屈尊的理论反思** 雷米·阿德科亚与卡米尔·莫林系统批判将无权等同于虔诚的[[Epistemology|认识论]]偏误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Adekoya, 2023; Morin, 2023; Karp & Zamiska, 2025, pp. 53–54)]]
@@ -195,9 +193,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
@@ -208,8 +204,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻批判西方学术与科技界沉溺的压迫者与被压迫者道德二元论，通过人类学证据与现实地缘冲突揭示绝对和平主义的虚伪性，确立以[[Hard Power|硬实力]]技术威慑守护民主秩序的伦理合法性。
 

@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Andreas Schleicher
@@ -92,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1964** 出生于西德汉堡，早年在汉堡大学攻读物理学，后在澳大利亚迪肯大学获得数学与统计学理学硕士学位。
 > - **1986–1993** 在[[IEA\|国际教育成就评价协会]]（[[IEA]]）担任数据分析主管，主导阅读素养调查（[[Research Literacy Scale for Teachers\|RLS]]）并参与第三次国际数学与科学研究（[[TIMSS]]）先期取样与统计规程设计。
 > - **1994–2001** 加入[[OECD\|经合组织]]（[[OECD]]），担任[[Performance Indicators\|教育指标]]与分析处副处长，推动[[International Indicators of Education Systems\|国际教育指标项目]]（[[International Indicators of Education Systems\|INES]]）制度化，并构思启动[[PISA\|国际学生评估项目]]（[[PISA]]）的跨文化素养测量框架。
@@ -147,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **机构／运动／项目** [[OECD]] — 长期担任教育与技能司司长，领导经合组织全球教育战略。
 > - **机构／运动／项目** [[PISA]] — 担任总设计师与项目负责人，主导测试设计与全球报告发布。
 > - **批评者／论敌** 83 位国际顶尖学者 — 2014 年 5 月在英国《卫报》联名致信施莱歇尔，抗议 PISA 窄化课程、加剧应试狂热与推行全球公学商业化。
@@ -184,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

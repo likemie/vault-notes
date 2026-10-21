@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Transformation of Singapore International School into United World College of South East Asia
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **成员资格转向承诺组合** 校园形式、学生年龄、全体寄宿和统一缴费结构不再构成单一门槛。课程、领导层、奖学金、服务与持续组织承诺共同成为判断依据。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 116–117)]]
 > - **既有学校成为扩展载体** [[United World Colleges\|UWC]] 可以通过改变现有学校的课程、人员和国际联系扩大影响，降低重新购地和建设校园的资本需求。
 > - **IB 成为共同制度接口** 学校先让 IB 与普通教育高级程度考试（General Certificate of Education Advanced Level，A-level）并行，随后因学生选择、师资和重复课程成本取消后者，只保留 IB。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 115–116)]]
@@ -109,9 +107,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

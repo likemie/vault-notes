@@ -24,31 +24,31 @@ tags:
   - assessment
   - theme/intermediary-organisation
 related_concepts:
+  - "[[Gatekeepers]]"
   - "[[Test Production]]"
   - "[[Initial Teacher Training]]"
-  - "[[Gatekeepers]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
 related_persons: []
 related_facts:
-  - "[[LANTITE]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
   - "[[Teacher Education Ministerial Advisory Group]]"
+  - "[[LANTITE]]"
+  - "[[IEA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Education Research Organisation]]"
-  - "[[IEA]]"
 related_arguments:
-  - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Australian Council for Educational Research
@@ -140,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

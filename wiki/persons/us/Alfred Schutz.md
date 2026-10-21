@@ -54,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alfred Schutz
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1899年** 出生于奥匈帝国维也纳一个德语犹太中产银行世家。
 > - **1918–1921年** 在维也纳大学攻读法律与社会科学，受到路德维希·冯·米塞斯（Ludwig von Mises）私人讨论班与[[Max Weber\|马克斯·韦伯]]（[[Max Weber]]）理解社会学传统的深刻熏陶。
 > - **1921–1938年** 在维也纳银行业担任常务法律顾问，业余潜心研读亨利·柏格森（Henri Bergson）的时间与绵延理论，随后转向胡塞尔[[Phenomenology\|现象学]]。1932年出版德文名著《社会世界的意义构成》（*Der sinnhafte Aufbau der sozialen Welt*），奠定现象学社会学基石，胡塞尔赞誉其为“真正理解先验现象学精髓的极少数思想家之一”。
@@ -138,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／思想渊源**
 >   - **[[Edmund Husserl\|埃德蒙德·胡塞尔]]（Edmund Husserl）** [[Phenomenology\|现象学]]思想领路人，舒茨将其先验主体[[Intent-to-Treat Analysis\|意向性分析]]转译至世俗的社会生活世界中。
 >   - **[[Max Weber\|马克斯·韦伯]]（Max Weber）** 理解社会学开拓者，舒茨旨在通过现象学为韦伯的“主观意图”概念提供坚固的[[Epistemology\|认识论]]地基。
@@ -167,9 +163,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Phenomenology\|现象学]] | 理论 | 将欧陆先验哲学转译为世俗的现象学社会学，确立生活世界的中心地位。 |

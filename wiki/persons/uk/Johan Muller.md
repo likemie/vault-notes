@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Johan Muller
 
@@ -63,9 +63,7 @@ updated: 2026-10-16
 
 ---
 
-## 与其他学者的关系
-
-> [!example|notitle]
+> [!example] 与其他学者的关系
 > - 与 Young 长期合作，共同提出[[Powerful Knowledge\|有力知识]]概念（Young & Muller, 2010; Muller & Young, 2019）
 > - 继承 Bernstein 的知识结构理论
 > - 与 Hoadley 合作研究南非课程改革与[[Academic Achievement\|学业成就]]不平等

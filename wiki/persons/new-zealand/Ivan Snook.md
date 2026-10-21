@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ivan Snook
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1932** 出生于新西兰。
 > - **1960–1972** 获美国伊利诺伊大学（University of Illinois）博士学位，师从分析哲学与教育哲学名家；1972 年出版奠基作《灌输与教育》（*Indoctrination and Education*）及《灌输的概念》（*Concepts of Indoctrination*），确立国际学术声誉。
 > - **1970–1990s** 长期执教于新西兰梅西大学教育系，历任教育学讲席教授、系主任；积极介入新西兰国家课程改革、道德教育与公立学校体制辩论。
@@ -124,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **密切合作者** [[John O'Neill]]、John Clark、Anne-Marie O'Neill、Roger Openshaw — 长期共同执教于梅西大学教育学院，组成新西兰教育批判研究核心团队。
 > - **同侪学者** [[Roy Nash]] — 同在梅西大学，共享批判教育社会学与哲学对阶层不平等与方法论霸权的深层反思。
 > - **批评者／论敌** [[John Hattie]] — 针对《[[Visible Learning|可见的学习]]》所代表的新自由主义[[Research Synthesis|证据综合]]取向展开国际瞩目的学术论辩。
@@ -134,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

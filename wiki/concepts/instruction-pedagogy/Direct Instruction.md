@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Direct Instruction
@@ -254,9 +254,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960–1970 年代 — 脚本化 DI 奠基与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，奠定了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching\|有效教学]][[Paradigm\|范式]]。
 > - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -338,9 +336,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach\|学科融入模式]]在[[Critical Thinking\|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
 > - [[Argument_Zhao_2017_JEC\|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size\|效应量]]崇拜背后的生态代价。
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美[[Positivism\|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm\|范式]]差异。

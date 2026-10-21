@@ -94,7 +94,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Survey Research
@@ -114,22 +114,16 @@ updated: 2026-10-20
 
 调查在复杂性上差异很大，从提供简单频数统计到呈现关系分析不等。调查在范围上也各有不同，可以从整个西欧的后中等教育发展到仅限一所中学的科目选择（pp.258–259）。
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > Creswell & Creswell (2022, Ch8) 将调查方法计划的组成部分系统分解为以下几个环节：
 
-### 调查设计
-
-> [!info|notitle]
+> [!info] 调查设计
 > - **调查目的** 回答关于[[Variable\|变量]]间关系的[[Research Question\|研究问题]]，如"加班时数是否预测急诊护士的倦怠症状"。
 > - **使用调查方法的理由** 认可调查设计的优势（经济性、数据回收迅速），并说明为何其他设计（如实验）不可行或不合理。
 > - **调查类型** [[Cross-sectional Study\|横截面研究]]（cross-sectional）在单一时间点收集数据；[[Longitudinal Study\|纵向研究]]（longitudinal）在多个时间点收集数据。
 > - **数据收集形式** 邮寄、电话、互联网、个人访谈或团体施测（Fowler, 2014; Fink, 2016; Krueger & Casey, 2014）。[[Internet-based Survey\|互联网调查]]工具（如 Qualtrics、Survey Monkey）和在线受试者平台（如 Amazon Mechanical Turk、Prolific）近年来增长显著（Buhrmester et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。
 
-### 总体与样本
-
-> [!abstract|notitle]
+> [!abstract] 总体与样本
 > - **研究总体（[[Study Population and Sample\|study population]]）** 研究者希望做出推论的全部人群。
 > - **研究样本（Study Sample）** 调查中实际检验的受试者子集。
 > - **抽样设计（Sampling Design）** 单[[Stage Sampling\|阶段抽样]]（可直接获取总体名单并直接抽样）或多阶段／[[Cluster Sampling\|整群抽样]]（先识别群组，再在群内抽样）（Babbie, 2015; 引自 Creswell & Creswell, 2022, Ch8）。
@@ -137,9 +131,7 @@ updated: 2026-10-20
 > - **分层（Stratification）** 在抽样前按特定特征（如性别、收入、教育）分层，确保样本反映总体在各特征上的真实比例（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 > - **[[Sample Size Determination\|样本量确定]]与功效分析** 样本量应基于分析计划和预期结果确定，而非简单取总体一定比例或基于过去研究的惯例。若分析计划涉及检测变量间显著关联，可使用功效分析（如 G*Power; Faul et al., 2007, 2009）估算目标样本量（Kraemer & Blasey, 2016; 引自 Creswell & Creswell, 2022, Ch8）。
 
-### 工具
-
-> [!info|notitle]
+> [!info] 工具
 > - **工具与测量** 工具（instrument）是收集变量测量值的设备（如温度计之于体温，[[Questionnaire\|问卷]]之于倦怠症状）。测量（measure）在社会科学中通常指研究受试者的某种特征。
 > - **工具的效度** 报告过去使用该工具所获得分数的已确立效度。两个常见形式为[[Construct Validity\|构念效度]]（工具是否准确测量目标[[Construct\|构念]]）和效标／[[Concurrent Validity\|同时效度]]（工具是否与金标准测量相关联或预测效标测量）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 > - **工具的[[Reliability\|信度]]** 报告分数的[[Internal Consistency\|内部一致性]]（internal consistency），即多项目工具的条目间是否测量同一构念，通过 [[Cronbach's Alpha\|Cronbach's α]] 值量化（范围 0–1，最佳值.7–.9）。如 10 项 Perceived Stress Scale（PSS; Cohen et al., 1983）在三项研究中内部一致性为 α =.84–.86。[[Test-Retest Reliability\|重测信度]]（test-retest reliability）评估工具在重复施测中的稳定程度。若修改或组合工具，原有信效度可能不再成立（, Ch8）。
@@ -148,9 +140,7 @@ updated: 2026-10-20
 > - **[[Pilot Testing\|试点测试]]（Pilot Testing）** 评估工具对研究样本的适用性、条目内部一致性，改进问题、格式和说明。同时[[Evaluation Research\|评估研究]]耗时和受试者疲劳风险。说明测试人数和修改计划（, Ch8）。
 > - **调查施测** 邮寄调查可采用四阶段施测流程（Salant & Dillman, 1994; Dillman, 2007）：（1）提前通知信 →（2）约 1 周后邮寄实际问卷 →（3）4–8 天后邮寄明信片跟进 →（4）3 周后向未回应者邮寄个性化封面信和问卷。整个施测期约 4 周。
 
-### 变量
-
-> [!info|notitle]
+> [!info] 变量
 > 在方法部分直接陈述[[Variable\|变量]]名称、[[Definition of Terms\|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源文献。
 >
 > > [!example] 表8.2：变量、定义及其对应的调查题项（Variables, Definitions, and Their Corresponding Items on a Survey）
@@ -165,9 +155,7 @@ updated: 2026-10-20
 > >
 > > 模板逻辑：预测变量置于最前（因）、结果变量随后（果）、控制变量最后。每个变量必须同时包含概念层面的定义和操作层面的测量题项，使读者可以完全复现测量过程。
 
-### 数据分析
-
-> [!example|notitle]
+> [!example] 数据分析
 > 数据分析的序列步骤（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 报告样本中回应和未回应的人数与百分比。
@@ -289,9 +277,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 
 **互联网调查** 已成为社会科学中常用的数据收集方式。详见 [[Internet-based Survey]] 条目。
 
-## 方法变体
-
-> [!tip|notitle]
+> [!tip] 方法变体
 > - **[[Cross-sectional Study\|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Correlational Research\|相关性研究]]问题，但难以建立[[Causality\|因果关系]]。
 > - **[[Longitudinal Study\|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition\|样本流失]]（attrition）和控制效应（control effect）等问题。
 > - **[[Cohort Study\|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国文献中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
@@ -299,18 +285,14 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - **[[Internet-based Survey\|互联网调查]]** 通过互联网进行数据收集，成本低、速度快，可触及广泛人群，但面临抽样偏差和低回应率等挑战。
 > - vs [[Experimental Research\|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的[[Causality\|因果推断]]。
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > - 需要了解某一总体的态度、意见、行为趋势或特征分布时。
 > - 适合描述性和[[Correlational Research\|相关性研究]]问题。
 > - 横截面设计适合在单一时间点进行快照式描述，纵向设计适合追踪变化趋势。
 > - 探索性调查适合在没有预设模型的情况下探索关系和模式；验证性调查适合检验模型、[[Causality\|因果关系]]或假设（p.259）。
 > - 调查也适用于收集事实信息、态度与偏好、信念与预测、意见、行为与经验——包括过去和现在的（Weisberg et al., 1996; Aldridge & Levine, 2001）。
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > - 调查结果受限于[[Questionnaire\|问卷]]设计和抽样质量；低回复率可能导致无答复偏差。
 > - 自我报告数据可能受社会期望偏差影响。
 > - 横截面设计难以建立[[Causality\|因果关系]]。

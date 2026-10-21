@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Building a Global Evidence Ecosystem for Teaching
@@ -120,9 +120,7 @@ updated: 2026-10-16
 > > - **官方与循证支持者视角** 肯定该项目极大降低了发展中国家与中等收入国家获取国际前沿教学实证的门槛，有效遏制了缺乏证据支持的低效教学商业软件在基层的泛滥。
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

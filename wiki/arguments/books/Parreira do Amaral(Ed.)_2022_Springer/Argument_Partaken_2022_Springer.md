@@ -82,7 +82,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -95,9 +95,7 @@ citation_aliases:
 > [[Geopolitics of Knowledge\|知识地缘政治]]（GPK）的核心问题域是什么？Partaken 质疑后殖民研究将[[Knowledge Production\|知识生产]]（knowledge production）作为 GPK 主要分析视角的做法，提出 GPK 的真正核心是[[Knowledge Transfer\|知识转移]]（knowledge transfer）而非知识生产，并以当代中美紧张关系作为经验案例加以验证。
 
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究文献（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美[[Geopolitics|地缘政治]]紧张为核心案例。理论资源包括：
 > - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge\|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
 > - Lyotard [[Narrative Knowledge\|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
@@ -106,18 +104,14 @@ citation_aliases:
 > - Nagel 的 concealment/exposure 概念 — 分析破坏知识中的双重操控
 
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 属于理论讨论与概念分析文章。方法包括：
 > - 方法：Google Books Ngram Viewer 词频分析，追踪"[[Geopolitics|geopolitics]]""[[Geopolitics of Knowledge]]"等术语的历史使用频率
 > - 数据来源：后殖民研究文献、美国国会报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
 > - 分析逻辑：概念区分（[[Knowledge Production\|知识生产]] vs [[Knowledge Transfer\|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
 
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > Partaken 的论证采用"诊断—替代—[[Typification\|类型化]]—验证—理论化"五步结构。以下逐步还原每一步的推理链。
 
 ### 第一步：确立 GPK 的重要性和历史深度（§5.1, pp.67–69）
@@ -274,9 +268,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 > ("The sovereignty lieth hid in knowledge") — Francis Bacon (1597/1825, p.255)，Partaken 以此作为全章的框架性引语和结论性回应(p.85)
 
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 > - **作者自述局限** 未明确陈述。
 > - **读者批评空间** 论文以中美对立为核心案例，对中国[[Knowledge Transfer\|知识转移]]行为采用强烈[[Analytical Stance\|批判立场]]（如"self-centered business practices""knowledge appropriation and elimination of the partner"），对美方行为（全球大规模监视、Snowden 揭露的违宪监控）仅简短提及，存在不对称审查；将 Huntington [[Clash of Civilizations|文明冲突论]]作为[[Analytic Framework\|分析框架]]之一但未充分讨论该理论本身的争议性；Google Ngram 词频分析仅提供相关性描述，不能作为因果论证。
 

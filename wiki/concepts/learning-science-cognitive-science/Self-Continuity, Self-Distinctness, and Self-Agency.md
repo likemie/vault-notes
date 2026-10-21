@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Self-Continuity, Self-Distinctness, and Self-Agency
@@ -90,9 +90,7 @@ updated: 2026-10-16
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **概念边界**Damon and Hart（1997）的原初框架并非针对跨文化情境设计，而是对儿童与青少年自我理解的普遍发展心理学描述。Li 将其用于解释文化持久性，属于跨领域的概念转用，三个维度与文化认同之间的[[Causality\|因果关系]]尚未被直接检验
 > - **文化差异的忽略** James 的 I-Self / Me-Self 框架以及 Damon and Hart 的三维度模型均在西方心理学传统中提出，其是否适用于理解东亚文化中更关系性（relational）的自我建构仍有待验证
 

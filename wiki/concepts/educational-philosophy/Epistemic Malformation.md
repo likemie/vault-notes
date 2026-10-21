@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic Malformation
@@ -158,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - Nikolaidis (2021) — 奠基论著，界定认识畸变在教育中的核心内涵，区分[[Reliability|信度]]通胀与信度赤字。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 系统将认知畸变机制[[Operationalization|操作化]]为智能时代写作外包的三重检验判据，提出[[Alien Intelligence|异己智能]]防御与思维步骤外显规程。
 

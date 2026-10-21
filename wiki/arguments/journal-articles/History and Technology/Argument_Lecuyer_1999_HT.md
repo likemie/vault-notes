@@ -50,7 +50,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Lecuyer_1999_HT"
@@ -299,9 +299,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 本文专注于[[Fairchild Semiconductor|仙童半导体]]在1960至1967年间向计算机和消费电子市场的转型历程，受限于历史档案与企业记录的保存范围，早期某些具体的[[Statistical Process Control|统计过程控制]]（SPC）细节记录不全；同时，虽然仙童的模式被英特尔、超威半导体、国家半导体与摩托罗拉等广泛效仿，但各个跟随企业在不同细分工业领域的具体技术扩散路径与制造组织演变仍需更广泛的企业史比较研究予以深化。（pp. 197, 207–208）
 
 ---

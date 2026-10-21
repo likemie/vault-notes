@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-10-22
 ---
 
 # Locus of Control
@@ -46,16 +46,12 @@ updated: 2026-08-20
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **控制点 vs [[Attribution Theory\|归因理论]]** Rotter 的控制点是 Weiner 归因理论的直接前身。Weiner 将 Rotter 的单一"来源"维度（内部 vs 外部）扩展为三个独立维度：来源（locus）、稳定性（stability）和可控性（control）。在 Weiner 的框架中，Rotter 原初概念中的"控制"含义被分离为独立的可控性维度([[Argument_Li_2012_Cambridge\|Li, 2012, p.61]])。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 控制点理论的两个核心维度([[Argument_Li_2012_Cambridge\|Li, 2012, p.60]])：
 
 **内部控制点（internal locus of control）**
@@ -66,9 +62,7 @@ updated: 2026-08-20
 
 ---
 
-## 相关研究
-
-> [!example|notitle]
+> [!example] 相关研究
 > Crutchfield (1986) 在其博士论文中以 [[Social Learning Theory\|社会学习理论]] 为视角研究护理教育者的学术生产力。她将 Rotter 的四类[[Variable\|变量]]适应为：学术生产力 = 期望行为；控制点 = 广义期望（内部或外部）；强化 = 学术工作的奖励及其价值；教育机构 = 提供学术生产力诸多奖励的心理情境。[[Hypothesis\|研究假设]]如果教师相信自己的学术努力会带来奖励（内部控制点）、他人可靠（人际信任）、学术奖励有价值、奖励可在机构内获得，则他们将取得高水平的学术生产力([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.60–62]])。
 
 ---

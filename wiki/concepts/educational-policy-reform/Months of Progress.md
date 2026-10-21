@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Months of Progress
@@ -147,7 +147,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 系统评述并批评了 [[Education Endowment Foundation\|EEF]] 工具包所采用的月度进步指标，主张回归透明的组别均值、标准差与未调整[[Effect Size\|效应量]]报告。

@@ -49,7 +49,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Comparative Education as a Cross-Sectional Area
@@ -143,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1967 — 概念提出与建制突破** [[Oskar Anweiler|奥斯卡·安维勒]]首次提出将比较教育定性为交叉领域（Querschnittsbereich），旨在打破战后西德[[Allgemeine Pädagogik|普通教育学]]的形而上学孤立，使比较教育成为吸纳历史学与社会学前沿成果的跨学科门户。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > - **1970s–1980s — 实证论战与重大国别比较工程检验** 在德国社会学[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）冲击下，安维勒等人依托交叉领域架构，主持实施了著名的两德教育比较工程（Vergleich von [[Bildung]] und Erziehung in der BRD und DDR），展示了兼具社会制度经验对比与教化哲学反思的强大解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 > - **1990s–至今 — 全球化挑战与二元模式消解** 随着全球教育治理、跨国大规模测评与[[Intercultural Education|跨文化教育]]的兴起，欧陆传统的“母体交叉领域”与英国传统的“独立系所分支”二元格局逐渐被多边网络与超学科协同所重组。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
@@ -173,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -190,7 +186,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 系统梳理欧洲比较教育学科演进史，详尽分析安维勒将学科界定为交叉领域的制度意义及其与英国独立分支模式的历史性融合。

@@ -58,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Citizen Science
@@ -183,9 +183,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关概念网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念网络
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|

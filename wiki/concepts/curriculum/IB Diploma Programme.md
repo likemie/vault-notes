@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # IB Diploma Programme
@@ -127,8 +127,6 @@ Zemplén 进一步指出，TOK 的评估设计本身制造了三个相互嵌套�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 通过三阶段收敛式[[Mixed Methods Research\|混合方法研究]]，检验澳大利亚 DP 中 ToK 课程与[[Critical Thinking\|批判性思维]]技能发展的关系。
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 以 [[Theory of Knowledge\|TOK]] 课程为案例，揭示 DP 中批判性思维议程与科学教育议程之间的结构性冲突，指出 TOK 评估框架可能制造术语表演而非真正的批判性思维。

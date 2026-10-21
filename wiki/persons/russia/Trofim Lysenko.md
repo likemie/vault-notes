@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Trofim Lysenko
@@ -45,9 +45,8 @@ updated: 2026-10-16
 > - **身份位置** Trofim Lysenko（特罗菲姆·李森科，1898–1976）是苏联农学家，以创立和推广以其名字命名的[[Lysenkoism\|李森科主义]]（[[Lysenkoism]]）而闻名。他在斯大林的支持下崛起，以马克思主义意识形态正统的名义公开否定孟德尔遗传学，主导苏联生物学和农业科学研究长达数十年。他的学说缺乏科学依据，却因其政治正统性而成为苏联农业科学的官方教条，导致苏联生物科学长期与全球前沿脱节[[Argument_Chan_2015_Intersect\|Chan, 2015]]。
 
 ---
-## 生平与职涯
 
-> [!note|notitle]
+> [!note] 生平与职涯
 > - 1898 出生于乌克兰农民家庭。
 > - 1920s 接受农业教育，开始提出非正统的农业生物学理论。
 > - 1930s–1950s 在斯大林的直接支持下崛起，获得对苏联农业科学和生物学的实际控制权。公开否定孟德尔遗传学为"资产阶级伪科学"，迫害遵循正统遗传学路线的科学家。[[Lysenkoism]]成为苏联官方生物学教条[[Argument_Chan_2015_Intersect\|Chan, 2015]]。
@@ -66,15 +65,13 @@ updated: 2026-10-16
 > Original: Stalin supported the rise of Trofim Lysenko, a poorly educated agronomist who rejected the study of Mendelian genetics in the West and perpetuated his own scientifically unsound theories, leading all of agricultural sciences and biology to slide into falsehood.
 
 ---
-## 影响
 
-> [!success|notitle]
+> [!success] 影响
 > - [[Lysenkoism]] 成为苏联[[Ideological Capture of Science\|科学意识形态化]]的标志性事件，展示了政治权力如何系统性地瓦解一个学科领域。
 > - 苏联生物学和农业科学在1930至1960年代整体陷入谬误，与当时世界遗传学和分子生物学的前沿发展完全脱节。与之形成对比的是，苏联在数学、物理学和计算机科学领域仍然保持[[Competitiveness|竞争力]]——这一差异说明科学意识形态化的破坏程度因学科而异[[Argument_Chan_2015_Intersect\|Chan, 2015]]。
 > - Lysenkoism 至今仍是科学史上政治干预科学的最著名案例之一，被广泛引为[[Scientific Autarky\|科学自主]]性重要性的警示。
 
 ---
-## 争议与批评
 
-> [!warning|notitle]
+> [!warning] 争议与批评
 > Lysenko 不是孤立的个人投机者，而是[[Soviet Statism\|苏联国家主义]]体制下[[Ideological Capture of Science\|科学意识形态化]]的制度性产物。他将政治正统凌驾于[[Scientific Method\|科学方法]]之上，利用政权力量清除学术对手，造成的人才损失和知识倒退是苏联科学史上最具破坏性的篇章之一。其学说最终在1960年代被苏联科学界正式否定，但已造成的损害持续了数十年。

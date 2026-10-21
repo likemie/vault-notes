@@ -35,44 +35,30 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Swedish Institute for Educational Research
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > Swedish Institute for Educational Research 于 2015 年建立，是瑞典面向教育研究[[Research Utilization\|证据使用]]的机构([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 该机构开展教育研究[[Systematic Review\|系统综述]]，并向瑞典实践者传播综述结果；同时资助研究项目，并通过与学校系统工作人员持续对话来识别需要相关研究的领域([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 
-## 时间线
-
-> [!note|notitle]
+> [!note] 时间线
 > - 2015 — Swedish Institute for Educational Research 建立([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 
-## 实施情况
-
-> [!example|notitle]
+> [!example] 实施情况
 > 该机构把证据生产和需求识别连接起来：一方面做[[Systematic Review\|系统综述]]和传播，另一方面通过资助项目和持续对话决定哪些教育问题需要进一步研究([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > Swedish Institute for Educational Research 体现了国家级证据机构的一个重要功能：不只是向学校输送已有证据，也让实践者需求反过来影响研究议程。这与 [[Evidence-Informed Practice\|证据知情实践]] 中多源互动的取向一致([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 > 国家级机构有助于本国语境中的证据转化，但欧洲层面仍存在协调不足和跨国复用困难。相关推理链见 [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]]([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.30, 35-36]])。
 
-## 相关概念／理论
-
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 > - [[Educational Evidence Clearinghouses]] — 该机构是[[Systematic Review\|系统综述]]和传播型国家证据机构。
 > - [[Knowledge Mobilisation]] — 该机构通过传播和实践者对话推动研究知识进入学校。
 

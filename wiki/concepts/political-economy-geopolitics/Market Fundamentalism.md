@@ -47,7 +47,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Market Fundamentalism
@@ -154,9 +154,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1944 — 思想渊源：波兰尼《大转型》** 卡尔·波兰尼系统解构了 19 世纪英国“自调节市场”乌托邦的神话，揭示自由市场是国家集中立法与暴力推行的制度产物，并提出社会自我保护的“双重运动”。
 > - **1980 — 新自由主义执政[[Paradigm|范式]]确立** 里根与撒切尔执政时期，弗里德曼与哈耶克的自由放任学说成为主流执政哲学；弗里德曼在《自由选择》中公然否定政府资助科学研究在经济上的正当性。
 > - **1998 — 索罗斯与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将[[Washington Consensus|华盛顿共识]]的放任教条定性为“市场原教旨主义”。
@@ -189,7 +187,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 运用市场原教旨主义概念剖析美国两党政治如何扼杀[[Advanced Technology Program|先进技术计划]]（ATP）等显性产业政策，迫使国家发展型职能向隐秘网络退避。

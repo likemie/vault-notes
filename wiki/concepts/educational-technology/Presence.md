@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Presence
@@ -112,7 +112,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 系统阐述了在场感、沉浸感与共在感的定义和机制，分析了影响在场感的关键因素（感觉信息、用户控制、表面保真度、理解的总体响应），并将沉浸感和共在感定位为[[Virtual World\|虚拟世界]]研究中用户参与的重要促进因素。

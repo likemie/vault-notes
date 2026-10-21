@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Random-Effects Model
@@ -258,9 +258,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系说明 |
 > |:---|:---|:---|
 > | [[Fixed-Effect Model]] | 基础[[Paradigm\|范式]] | 固定效应模型假定单一恒定真实效应，是随机效应模型的前置对比基准。 |

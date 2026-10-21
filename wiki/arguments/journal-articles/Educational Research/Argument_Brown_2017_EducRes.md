@@ -80,7 +80,7 @@ sources:
   - "[[sources/Brown_2017_EducRes|Brown_2017_EducRes]]"
 status: draft
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_EducRes"
@@ -344,9 +344,7 @@ ESTI 模型并非单纯的流程拼接，其平稳实施必须依托三项深层
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **文献范围界定** 本文将实践者[[Action Research\|行动研究]]（action research）排除在考察范围之外，尽管作者承认教师开展行动研究在国际上十分普遍，但其不在本文理论比较的框架之内。（p. 168）
 > - **教师专业素养的高门槛** [[School Enquiry Cycle\|ESTI]] 模型的落地要求教师与领导者同时具备远超单一[[Paradigm\|范式]]的[[Data Literacy\|数据素养]]与[[Research Literacy\|研究素养]]，这绝非轻而易举或可快速见效的捷径（not a quick win），对现行[[Normal School\|师范教育]]与职后培训构成了严峻挑战。（p. 167）
 > - **直接学业效应检验的待深化性** 尽管 [[Data-Based Decision Making\|DBDM]] 的学业促进效能已获得较多[[Randomised Controlled Trials\|随机对照试验]]证实，但 [[Research-Informed Teaching Practice\|RITP]] 以及两界融合模型对学生实际[[Academic Achievement\|学业成就]]的直接因果影响，仍有待未来开展更多大规模实证设计予以检验。（pp. 164, 167）

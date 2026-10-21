@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Content Analysis
@@ -221,9 +221,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle] 相关理论与方法矩阵
+> [!entry-map] 相关理论与方法矩阵
 >
 > | 关系层级 | 条目 | 类型 | 关系 |
 > |:---|:-----|:-----|:-----|

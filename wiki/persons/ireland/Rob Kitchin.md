@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rob Kitchin
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990–2000 — 空间认知与地理信息批判** 于英国兰卡斯特大学与威尔士大学接受地理学训练并获博士学位，早期聚焦空间行为认知、数字地理学与地图绘制社会学。
 > - **2001–2012 — 梅努斯大学任教与国家区域空间分析中心创立** 出任爱尔兰梅努斯大学国家区域空间分析研究所（NIRSA）所长，领衔爱尔兰国家空间规划与数字制图重大课题，关注大数据与空间规划技术的交互。
 > - **2013–2018 — 领衔欧洲研究理事会重大项目与数据革命理论确立** 主持欧洲研究理事会（[[Engineering Research Centers|ERC]]）资助项目“可编程城市”（The Programmable City），2014 年出版专著《数据革命：大数据、开放数据、[[Data Infrastructure\|数据基础设施]]及其后果》（*The Data Revolution*），并与特蕾西·劳里奥（Tracey Lauriault）共同界定批判性数据研究的理论议程。
@@ -133,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** Tracey Lauriault — 加拿大卡尔顿大学学者，共同撰写批判性数据研究纲领性文献。
 > - **合作者** Martin Dodge — 英国曼彻斯特大学地理学者，共同奠定代码/空间与地图绘制批判研究。
 > - **思想受益与扩展者** [[Sigrid Hartong]] — 将基钦的[[Data Infrastructure\|数据汇聚体]]框架全面引入学校监测与教育行政基础设施分析。
@@ -157,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

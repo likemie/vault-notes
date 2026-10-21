@@ -58,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Embedded Autonomy
@@ -184,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1995 年 — 发展型国家能力理论奠基** 彼得·埃文斯（Peter Evans, 1995）出版《嵌入式自主性》（*Embedded Autonomy*），以东亚后发赶超与拉美比较确立了发展型国家的核心国家能力[[Analytic Framework|分析框架]]。
 > - **2010 年代 — 使命导向创新治理拓展** [[Rainer Kattel|莱纳·卡特尔]]与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）将嵌入式自主性引入[[Evolutionary Economics|演化经济学]]与[[Public Dynamic Capabilities|公共动态能力]]，阐明其在[[Lead-and-Learn Paradigm|引领与学习范式]]中克服方向性失灵的关键作用。
 > - **2024 年 — 21 世纪欧美现代产业战略[[Operationalization|操作化]]实践** 伊丽莎白·雷诺兹（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）结合美国《[[CHIPS and Science Act|芯片法案]]》芯片项目办公室（CPO）与[[Loan Programs Office|能源部贷款办公室]]（LPO）的组建实践，提炼出将嵌入式自主性作为保障产业政策执行、防范资本寻租的核心过程准则。
@@ -228,9 +226,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
@@ -245,8 +241,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 结合彼得·埃文斯理论与[[Evolutionary Economics|演化经济学]]，剖析嵌入式自主性在国家克服方向性失灵、重塑[[Public Dynamic Capabilities|公共动态能力]]中的底层基石作用。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐释 21 世纪美国现代产业战略中如何通过组建专业化执行团队（如芯片项目办公室 CPO）践行嵌入式自主性，提炼保障政策落地与防范寻租俘获的过程准则。

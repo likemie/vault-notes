@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Technological Agnosticism
@@ -106,9 +106,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（技术不可知论） | 道德二元论（[[Moral Dualism]]） | 硬信念（[[Hard Belief]]） |
 > |---|---|---|---|
 > | **价值取向** | [[Epoché\|悬置]]价值判断，专注于纯粹工程建造 | 预设黑白对立的绝对伦理教条 | 承担现实代价，为共同体与制度理想辩护 |
@@ -237,9 +235,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合西方通识正典断裂与反文化运动，深度剖析技术不可知论的文化成因、组织表现与虚无主义危机。
 
 

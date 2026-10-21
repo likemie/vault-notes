@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Early Reading Intervention
@@ -124,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 ERI 列为初等阅读 Tier 2 助教小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托 ERI 在幼儿园阶段筑牢早期预防的第一道防线。
 > - [[Sound Partners]] — 同属早期读写助教干预方案，ERI 聚焦幼儿园小组预防，Sound Partners 侧重 K–1 一对一强化，二者构成完整的阶梯式防御。

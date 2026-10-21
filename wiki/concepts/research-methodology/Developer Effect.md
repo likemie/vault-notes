@@ -47,12 +47,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 开发者效应（Developer Effect）指教育项目评估中，由项目开发者委托或实施的研究所报告的平均[[Effect Size\|效应量]]系统地大于独立第三方评估的现象。[[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] 使用 [[What Works Clearinghouse]] 数据库中的 755 个效应量（来自 169 项研究）首次以[[Meta-analysis\|元分析]]技术系统量化了这一效应。
 >
 > > "We find evidence of a 'developer effect,' where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties." ([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 428]])
@@ -90,36 +88,26 @@ updated: 2026-10-21
 > [!abstract] [[Heterogeneity\|异质性]]
 > 开发者效应的背后存在大量异质性。控制协变量后，独立研究的 95% [[Prediction Interval\|预测区间]]为 (−0.452, +0.788)，开发者研究为 (−0.311, +0.929)([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 441]])。这意味着并非所有开发者研究的效应量都大——而是分布整体向右偏移。
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > - **2016** — Munter, Cobb & Shekell 首次比较 K-12 数学项目评估中开发者与独立研究的[[Effect Size\|效应量]]，发现开发者研究效应量平均高 0.21 SD，但未使用[[Meta-analysis\|元分析]]技术或控制混淆因素([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]])
 > - **2020** — Wolf et al. 发表首篇使用元分析技术和 [[What Works Clearinghouse\|WWC]] 全数据库系统量化开发者效应的研究
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - **vs [[Publication Bias]]** — 发表偏倚是开发者效应的可能解释机制之一（估计解释约 66%），但开发者效应是一个更广泛的现象，可能还涉及选择性报告、[[Researcher Degrees of Freedom\|研究者自由度]]和[[Implementation Fidelity\|实施忠实度]]
 > - **vs [[Researcher Degrees of Freedom]]** — 研究者自由度是产生开发者效应的可能行为机制；开发者效应是这一机制在开发者 vs. [[Evaluator Independence\|独立评估者]]比较中表现出的系统性结果
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > - 在 28 个同时有开发者和独立研究的干预中，27/28 的开发者的平均[[Effect Size\|效应量]]方向性更大([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 438]])
 > - 开发者研究更倾向使用[[Quasi-Experimental Designs\|准实验设计]]（51% vs. 15%）、研究者/[[Developer-Made Measures\|开发者自编测量]]（29% vs. 8%）和更小[[Sample Size Determination\|样本量]]（均值 392 vs. 659）([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, pp. 434–436]])
 > - 开发者研究平均发表年份更早([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 436]])
 > - 敏感性分析（移除研究生研究、仅实验设计、仅准实验设计）均未改变开发者效应的大小和方向([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 441]])
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - **因果不确定性** [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 442)]] 明确承认"我们无法确定此开发者效应的来源"，研究本质上是描述性的而非[[Causality\|因果性]]的
 > - **Vevea-Hedges 校正的局限** 该校正使用研究级平均[[Effect Size\|效应量]]而非个体效应量，且对开发者研究，校正后效应量与原始效应量差异不显著
 > - **[[What Works Clearinghouse\|WWC]] 数据的样本偏差** 由于联邦报告要求，独立研究中的零结果可能在 WWC 中比在其他数据源中被包含得更多
 
-## 相关案例／政策
-
-> [!example|notitle] 相关案例／政策
+> [!example] 相关案例／政策
 > - [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] — [[Every Student Succeeds Act\|ESSA]] 的通过使开发者有更大的经济激励去证明其产品的有效性，可能加剧开发者效应
 > - [[What Works Clearinghouse]] — WWC 数据库是 Wolf et al. 研究的数据源
 > - [[Creation of REES]] — [[Preregistration\|预注册]]制度被提出作为缓解开发者效应的关键机制

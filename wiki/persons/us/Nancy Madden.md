@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Nancy Madden
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1980 年代初** 获得心理学博士学位，加入约翰斯·霍普金斯大学社会组织研究中心，聚焦小学阅读补救与[[Cooperative Learning\|合作学习]]模式开发。
 > - **1987 年** 与斯莱文等学者共同发表并标准化[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）教学规程。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1987–1990 年代** 联合创立全员成功方案（[[Success for All\|SFA]]），并建立非营利性 SFA 基金会，担任首席执行官，推动该方案进入全美 1500 多所公立学校。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
@@ -93,8 +91,6 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **实践路径** 创立并领导 [[Success for All\|SFA]] 基金会，开创了全美公立学校“教师民主投票准入”（80% 赞成率）与常态化驻校教练支持的规模化落地模式。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 > - **政策路径** 其研发的 SFA 与 [[Cooperative Integrated Reading and Composition\|CIRC]] 成为美国全面学校改革计划（CSR）、i3 与 [[Every Student Succeeds Act\|ESSA]] 强证据目录中的标杆项目。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–28)]]

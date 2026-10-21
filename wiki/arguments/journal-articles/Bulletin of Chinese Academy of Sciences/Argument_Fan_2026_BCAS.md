@@ -78,7 +78,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fan_2026_BCAS"
@@ -386,9 +386,7 @@ journal: "中国科学院院刊"
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 本文属于宏观制度与政策史分析，侧重从国家大战略、联邦顶层政策框架与制度逻辑演进的宏观维度把握契约变迁，未对微观层面不同学科门类、不同类型大学以及科研人员日常科研实践的具体分化展开深入量化考察；同时，2025 年以来的政策转向仍在急速演进与动态调整之中，新契约形态的长期制度稳定性与最终实施成效仍有待持续跟踪与历史检验。（p. 1064）
 
 ---

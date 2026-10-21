@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Century of Humiliation
@@ -144,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1840–1949 — 创伤经验形成期** 两次鸦片战争、甲午战争、八国联军侵华及日本侵华战争接连发生，丧权辱国的历史体验转化为社会各阶层强烈的保种保国与救亡图存思潮。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–688)]]
 > - **1949–1990 — 主权确立与革命[[Discourse|话语]]整合期** 新中国成立宣告中国人民站起来了，初步完成对近代屈辱的政治清算；屈辱史主要通过反帝反封建的革命斗争叙事在历史教育中保持传承。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
 > - **1990年代至今 — [[Patriotic Education|爱国主义教育]]体系化与跨国战略赋权期** 百年屈辱叙事全面融入国民历史教育与公共[[Discursive Field|话语空间]]，成为解释经济腾飞、国防建设与[[Belt and Road Initiative|一带一路]][[Education Going Global|教育出海]]不可替代的历史正义支撑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
@@ -183,7 +181,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合[[Critical Realism|批判实在论]]与三维[[Critical Discourse Analysis|批判话语分析]]，揭示[[Belt and Road Initiative|一带一路]]跨国高等教育政策深层依托百年屈辱创伤认同与民族伟大复兴蓝图以确立行动正当性的内在机制。

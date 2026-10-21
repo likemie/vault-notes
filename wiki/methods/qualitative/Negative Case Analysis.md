@@ -33,11 +33,9 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Negative Case Analysis
-
-## 定义
 
 > [!def] 核心定义
 > 负面案例分析（negative case analysis）是在[[Qualitative Research\|质性研究]]中系统审视那些不符合、不支持或与正在形成的理论、假设或模式相矛盾的案例或数据的过程。其目的是通过不断修正理论以包容所有案例，最终建立一个"适合每一个案例"的理论。

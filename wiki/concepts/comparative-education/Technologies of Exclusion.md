@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Technologies of Exclusion
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 排除性技术（Technologies of Exclusion） | 知识民主化（[[Democratisation of Expertise]]） | [[Façade of Rationality\|理性表象脚手架]]（[[Scaffolding]] for Façade of Rationality） |
 > |---|---|---|---|
 > | 核心功能 | 构筑专业技术壁垒，剥夺外行参与政策审议的合法性 | 普及证据认知，使公众能够理解并介入教育决策辩论 | 用客观数字外观包装政治价值裁决，提供[[Social Science as Legitimation Alibi\|合法化借口]] |
@@ -147,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000 年代初 — 科学社会学专业壁垒理论发轫** 科学哲学与专业社会学（如 Maasen & Weingart, 2005）提出“专家知识民主化”及其伴随的技术排他机制。
 > - **2010 年代 — 循证医学与黄金标准跨界移植** “排除性技术”概念被引入公共政策学，用以揭示[[Evidence-Based Education\|循证教育]]运动如何通过独尊 [[Randomised Controlled Trials\|RCTs]] 将[[Qualitative Research\|质性研究]]学者边缘化。
 > - **2020 年代至今 — [[Governing by Numbers\|数字治理]] 2.0 与算法黑箱规制** Steiner-Khamsi 等（2024）将其发展为全球教育治理核心分析工具，剖析国际多边中介如何利用指标库黑箱压制本土民主争鸣。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -185,7 +181,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 阐释[[Policy Brokerage\|政策中介]]机构在面对“专家知识民主化”所引发的公众争鸣时，如何通过构筑排除性技术与证据阶层化来捍卫专业中介权威。

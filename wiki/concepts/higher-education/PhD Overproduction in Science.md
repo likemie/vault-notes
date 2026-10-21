@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # PhD Overproduction in Science
@@ -154,7 +154,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统分析美国科学与工程博士生产过剩的微观激励机理与宏观效率损失。

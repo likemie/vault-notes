@@ -83,7 +83,7 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch29_Castro_2009|Ch29_Castro_2009]]"
 status: active
 created: 2026-10-14
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Castro_2009_MultilateralBanks
 
@@ -406,9 +406,7 @@ updated: 2026-10-20
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **未覆盖针对极度贫困国家的软贷款优惠窗口** 本章为简化论述，明确排除了以出资国无偿捐款直接资助为核心的[[International Development Association|国际开发协会]]（International Development Association, IDA）等软贷款操作；在这一窗口下，出资捐助国拥有更为直接和主导的[[Discourse|话语]]权。（p. 476）
 > - **案例范围主要受限于作者本人的实务经验** 案例选取高度依托作者在[[Inter-American Development Bank|泛美开发银行]]与[[World Bank|世界银行]]任职十余年的亲身经历与内部观察，虽力求客观中立，但作者坦承在涉及自身参与决策的事件中宣称绝对[[Value Neutrality|价值中立]]是不切实际的。（pp. 455, 476）
 > - **缺乏对项目执行周期的全量大样本统计数据** 在讨论贷款执行延误、资金拨付卡壳以及项目反复延期翻倍的问题时，作者坦承自身并不掌握关于该主题的全系统[[Quantitative Research|量化研究]]文献，核心推断主要源自其多年深入一线的直接观察与对泛美行组合的局部追踪。（pp. 468, 471）

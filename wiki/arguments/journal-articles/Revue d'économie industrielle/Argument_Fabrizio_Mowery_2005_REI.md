@@ -69,7 +69,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fabrizio_Mowery_2005_REI"
@@ -357,9 +357,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文自述局限在于：对 9/11 后联邦反恐与国土安全研发支出长期效应的评估仅基于 2001–2005 财年初期预算趋势（不足 4 年时间窗口），相关判断具有高度初步性与前瞻性；此外由于联邦统计口径在不同时期缺乏对软件采购的一致性时间序列定义，关于国防软件支出的历史规模推算受限于历史数据的不完整性。（pp. 37, 42）
 
 ---

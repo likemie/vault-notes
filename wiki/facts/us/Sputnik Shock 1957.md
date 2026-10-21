@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 47
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -44,11 +44,8 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[National Innovation System]]"
   - "[[Policy Brokerage]]"
-  - "[[Knowledge Production]]"
-  - "[[Geopolitics]]"
 related_theories:
   - "[[Human Capital Theory]]"
-  - "[[Social Contract of Science]]"
 related_methods: []
 related_persons:
   - "[[Dwight D. Eisenhower]]"
@@ -82,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sputnik Shock 1957
@@ -213,9 +210,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

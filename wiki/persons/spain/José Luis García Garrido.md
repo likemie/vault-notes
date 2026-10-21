@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # José Luis García Garrido
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1937** 出生于西班牙马德里。
 > - **1970–1980s** 亲历 1970 年《[[General Act of Education of 1970|普通教育法]]》出台与民主转型，在西班牙国家远程教育大学开创比较教育学教席。
 > - **1988–1992** 当选并担任[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）主席，推动南欧比较教育学人融入欧洲学术对话网络。
@@ -94,8 +92,6 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **制度分析路径** 开创了审视西班牙[[Educational Decentralization|教育分权]]化进程的制度批判视角，警告 17 个自治区各自设立独立教育体系可能导致国家教育空间解体。
 > - **比较教育学史** 作为[[Comparative Education Society in Europe|欧洲比较教育学会]]的重要领导者，连通了拉丁语系比较教育研究传统与英美主流[[Discourse|话语]]，推动以审慎与对质视角审视欧洲教育一体化。

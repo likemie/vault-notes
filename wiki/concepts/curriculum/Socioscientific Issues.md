@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Socioscientific Issues
 
@@ -142,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s — 科学-技术-社会（[[Science and Technology Studies\|STS]]）运动** 提出将科学与社会现实相连，但偏重技术产品应用，缺少对深层伦理道德与[[Epistemology\|认识论]]规程的结构化关注。
 > - **2000s — SSI [[Paradigm\|范式]]确立** Sadler 与 Zeidler 等人明确将 SSI 奠基为以[[Informal Reasoning\|非形式推理]]、伦理发展与[[Epistemic Practices\|认识论实践]]为核心的独立教学范式。
 > - **2010s 至今 — 认识论实践与公民审议融合** 结合多学科[[Heterogeneity\|异质性]]与微观[[Discourse Analysis\|话语分析]]，SSI 成为培育批判性公共[[Scientific Literacy\|科学素养]]与民主决策能力的核心支柱。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157)]]
@@ -160,8 +158,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 系统对比科学探究、[[Engineering Education|工程教育]]与社会科学议题在目标与[[Epistemic Practices\|认识论实践]]上的本质差异。
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 探讨论辩理论在社会科学议题与科学哲学教学中的应用框架。

@@ -32,14 +32,12 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # California Master Plan for Higher Education
 
-## 内容
-
-> [!info|notitle]
+> [!info] 内容
 > California Master Plan for Higher Education 确立了加州公立高等教育的三层体系（p.12）：
 > - **社区学院（Community Colleges）** 提供开放的入学机会和职业培训
 > - **加州州立大学（California State Universities, CSU）** 侧重本科教学和应用型人才培养

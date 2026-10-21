@@ -92,7 +92,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-24
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_McDonnell_2013_AmJE"
@@ -438,9 +438,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **实施阶段数据的未纳入** 本文研究仅截取至各州立法采纳节点，尚未纳入标准在具体学区与课堂实施（Implementation）阶段的实证数据；由于基层推行涉及截然不同的制度激励与行动者，实施阶段的证据利用逻辑可能出现显著漂移。（pp. 7, 20）
 > - **教育研究供应目录的未穷尽** [[Research Purpose|研究目的]]旨在基于[[Elite Interview|精英访谈]]和档案追踪真实被使用的证据，并未全面编目潜在可能指导 [[Common Core State Standards|CCSS]] 的全量学术文献供给库。（p. 21）
 > - **[[Learning Progression|学习进阶]]的经验推断性质** 研究指出，虽然 K–2 数学进阶具备强实证基础，但高年级数学与复杂文本难度的进阶序列本质上仍具有概率性与经验推断特征，其实际因果效能有待未来长期大规模课堂干预检验。（pp. 22–23）

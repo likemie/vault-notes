@@ -12,9 +12,9 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程。在产学合作中体现为成果商业化漏斗，在学校教育中体现为基于行动理论的再脉络化课例探究，在行政督导中体现为将成功学校研究编码为法定评估常模并服务于国家简化，在宏观立法中体现为依托政策简报的法条采纳，在前沿科技中体现为公共代理人依托嵌入型网络治理引导颠覆性轨道，在硬科技与安全治理中体现为依托共享试验场与首要买家拉动将前沿突破转化为本土实体制造与战略交付能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 125
-related_level: 12
-related_stars: "💎💎💎💎"
+related_count: 111
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/university-industry-collaboration
@@ -77,7 +77,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
-  - "[[Literature Review]]"
   - "[[Return on Investment]]"
   - "[[Clinical Trial]]"
   - "[[Research Universities]]"
@@ -87,30 +86,17 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Implementation Fidelity]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Public Value]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Research Utilization]]"
-  - "[[School Inspection]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
-  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Nancy Cartwright]]"
-  - "[[Vannevar Bush]]"
-  - "[[J. C. R. Licklider]]"
-  - "[[Erica Fuchs]]"
-  - "[[Michael Kratsios]]"
-  - "[[Zewelanji N. Serpell]]"
-  - "[[Carol H. Weiss]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Project Maven]]"
@@ -139,17 +125,18 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Education Endowment Foundation]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Swedish Schools Inspectorate]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
@@ -158,11 +145,10 @@ related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Torres_2022_KMModels]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research Translation
@@ -549,9 +535,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，揭示教育行政督导如何将“成功学校”研究转译编码为十项法定评估指标，以及质量审计如何通过预设单一范式与传播秘书处终审定稿清洗将学术实证重塑为国家简化的问责工具。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析[[Research Universities|研究型大学]]在国家半导体体系中的四维角色重构，揭示中试共置（[[Albany NanoTech Complex|Albany NanoTech]]/MIT.nano）与“教育即标准”开源生态作为深科技研究转化的新型制度机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 溯源[[Technological Republic|技术共和国]]中“国家作为首要买家”的转化模式，批判公共部门防卫型采购阻滞与硅谷消费主义文化撤退，提出重塑国家安全前沿转化通道。

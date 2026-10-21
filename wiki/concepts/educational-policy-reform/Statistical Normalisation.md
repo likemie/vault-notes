@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Statistical Normalisation
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 统计正态化（Statistical Normalisation） | 亚组[[Heterogeneity\|异质性]]分析（Heterogeneity Analysis） | 情境化临床[[Professional Judgment\|专业判断]]（Clinical [[Phronesis]]） |
 > |---|---|---|---|
 > | **核心追求** | 全样本平均[[Effect Size\|效应量]]最大化与钟形曲线集中趋势。 | 剖析干预效应在不同社会人口与背景亚组中的分化。 | 扎根具体个案与微观互动，关照无法被通则涵盖的独特生命。 |
@@ -170,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪中叶 — 社会物理学起源** 阿道夫·凯特勒（Adolphe Quetelet）将源自天文学的高斯误差曲线引入社会学，提出“平均人”（l’homme moyen）假说，开启了用钟形曲线衡量社会现象的标准。
 > - **1970–1980 年代 — 规训权力与生物政治批判** 米歇尔·福柯（Michel Foucault）在《规训与惩罚》中批判“正态化规训”（Normalising Judgment），揭示标准化曲线如何成为现代权力区分健康与异常、合规与越轨的治理技术；斯蒂芬·杰·古尔德（Stephen Jay Gould）在《错误度量人类》中系统批判智力测验正态化对弱势族裔的伪科学歧视。
 > - **2000 年代至今 — [[Evidence-Based Education\|循证教育]]改革中的均值霸权成型** 随着证据清除所（[[What Works Clearinghouse\|WWC]]）、可见学习（[[Visible Learning]]）等以 $d \ge 0.40$ 为标尺的实证运动兴起，平均[[Effect Size\|效应量]]被奉为政策圭臬。
@@ -212,7 +208,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — 牧人友利田在第十章第七节系统展开了针对功利主义可用性修辞与统计正态化抹杀离群弱势群体的深刻批判。

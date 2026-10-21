@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Marc-Antoine Jullien
@@ -104,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1775** 出生于巴黎受过良好古典人文学科教养的知识阶层家庭，与美洲独立战争爆发同年。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 19)]]
 > - **1789** 作为巴黎中学生亲历攻占巴士底狱，深受启蒙理性思潮激励。
 > - **1792–1794** 青年时代迅速激进化，加入雅各宾俱乐部并出任国民公会特派战地记者，深度卷入罗伯斯庇尔（Maximilien Robespierre）政权的恐怖统治，将国民教育视作政治暴力革命的附庸工具。（Palmer, 1993:ix, 154）
@@ -231,9 +229,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **先驱／思想渊源** 让-雅克·[[Jean-Jacques Rousseau\|卢梭]]（Jean-Jacques Rousseau） 启迪其尊重儿童天性与自由发展的自然主义教育学立场。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 18–20)]]
 > - **先驱／思想渊源** [[Johann Heinrich Pestalozzi\|约翰·海因里希·裴斯泰洛齐]]（Johann Heinrich Pestalozzi） 1810 年伊弗东实地考察确立其体智德协调发展与儿童自我展开的教学哲学。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
 > - **先驱／跨学科源头** 乔治·居维叶（Georges Cuvier） 提供比较解剖学与地质学经验分类模型，启发其将解剖分类方法引入跨国教育事实比较。（p. 22）
@@ -273,9 +269,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

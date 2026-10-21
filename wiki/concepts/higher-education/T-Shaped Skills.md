@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-29
+updated: 2026-10-22
 ---
 ## 定义
 
@@ -38,26 +38,20 @@ updated: 2026-09-29
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 跨学科能力（interdisciplinarity） — T 型技能特别强调深度与广度的组合：仅有广度而无深度是"—"型，仅有深度而无广度是"I"型。T 型要求两者兼备。
 > - vs [[General Education\|通识教育]]（general education） — 通识教育侧重于知识面的广度，T 型技能同时要求在一个学科内的深度专业训练。
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > T 型技能的概念在[[University-Industry Collaboration\|产学合作]]语境中的兴起，与两个结构性变化有关（pp.95–96）：
 > - [[Translational Research\|转化研究]]缺口：传统上学术机构负责探索性研究、企业负责商业化，但两者之间缺乏能将学术 IP 转化为产品的"翻译型"人才。这要求研究者既有学科深度，又能理解产业语言和需求。
 > - 学科交叉创新的加速：大学院系高度筒仓化，学位要求偏向单一系所课程，但 AI 等领域的突破越来越多发生在学科交叉地带。T 型技能被视为应对这一挑战的人才培养方向。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > T 型技能包含两个不可分割的维度（p.96）：
 > 1. 纵向深度 — 在一个学科领域内具备扎实的专业知识和解决复杂问题的能力。这是 T 型技能的"根基"。
 > 2. 横向广度 — 具备跨学科的沟通能力，能够理解其他学科的术语、方法和思维方式，并在[[Comparative Education as a Cross-Sectional Area|交叉领域]]有效协作。
@@ -66,9 +60,7 @@ Narayan and Spohrer 指出这一需求不仅落在四年制学位项目上，也
 
 ---
 
-## 在医用创新中的应用
-
-> [!example|notitle]
+> [!example] 在医用创新中的应用
 > 在[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）中，T 型技能被应用于[[Physician-Scientist\|医师科学家]]（Physician-Scientist）的角色（pp.185–186）：
 > - 纵向深度（"|"）使医师科学家能够在自己的专业领域中精准识别临床问题和挑战；
 > - 横向广度（"—"）使其能够与来自不同学科和机构类型的合作伙伴有效沟通——工程师、产业研发人员、基础科学家各自以不同的参照框架看待问题，T 型技能的广度维度使医师科学家能够理解并整合这些多元视角。

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Institutional Complementarity
@@ -146,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990年代初 — 比较制度分析的博弈论建模** 青木昌彦（Masahiko Aoki）率先将制度互补性形式化表述为多重博弈系统中的相互增益关系。
 > - **2001 — [[Varieties of Capitalism|资本主义多样性]]框架的主流确立** 霍尔与索斯基斯合编《资本主义多样性》，将互补性置于核心位置，确立双元资本主义经典模型。
 > - **2005 — [[Historical Institutionalism|历史制度主义]]的演化转向与批判重构** [[Wolfgang Streeck|施特雷克]]与希伦合编《制度变迁的超越》，系统反思互补性概念的功能主义偏误，开辟聚焦制度松弛、杂糅与渐进解构的新议程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
@@ -170,7 +168,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]]文献中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。

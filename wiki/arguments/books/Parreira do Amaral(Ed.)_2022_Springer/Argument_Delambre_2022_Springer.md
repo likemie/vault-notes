@@ -56,7 +56,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -70,16 +70,12 @@ citation_aliases:
 
 Delambre 的核心关切是：现有的知识[[Geopolitics|地缘政治]]讨论（以 [[Walter Mignolo]]、Dussel、Santos 为代表）已经充分揭示了西方认识论霸权的问题，但在"揭露问题"和"构建替代方案"之间存在巨大鸿沟——批判很充分，但如何将批判转化为实践？本章试图用一套自建的理论-方法体系（[[Creative Tension of Sense]] + [[Ganz-Methode]]）来架设这座桥梁。
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > - [[Creative Tension of Sense]] — 作者自建理论，作为全章核心[[Analytic Framework\|分析框架]]。该理论的出发点是一个基本观察：新事物总是在旧秩序的母体内孕育，新旧之间的"意义张力"（tension of sense）不是需要消除的故障，而是意义本身得以产生的条件。换言之，[[Creativity\|创造力]]恰恰来自张力，而非张力的消除(p.106, 111–112)
 > - [[Geopolitics of Knowledge]] — 作为讨论的背景框架。作者接受了 Mignolo et al.的基本诊断（西方[[Epistemology\|认识论]]通过殖民扩张获得了虚假的普遍性），但批评该传统过度关注"谁生产知识、为谁的利益"（[[Knowledge Production\|知识生产]]面），而忽视了知识在动态过程中如何被转移、挪用、破坏和重构（[[Knowledge Transfer\|知识转移]]面）。Delambre 将张力理论定位为对 GPK 讨论的"认识论补充"(p.105–106)
 > - 多元理论参照 — 作者广泛援引 Leff 的环境理性（environmental rationality）、Santos 的"南方认识论"（Epistemologies of the South）、Dussel 的超现代性（transmodernity）、Quijano 的殖民性权力（coloniality of power）等，但并非将这些理论作为分析工具来"操作"，而是将它们作为"现代性封闭理性已经耗竭"这一诊断的证据集合(p.108–110)
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 本文属于**理论建构 + 实践案例说明**的混合文章（非实证研究）。
 >
 > - **理论建构** 基于作者 2013–2020 年在巴西里约热内卢开展的多案例实践，归纳提出 [[Creative Tension of Sense]] [[Epistemology\|认识论]]和 [[Ganz-Methode]] 方法论(p.107)
@@ -87,9 +83,7 @@ Delambre 的核心关切是：现有的知识[[Geopolitics|地缘政治]]讨论�
 > - **关键案例** 里约热内卢 Rocinha 贫民窟的剧场项目（"Bando Cultural Favelados da Rocinha"），导演 [[Richard Castelo Branco]] 以自创的 EspectAtor 方法指导居民讲述自身的暴力创伤故事。该案例被用作"[[Epistemology of Resistance\|抵抗认识论]]"（epistemology of resistance）在实践中的具体呈现(p.109–110)
 > - **方法论局限** 论文未提供案例的系统性数据（如访谈[[Transcription in Qualitative Research\|转录]]、参与者数量、评估指标），案例仅以简要叙述方式呈现，是"说明"而非"证明"
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > Delambre 的论证沿一条清晰的"诊断 → 原理 → 方法 → 应用"主线推进。以下逐步拆解，每一步附具体例子说明。
 
 ### 步骤 1：诊断 — 现代性封闭理性已经耗竭
@@ -182,9 +176,7 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 > [!quote|notitle]
 > "[[Tense Society\|张力社会]]中的正常就是意义张力。如果张力教育不成为一个全球地缘政治项目，我们未来可能面临重大的破坏性张力。张力是正常的，因为'旧'和'新'必须始终在一起。因此，张力就是'今日之新'（today's new）。"(p.121)
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 > - **理论建构的经验基础薄弱** 理论高度依赖作者个人在里约热内卢的实践经验和案例（2013–2020），案例仅以简要叙述方式呈现，缺乏独立验证、跨情境检验和系统数据支撑(p.107)
 > - **核心概念的操作性不足** "张力"、"整体"（Ganz）、"[[Life Power\|生命力量]]"（life power）等概念的定义偏向哲学化和诗意化——例如"生命力量是幸福建立的地方"——难以转化为可检验的实证假设或可复制的操作程序
 > - **[[Ganz-Methode]] 的方法论细节缺失** 两步法描述保持在原则层面——"承载张力"具体需要多长时间？谁来承载？如何判断承载是否"充分"？这些关键操作问题未被回答(p.112–116)

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Manpower Requirements Approach
@@ -152,9 +152,7 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -14,7 +14,7 @@ person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - person/engineer
   - person/policy-architect
@@ -180,9 +180,7 @@ created: 2026-10-02
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政策与机构路径** 直接促成了国家科学基金会（[[National Science Foundation|NSF]]）的建立，确立了同行评议与大学同行自主管理的资助体制；为战后国立卫生研究院（[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）及[[DARPA|国防高级研究计划局]]（DARPA）的多机构竞争性格局奠定了母体框架。
 > - **高等教育路径** 使美国顶尖[[Research Universities|研究型大学]]由战前的教学本位彻底转变为依托联邦科研经费的研究本位体系，开创了战后美国大学在全球前沿学科的长期领先地位。
 > - **国家战略与[[Technological Republic|技术共和国]]路径** 创立了联邦政府通过科研合同动员私营大学与企业攻克国家战略难题的制度[[Paradigm|范式]]，成为当代地缘科技博弈与重大工程组织的历史源头。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
@@ -190,9 +188,7 @@ created: 2026-10-02
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **政治委托人** [[Michael Fullan|富兰]]克林·罗斯福（[[Franklin D. Roosevelt]]）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
 > - **战时科学指挥协同者** [[J. Robert Oppenheimer]] — 布什支持并委任奥本海默领导洛斯阿拉莫斯实验室，二人共同开创了[[Manhattan Project|曼哈顿工程]][[Big Science|大科学]]攻坚[[Paradigm|范式]]。
 > - **当代历史对话者与改革者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 2026 年主持起草《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，在全面对照[[Science, The Endless Frontier 1945|布什报告]]的基础上重构战后科技资助与制造承接体系。
@@ -242,9 +238,7 @@ created: 2026-10-02
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

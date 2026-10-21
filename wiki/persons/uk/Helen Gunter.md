@@ -37,16 +37,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Helen Gunter，英国教育研究者，以对教育领导力的[[Critical Policy Analysis|批判性政策分析]]和知识政治研究著称。她主张教育领导力研究需要认识到"教育领导力是一个政治议题，其中关于成功学校的竞争性版本正在展开争夺"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])，以及"教育领域是多元人群和利益的集合体，社会科学学科知识是资源机会而非既定方法论的集合"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])。
 
-## 核心思想
-
-> [!info|notitle] 核心思想
+> [!info] 核心思想
 > Gunter 的研究聚焦于教育中的**知识政治**和**权力结构**。[[Argument_Møller_2017_EERJ\|Møller (2017)]]多处引用 Gunter 来支撑其核心论证：
 >
 > 1. **知识政治**Gunter（2012）在对 1997–2010 年英国新工党教育政策的研究中，提出批判性问题："政治家使用什么类型的知识？""谁被视为知者（knowers），为什么？"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])
@@ -61,18 +59,14 @@ updated: 2026-10-21
 >
 > 6. **社会学进路**Gunter（2010）指出，Bourdieusian 社会理论日益增长的使用是教育行政中社会学方法"重新出现"（re-[[Emergence]]）的一部分([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.313]])。Gunter（2002）早期已运用 Bourdieu 分析教育管理领域的"目的与位置"
 
-## 主要贡献
-
-> [!success|notitle] 主要贡献
+> [!success] 主要贡献
 > - **批判性教育政策视角** — 被 [[Argument_Møller_2017_EERJ|Møller (2017, p.381)]]列为与 Shields 的[[Transformative Leadership\|变革型领导力]]并列的关键分析透镜
 > - **教育领导力的智识史** — *An Intellectual History of [[School Leadership]] Practice and Research*（2016）追溯该领域的知识形成过程
 > - **知识政治与反智识文化批判** — Gunter（2012, 2013）揭示教育领导力领域的[[Knowledge Production\|知识生产]]如何被管理主义塑造，智识工作如何被系统性地边缘化([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.323]])
 > - **LE@DS 研究网络** — 研究民主学校领导力在 [[New Public Management\|NPM]] 环境下的命运
 > - **Bourdieu 在教育行政中的应用** — Gunter（2002）是早期将 Bourdieu 社会理论应用于教育行政领域的学者之一([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.313]])
 
-## 主要著作
-
-> [!abstract|notitle] 主要著作
+> [!abstract] 主要著作
 > - Gunter, H. (1997). *Rethinking Education: The Consequences of Jurassic Management*. London: Cassell. — 早期对管理主义在教育中影响的批判
 > - Gunter, H. (2001). *Leaders and Leadership in Education*. London: Paul Chapman. — 教育领导力的批判性基础分析
 > - Gunter, H. (2002). Purposes and positions in the [[Champ\|field]] of education management: Putting Bourdieu to work. *Educational Management & Administration*, 30, 7–26. — 运用 Bourdieu 框架分析教育管理领域的知识政治
@@ -82,9 +76,7 @@ updated: 2026-10-21
 > - Gunter, H. (2016). *An Intellectual History of [[School Leadership]] Practice and Research*. London: Bloomsbury. — 追溯学校领导力研究和实践的智识发展史
 > - Gunter, H., Grimaldi, E., Hall, D. & Serpieri, R. (eds) (2016). *[[New Public Management]] and the Reform of Education: European Lessons for Policy and Practice*. London: Routledge. — LE@DS 网络关于 NPM 与教育改革的欧洲比较研究
 
-## 思想发展与影响
-
-> [!note-|notitle] 思想发展与影响
+> [!note-] 思想发展与影响
 > - 与 [[Jorunn Møller]] 同属 LE@DS and CLEG 研究网络
 > - 被 [[Argument_Møller_2017_EERJ|Møller (2017)]]用作支持超越"什么有效"议程的核心理论资源
 > - 与 [[Carolyn Shields]] 的[[Transformative Leadership\|变革型领导力]]框架互补，共同构成 Møller 提议的批判性领导力研究取向

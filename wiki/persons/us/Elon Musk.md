@@ -25,7 +25,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Elon Musk
@@ -53,9 +53,7 @@ updated: 2026-10-16
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

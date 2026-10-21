@@ -54,7 +54,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Education Sciences Reform Act 2002
@@ -184,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

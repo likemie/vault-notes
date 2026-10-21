@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Te Kotahitanga
@@ -112,7 +112,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Hattie_2005_ACER\|Hattie (2005)]]** 在论证“评价必须转向关于教师自身教学的反思”与“倾听学生声音”时，将 Te Kotahitanga 项目作为破除[[Deficit Framing\|赤字理论]]、重塑[[Student-Teacher Relationship\|师生关系]]的典范实证证据进行深度剖析。

@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # J. C. R. Licklider
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1915** 出生于美国密苏里州圣路易斯。
 > - **1942** 获罗彻斯特大学心理声学博士学位；二战期间在哈佛大学心理声学实验室从事军用通信抗噪与机载语音传输研究。
 > - **1950** 任教于麻省理工学院，参与林肯实验室[[Semi-Automatic Ground Environment|半自动地面防空系统]]（[[Sage]]）研制，深入探索实时雷达数据显示屏与人机交互操作界面。
@@ -112,18 +110,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论与哲学路径** 开创了智能增强（Intelligence Augmentation, IA）与[[Man-Computer Symbiosis|人机协同]]理论，深刻启发了[[Jack Douglas|道格拉斯]]·恩格尔巴特（Douglas Engelbart）的人类智力增强实验室（NLS 系统与鼠标发明）以及现代以人为中心的人工智能（AI）交互[[Paradigm|范式]]。
 > - **技术与工程路径** 通过在 IPTO 期间对 MIT Project MAC、斯坦福大学、犹他大学等顶级学术机构的定向资助，直接孵化了分时操作系统、图形化显示技术、[[ARPANET]] 分组交换网络与现代互联网技术架构。
 > - **政策与资助范式路径** 树立了国防前沿研究资助的黄金典范：将重大国防需求转化为前瞻性科学构想，给予顶尖学者充分的探索自由，成功实现了国家安全战略需求与通用民用计算突破的历史性共赢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

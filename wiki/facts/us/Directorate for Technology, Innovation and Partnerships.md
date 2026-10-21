@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Directorate for Technology, Innovation and Partnerships
@@ -170,9 +170,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -189,8 +187,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统推介 [[National Science Foundation|NSF TIP]] 理事会的 X 实验室计划（资助独立非高校研究组织）、[[Golden Ticket Mechanism|金券机制]]试点（破格资助非共识高风险提案）以及与[[Metascience|元科学]]学者合作开展的同行评议替代[[Mechanism Experiments|机制实验]]，将 TIP 确立为国家科研资助体制现代化的核心引领者。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 结合企业学术合作与 NSF 外部咨询实践，详析 TIP 理事会的法定创设背景、《[[CHIPS and Science Act|芯片与科学法案]]》战略布局、[[NSF Regional Innovation Engines|区域创新引擎]]（Engines）公私协同机制以及全美高技术体验式人才培育战略。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peter Sloterdijk
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1947** 出生于德国巴登-符腾堡州卡尔斯鲁厄。
 > - **1968–1974** 在慕尼黑大学与汉堡大学学习哲学、德国语言文学与历史学。
 > - **1983** 出版《犬儒理性批判》（*Kritik der zynischen Vernunft*），成为战后德国最畅销的哲学学术著作，奠定其作为当代欧陆哲学先锋批评家的声誉。
@@ -110,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想对话与继承** [[Friedrich Nietzsche]] — 承袭尼采对基督教道德谱系的冷峻解构，注重生命肯定与自我超越的身体艺术。
 > - **理论对手** [[Jürgen Habermas]] — 围绕《人类动物园的规则》与后人文主义技术反思，同哈贝马斯的交往理性传统发生长达数十年的思想论辩。
 > - **教育批判应用** [[Steen Nepper Larsen]] — 拉森借鉴其神学凝视世俗化理论，批判当代教育测评与可见学习[[Paradigm|范式]]。
@@ -131,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

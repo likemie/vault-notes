@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tacit Knowledge
@@ -92,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（默会知识） | 编码知识（Codified Knowledge） | [[Procedural Knowledge\|程序性知识]]（Procedural Knowledge） |
 > |---|---|---|---|
 > | **存在形式** | 具身化于个体的肌肉记忆、直觉与经验洞察中 | 外显化于文本、数据库、操作手册与数字信号中 | 存储于认知图式中的操作步骤与规则系统 |
@@ -104,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **具身性与情境嵌入（Embodiment & Situatedness）** 知识深植于人的神经系统、感官协调与肌肉记忆中，且高度依赖特定的物理与社会文化环境。
 > - **不可完全编码性（Inarticulability）** 个体在进行精熟判断与操作时所调动的多维线索超越了语言符号的承载能力，无法被穷尽表述为公理规则。
 > - **实践导向性（Action-Orientation）** 核心指向“如何做”（know-how）与“与谁协作”（know-who），而非孤立的客观事实储备（know-what）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -152,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1958–1966 年 — 哲学奠基期** 物理化学家出身的哲学家迈克尔·波兰尼发表《个人知识》与《意会维度》，正式确立默会知识概念，向[[Positivism|实证主义]]的[[Objectivism|客观主义]]知识观发起根本性挑战。
 > - **1990 年代初 — 管理学与组织学习扩展** 野中郁次郎（Ikujiro Nonaka）等学者提出著名的 SECI 模型，将默会知识与显性知识的相互转化确立为企业知识创造与创新的核心机制。
 > - **1996 年 — 跨国政策与学习型经济融合** [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]为[[OECD|经合组织]]撰写《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，将默会知识确立为国家构建“学习型经济”的战略要素，直接催生了经合组织的“全员[[Lifelong Learning|终身学习]]”政策框架。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -184,8 +178,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]分析中，揭示非正式网络规范与制度性隐性知识在全球[[Knowledge Power|知识权力]]配置与跨国政策动员中的关键中介作用。

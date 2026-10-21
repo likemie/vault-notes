@@ -76,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critique of Effect Size
@@ -208,14 +208,10 @@ updated: 2026-10-21
 
 ---
 
-### 聚合与综合问题
-
-> [!warning|notitle] 聚合与综合问题
+> [!warning] 聚合与综合问题
 > 效应量从原始研究到政策工具的逐级聚合过程中，技术错误、不加权平均和选择性修正会系统性地扭曲最终结果。
 
-#### [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]：标准误混淆与错误加权
-
-> [!critique-method|notitle] [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — [[Standard Error\|标准误]]混淆与错误加权
+> [!critique-method] [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — [[Standard Error\|标准误]]混淆与错误加权
 > Wecker, Vogel and Hetmanek（2016）在审查 Hattie 的二级元分析时，记录了效应量计算和聚合中的具体技术错误：
 >
 > - **[[Standard Error\|标准误]]与标准差的混淆** 在个别一级元分析的主要研究中，[[Standard Error\|标准误]]被错误地当作标准差使用（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, pp.26–27]]）。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的标准误=2.74 被当作标准差来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
@@ -224,9 +220,7 @@ updated: 2026-10-21
 
 ---
 
-#### [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]：不加权平均与选择性修正
-
-> [!critique-method|notitle] [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] — 不加权平均与选择性修正
+> [!critique-method] [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] — 不加权平均与选择性修正
 > [[Argument_OConnor_2020_AJLL\|O'Connor (2020, p.145)]]记录了《可见的学习》中效应量聚合的一个具体问题。[[Whole Language\|全语言]]的 $d = 0.06$ 是通过将四项元分析的效应量进行简单算术平均得出的：
 >
 > $$(0.09 + 0.15 + 0.65 + (-0.65)) / 4 = 0.06$$
@@ -302,9 +296,7 @@ updated: 2026-10-21
 
 ---
 
-#### 现实案例验证
-
-> [!example|notitle] 现实案例验证
+> [!example] 现实案例验证
 > [[Argument_Simpson_2019_ERE\|Simpson (2019, pp. 102–103)]]引用 [[Education Endowment Foundation\|EEF]] 评估报告验证同一干预在不同结果测量上产生截然不同的效应量：
 >
 > - **Merrell and Kasim（2015）语音干预** 新组阅读测试 $d = 0.43$，标准化书面阅读测试 $d = 0.38$，语音评估 $d = 0.23$

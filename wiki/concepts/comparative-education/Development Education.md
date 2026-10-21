@@ -9,10 +9,10 @@ aliases:
 summary: "聚焦全球南方国家教育现代化、体制重塑与国际援助合作的专门学术研究与政策实务领域。二战后因去殖民化与冷战地缘博弈而兴起，长期与侧重理论建构的主流比较教育学保持建制分流；后伴随多边开发银行的主权借贷与结构调整，从学术系所分立转向以项目评估、信贷约束与政策咨询为主轴的实务运作，但面临设计端理念前沿与执行端官僚失能、资金拨付考核与实质学习成效脱节的深层制度张力。"
 type: concept
 domain: "comparative-education"
-related_count: 61
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - subject/international-education
@@ -21,77 +21,44 @@ tags:
   - theory/modernization
   - theory/dependency
 related_concepts:
-  - "[[International Education]]"
   - "[[Multilateral Development Bank]]"
+  - "[[International Education]]"
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
-  - "[[Champ]]"
   - "[[Policy Conditionalities]]"
-  - "[[Epistemology]]"
-  - "[[Knowledge Production]]"
-  - "[[Paradigm]]"
-  - "[[Causality]]"
   - "[[Global Citizenship]]"
-  - "[[Counterpart Funds]]"
-  - "[[Tracking]]"
   - "[[Knowledge Bank]]"
-  - "[[Encyclopaedic Definition of Knowledge]]"
-  - "[[School Autonomy]]"
-  - "[[Disciplinary Institutionalization]]"
-  - "[[Discourse]]"
-  - "[[Global Educational Discourse]]"
-  - "[[Formative Assessment]]"
-  - "[[Washington Consensus]]"
-  - "[[Learning Crisis]]"
-  - "[[Heterogeneity]]"
-  - "[[Return on Investment]]"
-  - "[[Operationalization]]"
   - "[[Warehousing of Good Practices]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Educational Multilateralism]]"
-  - "[[Performance Indicators]]"
-  - "[[Soft Power by Hard Facts]]"
 related_theories:
-  - "[[Phenomenology]]"
-  - "[[Structural Functionalism]]"
-  - "[[Critical Theory]]"
   - "[[Path Dependence]]"
-  - "[[Human Capital Theory]]"
-  - "[[Dependency Theory]]"
   - "[[Conditioned State Theory]]"
   - "[[Strategic Bargaining Theory]]"
-  - "[[World-Systems Theory]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
-  - "[[Cost-Benefit Analysis]]"
+related_methods: []
 related_instruments: []
 related_facts:
-  - "[[World Bank]]"
   - "[[Inter-American Development Bank]]"
   - "[[UNESCO]]"
   - "[[Comparative and International Education Society]]"
   - "[[British Association for International and Comparative Education]]"
-  - "[[Education for All]]"
-  - "[[UN Sustainable Development Goals]]"
   - "[[PISA for Development]]"
-  - "[[Systems Approach for Better Education Results]]"
-  - "[[OECD]]"
+  - "[[World Bank]]"
 related_persons:
+  - "[[Jason Beech]]"
   - "[[Philip Altbach]]"
   - "[[Val D. Rust]]"
-  - "[[Claudio de Moura Castro]]"
-  - "[[Jason Beech]]"
 related_arguments:
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rust_2009_Reflections]]"
-  - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Development Education
@@ -265,8 +232,6 @@ updated: 2026-10-21
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018, p. 273)]] | 经合组织（OECD）2015 年启动面向中低收入国家的 PISA for Development（PISA-D）试点 | 跨国治理机构职能扩展与指标话语分析 | 跨国标准化测评向发展中国家下沉规模与软治理机制 | 证实经合组织通过研发 PISA-D，将客观硬事实建构下沉至巴拉圭、塞内加尔、柬埔寨等全球南方中低收入国家，重塑其教育质量监测范式 | 质性政策文本考证 | 揭示非传统援助性跨国机构依托数据中介向发展教育领域拓展认知权威的最新趋势 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从多边开发银行内部实务视角反思发展教育，揭示主权信贷的物质基础、组织学习在设计与执行端的双重断裂，以及拨付考核导致的投入导向异化。

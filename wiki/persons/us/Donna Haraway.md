@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -46,9 +46,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 
 **[[Sympoiesis]]（共同制造）** Haraway 的核心概念，意为"与他人一起制造"（making with），与 [[Autopoiesis]]（自我制造）形成对照。Haraway 强调 sympoiesis 与 autopoiesis 的差异，否定后者对自我指涉性的强调。Sympoiesis 意味着[[Humility|谦逊]]地、response-able 地回应彼此需求([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 
@@ -62,9 +60,7 @@ updated: 2026-10-16
 
 ---
 
-## 主要著作与思想发展
-
-> [!abstract|notitle]
+> [!abstract] 主要著作与思想发展
 
 - Haraway, D. (2016). *Staying with the trouble: Making kin in the Chthulucene*. Duke University Press. — 提出 [[Sympoiesis]]、[[Response-ability]] 和 SF 叙事，开辟[[Posthumanism|后人类主义]]的关系性伦理方向
 
@@ -76,9 +72,7 @@ updated: 2026-10-16
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 
 - Amos 认为与 Haraway 教育愿景最兼容的教育理论家是 [[John Dewey]]，而非 Wilhelm von Humboldt 或 Maria Montessori([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])
 - Haraway 也是新唯物主义（new materialism）的代表人物，教育对她而言意味着物质性和身体性的连接([[Argument_Amos_2022_Springer|Amos, 2022, p.63]])

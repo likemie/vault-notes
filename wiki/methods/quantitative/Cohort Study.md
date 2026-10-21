@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,24 +26,23 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
-  - "[[Variable]]"
-  - "[[Pre-test Sensitisation]]"
-  - "[[Attrition]]"
-  - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[Achievement and Aptitude Tests]]"
+  - "[[Variable]]"
+  - "[[Attrition]]"
+  - "[[Pre-test Sensitisation]]"
   - "[[Areas of Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"
-  - "[[Trend Study]]"
-  - "[[Cross-sectional Study]]"
   - "[[Questionnaire]]"
   - "[[Semi-structured Interview]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Trend Study]]"
+  - "[[Cross-sectional Study]]"
   - "[[Survey Research]]"
 related_persons:
   - "[[Robert Arnove]]"
@@ -51,12 +50,12 @@ related_facts:
   - "[[Reach]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cohort Study
@@ -163,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

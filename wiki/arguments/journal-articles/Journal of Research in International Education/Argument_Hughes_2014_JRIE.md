@@ -49,7 +49,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-03
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hughes_2014_JRIE"
@@ -263,9 +263,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 课程指南的文本分析只能支持对书面课程的反思与评论，不能据此确定学生实际 ToK 经历中[[Critical Thinking\|批判性思维]]的数量或质量。提升课程中的批判性思维还取决于教学质量、教师专业发展、评价与评分调节等情境因素。（pp.31, 35）
 
 ---

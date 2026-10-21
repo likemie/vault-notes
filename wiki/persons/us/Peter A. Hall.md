@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peter A. Hall
@@ -77,9 +77,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1952** 出生于加拿大安大略省。
 > - **1974** 于麦吉尔大学（McGill University）获经济学与政治学学士学位（一等荣誉）。
 > - **1976** 于牛津大学贝利奥尔学院（Balliol College, Oxford）获哲学、政治学与经济学（PPE）硕士学位。
@@ -137,9 +135,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **密切合作者** 罗斯玛丽·泰勒（Rosemary C. R. Taylor）— 共同提出新制度主义三大学派分类。
 > - **密切合作者** 戴维·索斯基斯（David Soskice）— 共同创立[[Varieties of Capitalism|资本主义多样性]]理论框架。
 > - **理论同行与编著合作者** [[James Mahoney]] — 共同推进[[Historical Institutionalism|历史制度主义]]微观能动性与渐进演进分析。
@@ -165,9 +161,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Severability of Politics and Pedagogy
@@ -77,9 +77,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 恶政与教学法可分性命题 | [[Structural Functionalism\|结构功能主义]]整体论 | 批判意识形态再生产论 |
 > |---|---|---|---|
 > | **对政教关系的预设** | 相对自主与自然可分 | [[Structural Coupling\|结构耦合]]与顺向功能匹配 | 总体性[[Hidden Curriculum\|隐蔽课程]]与阶级霸权共谋 |
@@ -142,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1830s–1850s — 论辩成型与制度创生** 斯托、曼与巴纳德提出政教可分辩驳，直接推动美国公立国民公学（[[Common School Movement|Common School]]）与[[Normal School|师范学校]]（Normal School）落地，奠定北美公共教育基石。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 125–126)]]
 > - **1930s — 历史主义反思与批评** [[Isaac Kandel|坎德尔]]（[[Isaac Kandel]]）在反思美国教育史时批评 19 世纪先驱过于关注制度与组织的外在描述，低估了普鲁士民族国家精神与专制传统的深层约束。
 > - **2009 — 学科反思中的[[Epistemology|认识论]]平反** 拉斯特等人在《国际比较教育手册》中为斯托与曼平反，指出老一代史学家脱离语境贬低早期借用者，实质上遮蔽了先驱们清醒的情境敏感度与精细的认识论辩驳模型。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
@@ -162,7 +158,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 考证斯托与曼在 19 世纪美国[[Common School Movement|公学运动]]中提出的恶政与教学法可分性[[Epistemology|认识论]]，为[[Influences Across Cultures|跨文化影响]]考证确立学科认识论合法性。

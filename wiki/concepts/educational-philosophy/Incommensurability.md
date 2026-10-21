@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Incommensurability
@@ -200,9 +200,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1962 年 — 科学哲学诞生期** 托勒密与哥白尼之争促使[[Thomas Kuhn\|托马斯·库恩]]在《科学革命的结构》中首次提出不可[[Commensuration\|通约]]性命题，彻底动摇了逻辑[[Positivism\|实证主义]]科学累积主义神话。
 > - **1970–1980 年代 — 社会学元理论移植** 伯勒尔与摩根（Burrell & Morgan, 1979）将[[Paradigm\|范式]]不可通约性引入社会理论，构建主客观四维象限模型，论证各象限之间的哲学不可调和性。
 > - **1980–1990 年代 — 教育研究[[Paradigm Wars\|范式战争]]白热化** 格奇（Gage, 1989）将不可通约性提炼为教育研究量化实证与质性诠释阵营激战的[[Epistemology\|认识论]]根源，双方各自坚守范式忠诚。
@@ -245,9 +243,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 详尽解构库恩[[Paradigm|范式]]理论中的不可[[Commensuration|通约]]性机制，剖析其如何引爆[[Paradigm Wars|范式战争]]并触发[[Mixed Methods Research|混合方法]]运动。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm|实用主义]]调和策略。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

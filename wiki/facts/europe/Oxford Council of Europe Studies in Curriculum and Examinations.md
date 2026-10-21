@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Oxford Council of Europe Studies in Curriculum and Examinations
@@ -98,9 +98,7 @@ updated: 2026-10-15
 
 ---
 
-## 相关概念／项目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／项目
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

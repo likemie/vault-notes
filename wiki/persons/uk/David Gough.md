@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # David Gough
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990s** 加入伦敦大学教育学院（现 UCL IOE）社会科学研究部，长期领导社会科学与教育领域的[[Systematic Review\|系统综述]]方法学创新，出任 [[EPPI-Centre]] 主任。
 > - **2007** 提出奠基性的证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）多维评价框架，打破单纯依赖单一研究设计等级的狭隘[[Positivism\|实证主义]]评价模式。
 > - **2010–2013** 领衔主持[[EU|欧盟]]委员会资助的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统调研欧洲各国教育证据利用生态与体制障壁。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 67–68)]]
@@ -124,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定了当代教育[[Evidence Ecosystem\|证据生态系统]]模型与双层嵌套架构，影响了包括[[OECD\|经合组织]]（[[Centre for Educational Research and Innovation\|OECD CERI]]）、澳大利亚 [[Australian Education Research Organisation\|AERO]]、英国 [[Education Endowment Foundation\|EEF]] 等国际智库与中介组织的分析[[Paradigm\|范式]]。
 > - **方法路径** 发展出[[Systematic Review\|系统综述]]质性与[[Mixed Methods Research\|混合方法]]综合（如[[Framework Synthesis\|框架综合]]、[[Construct\|构念]]综合）的标准规程，建立了权衡方法[[Reliability\|信度]]与情境相关性的多维[[Weight of Evidence Framework\|证据权重框架]]。
 > - **政策与实践路径** 长期担任英国议会科技委员会、政府部门及国际组织的循证政策顾问，深度参与塑造英国[[What Works Network\|有效性网络]]（What Works Network）与全球[[Evidence-Based Education\|循证教育]]治理战略。

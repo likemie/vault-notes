@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Soviet Statism
@@ -81,9 +81,8 @@ updated: 2026-10-20
 > - [[Informationalism]] — 国家主义是信息主义理论中用来解释[[Informationalization\|信息化]]转型失败的核心制度[[Variable\|变量]]。苏联国家主义是这一变量的极端历史案例。
 
 ---
-## 实证发现
 
-> [!stat-cards|notitle]-
+> [!stat-cards]- 实证发现
 > - **2/3** 1980年代军工占苏联工业生产的比例。
 > - **15–25%** 军工占 GNP 的比例，1987年美国军工占 GNP 峰值仅为 6.6%。
 > - **10,000 / 1.3M** 1986年苏联与美国计算机主机数量的对比。

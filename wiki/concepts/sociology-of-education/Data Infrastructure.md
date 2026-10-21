@@ -31,9 +31,9 @@ related_methods:
   - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Hartong_2018_GSE]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_concepts:
   - "[[Assemblage]]"
   - "[[Recontextualization]]"
@@ -47,29 +47,29 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Data Literacy]]"
   - "[[Evidence-Based Education]]"
+  - "[[Subsidiarity Principle]]"
+  - "[[European Education Space]]"
   - "[[Topological Spatialisation]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Center of Calculation]]"
-  - "[[European Education Space]]"
-  - "[[Subsidiarity Principle]]"
 related_persons:
   - "[[Rob Kitchin]]"
   - "[[Christof Wecker]]"
 related_facts:
+  - "[[EU]]"
   - "[[PISA]]"
   - "[[Vergleichsarbeiten]]"
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
-  - "[[EU]]"
 related_theories:
   - "[[Governing at a Distance]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Data Infrastructure
@@ -103,10 +103,10 @@ updated: 2026-10-21
 > [!contrast-table] 数据基础设施与相近概念辨析
 > | 维度 | 本概念：数据基础设施（Data Infrastructure） | 教育管理信息系统（Education Management Information System, EMIS） | 商业教育数字平台（Digital Platforms） |
 > |---|---|---|---|
-> | **[[Ontology|本体论]]定位** | 开放、演化且高度纠缠价值立场的社会-技术装配网络 | 封闭、静态、预设为客观中立的行政事务管理工具 | 以资本盈利与用户粘性为导向的商业化数字中介 |
-> | **核心机制** | 数据的去情境化抽取、算法[[Commensuration|通约]]折算与分层再呈现 | 事实信息的层级流转、格式化归档与事务性统计输出 | 用户行为追踪、算法推荐、私有化协议与数据资产变现 |
-> | **[[Knowledge Production|知识生产]]方式** | 充满妥协的试错调配（cooking）与多方利益拉锯 | 严格遵循预设业务逻辑与法条规章的标准录入与查询 | 基于黑箱算法与私有代码的自动化数据挖掘与预测 |
-> | **权力效应** | 制造次级代表表象，通过算法指标弥散性重塑治理能见度 | 维持[[Bureaucracy|科层制]]组织内部既有的行政汇报层级与监督权威 | 培育对商业平台的生态依赖，蚕食公共教育主权 |
+> | **[[Ontology\|本体论]]定位** | 开放、演化且高度纠缠价值立场的社会-技术装配网络 | 封闭、静态、预设为客观中立的行政事务管理工具 | 以资本盈利与用户粘性为导向的商业化数字中介 |
+> | **核心机制** | 数据的去情境化抽取、算法[[Commensuration\|通约]]折算与分层再呈现 | 事实信息的层级流转、格式化归档与事务性统计输出 | 用户行为追踪、算法推荐、私有化协议与数据资产变现 |
+> | **[[Knowledge Production\|知识生产]]方式** | 充满妥协的试错调配（cooking）与多方利益拉锯 | 严格遵循预设业务逻辑与法条规章的标准录入与查询 | 基于黑箱算法与私有代码的自动化数据挖掘与预测 |
+> | **权力效应** | 制造次级代表表象，通过算法指标弥散性重塑治理能见度 | 维持[[Bureaucracy\|科层制]]组织内部既有的行政汇报层级与监督权威 | 培育对商业平台的生态依赖，蚕食公共教育主权 |
 
 ---
 
@@ -199,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990s — 信息基础设施与科学学起源** Bowker and Star (1999) 奠定基础设施研究基石，指出分类标准、编码规程与信息管道构成了现代社会不可见的隐性秩序基底。
 > - **2009 — 超国家数据基础设施共生与欧洲教育空间协同** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 32–35)]] 揭示欧盟如何在缺乏统一立法权的情境下，通过资助 80% 调查成本、直接采购 50%–60% 基础数据以及法定嵌入 INES 委员会，深度融入经合组织数据基础设施，将数字指标作为整合[[European Education Space|欧洲教育空间]]的核心治理工具。
 > - **2014 — 批判性数据研究与数据汇聚体提出** 罗布·[[Rob Kitchin|基钦]]（Rob Kitchin）提出数据汇聚体（Data [[Assemblage]]）框架，强调数据系统是围绕思想观念、法律规章、技术代码与物质财富动态结网的权力系统。
@@ -243,7 +241,7 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 32–35)]] | 欧盟委员会（EC）与经合组织（OECD）跨机构数据合作机制 | 政策文献、预算审计与决策官员深度访谈 | 跨国数据基础设施共生度、资金资助比例与指标采纳率 | 欧盟预算直接承担成员国 80% 的 PISA 参与成本；欧盟里斯本战略指标报告中 50%–60% 基础数据直接采购于经合组织；依托 UOE 联合数据集并在 INES 科学委员会享有常态法定席位 | 质性深度饱和分析与预算规程考证 | 证实超国家机构在缺乏硬法立法权下，通过嵌入外部数据基础设施实现欧洲教育空间的一体化软性治理 |
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018, pp. 140–145)]] | 德国 16 个联邦州、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） | 纵向多层级质性[[Case Study\|案例研究]]与专家访谈 | 跨尺度测评网络、题库数字化与中央数据库集成 | [[Vergleichsarbeiten\|VERA]] 测评自 2004 年后覆盖全德 16 州；IQB 在 FDZ 统筹集成国内外多源大规模评估数据库并运营标准教学任务平台 | 质性规程与机制追踪 | 证实数据基础设施在法律禁止公开排名的环境下依然能够重构治理拓扑并实现[[Governing at a Distance\|远处治理]] |
@@ -252,8 +250,6 @@ updated: 2026-10-21
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 34–36)]] | 针对可见学习收录的 800 余项一级[[Meta-analysis\|元分析]]及实证证据库生态 | 方法学批判与基础设施设计重构 | 中央证据数据库规范、主要研究全量元数据表、Hedges' $g$ 标准化与出版清单（Publikationslisten）认证 | 指出商业期刊篇幅与显著性偏爱导致基础统计量（$n_E, n_C, s_E, s_C$）大面积缺失；证明二阶元分析无法替代一级元分析；提出独立于商业出版的中央标准化证据数据库 | 逻辑论证与元分析数学等价性推导 | 确立了从制度与基础设施源头终结[[Publication Bias\|发表偏倚]]并实现动态一级元分析的方法学纲领 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟如何通过资助 80% 成本、采购 50%–60% 统计数据并嵌入 INES 委员会，依托经合组织数据基础设施在缺乏立法权下协调欧洲教育空间。

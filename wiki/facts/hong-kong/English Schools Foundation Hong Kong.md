@@ -11,7 +11,7 @@ subtype: organization
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -24,23 +24,20 @@ tags:
   - level/k12
   - theme/international-schools
 related_concepts:
-  - "[[Chinese Learner]]"
   - "[[Fourth Culture]]"
   - "[[International Schools]]"
-  - "[[International Education]]"
-  - "[[General Education]]"
+  - "[[Chinese Learner]]"
 related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
   - "[[Liberal Studies]]"
-  - "[[Symposium on International Teaching]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # English Schools Foundation Hong Kong
@@ -128,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

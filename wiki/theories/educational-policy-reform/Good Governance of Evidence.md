@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Good Governance of Evidence
@@ -81,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -174,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 国家或区域级教育政策制定、中央[[Educational Evidence Clearinghouses\|证据清算中心]]与智库运作、学校系统层面的问责与科研采纳机制。
 > - **谨慎使用** 纯粹属于班级微观层面的即时教学机智或高度个体化的心理认知辅导场景。
 > - **不适合解释** 纯粹的基础学科概念教学设计或与公共决策无涉的实验室心理学规律测定。
@@ -184,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **2017 — 专著奠基** [[Justin Parkhurst]] 出版专著《The Politics of Evidence: From [[Evidence-Based Policy-Making|Evidence-based Policy]] to the Good Governance of Evidence》，系统批判技术主义弊端并确立良好治理架构。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
 > - **2018–2021 — 跨领域扩展** 理论广泛渗透至卫生政策、发展经济学及环境治理领域，引发政策界对证据政治学与审议问责的广泛研讨。
 > - **2022 — 教育证据生态吸纳** [[Mark Rickinson]] 等人在探讨教育证据高质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]）时，将证据良好治理引入宏观系统影响维度，确立其在教育科研转化治理中的理论地位。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
@@ -214,7 +208,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 将良好治理理论引申为 [[Quality Use of Research Evidence Framework\|QURE]] 框架宏观系统支持构件的[[Epistemology\|认识论]]基石。

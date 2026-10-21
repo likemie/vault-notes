@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Politicity of Education
@@ -170,9 +170,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1968–1970 — [[Paulo Freire|弗莱雷]]奠定教育政治性[[Ontology|本体论]]基石** [[Paulo Freire|保罗·弗莱雷]]在流亡期间出版《被压迫者教育学》，正式提出教育具有固有的政治性（Politicidade），开创[[Critical Pedagogy|批判教育学]]传统。
 > - **1980s–1990s — 批判教育学与国家理论的深度结合** [[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与[[Henry Giroux|亨利·吉鲁]]（Henry Giroux）等学者将政治性命题拓展至西方发达资本主义国家的意识形态国家机器分析与课程社会学研究。
 > - **2000s–2010s — [[Conditioned State Theory|受限国家]]与新自由主义全球化批判重构** 托雷斯与[[Liliana Esther Olmos|奥尔莫斯]]（2009）将教育政治性理论引入外围依附性国家与新自由主义重组批判，揭露[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的技术中立欺骗性。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 77–80)]]
@@ -206,9 +204,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -225,7 +221,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 汲取[[Paulo Freire|弗莱雷]]批判传统，深度论证教育政治性在[[Epistemology|认识论]]、分析与伦理上的三重内涵，系统解构技术主义与[[Value Neutrality|价值中立]]的意识形态虚构。

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Focused Research Organization
@@ -193,8 +193,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 [[Office of Science and Technology Policy|OSTP]] 报告系统论述聚焦研究组织（FRO）的制度优势，分析其如何通过 5 年[[Sunset Provisions|日落条款]]、全职职业团队与中等规模资助填补大学与企业之间的公共品供给赤字，并倡导联邦层面开展专项资助试点。
 > - Marblestone, A., et al. (2020) — 提出聚焦研究组织（FRO）[[Construct|构念]]的奠基性白皮书，详尽论证科研生态中“中间地带真空”的成因与工程化公共品解决方案。

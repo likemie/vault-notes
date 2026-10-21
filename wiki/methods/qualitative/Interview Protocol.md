@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Interview Protocol
@@ -141,9 +141,7 @@ updated: 2026-10-20
 > - 询问是否可以后续跟进（如需澄清某些观点）
 > - 回应受访者关于研究结果的询问（如提供最终[[Abstract\|研究摘要]]）
 
-### 操作建议
-
-> [!tip|notitle]
+> [!tip] 操作建议
 > - 提前记住问题，避免在访谈中只是朗读协议，给受访者留下生硬的印象
 > - 即使使用录音，也做笔记以防设备故障
 > - 记录访谈的时间、日期、地点以及访谈者和受访者姓名（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9）
@@ -266,9 +264,7 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

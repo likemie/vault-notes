@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Realism in International Relations
@@ -149,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入探讨了现实主义如何在大国竞争、工业冲突、太空恐慌和帝国扩张下，将学科绑架于地缘利益之战中。
 > - [[Development Turn in Comparative Education]] (比较教育的发展转向) — 展现了冷战地缘博弈下，现实主义在大国向第三世界输出代理人时期的实证表现。
 > - [[Reference Society]] (参照社会) — 现实主义视角下为了确立自我相对实力定位而建立的研究与投影框架。

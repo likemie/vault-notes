@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # DARPA Model
@@ -160,9 +160,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深度解构 [[DARPA]] 模式微观本质的里程碑论文，确立[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
 > - Bonvillian and Van Atta (2011) — 提出 DARPA 作为国家技术变革“连通性发动机”的综合分析模型。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把 DARPA 写成由项目经理下技术赌注的容器，[[ARPA-H]] 与 [[ARPA-E]] 是其延伸；成功在于用对人并给予裁量，[[Focused Research Organization|聚焦研究组织]]则填补另一类资助空缺。

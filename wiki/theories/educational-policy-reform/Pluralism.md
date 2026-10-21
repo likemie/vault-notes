@@ -73,25 +73,25 @@ related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[Goh Report]]"
   - "[[Speak Mandarin Campaign]]"
+  - "[[Swedish Schools Inspectorate]]"
   - "[[National Council of Teachers of English]]"
   - "[[International Reading Association]]"
   - "[[Reading Excellence Act]]"
   - "[[PISA]]"
   - "[[Bologna Process]]"
   - "[[German Dual Education System]]"
-  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pluralism
@@ -133,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -207,8 +205,6 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 民主政体下的立法与政策博弈、多元族群国家的语言文化政策调适、国家循证治理中的知识简化过滤机制、跨国[[Policy Borrowing|政策借用]]的本土转化、[[Comparative Education as a Cross-Sectional Area|交叉学科]]的[[Knowledge Production|知识生产]]史。
 > - **成立条件** 需要制度化的表达通道、信息透明度、自发社团组织，以及跨越部落主义的共同政治伦理共识。
@@ -240,8 +236,6 @@ updated: 2026-10-21
 > > - **自由主义程序中立派（Rawls, 2005; Benedict, 1934; Sennett, 1994; Nussbaum, 1994）** 主张政治自由主义与[[Cosmopolitanism|世界主义]]必须在人生目的上保持中立，避免将特定文化或国家认同强加于多元公众。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 检验传统多元主义写信动员的失败，论证[[Cultural Capital|文化资本]]对多元博弈的阻隔，倡导[[Critical Pluralism|批判性多元主义]]。

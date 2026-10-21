@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Symbionts
@@ -200,7 +200,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定共生者（寄生型与互利型）作为长期依赖制度存续、短期违规操作的变革行动者，阐明其驱动[[Institutional Drift|制度漂移]]与拓展制度稳健性的微观机制。

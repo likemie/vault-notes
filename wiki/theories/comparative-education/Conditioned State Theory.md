@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Conditioned State Theory
@@ -105,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:-----|
@@ -184,9 +182,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 处于世界资本主义体系边缘地位、深受外债制约、国内存在较强寡头统治或后封建残余的第三世界发展中国家。
 > - **成立条件** 必须存在显著的外部资本依附结构以及国家公共权力向特定统治精英倾斜的历史现实。
 > - **解释不足** 容易滑向宏观结构[[Determinism|决定论]]，低估了微观学校[[Champ|场域]]中校长、基层教师与学生群体的日常抵抗能动性；将国家视为过于同质化的压迫实体，忽略了教育部、财政部等不同部门之间的官僚利益博弈；且在教育等社会政策领域容易高估外部多边机构的全能支配力，低估了借款国基于本土政治生存行使实质否决权以及“策略性借用”外部条件的能动性（Hunter & Browne, 2000; [[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）。
@@ -223,9 +219,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -241,9 +235,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 系统阐发受限国家理论、[[State Corporatism|国家法团主义]]与新自由主义全球化下教育扩张的政治社会学。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 深入多边银行主权贷款实务，检验受限国家理论在社会政策维度的实证边界，揭示国内政治生存如何压倒外部信贷条件。
 

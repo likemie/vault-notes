@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Impetus
@@ -148,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -165,9 +163,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 绘制 Impetus 背后的贝恩资本、KKR、黑石集团等跨国私募网络（图 3），解构其与[[Sutton Trust\|萨顿信托]]联合创办 [[Education Endowment Foundation\|EEF]] 并输出至澳大利亚的资本路径。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Impetus 与萨顿信托联合参与英国教育部公开竞标并设立 1.25 亿英镑留本基金的历史经纬。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 剖析由[[Venture Philanthropy\|风险慈善]]母体孵化独立证据中介以平衡政府政治干预的制度机制。

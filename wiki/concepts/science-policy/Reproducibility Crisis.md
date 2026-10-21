@@ -51,7 +51,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reproducibility Crisis
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 可重复性危机（Reproducibility Crisis） | 学术不端（Scientific Misconduct） | [[Paradigm\|范式转换]]与正常假说[[Falsification\|证伪]] |
 > |---|---|---|---|
 > | **性质根源** | 统计功效不足、出版偏倚与研究自由度滥用；评价激励与核验脱节 | 主观恶意伪造（Fabrication）、篡改（Falsification）或抄袭 | 新实验技术与更优理论对旧假说的经验替代 |
@@ -161,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2005–2010 — 理论预警与早期统计反思** 流行病学学者约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数发表的研究成果都是虚假的》，引发跨学科对统计功效不足与[[Publication Bias|发表偏差]]的学术反思。
 > - **2011–2015 — 大规模经验复现与危机正式确立** 开放科学协作组（Open Science Collaboration）在《科学》（*Science*）发表心理学重复性研究报告，显示仅约 1/3 的经典实验能够成功重现，危机概念正式席卷全球学界。
 > - **2016–2024 — 开放科学运动与期刊审查强化** [[Preregistration|预注册]]（Preregistration）、注册报告（Registered Reports）以及强制开源数据代码成为主流期刊共识，危机应对主要聚焦于学界内部自律改革。
@@ -209,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把复制失败、迟来的撤稿和人工智能带来的投稿涌增收成一个核心判断：生成变便宜之后，必须将数据开源、方法透明与自动化核验作为国家科研资助的基石。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学政策与政治社会学视角切入，揭示可重复性危机如何从学术界内部的方法论讨论，被美国行政中枢借用为重塑科学合法性基础、将学术自治压制为受限自治的契约性工具。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育学全球影响最大的[[Meta-meta-analysis|二阶元分析]]知识库开展全量复现检验，发现 301 项中仅 2 项可复现，实证展现了可重复性危机从初级实验向高阶[[Research Synthesis|证据综合]]基础设施的蔓延。

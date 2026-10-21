@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critical Raw Materials Act
@@ -126,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -139,7 +137,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 基于全球 BACI-CEPII 贸易数据库系统测算美欧在采矿与提纯阶段的对外依赖度，指出[[EU|欧盟]]自 2008 年以来的预警政策未能改善铜、钴、镓与稀土的依赖，深入评析《关键原材料法案》出台的战略背景与治理挑战（pp. 3–5, 16）。

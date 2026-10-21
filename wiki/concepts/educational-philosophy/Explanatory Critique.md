@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Explanatory Critique
@@ -158,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979–1986 年 — 理论奠基阶段** [[Roy Bhaskar|罗伊·巴斯卡]]在《社会科学的可能》与《科学实在论与人类解放》中首次形式化阐述解释性批判概念，正面挑战逻辑[[Positivism|实证主义]]的[[Value Neutrality|价值中立]]神话。
 > - **1994–1999 年 — 系统化与[[Ontology|本体论]]深化** 安德鲁·科利尔出版《[[Critical Realism|批判实在论]]导论》与《存在与价值》，系统阐明由真理关切跨越至价值规范批判的严密推导程序。
 > - **2013 年 — 引入批判政策[[Discourse Analysis|话语分析]]** [[Norman Fairclough|诺曼·费尔克拉夫]]在《[[Critical Discourse Analysis|批判话语分析]]与批判政策研究》中，正式将解释性批判确立为 CDA 宏观社会实践分析维度的理论灵魂。
@@ -189,9 +187,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将解释性批判贯穿于[[Belt and Road Initiative|一带一路]]教育政策[[Discourse Analysis|话语分析]]三维模型，揭示[[Education Going Global|高教出海]]服务国家地缘经济与[[National Rejuvenation Narrative|民族复兴]]的深层因果机制。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 运用[[Critical Realism|批判实在论]]解释性批判，解构新自由主义学校改进指标背后的虚假等值机制。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 结合解释性批判反思英国公立[[Educational Privatisation|教育私有化]]进程中社会阶层隔离的深层制度根源。

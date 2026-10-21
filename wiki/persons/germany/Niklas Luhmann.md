@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Niklas Luhmann
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927** 出生于德国下萨克森州吕讷堡。
 > - **1946–1949** 在弗赖堡大学修读法学，毕业后进入吕讷堡高级行政法院与下萨克森州议会从事公共行政法务工作。
 > - **1960–1961** 获得福特基金会资助赴哈佛大学公共行政学院深造，师从社会学泰斗[[Talcott Parsons|帕森斯]]（Talcott Parsons）研习[[Structural Functionalism|结构功能主义]]与现代系统论。
@@ -159,9 +157,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论渊源／师承** [[Talcott Parsons|帕森斯]]（Talcott Parsons） — 现代[[Structural Functionalism|结构功能主义]]系统论创始人，卢曼的学术领路人；卢曼全盘扬弃了帕森斯的行动参考框架与静态整合预设，转向以[[Autopoiesis|自创生]]与沟通为核心的新系统论。
 > - **世纪论敌** [[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas） — [[Critical Theory|批判理论]]法兰克福学派第二代领袖；哈贝马斯坚持规范性的主体间沟通理性与生活世界拯救，卢曼则坚持反规范、功能分化与操作封闭的纯系统观察，二者展开了战后社会学界最宏大的[[Paradigm|范式]]论战。
 > - **教育学范式继承者** [[Jurgen Schriewer|Jürgen Schriewer]]（于尔根·施瑞尔） — 国际比较教育学系统论学派奠基人，将卢曼的[[Externalization|外化]]命题与自指性系统论[[Creativity|创造性]]运用于全球教育[[Policy Borrowing|政策借用]]研究。
@@ -186,9 +182,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

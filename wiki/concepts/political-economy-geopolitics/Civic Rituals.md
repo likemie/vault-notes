@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Civic Rituals
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 公民仪式（Civic Rituals） | 极权主义群众动员 | 消费娱乐亚文化 |
 > |---|---|---|---|
 > | **组织目标** | 维系立宪法治下的公民团结与防卫意志 | 摧毁个体独立自主，服从独裁国家意志 | 追求商业利润与个体瞬时消遣 |
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19世纪中叶 — 世俗公学与公民仪式确立** [[Horace Mann|霍勒斯·曼]]等改革者建立公共教育体系，将通识阅读与公民[[Patriotic Education|爱国教育]]确立为世俗国家的公民仪式。
 > - **20世纪后半叶 — 多元解构与公民装置荒废** 伴随反战运动、[[Cultural Relativism|文化相对主义]]与通识课程瓦解，国民防务服役外包化、教育正典碎片化，公民仪式被驱逐出公共领域。
 > - **1990s–2010s — 硅谷技术城邦的崛起与替代** 高科技企业园区演化为自足的技术公社，以全员股权与工作社区填补国家公民意义真空。
@@ -176,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -192,7 +186,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, pp. 216–218)]] — 阐释制造国家的传统公民装置如何荒废、硅谷技术城邦如何填补认同真空，并提出重铸[[Technological Republic|技术共和国]]的公民仪式路径。

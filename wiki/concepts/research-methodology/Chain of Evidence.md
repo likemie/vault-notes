@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Chain of Evidence
@@ -192,9 +192,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s–1990s — [[Case Study\|个案研究]]方法论奠基** 殷（Yin, 1984, 1989）在《个案研究方法》中正式提出“证据链”概念，将其作为与[[Triangulation\|三角互证]]并列的[[Qualitative Research\|质性研究]][[Construct Validity\|构念效度]]与[[Reliability\|可靠性]]核心保障机制。
 > - **1990s — 历史科学与地学[[Epistemology\|认识论]]拓展** 奥尔特（Ault, 1998）将证据链引入地球科学与古生物学认识论研究，阐明[[Retrodiction\|回溯推测]]中多源证据链交叉印证的特异性规程。
 > - **2003 — 科学写作与认识论层级编码确立** 高尾与凯利（Takao & Kelly, 2003）将证据链[[Operationalization\|操作化]]为科学论述中的认识论层级（EL）模型，用以量化评价学生学术写作中从数据到主张的证据链整合水平。
@@ -234,8 +232,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 阐释证据链作为连接[[Case Study\|个案研究]]数据收集、分析、推断和结论的可追溯机制，强调情境时空记录对研究审查与复查规划的核心价值（pp. 289, 295）。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 探讨证据链在地球科学[[Retrodiction\|回溯推测]]与学术论证写作中的[[Epistemology\|认识论]]层级结构，揭示其在[[STEM Education\|跨学科科学教育]]与[[Epistemic Practices\|认识论实践]]中的核心功能（pp. 146, 156）。

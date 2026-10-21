@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Participant Observation
@@ -178,9 +178,7 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 在方法体系中的功能与位置 |
 > |:-----|:-----|:------------------------|

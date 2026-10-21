@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-10-18'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research Cage
@@ -87,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 研究牢笼（Research Cage） | 开放田野探究（Open [[Champ\|Field]] Investigation） | 教学论审思（Didaktic Inquiry） |
 > |---|---|---|---|
 > | **[[Epistemology\|认识论]]取向** | 评价理论先验垄断，追求自我证明的数据自足。 | [[Empiricism\|经验主义]]或解释学，保持对复杂生活环境的开放交往。 | 规范性教育学，立足历史文化传承与主体启蒙教化。 |
@@ -154,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2014–2015 — [[Critique of Evidence-Based Education|循证教育批判]]与前奏** 丹麦教育哲学界就证据与教育学（Pædagogik）的关系展开深层论辩，学者指责循证框架将教育压缩为孤立干预[[Variable|变量]]，引发客体失焦（Rømer, 2014; Larsen, 2015）。
 > - **2018 — 概念正式确立** 托马斯·奥斯特鲁普·罗默在《教育哲学与理论》（EPT）发表权威论文，正式铸造“研究牢笼”（research cage）概念，系统剖析[[John Hattie|哈蒂]]可见学习中的[[Operationalization|操作化]]断裂与[[Epistemology|认识论]]封闭。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 6)]]
 > - **当代 — 全球教育治理审视** 研究牢笼概念被广泛用于反思[[International Education|国际教育]]测评与数据密集型治理，成为批判算法问责与教育量化主义的重要理论武器。
@@ -181,16 +177,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 提出研究牢笼概念，从评价理论殖民、[[Dependent Variable|因变量]][[Operationalization|操作化]]脱节与[[Independent Variable|自变量]]循环互证等多重视角，对可见学习理论根基展开五线哲学批判。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

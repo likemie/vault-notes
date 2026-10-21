@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Long-Term Public Utility
@@ -145,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的基础研究负有资助义务，将[[Market Failure|市场失灵]]作为国家介入的机械界限。
 > - **1997 — 斯托克斯引入应用启发维度** [[Donald Stokes|唐纳德·斯托克斯]]在《[[Pasteur's Quadrant|帕斯德象限]]》中将公共资助扩展至兼顾理解与实用的前沿研究，但仍沿用二分法语汇。
 > - **2013 — 长期公共效用概念正式提出** 纳拉亚纳穆尔提等人在《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》中正式确立“长期公共效用”作为替代二分法的新准绳，主张对称支持发现与发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]

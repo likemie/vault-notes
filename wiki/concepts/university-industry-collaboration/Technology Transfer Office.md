@@ -15,7 +15,7 @@ related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - theme/technology-transfer
   - level/higher-education
@@ -199,9 +199,7 @@ created: 2026-06-03
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980 年前 — 边缘兼职与外部代理** 大学几乎没有专职常设[[Technology Transfer|技术转移]]机构；仅少数私立名校（如 MIT、威斯康星大学通过独立研究校友基金会 WARF）尝试管理专利，联邦科研成果多沉睡于政府档案库。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 > - **1980s–1990s — 《[[Bayh-Dole Act of 1980|拜杜法案]]》推动的建制化浪潮** 法案赋予大学联邦资助发明所有权，美国大学迅速建立内部 TTO/TLO，专职负责专利申请、技术许可与版权保护，使大学年度专利数量增长数倍。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 > - **2000s — 国际扩散与东亚西欧体制调试** 日本 2004 年国立大学法人化伴生 TLO 设立；欧洲各国普遍取消“教授特权”（Professors' Privilege）并转向大学集中 TTO 模式，但因地方产业[[Absorptive Capacity|吸收能力]]与法制差异呈现不同绩效。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]

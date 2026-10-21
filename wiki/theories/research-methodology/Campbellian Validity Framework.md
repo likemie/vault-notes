@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Campbellian Validity Framework
@@ -108,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
@@ -169,8 +167,6 @@ updated: 2026-10-21
 
 ---
 
-### 命题三　基于多质多法框架，“循证”构念要求跨评价机构展现经验收敛效度
-
 > [!proposition-chain] 核心命题三｜基于多质多法框架，“循证”[[Construct\|构念]]要求跨评价机构展现经验[[Convergent and Discriminant Validity\|收敛效度]]
 > - **前提一（[[Construct Validity\|构念效度]]的收敛性假设）** Campbell and Fiske (1959) 确立的多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 4)]]
 >   > [!evidence-grid]- 证据
@@ -199,8 +195,6 @@ updated: 2026-10-21
 
 ---
 
-### 教育研究例子
-
 > [!exegesis]- 教育研究例子
 > - **阅读干预的内部效度排除（命题一应用）** 在评估某项小学阅读补救课程时，若干预后阅读流利度提升，研究必须通过随机分配或 ABAB 阶段撤回，排除“学生年龄自然增长带来的阅读发展（成熟）”以及“学区同期开展的图书馆借阅激励计划（历史）”，方能将提分归因于课程本身([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p. 462]])。
 > - **清算中心构念效度分歧（命题三应用）** 针对 [[Communities in Schools]]（CIS）项目，[[National Dropout Prevention Center\|NDPC]] 依据单项准实验将其评为最高级 Strong，而 WWC 在辍学预防域评为 No Discernible Effects，[[Blueprints for Healthy Youth Development\|Blueprints]] 亦未予认证。这一冲突在 Campbellian MTMM 框架下清晰展现了“有效性”这一构念由于各机构综合门槛不同而发生的内涵异化([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 25–26]])。
@@ -222,9 +216,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 旨在确立[[Causality\|因果关系]]的[[Experimental Research\|实验研究]]、[[Quasi-Experimental Designs\|准实验设计]]、单一被试研究以及针对证据评价体系的[[Construct Validity\|构念效度]]元评估。
 > - **谨慎使用** 在高度依赖质性探索、[[Phenomenology\|现象学]]阐释、生成性批判或旨在理解行动者主观意义的研究中，不宜机械套用排除威胁的因果四分模型。
 > - **不适合解释** 纯粹的规范性伦理价值选择、意识形态争论或后现代解构主义文本分析。
@@ -263,8 +255,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 运用 Campbellian 框架阐释 [[What Works Clearinghouse\|WWC]] 组间实验与[[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）的[[Internal Validity\|内部效度]]门控逻辑与[[External Validity\|外部效度]]信息捕获机制。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix\|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct\|构念]]的跨机构[[Convergent and Discriminant Validity\|收敛效度]]。

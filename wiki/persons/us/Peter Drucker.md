@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peter Drucker
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1909** 出生于奥地利维也纳，成长于知识分子家庭。
 > - **1931** 在德国法兰克福大学获得国际法与公法学博士学位。
 > - **1937** 移居美国，担任英国银行与保险机构的经济顾问与专栏作家。
@@ -106,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

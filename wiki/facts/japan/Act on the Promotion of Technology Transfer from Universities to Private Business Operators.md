@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 # Act on the Promotion of Technology Transfer from Universities to Private Business Operators
@@ -110,9 +110,7 @@ updated: 2026-10-07
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

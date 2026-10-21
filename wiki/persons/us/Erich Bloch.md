@@ -46,7 +46,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Erich Bloch
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!dev-timeline|notitle] 生平与职涯
+> [!dev-timeline] 生平与职涯
 > - **1925** 出生于德国苏茨堡（Sulzburg），后移民美国。
 > - **1952** 毕业于布法罗大学（University of Buffalo）获电气工程学士学位，随后加入 IBM，深度参与 IBM 7030（Stretch）超级计算机及 System/360 架构的固态逻辑芯片（Solid Logic Technology, SLT）工程研发，逐步晋升至负责系统制造的副总裁职位。这段产业一线经历令他对工程学科壁垒的脱节现状有着切身体认。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–371)]]
 > - **1983** 参与[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）关于[[Engineering Research Centers|工程研究中心]]可行性与指南评估专家小组，直接参与制定 ERC 方案雏形。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 370)]]
@@ -158,9 +156,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心搭档与执行者** [[Nam Pyo Suh]] — 麻省理工学院机械工程学者，在布洛赫任内出任 [[National Science Foundation|NSF]] 工程学副主任，共同确立 [[Engineering Research Centers|ERC]] 项目核心概念与评审流程。
 > - **政策同盟与资助骨干** 威廉·哈里斯（William Harris）— NSF 科学与数学部前主任，后出任[[Science Foundation Ireland|爱尔兰科学基金会]]（SFI）总干事并将 ERC 模式移植至爱尔兰。
 > - **领导机构** [[National Science Foundation]] — 1984–1990 年担任其主任，推动工程学部与重大中心计划的制度化。
@@ -168,9 +164,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

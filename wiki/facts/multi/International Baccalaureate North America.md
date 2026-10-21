@@ -36,7 +36,7 @@ related_theories: []
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # International Baccalaureate North America
@@ -119,9 +119,7 @@ updated: 2026-10-16
 >
 > 培训人数说明 IBNA 的扩张能力从办公室宣传转向可重复的专业支持；它不能单独证明课堂质量提升。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 149–152)]]
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|

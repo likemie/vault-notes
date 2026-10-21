@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Louis Mountbatten
@@ -102,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **组织路径** 把大西洋学院之外的扩展工作变成有名称、法律载体、理事会、董事会和办公室的国际网络。
 > - **政治路径** 借政府首脑、教育官员和国家赞助人支持，为地方创校与奖学金建立公共正当性。
 > - **财政路径** 通过个人捐助与大型活动筹款，帮助运动渡过国际办公室缺少固定收入的阶段。

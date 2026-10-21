@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Electronic Design Automation
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 电子设计自动化（EDA） | 通用计算机辅助工程（[[Council for Aid to Education\|CAE]] / CAD） | 工艺设计套件（[[Process Design Kit\|PDK]]） |
 > |---|---|---|---|
 > | **核心对象** | 微纳晶体管网络、互连拓扑、数字逻辑与微电子系统架构 | 宏观机械结构、流体力学、建筑几何及通用物理部件 | 晶圆代工厂特定制造工艺节点的电学参数与制造规则数据库 |
@@ -143,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s — 计算机辅助制图与仿真起源** 集成电路设计主要依赖手绘多边形光罩图纸，加州大学伯克利分校开发出 SPICE 电路仿真程序，首次实现非线性模拟电路计算机时序仿真。
 > - **1979–1980 — Mead-Conway 超大规模集成电路结构革命** 卡弗·米德（Carver Mead）与林恩·康威（Lynn Conway）提出基于通用几何规则与硬件描述语言的 [[VLSI Project|VLSI]] 设计解耦思想，为现代自动化逻辑综合奠定了理论[[Paradigm|范式]]。
 > - **1980s–1990s — 商业化综合工具与无晶圆厂生态形成** 新思科技（Synopsys）推出首款商业化静态逻辑综合器，Cadence 完善自动布局布线系统；EDA 工具的成熟推动芯片设计与制造彻底解耦，催生了纯设计（Fabless）与纯代工（Foundry）商业模式的繁荣。
@@ -178,9 +174,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|
@@ -195,8 +189,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明后摩尔时代[[Heterogeneous Integration|三维异构集成]]对多物理场 EDA 仿真工具的紧迫需求，并提出依托 [[DARPA]] Toolbox 模式与开源生态消除学术界和初创企业软件准入门槛的战略方案（pp. 15–16, 23–24）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 从科技主权与不对称地缘博弈视角，深入论证 EDA 软件在现代微电子技术栈中的寡头垄断格局及其作为关键制衡卡点的决定性意义（pp. 102–106）。

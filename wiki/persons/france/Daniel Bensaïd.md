@@ -11,7 +11,7 @@ summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -45,14 +45,13 @@ related_methods: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Edward Said]]"
-  - "[[Daniel Bensaïd]]"
   - "[[Carlos Alberto Torres]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Daniel Bensaïd
@@ -73,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1946** 出生于法国图卢兹一个工人阶级与犹太难民家庭，青年时期考入巴黎高等[[Normal School|师范学校]]圣克卢校区（École Normale Supérieure de Saint-Cloud），专攻哲学与历史。
 > - **1968** 作为“三二二运动”（Mouvement du 22 Mars）核心发起人之一，与丹尼尔·科恩-本迪（Daniel Cohn-Bendit）共同引爆了席卷全法的“五月风暴”学生与工人总罢工。
 > - **1969–1990s** 长期作为法国革命共产主义同盟（LCR）与第四国际核心领导人，同时任教于具有激进批判学术传统的巴黎第八大学哲学系，开创非教条主义马克思主义哲学研究。
@@ -108,18 +105,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 为 21 世纪[[Critical Pedagogy|批判教育学]]与教育政治社会学提供了坚实的哲学[[Epistemology|认识论]]支柱，其冷面科学与炽热乌托邦的辩证构想，直接被托雷斯等学者用作重构比较教育解放性[[Praxis|实践哲学]]的方法论指南。
 > - **认识论转化** 破除了批判学者在面对跨国金融资本垄断时容易陷入的悲观宿命论，将“斗争的不可预测性”与“行动的伦理必然性”相结合，激活了当代批判反抗的[[Discourse|话语]]力量。
 > - **跨国传播** 其著作被翻译为西语、葡语、英语等多种语言，深刻影响了拉美激进[[Popular Education|民众教育]]学者、欧洲反紧缩运动倡导者与世界社会论坛的政策抗辩网络。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想传承** 安东尼奥·葛兰西（Antonio Gramsci） — 深度继承其“[[Praxis|实践哲学]]”概念与文化统识批判。
 > - **哲学对话者** 让-保罗·萨特（Jean-Paul Sartre） — 吸收萨特在《方法论问题》中论证“马克思主义依然是我们这个时代不可逾越的哲学”的存在主义实践立场。
 > - **理论共鸣者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在分析拉美[[Conditioned State Theory|受限国家]]危机与新自由主义抵抗时，将本[[Edward Said|萨义德]]思想确立为全书总结的压轴方法论纲领。
@@ -127,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

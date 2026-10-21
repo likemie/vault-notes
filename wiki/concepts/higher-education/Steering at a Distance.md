@@ -217,9 +217,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1982 — 大学任务分工与专业集聚（Division of Tasks and Concentration, TVC）** 面对财政危机，荷兰[[Research Universities|研究型大学]]通过联合自组协调委员会，自主达成跨校专业合并与学科集中方案，完成 2.57 亿荷盾预算削减与 6000 万荷盾内部储蓄，证明高校具备自我调控潜能。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **1985 — 《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》白皮书（Higher Education: Autonomy and Quality, HOAK）** 教育部正式确立远距离操纵哲学，标志着宏观部门调控、事后质量评估与双年度对话规划机制的顶层设计确立。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 137–138)]]
 > - **1986 — 高等专业教育（Higher Professional Education, HBO）大兼并与统包经费试验** 依据新法案，全国 350 所小型专业学校跨宗派自主合并为约 50 所大型综合性学院；同步推行统包经费划拨，并由院校管理层自主承担 9700 万荷盾的紧缩削减任务，成为远距离操纵最成功的实证试验。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
@@ -267,9 +265,7 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合[[Reflexivity|反思性]]实践者视角与公共管理理论，系统论证荷兰高教远距离操纵治理[[Paradigm|范式]]的提出背景、核心支柱与制度悖论。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 揭示[[OECD|经合组织]]如何将[[New Public Management|新公共管理]]远处掌舵转化为跨国比较绩效技术，重构主权国家教育治理优先次序。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献[[Systematic Review|系统综述]]，揭示标准、统考与问责等规制性工具如何充当现代国家在分权化情境下统驭碎片化多层教育系统的远程调控中介（pp. 248–250）。

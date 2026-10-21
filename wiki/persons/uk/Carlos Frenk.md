@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Carlos Frenk
@@ -54,9 +54,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1951** 出生于墨西哥，后赴剑桥大学获得天文学博士学位。
 > - **1985** 共同发表标志性宇宙学模拟论文，奠定冷暗物质（Cold Dark Matter）理论的基础。
 > - **2004** 当选英国皇家学会会士（FRS）。
@@ -78,25 +76,19 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政策与倡导** 推动英国科学界将科学参与视作科研全生命周期（Research Lifecycle）的内在组成部分，主张在高校晋升、科研经费评价与制度保障中对科学传播给予实质认可。
 > - **跨学科综合** 倡导将基础前沿科学与公众日常生活议题（如气候变化、传染病、人工智能）有机结合，提升全社会的[[Scientific Literacy\|科学素养]]。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** [[Sheila Rowan]] — 共同担任皇家学会《科学为社会》（2026）报告指导委员会联席主席。
 > - **学术前辈** [[Walter Bodmer]] — 1985年《公众理解科学》报告主席。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

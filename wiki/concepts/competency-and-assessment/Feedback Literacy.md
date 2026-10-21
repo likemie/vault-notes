@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Feedback Literacy
@@ -152,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2010–2015 年 — 从单向传输到社会建构对话模式的转向** 早期[[Evaluation Research\|评估研究]]批判“将反馈视作教师单向投递的信息包”（[[Feedback]] as Telling/Transmission）的[[Paradigm\|范式]]缺陷，主张将反馈重塑为师生及生生间共享的对话互动。
 > - **2018 年 — 学生反馈素养框架的正式确立** 戴维·卡利斯（David Carless）与戴维·鲍德（David Boud）在《高等教育评估与评价》（*Assess. Eval. High. Educ.*）发表开创性论文，首次正式确立涵盖“理解反馈、作出判断、管理情绪、采取行动”四维度的学生反馈素养模型。
 > - **2020 年 — 教师反馈素养框架的拓展深化** 卡利斯与温斯通（Naomi E. Winstone）进一步提出教师反馈素养（Teacher Feedback Literacy），从“教学设计、[[Student-Teacher Relationship\|师生关系]]敏感度、情境实践折衷”三大维度呼应学生素养的培育机制。
@@ -180,16 +178,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统阐明如何将反馈素养与[[Evaluative Judgement\|评价性判断]]相融合，通过高年级科研方法课中的对抗性质询与多源对比矩阵规程，迫使学生为每次修改独立辩护，成功防御自动化反馈导致的[[Cognitive Offloading\|认知外包]]与能力退化。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

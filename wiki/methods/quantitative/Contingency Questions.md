@@ -33,7 +33,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Contingency Questions
 
@@ -102,7 +102,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在题型体系一节中定义了条件题的三要素结构（过滤器、分支、跳转指令），详细引述了 Redline et al.（2002）关于分支指令位置效应、夹层效应和视觉显著性的五项关键发现。

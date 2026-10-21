@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 # Deductive Rationality
@@ -59,8 +59,6 @@ updated: 2026-10-07
 > 原文：*"Academic-management discourses have become 'deductive rationalities' (Cowen 2005) which are compressed policy-words, words of control."* ([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 核心概念辨析
 > | 维度 | 演绎理性 (Deductive Rationality) | [[Totally Pedagogised Society\|全盘教育化社会]] (Totally Pedagogised Society) | [[New Public Management\|新公共管理]] (New Public Management) |

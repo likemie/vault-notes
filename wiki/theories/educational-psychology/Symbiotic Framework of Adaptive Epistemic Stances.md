@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Symbiotic Framework of Adaptive Epistemic Stances
@@ -100,9 +100,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 理论局限与适用边界
-
-> [!theory-boundary|notitle] 理论局限与适用边界
+> [!theory-boundary] 理论局限与适用边界
 > - **适合分析** 涉及复杂概念理解、[[Problem Solving\|问题解决]]、方案设计与学术论辩的[[Man-Computer Symbiosis|人机协同]]学习情境。
 > - **成立条件** 学习者拥有与大模型进行多轮对话的技术交互通道，且任务具备[[Open-Mindedness|开放性]]与可探讨空间。
 > - **解释不足** 尚未充分纳入学习者的动机结构（如时间压力、成绩敏感度）、学科兴趣及[[Self-Efficacy\|自我效能感]]对交互行为的复杂[[Interaction Effect\|调节效应]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]
@@ -156,8 +152,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 框架奠基专论，系统建构自适应[[Epistemic Stances\|认识立场]]与[[Man-Computer Symbiosis|人机共生]]学习理论，提出两大核心修订命题。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 从关系性[[Epistemology\|认识论]]视角探讨人机相互依赖下的主体性自持，与本框架形成互补呼应。

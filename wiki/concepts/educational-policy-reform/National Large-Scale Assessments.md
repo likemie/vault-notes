@@ -63,7 +63,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # National Large-Scale Assessments
@@ -91,8 +91,6 @@ updated: 2026-10-21
 > - 不适用于 无统一数据建档的校本日常[[Formative Assessment|形成性评估]] — 纯粹服务于个别课堂[[Feedback|教学反馈]]的非标准化随堂测验不属于国家大规模评估范畴。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析
 > | 维度 | 国家大规模教育评估（NLSAs） | 国际大规模评估（[[International Large-Scale Assessments\|ILSAs]]） | 传统升学选拔考试（如[[Gaokao\|高考]]） |
@@ -156,9 +154,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s — 规制型治理萌芽与早期国家统考建立** 英美新右派与[[New Public Management|新公共管理]]改革兴起，英国《[[Education Reform Act 1988|1988年教育改革法]]》确立关键学段国家统考，智利引入 [[SIMCE]] 统考，国家评估开始被用于支撑家长[[School Choice|择校]]与市场竞争。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249, 252)]]
 > - **2000s — 全员全样普查化与高利害问责捆绑** 美国《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|NCLB]]）强制 3–8 年级全员统考并挂钩学业年均进步（[[Adequate Yearly Progress|AYP]]）刚性制裁，国家评估从宏观系统监测工具正式转变为高利害问责的物质基础设施。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 > - **2010s — 测评技术精细化与商业测试支持群体成型** 增值评估模型（VAM）、拼读筛查（Phonics Check）等新工具层出不穷，培生等跨国出版与测评集团深入介入国家统考设计与运营，形成强大的制度锁定利益联盟。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–260)]]
@@ -194,8 +190,6 @@ updated: 2026-10-21
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252–260)]] | 全球 158 篇涵盖[[OECD\|经合组织]]与中等收入国家的同行评议实证文献 | [[Systematic Review\|系统文献综述]]与国别分析表提取 | 国家大规模评估与[[Test-Based Accountability\|考试问责]]的采纳时序、演进轨迹（分层与转换）、测评范围扩展及商业利益主体参与 | 证实国家评估在过去二十年中呈现指数级增长；国家评估的建立普遍早于强问责机制；在所有追踪国家中，国家评估均经历从核心学科向其他领域扩张、向更低年龄学段渗透的不可逆单向累积 | 质性系统综述，未进行[[Meta-analysis\|元分析]]定量效应量合并 | 依托英文核心数据库索引文献，对于发展中国家非官方或非英文报道的边缘实践覆盖可能不足 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合[[Policy Instrumentation Theory|政策工具社会学]]与[[Historical Institutionalism|历史制度主义]]，通过 158 篇文献的[[Systematic Review|系统综述]]解构国家大规模评估在全球三大行政传统下的扩散演进与制度锁定。

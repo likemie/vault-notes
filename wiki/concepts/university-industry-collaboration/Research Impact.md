@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research Impact
@@ -195,9 +195,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1986–2008 — 纯学术产出阶段（[[Research Excellence Framework\|RAE]] 时代）** 英国大学评估（RAE）聚焦于论文发表质量（Outputs）与同行评议等级，科研影响力未进入国家资源分配考核。
 > - **2014 — 社会影响法定化（REF 2014）** 英国科研卓越框架首次正式引入“影响力案例”（Impact Cases），设置 20% 考评权重，要求论证科研对经济与社会的实质效益，引发全球高校研究评估[[Paradigm\|范式]]转型。
 > - **2021 — 权重深化与路径反思（REF 2021）** 影响力权重提升至 25%；近半数案例展现公众参与价值，但商业化偏倚与量化因果证明困难促发学界强烈反思。
@@ -234,9 +232,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]] — 系统解构英国科研卓越框架（REF）中科研影响力的评价机制，揭示约 50% 案例依赖[[Public Engagement with Science\|公众科学参与]]的事实，指出商业化挤出效应与归因困难，并提出 REF 2029 设立“参与与影响”独立考评剖面的改革路径。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，系统提出科研影响力评估的三层阶梯，并实证测度跨国教育系统对[[Research Utilization\|研究利用]]的监测机制覆盖率，揭示“有效机构”面临的最终受益人评估赤字。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation\|知识动员]]模型，揭示教育科研影响力的间接缓慢渗透属性，提出乌托邦之喻以强化崇高教育终极目标对生态治理的牵引价值。

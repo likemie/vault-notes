@@ -55,7 +55,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Problem-Solution Space for Mission-Oriented Innovation Policy
@@ -265,9 +265,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 国家与区域层面的重大科技创新专项、绿色低碳转型政策、智慧城市与新兴数字技术治理、跨部门公共卫生政策等具有高度系统复杂性与社会外部性的战略议题。
 > - **成立条件** 政策环境具备一定程度的民主审议空间、多元利益表达渠道以及政府具备跨部门协同与政策工具调配能力。
 > - **解释不足** 对微观层面的政党选举周期、突发性地缘危机对政策收敛过程的破坏性中断缺乏内生微观机制解释；对非民主体制下的政策收敛逻辑解释力有待检验。

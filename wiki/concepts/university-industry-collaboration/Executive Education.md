@@ -36,7 +36,7 @@ related_arguments:
 confidence: "low"
 status: "draft"
 created: 2026-05-30
-updated: 2026-09-14
+updated: 2026-10-22
 ---
 
 # Executive Education
@@ -53,9 +53,7 @@ updated: 2026-09-14
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs **学位项目（Degree Programs）** 高管教育以短期高密度为特征，持续数天到数周而非整个学期，不授予学位，但课程内容通常源自相近领域的硕士或研究生课程（pp.155-156）。
 > - vs **企业培训（[[Corporate Education\|corporate training]]）** 企业培训由企业内部或外部培训机构提供，侧重于特定技能或合规要求，不依托大学的研究前沿和学科深度。高管教育的独特价值在于它能够将大学的前沿研究“即时翻译”为产业可用的[[Knowledge Framework\|知识框架]]（p.156）。参见 [[Corporate Education]]。
 > - vs **企业教育 / [[Corporate University\|企业大学]]（Corporate University）** 企业大学是大型企业内部设立的教育机构，主要服务于本企业的员工发展需要。高管教育由大学主导，面向多家产业伙伴，跨组织合作是其基本运作前提。参见 [[Corporate Education]]、[[Corporate University]]。
@@ -79,9 +77,7 @@ updated: 2026-09-14
 
 ---
 
-## 跨学科创新的四个维度
-
-> [!abstract|notitle]
+> [!abstract] 跨学科创新的四个维度
 > 当面向复杂社会挑战设计高管教育课程时，[[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd\|Lerner-Lam et al. (2025, pp.158-161)]]提出需要在以下四个维度进行系统性创新：
 >
 > **1. 学科内容的复杂性（Subject Matter Complexity）** 跨学科（transdisciplinary）不等于多学科（multidisciplinary）。多学科是不同专家各自贡献视角；跨学科要求在不同学科知识之间建立网络化关联。课程需要建立小型教师领导核心团队来设定跨学科逻辑主线（pp.158-159）。
@@ -94,9 +90,7 @@ updated: 2026-09-14
 
 ---
 
-## 与产业合作的关系
-
-> [!note|notitle]
+> [!note] 与产业合作的关系
 > 高管教育在[[University-Industry Collaboration\|产学合作]]生态中扮演多重角色。参见 [[University-Industry Collaboration]]。
 >
 > - **关系入口** 高管教育往往是大学与产业建立深度合作关系的起点。通过高管教育建立初步信任后，可能衍生出学生实习、研究资助、大学捐赠和更正式的合作（p.170）。
@@ -106,9 +100,7 @@ updated: 2026-09-14
 
 ---
 
-## 挑战
-
-> [!warning|notitle]
+> [!warning] 挑战
 > 面向跨学科复杂挑战的高管教育面临以下挑战([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd\|Lerner-Lam et al., 2025, pp.167-170]])：
 > - **教师参与** 传统院系分割使教师缺乏参与跨学科课程的动力和制度激励。
 > - **课程设计连贯性** 从数百门学位课程中提取一条统摄性的逻辑线，需要极强的跨学科判断力。参见 [[Coherence in Writing]]。

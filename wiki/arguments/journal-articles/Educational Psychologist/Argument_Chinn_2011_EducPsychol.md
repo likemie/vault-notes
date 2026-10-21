@@ -59,7 +59,7 @@ sources:
   - "[[sources/Chinn_2011_EducPsychol|Chinn_2011_EducPsychol]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chinn_2011_EducPsychol"
@@ -298,9 +298,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 个体层面的[[Epistemology\|认识论]]认知得到了基于双重辩护的充分论证，而社会层面的知识在群体动态中的实际传播、认识实践在群体层面的聚集探讨仍显不足。未来需要在[[Constructivist Paradigm\|建构主义]]学习环境中考察学习者群体的互动。
 
 ---

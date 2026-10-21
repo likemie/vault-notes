@@ -9,7 +9,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 52
+person_related_count: 51
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -66,7 +66,6 @@ related_methods:
   - "[[Action Research]]"
 related_instruments: []
 related_persons:
-  - "[[Jürgen Habermas]]"
   - "[[Immanuel Kant]]"
   - "[[Thomas Schelling]]"
   - "[[Max Planck]]"
@@ -88,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jürgen Habermas
@@ -114,9 +113,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1929** 出生于德国莱茵兰杜塞尔多夫（Düsseldorf），少年时期亲历纳粹极权崩溃与战后社会废墟，由此确立了反思集权暴力、捍卫民主宪政与重建理性交往的终身使命。
 > - **1954** 获波恩大学哲学博士学位，论文研究[[Thomas Schelling|谢林]]（F. W. J. Schelling）的哲学。
 > - **1956–1959** 进入法兰克福社会研究所担任霍克海默（Max Horkheimer）与阿多诺（Theodor W. Adorno）的高级研究助手，深入吸收早期法兰克福学派的[[Critical Theory|批判理论]]传统。
@@ -216,9 +213,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

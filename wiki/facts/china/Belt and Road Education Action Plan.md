@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Belt and Road Education Action Plan
@@ -193,9 +193,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

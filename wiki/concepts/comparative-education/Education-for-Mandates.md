@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Education-for-Mandates
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 使命性教育嵌入（Education-for-Mandates） | 专门教育多边治理 | [[Global Education Industry\|全球教育产业]]外包 |
 > |---|---|---|---|
 > | **行动主体** | 经济协调组织（[[OECD]]、世行）、区域贸易组织（ASEAN、Caricom） | [[UNESCO\|联合国教科文组织]]（UNESCO）、[[UNICEF\|联合国儿童基金会]]（UNICEF） | 跨国出版集团（Pearson）、咨询巨头（McKinsey） |
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1945–1960 — 专门机构双寡头格局** 战后初期仅有[[International Labour Organization\|国际劳工组织]]（ILO）与[[UNESCO\|联合国教科文组织]]（UNESCO）两家涉足教育，严格遵循法定管辖权分工。
 > - **1961–1970s — 冷战地缘催化与跨界嵌入肇始** 经合组织（1961）借斯普特尼克危机将教育锚定为经济防务工具；世界银行（1964）借道教科文组织入场，开启以教育促进经济增长的使命嵌入。
 > - **1990s–2005 — 区域化跨界浪潮与总量饱和** [[ASEAN|东南亚国家联盟]]（ASEAN）、加勒比共同体（Caricom）等区域组织普遍将教育列入政策组合，涉教育国际组织达到 30 家饱和峰值。
@@ -190,7 +186,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 正式应用使命性教育嵌入概念，揭示跨界国际组织如何将教育绑定于经济增长使命以推行[[Policy Brokerage\|政策中介]]工具。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mark Ginsburg
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1949** 出生于美国。
 > - **1970–1976** 先后就读于达特茅斯学院与加州大学洛杉矶分校（UCLA），获得社会学与教育学博士学位。
 > - **1976–1987** 先后任教于休斯顿大学与英国阿斯顿大学，早期重点研究教师劳动力过程与专业化[[Cognitive Deskilling|去技能化]]机制。
@@ -109,26 +107,20 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了“经济-意识形态-国家”三维教育改革政治社会学[[Analytic Framework|分析框架]]，为托雷斯、[[Joel Samoff|萨莫夫]]等学者深入研究墨西哥、坦桑尼亚、古巴等国教育转型提供了[[Paradigm|范式]]支撑。
 > - **期刊与学术领导力** 担任《比较教育评论》（CER）主编期间，打破西方中心主义垄断，开辟“反思与对话”专栏，大幅提升拉美、非洲学者与马克思主义批判视角的发声平台。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心学术合作者** [[Carlos Alberto Torres]] — 共同推进拉美[[State Corporatism|国家法团主义]]与教师运动实证分析。
 > - **学术盟友** [[Martin Carnoy]]、[[Joel Samoff]] — 共同致力于第三世界社会转型与国家教育改革政治经济学。
 > - **学术期刊** 《比较教育评论》（CER） — 历任主编。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

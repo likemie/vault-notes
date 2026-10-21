@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Visual Research Methods
@@ -148,9 +148,7 @@ updated: 2026-10-20
 > - **伦理风险** [[Informed Consent\|知情同意]]在历史图像、公开场所与[[Covert Research\|隐蔽研究]]中难以达成；匿名化可能损害图像的核心价值（人物、地点与机构正是图像的意义所在）。
 > - **补救方式** 与其他数据源[[Triangulation\|三角互证]]、提供替代性解读、明确取样与选择标准、反复观看并允许第三方核查。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

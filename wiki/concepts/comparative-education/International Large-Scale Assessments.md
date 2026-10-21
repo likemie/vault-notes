@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # International Large-Scale Assessments
@@ -97,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 国际大规模评估（ILSAs） | 国家统一[[Gaokao\|高考]]/学考（High-Stakes Exams） | 质性国别教育考察（Qualitative Peer Review） |
 > |---|---|---|---|
 > | 评价主体 | [[OECD\|经合组织]]（OECD）、[[IEA\|国际教育成就评价协会]]（IEA） | 主权国家教育部与国家考试院 | 访问专家组、学者代表团与外交使节 |
@@ -164,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960 年代 — 学术先驱探索期（[[IEA]] 成立）** 托尔斯滕·胡森等人在德国汉堡创立国际教育成就评价协会，启动首批跨国数学与科学探索性测验（FIMS）。
 > - **1990 年代 — 政治化与问责制转型** [[OECD\|经合组织]]介入指标研制（[[International Indicators of Education Systems\|INES]]），标志着大规模测验从纯学者好奇心转向服务于国家经济[[Competitiveness|竞争力]]和政府绩效问责。
 > - **2000 年至今 — 规制帝国与全生命周期扩张** 经合组织 [[PISA]] 确立全球统治地位，并向教师（[[Teaching and Learning International Survey\|TALIS]]）、成人（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）、高等教育（[[OECD AHELO Project\|AHELO]]）及全球南方（[[PISA for Development\|PISA-D]]）全面蔓延，构建了无孔不入的全球测评复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
@@ -207,7 +203,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 系统重构国际大规模学生评估从战后冷战时期向当代[[Governing by Numbers\|数字治理]] 2.0 跨国中介演进的制度史，揭示其作为硬事实施展[[Soft Power\|软权力]]的物质基石。

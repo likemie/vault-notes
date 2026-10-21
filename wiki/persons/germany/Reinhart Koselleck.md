@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reinhart Koselleck
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1923** 出生于德国萨克森州格利茨（Görlitz）。
 > - **1947–1954** 在海德堡大学、布里斯托大学研读历史学、哲学与法学，师从伽达默尔（Hans-Georg Gadamer）、洛维特（Karl Löwith）与海德格尔。
 > - **1954** 在海德堡大学完成博士论文《批判与危机》（*Kritik und Krise*），从观念史角度探讨启蒙乌托邦与现代政治危机的根源。
@@ -112,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与对话** 伽达默尔（Hans-Georg Gadamer）— 继承欧陆解释学传统并将其引入历史语义学实践。
 > - **学术盟友与同事** [[Niklas Luhmann]] — 同为比勒费尔德大学讲席教授，二人就时间性、系统论与概念史展开深刻跨学科对话。
 > - **教育学应用学者** [[Steen Nepper Larsen]] — 借鉴其概念史与教化论著，展开对可见学习[[Paradigm|范式]]的[[Epistemology|认识论]]批判。
@@ -133,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

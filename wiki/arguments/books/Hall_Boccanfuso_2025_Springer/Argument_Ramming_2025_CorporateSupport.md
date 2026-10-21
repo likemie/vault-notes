@@ -79,7 +79,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 status: active
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-22
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 publication_place: "Cham"
 publisher: "Springer"
@@ -434,9 +434,7 @@ UPCRC 的成功不仅解决了多核初期的软件生态瓶颈，更展现了[[
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 本章论断与[[Recommendations for Practice|实践建议]]具有明确的主体与方法边界，作者对此作出了清晰的自述限定（pp. 217, 239）：
 > - **受众与视角倾向** 全文立足于企业内部管理人员的实际操作视角，核心目的在于为工业界实践者在企业内部协调资源提供指南；对于高校侧的管理者和教授，其价值主要是提供观察企业合作方考核与决策环境的参考，并不直接指导高校内部的科研体制改革。
 > - **经验总结性质** 本章属于基于长期高级管理职业经验的实践指引，主要素材来源于作者在 [[DARPA]]、英特尔与威睿等高科技机构的亲历项目，而非基于大样本实证[[Questionnaire|问卷]]或严格控制实验的学术论文。

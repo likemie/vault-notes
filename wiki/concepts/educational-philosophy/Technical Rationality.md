@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 125
+related_count: 124
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -102,7 +102,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Documentary Analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Donald A. Schön]]"
@@ -149,13 +148,13 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Technical Rationality
@@ -325,9 +324,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪 — [[Positivism\|实证主义]]哲学奠基** 孔德等倡导实证主义哲学，将科学与技术控制确立为解决人类社会问题、指导一切专业实践的最高[[Paradigm\|范式]]。
 > - **1950s–1960s — 技术理性与普适社会技术向拉丁美洲的跨国输出** 国际机构（[[UNESCO]]、[[OECD|经合组织]]等）在拉美推行[[Developmentalism|发展主义]]与技术官僚视野，通过 1956 年利马教育部长会议、1958 年华盛顿泛美研讨会及 1964 年阿根廷教育与人力规划研究，将“教育规划”与“课程”作为去情境化的普遍社会技术输出，树立了国际机构超然于国内政治冲突之上的中立科学专家地位。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **1960s — 比较教育学科转型确立技术官僚理性支配** 霍姆斯、诺亚与埃克斯坦等战后实证学者推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校规训。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 53, 56–57)]]
@@ -394,8 +391,6 @@ updated: 2026-10-21
 > 技术理性仅适用于具有高度可预测性、[[Causality|因果关系]]清晰且价值目标完全预设的技术工程领域；在面对包含多元价值冲突、动态情境生成与师生生命成长的真实教育[[Champ|场域]]中，技术理性存在根本性的[[Epistemology|认识论]]盲区。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合政策工具社会学，揭示经合组织如何运用技术理性排位将政治价值抉择置换为客观数据以推进跨国远距治理。

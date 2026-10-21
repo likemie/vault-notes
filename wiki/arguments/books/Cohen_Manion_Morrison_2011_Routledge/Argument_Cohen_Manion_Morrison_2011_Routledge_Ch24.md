@@ -96,7 +96,7 @@ related_methods:
 related_instruments: []
 status: draft
 created: 2026-07-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24
 
@@ -989,9 +989,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 
 ---
 
-### 24.6 测验编制的软件
-
-> [!info|notitle]
+> [!info] 24.6 测验编制的软件
 > 测验编制软件（如在线测验平台和光学标记扫描工具）可以将编制好的测验转化为纸质或在线施测格式，并自动完成封闭式题目的计分、数据录入和分析。但这些工具不替代测验编制者的核心思考工作，也不处理[[Reliability\|信度]]和效度验证——研究者仍需在使用前[[Pilot Testing\|预测试]]和优化测验。
 
 ---

@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Zhao Tingyang
@@ -76,9 +76,8 @@ updated: 2026-10-21
 > *The influential philosopher Tingyang Zhao (2021) has proposed the Chinese concept of tianxia as a superior alternative to the United Nations system based on the Westphalian principle of nation-states. Tianxia, Zhao argues, offers all peoples the prospect of communion with an open, welcoming and warm-hearted China; this is what is meant by the Chinese Dream. If Xi's 'community of shared destiny for mankind' seems rather [[Abstract|abstract]], Zhao's theology of China presents the nation itself as a microcosmic model of a global, Sino-centric order of tianxia.*
 
 ---
-## 生平与职涯
 
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1961** 出生于广东汕头。
 > - **1982** 毕业于中国人民大学哲学系；后进入中国社会[[Chinese Academy of Sciences|科学院]]研究生院深造，师从李泽厚，获哲学硕士学位，毕业后留所从事哲学研究。
 > - **2005** 发表专著《[[Tianxia Heuristic|天下体系]]：世界制度哲学导论》，首次系统地将中国古典“天下”观念转化为现代政治哲学[[Discourse|话语]]，提出超越威斯特伐利亚国家体系的“无外部”世界制度构想。
@@ -162,9 +161,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与学术谱系** 李泽厚 — 当代著名哲学家，赵汀阳在中国社会[[Chinese Academy of Sciences|科学院]]研究生院时期的导师，其“积淀说”与实践美学深刻影响了赵汀阳对中华文明本体连续性的思考。
 > - **学界引介者** 西蒙·马金森（Simon Marginson） — 英国牛津大学高等教育学者，在跨国高等教育与全球学术秩序研究中借用赵汀阳天下理论提炼[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]。
 > - **学界引介者** 杨锐（Yang Rui） — 香港大学比较教育学者，将天下体系引入中国现代大学模式建构与全球[[Knowledge Transfer|知识转移]]关系的分析中。
@@ -208,9 +205,8 @@ updated: 2026-10-21
 > 赵汀阳天下体系聚焦于高度抽象的世界制度哲学与文明认同阐发，但在实操性的制度建构层面仍面临诸多未解挑战：在缺乏全球主权实体的现实国际格局中，如何避免天下概念沦为大国单边追求区域[[Discourse|话语]]权与影响力的道德修辞；如何在承认现实国家实力等级的同时，制度化地保障边缘群体与中小国家的实质平等权利，仍是该理论在国际政治与跨国治理领域持续面对的批判性课题。
 
 ---
-## 条目关联
 
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

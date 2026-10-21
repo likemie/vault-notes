@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Inter-American Development Bank
@@ -195,9 +195,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -212,7 +210,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析泛美开发银行与[[World Bank|世界银行]]在金融运作、[[Organizational Culture|组织文化]]、借贷谈判、附加条件、微观领导力及执行瓶颈上的体制机制分殊，并依托全量组合监测揭示组织学习的双重断裂（pp. 455–477）。

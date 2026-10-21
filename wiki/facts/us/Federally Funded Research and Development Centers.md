@@ -57,7 +57,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Federally Funded Research and Development Centers
@@ -131,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -147,8 +145,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统梳理战后美国[[Categorical Funding|委托研究]]型大学管理 FFRDC 国家实验室体系的制度起源与[[Big Science|大科学]]协同演进。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 比较分析 FFRDC、[[Industry Affiliate Program|产业联盟]]与独立非营利实体（[[Natcast]]）在半导体产业公私伙伴研发网络中的治理效能与制度适用边界。

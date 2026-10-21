@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-09
+updated: 2026-10-22
 ---
 
 # Citizenship and Social Development
@@ -191,9 +191,7 @@ updated: 2026-10-09
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

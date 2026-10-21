@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dual Appointment
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 双重聘任制（Dual Appointment） | 传统单一院系终身制（Departmental Tenure） | 软经费专职科研岗（Soft-Money Faculty） |
 > |------|-------------------------------|------------------------------------------|----------------------------------------|
 > | 编制归属 | 学科院系（编制与终身教职）+ 跨学科中心（研发平台） | 仅归属于单一学科院系（如物理系、机械系） | 仅挂靠于研究中心或[[Big Science\|大科学]]实验室 |
@@ -139,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **20 世纪初至中叶 — 跨学科萌芽与偶发兼聘** 伴随生物化学、地球物理等[[Comparative Education as a Cross-Sectional Area|交叉学科]]兴起，部分先锋高校在相关院系间尝试设立联合聘任（[[Joint Faculty Appointments|joint appointments]]）。
 > - **1984 年 — [[Engineering Research Centers|ERC]] 与[[Big Science|大科学]]中心法定化双重聘任** [[National Science Foundation|NSF]] 在推行[[Engineering Research Centers|工程研究中心]]（ERC）和[[Science and Technology Centers|科学技术中心]]（STC）时，将“中心教师必须在学科院系拥有正式编制”确立为法定准则。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
 > - **21 世纪至今 — 矩阵式治理与跨学科评价改革激辩** 面对新科技革命，全球[[Research Universities|研究型大学]]广泛推行“双聘/兼聘”矩阵，但传统院系单一学科评价与跨学科团队贡献之间的制度摩擦仍是高教人事改革的核心攻坚点。
@@ -171,16 +167,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 通过布洛赫口述访谈与多所 [[Engineering Research Centers|ERC]] 主任调研，系统分析了双重聘任制在多学科大学中心运作中的制度必要性与微观治理困境。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

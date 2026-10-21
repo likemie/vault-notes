@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Open Classroom Movement
@@ -112,9 +112,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -127,9 +125,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a] 相关研究
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|

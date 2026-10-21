@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Neocorporatism
@@ -166,9 +166,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 拥有组织完备的大型工会、成熟雇主联合会、全国性大学峰会组织或垄断学会的政策情境，以及通过法制化渠道进行社会伙伴协商的治理领域。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–173)]]; [[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 143–148)]]
 > - **成立条件** 需要国家具备吸纳社会伙伴的制度传统，且行业组织具备足够的代表凝聚力与政策议价筹码。
 > - **解释不足** 随着劳动力市场去规制化、工会密度下降、平台经济崛起以及基层网络化直接行动的扩散，传统中央层面的三方协商正在衰退，对分散自发性抗争的解释力有限。

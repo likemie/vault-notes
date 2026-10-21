@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Irving John Good
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1916** 出生于英国伦敦的一个波兰犹太移民家庭。
 > - **1938–1941** 毕业于剑桥大学耶稣学院并获数学博士学位。
 > - **1941–1945** 二战期间进入英国战时密码破译中心布莱切利庄园（Bletchley Park），担任阿兰·图灵（Alan Turing）的主要统计助手，参与恩尼格玛（Enigma）密码与洛伦兹（Lorenz）加密机（即巨人机 Colossus）的破译工程。
@@ -122,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心战时导师与合作者** 阿兰·图灵（Alan Turing） — 二战期间在布莱切利庄园共同工作，协助图灵开发贝叶斯统计分析方法，破译德军密码。
 > - **学术同行** [[Herbert A. Simon]] — 20 世纪中叶共同探讨机器替代人类心智劳动与[[Artificial General Intelligence|通用人工智能]]可行性的计算先驱。
 > - **思想继承者** 尼克·波斯特洛姆（Nick Bostrom） — 继承古德的超智能与智能爆炸理论，发展出当代超级智能正交性与工具性收敛框架。
@@ -143,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

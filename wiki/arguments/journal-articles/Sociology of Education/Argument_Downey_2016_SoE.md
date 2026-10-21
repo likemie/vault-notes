@@ -47,25 +47,21 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2016
 doi: ""
 citation_aliases:
   - "Downey & Condron, 2016"
   - "Downey & Condron (2016)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 论文试图回答一个在教育社会学中悬而未决半个世纪的核心问题：学校与不平等之间的关系是什么？具体而言(p.1)：
 >
 > 1. 学校是简单地再生产已有的不平等，还是放大它们，还是帮助减少它们？
 > 2. 如何调和批判视角（学校再生产或加剧不平等）与[[Seasonal Comparison\|季节性比较]]证据（学校对 [[Socioeconomic Status|SES]] 认知技能差距是补偿性的）之间的矛盾？
 > 3. 在教育社会学领域几乎完全忽视学校的补偿性潜力，这一系统性盲点的代价是什么？
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 论文以对教育社会学的**批判视角（critical perspective on schools）** 的系统回顾为起点，识别了两条主要理论路线(pp.1–2)：
 >
 > - **再生产理论（Reproduction）** Bowles and Gintis (1976) 的对应理论——学校为资本主义经济提供知道自身位置并准备扮演各自角色的工人；Bourdieu (1977) 的[[Cultural Capital\|文化资本]]理论——学校偏爱中产阶级和精英学生的文化资本
@@ -73,17 +69,13 @@ citation_aliases:
 >
 > 最终提出 [[Refraction Framework]] 作为整合框架——将学校概念化为不平等的折射器，可沿不同维度以不同方式（中性、加剧性或补偿性）塑造不平等(pp.5–7)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - **方法** 理论综合与[[Literature Review\|文献综述]]（Theoretical synthesis and literature review）
 > - **核心经验方法** 系统审查并综合 [[Seasonal Comparison]] 研究的证据，覆盖 Heyns (1978)、Entwisle & Alexander (1992, 1994)、Downey et al. (2004) ECLS-K、von Hippel et al. (2007)、Downey, Workman & von Hippel (2016) 等
 > - **分析策略** 识别传统方法面临的三个方法论障碍 → 展示季节性比较如何克服这些障碍 → 综合季节性比较证据 → 提出[[Refraction Framework\|折射框架]]作为理论调和 → 分析忽视补偿性潜力的代价
 > - **证据基础** 全国代表性数据（ECLS-K 1998 和 2011）、地方纵向数据（巴尔的摩、亚特兰大）、NWEA 大规模评估数据
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 1. **诊断传统方法的三个障碍(pp.3–4)**
 >    - 如何分离学校效应与非学校效应——传统统计控制系统性不足（大多数影响学习的非学校特征无法测量）
 >    - 如何权衡所有加剧性和补偿性学校机制的净效应——大多数研究只聚焦单一机制
@@ -100,18 +92,14 @@ citation_aliases:
 >    - 对政策：过度投资学校改革而忽视早期童年和更广泛的社会政策
 >    - 对公共[[Discourse|话语]]：强化了"学校是问题"的叙事，削弱了对增加学校暴露时间（如延长学年）的支持
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - **[[Socioeconomic Status|SES]] 成就差距主要在学校入学前形成** ECLS-K 1998 数据显示，收入基础的 90/10 阅读差距在幼儿园至八年级间仅增长约 12%，数学差距实际上缩小了(Reardon, 2011, pp.7–8)
 > - **加拿大 vs 美国比较的启示** 加拿大 4–5 岁儿童在 PPVT 阅读测试上已领先美国儿童 .31 SD——与 15–16 岁 [[PISA]] 阅读差距（.30 SD）几乎相同——暗示国际考试成绩差距可能在正式学校入学前已基本确定(Merry, 2013, pp.7–8)
 > - **教师／[[School Effectiveness|学校有效性]]的分布可能与社会经济地位弱相关** 当更严格地分离学校效应后，服务于高 SES 和低 SES 儿童的学校在促进学习方面的差异可能很小甚至不存在(Downey, von Hippel & Hughes, 2008, Lauen & Gaddis, 2013, pp.8–9)
 > - **缩小差距需要的不只是平等化学校质量** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境，那么缩小差距需要的不是将低 SES 学校提升到高 SES 学校水平——而是需要为低 SES 儿童创造**显著优于**高 SES 儿童的学校学习环境(p.9)
 > - **延长学年的政策意义被忽视** 如果学校已是补偿性的，那么延长学年（保持当前学校质量分布不变）将改善美国儿童的认知技能，并最大程度惠及弱势群体——但由于"学校是问题"的叙事主导了公共[[Discourse|话语]]，这一政策选项被忽视(p.10)
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “在不平等问题上，‘学校教育在更大程度上是解决方案的一部分，而不是问题的一部分。’”
 > ("When it comes to inequality, 'schooling is more part of the solution than part of the problem.'") — Alexander (1997, p.12), cited in Downey & Condron (p.4)
 >
@@ -124,9 +112,7 @@ citation_aliases:
 > > “对于相较于改革其他机构更强调改革学校这一现象，一种愤世嫉俗——却完全合理——的解释是它服务于一种目的：它转移了人们对不平等的真正根源的注意力，从而服务于那些从当前社会安排中获益的人的利益。”
 > ("A cynical—and entirely plausible—interpretation of the greater emphasis on reforming schools relative to reforming other institutions is that it serves a purpose: It distracts people from the real sources of inequality, thereby serving the interests of those who benefit from current social arrangements.") (p.11)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > 论文自身承认的局限(Downey & Condron)：
 >
 > - 补偿性证据目前仅针对 [[Socioeconomic Status|SES]] 认知技能差距和 BMI——对其他结果的效应未知

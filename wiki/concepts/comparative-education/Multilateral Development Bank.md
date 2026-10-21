@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Multilateral Development Bank
@@ -176,9 +176,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1940s–1960s — 战后欧洲重建与物理基础设施偏好** [[World Bank|国际复兴开发银行]]（IBRD）成立，早期仅资助欧洲战后物理基建重建，随后延伸至全球南方重型基础设施开发；教育被视为消费性社会支出被排除在常规主权贷款之外。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 464)]]
 > - **1960s–1970s — 教育借贷破冰与“砖瓦工程”主导** 1962 年世行发放首笔中等教育贷款，1959 年成立的[[Inter-American Development Bank|泛美开发银行]]亦进军高教与职业教育领域；此阶段两大多边银行主要遵循“砖瓦与设备”工程模式，专注于校舍建造、工程实验室配置与教学物资采购，较少干预借款国内部行政体制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464–465)]]
 > - **1970s–1980s — 制度改革介入与附加条件挫败** [[World Bank|世界银行]]开创性地在贷款中全面捆绑机构体制改革与[[Policy Conditionalities|政策附加条件]]（教师编制冻结、使用者自费、分权化管理）；但因激进强推引发大面积政治抵制，导致 1980 年代多达三分之一的教育贷款项目陷入停摆与绩效低下危机（“赶猫”困境）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 464–466)]]
@@ -214,9 +212,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -234,7 +230,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析多边开发银行的信用合作社金融本质、项目谈判机制、附加条件成败案例、追逐政策风潮的周期性摇摆以及重投入轻产出的执行困境（pp. 455–477）。

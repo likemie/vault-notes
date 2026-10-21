@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tracey Burns
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **长期** 任职于 [[OECD]] [[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI），参与并主导教育[[Knowledge Production\|知识生产]]与利用、教育创新政策、系统领导力与复杂性治理等多个研究方向。
 > - **2007** 参与 OECD CERI 标志性报告《教育中的证据：连接研究与政策》（*Evidence in Education: Linking Research and Policy*, OECD, 2007）的编辑与写作，确立 6 家全球标杆中介机构的早期参照清单，为 2022 年的 15 年[[Cohort Study\|追踪研究]]奠定基础。
 > - **2016** 与 Florian Köster 合编 OECD 报告《在复杂世界中治理教育》（*Governing Education in a Complex World*），将复杂系统理论框架系统引入教育政策与[[Epistemic Governance\|知识治理]]研究。（Burns, Köster & Fuster, 2016）
@@ -114,18 +112,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **长期合著者** [[Tom Schuller]] — Burns 与 Schuller 自 2007 年以来多次合著与合编，共同建构了[[Educational Brokerage Agency\|教育中介机构]]研究的核心[[Analytic Framework\|分析框架]]。
 > - **项目主任** Nóra Révai — 在 [[Centre for Educational Research and Innovation\|OECD CERI]]"强化教育[[Research Impact\|研究影响力]]"项目中担任专家顾问委员会成员，Révai 任项目主任。
 > - **依托机构** [[OECD]] / [[Centre for Educational Research and Innovation]] — 主要研究与政策输出平台。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

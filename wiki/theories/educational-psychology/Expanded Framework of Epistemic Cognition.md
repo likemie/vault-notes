@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Expanded Framework of Epistemic Cognition
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -88,8 +86,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 奠定了该扩展的五组件框架。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 展现了该框架整合演化为 [[AIR Model of Epistemic Cognition\|AIR]] 模型 后的最新应用，将目标、理想与[[Reliable Epistemic Processes\|可靠过程]]融入科学论证评价。

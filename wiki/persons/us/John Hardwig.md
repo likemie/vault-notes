@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John Hardwig
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1960 年代** 毕业于耶鲁大学，随后在德克萨斯大学奥斯汀分校获得哲学博士学位。
 > - **1970–1980 年代** 历任韦尔斯利学院、洪堡州立大学与东田纳西州立大学等校教席；1985 年发表开创性论文 *[[Epistemic Dependence]]*，正式确立当代社会[[Epistemology\|认识论]]关于证言与专家依赖的核心分析[[Paradigm\|范式]]。
 > - **1990 年代** 加盟田纳西大学诺克斯维尔分校并长期担任哲学系主任；1991 年发表 *The Role of Trust in Knowledge*，系统论述科学协作中的信任与道德品格；1997 年在《黑斯廷斯中心报告》发表引发全美激烈讨论的生命伦理学名篇《是否有死亡的义务？》（*Is There a Duty to Die?*）。
@@ -112,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想发展与共鸣者** [[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman） — 戈德曼在承认哈德威格“现代人必然[[Epistemic Dependence\|认识依赖]]”的前提下，进一步系统构建了外行在专家产生分歧时评估专家[[Reliability\|可靠性]]的五条理性准则。
 > - **哲学批判靶子** 勒内·[[René Descartes\|笛卡尔]]（René Descartes）与伊曼纽尔·[[Immanuel Kant\|康德]]（Immanuel Kant） — 启蒙[[Epistemology\|认识论]]追求个体理智的绝对自足，哈德威格以[[Big Science|大科学]]时代的实验事实证明了个体自足神话的不可能性。
 > - **当代教育中介应用者** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 借用其理论作为[[Man-Computer Symbiosis|人机共生]]学习中界定认识责任与教学法改革的哲学起点。
@@ -133,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Max Weber
 
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1864–1886 早年奠基与通识法学**
 >   - **1864** 出生于普鲁士萨克森省埃尔福特（Erfurt），为家中长子。
 >   - **1882–1886** 先后在海德堡大学、斯特拉斯堡大学、哥廷根大学和柏林大学学习法学、国民经济学、哲学、神学和历史学，主修罗马法；1883–1884 年服一年志愿兵役成为预备役军官（Kaesler, 2014, p. 198）。
@@ -227,9 +225,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **先驱与哲学对话** [[Immanuel Kant\|伊曼努尔·康德]]（[[Epistemology\|认识论]]批判）、[[Friedrich Nietzsche|弗里德里希·尼采]]（价值重估与虚无主义批判）、卡尔·马克思（资本主义机理与历史唯物论对话）。
 > - **同时代学人与合作者** 费迪南·滕尼斯（Ferdinand Tönnies）、格奥尔格·齐美尔（Georg Simmel）、维尔纳·桑巴特（Werner Sombart）、恩斯特·特勒尔奇（Ernst Troeltsch）。
 > - **理论继承与重构者** [[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）、[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）、卡尔·雅斯贝尔斯（Karl Jaspers）、[[Yajun Zheng\|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
@@ -270,9 +266,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

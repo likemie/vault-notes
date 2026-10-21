@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Conversational AI in Education
@@ -99,7 +99,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中系统检验了对话式智能体的大样本实证效能（$k = 30, g = 0.468$），确立了其在基础教育语言听说与交互式读写领域的统治性干预优势。

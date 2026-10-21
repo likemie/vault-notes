@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # NSF X-Labs
@@ -95,9 +95,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

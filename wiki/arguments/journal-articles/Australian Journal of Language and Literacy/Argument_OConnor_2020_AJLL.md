@@ -64,7 +64,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2020
 doi: ""
 citation_aliases:
@@ -270,9 +270,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle] 自述局限
+> [!warning] 自述局限
 > - **审查范围的局部性** 本研究仅针对《VL》中[[Whole Language\|全语言]]这一细分模块（涉及 4 项[[Meta-analysis\|元分析]]、64 项原始研究）进行了极其细致的微观复核，并未对《VL》中其他学科领域或干预措施的[[Effect Size\|效应量]]进行同等规模的系统审查 (p.143)。
 > - **作者的学术与职业镜头的声明** 作者公开声明自身是一名小学三年级至四年级的班级教师，在皇家墨尔本理工大学（Royal Melbourne Institute of Technology, RMIT）受训期间，其读写教学导师包括洛林·威尔逊（Lorraine Wilson）和大卫·霍恩斯比（David Hornsby）等全语言的积极倡导者，因此其研究视角的选择不可避免地带有全语言实践者偏好偏向的限制 (pp.150-151)。
 

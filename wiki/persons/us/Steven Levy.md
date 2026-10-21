@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Steven Levy
@@ -108,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **记录对象与对话者** [[Steve Jobs]]、[[Lee Felsenstein]]、[[Stewart Brand]] — 深入记录并提炼其技术创新与反体制哲学。
 > - **国家战略历史对照者** [[Vannevar Bush]]、[[J. Robert Oppenheimer]] — 布什与奥本海默代表政产学研高度协同的[[Big Science|大科学]]动员，利维记录的黑客文化代表反抗官僚体制的个体探索。
 > - **当代批评与剖析者** [[Alexander Karp]]、[[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中剖析了利维记录的[[Hacker Ethic|黑客伦理]]如何导致硅谷后继者脱离国家防务与公共安全责任。
@@ -129,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 贡献与关系 |
 > |:-----|:-----|:-----|
@@ -143,7 +139,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著第八章深入引述利维 1984 年《黑客》对官僚机构为“缺陷系统”的界定及其对 IBM 顺从主义的审美批判，剖析黑客非军事化誓言对后世硅谷[[Technological Agnosticism|技术不可知论]]的塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。

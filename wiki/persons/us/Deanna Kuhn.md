@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Deanna Kuhn
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

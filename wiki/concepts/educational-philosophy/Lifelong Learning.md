@@ -26,29 +26,22 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Procedural Knowledge]]"
   - "[[Social Imaginary]]"
-  - "[[Innovation Hub]]"
-  - "[[Paradigm]]"
-  - "[[Knowledge-that and Know-how-to]]"
-  - "[[Policy Borrowing]]"
-  - "[[Externalization]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Learner Autonomy]]"
-  - "[[Dynamic Assessment]]"
-  - "[[Student Mobility]]"
-  - "[[Generative Artificial Intelligence]]"
-  - "[[Construct]]"
-  - "[[Data Literacy]]"
-  - "[[Citizen Science]]"
   - "[[Critical Thinking]]"
+  - "[[Data Literacy]]"
   - "[[AI Literacy]]"
+  - "[[Citizen Science]]"
   - "[[Theoretical Perspective]]"
   - "[[Competitiveness]]"
   - "[[Self-Efficacy]]"
+  - "[[Policy Borrowing]]"
+  - "[[Externalization]]"
   - "[[Scientific Literacy]]"
   - "[[Informal Science Learning]]"
   - "[[Science Capital]]"
   - "[[European Education Space]]"
+  - "[[Student Mobility]]"
   - "[[Technical Rationality]]"
+  - "[[Paradigm]]"
   - "[[Theoretical Knowledge]]"
   - "[[Learnification]]"
   - "[[Pedagogical Subject]]"
@@ -56,6 +49,13 @@ related_concepts:
   - "[[Student Involvement]]"
   - "[[Praxis]]"
   - "[[Knowledge Capitalism]]"
+  - "[[Innovation Hub]]"
+  - "[[Knowledge-that and Know-how-to]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Learner Autonomy]]"
+  - "[[Dynamic Assessment]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Construct]]"
   - "[[Socioeconomic Status]]"
   - "[[Variable]]"
   - "[[International Education]]"
@@ -79,33 +79,33 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
-  - "[[Centre for Educational Research and Innovation]]"
-  - "[[UNESCO]]"
-  - "[[Delors Report]]"
-  - "[[World Bank]]"
-  - "[[EU]]"
-  - "[[EU Key Competences for Lifelong Learning]]"
-  - "[[Erasmus Programme]]"
   - "[[Association for Science and Discovery Centres]]"
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[Delors Report]]"
+  - "[[EU]]"
+  - "[[Erasmus Programme]]"
+  - "[[Centre for Educational Research and Innovation]]"
+  - "[[EU Key Competences for Lifelong Learning]]"
   - "[[Public Attitudes to Science]]"
   - "[[UK Science Education Tracker]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
-  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Lifelong Learning
@@ -307,8 +307,6 @@ updated: 2026-10-21
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] | 欧洲教育治理体系与 OECD PISA 测评实践（英国、德国与芬兰） | 政策社会学比较个案研究（专家深度访谈与多边政策文本分析） | 终身学习测评指标（学习动机、自我效能感与自主规制策略）及治理机制 | 揭示 OECD 将终身学习前置至 15 岁义务教育阶段，通过跨国标准化等值标尺将非认知心理特质转化为可比的终身学习胜任力指标，重构国家教育政策议程 | — | 质性政策社会学分析，揭示国际组织指标建构背后的治理术演进 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。

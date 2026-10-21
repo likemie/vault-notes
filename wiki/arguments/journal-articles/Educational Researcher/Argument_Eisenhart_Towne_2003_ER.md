@@ -76,7 +76,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-27
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Eisenhart_Towne_2003_ER"
@@ -323,9 +323,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **作者身份带来的视角局限** 作者明确自述本研究的分析立足于其作为 NRC 科学原则委员会成员（Eisenhart）和研究主任（Towne）的亲历参与者视角，文章观点仅代表作者个人判断，不代表 NRC 或委员会全体成员的官方立场。（pp. 31, 37）
 > - **改革法案实施周期尚短** 研究成文时《[[Education Sciences Reform Act 2002|教育科学改革法]]》颁布不足一年，[[Institute of Education Sciences|IES]] 与 [[What Works Clearinghouse|WWC]] 尚处于制度搭建初期，政策长期实施效果与资助格局仍有待时间检验。（p. 34）
 > - **待决法案的未来不确定性** 残疾人教育法案（IDEA）与[[Higher Education Act of 1965|高等教育法]]案（HEA）的重新授权草案当时虽已在众议院通过，但仍有待参议院审议及总统签署，政策最终走向存在动态变数。（p. 37）

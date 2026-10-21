@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hardware Security
@@ -135,9 +135,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s–1990s — 独立加密协处理器与物理防拆封装** 早期硬件安全主要依赖物理隔离的安全芯片（如智能卡与加密协处理器），通过环氧树脂封装与防拆网格传感器防止攻击者磨削芯片直连总线。
 > - **2000s — 侧信道分析与微观物理泄露防御** 科赫尔（Paul Kocher）等学者提出差分功耗分析（Differential [[Power Analysis]], DPA）与电磁辐射探测，硬件安全研究转向防范利用芯片计算过程中的物理副产物反推密钥。
 > - **2010s — 物理不可克隆函数（PUF）与硬件信任根（RoT）** 利用硅晶圆制造中不可控的纳米级物理工艺偏差，生成芯片唯一且不可复制的硬件“数字指纹”（PUF），奠定了现代芯片物理防伪与密钥生成的基石。
@@ -175,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -189,8 +185,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 将硬件完整性与安全性确立为国家安全基石，提出基于零信任硬件信任根与全生命周期安全[[Co-Design|协同设计]]的防御体系。
 

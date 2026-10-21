@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Organizational Actorhood
@@ -54,16 +54,14 @@ updated: 2026-10-16
 > "Actorhood, here, describes organizations' structural and behavioral expansion by including autonomy, goal-orientation, accountability and social embeddedness or citizenship as part of their core identity."（Bromley & Meyer, 2015，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]]）
 
 ---
-## 概念辨析
 
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Otherhood]] — 能动者身份（actorhood）描述组织作为自主行动者的一般特征；otherhood 是其特殊形式，特指组织为"他者"（其他行动者、非行动者实体、抽象原则）行使代理权的社会过程([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 > - vs [[Entrepreneurial University\|创业型大学]]（entrepreneurial university） — Clark (1998) 的创业型大学概念强调大学对市场机会的主动追求和资源多样化；组织能动者身份涵盖更广，不仅包括市场面向，也包括社会嵌入性和公民身份等非经济维度([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
 
 ---
-## 概念演变
 
-> [!note|notitle]
+> [!note] 概念演变
 
 ### 大学的组织化：从特定组织到完全组织
 
@@ -96,9 +94,8 @@ updated: 2026-10-16
 > - 现代大学管理者："我们制定了五年战略规划（目标导向），目标是 THE 排名前 100（问责性），为此董事会批准了专项预算（自主性），并承诺发布年度社会责任报告、将校园碳排放降至零（社会嵌入性）。"（基于 Zapp, 2022, pp.148–149）
 
 ---
-## 理论基础
 
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[World Society Theory]] — 组织能动者身份是世界社会理论的核心概念之一，用于解释在全球[[Cultural Models\|文化模型]]扩散过程中，各类组织（包括大学）如何获得标准化但同时又寻求独特性的组织身份（Bromley & Meyer, 2015）
 > - [[Otherhood]] — otherhood 是能动者身份在大学语境中的特殊表现形式：大学作为"他者"为其他行动者和社会目标行使代理权（Meyer & Jepperson, 2000）
 
@@ -118,16 +115,14 @@ updated: 2026-10-16
 > - **185 个**大学协会/元组织，大多数在过去 **二十年**成立（Brankovic, 2018，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]]）
 
 ---
-## 争议与批评
 
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **新自由主义批判视角** 许多批判性研究将大学对上述压力的反应视为在新自由主义公共缩减时代向创业主义和管理主义的绝望转向（Clark, 1998; Deem, 2001; Olssen & Peters, 2005），认为私有化、产业联系、国际招聘和兼职合同等结构改革确实源自新自由主义模板([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
 > - **[[World Society Theory\|世界社会理论]]视角的回应** Zapp 承认上述批判的有效性，但认为更深刻的转型正在发生——大学正从根本上被重新概念化，从公共行政的特定单位转变为具有自我身份和策略的组织行动者
 
 ---
-## 相关案例／政策
 
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[UN Sustainable Development Goals]] — SDGs 为大学的组织能动者身份（尤其是社会嵌入性维度）提供了全球性议程框架
 > - [[THE Impact Ranking]] — THE 影响力排名将大学的社会嵌入性和[[Global Citizenship\|全球公民]]身份转化为可量化的排名指标
 

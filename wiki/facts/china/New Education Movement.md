@@ -38,19 +38,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # New Education Movement
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 1912 年中华民国成立后，1904 年由清政府以日本学制为蓝本建立的教育体系虽经修改但仍留存，教育改革者围绕重建教育制度展开了激烈争论。同时，[[New Culture Movement\|新文化运动]]以"民主"和"科学"为口号批判儒家传统，为新教育运动提供了文化与意识形态框架([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.612–614]])。
 
-## 经过
-
-> [!note|notitle]
+> [!note] 经过
 > - **1915 年前** — "新教育"泛指西方和日本的教育思想([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]])。
 > - **1915 年后** — 新教育聚焦于儿童中心教学法，以培养全面发展的个体和促进社会进步为目标。
 > - **1919 年 2 月** — 两个标志性事件：[[Jiang Menglin\|蒋梦麟]]主持的《新教育》（xinjiaoyu）杂志创刊，[[John Dewey\|杜威]]抵达日本。后者促使哥伦比亚大学[[Normal School\|师范学院]]毕业的中国追随者邀请杜威访华。
@@ -70,16 +66,12 @@ updated: 2026-10-16
 > [!note] 温和派
 > 以蒋琦等人为代表，认为新教育对旧教育应是"修正而非对立，演进而非原创"（Jiang Qi 1919, pp.358–359）。教育进步应以解决实际社会经济问题为前提，教育改革必须结合实情。
 
-## 影响与后果
-
-> [!success|notitle]
+> [!success] 影响与后果
 > - 推动了 1922 年学制改革，废除了民国元年的固定教育宗旨（"重道德、实利、军国民教育"），代之以七项灵活标准([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
 > - 使 [[John Dewey\|杜威]]的儿童中心教学法和课程整合思想进入中国教育实践，如 1923 年课程引入学分制、将历史、地理、公民、卫生合并为"社会"科([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.618]])。
 > - 1923 年后从"民主"原则转向"[[Scientific Attitude\|科学态度]]"，为民国教育从激进变革转向国情优先的渐进路线提供了过渡机制([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.619–621]])。
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 > - 激进派将教育与政治绑定，试图以教育单枪匹马完成国家重建，低估了财政和政治对教育改革的约束([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.619]])。
 > - [[John Dewey\|杜威]]的渐进实验方法在新教育运动中被有选择地吸收——激进派强调民主目标和儿童中心进步，却忽略了杜威关于"一次一步"的警告([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.617–618]])。
 

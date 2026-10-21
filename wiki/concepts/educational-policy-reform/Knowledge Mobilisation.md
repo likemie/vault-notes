@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Knowledge Mobilisation
@@ -372,9 +372,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979 — [[Research Utilization\|研究利用]]理论的多元起源** Weiss (1979) 提出工具性、概念性与象征性等利用模式，揭示研究对政策实践的渗透具有复杂非线性特征。
 > - **2000s — 线性[[Knowledge Transfer\|知识转移]]与扩散模型的局限** 早期的知识转移（Knowledge Transfer, KT）聚焦单向推送与文献分发，实践壁垒促使学界反思线性模式的失效。
 > - **2008 — 线性与关系模型的系统梳理** Ben Levin 系统分析了知识动员的推力、拉力与中介机制，揭示了单纯信息分发的局限性。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–19)]]
@@ -429,9 +427,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - **[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]** 揭示校内知识动员对非正式同伴网络的高度依附，指出领导者必须通过建立包容性正式分享结构，防止[[Professional Learning Community\|专业学习共同体]]退化为孤立小组。
 > - **[[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]** 系统构建知识动员四类核心推进策略，总结安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 全系统伙伴关系与三位一体法则。
 > - **[[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]** 将知识动员应用于北欧 [[Visible Learning]] 学校改进，揭示能力建设、同行研讨与组织支持对证据转化的决定性作用。

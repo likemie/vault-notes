@@ -74,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemological Vigilance
@@ -194,9 +194,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1968/1991 — [[Epistemology\|认识论]]起源** Bourdieu, Chamboredon & Passeron 在 *The Craft of Sociology* 中首次提出认识论警觉，确立其作为反思社会学抵御自发社会学常识渗透的核心方法论戒律。
 > - **2010 — 认知科学系统化** Sperber et al. 发表 *Epistemic Vigilance*，将警觉概念从社会学方法论推进为人类演化认知机制，专门解释人类如何评估信息源[[Reliability\|可靠性]]与陈述内容真实性以防范虚假信息的侵害。
 > - **2013 — [[Epistemic Friction\|认识论摩擦]]理论拓展** Medina 提出认识论摩擦概念，指出维持生产性的认知阻力与多元质疑是形成抵抗性认识论与深层审思的基石。
@@ -251,9 +249,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 探究初中生在与[[Generative Artificial Intelligence\|生成式人工智能]]（Canva 和 ChatGPT）协同建构[[Scientific Explanation\|科学解释]]时如何践行[[Epistemology\|认识论]]警觉，证实学科解释标准与反思提示语双轨支架能有效激活内容、信源与接收者三维批判性审视。
 > - [[Argument_Eacott_2015_EPT\|Eacott (2015)]] — 以 Bourdieu [[Epistemology\|认识论]]预备为框架，系统论证教育行政学者因具身嵌入性而对日常管理语言丧失警觉的危机，呼吁将对象建构过程本身作为反思客体。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]]生成式 AI 对大学生[[Higher-Order Thinking Skills\|高阶思维]]的塑造，实证确立认识论警觉与[[Epistemic Friction\|认识论摩擦]]在抵御算法顺滑表象、防止有害[[Cognitive Offloading\|认知卸载]]中的核心支架作用。

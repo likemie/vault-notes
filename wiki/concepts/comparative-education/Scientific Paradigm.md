@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Scientific Paradigm
@@ -309,9 +309,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 全景式考据比较教育学科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的争论、其实用政策结盟机制以及走向解体的深层[[Epistemology|认识论]]原因。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与[[Dissimilar Units|非同质单位]]带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统论述大国地缘科技博弈与《[[CHIPS and Science Act|芯片法案]]》如何推动科学研究范式由新自由主义市场适配向后新自由主义[[Securitization of Technology|技术安全化]]与国家使命导向跃迁，深刻反思科研生态封闭化对[[Academic Freedom|学术自由]]与开放创新的制度性冲击（pp. 24–26）。
@@ -322,9 +320,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

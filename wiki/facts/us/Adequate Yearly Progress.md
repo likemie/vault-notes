@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -38,9 +38,6 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Migrant Children]]"
-  - "[[Policy Entrepreneur]]"
-  - "[[Policy Window]]"
-  - "[[Educational Brokerage Agency]]"
 related_theories:
   - "[[Spatial Governmentality]]"
 related_methods:
@@ -61,14 +58,15 @@ related_facts:
 related_arguments:
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
+  - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Hattie_2005_ACER]]"
-  - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Adequate Yearly Progress
@@ -156,13 +154,13 @@ updated: 2026-10-21
 > [!effect-table]- 政策评估与实证数据
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
 >
-> | [[Evaluation Research|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
+> | [[Evaluation Research\|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable\|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
 > | NCES (2007)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 8–9)]] | 全美各州 2005 年统考与 NAEP 对照数据 | 宏观政策映射与心理测量等值化分析 | 各州自定熟练线在 NAEP 尺度上的达标率断层 | 多州公布的高达 **80%–90%** 的 AYP 达标率在 NAEP 真实标准下仅对应 **25%–35%** 熟练度 | 实证证实 AYP 刚性问责诱发各州普遍下调标准（竞相向下沉沦） |
 > | Linn (2003)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]] | 全美 NAEP 统考历史增长率模型 | 统计外推与增长率线性建模 | 达成 100% 熟练水平所需时间 | 按历史实际速率，四年级数学需 **150 年**、八年级数学需 **160 年** 方能实现 100% 达标 | 强力证实 AYP 设定的 2014 年全员达标指标违背统计规律与教育现实 |
-> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；流动性显著负向预测统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
-> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | [[Falsification|证伪]]了政策假定中将[[Student Mobility|学生流动]]等同于“家庭失范”与“学业冷漠”的赤字[[Discourse|话语]] |
-> | Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下 AYP 刚性指标对一线教学行为与学校生态的严重扭曲 |
+> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；流动性显著负向预测统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
+> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | [[Falsification\|证伪]]了政策假定中将[[Student Mobility\|学生流动]]等同于“家庭失范”与“学业冷漠”的赤字[[Discourse\|话语]] |
+> | Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire\|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下 AYP 刚性指标对一线教学行为与学校生态的严重扭曲 |
 
 > [!stat-cards]- 核心数据
 > - **100%** 2014 年法定全员熟练通过率目标。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
@@ -196,9 +194,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -208,7 +204,7 @@ updated: 2026-10-21
 > | [[Every Student Succeeds Act]] | 替代法案 | 2015 年终结并正式废除 AYP 联邦统一公式的替代性法规。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]] |
 > | [[Test-Based Accountability]] | 核心概念 | AYP 属于全球基于测试的问责制中最极端刚性的典型制度案例。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 253–254)]] |
 > | [[Race to the Top]] | 关联政策 | 借助 AYP 危机设立灵活性豁免，推动各州采纳 CCSS 与教师增值评估的联邦计划。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 256–257)]] |
-> | [[Student Mobility|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者编码为“漂泊”失范与未达标的核心免责借口。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 361–362)]] |
+> | [[Student Mobility\|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者编码为“漂泊”失范与未达标的核心免责借口。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 361–362)]] |
 > | [[Spatial Governmentality]] | 上位理论 | 阐释 AYP 如何通过空间圈禁与指标达标将流动学童排斥为边缘异类的治理技术。 |
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | 论证条目 | 深入分析 AYP 达标阶梯制裁在美国测试问责体制中的治理功能与制度限度。 |
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 详细记录政策企业家如何动员 AYP 与 NAEP 差距数据撬开政策之窗的经典研究。 |

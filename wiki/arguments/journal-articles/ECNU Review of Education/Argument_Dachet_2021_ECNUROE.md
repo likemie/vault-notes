@@ -59,7 +59,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-23
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2021
 doi: ""
 citation_aliases:
@@ -68,21 +68,15 @@ citation_aliases:
 ---
 # Argument_Dachet_2021_ECNUROE
 
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 法语比利时这样一个过去很少鼓励证据本位[[Paradigm\|范式]]、[[Qualitative Research\|定性研究]]影响较强、教育系统又面临绩效与公平压力的地区，如何把[[Evidence-Based Education\|证据本位教育]]逐步嵌入一场正在进行的系统改革？这个问题的核心不是“EBE 是否应当被采纳”，而是“当本地缺少大量经过实验验证的项目时，[[Evidence-Based Reform\|证据本位改革]]还能以什么形式推进”(pp.165-166, 170-171)。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - [[Evidence-Based Education]]：作为从循证医学迁移到教育领域的[[Paradigm\|范式]]，强调专业实践应使用当前最佳研究证据，但教育领域同时存在对标准化、可复制性和[[Epistemology\|认识论]]窄化的批评(pp.166-168)。
 > - [[Evidence-Based Reform]]：主要采用 Slavin 的三项杠杆作为[[Analytic Framework\|分析框架]]，即提供广泛的经验证项目、提供教师友好的研究综述、为学校实施经验证项目提供资源(pp.166, 179-181)。
 > - 方法匹配而非单一证据层级：结构性教育改革很难总是用实验设计评估，因此可用[[Correlational Research\|相关性研究]]、[[Longitudinal Study\|纵向研究]]或其他适合问题的问题-方法组合来判断现有最佳证据(pp.171, 179-180)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：叙事[[Case Study\|案例研究]]。研究以法语比利时正在进行的[[Pact for Educational Excellence\|教育卓越公约]]为案例，分析改革阶段以及作者所在研究中心在改革工作中的连续参与(p.164)。
 > - 资料来源：改革文本、工作组过程、教学工具/项目清单、结构性改革方案，以及作者团队参与 [[Evidence-Based Education\|EBE]] 报告、方法类型学和项目验证工作的过程材料(pp.170-181)。
 > - [[Analytic Framework\|分析框架]]：先把计划中的结构改革与可获得教育研究证据比较，再用 Slavin 的三项杠杆判断改革在多大程度上接近[[Evidence-Based Reform\|证据本位改革]](pp.171, 179-181)。
@@ -145,18 +139,14 @@ citation_aliases:
 > - 工具/项目清单：425 个候选工具/项目，61 个曾被教育研究者测试，13 个采用实验设计(p.175)。
 > - 预算：官方建议估算约 200 万欧元，用于学校实验、严格评价和公共政策系统评价(p.181)。
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “要让循证改革盛行，必须具备三个条件”
 > ("for [[Evidence-Based Reform]] to prevail, three conditions must exist")([[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p.2, p.179]])
 >
 > > “我们正处于这条道路的最开端”
 > ("we are at the very beginning of the path")(p.179)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > ### 参与者视角带来的双重身份
 >
 > 研究不是外部观察，而是作者团队参与改革过程后的叙事[[Case Study\|案例研究]]。优点是能呈现内部政策过程和实际妥协，限制是对改革价值的判断可能更接近参与者自我理解；例如对包容性类型学的评价，更多强调其协作和过渡功能，而较少检验它是否会长期稀释“经验证项目”的标准(pp.164, 175-180)。

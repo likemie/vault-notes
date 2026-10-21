@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
+  - "[[Systematic Review]]"
 related_persons:
   - "[[Robert Arnove]]"
   - "[[Fazal Rizvi]]"
@@ -52,13 +53,14 @@ related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # School Choice
@@ -85,8 +87,6 @@ updated: 2026-10-21
 > - 不等于 **[[Migrant Children|随迁子女]]入学（Migrant Children Admission）** — 随迁侧重于流动人口随迁后争取合法的基准受教育权；择校则是由家庭主动发起，目标锁定在获取优势教育层级的资源分配上。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析
 > | 维度 | 择校 (School Choice) | [[Peidu\|陪读 (Peidu)]] | 就近入学 (Proximity) |
@@ -210,8 +210,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变
 > - **1962 — 市场选择思想的提出** 米尔顿·弗里德曼（Milton Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立教育垄断。
 > - **2000s — 新自由主义政策大扩张** 英美等国大力推广特许学校（charter schools）和学院学校（academies），择校成为主流教育政策。
@@ -252,8 +250,6 @@ updated: 2026-10-21
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 253–255)]] | 全球 158 篇教育治理改革文献（重点追踪智利、美国、英格兰、瑞典与挪威） | [[Systematic Review\|系统文献综述]]与国别比较分析 | 测验问责制（TBA）与学校择校（School Choice）的政策联动及制度化轨迹 | 证实自由主义与 NPM 政体将统考数据作为推进家长择校与学校市场化优胜劣汰的核心机制，而在北欧新韦伯主义传统下（如挪威）则主动叫停排行榜以阻断择校竞争 | 质性系统综述与历史制度主义综合分析 | 揭示择校机制与测验问责的政策偶联深度依赖国家既有行政传统 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 运用多层方差分解揭示学校间方差仅占 5–10% 而教师方差占 30%，从实证上论证了择校政策对[[Academic Achievement|学业成就]]提升的有限性。

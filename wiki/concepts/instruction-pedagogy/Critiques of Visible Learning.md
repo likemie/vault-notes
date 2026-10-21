@@ -197,7 +197,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critiques of Visible Learning
@@ -899,9 +899,8 @@ updated: 2026-10-21
 > | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 丹麦 2014 义务教育改革法案与 VL 统计设计缺陷（Table 1） | [[Critical Theory\|批判理论]]与多国方法论文献综合审查 | 复杂性还原、调节因素剔除、0.40 截断点、异质归并、低质纳入、统计谬误 | 揭示其效应量原子化同时将师生还原为变量；丹麦改革证实 VL 承诺被行政机器作为压制教师异议的合法化工具 | 纯理论与方法批判；证实政策制定者购买的是[[Technical Rationality\|技术理性]]的控制承诺而非原始数据真理性 | 确证 VL 的全球流行是现代学校应对[[Legitimation Crisis\|合法化危机]]的产物，而非教育科学进步的标志 |
 
 ---
-## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 新西兰批判先驱，从初级研究质控缺失、武断 0.40 门槛及社会阶层方差分解解构[[Meta-meta-analysis|二阶元分析]]并警示政策转嫁风险。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 批判政策分析，从学者社会良知出发批判排除校外贫困与阶级不平等，揭示其为政府紧缩削支提供政策掩护。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — [[Didaktik|欧陆教学论]]权威首度系统提出元-[[Meta-analysis|元分析]]双重困境、教学论内容真空与福柯式全景规训。

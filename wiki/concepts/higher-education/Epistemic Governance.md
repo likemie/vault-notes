@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic Governance
@@ -190,9 +190,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990s — 国际关系与社会学的“知识转向”** [[Constructivist Paradigm|建构主义]]与[[World Society Theory|世界社会理论]]（Wendt, 1999; Meyer et al., 1997）揭示规范、[[Cultural Models|文化模型]]与意义系统的建构性力量，治理研究从关注国家[[Hard Power|硬实力]]竞争拓展至观念与认知基础。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 145)]]
 > - **2000s–2010s — 欧洲教育政策分析与证据生态工程开拓** Normand (2016) 将概念系统引入欧洲教育治理分析；[[OECD]] [[Centre for Educational Research and Innovation|CERI]] 自 2000 年开启从外在指标调控转向重塑主权国家内部“教育知识治理”（Education Knowledge Governance）与[[Evidence Ecosystem|证据生态系统]]建设。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
 > - **2015–2022 — 大学嵌入全球治理与软性规训机制确立** 扎普（[[Argument_Zapp_2022_Springer|Zapp, 2022]]）阐明高等教育通过四重对齐机制深度嵌入 [[UN Sustainable Development Goals|SDGs]] 知识治理网络；同时批判学者（[[Argument_Huang_2020_APJE|Huang & Kan, 2020]]; [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025]]）系统揭示学校测评与大学排名作为[[Epistemology|认识论]]治理装置的规训与象征暴力机制。
@@ -241,9 +239,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 结合[[World Society Theory|世界社会理论]]与组织能动性框架，系统论述大学如何通过四大机制嵌入全球知识治理及 [[UN Sustainable Development Goals|SDGs]]（pp. 143–161）。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] — 梳理 [[Centre for Educational Research and Innovation|OECD CERI]] 二十年教育知识治理与证据生态演进，剖析国际组织对成员国科研体制的深层调控（pp. 16–27）。
 > - [[Argument_Huang_2020_APJE|Huang and Kan (2020)]] — 批判[[OECD|经合组织]]依托学校级国际测评推行量化[[Epistemology|认识论]]治理，揭示空间同质化对微观教育生态的去情境化冲击（pp. 422–424）。

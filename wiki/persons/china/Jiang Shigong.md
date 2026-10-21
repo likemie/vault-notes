@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-12'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jiang Shigong
@@ -59,9 +59,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1967** 出生于中国陕西省。
 > - **1990–1999** 先后于中国政法大学和北京大学法学院获得法学学士及博士学位，毕业后留校任教。
 > - **2004–2008** 借调至中联办工作，专门研究特区政治与香港回归后的人心整合课题，奠定了其[[One Country, Two Systems\|一国两制]]中央集权的法理视角（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
@@ -100,9 +98,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **批评者／论敌** [[Paul Morris]] — 长期批判其将意识形态强灌包装为德育、消解香港教育专业自主权的威权逻辑。
 > - **批评者／论敌** [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 对其杂糅西方决断论解构[[One Country, Two Systems\|一国两制]]法治契约的学术逻辑进行了系统性批判。
 > - **机构／运动／项目** [[National Security Law]] — 其主权决断思想的终极宪制载体。
@@ -123,9 +119,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

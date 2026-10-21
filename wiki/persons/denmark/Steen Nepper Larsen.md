@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Steen Nepper Larsen
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1958** 出生于丹麦。
 > - **1965** 开始接受基础教育，亲身经历丹麦教育[[Discourse|话语]]从“indlæring”（灌输式教学）向“læring”（学习）话语、进而滑向当代新自由主义[[Learnification|学习化]]（Learnification）的历史演进。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 > - **2013** 应邀赴新西兰惠灵顿维多利亚大学讲学，发表关于[[Neuroplasticity|神经可塑性]]当代趣味与批判局限的学术分析。
@@ -153,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想渊源** [[Niklas Luhmann|尼克拉斯·卢曼]] — 汲取二阶观察与盲点概念；[[Thomas Fuchs]] — 借鉴生态大脑与身体[[Phenomenology|现象学]]；威廉·冯·洪堡（Wilhelm von Humboldt）、[[David Held|赫尔德]]与[[Georg Wilhelm Friedrich Hegel|黑格尔]] — 继承古典德国教化（[[Bildung]]）哲学传统。
 > - **学术同道** [[Gert Biesta|格特·比斯塔]]（Gert Biesta） — 共享抵抗教育[[Learnification|学习化]]（Learnification）的批判阵线；[[Thomas Aastrup Rømer]] — 丹麦教育学院同事，共同发起对丹麦学校[[Positivism|实证主义]]转向的学术反思。
 > - **学术论敌** [[John Hattie|约翰·哈蒂]]（John Hattie） — 可见学习[[Paradigm|范式]]开创者，2018 年哥本哈根公开辩论的直接交锋对象。
@@ -171,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

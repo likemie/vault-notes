@@ -32,15 +32,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Local Innovation Systems Project
 
 ---
-## 背景
 
-> [!info|notitle]
+> [!info] 背景
 > 本地[[Systems of Innovation\|创新系统]]项目（Local Innovation Systems Project，LIS Project）是 MIT 工业绩效中心（Industrial Performance Center）在 Richard K. Lester 领导下于 2002-2005 年进行的多案例比较研究项目。项目的核心目标是理解大学如何通过贡献于本地产业创新过程来支持地方经济发展，最终为地方社区提供可操作的政策建议[[Argument_Lester_2005_MIT\|(Lester, 2005)]]。
 
 ---
@@ -57,8 +56,7 @@ updated: 2026-10-16
 > LIS 项目通过匹配案例对比（如挪威斯塔万格与苏格兰阿伯丁的北海油气产业、芬兰赫尔辛基与康涅狄格州纽黑文的无线/生物技术产业）增强发现的普遍性。匹配案例使研究者能够通过"在定性理解中注入更大严谨性"来从特例中提取可推广的因果模型。
 
 ---
-## 相关概念
 
-> [!tip|notitle]
+> [!tip] 相关概念
 > - [[Lester's Typology of University Contributions to Local Industry]] — LIS 项目的直接理论产出
 > - [[University-Industry Collaboration]] — LIS 项目研究的是大学在这种合作中的经济贡献

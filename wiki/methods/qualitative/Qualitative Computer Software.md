@@ -77,7 +77,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Qualitative Computer Software
@@ -198,9 +198,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle] 相关理论与方法矩阵
+> [!entry-map] 相关理论与方法矩阵
 >
 > | 关系层级 | 条目 | 类型 | 关系 |
 > |:---|:-----|:-----|:-----|

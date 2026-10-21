@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # William F. Buckley Jr.
@@ -55,9 +55,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1925** 出生于美国纽约市。
 > - **1950** 毕业于耶鲁大学，期间担任《耶鲁每日新闻》主席。
 > - **1951** 出版成名作《上帝与耶鲁人》（*God and Man at Yale*），严厉批评母校在世俗主义与相对主义侵蚀下背离传统立校精神。
@@ -86,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

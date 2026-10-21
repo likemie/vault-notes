@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jacob S. Hacker
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1971** 出生于美国俄勒冈州尤金市。
 > - **1994** 于哈佛大学获社会研究学士学位（最优等）。
 > - **2000** 于耶鲁大学获政治学博士学位，受教于美国政治与[[Historical Institutionalism|历史制度主义]]学界前沿学者。
@@ -128,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **长期学术合著者** [[Paul Pierson]] — 两人共同开创《赢家通吃的政治》等一系列里程碑式美国政治经济学经典，合称美国制度政治“双子星”。
 > - **理论同行与吸收者** [[Kathleen Thelen]] — 长期在制度变迁形态与比较政治经济学领域密切合作对话。
 > - **理论同行与吸收者** [[James Mahoney]] — 将哈克的研究模型系统吸收并拓展为双维中观因果矩阵。
@@ -150,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 为渐进变迁核心双维矩阵（Table 1.2）提供直接理论原型与启发。 |

@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Immanuel Wallerstein
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1930** 出生于美国纽约市。
 > - **1950 年代** 在哥伦比亚大学获得社会学学士、硕士与博士学位；其博士论文比较了西非加纳与科特迪瓦自愿社团在民族独立运动中的角色，由此开启长达十余年的非洲政治社会学实地考察。
 > - **1960 年代** 深入非洲实地研究去殖民化进程，目睹第三世界民族国家在政治独立后依然深陷依附与贫困的残酷现实，确立了“所有严肃分析必须同时具有历史性与系统性”（simultaneously historic and systemic）的方法论信念。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
@@ -145,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与思想渊源** 费尔南·布罗代尔（Fernand Braudel） — 法国年鉴学派宗师，为沃勒斯坦提供长时段（longue durée）历史动力学分析基础；卡尔·马克思（Karl Marx） — 资本积累与国际阶级剥削理论来源。
 > - **合作者与同仁** 萨米尔·阿明（Samir Amin）、安德烈·贡德·弗兰克（Andre Gunder Frank）、乔万尼·阿瑞基（Giovanni Arrighi） — 组成世界体系与[[Dependency Theory|依附论]]四人批判网络。
 > - **学术继承与比较教育引入者** [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove） — 于 1980 年将沃勒斯坦[[World-Systems Theory|世界体系分析]]正式引入比较教育学。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]
@@ -177,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

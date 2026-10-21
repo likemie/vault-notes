@@ -38,39 +38,31 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rasch Measurement
 
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Rasch 测量（Rasch Measurement）是一种把测验答题[[Data Transformation\|数据转换]]到共同尺度上的测量方法，以丹麦数学家和统计学家 Georg Rasch (1901-1980) 命名。在 [[PISA]]、[[TIMSS]] and [[PIRLS]] 等[[International Large-Scale Assessments\|国际大规模评估]]中，原始观察值或答对题数本身并不直接构成公共排名使用的分数；经过 Rasch 分数转换后，结果被放置到共同尺度上，并常以中点 500 的量表向公众和政策界呈现([[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.47]])。
 
 ---
 
-## 教育评估中的角色
-
-> [!abstract|notitle]
+> [!abstract] 教育评估中的角色
 > - Rasch 测量使不同题目、不同学生答题表现和不同测试版本能够被转换到共同尺度，成为跨国家或跨地区比较的基础。
 > - 这类分数是统计转换后的尺度分数，不是原始答题数据的直接排列；因此国际评估排名需要同时呈现估计误差，避免相邻名次被过度解释([[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.47-48]])。
 
 ---
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > - [[International Large-Scale Assessments\|国际大规模教育评估]]中，需要把不同题目和学生答题表现转换为共同尺度，以便进行国家或地区间比较。
 > - 当研究者讨论教育排名和测量误差时，Rasch 测量可作为理解 [[PISA]]/[[TIMSS]]/[[PIRLS]] 分数如何生成的基础背景([[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.47]])。
 
 ---
 
-## 模型适用性问题
-
-> [!warning|notitle]
+> [!warning] 模型适用性问题
 > Rasch 模型要正确运作，必须满足某些要求。但 [[PISA]] 对 Rasch 模型的应用未能满足这些要求。
 >
 > Kreiner 曾师从 Rasch 并使用其模型超过 40 年，他与 Christensen (2014) 发现 Rasch 模型不适合 PISA 的阅读素养数据，因此国家排名不稳健。排名在不同子集上可能有很大变化。Kreiner 认为这意味着 PISA 的国家比较是无意义的（Stewart 2013, 引自 Zhao, 2020）。
@@ -81,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念
-
-> [!tip|notitle]
+> [!tip] 相关概念
 > - [[Confidence Interval]] — [[PISA]] 排名呈现误差区间，使读者能够判断数值相邻的国家是否真正不同([[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.47-48]])。
 > - [[Effect Size]] — Rasch 分数排名和效应量排名都可能被用于排序；如果排序只呈现点估计而缺少估计误差，相邻值差异就难以解释。
 > - [[Construct]] — Rasch 模型的适用性问题与[[Construct Validity\|构念效度]]相关，当模型不适合数据时，测量结果可能没有测量到声称测量的构念。

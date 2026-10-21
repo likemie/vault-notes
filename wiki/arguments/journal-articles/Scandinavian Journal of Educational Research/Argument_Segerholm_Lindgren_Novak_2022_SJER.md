@@ -7,7 +7,7 @@ title: "Argument_Segerholm_Lindgren_Novak_2022_SJER"
 argument_key: "Argument_Segerholm_Lindgren_Novak_2022_SJER"
 argument_display_title: "Evidence-based governing? Educational research in the service of the Swedish Schools Inspectorate"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 30
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -37,40 +37,33 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Scientific Method]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[State Simplification]]"
   - "[[Assemblage]]"
   - "[[Rich and Thick Description]]"
   - "[[Informed Consent]]"
   - "[[Academic Achievement]]"
-  - "[[Areas of Knowledge]]"
-  - "[[Operationalization]]"
-  - "[[Paradigm]]"
-  - "[[Evidence-Based Policy-Making]]"
-  - "[[Professional Judgment]]"
-  - "[[Epistemology]]"
-  - "[[Research Translation]]"
-  - "[[Knowledge Production]]"
-  - "[[State Simplification]]"
-  - "[[Forensic Style of Inspection]]"
   - "[[Juridification of Education]]"
+  - "[[Forensic Style of Inspection]]"
+  - "[[Research Translation]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Embodied, Inscribed and Enacted Knowledge]]"
-  - "[[Pluralism]]"
-  - "[[Three Lenses of Evidence-Based Policy]]"
   - "[[Governing by Inspection]]"
+  - "[[Three Lenses of Evidence-Based Policy]]"
   - "[[Legitimate Peripheral Participation]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
+  - "[[Jenny Ozga]]"
+  - "[[James C. Scott]]"
   - "[[Jean Piaget]]"
   - "[[Basil Bernstein]]"
-  - "[[James C. Scott]]"
-  - "[[Jenny Ozga]]"
 related_facts:
   - "[[Swedish Schools Inspectorate]]"
-  - "[[National Research Council]]"
   - "[[Swedish National Agency for Education]]"
+  - "[[National Research Council]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Kelly_2025_ROE]]"
@@ -80,7 +73,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Argument_Segerholm_Lindgren_Novak_2022_SJER
 
@@ -107,12 +100,12 @@ updated: 2026-10-21
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Embodied, Inscribed and Enacted Knowledge\|具身、文本化与践行知识（Embodied, Inscribed and Enacted Knowledge）]]**<br>理查德·弗里曼（Richard Freeman）与史蒂夫·斯特迪（Steve Sturdy, 2014） | 将政策工作中的知识划分为三种形态：存留于人体且随人移动的具身知识；固化于文件、图表、指标与工具的书面化规程（即[[Embodied, Inscribed and Enacted Knowledge\|文本化知识]]，Inscribed Knowledge，STS 传统亦译铭刻知识）；在现场互动中生成且随行动结束而消逝的践行知识。用于追踪研究如何从口头协商转化为指令指南，又如何在终审定稿中被重新改写。（pp. 644, 648, 652–654） |
-> | **知识告知政策与知识构成政策（Knowledge Informing / Forming Policy）**<br>努内·伊萨基扬（Nune Issakyan）与[[Jenny Ozga|珍妮·奥兹加]]（Jenny Ozga, 2008） | 区分两类关系：研究独立于政策过程并作为理性决策的外在输入；研究内生于政策工作并直接充当治理本身。用于研判两个个案中研究介入治理的不同深度。（pp. 644, 652–653） |
+> | **知识告知政策与知识构成政策（Knowledge Informing / Forming Policy）**<br>努内·伊萨基扬（Nune Issakyan）与[[Jenny Ozga\|珍妮·奥兹加]]（Jenny Ozga, 2008） | 区分两类关系：研究独立于政策过程并作为理性决策的外在输入；研究内生于政策工作并直接充当治理本身。用于研判两个个案中研究介入治理的不同深度。（pp. 644, 652–653） |
 > | **[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性、概念性与象征性使用]]**<br>卡罗尔·韦斯（Carol H. Weiss, 1979） | 工具性使用指研究直接用于解决政策技术难题；概念性使用指研究重塑对问题的理解框架；象征性使用指研究被用作既定政策立场的合法化背书。用于刻画督导业务中[[Research Utilization\|研究使用]]的功能演变。（pp. 652–653） |
-> | **[[State Simplification|国家简化]]（State Simplification）**<br>[[James C. Scott|詹姆斯·斯科特]]（James C. Scott, 1998） | 指现代国家为实现行政管控，将复杂的社会现实裁剪为可计量、可比较的标准化分类。用于解释督导指标、知识综述与模范案例如何将学校教学塑造为易于问责的客体。（p. 653） |
-> | **[[Governing by Inspection|借督导治理]]（Governing by Inspection）**<br>索蒂里亚·格雷克（Sotiria Grek）与约阿基姆·林德格伦（Joakim Lindgren, 2015） | 揭示去中心化背景下，国家通过外部督导与公开评级替代直接行政命令，实现远程监控与自我规训的新型治理范式。（pp. 642, 654） |
-> | **[[Three Lenses of Evidence-Based Policy|循证政策的三维透镜模型]]（Three Lenses of Evidence-Based Policy）**<br>布赖恩·W·黑德（Brian W. Head, 2008） | 揭示政策循证立足于系统性科学证据、实务经验证据与政治证据三重透镜的相互制衡与协商。（pp. 643, 654） |
-> | **[[Legitimate Peripheral Participation|合法的边缘性参与]]（Legitimate Peripheral Participation）**<br>让·莱夫（Jean Lave）与埃蒂安·温格（Etienne Wenger, 1991） | 刻画外部科研学者在官僚督察体系中的边缘专家定位，揭示其在科学与政策异质世界间的角色切换与协商限度。（p. 654） |
+> | **[[State Simplification\|国家简化]]（State Simplification）**<br>[[James C. Scott\|詹姆斯·斯科特]]（James C. Scott, 1998） | 指现代国家为实现行政管控，将复杂的社会现实裁剪为可计量、可比较的标准化分类。用于解释督导指标、知识综述与模范案例如何将学校教学塑造为易于问责的客体。（p. 653） |
+> | **[[Governing by Inspection\|借督导治理]]（Governing by Inspection）**<br>索蒂里亚·格雷克（Sotiria Grek）与约阿基姆·林德格伦（Joakim Lindgren, 2015） | 揭示去中心化背景下，国家通过外部督导与公开评级替代直接行政命令，实现远程监控与自我规训的新型治理范式。（pp. 642, 654） |
+> | **[[Three Lenses of Evidence-Based Policy\|循证政策的三维透镜模型]]（Three Lenses of Evidence-Based Policy）**<br>布赖恩·W·黑德（Brian W. Head, 2008） | 揭示政策循证立足于系统性科学证据、实务经验证据与政治证据三重透镜的相互制衡与协商。（pp. 643, 654） |
+> | **[[Legitimate Peripheral Participation\|合法的边缘性参与]]（Legitimate Peripheral Participation）**<br>让·莱夫（Jean Lave）与埃蒂安·温格（Etienne Wenger, 1991） | 刻画外部科研学者在官僚督察体系中的边缘专家定位，揭示其在科学与政策异质世界间的角色切换与协商限度。（p. 654） |
 
 > [!warrant]- 理论工具如何接合
 > 该研究将治理界定为由空间、行动者、政策、实践与权力网络共同[[Assemblage|组装]]而成的工作，并将[[School Inspection|学校督导]]视作[[Governing by Inspection|借督导治理]]模式下国家宏观意志与学校一线实践之间的转换枢纽。三种知识形态构成了纵向的过程追踪线索：法律法规、督导指令、研究综述与审计报告构成可复制流转的文本化知识；督导员与管理者的经验判断属于具身知识；会议研讨、质询交锋与临场斡旋属于践行知识。横向维度上，伊萨基扬与[[Jenny Ozga|奥兹加]]的知识定位连同韦斯的使用类型以及黑德的[[Three Lenses of Evidence-Based Policy|三维证据透镜]]，揭示了研究在不同业务中究竟充当理性输入还是治理载体；[[James C. Scott|斯科特]]的[[State Simplification|国家简化]]理论则点明了上述知识转换的终极政治功能：让复杂的学校生活服从国家官僚机器的常态监督。（pp. 644, 648, 652–654）
@@ -308,7 +301,7 @@ updated: 2026-10-21
 > |:---|:---|:---|
 > | **研究介入时点** | 督导指标设计之初介入，文献先于指标文本成型 | 审计议题与综述草案内部拟定后，外部学者方才受邀 |
 > | **核心知识形态** | 以书面规程为主导，辅以原 NAE 督导员的具身经验 | 规程文本、学者专长与现场践行交锋高度共存 |
-> | **主导使用类型** | 工具性使用为主，体现知识告知政策的理性改革特征 | 概念性借用与[[Forensic Style of Inspection|取证式调查]]并存，体现知识构成政策 |
+> | **主导使用类型** | 工具性使用为主，体现知识告知政策的理性改革特征 | 概念性借用与[[Forensic Style of Inspection\|取证式调查]]并存，体现知识构成政策 |
 > | **选择过滤机制** | 起草组定向挑选成功学校文献，法务消极审查法定底线 | 综述依托单一范式抹杀学术争论，学者按专业定向网罗 |
 > | **文本控制权力** | 指标直接编码固化进面向全国的督导指令与办学指南 | 传播秘书处行使终审重写权，系统清洗批判性制度反思 |
 > | **深层治理效能** | 刚性规制学校必须重点展示与整改的办学维度与指标 | 强制确立国家对办学成败与教师心态缺陷的官方定性 |
@@ -441,9 +434,7 @@ updated: 2026-10-21
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 文末明确自述的研究局限与方法边界如下：
 > 1. **田野材料收集的时间跨度** 实证数据收集于 2011–2013 年间，距离成果最终刊发已过去数年；但鉴于官僚体制运转机制的稳定性，该嵌入式个案厚描述对于反思同类治理流程仍具备深刻的学理穿透力。（p. 645）
 > 2. **工具性个案研究的非普适性** 研究设计旨在聚焦反思“教育研究如何被用来使政策与治理循证”这一特定理论命题，督察局仅是承载该命题剖析的经验场景，研究并不谋求对瑞典督导体制得出全称性的一般概括。（p. 645）

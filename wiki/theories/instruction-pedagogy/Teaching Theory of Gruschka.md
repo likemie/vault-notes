@@ -32,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-20
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Teaching Theory of Gruschka
@@ -47,9 +47,7 @@ updated: 2026-10-16
 > 
 > 教学被理解为一个复杂的行动系统，由人格陶成 (Bildung)、教育/教养 (Erziehung) 和教学法 (didactics) 组成。所有这三个方面在教学行动中相互交织。
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 
 ### 三元结构
 
@@ -72,9 +70,8 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 
 在 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] 的运用中，Gruschka 的教学理论被用作批判数字学习工具的[[Analytic Framework|分析框架]]。其批判逻辑是：数字学习工具通常只替代了 Didaktik 的部分功能（呈现内容、安排任务序列、提供反馈），但在这个过程中，它们同时暗中重新定义了 Bildung and Erziehung——将理解简化为完成任务，将朝向 Bildung 的定向简化为对奖励系统的动机依赖([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp.240–243]])。因为这个三元结构是不可分割的星座，对任何一个维度的技术干预都会波及全部三个维度。
 ... Applied fuzzy match at line 41-94.
-## 发展脉络
 
-> [!note|notitle]
+> [!note] 发展脉络
 > Gruschka 的[[Didaktik\|教学理论]]是在德语教学论（Didaktik）和 [[Bildung]] 传统的长线脉络中发展的。其主要著作包括：
 > - Gruschka（2009）：*Erkenntnis in und durch Unterricht*（教学中的认识与通过教学的认识）——奠定理论基础
 > - Gruschka（2013）：*Unterrichten — eine pädagogische Theorie auf empirischer Basis*（教学——基于经验的教育理论）——将理论建立在对课堂教学的经验研究之上
@@ -82,15 +79,11 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 
 该理论在德国国内讨论中处于中心地位，并通过 Uljens and Ylimaki（2017）的编著在国际和欧洲语境中获得日益增多的关注([[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p.238]])。
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **德国语境的特殊性** 该理论深深根植于德国 [[Bildung]]/[[Didaktik]] 传统，其核心概念（Bildung, Erziehung, Didaktik）在其他教育文化中缺乏精确的对应概念，跨国适用性有待验证（Jornitz & Klinge, 2022 本身即是将该理论应用于全球 EdTech 分析的一次尝试）
 > - **经验基础的可见性**虽然 Gruschka（2013）声称基于经验研究，但在当前仅通过 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge（2022）]]一章的引用，尚无法全面评估其经验基础的质量和范围
 > - **信息量限制**本条目仅基于 Jornitz & Klinge对 Gruschka 理论的总结性介绍，Gruschka 原著的完整论证有待直接阅读后补充
 
-## 相关研究
-
-> [!example|notitle]
+> [!example] 相关研究
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — Jornitz & Klinge 以 Gruschka [[Didaktik\|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
 

@@ -75,7 +75,7 @@ related_instruments:
   - "[[Visible Classroom]]"
 status: stable
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Knudsen_2017_NordSTEP"
@@ -342,9 +342,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **单一口述材料的主观辩解偏误** 质性口述主要反映当事人的自我陈述、立场防御与事后合理化修辞，难以直接替代独立的第三方政策追踪与[[Fieldwork|田野调查]]。（pp. 253–254）
 > - **单一行动者无法全权决定复杂传播网络** 将跨国扩散的全部责任归结于倡导者个体具有局限性，在复杂的社会系统中，没有任何单一主体能完全控制教育方案的本土解读与变异。（p. 253）
 > - **商业机构数据清洗暗箱无法进入** 授权公司 [[Cognition Education]] 拒绝外部学者进入奥克兰总部实地观察其清洗、编码与建模处理丹麦学校数据的具体流程，商业中介环节的技术处理依然成谜。（p. 254）

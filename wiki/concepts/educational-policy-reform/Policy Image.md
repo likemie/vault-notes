@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Image
@@ -124,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1993年 — 鲍姆加特纳与琼斯创立概念** 在《美国政治中的议程与不稳定性》中确立政策形象与制度场所并行的双轨动力学，分析烟草、核能与杀虫剂政策变迁。
 > - **2000年代 — 跨国比较议程项目（[[Industry Affiliate Program|CAP]]）深化** 学界将政策形象编码技术应用于欧洲多国议会与媒体报道的大规模文本挖掘，量化证实形象的情感极性翻转是导致法案间断突变的先导指标。
 > - **2013年 — 教育治理与证据利用生命周期扩展** 麦克唐纳与韦瑟福德将政策形象应用于跨州教育政策研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助跨国测评实证数据战略性重构政策形象以推动国家级改革。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
@@ -145,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

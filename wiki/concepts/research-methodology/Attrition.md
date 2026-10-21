@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Attrition
@@ -178,9 +178,7 @@ ight|$$
 
 ---
 
-## 相关概念与方法网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念与方法网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

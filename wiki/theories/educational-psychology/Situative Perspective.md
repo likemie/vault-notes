@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Situative Perspective
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -130,9 +128,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 真实工作场所学习、跨学科团队协作、学术共同体演进、课堂小组[[Discourse|话语]]互动及[[Apprenticeship|学徒制]]培养。
 > - **成立条件** 必须具备真实的[[Communities of Practice|实践共同体]]土壤、充裕的面对面深度交互时间，以及容纳边缘参与者的包容性组织制度。
 > - **解释不足** 对个体大脑内部短时间内高度自动化的符号逻辑推导、孤立记忆提取等纯认知加工过程解释力较弱。
@@ -156,8 +152,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理情境主义与[[Constructivist Paradigm|建构主义]]在[[Epistemic Cognition|认识论认知]]领域的[[Ontology|本体论]]与方法论断层，主张走向[[Integrative Pluralism|整合多元主义]]与[[Mixed Methods Research|混合方法]]。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 以高校应对《[[CHIPS and Science Act|芯片与科学法案]]》的半导体工作坊为案例，实证检验情境学习理论与合法边缘性参与机制在孵化跨学科战略科研[[Communities of Practice|实践共同体]]中的关键效用，并揭示线下面对面交流相比混合模式在建立学术信任上的不可替代性（pp. 2–3, 6）。

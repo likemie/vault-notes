@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hegemony
@@ -122,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -187,9 +185,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 拥有成熟文化中介系统（现代学校、专业学会、出版媒体、大学体系及网络平台）的社会与全球治理[[Champ\|场域]]，擅长剖析无形、柔性与共识性的权力运作。
 > - **成立条件** 必须存在市民社会与相对独立的文化场域；受众需具备接受文化中介影响的信息接触通道。
 > - **解释不足** 葛兰西原理论偏重质性与历史哲学阐释，在现代实证研究中面临[[Operationalization\|操作化]]与量化测量难题——如何精准剥离“自愿的积极同意”与“无能为力的被迫默认”；同时，对宏观全球经济[[Hard Power|硬实力]]分配的结构性描绘不如[[World-Systems Theory\|世界体系理论]]清晰。
@@ -234,9 +230,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 将葛兰西霸权理论系统引入[[Geopolitics of Higher Education|高等教育地缘政治]]，替代[[World-Systems Theory|世界体系理论]]，剖析美式大学、引文评价与大学排名如何制造全球知识等级的积极同意。
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 结合 217 册教材文本与少数民族学子访谈，实证揭示国家课程如何作为霸权装置自然化文化中心主义，以及边缘群体的反霸权解构。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将霸权理论拓展至[[Man-Computer Symbiosis|人机共生]]时代的[[Epistemology|认识论]]批判，揭示大模型语料偏倚与高校平台捆绑如何隐蔽再生产主导阶层文化霸权，倡导捍卫认识多样性与分布式责任。

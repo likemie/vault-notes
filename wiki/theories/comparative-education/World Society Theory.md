@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # World Society Theory
@@ -115,9 +115,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -191,9 +189,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国政策文本的表层扩散、国际组织推动的标准化多边协议、国家学制形式指标的同质化进程、现代大学组织使命声明的趋同。
 > - **成立条件** 处于开放且积极寻求融入国际体系的制度环境；跨国知识网络与多边组织保持畅通的政策沟通渠道。
 > - **解释不足** 
@@ -247,9 +243,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。

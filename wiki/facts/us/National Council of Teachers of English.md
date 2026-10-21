@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-26
+updated: 2026-10-22
 ---
 
 # National Council of Teachers of English
@@ -140,9 +140,7 @@ updated: 2026-09-26
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

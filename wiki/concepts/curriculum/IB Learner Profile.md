@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # IB Learner Profile
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 学习者特征（Learner Profile） | 传统学术目标 |
 > |------|--------|----------------|
 > | 分析对象 | 学生的性格特质、态度、价值观与思维习惯 | 学生的学科知识掌握程度与特定技能水平 |
@@ -156,8 +154,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 探讨了 IB Learner Profile 中的具体特质（如探究、反思）在实现核心组件（Core）连贯性和[[Concurrency of Learning\|并发学习]]过程中的核心黏合剂作用。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 证实了[[Theory of Knowledge\|知识论]]（TOK）课程能够极大地激活学生的“反思”与“胸襟开阔”特质，并揭示了教师在示范这些特质时，其自身的教学哲学也会发生深层转变。

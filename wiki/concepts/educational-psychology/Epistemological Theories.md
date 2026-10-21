@@ -33,14 +33,12 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemological Theories
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology\|认识论]]理论（epistemological theories）指个体对“什么是知识（知识的本质）”以及“如何认知（认知的过程）”所持有的朴素信念系统。与早期主张各信念维度完全独立的模型不同，该[[Construct\|构念]]强调这些信念不是零散的事实集合，而是在结构上具有高度内部关联与解释力的连贯“理论”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 117-118)]]
@@ -52,9 +50,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 年 — 独立维度假说** Schommer 提出[[Epistemological Beliefs\|认识论信念]]是由多个相对独立、互不干扰的维度构成的连续体，打破了早期的单向发展阶段论。
 > - **1997 年 — 理论连贯性重构** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在批判 Schommer 模型的基础上，一方面剔除了“固定智力”、“快速学习”等非[[Epistemology\|认识论]]维度，提炼出四大核心共识维度；另一方面，引入了心理学中“个人理论”的视角，主张这些认识论维度并非相互独立，而是连贯互构的，从而正式提出了“认识论理论（epistemological theories）”[[Construct\|构念]]。
 

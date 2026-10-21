@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Deductible Gift Recipient
@@ -137,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1997 — 澳大利亚税法整合与 DGR 框架确立** 《1997年所得税评估法》（ITAA 1997）第 30 条系统确立 DGR 分类体系，将受赠机构严格划分为第一类（直接运营者）与第二类（辅助基金）。
 > - **2001 — 私人辅助基金（PAFs）制度创生** 联邦政府创设 PAFs 机制，允许富裕家族与跨国企业设立免税基金池，催生了巨额沉淀资金寻找 DGR1 承接载体的迫切需求。
 > - **2011 — Gonski 审查提议公立学校引入民间慈善捐款** [[David Gonski\|戴维·冈斯基]]领衔的首期资助审查报告正式建议联邦政府为公立学校设立免税募款通道。
@@ -173,8 +171,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统追踪全澳公立学校首个 DGR1 资质的立法确立过程，揭示其作为税收特许管道重塑公共财政再分配的运作机理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体理论，分析 DGR1 与公司法注册等耐用材料在教育政策跨国流动中的装配效应。

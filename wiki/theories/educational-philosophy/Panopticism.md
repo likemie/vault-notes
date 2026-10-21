@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Panopticism
@@ -153,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 具有[[Bureaucracy|层级科层制]]特征的学校组织、集权式数字教学平台与标准化问责体系中的监视与规训机制。
 > - **成立条件** 存在中心化或集约化的视线汇聚机制（如管理层巡查、统一数据后台），以及对规范违背的潜在问责风险。
 > - **解释不足** 无法完全解释去中心化自组织学习、开源学术共同体或扁平化网络教学中的协作互动机制。
@@ -181,9 +179,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 基于福柯权力理论解构可见学习的双向可见性隐喻，揭示“通过学生眼睛看教学、学生成为自身教师”如何将传统行政统治转化为内化自我监控的微观全景规训。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学解构视觉霸权构建的全景监控生态及其诱发的[[Ontology|本体论]]不安全。

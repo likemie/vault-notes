@@ -38,14 +38,12 @@ related_arguments:
   - "[[Argument_Wu_2025_ER]]"
 status: active
 created: 2026-08-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Justification for Knowing
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知的辩护（justification for knowing）是构成[[Epistemological Theories\|认识论理论]]的核心维度之一（属于“认知的本质”范畴）。它反映了个体为知识主张提供合理性证明的机制，即个体在面对冲突或[[Wicked Problem|劣构问题]]时，如何评估知识主张、如何运用证据，以及如何评价专家权威，从而为自身的信念进行概率性的论证。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
@@ -90,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > 相较于其他三个维度，该维度主要由较晚期、更侧重[[Higher-Order Thinking Skills\|高阶认知技能]]的模型所确立。
 > - **1991 年 — 论辩中的专长审视** Kuhn (1991) 提出了[[Argumentative Reasoning\|论辩推理]]模型，指出[[Evaluativist\|评价论者]]（evaluatists）超越了绝对论的盲从和多元论的虚无，能够基于相对优劣来评估专家的专长和不同的知识主张。
 > - **1994 年 — [[Wicked Problem|劣构问题]]的反思判断** King and Kitchener (1994) 在研究[[Reflexivity\|反思性]]判断（[[Reflective Judgment Model\|Reflective Judgment]]）时，明确将个体“如何为劣构问题提供辩护”作为核心。高阶认知者能结合多种视角，运用批判性质询进行概率性辩护。
@@ -101,8 +97,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — [[Epistemological Theories\|认识论理论]]四维度奠基性重构，系统确立认知的辩护维度。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 揭示生成式 AI 交互中知识辩护方式对[[Epistemic Stances\|认识立场]]与人机共享[[Epistemic Agency\|认识能动性]]的调节作用。

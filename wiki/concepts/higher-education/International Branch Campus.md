@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # International Branch Campus
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（国际分校） | 境外教学中心（Study Center） | [[International Education Hubs\|国际教育枢纽]] |
 > |---|---|---|---|
 > | **实体资产规模** | 拥有独立土地、图书馆、实验室与学生宿舍 | 租用写字楼或东道国合作高校部分教室 | 由东道国政府统一规划建设的大型多高校聚集区 |
@@ -139,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990年代 — 西方高校首轮扩张** 美英澳等传统高教强国高校开始在中东海湾国家（如卡塔尔教育城、阿联酋迪拜知识园）及东南亚建立分校，以学费创收与品牌输出为主导。
 > - **2000年代 — 亚洲枢纽模式兴起** 新加坡、马来西亚与中国香港通过政策优惠积极引入欧美名校建立分校，打造区域性[[International Education Hubs|国际教育枢纽]]。
 > - **2010年代 — 中国高教自主出海** 伴随“[[Belt and Road Initiative|一带一路]]”倡议提出，厦门大学马来西亚分校（2016年开学）、云南财经大学曼谷商学院相继设立，开启中国大学海外办学实体化探索。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
@@ -168,7 +164,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合厦门大学马来西亚分校与[[Fudan University Budapest Campus|复旦大学布达佩斯分校]]建设案例，系统论证海外独立校区在承担大国[[Soft Power|软实力]]投射与面对在地政治草根抵制时的复杂张力。

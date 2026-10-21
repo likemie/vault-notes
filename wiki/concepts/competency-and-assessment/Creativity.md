@@ -123,7 +123,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Creativity
@@ -165,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 创造力（Creativity） | 智力（Intelligence） | 创新（Innovation） | [[Divergent Thinking\|发散思维]]（Divergent Thinking） |
 > |------|-------------------|-------------------|-------------------|-----------------------------|
 > | **核心特征** | 新颖性与适切性；打破常规[[Paradigm\|范式]] | 适应环境、逻辑推理、抽象思维与知识习得能力 | 构想的实施、推广、市场化与组织变革 | 观念生成的流畅性、灵活性与独创性 |
@@ -323,9 +321,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950 年代 天才与智力脱钩** Guilford 在 APA 主席演讲中呼吁重视创造力研究，打破创造力等同于高智商的传统观点。
 > - **1960–1970 年代 4P 框架确立** Rhodes 提出创造者、创造过程、创造产品与创造环境四要素模型，奠定跨学科研究骨架。
 > - **1980–1990 年代 系统论与日常创造力转向** Csikszentmihalyi 提出领域-[[Champ|场域]]系统模型，Runco & Richards 倡导日常创造力与潜能观。
@@ -453,9 +449,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]确立创造力作为[[Independent Variable|预测变量]]（$r = 0.29$）与[[Dependent Variable|结果变量]]（$r = 0.12$）的基准效应及教育干预效能。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Three-Level Meta-Analysis|多层元分析]]证实训练对大学生创造力产生中等显著促进（$g = 0.628$），揭示中短期干预窗口与言语认知优势。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — 二阶[[Meta-analysis|元分析]]确立[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先赋能效应（$ES = 0.76$）。

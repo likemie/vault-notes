@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在后发成员国亲欧修辞对标下掩盖主权防御与学术近亲繁殖。"
 type: concept
 domain: "comparative-education"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -25,10 +25,10 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Open Method of Coordination]]"
   - "[[Employability]]"
-  - "[[Social Imaginary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Lifelong Learning]]"
   - "[[Performance Indicators]]"
+  - "[[Governing by Numbers]]"
   - "[[State Educational Sovereignty]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Avatar]]"
@@ -42,9 +42,9 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Critical Pedagogy]]"
+  - "[[Social Imaginary]]"
   - "[[Variable]]"
 related_theories:
-  - "[[Governing at a Distance]]"
   - "[[Governmentality]]"
   - "[[Spatial Governmentality]]"
   - "[[Post-structuralism]]"
@@ -55,24 +55,25 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[António Nóvoa]]"
   - "[[José Luis García Garrido]]"
+  - "[[António Nóvoa]]"
 related_facts:
   - "[[EU]]"
   - "[[OECD]]"
+  - "[[Bologna Process]]"
   - "[[PISA]]"
   - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
-  - "[[Bologna Process]]"
   - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # European Education Space
@@ -104,8 +105,6 @@ updated: 2026-10-21
 > - **不等于单一主权国家的教育政策同质化** 欧洲教育空间保留成员国自身的历史制度特色，通过建立可比较的[[Performance Indicators|绩效指标]]与资格框架，在多元一体的表象下实现协调与控制。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析
 > | 维度 | 欧洲教育空间（EES） | [[Bologna Process\|欧洲高等教育区（EHEA）]] | [[Governing by Numbers\|全球教育治理场域]] |
@@ -195,9 +194,7 @@ graph TD
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 年代初 — 政策萌芽与条约确立** 1992 年《马斯特里赫特条约》（第 126 条）明确[[EU|欧盟]]在尊重成员国文化和语言多样性的前提下促进教育合作，[[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]相继铺开。
 > - **2000 年 — [[Lisbon Strategy|里斯本战略]]与开放协调机制** 欧盟提出建立全球最具[[Competitiveness|竞争力]]的[[Knowledge-Based Economy|知识经济]]体，正式确立以基准比对、量化指标和同伴学习为核心的开放协调机制（[[Open Method of Coordination|OMC]]），欧洲教育空间开始获得实操抓手。
 > - **2002 年 — 比较教育学批判解构** [[António Nóvoa]] 与 Martin Lawn 出版《制造欧洲教育空间》（*Fabricating Europe: The Formation of an Education Space*），将该空间定性为通过数据与流动性进行主体塑造的[[Post-structuralism|后结构主义]]治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
@@ -235,8 +232,6 @@ graph TD
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, p. 32)]] | 欧盟委员会教育文化总司对 OECD PISA 调查的数据利用与经费支持 | 跨国治理机构政策档案与深度关键知情人访谈 | 欧盟里斯本战略教育指标对 OECD 数据的依赖率；调查成本资助比例 | 欧盟里斯本战略教育指标报告中 50%–60% 的数据直接来自经合组织（UOE 数据占 60%）；欧盟委员会承担各成员国参与调查费用的 80% | — | 实证揭示欧洲教育空间的数据基础设施在很大程度上是由欧盟财政直接向经合组织采购与共同支撑的共生结构 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合对芬兰、德国与英国的案例比较及欧盟官员访谈，揭示经合组织与欧盟委员会如何通过数据基础设施与财政资助共谋建构欧洲教育空间。

@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rapport in Qualitative Research
@@ -48,9 +48,7 @@ updated: 2026-10-21
 >
 > *Rapport is a problematic concept in discussing relationships, as it is not a unitary concept concerning its amount or degree (indeed one may have too much or too little of it), but its nature and kind changes over time, as people and events evolve. Rapport and relationships influence the data collection, sampling and research design.*
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **信任** 参与者相信研究者不会伤害他们、不会滥用信息、会尊重其隐私和匿名权。是融洽关系的基石。
 > - **同理心与接纳** 研究者展示对参与者处境、情感和视角的理解，避免评判性态度。De Laine（2000, p. 41）强调展示兴趣、保证保密（在适当处）和不评判。
 > - **时间投入** 融洽关系是过程性的——Walford（2001, p. 62）报告了从新人→临时接纳→类别接纳→个人接纳→即将迁移者的五阶段演变。
@@ -62,7 +60,5 @@ updated: 2026-10-21
 
 在纵向[[Qualitative Research|质性研究]]中，维持融洽关系的挑战更大，回报也更高。Thomson and Holland（2003, p. 235）报告维持长期积极关系对降低参与者流失率有显著贡献。Gordon and Lahelma（2003, p. 246）在研究青少年向成年过渡的过程中发现，维持融洽关系是纵向[[Ethnography|民族志研究]]的关键因素。融洽关系不仅体现在言语沟通的敏感处理中，也体现在对非言语沟通的关注中（p. 248）。
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 在[[Qualitative Research\|质性研究]]12阶段模型的第7阶段（发展和维持现场关系）中详细讨论了融洽关系的定义、要素和难度，以及其在[[Longitudinal Study\|纵向研究]]中的特殊作用（pp. 428–430）。

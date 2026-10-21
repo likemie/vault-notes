@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Entrepreneur in Residence
@@ -43,9 +43,7 @@ updated: 2026-10-15
 
 ---
 
-## 两种模式
-
-> [!abstract|notitle]
+> [!abstract] 两种模式
 > [[Education Innovation and Research\|EIR]] 制度有两种典型模式（pp.147-148）：
 
 > **全职 EIR** 一名高管同时服务 5-10 家衍生企业，全职投入。适合衍生企业数量多、需要持续深度支持的大学。

@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Exame Nacional de Desempenho dos Estudantes
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 成为全球范围内极少数能够持续多年实施国家级大学毕业学业成果统考的制度标杆。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 > - **实践影响** 推动了巴西各高校课程大纲对齐国家专业评估指导方针，强化了对本科生批判反思与实践[[Problem Solving\|问题解决能力]]的培养。
 > - **知识影响** 为国际高教界研究大规模终结性统考对院校教学质量的激励与规约效应提供了宝贵的实证样本。

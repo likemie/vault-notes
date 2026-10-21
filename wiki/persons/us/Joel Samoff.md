@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Joel Samoff
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1943** 出生于美国。早年在威斯康星大学[[James Madison|麦迪逊]]分校攻读政治学，专注于坦桑尼亚与撒哈拉以南非洲的地方政治与去殖民化进程。
 > - **1970s–1980s** 长期在坦桑尼亚开展扎根[[Fieldwork|田野研究]]，先后任教于密歇根大学政治学系与斯坦福大学国际比较教育中心；深入反思非洲后独立时期的国家建设与教育扩张困局。
 > - **1990** 与[[Martin Carnoy|马丁·卡诺伊]]合作出版《第三世界的教育与社会转型》（*Education and Social Transition in the Third World*），系统分析莫桑比克、坦桑尼亚等国在革命与危机中的教育结构重塑。
@@ -144,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** [[Martin Carnoy]] — 斯坦福大学长期同事与重要学术同盟，合著《第三世界的教育与社会转型》（1990）。
 > - **理论同盟** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在宏观国家理论与外围教育依附研究中深度吸收萨莫夫的[[Financial-Intellectual Complex|金融-智识复合体]]模型。
 > - **批判对象** [[World Bank|世界银行]]管理层与新古典受雇专家群 — 系统解剖其如何利用定向资助和狭隘实证指标垄断[[Development Education|发展中国家教育]]政策议程。
@@ -166,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

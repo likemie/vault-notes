@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reflective Structuration
@@ -186,9 +186,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1984 — 结构化理论社会学奠基** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）提出结构的二重性（Duality of Structure），论证社会结构既是人类行动的中介又是其结果。
 > - **2005–2006 — [[Emergence|涌现性]]与[[Creativity|创造力]]研究** 基思·索耶（R. Keith Sawyer）等学者将突现论与即兴协作引入学习科学，强调自组织群体的非线性创造过程。
 > - **2018–2021 — [[Knowledge Building Theory|知识建构]]中的共同结构化初探** 陶丹（Dan Tao）与[[Jianwei Zhang|张建伟]]（Jianwei Zhang）在小学科学课堂中探索师生共同构建大问题图表与[[Inquiry Cycle|探究循环]]的实践模式。
@@ -239,7 +237,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 里程碑实证论文，系统提出[[Reflexivity|反思性]]结构化理论，通过长周期[[Interactional Ethnography|互动民族志]]揭示五年级学生如何共同构建探究方向与弹性小组。

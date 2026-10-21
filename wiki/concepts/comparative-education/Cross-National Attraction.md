@@ -41,12 +41,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 跨国吸引力（Cross-National Attraction）是 Phillips & Ochs [[Policy Borrowing\|政策借用]]四阶段模型中的第一阶段，指一国的教育政策、实践或[[Discourse|话语]]引起他国关注并被认为具有参照价值的过程。它启动整个政策借用循环，是教育转移的初始动力来源。
 >
 > [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] 进一步将此概念理论化，指出"跨国吸引力"一词内在地将单一民族国家视为行动者，但现实中吸引力由多元行动者——民选官员、[[Policy Entrepreneur\|政策企业家]]、智库、媒体、超国家组织等——在具体教育改革辩论中生产和调动，而非由抽象的"国家"整体产生。([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 229]])
@@ -135,21 +133,15 @@ updated: 2026-10-21
 > 3. **警示（Caution）** — 用外国范例警告不要进行某种改革。例：Phillips (1987) 用德国中学体系的教训警示英国不要过度借鉴
 > 4. **颂扬（Glorify）** — 通过与其他国家的比较来颂扬本国的现行教育。例：抵制改革者通过颂扬本国教育传统来证明"不需要改变"
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - **vs [[Policy Borrowing]]** — 跨国吸引力是政策借用的前置阶段（第一阶段），聚焦"为什么某国教育引起关注"和"谁在如何使用外国范例"；政策借用则涵盖从吸引到实施的全过程
 > - **vs [[Externalization]]** — 外化是跨国吸引力中改革／抵制行动者使用的核心[[Discourse|话语]]机制：行动者通过将国内问题（或解决方案）投射到国际参照系中来包装其改革（或抵制）主张
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - [[Policy Borrowing]] — 跨国吸引力是该理论框架的第一阶段
 > - [[Externalization]] — 外化是连接结构推力和改革行动者的[[Discourse|话语]]机制
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > - **美国 1980 年代对日本教育的吸引力：** Rappleye 以[[Concept Mapping\|概念地图]]分析发现，改革方引用的日本范例远多于抵制方；高影响力行动者（白宫、教育部）使用极端修辞（《[[A Nation at Risk 1983\|国家在危机中]]》的丑闻化策略）推动改革；抵制方缺乏有力的对立论述（p. 234–235）
 > - **中国晚清对日本教育的吸引力：** 改革派（主张西学）和保守派（维护儒家秩序）出于完全不同的理由都视日本教育为好模型——改革派看到日本的现代化成功，保守派看到日本对儒家传统的保存——这种"不可能联盟"使吸引力转化为大规模借用（p. 233–234）
 > - **德国对综合学校的抵制：** Gymnasium and Realschule 的声望构成"内部满意"的结构性阻力，而独特教育传统的"神话"为抵制行动者提供[[Discourse|话语]]武器（p. 231–232）
@@ -158,9 +150,7 @@ updated: 2026-10-21
 > - [[American Attraction to Japanese Education 1980s]]
 > - [[Late Qing Borrowing of Japanese Education]]
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - Rappleye 承认"吸引力仅为教育改革辩论中的战术动作"这一观念可能引发异议——大多数行动者（除民选政治家外）可能并不以如此策略性方式思考。但他论证，无论行动者是否有意识地自我定位，以这种方式概念化吸引力仍有助于分析。([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 238]])
 > - 地图的视觉复杂性可能令人生畏，但其实用性需由其他研究者在不同情境中检验（p. 228）
 

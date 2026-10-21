@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Connectivism
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -132,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 在线协作学习、开放式探究课程、生成式 AI 辅助研究、跨学科综合与数字素养培育。
 > - **谨慎使用** 早期基础符号习得（如初阶识字、基础算术规则内化），此类知识高度依赖内部[[Working Memory\|工作记忆]]的图式自动化。
 > - **不适合解释** 纯内部主观感知体验、潜意识情绪加工或孤立无技术的封闭心理测试。
@@ -142,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **2005 年 理论发轫** George Siemens 发表 *Connectivism: A Learning Theory for the Digital Age*，正式确立理论基石。
 > - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义大规模开放在线课程（CCK08），验证网络化自主协同学习。
 > - **2010 年代 [[Learning Analytics\|学习分析学]]整合** 理论与复杂网络科学、学习分析学（Learning Analytics）深度融合。
@@ -167,7 +161,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 运用连通主义视角将 ChatGPT 概念化为分布式学习网络中的交互式认知中继，分析其在多源信息模式检测与跨情境综合中的赋能效能与局限。

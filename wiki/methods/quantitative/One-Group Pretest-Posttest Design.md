@@ -30,7 +30,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # One-Group Pretest-Posttest Design
 
@@ -77,17 +77,13 @@ updated: 2026-10-20
 > - **谨慎使用** 需要任何[[Causality\|因果推断]]时——该设计几乎无法排除任何替代解释。
 > - **不适合使用** 需要做出因果推断时——使用[[Pretest-Posttest Control Group Design\|前后测控制组设计]]或至少[[Quasi-Experimental Designs\|准实验设计]]。
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **无控制组** 无法区分干预效果与自然成熟或历史事件的影响——前[[Pre-test and Post-test\|后测]]差异可能完全来自外部因素。
 > - **无[[Random Assignment\|随机分配]]** 无法排除选择偏差——单组本身可能具有特定特征使其对干预异常敏感（或不敏感）。
 > - **多重混淆无法分离** 成熟、历史、测验效应、工具变化、回归均值——所有这些威胁同时存在且无法分离。
 > - **[[Causality\|因果推断]]几乎不可能** Campbell and Stanley (1963) 将其描述为展示混淆[[Variable\|变量]]的"坏例子"——该设计只能产生假设，不能检验假设。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Pre-Experimental Designs]] | 方法 | 所属类别——单组前[[Pre-test and Post-test\|后测]]是前实验设计的典型形式 |

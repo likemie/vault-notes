@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Lucian Freud
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1922** 出生于德国柏林的一个犹太精英家庭，为奥地利精神分析学家[[Sigmund Freud|西格蒙德·弗洛伊德]]之孙。
 > - **1933** 为躲避纳粹政权迫害随全家移居英国，后加入英国国籍。
 > - **1939–1943** 就读于东安格利亚绘画与设计学校以及伦敦大学金匠学院，结识[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）并结下深厚艺术交谊。
@@ -122,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **祖父 / 心理学先驱** [[Sigmund Freud]] — 西格蒙德·弗洛伊德的精神分析与自我拷问传统在孙辈的冷峻画笔中转化为对肉身与心理真相的无情解剖。
 > - **同行 / 艺术盟友** [[Francis Bacon]] — 20世纪伦敦画派双雄，共同在抽象浪潮中捍卫具象艺术的激进表现力。
 > - **思想阐释者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 将其客观凝视与[[Epoché|悬置]]评判提炼为[[Technological Republic|技术共和国]]工程[[Epistemology|认识论]]的哲理镜鉴。
@@ -146,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

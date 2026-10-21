@@ -48,34 +48,26 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2014
 doi: ""
 citation_aliases:
   - "Gorur, 2014"
   - "Gorur (2014)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > [[OECD]] 的[[International Education\|国际教育]]指标如何在几十年间从"几乎不可能"的项目转变为常规化、年度性的出版物 *[[Education at a Glance]]*（[[Education at a Glance\|EAG]]），其过程中涉及怎样的实践、妥协和权力转移？(p.4)
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - **[[Science and Technology Studies]]** — 以 Latour 的"科学在行动"为方法论指南，将指标开发视为"正在制造中的科学"(p.6)
 > - **[[Sociology of Measurement]]**（Woolgar） — 分析测量的工具主义（instrumentalism：事物如何在实用意义上被"弄到运作"）和施行性（[[Performativity]]：测量如何制造世界）(p.6–7)
 > - **共同生产（[[Knowledge Co-production\|co-production]]）(Jasanoff, 2004)** — 科学与治理相互构成的[[Analytic Framework\|分析框架]]
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - **方法** 追踪"科学在行动"的实践(Latour, 1987, 1999)；文献档案分析
 > - **数据来源**[[Norberto Bottani]] 的出版物（1992–2008，涵盖从乐观到幻灭的全程）；Claude Sauvageot 的 [[UNESCO]] 和 [[OECD]] 出版物（1997, 2008）；John Smyth（UNESCO 1972–2000）和 Stephen Heyneman（World Bank 1977–1998）的 ISCED 相关著作；一位 OECD 官员的访谈记录(p.5)
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 1. **前提/观察**[[OECD]] 的[[International Education\|国际教育]]指标（[[Education at a Glance\|EAG]]）已成为全球教育治理中极具影响力的工具，但其早期被认为几乎不可行——缺乏数据、缺乏可比性、缺乏概念共识(p.4, 8)
 >
 > 2. **论证步骤**
@@ -90,9 +82,7 @@ citation_aliases:
 >
 > 3. **结论** 测量不是描述性的而是生产性的（世界制造过程）。对测量的批判不仅应指出其简化论或不准确性（这种批判仍属再现论框架），而应理解其 instrumentalism（提供干预的潜在切入点）和 world-making 功能（提供承担此类研究的道德和伦理动力）。在测量深度影响政策的时代，"批判作为一种道德事业"（critique as a moral enterprise）是必要的(p.18–19)
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - [[International Indicators of Education Systems\|INES]] 采用"灵活的组织框架"，以概念和实用为基础并纳入政策关切(Bottani, 1994, p.335; p.12)
 > - [[Education at a Glance\|EAG]] 从 1992 年的 150 页增长至约 550 页(p.14)
 > - [[Performance Indicators\|绩效指标]]从 EAG 最后一节(1990s)移至第一节（2002–），反映了关注焦点的根本转变(p.13–14)
@@ -100,9 +90,7 @@ citation_aliases:
 > - 指标一旦制度化就极难删除——即使 [[OECD]] 团队想删除，用户抵制（"有人称它为圣经"）（OECD 官员访谈, p.17）
 > - EAG 团队承认必须对媒体说"不正确的简化"，因为复杂真相无法被传播（OECD 官员访谈, p.15）
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “经合组织（OECD）常规地、每年地发布如此一系列指标时所表现出的那种漫不经心和自信……掩盖了这些[[International Education\|国际教育]]指标在开发过程中所经历的数十年的犹豫、实验、协商和努力。”
 > ("the insouciance and confidence with which the OECD routinely, annually, produces such a range of indicators … belies the decades of hesitation, experimentation, negotiation and effort that went into the development of these [[International Education]] indicators")(p.4)
 >
@@ -115,9 +103,7 @@ citation_aliases:
 > > “没有任何认知途径能让其观察、测量、分析、比较、破译的对象完全不受影响。科学与技术之间、认知现实与其修改之间，不存在清晰的本体论界限。”
 > ("no cognitive approach leaves the subject of its observation, measurement, analysis, comparison, deciphering, completely unscathed. There is no clear ontological divide between science and techniques, between cognitive reality and its modification.")(Bottani, 2008, p.22; p.18)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > ### 论文自身承认的局限(p.5)
 > - 论文的叙事是"拼凑物"（[[Assemblage]]），主要依赖于 Bottani 的出版物——这意味着 story 经过了 Bottani 视角的过滤
 > - 原始数据来源有限：主要依赖已出版物和一次 [[OECD]] 官员访谈

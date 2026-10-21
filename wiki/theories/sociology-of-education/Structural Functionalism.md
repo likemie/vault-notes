@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Structural Functionalism
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -143,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 政治体制与经济环境相对稳定、社会内部享有基本制度共识的常态社会发展情境；适合宏观人力规划、教育规模适应性分析与制度化分流机制研究。
 > - **成立条件** 假定劳动力市场存在客观评价标准且行政系统具备理性纠偏能力。
 > - **解释不足** 具有保守主义倾向，难以解释由深刻阶级对立、种族歧视、殖民掠夺引发的剧烈社会冲突与革命性变革；将社会秩序视为理所当然，忽视了秩序背后的权力压迫与意识形态霸权。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–154)]]
@@ -175,7 +171,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 146–147)]] — 详细考证结构功能主义在二战后欧美比较教育中的[[Paradigm|范式]]确立，提炼其五大核心公理并剖析其与[[Human Capital Theory|人力资本理论]]的合流过程。

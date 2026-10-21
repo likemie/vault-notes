@@ -8,7 +8,7 @@ aliases:
 summary: "以硬事实施展软权力由 Dennis Niemann、Kerstin Martens 与 Christian Ydesen 等提出，指涉国际组织在缺乏法定强制制裁权的前提下，通过生产标准化、可量化与可比较的硬性实证数据（如 PISA、教育指标、投资回报率），赋予政策倡议以客观科学表象并实施远处治理与绩效问责的核心规制机制。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -56,10 +56,12 @@ related_facts:
   - "[[World Development Indicators]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Soft Power by Hard Facts
@@ -165,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000 年代初 — [[PISA]] 冲击与认知软治理萌芽** 伴随[[OECD\|经合组织]] PISA 2000 年首轮测验引发德国等国“PISA 冲击”，比较学者开始关注无直接行政权的跨国机构如何通过数据与基准塑造国家教育政策议程（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）。
 > - **2018 — Niemann & Martens 正式提出“以硬事实施展[[Soft Power\|软权力]]”** 明确界定国际组织通过制造可量化、可比较与标准化的“硬事实”，将[[Epistemology\|认识论]]与方法论权威转化为政治规制力的[[Construct\|理论构念]]。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 269)]]
 > - **2019 — Ydesen 提出“[[Global Education Governing Complex\|全球教育治理复合体]]”** 将概念由单一国际组织扩展至涵盖多边机构、私人慈善基金会与跨国商业资本的混合治理网络。
@@ -207,14 +207,12 @@ updated: 2026-10-21
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 547–548)]] | 挪威教育部能力改革政策咨询网络（5 个专家委员会与最终行政法令） | 政策文献计量与引文网络追踪 | 咨询报告与行政法令中的外部参考文献分布及机构来源 | 咨询报告共引用 464 篇文献；最终行政法令仅引用 22 篇（引文损耗率 >95%）；仅存的 22 篇引文中 20 篇（90.9%）全部来自审议 [[OECD]] [[Definition and Selection of Competencies\|DeSeCo]] 的委员会 | — | 实证证实了 OECD 硬事实在行政出台阶段的垄断性权威，同时揭示了主权国家对外部学术文献的大规模政治清洗 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 548)]] | 世界银行 60 年[[Return on Investment|教育投资回报率]]实证研究与世界发展指标库 | 文献综合与指标库历史追踪 | 回报率估算覆盖面与[[Performance Indicators|教育指标]]数量 | 回报率数据库覆盖 139 个国家、1,120 项估算；[[World Development Indicators|世界发展指标库]]中的教育指标从 1989 年 116 项激增至 2018 年 1,600 项 | — | 证实[[World Bank|世行]]依托超大规模实证数据库构建起自指性最佳实践仓库，以此向借贷国施加贷款附加条件 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 548)]] | 世界银行 60 年[[Return on Investment\|教育投资回报率]]实证研究与世界发展指标库 | 文献综合与指标库历史追踪 | 回报率估算覆盖面与[[Performance Indicators\|教育指标]]数量 | 回报率数据库覆盖 139 个国家、1,120 项估算；[[World Development Indicators\|世界发展指标库]]中的教育指标从 1989 年 116 项激增至 2018 年 1,600 项 | — | 证实[[World Bank\|世行]]依托超大规模实证数据库构建起自指性最佳实践仓库，以此向借贷国施加贷款附加条件 |
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018, pp. 272, 275, 278)]] | 全球 495 个国际组织与 80 余个 PISA 参与经济体 | 跨国组织数据库分析与多国案例追踪 | 涉教育国际组织占比；PISA 驱动国内改革比例；国际参与规模扩张 | 战争关联（Correlates of War）数据库中 495 个国际组织有 20 个（4.0%）深度介入教育；约 50% 的 PISA 参与国在测验后直接启动国内教育改革；PISA 参与国从 2000 年 32 个增至约 80 个 | — | 证实国际组织在无强制法权下凭借硬事实测评对全球半数参与国教育决策产生了直接重构效应 |
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统阐明以硬事实施展软权力的理论机制，揭示经合组织如何通过 PISA 测评与观念中介重塑成员国内部教育政策议程。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 议程，系统阐发五大国际组织如何将可量化、可比较知识武器化，以硬事实施展[[Soft Power|软权力]]以维持自身政策利基。
 

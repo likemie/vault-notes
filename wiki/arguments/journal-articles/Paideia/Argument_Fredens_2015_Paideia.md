@@ -43,26 +43,20 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2015
 doi: ""
 citation_aliases:
   - "Fredens, 2015"
   - "Fredens (2015)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 书评评述 Hattie & Yates 合著 *Synlig læring og læringens anatomi*(Dafolo, 2014,即 *[[Visible Learning]] and the Science of How We Learn* 的丹麦语译本)，评估该书对丹麦教育实践的贡献与局限。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — 书评以 VL 框架本身为评述对象，以欣赏但补充批评的立场呈现
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 书评以横跨书中章节的方式组织，提炼并评论九个贯穿全书的学习原则，同时补充来自脑科学和教育哲学的批评性视角。
 >
 > ### 九条学习原则
@@ -91,9 +85,7 @@ citation_aliases:
 >
 > Fredens 以"翻译研究"（[[Translational Research]]）概念描述将研究发现引入课堂的挑战：研究常由研究者写给研究者，Hattie & Yates 的贡献在于使研究发现可为教师和政策制定者所用。但下一步——将知识真正带入学校——仍有很长的路。芬兰教师教育将教育理论和研究方法作为培训的一部分，培养教师的建设性和批判性意识，使其免疫于可疑的"学习理论"(p.75)。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - 书评总体正面评价该书，称其"videnskabeligt funderet"（科学根基扎实），并以从实验室到课堂的可及性为最大优势(p.74–75)
 > - 指出书中九个原则被组织为三部分 31 章：课堂中的学习、学习的基础、认识你自己(p.71)
 > - 批评 recitationsmetoden（传统问答法）：学生学会说教师想听的话而非思考，发展出"说老师想听的，让聪明人解决其余"的生存策略
@@ -106,9 +98,7 @@ citation_aliases:
 > - **默认网络的功能** Hattie & Yates 强调注意力中断的缺点，但 Fredens 补充指出好处——当大脑"走神"时，前额叶关闭并转入默认网络（社会脑），在恢复的同时产生联想和创意发展。这种注意力"缺失"在[[Creativity\|创造性]]过程中至关重要(p.71–72)
 > - **认知负荷与不必要指导** Fredens 引 Hattie & Yates 警告——没有必要的指导和教学时，学生"交换无知并同时用不必要的信息填满头脑"，称此为"非生产性心理努力"（uproduktiv mental anstrengelse），认知术语为"认知负荷"（cognitive load）——[[Working Memory\|工作记忆]]被不必要信息填满的状态
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “简言之，我们需要澄清如何最好地学习。那么什么是学习？[[John Hattie\|约翰·哈蒂]]（John Hattie）和 Gregory Yates 对此有一个科学的答案。”
 > ("Der er kort sagt brug for en præcisering af, hvordan vi bedst lærer noget. Så hvad er læring? Det har [[John Hattie]] og Gregory Yates et videnskabeligt bud på.")(p.70)
 >
@@ -121,9 +111,7 @@ citation_aliases:
 > > “一种教育文化不应是被修理的，而应是被培养的；这需要教师与研究之间的伙伴关系。”
 > ("En uddannelseskultur skal ikke fikses, men kultiveres; det fordrer et partnerskab mellem lærer og forskning.")(p.75)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 书评未对 Hattie & Yates 的[[Meta-analysis\|元分析]]方法论进行系统性批判——这是其作为书评而非研究论文的性质所限
 > - 作为丹麦语出版物中的书评，其读者群主要限于北欧教育界
 > - 书评的补充性批评（默认网络功能、教师人格重要性）来自 Fredens 自身的脑科学和医学背景，非来自被评书籍

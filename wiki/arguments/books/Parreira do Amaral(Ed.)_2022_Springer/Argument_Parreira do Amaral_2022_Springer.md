@@ -73,7 +73,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -94,9 +94,7 @@ citation_aliases:
 编者以三个当代案例开篇——[[Minerva University]]、University Industry Interaction Network ([[University Industry Innovation Network|UIIN]]) 的 Thoughtbook 系列、以及大学图书馆向"makerspaces"的空间重构——以展示高等教育在想象、物质空间和主体性层面的多维度转变(Thompson &, pp.2–6)。
 
 
-## 全书结构
-
-> [!abstract|notitle]
+> [!abstract] 全书结构
 > 编者将 14 章组织为三部分，从宏观想象到制度互动再到主体性生产，逐层展开对[[Geopolitics of Knowledge\|知识地缘政治]]的考察(Thompson &, pp.12–13)：
 
 **Part I — Imaginaries, Spaces, Tensions（Ch 2–7）**
@@ -109,9 +107,7 @@ citation_aliases:
 关注被期望生产的主体原型——创新性、创业性、连接性——以及部署的治理技术。涵盖竞争性大学中的学生成功数字化管理、算法技术中被遗忘的 [[Bildung]] 维度、以及 21 世纪技能框架对知识和生产性自我的重新定义。
 
 
-## 理论框架
-
-> [!tip|notitle]
+> [!tip] 理论框架
 > - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics\|古典地缘政治]]（领土扩张、民族国家中心）转向[[New Geopolitics\|新地缘政治]]（[[Relational Space\|关系性空间]]构型、政治想象与全球连接性），整合后殖民／去殖民视角(Mignolo, 2002, 2009)
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的[[Discourse|话语]]建构
 - [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（[[EU]]、[[ASEAN]] 等）
@@ -119,9 +115,7 @@ citation_aliases:
 - [[Global Education Industry]] — Verger et al. (2016) 与 Parreira do Amaral et al. (2019) 的框架，涵盖经济化、商品化、私有化、数字化、市场化、标准化等全球教育变革维度
 
 
-## 各章概览
-
-> [!example|notitle]
+> [!example] 各章概览
 > - [[Argument_Moisio_2022_Springer]] — Ch2 [[Sami Moisio]]: [[Knowledge-Based Economization\|知识经济化]]在何种意义上具有[[Geopolitics|地缘政治]]维度，以 Harvey、Porter and Hub and [[Flow]] 想象为分析资源
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge]] — Ch3 [[Marcelo Parreira do Amaral]]: 提出新[[Geopolitics of Knowledge\|知识地缘政治]]概念，以[[Critical Geopolitics\|批判地缘政治学]]和后殖民去殖民两脉络综合为框架，分析[[Global Regionalisms\|全球区域主义]]和 [[Global Education Industry\|GEI]] 两大转型语境，展示 IEHs and Minerva 作为地缘政治案例
 > - [[Argument_Amos_2022_Springer]] — Ch4 S. Karin Amos: 以 Cowen 的 [[Transitology]] 和双轴模型为框架，对比[[Transhumanism\|超人类主义]]与[[Posthumanism\|后人类主义]]两种晚期现代性教育愿景，呼吁以 connectivity 和 [[Response-ability]] 为组织原则的新型公共教育理论

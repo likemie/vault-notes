@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Clinical Skills
@@ -86,7 +86,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]报告，PBL 对高等教育学生临床技能的效应（d = 1.06）为五类结果中最高，源于 PBL 对真实[[Problem Solving\|问题解决]]的聚焦；Wosinski et al. (2018) 亦报告 PBL 促进护理学生临床推理。

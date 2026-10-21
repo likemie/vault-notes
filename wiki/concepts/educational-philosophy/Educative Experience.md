@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Educative Experience（教育性经验）
@@ -65,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 教育性经验（Educative） | [[Mis-educative Experience\|反教育经验（Mis-educative）]] |
 > |------|-----------------------------------|--------------------------------------|
 > | **分析对象** | 促进持续[[Education as Growth\|生长]]的经验品质 | 阻碍或截断生长的经验品质 |
@@ -122,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1938 — 理论确立** [[John Dewey\|杜威]]在《经验与教育》中提出“教育性经验 vs [[Mis-educative Experience\|反教育经验]]”双重标准，回应对[[Progressive Education\|进步主义教育]]的误解。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 30)]]
 > - **2009 — 批判分析应用** Darwish 将教育性经验作为评估 IB [[Theory of Knowledge\|TOK]] 课程与[[Active Learning\|主动学习]]三环节模型的[[Epistemology\|认识论]]基准。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 30–32)]]
 
@@ -137,7 +133,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[John Dewey\|杜威]][[Philosophical Analysis in Education\|哲学分析]][[Active Learning\|主动学习]]、投石机探究案例与活体农场照顾中的教育性经验。

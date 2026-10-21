@@ -35,14 +35,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # New Sociology of Education
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > New Sociology of Education（NSE，新教育社会学）是 1970 年代英国教育社会学的一次问题转向：研究重心从教育机会的组织和分配，转向学校内部的知识、课程和课堂过程。它把“学校传递什么知识、谁的知识被合法化、课堂互动如何再生产阶级关系”作为教育不平等的核心问题([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-659]])。
 
 ## 核心问题
@@ -50,9 +48,7 @@ updated: 2026-10-21
 > [!abstract] 问题意识
 > NSE 的核心追问不是“哪些学生获得了哪些教育机会”，而是“工人阶级学生是在什么样的教育中失败”。这一问题把学校知识本身去自然化：课程、分类、课堂互动和教师判断不再被看作中性媒介，而被看作阶级不平等可能发生的机制([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-658]])。
 
-## 核心要素
-
-> [!abstract|notitle] 核心要素
+> [!abstract] 核心要素
 > - [[Knowledge Questions\|知识问题]]化：NSE 将学校知识从“应被传授的内容”转化为“需要被解释的社会事实”，追问其分类、合法性和阶级效果([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-659]])。
 > - 学校内部视角：学校不再只是机会分配制度中的一个环节，而成为新的社会学实验室；课堂、课程和教师实践进入持续的批判性研究目光([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-658]])。
 > - 理论混合性：NSE 不是单一理论，而是由[[Phenomenology\|现象学]]、互动论、知识社会学、不同版本的马克思主义和批判教育研究构成的松散组合，因此同时具有[[Creativity\|创造力]]和内部张力([[Argument_Ball_2008_SR\|Ball, 2008, pp.659-660]])。
@@ -85,8 +81,6 @@ updated: 2026-10-21
 > [!warning] Bernstein and NSE 的关系
 > 虽然 [[Basil Bernstein]] 在教育社会学中具有标志性地位，也推动了 Young 文集的出版，但他并非 NSE 的组成部分；他对 NSE 的许多构成要素持尖锐批评，尤其批评其薄弱的经验基础([[Argument_Ball_2008_SR\|Ball, 2008, p.661]])。
 
-## 相关案例／政策
-
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[Committee for the Accreditation of Teacher Education]] — 1984 年后将教师教育从学科基础转向课堂技能和能力训练，压缩了 NSE 依托教师教育课程传播的制度空间([[Argument_Ball_2008_SR\|Ball, 2008, p.659]])。
 

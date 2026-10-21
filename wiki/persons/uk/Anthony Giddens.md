@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Anthony Giddens
@@ -101,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1938** 出生于英国伦敦北部埃德蒙顿（Edmonton）。
 > - **1959–1961** 先后毕业于赫尔大学（获心理学与社会学联合学位）与伦敦政治经济学院（LSE，获社会学硕士学位）；随后进入莱斯特大学社会学系任教。
 > - **1970–1976** 任教于剑桥大学社会与政治科学委员会及国王学院；1975 年出版《[[Positivism|实证主义]]与社会学》，提炼实证主义社会学的方法论统一假定与产出同构假定；1976 年出版《社会学方法的新规则》，正式创立[[Double Hermeneutic|双重诠释学]]说。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 7, 18)]]
@@ -173,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **[[Epistemology|认识论]]对话者** [[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas） — 共同清算[[Positivism|实证主义]]霸权，哈贝马斯在《交往行动理论》中高度认同吉登斯对生活世界前诠释结构与[[Double Hermeneutic|双重诠释]]的阐发。
 > - **批判对象** [[Auguste Comte|奥古斯特·孔德]]（Auguste Comte） — 吉登斯深刻解剖了孔德开创的实证社会学在盲目照搬自然科学模式上的认识论教条。
 > - **人本与行动科学同盟** [[Rom Harré|罗姆·哈雷]]（Rom Harré） — 在 1970 年代共同批判[[Behaviorism|行为主义]]对人性的物化，强调人类作为具备规则意识与自我监控能力的能动主体。
@@ -199,9 +195,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

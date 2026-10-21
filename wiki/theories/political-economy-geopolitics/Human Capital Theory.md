@@ -7,9 +7,9 @@ aliases:
 summary: "将教育与技能投资视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论；二战后经舒尔茨与贝克尔奠定微观与宏观基础，在冷战地缘博弈中成为经合组织（OECD）推行人力规划与世界银行构建跨国放贷指标帝国的理论支柱；尼曼与马滕斯（2018）等实证揭示其在当代被转化为 PISA 量化硬事实以确立经合组织全球认知权威与软治理机制"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 91
-theory_related_level: 9
-theory_related_stars: "💎💎💎"
+theory_related_count: 78
+theory_related_level: 7
+theory_related_stars: "💎💎⭐"
 theory_related_color: "#fef3c7"
 tags:
   - economics-of-education
@@ -26,42 +26,36 @@ related_concepts:
   - "[[Developmentalism]]"
   - "[[Educational Level]]"
   - "[[Credential Inflation]]"
+  - "[[School Effectiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
-  - "[[School Effectiveness]]"
   - "[[Procedural Knowledge]]"
   - "[[Lifelong Learning]]"
-  - "[[Return on Investment]]"
   - "[[Competitiveness]]"
   - "[[Learning Crisis]]"
+  - "[[Return on Investment]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Policy Conditionalities]]"
+  - "[[Soft Power by Hard Facts]]"
+  - "[[Cognitive Authority]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Total Factor Productivity]]"
   - "[[Comprehensive Education]]"
-  - "[[Independent Variable]]"
-  - "[[Counterfactual]]"
   - "[[Learning by Doing]]"
   - "[[Cold War University]]"
-  - "[[Technology Transfer]]"
-  - "[[National Innovation System]]"
-  - "[[Refined Mastery]]"
-  - "[[Epistemic Stances]]"
-  - "[[Ontology]]"
-  - "[[Variable]]"
-  - "[[Epistemology]]"
-  - "[[Positivism]]"
-  - "[[Causality]]"
   - "[[Technical Rationality]]"
   - "[[Bildung]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Research Problem]]"
   - "[[Geisteswissenschaften]]"
   - "[[Historical Amnesia]]"
+  - "[[Independent Variable]]"
+  - "[[Epistemology]]"
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
   - "[[Workforce Development]]"
   - "[[Tacit Knowledge]]"
+  - "[[Refined Mastery]]"
   - "[[Public Value]]"
   - "[[Policy Borrowing]]"
   - "[[Nordic Model of Education]]"
@@ -69,17 +63,11 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Discourse]]"
   - "[[Effective Teaching]]"
-  - "[[Cognitive Authority]]"
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Soft Power]]"
 related_theories:
   - "[[New Growth Theory]]"
-  - "[[Hegemony]]"
-  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Manpower Requirements Approach]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
@@ -94,13 +82,12 @@ related_facts:
   - "[[OECD]]"
   - "[[1960 Bellagio Conference]]"
   - "[[Mediterranean Regional Project]]"
-  - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
-  - "[[Bell Labs]]"
   - "[[CHIPS and Science Act]]"
+  - "[[World Bank]]"
   - "[[MDRC]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
@@ -109,6 +96,7 @@ related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
@@ -116,11 +104,10 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Human Capital Theory
@@ -167,9 +154,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -282,9 +267,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 工业化扩张与经济转型期，技能劳动力供给对劳动生产率与早期经济起飞的推动；重大战略研发中高技术人才流动网络的产业催化作用；跨国组织利用指标对标施展软治理的政治机制。
 > - **成立条件** 假定劳动力市场具备竞争性且价格机制能有效反映真实技能边际生产率；需要完备的劳动力供求统计与追踪数据。
 > - **解释不足** 忽视劳动力市场结构性分割、阶级背景与社会资本对就业的隐性垄断；难以解释滞胀时期的文凭通胀与青年失业；将教育全盘还原为经济投资，剥离了公民素养、道德判断与文化批判等深层教化价值。
@@ -374,9 +357,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 考据战后第三代实证[[Scientism|科学主义]]运动中人力资本理论（Schultz, Harbison & Myers, Psacharopoulos）如何与方法论[[Empiricism|经验主义]]缝合，确立“教育-发展-现代化”工具性发展[[Paradigm|范式]]并受跨国权力机构支持的历史机制。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化规训压力。

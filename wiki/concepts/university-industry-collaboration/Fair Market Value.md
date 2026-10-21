@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Fair Market Value
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 国际贸易公平市场价值（Trade FMV） | [[University-Industry Collaboration\|产学合作]]公平市场价值（R&D/Clinical FMV） | 成本加成定价（Cost-Plus） | 总所有权成本（[[Cost of Ownership\|COO]]） |
 > |---|---|---|---|---|
 > | **分析对象** | 跨国出口产品（如半导体芯片）正常价值与反倾销价格底线 | 跨机构[[Clinical Trial\|临床试验]]与研发服务项公允单价 | 单一机构执行研发任务的直接账面支出与利润 | 制造装备全生命周期单位合格产出综合成本 |
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1980 年代 — 贸易反倾销与管理贸易价格管制工具** 美国在针对外国钢铁与日本半导体微电子的贸易诉讼中，将 FMV 确立为核定“低于生产成本销售”的法定基准，并在[[1986 U.S.-Japan Semiconductor Trade Agreement|1986年美日半导体贸易协定]]中作为强制性季度出口价格底线实施。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–126)]]
 > - **1990 年代 — 关税与贸易总协定／[[World Trade Organization|世界贸易组织]]多边规则规范** 乌拉圭回合谈判将反倾销中的正常价值（Normal Value）核算标准化，规范了计算推定价值时利润与管理费用的上限，约束单边滥用 FMV 价格底线的管理贸易手段。
 > - **2000 年代初 — 医药[[University-Industry Collaboration|产学合作]]与反回扣合规迁移** 随着美国司法部强化《联邦反回扣法案》（Anti-Kickback Statute）执法，医药与器械产业界将 FMV 原则全面引入[[Clinical Trial|临床试验]]资助，通过第三方谈判数据库建立标准公允报销标准。
@@ -205,9 +201,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

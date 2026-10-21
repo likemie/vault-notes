@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Self-Improving School System
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 自我改进学校系统（SISS） | 中央指令供给主导模式（新工党时期） | 自由放任市场竞争模式 |
 > |---|---|---|---|
 > | **改进动力的主要来源** | 内部生成：教师专业探究、校际协作网络与循证实践 | 外部驱动：中央政策规划、国家专项工程与行政指令 | 市场驱动：生源竞争、[[School Choice\|择校]]机制与优胜劣汰 |
@@ -200,9 +198,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1997–2010 — 新工党供给主导探索期** 英国政府投入巨额资金实施 [[Teaching and Learning Research Programme\|TLRP]] 计划并设立 NERF、TRIP 等中介机构，试图通过自上而下的学术成果推送推动教育改进；然而实践表明，行政推送无法激活学校内在动力，学校的[[Research Utilization\|研究使用]]主要演变为应对督导自评的被动合规。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 119–120)]]
 > - **2010 — 联合政府确立 SISS 核心框架** 联合政府发布[[The Importance of Teaching\|《教学的重要性》]]白皮书，正式确立自我改进学校系统（SISS）的四大支柱，提出“自动服从削弱自我改进能力”的著名断言，开启自下而上[[Network Governance\|网络治理]]转型。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 120)]]
 > - **2010–2016 — 学院化与[[Teaching Schools\|教学学校网络]]快速扩张** 学院化（MATs）与教学学校联盟（TSAs）成为承载 SISS 的制度基础设施；至 2016 年初，英格兰建立约 5500 所学院与 692 所教学学校，覆盖逾三分之一学校。
@@ -250,7 +246,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 系统剖析英格兰 SISS 改革的政策演化与制度悖论，运用 79 所小学 696 名实践者的基线实证数据诊断学校在[[Research Utilization\|研究使用]]能力、文化、学习环境与结构上的准备短板，提出四维领导力干预优先级与 [[Ofsted]] 督导框架改革诉求。

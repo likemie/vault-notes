@@ -46,7 +46,7 @@ sources:
 part_of:
 status: active
 created: 2026-08-16
-updated: 2026-09-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kuhn_2000_CD"
@@ -300,9 +300,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 相较于采用长篇[[In-depth Interview\|深度访谈]]的方法，使用 15 题标准化简短评估工具可能不够敏感，难以激发出个体[[Epistemological Understanding\|认识论理解]]的所有深度和复杂性，从而可能低估了某些成年个体的[[Epistemology\|认识论]]成熟度。
 > **作者的辩护** 尽管如此，作者指出 King and Kitchener (1994) 使用深度临床访谈同样得出了成年群体认识论水平低下的悲观结论；且 Weinstock 证明了该简短工具与传统深度访谈（如 Livia 困境）的评级具有高度一致性。因此，该工具换取了能够跨越众多[[Areas of Knowledge\|知识领域]]进行横向对比的巨大优势，且其测量效度得到了支撑。（p. 326）
 

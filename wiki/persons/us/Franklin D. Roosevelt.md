@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Franklin D. Roosevelt
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1882** 出生于美国纽约州海德公园，幼年曾随父母赴德国黑森州巴特瑙海姆求学，熟练掌握德语与欧洲[[Geopolitics|地缘政治]]动态。
 > - **1933** 就任美国总统，全面推行“新政”（New Deal）应对大萧条危机；确立联邦政府对经济复苏、公共工程与劳工保护的主导干预职能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 35)]]
 > - **1935** 签署里程碑式的《社会保障法案》（Social Security Act），确立以缴费型养老与失业保险为骨架的现代美国福利国家制度基础。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 12)]]
@@ -110,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **科学建言者** 阿尔伯特·爱因斯坦 — 1939年佩科尼克信函签署者，推动总统关注核裂变军事应用。
 > - **科学建言者** [[Leo Szilard|利奥·西拉德]] — 1939年信函核心起草人与核物理学家。
 > - **科技操盘官** [[Vannevar Bush|万尼瓦尔·布什]] — 执掌 [[Office of Scientific Research and Development|OSRD]]，直接向罗斯福汇报战时科研大局。
@@ -133,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -148,8 +142,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]] — 考证罗斯福如何决断响应佩科尼克信函并建立白宫直连科研协作机制，奠定战后[[Technological Republic|技术共和国]]基石。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 引用 Jacobs 案例剖析罗斯福社会保障缴费型融资设计如何衍生出超越初衷的反紧缩制度韧性。

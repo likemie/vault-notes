@@ -7,7 +7,7 @@ summary: "芬兰组织学习与教育研究者，在 Vygotsky 中介三角模型
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 8
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -28,15 +28,14 @@ related_concepts:
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods: []
-related_persons:
-  - "[[Yrjö Engeström]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_2025_CE]]"
 confidence: low
 status: draft
 created: 2026-05-26
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 # Yrjö Engeström
 
@@ -52,9 +51,7 @@ updated: 2026-10-17
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 > 资料不足。以下仅记录论文中可确认的信息；生平细节待核。
 
 - 芬兰研究者，活跃于组织学习、工作场所变革与教育研究领域（待核）。
@@ -62,18 +59,14 @@ updated: 2026-10-17
 
 ---
 
-## 主要著作
-
-> [!abstract|notitle]
+> [!abstract] 主要著作
 
 - Engeström, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Orienta-Konsultit. — 提出第二代[[Third Generation Activity Theory|活动理论]]，在 Vygotsky 主体-中介工具-客体三角基础上增加共同体、规则和劳动分工维度，将[[Unit of Analysis|分析单元]]从个体行为扩展为集体活动系统([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p.590]])。
 - Engeström, Y. (2001). Expansive learning at work: Toward an activity theoretical reconceptualization. *Journal of Education and Work*, 14(1), 133–156. — 提出第三代活动理论，聚焦多个活动系统之间的互动与边界跨越，引入扩展性学习（expansive learning）和扩展性改造（expansive transformation）概念([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp.590-591]])。
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Engeström 的核心贡献在于将[[Third Generation Activity Theory\|活动理论]]从一个解释个体认知发展的框架，扩展为分析集体活动系统互动和变革的理论工具。
 
 ### 从个体中介到集体活动系统
@@ -105,9 +98,7 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 
 ---
 
-## 思想发展
-
-> [!note|notitle]
+> [!note] 思想发展
 
 ### 1987 — 第二代活动理论：集体活动系统
 
@@ -123,9 +114,7 @@ Engeström（2001）的第三代活动理论聚焦于跨越不同活动系统边
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 
 - 在教育改革研究中，[[Third Generation Activity Theory|第三代活动理论]]被用于分析不同教育目标系统之间的张力与可能的协同。[[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]]以该理论为框架，分析了中国学校中[[Test-Based Accountability|考试问责]]系统与 [[Learner-Centred Education|LCE]] 改革系统之间的互动和共享目标的建立（pp.590-601）。
 - 在组织学习与工作场所变革研究中，Engeström 的活动理论被用于分析不同专业团队之间的边界跨越和协作创新（待核）。

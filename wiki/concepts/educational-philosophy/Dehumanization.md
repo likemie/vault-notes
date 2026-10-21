@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dehumanization（非人性化）
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 人性化（Humanization） | 非人性化（Dehumanization） |
 > |------|-------------------------|----------------------------|
 > | **存在论定位** | 人类追求成为“更完整的人”的天职 | 将人类剥夺降格为被动客体或“东西” (p. 61) |
@@ -114,9 +112,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 — 存在论奠基** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》第 1 章奠定非人性化作为[[Critical Pedagogy\|批判教育学]]的存在论起点。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 43, 引自 Darwish, 2009)]]
 > - **2004 — 民主国家伦理扩展** 弗莱雷在《行知力》中强调有为干预型国家有责任消除非人性化不公。[[Argument_Darwish_2009_Queens\|(Freire, 2004b, p. 35; Darwish, 2009, p. 61)]]
 
@@ -129,7 +125,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 在学位论文第 4 章中将非人性化作为论证解放[[Politicity of Education|教育政治性]]的核心存在论基石。

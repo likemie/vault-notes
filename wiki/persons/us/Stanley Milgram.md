@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Stanley Milgram
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1933** 出生于美国纽约市布朗克斯区一个犹太移民家庭，早年深受二战期间大屠杀历史与纳粹暴行审判的震动。
 > - **1954–1960** 毕业于皇后学院政治学系，随后转向心理学并获得哈佛大学社会心理学博士学位；在此期间于[[Institute for Advanced Study|普林斯顿高等研究院]]担任[[Solomon Asch|所罗门·阿施]]的研究助理，深受其线段从众实验的启发。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 132)]]
 > - **1960–1963** 担任耶鲁大学心理学助理教授；1961 年在互动实验室利用报纸广告与电话簿招募纽黑文市民，主持开展了一系列权威服从电击实验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–133)]]
@@ -141,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:-----|

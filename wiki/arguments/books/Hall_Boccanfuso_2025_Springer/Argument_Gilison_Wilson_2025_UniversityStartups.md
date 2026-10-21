@@ -63,7 +63,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-29
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Gilison_Wilson_2025_UniversityStartups"
@@ -92,9 +92,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 实践者指南（practitioner guide），基于[[Alliance for Southern California Innovation\|南加州创新联盟]]八年的直接运营经验，以及对南加州 20 余位大学[[University-Industry Collaboration\|产学合作]]领导者和企业创新负责人的访谈、小组讨论和书面调查(pp.142-143)。访谈围绕三条主线：
 > - 产业与大学之间最有效、最常见的催生衍生企业的合作形式是什么？
 > - 大学在开发有意义的产业伙伴关系方面最有效的机制是什么？
@@ -104,9 +102,7 @@ citation_aliases:
 
 ---
 
-## 论证结构
-
-> [!abstract|notitle]
+> [!abstract] 论证结构
 > **整体逻辑链** 打破宿舍创业神话 → 揭示[[Sponsored Research Agreement|产业赞助研究]]中的知识产权（Intellectual Property, IP）毒丸与风险投资（Venture Capital, VC）偏好不匹配两重结构性障碍 → 展示大学主导的概念验证（[[Proof of Concept Programs\|proof of concept]], PoP）项目与创新联盟两种有效机制 → 收束为产业参与的七级阶梯。
 
 ---
@@ -433,9 +429,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - 研究基于南加州区域的大学和企业样本，其他地区的制度环境、产业结构和文化条件可能显著不同，例如一个以制造业为主的中西部州与一个以科技和娱乐业为主的南加州，其[[University-Industry Collaboration\|产学合作]]生态的逻辑可能完全不同(pp.142-143)
 > - 访谈对象主要来自南加州，样本规模为 20 余人，并非全国性、跨行业的代表性抽样(p.142)
 > - 两位作者是[[Alliance for Southern California Innovation\|南加州创新联盟]]的运营者，既是观察者也是参与者，结论来自实践经验的归纳而非系统性实证检验。这一立场的优势是提供了外部研究者难以获得的"内部人视角"（insider perspective）；劣势是可能存在利益相关偏误，因为作者所属的组织本身就是文中描述的产学合作机制的一部分(pp.141-142)

@@ -45,7 +45,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Simplicity of Knowledge
@@ -166,8 +166,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 实证检验了中学生简单知识（SK）信念在不同[[Task Structure\|任务结构]]下的预测力，发现 SK 显著负向制约劣构任务表现与[[Reflexivity\|反思性]]判断，并揭示了其在不同[[Academic Achievement\|学业成就]]群体中的阶梯分化。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统评述了[[Epistemological Theories\|认识论理论]]中知识简单性维度的概念内涵、发展阶段与心理加工机制。

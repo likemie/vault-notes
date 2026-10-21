@@ -72,7 +72,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -84,9 +84,7 @@ citation_aliases:
 当代知识密集型资本主义在什么意义上是一种[[Geopolitics|地缘政治]]经济？Moisio 的核心论旨是：当代知识密集型资本主义并非纯粹的经济现象，而是一种"历史偶然的地缘政治星座"，将空间、城市、国家、[[Human Capital Theory|人力资本]]、教育和技术统合在一起。被常规性地视为地缘经济（geoeconomic）的当代现实，需要从地缘政治的角度重新理解——因为 [[Knowledge-Based Economy|KBE]] 不仅是市场交易，更是通过政治行动（国家、城市、区域）持续再领土化的[[Relational Space|关系性空间]]过程(p.21)。
 
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 
 Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based Economization|知识经济化]][[Geopolitics|地缘政治]]的复合框架：
 
@@ -100,17 +98,13 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 - Hardt and Negri(2000)的劳动[[Typological Analysis|类型分析]] — 为论证 KBE 不仅需要特定技能还需要"交际性、合作性和情感性劳动"提供理论支持(p.29)
 
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 
 - 方法：概念分析（conceptual analysis）与理论综合（theoretical synthesis）
 - 性质：非经验研究，属于政治地理学与[[Cultural Political Economy|文化政治经济学]]的理论交叉论证
 
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 
 Moisio 的论证分为四个递进步骤，从概念梳理到方法论转向，再到[[Geopolitics|地缘政治]]维度的系统展开，最后落脚于当代影响。
 
@@ -217,9 +211,7 @@ Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间�
 > 知识经济化中的"知识"有四种含义：(1) 思想和创新在创造价值中的作用；(2) 专家对知识密集型资本主义本身的[[Knowledge Production\|知识生产]]（履行性知识）；(3) 对政治社区作为知识经济体的表现和发展数据的持续收集；(4) 社会的普遍数据化——数据成为关于人类行为、需求和欲望的有价值信息池(p.25)
 
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 
 Moisio 的核心论旨：
 
@@ -240,9 +232,7 @@ Moisio 从中推导出的地缘政治悖论：
 > ("The [[Geopolitics of Knowledge]]-based economization emanates from the very tension within the capitalist circulation process in space: the tension within the geography of accumulation between fixity and motion."))(p.28)
 
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 
 - 该章为纯理论论证，未提供经验案例的详细分析，概念的经验适用性有待检验
 - [[Analytic Framework|分析框架]]主要基于西方发达资本主义国家的经验，对非西方语境中[[Knowledge-Based Economization|知识经济化]]的[[Geopolitics|地缘政治]]运作讨论有限

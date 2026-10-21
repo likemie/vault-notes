@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Brookings Institution
@@ -143,9 +143,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Soft Accountability
@@ -133,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 年代 — 北欧与欧陆发韧** 随着地方分权推进，北欧诸国引入外部监测但坚决拒绝英美式市场排位，确立了诊断性低利害问责模式。
 > - **2000 年代 — 后 [[PISA]] 时期的广泛扩散** 德国、奥地利、荷兰在 PISA 冲击后采纳全国标准与评估系统，普遍界定为支持[[School Autonomy|学校自主]]改进的软治理装置。
 > - **2010 年代 — 治理社会学的批判深化** 学者系统揭示软问责背后的隐性规训效应，指出软硬问责属于同一技术基础设施上的光谱分布，呼吁深化对学校微观挪用与策略应对的经验研究。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 263–265)]]
@@ -156,8 +154,6 @@ updated: 2026-10-21
 > 分析依赖于国家行政机关对不搞排位表承诺的刚性恪守；一旦地方自治体或商业媒体介入获取数据，软问责将在事实层面被转换为民间硬问责。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 系统反思全球教育治理文献中对软问责系统的关注不足，提出应深入揭示微观学校生态中软问责诱发的表现主义压力与多样化挪用。

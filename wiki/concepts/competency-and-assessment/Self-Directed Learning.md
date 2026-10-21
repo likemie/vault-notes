@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Self-Directed Learning
@@ -84,7 +84,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 将 SDL 作为PBL的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（d = 0.47）。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Window
@@ -161,9 +161,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
 > - **2013年 — [[Evidence-Based Policy-Making|循证决策]]与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
@@ -184,9 +182,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — [[Process Tracing|过程追踪]]表明，奥巴马政府[[Race to the Top|力争上游]]拨款开启的极短政策之窗，迫使各州决策层将宏观学术论文替换为微观对标清单火速完成采纳。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰联合执政协议开启的特许学校（[[Partnership Schools Kura Hourua|PSKH]]）政策之窗，揭示了[[Policy Entrepreneur|政策企业家]]如何携预制方案借窗突围，绕过传统官僚监管机制实现教育[[Exogenous Privatisation|外生私有化]]。
 

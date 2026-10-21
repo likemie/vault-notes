@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Stochastic Parrot
@@ -68,9 +68,7 @@ updated: 2026-10-17
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

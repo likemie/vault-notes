@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hard Power
@@ -317,13 +317,11 @@ updated: 2026-10-21
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|Karp & Zamiska (2025, pp. 139–144)]] | 2011–2012 年阿富汗战地反 IED 战争 | 物理装甲极限与数据驱动硬实力 | 斥资 250 亿美元采购 24000 辆 MRAP 重装甲车仍受制于 300 美元化肥炸弹；前线急需多源情报实时缝合分析软件 | 证明现代硬实力已无法单靠增加物理钢铁厚度实现，必须依托敏捷软件与[[Commercial Off-The-Shelf\|商用现货]]算法支撑 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Fahlenbrach (2009)]] | 1992–2002 年间 2327 家美国上市公司 | 创始人管理与长期资本超额收益 | 创始人担任 CEO 的企业投资组合年化超额回报达 10.7%，较全市场基准高出 4.4% | 实证揭示创始人掌舵在维系长期战略研发投入与超额[[Return on Investment\|投资回报]]上的制度优势 |
 > | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 685–687, 693)]] | 中国“[[Belt and Road Initiative\|一带一路]]”跨国高教科技走廊与历史中苏合作对比 | 高教硬实力工具化与依附脆弱性 | 顶尖高校主导共建海外联合实验室支撑高铁与数字基建；1960年中苏意识形态破裂导致苏联撤走13000名专家并单方撕毁合同 | 实证揭示硬实力出海若缺乏深层地缘互信与基层社会认同，极易在外力冲击下遭遇结构性瓦解 |
-> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025, pp. 1051, 1053)]] | 2015–2019 年中国对柬埔寨发展援助与 2018 年政府全额奖学金生分布 | 官方统计档案追踪分析 | 基础设施与文教社会援助总额对比、[[STEM Education\|STEM]] 奖学金占比 | 对柬硬性基建援助 11.60 亿美元 vs 文教社会 4.92 亿美元（约为 2.36 倍）；STEM 奖学金生 20,813 人（占比 33.00%） | 证实对外战略中硬性物理基础设施投资占支配地位，大学系统被赋予展示国家科技硬实力的战略功能 |
+> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025, pp. 1051, 1053)]] | 2015–2019 年中国对柬埔寨发展援助与 2018 年政府全额奖学金生分布；官方统计档案追踪分析 | 基础设施与文教社会援助总额对比、[[STEM Education\|STEM]] 奖学金占比 | 对柬硬性基建援助 11.60 亿美元 vs 文教社会 4.92 亿美元（约为 2.36 倍）；STEM 奖学金生 20,813 人（占比 33.00%） | 证实对外战略中硬性物理基础设施投资占支配地位，大学系统被赋予展示国家科技硬实力的战略功能 |
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - **[[Technological Republic|技术共和国]]大战略与软件硬实力体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统建构 21 世纪软件硬实力理论，剖析[[Winner's Fallacy|胜者谬误]]、试验场协同、国家认同防卫意志、[[Commercial Off-The-Shelf|商用现货]]采购机制与克服[[Soft Belief|软信念]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Ch. 3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]
 > - **发展型国家高教硬实力工具化与依附脆弱性** [[Argument_Woo_2023_HEP|Woo (2023)]] 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，系统揭示高教体系作为硬实力工具的产能出海机制，并深入论证其依附于经济硬实力的脆弱性。
 > - **科技硬实力展演与援助资源配置失衡** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 结合中柬跨境高教拓展，阐明大学作为科技硬实力展演窗口的战略机制，并以官方数据揭示硬基建投资与软人文交流之间的结构性失衡。

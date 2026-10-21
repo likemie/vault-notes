@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Empty Knower
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **实质的匮乏性** 学生不带有个体欲望或地方性具体经验，在课程内容填充前处于虚空状态。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 212)]]
 > - **理性精神潜能与自我导向** 主体天然具备理性倾向，能够脱离熟悉的直接生活，理解并掌握具有普遍性的宏[[Big Ideas\|大概念]]。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212–213)]]
 > - **辩证否定的运作逻辑** 认知者通过将已学知识作为否定对象进行质疑，在矛盾冲突中发现并实际化其自主的自我主体性（selfhood）。同上
@@ -93,9 +91,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1807 — 精神[[Phenomenology\|现象学]]基础** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]在《精神现象学》中阐述教育是通过经验发现自我、从实质生活艰苦浮现的过程，为空无的认知者奠定精神哲学基础。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 212)]]
 > - **1987 — [[International Baccalaureate\|国际文凭]]学术项目的发展** 亚历克·彼得森（[[Alec Peterson]]）在项目中探讨学生的内部和精神发展，尊重学生的内在生活，在政策层面上为[[Theory of Knowledge\|知识论]]认知者中心定位提供支撑。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212–213)]]
 > - **2005 — 课程批判应用** 科尔指出知识论课程将学生设定为空无的认知者，指明这一理性中心化模型所带来的应试和异化困境，进而倡导向情感与欲望内在性转轨。同上
@@ -110,7 +106,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 批判了[[Theory of Knowledge\|知识论]]课程中将学生设定为空无的认知者的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式教化框架，指出其容易导致理性异化和应试倾向，并提出[[Baruch Spinoza\|斯宾诺莎]]主义的替代方案。

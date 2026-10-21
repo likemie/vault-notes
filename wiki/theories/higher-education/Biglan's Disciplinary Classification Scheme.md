@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Biglan's Disciplinary Classification Scheme
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -136,9 +134,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1973 — Biglan 奠定三维模型** Anthony Biglan 基于 36 个大学系的教师认知聚类，提出 Hard/Soft、Pure/Applied、Life/Non-life 分类法。
 > - **1990 年代 — [[Epistemology\|认识论]]心理学整合** Jehng et al. (1993) 与 Paulsen and Wells (1998) 首次将 Biglan 分类引入学生个人[[Epistemological Beliefs\|认识论信念]]研究。
 > - **2007 — 纵向追踪验证** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 运用 Biglan 架构验证了 7 大学科门类的认识论自我选择与社会化机制。
@@ -155,7 +151,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 应用 Biglan 学科软硬分类框架，纵向证实了硬科学与应用学科强化确定性、软科学解构确定性的[[Disciplinary Socialization\|学科社会化]]规律。

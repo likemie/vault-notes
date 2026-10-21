@@ -38,14 +38,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Parental Cognitive and Affective Socialization
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Parental Cognitive and Affective Socialization 是 [[Argument_Li_2012_Cambridge|Li（2012）]]通过欧美与台湾母-子对话研究（[[Mother-Child Conversation]]）提出的概念，指父母在家庭日常交流中，依据各自文化传统，通过特定的认知框架和情感引导来塑造孩子学习信念的社会化过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.238]])。
 
 两种文化中的母亲都是"高度投入且技巧娴熟的家庭导师"——欧美母亲像[[Socrates|苏格拉底]]式的导师，引导孩子发现心智的伟大；台湾母亲像儒家式的导师，引导孩子修养[[Learning Virtues|学习美德]]([[Argument_Li_2012_Cambridge|Li, 2012, p.278–282]])。差异不在于是否存在社会化，而在于社会化的内容——即用什么框架认知学习、引导什么情感体验学习。
@@ -84,25 +82,19 @@ updated: 2026-10-16
 > [!quote|notitle]
 > TW mother to child about good learning: "therefore mom keeps telling you 'as thou sow...'" — Child: "So you shall reap." — 台湾母亲引导孩子将成就归因于付出([[Argument_Li_2012_Cambridge\|Li, 2012, p.264]])
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Cognitive Source\|认知来源]] — 两种认知社会化对应两种认知来源：心智来源 vs 美德来源
 > - 心智效力与美德效力 — 认知社会化中的归因逻辑分别指向两种效力模式
 > - [[Learning Virtues\|学习美德]] — 台湾母亲的情感社会化以学习美德（勤奋、坚持、吃苦）为情感锚点
 > - [[Heart and Mind for Wanting to Learn\|好学心]] — 东亚传统中"好学心"的内在动力以美德为基础，而非以兴趣或好奇心为基础
 > - [[Chinese Learner\|中国学习者]] vs [[Western Learner\|西方学习者]] — 两种社会化模式分别再生产两种文化所期望的学习者类型
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 心智效力与美德效力 — Mind/[[Mind Efficacy and Virtue Efficacy\|virtue efficacy]] 侧重归因的因果逻辑本身；Parental Cognitive and Affective Socialization 侧重父母如何通过日常对话将这种归因逻辑社会化给孩子
 > - vs [[Mother-Child Conversation\|Mother-Child Conversation]] — Mother-Child Conversation 是一种研究方法（收集模拟对话）；Parental Cognitive and Affective Socialization 是该研究揭示的社会化内容差异
 > - vs 西方 parenting style 研究 — 西方研究中常见的"威权型"对东亚父母的刻画（单向命令、不容质疑）与 Li 的实际发现不符：台湾母女对话中孩子的反驳和协商与欧美对话同样普遍([[Argument_Li_2012_Cambridge\|Li, 2012, p.241–244]])
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > - 结构分析显示：欧美母亲谈论"心智/学习活动"最多，其次是"积极情感"；台湾母亲谈论"[[Learning Virtues\|学习美德]]"最多，其次是"心智"和"消极情感"([[Argument_Li_2012_Cambridge\|Li, 2012, p.229–231]])。
 > - 对于好的学习：欧美母亲比台湾母亲多 20% 讨论积极情感；台湾母亲比欧美母亲多近 50% 讨论学习美德([[Argument_Li_2012_Cambridge\|Li, 2012, p.231]])。
 > - 对于差的学习：差异更加显著——欧美母亲仍最关注心智和积极情感，避免消极情感；台湾母亲最关注学习美德，对消极情感（如害怕、不认真）展开详细讨论([[Argument_Li_2012_Cambridge\|Li, 2012, p.231–233]])。

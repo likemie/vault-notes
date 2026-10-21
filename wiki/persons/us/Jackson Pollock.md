@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jackson Pollock
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1912** 出生于美国怀俄明州科迪。
 > - **1930** 移居纽约，进入纽约艺术学生联盟（Art Students League of New York）师从[[Thomas Hart Benton|托马斯·哈特·本顿]]（Thomas Hart Benton）。
 > - **1930–1938** 在本顿工作室深度研习传统具象壁画的韵律感与构图力学，两人在激烈争辩中结下深厚友谊。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献说明 |
 > |:-----|:-----|:-----|

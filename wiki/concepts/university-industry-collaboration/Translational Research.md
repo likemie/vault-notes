@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Translational Research
@@ -110,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 转化研究（Translational Research） | [[Technology Transfer\|技术转移]]（Technology Transfer） | 应用研究（Applied Research） | [[Use-Inspired Basic Research\|应用启发的基础研究]] |
 > |---|---|---|---|---|
 > | **核心定位** | 解决从实验室原理到规模量产的过渡问题（[[Technology Readiness Level\|TRL]] 4–7） | 解决知识产权法律确权与商业许可交易（交易环节） | 解决具有明确现实用途的具体技术问题 | 追求基础科学机理突破同时受应用目标启发（TRL 1–3） |
@@ -225,9 +223,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990s — 生物医学领域的起源与“从实验台到病床”（bench-to-bedside）[[Paradigm|范式]]** 转化研究最初在生物医学与临床药学中广泛使用，特指将分子生物学和基因组学等实验室基础发现加速转化为安全有效的临床药物与诊疗手段。[[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, pp. 202–203)]]
 > - **2000s–2010s — 扩展至硬科技与“[[Valley of Death|死亡之谷]]”跨越** 概念被广泛借用到信息技术、先进制造与材料工程领域，强调介于学术概念验证与工业量产之间的工程化放大环节，指出传统科技体制在该阶段存在严重的投资断层。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, pp. 95–96)]]
 > - **2020s — 工业界研发人员结构反思与国家资助机构转型** IBM 等企业反思专利领导力与产品转化脱节的技能断层，调整工程师队伍配比；[[National Science Foundation|NSF]] 设立[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（[[Directorate for Technology, Innovation and Partnerships|TIP]]），正式将转化研究确立为国家战略资助支柱。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, pp. 95–97)]]
@@ -270,9 +266,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -292,9 +286,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出构建覆盖全美学术界与小微企业的联邦式中试与表征设施网络，通过开放EDA工具、[[Multi-Project Wafer|多项目晶圆流片]]、3D异构封装与全谱系劳动力培育，跨越从实验室到代工厂的转化鸿沟。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐明半导体硬科技领域从实验室到代工厂（lab-to-fab）的转化研究战略，提出通过共享 300 毫米中试线、极紫外光刻机时、Fab-to-Lab 切片测试与云端设计网关，构建多部门协同的端到端转化流水线。
 > - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]] — 深入剖析传统学术激励与产业硬化技能之间的双重断层，以 IBM 研发队伍结构转型为案例，探讨 [[National Science Foundation|NSF TIP]] 理事会与融合加速器在弥合转化鸿沟中的机制。

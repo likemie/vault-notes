@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Louis Henry Jordan
@@ -65,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1855** 出生于加拿大新斯科舍省哈利法克斯（Halifax），先后求学于达尔豪斯大学与普林斯顿神学院。
 > - **1880–1890s** 在加拿大长老会任牧职并讲授宗教学，期间深感传统教条主义神学的局限，逐步转向实证历史与跨文化比较进路。
 > - **1890s–1900s** 移居英国并长期在牛津大学、爱丁堡大学及德国诸大学访学考察，系统调研自然科学与社会科学中比较方法的扩散机制。
@@ -98,9 +96,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Scientific Paradigm|科学范式]]定位路径** 乔丹对二十六个比较学科的归纳，为二十世纪初比较教育学在大学确立正规学术地位提供了强大的外在[[Scientism|科学主义]]合法性来源。
 > - **规律探寻[[Epistemology|认识论]]路径** 将[[Positivism|实证主义]]从自然科学（解剖学、生理学）向人文社会科学（语言学、宗教学、教育学）平移，深远影响了[[William H. Payne|威廉·H·佩恩]]（William H. Payne）乃至战后[[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）对跨国“普遍法则”的实证主义追求。
 
@@ -115,18 +111,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想共鸣者** [[William H. Payne]] — 同时代倡导教育学必须依托科学实证与规律探寻进入大学讲座的美国教育学者。
 > - **学科史见证对象** [[Simon Somerville Laurie]] — 见证了 1870 年代苏格兰大学率先设立教育学教席以来，教育科学追求建制地位的时代浪潮。
 > - **后世学科史阐释者** [[Val D. Rust]] — 借乔丹论著作为历史实证档案，解构比较教育学[[Scientism|科学主义]][[Paradigm|范式]]的建制化源头。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|

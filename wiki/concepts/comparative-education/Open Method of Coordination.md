@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Open Method of Coordination
@@ -94,9 +94,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **共同战略目标与指导方针** 由欧洲理事会与[[EU|欧盟]]委员会共同制定中期战略方向（如[[Lifelong Learning|终身学习]]、数字技能、[[Academic Attrition|早期离校]]率控制目标）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **量化基准指标体系（Benchmarks）** 将抽象的教育质量诉求拆解为标准化、可横向比较的统计指标，使不可度量的国家体制转化为可度量的数据序列。
 > - **“最佳实践”修辞与经验流通** 借助官方报告筛选标杆案例，将特定新自由主义改革模式包装为客观理性的“普世最佳实践”，剥离其深层政治意识形态属性。
@@ -131,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000 — [[Lisbon Strategy|里斯本战略]]正式确立** 欧洲理事会里斯本峰会正式命名“开放协调法”，将其定位为欧洲在[[Knowledge-Based Economy|知识经济]]时代实现结构性改革的核心手段。
 > - **2002 — 教育领域全面展开** Nóvoa (2002) 系统解构[[EU|欧盟]]依托 OMC 三大机制跨越宪制主权边界、制作[[European Education Space|欧洲教育空间]]的微观过程。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2010 — 欧洲 2020 战略指标化** 欧盟确立包含[[Academic Attrition|早期离校]]率低于 10%、高等教育完成率达 40% 等五大约束性教育基准线，OMC 的量化刚度进一步攀升。
@@ -156,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -171,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a] 相关研究
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|

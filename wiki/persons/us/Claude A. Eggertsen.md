@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Claude A. Eggertsen
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1906** 出生于美国犹他州铁路枢纽小镇西斯尔（Thistle）。其父为铁路工人，倾尽全力支持其求学。青年时期就读于杨百翰大学（Brigham Young University）主修历史学。
 > - **1930年代** 先后在斯坦福大学（Stanford University）与明尼苏达大学（University of Minnesota）完成历史学与教育史深造，获得博士学位，奠定严密的人文史学考据功底。
 > - **1939** 受聘密歇根大学（University of Michigan）任教，迅速成长为美国公共教育发展史领域的代表性青年史学家。
@@ -110,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **跨学科转型示范路径** 成为二战后美国人文学者打破学科壁垒、实现由传统史学向现代比较社会科学跃进的生动典范，证明了人文历史传统与战后实证探索之间的内在连续性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123)]]
 > - **研究生培养与学术承续路径** 在密歇根大学建立起长盛不衰的比较教育研究生教育基地，倾注心血培养了[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust|Val D. Rust]]）等一代国际领军学者，深刻影响了加州大学洛杉矶分校（UCLA）等后起比较教育重镇的思想底色。
 > - **学术共同体建制路径** 参与奠定美国比较教育学会早期制度化根基，倡导学会超越冷战意识形态对立，维系与欧洲大陆及非西方国家的学术联系。
@@ -126,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术导师与思想前辈** [[Isaac Kandel]]、[[Robert Ulich]] — 埃格特森的人文历史主义传统在学脉上深契坎德尔、乌利希开创的欧陆历史-哲学进路。
 > - **学生与学脉继承者** [[Val D. Rust]] — 埃格特森在密歇根大学指导的博士生，后成为 UCLA 比较教育学讲座教授及学科领军人物。
 > - **同侪合作者** [[William H. Payne]]（密歇根教席先驱）、[[William W. Brickman|威廉·布里克曼]]（William W. Brickman） — 在密歇根与全美比较教育学界共同捍卫史学传统的学术战友。
@@ -143,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -42,14 +42,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Multiple Regression
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 多[[Meta-regression\|元回归]]（Multiple Regression）是将 Pearson 相关扩展到两个或以上预测[[Variable\|变量]]（predictor variables）的推断统计方法。它用于评估多个[[Independent Variable\|预测变量]]（自变量）与一个[[Dependent Variable\|结果变量]]（因变量）之间的关系，提供整体模型拟合指标（R² 和 F 统计量）以及每个预测变量的相对贡献（b 系数和 t 统计量）。多元回归揭示了众多变量中哪一个变量对结果的相对预测力最强（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 ## 研究程序
@@ -70,24 +68,18 @@ updated: 2026-10-20
 > - **β（标准化回归系数）** — 使不同量表的预测变量之间可以比较相对预测力。
 > - **t 统计量** — 检验每个单独预测变量的贡献是否显著（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
-## 方法变体与相近方法
-
-> [!tip|notitle]
+> [!tip] 方法变体与相近方法
 > - **层级回归（Hierarchical Regression）** 按理论驱动的顺序逐步加入预测[[Variable\|变量]]块，考察每块变量对 R² 的增量贡献。
 > - **逐步回归（Stepwise Regression）** 由统计程序自动选择进入或退出模型的变量——但因其结果依赖样本特征且缺乏理论驱动，Creswell 未推荐此方法。
 > - vs Pearson 相关 — Pearson 相关是双变量分析（一次两个变量）；多[[Meta-regression\|元回归]]是多变量分析（多个[[Independent Variable\|预测变量]]同时进入模型）。
 > - vs [[Analysis of Variance\|ANOVA]]／[[Analysis of Covariance\|ANCOVA]] — ANOVA 比较组间均值，通常使用类别预测变量；多元回归使用连续预测变量。ANCOVA 可视为 ANOVA 和回归的混合形式——组间比较中加入连续协变量。
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > - [[Survey Research\|调查研究]]中当[[Research Question\|研究问题]]涉及"哪些因素最能预测某一结果？"时。
 > - 需要同时评估多个预测[[Variable\|变量]]的独立贡献时。
 > - 需要在控制其他变量（如人口学特征）后检验某一特定变量的预测力时。
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > - 多重共线性（multicollinearity）——当预测[[Variable\|变量]]之间高度相关时，回归系数估计不稳定，难以区分各变量的独立贡献。
 > - 与 Pearson 相关一样，回归揭示的是关联而非因果——即使控制了多个变量，未测量的混淆变量仍可能驱动结果。
 > - 对异常值、非线性关系和方差[[Heterogeneity\|异质性]]（heteroscedasticity）敏感。

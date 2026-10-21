@@ -34,7 +34,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Parametric Design
 
@@ -81,16 +81,12 @@ updated: 2026-10-20
 > - **谨慎使用** 自变量水平划分的合理性需要基于理论或先前研究；分组过多会导致[[Sample Size Determination\|样本量]]需求过大。
 > - **不适合使用** 自变量是二分类时（使用标准前[[Pre-test and Post-test\|后测]]设计）；需要同时检验多个自变量交互时（使用[[Factorial Design\|因子设计]]）。
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **[[Sample Size Determination\|样本量]]需求大** 每个水平需要一个组加上控制组，水平越多样本量需求越大。
 > - **水平划分的任意性** 将连续[[Variable\|变量]]划分为离散水平（如差/中等/良好/优秀）的切分点可能影响结果——不同的切分可能得出不同的结论。
 > - **不能检验[[Interaction Effect\|交互效应]]** 参数设计只处理一个[[Independent Variable\|自变量]]的多个水平，不涉及多个自变量的交叉。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[True Experimental Design]] | 方法 | 所属类别——参数设计是真实验的一种变体 |

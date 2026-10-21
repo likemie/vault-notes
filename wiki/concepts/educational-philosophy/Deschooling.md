@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Deschooling
@@ -144,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 — 伊里奇发表《非学校化社会》（*Deschooling Society*）** 提出打破学校垄断、建立去中心化“伙伴网络”与技能交换中心，引发全球反建制教育震荡。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 231)]]
 > - **1970s–1980s — 霍尔特开创在家上学（Homeschooling）与[[Learner Autonomy|自主学习]]运动** 约翰·霍尔特出版《儿童如何失败》（*How Children Fail*）并创办《不成长于学校》杂志，将去学校化思潮转化为切实的在家上学与自然学习实践。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 > - **1980s–1990s — 边缘化与古典教学论复兴** 随着西方工业转型与[[New Public Management|新公共管理主义]]兴起，激进无政府主义色彩的去学校化思潮在官方教育政策中被边缘化，古典教学传统（如塞耶斯的《学习的失落工具》）重回主流。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
@@ -169,7 +167,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 溯源了从传统教学论五支柱到伊里奇与霍尔特去学校化思潮的思想脉络，批判性揭示了[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》将教师定性为非专业调节者所暗含的去学校化逻辑及其在俄罗斯[[Policy Borrowing|政策借用]]中引发的去专业化风险。

@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Narration Sickness（叙事病）
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 叙事病（Narration Sickness） | [[Problem-Posing Education\|提问式教育（Problem-Posing）]] |
 > |------|-----------------------------------|--------------------------------------|
 > | **分析对象** | 单向宣讲与词汇异化的教学生态 | 横向合作与问题探究的教学过程 |
@@ -115,9 +113,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中提出“叙事病”，诊断拉美传统教育的统治工具属性。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 71, 引自 Darwish, 2009)]]
 > - **2009 — 课程批判应用** Darwish 引用叙事病解构传统学校教育对学生好奇心与批判思维的压制。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
 
@@ -130,7 +126,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[Paulo Freire\|弗莱雷]]批判哲学解构[[Banking Model of Education\|储蓄式教育]]的叙事病表现。

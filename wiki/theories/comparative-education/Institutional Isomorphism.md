@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Institutional Isomorphism
@@ -91,9 +91,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -183,18 +181,14 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 受到高度监管的公共部门（如中小学、大学、医院）及具有成熟行业协会与标杆企业的成熟[[Champ\|场域]]。
 > - **谨慎使用** 处于剧烈颠覆性创新初期、缺乏成熟行业标准的新兴前沿领域。
 > - **不适合解释** 强竞争性私人企业如何在完全信息市场中通过底层技术突破实现差异化生存的微观机制。
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1977 — 新制度主义理论基石确立** [[John W. Meyer\|约翰·迈耶]]与布莱恩·罗文（Meyer & Rowan, 1977）发表《作为神话与仪式的正式组织》，指出正式结构往往是获取合法性的[[Rationalized Myth\|合理化神话]]。
 > - **1983 — 三大同构机制系统提出** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ\|场域]]分析[[Paradigm\|范式]]。
 > - **1980 年代 — 高等教育科研组织同构机制验证** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，在微电子高技术重资产冲击下，美国各大学微电子中心通过标杆跟踪复制、模式主动推广以及**博士生与教员跨校流动（Personnel Mobility）**，在全美范围完成了组织形态与治理规范的经典制度同构收敛。
@@ -222,9 +216,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 运用三种制度同构机制分析跨国公司[[Corporate Education\|企业教育]]的国际化扩散模式与权威调动策略。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教师教育治理中证据作为[[Rationalized Myth\|合理化神话]]如何驱动多方机构走向规范与强制同构。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织历史学角度实证检验大学微电子研究中心如何在不确定性环境下，依托同行对标复制、模型主动示范以及教员和博士毕业生跨机构流动（Personnel Mobility）实现经典模式的制度同构收敛。（p. 297）

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cultural Relativism
@@ -82,9 +82,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 文化相对主义（Cultural Relativism） | 启蒙客观卓越论（Kenneth Clark, 1969） | 技术共和主义德性论（[[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska, 2025]]） |
 > |---|---|---|---|
 > | **价值前提** | 一切文化生活模式同等有效，禁止优劣评判 | 文明是通往美、真理与卓越的客观进军 | 必须确立具体的伦理特质与审美裁量权 |
@@ -161,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1928–1934 — 文化人类学等效假说奠基** 玛格丽特·米德发表《萨摩亚人的成年》（1928）、鲁斯·本尼迪克特发表《文化模式》（1934），确立所有生活形态同等有效的人类学相对主义传统。
 > - **1969 — 克拉克《文明》引发审美卓越争论** 肯尼斯·克拉克主持 BBC 纪录片《文明》，以客观卓越叙事引发收视轰动，随后遭遇后现代学者的持续解构批判。
 > - **1968–1988 — 大学[[Western Civilization Course|西方文明课]]终结与[[Canon Wars|经典之争]]** 斯坦福大学等欧美高校废除西方文明必修课，文化相对主义主导人文学科大纲，导致通识正典瓦解与国家大叙事断裂。
@@ -187,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -203,7 +197,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 揭示[[Western Civilization Course|西方文明课]]解体留下的道德真空（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Ch07]]），并结合本尼迪克特人类学假说剖析相对主义对社会辨别力与科技创新的削弱（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18]]）。

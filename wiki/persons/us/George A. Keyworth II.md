@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # George A. Keyworth II
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1939** 出生于马萨诸塞州波士顿，后在杜克大学获得物理学博士学位。
 > - **1968–1981** 在洛斯阿拉莫斯国家实验室（Los Alamos National Laboratory）担任核物理学家与物理学部主任，主持前沿激光聚变与核物理实验装置研发。
 > - **1981–1985** 出任里根总统科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任。任内主导重塑联邦民用科技研发优先级，积极倡导国家战略防御倡议（SDI），同时大力推动提升美国半导体与先进制造业[[Competitiveness|竞争力]]，推动 [[National Science Foundation|NSF]] 创设[[Engineering Research Centers|工程研究中心]]（ERC）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–371)]]
@@ -118,9 +116,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **政治与政策盟友** [[Erich Bloch]] — 共同推进 [[Engineering Research Centers|ERC]] 立项与 [[National Science Foundation|NSF]] 工程学学部独立，合力抗衡白宫预算局与国会分立方案。
 > - **合作学者** [[Nam Pyo Suh]] — 担任 NSF 工程副主任期间与凯沃思紧密协同制定工程学科重构战略。
 > - **任职机构** [[National Science Foundation]] — 作为白宫科技顾问指导并协调其重大资助机制改革。
@@ -140,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

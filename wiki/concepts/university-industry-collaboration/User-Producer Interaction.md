@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # User-Producer Interaction
@@ -140,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s — 用户作为创新者（User as Innovator）假说的提出** 冯·希佩尔（[[Education Resources Information Center|ERIC]] von Hippel）在科学仪器等行业发现大量关键创新最初由领先用户自主开发，动摇了纯供应方主导[[Paradigm|范式]]。
 > - **1985–1988 — [[Bengt-Åke Lundvall|伦德瓦尔]]提炼用户—生产者互动理论** 伦德瓦尔系统分析商品交易中的定性信息交换与学习机制，将其上升为连接微观行为与宏观[[National Innovation System|国家创新系统]]的中介桥梁。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
 > - **1990s — 国家比较与区域创新集聚研究应用** Freeman、Nelson 与区域经济学家将该概念引入硅谷、第三意大利等[[Industrial District|产业区]]分析，论证社会资本、面对面信任与高频互动是形成区域创新集聚的核心动力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
@@ -167,7 +165,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用用户—生产者互动机制深入剖析日本工业制造赶超以及战后各国[[Systems of Innovation|创新系统]]组织绩效分化的深层原因。

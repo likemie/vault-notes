@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Centre for Educational Research and Innovation
@@ -191,9 +191,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -213,9 +211,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 考证 CERI 创设的历史契机，阐述其如何确立教育增长的定性维度并作为四大支柱之一维系成员国多元自主权。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 梳理 [[OECD]] 内部机构演变史，论证 CERI 及其主管 [[Jarl Bengtsson]] 如何启动 [[International Indicators of Education Systems\|INES]] 项目开启全球教育数据治理转向。
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 记录 CERI 在 1980 年代孕育指标网络与《[[Education at a Glance\|教育概览]]》的科学争论档案，呈现学者与决策者围绕数据[[Commensuration\|通约]]性的博弈。

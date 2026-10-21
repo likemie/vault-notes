@@ -81,7 +81,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Learner Autonomy
@@ -263,9 +263,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 质性剖析 IB [[Theory of Knowledge\|知识论]]课程如何通过[[Epistemology\|认识论]]批判反思与[[Metacognition\|元认知]]自信建设双轨路径培育实质性学习者自主。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 量化评估 IB 课程对学生[[Critical Thinking\|批判性思维]]与独立探究能力的长期因果促进效应。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 多臂析因试验（如 ABRA 试验）经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。
@@ -275,9 +273,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

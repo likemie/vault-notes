@@ -41,7 +41,7 @@ related_arguments:
 related_persons: []
 status: draft
 created: 2026-07-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Kurt Lewin
 
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1890** 出生于普鲁士莫吉尔诺（今波兰境内）的犹太家庭。
 > - **1916** 在柏林大学获心理学博士学位，师从格式塔心理学家 Carl Stumpf。
 > - **1921–1933** 在柏林大学心理学研究所任教，与格式塔心理学派（Wertheimer、Köhler、Koffka）密切合作，发展场论（[[Champ\|field]] theory）。
@@ -107,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 场论（B = f(P, E)）影响了后来的社会认知理论、[[Ecological Systems Theory\|生态系统理论]]和情境学习理论；群体动力学成为社会心理学和组织行为学的核心领域。
 > - **方法路径** [[Action Research\|行动研究]]螺旋模型被 Kemmis & McTaggart（1981, 1988, 1992）改进和发展为当代行动研究的核心程序框架；力场分析和变革三步模型成为组织发展和变革管理的方法论基础。
 > - **政策路径** 勒温对弱势群体的关注和对民主参与的倡导为[[Participatory Action Research\|参与式行动研究]]和赋权研究提供了政治基础——Kemmis and McTaggart（1992, p. 6）将行动研究的合作性定位在勒温本人对群体决策的承诺中。
@@ -117,18 +113,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** 格式塔心理学派（Wertheimer、Köhler、Koffka）——场论的理论来源；Lippitt and White——合作进行领导风格实验；Leon Festinger——MIT 群体动力学研究中心的学生和继任者。
 > - **学生／继承者** 阿吉里斯（Argyris）——将[[Action Research\|行动研究]]发展为"行动科学"（action science），提出单环和双环学习；Kemmis & McTaggart——系统化行动研究的螺旋模型和批判行动研究；Rensis Likert——发展组织行为学和参与式管理。
 > - **机构／运动／项目** MIT 群体动力学研究中心（1944 年创立，1948 年迁至密歇根大学，成立社会研究所 ISR）；Tavistock 研究所（英国）——将勒温的群体动力学应用于组织咨询。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

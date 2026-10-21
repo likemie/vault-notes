@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Christof Wecker
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1998–2004** 慕尼黑大学（LMU）、图宾根大学与牛津大学攻读教育学、哲学与修辞学，聚焦教学心理学与学习科学。
 > - **2004–2006** 图宾根知识媒体研究所（IWM）担任科研人员，参与计算机支持的协作学习（CSCL）与技术赋能认知工具研发。
 > - **2006–2015** 慕尼黑大学（LMU）[[Experiential Learning|经验教育]]学与教育心理学教席科研人员，2009 年获哲学博士学位（Dr. phil.），2013 年完成特许任教资格论文（Habilitation）。
@@ -129,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** Freydis Vogel、Andreas Hetmanek — 慕尼黑工业大学（TUM）课题组合作者，共同撰写 2016 年 ZfE 重磅方法论长文。
 > - **批评与审计对象** [[John Hattie|约翰·哈蒂]]（John Hattie） — 对其[[Meta-meta-analysis|二阶元分析]]算法、[[Effect Size|效应量]]排行榜与 $d = 0.40$ 关节点开展了全方位的统计模型推导与反向案例重构。
 > - **方法论理论渊源** [[Gene Glass|吉恩·格拉斯]]（Gene Glass）、[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）、Larry Hedges、Michael Borenstein — 继承经典统计[[Meta-analysis|元分析]]与[[Inverse-Variance Weighting|逆方差加权]]公理化体系，用以衡量宏观证据合成的有效性边界。
@@ -153,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -45,34 +45,26 @@ sources:
 part_of: ''
 status: published
 created: '2026-05-06'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2012
 doi: ""
 citation_aliases:
   - "O'Neill, 2012"
   - "O'Neill (2012)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 以新西兰 Treasury 2011 年向候任财政部长简报为案例，分析教育政策论述中的[[Material Fallacies\|实质谬误]]（material fallacies），并探讨研究者在证据被误用时负有何种道德-专业责任。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - [[Material Fallacies]] — Kreeft (2010) 的逻辑分类：实质谬误是"在理解术语的含义或用法方面的错误"(p.85)，本文将其应用于教育政策[[Discourse Analysis\|话语分析]]
 > - [[Policy Entrepreneur]] — Mintrom (2000) 概念，用以理解政策行动者如何在教育改革[[Discourse|话语]]中定位自身以倡导、塑造和获益
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：政策[[Discourse|话语]]案例分析（commentary）
 > - 分析对象：Treasury (2011) 简报文本、部长议会答复(House of Representatives, 2012)、Hattie (2009a, 2009b) VL 证据
 > - [[Analytic Framework\|分析框架]]：Kreeft [[Material Fallacies\|实质谬误]]分类 + Ball (2007) 公共部门信任/不信任悖论
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 1. **前提／观察** Treasury 2011 年简报援引 Hattie VL 证据，声称提高教学质量是最大的校内影响因素，因此可以增加生师比以释放资金用于提升教学质量
 > 2. **论证步骤** 从三个维度逐层拆解该政策建议的逻辑缺陷：
 >    - 术语模糊且使用不一致（"教学质量"在 Hattie 中仅来自大学生评教，与学校教育无关；被当作口号和代理概念使用）
@@ -80,9 +72,7 @@ citation_aliases:
 >    - 政策结论无效（结论与 Hattie 本人建议矛盾、忽略 [[OECD]] 生师比数据、忽略自然主义[[Lesson Study\|课堂研究]]证据）
 > 3. **结论** Treasury 建议充其量不完整，最坏情况下可能有害，尤其对毛利和太平洋岛民学生等优先群体不公
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis\|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性(pp.154-155)
 > - "优质教学"(quality teaching, Alton-Lee, 2003)和"教学质量"(quality of teaching, Hattie, 2009a)在学术和政策[[Discourse|话语]]中日益被当作口号使用，引发基于词汇熟悉度而非理性的膝跳反射式赞同或反对(p.155)
 > - Treasury 将"教学质量"用作代理概念（proxy concept），以包装更具争议的政策目的（如教师绩效管理），使其获得接受
@@ -92,9 +82,7 @@ citation_aliases:
 > - Treasury 建议增加生师比与 Hattie 本人的结论矛盾：Hattie 明确写道"效应量的正向符号表明增加班级规模是糟糕的政策"(p.88)(p.157)
 > - [[OECD]] 数据（2011, Table D2.2）显示新西兰小学和初中生师比（16.3 和 12.8）高于 OECD 均值，不存在增加比率的证据基础
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “逻辑中的[[Material Fallacies\|实质谬误]]是‘在理解术语的含义或用法方面的错误’(Kreeft, 2010, p. 85)。正如在实践逻辑中一样，当所使用的术语模棱两可、不清晰或模糊时，公共政策论述就会变得有问题。”
 > ("[[Material Fallacies]] in logic are 'mistakes in understanding the meaning or use of terms'. Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague.")(p.153)
 >
@@ -110,9 +98,7 @@ citation_aliases:
 > > “研究者有一种特殊的责任：一方面要警惕实质性谬误以及政策参与者对其的错误使用；另一方面，当有缺陷的公共教育政策辩论发生时，他们必须准备好随时打断并挑战它。”
 > ("researchers have a particular responsibility to be watchful both for material fallacies and their mistaken use by policy actors, and on the other hand, they must be prepared to interrupt and challenge flawed public education policy debates whenever they occur.")(p.159)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 论文自身为评论（commentary）体裁，仅分析单一案例，未声称系统性或代表性
 > - 作者承认仅分析政策建议文本的缺陷（术语不清、证据不完整、论证无效）只能带我们走这么远——要理解国家学校教育政策的政治经济学，还需关注政策行动者的主体定位
 

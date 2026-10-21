@@ -25,28 +25,28 @@ tags:
   - blk
 related_concepts:
   - "[[Spirals of Inquiry]]"
+  - "[[Scientific Literacy]]"
   - "[[Recontextualization]]"
-  - "[[Transfer Science]]"
   - "[[Teacher Beliefs]]"
   - "[[Epistemology]]"
-  - "[[Scientific Literacy]]"
-  - "[[PISA Shock in Germany]]"
+  - "[[Transfer Science]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]]"
-  - "[[Federal Ministry of Education and Research]]"
   - "[[SINUS]]"
+  - "[[Federal Ministry of Education and Research]]"
   - "[[PISA]]"
+  - "[[PISA Shock in Germany]]"
 related_arguments:
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Chemie im Kontext
@@ -152,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

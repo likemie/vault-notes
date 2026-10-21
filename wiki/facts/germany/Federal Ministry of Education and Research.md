@@ -56,23 +56,23 @@ related_facts:
   - "[[Horizon Europe]]"
   - "[[German Dual Education System]]"
   - "[[PISA]]"
-  - "[[Gesamtstrategie zum Bildungsmonitoring]]"
-  - "[[Clearing House Unterricht]]"
-  - "[[Max Planck Society]]"
   - "[[Institute for Educational Quality Improvement]]"
-  - "[[Vergleichsarbeiten]]"
+  - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Chemie im Kontext]]"
   - "[[SINUS]]"
+  - "[[Clearing House Unterricht]]"
+  - "[[Max Planck Society]]"
+  - "[[Vergleichsarbeiten]]"
 related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Hartong_2018_GSE]]"
-  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Federal Ministry of Education and Research
@@ -190,9 +190,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

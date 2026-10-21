@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Kendall Square
@@ -95,9 +95,7 @@ updated: 2026-10-17
 
 ---
 
-## 相关概念／政策
-
-> [!example|notitle]
+> [!example] 相关概念／政策
 > - [[University-Industry Collaboration]] — 肯德尔广场是产学合作空间聚集的典型案例
 > - [[Innovation Hub]] — CIC 是创新中心的一种具体运作形式
 > - [[Innovation Park]] — 肯德尔广场与研究园区共享"地点驱动创新"的逻辑

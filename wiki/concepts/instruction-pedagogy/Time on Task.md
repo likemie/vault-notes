@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Time on Task
@@ -216,7 +216,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立任务在轨时间的定格快照[[Operationalization|操作化]]规程，证实其作为基础支柱对学生学业增益的联合预测力。

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peter Lampl
@@ -137,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **机构创设与领导** [[Sutton Trust\|萨顿信托]]（Sutton Trust） — 创始人兼董事长（1997年至今）。
 > - **机构创设与治理** [[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 创始理事会主席（2011年至今）。
 > - **战略合作伙伴** [[Michael Gove\|迈克尔·戈夫]]（Michael Gove） — 2010 年英国教育大臣，响应兰普尔倡议并拍板向 EEF 划拨 1.25 亿英镑政府初始捐赠。
@@ -162,9 +160,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

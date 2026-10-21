@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sense about Science
@@ -77,17 +77,13 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > 1. **赋权公民成为活跃的证据审查者** 打破了技术官僚对科学[[Discourse|话语]]权的垄断，通过 Ask for Evidence 行动使广大师生与公民掌握了科学探究与证据核验的核心思维方法。
 > 2. **筑牢青年学者的学术诚信与发声底气** VoYS 训练网络有效缓解了青年学者面对公众舆论放大镜时的畏难情绪，为国家培育了一批兼具深厚学术功底与敏捷传播素养的现代青年科学家队伍。
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

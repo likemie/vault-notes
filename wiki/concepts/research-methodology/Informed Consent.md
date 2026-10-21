@@ -7,10 +7,10 @@ aliases:
 summary: "研究伦理的核心程序，研究者在数据收集前向参与者书面告知研究目的、程序、风险和权利，涵盖能力、自愿、充分信息与理解四项前提要素，以及儿童赞同、质性持续协商与跨部门产学合作中的制度规范"
 type: concept
 domain: "research-methodology"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-ethics
   - theme/research-procedure
@@ -19,36 +19,29 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
   - "[[Emergence]]"
-  - "[[University-Industry Collaboration]]"
   - "[[Voluntarism]]"
   - "[[Research Purpose]]"
-  - "[[Sponsored Research Agreement]]"
-  - "[[Hawthorne Effect]]"
-  - "[[Open-Mindedness]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Sensitive Research]]"
-  - "[[Research Practicability]]"
-  - "[[Covert Research]]"
-  - "[[Guilty Knowledge]]"
+  - "[[Hawthorne Effect]]"
 related_theories: []
 related_methods:
-  - "[[Qualitative Research]]"
-  - "[[Fieldwork]]"
   - "[[Visual Research Methods]]"
 related_persons: []
 related_facts:
   - "[[Common Rule 2018]]"
-  - "[[American Educational Research Association]]"
+  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Hall_2025_EthicalLegalFrameworks]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Informed Consent
 
@@ -76,13 +69,11 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
-> | 维度 | 知情同意（Informed Consent） | 机构伦理审查（[[Institutional Review Board|IRB]] 审批） | 过程知情同意（Process Consent） | 参与赞同（Assent） |
+> [!contrast-table] 概念辨析
+> | 维度 | 知情同意（Informed Consent） | 机构伦理审查（[[Institutional Review Board\|IRB]] 审批） | 过程知情同意（Process Consent） | 参与赞同（Assent） |
 > |---|---|---|---|---|
 > | **主体关系** | 研究者与个体受试者之间的直接协议 | 伦理审查委员会对研究方案的制度监管 | 研究者与受试者在研究全周期的持续对话 | 研究者与未成年人或弱势个体的意愿确认 |
-> | **制度性质** | 具有法律效力的知情与自愿书面契约 | 机构内部准入与联邦法规合规门槛 | 应对质性[[Emergence|涌现]]性情境的动态协商机制 | 辅助性的心理意愿表达，无独立法定效力 |
+> | **制度性质** | 具有法律效力的知情与自愿书面契约 | 机构内部准入与联邦法规合规门槛 | 应对质性[[Emergence\|涌现]]性情境的动态协商机制 | 辅助性的心理意愿表达，无独立法定效力 |
 > | **时间节点** | 正式数据收集启动前的关键关卡 | 项目启动与实质接触参与者之前完成 | 贯穿观察、访谈与材料引用的全过程 | 伴随监护人同意同步或随后获取 |
 > | **核心价值** | 捍卫个体的身体自由、知情权与隐私权 | 防范法律诉讼与机构连带合规风险 | 维护长程田野中的信任关系与互惠伦理 | 尊重未成熟主体的能动表达与心理舒适度 |
 
@@ -228,9 +219,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 专著第 5 章系统阐述知情同意四要素、合理告知标准与儿童赞同双阶段程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Ch. 05]]）；第 27 章探讨视觉研究方法在获取知情同意与图像复制授权方面的特殊伦理挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Ch. 27]]）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, pp. 93–94, 213)]] — 归纳知情同意书的九项标准构成要素，强调知情同意对质性研究效度与自愿参与权保障的核心功能。
 > - [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall (2025, pp. 265–268)]] — 分析《共同规则》在大学与企业赞助研究间的制度不对称性，确立知情同意在产学合作谈判中的法理定位。

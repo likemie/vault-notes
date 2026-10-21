@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Typology of Educational Responses to Globalization
@@ -223,9 +223,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国教育发展援助、后殖民国家课程重构、原住民双语教育运动、全球化新自由主义[[Policy Borrowing|政策借用]]与本土抵制。
 > - **成立条件** 需要研究者具备获取深层政策协议文本与扎根草根社群[[Fieldwork|田野调查]]的双重视野，能够辨别官方修辞与深层利益支配。
 > - **解释不足** 理论对四种类型之间的动态转化阈值缺乏精细的形式化建模；对于处于中间状态的妥协、策略性依从（lip-service [[Strategic Compliance|compliance]]）与混杂杂糅（hybridity）机制未作充分展开。

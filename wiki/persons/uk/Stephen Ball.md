@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Stephen Ball
@@ -104,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990 年代初** 执教于伦敦大学国王学院，1993 年发表关于教育市场与[[School Choice|择校]]的经典研究，提出市场机制实质是国家重塑阶级特权的阶级策略。
 > - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，确立政策文本、政策语境与政策实践动态互动的批判[[Analytic Framework|分析框架]]。
 > - **2000 年代初** 加盟伦敦大学教育学院（IOE），任教育政策卡尔·曼海姆讲座教授；系统考察新工党政府的教育市场化与公私伙伴网络。
@@ -198,9 +196,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术伙伴** Deborah Youdell — 共同开展公共教育隐性私有化研究，提出内生与[[Exogenous Privatisation|外生私有化]]双轨模型。
 > - **对话者／批判共鸣** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 其关于市场化作为阶级策略与内生/外生私有化的框架被引入拉美[[Conditioned State Theory|受限国家]]批判分析。
 > - **理论对话者／拉美引申** [[Jason Beech]] — 比较教育学者，在其博士研究与五位置[[Discourse|话语]]流通模型中系统吸收鲍尔关于政策简约性诱惑、文本与执行张力以及定向委托合同研究侵蚀学术自主的论断。
@@ -219,9 +215,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

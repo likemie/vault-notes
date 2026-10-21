@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Methodological Statism
@@ -118,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 明确批判了方法论国家主义和[[Methodological Nationalism\|方法论民族主义]]阻碍了对跨国理性主义多边主义[[Governing at a Distance\|远处治理]]的理解。
 > - Methodological Nationalism (方法论民族主义) — 方法论国家主义的空间边界同盟，假设领土等于社会。
 > - [[Methodological Educationism]] (方法论教育主义) — 方法论国家主义的体制化同盟，假设教育等于学校。

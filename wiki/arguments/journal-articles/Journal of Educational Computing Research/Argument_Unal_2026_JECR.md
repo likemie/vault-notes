@@ -99,7 +99,7 @@ sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
 status: draft
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Unal_2026_JECR"
@@ -513,9 +513,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **语言与发表时间窗限制** 本研究仅纳入 2020 年 1 月至 2025 年 4 月之间以英语发表的一阶[[Meta-analysis\|元分析]]，可能存在语言[[Publication Bias\|发表偏倚]]（Language Publication Bias），未覆盖非英语地区的关键本土元分析证据。
 > - **调节[[Variable\|变量]]亚组[[Sample Size Determination\|样本量]]不均衡** 部分调节变量亚组所包含的[[Effect Size\|效应量]]过少（例如数学学科与计算机科学学科各仅包含 2 项元分析，[[Higher-Order Thinking Skills\|高阶思维]]单独亚组仅包含 1 项元分析），因此对这些细分亚组差异的解读须保持审慎。
 > - **未附清单文献的潜在残留重叠** 尽管敏感性分析证实未对整体效应造成实质性扭曲，但纳入的 3 项未报告初级研究清单的元分析仍可能存在无法完全通过 [[GROOVE]]/[[Corrected Covered Area\|CCA]] 矩阵排除的潜在初级研究重叠。

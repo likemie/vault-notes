@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Carter Review of Initial Teacher Training
@@ -127,9 +127,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[The Importance of Teaching]] | 政策事实 | 2010 年白皮书开启了向校本 [[Initial Teacher Training\|ITT]] 转移的大方向，卡特审查为其后续落地提供了系统评估与标准建构。 |

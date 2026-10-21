@@ -71,7 +71,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-09
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: report
 publication_type: report
 title: "Argument_NIST_2023_NSTC"
@@ -346,9 +346,7 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **长期财务可持续性挑战** 《[[CHIPS and Science Act|芯片法案]]》直接拨款仅覆盖前五年启动期，中心能否在后续十年内成功通过会员费、服务费与 IP 授权建立稳定的自我造血能力仍存在不确定性。（pp. 22–23）
 > - **多方利益协调与选址复杂性** 在全美多地布局共享技术中心与中试设施面临各州政府、不同企业联盟之间的竞争与利益平衡难题。（pp. 14, 21–23）
 > - **劳动力短缺的长期性** 尽管规划了全谱系人才培养框架，但工程技术人员的培育与跨部门课程互认需要较长周期，短期内依然面临技能人才缺口的严峻制约。（pp. 18–19）

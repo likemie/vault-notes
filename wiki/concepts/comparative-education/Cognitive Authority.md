@@ -7,36 +7,31 @@ aliases:
 summary: "安德烈·布鲁姆（André Broome）与伦纳德·西布鲁克（Leonard Seabrooke）等学者提出的国际政治学与全球治理构念，指国际组织在缺乏法定强制管辖权的前提下，依托专业技术知识、去政治化的理性声誉与标准化数据生产，被主权国家公认为界定政策现实与提供决策咨询的合法权威形态。"
 type: concept
 domain: "comparative-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/comparative-education
   - theme/global-governance
   - theme/international-organizations
   - theme/soft-power
-related_concepts:
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Façade of Rationality]]"
-  - "[[Policy Brokerage]]"
-  - "[[Governing by Numbers]]"
-related_theories:
-  - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Comparative Policy Analysis]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Kerstin Martens]]"
 related_facts:
   - "[[OECD]]"
-  - "[[PISA]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cognitive Authority
@@ -130,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2004 — 国际组织权威的社会学奠基** 迈克尔·巴奈特（Michael Barnett）与玛莎·芬尼莫尔（Martha Finnemore）论证国际组织官僚机构能够基于理性和专业知识建构社会现实与行动规则，突破物质主义国际关系理论对权力的界定。
 > - **2012 — 认知权威构念的正式提出** 安德烈·布鲁姆（André Broome）与伦纳德·西布鲁克（Leonard Seabrooke）在《新政治经济学》系统提出国际组织的“认知权威”，分析其如何通过特定指标与测量视角规范成员国宏观政策。
 > - **2018 — 认知权威与全球教育治理的经验结合** 丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（[[Kerstin Martens]]）将认知权威引入全球教育政策分析，揭示经合组织如何依托 PISA 测验所赋予的认知裁判权重构主权国家教育体系。
@@ -168,7 +161,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 以经合组织及其 PISA 测评为例，揭示无强制法权的国际组织如何依托认知权威与数据硬事实施展软治理并重塑多国教育政策议程。

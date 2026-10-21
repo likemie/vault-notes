@@ -29,7 +29,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-09-10
+updated: 2026-10-22
 ---
 
 # Foreground IP
@@ -42,9 +42,7 @@ updated: 2026-09-10
 > [!quote|notitle]
 > "Foreground IP (FIP) means IP that is invented or authored in the performance of the project described in the Statement of Work, under this Agreement, (a) by University personnel solely in the laboratory of the Principal Investigator(s) named in this Agreement; (b) by Company personnel; or (c) jointly by such University and Company personnel."（p.279）
 
-## 核心要素
-
-> [!note|notitle]
+> [!note] 核心要素
 > FIP 的界定通常包含以下限制条件（pp.279–280）：
 
 - **工作范围限制** 仅涵盖协议工作范围内产生的 IP
@@ -52,9 +50,7 @@ updated: 2026-09-10
 - **时间限制** 在协议有效期内产生
 - **地点与资源考量** 当研究人员访问对方机构或使用对方设备时，访客协议（Visiting Scientist Agreement）可能覆盖由此产生的 IP 权利归属；[[University-Industry Collaboration|产学合作]]协议应明确这些情形下的所有权处理（p.280）
 
-## 所有权规则
-
-> [!info|notitle]
+> [!info] 所有权规则
 > 在美国[[University-Industry Collaboration\|产学合作]]实践中，FIP 的所有权通常遵循"发明人归属"原则：每位发明人或作者将其权利转让给雇主。因此（pp.279–280）：
 
 - 完全由大学人员创造的 FIP → 大学单独所有
@@ -75,9 +71,7 @@ updated: 2026-09-10
 > [!warning|notitle]
 > 授予任何专利权给"大实体"企业会使大学失去向美国专利商标局（United States Patent and Trademark Office, USPTO）支付"小实体"折扣费用的资格（p.282）。因此，大学通常要求产业方主动选择才能获得 NERF 许可——若企业不选择，大学可将同样 FIP 独家许可给其他公司，无需在第三方许可中附加"但书"排除条款。
 
-## 替代定价方案
-
-> [!example|notitle]
+> [!example] 替代定价方案
 > 为缓解产业方对许可定价"被绑架"的担忧，一些大学发展出菜单式选项。明尼苏达大学的 [[MN-IP Create]] 项目提供三种 FIP 权利方案（p.283）：
 
 | 选项 | 预付费 | 获得权利 | 额外条件 |
@@ -88,9 +82,7 @@ updated: 2026-09-10
 
 部分协议还包含"意外收获条款"——当许可产品销售额达到特定门槛时，企业向大学支付额外费用，保护大学不因特别有价值的 FIP 而低估其价值（pp.282–283）。
 
-## 相关案例／政策
-
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[Bayh-Dole Act of 1980]] — 美国大学能够保留联邦资助发明的所有权并以此为基础向产业方许可 FIP 的法律基础
 > - [[MN-IP Create]] 项目（明尼苏达大学）— 菜单式 FIP 定价的实务范例
 

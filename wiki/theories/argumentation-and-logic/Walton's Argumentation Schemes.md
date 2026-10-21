@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Walton's Argumentation Schemes
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -119,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 结构清晰的双人或小组口头辩论、法庭质证、社会性科学议题（[[Socioscientific Issues\|SSI]]）讨论中的论据检验。
 > - **不适合解释** 海量实证证据的统计合成过程（如[[Meta-analysis\|元分析]]、[[Systematic Review\|系统综述]]）；科学探究中复杂的野外数据采集条件与前沿仪器因果测量有效性。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 > - **常见误用** 容易被简化为脱离学科情境的提问打勾清单（Checklist），忽视了回答批判性问题本身必须依赖高深的学科实体知识。
@@ -137,7 +133,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将[[Douglas Walton\|沃尔顿]]论证型式与基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的科学论证评价方案进行理论对质，揭示其在[[Epistemology\|认识论]]正当性、大规模证据整合及分歧裁决机制上的核心局限。

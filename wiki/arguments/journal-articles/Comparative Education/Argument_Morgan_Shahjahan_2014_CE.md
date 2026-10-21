@@ -70,7 +70,7 @@ sources:
 part_of:
 status: completed
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Morgan_Shahjahan_2014_CE"
@@ -302,9 +302,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **[[OECD AHELO Project|AHELO]] 官方论证逻辑的深度批判分析受限** 系统解构[[OECD|经合组织]]针对 AHELO 政策合法化立项依据的官方修辞超出本篇篇幅与主题范围，相关[[Ideology Critique|意识形态批判]]留待关联专项研究深入探讨。（p.203）
 > - **未穷尽 AHELO 研制过程中的具体协商妥协细节** 受限于当前阶段可行性报告与解密文本的披露程度，分析未能完整追踪测评工具各命题利益方之间达成妥协的全部微观谈判记录，这一协商妥协历程有待后续专项考察深入挖掘。（p.202）
 > - **聚焦于[[Test Production|测验生产]]阶段的分析边界** 理论考察高度聚焦于测评工具的早期研发与制度成形过程，并未追踪 AHELO 可行性研究结束后的最终落地政策后果。（pp.193, 202）

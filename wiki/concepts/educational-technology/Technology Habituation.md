@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Technology Habituation
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 技术[[Habituation\|习惯化]]（Technology Habituation） | 传统科学赤字模型展示（[[Deficit Model of Science Communication\|Deficit Model]]） | 哲学德性习惯化（[[Habituation]]） |
 > |---|---|---|---|
 > | **核心假设** | 技术恐惧源于心理神秘化与操作排斥，唯有常态化浸润才能培育理性公民 | 公众怀疑源于知识匮乏，只需由专家自上而下科普单向灌输即可解决 | 德性通过反复机械训练成为无意识的服从与行为定势 |
@@ -110,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Habituation]] | 概念 | 本概念在教育技术与科学教育哲学层面的专门化发展。 |

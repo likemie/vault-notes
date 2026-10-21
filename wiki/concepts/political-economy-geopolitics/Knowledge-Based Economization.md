@@ -73,12 +73,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > [[Knowledge-Based Economy\|知识经济]]化（Knowledge-Based Economization）是 [[Sami Moisio]]（2018, 2022）提出的核心分析概念。其主张可以概括为一句话：**知识经济不是自然存在的经济形态，而是被持续制造出来的——通过政策[[Discourse|话语]]、空间规划、制度实践和主体形塑，一个社会不断将自身经济化为知识经济。**
 >
 > > "the knowledge economy as an actually existing economy as a continuous process of social and political production in all kinds of economic imaginaries as well as economic and non-economic practices."([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.25]])
@@ -169,17 +167,13 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 ---
 
-## 概念辨析
-
-> [!example|notitle] 概念辨析
+> [!example] 概念辨析
 > - **vs [[Knowledge-Based Economy]]** KBE 问知识经济是什么（实际存在的经济形态、其要素和演变）；知识经济化问知识经济如何被制造（横跨物质和[[Discourse|话语]]的持续生产过程）。前者是分析的对象实体，后者是分析这一实体如何被生产出来的方法论透镜。
 > - **vs 经济化 (Economization, Ҫalişkan & Callon)** 经济化泛指任何社会领域被经济逻辑重新框定的过程；知识经济化特指这一过程在高等教育、科研和创新领域的运作方式，并将其与[[Geopolitics|地缘政治]]竞争相链接。
 > - **vs 市场化／私有化** 市场化和私有化关注具体的经济制度变迁（引入市场机制、转移所有权）；知识经济化是一个更广义的概念，关注的是整个社会如何被重新想象和重新组织以服务于知识驱动增长的目标，市场化只是其中的工具之一。
 >
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - [[Cultural Political Economy\|文化政治经济学]]（CPE, Jessop & Sum）——为该概念提供了核心分析语言：特别是想象在资本积累体制中的构成性和履行性角色。
 > - [[Critical Geopolitics\|批判地缘政治学]]——空间和空间性的关系性重新理论化（空间性不限于领土性）（Kuus, 2017）为其提供了[[Epistemology\|认识论]]基础。
 > - [[Fixity-Motion Tension]]（Harvey, 1985/2001）——为[[Knowledge-Based Economy\|知识经济]]化的空间再领土化动态提供了结构性解释：资本积累既需要地方锚定（固着）又不断破坏既有空间配置（流动）。
@@ -187,17 +181,13 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 > - Ҫalişkan & Callon（2009）的 economization 概念——提供从经济到经济化过程的方法论转向。
 >
 
-## 应用领域
-
-> [!success|notitle] 应用领域
+> [!success] 应用领域
 > - 高等教育研究：分析大学如何被重构为全球[[Knowledge-Based Economy\|知识经济]]的关键基础设施——不仅是课程和治理的转变，还包括物理空间（如图书馆改造为 makerspace）的物质性转变。
 > - 比较教育：探讨不同国家和地区如何回应知识经济化的压力，以及这种回应如何差异化地重塑各国的教育系统。
 > - 教育政策分析：揭示政策想象（如 [[Hub and Flow Imaginaries]]）如何塑造教育系统的优先事项和资源分配。
 >
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 
 ### 知识经济化的历史机制：创新政策的演变
 
@@ -242,9 +232,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 > - **[[Spatial Sortings]]** 政策对创业生态系统和创新综合体的支持——被视为知识经济化的核心空间策略——实际上生产了民族国家的战略性城市化。公共和私人投资是这一结构过程的核心驱动因素。从[[Progressive Neoliberalism\|进步新自由主义]]的视角看，枢纽地区（大型城市创新综合体）拥有增长潜力，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]])。
 >
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - 该概念的分析焦点主要在西方高等教育语境，对非西方[[Knowledge-Based Economy\|知识经济]]化经验的分析尚不充分。
 > - 对知识经济化的批判性分析需要进一步关注其排斥性效应——批判社会科学的一个中心任务是审视这一极化政治经济过程的排斥效应([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.31, cited in Thompson & Parreira do Amaral, 2022, p.13]])。
 >

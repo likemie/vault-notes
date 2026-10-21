@@ -88,16 +88,14 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
   - "Amos, 2022"
   - "Amos (2022)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > Amos 的出发点是两个互相牵连的"未知[[Variable\|变量]]"：我们既不知道教育——包括其制度和组织形式——将变成什么样，也不确定生活在晚期现代性（late modernity）中到底意味着什么(p.53)。
 >
 > > 用一个比喻来理解：如果把现代教育比作一栋国家建造的大楼——楼层分明、课程按年级排好、毕业证书盖着国家印章——那么晚期现代性就像一场持续的地震。大楼的框架仍在，但地基在摇晃，新的建筑商（市场、科技公司、国际组织）正在大楼旁边搭建各种临时和永久的结构。我们不知道最终会变成什么样子——是一栋翻新的大楼，还是一片没有中心建筑的分散聚落。
@@ -107,23 +105,17 @@ citation_aliases:
 > 整章的论证结构可理解为三次对比：**过去 vs 现在**（从国家中心到市场中心）、**技术路径 A vs B（超人类主义 vs 后人类主义）**、**描述 vs 规范（正在发生什么 vs 我们希望教育走向哪里）**。
 >
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - [[Transitology]] — Cowen (1996, 2000) 的转型学概念是整章的分析骨架：教育在宏观社会转型中扮演"摧毁过去、重新定义未来"的象征性和重构性角色。Amos 以此判断：从国家中心到市场中心的教育关系转变，就是当下的 transitology(pp.53–54)
 > - [[World Society Theory]] — 援引 Ramirez and Boli (1987) 对大众教育政治建构的历史分析：18 世纪欧洲民族国家如何通过教育创造 membership（成员身份）——建立忠诚与归属的纽带，同时划定"谁属于我们、谁是外人"的边界(pp.54–55)。这一分析为理解"国家中心教育"提供了历史基线
 > - [[Autopoiesis]] — Maturana & Varela 的自创生系统理论被 Escobar 引入社会转型分析。Amos 将 autopoiesis（自我制造）与 Haraway 的 [[Sympoiesis]]（共同制造）并置对比，作为两种世界观在理论层面的映射(pp.61–63)
 >
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > 这是一篇规范性概念分析（normative conceptual analysis），不是经验研究。Amos 的方法是：选取一个[[Analytic Framework\|分析框架]]（[[Robert Cowen]] 的 [[Transitology]] 和双轴模型），用它来诊断两种对立的教育愿景，然后在论证的后半段从描述转向规范——为[[Posthumanism\|后人类主义]]方向提供论证。文中引用的 Escobar [[Transition Design\|转型设计]]十条原则等材料，用来支撑"关系性路径已有具体主张"这一论点。
 >
 
-## 论证结构
-
-> [!example|notitle] 论证结构
+> [!example] 论证结构
 > ### 第一步：建立历史基线——现代教育是怎么建起来的（§4.2）
 >
 > Amos 首先让我们理解"教育曾经是什么"，才能理解"教育正在变成什么"。
@@ -280,9 +272,7 @@ citation_aliases:
 > 她的最终立场可归结为一个研究和实践的议程：**我们需要一种新的教育理论**——不是关于"怎么教"（[[Didaktik]]）的技术理论，而是在更根本的层面回答"我们想怎样一起生活"（How do we want to live together?）的理论。这个理论的特征是：拒绝知识的区隔化组织、以 connectivity 和 response-ability 为组织原则、鼓励协作、对人类中心主义的意识形态持批判态度、提倡非二元思维和自我的非固化、关注物质和非物质的多元纠缠(pp.60, 64)。
 >
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > ### Cowen 双轴模型的诊断力
 >
 > Cowen (1996, pp.160–162) 的双轴模型精确地标示了现代教育→晚期现代教育的结构转型。关键转型参数：纵轴从 polis-driven 到 market-driven，核心价值从"教育机会平等"到"内部效率与外部效能"，合法性基础从"国家文化认同"到"劳动力分化"(p.55)。
@@ -312,9 +302,7 @@ citation_aliases:
 > Escobar and Haraway 没有将教育作为论述重点，因为在他们看来，大众教育的 DNA（竞争、增长、rugged individualism、西方理性作为唯一有效知识）本身就是问题的一部分。Amos 的诊断是：需要保留大众教育的公共问责性，但用 connectivity 和 [[Response-ability]] 作为组织原则重建其理论基础(pp.63–64)。
 >
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “像 Escobar et al.学者的诊断已经足够清晰：如果不发生重大改变，或者说如果不转变我们的思维方式，晚期现代性很可能不仅是人类的最后阶段，也是这个星球的最后阶段。”
 > (“像 Escobar et al.学者的诊断已经足够清晰：如果不发生重大改变，或者说如果不转变我们的思维方式，晚期现代性很可能不仅是人类的最后阶段，也是这个星球的最后阶段。”
 > ("The diagnosis of scholars like Escobar and Haraway is clear enough: Without a significant change, not to say transformation of our mind-set, late modernity may as well be the last stage not only for humanity, but for the planet."))(p.63)
@@ -324,9 +312,7 @@ citation_aliases:
 > ("What is needed then, is an educational theory that draws it all together. One that re-envisions public education with a non-compartmentalized organization of knowledge, that takes connectivity and [[Response-ability]], another term for caring as its organizing principle, one that encourages collaboration, is critical of ideologies that place the human being at the center of the universe, one that encourages non-dualistic thinking and the non-fixity of the self, pays attention to the multiple entanglements both material and non-material."))(p.64)
 >
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - Amos 自认 §4.5 [[Posthumanism\|后人类主义]]部分属于"高度推测"（highly speculative），Haraway and Escobar 均未将教育作为论述重点，教育与后人类主义的对接仍是开放问题(p.61)
 > - 章末的"新教育理论"呼吁是纲领性的而非实质性的——Amos 没有给出这种理论的具体轮廓，更接近一个研究议程的宣告
 > - 对[[Transhumanism\|超人类主义]]的批评集中于其排他性，但未深入讨论"哪些增强技术可能是有益且公平可及的"——批评有余，建设性替代方案的可行性论证不足

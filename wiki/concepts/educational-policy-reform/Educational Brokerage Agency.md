@@ -168,7 +168,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Educational Brokerage Agency
@@ -197,9 +197,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 教育中介机构（Educational Brokerage Agency） | [[Educational Evidence Clearinghouses\|教育证据清算中心]] | [[Boundary Spanner\|边界跨越者]] | [[Policy Brokerage\|政策中介]] |
 > |---|---|---|---|---|
 > | **组织形态** | 专门设立的正式机构、研究院或国家网络 | 专门化证据数据库与分级评级平台 | 兼具多重身份的个体行动者或非正式小组 | 跨国智库、国际组织或[[Policy Entrepreneur\|政策企业家]] |
@@ -374,9 +372,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000–2007 — 政策导向与早期制度化试点** 伴随[[OECD\|经合组织]]《教育中的证据：连接研究与政策》（OECD, 2007）发布，美、英、新西兰、丹麦、荷兰等多国建立早期教育中介机构（如 [[What Works Clearinghouse\|WWC]]、[[EPPI-Centre]]、[[Best Evidence Synthesis\|NZ BES]]、[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]、[[Kenniskamer]]），工作重心几乎完全聚焦于中央政策制定与高层宏观决策咨询（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 56–58, 64]]）。
 > - **2010–2015 — 实践转向与规模化工具包普及** 欧洲 EIPEE 项目扩展为纳入实践维度的 EIPPEE 网络（2011）；英国斥巨资设立 [[Education Endowment Foundation\|EEF]]（2011）并发布直面教师与校领导的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）；[[Knowledge Mediation\|知识中介]]服务重心全面由政策端向学校课堂与教师实践端大范围倾斜（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57–58]]）。
 > - **2016–2022 — 复杂系统治理、后真相挑战与元中介协作** 社交媒体时代算法信息茧房、对专业知识的不信任与后真相（Post-truth）语境带来“[[Evidence Backlash\|证据反弹]]”（Evidence Backlash）；澳大利亚 [[Australian Education Research Organisation\|AERO]] 等新一代机构相继成立；学者反思过度偏向实践导致政策责任缺位，强调重塑政策-实践双向循环，并在循证医学镜鉴下提出“中介的中介”（Brokering the Brokers）系统化治理构想（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58–60, 66–69]]）。
@@ -456,9 +452,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 从[[Philanthrocapitalism\|慈善资本主义]]与[[Network Governance\|网络治理]]视阈，系统解剖以 [[Social Ventures Australia\|SVA]] 为核心的异层[[Policy Network\|政策网络]]如何相继装配 [[Australian Schools Plus\|Schools Plus]]（筹款中介）、[[Evidence for Learning\|E4L]]（工具包试验中介）与 [[Australian Education Research Organisation\|AERO]]（国家证据中介）三大教育中介实体，论证现代国家向培育与特许私营中介的催化平台与市场缔造者的根本演进。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 梳理德语区五大[[Educational Science Communication\|教育科学传播]]与中介媒介谱系（学术期刊、指南读物、音视频播客、清算中介 [[Clearing House Unterricht\|CHU]]/[[Forschungsmonitor Schule\|FMS]] 与社交媒体），剖析乘数模式与直接触达的渠道权衡，提出将研究综述（Forschungssynthesen）纳入学科学术认可的制度倡议。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 总结德语区 [[Clearing House Unterricht]] 十年的二阶[[Knowledge Mediation\|知识中介]]经验，论证以[[Meta-analysis\|元分析]]为证据源、以[[Normal School|师范教育]]者为支点的中介模式可缓解研究-实践[[Research-Practice Gap|转移困境]]。

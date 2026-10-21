@@ -32,15 +32,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-08
+updated: 2026-10-22
 ---
 
 # John Dewey's 1928 Visit to the Soviet Union
 
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 1917 年 12 月 6 日后，美国在威尔逊总统领导下决定不承认布尔什维克领导的苏俄新政府——原因包括苏俄拒绝偿还沙皇时代债务和没收美国资产。此后三任总统延续了这一不承认政策，直到 1933 年[[Franklin D. Roosevelt|罗斯福总统]]任内才正式承认苏联([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.102]])。在两国无正式外交关系的十六年间，美国民间人士持续访问和书写苏联——Dewey 的 1928 年访问是其中最具影响力的一次。
 
 苏联方面，十月革命后教育面临重建任务。苏俄教育者（Shatskii、Lunacharsky 等）在革命前就已阅读和吸收 Dewey 的著作，将其作为教育改革的理论参照。Dewey 的 *School and Society* 和 *The School and the Child* 被翻译成俄文，被用作建设新苏联学校体系的指南([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–105]])。
@@ -67,9 +65,7 @@ updated: 2026-10-08
 
 ---
 
-## 影响与后果
-
-> [!success|notitle]
+> [!success] 影响与后果
 > - **对苏联教育者** 使 Shatskii、Kalashnikov 等人得以直接会见他们长期研读的理论家。Kalashnikov 在信中向 Dewey 报告正在编纂的百科全书中收录了 Dewey 的肖像和思想，并希望与 Dewey 保持通信([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.104]])。
 > - **对美国公众** Dewey 回国后在《新共和》(*New Republic*) 发表系列文章，后结集为 *Impressions of the Revolutionary World*。[[Sherwood Eddy]] 在 1931 年的 *The Challenge of Russia* 中大量引用 Dewey 的观察来说明苏联教育状况([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.102, 107]])。
 > - **对美国国务院** 助理国务卿 Castle 指示驻外外交官监控代表团的活动和印象。驻德外交官 Schurman 于 1928 年 7 月 26 日向国务卿 Kellogg 提交了总结报告([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.108–109]])。

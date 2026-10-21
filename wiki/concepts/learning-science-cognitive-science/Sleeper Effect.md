@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sleeper Effect
@@ -130,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1949–1953 — 传播学与社会心理学起源** 卡尔·霍夫兰（Carl I. Hovland）在研究二战军事宣传电影时首次发现“沉睡者效应”，指出低可[[Reliability\|信度]]信源的说服信息虽然即时不被接纳，但随着时间推移，个体遗忘了消极信源折扣线索，信息内容本身的接受度反而上升。
 > - **1980–1990 年代 — 认知心理学与记忆重构拓展** 沉睡效应被拓展至长时记忆整合与源监控错误领域，重点探讨记忆痕迹衰减速率差异与[[Metacognition\|元认知]]评估过程。
 > - **2010 年代 — [[Epistemology\|认识论]]干预中的内化理论提出** [[Epistemic Cognition\|认识论认知]]学者（如 Barzilai & Ka'adan, 2017）提出教育情境中的积极沉睡效应假说，主张高阶[[Epistemic Ideals\|认识论标准]]的改变需要经历真实学习环境中的自主协调与实践内化。
@@ -163,7 +161,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]因果干预[[Meta-analysis\|元分析]]，实证证实延时[[Pre-test and Post-test\|后测]]学业效应（$d = 0.966$）显著高于即时后测（$d = 0.451$），确立了教育情境下沉睡者效应的因果元分析证据。

@@ -9,10 +9,10 @@ aliases:
 summary: "索蒂里亚·格雷克与约阿基姆·林德格伦主编的比较教育研究确立的核心理论；分析现代国家在分权化与办学市场化后，放弃传统的直接行政命令，转而依托外部学校督导、专项质量审计、统一评估常模与公开评级，建立起新型的远程治理网络；督察人员被赋予知识中介与中继站功能，借助循证修辞与合规问责，促使学校在自主假象下达成对国家宏观目标的自我规训。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 13
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 9
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 subtype: educational-policy-reform
 tags:
   - theory/educational-policy-reform
@@ -22,16 +22,12 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[School Inspection]]"
-  - "[[Governing at a Distance]]"
   - "[[State Simplification]]"
   - "[[Forensic Style of Inspection]]"
   - "[[Juridification of Education]]"
-  - "[[Educational Brokerage Agency]]"
 related_theories:
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
-  - "[[Three Lenses of Evidence-Based Policy]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Governing at a Distance]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jenny Ozga]]"
@@ -43,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Governing by Inspection
@@ -124,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

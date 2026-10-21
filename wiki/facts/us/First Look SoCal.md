@@ -38,19 +38,15 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # First Look SoCal
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > First Look SoCal 是由[[Alliance for Southern California Innovation\|南加州创新联盟]]（Alliance for Southern California Innovation）自 2018 年起每年举办的前沿科技和生命科学衍生企业展示会。该联盟于 2017 年成立，First Look SoCal 是其运营时间最长的旗舰项目之一（pp.141, 144-145）。
 
-## 运作机制
-
-> [!abstract|notitle]
+> [!abstract] 运作机制
 > 每年从南加州地区十余所顶尖研究机构和大学中甄选 24 家衍生企业（Spin-outs），涵盖前沿科技（frontier technology）和生命科学（life science）两大领域。参与机构包括：加州大学洛杉矶分校（University of California at Los Angeles, UCLA）、南加州大学（University of Southern California, USC）、加州理工学院（California Institute of Technology, Caltech）、加州大学圣地亚哥分校（University of California at San Diego, UCSD）等（p.144）。
 
 > 甄选出的 24 家衍生企业向由投资者和企业领袖组成的现场观众进行路演（pitch）。所有入选企业都在寻找首轮私人投资（first round of private investment），并且——这一点尤为关键——几乎全都满足以下条件（pp.144-145）：

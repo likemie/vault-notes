@@ -37,19 +37,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # 1922 Educational System Reform
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 1912 年民国建立后沿用清末以日本学制为蓝本的教育体系，至 1919 年前后，在[[New Education Movement\|新教育运动]]和[[John Dewey\|杜威]]访华的刺激下，教育改革者要求彻底改造学制。1919 年全国教育联合会通过"废止教育宗旨、颁布教育本义"决议案，标志着旧体系的正式动摇([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 1922 年教育部颁布《学校系统改革案》("Decree on Reforming the Educational System")，以七项教育标准取代民国元年以社会需要为导向的"道德、实利、军国民教育"宗旨([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])。
 
 七项标准如下（"Decree" 1922, p.1，引自 Zhou & Westberg, 2024, p.617）：
@@ -62,9 +58,7 @@ updated: 2026-10-16
 6. 使教育易于普及（easy popularization）
 7. 多留各地方伸缩余地（local flexibility）
 
-## 时间线
-
-> [!note|notitle]
+> [!note] 时间线
 > - **1919** — 全国教育联合会通过"废止教育宗旨"决议案([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.617]])
 > - **1919–1922** — 教育改革者围绕新学制标准持续讨论，[[John Dewey\|杜威]]在教育部、北京美术学校、徐州等地就学制、教育目标、教材组织发表演讲([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.617]])
 > - **1922-10** — 教育部召集学制会议，通过决议并颁布《学校系统改革案》

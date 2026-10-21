@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Structural Adjustment Programs
@@ -192,9 +192,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s末 — 萌芽与试验** 伴随撒切尔与里根的新自由主义革命，并在智利皮诺切特军政府时期由“芝加哥男孩”率先在拉美开展结构调整与教育券私有化激进试验。
 > - **1980s — [[Washington Consensus|华盛顿共识]]与防卫性规训多边主义（“失去的十年”）** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 将结构调整方案推广至整个非洲与拉丁美洲，防卫性与规训性多边主义取代了战后[[UNESCO|联合国教科文组织]]倡导的再分配福利取向；[[Robert Arnove|阿诺夫]]（Arnove, 1980）前瞻性指出，国际金融机构与大型基金会所推行的紧缩革新实质上固化了既有的依附性国际与国内分层。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106, 110)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 > - **1990s — 灾难性后果、技术官僚包装与非政府组织异化** [[UNICEF|联合国儿童基金会]]（UNICEF）发布《调整具有人情面孔》（*Adjustment with a Human Face*），实证揭示 SAPs 导致全球南方初等识字率倒退、婴儿营养不良与公立学校大面积凋敝；[[Joel Samoff|萨莫夫]]（1992, 1993）系统揭露世界银行以[[Financial-Intellectual Complex|金融-智识复合体]]压制学术批评；同时，削减国家支出催生了社会服务向非政府组织的大规模外包，引发“[[Shadow State|影子国家]]”体制异化危机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 111–112)]]
@@ -231,9 +229,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -252,9 +248,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过[[Policy Conditionalities|贷款附加条件]]剥夺拉美国家的教育公共主权并加剧阶级分化。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用[[World-Systems Theory|世界体系分析]]透视结构调整方案的技术官僚成本效益[[Discourse|话语]]，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 实证对照结构调整市场化改革对受援国[[Education for All|全民教育]]（EFA）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。

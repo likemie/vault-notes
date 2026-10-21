@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Space of Equivalence
@@ -85,8 +85,6 @@ updated: 2026-10-21
 > - 不适用于教育本体论质性阐释 — 该概念揭示了度量建构的政治性，但其度量框架本身无法包容根植于特定文化历史背景中的差异化教育追求。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析
 > | 维度 | 本概念（等值空间） | [[Commensuration\|通约]] | [[Governing by Numbers\|数字治理]] |
@@ -169,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1998 — 统计社会学理论奠基** 法国学者[[Alain Desrosières|阿兰·德罗西埃]]在《大数的政治：统计推理的历史》（*The Politics of Large Numbers*）中系统阐释等值空间，确立了统计度量实质上是制度创设[[Champ|场域]]的核心论断。
 > - **1999 — 政府[[Governmentality|治理术]]与数字政治转向** [[Nikolas Rose|尼古拉斯·罗斯]]在《自由的诸种权力》（*Powers of Freedom*）中将[[Governing by Numbers|数字治理]]与等值空间的去政治化功能相结合，揭示量化指标在自由主义治理中的支配力量。
 > - **2000s 至今 — 全球教育政策与跨国比较应用** [[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、马丁·朗恩（Martin Lawn）与索蒂里亚·格雷克（Sotiria Grek）等学者将该概念引入比较教育学，剖析[[PISA]]如何构建跨国等值空间以支撑欧洲乃至全球教育治理空间的成型。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26)]]
@@ -206,8 +202,6 @@ updated: 2026-10-21
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 32)]] | 经合组织教育局 PISA 研发预算；欧盟里斯本战略指标对 OECD 数据的采信 | 跨国治理机构政策档案与深度关键知情人访谈 | 维持等值空间的财政与机构协同指标 | PISA 研发占用经合组织教育局约 30% 年度预算；欧盟里斯本战略教育指标报告中 50%–60% 数据来自 OECD（UOE 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证说明跨国等值空间的创设依赖持续高额机构预算与超国家数据采信协同维系 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合德罗西埃理论，剖析经合组织如何通过 PISA 自建数据确立跨国等值空间并以信度压倒构念效度。

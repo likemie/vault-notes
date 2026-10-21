@@ -9,38 +9,27 @@ aliases:
 summary: "政策科学与治理研究概念，指因专业权威、组织法定职责或经济收益而高度依赖特定政策工具，并致力于开发、维护和扩张该工具治理模式的行动者群体。在教育治理中，由国际组织、国家测评机构、商业测评企业与智库构成的支持群体，推动评估工具从抽样向全员持续扩张，并形成阻断体制退出的制度锁定效应。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 1
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/policy-instruments
   - theme/educational-governance
   - theme/accountability
   - theory/policy-instrumentation
-related_concepts:
-  - "[[Policy Instrumentation Theory]]"
-  - "[[Test-Based Accountability]]"
-  - "[[National Large-Scale Assessments]]"
-  - "[[Institutional Layering]]"
-  - "[[Path Dependence]]"
-  - "[[Data Infrastructure]]"
-  - "[[Steering at a Distance]]"
-related_theories:
-  - "[[Policy Instrumentation Theory]]"
-  - "[[Historical Institutionalism]]"
-related_methods:
-  - "[[Systematic Review]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[OECD]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Instrument Constituencies
@@ -136,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2014–2018 — 政策科学奠基阶段** 福斯与西蒙斯在技术哲学与治理研究中系统提出政策工具支持群体概念，用以刻画超越传统选民政治的技术治理论证网络。
 > - **2016 — 政策过程机制拓展** 贝兰德与豪利特将该概念整合进多源流与政策周期理论，确立了政策方案寻找问题的逆向动力学模型。
 > - **2019 — 教育治理与测评产业应用** 韦尔热等人将该分析框架应用于全球 158 篇教育治理文献的系统综述，揭示了全球教育改革中国家评估与商业外包所催生的新支持群体及其制度锁定后果。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251–252, 259–260)]]
@@ -159,8 +146,6 @@ updated: 2026-10-21
 > 分析有效性依赖于政策工具是否具备清晰的技术载体与市场化外包空间；当政策主要体现为价值理念宣示或零预算的规制条款时，工具支持群体的解释力将受到局限。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 系统梳理全球 158 篇教育治理文献，揭示跨国商业测评产业与行政官僚构成的工具支持群体如何推动国家统考单向扩张并阻断制度退出。

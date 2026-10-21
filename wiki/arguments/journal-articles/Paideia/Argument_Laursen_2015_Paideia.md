@@ -47,27 +47,21 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2015
 doi: ""
 citation_aliases:
   - "Laursen, 2015"
   - "Laursen (2015)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 文章追问：[[John Hattie]] 以及 [[Hilbert Meyer]]、[[Andreas Helmke]] 等以国际经验研究为基础的[[Effective Teaching\|有效教学]]综合，是否也适用于丹麦和其他北欧国家？这个问题被具体化为一个假设：教学质量和措施的学习效果是否依赖国家文化，因为教师和学生会在本地文化语境中解释这些措施(p.34)。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — Hattie 的[[Research Synthesis|研究综合]]是文章比较的核心对象；Laursen 特别关注其以英语文献、尤其美国研究为主的证据基础是否可迁移至丹麦(p.34)。
 > - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异假设：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、对话和弱教师控制的教学更适合丹麦学生(pp.36–37)。
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际[[Research Synthesis|研究综合]]对[[Effective Teaching\|有效教学]]的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 [[Science Foundation Ireland|SFI]] 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致(pp.35–40)。
 >
 > ### 国际综合的共同结论
@@ -98,9 +92,7 @@ citation_aliases:
 >
 > Hofstede 的丹麦文化画像原本会让人预期：开放、对话、教师控制较弱的教学在丹麦更有效。但 SFI 结果显示，这类教学主要有利于社会背景较强的学生；对社会背景较弱的学生来说，明确的教师领导和清晰目标更重要。Laursen 因此提出一个关键修正：Hofstede 所谓"丹麦国家文化"，可能更接近受教育中产阶级的文化，而不是所有丹麦学生共同拥有的文化(p.40)。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - 三个国际综合基本一致：[[Effective Teaching\|有效教学]]的核心质量是教师领导、清晰目标、个体适配、良好气氛和学生主动参与，而不是某种固定教学方法(pp.35–36)。
 > - 丹麦 [[Science Foundation Ireland|SFI]] 研究显示，明确一致的[[Classroom Management\|课堂管理]]、清晰目标、高要求和良好社会环境促进学生成绩；教师在班级团队中的合作也与更好结果相关(p.37)。
 > - 丹麦证据与国际研究一致地显示，弱社会背景学生特别依赖清晰教师领导与目标，而开放教学对这类学生较不利(p.38)。
@@ -109,18 +101,14 @@ citation_aliases:
 > - SFI 关于反馈的零效应不应被过度解释，因为相关问项只询问教师是否告诉学生其发展或表现如何，没有捕捉"下一步怎样改进"这一反馈核心(p.39)。
 > - Laursen 的最终区分是：语境当然重要，但学生社会背景这一语境比国家文化这一语境更能解释"什么有效"的差异(p.40)。
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “答案将是‘是’的，如果你想谨慎一点，也许可以加上‘总体而言’。”
 > ("Svaret bliver et 'ja', og hvis man vil være forsigtig, kan man eventuelt tilføje et 'i det store og hele'.")(p.40)
 >
 > > “作为学生社会背景被理解的情境非常重要。但是，作为国家文化被理解的情境，似乎并没有发挥什么重要作用……”
 > ("Konteksten, forstået som elevernes sociale baggrund, betyder i høj grad noget. Men konteksten, forstået som den nationale kultur, ser ikke ud til at spille nogen større rolle...")（作为学生社会背景的语境非常重要；但作为国家文化的语境似乎并不发挥同样大的作用。）
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - Laursen 承认自己没有展开方法论讨论，主要依赖 [[Science Foundation Ireland|SFI]] 报告，并说明学生学习主要以丹麦学校毕业考试成绩衡量，同时统计[[Societies of Control\|控制社会]]背景影响(p.37)。
 > - 国家文化假设被检验的证据基础有限：文章更多是比较既有[[Research Synthesis|研究综合]]与丹麦研究，而非直接进行跨国因果检验(pp.37–40)。
 > - 文章认为频繁测试的丹麦结果可能源于丹麦测试使用低于最佳水平，而美国等英语国家可能高于最佳水平；这一解释是作者提出的可能性，而非直接经验结论(p.39)。

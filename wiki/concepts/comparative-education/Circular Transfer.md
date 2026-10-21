@@ -27,23 +27,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Circular Transfer
 
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 循环转移是 Steiner-Khamsi (2000) 提出的概念，指某些教育思想或实践在出借者和借用者之间来回移动的过程。这一概念挑战了单向转移的假设，揭示了教育思想流通的复杂轨迹（引自 Beech & Artopoulos, 2015）。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 >
 > **双向流通**。循环转移描述了教育思想不是简单地从一个地点「转移」到另一个地点，而是在出借者和借用者之间来回移动。这挑战了静态的转移解释([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
 >
@@ -51,9 +47,7 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Policy Borrowing\|政策借用]] — 政策借用通常假设单向流动（从出借者到借用者）。循环转移揭示了双向和多向的流通模式。
 > - vs [[Recontextualization\|再脉络化]] — 再脉络化关注知识从生产场所到课程的转化过程中的变形。循环转移关注思想在不同地点之间的来回移动。
 > - vs [[Relational Space\|关系性空间]] — 关系性空间概念更进一步，认为思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的。
@@ -61,9 +55,7 @@ updated: 2026-10-20
 
 ---
 
-## 局限
-
-> [!warning|notitle]
+> [!warning] 局限
 > 循环转移概念仍然基于[[Geopolitics|地缘政治]]和领土性的空间定义，仍然假设存在清晰的「出借者」和「借用者」边界。从[[Relational Space\|关系性空间]]视角来看，教育思想不是在某个地点生产然后被转移的，而是在不同地点之间的沟通过程中被建构的([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
 
 ---

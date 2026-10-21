@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # National Assessment of Education Quality China 2007
@@ -75,9 +75,7 @@ updated: 2026-10-16
 
 ---
 
-## 争议与评论
-
-> [!note|notitle]
+> [!note] 争议与评论
 > 学界对中国在引入 [[PISA]] 标准与坚持国内教育传统之间的平衡存在不同评价。Xie et al.（2022）的体用框架分析指出：中国在操作层面采纳了 PISA 的技术工具（用），但保留了以国家课程标准和考试制度为核心的教育治理逻辑（体）。这种选择性采纳策略使中国既能与[[International Education\|国际教育]]评估体系对接，又能维护国内教育政策自主权。
 
 ---

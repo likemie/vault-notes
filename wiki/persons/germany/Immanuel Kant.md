@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Immanuel Kant
@@ -208,9 +208,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

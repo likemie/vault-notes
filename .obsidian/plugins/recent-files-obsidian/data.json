@@ -5,20 +5,76 @@
       "path": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
     },
     {
-      "basename": "template-fact-event",
-      "path": "wiki/templates/template-fact-event.md"
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
     },
     {
-      "basename": "template-fact-organization",
-      "path": "wiki/templates/template-fact-organization.md"
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
     },
     {
       "basename": "template-concept",
       "path": "wiki/templates/template-concept.md"
     },
     {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
+      "basename": "template-instrument",
+      "path": "wiki/templates/template-instrument.md"
+    },
+    {
+      "basename": "template-fact-program",
+      "path": "wiki/templates/template-fact-program.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "template-school",
+      "path": "wiki/templates/template-school.md"
+    },
+    {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
+    },
+    {
+      "basename": "VisibleLearning_MetaX_Full_factors",
+      "path": "wiki/MetaX/VisibleLearning_MetaX_Full_factors.md"
+    },
+    {
+      "basename": "template-method",
+      "path": "wiki/templates/template-method.md"
+    },
+    {
+      "basename": "TEMPLATE-SPEC",
+      "path": "wiki/templates/TEMPLATE-SPEC.md"
+    },
+    {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "Argument_Segerholm_Lindgren_Novak_2022_SJER",
+      "path": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
+    },
+    {
+      "basename": "INVALSI",
+      "path": "wiki/facts/italy/INVALSI.md"
+    },
+    {
+      "basename": "VisibleLearning_MetaX_Full",
+      "path": "wiki/MetaX/VisibleLearning_MetaX_Full.md"
+    },
+    {
+      "basename": "template-fact-organization",
+      "path": "wiki/templates/template-fact-organization.md"
     },
     {
       "basename": "Champ",
@@ -29,20 +85,12 @@
       "path": "wiki/facts/global/PISA.md"
     },
     {
-      "basename": "INVALSI",
-      "path": "wiki/facts/italy/INVALSI.md"
-    },
-    {
       "basename": "Argument_Verger_2019_Discourse",
       "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Verger_2019_Discourse.md"
     },
     {
       "basename": "Alto al SIMCE",
       "path": "wiki/facts/chile/Alto al SIMCE.md"
-    },
-    {
-      "basename": "Argument_Segerholm_Lindgren_Novak_2022_SJER",
-      "path": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
     },
     {
       "basename": "Argument_Beech_2015_GSE",
@@ -129,14 +177,6 @@
       "path": "wiki/index.md"
     },
     {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
-    },
-    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "1960 Bellagio Conference",
       "path": "wiki/facts/global/1960 Bellagio Conference.md"
-    },
-    {
-      "basename": "00_README_目录索引",
-      "path": "raw/比较教育学国际手册2009Cowen_txt/00_README_目录索引.md"
-    },
-    {
-      "basename": "Argument_Steiner-Khamsi_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
-    },
-    {
-      "basename": "Argument_Schulze-Cleven_2017_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Schulze-Cleven_2017_HE.md"
-    },
-    {
-      "basename": "Argument_Chou_Demiryol_2024_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Chou_Demiryol_2024_HE.md"
-    },
-    {
-      "basename": "Developmentalism",
-      "path": "wiki/concepts/political-economy-geopolitics/Developmentalism.md"
-    },
-    {
-      "basename": "Tianxia Heuristic",
-      "path": "wiki/theories/comparative-education/Tianxia Heuristic.md"
-    },
-    {
-      "basename": "Zhao Tingyang",
-      "path": "wiki/persons/china/Zhao Tingyang.md"
-    },
-    {
-      "basename": "Education as Growth",
-      "path": "wiki/concepts/educational-philosophy/Education as Growth.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "Argument_Bulag_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Bulag_2024_CE.md"
     }
   ],
   "omittedPaths": [],

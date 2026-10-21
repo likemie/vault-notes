@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Comprehensive Education
@@ -145,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950–1960 年代 — 战后欧洲综合中学运动萌发** 英国工党政府推行综合中学政策（Comprehensive Schools），瑞典率先完成 9 年一贯制综合基础学校改革，旨在打破 11 岁考试（[[Eleven-plus Exam|Eleven-plus]]）等早熟分流体制对工薪阶层的制度性淘汰。
 > - **1970 年代 — 南欧转型国家确立综合原则** 西班牙 1970 年《[[General Act of Education of 1970|普通教育法]]》（[[General Act of Education of 1970|LGE]]）在初等学段确立综合教育原则，将基础教育统一整合为 8 年。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 > - **1980–1990 年代 — 义务教育延长与均质化硬性推行** 西班牙 1990 年《[[Organic Law on the General Organization of the Education System 1990|教育体制总体组织法]]》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）将义务教育延长至 16 岁，并强制实施单一且相同的综合课程，取消 14 岁实质分流。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
@@ -180,9 +178,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较西班牙、英、法、德等国中等学制演进，批判西班牙 [[Organic Law on the General Organization of the Education System 1990|LOGSE]] 将均质综合中学硬性延展至 16 岁所导致的学业抗拒者泛滥与系统性平庸。
 
 ---

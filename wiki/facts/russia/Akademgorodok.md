@@ -30,15 +30,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Akademgorodok
 
 ---
-## 背景
 
-> [!info|notitle]
+> [!info] 背景
 > 1950年代，苏联领导人认识到了国内科研体系中缺乏水平联结和产学研协同的问题。赫鲁晓夫在访问美国之后，试图将美国[[Grandes Ecoles|大学校]]园模式中的产学研互动机制引入苏联。这一改革的直接产物就是在西伯利亚新西伯利亚（Novosibirsk）附近建造的 Akademgorodok（科学城）（p.9）。
 
 ---
@@ -70,14 +69,12 @@ updated: 2026-10-16
 > Original: The promising Siberian science city became just another cog in an increasingly creaky Soviet industrial machine.
 
 ---
-## 争议与评论
 
-> [!warning|notitle]
+> [!warning] 争议与评论
 > Akademgorodok 的失败也包含一个悖论：如果[[Chinese Academy of Sciences|科学院]]不是独立于中央指令经济发展，它会被[[State Vertical\|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在国家主义体制内进行局部改革的根本困境。
 
 ---
-## 相关概念／政策
 
-> [!example|notitle]
+> [!example] 相关概念／政策
 > - [[State Vertical]] — Akademgorodok 的失败是国家垂直结构压倒水平创新尝试的典型案例。
 > - [[Soviet Statism]] — Akademgorodok 的兴衰集中体现了国家主义体制对局部创新的收编和消解能力。

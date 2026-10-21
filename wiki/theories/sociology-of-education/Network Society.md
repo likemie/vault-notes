@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Network Society
@@ -207,18 +207,14 @@ updated: 2026-10-21
 
 ---
 
-## 认识论立场
-
-> [!info|notitle] [[Epistemic Stances|认识论立场]]
+> [!info] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** 社会现实的基本组织形态从孤立实体（国家、机构、阶级）转向**流动的关系网络**——“存在”（Being）被“连接”（Connecting）所重新定义。
 > - **分析焦点** 从“谁拥有什么静态资源”转向“谁连接了谁”以及“连接节点的[[Commensuration|通约]]规则与资本流动如何规定了行动者的可能性边界”。
 > - **对比较与[[International Education|国际教育]]研究的启示** 彻底打破以单个国家为天然[[Unit of Analysis|分析单位]]的[[Methodological Nationalism|方法论民族主义]]，追踪知识、政策概念、人才、资金与象征资本在跨国[[Space of Flows|流动空间]]中的生成、转译与落地变异。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 将网络社会理论应用于[[Geopolitics of Higher Education|高等教育地缘政治]]，分析跨国科研合作从封闭等级联盟向灵活项目网络的历史演变，以及学术、经济与外交多重理性的网络化交织。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]]与网络国家概念，分析[[Global Policy Space|全球政策空间]]中能力[[Discourse|话语]]的[[Floating Signifier|漂浮能指]]化及在阿根廷、巴西两国的层级转译。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合流动空间与[[Basil Bernstein|伯恩斯坦]][[Champ|场域]]理论，构建全球教育场域五位置网络模型，实证揭示国际组织过度简化与微观落地异化。

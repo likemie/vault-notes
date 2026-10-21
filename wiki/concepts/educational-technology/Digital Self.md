@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-20'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Digital Self
@@ -55,9 +55,7 @@ Thompson 等人（2022, p.225）强调"数字自我"这一术语的关键洞见�
 > [!quote|notitle]
 > "We use the term 'digital self' here in order to indicate that the data are associated to a particular self by way of subjectification. In other words: The collected data provide an attachment by suggesting that the numbers and indicators can be attributed to the respective individual: 'My OSA result was …'"([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.225]])
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 ### 数据的建构性而非反映性
 
@@ -96,17 +94,13 @@ Bächle（2016, p.188）用身份证（identity [[Document]]）的类比来说�
 - 这种操作支持着[[Societies of Control|控制社会]]的构成性特征——数据监控（dataveillance）——通过持续的追踪和分类来实现永不停息的调制
 - Deleuze 关于主体化通过调制实现的论断在此得到体现：学习平台和 [[Online Self-Assessment|OSA]] 收集并自动分析学生的兴趣、期望、动机和认知技能数据，将它们[[Assemblage|组装]]成特定的"画像"（picture）——这就是调制在主体层面的运作([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 
 - **反映论的谬误** 数字自我最常见的误用是将它当作"黑箱的透视"——好像数据提供了进入学生内心世界的窗口。但正如本章强调的，数据不是洞见而是建构([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
 - **数据质量与完整性** 数字自我是对人的"不充分复杂的碎片化"——只保留了数字建模所需的要素，可能系统性地遗漏不可量化的维度(Hartong, 2019, p.12; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
 - **预判性身份的伦理问题** 当数字自我在入学前就被用于标记"高风险"学生时，一个人在获得机会证明自己之前就已经被算法贴上了标签([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])
 
-## 相关案例
-
-> [!example|notitle]
+> [!example] 相关案例
 > - [[Online Self-Assessment]] — OSA 是数字自我建构的典型场景：潜在学生在入学前完成数字化[[Questionnaire\|问卷]]和测试，获得一个以数字形式呈现的"自我"，并被引导与[[Digital Optimum\|数字最优]]进行比较和优化
 > - [[Learning Analytics]] — 学习分析技术是数字自我建构的核心基础设施：通过收集和分析数字痕迹，持续更新和调制数字自我
 

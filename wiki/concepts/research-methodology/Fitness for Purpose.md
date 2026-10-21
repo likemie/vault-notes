@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Fitness for Purpose
@@ -233,9 +233,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，以目的适配性定义“适切研究证据”，瓦解单一等级制，确立适切证据与深思熟虑参与双核模型。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]] — 经典方法论著作《教育研究方法》（第 7 版），在第 6、7、17 与 28 章中系统奠定目的适配性原则，详述其在研究设计、三大情境战术、[[Effect Size\|效应量]]实质解释与数据分析定向中的全流程支配地位。
 > - Popay et al. (2006) — 奠基性系统综述方法学指南，确立复杂干预质评中以目的适配性整合定性与定量证据的[[Narrative Synthesis\|叙事综合]]框架。
@@ -243,9 +241,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|

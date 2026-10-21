@@ -33,15 +33,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Netherlands Top-sector Policy
 
 ---
-## 背景
 
-> [!info|notitle]
+> [!info] 背景
 > 荷兰的产业政策经历了长期演变：1945–1970 年积极产业政策 → 1970 年代转向防御性政策 → 1990 年代主要关注市场[[Liberalization|自由化]] → 2000 年代转向"强商业-强政府"（strong-business-strong-government）方法 → 2010 年后转向"顶级行业"（top-sector）和使命驱动政策。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
 
 ---
@@ -80,8 +79,7 @@ updated: 2026-10-16
 > 研发量（R&D volume）不是改善创新和经济结果的重要驱动力——[[Systems of Innovation\|创新系统]]的质量和强度，不仅生成新知识而且扩散和利用它，才是关键。政策评审还识别了改进方向：更紧密地将顶级行业政策与社会挑战连接、加强政府各部委之间的合作、挑战研究者和企业开发跨行业的社会挑战项目、加强政府作为创新"启动客户"的角色、改善与地区和应用科学大学的合作、简化治理并提高透明度。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 31-32)]]
 
 ---
-## 相关概念／政策
 
-> [!tip|notitle]
+> [!tip] 相关概念／政策
 > - [[Triple Helix]] — 该政策明确旨在让三重螺旋机制运转起来。
 > - [[Industrial Strategy Challenge Fund]] — 英国的产业战略挑战基金在逻辑上有类似之处，同为产业主导、挑战驱动的创新政策。

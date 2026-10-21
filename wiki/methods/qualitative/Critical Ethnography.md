@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critical Ethnography
@@ -63,9 +63,7 @@ updated: 2026-10-21
 >
 > *Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be.*
 
-## 关键构件与分析工具
-
-> [!entry-map|notitle]
+> [!entry-map] 关键构件与分析工具
 >
 > | 构件 | 类型 | 在方法中的功能 |
 > |:-----|:-----|:--------------|
@@ -99,17 +97,13 @@ updated: 2026-10-21
 > - **作为批判视角** 拒绝接受参与者对现状的定义为"事实"，将之视为权力关系中的位置性表达；暴露"中立"研究中的政治预设。
 > - **报告方式** 研究报告中须明确声明研究者的政治位置和伦理承诺，让被研究者参与结果的协商和确认，在研究发表中考虑参与者的利益和安全。
 
-## 适用边界
-
-> [!method-boundary|notitle] 适用边界
+> [!method-boundary] 适用边界
 > - **适合解释** 教育中的结构性不平等、权力与资源分配、[[Hidden Curriculum|隐性课程]]的政治功能、制度性歧视、教育政策的阶级/种族/性别效应。
 > - **谨慎使用** 当研究者的政治议程可能压倒参与者的真实声音时；当意识形态承诺可能预先决定研究发现时；在权力关系极不对称的环境中（如监狱、精神病院），研究者的"干预"可能带来参与者无法承受的代价。
 > - **不适合解释** 纯粹技术性的教学法效能问题；不以社会正义为目标的认知或心理过程研究。
 > - **常见误用** 将批判[[Ethnography\|民族志]]简单等同于"批评式写作"；未经过充分田野数据收集即跳入宏观理论解释（跳过 Carspecken 的前三个阶段）；以研究者自身政治议程替代参与者声音。
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1920s–1930s — 法兰克福学派起源**[[Critical Theory\|批判理论]]奠基，将社会科学的任务从描述社会转向批判和改变社会。
 > - **1970s–1980s — 批判教育研究的兴起**Bowles and Gintis (1976) 对资本主义美国学校教育的分析；Apple 对[[Hidden Curriculum|隐性课程]]的批判；Freire 的[[Critical Pedagogy|解放教育学]]。
 > - **1990s — 批判[[Ethnography\|民族志]]的系统化** Thomas (1993) 正式定义批判民族志为"批判理论在行动中"；Carspecken (1996) 提出五阶段操作模型。
@@ -134,7 +128,5 @@ updated: 2026-10-21
 > [!critique] 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]] — 章内指出批判民族志被批评为"研究者变成意识形态家而非理论家"，且研究者的解放议程可能与参与者自身利益不一致（pp. 447–448）。
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]] — 教材系统介绍批判[[Ethnography\|民族志]]的定义、五阶段模型和与[[Ideology Critique\|意识形态批判]]的关系（pp. 446–451）。

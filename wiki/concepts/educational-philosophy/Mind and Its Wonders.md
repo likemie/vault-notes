@@ -41,23 +41,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Mind and Its Wonders
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 心智及其惊奇（Mind and Its Wonders）是 Li 识别的西方学习传统第二主题——回答了"**什么在我们内部进行认知？**"（What in us does the knowing?）这一问题。西方传统将对知识的讨论聚焦于人类的认知能力本身——"人类的智识，心智，被理解为一种人类官能（faculty），后来在心理学中被称为能力（capacity），最近在神经科学中被称为大脑回路（brain circuitry）"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.26-27]])。
 
 Li 的核心判断是：无论西方思想家在心智的具体性质上有多大的分歧（先天 vs 经验、理性 vs 主观），他们对心智**作为一个话题所获得的关注之巨和所揭示的功能之多**，本身就是西方学习传统的独特标志([[Argument_Li_2012_Cambridge|Li, 2012, p.30]])。
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > 西方对心智的讨论跨越 2,500 年，形成了以下主要立场：
 
 ### 先天论传统（Nativist）
@@ -81,9 +77,7 @@ Li 的核心判断是：无论西方思想家在心智的具体性质上有多�
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 从这段历史中提炼出几个关键判断：
 
 1. **心智是西方认知的焦点** 在西方传统中，关注焦点在"什么在我们内部进行认知"——而非在儒家传统中"我应该成为什么样的人"([[Argument_Li_2012_Cambridge|Li, 2012, pp.26-27]])
@@ -93,16 +87,12 @@ Li 的核心判断是：无论西方思想家在心智的具体性质上有多�
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **心智 vs [[Self-Cultivation\|修身]]** 西方传统追问"心智如何获得确定知识？"，儒家传统追问"一个人如何通过修身成为更好的人？"。前者将认知主体视为心智器官的承载者，后者将认知主体视为关系网络中需要不断完善的整全人格([[Argument_Li_2012_Cambridge\|Li, 2012, pp.26-31, 36-38]])。
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Certainty of Knowledge]] — 心智是获得确定性知识的工具——两者是西方传统的"目标"与"手段"
 > - [[Western Learner]] — 西方学习者的第一个特征是"拥有好的心智并善加使用"
 

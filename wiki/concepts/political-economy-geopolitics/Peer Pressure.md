@@ -7,10 +7,10 @@ aliases:
 summary: "指主权国家或公共治理主体在面对同侪组织、多边共同体或国际基准的横向对标、集体审议与声誉评价时所感受到的规范性合规压力与心理紧迫感；在跨国教育政策中，它依托绩效指标、联赛排名与公开问责，将技术比较转化为国内政治焦虑与改革倒逼动力，充当远处掌舵的核心动力机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - governance
   - peer-pressure
@@ -20,27 +20,15 @@ tags:
   - international-organizations
 related_concepts:
   - "[[Multilateral Surveillance]]"
-  - "[[Champ]]"
-  - "[[Soft Power]]"
   - "[[Policy Conditionalities]]"
-  - "[[Global Universities Rankings]]"
   - "[[New Public Management]]"
-  - "[[Policy Borrowing]]"
-  - "[[Discourse]]"
-  - "[[Reflexivity]]"
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Cognitive Authority]]"
-  - "[[Policy Brokerage]]"
-related_theories:
-  - "[[Governing at a Distance]]"
-related_methods:
-  - "[[Peer Debriefing]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
 related_facts:
-  - "[[OECD]]"
   - "[[PISA]]"
   - "[[World Education Indicators]]"
 related_arguments:
@@ -49,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peer Pressure
@@ -153,8 +141,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变
 > - **1960s–1980s — 外交与专家层面的闭门同行审议** 经合组织早期教育委员会开展的同行互评主要面向各国内部高级政策官员与学者，侧重经验共享与建设性政策建议，同行压力呈现出低烈度与协商性特征。
 > - **1990s — 新公共管理与透明度话语规范化** 伴随新公共管理与政府绩效评估思潮普及，同行压力被正式理论化为提高政策透明度、打破部门垄断与倒逼行政自我批判的制度手段（OECD, 1998）。
@@ -189,8 +175,6 @@ updated: 2026-10-21
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018, pp. 270–276)]] | 经合组织教育与技能司及主要成员国（德、英、美、日等）跨国教育政策协调 | 历史制度主义政策分析与过程追踪 | 跨国可比硬事实生产、同行互评网络与软治理政策采纳 | 证实经合组织通过 PISA、TALIS 等测评将复杂的教育政治转化为技术性数据，借助同行评议与舆论借力促成多国采纳其标准化政策建议 | 质性深度饱和分析 | 揭示缺乏法律强制力的国际组织如何将同行压力与客观事实中介相结合实现远处指导 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 阐明经合组织如何利用联赛排名激化同行压力，将外部横向比较转化为民族国家内部深层的教育政策恐慌与改革动力。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Multiple Institution Attendance
@@ -82,9 +82,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **跨校学分积累（Cross-Institutional Credit Accumulation）** 学生在两个或更多不同独立法人高校修读并试图拼接学分。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 > - **转学制度摩擦（Transfer Friction）** 接收高校对原就读高校课程大纲的严苛审查，导致大量学分无法计入主修专业，形成学分流失。
 > - **系统效率损耗判定（Systemic Efficiency Deficit）** 高等教育绩效拨款框架将延长修业年限与降低按时毕业率视作资源浪费。
@@ -145,7 +143,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示美国高等教育将[[Student Mobility|学生流动]]问题化为“多机构就读”并作为系统效率损耗的政策建构，对比欧洲一体化对流动的制度褒扬。

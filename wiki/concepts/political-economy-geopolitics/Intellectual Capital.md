@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Intellectual Capital
@@ -182,9 +182,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1841 — [[Friedrich List|李斯特]]创立精神/智力资本[[Paradigm|范式]]** 在《政治经济学的国民体系》中正式界定 Mental / Intellectual Capital，用于批判古典自由放任政策并指导德国工业追赶。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
 > - **1940s–1960s — [[Technological Republic|技术共和国]]时期的国家战时与战略动员** 范内瓦·布什（[[Vannevar Bush]]）与 J. C. R. 利克莱德（[[J. C. R. Licklider]]）通过 [[Office of Scientific Research and Development|OSRD]] 与 [[DARPA]] 将顶尖科学家的智力资本直接接入国家重大安全与计算架构使命，奠定现代计算工业基石。
 > - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[New Growth Theory|内生增长理论]]复兴** 随着以微电子为代表的新技术范式扩散，新增长理论将知识外溢纳入生产函数，演化经济学家将其重新界定为[[National Innovation System|国家创新系统]]的认知底座。
@@ -215,17 +213,13 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 溯源[[Friedrich List|李斯特]]智力资本理论，结合德、美、日、韩等国追赶历程，论证国家教育与技术学习网络是不可替代的增长引擎。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 剖析硅谷技术生态从冷战国家战略合作向消费主义撤退的历史演变，警示顶尖工程智力资本脱离国家核心使命的系统性风险。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|

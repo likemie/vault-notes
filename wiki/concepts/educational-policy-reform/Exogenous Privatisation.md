@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Exogenous Privatisation
@@ -210,9 +210,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:-----|
@@ -229,8 +227,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 全景实证审计新西兰外生私有化的制度演变，首创性提出“教育政策制定权私有化”与双层企业法人避税审计机制。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 阐明外生私有化与合同外包如何在新自由主义国家作为排他性阶级策略运作。

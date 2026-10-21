@@ -143,7 +143,7 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-06-30
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critical Thinking
@@ -485,9 +485,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Man-Computer Symbiosis|人机协同]][[Scientific Explanation|科学解释]]与[[Epistemological Vigilance|认识论警觉]]** [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 运用[[Multimodal Discourse Analysis|多模态话语分析]]追踪高中生与 [[Generative Artificial Intelligence|GenAI]] 协同建构科学解释的认知过程，揭示双轨支架对批判性审验与证据[[Triangulation|三角互证]]的激活机制。
 > - **显性教学与学校实施** [[Argument_Cole_2015_AJE|Cole et al. (2015)]] 以 [[IB Diploma Programme|IB DP]] 的 ToK 为案例，结合量表、学校案例和毕业生比较，检验显性独立课程及其实施条件。
 > - **课程评估的[[Construct Validity|构念效度]]** [[Argument_Hughes_2014_JRIE|Hughes (2014)]] 用多套批判性思维分类框架审查 ToK 目标、评估目标和评分描述符的[[Construct|构念]]覆盖。

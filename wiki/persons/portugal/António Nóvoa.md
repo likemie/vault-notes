@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # António Nóvoa
@@ -87,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1954** 出生于葡萄牙瓦隆古（Valongo）。
 > - **1982** 获得瑞士日内瓦大学（University of Geneva）教育学博士学位，受[[Jean Piaget|让·皮亚杰]]与当代欧洲批判社会学思潮熏陶。
 > - **1986** 获得法国巴黎第四大学（索邦大学）现代史博士学位，确立了跨学科历史与比较研究进路。
@@ -143,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作学者** Martin Lawn（合著合编 *Fabricating Europe*，确立欧洲空间批判[[Paradigm|范式]]）；[[Jean Piaget|让·皮亚杰]]（早期日内瓦学术渊源）。
 > - **理论对话与引用学者**
 >   - Noah W. Sobe 与 Roland Fischer (2009) 引用其空间与[[Discourse Analysis|话语分析]]，批判性解构现代教育史中的学生跨国流动修辞；
@@ -164,9 +160,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|

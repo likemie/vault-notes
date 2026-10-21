@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critical Pedagogy
@@ -222,9 +222,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960–1970s — 解放实践奠基期** [[Paulo Freire|保罗·弗莱雷]]在巴西贫困农村扫盲运动中践行批判意识培养，1968/1972 年出版《被压迫者教育学》，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]），确立批判教育学的理论基石。
 > - **1980–1990s — 北美理论建构与文化政治转向** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、彼得·麦克拉伦（Peter McLaren）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）等学者将法兰克福学派[[Critical Theory|批判理论]]引入北美课程领域，提出可能性的语言与抵制理论，将学校定义为阶级、种族与性别[[Discourse|话语]]争夺的文化政治[[Champ|场域]]。
 > - **2000–2010s — 全球化反思、[[Geopolitics of Knowledge|知识地缘政治]]与跨国再生产批判** 批判教育学进一步与[[Post-colonial Theory|后殖民理论]]、全球南方视角以及[[Geopolitics of Knowledge|知识地缘政治]]交织；学者运用储蓄式教育概念剖析[[Forced Knowledge Transfer|强制知识转移]]与跨国[[Policy Borrowing|政策借用]]中的隐性权力梯度（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）；拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将吉鲁与弗莱雷的再生产批判引入全球化教育响应研究，确立了跨国解放实践[[Paradigm|范式]]。
@@ -270,9 +268,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育学作为[[Jürgen Habermas|哈贝马斯]]解放兴趣在课程论中的体现，系统梳理活经验、可能性的语言与文化政治[[Champ|场域]]。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将[[Paulo Freire|弗莱雷]][[Banking Model of Education|储蓄式教育]]模型拓展为[[Geopolitics of Knowledge|知识地缘政治]]分析工具，揭示殖民教育与[[Forced Knowledge Transfer|强制知识转移]]中不可化约的权力不对等。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统阐明弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。

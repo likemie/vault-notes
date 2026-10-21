@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Royal University of Phnom Penh
@@ -122,9 +122,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Elite Overproduction
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 精英生产过剩（Elite Overproduction） | 博士科研廉价劳动力机制 | 心智产品化（[[Productization of the Mind\|Productization of the Mind]]） |
 > |---|---|---|---|
 > | **分析重点** | 社会结构中候选精英供求失衡引发的政治不稳定与行为异化 | 学术界内部依托研究生低成本维持科研流水线的剥削机制 | 顶尖文凭持有者将智力降格为符合商业市场套利标准的工具 |
@@ -82,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **文化资质与财富现实的认知失调（Cognitive Dissonance of Cultural vs Economic Capital）** 拥有顶尖名校的学历和文化眼界，却缺乏与之匹配的银行账户余额与实质社会继承权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 107)]]
 > - **不公正对待感与失败借口（Perceived Injustice and Alibi for Failure）** 援引[[Talcott Parsons|塔尔科特·帕森斯]]（[[Talcott Parsons]]）的论断，未获晋升的精英倾向于将自身困境归咎于社会不公，以此作为掩盖个人失败的心理防御机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
 > - **技术创新的内卷化转向（Inward-Facing Technology Construction）** 无法在国家与全球战略舞台施展抱负，转而利用代码构建为同温层中产阶级消除生活摩擦的消费应用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 108)]]
@@ -125,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000s–2010s — 历史动态学理论奠基** [[Peter Turchin|彼得·图尔钦]]（[[Peter Turchin]]）在研究古罗马、明代中国及近代欧美周期性崩溃时提出结构人口学模型，将精英生产过剩确立为预测国家动荡的核心指标。
 > - **2023 — 《末日时代》与当代欧美社会诊断** 图尔钦出版《末日时代》（*End Times*），将该概念全面应用于分析当代美国名校扩张、文凭阶层膨胀与政治极化。
 > - **2025 — 引入技术哲学与硅谷产业批判** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将该概念引入对[[Consumer Internet|消费互联网]]与[[Lifestyle Technology|生活方式科技]]的批判，解释工程师阶层的精神空洞与野心收缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
@@ -146,7 +140,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 援引[[Peter Turchin|图尔钦]]的精英生产过剩论与[[Talcott Parsons|帕森斯]]的怨恨心理学，深刻揭示硅谷年轻一代工程师为何沉溺于[[Lifestyle Technology|生活方式科技]]与消费软件研发，从而系统削弱了国家的宏大工程创新能力。

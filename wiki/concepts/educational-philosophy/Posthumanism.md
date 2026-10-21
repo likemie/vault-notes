@@ -40,12 +40,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 后人类主义（Posthumanism）在 [[Argument_Amos_2022_Springer\|Amos (2022)]] 的使用中特指以 Haraway and Escobar 为代表的关系性思想路径：将人类从宇宙中心的位置彻底移开，强调人与非人（其他物种、技术、物质环境）之间的根本性相互依存和共同制造。
 >
 > > 例：[[Transhumanism\|超人类主义]]问："我们如何让人类更强、更聪明、活得更久？"后人类主义问："我们如何与其他物种、与地球、与彼此一起好好活、好好死？"前者以人类为中心向外扩展，后者从关系网络出发把人类放回其中。
@@ -53,16 +51,12 @@ updated: 2026-10-21
 > Amos 将后人类主义与超人类主义并置为晚期现代性的两种对立教育愿景：超人类主义是高度现代性的激进延续（不朽、理性、自主、自我设计），后人类主义则与现代性的核心假设——人类中心、个体主义、线性进步——决裂([[Argument_Amos_2022_Springer\|Amos, 2022, pp.58–63]])。
 >
 
-## 概念辨析
-
-> [!example|notitle] 概念辨析
+> [!example] 概念辨析
 > - vs [[Transhumanism]] — 超人类主义以人类为中心的增强和优化为目标（"人保持为人，但超越自身"），后人类主义彻底去中心化人类。超人类主义在分层和竞争中繁荣，后人类主义对区隔和地位崇拜没有兴趣。两者的根本分歧不是技术问题，而是关于"做一个人意味着什么"的立场分歧([[Argument_Amos_2022_Springer\|Amos, 2022, pp.58–63]])
 > - vs 传统环保主义或动物权利 — 后人类主义不是"人类应该保护自然"（这仍然以人类为道德主体），而是承认人类只是巨大的物质循环——死亡与重生——中的一个环节。Haraway 的生活伴侣 Rusten Hogness 创造了 **[[Humosity]]**（腐殖性）一词来捕捉这种去中心化的感知：人类是腐殖质的一部分，不是站在腐殖质之上的管理者([[Argument_Amos_2022_Springer\|Amos, 2022, p.62]])
 >
 
-## 概念演变
-
-> [!note-|notitle] 概念演变
+> [!note-] 概念演变
 > Amos 追溯了两条后人类主义的当代思想脉络([[Argument_Amos_2022_Springer\|Amos, 2022, pp.60–63]])：
 >
 > - **Haraway 脉络（2016）** 以 *Staying with the Trouble* 为代表，核心概念为 [[Sympoiesis]]（共同制造）、[[Response-ability]]（[[Response-ability\|回应能力]]）、SF（线绳图案／[[Haraway's SF\|推测性编造]]／科幻／迄今）。立场是"后救赎、后乐观"——彻底关注当下，"可能没有未来，但一定有一个丰富的此时此地"
@@ -72,9 +66,7 @@ updated: 2026-10-21
 > Amos 指出这三条脉络共享对全球化的怀疑、对后增长的追求、以及对人类中心主义的根本批判。它们与非洲 [[Ubuntu]]（"我存在，因为我们存在"）和拉丁美洲 [[Buen Vivir]]（与自然和共同体和谐共处的"好好生活"）具有"家族相似性"([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])。
 >
 
-## 核心要素
-
-> [!abstract|notitle] 核心要素
+> [!abstract] 核心要素
 > - **去人类中心** 彻底拒绝"人是万物的尺度"。在 Haraway 的世界里，人类只是巨大循环过程中的一个物种([[Argument_Amos_2022_Springer\|Amos, 2022, p.62]])
 > - **关系性[[Ontology\|本体论]]** 存在不是个体的属性，而是在与他者的关系中构成。"与他人一起、[[Humility\|谦逊]]地、有[[Response-ability\|回应能力]]地存在"是后人类主义的基本伦理姿态
 > - **[[Sympoiesis]] > [[Autopoiesis]]** Haraway 以"共同制造"取代 Maturana & Varela 的"自我制造"，认为后者过度强调自我指涉性而忽视相互依存([[Argument_Amos_2022_Springer\|Amos, 2022, pp.62–63]])
@@ -83,24 +75,18 @@ updated: 2026-10-21
 > - **非人类行动者的能动性**[[Actor-Network Theory\|行动者网络理论]]基于后人类主义的对称性原则，假定非人类物体具有能动性（agency），不应与人类区别对待。Latour (2004) 提出「没有非人类，人类连一分钟都撑不过」。物体施加力量、产生吸引或排斥，与其他物体和人类结合并在过程中发生变化。在教育研究中，教科书、电脑、软件等非人类行动者被纳入分析，展示它们如何在课堂中施加权力([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])
 >
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - [[Autopoiesis]] — Maturana & Varela 的自创生理论被 Escobar 引入社会转型分析，但 Haraway 以 [[Sympoiesis]] 对其提出批评
 > - [[Sympoiesis]] — Haraway 的替代概念，是后人类主义伦理的核心理论表达
 >
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - **教育的缺失** Haraway and Escobar 都没有将教育作为论述重点。Amos 给出两个解释：(1) 大众教育——无论国家中心还是市场中心——的 DNA（竞争、增长、rugged individualism）本身就是问题的一部分；(2) 他们似乎将社会化和教育视为社区转型的自动结果([[Argument_Amos_2022_Springer\|Amos, 2022, p.63]])
 > - **大众教育的不可替代性** Amos 同时也指出，公共教育是现代性的重大成就——它创造了一个公共领域，在其中教什么、怎么教是公开可见、可批评、可修订的。如果教育完全变成社区内部的事务，"教育公平"的讨论也将随之消失([[Argument_Amos_2022_Springer\|Amos, 2022, pp.63–64]])
 > - **学术性与可行性的鸿沟** 后人类主义的愿景（小而美的共同体、学习即模仿和古代学园模式）与当今大众高等教育系统的规模和政治生态之间存在巨大的操作鸿沟。Amos 的回应是呼吁一种"新教育理论"，但未给出具体轮廓([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])
 >
 
-## 相关案例／政策
-
-> [!example|notitle] 相关案例／政策
+> [!example] 相关案例／政策
 > - Haraway 在 *Staying with the Trouble* 末章设想的社区——以 SF（讲故事和线绳图案）为核心活动，涉及人类和非人类行动者的跨物种联结——可视为后人类主义教育的一个思想实验([[Argument_Amos_2022_Springer\|Amos, 2022, pp.62–63]])
 >
 

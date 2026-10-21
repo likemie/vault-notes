@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cognitive Apprenticeship
@@ -115,7 +115,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，证实真实任务、对话研讨与导师示范三维协同对[[Critical Thinking\|批判性思维]]技能的最强促进效应（$g+ = 0.57$）。

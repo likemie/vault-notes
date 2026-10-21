@@ -51,7 +51,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Lateral Thinking
@@ -239,9 +239,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]确立包含侧向思维谜题的思维训练（$g = 0.762$）的高促学效能，并解析其打破认知偏见与重塑心智敏捷性的机制。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]理论述评中重点讨论[[Edward de Bono\|爱德华·德·博诺]]六顶思考帽与水平思考对认知加工网络的调控意义。
 > - de Bono (1967, 1970) — 系统奠定侧向思维术语、自组织心智模型与四大操作工具的经典理论专著。
@@ -249,9 +247,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

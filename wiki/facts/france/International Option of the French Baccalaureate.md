@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # International Option of the French Baccalaureate
 
@@ -62,9 +62,7 @@ updated: 2026-10-16
 > [!tension] 双文化路径不能覆盖多文化流动
 > OIB 把国家教育与伙伴国文化连接起来，适合能够围绕两种文化组织课程的学校。对教育经历跨越多个国家、校内有数十个国籍的学生，双边选项会重新制造分组，不能替代共同国际资格。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 190–191)]]
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Qualification Recognition]] | Concept | OIB 借国家资格同时取得大学和专业效力。 |

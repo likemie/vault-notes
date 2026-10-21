@@ -8,9 +8,9 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 86
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 91
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/epistemology
@@ -42,6 +42,9 @@ related_concepts:
   - "[[Protean Episteme]]"
   - "[[Empiricism]]"
   - "[[Variable]]"
+  - "[[Lifelong Learning]]"
+  - "[[Self-Efficacy]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Falsification]]"
   - "[[Interpretivism]]"
@@ -87,6 +90,8 @@ related_persons:
   - "[[Immanuel Wallerstein]]"
   - "[[Andreas Kazamias]]"
   - "[[Bernard Barber]]"
+  - "[[Jean Piaget]]"
+  - "[[Basil Bernstein]]"
   - "[[Jürgen Habermas]]"
   - "[[Plato]]"
   - "[[René Descartes]]"
@@ -95,25 +100,25 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Deanna Kuhn]]"
 related_facts:
-  - "[[Swedish Schools Inspectorate]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemology
@@ -289,8 +294,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变
 > - **古希腊奠基时期 — 确证真信念与理性求索** [[Plato|柏拉图]]在《泰阿泰德篇》（Theaetetus）中提出知识的经典[[Construct|构念]]——“确证的真信念”（Justified True Belief, JTB），开启西方认识论探究[[Source of Knowledge|知识来源]]与真理标准的哲学传统。
 > - **近代哲学革命 — 理性主义与[[Empiricism|经验主义]]论战** 勒内·[[René Descartes|笛卡尔]]（René Descartes）以理性演绎为基石，[[John Locke|约翰·洛克]]（John Locke）与[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）以经验归纳与白板说立论，系统确立认识论在哲学探究中的枢纽地位。
@@ -346,8 +349,6 @@ updated: 2026-10-21
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] | 欧洲教育空间治理与 OECD PISA 测评机制（英国、德国、芬兰案例） | 政策社会学与比较案例研究（专家深度访谈与政策文献分析） | 评价认识论取向（课程知识再现 vs 生活情境通用能力）、学生非认知自我规制指标 | 揭示 OECD 确立脱离国家具体课程大纲的通用胜任力评价标准，将 15 岁学生的学习动机、自我效能感与学习策略等非认知维度制度化为衡量教育有效性的关键认识论指标 | — | 质性政策社会学分析，揭示国际组织指标建构背后的认识论范式更替机制 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 在教育研究方法学经典中确立认识论在探究设计阶梯中的核心支柱地位，系统剖析[[Positivism|实证主义]]、[[Interpretive Paradigm|诠释范式]]、[[Critical Theory|批判理论]]与[[Pragmatic Paradigm|实用主义]][[Mixed Methods Research|混合方法]]的认识论分野。

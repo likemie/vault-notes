@@ -24,7 +24,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Military-Industrial Black Hole
@@ -63,9 +63,8 @@ updated: 2026-10-20
 > - [[State Vertical]] — 军工系统的封闭性是国家垂直结构在军事领域的极端表现。
 
 ---
-## 实证发现
 
-> [!stat-cards|notitle]-
+> [!stat-cards]- 实证发现
 > - **2/3** 1980年代军工占苏联工业生产的比例。
 > - **15–25%** 军工占苏联 GNP 的比例，同期美峰值 6.6%。
 > - **≈ 10,000** 仅反导弹研究所拥有的科学家数量。

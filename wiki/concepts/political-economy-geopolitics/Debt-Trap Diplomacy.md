@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Debt-Trap Diplomacy
@@ -144,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2017–2019 — 迷因发酵期** 斯里兰卡汉班托塔港等跨国基建项目被西方媒体政治化引申，“债务陷阱外交”迅速成为西方战略界抨击新兴大国海外投资的标准标签。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 189)]]
 > - **2020 — 实证解构与批判期** 发展经济学与政治学学者展开跨国实证调查，系统证明该指控缺乏数据支持，指明其为政治迷因。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 189)]]
 > - **2023 — 倡议务实转型期** 债权国在总结经验的基础上主动调整战略，宣布未来十年重点转向高标准、惠民生且环境友好的“小而美”务实项目，积极化解共建国债务顾虑。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 194)]]
@@ -176,7 +174,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 运用叙事[[Case Study|案例研究]]揭示中国行业特色大学在海外重点基建项目中开展定向人才培养的微观实证，以阿马蒂亚·森的[[Capability Approach|能力进路]]与大学非商业独立性系统解构了债务陷阱外交论调。

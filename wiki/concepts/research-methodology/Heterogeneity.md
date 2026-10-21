@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并指导调节变量分析，在复杂系统与混合方法中揭示均值遮蔽的质性动因多样性，并在教学实验中解构干预构念子维度与学习者认知背景的异质效应；在批判视角下聚焦粗暴算术平均与非线性曲线截断对教育生态效度与实践异质性的隐匿。"
 type: concept
 domain: "research-methodology"
-related_count: 81
+related_count: 80
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Emergence]]"
   - "[[Positivism]]"
-  - "[[Scientific Literacy]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Pluralism]]"
@@ -93,11 +92,11 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[OECD]]"
@@ -106,7 +105,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Heterogeneity
@@ -304,8 +303,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变
 > - **1904 — 起源阶段** 皮尔逊（[[Karl Pearson]]）在跨研究数据合并中首次提出：不仅要检验数据合并的平均结论，更须关注不同研究间效果变异（异质性）的动因。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 33)]]
 > - **1970s–1980s — [[Meta-analysis|元分析]]确立与初衷警示** 格拉斯（[[Gene Glass]]）开创元分析方法，但明确警告其最终呈现绝不应只是一个冰冷的平均数，而应是一张展示效果异质性与变异模式的分布图。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 9)]]
@@ -360,8 +357,6 @@ updated: 2026-10-21
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 28–29)]] | 欧洲教育治理体系与 OECD PISA 测评实践（英国、德国、芬兰） | 政策社会学与跨国比较案例研究（专家深度访谈与多边政策文本分析） | 跨国等值度量标尺下的国家制度反应与政策利用模式 | 芬兰将数据视作对既有综合学校体制的肯定，德国引发“PISA 震荡”并重构全国标准，英格兰延续问责指标，苏格兰用于区隔英格兰政策；等值标尺无法消除国家制度反应异质性 | — | 质性政策社会学分析，揭示国际量化等值度量与本土制度文化互动中的深层异质性机制 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — [[Systematic Review|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory|认知负荷理论]]的实证文献，论证了探究教学中[[Construct|构念]]子维度异质性（实验设计 vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]）对教学干预效能边界的决定性作用。

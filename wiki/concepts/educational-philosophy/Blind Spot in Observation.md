@@ -43,7 +43,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Blind Spot in Observation
@@ -157,9 +157,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1969 — 区分逻辑的形式化奠基** 乔治·斯宾塞-布朗（George Spencer-Brown）出版《形式法则》（*Laws of Form*），确立“划定一个区分”（Draw a distinction）作为一切认知与符号世界的原初动作，为盲点思想提供数学逻辑基础。
 > - **1970s–1980s — 二阶控制论与盲点自省** 海因茨·冯·福斯特（Heinz von Foerster）等控制论学者提出二阶控制论（Second-Order Cybernetics），阐述观察者如何观察自身的观察，指出神经系统编码刺激的自指特性与盲点结构。
 > - **1984–1997 — [[Luhmann's Systems Theory|卢曼社会系统理论]]与二阶观察[[Paradigm|范式]]** [[Niklas Luhmann|尼克拉斯·卢曼]]（[[Niklas Luhmann]]）将盲点提升为系统论[[Epistemology|认识论]]的核心构件，在《社会的社会》（*Die Gesellschaft der Gesellschaft*, 1997）与《社会的教育系统》（2002）中系统阐明一阶观察与二阶观察的盲点递进逻辑，解构了传统形而上学的客体实在论。
@@ -185,7 +183,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 调动[[Luhmann's Systems Theory|卢曼系统理论]]中的观察盲点与二阶观察命题，批判“[[Visible Learning|可见的学习]]”[[Paradigm|范式]]遗忘[[Epistemology|认识论]]边界所催生的超积极可见性意识形态。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Aristotle
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **384 BCE** 出生于色雷斯的斯塔吉拉。
 > - **367–347 BCE** 前往雅典，进入[[Plato|柏拉图]]创立的雅典学园（Academy）研读与教学长达二十年。
 > - **343 BCE** 受马其顿国王腓力二世邀请，担任亚历山大大帝的导师。
@@ -115,9 +113,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 确立了目的论伦理学、[[Phronesis|实践智慧]]与[[Habituation|习惯化]]德性教育传统，深刻塑造了西方古典至现代共和主义政治与教育哲学。
 > - **通识课程坐标** 在哥伦比亚、芝加哥、斯坦福等名校“名著课程”（Great Books）与西方文明必修课中作为核心必读文本；在20世纪60年代后成为[[Canon Wars|经典之争]]中反思课程大纲编辑特权与宗派主义的经典案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 > - **[[Critical Pedagogy|批判教育学]]反思** 后世[[Critical Pedagogy|批判教育学]]派（如[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]）指出，亚里士多德将教育限定于适应既有社会阶层与权威指令，缺乏对社会不公的批判与变革能力（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 4–5]]）。

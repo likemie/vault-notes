@@ -52,7 +52,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Measurement Alignment
@@ -138,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1990 — 宏观通用测量时代** 早期研究（Perry、Schommer）普遍采用跨学科的通用[[Questionnaire\|问卷]]，默认[[Epistemological Beliefs\|认识论信念]]是跨情境稳定的个体特质，忽略了测量对齐的重要性。
 > - **2000–2006 — [[Domain Specificity\|学科特异性]]转向** Hofer (2000) 与 Muis et al. (2006) 提出特定学科信念问卷，[[Epistemology\|认识论]]研究开始区分通用与特定学科情境，对齐意识萌芽。
 > - **2018 — 系统对齐法则的确立** [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 在大规模[[Meta-analysis\|元分析]]中形式化界定了颗粒度对齐与领域对齐的双重框架，通过量化证据确立了测量对齐在教育心理学中的基准地位。
@@ -186,8 +184,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 系统检验了特异性颗粒度与学科领域双重对齐对[[Academic Achievement\|学业成绩]]预测力的调节作用，确立了测量对齐的方法论法则。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 发现实验干预中特异性未对齐效应反常反超对齐效应，揭示了[[Developer-Made Measures\|研究者自编测验]]的[[Construct\|构念]]敏感度在测量对齐评估中的关键调节机制。

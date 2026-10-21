@@ -115,7 +115,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 status: active
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Higher-Order Thinking Skills
@@ -393,13 +393,11 @@ updated: 2026-10-21
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 5)]] | 全球 67 项高等教育实证研究（涵盖 2022–2025 年多国高校） | [[Systematic Review\|系统综述]]与主题综合 | 高阶思维（HOTS）研究聚焦与特征分布 | 仅考察批判性思维 34.33% ($n = 23$)；仅考察创造性思维 16.42% ($n = 11$)；同时考察两类思维 49.25% ($n = 33$)；STEM 占 35.82% ($n = 24$)；量化实验占 38.81% ($n = 26$) | — | 描述性统计全景证据，揭示当前高阶思维实证研究近半数关注两类思维共现 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 9)]] | 考察双向高阶思维的 34 项高校实证文献 | 轨迹聚类与主题综合 | 高阶思维双向共现演进模式分布 | 双向协同增益模式 $n = 18$ (53%)；非对称演进模式 $n = 8$ (24%)；双重认知侵蚀模式 $n = 4$ (12%) | 87% 研究 MMAT 质量评分 $\ge 80\%$ | 证实高阶思维共现轨迹受制于[[Scaffolding\|教学脚手架]]干预，缺乏反思支架易导致批判性思维退化 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 莫桑比克、巴基斯坦、菲律宾、乌拉圭四国基础教育课堂样本 | 大规模视频盲测[[Reliability\|信度]]检验与课堂观察统计 | 批判性思维（Element 7）、[[Open-Mindedness\|开放性]]提问、思维任务、学生论证 | 批判性思维在所有 10 项教学要素中得分普遍最低，课堂绝大部分时间被[[Rote Learning\|机械记忆]]和齐声回答占据；严格限定高阶思维不得标为 N/A | 确立了全球南方大样本基础教育课堂高阶思维极度匮乏的实证基准与外显行为观测规程 |
+> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 莫桑比克、巴基斯坦、菲律宾、乌拉圭四国基础教育课堂样本 | 大规模视频盲测[[Reliability\|信度]]检验与课堂观察统计 | 批判性思维（Element 7）、[[Open-Mindedness\|开放性]]提问、思维任务、学生论证 | 批判性思维在所有 10 项教学要素中得分普遍最低，课堂绝大部分时间被[[Rote Learning\|机械记忆]]和齐声回答占据；严格限定高阶思维不得标为 N/A | 确立了全球南方大样本基础教育课堂高阶思维极度匮乏的实证基准与外显行为观测规程 |  |
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis|元分析]] 29 项实验证实生成式 AI 促进高阶思维总体效应（$g = 0.609$），解构出[[Problem Solving|问题解决]] $>$ 批判思维 $>$ [[Creativity|创造力]]的效应梯度与[[Self-Regulated Learning|自主调节学习]]的显著调节。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项[[Experimental Research\|实验研究]]中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer\|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking\|发散思维]]收益显著高于[[Convergent Thinking\|聚合思维]]的层级调节特征。

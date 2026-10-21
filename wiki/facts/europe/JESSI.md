@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 # JESSI
@@ -123,9 +123,7 @@ updated: 2026-10-07
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

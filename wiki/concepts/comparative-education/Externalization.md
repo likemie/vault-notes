@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,13 +34,14 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Determinism]]"
   - "[[Champ]]"
-  - "[[Governing by Numbers]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[World-Systems Theory]]"
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Discourse Analysis]]"
+  - "[[Effect Size]]"
   - "[[Comparative Case Study]]"
 related_instruments: []
 related_persons:
@@ -57,13 +58,13 @@ related_facts:
 related_arguments:
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Externalization
@@ -91,15 +92,13 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析
-> | 维度 | 策略性外化（Externalization） | [[Policy Borrowing|政策借用（Policy Borrowing）]] | 跨国趋同（Convergence） |
+> | 维度 | 策略性外化（Externalization） | [[Policy Borrowing\|政策借用（Policy Borrowing）]] | 跨国趋同（Convergence） |
 > |---|---|---|---|
-> | **核心机制** | 内部系统主动将矛盾投射到外部参照点进行意义过滤 | 跨国政策文本、规制模式与实践方案的跨界引流与[[Recontextualization|再情境化]] | 跨国力量或全球规范驱动各国制度走向均质一致 |
+> | **核心机制** | 内部系统主动将矛盾投射到外部参照点进行意义过滤 | 跨国政策文本、规制模式与实践方案的跨界引流与[[Recontextualization\|再情境化]] | 跨国力量或全球规范驱动各国制度走向均质一致 |
 > | **动因导向** | 内生性驱动：为了打破本土改革僵局或抵制变革 | 混合驱动：兼顾解决本土现实问题与追赶国际标准 | 外生性驱动：服从世界社会规范或依附性受压 |
-> | **参考对象属性** | “仿佛有效”的拟似外部投射（甚至包括本国历史传统） | 真实的外国特定政策模型（如德国[[German Dual Education System|双元制]]、芬兰综合学校） | 全球性量化基准、公约目标与通用治理指标 |
-> | **理论依托传统** | [[Niklas Luhmann|卢曼]]社会学系统论与批判[[Discourse Analysis|话语分析]] | 比较教育转移研究与[[Historical Institutionalism|历史制度主义]] | 新制度主义社会学与[[World-Systems Theory|世界体系理论]] |
+> | **参考对象属性** | “仿佛有效”的拟似外部投射（甚至包括本国历史传统） | 真实的外国特定政策模型（如德国[[German Dual Education System\|双元制]]、芬兰综合学校） | 全球性量化基准、公约目标与通用治理指标 |
+> | **理论依托传统** | [[Niklas Luhmann\|卢曼]]社会学系统论与批判[[Discourse Analysis\|话语分析]] | 比较教育转移研究与[[Historical Institutionalism\|历史制度主义]] | 新制度主义社会学与[[World-Systems Theory\|世界体系理论]] |
 
 ---
 
@@ -163,13 +162,11 @@ updated: 2026-10-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知过滤与双向外化命题** | 外化是内部系统的能动过滤，涵盖外化到国际趋势（推改革）与外化到传统（保现状）的对称运作 | 跨国危机应对、课程标准论战、传统与现代教育争议 | Schriewer & Martinez; Rappleye |
-> | **拟似权威工具投射命题** | 外部[[Reference Society|参考社会]]与跨国数据指标是本土行动者按需建构的规制性理念，其权威性建立在“仿佛有效”的政治共谋上 | 针对特定标杆国家（如芬兰、日本）的跨国借用、跨国评估排位动员、打破国内修法僵局 | Luhmann; Steiner-Khamsi et al.; [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
+> | **拟似权威工具投射命题** | 外部[[Reference Society\|参考社会]]与跨国数据指标是本土行动者按需建构的规制性理念，其权威性建立在“仿佛有效”的政治共谋上 | 针对特定标杆国家（如芬兰、日本）的跨国借用、跨国评估排位动员、打破国内修法僵局 | Luhmann; Steiner-Khamsi et al.; [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 — 比较方法[[Epistemology|认识论]]奠基** [[Jurgen Schriewer|于尔根·施里韦尔]]（[[Jurgen Schriewer]]）系统提出外化概念，将其定位为比较教育方法论摆脱客观[[Positivism|实证主义]]幻象的认识论工具。
 > - **1990s — 洪堡学派与系统论世界体系综合** 两德统一后，施里韦尔在柏林洪堡大学主持比较教育研究所，创新性地将[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论与[[World-Systems Theory|世界体系理论]]融为一体，确立了“向世界参照外化”的宏观比较[[Paradigm|范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
 > - **2003–2004 — [[Discourse|话语]]形成与双层结构分立** Schriewer & Martinez 提出“进化过程（客观结构变化）”与“语义建构（话语策略包装）”完全分立的双层分析模型。
@@ -201,15 +198,13 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 28–32, 34–35)]] | 芬兰、德国、英格兰与苏格兰四法域教育政策体系与媒体舆论 | 跨国[[Comparative Case Study\|比较案例研究]]与媒体政策文本分析 | [[PISA]] 表现基准、媒体报道版面量、官方改革归因与外在化功能 | 芬兰顶尖（媒体仅 8 版面报道，归因综合学制并反常增加必修课时以应对国际审视）；德国 32 国列第 20 位（刊发 687 版面并展开电视辩论，出台国家标准打破修法僵局）；英格兰阅读第 7、数学第 8、科学第 4（9 篇头版赞扬，回避阶层差距以确证择校问责）；苏格兰列前三分之一（强调快乐自评，抵制英格兰检查体系渗透） | 质性文本与政策过程饱和分析 | 证实无论成绩高低，各国均将 PISA 跨国数据作为策略性外在化资源，用于压制国内异议或确证既定体制 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 546)]] | 经合组织成员国对芬兰基础教育成功经验的政策引证文本 | 政策文本话语分析与比较制度追踪 | 芬兰神话政策归因取向与国内争议性议题匹配度 | 发现芬兰成功被交替归因于高校师范体系、不分流包容性体制或无高利害测验环境，归因分布完全随引证国国内政治争议点而对称漂移 | 质性比较追踪 | 确证外部参照系是由本土政治利益在内部反向建构的“仿佛有效”规制投射 |
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018, pp. 274–278)]] | 德国、日本、丹麦、瑞士等国对 PISA 结果的政治吸纳与改革走向 | 比较制度政策过程追踪与话语分析 | 媒体危机动员、政治外化机制与制度性重组 | 文部科学省将微弱学力下滑外化为中立证据，成功化解国内否决势力阻力并推行全国学力测试；德国借由 PISA 震荡外化打破联邦教育主权壁垒建立国家标准 | 质性深度饱和经验分析 | 证实量化硬事实通过为本土改革派提供外化合法性资源，发挥化解制度阻力与重组治理结构的功能 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合卢曼与施泰纳-哈姆西的外在化概念，分析芬兰、德国、英格兰与苏格兰如何将 PISA 排名转化为国内政策合法化与体制确证的策略性工具。

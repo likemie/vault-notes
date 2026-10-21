@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Metacognitive Laziness
@@ -87,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | [[Metacognition\|元认知]]惰性（Metacognitive Laziness） | [[Cognitive Offloading\|认知卸载]] | [[Learned Helplessness\|习得性无助]] | 认知负荷超载（Cognitive Overload） |
 > |---|---|---|---|---|
 > | **分析对象** | 人机交互中的反思与自我监控机制 | 心智计算资源与外部工具的协同分配 | 持续失败经历导致的行为与动机抑制 | [[Working Memory\|工作记忆]]容量与任务信息加工需求的失衡 |
@@ -159,9 +157,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2016–2022 — [[Cognitive Offloading\|认知卸载]]阶段** 学习科学主要关注计算器、搜索引擎或外部便签对[[Working Memory\|工作记忆]]的物理卸载，将其视为适应性认知策略。
 > - **2023–2024 — 生成式 AI 冲击与认知依赖警示** 随着 ChatGPT 席卷高校，学者们开始觉察到算法替代深层论证的危险，提出“思维外包”与“认知依赖”隐患（Yilmaz & Yilmaz, 2023a; Stadler et al., 2024）。
 > - **2025 — [[Metacognition\|元认知]]惰性概念的明确与实证确立** Fan et al. (2025) 正式提出“元认知惰性”（Metacognitive Laziness）假说；[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在 *Educational Research Review* 通过 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]严格证实 [[Generative Artificial Intelligence\|GenAI]] 对元认知无显著促进（$g^+ = 0.078$），实证奠定了元认知惰性在 AI 教育研究中的理论合法性。
@@ -211,7 +207,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 实施 57 项[[Experimental Research\|实验研究]][[Meta-analysis\|元分析]]，证实生成式 AI 对大学生成果总体具有大[[Effect Size\|效应量]]但在[[Metacognition\|元认知]]上无显著促进（$g^+ = 0.078$），实证验证了开放式 AI 介入引发元认知惰性的风险，确立了植入结构化反思培训的教学必要性。

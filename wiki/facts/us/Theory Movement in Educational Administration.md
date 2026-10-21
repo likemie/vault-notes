@@ -44,20 +44,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
-## 背景
 
-> [!info|notitle] 背景
+> [!info] 背景
 > 教育行政研究在 20 世纪初的美国大学中建制化。教育行政系科的建立与 Taylor（1911）*The Principles of Scientific Management* 的出版大体同时，这些科学管理原则被当时的主要人物——Teachers College Columbia 的 George Strayer、Wisconsin 的 Edward Elliot、Chicago 的 Franklin Bobbit and Stanford 的 Ellwood Cubberly——大力倡导([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.315-316]])。
 >
 > > 有趣的是，Cubberly 几乎没有教育研究的背景——他自身的专业背景是地质学和物理科学，却在教育行政项目中教授学校行政、学校问题、学校组织、学校统计等多门课程（Bates, 2010; Tynack & Hansot, 1982，引自 [[Argument_Eacott_2015_EPT\|Eacott, 2015, p.326]]）。
 >
 > 然而，Taylor 和同期经典行政思想家（Lyndall Urwick、Henri Fayol）是**实践者/研究者**而非科学家。"科学"与"教育行政的科学研究"在理论运动时期（1950–1960s）才达到顶峰([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.315]])。
 
-## 经过
-
-> [!note|notitle] 经过
+> [!note] 经过
 > **起点：Denver, Colorado, August 1954**
 >
 > 理论运动的起源可追溯到 1954 年 8 月在丹佛举行的全国教育行政教授会议（National Conference for Professors of Educational Administration）年会。这一以美国为中心的学派，主要代表人物是 **Andrew Halpin** 和 **Daniel Griffiths**，其许多基本原则归功于 [[Herbert A. Simon\|Herbert Simon]]（1945）的 *Administrative Behavior*([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.315]])。
@@ -75,18 +72,14 @@ updated: 2026-10-21
 >
 > [[Argument_Eacott_2015_EPT\|Eacott (2015)]]指出理论运动的内在矛盾：试图以"科学"取代实践者的无理论经验知识，但其"科学"模型（逻辑[[Empiricism\|经验主义]]）仍然是一种探究技术而非理论——实际上是用方法论替代了理论。
 
-## 关键文件
-
-> [!quote|notitle] 关键文件
+> [!quote] 关键文件
 > > "objectivity, reliability, operational definitions, coherent or systematic structure, and comprehensiveness"（Griffiths, 1959, p.45）
 >
 > Griffiths, D. E. (1959). *Administrative Theory*. New York: Appleton-Century-Crofts. — 理论运动的纲领性文本。
 >
 > Simon, H. (1945). *Administrative Behavior*. New York: MacMillan. — 理论运动的核心理论基础，将管理行为建模为理性决策过程。
 
-## 影响与后果
-
-> [!success|notitle] 影响与后果
+> [!success] 影响与后果
 > **对教育行政研究的影响**
 >
 > 理论运动标志着**教育行政系统化传统（自然）[[Scientific Method\|科学方法]]的开始([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.315]])**。它将"科学"标签与教育行政研究建立了长期关联，使[[Positivism\|实证主义]][[Paradigm\|范式]]在之后几十年中成为美国教育行政研究的主流。
@@ -104,16 +97,12 @@ updated: 2026-10-21
 > - Evers & Lakomski（1991, 1996, 2000, 2012）一致论证：**问题不在科学，而在科学的模型**——是逻辑经验主义这一狭窄[[Operationalization\|操作化]]的问题，而非科学探究本身的追求不值得或不可能
 > - 这些批判导致许多人相信教育行政科学的追求既不值得也不可行
 
-## 争议与评论
-
-> [!warning|notitle] 争议与评论
+> [!warning] 争议与评论
 > - **[[Positivism\|实证主义]]遗产的持续** [[Argument_Eacott_2015_EPT\|Eacott (2015)]]认为尽管理论运动受到多次挑战，"'科学'和'科学探究'的标签与教育行政有长期联系"，这种联系延续至今，只是以管理主义和"对实践有直接影响的"研究[[Discourse|话语]]的形式出现（p.312-313）
 > - **变形的重演**[[Argument_Eacott_2015_EPT\|Eacott (2015, p.320-321)]]指出理论的"应用"标签在当代以项目管理的学术生活方式重现——研究者成为可以在不同[[Research Question\|研究问题]]间流动的"技术人员"，实质上重复了理论运动的方法论替代理论的模式
 > - **拒绝而非重构** Greenfield and Bates 的批判虽然有力，但导致许多人放弃而非重构科学探究——Evers & Lakomski 是少数坚持"科学本身不是问题"的声音([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.316]])
 
-## 相关概念／理论
-
-> [!example|notitle] 相关概念／理论
+> [!example] 相关概念／理论
 > - [[Epistemological Break]] — Eacott 以此 Bourdieu 概念论证教育行政需重新进行认识论断裂
 > - [[Epistemological Vigilance]] — Bourdieu 的警觉概念在理论运动及其挑战之后的当代意义
 

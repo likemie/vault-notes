@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Twelfth-Grade Slump
@@ -100,8 +100,6 @@ updated: 2026-10-21
 > [!case] 洛克兰、AP 与 IB 的不同回应
 > 洛克兰社区学院尝试把优秀学生提前转出高中，直接移除等待期；[[Advanced Placement Program\|大学先修课程项目]]在高中内部提供单科大学水平挑战；[[International Baccalaureate\|国际文凭]]则用完整两年课程及大学分班价值重新连接高中学习和大学过渡。洛克兰路径后来因多机构协调和生源利益失败，AP 与 IB 则成为地方高中可自行组织的两种外部课程方案。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 133–140)]]
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] — 用十二年级滑坡解释筛选考试与高年级课程之间的断裂，并比较提前入学、AP 与 IB 三种制度回应。
 

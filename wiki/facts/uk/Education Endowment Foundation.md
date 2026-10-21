@@ -148,7 +148,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Education Endowment Foundation
@@ -393,9 +393,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -429,9 +427,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪[[Venture Philanthropy\|风险慈善]]在公立教育中的兴起，揭示 EEF 创始背景与麦肯锡全球网络的渊源、联合澳大利亚联邦银行向 [[Evidence for Learning\|E4L]] 注资搭建私营试验原型的机制，以及 EEF 创始 CEO 凯文·柯林斯入驻 [[Australian Education Research Organisation\|AERO]] 专家委员会实现跨国[[Policy Network\|政策网络]]闭环的制度过程。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国汉堡 34 所中小学的 53 名[[School Leadership\|学校领导]]者经验，揭示英格兰高利害督导与市场化问责体制如何异化 EEF 工具包为[[Performativity|表演性]]合规的防御工具与财政紧缩下的裁员借口。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 揭示 EEF 财政溯源悖论（源自削减免费校餐沉淀资金）、母体[[Sutton Trust\|萨顿信托]]与 [[Impetus]] 的跨国金融资本网络及向澳大利亚（[[Social Ventures Australia\|SVA]]/[[Evidence for Learning\|E4L]]/[[Australian Education Research Organisation\|AERO]]）的制度输出。

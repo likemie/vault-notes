@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Francis Fukuyama
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1952** 出生于美国芝加哥，祖父曾为逃避日俄战争移民美国。
 > - **1979** 获哈佛大学政治学博士学位，师从[[Samuel P. Huntington|塞缪尔·亨廷顿]]（Samuel P. Huntington）与哈维·曼斯菲尔德（Harvey Mansfield）。
 > - **1979–1989** 加入兰德公司（RAND Corporation）担任政治分析家，并曾进入美国国务院政策规划司任职。
@@ -132,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jarl Bengtsson
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1941** 出生于瑞典。
 > - **1960年代** 接受瑞典社会民主主义教育学与社会学训练，深度参与战后北欧综合中学改革与[[Further Education\|继续教育]]大辩论。
 > - **1971** 加入新成立不久的[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI），开启在巴黎长达三十一年的国际治理职业生涯。
@@ -144,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学生／继承者** [[Andreas Schleicher]] — 本特森在 [[Centre for Educational Research and Innovation\|CERI]] 关键时期引入并重用的数据专家与后继领导者，最终将本特森的 [[PISA]] 构想变为现实。
 > - **师承／合作关系** [[Norberto Bottani]] — [[International Indicators of Education Systems\|INES]] 项目首任技术负责人，与本特森并肩作战确立前四版《[[Education at a Glance\|教育概览]]》的指标架构。
 > - **批评者／论敌** 欧陆传统教育哲学家 — 批评本特森后期对指标与经济[[Competitiveness|竞争力]]的偏执放弃了早期“循环教育”的人文关怀，将教育彻底异化为功利主义[[Human Capital Theory\|人力资本]]附庸。
@@ -176,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

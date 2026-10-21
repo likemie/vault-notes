@@ -61,7 +61,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # International Education Hubs
@@ -76,17 +76,13 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Internationalization of Higher Education\|高等教育国际化]]：国际化侧重院校层面的跨境流动与合作；IEHs 则是国家/地区层面的战略性项目，涉及高等教育系统与经济发展目标的深度整合
 > - vs 跨境高等教育（Cross-Border Higher Education）：跨境高等教育是 IEHs 的构成基础——IEHs 包含并建立于此基础之上，但代表了一种更广泛的战略配置
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > IEH 概念由 [[Jane Knight]] (2014a, 2014b, 2014c) 在跨境高等教育研究的基础上系统提出。Knight 注意到过去十年中多个东亚和中东国家已建立 IEHs，意图成为全球高等教育学习和研究的首选目的地([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.44]])。近年来 IEHs 被进一步分析为[[Geopolitics|地缘政治]]项目，超越了简单的国际化策略(Erfurth, 2019; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022]])。
 
 ### 概念的提出与三类模型
@@ -135,9 +131,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 ### 三类枢纽模型
 
@@ -165,9 +159,7 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Critical Geopolitics\|批判地缘政治学]] — 为 IEHs 的[[Geopolitics|地缘政治分析]]提供核心理论透镜，[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 和 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] 均以此框架分析国家如何通过高等教育项目重塑地缘政治位置
 > - [[Network Society\|网络社会]]理论 — 为理解 IEHs 作为全球知识流动网络中的"节点"提供基础，与 Moisio (2018) 的 Hub and [[Flow]] 想象相互补充
 > - [[Cultural Political Economy]]（文化政治经济学, Sum & Jessop, 2013） — [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] 采用此框架分析教育枢纽中文化符号与结构物质维度的同等重要性
@@ -192,9 +184,7 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 - 将高等教育治理的理性从社会教育范畴转向经济范畴，引发对高等教育公共性和公平性的担忧([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])
 - IEHs 在参与国家间的分布高度不均——集中在经济实力较强的国家和地区——可能加剧而非缩小全球高等教育的不平等格局
 - **绕开制度建设的悖论** 教育枢纽路径以市场[[Liberalization|自由化]]和基础设施扩张替代社会与政治制度建设，本质上有悖于国际发展界推广的民主制度建设路径——然而这一路径仍被 British Council、[[OECD]] 等机构背书，因为这些机构将"教育扩张"本身视为发展参数而不区分方式和目的([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.200, 211]])
@@ -204,9 +194,7 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 
 ---
 
-## 相关案例／政策
-
-> [!example|notitle]
+> [!example] 相关案例／政策
 - 香港 — 追求区域教育枢纽地位（Mok & Bodycott, 2014）
 - 新加坡 — "[[Singapore Education Hub Policy|东方波士顿]]"战略和"全球校园"项目代表了教育枢纽的早期实践形态(Sidhu et al., 2014; [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]])
 - 阿拉伯联合酋长国 — 阿布扎比和迪拜呈现出[[Cultural Diplomacy|文化外交]]与政治经济两种不同的枢纽运作逻辑(Halsey Fox & Al Shamisi, 2014; [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022]])

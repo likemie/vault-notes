@@ -10,7 +10,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -64,17 +64,18 @@ related_facts:
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Evidence for Learning]]"
+  - "[[Swedish Schools Inspectorate]]"
   - "[[Conectar Igualdad]]"
 related_arguments:
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Rowe_2022_IJER]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Assemblage
@@ -103,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（Assemblage） | [[Actor-Network Theory\|行动者网络理论（ANT）]] | [[Policy Borrowing\|政策借用]]与转移（Policy Transfer） | 静态制度结构（Institutional Structure） |
 > |---|---|---|---|---|
 > | **分析本体** | 异质构件（人、物、符号、文本）临时生成的社会-物质复合体 | 包含广义对称性、转译与行动元等原则的理论与方法学体系 | 国家或地区间单向或双向采纳的政策文本、实践或理念 | 具有先验功能等级、法律边界与稳定职能的科层实体 |
@@ -208,9 +207,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980 年代 — 哲学起点与去中心化构型** 吉尔·德勒兹（Gilles Deleuze）与费利克斯·加塔利（Félix Guattari）在《千高原》（Deleuze & Guattari, 1987）中提出 agencement（后英译为 assemblage），用以指涉异质要素的去中心化共生连接，打破传统西方形而上学的封闭实体与总体性假定。
 > - **1990–2000 年代 — 科学技术学唯物主义重构与装配理论化** 约翰·劳（John Law, 1992）提出关系物质性，强调耐用材料对社会秩序的固化功能；[[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour, 2005）提出“重新组装社会”（Reassembling the Social）；曼努埃尔·德兰达（Manuel DeLanda, 2006）出版《装配理论与社会复杂性》，系统论证构件的“外在性关系”哲学。
 > - **2010 年代 — 教育微观空间与数字化物质性转向** 塔拉·芬威克（Tara Fenwick）等将装配引入教育实践（Fenwick & Edwards, 2010）；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）与阿托普洛斯（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）利用装配概念分析阿根廷笔记本电脑配送项目，确立课堂作为社会-物质装配体的分析[[Paradigm\|范式]]。
@@ -257,9 +254,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合装配理论与[[Topological Spatialisation\|拓扑空间化]]，深入剖析德国国家教育监测基础设施与[[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]如何实现跨尺度的政策拓扑重组。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 提出无生命客体的政策装配框架，运用防野狗围栏隐喻解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 背后的企业法注册基础、跨国[[Venture Philanthropy\|风险慈善]]网络与特许商业分包。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 将装配视角推进至国家与[[Philanthrocapitalism\|慈善资本主义]]的共生关系，揭示权力作为隐蔽装配效应如何依托税法修正案（[[Deductible Gift Recipient\|DGR1]]）、定向闭门采购与双重申报架构重塑公共教育交换规则。

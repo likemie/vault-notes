@@ -35,22 +35,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Confucian Tutoring Style
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 儒家式辅导是 [[Argument_Li_2012_Cambridge|Li（2012）]]基于台湾母子对话研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似儒家师徒对话的方式，通过日常对话将儿童的学习信念引向[[Learning Virtues\|学习美德]]的方向。母亲的核心信念是：学习的关键在于**品德的力量（the power of learning virtues）**，而非天赋智力。
 
 与[[Socratic Tutoring Style|苏格拉底式辅导]]不同，儒家式辅导的目的不是帮助儿童发现"自我的伟大"，而是引导儿童认识到**自我改进永无止境**——无论已经取得了多少成就([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 ---
-## 核心要素
 
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 通过对 !CD 组台湾母子的学习话题对话进行结构分析、序列分析和[[Discourse Analysis\|话语分析]]，识别出儒家式辅导的以下核心要素([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 ### 认知来源：学习美德（virtue source）

@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Integration in Mixed Methods
@@ -51,9 +51,7 @@ updated: 2026-10-15
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 整合包含三个相互关联的维度([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.233–234]])：
 >
 > 1. **整合的意图（Intent of Integration）** 为何要组合两类数据——是为了比较（compare）、解释（explain）、构建（build）还是增强（augment）？
@@ -71,9 +69,7 @@ updated: 2026-10-15
 
 ---
 
-## 整合分析
-
-> [!abstract|notitle]
+> [!abstract] 整合分析
 > 整合分析的具体操作因设计类型而异，但都遵循一个基本逻辑：先分别分析两个数据库，再进行跨数据库的整合分析。
 >
 > **[[Convergent Design\|聚敛式设计]]的三阶段整合分析([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.238]])**

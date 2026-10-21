@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Asset Mapping
@@ -83,9 +83,7 @@ updated: 2026-10-17
 
 ---
 
-## 挑战
-
-> [!warning|notitle]
+> [!warning] 挑战
 > - **[[Technology Transfer\|技术转移]]经验不足** 大学如果缺乏技术转移经验，可能与产业伙伴之间存在互不信任的文化。"学术纯洁性"（academic purity）的传统观念至今仍会在部分院校存留，限制了全校范围的产学协作（pp.127–128）
 > - **协调与一致性问题** 如果创业中心和更广泛的[[Innovation Park\|研究园区]]之间协调有限——如物理距离过远，或活动设计未有效鼓励互动——合作就会因空间和制度隔阂而自然减少（p.128）
 > - **长期投入的要求**[[University-Industry Collaboration\|产学合作]]需要长期投资的心态，几乎不会有快速见效的方案。最新一代学生和早期职业工作者的优先事项不断变化，区域需要在整个产学合作中创造一致的激励（p.128）

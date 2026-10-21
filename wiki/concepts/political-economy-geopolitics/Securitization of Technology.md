@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Securitization of Technology
@@ -112,9 +112,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（技术安全化） | [[Modern Industrial Policy\|现代产业政策]] | [[Academic Freedom\|学术自由]]范式 |
 > |---|---|---|---|
 > | **主导逻辑** | [[Geopolitics\|地缘政治]]博弈、国家安全与技术主权 | 纠正[[Market Failure\|市场失灵]]、促进产业升级与经济增长 | 学术共同体自主探索与知识无界传播 |
@@ -228,9 +226,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1940s–1980s — 冷战军工复合体与战后自由探索契约共存** [[Manhattan Project|曼哈顿计划]]开启了国家重大工程动员[[Paradigm|范式]]，但[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中奠定了由联邦资助大学开展非功利、自由探索基础科研的战后契约，技术安全议程主要局限于涉核与军品出口管制（如巴统协定）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
 > - **2010s — 关键产业链断链风险与出口管制泛化** 随着全球化垂直分工深入与新兴大国崛起，关键战略技术（尤其是先进制程芯片、关键原材料与电信设备）从单纯的商业贸易商品被重新定义为地缘博弈的战略制高点，实体清单与单边技术制裁手段密集出台。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 8–10)]]
 > - **2022 — 《[[CHIPS and Science Act|芯片与科学法案]]》确立技术安全化法治范式** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》标志着美国正式打破市场中立范式，通过 2000 亿美元研发授权与巨额制造补贴，将半导体本土回流与多层次科研人才供给法定确立为国家安全基石。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
@@ -275,9 +271,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -295,9 +289,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐述全政府统筹下将微电子底层物理探索、先进异构封装与硬件根信任/零信任架构内生嵌入国家安全体系的顶层设计。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析《[[CHIPS and Science Act|芯片与科学法案]]》背景下美国[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，阐明基础研究引领、人才多级培养、多圈层网络编织与技术安全化协同治理的深层张力。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从长时段[[Social Contract of Science|科学社会契约]]演化视角，系统阐释 2025 年起美国科技政策转向以技术能力掌控为核心的替代契约，剖析国家实验室与企业崛起对研究型大学轴心地位的替代效应及三轨分化生态。

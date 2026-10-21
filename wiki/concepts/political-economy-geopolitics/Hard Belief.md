@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hard Belief
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 硬信念（Hard Belief） | [[Soft Belief\|软信念]]（Soft Belief / 道德姿态） | 犬儒虚无主义（Cynical Nihilism） |
 > |---|---|---|---|
 > | **代价承担** | 愿意承受会员流失、职位动摇、公众非议等现实代价 | 仅在无风险或有公关收益时表态，遇阻即退缩至程序合规 | 拒绝相信任何崇高价值，将所有原则视作权力伪装 |
@@ -120,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970年代 — 宪法第一修正案的硬信念实践** 以[[Aryeh Neier|阿里耶·内尔]]在[[Skokie Free Speech Case|斯科基案]]中承受三万会员退会捍卫言论自由为代表，展现早期自由主义法理勇于承担代价的硬信念传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 > - **1980–1990年代 — 社群主义对程序主义[[Soft Belief|软信念]]的哲学批判** 布鲁姆（1987）与桑德尔（1998）相继批判西方高等教育盲目崇拜[[Open-Mindedness|开放性]]导致的政治虚无，以及自由主义从实质道德辩护撤退留下的精神真空。
 > - **2020年代 — 《[[Technological Republic|技术共和国]]》确立硬信念与软信念的核心对立** 卡普与扎米斯卡系统提出硬信念范畴，将其作为西方国家重振[[Hard Power|硬实力]]、赢得地缘技术竞争与克服心智空洞化危机的决定性精神支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–68)]]
@@ -146,7 +142,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 开启全书第二部，以硬信念的历史典范对比当代西方高校、政界与科技界的[[Soft Belief|软信念]]异化，系统阐发硬信念对[[Technological Republic|技术共和国]]的存续价值。

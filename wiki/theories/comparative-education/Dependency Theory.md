@@ -88,7 +88,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dependency Theory
@@ -133,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -210,9 +208,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 处于全球资本主义世界体系边缘或半边缘的发展中国家；遭受外部债务危机与结构调整冲击的教育体系；跨国教育援助与学术新殖民主义现象；非政府组织公共服务异化。
 > - **成立条件** 存在明显的不对称跨国权力关系与资本依附纽带；国家机器具有鲜明的买办性或受制性特征。
 > - **解释不足与[[Historical Amnesia|历史健忘症]]反思** 传统依附论过于偏重宏观资本结构[[Determinism|决定论]]，在解释边缘国家本土学校师生的微观抗争能动性、本土制度杂糅与东亚后发国家通过强势国家干预实现教育跨越式发展的经验时存在理论盲区。更深刻的是，卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）指出，第四代际学者在高度关注跨国政治经济学结构的同时，严重边缘化了历史研究方法，导致比较教育研究深陷当下主义与历史健忘症。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–156)]]
@@ -243,9 +239,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

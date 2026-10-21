@@ -43,7 +43,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-07-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Toulmin's Argumentation Model
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -120,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 单一主体论证文本的句法结构切片，审查论证各要素的显性化程度。
 > - **谨慎使用** 复杂科学争议与对抗性辩论——模型预设了单向论证与答辩的静态结构，难以捕捉双方各自持有独立对立体系的交互博弈。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007)]]
 > - **不适合解释** 科学证据评价与论证实质质量裁决——结构完整性与伪科学并不矛盾，模型本身无法鉴别选择性报告、偶发个案证据与不可靠认知程序。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 203–204)]]
@@ -130,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1958 — 经典模型创立** Stephen Toulmin 出版 *The Uses of Argument*，系统提出突破三段论的六部件法理学论证框架。
 > - **1980s–2000s — 科学教育结构化迁移** 科学教育领域将图尔敏模型[[Operationalization\|操作化]]为课堂论证模式（TAP），并衍生出主张-证据-推理（[[CER Framework\|Claim-Evidence-Reasoning]], CER）[[Framework for Teaching|教学框架]]。
 > - **2007 — [[Pragma-Dialectics\|语用辩证学派]]批判** Zemplén 指出图尔敏模型缺乏质量评价规范标准，无法处理双边对称争议，主张引入语用辩证学。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007)]]
@@ -152,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 在 IB [[Theory of Knowledge\|知识论]]课程中剖析图尔敏模型的局限，提出语用辩证学作为对称争辩的替代框架。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 深刻解构图尔敏式结构评价的[[Epistemology\|认识论]]盲区，提出奠基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]评价新[[Paradigm\|范式]]。
 

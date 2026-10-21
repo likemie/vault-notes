@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Michael Traill
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1986–2002** 任职于麦格理银行（Macquarie Bank），晋升为执行董事并联合创立麦格理直接投资部门（Macquarie Direct Investment），主导多项私募股权与风险资本运作。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 520)]]
 > - **2002** 与麦肯锡公司（McKinsey & Company）荣休董事罗伯特·麦克莱恩（Robert McLean）等人共同发起设立[[Social Ventures Australia\|澳大利亚社会创投]]（SVA），出任首任首席执行官，将商业银行纪律引入非营利领域。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524)]]
 > - **2010** 因在[[Social Impact Investing\|社会投资]]与非营利治理领域的活动获颁澳大利亚员佐勋章（Member of the Order of Australia, AM）。
@@ -103,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **制度实践路径** 带领 [[Social Ventures Australia\|SVA]] 孵化并设立了覆盖全澳公立学校免税募款的 [[Australian Schools Plus\|Schools Plus]] 与证据转化中介 [[Evidence for Learning\|E4L]]，并为 2021 年成立法定国家级证据经纪实体 [[Australian Education Research Organisation\|AERO]] 奠定了关键组织原型与治理[[Paradigm\|范式]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 524–531)]]
 > - **[[Policy Network\|政策网络]]路径** 作为典型的“旋转门”精英，跨界串联金融投资圈（麦格理银行、高盛）、管理咨询寡头（麦肯锡、贝恩）、联邦政府决策层与各州公立教育系统，深刻重塑了澳大利亚教育财政与科研体制的公共治理逻辑。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 526–530)]]
 

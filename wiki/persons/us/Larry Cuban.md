@@ -33,37 +33,29 @@ related_facts: []
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Larry Cuban 是美国教育史学家和课程理论家，斯坦福大学教育学院荣休教授。他的研究专注于美国教育改革的**历史分析**，特别是学校变革的持久与失败原因。他最著名的理论贡献是识别了课程变革中的三类外部驱动力，以及他对教育技术变革的批判。
 
-## 核心思想
-
-> [!info|notitle] 核心思想
+> [!info] 核心思想
 > > "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools." (Cuban, 1992, p. 224，引自 [[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 480]])
 >
 > Cuban 的核心主张是**课程变革从根本上说是政治行为**——而非教学或[[Epistemology\|认识论]]的决策。课程政策的制定涉及权力、控制、联盟、协商和妥协。
 
-## 主要贡献
-
-> [!success|notitle] 主要贡献
+> [!success] 主要贡献
 > - [[Cuban's Curriculum Change Theory]] — 识别了课程变革的三类外部因素：[[Progressive Education\|进步教育]]运动、冷战/国防、立法法律决定，以及影响力团体和关键个人的作用
 > - **教育改革的持久性分析** — 揭示了为何学校改革常常"失败"——不是因为变革没有发生，而是因为变革的持久性受限于体制惯性
 > - **教学法的技术变革批判** — 在"教师与机器"的研究中指出，技术变革很少真正改变课堂实践的核心模式
 
-## 主要著作
-
-> [!abstract|notitle] 主要著作
+> [!abstract] 主要著作
 > - Cuban, L. (1992). Curriculum stability and change. In P. Jackson (Ed.), *Handbook of research on curriculum* (pp. 216-247). Macmillan. — 课程变革的核心理论框架
 > - Cuban, L. (1986). *Teachers and machines: The classroom use of technology since 1920*. Teachers College Press. — 教育技术变革的历史分析
 > - Cuban, L. (1993). *How teachers taught: Constancy and change in American classrooms, 1890-1990*. Teachers College Press. — 课堂教学实践的百年演变
 
-## 思想发展与影响
-
-> [!note-|notitle] 思想发展与影响
+> [!note-] 思想发展与影响
 > - 影响了 **[[Argument_Yan_2025_JCS\|Yan and Morris (2025)]]** 以香港 LS 为案例，检验 Cuban 框架在非美国、高度政治化语境中的解释力
 > - 他的"立法/法律决定"因素在 LS 废除阶段被重新解释为**国家安全的课程控制机制**——超出了 Cuban 原有的分析范围
 > - 在香港语境中，Cuban 识别的"协商与联盟"因素在 2019 年后的失效，暴露了该框架的语境依赖性

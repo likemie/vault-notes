@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Gerard Renaud
@@ -74,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **共同创制事件** [[Founding of the International Baccalaureate\|国际文凭创立]]。
 > - **制度延续事件** [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] — 负责日内瓦办公室和财务，以紧缩预算与风险诊断维持年度考试。
 > - **课程合作者** 安德烈·范·斯梅沃德 — 共同提出六学科组方案，并参与语言考试建设。

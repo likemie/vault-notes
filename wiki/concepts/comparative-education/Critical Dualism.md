@@ -58,7 +58,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critical Dualism
@@ -216,9 +216,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细考据[[Brian Holmes\|布赖恩·霍姆斯]]如何运用批判二元论区分规范法则与权变社会学法则，并以此同美国实证学派展开方法论大论战。
 > - Holmes (1965) — 首次将批判二元论转化为比较教育假说-演绎[[Problem Approach\|问题法]]的核心情境分析工具。
 > - Holmes (1981) — 全面系统阐述规范法则与权变社会学法则的[[Ontology\|本体论]]二元分立，确立预测划界标准。

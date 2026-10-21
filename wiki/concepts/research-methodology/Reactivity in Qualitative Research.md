@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reactivity in Qualitative Research
@@ -62,9 +62,7 @@ updated: 2026-10-21
 >
 > *Reactivity – the Hawthorne effect – the [[Presence]] of the researcher alters the situation as participants may wish to avoid, impress, direct, deny or influence the researcher. Typically the problem of reactivity is addressed by careful negotiation in the [[Champ\|field]], remaining in the field for a considerable time, ensuring as far as possible a careful presentation of the researcher's self.*
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **研究者效应** 研究者的个人特征——年龄、性别、种族、着装风格、语言口音、社会阶层——影响参与者如何回应和在研究者面前行为。
 > - **情境扰动** 引入研究者作为局外人进入社会系统本身即是一种干预和侵入（Flick, 1998, p. 57），系统会产生"[[Educational Immunology\|免疫反应]]"。
 > - **期望效应** 参与者根据自己对[[Research Purpose\|研究目的]]的猜测调整行为——类似参与者的"猜测假设"（demand characteristics）。
@@ -78,9 +76,7 @@ updated: 2026-10-21
 > 3. **[[Reflexivity\|反身性]]实践** 不是试图消除研究者效应（这是不可能的），而是承认、披露和分析研究者对研究的影响——将研究者自身置于审视之下。
 > 4. **多方法[[Triangulation\|三角验证]]** 结合观察、访谈、文档分析等多种数据来源，减少单一方法中反应性影响的权重。
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 反应性 | [[Reflexivity\|反身性]] | [[Hawthorne Effect\|霍桑效应]] |
 > |------|--------|--------|---------|
 > | 性质 | 研究者效应的实际现象 | 研究者对自身效应的认知和反思 | 特定类型的反应性（参与者因被关注而改变行为） |
@@ -106,7 +102,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统剖析反应性对质性探究的多维挑战：在自然主义研究中将其列为[[Qualitative Validity\|质性效度]]的核心威胁与方法学难题之一（Ch. 11），并在实地观察中系统论述需求特征偏误以及[[Habituation\|习惯化]]与隐蔽观察的应对策略（Ch. 23）。

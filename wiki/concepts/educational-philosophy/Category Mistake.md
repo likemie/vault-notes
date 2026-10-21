@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Category Mistake
@@ -191,9 +191,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统构建德甲联赛隐喻与四大教育本体范畴，从范畴错误与[[Incommensurability|不可通约性]]高度批判《[[Visible Learning|可见的学习]]》单一有效性排行榜。
 > - Ryle (1949) — 奠基性哲学著作《心的概念》，首创范畴错误理论，解构[[René Descartes|笛卡尔]]身心二元论实体化谬误。
 > - [[Critiques of Visible Learning]] — 梳理国际学界对可见学习的系统批判谱系，涵盖范畴错误、统计失范与可见性规训等六大批评维度。

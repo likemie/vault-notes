@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Philip Foster
@@ -86,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927 年** 出生于英国伦敦。
 > - **1949 年** 毕业于伦敦大学政经学院（London School of Economics and Political Science, LSE），获人类学与社会学学士学位；随后在乌干达殖民地教育部任职，亲身经历非洲去殖民化与现代教育变迁。
 > - **1958 年** 赴美国芝加哥大学深造，师从著名教育社会学家安德森，1962 年获比较教育学博士学位。
@@ -160,8 +158,6 @@ updated: 2026-10-21
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -190,9 +186,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **芝加哥学派学术搭档** 导师兼长期合作者 安德森 — 共同开创比较教育实证社会学[[Paradigm|范式]]并执掌芝加哥中心；
 > - **第三代际实证同行** 诺亚、埃克斯坦（哥大学派）、霍姆斯（伦敦学派） — 共同构成 1960–1980 年代比较教育社会科学化运动的领军谱系；
 > - **方法论论辩对手** 卡扎米亚斯 — 围绕历史学的规律概括力与[[Scientific Paradigm|科学范式]]边界展开长达数十年的经典论争；
@@ -200,9 +194,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -217,9 +209,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证第三论述代际芝加哥学派（Anderson & Foster）的[[Structural Functionalism|结构功能主义]]分析模式，评述其寻找超越时空恒常规律的志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理福斯特 1960 年论文对历史学派个殊性的猛烈批评，以及卡扎米亚斯对[[Crane Brinton|布林顿]]式[[Working Hypothesis|历史探索性假说]]的辩护。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 评析福斯特与安德森在[[Scientific Paradigm|科学范式]]中建立的社会系统恒常关系理论。

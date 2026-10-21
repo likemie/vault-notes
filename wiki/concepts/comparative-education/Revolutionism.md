@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Revolutionism
@@ -150,9 +150,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 追溯 Wight 传统的革命主义演变，探讨其在[[Dependency Theory\|依附论]]和当代去殖民化转向中将比较教育铸为道德批判事业的逻辑。
 > - Dependency Theory (依附理论) — 作为革命主义传统在 1970 年代最核心的理论形态，旨在揭露中心-边缘的认知与经济压迫。
 > - [[De-Westernisation]] (去西方化) — 新兴地缘主体（如中国）与[[Re-Westernisation\|再西方化]]共享资本主义生存的权威争夺，是当代地缘博弈的典型。

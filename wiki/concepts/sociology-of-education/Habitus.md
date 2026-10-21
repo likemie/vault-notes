@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Habitus
@@ -70,18 +70,14 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs **理性选择** — 习性产生的实践"能够客观地'得到调节'并'合乎规则'，而并非有意识地目的性活动"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Bourdieu, 1990）。它不是成本收益计算的结果
 > - vs **结构决定** — 习性在既定倾向范围内保留了行动者的[[Creativity\|创造性]]和能动性空间，而非机械地决定行动。文化图式"可迁移和可推广"，行动者对文化的运用是创造性的（，引 Sewell, 1992）
 > - vs **习惯（habit）** — 习惯是机械重复的固定模式；习性是具有生成能力的倾向系统，可以在不同情境中产生不同的适应性实践
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > 习性概念的谱系可追溯至经院哲学，经[[Ethnography\|民族志]]田野的中介，最终发展为 Bourdieu 实践理论的核心操作概念：
 
 - **[[Aristotle|亚里士多德]] *hexis*** — 经 Thomas Aquinas 翻译为拉丁语 *habitus*，指一种稳定的品质或状态，使行动者倾向于以特定方式行动
@@ -92,9 +88,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 - **具身性** 习性铭刻在身体之中，表现为不经深思熟虑即可自然调用的感知、判断和行动倾向。用[[Yajun Zheng|郑雅君]]（2023）的话说，阶层条件"铭刻进了阶层成员各自的身体，化作了他们日用而不知的'上大学'的独特实践"
 - **生成性** 习性不是固定不变的程序，而是能够在不同社会情境中生成适应性策略的"生成语法"。Sewell（1992）指出文化图式是可迁移（transposable）和可推广的（generalizable）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Sewell, 1992）
@@ -103,16 +97,12 @@ updated: 2026-10-16
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - wiki-[[Pierre Bourdieu]] — 习性是布迪厄实践理论的枢纽概念，连接[[Champ\|场域]]（外部结构）和资本（争夺对象），使宏观社会结构与微观个体行动之间的双向转化成为可能
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 
 ### 习性错配：三种理论形态
 
@@ -160,18 +150,14 @@ updated: 2026-10-16
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **[[Determinism\|决定论]]指控** 批评者认为习性概念过于强调社会再生产，低估了行动者的能动性和变革可能性。[[Argument_Eacott_2011_JEAH\|Eacott (2011)]]的论文可以被视为对这一批评的回应——他运用 Bourdieu 框架恰恰是为了论证"替代性领导习性"的可能性
 > - **经验[[Operationalization\|操作化]]困难** 如何在具体研究中实证地捕捉"习性"？[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]以[[In-depth Interview\|深度访谈]]和[[Constructivist Grounded Theory\|建构主义扎根理论]]的方法操作化习性概念，提供了可参照的范例，但大量[[Quantitative Research\|定量研究]]仍难以直接测量习性本身
 > - **概念弹性过大** 习性几乎可以解释任何行为——优势阶层学生的成功归因于习性，其失败也可归因于习性滞后。批评者认为这种"解释一切"的弹性反而削弱了概念的分析力
 
 ---
 
-## 相关案例／政策
-
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[Goal-Controlled Mode]] — 优势阶层习性在大学[[Champ\|场域]]中的实践表现
 > - [[Intuition-Dependent Mode]] — 弱势阶层习性在大学场域中的实践表现
 > - [[Cultural Barrier]] — 习性错配在大学场域中产生的文化障碍

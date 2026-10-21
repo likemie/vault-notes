@@ -10,9 +10,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 8
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2001–2008"
 initiator_organization: "德国联邦教育与研究部（BMBF）与基尔大学 IPN 研究所"
@@ -25,27 +25,23 @@ tags:
   - theme/stem
 related_concepts:
   - "[[Scientific Literacy]]"
-  - "[[PISA Shock]]"
-  - "[[Competitiveness]]"
 related_theories: []
-related_methods:
-  - "[[Action Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Sotiria Grek]]"
 related_facts:
+  - "[[PISA]]"
+  - "[[Federal Ministry of Education and Research]]"
   - "[[Chemie im Kontext]]"
   - "[[SINUS]]"
-  - "[[Federal Ministry of Education and Research]]"
-  - "[[PISA]]"
   - "[[PISA Shock in Germany]]"
-  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Physik im Kontext
@@ -128,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

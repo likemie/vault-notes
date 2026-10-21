@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-06-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Re-Westernisation
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | Re-Westernisation (再西方化) | [[De-Westernisation\|De-Westernisation (去西方化)]] |
 > |------|--------|----------------|
 > | **地缘代表主体** | 以美国与西欧等资本主义帝国核心为主导。 | 以中国等新兴崛起非西方力量为代表。 |
@@ -111,9 +109,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2011 — 殖民矩阵的双重路线划分** [[Walter Mignolo]] 在 *The Darker Side of Western Modernity* 中系统对比了美国主导的“再西方化”与中国崛起的“[[De-Westernisation\|去西方化]]”之间的张力与共存。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 > - **2014–2018 — 知识帝国与[[Governing at a Distance\|远处治理]]机制剖析** [[Comparative Education Society in Europe\|CESE]] 等学界多位学者细化了超国家多边组织通过基准测试行使远处治理、充当“知识新帝国”的实证运行机制。(Klerides et al., 2014; Cowen, 2018, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
 > - **2023 — 比较教育[[Discourse|话语]]的再西方化解构** Klerides 追溯比较教育史，指出[[Global Citizenship\|全球公民]]、人权与生态身份在表面上宣扬多元世界，实质上配合了新自由主义地缘霸权的“再西方化”扩张。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 429–430]])
@@ -131,7 +127,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入探讨了后冷战时代比较教育中去殖民学者对再西方化认识型、多边数据规训和“[[Banal Imperialism\|平庸帝国主义]]”的宏观批判。

@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dual In-Line Package
@@ -103,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960–1963 — 军工主导的金属罐与扁平封装时期** 仙童与德州仪器等主要提供 TO-5 金属罐封装与 TO-84 扁平封装，主要满足机载导航对极端紧凑与耐震动要求。
 > - **1964–1965 — 仙童研发与双列直插封装确立** 力克斯·赖斯带领系统与器件团队研发 DIP 架构，在征询控制数据公司等整机客户后定型为 14 引脚与 16 引脚双列直插规格。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 205–207)]]
 > - **1966–1980年代 — 成为全球微电子产业标准** 德州仪器、摩托罗拉、英特尔等全行业芯片厂商全面采纳 DIP 标准，主导了个人电脑与家电产业数十年。
@@ -124,7 +122,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 系统考证了[[Fairchild Semiconductor|仙童半导体]]如何从计算机整机装配与印刷电路板布线经济学出发，打破军用扁平封装局限，发明并推广双列直插封装（DIP）成为商用半导体行业标准的过程。

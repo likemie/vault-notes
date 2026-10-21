@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Social Deafness
@@ -185,16 +185,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Technological Republic|技术共和国]]工程治理与社交失聪体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统建构科技组织的微观文化哲学：在第 12 章通过[[Asch Conformity Experiment|阿施从众实验]]、莫奈与贝多芬案例正式提出“社交失聪”与[[Constructive Disobedience|建设性不服从]]，阐明[[Engineering Mindset|工程思维]]抵御盲从与组织平庸的微观机理；在第 1 章批判硅谷主流科技精英脱离国家安全使命的盲从倾向。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

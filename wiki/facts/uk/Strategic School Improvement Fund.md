@@ -41,7 +41,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-09-18
+updated: 2026-10-22
 ---
 # Strategic School Improvement Fund
 
@@ -88,9 +88,7 @@ updated: 2026-09-18
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Central Phenomenon
@@ -204,9 +204,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1967 — [[Grounded Theory|扎根理论]]核心范畴提出** 巴尼·格拉瑟与安塞尔姆·施特劳斯（Glaser & Strauss, 1967）在《扎根理论的发现》中提出“核心范畴（Core Category）”，作为持续比较分析中整合其他类属的理论基石。
 > - **1987–1990 — [[Paradigm|范式]]模型与[[Story Line|故事线]]规范化** 施特劳斯（Strauss, 1987）与施特劳斯与科宾（Strauss & Corbin, 1990）系统确立六要素范式模型，将核心现象正式确立为[[Axial Coding|主轴编码]]的结构枢纽与[[Selective Coding|选择性编码]]中故事线的核心承载者。
 > - **1994–2003 — [[Qualitative Research|质性研究]]设计规范化** 约翰·克雷斯威尔（Creswell, 1994, 2003）将“核心现象”引入质性研究设计规范，确立了[[Purpose Statement|目的陈述]]脚本、核心提问公式与[[Nondirectional Language|非方向性语言]]准则。
@@ -264,9 +262,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统确立核心现象在[[Qualitative Research|质性研究]][[Purpose Statement|目的陈述]]与核心提问中的单一聚焦规范与[[Nondirectional Language|非方向性语言]]准则（Ch. 6 & 7）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在[[Grounded Theory|扎根理论]]主轴与[[Selective Coding|选择性编码]]专节中系统阐释核心范畴的最大解释潜力、[[Story Line|故事线]]整合与包容层级整合机制（Ch. 30）。
 

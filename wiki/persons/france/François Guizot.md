@@ -10,7 +10,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 16
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[François Guizot]]"
   - "[[Victor Cousin]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[Horace Mann]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # François Guizot
@@ -70,9 +69,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1787** 出生于法国尼姆（Nîmes）的新教资产阶级家庭；父亲在法国大革命雅各宾恐怖统治时期被送上断头台，[[François Guizot|基佐]]随母亲流亡日内瓦，接受严格的古典与加尔文主义哲学教育。
 > - **1812–1830** 返回巴黎任索邦大学现代史教授，成为立宪“空想派（Doctrinaires）”自由主义理论领袖；主张中间道路，既反对波旁复辟时期的极端保皇反动，亦反对激进平民共和暴动。
 > - **1830–1832** 七月革命推翻波旁王朝建立奥尔良七月王朝；基佐步入权力中枢，委托同道哲学家[[Victor Cousin\|维克多·库森]]前往德国考察普鲁士公共教育体系。
@@ -138,9 +135,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心政治盟友与学术共谋** [[Victor Cousin\|维克多·库森]] — 共同推崇折衷自由主义哲学，委派库森赴普鲁士考察并由库森主笔起草《1833 年[[Guizot Law of 1833\|基佐法案]]》。
 > - **立法蓝本原型设计者** [[Johann Wilhelm Süvern\|约翰·威廉·聚芬]] — 普鲁士 1819 年草案的设计者，为[[François Guizot|基佐]]提供了国家监督与省立师范的成熟技术框架。
 > - **跨国影响对象** [[Horace Mann\|霍勒斯·曼]]与[[Henry Barnard\|亨利·巴纳德]] — 在美利坚援引基佐法案在法国的实操成功经验，作为推进各州建立公学行政机关与[[Normal School\|师范学院]]的合法化依据。
@@ -164,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -41,14 +41,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Australia in the Asian Century White Paper
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 2012 年，澳大利亚政府发布了一份重要报告——通常称为"Henry Report"——指出 21 世纪很可能是一个"亚洲世纪"，澳大利亚人民和机构必须认识到这一事实对其未来繁荣的影响([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]])。该白皮书是在亚洲经济持续高速增长、全球经济和[[Geopolitics|地缘政治]]重心向亚洲转移的背景下制定的。
 
 ## 政策文本摘要
@@ -59,34 +57,24 @@ updated: 2026-10-20
 > [!quote|notitle]
 > "The Asian Century is an Australian opportunity. As the global centre of gravity shifts to our region, the tyranny of distance is being replaced by the prospects of proximity."（Henry, 2012, p.1, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]]）
 
-## 时间线
-
-> [!note|notitle]
+> [!note] 时间线
 > - 2012 发布白皮书（Henry, 2012）
 > - 后续推动 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF) 等与研究合作相关的项目
 
-## 实施情况
-
-> [!example|notitle]
+> [!example] 实施情况
 > 白皮书推动了澳大利亚在高等教育和研究领域与亚洲的系统性对接([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]])：
 > - **AISRF**（澳印战略研究基金）— 旨在维持和加强与印度的研究关系
 > - **ACSRF**（澳中科学与研究基金）— 旨在与"高绩效国家"合作，"增强我们的表现"，与具有"互补研究优先事项和挑战"的亚洲国家合作（Barlow, 2014, p.13, cited in）
 > - 更广泛的《[[International Education\|国际教育]]国家战略 2025》延续了白皮书的方向，旨在"加强国内外伙伴关系、提升学生和[[Teacher Mobility|教师流动]]性、通过促进卓越来使澳大利亚教育机构参与全球竞争"
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 指出很少有国家像澳大利亚那样积极发展与亚洲高等教育系统的战略联系。白皮书及相关项目使澳大利亚成为将高等教育和研究合作系统性地嵌入国家亚洲战略的先行者([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]])。
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 > - Rizvi 暗示该白皮书将亚洲崛起主要框定为"澳大利亚的机遇"，其底层逻辑仍是[[Competitiveness|国家竞争力]]而非对称性合作——这与后疫情时代所需的"超越商业逻辑的国际化"形成张力([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–102]])
 > - 白皮书的乐观预期在 COVID-19 疫情和中美[[Geopolitics|地缘政治]]紧张后受到严峻考验——过度依赖亚洲学生学费的澳大利亚大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])
 
-## 相关概念／理论
-
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 > - [[Geopolitics of Knowledge]] — 白皮书体现了知识[[Geopolitics|地缘政治]]在国家政策层面的运作：国家通过战略投资将自身定位为知识流动网络中的核心节点
 > - [[Internationalization of Higher Education]] — 白皮书是澳大利亚高等教育国际化从[[Developmentalism|发展主义]]理性转向市场理性的政策标志
 

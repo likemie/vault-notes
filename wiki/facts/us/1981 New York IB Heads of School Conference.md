@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # 1981 New York IB Heads of School Conference
@@ -71,17 +71,13 @@ updated: 2026-10-21
 > [!warrant]- 公开会议如何改变冲突性质
 > 私下传闻难以区分城市成本、象征印象和真实资源流向。会议把质疑公开化，权威董事会据此提供可核查说明，共同管理委员会再把争论转化为分配协议；其后两次区域向总部的资金支持提供了行为证据。冲突没有因价值共识自动消失，而是获得了可以反复使用的处理机制。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **治理透明度** 校长年会成为公开检验区域费用、代表性和课程控制疑虑的场所。
 > - **跨组织协调** [[International Baccalaureate North America\|IBNA]] 领导进入 [[International Baccalaureate|IBO]] 管理委员会，使区域意见与全球责任在共同机构内协商。
 > - **身份边界** 争议推动组织更明确地区分法律和财务上的区域自主，与课程和考试上的国际统一。
 > - **财务互助** 1981 与 1983 年资助显示北美增长可以反向支持日内瓦，而不只是消耗全球资源。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|

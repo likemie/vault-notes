@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Cross-sectional Study
@@ -120,9 +120,7 @@ updated: 2026-10-20
 > - 需要注意抽样，确保样本所依据的信息是全面的（Lietz & Keeves, 1997, p. 124）。
 > - 存在测量误差的风险——如选择了不适当的测量指标或量表。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

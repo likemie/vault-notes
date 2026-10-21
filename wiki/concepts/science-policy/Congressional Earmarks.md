@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Congressional Earmarks
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 国会科研专项拨款（Congressional Earmarks） | 竞争性同行评议资助（Competitive Grants） | 显性民用产业技术计划（Explicit Tech Programs） |
 > |:---|:---|:---|:---|
 > | **决策主体** | 参众两院议员政治协商与预算法案操盘手 | 独立科学家评审专家组与项目主管（PO） | 联邦民用行政部门（如 NIST、[[Department of Energy\|DOE]]）专业官员 |
@@ -153,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s — 专项拨款萌芽与学术游说兴起** 国会议员开始在联邦拨款法案中指令性列支特定大学的科研基建款项，专业公关与游说公司介入学术经费争夺。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 > - **1994 — 共和党革命与显性产业政策转入地下** 共和党掌控国会后将商务部[[Advanced Technology Program|先进技术计划]]（[[Advanced Technology Program|ATP]]）削减至 1900 万美元，但在实际执政中大量借助专项拨款与五角大楼预算向地方高科技集群输送研发资金。[[Argument_Block_2008_PS|(Block, 2008, pp. 185–186)]]
 > - **2000s — 批判高潮与隐蔽网络国家理论再审视** 专项拨款规模膨胀至历史峰值，阿特金森等学者从同行评议角度发起严厉批评；布洛克（2008）则提出[[Developmental Network State|发展型网络国家]]视角，指出国会资助的产学协同中心具有超越单纯政治分肥的局部生产性。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
@@ -200,9 +196,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -221,8 +215,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统阐释美国隐蔽[[Developmental Network State|发展型网络国家]]在面对保守派反大政府修辞时，如何将国会专项拨款作为输送研发资本、建立产学协同中心的隐蔽制度通道，并实证指出此类中心具有不可忽视的局部生产性成效。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 从战后[[Research Universities|研究型大学]]治理与同行评议制度演进视角，系统揭露国会专项拨款规避择优竞争程序对学术公信力的侵蚀，并论证单纯政治分肥硬件大楼无法使高校逾越学术资本积累规律。

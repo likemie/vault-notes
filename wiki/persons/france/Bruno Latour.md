@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Bruno Latour
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1947** 出生于法国博讷（Beaune）的一个传统葡萄酒酿造世家。
 > - **1975–1977** 前往美国加州索尔克研究所（Salk Institute）开展人类学[[Fieldwork\|田野调查]]，观察生化实验室日常科研实践。
 > - **1979** 与史蒂夫·伍尔加（Steve Woolgar）合著出版《实验室生活》（*Laboratory Life*），首次提出科学事实是实验室人与仪器铭文建构的产物。
@@ -145,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** 米歇尔·卡隆（Michel Callon）— 共同创立[[Actor-Network Theory\|行动者网络理论]]（ANT）与转译社会学。
 > - **师承／合作者** 约翰·劳（John Law）— 共同发展关系物质性与耐用材料秩序化理论。
 > - **师承／合作者** 史蒂夫·伍尔加（Steve Woolgar）— 合著《实验室生活》，开创微观科学实验室[[Ethnography\|人类学研究]]。
@@ -176,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

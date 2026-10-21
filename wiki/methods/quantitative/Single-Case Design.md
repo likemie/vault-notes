@@ -61,7 +61,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ## 概念辨析：两种含义
@@ -151,9 +151,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > - **单一研究不足以支撑[[Theories of Policy Change\|政策变革]]** 一项 SCD 研究不太可能产生足够的实证证据来支持政策变革，即使它可能推动局部实践的调整([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.460]])
 > - **5-3-20 阈值的任意性**[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, pp.466–467)]] 坦承 5-3-20 标准"在某种程度上是任意的"（somewhat arbitrary），基于专家判断和逻辑，可能过于严格或过于宽松，需要在实践中检验和修订
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

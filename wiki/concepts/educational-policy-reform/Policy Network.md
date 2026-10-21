@@ -113,7 +113,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Network
@@ -164,9 +164,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **理念编排与[[Discourse|话语]]建构（Idea Orchestration）** 网络内部各节点（如智库、官方中介）协同宣传特定政策话语或实证理论（如将特定认知科学理论包装为唯一科学真理），框定讨论前提并排斥异质观点（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]）。
 > - **人事与资金的跨界穿梭（[[Boundary Spanner\|boundary spanning]] & Shared Affiliations）** 核心骨干在官方监管机构、民间智库、跨国慈善基金会与中介组织之间兼任多重职务，实现政策意图的隐性合流（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]）。
 > - **机构[[Co-affiliation\|共同从属]]与多重从属性（Co-affiliation & [[Multiplicity]]）** 政策网络决策层跨越政界、商界与慈善界，以共同捐赠人、多重董事兼职与子公司控股构成闭环网络（如 [[Social Ventures Australia\|SVA]] 董事、[[Education Endowment Foundation\|EEF]] 高管与商业银行家共同主导 [[Australian Education Research Organisation\|AERO]]）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
@@ -316,9 +314,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960s–1970s [[Pluralism|多元主义]]与执行网络奠基** 罗伯特·达尔（Robert Dahl, 1961）从多元主义视角将政府视作多元冲突利益行动者的谈判网络；普雷斯曼与瓦尔达夫斯基（Pressman & Wildavsky, 1975）及汉夫与夏普夫（Hanf & Scharpf, 1979）开创政策执行中的组织间[[Network Analysis|网络分析]]。
 > - **1980s–1990s 欧陆公共行政与[[Network Governance|网络治理]]理论成型** 莱姆布鲁赫与施密特（Lehmbruch & Schmitter, 1982）奠定[[Neocorporatism|新法团主义]]网络协调；[[Walter J. M. Kickert|瓦尔特·基克特]]（Kickert, 1991, 1995）与罗兹（Rhodes, 1996）系统论证政策网络的去中心化、多理性与相互依赖特征，确立“网络中无绝对顶层”与[[Steering at a Distance|间接调控]]治理[[Paradigm|范式]]。
 > - **2012 跨国政策网络转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（[[Stephen Ball]]）提出全球政策网络与异质治理概念，指涉跨国中介公司、[[Venture Philanthropy\|风险慈善]]基金会以及新自由主义智库对主权国家公共政策的网状操纵。
@@ -433,9 +429,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与耐用客体装配视角，解构澳大利亚政策网络如何以麦肯锡系[[Venture Philanthropy\|风险慈善]]为枢纽创设国家[[Educational Brokerage Agency\|证据中介机构]]。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 运用网络[[Ethnography\|民族志]]绘制 [[Social Ventures Australia\|SVA]] 辐射网络（[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]]），揭示异层治理实践与避税特许如何将公共税收逆向导流至私营中介。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 运用政策[[Network Analysis\|网络分析]]方法解构澳大利亚教师教育改革中的公私共谋与理念编排机制。

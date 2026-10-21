@@ -21,7 +21,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-10-22
 ---
 
 # Faust
@@ -38,16 +38,12 @@ updated: 2026-05-25
 > [!quote|notitle]
 > 最广为人知的两个浮士德版本分别出自英国剧作家Christopher Marlowe和德国诗人歌德（Johann Wolfgang von Goethe）。Marlowe的版本强调血签契约的不可撤销性、知识被用于轻浮目的以及最终走向绝望的诅咒。歌德则将交易修改为附条件版本——只有当浮士德感到满足时，魔鬼才算获胜；最终天使拯救了浮士德，因为他的追寻与渴望从未停歇([[Argument_Li_2012_Cambridge\|Li, 2012, p.1]])。
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > - 浮士德形象在Marlowe的剧作中体现为"通过学问寻求不正当权力"（illegitimate power through learning）的悲剧人物([[Argument_Li_2012_Cambridge\|Li, 2012, p.1]])。
 > - 歌德在19世纪中叶的改写赋予浮士德精神以新的内涵：永不停止的求知与进取是值得赞美的品质，最终获得救赎。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]]将浮士德作为西方学习传统的象征：一种不惜代价追求知识、探索外部世界、以个人才智与理性为核心的学习取向([[Argument_Li_2012_Cambridge\|Li, 2012, pp.14-15]])。
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > [[Argument_Li_2012_Cambridge\|Li (2012)]]概括了浮士德所代表的西方学习传统的六个关键主题：
 
 1. 人类对外部世界的好奇心是知识的灵感来源([[Argument_Li_2012_Cambridge|Li, 2012, p.15]])。

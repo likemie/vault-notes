@@ -32,14 +32,12 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Task Structure
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 任务结构（task structure）是指教学与学习任务在目标表述、操作步骤、所需资源、认知线索以及评价标准上的明确与规范程度（Frederiksen, 1984; Spiro et al., 1988）。学术任务通常分布在由良构任务（well-structured task, WST）到劣构任务（ill-structured task, IST）的连续谱系上。良构任务具有明确的解题路径、充分的预设信息和精确的评分规则；劣构任务则具有目标模糊性、开放式解题空间，缺乏现成算法与现成材料，需要学习者自行检索资源、权衡证据并作出[[Reflexivity\|反思性]]判断。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 310-312)]]
@@ -131,7 +129,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 通过平衡顺序的组内实验设计，对比高中生在良构任务（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）中的[[Academic Achievement\|学业表现]]与[[Reflexivity\|反思性]]判断，证实任务结构对[[Epistemological Beliefs\|认识论信念]]预测效应的调节作用。

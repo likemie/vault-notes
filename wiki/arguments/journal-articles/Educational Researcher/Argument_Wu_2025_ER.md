@@ -81,7 +81,7 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wu_2025_ER"
@@ -320,9 +320,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **研究设计类型约束** 作为概念性专论，成果主要依托理论推演与探索性质性案例，尚未在大样本[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）或[[Quasi-Experimental Designs\|准实验设计]]中系统检验自适应[[Epistemic Stances\|认识立场]]干预策略的量化效果。（pp. 360, 366）
 > - **情感与动机[[Variable\|变量]]未完全涵盖** 理论框架主要聚焦于认知与[[Epistemology\|认识论]]维度，尚未充分整合学习者的成就动机（如时间压力、分数敏感度）、学科兴趣与[[Self-Efficacy\|自我效能感]]等情感态度变量对人机交互策略的复杂调节作用。（p. 366）
 

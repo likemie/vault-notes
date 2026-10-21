@@ -64,7 +64,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # School Autonomy
@@ -269,8 +269,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
 > [!evidence-grid-a] 相关研究索引
 > - Keddie et al. (2020) — 深入调研澳大利亚四州公立教育体系，系统解构新自由主义市场逻辑如何腐蚀学校自主权并诱发严重的校际分层与残余化。
 > - Keddie et al. (2020, IJLE) — 运用多兰悖论[[Analytic Framework|分析框架]]提炼出学校自主权改革的四大结构性悖论，探讨公共教育中“公共性”的重构危机。
@@ -299,7 +297,7 @@ updated: 2026-10-21
 > | **历史沿革与政策案例** | [[Local Schools Local Decisions]] | 事实 | 新南威尔士州推行的学校自主权政策，被批评实质为财政紧缩削减公共成本的技术工具。 |
 > | **历史沿革与政策案例** | [[Independent Public Schools Western Australia]] | 事实 | 西澳州将数百所学校转为独立公立学校的激进改组，体现了自主权的大规模体制化实践。 |
 > | **历史沿革与政策案例** | [[My School Website]] | 事实 | 澳大利亚全国高风险学校测试信息比对公开平台，驱动了自主权下的恶性[[School Choice\|择校]]竞争与层级化。 |
-> | **核心支撑论证** | [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] | 论证 | 揭示学校自主权作为全球教育话语支柱与跨国机构双重垄断机制的经典论证。 |
-> | **核心支撑论证** | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | 论证 | 剖析苏格兰如何以跨国测评数据确证学校自我评估与教师专业自主权，抵御英格兰集权督导渗透。 |
+> | **核心支撑论证** | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 揭示学校自主权作为全球教育话语支柱与跨国机构双重垄断机制的经典论证。 |
+> | **核心支撑论证** | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析苏格兰如何以跨国测评数据确证学校自我评估与教师专业自主权，抵御英格兰集权督导渗透。 |
 > | **核心学者与[[Critical Theory\|批判理论]]家** | [[Jason Beech]] | 人物 | 比较教育学者，揭示学校自主权作为[[Global Educational Discourse\|全球教育话语]]支柱与跨国机构双重垄断机制的核心代表。 |
 > | **核心学者与批判理论家** | 阿曼达·凯迪（Amanda Keddie） | 人物 | 批判政策学者，系统实证剖析澳大利亚学校自主权悖论、市场化扭曲与残余化现象。 |

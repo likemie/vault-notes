@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cognitive Complexity Index
@@ -90,15 +90,11 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1955 — Bieri 提出指数** 最初为每对[[Construct\|构念]]计算匹配系数并求和，作为认知复杂性的[[Operationalization\|操作化]]指标。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011, p. 10)]]
 > - **现在 — 基于平均相关** 通常以构念间平均相关系数计算；也可按单个构念计算其与其余构念的平均相关。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011)]]
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在个人[[Construct\|构念]]库（[[Repertory Grid Technique\|repertory grid]]）分析中作为认知复杂性/简单性的核心测量指标，用于判断个体构念结构的分化程度与世界理解的多维性（Ch. 25, p. 10）。

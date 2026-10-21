@@ -68,15 +68,15 @@ related_concepts:
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Chemie im Kontext]]"
+  - "[[SINUS]]"
   - "[[Beyond 2000 Report]]"
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[UK Science Education Tracker]]"
   - "[[Public Attitudes to Science]]"
-  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
-  - "[[Chemie im Kontext]]"
-  - "[[SINUS]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
@@ -98,7 +98,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Scientific Literacy
@@ -142,11 +142,11 @@ updated: 2026-10-21
 ## 概念辨析
 
 > [!contrast-table] 科学素养与相近核心[[Construct|构念]]辨析表
-> | 比较维度 | [[Scientific Literacy|科学素养（Scientific Literacy）]] | [[Science Capital|科学资本（Science Capital）]] | [[Data Literacy|数据素养（Data Literacy）]] | [[AI Literacy|人工智能素养（AI Literacy）]] |
+> | 比较维度 | [[Scientific Literacy\|科学素养（Scientific Literacy）]] | [[Science Capital\|科学资本（Science Capital）]] | [[Data Literacy\|数据素养（Data Literacy）]] | [[AI Literacy\|人工智能素养（AI Literacy）]] |
 > |---|---|---|---|---|
-> | **核心关注** | 理解科学运作、评估证据质量、接纳不确定性与坚守实证客观性 | 解释个体为何认为科学是否适合我的综合社会[[Cultural Capital|文化资本]] | 评估日常生活与媒体中海量数据、图表、统计与风险的能力 | 理解算法推荐逻辑、识别[[AI Hallucination|大模型幻觉]]与人机协作伦理 |
-> | **构念构成** | [[Nature of Science|科学本质]]、探究方法、证据辨析、怀疑与可复现性、反意识形态偏误 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、算法偏见审计、合成伪证鉴别、版权溯源意识 |
-> | **在知识生态中的定位** | 全民[[21st Century Skills and Competencies Discourse|核心素养]]基础与国家循证治理基石 | 社会学阶层与认同分析工具；涵盖素养但延伸至社会网络 | 科学素养在量化实证维度的必要技术支撑与量化延伸 | 科学素养在生成式数字时代的全新延伸与认知护栏 |
+> | **核心关注** | 理解科学运作、评估证据质量、接纳不确定性与坚守实证客观性 | 解释个体为何认为科学是否适合我的综合社会[[Cultural Capital\|文化资本]] | 评估日常生活与媒体中海量数据、图表、统计与风险的能力 | 理解算法推荐逻辑、识别[[AI Hallucination\|大模型幻觉]]与人机协作伦理 |
+> | **构念构成** | [[Nature of Science\|科学本质]]、探究方法、证据辨析、怀疑与可复现性、反意识形态偏误 | 科学素养、科学相关态度、媒体消费、校外参与、家庭人脉 | 样本代表性、[[Effect Size\|效应量]]、因果推论、概率认知与统计偏误识别 | 提示词工程、算法偏见审计、合成伪证鉴别、版权溯源意识 |
+> | **在知识生态中的定位** | 全民[[21st Century Skills and Competencies Discourse\|核心素养]]基础与国家循证治理基石 | 社会学阶层与认同分析工具；涵盖素养但延伸至社会网络 | 科学素养在量化实证维度的必要技术支撑与量化延伸 | 科学素养在生成式数字时代的全新延伸与认知护栏 |
 > | **主要政策场景** | 基础教育科学课程改革、公民素养监测、联邦科研评审去意识形态化 | 促进教育公平、打破边缘群体与女性科学参与壁垒 | 应对数字媒体统计误导、公共卫生与气候危机风险沟通 | 防范算法虚假信息扩散、规范智能检索与科研辅助使用 |
 
 ---
@@ -334,11 +334,9 @@ updated: 2026-10-21
 > | **YouGov 2025 英国议员调查** | 英国下议院 108 名国会议员专属[[Questionnaire\|问卷调查]] | 科学信息获取主要渠道、信息[[Reliability\|可靠性]]甄别及 AI 使用 | • **55%** 依赖智库与倡导团体<br>• **48%** 依赖大学学者<br>• **47%** 依赖互联网开放检索<br>• 仅 **22%** 使用 POST，仅 **12%** 使用国家学术院<br>• 仅 **5%** 自述使用 AI | 定量揭示立法决策群体在科学信源上的偏误结构，缺乏鉴别可靠性的规范规程，凸显全政策社群 STEM 与数据分析素养培训的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]] |
 > | **Kerr et al. (2022) PNAS Nexus** | 英国与美国公众大规模在线[[Randomised Controlled Trials\|随机对照实验]] | 科学[[Scientific Uncertainty\|证据不确定性]]披露模式与公众信任度 | 向公众坦诚披露科学证据的不确定性（[[Confidence Interval\|置信区间]]），**未显著降低**公众对事实的信任度与对科学家个人的诚信评价 | 推翻了承认不确定性会削弱科学权威的传统偏见，证明透明性沟通提升信任。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]] |
 > | **Sumner et al. (2014) BMJ** | 英国 20 所大学 462 篇健康新闻通稿及 668 篇媒体报道 | 通稿与媒体报道的夸大发生率及因果推论错位 | • **40%** 通稿给出确定生活建议（原始研究仅发现相关性）<br>• **33%** 通稿将相关偷换为因果<br>• 通稿夸大时媒体夸大发生比（OR）暴增 **6.5–56 倍** | 实证证明源头机构过度营销是虚假信息主因，凸显证据素养与科学批判力的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]] |
-> | **[[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]** | PISA 2000 首次跨国测评（32 国）及德、英两国政策文献与媒体档案 | 跨国比较个案与政策社会学分析 | 科学素养国际排位、教育媒体报道版面量、理科课程改革工程 | 德国科学素养列第 20 位，引发 687 个版面危机报道并促成 CHIK 与 SINUS 理科改革；英国科学素养高居第 4 位 | 实证揭示跨国测评对国家科学教育体制的重构力量，促成科学教学从系统学科识记转向情境化应用能力导向。[[Argument_Grek_2009_JEdPolicy\|(Grek, 2009, pp. 29–30)]] |
+> | **[[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]** | PISA 2000 首次跨国测评（32 国）及德、英两国政策文献与媒体档案；跨国比较个案与政策社会学分析 | 科学素养国际排位、教育媒体报道版面量、理科课程改革工程 | 德国科学素养列第 20 位，引发 687 个版面危机报道并促成 CHIK 与 SINUS 理科改革；英国科学素养高居第 4 位 | 实证揭示跨国测评对国家科学教育体制的重构力量，促成科学教学从系统学科识记转向情境化应用能力导向。[[Argument_Grek_2009_JEdPolicy\|(Grek, 2009, pp. 29–30)]] |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统梳理基于 [[PISA]] 2015 大规模实证数据的科学素养研究，论证了探究教学提升科学素养的关键在于教师支架与活动维度（实验操作 vs 盲目辩论），揭示了探究与[[Direct Instruction|直接教学]]协同促成科学素养生成的“最佳平衡点”。

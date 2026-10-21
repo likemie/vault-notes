@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research Topic
@@ -184,9 +184,7 @@ Creswell & Bàez (2020) 列举了六种为已有文献提供新视角的方式�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 将研究选题作为研究方案设计的第一步，系统阐述选题来源、可行性与贡献评估以及工作标题草拟
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011, Ch.6)]] — 提出选题来源的四类驱动力框架、原创性与贡献的区分以及维持兴趣的决策维度
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 从教育研究的六种性质出发，提供六种选题途径、四条层层递进的选题标准以及[[Research Question\|研究问题]]明确化的系统方法

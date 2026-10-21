@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 113
+related_count: 112
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Re-Westernisation]]"
   - "[[PISA Shock]]"
-  - "[[Disciplinary Institutionalization]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Knowledge Production]]"
   - "[[Allgemeine Pädagogik]]"
@@ -130,17 +129,17 @@ related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
-  - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Li_2025_HSSC]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Borrowing
@@ -563,8 +562,6 @@ updated: 2026-10-21
 > | [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] | [[Liberal Studies\|香港通识教育科]]（2000–2021 年）创立、实施至废除全生命周期政策卷宗 | 纵向政策文本分析与批判[[Discourse Analysis\|话语分析]] | 国际话语[[Externalization\|外化]]频率、课程规程与争议政策落地周期 | 创立期高频外化引用英美及 IB [[Discourse\|话语]]；废除期外部话语彻底消失并被主权指令取代 | — | 深度单案例质性追踪，揭示借用在威权强力下的失效边界 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较德国、英格兰、苏格兰与芬兰对 PISA 的政策吸纳，实证揭示跨国政策借用作为“策略性外在化”平息国内争议、推行争议性改革或确证既有路线的政治合法化机制。

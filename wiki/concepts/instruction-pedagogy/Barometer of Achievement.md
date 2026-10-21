@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Barometer of Achievement
@@ -154,9 +154,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2003 年 — [[Assessment Tools for Teaching and Learning|asTTle]] 监控界面创立** [[John Hattie|哈蒂]]领导的研发团队为新西兰教育部推出 [[Assessment Tools for Teaching and Learning|asTTle]] 软件系统，首次在管理端界面引入半圆表盘，用于实时汇总和监控教师在各学科的测验运用数据。
 > - **2009 年 — 跨界移植至《可见学习》** 《可见学习》将 asTTle 的管理表盘全面应用于正文排版，为 138 项教育影响因素逐一配备气压计插图，确立了以绿区（$d \ge 0.40$）为顶点的视觉标准。
 > - **2010–2018 年 — 商业化视觉品牌垄断** 在 [[Cognition Education|认知教育]]与[[Corwin Press|考文出版社]]的商业化推广中，成就气压计被注册并印制在各类咨询手册、学校认证奖章及培训海报上，成为全球最具辨识度的[[Evidence-Based Education|循证教育]]商业符号之一。
@@ -208,7 +206,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 考证气压计图表源于 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件的制度史，系统批判其[[Neo-Taylorism|新泰勒主义]]控制逻辑及其对[[Teacher Professional Agency|教师专业自主权]]的侵蚀。

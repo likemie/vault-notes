@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # 1983 International Baccalaureate Financial Crisis
 
@@ -87,9 +87,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Baccalaureate]] | Concept | 危机揭示共同课程扩张必须配套中央和区域财政制度。 |

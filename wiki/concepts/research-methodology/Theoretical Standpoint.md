@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Theoretical Standpoint
@@ -67,9 +67,7 @@ updated: 2026-10-17
 > - **[[Queer Theory\|酷儿理论]]（Queer theory）** 聚焦女同性恋、男同性恋、双性恋、跨性别者等（LGBTQ2A+）的个体身份，反对将这些个体客体化，寻求改善其文化与政治处境，突出个体的声音和经验（Gamson, 2000）。
 > - **残障探究（Disability inquiry）** 关注从社会文化视角理解残障人群，让他们掌控自己的生活，而非从生物学角度理解残障（Mertens, 2009）。
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > Rossman and Rallis (2012) 概括了质性探究中批判视角和后现代视角的核心主张：（1）研究本质涉及权力问题；（2）研究报告并非透明，而是由具有种族、性别、阶级和政治取向的个体所撰写；（3）种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要；（4）历史上，传统研究压制了受压迫和边缘化群体的声音（p.91）。
 
 ## 概念辨析

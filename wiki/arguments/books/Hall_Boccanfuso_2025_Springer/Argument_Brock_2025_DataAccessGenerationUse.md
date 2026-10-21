@@ -38,7 +38,7 @@ part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-06-04
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Brock_2025_DataAccessGenerationUse"
@@ -63,9 +63,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 不使用显性理论框架，而是提供一种**操作性的四维分析视角**来审视[[University-Industry Collaboration\|产学合作]]中的数据议题(p.303)：
 > - **隐私（Privacy）** 受哪些联邦、州和国际法规保护；个人可识别信息如何管理
 > - **法规（Regulation）** 研究数据的管理和共享受哪些法律和资助方政策约束
@@ -76,9 +74,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（NIST SP 800-53）、[[EU|欧盟]]法规（GDPR、Data Governance Act）、学术文献 (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
 
 ---
@@ -275,9 +271,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 这篇综述不提供实证数据或跨案例比较分析，而是以法律和政策文本为基础构建参考框架。隐私和安全法规变化迅速（截至写作时已有 20 个州通过数据隐私法、数州待决）。具体条款的操作性取决于协议签署时的现行法规。数据共享技术（隐私增强技术 Privacy-Enhancing Technologies, PETS、安全数据容器）的可行性仍在发展中，未来可能改变产学数据协议的技术可能性边界。后续章节（第 15 章知识产权管理、第 17 章国际伙伴关系）对部分议题有更深入的专题讨论。
 
 ---

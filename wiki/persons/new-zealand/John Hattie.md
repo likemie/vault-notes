@@ -186,7 +186,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # John Hattie
 
@@ -206,9 +206,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1950** 出生于新西兰提马鲁（Timaru），后获奥塔哥大学学士与教育学硕士学位，多伦多大学心理测量学与统计学博士学位。
 >
 > - **1987** 与 Fraser、Walberg 及 Welch 合作发表 100 页专著，综合 226 项[[Meta-analysis\|元分析]]检验[[Walberg's Educational Productivity Model\|教育生产力模型]]，开启教育领域最早的系统性[[Comparative Meta-synthesis\|比较性元综合]]探索。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 41–42)]]
@@ -339,9 +337,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与学术合作关系** [[Herbert Walberg]]（合作综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]）；[[John Biggs]]（合作开展学习技能干预[[Meta-analysis|元分析]]）；Helen Timperley（合作发表反馈元分析）；Gregory Yates（合作撰写认知学习科学专著）；Tanja Jansen 与 Jens Möller 等（合作开展基于 Meta-X 数据库的大模型[[Automated Data Extraction|自动化数据提取]]评测）。
 > - **继承者与本土化转译者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard（斯堪的纳维亚本土化引介与转译，运用系统论为可见学习辩护）；Deb Masters（[[Visible Learning]] 教师培训实施与全球实践案例库联合编著者）。
 > - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定[[Meta-meta-analysis|二阶元分析]]不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal 等人（针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
@@ -432,9 +428,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

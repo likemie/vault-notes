@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Normalization through Knowledge Cooperation
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 知识合作常态化 | 单边霸权扩张 | 外围依附追赶 |
 > |------|----------------|--------------|--------------|
 > | **网络拓扑结构** | 多对多（Many-to-Many）交叠网状拓扑 | 一对多（Hub-and-Spoke）放射状辐射 | 外围向单一西方核心单向连接 |
@@ -126,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 理论局限与适用边界
-
-> [!theory-boundary|notitle] 理论局限与适用边界
+> [!theory-boundary] 理论局限与适用边界
 > - **适合分析** 新兴经济体通过多边机制推动的高等教育[[Outward-Oriented Internationalization|外向型国际化]]、区域性科研合作联盟演进与多边学术网络扩张。
 > - **成立条件** 发起国拥有充裕的科研[[Counterpart Funds|配套资金]]与外向型政策支持，伙伴院校具备自主参与跨国合作的学术意愿与法定资质。
 > - **解释不足** 案头[[Documentary Analysis|文献分析]]难以直接测度各成员高校对“常态化”中心地位的真实心理认同度与微观抵触情绪；对突发性地缘对抗（如制裁断联）对多边网络密度的冲击缺乏长期追踪。
@@ -136,7 +132,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 首次界定知识合作常态化命题，通过丝路联盟与[[Asian Universities Alliance|亚洲大学联盟]]的比较案例实证阐发网络中心性常态化的运行逻辑。

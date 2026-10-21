@@ -42,7 +42,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peter Thiel
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1967** 出生于西德法兰克福，后随家庭移居美国，获斯坦福大学哲学学士（1989）与法学博士（1992）。
 > - **1998–2002** 联合创立 PayPal，开创数字支付时代；2002 年 PayPal 被 eBay 收购后，其团队核心成员被称为“PayPal 黑帮”（PayPal Mafia）。
 > - **2003–2004** 联合创立 [[Palantir Technologies]]（专注于国防防务、反恐情报与复杂大数据分析平台），并成为 Facebook 早期首位外部天使投资人。
@@ -131,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

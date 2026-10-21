@@ -84,7 +84,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Recontextualization
@@ -113,9 +113,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 再情境化（Recontextualization） | [[Policy Borrowing\|政策借用]]（Policy Borrowing） | [[Transfer Translation Transformation\|3T 框架]]（3T Framework） | 认知误解（Misunderstanding） |
 > |---|---|---|---|---|
 > | **分析重点** | [[Discourse\|话语]]脱离原情境后的选择性过滤与意义变异机制 | 国家层面上对外来政策的决策采纳、修辞与合法化 | 教育思想跨国流动的三个宏观阶段（转移—转译—转化） | 将接受者的吸收偏差归咎于被动的认知失误 |
@@ -210,9 +208,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 — 语篇再情境化[[Champ|场域]]理论奠基** Bernstein 提出再情境化概念，系统划分[[Knowledge Production|知识生产]]语境、官方再情境化场域（ORF）与教学再情境化场域（PRF），分析阶级权力如何通过[[Discourse|话语]]重新定位来规训教育实践。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350; Bernstein, 1990)]]
 > - **2009 — 跨国教育思想转移视角扩展** Schulte 将再情境化发展为跨国教育转移[[Analytic Framework|分析框架]]，通过[[John Dewey|杜威]]在中国的百年接受史展现本土行动者基于意识形态议程的选择性挪用与重写机制。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
 > - **2009 — 全球—国家—实践三层空间变异** [[Argument_Beech_2009_CE|Beech (2009a)]] 提出[[Global Educational Discourse|全球教育话语]]的三层空间再情境化，揭示能力话语如何被抽空为[[Floating Signifier|漂浮能指]]，并在国家政策并置与学校地缘物质条件制约下发生层级变形。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
@@ -260,9 +256,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 以[[John Dewey|杜威]]在中国 100 年的四次再情境化为例，阐述跨国教育转移中接受者基于意识形态与本土痛点展开的选择性挪用与重写机制。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 提出全球—国家—实践三层再情境化模型，分析教育[[Discourse|话语]]如何被抽象化为[[Floating Signifier|漂浮能指]]并在不同层级发生功能性变形。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Champ|场域]]五位置模型，揭示国际机构过度简化学术话语并在降落微观学校机构时引发严重的再情境化脱节与制度扰动。

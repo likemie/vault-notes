@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # IB Expansion in North American Public High Schools 1977-1984
@@ -99,9 +99,7 @@ updated: 2026-10-21
 > [!warning] 解释边界
 > 学校数量、培训人数与案例描述能够证明制度扩张，不能直接证明课程质量、学生成绩或公平性改善。学校案例经过选择，也不构成北美 IB 学校的代表性样本。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131, 152–160)]]
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|

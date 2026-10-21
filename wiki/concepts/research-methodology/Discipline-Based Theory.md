@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Discipline-Based Theory
@@ -279,9 +279,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, pp. 69–72)]] — 详尽论述学科理论在[[Mixed Methods Research|混合方法研究]]中的概念界定、六大功能模型与经典研究案例。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 93–94)]] — 阐析欧洲比较教育学依托大学讲座教授制建立的学科本位理论传统，及其对早期无理论依托量化测验的警惕与抵制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 揭示[[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]如何将学习重心从客观学科理论（knowing that）转移至程序性操作技能（[[Procedural Knowledge|knowing how]]），解构了学科理论的[[Epistemology|认识论]]边缘化。

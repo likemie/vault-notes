@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Migrant Children
@@ -174,9 +174,7 @@ updated: 2026-10-16
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 在知识网络中的定位与功能 |
 > |:-----|:-----|:-------------------------|

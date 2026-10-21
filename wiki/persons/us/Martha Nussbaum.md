@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Martha Nussbaum
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1947** 出生于美国纽约，后在哈佛大学获得哲学博士学位。
 > - **1994** 在《波士顿评论》（*Boston Review*）发表争议性论文《爱国主义与[[Cosmopolitanism|世界主义]]》，掀起当代关于爱国主义伦理地位的重大论战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 > - **1995** 加入芝加哥大学法学院与哲学系任教。
@@ -105,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** 阿玛蒂亚·森（Amartya Sen）— 共同奠定[[Capability Approach|可行能力方法]]。
 > - **思想共鸣者** [[Richard Sennett|理查德·桑内特]] — 共同倡导超越民族国家认同的多元协作构想。
 > - **当代批评者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 批判其[[Cosmopolitanism|世界主义]]导致国家认同虚空化。
@@ -126,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

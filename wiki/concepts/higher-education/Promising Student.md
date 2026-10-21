@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Promising Student
@@ -58,9 +58,7 @@ updated: 2026-10-20
 > [!quote|notitle]
 > "The identification of the 'promising student' is not simply a matter of finding the naturally given talents, however. Rather, it means to address students with respect to their potential success through self-evaluation and self-optimization."([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.221]])
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 ### 竞争性大学的地缘政治框架
 
@@ -94,9 +92,7 @@ updated: 2026-10-20
 > [!example|notitle]
 > 在规训社会中，考试是权力的节点——学生在考试前被规训、考试后被释放。在控制社会中，OSA 将权力的作用点提前到入学之前，[[Learning Analytics\|学习分析]]系统在学习全程中持续追踪学生的每一项行为。一个学生可能因为 OSA 结果显示"外语经历不足"而在入学前就开始自行弥补，入学后被学习平台标记为"高风险"，被辅导员约谈——但她从未被"开除"。控制社会的特点是"'解雇'不再存在"（Deleuze, 1992, p.5），任何人都被永久地纳入调制之中。
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 
 - **个体化责任的过度赋予** 将学业成功框架为个人选择问题，忽视了结构性不平等——入学前的"起点差异"（如[[Socioeconomic Status|社会经济背景]]、学校质量）在 [[Online Self-Assessment|OSA]] 的自我反思框架中被转化为"个人需要弥补的不足"
 - **教育[[Open-Mindedness|开放性]]的丧失** 当学生的未来被简化为"被预测的未来"（predicted future），教育的根本开放性——即 [[Bildung]] 所指向的不可预测的成长——被压缩为数据相关性([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])

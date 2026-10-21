@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Thomas D. Seeley
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1952** 出生于美国宾夕法尼亚州，自幼在乡村农场观察自然生态。
 > - **1974–1978** 毕业于达特茅斯学院，随后在哈佛大学师从著名社会生物学家爱德华·O. 威尔逊（Edward O. Wilson）与伯特·霍尔多布勒（Bert Hölldobler），获得生物学博士学位。
 > - **1980–1986** 在耶鲁大学任教，随后转入康奈尔大学长期执教并建立全球领先的蜜蜂行为学实验室。

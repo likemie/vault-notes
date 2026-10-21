@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Imagined Community
@@ -92,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -155,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 现代民族国家认同建构、大规模陌生人群体的制度化协作、历史与公民教育叙事解构、科技企业内部文化组织。
 > - **成立条件** 依赖广泛普及的文字语言、大众传媒系统、制度化国家教育网络与公共交往空间。
 > - **解释不足** 容易将共同体简化为均质的宏观建构，掩盖了内部阶级、性别与族群之间的权力不平等；过度强调人工建构性可能低估民众真实的情感依恋与历史记忆积淀。
@@ -190,8 +186,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用想象的共同体理论，实证对比了中国大陆与香港初中历史教科书中的领土型与族裔型民族想象。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》：[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]] 论证想象链接克服[[Dunbar's Number|邓巴数]]维系科技协作与守卫情感民族；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]] 剖析[[Civic Rituals|公民仪式]]瓦解与硅谷技术公社兴起。

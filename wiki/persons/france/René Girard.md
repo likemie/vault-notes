@@ -10,7 +10,7 @@ summary: "法国哲学家、人类学家与文化理论家，法兰西学术院�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[René Girard]]"
   - "[[Peter Thiel]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # René Girard
@@ -73,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1923** 出生于法国阿维尼翁。
 > - **1947** 毕业于巴黎文献学院（École Nationale des Chartes），同年赴美深造，在印第安纳大学获得历史学博士学位。
 > - **1961** 出版代表作《浪漫的谎言与小说的真实》（*Deceit, Desire and the Novel*），首次系统提出欲望的三角模仿模型。
@@ -135,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献说明 |
 > |:-----|:-----|:-----|

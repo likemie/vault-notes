@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Law of Requisite Variety
@@ -156,9 +156,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 高度专业化、学科[[Heterogeneity|异质性]]强、技术变迁迅速且依赖一线专业人员裁量权的组织系统（如大学、科研院所、现代医院）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 148–150)]]
 > - **成立条件** 受控子系统必须具备基本的组织成熟度、自律伦理与透明的信息披露机制，且宏观反馈回路必须保持通畅与公正。
 > - **解释不足** 对涉及人身安全底线、财务防伪底线或全国性强制普适标准的领域（如考场安全防作弊、基础教育最低生均拨款基准），依然必须依赖严格的刚性自上而下细则管制，不能机械套用自组织假设。
@@ -181,9 +179,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # 1985 Trieste Intergovernmental Conference on the International Baccalaureate
 
@@ -120,9 +120,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Baccalaureate]] | Concept | 共同课程的扩展、治理与评分机制构成平衡政策的制度基础。 |

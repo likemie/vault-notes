@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rescaling
@@ -166,9 +166,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合[[Topological Spatialisation\|拓扑空间化]]与[[Assemblage\|装配理论]]，系统考察德国教育监测中[[Data Infrastructure\|数据基础设施]]驱动的跨尺度政策重组。
 > - Brenner (2004) — 开创国家空间尺度重组理论，系统论证资本主义全球化下的国家空间再造。
 > - Robertson and Dale (2015) — 运用尺度重组视角分析全球教育政策空间的层级结构与生成机制。

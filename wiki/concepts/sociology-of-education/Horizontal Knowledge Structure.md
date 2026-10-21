@@ -30,14 +30,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Horizontal Knowledge Structure
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > Horizontal Knowledge Structure（横向知识结构）是 [[Basil Bernstein]] 用来分析社会科学知识形态的概念。它指一种由多个专门语言组成、缺乏整合原则的知识结构；每种语言都有自己的提问方式、文本建构标准和说话者群体，彼此之间难以完全翻译([[Argument_Ball_2008_SR\|Ball, 2008, p.651]])。
 
 ## 核心问题
@@ -45,9 +43,7 @@ updated: 2026-10-21
 > [!abstract] 问题意识
 > 横向知识结构解释了为什么社会学和教育社会学容易出现[[Paradigm\|范式]]争论、理论片段化和“新语言”的竞争。知识发展不一定表现为更高层次的整合，而常常表现为新的理论语言、新的问题、新的连接方式和新的说话者出现([[Argument_Ball_2008_SR\|Ball, 2008, p.651]])。
 
-## 核心要素
-
-> [!abstract|notitle] 核心要素
+> [!abstract] 核心要素
 > - 专门语言：社会科学由多个专门语言构成，每种语言都有自己的问题意识、判断标准和文本生产方式([[Argument_Ball_2008_SR\|Ball, 2008, p.651]])。
 > - 难以翻译：不同理论语言之间不容易互译，说话者群体也往往具有排他性；学术资本与维护或挑战这些语言有关。
 > - 弱语法：横向知识结构的概念语法较弱，学习者很难明确判断自己是否“真的在说或写社会学”。

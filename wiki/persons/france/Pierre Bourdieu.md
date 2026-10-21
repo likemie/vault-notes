@@ -81,7 +81,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pierre Bourdieu
@@ -100,9 +100,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1930** 出生于法国 Béarn 地区 Denguin 小镇，普通底层家庭传统出身使其始终对阶层流动、选拔制度和文化合法性问题保持敏感。
 > - **1951–1954** 就读巴黎高等[[Normal School\|师范学院]]，接受系统哲学训练。在存在主义与马克思主义占主导的学术环境中，转向历史与[[Epistemology\|认识论]]研究。
 > - **1955–1960** 前往阿尔及利亚服兵役，随后在此开展[[Ethnography\|民族志]]调查并任助教。这一经历成为其从纯哲学转向经验社会学与人类学的决定性起点。
@@ -213,9 +211,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** Jean-Claude Passeron — 关键法兰西学术合作者，合著多本教育再生产核心著作。
 > - **合作者** Loïc Wacquant — 芝加哥大学社会学家，合著阐述[[Reflexivity\|反思性]]社会学方法。
 > - **批评者／论敌** Luc Boltanski — 曾为其研究室核心助手，后脱离再生产[[Paradigm\|范式]]，创立了强调行动者日常评判能力的[[Pragmatic Paradigm\|实用主义]]社会学。
@@ -253,9 +249,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

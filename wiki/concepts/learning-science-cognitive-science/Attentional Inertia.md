@@ -28,12 +28,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-10'
-updated: 2026-09-22
+updated: 2026-10-22
 ---
 
 # Attentional Inertia
-
-## 定义
 
 > [!info] 核心定义
 > 注意力惯性（Attentional Inertia）指个体在进行[[Cognitive Shifting\|认知转换]]（Cognitive Shifting / Task Switching）时，由于过度关注先前具有相关性的规则或刺激特征，导致难以将注意力转移并压制旧规则以执行新规则的认知控制受阻现象。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 11)]]

@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-22
+updated: 2026-10-22
 ---
 
 # University Corporate Engagement Professional
@@ -46,9 +46,7 @@ updated: 2026-09-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > UCEP 的核心职能包括：
 
 - **解读与匹配** 有效解读技术平台（如 Pivot、Elsevier Pure、Academic Analytics）提供的匹配数据，将潜在合作机会情境化，促成有意义的引荐（pp.77–78）

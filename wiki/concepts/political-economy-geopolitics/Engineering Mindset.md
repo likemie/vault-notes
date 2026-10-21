@@ -102,7 +102,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Engineering Mindset
@@ -146,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 工程思维 | 官僚合规文化 | 金融套利思维 |
 > |---|---|---|---|
 > | **核心评价标准** | 真实系统是否有效运行、能否解决物理/战区危机 | 是否严格遵循既定审批程序与回避个人责任 | 资本周转率、市盈率估值与短期退出回报 |
@@ -309,9 +307,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1940s — 军工协作的原型** 格鲁曼飞机工程公司在长岛工厂与海军飞行员深度互动，开创研发与实战使用者极度亲密的工程原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 142–143)]]
 > - **1950s — [[Hedgehog and Fox Model|刺猬与狐狸]][[Epistemology|认识论]]启示** [[Isaiah Berlin|以赛亚·柏林]]发表《刺猬与狐狸》，确立一元论统摄与多元务实思维的经典划分，启发工程文化对[[Pragmatic Paradigm|实用主义]]的坚持。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
 > - **1950s–1960s — 社会心理学实验奠定反从众认知基石** 阿施与[[Stanley Milgram|米尔格拉姆]]的经典实验揭示了人类屈从群体压力与盲从权威的普遍弱点，为工程思维强调独立判断与反盲从提供了心理学反思基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–136)]]
@@ -362,9 +358,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -387,7 +381,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - **[[Technological Republic|技术共和国]]与工程思维体系** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 论证工程组织微观机制、[[Swarm Intelligence|群智能]]、[[Constructive Disobedience|建设性不服从]]、商用采购与[[Innovation Desert|创新荒漠]]突破。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Ch. 10)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Ch. 11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Ch. 12)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Ch. 13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Ch. 14)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Socratic Dialogue
@@ -240,9 +240,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析[[Inquiry-Based Learning\|指导式探究]]的教学法构成，引用 McDermott (1996) 将[[Socrates\|苏格拉底]]对话界定为理科探究中促进深层概念建构的典型指导形态。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估苏格拉底对话（$k=8, g+=0.27$）对学生[[Critical Thinking\|批判性思维]]的干预效果。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 阐述对话在克服储蓄式灌输、建立批判性共同探究中的哲学与教学机制。

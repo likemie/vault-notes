@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Transformative Change
@@ -59,9 +59,7 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > 变革转型[[Paradigm\|范式]]的出现是对前两个[[Innovation Policy Paradigms\|创新政策范式]]递进式批判的结果([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.28–35]])：
 
 1. **范式一：科学促增长（1940s–1980s）**——以"科学→技术→增长"的线性模型为基础，政府角色是资助基础研究以弥补[[Market Failure|市场失灵]]。其盲区：忽略了创新涉及多行动者的双向互动，[[Tacit Knowledge|隐性知识]]、[[Absorptive Capacity|吸收能力]]和制度环境同样关键
@@ -72,9 +70,7 @@ updated: 2026-10-20
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 变革转型[[Paradigm\|范式]]在系统范式的基础上，新增了四种失灵类型（Weber & Rohracher, 2012; Schot & Steinmueller, 2018）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.32–34]])：
 
 | 失灵类型 | 含义 | 例子 |
@@ -93,9 +89,7 @@ updated: 2026-10-20
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Systems of Innovation]] — 变革转型[[Paradigm\|范式]]建立在创新系统理论之上，但批判其"过于被动"。两者共享"创新是多行动者系统行为"的核心立场，但在政策导向（修复 vs 引导）上分道
 > - [[Mission-Oriented Innovation Policy|使命导向型创新政策]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）——与变革转型范式高度共鸣，主张政府应设定宏大的使命（如登月计划）来引导创新方向
 > - 转型管理理论（Transition Management）——与变革转型共享对长期系统变革、多方治理和实验学习的关注
@@ -116,9 +110,7 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **实施证据不足** 变革转型目前更多是一种规范性愿景（normative vision）而非已验证的政策框架——"仍处于起步阶段，几乎没有广泛实施的实例"（Lindner et al., 2024）（p.34）
 > - **对政府能力的要求可能过高** 主动引导方向性变革要求政府具备远超传统政策工具的战略规划、跨部门协调和社会选择能力——这在政治极化和短期选举周期下是否可行存在疑问
 > - **民主合法性问题** 谁来决定"正确"的方向？变革转型隐含的"政府引导"逻辑可能与多元民主中的利益协商过程存在张力

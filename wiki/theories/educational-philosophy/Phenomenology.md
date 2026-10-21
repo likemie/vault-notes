@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Phenomenology
@@ -199,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 学习者的深层情感危机、师生微妙的主体间信任建立、[[Hidden Curriculum|隐性课程]]体验、跨学科现象探究、对教育技术化政策的哲学批判。
 > - **成立条件** 研究者需要具备极高的方法论[[Reflexivity|反思性]]（Reflexivity），主动[[Epoché|悬置]]先验偏见，并投入充足的时间与参与者建立深度信任。
 > - **解释不足** 理论聚焦于微观生活世界的意义生成，本身并不直接解释宏观制度变迁、大规模教育财政资源分配或跨国教育体系的结构性规律。
@@ -237,9 +235,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 23)]] — 阐释现象学作为[[Interpretive Paradigm|诠释范式]]基石的[[Epistemology|认识论]]与胡塞尔[[Epoché|悬置]]；Hycner 的 15 步访谈分析见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Ch. 21]]，现象学还原与主题聚类原则见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Ch. 29]]。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024, p. 4)]] — 深入解析现象学作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）哲学根基的实践转化与政策抗衡。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019, p. 3)]] — 借助身体现象学与教化哲学，全面反思可见学习对学习可见性的机械执念。

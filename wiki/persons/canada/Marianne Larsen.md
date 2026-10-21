@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Marianne Larsen
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1963** 出生于加拿大。
 > - **2000** 在伦敦大学教育学院（IOE）完成比较教育史学方向哲学博士学位，受欧洲深厚史学传统与后现代[[Critical Theory|批判理论]]双重熏陶。
 > - **2001** 在圣安东尼奥举行的 [[Comparative and International Education Society|CIES]] 国际年会上发表引发学界轰动的里程碑论文《通过福柯弥合鸿沟：在比较教育中重塑历史》（*Reinventing the historical in comparative education: Bridging the gap through Foucault*），系统公布三大旗舰期刊近 2000 篇论文的方法论计量数据，正式提出“[[Historical Amnesia|历史健忘症]]”论断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
@@ -108,9 +106,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

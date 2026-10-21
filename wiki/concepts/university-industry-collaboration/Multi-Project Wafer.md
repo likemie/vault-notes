@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Multi-Project Wafer
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 多项目晶圆（MPW） | 专用全掩模流片（Dedicated Full Mask） | 虚拟原型仿真（Virtual Prototyping） |
 > |---|---|---|---|
 > | **光罩与晶圆归属** | 多家机构共享同一套光刻掩模版与晶圆面积 | 单一客户独占整套光罩所有曝光视场 | 无物理晶圆与光罩，完全存在于计算集群中 |
@@ -163,9 +161,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979–1981 — [[MOSIS]] 创立与拼圆机制奠定** [[DARPA|美国国防高级研究计划局]]（[[DARPA]]）在战略计算倡议中设立 MOSIS 计划，首次将全美多所顶尖大学的 [[VLSI Project|VLSI]] 设计版图合并至单片晶圆流片；布洛克（2008）指出这一微小公共开支成功打破了芯片制造瓶颈，开启了全美高校激进芯片设计革命。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 > - **1989–1995 — 欧洲与亚洲区域性中试网络铺设** 欧洲设立 Eurochip（后更名为 Europractice），中国台湾地区设立国家晶片系统设计制作中心（[[Kendall Square|CIC]]），广泛推行政府补贴的 MPW 班车，支撑了全球无晶圆厂设计公司群落的爆炸式增长。
 > - **2000s — 纯代工厂商业化班车制度成熟** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）推出 CyberShuttle 商业化拼圆服务，中芯国际（SMIC）等主流晶圆代工厂跟进，将 MPW 从纯公共科研补贴机制拓展为半导体产业链的标准商业服务。
@@ -197,9 +193,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|
@@ -216,8 +210,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]视角阐明公共出资设立 [[MOSIS]] 与推广多项目晶圆共享拼版，如何以微小公共支出打破重资产芯片物理流片瓶颈，释放高校与初创企业的激进创新活力。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐明由[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）统筹聚合全美高校与小微企业多项目晶圆（MPW）流片需求，打破重资产制造壁垒并支撑先进制程与异构封装研发转化的顶层设计（pp. 23–24, 27–28）。

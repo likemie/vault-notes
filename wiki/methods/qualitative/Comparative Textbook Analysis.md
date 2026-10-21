@@ -47,7 +47,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-26'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Comparative Textbook Analysis
@@ -132,9 +132,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Official Knowledge]] | 概念 | 理论基石，规定了教科书作为支配权力合法化自身意识形态的研究客体定位。 |

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Travelling Policy
@@ -124,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将旅途政策和流动[[Discourse|话语]]定位为理性主义传统下，治理网络超越国家边界、进行远处协调的重要表征。
 > - [[Argument_Beech_2009_CE\|Beech, 2009a]] — 详细探讨了跨国机构作为“园丁”，使政策在[[Global Policy Space\|全球政策空间]]中旅行、 decontextualize 与 recontextualize 的机制。
 > - [[Transfer Translation Transformation]] (转译与 3T 框架) — 研究政策在其旅途终点，如何在本土社会空间受权力挤压而变形的微观机制。

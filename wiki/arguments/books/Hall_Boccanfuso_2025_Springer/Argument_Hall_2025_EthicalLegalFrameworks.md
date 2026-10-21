@@ -41,7 +41,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-04
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Hall_2025_EthicalLegalFrameworks"
@@ -82,9 +82,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 这是一篇政策与实践综述（policy and practice overview）。作者基于自身在 USC 担任科研副校长近 15 年的管理经验，结合美国大学[[University-Industry Collaboration\|产学合作]]的制度框架，系统梳理了产学合作协议的类型学、法律约束和伦理议题。
 
 ---
@@ -280,9 +278,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 作为该书"Mechanics of UI Relationships"部分的引言，不提供实证数据或系统性的案例分析。后续章节承担了更深入的专题讨论：第 15 章处理知识产权管理、第 16 章处理数据获取生成与使用、第 17 章处理国际伙伴关系(p.270)。这意味着此处提出的六类法律框架和伦理议题在后续章节中有更详细的展开——此处的功能是提供一个全景地图，而非逐一深挖。
 
 ---

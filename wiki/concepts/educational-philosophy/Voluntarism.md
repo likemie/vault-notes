@@ -55,7 +55,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Voluntarism
@@ -164,9 +164,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪末 — 精神[[Scientific Autarky\|科学自主]]性觉醒** [[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）划分自然科学与[[Geisteswissenschaften|精神科学]]，确立人类心灵体验、自由意志与理解（Verstehen）在人文研究中的核心地位。
 > - **1960s–1970s — 人本心理学与拟人化运动突破** [[Carl Rogers\|卡尔·罗杰斯]]（Carl Rogers）提出以人为中心的自我实现理论，[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德确立[[Anthropomorphic Model\|拟人化模型]]，向[[Behaviorism|行为主义]]机械客体观发起正面清算。
 > - **1979 — 社会科学人性坐标经典确立** 伯勒尔与摩根（Burrell & Morgan, 1979）将唯意志论明确定义为[[Subjectivism\|主观主义范式]]的人性基石，与[[Determinism\|决定论]]形成鲜明对照。
@@ -203,9 +201,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|

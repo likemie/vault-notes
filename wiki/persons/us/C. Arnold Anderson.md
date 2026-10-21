@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # C. Arnold Anderson
@@ -87,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1907 年** 出生于美国明尼苏达州。
 > - **1927–1932 年** 在明尼苏达大学攻读社会学，先后获得学士、硕士和博士学位。
 > - **1930 年代–1940 年代** 先后在艾奥瓦州立学院、哈佛大学以及肯塔基大学任教，从事农村社会学、社会分层与教育机会研究。
@@ -164,8 +162,6 @@ updated: 2026-10-21
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -199,9 +195,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **芝加哥学派学术搭档与门生** 福斯特 — 芝加哥中心副主任、核心合作者与学生；玛丽·让·鲍曼（Mary Jean Bowman） — [[Human Capital Theory|人力资本]]与教育经济学长期合作者；
 > - **跨大西洋实证科学化同盟** 诺亚、埃克斯坦（哥大学派）、霍姆斯（伦敦学派） — 共同构成第三代际社会科学化运动的三大重镇；
 > - **方法论论辩对手** 传统历史学派（[[Isaac Kandel\|坎德尔]]、汉斯、[[Michael Sadler\|萨德勒]]）及历史比较史学家（卡扎米亚斯）；
@@ -227,9 +221,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -247,9 +239,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考据比较教育第三代际芝加哥学派（Anderson & Foster）的结构功能分析，深入剖析其追求超越时空恒常规律的理论志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥[[Structural Functionalism|结构功能主义]]学派对恒常超越时空规律的追求及其方法论特征。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。

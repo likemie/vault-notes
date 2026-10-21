@@ -56,7 +56,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-10-17
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -68,9 +68,7 @@ citation_aliases:
 > [!question]
 > 数字学习技术——学习软件、教育 App、学习平台——并不是教育学上中立的工具。它们的开发者、编码者和设计者通过编程，将特定的学习主体假设和对"什么是学习"的理解写入产品之中。如果这些技术在 [[Global Education Industry\|全球教育产业]] 中大规模流通，它们不仅改变了教学的"效率"，更改变了教学**本身**——改变了教师与学生的关系、知识被呈现的方式、以及学习的终极目标。由此产生一个根本性的追问：算法技术是否以及如何系统性地排除了教育的核心目标——[[Bildung]]（人格陶成／教养）？
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 分析从三个理论资源出发，三者层层递进：
 
 - **[[Bildung]] 传统** 以 Humboldt(1793)的经典定义——个体与世界之间"最独立的[[Interaction Effect|交互作用]]"——为出发点。Bildung 不是一个"学习结果"，而是一个开放的人格形成过程：它要求时间、反思和容纳歧义的空间。结合 Nordenbo(2002)强调的"主动内核"——Bildung 不能被外部灌输，只能由主体主动参与自身的形成——以及 Masschelein and Ricken(2010)的三维度拆解（自我关系、他者关系、世界关系），Bildung 提供了一个评判算法技术之教育后果的规范性标准(pp.237–239, 246)。
@@ -79,14 +77,10 @@ citation_aliases:
 
 - **算法意义建构分析** 从信息论（Wiener, Kübler）、算法研究（Stalder, Berry）和界面设计（GUI/API 双层结构）出发，拆解算法系统如何通过数字化、量化和可视化这三个相互衔接的步骤来建构"知识"——以及这种建构与教育学意义上的[[Knowledge Building Theory|知识建构]]为何截然对立(pp.232–236)。
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 理论-分析讨论（theoretical-analytical discussion），结合对三款德国学校学习软件（Antolin 阅读平台、bettermarks 数学平台，以及一款未具名的学习软件）的界面和功能进行批判性分析。分析聚焦三个维度：即时反馈机制、奖励系统设计、表现仪表盘可视化。这些软件虽来自德国市场，但分析所揭示的机制——即时响应、[[Gamification]]、仪表盘——是跨国 EdTech 产品的通用设计模式。
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 
 ### 第一步：观察——GEI 中的算法技术不是中立的工具
 
@@ -201,9 +195,7 @@ Masschelein and Ricken（2010, p.130）将 Bildung 拆解为三重关系，为�
 
 当这些技术通过 [[Global Education Industry|全球教育产业]] 在全球范围内推广时，它们传输了一种特定的教学实践——一种市场逻辑、算法功能性和 Ed-Tech 叙事的融合。"数字技术具有流线化全球教学设置的力量"(p.246)。这就是数字[[Geopolitics of Knowledge|知识地缘政治]]的核心机制：通过否认文化和课程的差异，将学习标准化为全球统一的行为模式。如果 [[OECD]] 的 [[PISA]] 等评估目前还需要绕开各国不同的课程来出题，那么当数字学习平台进入课堂后，它们已经在直接标准化**什么被教以及如何被教**——这将使未来的全球评估变得更为便利，也使 Bildung 所承诺的对既定结构的反思和超越变得更加困难。
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - 算法系统中的[[Knowledge Building Theory|知识建构]]与教育学的知识概念"截然对立"——前者依赖同时性和可检索性（知识是随时可调取的信息），后者要求时间和主观意义建构（知识是在时间中形成的理解）(p.235)
 > - 在算法系统中，思考被视为"干扰[[Variable\|变量]]，因为它需要时间"；而对教育而言，思考是"应该在学校中培养的核心行动"(p.238)
 > - 学习软件的即时反馈消除了教学过程中的"中间阶段"——这一阶段本可以用于反思，也正是在这一阶段 [[Bildung]] 有可能发生(pp.240–241)
@@ -234,9 +226,7 @@ Masschelein and Ricken（2010, p.130）将 Bildung 拆解为三重关系，为�
 > “数字技术拥有精简全世界教育教学情境的权力。”
 > ("Digital technologies have the power to streamline pedagogical settings worldwide.")(p.246)
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 
 **案例范围的局限** 经验材料限于德国学校学习软件（Antolin、bettermarks），对其他国家或高等教育情境的适用性需要进一步论证。虽然指向[[Global Education Industry|全球教育产业]]，但德国的教学论传统（[[Didaktik]]/[[Bildung]]）在其他教育文化——尤其是英语国家的教育传统——中并不具有同等地位，这可能影响论证的跨国说服力。
 

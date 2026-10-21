@@ -77,7 +77,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-03
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch03
 
@@ -439,9 +439,7 @@ updated: 2026-10-20
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 本章分析主要聚焦于主流大众传媒（电视、广播、报刊）与社交网络数字平台；尽管报告明确肯定了通俗科学写作（Popular Science Writing）以及将科学融入电影、电视连续剧、电子游戏等大众娱乐媒体的重大潜能，但并未将这些衍生文化形态列为本章的深入考察核心。（p. 58）
 
 ---

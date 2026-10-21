@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-22
 ---
 
 # Five Cardinal Relationships
@@ -81,18 +81,14 @@ updated: 2026-05-22
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Self-Cultivation]] — 五伦提供了修身的主要实践[[Champ\|场域]]
 > - [[Benevolence]] — 在五伦中的完善实践导向仁
 > - [[Ritual Propriety]] — 礼是调节五伦关系的社会语法
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 五伦中的等级因素（父子、夫妇、兄弟间的尊卑）在现代平等主义框架下面临张力。但 Li 强调，儒家传统中的关系义务是相互的，而非单向的服从——"这些义务将持续一生"，且以"滋养彼此的福祉"为目的([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])
 
 ---

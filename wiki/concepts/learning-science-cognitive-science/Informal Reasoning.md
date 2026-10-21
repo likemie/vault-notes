@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Informal Reasoning
 
@@ -131,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s — 认知心理学转向** Voss 等人将非形式推理从传统形式逻辑学中独立出来，开辟了对社会科学与复杂现实[[Problem Solving\|问题解决]]机制的认知研究。
 > - **2000s — 科学教育领域[[Paradigm\|范式]]确立** Sadler 与 Zeidler 将非形式推理引入科学教育，系统建立了基于[[Socioscientific Issues\|社会科学议题]]（SSI）的推理模式编码体系与实证测量工具。
 > - **2010s 至今 — [[Practical Epistemology\|实践认识论]]与公民审议融合** Kelly & Licona 等人将非形式推理融入微观[[Discourse|话语]]协商与[[Epistemic Practices\|认识论实践]]框架，确立其作为公共[[Scientific Literacy\|科学素养]]核心支柱的学术地位。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157)]]
@@ -149,7 +147,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 对比探究科学与[[Socioscientific Issues\|社会科学议题]]在证据范围与非形式推理要求上的本质区别。

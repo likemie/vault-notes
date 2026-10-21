@@ -82,7 +82,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-06-01
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2017
 doi: ""
 citation_aliases:
@@ -107,9 +107,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 这一多维分析策略不追求单一的理论正统，而是主动拥抱三种理论传统之间的[[Creativity\|创造性]]张力，面对当代高等教育转型的复杂性，任何单一[[Theoretical Perspective\|理论视角]]都必然有盲点(pp.795–799)。
 
 ### 三类核心现象
@@ -387,9 +385,7 @@ Slaughter and Leslie(1997)和 Slaughter and Rhoades(2004)的 [[Academic Capitali
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **地理集中性** 文章在地理上集中于北美和西欧。主要论点及其讨论的[[Theoretical Perspective\|理论视角]]带有这种经验集中的色彩，但分析的意图指向具有全球相关性的发展。许多论证以美国为全球参照模型(pp.796–797)
 > - **理论分歧未被解决，仅被"调节"** 不同取向之间在三个核心议题上继续存在实质性分歧，变革的驱动力（政治选择 vs 系统性需求）、符号秩序的建构机制（因果解释 vs [[Discourse|话语]]建构）、以及新等级的概念化（制度改革对象 vs 系统性基础设施）。面对这些分歧，策略不是消除，而是通过共同比较承诺来"调节"（moderate），分歧依然存在，但可以在一个共同的比较框架下进行富有成效的对话(pp.807–809)
 > - **作为对话而非统一立场** 意图不是提供一种关于高等教育竞争改造的单一的、连贯的解读，面对当代过程的复杂性，任何单一解读必然是有局限的。其贡献在于展示如何通过不同学科传统间的批判性对话，来突出竞争的政治、话语和等级维度的各自重要性和相互作用。正是对这种相互作用的理解，构成了超越既有[[Paradigm\|范式]]，新制度主义、[[Sociology of Valuation and Evaluation\|评估社会学]]、或 Marx/Foucault/Bourdieu 理论的简单应用——的出发点(p.799)

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # George Papadopoulos
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1926** 出生于希腊，后赴英国牛津大学深造，获历史学博士学位。
 > - **1961** 伴随[[OECD|经合组织]]（OECD）由[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）改组成立，进入其早期的科学与技术人员办公室（Office for Scientific and Technical Personnel, [[Office of Science and Technology Policy|OSTP]]）任职，参与科技人力规划相关项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 > - **1968** 深度参与筹划与创建[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI），推动经合组织摆脱狭隘的冷战科技人力竞赛，全面探索经济增长的定性维度与教育的多元社会文化目标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
@@ -136,9 +134,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **机构平台** [[OECD]] — 长期任职教育副司长；[[Centre for Educational Research and Innovation|CERI]] — 核心创建者与副主任；[[Organisation for European Economic Co-operation|OEEC]] — 早期职业发端机构。
 > - **学术研究与史学对话者** [[Fazal Rizvi]] — 澳大利亚比较教育学家，系统挖掘帕帕多普洛斯档案；[[Bob Lingard]] — 批判政策学者，将其时代与新自由主义全球转向作比较对照。
 
@@ -156,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|

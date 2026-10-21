@@ -49,21 +49,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Learning Virtues
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 学习美德是 Li 从儒家文本中识别出的七种核心学习品质，它们构成了儒家学习者的个人能动性（personal agency）——即学习者在[[Self-Cultivation\|修身]]过程中必须发展和运用的内在品质。这些品质被称为"美德"，一是因为它们长期属于中国道德[[Discourse|话语]]的一部分，二是因为父母、教师和社会共同努力在儿童身上培养这些品质([[Argument_Li_2012_Cambridge\|Li, 2012, p.49]])。
 
 ---
 
-## 七种学习美德
-
-> [!abstract|notitle]
+> [!abstract] 七种学习美德
 > Li 从儒家文本中识别出七种核心学习美德([[Argument_Li_2012_Cambridge\|Li, 2012, pp.49-52]])，后续通过 [[Prototype Methods\|原型方法]] 实证研究在中国大学生对[[Ideal Learner\|理想学习者]]的描述中验证了其中五种作为"能动过程"（agentic process）的核心地位([[Argument_Li_2012_Cambridge\|Li, 2012, pp.91-94]])。以下将每种美德的文本传统与实证发现合并呈现——先传统后实证，以展示这些美德从古代文本到当代学习者的连续性。
 
 ### 1. 诚心／认真（Sincerity / Earnestness — chéngxīn / rènzhēn）
@@ -220,9 +216,7 @@ updated: 2026-10-17
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Self-Cultivation]] — 七种学习美德是实现修身的内在品质基础；美德不是修身的手段，而是修身在日常学习行为中的具体体现
 > - [[Benevolence]] — 学习美德是通往仁的[[Necessary and Sufficient Conditions\|必要条件]]
 > - [[Heart and Mind for Wanting to Learn]] — 好學心是动力源，学习美德是动力机制，两者构成[[Concept Mapping\|概念地图]]中最大的集群
@@ -230,9 +224,7 @@ updated: 2026-10-17
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 刻苦（keku）的美化可能导致对学习者——特别是来自贫困背景的学习者——承受不必要的痛苦的合理化和浪漫化([[Argument_Li_2012_Cambridge\|Li, 2012, p.50]])
 > - 尊师（zunshi）在实践层面可能退化为对权威的盲从，尽管理论层面强调相互性和教师的自我修养义务([[Argument_Li_2012_Cambridge\|Li, 2012, p.51]])
 > - 实证研究中的"尊师"和"[[Humility\|谦虚]]"出现为情感而非行为：这引发了一个方法论问题——受访者描述的是他们**实际做的**，还是他们**认为"应该"感受的**？情感描述可能比行为描述更容易受到社会赞许性（social desirability）的影响

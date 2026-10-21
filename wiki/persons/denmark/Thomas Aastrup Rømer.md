@@ -75,7 +75,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Thomas Aastrup Rømer
@@ -96,9 +96,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2003** 在 *Educational Theory* 发表论文，探讨后现代教育哲学视域下学习与评估的关系。
 > - **2012** 在 *Educational Philosophy and Theory* 发表[[John Dewey|杜威]]判断力哲学论文，阐发民主情境下的智能交易与想象力。
 > - **2014** 与 Tanggaard、Brinkmann 合编 *Uren Pædagogik 2*，正式提出“不纯粹教育”与“[[Pure Evaluation|纯粹评价]]”概念。
@@ -155,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **批判靶标** [[John Hattie|约翰·哈蒂]] — 罗默系统哲学审查的核心对象，批判其评价图式吞噬教育、建构“[[Research Cage|研究牢笼]]”。
 > - **丹麦论辩对手** [[Lars Qvortrup|拉尔斯·克沃特鲁普]]、Niels Egelund、Per Fibæk Laursen — 丹麦可见学习主要引介与辩护者，围绕医学类比、反馈集权化与“解释社群”展开激烈论战。
 > - **哲学与理论资源** [[John Dewey|约翰·杜威]]（经验与判断力）、[[Karl Popper|卡尔·波普尔]]（世界三与客观知识）、[[Immanuel Kant|伊曼努尔·康德]]（批判与反思判断）、[[Hannah Arendt|汉娜·阿伦特]]（新开端与公共领域）、[[Gert Biesta|格特·比斯塔]]（教育目的论与被动性）。
@@ -190,9 +186,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

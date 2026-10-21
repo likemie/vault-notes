@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Michael Barber
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1955** 出生于英国；后毕业于牛津大学彭布罗克学院（Pembroke College, Oxford），曾短暂担任中学历史教师及全国教师工会（National Union of Teachers, NUT）政策官员。
 > - **1992–1997** 出任基尔大学（Keele University）教育学教授，随后受聘为伦敦大学教育学院（Institute of Education, IOE）教育政治学教授，积极介入英国国家课程与[[School Effectiveness\|学校效能]]讨论。
 > - **1997–2001 — 执掌工党政府学校标准与效能组** 随着布莱尔领导的“新工党”上台，受邀出任英国教育与就业部（DfEE）学校标准首席顾问兼学校标准与效能组（SEU）负责人，将[[School Effectiveness\|学校效能]]（School Effectiveness）语言与达标指标成体系地注入英国国家政策机器（[[Argument_Ball_2008_SR\|Ball, 2008, p. 663]]）。
@@ -142,18 +140,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论与[[Discourse|话语]]路径** 将“交付学”确立为跨国公共管理与[[New Public Management\|新公共管理]]（New Public Management, NPM）晚期的显学话语，使“指标追踪”、“例行审议（Stocktakes）”与“交付机构（Delivery Units）”成为数十个主权国家与[[World Bank\|世界银行]]、[[OECD\|经合组织]]等国际组织的通用治理词汇。
 > - **政策与组织路径** 领导英国首相交付组与学校标准与效能组，彻底将目标设定与表格化绩效审计制度化；其麦肯锡报告的政策建议直接被英国教育大臣[[Michael Gove\|戈夫]]采纳并写入 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]，奠定了以 1.25 亿英镑政府资金创设英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的政策法理基石（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，巴伯开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹。在 Gephi 网络拓扑分析中，巴伯处于连接英国国际发展部（Department for International Development, DfID）、英国财政部（HM Treasury）、世界经济论坛（World Economic Forum, WEF）、全球商业战略咨询与跨国教育资本（Pearson）的核心跨界[[Policy Network|政策网络]]枢纽（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]），深刻推动了跨国商业咨询网络与教育跨国寡头对主权国家公共教育改革的深度介入与议程统摄。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **政界盟友与委托人** 托尼·布莱尔（Tony Blair，英国前首相）— 亲自设立并授权首相交付组，为其交付学体系提供国家中枢政治后盾；[[Michael Gove|迈克尔·戈夫]]（Michael Gove，英国前教育大臣）— 深度接受其麦肯锡咨询理念，在白皮书中规划设立 [[Education Endowment Foundation|EEF]]。
 > - **政策咨询与智库网络** [[Michael Traill|迈克尔·特雷尔]]（Michael Traill）与[[Social Ventures Australia|澳大利亚社会创投]]（[[Social Ventures Australia|SVA]]）网络 — 其全球咨询网络与麦肯锡前高管网络协同，推动英国 EEF 证据中介模式向[[Evidence for Learning|澳大利亚证据学习中心]]（[[Evidence for Learning|E4L]]）转译（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）。
 > - **政商学跨界与全球南方网络** 培生集团（Pearson plc）与培生可负担学习基金（PALF）— 亲任 PALF 董事会主席，与前麦肯锡同事凯特琳·唐纳利（Katelyn Donnelly）主导数千万美元风投资本流向全球南方低收费私立学校；同时依托世界经济论坛（World Economic Forum, WEF）等跨界平台输出全球教育治理框架（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]）。
@@ -179,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
@@ -205,9 +197,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 评析 Auld and Morris (2023) 采用神学与哲学透镜解构巴伯“交付学”全球教育改革，批判其将国家机器降格为指标管理附属品及挤压教育本真伦理的机制。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 揭示英国 [[Education Endowment Foundation\|EEF]] 的创设深植于前麦肯锡掌门人巴伯的全球咨询网络，并剖析跨国商业咨询网络如何协同[[Venture Philanthropy\|风险慈善]]渗透公立教育治理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 剖析前麦肯锡全球总裁巴伯的理念如何影响英国教育大臣[[Michael Gove\|戈夫]]在 2010 年白皮书中规划设立 EEF，追踪跨国因果证据中介的[[Policy Network\|政策网络]]源头。

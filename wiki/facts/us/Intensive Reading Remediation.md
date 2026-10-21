@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Intensive Reading Remediation
@@ -122,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Intensive Reading Remediation 列为初等阅读 Tier 3 专业教师辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释该方案如何作为 Tier 3 终极防线阻断重度特教转介。
 > - [[Cumulative Dosage Principle]] — 累积剂量原则主条目，本方案的长达 100 小时超大剂量是验证剂量抗衰理论的实证支撑。

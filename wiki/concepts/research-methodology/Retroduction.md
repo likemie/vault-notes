@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Retroduction
@@ -151,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1975–1979 年 — 哲学奠定阶段** [[Roy Bhaskar|罗伊·巴斯卡]]在《实在论的科学论》与《社会科学的可能》中，批判休谟与[[Immanuel Kant|康德]]的因果观，将逆推溯因确立为探索自然界与社会界深层机制的核心[[Epistemology|认识论]]手段。
 > - **1992 年 — 社会[[Scientific Method|科学方法]]论转化** 安德鲁·萨耶尔出版《社会科学中的方法》，系统将逆推溯因阐释为解释具体社会事件的生成性推断工具。
 > - **2002 年 — 步骤化操作体系成型** 贝特·丹纳马克等出版《解释社会：[[Critical Realism|批判实在论]]社会科学导论》，系统提出包含分析性分解、[[Counterfactual|反事实]]追问与竞争性模型比较的五步操作规程。
@@ -181,8 +179,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用逆推溯因法穿透[[Belt and Road Initiative|一带一路]]教育政策文本框架，反向重构国家复兴与全球秩序挑战的深层政治经济学因果机制。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 借助[[Critical Realism|批判实在论]]溯因推理，剖析[[School Effectiveness|学校效能]]指标背后的结构性阶层不平等再生产机制。

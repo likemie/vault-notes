@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 41
+person_related_count: 40
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -54,7 +54,6 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods: []
 related_persons:
-  - "[[Jean-François Lyotard]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Immanuel Kant]]"
   - "[[Jürgen Habermas]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jean-François Lyotard
@@ -199,9 +198,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** Gilles Deleuze — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；Jacques Derrida — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
 > - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视[[Jean-François Lyotard|利奥塔]]的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
 > - **现代跨国教育流通与知识商品化研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
@@ -219,9 +216,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Feeder Mechanism]] | 概念 | 其对“完美信息博弈”与“想象力”附加绩效的论断，被用于构建后现代跨学科课程的滋养机制理论。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 220)]] |

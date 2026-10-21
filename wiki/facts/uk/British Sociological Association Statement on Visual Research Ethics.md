@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-09
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # British Sociological Association Statement on Visual Research Ethics
@@ -68,9 +68,7 @@ updated: 2026-10-16
 > [!timeline] 声明时间线
 > - 2006 英国社会学协会发布[[Visual Research Methods\|视觉研究]]伦理实践声明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

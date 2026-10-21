@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-23
+updated: 2026-10-22
 ---
 
 # Shame (Confucianism)
@@ -49,9 +49,7 @@ updated: 2026-09-23
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 分析了儒家耻感的三个关键维度([[Argument_Li_2012_Cambridge\|Li, 2012, pp.40-41]])：
 
 1. **作为一种自我意识的情感** 与西方相似，耻是一种"当自我在社交和道德上失败时——通常在他人在场的情境中——产生的自我意识情感"。但在中国语境中，耻与内疚（guilt）的关系远比西方更紧密([[Argument_Li_2012_Cambridge|Li, 2012, p.40]])。
@@ -78,18 +76,14 @@ updated: 2026-09-23
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - 与[[Mencius\|孟子]][[Four Sprouts\|四端]]说的关联：羞恶之心 → 义([[Argument_Li_2012_Cambridge\|Li, 2012, pp.42-43]])——耻感是义的先天萌芽
 > - [[Self-Cultivation]] — 耻是修身中自我纠正的内在机制
 > - [[Learning Virtues]] — 耻与诚心（真诚面对自己）和[[Humility\|谦虚]]（承认不足）直接关联
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 耻在实践层面可能从"自我纠正"滑向"社会羞辱"（public shaming）——"在他人面前"的元素可能使耻从内在的道德警醒变质为外在的社会控制工具
 > - Li 承认耻在西方语境中的理解会不同，但未深入讨论耻在中国文化中是否也可能产生"逃避"而非"纠正"的反应——实际上，不少人面对羞耻的自然反应是掩盖而非坦白
 

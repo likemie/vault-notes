@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Governance by Spin
@@ -105,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2004 年 — 起源阶段** Gewirtz, Dickson & Power 在分析英格兰新工党政府的“教育行动区”（Education Action Zones, EAZ）政策时，首次系统性地提出了“舆论操控治理”（Governance by Spin）这一概念，用以刻画新工党如何通过印象管理手段使政策争议不可见。
 > - **2009 年 — 比较教育框架中的拓展** [[Jason Beech]] 将该概念引入全球—国家—实践三层空间[[Analytic Framework\|分析框架]]。他论证舆论操控不仅是国家内部的治理技术，也是国家转译全球教育[[Discourse|话语]]（如“能力发展”和“尊重多样性”）时采取的核心折衷策略，解释了国家政策话语如何一方面采纳超国家的[[Floating Signifier\|漂浮能指]]，另一方面顽固地保留地方的领土历史传统。
 >

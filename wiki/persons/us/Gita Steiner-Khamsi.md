@@ -72,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Gita Steiner-Khamsi
@@ -93,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990年代–2000年代初** 长期任教于哥伦比亚大学教师学院，并在日内瓦高等国际关系与发展研究院担任双聘教授，致力于后社会主义转型国家与全球南方国家的教育改革与国际援助政策研究。
 > - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的[[Discourse|话语]]形成论文集中发表奠基论文，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **2004** 出版纲领性论著《[[Policy Borrowing\|教育借用]]与借出的全球政治》（*The Global Politics of Educational Borrowing and Lending*），奠定当代跨国政策借用分析的基准[[Paradigm\|范式]]。
@@ -145,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 颠覆了传统比较教育中视借用为理性方案移植的假设，与[[Niklas Luhmann|卢曼]]的系统理论及外在化概念相结合，构建起以本土政治需要为驱动的借用理论；进而开辟[[Governing by Numbers|数字治理]] 2.0 与[[Policy Brokerage|政策中介]]理论。
 > - **方法路径** 倡导两项关键方法创新：一是应用社会[[Network Analysis|网络分析]]识别政策经纪人（Policy Brokers）的节点权力；二是率先推行口述史（Oral History）方法以抢救学者个案与制度记忆；三是践行[[Methodological Transnationalism|方法论跨国主义]]解构全球/国家联结。
 > - **[[Concept Mapping|概念地图]]建构** 其关于借用动机与行动者的论述，被 Jeremy [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 采纳为比较教育概念地图中[[Pre-Transfer Agency|前转移能动性]]的核心基石。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 224–227)]]
@@ -155,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术对话者** [[Jurgen Schriewer|Jürgen Schriewer]] 共同推进基于系统论的[[Policy Borrowing|教育借用]]外在化（Externalisation）理论对话。
 > - **理论延伸者** [[Jeremy Rappleye]] 在 2006 年[[Concept Mapping|概念地图]]中将施泰纳-卡姆西的能动者分析整合为[[Pre-Transfer Agency|前转移能动性]]模型。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
 > - **合作主编** Florian Waldow 共同主编《世界教育年鉴 2012》，推进比较政策借用分析工具标准化。
@@ -183,9 +177,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -201,9 +193,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a] 相关研究
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|

@@ -48,6 +48,7 @@ related_concepts:
   - "[[Economic Fundamentalism]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Procedural Knowledge]]"
+  - "[[Subsidiarity Principle]]"
   - "[[Intellectual Capital]]"
   - "[[National Innovation System]]"
   - "[[Constructed Knowledge]]"
@@ -62,7 +63,6 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Heterogeneity]]"
   - "[[Theoretical Perspective]]"
-  - "[[Subsidiarity Principle]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Pasteur's Quadrant]]"
@@ -85,13 +85,13 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
+  - "[[EU]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[UNESCO]]"
-  - "[[EU]]"
+  - "[[Lisbon Strategy]]"
   - "[[Bologna Process]]"
   - "[[UAE Education Hub Projects]]"
-  - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -100,13 +100,13 @@ related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Knowledge-Based Economy
@@ -139,10 +139,10 @@ updated: 2026-10-21
 > [!contrast-table] 知识经济与相关发展[[Paradigm|范式]]辨析
 > | 维度 | 知识经济 (KBE) | 福特制工业经济 | 后工业社会 (Bell) |
 > |---|---|---|---|
-> | **核心价值源泉** | 无形知识、研发、[[Higher-Order Thinking Skills|高阶认知技能]]与创新 | 土地、厂房、标准化机器与低技能劳动力 | [[Theoretical Knowledge|理论知识]]与专业服务业 |
-> | **生产组织逻辑** | 敏捷研发、永久创新、网络化协作与[[Reflexivity|知识反身性]] | 流水线分工、大规模标准化重复制造 | 服务经济主导、专业技术阶层崛起 |
-> | **对高等教育的定位** | 全球竞争核心基础设施、创新与高阶能力孵化器 | 少数精英培养或标准化技术官僚培训 | 科学研究与理论[[Knowledge Production|知识生产]]策源地 |
-> | **劳动力要求** | 能够应对劣构复杂问题的审辩与[[Creativity|创造性]]主体 | 遵循既定操作手册的纪律化体力/程序化工人 | 掌握专业学科知识的服务性白领 |
+> | **核心价值源泉** | 无形知识、研发、[[Higher-Order Thinking Skills\|高阶认知技能]]与创新 | 土地、厂房、标准化机器与低技能劳动力 | [[Theoretical Knowledge\|理论知识]]与专业服务业 |
+> | **生产组织逻辑** | 敏捷研发、永久创新、网络化协作与[[Reflexivity\|知识反身性]] | 流水线分工、大规模标准化重复制造 | 服务经济主导、专业技术阶层崛起 |
+> | **对高等教育的定位** | 全球竞争核心基础设施、创新与高阶能力孵化器 | 少数精英培养或标准化技术官僚培训 | 科学研究与理论[[Knowledge Production\|知识生产]]策源地 |
+> | **劳动力要求** | 能够应对劣构复杂问题的审辩与[[Creativity\|创造性]]主体 | 遵循既定操作手册的纪律化体力/程序化工人 | 掌握专业学科知识的服务性白领 |
 
 ---
 
@@ -249,13 +249,13 @@ updated: 2026-10-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **地缘战略定位** | 大学被重构为国家[[Intellectual Capital|知识资本]]与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] |
-> | **能力[[Paradigm|范式]]演进** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD|Bouckaert / OECD (2023)]] |
-> | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] |
-> | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] |
-> | **网络治理与虚构商品** | 后工业巴斯德象限创新驱动国家向网络经纪转型，但知识商品化阻滞了跨组织协同 | [[National Innovation System|国家创新体系]]转型、产学研联合攻关与知识产权制度反思 | [[Argument_Block_2008_PS|Block (2008)]] |
-> | **社会想象与社会价值重构** | 国际组织[[Constructed Knowledge|建构知识]]经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策[[Discourse Analysis|话语分析]]、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] |
-> | **超国家软法治理与技能转向** | 超国家实体借跨国指标突破立法限制推行软法治理，推动评价转向成人生活技能与自我规制 | 区域一体化教育治理、超国家知识经济战略与大规模国际测评分析 | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] |
+> | **地缘战略定位** | 大学被重构为国家[[Intellectual Capital\|知识资本]]与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] |
+> | **能力[[Paradigm\|范式]]演进** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD\|Bouckaert / OECD (2023)]] |
+> | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
+> | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
+> | **网络治理与虚构商品** | 后工业巴斯德象限创新驱动国家向网络经纪转型，但知识商品化阻滞了跨组织协同 | [[National Innovation System\|国家创新体系]]转型、产学研联合攻关与知识产权制度反思 | [[Argument_Block_2008_PS\|Block (2008)]] |
+> | **社会想象与社会价值重构** | 国际组织[[Constructed Knowledge\|建构知识]]经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策[[Discourse Analysis\|话语分析]]、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
+> | **超国家软法治理与技能转向** | 超国家实体借跨国指标突破立法限制推行软法治理，推动评价转向成人生活技能与自我规制 | 区域一体化教育治理、超国家知识经济战略与大规模国际测评分析 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
 
@@ -314,8 +314,6 @@ updated: 2026-10-21
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 欧盟里斯本战略教育指标报告与德、英、芬四国 PISA 政策文献及官员访谈 | 跨国比较个案与政策社会学分析 | 里斯本指标数据源占比、欧盟对 PISA 资助比例、调查媒体报道量 | 欧盟里斯本战略教育指标 50%–60% 采自 OECD；欧盟承担各成员国参与费用 80%；德媒报道 687 个版面 vs 芬媒 8 个版面 | — | 聚焦欧盟与经合组织治理网络及代表性西欧与北欧体系，向其他区域推广需审慎 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策支柱重构[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的评价生态。

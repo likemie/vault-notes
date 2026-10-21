@@ -73,7 +73,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Data Literacy
@@ -260,9 +260,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 阐述[[Data Team Intervention\|数据团队]]（Data Team）在培育教师数据素养上的实证效能，揭示数据素养知病因缺良方的结构性短板，提出数据素养与[[Research Literacy\|研究素养]]在 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]中的双轮协同。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 阐述教育者数据素养在课堂证据[[Triangulation\|三角验证]]、克服终结性评估单一支配及与研究素养整合驱动学校探究中的核心机制。
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 强调超越孤立识读数据集的传统数据素养，提倡面向数据去情境化、算法[[Commensuration\|通约]]与问责建模全链条的[[Data Infrastructure\|数据基础设施]]素养。

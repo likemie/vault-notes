@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Concept Mapping
@@ -266,18 +266,14 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — [[Meta-analysis\|元分析]]综合 36 项概念图实证研究，量化确立其对[[Higher-Order Thinking Skills\|高阶思维]]的促进效应（$g = 0.548$），并与[[Mind Mapping\|思维导图]]（$g = 1.041$）和[[Argument Mapping\|论证图]]（$g = 0.798$）展开严格的多水平对比与认知开销分析。
 > - Nesbit and Adesope (2006) — 55 项实证的奠基性元分析，确立概念图对知识保持（$d = 0.60$）与知识迁移（$d = 0.46$）的稳健促学效应。
 > - Novak and Gowin (1984) — 概念图奠基之作，系统确立概念图的命题语法、层级拓扑与基于交叉连接的四维评分标准。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Relational Space
@@ -101,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 关系性空间（Relational Space） | 领土性空间（Territorial Space） | [[Space of Flows\|流动空间]]（Space of Flows） |
 > |------|-----------------------------|------------------------------|--------------------------|
 > | **空间本质** | 社会关系、制度网络与[[Discourse\|话语]]实践生成的动态拓扑 | 边界固定的地理领土与行政管辖物理容器 | 电子脉冲、全球资本与信息技术构建的技术拓扑 |
@@ -192,9 +190,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2005–2006 — 人文地理学与社会学空间转向** Massey 提出将空间视作多元共存之维；Murdoch 阐述网络对[[Lefebvre's Spatial Triad|空间的生产]]机制，为超越绝对空间奠定理论基石。
 > - **2014–2015 — 比较教育学科的空间论引入** Larsen & Beech 以及 [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] 正式将关系性空间概念引入比较教育，主张超越[[Methodological Nationalism\|方法论民族主义]]，从网络生成与知识沟通过程理解教育转移。
 > - **2020–2023 — 跨国[[Policy Network\|政策网络]]与[[Transfer Space\|转移空间]]概念化** Diane Stone 提倡跨国政策研究的[[Methodological Transnationalism\|方法论跨国主义]]；Porto de Oliveira and Osorio Gonnet (2023) 提出“转移空间”（Transfer Space），使关系性空间在政策分析中具备可操作的中介载体。
@@ -236,9 +232,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 比较教育学中系统运用关系性空间[[Paradigm\|范式]]的奠基之作，论述空间如何由社会行动者网络[[Assemblage\|组装]]和沟通过程所构建。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，将国家与全球置于相互依存的关系性空间中，实证解构[[Transfer Space\|转移空间]]中的[[Policy Brokerage\|政策中介]]与行政两阶段过滤。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合社会-物质理论与关系空间视角，揭示澳大利亚国家教育科研组织如何借由耐用客体与公私董事网络构筑排他性证据空间。

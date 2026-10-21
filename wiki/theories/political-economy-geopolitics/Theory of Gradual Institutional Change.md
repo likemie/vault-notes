@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Theory of Gradual Institutional Change
@@ -102,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle] 关键概念与理论构件
+> [!entry-map] 关键概念与理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **社会规制体系**<br>Social Regimes | 核心本体 | 将制度界定为由规则制定者、遵守者与行使强制力的第三方共同构成的权力规制网络。（[[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen, 2005, pp. 11–14]]） |
@@ -180,9 +178,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 政治体制处于相对常态化运转的民主政体、混合政体与威权政体内部的成文制度演进，尤其适合长时段制度史、福利国家转型与经济规制改革。
 > - **成立条件** 必须存在一定的规则成文化基础与相对连续的政治秩序；要求研究者掌握跨时间维度的丰富档案材料，以追踪规则解释与执行的微观演化。
 > - **解释不足** 对完全缺乏正式规则的非正式部族习俗解释力较弱；在面对毁灭性外来军事征服或极端物理灾难时，中观博弈模型可能暂时被宏观物理破坏所中断。
@@ -209,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 渐进制度变迁理论奠基之作，系统建构置换、分层、漂移、转换与耗竭五大变迁形态学，揭示资本主义[[Liberalization|自由化]]演进机制。（pp. 18–34）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 渐进制度变迁理论[[Causal Modeling|因果建模]]里程碑，建构双维情境矩阵与四类变革行动者微观博弈模型。（pp. 1–37）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 检验[[Institutional Layering|制度分层]]概念在六十年期刊文献中的应用，反思渐进变迁与制度再生产的边界划分。

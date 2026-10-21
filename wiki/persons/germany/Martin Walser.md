@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Martin Walser
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927** 出生于德国巴伐利亚州博登湖畔的瓦瑟堡。
 > - **1944** 二战末期入伍服役；战后就读于蒂宾根大学并获得哲学博士学位。
 > - **1957** 凭借首部长篇小说《蓄水池中的婚姻》（*Ehen in Philippsburg*）成名。
@@ -106,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **论辩对手** [[Ignatz Bubis|伊格纳茨·布比斯]] — 围绕大屠杀记忆的公共责任与国家认同展开历史性交锋。
 > - **同时代见证者** 罗曼·赫尔佐克（Roman Herzog）— 时任德国总统，在保罗教堂现场聆听演说。
 > - **当代评述者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中剖析其演讲对德国防卫意志的深层折射。
@@ -128,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

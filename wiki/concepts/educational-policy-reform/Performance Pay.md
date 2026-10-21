@@ -72,7 +72,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Performance Pay
@@ -277,9 +277,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 从 [[Visible Learning\|可见的学习]] [[Theoretical Perspective\|理论视角]]出发，系统批判绩效工资对学校休息室[[Peer-Supported Learning|同伴文化]]、容错反思与教学协作生态的破坏。
 > - [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] — 澄清其对于教师表现评价的学理立场，指出专业水平报酬探索的正当性，同时承认客观测量工具开发的极端复杂性。
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 评析新西兰依据可见学习推行绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政化监控引发的政策争议，揭示技术官僚问责对教师专业文化的制度冲击。

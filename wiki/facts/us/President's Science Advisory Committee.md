@@ -58,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # President's Science Advisory Committee
@@ -149,9 +149,7 @@ updated: 2026-10-16
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -170,9 +168,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a] 相关研究
 >
 > | 研究文献 | 核心发现与论述 | 对应页码 |
 > |:---|:---|:---|

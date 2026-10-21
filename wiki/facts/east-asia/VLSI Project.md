@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # VLSI Project
@@ -217,9 +217,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -245,9 +243,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 对比东亚集权官僚发展型国家（DBS）在标准化产品追赶中的高效与在未知前沿突破中的失灵，阐明日本 VLSI 挑战如何直接倒逼美国构建去中心化[[Developmental Network State|发展型网络国家]]（DNS）并通过 [[MOSIS]] 与 [[Sematech]] 扭转竞争格局。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 系统评估日本 VLSI 联盟在中央联合实验室攻关共性微细加工工艺、在企业内部独立开展专有产品开发的分工机制，以及对全球高技术研发联盟的制度示范。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合微观晶圆厂标杆数据，实证分析日本 VLSI 带来的 DRAM 统治优势如何因大宗商品锁定而在 1990 年代被美国无晶圆设计与垂直专业化代工网络反超。

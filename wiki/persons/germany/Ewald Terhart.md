@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ewald Terhart
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1952** 出生于德国北莱茵-威斯特法伦州。
 > - **1970s–1980s** 在明斯特大学攻读教育学、哲学与社会学，师从德国当代[[Critical Pedagogy|批判教学论]]名家，取得博士学位并完成教授资格论文（Habilitation）。
 > - **1990s** 历任吕讷堡大学、图宾根大学教育学教授，深度介入两德统一后德国教师教育体系重构与教学论学科规范建设。
@@ -105,16 +103,12 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 捍卫了欧陆古典教学论在英美量化循证大潮中的学理尊严，其建构的[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]模型成为国际[[Critical Pedagogy|批判教学论]]、教育哲学与[[Metascience|元科学]]（Metascience）审计的基石性框架。
 > - **政策与方法路径** 警示教育决策部门防范将可见学习或清算所排行榜物化为行政考核工具的危害，有力捍卫了教师在复杂课堂中的专业自主裁决权。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 针对《[[Visible Learning|可见的学习]]》展开长篇学术书评，提出双重困境并解构[[Meta-meta-analysis|二阶元分析]]圣杯神话。
 > - [[Argument_Terhart_2014_Kallmeyer|Terhart (2014)]] — 系统阐明普通教学论框架下的课堂授课逻辑与实践专业智慧。

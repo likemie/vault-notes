@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # FAIR Principles
@@ -43,9 +43,7 @@ updated: 2026-10-02
 
 ---
 
-## 四项原则
-
-> [!abstract|notitle]
+> [!abstract] 四项原则
 > FAIR 四项原则的具体含义([[Argument_Brock_2025_DataAccessGenerationUse\|Brock, 2025, p.303]]; Wilkinson et al., 2016)：
 
 1. **可发现性（Findability）** 数据和元数据应易于被人和计算机系统找到。这要求数据具有持久标识符（Persistent Identifiers, PIDs）、丰富的元数据以及在可搜索资源中注册

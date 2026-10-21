@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Carlos Alberto Torres
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1950** 出生于阿根廷布宜诺斯艾利斯，早年求学于阿根廷与墨西哥拉丁美洲社会[[Chinese Academy of Sciences|科学院]]（FLACSO），受[[Paulo Freire|弗莱雷]]与拉美依附学派思想熏陶。
 > - **1980s** 赴加拿大斯坦福大学与多伦多大学进修并获得教育社会学博士学位；长期在拉美开展成人教育政策、识字运动与工会政治实证考察。
 > - **1990s** 任职于加州大学洛杉矶分校教育研究生院，1993 年创立 UCLA 保罗·弗莱雷研究所并出任创始主任；系统提出参与式行动研究的五项批判原则（1992）。
@@ -138,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想渊源** [[Paulo Freire]] — 弗莱雷的[[Critical Pedagogy|批判教育学]]、意识化与对话实践是其学术生涯的思想基座。
 > - **学术合作** [[Liliana Esther Olmos]]、[[Martin Carnoy]]、[[Adriana Puiggrós]]、[[Robert Arnove]] — 共同推进比较教育政治经济学与批判国家理论研究。
 > - **学术机构** 弗莱雷研究所（Paulo Freire Institute, UCLA） — 创始主任，推动全球批判教育学与[[Popular Education|民众教育]]实践研究。
@@ -148,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

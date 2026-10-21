@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Academic Entrepreneurship
@@ -163,9 +163,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 年代末 — 生物技术与微电子双轨突破** 早期学术创业研究聚焦于基因工程领域的初创企业与专利商业化，但微电子领域展现了以重资产硬件为核心的跨学科中心制度创业。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287)]]
 > - **1980–1990 年代 — 从单打独斗到联合体网络** 学术创业行为超越单个发明家模式，转变为构建多校协同平台、国家用户网络与公私合作研发联盟的体系化实践。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–297)]]
 > - **2000 年代至今 — Mission-oriented 跨界转型** 学术制度创业拓展至纳米医学、合成生物学、量子计算及应对重大社会挑战的跨学科[[Big Science|大科学]]平台构建。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 298–299)]]
@@ -200,16 +198,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织与管理史视角系统界定了微电子学术制度创业（Academic Institutional Entrepreneurship）的理论构架，揭示学术中心与产业联合体的同源演进与多学科抗周期韧性。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 
 | 条目 | 类型 | 关系 |
 |:-----|:-----|:-----|

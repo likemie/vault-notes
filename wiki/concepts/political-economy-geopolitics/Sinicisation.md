@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Sinicisation
@@ -53,9 +53,7 @@ updated: 2026-10-15
 > [!quote|notitle]
 > 这一汉化过程"[[Construct\|constructs]] an idealised notion of 'Chinese' culture, focusing upon Han traditions, as the embodiment of both Chinese ancient 'civilization' and 'modernity'"（O'Brien & Brown, 2022, p.278，引自 [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.64]]）。
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **语言统一** 以普通话替代少数民族语言作为教育媒介，压缩地方语言的使用空间([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.61–62]])。
 > - **历史叙事重构** 课程中的历史叙事日益以汉人为中心，非汉群体被描绘为汉文化的接受者而非平等参与者([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.62, 67]])。
 > - **文化同化** 将汉传统等同于"中华文化"，将少数民族文化置于低等、落后或博物馆化的位置([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.62]])。
@@ -84,9 +82,7 @@ updated: 2026-10-15
 > - 这一逻辑被中国政策学者挪用，要求对民族政策"去政治化"（马戎，Ma Rong, 2004）甚至废除——理由是苏联和南斯拉夫正是因为共产党"发明"的民族政策而分裂的([[Argument_Bulag_2024_CE\|Bulag, 2024, p.102–103]])。
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]]将少数民族的处境概括为"弗兰肯斯坦的怪物"（Frankenstein's monsters）：它们被视为共产党国家创造的产物，如今已成为威胁其创造者的存在——"不仅忘恩负义，而且是'邪恶或其无数替代物之一'，对[[Zhonghua Minzu\|中华民族]]自我的存在构成威胁"（Connolly, 1991, p.64，引自 [[Argument_Bulag_2024_CE\|Bulag, 2024, p.103]]）。
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > 在新疆，汉化表现为系统性地压制维吾尔语使用和宗教实践，强制被拘留者学习儒家经典（如《三字经》）和普通话（Finley 2019，引自 Yu & Zhao, 2024, p.64）。
 >
 > 在学校课程中，教科书对非汉政权的叙述强调其精英"学习汉人方式"、研习儒家思想。典型的叙述模式是将非汉文化的改革描绘为以儒家学问为基础抛弃落后政治文化实践的过程([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.67–68]])。
@@ -123,9 +119,7 @@ updated: 2026-10-15
 >
 > [[Argument_Bulag_2024_CE\|Bulag (2024, p.112)]]进一步指出了一个悖论性的趋同：西方学者以"包容性多元文化主义"为名将民族（minzu）降格为族群（zuqun），虽然出发点是反殖民批评，但实质上与中共拆除中国多民族宪法框架的努力产生了合谋效应。[[Settler Colonialism\|定居殖民主义]]／土著性（Settler Colonialism／indigeneity）框架虽然有力地批判了中国的主权政治，却并不呼吁少数民族的自决权，这实际上呼应了阿尔伯茨（Alberts, 2015）所说的"土著自决被重新概念化为国家内部的自治"的逻辑([[Argument_Bulag_2024_CE\|Bulag, 2024, p.100]])。
 
-## 相关案例
-
-> [!example|notitle]
+> [!example] 相关案例
 > - 新疆"再教育营"中强制学习儒家经典和普通话([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.64]])
 > - 中国学校教科书中日益以汉人为中心的历史叙事（Yan & Vickers 2020，引自 Yu & Zhao, 2024, p.62）
 > - 西藏[[Boarding Schools\|寄宿学校]]系统扩展（Leibold & Dorjee 2023，引自 Yu & Zhao, 2024, p.62）

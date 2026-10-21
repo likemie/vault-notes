@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Mixed Methods Question
@@ -55,9 +55,7 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **[[Mixed Methods Research\|混合方法研究]]问题与量化／[[Qualitative Research\|质性研究]]问题的区别**
 >
 > | 类型 | 询问的内容 |
@@ -70,9 +68,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > [[Mixed Methods Research\|混合方法研究]]问题的两个核心组件（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：
 >
 > 1. **整合的意图（intent of integration）** 说明为何要组合两类数据——是比较（compare）、解释（explain）、构建（build）还是增强（augment）
@@ -122,9 +118,7 @@ updated: 2026-10-16
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > [[Mixed Methods Research\|混合方法研究]]问题的价值可能不易被理解，特别是对于不熟悉数据连接或整合的研究者而言。因为它是一个关于方法的问题，而非关于研究内容的问题，读者可能质疑其必要性。然而，整合是混合方法研究的核心，混合方法[[Research Question\|研究问题]]正是传达这一核心意图的工具（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。
 
 ---

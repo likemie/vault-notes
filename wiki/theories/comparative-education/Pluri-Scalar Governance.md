@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pluri-Scalar Governance
@@ -101,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -174,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]/区域自贸协定）对教育政策的冲击、跨境高等教育办学、教育公共服务外包与多标度治理重组。
 > - **成立条件** 适用于存在明显跨国资本流动、多层次法律条约制约以及市场化改革渗透的宏中观制度情境。
 > - **解释不足** 对微观课堂内部的教学法变迁、师生心理认同与文化折射的解释力较弱，需结合微观课堂[[Ethnography|民族志]]予以补充。
@@ -211,9 +207,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与全球化研究，系统阐述罗伯逊等人的多标度教育治理三维模型，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 规约下大国策略性融入与边缘小国调控权流失的非对称格局。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 343–344)]] — 论证全球教育空间向多标量网络的演进，剖析跨国教育集团与[[Public-Private Partnership|公私伙伴关系]]对传统双边借用的超越。
 

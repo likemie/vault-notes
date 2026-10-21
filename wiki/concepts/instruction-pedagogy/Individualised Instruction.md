@@ -35,11 +35,11 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Cultural Capital]]"
   - "[[Learning Intentions]]"
+  - "[[Open Method of Coordination]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Effective Teaching]]"
   - "[[Feedback]]"
-  - "[[Open Method of Coordination]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -59,15 +59,15 @@ related_facts:
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Higgins_2016_ROE]]"
 related_instruments:
   - "[[Framework for Teaching]]"
   - "[[Problem Solving Inventory]]"
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Individualised Instruction
@@ -231,13 +231,11 @@ updated: 2026-10-21
 > | [[Structured Teaching]] | 概念 | 结构化教学为个别化提供清晰目标框架与流程规范，防止个别化滑向无序放任。 |
 > | [[Direct Instruction]] | 概念 | 直接教学搭建学科基础概念支架，与后续的针对性个别化辅导构成有机链条。 |
 > | [[Feedback]] | 概念 | 形成性反馈是个别化教学的核心引擎，为不同进度的学生指明后续改进方向。 |
-> | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | 论证 | 剖析欧盟同伴学习活动如何将芬兰综合学校早期个别化教学经验转化为跨国政策范本。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧盟同伴学习活动如何将芬兰综合学校早期个别化教学经验转化为跨国政策范本。 |
 
 ---
 
-## 证据链条
-
-> [!evidence-grid|notitle]
+> [!evidence-grid] 证据链条
 >
 > | 论证条目 | 证据类型 | 关键学者 / 报告 | 支撑的核心论断 |
 > |:---|:---|:---|:---|

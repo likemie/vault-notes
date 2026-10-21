@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Subversives
@@ -190,7 +190,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，界定颠覆者作为长期谋求消灭旧体制、短期伪装合规潜伏运作的变革行动者，阐明其驱动[[Institutional Layering|制度层叠]]的微观白蚁机制。

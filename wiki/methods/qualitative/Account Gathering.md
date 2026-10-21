@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Account Gathering
 
@@ -76,9 +76,7 @@ updated: 2026-10-20
 > - **误用风险** 机械地遵循框架而忽视陈述的社会意义；将控制程序等同于"客观性"保证。
 > - **补救方式** 每个要素内部已包含控制程序；框架本身的系统性提供了多重验证节点。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

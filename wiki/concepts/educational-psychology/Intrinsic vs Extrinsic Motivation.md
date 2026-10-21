@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-10-22
 ---
 
 # Intrinsic vs Extrinsic Motivation
@@ -43,9 +43,7 @@ updated: 2026-05-23
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 研究确认了产生内在动机的三个主要领域([[Argument_Li_2012_Cambridge\|Li, 2012, p.57–58]])：
 
 **1. 好奇心（curiosity）**
@@ -59,9 +57,7 @@ updated: 2026-05-23
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **兴趣 vs 好奇心** 兴趣与好奇心接近，但二者有区别。好奇心是更纯粹的内在动机形式；兴趣本身不一定完全是内在的，取决于其所服务的目的是什么。一个学生对黑洞的兴趣如果只在于理解黑洞本身，则是内在的；但如果兴趣服务于炫耀知识等外在目的，则可能是外在的([[Argument_Li_2012_Cambridge\|Li, 2012, p.57–58]])。
 
 **东亚学习者的适用边界**

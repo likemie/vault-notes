@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Workforce Pell Grants 2025
@@ -82,9 +82,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -97,7 +95,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述 2025 年劳动力佩尔助学金扩容：纠正助学金偏向四年制学位的失衡，把短期技术培训纳入资助，配合学徒计划重建先进制造的[[Process Knowledge|过程知识]]基础。

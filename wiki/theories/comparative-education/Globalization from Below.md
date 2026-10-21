@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Globalization from Below
@@ -107,9 +107,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -228,9 +226,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国基层社会运动、教师工会维权、原住民自治教育保护以及由非国家行动者发起的批判性跨国网络研究。
 > - **成立条件** 基层行动者必须具备最低限度的信息通信渠道接入能力（跨越数字鸿沟），且能够维持起码的结社与跨国通信自由。
 > - **解释不足** 容易滑入对民间力量的“草根浪漫主义”（grassroots romanticism），低估了民间组织极易被国际捐助资金收编并蜕变为去政治化“[[Shadow State|影子国家]]”的结构性风险；未能充分预见[[Geopolitics|地缘政治]]回归与民粹民族主义对跨国草根团结的严重撕裂。
@@ -260,7 +256,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 确立教育改革自上而下与自下而上的双轴四象限框架，系统剖析信息以太流散空间赋能跨国草根反抗的理论机制与世界体系社会民主前景（pp. 113–115）。

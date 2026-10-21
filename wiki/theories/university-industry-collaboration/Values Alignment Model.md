@@ -27,7 +27,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Values Alignment Model
@@ -45,9 +45,7 @@ updated: 2026-10-16
 > [!example] 图10-5：产学合作的价值对齐方法（A Values Alignment Approach to UI Partnerships）
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_10-5_Values_Alignment_Approach.jpg)
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > 模型中各方优先事项的差异以及对齐的可能（pp.190–191）：
 > - **医院/[[Academic Health System\|学术健康系统]]** 的优先：患者安全和隐私。其[[Return on Investment\|投资回报]]（return on investment, ROI）定义是提供最高质量的患者诊疗，从而建立声誉和患者信任。
 > - **产业伙伴**的优先：产品的潜在市场 and 利润。但其利润最终也依赖于改善患者体验 and 减少患者痛苦。
@@ -56,23 +54,17 @@ updated: 2026-10-16
 
 > 对齐的关键在于用**患者中心的透镜（patient-centered lens）** 来审视各方优先级：产业对利润 and 市场时间线的追求，最终只有在对患者安全 and 有效的前提下才有意义；学术机构对前沿能力 and 发表的影响，只有转化为患者受益才能实现其社会价值（pp.191–192）。
 
-## 与 COVID-19 的关系
-
-> [!note|notitle]
+> [!note] 与 COVID-19 的关系
 > COVID-19 大流行作为该模型的背景经验：疫情期间，大学、产业 and 医院在**不惜一切代价找到答案**的共同心态下，搁置分歧、高效合作，在 1–2 年内将疫苗学推进了数十年才能达到的水平（pp.189–190）。但疫情后的[[University-Industry Collaboration\|产学合作]]迅速回归了旧有的障碍 and 保守立场。这一对比表明，当各方拥有对齐的目标 and 强烈的紧迫感时，产学合作可以实现的成果远超平时。价值对齐模型试图将这种对齐机制制度化，使合作不依赖于危机情境。
 
-## 张力与平衡
-
-> [!warning|notitle]
+> [!warning] 张力与平衡
 > 模型中存在两组推拉力量（arrows in and arrows out, p.191, Fig. 10.5）：
 > - **向内拉力（共享的价值）** 共同的治疗目标、对创新的渴望、对卓越的追求。
 > - **向外拉力（反向的优先）** 利润压力与患者安全、学术发表与数据保密、市场份额与监管合规。
 
 > [[Academic Health System\|学术健康系统]]作为促进者的核心任务是平衡这些拉力，既不让商业利益凌驾于患者安全之上，也不让监管保守主义扼杀创新可能性（pp.191–192）。
 
-## 应用领域
-
-> [!success|notitle]
+> [!success] 应用领域
 > - **[[Applied Medical Innovation\|医用创新]]的[[University-Industry Collaboration\|产学合作]]** 价值对齐模型专为医用创新（Applied Medical Innovation）场景设计，用于帮助医院、大学和产业伙伴在合作谈判和执行过程中对齐目标、管理分歧。
 > - **TAVR 案例** Houston Methodist and Medtronic 合作开发经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的过程展示了价值对齐如何在实际合作中运作——[[Academic Health System\|AHS]] 保持了以患者安全和临床效果为核心，同时产业伙伴获得了可市场化的产品，大学和研究机构获得了前沿研究和发展机会（pp.192–194）。
 

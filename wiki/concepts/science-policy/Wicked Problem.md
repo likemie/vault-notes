@@ -54,7 +54,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Wicked Problem
@@ -178,9 +178,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1973 — 规划理论奠基** 里特尔与韦伯（Rittel & Webber, 1973）在城市规划与公共政策领域首次系统界定棘手问题的特征，确立其反理性规划的理论地位。
 > - **1977 — 技术与社会治理反差** 纳尔逊（Nelson, 1977）出版《月球与贫民窟》，揭示阿波罗登月技术工程与社会系统棘手挑战之间的根本性治理鸿沟。
 > - **1985 — [[Complexity Paradox|复杂性悖论]]提出** 格里·斯威尼（Gerry Sweeney, 1985）指出政策议题越复杂，政策制定越发条块分割的结构性异化。
@@ -210,9 +208,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 揭示棘手问题引发的[[Complexity Paradox|政策复杂性悖论]]与跨部门协调失灵，论证第三代儿童形态[[Agile Governance|敏捷试错]]与[[Public Dynamic Capabilities|公共动态能力]]的破解功能。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述如何将复杂的全球重大社会挑战与棘手问题通过[[Mission-Oriented Innovation Policy|使命导向创新政策]]转化为可执行的跨部门项目组合。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将棘手问题的争议性、复杂性与不确定性维度[[Operationalization|操作化]]为解构[[Mission-Oriented Innovation Policy|使命导向创新政策]]的分析透镜。

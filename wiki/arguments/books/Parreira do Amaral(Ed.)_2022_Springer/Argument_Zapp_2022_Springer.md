@@ -76,7 +76,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -88,9 +88,7 @@ citation_aliases:
 > [!question]
 > 过去二十年间，大学是否已从国家公共行政系统中的"象牙塔"转变为全球治理中的积极知识行动者？Zapp 追问三个层层递进的问题：（1）**动因** 是什么力量驱动大学走出国界、嵌入全球治理？（2）**机制** 大学通过什么具体渠道参与全球治理？（3）**风险** 这种基于科学知识的"[[Epistemic Governance\|知识治理]]"（epistemic governance）有什么隐忧？全文以 2015 年[[UN Sustainable Development Goals\|联合国可持续发展目标]]（SDGs）为核心案例，因为 SDGs 的通过标志着一个质变——大学首次被全球政策议程系统性地定位为实现者和监测者。
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 本章以 **[[World Society Theory]]**（世界社会理论，Meyer et al., 1997）为核心[[Analytic Framework\|分析框架]]。
 >
 > **世界社会理论的核心直觉** 想象一下，当今世界各国为什么都有教育部、大学、宪法？Meyer 的回答是：不是因为每个国家独立发明了这些制度，而是因为存在一个全球共享的"文化剧本"——世界社会——它规定了"一个现代国家应该长什么样"。这个世界社会没有中央政府、没有警察、没有法律来强制执行，但它照样能运转。为什么？因为它依赖的不是强制力，而是 **"[[Otherhood\|他者代理]]"（[[Otherhood]]）**——各类组织主动把自己定位为"替别人办事"的角色，替弱势群体发声、替环境保护呼吁、替"进步"和"正义"这些抽象理想提供证据和方案。
@@ -101,16 +99,12 @@ citation_aliases:
 > - [[Organizational Actorhood]](Krücken & Meier, 2006; Bromley & Meyer, 2015)—— 解释"大学怎么变成能动的组织"。传统大学像政府部门的一个科室，按上级指令办事。现代大学则像一家有自我身份的企业：自己定战略目标（目标导向）、自己承担责任（问责性）、主动向社会开放（社会嵌入性）、有权自主决策（自主性）。这四个特征构成了"组织能动者身份"。详见 [[Organizational Actorhood#核心要素]]
 > - [[Constructivist Paradigm\|建构主义]]国际关系学（International Relations, IR）(Barnett & Finnemore, 2004; Wendt, 1999)—— 解释"为什么知识和观念在国际政治中重要"。传统国际关系学只关心谁有多少坦克和航母。建构主义者追问：为什么"人权""可持续发展"这些观念能改变国家的行为？答案是：观念本身有建构性力量——它们改变了"什么是合理的"这个基准线
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 本章为理论-概念讨论（conceptual discussion），非实证研究。
 > - 方法：[[Literature Review\|文献综述]]、概念分析、二次数据分析
 > - 数据来源：Zapp 整合了自身此前发表的多项实证研究作为论据——包括 Zapp (2017b) 对 1325+ 个国际组织 1970–2017 年科学产出与大学合作关系的分析、Zapp (2020a) 对 1947–2019 年逾 100 份国际组织全球报告的引用分析、Zapp and Lerch (2020) 对全球近 465,000 个学位项目的国际取向分析。此外还使用了 Corporate Register (2019) 的企业社会责任（Corporate Social Responsibility, CSR）报告目录和 Global Reporting Initiative (2019) 的可持续发展披露数据库
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 
 ### 第一步：观察一个被忽略的事实
 
@@ -201,9 +195,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 
 > 例：Zapp 在最后一段提到，尽管面临民粹主义反弹和高教商品化，大学社群——学生、教师甚至校长——已经在全球公共争议中扮演了引人注目的公开角色："Rhodes Must Fall""Black Lives Matter""#MeToo""Scientists for Future"和 COVID-19 公共讨论。这是一种新的"大学能动性"的信号：大学不只是提供证据的中立者，也可以是[[Public Value|公共价值]]的倡导者。
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 
 ### 大学的身份转型
 
@@ -267,9 +259,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 > “如果大学想要在全球治理中保持其作为独立知识仲裁者的独特地位，甚至重组传统上偏向政治和市场的权力结构，它们必须确保不仅是追随全球议程，而且要开始积极地塑造它。”
 > ("If universities want to preserve their unique status as independent knowledge arbiters in global governance and even reshuffle power structures traditionally skewed towards politics and markets, they have to make sure to not only follow the global agenda but begin to actively shape it.")(p.157)
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 > - **作者自述局限** 本章为概念性讨论而非系统性实证研究，四种机制的识别基于二次数据和[[Literature Review\|文献综述]]，需要更多一手实证研究验证大学在全球治理中的实际影响力(p.157)
 > - **方法论局限** 本章未提供系统的跨国比较或[[Causality\|因果推断]]；案例选择偏向欧洲和北美知名大学，可能高估大学参与全球治理的普遍程度——南半球和资源匮乏的大学是否也在经历同样的转型，存疑
 > - **过度推论风险** 将 CSR 报告、SDG 课程数量等组织表层变化直接等同于大学实质性参与全球治理，可能存在"口头采纳"（talk）与"实际行动"（action）之间的落差。正如批评者对新制度主义的常见质疑——组织可能在正式结构中采纳全球规范（"我们支持 [[UN Sustainable Development Goals\|SDGs]]"），但在核心运作中维持旧有逻辑

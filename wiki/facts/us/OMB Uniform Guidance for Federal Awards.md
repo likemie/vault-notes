@@ -35,19 +35,15 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # OMB Uniform Guidance for Federal Awards
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 管理与预算办公室（Office of Management and Budget, OMB）的 Uniform Guidance for Federal Awards（《联邦拨款统一指南》，编入 2 CFR 200）于 2014 年生效，规定了美国大学研究预算必须遵循的会计核算原则。在此之前，联邦拨款的财务管理分散在多个 OMB 通告中，如 A-21（教育机构成本原则）、A-110（高等教育机构统一行政要求）和 A-133（审计要求）。Uniform Guidance 将这些分散规则整合为单一框架([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, pp.263–264]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > Uniform Guidance 的核心会计规则（pp.263–264）：
 
 > - **直接成本（Direct Costs）** 直接归属于特定资助项目的成本，包括雇员实际工资 × 工作月数 × 每月投入百分比、材料费、设备费和差旅费

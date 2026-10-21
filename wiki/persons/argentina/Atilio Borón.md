@@ -9,10 +9,10 @@ summary: "阿根廷著名马克思主义政治学家与社会学家，拉丁美�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 19
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1943"
 died: ""
 lifespan: "1943–至今"
@@ -42,7 +42,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Atilio Borón]]"
   - "[[Joel Samoff]]"
   - "[[Daniel Bensaïd]]"
   - "[[Carlos Alberto Torres]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Atilio Borón
@@ -74,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1943** 出生于阿根廷布宜诺斯艾利斯。
 > - **1965–1968** 在智利天主教大学获得社会学硕士学位，期间在拉美社会科学研究院（FLACSO）师从多位左翼学者。
 > - **1976** 在美国哈佛大学获得政治学博士学位，博士论文探讨智利政治体制动员与阶级冲突。
@@ -115,27 +112,21 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 领导 CLACSO 构建了拉美当代批判社会科学的重镇，捍卫了唯物史观与帝国主义分析在 21 世纪的合法性；其理论为[[Liliana Esther Olmos|奥尔莫斯]]、托雷斯、[[Joel Samoff|萨莫夫]]等[[Critical Pedagogy|批判教育学]]者提供了对抗[[Positivism|实证主义]]与[[Technical Rationality|技术理性]]官僚[[Discourse|话语]]的哲学支柱。
 > - **政策路径** 积极介入委内瑞拉、玻利维亚、厄瓜多尔等拉美左翼执政国家的反新自由主义宪政改革与南南一体化进程。
 > - **跨国／跨领域传播** 著作被译为英文、法文、葡萄牙文、意大利文等多国语言，成为世界社会论坛（WSF）与全球正义运动的核心理论参考。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作与理论盟友** 萨米尔·阿明（Samir Amin）、佩里·安德森（Perry Anderson）、[[Daniel Bensaïd]] — 共同参与全球反新自由主义与马克思主义理论重构。
 > - **学术对话者** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 在《国际比较教育手册》中深入引述其马克思主义回归理论。
 > - **领导机构** 拉丁美洲社会科学理事会（CLACSO） — 曾任执行秘书长近十年。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

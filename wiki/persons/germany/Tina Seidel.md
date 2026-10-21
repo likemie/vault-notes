@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tina Seidel
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1974** 出生于德国巴伐利亚州。
 > - **1994–2000** 于雷根斯堡大学与慕尼黑大学攻读心理学与教育学，获心理学硕士学位。
 > - **2000–2003** 进入基尔大学莱布尼茨科学与数学教育研究所（IPN），参与德国视频教学分析重大专项，获心理学博士学位。
@@ -108,9 +106,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了[[Effective Teaching\|有效教学]]研究与学习科学理论的交叉整合；与[[Richard J. Shavelson\|沙维尔森]]共同提出的成分模型澄清了不同教学维度（[[Classroom Management\|课堂管理]]、支持性教学氛围、认知激活）与学习产出之间的复杂中介机制。
 > - **方法路径** 引领了课堂视频分析技术在教师评价中的应用，开发了标准化的 Observer 教学视频评估规程；确立了面向教育实践的 11 步[[Meta-analysis\|元分析]]二次加工转译标准。
 > - **政策路径** 作为首席专家参与德国联邦与各州重大教育改革政策咨询，推动设立国家级教师教育循证标准与数字化能力框架。
@@ -118,9 +114,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** [[Richard J. Shavelson]] — 2005 年起在斯坦福大学展开紧密学术合作，共同发表[[Effective Teaching\|有效教学]]十年[[Meta-analysis\|元分析]]里程碑综述。
 > - **学术合作者与团队骨干** 马克西米利安·克诺格勒（Maximilian Knogler） — [[Clearing House Unterricht\|CHU]] 研发总监与学术协调人，共同主持元分析证据筛选与转译标准制定。
 > - **机构平台** [[Clearing House Unterricht]] 与 [[Zentrum für internationale Bildungsvergleichsstudien]] — 由其于 2017 年在慕尼黑工业大学创立并持续主持运营。
@@ -128,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

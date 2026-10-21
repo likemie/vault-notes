@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Discursive Closure
@@ -104,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **教育危机的统一先验界定** 国际机构预先将信息时代的社会变迁定义为“传统教育制度的系统性失败”，剥夺受援国自主界定教育核心矛盾的权利。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–349)]]
 > - **改革工具箱的排他性垄断** 将分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与统考五大要素捆绑为唯一合法且不可分割的普遍真理，排斥任何非市场化的替代方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **[[Gatekeepers|把关人]]阶层的制度性重叠** 本土顶尖学者兼任政府官员与国际组织短期合同顾问，一人跨越多个语篇位置，形成消解学术批判性的封闭共谋圈子。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 354–355)]]
@@ -148,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 — [[Basil Bernstein|伯恩斯坦]]语篇[[Champ|场域]]奠基** 巴西尔·伯恩斯坦（Basil Bernstein）提出教育语篇的生产、[[Recontextualization|再情境化]]与再生产场域理论，为分析[[Discourse|话语]]流动与控制提供理论工具。
 > - **1990 年代 — [[Washington Consensus|华盛顿共识]]普遍模型形成** 国际机构在全球南方大规模推行结构调整计划与教育五支柱模型，排他性话语开始垄断政策舞台。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–349)]]
 > - **2005–2009 — 比奇系统概念化** 比奇在博士论文与手册章节中正式提炼“[[Discursive Field|话语空间]]闭合”概念，深度剖析拉美[[Gatekeepers|把关人]]网络扼杀本土思想探索的微观机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 354–355)]]
@@ -169,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -184,9 +178,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a] 相关研究
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|

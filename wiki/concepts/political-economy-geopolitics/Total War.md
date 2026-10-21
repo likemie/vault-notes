@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Total War
@@ -151,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪初 — 克劳塞维茨绝对战争设想** 卡尔·冯·克劳塞维茨在《战争论》中提出“绝对战争”（Absolute War）的哲学构想，探讨战争在不受政治与道德阻力干扰时的逻辑极端。
 > - **1914–1918 — 第一次世界大战的工业化全民动员** 堑壕战、毒气战与国家工业配给制初步显露了总体动员特征。
 > - **1935 — [[Erich Ludendorff|鲁登道夫]]系统理论化** 鲁登道夫出版《总体战》，正式将平民目标、工业产能与宣传控制升格为核心军事教条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Ludendorff, 1935)]]
@@ -189,9 +187,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究
+> [!evidence-grid] 相关研究
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 38–41）：深入剖析[[Erich Ludendorff|鲁登道夫]]总体战逻辑、B-29 火攻及核均势对维系[[Long Peace|长和平]]的威慑机理。
 

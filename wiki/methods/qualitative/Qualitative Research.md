@@ -132,7 +132,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Qualitative Research
@@ -313,9 +313,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

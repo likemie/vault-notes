@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Founding of Atlantic College
@@ -63,9 +63,7 @@ updated: 2026-10-21
 >   - 学术课程以英国高级程度考试为权宜基础，并用辅助课程补足母语、外语、社会研究、科学和艺术。
 > - **1967–1970 — 转向男女同校** 1967 年起招收少数走读女生，1970 年正式决定招收女生，使跨文化共同生活扩大到性别维度。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 5–6)]]
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **实践影响** 共同服务把国际理解转化为需要技能、互赖与承担责任的日常教育活动；海上与悬崖救援服务到 1981 年已被记为挽救约 190 人。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 7–9)]]
 > - **组织影响** 学校成为[[United World Colleges\|联合世界书院]]运动的首个机构模型，后续书院继续采用先选择创校领导、再建设机构的路径。
 > - **课程影响** 英国国家课程的狭窄、国家偏向、语言不平等和跨国录取障碍，推动学校从创办之初参与[[International Baccalaureate\|国际文凭]]的形成。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 9–13)]]

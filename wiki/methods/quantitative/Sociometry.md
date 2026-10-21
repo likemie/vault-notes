@@ -23,7 +23,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Sociometry
 
@@ -81,9 +81,7 @@ updated: 2026-10-20
 > - **误用风险** 将社会图的选择模式直接解释为"受欢迎"或"不受欢迎"而忽视选择背后的复杂原因；公开负向选择数据可能伤害参与者。
 > - **补救方式** 结合[[Qualitative Interview\|质性访谈]]理解选择背后的原因；纵向重复测量捕捉关系变化；严格伦理保护（保密性）。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

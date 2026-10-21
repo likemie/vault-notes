@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Combined Weighting AHP-EWM
@@ -75,25 +75,19 @@ updated: 2026-10-16
 
 ---
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > - **AHP过程不透明** 若未报告专家数量、背景及评判过程，AHP方法论的严谨性无法评估。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 71)]]
 > - **时间不变性假设** 组合权重基于全时段数据计算，未考虑指标重要性随时间推移的变化
 > - **LSD模型的对称性假设** LSD对主观和客观权重偏差施以同等惩罚，但两者的[[Reliability\|可靠性]]在实际中可能不等
 
 ---
 
-## 相关方法
-
-> [!tip|notitle]
+> [!tip] 相关方法
 > - Analytic Hierarchy Process — AHP是该组合方法的子模块
 > - Entropy Weight Method — EWM是该组合方法的子模块
 > - [[Coupling Coordination Model]] — 组合赋权常与耦合协调模型配合使用，前者确定指标权重，后者计算系统协同水平
 
 ---
 
-## 使用此方法的研究
-
-> [!example|notitle]
+> [!example] 使用此方法的研究
 > - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用AHP-EWM-LSD组合赋权确定15项EST评价指标的权重，为[[Coupling Coordination Model\|耦合协调模型]]提供综合权重输入

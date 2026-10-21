@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alexander Dallas Bache
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1806** 出生于美国宾夕法尼亚州费城，为美国国父[[Michael Fullan|富兰]]克林的外曾孙。青年时期考入西点军校，以全班第一名优异成绩毕业。
 > - **1828–1836** 受聘宾夕法尼亚大学担任自然哲学与化学教授，投身电磁学与地磁测量研究，成为美国科学界翘楚。
 > - **1836** 费城富商斯蒂芬·吉拉德捐资创办吉拉德孤儿学院，贝奇受托出任首任校长，旋即受理事会委派远赴欧洲，考察贫困孤儿教养院、初等义务教育与工业技术教育模式。
@@ -94,26 +92,20 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Common School Movement|公学运动]]蓝本路径** 贝奇报告与[[Report on the State of Public Instruction in Prussia|库森报告]]、[[Report on Elementary Public Instruction in Europe|斯托报告]]相呼应，为美国各州建立免费公立学校体系与[[Normal School|师范学校]]提供了极具说服力的制度依据。
 > - **技术与实科教育建制路径** 贝奇对欧洲工科中学与职业师资培养的深入调研，直接启发了北美早期的现代综合高中与技术职业教育课程体系。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术先驱** [[Victor Cousin]] — 贝奇赴欧考察深受库森 1831 年普鲁士报告英译本的直接启发。
 > - **[[Common School Movement|公学运动]]同侪** [[Calvin Stowe]]、[[Horace Mann]]、[[Henry Barnard]] — 共同构成 1830–1850 年代美国公共教育奠基期欧陆考察“四大家”。
 > - **依托机构** 吉拉德学院（Girard College）、[[National Academy of Sciences|美国国家科学院]]（NAS）。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

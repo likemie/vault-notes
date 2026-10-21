@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Firewall Effect
@@ -133,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000 年代初 — 经验现象显现** 挪威叫停官方排位表、丹麦废止排行榜，但两国全员统考系统毫发无损地持续运转。
 > - **2010 年代中期 — [[Opt-Out Movement|退考运动]]激化** 美国各州在退考潮后取消教师评价与统考硬挂钩，但联邦 [[Every Student Succeeds Act|ESSA]] 依然强制保留 3–8 年级全员统考框架。
 > - **2019 年 — 理论化命名与提炼** 韦尔热等人系统总结全球 158 篇文献，正式提炼出防火墙效应，揭示抗争与数据基底持续维系之间的深层制度辩证关系。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260–263)]]
@@ -156,8 +154,6 @@ updated: 2026-10-21
 > 若抗争规模极其激进化并直接切断测验财政预算、解散命题中心，则超越了防火墙效应的范畴，进入制度彻底崩溃阶段。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260–261)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 提炼并论证防火墙效应，阐明公众退考与工会抗争为何能够逼停严厉问责，却反向固化了[[National Large-Scale Assessments|国家大规模评估]]的[[Data Infrastructure|数据基础设施]]。

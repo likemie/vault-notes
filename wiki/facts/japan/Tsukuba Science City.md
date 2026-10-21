@@ -28,14 +28,12 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-22
 ---
 
 # Tsukuba Science City
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 筑波科学城（Tsukuba Science City）是日本在全国范围内建设的产学研合作基地和“技术城市”计划的典范。其目标是打造集产业、学术、居住功能于一体的新型地方城市，满足科研和产业发展需求，同时为科研人员提供完善的生活配套。
 
 ---

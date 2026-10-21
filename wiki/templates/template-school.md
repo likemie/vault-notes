@@ -99,9 +99,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献与关联 |
 > |:-----|:-----|:-----------|

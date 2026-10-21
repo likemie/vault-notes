@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Item Analysis
@@ -117,7 +117,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节详细介绍了题目分析的三个核心维度（区分度、难度和干扰项分析），给出计算公式、判断标准，并说明这些指标在[[Norm-Referenced Test\|常模参照测验]]和[[Criterion-Referenced Test\|标准参照测验]]中的不同应用原则。

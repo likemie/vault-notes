@@ -71,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Chinese Learner
@@ -92,9 +92,7 @@ updated: 2026-10-20
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > [[Argument_Li_2012_Cambridge\|Li (2012)]] 在 Cultural Foundations of Learning 中追溯了[[Confucian Learning Tradition\|儒家学习传统]]的知识根源，将其提炼为与 [[Western Learner\|西方学习者]]模型 形成系统对比的完整画像。以下按**学习方向 → 学习路径 → 学习动力 → 学习表达**四个主题组织([[Argument_Li_2012_Cambridge\|Li, 2012, pp.46-58]])。
 
 ### 学习方向：向内完善自我
@@ -204,9 +202,7 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs **[[Western Learner]]** — 中国学习者向内完善自我，西方学习者向外探究世界。方向性差异衍生出全部次级差异：品德 vs 心智、尊师 vs 挑战权威、[[Action Better Than Words\|行胜于言]] vs 自我表达、终身[[Self-Cultivation\|修身]] vs 项目式探究。系统对比见 [[Western Learner#概念辨析]]
 > - vs **"亚洲学习者"（Asian learner）** — 中国学习者更具体地指向中国及[[Confucian Heritage Cultures\|儒家文化圈]]；"亚洲"掩盖了 CHC 与南亚、东南亚非儒家文化圈之间的根本差异([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.39]])
 > - vs **"国际学生"（international student）** — 按签证/流动状态的制度标签 vs 按文化背景的学术概念
@@ -214,9 +210,7 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > 西方学界对"中国学习者"的认知经历了从**刻板印象建构**到 **[[Cultural Models\|文化模型]]理解**的演变。以下按时间顺序组织。
 
 ### 第一阶段：缺陷型刻板印象（Deficit Stereotypes）
@@ -252,9 +246,7 @@ updated: 2026-10-20
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Confucian Learning Tradition]] — 中国学习者模型的知识根源。[[Confucius\|孔子]]的"好之者不如乐之者"将[[Heart and Mind for Wanting to Learn\|好學心]]置于"知之"之上，奠定了学习的情感/品德优先性
 > - [[Cultural Models]] — Li 将中国学习者模型归类为一种文化模型（cultural model）——文化成员共享的、通常隐性的关于"学习是什么"的心智图式
 > - [[Self-Cultivation]] — 修身是中国学习者模型的核心枢纽，连接认知准备（格物→正心）与社会实践（齐家→平天下）
@@ -284,9 +276,7 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **"中国学习者"范畴本身的问题**[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p.34)]]指出，仅考虑一种"中国性"是有问题的；完全忽视学生的中国性以迁就教师母国价值，同样有问题
 > - **"儒家价值"归因缺乏实证基础**Clark and Gieve（2006, p.63）指出西方教师通过诉诸"看似有道理的儒家传统解释"来验证对中国学习者的感知，而非通过实证。儒学在数百年间被不断重新解读以服务于政治议程——[[Lee Kuan Yew|李光耀]]称新加坡为"儒家社会"，但其中的许多价值与[[Confucius\|孔子]]能辨认的内容"相去甚远"（Watkins & Biggs, 2001, p.4，转引自 Ryan, 2010, pp.46-47）。Louie（2005）指出 20 世纪对儒学的解读经历了"使得任何公认的诠释变得毫无意义"的转变
 > - **中国内部文化多元性被忽视** 中国有 55 个官方承认的少数民族文化及佛教、道教、基督教、伊斯兰教等多元宗教传统([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.47]])
@@ -296,9 +286,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关案例／政策
-
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[English Schools Foundation Hong Kong]] — 香港华人学生占 40%–50% 的英语学校体系
 > - [[Transnationalism and America Project SYSU]] — 中国本土大学生接受美式团队教学
 > - [[Fourth Culture]] — 本地中国学生在母国就读[[International Schools\|国际学校]]的特殊文化空间

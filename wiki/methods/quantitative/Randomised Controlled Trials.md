@@ -183,7 +183,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Randomised Controlled Trials
@@ -387,9 +387,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 将试验与敏捷原型定位为第三代使命导向政策应对重大社会挑战的核心治理工具。 |

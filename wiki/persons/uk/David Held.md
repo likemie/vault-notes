@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # David Held
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1951** 出生于英国伦敦。
 > - **1970–1976** 先后就读于曼彻斯特大学，并在美国麻省理工学院（MIT）获得政治学博士学位，受法兰克福学派[[Critical Theory|批判理论]]深刻影响。
 > - **1984** 与[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）等人共同创立政体出版社（Polity Press），致力于出版社会科学与人文前沿经典。
@@ -118,27 +116,21 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了当代政治学与社会学关于全球化的变革论[[Paradigm|范式]]，与极端全球化论和怀疑论分庭抗礼；其多维机制分析为比较教育学者（如[[Robert Arnove|阿诺夫]]、托雷斯、戴尔）分析全球教育[[Policy Borrowing|政策借用]]与规训提供了结构支柱。
 > - **方法路径** 倡导结合全球时空伸延（extensity）、集约度（intensity）、流速（velocity）与冲击度（impact propensity）四个维度开展跨国比较分析。
 > - **跨国／跨领域传播** 思想广泛渗透至国际关系、发展社会学、教育政治经济学与国际人权法领域，成为反思后主权国家治理的必读书目。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **长期学术合作者** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）、安东尼·麦克格鲁（Anthony McGrew） — 共同创立 Polity Press 并合著多部全球化巨著。
 > - **理论对话者** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 引用其全球化界定解构拉美外围国家的教育主权困境。
 > - **相关跨国实体** [[World Bank]]、[[OECD]] — 作为其分析的跨国规训与准超国家治理机构典型。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

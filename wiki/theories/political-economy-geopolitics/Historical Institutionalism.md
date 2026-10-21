@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Historical Institutionalism
@@ -107,9 +107,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle] 关键概念与理论构件
+> [!entry-map] 关键概念与理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
 > | **[[Historical Institutionalism\|历史制度主义]]** | 核心[[Paradigm\|范式]] | 整合时间性、权力分配属性与组织中介维度的总体历史政治分析学派。 |
@@ -160,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 拥有较强成文制度传统与长历史周期的现代国家体制、公共政策、经济规制与组织结构演进。
 > - **成立条件** 需要具备相对连续的历史档案材料；制度必须具备一定的正式组织形态与成文规则基础。
 > - **解释不足** 对完全缺乏正式规则的非正式部族习俗解释力较弱；在面对毁灭性外来军事征服或极端物理灾难时，中观博弈模型可能暂时被宏观物理破坏所中断。
@@ -188,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 历史制度主义内生演化转向奠基之作，系统批判间断均衡与连续性偏误，建构五大渐进变迁形态学。（pp. 18–34）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 历史制度主义内生演变转向里程碑著作，系统建构[[Theory of Gradual Institutional Change|渐进制度变迁理论]]与微观博弈矩阵。（pp. 1–37）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述历史制度主义[[Institutional Layering|制度分层]]概念在当代公共政策中的经验演化与理论反思。

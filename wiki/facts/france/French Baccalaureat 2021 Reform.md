@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # French Baccalaureat 2021 Reform
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 彻底重塑了法国基础与中等教育的育人生态，发挥了极其强大的正面反拨效应（Positive Backwash）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
 > - **实践影响** 倒逼高中日常教学全面强化口头表达、思辨质疑与跨学科长周期探究项目。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
 > - **知识影响** 为国际大规模高利害考试如何打破纸笔测试局限、有效评价生成性[[Higher-Order Thinking Skills\|高阶思维]]树立了世界级政策范例。

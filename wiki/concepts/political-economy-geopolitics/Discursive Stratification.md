@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Discursive Stratification
@@ -55,15 +55,11 @@ updated: 2026-10-17
 > [!quote|notitle]
 > "话语不完全反映或再现社会实践、政治决策、经济机制和权力利益。相反，使用'语言'——即文本、符号、数字或图像——的社会实践也参与建构社会不平等和等级。"([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.805]])
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 社会分层（social stratification）：社会分层通常关注客观的结构位置（收入、职业、教育程度），[[Discourse|话语]]分层则关注这些位置如何通过符号实践被赋予意义、合法化和再生产。
 > - vs [[Cultural Political Economy]]：CPE 同样关注符号与物质的相互构成，但更侧重经济秩序的宏观分析；话语分层更聚焦高等教育内部微观到中观层面的等级建构过程。
 
-## 核心分析维度
-
-> [!abstract|notitle]
+> [!abstract] 核心分析维度
 > [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp.805–807)]]通过收录的五篇文章展示了[[Discourse|话语]]分层的多维分析角度：
 
 ### 经济学的精英部署
@@ -86,16 +82,12 @@ Angermuller 将学术交流分析为行动者通过社会范畴主张自身位�
 
 Kim 通过对全球流动学者的分析展示了市场化如何改变符号位置，"跨国身份资本"概念揭示了国家等级与新市场分层之间的张力([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp.808–809]])。
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - **Foucault 的权力-知识分析** 将高等教育理解为权力知识的部署（dispositif），强调历史偶然性和权力-知识配置的变迁特征（Ball, 1990; Rose, 1996; Maesse & Hamann, 2016）
 > - **[[Constructivist Paradigm\|建构主义]]社会学** 关注意义建构和主导解释的斗争作为高等教育内部的社会活动——排名、评估和指标不仅衡量现实、更在制造它们所描述的现实([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.805–806]])
 > - **Bourdieu 的符号资本**[[Pierre Bourdieu]] 的符号商品和区分逻辑为理解学术竞争中的非货币维度提供了基础（Bourdieu, 1984）
 
-## 与分配冲突路径的关系
-
-> [!note|notitle]
+> [!note] 与分配冲突路径的关系
 > [[Discourse|话语]]分层与另一分析路径——分配冲突（distributional conflicts）——形成互补而非对立。分配冲突路径关注政策和资源分配机制，运用制度主义和马克思主义分析；话语分层路径关注意义建构和符号权力斗争。
 >
 > 两条路径在三个核心议题上存在紧张：

@@ -31,16 +31,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Global-Local Binary
 
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 全球/地方二元对立（Global/Local Binary）是一种将「全球」与「地方」视为对立两极的[[Analytic Framework\|分析框架]]。在这一框架中，地方/空间与领土邻近性、固定性、静态性和真实性相关联，而全球/空间被定义为抽象的、无限的、代表未来和运动的事物([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
 
 ---
@@ -60,9 +58,7 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Relational Space\|关系性空间]] — 关系性空间概念旨在超越全球/地方二元对立，将空间理解为关系的效果而非固定的容器。
 > - vs [[Actor-Network Theory\|行动者网络理论]] — ANT 通过将全球-地方二元对立视为网络效果而非基础假设，提供了超越这一对立的方法论工具。
 > - vs [[Methodological Nationalism\|方法论民族主义]] — 方法论民族主义以民族国家为[[Unit of Analysis\|分析单位]]，隐含着全球/地方二元对立的空间假设。

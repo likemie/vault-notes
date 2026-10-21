@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Scott Eacott
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2011** 发表于 *Journal of Educational Administration and History*，以[[Pierre Bourdieu|布迪厄]][[Champ|场域]]与习性框架剖析新南威尔士州校长培养计划，揭示管理主义对校长角色的工具化规训。[[Argument_Eacott_2011_JEAH|(Eacott, 2011)]]
 > - **2015** 发表于 *Educational Philosophy and Theory*，论述教育行政学者自身的具身嵌入性塑造其智识凝视，奠定教育领导力社会[[Epistemology|认识论]]基础。[[Argument_Eacott_2015_EPT|(Eacott, 2015)]]
 > - **2017** 发表于 *[[School Leadership]] & Management*，发表里程碑论文《学校领导力与[[Cult of the Guru|大师崇拜]]：[[John Hattie|哈蒂]]的[[Neo-Taylorism|新泰勒主义]]》，引发跨国学术轰动，并引发同行向 UNSW 科研副校长正式投诉与哈蒂本人的公开反驳。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]
@@ -154,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／思想资源** [[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）— 实践理论、[[Champ|场域]]与反思社会学奠基；芬威克·W·英格利希（Fenwick W. English）— 长期学术对话导师，常建议其学术沟通应更为温和。
 > - **论敌／批判对象** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）— 可见学习品牌创始人，2017 年公开回应指责埃考特嘲笑严谨性。
 > - **学术共鸣与经验接续者** [[Klaus Nielsen|克劳斯·尼尔森]]（Klaus Nielsen）与延斯·克利特默勒（Jens Klitmøller）— 在北欧心理学与教育实证审计中深度接续其[[Neo-Taylorism|新泰勒主义]]命题；叶夫根尼·戈洛夫钦（Evgeny Golovchin）— 在俄罗斯教师行政负荷实证调查中应用其持续数据生产理论；马修·约翰逊（Matthew Johnson）— 运用其理论剖析维州 [[Victorian HITS and Literacy Toolkit|HITS]] 监控策略。
@@ -188,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

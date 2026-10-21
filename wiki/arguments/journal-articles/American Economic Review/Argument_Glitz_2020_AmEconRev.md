@@ -48,7 +48,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Glitz_2020_AmEconRev"
@@ -304,9 +304,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **外部有效性** 东德的中央计划经济、冷战贸易禁运以及人肉间谍（HUMINT）的技术特征与当今市场化经济、全球化贸易和网络间谍环境存在系统性差异。研究结果不能直接推广至当代情境（pp.1099–1100）。
 > - **功能形式敏感性** 在不使用产出标准化的替代设定中，估计结果虽然符号与基线一致，但在统计上往往不显著，表明结论对功能形式假设有一定敏感性（pp.1088–1089）。
 > - **成本数据的[[Reliability\|可靠性]]** [[Cost-Benefit Analysis|成本收益分析]]中的成本数据来自斯塔西末任局长在议会的证词（约 17.5 百万东德马克 + 13.5 百万西德马克），真实成本可能被低估（pp.1098–1099）。

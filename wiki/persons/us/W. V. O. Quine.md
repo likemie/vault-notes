@@ -29,7 +29,7 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # W. V. O. Quine
@@ -45,9 +45,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1908** 出生于美国俄亥俄州。
 > - **1932** 获得哈佛大学哲学博士学位，后留校任教至退休。
 > - **1951** 发表《[[Empiricism\|经验论]]的两个教条》（*Two Dogmas of Empiricism*），挑战了分析与综合的绝对二分法。
@@ -63,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

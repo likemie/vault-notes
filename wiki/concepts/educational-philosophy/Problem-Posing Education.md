@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Problem-Posing Education
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 提问式教育（Problem-Posing Education） | [[Banking Model of Education\|储蓄式教育]] |
 > |------|---------------------------------------|--------------------------------|
 > | 知识观 | 动态生成，在人与世界的互动问题中被重构 | 静态沉积，自上而下的预制事实与礼物 |
@@ -87,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 理论与实践路径
-
-> [!influence-path|notitle] 理论与实践路径
+> [!influence-path] 理论与实践路径
 > - **理论路径** 与[[John Dewey\|杜威]]（John Dewey）在“做”（doing）中探究与解决问题的理论相呼应，共同构成了[[Active Learning\|主动学习]]的[[Critical Thinking\|批判性思维]]基石。
 > - **实践路径** 广泛应用于成人扫盲、批判社会学、社区教育以及进步主义学校的提问式课程开发。
 

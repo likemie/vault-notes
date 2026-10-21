@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Karen Mundy
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990s** 在加拿大多伦多大学获得博士学位，聚焦于非洲南部教育援助与国际组织政策，出版关于战后[[International Education|国际教育]]援助体系演进的开创性研究。
 > - **1998** 在顶尖国际关系与比较教育学界发表代表作《[[Educational Multilateralism|教育多边主义]]与世界（无）秩序》（*Educational Multilateralism and World (Dis)order*），确立了其在教育全球治理研究领域的权威地位。
 > - **2000s** 先后任职于美国斯坦福大学教育学院与加拿大多伦多大学 OISE，主持跨国公民社会与[[Education for All|全民教育运动]][[Cohort Study|追踪研究]]。
@@ -109,18 +107,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定了全球教育多边治理的政治经济学批判框架，深刻影响了国际比较教育学界对联合国机构和布雷顿森林机构的跨国分析。
 > - **政策路径** 作为 [[Global Partnership for Education|GPE]] 首席技术官，直接参与重塑了当代全球基础教育发展援助的资金筹措、效果监测与受援国教育部门计划审查准则。
 > - **社会倡导路径** 长期指导全球教师联合会（[[Education International]]）与全球教育运动（GCE）等民间网络开展政策问责。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）——共同探讨教育多边机构霸权、[[Dependency Theory|依附理论]]与[[World-Systems Theory|世界体系分析]]。
 > - **合作研究者** 琳·墨菲（Lynn Murphy）——共同合作系统研究跨国非政府组织网络与[[International Education|国际教育]]援助。
 > - **组织纽带** [[UNESCO]] 与 [[World Bank]]——作为其学术生涯长期对比考证的核心机构实体。
@@ -139,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

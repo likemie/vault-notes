@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Virtue Epistemology
@@ -211,8 +211,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 将德性责任论框架系统引入[[Generative Artificial Intelligence|生成式人工智能]]教育哲学，论证 AI 应当通过双模态对话、直接答案拦截规则及个性化故事模式唤起[[Intellectual Emotions|理智情感]]，服务于培育[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等[[Epistemic Virtues and Vices|理智美德]]的根本教育目标。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 整合德性[[Epistemology|认识论]]的核心洞见，将理智美德与恶德作为第四大组件纳入扩展的[[Epistemic Cognition|认识论认知]][[Analytic Framework|分析框架]]，系统阐述其在科学教育与[[Inquiry-Based Learning|探究式学习]]中的应用。

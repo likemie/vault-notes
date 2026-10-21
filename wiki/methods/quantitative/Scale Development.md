@@ -80,7 +80,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Scale Development
@@ -317,9 +317,7 @@ updated: 2026-10-16
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

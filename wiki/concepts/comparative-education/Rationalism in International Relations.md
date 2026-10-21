@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rationalism in International Relations
@@ -158,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 详述了理性主义如何将比较教育塑造成以权威与规训为驱动力的国际理解与软性数据[[Governing at a Distance\|远处治理]]事业。
 > - [[International Mind]] (国际心智) — 理性主义在两战期间通过教科书去刻板化修编而展开的跨国精神培育目标。
 > - Governing at a Distance (远处治理) — [[OECD\|经合组织]]（OECD/[[PISA]]）为代表的、理性主义在当代的最核心科学绩效治理机制。

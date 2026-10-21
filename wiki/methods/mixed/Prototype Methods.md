@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Prototype Methods
@@ -76,18 +76,14 @@ Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国
 > [!example] 主位视角的论证后果
 > Li 的研究发现——如好學心占中国学习[[Concept Mapping\|概念地图]]的 46%、中文词表充满道德和情感词汇而英文词表缺乏——不是因为研究者**预设**了[[Confucian Learning Tradition\|儒家学习传统]]的影响，而是因为这些发现**自然地从主位数据中浮现**。这正是 Li 论证策略的核心：不让理论框架替数据说话，从而避免"用西方的尺子量中国"的方法论陷阱([[Argument_Li_2012_Cambridge\|Li, 2012, pp.87-88, 96-97]])。
 
-### 文化模型框架（Cultural Models Framework）
-
-> [!abstract|notitle]
+> [!abstract] 文化模型框架（Cultural Models Framework）
 > 原型方法的另一个[[Epistemology\|认识论]]支柱是 [[Cultural Models\|文化模型]]这一人类学概念。文化模型由文化的历史过程建立并随文化演进而修订，作为共享的概念框架塑造成员的体验和行为([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。详见 [[Cultural Models]]。
 
 Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行动。因此，原型方法产出的文化学习模型不应被等同于任何具体个人的学习信念——它描绘的是**文化层面的共享理解**，而非个体层面的心理测量([[Argument_Li_2012_Cambridge|Li, 2012, pp.104-105]])。这一区分的详细讨论见 [[Cultural Models#概念辨析]]。
 
 ---
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > [[Argument_Li_2012_Cambridge\|Li (2012, pp.89-105)]]使用了两个互补研究来建构文化学习模型。以下程序以该研究为范例说明。
 
 ### 研究一：学习词汇的概念地图（prototype methods 主程序）
@@ -131,9 +127,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ---
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > - **比较文化概念结构** 适合回答"X 概念在文化 A 和文化 B 中分别如何被理解和组织？"这类问题。不测量个体差异，而描绘文化层面的共享理解([[Argument_Li_2012_Cambridge\|Li, 2012, p.104]])
 > - **本土概念挖掘** 适合发现外部分类框架无法捕捉的本土概念和概念关系——Li 的研究发现[[Heart and Mind for Wanting to Learn\|好學心]]是中国学习[[Concept Mapping\|概念地图]]中最大的集群（46%），而没有任何西方理论框架曾预测过这一概念的存在和中心性([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94-97]])
 > - **与后续研究方法[[Triangulation\|三角验证]]** 原型方法生成的概念地图可作为[[Cultural Models\|文化模型]]的初步假设，后续可通过访谈、观察、实验等方法进行验证和细化
@@ -141,9 +135,7 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ---
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > - **样本代表性问题** Li 的[[Study Population and Sample\|研究样本]]均为大学生——通常是该文化中受教育程度最高、年龄最集中的群体。这些参与者可能不是各自文化整体人口的代表性样本（Li 未在研究中直接讨论此限制）
 > - **语言 vs 信念的差距** 原型方法假设语言材料直接反映文化信念，但词汇存在（lexical availability）不等于信念存在——一个文化可能保留了某些"化石词汇"（如成语），但成员已不再持有相应的信念
 > - **[[Cluster Analysis\|聚类分析]]的主观性** 虽然聚类分析是统计方法，但参与者在"按意义相似性分组"时仍然涉及大量主观判断——不同的分组标准（如按功能、按情境、按情感效价）可能产生不同的[[Concept Mapping\|概念地图]]。Li 没有报告分组指导语的详细措辞，也没有讨论不同分组策略的可能性
@@ -152,18 +144,14 @@ Li 强调文化模型**影响和引导（但不决定）** 成员的思维和行
 
 ---
 
-## 相关理论
-
-> [!tip|notitle]
+> [!tip] 相关理论
 > - Prototype Theory — 原型方法是该理论在文化心理学中的直接方法论应用：人们对世界的理解通过分类系统组织，语言为这些类别提供标签
 > - [[Cultural Models]] — 原型方法产出的[[Concept Mapping\|概念地图]]是文化模型的一种形式——经群体共识验证、对文化成员具有可识别性
 > - [[Emic and Etic\|emic perspective]] — 原型方法是一种系统的、可复制的主位研究方法，克服了传统主位研究中"研究者即唯一工具"的[[Reliability\|信度]]问题
 
 ---
 
-## 使用此方法的研究
-
-> [!example|notitle]
+> [!example] 使用此方法的研究
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — Li 使用原型方法比较欧裔美国和中国大学生的"学习"概念结构，产出两套文化学习模型的综合描述
 
 ---

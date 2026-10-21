@@ -68,7 +68,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -78,14 +78,10 @@ citation_aliases:
 > [!question]
 本章试图回答的核心问题是：如何从[[Geopolitics|地缘政治视角]]理解当前全球高等教育的深刻转型？具体而言，本章建议将地缘政治作为分析透镜，以审视[[Knowledge Production|知识生产]]与高等教育如何被整合进国家、区域和企业在全球知识密集型资本主义中确立和改善自身位置的战略想象与算计之中(pp.36–37)。
 
-## 核心论点
-
-> [!tip|notitle]
+> [!tip] 核心论点
 本章提出，当前高等教育正经历一种"新的[[Geopolitics of Knowledge|知识地缘政治]]"（New [[Geopolitics of Knowledge]]）——高等教育被整合进不同行动者在全球[[Knowledge-Based Economy|知识经济]]中确立和改善自身地位的政治经济想象和计算之中。这种整合不仅催生了对高等教育未来的（再）想象，而且正在重塑和转变高等教育的使命和基础设施。高等教育机构已成为知识密集型资本主义的核心场所——被同时视为专有知识（专利、创新）、创新学习环境和[[Human Capital Theory|人力资本]]及关联主体性（associated subjectivities）的主要生产场所(pp.36–39)。
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 本章从两条独立但有交集的[[Geopolitics of Knowledge|知识地缘政治]]讨论脉络出发，发展出一种综合[[Analytic Framework|分析框架]]：
 
 ### 脉络一：批判地缘政治学（Critical Geopolitics）
@@ -113,9 +109,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 1. 古典的领土权力博弈并未消失——大国的势力范围竞争以技术竞争和区域贸易协定（如 RCEP）的新形式持续运作(pp.37–38)
 2. 关系性和网络化的"[[Hub and Flow Imaginaries|枢纽与流动想象]]"（[[Hub and Flow Imaginaries]]）正在构成知识社会的核心空间组织逻辑(pp.37–38)
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 本章的论证分为五个步骤展开：
 
 **第一步（§3.1 引言）：问题提出与概念定位。** 确立知识社会/[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的霸权地位——创新被热情拥抱为所有社会问题的万能解药，高等教育被置于当代社会未来讨论的核心。引出论证核心主张：高等教育正被整合进不同行动者的战略想象和计算之中，以确立和改善其在全球知识经济中的位置(pp.35–37)。
@@ -140,9 +134,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 - 主体性影响：需要关注被生产的新型主体性——创新性的、创业性的、连接性的——以及部署的治理技术；这些对学术人员的工作条件和学术生涯同样产生深远影响
 - 学科反思：从比较与国际（高等）教育的视角，这一现象召唤学者关注高等教育政策日益增加的复杂性——"全球"与"地方"、"话语"与"物质"之间的互动，以及科学和教育在认识论治理（[[Epistemic Governance]]）和社会认识论（social epistemology）层面所受的深层影响(pp.48–49)
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 - **"新[[Geopolitics of Knowledge|知识地缘政治]]"的出现** 创新、科研能力和教育被视为在全球经济竞争中取得成功的关键。高等教育机构成为知识密集型资本主义想象的核心——被同时视为专有知识、创新学习环境和驱动创新的主体性的主要生产场所。[[Knowledge Production|知识生产]]被整合进国家、区域和企业在全球经济中的战略定位(pp.38–39)
 - **知识范畴的三重窄化** 在这一语境中，"知识"主要指向：(a) 创意及相关创新在生产链中创造价值的角色；(b) 将知识商品化的尝试，包括专家、学者等生产知识的过程；(c) 关于政治社群作为[[Knowledge-Based Economy|知识经济]]体表现的数据的持续收集(Moisio, 2018, p.9, p.39)
 - **两条[[Geopolitics|地缘政治]]脉络的共构性**[[Classical Geopolitics|古典地缘政治]]和关系性地缘政治并非前后替代关系而是共构——如 RCEP 协议中既包含全球连接性的开放流动[[Discourse|话语]]，又包含国家层面的权力博弈（中国的战略计算旨在超越美国主导的 TPP），两者共同构成当代地缘政治的实际运作逻辑(pp.37–38)
@@ -151,15 +143,11 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 - **IEHs 作为治理理性转换的信号** 高等教育治理的基本理性正从社会/教育范畴（可及性、公平、质量、开放研究）转向经济范畴（收入创造、可专利的非开放研究、[[Competitiveness|竞争力]]）(pp.44–45)
 - **Minerva 项目作为"场所无涉"想象的原型** Minerva 展示了知识地缘政治在机构层面的物质化——一个具有弥赛亚式使命（"为了世界的利益"）的全球营利性大学，结合教育[[Techno-Utopianism|技术乌托邦主义]]、风险资本和全球[[Student Mobility|学生流动]](pp.45–48)
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “本章认为，在这种背景下，高等教育是新[[Geopolitics of Knowledge\|知识地缘政治]]的一部分，指的是将高等教育纳入不同行动者的想象和计算中，旨在主张和/或改善他们在全球[[Knowledge-Based Economy\|知识经济]]中的地位。”
 > ("The chapter argues that higher education, in this setting, is part of a New [[Geopolitics of Knowledge]] that refers to the integration of higher education in the imaginations and calculations of different actors aiming at asserting and/or improving their positions in the global [[Knowledge-Based Economy]].") (pp.36–37)
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 - 本章为概念性/理论性章节，未包含实证研究方法——所举案例（IEHs、Minerva）作为例证而非系统实证分析使用，其代表性和推广性有待独立检验
 - 后殖民/去殖民脉络主要以 1990–2000 年代的经典文献(Dussel, 1993; Mignolo, 2002)为基础，未充分纳入近年"南方[[Epistemology|认识论]]"(Connell, 2007, 2019)和"多元世界"建构(Escobar, 2018; Reiter, 2019)领域的最新发展
 - 两大传统的综合仍处于初步阶段——前者以空间配置和政治想象为中心，后者以认识论暴力和殖民性为中心，两者在[[Ontology|本体论]]和认识论前提上的张力尚未被充分理论化

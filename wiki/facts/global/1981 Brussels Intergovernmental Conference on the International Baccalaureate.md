@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # 1981 Brussels Intergovernmental Conference on the International Baccalaureate
 
@@ -96,9 +96,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[1976 Hague Intergovernmental Conference on the International Baccalaureate]] | Fact | 海牙会议先把 IB 的存续与政府共同责任联系起来。 |

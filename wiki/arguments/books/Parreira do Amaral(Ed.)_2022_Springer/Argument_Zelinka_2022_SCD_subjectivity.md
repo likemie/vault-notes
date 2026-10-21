@@ -39,7 +39,7 @@ sources:
 part_of: "[[Parreira do Amaral(Ed.)_2022_Springer]]"
 status: draft
 created: 2026-05-20
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Zelinka_2022_SCD_subjectivity"
@@ -62,9 +62,7 @@ citation_aliases:
 > [!question]
 > 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) [[Geopolitics]] of Knowledge）通过全球教育治理[[Discourse|话语]]生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 该章的分析建立在三个相互嵌套的理论资源之上：
 
 - **[[Governmentality]]（治理术）** — 取自 Foucault(2004)，指通过引导个体的自我引导来治理社会的方式。Zelinka 将（新）[[Geopolitics of Knowledge|知识地缘政治]]概念化为一种**全球治理技术（global governmental technology）**，以此透视全球趋势和宏大发展之下的权力微观机制(p.264)。
@@ -73,17 +71,13 @@ citation_aliases:
 
 - **主体 vs 主体性** — 主体（subject）指按照制度承认和社会接受的角色、职责和责任行动的个体（教师、研究者、学生、政策制定者等）；**主体性（subjectivity）** 则描述他们的"被期望和被欲求的"思维和行动方式。主体化模式（mode of subjectivation）是一种权力技术，它塑造个体的行为并使其服从于特定目的(Foucault, 1988, p.18)。主体性不能被视为固定和清晰的类别，而应被理解为来自不同来源的话语实践的**时间性和偶然性**交汇(pp.253-254)。
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 该章采用批判性[[Discourse Analysis\|话语分析]]（critical [[Discourse]] analysis）方法，具体做法为：
 > - **文本汇编** 收集并整理七个国际和国家层面的 21 世纪关键技能与素养框架（enGauge, P21, NRC, ATCS, WEF, [[OECD]], EC），时间跨度超过 15 年。
 > - **[[Critical Companion\|批判性伴随]]（critical companion）** 不提供传统的系统性[[Literature Review\|文献综述]]，而是对这些框架进行批判性检视，识别其核心特征、共同模式和盲点(p.254)。
 > - **精细化分析（fine-grained analysis）** 在总体检视后，聚焦三组"张力对"（tension-pairs）来更细致地揭示主体性的生产过程(p.260)。
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > 该章的论证从宏观到微观再回到宏观，形成三层递进结构。
 
 ### 第一层：高等教育的新自由主义转型与（新）知识地缘政治的浮现
@@ -141,16 +135,12 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 2. **授权的[[Knowledge Production|知识生产]]手段** 全球治理术成功想象出一个空间，其中特定人群可以决定什么算作"卓越"和"创新"，什么值得获得资源分配，由此强化了那些被授权定义未来进步者的权力地位。
 3. **通过主体化、区分和创造自由来引导行为** 一方面推崇自我企业家精神；另一方面将排除者框定为脆弱或需要帮助的——不留出拒绝或抵抗的空间。
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - 21 世纪 [[Single-Case Design\|SCD]] 生产的（新）[[Geopolitics of Knowledge\|知识地缘政治]]主体性具有三个核心特征：对关键技能的**意愿**和竞争准备；以**结果导向技能**为首要焦点以增强[[Employability\|就业力]]和[[Self-Entrepreneur\|自我企业家]]精神；推广一套适用于全球议题但忽视区域需求的**同质化技能**集合(p.263)。
 > - 新自由主义对教育的工具化和对社会的深层原子化共同构成了正在发生的更大范围的[[Paradigm\|范式]]转型(p.265)。
 > - 对（新）知识[[Geopolitics|地缘政治]]的抵抗起点在于质疑其根本前提——即将主体定义为"知识承载者"（knowledge-bearers）。
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 
 **缺乏实证验证**。该章属于概念性／理论性分析，虽然对七个框架进行了文本分析，但并未提供关于"主体实际如何回应 [[Single-Case Design|SCD]]"的经验证据。主体性是被[[Discourse|话语]]"生产"的还是在实际中被采纳、协商或抵抗的，该章的分析无法区分。
 

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Liberalization
@@ -165,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980年代中 — 去组织化资本主义的先声** 克劳斯·奥菲（Claus Offe）以及斯科特·拉什与约翰·厄里（Lash & Urry）提出“去组织化资本主义”命题，揭示战后[[Neocorporatism|新法团主义]]在弹性生产与全球资本冲击下的解体。
 > - **1990年代 — [[Washington Consensus|华盛顿共识]]与新自由主义全球化** [[International Monetary Fund|国际货币基金组织]]与[[OECD|经合组织]]推动以去规制、私有化和紧缩为标志的宏观自由化浪潮。
 > - **2003 — [[Pierre Bourdieu|布迪厄]]批判经济自由化工程与市场暴政** [[Pierre Bourdieu|布迪厄]]出版《反扑：对抗市场暴政》（*Firing Back against the Tyranny of the Market*），揭示全球化并非自然技术过程，而是新自由主义蓄意推进的经济自由化工程。
@@ -197,8 +195,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史解构[[OECD|经合组织]]全球化叙事，揭示物化[[Discourse|话语]]对经济自由化意识形态工程与意义政治的掩护机制（p. 441）。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出自由化作为去组织化资本主义与默认达成演进机制的核心理论洞见（pp. 3–5, 31–33）。

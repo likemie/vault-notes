@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Protocol for Language Arts Teaching Observation
@@ -134,9 +134,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | [[Plato]] 所归属的[[Domain Specificity\|学科特异性]]教学观察方法体系。 |
@@ -145,7 +143,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 将 [[Plato]] 作为核心观察工具纳入要素分析与比较研究，指导 Teach 认知示范量规的设计。

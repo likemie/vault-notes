@@ -77,7 +77,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Output-Oriented Governance
@@ -117,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 产出导向治理（Output-Oriented Governance） | 传统投入与合规导向治理（Input/Procedural Governance） | 市场化[[New Public Management\|新公共管理]]（NPM） |
 > |---|---|---|---|
 > | **核心调控重心** | 明确战略产出标准、监测实质成果并依据实效反馈改进 | 事前编制规章、经费细则、行政审批与程序防错 | 市场选择准入、客户满意度评价与自负盈亏竞争 |
@@ -231,9 +229,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s–1980s — 国家重大战略工程时期的“实效优先攻坚”** 美国核动力潜艇项目（里克弗）确立了以交付战略成果为唯一准绳的工程治理[[Paradigm|范式]]，打破常规行政公文规章。
 > - **1980 年代 — 单校发展（Einzelschulentwicklung）理念萌生** 德语区学界与政策界认识到去中心化的单所学校作为教育变革核心行动单元的关键价值。
 > - **1990 年代 — 治理变革与新加坡国家治理现代化** 欧洲推行[[School Autonomy|学校自主权]]改革；新加坡（[[Lee Kuan Yew|李光耀]]）在国家层面确立以结果为导向的高薪对标与权责对称治理模式。
@@ -309,9 +305,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 针对奥地利中小学校长开展[[Cluster Analysis|聚类分析]]与实证调查，揭示产出导向治理下校长在循证型、资源型与弱发展型之间的经验分化，以及对微观听课与授课工时的重组效应。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 综合德语区外部督导与全域学业统考的监测文献，指出产出导向数据回传在单体学校层面的成效缺失与理论-实践张力，主张强化中层研训机构的转译支持。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025)]] — 将产出导向治理拓展至国家战略与技术采办领域，批判官僚体制内以形式合规替代实质战略产出的[[Procedural Piety|程序虔敬]]，提倡以物理世界交付战功为最高裁判尺度。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Promissory Legitimacy
@@ -151,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979 — 系统论中的技术赤字假说** 鲁曼与肖尔（Luhmann & Schorr, 1979）提出教育缺乏因果技术的论断，指明教育无法保证投入与产出的必然联结，奠定了不确[[Qualitative Research\|定性研究]]的[[Epistemology\|认识论]]基础。
 > - **2000–2010s — 预期社会学与虚构期望** 贝克特（Jens Beckert）等经济社会学家提出资本主义依赖“虚构期望”（Fictional Expectations）的理论，论证经济行动的实质是基于对未来的前瞻性想象而非历史计算。
 > - **2023 — 允诺合法性概念正式提出** 罗伯逊与比奇（Robertson & Beech, 2023）在《Comparative Education》发表里程碑论文，系统将期许性合法性引入跨国教育治理分析，揭示国际组织如何凭借未来允诺重塑合法性空间。
@@ -196,7 +194,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在全球教育[[Policy Brokerage\|政策中介]]分析中系统运用期许性合法性概念，解释国际组织如何以未来行动清单代偿[[Technology Deficit of Education\|教育技术赤字]]与决策不确定性。

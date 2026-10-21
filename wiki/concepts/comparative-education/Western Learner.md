@@ -57,23 +57,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Western Learner
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 西方学习者（Western Learner）是 Li 基于对西方知识传统的追溯所提炼出的学习者模型——呈现于 Figure 2.1([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-36]])。Li 指出，在西方哲学传统中，"学习者作为一个整体的人并没有占据哲学辩论的突出位置——大多数思想家没有写太多关于学习者作为整全的人的内容，而是聚焦于心智"。但通过对西方教育思想史的梳理，她仍能辨识出四个核心的学习者特征与过程([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-35]])。
 
 该模型的基本学习方式是：**学习者探究外部世界（the learner studies the world out there）**。学习者的两大内在组件是心智（mind）和[[Intellectual Emotions|智识情感]]（intellectual affect），其中心智是"最为根本的"([[Argument_Li_2012_Cambridge|Li, 2012, p.36]])。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 识别出西方学习者的四个核心特征([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-36]])：
 
 ### 1. 拥有好的心智并善加使用（Good Mind and Use It Well）
@@ -100,9 +96,7 @@ updated: 2026-10-16
 
 ---
 
-## 学习者模型图示
-
-> [!info|notitle]
+> [!info] 学习者模型图示
 > Li 的 Figure 2.1 呈现了西方学习者的模型图。完整逐要素解读见 Argument 中的 Figure 2.1 详细解释。
 >
 > ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png)
@@ -111,9 +105,7 @@ updated: 2026-10-16
 
 ---
 
-## 心智导向的学习过程
-
-> [!abstract|notitle]
+> [!abstract] 心智导向的学习过程
 > Li 在第 4 章中进一步详细描述了西方学习者在实际学习中遵循的四个关键过程，它们共同构成了 Figure 4.1 的"[[Mind-Oriented Learning Process\|心智导向学习过程]]"模型([[Argument_Li_2012_Cambridge\|Li, 2012, pp.108-124]])。这四个过程不是孤立的步骤，而是一个相互增强的系统——每个过程强化其他过程。
 
 ### 1. 主动参与（Active Engagement）
@@ -207,9 +199,7 @@ O'Connor and Michaels（1993）的研究揭示了西方课堂如何通过 [[Revo
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **Western Learner vs [[Chinese Learner]]** 这是 Li 全书的核心对比([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-36, 55-56]])：
 
 | 维度 | 西方学习者 | 中国学习者 |
@@ -224,9 +214,7 @@ O'Connor and Michaels（1993）的研究揭示了西方课堂如何通过 [[Revo
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Certainty of Knowledge]] — 西方学习者探究世界的目标是获得确定的知识
 > - [[Mind and Its Wonders]] — "拥有好的心智"是第一特征——心智是西方学习者的核心工具
 > - [[Examined Life]] — "挑战态度"直接来源于[[Socrates\|苏格拉底]]省察生活的传统
@@ -234,9 +222,7 @@ O'Connor and Michaels（1993）的研究揭示了西方课堂如何通过 [[Revo
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 西方学习者模型中"区分最有能力者与普通者"的倾向（[[Plato]] 的护卫者选拔），与儒家"有教无类""人人皆可为尧舜"的平等主义形成对比。但 Li 也指出，西方同样有 Comenius 的[[Education for All\|全民教育]]传统——两条线索并存([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-35]])
 > - "奖励与庆祝个人成就"的文化取向可能在实践中加剧竞争而非促进[[Cooperative Learning\|合作学习]]。Li 本人对此并未深论，但这一对比隐含在她的文化比较框架中
 

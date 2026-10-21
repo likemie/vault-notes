@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Mind-Oriented Learning Process
@@ -62,9 +62,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 以下是构成心智导向学习过程的四个支柱，每个支柱包含具体的行为与心理过程。
 
 ### 1. 主动参与（Active Engagement）
@@ -160,16 +158,12 @@ updated: 2026-10-16
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > 在 Li 关于[[Ideal Learner\|理想学习者]]的研究中，96%的欧洲裔美国受访者在其理想学习者描述中提及上述心智导向学习过程，而仅 68%的中国同龄受访者提及类似过程。该数据来自对东西方大学生对理想学习者形象的开放式描述的原型分析([[Argument_Li_2012_Cambridge\|Li, 2012, p.122]])。
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Socratic Tutoring Style]] — [[Socrates\|苏格拉底]]式追问传统为[[Critical Thinking\|批判性思维]]的提问和挑战权威提供了文化原型
 > - [[Examined Life]] — 未经省察的生活不值得过，为探究和反思提供了哲学根基
 > - [[Mind and Its Wonders]] — 西方智力传统中对心灵力量的核心信仰

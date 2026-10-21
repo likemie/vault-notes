@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ignatz Bubis
@@ -59,9 +59,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927** 出生于德国西里西亚的布雷斯劳（今波兰弗罗茨瓦夫）。
 > - **1939–1945** 在纳粹大屠杀中失去多位至亲，作为幸存者经历琴斯托霍瓦隔都与强迫劳动营。
 > - **1950年代** 定居法兰克福，投身商业与城市公共生活。
@@ -103,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **论辩对手** [[Martin Walser|马丁·瓦尔泽]] — 围绕大屠杀记忆的公共责任与国家认同展开历史性公开论战。
 > - **当代观察与引述者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中作为德国国家认同复杂性的核心案例加以剖析。
 > - **所涉核心事件** [[Walser-Bubis Debate|瓦尔泽-布比斯之争]]。
@@ -124,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

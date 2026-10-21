@@ -59,7 +59,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Bologna Process
@@ -167,9 +167,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 在知识网络中的定位与功能 |
 > |:-----|:-----|:-------------------------|

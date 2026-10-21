@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Endogenous Privatisation
@@ -221,9 +221,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:-----|
@@ -238,9 +236,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰公立教育三十年来从《明日之学校》内生分权自负盈亏向外部服务承包演进的全景历程。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 详尽解构[[Internationalization of Higher Education|高等教育国际化]]、全球生源竞争与西方公立大学永久性内生私有化之间的因果联动机制。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 阐释使用者自费、以考代评等内生管理技术在新自由主义国家转嫁公共开支中的阶级控制功能。

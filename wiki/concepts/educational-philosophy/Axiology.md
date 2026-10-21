@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Axiology
@@ -140,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **古典哲学时期 — 善恶与道德本体起源** 探讨伦理（道德善恶）与美学（审美体验）的本体起源，追问城邦正义与理想人性的本质。
 > - **19世纪末至20世纪中叶 — [[Positivism\|实证主义]]的[[Value Neutrality\|价值无涉]]神话** [[Auguste Comte\|奥古斯特·孔德]]（Auguste Comte）与逻辑实证主义将科学等同于价值中立（Wertfreiheit），将价值判断斥为不可验证的形而上学臆测，试图在科学中彻底驱逐价值。
 > - **20世纪中后期 — [[Critical Theory\|批判理论]]与后实证反思** 法兰克福学派揭露工具理性的意识形态欺骗，指出“无良知科学”的毁灭性风险；[[Postpositivism\|后实证主义]]正式确立“事实必定是理论负载与价值负载（theory-laden and value-laden）”的[[Epistemology\|认识论]]命题。
@@ -158,8 +156,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 将价值论作为元理论顶层纳入 Hitchcock & Hughes 研究五层推导阶梯，系统阐述教育研究与政策决策的价值共生性。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 从个体认知发展视角实证测评[[Epistemology\|认识论]]与价值观维度的评估水平，揭示成人深陷彻底相对主义的宽容陷阱。

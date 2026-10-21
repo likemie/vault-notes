@@ -76,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hofstede's Cultural Dimensions
@@ -255,9 +255,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1980 — IBM 全球调查与四大维度奠基（Hofstede, 1980）** 出版经典奠基著作 *Culture's Consequences*，基于对全球 72 个国家和地区数十万 IBM 员工的[[Questionnaire\|问卷调查]]，首创四大文化维度（PDI, IDV, MAS, UAI），奠定了跨文化量化比较研究的经验[[Paradigm\|范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 181)]]
 > - **1986 — 跨文化师生互动的理论化应用（Hofstede, 1986）** 在《国际跨文化关系杂志》发表关于跨文化师生交往的经典论文，首次系统将四大维度映射至课堂教学情境，深入论述了不同文化维度下师生权力、成就动机与沟通期望的冲突根源。
 > - **1987 — CCC 挑战与第五维度“儒家工作动力”（The Chinese Culture Connection, 1987）** 针对 Hofstede 问卷依赖西方学者命题的文化局限，香港学者联合研发“中国文化价值观量表（[[Control of Variables Strategy\|CVS]]）”，在 22 个国家和地区开展测试，提炼出西方量表遗漏的第五维度“儒家工作动力”。[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 45)]]
@@ -298,9 +296,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 在生成式 AI 促学[[Meta-analysis\|元分析]]中以 Hofstede 权力距离为调节[[Variable\|变量]]，发现高权力距离文化效应显著更大（g = 0.859 vs 0.236）。
 > - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 运用 Hofstede 对丹麦文化的刻画提出跨文化教学差异假设，结合丹麦 [[Science Foundation Ireland|SFI]] 报告与高绩效学校实证检验国际[[Effective Teaching\|有效教学]]综合在丹麦的适切性，发现核心有效教学质量跨文化稳健，且社会阶层比国家文化更具解释力。
 > - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 针对西方文献中广泛存在的“[[Chinese Learner\|中国学习者]]”刻板印象展开深层[[Discourse|话语]]解构，批判援引 Hofstede 文化维度进行“文化地图绘制”所带来的本质化倾向，深度剖析了第五维度“儒家工作动力”的历史政治建构与教育实践危害。

@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # 1979 Schools Council International Baccalaureate Feasibility Study
 
@@ -101,9 +101,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[N and F Proposals]] | Fact | 两套课程结构的接近促使 IB 被视为可试验的改革工具。 |

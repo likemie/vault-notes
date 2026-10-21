@@ -121,9 +121,11 @@ Argument 页写某篇论文、章节、报告、政策文件或书籍的论证�
 
 期刊论文命名之前读取 `citation/journals.json`，严格使用期刊全名对应的唯一代码；新期刊先通过 `scripts/citation_index.py --register-journal` 登记。该机器注册表只保存全名与代码，不生成人类可读页面。已有文件名保持不变；新建、改名或修改期刊归属时按注册表校验，具体规则见 `vault-schema.md`。
 
+> 章节标题与 callout 不重复：只含一个 callout 且同义的章节，不写 `##` 标题，以 callout 标题代替；详见 CALLOUTS.md。
+
 推荐结构：
 
-- `## 研究问题`
+- 开头直接放 `[!question]`（不再写 `## 研究问题` 标题，callout 眉标已显示 RESEARCH QUESTION）
 - `## 理论框架`
 - `## 研究方法`
 - `## 论证结构`

@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Federal Law No. 121-FZ on Foreign Agents
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **引发学术机构合规恐慌** 极其宽泛的“外国代理人”定义导致大量从事社会学、政治学与教育研究的非商业学术中心面临行政骚扰与生存危机，学者因担心触碰法律红线而被迫选择自我审查。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 45]])
 > - **限制了跨国学术科研交流** 法律在客观上给正常的学术引智、跨国科研合作项目贴上了“国家安全风险”标签，直接拉高了中外合作团队的政治合规壁垒。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 44–45]])
 > - **导致境外科学资助网络清零** 该法案的惩罚性环境加速了外国教育和科学基金会的撤离，切断了青年学者重要的非政府竞争性资金来源。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
@@ -111,9 +109,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

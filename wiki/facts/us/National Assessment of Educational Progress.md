@@ -12,9 +12,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1969–至今"
 initiator_organization: "National Center for Education Statistics"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
   - "[[Socioeconomic Status]]"
-  - "[[Policy Entrepreneur]]"
   - "[[Test-Based Accountability]]"
 related_theories: []
 related_methods:
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # National Assessment of Educational Progress
@@ -156,9 +155,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

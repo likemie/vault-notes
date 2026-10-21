@@ -36,14 +36,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Nelson Memo of 2022
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 2022 年，白宫科技政策办公室（[[Office of Science and Technology Policy]], OSTP）主任 Alondra Nelson 发布备忘录，指示所有资助研发的联邦机构建立公共获取政策，覆盖同行评审学术出版物和科学数据。这一政策标志着美国联邦政府对开放科学（open science）的重大立场转变——从此前的有限开放转向全面、即时的公共获取要求([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.264]])。
 
 ## 政策文本摘要
@@ -62,9 +60,7 @@ updated: 2026-10-16
 > [!note|notitle]
 > 这一政策与大学坚持[[Academic Freedom\|学术自由]]中的发表权形成合力——联邦的开放获取要求从制度层面加强了对研究成果公开的保障，而学术自由则从价值层面为发表权提供了依据。两者共同使大学在与企业谈判保密或延迟发表条款时拥有更强的制度性底气（p.264）。
 
-## 相关概念
-
-> [!example|notitle]
+> [!example] 相关概念
 > - [[Academic Freedom]]
 > - [[University-Industry Collaboration]]
 > - [[Bayh-Dole Act of 1980]]

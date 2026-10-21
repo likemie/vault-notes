@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Stability vs. Variability Dilemma
@@ -110,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -179,9 +177,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 首创稳定性假说与变异性假说双重困境模型，系统解构《[[Visible Learning|可见的学习]]》并提出修补金字塔隐喻。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从统计学底层审计[[Meta-meta-analysis|二阶元分析]]的[[Fixed-Effect Model|固定效应]]设定与信息损失，为[[Ewald Terhart|特哈特]]的[[Epistemology|认识论]]批评提供数理支撑。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 运用[[Critical Realism|批判实在论]]检验可见学习[[Construct Validity|构念效度]]，进一步证实宏观聚合对微观教学情境的系统性抽空。

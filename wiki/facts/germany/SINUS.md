@@ -11,7 +11,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,8 +37,6 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Professional Judgment]]"
   - "[[Absorptive Capacity]]"
-  - "[[Scientific Paradigm]]"
-  - "[[Emergence]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Complexity Theory]]"
@@ -49,12 +47,12 @@ related_persons: []
 related_facts:
   - "[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung]]"
   - "[[TIMSS]]"
+  - "[[PISA]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[German State Educational Institutes and Quality Agencies]]"
   - "[[Clearing House Unterricht]]"
   - "[[Forschungsmonitor Schule]]"
   - "[[Qualitätsoffensive Lehrerbildung]]"
-  - "[[PISA]]"
   - "[[PISA Shock in Germany]]"
 related_arguments:
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
@@ -62,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # SINUS
@@ -161,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

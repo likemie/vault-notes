@@ -66,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Tennessee STAR Project 1985-1989
@@ -191,9 +191,7 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

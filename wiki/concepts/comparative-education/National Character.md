@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # National Character
@@ -192,9 +192,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **18 世纪末–19 世纪中叶 — 哲学思辨与民族精神发轫** 孟德斯鸠探讨法律与民族精神的关系，[[David Held|赫尔德]]（Johann Gottfried von Herder）等提出独特民族精神（Volksgeist）。
 > - **1900 — [[Michael Sadler|萨德勒]]确立教育制度反映与救治国民性格命题** 萨德勒提出国家教育制度是活体有机体，既反映又试图救治国民性格缺陷。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40, 44)]]
 > - **1930s–1950s — 经典学派系统化为核心分析[[Construct|构念]]** [[Isaac Kandel|坎德尔]]、汉斯、施奈德与[[Vernon Mallinson|马林森]]将国民性格作为跨国制度比较的基本[[Independent Variable|自变量]]。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40–42)]]
@@ -221,8 +219,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统梳理历史-哲学学派在比较教育中建构国民性格[[Construct|构念]]的脉络，并清算其方法论缺陷与[[Whiggism|辉格主义]]偏误。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 从科技[[Geopolitics|地缘政治]]与共同体凝聚力角度，重构超越狭隘族裔血统的开放国民性格与国家认同。

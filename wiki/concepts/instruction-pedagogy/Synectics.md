@@ -60,7 +60,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Synectics
@@ -251,9 +251,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Literature Review\|文献综述]]系统回顾奠基性[[Creativity Training\|创造力训练]]项目，确立提喻法（Synectics）与 [[Creative Problem Solving\|CPS]]、[[Brainstorming\|头脑风暴]]并列的经典系统理论流派地位。
 > - Gordon (1961) — 系统奠定提喻法理论、[[Making the Familiar Strange\|使熟悉变陌生]]双向原则与四大类比体系的奠基之作。
 > - Prince (1970) — 系统拓展提喻法教学规程与工业实务创新的经典专著。
@@ -262,9 +260,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

@@ -98,7 +98,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-15
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Beech_2009_GlobalGarden"
@@ -395,9 +395,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 本研究存在两重明确的理论边界与实证检验范围：① 本文所提理论模型的经验验证主要基于 20 世纪 90 年代阿根廷与巴西的教师教育与课程改革，关于国际组织、国家与本土学术空间界限消融、[[Gatekeepers|守门人]]闭合空间的推论，必须在拉美其他国家以及更广泛的非西方社会重新开展实证检验；② 跨国商业公司、咨询实体与[[EU|欧盟]]等新型行动者尚未完全整合进该五位置模型的具体机制分析中，将模型拓展至其他主体或欧洲空间时，必须根据各主体独特的内部组织逻辑（如企业的营利逻辑或欧盟的特有制度安排）重新推导其[[Discourse|话语]]生产与[[Recontextualization|再情境化]]法则。（pp. 354–356）
 
 ---

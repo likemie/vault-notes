@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Codeswitcher
@@ -54,9 +54,7 @@ updated: 2026-10-17
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 **公开行为（frontstage）** 在学校同伴面前——
 - 声称自己"没怎么学习""随便考考"
@@ -73,18 +71,14 @@ updated: 2026-10-17
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **vs 一般性的自我呈现（self-presentation）** 代码切换不同于 Goffman 意义上的日常印象管理——后者在各种社交场合都存在，而学校中的代码切换是针对**特定的同伴规范（"不要太努力"）** 的**防御性**策略。它不是为了"看起来更好"，而是为了"不被攻击"。
 
 **vs 欺骗** 代码切换不是欺骗——学生确实在学习，只是不在学校谈论它。它更接近一种**文化生存策略（cultural survival strategy）**，类似于少数群体在主流文化中使用的"code-switching"（在不同文化代码之间切换）——只不过这里切换的不是语言或文[[Avatar|化身]]份，而是**对学习的态度表达**。
 
 ---
 
-## 在同伴文化中的功能
-
-> [!tip|notitle]
+> [!tip] 在同伴文化中的功能
 > 代码切换揭示了一个更深层的问题：在[[Nerd]] 文化中，**公开表达学习兴趣和努力本身就是冒险行为**。之所以冒险，是因为 [[Intellectual-Social Divide\|知性-社交二分]]使理智兴趣被等同于"社交缺陷"，而 [[Zero-Sum Competition\|零和竞争]]使努力被解读为"试图超越同伴"。这产生了一个悖论——学校和家长鼓励学生努力学习，但[[Peer-Supported Learning|同伴文化]]惩罚那些公开表达努力的学生。代码切换是学生在这个矛盾中发明的自保策略。
 
 更广泛的文化根源分析见 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 6 章第 3 步。

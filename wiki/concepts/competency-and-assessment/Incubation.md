@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Incubation
@@ -244,9 +244,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Three-Level Meta-Analysis\|多层元分析]]揭示[[Creativity Training\|创造力训练]]周期的倒 U 型演变（$< 2$ 个月最优 $g = 0.844$），印证了短中期聚焦结合生活实践孕育的生态学规律，阐明间歇期对心理倦怠的规避价值。
 > - Sio and Ormerod (2009) — 117 项实验对比的奠基性[[Meta-analysis\|元分析]]，确立孕育效应总体稳健（$d = 0.29 \sim 0.45$）并解析轻度任务与顿悟难题的最优结合机制。
 > - Wallas (1926) — 系统创立[[Creativity\|创造力]]四阶段模型（准备—孕育—豁朗—验证）的奠基之作。
@@ -254,9 +252,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

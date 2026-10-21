@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Michael Sandel
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1953** 出生于美国明尼苏达州明尼阿波利斯。
 > - **1975** 毕业于布兰迪斯大学，随后获罗德奖学金赴英国牛津大学贝利奥尔学院深造，师从查尔斯·泰勒（Charles Taylor）等著名哲学家。
 > - **1981** 获得牛津大学哲学博士学位，同年加入哈佛大学政府系任教。
@@ -110,18 +108,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政治哲学与伦理学** 奠定了社群主义与自由主义对话的理论[[Paradigm|范式]]，深刻重塑了当代西方关于公民德性、政治共同体与社会正义的讨论框架。
 > - **公共哲学与全球启蒙** 通过[[Socrates|苏格拉底]]式的公开道德辨析课程，极大地推动了政治哲学从纯粹学术象牙塔走向全球大众公共启蒙。
 > - **科技批判与[[Technological Republic|技术共和国]]反思** 其对自由主义道德真空与[[Market Triumphalism|市场必胜论]]的诊断成为卡普与扎米斯卡批判硅谷[[Technological Escapism|技术逃避主义]]、重构政产协同治理的核心哲学支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **主要论敌** [[John Rawls|约翰·罗尔斯]]（John Rawls） — 桑德尔对其《正义论》的道德中立性与先验主体观展开了终身哲学商榷。
 > - **思想对话者** 查尔斯·泰勒（Charles Taylor）与[[Alasdair MacIntyre|阿拉斯代尔·麦金太尔]]（Alasdair MacIntyre） — 共同奠定了当代西方社群主义政治哲学的理论基石。
 > - **当代引述与应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中深度引述其对[[Market Triumphalism|市场必胜论]]与公共道德真空的批判。
@@ -129,9 +123,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

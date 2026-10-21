@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # George Kelly
 
@@ -51,9 +51,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1905** George Alexander Kelly 出生。
 > - **1955** 出版两卷本 *The Psychology of [[Personal Constructs]]*，提出完整的形式化人格理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 > - **1967** 逝世。
@@ -98,9 +96,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

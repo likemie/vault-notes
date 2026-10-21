@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 # Outcomes-based Education
@@ -59,18 +59,14 @@ updated: 2026-10-07
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Curriculum Design Coherence Model\|课程设计连贯性模型]] — 结果导向关注学习成果的测量，CDCM 关注知识类型之间的连接和连贯性。CDCM 的提出正是为了克服结果导向课程中知识被边缘化的问题。
 > - vs [[Powerful Knowledge\|有力知识]] — 有力知识强调学科知识的独特禀赋，结果导向往往将知识视为达成可测量成果的手段，忽视了知识本身的认知价值。
 > - vs [[Educated Identity\|受教育身份]] — 受教育身份是教育系统所塑造的理想人格与文化期望。结果导向最初是理解受教育身份的方式，后来变成了衡量教育效率的工具([[Argument_Cowen_2023_CE\|Cowen, 2023]])。
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > **Lauwerys 时期（1965）**。[[Joseph Lauwerys]] 最初以理解的方式把握法国、英格兰、美国和苏联的理想[[Educated Identity\|受教育身份]]模型，这些模型作为世界[[Paradigm\|范式]]具有影响力。此时结果导向是学术性的文化理解努力([[Argument_Cowen_2023_CE\|Cowen, 2023, p.333]])。
 >
 > **[[IEA]] 研究时期**。结果变成了通过[[International Education\|国际教育]]成就评价协会（IEA）研究衡量教育效率。这一转变标志着从理解文化到衡量效率的转向。
@@ -81,9 +77,7 @@ updated: 2026-10-07
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **以成果为中心**。结果导向课程关注学生在学习结束时应达到的可测量成果，而非学生应学习的知识内容。这导致知识被边缘化或被视为理所当然([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 > - **通用能力强调**。结果导向课程往往强调通用能力和 21 世纪技能，如学习能力、批判思维、[[Creativity\|创造力]]等，而非学科特定的知识。
 > - **新自由主义逻辑**。结果导向课程与[[Knowledge-Based Economy\|知识经济]][[Discourse|话语]]紧密相关，倾向于以功能性方式框架教育，使政府能够更明确地看到其教育投资的结果（Lourie 2020, 引自 McPhail et al., 2023）。
@@ -91,9 +85,7 @@ updated: 2026-10-07
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **知识的边缘化**。结果导向课程将知识等同于过时的教育方法，即对相对静态和狭隘的公认事实和信息库的入门。这种理解忽略了知识作为概念性意义系统的维度([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 > - **学术理解的掏空**。结果导向将比较教育从学术性的文化理解转变为效率测量，丧失了学科的理论深度和批判性([[Argument_Cowen_2023_CE\|Cowen, 2023, p.334]])。
 > - **政治工具化**。国际测试已成为新自由主义经济定义下的政治工具，强化了一种正当世界秩序的定义。

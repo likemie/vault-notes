@@ -79,7 +79,7 @@ sources:
   - "[[sources/Ginsberg_2024_EducPolicy/Ginsberg_2024_EducPolicy|Ginsberg_2024_EducPolicy]]"
 status: stable
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EducPolicy"
@@ -356,9 +356,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **单学区微观样本限制** 研究聚焦于一所特大型南部城市学区（SUD），其人口结构（少数族裔与贫困生比例极高）与资金统筹模式可能不同于中小型或农村学区，影响结论的普适性。（pp. 166, 179）
 > - **校级支出样本代表性局限** 校级详细实践分析基于由学区推荐的 4 所典型学校，虽覆盖小初高不同学段，但可能未能穷尽全学区 200 余所学校所有个性化采购。（pp. 167, 179）
 > - **检索范围局限于四大公开数据库** 证据检索限定于 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation\|EEF]] 和 [[Education Resources Information Center\|ERIC]] 四大公开平台，虽贴近学区决策者的真实检索场景，但未穷尽 PsycINFO 等专业商业付费文献库。（p. 171）

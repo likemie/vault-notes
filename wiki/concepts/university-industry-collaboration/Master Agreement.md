@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Master Agreement in University-Industry Collaboration
@@ -51,9 +51,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 一份完整的主协议通常覆盖以下条款领域（pp.107–108）：
 
 1. **研究目标与项目类型** 界定主协议覆盖的合作范围——哪些类型的研究属于框架内，哪些需要单独协议
@@ -73,9 +71,7 @@ updated: 2026-10-16
 
 ---
 
-## 功能逻辑
-
-> [!note|notitle]
+> [!note] 功能逻辑
 > 主协议之所以被 Hoffman et al.列为[[University-Industry Collaboration\|产学合作]]的三种基础设施性要素之一（与价值主张和[[Boundary Spanner\|关系经理]]并列），在于三个连锁效应：
 
 **降低重复合作的交易成本**。在没有主协议的情况下，每个新项目的法务审查都从零开始——大学的赞助项目办公室、[[Technology Transfer Office|技术许可办公室]]、法律总顾问和企业的法务部门需要就相同的 IP 条款进行反复谈判。主协议将这些谈判一次性完成，后续项目直接调用已有条款。这一机制对联合体尤其关键：联合体涉及多家企业和多个研究项目，如果没有主协议，每个项目单独谈判的累积交易成本将高到使联合体不可行（pp.107–108）。
@@ -86,9 +82,7 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 单项目合同（Project-Specific Contract）— 单项目合同为特定研究项目定制，包含该项目的所有条款；主协议是框架性的，覆盖所有合作共用的基础条款。两者的关系是"宪法 vs 法律"
 > - vs 捐赠协议（Gift Agreement）— 捐赠协议用于无直接交付物、无 IP 回报的企业资助，法律复杂度低；主协议用于预期产生研究成果和 IP 的合作，条款全面得多
 > - vs 保密协议（Non-Disclosure Agreement, NDA）— NDA 只覆盖信息保密这一维度，主协议覆盖合作关系的全部法律维度。在实际操作中，NDA 往往在主协议谈判之前单独签署，为主协议谈判期间的敏感信息提供保护
@@ -96,9 +90,7 @@ updated: 2026-10-16
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > 企业在评估大学合作效率时，签约速度往往是首要关注点之一。Hoffman et al.指出，"在产业调查中，一项针对各种研究合同的漫长谈判和大学审批过程"持续被列为[[University-Industry Collaboration\|产学合作]]的最大摩擦点（p.107）。
 
 [[Advanced Manufacturing Research Centre|AMRC]] 的经验验证了主协议的价值。联合体在 2001 年启动时就建立了完整的联合体协议，涵盖了两层会员制、双委员会治理和两层 IP 模型。在此之后二十余年中，新成员加入和新项目启动都直接调用现有框架，无需重新谈判基础条款。这一制度设计是 AMRC 能从 1 家创始成员扩展到 120+ 家产业成员的法律基础——每增加一个成员或项目，增加的是边际执行成本而非边际谈判成本（pp.114–117）。

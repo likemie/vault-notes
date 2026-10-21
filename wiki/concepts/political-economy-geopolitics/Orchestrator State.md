@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Orchestrator State
@@ -108,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2023 年 — 欧洲单一市场协调理论提出** 迪卡洛与施密茨（Di Carlo & Schmitz, 2023）在《欧洲公共政策学刊》提出[[EU|欧盟]]作为单一市场“协调者”理论，阐释欧委会如何通过 [[Important Projects of Common European Interest|IPCEI]] 等工具在保护单一市场与推动产业干预之间维系微妙平衡。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
 > - **2024 年 — 半导体[[Geopolitics|地缘政治]]下的治理困境实证** 布尔福内等人将“协调型国家”与美国联邦集权模式进行面对面对比，指出协调模式是导致《[[European Chips Act|欧洲芯片法案]]》产生“财政幻觉”与政策执行力疲软的深层制度根源。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
@@ -128,7 +126,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 系统界定欧委会作为产业政策“协调者”（Orchestrator）的理论内涵，剖析其依赖成员国国家援助与 [[Important Projects of Common European Interest|IPCEI]] 导致的治理碎片化与市场扭曲（pp. 13–14）。

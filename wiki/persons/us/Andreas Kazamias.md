@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Andreas Kazamias
@@ -105,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1950年代** 赴美留学，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich），接受深厚的[[Paideia|古典教化]]（[[Paideia]]）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
 > - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）的[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 > - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）比较史学理论，论证非普适[[Working Hypothesis|探索性假说]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
@@ -201,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术导师** [[Robert Ulich\|罗伯特·乌利希]] — 哈佛大学博士导师，奠定其[[Paideia|古典教化]]与文化通史研究根基。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
 > - **同门学友** 保罗·[[Roy Nash|纳什]]（Paul Nash）、亨利·珀金森（Henry Perkinson）、[[George Bereday\|乔治·贝雷迪]] — 共同构成乌利希哈佛弟子学术网络。
 > - **合作者** [[Robert Cowen\|罗伯特·考恩]] — 共同主编《比较教育学国际手册》（2009），展开长期跨大西洋与跨欧洲的学术合作与比较史学对话。
@@ -237,9 +233,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -49,7 +49,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ## 定义
@@ -89,9 +89,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Null Hypothesis\|零假设]]** 在两个分布均值比较中，零假设写作 $H_0: \mu_1 = \mu_2$（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 > - **t 值与[[Sample Size Determination\|样本量]]** 在[[Effect Size\|效应量]] $d$ 已知时，若观测数为 $n$，可构造 $t = d\sqrt{n}$；样本量越大，同样 $d$ 值越容易达到统计显著。
 > - **p 值** p 值表示在零假设成立时获得当前或更极端 $t$ 值的概率，是统计分析结果的核心呈现形式。
@@ -100,32 +98,24 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 
 ---
 
-## 与相关概念的区别
-
-> [!contrast-table|notitle] 与相关概念的区别
+> [!contrast-table] 与相关概念的区别
 > - **vs [[Effect Size]]** 统计显著性回答"差异是否足以排除随机波动"，效应量回答"差异有多大"。二者可通过 $t = d\sqrt{n}$ 在特定[[Sample Size Determination\|样本量]]下关联，但不能相互替代（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 > - **vs [[Confidence Interval]]** 统计显著性以是否越过临界值或 p 值阈值呈现；置信区间把估计值的误差范围显示出来，使读者能判断相邻估计是否可能重叠（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.47–48]]）。
 
-## 相关方法
-
-> [!info|notitle] 相关方法
+> [!info] 相关方法
 > - [[Meta-analysis]] — 元分析若只合并点估计而忽略显著性检验和[[Confidence Interval\|置信区间]]，容易把不同精度的研究结果放在同一层级比较。
 > - [[Meta-meta-analysis]] — 联合[[Standard Error\|标准误]]、95% CI 和显著性检验是判断二级综合点估计是否稳定的必要信息（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, p.30]]）。
 
 ---
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > - 在 $n = 25$ 的示例中，$d \approx 0.412$ 对应 $t = 2.060$，接近双侧检验 $p \approx 0.05$ 的临界值；换成其他[[Sample Size Determination\|样本量]]，这一对应关系会改变（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 > - 在[[Educational Evidence Clearinghouses\|教育证据清算中心]]中，统计显著性并不总是以同样方式进入评级标准；部分机构要求统计显著正向效果，部分机构还加入最低[[Effect Size\|效应量]]门槛（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp.12–15]]）。
 > - 在 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 中，只有 23% 的成就效应显著大于零；这提示”严格设计”并不自动带来统计显著的教育成就效果（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.112]]）。
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - 如果只报告统计显著性，研究者可能忽略实际效应大小；如果只报告[[Effect Size\|效应量]]点估计，则无法判断该估计是否稳定。只有 $d$ 值而缺少 [[Confidence Interval]]、[[Standard Error\|标准误]]或相邻排名显著性检验时，读者无法判断数值接近的干预是否真的不同（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp.47–48]]）。
 > - [[Publication Bias\|发表偏倚]]与统计显著性偏好相关：发表系统更容易接纳显著或正面结果，从而使[[Meta-analysis\|元分析]]平均效应量偏高。
 > - 现行[[Evidence Standards\|证据标准]]容易把中等或强”有效性”缩小为严格实验中的统计显著效果，忽略实施质量、结果类型和地方上重视的非成就目标（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.110-112]]）。

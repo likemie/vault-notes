@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Strategic Bargaining Theory
@@ -105,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -177,9 +175,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 包含威慑与危机沟通的大国地缘博弈、涉及重大公共开支与主权立法的国际经贸谈判，以及多边金融机构与借款国之间的贷款条件博弈。
 > - **成立条件** 博弈各方具有相对独立的决策自主权；具备计算损失与收益的理性认知；各方之间存在部分共同利益（达成协议）与部分冲突利益（分配份额）的混合动机情境。
 > - **解释不足** 面对意识形态极端狂热或认知失常的行为体，理性计算与威慑模型可能失效；在纯粹单向无偿赠款或高度依赖外部粮食援助的赤贫脆弱国家，主权借款国的博弈筹码极为微弱。
@@ -212,9 +208,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -230,9 +224,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - **[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3, p. 32)]]** 引入[[Thomas Schelling|谢林]]战略博弈论公理，论证施加伤害的能力是外交谈判的核心筹码，阐明 21 世纪[[Hard Power|硬实力]]建立在软件代码之上的现实主义逻辑。
 > - **[[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]** 运用战略博弈与双层博弈理论，深度剖析[[Multilateral Development Bank|多边开发银行]]在主权教育贷款中的谈判博弈机制，阐释借款国部长的“策略性借用/替罪羊”杠杆与终极主权实质否决权。
 > - **Putnam (1988)** 经典论文构建双层博弈（Two-Level Games）分析模型，奠定国际与国内多维谈判的理论[[Paradigm|范式]]。

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Self-Determination Theory
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -170,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** [[Student Engagement\|学习投入]]度、拖延行为、课程满意度、[[Self-Efficacy\|自我效能感]]、自适应学习环境设计、师生互动质量。
 > - **谨慎使用** 极端匮乏生存资源或重度认知障碍环境，需优先保障基础生理安全与认知负荷承载。
 > - **不适合解释** 纯粹的认知加工速度、[[Working Memory\|工作记忆]]容量限制、客观逻辑推理算法或知识表征结构（需结合[[Cognitive Load Theory\|认知负荷理论]]）。
@@ -180,9 +176,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1971–1975 — 认知评价理论萌芽** Deci 发表经典索玛立方块实验，发现外部金钱奖励破坏了学生的内在动机，开启对自我决定机制的探索。
 > - **1985 — SDT 正式创立** Deci & Ryan 出版里程碑专著 *[[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]] and Self-Determination in Human Behavior*，确立六大子理论体系。
 > - **2000 — 教育与健康领域大繁荣** Ryan & Deci 在 *American Psychologist* 发表当代经典综述，SDT 全面席卷教育心理学课堂动机研究。
@@ -211,7 +205,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 在高等教育生成式 AI [[Meta-analysis\|元分析]]中运用自我决定理论，解释[[AI Agent in Education\|智能体]]作为平等人机伙伴如何通过满足学生的自主性、胜任感与低焦虑归属感，驱动大学生[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）的大幅跃升。

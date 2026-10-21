@@ -66,7 +66,7 @@ part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-05-28
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
@@ -95,9 +95,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 基于[[TUFF\|大学融资基金会]]（The University Financing Foundation, TUFF）自 1982 年以来在[[University-Industry Collaboration\|产学合作]]开发领域的实践经验。
 >
 > TUFF 起源于佐治亚理工学院（Georgia Tech）。1982 年，时任校长 Joseph Pettit 提出以私营部门的交付模式为大学建设高质量研究设施，用低于市场的租赁成本吸引产业伙伴，同时最大化联邦资金机会。这一愿景催生了 TUFF——一个由佐治亚理工学院校友创立的 501(c)(3) 基金会。其第一笔合作成果是佐治亚理工学院的 J. Frank Smith Centennial Research Building，此后四十三年来持续扩张(p.123)。
@@ -126,9 +124,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 实践者指南（practitioner guide），基于 [[TUFF]] 四十余年的直接开发经验与多案例分析。案例覆盖十一个[[Innovation Hub\|创新中心]]：
 > - [[Tech Square at Georgia Tech\|Tech Square]]（佐治亚理工学院）
 > - [[Kendall Square\|肯德尔广场]]（[[Kendall Square]]）/ 剑桥创新中心（Cambridge Innovation Center），麻省理工学院（MIT）周边
@@ -145,9 +141,7 @@ citation_aliases:
 
 ---
 
-## 论证结构
-
-> [!abstract|notitle]
+> [!abstract] 论证结构
 > **整体逻辑链** 否定"物理设施[[Determinism\|决定论]]" → 四个信条划定[[Necessary and Sufficient Conditions\|必要条件]] → 六项优先领域逐一展开操作逻辑 → 收束为五步行动框架。
 
 ---
@@ -426,9 +420,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - 框架来自实践经验的归纳，未经过系统实证检验（贯穿全章）
 > - 利益相关者理论对[[Innovation Park\|研究园区]]网络建设有效性的证据"更加定性和轶事性"（more qualitative and anecdotal），研究并不充分(p.126)
 > - 六项优先领域"不是一个详尽的清单"(p.124)

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Space of Flows
@@ -185,9 +185,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1996–2000 — [[Network Society|网络社会]]理论创立**
 >   Castells (1996, 2000a, 2000b) 提出“流动空间”作为网络社会的核心空间范畴，系统论证信息技术如何使社会实践从地理地方中脱嵌，形成以微电子通信和全球节点为支撑的同时性实践安排。
 > - **2009 — 比较教育[[Discourse|话语]]流通框架引入**
@@ -219,9 +217,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 经典奠基研究，运用流动空间框架系统追踪[[Policy Network|全球政策网络]]如何生产脱嵌历史的“能力发展”与“尊重多样性”[[Floating Signifier|漂浮能指]]，并考察其向国家和[[Space of Places|地方空间]]的下沉。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用流动空间刻画全球学术空间与国际机构的非领土化运作，系统阐述其五位置流通模型与知识的实用简化机制。
 > - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 依托流动空间探讨教育思想在跨国网络中的关系性流通，批判传统比较教育中以国家领土为边界的静态转移观。

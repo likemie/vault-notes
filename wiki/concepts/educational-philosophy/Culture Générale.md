@@ -8,10 +8,10 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/culture-generale
   - theme/humanism
@@ -19,7 +19,6 @@ tags:
   - theme/comparative-education
   - country/france
 related_concepts:
-  - "[[Culture Générale]]"
   - "[[Faculty Psychology]]"
   - "[[Dual School System]]"
   - "[[General Education]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Culture Générale
@@ -184,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **17世纪 — [[René Descartes\|笛卡尔]]哲学奠基** 笛卡尔在《方法导论》中倡导普遍怀疑与清晰明白的理智直觉，为法国文化确立了崇尚严密逻辑、公理演绎与普遍主义的心智传统。
 > - **1830s — [[Report on the State of Public Instruction in Prussia\|库森报告]]与折衷主义中等教育确立** [[Victor Cousin\|库森]]发表普鲁士教育报告，将[[Faculty Psychology\|官能心理学]]转化为文理融通的课程构想，七月王朝将其确立为国立中学的[[Culture Générale|普通文化]]（*culture générale*）官方准则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
 > - **1880s–1930s — 第三共和国黄金时代与双轨固化** 茹尔·费里（Jules Ferry）改革虽推行世俗初等免费义务教育，但中等中学的普通文化轨道依然对大众保持严格收费与阶级壁垒，成为培育法兰西政治家、外交官与思想家的摇篮。
@@ -217,9 +214,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -234,8 +229,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证[[Victor Cousin\|库森]]如何基于[[Faculty Psychology\|官能心理学]]与折衷哲学创立[[Culture Générale|普通文化]]理想，并主导法国中等教育逾一个世纪。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 将普通文化定性为 19 世纪支配欧洲课程的[[Paideia\|古典教化]]四重奏之一，剖析其在战后的道德破产与向[[Scientific Paradigm\|科学范式]]的转换。

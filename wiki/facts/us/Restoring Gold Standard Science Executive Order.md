@@ -53,7 +53,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Restoring Gold Standard Science Executive Order
@@ -117,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -134,8 +132,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析特朗普政府 2025 年 5 月签署的《恢复黄金标准的科学》行政令，揭示其作为[[Technology-Oriented Social Contract|技术型社会契约]]下的“契约性工具”，如何借可重复性与客观性之名强化行政可验证性，将科学合法性由内在认知权威转向外部程序与结果可控性，从而导致科学自治向受限自治急剧退缩。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以行政令列出的[[Gold Standard Science|黄金标准科学]]原则为核验侧建设的制度依据，论证在人工智能降低假设生成成本的背景下，依托机器可读的代码复现包、开放数据与标准协议，将核验规模提升至与生成同等体量的政策方案。

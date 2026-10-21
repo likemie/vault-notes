@@ -64,7 +64,7 @@ tags:
   - cognition/learning-science
   - level/k-12
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # AI Agent in Education
@@ -267,7 +267,5 @@ updated: 2026-10-21
 
 ---
 
-## 应用案例
-
-> [!evidence-grid-a|notitle] 应用案例索引
+> [!evidence-grid-a] 应用案例索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 34 项实验与准[[Experimental Research\|实验研究]]（73 个[[Effect Size\|效应量]]，$N = 3{,}042$），系统确立了 AI 智能体在 K-12 阶段对[[Procedural Skill\|技能类认知结果]]（$g = 0.391$）与知识类认知结果（$g = 0.344$）的显著促进效应，并揭示出高小学段（$g = 0.877$）与语言读写学科（$g = 0.830$）的突出干预敏感性。

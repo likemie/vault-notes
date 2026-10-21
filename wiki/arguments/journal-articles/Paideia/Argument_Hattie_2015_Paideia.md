@@ -51,7 +51,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-21
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2015
 doi: ""
 citation_aliases:
@@ -60,33 +60,25 @@ citation_aliases:
 ---
 # Argument_Hattie_2015_Paideia
 
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > [[Visible Learning]] 已经从一本 2009 年出版的[[Research Synthesis|研究综合]]扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践[[Discourse|话语]]。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
 >
 > 更直白地说，这篇文章要把 Visible Learning 从一个容易被误读的“干预排名表”，重新解释成一个学校里的工作习惯：教师和学校要持续追问“我的教学到底对学生产生了多大影响，这种影响是否足够好”。(pp.11-13)
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — 作为整篇文章的核心框架，被解释为“认识并评估自身影响”的教学改进模式，而不是一套固定教学法或高[[Effect Size\|效应量]]清单(pp.11-13)。
 > - [[Effect Size]] — 作为比较不同教育影响的共同尺度，尤其通过 d = 0.40 这个平均参考点帮助判断某项影响是否高于所有可见教育影响的平均水平(pp.10-11)。
 > - [[Meta-analysis]] 与 [[Meta-meta-analysis]] — 作为 Visible Learning 的证据基础。文章承认这些综合需要更好地处理调节[[Variable\|变量]]、研究质量和结果类型，但仍主张它们能为教育实践提供可讨论的证据起点(pp.10-18)。
 > - Popper 式[[Falsification\|证伪]]观 — 研究进步来自主动寻找反例，而不是保护理论不受挑战。Hattie 将 Visible Learning 称为一种可被课堂证据检验、也可被修正的解释模型(p.14)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：理论回应、方法论辩护与研究项目回顾。
 > - 材料：Hattie 早期心理测量研究、800+ 到 1200+ 项[[Meta-analysis\|元分析]]综合、[[Visible Learning]] 系列出版物、学校实施案例，以及围绕该项目出现的批评文献(pp.9-21)。
 > - 写作路径：先说明 Visible Learning 的形成背景，再解释 d = 0.40、教师评估自身影响、学校集体评价文化，最后集中回应[[Effect Size\|效应量]]、低效应项目、研究质量和学习概念四类批评(pp.9-19)。
 >
 > 这不是一篇新的实证研究。它更像 Hattie 对自己研究项目的“方法论说明书”：哪些批评他接受，哪些批评他认为是误读，以及 Visible Learning 应该怎样被学校使用。
 
-## 论证结构
-
-> [!example|notitle] 论证结构
+> [!example] 论证结构
 > 这篇文章的论证可以拆成“起点困惑 → 共同尺度 → 教师工作原则 → 批评回应 → [[Open-Mindedness|开放性]]结论”五段。它的关键不在于证明每个排名都绝对正确，而在于说明为什么教育实践需要一种持续评估影响的语言。
 >
 > ### 一、起点困惑：几乎每个教师都能说自己的方法“有效”
@@ -148,18 +140,14 @@ citation_aliases:
 > - 网络学习三项元分析的综合平均约 d = 0.18，Hattie 用它说明低于 0.40 的效果并不自动等于无价值(p.17)。
 > - Rowland 关于测试效应的 61 项研究平均效应约 d = 0.50，但反馈程度从无反馈 d = 0.03 到高反馈 d = 0.73 不等(pp.14-15)。
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “了解你的影响（Know thy impact）”
 > ("Kend din virkning")(p.11)
 >
 > > “因此，渴望了解自己影响的这种倾向（disposition），正是可见的学习（VL）模型的核心所在。”
 > ("Det er således en disposition til at ønske at kende sin virkning, der ligger i kernen af VL-modellen.")(p.12)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > ### 自我辩护文本的立场限制
 >
 > 这篇文章由 Hattie 本人撰写，功能上是一篇方法论辩护和项目说明。因此它非常适合理解 [[Visible Learning]] 的自我解释，却不能替代独立批判文献。尤其在讨论批评时，文章倾向于把部分批评界定为误读、个人攻击或不良学术批评，这可能压缩了对强批评的细读空间(pp.15-18)。

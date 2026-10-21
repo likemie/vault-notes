@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # International Development Association
@@ -153,9 +153,7 @@ updated: 2026-10-15
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -170,9 +168,7 @@ updated: 2026-10-15
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a] 相关研究
 >
 > | 来源 | 核心发现 / 论点 | 关联主题 / [[Variable\|变量]] |
 > |:---|:---|:---|

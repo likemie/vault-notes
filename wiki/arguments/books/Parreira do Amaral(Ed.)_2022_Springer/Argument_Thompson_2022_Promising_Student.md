@@ -63,7 +63,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
@@ -75,9 +75,7 @@ citation_aliases:
 > [!question]
 > 在竞争性[[Geopolitics|地缘政治]]框架中，大学如何通过与数字化和数据化相关的治理技术来建构"[[Promising Student\|有前景的学生]]"（promising student）？本章聚焦[[Online Self-Assessment\|在线自评工具]]（OSAs）——一种在德国大学中广泛采用的数字化入学前咨询工具——分析它们如何作为主体化工具运作：如何在学生入学之前就对其进行"预判"和"预管理"，如何重新定义"好学生"的含义，以及这一过程如何服务于大学的竞争性地缘政治定位。
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 本章以两个相互补充的[[Theoretical Perspective\|理论视角]]为[[Analytic Framework\|分析框架]]：
 
 - **Foucault [[Governmentality|治理术]]（governmentality）** 借鉴 Foucault（1993, 2004）对治理术的分析——即"行为的引导"（conduct of conduct），关注权力如何通过塑造主体的自我理解而非直接强制来运作。[[Online Self-Assessment|OSA]] 被视为一种"自我技术"（technology of the self），通过让潜在学生对自身进行自我评估和自我优化，引导他们"自由地"做出符合治理目标的选择(pp.220–221)。
@@ -86,17 +84,13 @@ citation_aliases:
 
 二者的结合提供了一种分析高等教育的竞争性治理技术的综合视角。
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment\|OSA]] 操作手册的[[Discourse Analysis\|话语分析]]。
 > - 方法：话语分析（[[Discourse]] analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
 > - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频(2020)
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 
 ### 第一步：观察——竞争性大学如何定义"好学生"
 
@@ -148,9 +142,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 - **批判实践的消解** 大学是[[Constructed Knowledge|建构知识]]和进行审议的场所。如果每个人都只在自己的学习环境中移动，学术交流的[[Open-Mindedness|开放性]]将被削弱。当学业成功成为预测和聚合概率的事情时，与他人的交流变得无关紧要(p.227)
 - **高等教育的缩小** 那些更麻烦、更具困扰性的学习体验——阅读和写作中的延迟、尚未准备好被提出的问题——既是障碍，也是资源。高等教育需要对学科进行批判性参与：学生在面对被呈现为知识的东西时采取立场。处于危险之中的正是**批判的实践（the exercise of critique）**——从[[Immanuel Kant|康德]]到法兰克福学派到 Foucault，批判一直被视为高等教育中重新打开思考和探索空间的核心知识实践(p.227)
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 
 - [[Competitiveness|竞争力]]作为[[Geopolitics|地缘政治]]装置通过排名、指标化和比较实践重新组织高等教育，在教学领域表现为对"学生成功"的预期管理——大学竞争的是学生"潜在的未来努力"(p.220)
 - OSAs 作为治理工具重新定义了从中学到大学的过渡——从集体性的约定转变为个体化的自我反思情境(p.222)
@@ -177,9 +169,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 > “批判的实践是学习过程中一项至关重要的知识实践，它重新开启了有哪些事物需要思考和探索。”
 > ("The exercise of critique is a crucial knowledge practice within the course of study that reopens what is there to think and to explore.")(p.227)
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 > - **作者自述局限** 篇幅限制，未能提供对文本材料的完整[[Discourse Analysis\|话语分析]]，仅识别了核心主题和方面(p.223)
 > - **经验覆盖的局限** 分析主要基于德国大学的政策文件和进展报告，[[Online Self-Assessment\|OSA]] 类型和形式的多样性（600+ 种工具）意味着分析无法覆盖全部实践
 > - **理论框架的依赖** 该章高度依赖 Foucault [[Governmentality\|治理术]]和 Deleuze [[Societies of Control\|控制社会]]两个特定[[Theoretical Perspective\|理论视角]]，可能低估了其他可能的解释框架——例如制度理论或组织社会学视角

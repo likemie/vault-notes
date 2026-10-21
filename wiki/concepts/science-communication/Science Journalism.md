@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Science Journalism
@@ -222,7 +222,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统剖析数字化与人工智能时代大众媒体转型、专业科学记者生存挑战、通稿夸大机制与公众信任落差，提出跨越科学界与媒体界的高质量新闻合作倡议与实践守则治理框架。

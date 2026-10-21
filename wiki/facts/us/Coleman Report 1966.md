@@ -45,11 +45,10 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-04'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
-## 背景
 
-> [!info|notitle] 背景
+> [!info] 背景
 > ### 法律授权
 >
 > 1964 年美国《民权法案》（Civil Rights Act）第 402 条要求联邦政府对美国教育机会不平等进行全面调查。这一立法授权直接触发了 Coleman Report 的启动——该研究并非出自学术兴趣，而是国会法定命令的产物([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.1]])。
@@ -61,8 +60,6 @@ updated: 2026-10-21
 > ### 报告全称与性质
 >
 > 报告正式名称为 *Equality of Educational Opportunity*（教育机会平等，简称 EEO），由 Johns Hopkins University 社会学家 **James S. Coleman** 领导的研究团队完成，通常被称为 **Coleman Report**。它不是一份学术期刊论文，而是提交给美国教育部的联邦政府报告([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.2]])。
-
-## 经过
 
 > [!note]- 经过
 > ### 研究规模
@@ -94,9 +91,7 @@ updated: 2026-10-21
 >
 > 值得注意：Coleman 时代的统计技术（主要是[[Multiple Regression\|多元回归]]）无法像现代[[Causality\|因果推断]]方法那样处理选择偏误。研究测量的是**已可测量**的学校和家庭特征——教师质量、课程内容、教学实践等软性但可能更重要的学校维度并未被纳入。
 
-## 关键文件／声明
-
-> [!quote|notitle] 关键文件／声明
+> [!quote] 关键文件／声明
 > "One of the most important educational investigations ever carried out." — Frederick Mosteller (1995, p. 113)，哈佛大学顶尖统计学家，对 STAR 项目的评价（引自 Wiliam, 2019, p.6）
 > 
 > 有史以来开展过的最重要的教育调查之一。
@@ -105,9 +100,7 @@ updated: 2026-10-21
 > 
 > 有一个启示比其他所有都更为突出：学校对儿童成就的影响几乎没有独立于其背景和一般社会情境的部分；正是这种独立效应的缺失，意味着由家庭、邻里和同伴环境施加于儿童的不平等被一路携带，成为他们在学校教育结束时面对成人世界的不平等。
 
-## 影响与后果
-
-> [!success|notitle] 影响与后果
+> [!success] 影响与后果
 > ### 学术影响
 >
 > #### Jencks (1972) 的独立验证
@@ -145,9 +138,7 @@ updated: 2026-10-21
 > - **1990s–2000s** 批判视角（学校再生产或加剧不平等）在教育社会学中占据主导地位，而 Coleman 传统被边缘化。
 > - **2016** Downey & Condron 在报告 50 周年之际发表反思：两派都在方法论上存在盲点，需要更平衡的[[Refraction Framework\|折射框架]]来理解学校与不平等的关系。
 
-## 争议与评论
-
-> [!warning|notitle] 争议与评论
+> [!warning] 争议与评论
 > ### 方法论批评（1970s–）
 >
 > Coleman Report 失宠的最直接原因是方法论批评([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.2]])：
@@ -235,9 +226,7 @@ updated: 2026-10-21
 >
 > 3. **缩小差距需要为弱势儿童创造显著优于优势儿童的学校环境** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境（当 school 效应被仔细分离后），那么仅仅将低 SES 学校提升到高 SES 学校水平不足以缩小差距——需要创造**显著优于**高 SES 儿童所享受的学校条件（如 Harlem Children's Zone and KIPP 特许学校那样，通过大幅延长在校时间和吸引高质量教师）。扩大此类努力的规模——并重要的是，**仅**向低 SES 儿童提供而非高 SES 儿童——将面临巨大的政治障碍([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.9]])。
 
-## 相关概念／政策
-
-> [!example|notitle] 相关概念／政策
+> [!example] 相关概念／政策
 > - [[Refraction Framework]] — [[Argument_Downey_2016_SoE\|Downey and Condron (2016)]] 在 Coleman Report 50 周年时提出，作为对该报告核心问题（学校与不平等的关系是什么？）的重新回答：学校沿不同维度以不同方式折射不平等。
 > - [[Seasonal Comparison]] — 解决 Coleman Report 未能解决的方法论难题（分离学校与非学校效应）的新一代研究设计，其证据表明 Coleman 可能低估了学校的补偿性作用。
 > - [[A Nation at Risk 1983]] — 标志着 Coleman 之后的第一次政治框定翻转：保守派从引用 Coleman（家庭是问题）转向学校是问题。

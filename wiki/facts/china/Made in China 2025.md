@@ -47,7 +47,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Made in China 2025
@@ -123,9 +123,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -137,8 +135,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 敏锐揭示《中国制造2025》吸纳美国先进制造与市场机制优势，与美国反向仿效中国国家直接投资做法所形成的极具历史讽刺意味的“机制倒置”现象。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 从[[Geopolitics of Knowledge|知识地缘政治]]学角度分析《中国制造2025》对硬科技的大规模国家赞助如何深刻重塑大学[[Knowledge Production|知识生产]]的优先级结构。

@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Feeding Frenzy
@@ -59,9 +59,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 捕食狂欢（Feeding Frenzy） | 调查性新闻（Investigative Journalism） | 黄色新闻（Yellow Journalism） |
 > |---|---|---|---|
 > | **报道重心** | 公共人物私生活微观瑕疵、琐碎八卦与人设崩塌 | 滥用公权力、系统性腐败与公共政策失职 | 夸张煽情、缺乏依据的耸人听闻社会奇闻 |
@@ -100,9 +98,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950–1970年代 — 电视时代的[[Goldfish Bowl Politics|金鱼缸效应]]萌芽** 从 1952 年[[Checkers Speech|尼克松跳棋演讲]]到水门事件后调查记者的明星化，媒体对政界私德的审视日益常态化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
 > - **1990年代 — 萨巴托系统奠定理论框架** 萨巴托在 1991 年出版《捕食狂欢》，首次将这种全天候围剿现象概念化，警示美国政治公职过度道德化的深远危害。(Sabato, 1993)
 > - **2020年代 — 社交网络放大与管理阶层空洞化** 卡普等学者指出，数字算法时代的全天候审判已不仅作用于政界，更蔓延至[[Grandes Ecoles|大学校]]长与企业高管，制造了普遍不敢承担原则代价的空洞管理层。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60–65)]]
@@ -121,7 +117,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 援引萨巴托的分析，揭示攻击性新闻业与[[Goldfish Bowl Politics|金鱼缸政治]]如何共同摧毁了西方公共领袖敢于冒险坚守[[Hard Belief|硬信念]]的制度土壤。

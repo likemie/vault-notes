@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Herbert Hoover
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1874** 出生于美国艾奥瓦州韦斯特布兰奇的一个公谊会教徒家庭。
 > - **1895** 毕业于斯坦福大学创校首届班级，获得地质与采矿工程学士学位。
 > - **1897–1914** 先后在西澳大利亚金矿、中国开滦煤矿、缅甸及欧洲等地从事矿业工程勘探、开采与企业管理，成为享誉国际的采矿工程专家。
@@ -133,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想对话与共鸣者** [[John Dewey|约翰·杜威]]（John Dewey）— 共同推崇投身具体经验事物与实验检验的美国[[Pragmatic Paradigm|实用主义]]传统。
 > - **管理思想同行** [[Taiichi Ohno|大野耐一]]（Taiichi Ohno）— 共同强调深入物理现场与直面系统缺陷的工程实干文化。
 > - **当代引述与重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将胡佛论述作为软件工程直接责任机制的核心注脚。
@@ -164,9 +160,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

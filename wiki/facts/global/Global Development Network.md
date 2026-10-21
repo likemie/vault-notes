@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Global Development Network
@@ -139,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -153,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 详析[[World Bank\|世界银行]] GDN 从 1999 年去中心化承诺走向被总部集权项目（如 [[Systems Approach for Better Education Results\|SABER]]）边缘化的演变历程，揭示本土专家被降格为填报工具的实证事实。
 
 ---

@@ -53,39 +53,31 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2017
 doi: ""
 citation_aliases:
   - "Simpson, 2017"
   - "Simpson (2017)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 标准化[[Effect Size\|效应量]]是否能够作为比较和合并教育[[Intervention Research\|干预研究]]的合法基础？基于效应量排名的[[Meta-meta-analysis\|元-元分析]]联盟表（如 Hattie 的 [[Visible Learning]] 和 [[EEF Teaching and Learning Toolkit]]）是否提供了关于教育干预相对有效性的可靠证据？
 >
 > Simpson 的回答是否定的：标准化效应量不测量教育影响力，而测量试验灵敏度（experimental sensitivity）；效应量排名表反映的不是干预有效性的高低，而是各研究领域中研究者设计敏感试验的难易程度。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 该论文是方法论批判，未援引特定理论框架，但建立在以下前提之上：
 >
 > - **Cohen (1962) 的[[Effect Size\|效应量]]概念** 效应量最初用于帮助研究者评估统计功效（检测差异的能力），而非测量教育重要性(p.3)
 > - **Fitz‐Gibbon (1984) 的区分** [[Statistical Significance\|统计显著性]]不等同于教育显著性——"要解读两组之间差异的教育显著性，必须用结果所测量的度量来解释差异"(p.4)
 > - **Eysenck (1984) 的"苹果和橙子"批评** [[Meta-analysis\|元分析]]合并概念上不可比较的结果测量
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - **方法** 概念分析与技术论证（conceptual analysis + technical demonstration）
 > - **论证工具** 一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究文献中的真实案例
 > - **数据来源** 已发表的[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]（Marzano 1998; Hattie 2009; Higgins et al. 2013/[[Education Endowment Foundation\|EEF]] Toolkit），以及纳入这些综合的原始研究
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > ### 1. [[Effect Size\|效应量]]的原始目的与当前使用的断裂
 >
 > Cohen (1962) 引入标准化均值差（Cohen's d）是为了帮助心理学研究者[[Evaluation Research\|评估研究]]的统计功效——是否有足够大的机会拒绝（错误的）[[Null Hypothesis\|零假设]]。效应量被设计为研究设计工具，而非教育政策的决策工具。Meta-analysts 和 meta-meta-analysts 将 d 重新解释为教育有效性的测量，这一跳跃缺乏论证基础(pp.3–4)。
@@ -158,18 +150,14 @@ citation_aliases:
 >
 > 效应量排名较高的领域（反馈、元认知）仅说明研究者更容易在这些领域设计低噪声试验，而非这些干预更具教育影响力。以这些排名驱动教育政策是"misdirection"——误导(p.14)。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - **[[Effect Size\|效应量]]测量的是试验清晰度（experimental clarity），不是教育有效性** 大 d 表示在特定比较组、特定样本和特定测量的条件下组间差异"很清晰"——但清晰度不等于重要性或教育显著性(p.14)
 > - **三个系统性偏差随研究领域变化** 比较组选择、范围限制和测量设计的自由度在不同教育领域中系统性不同，使得某些领域的效应量始终高于其他领域——无论其教育影响力如何(pp.5–14)
 > - **偏差不是随机噪声** "good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination\|sample size]]) to enhance the sensitivity of their experiments"(p.5)——研究者做出增加效应量的设计决策是良好实验设计的体现，但这些决策的自由度因领域而异
 > - **联盟表是"对研究设计操纵开放程度的等级"** 效应量排名较高的领域是那些研究者更容易通过方法论选择使教育上可能不重要的差异显得突出的领域
 > - **仅在同一比较组、同一样本范围、同一测量工具和同一分析的极端条件下，合并效应量才具有意义**——"在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"(p.15, 2019)
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “标准化[[Effect Size\|效应量]]不是教育影响力的衡量标准，因为从这个过程中产生的更大的数字并不意味着更大的教育影响力。相反，排名靠前的领域……是研究者能设计出更敏感实验的领域。”
 > ("Standardised [[Effect Size]] is not a measure of educational impact because larger numbers produced from this process are not indicative of larger educational impact. Instead, areas which rank highly ... are those in which researchers can design more sensitive experiments.") (p.2)
 >
@@ -191,9 +179,7 @@ citation_aliases:
 > > “因此，这些基于效应量对领域进行排序的[[Meta-meta-analysis\|元-元分析]]，是驱动教育政策的糟糕选择机制，不应被用于指导一个国家教育预算的大部分流向。”
 > ("These meta-meta-analyses which order areas on the basis of effect size are thus poor selection mechanisms for driving educational policy and should not be used for directing large portions of a country's education budget.") (p.15)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 论文自身承认论证聚焦于标准化均值差（Cohen's d 及其变体）——使用原始（非标准化）[[Effect Size\|效应量]]可以解决部分但非全部问题(p.4)
 > - 论文引用的教育研究案例主要来自英美语境（[[Education Endowment Foundation\|EEF]] Toolkit、Hattie VL），对非英语国家[[Meta-analysis\|元分析]]实践的适用性需进一步验证
 > - 论文是技术论证而非实证研究——未提供定量估计每个偏差来源对排名影响幅度的元分析

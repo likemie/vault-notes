@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # TESTA Project
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 推动全英及国际高校质量保障机构将“全课程评价对齐（Program-Level Assessment）”列为学位审核的核心指标。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 27)]]
 > - **实践影响** 帮助数十所大学大幅精简了冗余考核，释放了教师提供深度质性评语的精力，为学生探索复杂[[Task Structure\|劣构任务]]提供了低利害试错空间。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]
 > - **知识影响** 深刻揭示了高等教育评价中“考核频次、反馈质量与[[Surface and Deep Learning\|深层学习]]策略”之间的结构性张力机制。

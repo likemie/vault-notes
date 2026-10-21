@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Organic Law on the General Organization of the Education System 1990
@@ -177,9 +177,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -52,7 +52,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Post-structuralism
@@ -168,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960s–1970s — 哲学发轫与解构主义确立** 雅克·德里达（Jacques Derrida）发表《论文字学》与米歇尔·福柯（Michel Foucault）确立[[Discourse|话语]]实践谱系学，标志着对传统结构主义固定符号中心论的解构，主体被重塑为处于话语交错网中的动态存在。
 > - **1987 — 现代性与[[Critical Theory\|批判理论]]的哲学交锋** 于尔根·[[Jürgen Habermas\|哈贝马斯]]（[[Jürgen Habermas]]）在《现代性的哲学话语》中激烈批评后结构主义与[[Postmodernism\|后现代主义]]，认为其总体化理性解构陷入了“[[Performativity|表演性]]自相矛盾”，反对批判理论与后结构主义的简单媾和。
 > - **1990s — [[Discourse Analysis\|话语分析]]与教育质性转向** 伯曼与帕克（Burman & Parker, 1993）出版《话语分析研究》，将[[Artefact\|人工制品]]与日常言语系统确立为话语文本；教育社会学开始全面采纳后结构视角解构课堂不平等、性别表演与政策文本。
@@ -207,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # College and Career Readiness
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 >
 > | 维度 | 本概念（College and Career Readiness） | [[Academic Achievement]]（学业成绩） | 职业技能培训（Vocational Education） |
 > |:-----|:---------------------------------------|:------------------------------------|:-------------------------------------|
@@ -161,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2001–2004 年 — [[American Diploma Project|美国文凭项目]]（ADP）萌芽** [[Achieve]] 智库联合多州启动美国文凭项目，首次系统测算高校新生高额补课率，正式提出基础教育必须确立面向大学与职场的共通学术基准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > - **2006 年 — ACT《字里行间》实证突破** 美国大学测验组织发布里程碑报告《字里行间》（*Reading Between the Lines*），证实能否理解复杂非虚构文本是决定大学学术成败的第一分水岭，确立了文本复杂度在 CCR 中的核心[[Construct|构念]]地位。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 > - **2009–2010 年 — [[Common Core State Standards|CCSS]] 国家标准顶层锚定** [[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）正式将 CCR 确立为全美共同核心标准的立纲统领，并在 2010 年发布大学与职业就绪锚点标准终稿。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 12–16)]]
@@ -188,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

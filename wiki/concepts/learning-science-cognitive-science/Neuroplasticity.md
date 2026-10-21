@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Neuroplasticity
@@ -197,8 +197,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 整合神经生物学与认知心理学证据，系统论证前额叶[[Synaptogenesis|突触发生]]、修剪与[[Myelination|髓鞘化]]等突触可塑性进程构成了[[Jean Piaget|皮亚杰]]认知发展阶段过渡与[[Executive Function|执行功能]]发展的生理基础。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 从身体[[Phenomenology|现象学]]与存在论哲学出发，援引人脑 13 万亿动态突触的可塑性复杂性，批判将学习降维简化为可见[[Effect Size|效应量]]与技术操控的还原论[[Paradigm|范式]]。

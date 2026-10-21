@@ -51,7 +51,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Efficacy Framework
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 实效性框架（Efficacy Framework） | 官方循证清算中心（如 [[What Works Clearinghouse\|WWC]] / [[Education Endowment Foundation\|EEF]]） | 传统教材审查机制（Textbook Approval） |
 > |---|---|---|---|
 > | **主导主体** | 跨国上市教育集团（如培生公司）及其商业咨询顾问 | 国家教育部直属或法定独立的公共研究机构 | 各国中央或地方教育部课程教材审查委员会 |
@@ -158,9 +156,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2007 年 — 交付学管理逻辑形成** [[Michael Barber|迈克尔·巴伯]]通过麦肯锡咨询报告确立目标驱动的绩效交付框架，主张用因果数据监控公共系统改进。
 > - **2013 年 — 培生集团官方推行实效性框架** 培生成立全球实效性审计委员会，做出到 2018 年所有产品必须通过实效审计的战略承诺。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 77)]]
 > - **2014–2016 年 — 批判政策社会学实证解构** [[John O'Neill|约翰·奥尼尔]]与[[Stephen Ball|斯蒂芬·鲍尔]]等学者揭示其作为跨国商业准入门槛与廉价私立教育（PALF）游说工具的制度本质。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–81)]]
@@ -185,7 +181,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰私营部门参与公立教育格局，剖析培生集团如何依托实效性框架与 Open Ideas 智库丛书实现学术声誉包装与商业转化。

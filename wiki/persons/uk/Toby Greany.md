@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Toby Greany
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2000s 早期** 长期服务于英国基础教育政策智库与中央管理机构，曾任坎贝格咨询公司（Cambridge Education Associates）政策总监，随后加入英格兰国家[[School Leadership\|学校领导力]]学院（NCSL）担任研究与发展执行主任，在官方层面主导推动了[[Joint Practice Development\|联合实践发展]]（JPD）与校际领导力网络政策。
 > - **2012–2018** 任教于伦敦大学学院教育研究院（UCL IOE），历任副教授、教授，并担任著名的学习领导力中心主任；期间领导了关于[[Teaching Schools\|教学学校联盟]]评估与 [[Research Learning Communities\|RLC]] 实证干预的多项国家级重大研究项目（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
 > - **2018–至今** 荣聘为诺丁汉大学教育领导力教授，出版专著深入解构英格兰基础教育“层级、市场与网络”三重混合治理机制，持续追踪多学院信托改革对教育公平与学校改进的制度影响。
@@ -107,18 +105,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **宏观政策分析路径** 为全球教育学界提供了批判审视英格兰激进“去地方化”（Depletion of Local Authorities）、学院化与自我改进治理实验的最权威实证框架。
 > - **中观[[Network Governance\|网络治理]]路径** 深度剖析了[[Teaching Schools\|教学学校]]联盟（TSAs）与多学院信托（MATs）的运行机制，指明校际科研中介角色的负荷悖论与资源脆弱性。
 > - **微观学校改进路径** 与[[Chris Brown\|克里斯·布朗]]（Chris Brown）共同构建的证据知情四因素诊断模型，成为英格兰基础教育学校评估自身探究成熟度与[[Organizational Culture\|组织文化]]的标准分析工具。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心实证合作者** [[Chris Brown]] — 长期搭档推进[[Evidence-Informed Practice\|证据知情实践]]研究，共同发表包括 LPS 实证论文在内的系列代表作。
 > - **政策与治理合作者** 罗伯·海厄姆（Rob Higham） — 深度合作撰写英格兰混合治理三重机制的大型研究专著。
 > - **测量合作者** [[Alan Daly]] — 共同参与 [[Research Learning Communities\|RLC]] 项目的调查工具开发与[[Network Analysis\|社会网络分析]]。
@@ -126,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

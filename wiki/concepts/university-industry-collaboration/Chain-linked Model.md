@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Chain-linked Model
 
@@ -50,9 +50,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 链式模型的核心结构可以拆解为三个相互关联的层次。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 863–864)]]
 
 **创新的起点不是科学。** 创新始于一个关于潜在市场用途的广泛想法。该想法通过设计或原型转化为具体方案，随后经历一系列反馈循环（f），最终回到用户需求。这一中央创新链条（C）是模型的主轴，科学并非其起点。
@@ -63,9 +61,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > 链式模型最重要的推论是 D 至少与 R 同等重要。R&D 中的 D（开发）不是 R（研究）的从属活动，而是具有独立创新能力的核心环节。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, p. 864)]]
 
 这一命题的直接政策含义是：创新政策不能等同于研究政策。增加基础科学投入本身不足以提振创新绩效——政策还需要关注设计、原型开发、用户反馈和市场测试等 D 环节的制度条件。

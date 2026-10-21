@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Subjectivism
@@ -214,9 +214,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪末–20 世纪初 — 古典人文历史主义奠基** [[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）与[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）将比较教育学建立在对[[Intangible Spiritual Forces\|无形精神力量]]、民族历史与文化理想的主观同情性理解之上。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 59–60)]]
 > - **1950 年代末–1960 年代 — 战[[Postpositivism\|后实证主义]]对主观主义的系统清算** 比较教育学掀起争夺科学地位的运动，坦普尔顿、安德森与诺亚等人强烈要求废除主观主义、印象主义与哲学思辨，代之以大[[Sample Size Determination\|样本量]]化与[[Variable\|变量]]函数共变。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61–62, 65–66)]]
 > - **1965–1970 年代初 — 霍姆斯[[Critical Dualism\|批判二元论]]的情境折衷** 霍姆斯运用波普尔批判二元论，将人类主观意志与文化信仰界定为“规范法则”，在批判实证派放逐主观精神的同时，实现了主观规范模式与客观社会学法则的综合。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 62–63, 67)]]
@@ -251,8 +249,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述伯勒尔与摩根的主观—客观四组假设构架，以及格林菲尔德组织主观主义十维度分析矩阵。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考掘战后比较教育学中[[Positivism\|实证主义]]对主观主义的清洗运动、霍姆斯[[Critical Dualism\|批判二元论]]对主观规范的情境整合，以及后现代思潮对多元真理体制与主观阐释进路的重新合法化。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # China Solution
@@ -160,9 +160,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2013–2014年 — 概念确立与大国外交转向** 配合[[Belt and Road Initiative|一带一路倡议]]提出，中国外交层正式提出向世界贡献“中国智慧与中国方案”，宣告中国从国际规则被动接受者向公共产品主动供给者转变。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
 > - **2017年 — 顶层理论阐述与宪法确认** 党的十九大报告将“为解决人类问题贡献了中国智慧和中国方案”确立为中国特色社会主义新时代的重要历史成就。
 > - **2020年 — 应对全球危机实证拓展** 在应对全球大流行中推出“疫苗外交”与公共卫生领域的中国方案，全面深化与沿线国家的战略互信。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
@@ -188,8 +186,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将中国方案作为宏观社会学解构的中心范畴，揭示中国如何将[[Internationalization of Higher Education|高等教育国际化]]、公派学术资助与[[Technology Transfer|技术转移]]协同整合为服务国家战略的[[Knowledge Diplomacy|知识外交]]载体。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合中柬高教流动案例，揭示周边国家留学生将中国方案视作应对现实治理与脱贫难题的实用性公共产品，确立治理经验认同的实证机制（pp. 9–10, 13）。

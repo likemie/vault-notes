@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Doreen Massey
 
@@ -57,9 +57,7 @@ updated: 2026-10-20
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 > - 1944 出生于英国曼彻斯特
 > - 1970s 在伦敦大学学院（UCL）和开放大学（Open University）从事地理学教学与研究
 > - 1982 任开放大学地理学教授，直至 2009 年退休
@@ -82,9 +80,7 @@ updated: 2026-10-20
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Massey 的空间理论以**开放[[Ontology\|本体论]]** 为根基，其核心主张可概括为三条互相关联的命题：（1）空间是关系性的、不断被制造的，而非静态容器；（2）空间本质上是[[Multiplicity\|多重性]]的——是"共存[[Heterogeneity\|异质性]]"的领域；（3）空间关系必然包含权力不对称（[[Power-Geometries\|权力几何学]]）。以下逐一展开，但详细论述见各概念条目。
 
 ### 开放本体论与关系性空间
@@ -112,9 +108,7 @@ Massey 反复论证全球空间不是预先给定的、"在外面的"、外在�
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - [[Space-Making]] — Marginson 的空间制造框架直接建立在 Massey 的[[Relational Space\|关系性空间]]理论之上，三个维度中的"想象"和"社会实践"维度尤其以 Massey 的开放[[Ontology\|本体论]]为基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–4]])
 > - [[Multiplicity]] — 多重性概念直接来自 Massey 的理论，Marginson 以此挑战高等教育研究中[[Methodological Nationalism\|方法论民族主义]]和[[World-Systems Theory\|世界体系理论]]的封闭空间假设
 > - [[Geopolitics of Knowledge]] — Massey 的空间理论为理解[[Geopolitics of Higher Education\|高等教育地缘政治]]中的权力关系（"区域和全球尺度上制度化的权力关系"）提供了核心概念工具([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 11]])

@@ -72,7 +72,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Knogler_2025_BB"
@@ -302,9 +302,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **证据与情境的批判性反思要求** 清算中心提供的中介产品虽然提供了行之有效的实践模型与启发，但在迁移至职业教育等具体情境时，仍需进行批判性审视与情境化调整，不可机械套用。
 > - **乘数群体的多重依赖性** 尽管聚焦教师教育者成效显著，但该群体对高质量、易获取的教学法材料与外在机构化支持具有极高依赖性，若缺乏深度的制度嵌入与常态化支持，转移的可持续性将受制约。（p. 16）
 

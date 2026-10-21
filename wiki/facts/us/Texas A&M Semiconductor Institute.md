@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Texas A&M Semiconductor Institute
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心业务与旗舰产出
-
-> [!finding-cards|notitle] 核心业务与旗舰产出
+> [!finding-cards] 核心业务与旗舰产出
 > - **得克萨斯半导体峰会（Texas Semiconductor Summit）** 发起并常态化主办全州最高规格半导体盛会，搭建贯通白宫、联邦机构、得州政府、芯片制造龙头与顶尖高校的闭门审议与公开对话平台。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 4, 8–9)]]
 > - **10 大前沿技术攻坚布局** 围绕恶劣环境电子、先进封装、新型存储、光子学与绿色制造建立跨院系联合攻关课题集群。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 4)]]
 > - **学者专业发展与[[Communities of Practice|实践共同体]]孵化** 在学习科学理论指引下常态化实施高水平学者发展研修，显著提升高校科研人员承接国家级战略任务的自信心与就绪度。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
@@ -104,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

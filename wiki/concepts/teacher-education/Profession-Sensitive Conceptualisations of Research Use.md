@@ -47,7 +47,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Profession-Sensitive Conceptualisations of Research Use
@@ -143,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s–2000s — [[Teacher Knowledge Base\|教师专业知识库]]奠基** Shulman（1987）与 Grimen（2008）等学者系统阐述了教师知识库的多元构成与专业实践特征。
 > - **2022 — 循证实践与[[Phronesis\|实践智慧]]的调和** Eriksen（2022）从专业社会学视角提出专业人员[[Research Literacy\|研究素养]]的技艺模型与价值中介。
 > - **2025 — 专业敏感型[[Research Utilization\|研究使用]]概念正式确立** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 整合专业知识理论与[[Critical Review\|批判性综述]]发现，明确提出迈向第四代专业敏感型概念化的完整理论议程。
@@ -175,7 +173,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 系统论证了构建专业敏感型概念化的紧迫性与核心维度，为第四代[[Research Utilization\|研究使用]]研究确立了理论框架。

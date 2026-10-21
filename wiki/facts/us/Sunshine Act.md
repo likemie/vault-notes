@@ -31,14 +31,12 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-09-15
+updated: 2026-10-22
 ---
 
 # Sunshine Act
 
-## 内容
-
-> [!info|notitle]
+> [!info] 内容
 > Sunshine Act（正式名称为 Physician Payments Sunshine Act）于 2010 年作为《平价医疗法案》（Affordable Care Act）的组成部分通过立法。其核心条款要求制药和医疗器械公司向美国卫生与公众服务部（U.S. Department of Health and Human Services）报告向医生和教学医院支付的所有款项（p.208）。
 
 需报告的支付类型包括：
@@ -47,16 +45,12 @@ updated: 2026-09-15
 - 差旅费（travel expenses）
 - 与[[Clinical Trial|临床试验]]相关的其他支付
 
-## 公开机制
-
-> [!note|notitle]
+> [!note] 公开机制
 > 所有报告款项可通过公开支付数据库（Open Payments database）供公众查询。法律的核心目标是：通过信息公开增加透明度，从而防止利益冲突（p.208）。
 
 对于[[Clinical Trial|临床试验]]支付，存在一项重要例外：某些研究相关支付可申请延迟公开（delayed publication），以保护研究结果正式发表前的保密信息（pp.208–209）。这一例外平衡了透明度和产业方对专有数据的保护需求。
 
-## 对产学合作的影响
-
-> [!warning|notitle]
+> [!warning] 对产学合作的影响
 > Sunshine Act 直接影响了产学在[[Clinical Trial\|临床试验]]中的合作关系。大学医学中心的教师（作为医生）从产业方获得的演讲费、咨询费和研究资助均需公开披露，这使得原本不透明的财务关系暴露于公众监督之下。对于学术机构而言，这增加了一层合规义务——不仅需要管理利益冲突本身，还需要确保披露信息的准确性和完整性（pp.208–209）。
 
 ---

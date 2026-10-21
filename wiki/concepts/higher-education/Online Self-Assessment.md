@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-19'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Online Self-Assessment
@@ -118,16 +118,12 @@ Thompson 等人（2022, pp.223–224）从大学政策文件和进展报告中�
 | 2018 | 德国已有超过 600 个自评工具（Hell et al., 2018, p.133） |
 | 2019 | 德国约有 20,000 个学习项目，OSA 使用方式从可选到强制不等（HRK, 2019） |
 
-### 实施现状
-
-> [!note|notitle]
+> [!note] 实施现状
 > - **工具类型** 形式多样——有的侧重兴趣和期望[[Questionnaire\|问卷]]，有的包含认知能力测试；近年出现整合平台如 [OSA-Portal](https://www.osa-portal.de)
 > - **核心开发者** 大学自行开发和维护（如 TU Braunschweig 的 Fit4TU、TU Berlin 的 T2-SCA），部分与商业公司合作（如 CYQUEST）
 > - **质量参差** 仅 61% 的分析测试得到了充分评估(Thiele & Kauffeld, 2019b, p.127; [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.223]])
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 
 - **自我选择还是隐性筛选？** 尽管 OSA 被宣称为非筛选性的"咨询"工具，其自我选择机制在实践中可能导致与直接筛选等效的排斥效果——得到负面结果的学生可能自我淘汰([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])
 - **[[Digital Self|数字自我]]的简化性** 将学生简化为数据特征和统计概率，忽略了教育过程中不可量化的维度——困惑的质量、[[Creativity|创造性]]的酝酿、同伴间的非正式互动([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.227]])

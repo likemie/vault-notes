@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Partnership Continuum
@@ -62,9 +62,7 @@ updated: 2026-10-16
 
 ---
 
-## 框架结构：五个领域 × 三个层级
-
-> [!abstract|notitle]
+> [!abstract] 框架结构：五个领域 × 三个层级
 > 框架将[[University-Industry Collaboration\|产学合作]]形式组织为 5×3 矩阵（Tables 1–5, pp.9–19）：
 
 ### 五个合作领域
@@ -95,9 +93,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心原则
-
-> [!abstract|notitle]
+> [!abstract] 核心原则
 > 报告正文和五个领域的详细表格（Tables 1–5）共同揭示了 Partnership Continuum 的三个底层假设([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012]])：
 
 - **非规定性（non-prescriptive）** 框架描述"有什么"而不规定"应该怎么做"。它是一张地图而非操作手册——地图帮助你看到全部可选路径，但走哪条路由你根据自己的目标和条件决定
@@ -106,9 +102,7 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Technology Transfer\|技术转移]] — 技术转移（专利许可、衍生企业）是 Partnership Continuum 上的一种特定合作形式，主要属于"研究者互动"领域和"经济发展"领域。连续体的范围要广得多，覆盖了学生培养、资源共享和机构合作等技术转移概念无法涵盖的维度
 > - vs Boccanfuso and Hall（2025）的活动-基础-特征三维框架 — 后者聚焦合作的**组织架构和制度安排**（使命领域、支撑基础、成功特征），Partnership Continuum 聚焦合作的**形式和深度光谱**。前者是"如何组织"，后者是"有哪些选择"
 > - vs 三螺旋（[[Triple Helix]]）— 三螺旋是大学-产业-政府三方互动的宏观理论模型，Partnership Continuum 则提供了三方可以在五个领域中以何种具体方式互动的微观操作清单

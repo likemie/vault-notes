@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hu Shi
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1891** 出生于上海（祖籍安徽绩溪）。
 > - **1910–1917** 留美学习，先入康奈尔大学农学院，后转入哥伦比亚大学哲学系，师从[[John Dewey\|杜威]]获得博士学位。
 > - **1917** 回国任北京大学教授，加入《新青年》编辑部，发起白话文运动。
@@ -122,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[John Dewey]] — 导师；陈独秀 — [[New Culture Movement\|新文化运动]]战友；[[Jiang Menglin]]、[[Tao Xingzhi]] — 哥大留美网络同仁。
 > - **批评者／论敌** 梁漱溟 — 东方文化派批评者；1950年代中国大陆马克思主义思想批判界。
 > - **机构／运动** [[New Culture Movement]] — 领袖；[[May Fourth Movement]] — 思想倡导者；《新青年》 — 编辑。
@@ -148,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

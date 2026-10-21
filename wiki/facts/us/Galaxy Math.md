@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Galaxy Math
@@ -126,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Galaxy Math 列为小学数学 Tier 3 助教 1:1 辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过技术赋能的助教辅导在 Tier 3 实现高质量个别补救。
 > - [[Pirate Math]] — 同属范德堡大学 Fuchs 团队研发的三年级应用题干预方案，共同构筑了富克斯团队从基础运算到[[Problem Solving\|复杂问题解决]]的阶梯式干预链条。

@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,35 +25,32 @@ tags:
   - theme/comparative-education
   - theme/evidence-based-education
 related_concepts:
+  - "[[Heterogeneity]]"
   - "[[European Education Space]]"
   - "[[Open Method of Coordination]]"
-  - "[[Governing by Numbers]]"
-  - "[[Subsidiarity Principle]]"
-  - "[[Performance Indicators]]"
-  - "[[Heterogeneity]]"
   - "[[Evidence-Based Education]]"
+  - "[[Subsidiarity Principle]]"
+  - "[[Governing by Numbers]]"
 related_theories: []
 related_methods:
   - "[[Secondary Analysis]]"
-  - "[[In-depth Interview]]"
-  - "[[Expert Interview]]"
 related_instruments: []
 related_persons:
   - "[[Sotiria Grek]]"
 related_facts:
   - "[[EU]]"
-  - "[[OECD]]"
   - "[[Lisbon Strategy]]"
+  - "[[OECD]]"
   - "[[PISA]]"
-  - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[UOE Data Collection]]"
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Eurydice
@@ -151,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

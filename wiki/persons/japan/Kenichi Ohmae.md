@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Kenichi Ohmae
@@ -56,9 +56,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1943** 出生于日本福冈县。
 > - **1972–1994** 加入麦肯锡咨询公司（McKinsey & Company），历任东京分公司总经理、亚太区董事长及全球董事，系统提出战略三角模型（3C 模型）。
 > - **1985** 出版《三极霸权：全球竞争即将到来的形态》（*Triad Power*），勾勒美欧日跨国巨头主导全球市场的格局。
@@ -91,18 +89,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论论敌** [[Chris Freeman]] — 弗里曼在多篇论著中将其列为全球化神话的典型反面范例。
 > - **理论论敌** [[Michael Porter]] — 波特以《[[National Competitive Advantage|国家竞争优势]]》强调母国环境的绝对重要性，同大前研一构成鲜明对照。
 > - **理论论敌** [[Bengt-Åke Lundvall]] — 伦德瓦尔以互动学习的局域性反驳其标准化全球化论调。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

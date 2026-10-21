@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Sovereign Internationalism
@@ -49,17 +49,13 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Radical Liberal Internationalism\|激进自由国际主义]] — 主权国际主义容忍文明差异和多元政治制度，以不干涉为核心原则；激进自由国际主义则以西方规范评估所有社会，否定非自由政权的合法性，支持政权更迭。Sakwa（2023）将二者的关系描述为历史替代：后者在冷战后逐步取代前者([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
 > - vs 现实主义国际关系 — 主权国际主义包含多元[[Cosmopolitanism|世界主义]]理想，现实主义则认为国与国之间本质上是竞争关系。但两者都承认国家主权的基本地位
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **世界作为多元空间** — 容忍文明差异和多元政治制度，不以单一标准衡量所有国家([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
 > - **不干涉原则** — 尊重各国内部政治事务，只要遵守联合国公约等共同宪章价值。这是宪章国际体系与[[Radical Liberal Internationalism\|激进自由国际主义]]最根本的区别
 > - **1945 年的乐观精神** — 旧金山会议后的精神是乐观的、多元[[Cosmopolitanism|世界主义]]的、包容的和宽容的，当时冷战尚未开始，自决权获得近乎普遍支持
@@ -67,16 +63,12 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > 随着时间推移，美国的主权国际主义在很大程度上被一种基于美国例外论的自由反多元立场取代。Sakwa（2023）将这一转变追溯为：1945 年宪章国际体系（主权国际主义）→ 冷战后"[[Radical Liberal Internationalism\|激进自由国际主义]]"（radical liberal internationalism）→ 2000 年代后英美"基于规则的秩序"（rules-based order）。Marginson 指出，这一演变反映的是美国从多元[[Cosmopolitanism|世界主义]]向单极霸权主义的[[Geopolitics|地缘政治]]立场转变([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
 
 ---
 
-## 应用领域
-
-> [!success|notitle]
+> [!success] 应用领域
 > - [[Geopolitics of Knowledge]] — 主权国际主义与[[Radical Liberal Internationalism\|激进自由国际主义]]的张力是理解当代[[Geopolitics of Higher Education\|高等教育地缘政治]]的重要背景：前者倾向于知识合作，后者倾向于知识竞争
 > - [[Internationalization of Higher Education]] — 1990–2015 年间的美国主导国际化兼具主权国际主义的形式（多边组织、合作[[Discourse|话语]]）和激进自由国际主义的实质（英语大学全球扩张、西方化）
 

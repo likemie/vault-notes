@@ -61,7 +61,7 @@ sources:
 part_of: ""
 status: completed
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bergeron_2017_MJE"
@@ -362,9 +362,7 @@ journal: McGill Journal of Education
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **专栏篇幅限制** 受限于期刊专栏篇幅，未对二阶数据库涵盖的 800 余项一阶[[Meta-analysis|元分析]]逐一进行详尽的统计勘误与分类。（p. 245）
 > - **复杂建模细节省略** 多水平建模涉及剂量反应曲线、空间[[Heterogeneity|异质性]]与时滞效应，未展开具体数理推导细节。（p. 245）
 > - **未展开替代推断方案** 分析重心在于解构现有指标与换算程序的统计缺陷，未提供基于数百项元分析提取真实科学结论的完整统计推断替代框架。（p. 245）

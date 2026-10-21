@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # May Fourth Movement
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **知识界的政治革命转向** 五四运动推动中国知识界从单纯以文化思想手段拯救国家，转向以政治革命与群众动员实现国家重组。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
 > - **加速[[New Education Movement\|新教育运动]]的激进化** 将教育改革与社会政治变革诉求紧密绑定，使1919–1923年间新教育形成将教育视为“改造政治与社会的根本杠杆”的激进心态。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
 > - **为[[John Dewey\|杜威]]访华提供高度政治化的接纳语境** 迎合了五四后急于救国的政治氛围，使杜威的[[Democratic Education\|民主教育]]目标被放大，而其渐进[[Pragmatism in China\|实验主义]]方法则被忽视。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–617]]）
@@ -106,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

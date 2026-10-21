@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # COM-B Model
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -173,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 关联理论网络
-
-> [!entry-map|notitle]
+> [!entry-map] 关联理论网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

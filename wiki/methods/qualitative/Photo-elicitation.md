@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Photo-elicitation
@@ -100,9 +100,7 @@ updated: 2026-10-20
 > - **伦理风险** 照片可能识别个人与场所，匿名化可能损害照片本身的意义；使用参与者照片需获得拍摄与复制的许可。
 > - **补救方式** 结合其他数据源[[Triangulation\|三角互证]]；与访谈常规方法配合分析。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

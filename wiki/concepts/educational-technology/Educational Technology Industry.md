@@ -40,20 +40,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 教育科技产业（Educational Technology Industry, EdTech）指以数字技术为手段提供教育产品、服务和平台的营利性和非营利性商业生态系统。[[Argument_Amos_2022_Springer\|Amos (2022, p.57)]] 指出 EdTech 是"大生意"——股票市场份额持续增长——并将数字化定位为教育[[Geopolitics|地缘政治]]转型的核心技术驱动力：它重新绘制了教育的边界，从教学法到行政管理到教师培训几乎无所不及。
 >
 > > 例：COVID-19 疫情期间全球教育被"弹射进数字轨道"——这不仅改变了教学方式，也暴露和加剧了数字不平等。但 Amos 强调，即使没有疫情，数字化也在深刻改造教育。由疫情加速的转型只是让已有的趋势更可见、更快([[Argument_Amos_2022_Springer\|Amos, 2022, p.60]])。
 >
 
-## 概念演变
-
-> [!note-|notitle] 概念演变
+> [!note-] 概念演变
 > Amos 将 EdTech 产业的兴起定位在从国家中心到市场中心教育的更广阔转型之中。"知识"作为生产要素的讨论自 1950s 末即已开始，[[OECD]] 在 [[Sputnik Shock 1957\|Sputnik Shock]] 后关注 [[STEM Education\|STEM]] 教育是早期的制度信号。但 EdTech 作为一个独立产业的爆发式增长则是近二十年——尤其是数字化和算法化——的产物([[Argument_Amos_2022_Springer\|Amos, 2022, pp.56–57]])。
 >
 
@@ -79,9 +75,7 @@ updated: 2026-10-21
 > [[Learning Analytics]]（learning analytics）和个性化学习（personalized learning）被宣称为改善学习质量的技术方案。这同时创造了新的职业类别——数据科学家、学习设计师、教育技术开发者——也意味着教师角色在根本性转变：从知识的传递者和学习的设计者，到算法的执行者和数据的提供者。
 >
 
-## 对教育地缘政治的影响
-
-> [!success|notitle] 对教育[[Geopolitics|地缘政治]]的影响
+> [!success] 对教育[[Geopolitics|地缘政治]]的影响
 > 数字化正在重新绘制教育的制度地图([[Argument_Amos_2022_Springer\|Amos, 2022, pp.57–58]])：
 >
 > - **[[Regional University Alliances\|区域大学联盟]]** [[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、[[EU|欧盟]]委员会框架下的欧洲大学联盟——在科研合作、师生流动、联合学位项目中跨越国界甚至大洲边界
@@ -89,9 +83,7 @@ updated: 2026-10-21
 > - **多层级地缘政治空间** 教育治理不再单属于国家权力。EdTech 平台（Google Classroom、Coursera）、超国家机构（European Commission）、大学联盟、私人基金会都在同一空间中运作
 >
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - **数字不平等的再生产** 数字化宣称促进平等，但在实践中可能加剧不平等——不是所有学生都有合适的设备和网络；资金充裕的大学更能投资高质量数字教学法；教师的数字素养分布不均；低收入家庭的学生更依赖学校提供的结构和指导([[Argument_Amos_2022_Springer\|Amos, 2022, pp.58, 60–61]])
 > - **不改变教学法，技术本身不解决问题** "技术本身不是答案——它需要各级教育中具有教学知识和灵活性的教师人员"([[Argument_Amos_2022_Springer\|Amos, 2022, p.61]])
 > - **碎片化与去公共化** EdTech 推动的个性化学习路径、微证书（micro-credentials）和[[Self-Directed Learning\|自导学习]]，可能瓦解大众教育创造的"共同经验"——民主社会需要公民共享的基础知识和公共叙事，而教育的超个性化对此构成威胁([[Argument_Amos_2022_Springer\|Amos, 2022, pp.60–61]])

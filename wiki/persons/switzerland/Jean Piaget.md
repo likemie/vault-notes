@@ -8,7 +8,7 @@ summary: "瑞士心理学家与哲学家，认知发展阶段理论与发生认�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 33
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Self-control]]"
   - "[[Emergence]]"
-  - "[[Paradigm]]"
   - "[[Prefrontal Cortex]]"
   - "[[Executive Function]]"
   - "[[Working Memory]]"
@@ -56,12 +55,12 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Bolton_2017_ArchPsych]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Qvortrup_2015_Paideia]]"
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jean Piaget
@@ -82,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1896** 出生于瑞士纳沙泰尔，自幼热爱自然史，少年时期即在软体动物学领域发表多项专业研究成果。
 > - **1918** 获得纳沙泰尔大学自然科学博士学位，随后转向心理学、逻辑学与哲学认识论研究。
 > - **1919–1921** 在巴黎[[Alfred Binet|比奈]]实验室从事儿童智力测验标准化工作，注意到儿童在逻辑推理中展现出系统的定型错误，推断儿童思维拥有不同于成人的质性结构。
@@ -149,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学派传承与开拓** 创立日内瓦发生认识论学派，培养了贝尔贝尔·因海尔德（Bärbel Inhelder）等杰出学者与学术研究同仁。
 > - **理论对话与交锋** [[Lev Vygotsky|列夫·维果茨基]]（个体建构论 vs 社会文化历史学派）、[[B. F. Skinner|斯金纳]]（认知图式平衡 vs [[Behaviorism|行为主义]]外在强化）。
 > - **后续理论扩展** [[Juan Pascual-Leone]]、[[Robbie Case]]、[[Kurt Fischer]] 等新皮亚杰主义者，引入[[Working Memory|工作记忆]]与信息加工容量修正阶段过渡理论。
@@ -173,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

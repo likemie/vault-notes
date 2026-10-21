@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ideological Capture of Science
@@ -73,9 +73,8 @@ updated: 2026-10-21
 > 爱因斯坦的相对论被苏联官方斥为"资产阶级的、反动的、与马克思列宁主义不相容"（Vucinich, 2001）。然而制造核弹的现实需求迫使苏联科学家不得不接受爱因斯坦物理学的工具价值。这一案例揭示了一个深层悖论：当意识形态与国家安全发生直接冲突时，实用需求可以暂时压倒意识形态正统，但这种"例外"并不改变体制对[[Scientific Autarky\|科学自主]]性的系统性压制[[Argument_Chan_2015_Intersect\|Chan, 2015]]。
 
 ---
-## 概念演变
 
-> [!timeline|notitle] 概念演变
+> [!timeline] 概念演变
 > - **1930s–1960s** 苏联科学意识形态化达到顶峰，[[Lysenkoism\|李森科主义]]主导生物学，相对论遭到官方批判。
 > - **1990** Graham 编著的 *Science and the Soviet Social Order* 系统分析了苏联科学的社会—政治嵌入性。
 > - **2010s** Castells 将科学意识形态化纳入国家主义体制与[[Informationalization\|信息化]]不相容的[[Analytic Framework\|分析框架]]，视为五个破坏性机制之一。
@@ -88,7 +87,6 @@ updated: 2026-10-21
 > - [[Soviet Statism]] — 科学意识形态化是苏联国家主义五个破坏性机制之一，源于国家主义体制追求意识形态正统而非科学真理的内在逻辑。
 
 ---
-## 应用案例
 
-> [!example|notitle]
+> [!example] 应用案例
 > - [[Argument_Chan_2015_Intersect|Chan (2015)]] — 将科学意识形态化作为解释苏联技术落后的第二机制，通过[[Lysenkoism\|李森科事件]]和相对论风波两个案例展示意识形态如何系统性地切断苏联科学与全球科学共同体的联系。

@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # One Country, Two Systems
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **主权不可争议性** 确立中国对特区的绝对管辖权是高度自治的前提（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.149]]）。
 > - **授权性剩余权力** 任何未在基本法中明确列出的权力均归中央所有，特区自治限度取决于中央授予（pp.149–150）。
 > - **一国绝对优先性** 确立一国是两制的前提和基础，两制完全从属于并派生自一国（p.150）。
@@ -123,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1982 — 制度雏形确立** 中国宪法第 31 条通过，为在和平统一后台湾、香港、澳门设立特别行政区和保留资本主义制度提供宪制根据。
 > - **1997–2019 — 高度自治契约阶段** 一国两制在香港普遍被理解为基本法防范侵蚀的法治保障，强调两制边界与法治自治。
 > - **2020 至今 — 一国优先主权常态化** [[National Security Law\|香港国安法]]颁布，官方教材（[[Citizenship and Social Development\|CSD]]）系统重塑一国两制解释，强调中国单一制宪制事实，一国是根，两制完全从属于一国（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。
@@ -154,8 +150,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 详细分析了一国两制解释在2020年后通识科与[[Citizenship and Social Development\|公社科]]教科书中的系统重构过程。
 > - [[Argument_Xu_2024_CE\|Xu (2024)]] — 运用中心-边缘治理模式，系统梳理了一国两制下香港中国历史课程自主权在实质与形式自治间的缩水史。

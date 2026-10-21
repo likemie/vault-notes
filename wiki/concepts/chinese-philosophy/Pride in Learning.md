@@ -33,32 +33,26 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Pride in Learning
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 骄傲（pride）是一种与学习成就紧密相关的自我意识情感（self-conscious emotion）。当一个人完成具有一定难度或挑战的任务时，骄傲产生。由于学习成就——尤其是正式教育中的成就——直接以社会比较为基础进行评估，学习者在取得好成绩时自然会感到骄傲([[Argument_Li_2012_Cambridge\|Li, 2012, p.76]])。
 
 骄傲之所以是"自我意识"的，是因为它必然涉及对自身表现与他人标准的比较——即使没有人在场观看，个体也知道自己的表现处于何种水平([[Argument_Li_2012_Cambridge|Li, 2012, p.76]])。
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **骄傲 vs [[Humility\|谦逊]]** 在西方心理学中，骄傲的反面通常是羞耻（shame）、尴尬或低自尊。但在[[Confucian Learning Tradition\|儒家学习传统]]中，骄傲的对立面是谦逊——而非羞耻。谦逊不是低微的自我评价，而是一种内在力量([[Argument_Li_2012_Cambridge\|Li, 2012, p.79]])。
 
 **东亚骄傲的双价性** 英语 pride 和中文"骄傲"（jiāo ào, 驕傲）之间不存在完全对等的翻译。Li 的翻译程序发现，93% 的双语者将 pride 译为"骄傲"，但其中 31% 指出"骄傲"同时有"傲慢、自负"的负面含义；45% 的全体受试者确认"骄傲"具有负面意味。这导致东亚学习者的骄傲是一种"悖论式情感"（paradoxical emotion）——既正面又负面([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 骄傲在学习中的文化差异体现在以下维度：
 
 ### 西方语境中的骄傲
@@ -94,9 +88,7 @@ updated: 2026-10-15
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > 东亚学习者经历骄傲时的实际心理过程可能如下([[Argument_Li_2012_Cambridge\|Li, 2012, p.78]])：
 
 > "我做到了！我很高兴自己努力了并且成功了。但要小心，不要太自满；还有更多要达成的。如果我公开表达我的快乐，别人可能会觉得我傲慢。而且公开炫耀骄傲会让没做好的同学不好受。所以我应该保持[[Humility\|谦逊]]——这对我好，对别人也好。"

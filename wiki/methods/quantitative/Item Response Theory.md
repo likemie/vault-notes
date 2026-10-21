@@ -60,7 +60,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Item Response Theory
@@ -205,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Crane Brinton
@@ -145,9 +145,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

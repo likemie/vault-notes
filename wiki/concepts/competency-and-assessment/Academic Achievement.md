@@ -66,6 +66,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Heterogeneity]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[School Inspection]]"
   - "[[Evidence-Based Education]]"
   - "[[Response to Intervention]]"
   - "[[Constructivist Paradigm]]"
@@ -99,7 +100,6 @@ related_concepts:
   - "[[Gender Differences in Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Engineered Evidence]]"
-  - "[[School Inspection]]"
   - "[[Predictive Validity]]"
   - "[[Research Scope]]"
   - "[[Socioeconomic Status]]"
@@ -171,6 +171,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
@@ -186,11 +187,10 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Academic Achievement
@@ -545,9 +545,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占系统内最大可控核心），揭示宏观资源投入与 [[National Assessment of Educational Progress|NAEP]] 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning|asTTle]] 系统推动基于[[Learning Progression|学业进阶]]与形成性反馈的评价模式。
 > - [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学生长期总体学业成就（EOAA）的[[Epistemology|认识论]]预测源，实证确立了[[Task Structure|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement|学业成就性别差异]]与效标锚定的关键证据。
 > - [[Argument_Greene_2018_JEP|Greene et al. (2018)]] — 通过大规模[[Meta-analysis|元分析]]系统考察了[[Epistemic Cognition|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment|对齐法则]]。

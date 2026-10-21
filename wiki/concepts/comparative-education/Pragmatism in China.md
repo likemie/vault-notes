@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pragmatism in China
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | [[Pragmatism in China\|实用主义在中国]] | [[Pragmatic Paradigm\|实用主义范式]] | [[Recontextualization\|再脉络化]] | [[Knowledge Transfer\|知识转移]] |
 > |------|---------------------------------------|------------------------------------|---------------------------------|-------------------------------|
 > | **分析对象** | [[John Dewey\|杜威]]思想在华传播与政治变迁史 | [[Mixed Methods Research\|混合方法研究]]的哲学与方法论基础 | 思想脱离原语境进入新语境的机制 | 知识跨越国界与社会边界的移动 |
@@ -157,9 +155,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **17世纪–1913 — 语义前史与铺垫** 清代“经世致用”实学传统；1864年李鸿章提出“所需非所学”；1913年黄炎培发表《学校教育采用[[Pragmatic Paradigm\|实用主义]]之商榷》。
 > - **1919–1928 — 民国3T跨国转移与重构** [[John Dewey\|杜威]]访华讲演；1922新学制去政治化折算与1923课程错位；1923–1928[[Paradigm\|范式]]转向《新教育评论》[[Scientific Attitude\|科学态度]]与[[Tao Xingzhi\|陶行知]]乡村教育。
 > - **1949至今 — 建国后三重政治变形** 1950年代被政治批判为反动唯心主义 ➔ 1980年代通过陶行知恢复名誉 ➔ 1990年代至今重构为[[Quality Education\|素质教育]]理论资源与反新自由主义[[Discourse|话语]]盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）
@@ -178,9 +174,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪[[Pragmatic Paradigm\|实用主义]]在中国从晚清经世致用到当代[[Quality Education\|素质教育]]的三重变形。
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 运用 Cowen [[Transfer Translation Transformation\|3T 框架]]拆解[[John Dewey\|杜威]]实用主义在民国中国（1919–1928）的转移、转译与转化机制。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 提供 3T 理论框架分析外来教育思想跨国移动中的变形规律。

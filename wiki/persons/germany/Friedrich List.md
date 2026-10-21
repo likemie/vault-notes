@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Friedrich List
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1789** 出生于德意志罗伊特林根。
 > - **1817–1819** 任蒂宾根大学行政学教授，发起创立德意志工商同盟，呼吁废除德意志邦国内部关税壁垒、建立统一关税同盟。
 > - **1825–1832** 因政见流亡美国，深受[[Alexander Hamilton|亚历山大·汉密尔顿]]（Alexander Hamilton）《制造业报告》（1791）启示，亲历美国利用高关税与国家资助基础设施实现经济起飞的实践。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 7–8)]]
@@ -124,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想前驱** [[Alexander Hamilton]] — 汉密尔顿《制造业报告》（1791）关于保护新兴制造工业的思想深刻启发了李斯特。
 > - **理论论敌** Adam Smith — 李斯特系统批判斯密将财富等同于商品与实物资本的狭隘视角，确立生产力学说。
 > - **理论论敌** Jean-Baptiste Say — 批判萨伊关于政府干预只能带来负面影响的自由放任论调。
@@ -142,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Symphony Orchestra Model
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 交响乐团组织模型 | 传统工业金字塔[[Bureaucracy\|科层制]] | 去中心化蜜蜂蜂群 |
 > |---|---|---|---|
 > | **核心隐喻** | 乐团指挥与百名独奏家直连协同 | 军官层层传令、士兵机械执行 | 无中心女王发令的[[Emergence\|涌现]]式自组织 |
@@ -123,8 +121,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1988 — 现代管理学提出** [[Peter Drucker|彼得·德鲁克]]在《哈佛商业评论》（*Harvard Business Review*, HBR）发表《新型组织的到来》，正式确立交响乐团组织模型。
 > - **2025 — 硅谷工程文化深化** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中将其与工程师艺术公社隐喻相融合，确立为对抗[[Meeting-Industrial Complex|会议狂热]]与大企业病的制度方案。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Clash of Civilizations
@@ -91,9 +91,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -142,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 冷战后大国地缘战略结盟、区域文明断层线危机、跨国文化与教育政策冲突。
 > - **成立条件** 国家决策受深层历史文化、宗教认同与地缘传统显著约束。
 > - **解释不足** 忽视了各文明内部极其巨大的阶级、族群与政治[[Heterogeneity|异质性]]（如伊斯兰文明内部的逊尼派与什叶派冲突）；低估了全球资本主义经贸互联与跨国数字平台对文明边界的穿透力。
@@ -174,7 +170,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska (2025)]] — 结合[[Huntington-Wallace Line|亨廷顿-华莱士线]]剖析文明冲突论的学术影响，批判高校因反感其模型而封杀文化规范讨论的认知病理。

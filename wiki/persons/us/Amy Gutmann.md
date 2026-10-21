@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Amy Gutmann
@@ -57,9 +57,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1949** 出生于纽约布鲁克林。
 > - **1976** 获得哈佛大学政治学博士学位。
 > - **1976–2004** 任教于普林斯顿大学政治系，并担任该校教务长与大学人类价值中心创始主任。
@@ -98,9 +96,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

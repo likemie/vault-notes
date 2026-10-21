@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Thomas S. Popkewitz
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1940** 出生于美国纽约市，早年在纽约大学获得教育学硕士，后于纽约大学获得教育哲学与社会学博士学位。
 > - **1970–至今** 长期任教于威斯康星大学[[James Madison|麦迪逊]]分校，与[[Michael W. Apple|迈克尔·阿普尔]]等学者共同铸就了麦迪逊作为全球批判教育研究与课程社会学重镇的学术声誉。
 > - **1984** 出版《教育研究中的[[Paradigm|范式]]与意识形态》（*Paradigm and Ideology in Educational Research*），系统反思[[Positivism|实证主义]]定量范式在教育研究中制造的“去政治化”科学幻觉。
@@ -127,18 +125,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将福柯[[Post-structuralism|后结构主义]]权力/[[Knowledge Framework|知识框架]]与后现代历史学熔铸为教育社会[[Epistemology|认识论]]，成为当代批判比较教育学、课程史学与教师政策研究的不可或缺的思想支柱。
 > - **方法路径** 倡导“关于现存概念的历史谱系学”与微观[[Discourse|话语]]分类考古，展示了如何透过政策文本、教师评估表与教科书词汇，挖掘深层的社会规训隐秘逻辑。
 > - **比较视野** 长期推动欧美与跨大西洋比较研究，为理解全球化时代跨国智识网络与本土抵抗提供了超越简单“结构调整”的认识论微观解剖视角。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术同盟** [[Michael W. Apple]] — 威斯康星大学[[James Madison|麦迪逊]]分校长期同事，共同确立麦迪逊作为全球[[Critical Pedagogy|批判教育学]]核心学术阵地的声誉。
 > - **理论对话者** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在宏观国家理论与跨国组织[[Policy Borrowing|政策借用]]机制上展开深度理论对话与互补。
 > - **分析对象** [[OECD]] 与跨国政策治理网络 — 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality|治理术]]。
@@ -157,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

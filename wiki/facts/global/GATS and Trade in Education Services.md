@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # GATS and Trade in Education Services
@@ -185,9 +185,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -200,8 +198,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]矩阵，深入分析 GATS 消除边境壁垒对[[State Educational Sovereignty|国家教育主权]]的削弱，并揭示大国借力革新与小国调控权丧失的非对称结构（pp. 110–111）。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 详尽剖析 GATS 在高等教育商品化中的制度与[[Discourse|话语]]角色，揭示其如何将新自由主义全球议程合法化为[[Doxa|不言自明]]的前提（pp. 97–98）。

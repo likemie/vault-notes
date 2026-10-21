@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sheila Slaughter
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1960s–1970s** 获威斯康星大学[[James Madison|麦迪逊]]分校博士学位，专注于美国高等教育历史与社会学批判研究。
 > - **1980s–2004年** 长期任教于亚利桑那大学高等教育研究中心，深入调查[[Bayh-Dole Act of 1980|拜杜法案]]（Bayh-Dole Act）对美国大学科研组织形态的微观重塑。
 > - **1997年** 出版开创性学术专著《[[Academic Capitalism|学术资本主义]]：政治、政策与[[Entrepreneurial University|创业型大学]]》，获 ASHE 年度杰出学术著作奖。
@@ -112,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** 拉里·莱斯利（Larry L. Leslie） — 共同开创[[Academic Capitalism|学术资本主义]]理论，合著 1997 年开山专著。
 > - **师承／合作者** 加里·罗兹（Gary Rhoades） — 长期合作者，合著 2004 年《学术资本主义与新经济》。
 > - **机构／运动／项目** 佐治亚大学麦克比高等教育研究所 — 长期执教与培养门生的学术重镇。
@@ -134,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

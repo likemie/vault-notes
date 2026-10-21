@@ -34,7 +34,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Susalka_Carbone_2025_IP_Web"
@@ -76,9 +76,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 实践指南类章节，基于作者在美国[[Technology Transfer\|大学技术转移]]机构的一线实务经验。Susalka 担任 AUTM（Association of University Technology Managers，全球 3000+ 会员的技术转移协会）首席执行官，Carbone 担任加州理工学院（Caltech）技术转移与企业合作办公室的专利与许可主任。论据来源包括：[[University Industry Demonstration Partnership\|UIDP]]（[[University Industry Demonstration Partnership]]）合同共识文件系列（Contract Accords 5, 6, 8, 16）、AUTM 2023 年许可活动调查数据、明尼苏达大学 [[MN-IP Create]] 项目实例。非实证研究，无系统数据收集。
 
 ---
@@ -369,9 +367,7 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 分析聚焦于仅涉及美国合作方的[[University-Industry Collaboration\|产学合作]]中的 IP 条款(p.275)。国际合作的 IP 规则和法律因司法管辖区而异。例如，美国以外的某些国家，大学研究人员可能保留其开发 IP 的个人所有权，大学在向产业方提供 IP 权利时必须将这一因素纳入考量。文化层面对产学关系和 IP 的期望也因国家而异（参见第 17 章）。此外，数据相关问题（特别是在机器学习和人工智能的背景下）在第 16 章单独讨论(p.279)。
 
 ---

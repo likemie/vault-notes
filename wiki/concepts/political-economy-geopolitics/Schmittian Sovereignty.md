@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Schmittian Sovereignty
@@ -139,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1922 — 决断论主权学说的提出** Carl Schmitt 面对魏玛宪政危机，发表《政治神学》，主张主权在于例外状态的决断。
 > - **2020 — 香港例外状态常态化的起点** [[National Security Law\|香港国安法]]实施，国家安全委员会成立且其决策不受司法复核，确立了施米特式不受规范限制的决断机构在香港法治体系中的中心位置。
 > - **2024 — 比较教育视角的系统批判** Vickers 实证剖析了[[Jiang Shigong\|强世功]]等北京宪法学者如何引入施米特主权观以重塑[[One Country, Two Systems\|一国两制]]，并全面接管和改写了高中的政治教育大纲（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.139, 155]]）。
@@ -170,7 +168,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 深刻解构了北京宪法学者引入施米特主权观对香港基本法“高度自治”叙事的解构过程。

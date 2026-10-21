@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Loan Programs Office
@@ -163,9 +163,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -180,8 +178,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 深度分析[[Department of Energy|美国能源部]]贷款项目办公室（LPO）在现代产业战略中的制度演进与治理机制，将其作为[[Public Dynamic Capabilities|公共动态能力]]与[[Embedded Autonomy|嵌入式自主性]]的标杆案例进行理论提炼。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐述白宫[[National Strategy on Microelectronics Research|国家微电子研究战略]]如何将能源部 LPO 贷款与贷款担保工具作为支持硬科技首创性工程中试落地的核心金融支撑（Goal 4.5）。

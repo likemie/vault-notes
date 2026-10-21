@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Duhem-Quine Thesis
@@ -75,7 +75,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] — 将该论题作为 [[Theory of Knowledge\|TOK]] 课程中替代简化版[[Falsification\|证伪主义]]的教学起点，通过[[Otto Neurath]] 的反基础主义[[Positivism\|实证主义]]将不完全决定性与 [[Socioscientific Issues\|SSI]] 教育连接起来。

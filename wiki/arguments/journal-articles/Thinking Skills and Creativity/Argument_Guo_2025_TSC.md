@@ -90,7 +90,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-02
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Guo_2025_TSC"
@@ -456,9 +456,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 1. **调节[[Variable\|变量]]覆盖范围有限** 本研究仅检验了训练周期、学段层次、活动组织形式与训练方式四个调节变量，基于特定认知导向的细分干预要素（如具体的注意力控制或[[Working Memory\|工作记忆]]负荷策略）尚未能完全穷尽，有待未来实证研究深入细化。（pp.9–10）
 > 2. **研究生样本数据代表性不足** 纳入的 29 项实证研究中，仅有 2 项[[Effect Size\|效应量]]涉及研究生群体，虽然点估计较高（$g = 0.991$），但因[[Sample Size Determination\|样本量]]极小，本科生与研究生之间的确切效应差异仍需在大样本数据中进一步验证。（pp.7, 10）
 > 3. **长期迁移与追踪效标缺失** 现有实证文献普遍依赖干预结束后的即时或短期测验分数，对[[Creativity\|创造力]]技能在真实专业领域及长期职业发展中的实际转化与远迁移效果缺乏追踪数据。（p.10）

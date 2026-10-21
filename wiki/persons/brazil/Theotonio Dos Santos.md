@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Theotonio Dos Santos
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1936** 出生于巴西米纳斯吉拉斯州贝洛奥里藏特。
 > - **1961–1964** 在米纳斯吉拉斯联邦大学与巴[[Thomas D. Seeley|西利]]亚大学研习政治学与社会学，积极参与左翼学生运动与马克思主义理论研讨小组。
 > - **1964** 巴西爆发军事政变后流亡智利，任教于智利大学当代社会经济研究中心（CESO），与鲁伊·毛罗·马里尼（Ruy Mauro Marini）等人共同开创拉美马克思主义依附学派。
@@ -111,27 +109,21 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与瓦勒斯坦（Wallerstein）、阿明（Amin）、弗兰克（Frank）等学者共同构建了当代批判政治经济学与[[World-Systems Theory|世界体系分析]]的支柱网络；其概念工具直接启发了卡诺伊（Carnoy）、[[Joel Samoff|萨莫夫]]（Samoff）、[[Liliana Esther Olmos|奥尔莫斯]]与托雷斯对外围资本主义国家教育政策的政治社会学建模。
 > - **政策路径** 深刻影响了战后拉美非结盟运动、[[South-South Cooperation|南南合作]]倡议以及联合国拉美经委会（CEPAL）关于产业自主权与[[Technology Transfer|技术转移]]监管的政策抗辩。
 > - **跨国／跨领域传播** 思想广泛跨越经济学、政治学与教育学界，成为全球[[Critical Pedagogy|批判教育学]]解构跨国金融机构援助神话的核心[[Epistemology|认识论]]武器。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** 鲁伊·毛罗·马里尼（Ruy Mauro Marini）、瓦尼亚·邦宾亚（Vania Bambirra） — 共同构成智利大学当代社会经济研究中心著名的马克思主义[[Dependency Theory|依附论]]三剑客。
 > - **理论对话者** [[Carlos Alberto Torres]]、[[Martin Carnoy]] — 将其宏观依附政治经济学引入教育扩张与国家职能矛盾研究。
 > - **所属组织** [[UNESCO]] — 长期担任拉美区域高级学术顾问与项目协调员。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

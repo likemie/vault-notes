@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Domain Analysis
@@ -195,9 +195,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960s–1970s — 认知人类学与民间分类学萌芽** 哈罗德·康克林（Harold Conklin）与查尔斯·弗拉克（Charles Frake）等发展出成分分析与民间分类法，探明原住民对自然与社会世界的内在概念分类图式。
 > - **1979–1980 — [[Ethnography\|民族志]]发展序列与九大语义关系确立** 詹姆斯·斯普拉德利（James Spradley）出版《民族志访谈》（1979）与《[[Participant Observation\|参与观察]]》（1980），系统提出发展研究序列（DRS），将领域分析确立为首要分析基石，界定了九类通用语义关系与六步分析法。
 > - **1980s–1990s — 融入[[Qualitative Research\|质性研究]]与[[Content Analysis\|内容分析]]主流** 马丁·哈默斯利与保罗·阿特金森（Hammersley & Atkinson, 1983）论证了资料归入多重范畴以保留丰富性的合法性；科林·罗布森（Robson, 1993）与迈尔斯和休伯曼（Miles & Huberman, 1994）将领域归并规范引入内容分析与[[Case Study\|案例研究]]。
@@ -276,9 +274,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在质性数据分析七步框架中将领域分析确立为跨越孤立编码与理论推论的组织枢纽（Ch. 11），并在[[Content Analysis\|内容分析]]中系统整合 Spradley 的符号语义关系与多层归并规程（Ch. 30）。
 
 ---

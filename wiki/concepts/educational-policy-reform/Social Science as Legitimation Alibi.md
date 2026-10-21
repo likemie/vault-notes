@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Social Science as Legitimation Alibi
@@ -207,9 +207,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1830s–1840s — 行政改良与公共教育立法合法化理由** [[Horace Mann\|霍勒斯·曼]]（Horace Mann）等美国[[Educational Meliorism|改良主义]]视察官考察普鲁士等欧洲教育体系，将外国制度数据带回国内，主要用作游说各州立法机构、动用公共税收建立普及公学体系的“合法化理由”（legitimising rationales）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 141)]]
 > - **1950s–1960s — 战后中央计划体制与机构赞助的科学联姻** 随着民族国家推行中央五年计划，政府与国际组织（[[OECD\|经合组织]]、[[World Bank\|世界银行]]）基于自身政策利益大力资助实证研究；[[Human Capital Theory\|人力资本理论]]与人才库测算应运而生，实证量化模型与国家官僚机器确立深层共谋。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 64)]]; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
 > - **1960s–1970s 初 — 全球技术援助与国内结构重组的合法化顶峰** 英美综合中学运动援引社会学流动数据打破阶级双轨制；世界银行与[[UNESCO\|联合国教科文组织]]等技术援助项目将现代化理论作为向第三世界输出方案的科学护照。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
@@ -233,9 +231,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 历史社会学考证了 1960 年代比较教育学实证[[Scientific Paradigm\|科学范式]]如何作为战后国家计划、[[Human Capital Theory\|人力资本]]投资与技术援助的合法化借口（alibi），并追踪其在 1970 年代危机后的多元演变与当代 [[PISA]] 惯性。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术史：19 世纪改革者以跨国数据作为立法的合法化理由，战后国际组织赞助[[Positivism|实证主义]]，并借 Carnoy（1983）揭示其意识形态借口性质。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 揭示了冷战时期及全球化时代跨国测试（[[IEA]] 与 PISA）如何从学术性的文化理解异化为新自由主义国家机器追求治理效率与正当性的附庸工具。

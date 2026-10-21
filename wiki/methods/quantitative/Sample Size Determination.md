@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-21
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Sample Size Determination
@@ -160,9 +160,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系说明 |
 > |---|---|---|
 > | [[Power Analysis]] | 配套方法 | 样本量确定在上游依赖统计功效分析以设定合理的样本规模。 |

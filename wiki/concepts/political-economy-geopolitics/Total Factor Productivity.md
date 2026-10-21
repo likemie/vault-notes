@@ -58,7 +58,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Total Factor Productivity
@@ -186,9 +186,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950年代 — 新古典增长核算奠基** 罗伯特·索洛（Robert Solow, 1957）与摩西·阿布拉莫维茨（Moses Abramovitz, 1956）建立总量生产函数与索洛残差[[Analytic Framework|分析框架]]，确立全要素生产率在经济增长理论中的核心地位。
 > - **1980–1990年代 — [[New Growth Theory|内生增长理论]]与研发模型** 保罗·罗默（Paul Romer, 1986, 1990）与阿吉翁-霍伊特（Aghion & Howitt, 1992）将 TFP 内生化为企业研发投资、知识积累与[[Creative Destruction|创造性破坏]]的结果。
 > - **2010年代 — 企业微观[[Heterogeneity|异质性]]与演化分析** [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta (2016)]] 利用跨国微观数据证实行业内持久存在 2–9 倍的 TFP 差距，打破代表性企业假设，揭示创新模式与[[Technological Trajectories|技术轨迹]]对 TFP 演化的决定作用。
@@ -236,9 +234,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 概念联系与理论作用 |
 > |:---|:---|:---|
@@ -253,9 +249,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Glitz_2020_AmEconRev|Glitz and Meyersson (2020)]] — 利用两德行业 TFP 差距变化评估工业间谍与[[Technology Transfer|技术转移]]的生产率效应，系统展示了非市场环境下校准 TFP 的方法论与实证发现。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐述先进制造业在全社会研发创新与全要素生产率增长中的战略支柱地位，揭示美国[[Modern Industrial Policy|现代产业政策]]重塑供给侧生产率动能的核心逻辑。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引[[Robert J. Gordon|罗伯特·J. 戈登]]的百年 TFP 增长实证序列，批判当代硅谷向浅层消费与广告算法退缩造成的[[Big Idea Famine|科技野心衰退]]与生产率长期停滞。

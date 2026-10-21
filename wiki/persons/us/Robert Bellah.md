@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Robert Bellah
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927** 出生于美国俄克拉荷马州阿尔塔斯，后在哈佛大学获得博士学位并师从[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
 > - **1967** 在《代达罗斯》（*Daedalus*）发表划时代论文《美国的[[Civic Religion|公民宗教]]》（*Civil Religion in America*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 > - **1985** 出版《心灵的习性：个人主义与承诺》（*Habits of the Heart*），深刻反思美国过度个人主义对公共生活的侵蚀。
@@ -104,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **博士导师** [[Talcott Parsons|塔尔科特·帕森斯]] — 继承了帕森斯关于社会系统整合与价值内化的宏观社会学视野。
 > - **当代应用与对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 将[[Civic Religion|公民宗教]]作为[[Technological Republic|技术共和国]]不可或缺的[[Soft Belief|软信念]]基石。
 
@@ -124,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Piaget's Theory of Cognitive Development
@@ -92,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -207,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 逻辑数学思维演进、物理世界守恒概念形成、空间推理及认知结构的阶段性质变。
 > - **谨慎使用** 跨文化情境下的非西方社会群体，不同文化生态环境会显著改变守恒任务达成的顺序与年龄（Dasen, 1975）。
 > - **不适合解释** 语言与社会文化意义的分布式共建（需结合[[Lev Vygotsky\|维果茨基]]社会文化理论）、情感无意识动机及潜意识直觉。
@@ -245,8 +241,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] [[Systematic Review\|系统综述]]并对齐了[[Jean Piaget\|皮亚杰]]认知发展四阶段与[[Prefrontal Cortex\|前额叶皮层]]（PFC）解剖发育及[[Executive Function\|执行功能]]（EF）成熟轨迹，确立了阶段跃迁的脑神经与认知控制基础。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，依托皮亚杰从具体运算向形式运算过渡的发展理论，解释了高小学段（4–6 年级）干预效应最为强劲（$g = 0.877, p < .001$）的情境调节机制。

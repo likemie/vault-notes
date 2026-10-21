@@ -43,7 +43,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Working Knowledge
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 实践运作知识（Working Knowledge） | 显性科学证据（Scientific Evidence） | 组织惯性常规（Organizational Routine） |
 > |---|---|---|---|
 > | 载体形态 | 行动者的认知图式、工作假定与整合性经验 | 学术出版物、统计报表与测评数据库 | 正式科层规章、行政审批链条与分工流程 |
@@ -182,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 追踪德国教育部官员在两轮 [[PISA]] 测评及日常治理中的数据处理行为，论证了外部证据如何被重构并融入行政官员的实践运作知识，推动循证政策走向日常行政常规。
 
 ---

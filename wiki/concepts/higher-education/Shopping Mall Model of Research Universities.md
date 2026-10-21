@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Shopping Mall Model of Research Universities
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | [[Research Universities\|研究型大学]]商场模型 | 传统学术庇护共同体 | 企业化大学（[[Corporate University]]） |
 > |---|---|---|---|
 > | **机构核心角色** | 高端科研空间开发商与声誉品牌授权方 | 学者自治的知识探索共同体与培育庇护所 | 科层集中管控、面向商业产出的[[Knowledge Production\|知识生产]]企业 |
@@ -167,7 +165,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 提出[[Research Universities|研究型大学]]商场模型隐喻，系统解析其在间接成本核算、软钱雇佣及基建过度扩张中的制度表现。

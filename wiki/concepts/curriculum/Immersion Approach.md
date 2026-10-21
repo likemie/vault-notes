@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Immersion Approach
@@ -94,9 +94,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实验实证，证明隐性沉浸模式在[[Critical Thinking\|批判性思维]]培养中的局限性。
 > - [[Ennis's Curricular Typology]] — 系统阐释 Ennis 课程模式四分法的理论脉络。
 > - [[Infusion Approach]] — 阐明通过显性化改造将沉浸模式升级为融入模式的操作路径。

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Thomas Theorem
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -134,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
@@ -148,7 +144,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 18, 25–26)]] — 阐明托马斯定理的微观机制、课堂互动应用以及[[Basil Bernstein\|伯恩斯坦]]与[[John Rex\|雷克斯]]的结构性批判，并贯穿全书的[[Qualitative Research\|质性研究]]设计。

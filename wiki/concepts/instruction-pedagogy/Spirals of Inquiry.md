@@ -30,12 +30,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 探究螺旋（Spirals of Inquiry）是由 Timperley, Halbert, & Kaser (2014) 开发的[[Practitioner Enquiry\|教师探究]]循环模型，已在多个情境中实施。该模型的核心主张是：教师通过参与系统性[[Inquiry Cycle\|探究循环]]——扫描学生的教育体验→发展探究焦点→形成关于教师行动如何改变模式的假设→查阅已发表证据→采取行动→检查效果——将外部研究证据与本地证据生成过程整合([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])。
 >
 > > "This approach involves teachers engaging in cycles of scanning to understand how students are experiencing their education; developing a focus for their inquiry and a 'hunch' about which of their actions could change the patterns they are seeing; looking at published evidence to inform their practice; taking action; and finally checking to see if the action is having the desired effect." ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306, summarizing Halbert & Kaser, 2014]])
@@ -54,16 +52,12 @@ updated: 2026-10-21
 > [!abstract] 与网络化改进社区的区别
 > 探究螺旋以更**分散**的方式运作——不要求所有教师聚焦同一问题，适合挑战更多样化的社区，且需要较少的研究伙伴投入。这可能更适合一些地方当局，因为运营成本较低且适合挑战多样性更大的社区([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])。
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > - [[OECD]] (2015) 在 *Schooling Redesigned* 报告中特别强调探究螺旋支持新学习和教学方法规模化实施的能力([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])
 > - 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）
 > - Peterson 将其定位为与"什么有效"策略互补——当教师参与持续探究工作时，他们更可能发现新证据并以持续的方式融入实践
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - **vs [[Improvement Science]]** — 探究螺旋是改进科学原则的具体操作模型；改进科学是更广泛的方法论框架
 > - **vs [[Evidence-Informed Practice]]** — EIP 关注教师在决策中如何整合证据；探究螺旋提供具体的循环过程结构
 

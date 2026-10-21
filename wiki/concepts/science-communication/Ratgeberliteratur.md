@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ratgeberliteratur
@@ -166,9 +166,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s–1980s — 经验手册兴起与神经迷思初渗** 伴随德国基础教育改革与教师培训扩展，以弗雷德里克·韦斯特（Frederic Vester, 1975）《思考、学习、遗忘》为代表的通俗读物风靡实践界，四种[[Learning Styles\|学习风格假说]]开始作为“前沿教学技巧”被大量写入商业备课手册。
 > - **1990s–2000s — 商业出版规模化与经典方法手册定型** 德国各大教育出版社（Beltz、Cornelsen、Klett）建立庞大的实践指南丛书系列（如 Paradies & Linser, 2003），成为几代中小学教师与见习教师人手一册的“教学圣经”，但内容几乎完全脱离实证教育学的科学检验。
 > - **2010s — [[Evidence-Based Education\|循证教育]]反思与指南质量实证审计** 学界启动对商业指南文献的大规模[[Content Analysis\|内容分析]]，莫尼希（Mönig, 2012）、奥托（Otto et al., 2019）等实证揭示教师对指南的超高依赖度，同时克鲁格与康拉德（Krüger & Konrad, 2022）揭露其近四成充斥伪科学神话的严重现实。
@@ -194,9 +192,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -210,7 +206,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 深度解构德国 410 部流通教师指南的实证[[Content Analysis\|内容分析]]数据，揭示其近四成宣扬[[Learning Styles\|学习风格神话]]的严峻现状，论证教育科研界主动占领通俗指南阵地的紧迫性。

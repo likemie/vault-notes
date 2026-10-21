@@ -28,17 +28,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 突触发生（Synaptogenesis）是中枢神经系统中神经元之间新突触（连接）的创建过程([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6]])。该过程贯穿整个儿童期发育，在性成熟年龄左右开始减少([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6,引用 Huttenlocher & Dabholkar, 1997]])。
 
-## 核心特征
-
-> [!abstract|notitle] 核心特征
+> [!abstract] 核心特征
 > - 涉及中枢神经系统中神经元和连接的**过度生产([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6,引用 Selemon, 2013]])**
 > - 这些连接随后通过[[Synaptic Pruning\|突触修剪]]过程被磨炼和精炼([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6]])
 > - 突触发生与突触修剪一起统称为 **[[Neuroplasticity|突触可塑性]]（Synaptic Plasticity）**，是脑可塑性的两个主要过程
@@ -50,9 +46,7 @@ updated: 2026-10-21
 - 具体而言，dlPFC 第三层锥体细胞的树突突触连接延伸并达到成人连接长度([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9,引用 Koenderink, Uylings, & Mrzljak, 1994]])
 - [[Prefrontal Cortex|PFC]] 经历延迟发育：2 岁时树突突触连接仅增长到成人水平的一半([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 
-## 与脑可塑性的关系
-
-> [!info|notitle] 与[[Neuroplasticity|脑可塑性]]的关系
+> [!info] 与[[Neuroplasticity|脑可塑性]]的关系
 > 突触发生是脑可塑性的两个主要细胞层面过程之一。脑可塑性涉及三种类型([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.6]])：
 >
 > - **经验独立可塑性（Experience-independent plasticity）** — 由遗传决定，发生在产前发育阶段

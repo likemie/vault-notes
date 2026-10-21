@@ -9,9 +9,9 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 75
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 66
+related_level: 6
+related_stars: "💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/educational-governance
@@ -53,13 +53,9 @@ related_concepts:
   - "[[Construct]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Policy Avoidance]]"
-  - "[[Mediatised Governance]]"
-  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Path Dependence]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Winnowing]]"
@@ -72,14 +68,11 @@ related_methods:
   - "[[Case Study]]"
   - "[[Expert Interview]]"
   - "[[Semi-structured Interview]]"
-  - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
   - "[[Andreas Schleicher]]"
   - "[[Jason Beech]]"
-  - "[[Paul Morris]]"
-  - "[[Nick Cowen]]"
 related_facts:
   - "[[Schulqualität Allgemeinbildung]]"
   - "[[Ofsted]]"
@@ -90,8 +83,6 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Swedish Schools Inspectorate]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
-  - "[[Gesamtstrategie zum Bildungsmonitoring]]"
-  - "[[Education and Inspections Act 2006]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Dedering_2009_EERJ]]"
@@ -104,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # School Inspection
@@ -146,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | School Inspection（学校督导） | [[Test-Based Accountability\|Test-Based Accountability（测试问责）]] | School Self-Evaluation（校本自评） | Collegial Peer Review（同行专业互评） |
 > |:---|:---|:---|:---|:---|
 > | **实施主体** | 国家/地方外部独立法定督学机构 | 中央教育行政部门与量化测试工业 | [[School Leadership\|学校领导]]班子与校内一线教职工 | 跨校教师共同体、学科专家联盟 |
@@ -159,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **标准主义规训框架（Standardised Normative Framework）** 督导机构通过制定严密的评估标准细则，将国家的意识形态、课程大纲与治理诉求法典化，确立何为“卓越教学”与“有效领导”的官方裁判基准。
 > - **实地核验与多源[[Triangulation\|三角互证]]（Triangulated [[Fieldwork]]）** 督导过程强调对“纸面制度”与“真实日常”的现场穿透，依托未预先通知的推门听课（Drop-in Observations）、学生个别抽测、家校访谈与安全记录审查进行交叉印证。
 > - **输入-过程-产出全链条多维评估（Input-Process-Output Tripartite Continuum）** 与单纯截取认知学业产出的纸笔测验不同，现代学校督导系统（如德国 Schulinspektion）将评估触角延伸至校舍设施与生源构成（输入）、课堂教学互动与[[School Leadership\|学校领导]]效能（过程）以及学业达标与学生发展（产出），通过多维全景数据穿透学校运转生态，为解释办学绩效短板提供因果链条支撑。
@@ -355,9 +342,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 剖析外部高压惩罚性督导与经合组织倡导的专业共同体自律理念之间的尖锐冲突。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 实证揭示德国教育行政官员对全样本学校督导实用治理价值的高度评价及其科层整合瓶颈。
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 实证检验奥地利普通学校质量保障体系中目标协定型督导的治理功能与校长群体的认同断裂。

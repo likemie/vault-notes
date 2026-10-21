@@ -123,7 +123,5 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 提出并阐发 PISA 单一教育观构念，深刻批判其将西方发达市场假设强加于全球各国的缺陷。

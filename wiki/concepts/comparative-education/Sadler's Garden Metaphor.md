@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sadler's Garden Metaphor
@@ -100,9 +100,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **漫步者主体的多元化与跨国化** 19 世纪的漫步者主要是受政府指派建立国家学制的政治精英（如萨米恩托、霍拉斯·曼、明治考察团）；21 世纪的漫步者扩散为携带商业方案的咨询专家、大学创收机构、跨国教育集团与超国家联盟。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344)]]
 > - **土壤与情境的不可剥离性** 教育实践深植于特定社会的阶级结构、文化传统与政治经济现实，绝非可在实验室中随意[[Assemblage|组装]]的标准化技术拼盘。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 341)]]
 > - **残枝与外来微生物的不可逆扩散** 外来改革在宏观层面的政策流产（枯萎），往往伴随着量化考核指标、商业教材外包与问责修辞等“微生物”在微观层面的持续寄生与本土繁殖。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
@@ -144,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1900 — 隐喻诞生** [[Michael Sadler|迈克尔·萨德勒]]在英国吉尔福德发表里程碑演讲，首次提出“世界教育体系花园”与“植物采撷”隐喻，确立情境依赖性传统。[[Argument_Beech_2009_GlobalGarden|(Sadler, 1900/1979, p. 49, cited in Beech, 2009b, p. 341)]]
 > - **1960–1970 年代 — [[Positivism|实证主义]]的遗忘** 科学化与量化跨国比较浪潮兴起，研究者假定[[Performance Indicators|教育指标]]具有跨文化可比性，萨德勒的情境警训一度被边缘化。
 > - **1990 年代 — 考恩重访** [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）重新激活萨德勒命题，发展出“转移（Transfer）、转化（Translating）与变形（Transforming）”的三阶段理论。
@@ -166,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -181,9 +175,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle]
+> [!evidence-grid-a] 相关研究
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|

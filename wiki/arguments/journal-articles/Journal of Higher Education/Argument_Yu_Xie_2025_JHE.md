@@ -96,7 +96,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Yu_Xie_2025_JHE"
@@ -590,9 +590,7 @@ journal: "高等教育研究"
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 该文是一篇[[Literature Review\|文献综述]]，主要基于国际英文文献展开梳理和讨论，中文文献中的相关研究涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production\|空间生产]]三元维度[[Analytic Framework\|分析框架]]尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待后续研究进一步检验和完善。（p.13）
 
 ---

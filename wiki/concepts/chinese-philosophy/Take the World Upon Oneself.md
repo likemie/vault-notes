@@ -39,14 +39,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Take the World Upon Oneself
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 以天下为己任（Take the World Upon Oneself）是[[Confucian Learning Tradition\|儒家学习传统]]中[[Self-Cultivation\|修身]]的公共面向——个人的道德完善不是终点，修身者必须承担起对家庭、社群、国家和天下的道德责任。[[Mencius\|孟子]]是第一个明确提出这一思想的儒家思想家，"以天下为己任"中的"己任"（weight）指一种不可推卸的责任([[Argument_Li_2012_Cambridge\|Li, 2012, pp.45-46]])。
 
 de Bary 将其概括为："这与道德生活和行为中的意志主义相一致——即一个人必须为自己的行为承担全部责任……在新儒学中，这与道德英雄的概念紧密相关……反过来，承担对道的责任或接受维护道的义务，基于[[Zhu Xi|朱熹]]的个体是自我决定的道德能动者这一观点。"([[Argument_Li_2012_Cambridge|Li, 2012, p.46 引 de Bary]])
@@ -68,9 +66,7 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > - **[[Mencius\|孟子]]（ca. 372–289 BCE）** 首个明确提出"以天下为己任"——"承担天下的重量"。坚持独立于政治权力的独立教师身份，"在这一点上与[[Socrates\|苏格拉底]]不无相似"([[Argument_Li_2012_Cambridge\|Li, 2012, p.45]])
 > - **[[Zhu Xi\|朱熹]]（1130–1200）** 在《大学》中整合了[[The Great Learning\|八条目]]的系统路径：格物→致知→诚意→正心→[[Self-Cultivation\|修身]]→齐家→治国→平天下。后两步体现了以天下为己任([[Argument_Li_2012_Cambridge\|Li, 2012, pp.46-47]])
 > - **[[Civil Service Examination\|科举]]时代** 学者型官员（scholar-officials）是以天下为己任的制度[[Avatar\|化身]]——"几乎所有[[Neo-Confucianism\|新儒家]]学者都是朝廷官员"([[Argument_Li_2012_Cambridge\|Li, 2012, p.47]])
@@ -78,9 +74,7 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Self-Cultivation]] — 修身是"以天下为己任"的起点和基础
 > - [[Sage]] — 圣人是"以天下为己任"的最高典范
 > - [[Junzi]] — 君子不只为己修身，还帮助他人达成卓越
@@ -88,9 +82,7 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - "以天下为己任"所要求的高度道德责任感是否过于理想化？Li 引 de Bary 承认："它对英雄美德的颂扬在现代思想看来可能毫无希望的理想主义"——但其目标在于"以个人价值[修养]而非特殊等级或社会地位来评判的人性道德高贵"([[Argument_Li_2012_Cambridge\|Li, 2012, p.47]])
 > - 近现代的"救國救民"叙事是否仍属于儒家传统还是已经质变？Li 认为学习的内容（西学）虽已改变，但"学习的价值和学习者投入这一过程的方式仍然基本上是儒家的"([[Argument_Li_2012_Cambridge\|Li, 2012, p.49]])
 

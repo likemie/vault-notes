@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Organisation for European Economic Co-operation
@@ -162,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -182,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理从 OEEC 到 [[OECD]] 的多边制度史演变，揭示[[Sputnik Shock 1957|斯普特尼克冲击]]与“经济版 NATO”定位如何促成教育量化治理的早期转向（pp. 540–541）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史解构 OEEC 科技人力办公室在绘制欧美技术差距中的附庸职能，阐明早期经合组织如何将教育作为冷战工具性[[Variable|变量]]引入组织（pp. 438–439）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 阐释 OEEC 及经合组织职能由二战后欧洲重建转向第三世界发展规划的历史跨越，揭示“善意贷款方”与专业技术援助背后的去政治化神话（pp. 344–345）。

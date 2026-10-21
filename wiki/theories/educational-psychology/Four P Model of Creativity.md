@@ -62,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Four P Model of Creativity
@@ -87,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 核心构件（4P） | 构件类型 | 心理测量与[[Operationalization\|操作化]]指向 | 在理论中的核心功能与实证机制（[[Meta-meta-analysis\|二阶元分析]]基准） |
 > |:---|:---|:---|:---|
@@ -194,9 +192,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** [[Creativity\|创造力]]全领域分类学构建、宏观[[Meta-analysis\|元分析]][[Heterogeneity\|异质性]]分解、综合[[Creativity Training\|创造力教学]]干预设计、跨学科[[Creativity Assessment\|创造力测评]]体系。
 > - **谨慎使用** 微观神经认知脑机制（如单一脑区激活时序），需结合认知神经科学细化过程（Process）的微观网络模型。
 > - **不适合解释** 纯粹由算法主导的非人类生成式 AI 的自主意识与社会意义生产。
@@ -204,9 +200,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1961 — 奠基创立** Mel Rhodes 发表经典论文 *An Analysis of [[Creativity]]*，系统分析 40 种创造力界定，提炼出 Person, Process, Product, Press 四大核心支柱。
 > - **2004 — 现代整合与心理测量化** [[Mark A. Runco]] 将 4P 确立为当代创造力研究与评估体系的标准元理论框架。
 > - **2026 — [[Meta-meta-analysis\|二阶元分析]]全域实证确证** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 运用二阶[[Meta-analysis\|元分析]]（SOMA）综合 52 项一阶元分析与 124 万被试数据，实证证实 4P 分类体系在解释宏观[[Effect Size\|效应量]]谱系上的高度有效性。
@@ -233,7 +227,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al., 2026]] — 将 4P 框架作为全领域[[Meta-meta-analysis\|二阶元分析]]的宏观调节分类学基础，系统验证了环境干预、认知过程与外认知特质对[[Creativity\|创造力]]表现的差异化赋能效应。

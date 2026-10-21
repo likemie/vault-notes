@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,11 +31,10 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Policy Window]]"
-  - "[[Research Universities]]"
-  - "[[Research Translation]]"
-  - "[[Research Utilization]]"
-  - "[[Evidence-Based Policy-Making]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Research Universities]]"
+  - "[[Research Utilization]]"
+  - "[[Research Translation]]"
 related_theories: []
 related_methods:
   - "[[Research Synthesis]]"
@@ -48,16 +47,16 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[National Governors Association]]"
   - "[[Cram Schools]]"
+  - "[[Swedish Schools Inspectorate]]"
   - "[[Hunt Institute]]"
   - "[[Council of Chief State School Officers]]"
-  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # National Research Council
@@ -179,9 +178,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

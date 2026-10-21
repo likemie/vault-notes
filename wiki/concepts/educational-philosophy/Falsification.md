@@ -94,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Falsification
@@ -259,9 +259,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1934/1959 — 波普尔《科学发现的逻辑》确立证伪划界标准** 波普尔出版《科学发现的逻辑》（*Logik der Forschung*），明确批判逻辑[[Positivism|实证主义]]的归纳证实主义，确立以不对称经验反驳为核心准则的可证伪性划界标准。
 > - **1960s — 比较教育学科大转型引入证伪主义准绳** 霍姆斯基于波普尔批判理性主义确立[[Problem Approach|问题解决法]]，将政策方案表述为待检验假说；诺亚与埃克斯坦（Noah & Eckstein, 1969）指责传统历史学派结论仅为未经证伪检验的假说，呼吁将学科建立在经验跨国检验基础之上。[[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b, p. 53)]]
 > - **1965/1981 — 霍姆斯确立 $L + I = P$ 公式并区分条件预测与宿命预言** 霍姆斯提出比较分析公式 $L + I = P$，以受约束的预测检验假设，同时明确划清条件预测与不可证伪的历史宿命论预言（Historicist Prophecy）的界限。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 149–151)]]
@@ -335,9 +333,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在研究方法教科书的哲学基础章节中系统阐述证伪主义作为[[Postpositivism|后实证主义范式]]的基石概念，详细界定严格检验与推测反驳循环。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 考掘战后比较教育学中霍姆斯如何引入波普尔假说-演绎法与可反驳假说，探讨预测划界标准引发的学术大论战。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威阐述霍姆斯以 $L + I = P$ 公式[[Operationalization|操作化]]波普尔证伪原则，辨析条件预测与不可证伪的历史宿命论预言，并借由[[Crane Brinton|布林顿]]史学论证历史探索性工作假设的可检验性。

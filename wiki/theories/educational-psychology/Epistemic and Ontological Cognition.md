@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic and Ontological Cognition
@@ -57,9 +57,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -92,23 +90,17 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 学生跨学科（良构与劣构学科）在信念与认知发展上的不平衡现象。
 > - **常见误用** 容易直接将特定单维度的得分高低粗暴地用于评价认知好坏，而忽视多维度组合所映射的整体发展逻辑。
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **2008 — 概念起点** Greene 等人初步提出区分[[Epistemology\|认识论]]和[[Ontology\|本体论]]认知的理论论述。
 > - **2010 — 实证检验** Greene、Torney-Purta 及 Azevedo 将该模型转化为 [[Epistemic and Ontological Cognition Questionnaire\|EOCQ]] [[Questionnaire\|问卷]]，并通过[[Factor Mixture Modeling\|因子混合模型]]进行大样本验证。[[Argument_Greene_2010_JEP\|(Greene et al., 2010)]]
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP\|Greene et al., 2010]] — 该研究通过[[Factor Mixture Modeling\|因子混合模型]]检验 EOCD 模型；12个领域轮廓中8个符合预设，因此结论是部分支持。

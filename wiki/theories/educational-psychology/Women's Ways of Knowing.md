@@ -30,14 +30,12 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-09-21
+updated: 2026-10-22
 ---
 
 # Women's Ways of Knowing
 
-## 理论定位
-
-> [!theory-position|notitle]
+> [!theory-position] 理论定位
 > - **解释对象** 女性作为认知者（knowers）的[[Epistemology\|认识论]]发展。
 > - **理论问题** [[Source of Knowledge\|知识的来源]]为何？知识是由外部赋予还是内部建构？
 > - **理论类型** 基于[[Phenomenology\|现象学]]访谈的五视角认识论模型。
@@ -57,9 +55,7 @@ updated: 2026-09-21
 > - **机制三** [[Procedural Knowledge\|程序知识]]（Procedural Knowledge）：区分为分离型认知（Separate knowing）与连结型认知（Connected knowing）。
 > - **结论一** [[Constructed Knowledge\|建构知识]]（Constructed knowledge）：整合了主客观策略，认知者自身成为[[Knowledge Building Theory|知识建构]]的紧密参与者。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
 
-## 适用边界
-
-> [!theory-boundary|notitle]
+> [!theory-boundary] 适用边界
 > - **适合** 解释女性的自我概念转变及其对知识看法的深层影响。
 > - **不适合** 用于断定某些[[Ways of Knowing\|认知方式]]仅为女性独有，因为缺乏男性对照组。
 > - **局限** 将[[Source of Knowledge\|知识来源]]（[[Source of Knowledge]]）的重心置于知识的性质（[[Epistemology\|nature of knowledge]]）之上。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 96)]]

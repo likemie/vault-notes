@@ -41,14 +41,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Action Better Than Words
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 行勝於言（Action Better Than Words / Facta non Verba）是[[Confucian Learning Tradition\|儒家学习传统]]的第四个文化主题，也是清华大学刻在主楼前广场上的[[University Motto\|校训]]。它表达了一个系统的文化立场：一个人的道德成就以行动——而非言语——为标准来评判。说话是一种严肃的道德行为，因为它将说话人承诺于他人期待中的相应行动([[Argument_Li_2012_Cambridge\|Li, 2012, pp.52-54]])。
 
 [[Confucius|孔子]]对巧言令色抱有根本性的不信任——"他甚至没有写下任何关于自己教学的文字"。他说："古者言之不出，耻躬之不逮也"（古人不轻易说话，因为他们以自己做不到所说的话为耻），以及"[[Junzi|君子]]欲讷于言而敏于行"([[Argument_Li_2012_Cambridge|Li, 2012, pp.52-53]])。
@@ -105,18 +103,14 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **行勝於言 vs "沉默=被动"的西方误读** 见 [[Chinese Learner]] 的相关分析。Li 明确指出，将东亚学习者的沉默标签为"不投入、不愿参与或干脆从课堂退缩"是"严重错误"（grossly mistaken）。沉默不是缺席，而可能是一种对言语的严肃道德态度([[Argument_Li_2012_Cambridge\|Li, 2012, pp.52-53]])。
 >
 > 清华大学的[[University Motto\|校训]]——"行勝於言"——刻在主楼前，是"他们大学引以为豪的精神"([[Argument_Li_2012_Cambridge\|Li, 2012, p.52]])。
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Self-Cultivation]] — 修身的目标是行动中的道德卓越，而非言语中的精妙
 > - [[Learning Virtues]] — "行勝於言"与[[Humility\|谦虚]]（不自我吹嘘）和诚心（言行一致）直接关联
 > - [[Chinese Learner]] — 该概念直接解释了"中国学习者为何沉默"的文化逻辑
@@ -124,9 +118,7 @@ updated: 2026-10-16
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 西方教育环境（重视课堂讨论、口头表达、辩论和即时反馈）与"行勝於言"传统的张力：前者可能将后者的沉默误判为"缺乏[[Critical Thinking\|批判性思维]]"，而后者可能将前者的多言视为"轻浮"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.52-53]])
 > - "教师的慎言"在现代大班教学中如何操作？传统的一对一或少数[[Apprenticeship|学徒制]]的慎言传统是否与现代教育规模兼容，Li 未深入讨论
 

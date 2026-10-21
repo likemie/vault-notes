@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # HEFCE Learning Gain Project
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 确立了“[[Learning Gain\|学习增益]]（Learning Gain）”作为衡量高等教育质量与社会流动性的核心[[Analytic Framework\|分析框架]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
 > - **实践影响** 揭示了低利害统考在英国高校常态化推进中的动机流失挑战，促使政策重心向课程嵌入式评价倾斜。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 25–26)]]
 > - **知识影响** 精确量化了本科生[[Critical Thinking\|批判性思维]]在三年就读过程中的纵向成长轨迹，为高教实证研究提供了丰厚数据支撑。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]

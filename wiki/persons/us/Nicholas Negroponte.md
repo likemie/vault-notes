@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Nicholas Negroponte
@@ -54,9 +54,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1943** 出生于美国纽约市。
 > - **1966** 获得麻省理工学院建筑学硕士学位，后留校开创“建筑机器小组”（Architecture Machine Group），探索早期人机交互与计算机图形学。
 > - **1985** 与杰罗姆·威斯纳（Jerome Wiesner）共同创立 MIT 媒体实验室并任首任主任，开创跨学科数字技术[[Paradigm|研究范式]]。
@@ -95,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **科技生态反思路径** 开启了对硅谷风险资本“短平快”模式的深刻批判，促使科技界反思资本结构对基础研发的扭曲。
 > - **实验室组织路径** MIT 媒体实验室开创的“反学科”（Antidisciplinary）研发模式，深刻重塑了当代产学研协同机制。
 > - **国家创新战略路径** 卡普与扎米斯卡（2025）继承尼葛洛庞帝的[[Big Idea Famine|大构想饥荒]]诊断，进一步论证国家通过战略任务导向引导工程师攻坚重大公共防务挑战的制度必要性。
@@ -113,9 +109,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **联合创始人** 杰罗姆·威斯纳（Jerome Wiesner） — 前麻省理工学院院长、肯尼迪总统科技顾问委员会主席。
 > - **媒体实验室门徒** 辛西亚·布雷泽尔（Cynthia Breazeal）、伊藤穰一（Joi Ito） — 社交机器人与跨学科计算前沿学者。
 > - **思想共鸣者** [[Peter Thiel|彼得·蒂尔]] — 同样批判硅谷“想要飞车却得到 140 字符”的科技退步。
@@ -138,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -151,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引尼葛洛庞帝关于[[Big Idea Famine|大构想饥荒]]的经典论断，批判硅谷风险投资将顶级工程智力耗费于浅层消费软件，提出重建重大国家任务导向的创新体制。
 
 

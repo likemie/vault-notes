@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cognitive Constructivism
@@ -87,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -127,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 个体在概念学习、[[Problem Solving|问题解决]]与专业发展过程中的思维转化、图式重组以及前概念迷思打破。
 > - **成立条件** 学习者必须具备自我反思意愿，且教学情境能够提供激发认知冲突的适切支架。
 > - **解释不足** 过度将认知局限于个体头脑内部的心理过程，忽视了社会语言互动、文化工具中介、权力关系与物理情境对认知的深刻构型作用（这也促成了[[Situative Perspective|情境认知]]与[[Constructivist Paradigm|社会建构主义]]的兴起）。
@@ -152,8 +148,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理认知[[Constructivist Paradigm|建构主义]]在[[Epistemology|认识论]]研究中面临的[[Ontology|本体论]]与方法论危机，主张将其作为多层级[[Epistemic Practices|认知实践]]模型的底层组件与情境理论相整合。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将认知建构主义与情境学习、社会建构主义及[[Transformative Learning Theory|转化学习]]并列为四大支柱理论，运用于高校半导体学者发展工作坊，阐明促使学者批判性审视固有专业假设并重构战略图式是培育跨学科科研共同体的核心机制（pp. 2–3, 6）。

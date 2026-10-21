@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dual-Entity Legal Structure
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 双层法人套利架构（Dual-Entity [[Educational Management Organisation\|EMO]]） | 纯粹捐赠型慈善信托（Grant-making Trust） | 经典营利性承包公司（For-profit Contractor） |
 > |---|---|---|---|
 > | **法定治理形态** | 顶层慈善信托 100% 控股底层商业有限责任公司 | 依照信托法设立的独立非营利信托或基金会 | 依据《公司法》成立的独立有限责任公司 |
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1957 年 — 新西兰《慈善信托法》颁布** 确立了慈善信托作为独立法人团体的合法地位，为民间社会力量参与教育救济提供法律框架。
 > - **2005 年 — 新西兰《慈善法》改革** 设立慈善服务局（Charities Services），允许慈善信托设立全资子公司参与商业竞标，但未对关联交易与最低支出率做出硬性限制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–48)]]
 > - **2008–2015 年 — 双层法人 [[Educational Management Organisation|EMO]] 规模极速扩张** 科[[Cognition Education|认知教育]]（Cognition）与[[CORE Education|核心教育]]（CORE）通过双层架构承揽上千万元国家教育部合同，累积数千万元免税留存资产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 88–103)]]
@@ -179,7 +175,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰 6,059 家教育慈善实体与典型双层法人[[Educational Management Organisation|教育管理组织]]，揭示慈善信托全资控股商业子公司的避税与资本积累机制。

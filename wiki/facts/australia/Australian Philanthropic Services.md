@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Australian Philanthropic Services
@@ -111,9 +111,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -131,8 +129,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 依据 ACNC 与 ASIC 法定监管数据，追踪 [[Social Ventures Australia\|SVA]] 旗下 APS 等实体的四层控股与免税管理架构，揭示私人辅助基金（PAFs）作为[[Venture Philanthropy\|风险慈善]]网络渗透公立教育的资本运作通道。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 调取 17 份 ASIC 官方企业提取档案，解构 APS 作为 SVA [[Policy Network\|政策网络]]超级影子节点及其在 [[Gonski 2.0]] 审查背后的跨界旋转门机制。

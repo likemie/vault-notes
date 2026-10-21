@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # The Big Bang Fair
@@ -88,9 +88,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[EngineeringUK]] | 事实 | 大爆炸科技博览会的法定主办与运营机构。 |

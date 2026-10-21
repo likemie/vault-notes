@@ -33,7 +33,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-20
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Data Behaviorism
@@ -58,16 +58,12 @@ updated: 2026-10-17
 > [!example|notitle]
 > 一个[[Learning Analytics\|学习分析]]系统追踪学生在数学学习平台上的行为：点击速度、答题时长、错误率变化曲线。系统从这些数据中发现"答题时长超过 30 秒且连续两次错误率上升的学生有 78% 的概率最终放弃该单元"。这个"知识"完全基于行为数据的统计关联——系统不需要理解"这个学生是否因为对分数的概念产生了困惑"还是"这个学生只是今天状态不好"。但在数据行为主义的逻辑中，这种区分不需要被做出——行为的统计模式已经足以触发干预（推送更简单的题、提醒教师）。
 
-## 与相关概念的区别
-
-> [!example|notitle]
+> [!example] 与相关概念的区别
 > - vs [[Bildung]]——Bildung 要求主体主动参与自身的形成过程，通过反思、批判和理解来建构意义（Nordenbo, 2002）；数据[[Behaviorism|行为主义]]根本绕过了主体——它直接从行为模式中生成"知识"，不要求也不需要主体的理解和参与([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.234–235]])
 > - vs [[Learning Analytics\|学习分析]]——学习分析是具体的技术实践（收集、分析和报告学习数据）；数据行为主义是对这种实践所预设的[[Theory of Knowledge\|知识论]]立场的理论概括——它描述的不是技术做了什么，而是技术背后关于"什么是知识"的根本假设
 > - vs [[Gamification]]——Gamification 是数据行为主义逻辑在界面设计层面的具体实现：通过积分和徽章追踪和调节行为，不需要理解为什么([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp.236–237]])
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **知识概念的窄化** 数据[[Behaviorism|行为主义]]将"知识"简化为可从行为数据中挖掘的统计模式，排除了知识中的反思、批判、责任和伦理维度——这些正是教育之所以为教育的核心([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.235]])
 > - **主体性的消解** 当算法系统替代了人类的意义建构过程，被替代的不只是"劳动"——更是做出判断、承担责任的**主体性**。Rouvroy 的问题意识正在于此：如果行为的预测和调节不再需要洞察，"理性的时代最终走向终结"（Schrape, 2014, p.43, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.236]]）
 > - **信息量有限**目前仅 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge（2022）]]一章对 Rouvroy 的引用作为直接来源，Rouvroy 原著的完整论证有待进一步阅读后补充

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Criterion-related Validity
@@ -158,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s — 经典效度三元论确立** APA 早期标准将效标关联效度与[[Content Validity\|内容效度]]、[[Construct Validity\|构念效度]]并列，作为心理测量三大独立支柱。
 > - **1970s — [[Criterion Problem\|效标问题]]（Criterion Problem）显性化** Shapiro (1970) 深刻揭示在复杂[[Higher-Order Thinking Skills\|高阶思维]]领域缺乏统一客观效标对心理测量的根本制约。
 > - **1980s–1990s — 效度统一观演进** Messick 提出统一效度框架，效标关联被重塑为支持构念效度的外部经验[[Chain of Evidence\|证据链]]条。
@@ -212,17 +210,13 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]通过 124 万人样本系统检验了作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）的不对称性，为[[Criterion Problem\|效标问题]]提供了大规模实证支撑。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] — 详尽梳理效标关联效度在教育测量、考试制度与研究设计中的四大准则与方法学局限。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

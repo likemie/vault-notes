@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Roy Nash
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1944** 出生于英国，先后就读于阿伯丁大学（University of Aberdeen）与爱丁堡大学，接受严谨的社会学与人类学训练。
 > - **1973** 出版开创性著作《课堂中的师生互动》（*Classrooms Observed: The Teacher's Perception and the Pupil's Performance*），被公认为早期微观课堂[[Ethnography|民族志]]与互动论研究的经典。
 > - **1970 年代后期** 移居新西兰加盟梅西大学教育系，开启长达近三十年针对新西兰公立教育体制、毛利教育与阶级不平等的宏微观结合实证研究。
@@ -122,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **梅西大学同行伙伴** [[Ivan Snook]]、Richard Harker（长期并肩作战的批判学者，共同构筑了享誉国际的梅西大学[[Critical Pedagogy|批判教育学]]与教育社会学研究阵地）。
 > - **批判学术知音** [[Gerald Grace]]（[[International Education|国际教育]]社会学者，在学术著述中高度推崇纳什直面社会阶级现实的学理勇气，将其奉为社会良知学者的典范）；[[Basil Bernstein]]（理论对话者，在社会结构制约与代码传递上形成深层学理共振）。
 > - **论辩交锋对象** [[John Hattie]]（针对抽离家庭阶级背景、将教师效能孤立渲染为最大决定因素的新自由主义[[School Effectiveness|学校效能]]论提出根本性学理质询）。
@@ -146,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

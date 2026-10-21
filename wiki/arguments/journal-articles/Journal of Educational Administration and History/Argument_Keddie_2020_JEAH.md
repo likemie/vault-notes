@@ -49,26 +49,20 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2020
 doi: ""
 citation_aliases:
   - "Keddie et al., 2020a"
   - "Keddie et al. (2020a)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 当[[School Autonomy\|学校自主权]]改革与市场逻辑（经济效率、竞争和公共问责）汇聚时，对澳大利亚公立学校系统中的**校长**和**特定学校**（尤其是小型、农村、偏远和弱势学校）产生了什么样的社会正义后果？
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 以 **Nancy Fraser**(2009)的社会正义框架（再分配、承认、代表权）为理论透镜，区分**经济正义**（资源分配的公平性）和**政治正义**（决策参与的公平性）。论文将市场驱动的[[School Autonomy\|学校自主权]]改革诊断为同时损害这两种正义的机制。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - **方法**[[Qualitative Interview\|质性访谈]]研究
 > - **样本** 42 位关键教育利益相关者，涵盖三个澳大利亚州（Victoria 14, NSW 8, WA 10, Qld 8, 国家层面 2），包括教育官僚机构代表（12）、政治家（3）、家长组织（3）、校长协会（7）、校长（4）、专业组织（3）、学者（4）和教师工会（6）
 > - **数据来源** 2019 年进行的 60–90 分钟[[Semi-structured Interview\|半结构化访谈]]，每次由两名研究者进行以保持一致性
@@ -76,9 +70,7 @@ citation_aliases:
 > - **研究项目背景** 三年期 Australian Research Council 资助项目（DP190100190），探索澳大利亚四个州学校自主权改革的社会正义影响；本论文呈现项目第一年的访谈发现
 > - **局限** 样本不能代表澳大利亚所有关于学校自主权的观点；呈现的观点是部分的；将在项目第二年通过后续[[Case Study\|案例研究]]进一步探索
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 1. **原则上的支持与现实的腐败** 大多数利益相关者原则上支持[[School Autonomy\|学校自主权]]（因其允许地方化决策和灵活资源配置），但指出在现实中，自主权"并非真正的自主权"，因为它被竞争和外部问责的边界所限定(p.436-437)。
 >
 > 2. **市场逻辑的系统性腐蚀** 市场逻辑——竞争（通过 [[My School Website\|My School]]）、经济效率（通过预算下放）和公共问责（通过标准化测试）——将自主权从潜在的公平工具转变为制造不平等的机制。这些逻辑"对儿童是有毒的"——儿童存在于"赢家/输家"市场等级中的观念与教育的公共产品本质相悖(p.437)。
@@ -97,18 +89,14 @@ citation_aliases:
 >
 > 5. **呼吁系统性转型** 仅增加中央和区域支持不足以转变现状——需要以**教育性和公平性逻辑**取代**市场逻辑**作为学校自主权的驱动力。论文以 Smyth(2011)的三个激进问题收尾：学校能否不被竞争性个人主义驱动？决策能否由教育而非经济考虑驱动？学校能否从公正社会的视角审视自身？
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - 市场驱动的[[School Autonomy\|学校自主权]]创造了"赢家和输家"的系统，其中一些学校获得更多资源并能更多参与自身治理，而另一些则被系统性地剥夺(p.441)
 > - 当前的中央和区域支持**对校长和学校在市场逻辑汇聚下所经历的不利条件认知不足(p.441-442)**
 > - 校长在自主权方面的自由裁量权缺乏透明度：在某些情况下这导致公平资金的滥用——公平项目"因为没有了对项目的保护……在过去几年中以可怕的速度倒退"（Noah, NSW，引自 p.438）
 > - 学校正在被迫用家长捐款和筹款来填补国家撤出留下的空缺——这在拥有不同家长能力的学校之间产生了巨大的不平等
 > - **Heffernan and Pierpoint(2020)** 报告的发现与本论文高度一致——特别建议：更清晰的角色定义、更多样化的福祉项目、持续的定制专业发展、更多部门层面的关注以吸引和留住校长
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “市场的概念……在成人经验的其他领域也算不上太好，但它们对儿童来说是有毒的——因为让一个儿童存在于一个有赢家/输家的市场和等级制度中的感觉，绝对与我们对大家希望年轻人得到什么的理解背道而驰。”
 > ("the notion of markets [is] not … terrific in other domains of adult experience but they are toxic for children — because the sense of a child existing in a market and hierarchy with winners/losers is absolutely antithetical to our understanding of what everyone wants for our young")（Edward, union, NSW, p.437）
 >
@@ -124,9 +112,7 @@ citation_aliases:
 > > “只要这些[市场]要求在这种治理中占主导地位，我们公共教育系统内就将继续存在‘目标置换’……以及对伦理实践的妥协”
 > ("as long as these [market] imperatives are dominant in such governance, there will continue to be 'goal displacement' … and a compromising of ethical practice within our public education systems")(p.442-443)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > 论文自身承认的局限：
 > - 样本不能代表所有观点（在澳大利亚四个不同州的复杂政策历史中这是不可能的）
 > - 呈现的观点是部分的——将在项目第二年通过后续[[Case Study\|案例研究]]进一步探索

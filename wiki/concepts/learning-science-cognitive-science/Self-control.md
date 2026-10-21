@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Self-control
@@ -220,9 +220,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s–1980s — 延迟满足实验与特质论确立** Mischel 等人通过经典“棉花糖实验”确立了延迟满足（Delay of Gratification）[[Paradigm\|范式]]，将自我控制确立为预测个体一生学业、社交与健康的关键人格心理特质。
 > - **1990s — 习得性资源感与认知应对模型** Rosenbaum (1990) 提出自我控制理论（Theory of Self-control），将自控从不可改变的意志力特质重构为个体习得的内部自我调控技能库（Learned Resourcefulness）。
 > - **2000s — 认知神经科学与[[Executive Function\|执行功能]]整合** 认知心理学将自我控制锚定在大脑[[Prefrontal Cortex\|前额叶皮层]]的执行功能三元结构中（[[Inhibitory Control\|反应抑制]]、[[Working Memory\|工作记忆]]更新、[[Cognitive Shifting\|任务切换]]），提供了微观神经生物学机制。
@@ -277,9 +275,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）2014 年起将评价范围拓展至自我控制与韧性等非学业产出（Non-attainment outcomes），并揭示非认知测量工具的信效度赤字与 [[Social-Emotional Learning\|SEL]] 实践指南演化。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 引用 Kennett 等（2008）的[[Mixed Methods Research\|混合方法研究]]，说明 Rosenbaum 自我控制理论与习得性资源感如何支持行为自我管理，并引述 Lekhal（2015）的性别差异证据。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 汇总 Hattie 教学策略[[Meta-analysis|元分析]]数据，指出孤立的课外干扰自我控制其学业[[Effect Size|效应量]]仅为 =0.04$，实证印证了自控力必须与教学情境及外部支持协同方能发挥效能。
@@ -288,9 +284,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

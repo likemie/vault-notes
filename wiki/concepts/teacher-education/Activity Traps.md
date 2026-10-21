@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Activity Traps
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 活动陷阱 | [[Professional Learning Community\|专业学习共同体]] | [[School Enquiry Cycle\|学校探究循环]] |
 > |------|--------|----------------|----------------|
 > | 分析对象 | 协作活动的缺陷形态 | 协作学习的组织形态 | 探究的规范化步骤 |
@@ -168,9 +166,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2013 — 概念提出** Katz 与 Dack 在讨论 [[Professional Learning Community\|PLC]] 的认知质量时提出 activity traps，指出协作活动中探究环节的系统性缺失。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130–131)]]
 > - **2018 — 进入实证诊断** Brown 与 Greany 以“学校经常讨论影响关键决策的潜在假设”一题的应答分布作为活动陷阱的风险信号，指出仅 55% 的教师同意或非常同意，从而把概念转化为可用[[Questionnaire\|问卷]]识别的学校层面指标。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–131)]]
 > - **2018 — 与问责体制关联** 概念被进一步放入英格兰考试本位问责与教育标准局督导的制度背景中，用以解释为何改进压力最大的学校反而最难形成真正的探究。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 131)]]
@@ -206,16 +202,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 引入 Katz 与 Dack 的活动陷阱概念解释英格兰小学的协作探究缺陷，以“讨论潜在假设”题项的低同意率作为风险信号，并把成因追溯到问责压力与评价机制缺位。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

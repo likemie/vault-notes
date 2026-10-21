@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Appraisal Theory
@@ -109,9 +109,7 @@ updated: 2026-10-21
 
 ---
 
-## 认识论与方法含义
-
-> [!theory-stance|notitle] [[Epistemology\|认识论]]与方法含义
+> [!theory-stance] [[Epistemology\|认识论]]与方法含义
 > - **[[Ontology\|本体论]]** 情绪不是生理实体，而是以主客体交互的认知关系为前提的心理-社会建构。
 > - **认识论** 反对情绪是外部刺激的直接反射（[[Behaviorism|行为主义]]观），主张通过主观认知评估的逻辑来解释情绪的多样性。
 > - **方法含义** 要求在研究情绪时，不能仅测量生理指标，必须结合[[Coding in Qualitative Research\|质性编码]]、访谈或情境实验来测量个体的评估维度和文化图式。
@@ -127,18 +125,14 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 社会文化情境下的复杂情绪生成、跨文化情感差异、课堂环境中的[[Parental Cognitive and Affective Socialization\|情感社会化]]。
 > - **谨慎使用** 纯粹由低级神经回路驱动的瞬时生理应激反应（如惊吓反射）。
 > - **不适合解释** 无意识或完全不涉及概念中介的病理性情感障碍。
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1986 — Frijda (The Emotions)** 提出认知评估在情绪生成中的核心地位。
 > - **1992 — Mesquita & Frijda (Psychological Bulletin)** 将文化维度全面引入情绪的七个生成阶段，建立文化情绪心理学[[Analytic Framework\|分析框架]]。
 > - **2012 — 教育研究应用 ([[Argument_Li_2012_Cambridge\|Li, 2012]])** Li 将该理论引入对中西家庭母子互动和[[Parental Cognitive and Affective Socialization\|情感社会化]]的对比分析中。
@@ -153,14 +147,10 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 通过对母子对话进行[[Discourse Analysis\|话语分析]]，使用该理论论证中西文化在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]中如何全面塑造情绪生成的各阶段。
 
 ---
 
-## 应用领域
-
-> [!case|notitle] 应用领域索引
+> [!case] 应用领域索引
 > - [[Mother-Child Conversation]] / [[MCC Discourse Analysis Examples]] — 在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]和母子[[Discourse|话语]]研究中，作为解释情感对话如何传递文化评估规则的理论基础。

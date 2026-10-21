@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Winston Churchill
@@ -54,9 +54,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1874** 出生于英国牛津郡伍德斯托克布莱尼姆宫。
 > - **1895–1900** 毕业于桑赫斯特皇家军事学院，作为战地记者与军官参与多次战事。
 > - **1900–1964** 当选英国下议院议员，历任海军大臣、军需大臣、财政大臣等职。

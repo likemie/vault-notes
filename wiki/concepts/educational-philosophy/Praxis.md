@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Praxis
@@ -201,9 +201,7 @@ updated: 2026-10-17
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:---------|

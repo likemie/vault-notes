@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sedentarism
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 定居主义（Sedentarism） | [[Temporalization of Space\|空间的时间化]]（Temporalization of Space） | [[Spatial Governmentality\|空间治理术]]（Spatial Governmentality） |
 > |------|------------------------|----------------------------------------------------|---------------------------------------------------|
 > | 关注核心 | 静止与移动的道德高下判断 | 地理空间差异与文明演进时间的单向折算 | 权力通过划界、调查与质地建模控制人口的技术体系 |
@@ -139,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **启蒙时期至19世纪 — 帝国地理扩张与定居文明论** 欧洲殖民国家将农业定居与城镇建设界定为脱离野蛮状态的唯一标志，非定居部族被剥夺土地产权与自主地位。
 > - **1990年代 — 空间转向与人类学[[Epistemology|认识论]]反思** James Clifford（1997）等学者对人类学[[Fieldwork|田野工作]]中的定居主义预设提出系统批判，指出文化并非根植于封闭土壤的树木，而是在迁徙路线上不断翻译生成的复杂网络。
 > - **2009年 — 教育政策与学校空间批判** Sobe 与 Fischer 将定居主义批判引入比较教育，解构学校作为定居机器在面对全球化人口流动时的排斥性机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
@@ -174,7 +170,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 结合欧美政策对比及亚欧非多国案例，系统批判现代教育体制中的定居主义意识形态及其对[[Migrant Children|流动儿童]]的制度排斥。

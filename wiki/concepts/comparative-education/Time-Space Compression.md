@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Time-Space Compression
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 时空压缩（Time-Space Compression） | 传统世界体系分析（[[World-Systems Theory]]） | 多标度治理（[[Pluri-Scalar Governance]]） |
 > |---|---|---|---|
 > | **[[Ontology\|本体论]]基底** | 技术加速与资本周转的时间物理学重构 | 500 年资本主义世界经济的长时段与等级地理 | 空间尺度（超国家/国家/次国家）与治理维度的矩阵 |
@@ -150,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1989 年 — 理论奠基** 大卫·哈维在《后现代的状况》（*The Condition of Postmodernity*）中系统阐释时空压缩概念，将其定位为晚期资本主义弹性积累的核心地理特征。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 > - **1990 年代 — 全球化理论核心支柱** [[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）与[[David Held|戴维·赫尔德]]（David Held）等社会学家将时空压缩与时空延伸（time-space distanciation）确立为全球化宏观理论的核心支柱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 > - **2000 年代 — 引入比较教育政治经济学** [[Robert Arnove|阿诺夫]]等人将时空压缩概念引入比较教育学，用以界定全球化相较于传统[[World-Systems Theory|世界体系理论]]的质性转变，并解释[[Virtual University|虚拟大学]]、跨国劳动力重组与[[Globalization from Below|自下而上的全球化]]抗争。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107, 112–114)]]
@@ -170,7 +166,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用时空压缩概念辨析全球化与[[World-Systems Theory|世界体系分析]]的理论边界，阐释跨国教育网络化与自下而上全球化抗争的生成机制。

@@ -47,7 +47,7 @@ sources:
 part_of:
 status: draft
 created: '2026-06-26'
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dezhina_2022_ECO"
@@ -269,9 +269,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - 缺乏俄罗斯人才外流的官方直接统计数据，主要依赖[[National Science Foundation\|美国国家科学基金会]]等外部间接数据，可能存在样本统计覆盖面的局限。（pp.39–40）
 > - 仅对自足政策 and 国际合作管制的宏观案例进行了系统展现，尚未针对具体学科（如高能物理学与军事双重用途学科）划分出差异化的实证数据对比。（p.49）
 

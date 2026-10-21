@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Descriptive Methods
@@ -71,32 +71,24 @@ updated: 2026-10-15
 
 ---
 
-## 方法变体与相近方法
-
-> [!tip|notitle]
+> [!tip] 方法变体与相近方法
 > - vs [[Analytic Framework\|分析框架]] — 描述性方法是基础性方法，使用参与者日常语言；分析框架在此基础上叠加特定的解释传统（analytic tradition），超越日常语言进行解释（Braun & Clark, 2006, p.78）。描述性方法不因"基础性"而在价值或可[[Reliability\|信度]]上低于分析框架
 > - vs [[Grounded Theory\|扎根理论]] — 扎根理论的目标是生成抽象理论，有系统的多阶段编码程序（[[Open Coding\|开放编码]]→[[Axial Coding\|轴心编码]]→[[Selective Coding\|选择性编码]]）；描述性方法的目标是分类和呈现主题本身
 > - vs [[Phenomenology\|现象学]] — 现象学聚焦于体验的本质结构；描述性方法聚焦于内容的显性主题
 
 ---
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > 描述性方法适用于研究者希望获得对某一现象直截了当的描述时，适合现象本身尚缺乏足够研究积累的探索性阶段，也适合需要向实践者清晰传达参与者经验的应用性研究。
 
 ---
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > 描述性方法可能被认为缺乏理论深度，在追求理论贡献的学术发表中可能面临挑战。但 Creswell & Creswell（2022, Ch9）明确指出，这并不意味着描述性方法比使用[[Analytic Framework\|分析框架]]的方法价值更低或可[[Reliability\|信度]]更弱——两种路径服务于不同的[[Research Purpose\|研究目的]]。
 
 ---
 
-## 使用此方法的研究
-
-> [!example|notitle]
+> [!example] 使用此方法的研究
 > - Creswell & Creswell（2022, Ch9）将描述性方法作为第 9 章的核心方法框架，介绍了从编码到主题分析再到[[Story Line\|故事线]]发展的完整流程
 
 ---

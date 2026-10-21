@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Robert Arnove
@@ -105,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1938** 出生于美国。
 > - **1960–1969** 先后在密歇根大学、塔夫茨大学弗莱彻法律与外交学院及斯坦福大学深造，在斯坦福大学师从[[John W. Meyer|约翰·迈耶]]（John W. Meyer）等学者，获得[[Development Education|国际发展教育]]博士学位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 102)]]
 > - **1960 年代中期** 作为福特基金会教育顾问常驻哥伦比亚，深入参与拉美高等教育与基础教育改革评估，亲身体验到跨国资本援助[[Discourse|话语]]与本土实际需求的严重脱节。
@@ -186,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与学术渊源** [[John W. Meyer|约翰·迈耶]]（早期博士导师，后形成批判性[[Paradigm|范式]]对峙）；[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[World-Systems Theory|世界体系分析]]理论基石来源）；[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire，拉美被压迫者教育学与[[Popular Education|民众教育]]先驱）。
 > - **核心学术合作者** [[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（长期联合主编《比较教育：[[Dialectic of the Global and the Local|全球与本土的辩证法]]》权威教材）；玛格丽特·萨顿（Margaret Sutton，合作主编《[[Shadow State|影子国家]]》解构非政府组织）。
 > - **学术盟友与对话者** [[Martin Carnoy|马丁·卡诺伊]]、[[Michael W. Apple|迈克尔·阿普尔]]（共享政治经济学批判视阈）；新制度主义学派（Francisco O. Ramirez, John Boli 等，展开世纪范式辩论）。
@@ -222,9 +218,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

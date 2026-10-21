@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Armand Hammer United World College of the American West
 
@@ -120,9 +120,7 @@ updated: 2026-10-16
 > [!case] 山地救援不是复制大西洋学院的海上活动，而是回应当地地理条件
 > 大西洋学院以近岸救生和海岸警卫活动连接学生训练与地方需要；美国西部书院则在山地环境中开展救援。两者共享真实责任和团队协作的教育逻辑，活动形式却由区域地理与公共需要决定。这正是 [[United World Colleges|UWC]] 成员校可以保持共同使命而不复制单一活动清单的例子。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 184–185)]]
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | 组织 | 该校是 UWC 在美国的快速创校案例。 |

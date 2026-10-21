@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # James Mahoney
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1968** 出生于美国。
 > - **1997** 于加州大学伯克利分校（University of California, Berkeley）获得政治学博士学位，受教于戴维·科利尔（David Collier）等定性方法大家。
 > - **2000** 发表里程碑论文《历史社会学中的[[Path Dependence|路径依赖]]》（*Path Dependence in Historical Sociology*），系统区分自我强化序列与反应序列，奠定现代路径依赖因果分析标准。
@@ -134,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 彻底打破[[Historical Institutionalism|历史制度主义]]与理性选择学派对制度刚性稳态的静态假设，将制度研究由外生断裂解释转向内生渐进演进；系统深化[[Path Dependence|路径依赖]]机制的因果微观基础。
 > - **方法路径** 奠定比较历史分析（CHA）的现代学术规范，为社会科学中处理小样本、长时段、复杂[[Causality|因果关系]]（如多因并发、必要[[Necessary and Sufficient Conditions|充分条件]]、路径依赖）提供了标准化的分析语法与检验技术。
 > - **政策路径** 为后殖民国家国家能力建设、宪政体制演化与福利政策改革提供了长历史周期的因果评估视角，揭示忽视历史路径锁定与执行裁量空间的激进立法为何频频失效。
@@ -144,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen） — 核心理论合作者，共同创立[[Theory of Gradual Institutional Change|渐进制度变迁理论]]与行动者类型学；迪特里希·吕施迈耶（Dietrich Rueschemeyer） — 合作编著奠立比较历史分析学科地位；加里·戈茨（Gary Goertz） — 合作系统阐释定性与定量“两种文化”；戴维·科利尔（David Collier） — 伯克利学派导师，深化概念界定与比较研究逻辑。
 > - **理论对话者** [[Theda Skocpol|西达·斯考切波]]（Theda Skocpol）与[[Paul Pierson|保罗·皮尔逊]]（Paul Pierson） — 共同推进[[Historical Institutionalism|历史制度主义]]与[[Path Dependence|路径依赖]]因果分析；[[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与[[Peter A. Hall|彼得·霍尔]]（Peter Hall） — 在比较资本主义与制度变迁动力学领域展开多重学术交锋。
 > - **学术论敌／批评者** 传统计量政治学者与新古典制度经济学者 — 质疑小样本比较历史分析与布尔代数集合论方法的经验稳健性，马奥尼通过建立严密的因果图式与机制追踪予以系统辩护。
@@ -171,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -192,7 +184,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，系统界定置换、层叠、漂移与转换四类演进模式及四类微观变革行动者类型学。

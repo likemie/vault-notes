@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,34 +25,30 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Praxis]]"
-  - "[[Learning Gain]]"
-  - "[[Higher-Order Thinking Skills]]"
-  - "[[Critical Thinking]]"
-  - "[[International Education]]"
   - "[[Test-Based Accountability]]"
   - "[[National Large-Scale Assessments]]"
-  - "[[Performance Indicators]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Critical Thinking]]"
 related_theories:
   - "[[Policy Instrumentation Theory]]"
-  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Item Response Theory]]"
 related_instruments:
-  - "[[ETS Proficiency Profile]]"
   - "[[ETS HEIghten Critical Thinking Assessment]]"
+  - "[[ETS Proficiency Profile]]"
   - "[[Test of Teaching Knowledge]]"
 related_persons: []
 related_facts:
+  - "[[InTASC Standards]]"
   - "[[American Council on Education]]"
   - "[[Voluntary System of Accountability]]"
-  - "[[InTASC Standards]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: draft
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Educational Testing Service
@@ -157,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -177,8 +171,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统记录经合组织调查中 ETS 研发的 EPP、HEIghten 批判性思维测评以及 TTK 教师专业知识情境化测验的技术规程与国际应用。（pp. 17–25）
 > - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 结合政策工具社会学分析指出，ETS 等第三方测验生产集团构成了推动测试规制持续扩张与高利害问责制度锁定的核心政治经济利益群体。（pp. 252, 260）

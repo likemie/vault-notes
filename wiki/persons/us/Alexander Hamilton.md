@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alexander Hamilton
@@ -52,9 +52,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1755** 出生于英属西印度群岛尼维斯。
 > - **1776–1783** 参加美国独立战争，任乔治·华盛顿中校副官。
 > - **1787–1788** 参与起草并推动批准美国宪法，主笔《联邦党人文集》（*The Federalist Papers*）。
@@ -102,18 +100,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想继承者** [[Friedrich List]] — 李斯特在美期间深受其《制造业报告》启发，将其升华发展为生产力与[[National Innovation System|国家创新系统]]学说。
 > - **政治与理论论敌** 托马斯·杰斐逊（Thomas Jefferson） — 杰斐逊主张自耕农农业共和国，汉密尔顿力主发展现代化商业与重工业国家体系。
 > - **理论批判对象** 亚当·斯密（Adam Smith） — 汉密尔顿《制造业报告》直接针对《国富论》的绝对自由放任论调，力辩后发国家产业保护的合法性。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

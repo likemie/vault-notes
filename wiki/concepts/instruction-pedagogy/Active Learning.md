@@ -72,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Active Learning
@@ -169,9 +169,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **20 世纪初 — [[Pragmatic Paradigm\|实用主义]]与[[Progressive Education\|进步教育]]奠基** [[John Dewey\|约翰·杜威]]提出“[[Learning by Doing\|从做中学]]（Learning by doing）”与[[Democratic Education\|民主教育]]，批判传统学校的静听模式，确立活动与经验在学习中的核心地位。
 > - **1970 年代 — [[Critical Pedagogy\|批判教育学]]与[[Problem-Posing Education\|提问式教育]]重构** [[Paulo Freire\|保罗·弗莱雷]]在《被压迫者教育学》中提出“提问式教育”，以民主对话和[[Conscientization\|批判意识觉醒]]彻底颠覆“[[Banking Model of Education\|储蓄式教育]]”。
 > - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]与认知科学转向** 建构主义心理学将主动学习解释为学习者主动将新知识同化与顺应进认知图式的内部加工过程。
@@ -224,9 +222,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念与网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念与网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -239,9 +235,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 融合[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]思想，提出主动学习的三维课程模型，系统解析[[Critical Thinking\|批判性思维]]、对话与实践生长的内在机理。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 从循证改革与[[Counterfactual\|反事实]]检验视角，深度反思抽象主动学习原则的实践失效，倡导向经验证的具体课程方案转型。
 > - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 探讨主动参与作为[[Effective Teaching\|有效教学]]基本质量在北欧情境下的表现及其受社会背景的调节。

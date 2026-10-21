@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Perry Link
@@ -57,9 +57,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1944** 出生于美国纽约州伊萨卡，早年在哈佛大学获得学士学位（1966 年），后于哈佛大学获得东亚语言与文化博士学位（1976 年）。
 > - **1973–1977** 任教于普林斯顿大学，任东亚研究助理教授。
 > - **1977–1989** 任加州大学洛杉矶分校（UCLA）东亚语言文化系教授。
@@ -87,24 +85,18 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政治学与言论自由研究** “[[Anaconda in the Chandelier|吊灯里的巨蟒]]”成为分析威权治理与隐性审查机制最著名的分析范畴之一。
 > - **高等教育文化批判** 为批判西方当代大学微观语言审查、学生蒙面抗议与缺乏信念勇气的现象提供了强有力的心理学隐喻。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论对话与应用者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中借用其“[[Anaconda in the Chandelier|吊灯巨蟒]]”理论模型，剖析西方顶尖高校与企业管理层的自我审查与信念空洞化。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

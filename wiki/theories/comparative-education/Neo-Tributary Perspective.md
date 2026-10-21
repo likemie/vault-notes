@@ -60,7 +60,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Neo-Tributary Perspective
@@ -97,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -154,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 中国与周边在历史上存在朝贡或朝贡渊源的邻国（特别是东南亚、中亚地区）之间由政府主导、高层倡议驱动的高教交流项目。
 > - **成立条件** 双方存在显著的经济、科技与规模不对称性，且母国政府具备集中动员和调配跨国高教资源的财政与行政能力。
 > - **解释不足** 忽视了周边较小国家在非对称关系中的能动性与策略性顺应（如小国利用大国外交需要获取自身发展资源）；对中国与全球北方发达国家之间的高教互动解释力有限。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1050, 1054)]]
@@ -186,7 +182,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用定性[[Case Study|案例研究]]审视中柬高教拓展实践，系统评估新朝贡[[Analytic Framework|分析框架]]的解释效力，提出文化认同与[[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]等理论修正。

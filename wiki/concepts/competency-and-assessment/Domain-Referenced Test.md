@@ -24,7 +24,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Domain-Referenced Test
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1994 — 领域参照的扩展** Gipps (1994) 把领域参照视为[[Criterion-Referenced Test\|标准参照]]的延伸，进一步强调对内容全域作出详细规定，并通过代表性抽样支持从题目到全域的推断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]
 
 ---
@@ -87,7 +85,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011)]] — 说明领域参照测验的全域界定、代表性抽样和比例推断逻辑。

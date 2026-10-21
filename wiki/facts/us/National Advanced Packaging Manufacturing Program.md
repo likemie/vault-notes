@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # National Advanced Packaging Manufacturing Program
@@ -169,9 +169,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -186,8 +184,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐述国家先进封装制造计划（NAPMP）的战略愿景，解析其与 [[National Science and Technology Council|NSTC]] 及[[Microelectronics Commons|微电子共用体]]协同攻克[[Heterogeneous Integration|异构集成]]中试断层的运行机制。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子研究国家战略，将先进封装与异构集成确立为战略目标 1 的核心支柱，系统规划[[Process Design Kit|装配设计套件]]（[[Process Design Kit|ADK]]）与 300 毫米先进封装[[Pilot Scale Platform|中试平台]]。

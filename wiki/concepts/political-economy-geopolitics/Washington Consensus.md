@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Washington Consensus
@@ -191,9 +191,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1989 — 威廉姆森十项原则确立** 约翰·威廉姆森首次系统提炼华盛顿共识十项基本准则，旨在为深陷[[Latin American Debt Crisis of 1982|拉美债务危机]]与恶性通胀的国家开出稳健财政与市场化解药。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
 > - **1990s — 激进全球扩张与意识形态泛化** [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 将其全面嵌入跨国主权借贷附加条件，在后冷战转型国家与全球南方推行结构调整；在教育领域演化为削减师资编制、引入使用者收费与私有化竞争，招致广泛社会抵制与学术批判。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 > - **1990s末–2000s初 — 危机反思与“后华盛顿共识”[[Emergence|涌现]]** 伴随 1997 年亚洲金融危机与拉美改革阵痛，约瑟夫·斯蒂格利茨（Joseph Stiglitz）等前行内首席经济学家发起深刻批判；多边机构开始修正单一市场化路线，将社会保障网、贫困脆弱性评估与善治制度建设纳入考量。
@@ -229,9 +227,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 考证华盛顿共识的本源含义，详述其在[[World Bank|世界银行]]教育放贷中延伸出的九大操作信条，并剖析官员在项目谈判中的形式主义合规现象（pp. 459–460）。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 运用批判国家理论剖析华盛顿共识指导下的[[Structural Adjustment Programs|结构调整方案]]如何剥夺拉美外围[[State Educational Sovereignty|国家教育主权]]并加剧阶级分轨（pp. 79–85）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]揭示华盛顿共识指导下的教育援助如何固化依附格局并催生去政治化“[[Shadow State|影子国家]]”（pp. 105–107）。

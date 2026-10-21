@@ -56,7 +56,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mission-Oriented Research
@@ -193,8 +193,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析 2025 年美国科技政策转向与未来科研格局演进，指出任务导向型研究正在国家竞争与产业目标驱动下迅速扩张，重塑了科研资源分配机制与政府直接干预模式。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]] — 剖析二战与冷战时期任务导向型国家研发动员如何直接孕育早期硅谷与计算技术，论证面向 AI 战争时代重塑国家与科技产业任务同盟的紧迫性。

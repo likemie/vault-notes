@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Performativity
@@ -206,9 +206,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 结合 Castells 的网络理论，分析了操演性原则作为驱动全球教育组织[[Discourse|话语]]生产与临时联盟的底层逻辑。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 揭露可见学习商业体系如何依托新泰勒制清单与 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件，在课堂一线诱发白板打卡等表演性危机。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学视角解构可见学习对量化结果的数据成瘾与教师的[[Ontology|本体论]]不安全感。

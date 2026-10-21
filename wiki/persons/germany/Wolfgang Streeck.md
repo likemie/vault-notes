@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Wolfgang Streeck
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1946** 出生于德国兰斯巴赫（Lollar）。
 > - **1972** 于法兰克福大学获社会学学位，深受法兰克福学派批判社会理论熏陶。
 > - **1980** 于比勒费尔德大学获社会学博士学位。
@@ -138,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心理论合作者** [[Kathleen Thelen]] — 2005 年合编出版《制度变迁的超越》，共同奠定渐进变迁形态学基石。
 > - **理论同行与吸收者** [[James Mahoney]] — 将施特雷克与希伦的形态学整合入双维解释矩阵与微观行动者模型。
 > - **学术对话者** [[Peter A. Hall]] — 就[[Varieties of Capitalism|资本主义多样性]]（VoC）的[[Institutional Complementarity|制度互补性]]假设与[[Liberalization|自由化]]演进动力开展长期学术交锋。
@@ -167,9 +163,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 为渐进变迁理论提供五分形态学（置换/层叠/漂移/转换/耗竭）与“规则设计与践行脱节”的元理论基石。 |

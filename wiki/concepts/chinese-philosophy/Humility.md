@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Humility in Learning
@@ -48,9 +48,7 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **谦逊 vs 低自尊** 二者本质上不同。谦逊是一种内在力量，使人能够准确审视自身不足并寻求改进；低自尊则是对自身价值的负面评价。研究反复发现东亚学习者在自尊量表上得分偏低但[[Academic Achievement\|学业成就]]偏高——这一"悖论"可能源于测量工具将谦逊误判为低自尊([[Argument_Li_2012_Cambridge\|Li, 2012, p.80 注释]])。
 
 **谦逊 vs 谦虚（modesty）** Tangney 等学者区分了这两个概念——谦逊是个人内在力量，谦虚更多涉及外在表现（如着装、性别相关行为）。但跨文化研究中，东亚谦虚偏向（modesty bias）与西方自我增强偏向（self-enhancing bias）的文献常将二者混用([[Argument_Li_2012_Cambridge|Li, 2012, p.80 注释]])。
@@ -84,9 +82,7 @@ Heyman 等人的研究发现：中国学童愿意向所有成绩水平的同伴�
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > Li 的模范学习者研究中，54% 的中国受访者在描述模范学习者面对高成就的反应时提到了谦逊（相比之下，仅 16% 的欧裔美国受访者这样做）。只有 5% 的中国受访者提到感到[[Pride in Learning\|骄傲]]；22% 的人特别指出模范学习者不会感到骄傲/自满（而不骄傲/不自滿），尽管他们确实感到快乐。这与 53% 的欧裔美国受访者提到骄傲形成鲜明对比([[Argument_Li_2012_Cambridge\|Li, 2012, p.75–76, 80]])。
 
 此外，62% 的中国受访者写道：模范学习者在不懂学习材料时，会"虚心请教"他人；相比之下，仅有 10% 的欧裔美国受访者提到类似行为([[Argument_Li_2012_Cambridge|Li, 2012, p.80]])。

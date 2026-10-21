@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sunset Provisions
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 日落条款机制（Sunset Provisions） | 传统基准常态拨款（Base Funding） | 阶段性项目结项（Grant Completion） |
 > |------|-----------------------------------|----------------------------------|------------------------------------|
 > | 资助周期 | 预设刚性上限（如 5+5 年共 10 年） | 永久或无明确截止期限的长效支持 | 依课题执行期（通常 1–3 年）结束 |
@@ -141,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 年代 — 公共立法与行政法起源** 日落法（Sunset Laws）在美国科罗拉多州等地方立法中首创，用于定期审查并自动废除无效率的政府行政机构。
 > - **1984 年 — 引入联邦[[Big Science|大科学]]科研资助** [[National Science Foundation|NSF]] 在创立[[Engineering Research Centers|工程研究中心]]（ERC）时首次将日落条款系统应用于高校实体中心资助，设立 10 年刚性生命周期上限。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 374)]]
 > - **1987 年至今 — 跨学科中心资助的标准工具** 推广至[[Science and Technology Centers|科学技术中心]]（STC）、纳米中心（NSEC）及英国、爱尔兰等国国家科研资助体系，成为现代国家科技治理的核心工具。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
@@ -176,16 +172,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 通过对布洛赫的口述访谈与 [[Engineering Research Centers|ERC]] 历史数据，系统阐释了日落条款在防范机构膨胀与推动中心自给自足中的治理逻辑。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -53,7 +53,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Learner-Centred Education
@@ -82,9 +82,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 以学生为中心教育（LCE） | 教师主导教学法（Teacher-Led Pedagogy） | [[Constructivist Paradigm\|建构主义教学]] |
 > |---|---|---|---|
 > | **分析对象** | 以学生为主体、强调自主与对话的整体教学[[Paradigm\|范式]] | 以教师为知识权威和控制核心的讲授范式 | 关注学习者主观知识建构过程的[[Epistemology\|认识论]]与教学法 |
@@ -168,9 +166,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2013 — 最低实施标准与全球脉络提炼** Schweisfurth 系统提出 LCE 的 7 项最低实施标准，分析其在全球教育改革中的广泛传播与本土落地的复杂性。
 > - **2015 — [[Policy Borrowing\|政策借用]]与 POST-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
 > - **2019 — 中国双轨制改革张力** You 揭示了中国在推进[[Quality Education\|素质教育]]中，LCE [[Discourse|话语]]与[[Examination-Oriented Education\|应试教育]]实质并存的双轨张力。
@@ -215,7 +211,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability\|考试问责]]与教学改革的扩展性改造。

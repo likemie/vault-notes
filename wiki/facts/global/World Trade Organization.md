@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # World Trade Organization
@@ -171,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -189,9 +187,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合戴尔等人[[Pluri-Scalar Governance|多标度治理]]模型，深刻揭示 WTO/[[GATS and Trade in Education Services|GATS]] 规则对民族[[State Educational Sovereignty|国家教育主权]]的冲击以及中心大国与边缘小国之间的不对称自主权鸿沟（pp. 110–111）。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 系统阐明 WTO 与 GATS 框架如何将高等教育重塑为可交易商品，分析其[[Discourse|话语]]效应如何将新自由主义教育议程制度化为全球[[Doxa|不言自明]]的共识（pp. 97–98）。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 考察美欧芯片产业政策与[[Geopolitics|地缘政治]]转变，揭示 2019 年前[[EU|欧盟]]对 WTO 多边贸易解决方案的依赖如何被中美大国补贴竞赛击溃，最终倒逼欧洲突破多边框架转向产业政策干预（p. 8）。

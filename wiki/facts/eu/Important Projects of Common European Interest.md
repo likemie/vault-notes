@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Important Projects of Common European Interest
@@ -148,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关联与理论作用 |
 > |:---|:---|:---|
@@ -163,8 +161,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 深度解构[[EU|欧盟]]微电子与通信技术重大项目（IPCEI ME/CT）的治理架构、出资机制与利润回缴条款，剖析欧委会作为[[Orchestrator State|产业政策协调者]]的制度局限与单一市场分裂风险。
 

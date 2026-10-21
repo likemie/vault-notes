@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # William Blackstone
@@ -55,9 +55,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1723** 出生于英国伦敦。
 > - **1738** 进入牛津大学彭布罗克学院修读法律与古典文学。
 > - **1746** 取得律师资格，进入中殿律师学院执业。
@@ -89,25 +87,19 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **宪政法治与刑事诉讼** 《英国法释义》被美国开国元勋（如约翰·亚当斯、[[Alexander Hamilton|亚历山大·汉密尔顿]]）奉为圭臬，直接形塑了美国宪法第五和第六修正案的权利保护架构。
 > - **科技伦理与现代执法** “[[Blackstone's Ratio|布莱克斯通比率]]”成为当代在执法领域引入人脸识别、算法分析、[[Predictive Policing|预测性警务]]与步态识别等前沿技术时，评估算法假阳性（[[Type I and Type II Errors|false positive]]）与误判容忍度的核心理论标尺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想共鸣者** 伏尔泰（Voltaire） — 伏尔泰在 1749 年《查第格》中主张“宁放两人不可冤一无辜”，与布莱克斯通共同构建了启蒙时代对司法误判的审慎传统。
 > - **引用与评述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第15章引述其法理名言以剖析刑事执法中技术应用、错误容忍度与公共安全救济之间的深层张力。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

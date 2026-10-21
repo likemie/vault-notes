@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: completed
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Critic and Conscience of Society
@@ -163,9 +163,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1988 — 格雷斯正式提出概念原型** 在新西兰高等教育改革背景下，格雷斯提出大学应当承担社会的独立批评者与良知角色，防范政治与意识形态殖民。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
 > - **1989 — 载入霍克报告** 加里·霍克（Gary Hawke）主持的《[[Learning for Life Report|为生活而学习报告]]》（*Learning for Life*）采纳该概念，将其作为界定大学本质特征的关键条款。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **1989–1990 — 新西兰《教育法》法定化** 新西兰国会通过《1989 年教育法》（*Education Act 1989*，第 162 条），正式以立法形式确立大学具有“承担社会的批评者与良知角色”的法定特征。
@@ -189,9 +187,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 回溯概念提出与立法历程，界定社会的批评者与良知的法定规范，批评[[Educational Reductionism|教育还原主义]]对政策治理责任的掩盖。
 > - [[Argument_Hattie_2017_SLM|Hattie (2017)]] — 援引该法定概念与[[Edward Said|萨义德]]知识分子论，论证学术公开批评与[[Reflexivity|反思性]]教学属于履行良知角色的常规实践。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从[[Critical Theory|批判理论]]视角审视教育领军学者的学术实践，探讨[[Cult of the Guru|大师崇拜]]与学术公共批评之间的冲突。

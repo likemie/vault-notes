@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # International Baccalaureate Applied Chemistry Course
@@ -108,9 +108,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International School of Geneva]] | Fact / organization | 课程的校本开发机构 |

@@ -11,7 +11,7 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_persons:
   - "[[Jianwei Zhang]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -83,12 +84,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
-  - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Zhang_2022_SE]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rich and Thick Description
@@ -271,9 +272,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 20–21)]] — 以草莓事件对比 [[Flanders Interaction Analysis Categories|FIAC]] 编码与深描的价值；其[[Epistemology|认识论]]根基见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Ch. 11]]，操作构件见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]，分析法则见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Ch. 28]]。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9, p. 213)]] — 将深描定位为核心[[Qualitative Validity|质性效度]]策略，论证其在提供现场传达感与支撑概括性判断中的操作要点。
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 在[[Design-Based Research|基于设计的研究]]中运用[[Interactional Ethnography|互动民族志]]深描（[[Transcription in Qualitative Research|转录]]对话、事件地图与典型案例追踪），生动还原小学生自主攻克眼球与大脑连接机制及跨组协作的微观历程。

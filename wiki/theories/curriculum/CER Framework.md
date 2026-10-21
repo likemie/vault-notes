@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # CER Framework
@@ -69,9 +69,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -120,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 基础教育中低学段入门级探究任务、受控良构实验（Well-structured experiments）结果的口头汇报与书面报告。
 > - **不适合解释** 面对现实复杂社会性科学议题（如气候变化、疫苗犹豫、基因编辑）中海量、冲突与含混证据的真实科学裁决。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204)]]
 > - **常见误用** 极易退化为机械填空套路（Fill-in-the-blank）；学生学会了在格式上塞满数据与词汇，却缺乏对证据生成方法与因果因子的实质理解。
@@ -137,7 +133,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 批判以 CER 框架和 [[Toulmin's Argumentation Model\|TAP]] 为代表的结构主义评价传统，揭示其对伪科学论证的盲区，提出基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型统合[[Epistemic Ideals\|认识论理想]]与可靠认识过程的实质论证评价框架。

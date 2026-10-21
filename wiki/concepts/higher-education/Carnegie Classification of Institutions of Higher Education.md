@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Carnegie Classification of Institutions of Higher Education
@@ -54,9 +54,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 卡内基高等教育机构分类 | 商业化大学学术排名（如 [[Academic Ranking of World Universities\|ARWU]]/QS） | 欧亚国家教育部法定行政划分 |
 > |------|--------|----------------|----------------|
 > | **制定主体** | 独立非营利教育基金会（卡内基基金会） | 商业媒体机构或个别大学研究中心 | 国家中央教育部或高教主管部委 |
@@ -90,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

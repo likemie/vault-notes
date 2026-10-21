@@ -34,19 +34,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-10-22
 ---
 
 # ICMJE Data Sharing Requirements 2018
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 国际医学期刊编辑委员会（International Committee of Medical Journal Editors, ICMJE）是一组主流医学期刊编辑组成的标准制定机构。2017 年 6 月，ICMJE 发布了两项新要求，于 2018 年正式生效，适用于希望被列入 ICMJE 网站出版物列表的期刊([[Argument_Brock_2025_DataAccessGenerationUse\|Brock, 2025, pp.300–301]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 两项要求的具体内容（ICMJE, 2017, cited in [[Argument_Brock_2025_DataAccessGenerationUse\|Brock, 2025, pp.300–301]]）：
 
 > 1. **[[Clinical Trial\|临床试验]]注册要求** 医学期刊编辑必须要求临床试验在首例患者入组时或之前完成公共临床试验注册，作为考虑发表的前提条件
@@ -62,9 +58,7 @@ updated: 2026-06-04
 > [!note|notitle]
 > 数据共享声明要求则对产学数据条款的起草产生间接影响。声明本身不强制共享，但要求作者说明数据将如何被共享（或不被共享）——这就迫使产学双方在协议中预先约定数据共享的范围、条件和时间窗口，否则研究者在撰写稿件时将无法填写数据共享声明。换言之，ICMJE 要求通过控制发表出口，倒逼了协议入口的条款明确化。
 
-## 相关概念
-
-> [!example|notitle]
+> [!example] 相关概念
 > - [[Clinical Trial]]
 > - [[FAIR Principles]]
 > - [[University-Industry Collaboration]]

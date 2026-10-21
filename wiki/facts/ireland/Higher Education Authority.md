@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Higher Education Authority
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 成为欧洲高等教育区中通过国家战略规划与数据驱动治理实现系统转型的成功范本。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 11, 16)]]
 > - **实践影响** 推动全爱尔兰高校设立教学卓越中心（CTL），全面重塑本科考核与学习成果评价体系。
 > - **知识影响** 树立了宏观教育主管机构通过“信息杠杆与绩效激励”联动撬动微观课堂改革的治理[[Paradigm\|范式]]。

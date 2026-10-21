@@ -7,41 +7,30 @@ aliases:
 summary: "运用社会科学研究方法回答特定政策或项目之有效性、实施与效果的应用研究分支；在分类资助驱动下成为政策议程塑形知识生产的重要载体（Cohen et al., 2011），与探索普遍规律的蓝天研究共享方法论工具但以决策效用为归宿，其结论采纳高度受制于政治契合度与方法学因果证据门槛（Berk, 2011）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/educational-policy-reform
   - method/research-methods
   - topic/evaluation
   - theme/evidence-based-policy
 related_concepts:
-  - "[[Pure Evaluation]]"
   - "[[Curiosity-Driven Research]]"
-  - "[[Reliability]]"
-  - "[[External Validity]]"
-  - "[[Value Neutrality]]"
-  - "[[Variable]]"
-  - "[[Categorical Funding]]"
-  - "[[Research Topic]]"
-  - "[[Knowledge Production]]"
-  - "[[Conformative Evaluation]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Pure Evaluation]]"
   - "[[School Inspection]]"
-  - "[[Randomised Controlled Trial]]"
-  - "[[Causality]]"
 related_arguments:
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Berk_2011_EvalRev]]"
-  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Evaluation Research
@@ -159,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960s–1970s — 大规模社会与教育项目评估兴起** 随着战后福利国家公共项目投入增加，以科尔曼报告（Coleman Report）为代表的大规模社会实验兴起，评估研究确立为应用社会科学的专门分支。
 > - **1987 — 评估政治类型学与地位界定** 麦克唐纳（Barry MacDonald）系统提出专制型、官僚型与民主型三类评估政治架构；史密斯与格拉斯（Smith & Glass）厘清评估研究与价值判断的边界。
 > - **1990s — 分类资助驱动与专业合同工转型** 政府与非政府机构普遍采用分类资助（Categorical Funding）机制，伯吉斯（Burgess, 1993）与诺里斯（Norris, 1990）指出研究者日益转型为合同承接主体，评估研究成为主流科研形态。
@@ -208,8 +195,6 @@ updated: 2026-10-21
 > | Norris (1990, p. 135) | 英国技术与职业教育倡议（TVEI）项目评估情境 | 政策过程追踪与实证案例分析 | 评估成果递交时效与政策决策公布时间差 | 政府对该项目制度化推广的政策决定在正式评估研究报告递交之前即已公布 | 历史案例追踪（引自 Cohen et al., 2011） | 实证呈现评估研究在政治决策实践中遭遇的时间脱节与决策边缘化 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统剖析研究与评估的政治学（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Ch. 3.1]]），论证分类资助如何驱动评估研究扩张并塑造知识生产议程；并探讨教育研究从纯基础理论向应用与评估研究的历史转向及其方法论预设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Ch. 1]]）。

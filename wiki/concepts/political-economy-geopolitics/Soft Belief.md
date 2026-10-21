@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Soft Belief
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 软信念（Soft Belief） | 硬信念（[[Hard Belief]]） | 犬儒主义（Cynicism） |
 > |---|---|---|---|
 > | **代价与风险** | 追求零风险，遇阻即退缩至程序合规与免责声明 | 愿意承受成员流失、职位动摇、公众非议等现实代价 | 认定所有崇高主张都是骗局，拒绝任何代价 |
@@ -174,7 +172,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 开启全书第二部，以高校国会听证会与[[Skokie Free Speech Case|斯科基案]]对比系统阐发[[Hard Belief|硬信念]]与软信念对立（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Ch. 5]]），深度剖析[[Technological Agnosticism|技术不可知论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Ch. 6]]），并反思形式中立与[[Effective Altruism|有效利他主义]]诱发的文化虚无（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。

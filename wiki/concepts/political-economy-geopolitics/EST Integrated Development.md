@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-10-22
 ---
 
 # EST Integrated Development
@@ -81,18 +81,14 @@ updated: 2026-06-12
 
 ---
 
-## 实证发现
-
-> [!finding-cards|notitle]
+> [!finding-cards] 实证发现
 > 1. **整体上升，教育领先** 2001-2022年中国EST整体上升，东部教育增幅（127%）远超科技（62%）和人才（76%）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 69)]]
 > 2. **区域路径分化** 东部以教育为引擎，中部以人才为突破口（+57%），西部以科技为驱动力（+71%）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 69–70)]]
 > 3. **空间格局高度锁定** 80.2%省份-年份观测的空间关联类型保持不变（$SC = 0.849$，$p = 0.089$），科技子系统锁定最强。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 72–73)]]
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **描述性有余[[Causality\|因果性]]不足** 现有EST研究大多停留在综合评价层面，准确描述了"是什么"（空间分异格局、锁定特征），但未能解释"为什么"（驱动机制和因果路径）。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 75)]]
 > - **省级尺度的粗糙性** 省级面板数据掩盖了省内城乡和地市差异，而EST一体化最薄弱的环节可能恰恰在更微观的空间尺度上
 > - **评价指标的选取争议** 不同研究对EST评价指标的侧重不同，可能导致相反的结论——例如Fan等（2024）发现教育处于领先地位，而Huang等（2024）的实证结果认为人才占主导。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 74)]]

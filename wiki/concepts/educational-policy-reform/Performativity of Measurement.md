@@ -64,19 +64,15 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > [[Performativity]] of Measurement（测量的生产性）是指：测量不仅仅是描述世界的中立行为，更是制造世界的生产性行为。measurement 一旦启动，就作用于世界，改变优先事项、影响行为、政策和实践([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.7, 17–18]])。
 >
 > > "As soon as the measurement exercise begins, it acts upon the world, changing priorities and influencing behaviours, policies and practices."([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.7]])
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > - Woolgar (1991a, 1991b) 将 [[Performativity]] 整合进 [[Sociology of Measurement]] 框架([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6–7]])
 > - Pickering (1995) 使用"performativity"概念描述社会技术实践的世界制造特征([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.7]])
 > - Knorr Cetina (1999) 提出[[Knowledge Production\|知识生产]]的"生产性"（productive）特征
@@ -103,17 +99,13 @@ updated: 2026-10-21
 > [!abstract] 对批判实践的意义
 > 如果测量是 productive 而非 descriptive，那么对测量的批判就不仅仅是[[Epistemology\|认识论]]练习，而是政治论和存在论（ontological）的干预，是一种道德事业([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.18]])。
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - vs **[[Sociology of Measurement]]** — Sociology of Measurement 包含 instrumentalism 和 [[Performativity]] 两个维度；Performativity 是其生产性/世界制造维度
 > - vs **Representationalism（再现论）** — 再现论认为测量的作用是准确描述或代表现实；performativity 立场认为测量制造现实
 > - vs **Bias / Inaccuracy（偏差 / 不准确）** — 偏差批判仍属再现论框架（认为测量未能准确代表现实），performativity 批判则关注测量如何改变世界
 > - vs **[[Atomisation of Knowledge and Skills]]** — 测量的施行性说明测量如何重塑教育现实；知识与技能原子化说明这种重塑在课程内容和学习目标层面如何把整体教育目的拆成可治理碎片
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - **Latour 的"科学在行动"** — 关注科学实践如何制造事实，而非科学作为成品([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6]])
 > - **Scott 的"国家的视角"** — 排序和测量使治理成为可能，而排序和测量的行为本身改变世界(Scott, 1998;)
 > - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（[[Knowledge Co-production\|co-production]]）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态(Jasanoff, 2004, p.3;)
@@ -205,9 +197,7 @@ updated: 2026-10-21
 >
 > > 例：在以 [[PISA]] 排名为导向的政策环境中，学校可能将资源集中于处于及格线边缘的学生（以最大化达标率），而忽视最弱势和最强学生的需求——测量的存在改变了优先事项，即使这一改变并非测量的设计者所意图。
 
-## 相关案例／政策
-
-> [!example|notitle] 相关案例／政策
+> [!example] 相关案例／政策
 > - [[Visible Learning]] — [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、[[Visible Classroom|Visible Classroom App]]）是 [[Performativity]] 在商业层面的制度化体现
 > - [[Victorian HITS and Literacy Toolkit]] — [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"

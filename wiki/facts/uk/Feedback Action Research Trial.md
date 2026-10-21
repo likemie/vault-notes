@@ -46,7 +46,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Feedback Action Research Trial
 
@@ -94,9 +94,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

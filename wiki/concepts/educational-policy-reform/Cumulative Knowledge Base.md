@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cumulative Knowledge Base
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 累积性知识库（Cumulative Knowledge Base） | 循证实践工具包（Practice Toolkits） | 传统学术文献库（Academic Repositories） |
 > |---|---|---|---|
 > | **组织治理属性** | 跨国、跨系统元中介协作网络与二阶综合平台 | 单一中介机构面向基层研发的通俗转化工具 | 大学、出版商或学术学会的离散期刊集合 |
@@ -205,9 +203,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 领域 | 核心机制 | 代表性载体或案例 | 治理成效 |
 > |---|---|---|---|
@@ -218,9 +214,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -236,7 +230,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 提出建构准普遍公认的累积性知识基石命题，论证单体机构受制于政治与预算周期的生存悖论，阐明通过二阶[[Systematic Review\|系统综述]]与“中介的中介”元网络凝聚跨国证据共识的必由之路。

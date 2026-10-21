@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Neil Smelser
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1930** 出生于美国密苏里州卡霍卡。
 > - **1952–1958** 先后在哈佛大学与牛津大学求学（罗德学者），在哈佛师从[[Talcott Parsons|塔尔科特·帕森斯]]，28 岁即与帕森斯合著出版《经济与社会》（*Economy and Society*）。
 > - **1958–1994** 执教于加州大学伯克利分校社会学系，历任伯克利分校助理副校长，并于 1972 年荣膺大学教授（University Professor，加州大学系统最高学术荣誉）。
@@ -107,26 +105,20 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **社会学理论与全球化研究** 其关于“[[Permeable State|民族国家通透性]]/多孔性”的论断，成为全球化社会学转型期广泛引用的权威论据，深刻启迪了国际关系与教育政策分析。
 > - **比较教育学界引用** [[Liliana Esther Olmos|奥尔莫斯]]、托雷斯、戴尔等批判学者借助其判断，论证了跨国结构调整与新自由主义处方为何能长驱直入民族国家教育体系。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **导师与合作者** [[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons） — 共同开创现代经济社会学。
 > - **理论对话者** [[David Held]]、[[Carlos Alberto Torres]] — 其全球化边界多孔论与赫尔德、托雷斯的跨国规训模型形成共振。
 > - **国际学术机构** 国际社会学会（[[International Schools Association|ISA]]） — 曾任主席。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

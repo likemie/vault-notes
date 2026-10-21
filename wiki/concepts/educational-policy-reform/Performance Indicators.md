@@ -7,10 +7,10 @@ aliases:
 summary: "经加工的派生统计量，具技术理性与权力规制双重属性（Le Galès, 2016）。通过将异质系统还原为可比数值与排名，在提供决策信息的同时重塑组织行为；既是构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024），亦在经合组织投入产出系统中以等价空间悬置教育目的哲学辩论（Rizvi & Lingard, 2009），并在超国家治理中形成跨机构数据依附与资产流动（Grek, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 73
-related_level: 7
-related_stars: "💎💎⭐"
-related_color: "#ddd6fe"
+related_count: 47
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/educational-policy-reform
   - theme/performance-indicators
@@ -31,48 +31,26 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Regional Innovation System]]"
-  - "[[Theories of Policy Change]]"
   - "[[STEM Education]]"
   - "[[Selectivity]]"
   - "[[Commensuration]]"
   - "[[Reliability]]"
-  - "[[Construct Validity]]"
-  - "[[Ontology]]"
   - "[[Performativity]]"
   - "[[Space of Equivalence]]"
+  - "[[Construct Validity]]"
   - "[[Epistemology]]"
-  - "[[International Education]]"
-  - "[[Visible Learning]]"
-  - "[[Zone of Desired Effects]]"
-  - "[[Learning Intentions]]"
-  - "[[Heterogeneity]]"
-  - "[[Discourse]]"
-  - "[[Lifelong Learning]]"
-  - "[[Apprenticeship]]"
-  - "[[Grade Retention]]"
-  - "[[Positivism]]"
   - "[[New Public Management]]"
-  - "[[Knowledge-Based Economy]]"
   - "[[Critical Thinking]]"
-  - "[[Soft Power]]"
-  - "[[Paradigm]]"
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Performativity of Measurement]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Educational Governance Framework]]"
-  - "[[Path Dependence]]"
-  - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Effect Size]]"
-related_instruments:
-  - "[[Assessment Tools for Teaching and Learning]]"
+related_methods: []
+related_instruments: []
 related_persons:
   - "[[Norberto Bottani]]"
   - "[[Bob Jessop]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
-  - "[[John O'Neill]]"
 related_facts:
   - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
@@ -81,27 +59,23 @@ related_facts:
   - "[[EU]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[A Nation at Risk 1983]]"
-  - "[[World Education Indicators]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[Systems Approach for Better Education Results]]"
-  - "[[New Zealand National Standards]]"
-  - "[[YOUNG_ADULLLT]]"
-  - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Rust_2009_Reflections]]"
-  - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_ONeill_2016_Report]]"
+  - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Performance Indicators
@@ -152,7 +126,7 @@ updated: 2026-10-21
 > | **数据性质** | 一阶原始观测计数（如教师数、校舍面积） | 多源合成、模型加权的二阶派生统计量 | 质性与量化综合的深度情境化诊断报告 | 基于指标综合得分进行的高利害名次序数排列 |
 > | **核心功能** | 基础建档、资源摸底、静态备案 | 系统状态概览、异常动态报警（仪表盘警示灯） | 探寻教育现象的因果机理、鉴定政策得失 | 营造制度竞争秩序、触发命名与羞辱 |
 > | **政策意图** | 客观记录事实，无预设干预方向 | 紧密绑定特定变革假说与优先政策议程 | 协助学校或教师改进实践、完善育人环境 | 促使决策者为保全政治声誉采取即时性干预 |
-> | **在治理中的位置** | 行政统计基础（工业普查体制） | [[Policy Brokerage|政策中介]]机构的[[Façade of Rationality|理性表象]][[Scaffolding|脚手架]]（[[International Indicators of Education Systems|INES]], [[Education at a Glance|EAG]]） | 院校与专业社群内部的[[Reflexivity|反思性]]同行评议 | 超国家组织治理复合体的远处规制工具（[[PISA]]） |
+> | **在治理中的位置** | 行政统计基础（工业普查体制） | [[Policy Brokerage\|政策中介]]机构的[[Façade of Rationality\|理性表象]][[Scaffolding\|脚手架]]（[[International Indicators of Education Systems\|INES]], [[Education at a Glance\|EAG]]） | 院校与专业社群内部的[[Reflexivity\|反思性]]同行评议 | 超国家组织治理复合体的远处规制工具（[[PISA]]） |
 
 ---
 
@@ -269,9 +243,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1850s–1960s — 描述性统计的初生与技术困境** 教育统计多局限于学校数、入学人数和教师规模等基础盘点。索瓦若（Sauvageot）指出早期统计口径不一且缺乏深度建模，对政策决策的实际支撑有限。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]
 > - **1970s–1980s — 经合组织早期教育指标探索与福利共识** OECD [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）赞助系列教育指标项目，主要服务于成员国内部福利议程，体现成员国协商式共识决策风格（Papadopoulos, 1994; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 441]]）。
 > - **1983 — 冷战危机动员与比较转向** 美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）发布，促使联邦政府要求经合组织开发跨国可比教育指标，推动教育统计从国内行政记录转向国际横向比较与排名。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -327,8 +299,6 @@ updated: 2026-10-21
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 134–135)]] | 拉丁美洲与加勒比海地区国家（2000 年达喀尔论坛评估） | 国际比较教育统计与评估报告分析 | 全民教育（EFA）核心绩效指标（初等净入学率、留级率、辍学率与识字率） | 古巴成为全拉美唯一达成教科文组织全部 EFA 核心指标的国家；接受结构调整与市场化改革的国家指标停滞或恶化 | 联合国教科文组织官方监测数据考证 | 表明剥离国家公共投入保障的外部指标问责难以实质改善教育绩效 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构经合组织 INES 项目与《教育概览》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的反身履行性。

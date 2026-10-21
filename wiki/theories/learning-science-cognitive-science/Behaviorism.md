@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Behaviorism
@@ -243,9 +243,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 明确规则、封闭答案、程序性动作技能、事实记忆与基础自动化运算的训练过程；行为矫正、特殊教育、常规课堂纪律管理与算法驱动的初阶自适应练习设计。
 > - **成立条件** 目标行为必须具有可观察性与清晰判定准则；必须具备及时、一致呈现强化物或反馈的环境控制条件；学习者需对所提供的外部刺激具有响应价值。
 > - **解释不足** 无法充分解释人类高级认知发展、概念转变、发散[[Creativity|创造力]]、道德判断与深层语义理解；彻底将意识状态、内在动机与[[Intentionality|主体意向性]]视作不可探知的“黑箱”，无法说明无外部强化情境下人类自发探究与顿悟现象。
@@ -283,9 +281,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 追溯当代实证教学评价自 Skinner 到 Glaser 再到 Hattie 的理论传承链，以[[Technical Rationality|技术理性]]解构行为控制逻辑与反馈[[Meta-analysis|元分析]]的数据失真。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 剖析行为主义心理学工程如何放逐师生[[Intentionality|主体意向性]]与生活世界价值，服务于官僚机构的技术治理。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — 考察算法教育与数字化学习平台如何复活[[B. F. Skinner|斯金纳]]操作条件反射，指出其以行为控制消解深层理解的教学弊端。

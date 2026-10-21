@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Filial Piety
@@ -60,9 +60,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 1. **真诚而非形式** 孝必须以"心甘情愿、毫无怨言、欣然乐意"的态度践行，而非履行形式上的义务([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])
 > 2. **相互性（mutuality）** 孝与父母的慈爱相互对应——两者是不可分割的道德义务对
 > 3. **终身性** 孝的义务不是童年的阶段，而是持续一生
@@ -70,18 +68,14 @@ updated: 2026-10-16
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Five Cardinal Relationships]] — 孝是五伦之首对关系（父子）的子女向德目
 > - [[Self-Cultivation]] — 孝是修身在家庭[[Champ\|场域]]中的基本实践
 > - [[Confucius]] — 孔子是孝的主要阐述者
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 孝的概念在现代社会中常被误读为"盲从"或"压制个性"。Li 的解读强调孝的关系相互性和真诚情感维度，与这种误读形成对比——[[Confucius\|孔子]]本人区分了"能养"（物质供给）与"有敬"（真诚情感），反对将孝简化为形式化的服从([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])
 
 ---

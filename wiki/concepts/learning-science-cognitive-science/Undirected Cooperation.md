@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Undirected Cooperation
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 无指挥协同（Undirected Cooperation） | 指令型科层协作（Directed Hierarchy） | 散漫乌合之众（Uncoordinated Crowd） |
 > |---|---|---|---|
 > | **组织驱动力** | 共享目标与一线对等信息公开协商 | 自顶向下的行政指令与绩效考核指标 | 个体随机冲动与短期自利行为 |
@@ -144,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1951 — [[Eck Swarm Experiment|埃克蜂群实验]]确立生物无指挥协同能力** [[Martin Lindauer|林道尔]]在慕尼黑记录埃克蜂群选巢过程，彻底颠覆了西方生物学界对动物群体必须由首领指挥的传统认知。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–119)]]
 > - **2000s — 复杂物理学与多[[AI Agent in Education|智能体]]系统拓展** [[Giorgio Parisi|帕里西]]对[[Flocking Behavior|椋鸟群飞]]的拓扑物理研究与分布式人工智能算法，将无指挥协同从昆虫社会学拓展至统计物理与网络科学领域。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **2025 — 确立为[[Technological Republic|技术共和国]]工程[[Organizational Culture|组织文化]]基石** 卡普与扎米斯卡将无指挥协同提升为对抗科层官僚僵化、重塑西方国家[[Hard Power|硬实力]]的核心组织哲学。
@@ -168,7 +164,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10, pp. 115, 120–121)]] — 专著第 10 章以[[Eck Swarm Experiment|埃克蜂群]]与罗马[[Flocking Behavior|椋鸟群飞]]为核心证据，系统阐释了无指挥协同作为动物超级有机体心智奇迹与现代高敏捷初创工程文化的理论基石。

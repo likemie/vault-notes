@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Edge Autonomy
@@ -69,9 +69,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 边缘自治（Edge Autonomy） | 中心授权代理制（Central Delegation） | 无序放任分裂（Fragmented Anarchy） |
 > |---|---|---|---|
 > | **权力根源** | 物理现实与一线感知驱动的内在自主性 | 来自顶层行政权威的有条件让渡与特许 | 缺乏规则与权威，各节点随心所欲 |
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s — 自然界生物集群发现** [[Martin Lindauer|林道尔]]与弗里希系统揭示蜜蜂侦察蜂通过舞蹈自主表达选巢偏好，确立了自然界无中心指令、由边缘个体驱动决策的原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–120)]]
 > - **2000s — 分布式计算与物理学拓扑建模** 随着边缘计算概念的兴起与[[Giorgio Parisi|帕里西]]对[[Flocking Behavior|椋鸟群飞]]拓扑物理机制的揭示，边缘节点自主感知与局部通信成为复杂系统理论的重要支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **2025 — 升华为国家工程与治理[[Paradigm|范式]]** 卡普与扎米斯卡将边缘自治提升为重塑美国[[Technological Republic|技术共和国]][[Hard Power|硬实力]]与[[Organizational Culture|组织文化]]的关键武器，主张彻底打破华盛顿与五角大楼的官僚阻滞。
@@ -164,7 +160,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10)]] — 专著第 10 章通过蜜蜂侦察蜂与椋鸟外围个体的生物学实证，系统论述了边缘自治作为高敏捷初创工程文化制度基石的内在逻辑。

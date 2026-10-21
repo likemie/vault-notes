@@ -30,7 +30,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Test Specifications and Test Blueprint
@@ -93,7 +93,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 24.5 节介绍测验规格的矩阵框架（Tables 24.1–24.2）、Gronlund and Linn 的权重分配、Mager 的目标标准及 TGAT（1988）的三种模式。

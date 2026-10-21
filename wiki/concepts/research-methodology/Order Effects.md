@@ -36,7 +36,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Order Effects
 
@@ -224,7 +224,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — Ch. 16 讨论[[Repeated Measures Design\|重复测量设计]]中的延续效应与拉丁方均衡；Ch. 20 讨论[[Questionnaire\|问卷]]中的首因效应、回答定势与题目排序原则。

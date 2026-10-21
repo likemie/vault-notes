@@ -36,14 +36,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reflective Thinking
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Reflexivity\|反思性]]思维（reflective thinking / reflective inquiry）最初由[[John Dewey\|约翰·杜威]]在《我们怎样思维》（1910）中界定，指“根据支撑信念的依据以及该信念指向的进一步结论，对任何信念或知识形式所进行的**积极、持续和周密的思考**”[[Argument_Darwish_2009_Queens\|(Dewey, 1910, p. 9; 引自 Darwish, 2009, p. 34)]]。在当代教育心理学中，它被进一步界定为一种极高阶的认知能力，特指个体在面对[[Wicked Problem|劣构问题]]（ill-structured problems）时，能够认识到知识是主动建构且随语境变化的，并能运用批判性质询和概率性辩护来评估不同视角的结论合理性[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 101)]]。
@@ -94,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1910 年 — 哲学雏形的奠定** [[John Dewey\|约翰·杜威]]（Dewey）在《我们怎样思维》中正式提出了“[[Reflexivity\|反思性]]思维”这一概念及其五大步骤，将其视为教育的终极心智目标。
 > - **1994 年 — 心理学量化与模型化** King & Kitchener 以杜威的思想为基石，开发了[[Reflective Judgment Model\|反思性判断模型]]（RJM），将哲学层面的“应当如何思考”转化为心理学层面的“实然如何发展”，确立了前反思、准反思、反思三个大阶层。
 > - **1997 年 — 统合入[[Epistemological Theories\|认识论理论]]** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在重构[[Epistemology\|认识论]]领域时，将反思思维的核心（即如何在[[Wicked Problem|劣构问题]]中为信念提供辩护）确立为[[Epistemological Theories\|认识论理论]]的四大核心维度之一（即“[[Justification for Knowing\|认知的辩护]]”维度）。
@@ -110,8 +106,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 系统梳理了[[John Dewey\|杜威]][[Reflexivity\|反思性]]思维的 5 大步骤及其在[[Active Learning\|主动学习]]模型中的实践应用。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 梳理了反思性思维如何演变为衡量大学生“[[Wicked Problem|劣构问题]]辩护能力”的心理学发展模型。

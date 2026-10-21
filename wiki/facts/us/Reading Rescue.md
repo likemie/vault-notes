@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reading Rescue
@@ -119,9 +119,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Reading Rescue 列为初等阅读 Tier 3 助教辅导代表方案，强调其超常的实证增益（[[Effect Size\|效应量]] $+0.81$）。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过 Reading Rescue 等工具在 Tier 3 密集个别化救济中发挥助教的超强效能。
 > - [[Sound Partners]] — 同属早期读写助教一对一辅导方案，与 Reading Rescue 共同构成全美助教[[Early Reading Intervention\|早期阅读干预]]的双璧。

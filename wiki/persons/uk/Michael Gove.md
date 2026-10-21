@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Michael Gove
@@ -147,9 +147,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **重要政治盟友** 戴维·卡梅伦（David Cameron） — 英国时任首相，全力支持戈夫开展打破地方教育官僚体制的学院化激进改革。
 > - **联合执政搭档与博弈者** 尼克·克莱格（Nick Clegg） — 英国副首相（自民党党首），以组阁政治妥协推动戈夫在保守党教育白皮书中采纳“[[Pupil Premium\|学生津贴]]”（Pupil Premium）。
 > - **外部战略合作伙伴** [[Peter Lampl\|彼得·兰普尔爵士]] — [[Sutton Trust\|萨顿信托]]创始人，与戈夫达成共识并成功竞得 1.25 亿英镑留本基金联合创办 [[Education Endowment Foundation\|EEF]]。
@@ -176,9 +174,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献与关联 |
 > |:-----|:-----|:-----|

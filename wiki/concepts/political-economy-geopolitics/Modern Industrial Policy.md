@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Modern Industrial Policy
@@ -261,9 +261,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1980年代 — 传统赶超与管理贸易** 日本[[Ministry of International Trade and Industry|通产省]]主导 [[VLSI Project|VLSI]] 项目 推动 DRAM 赶超；美日爆发激烈贸易摩擦，美国通过 [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]] 实行配额管制，并组建 [[Sematech]] 研发联盟。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83–86)]]
 > - **1990–2000年代 — [[Liberalization|自由化]]与产业政策退潮** [[Washington Consensus|华盛顿共识]]与[[World Trade Organization|世贸组织]]（WTO）规则盛行，产业政策被主流经济学界边缘化；半导体产业全面向全球 [[Vertical Disintegration|纵向离散]] 与东亚制造集聚演进。(pp. 86–92)
 > - **2014–2018年代 — 国家战略资本赶超与贸易争端升级** 中国成立 [[China Integrated Circuit Industry Investment Fund|国家集成电路产业投资基金]]（大基金）并发布《[[Made in China 2025|中国制造2025]]》；特朗普政府发起 [[Sino-American Trade War|中美贸易战]] 并将华为列入实体清单，暴露关税工具在中间品长链条中的局限性。(pp. 93–95)
@@ -315,9 +313,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系说明 |
 > |:---|:---|:---|
@@ -334,9 +330,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 系统构建了现代产业政策的[[Analytic Framework|分析框架]]，剖析了半导体全球供应链[[Vertical Disintegration|纵向离散]]背景下大国博弈的政策工具组合、经济代价与非预期后果。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 阐释美国通过《[[CHIPS and Science Act|芯片与科学法案]]》实现科技产业政策[[Paradigm|范式]]转向的制度动因，分析国家定向资助与前沿技术竞争对[[Research Universities|研究型大学]]科研与 [[STEM Education|STEM]] 教育的深远影响。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从政策实施与治理机制视角剖析拜登政府现代产业战略，系统提炼保障产业战略有效落地的七项过程治理准则，并基于三大联邦法案阐明护栏条款与[[Market Shaping and Creating|市场塑造]]附加条件的设计逻辑与现实边界。

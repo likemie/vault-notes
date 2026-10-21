@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Apprenticeship
@@ -244,9 +244,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **中世纪至 18 世纪 — 传统行会学徒制** 依赖手工业行会自主规制，手艺师傅与学徒建立依附性人身契约，具有较强的排他性与地方性壁垒。
 > - **19 世纪 — 现代国家协调下的技术学徒制** 普鲁士创设工艺学校（[[Gewerbe-Institut]]），将正规工程教学与工坊学徒训练打通，为工业革命提供规模化熟练工匠网络。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 > - **20 世纪下半叶 — [[German Dual Education System|双元制]]与[[Cognitive Apprenticeship|认知学徒制]]分化拓展** 在比较资本主义（[[Varieties of Capitalism]]）中，德国双元制学徒培训成为协调型市场经济（CME）的标志；在教育科学中，Collins 等学者将其抽象为“[[Cognitive Apprenticeship|认知学徒制]]”，用于指导[[Higher-Order Thinking Skills|高阶思维]]教学。
@@ -302,13 +300,11 @@ updated: 2026-10-21
 > | 2020年代美国《[[Inflation Reduction Act\|通胀削减法案]]》清洁能源税收抵免 | 现行工资（Prevailing Wage）与学徒工时比例要求 | 将清洁能源项目 5 倍税收抵免与法定注册学徒工时配额硬性绑定 | 推动私人清洁能源开发商规模化吸纳注册学徒工，创造高薪绿色制造岗位 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 9, 13)]] |
 > | 2024年[[National Strategy on Microelectronics Research\|美国国家微电子研究战略]] | 注册学徒制与 [[National Science Foundation\|NSF]] ATE、[[Natcast]] WCoE 协同 | 针对晶圆制造与封装产线设备排障开展现场实训，打通微凭证与技术工程师阶梯 | 缓解微电子产线技师荒，构建跨越基础到工程的全谱系劳动力梯队 | [[Argument_NSTC_2024_MicroelectronicsResearch\|(NSTC, 2024, pp. 29–35)]] |
 > | 2026年联邦科技战略与百万学徒计划 | 每年 100 万注册学徒目标 + [[Workforce Pell Grants 2025\|劳动力佩尔助学金]] | 资助 8–15 周高需求技术证书，劳工部资助全面转向“按绩效付费”，设立国家工匠学者 | 逆转制造外包导致的[[Process Knowledge\|工艺知识]]断代，筑牢先进制造物理原型研发底座 | [[Argument_Kratsios_2026_OSTP\|(Kratsios, 2026, pp. 53–54)]] |
-> | [[Argument_Block_2008_PS\|Block (2008, pp. 196–198)]] | 1980–2000年代美国联邦制造业劳工培训投资与平板显示等高技术制造离岸外包 | 政策预算考据与跨国技能制度对比 | 制造业推广伙伴计划（MEP）生均预算、熟练技工短缺与制造外包动因 | 联邦 MEP 年资助仅约 1 亿美元（折合每位制造业生产工人仅约 6 美元，而有效技能培训人均需数万美元）；美国研发之平板显示制造因缺乏熟练技工储备全面流失至重视政府协同培训的日韩台地区 | 联邦决算数据与产业案例考证 | 确证单纯依靠科研突破而漠视学徒制与生产劳工技能投资将导致制造产能外流与创新链条断裂 |
+> | [[Argument_Block_2008_PS\|Block (2008, pp. 196–198)]] | 1980–2000年代美国联邦制造业劳工培训投资与平板显示等高技术制造离岸外包 | 政策预算考据与跨国技能制度对比 | 制造业推广伙伴计划（MEP）生均预算、熟练技工短缺与制造外包动因 | 联邦 MEP 年资助仅约 1 亿美元（折合每位制造业生产工人仅约 6 美元，而有效技能培训人均需数万美元）；美国研发之平板显示制造因缺乏熟练技工储备全面流失至重视政府协同培训的日韩台地区；联邦决算数据与产业案例考证；确证单纯依靠科研突破而漠视学徒制与生产劳工技能投资将导致制造产能外流与创新链条断裂 |
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 概念联系与理论作用 |
 > |:---|:---|:---|
@@ -335,9 +331,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 批判美国隐形[[Developmental Network State|发展型网络国家]]在[[Market Fundamentalism|市场原教旨主义]]支配下奉行削弱工会与压低工资的“低工资道路”，实证揭示联邦制造技能资助匮乏（MEP 年均仅 1 亿美元、人均 6 美元）导致的熟练技工断层与高科技制造（如平板显示）外流危机，论证三方协同技能形成的战略意义。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科技委员会[[National Strategy on Microelectronics Research|国家微电子研究战略]]，系统规划全谱系人才开发（Goal 3），将注册学徒制与 [[National Science Foundation|NSF]] [[Advanced Technological Education|ATE]]、[[Natcast]] 劳动力卓越中心深度绑定，培育芯片制造产线高技能操作与排障技师。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统批判“设计与制造二分法”对美国工程创新底座的损害，提出每年培育 100 万名注册学徒的战略目标，论述工艺知识保全、[[Workforce Pell Grants 2025|劳动力佩尔助学金]]、按绩效付费以及“国家工匠学者”制度在重构前沿制造韧性中的关键支撑。

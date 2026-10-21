@@ -30,19 +30,15 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-10-22
 ---
 
 # APLU Innovation and Economic Prosperity Program
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 2008 年大衰退（Great Recession）之后，美国各州和地方政府越来越多地将大学视为经济发展的催化剂，既支持产业也支持劳动者。在这一背景下，Association of Public and Land Grant Universities（APLU）设立了 Innovation and Economic Prosperity（IEP）Program，为在区域经济参与方面取得成功的大学提供认证（designation）（p.13）。
 
-## 内容
-
-> [!note|notitle]
+> [!note] 内容
 > IEP Program 的核心理念是：大学不仅是研究和人才培养机构，更是区域[[Innovation Ecosystem\|创新生态系统]]的"锚点"——通过[[University-Industry Collaboration\|产学合作]]、技术商业化和人才培养推动区域经济增长。获得 IEP 认证的大学被认可在区域经济参与、增长和经济机会方面的成就（p.13）。
 
 ## 相关概念／政策

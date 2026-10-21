@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Dependent Variable
 
@@ -159,17 +159,13 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的生长和产量是因[[Variable\|变量]]；Bhadwal and Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×学习动机的[[Factorial Design\|因子设计]]中，考试成绩是因变量。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 针对《[[Visible Learning|可见的学习]]》展开教育哲学与概念批判，系统论证其因变量（学习/[[Academic Achievement|学业成就]]）存在的[[Construct|构念]]混淆、效度模糊，以及评价导向的因变量反向规训[[Independent Variable|自变量]]（教学）所导致的因果逻辑倒置（pp. 6–7）。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

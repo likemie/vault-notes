@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Meno
@@ -193,17 +193,13 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 在《文化对学习的塑造》中系统剖析《美诺篇》童奴实验，确立其作为西方先天心智传统与确定性知识理想的哲学母题。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 在[[Virtue Epistemology|德性认识论]]视域下全面解构《美诺篇》启发诱导法的预设主义局限，提出由[[Socrates|苏格拉底]]诱导向心理治疗式开放探究的交互跃迁。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|

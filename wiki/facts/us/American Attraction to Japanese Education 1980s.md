@@ -46,12 +46,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 背景
-
-> [!info|notitle] 背景
+> [!info] 背景
 > 1980 年代初期，美国同时面临多项结构推力（structural impulses）的交叠作用，共同推动了对日本教育的高度关注([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 228–229, 234–235]])：
 >
 > - **技能创新焦虑** — 美国制造业岗位大量流向日本，产业界和公众舆论呼吁"重新装备"（retool）劳动力，教育被视为提升劳动力技能的关键[[Champ\|场域]]
@@ -63,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 经过
-
-> [!note|notitle] 经过
+> [!note] 经过
 > ### 1980–1983：吸引力升温期
 >
 > - **1980** — 里根当选总统，联邦教育改革[[Discourse|话语]]转向"[[Competitiveness|竞争力]]"和"绩效"，日本经济崛起成为教育政策讨论中的常设参照
@@ -85,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 行动者与结构分析
-
-> [!abstract|notitle] 行动者与结构分析
+> [!abstract] 行动者与结构分析
 > [[Argument_Rappleye_2006_RCIE\|Rappleye (2006, pp. 234–235)]] 以情境[[Concept Mapping\|概念地图]]分析此案例，呈现出推力侧与阻力侧的显著失衡。
 >
 > ### 改革行动者——密集的推力网络
@@ -116,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!success|notitle] 影响与后果
+> [!success] 影响与后果
 > 1. **日本教育成为高频参照对象** — 在整个 1980 年代至 1990 年代初的美国教育改革讨论中，日本是最常被引用的外国范例之一，其引用频率远超其他国家的教育系统
 > 2. **危机叙事的常态化** — "国际比较 → 本国危机 → 必须改革"的三段论叙事结构被确立为美国教育政策辩论的标准修辞模板，深远影响了此后三十余年的教育政策[[Discourse|话语]]模式
 > 3. **参照网络扩张** — 政府报告（*Japanese Education Today*）、学术著作（Lynn, 1988）、智库活动（Heritage Foundation, 1991）和赴日考察资助（Cummings, 1989）共同构建了一个持续十多年的制度化参照网络
@@ -126,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 与晚清案例的对比
-
-> [!example|notitle] 与晚清案例的对比
+> [!example] 与晚清案例的对比
 > 两个案例都涉及对日本教育的[[Cross-National Attraction\|跨国吸引力]]，但产生了截然不同的结果([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 233–235]])：
 >
 > - **晚清中国** — 改革派和保守派出于不同理由都同意日本教育是"好模型"（跨阵营共识），且中央政府拥有足够的制度权力推行全国性改革，因此吸引力迅速转化为大规模制度借用（1905 年废除[[Civil Service Examination\|科举]]、[[1904 Educational System\|癸卯学制]]）
@@ -140,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!example|notitle] 相关概念／政策
+> [!example] 相关概念／政策
 > - [[Cross-National Attraction]] — 跨国吸引力的情境[[Concept Mapping\|概念地图]]用此案例做了示范性分析
 > - [[Policy Borrowing]] — 高吸引力未转化为高借用的对照案例
 > - [[Pre-Transfer Agency]] — 改革行动者在借用决策前运作危机化和合法化火花

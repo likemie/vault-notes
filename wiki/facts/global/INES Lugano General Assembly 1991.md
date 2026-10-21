@@ -33,16 +33,13 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
-## 背景
 
-> [!info|notitle] 背景
+> [!info] 背景
 > [[International Indicators of Education Systems\|INES]] 第一届全体大会（1989 年，奥地利 Semmering）列出了约 160 项初始指标，但因数量不可管理而未正式讨论。项目需要在第二届大会上产生一套可操作的指标体系([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.11–12]])。
 
-## 经过
-
-> [!note|notitle] 经过
+> [!note] 经过
 > - **时间** 1991 年
 > - **地点** 瑞士 Lugano（卢加诺）
 > - **性质**[[International Indicators of Education Systems\|INES]] 第二届全体大会，被 Bottani 称为"国际指标的创造者与决策者之间的国际会议"(Bottani, 2008, p.16; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.12]])
@@ -60,9 +57,7 @@ updated: 2026-10-21
 >
 > > "It was following an intense discussion [between] opposing policy-makers and scientists during the Lugano plenary sessions that the member countries mandated OECD with revising the prototype set of indicators to include a section on student attainment, using the very patchy data available on the international scene at that time."(Bottani, 2008, p.16;)
 
-## 影响与后果
-
-> [!success|notitle] 影响与后果
+> [!success] 影响与后果
 > ### 科学权威的转折点
 > Bottani 将 Lugano 1991 视为科学家与政策制定者关系的"分水岭"（watershed moment）([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.13]])：
 > - 科学家从此失去对指标"生产端"的控制（此前仅失去对"使用端"的控制）
@@ -76,25 +71,19 @@ updated: 2026-10-21
 > - 1995 年 Lahti（第三届）是最后一次真正的全体大会([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.17]])
 > - 2000 年东京（第四届）"名存实亡"——参与受限，指标生产者不再参与，蜕变为政府间会议(Bottani, 2008, p.17;)
 
-## 关键文件／声明
-
-> [!quote|notitle] 关键文件／声明
+> [!quote] 关键文件／声明
 > > "one can get the impression that these indicators have been invented to avoid leaving empty cells in the subgroup of student achievement"(Bottani, 1996, p.284; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.13]])
 >
 > Bottani 的这句话折射了 Lugano 决定的后果：为了填补表格而"发明"指标——这在科学研究中是不可接受的，但在政策驱动的指标生产中却成为常态。
 
-## 争议与评论
-
-> [!warning|notitle] 争议与评论
+> [!warning] 争议与评论
 > ### 标志着"科学服务政策"的制度化
 > Gorur 将 Lugano 解读为从"科学服务于政策"（科学家自己决定妥协什么）转向"政策支配科学"（政府官员决定什么需要被纳入）的转折点([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.12–13]])
 >
 > ### 长期后果
 > Bottani 后来反思：Lugano 开创了"对[[Performance Indicators\|绩效指标]]的痴迷"（obsession with performance indicators）时代，最终导致 [[OECD]] 混淆"指标"与"评估"([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.14]])
 
-## 相关概念／政策
-
-> [!example|notitle] 相关概念／政策
+> [!example] 相关概念／政策
 > - [[International Indicators of Education Systems]]
 > - [[Education at a Glance]]
 > - [[Performance Indicators]]

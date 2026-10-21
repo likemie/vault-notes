@@ -32,8 +32,8 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
-  - "[[Rote Learning]]"
   - "[[Problem Solving]]"
+  - "[[Rote Learning]]"
   - "[[Inquiry-Based Learning]]"
 related_theories: []
 related_methods: []
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # PISA Shock in Japan
@@ -144,13 +144,11 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[PISA]] | Fact (Global) | 触发日本学力危机大辩论与政策转型的国际学生评估项目。 |
 > | [[PISA Shock]] | Concept | 解释日本在 2004 年因排位下滑引发全国性政策震荡的核心概念。 |
-> | [[PISA Literacy]] | Concept | 文部科学省重塑国家“扎实学力”所直接吸纳的核心[[Construct|构念]]。 |
+> | [[PISA Literacy]] | Concept | 文部科学省重塑国家“扎实学力”所直接吸纳的核心[[Construct\|构念]]。 |
 > | [[Active Learning]] | Concept | 2008 年新指导要领针对震荡反思所确立的主动[[Inquiry-Based Learning\|探究学习]][[Paradigm\|范式]]。 |

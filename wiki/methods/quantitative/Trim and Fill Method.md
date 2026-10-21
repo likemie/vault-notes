@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Trim and Fill Method
@@ -137,8 +137,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，运用剪补法对跨学科 23 个一阶[[Meta-analysis\|元分析]][[Effect Size\|效应量]]进行[[Publication Bias\|发表偏倚]]敏感性检验，确证 $k_{\text{miss}} = 0$ 且校正效应量保持 $ES = 0.71$ 稳健不变。
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，运用剪补法对高等教育[[Problem-Based Learning\|问题本位学习]]的 47 个[[Effect Size\|效应量]]进行[[Publication Bias\|发表偏倚]]检验，估计缺失研究 $k_{\text{miss}} = 6$，校正后效应量由 $0.68$ 调整为 $0.60$，提示轻微偏倚。

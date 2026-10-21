@@ -47,7 +47,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # New Pedagogies for Deep Learning
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 深度学习新教学法（NPDL Global） | 经典[[Surface and Deep Learning\|深层学习]]理论（Marton & Säljö） | 国家法定课程大纲[[21st Century Skills and Competencies Discourse\|核心素养]]（如 NZC 2007） |
 > |---|---|---|---|
 > | **性质范畴** | 商业化特许加盟教学模式与工具套件 | 认知心理学与现象描述学认知加工理论 | 国家教育行政部门颁布的法定指导纲领 |
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2012 年 — 多伦多发起创立 NPDL 全球倡议** [[Michael Fullan|迈克尔·富兰]]联合微软、英特尔等跨国科技企业及 [[OECD]] 代表创立 NPDL Global。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
 > - **2014 年 — 培生智库资助确立理论框架** 培生 Open Ideas 丛书资助出版《丰富矿脉》（*A Rich Seam*），系统阐述 6C 素养模型并启动商业推广。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
 > - **2014–2016 年 — 跨国集群在新西兰落地** 本土 [[Educational Management Organisation|EMO]] [[CORE Education|核心教育]]代理该项目，打包澳大利亚与新西兰 107 所学校组建首期集群，并建立基督城 Kahukura NPDL 集群。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 42–43)]]
@@ -190,7 +186,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰 [[CORE Education]] 代理 NPDL 的运作机制，揭示专有教学法商品化对公立教师研训资金的抽吸效应。

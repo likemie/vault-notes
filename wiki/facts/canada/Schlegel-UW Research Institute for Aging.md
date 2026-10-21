@@ -35,23 +35,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Schlegel-UW Research Institute for Aging
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > Schlegel-UW 老龄化研究所（Schlegel-UW Research Institute for Aging，简称 RIA）是滑铁卢大学与 Schlegel Villages（安大略省最大的营利性退休生活网络）于 2005 年合作建立的大型跨学科[[University-Industry Collaboration\|产学合作]]研究机构。RIA 的总目标是"改变加拿大老龄化的方式"（changing the way we age in Canada），通过生成和动员新知识与新技术，应对老龄化在身体、社会、情感和心理层面的多维挑战([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, pp.251–252]])。
 
 加拿大超过六百万的老年人口及其持续增长趋势，使得老年生活质量成为全国医疗系统的优先议题。RIA 正是在此社会需求背景下诞生，其基本前提是：老龄化这一挑战过于复杂，任何单一实体都无法独自应对，需要大学、产业、临床机构和政府共同构建跨学科的合作联盟([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, pp.251–252]])。
 
 ---
 
-## 经过
-
-> [!note|notitle]
+> [!note] 经过
 > 关键发展节点([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, pp.251–254]])：
 > - **2005 年** 滑铁卢大学与 Schlegel Villages 经过深入讨论后正式启动 RIA 合作
 > - **2014 年** RIA 大楼在滑铁卢大学北校区建成并投入运营
@@ -63,9 +59,7 @@ RIA 的独特之处在于其运行模式从一开始就是"共同设计"（[[Co-
 
 ---
 
-## 运作机制
-
-> [!abstract|notitle]
+> [!abstract] 运作机制
 > RIA 的运作建立在多重机制的协同之上([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, pp.252–254]])：
 
 **共同选址（[[University-Industry Co-location|co-location]]）** 临床医生、科学家和工程师在同一物理空间中并肩工作。这一安排使研究者和终端用户只需走过走廊就能看到研究进展的实际应用，创造了即时反馈循环。
@@ -80,9 +74,7 @@ RIA 的独特之处在于其运行模式从一开始就是"共同设计"（[[Co-
 
 ---
 
-## 影响与后果
-
-> [!success|notitle]
+> [!success] 影响与后果
 > - RIA 的成功经验在校内产生了跨院系的示范和扩散效应，降低了不同学科文化中对[[University-Industry Collaboration\|产学合作]]的抵触([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.253]])。
 > - 研究者的网络通过 RIA 引入的额外伙伴而扩展，为教师和研究生提供了额外的学术发展机会([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.252]])。
 > - RIA 模式展示了如何通过重新构想产学合作关系，为原本不太愿意参与此类合作的教师提供入口——跨学科研究在共同选址环境中打破了院系壁垒，提升了利益相关方之间的可[[Reliability\|信度]]([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.254]])。

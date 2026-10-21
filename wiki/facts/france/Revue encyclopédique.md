@@ -12,7 +12,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -42,7 +42,6 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Johann Heinrich Pestalozzi]]"
 related_facts:
-  - "[[Revue encyclopédique]]"
   - "[[ESPRIT]]"
   - "[[UNESCO]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Revue encyclopédique
@@ -113,9 +112,7 @@ updated: 2026-10-17
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

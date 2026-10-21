@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Graham Nuthall
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1935** 出生于新西兰。
 > - **1960–1990 年代** 长期执教于新西兰坎特伯雷大学教育系，开创微观[[Classroom Observation|课堂观察]]项目，在真实教室布设多机位录像与学生随身麦克风，累计记录上千小时师生言语互动。
 > - **2004** 在基督城逝世。
@@ -101,17 +99,13 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论承继者** [[John Hattie]] — 汲取其[[Classroom Observation|课堂观察]]数据，将纳撒尔盲区定律转化为可见学习的核心预设与技术监控需求。
 > - **相关工具** [[Visible Classroom]] — 旨在通过客观音频[[Transcription in Qualitative Research|转录]]技术破除纳撒尔揭示的 80% 课堂知觉盲区。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -62,7 +62,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mody_2017_MOH"
@@ -341,9 +341,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 莫迪在文末指出，本研究主要聚焦于微电子与半导体产业的历史经验；尽管作者认为在生物技术等其他高技术领域也可能存在类似的制度共生演进，但由于不同产业的技术经济特征（如沉没成本、专利保护有效性及产业链结构）存在显著差异，相关组织形态的具体表现机制仍需未来更多实证历史研究检验。（pp.287, 299）
 
 ---

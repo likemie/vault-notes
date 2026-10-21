@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Geopolitics of Higher Education
 
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **空间分析维度** 以空间—权力关系为分析核心，关注高等教育如何在物质空间（校园布局、[[International Branch Campus|海外分校]]选址）、象征空间（排名、知识等级）和[[Relational Space\|关系空间]]（流动网络、合作联盟）三个层面参与空间秩序的生产与再生产。
 > - **[[Geopolitics|地缘政治]]行动者** 将高等教育机构视为具有能动性的地缘政治行动者（geopolitical actor），而非仅仅是国家战略的被动执行者或附属工具。高校在知识伦理、国际声誉和学术价值方面有相对自主性。
 > - **多层级行动者网络** 分析对象不限于民族国家，还包括国际组织、区域联盟、高等教育机构、中介组织和"普通行动者"等多层级主体之间的动态博弈。
@@ -70,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1899–1940s — [[Classical Geopolitics\|古典地缘政治]]阶段：高等教育"相对不可见"** [[Geopolitics|地缘政治学]]由契伦（R. Kjellén）于1899年首次提出。古典地缘政治将国家视为有机体，空间被视为客观地理实体，高等教育不被视为独立分析对象——其理论预设国家为理所当然的行动体，且缺乏分析意识形态与[[Discourse|话语]]权力的概念工具。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 3–4)]]
 > - **1940s–1990s — 冷战时期：高等教育作为国家战略的附属工具** 高等教育进入地缘政治实践视野。美国通过"[[Fulbright Program\|富布莱特计划]]"、苏联通过人民友谊大学等将高等教育打造为意识形态竞争的工具。但高等教育仍被理解为国家战略的附属，尚未成为独立分析对象。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 4)]]
 > - **1990s–2010s — "非自觉"的高等教育地缘政治研究** 高等教育的外交和安全属性被[[Developmentalism|发展主义]]话语掩盖。研究者借用中心-边缘理论描述全球高等教育不平等，但极少追溯其与地缘政治理论的深层关联，将地缘政治问题"发展化""历史化""技术化"。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 4–5)]]
@@ -80,7 +76,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 系统梳理高等教育[[Geopolitics|地缘政治视角]]的发展脉络、关键议题（人的培养、[[Knowledge Production\|知识生产]]、学术流动、跨境合作）和理论[[Paradigm\|范式]]演化（[[Classical Geopolitics\|传统地缘政治]]与[[New Geopolitics\|新地缘政治]]）。

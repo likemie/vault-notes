@@ -32,19 +32,15 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-22
 ---
 
 # Nagoya Protocol (2014)
 
-## 概述
-
-> [!info|notitle]
+> [!info] 概述
 > [[Nagoya Protocol\|名古屋议定书]]（Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization）于 2014 年生效，是联合国《生物多样性公约》的补充协议。其核心目标是确保遗传资源的利用所产生的惠益与资源来源国之间实现公平公正的分享（Covington, 2024, cited on p.315）。
 
-## 核心条款
-
-> [!abstract|notitle]
+> [!abstract] 核心条款
 > - **获取管制** 各国对境内生物遗传资源的获取拥有主权控制，研究者需获得来源国的[[Informed Consent\|知情同意]]
 > - **惠益分享** 利用遗传资源所产生的货币和非货币惠益，须与资源来源国公平分享
 > - **遵守机制** 使用国须确保其管辖范围内的遗传资源利用符合议定书规定

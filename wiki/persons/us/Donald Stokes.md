@@ -16,7 +16,7 @@ person_related_color: "#fce7f3"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - person/political-scientist
   - person/policy-scholar
@@ -98,9 +98,7 @@ created: 2026-10-02
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927** 出生于美国宾夕法尼亚州费城；1951 年毕业于普林斯顿大学，1958 年获密歇根大学政治学博士学位。
 > - **1958–1974** 任职于密歇根大学政治学系与[[Survey Research|调查研究]]中心（Survey Research Center, [[Semiconductor Research Corporation|SRC]]），与坎贝尔等人开创实证选民调查研究，合著《美国选民》（1960）与《选民与政治体制》（1966），成为当代经验政治学与量化社会科学的奠基人物之一。
 > - **1974–1992** 出任普林斯顿大学伍德罗·威尔逊公共与国际事务学院院长，主导该学院全面拓展公共政策分析、科学技术政策与国际安全战略研究，树立了跨学科公共治理教育的新典范。
@@ -141,9 +139,7 @@ created: 2026-10-02
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政策[[Paradigm|范式]]重构与多重契约交叠** 终结了战后“基础研究必须远离实用”的狭隘教条，为 1990 年代冷战遗产型契约、经济[[Competitiveness|竞争力]]型契约与健康研究特定契约的复合共存提供了[[Epistemology|认识论]]基石；为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划提供了理论正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **[[Developmental Network State|发展型网络国家]]跨越[[Valley of Death|死亡之谷]]的认识论支柱** 斯托克斯的[[Pasteur's Quadrant|巴斯德象限]]被政治社会学家[[Fred Block|弗雷德·布洛克]]（Fred Block）系统吸收，用于破除战后线性模型与[[Market Fundamentalism|市场原教旨主义]]神话，论证美国[[Developmental Network State|发展型网络国家]]（DNS）主动介入早期技术概念验证与应用研发的理论合法性。[[Argument_Block_2008_PS|(Block, 2008, pp. 173–174)]]
 > - **2026 联邦科技体制改革的理论基石** 在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告中，斯托克斯理论被直接运用于诊断联邦资助机构对 1950 年代学科与单 PI 课题组的僵化固守，推动政策转向组合式资助、[[Focused Research Organization|聚焦研究组织]]（FRO）与开放国家实验室基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7–8, 21–26)]]
@@ -152,9 +148,7 @@ created: 2026-10-02
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术对话与反思对象** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 批判并打破其《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立的一维线性动机轴，将其重构为二维分类矩阵。
 > - **国家理论吸收者** [[Fred Block|弗雷德·布洛克]]（Fred Block） — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中将[[Pasteur's Quadrant|巴斯德象限]]确立为发展型网络国家（DNS）主动撮合跨部门早期转化、填补[[Valley of Death|死亡之谷]]的核心[[Epistemology|认识论]]支撑。
 > - **当代政策[[Operationalization|操作化]]者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 在 2026 年白宫科技报告中将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为重构联邦科研体制的核心理论支柱，推动制度化落地。

@@ -56,33 +56,25 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-06
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2010
 doi: ""
 citation_aliases:
   - "Snook et al., 2010"
   - "Snook et al. (2010)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 对 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 批评的回应是否充分解决了实质性的方法论关切？
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 未采用特定理论框架，继续以教育哲学和研究方法论视角进行批判性回应。重申 Dewey 的[[Pragmatic Paradigm\|实用主义]]知识观为基线立场：证据不提供行动规则，只为明智的[[Problem Solving\|问题解决]]提供假设(Hattie, 2009, p.247, quoted p.97)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：学术回应（academic reply），非实证研究
 > - 回应对象：[[Argument_Hattie_2010_NZJES\|Hattie (2010)]] 中对 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 的直接和间接批评
 > - 分析维度：非学校因素、研究质量、偏差控制、[[Effect Size\|效应量]]平均化、[[Class Size\|班级规模]]、[[Meta-analysis\|元分析]]在教育中的适用性
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > Snook et al. 逐一回应 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 的辩护，论证其未能充分解决 2009 年提出的方法论关切：
 >
 > 1. **非学校因素** Hattie 承认自己选择性地搁置了这些因素——"不是不重要，只是不在我的轨道内"(Hattie, 2009, pp.x-xi)——但这正是问题所在：政策制定者很容易忘记这一重要限定(p.94)。Hattie 自己的研究也证实家庭背景是影响[[Academic Achievement\|学业成就]]的最重要[[Variable\|变量]]
@@ -112,9 +104,7 @@ citation_aliases:
 > - 许多成功学校和课堂的[[Case Study\|案例研究]]展示了实际互动效应的运作——一个有洞察力的干预可以抵消其他影响，即使后者有更大的效应量
 > - 教师教育应教学生了解研究过程及其局限性，而非教他们简单地应用研究发现
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “[[Meta-analysis\|元分析]]中涉及的方法论往往不仅不能启发，反而会掩盖良好政策决策所需的东西。将各种因素归集为一个‘[[Effect Size\|效应量]]’，常常隐藏了问题的复杂性。”
 > ("The methodology involved in meta-analyses often obscures rather than illuminates what is needed for good policy decisions. The grouping of various factors into one '[[Effect Size]]' often hides the complexity of the issues.") (p.97)
 >
@@ -127,9 +117,7 @@ citation_aliases:
 > > “对于准备从事教学的学生来说，了解研究过程以及它是多么容易导致错误而不是真相，这一点很重要。他们需要尊重研究，但也要敏锐地意识到它的局限性。”
 > ("It is important that students preparing for teaching learn about the research process and how easily it leads to error rather than truth. They need to respect research but be acutely aware of its limitations.")
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 论文为 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 和 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
 > - 未对 Hattie 提出的"学者作为社会批评者与良知"角色讨论做出系统性回应，将其视为"另一场合的辩论"(p.94)
 > - 对户外教育 d=0.17 效应的误解（在 2009 原文中指出的错误）得到了承认和撤回(p.96)

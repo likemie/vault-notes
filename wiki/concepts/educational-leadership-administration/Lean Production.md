@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Lean Production
@@ -127,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s–1970s — 丰田生产方式创立** [[Taiichi Ohno|大野耐一]]与丰田喜一郎在战后日本资源匮乏环境下探索消除浪费之道，创建看板系统与准时制模式。
 > - **1980s — [[Evolutionary Economics|演化经济学]]将其提炼为[[Paradigm|范式]]组织代表** 弗里曼等创新经济学者将日本民用工业的精益制造确立为新[[Joseph Schumpeter|熊彼特]][[Techno-economic Paradigm|技术-经济范式]]的组织典范。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 12, 18)]]
 > - **1990 — 《改变世界的机器》引发全球推广** 沃马克、琼斯与鲁斯（Womack, Jones, & Roos, 1990）正式提出“精益生产”（Lean Production）术语，推动全球汽车与电子制造业系统性改造。
@@ -152,7 +150,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 将精益生产系统与多技能轮岗明确界定为微电子[[Techno-economic Paradigm|技术-经济范式]]转型中的核心组织管理创新，强调其与国家公共职业教育培训及产业赶超绩效的深度互依性。

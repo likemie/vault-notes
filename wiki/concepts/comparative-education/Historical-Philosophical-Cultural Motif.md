@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Historical-Philosophical-Cultural Motif
@@ -226,9 +226,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1900 — [[Michael Sadler\|萨德勒]]吉尔福德演讲确立校外力量优位公理** 萨德勒发表《我们在多大程度上能够从外国教育制度研究中学习实际有价值的经验？》，提出学校是活体有机体，校外事情支配校内一切，终结了功利借用主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 42–45)]]
 > - **1930s — [[Isaac Kandel\|坎德尔]]确立政治国家与因果探究三阶段[[Paradigm\|范式]]** 坎德尔出版巨著《比较教育》（1933），将主权国家作为首要解释[[Variable\|变量]]，确立探寻起因、比较差异与考察方案的三阶段程序，并创办《教育年鉴》。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 45–48)]]
 > - **1949 — 汉斯提出三维历史因素分析分类框架** 汉斯出版《比较教育：教育的因素与传统研究》，建立自然、宗教与世俗历史因素框架，为纷繁复杂的跨国历史史料提供了系统的分类过滤器。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 49–51)]]
@@ -281,8 +279,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 思想史考古系统梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]的思想谱系，反思[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]，并借由[[Crane Brinton\|布林顿]]比较史学确立[[Historical-Comparative Method\|历史比较法]]在理论建构与因果阐释上的现代学术合法性。
 

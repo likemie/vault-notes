@@ -35,7 +35,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Gilbert Nicol
@@ -49,9 +49,7 @@ updated: 2026-10-21
 > - **核心角色** 把区域法人从筹资框架转化为能够持续接触学校、培训教师和协调大学关系的执行组织。
 > - **代表贡献** 建立介绍会和教师培训工作坊两类扩张机制，使[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）从少数[[International Schools\|国际学校]]进入美国和加拿大公立高中。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 143–152)]]
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1947 年** 在阿默斯特学院取得学士学位，此前曾在军事情报部门服役。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, p. 143)]]
 > - **1950 年** 在哥伦比亚大学取得法学学士学位，随后从事学院与大学行政工作。
 > - **1971–1976 年** 担任大学与学院规划协会（Society for College and University Planning）执行主任，并曾任普林斯顿大学发展副主任，积累教育规划与募款经验（p. 143）。
@@ -82,25 +80,19 @@ updated: 2026-10-21
 > - **推广必须转为实施支持** 学校[[Heterogeneity\|异质性]]越高，越不能依赖统一销售话术；工作坊需要让新校直接接触已实施教师、考官和主考官。
 > - **证据边界** 这些观察来自区域负责人的学校报告，适合说明组织策略，不足以证明参与学校具有统计代表性。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 151–153)]]
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **组织路径** 以独立办公室和专职执行职位维持学校联络、募款与区域治理，不依附单所学校或大学。
 > - **专业路径** 动员先行学校教师、IB 考官和主考官进入培训，使实践知识可以跨学校传递。
 > - **财务路径** 把基金会启动资金用于扩大授权学校群体，再以学校订阅和考试活动支持区域与全球组织。
 > - **跨国路径** 在北美地方自主环境中发展区域推广模式，同时维持日内瓦对课程与考试的国际控制。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 140–152)]]
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **机构** [[International Baccalaureate North America]] — 长期担任执行主任，负责推广、筹资、学校关系和教师支持。
 > - **课程组织** [[International Baccalaureate]] — 把国际课程转化为北美学校可理解、申请和实施的项目。
 > - **组织发起者** [[Fred Block|布洛克]]·卡鲁斯（Blouke Carus） — 推动 IBNA 法人化并担任主席，尼科尔负责把治理设计转化为日常执行。
 > - **先行学校教师** 联合国[[International Schools\|国际学校]]、弗朗西斯·刘易斯高中和皮尔逊书院教师承担早期工作坊教学，形成校际实施网络。
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |---|---|---|

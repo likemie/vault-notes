@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Totally Pedagogised Society
@@ -61,8 +61,6 @@ updated: 2026-10-20
 > 原文：*"The best hint, so far, is in the remarkably original thinking of Basil Bernstein (2001). Bernstein turned what sounds like an alarmist bit of journalism – a 'totally pedagogised society' – into a coherent theoretical concept by thinking (in a Durkheimian way) about 'the social base' which systematically [[CREATES Project\|CREATES]] patterns of pedagogic relations outside of the institutions of nineteenth and twentieth century schooling."* ([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 核心概念辨析
 > | 维度 | 全盘教育化社会 (Totally Pedagogised Society) | [[Lifelong Learning\|终身学习]] (Lifelong Learning) | 教育化 (Pedagogization) |

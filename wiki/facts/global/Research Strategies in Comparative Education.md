@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research Strategies in Comparative Education
@@ -120,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!event-network|notitle] 关系网络
+> [!event-network] 关系网络
 > - **调查领衔者** [[Val D. Rust]] — 主持 UCLA 研究团队并统筹论文设计。
 > - **学术依托机构** 加州大学洛杉矶分校（UCLA）、[[Comparative and International Education Society|比较与国际教育学会]]（CIES）。
 > - **被分析刊物** 《比较教育评论》（CER）、《比较教育》（CE）、《[[International Education|国际教育]]发展杂志》（IJED）。
@@ -130,9 +128,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

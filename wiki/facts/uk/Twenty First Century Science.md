@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-22
 ---
 
 # Twenty First Century Science
@@ -75,9 +75,7 @@ updated: 2026-09-22
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

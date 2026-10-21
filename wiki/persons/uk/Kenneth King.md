@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Kenneth King
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1970年代** 执教于爱丁堡大学，聚焦非洲泛非主义教育史与非正规部门技能培训研究，奠定历史文献与[[Fieldwork|田野调查]]相结合的研究取向。
 > - **1986–2005** 出任爱丁堡大学非洲研究中心主任，长期主持并编辑 NORRAG 成果简报，推动国际发展组织教育援助政策的跨国批判分析。
 > - **2000年代** 持续追踪[[Forum on China-Africa Cooperation|中非合作论坛]]历届部长级会议与峰会的人力资源开发政策演变，拓展比较教育对新兴[[South-South Cooperation|南南合作]]力[[Quantitative Research|量的研究]]。
@@ -131,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **机制／项目** [[Forum on China-Africa Cooperation]] — 金持续追踪二十余年的对非多边合作平台。
 > - **战略／倡议** [[Belt and Road Initiative]] — 金晚期研究聚焦的全球多边互联互通框架。
 > - **机构／平台** [[Institute of South-South Cooperation and Development]] — 金用以论证对非教育合作由通用技能短训升级为国家发展经验互鉴的标志性实体机构。
@@ -152,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

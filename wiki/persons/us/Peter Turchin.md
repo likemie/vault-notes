@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peter Turchin
@@ -59,9 +59,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1957** 出生于苏联莫斯科，父亲为苏联著名控制论学者与物理学家瓦连京·图尔钦（Valentin Turchin）。
 > - **1978** 随家庭移居美国，在纽约大学获得生物学学士学位。
 > - **1987** 获得杜克大学动物学博士学位，早期从事种群生态学与非线性动力学研究。
@@ -90,18 +88,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **定量历史学路径** 开创了运用宏观历史数据库（如 Seshat 历史数据库）检验历史社会学假说的实证[[Paradigm|范式]]。
 > - **政治经济学路径** 深刻启发了对西方[[Credential Inflation|文凭通胀]]、中产阶层地位焦虑与民粹主义思潮的结构性解释。
 > - **科技大战略批判路径** 卡普与扎米斯卡（2025）将图尔钦的精英过剩机制引入对硅谷技术研发异化的分析，为理解[[Consumer Internet|消费互联网]]兴起提供了阶层社会学视角。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -111,7 +105,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Karp & Zamiska (2025)]] — 专著第 9 章直接援引图尔钦《末日时代》关于[[Elite Overproduction|精英生产过剩]]的理论论述，剖析当代硅谷年轻工程师沉溺于开发[[Lifestyle Technology|生活方式科技]]的阶层动因。

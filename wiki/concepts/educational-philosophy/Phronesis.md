@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Phronesis（实践明智 / 实践智慧）
@@ -170,9 +170,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **BC 350 — 哲学奠基** [[Aristotle|亚里士多德]]在《尼各马可伦理学》卷六中系统区分[[Theoretical Knowledge|理论知识]]（Episteme）、制作技术（Techne）与实践明智（Phronesis），将后者确立为指导伦理政治行动的核心德性。
 > - **1969/1987 — 课程与教育哲学复兴** 施瓦布发表《实践：课程的语言》，葛兰蒂出版《课程：产品、过程与实践》，将 *Phronesis* 引入教育学，批判[[Tyler Rationale|泰勒原理]]式的技术控制主义。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 61, 引自 Darwish, 2009)]]
 > - **2000s — 教师专业临床判断与实践探究** [[Stephen Kemmis|凯米斯]]（Stephen Kemmis）等倡导[[Practitioner Enquiry|实践者探究]]（Practitioner Enquiry），强调教师作为具备实践明智的专业实践者而非教条执行者。
@@ -192,17 +190,13 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统考证了[[Aristotle|亚里士多德]]实践明智（Phronesis）在斯滕豪斯过程模式与 [[Theory of Knowledge|TOK]] 课程对话审议中的[[Epistemology|认识论]]功能。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，将熟练技师与工程师在现场排障与实验装置建造中的实践智慧，确立为国家创新公地与[[Engineering Education|工程教育]]不可分割的基石。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

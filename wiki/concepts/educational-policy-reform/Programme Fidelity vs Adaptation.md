@@ -38,21 +38,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > Programme Fidelity（方案忠实度）指在实施已被研究证明有效的干预方案时，尽可能忠实地复制原始方案的所有细节。Adaptation（本地适应）则指根据本地情境对原始方案进行调整修改。这两者之间存在持续的张力，是证据本位政策实施领域的核心争论。
 >
 > > "Fidelity matters because when programmes are modified to suit site-specific preferences or circumstances, in essence a different programme results, a programme that no longer benefits from the evidence available."([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.17]])
 > >
 > > 同时："Departing in just the right ways can be just what is needed to produce successful outcomes."([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.18]])
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > 这一争论起源于医学和公共卫生领域的证据本位实践，随后扩展到教育领域。早期实施科学（如 Fixsen et al., 2005）倾向于强调忠实执行的重要性，但 Cartwright and Hardie (2012) 挑战了这一立场，指出"忠实执行"预设了原始方案已包含所有必要的支持因素，而这不能假设为普遍成立。
 
 ## 核心要素
@@ -101,37 +97,27 @@ updated: 2026-10-21
 >
 > 这一洞见揭示了 fidelity vs adaptation 辩论的一个盲区：双方都预设了"原始方案"是固定的，而忽视了**方案本身可能不是最优的——结合情境适应的创新可能产生原始 RCT 从未测试过的更有效方案**。
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - vs [[Evidence-Based Education]] — EBE 倾向于强调"什么有效"的证据生产，而 fidelity vs adaptation 关注证据实施过程中的操作决策
 > - vs [[Local Knowledge in Evidence-Based Policy]] — 本地知识是判断何时适应、如何适应的前提条件；[[Argument_Wiliam_2019_ERE\|Wiliam (2019, p.13)]] 以 Hayek (1945) 的"特定时间和地点环境的知识"为此提供理论基础
 > - vs [[Cartwright's Three-Stage Knowledge Framework]] — 三阶段框架为 fidelity vs adaptation 的决策提供了分析工具：理解因果机制（阶段二）才能判断哪些要素必须忠实复制、哪些可以本地替代
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - [[Cartwright's Three-Stage Knowledge Framework]] — 判断是否需要忠实执行取决于：原始方案中的每个要素是因果必需的（不可替代）还是仅为支持条件之一（可能有功能等价替代）
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > - 教师访谈显示实践中几乎没有学校"开箱即用"地应用证据本位方案([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.40-41]])
 > - 部分教师试图向自己证明"忠实于研究"——通过测量中间结果来验证方案是否按预期产生了初始效果([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.29-30]])
 > - 另一位教师则认为只要理解自己偏离了什么以及为什么偏离，忠实度并非必须维持([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.30]])
 > - Tennessee STAR 本身也非"忠实执行"的完美范例：[[Random Assignment\|随机分配]]在操作中被破坏——家长发现孩子被分配到大班后施压转班，在平均更有效的学校中更富裕学生在小班中过度代表（Sohn, 2015）([[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp.6–7]])
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - **忠实执行的局限** 加州班级缩减政策的失败说明有时"忠实执行"在实践中根本不可能——因为支持因素（合格教师、教室）在当地不可得([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.17-18]])。[[Argument_Wiliam_2019_ERE\|Wiliam (2019, p.7)]] 补充了更深层的问题：当大规模推广时，[[Randomised Controlled Trials\|RCT]] 试验本身的参与者（教师）质量就不可复制——这不是执行的问题，而是**试验条件本身在推广时就不再成立**。
 > - **适应的风险** 教师[[Creativity\|创造性]]地使用证据有时远远超出证据支持的范围([[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.41]])
 > - **没有手册可以告诉你答案**[[Argument_Cowen_2015_CHESS\|Cowen et al. (2015, p.19)]] 指出没有现成手册规定哪些情况下应忠实哪些情况下应适应。[[Argument_Wiliam_2019_ERE\|Wiliam (2019, p.11)]] 的结论呼应了这一点："识别如何最有利地引导努力永远涉及判断的应用。"
 > - **"教育研究只告诉我们曾经是什么，而非可能是什么"** Wiliam 的核心洞见——现有研究只能告诉我们"已被测试过的方案在已被测试过的条件下的效果"，而无法告诉我们"如果我们将此方案与情境适应的创新结合会发生什么"
 
-## 相关案例／政策
-
-> [!example|notitle] 相关案例／政策
+> [!example] 相关案例／政策
 > - [[California Class Size Reduction 1996]] — 加州 1996 年班级缩减政策未能复制田纳西州的成功
 > - [[Tennessee STAR Project 1985-1989]] — [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 详细分析的 [[Randomised Controlled Trials\|RCT]] 外推失败经典案例
 > - [[EEF Teaching and Learning Toolkit]] — 提供平均[[Effect Size\|效应量]]但关于情境变异的信息有限

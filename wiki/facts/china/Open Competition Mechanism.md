@@ -26,21 +26,17 @@ related_arguments: []
 confidence: high
 status: draft
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-22
 ---
 
 # Jiebang Guashuai
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 在关键核心技术攻关中，传统的科技项目管理体制存在壁垒，导致科研资源无法实现最优配置。为了攻克"卡脖子"难题，激发全社会的创新活力，打破所有制和身份限制，国家提出实施"揭榜挂帅"机制。
 
 ---
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 核心目标是通过竞争机制（如"赛马"），以需求和问题为导向，遴选出最具备技术实力的创新主体来承担重大科技攻关任务。在科技成果转化中，该机制强调由企业作为"出题人、答题人、阅卷人"，推动以产业应用为导向的科技攻关（p.30）。
 
 ---
@@ -52,9 +48,7 @@ updated: 2026-06-03
 
 ---
 
-## 相关概念／理论
-
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 > - Principal Status of Enterprises in Innovation
 
 ---

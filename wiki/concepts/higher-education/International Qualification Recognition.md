@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # International Qualification Recognition
@@ -165,7 +165,5 @@ updated: 2026-10-21
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–71)]] | IB 学生升学 | 大学与国家覆盖 | 学生已进入 25 国的 175 所大学 | 入学、免修和分班等用途没有在总数中分开 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 67–68)]] | 1970–1975 正式考试 | 完整文凭考生 | 29 人增至 377 人，始终低于每年 500 人限制 | 规模增长不能单独证明承认质量或课程效果 |
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–71)]] — 以 IB 六年试验比较大学、教育机关与指定学校等承认路径，展示国际资格如何发展为跨国网络；法、德等国的有限承认争议见 [[Argument_Peterson_1987_OpenCourt_Ch07|Ch. 7]]。

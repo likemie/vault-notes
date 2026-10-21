@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # George Bereday
@@ -94,9 +94,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1920** 出生于波兰华沙。二战爆发后加入波兰抵抗运动及西部波兰武装部队，任骑兵军官，参加阿纳姆战役，因战功荣获波兰最高军事勋章（Virtuti Militari）。
 > - **1944–1953** 战后流亡英国与美国，先后在伦敦政治经济学院（LSE）获得经济学学士学位，在牛津大学获得文学硕士学位，并在哈佛大学师从[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）完成博士学位（1953），奠定跨学科社会科学视野与多语种比较研究功底。
 > - **1955** 进入哥伦比亚大学[[Normal School\|师范学院]]任教，继承并拓展由[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）等人开辟的比较教育重镇，迅速成为哥大师范学院学术领袖。
@@ -186,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与前辈** [[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich） 哈佛大学博士导师，奠定其历史哲学比较底色；[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel） 哥伦比亚大学[[Normal School\|师范学院]]前辈泰斗，贝雷迪在坎德尔逝世后发表权威纪念评传，总结其[[Epistemology\|认识论]]遗产。
 > - **合作者与跨洲学术镜像** [[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys） 联合主编《世界教育年鉴》，共同构成 20 世纪中期跨越大西洋、连接拉美与东亚的学术立交桥枢纽。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **方法论论敌与演绎学派** [[Brian Holmes\|布莱恩·霍姆斯]]（Brian Holmes） 就经验归纳四步法与[[Critical Dualism\|批判二元论]]演绎[[Problem Approach\|问题法]]展开学科大论战，霍姆斯指责四步归纳法陷入观察前见与无法获得普遍有效规律。
@@ -219,9 +215,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

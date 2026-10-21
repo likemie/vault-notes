@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Richard Rose
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1933** 出生于美国堪萨斯城（Kansas City），后赴英国接受高等教育。
 > - **1958** 获英国牛津大学（Lincoln College）政治学博士学位，随后留英从事学术，逐渐成为英国比较政治学研究的领军人物。
 > - **1966–2005** 在英国格拉斯哥斯特拉斯克莱德大学担任政治学教授，建立并长期主持跨国选举与政府比较研究项目（CSPP，Centre for the Study of Public Policy）。
@@ -108,27 +106,21 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** "经验汲取"框架成为比较政治学、公共行政学、社会政策与比较教育学中研究政策转移的[[Criterion-Referenced Test\|标准参照]]理论，是 David Dolowitz and David Marsh（2000）政策转移研究的重要理论前驱。
 > - **方法路径** 奠定了跨国政策比较研究以"政策旅行（policy travel）"与"情境适配（contextual fit）"为[[Unit of Analysis\|分析单元]]的方法传统。
 > - **教育政策影响** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统将罗斯的经验汲取理论引入比较教育研究，发展出"[[Externalization\|外化]]"（[[Externalization]]）概念与[[Policy Borrowing\|政策借用]]批判分析；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]] 在分析国际组织如何打包和传递政策经验时，仍直接援引 Rose（1993）的经验汲取类型学。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论传承** [[Gita Steiner-Khamsi]] — 将 Rose 的经验汲取理论引入比较教育并发展出"[[Externalization\|外化]]"批判概念的核心学者。
 > - **学术对话** David Dolowitz & David Marsh — 在 Rose 框架基础上发展政策转移研究的后续学者。
 > - **思想背景** Harold Lasswell — [[Policy Science in Comparative Education\|政策科学]]传统的先行者，罗斯的政策学习研究在这一传统内深根。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

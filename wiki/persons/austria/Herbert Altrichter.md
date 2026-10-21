@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Herbert Altrichter
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1954** 出生于奥地利维也纳，先后在维也纳大学修读历史、心理学与教育学，获哲学博士学位。
 > - **1980 年代** 投身校本课程创新与教师[[Action Research\|行动研究]]，与彼得·波施（Peter Posch）合作创立德语区教师行动研究学派。
 > - **1990 年代初** 赴英国剑桥大学、东英吉利大学开展学术交流，与国际行动研究学者布里奇特·索梅克（Bridget Somekh）共同出版英文专著《Teachers Investigate Their Work》。
@@ -96,9 +94,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键理论与学术贡献
-
-> [!entry-map|notitle]
+> [!entry-map] 关键理论与学术贡献
 >
 > | 贡献领域 | 核心机制与分析工具 | 关联条目 |
 > |:---|:---|:---|
@@ -109,7 +105,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 基于奥地利 362 名校长[[Questionnaire\|问卷调查]]，运用[[Cluster Analysis\|聚类分析]]识别三种治理态度类型，证实循证态度驱动微观工时重塑与教学领导。

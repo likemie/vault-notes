@@ -8,10 +8,10 @@ summary: "英国著名教育政策社会学家，牛津大学教育学系荣休�
 type: person
 subtype: scholar
 person_region: "uk"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1948"
 died: ""
 lifespan: "1948–至今"
@@ -27,26 +27,21 @@ tags:
   - theme/sociology-of-education
 related_concepts:
   - "[[School Inspection]]"
-  - "[[Governing at a Distance]]"
   - "[[Research Utilization]]"
-  - "[[Evidence-Based Policy-Making]]"
-  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
 related_theories:
   - "[[Governing by Inspection]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Governing at a Distance]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Swedish Schools Inspectorate]]"
-  - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jenny Ozga
@@ -62,9 +57,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1970年代** 毕业于英国伯明翰大学与伦敦大学，投身战后英国批判教育社会学与教师劳工过程研究。
 > - **1980–1990年代** 执教于英国开放大学（Open University），长期讲授教育政策与管理课程，反思撒切尔主义市场化改革对公立学校体制的瓦解。
 > - **1990年代末–2010** 担任英国爱丁堡大学教育政策研究讲座教授，创立并领导教育社会学研究中心（CES），主持多项英国经济与社会研究委员会（ESRC）重大跨国课题。
@@ -98,9 +91,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **欧洲政策社会学学术网络** 奥兹加长期担任欧洲教育治理研究集群的学术引路人，其开创的“治理知识”框架直接哺育了爱丁堡与牛津学派。
 > - **督导治理理论流派** 其学生与合作学者索蒂里亚·格雷克、约阿基姆·林德格伦等在奥兹加学术思想滋养下创立“借督导治理”（Governing by Inspection）学派。
 > - **瑞典学校督察局实证案例的理论透镜** 塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）将奥兹加（Issakyan & Ozga, 2008; Ozga, 2011）的两分法作为全文核心理论框架之一，精准界定常规督导侧重“知识告知政策”的理性改革特征，而质量审计则属于典型的“知识构成政策”的深层政治建构。
@@ -119,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

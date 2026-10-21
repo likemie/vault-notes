@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # William H. McNeill
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1917** 出生于加拿大温哥华，后移居美国。
 > - **1938–1947** 获得芝加哥大学学士与硕士学位，并在康奈尔大学获得历史学博士学位。
 > - **1947–1987** 长期任教于芝加哥大学历史系，主讲西方文明通识核心课程与全球史课程。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 84)]]

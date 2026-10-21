@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cumulative Dosage Principle
@@ -144,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统提出累积剂量原则，作为从根本上反驳循证干预短期衰减批评的核心理论支柱。
 > - [[Fade-out Effect]] — 效应衰减主条目，记录短期因果干预效果随时间衰减的实证现象与理论解释。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过在 [[Response to Intervention\|RTI]] 各层级刚性填充经验证方案以保障累积剂量的落实。

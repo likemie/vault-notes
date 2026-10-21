@@ -22,11 +22,11 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Peer Debriefing]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Audit Trail]]"
-  - "[[Member Checking]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Member Checking]]"
+  - "[[Peer Debriefing]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # External Auditor
@@ -128,9 +128,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

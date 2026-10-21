@@ -175,7 +175,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Evidence-Based Education
@@ -532,9 +532,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
@@ -559,9 +557,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2002_ER|Slavin (2002)]] — [[American Educational Research Association|AERA]] 杰出讲座纲领性文献，系统论证证据本位教育政策的必要性、[[Randomised Controlled Trials|RCT]] 黄金标准与联邦分层资助路径。
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从支持者立场系统总结 EBE 在 [[Every Student Succeeds Act|ESSA]] [[Evidence Standards|证据标准]]法制化、干预方案存量增长与国际扩散方面的最新进展。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 提出知识、效力与应用三重[[Deficit Framing|缺陷框架]]，深刻批判 EBE 忽视教育开放系统特征与压制民主价值讨论的[[Technical Rationality|技术理性]]偏颇。

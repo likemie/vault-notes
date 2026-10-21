@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Fred N. Kerlinger
 
@@ -59,9 +59,7 @@ updated: 2026-10-16
 > 
 > 一套相互关联的构念（变量）、定义和命题，通过具体说明变量间的关系来呈现对现象的系统观点，其目的在于解释自然现象。
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - Kerlinger 的理论定义成为[[Quantitative Research\|量化研究]]方法教学中的标准引用，至今仍是 Creswell 等教材作者的首选定义
 > - *Foundations of Behavioral Research* 是社会科学量化方法领域被广泛使用的参考书
 > - 他对[[Scale of Measurement\|测量尺度]]和[[Variable\|变量]]的讨论为后续方法论教材奠定了基础

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Eroom's Law
@@ -168,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -185,7 +183,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第二章，系统分析生物医药与半导体领域的厄鲁姆定律放缓，提出组合式资助、[[Focused Research Organization|FRO]] 与[[Genesis Mission|创世纪计划]]的破局路径。

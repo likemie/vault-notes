@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 34
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 29
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"
@@ -29,45 +29,40 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Policy Entrepreneur]]"
   - "[[School Inspection]]"
-  - "[[Competitiveness]]"
-  - "[[Socioeconomic Status]]"
   - "[[Variable]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[Competitiveness]]"
   - "[[Research Utilization]]"
-  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
-  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
-  - "[[Matching]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[William H. Schmidt]]"
-  - "[[John Hattie]]"
 related_facts:
   - "[[IEA]]"
   - "[[PIRLS]]"
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[SINUS]]"
-  - "[[Australian Council for Educational Research]]"
   - "[[Common Core State Standards]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
+  - "[[Australian Council for Educational Research]]"
   - "[[Vergleichsarbeiten]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # TIMSS
@@ -150,11 +145,11 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards|CCSS]]）提供了关键的国际基准与议程合法性 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] | 德国教育行政科层官员访谈 | 追踪定性访谈与政策分析 | 国际测评在各州教育治理中的功能认知 | 官员普遍认同 TIMSS 具备宏观定位功能，但明确指出其无法直接推导微观改进举措 | — | 确立[[International Large-Scale Assessments|国际大规模评估]]主要发挥宏观方位导向而非微观教学指导功能 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 33)]]（引述 Roppelt et al., 2013; Köller, 2012） | 德国大规模数理学业追踪与[[Meta-analysis|元分析]]基准对比 | 宏观学业成长实证追踪与方法学审计 | 学期与学年常态能力成长幅度（$d$） | 证实学生全学年常态数理能力增长通常仅在 $0.20–0.40$ 个标准差（每学期 $0.15–0.20$） | 跨大规模评估稳定重现 | 击碎了哈蒂将 $d = 0.40$ 设定为排他性一学年成长基准的虚构神话，为客观评价教学法效应提供了现实依据 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards\|CCSS]]）提供了关键的国际基准与议程合法性 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] | 德国教育行政科层官员访谈 | 追踪定性访谈与政策分析 | 国际测评在各州教育治理中的功能认知 | 官员普遍认同 TIMSS 具备宏观定位功能，但明确指出其无法直接推导微观改进举措 | — | 确立[[International Large-Scale Assessments\|国际大规模评估]]主要发挥宏观方位导向而非微观教学指导功能 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 33)]]（引述 Roppelt et al., 2013; Köller, 2012） | 德国大规模数理学业追踪与[[Meta-analysis\|元分析]]基准对比 | 宏观学业成长实证追踪与方法学审计 | 学期与学年常态能力成长幅度（$d$） | 证实学生全学年常态数理能力增长通常仅在 $0.20–0.40$ 个标准差（每学期 $0.15–0.20$） | 跨大规模评估稳定重现 | 击碎了哈蒂将 $d = 0.40$ 设定为排他性一学年成长基准的虚构神话，为客观评价教学法效应提供了现实依据 |
 
 > [!stat-cards]- 关键实证数据
 > - **4** （年）为固定周期的常态化全球测评跨度。
@@ -197,9 +192,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -133,7 +133,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # World Bank
@@ -358,9 +358,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

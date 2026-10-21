@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Problem Solving
@@ -230,9 +230,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence|生成式人工智能]]促进[[Higher-Order Thinking Skills|高阶思维]]的一阶[[Meta-analysis|元分析]]中，将问题解决能力作为首要[[Dependent Variable|因变量]]维度展开综合检验，发现其获得的促学增益最大（$g = 0.745$），并深入阐释了技术算法与程序性心智的高适配机制。
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 在 [[OECD]] 高等教育[[Learning Gain|增值评价]]研究中，将复杂问题解决界定为大学生跨学科通用[[21st Century Skills and Competencies Discourse|核心素养]]，系统评述了 [[Collegiate Learning Assessment|CLA+]]、[[ETS HEIghten Critical Thinking Assessment|HEIghten]] 及真实表现性任务对复杂问题解决能力的测量有效性与实施边界。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视角界定工程问题解决在多重约束权衡、原型设计迭代与数据决策中的独特规程。
@@ -240,9 +238,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

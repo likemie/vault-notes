@@ -54,24 +54,20 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2010
 doi: ""
 citation_aliases:
   - "Biesta, 2010"
   - "Biesta (2010)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > [[Evidence-Based Education\|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意义上是可行的？它对证据的期待在[[Epistemology\|认识论]]、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
 >
 > > “因此，重要的问题不在于证据在专业行动中是否应该发挥作用，而在于它应该发挥什么样的作用。”
 > ("The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play.") (p. 492)
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - **Dewey 的交易[[Epistemology\|认识论]]（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research\|实验研究]]无法产生未来确定性的知识
 > - **系统理论（Systems Theory）** — 封闭/开放/递归/符号系统的区分，论证社会领域的非[[Determinism\|决定论]]特征
 > - **Latour 的计量学（Metrology）** — 论证"科学成就"并非知识应用到世界，而是世界被改造为实验室条件
@@ -79,16 +75,12 @@ citation_aliases:
 >
 > 论文的方法论立场：概念分析 + 哲学论证，属于教育哲学的分析传统。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - **方法**[[Philosophical Analysis in Education]] — 以三个维度（[[Epistemology\|认识论]]、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构** 每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
 > - **数据来源** 哲学文献（Dewey、Latour）、系统理论、教育研究方法论文献
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > ### 三重[[Deficit Framing\|缺陷框架]]
 >
 > Biesta 在[[Epistemology\|认识论]]、存在论和实践论三个维度逐一拆解[[Evidence-Based Education\|证据本位教育]]的前提假设。
@@ -144,9 +136,7 @@ citation_aliases:
 > 1. **一般价值判断** 即使我们有最强证据表明某手段有效，我们仍可能基于伦理决定不使用它（例如：为了[[Academic Achievement\|学业成绩]]把儿童带离家庭，虽然在技术上有据可循但在伦理上不可接受）
 > 2. **教育价值判断** 教育中手段与目的存在**内在关系**——手段不仅达成目的，还**教会学生关于手段本身的东西（例如：使用惩罚可能在技术上有效，但它教会学生"以暴力实现意志是允许的"——Carr, 1992, p. 249）**
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > 1. **三重缺陷分别挑战了[[Evidence-Based Education\|证据本位教育]]的不同前提** 知识缺陷挑战了"研究能提供确定性"的假设；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
 >
 > 2. **证据本位教育实际上是一个价值真空的项目** 如果证据是唯一基础，教育实践将"完全没有方向"
@@ -155,9 +145,7 @@ citation_aliases:
 >
 > 4. **价值构成教育实践的存在条件** 没有规范性取向和目的表述，教育实践就不存在——至少不作为**教育**实践存在
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “总而言之，这些缺陷不仅对循证实践的理念本身提出了一些重要问题，而且还凸显了规范性、权力和价值观的作用。”
 > ("Taken together these deficits not only raise some important questions about the very idea of evidence-based practice but also highlight the role of normativity, power and values.") (p. 491)
 >
@@ -173,9 +161,7 @@ citation_aliases:
 > > “如果证据是教育实践的唯一基础，教育实践将完全失去方向。这就是为什么在教育中，价值观必须放在首位的一个原因。”
 > ("If evidence were the only base for educational practice, educational practice would be entirely without direction. This is one reason why, in education, values come first.") (p. 500)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > ### 哲学论证的实操距离
 >
 > **批评内容** Biesta 的论证停留在哲学层面（[[Epistemology\|认识论]]、存在论、实践论的概念分析），未提供[[Value-Based Education\|价值本位教育]]如何在教师教育和课堂实践层面具体操作的路线图。Cartwright and Hardie (2012) 在 *[[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Practical Guide to Doing It Better* 中提供了从交易认识论视角进行政策评估的操作性建议，部分回应了这一批评——但 Biesta 本人未进行这一层面的工作。

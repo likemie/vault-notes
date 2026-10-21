@@ -120,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Evidence Ecosystem
@@ -396,9 +396,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000s 初 — 部门知识管理赤字诊断** [[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI）跨部门调查揭示，教育系统相较于医疗与农业部门存在严重的知识管理与研发赤字。[[Argument_Revai_2022_ChangingLandscape\|(OECD, 2000, 2003; Révai, 2022, p. 16)]]
 > - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism\|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰[[Best Evidence Synthesis\|最佳证据综合]]（Best [[Research Synthesis|Evidence Synthesis]]，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–17)]]
 > - **2010 — 复杂系统模型与嵌套[[Paradigm\|范式]]确立** Best and Holmes (2010) 提出[[Knowledge Mobilisation\|知识动员]]三代嵌套演进模型（线性模型、关系模型、复杂系统模型），奠定了证据生态系统的理论骨架。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, pp. 18–19)]]
@@ -475,9 +473,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，系统界定宏观证据生态的系统级使能影响（战略优先、资源保障、过程监控），论证治理从下游结果问责转向决策过程透明度的制度转向。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill, D. (2022)]] — 跨国摸排 29 国 37 个教育系统证据中介组织生态位、部委政务网络、专业角色设立及微观决策心智，实证确证证据生态的中心—外围结构与交易型病理。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理国际循证政策二十年演变历程，系统构建线性-关系-系统嵌套模型与五维[[Analytic Framework\|分析框架]]，奠定跨国证据生态治理实证基底。

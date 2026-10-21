@@ -43,7 +43,7 @@ related_facts:
   - "[[OECD AHELO Project]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Cultural Validity
 
@@ -146,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, pp. 186–187)]] — 系统阐明文化效度的核心定义、Joy 的十二问评估框架以及研究者反思自身文化滤镜的[[Epistemology|认识论]]要求。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 200–201)]] — 揭示[[OECD|经合组织]]在 [[OECD AHELO Project|AHELO]] 研制中直接照搬美国 [[Collegiate Learning Assessment|CLA]] 测验因严重匮乏文化效度而遭遇跨国推行挫折的实证案例。
 

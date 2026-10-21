@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 74
+fact_related_count: 72
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Scientifically Based Research]]"
-  - "[[Evidence Standards]]"
   - "[[Student Mobility]]"
   - "[[Operationalization]]"
   - "[[Socioeconomic Status]]"
@@ -49,19 +48,17 @@ related_concepts:
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Phronesis]]"
+  - "[[Test-Based Accountability]]"
   - "[[Evidence-Based Reform]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Disciplina and Doctrina]]"
-  - "[[Test-Based Accountability]]"
 related_theories:
   - "[[Governmentality]]"
 related_methods:
-  - "[[Randomised Controlled Trials]]"
-  - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
   - "[[Multiple Regression]]"
   - "[[Intervention Research]]"
   - "[[Questionnaire]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Standard Error]]"
   - "[[Experimental Research]]"
 related_persons: []
@@ -71,10 +68,14 @@ related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Reading Excellence Act]]"
-  - "[[Comprehensive School Reform Program]]"
   - "[[Adequate Yearly Progress]]"
+  - "[[Comprehensive School Reform Program]]"
   - "[[American Educational Research Association]]"
+  - "[[Race to the Top]]"
   - "[[Common Core State Standards]]"
+  - "[[Educational Testing Service]]"
+  - "[[National Education Association]]"
+  - "[[American Federation of Teachers]]"
   - "[[National Governors Association]]"
   - "[[Council of Chief State School Officers]]"
   - "[[Data Team Intervention]]"
@@ -84,30 +85,27 @@ related_facts:
   - "[[Kenniskamer]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[Institute of Education Sciences]]"
-  - "[[Educational Testing Service]]"
-  - "[[National Education Association]]"
-  - "[[American Federation of Teachers]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
+  - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Downey_2016_SoE]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
-  - "[[Argument_McDonnell_2013_AmJE]]"
+  - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Brown_2017_EducRes]]"
   - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
-  - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_Verger_2019_Discourse]]"
 related_instruments: []
 confidence: high
 status: completed
 created: 2026-05-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # No Child Left Behind Act 2001
@@ -232,15 +230,15 @@ updated: 2026-10-21
 > [!effect-table]- 政策评估与实证数据
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
 >
-> | [[Evaluation Research|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
+> | [[Evaluation Research\|评估研究]] / 实证考证 | 样本规模与情境 | 研究设计与评估方法 | 核心评估[[Variable\|变量]] / 统计指标 | 主要统计结果与发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
 > | NCES (2007)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 8–9)]] | 全美各州 2005 年州立统考与 NAEP 成绩对照数据 | 宏观政策映射与心理测量分数等值化分析 | 各州自定熟练线（Proficiency Cut-score）在 NAEP 尺度上的等值分数与达标率断层 | 多州公布的 **80%–90%** 达标率在 NAEP 尺度下仅对应 **25%–35%** 真实熟练度；各州自定标准最大跨度达两个完整年级水准 | 实证证实 NCLB 问责诱发各州普遍下调标准（竞相向下沉沦），构成 CCSS 统一国家标准运动的直接催化依据 |
-> | Hanushek (2005)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 12–13)]] | 全美公立学校 1960–2000 年宏观纵向数据 | 宏观教育经济学纵向追踪分析 | 财政生均支出、生师比、高学历教师占比 vs NAEP 17 岁[[Academic Achievement|学业成绩]] | 生均实际支出激增 **240%**（\$2,235 $\to$ \$7,591），生师比降至 17.3，硕士师资升至 56%，但 NAEP 成绩近乎完全平缓停滞 | 揭示了传统资源投入与学业产出的严重脱钩，构成 NCLB 高利害问责立法的主要推力 |
+> | Hanushek (2005)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 12–13)]] | 全美公立学校 1960–2000 年宏观纵向数据 | 宏观教育经济学纵向追踪分析 | 财政生均支出、生师比、高学历教师占比 vs NAEP 17 岁[[Academic Achievement\|学业成绩]] | 生均实际支出激增 **240%**（\$2,235 $\to$ \$7,591），生师比降至 17.3，硕士师资升至 56%，但 NAEP 成绩近乎完全平缓停滞 | 揭示了传统资源投入与学业产出的严重脱钩，构成 NCLB 高利害问责立法的主要推力 |
 > | Linn (2003)，引自 [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]] | 全美 NAEP 统考历史增长率模型 | 统计外推与增长率线性建模 | 达成 100% 熟练水平（Proficiency）所需时间 | 按历史实际速率，四年级数学需 **150 年**、八年级数学需 **160 年** 方能实现 100% 达标 | 实证证实 NCLB 设定的 2014 年全员达标指标违背统计规律与教育现实 |
-> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；实证显示流动性显著负向预测学校统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
-> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 全美加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | 强力[[Falsification|证伪]]了 NCLB 政策假定中将学生流动等同于“家庭失范”与“学业冷漠”的赤字[[Discourse|话语]] |
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 1988–2017 年中小学实证[[Intervention Research|干预研究]]库 | 政策法案与因果实证文献演进分析 | 符合严格因果标准（ESSA 强/中等）的研究产出数量 | 1988–2003 年（NCLB 前期）每两年仅产出 **0–2 项**合格因果研究；[[Institute of Education Sciences|IES]] 成立及 i3 实施后增长至每两年 **20+ 项** | 证明单纯提出“科学本位研究”口号无效，唯有配套公共研发管线才能形成项目存量 |
-> | Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下高利害外部测试对教学行为与学校生态的严重扭曲 |
+> | Offenberg (2004)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 362)]] | 费城学区城市公立中小学校 | [[Multiple Regression\|多元回归]]与问责指标归因分析 | 学校报告卡中转校率（[[Transiency]]）对学校 AYP 达标的影响 | 高流动率被学校管理者普遍用作未能达成 AYP 的核心辩护借口；实证显示流动性显著负向预测学校统考达标率 | 揭示了问责制将人口结构性流动转化为学校推卸责任与病态化学生的治理异化 |
+> | Rumberger (2003); Kerbow et al. (2003)，引自 [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, p. 363)]] | 全美加州及芝加哥公立学校弱势学童 | 纵向追踪与家庭流动动因调查 | 居住搬迁在学生转学中的占比；低收入家庭转校的避险动机 | **60%** 的转学由居住搬迁直接诱发；贫困家庭高频转校往往属于主动逃避校园暴力与劣质教学的策略性避险 | 强力[[Falsification\|证伪]]了 NCLB 政策假定中将学生流动等同于“家庭失范”与“学业冷漠”的赤字[[Discourse\|话语]] |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 1988–2017 年中小学实证[[Intervention Research\|干预研究]]库 | 政策法案与因果实证文献演进分析 | 符合严格因果标准（ESSA 强/中等）的研究产出数量 | 1988–2003 年（NCLB 前期）每两年仅产出 **0–2 项**合格因果研究；[[Institute of Education Sciences\|IES]] 成立及 i3 实施后增长至每两年 **20+ 项** | 证明单纯提出“科学本位研究”口号无效，唯有配套公共研发管线才能形成项目存量 |
+> | Nichols and Berliner (2007)，引自 [[Argument_Zhao_2017_JEC\|Zhao (2017)]] | 全美多州公立中小学师生与管理者 | 全国性[[Questionnaire\|问卷调查]]与高风险问责行为分析 | 考场作弊、免考排斥与科目课时变化 | 约 **10%** 教师与管理者存在修改答案等作弊行为；非统考科目（音体美社会）课时被系统性削减 | 实证确证了坎贝尔定律下高利害外部测试对教学行为与学校生态的严重扭曲 |
 
 > [!stat-cards]- 核心数据
 > - **110** （次） 法案全文提及“[[Scientifically Based Research|科学本位研究]]”的总频次。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
@@ -289,9 +287,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -302,17 +298,17 @@ updated: 2026-10-21
 > | [[National Education Association]] | 机构事实 | 全美最大教师工会，在 NCLB 推行中陷入民权公平诉求与抵制高利害惩罚的双重困境。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 260–261)]] |
 > | [[American Federation of Teachers]] | 机构事实 | 早期支持严格国家标准、后期转向抵制狭隘统考与高利害惩罚的教师工会组织。[[Argument_Verger_2019_Discourse\|(Verger et al., 2019, pp. 260–261)]] |
 > | [[Data-Based Decision Making]] | 概念 | NCLB 是推动第一代基于数据的决策（DBDM）并在全球普及大规模标准化测试数据利用的政策发源地。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]] |
-> | [[Evidence-Based Reform]] | 概念 / 理论 | NCLB 是美国[[Evidence-Based Education|循证教育]]改革思潮由学术构想走向国家立法的早期制度化标杆。 |
+> | [[Evidence-Based Reform]] | 概念 / 理论 | NCLB 是美国[[Evidence-Based Education\|循证教育]]改革思潮由学术构想走向国家立法的早期制度化标杆。 |
 > | [[Scientifically Based Research]] | 政策概念 / 准入标准 | NCLB 全文 110 次提及的法定证据准入标准，首次将实验与准实验因果推断确立为联邦法定义务。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]] |
-> | [[Every Student Succeeds Act]] | 政策事实 | 替代 NCLB 的后续法律，确立了四级[[Operationalization|操作化]]证据分级体系。 |
+> | [[Every Student Succeeds Act]] | 政策事实 | 替代 NCLB 的后续法律，确立了四级[[Operationalization\|操作化]]证据分级体系。 |
 > | [[Comprehensive School Reform Program]] | 项目事实 | 与 NCLB 协同推行的联邦证据本位项目，重点要求学校采用有证据支持的整体改革方案。 |
-> | [[What Works Clearinghouse]] | 机构事实 | 联邦建立的权威证据清理平台，直接服务于识别 NCLB 所要求的“[[Scientifically Based Research|科学本位研究]]”干预。 |
+> | [[What Works Clearinghouse]] | 机构事实 | 联邦建立的权威证据清理平台，直接服务于识别 NCLB 所要求的“[[Scientifically Based Research\|科学本位研究]]”干预。 |
 > | [[Educational Evidence Clearinghouses]] | 概念 / 机构类型 | NCLB 为美国证据清算中心机制提供了最高联邦法律依据与经常性资金支撑。 |
-> | [[Danish Clearinghouse for Educational Research]] | 机构事实 | [[OECD|经合组织]] 15 年追踪中的对照案例；缺乏类似 NCLB 的法定经常性预算保障是其 2017 年关停的主因。 |
-> | [[Student Mobility|学生流动性]] | 概念 | NCLB 将学年中途转校率作为学校报告卡的核心指标，将其问题化为学业危机与学校失范的表征。 |
+> | [[Danish Clearinghouse for Educational Research]] | 机构事实 | [[OECD\|经合组织]] 15 年追踪中的对照案例；缺乏类似 NCLB 的法定经常性预算保障是其 2017 年关停的主因。 |
+> | [[Student Mobility\|学生流动性]] | 概念 | NCLB 将学年中途转校率作为学校报告卡的核心指标，将其问题化为学业危机与学校失范的表征。 |
 > | [[Governmentality]] | 上位理论 | 阐释 NCLB 如何依托数字分类、空间圈禁与指标达标技术进行人口规训与治理术建构的理论透镜。 |
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | 论证条目 | 深入分析 NCLB 将民权话语与新自由主义问责捆绑以跨越宪制阻力的政治经济学与话语分析。 |
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 深入考证 NCLB 的制度逆向激励与 NCES 映射实证数据如何被政策倡导者转化为制定国家标准的政治催化剂。 |
 > | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] | 论证条目 | 考证 NCLB 作为 DBDM 历史起点的问责渊源，分析其将数据利用窄化为终结性考试的局限。 |
-> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 深入论证了 NCLB 法定授权与经常性预算对[[Educational Brokerage Agency|证据中介机构]]跨越政党选举周期的关键制度护城河作用。 |
+> | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | 论证条目 | 深入论证了 NCLB 法定授权与经常性预算对[[Educational Brokerage Agency\|证据中介机构]]跨越政党选举周期的关键制度护城河作用。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 揭示 NCLB 学校报告卡将学生流动性建构为失范指标与人口治理规训工具的机制。 |

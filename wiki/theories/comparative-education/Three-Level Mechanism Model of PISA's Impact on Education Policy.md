@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Three-Level Mechanism Model of PISA's Impact on Education Policy
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -135,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** [[PISA]] 参与国之间教育政策回应差异的来源和机制；为何具有相似 PISA 排名的国家启动了不同的政策改革；PISA 影响从全球[[Discourse|话语]]转化为国内政策行动的中间过程。
 > - **谨慎使用** 非 [[OECD]] 成员国或未参与 PISA 的国家（该模型的超国家机制假设了 OECD-PISA 框架的存在）；仅由单一超国家组织驱动的治理情境（模型需要根据具体国际组织调整超国家层级的分析）。
 > - **不适合解释** 与 PISA 完全无关的国内教育改革；微观层面的课堂教学实践变化（该模型聚焦政策层面，不直接解释课堂行为）。
@@ -145,15 +141,11 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **2025 — [[Systematic Review\|系统综述]]的构建** Li, Xue & Guo 在对 85 篇 [[PISA]] 政策影响实证研究的系统综述中整合多元理论资源（议程设置理论、[[Actor-Network Theory\|行动者网络理论]]、体用框架），提出三个[[Central Question\|核心研究问题]]并构建该模型。模型明确区分了 PISA 影响教育政策的质量和公平两个核心维度。
 > - **待发展 — 实证检验与细化** 该模型作为系统综述的综合产物，尚需具体的跨国比较实证研究来检验各层级机制的[[Interaction Effect\|交互效应]]和边界条件。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 模型的原始提出文献，基于对 85 篇实证研究的[[Systematic Review\|系统综述]]。

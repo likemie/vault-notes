@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Baruch Spinoza
@@ -70,17 +70,13 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **批评者／论敌** [[Georg Wilhelm Friedrich Hegel\|黑格尔]] — 斯宾诺莎的“内在性”被当代学者直接用以对抗黑格尔的“目的论”与“辩证否定”，两者在教育的[[Ontology\|本体论]]假定上构成了核心对立。
 > - **学生／继承者** Gilles Deleuze （德勒兹）、Michael Hardt — 他们是斯宾诺莎思想在当代政治哲学和教育学中复兴的关键中介。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

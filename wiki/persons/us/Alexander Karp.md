@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alexander Karp
@@ -95,9 +95,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1967** 出生于美国宾夕法尼亚州费城。
 > - **1989** 毕业于哈弗福德学院（Haverford College），获文学学士学位。
 > - **1992** 毕业于斯坦福法学院（Stanford Law School），获法律博士（Juris Doctor, J.D.）学位。
@@ -171,9 +169,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[Jürgen Habermas]] — 博士导师，法兰克福学派第二代代表人物；卡普在其指导下奠定了社会理论与现代性批判根基。
 > - **师承／合作者** [[Peter Thiel]] — 斯坦福法学院同学与[[Palantir Technologies|帕兰提尔]]联合创始人，长期商业与政治盟友。
 > - **师承／合作者** [[Nicholas Zamiska]] — 帕兰提尔高管兼专著合著者，共同构建[[Technological Republic|技术共和国]]的法治与组织理论。
@@ -197,9 +193,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

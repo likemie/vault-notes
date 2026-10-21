@@ -62,7 +62,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Source of Knowledge
@@ -198,8 +198,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统评述 Perry、Belenky、Baxter Magolda 和 King & Kitchener 等发展学派，提炼并确立了“知识来源”作为[[Epistemological Theories\|认识论理论]]四大核心维度之一的基础地位。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]干预因果[[Meta-analysis\|元分析]]，证实显性讲授[[Source Evaluation\|信源评估]]规则是促进[[Academic Achievement\|学业成就]]成效最突出的教学[[Paradigm\|范式]]之一（$d = 0.800$），为将知识来源信念转化为课堂教学规程提供了强有力的因果实证支持。

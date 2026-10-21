@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Factorial Design
 
@@ -162,9 +162,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > 
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

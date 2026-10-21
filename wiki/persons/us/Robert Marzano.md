@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Robert Marzano
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1946** 出生于美国，早年深耕课堂教学心理学与课程大纲开发。
 > - **1990s** 担任美国中大陆地区教育与学习实验室（McREL）资深研究员，致力于将认知科学、[[Metacognition|元认知]]理论与课堂教学策略的量化实证相结合。
 > - **1998** 发表里程碑式[[Meta-meta-analysis|元综合]]报告 *A Theory-Based [[Meta-analysis]] of Research on Instruction*，综合逾百项元分析与4000多个对照实验，构建理论驱动的教学策略四层分类。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]
@@ -144,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

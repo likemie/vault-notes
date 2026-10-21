@@ -18,7 +18,7 @@ issuing_organization: ''
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-10-20
+updated: 2026-10-22
 tags:
   - region/china
   - theme/confucianism
@@ -144,9 +144,7 @@ related_arguments:
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

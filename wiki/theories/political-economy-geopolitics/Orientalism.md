@@ -61,7 +61,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ## 定义
@@ -76,9 +76,7 @@ updated: 2026-10-21
 > [[Argument_Ryan_2010_ChineseLearner|Ryan (2010, p. 40)]] 在对[[Chinese Learner|中国学习者]]刻板印象的批判中援引 Said 的东方主义框架——正如 Watkins and Biggs（2001, p. 4）所指出："Chinese-ness is in effect defined in terms of deviance from Western norms"（中国性实际上是以偏离西方规范来定义的）。这表明东方主义的运作不仅限于殖民语境中的政治统治，也在当代[[Intercultural Education|跨文化教育]]中以"缺陷型刻板印象"——将中国学习者的特征构造为西方学术规范的"反面"——的形式被隐性再生产（[[Argument_Ryan_2010_ChineseLearner|Ryan, 2010, pp. 39–40]]）。详见 [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]]。
 >
 
-## 概念辨析
-
-> [!example|notitle] 概念辨析
+> [!example] 概念辨析
 > - vs [[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]：东方主义关注殖民者如何通过[[Knowledge Production|知识生产]]**建构**被殖民者的形象（表征的政治），去殖民[[Geopolitics of Knowledge|知识地缘政治]]则关注这一建构的 **[[Epistemology|认识论]]后果**——哪些[[Ways of Knowing|认知方式]]被系统性地压制和排除，以及如何通过"认识论不服从"来动摇这一结构。两者发源于不同学术传统但高度互补。详见 知识[[Geopolitics|地缘政治]] > 两条理论脉络
 > - vs [[Developmentalism|发展主义]]批判（Escobar, 1995）：东方主义分析殖民时期的直接知识-权力关系；发展主义批判则将这一分析延伸至后殖民时代——"发展"[[Discourse|话语]]如何成为发达国家在形式上平等的国际秩序中延续影响力的意识形态工具
 >

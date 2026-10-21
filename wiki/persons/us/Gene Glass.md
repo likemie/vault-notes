@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-06-08"
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Gene Glass
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1940 年** 出生于美国内布拉斯加州林肯市。
 > - **1965 年** 获得威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）教育心理学博士学位，师从统计学专家从事量化测量研究。
 > - **1975–1976 年** 当选美国教育研究协会（[[American Educational Research Association|AERA]]）主席；在 1976 年主席就职演说中首次创造“[[Meta-analysis|元分析]]”一词，将其界定为“对大量个别研究的统计分析结果进行再分析，以整合其实证发现”。
@@ -157,9 +155,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心合作者** 玛丽·李·史密斯（Mary Lee Smith） — 共同开创心理治疗与[[Class Size|班级规模]]两大里程碑[[Meta-analysis|元分析]]，确立元分析的操作规程与图表规范。
 > - **思想渊源** 本杰明·布鲁姆（Benjamin Bloom） — 影响了其将标准差单位作为跨测验[[Effect Size|效应量]]统一维度的统计学思考。
 > - **指标对照者** [[Jacob Cohen|雅各布·科恩]]（Jacob Cohen） — 科恩提出以合并标准差为除数的 Cohen's $d$（假定方差齐性），与格拉斯以对照组标准差为除数的 Glass's $\Delta$（包容干预引起的方差[[Heterogeneity|异质性]]）并列为两大经典标准化效应量流派。两者在元分析中的无换算混同是后世方法学审查的重点。

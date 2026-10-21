@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Vivian Tseng
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **教育背景** 获得加州大学洛杉矶分校（University of California, Los Angeles, UCLA）学士学位，以及纽约大学（New York University, NYU）心理学博士学位，长期关注移民儿童、少数族裔青少年福祉与系统不平等问题。
 > - **2004–2022** 加盟[[William T. Grant Foundation\|威廉·T·格兰特基金会]]并升任高级副总裁，全面主管基金会研究资助组合，开创全美首个专注于“政策与实践中研究证据如何被利用”的常设资助项目，推动设立跨部门机构挑战资助（Institutional Challenge Grants）；曾任亚裔美国人与太平洋岛民慈善协会（Asian Americans/Pacific Islanders in Philanthropy, AAPIP）董事会主席。
 > - **2017** 推动研制并发布 [[Research-Practice Partnership\|RPP]] 有效性五大维度评估框架（Henrick et al., 2017），为全美学区-大学伙伴关系确立立项与评估基准。
@@ -132,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** Cynthia Coburn & William Penuel — 共同阐明教育[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）的理论概念与实施机制。
 > - **资助与评估伙伴** Erin Henrick 等 — 研制 RPP 有效性五大维度评估框架（Henrick et al., 2017），奠定伙伴关系成效的实证评估标尺。
 > - **政策与资助论辩者** [[Mark Schneider]] — 施奈德强调官方联邦自上而下的 SEER 技术标准与构件因果拆解，曾薇薇安主张自下而上重组资助权力、推行社群共有议程与评价多元化。
@@ -162,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

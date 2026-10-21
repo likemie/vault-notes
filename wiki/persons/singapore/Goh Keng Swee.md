@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Goh Keng Swee
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1918** 出生于海峡殖民地马六甲，后毕业于莱佛士学院并在伦敦政治经济学院（London School of Economics, LSE）获得经济学博士学位。
 > - **1959** 当选议员并出任新加坡首任财政部长，主导裕廊[[Industrial District|工业区]]开发。
 > - **1970–1979** 历任国防部长与副总理，创建新加坡武装部队（Singapore Armed Forces, SAF）。
@@ -104,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **执政同侪／紧密搭档** [[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）— 紧密合作逾三十载，共同奠定新加坡经济、国防与教育体系。
 > - **内阁同侪** 拉惹勒南（S. Rajaratnam）— 共同主导建国初期的外交与国家认同建构。
 > - **任职机构** 新加坡财政部、新加坡国防部、新加坡教育部。
@@ -125,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

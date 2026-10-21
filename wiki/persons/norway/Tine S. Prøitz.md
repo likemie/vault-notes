@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tine S. Prøitz
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2000–2010 年** 获奥斯陆大学（University of Oslo）教育科学博士学位，早期聚焦北欧“知识促进改革”（Knowledge Promotion / Kunnskapsløftet）中学习成果（Learning Outcomes / læringsutbytte）政策转移与学校课程标准的比较实证研究。
 > - **2010–2017 年** 任教于挪威东南大学，升任教育科学教授；主持多项挪威国家研究理事会（NFR）资助的教育政策评价、教师评价素养与地方教育治理纵向课题。
 > - **2017–2021 年** 受邀担任瑞典中央政府国家级五年战略工程——瑞典发展、学习与研究试点项目（ULF）的首席独立评估专家，领衔对全国 25 所设立教师教育的高校与 150 多个地方自治市镇展开全景式追踪评估。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
@@ -147,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **对话与论辩学者** [[Vivian Tseng]] — [[William T. Grant Foundation\|格兰特基金会]]高级副总裁，双方在强调实践者主体地位、推进[[Democratising Evidence\|证据民主化]]与长效组织能力建设上高度共鸣。
 > - **对话与论辩学者** [[Mark Schneider]] — 美国[[Institute of Education Sciences\|教育科学研究院]]（IES）院长，施奈德主张严格因果实证规程，普勒茨则倡导实践本位协作与[[Third Space Discourse\|第三空间]]多元[[Discourse|话语]]。
 > - **对话与论辩学者** [[Dirk Van Damme]] — 前 [[Centre for Educational Research and Innovation\|OECD CERI]] 主任，范达默关注学科自主性与学术自律，普勒茨则侧重跨越象牙塔与学校边界的协同机制。
@@ -178,9 +174,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

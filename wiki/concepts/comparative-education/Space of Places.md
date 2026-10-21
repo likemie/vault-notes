@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Space of Places
@@ -137,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 — 地方与现代性空间的脱嵌**
 >   Giddens (1990) 提出在现代性条件下，空间开始从“地方”中脱离，但强调绝大多数人类日常实践仍然不可避免地绑定在物理地方场所之中。
 > - **2000 — [[Network Society|网络社会]]中的地方空间理论化**
@@ -171,8 +169,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 经典田野应用，细致呈现布宜诺斯艾利斯郊区贫困学校这一典型地方空间中，全球“尊重多样性”口号如何被物质匮乏与教学行动压力扭曲为“尊重贫困”与学业标准的自我调低。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 将地方空间实证化为阿根廷与巴西的基层学校与[[Normal School|师范教育]]机构，论证抽象的“课程自主权”如何在缺乏物质时间保障的地方学校异化为照抄商业教辅。

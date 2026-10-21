@@ -7,9 +7,9 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 95
-method_related_level: 9
-method_related_stars: "💎💎💎"
+method_related_count: 63
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
 tags:
   - systematic-review
@@ -22,39 +22,22 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
   - "[[Unit of Analysis]]"
-  - "[[Literature Review]]"
-  - "[[Paradigm]]"
-  - "[[Discourse]]"
-  - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Postpositivism]]"
   - "[[Variable]]"
   - "[[Interpretivism]]"
   - "[[Causality]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Central Question]]"
-  - "[[Research Question]]"
   - "[[PICO Framework]]"
   - "[[Preregistration]]"
-  - "[[Literature Search]]"
-  - "[[Evaluation Research]]"
-  - "[[Research Translation]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Chain of Evidence]]"
   - "[[Ecological Validity]]"
   - "[[Visible Learning]]"
-  - "[[Evidence Standards]]"
-  - "[[Evidence Ecosystem]]"
-  - "[[Knowledge Production]]"
-  - "[[Educational Brokerage Agency]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Research Utilization]]"
-  - "[[Profession-Sensitive Conceptualisations of Research Use]]"
-  - "[[Creativity]]"
-  - "[[Counterfactual]]"
+  - "[[Epistemology]]"
 related_theories:
-  - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
+  - "[[Realist Evaluation]]"
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Research Synthesis]]"
@@ -65,32 +48,25 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Forest Plot]]"
   - "[[Funnel Plot]]"
-  - "[[Ethnography]]"
-  - "[[Fieldwork]]"
-  - "[[Thematic Synthesis]]"
-  - "[[Framework Synthesis]]"
-  - "[[Grounded Theory]]"
-  - "[[Axial Coding]]"
-  - "[[Content Analysis]]"
-  - "[[Qualitative Content Analysis]]"
   - "[[Intercoder Agreement]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Qualitative Interview]]"
+  - "[[Ethnography]]"
   - "[[Meta-regression]]"
-  - "[[Statistical Significance]]"
-  - "[[Meta-meta-analysis]]"
+  - "[[Thematic Synthesis]]"
+  - "[[Framework Synthesis]]"
   - "[[Case Study]]"
   - "[[Pilot Testing]]"
-  - "[[Implementation and Process Evaluation]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Critical Review]]"
-  - "[[Narrative Synthesis]]"
 related_persons: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -99,10 +75,8 @@ related_arguments:
   - "[[Argument_Rickinson_2022_EducRes]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Verger_2019_Discourse]]"
 related_facts:
-  - "[[Best Evidence Synthesis]]"
   - "[[EPPI-Centre]]"
   - "[[Education Resources Information Center]]"
   - "[[Education Endowment Foundation]]"
@@ -110,19 +84,13 @@ related_facts:
   - "[[Social Programs That Work]]"
   - "[[Early Intervention Foundation]]"
   - "[[Campbell Collaboration]]"
-  - "[[What Works Network]]"
-  - "[[OECD]]"
-  - "[[PISA]]"
-  - "[[What Works Clearinghouse]]"
-  - "[[Title I of the Elementary and Secondary Education Act]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
-  - "[[Gorard's Trustworthiness Sieve]]"
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Systematic Review
@@ -237,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -29,7 +29,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Delphi Technique
 
@@ -115,9 +115,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

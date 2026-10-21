@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Delors Report
@@ -147,9 +147,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 核心关联说明 |
 > |:---|:---|:---|
@@ -164,7 +162,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引琼斯与科尔曼批判文献，揭示德洛尔报告作为[[UNESCO|教科文组织]]应对领导权危机、抗衡[[World Bank|世行]]经济主义的合法性自救功能。

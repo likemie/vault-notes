@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Australian Education Research Organisation
@@ -271,9 +271,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -295,9 +293,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 提出无生命客体[[Assemblage\|政策装配]]框架，运用防野狗围栏隐喻解构 AERO 担保有限公司注册底座、18 个月审计保密豁免及特许商业分包。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 深入追踪 [[Social Ventures Australia\|SVA]] 长达十年的[[Policy Network\|政策网络]]渗透，结合 CEO 访谈原声揭露 AERO 担保有限公司架构旨在吸纳慈善资本的制度本质。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 全球比较视野下对包括 AERO 在内的国家级[[Educational Brokerage Agency\|教育中介机构]]的兴起与治理结构进行系统调研。

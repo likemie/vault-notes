@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-10-22
 ---
 
 # Knowledge-that and Know-how-to
@@ -54,17 +54,13 @@ updated: 2026-06-06
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Surface and Deep Learning\|表层学习与深层学习]] — 表层学习是事实的背诵或技能的公式化展示。深层学习是看到学科[[Epistemology\|认识论]]部分与整体之间联系的能力。知其然和知其所用的连接是深层学习的先决条件。
 > - vs [[Powerful Knowledge\|有力知识]] — 有力知识描述来自学科的知识的独特禀赋。知其然和知其所用是知识的两种形式，有力知识主要指知其然，但其价值在于能够与知其所用连接。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **知其然的内容**。在 [[Curriculum Design Coherence Model\|课程设计连贯性模型]]中，知其然包括命题（提出主要主张的陈述）、学科概念（通过词语或短语表达的抽象思想）和内容（概念的物质体现，可包括事实、情境、意识形态等）([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 > - **知其所用的内容**。知其所用包括技能、能力和学科实践，即通过使用与学科相关的技能或实践来应用知识。
 > - **连接的重要性**。在 [[Curriculum Design Coherence Model\|课程设计连贯性模型]]中，当学生能够将所学知识灵活运用并清楚阐述两种知识形式之间的联系时，[[Surface and Deep Learning\|深层学习]]才真正发生。这种联系是深层学习的标志，而非表层学习。

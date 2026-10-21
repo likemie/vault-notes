@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Regulatory Ratchet
@@ -166,7 +166,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 将规制棘轮作为[[Institutional Layering|制度层叠]]中工具增加传统的核心机制进行系统考证，揭示规则累加导致规制复杂化的理论脉络。

@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 116
+related_count: 111
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Geopolitics]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Research Security]]"
   - "[[Man-Computer Symbiosis]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Technology Transfer]]"
   - "[[Champ]]"
+  - "[[Geopolitics]]"
   - "[[University-Industry Collaboration]]"
   - "[[Justificatory Standards]]"
   - "[[Epistemic Agency]]"
@@ -77,9 +77,6 @@ related_concepts:
   - "[[Heterogeneous Integration]]"
   - "[[Chain of Evidence]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[School Inspection]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
-  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
 related_theories:
   - "[[Pool of Knowledge]]"
   - "[[Academic Capitalism]]"
@@ -95,7 +92,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Chain-of-Thought Prompting]]"
   - "[[Role-playing]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Jason Beech]]"
@@ -104,9 +100,8 @@ related_persons:
   - "[[Jianwei Zhang]]"
   - "[[Frantz Fanon]]"
   - "[[Wolfgang Mitter]]"
-  - "[[Basil Bernstein]]"
   - "[[Jean Piaget]]"
-  - "[[Carol H. Weiss]]"
+  - "[[Basil Bernstein]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[OECD]]"
@@ -121,16 +116,17 @@ related_facts:
   - "[[IEA]]"
   - "[[PISA]]"
   - "[[Industry-University Cooperative Research Centers]]"
+  - "[[Swedish Schools Inspectorate]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[National Science Board]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Federally Funded Research and Development Centers]]"
   - "[[Joint University Microelectronics Program 2.0]]"
-  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Zhang_2022_SE]]"
@@ -143,11 +139,10 @@ related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Knowledge Production
@@ -474,9 +469,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪[[Swedish Schools Inspectorate|瑞典学校督察局]]常规督导与质量审计，揭示教育治理机构如何通过预设单一范式与终审定稿清洗生产服务于国家简化的行政合规知识，从科学哲学视角解构静态“当前知识状态”的虚妄性。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 考察中国[[Internationalization of Higher Education|高等教育国际化]]与地缘战略的交织，揭示大国科技竞争与地缘脱钩如何阻断跨国知识管道并削弱全球知识生产中心地位（pp. 693–694）。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统论证美国大学知识生产与传播并重的历史转型（[[Humboldtian Model of Higher Education|洪堡理念]]与研究生院体制），阐明去中心化资助竞争的卓越生产力及其引发的学术避险问题。

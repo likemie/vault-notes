@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Quasi-commodification of Knowledge
@@ -48,16 +48,12 @@ updated: 2026-10-16
 > [!quote|notitle]
 > Jessop（2007）将知识分析为 Polanyi 意义上的"虚拟商品"（[[Fictitious Commodity of Knowledge\|fictitious commodity]]）——它被当作商品来对待，但其固有的社会性质使其无法被完全商品化([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.804–805]])。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 商品化（commodification）：商品化指某物被转化为可以在市场上买卖的商品。准商品化则强调转化过程的**不完全性**——知识被推向市场，但始终保留着公共品的残余特性，无法像一袋土豆或一支股票那样被完整地私有化和交易。
 > - vs [[Academic Capitalism]]：学术资本主义描述制度层面的市场化转型——大学日益卷入市场活动。准商品化则更精确地分析市场化在**知识本体层面**的张力——知识作为公共品和潜在商品的矛盾性质，使得学术资本主义始终面临内在的不稳定性。
 > - vs 私有化（privatization）：私有化是将公共资产转移为私人所有。准商品化不一定涉及所有权的转移——它关注的是交易逻辑的渗透，即便在法律所有权不变的情况下（如公开发表的论文被赋予影响因子和引用数的"市场价值"）。
 
-## 核心张力
-
-> [!abstract|notitle]
+> [!abstract] 核心张力
 > [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp.804–805)]]通过 Jessop and Reitz 在该期期刊中的分析，揭示了知识准商品化中的三组核心张力：
 
 ### 公共品与私有资产的张力
@@ -79,9 +75,7 @@ Reitz提出了一个激进的论证：资本主义知识经济需要一个非资
 
 这一矛盾解释了为什么学术界的制度安排如此复杂而矛盾：一边是开放科学、公开数据、公共资助的理想；另一边是排名、竞争、商业化、知识产权保护的压力。两者不是简单的对立——它们是同一系统运作的两个必要面向。
 
-## 在高等教育新政治经济学分析中的位置
-
-> [!note|notitle]
+> [!note] 在高等教育新政治经济学分析中的位置
 > Jessop的三重思想实验将准商品化置于一个更广泛的谱系中([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.804–805]])：
 > - **成本效率（cost-efficiency）** 大学追求更有效的资源利用——这不是资本主义，只是好的管理
 > - **准商品化（quasi-commodification）** 知识劳动被当作可交易商品处理——进入"[[Academic Capitalism\|学术资本主义]]"的门槛

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Benedict Anderson
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1936** 出生于中国昆明，后随家庭移居爱尔兰与英国。
 > - **1957** 毕业于剑桥大学国王学院，获古典学学士学位。
 > - **1958–1967** 赴美国康奈尔大学深造，师从东南亚研究巨擘乔治·卡辛（George Kahin），获政治学博士学位。
@@ -125,9 +123,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **博士导师** 乔治·卡辛（George Kahin）— 康奈尔大学东南亚研究先驱与现代印度尼西亚政治专家。
 > - **学术对话者** [[Robin Dunbar|罗宾·邓巴]]（Robin Dunbar）— [[Dunbar's Number|邓巴数]]认知上限为安德森民族想象假说提供了演化人类学微观基础。
 > - **学术论辩对手** 安东尼·史密斯（Anthony D. Smith）— 族群象征主义学者，批评其现代建构论割裂了历史族群连续性。
@@ -148,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

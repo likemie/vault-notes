@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Wim Deetman
@@ -74,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1945** 出生于荷兰海牙，后毕业于阿姆斯特丹自由大学（VU Amsterdam）政治学专业。
 > - **1978–1982** 进入荷兰议会二院任议员，并担任教育与科学国务秘书。
 > - **1982–1989** 连续在两届吕贝尔斯内阁（Lubbers Cabinets）中出任教育与科学大臣长达七年，成为二战后任期最长的高教改革政务领袖。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 144)]]
@@ -105,18 +103,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政策路径** 其主政七年奠定了荷兰高等教育三十年治理框架，直接催生了 [[Higher Education Autonomy and Quality|HOAK]] 白皮书、1986 年高等专业教育大改革与 1992 年 [[Higher Education and Research Act 1992|WHW]] 法案。
 > - **行政文化重塑** 在荷兰官僚体制内部推行了从“规章执法者”向“战略对话伙伴”的艰难转型，为比较公共行政学提供了政务官与[[Reflexivity|反思性]]学者成功协同的罕见案例。
 > - **欧洲大陆标杆** 其开创的荷兰“总额拨款 + 事后质量保障”模式，与英国撒切尔政府高压市场化私有化形成鲜明对照，成为欧洲福利国家在维持社会公平前提下推进去规制化改革的公认典范。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **政务同盟** 鲁德·吕贝尔斯（Ruud Lubbers）— 1982–1994 荷兰首相，为德特曼在紧缩与放权改革中提供了坚定的内阁政治支持。
 > - **[[Reflexivity|反思性]]学术顾问** [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert）— 在教育部共事的核心规划智囊，直接协助起草 [[Higher Education Autonomy and Quality|HOAK]] 白皮书并将其实践升华为国际经典理论。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
 > - **法团协商伙伴** [[VSNU|荷兰大学联合会]]（VSNU）与高等职业教育委员会（[[HBO-Raad]]）领导层 — 在预算削减与院校兼并中开展紧密闭门协商的中介领袖。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
@@ -133,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

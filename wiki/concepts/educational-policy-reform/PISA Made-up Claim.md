@@ -138,7 +138,5 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统界定 PISA 捏造的主张构念，从商业营销与构念重叠视角揭露未来技能神话。

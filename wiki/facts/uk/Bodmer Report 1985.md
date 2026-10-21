@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Bodmer Report 1985
@@ -80,18 +80,14 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **制度化转变** 将科学传播从边缘爱好转变为英国科研机构和大学的核心考核指标与公共职责。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 4)]]
 > - **中小学课程奠基** 促成 16 岁前义务教育科学课程全覆盖，大幅提升了基础科学教育普及率。
 > - **未竟之志** 报告提出的 16–18 岁高中阶段拓宽课程、避免过早文理分科的建议在英格兰历经 40 年仍未得到实质落地。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 6)]]
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

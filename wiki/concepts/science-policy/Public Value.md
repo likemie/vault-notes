@@ -93,7 +93,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Public Value
@@ -334,9 +334,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统阐发超越[[Market Failure|市场失灵]]修补的公共价值共创理论与[[Dynamic Assessment|动态评估]]工具。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。
@@ -345,9 +343,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 理论与实践关联说明 |
 > |:---|:---|:---|

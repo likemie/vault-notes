@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Formative Epistemic Injustice
@@ -198,9 +198,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 处于心智与学科素养奠基期的未成年学习者；强调探究、论证与概念反思的高阶认知课程（如文科读写、哲学辩论、科学探究、批判性阅读）。
 > - **成立条件** 必须明确区分“学习者的技能形成期（Formation）”与“成熟专家的工具协同期（Matured Agency）”；需要穿透最终[[Homework|作业]]成果，深入到真实的认知过程与人机交互日志中取证。
 > - **解释不足** 理论主要定位于规范批判与教学伦理诊断，尚未提供细粒度的量化心理测量工具；对不需要深层内化的纯机械重复性劳动的技术替代（如自动化文献排版或数据格式清洗），其批判效力有限；对标准化应试评价体制造成的宏观结构性压迫，未能提供政治经济学层面的彻底解决方案。
@@ -227,9 +225,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - Martin (2018) — 首创成长性[[Epistemic Injustice|认识不正义]]概念，奠定未成年人参与公共审议[[Epistemic Practices|认知实践]]权利的哲学基础。
 > - Nikolaidis (2021) — 确立[[Epistemic Malformation|认知畸变]]（Malformation）[[Central Phenomenon|核心范畴]]，构建教育认识不正义理论谱系。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 系统提出私厨隐喻与成长性认识不正义三重检验标准，解构生成式 AI 对读写教育核心工序的侵害机制与[[Alien Intelligence|异己智能]]防御方案。

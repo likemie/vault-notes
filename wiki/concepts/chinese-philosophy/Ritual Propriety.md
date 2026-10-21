@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-22
 ---
 
 # Li (Propriety)
@@ -62,9 +62,7 @@ updated: 2026-05-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 1. **范围从神圣到日常** 礼"从最高级的仪式表演——如文化纪念仪式——延伸到祖先祭祀，再到最平凡的人际互动——如赠送和接受礼物、赞扬和接受赞扬、上菜用餐等"([[Argument_Li_2012_Cambridge\|Li, 2012, p.40]])
 > 2. **社会语法功能** 礼为每个人在家庭、社群和国家中提供确定的位置和地位，建立了人际互动的共同语言([[Argument_Li_2012_Cambridge\|Li, 2012, pp.39-40]])
 > 3. **意义的储存与传递** 礼是"代代相传的生活形式，作为意义的储存库"，使年轻人能够吸收前代人积累的智慧
@@ -73,18 +71,14 @@ updated: 2026-05-22
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Five Cardinal Relationships]] — 礼为五伦关系提供互动规范
 > - [[Benevolence]] — 礼是通往仁的日常实践路径之一
 > - [[Confucius]] — 孔子阐述礼作为四通用道德原则之首
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 礼在西方视角下容易被误读为"形式主义"或"压抑个性"。Li 引用 Ames and Rosemont 的阐释强调：礼的根本区别在于"使传统成为自己的"——这种个人化过程是礼的生命力所在，而非对规则的僵化遵从([[Argument_Li_2012_Cambridge\|Li, 2012, pp.39-40]])
 
 ---

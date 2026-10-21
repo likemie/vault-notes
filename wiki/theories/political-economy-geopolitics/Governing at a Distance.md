@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Governing at a Distance
@@ -117,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -227,9 +225,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 [[Actor-Network Theory\|ANT]] [[Center of Calculation\|计算中心]]理论与拓扑地理学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的远处治理与政策重组。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为理性主义比较教育远处治理政治手段的发展史。
 > - [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] — 分析了新自由主义理性如何通过循证方法（[[Single-Case Design\|SCD]]）和学术标准设计，实现对科研人员及评价体制的远距治理与主体性塑造。

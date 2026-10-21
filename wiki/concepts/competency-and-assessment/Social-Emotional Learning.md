@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Social-Emotional Learning
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 社会情感学习（SEL） | 传统学业认知素养（Cognitive Skills） | 德育与公民品格教育（Character Education） |
 > |---|---|---|---|
 > | 分析对象 | 情绪认知、压力应对、同理心与亲社会决策 | 语数外学科知识、形式逻辑推理与记忆再现 | 道德规范内化、公民爱国情操与伦理美德 |
@@ -148,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1994 年 — [[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]] 创立与概念框架奠基** 丹尼尔·戈尔曼等学者在美国创立学术、社会与情感学习协作会（CASEL），正式确立 SEL 五大[[21st Century Skills and Competencies Discourse\|核心素养]]构架。
 > - **2000–2015 年 — [[UNICEF\|儿童基金会]]与人道援助情境拓殖** 联合国儿童基金会（UNICEF）将 SEL 引入全球南方战乱与灾后紧急教育，构建儿童心理社会支持（PSS）操作指南。
 > - **2015 年至今 — [[OECD\|经合组织]]测评化与全球多边内卷** 经合组织（OECD）启动“社会与情感能力调查”（SSES），[[UNESCO\|教科文组织]]设立圣雄甘地和平与[[Sustainability Education\|可持续发展教育]]研究所（MGIEP）推广 SEL，使该概念全面卷入全球量化规制网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
@@ -192,7 +188,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[UNICEF\|联合国儿童基金会]]率先开辟社会情感学习新赛道，并引发[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]跨界跟进争夺全球规制权与私人资金的组织生态学案例。

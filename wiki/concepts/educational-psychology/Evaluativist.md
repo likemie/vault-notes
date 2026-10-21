@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Evaluativist
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **重构客观评估标准** 评价论不是向绝对论的倒退，而是在接纳主观性基础上的客观维度的回归。评价标准从依赖外部专家的直接赋予，转变为依赖科学共同体或理性规则确立的证据逻辑网络。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 314)]]
 > - **批判性比较与论辩的内在动机** 对于评价论者而言，理性论辩并非无谓的争吵，也不是为了消除别人的权利，而是因为知识本身需要经过比较和检验才能确立相对的确定性。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 326)]]
 > - **[[Man-Computer Symbiosis|人机共生]]中的高阶证据协调与主体性保持** 在与大语言模型协作时，评价论者表现出主动的多源核验行为（[[Triangulation]]）。他们既不全盘接受大模型给出的现成代码或[[Analytic Framework\|分析框架]]，也不泛化地罗列多种解法，而是要求模型提供假设前提，并将模型输出与领域经典文献、实测数据进行对齐检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
@@ -144,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1991 年 — [[Epistemology\|认识论]]高阶反思维度的确立** Perry（1970）与 Kuhn（1991）将评价论（Evaluative Stance）确立为[[Critical Thinking\|批判性思维]]与科学理性的顶峰，强调基于证据权衡相冲突的观点。
 > - **2000 年 — 跨领域评价论发展模型** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 通过实证揭示评价论在事实、审美与价值观领域的反转演进路径及专家与非专家的显著差异。
 > - **2025 年 — [[Man-Computer Symbiosis|人机共生]]环境中的评价主义重构与支架培育** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，将评价主义拓展为多源证据协调、算法审问与共享主体性保持的核心机制，并确立双轨支架培育体系。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
@@ -173,9 +169,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，实证验证评价主义认识立场在引导多源证据协调、抗拒消极[[Cognitive Offloading\|认知卸载]]与维持共享[[Epistemic Agency\|认识主体性]]中的关键价值。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 将 Kuhn（1991）[[Argumentative Reasoning\|论辩推理]]模型中的评价论者描述为超越绝对论盲从与多元论虚无、能基于相对优劣评估专家专长与知识主张的终极立场。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将评价论定位为最难达成的[[Epistemology\|认识论]]巅峰，实证揭示了其在不同[[Areas of Knowledge\|知识领域]]的达成顺序呈反转态势，并强力验证了专业教育介入的关键作用。

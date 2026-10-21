@@ -59,7 +59,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Global Citizenship
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | Global Citizenship (本概念) | Active Citizenship | Global Competence |
 > |------|--------|----------------|----------------|
 > | **空间与政治指向** | 超越国家边界的全球/地球认同，解构[[Methodological Nationalism\|方法论国家主义]]。 | 局限于主权国家内地方社区和国内政治的参与。 | 面向全球化劳动力市场的商业跨国流动与功能性技能。 |
@@ -154,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2005 — 博士公民意识呼吁** Nerad 率先呼吁博士培养必须超越单纯的学术专精，涵盖公民参与和世界公民身份（world citizenship）的承诺。(Nerad, 2005, 引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 87]])
 > - **2011 — 四维[[Analytic Framework\|分析框架]]建立** O'Brien 提出包含数字、文化与社会沟通的三素养分析框架，后经 Spronken-Smith (2018) 补充“环境素养”演变为经典的四维分析模式。(O'Brien, 2011, 引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 87–88]])
 > - **2022–2024 — 高教[[Graduate Attributes\|毕业生特质]]检视** Wong 等揭示英国本科高教特质的表面化修辞，Spronken-Smith 等将全球公民明确列为博士特质七域分类的独立维度，并通过[[Mixed Methods Research\|混合方法]]对 PhD 毕业生的实证数据进行了赤字确诊。([[Argument_Wong_2022_HERD\|Wong et al., 2022, p. 1347]]; [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 98–99]])
@@ -199,18 +195,14 @@ updated: 2026-10-21
 
 ---
 
-## 相关案例／政策
-
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - NZU 博士毕业生 profile — 明确列出三项全球公民属性：全球视野（global perspective）、文化理解（cultural understanding）和环境素养（environmental literacy），是少数将全球公民[[Operationalization\|操作化]]为具体博士培养目标的大学之一。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 88]])
 > - Manchester 大学[[Graduate Attributes\|毕业生特质]]表述 — “毕业生被鼓励和赋能去面对作为地方、区域和全球公民的公民价值观和责任”。([[Argument_Wong_2022_HERD\|Wong et al., 2022, p. 1347]])
 > - Keele 大学毕业生特质 — 毕业生能够并有动力“作为积极公民负责任地和协作地参与其所生活和工作的社群”。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] — 在博士教育层面的七域[[Graduate Attributes\|毕业生特质]]分类中重铸了该域，细化了由环境素养、文化理解和全球视野构成的实证评估赤字。
 > - [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] — 检视了英国高校本科毕业生特质[[Discourse|话语]]，指出了全球公民话语的极高纸面覆盖度与其极低的环境、外语应用度之间的张力。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在理性主义中的国际社会强化逻辑与在[[Revolutionism\|革命主义]]中的[[Geopolitics|地缘政治]][[Re-Westernisation\|再西方化]]实质。

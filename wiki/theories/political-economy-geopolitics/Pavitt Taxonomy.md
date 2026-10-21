@@ -38,15 +38,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Pavitt Taxonomy
 
 ---
-## 核心主张
 
-> [!abstract|notitle]
+> [!abstract] 核心主张
 > Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源（内部研发 vs 外部供应商）**、**性质（产品创新 vs 流程创新）** 和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业。
 
 ---
@@ -91,9 +90,8 @@ updated: 2026-10-16
 > | **供应商主导型** | Supplier Dominated (SD) | 内部研发弱，创新由供应商引入 | 纺织、服装、食品、木材 | 批发零售贸易、运输、酒店餐饮 |
 
 ---
-## 理论基础
 
-> [!tip|notitle]
+> [!tip] 理论基础
 > - **[[Evolutionary Economics\|演化经济学]]（Evolutionary Economics）**— Pavitt 分类法的理论基础来自 Nelson and Winter（1982）的演化理论，强调经济活动的多样性和[[Heterogeneity\|异质性]]以及[[Technological Trajectories\|技术轨迹]]（technological trajectories）在塑造产业差异中的作用（p.155）
 > - **[[Systems of Innovation\|创新系统理论]]** — Pavitt 分类法通过揭示不同产业在创新来源和知识流动上的系统性差异，为创新系统分析提供了微观基础
 > - **技术[[Paradigm\|范式]]与技术轨迹（Dosi, 1982, 1988）**— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
@@ -112,9 +110,8 @@ updated: 2026-10-16
 > 研究基于 Sectoral Innovation Database（SID），涵盖三轮社区创新调查（CIS 2、3、4），覆盖 22 个制造业和 17 个服务业的两位数 NACE 行业。分析方法包括主成分分析（检验创新维度的分组有效性）和回归分析（检验分组在创新-绩效关系中的解释力）。数据按两位数 NACE 行业（Rev. 1）聚合（pp.165-170）。
 
 ---
-## 应用与影响
 
-> [!note|notitle]
+> [!note] 应用与影响
 > Pavitt 分类法已被广泛应用于创新经济学和产业政策研究：
 > - **创新与就业**Bogliacino and Pianta（2010）使用修订版分类法研究不同创新模式对就业的影响差异
 > - **创新与生产率** 不同 Pavitt 类别在创新投入向生产率转化效率上存在显著差异（Bogliacino & Pianta, 2011）

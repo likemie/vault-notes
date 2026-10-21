@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Paula Stephan
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1972** 获密歇根大学（University of Michigan）经济学博士学位。
 > - **1970s–1980s** 长期执教于佐治亚州立大学，专注于学术劳动力市场、科研生产力与年龄结构研究。
 > - **1990s** 与 Sharon Levin 合作出版《学术采金：年龄、地域与时间在科学中的重要性》（*Striking the Mother Lode in Science*），奠定其在科学计量学与学术生涯经济分析中的地位。
@@ -96,9 +94,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将微观经济学与劳动经济学工具引入科学社会学与高等教育研究，深化了关于学术劳动力供给、学术资本化与实验室经济生态的制度性理解。
 > - **政策路径** 多次参与[[National Academy of Sciences|美国国家科学院]]、[[National Research Council|国家研究委员会]]及国立卫生研究院关于青年学者职业发展、博士后处境及科研基础设施资助的政策咨询，有力推动了联邦科技界对资助过度向老年PI集中和软钱风险的广泛反思。
 
@@ -116,17 +112,13 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想交锋与历史对话** [[Vannevar Bush]] — 斯蒂芬系统考察了布什 1945 年报告的政策设想在半个多世纪中如何被大学与联邦博弈重新诠释与偏离。
 > - **资助与研究对象机构** [[National Science Foundation]]、[[National Institutes of Health]]、[[Department of Energy]] — 斯蒂芬长期追踪各大联邦机构的预算变迁、资助集中度（HHI）及对大学微观组织形态的激励导向。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

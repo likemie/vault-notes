@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John Rawls
@@ -59,9 +59,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1921** 出生于美国马里兰州巴尔的摩。
 > - **1950** 获得普林斯顿大学哲学博士学位。
 > - **1962–1991** 长期任教于哈佛大学哲学系，并被授予最高教职柯南特大学讲座教授。
@@ -102,9 +100,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Theoretical Sampling
 
@@ -91,9 +91,7 @@ Ezzy（2002, pp. 74–75）在其失业研究中给出了另一个示例：初�
 
 ---
 
-## 与相关方法的关系
-
-> [!entry-map|notitle]
+> [!entry-map] 与相关方法的关系
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

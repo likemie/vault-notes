@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Constant Comparison
@@ -100,9 +100,7 @@ updated: 2026-10-20
 > - **误用风险** 把"类别容纳所有数据"等同于理论为真；忽略数据质量本身。
 > - **补救方式** 主动寻找负面案例，结合备忘录记录比较过程，以多来源数据检验类别。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

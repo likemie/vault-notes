@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Working Memory
@@ -239,9 +239,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
 > - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 结合脑神经科学与可见学习理论，揭示缺乏指导导致的工作记忆过载（垃圾桶效应）与前额叶 10 分钟专注极限及默认网络修复价值。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 辨析[[Direct Instruction\|直接教学]]与探究教学中的工作记忆机制，实证确证[[Scaffolding\|认知支架]]对卸载工作记忆负担以及[[Inhibitory Control\|抑制控制]]对保护工作记忆资源的核心功能。
@@ -249,9 +247,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

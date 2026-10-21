@@ -36,22 +36,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Socratic Tutoring Style
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > [[Socrates\|苏格拉底]]式辅导是 [[Argument_Li_2012_Cambridge|Li（2012）]]基于欧裔美国（European-American）母子对话研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似苏格拉底引导学童的方式，通过日常对话将儿童的学习信念引向心智能力、思维过程和积极情感的方向。
 
 这一模式的核心信念是：学习的关键在于儿童**心智的伟大（the greatness of the self as a learner）**。家长的任务不是灌输知识，而是打开儿童那"初生但有能力的心智"（nascent but capable mind），让儿童自己去探索、理解、创造。
 
 ---
-## 核心要素
 
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 通过对 !CD 组欧裔美国母子的学习话题对话进行结构分析、序列分析和[[Discourse Analysis\|话语分析]]，识别出[[Socrates\|苏格拉底]]式辅导的以下核心要素([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 ### 认知来源：心智（mental source）
@@ -101,15 +98,13 @@ updated: 2026-10-16
 > 更多[[Socrates\|苏格拉底]]式辅导的对话示例与 Li 的[[Discourse Analysis\|话语分析]]操作，见 MCC 话语分析示例。
 
 ---
-## 与苏格拉底教学法的类比
 
-> [!note|notitle]
+> [!note] 与苏格拉底教学法的类比
 > Li 将其命名为"[[Socrates\|苏格拉底]]式"并非随意。苏格拉底在[[Meno|《美诺篇》]]中引导一名奴隶男孩学会几何——他没有告诉男孩答案，而是通过提问让男孩自己"发现"几何原理。欧裔美国母亲的做法在结构上类似：她们不直接给出答案，而是通过提问和引导，让儿童自己去理解、去感受、去发现自己的心智能力。
 
 ---
-## 概念辨析
 
-> [!example|notitle]
+> [!example] 概念辨析
 > **[[Socrates\|苏格拉底]]式辅导 vs [[Confucian Tutoring Style\|儒家式辅导]]** 两者都是高效的家庭学习辅导方式，但核心取向截然不同。苏格拉底式辅导围绕**心智**展开——引导儿童发现自我的伟大；儒家式辅导围绕 **[[Learning Virtues\|学习美德]]** 展开——引导儿童认识自我改进的永无止境。前者以"你知道自己有多聪明吗"为基调，后者以"你还可以怎样做得更好"为基调([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 ---

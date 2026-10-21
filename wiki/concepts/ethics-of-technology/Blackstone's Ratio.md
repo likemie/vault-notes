@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Blackstone's Ratio
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **价值不对称性（Normative Asymmetry）** 冤枉无辜造成的国家伦理损害被判定为远大于放纵犯罪的实际损害。
 > - **对[[Pragmatic Paradigm|实用主义]]妥协的排斥（Rejection of Pragmatic Error Tolerance）** 刑事司法不同于一般工程或商业决策，绝非容忍“可接受故障率”的实用主义试验场。
 > - **技术合规设计的根本约束（Design Constraint for Tech）** 要求在研发和部署执法类软件时，必须以哪怕防范一次潜在滥用为导向构建系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
@@ -113,7 +111,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 引述伏尔泰、[[William Blackstone|布莱克斯通]]与斯塔基的法律[[Epistemology|认识论]]传统，剖析前沿算法警务中的误判风险与公共安全平衡问题。

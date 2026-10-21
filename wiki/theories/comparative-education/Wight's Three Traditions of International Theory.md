@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Wight's Three Traditions of International Theory
@@ -95,9 +95,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -202,9 +200,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 跨国教育[[Policy Mobility\|政策流动]]与借用动机、国际组织（[[OECD\|经合组织]]/[[World Bank\|世界银行]]/[[UNESCO\|联合国教科文组织]]）的教育治理网络、比较教育学科史与学术建制变迁。
 > - **谨慎使用** 双边或地区性教育技术合作，需注意排除纯技术性操作层面的噪音，精准提炼其宏观政治张力。
 > - **不适合解释** 微观维度的课堂教学法效果、个体层面的认知与学习机制，以及不涉及国际流动的纯本土日常学校运营。

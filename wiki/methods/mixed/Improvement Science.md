@@ -44,21 +44,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 改进科学（Improvement Science）是一套源自组织研究领域（Langley et al., 2009）的方法集合，被倡导为教育研究中一个高杠杆的替代[[Paradigm\|范式]]（Bryk et al., 2015; Lewis, 2015）。其核心特征是将教育实践作为**系统**来研究，关注**跨情境的变异性**，并从变异性中学习——变异的实例代表了生成关于"什么在什么情境中导致更多改进"洞见的可能性([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])。
 >
 > > "Key aspects of improvement science involve studying educational practice as a system, and attending to variability across contexts, and learning from this variability."
 >
 > 改进科学强调需要关注参与变革的**人类行动者**的情境和视角（Langley et al., 2009），生成关于**互动和过程**如何产生变革（改进）的证据，而非关于**项目**是否有效的证据。
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > - 改进科学的方法论起源于**组织研究**领域（Langley et al., 2009）
 > - **公共健康领域**的广泛应用为改进科学积累了关于识别和追踪机制的专业知识([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 307]])
 > - 近年来在美国，Carnegie Foundation for the Advancement of Teaching 推动了改进科学在教育中的系统应用（Bryk et al., 2015）
@@ -111,15 +107,11 @@ updated: 2026-10-21
 >
 > 实证研究已为探究螺旋底层的行动理论提供了证据（McGregor, 2013; Timperley, Parr, & Meisel, 2010）。[[OECD]] (2015) 特别强调探究螺旋支持新学习和教学方法规模化实施的能力。
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - **vs [[Evidence-Based Education]]** — EBE 关注"什么有效"（项目层面证据）；改进科学关注"什么在什么情境中导致改进"（过程和互动层面证据）。Peterson 论证两者互补而非竞争
 > - **vs [[Evidence-Informed Practice]]** — EIP 将证据定位为多种因素之一供教师判断；改进科学将教师定位于系统性地生成和检验关于改进的假设
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > - 在美国，改进科学在教育中的系统性应用仍处于早期阶段，主要通过 Carnegie Foundation 推进([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])
 > - [[Spirals of Inquiry\|探究螺旋]]模型已通过新西兰和加拿大不列颠哥伦比亚省的实证研究获得支持（McGregor, 2013; Timperley, Parr, & Meisel, 2010）
 > - [[OECD]] (2015) 在 *Schooling Redesigned* 报告中正式推广探究螺旋作为支持创新学习系统规模化的方法
@@ -138,9 +130,7 @@ updated: 2026-10-21
 > [!warning] 与"什么有效"[[Paradigm\|范式]]的[[Paradigm Wars\|范式战争]]
 > [[Argument_Peterson_2016_IJRME\|Peterson (2016, p. 301)]] 将此文定位为"避免另一场范式战争"的努力，而非倒向任一范式。但整合方案是否在政治上可行——在一方主导的制度基础设施（[[Education Endowment Foundation\|EEF]]、[[Institute of Education Sciences\|IES]]、[[What Works Clearinghouse\|WWC]]）中为改进科学争取空间——仍待观察。
 
-## 相关案例／政策
-
-> [!example|notitle] 相关案例／政策
+> [!example] 相关案例／政策
 > - [[EEF Teaching and Learning Toolkit]] — Peterson 建议 Toolkit 的未来迭代从排名项目转向编目机制（"活性成分"）
 > - [[What Works Network]] — 建议 What Works 中心承担跨领域学习召集人和网络协调人的新角色
 

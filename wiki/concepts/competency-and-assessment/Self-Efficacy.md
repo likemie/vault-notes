@@ -9,7 +9,7 @@ aliases:
 summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念；通过预期、努力持久度与目标设定调节学习与教学，并在支架式探究与认识论实践中作为亲历掌握经验塑造的学科胜任信念与科学知者身份认同关键成果。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 44
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Academic Achievement]]"
   - "[[Metacognition]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Teacher Beliefs]]"
   - "[[Critical Thinking]]"
   - "[[International Baccalaureate]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Epistemic Practices]]"
   - "[[Learner Autonomy]]"
+  - "[[Lifelong Learning]]"
   - "[[Classroom Management]]"
   - "[[Educational Science Communication]]"
   - "[[Neuromyth]]"
@@ -65,14 +67,14 @@ related_facts:
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Besa_2024_UW]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Self-Efficacy
@@ -208,8 +210,6 @@ flowchart LR
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变
 > - **1977 — 社会认知理论奠基** [[Albert Bandura\|阿尔伯特·班杜拉]]发表《自我效能：迈向行为改变的综合理论》（*Self-efficacy: Toward a unifying theory of behavioral change*），正式确立自我效能感概念及其四大信息源与调节机制。
 > - **1980s–1990s — 学业动机与学习策略领域广泛应用** 学界将自我效能感从临床心理治疗拓展至教育学与学习科学领域，实证揭示其对学生[[Academic Achievement\|学业成就]]、[[Metacognition\|元认知]]策略使用与成就归因的关键中介作用（Pintrich & De Groot, 1990; Bandura, 1997）。
@@ -258,8 +258,6 @@ flowchart LR
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, p. 27)]] | 欧洲教育治理体系与 OECD PISA 测评实践（英国、德国与芬兰） | 政策社会学与比较案例研究（专家深度访谈与政策文献分析） | 学生非认知自我效能感、学习动机及自主规制策略指标 | 揭示 OECD 将自我效能感纳入跨国大规模测评的核心非认知维度，建立跨国度量标尺以衡量学生面向未来生活的胜任信念 | — | 质性政策社会学分析，揭示国际组织指标建构背后的治理机制 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inquiry-Based Learning\|探究式学习]]在培养学生科学自我效能感、[[Nature of Science\|科学本质观]]与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的独特育人机制，突破了将教学法成效窄化为单一事实概念测验的局限。

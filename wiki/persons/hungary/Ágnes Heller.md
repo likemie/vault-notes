@@ -9,7 +9,7 @@ summary: "匈牙利著名哲学家、布达佩斯学派核心代表人物，师�
 type: person
 nationality: hungary
 person_region: "hungary"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -31,14 +31,13 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Hannah Arendt]]"
-  - "[[Ágnes Heller]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ágnes Heller
@@ -59,9 +58,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1929** 出生于布达佩斯一个犹太家庭。二战期间亲历纳粹大屠杀并幸免于难（其父亲遇难于奥斯威辛）。
 > - **1947–1955** 就读于布达佩斯大学，师从著名马克思主义哲学家格奥尔格·卢卡奇（György Lukács），成为布达佩斯学派骨干。
 > - **1968** 因公开谴责苏联入侵捷克斯洛伐克遭到政治清洗与监视。
@@ -88,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

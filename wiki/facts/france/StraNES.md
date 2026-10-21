@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # StraNES
@@ -65,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 重塑了法国中央集权制高教传统，为大学自主开展教学评价创新开辟了广阔空间。
 > - **实践影响** 推动了法国大学广泛设立跨学科[[Innovation Hub\|创新中心]]（FabLabs）与跨学段表现性口试评价体系。
 > - **知识影响** 为国际比较教育提供了国家层面如何通过战略白皮书联动贯通高中选拔与大学培养机制的生动案例。

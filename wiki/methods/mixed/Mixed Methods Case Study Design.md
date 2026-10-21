@@ -29,14 +29,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Mixed Methods Case Study Design
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > [[Mixed Methods Research\|混合方法]][[Case Study\|案例研究]]设计（Mixed Methods [[Case Study]] Design）是一种复杂混合方法设计，将核心混合方法设计（聚敛式、解释性序列或探索性序列）嵌入案例研究的开发和比较过程中。研究者通过量化和质性数据来发展案例，然后对案例进行描述和比较([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.246]])。
 
 这一设计面临的主要挑战是：在案例研究开始前确定案例，或基于收集的证据来生成案例。研究者需要理解案例研究方法（Stake, 1995; Yin, 2014）并将其与混合方法有效结合。
@@ -65,9 +63,7 @@ updated: 2026-10-16
 
 ---
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > - 适合需要深入了解多个案例（如组织、项目、方案）并通过比较来获得跨案例洞察的研究。
 > - 适合研究者已经预先定义了案例类型（演绎法），或希望从数据中自然浮现案例类型（归纳法）的情境。
 > - 适合同时需要案例深度（质性）和跨案例可比较性（量化）的项目评价或组织研究。

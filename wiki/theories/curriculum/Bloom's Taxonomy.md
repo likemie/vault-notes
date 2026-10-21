@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Bloom's Taxonomy
@@ -97,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -170,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** [[Structured Teaching\|结构化教学]]设计、课程标准命令词对齐、认知测验题型分层与教学干预的分维效能评估。
 > - **谨慎使用** 复杂情感体验、审美感知及跨学科劣构[[Problem Solving\|问题解决]]，其动态非线性特征易被静态六级分类窄化。
 > - **不适合解释** 潜意识直觉、具身动作自动化反应及社会文化情境下的权力关系重构。
@@ -213,9 +209,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 依托修订版布鲁姆认知目标分类学，将 AI [[AI Agent in Education\|智能体]]的干预成果精准[[Operationalization\|操作化]]为技能类（$g = 0.391$）、知识类（$g = 0.344$）与[[Higher-Order Thinking Skills\|高阶思维]]（$g = 0.540, p = .066$），揭示了智能体技术在不同认知层级上的差异化效能。
 > - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 运用修订版布鲁姆分类法检查[[International Baccalaureate\|国际文凭]]项目（国际文凭大学预科项目, [[IB Diploma Programme\|IBDP]]）指南中的命令词层级，审视[[Critical Thinking\|批判性思维]]要求是否在课程指南、评估目标与评分量规之间实现有效对齐。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 基于布鲁姆三维框架与认知分层，在[[Meta-meta-analysis\|二阶元分析]]中细化评估[[Cooperative Learning\|合作学习]]对学生高阶思维（$ES = 0.76$）与[[Academic Achievement\|学业成就]]的宏观促进价值。

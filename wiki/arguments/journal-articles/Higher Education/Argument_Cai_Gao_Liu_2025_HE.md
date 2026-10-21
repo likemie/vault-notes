@@ -51,7 +51,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-11
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_Cai_Gao_Liu_2025_HE
 
@@ -159,9 +159,8 @@ Burt 的结构洞理论为理解关键节点教师的角色提供了社会网络
 > 3. **活生生空间需要被重视** 政策和研究过度聚焦构想空间（政策设计）和感知空间（基础设施），忽视了活生生空间中的人类能动性——这是 GBA 空间能否真正"活起来"的决定性维度
 
 ---
-## 自述局限
 
-> [!warning|notitle]
+> [!warning] 自述局限
 > 研究采用[[Qualitative Interview\|质性访谈]]方法，样本聚焦于具有跨部门经验的关键节点教师，可能无法代表 [[Guangdong-Hong Kong-Macau Greater Bay Area\|GBA]] 大学教师的整体经验。此外，GBA 倡议仍在发展中，研究提供的是早期阶段的快照，而非成熟空间的全貌。
 
 ---

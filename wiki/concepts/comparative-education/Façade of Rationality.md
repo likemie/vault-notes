@@ -9,7 +9,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，数字作为理性表象的脚手架，相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治外壳。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,7 +19,6 @@ tags:
   - theme/policy-brokerage
   - theme/quantification
 related_concepts:
-  - "[[Façade of Rationality]]"
   - "[[Construct]]"
   - "[[Scaffolding]]"
   - "[[Governing by Numbers]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Façade of Rationality
@@ -88,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（[[Façade of Rationality]]） | [[Governing by Numbers\|数字治理]] | [[Technical Rationality\|技术官僚理性]]（Technocratic Rationality） |
 > |---|---|---|---|
 > | **分析对象** | 决策者对量化指标的[[Discourse\|话语]]包装与象征利用 | 跨国组织与国家机器运行的量化规制体制 | 专家系统依循工程逻辑实施的纯粹技术计算 |
@@ -154,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990–2000年代 — 量化社会学奠基** 西奥多·M·波特（Theodore M. Porter）与[[Wendy Espeland\|温迪·埃斯佩兰德]]（Wendy Espeland）等学者揭示[[Commensuration\|通约化]]与信赖数字的政治本质，指出量化是弱势专业群体抵抗政治干预与政府建立公众信任的技术策略。
 > - **2013 — 比较教育[[Policy Borrowing\|政策借用]]中的[[Façade of Rationality|理性外衣]]** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）在反思教育政策借鉴中的“成功经验路径”时，明确提出量化硬事实为争议性政策移植提供了“理性、精确与普适的表象（façade of rationality, precision, and universality）”。
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代[[Policy Brokerage\|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（[[Kerstin Martens]]）与伊德森（[[Christian Ydesen]]）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯[[Knowledge Mediation\|知识中介]]走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
@@ -181,7 +176,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合多学科视角，系统阐释[[Policy Brokerage\|政策中介]]机构如何在教育决策面临歧义、争议与不确定的生态下，运用硬事实构筑[[Façade of Rationality|理性表象]]以施展全球[[Soft Power\|软权力]]。

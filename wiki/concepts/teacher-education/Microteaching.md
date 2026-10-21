@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Microteaching
@@ -178,7 +178,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时梳理教师效能核心因素表，证实微格教学以 $d = 0.88$ 居教师实践首位。

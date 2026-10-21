@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Decodification（解码）
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 解码（Decodification） | 传统文本解析（Textual Exegesis） |
 > |------|--------------------------|---------------------------------|
 > | **[[Epistemology\|认识论]]目标** | 揭示生活现象背后的压迫权力结构 | 理解和再现作者既定的文本原意 |
@@ -113,9 +111,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 — 理论体系构建** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将解码明确为[[Epistemology\|认识论]]觉醒的关键环节。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105, 引自 Darwish, 2009)]]
 > - **1973 — 认识论飞跃论述** 在《批判意识教育》中提出解码实现了“我们思考”（We think）的横向飞跃。[[Argument_Darwish_2009_Queens\|(Freire, 1973, p. 135, 引自 Darwish, 2009)]]
 > - **2009 — 课程对比应用** 达维什在学位论文第 4 章中将解码作为评估[[Active Learning\|主动学习]]深度的重要标准。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
@@ -129,7 +125,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 详细记录了巴西农民如何解码“泥砖”照片并建立工会的过程。

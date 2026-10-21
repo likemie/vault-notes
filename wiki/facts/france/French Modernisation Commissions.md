@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-16
+updated: 2026-10-22
 title: French Modernisation Commissions
 aliases:
   - 法国现代化委员会
@@ -89,9 +89,7 @@ aliases:
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|

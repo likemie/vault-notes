@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Founder Culture
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 创始人文化（Founder Culture） | 防卫型官僚文化（Defensive [[Bureaucracy]]） | 表演性道德主义（[[Procedural Piety\|Performative Moralism]]） |
 > |:---|:---|:---|:---|
 > | **核心诉求** | 解决物理世界真实难题，交付可衡量的实质战略成果 | 严格遵循既定程序规章，规避行政、审计与舆论风险 | 宣示崇高口号与清教徒式道德纯洁性，获取文化优越感 |
@@ -302,9 +300,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 阐述防务融合（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch01]]）、公职改革（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Ch15]]、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch16]]）与长程托管及全员股权（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch18]]）。
 
 ---

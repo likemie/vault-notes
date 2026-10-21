@@ -35,14 +35,12 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # German Innovation Policy System
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 德国的科技创新能力位居全球领先地位，其科技创新体系具有基础理论研究与实际应用紧密结合的显著特征。联邦政府通过多层次的政策工具，从战略规划、资金支持、税收激励、人才培育到[[Technology Transfer\|技术转移]]，构建了全方位的创新支持体系。
 
 ---
@@ -107,9 +105,7 @@ updated: 2026-10-16
 
 ---
 
-## 政策时间线
-
-> [!note|notitle]
+> [!note] 政策时间线
 > - 1893 电气工程师协会创立
 > - 1917 德国标准化协会成立
 > - 1969 《联邦职业教育法》颁布（→ [[German Dual Education System]]）

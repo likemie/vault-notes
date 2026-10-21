@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Global Educational Discourse
@@ -101,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 全球教育[[Discourse\|话语]] (Global Educational Discourse) | [[Globally Structured Agenda for Education\|全球结构化议程]] (Globally Structured Agenda) | 世界文化[[Paradigm\|范式]] (World Culture / Society) | 经典[[Policy Borrowing\|政策借用]] (Policy Borrowing) |
 > |---|---|---|---|---|
 > | **生产主体** | 国际多边组织（[[UNESCO]]/WB/[[OECD]]）与跨国专家网络 | 全球资本主义政治经济力量与跨国统治阶级 | 世界社会中去中心化的制度化规范与合法性脚本 | 主权国家政府指派的行政考察者与改革官员 |
@@ -181,9 +179,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s–1960s — 战后技术官僚与[[Developmentalism|发展主义]][[Discourse|话语]]奠基** 二战后 [[UNESCO]]、[[World Bank|世界银行]]与[[OECD|经合组织]]前身 [[Organisation for European Economic Co-operation|OEEC]] 转型为发展促进机构，在拉美等地区推行以国家计划委员会和“教育计划”为代表的[[Technical Rationality|技术理性]]社会技术，确立国际机构作为“中立科学专家”的合法性地位。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **1980s–1990s — 信息时代同质化改革[[Paradigm|范式]]成型** 伴随冷战结束与新自由主义全球化，三大国际机构跨越意识形态分歧，将未来统一编码为“信息时代”，确立了以分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位与质量测评为核心的五支柱全球教育话语体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **2005–2009 — 全球教育话语概念的学术化建构** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）基于对阿根廷与巴西教师教育改革的长达十余年实证追踪，在其博士论文及 2009 年论著中正式提出“全球教育话语”概念与五位置流通模型，揭示国际机构过度简化[[Knowledge Production|知识生产]]与窄化地方政策空间的批判性机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–354)]]
@@ -209,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -231,9 +225,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Discourse|话语]]概念与[[Champ|场域]]五位置模型，实证剖析国际组织在拉美推进五大支柱模型时的空间闭合与实践脱节。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法引入比较教育学，追踪[[Global Policy Space|全球政策空间]]生产的能力话语向拉美国家与学校逐层变形的机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 解构[[OECD|经合组织]]如何通过[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与 [[PISA]] [[Space of Equivalence|等值空间]]重构全球教育政策话语。

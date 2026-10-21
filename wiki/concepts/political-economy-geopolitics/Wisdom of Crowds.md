@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Wisdom of Crowds
@@ -74,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 群体智慧（Wisdom of Crowds） | 群智能（[[Swarm Intelligence]]） | 市场投机狂热（Market Euphoria） |
 > |:---|:---|:---|:---|
 > | **信息互动机制** | 个体彼此独立，无交互交流，通过统计中位数汇总 | 个体间存在局部规则互动与信息级联（如[[Dance Language of Bees\|蜜蜂摆尾舞]]） | 投资者高度受他人行为、市场情绪与价格信号传染 |
@@ -145,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1906–1907 — 经验奠基阶段** [[Francis Galton|弗朗西斯·高尔顿]]发表《大众之声》，基于普利茅斯公牛估重实验正式提出民主判断可[[Reliability|信度]]命题。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
 > - **2004–2005 — 理论体系化与商业扩展** 詹姆斯·苏罗威基出版《群体的大智慧》（*The Wisdom of Crowds*），系统总结多样性、独立性与去中心化三大支柱，推动其在预测市场与金融交易中的广泛应用。
 > - **2025 — 政治经济学批判与治理反思** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》第15章反思盲目崇拜市场智慧所导致的公共责任逃避与[[Innovation Desert|创新荒漠化]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
@@ -176,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

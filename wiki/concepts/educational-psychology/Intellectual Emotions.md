@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Intellectual Emotions
@@ -167,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **古希腊时期 哲学起源与惊奇论** [[Aristotle\|亚里士多德]]在《形而上学》中确立“哲学始于惊异”（Philosophy begins in wonder），将惊奇与好奇确立为人类追求真理与深层理解的原始驱动力。
 > - **1970–1990 年代 认知的情感维度开创** Israel Scheffler 发表《认知的情感与美德》（In Praise of the Cognitive Emotions），系统打破认知与情感的二元对立，界定好奇、困惑与真理热爱为具有认知导向的情感形态。
 > - **1990–2010 年代 [[Virtue Epistemology|德性认识论]]与情感转向** Linda Zagzebski 与 Michael Brady 系统论述情感在德性[[Epistemology|认识论]]（Virtue Epistemology）中的奠基地位，确立理智情感是赋予探究行动持久动机、区分单纯技能与真正[[Epistemic Virtues and Vices|理智美德]]的核心心理构件。
@@ -210,7 +208,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Virtue Epistemology|德性认识论]]与理智情感教学法** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 系统论证理智情感（好奇、惊奇、着迷、困惑）作为连接智力技能与[[Epistemic Virtues and Vices|理智美德]]（[[Open-Mindedness|思想开放]]、[[Creativity|创造力]]、理智[[Humility|谦逊]]）的中枢催化作用，提出基于生成式 AI [[AI Agent in Education|智能体]]（Q-Tutor）的个性化叙事隐喻教学法。

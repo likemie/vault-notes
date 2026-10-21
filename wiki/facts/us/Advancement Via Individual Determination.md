@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Advancement Via Individual Determination
@@ -101,9 +101,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

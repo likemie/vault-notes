@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mis-educative Experience（反教育经验）
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 反教育经验（Mis-educative） | [[Educative Experience\|教育性经验（Educative）]] |
 > |------|--------------------------------------|-----------------------------------|
 > | **分析对象** | 阻碍或截断[[Education as Growth\|生长]]的经验品质 | 促进持续生长的经验品质 |
@@ -118,9 +116,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1938 — 概念提出** [[John Dewey\|杜威]]在《经验与教育》中提出该概念，揭示传统强迫训导的深层危害。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 30)]]
 > - **2009 — 案例解构应用** Darwish 运用该概念解构工业时代学校机器对学生身体活动的镇压与纪律难题。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 34–35)]]
 
@@ -133,7 +129,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析传统课堂纪律难题、死标本观察课与反教育经验的因果链条。

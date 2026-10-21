@@ -21,7 +21,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 # 1982 United World Colleges Scholarship Endowment Proposal
@@ -55,9 +55,7 @@ updated: 2026-10-07
 > [!warning] 方案尚不能被视为已成立的基金
 > 五千万美元是筹款目标，不能写成实际募得金额；永久保障是预期功能，不能写成已实现成效。基金设想与政府承担更多[[International Education|国际教育]]责任被并列为未来融资路径。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 214)]]
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | Fact | 共同基金拟为书院网络提供长期奖学金保障。 |

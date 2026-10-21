@@ -39,9 +39,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **YYYY** 出生、教育经历、关键任职、重要活动或公共介入。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **YYYY–YYYY** 思想转向、机构角色、政策参与或学术网络变化。
 > - **YYYY** 逝世或后续影响节点（如适用）。
@@ -123,9 +121,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[Person]] — 关系说明。
 > - **学生／继承者** [[Person]] — 关系说明。
 > - **批评者／论敌** [[Person]] — 关系说明。
@@ -158,9 +154,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

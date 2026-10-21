@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Norwegian Agency for Quality Assurance in Education
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 确立了北欧高等教育“高自主权与强透明度”相结合的现代化质保模式。
 > - **实践影响** 通过详实的[[Questionnaire\|问卷]]数据倒逼大学院系破除传统考核弊病，强化教师形成性评语反馈与[[Higher-Order Thinking Skills\|高阶思维]]培养。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 > - **知识影响** 为 [[OECD]] 等国际组织提供了质保机构如何超越行政官僚检查、转型为“高校质量改进发展伙伴”的生动案例。

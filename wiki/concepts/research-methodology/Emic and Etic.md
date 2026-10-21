@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Emic and Etic
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 在质性研究中的位置
-
-> [!entry-map|notitle]
+> [!entry-map] 在质性研究中的位置
 >
 > | 关联项 | 类型 | 关系 |
 > |:-------|:-----|:-----|
@@ -119,16 +117,12 @@ updated: 2026-10-21
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > - Emic 视角在研究文化原生概念及行为底层信念方面具有更高的效度，优于单纯依赖外部范畴的 etic 路径（[[Argument_Li_2012_Cambridge\|Li, 2012, p.77-78]]）。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]]运用 emic 路径，让中英文母语大学生自由联想"学习"（xuexi / learn/learning）相关词汇，分别获得 225 个中文核心词汇和 203 个英文核心词汇。[[Cluster Analysis\|聚类分析]]生成了欧美与中国两种文化层面的学习模型，揭示了二者在学习目的、能动过程、情感维度和成就标准上的系统性差异（[[Argument_Li_2012_Cambridge\|Li, 2012, p.79-85]]）。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 在主位/客位框架下研究中国与欧美学习信念差异，以 emic 视角为核心方法论基础，运用[[Prototype Methods\|原型方法]]和[[Cultural Models\|文化模型]]生成两种文化层面的学习模型。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al. (2011)]] — 从 LeCompte and Preissle（1993）的语言学类比出发，将主位/客位区分系统纳入[[Ethnography\|民族志]]方法与[[Positivism\|实证主义]]方法的对比框架，并阐明其在[[Interpretive Paradigm\|诠释范式]]和[[Rich and Thick Description\|厚描述]]中的方法论位置。

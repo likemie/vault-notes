@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zhang_2022_SE"
@@ -400,9 +400,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文作者指出了本研究的以下局限与后续方向：① 研究是在一所小学的单个五年级班级展开的定性探索性[[Design-Based Research|基于设计的研究]]（[[Design-Based Research]], DBR），[[Sample Size Determination|样本量]]较小（$n = 22$），结论的推广性需要在不同年级、学科与学校文化中进一步验证；② 研究主要对眼睛探究小组进行了微观[[Rich and Thick Description|深描]]，对其他小组（如骨骼、消化组）的微观互动记录相对有限；③ 执教教师 Mrs. K 具备 19 年丰富教龄且熟悉[[Knowledge Building Theory|知识建构理论]]，未来需要进一步研究经验较少的新手教师在开展[[Reflective Structuration|反思性结构化]]教学时可能面临的挑战与所需的支架支持。（pp.919–920）
 
 ---

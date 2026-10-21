@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tao Xingzhi
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1891** 出生于安徽歙县。
 > - **1914–1917** 留美学习，先后就读于伊利诺伊大学与哥伦比亚大学[[Normal School\|师范学院]]，受教于[[John Dewey\|杜威]]。
 > - **1919** 参与《新教育》编辑工作及[[John Dewey\|杜威]]访华接待，早期曾主张学校为“小共和国”。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
@@ -126,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[John Dewey]] — 导师；[[Hu Shi]]、[[Jiang Menglin]] — 哥大校友网络与[[New Education Movement\|新教育运动]]同仁。
 > - **继承者／研究者** 陈汉才（1981） — 1980年代陶行知评价重构者。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.85]]）
 > - **机构／运动** [[New Education Movement]] — 核心领导者；《新教育评论》 — 创办人；晓庄试验乡村师范 — 创办人。
@@ -152,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

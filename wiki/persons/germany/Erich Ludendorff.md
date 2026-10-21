@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Erich Ludendorff
@@ -49,9 +49,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1865** 出生于普鲁士波森省克鲁舍夫尼亚。
 > - **1914** 一战爆发后，作为第 8 集团军参谋长在坦能堡战役中击溃俄军，一举成名。
 > - **1916–1918** 与兴登堡元帅共同执掌最高陆军指挥部，推行“鲁登道夫计划”（Hindenburg Programme），实行德国战时全面经济动员体制。
@@ -80,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **军事理论演进路径** 打破了克劳塞维茨关于战争从属于政治的传统原则，将政治反向降格为服务于[[Total War|总体战]]的附庸。
 > - **战略轰炸与核战略路径** 总体战消解平民与军队界限的逻辑，直接推动了二战中盟军与轴心国的无差别战略轰炸，并在[[Manhattan Project|曼哈顿工程]]与核毁灭恐怖中达到顶点。
 > - **战后威慑反思路径** 卡普与扎米斯卡（2025）指出，核武器以终极破坏力将总体战推向自我毁灭的极致，反而倒逼出二战后长达八十年的大国[[Long Peace|长和平]]。
@@ -101,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -113,8 +107,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引鲁登道夫关于[[Total War|总体战]]中平民沦为合法打击目标的冷酷逻辑，论证工业化战争如何演化至核武器毁灭极限，进而催生战后[[Long Peace|长和平]]。
 

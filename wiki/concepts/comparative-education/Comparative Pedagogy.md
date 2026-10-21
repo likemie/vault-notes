@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Comparative Pedagogy
@@ -123,9 +123,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
@@ -143,7 +141,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, p. 155)]] — 考证英国比较教育学界在 20 世纪末向“比较教学论”与“[[Learnology|学习学]]”的微观转向，阐明其区别于北美宏观经济[[Positivism|实证主义]]的深厚文化关怀。

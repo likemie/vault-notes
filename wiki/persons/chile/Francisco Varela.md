@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -45,9 +45,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 
 **[[Autopoiesis]]（自创生）** 与 [[Humberto Maturana]] 在 *The Tree of Knowledge* (1987) 中共同提出的生命系统理论：生命系统是自我指涉、自我生产的——每一组件参与其他组件的生产与转化，系统在空间中持续生成和维持自身。这一理论后被延伸至社会领域([[Argument_Amos_2022_Springer|Amos, 2022, p.61]])。
 
@@ -55,9 +53,7 @@ updated: 2026-10-16
 
 ---
 
-## 主要著作与思想发展
-
-> [!abstract|notitle]
+> [!abstract] 主要著作与思想发展
 
 - [[Humberto Maturana|Maturana, H.]] R., & Varela, F. J. (1987). *The tree of knowledge: The biological [[ROOTS]] of human understanding*. Shambhala. — 与 Maturana 共同提出[[Autopoiesis|自创生]]理论
 - Varela, F. J. (1999). *Ethical know-how: Action, wisdom and cognition*. Stanford University Press. — 提出自我的非固化和伦理诀窍概念

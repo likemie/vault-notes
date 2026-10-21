@@ -28,21 +28,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Grice's Conversational Maxims
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Grice（1975）提出四条"合作原则"（cooperative principles）来描述人们在日常对话中如何协作以达成有效沟通。这些准则最初被认为描述了人类会话的普遍模式，但 [[Argument_Li_2012_Cambridge|Li（2012）]]在第 8 章中指出——"这些会话规则，或说[[Discourse|话语]]法，最初被认为是普遍的人类会话模式，但可能毕竟不那么普遍"。它们更常用于描述西方人的说话风格，而非所有文化的说话模式([[Argument_Li_2012_Cambridge\|Li, 2012, p.87]])。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 四条 Grice 准则及其在西方文化中的运作方式([[Argument_Li_2012_Cambridge\|Li, 2012, pp.87-91]])：
 
 ### 1. 量的准则（Maxim of Quantity）：不多不少

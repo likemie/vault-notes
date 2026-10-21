@@ -60,27 +60,21 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2015
 doi: ""
 citation_aliases:
   - "Lekhal et al., 2015"
   - "Lekhal et al. (2015)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 本文要回答的问题是：学生在校态度、在校行为方式、以及关系性因素（与教师及同伴关系），能否解释男女生在[[Academic Achievement\|学业表现]]上的差异，以及性别是直接作用还是通过其他校内[[Variable\|变量]]间接作用(pp.77-79)。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - 论文将性别差异放在社会认知视角下理解：个体行为、内在过程和环境条件彼此交互，共同影响学习与发展(p.77)。
 > - 作者同时讨论"生物性别解释"和"社会文化建构解释"，并强调较新的研究更关注生物、心理与社会化的联动，而非单因[[Determinism\|决定论]](pp.77-78)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：[[Correlational Research]]，并采用分层[[Multiple Regression\|多元回归]]分析。
 > - 样本：2012 年秋季挪威 48 所学校、5-10 年级 4128 名学生（男 2062，女 2066）(p.79)。
 > - 数据来源：学生[[Questionnaire\|问卷]]与班主任问卷双来源；[[Academic Achievement\|学业表现]]由教师对挪威语、数学、英语评分构成(pp.79-82)。
@@ -113,17 +107,13 @@ citation_aliases:
 > | 文化背景      | Cultural background                           | 背景变量 | 控制变量       | 1 项 / 1-4          | [[Gender Differences in Academic Achievement]]   |
 > | 年龄（年级）    | Age (grade level)                             | 背景变量 | 控制变量       | 1 项 / 5-10         | [[Gender Differences in Academic Achievement]]   |
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 1. 男女学业差异客观存在，但差异大小在不同[[Variable\|变量]]与学科上并不一致，且教师评定变量上的性别差异显著大于学生自评变量(pp.82-83)。
 > 2. 在控制文化背景和年龄后，能解释[[Academic Achievement\|学业表现]]的关键变量主要是"对学校规范的适应"和"动机与努力投入"，且对男女生的解释方向基本一致(pp.83-84)。
 > 3. 性别本身新增解释力极小（仅增加约 0.2%），更可能通过与其他变量交互间接影响成绩，而非直接决定成绩(p.83)。
 > 4. 因此，问题不宜被简化为"男生/女生天生差异"，而应转向学校环境、教师期待、[[Peer-Supported Learning|同伴文化]]与课堂规范如何共同塑造在校行为和评价结果(pp.84-86)。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - 女生在教师评定的核心学科成绩上整体高于男生，挪威语差距最大，其次英语，数学最小(p.82)。
 > - 对成绩解释力最高的[[Variable\|变量]]是"适应学校规范"与"动机和劳动投入"；这两项对男女生都显著(pp.83-84)。
 > - 关系性变量（如学生自评[[Student-Teacher Relationship\|师生关系]]）在本研究中的解释力较弱，作者认为这可能与"关系变量来自学生自评、成绩来自教师评定"的信息源差异有关(p.85)。
@@ -171,15 +161,11 @@ citation_aliases:
 > | [[Motivation and Work Effort]] Beta | 0.440 | 0.391 |
 > | 性别变量末端新增解释率（全样本模型） | \- | ~0.2% |
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “因此，结果表明，性别本身似乎并不直接影响学业成绩，而是性别在与其他[[Variable\|变量]]的相互作用中，间接影响学业成绩。”
 > ("Resultatene viser dermed at kjønn i seg selv ikke ser ut til å virke direkte inn på skolefaglige prestasjoner, men at kjønn påvirker prestasjonene indirekte i et samspill med andre variabler.")(p.83)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - [[Academic Achievement\|学业表现]]与多项关键[[Variable\|变量]]均来自教师评定，可能放大同源测量带来的相关性(p.85)。
 > - 约 20% 样本缺失（主要因未获家庭同意或未完整作答），尽管作者认为性别分布和特教比例仍具代表性(pp.79, 85)。
 > - 对校外因素（家庭、社区、社会结构）解释不足，模型仍有较大未解释方差。

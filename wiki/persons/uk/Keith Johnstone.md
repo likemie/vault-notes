@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Keith Johnstone
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1933** 出生于英国英格兰西南沿海德文郡（Devon），父亲为药剂师，成长于药房楼上。
 > - **1950s–1960s** 任职于伦敦皇家宫廷剧院（Royal Court Theatre），担任编剧、选稿人与副艺术总监，创立写作与演员工作坊，系统探索自发性、无审查表演与微观地位博弈演练。
 > - **1972** 移居加拿大，任教于卡尔加里大学（University of Calgary）戏剧系，开创剧场运动竞技赛制（Theatresports）与“大猩猩剧场”（Gorilla Theatre）。
@@ -122,17 +120,13 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想渊源** [[Konrad Lorenz]] — 约翰斯通关于群体地位等级与微观支配行为的分析深度受到劳伦兹《所罗门王的指环》中对寒鸦社会[[Pecking Order|啄序]]（Pecking Order）行为观测的启发。
 > - **当代应用者** [[Alexander Karp]] 与 [[Nicholas Zamiska]] — 将约翰斯通的《即兴》作为初创科技企业核心文化教材，用于破除大企业病与形式主义层级壁垒。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

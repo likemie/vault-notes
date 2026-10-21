@@ -42,7 +42,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Pretest-Posttest Control Group Design
 
@@ -90,16 +90,12 @@ $$\text{因果效应} = (O_2 - O_1) - (O_4 - O_3)$$
 > - **谨慎使用** 担心前测可能产生敏感化效应时——考虑升级至[[Solomon Four-Group Design\|所罗门四组设计]]。
 > - **不适合使用** 无法随机分配时（使用[[Quasi-Experimental Designs\|准实验设计]]）；前测不可能或不道德时（使用仅后测设计）。
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **[[Pre-test Sensitisation\|前测敏感化]]** [[Pre-test and Post-test\|前测]]可能使受试者对干预更加敏感，前测×处理的[[Interaction Effect\|交互效应]]可能混淆干预效应的估计（Good, 1963）。
 > - **[[Sample Size Determination\|样本量]]需求** 两组设计需要足够的样本量才能使[[Random Assignment\|随机化]]发挥有效控制。
 > - **推广性受限** 实验室或高度受控情境中的发现可能缺乏[[Ecological Validity\|生态效度]]。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Experimental Research]] | 方法 | 母方法——前后测控制组设计是最经典的[[True Experimental Design\|真实验设计]]形式 |

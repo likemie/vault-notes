@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cognitive Load Theory
@@ -118,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle] 关键概念与理论构件
+> [!entry-map] 关键概念与理论构件
 > | 理论构件 | 构件类型 | 在理论中的功能与分析含义 |
 > |---|---|---|
 > | **[[Working Memory\|工作记忆（Working Memory, WM）]]** | 认知结构 | 意识加工与即时信息处理的核心瓶颈，未加工新信息的瞬时容量仅为 $4 \pm 1$ 个离散元素，持续时间仅数秒。 |
@@ -187,9 +185,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 结构良构的学科概念学习、数学推理、计算机程序设计、多媒体微观课件排版评估，以及自适应教学系统与生成式 AI 交互界面设计。
 > - **成立条件** 适用于以知识内化、技能自动化与[[Problem Solving\|问题解决]]图式建构为首要目标的实证研究情境；依赖对任务元素交互性与学习者先验知识的基线测量。
 > - **解释不足** 理论长期立足于心智计算主义立场，对学习者的社会文化互动、同伴协商、情感归属感、身份认同及宏观教育不平等机制缺乏解释力。
@@ -226,9 +222,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 检验并修正认知负荷理论在科学教育中的推论，确立辅以支架的[[Inquiry-Based Learning\|指导式探究]]能够有效管理[[Working Memory\|工作记忆]]负荷，并提出探究与[[Direct Instruction\|直接教学]]时序协同的动态整合模型。
 > - **[[Argument_Li_2026_CEAI\|Li et al. (2026)]]** — 将认知负荷理论拓展至生成式 AI 时代，系统揭示大语言模型在[[Structured Teaching\|结构化教学]]中释放外在负荷、在非结构化使用中切除关联负荷（[[Epistemic Friction\|认识论摩擦]]）的双向分化机制。
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]** — 依托认知负荷理论[[Argument Mapping\|论证图]]形组织器如何通过空间拓扑[[Externalization\|外化]]概念关系、降低瞬时工作记忆负荷，并证实其对[[Higher-Order Thinking Skills\|高阶思维]]的大[[Effect Size\|效应量]]促进（$g = 0.778$）。

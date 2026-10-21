@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Membership-based Research Consortium
@@ -245,9 +245,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 提出高校单中心级会员制联盟模式，论证非独占性优先许可权如何化解产业赞助中的知识产权毒丸效应。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 系统剖析全美[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的多计划矩阵、出资者强问责机制与博士人才直聘网络，提炼创新机构组织效能三大支柱。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 深入考察微电子领域产业研发联合体（SRC、MCC、[[Sematech]]）与大学学术中心（[[Silicon Structures Project|SSP]]、[[National Research and Resource Facility for Submicron Structures|NRRFSS]]、CIS）的共生演化、技术经纪人机制与[[Space of Places|地方空间]]竞标。

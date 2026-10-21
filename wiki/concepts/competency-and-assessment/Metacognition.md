@@ -116,7 +116,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Metacognition
@@ -368,9 +368,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances|认识立场]]框架，以 7 轮统计推论人机交互微观语料实证揭示元认知监控在抵御消极[[Cognitive Offloading|认知卸载]]与促成评价论进阶中的决定性作用。
 > - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项[[Experimental Research|实验研究]]中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“[[Metacognitive Laziness|元认知惰性]]”与开展显性反思培训的紧迫性。
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills|高阶思维]]协同的核心纽带。

@@ -92,7 +92,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kattel_Mazzucato_2018_ICC"
@@ -347,9 +347,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文自述：学界对于何种政治因素最有利于生成具备社会接受度与政治合法性的使命、何种具体的公共组织构型与动态能力配置最能有效落实使命，以及何种形式的民主参与最能促进使命合法性，仍然缺乏充足的实证与理论认知；公共部门如何系统性生成并培育这些动态能力构成了亟待深化推进的未来研究议程。（pp. 791, 798）
 
 ---

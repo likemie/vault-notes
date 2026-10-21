@@ -179,7 +179,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Generative Artificial Intelligence
@@ -447,9 +447,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s — 反文化运动与个人计算及早期 AI 思想发轫** 在越战与民权运动引发的美国政治与文化大撕裂背景下，[[Lee Felsenstein|李·费尔森斯坦]]（Lee Felsenstein）与[[Stewart Brand|斯图尔特·布兰德]]（Stewart Brand）等先驱在硅谷推动早期软件、个人计算与人工智能算法成型；其核心宗旨是将技术作为反抗国家与官僚机构集权的个体解放工具，奠定了数字技术以个体消费者为中心、脱离国家大战略的初始文化基因。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 > - **2008–2022 — 分布式算力底座孵化与前竞争产学奠基** 芯片功耗墙与多核转折倒逼计算架构变革，英特尔与微软联合资助的 [[Universal Parallel Computing Research Centers|UPCRC]] 以及后续加州大学伯克利分校五年期联合实验室（AMPLab/RISELab）相继产出 Apache Spark 与 Ray 等开源分布式计算与 AI 任务调度编排系统，直接构成了后续 ChatGPT 等超大规模生成式大语言模型训练与高效推理的底层工业基础设施。[[Argument_Ramming_2025_CorporateSupport|(McManus, 2023; Ramming, 2025, p. 232)]]
 > - **2017 — 架构奠基阶段** Vaswani et al. 提出 Transformer 架构，自注意力机制（Self-Attention）与并行化计算打破了序列建模瓶颈，为现代生成式大模型奠定技术底座。
@@ -575,9 +573,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -600,9 +596,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统论述万亿参数大模型的 [[Artificial General Intelligence|AGI]] 火花与[[AI Deterrence|算法威慑]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Ch. 2]]）、软件世纪软硬件主从支配关系的根本逆转与破除[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及超越 1970 年代反文化运动与[[Consumer Internet|消费互联网]]消极自满以构筑国家战略[[Hard Power|硬实力]]中枢（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证生成式人工智能如何成为 2025 年起美国科技政策“再集中与再动员”的核心叙事，以及国家如何依托私营科技巨头与国家实验室绕开大学基础探索直接获取技术主导权。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义三大[[Epistemic Stances\|认识立场]]，构建技术提示支架（[[Role-playing\|角色扮演]]、[[Chain-of-Thought Prompting\|思维链]]分解）与教学法支架协同矩阵，阐明维系人类[[Epistemic Agency\|认识主体性]]与防范[[Cognitive Offloading\|认知卸载]]的实践路径。

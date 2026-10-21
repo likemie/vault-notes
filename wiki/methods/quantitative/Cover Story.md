@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Cover Story
@@ -57,15 +57,11 @@ updated: 2026-10-16
 > [!example] 封面故事实例
 > Creswell et al. (2005) 价值肯定压力研究中使用的封面故事："告知受试者，本研究关注的是对实验室表现任务的生理反应。"这一定位使受试者理解为什么需要提供唾液样本（测量皮质醇），但不透露研究真实的假设——即自我肯定活动可以缓冲应激反应。真实的假设只在实验结束后的解除欺骗环节中被披露（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8, Example 8.5）。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Blinding\|盲法]]（Blinding） — 盲法涉及实验者或受试者对条件分配的不知情；封面故事涉及受试者对研究整体目的的不知情或知情不完整。两者都服务于最小化偏差的目标，但运作在不同的层面。
 > - vs [[Informed Consent\|知情同意]]（Informed Consent） — 封面故事与知情同意之间存在伦理张力：知情同意要求受试者了解研究的性质和程序，而封面故事可能涉及对[[Research Purpose\|研究目的]]的部分隐瞒。当隐瞒为研究方法所必需且不对受试者造成伤害时，[[Institutional Review Board\|IRB]] 可能批准带有封面故事和后续解除欺骗方案的研究。
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 封面故事中若包含欺骗，必须经过机构 [[Institutional Review Board\|IRB]] 的审查和批准。研究者需要在方法计划中明确说明为何欺骗是必要的、欺骗的性质和程度、以及解除欺骗的具体程序。
 > - 所有实验程序和材料——包括封面故事的措辞——都必须在数据收集前获得 IRB 批准（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 

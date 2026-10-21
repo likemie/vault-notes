@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Teacher Mobility
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 教师流动（Teacher Mobility） | 师资流失（[[Attrition\|Teacher Attrition]]） | [[Student Mobility\|学生流动]]（Student Mobility） |
 > |------|-----------------------------|-------------------------------------------|--------------------------------------------------|
 > | 主体角色 | 提供教育教学服务的专业劳动力 | 离开教育劳动力市场的离职人员 | 接受教育并接受学籍管理的学生与家庭 |
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **20世纪后期 — 资格地方垄断与低流动阶段** 各国学区与地方教育当局各自为政，养老金接续与资格认证门槛严格限制了教师跨区流动。
 > - **1990年代至2000年代初 — 欧洲一体化与资质互认探索** [[EU|欧盟]]推行[[Bologna Process|博洛尼亚进程]]与[[Lifelong Learning|终身学习]]框架，尝试消除跨境教师流动壁垒以打造[[European Education Space|欧洲教育空间]]（Sayer, 2006）。
 > - **2000年代至今 — 绩效问责与公平危机审视** 伴随《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》等问责政策，美英等国实证学者系统揭示优秀教师从薄弱校单向外流加剧教育鸿沟的危机，促使多国出台偏远与薄弱校轮岗或津贴干预政策。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
@@ -181,7 +177,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 对比欧洲将教师流动视为政策理想与美国将其视为薄弱校流失危机的[[Discourse|话语]]张力，揭示围绕移动的正当性划分本质。

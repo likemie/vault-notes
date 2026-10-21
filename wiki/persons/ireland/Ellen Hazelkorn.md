@@ -36,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Ellen Hazelkorn
 
@@ -47,16 +47,12 @@ updated: 2026-10-20
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 > 未提供。待核。
 
 ---
 
-## 主要著作与思想发展
-
-> [!abstract|notitle]
+> [!abstract] 主要著作与思想发展
 
 ### 2015 — *Rankings and the Reshaping of Higher Education* (2nd ed.)
 
@@ -84,9 +80,7 @@ updated: 2026-10-20
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - 排名研究的奠基性工作——其 2014 年国际调查数据和 2015 年专著被后续排名研究广泛引为基础参照
 > - 影响了 [[Geopolitics of Knowledge]] 概念中关于排名作为[[Geopolitics|地缘政治]]机制的讨论
 > - 与 [[Philip Altbach]] 联合呼吁高校"专注于使命，而非排名"（Altbach & Hazelkorn, 2017），影响了政策讨论的方向

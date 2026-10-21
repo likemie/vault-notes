@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Chris Freeman
@@ -86,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1921** 出生于英国，二战后在伦敦政治经济学院（LSE）接受正统经济学训练。
 > - **1959–1965** 在英国国家经济与社会研究所（NIESR）开展产业研发实证调查，代表英国主持起草 [[OECD]]《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*），奠定现代研发（R&D）量化统计的世界标准。
 > - **1966** 在萨塞克斯大学创立科技政策研究所（SPRU），搭建全球首个集经济学、社会学与工程学于一体的跨学科创新研究平台。
@@ -160,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术前驱／思想渊源** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List）— 汲取国家政治经济学中关于无形[[Intellectual Capital|知识资本]]跨代积累、技术教育与战略幼稚工业保护的思想；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）— 继承创新作为[[Creativity|创造性]]破坏与非均衡动态演进的内核。
 > - **同行／核心合作者** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）、[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）、卡萝塔·佩雷斯（[[Carlota Perez]]）、吕克·苏特（Luc Soete）— 共同构筑[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统学派]]。
 > - **对话者／学术交锋** [[Kenichi Ohmae|大前研一]]（Kenichi Ohmae）— 批驳其“无国界世界”导致民族国家过时的全球化激进论调；[[Michael Porter|迈克尔·波特]]（Michael Porter）— 吸收其[[National Competitive Advantage|国家竞争优势]]菱形模型作为母国环境重要性的佐证。
@@ -191,9 +187,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

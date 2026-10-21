@@ -56,12 +56,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
   - "[[Argument_Hartong_2018_GSE]]"
-  - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Hartong_Forschler_2019_BDS]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Standing Conference of the Ministers of Education and Cultural Affairs
@@ -164,9 +164,7 @@ KMK 在协调全国教育改革的过程中，长期面临着决策机制迟缓�
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -186,6 +184,6 @@ KMK 在协调全国教育改革的过程中，长期面临着决策机制迟缓�
 > | [[Expert Interview]] | Method | 各州教育部在 KMK 监测框架下的履职体验构成了相关实证研究专家访谈的核心内容。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] | Argument | 剖析 KMK 监测战略下 IQB 作为国家计算中心与跨尺度绩效数据基础设施的拓扑重组。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 历时考察德国四个联邦州教育部在 KMK 监测框架下的微观接收与行政常规化机制。 |
-> | [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] | Argument | 剖析 KMK 监测框架在汉堡 [[Institute for Educational Monitoring and Quality Improvement|IfBQ]] 的具体制度化形态及其向上数据流与单一事实来源机制。 |
-> | [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] | Argument | 剖析 PISA 震荡后 KMK 紧急决议确立国家教育标准与大规模统测对德国教育治理转型的制度动员机制。 |
+> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] | Argument | 剖析 KMK 监测框架在汉堡 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的具体制度化形态及其向上数据流与单一事实来源机制。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 PISA 震荡后 KMK 紧急决议确立国家教育标准与大规模统测对德国教育治理转型的制度动员机制。 |
 

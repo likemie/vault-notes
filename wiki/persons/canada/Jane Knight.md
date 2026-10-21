@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jane Knight
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990 年代初** 投身国际高等教育比较研究，主持加拿大大学与学院协会（AUCC）等机构的跨国调查，针对国际化概念界定模糊的困境提炼出广泛适用的[[Operationalization|操作化]]定义。
 > - **2000–2005** 深入探讨[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）[[GATS and Trade in Education Services|服务贸易总协定]]（General Agreement on Trade in Services, GATS）对跨境高等教育的冲击，剖析教育服务商业化与学术自治的张力。
 > - **2011–2014** 聚焦东亚与中东等新兴高教聚集区，系统提出[[International Education Hubs|国际教育枢纽]]的概念框架与三类模型，主编出版《国际教育枢纽：学生、人才与知识／创新模型》。
@@ -141,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作学者** [[Philip Altbach|菲利普·阿特巴赫]]（Philip Altbach） — 长期合作探讨全球[[Internationalization of Higher Education|高等教育国际化]]、跨境人员流动与中心-边缘结构不平等。
 > - **理论对话与批评者** 埃尔弗特（Matthias Erfurth）、扎普（Mike Zapp） — 既借用其分类学，又批评其早期枢纽模型缺乏对[[Geopolitics|地缘政治]]权力博弈与不平等后果的批判性反思。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 203, 211)]]; [[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–156)]]
 > - **关联机构与网络** [[University Alliance of the Silk Road|丝绸之路大学联盟]]（[[University Alliance of the Silk Road|UASR]]） — 其[[Knowledge Diplomacy|知识外交]]框架被广泛用于审视该跨国多边大学网络及下属专业工程办学实践。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
@@ -175,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

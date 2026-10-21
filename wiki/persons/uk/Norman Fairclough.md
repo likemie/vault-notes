@@ -60,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Norman Fairclough
@@ -81,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1941 年** 出生于英国。
 > - **1989 年** 出版开创性专论 *Language and Power*，正式确立批判[[Discourse|话语]][[Paradigm|研究范式]]，系统揭示日常语言与制度文本中隐藏的权力关系与意识形态。
 > - **1992 年** 出版 *Discourse and Social Change*，提出三维分析模型（文本、话语实践、社会实践），建立互文性（Intertextuality）与[[Interdiscursivity|互话语性]]（Interdiscursivity）的分析工具。
@@ -134,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术伙伴** [[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）、沈碧莲（Ngai-Ling Sum）— 共同推进语言符号学与[[Cultural Political Economy|文化政治经济学]]（CPE）的跨学科整合。
 > - **理论共鸣者** [[Roy Bhaskar]] — 采纳[[Critical Realism|批判实在论]]（Critical Realism）[[Ontology|本体论]]与[[Explanatory Critique|解释性批判]]方法，作为 [[Critical Discourse Analysis|CDA]] 的哲学根基。
 > - **学术对话者** [[Stephen Ball]] — 在批判性教育政策社会学中形成密切的理论共鸣与方法对话。
@@ -159,9 +155,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

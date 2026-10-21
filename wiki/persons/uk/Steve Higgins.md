@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Steve Higgins
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2000s** 任教于杜伦大学教育学院，深耕教育技术、[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]方法，主导开发多项关于信息技术与课堂互动成效的二阶综合研究。
 > - **2011** 受[[Sutton Trust\|萨顿信托]]（[[Sutton Trust]]）委托，领衔杜伦大学研究团队编制指导学校有效使用“[[Pupil Premium\|学生津贴]]”（[[Pupil Premium]]）的[[Abstract\|研究摘要]]，成为后续国家级工具包的雏形。
 > - **2011–2016** 伴随英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）设立，担任[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]首席主持学者，开创了将抽象标准化[[Effect Size\|效应量]]转化为通俗“进展月数”的[[Evidence-Based Policy-Making|循证决策]]转译[[Paradigm\|范式]]。
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** 齐·肖（ZhiMin Xiao）、阿迪特·卡西姆（Adetayo Kasim） — 杜伦大学方法学合作团队，共同完成 17 项早期 [[Randomised Controlled Trials\|RCT]] 复算审计。
 > - **批评者 / 方法论敌** [[Adrian Simpson]] — 杜伦大学数学教育教授，系统批评其工具包联盟表犯下“类别错误”与测量设计混淆。
 > - **依托机构与平台** [[Education Endowment Foundation]]、[[Sutton Trust]]、杜伦大学教育学院。

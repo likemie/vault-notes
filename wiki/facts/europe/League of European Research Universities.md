@@ -31,21 +31,19 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # League of European Research Universities
 
 ---
-## 背景
 
-> [!info|notitle]
+> [!info] 背景
 > LERU 是由欧洲研究密集型大学组成的联盟，在研究和创新政策领域发布立场文件和报告，影响欧洲高等教育和科研政策。在 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]] 上，LERU 2018 年的研究报告《Delivering Talent: Careers of Researchers Inside and Outside Academia》被作为核心参考，讨论了博士和博士后研究者的职业发展问题。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 37-38)]]
 
 ---
-## 关于博士职业发展的主要发现
 
-> [!abstract|notitle]
+> [!abstract] 关于博士职业发展的主要发现
 > LERU 的研究识别了推动非学术职业路径增长的关键经济变化：
 > - 许多产业越来越由知识资产和创新驱动
 > - 企业越来越多地参与协作研究，向"开放科学"趋势发展
@@ -69,8 +67,7 @@ updated: 2026-10-16
 [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 37-39)]]
 
 ---
-## 相关概念／政策
 
-> [!tip|notitle]
+> [!tip] 相关概念／政策
 > - [[Knowledge Exchange]] — LERU 提倡通过研究者流动促进产学之间的知识交流。
 - [[Professors of Practice]] — LERU 的建议与增加产学人员流动性的倡议一致，包括联合任命和产业教授等机制。

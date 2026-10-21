@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Scientific Misinformation
@@ -195,7 +195,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统解构大众传媒变迁、算法推荐偏倚、高校新闻通稿夸大与科研诚信融合治理路径。

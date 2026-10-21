@@ -53,7 +53,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_ODwyer_Filieri_OMalley_2023_JTT
 
@@ -172,9 +172,8 @@ updated: 2026-10-16
 > 4. **信任的类型随阶段演化** 声誉基础（信任个人）→ 诚信基础（信任网络），这一演化取决于制度保障（知识产权协议）和合作成果的积累
 
 ---
-## 自述局限
 
-> [!warning|notitle]
+> [!warning] 自述局限
 > 研究明确承认（pp.925-927）：单一站点[[Case Study\|案例研究]]设计限制了发现的[[External Validity\|可推广性]]——[[Synthesis and Solid State Pharmaceutical Centre\|SSPC]] 的特定情境（制药行业、小型开放经济体爱尔兰、成熟的[[University-Industry Collaboration\|产学合作]]历史）可能影响障碍和促进因素的性质和时间。制药行业的知识密集性和高知识产权敏感性可能使某些障碍（如知识泄露恐惧和知识产权冲突）比其他行业更突出。未来研究需要在不同行业、国家和合作阶段中检验四阶段模型。
 
 ---

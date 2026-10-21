@@ -13,9 +13,9 @@ subtype: organization
 region: sweden
 fact_region: "sweden"
 fact_kind: "organization"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: 瑞典斯德哥尔摩索尔纳
@@ -29,15 +29,10 @@ tags:
   - theme/school-inspection
 related_concepts:
   - "[[School Inspection]]"
-  - "[[Governing at a Distance]]"
-  - "[[Standardization]]"
   - "[[State Simplification]]"
-  - "[[Juridification of Education]]"
 related_theories:
   - "[[Governing by Inspection]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
-related_methods:
-  - "[[Case Study]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -48,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Swedish National Agency for Education
@@ -123,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

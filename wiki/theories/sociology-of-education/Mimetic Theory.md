@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mimetic Theory
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 群体非理性跟风、投机泡沫、行业同质化竞争、从众心理与创新惰性。
 > - **成立条件** 存在清晰的参照榜样与排他性评价指标；信息流动高度充分但缺乏独立物理反馈检验。
 > - **解释不足** 无法完全解释纯粹基于严密数学与物理第一性原理推导出的全新科学发现。
@@ -168,16 +164,12 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, pp. 157–158)]] — 援引[[René Girard|吉拉尔]]灵长类香蕉选择实验，系统阐明模仿欲望对科技初创企业与创投生态的同质化支配，论证过度模仿对突破性[[Creativity|创造力]]的致命毒性。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献说明 |
 > |:-----|:-----|:-----|

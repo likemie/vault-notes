@@ -63,7 +63,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: report
 publication_type: report
 title: "Argument_Mowery_2011_NBER"
@@ -389,9 +389,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - 本文聚焦于战后美国电子产业与信息技术的历史制度演进，未对欧洲和日本电子产业的微观企业研发数据进行同等深度的定量建模。（pp.160, 169–171）
 > - 本文对能源与气候变化技术的探讨主要基于跨部门政策比较与宏观经济学逻辑推演，未对具体某项清洁能源技术（如第四代核电、钙钛矿光伏或碳捕集工艺）的工程技术细节与具体度电成本进行微观实证测算。（pp.184–186）
 > - 本文着重强调联邦政策与产业结构的互动，对于冷战后全球化产业链重组对美国国内信息技术制造能力的长期侵蚀未作深入展开。（pp.161, 185–186）

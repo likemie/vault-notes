@@ -46,7 +46,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
@@ -73,9 +73,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > - [[Academic Health System\|学术健康系统]] — 核心概念。区别于传统[[Academic Medical Center\|学术医学中心]]（Academic Medical Center, AMC），指在优先患者诊疗之后同时追求学术研究和产业创新、兼具科研基础设施和区域性临床网络的独立组织实体(pp.179–181)。
 > - **[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）** — 定义为"整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新"(p.175)。AHS 正是 AMI 类[[University-Industry Collaboration\|产学合作]]的理想促进者。
 > - [[Physician-Scientist\|医师科学家]] — AMI 的关键催化者，同时具备医学博士（Doctor of Medicine, MD）和哲学博士（Doctor of Philosophy, PhD）学位，在临床前线识别问题、与基础科学家合作翻译发现、并在学界和产业之间充当联络者(pp.176–177)。
@@ -89,9 +87,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > - 类型：观点性书籍章节（perspective chapter），包含一个历史性的[[Case Study\|案例研究]]
 > - 方法：基于作者在 Houston Methodist 研究所（Houston Methodist Research Institute, HMRI）的从业经验（Swick 为研究发展副主任, Jones 为 HMRI 总裁兼首席执行官），结合文献引用和对 TAVR [[University-Industry Collaboration\|产学合作]]历程的历史案例分析
 > - 案例：Houston Methodist DeBakey 心脏与血管中心与 Medtronic 合作开发 TAVR 的产学合作历程(pp.192–194)
@@ -381,9 +377,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - Houston Methodist 作为范例来阐明 [[Academic Health System\|AHS]] 的特征和能力，"the one with which we are most familiar"(p.180)。所描述的 AHS 模型可能带有该机构的特殊性，其他具备类似模式的 AHS（如 Cleveland Clinic、Cedars-Sinai Medical Center、MedStar Health）在结构上各有差异。
 > - Medtronic and Edwards Lifesciences 之间的专利争议被明确排除在讨论范围之外（"a topic beyond the scope of this chapter"）(p.193)，因此 TAVR 案例没有覆盖[[University-Industry Collaboration\|产学合作]]中知识产权争议这一完整维度。
 > - [[Values Alignment Model\|价值对齐模型]]是一个概念性框架，其有效性主要通过 TAVR 的单一案例和 COVID-19 的历史经验进行推论，尚未经过系统的实证验证。

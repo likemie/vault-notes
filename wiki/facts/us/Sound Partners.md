@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sound Partners
@@ -120,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Sound Partners 列为初等阅读 Tier 3 密集个别辅导的强证据典范，系统论证助教辅导在低成本与高保真度维度的革命性价值。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，将 Sound Partners 作为刚性填充 Tier 3 密集个别化补救的核心支撑方案。
 > - [[Teaching Assistant]] — 教学助教主条目，阐释在结构化脚本支撑下助教替代认证教师提供强效干预的实证依据。

@@ -46,7 +46,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Trend Study
@@ -174,9 +174,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

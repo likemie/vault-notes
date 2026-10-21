@@ -45,7 +45,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-02
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2011
 doi: ""
 citation_aliases:
@@ -61,9 +61,7 @@ citation_aliases:
 Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共部门管理主义干预的一部分"，它将校长建构为"国家启动的改革的交付者（deliverer）"。论文提出替代方案：[[School Leadership|学校领导]]者需要一种基于"教育问题提出与争辩"（educational [[Problem-Posing Education|problem posing]] and contestation）而非"组织[[Problem Solving|问题解决]]"（organisational problem solving）的替代性领导习性(p.45)。
 
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 论文以 **[[Pierre Bourdieu]] 的社会理论**为核心分析工具(p.47-49)：
 
 - **[[Champ|场域]]** 相对自主的社会世界，其自主性体现为生成自身价值和成就标志的能力。教育场域正在削弱——"市场和管理主义的语言已渗透进[[CORE Education|核心教育]]论述"(Blackmore, 2010, p.108, p.48)
@@ -74,18 +72,14 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 论文还借鉴了 Oakeshott and Bates 的"加入世界对话"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础(p.43-44)。
 
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > - **方法** 理论性／[[Critical Policy Analysis|批判性政策分析]]（polemical intervention），以 Bourdieuian 社会理论为分析透镜
 > - **案例** NSW 公立学校系统（澳大利亚最大的学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校）
 > - **数据来源** 政策文件（NSW *Leading and Managing* 文件、NSW 教师学院专业标准、Scott 的 *Learning Principals* 报告、MCEETYA *[[Melbourne Declaration]]*）、联邦/州教育政策、学术文献
 > - **立场声明** 论文明确承认其"对大学本位、理论丰富的项目的潜在特权化"(p.44)，以及其从"对澳大利亚教育领导力培养现状的不满"出发的立场
 
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > 论文以四个递进步骤展开论证：
 
 ### 第一步：NSW 校长培养是管理主义国家干预
@@ -158,9 +152,7 @@ Eacott 提出(p.56-58)：
 > ("If orthodoxy is to be challenged alternate ways of being are needed. Not just alternate means of problem solving, but alternate ways of thinking and problem posing.")(p.58)
 
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 > - **论文自认局限** 作为一篇"争论性干预"（polemical intervention），论文明确基于对现状的"不满"立场(p.44)，可能被批评为选择性使用证据
 > - **大学本位偏见** 作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"，尽管声明试图同时问题化两种立场以避免现代主义二元对立
 > - **NSW 案例的推广性** 论文聚焦单一系统（NSW 公立学校），其结论向其他情境（私立学校、其他州/国家）的推广需要谨慎

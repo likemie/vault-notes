@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Chen Kuan-Hsing
 
@@ -47,9 +47,7 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 
 ---
 
-## 主要著作
-
-> [!abstract|notitle]
+> [!abstract] 主要著作
 > - Chen, K.-H. (2005). "Asia" as method. *Taiwan: A Radical Quarterly in Social Studies*, 57, 139–218. — 早期阐述"亚洲作为方法"的核心构想，借鉴日本学者竹内好（Takeuchi Yoshimi）的方法论灵感
 > - Chen, K.-H. (2010). *Asia as Method: Toward Deimperialization*. Duke University Press. — 代表作。基于台湾等地的在地经验，提出亚洲社会面临三重未完成任务："去帝国化"（deimperialization）、"去殖民化"（decolonization）、"去冷战"（de-cold war）。以"地缘殖民历史唯物主义"（geocolonial historical materialism）为方法论框架，论证亚洲需要一种不同种类的[[Knowledge Production\|知识生产]]来克服持续的殖民知识状况
 
@@ -69,9 +67,7 @@ Chen 在台湾大学取得学士学位，后赴美国爱荷华大学攻读传播
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - Chen 的"亚洲作为方法"深刻影响了跨亚洲文化研究运动，*Inter-Asia Cultural Studies* 期刊和双年会成为亚洲批判知识分子的核心对话平台
 > - 在[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）研究中，Chen 将后殖民 GPK 分析从 Fanon 的殖民[[Knowledge Production\|知识生产]]批判推进到对当代亚洲知识状况的结构性改造方案。[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 将 Chen 定位为后殖民 GPK 谱系中 Fanon 之后的关键人物，同时指出 Chen 的分析仍以知识生产为核心，而自己的贡献在于将重心转向[[Knowledge Transfer\|知识转移]]([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.73–75]])
 

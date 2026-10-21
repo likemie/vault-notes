@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # European Standards and Guidelines
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 推动全欧 49 国建立起统一的以学习成果与形成性反馈为导向的现代学业考核质保机制。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 7)]]
 > - **实践影响** 倒逼欧洲大学彻底清理缺乏透明评分标准的传统考核，广泛推行量规（Rubrics）与形成性评语制度。
 > - **知识影响** 树立了宏观质保标准如何促进微观教学考核创新的制度典范。

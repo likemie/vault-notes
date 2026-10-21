@@ -13,7 +13,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - cultural-disembedding
   - higher-education
@@ -157,17 +157,13 @@ related_arguments:
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示精英大学第一代大学生的文化脱嵌及其与[[Cultural Disorientation\|文化迷失]]的关系。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证揭示 217 册必修教材汉儒中心叙事引发少数民族学生的国族文化脱嵌。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mind Mapping
@@ -267,8 +267,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — [[Meta-analysis|元分析]]确立思维导图以极简发散语法在[[Higher-Order Thinking Skills|高阶思维]]促学效应中位居第一（$g = 1.041$），对[[Divergent Thinking|发散思维]]促进极显著（pp. 4–11）。
 > - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — [[Three-Level Meta-Analysis|多层元分析]]确立思维训练（以思维导图、[[Brainstorming|头脑风暴]]为载体）的高效能（$g = 0.762$），并纳入随机图技术实证，揭示独立练习的内化优势。

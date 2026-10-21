@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Institutional Distrust
@@ -106,9 +106,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2008 — 概念提出** Grimen（2008）在挪威专业研究传统中提出制度性不信任，用来分析专业与制度的关系。
 > - **2026 — 纳入[[Research Utilization\|研究使用]]机制** Hagevold 等人（2026）把制度性不信任作为"信任"治理机制的组成部分，用来解释问责如何压制学校里的研究使用与专业能动性。
 
@@ -121,7 +119,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 把制度性不信任作为"信任"跨层机制的核心构件，解释问责体系如何压缩专业能动性、推动[[Research Utilization\|研究使用]]走向工具性服从。

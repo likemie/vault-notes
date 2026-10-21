@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Suyan Pan
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2006** 获香港大学教育学博士学位，师从比较教育学家贝磊（Mark Bray）。
 > - **2007–2012** 任教于香港浸会大学，重点开展关于中国大学国际化、学生跨界流动及公民身份认同的实证研究。
 > - **2013** 发表《中国大学走出去与[[Soft Power|软实力]]投射》等系列成果，开始探索中国古代天下与朝贡历史经验对现代高教外向拓展的理论启发。
@@ -119,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **共同研究同行** 卢天佑 — 共同提出[[Neo-Tributary Perspective|新朝贡分析框架]]的核心学术搭档。
 > - **思想前驱** [[John King Fairbank|费正清]] — 其经典[[Tributary System|朝贡模型]]为新朝贡视角的概念化提供了历史思想起点。
 > - **对话与修正者** Zhu, K.、Yang, R. — 运用中柬实证案例检验并更新其理论框架的当代学者。
@@ -139,9 +135,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

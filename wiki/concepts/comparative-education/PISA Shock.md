@@ -10,10 +10,10 @@ aliases:
 summary: "2001 年德语区（德国与奥地利）首次 PISA 结果公布后引发的全国性教育政策危机反应，被视为德语区教育政策制定的决定性分水岭，打破传统投入规制惯性并开启全面的产出导向、国家监测总体战略与拓扑数据基础设施重组。"
 type: concept
 domain: "comparative-education"
-related_count: 58
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - pisa
   - policy-shock
@@ -24,74 +24,29 @@ tags:
   - educational-governance
   - region/global
 related_concepts:
-  - "[[International Large-Scale Assessments]]"
-  - "[[Academic Achievement]]"
-  - "[[Socioeconomic Status]]"
   - "[[Center of Calculation]]"
-  - "[[Data Infrastructure]]"
-  - "[[Paradigm]]"
-  - "[[Discourse]]"
-  - "[[Comprehensive Education]]"
-  - "[[Total War]]"
-  - "[[Topological Spatialisation]]"
-  - "[[Social Regime]]"
-  - "[[School Inspection]]"
-  - "[[International Education]]"
-  - "[[Geopolitics]]"
-  - "[[Performance Pay]]"
-  - "[[Output-Oriented Governance]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Technical Rationality]]"
-  - "[[Working Knowledge]]"
-  - "[[Necessary and Sufficient Conditions]]"
-  - "[[Global Universities Rankings]]"
-  - "[[Policy Borrowing]]"
-  - "[[Operationalization]]"
-  - "[[Reference Society]]"
-  - "[[Nordic Model of Education]]"
-  - "[[Social Imaginary]]"
-  - "[[Humboldtian Model of Higher Education]]"
-  - "[[Bildung]]"
-  - "[[Knowledge-Based Economy]]"
-  - "[[Pride in Learning]]"
-  - "[[Teacher Professional Agency]]"
-  - "[[Methodological Statism]]"
-  - "[[Critical Thinking]]"
-  - "[[Theories of Policy Change]]"
-  - "[[Soft Power by Hard Facts]]"
-  - "[[Cognitive Authority]]"
-related_theories:
-  - "[[Legitimation Crisis]]"
-  - "[[Path Dependence]]"
-related_methods:
-  - "[[Item Response Theory]]"
+related_theories: []
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Sigrid Hartong]]"
-  - "[[Fazal Rizvi]]"
-  - "[[Bob Lingard]]"
+related_persons: []
 related_facts:
   - "[[PISA]]"
-  - "[[OECD]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Institute for Educational Quality Improvement]]"
-  - "[[Vergleichsarbeiten]]"
   - "[[Sputnik Shock 1957]]"
-  - "[[Partnership Schools Kura Hourua]]"
-  - "[[A Nation at Risk 1983]]"
 related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Li_2025_HSSC]]"
-  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # PISA Shock
@@ -279,8 +234,6 @@ updated: 2026-10-21
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018, pp. 113–122)]] | 德国（2001）、瑞典（2012）与英格兰（2012）对 PISA 结果的危机建构模式对比 | 批判政策社会学与跨国比较案例研究 | 客观数据位次变动 vs 媒体话语剪裁与政策方案对应性 | 德国与瑞典属于真实客观学业落差引发的体制危机；英格兰在成绩平稳下通过“遗漏话语”人为制造标准暴跌恐慌以推行绩效工资 | 质性比较话语分析 | 证实 PISA 震荡存在真实客观危机响应与政治精英操纵的人为建构危机两种截然不同的制度形态 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统论证经合组织如何通过 PISA 生产无可争议的硬事实，并在德国 PISA 震荡中充当认知权威，打破多层否决点并促成全方位结构性改革。

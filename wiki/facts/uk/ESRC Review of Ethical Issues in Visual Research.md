@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-09
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # ESRC Review of Ethical Issues in Visual Research
@@ -65,9 +65,7 @@ updated: 2026-10-16
 > [!timeline] 综述时间线
 > - 2008 英国经济与社会研究理事会发布[[Visual Research Methods\|视觉研究]]伦理问题综合分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

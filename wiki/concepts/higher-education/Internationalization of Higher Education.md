@@ -64,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Internationalization of Higher Education
@@ -199,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 批判性剖析国际化理性从[[Developmentalism|发展主义]]向新自由主义市场化的转变，揭示亚洲中产阶级教育消费与[[Endogenous Privatisation|内生私有化]]的制度关联。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 阐述全球高等教育从美国主导的霸权式全球化走向部分去全球化反弹与[[Multiplicity|多重性]]崛起的历史转折。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 揭示21世纪大国博弈背景下高等教育国际化经历的再国家化、再边界化与安全化困境。

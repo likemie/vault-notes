@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Saul B. Robinsohn
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1916** **柏林出生与流亡巴勒斯坦** 出生于德国柏林的一个犹太知识分子家庭。纳粹上台后，被迫于 1930 年代流亡巴勒斯坦，在耶路撒冷希伯来大学攻读历史学、社会学与教育学，后投身历史教学与学术研究。
 > - **1958–1963** **执掌汉堡[[UNESCO|教科文组织]]教育研究所** 战后重返欧洲，出任联合国教科文组织汉堡教育研究所（UNESCO Institute for Education, UIE）所长，利用多边国际平台推动跨国教育研究与战后和解。
 > - **1961** **联合发起成立[[Comparative Education Society in Europe|欧洲比较教育学会]]** 与英国比较教育学者约瑟夫·劳威斯密切合作，在伦敦组织创立欧洲比较教育学会（[[Comparative Education Society in Europe|CESE]]），力主确立超越冷战阵营与民族国家界限的“跨国个人会员制”与学术独立原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]

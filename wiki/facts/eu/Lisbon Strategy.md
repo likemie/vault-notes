@@ -11,7 +11,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,37 +24,36 @@ tags:
   - theme/governance
 related_concepts:
   - "[[Knowledge-Based Economy]]"
-  - "[[Competitiveness]]"
   - "[[Open Method of Coordination]]"
-  - "[[European Education Space]]"
-  - "[[Performance Indicators]]"
+  - "[[Competitiveness]]"
   - "[[Governing by Numbers]]"
   - "[[Subsidiarity Principle]]"
+  - "[[European Education Space]]"
+  - "[[Performance Indicators]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
 related_theories: []
-related_methods:
-  - "[[Systematic Review]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[EU]]"
   - "[[OECD]]"
-  - "[[PISA]]"
-  - "[[Europe 2020 Strategy]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[PISA]]"
   - "[[UNESCO]]"
+  - "[[Europe 2020 Strategy]]"
   - "[[Australian Council for Educational Research]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Li_2025_HSSC]]"
-  - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Caraca_2009_TFSC]]"
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Lisbon Strategy
@@ -111,7 +110,7 @@ updated: 2026-10-21
 >
 > | 维度 | 超国家软性治理阵营 | 成员国主权维稳阵营 |
 > |:---|:---|:---|
-> | 核心行动者 | [[EU|欧盟委员会]]、[[OECD|经合组织]]教育局 | 成员国教育部、Eurydice 传统专家 |
+> | 核心行动者 | [[EU\|欧盟委员会]]、[[OECD\|经合组织]]教育局 | 成员国教育部、Eurydice 传统专家 |
 > | 治理基础与正当性 | 循证政策学习、跨国可比数据、经济竞争力 | 辅助性原则、国家教育主权、文化多样性保障 |
 > | 核心诉求 | 建立通用指标基准、量化监测、推动欧洲体系趋同 | 保障各国自主办学、拒绝排位机制、避免单一指标治教 |
 > | 运作策略 | 开放协调法、全额或大额资助跨国测评、同行审视 | 法律抗辩、选择性外在化利用指标、抵制强加统一教学大纲 |
@@ -163,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

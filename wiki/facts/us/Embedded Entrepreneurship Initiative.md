@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Embedded Entrepreneurship Initiative
@@ -139,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -154,7 +152,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第四目标中，高度肯定 [[DARPA]] 嵌入式创业者计划（EEI）在联合 In-Q-Tel 注入商业领袖与加速微电子成果转化方面的制度效能（pp. 45–46）。

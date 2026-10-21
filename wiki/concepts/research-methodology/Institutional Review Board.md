@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Institutional Review Board
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本地机构审查委员会（Local IRB） | 中心/商业审查委员会（Central IRB） | 专业学术协会伦理守则 |
 > |---|---|---|---|
 > | **组织设立主体** | 单一大学、医院或[[Academic Medical Center\|学术医疗中心]]内部设立 | 独立商业伦理服务机构或国家级统一伦理协作网络 | 学术同行共同体（如 [[American Educational Research Association\|AERA]]、[[British Educational Research Association\|BERA]]、APA） |
@@ -215,9 +213,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, 第 4 章)]] — 详尽介绍 IRB 的法律渊源、五类风险评估框架、弱势群体界定以及[[Informed Consent|知情同意书]]标准编制流程。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al. (2011, Ch. 5, pp. 116–129)]] — 梳理多层级伦理监管体系与专业协会守则，深度评述 Hammersley 等学者对伦理委员会官僚化与[[Situated Ethics|情境伦理]]失灵的批判。
 > - [[Argument_Bang_2025_ClinicalTrials|Bang (2025, pp. 206–212)]] — 剖析产业方申办[[Clinical Trial|临床试验]]中本地与中心 IRB 的组织形式、审查时效差异、运营成本及 [[Clinical Trials Transformation Initiative|CTTI]] 单中心依赖协议改革。

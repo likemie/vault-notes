@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # First and Second Order Emotion
 
@@ -79,7 +79,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen, Manion & Morrison (2011, Ch. 26)]] — 在保护入戏与保护入情感策略中运用这一区分，说明[[Role-playing\|角色扮演]]应保护参与者进入第二级情感以延伸学习机会。

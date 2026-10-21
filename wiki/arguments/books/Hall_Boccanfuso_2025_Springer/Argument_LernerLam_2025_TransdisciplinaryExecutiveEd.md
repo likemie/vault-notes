@@ -39,7 +39,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-30
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
@@ -66,18 +66,14 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 实践者指南（practitioner guide）。课程设计经验来自哥伦比亚大学气候学院（Columbia Climate School）多期[[Executive Education\|高管教育]]项目的直接运营，以及在私营部门、公共部门和跨国企业中建立的合作伙伴关系。核心案例是一项为一家跨行业企业定制的五天培训项目，约二十余名教职人员共同参与授课(pp.171-173)。
 >
 > 材料属于基于经验的原则提炼与案例报告，而非系统性实证研究。哥伦比亚大学的独特条件制约了研究发现的推广范围。该大学拥有世界一流的科学研究力量（拉蒙特-多尔蒂地球观测站）、一所专门组建的气候学院，以及位于纽约大都会区的产业网络，这些条件在其他大学可能难以复制。
 
 ---
 
-## 论证结构
-
-> [!abstract|notitle]
+> [!abstract] 论证结构
 > **整体逻辑链** 传统模式局限 → 跨学科[[Executive Education\|高管教育]]需要创新的四个维度 → 气候与可持续发展案例展示课程设计逻辑与学习目标体系 → 为企业定制的五天课程实例说明设计与实践的衔接 → 五大挑战与五项结论。
 
 ---
@@ -228,9 +224,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - 分析基于哥伦比亚大学气候学院的单一案例，该大学拥有世界一流的科学研究力量和纽约大都会区的产业网络，这些条件在其他大学可能难以复制(pp.161-162, 167-168)
 > - 课程设计者同时也是项目运营者和案例报告者，立场上存在利益相关偏误(p.157)
 > - 课程评估尚在初期阶段，缺乏系统的长期跟踪数据(pp.171-172)

@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Doxa
@@ -68,9 +68,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 **不言自明性**。Doxa 的首要特征是其被视为理所当然——行动者不意识到它是特定社会建构的产物，而是将其体验为"自然的"或"客观的"秩序。这种信念如此根深蒂固，以至于无需辩护、也无人追问其来源。
 
@@ -84,9 +82,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 
 **vs Symbolic Violence**。符号暴力是支配关系通过符号被合法化的**过程**，doxa 则是这一过程的**结果**——即已经被自然化了的那套常识本身。符号暴力制造 doxa，doxa 遮蔽符号暴力的任意性。两者是过程与结果的关系。
 
@@ -103,9 +99,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 ---
 
-## 案例
-
-> [!example|notitle]
+> [!example] 案例
 
 ### 学校领导力中的 doxa
 
@@ -134,9 +128,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > Doxa 经历了从古希腊[[Epistemology\|认识论]]范畴到 Bourdieu 社会分析工具的漫长演变。
 
 **古希腊哲学（[[Plato|柏拉图]]／[[Aristotle|亚里士多德]]）**。*doxa* 原指"意见"或"信念"，与 *epistēmē*（知识）相对——是介于无知与真知之间的认知状态。柏拉图视 doxa 为不可靠的感知世界产物，亚里士多德则部分恢复其认识论地位。在这一阶段，doxa 是**个体认知**层面的概念。
@@ -147,9 +139,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **概念边界模糊** doxa 与意识形态（ideology）、常识（common sense）、正统（orthodoxy）等概念之间的区分在实践中不易[[Operationalization\|操作化]]——批评者认为 Bourdieu 没有提供足够清晰的标准来判定什么算是 doxa 什么不算
 > - **经验研究的困难** 如何经验地识别和测量 doxa 是主要挑战——研究者自身也嵌入了特定[[Champ\|场域]]，如何区分研究者的分析范畴与被研究者体验为自然的 doxa？([[Argument_Eacott_2015_EPT\|Eacott, 2015]])
 > - **变革可能性被低估** 如果 doxa 如此不言自明且被结构性地再生产，行动者如何可能挑战它？批评者指出 Bourdieu 对 doxa 的变革路径阐述不足

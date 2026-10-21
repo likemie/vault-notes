@@ -62,7 +62,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Justificatory Standards
@@ -171,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990–1997 — 宏观多维信念归并** Schommer (1990) 与 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 将“知识的证成（Justification of knowledge）”列为[[Epistemological Beliefs\|认识论信念]]的核心维度之一，但测量多停留在脱域的抽象[[Questionnaire\|问卷]]题项。
 > - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]与细粒度转向** Chinn 等学者解构了粗放的证成信念，提出实证、非实证与证词三大类细粒度确证标准，确立了其微观黑盒地位。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2016 — 社会情境转向与多层整合** Sandoval 等学者强调确证标准的[[Domain Specificity\|学科特异性]]、情境动态切换性以及在群体互动流中的社会协商本质。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
@@ -215,9 +213,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 提出在微观细粒度上测量确证标准，打破粗放质疑即高阶的假象，奠定合理校准信任理论。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将确证标准界定为多层系统中的分布式社会协商实践，揭示职业标准向公民生活迁移的断层危机。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个[[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]，证实聚焦确证标准的显性教学对[[Academic Achievement\|学业成就]]有中等偏上的因果效应（$d = 0.509$），并揭示测验对齐是[[Effect Size\|效应量]]的核心调节[[Variable\|变量]]。

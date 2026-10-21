@@ -66,7 +66,7 @@ related_facts:
   - "[[Early Steps]]"
 status: completed
 created: 2026-10-12
-updated: 2026-10-20
+updated: 2026-10-22
 sources:
   - "[[sources/Kickert_1995_Governance/Kickert_1995_Governance|Kickert_1995_Governance]]"
 ---
@@ -301,9 +301,7 @@ sources:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 1. 本文立足于荷兰单一国家的政策实践考察，作者明确提醒不可轻易将荷兰经验简单机械地推广至政治行政传统截然不同的其他国家（如中央集权色彩浓厚的法国或高度联邦分权的美国）。（pp. 155–156）
 > 2. [[Steering at a Distance|远距离操纵]]改革在提出初期更多是一套宏观制度设计与立法理念，其实际制度成效受制于官僚行政文化转变的漫长周期，高校在统包经费下的长期办学质量与自律机制仍有待更长跨期的经验检验。（pp. 139, 156）
 > 3. 高等教育在社会与劳动力市场中的开放定位，依然受到荷兰历史悠久的[[Pillarization|柱状化]]咨询壁垒（铁环）的结构性约束，新[[Paradigm|范式]]尚未完全打破教育系统的自我封闭性。（p. 151）

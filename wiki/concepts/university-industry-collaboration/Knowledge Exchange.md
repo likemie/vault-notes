@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Knowledge Exchange
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 知识交流（Knowledge Exchange） | 技术转移（[[Technology Transfer\|Technology Transfer]]） | [[University-Industry Collaboration\|产学合作]]研发（Joint R&D） | [[Tacit Knowledge\|隐性知识]]外溢（Tacit Knowledge Spillovers） |
 > |---|---|---|---|---|
 > | **流动方向** | 双向循环、网络化交互流动 | 单向线性（大学研发 → 企业商业化） | 双向任务协同与联合攻关 | 非意图性环境渗透与非正式扩散 |
@@ -166,9 +164,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980 年代以前 — 线性[[Technology Transfer|技术转移]]主导阶段** 以《[[Bayh-Dole Act of 1980|拜杜法案]]》（Bayh-Dole Act）为代表，学界与政策界将大学-产业互动窄化为专利申请、技术许可与版权出售。
 > - **1990–2000 年代 — 英国与欧洲的[[Third Mission|第三使命]]与 KE [[Paradigm|范式]]确立** 英国与欧洲高等教育界逐步认识到专利仅占产学互动的一小部分，正式确立“知识交流”（Knowledge Exchange）概念，覆盖合同研究、人员流动与咨询培训等广谱机制。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 42–44)]]
 > - **2010 年代 — 体系化能力建设与跨界生态融入** 知识交流框架拓展至[[Innovation Park|科技园区]]建设、创客空间与[[Professors of Practice|实践教授]]制度，被纳入国家[[Systems of Innovation|创新系统]]（Systems of Innovation）的核心支柱。
@@ -194,9 +190,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

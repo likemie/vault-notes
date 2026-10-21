@@ -34,21 +34,17 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国教育学家（Pedagogue），以对 [[Bildung]]（品格陶成）与 Erziehung（教育）的区分以及修正版教学三角模型著称。其工作根植于德国[[Geisteswissenschaften|精神科学]]教育学传统。
 
-## 生平与职涯
-
-> [!note-|notitle] 生平与职涯
+> [!note-] 生平与职涯
 > （待补充）
 
-## 主要著作
-
-> [!abstract|notitle] 主要著作
+> [!abstract] 主要著作
 > - Benner, D. (2018). [[Allgemeine Pädagogik]] und Sonderpädagogik. Überlegungen zum Verhältnis von Inklusion und Exklusion aus der Sicht Dreier Kausalitäten in Erziehungs- und Bildungsprozessen. *Człowiek – Niepełnosprawność – Społeczeństwo*, 4(42). — 提出修正版教学三角模型
 > - Benner, D. (2017). [[John Dewey]], a Modern Thinker: On Education (as [[Bildung]] and Erziehung) and Democracy (as a Political System and a Mode of Associated Living). In L. Waks & A. English (eds.), *John Dewey's Democracy and Education: A Centennial Handbook*. Cambridge University Press. — 阐述 Bildung and Erziehung 的区分
 
@@ -72,8 +68,6 @@ updated: 2026-10-21
 >
 > > 例：在传统模型中，教师按统一教案向全班讲授，考试衡量学生记住了多少。在修正模型中，教师设计学习任务让每个学生以自身起点积极建构理解，同时教师的角色是引导、反馈和创造学习条件——两种活动在课程目标的交汇点产生真正的教育。
 
-## 主要贡献
-
-> [!success|notitle] 主要贡献
+> [!success] 主要贡献
 > - [[Bildung]] — Benner 继承并发展了德国 Bildung 传统，将其与 Dewey 的[[Democratic Education\|民主教育]]思想进行对话
 > - 修正版教学三角 — 为理解[[Evidence-Based Education\|证据本位教育]]改革提供了理论框架，[[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] 以此解释新西兰和澳大利亚从传统教育模型向证据本位模型的转变（详见 [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]]）

@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,13 +31,8 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Performance Indicators]]"
   - "[[Paradigm]]"
-  - "[[Knowledge Production]]"
   - "[[Policy Brokerage]]"
-  - "[[Discourse]]"
-  - "[[International Education]]"
-  - "[[Science and Technology Studies]]"
   - "[[Global Education Governing Complex]]"
-  - "[[Test Production]]"
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods: []
@@ -53,12 +48,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Education at a Glance
@@ -167,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

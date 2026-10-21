@@ -32,7 +32,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Computerized Adaptive Testing
@@ -85,7 +85,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.9 节介绍 CAT 的工作原理、七项优势、五项信效度挑战以及 Flaugher（1990）的技术前提

@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Eliezer Yudkowsky
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1979** 出生于美国伊利诺伊州芝加哥。
 > - **2000** 联合创立奇点人工智能研究所（Singularity Institute for [[Generative Artificial Intelligence|Artificial Intelligence]]，后更名为机器智能研究院 MIRI），担任资深研究员。
 > - **2006–2009** 创立知名理性主义社区 Overcoming Bias 与 LessWrong，撰写数百万字关于贝叶斯理性、认知偏差与决策论的经典论述。
@@ -119,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术论敌** [[Alexander Karp]] & [[Nicholas Zamiska]] — 批判尤德考夫斯基的极端停滞主义，主张通过全速推进防务 AI 维系地缘均势。
 > - **核心合作机构** 机器智能研究院（MIRI） — 长期学术研究大本营。
 > - **关键历史事件** [[Pause Giant AI Experiments Open Letter]] — 2023 年公开信的核心辩论参与者与更激进立场的提出者。
@@ -140,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

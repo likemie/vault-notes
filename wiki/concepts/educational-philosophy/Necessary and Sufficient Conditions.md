@@ -9,7 +9,7 @@ aliases:
 summary: "因果分析中区分因果条件类型的逻辑工具：必要条件是不可缺少的前提，充分条件是单独足以产生效果的条件；在复杂教育情境中多以复合充分条件（INUS 条件）组合显现（Mackie, 1993; Cohen et al., 2011），全员大规模测评构成测试问责制落地的制度必要条件（Verger et al., 2019）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,19 +17,15 @@ tags:
   - subject/research-methodology
   - topic/causation
 related_concepts:
-  - "[[Compound Causes]]"
-  - "[[Interaction Effect]]"
-  - "[[Causality]]"
-  - "[[Variable]]"
-  - "[[Test-Based Accountability]]"
   - "[[National Large-Scale Assessments]]"
+  - "[[Test-Based Accountability]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Necessary and Sufficient Conditions
@@ -140,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **古典形式逻辑奠基** 亚里士多德在三段论与假言命题中初步奠定“若 P 则 Q”与“非 P 则非 Q”的真值对应关系。
 > - **1843 — 密尔五法与经验归纳因果确立** 约翰·斯图尔特·密尔（John Stuart Mill）在《逻辑学体系》中提出契合法（求同法）与差异法（求异法），系统将必要条件与充分条件的识别操作化为经验归纳程序。
 > - **1965/1974 — 麦基提出 INUS 复合条件理论** 约翰·麦基（J. L. Mackie）提出 INUS 条件概念（Insufficient but Necessary part of an Unnecessary but Sufficient condition），解释复杂情境中多重因果条件的组合机制。
@@ -187,8 +181,6 @@ updated: 2026-10-21
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011, pp. 56–59, 65)]] | 火柴燃烧与老年人摔倒致伤因果析因案例 | 因果析因逻辑与案例剖析 | 触发事件（Trigger）与背景必要条件构型 | 火柴点燃取决于粗糙度、干燥度、划动速度与氧气等条件组合；滑倒致伤取决于冰面触发与骨质脆弱度等深层条件组合 | 逻辑推理与情境归纳 | 证实单一致伤事件源于深层必要条件构型与末端触发因素的结合 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen, Manion & Morrison (2011, Ch. 4)]] — 系统阐明教育研究中的因果逻辑，厘清必要条件、充分条件、复合原因与触发因素的分析框架。

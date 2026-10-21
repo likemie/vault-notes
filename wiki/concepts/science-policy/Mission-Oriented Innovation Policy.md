@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mission-Oriented Innovation Policy
@@ -262,9 +262,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪末至 20 世纪初 — 第一代后发追赶使命（骆驼形态）** 德国[[System Althoff|阿尔托夫体制]]与[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）依托韦伯式功绩官僚建立[[Research Universities|研究型大学]]与工业现代化底座。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
 > - **1940s–1960s — 第二代冷战[[Big Science|大科学]]使命（狮子形态）** 美国[[Manhattan Project|曼哈顿工程]]、[[Apollo Program|阿波罗计划]]与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
@@ -305,9 +303,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统梳理使命导向政策的百年三代演进历程，提出融合[[Joseph Schumpeter|熊彼特]]动态能力与韦伯国家能力的三层动态能力构架，确立从“支持与衡量”向[[Lead-and-Learn Paradigm|引领与学习范式]]的转型路径。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠基性理论文献，系统论证使命导向创新政策从市场修补转向[[Market Shaping and Creating|市场塑造]]与共创，提出 ROAR 治理框架与五大遴选标准。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出基于问题–解决方案空间的使命导向创新政策[[Analytic Framework|分析框架]]，系统阐述其内涵、棘手维度与收敛路径。

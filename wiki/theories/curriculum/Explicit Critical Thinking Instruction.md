@@ -68,7 +68,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Explicit Critical Thinking Instruction
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -153,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 不同教学路径（显性 vs 隐性）对[[Critical Thinking\|批判性思维]]技能和倾向的相对效果；教师培训在批判性思维教学中的调节作用；批判性思维教育不平等提供的制度原因。
 > - **谨慎使用** 在课程文化差异显著的教育体系之间进行比较推广时（如西方 vs 东亚课堂文化）；在缺乏有效批判性思维测量工具的研究情境中；在无法排除选课效应和学校间[[Heterogeneity\|异质性]]的观察性研究中。
 > - **不适合解释** 批判性思维技能如何具体地在个体认知层面发展（需要认知发展理论）；特定学科内部的论证标准和推理模式（需要领域[[Epistemology\|认识论]]）；批判性思维的社会文化和政治维度（需要[[Critical Pedagogy\|批判教育学]]视角）。
@@ -211,8 +207,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 [[IB Diploma Programme\|IB DP]] 的 ToK 课程为案例，通过三阶段收敛式[[Mixed Methods Research\|混合方法研究]]检验显性[[Critical Thinking\|批判性思维]]教学在澳大利亚学校的效果，比较 DP 与非 DP 学生的批判性思维技能、倾向和大学学术表现。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实验与准[[Experimental Research\|实验研究]]，系统检验 Ennis 课程模式（混合模式 $g+=0.38$ 表现最高）及[[Authentic Instruction\|真实性教学]]、对话与[[Mentorship\|导师制]]三维复合策略（$g+=0.57$），为显性教学与课程整合提供了大规模[[Meta-analysis\|元分析]]证据。

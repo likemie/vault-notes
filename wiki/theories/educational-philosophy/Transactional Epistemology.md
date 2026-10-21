@@ -44,12 +44,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 核心主张
-
-> [!info|notitle] 核心主张
+> [!info] 核心主张
 > 交易[[Epistemology\|认识论]]（Transactional Epistemology）是 [[John Dewey]] 提出的知识观，主旨是：知识不是对外部静态现实的"准确再现"（旁观者知识观），而是在我们与世界的**互动与介入**中产生的、关于**行动与后果关系**的理解。
 >
 > > "If we take experimentation seriously in our understanding of what knowledge is and how we can get it, we have to give up the spectator view of knowledge... and rather have to concede that the knowledge we can gain through experimentation is knowledge about relationships and, more specifically, about relationships between (our) actions and (their) consequences." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 494]])
@@ -79,18 +77,14 @@ updated: 2026-10-21
 >
 > > "Knowledge about what has worked in the past is, of course, tremendously important... it can provide us with hypotheses for [[Problem Solving]] in the present. It can make, in Dewey's words, our action and problem solving more intelligent. But what evidence generated through experimentation cannot do... is provide us with rules for action and even less with dictates for action." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 495]])
 
-## 发展脉络
-
-> [!note-|notitle] 发展脉络
+> [!note-] 发展脉络
 > - **1929** — Dewey 在 *The Quest for Certainty* 中批判西方哲学的"确定性追求"，提出"旁观者知识观"概念
 > - **1983** — Bernstein 在 *Beyond [[Objectivism]] and Relativism* 中重新阐释 Dewey 的[[Epistemology\|认识论]]，挑战客观主义/相对主义的二元对立
 > - **2003** — Biesta & Burbules 在 *pragmatism and Educational Research* 中系统阐述交易认识论对教育研究的意义
 > - **2007** — Biesta 在 "Why 'What Works' Won't Work" 中首次将交易认识论应用于对[[Evidence-Based Education\|证据本位教育]]的批判
 > - **2010** — 本文将交易认识论确立为三重[[Deficit Framing\|缺陷框架]]的认识论支柱
 
-## 研究范式
-
-> [!info|notitle] 研究[[Paradigm\|范式]]
+> [!info] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Pragmatic Paradigm\|实用主义]] —— 超越现实主义/[[Constructivist Paradigm\|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
 > - **常用方法**[[Philosophical Analysis in Education\|哲学分析]]、概念分析
 
@@ -116,15 +110,11 @@ updated: 2026-10-21
 >
 > **目前状态**Cartwright and Hardie (2012) 在 *[[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Practical Guide to Doing It Better* 中提供了交易认识论视角下如何进行政策评估的操作性建议，部分回应了这一批评。
 
-## 相关研究
-
-> [!example|notitle] 相关研究
+> [!example] 相关研究
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 将交易[[Epistemology\|认识论]]应用于批判[[Evidence-Based Education\|证据本位教育]]的[[Theory of Knowledge\|知识论]]前提
 > - Biesta and Burbules (2003) — 全面阐述交易认识论对教育研究的意义
 
-## 应用领域
-
-> [!success|notitle] 应用领域
+> [!success] 应用领域
 > - [[Evidence-Based Education]] — 交易[[Epistemology\|认识论]]是挑战证据本位教育的主要哲学武器之一
 > - [[Value-Based Education]] — 交易认识论证明证据只能提供可能性，因此价值判断变得不可或缺
 

@@ -6,10 +6,10 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、客观位置关系网络和资本分布结构的社会空间，行动者在此依据内隐规则争夺特定资源与象征资本；亦被拓展用于分析超国家机构通过数据基础设施与可比指标建构的跨国政策场域。"
 type: concept
 domain: "sociology-of-education"
-related_count: 31
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field-theory
   - bourdieu
@@ -30,25 +30,23 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Visible Learning]]"
   - "[[Phronesis]]"
+  - "[[European Education Space]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
+  - "[[Data Infrastructure]]"
   - "[[Determinism]]"
   - "[[Operationalization]]"
   - "[[Positivism]]"
   - "[[Normal School]]"
-  - "[[European Education Space]]"
-  - "[[Data Infrastructure]]"
 related_theories:
   - "[[Rational Action Theory]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
-  - "[[António Nóvoa]]"
 related_facts:
   - "[[Recommendation-Based Graduate Admission System]]"
-  - "[[EU]]"
-  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Champ
@@ -167,7 +165,7 @@ updated: 2026-10-21
 ### 命题总览
 
 > [!contrast-table] 围绕场域形成的理论命题归纳
-> | 命题类型 | 核心指向 | 理论机制与关键[[Variable|变量]] | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 理论机制与关键[[Variable\|变量]] | 代表学者与文献 |
 > |---|---|---|---|
 > | **自主性折射命题** | 场域相对自主性依赖对外部经济政治逻辑的折射能力 | 外部指标渗透、管理主义语言、自主评价权丧失 | [[Argument_Eacott_2011_JEAH\|Eacott (2011)]]; Blackmore (2010) |
 > | **习性博弈分化命题** | 行动者竞争策略与轨迹取决于先赋习性与场域资本的匹配度 | 文化资本差异、目标掌控 vs 直觉依赖、筹码兑换体系 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; Bourdieu (1990) |
@@ -176,9 +174,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s–1960s — 阿尔及利亚与卡比利亚早期田野** [[Pierre Bourdieu|布迪厄]]在卡比利亚[[Ethnography|民族志]]田野中首次观察到荣誉竞争、婚姻契约等在不同社会空间中遵循各自特定的实践规则，为场域的相对自主性奠定了早期经验萌芽。
 > - **1970s–1980s — 韦伯生活秩序吸收与关系性方法论确立** 布迪厄批判吸收韦伯对现代社会宗教、政治、经济等自主“生活秩序”（Lebensordnungen）的分析，在《区分》（*La Distinction*, 1979）中系统确立了以资本总量与资本结构为坐标的社会空间与场域分析[[Paradigm|范式]]。
 > - **1987 — 《言说之道》（*Choses dites*）公式化成熟** 布迪厄明确宣布结构主义建构论（structuralisme constructiviste）立场，提出实践理论的核心公式：$[(\text{习性})(\text{资本})] + \text{场域} = \text{实践}$，标志着场域理论的完全成型。
@@ -221,7 +217,7 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, pp. 29–38)]] | 中国北方某顶尖研究型大学本科毕业生群体 | 纵向深度访谈与质性追踪研究 | 阶层文化资本、毕业出路规划模式与场域规则博弈策略 | 优势阶层学生高度集聚于“目标掌控模式”（精准兑换保研绩点、出国语言与科研实习筹码）；弱势阶层学生陷入“直觉依赖模式”（信息匮乏、摸索试错） | 质性深度饱和 | 呈现精英大学场域内部文化资本兑换隐性规则加剧出路分层机制 |
 > | [[Argument_Eacott_2011_JEAH\|Eacott (2011, pp. 48–49)]] | 澳大利亚基础教育学校领导与行政管理体系 | 制度社会学文本考证与话语分析 | 外部管理主义指标渗透度与教育场域相对自主性折射率 | 证实新公共管理（NPM）与市场竞争机制通过标准化测试与 MySchool 排位直接重塑办学评价权，导致专业自主权退化 | 质性政策话语追踪 | 揭示教育行政场域在外部政治经济逻辑干预下的自主性侵蚀机制 |
@@ -229,8 +225,6 @@ updated: 2026-10-21
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25, 32–35)]] | 欧盟委员会与经合组织在欧洲教育空间建构中的互动博弈 | 跨国比较案例研究与高层决策访谈 | 跨国流动、数据基础设施共享与超国家政策场域生成 | 证实两大超国家实体通过 80% 成本资助、50%–60% 数据共享及 INES 委员会席位，在缺乏宪制立法权下成功编织出具备通约性与规制力的欧洲教育政策场域 | 质性深度饱和分析 | 证实场域概念可有效解释超国家软治理空间与跨机构象征资本博弈 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 将中国一流大学系统概念化为[[Pierre Bourdieu|布迪厄]]式的竞技场域，深度追踪优势阶层与弱势阶层学生在隐性规则博弈与出路分化中的文化机制。

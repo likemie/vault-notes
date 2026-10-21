@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Seventh Annual Report of the Massachusetts Board of Education
@@ -152,9 +152,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

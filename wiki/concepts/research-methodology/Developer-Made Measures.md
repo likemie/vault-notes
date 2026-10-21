@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Developer-Made Measures
@@ -181,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖论著，深刻剖析开发者自编测验导致[[Effect Size\|效应量]]虚高与[[Replication in Education Research\|复现危机]]的内在机制，阐述 [[Evidence for ESSA]]、[[What Works Clearinghouse\|WWC]] 及 [[Education Endowment Foundation\|EEF]] 强制排除自编测验的政策质控意义。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]干预[[Meta-analysis\|元分析]]，检验测量工具类型的[[Interaction Effect\|调节效应]]（研究者自编测验 $d = 0.651$ vs 教师常规测验 $d = 0.012, Q_b = 6.446$），从深层[[Construct\|构念]]敏感度与常规测验钝化角度提供了超越纯偏倚论的解释视角。
 > - [[Evidence Standards]] — 法定因果证据分级标准主条目，阐述结局测量独立性在判定 [[Every Student Succeeds Act\|ESSA]] 强/中证据中的红线地位。

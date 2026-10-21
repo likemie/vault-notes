@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Joint University Microelectronics Program 2.0
@@ -183,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -207,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, p. 23)]] — 详细剖析了由 [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 共同推动的 JUMP 2.0 计划，揭示以宾州州立大学牵头的 14 所高校[[Heterogeneous Integration|异构集成]]中心（CHIMES）如何重塑跨区域网络化产学研协同生态。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出将 JUMP 2.0 跨校中心与 [[National Science and Technology Council|NSTC]]、[[National Advanced Packaging Manufacturing Program|NAPMP]]、[[Microelectronics Commons]] 及 [[Manufacturing USA]] 深度统筹（Goal 4.1），构建面向 2030 年代的全链条公私合作创新网络。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 探讨 SRC 与 DARPA 合作历程中从 [[Focus Center Research Program|FCRP]]、STARnet 到 JUMP 2.0 的产学前竞争联合体演进逻辑与 [[Academic Engagement Team|AET]] 决策支柱。

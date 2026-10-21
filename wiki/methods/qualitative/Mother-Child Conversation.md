@@ -52,14 +52,12 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Mother-Child Conversation
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 母子对话法（MCC）是一种通过采集一段**模拟的（simulated）** 母子对话样本来研究文化信念社会化过程的[[Qualitative Research\|质性研究]]方法。其核心逻辑是：社会化虽然是持续流动的过程（如同河流），但研究者可以从中"舀一瓢水"——采集一段合理时长的对话样本——来分析其中溶解的文化成分([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 该方法最初由儿童记忆发展研究者用于研究母子对话对儿童自传体记忆和情感发展的影响([[Argument_Li_2012_Cambridge|Li, 2012]])。Li 与台湾中央研究院的 Heidi Fung 合作，将其应用于学习信念的跨文化社会化研究。
@@ -93,9 +91,7 @@ updated: 2026-10-17
 
 ## 研究程序
 
-### 样本与对话采集
-
-> [!example|notitle]
+> [!example] 样本与对话采集
 > Li and Heidi Fung 的 MCC 研究设计如下([[Argument_Li_2012_Cambridge\|Li, 2012]])：
 
 - **样本** 200 组母子（100 组欧裔美国 EA 中产家庭 + 100 组台湾 TW 中产家庭），[[Socioeconomic Status|社会经济背景]]可比
@@ -137,9 +133,7 @@ MCC 方法的核心特征在于**三种分析的阶梯式设计**，从"轮廓"�
 
 ---
 
-## 序列分析：定位对话的"引力中心"
-
-> [!info|notitle]
+> [!info] 序列分析：定位对话的"引力中心"
 > 序列分析追踪每一组母子的对话**流向** 母亲说了话题 X → 儿童接什么？→ 母亲再接什么？→ 儿童再接什么？总共四个回合（mother → child → mother → child），全部 200 组对话的流向被汇总分析([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 ### 事件编码：从 49 组代码到四对变量
@@ -291,9 +285,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 
 ---
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > MCC 方法适合以下[[Research Question\|研究问题]]：
 > - 文化学习信念如何在家庭日常对话中从上一代传递给下一代
 > - 不同文化中家长如何通过语言构建儿童对学习的认知和情感
@@ -321,17 +313,13 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 
 ---
 
-## 相关理论
-
-> [!tip|notitle]
+> [!tip] 相关理论
 > - [[Appraisal Theory]] — [[Discourse Analysis\|话语分析]]中[[Parental Cognitive and Affective Socialization\|情感社会化]]的理论基础：情感反应依赖于对事件的认知评估，而评估标准来自文化定义的意义和重要性
 > - Vygotsky [[Scaffolding\|认知支架]]理论 — 话语分析中认知社会化的理论基础：儿童通过社交世界的持续引导获得文化性认知技能
 
 ---
 
-## 使用此方法的研究
-
-> [!example|notitle]
+> [!example] 使用此方法的研究
 > - [[Argument_Li_2012_Cambridge|Li (2012)]]（第 7 章）— 使用母子对话法比较欧裔美国与台湾家庭的[[Socratic Tutoring Style|苏格拉底式辅导]]与[[Confucian Tutoring Style|儒家式辅导]]方式
 
 ---

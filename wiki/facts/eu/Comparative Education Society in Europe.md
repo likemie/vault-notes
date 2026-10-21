@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Comparative Education Society in Europe
@@ -156,9 +156,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

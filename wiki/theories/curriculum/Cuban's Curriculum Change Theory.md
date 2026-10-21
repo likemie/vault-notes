@@ -44,12 +44,10 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 核心主张
-
-> [!info|notitle] 核心主张
+> [!info] 核心主张
 > 所有意图课程（intended curriculum）的变革从根本上说是政治行为。课程政策涉及权力、控制、联盟、协商和妥协，这些力量在分权化的学校治理体系内外运作。
 >
 > > "Issues of curricular policy involve power, control, coalitions, bargaining and compromise among and between groups operating inside and outside a decentralised system of governing schools." (Cuban, 1992, p. 224, cited in [[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 480]])
@@ -83,9 +81,7 @@ updated: 2026-10-21
 > [!abstract] 额外因素：影响力团体与关键个人
 > Cuban 还识别了出版商、慈善家等影响力团体（如 [[John Dewey]]、Edward L. Thorndike、Ralph W. Tyler）在课程变革中的作用。但在 LS 案例中，**非政治行动者的影响力**在创立期有限、在废除期完全不存在。
 
-## 发展脉络
-
-> [!note-|notitle] 发展脉络
+> [!note-] 发展脉络
 > - **1992** — Cuban 在 [[American Educational Research Association\|AERA]] 课程研究手册中提出此框架，基于对美国课程变革的历史分析
 > - **2007** — Kan, Vickers & Morris 将此框架应用于香港中国历史科的课程变革，发现教师专业团体（科目协会）在美国和香港均扮演关键角色
 > - **2025** — Yan & Morris 将 Cuban 框架应用于 LS 案例，发现其部分因素在阐释力上存在显著变化——特别是协商与妥协在香港的后 2019 语境中完全消失
@@ -103,9 +99,7 @@ updated: 2026-10-21
 
 [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] 的核心理论贡献在于指出：Cuban 框架中各因素的权重大小和运作方式因政治语境的剧变而改变。当国家安全成为压倒性因素时，其他因素（协商、利益团体、专业团体）可以被直接压制。
 
-## 研究范式
-
-> [!info|notitle] 研究[[Paradigm\|范式]]
+> [!info] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Critical Theory\|批判理论]] —— 课程不是中立的、以知识为基础的选择，而是权力关系的产物
 > - **常用方法**[[Historical Document Analysis of Curriculum]]、[[Document]] Analysis
 
@@ -132,15 +126,11 @@ updated: 2026-10-21
 >
 > **目前状态**[[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] 建议在应用 Cuban 框架时引入**因素权重分析**维度——不仅识别存在哪些因素，更考察它们的相对权重和运作方式如何随政治语境变化。这一补充尚未被系统整合进 Cuban 框架。
 
-## 相关研究
-
-> [!example|notitle] 相关研究
+> [!example] 相关研究
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 将 Cuban 框架应用于 LS 案例，揭示框架的条件性和因素权重的动态变化
 > - Kan, Vickers and Morris (2007) — 使用 Cuban 框架分析香港中国历史科的课程政治
 
-## 应用领域
-
-> [!success|notitle] 应用领域
+> [!success] 应用领域
 > - [[Liberal Studies]] — Cuban 框架是分析该科目兴衰的核心理论工具
 > - 课程政治研究 —— 任何涉及权力、协商 and 利益团体的课程变革分析
 

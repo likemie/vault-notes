@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # 1980 Ditchley Park United World Colleges Conference
 
@@ -97,9 +97,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | Fact | 会议重新界定 UWC 的服务使命、地方适应和校友责任。 |

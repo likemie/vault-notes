@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Popular Education
@@ -191,9 +191,7 @@ updated: 2026-10-17
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:---------|

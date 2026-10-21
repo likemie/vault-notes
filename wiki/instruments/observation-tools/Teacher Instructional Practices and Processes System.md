@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Teacher Instructional Practices and Processes System
@@ -125,9 +125,7 @@ TIPPS 将复杂弱势情境下的教学互动解构为三大核心支柱领域�
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | TIPPS 所归属的脆弱低资源情境教学观察方法分支。 |
@@ -136,7 +134,5 @@ TIPPS 将复杂弱势情境下的教学互动解构为三大核心支柱领域�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 梳理 TIPPS 在发展中国家实测中的认知负荷瓶颈与指标设计贡献。

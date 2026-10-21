@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # University Social Responsibility
@@ -49,17 +49,15 @@ updated: 2026-10-15
 > "Corporate social responsibility (CSR), long only discussed in the context of corporations, is slowly being used as a concept to interpret universities' internal changes."（Larrán & Andrades Peña, 2017; Wigmore-Álvarez & Ruiz-Lozano, 2012，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]]）
 
 ---
-## 概念辨析
 
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 企业社会责任（CSR） — CSR 长期仅在营利部门讨论，关注企业对股东、员工、社区和环境的责任；USR 将这一概念延伸至高等教育机构，但大学的"社会责任"有本质区别：企业的首要责任是对股东的经济回报，而大学作为公共知识机构，其社会责任内嵌于其核心使命——[[Knowledge Production\|知识生产]]、人才培养和社会批判——之中，不是附加的"慈善"活动([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])
 > - vs [[Third Mission\|第三使命]]（third mission） — "第三使命"通常指大学在教学和研究之外的产业联系、[[Technology Transfer\|技术转移]]和经济贡献；USR 涵盖更广的非经济维度——就业公平、校园可持续性、[[Global Citizenship\|全球公民]]意识、对社会不平等的研究和倡导——是 [[Organizational Actorhood]] 中社会嵌入性维度的制度化表达([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.148–149, 152]])
 > - vs [[Otherhood]] — otherhood 是解释"为什么"大学会承担 USR 的理论机制（大学作为"他者代理"的社会过程）；USR 是 otherhood 在大学组织层面的制度化表现（发布 CSR 报告、设立可持续发展办公室、加入 SDG 排名）。两者的关系犹如"动机"与"行为"([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149, 152–153]])
 
 ---
-## 概念演变
 
-> [!note|notitle]
+> [!note] 概念演变
 
 ### 理论奠基：从社会嵌入性到责任大学
 
@@ -73,9 +71,8 @@ updated: 2026-10-15
 - 近年来 CSR 报告在全球大学中呈指数增长：Corporate Register (2019) 和 GRI (2019) 数据库共收录全球 200+ 所大学的 CSR 报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。这种增长曲线与 SDGs 的通过（2015）和 THE 排名（2019）在时间上高度吻合，暗示全球议程和排名机制对 USR 制度化的催化作用([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.152–153]])
 
 ---
-## 核心要素
 
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > USR 在大学中的表现领域([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])：
 > - **就业政策** 保障雇员权利、促进多样性、支持工作生活平衡。例：THE 影响力排名指标中包括"安全雇佣合同的使用""高级女性学术人员的比例"等——就业公平已被纳入大学的排名考核([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.147]])
 > - **校园建设与运营** 能源、水、交通、废物和食品的全校园可持续使用，将校园转变为"活实验室"（living laboratories）和"可持续发展试验台"（testbeds for sustainability）。例：ETH Zurich 推行"2000 Watt Society"项目，将全校能源效率目标与教学研究结合；Oberlin College 推行"Oberlin Project"旨在创建美国首批气候积极城市之一([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–151]])
@@ -84,9 +81,8 @@ updated: 2026-10-15
 > - **全球议题研究** 以全球问题为导向的研究，直接服务于 [[UN Sustainable Development Goals\|SDGs]] 等全球议程。例：Manchester 开发碳足迹工具追踪全球"碳热点"，UBC 开发保护生物多样性的传感器和软件，Auckland 与航运业合作追踪鲸鱼迁徙路线
 
 ---
-## 理论基础
 
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Organizational Actorhood]] — USR 是组织能动者身份中社会嵌入性维度的具体化：大学通过 USR 表明自己不仅是[[Knowledge Production\|知识生产]]机构，更是对社会负责的公民组织（Bromley & Meyer, 2015）
 > - [[Otherhood]] — USR 实践是大学 otherhood 的制度化表达：大学的 USR 活动（如减碳、促进性别平等、扶贫研究）本质上是为非行动者实体和现代性原则行使代理权([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 
@@ -104,17 +100,15 @@ updated: 2026-10-15
 > - THE 2020 年影响力排名覆盖 **85 个国家近 800 所大学（THE, 2020，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.147]]）**
 
 ---
-## 争议与批评
 
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **"口头采纳"与"实际行动"的落差**[[Argument_Zapp_2022_Springer\|Zapp (2022)]] 提示，CSR 报告的快速增长可能反映的是制度性"口头采纳"（talk）而非实质性行动转变（p.153）
 > - **作为新自由主义合法化工具** 从批判视角看，USR 可能被用于为大学的企业化、市场化和公共拨款缩减提供道德合法性外衣([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])
 > - **指标化的简化风险** THE 影响力排名将 USR 的复杂多维实践简化为可比较的量化指标，可能鼓励大学在易得分领域进行表面努力而忽视深层的制度变革
 
 ---
-## 相关案例／政策
 
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[UN Sustainable Development Goals]] — SDGs 为 USR 提供了全球性的内容框架和目标体系
 > - [[THE Impact Ranking]] — THE 影响力排名是 USR 被量化和排名化的标志性事件
 

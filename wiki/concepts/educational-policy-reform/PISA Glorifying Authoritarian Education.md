@@ -124,7 +124,5 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 提出美化威权教育构念，深刻批判 PISA 推广者将自我谴责特质浪漫化为卓越秘密的论调。

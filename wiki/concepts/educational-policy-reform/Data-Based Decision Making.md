@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Data-Based Decision Making
@@ -227,9 +227,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 系统阐释 DBDM 演进、五阶段行动循环与特温特[[Data Team Intervention\|数据团队]]（Data Team）实证干预，揭示其知病因却缺良方的固有盲区，并构建整合 DBDM 与 [[Research-Informed Teaching Practice\|RITP]] 的 [[School Enquiry Cycle\|ESTI]] 八步探究模型。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统论述 DBDM 作为与 RITP 相对的数据使用形态，揭示课堂数据层级感知偏误，倡导定性定量[[Triangulation\|三角验证]]与学校[[Inquiry Cycle\|探究循环]]。
 > - Schildkamp and Kuiper (2010) — 提出基于数据的决策核心概念界定，系统梳理输入、过程、情境与结果四类校本数据形态及实践功能。

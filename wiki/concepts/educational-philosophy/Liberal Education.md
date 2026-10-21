@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Liberal Education
@@ -201,9 +201,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **古代与中世纪 — 自由艺术源头** 古罗马西塞罗阐发 *artes liberales*，中世纪大学确立三艺（文法、修辞、逻辑）与四艺（算术、几何、音乐、天文），专供自由民研习。
 > - **1850s–1860s — 维多利亚时代全盛期** 纽曼发表《大学的理念》，1864 年克拉伦登报告确立九大公学古典特权，阿诺德宣示《文化与无政府状态》，自由教育成为大英帝国培育统治绅士的意识形态正统。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 > - **1880s — 赫胥黎-阿诺德世纪大辩论** 托马斯·赫胥黎（Thomas Huxley）发表《科学与文化》，挑战古典学垄断，主张自然科学应当成为现代自由教育的核心基石；阿诺德则坚持古典人文对人生道德指导的不可替代性。
@@ -235,9 +233,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -255,9 +251,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考证自由教育作为 19 世纪欧洲四大[[Paideia\|古典教化]]传统之一的终极目标，以及二战浩劫导致的道德破产与战后[[Scientific Paradigm\|科学范式]]转型。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 阐述阿诺德如何将古典教化作为抵御自由放任资本主义庸俗化的核心思想武器。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 阐发比较教育第二论述代际（历史-哲学与自由人文代际）的知识谱系，论证博雅教育作为抵御 20 世纪极权主义、维系民主政体与启蒙公民资格的人文主义核心（pp. 143–144）。

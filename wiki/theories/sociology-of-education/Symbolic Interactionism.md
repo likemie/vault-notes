@@ -66,7 +66,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Symbolic Interactionism
@@ -180,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 面对面微观交往、课堂师生博弈、同伴压力、师生标签化过程（Labeling）、偶发冲突的情境化化解、边缘个体的身份认同重建。
 > - **成立条件** 研究者必须进入自然的微观交往场景，获取未受人为操控的高保真互动过程数据，并具备敏锐捕捉非言语姿态的[[Rich and Thick Description|深描]]能力。
 > - **解释不足** 理论局限于微观面对面互动，严重忽视了宏观政治经济结构、阶级力量与国家机器的客观刚性制约（Bernstein, 1974）。
@@ -212,8 +210,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 25–27)]] — 系统提炼符号互动论的三大公设、互动研究单位、课堂胡闹案例[[Rich and Thick Description|深描]]以及结构学派对其展开的四重方法论批评。 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多处贯穿符号互动论在[[Qualitative Interview|质性访谈]]设计、角色定位管理与观察编码中的方法论映射。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考据比较教育学理论演进史，将符号互动论确立为 1970 年代起打破[[Structural Functionalism|结构功能主义]]单一霸权垄断的 26 种核心[[Theoretical Standpoint|理论立场]]之一。

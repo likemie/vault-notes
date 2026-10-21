@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # ARPA-E
@@ -147,9 +147,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ray Pawson
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1948** 出生于英国。
 > - **1970s–1980s** 接受英国社会学与科学哲学严格训练，早期聚焦于社会测量理论与概念[[Operationalization|操作化]]反思，出版《测量的度量》（*A Measure for Measures: A Manifesto for Empirical Sociology*, 1989）。
 > - **1990s** 任教于英国利兹大学；反思[[Positivism|实证主义]]评估将社会项目简化为黑箱输入输出的弊端，与犯罪学学者尼克·蒂利（Nick Tilley）展开跨学科合作。
@@ -145,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]]哲学深度[[Operationalization|操作化]]为社会科学经验研究框架，确立了生成性因果观对[[Positivism|实证主义]]经验相继因果观的方法论替代。
 > - **方法路径** 创立的 CMO 模型与[[Realist Evaluation|实在论综合]]被英国医学研究理事会（[[Meta-Representational Competence|MRC]]）、英国国家卫生研究院（NIHR）以及国际评估联合会广泛采纳，成为复杂干预评估的标准工具。
 > - **政策与教育路径** 深刻启发了[[Critical Pedagogy|批判教育学]]者（如 [[Terry Wrigley]]）对英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）教学工具包去情境化[[Effect Size|效应量]]排行的解构，纠正了因简单平均数导致的[[Teaching Assistant|教学助理]]岗位错误裁剪。
@@ -155,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与哲学渊源** [[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）— [[Critical Realism|批判实在论]]奠基人，为波森提供深层[[Ontology|本体论]]与生成性因果哲学的基石。
 > - **核心学术合作者** 尼克·蒂利（Nick Tilley）— 英国犯罪学学者，与波森共同创立[[Realist Evaluation|实在论评估理论]]大厦与 CMO 模型。
 > - **教育批判继承者** [[Terry Wrigley]] — 将波森的实在论综合与开放系统命题引入教育政策研究，发起对[[Evidence-Based Education|循证教育]]排行榜的学术批判。
@@ -183,9 +177,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 引入波森的医学对比、开放系统与能动性命题，批判循证教学中[[Randomised Controlled Trials|随机对照试验]]的不适用性。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 运用波森的[[Realist Evaluation|实在论综合]]思想作为替代路线，揭示[[Meta-analysis|元分析]]“净化过程”的危害，并以[[Teaching Assistant|教学助理]]项目为例论证脱离 CMO 背景的排行榜对政策的误导。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 引用波森关于开放系统无法人为封闭和控制的论证，从教育哲学的角度审视[[Evidence-Based Education|证据本位教育]]对复杂教育实践的歪曲。

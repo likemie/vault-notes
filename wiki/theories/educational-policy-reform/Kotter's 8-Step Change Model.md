@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Kotter's 8-Step Change Model
@@ -81,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 阶段归属 | 在理论中的功能 |
 > |:-----|:---------|:--------------|
@@ -168,9 +166,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 复杂大型组织在遭遇外部战略冲击时有组织的顶层再造、跨部门动员与重大制度演进。
 > - **成立条件** 必须拥有高层领导的坚定授权，且组织面临的外部危机或机遇具有高度可信的紧迫性。
 > - **解释不足** 强假设了自上而下的领导力推进次序，对草根自下而上的自组织[[Emergence|涌现]]创新、学术共同体追求纯粹[[Academic Freedom|学术自由]]时的抵触心理缺乏充分包容。
@@ -178,7 +174,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将科特变革模型作为高水平[[Research Universities|研究型大学]]应对《[[CHIPS and Science Act|芯片与科学法案]]》的组织[[Theory of Change|变革理论]]基石，实证揭示了 8 人跨领域专家专班如何依据营造紧迫感、三级迭代动员并最终制度化为半导体研究院的完整路径。

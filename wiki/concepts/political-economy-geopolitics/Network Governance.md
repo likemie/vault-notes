@@ -113,7 +113,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Network Governance
@@ -271,9 +271,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990s — 组织社会学起源与[[New Public Management|新公共管理]]（NPM）反思** 汤普森（Grahame Thompson, 1991）、鲍威尔（Walter W. Powell, 1990）与罗兹（R. A. W. Rhodes, 1996）提出将网络视作区别于市场与科层的第三种组织形态，界定其核心为信任、互赖与非层级协商；同时代学者断言跨国网络化导致了“国家空心化”（Hollowing out of the state）。
 > - **2000s — 全球教育[[Policy Network|政策网络]]与私有化浪潮** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）将网络治理正式引入[[Critical Pedagogy|批判教育学]]研究，指出新自由主义推进了公立教育的异质层级（Heterarchy）转型，新公共治理不再是国家统治的终结，而是国家借助商业资本与政策网络推行企业化运作的技术。
 > - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与网络架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]提出[[Embedded Network Governance|嵌入型网络治理]]，基于对 [[DARPA]] 长期资助半导体关键材料的扎根[[Case Study|案例研究]]，揭示公共代理人如何主动运用[[Network Plasticity|网络可塑性]]重塑研发者社会网络以引导国家战略[[Technological Trajectories|技术轨道]]，突破了传统网络治理中将国家仅视作消极撮合中介的理论局限。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
@@ -369,9 +367,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何通过“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）实现使命导向攻坚，并尖锐批判将核心智识外包给商业咨询公司所导致的国家去能力化风险。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA MTO 在 1992 至 2008 年间 4 项半导体关键技术资助的长程扎根[[Case Study|案例研究]]，首次提出[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]，阐明公共代理人如何主动重塑研发社会网络以引导国家战略[[Technological Trajectories|技术轨道]]。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 结合荷兰高等教育从中央微观规制向间接[[Steering at a Distance|远距离操纵]]的转型经验，深入阐述多重理性[[Policy Network|政策网络]]的自组织协调机制与制度边界。

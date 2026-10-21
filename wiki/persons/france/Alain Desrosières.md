@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alain Desrosières
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1940 年** 出生于法国里昂，早年以优异成绩毕业于巴黎综合理工学院（École Polytechnique）与法国国立统计与经济管理学校（ENSAE），兼具深厚的高等数学、数理统计与工程分析造诣。
 > - **1965–1980 年代** 进入法国国家统计与经济研究所（INSEE）工作，长期主持职业分类与社会阶层统计研发，与洛朗·泰弗诺（Laurent Thévenot）合作创建了影响深远的法国新社会职业分类编码体系（PCS）。
 > - **1980–1990 年代** 投身于统计思想史与公约社会学研究，深度参与法国公约学派（Économie des conventions）的创建；1993 年出版里程碑巨著《大数的政治：统计推理的历史》（*La politique des grands nombres*），确立了其作为国际量化社会学奠基人的学术地位。
@@ -139,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与合作同行** 洛朗·泰弗诺（Laurent Thévenot） — 长期学术盟友与 INSEE 同事，共同创立法国社会职业分类体系及公约经济学学派。
 > - **思想对话者** 吕克·博尔坦斯基（Luc Boltanski） — 法国批判社会学与公约社会学代表人物，共同探讨正当性辩护与测量度量尺度的社会建构。
 > - **理论延伸者** [[Bob Lingard]]、[[Fazal Rizvi]] — 将其[[Space of Equivalence|等值空间]]与[[Commensuration|通约]]分析深度移植于批判跨国教育治理与[[OECD|经合组织]]政策研究。
@@ -170,9 +166,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

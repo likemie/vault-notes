@@ -7,10 +7,10 @@ summary: "英国爱丁堡大学欧洲与全球教育治理讲席教授，英国�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1976"
 lifespan: "1976–至今"
 tags:
@@ -23,18 +23,12 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Governing by Numbers]]"
-  - "[[European Education Space]]"
   - "[[Space of Equivalence]]"
+  - "[[European Education Space]]"
   - "[[Commensuration]]"
-  - "[[Data Infrastructure]]"
-  - "[[Externalization]]"
   - "[[Mediatisation of Education Policy]]"
-related_theories:
-  - "[[Governmentality]]"
-related_methods:
-  - "[[Comparative Case Study]]"
-  - "[[Expert Interview]]"
-  - "[[Documentary Analysis]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jenny Ozga]]"
@@ -43,16 +37,16 @@ related_persons:
   - "[[Kerstin Martens]]"
 related_facts:
   - "[[OECD]]"
-  - "[[PISA]]"
   - "[[EU]]"
-  - "[[Eurydice]]"
   - "[[Fabricating Quality in European Education]]"
+  - "[[Eurydice]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sotiria Grek
@@ -73,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2000 年代初** 获得牛津大学博士学位，随后加入爱丁堡大学教育社会学中心（CES），投身欧洲教育质量保障与评估比较研究。
 > - **2006–2009** 作为核心研究员参与欧洲科学基金会重大跨国科研项目“制造欧洲教育质量”（[[Fabricating Quality in European Education|FabQ]]），负责英格兰与苏格兰的实证调研。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 35)]]
 > - **2009** 在《教育政策杂志》（*Journal of Education Policy*）发表标志性研究成果《以数治教：PISA 在欧洲的“效应”》，奠定其在欧洲教育治理领域的国际学术声誉。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–37)]]
@@ -115,9 +107,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Herbert A. Simon
@@ -74,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1916** 出生于美国威斯康星州密尔沃基。
 > - **1947** 出版奠基之作《行政行为》（*Administrative Behavior*），系统阐述组织决策过程中的认知约束与满意准则。
 > - **1956** 参与[[Dartmouth Summer Research Project on Artificial Intelligence|达特茅斯人工智能夏季研讨会]]，展示与艾伦·纽厄尔（Allen Newell）共同开发的世界上首个符号推理程序“逻辑理论家”（Logic Theorist），确立人工智能作为独立学科的[[Paradigm|研究范式]]。
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **核心合作者** 艾伦·纽厄尔（Allen Newell） — 长期学术伙伴，共同开发逻辑理论家（Logic Theorist）与通用问题求解器（GPS），并合撰《人类问题求解》（*Human [[Problem Solving]]*），共同分享 1975 年图灵奖。
 > - **学术论敌与批评者** [[Douglas Hofstadter]] — 认知科学家，对早期符号主义 AI 将思维还原为机械规则表示的简化论取向提出持久质疑与批评。
 > - **学术论敌与批评者** [[Noam Chomsky]] — 语言学家，批判基于[[Behaviorism|行为主义]]与简单计算归纳的认知模型，强调人类先天气质与普遍语法的内在独特性。
@@ -174,9 +170,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

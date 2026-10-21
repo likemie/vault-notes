@@ -8,7 +8,7 @@ aliases:
 summary: "欧盟与现代联邦制治理中的核心宪制原则。规定公共决策应在最低有效层级做出，超国家或中央机构仅在成员国与地方无法有效达成目标时方可进行从属性干预；在欧洲教育治理中，其保障了成员国对教学内容与学制组织的核心主权，但批判学者揭示欧盟如何依托数据基础设施外包与软法规训绕开该原则以深度重塑成员国政策空间。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,33 +29,30 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
+  - "[[Variable]]"
   - "[[European Education Space]]"
   - "[[Student Mobility]]"
-  - "[[Data Infrastructure]]"
-  - "[[Governing by Numbers]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
 related_methods:
-  - "[[Comparative Case Study]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[António Nóvoa]]"
   - "[[Jason Beech]]"
 related_facts:
   - "[[EU]]"
-  - "[[OECD]]"
   - "[[Bologna Process]]"
   - "[[Lisbon Strategy]]"
   - "[[German Dual Education System]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Subsidiarity Principle
@@ -90,7 +87,7 @@ updated: 2026-10-21
 > |---|---|---|---|
 > | **权力渊源** | 基层优先，更高层级的干预权具有补充性质 | 权力属于中央，自上而下特许授予地方 | 成员国将法定管辖权实质性转移至超国家实体 |
 > | **干预前提** | 仅当基层无法有效达成目标时方可干预 | 由中央依政策目标自由裁量调整 | 超国家机构依据条约授权行使排他性管辖 |
-> | **教育政策工具** | 最佳实践、基准指标、同行评议等软治理 | 预算包干、[[School Autonomy|校本管理]]、地方选拔等管理工具 | 具有法律强制约束力的条约、指令与硬法规范 |
+> | **教育政策工具** | 最佳实践、基准指标、同行评议等软治理 | 预算包干、[[School Autonomy\|校本管理]]、地方选拔等管理工具 | 具有法律强制约束力的条约、指令与硬法规范 |
 > | **防范风险** | 防范超国家技术官僚的同质化中央集权 | 应对公共财政紧缩与治理负荷下移 | 克服成员国集体行动困境与市场壁垒 |
 
 ---
@@ -152,14 +149,12 @@ updated: 2026-10-21
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **软法规训与形式规避** | 揭示超国家机构如何在恪守宪制约束的形式下依托软法实现事实集权 | 欧盟一体化与超国家教育空间制作 | António Nóvoa |
-> | **多标度网络穿透** | 论证多标度治理网络如何击穿辅助性原则预设的主权容器边界 | 全球教育[[Policy Mobility|政策流动]]与跨国治理[[Champ|场域]] | Jason Beech |
+> | **多标度网络穿透** | 论证多标度治理网络如何击穿辅助性原则预设的主权容器边界 | 全球教育[[Policy Mobility\|政策流动]]与跨国治理[[Champ\|场域]] | Jason Beech |
 > | **数据外包与共生补位** | 阐明超国家中枢如何借助第三方国际组织的数据基础设施规避立法禁令 | 欧盟与经合组织跨机构合作、跨国教育指标体系建设 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1931 — 思想起源** 天主教社会训导（如教宗庇护十一世《四十年通谕》）首次系统阐述辅助性原则，主张高级社团不得剥夺次级社团与家庭的固有职权。
 > - **1992 — 条约确立** 《马斯特里赫特条约》（第 126 条，现《[[EU|欧洲联盟]]运行条约》第 165 条）正式将辅助性原则载入欧盟宪制，确立欧盟在教育领域仅承担补充性与协调性职能。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2000 — 治理转型** [[Lisbon Strategy|里斯本战略]]正式启动[[Open Method of Coordination|开放协调法]]（OMC），辅助性原则成为软法治理与量化基准线监测合法性辩护的理论支点。
@@ -188,14 +183,12 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25, 32–35)]] | 欧盟委员会与经合组织在教育政策领域的跨机构合作机制 | 制度文献考证与欧洲政策官员半结构化访谈 | 跨国调查资助比例、指标采纳率与技术研发经费配置 | 欧盟预算直接承担成员国 80% 的 PISA 调查参与成本；欧盟里斯本战略指标报告中 50%–60% 基础数据直接采购于经合组织；欧盟另行拨款 600 万欧元用于开发欧洲语言指标以培育本土能力 | 质性深度饱和分析与预算规程考证 | 证实欧盟在辅助性原则法律约束下，通过资助与采纳经合组织数据基础设施实现对欧洲教育空间的有效软性协调 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 343–344)]] | 欧盟成员国教育政策与开放协调法（OMC）运行体系 | 批判政策话语分析与历史比较追踪 | 软性规训机制类型、基准指标达成度与主权界限 | 证实欧盟依托最佳实践交流、共同基准指标与博洛尼亚进程构建超国家政策网络，使辅助性主权边界在流动空间中趋于模糊 | 质性文本饱和分析 | 揭示软法技术如何在形式上服从辅助性原则的前提下实质性引导成员国教育改革 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析[[EU|欧盟]]在《马斯特里赫特条约》辅助性原则制约下，如何借助最佳实践修辞、量化指标基准线与[[Bologna Process|博洛尼亚进程]]三大软治理机制渗透成员国教育政策。

@@ -5,7 +5,7 @@ summary: "英国社会心理学家和哲学家，人因取向的创始人，将�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,12 +22,11 @@ related_methods:
   - "[[Accounts]]"
 related_facts:
   - "[[Achieve]]"
-related_persons:
-  - "[[Rom Harré]]"
+related_persons: []
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 # Rom Harré
 
@@ -48,9 +47,7 @@ updated: 2026-10-17
 >
 > *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to [[Achieve]] them.*
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

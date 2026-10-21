@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Triple Helix
@@ -265,9 +265,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 知识密集型高技术领域（如半导体、生物医药、信息通信、先进材料）；[[National Innovation System|国家创新系统]]从赶超向自主引领转型的宏观制度变迁；[[Research Universities|研究型大学]]在区域创新集群中的战略定位与国家使命动员。
 > - **成立条件** 需要大学具备实质性学术自治权、基础科研成果充沛且拥有自主处置权；需要产业界具备强大的[[Absorptive Capacity|吸收能力]]与前沿技术消化能力；需要政府具备以间接法治、竞争性基金与战略中介进行治理的现代公共管理能力。
 > - **解释不足** 
@@ -328,9 +326,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 系统梳理 1940 至 2000 年代美国[[Research Universities|研究型大学]]与政府、产业关系的历史变迁，详述 1978 年 [[National Science Foundation|NSF]] [[University-Industry Collaboration|产学合作]]试点计划、11 年期 [[Engineering Research Centers|ERC]]/[[Science and Technology Centers|STC]] 机制、《[[Bayh-Dole Act of 1980|拜杜法案]]》专利激增实证，以及对大学异化为工业“代工车间”的制度警示。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 纵跨五十余年系统追踪英美日等国大学-产业-政府关系的演进历程，分析 1980 年代以来大学“[[Third Mission|第三使命]]”的制度化与长期公式化拨款机制。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]] — 以三重螺旋为宏观背景，深入大学内部黑箱，实证揭示产学对接的五种组织模式及宏观整合与微观碎片化之间的理论张力。

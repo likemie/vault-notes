@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Rule Ambiguity
@@ -152,9 +152,7 @@ updated: 2026-10-15
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 构成全书三大支柱之一（Ambiguity），为[[Strategic Compliance\|规则遵从博弈]]提供微观机制温床。 |

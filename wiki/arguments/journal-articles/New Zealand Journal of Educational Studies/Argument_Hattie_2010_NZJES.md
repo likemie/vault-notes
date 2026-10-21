@@ -51,40 +51,30 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2010
 doi: ""
 citation_aliases:
   - "Hattie, 2010"
   - "Hattie (2010)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 本文并非传统研究论文，而是 Hattie 以第一人称反思教育学者在公共辩论中的角色。核心问题：学者如何以"[[Critic and Conscience of Society\|社会的批评者与良知]]"（critic and conscience of society）的身份参与公共政策讨论，同时应对媒体的简化倾向、人身攻击和误读？
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 以新西兰《教育法》赋予学者的"[[Critic and Conscience of Society]]"法定角色为制度基础，以 Emerson (1837) 和 Said (1993) 的公共知识分子论述为思想资源。Hattie 的实践框架为三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业(p.86)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：个人经验[[Reflexivity\|反思性]]叙述（reflective personal narrative），非实证研究
 > - 案例：以 *[[Visible Learning]]* (2009) 出版后的媒体反应、与政策制定者的互动、以及遭受的各类批评为经验材料
 > - [[Analytic Framework\|分析框架]]：以 Alexander (2010) 的四种腐蚀性[[Discourse|话语]]（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 1. **学者参与公共辩论的必要性** 学术期刊固然重要，但其时效性和可及性不足；学者应当利用媒体将学术声音传达给更广泛的公众，但须承受媒体简化复杂性和人身攻击的风险(pp.85–86)
 > 2. **学术批评的原则** 批评应当针对观点而非个人、仔细考量前提与假设、旨在拓展而非终结辩论；批评不应提出虚假前提或纠缠细节而忽略主旨(p.87)
 > 3. **VL 遭受的批评多为误读** Hattie 逐一回应了关于研究方法、偏差、研究排除、结果狭隘性、[[Class Size\|班级规模]]、[[Performance Pay\|绩效工资]]、顾问角色、非黑即白思维、人身攻击和利益冲突的十类批评(pp.88–94)
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > ### 对 VL 方法论批评的回应
 >
 > **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis\|元分析]]明确批评（如[[Learning Styles|学习风格]]研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题(p.88)。
@@ -107,9 +97,7 @@ citation_aliases:
 >
 > Hattie 详细说明了他在[[New Zealand National Standards\|新西兰国家标准]]的参与程度：被邀加入技术顾问组但两次会议均未出席（因出国六个月）；新西兰评估学会（NZ Assessment Academy）受教育部邀请对标准的技术层面提供评论——这是众多专家意见之一，部分但非全部建议被采纳。他强调"提供黑与白的答案不是学术批评的性质"(pp.91–93)。同时主张[[Academic Engagement\|学术参与]]政策制定是合理的——"作为解决方案的一部分比从旁边批评更难，在我看来两种视角对有价值的社会都至关重要"(p.93)。
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “学术批判的基本原则是：它针对的是思想而非个人；仔细考量那些原则和假设；目的是为辩论提供信息并加以扩展——而不是因为思想不受欢迎或不符合某些批评者的教条就试图将其扼杀。”
 > ("The fundamentals of academic critique are that it relates to the idea not the person; takes careful consideration of the tenets and assumptions; and is aimed at informing and extending the debate – not shutting it down because the ideas are not welcome or are not part of some critics' dogma.") (p.87)
 >
@@ -122,9 +110,7 @@ citation_aliases:
 > > “提供非黑即白的答案并非学术批判的本质。”
 > ("Providing black and white answers is not the nature of academic critique.") (p.92)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 论文为第一人称叙事，无法声称[[Value Neutrality\|价值中立]]或系统性
 > - 未回应 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 提出的若干技术性方法论批评（如 d=0.40 的统计逻辑、[[Effect Size\|效应量]]计算中对研究质量的处理等）
 > - 对"学术批评应当针对观点而非个人"的强调可能被批评者视为回避实质性方法论问题的修辞策略

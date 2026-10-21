@@ -47,7 +47,7 @@ related_facts:
 confidence: low
 status: draft
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ## 定义
@@ -97,9 +97,7 @@ updated: 2026-10-20
 > | 模型选择问题 | 匹配变量锁定后不再搜索 | 所有后续统计推断可能严重错误（Leeb & Pötscher, 2005, 2006） |
 > | 对软件依赖 | 较低 | 较高——统计软件包使因果建模看似容易（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p.197]]） |
 
-## 资料与分析
-
-> [!info|notitle]
+> [!info] 资料与分析
 > 匹配后的数据分析需要在匹配样本（而非原始样本）上进行。关键分析步骤包括：检验匹配后两组在协[[Variable\|变量]]上的标准化均值差（SMD < 0.1 通常视为平衡良好）；在匹配样本上估计处理效应（平均处理效应 ATT 或 [[Advanced Technological Education|ATE]]）；通过 Rosenbaum 敏感性分析评估结果对未观测混杂的稳健性。[[Argument_Berk_2011_EvalRev\|Berk (2011, p. 198)]] 强调匹配过程中的[[Dependent Variable\|结果变量]]应"锁在保险箱里"——匹配变量的选择不得参考结果变量，以避免循环论证。
 
 ## 适用场景
@@ -109,18 +107,14 @@ updated: 2026-10-20
 > - 当研究人员有过去研究和理论的坚实基础来论证相关协[[Variable\|变量]]已被纳入匹配时——因为"样本中的平衡并不意味着未观测协变量也存在平衡"([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.198]])
 > - 大型观察性研究中"使用匹配来调整混杂因素有时可以提供有启发性的结果"([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.195]])
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **对未观测混杂因素的敏感性** "样本中的平衡并不意味着未观测协[[Variable\|变量]]也存在平衡"([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.198]])。匹配仅能基于已观测和已包含的协变量建立可比性——如果关键混杂因素未被测量，结果的因果解释仍然脆弱。
 > - **需要满足与随机实验相同的假设** 匹配不能豁免随机实验所需的关键假设——同样必须满足无干扰（no interference）的 [[Stable Unit Treatment Value Assumption\|SUTVA]] 要求([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.199]])。
 > - **远不如[[Random Assignment\|随机化]]** Smith (1991, p. 215) 指出匹配最常用于准实验和非[[Experimental Research\|实验研究]]，在排除替代因果解释方面远不如随机化——随机化控制所有变量，匹配只控制命名变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 323]]）。
 > - **样本缩减风险** 匹配可能导致样本大幅缩减——Lewis-Beck (1993) 报告了一个从 1,194 缩减至 46 的实例（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al., 2011, Ch15]]）。
 > - **协变量[[Interaction Effect\|交互效应]]** "与协变量的交互效应最好通过事后分层（POST stratification）来解决，而非因果模型"([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.199]])。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Potential Outcomes Framework]] | 理论 | 匹配的[[Causality\|因果推断]]逻辑直接建立在潜在结果框架之上 |

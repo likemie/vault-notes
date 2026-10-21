@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Richard Sennett
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1943** 出生于美国芝加哥，后就读于芝加哥大学并在哈佛大学获得博士学位（师从戴维·里斯曼）。
 > - **1977** 出版《公共人的衰落》（*The Fall of Public Man*），诊断现代社会的过度私人化与公共领域萎缩。
 > - **1994** 在《纽约时报》发表《身份神话》（*The Identity Myth*），反思民族主义认同的排他风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -104,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **博士导师** 戴维·里斯曼（David Riesman）— 继承了对现代社会性格与大众文化的批判传统。
 > - **思想对话者** [[Martha Nussbaum|玛莎·努斯鲍姆]] — 共同构成当代[[Post-Nationalism|后国家主义]]与世界公民批判的代表。
 > - **当代批评者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中作为后国家左翼解构国家认同的典型代表。
@@ -125,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

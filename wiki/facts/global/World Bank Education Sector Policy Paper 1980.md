@@ -39,16 +39,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # World Bank Education Sector Policy Paper 1980
 
 ---
 
-## 事件背景
-
-> [!event-context|notitle] 事件背景
+> [!event-context] 事件背景
 > - **时间节点** 1980 年，[[World Bank\|世界银行]]独立发布《教育部门政策文件》（*Education Sector Policy Paper*），此前相关教育政策均在1964 年 [[UNESCO]]-世界银行合作协定框架内与联合国教科文组织协调发布。
 > - **历史脉络** 1964 年，世界银行借道与 UNESCO 签署合作协定正式进入教育援助领域；在长达 16 年的合作期间，世界银行以 UNESCO 的教育规范性框架作为外部合法性依托，逐渐积累自身教育贷款与研究能力。
 > - **决裂意义** 1980 年文件的独立发布宣告世界银行在教育领域的意识形态独立：以[[George Psacharopoulos\|乔治·萨卡罗普洛斯]]（[[George Psacharopoulos]]）主导的教育回报率（Rate of Return）研究为核心，正式与 UNESCO 的人文主义教育哲学和规范性框架彻底决裂。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–543)]]
@@ -77,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

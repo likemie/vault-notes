@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Social License to Operate
@@ -141,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990s — 矿业与资源开发领域首创** 概念源于矿业管理学者（Jim Cooney, 1997），用于描述跨国矿企因环保与原住民冲突遭受社区抵制，指出必须在法定特许权之外争取当地社区的不成文认同。
 > - **2000s–2010s — 扩展至企业社会责任（CSR）与基础设施** 被[[World Bank\|世界银行]]及工业界广泛采纳，成为评估重大工程项目是否符合利益相关者伦理期待的标准透镜。
 > - **2020s — 迁移至高等教育治理与前沿科学** 伴随全球大学信任危机与生成式 AI、基因编辑等颠覆性技术[[Emergence\|涌现]]，英国皇家学会与高等教育界正式将社会运营许可引入大学治理体系，确立公众双向参与为高校维系公共财政合法性与科研伦理声誉的存续前提。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 102)]]
@@ -176,8 +174,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]] — 将社会运营许可（Licence to Operate）正式确立为大学开展[[Public Engagement with Science\|公众科学参与]]的核心制度动因，系统论证维系大学存续的六大基石，指出在财政紧缩与合法性争议时代公众参与是高校的战略性生命线投资。
 > - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] — 从[[Quasi-markets in Higher Education\|高等教育准市场]]与社会契约变迁视角，分析英美大学在公共财政削减下重新界定公共合法性与多元利益相关者关系的机制。

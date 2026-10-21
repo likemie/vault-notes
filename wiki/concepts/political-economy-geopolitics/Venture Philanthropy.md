@@ -61,7 +61,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Venture Philanthropy
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | [[Social Impact Investing\|风险慈善]]（Venture Philanthropy） | 传统赠款慈善（Traditional Philanthropy） | 商业风险投资（Commercial Venture Capital） |
 > |---|---|---|---|
 > | **运行逻辑** | 战略性多年投资、留本基金运营与高介入度赋能 | 一次性赠款分配、善意救济与无偿资助 | 股权投资、市场化估值与资本高倍退出 |
@@ -183,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990 年代末–2000 年代初 — 模式萌芽与风险投资纪律引入** 在欧美互联网科技新贵崛起与企业慈善立法背景下，创投风尚外溢至公益部门；麦肯锡合伙人发起 SVA（2002），倡导引入商业咨询、尽职调查与多年期资本支持，重构传统慈善形态。
 > - **2006–2015 — 澳大拉西亚实践落地与特许学校基建** 新西兰最大慈善机构 Foundation North 宣布全面转型风险慈善（2006）；风险慈善资本广泛涉入 [[Teach First New Zealand]] 教师输送项目及 Manaiakalani 数字化项目，并充当特许学校（[[Partnership Schools Kura Hourua|PSKH]]）法定义务之外的关键财政后盾（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。
 > - **2016–2022 — 跨国证据生态扩张与国家科研体制渗透** 英国 [[Education Endowment Foundation\|EEF]] 与澳大利亚 [[Social Ventures Australia\|SVA]] 联合推进[[Educational Brokerage Agency\|证据经纪人]]模式；必和拓基金会注资启动全球教学证据生态项目；风险慈善由局部项目赞助跃升为直接游说、设计并共同治理国家级法定教育科研中介（如 [[Australian Education Research Organisation\|AERO]]），引发全球政策社会学对民主问责侵蚀的集中批判（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。
@@ -228,9 +224,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -248,9 +242,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示新西兰 [[Foundation North]] 与 [[NEXT Foundation|NEXT 基金会]]如何通过风险慈善重塑公立教育与特许学校生态。
 > - [[Argument_Rowe_2022_IJER|Rowe, 2022]] — 剖析[[Social Ventures Australia|澳大利亚社会创投]]（SVA）如何借助免税庇护与政策游说推动国家证据中介 [[Australian Education Research Organisation|AERO]] 的制度化装配。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]] — 实证确证风险慈善构建[[Philanthrocapitalism|慈善资本主义]]异层再分配闭环，揭示税收庇护与公立学校附庸化机制。

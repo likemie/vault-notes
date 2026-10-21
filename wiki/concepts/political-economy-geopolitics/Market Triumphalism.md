@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Market Triumphalism
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 市场必胜论（Market Triumphalism） | 公民共和主义（Civic Republicanism） | [[Technological Agnosticism\|技术不可知论]] |
 > |:---|:---|:---|:---|
 > | **公共善定位** | 否认先验公共善，由个体偏好聚合与市场价格定义价值 | 主张通过公共民主协商确立共同体的崇高善观念 | 宣称技术中立，拒绝在工程研发中预设道德与政治立场 |
@@ -74,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **公共道德的祛魅与驱逐（Banishment of Moral Convictions）** 现代自由主义因害怕争议而将关于“崇高生活”的哲学探讨排斥在公共决策之外。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 172)]]
 > - **市场价值的僭越替代（Value Colonization）** 资本市场的短期价格信号与消费热潮被误认为是社会最高理性的表达。
 > - **科技精英的不可知论避险（[[Technological Escapism]]）** 硅谷领袖顺从市场逻辑，以服务消费者（在线购物、外卖游戏）替代服务公共利益（国防、治安、教育）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
@@ -117,7 +113,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 借助[[Michael Sandel|桑德尔]]的市场必胜论理论，深刻剖析硅谷向[[Consumer Internet|消费互联网]]退缩与关键公共部门陷入[[Innovation Desert|创新荒漠]]的深层意识形态根源。

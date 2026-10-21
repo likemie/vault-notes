@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Grounded Theory
@@ -273,9 +273,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 整合第 30 章编码三阶进阶与[[Story Line\|故事线]]规程、第 28 章计算机辅助理论生成及第 29 章[[Constant Comparison\|持续比较法]]，系统剖析扎根理论从经验切片到[[Central Phenomenon\|核心范畴]]构建的操作规程与去情境化防范。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐释扎根理论聚焦社会互动过程的[[Research Question\|研究问题]]设计逻辑，系统论述基于[[Theoretical Sampling\|理论抽样]]与多阶段编码生成实质性解释理论的完整研究规程（Ch. 1, 7, 9）。
 > - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 以扎根理论方法对 [[DARPA]] MTO 16 年的半导体材料资助案例做编码与持续比较，提炼 5 项非正式治理机制，建构[[Embedded Network Governance|嵌入型网络治理]]理论。

@@ -38,26 +38,20 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > [[Epistemology\|认识论]]断裂（Epistemological Break）源自 Bourdieu, Chamboredon & Passeron（1968/1991）*The Craft of Sociology: Epistemological Preliminaries*，指科学研究必须与**前科学世界（pre-scientific world）** 的日常语言和自发理解进行决裂的关键操作。Bourdieu 认为，"问题的选择、概念的阐释和分析范畴如果不经过科学建构这一关键操作来与社会世界既有的样子决裂，就只是对 [[Doxa]] 的认可"（Bourdieu & Wacquant, 1992/1992, p.248，引自 Eacott, 2015, p.320）。
 >
 > > "the choice of problem, the elaboration of concepts and analytical categories function as a ratification of the doxa unless the crucial operation of scientific construction breaks with the social world as it is"（Bourdieu & Wacquant, 1992/1992, p.248）
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > - 1968 年 Bourdieu, Chamboredon & Passeron 在 *Le méTIER de sociologue* 中系统阐述[[Epistemology\|认识论]]断裂的方法论地位([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.313]])
 > - Bachelard（1934/1984）更早提出"简单从来不过是简化之物"（the simple is never anything more than the simplified），否定科学拥有确定遗产的确定性，坚持"科学只能通过不断质疑自身构造的原理来进步"([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.323]])
 > - [[Argument_Eacott_2015_EPT\|Eacott (2015)]]将认识论断裂概念引入教育行政研究，论证教育行政学者作为"嵌入且具身的行动者"尤其需要这一操作
 
-## 核心要素
-
-> [!abstract|notitle] 核心要素
+> [!abstract] 核心要素
 > **为何需要断裂：研究者的嵌入性与具身性**
 >
 > 教育行政学者大多是前任学校/系统层面的行政人员，且许多人在大学中也担任行政职务。这使得研究者本身就是"自发社会学家"（spontaneous sociologist）——通过社会化过程内化了社会世界的客观结构，以 doxic 模态感知社会世界([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.317]])。
@@ -88,21 +82,15 @@ updated: 2026-10-21
 >
 > 科学探究需要（甚至要求）自主性。研究者需要"抵制和系统性地抵御日常语言和对社会世界自发理解的渗透"。这在与研究资助体制、政府优先事项和企业巨头的挤压中极为困难，尤其当研究经费缩减、研究者日益受大型企业的财政控制时。
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - vs [[Epistemological Vigilance]] — [[Epistemology\|认识论]]断裂是**初始的决裂操作**，认识论警觉是**持续的维护**；断裂是一次关键的转身，警觉是终身的智识项目
 > - vs [[Complexity Reduction]] — Complexity Reduction 是政治权力通过减少选项使社会情境可预测的行为；认识论断裂是研究者主动抗拒这种简化、恢复问题复杂性的方法论操作
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - wiki-[[Pierre Bourdieu]] — [[Epistemology\|认识论]]断裂是 Bourdieu 反思社会学的方法论核心，与其[[Champ\|场域]]-习性-资本理论框架互为前提
 > - [[Critical Realism]] — 与 Bhaskar 的批判实在论共享对[[Positivism\|实证主义]]科学观的批判，但 Bourdieu 的断裂更强调研究者自身的认识论条件而非[[Ontology\|本体论]]分层
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - **是否可能完全断裂** Bourdieu 自己也承认研究者永远无法完全逃脱社会世界——"the inexhaustible intellectual project of getting beyond the everyday is never finally won"([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.322]])。批评者质疑这是否意味着"断裂"是一个永远达不到的理想状态。
 > - **与"实践相关性"的张力** 教育行政作为"应用领域"，其体制合法性部分来自与实践的紧密关联。彻底的断裂是否会使研究对实践者不可理解或无关？([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.319-320,讨论 Bachelard & Bourdieu 拒绝简化复杂内容]])
 > - **Evers & Lakomski 立场** Evers & Lakomski（1991, 1996, 2000, 2012）认为问题不在科学，而在科学的模型——逻辑[[Empiricism\|经验主义]]的狭隘[[Operationalization\|操作化]]。若采用更丰富的科学模型（如自然主义的科学观），是否需要"断裂"本身也有待商榷([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.316]])。

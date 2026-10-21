@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Fraction Face-Off!
@@ -121,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Fraction Face-Off! 列为初等数学 Tier 2 小组辅导达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性学术方案（[[Effect Size\|效应量]] $+0.51$）。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 Fraction Face-Off! 等强证据工具充实数学多层干预体系。
 > - [[Catch Up Numeracy]] — 同属初等数学强证据辅导方案，侧重 1:1 个别辅导；两者共同构成初等数学低成本助教干预的核心矩阵。

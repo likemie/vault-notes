@@ -54,7 +54,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Narayan_Spohrer_2025_Metrics"
@@ -81,9 +81,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 基于 IBM 百年产学实践的归纳提炼，同时整合系统[[Literature Review\|文献综述]]对度量、激励、奖励和文化四个主题的研究发现，构建一个"四要素动态校准"的分析视角。
 > - [[University-Industry Collaboration]] 作为分析的组织领域，度量、激励、奖励与文化是维持产学关系质量的四个相互关联的维度
 > - [[Six Rs of University-Industry Relations]] 由 [[Jim Spohrer]](2010)提出，将 IBM 的产学投资按功能分为七个领域(pp.88–89, 97)：Research（研究）、Readiness（技能准备）、Recruiting（人才招聘）、Revenue（收入）、Responsibility（社会责任）、Regions（区域发展），外加 Refresh（更新）作为动态调适维度
@@ -111,9 +109,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 实践者反思，基于 IBM 全球大学项目团队（遍布 45 个国家、百余名专职人员）数十年的运营经验，辅以系统[[Literature Review\|文献综述]]对度量、激励、奖励和文化四个主题的研究梳理(pp.86–88)。案例部分按投资规模分类呈现：小型（<$250K/年）、中型（$250K–$1M/年）、大型（>$1M/年），每个案例说明其目标、度量方式和创新元素(pp.91–95)。本章属于实践者反思文章，不涉及实证数据收集或分析方法。
 
 ---
@@ -254,9 +250,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > 1. 产学关系的度量、激励、奖励与文化是需要随企业商业环境和战略重点持续调适的动态系统。IBM 从 2000 年代的全球整合企业到 2010 年代的认知计算与混合云，每一次战略转型都要求重新校准六 R 投资组合中各领域的权重(pp.88, 96–97)。
 > 2. 度量指标随投资规模发生质变。小型项目（<$250K）以出版物和人才招聘为核心度量，IP 条款的过度谈判反而阻碍合作启动；中型项目（$250K–$1M）以建立能力中心的时间和研究生管道为核心；大型项目（>$1M）以合作密度、产业成员数量和外部资金撬动为核心(pp.91–95)。
 > 3. 信任是[[University-Industry Collaboration\|产学合作]]的根基，IBM 通过中央数据库为 2000 余所高校维护投资历史和成果全景，使每位 PEP 主管在访问大学前都能获取量化的关系数据。信任的可[[Operationalization\|操作化]]正是六 R 框架背后的[[Data Infrastructure\|数据基础设施]](p.89)。
@@ -265,9 +259,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > > “它涉及具有不同观点和影响预期的利益相关者。此外，影响本身的多维性质意味着它们是有形和无形的、短期和长期的、直接和间接的、积极和消极的，这使得它们的衡量过程非常复杂。”
 > ("It involves stakeholders with different outlooks and impact expectations. Moreover, the multidimensional nature of the impacts themselves means they are tangible and intangible, short- and long-term, direct and indirect, positive and negative, making their measurement process very complex.")(Cohen et al., 2024, 转引自 p.87)
 >
@@ -285,9 +277,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > ### 规模分类边界的弹性
 >
 > 作者坦承小型、中型、大型三个投资规模的分类"在某种程度上是任意的，边界是弹性的"（somewhat arbitrary in that boundaries are elastic），但多年运营经验表明这一分类框架仍可合理地概括不同参与模式(p.91)。这意味着分类不是为了精确定量度量而设计，而是为实践者提供一种粗略但可操作的比照工具。

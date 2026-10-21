@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # South-South Cooperation
@@ -86,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 南南教育合作（SSC） | 传统南北教育援助（North-South Aid） | 三方教育合作（Triangular Cooperation） |
 > |---|---|---|---|
 > | 行动主体 | 全球南方发展中国家之间 | [[OECD\|经合组织]]发展援助委员会成员国面向发展中国家 | 传统援助国/国际组织出资 + 南方枢纽国输出技术经验 + 受援国受纳 |
@@ -183,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1955 — 万隆会议与南南团结奠基** 万隆会议确立不结盟与南南团结原则，亚非国家首度提出摆脱殖民文化依附、开展自主文化教育合作的政治诉求。
 > - **1978 — 布宜诺斯艾利斯行动计划（BAPA）** 联合国通过《布宜诺斯艾利斯发展中国家间技术合作行动计划》，为南南技术与人力资源开发合作确立全球多边框架。
 > - **2000 — [[Forum on China-Africa Cooperation|中非合作论坛]]机制化建制** [[Forum on China-Africa Cooperation|中非合作论坛]]（FOCAC）正式成立，系统将留学生奖学金、官员研修与技术培训制度化，奠定新世纪中非南南教育合作格局。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
@@ -235,9 +231,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策[[Discourse Analysis|话语分析]]系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]第六届与第七届行动计划及教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，剖析南南合作框架下教育与人力资源开发[[Discourse|话语]]由传统单向奖学金培训向全面能力合作与跨大陆互联互通的演进机制。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 基于[[University Alliance of the Silk Road|丝绸之路大学联盟]]旗下三所中国行业高校面向中亚、东南亚与非洲开展的跨国定向[[Engineering Education|工程教育]]实录，运用[[Knowledge Diplomacy|知识外交]]与[[Capability Approach|能力进路]]框架解构双边政府、中外企业、高校与学生四方协同网络，实证论证了南南合作中实体基础设施能力建设与互惠共生机制。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合新朝贡框架与实证[[Fieldwork|田野调查]]，分析中国面向东南亚的高教输出实践，考察北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]等经验分享机制，揭示经贸外交主导下协议虚置与基建/文教投入失衡等机制性张力。

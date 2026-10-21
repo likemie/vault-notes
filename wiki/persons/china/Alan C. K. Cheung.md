@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alan C. K. Cheung
@@ -95,9 +95,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2000 年代初 — 约翰霍普金斯大学 CRRE 时期** 长期在美国 Johns Hopkins University [[Evidence-Based Education\|证据本位教育]]改革中心担任核心研究者，与 [[Robert Slavin]] 紧密合作，深度参与全美大规模整体学校改革（如 [[Success for All]]）与 K-12 阅读、数学干预项目的一阶与[[Meta-meta-analysis\|二阶元分析]]研发。
 > - **2010 年代 — 回港任教与循证教育跨国网络搭建** 加盟香港中文大学教育学院，担任教授兼教育行政与政策学系系主任；发起建立 Johns Hopkins-CUHK-NNU（约翰霍普金斯-港中大-南京师大）三方合作机制，建立面向全球华人的 [[Best Evidence in Brief\|BEiB]] 循证教育知识库，推动中文教育实证研究与国际[[Causality\|因果推断]]标准对话。
 > - **2021 — 主导《ECNU Review of Education》全球循证改革特刊** 与 [[Chen Xie]] 联合主编特刊 *[[Evidence-Based Reform]] in Education: Global Perspectives*，以四大活动框架组织全球 7 国学者，并联合 Slavin 与[[Tengteng Zhuang\|庄腾腾]]系统回应华语学界对[[Positivism\|实证主义]]的质疑（[[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021]]；[[Argument_Cheung_2021_ECNUROE\|Cheung & Xie, 2021]]）。
@@ -152,9 +150,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术导师／长期合作者** [[Robert Slavin]] — [[Evidence-Based Education\|证据本位教育]]改革先驱，共同发表多篇关于大规模实验、教育技术[[Meta-analysis\|元分析]]与循证改革的国际权威著作。
 > - **学术合作者** [[Chen Xie]] — 共同主编 *ECNU Review of Education* 全球循证改革特刊（2021）。
 > - **合作学者** [[Tengteng Zhuang]] — 合作撰写中国学者质疑证据本位教育的系统综述（2021）。
@@ -184,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

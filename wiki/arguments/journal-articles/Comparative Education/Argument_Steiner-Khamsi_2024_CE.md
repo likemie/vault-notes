@@ -132,21 +132,22 @@ related_facts:
   - "[[Multiple Indicator Cluster Surveys]]"
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[Definition and Selection of Competencies]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 sources:
   - "[[sources/Steiner-Khamsi_2024_CE/Steiner-Khamsi_2024_CE|Steiner-Khamsi_2024_CE]]"
 part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 107
+argument_related_count: 108
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -179,7 +180,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Policy Brokerage\|政策中介理论（Policy Brokerage）]]** | 发轫于[[Two-Communities Theory\|两社区理论]]（Caplan, 1979）与边界跨越研究（Mackillop et al., 2019）；阐明当国际组织将[[Knowledge Production\|知识生产]]、方案推介与项目资助融为一体时，中立的知识中介便转变为服务于特定政治议程的政策中介，并在充满歧义、争议与不确定性的决策环境中，通过量化指标确立权威。（pp.538–540） |
-> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | [[Christian Ydesen\|克里斯蒂安·伊德森]]（Christian Ydesen，2019）提出、结合[[Kerstin Martens\|克里斯汀·马滕斯]]与尼曼（Niemann & Martens, 2018）[[Soft Power by Hard Facts\|以硬事实施展软权力]]的论断，指涉由[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
+> | **[[Global Education Governing Complex\|全球教育治理复合体（Global Education Governing Complex）]]** | [[Christian Ydesen\|克里斯蒂安·伊德森]]（Christian Ydesen，2019）提出、结合[[Kerstin Martens\|克里斯汀·马滕斯]]与尼曼（[[Argument_Niemann_Martens_2018_GSP\|Niemann & Martens, 2018]]）[[Soft Power by Hard Facts\|以硬事实施展软权力]]的论断，指涉由[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）、[[OECD\|经合组织]]（OECD）、联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）、联合国儿童基金会（United Nations Children's Fund，UNICEF）与世界银行五大组织，连同私人基金会与商业资本共同构成的跨国规制网络，揭示非教育专门机构跨界掌控教育治理的结构根源。（pp.539, 544） |
 > | **[[Methodological Transnationalism\|方法论跨国主义（Methodological Transnationalism）]]** | Diane Stone (2020) 范式，打破将国家视为孤立容器的[[Methodological Nationalism\|方法论民族主义]]与线性等级霸权模型，将全球与国家界定为相互依存的关系性空间。（p.540） |
 > | **[[Externalization\|系统论外化假说（Externalisation Thesis）]]** | [[Niklas Luhmann\|卢曼]]（Niklas Luhmann）与施里弗（Jürgen Schriewer）的社会学系统理论概念，解释本土教育系统如何在内部构建准外部参考点，以化解国内政治冲突并维系系统自身的运作合法性与自我再生产。（p.546） |
 > | **[[Knowledge-to-Action Models\|知识-行动转化三代模型（Knowledge-to-Action，KTA）]]** | Best and Holmes (2010) 模型，区分单向传播推送、关系共建与系统程序生态三代视角，为考察政策周期不同阶段的[[Research Utilization\|证据使用]]提供[[Analytic Framework\|分析框架]]。（p.547） |
@@ -471,9 +472,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文指出的研究局限与未来议程包括：当前关于全球[[Policy Brokerage\|政策中介]]的研究仍过度聚焦于先行者[[OECD\|经合组织]]（特别是 [[PISA]]）与[[World Bank\|世界银行]]，未能充分展开对其他涉足教育的国际组织、区域枢纽及新兴公私伙伴的全面比较历史追踪；各国际组织在政策中介互动中的相互依赖机制（究竟是制度模仿、分而治之还是正面竞争）仍处于经验探索初期；面对公众对政治操弄的持续疑虑，政策中介如何在海量竞争者中持久维系科学公信力，仍是一个充满理论与实证张力的未决难题。（pp.544–545, 549–550）
 
 ---

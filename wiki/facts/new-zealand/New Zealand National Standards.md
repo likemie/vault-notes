@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-06'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # New Zealand National Standards
@@ -108,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **推动[[Learning Gain|增值评价]]理念普及** 促使新西兰中小学广泛关注学业进步轨迹，普及了利用评估工具指导日常教学的意识。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 92–93)]]
 > - **综合教师判断[[Reliability|信度]]缺失** 缺乏全国统考参照系使得教师主观判断在校际间存在巨大方差，导致统计汇总数据失真，未能提供可靠的全国宏观监测基线。
 > - **政策阻抗与课程窄化效应** 外部高风险问责引发教师群体抵制，部分学校出现压缩艺术与体育课时、集中精力应付读写测验的课程窄化倾向。
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

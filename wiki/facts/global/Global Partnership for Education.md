@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Global Partnership for Education
@@ -145,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -159,9 +157,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 剖析 GPE 的区域同侪经验汲取模式、[[Knowledge and Innovation Exchange\|KIX]] 枢纽运作及其与[[OECD\|经合组织]]、[[World Bank\|世界银行]]围绕慈善资本的利基竞争。
 
 ---

@@ -44,7 +44,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -71,16 +71,12 @@ updated: 2026-10-21
 > - **不存在中立认知** "没有认知方法能使其观察、测量、分析、比较、[[Decodification\|解码]]的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.18]])
 > - **民主缺失** 2002 年 [[Education at a Glance\|EAG]] 概念框架的重组"在没有任何真正民主辩论的情况下"完成(Bottani, 2008, p.18; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.14]])
 
-## 主要贡献
-
-> [!success|notitle] 主要贡献
+> [!success] 主要贡献
 > - **[[International Indicators of Education Systems]]** — 自 1988 年创立至 1997 年担任 INES 项目负责人近十年，从项目几乎不可能的阶段带领至首版 [[Education at a Glance\|EAG]] 出版([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.5, 8]])
 > - **[[Education at a Glance]]** — INES 的最终产品，成为 [[OECD]] 旗舰出版物
 > - **[[Performance Indicators]]** — 在指标方法论层面，Bottani 的实践和理论反思深刻影响了[[International Education\|国际教育]]指标的[[Epistemology\|认识论]]讨论
 
-## 主要著作
-
-> [!abstract|notitle] 主要著作
+> [!abstract] 主要著作
 > - Bottani, N. (1994). The [[OECD]] [[International Education]] indicators. *Assessment in Education: Principles, Policy and Practice*, 1, 333–350. — 早期综述([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.19]])
 > - Bottani, N. (1996). OECD international [[Performance Indicators\|education indicators]]. *International Journal of Educational Research*, 25, 279–288. — 详述指标的技术框架和挑战
 > - Bottani, N. (1998). The OECD educational indicators: Purposes, limits and production processes. *Prospects*, 28(1), 61–75. — 阐述指标的协作风格和俱乐部效应

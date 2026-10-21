@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Outcome-Based Apprenticeship Funding
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 结果导向[[Apprenticeship\|学徒制]]资助（Outcome-Based Funding） | 传统前置输入型补助（Input-Based Grants） | 企业自费学徒培训（Internal Corporate Apprenticeship） |
 > |---|---|---|---|
 > | **拨付时点与条件** | 阶段性后置拨付，必须核验真实录用与留任率 | 开班前一次性或按阶段人头拨付，仅考核出勤与结业 | 企业自主根据产线预算实时承担，无外部公共核验 |
@@ -116,9 +114,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2010s — 社会效益债券与按效果付费探索** 欧美公共政策领域尝试在社会与就业项目中引入 Pay-for-Success 机制。
 > - **2025 — [[Workforce Pell Grants 2025|劳动力佩尔助学金]]立法通过** 美国国会通过立法首次将联邦佩尔助学金向高质量短期职业技能培训开放。
 > - **2026 — 战略产业[[Apprenticeship|学徒制]]结果导向资助确立** 白宫科技政策办公室在《科学：新黄金时代》中明确将学徒制拨款全面改造为与录用留任严格绑定的结果付费模式。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
@@ -133,7 +129,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 提出通过结果导向[[Apprenticeship|学徒制]]资助与[[Workforce Pell Grants 2025|劳动力佩尔助学金]]联动，构建支撑国家先进制造业的技能培训财政基底。

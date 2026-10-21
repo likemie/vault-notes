@@ -98,7 +98,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
@@ -351,9 +351,7 @@ updated: 2026-10-17
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 分析主要聚焦于基础教育与延续教育（Primary, Secondary and [[Further Education]]），高等教育（Higher Education）层面的科学教育、大学考评文化与学术科研人才培养机制留待第六章（学术科学界）深入探讨。（p. 30）
 
 ---

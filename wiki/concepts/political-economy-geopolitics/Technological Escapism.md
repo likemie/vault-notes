@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Technological Escapism
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 技术逃避主义（Technological Escapism） | 市场必胜论（[[Market Triumphalism]]） | 炫耀性信念（[[Luxury Belief]]） |
 > |:---|:---|:---|:---|
 > | **核心属性** | 产业研发与资本配置的避险行为倾向 | 裁决社会价值与分配资源的意识形态 | 特权阶层彰显文化声望的观念资本 |

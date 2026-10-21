@@ -56,14 +56,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Research Ethics
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和[[Mixed Methods Research\|混合方法研究]]中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 伦理被定义为"对他人权利的原则性敏感"，而"虽然真理是好的，但尊重人的尊严更好"（Cavan, 1977, p. 810）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 87]]）。Kimmel (1988) 指出伦理与不伦理行为之间的区分不是二分的，而是连续体上的判断——伦理原则一般不是绝对的，必须在研究情境和其他相关价值的语境中解释。
@@ -300,16 +298,12 @@ updated: 2026-10-17
 
 ---
 
-## 资助研究伦理
-
-> [!warning|notitle]
+> [!warning] 资助研究伦理
 > 资助研究不免除研究者的伦理行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 129–131]]）。资助方不该告诉研究者如何开展研究、应该寻找什么结果、应该压制什么发现。研究者不应屈服于压力而背叛受访者的保密性、篡改数据、呈现有选择性的数据、做出并非源自数据本身的建议、或将数据用于个人利益。研究者的诚信必须是绝对的。
 
 ---
 
-## 典型伦理困境
-
-> [!example|notitle]
+> [!example] 典型伦理困境
 
 Creswell & Creswell (2022, 第4章) 提供了三个研究者在实际研究中可能遇到的典型伦理困境：
 

@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Educational Reductionism
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 教育还原主义 | 结构性批判社会学 | 技术主义[[School Effectiveness\|学校效能]]论 |
 > |---|---|---|---|
 > | **分析对象** | 孤立的课堂教学技巧与显性测量指标 | 家庭阶层、[[Cultural Capital\|文化资本]]与宏观生活机会结构 | 学校内部可控[[Variable\|变量]]与教师效能参数 |
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 — [[Basil Bernstein|伯恩斯坦]]破除补偿教育神话** 伯恩斯坦发表《教育无法补偿社会》，指认将社会贫困寄望于学校微观干预的教育万能论存在结构性盲区。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
 > - **1980–1990 年代 — 新自由主义与[[School Effectiveness|学校效能]]运动兴起** 随着[[New Managerialism|新管理主义]]与绩效问责扩散，政策层倾向弱化阶级再生产分析，转而倡导通过标准化数据规训学校。
 > - **2009–2010 年代 — 循证超级[[Meta-analysis|元分析]]与大论战** [[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》以[[Meta-meta-analysis|二阶元分析]]将教师推向核心位置；格雷斯、[[Ivan Snook|斯努克]]等学者在 NZJES 发起系统论战，明确将其定性为服务于紧缩政治的教育还原主义。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–92)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93–105)]]
@@ -186,8 +182,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 正式界定教育还原主义的理论机制，揭示排除非学校[[Variable|变量]]背后的政治免责后果。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 依据 70%–80% 方差分解基线，批评[[Meta-meta-analysis|二阶元分析]]模型将结构性不平等化约为教师个人绩效。

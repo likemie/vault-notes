@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Computational Thinking
@@ -157,8 +157,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中将计算思维与代码调试作为关键认知[[Dependent Variable\|因变量]]，证实结合反思量规的自适应[[Scaffolding\|教学支架]]能有效提升中小学生的算法设计表现。
 > - [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] — 在 AI 教育[[Meta-meta-analysis\|二阶元分析]]中探讨计算机科学与算法思维教学的独特干预效应，证实计算机科学学科获得显著的促学收益（$ES = 0.72$）。

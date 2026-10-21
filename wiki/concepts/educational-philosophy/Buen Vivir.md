@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Buen Vivir
@@ -127,9 +127,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|

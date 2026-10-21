@@ -12,7 +12,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -39,7 +39,6 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Foundation North]]"
   - "[[Achieve]]"
   - "[[Tomorrow's Schools Reforms]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Foundation North Māori and Pasifika Education Initiative
@@ -155,9 +154,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

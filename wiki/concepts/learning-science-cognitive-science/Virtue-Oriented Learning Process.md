@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Virtue-Oriented Learning Process
@@ -69,9 +69,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 以下按照学习过程从起点到终点的先后顺序，逐一说明每个美德在学习过程中的功能与表现。关于每个美德的文本来源和概念定义，参见 [[Learning Virtues]] 条目。本节聚焦各美德在实际学习行为中的过程性展开。
 
 ### 1. 诚心／认真 — 学习的第一步
@@ -213,9 +211,7 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > - 在 Li 关于[[Ideal Learner\|理想学习者]]的研究中，86%的中国受访者提到了一个或多个[[Learning Virtues\|学习美德]]（描述学习过程），而仅 38%的欧洲裔美国受访者提到类似内容——反之，96%的西方受访者提到了[[Mind-Oriented Learning Process\|心智导向]]过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.147]])
 > - 另一项关于当代中国小学生到高中生学习能动性的研究发现，普通中国学生主要以上述学习美德作为日常学习过程的基础
 > - 中国儿童早在四岁就开始内化这些学习美德，年龄越大的儿童表现出越强的美德导向
@@ -223,18 +219,14 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Learning Virtues]] — Learning Virtues 条目从文本来源和概念定义角度逐一介绍七种美德；本条目的焦点是美德在学习过程中的动态展开和功能角色，即从"开始学习"到"达到[[Refined Mastery\|精通]]"的完整过程路径
 > - vs [[Mind-Oriented Learning Process]] — 两者是同一著作中识别出的两种文化学习过程模型。前者以心智发展为焦点、以理解外部世界为目标；后者以美德培养为焦点、以自我完善为目标。在行为层面，二者在"记忆与理解"上的差异尤为突出，详见[[Rote Learning]]
 > - vs [[Confucian Learning Tradition]] — 儒家学习传统是宏观的[[Cultural Models\|文化模型]]理论；美德导向学习过程是该传统在具体学习行为层面的经验描绘
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Confucian Learning Tradition]] — 儒家学习传统为美德导向学习过程提供了深层[[Cultural Models\|文化模型]]
 > - [[Junzi]] — "君子"是学习者通过美德实践最终逼近的人格理想
 > - [[Heart and Mind for Wanting to Learn]] — "好学心"是美德导向学习过程的情感驱动力

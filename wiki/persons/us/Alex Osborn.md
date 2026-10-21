@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alex Osborn
@@ -69,9 +69,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1888 年** 出生于美国纽约州布朗克斯，后考入[[Alexander Hamilton|汉密尔顿]]学院获得文学学士学位，早期从事新闻报道与营销企划。
 > - **1919–1928 年** 与布鲁斯·巴顿等合伙创立广告代理机构，后合并壮大为全球知名广告巨头 BBDO（Batten, Barton, Durstine & Osborn），担任执行副总裁。
 > - **1939–1942 年** 在 BBDO 内部为克服员工开会时相互批评导致的灵感萎缩，正式开发并推行“有组织的[[Brainstorming\|头脑风暴]]（Brainstorming）”工作坊。
@@ -105,18 +103,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定了当代[[Creativity\|创造力]]心理学对“[[Divergent Thinking\|发散思维]]（Divergent Thinking）”与“[[Convergent Thinking\|收敛思维]]（Convergent Thinking）”交替循环的经典认知[[Paradigm\|范式]]，深刻启发了吉尔福德（Guilford）与托兰斯（Torrance）。
 > - **方法路径** 创立的[[Brainstorming\|头脑风暴]]规程成为全球使用率最高的发散技法；其 73 问检核表被埃伯尔（Eberle, 1971）精炼为广泛普及的 [[SCAMPER]] 模型。
 > - **政策与组织路径** 发起成立的创造性教育基金会（CEF）推动了布法罗大学设立全球首个创造学硕士学位，使创造力正式进入美国正规高等教育与 K-12 课程体系。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者／继承者** 悉尼·帕内斯（Sidney Parnes） — 共同创立布法罗学派，将奥斯本直觉模型学术化为严谨的 [[Creative Problem Solving\|Osborn-Parnes CPS]] 模型。
 > - **继承者** 罗伯特·埃伯尔（Robert Eberle） — 将奥斯本的检核表重构为家喻户晓的 [[SCAMPER]] 技法。
 > - **理论对话者** 埃利斯·保罗·托兰斯（E. Paul Torrance） — 借鉴奥斯本理念开发[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）。
@@ -136,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Venue Shopping
@@ -124,9 +124,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1993年 — 鲍姆加特纳与琼斯提出断裂平衡** 在《美国政治中的议程与不稳定性》中首次系统阐发制度场所转换，用于解释美国民权、核能与控烟政策的突变。
 > - **2003年 — 比较政治学与多层治理扩展** 普拉尔（Sarah B. Pralle）等学者将场所转换扩展至加拿大与欧洲的多层级治理网络，探讨地方利益如何游说跨国联盟。
 > - **2013年 — 教育联邦主义与横向治理应用** 麦克唐纳与韦瑟福德将该概念应用于美国跨州教育标准改革，展示了跨州横向行政组织与私人慈善基金如何作为新型场所突破宪政分权壁垒。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统记录了 [[Common Core State Standards|CCSS]] [[Policy Entrepreneur|政策企业家]]如何绕开易引发违宪争议的联邦立法场所，转换至各州行政联合会（[[National Governors Association|NGA]]/[[Council of Chief State School Officers|CCSSO]]）与慈善资本场所实现政策突围的[[Process Tracing|过程追踪分析]]。
 
 ---

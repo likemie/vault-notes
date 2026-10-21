@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,7 +41,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
-  - "[[Bengt-Åke Lundvall]]"
   - "[[Dominique Foray]]"
   - "[[Chris Freeman]]"
   - "[[Richard Nelson]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Bengt-Åke Lundvall
@@ -76,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1941** 出生。
 > - **1973–** 任职于丹麦奥尔堡大学（Aalborg University），组建产业与创新演化学术群体（IKE）。
 > - **1985** 出版《产品创新与[[User-Producer Interaction|用户—生产者互动]]》（*Product Innovation and User-Producer Interaction*），奠定互动学习微观理论基石。
@@ -138,9 +135,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者／思想盟友** [[Chris Freeman]] — 共同开创与推广[[National Innovation System|国家创新系统]]理论，在 SPRU 与奥尔堡学派之间长期保持深度协作。
 > - **合作者／思想盟友** [[Richard Nelson]] — 共同从[[Evolutionary Economics|演化经济学]]视角推进国家[[Systems of Innovation|创新系统]]跨国比较研究。
 > - **合作者／思想盟友** [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）— 共同主编 [[OECD]] 1996 年报告《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，系统构建“学习型经济”[[Analytic Framework|分析框架]]。
@@ -149,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

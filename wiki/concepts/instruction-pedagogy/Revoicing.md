@@ -44,7 +44,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Revoicing
@@ -199,7 +199,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统阐述了西方课堂[[Discourse|话语]]重铸的社会语言学机制及其与西方[[Mind-Oriented Learning Process|心智导向]]学习模型的共生关系，并与东亚[[Listening-Oriented Learning|倾听导向学习]]进行深度对比。

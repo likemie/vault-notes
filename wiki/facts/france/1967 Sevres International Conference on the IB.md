@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # 1967 Sevres International Conference on the IB
@@ -120,9 +120,7 @@ updated: 2026-10-15
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

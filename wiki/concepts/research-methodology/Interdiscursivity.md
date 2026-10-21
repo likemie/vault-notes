@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Interdiscursivity
@@ -156,9 +156,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980年代 — 理论渊源奠定** 继承巴赫金的对话主义与互文理论，学者们开始关注语言交际中声音复调与体裁混杂现象。
 > - **1992年 — [[Critical Discourse Analysis|批判话语分析]]体系确立** 费尔克拉夫在《[[Discourse|话语]]与社会变迁》（Discourse and Social Change）中正式确立互话语性概念，将其界定为连接文本形态与社会实践的分析枢纽。
 > - **2003年 — 文本分析与社会[[Operationalization|研究操作化]]** 费尔克拉夫在《分析话语：社会研究的文本分析》（Analyzing Discourse: Textual Analysis for Social Research）中系统阐明体裁、话语与风格三位一体的互[[Discourse Analysis|话语分析]]框架。
@@ -184,7 +182,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将互[[Discourse|话语]]性分析同[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]相结合，解构中国[[Belt and Road Initiative|一带一路]]教育政策中外交倡议、基建产能出海与学术交流的多重话语杂糅机制。

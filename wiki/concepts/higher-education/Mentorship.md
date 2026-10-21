@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Mentorship
@@ -200,7 +200,7 @@ updated: 2026-10-21
 > | [[Argument_Sandrone_2025_MEO\|Sandrone (2025)]] | 208 篇[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲 | 文本分析与学术树网络分析 | 仅 9.6%（20 篇）明确致谢导师；但 696/727 名科学诺奖得主同属一个学术家族树 | 导师制在科学精英培养中具有决定性作用，但存在制度化致谢缺失 |
 > | Ma et al. (2020) | 60 年间约 40,000 名科学家（1,167,518 篇论文） | 大规模学术大数据回归分析 | 导师质量是门生成功的强预测因子；门生在展示“知识独立性”（分立[[Research Topic\|研究主题]]）时影响力最高 | 师徒传承需要以知识独立为终极目标 |
 > | Liénard et al. (2018) | 18,856 名生物医学研究人员 | 开放获取数据库[[Causality\|因果推断]] | 博士后导师对受训者成功的影响显著大于博士导师；跨学科导师指导增益最高 | 确立博士后阶段是吸收多[[Metacognition\|元认知]][[Paradigm\|范式]]的黄金期 |
-> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 245–246, 251)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）产学导师网络与 TECHCON 大会 | 质性深度访谈（$N=19$）与历年档案计量分析 | 年均在读受资助博士生、历史累计毕业生数、工业导师参与度与招聘转化 | 年均资助近 1,500 名博士生；累计输送 9,200+ 名高层次工程毕业生；TECHCON 形成企业高管现场直聘管道 | 证实产业导师制超越单纯科研辅导，是推动前沿科技知识情境化并构建产业高端工程劳动力蓄水池的核心制度载体 |
+> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 245–246, 251)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）产学导师网络与 TECHCON 大会；质性深度访谈（$N=19$）与历年档案计量分析 | 年均在读受资助博士生、历史累计毕业生数、工业导师参与度与招聘转化 | 年均资助近 1,500 名博士生；累计输送 9,200+ 名高层次工程毕业生；TECHCON 形成企业高管现场直聘管道 | 证实产业导师制超越单纯科研辅导，是推动前沿科技知识情境化并构建产业高端工程劳动力蓄水池的核心制度载体 |
 
 ---
 
@@ -212,9 +212,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandrone_2025_MEO\|Sandrone (2025)]] — 基于 208 篇诺贝尔医学奖演讲与学术家族树[[Network Analysis\|网络分析]]，系统揭示导师制在科学精英培养中的决定性地位与致谢缺失现象。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项[[Experimental Research\|实验研究]]，定量确立导师指导在三维复合教学策略（A+D+M）中发挥关键认知催化功能（$g+ = 0.57$）。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 深入考察[[Semiconductor Research Corporation|半导体研究公司]]（SRC）产学导师制（Industrial Mentorship），揭示工业界导师如何通过将科研前沿情境化、消除信息不对称并依托技术大会（TECHCON）构建高阶工程人才直聘网络。

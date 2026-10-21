@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Stephen L. Carter
@@ -57,9 +57,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1954** 出生于华盛顿特区。
 > - **1976** 毕业于斯坦福大学，获历史上学士学位。
 > - **1979** 毕业于耶鲁大学法学院，获法学博士（J.D.）学位。
@@ -85,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

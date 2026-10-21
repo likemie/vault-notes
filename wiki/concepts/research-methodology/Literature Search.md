@@ -8,10 +8,10 @@ aliases:
 summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，在大规模系统综述中其语言与数据库检索覆盖边界直接限定实证证据的外部效度（Verger et al., 2019）。"
 type: concept
 domain: "research-methodology"
-related_count: 35
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - source/textbook
   - method/research-process
@@ -20,47 +20,33 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Research Topic]]"
   - "[[Inverted Triangle Literature Search]]"
-  - "[[Research Question]]"
-  - "[[Abstract]]"
-  - "[[Tracking]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Construct Validity]]"
   - "[[Content Validity]]"
-  - "[[Evaluation Research]]"
-  - "[[Generative Artificial Intelligence]]"
-  - "[[Reliability]]"
-  - "[[Construct]]"
-  - "[[Variable]]"
-  - "[[Man-Computer Symbiosis]]"
-  - "[[Tacit Knowledge]]"
-  - "[[Document]]"
 related_methods:
-  - "[[Literature Map]]"
   - "[[Systematic Review]]"
-  - "[[Meta-analysis]]"
-  - "[[Network Analysis]]"
+  - "[[Literature Map]]"
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
-  - "[[Michael Kratsios]]"
 related_facts:
   - "[[Education Resources Information Center]]"
-  - "[[EPPI-Centre]]"
   - "[[What Works Clearinghouse]]"
-  - "[[British Educational Research Association]]"
+  - "[[EPPI-Centre]]"
 related_instruments:
   - "[[PRISMA]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
-  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Literature Search
@@ -186,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪–20 世纪中叶 — 印刷卡片目录与实体索引时代** 文献检索主要依赖图书馆实体卡片目录、印刷索引年鉴（如 Index Medicus）、研究生研究书目与学者间互助追溯。
 > - **1966 — 计算机化专业数据库与布尔逻辑检索** 美国[[Education Resources Information Center|教育资源信息中心]]（ERIC）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的行业标准。
 > - **1990s–2000s — 网络学术搜索与引文网络分析** Web of Science、Google Scholar、中国知网（CNKI）等大型在线平台普及，SSCI 引文追踪（绵延法）与关键词倒三角检索成为规范流程。
@@ -234,8 +218,6 @@ updated: 2026-10-21
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 70–72)]] | 全球人工智能赋能科学研究（AI4Science）前沿实验室样本 | 科技战略政策调研与前沿工作流追踪 | AI 代理参与文献检索、代码生成与假说提出的任务占比 | 自主研究代理能够将微观文献检索与数据代码沙盒溯源时间缩短数个数量级；推动跨学科假说提出与证据链综合效率显著提升 | 质性深度战略研判 | 揭示智能科研工作流中文献检索自动化与人类战略综合聚焦的学术分工重组趋势 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐述文献检索七步法、主要学术数据库选用原则、搜索优先级排序与迭代检索策略。

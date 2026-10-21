@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cultural Models
@@ -114,9 +114,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -183,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨文化长时段的稳定观念框架、[[International Education|国际教育]]制度文本的表层[[Discourse|话语]]趋同、跨国课程改革的形式演化。
 > - **成立条件** 微观分析需依托丰富的本土语言与原型材料；宏观分析需区分官方政策修辞与实际行政资源配置，并结合微观[[Qualitative Observation|田野观察]]。
 > - **解释不足** 容易将复杂的社会阶级冲突简化为统一的文化共享，忽视文化内部弱势阶层对统治文化模型的批判与抵抗。
@@ -221,9 +217,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 运用[[Prototype Methods|原型方法]]系统提炼西方与东亚学习文化模型的认知人类学与文化心理学经典研究。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受限国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与多国微观[[Ethnography|民族志]]案例，系统对质世界文化模型与现实主义依附论，确立全球与本土辩证互动的分析[[Paradigm|范式]]。

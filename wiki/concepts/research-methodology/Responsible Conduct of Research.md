@@ -36,7 +36,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-09-15
+updated: 2026-10-22
 ---
 
 # Responsible Conduct of Research
@@ -51,9 +51,7 @@ updated: 2026-09-15
 
 ---
 
-## 核心构成
-
-> [!abstract|notitle]
+> [!abstract] 核心构成
 > RCR 涵盖以下四个维度([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, pp.265–266]])：
 
 1. **[[Research Ethics|研究伦理]]** 包括人类受试者保护（[[Institutional Review Board|IRB]] 审查与[[Informed Consent|知情同意]]）、动物受试者保护和研究场所安全
@@ -73,9 +71,7 @@ updated: 2026-09-15
 
 ---
 
-## 在产学合作中的角色
-
-> [!note|notitle]
+> [!note] 在产学合作中的角色
 > 在[[University-Industry Collaboration\|产学合作]]中，RCR 的差异构成一个重要的文化和制度摩擦点。企业习惯于内部研发的标准化质量流程，而大学的研究过程以个体教师的[[Academic Freedom\|学术自由]]和[[Creativity\|创造性]]独立性为核心，不设统一的质量控制体系。这意味着合作协议需要在企业方的质量期望和大学方的学术文化之间寻找平衡，而 RCR 培训可以被视为大学方向企业展示其质量承诺的一种制度安排（pp.265–266）。
 
 ---

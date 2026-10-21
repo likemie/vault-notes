@@ -124,7 +124,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Mitter_2009_Europe"
@@ -411,9 +411,7 @@ publisher: "Springer"
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **学术版图调查的非穷尽性** 原文所列出的欧洲各国大学教席、独立研究所与学者名单旨在提供代表性范例，不声称具备统计学意义上的完整覆盖。（p.89）
 > - **跨洲与跨语言研究的沟通屏障** 跨大洲合作尽管克服了地理隔离，但跨越不同文化与学术传统的研究者在语言转换、概念对称性与专业胜任力上仍面临不可低估的深层隔阂。（p.97）
 > - **非正式政策影响难以客观测度** 相较于正式咨询报告，比较学者通过人际网络与非正式渠道对决策者产生的隐性渗透极其复杂，难以在实证经验层面进行精确量化评估。（p.96）

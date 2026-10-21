@@ -9,29 +9,21 @@ aliases:
 summary: "以预先界定的标准或学习结果为判断依据，用于识别个体是否达标及其表现质量。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/measurement
   - theme/assessment
 related_concepts:
   - "[[Norm-Referenced Test]]"
   - "[[Domain-Referenced Test]]"
-  - "[[Effective Teaching]]"
-  - "[[Assessment Backwash]]"
-  - "[[Rote Learning]]"
   - "[[Concept Mapping]]"
-  - "[[Homework]]"
+  - "[[Effective Teaching]]"
   - "[[Constructive Alignment]]"
-  - "[[International Baccalaureate]]"
-  - "[[Multiple-Choice Questions]]"
-  - "[[Random Sampling]]"
-  - "[[Confidence Interval]]"
-  - "[[Item Analysis]]"
-  - "[[New Public Management]]"
   - "[[School Choice]]"
+  - "[[International Baccalaureate]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[Louis Cohen]]"
@@ -40,13 +32,14 @@ related_persons:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Biggs_1999_HERD]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+related_methods:
+  - "[[Multiple-Choice Questions]]"
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Criterion-Referenced Test
@@ -188,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1963 — 标准参照测验概念的提出** 格拉泽（Robert Glaser, 1963）正式区分常模参照与标准参照，将教学测验的焦点从学生之间的相互排位转向对预设学习目标的掌握程度判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Cohen et al., 2011, Ch. 24.3)]]
 > - **1970–1975 — 进入跨国资格认证考试** [[International Baccalaureate|国际文凭]]（IB）在试验阶段以预定标准判定考生是否获得文凭，不按当年考生比例固定合格配额。随着考生规模与多语言学校的扩展，IB 维持年度达标判定，使标准参照从班级测验扩展至跨国升学认证。[[Argument_Peterson_1987_OpenCourt_Ch04|(Peterson, 1987, Ch. 4, pp. 67–68)]]
 > - **1999 — 融入建构性对齐课程系统** 比格斯（[[John Biggs|Biggs, 1999]]）将标准参照评估整合进建构性对齐理论体系。目标用认知动词表达，教学活动促成相应行为，评估任务依据质量层级判断表现，使标准参照成为教学系统整合的关键中枢。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 64–70)]]
@@ -234,8 +225,6 @@ updated: 2026-10-21
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 256)]] | 智利全员教育质量测量系统（SIMCE） | 跨国测试问责政策工具比较案例分析 | 评估工具属性（标准参照/常模参照）与政策挂钩机制 | SIMCE 结合各年级学科达标标准（标准参照）与全国百分位数校际排位（常模参照），将结果直接链接至代金券择校与学校惩戒问责 | 制度比较分析 | 证实国家大规模评估在实践中常呈现标准参照与常模参照的功能杂合 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 记录 IB 考试在试验阶段以标准参照方式判定文凭，提供 1970–1975 年考生规模与年度通过率实证数据。

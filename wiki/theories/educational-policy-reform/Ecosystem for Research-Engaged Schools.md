@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ecosystem for Research-Engaged Schools
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -120,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** [[Research-Engaged School\|研究参与学校]]的多层级条件、学校与系统的相互依赖、以及研究参与在不同生态位置的表现。
 > - **谨慎使用** 需要与"什么算研究参与"的具体标准配合（如 [[Quality Use of Research Evidence Framework\|QURE]]），否则层级容易停留在描述层面。
 > - **不适合解释** 不回答特定[[Research Utilization\|研究使用]]的质量高低，也不替代对具体干预的因果评估。
@@ -130,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **2019 — 框架提出** Godfrey 与 Brown（2019）在《[[Research-Engaged School\|研究参与学校]]的生态系统》中提出五层生态模型，并把[[Knowledge Mobilisation\|知识动员]]表示为学校与系统的双向纽带。
 > - **2026 — 作为先验框架子主题被采用** Hagevold 等人（2026）以生态模型为初始框架的个体、组织与系统层级提供子主题，并据实证结果把[[Governing Mechanisms of Research Use\|研究使用治理机制]]重构为四类跨层机制。
 
@@ -145,7 +139,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 把生态模型作为[[Framework Synthesis\|框架综合]]先验框架的子主题来源，为个体、组织与系统层级提供结构，并在系统层级补充社会因素与教育政策两个子主题。

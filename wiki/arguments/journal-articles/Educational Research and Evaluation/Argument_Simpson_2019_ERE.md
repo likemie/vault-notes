@@ -47,33 +47,25 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2019
 doi: ""
 citation_aliases:
   - "Simpson, 2019"
   - "Simpson (2019)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > [[Effect Size\|效应量]]（effect size）被广泛假定为测量教育干预有效性的指标，并以此为基础驱动全球教育政策（Hattie 的 [[Visible Learning]]、[[Education Endowment Foundation\|EEF]] Toolkit et al.）。本文试图回答：**效应量是否真正测量教育的有效性或影响力？如果不是，它对教育政策应该扮演什么角色？**
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 本文不依赖于特定的理论框架，而是通过**思想实验（thought experiment）** 和**现实案例**进行概念分析和逻辑论证，揭示[[Effect Size\|效应量]]作为"教育有效性"代理指标的[[Category Mistake|范畴错误]]（category error）。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：思想实验 + 概念分析 + 现实案例验证
 > - 核心策略：构造一个简单可控的教学干预（教一个匈牙利单词），展示仅改变测量方式即可使同一干预的[[Effect Size\|效应量]]在 0 到无穷大之间变化
 > - 现实案例：引用 Merrell and Kasim (2015)、Sibieta (2016)、Sibieta et al. (2016) 等 [[Education Endowment Foundation\|EEF]] 资助的评估报告，验证同一干预在不同测量上产生截然不同的效应量
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > ### 1. 思想实验：教一个匈牙利单词
 >
 > 假设随机抽取英语使用者，随机分为两组。实验组被告知匈牙利语单词 *oktatás* 的英文翻译是 "education"，对照组无任何信息。两组立即参加包含 10 个匈牙利语单词的翻译测试（其中一个是 *oktatás*）。
@@ -128,17 +120,13 @@ citation_aliases:
 >
 > 合并效应量仅在极端条件下有意义："当且仅当同一干预在多项研究中使用相同的样本、与相同的控制活动比较、在相同的测量上（并使用相同的研究设计和统计分析方法）进行评估时，才能合并这些研究的效应量"(p.106)。"当然，在现实中，这种直接复制和比较并不会发生，也不是'证据本位政策'的基础"。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - **[[Effect Size\|效应量]]不是教育有效性的测量** 同一干预可以产生从 0 到无穷大的效应量，取决于研究者的设计选择(p.102)
 > - **效应量是试验清晰度的测量** 它反映的是研究设计的信噪比，而非干预的教育价值(p.104)
 > - **[[Direct Instruction\|直接教学]]干预在[[Meta-meta-analysis\|元-元分析]]排名中位居前列，仅仅说明研究者更容易在这些领域进行低噪声的试验**——而非这些干预更具教育影响力(p.105)
 > - **[[Evidence-Based Education\|EBE]] 支持者使用 Freedman (2009) 识别的多种防御策略** 列举假设（但不检验）、声称批评者未能[[Falsification\|证伪]]假设、质问"有什么危害"(pp.106-108)
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “[[Effect Size\|效应量]]是对整个试验的测量；它不仅仅是对干预本身的测量。”
 > ("[[Effect Size]] is a measure of the trial as a whole; it is not a measure of the intervention alone.") (p.100)
 >
@@ -151,9 +139,7 @@ citation_aliases:
 > > “某些干预形式被推广为更有效，而事实上，证据仅仅表明在这些领域开展更清晰的研究可能更容易。这种错误识别正在引导政策，驱动稀缺资源的使用，并导致教学方法的重大改变。这就是危害所在。”
 > ("Forms of intervention are promoted as more effective when, in fact, the evidence merely indicates they are areas in which it may be easier to conduct clearer studies. This misidentification is leading policy, driving the use of scarce resources and causing major changes in teaching methods. There's the harm.") (p.108)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 论文自身承认[[Effect Size\|效应量]]在特定条件下有合法技术用途（研究设计中的[[Sample Size Determination\|样本量]]计算），但强调这与政策用途有根本区别(p.104, 106)
 > - 效应量的合法使用需要研究者在选择设计特征时有一定自由度——在行为干预等情境中，伦理约束（如不能使用"无干预"对照）限制了研究者操控信噪比的能力(p.105)
 > - Cheung and Slavin (2016) 发现研究者自编测量的效应量平均是独立测量效应量的两倍——这一发现直接从思想实验的逻辑中得出：研究者可以（也确实）通过设计与干预内容紧密结合的测试来减少噪声(p.108, Note 3)

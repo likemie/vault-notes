@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Gender Differences in Academic Achievement
@@ -188,9 +188,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 提供了十年级科学课堂中女生在长周期成绩、微观任务表现及[[Epistemological Beliefs\|认识论信念]]成熟度（能力可塑性与确定知识）上系统性领先的量化实证，并提出了心理性别角色取向的理论解释。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 基于大规模挪威中小学样本，论证了[[School Norm Adaptation\|学校规范适应]]与动机努力是解释教师评定[[Academic Achievement\|学业成绩]]性别差异的核心中介机制。
 > - [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] — 从数理统计学视角审查《[[Visible Learning|可见的学习]]》，指出将研究文献数量混同于现实影响因素导致男孩学业优势假象，揭示[[Meta-meta-analysis|二阶元分析]]脱离经验事实的方法论缺陷。

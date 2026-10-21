@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Statistical Analysis Plan
@@ -205,8 +205,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详细阐明 [[Education Endowment Foundation\|EEF]] 如何通过将 SAP 前置备案、[[ISRCTN]] 试验注册与 NPD 数据库归档深度咬合，打造全链条透明与可复现性治理体系。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 反思[[Meta-meta-analysis\|元综合]]中纳入研究在分析方法学上的质量门槛，强调先验协议对控制二阶综合偏差的关键价值。

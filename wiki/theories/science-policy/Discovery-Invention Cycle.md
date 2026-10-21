@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Discovery-Invention Cycle
@@ -139,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 物理科学、微电子、先进制造、材料工程等高度依赖大型精密仪器和极端工艺条件的硬科技领域；国家实验室与[[National Innovation System|国家创新体系]]的宏观顶层设计。
 > - **成立条件** 需要具备跨越数十年的完整技术史料与知识演进图谱；需要存在科学界与工程技术界紧密协作的组织土壤。
 > - **解释不足** 对市场驱动型、商业模式主导以及基于社会文化与组织创新的轻资产领域解释力较弱；尚未对科研人员在微观团队中的激励机制提供细致刻画。
@@ -168,7 +166,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 首次系统提出发现-发明循环理论，以 1956–2009 年信息通信领域的六届诺贝尔物理学奖谱系为实证支撑，全面批判[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]。

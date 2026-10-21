@@ -29,21 +29,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-10-22
 ---
 
 # Affect-Respect and Ought-Respect
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Li 区分了两种不同类型的尊重。义务性尊重（ought-respect）是每个人基于政治、道德和法律考量都应获得的尊重，不与特定社会情境或关系挂钩。情感性尊重（affect-respect）则是在特定社会情境或关系中生成的一种情感——当个体真正认可、承认和仰慕他人的功绩、成就、道德品质或地位/角色/权力时产生([[Argument_Li_2012_Cambridge\|Li, 2012, p.71–72]])。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > **义务性尊重（ought-respect）**
 > - 基于权利本位的道德原则，受法律保障
 > - 不因时间或情境变化而变化
@@ -57,9 +53,7 @@ updated: 2026-08-20
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **情感的 vs 理性的** 义务性尊重不依赖具体情境或关系，更像一种理性建构的社会规范；情感性尊重则在具体的[[Student-Teacher Relationship\|师生关系]]或榜样关系中自然生成，带有明显的情感激活特征([[Argument_Li_2012_Cambridge\|Li, 2012, p.71–72]])。
 
 **与学习的关系** 情感性尊重对学习有重要的积极意义：
@@ -69,9 +63,7 @@ updated: 2026-08-20
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > Li 对中文尊重概念的研究发现，中国人尊重的对象比西方多出了两个类别：父母/长辈/亲属，以及教师/导师/学者。教师/导师/学者类别对学习的意义尤为重大——它意味着在课堂中就有可供效仿的榜样([[Argument_Li_2012_Cambridge\|Li, 2012, p.72–73]])。
 
 Hsueh 等人对中美中小学生尊重教师原因的研究发现：

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Technology Deficit of Education
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 教育的技术赤字 | 工业制造技术规制 | 医疗循证干预技术 |
 > |---|---|---|---|
 > | **技术装置本质** | 缺少确定性的投入-产出因果转化函数 | 确立的标准物理、化学与流水线工艺规程 | 具有生物化学与病理生理学因果靶点的干预规程 |
@@ -147,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979 — 系统论起源** [[Niklas Luhmann\|尼克拉斯·卢曼]]与卡尔-埃伯哈德·舍尔合著《教育系统的反思问题》（*Reflexionsprobleme im Erziehungssystem*），首次系统提出教育的技术赤字命题，奠定社会学系统论分析教育因果困境的理论[[Paradigm\|范式]]。
 > - **1990–2000年代 — 绩效治理与[[New Public Management\|新公共管理]]反思** 随着[[New Public Management\|新公共管理]]（New Public Management，NPM）在西方普及，教育学者引入该概念批判以标准化测验与指标问责模拟工业质量管理的虚幻性。
 > - **2024 — 全球教育[[Policy Brokerage\|政策中介]]生态分析** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将该概念与歧义性、公共争议性并列，作为剖析信息过载时代国际组织政策中介霸权兴起的底层生态支柱。
@@ -185,7 +181,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合数字化时代的信息过载环境，将教育的技术赤字作为揭示主权国家何以持续向国际组织购买[[Policy Brokerage\|政策中介]]工具的核心生态机制。

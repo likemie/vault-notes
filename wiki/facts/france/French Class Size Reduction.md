@@ -34,29 +34,21 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # French Class Size Reduction
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 2017 年，法国教育部在弱势地区缩小一、二年级[[Class Size\|班额]]，目标是减少富裕背景学生与贫困背景学生之间的[[Academic Achievement\|学业成就]]差距([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 政策将弱势地区一、二年级班级人数从 24 人降至 12 人。由于需要增加大量教师，该政策成本较高；法国教育部在实施前查阅了[[Class Size\|班额]]缩减影响的证据([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 时间线
-
-> [!note|notitle]
+> [!note] 时间线
 > - 2017 — 法国教育部在弱势地区实施一、二年级[[Class Size\|班额]]缩减，从 24 人降至 12 人([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 实施情况
-
-> [!example|notitle]
+> [!example] 实施情况
 > 政策实施需要大量新增教师。它是 Pellegrini & Vivanet 所说“部分基于证据”的案例：法国教育部在政策前查阅了 Bressoux 等 2003 年研究，该研究显示[[Class Size\|班额]]缩减对阅读和拼写有小幅正效应([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
 ## 效果与评价
@@ -69,14 +61,10 @@ updated: 2026-10-16
 > - Bressoux 等 2003 年研究：阅读 ES = +.14，拼写 ES = +.22
 > - Campbell 元分析：阅读 ES = +.11，p = .0003；数学 ES = -.03，p = .75([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27-28]])
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 > Pellegrini & Vivanet 的评论不是否认缩小贫富学生成就差距的重要性，而是指出[[Class Size\|班额]]缩减可能是昂贵且相对低效的方案；成人辅导等其他策略在多项[[Meta-analysis\|元分析]]中对[[Academic Achievement\|学业成就]]有更强证据([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.28]])。
 
-## 相关概念／理论
-
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 > - [[Class Size]] — 该政策是欧洲班额政策的证据知情案例。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 该案例用于说明证据能够帮助政策制定者比较成本和效果。
 

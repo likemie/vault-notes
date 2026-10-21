@@ -35,14 +35,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Crotty's Four Levels of Research Design
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Crotty (1998) 提出的四层研究设计框架，将研究设计中的关键决策组织为从最抽象到最具体的四个层次。自上而下依次是：[[Paradigm\|范式]]世界观（paradigm worldview）→ 理论透镜（[[Theoretical Standpoint\|theoretical lens]]）→ 方法论路径（methodological approach）→ 数据收集方法（methods of data collection）([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.71]])。
 
 ## 四个层次
@@ -66,8 +64,6 @@ updated: 2026-10-16
 > [!example] 示例
 > 一项[[Mixed Methods Research\|混合方法研究]]可能沿着四层展开：世界观层采用[[Pragmatic Paradigm\|实用主义]] → 理论透镜层采用女性主义视角 → 方法论路径层选择混合方法[[Convergent Design\|聚敛式设计]] → 数据收集方法层同时使用 Likert 量表[[Questionnaire\|问卷]]和[[Semi-structured Interview\|半结构化访谈]]。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **Crotty 的四层 vs 理论与世界观的区别**。Crotty 的框架将世界观和理论放在同一个层级系统中，前者比后者更抽象。世界观可以隐含在研究中，理论则通常来自文献并被明确陈述。二者不是对立关系，而是上下位关系。
 

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Gonski 2.0
@@ -122,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -144,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪澳大利亚公立教育中的[[Venture Philanthropy\|风险慈善]]与国家重组网络，揭示 [[Social Ventures Australia\|SVA]] 如何以 [[Evidence for Learning\|E4L]] 运行成效为原型向 Gonski 2.0 审查委员会递交专项建议书，以及报告第 23 条建议如何促成国家向私营中介催化平台的转型。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 Gonski 2.0 第 23 条建议背后的[[Policy Network\|政策网络]]装配，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 设立的企业法架构。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 分析 Gonski 拨款审查如何试图重振需求本位公平原则，以及卓越教育政策重点向绩效产出转移对基层学校自治的影响。

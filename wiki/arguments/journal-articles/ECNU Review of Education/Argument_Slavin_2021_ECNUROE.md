@@ -54,33 +54,25 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2021
 doi: ""
 citation_aliases:
   - "Slavin et al., 2021"
   - "Slavin et al. (2021)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > [[Evidence-Based Reform\|证据本位改革]]如何推动教育进步？首次从国际比较视角（中国、美国、英国）对比三个国家的[[Evidence-Based Education\|证据本位教育]]改革现状，探讨中国如何借鉴美英经验、同时美英如何从中国的快速发展中学习。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > 以 Slavin (2008, 2013, 2017, 2020) 持续发展的[[Evidence-Based Education\|证据本位教育]]改革理论为基础，将[[Evidence-Based Reform\|证据本位改革]]定义为四项核心活动：(1) 找出什么在每门学科和年级最有效；(2) 让教育者和政策制定者了解被证明有效的项目；(3) 提供资源和激励使[[School Leadership\|学校领导]]能够实施被证明有效的项目；(4) 创建政策和系统以持续增加有效实践的知识(p.9)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：国际比较综述（international comparative review）
 > - 数据来源：中国 CNKI 数据库（~5000 篇"教育实证研究"文献计量分析）、五种 CSSCI 期刊 2012-2016 年出版物分析(Wang, 2017)、ECNU 五届教育实证研究论坛资料（2015-2019）、美英政策文件（[[Every Student Succeeds Act\|ESSA]]、i3/[[Education Innovation and Research\|EIR]]、[[Education Endowment Foundation\|EEF]]）和网站（[[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]、[[Evidence for ESSA]]、[[Best Evidence in Brief\|BEiB]]）
 > - 覆盖区域：中国（含大陆和香港）、美国、英国
 
-## 核心论证
-
-> [!example|notitle] 核心论证
+> [!example] 核心论证
 > 1. **[[Evidence-Based Reform\|证据本位改革]]的必要性** 教育应跟随医学、农业、技术的先例——研究→开发→评估→推广的良性循环已在这些领域带来革命性进步。"直到最近，教育在任何重大程度上都未参与证据本位的实践或政策。然而教育没有理由不能跟随医学、农业、技术和工程的先例"(p.9-10)
 > 2. **中国现状**[[Evidence-Based Education\|证据本位教育]]研究在中国学术界快速增长——CNKI 收录文章从 1990 年 2 篇增至 2018 年 477 篇(p.11)。但证据本位研究在五种 CSSCI 期刊 2012-2016 年仅占约 20%(Wang, 2017)，袁振国估计总体不到 10%(p.13-14)
 > 3. **中国的制度建设** ECNU 自 2015 年起连续五年举办全国教育实证研究论坛，2017 年 14 所大学和 32 家 CSSCI 期刊联合发布"华东师范大学宣言"，提出 10 条推进措施(p.10-15)
@@ -89,18 +81,14 @@ citation_aliases:
 > 6. **信息传播基础设施**[[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]（最佳证据百科全书）、[[Evidence for ESSA]]（~100 个阅读和数学项目达标，截至 2020 年 1 月 100,000+ 独立用户）、[[Best Evidence in Brief\|BEiB]]（每两周向数万订阅者发送，已扩展至中文版）(p.19-21)
 > 7. **对中国的建议(a)** 识别少数区域试点政策和实践以学习如何在中国情境中运作；(b) 建立从创新到评估到推广的全程能力——"需要大量高技能人才来创造或改编创新""需要更多熟练的评估者""需要能够持续总结有效项目证据并使其易于为教育者获取"(p.21-22)
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - 中国的教育实证研究出版物呈指数增长（1990, p. 2 篇 → 2018, p. 477 篇），但占总研究产出比例仍低（<10-20%）(p.11-14)
 > - ECNU 实证研究论坛（2015-2019）五年间从单一会议扩展为 16 所大学联合组织的多场平行会议(p.10-12)
 > - 2017 年"华东师范大学宣言"是标志性事件：14 所大学 + 32 家 CSSCI 期刊，提出课程建设、青年教师培训、提高发表数量与质量、年度全国论坛、编辑出版国际高质量实证研究、提高评估标准、增加实证项目比例、设立杰出成果奖、发布年度进展报告、向公众公开教育数据等 10 条措施(p.14-15)
 > - [[Evidence for ESSA]] 已审查 K-12 阅读和数学项目，约 100 个项目达到 [[Every Student Succeeds Act\|ESSA]] 标准，"强"证据类别数量最多；已审查 24 个[[Social-Emotional Learning\|社会情感学习]]项目和 8 个出勤项目(p.20)
 > - [[Best Evidence in Brief\|BEiB]] 网络已扩展至四个节点：JHU（美英版）、约克大学（美英版）、NNU（中国大陆中文版）、CUHK（海外华人版）(p.20-21)
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > "证据本位研究是从思辨哲学到科学的转折点，是教育研究深化的里程碑，是理论创新的支柱，是真正解决争议和达成共识的唯一方法，是建立现代智库的可靠方法"(Yuan, 2017, cited on p.13)
 >
 > > "聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想"(Li, 2018, cited on p.15)
@@ -109,9 +97,7 @@ citation_aliases:
 >
 > > "证据一直是医学、农业、技术和其他领域世界进步的关键。为什么它不应该成为改善教育的关键?"
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 论文以论证性/倡导性为主，未提供新实验数据
 > - 对美英[[Evidence-Based Reform\|证据本位改革]]成果的讨论偏向正面，未充分讨论批判文献（如 Biesta et al.的系统批评）
 > - 中国部分主要依赖[[Primary and Secondary Documents\|二手文献]]计量数据(Wang, 2017)，未独立收集原始数据

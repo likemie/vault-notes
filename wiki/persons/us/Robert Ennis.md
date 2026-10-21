@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Robert Ennis
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1927** 出生于美国。
 > - **1958** 获得密歇根大学哲学博士学位，随后任教于康奈尔大学（Cornell University），主持[[Critical Thinking\|批判性思维]]项目与测试开发。
 > - **1970–2000s** 长期任教于伊利诺伊大学厄巴纳-香槟分校（UIUC），创立哲学与教育跨学科[[Paradigm\|研究范式]]。
@@ -90,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 广泛采用 Ennis 的[[Critical Thinking\|批判性思维]]定义与四类课程分类模型，并在 341 项实证研究中验证其有效性。
 > - [[Ennis's Curricular Typology]] — Ennis 提出的批判性思维课程组织理论条目。
 > - [[Domain Specificity]] — 探讨 Ennis 通用论原则与 McPeck 学科特异论的历史交锋。

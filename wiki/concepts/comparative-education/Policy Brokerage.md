@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_persons:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:
@@ -69,7 +70,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Brokerage
@@ -97,9 +98,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 政策中介（Policy Brokerage） | [[Knowledge Mediation\|知识中介]]（Knowledge Brokerage） | [[Policy Borrowing\|政策借用（Policy Borrowing）]] |
 > |------|--------|----------------|----------------|
 > | **行动主体** | 兼具[[Knowledge Production\|知识生产]]、倡导与资助能力的跨国组织、智库与官方扶植中介 | 相对中立的学术传播机构、第三方评估中心与知识翻译者 | 主权国家政府内部的政策制定者、行政官员与政治联盟 |
@@ -200,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979 — [[Two-Communities Theory\|双社群理论]]奠基** Caplan 提出科学社群与政治社群之间存在文化壁垒与认知鸿沟，强调需要桥梁行动者克服知识流动阻碍。
 > - **2010 — 知识-行动联结三代模型** Best & Holmes 梳理[[Research Utilization\|知识利用]]演进阶段：第一代单向推送模式、第二代行动者关系共建模式，以及第三代关注组织生态、制度能力与政策周期的系统性程序模式。
 > - **2018 — 跨国[[Network Governance\|网络治理]]与[[Soft Power by Hard Facts\|硬事实软权力]]** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 指出以[[OECD\|经合组织]]为代表的国际组织凭借量化指标体系充当知识经纪人，通过探究与调解模式行使软治理。
@@ -241,9 +238,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] — 揭示经合组织作为跨国政策知识经纪人，如何通过探究与调解双模协同推介最佳实践处方以施展软治理。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。

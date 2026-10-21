@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # G. Reid Lyon
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1978** 获得新墨西哥大学心理学与特殊教育博士学位，开启儿童学习障碍与大脑神经机制研究。
 > - **1991–2005** 出任 [[National Institute of Child Health and Human Development|NICHD]] 儿童发展与行为分支主管，全权掌控联邦阅读科研项目招标，构建起庞大的认知神经心理学研究网络。
 > - **1997** 出席美国国会众议院教育委员会听证会，其宣称的直接拼读“科学定论”被委员会主席比尔·古德林原封不动转化为法案条文。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
@@ -104,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政策路径** 直接塑造了从《[[Reading Excellence Act|卓越阅读法案]]》到 [[No Child Left Behind Act 2001|NCLB]] 的成文法证据规范，将“科学本位阅读研究”（SBRR）写入美国法典。
 > - **方法路径** 推动了美国教育研究界的[[Positivism|实证主义]]转向，使因果[[Randomised Controlled Trials|随机对照实验]]成为联邦政府衡量教育“金标准”的绝对基准。
 > - **产业路径** 其背书的[[Direct Instruction|直接教学]]法直接催生了《开放法院阅读》（[[Open Court Reading]]）等商业教材在全美公立学校数十亿美元的垄断采购。
@@ -122,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **政商联盟伙伴** 比尔·古德林（Bill Goodling）— 众议院教育委员会主席，直接照搬里昂证词转化为法案条款。
 > - **政商联盟伙伴** 罗伯特·斯威特（Robert Sweet）— 国会高级幕僚兼全国正确阅读基金会主席，连接出版商与委员会。
 > - **学术论敌** [[Ken Goodman]] — [[Whole Language|全语言]]运动先驱，严厉批判里昂借国家权力抹杀阅读人文性与教师自主权。
@@ -148,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

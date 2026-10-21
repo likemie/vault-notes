@@ -30,19 +30,15 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Dollinger et al. Framework for UI Collaboration
 
-## 核心主张
-
-> [!tip|notitle]
+> [!tip] 核心主张
 > Dollinger et al.（2018）提出了一个用于理解和评估国际[[University-Industry Collaboration\|产学合作]]的三因素框架，将影响合作的因素归纳为三个维度：**环境因素（environmental）**、**技术因素（technical）** 和**管理因素（managerial）**。每个因素下又包含具体属性，如研发文化和更广泛的劳动力背景被归类为文化与劳动力属性（p.316）。
 
-## 三因素结构
-
-> [!abstract|notitle]
+> [!abstract] 三因素结构
 > 三个因素及其涵盖的关键方面（p.316；另见 Fig. 17.2）：
 
 | 因素 | 涵盖属性 | 说明 |
@@ -59,9 +55,7 @@ updated: 2026-10-16
 > [!example] 图17.2：Dollinger et al. 国际[[University-Industry Collaboration\|产学合作]]框架
 > ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/Figure_17-2_Dollinger_Framework.jpg)
 
-## 与其他框架的关系
-
-> [!example|notitle]
+> [!example] 与其他框架的关系
 > - vs [[Triple Helix]]：Triple Helix 关注大学-产业-政府三个制度领域之间的宏观互动关系；Dollinger 框架侧重具体合作项目的操作层面因素
 > - vs Rossoni et al.（2023）：Rossoni 等从三重螺旋、关系社会资本和[[Technology Transfer\|技术转移]]三个[[Theoretical Perspective\|理论视角]]评估合作障碍（p.316）；Dollinger 框架提供了更具操作性的评估维度
 

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Common School Movement
@@ -130,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 围绕概念形成的命题
-
-> [!note|notitle] 围绕概念形成的命题
+> [!note] 围绕概念形成的命题
 > 围绕公学运动的性质、功能与比较考察机制，学界形成了若干深具理论穿透力的命题：
 
 ---

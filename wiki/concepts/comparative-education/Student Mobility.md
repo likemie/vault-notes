@@ -75,7 +75,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Student Mobility
@@ -103,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 学生流动性（Student Mobility） | 政策流动性（[[Policy Mobility]]） | 移民教育（Immigrant Education） |
 > |------|-------------------------------|----------------------------------|--------------------------------|
 > | 分析对象 | 经历空间位移的学生个体及其家庭群落 | 跨国流动的教育政策、测量标准与治理[[Paradigm\|范式]] | 跨国定居移民及其后代的教育同化与融入 |
@@ -218,9 +216,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **17–19 世纪 — 古典游学与时间化地理** 欧洲启蒙思想将跨越地理空间的旅行想象为跨越文明阶段的时间旅行，跨国游学被界定为贵族与文化精英获取教养的特权资本。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
 > - **1987–2000s — 欧洲一体化与制度化流动** [[EU|欧洲联盟]]相继设立[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]（TEMPUS），通过学分互认系统将高校学生跨境流动塑造成培育超民族欧洲认同与现代职场胜任力的时代美德。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 > - **2001 至今 — 绩效问责框架下的病态化与问题化** 美国实施《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），推行学校报告卡制度，将基础教育阶段中小学中途频繁转校定义为表征贫困失调与拖累学校达标的“[[Transiency|流动漂泊]]（Transiency）”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
@@ -268,9 +264,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 系统梳理[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]中的奖学金与人力资源配额演进，揭示跨国学生流动在双向对等[[Discourse|话语]]与单向资源供给之间的结构性张力，以及由单纯人员流动向产教融合实体共建的演变路径（pp. 222–227, 230）。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示欧美政策话语对学生流动的阶层化道德评价，解构学校作为空间封闭容器对边缘群体的规训机制（pp. 359–368）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 揭示新兴大国“[[Belt and Road Initiative|一带一路]]”跨国留学生流动高度依赖国家全额奖学金与基建就业预期，解析其补贴型单向依附特征与地缘环境逆转下的脆弱性（pp. 692–693）。

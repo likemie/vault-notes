@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Joint Faculty Appointments
@@ -199,7 +199,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 深入阐释联合教职作为连接短期商业专有研发与长期开放学术探索的“双重人格”新兴载体，论证其草根驱动特征与中央 [[Academic Engagement Team|AET]] 在维护校企战略合作网络中的关键治理职能。

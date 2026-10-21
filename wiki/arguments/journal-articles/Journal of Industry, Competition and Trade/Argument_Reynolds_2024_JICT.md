@@ -57,7 +57,7 @@ sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
 status: active
 created: 2026-10-06
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Reynolds_2024_JICT"
@@ -303,9 +303,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **实施周期尚短与纵向实证数据待积累** 三大立法颁布时间仅有一至两年，许多重大项目（如半导体先进制程晶圆厂与清洁氢能枢纽）仍处于选址、规划或早期土建阶段，政策在[[Learning by Doing|干中学]]中的调整弹性与实际产出仍需长时段案例与追踪数据进行检验。（pp. 4, 14–15）
 > - **单项政策福利效应的因果识别障碍** 补贴政策、税收抵免、出口管制、土地许可与电网改革等多重工具交织重叠，未来在量化实证中精准剥离单一产业政策工具对经济增长、就业结构与碳减排的净因果贡献具有较高难度。
 > - **政策联盟的长期政治可持续性未定** 现代产业战略所依赖的劳工、环保、工商业与国家安全跨领域政治联盟，在面临高通胀、财政赤字上升或政党轮替冲击时能否持续维持，构成了未来落地的外部不确定性。（pp. 14–15）

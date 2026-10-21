@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Executive Function
@@ -173,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s–1980s — 神经心理学起源与额叶功能定位** 鲁利亚（Luria, 1973）开创额叶行为控制研究；巴德利（Baddeley & Hitch, 1974）提出[[Working Memory\|工作记忆]]模型中的中央执行系统，拉开认知执行控制研究序幕。
 > - **2000 — Miyake 统一性与多样性框架确立** 三宅（Miyake et al., 2000）通过潜[[Variable\|变量]]分析确立了抑制、转换、更新三成分结构，奠定了当代执行功能定量测量的经典[[Paradigm\|范式]]。
 > - **2010s — [[Educational Neuroscience\|教育神经科学]]应用与学业预测转向** 戴蒙德（Diamond, 2013）与博尔顿与[[John Hattie\|哈蒂]]（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017]]）系统梳理执行功能的发展时间表，证实其对[[Academic Achievement\|学业成就]]与社会适应的长期稳健预测效应。
@@ -217,9 +215,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
@@ -234,9 +230,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inhibitory Control\|抑制控制]]在科学探究推理与概念转变中的微观神经认知机制（解释近 30% 变异），确立了[[Scaffolding\|教学支架]]对学生执行功能负荷的代偿功能。
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]执行功能的涵盖性界定、三成分结构、学龄期发展轨迹及其对[[Academic Achievement\|学业成就]]与社会情绪发展的长期纵向预测力。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中证实[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]中度正相关（$r = 0.38$），并论证两者共享抑制控制、[[Cognitive Flexibility\|认知灵活性]]与[[Working Memory\|工作记忆]]等执行功能基础。

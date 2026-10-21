@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic Community
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（认知共同体） | 倡议联盟（Advocacy Coalition） | 官僚科层集团（[[Bureaucracy]]） |
 > |---|---|---|---|
 > | **联合基础** | 共享专业知识、因果信念与效度检验标准 | 共享政策信念系统与政治利益考量 | 依据法律授权、层级节制与行政法规 |
@@ -101,9 +99,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **共享规范与原则性信念（Shared Principled Beliefs）** 共同体成员对所涉领域的价值取向拥有高度共识（如[[OECD|经合组织]]认知共同体坚信教育首要服务于[[Knowledge-Based Economy|知识经济]]与[[Competitiveness|国家竞争力]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
 > - **共享因果信念模型（Shared Causal Beliefs）** 对政策问题成因与解决路径拥有共同的理论推导框架（如将[[Academic Achievement|学业成绩]]与[[Human Capital Theory|人力资本]]、[[Lifelong Learning|终身学习]]与经济繁荣直接挂钩）。
 > - **共享效度检验标准（Shared Notions of Validity）** 采用同一套评价何为“有效证据”的[[Epistemology|认识论]]准则（如排他性推崇大样本[[Random Sampling|随机抽样]]、[[Item Response Theory|项目反应理论]][[Item Analysis|试题分析]]与跨国量化[[Space of Equivalence|等值空间]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
@@ -148,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990–1992 年 — [[Wight's Three Traditions of International Theory|国际关系理论]]奠基** 恩斯特·哈斯（Ernst Haas, 1990）与彼得·哈斯（Peter Haas, 1992）在《国际组织》（*International Organization*）专刊上系统提出认知共同体理论，解释跨国环境条约与军控协议中的专家网络机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
 > - **2000 年代初 — 比较教育与全球治理应用** 亨利、林加德与里兹维等学者将该概念引入跨国教育政策社会学，揭示[[OECD|经合组织]]如何超越传统的成员国协调论坛属性，演变为由统计评测专家驱动的全球“[[Boundary Spanner|知识中介者]]”与政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444, 451)]]
 > - **2010 年代至今 — 全球[[Governing by Numbers|数字治理]]与数据中介网络扩展** 进一步被应用于分析国际[[Big Science|大科学工程]]、人工智能伦理治理、[[World Bank|世界银行]]与经合组织混合数据专家网络的权力运作。
@@ -178,8 +172,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|试题研发]]早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。

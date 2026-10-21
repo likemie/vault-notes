@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Morris Berman
@@ -57,9 +57,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1944** 出生于美国纽约州罗切斯特。
 > - **1972** 获得约翰斯·霍普金斯大学科学史博士学位。
 > - **1981** 出版《世界之重新迷醉》（*The Reenchantment of the World*），探讨现代科学世界观的去魅及其带来的生态与精神危机。
@@ -96,9 +94,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

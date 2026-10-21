@@ -36,7 +36,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # EngineeringUK
@@ -78,9 +78,7 @@ updated: 2026-10-17
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[The Big Bang Fair]] | 事实 | 由 EngineeringUK 创办并主办的全国旗舰青少年 [[STEM Education\|STEM]] 博览会与竞赛。 |

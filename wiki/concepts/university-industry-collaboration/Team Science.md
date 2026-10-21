@@ -26,14 +26,12 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Team Science
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 团队科学（Team Science）是以跨学科、大规模团队协作来应对复杂科学问题的一种研究模式。单个研究者或单一学科已不足以独立解决当代最棘手的科学挑战，需要来自不同学科背景、不同训练路径和不同机构类型的参与者共同协作（pp.178–179）。
 
 ## 核心要素
@@ -46,13 +44,9 @@ updated: 2026-10-15
 > [!quote|notitle]
 > "the nature of team science today conflicts with the historical nature of the Nobel Prize, which is more reflective of how science was conducted 100 years ago."（pp.178–179）
 
-## 与 T 型技能的关系
-
-> [!note|notitle]
+> [!note] 与 T 型技能的关系
 > 团队科学对研究者提出了 T 型技能（[[T-Shaped Skills]]）的要求——既要有纵向的专业深度（在自己的领域能识别和定义问题），又要有横向的跨学科沟通能力（能够理解不同领域合作伙伴的术语、方法和思维方式）（pp.185–186）。团队科学不是要消除专业化，而是要在专业化基础上叠加协作能力。当代专家的超亚专业化（super-sub-specialization）使得他们"看不到全局"（cannot see the big picture），因此更需要主动接触思维方式不同的合作伙伴（pp.185–186）。
 
-## 在产学合作中的应用
-
-> [!example|notitle]
+> [!example] 在产学合作中的应用
 > 在[[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI）的语境中，[[Physician-Scientist\|医师科学家]]、基础科学家、工程师、产业研发人员和监管专家必须组成跨学科团队，才能在医学翻译循环（Cycle of Medical Translation）中推动一项创新从临床需求识别到产品开发和临床部署的全过程。每个阶段的成功都依赖于不同专业知识和不同机构类型（大学、研究机构、产业伙伴、医院）之间的有效协作（pp.176–179）。
 

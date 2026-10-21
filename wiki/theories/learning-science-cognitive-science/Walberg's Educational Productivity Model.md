@@ -36,21 +36,17 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 核心命题
-
-> [!info|notitle] 核心命题
+> [!info] 核心命题
 > Walberg 的教育生产力模型提出，学生[[Academic Achievement\|学业成就]]和态度受九类因素影响，涵盖 aptitudinal（学生自身特征）、instructional（教学过程）和 environmental（环境条件）三个维度。该模型主要基于量化合成的证据，试图识别哪些因素持续且广泛地影响学生学习([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])。
 >
 > Walberg（1984）将这一模型表述为改进美国学校生产力的框架，其核心假设是通过识别和优化这些关键因素，可以系统性地改善教育结果。
 
 ---
 
-## 模型结构
-
-> [!abstract|notitle] 模型结构
+> [!abstract] 模型结构
 > 九因素模型涵盖三个维度：
 >
 > **Aptitudinal 因素（学生自身特征）**
@@ -72,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 经验证据
-
-> [!success|notitle] 经验证据
+> [!success] 经验证据
 > **Fraser, Walberg, Welch and Hattie（1987）的首次检验**
 >
 > Fraser 等人综合了 226 项[[Meta-analysis\|元分析]]，用当时学生学习模型中的各种显著特征来组织 134 项成就结果元分析和 92 项态度结果元分析。该研究发表为《[[International Education\|国际教育]]研究杂志》的一篇 100 页专著，旨在检验 Walberg 九因素模型在多大程度上得到经验证据的支持([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])。
@@ -89,18 +83,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响
-
-> [!success|notitle] 影响
+> [!success] 影响
 > - 该模型是教育研究中最早被大规模[[Meta-meta-analysis\|元综合]]检验的理论框架，为后续的元综合研究（如 Hattie 的 [[Visible Learning]]）提供了方法论先例
 > - 其 aptitudinal-instructional-environmental 三维分类影响了教育研究中对影响因素的组织方式
 > - [[EEF Teaching and Learning Toolkit]] 在设计上部分借鉴了这一传统，试图为实践者提供跨领域的比较性证据([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.47]])
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - 九因素模型的经验证据主要来自[[Meta-meta-analysis\|元综合]]，而元综合面临"苹果和橙子"问题。不同[[Meta-analysis\|元分析]]使用不同的纳入标准、结果测量和研究设计，使跨元分析比较面临可比性挑战([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.45]])
 > - Hattie（1992）自己也承认底层研究质量参差且涉及不同结果测量，并指出综合并未暗示成就效果必然是累积的([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])
 > - 该模型假设各因素的效果可以独立识别和量化，但教育情境中因素之间可能存在复杂的[[Interaction Effect\|交互作用]]

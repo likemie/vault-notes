@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-19
+updated: 2026-10-22
 ---
 
 # Neo-feudalism in Higher Education
@@ -56,9 +56,7 @@ updated: 2026-10-19
 > 
 > 当前正在进行的学术依附和忠诚关系的重新结构化（如 Bourdieu, 1984 所描绘），似乎不仅产生了自由市场动力，还催生了新封建式的权力关系系统。
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > 新封建主义视角揭示了高等教育部门中多种**封建性**元素([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.798–799]])：
 
 ### 学术权力的个人化依附
@@ -77,9 +75,7 @@ updated: 2026-10-19
 
 学术评价和排名体系创造了一种 **[[Knowledge Rents|知识租金]]（knowledge rents）** 的经济——精英机构通过控制知识的合法定义和评价标准，获取和维持特权地位。知识产权制度（专利、版权）将本应属于公共品的知识转化为可私人占有的资产(Drahos & Braithwaite, 2002; [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.799]])。
 
-## 两种类型学
-
-> [!note|notitle]
+> [!note] 两种类型学
 > Wieczorek, Beyer & Münch运用 Weber 式理想类型，区分了学术新封建主义的两种形态([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.805–806]])：
 
 | 维度 | 封地封建主义 (Fief Feudalism) | 俸禄封建主义 (Benefice Feudalism) |
@@ -91,9 +87,7 @@ updated: 2026-10-19
 
 该类型学在美国化学系的经验分析中得到了量化（拨款效应）和质性（科学家自我认知）两方面的支持([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.806]])。
 
-## 发展脉络
-
-> [!note|notitle]
+> [!note] 发展脉络
 > - **1962 年**Habermas 在 Strukturwandel der Öffentlichkeit 中提出**再封建化**概念，指媒体公司对公共领域的侵蚀（Habermas, 1962/1989）
 > - **1984 年** Bourdieu 在 Homo Academicus 中分析了法国学术阶级的分化——不同分数（fractions）具有不同的再生产模式和与统治阶级的关系(Bourdieu, 1984; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.799]])
 ... Applied fuzzy match at line 48-112.
@@ -101,23 +95,17 @@ updated: 2026-10-19
 > - **2015 年**Möller（2015）和 Graf（2015）运用 Bourdieu 的学术阶级理论对教授和学术官员进行实证研究([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.799]])
 > - **2017 年** Schulze-Cleven et al. 将新封建主义引入高等教育研究作为分析[[Paradigm\|范式]]
 
-## 与相关理论的关系
-
-> [!tip|notitle]
+> [!tip] 与相关理论的关系
 > - **Bourdieu 的学术[[Champ\|场域]]** [[Pierre Bourdieu]] 的"学术阶级分数"理论直接支持了新封建主义的等级分析——不同分数具有不同的资本构成和再生产策略([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.799]])
 > - **新 Weber 式权力分析** 探索有目标的策略行动者之间的组织权力动力如何贡献于处理冲突的制度形式(Clark, 1983; Gumport, 2007;)
 > - **马克思主义[[Knowledge Capitalism\|知识资本主义]]分析** 将新封建等级视为知识资本主义的系统性特征——资本主义[[Knowledge-Based Economy\|知识经济]]需要一个非资本主义部门来界定知识为有价值，而多样化的学术评估机制正好提供了这一服务（Reitz; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.805]]）
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 新封建主义的概念是否过度延伸了封建类比？现代学术等级依赖的是制度化的评价体系（同行评审、排名）而非个人化的封君-封臣关系，两者在权力性质上存在根本差异
 > - 各篇文章对新封建主义的理解并不统一——Jessop 将其置于政治资本主义分析中，Reitz 强调评估机制的功能必要性，Wieczorek et al. 则将其[[Operationalization\|操作化]]为 Weber 式理想类型——概念的一致性尚待建立
 > - 新封建主义的批判力量在于揭示市场[[Discourse|话语]]（"卓越"、"竞争"）掩盖下的权力关系，但作为[[Analytic Framework\|分析框架]]，其与 Bourdieu 的[[Champ\|场域]]理论和新 Weber 主义的边界尚需进一步清晰化
 
-## 相关研究
-
-> [!example|notitle]
+> [!example] 相关研究
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 将新封建主义引入高等教育研究
 > - Meyer & Zhou— 分析美国精英大学永久捐赠基金如何维持"赢者通吃"动力和上层阶级再生产
 > - Wieczorek, Beyer & Münch— 提出封地封建主义与俸禄封建主义的类型学

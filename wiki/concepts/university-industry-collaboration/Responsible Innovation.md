@@ -26,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-22
 ---
 
 # Responsible Innovation
@@ -44,9 +44,8 @@ updated: 2026-06-10
 > - 不等于单纯的伦理审查——它强调前瞻性的参与式治理，而非合规性审查。
 
 ---
-## 核心命题
 
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > 负责任创新的核心命题是：技术的有效部署不仅取决于其技术准确性，还取决于受影响的利益相关者群体是否信任和接受其为合法。因此伦理考虑必须从技术开发的一开始就内嵌其中，而非事后添加。
 
 在监管方面，峰会讨论提出了关键张力：有人认为过早监管会扼杀创新，有人则认为监管将改善实践、创造公平竞争环境。负责任创新的立场倾向于有效的而非繁重的监管——应允许不同行业和应用情境采用不同实践方式，必须允许实验；监管应强调从失败中学习和改进的过程，而非仅仅追究责任和惩罚。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 29-30)]]
@@ -58,8 +57,7 @@ updated: 2026-06-10
 > AI 驱动的决策工具在医疗保健和保险行业已开始部署，这些早期采用者提供了负责任创新的关键学习机会。峰会强调大学通过[[University-Industry Collaboration\|产学合作]]应当在开发包含伦理考虑的 AI 负责任创新方法方面走在前列。所有领域的研究者都应考虑和反思其研究的目的、动机和后果。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 29-30)]]
 
 ---
-## 相关概念／理论
 
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 > - [[Public Impact-Focused Research]] — 两者共享"研究应服务于社会"的前提，PIR 侧重制度框架统一，负责任创新侧重创新过程本身的伦理治理。
 - [[King-Persily Model]] — 该模型可被视为负责任创新在产学数据共享领域的一个具体制度设计实例。

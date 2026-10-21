@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Intelligent Tutoring Systems
@@ -317,9 +317,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 探讨从传统确定性智能辅导系统向[[Generative Artificial Intelligence\|生成式人工智能]]共生学习演进中的[[Epistemic Stances\|认识立场]]分化，提出结合[[Chain-of-Thought Prompting\|思维链提示]]与教学评议的双轨支架体系以捍卫人类[[Epistemic Agency\|认识主体性]]。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明探究式智能导师系统（[[Inq-ITS]]）利用教育数据挖掘追踪复杂科学探究技能、通过智能代理（Rex）提供自适应微观支架，并借助实时教师看板（[[Inq-Blotter]]）实现人机双轨协同教学与跨学期远迁移的前沿机制。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在教育[[AI Agent in Education\|人工智能智能体]]促学[[Meta-analysis\|元分析]]中将智能导师系统作为核心分析类型，证实其对基础教育学段认知表现具有显著的正向促进效应（$g = 0.540$），通过步骤级自适应线索精准支持学习者的[[Procedural Skill\|程序性技能]]习得。

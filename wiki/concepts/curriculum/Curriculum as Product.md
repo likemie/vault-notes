@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Curriculum as Product（作为产物的课程）
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 作为产物的课程（Product） | [[Curriculum as Process\|作为过程的课程（Process）]] | [[Curriculum as Praxis\|作为实践的课程（Praxis）]] |
 > |------|---------------------------|----------------------------------|----------------------------------|
 > | **[[Epistemology\|认识论]]取向** | [[Positivism\|实证主义]]与技术控制理性 | 人文主义与实践审议（*[[Phronesis]]*） | [[Critical Theory\|批判理论]]与解放[[Praxis\|实践]]（*Praxis*） |
@@ -119,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1949 — [[Tyler Rationale\|泰勒原理]]奠基** 泰勒在《课程与教学的基本原理》中确立行为目标产物模式。[[Argument_Darwish_2009_Queens\|(Tyler, 1949, 引自 Darwish, 2009)]]
 > - **1987 — 批判解构** 葛兰蒂（Shirley Grundy）在《课程：产品、过程与实践》中将其归类为技术利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
 > - **2009 — [[Theory of Knowledge\|TOK]] 对比评估** 达维什在学位论文第 5 章中将产物范式作为评价传统教育与 TOK 课程的基础标尺。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
@@ -135,7 +131,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合课程理论对比分析产物模式与过程/实践模式的[[Epistemology\|认识论]]差异。

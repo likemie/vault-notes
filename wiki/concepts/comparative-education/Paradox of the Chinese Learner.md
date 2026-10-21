@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Paradox of the Chinese Learner
@@ -75,9 +75,7 @@ updated: 2026-10-17
 
 ---
 
-## 核心要素：悖论的两面
-
-> [!abstract|notitle]
+> [!abstract] 核心要素：悖论的两面
 > 悖论包含两个看似不可调和的面相：
 
 ### 被批评的学习方式
@@ -98,9 +96,7 @@ updated: 2026-10-17
 
 ---
 
-## 研究回应：悖论的拆解
-
-> [!success|notitle]
+> [!success] 研究回应：悖论的拆解
 > [[Argument_Li_2012_Cambridge\|Li (2012, pp.84-89)]]综述了 [[Confucian Heritage Cultures\|CHC]] 研究界从两个层面回应悖论的系统性发现：
 
 ### 学习信念层面
@@ -122,9 +118,7 @@ updated: 2026-10-17
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Confucian Learning Tradition]] — 悖论的"高成就"一面的文化解释来源：儒家传统将学习视为 [[Self-Cultivation\|修身]] 的道德项目，由此衍生出 [[Learning Virtues\|学习美德]] 的个人能动性系统
 > - [[Surface and Deep Learning]] — 悖论的"低效学习方法"一面涉及对该二分法的跨文化挑战：[[Confucian Heritage Cultures\|CHC]] 研究显示"记忆"可以是通往深层理解的路径而非其替代品
 > - [[Cultural Models]] — Li 的研究框架：文化模型影响和引导（但不决定）成员行为，因此 CHC 学习者的行为需要在 CHC 文化模型内而非西方模型内被理解
@@ -133,9 +127,7 @@ updated: 2026-10-17
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **悖论框架本身的西方中心预设** 将中国学习方式定性为"看似低效的"，实际上预设了西方教育方法的优越性——悖论之所以是"悖论"，恰恰因为它以西方标准为默认参照系
 > - **过度同质化 [[Confucian Heritage Cultures\|CHC]] 内部差异** 将中国、日本、韩国、越南学习者的高成就归因于同一套"儒家价值"，可能掩盖了各国不同的教育制度、政治经济条件和本土文化传统
 > - **悖论可能已被解决** 经过 Marton、Dahlin、Watkins、Li 等三十余年的研究，"悖论"可能已不再是悖论——它只是揭示了两种文化学习模型在目的、过程和成就标准上的系统性差异。在此意义上，"[[Chinese Learner\|中国学习者]]悖论"的持久生命力更多反映了**西方教育[[Discourse|话语]]对替代性学习模型持续的不理解**，而非研究证据的缺乏

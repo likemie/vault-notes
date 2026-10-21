@@ -309,9 +309,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 综述数据集依赖于 Thomson Reuters Web of Science，可能无法完整捕捉书籍章节等其他文献形式的全面影响力，尽管已通过 Google Scholar 进行了交叉验证和手动增补。（p. 459）
 
 ---

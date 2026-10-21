@@ -36,7 +36,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 # Albert Bandura
 
@@ -62,9 +62,7 @@ updated: 2026-10-17
 > 
 > 这一统一的理论框架通过认知、行为和环境决定因素之间的持续（互惠）交互作用来解释人类行为。
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - [[Social Learning Theory\|社会学习理论]]被广泛应用于对竞争性、攻击性、异常行为和病理行为等社会行为的解释（Bandura & Walters, 1963; Bandura, 1977; Mischel, 1968; Miller & Dollard, 1941; Rotter, 1954; Staats, 1975）
 > - 理论被用于人格评估技术（Mischel, 1968）以及临床和教育情境中的行为修正（Bandura, 1977; Bower & Hilgard, 1981）
 > - Crutchfield (1986) 在其博士论文中以社会学习理论作为[[Theoretical Perspective\|理论视角]]研究护理教育者的学术生产力

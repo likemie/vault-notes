@@ -30,7 +30,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # African Orphan Crops Consortium
@@ -43,16 +43,12 @@ updated: 2026-10-02
 > [!info] "孤儿作物"（Orphan Crops）的定义
 > 孤儿作物指很少被现代植物科学改良的作物品种。这些作物是非洲最贫困农民的主食和收入来源，但由于缺乏商业育种投入，其产量、抗病性和营养价值远未达到遗传潜力。Food Insight（2015）将其描述为"饮食主食，为最贫困的非洲农民提供收入"（cited on p.321）。
 
-## 组织结构
-
-> [!abstract|notitle]
+> [!abstract] 组织结构
 > AOCC 是一种少见的合作结构：超过 30 个政府组织、科学和农业机构、大学、企业、区域组织和非政府组织的联盟，外加超过 15 个农业和园艺机构的网络（p.321）。关键特征包括：
 > - **非传统的参与方组合** 跨国企业（Mars）、政府间组织（非盟）、环保 NGO（WWF）和[[Research Universities|研究型大学]]（UC Davis）在同一平台上共同定义问题和投入资源
 > - **开放获取的知识共享** 所有科学成果免费公开在互联网上，这一 IP 策略与[[University-Industry Collaboration\|产学合作]]中惯常的保密逻辑截然相反
 
-## 核心数据
-
-> [!success|notitle]
+> [!success] 核心数据
 > 截至 2023 年（AOCC 2023 进度报告，cited on p.321）：
 > - 完成 75 种作物的全基因组测序，其中 46 种已发表
 > - UC Davis 协调的非洲植物育种学院（AfPBA）已培训超过 172 名非洲科学家

@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic Dependence
@@ -235,7 +235,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** — 运用批判整合性综述系统界定人工智能中介学习中的认识依赖[[Construct\|构念]]，提出六维诊断标准与四条社会技术路径，确立以关系性[[Epistemic Agency\|认识主体性]]为导向的教育设计与制度治理体系。

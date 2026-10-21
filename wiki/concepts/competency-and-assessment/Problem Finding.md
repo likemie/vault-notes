@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Problem Finding
@@ -148,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1976 — 艺术创造中的问题发现开创** 盖泽尔斯与希克森特米哈伊（Getzels & Csikszentmihalyi, 1976）基于对美术专业学生的长期[[Cohort Study|追踪研究]]，首次将问题发现确立为区别于常规问题解答的独立高阶认知过程。
 > - **1988–1993 — 认知测量与任务[[Paradigm|范式]]拓展** 伦科与奥库达（Runco & Okuda, 1988）开发出显性问题发现测验，证实问题发现与观念评价能够显著提升[[Divergent Thinking|发散思维]]测验的[[Predictive Validity|预测效度]]。
 > - **2020 — 一阶[[Meta-analysis|元分析]]实证整合** 阿卜杜拉等（Abdulla et al., 2020）对 84 项[[Effect Size|效应量]]进行一阶元分析，证实问题发现任务与[[Creativity|创造性]]表现存在中等偏强的显著正相关（$r = 0.35$）。
@@ -185,7 +183,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 跨 52 项一阶[[Meta-analysis|元分析]]实施大规模[[Meta-meta-analysis|二阶元分析]]与[[Meta-regression|元回归]]，确立涵盖问题发现的综合创造过程相较于单一[[Divergent Thinking|发散思维]]测验具有显著更强的效标预测力（pp. 3–8）。

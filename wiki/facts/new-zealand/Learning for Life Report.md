@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Learning for Life Report
@@ -105,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **确立全球独特的[[Academic Freedom|学术自由]]法定表达** 该报告促成的立法使新西兰成为世界上少数在成文法律中明确将大学界定为“[[Critic and Conscience of Society|社会的批评者与良知]]”的自由民主国家，为大学防范政治利益与[[New Managerialism|新管理主义]]侵蚀提供了坚实制度保障。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **重塑高等教育体制分工结构** 明确界定了大学作为独立知识创造与批评机构的专业地位，奠定了新西兰大学体制与理工学院分工发展的制度雏形。
 > - **奠定公共智识论争的规范标尺** 报告确立的良知表述深刻融入新西兰学术政治文化，成为衡量学术成果转化是否越界、学者是否坚守公共伦理的根本标尺。
@@ -131,9 +129,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -53,7 +53,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Emancipatory Action Research
 
@@ -203,9 +203,7 @@ updated: 2026-10-21
 
 解放性[[Action Research|行动研究]]的激进主张引发了大量批评（Gibson, 1985; Morrison, 1995a, 1995b; Somekh, 1995; Melrose, 1996; Grundy, 1996; Weiskopf & Laske, 1996; Webb, 1996; McTaggart, 1996; Kemmis, 1997）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 277–278)]]
 
-### 逻辑与概念矛盾
-
-> [!critique-logic|notitle] 逻辑与概念矛盾
+> [!critique-logic] 逻辑与概念矛盾
 > - **三分[[Typification\|类型化]]站不住脚** 技术性—实践性—解放性的三分法过于简化行动研究的多样性，三种类型之间边界模糊，实际研究常同时包含多种取向
 > - **非批判和自相矛盾** 标榜[[Critical Thinking Disposition\|批判精神]]，却拒绝将同样的批判标准应用于自身的前提假设
 > - **假设行动研究的无差别观** 将多种形式的行动研究视为同质整体，忽视不同流派之间的根本差异
@@ -213,9 +211,7 @@ updated: 2026-10-21
 > - **乌托邦性和不可实现** 改变社会宏观结构的目标过于宏大，缺乏实现路径和可验证的中间步骤
 > - **过于控制和规定性** 试图将所有行动研究纳入特定的批判框架，走向方法论服从而非真正的解放
 
-### 权力分析与方法论缺陷
-
-> [!critique-method|notitle] 权力分析与方法论缺陷
+> [!critique-method] 权力分析与方法论缺陷
 > - **假设理性共识可通过辩论达成，但低估权力问题** 格伦迪（Grundy, 1996, p. 111）指出更好的论证来自有更多证据和理由的人，这些资源更容易为有权者所用，平等的条件因此值得怀疑
 > - **高估共识导向研究的可取性** 以共识为目标的取向忽视了权力本身的复杂性——共识可能只是强势声音压制异议的结果
 > - **权力不能仅凭理性重新分配** 结构性的权力不平等不能仅靠理性辩论来消解，需要制度层面的变革
@@ -237,9 +233,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -48,16 +48,14 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Paul Morris 是伦敦大学学院（UCL）教育与社会学院（Institute of Education, Department of Education, Practice and Society）的教授。他长期从事比较教育和课程研究，特别专注于香港教育政策、课程变革和公民教育的政治分析。他是以批判视角分析香港后殖民教育政治的最多产学者之一。
 
-## 核心思想
-
-> [!info|notitle] 核心思想
+> [!info] 核心思想
 > Morris 的核心学术关切是**全球化论述如何在教育政策中被工具化**，以及**国家权力如何通过课程变革施加控制**。他的研究贯穿两个相互关联的主题：
 >
 > 1. **[[Policy Borrowing\|政策借用]]中的修辞性参照** 国家引用全球教育趋势（如 [[PISA]]、[[Lifelong Learning\|终身学习]]、[[Knowledge-Based Economy\|知识经济]]）通常是为了合法化国内议程，而非真正追求国际最佳实践。这与 Steiner-Khamsi 的政策借用框架一脉相承。（You & Morris, 2016; Auld & Morris, 2016）
@@ -68,9 +66,7 @@ updated: 2026-10-21
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 [[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 483]])
 
-## 主要贡献
-
-> [!success|notitle] 主要贡献
+> [!success] 主要贡献
 > - [[Policy Borrowing]] — 与 Steiner-Khamsi 的政策借用框架保持一致，以香港为案例深化了对"借用"政治性的理解
 > - [[Liberal Studies]] — 与 Yan 合作的 2025 年论文是 LS 兴衰的权威分析
 > - **[[PISA]] 的政治解读** — Auld and Morris (2016) 揭示了 PISA 如何通过"翻译和说服"将复杂的教育条件转化为跨国"最佳实践"
@@ -79,9 +75,7 @@ updated: 2026-10-21
 > - **国家安全的课程后果** — Vickers and Morris (2022) 最早将《国安法》与课程变革直接联系起来
 > - [[Transnationalism and America Project SYSU]] — Morris 的教育四象限（学术理性主义、社会经济效率、儿童中心、社会重建）被 Schmidt (2010) 在 [[Argument_Ryan_2010_HKUP\|Ryan and Slethaug (2010)]] 中用于论证香港[[International Schools\|国际学校]]价值观为本课程的理论定位
 
-## 主要著作
-
-> [!abstract|notitle] 主要著作
+> [!abstract] 主要著作
 > - Morris, P., & Adamson, B. (2010). *Curriculum, schooling and society in Hong Kong*. Hong Kong University Press. — 香港课程政治的历史分析
 > - Auld, E., & Morris, P. (2016). [[PISA]], policy and persuasion: Translating complex conditions into education 'best practice'. *Comparative Education*, 52(2), 202-229. — 批判性分析 PISA 如何在政策制定中被使用
 > - Grey, S., & Morris, P. (2018). [[PISA]]: multiple 'truths' and [[Mediatised Governance\|mediatised global governance]]. *Comparative Education*, 54(2), 109–131. — 揭示英格兰 PISA 2012 结果在 [[OECD]]、政客与媒体之间的罗生门式解读与媒介化治理机制
@@ -89,9 +83,7 @@ updated: 2026-10-21
 > - Forestier, K., Adamson, B., Han, C., & Morris, P. (2016). Referencing and borrowing from other systems: The Hong Kong education reforms. *Educational Research*, 58(2), 149-165. — LS 的 [[IB Diploma Programme\|IBDP]] 参照分析
 > - Yan, K. C. A., & Morris, P. (2025). The life and death of [[Liberal Studies]]: explaining curriculum change in POST-handover Hong Kong. *Journal of Curriculum Studies*, 57(4), 480-494. — LS 兴衰的两阶段对比分析
 
-## 思想发展与影响
-
-> [!note-|notitle] 思想发展与影响
+> [!note-] 思想发展与影响
 > - 受 **Steiner-Khamsi** 的[[Policy Borrowing\|政策借用]]理论和 **Cuban** 的课程变革政治分析影响
 > - 与 **Edward Vickers** 的合作建立了香港教育与威权国家主义之间联系的[[Analytic Framework\|分析框架]]
 > - 与 **Kin Cheung Adrian Yan** 的合作将 Cuban 的框架扩展到后《国安法》时代

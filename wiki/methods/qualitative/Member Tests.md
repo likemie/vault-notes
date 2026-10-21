@@ -25,7 +25,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Member Tests
 
@@ -73,9 +73,7 @@ updated: 2026-10-20
 > - **误用风险** 将成员核验等同于分析效度的[[Necessary and Sufficient Conditions\|充分条件]]；忽视参与者反馈中可能存在的策略性和社会期望因素。
 > - **补救方式** 明确传达被证明错误同样欢迎的态度；结合[[Cross-checking\|交叉检查]]和其他验证手段；记录和透明报告参与者的反馈性质（确认、修正或否定）。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

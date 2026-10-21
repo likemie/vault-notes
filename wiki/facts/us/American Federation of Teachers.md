@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # American Federation of Teachers
@@ -149,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -167,8 +165,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 详实记录全美教师联盟（AFT）组织骨干教师多轮闭门审读草案并以“纸条贴墙”推敲进阶可行性的核心实证文献。（pp. 15–23）
 > - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 揭示美国主要教师工会（AFT 与 NEA）面对 NCLB 测试问责制时的政治审慎态度，分析教育公平话语框架与公众信任赤字如何制约工会的统一抗争。（p. 260）

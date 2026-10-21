@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Nomothetic
@@ -71,13 +71,9 @@ updated: 2026-10-21
 > - **因素间关系** 识别与定义元素，考察其关系如何被表达。
 > - **通则式数据分析** 质性数据同样可分析其通则式属性，即模式、主题、趋势、共性、概括、相似性与行为规律，以 Miles and Huberman（1994）为代表。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979 — 方法论维度区分** Burrell & Morgan 将通则式与[[Idiographic\|个例式]]列为社会研究方法论的两极之一，作为其四组假设推导链的方法论终点：实在论[[Ontology\|本体论]]、[[Positivism\|实证主义]][[Epistemology\|认识论]]、[[Determinism\|决定论]]人性假设通向通则式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 > - **1994 — 质性数据分析中的应用** Miles and Huberman（1994）以通则式数据分析为代表，处理模式、主题、趋势等跨案例的规律性。
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统阐释通则式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan 假设推导链的方法论终点（Ch. 1），并在质性分析中阐明通过跨案例模式、主题共性与规律性提炼实现通则化分析的路径（Ch. 28）。

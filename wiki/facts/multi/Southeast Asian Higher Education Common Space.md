@@ -34,15 +34,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Southeast Asian Higher Education Common Space
 
 ---
 
-## 背景
-
-> [!event-context|notitle]
+> [!event-context] 背景
 > - **发布时间** 2024年
 > - **发布主体** [[ASEAN|东盟]]（ASEAN）与东南亚教育部长组织（SEAMEO）
 > - **涉及地区** 东南亚（东盟成员国）
@@ -68,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目
-
-> [!ref-table|notitle] 相关条目
+> [!ref-table] 相关条目
 > | 条目 | 关系 |
 > |------|------|
 > | [[International Education Hubs]] | 该宣言为区域教育枢纽的形成提供制度框架 |

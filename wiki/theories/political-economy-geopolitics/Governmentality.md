@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 46
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Promising Student]]"
+  - "[[Governing by Numbers]]"
   - "[[Discourse]]"
   - "[[School Choice]]"
   - "[[Learner Autonomy]]"
@@ -45,7 +46,6 @@ related_concepts:
   - "[[Pedagogical Subject]]"
   - "[[Student Mobility]]"
   - "[[Migrant Education]]"
-  - "[[Governing by Numbers]]"
 related_theories:
   - "[[Post-structuralism]]"
   - "[[Spatial Governmentality]]"
@@ -65,18 +65,16 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[TEMPUS]]"
   - "[[Bologna Process]]"
-  - "[[OECD]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Ball_2008_SR]]"
-  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Governmentality
@@ -148,10 +146,10 @@ graph TD
 > | 行为的引导（Conduct of Conduct） | 核心定义 | 权力的核心机制：非强制性干预，通过塑造主体的理解与期望，促使其“自由”做出符合政策目标的选择。 |
 > | 自由作为治理机制（Freedom as Technique） | 运作条件 | 颠覆自由与支配的对立：自由作为治理理性得以贯彻和转嫁风险的高效技术工具，构成了权力的运作机制本身。 |
 > | 自我技术（Technologies of the Self） | 行动载体 | 个体对自己施加的操作（如日记、自评、生涯规划），主动将自身改造为符合特定德性与效能标准的主体。 |
-> | 主体化（Subjectivation） | 治理效果 | 权力通过制度分类（如“[[Promising Student|有前景的学生]]”、“后进生”、“流动漂泊者”），呼唤并定型个体的身份认同。 |
-> | [[Governing at a Distance|远距治理]]（Governing at a Distance） | 空间技术 | 权力无需亲临现场，通过标准化指标、绩效排行、专项资助机制与网络规范，跨越地理界限协调分散行动。 |
+> | 主体化（Subjectivation） | 治理效果 | 权力通过制度分类（如“[[Promising Student\|有前景的学生]]”、“后进生”、“流动漂泊者”），呼唤并定型个体的身份认同。 |
+> | [[Governing at a Distance\|远距治理]]（Governing at a Distance） | 空间技术 | 权力无需亲临现场，通过标准化指标、绩效排行、专项资助机制与网络规范，跨越地理界限协调分散行动。 |
 > | 空间化治理术（[[Spatial Governmentality]]） | 下位分支 | **空间治理术**是治理术理论在空间维度上的专属特化：聚焦领地化划界、空间凝视、平滑/纵深质地与学校容器职能。 |
-> | [[Governing by Numbers|数字治理]]（Governing by Numbers） | 衍生形态 | 依托量化数据、排名对比与指标体系构建等价空间，以看似客观中立的统计话语驱动跨国与跨层级政策协同。 |
+> | [[Governing by Numbers\|数字治理]]（Governing by Numbers） | 衍生形态 | 依托量化数据、排名对比与指标体系构建等价空间，以看似客观中立的统计话语驱动跨国与跨层级政策协同。 |
 
 ---
 
@@ -204,9 +202,7 @@ graph TD
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 自由主义与新自由主义民主体制下的教育改革、高等教育绩效主义问责、[[Lifelong Learning|终身学习]][[Discourse|话语]]、数字教育自评机制以及以柔性指标为导向的全球教育治理。
 > - **成立条件** 治理对象须享有一定名义上的行动自由与选择空间；被治理者具备[[Reflexivity|反思性]]主体意识，且制度环境依赖专家话语系统。
 > - **解释不足** 过度偏重“合意型统治”与微观心理内化，容易淡化或忽视国家机器的硬性暴力、专制法律制裁以及赤裸裸的阶级与经济物质剥削；在分析威权国家纯粹依靠暴力压制的统治形态时解释力相对有限。
@@ -231,9 +227,7 @@ graph TD
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 结合治理术与[[Societies of Control|控制社会]]理论，剖析德国高校在线自测系统如何呼唤出“[[Promising Student|有前景的学生]]”。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 运用治理术视角重访英国教育社会学史，揭示[[Political Arithmetic|政治算术]]与[[School Effectiveness|学校效能]]研究如何成为现代国家治理的认知工具。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能[[Discourse|话语]]如何作为全球治理技术，通过远距机制重塑各国[[Pedagogical Subject|教育主体]]。

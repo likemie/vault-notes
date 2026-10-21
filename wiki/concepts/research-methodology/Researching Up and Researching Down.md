@@ -33,7 +33,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Researching Up and Researching Down
 
@@ -76,7 +76,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09\|Cohen et al. (2011, Ch. 9)]] — 以研究有权者（9.5）和研究无权与脆弱群体（9.6）两节作为[[Sensitive Research\|敏感研究]]的对比案例，系统展示两类研究的方法论差异与共享的伦理底层逻辑。

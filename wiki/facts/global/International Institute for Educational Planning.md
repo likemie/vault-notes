@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # International Institute for Educational Planning
@@ -165,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -181,9 +179,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 梳理战后系列教育危机国际会议，论证 [[Philip H. Coombs\|Philip Coombs]] 与 IIEP 如何开创普世教育危机叙事[[Paradigm\|范式]]，并详述 1964–1980 年[[World Bank\|世行]]与[[UNESCO\|教科文组织]]的合作与制度决裂。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从冷战[[Geopolitics|地缘政治]]三大范式切入，深刻拆解 IIEP 作为现实主义国家利益与超级大国外交战略[[Soft Power\|软实力]]延伸的制度成因。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 深度剖析 IIEP 所代表的战后国家规划理性与技术官僚[[Scientific Paradigm\|科学范式]]，揭示量化实证模型如何沦为执政权力推卸道德政治责任的“[[Social Science as Legitimation Alibi\|合法化借口]]”（Alibi）。

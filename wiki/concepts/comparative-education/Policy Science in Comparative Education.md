@@ -63,7 +63,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Science in Comparative Education
@@ -176,9 +176,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪初至 20 世纪初 — 实用借鉴与科学预测萌芽** 朱利安（Jullien, 1817）提出通过科学化表格比较预测教育改良，[[Michael Sadler|萨德勒]]（Sadler, 1900）主张从外国教育中提取实用价值，奠定了比较教育面向政策应用的最初传统。
 > - **1960 年代 — 科学化大论战与战后国家规划体制深度结盟** 政策科学理解形式达到鼎盛。霍姆斯（Holmes, 1984）倡导以[[Problem Approach|问题法]]服务政策预测，美国实证派学者则与国家五年计划、[[Human Capital Theory|人力资本]]扩张及国际机构技术援助深度绑定，使政策科学上升为学科主流形态。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
 > - **1970 年代中期 — 规划承诺破产与学科多元批判转向** 随着量化政策科学在促进社会平等方面承诺的落空，包罗万象的普遍政策科学神话破裂，促使学科走向情境化、历史社会学与批判[[Paradigm|范式]]。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]
@@ -213,9 +211,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统解构比较教育中政策科学作为四种理解形式之一的[[Epistemology|认识论]]主张与权力结盟预设，警告其面临丧失学术批判反思的风险（pp. 332–333）。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 深度剖析 1960 年代英美[[Scientific Paradigm|比较教育科学范式]]的流派分野，揭示经验量化政策科学如何作为战后国家规划体制的[[Social Science as Legitimation Alibi|合法化借口]]而占据主导（pp. 64–68）。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 借鉴政策科学与组织设计理论，通过大学联盟组织架构与制度工具分析透视跨国高等教育治理中的[[Knowledge Power|知识权力]]配置（pp. 1697–1698）。

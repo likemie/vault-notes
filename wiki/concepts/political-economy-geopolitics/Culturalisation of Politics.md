@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Culturalisation of Politics
@@ -130,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2023 — 概念提出** Chen 提出政治的文化化概念，解构转型期政权合法性[[Discourse|话语]]体系的转换。
 > - **2024 — 比较教育实证应用** Vickers 将该概念引入对香港2020年后教育重组的分析，实证剖析[[Citizenship and Social Development\|公社科]]中以儒家美德和“炎黄子孙”话语消解政治能动性的去政治化治理逻辑（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 
@@ -160,7 +158,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Vickers_2024_CE\|Vickers (2024)]] — 详细剖析了香港通过[[Citizenship and Social Development\|公社科]]实施“政治的文化化”治理的经验表现，并揭示了双轨文化博展机构的政治协同作用。

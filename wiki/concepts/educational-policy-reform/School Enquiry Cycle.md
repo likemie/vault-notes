@@ -74,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # School Enquiry Cycle
@@ -260,9 +260,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

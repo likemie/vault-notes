@@ -34,14 +34,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-06
+updated: 2026-10-22
 ---
 
 # Research and Technology Organisation
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 研究与技术组织（Research and Technology Organisation, RTO）指政府投资建立的、旨在桥接大学研究与私营部门创新组织之间的组织、智识和能力差距的中介机构。它们位于研究基础与产业应用之间的界面上，通过平滑知识流动和技术发展来加速新技术从研究基础向社会经济应用的转化（[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, p.33)]]）。
 
 全球主要 RTO 网络包括：英国的 Catapult 中心、德国的 Fraunhofer 研究所（日益国际化）、美国的 [[Manufacturing USA]] 研究所，以及法国 Carnot 研究所、荷兰 TNO、芬兰 VTT 等。
@@ -65,9 +63,7 @@ updated: 2026-10-06
 > [!note|notitle]
 > RTO 的工作通常与相对邻近的伙伴进行（如来自所在区域的伙伴），因此在区域集群发展和帮助加强本地创新系统以生成和获取本地研究和技术开发投资价值方面发挥重要作用（p.34）。
 
-## 对政策制定的启示
-
-> [!tip|notitle]
+> [!tip] 对政策制定的启示
 > 峰会上总结的对政府建立新 RTO 的关键经验（p.34）：
 
 - 确保 RTO 由产业的创新需求和挑战驱动
@@ -77,9 +73,7 @@ updated: 2026-10-06
 - 承认新中介机构可能不总是解决研究商业化过程中关键差距和瓶颈的正确答案
 - 从一开始就反思和设计长期的资金可持续性
 
-## 理论语境
-
-> [!tip|notitle]
+> [!tip] 理论语境
 > - 与 [[Innovation Ecosystem\|创新生态系统]] 的关系 — RTO 是创新生态系统中的关键中介行动者，位于大学和企业之间的界面上，增强系统的知识流动和技术扩散
 - 与 [[Valley of Death|死亡之谷]] 的关系 — RTO 是桥接死亡之谷的核心机制之一，通过应用研究、技术开发、劳动力培训和市场培育等功能来填补研究与产业应用之间的鸿沟
 - 与 [[Triple Helix|三重螺旋]] 的关系 — RTO 是政府、大学和产业三重螺旋关系中的制度性中介组织，体现了政府如何通过创建新组织形态来催化产学互动

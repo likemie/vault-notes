@@ -80,7 +80,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch06
 
@@ -516,9 +516,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 本章分析主要基于英国特有的双重科研资助体制（Dual-support system：QR 核心拨款 + 竞争性课题经费）、科研卓越框架（REF）评价体系及多元分权的高等教育治理生态；在将工作量法定核算、卓越水印外部认证及独立参与考评剖面等制度经验向中央集权型科研体制或不同学术劳动力市场迁移时，必须充分考量本土科研生态的适配性与制度摩擦。（pp. 98–101）
 
 ---

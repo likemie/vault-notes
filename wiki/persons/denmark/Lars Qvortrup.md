@@ -65,7 +65,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Lars Qvortrup
@@ -86,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1950** 出生于丹麦，后深造并长期致力于传播学、系统论与教育社会学研究。
 > - **2000 年代初** 深入研究[[Niklas Luhmann|尼克拉斯·卢曼]][[Luhmann's Systems Theory|社会系统理论]]，将自组织系统与操作封闭概念引入教育学与知识社会学分析。
 > - **2013** 联合主编《学习理论与教学论》（*Læringsteori & [[Didaktik]]*），系统梳理[[Behaviorism|行为主义]]与现代教学论的发展脉络。
@@ -143,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论盟友与合作者** [[John Hattie|约翰·哈蒂]]（辩护对象与合作引介者）、Niels Egelund（丹麦译本导言合著者）。
 > - **思想理论资源** [[Niklas Luhmann|尼克拉斯·卢曼]]（社会系统论与结构联结）、Gregory Bateson（学习阶层论）、Heinz von Foerster（二阶控制论与观察透镜）、[[Herbert A. Simon|Herbert Simon]]（[[Bounded Rationality|有限理性]]）、[[Donald A. Schön|Donald Schön]]（[[Reflexivity|反思性]]实践）。
 > - **丹麦论辩对手** [[Thomas Aastrup Rømer|托马斯·罗默]]（教育哲学五线批判对手）、斯滕·内珀·拉尔森（批判[[Epistemology|认识论]]论敌）。
@@ -173,9 +169,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

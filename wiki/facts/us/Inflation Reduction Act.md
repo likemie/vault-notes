@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Inflation Reduction Act
@@ -183,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -199,9 +197,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 系统解构《通胀削减法案》的技术中立税收抵免机制、五倍现行工资与[[Apprenticeship|学徒制]]乘数以及环境正义40倡议，评估其对美国清洁能源制造与高质量就业的制度效能（pp. 9–14）。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较美欧产业政策演进，指出《通胀削减法案》与《[[CHIPS and Science Act|芯片与科学法案]]》的巨额出资构成了对欧洲制造业的外部虹吸压力，成为倒逼[[EU|欧盟]]打破多边贸易惯性、仓促出台[[European Chips Act|欧洲芯片法案]]的关键政治经济催化剂（p. 8）。
 

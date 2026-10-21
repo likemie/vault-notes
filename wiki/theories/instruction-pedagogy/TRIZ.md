@@ -52,7 +52,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # TRIZ
@@ -77,9 +77,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -155,18 +153,14 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释与应用** 物理、机械、软硬件工程、产品设计及包含明确性能对立的良构/劣构技术系统革新。
 > - **谨慎使用** 纯人文艺术创作、主观情感表达或非技术性文学叙事，强行套用工程矩阵容易抹杀直觉与情感韵味。
 > - **常见误用** 将 40 个原理当作万能教条[[Rote Learning\|死记硬背]]，或在没有深入分析系统因果链之前盲目套用矛盾矩阵，导致“为了套原理而强解问题”。
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1946–1970 年代　[[Genrich Altshuller\|阿奇舒勒]]在苏联奠定经典 TRIZ 体系** 分析数十万件发明专利，提出矛盾矩阵、40 发明原理与 ARIZ 算法，创立苏联国家发明学院。
 > - **1984 年　经典专著《创造作为精确科学》出版** Altshuller (1984) 出版《[[Creativity]] as an Exact Science》，确立创新作为精确可教科学的方法论地位。
 > - **1990 年代　冷战后全球传播与产业应用** 苏联解体后，TRIZ 专家走向美欧日韩，被三星、波音、通用电气等大型科技企业深度采纳并制度化。
@@ -192,9 +186,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — [[Meta-analysis\|元分析]]确立技术型训练（以 TRIZ 与 [[SCAMPER]] 为代表）对大学生[[Creativity\|创造力]]表现的稳健促学效应（$g = 0.552, N = 20$），解析其具象认知锚点与迁移特征。
 > - Altshuller (1984) — TRIZ 理论奠基之作，系统阐明矛盾消除、理想度规律与 40 发明原理的算法体系。
 > - Morin et al. (2018) — 加拿大高校开展的长周期技术型发明工程训练准实验（$EG = 59 / CG = 59$），结合 [[Creative Engineering Design Assessment\|CEDA]] 测验检验学生工程设计创造力增益。

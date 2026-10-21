@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Two-Communities Theory
@@ -93,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | **科学研究社群（Science Community）** | 概念 | 以追求客观真理、方法审慎性、同行评议与学术发表为核心导向的[[Knowledge Production\|知识生产]]阵营。 |
@@ -198,9 +196,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 专家顾问与政府官员之间的沟通失败、政府对学术文献的大规模过滤现象、专门性政策智库与中介平台的兴起。
 > - **谨慎使用** 在学术与政治高度一体化的体制（如学者直接兼任内阁部长或政务官）中需修正使用。
 > - **不适合解释** 纯粹学术界内部的[[Paradigm\|范式]]争论，或纯粹官僚体系内部的派系权力斗争。
@@ -208,9 +204,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1979 — 内森·卡普兰发表奠基论文** Caplan（1979）在《美国行为科学家》发表论文，正式提出“两社区理论”（Two-Communities Theory），诊断美国联邦决策层中社会科学[[Research Utilization\|知识利用]]低迷的制度文化根源。
 > - **1980–1990年代 — 智库兴起与三代知识模型分化** 随着公共管理改革展开，学者将目光从单纯指责两界鸿沟转向探讨桥梁机构；Weiss（1979）与 Caplan（1991）深化研究利用形态划分，催生出边界跨越与[[Knowledge Co-production\|协同生产]]模型。
 > - **2019 — 对二元极化隐喻的系统性批判与解构** Mackillop、Downe 与 Quarmby（2019）系统检视[[Knowledge Mediation\|知识中介]]文献，指出两社区模型过度夸大了真理与行动的二元断裂，忽视了两者内部的多元性以及知识与权力的深层共谋。
@@ -240,9 +234,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 溯源[[Knowledge Mediation\|知识中介]]与[[Policy Brokerage\|政策中介]]的理论谱系，运用两社区理论阐释国际组织在科学真理与政治行动之间充当[[Boundary Spanner\|边界跨越者]]的机制。
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 基于国会山参与实务，反思两社区在证据定义、引证偏好与时间节律上的微观行为对照，阐释通过国会研究员、法定示范条文与中介智库跨越两界壁垒的深度实践路径。
 

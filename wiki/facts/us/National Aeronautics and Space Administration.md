@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # National Aeronautics and Space Administration
@@ -140,9 +140,7 @@ updated: 2026-10-15
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

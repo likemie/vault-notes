@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Resonant Oscillation
@@ -99,7 +99,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 提出了这一概念，用以解释[[International Baccalaureate\|国际文凭]]（IB）体系下优秀学生在接触[[Theory of Knowledge\|知识论]]（TOK）课程时普遍遭遇的认知壁垒和随后的[[Reflexivity\|反思性]]突破。

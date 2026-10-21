@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Four Sins of Comparative Education
@@ -73,7 +73,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 系统提出“比较教育的四种罪过”，客观诊断其作为未丢弃历史行李的本质，督促学科放弃对旧假设的舒适依赖，以在前瞻视角中面对 21 世纪的政治危机。

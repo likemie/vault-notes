@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Corporate Education
@@ -57,17 +57,13 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - **vs [[Further Education]]** 企业教育是继续教育的子集——专指由企业为其雇员提供或资助的教育培训。继续教育还包括非企业主体（专业协会、营利性提供商、咨询公司等）提供的培训([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.180, 190]])
 > - **vs [[Corporate University]]** 企业教育是公司所有教育培训活动的总称，涵盖从一线工人培训到高管培养的整个光谱；企业大学（CU）是企业教育中集中化、制度化程度最高的组织形式，是 MNCs 为提升培训声誉而创造的品牌化框架([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.185–186]])
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **覆盖全层级** 从面向年轻人的初始职业教育（IVET）、非管理技术员工培训，到中层管理教育和高层领导力培养。层级越高，培训的国际化程度和投入越大([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.184–185]])
 > - **[[Soft Power\|软权力]]功能** 企业教育是[[Cultural Political Economy\|文化政治经济学]]所称的"经济想象"（economic imaginary）的载体——它生产和传播关于市场如何运作、公司应该追求什么的共享认知，是市场运作的关键促成因素([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.180]])
 > - **组织嵌入性** 企业教育的形式和国际化程度与 MNC 组织类型深度挂钩——联邦型、国际型和跨国型 MNCs 分别偏好不同的培训标准化水平和权威策略。详见 [[Corporate University]] 中 MNC 类型 × CU 类型的对应分析([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.186–188]])
@@ -76,18 +72,14 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > - **1990s 至今** 知识密集型经济的兴起和 MNCs 的全球扩张使企业教育成为全球化研究的重要主题([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.181]])
 > - **1990s** 第一所[[Corporate University\|企业大学]]由美国通用汽车（General Motors）建立，随后被其他美国公司迅速采纳，但在欧洲遭遇更多争议([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.189]])
 > - **近年来** MNCs 开始将培训外包给外部教育提供商，催生了庞大的全球企业培训市场。咨询公司和 IT 巨头（如 Microsoft、LinkedIn Learning）成为企业教育的关键参与者([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.190–193]])
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Institutional Isomorphism]] — DiMaggio & Powell 的三种同构类型（强制型、模仿型、规范型）为企业教育的规范扩散提供了核心[[Analytic Framework\|分析框架]]。详见 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 理论框架部分([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.183–184]])
 > - 韦伯的权威理论 — 区分权力（Macht）与权威（Herrschaft），为企业教育如何从"公司在权威中"走向"培训是权威"提供了合法性分析基础([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.182–183]])
 
@@ -108,9 +100,7 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **公立偏见问题** 教育研究长期以公立教育为中心，忽视了企业教育这一庞大的非正规教育领域。Hartmann 呼吁教育研究"激进化"（radicalise）其研究议程，将企业教育纳入视野([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.179]])
 > - **[[Geopolitics|地缘政治]]不平等** 多数企业教育提供商总部位于美国，反映出全球高科技行业的不平等分布（全球前十高科技上市公司中八家位于美国），这赋予了企业教育跨国空间以显著的地缘政治色彩([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.193]])
 > - **概念模糊** 企业教育的外包和商业化模糊了教育与商业、公立与私立之间的界限，使营利性教育提供商获得了近乎强制型的规范扩散力量([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.192–193]])

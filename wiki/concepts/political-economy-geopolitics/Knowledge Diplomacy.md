@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Knowledge Diplomacy
@@ -202,9 +202,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理从[[Soft Power|软实力]]到知识外交的[[Paradigm|范式]]演进，并以[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]作为实证对照案例。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 批判性解构[[Belt and Road Initiative|一带一路]]跨国高教政策，揭示知识外交的互利共赢修辞与国家[[Hard Power|硬实力]]工具化之间的内在张力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 深入比较丝路大学联盟与亚洲大学联盟的制度架构，提炼知识外交与[[Knowledge Power|知识权力]]的共存机制，并引入[[Tianxia Heuristic|天下启发式框架]]。

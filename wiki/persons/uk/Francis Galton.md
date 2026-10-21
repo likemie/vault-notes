@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Francis Galton
@@ -56,9 +56,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1822** 出生于英国伯明翰著名的达尔文-高尔顿家族。
 > - **1844** 毕业于剑桥大学三一学院数学与自然科学专业。
 > - **1850–1852** 前往西南非洲探险考察，获英国皇家地理学会金奖。
@@ -95,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **统计学与心理学** 奠定了现代[[Quantitative Research|定量研究]]不可或缺的回归与相关分析工具，开创了差异心理学与心理测量学。
 > - **集体智能与社会[[Epistemology|认识论]]** 1906 年实验成为詹姆斯·苏罗威基（James Surowiecki）《群体的大智慧》等集体智能研究的源头活水，被广泛应用于预测市场、群智决策与大众众包算法设计。
 > - **市场哲学与政治经济学批判** 21 世纪学者（如卡普与扎米斯卡）在肯定高尔顿经验发现的同时，反思盲目将“[[Wisdom of Crowds|群体智慧]]”等同于资本市场价格有效性所带来的消费主义脱嵌与投机风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–172)]]
@@ -111,17 +107,13 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **表兄／学术对话者** 查尔斯·达尔文（Charles Darwin） — 高尔顿深受达尔文进化论启发，并致力于将进化概念拓展至心智与社会测量。
 > - **引用与评述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》第15章引述其 1906 年实验以剖析“[[Wisdom of Crowds|群体智慧]]”在市场资本配置中的边界与异化。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

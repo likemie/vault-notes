@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Standing Conference of Governments of the International Baccalaureate
 
@@ -68,9 +68,7 @@ updated: 2026-10-16
 > [!tension] 公共影响与实际出资
 > 1981 年设想政府负担约三分之一收入，到 1985 年实际比例因通胀和 IB 快速增长降至略高于一成。政府席位提供了公共代表性，却不能单独维持预期的公共影响；财政承诺和课程参与决定代表权的实质。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 189–190)]]
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[International Baccalaureate]] | Concept | 常设会议把成员政府纳入课程、财政和发展治理。 |

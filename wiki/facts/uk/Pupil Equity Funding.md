@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Pupil Equity Funding
@@ -135,9 +135,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

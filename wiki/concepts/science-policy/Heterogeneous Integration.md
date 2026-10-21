@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Heterogeneous Integration
@@ -138,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s — 多芯片模块（MCM）起源** 早期多芯片模块（Multi-Chip Module, MCM）采用引线键合与厚膜/薄膜陶瓷基板，首次将多个未封装裸片集成于同一封装体内，用于大型机与高端航空航天电子系统，但受制于互连间距大与信号延迟高。
 > - **2000s — 系统级封装（SiP）与消费电子普及** 随着智能手机对微型化与多功能集成的爆发式需求，系统级封装（System-in-Package, SiP）兴起，在有机基板上将基带芯片、射频收发器与存储器堆叠封装，开启多器件板级向封装级整合的过渡阶段。
 > - **2010s — 2.5D/3D TSV 先进微互连技术突破** 硅通孔（Through-Silicon Via, TSV）与硅中介层（Silicon Interposer）实现商业化量产，[[Taiwan Semiconductor Manufacturing Corporation|台积电]] CoWoS 与英特尔 EMIB 等先进封装平台将逻辑芯片与高带宽存储器（High Bandwidth Memory, HBM）紧密相连，大幅突破单芯片互连带宽瓶颈。
@@ -178,9 +176,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -194,8 +190,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出将三维异构集成（3DHI）确立为突破单片晶体管物理微缩极限的核心战略路径，系统规划模块化芯粒（Chiplets）与开放[[Process Design Kit|装配设计套件]]（[[Process Design Kit|ADK]]）标准体系。
 

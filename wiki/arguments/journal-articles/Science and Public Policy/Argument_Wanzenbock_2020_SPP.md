@@ -58,7 +58,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wanzenbock_2020_SPP"
@@ -349,9 +349,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文自述的理论边界与研究局限包括：（1）所提出的二维空间与三条路径属于高度概括的理论理想型，现实中的政策进程往往更加非线性，且可能发生中断、摇摆甚至向发散方向逆转（p.481）；（2）案例分析主要采用回顾性说明法，未来仍需前瞻性的纵向实证研究来检验不同路径在不同国家体制与空间尺度下的实际绩效与制度障碍（pp.486–487）。
 
 ---

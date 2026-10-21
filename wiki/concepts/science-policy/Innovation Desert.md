@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Innovation Desert
@@ -102,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 创新荒漠（Innovation Desert） | 死亡之谷（[[Valley of Death]]） | 数字鸿沟（Digital Divide） |
 > |:---|:---|:---|:---|
 > | **核心机制** | 公共部门体制防御、薪酬抑制与科技资本商业避险导致的系统性脱钩 | 基础研究成果向商业化产品转化时的风险投资与中试断层 | 基础设施不足或阶层差异导致的终端接入与技能不平等 |
@@ -219,9 +217,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2025（Ch. 1） — 概念提出与国防采办批判** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》开篇界定“创新荒漠”，重点批判国防采办中的[[Red Tape|繁文缛节]]与科技界对国家安全的迟疑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–15)]]
 > - **2025（Ch. 15） — 机制深化与全美公共领域诊断** 深入剖析消费主义逃避、[[Market Triumphalism|市场必胜论]]、政客避险推责、大科技公司公关撤退与[[Luxury Belief|炫耀性信念]]，将创新荒漠的诊断全面拓展至地方执法、公共医疗与基础教育等全美关键治理部门。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–178)]]
 > - **2025（Ch. 16） — 制度反激励与[[Procedural Piety|程序虔敬]]批判** 进一步将创新荒漠的深层根源追溯至公共人事薪酬压制（阻断中产专业人才进入）与官僚体制退守“程序虔敬”（启动替罪羊清算实干者），阐明唯有权责对称与宽容复杂人性才能跨越荒漠。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 179–189)]]
@@ -263,9 +259,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -285,7 +279,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - **全美公共创新荒漠的形成、固化与突破** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 贯穿全书系统诊断国防采办、地方治安、医疗教育及公共人事中的创新荒漠成因，并论证以[[Engineering Mindset|工程思维]]与[[Founder Culture|创始人文化]]重塑国家治理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]

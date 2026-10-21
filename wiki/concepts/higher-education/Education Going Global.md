@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Education Going Global
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 本概念（教育出海） | [[Internationalization of Higher Education\|高等教育国际化]] | [[International Education\|跨国高等教育准市场出口]] |
 > |---|---|---|---|
 > | **主导驱动力** | 国家对外战略规划与国家利益统筹 | 高校学术声誉、学科建设与人才培养 | 商业高校获取高额全额留学生学费与创收 |
@@ -152,9 +150,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000年代初 — 探索试水阶段** 伴随国家“走出去”战略的提出，个别高校开始探索中外合作办学的境外延伸与[[Confucius Institute|孔子学院]]试点。
 > - **2010年 — 政策正式立项** 《国家中长期教育改革和发展规划纲要（2010—2020年）》明确提出“支持有条件的高等学校开展[[International Branch Campus|境外办学]]”，启动战略规划。
 > - **2016年 — 体系化推进阶段** 中央两办印发《关于做好新时期教育对外开放工作的若干意见》，教育部印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，确立以分校、联盟、奖学金与[[Luban Workshop|鲁班工坊]]为支柱的系统出海格局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]
@@ -181,7 +177,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用[[Critical Discourse Analysis|批判话语分析]]与[[Cultural Political Economy|文化政治经济学]]，系统解构中国教育出海政策的文本表层共赢框架、部门协作工具性以及深层大国复兴叙事。

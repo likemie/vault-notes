@@ -39,21 +39,17 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Non-dilutive Funding
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 非稀释性资助（Non-dilutive Funding）指不需要创始团队出让股权（equity）或所有权的资助形式。与之相对的是稀释性资金（dilutive funding）——如风险投资（Venture Capital, VC）和天使投资（Angel Investment）——投资方以资金换取公司股权，创始团队的持股比例因此被"稀释"（pp.144, 148）。
 
 > 对于[[University Spin-Out\|大学衍生企业]]而言，非稀释性资助在从实验室到市场的最早阶段扮演着关键角色：它让研究团队在不需要放弃所有权或控制权的情况下，获得推进技术验证和早期市场探索所需的资金（pp.144-145）。
 
-## 主要来源
-
-> [!abstract|notitle]
+> [!abstract] 主要来源
 > [[University Spin-Out\|大学衍生企业]]可获取的非稀释性资助主要有三类（pp.144, 148-149）：
 
 > **大学内部资助**。大学通过[[Technology Transfer Office\|技术转移办公室]]（[[Technology Transfer]] Office, TTO）或专门的创新基金提供内部拨款，用于支付专利申请费用、法律保护成本和早期概念验证（[[Proof of Concept Programs\|proof of concept]], PoP）研究。例如大学内部的"产品验证"拨款（Proof of Product grants）——通常 $10,000 到 $100,000——支持研究团队在一定期限内（数月到一年）推进[[Translational Research\|转化研究]]达到明确的技术或市场验证里程碑（pp.148-149）。

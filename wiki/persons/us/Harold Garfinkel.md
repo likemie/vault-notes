@@ -53,7 +53,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Harold Garfinkel
@@ -74,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1917年** 出生于美国新泽西州纽瓦克市一个犹太商人家庭。
 > - **1935–1939年** 在纽瓦克大学（现罗格斯大学纽瓦克分校）攻读商业与会计，在此期间接触社会学理论并确立了对日常实际操作推理的兴趣。
 > - **1939–1942年** 进入北卡罗来纳大学教堂山分校攻读社会学硕士，师从霍华德·奥杜姆（Howard W. Odum），开展跨种族人际互动与法律刑罚的实地[[Ethnography\|民族志]]调查。
@@ -154,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／思想渊源**
 >   - **[[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）** 精神导师，加芬克尔将其生活世界常识与[[Typification\|类型化]]概念转化为微观经验研究规程。
 >   - **[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）** 博士导师，加芬克尔通过反叛其宏观规范[[Determinism\|决定论]]，走向了常人方法学的经验道路。
@@ -187,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Ethnomethodology\|常人方法学]] | 理论 | 创立常人方法学学派，将日常实践活动与常识推理确立为自足的经验探究课题。 |

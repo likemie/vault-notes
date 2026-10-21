@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sutton Trust
@@ -174,9 +174,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -195,9 +193,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 映射萨顿信托背后的跨国金融与法律资本网络（高盛、美洲银行、摩根大通、普华永道），剖析其向 [[Education Endowment Foundation\|EEF]] 及澳大利亚（[[Social Ventures Australia\|SVA]]/[[Australian Education Research Organisation\|AERO]]）流动的[[Policy Network\|异质治理]]机制。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录萨顿信托发起创设 [[Education Endowment Foundation\|EEF]] 的历史经纬、法定留本基金运营及清算中心联合治理架构。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 梳理萨顿信托资助杜伦大学编制早期[[Meta-analysis\|元分析]][[Abstract\|研究摘要]]、推动工具包诞生的学术脉络。

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Colonial State Theory
@@ -86,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -134,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 拥有清晰殖民统治历史、在二战后通过民族解放或政权更迭获得独立的外围资本主义社会。
 > - **成立条件** 必须具备详实的殖民期制度档案与宏观经济嵌入历程数据，不能空洞套用[[Dependency Theory|依附论]]标签。
 > - **解释不足** 对部分东亚原殖民地在战后通过强有力土地改革与国家自主[[Developmentalism|发展主义]]迅速实现初等教育普惠的特例，该理论需要结合[[Geopolitics|地缘政治]]与外资援助的特殊性予以补充修正。
@@ -152,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

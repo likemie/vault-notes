@@ -38,16 +38,14 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Jorunn Møller，挪威奥斯陆大学（University of Oslo）教师教育与学校研究系教授。研究兴趣涵盖教育领导力与治理、改革政策和学校问责制([[Argument_Møller_2017_EERJ\|Møller, 2017, p.385]])。
 
-## 核心思想
-
-> [!info|notitle] 核心思想
+> [!info] 核心思想
 > Møller 的核心学术立场是对教育领导力研究中的去政治化倾向进行批判。她论证([[Argument_Møller_2017_EERJ\|Møller, 2017]])：
 >
 > 1. **[[OECD]] [[Discourse|话语]]的去政治化批判** OECD 的教育领导力"最佳实践"模型表面上以政治中立的技术语言呈现，实则高度政治化，尤其当涉及社会正义导向时（p.377）
@@ -57,26 +55,20 @@ updated: 2026-10-21
 >
 > > "To lead education beyond the agenda of what works, we need different approaches to research, including reflective approaches and critical studies addressing the power structures."([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])
 
-## 主要贡献
-
-> [!success|notitle] 主要贡献
+> [!success] 主要贡献
 > - **ISSPP 项目参与** — 自 2002 年起参与 ISSPP，提供北欧国家的[[Case Study\|案例研究]]视角，同时对该项目的方法论局限保持[[Reflexivity\|反思性]]批评([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379-381]])
 > - **[[OECD]] ISL 项目参与** — 被 OECD 邀请为 ISL 项目 Vol. 2 收集"最佳实践"案例数据，基于亲历经验提出对 OECD [[Knowledge Production\|知识生产]]政治的批判([[Argument_Møller_2017_EERJ\|Møller, 2017, p.377]])
 > - **[[New Public Management\|新公共管理]]与教育的批判性分析** — 与 Gunter, Hall, Serpieri, Skedsmo 等合作，分析 NPM 在欧洲教育改革中的作用([[Argument_Møller_2017_EERJ\|Møller, 2017, p.381-382, citing Hall et al., 2015]]; Gunter et al., 2016; Skedsmo & Møller, 2016)
 > - **教育的"新语言"批判** — 早期论文（Møller, 2007）关注教育中[[New Managerialism|新管理主义]]语言对教育目的讨论的侵蚀
 
-## 主要著作
-
-> [!abstract|notitle] 主要著作
+> [!abstract] 主要著作
 > - Møller, J. (2017). Leading education beyond what works. *European Educational Research Journal*, *16*(4), 375–385. — 以 ISSPP 亲历者和 [[OECD]] ISL 参与者双重身份，论证教育领导力研究需要超越"什么有效"议程，纳入权力结构分析
 > - Møller, J. (2007). Educational leadership and the new language of learning. *International Journal of Leadership in Education*, *10*(1), 31–49. — 批判教育领导力中[[New Managerialism|新管理主义]]语言的侵蚀效应
 > - Møller, J. (2009). Approaches to [[School Leadership]] in Scandinavia. *Journal of Educational Administration and History*, *41*(2), 165–177. — 分析北欧[[School Leadership\|学校领导力]]路径
 > - Møller, J. & Skedsmo, G. (2013). Modernizing education: [[New Public Management\|NPM]] reform in the Norwegian education system. *Journal of Educational Administration & History*, *45*(4), 336–353. — 挪威教育系统的[[New Public Management\|新公共管理]]改革分析
 > - Hall, D., Grimaldi, E., [[Helen Gunter\|Gunter, H.]], Møller, J., Serpieri, R. & Skedsmo, G. (2015). Educational reform and modernization in Europe. *European Educational Research Journal*, *14*(6), 487–507. — 跨国合作研究国家情境在调解 NPM 中的作用
 
-## 思想发展与影响
-
-> [!note-|notitle] 思想发展与影响
+> [!note-] 思想发展与影响
 > - 与 [[Helen Gunter]] 的研究网络 LE@DS（Leading Democratic Schools）有合作关系
 > - 研究定位于 CURRICULUM STUDIES, EDUCATIONAL LEADERSHIP AND GOVERNANCE (CLEG) 研究群组（奥斯陆大学）
 > - 受 [[Carolyn Shields]] 的[[Transformative Leadership\|变革型领导力]]框架和 Helen Gunter 的批判性教育政策视角影响

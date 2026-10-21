@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dual Coding Theory
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -118,7 +116,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 将双重编码理论作为解释空间图示工具促进学生[[Higher-Order Thinking Skills\|高阶思维]]的底层认知理论支柱。

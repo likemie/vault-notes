@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # 1985 United World Colleges International Council Meeting
 
@@ -95,9 +95,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | Fact | 会议集中评估 UWC 的网络规模、共同使命和财政问题。 |

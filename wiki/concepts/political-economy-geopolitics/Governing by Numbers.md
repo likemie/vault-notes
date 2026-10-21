@@ -7,7 +7,7 @@ aliases:
 summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi 等（2024）进一步拓展为数字治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -47,7 +47,6 @@ related_theories:
   - "[[Institutional Isomorphism]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Alain Desrosières]]"
@@ -65,13 +64,15 @@ related_facts:
   - "[[PISA for Development]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Governing by Numbers
@@ -103,8 +104,6 @@ updated: 2026-10-21
 > - 不等于 [[Evidence-Based Education|循证教育]]（Evidence-Based Education） — 循证教育侧重于教育决策与实践对实证科研结果的理想化学术依托；数字治理则揭示了数字与证据在现实政治博弈中被武器化、符号化与中介包装的权力运作。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析
 > | 维度 | 数字治理 1.0（指标与排名驱动） | 数字治理 2.0（[[Policy Brokerage\|政策中介]]与工具打包） | 传统国家科层治理 |
@@ -200,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1999 — “数字即政策”（Policy as Numbers）政治社会学奠基** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）阐明数字在现代治理中使复杂判断隐形化与不可置疑化的权力机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
 > - **2009 — 数字治理 1.0 与全球[[Space of Equivalence|等值空间]]确立** [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 提出以数字治理概念；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）的“等值空间”理论，系统剖析[[OECD|经合组织]]如何依托 [[PISA]] 产生的数据流将全球教育空间纳入去政治化的软治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **2018 — [[Soft Power by Hard Facts|硬事实软权力]]与认知权威机制提炼** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 提出“硬事实软治理”（Soft governance by hard facts）命题，揭示经合组织如何通过生产无可争议的可比量化事实确立认知权威，发挥非强制软治理效能。
@@ -250,8 +247,6 @@ updated: 2026-10-21
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018, pp. 270–278)]] | 经合组织（OECD）教育治理架构及成员国对 PISA 测评的反响 | 跨国治理话语分析与政策过程追踪 | 跨国量化测评、硬事实建构与软治理机制 | 揭示经合组织依托 PISA 等测评将争议性政策转化为客观“硬事实”，确立认知权威并借由同行压力与国内政治借力实施远程软治理 | 质性文本与政策追踪 | 阐明缺乏法定强制权的国际组织如何依托数据知识中介主导主权国家改革议程 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠基数字治理概念，通过对比芬德英三国对 PISA 的反响及欧盟官员访谈，揭示经合组织如何以数字技术协调欧洲教育空间。

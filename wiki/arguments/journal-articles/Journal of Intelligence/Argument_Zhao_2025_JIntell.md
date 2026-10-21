@@ -37,7 +37,7 @@ sources:
   - "[[sources/Zhao_2025_JIntell/Zhao_2025_JIntell|Zhao_2025_JIntell]]"
 journal: "Journal of Intelligence"
 created: 2026-09-05
-updated: 2026-10-16
+updated: 2026-10-22
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -430,9 +430,7 @@ status: draft
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 1. **样本多样性与设计范围有限** 纳入文献在教育场景与学习者群体上的覆盖面相对狭窄，限制了实证结论的[[External Validity\|外部效度]]与跨情境可推广性。
 > 2. **语言检索限制** 本[[Meta-analysis\|元分析]]仅纳入了中文和英文公开发表的研究文献，排除了其他语言背景下的实证研究，可能引入潜在的语言与文化抽样偏差。
 > 3. **无法全面追踪技术的快速迭代** 当前文献存在出版周期与实证滞后性，未能完全同步反映多模态大模型等最新一代生成式 AI 技术的最新教学演进；未来需引入纵向追踪、跨文化比较与决策评价等多维高阶[[Construct\|构念]]。（p. 17）

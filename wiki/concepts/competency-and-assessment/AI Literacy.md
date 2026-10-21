@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # AI Literacy
@@ -266,9 +266,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 强调基础教育必须将批判性 AI 素养列为面向未来的关键交叉素养之一，确立“放大认知而非[[Cognitive Offloading\|认知外包]]”的育人底线。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，将 AI 素养确立为驱动学生从被动使用转向[[Reflexivity\|反思性]]对话、维持[[Epistemological Vigilance\|认识论警觉]]的关键前置调节[[Variable\|变量]]。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 批判将人工智能素养窄化为操作技巧的工具论偏向，系统阐述将算法输出作为探究对象并融合[[Evaluative Judgement\|评价性判断]]与[[Feedback Literacy\|反馈素养]]的[[Epistemology\|认识论]]重构路径。

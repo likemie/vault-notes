@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # MN-IP Create
@@ -52,9 +52,7 @@ updated: 2026-10-16
 | **B** | $0（标准条款） | 非商业 NERF 许可 + 6 个月商业许可谈判选择权 | 后续协商含版税许可，按市场标准定价 |
 | **C** | 赞助研究协议价值的 10% 或 $10,000（取高者） | 全球商业 NERF 许可 + 排他许可谈判选择权 | 后续协商含版税排他许可 |
 
-## 制度设计逻辑
-
-> [!abstract|notitle]
+> [!abstract] 制度设计逻辑
 > MN-IP Create 的制度设计回应了[[University-Industry Collaboration\|产学合作]]中长期存在的一个核心困境：企业担心"我们付钱做了研究，大学会在技术价值明朗后向我们索取天价许可费"；大学则担心"我们可能在事前以过低价格放弃了对未知价值的创新的权利"（p.282–283）。
 
 三种选项覆盖了不同企业的风险偏好：

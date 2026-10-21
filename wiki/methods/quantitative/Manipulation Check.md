@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Manipulation Check
@@ -62,15 +62,11 @@ updated: 2026-10-16
 > - 定量评估负面反馈条件组的受试者是否确实比正面反馈条件组的受试者具有更低的状态自尊得分。
 > - 若两组在操纵检查上无显著差异，说明操纵未成功——后续对[[Dependent Variable\|因变量]]的任何组间差异都无法归因于自尊操纵（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 自[[Variable\|变量]]（[[Independent Variable]]） — 操纵检查是测量自变量的工具，而不是自变量本身。自变量是被操纵的[[Construct\|构念]]（如自尊），操纵检查是验证该操纵是否生效的测量（如状态自尊量表得分）。
 > - vs [[Dependent Variable\|因变量]]（Dependent Variable） — 因变量是研究的核心结果变量（如攻击行为），操纵检查是研究内部的质量控制测量，通常不是[[Hypothesis\|研究假设]]的直接检验对象。
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - 操纵检查本身可能影响受试者对后续测量的反应——受试者在完成操纵检查后可能意识到研究的真实目的（需求特征，demand characteristics），从而改变其在因[[Variable\|变量]]上的行为或回答。
 > - 因此操纵检查通常在时间上靠近操纵但尽可能不影响主要结果测量的位置施测。有些研究者将操纵检查放在所有[[Dependent Variable\|因变量]]测量之后，以避免干扰，但这又可能引入操纵效应随时间衰减的问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 

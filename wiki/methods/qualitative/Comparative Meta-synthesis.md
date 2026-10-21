@@ -43,7 +43,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ## 定义
@@ -56,9 +56,7 @@ updated: 2026-10-21
 
 ---
 
-## 历史发展
-
-> [!note|notitle] 历史发展
+> [!note] 历史发展
 > **Fraser, Walberg and Hattie（1987）——首次大规模综合**
 >
 > Glass 创造[[Meta-analysis\|元分析]]术语 10 年后，Fraser、Walberg and Hattie 团队综合了 226 项[[Meta-analysis\|元分析]]，以检验 Walberg 的[[Walberg's Educational Productivity Model\|教育生产力模型]]。该研究涵盖数千项原始研究，识别影响学生学习的禀赋性、教学性和环境性[[Variable\|变量]]。这是教育领域最早的系统性比较性[[Meta-meta-analysis\|元综合]]之一([[Argument_Higgins_2016_ROE\|Higgins, 2016, pp.41–42]])。
@@ -103,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用场景
-
-> [!success|notitle] 适用场景
+> [!success] 适用场景
 > - 当某一研究领域已积累大量[[Meta-analysis\|元分析]]，需要比较不同方法的相对效果时
 > - 适合为政策制定者和实践者提供关于什么有效的宏观概览，[[EEF Teaching and Learning Toolkit]] 和《[[Visible Learning\|可见的学习]]》是这一用途的标志性产物
 > - Håkansson（2015）的质性版本适合研究材料已经高度综述化、但结论分散且概念不统一的领域（pp.588–590）
@@ -127,18 +123,14 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论
-
-> [!info|notitle] 相关理论
+> [!info] 相关理论
 > - [[Walberg's Educational Productivity Model]] — Fraser et al.（1987）和 Sipe and Curlette（1997）都以此为检验框架
 > - [[Meta-analysis]] — 元分析用[[Effect Size\|效应量]]进行统计综合；比较性[[Meta-meta-analysis\|元综合]]则以跨元分析比较为主
 > - [[Meta-meta-analysis]] — 二者都在综合既有综合研究，但元-元分析通常处理已聚合的效应量，比较性元综合可以同时处理定量、质性和叙事型综述
 
 ---
 
-## 使用此方法的研究
-
-> [!example|notitle] 使用此方法的研究
+> [!example] 使用此方法的研究
 > - [[Argument_Håkansson_2015_TT]] — 使用 16 项国际研究综述和 27 项瑞典研究综述，分析[[Structured Teaching\|结构化教学]]、[[Classroom Management\|课堂管理]]与瑞典学校成绩下降讨论之间的关系
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 追溯[[Meta-analysis\|元分析]]从 1904 年到[[Meta-meta-analysis\|元综合]]的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具
 

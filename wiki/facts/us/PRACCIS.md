@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # PRACCIS
@@ -79,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **实践影响** 成功打破了"教师告知规则、学生执行套路"的被动实验[[Paradigm\|范式]]，探索出让初中生自发推导出专业野外生态学观察五大黄金标准的课堂促学[[Dialogue in Education\|对话教学]]法。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 216–218)]]
 > - **知识影响** 为检验 [[AIR Model of Epistemic Cognition\|AIR]] 认知模型提供了扎实的微观课堂实证，系统证明了即便在[[Academic Achievement\|学业表现]]偏低的学区，初中生同样具备高水平的[[Epistemic Agency\|认识主体性]]，催生了超越纯句法分析的科学论证质量双轴评价方案。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–225)]]
 
@@ -95,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

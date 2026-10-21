@@ -48,7 +48,7 @@ sources:
 part_of: '[[Argument_Ryan_2010_HKUP]]'
 status: draft
 created: '2026-05-17'
-updated: 2026-10-16
+updated: 2026-10-22
 year: 2010
 doi: ""
 citation_aliases:
@@ -62,25 +62,19 @@ citation_aliases:
 >
 > 本章是全书的基础性章节，为后续各章提供背景地图：中国学习者在学校（中小学）和大学、在国内和海外，究竟身处怎样的教育全球化格局之中？(p.1)
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 本章未采用单一命名理论，而是以**全球化（globalization）** 和**去国家化（denationalization）** 两个视角贯穿分析。
 >
 > 核心前提来自 Suárez-Orozco and Qin-Hilliard(2004)：在全球化时代，知识的跨国流通已成为经济生产力的关键要素——固守本地、忽视全球力量的教育系统"可能变得过时"，而主动应对全球化挑战的系统"更有可能繁荣"(p.1)。
 >
 > Slethaug 默认预设了"[[Knowledge-Based Economy\|知识经济]]"（Knowledge-Based Economy）的存在——即一个国家的国际[[Competitiveness|竞争力]]，取决于其生产知识而非仅生产商品的能力。这个预设是理解他整个论证的钥匙：为什么[[International Education\|国际教育]]值得关注？因为教育产出=知识产出=国家竞争力。
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 汇集来自 [[OECD]]、IIE（[[International Education\|国际教育]]协会）、[[UNESCO]]、各国政府统计和主流媒体的二手数据，再结合已有学术文献的分析，拼接出一幅国际教育发展的全景图。
 >
 > 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国出国留学生人数），Slethaug 指出了这些差异但未系统评估各数据来源的[[Reliability\|可靠性]]。
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > Slethaug 的论证分为六个递进步骤，从最宏观的"教育为什么是地方事务"开始，一步步推到"[[International Education\|国际教育]]在无人察觉中爆炸了"和"[[Chinese Learner\|中国学习者]]的复杂性被低估了"。每一步都有具体的例子支撑。
 
 ### 第 1 步：教育传统上是地方和国家的"私有财产"
@@ -219,9 +213,7 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 >
 > — 国际学校不再是教育机构，而是市场参与者。
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 > - **数据[[Reliability\|可靠性]]** 本章高度依赖二手统计数据和媒体报道。不同来源对同一现象的统计差异巨大——例如中国出国留学生人数在《中国日报》（200,000）和 IIE（349,506）之间相差近一倍(pp.17–18)。Slethaug 指出了这些差异但未系统评估各数据来源的方法论质量。
 > - **核心概念未[[Operationalization\|操作化]]** 对"[[International Education\|国际教育]]""全球化""[[Knowledge-Based Economy\|知识经济]]"等概念的使用停留在常识层面，未进行批判性审视或操作化定义。"知识经济"作为一个有争议的概念被当作事实接受。
 > - **缺乏原创实证分析** 本章作为背景章节，论证主要是描述性和综合性的——这在全书结构中合理，但独立看时说服力有一定限度。

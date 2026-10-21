@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Susan L. Robertson
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1980s–1990s** 早年在澳大利亚与新西兰任教，深入考察澳新两国率先推进的[[New Public Management|新公共管理]]与教育市场化试验，奠定批判教育政治经济学学术关怀。
 > - **2000s** 任职于英国布里斯托尔大学教育研究生院，创立全球化与教育治理研究中心，2003 年创办权威期刊 GSE 并长期担任主编。
 > - **2002** 联合发表关于 [[GATS and Trade in Education Services|GATS]] 与教育[[Pluri-Scalar Governance|多标度治理]]的系列重磅论文，引发国际比较教育学界对[[World Trade Organization|世贸组织]]与跨境教育投资的激烈讨论。
@@ -104,27 +102,21 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开拓了教育批判空间地理学与[[Pluri-Scalar Governance|多标度治理]][[Analytic Framework|分析框架]]，重塑了比较教育学对超国家政策实体的认知。
 > - **学术建制路径** 创办并引领 GSE 期刊，使其成为连接教育学、社会学、政治学与人文地理学的跨[[Discipline-Based Theory|学科理论]]阵地。
 > - **公共政策路径** 多次为国际教师联合会（EI）提供关于反[[Educational Privatisation|教育私有化]]与维护公共教育投资的专家权威证词。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **长期合作者** [[Roger Dale|罗杰·戴尔]]——长期理论搭档，共同提出 [[Globally Structured Agenda for Education|GSAE]] 与[[Pluri-Scalar Governance|多标度治理]]理论。
 > - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]——共同致力于从批判政治经济学视角解构全球化与跨国援助霸权。
 > - **制度纽带** [[World Trade Organization]] 与 [[GATS and Trade in Education Services]]——作为其学术批判的关键实体与制度协定。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

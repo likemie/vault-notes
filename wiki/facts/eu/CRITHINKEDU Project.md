@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # CRITHINKEDU Project
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 成为[[EU|欧盟]]委员会推动高等教育创新教学法与教师专业发展的标杆性示范工程。
 > - **实践影响** 为欧洲高校教师提供了成套开源的[[Critical Thinking\|批判性思维]]课程设计模板、教学活动案例与评分规程。
 > - **知识影响** 推动了欧洲高教界对批判性思维“技能与倾向共生”以及“课程嵌入式评价”的理论共识。

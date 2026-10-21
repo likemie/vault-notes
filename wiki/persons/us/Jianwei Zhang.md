@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jianwei Zhang
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990s** 在北京师范大学心理学院攻读发展与教育心理学，师从陈琦教授，系统开展[[Constructivist Paradigm|建构主义]]学习理论与多媒体教学心理学研究。
 > - **2000s** 前往加拿大多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE）深造与工作，与 [[Marlene Scardamalia]] 及 [[Carl Bereiter]] 紧密合作，全面参与[[Knowledge Building Theory|知识建构]]与[[Theory of Knowledge|知识论]]坛的技术研发与实证干预工程。
 > - **2007** 提出探究线索分析法（Inquiry Threads Analysis），为追踪和量化协作[[Discourse|话语]]中的持续[[Problem Solving|问题解决]]轨迹提供了经典分析工具。
@@ -129,17 +127,13 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[Marlene Scardamalia]]、[[Carl Bereiter]] — 博士后与长期科研合作导师，共同推进[[Knowledge Building Theory|知识建构理论]]与国际知识创新与技术中心（Institute for Knowledge Innovation and Technology, IKIT）网络。
 > - **合作者** 陶丹（Dan Tao）、田艳（Yan Tian）、袁广基（Guangji Yuan） — 长期合作开展基于知识建构的设计基实证研究。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

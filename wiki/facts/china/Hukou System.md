@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hukou System
@@ -156,9 +156,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

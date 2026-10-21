@@ -10,7 +10,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,7 +43,6 @@ related_instruments: []
 related_persons:
   - "[[Tina Seidel]]"
 related_facts:
-  - "[[Qualitätsoffensive Lehrerbildung]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Clearing House Unterricht]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Qualitätsoffensive Lehrerbildung
@@ -143,9 +142,7 @@ updated: 2026-10-17
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

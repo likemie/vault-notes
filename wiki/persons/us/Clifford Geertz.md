@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Clifford Geertz
@@ -59,9 +59,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1926–2006** 美国人类学家，诠释／符号人类学传统的代表人物，以《文化的解释》（*The Interpretation of Cultures*, 1973）等著作影响广泛。
 > - **1973** 在《文化的解释》中系统提出[[Rich and Thick Description\|厚描述]]，并在 "Thick Description: Toward an Interpretive Theory of Culture" 一章中阐述[[Ethnography\|民族志]]写作的解释性质。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
@@ -95,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

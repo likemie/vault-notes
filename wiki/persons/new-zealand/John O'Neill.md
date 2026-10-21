@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John O'Neill
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1980–1990 年代** 投身新西兰教师教育与课程政策研究，亲历 1989 年《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）市场化改制。
 > - **2000 年代** 任职于梅西大学教育学院，系统开展新西兰教育政治经济学与教师劳动过程调查。
 > - **2012 年** 针对新西兰国家党政府试图依据[[John Hattie|哈蒂]][[Class Size|班级规模]]无关论扩大公立学校生师比的提案，奥尼尔牵头组织教育学者向教育部部长发表公开信，直接瓦解了该项紧缩政策的社会公信力，迫使政府收回成命。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
@@ -97,18 +95,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政策路径** 2012 年主导的学术公开信运动成为新西兰当代教育史上极少数成功推翻内阁既定财政紧缩方案的经典公众参与范例，成功保住了新西兰基础教育阶段的[[Class Size|班额]]上限。
 > - **批判学术路径** 为后续学者（如 Johnson & Janzen, 2023）对 [[Visible Learning]] 帝国展开政治经济学批判提供了确凿、详实的审计级证据支持。
 > - **公共伦理讨论** 引发[[International Education|国际教育]]学界对学者兼任营利性教育外包机构董事与收取巨额版税之利益冲突伦理准则的广泛审思。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术论敌** [[John Hattie]] — 针对[[Class Size|班级规模]][[Effect Size|效应量]]的解释、学术中立性与商业咨询利益冲突展开长期交锋。
 > - **调查合作者** Adams; Bourke — 2016 年共同开展新西兰教育政治经济学实证调查。
 > - **关联机构** [[Cognition Education]] — 奥尼尔调查的核心对象，揭露其作为公立改制中介在商业化运作中的巨额利润与支付明细。
@@ -128,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

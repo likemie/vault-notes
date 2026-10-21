@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # George Tsebelis
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1952** 出生于希腊雅典。
 > - **1975–1979** 于雅典国立理工大学获工程学学位，后于巴黎皮埃尔和玛丽居里大学获数学工程博士学位，奠定其深厚的公理化建模与博弈论数学素养。
 > - **1985** 于圣路易斯华盛顿大学（Washington University in St. Louis）获政治学博士学位，受教于现代实证政治理论与理性选择制度主义学派。
@@ -128,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论对话与吸收者** [[James Mahoney]] — 将否决者理论引入[[Historical Institutionalism|历史制度主义]]，发展出“[[Veto Possibilities|否决可能性]] × 裁量权”双维矩阵。
 > - **理论对话与吸收者** [[Kathleen Thelen]] — 借鉴否决者模型分析强否决阻力下行动者转向层叠与漂移的策略机制。
 > - **学术论敌与同行** [[Peter A. Hall]] — 理性选择制度主义与历史制度主义两大学派领军代表，就偏好内生性与历史时间性开展深层理论对话。
@@ -152,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

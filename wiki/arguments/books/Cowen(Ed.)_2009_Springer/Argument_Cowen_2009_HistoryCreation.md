@@ -73,7 +73,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_Cowen_2009_HistoryCreation
 
@@ -300,9 +300,7 @@ updated: 2026-10-16
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 全书第一板块各章节虽呈现了深度的史料梳理，但整体而言，学界现存研究材料依然严重匮乏，不足以直接支撑一部成熟的跨国比较史（p.8）；对于巴西、阿根廷及欧洲大陆各国内部的学科演进，目前仅掌握零星论文与线索，缺乏系统性专著（pp.8–9）；对跨洲关键人物的深层史学研究与[[Academic Iconography\|学科肖像学]]反思仍处于起步阶段（p.9）。
 
 ---

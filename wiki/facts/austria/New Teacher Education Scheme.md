@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # New Teacher Education Scheme
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 彻底终结了奥地利长达百年的教师培养二元割裂格局，实现了全国教师专业标准的有机统一。
 > - **实践影响** 大幅提升了未来教师运用[[Formative Assessment\|形成性评价]]、设计思维任务与引导学生探究批判的专业素养。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
 > - **知识影响** 为国际高教改革提供了通过重构专业资格框架（NQF）推动跨机构[[Higher-Order Thinking Skills\|高阶思维]]教学的典型范例。

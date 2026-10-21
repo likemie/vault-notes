@@ -48,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 title: Ergas Taxonomy of Technology Policy
 aliases:
   - 埃尔加斯技术政策分类
@@ -122,9 +122,7 @@ aliases:
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|

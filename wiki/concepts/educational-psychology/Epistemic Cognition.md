@@ -97,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -228,9 +228,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1994 — 起源阶段：发展模型** Perry (1970) 和 Kuhn (1991) 确立了个体[[Epistemology\|认识论]]从绝对主义到评价主义的宏大线性发展阶段。
 > - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
 > - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby and Hammer (2001) 提出微观的[[Epistemic Resources\|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的假设。
@@ -298,9 +296,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology\|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology\|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism\|整合多元主义]]”主张。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis\|元分析]]，评估了认识论认知对[[Academic Achievement\|学业成就]]的预测效应，澄清了[[Reliability\|信度]]与对齐规则的核心地位。

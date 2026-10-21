@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alfred Nobel
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1833** 出生于瑞典斯德哥尔摩工程世家，后随家庭迁往俄罗斯圣彼得堡接受化学与机械[[Engineering Education|工程教育]]。
 > - **1866** 在德国克伦梅尔成功将极不稳定的液体硝化甘油与硅藻土混合，发明了安全可控的固体炸药（Dynamite）并取得专利。
 > - **1870–1871** 见证其发明的炸药在普法战争中被军方大规模用于攻城与炸弹制造，早期理想主义纯洁设想遭遇剧烈冲击。
@@ -105,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **工业爆破与现代军工技术** 推动了 19 世纪晚期全球重工业、隧道工程与运河开凿（如巴拿马运河与圣哥达铁路隧道），同时从根本上重塑了近代火药动力学与炮兵武器体系。
 > - **[[Manhattan Project|曼哈顿工程]]与冷战核威慑哲学** 诺贝尔的“炸药止战悖论”在 1945 年三位一体试验中成为[[J. Robert Oppenheimer|奥本海默]]等科学家理解核武器历史功能的直接思想参照，并演变为冷战时期相互保证毁灭（MAD）战略与[[Long Peace|长和平]]机制。
 > - **21 世纪软件[[Hard Power|硬实力]]与 AI [[AI Deterrence|算法威慑]]** 为卡普与扎米斯卡等现代防务思想家提供了战略启示：民主政体面对威权挑战，必须在人工智能与自主作战软件上掌握代差级压倒性实力，以不可挑战的技术优势阻遏地缘侵略。
@@ -153,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究
+> [!evidence-grid] 相关研究
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]：
 >   - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|第 4 章]]（pp. 37–38）：详述诺贝尔硝化甘油炸药发明历程、普法战争军用改装，以及其 1891 年关于恐怖作为和平守护者的现实主义论断对[[J. Robert Oppenheimer|奥本海默]]三位一体试验的心智影响。
 

@@ -51,7 +51,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Authentic Assessment
@@ -128,8 +128,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] [[Systematic Review\|系统综述]] [[OECD]] 国家高等教育中[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的评价政策与实践，论证了从标准化闭卷测试走向校本真实性评价（如采用评分量规、表现任务与[[Learning Portfolio\|学习档案袋]]）的必要性与制度支持策略。
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 在阐释[[Constructive Alignment\|建构性对齐]]理论时指出，表现性评估（实习、项目、反思日志与档案袋）是检验学生达到高阶关联结构与拓展抽象理解的关键工具。

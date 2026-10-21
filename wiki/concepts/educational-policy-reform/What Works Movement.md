@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # What Works Movement
@@ -225,9 +225,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1990 年代末 — [[New Public Management\|新公共管理]]与布莱尔政权倡议** 英美兴起新公共管理思潮，英国工党政府提出“重要在于何者有效”（What matters is what works），倡导基于实证的现代化决策。
 > - **2001–2002 年 — 美国联邦法律制度化突破** 美国通过《不让一个孩子掉队法》（NCLB 2001）与《[[Education Sciences Reform Act 2002|教育科学改革法]]案》（ESRA 2002），正式创设[[Institute of Education Sciences\|教育科学研究院]]（IES）与什么样的有效清算所（[[What Works Clearinghouse\|WWC]]）。
 > - **2011 年 — 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）创立** 英国教育部拨款 1.25 亿英镑注资设立 EEF，开启国家尺度的大规模学校[[Randomised Controlled Trials\|随机对照试验]]资助时代。
@@ -248,9 +246,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念与方法网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念与方法网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -263,9 +259,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation\|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation\|IPE]] 绑定、客观统考及“证明无效”的重大价值。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation\|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency\|教师专业自主权]]受抑的困境。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence Standards\|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。

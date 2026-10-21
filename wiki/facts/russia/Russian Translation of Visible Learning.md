@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Russian Translation of Visible Learning
@@ -169,9 +169,7 @@ updated: 2026-10-17
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -45,12 +45,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 核心主张
-
-> [!info|notitle] 核心主张
+> [!info] 核心主张
 > 通过教育进行国族建构（Nation Building through Education）指国家利用教育系统——课程内容、教学语言、教科书、教师培训和学校管理——在境内多元族群和地区（特别是边疆地区）推行统一的**国家认同**和**主流文化规范**，以消除地方文化特殊性、语言差异和替代性身份认同。
 >
 > [[Argument_Yan_2025_JCS\|Yan and Morris (2025, p. 490)]] 将[[National Education\|香港国民教育]]与中共在西藏、新疆、内蒙古的边疆教育政策并置分析，揭示了统一的治理逻辑。
@@ -89,9 +87,7 @@ updated: 2026-10-21
 >
 > > [[Argument_Yan_2025_JCS\|Yan and Morris (2025, p. 490)]] 指出香港案例的区别性特征："香港的'华化'（[[Sinicisation]]）被更谨慎地执行，先以 LS 的温和'中国背景'为入口，后以 CSD 的强制[[Patriotic Education|爱国教育]]收尾。"
 
-## 发展脉络
-
-> [!note-|notitle] 发展脉络
+> [!note-] 发展脉络
 > - **Vickers and Morris (2022)** — 最早将《国安法》与香港教育"大陆化"直接联系起来，论证教育从社会流动工具转变为国家安全工具
 > - **Leibold and Dorjee (2024)** — 西藏案例分析：强制性国民教育如何消除地方语言和文化认同
 > - **Tobin (2024)** — 新疆案例分析："普通话化"作为教育政策工具
@@ -99,9 +95,7 @@ updated: 2026-10-21
 > - **[[Argument_Yan_2025_JCS\|Yan and Morris (2025)]]** — 将香港纳入同一边疆国族建构框架，揭示统一的治理逻辑
 > - **[[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]** — 从课程文化维度揭示国族建构的另一层面：学校教科书中的"[[Official Knowledge\|官方知识]]"（[[Official Knowledge]]）通过将儒家传统塑造为中华文化核心，在教育层面强化了汉文化中心与少数民族边缘之间的[[Cultural Hierarchy\|文化等级]]
 
-## 研究范式
-
-> [!info|notitle] 研究[[Paradigm\|范式]]
+> [!info] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Critical Theory\|批判理论]]、后殖民研究——将教育视为国家权力的延伸和身份政治的工具
 > - **常用方法** 跨国比较案例分析、政策文件分析、历史分析
 
@@ -127,9 +121,7 @@ updated: 2026-10-21
 >
 > **目前状态** 2020 年后香港与边疆地区国族建构策略的趋同速度加快，[[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] 将此视为这一趋同趋势的证据。
 
-## 相关研究
-
-> [!example|notitle] 相关研究
+> [!example] 相关研究
 > - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 将香港 LS→[[Citizenship and Social Development\|CSD]] 案例纳入边疆国族建构框架
 > - Vickers and Morris (2022) — 国安法与香港教育的"大陆化"
 > - Leibold and Dorjee (2024) — 西藏
@@ -137,8 +129,6 @@ updated: 2026-10-21
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 内蒙古
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 课程文化与儒家复兴视角下的国族建构
 
-## 应用领域
-
-> [!success|notitle] 应用领域
+> [!success] 应用领域
 > - [[National Education\|National Education in Hong Kong]] — 香港国民教育是此理论的直接应用案例
 

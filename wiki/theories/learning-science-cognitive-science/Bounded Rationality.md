@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Bounded Rationality
@@ -103,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -149,9 +147,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 高度不确定、非线性、[[Variable|变量]]交织的复杂专业任务（如教育、医疗、公共管理）以及技术变迁与组织制度演化。
 > - **成立条件** 承认行动者具有主观能动性与反思潜能，同时承认环境具有非平稳与开放特征。
 > - **解释不足** 有限理性理论虽然突破了完全理性假设，但其概念内核仍围绕“理性”与“认知计算”展开，对情感冲动、潜意识欲望、无意识社会[[Habitus|惯习]]（[[Habitus]]）以及纯粹权力压迫机制的阐释相对有限。
@@ -175,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019]] — 将西蒙有限理性理论引入教育学，论证复杂教学任务必然存在理性赤字，由此确立了教师依据实证[[Hypothesis|研究假设]]并在反馈中动态修正的“[[Professional Judgment|专业判断]]”合法性。
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 援引[[Bengt-Åke Lundvall|伦德瓦尔]]（Lundvall, 1993）关于不确定性、本地化学习与有限理性的微观假说，[[Falsification|证伪]]跨国公司抹平国家差异的全球化神话，论证国家与[[Regional Innovation System|区域创新系统]]在维持制度多样性与试错空间中的决定性功能。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Cohen et al., 2011, Ch. 19]] — 在基于主体建模（[[Agent-based Modelling|ABM]]）与复杂系统仿真中，以有限理性主体为基本行动单位，模拟微观互动如何自下而上生成宏观复杂网络模式。

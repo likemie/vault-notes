@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Globally Structured Agenda for Education
@@ -93,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -138,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国金融机构政策转移、[[World Trade Organization|WTO]] 等贸易协定对公共教育的冲击、国家教育法案的企业化重构。
 > - **成立条件** 适用于已被深度卷入全球资本主义分工网络、受外部经贸协定或多边援助约束的民族国家。
 > - **解释不足** 戴尔的 GSAE 偏重宏观结构与制度空间分析，对微观学校和课堂层面师生行动者的文化中介与日常抗争解释相对薄弱，需要结合教育人类学[[Ethnography|民族志]]进行补充。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
@@ -160,7 +156,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统评析戴尔的全球结构化教育议程与八大外部机制，将其与[[Immanuel Wallerstein|沃勒斯坦]]世界体系论相融合，构筑批判全球化教育政治经济学[[Analytic Framework|分析框架]]。

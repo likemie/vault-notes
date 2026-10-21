@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Standard Error
@@ -247,9 +247,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系说明 |
 > |:---|:---|:---|
 > | [[Central Limit Theorem]] | 理论 | 为均值[[Sampling Error\|抽样分布]]呈正态性及标准误公式推导提供数理极限支撑。 |

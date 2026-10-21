@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Design-Based Research
@@ -186,9 +186,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Knowledge Building Theory]] | 理论 | 核心理论渊源——为学习环境设计提供知识创造与[[Epistemic Responsibility\|集体认知责任]]的认识论支柱 |

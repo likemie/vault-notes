@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 # Yong Zhao
 
@@ -57,41 +57,31 @@ updated: 2026-10-15
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 > - 堪萨斯大学教育学院 Foundation Distinguished Professor（现任）。
 > - 研究领域：教育政策、比较教育、教育创新、[[Side Effects\|教育中的副作用]]（[[Side Effects]]）。
 
 ---
 
-## 主要著作
-
-> [!abstract|notitle]
+> [!abstract] 主要著作
 > - Zhao, Y. (2017). What works may hurt: [[Side Effects]] in education. *Journal of Educational Change*. — 从医学引入副作用概念，以[[Direct Instruction\|直接教学]]、东亚教育体系、[[No Child Left Behind Act 2001\|NCLB]] 三个案例论证教育干预的效果与副作用是不可分离的双重结果（详见 [[Argument_Zhao_2017_JEC\|Zhao, 2017]]）。
 > - Zhao, Y. (2020). Two decades of havoc: A synthesis of criticism against [[PISA]]. *Journal of Educational Change*. — 系统梳理近二十年对 [[PISA]] 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷（详见 [[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Yong Zhao 的核心思想围绕两个相互关联的批判框架展开。
 
 ---
 
-### 教育副作用框架
-
-> [!tip|notitle]
+> [!tip] 教育副作用框架
 > 从医学借鉴副作用（[[Side Effects]]）概念，论证教育干预的效果与副作用是不可分离的双重结果。教育研究从医学借鉴了 [[Randomised Controlled Trials\|RCT]] 等方法论工具，但系统性忽略了副作用的研究与报告制度([[Argument_Zhao_2017_JEC\|Zhao, 2017]])。
 >
 > 缺乏副作用研究的四个系统性后果：无休止的改革战争、政策在不知风险的情况下被推广、钟摆效应、对最好教育体系的幻灭。提出 6 项行动建议，主张建立类似 FDA 药物审批的教育干预副作用评估和监测机制。
 
 ---
 
-### PISA 系统性批评
-
-> [!tip|notitle]
+> [!tip] PISA 系统性批评
 > 对 [[PISA]] 的批评涵盖三个根本缺陷([[Argument_Zhao_2020_JEC\|Zhao, 2020]])：
 >
 > **捏造的主张（[[PISA Made-up Claim]]）**。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
@@ -104,9 +94,7 @@ updated: 2026-10-15
 
 ---
 
-## 思想发展
-
-> [!note|notitle]
+> [!note] 思想发展
 
 ### 2017 — 教育副作用框架
 
@@ -122,18 +110,14 @@ updated: 2026-10-15
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - 对 [[PISA]]/[[TIMSS]] 跨国比较的副作用分析，揭示东亚教育体系在考试成绩上世界第一但学生自信心和学科态度世界最低的矛盾。
 > - 系统性 PISA 批评为教育政策研究提供了非技术性语言的综合框架，将分散在学术期刊和技术报告中的批评汇集为一处。
 > - 教育副作用框架为反思标准化改革和[[Evidence-Based Education\|证据本位教育]]提供了批判性视角。
 
 ---
 
-## 格言／关键表述
-
-> [!quote|notitle]
+> [!quote] 格言／关键表述
 > "The lack of impact is no reason to give up exposing PISA as a flawed business that has great power to misguide education."([[Argument_Zhao_2020_JEC\|Zhao, 2020]])
 >
 > 批评的无效并不是放弃揭露 PISA 作为一个具有误导教育的巨大力量的有缺陷企业的理由。

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Franz Hilker
@@ -167,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **西德学派双核同行** [[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider） — 施奈德偏重天主教哲学精神与[[Theories of the Driving Forces|驱动力理论]]的宏阔文化历史思辨，希尔克侧重严谨实证文献系统化与四步认知阶梯，二者构成战后西德比较教育的互补双峰。
 > - **方法论继承者** [[George Bereday|乔治·贝雷迪]]（George Bereday） — 吸纳希尔克四阶段比较逻辑，将其转化为战后英美比较教育方法论的经典教材母版。
 > - **历史评述学者** [[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter） — 阐释希尔克在西德比较教育[[Disciplinary Institutionalization|学科建制]]与制度化历史中的核心地位。
@@ -198,9 +196,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

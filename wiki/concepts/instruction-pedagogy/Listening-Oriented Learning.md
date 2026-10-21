@@ -38,21 +38,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Listening-Oriented Learning
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Listening-oriented learning（倾听导向学习）是 Cortazzi and Jin 提出的概念，用于描述东亚课堂中一种以**倾听而非口头表达为中心**的学习方式。在这一模式中，学生表面上说话很少甚至沉默，但实际上在高度活跃地认知处理教师的讲授内容和同伴的发言——"我们脑子里是活跃的。我们一直在思考。我们的心跟着讲师，带着问题和挑战。我们只是不习惯说出来"([[Argument_Li_2012_Cambridge\|Li, 2012, p.117]])。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 在第 8 章中从以下维度描述了倾听导向学习的特征([[Argument_Li_2012_Cambridge\|Li, 2012, pp.115-120]])：
 
 **1. 沉默不等于被动**
@@ -73,18 +69,14 @@ Inagaki、Hatano and Morita 对日本课堂的研究发现，尽管口头表达�
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Action Better Than Words\|行胜于言]] — 儒家文化的基本立场：行动——而非言语——才是一个人道德成就的真正衡量标准。在这一框架中，"说"本身不被赋予独立的智力价值
 > - [[Confucian Learning Tradition\|儒家学习传统]] — 东亚学习传统的整体框架，其中"沉默的美德"（chosen silence as virtue）是核心组成部分。天"无言而化万物"，是最高德行的理想([[Argument_Li_2012_Cambridge\|Li, 2012, pp.99-100]])
 > - 道家的阴阳世界观 — 道家认为万物恒变、对立统一，因此没有一件事物可以被固定不变地"说清楚"——模糊性不是语义失败，而是世界观的直接表达([[Argument_Li_2012_Cambridge\|Li, 2012, pp.110-111]])
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > **Heejung Kim 的[[Experimental Research\|实验研究]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.108]])** 提供了倾听 vs 说话对认知功能影响的直接证据：
 > - 在解决问题时同时说话**降低**了东亚学生的表现，并增加了他们的压力荷尔蒙（皮质醇）水平
 > - 同样的条件**提高**了欧裔美国学生的表现，并使他们更放松

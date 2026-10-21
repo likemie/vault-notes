@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rote Learning
@@ -202,9 +202,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960–1970 年代 — 奥苏伯尔（Ausubel）确立机械学习与有意义学习二元谱系** 大卫·奥苏伯尔（David Ausubel）提出认知同化论，将机械学习（Rote Learning）严格界定为未与认知结构中既有观念建立实质性联系的符号存储，奠定了西方认知心理学将机械记忆与有意义理解截然对立的基础[[Paradigm\|范式]]。
 > - **1980–1990 年代 — 信息加工理论与表层加工测量** [[John Biggs\|约翰·比格斯]]（John Biggs）与诺埃尔·恩特威斯尔（Noel Entwistle）等学者开发学习过程[[Questionnaire\|问卷]]，将机械死记硬背归入“[[Surface and Deep Learning\|表层学习]]策略（Surface Approach）”，视其为缺乏内在动机与深层反思的低效应试手段。
 > - **1990–2010 年代 — [[Phenomenology\|现象学]]与跨文化转向：[[Paradox of the Chinese Learner\|中国学习者悖论]]解构** 费伦斯·马顿（Ference Marton）团队通过现象学访谈发现东亚学生“为理解而记忆”的经验事实；[[Jin Li\|李瑾]]（Jin Li, 2012）在《文化透镜下的学习》中系统剖析西方观察者的四大认知谬误，确立了东亚文化中记忆作为[[Familiarization\|熟悉化]]与温故知新递进台阶的理论合法性。
@@ -251,9 +249,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** — 系统剖析西方观察者对东亚学习者重复记忆行为的四大认知谬误，结合拉赫玛尼诺夫练琴案例文献，阐述东亚文化中“以记忆为手段达到理解”的深层认知机制。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — [[Epistemology\|认识论]]干预[[Meta-analysis\|元分析]]证实，认识论教学主要促进论证与概念理解，对考查死记硬背的[[Procedural Knowledge\|程序性知识]]无效；常规考卷聚焦机械记忆是导致测量不敏感的根源。
 > - **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** — 大规模元分析确立[[Epistemological Beliefs\|认识论信念]]对概念与论证的显著预测力，实证证实其与底层程序性记忆的解耦。

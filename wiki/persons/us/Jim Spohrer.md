@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -40,9 +40,7 @@ updated: 2026-10-16
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 > - 早年 — MIT 物理学学士（BS/Physics），后在 Verbex（Exxon 子公司）开发语音识别系统。
 > - 博士阶段 — Yale 大学计算机科学博士（PhD/Computer Science AI），研究方向为人工智能。
 > - Apple 时期 — 在 Apple 担任 Distinguished Engineer Scientist Technologist（DEST），负责作者与学习平台（authoring and learning platforms）。
@@ -51,9 +49,7 @@ updated: 2026-10-16
 
 ---
 
-## 主要著作
-
-> [!abstract|notitle]
+> [!abstract] 主要著作
 > - Spohrer, J. C. (2010). IBM'S university programs. *IEEE Computer*, *43*(8), 102–104. — 首次正式发表六 R 框架。
 > - Rouse, W. B., & Spohrer, J. C. (2018). Automating versus augmenting intelligence. *Journal of Enterprise Transformation*, *8*(1–2), 1–21. — 提出 AI 将增强而非取代服务提供者的判断，被 [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer（2025）]]引为全文论证的落脚点。
 > - Spohrer, J. (2017). IBM'S service journey: A summary sketch. *Industrial Marketing Management*, *60*, 167–172. — 回顾 IBM 的服务业务转型历程。
@@ -74,9 +70,7 @@ updated: 2026-10-16
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - 六 R 框架被 IBM GUP 团队在 45 个国家、百余名专职人员中推广使用，作为与大学合作伙伴（从教师到院长到校长）沟通产学投资的结构化语言。
 > - 通过 ISSIP 和 [[University Industry Demonstration Partnership\|UIDP]] 等平台，六 R 框架的影响扩展到更广泛的[[University-Industry Collaboration\|产学合作]]实践者社区。
 > - 关于 AI 与数字孪生重塑服务提供者和产学关系的观点，为产学合作的未来研究提供了前瞻性方向。

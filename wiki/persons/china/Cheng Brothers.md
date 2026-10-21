@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-11
+updated: 2026-10-22
 ---
 # Cheng Brothers
 
@@ -74,13 +74,9 @@ updated: 2026-09-11
 - 朱熹将二程的格物致知学说整合进《[[The Great Learning]]》，构建了从格物到平天下的八条目学习路径([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 - 程朱学派强调"读书"为学的核心方式，同时借鉴佛教的静坐冥想方法，发展出儒家学习者"静坐深思"的修行方式([[Argument_Li_2012_Cambridge|Li, 2012, p.44]])。
 
-### 轶事：程门立雪
-
-> [!example|notitle]
+> [!example] 轶事：程门立雪
 > 二程在宋代有一名学生，从南方远道而来求学。一个寒冷的冬日，这位学生与朋友一同前往程颢的住所，到达后发现老师正在午睡。他决定在门外等候。天开始下雪。朋友无法忍受寒冷，恳求他叫醒老师，但这位学生坚持等待。当老师醒来时，看到两人已被雪覆盖。程颢被学生的真诚深深打动。这一"程门立雪"的故事代代相传，成为[[Confucian Learning Tradition\|儒家学习传统]]中"诚意"与"尊师"的典范([[Argument_Li_2012_Cambridge\|Li, 2012, p.49]])。
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 - 二程的天理学说奠定了[[Neo-Confucianism|宋明理学]]的理论基础，影响了此后近千年东亚的教育思想与实践([[Argument_Li_2012_Cambridge|Li, 2012, pp.43-45]])。
 - 程朱学派主导了中国教育的内容与形式——四书五经成为[[Civil Service Examination|科举]]考试的核心内容，持续十三个世纪([[Argument_Li_2012_Cambridge|Li, 2012, p.47]])。

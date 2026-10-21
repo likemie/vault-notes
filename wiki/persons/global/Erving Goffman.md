@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Erving Goffman
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **教育研究应用** 通过比较精神病院、[[Boarding Schools|寄宿学校]]与现代精英大学的共同特征，使熟悉的学校生活重新成为分析对象。共同日程、私人空间、物品控制、成员分隔和沟通机会由此成为观察问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 > - **理论传统** 深化了[[Symbolic Interactionism|符号互动论]]，为微观社会学[[Qualitative Observation|田野观察]]与日常互动分析提供了核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch01)]]
 
@@ -88,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Spatial Governmentality
@@ -167,9 +167,7 @@ graph TD
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 民族国家利用初等与中等教育体系实施人口调控、阶层固化、学区隔离、少数族裔定居同化以及[[Migrant Children|流动儿童]]排斥的制度过程。
 > - **成立条件** 研究对象须处于具有一定[[Bureaucracy|官僚科层制]]水平与空间规划权力的现代治理体系之下，且存在明确的制度化学校教育形态。
 > - **解释不足** 容易过度强调权力技术的无所不在与结构性严密性，相对低估受规训群体（如移民家庭、游牧民族、流动学生）的日常生活反抗、非正式网络支持以及利用制度缝隙实现的能动超越。
@@ -192,9 +190,7 @@ graph TD
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 运用空间[[Governmentality|治理术]]的三大轴线系统剖析全球教育中的[[Student Mobility|学生流动性]][[Discourse|话语]]差异，以及中国、美国、西班牙、英国和印度的[[Migrant Children|流动儿童]]边缘化机制。
 
 ---

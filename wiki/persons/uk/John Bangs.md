@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John Bangs
@@ -86,9 +86,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1970–1990 年代** 投身英国基础教育一线教学与工会维权，历任伦敦特殊教育教师与工会基层代表，深切体认一线教师在自上而下行政问责体制下的失语困境。
 > - **1990–2010 年** 担任全英教师联合会（NUT，现全国教育联盟 NEU）教育与平等事务部部长，主导应对英国国家课程与高利害考试改革；与剑桥大学教授约翰·麦克比斯（John MacBeath）、莫里斯·[[Francis Galton|高尔顿]]（Maurice Galton）深度合作，系统开展教师工作负担与专业状态实证研究。
 > - **2010 年** 加盟剑桥大学教育学院担任高级研究员；出任代表全球 3200 万教师的[[Education International\|国际教育协会]]（EI）特别战略顾问，领导 EI 智库与研究院的政策证据倡导工作。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–210)]]
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** [[Andreas Schleicher]] — [[OECD]] 教育与技能司司长，长年共同筹办 [[International Summits on the Teaching Profession\|ISTP]] 峰会，联合起草跨国背景研究报告与复兴十项原则。
 > - **论辩与对话者** [[Mark Schneider]] & [[Dirk Van Damme]] — 在 OECD 专题论坛中分别代表官方科研出资方、比较教育学术界与班斯展开跨阵营多维学术对话。
 > - **依托机构** [[Education International]] — 担任其高级战略顾问，主导智库建设与跨国数据维权。
@@ -176,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

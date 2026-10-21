@@ -44,33 +44,27 @@ related_arguments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 ## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）教育学院教授，比较教育与高等教育研究者。他的研究聚焦于[[Global Education Industry\|全球教育产业]]（GEI）、[[Geopolitics of Knowledge\|知识地缘政治]]以及教育研究在欧洲经济想象中的嵌入方式。
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 
 - 任职于明斯特大学教育学院（Institute of Education, University of Münster, Germany）（Thompson & Parreira do Amaral, 2022, p.1）
 - 2019 年与 [[Christiane Thompson]] 和 [[Gita Steiner-Khamsi]] 共同编辑 *Researching the [[Global Education Industry]] — Commodification, the Market and Business Involvement*（Palgrave Macmillan）（Thompson & Parreira do Amaral, 2022, p.17）
 - 与 [[Christiane Thompson]] 共同主编 *Geopolitical Transformations in Higher Education* (2022, Springer)，并合写导言与结论章
 
-## 主要著作与思想发展
-
-> [!abstract|notitle]
+> [!abstract] 主要著作与思想发展
 
 - Parreira do Amaral, M., [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]], & [[Christiane Thompson|Thompson, C.]] (Eds.). (2019). *Researching the [[Global Education Industry]] — Commodification, the market and business involvement*. Palgrave Macmillan. — 系统研究全球教育产业的商品化、市场和商业参与
 - Parreira do Amaral, M. (2019). Embedding education research in the European economic imaginary? In M. Parreira do Amaral, G. Steiner-Khamsi, & C. Thompson (Eds.), *Researching the global education industry*. Palgrave Macmillan. — 论证教育研究正被嵌入欧洲经济想象，从而被缩减为对技术科学创新的工具性贡献
 - Parreira do Amaral, M., & Thompson, C. (2019). Conclusion: Changing education in the GEI — Rationales, logics, and modes of operation. In M. Parreira do Amaral, G. Steiner-Khamsi, & C. Thompson (Eds.), *Researching the global education industry*. Palgrave Macmillan. — 概括全球教育产业变革的理性、逻辑和运作模式
 - Parreira do Amaral, M. (2022). Imagining and transforming higher education. [[Knowledge Production]] in the new [[Geopolitics of Knowledge]]. In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education* (pp. 35–51). Springer. — 整合[[Critical Geopolitics|批判地缘政治学]]与后殖民去殖民两脉络，提出"新知识[[Geopolitics|地缘政治]]"概念，以[[Global Regionalisms|全球区域主义]]和 GEI 为转型语境，以 IEHs and Minerva 项目为典型案例
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 
 在本书导言中，Parreira do Amaral and Thompson 共同提出，当前高等教育正经历一种"（新的）[[Geopolitics of Knowledge|知识地缘政治]]"，其中创新、科学和教育成为个体、企业和国家在全球竞争中进行战略定位的关键维度。他强调需要关注高等教育从民族国家框架中"脱位"并在全球政治经济[[Champ|场域]]中"再定位"的多层面过程。
 

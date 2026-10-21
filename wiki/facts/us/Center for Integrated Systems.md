@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-19
+updated: 2026-10-22
 ---
 
 # Center for Integrated Systems
@@ -143,9 +143,7 @@ updated: 2026-10-19
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

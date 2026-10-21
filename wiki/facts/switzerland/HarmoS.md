@@ -11,9 +11,9 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
   - switzerland
@@ -23,27 +23,24 @@ tags:
   - harmonization
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[School Autonomy]]"
-  - "[[Cognitive Authority]]"
-  - "[[Soft Power by Hard Facts]]"
   - "[[Evidence-Based Policy-Making]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods:
-  - "[[Systematic Review]]"
-  - "[[Comparative Policy Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[OECD]]"
   - "[[PISA]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # HarmoS
@@ -154,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

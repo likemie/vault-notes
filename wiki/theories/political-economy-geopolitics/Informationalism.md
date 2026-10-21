@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-09
+updated: 2026-10-22
 ---
 
 # Informationalism
@@ -92,7 +92,6 @@ Informationalism（信息主义）是 [[Manuel Castells]] 在其《信息时代�
 > - **2015** Chan 运用该框架分析苏联科技落后的五个具体机制，将信息主义的理论命题[[Operationalization\|操作化]]为可检验的历史解释[[Argument_Chan_2015_Intersect\|(Chan, 2015)]]。
 
 ---
-## 相关研究
 
-> [!example|notitle]
+> [!example] 相关研究
 > - [[Argument_Chan_2015_Intersect|Chan (2015)]] — 运用 Informationalism 框架分析苏联科技落后的五个机制，论证国家主义逻辑与[[Informationalization\|信息化]]要求之间的结构性不相容。

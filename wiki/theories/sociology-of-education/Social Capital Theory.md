@@ -36,15 +36,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Social Capital Theory
 
 ---
-## 核心主张
 
-> [!abstract|notitle]
+> [!abstract] 核心主张
 > 社会资本理论的核心主张是：社会关系网络、信任、规范和互惠性构成一种**资本形式**——社会资本，它能够为个体和组织带来经济和社会回报，降低交易成本，促进合作和知识流动。ODwyer、Filieri and OMalley（2023）将社会资本理论应用于[[University-Industry Collaboration\|产学合作]]网络的演化分析，揭示了不同阶段需要不同类型的社会资本[[Argument_ODwyer_Filieri_OMalley_2023_JTT\|(O'Dwyer et al., 2023)]]。
 
 社会资本理论为理解产学合作中的三个核心问题提供了[[Analytic Framework|分析框架]]：
@@ -68,9 +67,8 @@ updated: 2026-10-21
 > 产业伙伴在 SSPC 成立前通过 IBEC R&D 小组积累的先前合作经验，是胚胎期最重要的社会资本。"在项目开始之前，我们很多人在 IBEC R&D 小组中一起工作，我们非常熟悉彼此，在我们的讨论中非常自在。所以这是一种自然的过渡，而不是需要被生成的过渡。"这种先前社会资本将产业伙伴之间的"竞争关系"转化为"合作准备"，为正式合作的启动奠定了基础。
 
 ---
-## 理论基础
 
-> [!tip|notitle]
+> [!tip] 理论基础
 > - **Bourdieu（1986）** 社会资本是嵌入在社会关系网络中的资源，可通过群体成员身份获取
 > - **Coleman（1988）** 社会资本存在于社会结构之中，促进结构内的行动者实现特定目标
 > - **Putnam（1993, 2000）** 社会资本包括网络、规范和信任，是社会组织的特征，促进协调与合作以实现共同利益
@@ -83,8 +81,7 @@ updated: 2026-10-21
 > [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）结合帕特·汤姆森（Pat Thomson, 1999）的分析指出，20世纪90年代末[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织大力吸纳罗伯特·帕特南（Robert Putnam, 2000）的社会资本概念，源于三重政策冲动：其一，试图回应并修补[[Human Capital Theory|人力资本理论]]中极端个人主义所引发的社会撕裂；其二，认识到市场经济的持续成功客观上需要一定程度的社会凝聚力、稳定性与社会信任作为制度底座；其三，意识到公众日益将单纯的经济指标增长与实质性的个人福祉（well-being）相剥离。然而，在[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与“经济基要主义”的支配下，[[OECD]]并未借此恢复社会民主主义传统中的实质正义与民主共同体理想，而是将社会资本与社会凝聚力“剩余化”（residualize）为一种治理工具，仅用于管理经济边缘化、社会排斥与文化差异带来的摩擦，并把社会排斥狭隘地界定为未能融入[[Knowledge-Based Economy|知识经济]]的个体适应失败[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 450)]]。
 
 ---
-## 相关研究
 
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_ODwyer_Filieri_OMalley_2023_JTT|O'Dwyer et al. (2023)]] — 将社会资本理论应用于[[University-Industry Collaboration|产学合作]]网络演化，揭示声誉信任与诚信信任在合作不同阶段的差异化功能。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析[[OECD]]如何吸纳Putnam的社会资本概念并将其重构为管理经济边缘化、维系[[Knowledge-Based Economy|知识经济]]生产率的剩余性政策工具。

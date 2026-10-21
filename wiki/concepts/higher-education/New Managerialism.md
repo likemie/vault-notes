@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # New Managerialism
@@ -76,9 +76,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 新管理主义（New Managerialism） | 传统大学自治（Academic Collegiality） | 传统韦伯式[[Bureaucracy\|科层制]]（Bureaucracy） |
 > |---|---|---|---|
 > | **权力重心** | 职业管理者与行政考核主管 | 教授会、学者同行与学术委员会 | 遵循既定章程的常任事务官僚 |
@@ -150,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980 年代 — [[New Public Management|新公共管理]]浪潮发轫** 英国撒切尔政府与美国里根政府推行新公共管理（New Public Management, NPM），主张引入私营企业管理手法削减公共赤字。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 > - **1988–1989 — 新西兰将“[[Critic and Conscience of Society|社会的批评者与良知]]”立法定为反制机制** 面对财政部与新管理主义倡导者的市场化冲击，格雷斯提出大学必须承担面向公权力的批判良知使命；该原则被写入《1989 年教育法》，开创了以国家立法抗拒新管理主义意识形态殖民的先例。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **1990 年代 — 全面渗透高等教育领域** 英美、澳新等国学者（如 Deem, Marginson）系统记录并批判管理主义进驻大学，揭示其对大学文化与学术劳动的解构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 115)]]
@@ -171,8 +167,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 论证新自由主义全球化如何在微观上通过新管理主义重构高等教育运行逻辑，并与宏观世界体系的资本积累需求形成联动。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 回溯新西兰高教治理史，论述如何通过立法确立大学作为[[Critic and Conscience of Society|社会的批评者与良知]]，抵御新管理主义与财政依附对学术独立性的侵蚀。

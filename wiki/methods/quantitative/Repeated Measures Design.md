@@ -37,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Repeated Measures Design
 
@@ -88,9 +88,7 @@ updated: 2026-10-20
 
 也可以[[Random Assignment|随机化]]干预顺序并将参与者随机分配至不同序列，但这不保证平衡序列（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 325–326]]）。
 
-## 资料与分析
-
-> [!info|notitle]
+> [!info] 资料与分析
 > 重复测量数据的分析需要考虑数据内部的**相关结构**——同一参与者的多次测量不是独立的。重复测量 [[Analysis of Variance\|ANOVA]] 通过球形假设（sphericity）来处理这种相关性；当球形假设不满足时，使用 Greenhouse-Geisser 或 Huynh-Feldt 校正。线性混合模型（LMM）是更灵活的替代方案，可以直接建模个体[[Random-Effects Model|随机效应]]和不同的协方差结构。在分析[[Interaction Effect\|交互效应]]时需特别注意：如果交互效应显著，简单效应分析（simple effects）比主效应更有信息量。
 
 ## 适用场景
@@ -106,17 +104,13 @@ updated: 2026-10-20
 > - **药物剂量交叉试验** 同一组患者在三个治疗期依次接受低剂量、高剂量和安慰剂，每期间隔足够的洗脱期（washout period）。患者间体质差异被消除。
 > - **界面可用性测试** 同一组用户依次使用三种界面设计完成相同任务，测量完成时间和错误率。操作熟练度差异自动控制。
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **[[Order Effects\|顺序效应]]** 是最主要的威胁——前一次干预可能影响后一次干预的结果，即使通过拉丁方排列也只能均衡而非消除。
 > - **延续效应难以完全消除** 某些干预的效应是持久性的——一旦参与者接受了某种训练，其影响可能贯穿后续所有条件。
 > - **疲劳和练习效应** 随着参与的进行，受试者可能因疲劳而表现下降，或因练习而表现上升——两者都混淆条件效应。
 > - **不可逆干预不适用** 如果干预产生永久性的学习或改变，撤除后行为不会回到基线，重复测量的逻辑失效。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[True Experimental Design]] | 方法 | 所属类别——重复测量设计是真实验的受试者内变体 |

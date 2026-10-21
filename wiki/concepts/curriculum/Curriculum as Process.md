@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Curriculum as Process（作为过程的课程）
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 作为过程的课程（Process） | [[Curriculum as Praxis\|作为实践的课程（Praxis）]] |
 > |------|----------------------------------|----------------------------------|
 > | **核心理性** | [[Aristotle\|亚里士多德]][[Phronesis\|实践明智]]（*Phronesis*） | 解放理性与反压迫[[Praxis\|实践]]（*Praxis*） |
@@ -114,9 +112,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1975 — 过程模式提出** 斯滕豪斯在《课程研究与开发引论》中创立过程模式。[[Argument_Darwish_2009_Queens\|(Stenhouse, 1975, 引自 Darwish, 2009)]]
 > - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle\|亚里士多德]] *[[Phronesis]]* 的实践利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
 > - **2009 — [[Theory of Knowledge\|TOK]] 定位评价** 达维什将 IB TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 72–78)]]
@@ -130,7 +126,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 评估 IB [[Theory of Knowledge\|TOK]] 课程指南如何符合作为过程的课程[[Paradigm\|范式]]。

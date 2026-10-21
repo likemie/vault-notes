@@ -77,7 +77,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_Peterson_1987_OpenCourt_Ch02
 
@@ -650,9 +650,7 @@ updated: 2026-10-16
 >
 > *[Feasibility had to be established] not by further discussions or expressions of goodwill ... but by demonstrating that it actually worked in practice on a small scale and was capable of expansion.*
 
-## 史料性质与解释边界
-
-> [!warning|notitle]
+> [!warning] 史料性质与解释边界
 > 本章是核心参与者的回顾性叙事。[[Alec Peterson]] 明确区分 Martin Mayer 所称的牛津接管与自己记忆中的合作救援，说明组织权力变化存在视角差异（p. 23）。教师会议、凌晨谈话和个人评价提供过程细节，仍需与基金会、政府、大学及其他参与者档案交叉核验；1970 年 29 名学生的使用只构成可行性证据，无法评估长期成效。
 
 ## 来源

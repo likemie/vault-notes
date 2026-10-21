@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alec Peterson
@@ -79,9 +79,7 @@ updated: 2026-10-21
 > - **思想位置** 他的[[General Education|通识教育]]观强调思维过程而非事实堆积；制度设计则强调共同质量边界与[[School Autonomy|学校自主]]实施之间的平衡。
 > - **史料边界** 他的著作是参与者历史。书中事实、个人回忆与规范性判断需要分开阅读，不能自动视为 IB 或[[United World Colleges\|联合世界书院]]（United World Colleges，UWC）的官方立场。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1954–1957** 马来亚的多族群工作经验促使其思考教育如何消解民族偏见，回到英国后在多佛学院开设小规模的国际高中阶段，并于 1957 年在布鲁日[[International Education\|国际教育]]会议结识[[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 1–2)]]
 > - **1961–1962** 参与大西洋学院筹备，与罗伯特·布莱克本设计学术课程，尝试在英国高级程度考试之外维持语言、社会研究、科学和艺术的课程广度。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 7–13)]]
 > - **1966–1967** 在[[International Schools Examination Syndicate\|国际学校考试辛迪加]]陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·哈波·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 23–24)]]
@@ -142,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **共同创制** [[Founding of the International Baccalaureate\|国际文凭创立]]；与[[Bob Leach\|鲍勃·利奇]]、[[Gerard Renaud\|杰拉德·雷诺]]、[[John Goormaghtigh\|约翰·戈尔马蒂赫]]等人分别承担教师动员、课程设计、组织治理和制度整合工作。
 > - **制度化试验** [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] — 连接学校招募、考试实施、大学承认、筹资和政府谈判，使项目从课程倡议转为常设组织。
 > - **创立机构** [[International Baccalaureate]]、[[IB Diploma Programme]]。

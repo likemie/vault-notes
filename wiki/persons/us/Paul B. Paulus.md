@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Paul B. Paulus
@@ -65,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1942 年** 出生，后在爱荷华大学获得实验社会心理学博士学位，专注于人类行为、环境心理学与小群体动力学研究。
 > - **1970 年代** 加入得克萨斯大学阿灵顿分校，建立群体创新与认知实验中心，历任心理学系主任、理学院院长。
 > - **1980–1990 年代** 针对工业界对[[Brainstorming\|头脑风暴]]的盲目崇拜展开严格实验解构，发表系列关于群体生产力损失（Process Loss）与名义群体优势的突破性论文。
@@ -101,18 +99,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 确立了当代团队创新研究中的“认知动力学（Cognitive-Psychological Approach to Group [[Creativity]]）”学派，成为连接认知心理学与组织行为学的理论枢纽。
 > - **方法路径** 推广了书面[[Brainstorming\|脑力激荡]]（Brainwriting）与电子头脑风暴（EBS）实验规程，彻底更新了全球高校创新教学与企业敏捷共创的实操[[Paradigm\|范式]]。
 > - **教学实证路径** 其研究成为[[Creativity Training\|创造力干预]][[Meta-analysis\|元分析]]解释“个体练习为何优于群体协作（$g = 0.682$ vs $0.567$）”的核心实证支座。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论对话者／批判修正对象** [[Alex Osborn]] — 修正了奥斯本对面对面[[Brainstorming\|头脑风暴]]的盲目乐观假定，保留其延迟评判内核并重构交付载体。
 > - **主要合作者** 伯纳德·奈斯塔德（Bernard Nijstad） — 共同主编《Group [[Creativity]]: Innovation through Collaboration》，建立创造力双通路模型。
 > - **核心合作学生** J. Baruah — 共同开展[[Creativity Training\|创造力训练]]与群体构想实验（Baruah & Paulus, 2008）。
@@ -131,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

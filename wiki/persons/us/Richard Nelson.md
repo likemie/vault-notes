@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Richard Nelson
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1930** 出生于美国。
 > - **1956** 获卡内基梅隆大学博士学位，先后任职于兰德公司（RAND Corporation）与总统经济顾问委员会（CEA）。
 > - **1959** 在 *Journal of Political Economy* 发表《基础科研经济学》（*The Simple Economics of Basic Scientific Research*），奠定公共科研投资[[Market Failure|市场失灵理论]]基石。
@@ -123,18 +121,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **终身理论盟友** [[Chris Freeman]] — 共同开创[[Evolutionary Economics|演化经济学]]国际学术网络与[[National Innovation System|国家创新系统]]理论。
 > - **终身理论盟友** [[Bengt-Åke Lundvall]] — 共同推进互动学习与国家[[Systems of Innovation|创新系统]]的国际比较。
 > - **微观理论合作者** Sidney G. Winter — 共同开创基于组织惯例的现代演化经济学[[Paradigm|范式]]。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

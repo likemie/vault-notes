@@ -59,7 +59,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murphy_2026_JTS"
@@ -306,9 +306,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文作者明确指出的研究局限包括：（p.7）
 > 1. **单机构案例泛化性受限** 采用单机构[[Case Study|案例研究]]设计，且样本规模相对有限，限制了研究发现向不同类型高等教育机构推广的普适性。
 > 2. **自陈式[[Questionnaire|问卷]]的数据局限** 依赖开放式[[Pre-test and Post-test|后测]]调查的自述数据，可能无法完全捕捉工作坊产生的全部客观成果与复杂的深层参与体验。

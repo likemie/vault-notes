@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ulrich Trautwein
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1972 年** 出生于德国。
 > - **2000–2008 年** 任职于柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）教育研究中心，与 Jürgen Baumert、Olaf Köller 等共同设计并主持 [[TOSCA]] 大型纵向追踪项目。
 > - **2008 年至今** 担任图宾根大学教育科学与心理学全职教授，创办并领导 Hector 教育科学与心理学研究所，成为欧洲实证教育心理学研究重镇。
@@ -87,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** Oliver Lüdtke — 长期方法论与统计建模合作者。
 > - **合作者** Olaf Köller — [[Max Planck Institute for Human Development|MPIB]] / IPN 资深合作者，共同主持 [[TOSCA]]。
 > - **合作者** Jürgen Baumert — MPIB 教育研究中心主任、[[PISA]] 德国首席科学家。
@@ -97,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

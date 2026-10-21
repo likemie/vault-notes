@@ -101,7 +101,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John Dewey
@@ -122,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1859** 出生于美国佛蒙特州伯灵顿。
 > - **1884** 获约翰斯·霍普金斯大学博士学位，先后任教于密歇根大学与明尼苏达大学。
 > - **1894–1904** 任芝加哥大学哲学、心理学与教育学系主任，创办芝加哥大学实验学校（University of Chicago Laboratory Schools），将活动课程、社会性学习与“学校即社会”主张置于实验性教育实践中检验。
@@ -214,9 +212,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定[[Pragmatic Paradigm|实用主义]]教育哲学，重构经验、探究与知识的关系，提出[[Active Learning|主动学习]]三环节模型（[[Critical Thinking|批判性思维]]、对话、生长），反对绝对确定性执念，将证据理解为情境行动中可修正的假设（Dewey quoted in Hattie, 2008, p.147; [[Argument_Darwish_2009_Queens|Darwish, 2009]]）；其经验探究论成为现代[[Engineering Mindset|工程思维]]的哲学先声（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
 > - **方法路径** 推崇[[Reflexivity|反思性]]探究与试错实验，批判[[Technical Rationality|技术理性]]与将教师简化为[[Classroom Management|课堂管理]]技巧训练的倾向，倡导保持[[Professional Judgment|专业判断]]；倡导深入现实系统具体细节的经验实测与持续修正。
 > - **政策与实践路径** 推动了综合课程、活动教学法（如项目制构建模型）、学分制以及从科目隔绝转向社会科整合的全球课程改革趋势。
@@ -253,9 +249,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论对话与课程审查** [[Paulo Freire|保罗·弗莱雷]]（[[Critical Pedagogy|批判教育学]]对话者）、[[Bob Darwish|鲍勃·达维什]]（将杜威与弗莱雷结合提出[[Active Learning|主动学习]]三环节模型） — 共同批判被动[[Banking Model of Education|储蓄式教育]]，强调学生作为能动主体的自由。
 > - **现代工程哲学与治理对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中将杜威《[[Pragmatic Paradigm|实用主义]]美国》关于深入具体系统运作的论述确立为现代[[Engineering Mindset|工程思维]]与狐狸型[[Epistemology|认识论]]的哲学前驱。
 > - **古典批判对象** [[Plato|柏拉图]]、[[Aristotle|亚里士多德]] — 杜威批判古典哲学构建了将统治与理性限定于少数护卫者阶层的静态社会，排斥平民生长的可能。
@@ -294,9 +288,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

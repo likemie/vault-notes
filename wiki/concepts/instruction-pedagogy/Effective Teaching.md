@@ -117,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Effective Teaching
@@ -270,9 +270,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1980 年代 — 过程—结果实证[[Paradigm|研究范式]]（Process-Product Paradigm）** 以 Barak Rosenshine、Jere Brophy 为代表，系统测量教师行为（如提问频率、等待时间、[[Direct Instruction|直接讲授]]）与学生标准化成绩之间的量化关联，奠定了显性有效教学原则。
 > - **1990–2000 年代 — [[Didaktik|欧陆教学论]]与质量框架整合（Didaktik & Quality Dimensions）** [[Hilbert Meyer]]（10 项优质教学特征）与 [[Andreas Helmke]]（优质教学综合模型）将教师领导、目标导向与认知激活纳入系统化质量框架。
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为主动激活者（$d = 0.60$）远优于促进者（$d = 0.17$）的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
@@ -418,9 +416,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:-----|
@@ -435,9 +431,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 比较 Hattie、Meyer 与 Helmke 国际综合与丹麦 [[Science Foundation Ireland|SFI]] 报告，系统论证有效教学核心质量的普适性及其受学生社会背景的调节。
 > - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 从德语教学论视角审视有效教学[[Meta-meta-analysis|二阶元分析]]，量化激活者（$d = 0.60$）与促进者（$d = 0.17$）实证分化，批判其抽空学科实质内容与[[Bildung|精神教化]]维度的形式化弊端（pp. 425–438）。

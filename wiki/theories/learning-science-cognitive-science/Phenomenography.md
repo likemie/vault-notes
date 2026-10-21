@@ -29,7 +29,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Phenomenography
@@ -49,9 +49,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -94,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 正式教育情境中学生处理阅读、课程任务和评估的方式及其理解差异。
 > - **谨慎使用** 跨课程、文化或制度比较需要说明任务与评估情境。
 > - **不适合解释** 单独估计某种教学干预的因果效果或诊断固定认知能力。
@@ -104,16 +100,12 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1976 — [[Student Learning Research\|学生学习研究]]起点** Marton 与 Säljö 通过阅读任务区分表层与[[Surface and Deep Learning\|深层学习]]方式。
 > - **1981 — 理论命名** Marton 使用 Phenomenography 指称由早期研究发展出的理论传统。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 59–60)]]
 > - **1990s — 教学设计应用** 学生学习研究与[[Constructivist Paradigm\|建构主义]]共同支持把教学焦点转向学生活动，并为[[Constructive Alignment\|建构性对齐]]提供学习理论基础。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 把现象图式学与[[Constructivist Paradigm\|建构主义]]并列为[[Student Learning Research\|学生学习范式]]的两种主要理论，并通过表层和[[Surface and Deep Learning\|深层学习]]方式说明其教学含义。

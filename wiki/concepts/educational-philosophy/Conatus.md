@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Conatus
@@ -50,9 +50,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **自我保存与存在的坚持** 个体力图在不断变动的情感和外界相遇中维持其独特的生命力和个体性。
 > - **无意识情感的本源位置** 强调学习和智识发展植根于无意识的身体相遇和情感波动的内在层面。
 > - **对绝对理性的内在反抗** 反对由外部社会和公共机构施加的、旨在限制和规训个体欲望的绝对工具性理性。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
@@ -82,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1677 — 伦理学[[Ontology\|本体论]]提出** [[Baruch Spinoza\|斯宾诺莎]]在《伦理学》中系统提出欲力作为实体自我保存的核心倾向。
 > - **2005 — 国际课程哲学重构** 科尔将欲力概念引入国际课程[[Theory of Knowledge\|知识论]]的批评与建构中，用作对抗[[Georg Wilhelm Friedrich Hegel\|黑格尔]]理性公民建构、释放学生内在主体欲望的哲学支点。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 
@@ -98,7 +94,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 将[[Baruch Spinoza\|斯宾诺莎]]的欲力概念应用于教育批判，提倡构建以欲力与情感政治为基础的斯宾诺莎主义课程，以抗衡应试取向的理性训练。

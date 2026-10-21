@@ -65,7 +65,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-06-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Halo Effect
@@ -201,17 +201,13 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 教育研究方法权威著作；在第 10 章系统界定数据分析与测验评分中的光环效应、评分漂移机制及其对[[Reliability|信度]]与[[Internal Consistency|内部一致性]]的破坏路径；并在第 11 章将光环效应与牛角效应（Horns Effect）阐明为自然主义与[[Ethnography|民族志研究]]解释可信度的十大内在威胁之一。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，系统总结观察员面临的首因事件权衡、经验投影、要素[[Construct|构念]]粘连等光环偏误谱系，提出独立片段切分与事实笔记[[Chain of Evidence|证据链]]防御工程。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

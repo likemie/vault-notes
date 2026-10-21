@@ -83,7 +83,7 @@ sources:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Hartong_2018_GSE
 
@@ -326,9 +326,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 该研究主要立足于国家与州级政策文本、法律决议、技术规程以及针对中枢决策者和测量学家的[[Expert Interview\|专家访谈]]，聚焦于宏观与中观层面的[[Data Infrastructure\|数据基础设施]]装配过程；对于这些跨尺度数据流动与在线任务平台在微观层面究竟如何具体重塑一线学校日常教学、教师专业认同及师生课堂互动的微观[[Ethnography\|民族志研究]]，仍有待未来实证工作进一步深化。（pp. 145–146）
 
 ---

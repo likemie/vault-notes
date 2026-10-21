@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Girls Into Science and Technology (GIST) Project
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目
-
-> [!ref-table|notitle] 相关条目
+> [!ref-table] 相关条目
 > | 条目 | 关系 |
 > |---|---|
 > | [[Feminist Research]] | GIST 是女性主义[[Action Research\|行动研究]]的标志性案例 |

@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # State Vertical
@@ -68,9 +68,8 @@ updated: 2026-10-05
 > - [[Informationalization]] — 信息化要求信息的水平流动和跨组织协同，与国家垂直结构构成直接对立。
 
 ---
-## 实证发现
 
-> [!finding-cards|notitle]
+> [!finding-cards] 实证发现
 > 1. 苏联的[[Chinese Academy of Sciences|科学院]]、应用研究和工业生产在彼此隔离的回路中运行，几乎没有跨机构的知识交叉（pp.8–9）。
 > 2. 相比之下，美国斯坦福电子研究实验室等机构与国防承包商和私营企业密切合作，科学家和工程师拥有将技术创新商业化和创办公司的相对自由（p.8）。
 > 3. 赫鲁晓夫试图通过建造 [[Akademgorodok]] 复制美国的产学研协同模式，但该科学城最终在勃列日涅夫时代被重新纳入官僚化、意识形态保守的科学体制，沦为"日益吱吱作响的苏联工业机器中的又一个齿轮"[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.9）]]。

@@ -56,9 +56,9 @@ related_methods:
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
   - "[[Argument_Bozeman_2004_JTT]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
@@ -72,7 +72,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Expert Interview
@@ -159,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

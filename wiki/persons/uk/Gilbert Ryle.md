@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Gilbert Ryle
 
@@ -59,9 +59,7 @@ updated: 2026-10-16
 
 ---
 
-## 对教育研究的影响
-
-> [!example|notitle]
+> [!example] 对教育研究的影响
 > Ryle 的[[Knowledge-that and Know-how-to\|知其然]]/知其所用区分被 [[Curriculum Design Coherence Model\|课程设计连贯性模型]]采纳为核心理论框架：
 > - 知其然包括命题、学科概念和内容
 > - 知其所用包括技能、能力和学科实践

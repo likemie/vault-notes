@@ -16,7 +16,7 @@ person_related_color: "#e0e7ff"
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 born: "1896"
 died: "1934"
 lifespan: "1896–1934"
@@ -78,9 +78,7 @@ related_arguments:
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1896** 出生于帝俄奥尔沙（现白俄罗斯），在戈梅利成长，早期接受人文学术与法律训练。
 > - **1917** 毕业于莫斯科大学（法律系）与沙尼亚夫斯基人民大学（历史-哲学系），随后在戈梅利从事文学、演艺评论与教师培训工作。
 > - **1924** 在第二届全俄神经心理学大会上发表关于意识与反射的报告，受聘进入莫斯科心理学研究所；与 Luria、Leontiev 组成“莫斯科三人组”（Troika），开启文化-历史心理学革命。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]
@@ -135,9 +133,7 @@ related_arguments:
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者 / 莫斯科三人组** Alexander Luria & Alexei Leontiev — 1920–1930 年代共同奠定苏联文化-历史心理学与早期[[Third Generation Activity Theory\|活动理论]]。
 > - **继承与扩展者** [[Yrjö Engeström]] — 在 Vygotsky 心理中介三角基础上增加共同体、规则与劳动分工，发展出第二代与[[Third Generation Activity Theory\|第三代活动理论]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]
 > - **理论吸收者** Graham McPhail & [[Michael Young]] — 吸收其科学概念与自发概念区分，构建[[Social Realism\|社会实在论]]与 [[Curriculum Design Coherence Model\|CDCM]] 课程框架。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]
@@ -162,9 +158,7 @@ related_arguments:
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Evidence Era
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 测量时代（Age of Measurement） | 证据时代（Evidence Era） | 纯粹理性决策（Pure Rational Decision-Making） |
 > |---|---|---|---|
 > | **核心证据形态** | 标准化测验成绩、绩效考核指标、量化审计评级 | 学术期刊论文引用、[[Randomised Controlled Trials\|RCT]] 证据库、国际[[Policy Borrowing\|政策借用]]、专家审查 | 全样本因果实证、无偏成本收益核算与系统评价 |
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s–1990s — 行政指令与测量初期** 1984 年成立[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE），开创依据督导报告证据进行资质认证的显性治理先河，但政策文本仍以行政指令为主。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **2000s–2010s — 测量时代（Age of Measurement）的高潮** 比斯塔提出测量时代概念，批判标准化测验、审计文化与[[Governing by Numbers\|数字治理]]对教育民主价值的侵蚀。
 > - **2010s 至今 — 证据时代（Evidence Era）的确立** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 提出证据时代概念，论证治理[[Paradigm\|范式]]从单一数据测量扩展为包含学术引文、[[Randomised Controlled Trials\|RCT]] 实验、医学临床与国际最佳实践的复合[[Evidence Network\|证据网络]]。
@@ -174,8 +170,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 系统提出证据时代假说，结合英格兰 1983–2019 年教师教育改革政策演变与 20 位[[Elite Interview\|精英访谈]]，揭示了证据作为[[Rationalized Myth\|合理化神话]]的运作机制。
 

@@ -35,14 +35,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Memos
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 备忘录（Memos）是[[Qualitative Research\|质性研究]]者在研究过程中记录的书面笔记，反映编码和主题的发展。[[Reflexivity\|反身性]]的讨论可以建立在备忘录的基础上（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.195）。
 
 备忘录在质性研究中的作用是多重的：

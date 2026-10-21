@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Principle of Parsimony
@@ -152,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **14 世纪 — 哲学[[Ontology\|本体论]]剃刀提出** 奥卡姆的威廉提出著名的奥卡姆剃刀，重创中世纪经院哲学的繁琐概念虚构，为经验自然科学清理道路。
 > - **20 世纪初 — 现代物理学约束确立** 爱因斯坦将简约原则明确为“简单但不过度”，确立了理论美学与经验[[Falsification\|可证伪性]]之间的动态平衡。
 > - **1970s — 测量假说与模型准则形式化** Kerlinger（1970）将经济性确立为假说检验四大标准之一；随后 Akaike（1974）提出 AIC 准则，使简约原则成为现代统计建模的数学显式标准。
@@ -191,9 +189,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|

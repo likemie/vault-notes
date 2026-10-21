@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Total Quality Management
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 全面质量管理（TQM） | [[Neo-Taylorism\|新泰勒主义]]（Neo-Taylorism） | [[New Public Management\|新公共管理]]（NPM） | 终结性绩效问责 |
 > |---|---|---|---|---|
 > | **质量观** | 过程内生的无缺陷与满意度 | 动作与工时标准的严格达标 | 市场竞争与合同指标交付 | 测验分数与外部考核达标 |
@@ -182,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s–1970s — 奠基与日本制造业实践** 爱德华兹·戴明（W. Edwards Deming）与约瑟夫·朱兰（Joseph M. Juran）将统计方法与系统管理引入战后日本，日本企业将其与车间一线技工参与（质量控制圈）深度融合，开创了全员参与的质量控制[[Paradigm|范式]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–12)]]
 > - **1980s–1990s 初 — 高技术研发与[[Industry Affiliate Program|产业联盟]]深化** 面对日本制造竞争压力，美国通过设立波多里奇国家质量奖（Malcolm Baldrige National Quality Award）和 [[Sematech]] “Partnering for Total Quality” 项目，将 TQM 推广至高科技中小企业与研发网络。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 > - **1990s — 先进晶圆厂微观工程实践与良率追赶** 美国商业芯片制造商将 TQM 与全员生产维护（TPM）融入逻辑芯片产线，破除了 DRAM 唯一驱动器假设，在先进逻辑制程中追平国际领先良率。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
@@ -215,9 +211,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -229,9 +223,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 论述 [[Sematech]] 如何通过系统性推广 TQM 和 [[Statistical Process Control|SPC]]，提升半导体设备供应链的质量控制能力与组织韧性。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合伯克利 [[Competitive Semiconductor Manufacturing Program|CSM]] 标杆项目，论述美国半导体制造企业如何依托 TQM、TPM 与跨专业工程改进，在先进逻辑制程中消除美日良率差距。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从[[National Innovation System|国家创新系统]]与历史比较视角，论证 TQM 与质量控制圈如何作为微观组织[[Paradigm|范式]]打通日本企业内部研产横向协同，并与前苏联部属体制形成鲜明对照。

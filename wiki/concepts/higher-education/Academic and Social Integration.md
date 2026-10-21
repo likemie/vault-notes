@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Academic and Social Integration
@@ -61,18 +61,14 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Student Engagement]]（Kuh, 1991）— 两者都认为学生的主动参与是取得积极教育成果的关键，但侧重不同：Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的"投入过程"框架中，Tinto 提供了投入的**心理机制**，Kuh 提供了投入的**行为[[Operationalization\|操作化]]**
 > - vs [[Student Involvement]]（Astin, 1984）— Astin 关注的是学生在学习过程中投入的"生理和心理能量"，聚焦个体层面的能量分配；Tinto 关注的是学生**关系的转换**——从旧关系到新群体的过渡仪式
 > - **学业融入 vs 社交融入** 融入大学的过程体现在两个互相促进的独立维度——学业融入（学生顺利与学校学术方面的正式规范达成一致）和社交融入（学生发现大学社交环境与自己的偏好或期待相协调的程度）（，引 Tinto, 1993; Braxton, Shaw Sullivan & Johnson, 1997）
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > - **1975 初版** Tinto 在 *Review of Educational Research* 发表"dropout from Higher Education"，借鉴 Durkheim 的自杀理论和 van Gennep 的过渡仪式理论，提出大[[Academic Attrition\|学生辍学]]的互动模型
 > - **1993 系统化** *Leaving College* 第二版系统阐述了分离-转折-习得三阶段模型和学业/社交双维度融入框架（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tinto, 1993）
 > - **2000s [[Operationalization\|操作化]]争议** 学界对如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000），但大多数学者同意其基本共识：学生必须主动投入、积极参与学校活动、主动与教师和同学交往，才更可能取得成功
@@ -80,9 +76,7 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 ### 三阶段过渡模型
 
@@ -105,17 +99,13 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - van Gennep 过渡仪式理论（Rites of Passage）— 三阶段模型的原型：分离（séparation）→ 阈限（limen）→ 聚合（agrégation）（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tinto, 1993）
 > - Durkheim 自杀理论 — Tinto 借鉴 Durkheim 关于个体与社会整合失败导致自杀的[[Analytic Framework\|分析框架]]，将其应用于大[[Academic Attrition\|学生辍学]]问题
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]第4章以 Tinto 的融入理论为核心[[Analytic Framework\|分析框架]]，揭示两种模式下的融入差异：
 >   - **目标掌控者** 主动且策略性地融入学业和社交活动，但融入程度取决于生涯目标需要——学业融入被功能化（绩点只是门槛），社会性融入被工具化（职业探索和简历建设）
 > - **直觉依赖者** 社交融入被习惯性忽略——弱势背景大学生往往对校园社交和课外活动保持拒斥感，将其视作对学习主业的干扰（，引 Bergerson, 2007; 谢爱磊, 2016; Stuber, 2011）
@@ -124,18 +114,14 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **"中立过程"假设** 社会学家和人类学家的核心批评——融入/投入等概念被预设为"由学生自己决定而不牵涉阶层、种族等社会因素的中立过程"。这一[[Theoretical Standpoint\|理论立场]]导致未预期的推论：弱势学生在大学里表现不佳，似乎全怪自己没有努力投入（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tierney, 1992; Stuber, 2011; Yee, 2016）
 > - **结构性盲点** 高等教育学领域整体仍将大学预设为"公平公正的竞技场"，忽视了结构性不平等。[[Yajun Zheng\|郑雅君]]指出，弱势学生的"不融入"并非个人选择，而是文化语码的不适配（如大成的"语言包"比喻）和屡次融入失败后的回避（如冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
 > - **[[Operationalization\|操作化]]争议** 学界对于如何贴切地操作化 Tinto 的理论模型至今仍有许多争论（，引 Braxton & Lien, 2000）
 
 ---
 
-## 相关案例／政策
-
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]将 Tinto 的融入理论作为"大学过程"[[Analytic Framework\|分析框架]]的核心基础，在 [[Academic Engagement\|学业投入]] 和 [[Social Engagement\|社会性投入]] 两个维度上展开对 [[Goal-Controlled Mode\|目标掌控模式]] 和 [[Intuition-Dependent Mode\|直觉依赖模式]] 的分析。详见 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
 > - 转变案例：直觉依赖模式相关案例 中的梓桐、高程、初晓——三者的转变均以社会性融入为触发引擎
 

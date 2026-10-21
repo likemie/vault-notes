@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Order of Discourse
@@ -151,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970年 — 哲学起源** 福柯发表《[[Discourse|话语]]的秩序》，从权力考古学视角剖析社会通过排斥、划界与稀疏化原则对话语生产实施的规训控制。
 > - **1992年 — 社会语言学与[[Critical Discourse Analysis|CDA]][[Operationalization|操作化]]** 费尔克拉夫出版《话语与社会变迁》，将话语秩序确立为连接微观语言分析与宏观社会理论的操作性桥梁。
 > - **2003年 — 文本细化与体裁链研究** 费尔克拉夫在《分析话语》中细化了体裁网络、话语类型与风格层级的三维剖析方法。
@@ -179,7 +177,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将[[Discourse|话语]]秩序作为[[Critical Discourse Analysis|批判话语分析]]的核心框架，论证中国如何通过跨部门政策文本联动，将[[Geopolitics|地缘政治]]与产能出海话语深度嵌入高等教育话语秩序之中。

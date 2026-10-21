@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Feeder Mechanism
@@ -102,7 +102,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 提出在[[Theory of Knowledge\|知识论]]（TOK）课程中应用[[Baruch Spinoza\|斯宾诺莎]]主义，将其打造成一种不再受困于目的论的教育滋养机制。

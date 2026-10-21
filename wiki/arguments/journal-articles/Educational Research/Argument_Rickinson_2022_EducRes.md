@@ -89,7 +89,7 @@ part_of:
 status: stable
 confidence: high
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rickinson_2022_EducRes"
@@ -477,9 +477,7 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 当前理论建构与实践应用存在以下局限与拓展空间（pp. 145–146）：
 > 1. **概念框架的先导性与实证检验缺口** [[Quality Use of Research Evidence Framework\|QURE]] 框架尚处于概念构建阶段，各构件的相互作用机制及其权重关系尚未在不同办学情境下经历充分的实证检验。
 > 2. **一线微观实践形态的探索需求** 亟需开展深度实证调查，深入学校现场提炼教师与管理者在真实决策中有效运用与不当运用研究证据的具体表征。

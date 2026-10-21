@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Readings of the Global
@@ -64,8 +64,6 @@ updated: 2026-10-20
 > - **边界** 区别于[[Epistemology\|认识论]][[Paradigm\|范式]]（如四种理解形式）——认识论范式关注学科“如何理解”教育现象，而全球解读关注学科在特定时代所选取的“全球背景板”与[[Agendas of Attention\|注意力议程]]。(p. 332)
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 核心概念辨析
 > | 维度 | 全球解读 (Readings of the Global) | 四种理解形式 ([[Four Forms of Understanding of Comparative Education\|four forms of understanding]]) | [[Transitology\|转型学]] (Transitology) |

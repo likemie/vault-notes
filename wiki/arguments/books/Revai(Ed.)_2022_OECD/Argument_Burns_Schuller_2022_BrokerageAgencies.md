@@ -137,7 +137,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Burns_Schuller_2022_BrokerageAgencies
 
@@ -528,9 +528,7 @@ updated: 2026-10-20
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **样本局限于[[OECD\|经合组织]]发达经济体** 经验材料主要植根于欧美成熟教育系统的演化样本，对广大非 OECD 成员国、转型期国家及全球南方系统在中介机构设立与[[Evidence-Informed Practice\|证据知情实践]]中的独特情境与体制挑战涉及不足。（p. 68）
 > - **中介影响力的系统评估指标仍显匮乏** 尽管对中介机构进行科学化成效评估至关重要，但当前学界关于如何精准测度中介机构对复杂政策议程及课堂长效学习成果的实质增值贡献，依然缺乏公认成熟的[[Operationalization\|操作化]]指标工具。（pp. 64–65, 68）
 > - **微观人际信任机制在宏观比较中难以穷尽** 知识采纳高度依赖人际网络、个性特征与情感信任，但宏观制度演进分析难以对微观现场复杂的非正式社会互动开展细致入微的[[Ethnography\|民族志]]刻画。（pp. 59–60）

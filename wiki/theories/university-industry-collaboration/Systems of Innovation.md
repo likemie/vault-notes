@@ -112,7 +112,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Systems of Innovation
@@ -289,9 +289,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 处于工业化成熟期与[[Knowledge-Based Economy|知识经济]]转型期的国家与高科技区域；分析产业集群技术外溢阻滞、科技成果转化不畅、区域大学与本地经济发展脱节等结构性问题。
 > - **成立条件** 需要被分析系统具备一定密度的基本行动者（一定数量的高校、科研院所与具备自主研发意识的企业）；需要基本的市场竞争机制与法治框架保障契约履行；需要产业具备最低限度的技术[[Absorptive Capacity|吸收能力]]。
 > - **解释不足** 
@@ -336,9 +334,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 追溯[[National Innovation System|国家创新系统]]的思想渊源，结合英德美日苏长周期比较，论证教育培训、企业专职研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，确立创新系统的多标量空间架构。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Fei Xiaotong
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1910** 出生于江苏吴江。
 > - **1930s** 先后在清华大学及英国伦敦政治经济学院（LSE）学习，师从人类学家布罗尼斯瓦夫·马林诺夫斯基（Bronisław Malinowski）。
 > - **1939** 出版博士论文 *Peasant Life in China*（《江村经济》），开创以社会人类学方法研究本国乡村社区的先河。
@@ -121,9 +119,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** 布罗尼斯瓦夫·马林诺夫斯基（Bronisław Malinowski） — 博士生导师，社会功能主义的引介者。
 > - **批评者／论敌** [[Hsu Cho-Yun\|许倬云]] — 提出以汉文化为核心的“族裔文化型中国观”，与领土型中国观构成学术竞争。[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]
 > - **后继者** [[Ma Rong\|马戎]] — 承接其淡化民族政治差异的取向，提出将民族问题去政治化与社会学化。[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 102)]]

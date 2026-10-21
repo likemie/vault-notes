@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Stallings Classroom Observation System
@@ -127,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Time Sampling]] | 方法 | 斯托林斯快照法所依托的核心抽样方法学。 |
@@ -139,7 +137,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 梳理斯托林斯[[Classroom Observation|课堂观察]]系统在国际发展中的应用成效与盲区，作为 Teach 研发的重要基准。

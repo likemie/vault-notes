@@ -72,7 +72,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # AIR Model of Epistemic Cognition
@@ -97,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -161,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 科学探究、模型建构教学、多源证据协调、争议性[[Socioscientific Issues\|社会科学议题]]论辩及数字时代虚假信息甄别中的认知与[[Metacognition\|元认知]]活动。
 > - **谨慎使用** 高度程式化的算术推演或纯粹逻辑演绎任务，在这类封闭形式体系中因果经验过程与采样等认识条件空间极小。
 > - **不适合解释** 纯粹文学审美、修辞修饰技巧或无[[Epistemic Aims\|认识目标]]的纯情感表达性[[Discourse|话语]]。
@@ -178,9 +174,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis\|话语分析]]的实证范例。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — AIR 模型的理论奠基性文献，提出扩展的[[Epistemic Cognition\|认识论认知]]五组件[[Analytic Framework\|分析框架]]。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，为 AIR 模型关于适切[[Epistemology\|认识论]]表现需依赖显性教学指导与[[Reliable Epistemic Processes\|可靠过程]]示范的理论推论提供了强有力的大[[Sample Size Determination\|样本量]]化实证支撑。

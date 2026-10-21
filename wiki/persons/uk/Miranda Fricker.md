@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Miranda Fricker
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1966** 出生于英国，后在牛津大学获得哲学博士学位。
 > - **1990–2000 年代** 任教于伦敦大学伯贝克学院（Birkbeck, University of London），致力于沟通英美分析哲学、[[Virtue Epistemology|德性认识论]]与欧洲[[Critical Theory|批判理论]]。
 > - **2007** 出版划时代专著《[[Epistemic Injustice|认识不正义]]：权力与求知的伦理学》（*Epistemic Injustice: Power and the Ethics of Knowing*），正式奠定该领域的理论基石。Fricker (2007)

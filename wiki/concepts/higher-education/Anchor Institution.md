@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Anchor Institution
@@ -197,17 +197,13 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 20–23)]] — 系统剖析亚利桑那州立大学（ASU）作为锚定机构如何通过多级人才培养、校区空间扩张及政产学平台建设，吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、英特尔及 24 家供应链企业集聚凤凰城，重塑区域半导体[[Innovation Ecosystem|创新生态]]。
 > - Spirou (2021) — 奠基性专著，系统构建大学作为城市创新区锚定机构的理论框架，深入剖析[[Entrepreneurial University|创业型大学]]在物理空间、经济网络与城市治理中的双刃剑角色。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

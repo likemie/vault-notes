@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Creative Problem Solving
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -150,18 +148,14 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 结构不良的[[Open-Mindedness|开放性]]工程挑战、商业方案策划、社会议题探究与创意写作。
 > - **谨慎使用** 高度结构化、存在唯一标准答案的机械计算与事实记忆型任务。
 > - **常见误用** 将 CPS 简化为“仅在会议室喊口号式的无约束[[Brainstorming\|头脑风暴]]”，忽略了前期[[Problem Finding\|问题发现]]与后期严格收敛评估的决定性作用；或过度机械化套用步骤导致学生产生“工具依从性”，阻碍直觉与远迁移。
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1953 — 奠基之作** [[Alex Osborn]] 出版 *Applied Imagination*，首次提出[[Brainstorming\|头脑风暴]]与[[Creativity\|创造性]][[Problem Solving\|问题解决]]雏形。
 > - **1967 — 体系成熟** Sidney Parnes 系统建立 CPS 教学体系并在纽约州立大学布法罗分校设立专门培训基地。
 > - **2004 — [[Meta-analysis\|元分析]]实证确立** Scott et al. (2004) 元分析（$k = 70$）确立 CPS 在[[Creativity Training\|创造力干预]]中的基准地位（$d = 0.74$）。
@@ -186,9 +180,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 将 CPS 确立为结构化认知训练的经典范例，二阶实证证实干预措施对[[Creativity\|创造力]]的强大提升作用（$r = 0.20$）。
 > - Scott et al. (2004) — 对[[Creativity Training\|创造力训练]]开展里程碑式[[Meta-analysis\|元分析]]，证实 CPS 产生 $d = 0.74$ 的综合提升效应。
 > - Ma (2006) — 系统元分析证实复合认知训练程序对创造力发展的显著促进（$d = 0.77$）。

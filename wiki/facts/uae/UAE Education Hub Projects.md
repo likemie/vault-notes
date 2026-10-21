@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # UAE Education Hub Projects
@@ -67,9 +67,7 @@ updated: 2026-10-20
 
 ---
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 阿联酋的教育枢纽不是一个统一的国家政策文件，而是由阿布扎比和迪拜两个酋长国各自推动的[[Internationalization of Higher Education\|高等教育国际化]]项目的总称。两者的共同目标是经济多元化和全球融合，但运作逻辑和手段截然不同([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.207–211]])：
 
 - **阿布扎比** 以国家石油财富资助高端外国大学和文化机构——NYU Abu Dhabi、索邦大学阿布扎比、卢浮宫阿布扎比——通过**关联全球高雅文化**来提升国家形象和[[Soft Power|软实力]]
@@ -79,9 +77,7 @@ updated: 2026-10-20
 
 ---
 
-## 时间线
-
-> [!note|notitle]
+> [!note] 时间线
 
 ### 第一阶段：领导层更替与方向确立（2004 年前后）
 
@@ -109,9 +105,7 @@ updated: 2026-10-20
 
 ---
 
-## 实施情况
-
-> [!example|notitle]
+> [!example] 实施情况
 
 ### 阿布扎比：国家资助的文化外交模式
 
@@ -151,9 +145,7 @@ updated: 2026-10-20
 
 ---
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 - **绕开制度建设的联邦尺度** 与新加坡类似，阿联酋的教育枢纽路径以市场[[Liberalization|自由化]]和基础设施扩张替代社会和政治制度建设。但在阿联酋的联邦结构中，这一问题表现为国家层面教育政策的**缺位**——"联邦层面不存在国家高等教育项目"——使得酋长国各自为政的枢纽项目缺乏统一的[[Public Value|公共价值]]框架([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.206, 211–212]])
 - **阿布扎比模式的可复制性** 阿布扎比的"石油财富换文化形象"模式高度依赖自然资源租金，对其他资源匮乏国家几乎不具备可复制性——这使得阿联酋的整体经验难以被推广为"发展模式"
 - **迪拜模式的脆弱性** 迪拜的产业集群模式高度依赖 global expat 人口的持续流入和全球资本的自由流动。2007–2008 年全球金融危机后新分校成立数量的断崖式下降（从年均 3+ 所降至年均 1 所）暴露了这一模式对全球经济波动的敏感性（p.211）
@@ -161,9 +153,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关概念／理论
-
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 - [[International Education Hubs]] — 阿联酋是新加坡之外最重要的 IEH 案例，其阿布扎比/迪拜空间分工模式丰富了 Knight 三类型学的实证内涵
 - [[Singapore Education Hub Policy]] — 阿联酋"观察了新加坡 1990 年代的快速发展并决定效仿"，两者的比较揭示了相同的核心悖论（绕开制度建设）和不同的运作模式（时间交替 vs 空间分工）
 - [[Hub and Flow Imaginaries]] — 迪拜的经济区和阿布扎比的[[Cultural Diplomacy|文化外交]]分别体现了 Hub and [[Flow]] 想象中"流动"和"枢纽锚定"的不同面向

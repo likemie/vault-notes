@@ -6,7 +6,7 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 26
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
+  - "[[Cognitive Authority]]"
   - "[[Peer Pressure]]"
   - "[[Façade of Rationality]]"
   - "[[Scaffolding]]"
@@ -51,12 +52,13 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Kerstin Martens
@@ -77,9 +79,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1974** 出生于德国。
 > - **2003** 获英国牛津大学与德国柏林自由大学联合培养政治学博士学位，专注研究非政府组织在联合国的制度化参与。
 > - **2005–2009** 在不来梅大学“国家转型”（TranState）特种研究领域（SFB 597）担任高级研究员，主持[[OECD\|经合组织]]对民族国家教育政策影响的跨国比较项目。
@@ -136,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作关系** [[Gita Steiner-Khamsi]] — 长期学术伙伴，共同推进[[Governing by Numbers\|数字治理]] 2.0 与[[Policy Brokerage\|政策中介]]批判分析。
 > - **师承／合作关系** [[Christian Ydesen]] — 长期跨学科同道，共同探索战后国际组织史与当代指标政治的对接。
 > - **师承／合作关系** Dennis Niemann — 长期合作伙伴，共同开创“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”概念模型。
@@ -168,13 +166,11 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Soft Power by Hard Facts]] | 概念 | 核心开创者，建立量化硬事实转换为软性规制权力的理论[[Analytic Framework|分析框架]]。 |
+> | [[Soft Power by Hard Facts]] | 概念 | 核心开创者，建立量化硬事实转换为软性规制权力的理论[[Analytic Framework\|分析框架]]。 |
 | [[Cognitive Authority]] | 概念 | 理论应用者，将认知权威构念引入全球教育多边治理与软治理机制分析。 |
 > | [[Education-for-Mandates]] | 概念 | 提出者与数据库主持人，揭示非专门国际组织跨界干预教育的使命嵌入机制。 |
 > | [[Policy Brokerage]] | 概念 | 理论奠基者之一，剖析国际组织作为政治化政策中介的运转逻辑。 |

@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Vertical Disintegration
@@ -191,9 +191,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980年代 — 产业组织理论起源与垂直整合解构** 学界探讨专业化分工如何降低重资产沉没风险，推动半导体产业由 IDM（垂直整合制造）模式逐步向 Fabless-Foundry 模式解耦。
 > - **1990年代 — 硅谷敏捷[[Innovation Ecosystem|创新生态]]崛起** 杰弗里·马赫（Jeffrey T. Macher）与[[David C. Mowery|大卫·莫厄里]]（[[David C. Mowery]]）等实证指出，纵向专业化分工使美国半导体企业在 90 年代依托代工网络实现设计爆发，成功反超日本一体化大财团。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]
 > - **2010年代 — 创新治理反思与协调真空** 埃丽卡·富克斯（[[Erica Fuchs]]）指出纵向离散加剧了跨环节协调失灵与基础研究萎缩，使国家[[Embedded Network Governance|嵌入式网络治理]]成为推动[[Technological Trajectories|技术轨道]]跃迁的关键制度依托。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
@@ -234,9 +232,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示纵向专业化分工与无晶圆厂模式如何重构美国半导体产业结构，赋能企业在 1990 年代重获全球竞争优势。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以美国光电子产业为例，系统论证了纵向离散产业环境下 [[DARPA]] 如何通过[[Embedded Network Governance|嵌入式网络治理]]弥合价值链断裂并引导[[Technological Trajectories|技术轨道]]跃迁。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 系统拆解了现代半导体全球纵向离散的六大细分工序与单点咽喉依赖，论证了多阶段离散分工对单一国家传统国家冠军政策的刚性瓦解。

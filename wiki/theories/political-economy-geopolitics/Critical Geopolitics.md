@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ## 理论定位
@@ -155,9 +155,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 高等教育中涉及[[Discourse|话语]]建构、身份认同、[[Knowledge Power|知识权力]]、空间想象的议题；跨境合作中的叙事正当化过程；排名和评估体系如何自然化全球空间等级。
 > - **谨慎使用** 需要补充物质权力分析（大国竞争中的军事和经济维度）；需要额外证据支持话语后果的经验验证——[[Discourse Analysis\|话语分析]]不应替代对制度运作和资源分配的实际考察。
 > - **不适合解释** 军事冲突的直接因果机制；技术封锁和出口管制的具体操作逻辑；纯粹的经济利益计算——这些更适合[[Classical Geopolitics\|古典地缘政治]]或政治经济学框架。

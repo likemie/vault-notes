@@ -60,7 +60,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # George Herbert Mead
@@ -81,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1863年** 出生于美国马萨诸塞州南哈德利一个公理会牧师与学者家庭，父亲为神学教授，母亲曾任曼荷莲学院（Mount Holyoke College）院长。
 > - **1879–1883年** 就读于俄亥俄州奥伯林学院（Oberlin College），毕业后曾从事乡村学校教师、家庭教师与威斯康星中央铁路勘测测绘员等职业。
 > - **1887–1888年** 进入哈佛大学深造，研读哲学与心理学，受教于乔赛亚·罗伊斯（Josiah Royce）与威廉·詹姆斯（William James），确立了对反思意识与经验心理学的浓厚兴趣。
@@ -164,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／思想渊源**
 >   - **[[John Dewey\|约翰·杜威]]（John Dewey）** 密歇根与芝加哥时期的挚友与[[Pragmatic Paradigm\|实用主义]]盟友，共同奠定芝加哥实用主义学派与[[Progressive Education\|进步主义教育运动]]。
 >   - **查尔斯·霍顿·库利（Charles Horton Cooley）** 密歇根时期的学术合作者，其“镜中我”（Looking-glass Self）概念启发了米德对自我的社会发生机制思考。
@@ -198,9 +194,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Symbolic Interactionism\|符号互动论]] | 理论 | 奠定符号互动论的哲学与社会心理学理论根基，开辟微观互动研究传统。 |

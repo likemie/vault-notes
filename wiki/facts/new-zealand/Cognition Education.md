@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: stable
 created: "2026-05-23"
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cognition Education
@@ -165,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心业务与知识专营矩阵
-
-> [!finding-cards|notitle] 核心业务与知识专营矩阵
+> [!finding-cards] 核心业务与知识专营矩阵
 > - **学校支持与行政外包** 长期承包新西兰中小学教职工工资发放（Payroll）系统与校车运输统筹，并承接教育部中央资助的校董会治理培训与教学改进合同。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–13, 25–28)]]
 > - **跨国建校与系统咨询** 承担海外政府（如文莱、卡塔尔、阿布扎比）的高规格[[International Schools|国际学校]]筹建、课程标准重塑、学区督导评估体系搭建与双语教师能力建设项目。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 21–23, 35–42)]]
 > - **[[Visible Learning Branding and Global Influences|Visible Learningplus]] 认证培训** 将[[John Hattie|哈蒂]][[Meta-analysis|元分析]]结论转变为面向[[School Leadership|学校领导]]与骨干教师的分级研习营、[[Classroom Observation|课堂观察]]量表与可见学习认证学校标准，开辟全球化教师专业学习市场。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 59–60)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
@@ -227,9 +225,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — [[In-depth Interview|深度访谈]][[John Hattie|哈蒂]]揭示 Cognition 在 23 个国家推行高度脚本化的特许加盟机制、五分之四淘汰率、禁止教师分享个人轶事以维系[[Implementation Fidelity|实施忠实度]]，以及拒绝外部学者实地观察奥克兰总部数据清洗流程的技术控制壁垒（pp. 254–255, 260）。
 > - [[Argument_Bates_2017_CognitionEducationTrust|Bates (2017)]] — 详尽梳理 Cognition Education 从 1989 年 Multi Serve 建立、中东建校扩张、引入 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 到编织河道模式转型的官方受托组织史专著。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰学校市场化生态的研究报告，深度解剖 Cognition Group 慈善信托与营利公司双层架构中的税负消除策略与 0.9% 公益支出失衡问题（pp. 65–73）。

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Corporate R&D Labs
@@ -96,9 +96,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 企业中央研发实验室（Corporate R&D Labs） | 大学科研机构（University Research Institutes） | 初创研发企业（R&D Startups / [[Governance by Spin\|Spin]]-offs） | 事业部研发中心（Business Unit R&D） |
 > |---|---|---|---|---|
 > | **分析对象** | 工业巨头内部全链条基础与应用科研机构 | 高校与公共资助的高等学术研究部门 | 风投资本支持的高风险[[Research Translation\|技术转化]]初创体 | 企业内部面向具体业务线的产品改进部门 |
@@ -195,9 +193,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1870 年代 — 工业实验室建制化起源** 德国合成染料工业（如拜耳、赫斯特、BASF）率先在企业内部建立专业化、成建制的工业研发实验室，通过系统性应用基础研究攻克人造靛蓝等关键产品工艺，将发明从偶然个体灵感转化为制度化组织活动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9)]]
 > - **20 世纪初 — 美德扩散与大企业垄断建制** 独立发明家模式让位于通用电气（GE）、杜邦与 AT&T 建立的专业研发实验室，将发明转化为可预测的组织常规。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 35)]]
 > - **1940–1970 年代 — 中央实验室黄金时代** [[Bell Labs|贝尔实验室]]、Xerox PARC 与 IBM Research 产出晶体管、Unix、以太网与关系数据库，诺贝尔奖级学术发现与世界级工业垄断并存。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 35–36)]]
@@ -242,9 +238,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 概念联系与理论作用 |
 > |:---|:---|:---|
@@ -256,9 +250,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 基于全美 45 年 R&D 100 顶尖商业化创新获奖数据与早期技术开发（ESTD）资金流向计量分析，实证论证财富 500 强独立中央实验室研发占比从 55% 骤降至 7%，揭示现代[[National Innovation System|国家创新体系]]向公共财政托底的[[Developmental Network State|发展型网络国家]]转型的历史规律。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证企业内部中央研发实验室作为一项重大组织创新的制度发生学起源（1870 年代德国化学染料工业率先确立），论证其在沟通大学基础科研与工业[[Research Translation|技术转化]]中的核心功能。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理从企业中央研发实验室向开放创新与现代[[University-Industry Collaboration|产学合作]]网络演变的百年历史脉络，指出系统集成能力赤字。

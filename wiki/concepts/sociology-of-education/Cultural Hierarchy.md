@@ -14,7 +14,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-07-23'
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - cultural-hierarchy
   - official-knowledge
@@ -162,17 +162,13 @@ related_arguments:
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 对中国 217 册必修教材中汉儒文化等级与少数民族学生[[Reflexivity\|反思性]]回应的实证研究。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的教材作为文化等级再生产的文本载体。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

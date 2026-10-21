@@ -8,7 +8,7 @@ summary: "法国人类学家、哲学家，结构主义人类学奠基人，法�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_methods:
   - "[[Fieldwork]]"
 related_instruments: []
 related_persons:
-  - "[[Claude Lévi-Strauss]]"
   - "[[Kwame Anthony Appiah]]"
   - "[[Edward Said]]"
   - "[[Alexander Karp]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Claude Lévi-Strauss
@@ -66,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1908年** 出生于比利时布鲁塞尔的一个法国犹太家庭，后就读于巴黎大学获法学与哲学学位。
 > - **1935–1939年** 赴巴西圣保罗大学任社会学教授，并在亚马逊流域开展对卡杜韦奥族与博罗罗族等原住民部落的经典田野考察。
 > - **1941–1945年** 因二战流亡美国，在纽约新社会研究学院任教，深受语言学家罗曼·雅各布森（Roman Jakobson）结构语言学影响。
@@ -103,9 +100,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想合作与启发** 罗曼·雅各布森（Roman Jakobson） — 结构语言学先驱，为[[Claude Lévi-Strauss|列维-斯特劳斯]]提供音位学结构分析工具。
 > - **后继与论辩** [[Edward Said]]、[[Kwame Anthony Appiah]] — 继承并延伸其对西方文明优越论与殖民霸权的深刻批判。
 > - **当代技术政治学评述** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中评述其将西方扩张定性为浩劫的人类学论断在正典解构中的角色。
@@ -130,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

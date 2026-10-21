@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Punctuated Equilibrium Theory
@@ -118,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
@@ -175,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 宏观国家尺度或州/省尺度的立法重大转折、打破历史垄断的制度破局与跨阶段议程设置动力学。
 > - **成立条件** 需要决策系统具备多元制度场所的可选性，以及存在具备高度政治敏锐度的[[Policy Entrepreneur|政策企业家]]群体。
 > - **解释不足** 理论擅长解释宏观议程设置与政策采纳的“突变时刻”，但对政策通过后的微观学区与课堂日常实施（Implementation）解释力较弱；无法推演基层教师在面对激进标准时的实践阻力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7, 20)]]
@@ -203,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判间断均衡理论将制度变迁窄化为外生突变模型的比较政治经济学经典文献，提出区分变迁过程与结果维度的四象限[[Analytic Framework|分析框架]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性文献。
@@ -214,9 +208,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

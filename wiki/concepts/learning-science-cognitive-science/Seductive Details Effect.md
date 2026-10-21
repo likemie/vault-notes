@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Seductive Details Effect
@@ -119,7 +119,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 在[[Meta-analysis\|元分析]]中将诱人细节效应作为解释基础教育不同学段学生利用可视化工具获益差异的核心理论机制。

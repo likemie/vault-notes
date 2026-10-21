@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Geisteswissenschaften
@@ -216,9 +216,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1883 年 — [[Wilhelm Dilthey|狄尔泰]]确立[[Epistemology|认识论]]分野** 狄尔泰发表《精神科学引论》，从[[Immanuel Kant|康德]]批判哲学出发，为历史、社会与教育研究奠定不同于自然科学因果说明的理解[[Paradigm|范式]]。
 > - **1900 年 — [[Michael Sadler|萨德勒]]牛津演讲确立文化[[Situative Perspective|情境主义]]** 萨德勒提出探寻学校门外[[Intangible Spiritual Forces|无形精神力量]]的原则，将精神科学的整体论视角引入英美跨国教育考察。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **1920s–1950s — 精神科学教育学与比较教育历史-哲学学派黄金期** 欧陆诺尔与斯普朗格建立精神科学教育学；[[Isaac Kandel|坎德尔]]、汉斯、[[Robert Ulich|乌利希]]与施奈德将精神科学的历史主义与理念史分析确立为成熟学术学科的核心范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
@@ -253,9 +251,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 阐述比较教育作为[[Protean Episteme|普罗透斯式认识体系]]的人文科学属性，批判方法论主义，并以期刊计量诊断[[Historical Amnesia|历史健忘症]]（pp. 139–144, 148–156）。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 系统考据[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]等历史学派学者的思想遗产，阐明历史-哲学母题的精神科学[[Epistemology|认识论]]基石，并借[[Crane Brinton|布林顿]]理论为非普适探索性[[Working Hypothesis|工作假说]]确立现代科学合法性（pp. 37–58）。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特深入梳理欧洲比较教育学跨越两个世纪的学统演进，揭示[[Wilhelm Dilthey|狄尔泰]]精神科学传统如何深刻塑造德语[[Allgemeine Pädagogik|普通教育学]]母体，并构成了欧洲文化主义学统抵抗纯量化[[Positivism|实证主义]]的理论源泉（pp. 88–89, 93–94）。

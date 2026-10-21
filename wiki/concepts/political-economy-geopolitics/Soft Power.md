@@ -7,7 +7,7 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指行为体通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过探究模式与调解模式输出量化指标、跨国测评排名与最佳实践工具箱，对主权国家教育体系实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 53
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Policy Borrowing]]"
   - "[[South-South Cooperation]]"
-  - "[[Governing by Numbers]]"
   - "[[Education Going Global]]"
   - "[[Technological Republic]]"
   - "[[Cultural Recognition]]"
@@ -47,10 +46,9 @@ related_concepts:
   - "[[Chinese Exceptionalism]]"
   - "[[International Education]]"
   - "[[Performativity]]"
+  - "[[Governing by Numbers]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
-  - "[[Peer Pressure]]"
-  - "[[Externalization]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Neo-Tributary Perspective]]"
@@ -74,15 +72,15 @@ related_facts:
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
-  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Soft Power
@@ -286,9 +284,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统界定经合组织软权力施展的“探究模式”与“调解模式”，以德日两国教育政策改革为例，实证剖析国际组织如何借助客观数据事实突破国内制度否决点。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，深度解构经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，实现[[Policy Brokerage|政策中介]]与远处规制。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统检视[[Geopolitics|地缘政治]]视域下跨境高等教育的软实力理论演化，批判其民族国家中心主义与零和博弈局限，提出[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]转型。

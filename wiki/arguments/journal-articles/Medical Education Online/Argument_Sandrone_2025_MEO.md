@@ -41,7 +41,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-22
 year: 2025
 doi: ""
 citation_aliases:
@@ -61,9 +61,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 论文基于以下理论和实证基础
 >
 > - [[Mentorship\|导师制]]在科学中的核心地位及其对被指导者成功的影响
@@ -73,9 +71,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 使用[[Content Analysis\|内容分析]]方法，对 208 篇[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 [[Mentorship\|mentor]] 一词在演讲中出现的次数。
 >
 > 分析范围涵盖 1901-2023 年间所有可用的诺贝尔演讲， except where only the slides, but not the lecture transcript, were uploaded（即 2017 年的 Young 和 2022、2023 年的获奖者），以及当只有视频录像但没有演讲或其[[Transcription in Qualitative Research\|转录]]本可用时（即 2020 和 2021 年）。1915-1918、1921、1925 年未颁奖，因此没有诺贝尔演讲可用。
@@ -166,9 +162,7 @@ citation_aliases:
 
 ---
 
-### 可能的解释
-
-> [!warning|notitle]
+> [!warning] 可能的解释
 >
 > **知识独立性**。被指导者在展示对导师的知识独立性时取得最高影响力。缺乏明确承认可能源于研究主题的转变，这种转变往往带来开创性研究，在诺贝尔奖获得者中尤为常见(Ma et al., 2020)。
 >
@@ -178,9 +172,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 >
 > **[[Mentorship Recognition\|导师致谢]]的缺失**。在[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition\|导师致谢]]的缺失是令人意外的，尤其是考虑到[[Mentorship\|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式。
 >
@@ -211,9 +203,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 >
 > **方法论的局限**。方法论直接、有效且无偏见，仅依赖于计算给定文本中 [[Mentorship\|mentor]] 一词的频率。
 >

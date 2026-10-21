@@ -50,7 +50,7 @@ related_arguments:
 related_facts: []
 status: draft
 created: 2026-07-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # True Experimental Design
 
@@ -109,16 +109,12 @@ updated: 2026-10-20
 > - **谨慎使用** 当随机分配在伦理或实践上不可行时——降级至准实验。
 > - **不适合使用** 研究问题需要高度自然情境时（[[Ecological Validity\|生态效度]]优先于内部效度）；无法满足伦理要求时。
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **[[Ecological Validity\|生态效度]]受限** 实验室或高度受控情境的发现可能不适用于真实教育情境（Hammersley, 2008, p. 4）。
 > - **伦理约束** 拒绝控制组获得可能有益的干预存在伦理争议（Gorard, 2001b, p. 146）。
 > - **复杂理论的挑战** Morrison (2001) 指出在动态、演化的开放系统中保持[[Variable\|变量]]恒定是误导性的。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Experimental Research]] | 方法 | 母方法——真实验是实验研究中[[Internal Validity\|内部效度]]最高的形式 |

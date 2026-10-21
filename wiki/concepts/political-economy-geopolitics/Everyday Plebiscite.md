@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Everyday Plebiscite
@@ -134,9 +134,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1882 — 概念诞生** [[Ernest Renan|欧内斯特·勒南]]在法德普法战争后发表演讲，提出每日公投概念以驳斥德意志基于语言与种族吞并阿尔萨斯-洛林的合法性诉求。
 > - **20世纪中后期 — 公民民族主义奠基** 成为西方自由主义政治理论对抗种族法西斯主义的核心理论武器。
 > - **2025 — 科技[[Geopolitics|地缘政治]]与西方复兴** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中重提每日公投，作为克服西方去国家化倦怠与重建科技[[Hard Power|硬实力]]的核心思想基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–201)]]

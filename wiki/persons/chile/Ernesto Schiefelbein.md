@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ernesto Schiefelbein
@@ -68,9 +68,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1934** 出生于智利圣地亚哥，早年在智利天主教大学获得法律与经济学学位，后赴美国哈佛大学教育研究生院获得教育经济学与规划博士学位。
 > - **1960s–1970s** 长期担任智利教育部国家规划委员会（CPEIP）主管，深度参与拉美[[Import Substitution Industrialisation|进口替代工业化]]时期的全国教育扩张大纲设计。
 > - **1980s–1990s** 出任[[UNESCO|联合国教科文组织]]拉美及加勒比地区教育办事处（OREALC）主任，主管全区域教育统计调查与政策评估。
@@ -101,27 +99,21 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **实证与评估路径** 建立了拉美区域最权威的纵向教育统计数据库与办学质量评估规程，成为国际组织与各国学者研究拉美教育史的公共实证基石。
 > - **政策决策路径** 作为前教育部长，其倡导的“最低教育投入保障”理念深刻影响了智利民主化后的一系列补偿性教育拨款法规。
 > - **[[Critical Theory|批判理论]]转化** 其所呈现的客观实证数据，被托雷斯等批判政治经济学者广泛反向引用，用以论证拉美国家“[[Compensatory Legitimation|补偿性合法化]]”与“[[Conditioned State Theory|受限国家]]”理论命题。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** [[Carlos Alberto Torres]] — 长期学术对话者，其 1998 年代表作收录于托雷斯主编的拉美教育论文集。
 > - **机构中枢** [[UNESCO]] 区域办事处（OREALC） — 长期执掌并推动联合国教科文组织在拉美的实证教育统计标准研制。
 > - **实证对话者** [[Martin Carnoy]] — 共同在拉美教育经济学、[[Cost-Benefit Analysis|成本收益分析]]与[[Human Capital Theory|人力资本]]投资评估领域展开实证比较探讨。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

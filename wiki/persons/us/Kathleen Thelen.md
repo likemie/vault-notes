@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Kathleen Thelen
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1956** 出生于美国堪萨斯州。
 > - **1979–1987** 获得堪萨斯大学政治学学士学位，随后于加州大学伯克利分校（University of California, Berkeley）获得政治学硕士与博士学位，深受比较政治经济学与欧洲劳工政治研究训练。
 > - **1992** 与斯温·施泰因莫（Sven Steinmo）等合编出版《构建政治：比较分析中的[[Historical Institutionalism|历史制度主义]]》（*Structuring Politics*），确立历史制度主义作为独立学术流派的理论地位。
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 打破了政治学与社会学长期受困于间断均衡突变模型与静态[[Path Dependence|路径依赖]]模型的二元僵局，开拓了[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）研究领域，成为[[Historical Institutionalism|历史制度主义]]二十一世纪最重要的理论飞跃。
 > - **方法路径** 倡导结合长时段比较历史分析（Comparative-Historical Analysis, CHA）与微观因果机制追踪，为识别规则文本、执行偏差与行动者博弈提供了[[Operationalization|操作化]]标准。
 > - **政策路径** 被广泛运用于欧洲一体化政策、公共行政改革、养老金与社会福利转型、数字劳工平台监管等实际政策评估，指导改革者通过边际修正案策略规避体制否决点。
@@ -161,9 +157,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** 斯温·施泰因莫（Sven Steinmo）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）— 1990年代早期合作奠基[[Historical Institutionalism|历史制度主义]]；[[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）— 2005年合著合编系统提出渐进变迁分类学；[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）— 2009年合作完成行动者类型与变迁模式整合框架。
 > - **学术启发源** 埃里克·希克勒（[[Education Resources Information Center|ERIC]] Schickler）— 其国会委员会演进研究为希伦提供了[[Disjointed Pluralism|脱节多元主义]]与边际妥协机制的思想源泉；凯伦·奥伦与斯蒂芬·斯科夫罗内克（Karen Orren & Stephen Skowronek）— 其历史时间性命题深化了希伦关于制度是多重历史碎片共存体的认识。
 > - **反思与批评者** [[Jeroen van der Heijden]] — 开展跨学科[[Critical Review|批判性文献综述]]，指出当代学者在引用希伦时出现概念漂移，将保护既有核心的制度再生产误读为层叠变迁，倡导聚焦行动者与工具[[Variable|变量]]。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–16)]]
@@ -189,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -212,9 +204,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁]]形态学，系统界定置换、层叠、漂移、转换与耗竭五大制度变迁机制。（pp. 18–31）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 系统考证[[Institutional Layering|制度层叠]]六十年学术史，解构当代文献对希伦分层概念的改编走样，确立分层作为聚焦行动者与规制工具解释[[Variable|变量]]的理论潜能。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 提出[[Theory of Gradual Institutional Change|渐进制度变迁理论]]，系统建构置换、层叠、漂移与转换四类演化模式及四类微观变革行动者类型学。

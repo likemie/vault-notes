@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Vergleichsarbeiten
@@ -189,9 +189,7 @@ VERA 在全德推广过程中，也暴露出行政负荷过载、技术系统摩
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

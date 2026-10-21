@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Evolutionary Economics
@@ -293,9 +293,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 理论贡献与关联 |
 > |:-----|:-----|:-----|
@@ -312,9 +310,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与演化经济学长波视角考证[[Friedrich List|李斯特]][[Intellectual Capital|知识资本]]渊源，以德英美日苏韩巴长周期比较论证技术差距、企业研发建制化与制度多样性试错对后发赶超与打破路径锁定的决定性作用。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。

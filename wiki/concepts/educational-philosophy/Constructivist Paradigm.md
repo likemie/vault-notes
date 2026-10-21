@@ -102,7 +102,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Constructivist Paradigm
 
@@ -145,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **主动组织经验** 新信息只有被选择、联系、解释和用于解决问题，才会进入已有理解结构。信息数量增加本身不能保证理解发生变化。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–61)]]
 > - **意义受社会历史条件塑造** 语言、共同体规范、文化传统、制度安排与他人回应为个体提供解释资源，也限定哪些理解能够被表达和承认。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1, p. 9)]]
 > - **知识具有多重视角** 研究者需要保存参与者观点的复杂性，避免过早把经验压缩为预设类别；开放提问和归纳主题服务于这一目标。
@@ -247,9 +245,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **20 世纪认知心理学谱系**　Piaget 成为建构主义的重要思想来源，随后发展出个体、社会、认知和后现代等多种形态。Biggs 指出，这条谱系早于学生阅读研究，并且拥有独立的理论历史（Steffe & Gale, 1995, as cited in [[Argument_Biggs_1999_HERD\|Biggs, 1999, p. 60]]）。
 > - **1967 年：现实的社会建构经典化**　Berger & Luckmann 出版 *The Social Construction of Reality*，系统讨论日常知识和制度现实如何经社会互动形成。
 > - **1976—1981 年：[[Student Learning Research\|学生学习研究]]形成相邻路线**　Marton & Säljö (1976, as cited in Biggs, 1999) 对学生阅读方式的研究揭示表层与[[Surface and Deep Learning\|深层学习]]取向；Marton (1981, as cited in Biggs, 1999) 随后提出[[Phenomenography\|现象图式学]]。这一路线与建构主义共同把学生在情境中的活动放到教学分析中心。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 59–60)]]
@@ -308,9 +304,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment\|建构性对齐]]。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
@@ -325,9 +319,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Peter Sandiford
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1882** 出生于英国兰开夏郡利特尔伯勒（Littleborough）。青年时期就读于曼彻斯特大学（University of Manchester），师从著名教育史学家[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler），获得理学学士与理学硕士学位。
 > - **1908–1910** 前往美国哥伦比亚大学[[Normal School|师范学院]]深造，师从爱德华·桑代克（Edward L. Thorndike），获得教育学博士学位，兼修早期比较教育讲座，深度吸收大西洋两岸的人文比较与实验心理学传统。
 > - **1910–1913** 留任哥伦比亚大学师范学院讲授教育学与比较教育课程，协助规划战前[[International Education|国际教育]]交流。
@@ -95,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **大学教材体例[[Paradigm|范式]]确立** 桑迪福德 1918 年教材开创的“国别章节体（Education in Country X）”成为此后数十年英美大学教科书的统治范式（如坎德尔 1933 年教材、汉斯 1949 年教材均沿袭此进路）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 122)]]
 > - **学术共同体传承链条** 贝雷迪在总结哥大[[Normal School|师范学院]]学术传统时，特意将桑迪福德确立为连接 1899 年罗素讲座与战后现代比较教育学成立的枢纽人物。
 > - **多语种与跨国传播** 该教材在英联邦国家及北美高校被普遍采纳为标准教本，并被翻译引介至亚洲（包括近代中国），深刻启蒙了早期的比较教育学者。
@@ -111,9 +107,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术导师** [[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler） — 在曼彻斯特大学奠定其比较教育与制度史学底色；爱德华·桑代克（Edward L. Thorndike） — 在哥大奠定其实验心理学与实证测度视野。
 > - **学术考据与评价者** [[George Bereday]]、[[Val D. Rust]] — 在学科史梳理中高度肯定其首开教材体例的历史先驱地位。
 > - **同侪学者** [[Isaac Kandel]] — 哥大[[Normal School|师范学院]]共同开拓早期比较教育讲座的奠基同侪。
@@ -128,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

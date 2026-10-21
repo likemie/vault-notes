@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Coupling Coordination Theory
@@ -69,18 +69,14 @@ updated: 2026-10-16
 
 ---
 
-## 认识论立场
-
-> [!info|notitle]
+> [!info] 认识论立场
 > - **[[Ontology\|本体论]]** 系统论导向——现实由若干相互关联的子系统构成，系统整体的性质不能还原为子系统性质的简单加总
 > - **[[Epistemology\|认识论]]** [[Postpositivism\|后实证主义]]倾向——通过构建指标体系和数学模型（耦合度 $C$、协调度 $D$）对系统状态进行定量描述，但不宣称达到了对因果机制的完全把握
 > - **常用研究方法**[[Coupling Coordination Model]]、综合评价指标体系构建、[[LISA Time Path]]和[[LISA Spatiotemporal Transition]]等时空分析方法
 
 ---
 
-## 分析框架
-
-> [!abstract|notitle]
+> [!abstract] 分析框架
 > 耦合协调理论在实证研究中通常转化为以下分析维度：
 > - **耦合度 $C$** 衡量子系统间相互作用的强度，通过比较几何平均值与算术平均值的偏离程度计算
 > - **协调度 $D = \sqrt{C \times T}$** 综合评估耦合强度和各自发展水平，$T$ 为加权综合发展指数
@@ -88,16 +84,12 @@ updated: 2026-10-16
 
 ---
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > - **[[Causality\|因果性]]缺失** 耦合协调理论本身是描述性框架，能够刻画系统状态的协同程度，但无法从 $D$ 值直接推断因果关系——高协调度可能由第三个共同因素（如整体经济发展水平）同时驱动，而非子系统之间的真实协同。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 74)]]
 > - **权重设定的任意性** 子系统权重 $\alpha$、$\beta$、$\gamma$ 通常被设为等权（$1/3$），这一选择缺乏理论依据，不同权重设定可能导致完全不同的评价结论
 > - **指标选择的主观性** 不同研究对同一子系统的评价指标选择不同，导致结论难以横向比较——如教育子系统的"教育关注度"指标本身需要依赖其他研究测算，存在测量效度问题
 
 ---
 
-## 相关研究
-
-> [!example|notitle]
+> [!example] 相关研究
 > - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 以耦合协调理论为框架，构建教育-科技-人才（EST）三系统评价指标体系，结合[[Coupling Coordination Model\|耦合协调模型]]和时空分析方法研究中国[[EST Integrated Development\|EST一体化]]发展的时空分异规律

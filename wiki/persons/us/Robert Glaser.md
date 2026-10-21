@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Robert Glaser
@@ -74,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1921** 出生于美国纽约市。
 > - **1949** 获印第安纳大学心理学博士学位，受[[Behaviorism|行为主义]]实验心理学传统训练。
 > - **1950 年代中叶** 与心理学奠基人[[B. F. Skinner|斯金纳]]（[[B. F. Skinner]]）展开合作，深入探究教学机器（Teaching Machines）与程序化教学的认知心理机制。
@@ -112,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 作为[[B. F. Skinner|斯金纳]]行为强化理论向系统教学论推进的关键传承者，格拉泽构建的教学控制回路为当代[[Evidence-Based Education|循证教育]]与量化教学测量奠定了[[Positivism|实证主义]][[Epistemology|认识论]]基础。
 > - **测量与实践路径** 创立的[[Criterion-Referenced Test|标准参照]]测评[[Paradigm|范式]]彻底重塑了 20 世纪后期的基础教育评估，促成了从常模参照统考向国家课程标准胜任力评价的全球转向。
 > - **当代实证综合回响** [[John Hattie|哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中构建的可见教学回路（教师设定清晰目标 $\to$ 学生展示行为 $\to$ 教师提供矫正反馈）直接沿袭了格拉泽的模型，将复杂多维的育人实践窄化为可测量、可操纵的输入—输出链条。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 5)]]

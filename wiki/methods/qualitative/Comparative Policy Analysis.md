@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -27,21 +27,20 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
   - "[[Transiency]]"
-  - "[[Educational Decentralization]]"
-  - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Counterfactual]]"
   - "[[Institutional Complementarity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Educational Decentralization]]"
   - "[[Academic Achievement]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Cultural Political Economy]]"
-  - "[[Spatial Governmentality]]"
   - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
   - "[[Governmentality]]"
+  - "[[Spatial Governmentality]]"
   - "[[Policy Transfer Framework]]"
 related_methods:
   - "[[Discourse Analysis]]"
@@ -63,13 +62,13 @@ related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Comparative Policy Analysis
@@ -173,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

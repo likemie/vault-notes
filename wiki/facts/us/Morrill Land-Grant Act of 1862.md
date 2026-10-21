@@ -33,26 +33,20 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Morrill Land-Grant Act of 1862
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 在美国内战之前，高等教育主要是精英的"精修学校"（finishing school）。哈佛大学虽可追溯到 17 世纪，但美国大学在内战之后才真正成为现代意义上的大学。Veysey（1965）追溯了美国小型学院向综合性大学的转型过程，其中包括研究生教育和学术研究的引入、Johns Hopkins 作为美国第一个博士学位授予机构的出现，以及赠地大学体系的建立（p.11）。
 
-## 内容
-
-> [!note|notitle]
+> [!note] 内容
 Morrill Act of 1862 要求受资助的大学"促进工业阶层的自由和实践教育，涵盖多种人生追求和职业"（"promote the liberal and practical education of the industrial classes in the several pursuits and professions in life"）（p.11）。
 
 该法案的核心条款是通过联邦赠地的方式支持各州建立面向工农阶层的实践教育大学。
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 Morrill Act 带来了三个关键转变（p.11）：
 
 1. **高等教育的民主化** 将高等教育从精英的"精修学校"扩展为面向更多人的实践教育

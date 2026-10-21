@@ -69,7 +69,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Niemann_Martens_2018_GSP"
@@ -347,9 +347,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **跨国系统比较研究有限** 现有文献大量聚焦于德国等少数明星单国案例，跨越多国的大规模系统性政策变迁[[Cohort Study|追踪研究]]仍显匮乏。（p. 277）
 > - **中介转化机制的因果剥离难度** 国际组织的观念必须通过国家内部的中介行动者发生转化，外部观测较难精准剥离单纯国内既有议程与外部 [[PISA]] 激发的实质贡献。（pp. 278–279）
 > - **国际组织生态整体互动认知不足** 学界对[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]与[[World Bank|世界银行]]等少数巨头以外的整个教育国际组织宇宙缺乏系统研究，组织间的模仿、竞争与网络协作机制仍待进一步考察。（pp. 278–279）

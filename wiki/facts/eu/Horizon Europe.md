@@ -71,7 +71,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Horizon Europe
@@ -172,9 +172,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -189,9 +187,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统对比 2020 年代美、中、欧三大经济体的科技创新政策，指出欧洲通过“地平线欧洲”将过半预算投向生态可持续与社会福祉使命，与中美聚焦尖端产业与地缘防务形成清晰分野。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 起草[[EU|欧盟]]使命导向研究的顶层理论与制度蓝图，提出将宏大挑战解构为战略使命、部门联动与自下而上项目组合的系统方案。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 梳理使命导向政策的三代历史演进，将“地平线欧洲”定性为以应对棘手社会转型挑战为特征的第三代政策标杆。

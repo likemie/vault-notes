@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Thomas Carlyle
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1795** 出生于苏格兰埃克尔费汉，后进入爱丁堡大学攻读数学与文学。
 > - **1837** 出版经典史学巨著《法国革命史》（*The French Revolution: A History*）。
 > - **1840** 在伦敦发表著名的英雄讲演，后结集为《论英雄、英雄崇拜与历史上的英雄业绩》（*On Heroes, Hero-Worship, and the Heroic in History*），奠定[[Great Man Theory|伟人理论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]
@@ -104,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **实践验证案例** [[Lee Kuan Yew|李光耀]] — [[Henry Kissinger|基辛格]]指出李光耀的执政为卡莱尔伟人论题提供了决定性的实证注脚。
 > - **当代重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中批判当代学术界对英雄叙事的污名化与过度解构。
 
@@ -124,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

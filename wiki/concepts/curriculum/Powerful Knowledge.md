@@ -25,7 +25,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Powerful Knowledge
@@ -44,17 +44,13 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 事实和信息（Facts and Information） — 事实和信息是知识的表面形式，是有意义的概念系统的原材料。有力知识是概念性的、可概括的知识系统，超越了事实和信息的层面。
 > - vs [[Curriculum Design Coherence Model\|课程设计连贯性模型]] — 有力知识描述知识的性质（来自学科、可概括），CDCM 是将有力知识原则转化为课程设计的工具。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **学科来源**。有力知识来自学科（如历史、生物、艺术等），这些学科是知识的生产场所。学校课程中的知识是这些学科知识经过[[Recontextualization\|再脉络化]]后的产物（McPhail, 2023）。
 > - **独立于知者**。有力知识是实在的，独立于知者存在，具有在世界中的效果。这一立场来自波普尔 (1978) 的实在论视角（McPhail, 2023）。
 > - **可概括性**。有力知识的独特禀赋在于它能够使学生超越直接经验进行概括。通过掌握学科的概念性知识，学生能够将抽象概念应用于一系列情境，包括社会文化世界（McPhail, 2023）。

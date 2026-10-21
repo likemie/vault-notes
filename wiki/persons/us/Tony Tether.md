@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tony Tether
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1941** 出生于美国，后在伦斯勒理工学院获得电气工程学士学位，并在斯坦福大学获得电气工程硕士与博士学位。
 > - **1978–1982** 首次进入 [[DARPA]]，担任战略技术办公室（STO）主任，主导反潜战与高能激光武器早期研究。
 > - **1982–2001** 先后在福特航空航天、SAIC 与雷神等军工科技企业担任高管，长期浸润于工业界复杂系统工程集成环境。
@@ -106,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **产业技术催生路径** 创办的“[[DARPA]] 大挑战赛”（Grand Challenge）奠定了全球现代自动驾驶技术的感知与算法基石；资助的 CALO 认知系统项目直接派生出 Siri，开创了现代移动端人工智能助手产业。
 > - **国防采办管理路径** 树立了多阶段严苛考核（Stage-Gate / Go-No-Go）在颠覆性项目管理中的典范，重塑了军用高科技项目的合同规范。
 > - **科技政策理论反思** 其争议性任期促使埃丽卡·富克斯（[[Erica Fuchs]]）深入研究并提出 [[Embedded Network Governance]]（嵌入型[[Network Governance|网络治理]]）理论，厘清了采办表层形式与微观治理实质的理论分野；同时成为[[Fred Block|弗雷德·布洛克]]（[[Fred Block]]）批判隐蔽网络国家过度军事化弊端的核心实证标本。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 184)]]
@@ -147,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **机构管理者** [[DARPA]] — 2001–2009 年出任局长，任期最长。
 > - **前任制度基础** [[George Heilmeier]] — 继承并严格执行[[Heilmeier Catechism|海尔迈耶问卷]]中的中期里程碑考核精神。
 > - **学术研究者与评判者** [[Erica Fuchs]] — 在《Research Policy》里程碑论文中以瑟瑟任期作为核心比较案例构建[[Embedded Network Governance|嵌入型网络治理]]理论。
@@ -158,9 +152,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -174,8 +166,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以瑟瑟任期前后为纵向对比样本，实证破除“瑟瑟改革终结经典 [[DARPA]] 模式”的学术流行观点，确立项目经理在微观层面的[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，深入剖析泰瑟出任 DARPA 局长期间强行将计算资助由大学转向涉密军事部署的激进倒退，揭示国防隐蔽外衣下缺乏民主问责导致的科技生态脆弱性。

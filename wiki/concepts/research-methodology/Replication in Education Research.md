@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Replication in Education Research
@@ -146,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -160,9 +158,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论述大样本独立复现研究（Multi-Site [[Cluster Randomized Trials|Cluster RCT]]）结合第三方评估与标准化测验，是破除教育干预[[External Validity|外部效度]]局限与开发者偏倚的唯一科学路径。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 穿透式审计大型城市学区教育采办流水，指出单纯直接复现无法解决实践情境衰减，倡导开展系统改变受试群体与学段参数的“改良型复现”。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 将复现规程创新性应用于宏观[[Meta-meta-analysis|二阶元分析]]数据库的数据提取检验，实证揭示《[[Visible Learning|可见的学习]]》仅 0.66% 的灾难性复现率，确立了二阶[[Metascience|元科学]]复现审计[[Paradigm|范式]]。

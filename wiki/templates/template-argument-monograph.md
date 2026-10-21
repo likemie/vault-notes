@@ -113,18 +113,14 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 关键引用
-
-> [!citation-card|notitle] 关键引用
+> [!citation-card] 关键引用
 > 中文译文或中文原文。（第X章，p.X）
 >
 > *Original text or English translation.*
 
 ---
 
-## 自述局限与使用边界
-
-> [!book-limits|notitle] 自述局限与使用边界
+> [!book-limits] 自述局限与使用边界
 > - **作者自述局限** 只写书中明确自述的局限、边界条件或未来研究方向。
 > - **材料边界** 说明样本、案例、时期、地区、文本或资料来源的边界。
 > - **推断边界** 说明哪些结论不能由本书材料直接推出。

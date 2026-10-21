@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Melbourne Declaration
@@ -65,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 成为澳大利亚现代教育改革的纲领性基石，为后续《爱丽丝泉（墨尔本教育）宣言》（2019）所继承和发展。
 > - **实践影响** 推动澳大利亚国家课程将批判性与[[Creativity\|创造性思维]]转化为从学前到高中的连续发展图谱（Learning Continuums），并深度渗透到大学准入与本科能力评估中。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
 > - **知识影响** 树立了国家层面通过综合战略议程（Comprehensive Agenda）确立[[Higher-Order Thinking Skills\|高阶思维]]培养信号的经典政策范例。

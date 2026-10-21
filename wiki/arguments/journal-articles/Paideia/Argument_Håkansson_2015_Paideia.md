@@ -40,34 +40,26 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-20'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2015
 doi: ""
 citation_aliases:
   - "Håkansson, 2015b"
   - "Håkansson (2015b)"
 ---
-## 研究问题
-
-> [!info|notitle] [[Research Question\|研究问题]]
+> [!info] [[Research Question\|研究问题]]
 > 文章追问的不是 Hattie 对不对，而是他在瑞典到底带来了什么后果。具体说，[[Visible Learning]] 引发的高关注度怎样改变了瑞典学校改进工作的重心，这种变化与瑞典法律对“科学基础与经验证据”的要求、以及其他教学研究综述之间是什么关系(pp.52–53)。
 
-## 理论框架
-
-> [!abstract|notitle] 理论框架
+> [!abstract] 理论框架
 > - [[Visible Learning]] — 文章把 Hattie 视为推动瑞典重新聚焦课堂教学与教师影响力的关键催化剂，但不是唯一[[Source of Knowledge\|知识来源]]；Håkansson 特别强调，Hattie 的[[Meta-meta-analysis\|元-元分析]]应放回更广泛的教学研究综述传统中理解(pp.53–55)。
 > - [[Effective Teaching]] — 文中真正关心的是“什么样的教学更可能改善学生成绩”这一有效教学问题，并把课堂近端策略、清晰目标、反馈、课堂领导和教师协作都纳入这一框架(pp.53–58)。
 
-## 研究方法
-
-> [!info|notitle] 研究方法
+> [!info] 研究方法
 > - 方法：政策分析 + 研究综述 + 地方跟踪研究讨论。
 > - 样本：2013–2015 年跟踪 5 所基础学校的系统性质量工作，重点看它们如何围绕教学主题推进改进(pp.58–59)。
 > - 数据来源：Hattie 及其他教学综述、瑞典学校法与国家改进项目、学校中的[[Classroom Observation|课堂观察]]与教师协作实践描述(pp.52–59)。
 
-## 论证结构
-
-> [!example|notitle] 论证结构
+> [!example] 论证结构
 > 1. **前提／观察** 文章先观察到一个变化，瑞典学校改进越来越少只谈考试结果、组织结构或宏观治理，越来越多开始直接谈“课堂里到底怎么教”。也就是说，改革的注意力从学校外围移向课堂内部，尤其是教师的具体教学做法(p.52)。
 >
 > 2. **第一步** 作者解释，为什么 Hattie 会在这个变化里变得特别重要。关键不只是 Hattie 有名，而是他把大量分散研究压缩成了一个很容易传播的语言，例如“哪些做法更有效”“教师要知道自己的影响”。这让政策制定者、校长和教师更容易把复杂研究翻译成可讨论的改进议题(pp.53–54)。
@@ -103,9 +95,7 @@ citation_aliases:
 > [!info] 核心数据
 > - 地方跟踪研究覆盖 2013–2015 年、5 所基础学校，用来观察系统性质量工作如何转向课堂近端改进(pp.58–59)。
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > > “我所推动的论点是，我们可以看到学校发展工作正朝着各种贴近课堂策略的变体方向发生转变。”
 > (“我所推动的论点是，我们可以看到学校发展工作正朝着各种贴近课堂策略的变体方向发生转变。”
 > ("Den tes jag har drivit har varit att vi kan se förskjutningar i riktning mot olika varianter av klassrumsnära strategier i skolutvecklingsarbetet."))(p.58)
@@ -114,9 +104,7 @@ citation_aliases:
 > (“教师们也证明了他们对教学各个方面的意识有所提高……并且对在教学中尝试新事物的信心也有所增强。”
 > ("Lärarna vittnar även om en ökad medvetenhet om aspekter i undervisningen ... och en stärkt tilltro till att prova nya saker i undervisningen."))(p.59)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - 文章不是严格的因果评估，而是把研究综述、政策变化和一项进行中的地方研究放在一起讨论，因此更适合识别改进方向与机制，不足以证明 Hattie 直接造成了哪些结果(pp.52–59)。
 > - Håkansson 明确承认，国家项目和课堂近端策略最终会产生什么效果仍不确定，因为地方学校文化和具体情境会强烈影响改革落实(pp.57–58)。
 > - 文中对 Hattie 的方法论批评着墨不多，主要任务是解释瑞典的接受与转化过程；如果要评估 VL 本身的统计与[[Epistemology\|认识论]]问题，还需要与 Allerup et al.文献并读。

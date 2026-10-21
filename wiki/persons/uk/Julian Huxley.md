@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-12
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -43,9 +43,7 @@ updated: 2026-09-12
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 
 - 1887 出生于英国赫胥黎家族（祖父为 Thomas Henry Huxley，"达尔文的斗牛犬"）
 - 1946–1948 担任 [[UNESCO]] 首任总干事
@@ -53,9 +51,7 @@ updated: 2026-09-12
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 
 Huxley 的[[Transhumanism|超人类主义]]定义包含一个至今仍被引用的核心表述：
 
@@ -67,9 +63,7 @@ Amos 特别指出 Huxley 身份的一个内在矛盾：他同时是科学人文�
 
 ---
 
-## 主要著作与思想发展
-
-> [!abstract|notitle]
+> [!abstract] 主要著作与思想发展
 
 - Huxley, J. (1957). *New bottles for new wine*. Chatto & Windus. — 首次命名 [[Transhumanism]]，将其定义为人类整体性地超越自身生物局限的信念
 
@@ -81,9 +75,7 @@ Amos 特别指出 Huxley 身份的一个内在矛盾：他同时是科学人文�
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 
 - 当代[[Transhumanism|超人类主义]]运动（如 Natasha Vita-More 的"身体设计"项目）延续了 Huxley 的核心主张——人可以通过技术超越自身生物局限——但 Amos 指出，在技术实践层面，这一普世宣称暴露了其选择性([[Argument_Amos_2022_Springer|Amos, 2022, p.58]])
 

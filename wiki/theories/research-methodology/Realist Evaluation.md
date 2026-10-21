@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Realist Evaluation
@@ -127,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 > 
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -239,9 +237,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 包含多重互动要素、高度依赖教师专业推理与学校组织支持的复杂教育政策和干预评估，以及具有多层利益相关主体与长时段演进的制度变迁过程。
 > - **适用边界与统计张力** 现实主义试验要求在大[[Sample Size Determination|样本量]]化试验中检验次级群体（Subgroups）与微观情境的[[Interaction Effect|交互效应]]，这往往需要极为庞大的样本量以保障统计功效；在样本规模受限时，容易出现检验力不足的方法学挑战（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, p. 57]]）。
 > - **不适合解释** 纯粹物理或生理参数控制严格、不存在人类主观能动推理的封闭系统因果评估。

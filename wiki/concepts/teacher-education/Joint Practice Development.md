@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Joint Practice Development
@@ -177,9 +177,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2005 — 实践转移失败与 JPD 雏形奠定** 迈克尔·菲尔丁（Michael Fielding）等学者受英国教育部委托完成专项研究，发表报告《影响良好实践转移的因素》（*Factors Influencing the Transfer of Good Practice*），首次正式提出“联合实践发展”（JPD）概念，严厉批评新工党政府推行的机械式“优秀实践转移”政策，奠定情境共创[[Paradigm\|范式]]。
 > - **2010–2012 — 成为英格兰国家领导力战略核心范式** 英国著名教育学者戴维·哈格里夫斯（David Hargreaves）在论述“[[Self-Improving School System\|自我改进学校系统]]”（SISS）时将 JPD 确立为校际协作成熟度的标志；朱迪·塞巴（Judy Sebba）等学者（2012）为英格兰国家[[School Leadership\|学校领导力]]学院（NCSL）撰写《强大专业学习：学校领导者联合实践发展指南》，使 JPD 成为[[Teaching Schools\|教学学校联盟]]（TSAs）与卓越校建设的法定指南。
 > - **2014–2018 — 证据知情学校与微观课堂转译整合** [[Chris Brown\|克里斯·布朗]]（Chris Brown）与[[Toby Greany\|托比·格里尼]]（Toby Greany）通过“[[Research Learning Communities\|研究学习共同体]]”（RLC）项目，将 JPD、[[Lesson Study\|课例研究]]与[[School Enquiry Cycle\|学校探究循环]]深度熔铸，确立 JPD 为一线学校实现研究证据微观转译、规避[[Activity Traps\|活动陷阱]]的[[Operationalization\|操作化]]中枢（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
@@ -208,18 +206,14 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]** 实证检验英格兰 79 所小学证据利用准备度，确立 JPD 与[[Lesson Study\|课例研究]]作为 [[Professional Learning Community\|PLC]] 在微观课堂中[[Operationalization\|操作化]]转译证据、规避[[Activity Traps\|活动陷阱]]的核心载体。
 > - **Sebba et al. (2012)** 为英格兰国家[[School Leadership\|学校领导力]]学院撰写指南，系统界定 JPD 的领导力推进原则、组织流程与评估标准。
 > - **Fielding et al. (2005)** 奠定 JPD [[Construct\|构念]]的里程碑报告，通过多案例实证揭示“优秀实践转移”模型的内在缺陷与 JPD 的替代优势。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

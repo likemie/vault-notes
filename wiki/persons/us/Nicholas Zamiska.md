@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Nicholas Zamiska
@@ -77,9 +77,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **本科时期** 毕业于耶鲁大学（Yale College），获文学学士学位。
 > - **法学深造** 获得耶鲁法学院（Yale Law School）法律博士（J.D.）学位，专注于行政法、政府规制与国家安全法律研究。
 > - **早期经历** 曾在《华尔街日报》（*The Wall Street Journal*）等主流媒体从事深度调查报道，积累了对复杂机构运转与公共政策的观察视野。
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[Alexander Karp]] — 长期密切合作者、企业领导者与《[[Technological Republic|技术共和国]]》专著共同作者。
 > - **师承／合作者** [[Peter Thiel]] — [[Palantir Technologies|帕兰提尔]]联合创始人，重大防务科技与法律战略的协同者。
 > - **批评者／论敌** 传统国防采办官僚集团 与 传统定制军工承包商 — 扎米斯卡通过法律诉讼与制度批判打破其封闭垄断。
@@ -171,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

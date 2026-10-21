@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Co-Design
@@ -136,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1990s — 狭义软硬件协同设计（HW/SW Co-Design）** 随着嵌入式系统与专用集成电路（ASIC）复杂化，学界与产业界开始探索在系统级规约下将功能合理划分为硬件电路与软件代码，主要聚焦指令集架构（[[International Schools Association|ISA]]）与编译器的协同权衡。
 > - **2010s — 设计—技术协同优化（DTCO）进入纳米制造节点** 在 16 纳米及更先进制程中，晶体管引入鳍式场效应晶体管（FinFET）与复杂多重曝光光刻，电路设计规则与底层制造工艺强烈耦合，设计—技术协同优化（Design-Technology Co-Optimization, DTCO）成为晶圆厂与无晶圆厂设计企业缩短研发周期的标准方法。
 > - **2020s — 系统—技术协同优化（STCO）与三维堆叠** 面对后摩尔时代异构芯粒堆叠与内存墙瓶颈，系统—技术协同优化（System-Technology Co-Optimization, STCO）兴起，将优化边界从单一芯片单元推进至涵盖先进封装、三维热分布、片上供电网络与系统软件的宏观系统层。
@@ -175,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联维度与贡献 |
 > |:---|:---|:---|
@@ -189,8 +185,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 提出贯穿底层物理材料至终端应用的全栈双向协同设计（DTCO/STCO）[[Paradigm|范式]]，将[[Hardware Security|硬件安全]]与可持续性前置内生嵌入微电子系统架构。
 

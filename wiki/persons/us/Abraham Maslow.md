@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Abraham Maslow
@@ -65,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1908** 出生于美国纽约布鲁克林，早年在威斯康星大学[[James Madison|麦迪逊]]分校接受实验心理学与灵长类行为学训练，获心理学博士学位。
 > - **1937–1951** 任教于布鲁克林学院，深受格式塔心理学与文化人类学启发，转向对人类潜能与健康人格的积极心理探究。
 > - **1951–1969** 担任布兰代斯大学（Brandeis University）心理学系主任与讲座教授，成为人本主义心理学运动的核心理论家。
@@ -111,9 +109,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想同盟** [[Carl Rogers]] — 共同作为人本主义心理学双壁，携手倡导全人发展与以人为中心的科学探究。
 > - **[[Epistemology\|认识论]]先驱** [[John Dewey]] — 继承杜威关于探究作为[[Reflexivity\|反思性]]实践与人类经验生动延展的哲学洞见。
 
@@ -131,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

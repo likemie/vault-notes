@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pilot Scale Platform
@@ -307,9 +307,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
@@ -329,9 +327,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — [[National Science and Technology Council|白宫国家科学技术委员会]]战略报告，系统阐述统筹 NSTC 300mm 基线产线、[[National Advanced Packaging Manufacturing Program|NAPMP]] 先进封装试验线、Commons 8 大区域原型中心与 [[National Nanotechnology Coordinated Infrastructure|NNCI]] 开放网络，通过云端 DEG 与标准 [[Process Design Kit|PDK]]/ADK 跨越实验室到制造厂（[[Translational Research|lab-to-fab]]）转化鸿沟的顶层设计。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）构建共享技术中心、[[Multi-Project Wafer|多项目晶圆流片]]（MPW）与云端设计网关以跨越半导体“[[Valley of Death|死亡之谷]]”的顶层战略设计。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，系统论述共享试验场、NNCI 微纳洁净室与 GMP 级中试制造平台对跨越深科技[[Valley of Death|死亡之谷]]与重振本土先进制造的战略基石作用。

@@ -24,7 +24,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Educative Conceptual Change
@@ -122,15 +122,11 @@ updated: 2026-10-21
 
 ---
 
-## 应用案例
-
-> [!evidence-grid|notitle] 应用案例索引
+> [!evidence-grid] 应用案例索引
 > - **阅读任务** 只记忆可能被考查的事实形成零散结果；围绕文章主旨组织细节则改变学生对文本论证的理解。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 59–60)]]
 > - **表现性理解** 当学生真正理解某一领域时，他们会以不同方式处理相关对象；评估应捕捉这种行动变化，而不只统计信息数量。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 66)]]
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 区分信息积累与概念改变，提出目标清晰、形成需要、专注任务及协作对话四项发生条件，并把这些条件连接到教学设计。

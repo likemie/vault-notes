@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # OPERA Classroom Observation Tool
@@ -132,9 +132,7 @@ OPERA 工具体系将课堂互动解构为四大关联维度。
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Classroom Observation]] | 方法 | OPERA 所归属的跨文化课堂教学[[Observation Method\|观察研究]]体系。 |
@@ -143,7 +141,5 @@ OPERA 工具体系将课堂互动解构为四大关联维度。
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 梳理 OPERA 观察工具在发展中国家基础教育中的实证经验与指标设计启示。

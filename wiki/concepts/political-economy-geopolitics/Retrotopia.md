@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Retrotopia
@@ -60,9 +60,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!theory-components|notitle] 核心要素
+> [!theory-components] 核心要素
 > - **修复性怀旧（Restorative Nostalgia）** 由斯维特兰娜·博伊姆（Svetlana Boym, 2007）提出，强调“归家”（nostos），试图以跨历史的方式重建失落的家园，并以“真理与传统”的名义进行。这是怀旧乌托邦的情感与心理基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 104]])
 > - **右翼民粹主义与集体记忆** 怀旧情绪与右翼民粹主义密切相关，表现为对社会秩序曾得以维持、“人民”未受外来影响的时代的渴望。该机制依赖于不容置疑的集体记忆，将世界划分为“我们”与“他们”。
 > - **大一统时空的自然化** 将现代国家的疆域与族群边界投射回古代，把前现代文明秩序转化为当下的政治合理性支撑。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 104–105]])
@@ -96,7 +94,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 将怀旧乌托邦引入中国少数民族研究，剖析“[[Zhonghua Minzu\|中华民族]]伟大复兴”的文明主义时空重构及其对少数民族自我牺牲的道德诉求。

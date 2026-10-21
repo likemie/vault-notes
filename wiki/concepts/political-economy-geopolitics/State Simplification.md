@@ -8,10 +8,10 @@ aliases:
 summary: "詹姆斯·C·斯科特在《像国家一样审视》中提出的核心政治学与治理概念；指现代国家官僚机构为实现自上而下的行政统领与远程控制，将极其复杂、异质且情境依赖的社会现实与地方性知识，强制裁剪并编码为标准化、可度量、可横向比较的分类矩阵；在当代教育治理中，国家督导机构以此将生动的教学实践与充满学术争议的科研成果压缩为单一评估指标，以行政可控性排斥科学多元主义。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 subtype: political-economy-geopolitics
 tags:
   - concept/political-economy-geopolitics
@@ -20,17 +20,12 @@ tags:
   - theme/state-theory
   - theme/evidence-based-policy
 related_concepts:
-  - "[[Governing at a Distance]]"
   - "[[Technical Rationality]]"
-  - "[[School Inspection]]"
-  - "[[Evidence-Based Policy-Making]]"
-  - "[[Standardization]]"
-  - "[[Pluralism]]"
 related_theories:
+  - "[[Governing at a Distance]]"
   - "[[Governing by Inspection]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Pluralism]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[James C. Scott]]"
@@ -41,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # State Simplification
@@ -61,7 +56,7 @@ updated: 2026-10-21
 > [!citation-card] 国家机构简化复杂现实以实现行政控制
 > 瑞典学校督察局的运作方式是一个典型的范例，展示了国家机构如何简化复杂的现实，以便使其能够被行政管理和控制（Scott, 1998）。为了治理教育，研究知识必须被组织和包装以适应质量审计的目标。相互冲突的学术观点与科学多元主义将引发混乱并威胁机构的法定使命；将知识库进行单一范式化的组织（知识综述）以及对研究者的选择性招募，正是避免此类冲突的典型手段。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 >
-> *The SSI approach is an example of how state agencies simplify complex realities in order to make them possible to administrate and control (Scott, 1998). Research must be organised and packaged to fit the purposes of the quality audit in order to govern education. Conflicting perspectives and scientific pluralism would cause confusion and problems relative to the agency's mission. (Segerholm et al., 2022, p. 653)*
+> *The SSI approach is an example of how state agencies simplify complex realities in order to make them possible to administrate and control (Scott, 1998). Research must be organised and packaged to fit the purposes of the quality audit in order to govern education. Conflicting perspectives and scientific pluralism would cause confusion and problems relative to the agency's mission. ([[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, p. 653]])*
 
 > [!boundary]- 概念边界
 > - 不等于科学抽象（Scientific Abstraction） — 科学抽象旨在通过提炼变量发现客观机理，保留推导边界；国家简化旨在抹平地方特异性与争议，服务于科层体系的行政控制与强制问责。
@@ -69,10 +64,8 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析
-> | 维度 | 国家简化（State Simplification） | [[Technical Rationality|技术理性]]（Technical Rationality） | [[Governing at a Distance|远程治理]]（Governing at a Distance） |
+> | 维度 | 国家简化（State Simplification） | [[Technical Rationality\|技术理性]]（Technical Rationality） | [[Governing at a Distance\|远程治理]]（Governing at a Distance） |
 > |:---|:---|:---|:---|
 > | **提出视角** | 政治人类学与国家理论（Scott, 1998） | 实践哲学与认识论批判（Schön, 1983） | 福柯主义政治社会学（Rose & Miller, 1992） |
 > | **核心机制** | 将异质复杂的社会与学术现实裁切为可读性指标与行政常模 | 将复杂动态的实践还原为孤立因果变量与手段-目的工程 | 通过指标、评级与自我审计使行动者在无命令下自我规训 |
@@ -104,7 +97,7 @@ updated: 2026-10-21
 > [!concept-lens] 循证政策中的国家简化与学术规训
 > 探讨国家行政机构在推行循证治理时，如何借助科学研究包装政治意志，通过剪裁知识消解学科内部固有的争议性。
 
-> [!claim] Segerholm et al. (2022)
+> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **国家简化对科学多元主义的制度性排斥** 塞格霍尔姆等指出，瑞典学校督察局在常规督导与质量审计中选择性使用成功学校研究，并编制宣称代表“当前知识现状”的知识综述。这种操作实质上是现代国家简化的生动体现：为了使教育治理顺畅运作，机构必须排除学术界关于有效教学的理论纷争与弱语法冲突，将科研成果包装为单一明确的指导规范，从而使复杂的教育实践转变为便于自上而下监督与追责的客体。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 
 ---
@@ -114,16 +107,14 @@ updated: 2026-10-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **治理视角的国家简化** | 国家为实现行政控制而压制科学多元性并制造统一常模 | 国家学校督导、绩效测评与循证政策制定 | [[James C. Scott]] (1998); Segerholm et al. (2022) |
+> | **治理视角的国家简化** | 国家为实现行政控制而压制科学多元性并制造统一常模 | 国家学校督导、绩效测评与循证政策制定 | [[James C. Scott]] (1998); [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1998 — 经典理论确立** 詹姆斯·C·斯科特出版《像国家一样审视》，以林业科学管理、城市规划和农业集体化为例，系统奠定国家简化与可读性理论。
 > - **2000年代–2010年代 — 公共管理与社会政策拓展** 学者将该概念引入当代审计社会（Audit Society）与福利国家治理分析，揭示量化指标与关键绩效指标（KPI）背后的简化机制。
-> - **2022 — 教育督导与循证治理实证分析** 塞格霍尔姆等（Segerholm et al., 2022）将国家简化直接应用于学校督导研究，揭示督察机构如何通过知识综述与指标化操作将教育科学改造成服务国家简化的工具。
+> - **2022 — 教育督导与循证治理实证分析** 塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）将国家简化直接应用于学校督导研究，揭示督察机构如何通过知识综述与指标化操作将教育科学改造成服务国家简化的工具。
 
 ---
 
@@ -142,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

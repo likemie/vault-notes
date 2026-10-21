@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Classroom Management
@@ -237,9 +237,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 基于[[Comparative Meta-synthesis|比较性元综合]]系统阐释宽课堂管理内涵，揭示其对弱势群体的补偿性功能及防范消极纪律惩戒[[Discourse|话语]]。
 > - [[Argument_WorldBank_2019_Teach|[[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]]] — 确立大规模[[Classroom Observation|课堂观察]]中在任务时间快照与积极行为预期的行为锚定评定规程，严禁体罚与语言羞辱。
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 结合丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）大规模实证调查，证实清晰一致的课堂管理是提升[[Academic Achievement|学业成绩]]的关键支撑。

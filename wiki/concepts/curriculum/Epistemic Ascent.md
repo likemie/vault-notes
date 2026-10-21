@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-06'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic Ascent
@@ -81,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | [[Epistemology\|认识论]]上升（Epistemic Ascent） | [[Learning Progression\|学习进阶（Learning Progression）]] | [[Big Ideas\|大概念（Big Ideas）]] | [[Surface and Deep Learning\|深层学习（Deep Learning）]] |
 > |---|---|---|---|---|
 > | **分析对象** | 学科概念从具象到抽象的生成层次与认知攀升路径 | 学习者掌握特定概念时表现出的典型思维发展序列 | 统摄离散概念与事实的学科高层核心命题与认知锚点 | 学习者把握学科各部分与整体内在联系的深层理解状态 |
@@ -155,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960 年代 — 螺旋式课程与学科结构论奠基** 杰罗姆·S·布鲁纳（Jerome S. Bruner）在《教育过程》中提出螺旋式课程理念，主张任何学科的基础公理均能以理智上诚实的方式转化为概念阶梯，奠定了现代概念进阶的思想根基。
 > - **2000 年代 — [[Social Realism|社会实在论]]与“强[[Powerful Knowledge|有力知识]]”兴起** 迈克尔·扬（[[Michael Young]]）等学者确立专门化学科知识的客观边界，强调基础教育的核心使命在于引导处境不利学生超越日常琐碎经验，实现向非情境化高阶学科概念的[[Epistemology|认识论]]攀升。
 > - **2010 年代 — 国家标准研制与实践反思** 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）编制中，认识论上升充当了高年级数学因果实证空白时的公理推演工具；而在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，认识论标记被过度宽泛的[[Social Regime|社会规约]][[Discourse|话语]]所掩盖，引发了关于认识论上升如何有效落地的广泛反思。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]; [[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
@@ -192,9 +188,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

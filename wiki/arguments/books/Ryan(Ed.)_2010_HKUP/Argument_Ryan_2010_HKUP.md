@@ -53,7 +53,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-16
-updated: 2026-07-09
+updated: 2026-10-22
 year: 2010
 doi: ""
 citation_aliases:
@@ -68,9 +68,7 @@ citation_aliases:
 > 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段对话，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟(p.2]])。
 
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 全书未采用单一理论框架，但以下理论资源在各章中不同程度地被调用：
 > - **[[Paul Morris]] 的教育四象限（学术理性主义、社会经济效率、儿童中心、社会重建）**— Schmidt（第 5 章）用于论证价值观为本课程的理论定位(pp. 6–7)
 > - **[[Pierre Bourdieu]] 的认同与语言理论** — Miller（第 7 章）用于分析中国职前教师在澳大利亚的认同与语言问题(p.9]])
@@ -78,15 +76,11 @@ citation_aliases:
 > - **Deveney 的 "[[Fourth Culture\|第四文化]]"概念** — Jabal（第 4 章）用于分析在香港[[International Schools\|国际学校]]中就读的[[Chinese Learner\|中国学习者]]的特殊文化空间(p.5]])
 
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools\|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"(p.2]])。
 
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > 编者的论证分为三个层次递进(pp.1–15]])：
 
 > **第 1 层（第 1–2 章）：奠定基础，打破刻板印象。** Slethaug 描绘[[International Education\|国际教育]]的增长全景图、确立[[Chinese Learner\|中国学习者]]的核心地位；Ryan 系统审视关于中国学习者的缺陷型和优势型刻板印象，提出去本质化的[[Analytic Framework\|分析框架]]。
@@ -118,9 +112,7 @@ citation_aliases:
 > - Argument_Zhu_2010_TeamTeaching — 从中方管理者视角分析中山大学"跨国主义与美国"项目的团队教学经验与三类障碍（第 9 章）
 
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "[[Chinese Learner\|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。"(p.15]])
 
 

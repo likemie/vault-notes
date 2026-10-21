@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # LISA Time Path
@@ -49,14 +49,10 @@ updated: 2026-10-16
 
 ---
 
-## 研究程序
-
-> [!abstract|notitle]
+> [!abstract] 研究程序
 > LISA 时空路径的计算建立在传统 LISA 分析之上，核[[Flow\|心流]]程为：逐年 LISA 计算 → 提取 Moran 散点坐标轨迹 → 计算几何指标（RL、D、方向）。以下逐步展开。
 
-### 第一步：空间权重矩阵的构建
-
-> [!info|notitle]
+> [!info] 第一步：空间权重矩阵的构建
 > 空间权重矩阵 $\mathbf{W}$ 定义了 $n$ 个空间单元之间的"邻居关系"。常见构造方式：
 > - **地理距离倒数** $w_{ij} = 1/d_{ij}$（$i \neq j$），距离越近权重越大；$w_{ii} = 0$
 > - **经济-地理复合权重** $\theta_{ij} = NL_j \times 1/d_{ij}$（$i \neq j$），引入经济因子 $NL$ 修正地理距离的非对称性——经济强省对弱省的影响权重大于反向。Fan 等（2024）使用此构造，以地区 GDP 衡量 $NL$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
@@ -172,9 +168,7 @@ updated: 2026-10-16
 
 ---
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > 适合回答"空间格局的稳定性和演化方向如何？哪些区域的空间关联类型变化最活跃？"等问题。尤其适用于：
 > - 长期面板数据的空间格局演化分析
 > - 区域发展收敛/发散趋势的识别
@@ -182,25 +176,19 @@ updated: 2026-10-16
 
 ---
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > - **描述性工具** RL和D是描述性几何指标，提供了格局变化的量化证据，但不能直接解释变化的原因
 > - **对空间权重矩阵敏感** RL和D的值依赖于空间权重矩阵的设定，不同权重构造方式可能导致不同结论
 > - **象限坐标的精度损失** 将Moran散点图连续坐标压缩为四个象限再追踪，丢失了连续变化信息
 
 ---
 
-## 相关方法
-
-> [!tip|notitle]
+> [!tip] 相关方法
 > - [[LISA Spatiotemporal Transition]] — LISA时空路径关注连续轨迹的几何特征，LISA时空转移关注离散状态间的跳转概率，两者互补
 > - Moran's I — 全局和局部Moran's I是LISA时空路径的基础分析层
 > - [[Coupling Coordination Model]] — 耦合协调模型提供可被LISA时空路径追踪的综合发展指标
 
 ---
 
-## 使用此方法的研究
-
-> [!example|notitle]
+> [!example] 使用此方法的研究
 > - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用LISA时空路径追踪中国30个省份EST耦合协调度的22年空间关联演化，计算RL和D揭示东部"高质量稳态"与西部"低质量扰动"的稳定性分化

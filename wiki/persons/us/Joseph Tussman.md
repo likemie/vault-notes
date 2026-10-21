@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Joseph Tussman
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1914年** 出生于美国，后就读于威斯康星大学[[James Madison|麦迪逊]]分校，深受亚历山大·米克尔约翰（Alexander Meiklejohn）实验学院思想影响。
 > - **1947年** 获得加州大学伯克利分校哲学博士学位，后留校长期任教，历任哲学系主任。
 > - **1960年** 出版政治哲学名著《义务与政治体》（*Obligation and the Body Politic*），探讨公民对民主制度的契约义务与政治教育。
@@ -93,9 +91,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想渊源** 亚历山大·米克尔约翰（Alexander Meiklejohn） — 威斯康星实验学院开创者，图斯曼实验学院的直接精神导师。
 > - **论辩与互动** [[Aristotle]]、[[Plato|柏拉图]]、密尔、但丁 — 图斯曼探讨通识大纲选目困境时的核心思想参照。
 > - **当代引述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中引述图斯曼质问，作为剖析[[Canon Wars|经典之争]]与[[General Education|通识教育]]解体逻辑的重要案例。
@@ -114,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

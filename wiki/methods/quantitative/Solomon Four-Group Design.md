@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-01
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Solomon Four-Group Design
 
@@ -95,16 +95,12 @@ updated: 2026-10-20
 > - **谨慎使用** [[Sample Size Determination\|样本量]]不足以支撑四组时（每组至少需要足够样本量以检测效应）；研究后勤和资源有限时。
 > - **不适合使用** [[Research Question\|研究问题]]不涉及前测担忧时（[[Posttest-Only Control Group Design\|仅后测对照组设计]]更经济）；前测在操作上不可能时（如一次性事件后的调查）。
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **[[Sample Size Determination\|样本量]]需求翻倍** 需要四倍的样本量（四组而非两组），资源需求显著增加，在实际教育研究中执行门槛高。
 > - **统计分析复杂** 需要 2 × 2 [[Analysis of Variance\|ANOVA]] 或混合模型来检验[[Pre-test and Post-test\|前测]]×处理的[[Interaction Effect\|交互效应]]，分析复杂度高于标准前后测设计。
 > - **使用频率低** 由于后勤和伦理门槛高，所罗门四组设计的实际使用频率远低于[[Posttest-Only Control Group Design\|仅后测对照组设计]]——许多研究者倾向于取消前测而非增设组别来控制前测效应。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Factorial Design]] | 方法 | 母设计——所罗门四组是 2 × 2 因子设计的特例，其中"是否有[[Pre-test and Post-test\|前测]]"作为一个因子 |

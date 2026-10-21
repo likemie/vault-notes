@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Innovation Models Evolution
@@ -57,9 +57,7 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > 五代创新模型代表了人们对创新过程理解方式的逐步升级（Tidd, 2006; [[Argument_Caraca_2009_TFSC\|Caraça et al., 2009]]; Galanakis, 2006）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.27–29]])：
 
 ### 第一代：技术推动（Technology Push，1950s 主导）
@@ -90,9 +88,7 @@ Kline and Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 
 这是[[Epistemology|认识论]]上最大的一次飞跃：[[Unit of Analysis|分析单位]]从"单个创新者"提升到"系统"层面——一个国家或地区的创新能力不仅取决于有多少科学家，还取决于制度设计、网络密度和文化取向。
 
-### 代际共存而非替代
-
-> [!important|notitle]
+> [!important] 代际共存而非替代
 > Caraça 等人（2009）指出，尽管上述模型通常被呈现为五代"代际更替"，但在现实中它们是共存的——不同情境调用不同的理解方式。例如：制药行业的药物"发现"阶段仍然很像第一代技术推动（基础生物学突破→寻找药物靶点），但[[Clinical Trial\|临床试验]]阶段高度依赖第四代网络化协作（与医院、监管机构、患者群体同时互动）。"同一家公司、同一种药，前一半走线性、后一半走系统。"
 
 ---
@@ -109,9 +105,7 @@ Kline and Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 
 ---
 
-## 当代新驱动力
-
-> [!note|notitle]
+> [!note] 当代新驱动力
 > 近年来[[Emergence\|涌现]]的新驱动力在原有模型基础上叠加了新的约束和紧迫感([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p.29]])：
 > - **[[Geopolitics|地缘政治]]紧张与国家安全** 技术合作带上安全色彩，跨国创新协作面临新的边界
 > - **全球[[Grand Challenges|重大挑战]]** 气候变化、生物多样性丧失等"[[Wicked Problem|棘手问题]]"要求创新不仅创造经济价值还要解决社会问题
@@ -119,9 +113,7 @@ Kline and Rosenberg（1986）提出了耦合模型（也称"链环模型"），�
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Systems of Innovation]] — 五代模型中的第五代，也是当前主导[[Paradigm\|范式]]；两者的关系是：创新模型演变描述的是"理解方式"的历史轨迹，创新系统理论是这条轨迹上最新、最复杂的节点
 > - Kline and Rosenberg（1986）的链环模型 — 第三代耦合模型的核心来源，打破了线性思维的垄断
 > - [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]— 提出代际共存观点的关键文献，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）

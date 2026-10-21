@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # N and F Proposals
 
@@ -115,9 +115,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[1979 Schools Council International Baccalaureate Feasibility Study]] | Fact | N 与 F 结构和 IB 的接近促成了正式可行性研究。 |

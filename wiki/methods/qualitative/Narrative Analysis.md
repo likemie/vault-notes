@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Narrative Analysis
@@ -144,9 +144,7 @@ updated: 2026-10-20
 > - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，叙事分析被直接点名定性为“源自人文学科历史传统”的数据收集与分析方式，在成文法中被明文贬抑为仅在因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form），要求事后必须通过量化假设检验予以补充确证；直至 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在学界抗争下彻底删除歧视性清单，确立了“方法契合所提问题”的统一科学标准（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** 以忠实于文本为检验标准，考虑替代诠释，配研究者的诠释性评论与反身性。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

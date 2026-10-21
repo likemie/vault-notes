@@ -54,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Edmund Husserl
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
 > - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（[[Theory of Mind|ToM]]áš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
 > - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其[[Intentionality|意向性]]概念启发，决意终身转向哲学研究。
@@ -163,9 +161,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者**
 >   - **弗朗茨·布伦塔诺（Franz Brentano）** 哲学启蒙导师，激发了胡塞尔对[[Intentionality|意向性]]概念的哲学思考。
 >   - **卡尔·施图姆普夫（Carl Stumpf）** 授课资格论文导师，实验心理学先驱。
@@ -208,9 +204,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Epoché\|悬置]] | 概念 | 提出将日常生活与[[Scientific Method\|经验科学]]中的常识预设放入括号，直接洞悉纯粹意识的意向性本质。 |

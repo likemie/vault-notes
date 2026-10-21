@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Fredric L. Cheyette
@@ -56,9 +56,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1932** 出生于美国纽约市，中学就读于宾夕法尼亚州默瑟斯堡学院。
 > - **1953–1959** 本科毕业于普林斯顿大学，并在哈佛大学获得中世纪历史学博士学位。
 > - **1963–2003** 长期任教于阿默斯特学院历史系近五十年，专研11至12世纪中世纪法国史。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 86)]]

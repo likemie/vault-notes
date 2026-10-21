@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ontology
@@ -183,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **古希腊时期 — 存在之存在起源** [[Aristotle\|亚里士多德]]（Aristotle）将本体论界定为关于“作为存在的存在（being qua being）”的形而上第一哲学，探求事物本质。
 > - **20世纪中叶 — 组织与方法论[[Paradigm\|范式]]确立** 进入社会科学研究方法论领域，成为划分[[Positivism\|实证主义]]、[[Interpretive Paradigm\|诠释范式]]与[[Critical Theory\|批判理论]]的底层分水岭，建构起从[[Axiology\|价值论]]到本体论、再到[[Epistemology\|认识论]]与方法论的衍生链条（Hitchcock & Hughes, 1995; Burrell & Morgan, 1979）。
 > - **1970年代 — 组织实在观念论革命** Greenfield（1975）以观念论颠覆组织实在论，确立教育组织为行动者主观发明的社会实在。
@@ -214,9 +212,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详细阐述了本体论在五层研究框架中的基石地位，剖析了 Burrell & Morgan 的实在论–[[Nominalism\|唯名论]]连续统与 Greenfield 组织替代架构。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 将本体论从哲学[[Paradigm\|范式]]引入个体认知发展测量，实证检验了学习者在不同学科领域中的本体论认知特征。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 依托具身认知与[[Phenomenology|现象学]]划分经验[[Epistemology|认识论]]与存在本体论界限，批判将活生生的具身学习降解为标准化量化指标的本体论扁平化（pp. 3–6）。

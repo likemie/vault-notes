@@ -15,7 +15,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -51,14 +51,13 @@ related_persons:
   - "[[Jean Piaget]]"
   - "[[Victor Cousin]]"
   - "[[Jean-Jacques Rousseau]]"
-related_facts:
-  - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Esquisse d'un ouvrage sur l'éducation comparée
@@ -164,9 +163,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Beyond 2000 Report
@@ -72,17 +72,13 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **国际评价框架奠基** 深刻影响了全球教育界对[[Scientific Literacy\|科学素养]]的界定方式，将真实情境应用与证据评估确立为国际比较基准。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
 > - **课程实践落地** 催生了英格兰覆盖近 60% 中学的《[[Twenty First Century Science\|21世纪科学]]》新课程方案。
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

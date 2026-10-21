@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Carol Weiss
@@ -64,9 +64,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1970s–1980s** 在公共政策研究领域发展[[Research Utilization\|研究利用]]的理论，发表"研究利用的多重意义"（1979）与"知识渗透与决策累积"（1980）等关键作品（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.3]]）。
 > - **1990s** 进一步归纳研究利用的四种过程模型（研发、[[Problem Solving\|问题解决]]、互动、战术），为[[Research Utilization\|研究利用]]研究提供系统框架（见 [[Research Utilization\|研究利用]]条目）。
 
@@ -115,9 +113,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **同一研究传统** Knorr — 与 Weiss 的框架互补，Knorr（1977）区分[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]与工具性使用，共同构成类型学来源。
 > - **概念传统** [[Research Utilization\|研究利用]]、概念性、工具性与象征性使用 — Weiss 是这两个概念条目的思想源头。
 > - **后继整合** Nutley 等（2007）在公共部门证据使用研究中系统化三分类，直接承继 Weiss 的框架。
@@ -131,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

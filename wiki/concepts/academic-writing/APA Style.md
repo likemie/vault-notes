@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # APA Style
 
@@ -221,7 +221,5 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统阐述了 APA 格式在研究计划设计、[[Literature Review\|文献综述]]编排、标题五级系统、动词时态与包容性语言中的具体应用。

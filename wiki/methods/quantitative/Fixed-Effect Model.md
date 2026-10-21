@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Fixed-Effect Model
@@ -223,9 +223,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系说明 |
 > |:---|:---|:---|
 > | [[Random-Effects Model]] | 替代方法 | 随机效应模型纳入研究间异质性方差（$\tau^2$），是克服固定效应模型局限的标准替代方案。 |

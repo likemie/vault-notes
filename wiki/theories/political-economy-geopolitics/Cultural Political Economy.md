@@ -65,7 +65,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cultural Political Economy
@@ -153,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 宏观国家战略变迁、跨国高等教育区域扩张、政策[[Discourse|话语]]与[[Geopolitics|地缘政治]]互动、[[Knowledge-Based Economy|知识经济]]治理体制转型等兼具强烈意识形态修辞与重度资源配置的情境。
 > - **成立条件** 研究者必须同时具备文献符号解构与宏观政治经济体制剖析的双重分析能力，研究对象需兼具充足的话语文本语料与可追踪的物质制度痕迹。
 > - **解释不足** 理论擅长捕捉宏观国家与中观制度的演进轨迹，对微观行动者（如普通师生、基层劳工）的日常主体性能动性与微观情感抗争关照有限。
@@ -186,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 将文化政治经济学作为概念框架，从[[Cultural Diplomacy|文化外交]]与政治经济双重视角解剖新加坡与阿联酋的跨国教育枢纽工程。
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 运用文化政治经济学的想象履行性原理，剖析[[Knowledge-Based Economization|知识经济化]]在[[Geopolitics|地缘政治]]空间重构中的[[Spatial Sortings|空间分选]]机制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将文化政治经济学的符号化与复杂性简化假说与[[Explanatory Critique|解释性批判]]实在论结合，解构[[Belt and Road Initiative|一带一路]]跨国高教政策[[Discourse|话语]]与国家战略推进工具。

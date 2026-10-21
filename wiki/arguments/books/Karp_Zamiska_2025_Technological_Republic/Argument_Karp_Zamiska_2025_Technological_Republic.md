@@ -259,7 +259,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
 status: draft
 created: '2026-10-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic
 
@@ -387,9 +387,7 @@ updated: 2026-10-21
 
 ---
 
-## 自述局限与使用边界
-
-> [!book-limits|notitle] 自述局限与使用边界
+> [!book-limits] 自述局限与使用边界
 > - **作者自述局限** 基于美国及西方高科技创业实践与国防安全采办前线的经验，书中提出的[[Founder Culture|创始人文化]]、[[Commercial Off-The-Shelf|商用现货]]优先与全员股权治理模式具有鲜明的硅谷创新公社与普通法系司法背景；在推行至不同法域、不同国家政治体制与公私部门边界时，需充分考量当地行政法治传统与文化约束。
 > - **材料边界** 核心实证材料覆盖二战[[Manhattan Project|曼哈顿工程]]至 2020 年代大语言模型爆发期的科技史料、司法判决判例、社会心理学经典实验、现代公司金融资产定价与标普 500 核心专利计量数据，以及[[Palantir Technologies|帕兰提尔]]在国防反恐与警务治理中的一手工程交付实录。
 > - **推断边界** 关于[[Technological Republic|技术共和国]]、[[Engineering Mindset|工程思维]]与[[Civic Rituals|公民仪式]]的理论阐释主要提供一种兼具实战[[Hard Power|硬实力]]与宏观价值信念的规范性政治哲学[[Paradigm|范式]]，不能将其简单等同于对所有公共部门所有权与运作机制的普适量化预测。

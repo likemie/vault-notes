@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Use-Inspired Basic Research
@@ -205,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 追踪过去五十年[[University-Industry Collaboration|产学合作]]关系的结构性演变，论述应用启发基础研究在大学重塑创新角色中的关键功能。
 > - [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al. (2025)]] — 运用[[Pasteur's Quadrant|巴斯德象限]]作为国际产学合作的[[Epistemology|认识论]]定位工具，剖析跨国研究伙伴关系的成功机制。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 分析《[[CHIPS and Science Act|芯片与科学法案]]》打破市场中立转向产业政策的制度背景，论证 [[National Science Foundation|NSF]] 设立 [[Directorate for Technology, Innovation and Partnerships|TIP]] 转化理事会以系统推进应用启发基础研究的战略举措。
@@ -215,9 +213,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

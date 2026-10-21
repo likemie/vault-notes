@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # 1904 Educational System
@@ -126,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **开创性历史功绩** 建立了中国历史上第一个覆盖学前教育至高等教育的现代国家学制框架，彻底终结了[[Civil Service Examination\|科举]]独占教育的局面，为中国教育现代化奠定了制度基石。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.612–613]]）
 > - **“中体西用”的内在张力** 现代科学科目与儒家经典的硬性并置，在[[New Culture Movement\|新文化运动]]“打倒孔家店”的冲击下迅速丧失文化合法性。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
 > - **引发1910年代修补与重构之争** 其源自日德的集权专制色彩在民国初年受到强烈质疑，激化了“渐进修补”与“全盘推倒”的争论，直接促成了1922年美式“新学制”的诞生。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.613–614, 617]]）
@@ -150,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

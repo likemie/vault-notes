@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-02
+updated: 2026-10-22
 ---
 
 # Social Learning Theory
@@ -71,9 +71,7 @@ updated: 2026-06-02
 
 公式中的期望指行为与奖励之间因果关系的感知确定程度（即概率）。这一广义期望的[[Construct|构念]]被定义为：当个体相信强化是特定行为的函数时，即为内部[[Locus of Control|控制点]]（internal locus of control）；当结果被归因于运气、命运或有权力的他人时，即为外部控制点（external locus of control）。因果关系的感知根据先前经验和情境复杂性在连续体上变化(Rotter, 1966; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.61]])。
 
-## 发展脉络
-
-> [!note|notitle]
+> [!note] 发展脉络
 > 社会学习理论的发展涉及多位研究者的贡献：
 > - **1941** — Miller & Dollard 出版 *Social Learning and Imitation*，早期社会学习理论基础
 > - **1954** — Rotter 出版 *Social Learning and Clinical Psychology*，提出四类[[Variable\|变量]]（行为、期望、强化、心理情境）和社会学习公式

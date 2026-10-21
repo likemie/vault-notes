@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Knowledge Co-production
@@ -199,9 +199,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -220,9 +218,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究索引
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，系统揭示知识共创作为证据生态基础设施的现实落差，实证指出实践者在研究生产全周期中被严重局限于“数据收集”客体环节，并论证外在制度化激励机制缺位是阻碍共创的核心瓶颈。（pp. 89–96）
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较三地[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]，指出苏格兰把[[Practitioner Enquiry\|实践者探究]]嵌入 [[General Teaching Council for Scotland\|GTCS]] 标准，使教师成为知识共创者（pp. 14–16, 23–24）。
 

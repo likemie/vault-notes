@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Surplus of Evidence
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 证据过剩（Surplus of Evidence） | 证据赤字（Evidence Deficit） | 信息孤岛（Information Silos） |
 > |---|---|---|---|
 > | 核心特征 | 报告数量泛滥、结论相互冲突且远超认知负荷 | 缺乏[[Causality\|因果推断]]数据、决策纯凭官员直觉拍脑袋 | 各派别学者自说自话、互不引用且缺乏跨界[[Dialogue in Education\|对话]] |
@@ -151,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1980 年代 — [[Research Utilization\|知识利用]]匮乏说（Caplan [[Two-Communities Theory\|两社区理论]]）** 传统认知普遍认为决策失误源于学术研究太少、学者与官员缺乏接触的“信息匮乏”。
 > - **2010 年代 — 证据过剩与思想市场批判** Lubienski 等学者提出“证据过剩”与“信息孤岛”，指出智库与新自由主义网络导致政策界充斥着相互打架的过剩数据。
 > - **2024 年至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的中介霸权** Steiner-Khamsi、Martens 与 Ydesen（2024）将证据过剩确立为理解跨国[[Policy Brokerage\|政策中介]]、[[Soft Power by Hard Facts\|以硬事实施展软权力]]的生态基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
@@ -189,7 +185,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 议程，将证据过剩与信息超载作为[[Policy Brokerage\|政策中介]]机构崛起与主权国家选择性挪用证据的根本制度背景。

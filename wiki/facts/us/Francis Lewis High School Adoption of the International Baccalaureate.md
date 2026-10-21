@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Francis Lewis High School Adoption of the International Baccalaureate
@@ -76,9 +76,7 @@ updated: 2026-10-21
 > [!warning] 证据边界
 > 现有材料能确认采用动机、先行地位和扩散活动，没有提供学生结果的系统比较，不能据此判断项目对成绩或大学录取的因果效果。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 139–140)]]
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |---|---|---|

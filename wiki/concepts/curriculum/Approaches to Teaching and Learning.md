@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Approaches to Teaching and Learning
@@ -89,7 +89,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 将 ATL 视作促进 [[IB Diploma Programme\|IBDP]] 核心课程内连贯性和[[Concurrency of Learning\|并发学习]]的重要实施工具，指出其在跨组件融合中的纽带作用。

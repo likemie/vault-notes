@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Agendas of Attention
@@ -88,9 +88,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 注意力议程 | [[Readings of the Global\|阅读全球]] | 研究议程 |
 > |---|---|---|---|
 > | **分析焦点** | [[Knowledge Production\|知识生产]]中“在场”与“缺席”的政治选择性后果 | 跨国空间中多重阅读全球的能动行为与体验 | 具体的有意识科研规划、项目设立与学科热点 |

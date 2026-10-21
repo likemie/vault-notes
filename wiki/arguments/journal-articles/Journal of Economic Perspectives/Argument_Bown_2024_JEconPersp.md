@@ -66,7 +66,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-04
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bown_2024_JEconPersp"
@@ -384,9 +384,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **微观产业与政策数据约束** 半导体行业数据存在商业保密壁垒，国家统计局、企业财报及行业协会（SIA、SEMI）的数据口径不一；加之非市场经济体产业扶持机制高度不透明，难以直接精确核算各政策工具的具体补贴力度与边际影响。（pp. 101–102）
 > - **复合政策因果识别困难** 近年来关税、直接补贴、单边与多边出口管制、外资安全审查及反垄断行动几乎同时出台，实证研究在将产业调整效果精准剥离并归因于特定某项政策工具时面临严重的方法论挑战。（p. 102）
 > - **宏观需求冲击与长期效果未定** 当前产业政策效果交织着新冠疫情后的供应链异常、[[Generative Artificial Intelligence|生成式人工智能]]爆发带来的结构性芯片需求激增等宏观冲击；全球补贴扩产是否会导致中长期产能过剩与纳税人亏损，仍取决于未来总体需求的演变，尚有待长期跟踪检验。（pp. 103–104）

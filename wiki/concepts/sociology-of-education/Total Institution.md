@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Total Institution
@@ -69,9 +69,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 全控机构（Total Institution） | 贪婪机构（Greedy Institution） | 现代开放型组织（Open Organization） |
 > |---|---|---|---|
 > | **物理与空间边界** | 存在高墙、门禁或严格行政边界的物理/制度性封闭空间 | 物理空间通常开放，但要求成员投入无限的时间与心理忠诚 | 物理与制度边界开放，工作与私人生活[[Champ\|场域]]明确分立 |
@@ -123,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1961 — [[Michael Gove|戈夫]]曼经典制度社会学奠基** 戈夫曼在《收容所》中系统界定全控机构概念，通过对华盛顿圣伊丽莎白精神病院的[[Qualitative Observation|田野观察]]，提炼出剥夺生活边界、人格贬损与二次调整等核心机制。(Goffman, 1961, p. xxi)
 > - **1970–2000年代 — 教育社会学与组织研究拓展** 概念被广泛应用于审视传统精英[[Boarding Schools|寄宿学校]]、军事学院与收容所的微观生活史，学者们利用[[Narrative Analysis|叙事分析]]方法揭示行动者在结构约束下的能动性与身份协商。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]
 > - **2020年代至今 — 逆向审视当代精英大学与科技官僚生态** 卡普与扎米斯卡等学者将全控机构概念逆向应用于批判当代常春藤高校与硅谷巨头，指出形式化的语言监管、道德合规与对现实冲突的制度性隔绝，正在制造新一代缺乏真实信念的空洞行政管理阶层。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
@@ -150,8 +146,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.3)]] — 运用[[Michael Gove|戈夫]]曼关于机构储物与二次调整的[[Narrative Analysis|叙事分析]]，示范如何将个体微观行为置回全控机构的制度情境中进行解释。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|Karp & Zamiska (2025, Ch. 5)]] — 引用戈夫曼关于全控机构的经典界定，批判当代西方顶尖大学在内部文化封闭与无摩擦规训下对学生与管理者智识勇气的系统性磨灭。

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Richard J. Shavelson
@@ -85,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1942** 出生于美国加利福尼亚州。
 > - **1964** 于加州州立大学长滩分校获心理学学士学位。
 > - **1970** 于斯坦福大学获教育心理学与统计测量学博士学位，师从现代测量学大师李·克隆巴赫（Lee Cronbach）。
@@ -125,9 +123,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 沙维尔森自我概念层级模型被广泛引用于发展心理学、教育心理学与学业动机研究；其关于教育研究理论逻辑与实践逻辑差异的论断，成为国际[[Knowledge Transfer\|知识转移]]与教育中介理论的基石。
 > - **方法路径** 与李·克隆巴赫共同奠定的概化理论（G-Theory），成为心理测量学中超越[[Classical Test Theory\|经典测验理论]]（CTT）处理复杂评定者[[Reliability\|信度]]、题本[[Sampling Error\|抽样误差]]的标准分析工具；推动了[[Authentic Assessment\|表现性评价]]与情境测验的严格计量规范。
 > - **政策路径** 主持编撰美国[[National Research Council|国家研究委员会]]（NRC）《教育中的科学研究》（2002），直接为美国 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与联邦[[Institute of Education Sciences\|教育科学研究院]]（IES）的因果[[Evidence Standards\|证据标准]]提供了权威界定。
@@ -135,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **导师／学术引路人** 李·克隆巴赫（Lee Cronbach） — 斯坦福大学博士导师，长期合作奠定现代心理测量概化理论。
 > - **重要合作者** [[Tina Seidel]] — 慕尼黑工业大学教育心理学讲席教授，2005 年起紧密合作[[Meta-analysis\|元分析]]研究，共同奠定[[Effective Teaching\|有效教学]]与[[Knowledge Mediation\|知识中介]]标准。
 > - **学术机构** 斯坦福大学教育学院与兰德公司（RAND Corporation） — 长期任职与主政的学术与政策重镇。
@@ -145,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

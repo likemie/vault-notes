@@ -8,10 +8,10 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 30
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 29
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1916"
 died: "2009"
 lifespan: "1916–2009"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
-  - "[[Torsten Husén]]"
   - "[[C. Arnold Anderson]]"
   - "[[Max Eckstein]]"
   - "[[Harold Noah]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Torsten Husén
@@ -81,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1916** 出生于瑞典隆德；后获隆德大学博士学位，早期从事军事心理学与心理测验标准化研究。
 > - **1953–1971** 担任斯德哥尔摩大学教育学讲座教授，深度参与瑞典 1950–1960 年代九年一贯制综合学校改革（Grundskola）的追踪评估。
 > - **1958–1962** 与阿瑟·福谢（Arthur W. Foshay）等跨国学者在 [[UNESCO]] 汉堡教育研究所发起筹备 [[IEA]]，并出任首任主席（1962–1978），主持具有里程碑意义的十二国数学成就研究（FIMS）；以瑞典为原点开创的大规模跨国实证调查，强力辐射并刺激了北欧及南欧（西班牙、意大利）等地的比较教育实证转向。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 90–91)]]
@@ -117,9 +114,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 早期推进教育机会均等与社会流动理论，晚期反思学校制度膨胀与教育万能神话，成为 1970 年代单一实证[[Paradigm\|范式]]衰落与[[Comparative Educations\|复数比较教育学]]演进的关键思想推手。
 > - **方法路径** 开创跨国大规模标准化测试的方法论规范（跨国抽样矩阵、课程[[Analytic Framework\|分析框架]]、跨文化测验工具），奠定全球量化实证研究的制度基础。
 > - **政策路径** 为瑞典战后九年一贯制综合学校改革提供直接实证依据，参与 [[OECD]] 与 [[UNESCO]] 顶层智囊咨询，其对学校危机的诊断深刻影响了西方 1980 年代教育政策重估。
@@ -141,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** 阿瑟·福谢（Arthur W. Foshay） — 1950 年代末共同在 [[UNESCO]] 汉堡教育研究所发起成立 [[IEA]]。
 > - **合作者** T. Neville Postlethwaite — 长期在 IEA 紧密合作，共同主编《[[International Education\|国际教育]]百科全书》。
 > - **学术网络** [[C. Arnold Anderson]]、[[Max Eckstein]]、[[Harold Noah]] — 共同参与战后比较教育实证[[Scientific Paradigm\|科学范式]]与跨国测量体系的开拓。
@@ -167,9 +160,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Talent Assumption
@@ -83,9 +83,7 @@ updated: 2026-10-17
 
 ---
 
-## 在同伴文化中的后果
-
-> [!warning|notitle]
+> [!warning] 在同伴文化中的后果
 > 天赋假设是 [[Nerd]] [[Peer-Supported Learning|同伴文化]]的关键发动机之一，与 [[Zero-Sum Competition\|零和竞争]]和 [[Intellectual-Social Divide\|知性-社交二分]]共同构成 nerd 文化的因果网络([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
 
 1. **低能力 + 努力 = 双重骚扰** 在 Bishop 研究中，那些被认为"能力低但仍然努力学习"的学生受到了最严重的同伴骚扰——因为他们被认为在"徒劳地改变不可改变的命运"
@@ -96,9 +94,7 @@ updated: 2026-10-17
 
 ---
 
-## 与文化的关系
-
-> [!note|notitle]
+> [!note] 与文化的关系
 > 天赋假设作为一种 [[Doxa]]（Bourdieu 的"自明真理"）在西方文化中运作——它被如此广泛地视为"常识"，以至于人们不再意识到它是一个**文化建构的假设**，而非客观事实。
 
 与东亚文化形成鲜明对比：东亚的可变自我观认为，能力可以通过努力和社会影响来改变。"聪明"在东亚学习传统中不是出生时就分配好的固定属性——它是学习的**结果**而非前提([[Argument_Li_2012_Cambridge|Li, 2012, pp.109–110]])。在这一信念体系中，"努力学习却被认为低能力"的逻辑完全无法成立。

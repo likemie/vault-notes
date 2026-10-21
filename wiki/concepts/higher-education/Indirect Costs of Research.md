@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Indirect Costs of Research
@@ -174,8 +174,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 用国立卫生研究院有效费率超过 40%、谈判费率达直接成本 50% 至 60%，而私人资助常常只收 10% 至 15%，论证间接成本已成为研究预算上的税。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统考证战后美国大学科研间接成本谈判的制度变迁，揭示其作为商场模型地租与基建扩张引擎的核心经济机制。

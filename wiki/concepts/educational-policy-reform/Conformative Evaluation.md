@@ -25,7 +25,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Conformative Evaluation
 
@@ -66,8 +66,6 @@ updated: 2026-10-21
 
 ---
 
-## 应用案例
-
-> [!case|notitle] 应用案例索引
+> [!case] 应用案例索引
 > - Stronach and Morris（1994）基于英国大规模教育政策项目的委托评估经验提出这一概念，其典型表现为：评估者在合同报告中强调项目成效，同时私下或在学术渠道中对同一项目的方法论和政治前提提出批评。
 > - Morrison（1993）和 Barton（2002）进一步指出，即使在学校微观政治层面，评估数据也可能被用来为特定部门引入或撤回资源，评估者必须谨慎选择立场和忠诚对象。

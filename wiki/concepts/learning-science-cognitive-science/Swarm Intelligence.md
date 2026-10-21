@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Swarm Intelligence
@@ -74,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 群体智能组织（Swarm Organization） | 传统[[Bureaucracy\|科层官僚制]]（Hierarchical Bureaucracy） | 纯随机松散群体（Uncoordinated Crowd） |
 > |---|---|---|---|
 > | **决策权力中心** | 无单一指挥中枢，决策权分布于边缘感知节点 | 严格自顶向下，权力集中于各级管理层与中心首领 | 无明确决策机制，个体行动彼此割裂 |
@@ -148,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s — 生物学奠基阶段** 弗里希与[[Martin Lindauer|林道尔]]破译[[Dance Language of Bees|蜜蜂舞蹈语言]]，并通过 1951 年慕尼黑[[Eck Swarm Experiment|埃克蜂群实验]]首次系统记录了去中心化群体通过投票收敛达成筑巢共识的完整过程。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–119)]]
 > - **2000s — 统计物理学拓扑突破** [[Giorgio Parisi|帕里西]]团队利用三维高速立体摄影破译罗马[[Flocking Behavior|椋鸟群飞]]的无标度拓扑相互作用机制，证明边缘个体驱动与亚秒级邻近传导是复杂自组织系统保持整体一致性的物理根源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **2020s — 跨学科组织与工程治理[[Paradigm|范式]]** 群体智能被系统引入医疗急救韧性建设与科技初创企业治理，卡普与扎米斯卡将其确立为打破科层官僚僵化、重建[[Technological Republic|技术共和国]]工程文化的核心理论原型。
@@ -189,7 +185,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10)]] — 专著第 10 章系统梳理了[[Martin Lindauer|林道尔]][[Eck Swarm Experiment|埃克蜂群实验]]与[[Giorgio Parisi|帕里西]][[Flocking Behavior|椋鸟群飞]]研究，将生物群体智能与[[Edge Autonomy|边缘自治]]确立为高敏捷初创企业及实战工程文化的核心组织原型。

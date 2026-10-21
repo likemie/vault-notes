@@ -32,21 +32,17 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 潜在结果框架（Potential outcomes Framework）是[[Causality\|因果推断]]的核心概念框架，其关键思想是：**因果效应需要被概念化为假设性的比较**，而非直接可观测的量。因果效应通过比较同一主体在两种条件下的潜在结果来定义——一个是接受处理条件下的结果，另一个是接受对照条件下的结果。这两个结果都是假设性的，在分析任何数据之前被仔细考虑([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.193]])。
 >
 > > "One imagines what the outcome would be for an inmate under the treatment condition, and what the outcome would be for that same inmate under the comparison condition. Both outcomes are hypothetical. They are carefully considered before any data are analyzed."
 >
 > 例：假设一项监狱犯人职业培训评估——处理条件是提供职业培训，对照条件是在监狱院子里自由活动，结果是释放后的劳动力市场成功。因果效应被定义为该犯人在职业培训条件下的潜在收入与同一犯人在自由活动条件下的潜在收入之间的比较。
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > - **1923** — Jerzy Neyman 在农业实验中首次提出潜在结果的基本构想（Neyman [1923] 1990），为[[Causality\|因果推断]]提供了数学基础
 > - **1974** — Donald Rubin 将 Neyman 的公式扩展至社会科学领域，提出"Rubin 因果模型"（Rubin, 1986）
 > - **1986** — Paul Holland 发表 "Statistics and Causal Inference"，提出"没有操纵就没有因果"（no causation without manipulation）的核心命题
@@ -80,14 +76,10 @@ updated: 2026-10-21
 > [!abstract] 在[[Evaluation Research\|评估研究]]中的传播
 > [[Argument_Berk_2011_EvalRev\|Berk (2011, p.194)]] 观察到潜在结果公式已逐渐在评估研究实践中取得重要进展，尤其在经济学家中，但进展"非常缓慢"。
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - vs [[Causal Modeling]] — 潜在结果框架为因果效应提供定义性基础；因果建模（SEM）尝试通过模型假设从观察数据中估计因果参数，但 [[Argument_Berk_2011_EvalRev\|Berk (2011)]] 认为后者存在严重的过度依赖不可检验假设的问题
 > - vs [[Randomised Controlled Trials]] — RCT 是估计因果效应的一种方法；潜在结果框架为理解 RCT 为何有效（[[Random Assignment\|随机分配]]使潜在结果独立于处理分配）提供了概念基础
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - Neyman-Rubin 因果模型 — 该框架的数学基础，将因果效应形式化为潜在结果的比较
 

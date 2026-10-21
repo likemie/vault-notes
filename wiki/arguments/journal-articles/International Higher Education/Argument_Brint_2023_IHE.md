@@ -50,7 +50,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brint_2023_IHE"
@@ -334,9 +334,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文发表于法案签署生效不久的 2023 年初，明确指出该立法对美国高等教育与科技格局的精确影响“目前尚无法完全评估”（p. 9）；同时作者强调，法案能否真正实现超越竞争对手的战略目标，取决于国会后续冗长且充满政治博弈的实际拨款进程，目前没人能确定最终将有多少经费真正落实到大学科研项目中（pp. 9–10）。
 
 ---

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Effective Altruism
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 有效利他主义（Effective Altruism） | 儒家君子德性（[[Junzi]]） | 硬信念（[[Hard Belief]]） |
 > |---|---|---|---|
 > | **伦理判准** | 单一量化效用计算与福利最大化 | 仁义礼智信、家国忠诚与实质德性修养 | 捍卫宪政民主与制度理想的坚定意志 |
@@ -150,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1975 — 功利主义伦理奠基** 彼得·辛格发表《动物解放》（*Animal Liberation*），确立不分种属的普遍功利最大化伦理计算框架。
 > - **2009–2010s — 硅谷有效利他主义运动兴起** 以牛津大学学者（如威廉·麦卡斯基尔）为代表发起“有效利他主义”，迅速被硅谷创业者与科技资本奉为行业主流慈善哲学。
 > - **2020s — 伦理危机与破产反思** 伴随 FTX 崩溃等一系列硅谷高科技丑闻，有效利他主义被揭露出过度功利计算下的道德盲区与虚伪性。
@@ -175,9 +171,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -191,7 +185,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 结合彼得·辛格哲学渊源与罗杰·斯克鲁顿批判，系统解构有效利他主义作为科技精英非道德避险策略的实质及其引发的文化虚无危机。

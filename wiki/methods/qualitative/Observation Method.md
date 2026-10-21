@@ -69,7 +69,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Observation Method
@@ -350,9 +350,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 > - **记号体系或项目清单（Sign System）** 事先列出所有可能行为的清单，观察者根据清单记录行为呈现与否。常与编码体系结合使用
 > - **等级量表（[[Rating Scale]]）** 预先形成观察量表，观察者在量表上对目标行为做出等级评价，主要用于事件取样
 
-### 视听记录
-
-> [!info|notitle] 视听记录
+> [!info] 视听记录
 > 除传统书写记录外，视听记录是强大的记录工具（Erickson, 1992, pp. 209–210）。视频记录可以提供比人类观察更未经过滤的观察记录（Simpson & Tuson, 2003, p. 51），且可多次回放。
 >
 > 视频记录也有局限：可能产生反应性问题；固定摄像机与人类观察者一样具有选择性（Morrison, 1993, p. 91）；近景聚焦与全景聚焦难以兼顾。视频记录是对人类观察的补充而非替代（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.9 节]]）。

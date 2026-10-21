@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Transfer Space
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 政策转移空间（Transfer Space） | [[Methodological Nationalism\|方法论民族主义]]模型 | 依附霸权扩散模型 |
 > |---|---|---|---|
 > | **国家认知本体** | 解构的国家：区分咨询、行政与立法功能层析 | 均质封闭黑箱：视民族国家为统一政策行动者 | 被动从属体：国家沦为核心帝国的受宰制客体 |
@@ -147,9 +145,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000–2010年代 — [[Policy Borrowing\|政策借用]]与借用语境研究** 比较教育学者关注全球政策在跨国流动中的[[Recontextualization|再情境化]]（Recontextualisation）与本土适应，奠定非线性空间研究基础。
 > - **2012 — 政策借用中的政治与经济机制** 吉塔·施泰纳-哈姆西与弗洛里安·瓦尔多系统阐述国家在政策借用中的外在化机制与准外部参考点投射。
 > - **2023 — 政策转移空间的正式提出** 奥斯瓦尔多·波尔图·德奥利维拉与塞西莉亚·奥索里奥·贡内特在比较政策[[Analytic Framework\|分析框架]]下正式确立“转移空间”（Transfer Space）概念，呼吁超越[[Methodological Nationalism\|方法论民族主义]]。
@@ -186,7 +182,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 依托转移空间框架，追踪挪威教育部能力改革中专家报告至正式法令的引文损耗，实证解构国家在政策周期中的自主裁量权。

@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Legislative Policy Brief
@@ -118,9 +118,7 @@ updated: 2026-10-17
 
 ---
 
-## 理论渊源与关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 理论渊源与关联网络
 > | 关联条目 | 关联维度 | 理论与制度功能链接 |
 > |---|---|---|
 > | [[Navigational Framework for Educational Researchers]] | 理论框架 | 立法政策简报是政策导航框架第四阶段（政策合法化）的核心操作武器，直接支撑法案起草与文本审议。 |

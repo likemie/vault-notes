@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Fulbright Program
@@ -70,7 +70,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 在"人的培养"论证步骤（论证步骤三）中将富布莱特计划作为政府层面[[Geopolitical Subject\|地缘政治主体]]生产的典型案例，分析其如何通过国际学生培养传播美国价值观和培养亲美政治主体。

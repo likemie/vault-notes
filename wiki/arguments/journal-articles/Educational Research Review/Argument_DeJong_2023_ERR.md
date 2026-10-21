@@ -123,7 +123,7 @@ related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
 status: active
 created: 2026-09-20
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_DeJong_2023_ERR
 
@@ -388,9 +388,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **关注焦点主要局限于概念性知识** 核心论辩聚焦于作为主要学业产出的概念性领域知识；尽管[[Inquiry-Based Learning\|探究式学习]]在培养[[Nature of Science\|科学本质观]]（Nature of Science, NOS）、探究实践素养、科学学习兴趣、[[Self-Efficacy\|自我效能感]]以及团队协作能力等其他[[CORE Education|核心教育]]成果上展现出独特价值，但受限于篇幅未作全景式展开。（p. 10）
 > - **调节[[Variable\|变量]]指导模型尚需进一步细化** 基于调节因素提出的教学设计与时序编排建议仍具有一定探索性，未来研究需要进一步深入探明各调节变量（如特定[[Inhibitory Control\|抑制控制]]亚型、具体学科子领域）与特定指导干预形式之间的微观因果交互机制。（pp. 8, 10）
 > - **微观时序最优编排边界仍待实证深挖** 关于何时应当采取先行讲授、何时应当运用[[Productive Failure\|生产性失败]]策略、何时应当提供即时按需解释，目前的实证边界条件依然错综复杂，亟需未来开展更具针对性的微观[[Design-Based Research\|设计实验]]加以系统拆解。（p. 9）

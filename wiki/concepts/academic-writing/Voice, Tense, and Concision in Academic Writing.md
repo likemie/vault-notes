@@ -26,14 +26,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-10-22
 ---
 
 # Voice, Tense, and Concision in Academic Writing
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Franklin (1986) 三阶段写作模型的第三阶段是"打磨"（polish），聚焦句子和词语层面的语言选择。在这一层面，三项规范共同决定学术文本的可读性：主动语态的使用、动词时态的选择，以及多余词语（fat）的修剪。Wolcott (2009) 将这一层面的编辑技能概括为：删除被动语态改用主动语态、消除不必要词语（只保留核心词）、缩减修饰语（最多保留一个）、删除过度使用的短语、减少过量引用、斜体和括号注释（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 ## 主动语态

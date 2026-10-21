@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # People-to-People Connectivity
@@ -77,9 +77,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 民心相通（People-to-People Connectivity） | [[Soft Power\|软实力（Soft Power）]] | 传统公共外交（Public Diplomacy） |
 > |---|---|---|---|
 > | 分析对象 | 跨大洲合作网络中的多边社会心理与文化互动关系 | 国家拥有的无形资源与吸引力资产总量 | 一国政府面向外国公众的传播与说服实践 |
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000–2012 — 双边文化交流雏形期**
 >   在[[Forum on China-Africa Cooperation|中非合作论坛]]前四届会议中，人文合作主要以分散的留学生政府奖学金、短期业务研修及文化代表团互访形式呈现，尚未形成全局性的战略概念。
 > - **2013–2015 — 政策顶层提出与“五通”确立期**
@@ -193,8 +189,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用[[Discourse Analysis|话语分析]]揭示民心相通如何作为政策[[Discourse|话语]]基石，统领中国对非教育合作从单向流动向实体共建与多边网络演进。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 运用[[Critical Discourse Analysis|批判话语分析]]解构“[[Belt and Road Initiative|一带一路]]”教育政策，剖析民心相通叙事如何协同国家战略投射替代性的全球治理构想。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Thomas Kuhn
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1922** 出生于美国俄亥俄州辛辛那提；后进入哈佛大学研读物理学，1949 年获理论物理学博士学位。
 > - **1947–1956** 在哈佛大学讲授科学[[General Education\|通识教育]]课程期间，因研读[[Aristotle\|亚里士多德]]物理学发生思想顿悟，认识到古代科学并非现代科学的不成熟版本，而是完全不同世界观的产物，由此彻底转向科学史与[[Epistemology\|认识论]]研究。
 > - **1957** 出版首部专著《哥白尼革命：西方思想发展中的行星天文学》（*The Copernican Revolution*），系统展现了科学思想革命背后的社会、哲学与观念网络。
@@ -155,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **论辩同行 / 哲学家** [[Karl Popper]] — 围绕常规科学的性质、科学革命与[[Falsification\|证伪主义]]展开著名的“波普尔-库恩大论战”；
 > - **科学哲学继承与争鸣** 保罗·费耶阿本德（Paul Feyerabend）、伊姆雷·拉卡托斯（Imre Lakatos）— 激化或修正[[Incommensurability\|不可通约性]]与科学研究纲领理论；
 > - **教育研究与比较教育应用** [[Brian Holmes]]、[[Andreas Kazamias]]、迪米特里斯·马修（Dimitris Mattheou）— 将[[Paradigm\|范式]]理论引入跨国教育研究与学科史方法论反思。
@@ -185,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

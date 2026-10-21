@@ -9,10 +9,10 @@ aliases:
 summary: "源自哈贝马斯批判理论并在当代教育社会学与治理研究中深入发展的核心概念；指法律规范、条文对标、司法仲裁程序与法定行政制裁向学校教育日常运作的全面扩张；以瑞典新《教育法》实施为典型代表，外部督导从传统的专业教学支持形态，转变为以法定义务履行核查、行政罚款威慑与投诉处理为主导的司法化规制，引发学校实践的防御性合规。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 subtype: educational-policy-reform
 tags:
   - concept/educational-policy-reform
@@ -22,18 +22,14 @@ tags:
   - theme/accountability
 related_concepts:
   - "[[School Inspection]]"
-  - "[[State Simplification]]"
-  - "[[Governing at a Distance]]"
   - "[[Forensic Style of Inspection]]"
-  - "[[Technical Rationality]]"
+  - "[[State Simplification]]"
 related_theories:
   - "[[Governing by Inspection]]"
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Case Study]]"
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Jürgen Habermas]]"
+related_persons: []
 related_facts:
   - "[[Swedish Schools Inspectorate]]"
 related_arguments:
@@ -41,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Juridification of Education
@@ -69,8 +65,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析
 > | 维度 | 教育司法化（Juridification） | 新公共管理问责制（NPM Accountability） | 专业伦理自律（Professional Accountability） |
 > |:---|:---|:---|:---|
@@ -79,8 +73,6 @@ updated: 2026-10-21
 > | **失效表现** | 教师陷入防御性留痕与过度文书合规 | 考试功利化与针对指标的作弊迎合 | 共同体封闭保护主义与问责软弱 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **法定科学依据与经验验证条款的强制嵌入（Statutory Mandate of Evidence）** 国家通过立法（如瑞典《教育法》第 1 章第 5 节）将科学依据上升为学校法定义务，使学术研究使用直接与行政合法性挂钩。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
@@ -111,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1981 — 批判理论源起** 尤尔根·哈贝马斯（Jürgen Habermas）在《交往行为理论》中将“法律化”（Verrechtlichung）界定为系统对生活世界的殖民形式之一。
 > - **2000年代 — 欧洲公共服务司法化扩散** 福利国家紧缩与新自由主义重组，推动英国、德国与北欧在医疗与教育领域密集出台法定权利法案与专门监管法庭。
 > - **2010年代–至今 — 北欧学校督导司法化实证深描** 瑞典 2010 年新《教育法》落地，胡尔特、诺瓦克与塞格霍尔姆等学者系统追踪瑞典督察局从柔性督导向高压法律制裁的演进过程，奠定当代教育司法化实证研究高地。
@@ -132,9 +122,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # John Lewis Gaddis
@@ -54,9 +54,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1941** 出生于美国得克萨斯州科珀斯克里斯蒂。
 > - **1968** 获得得克萨斯大学奥斯汀分校博士学位，后任教于俄亥俄大学，奠定后修正主义冷战史学基础。
 > - **1987** 出版里程碑著作《[[Long Peace|长和平]]：冷战史考察》，首次将二战后大国无大战状态命名为“长和平”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Karp & Zamiska, 2025, p. 40)]]
@@ -94,9 +92,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 确立了战后国际体系“结构性威慑”的史学[[Paradigm|范式]]，直接启发了[[Steven Pinker|斯蒂芬·平克]]等学者对人类暴力退潮的[[Quantitative Research|量化研究]]。
 > - **战略教学路径** 在耶鲁大学开创“大战略项目”，培养了整整一代美国国家安全、外交政策与情报分析界核心精英。
 > - **政策反思路径** 卡普与扎米斯卡（2025）将加迪斯[[Long Peace|长和平]]命题置于软件世纪的新语境中，反思和平自满对西方国防[[Hard Power|硬实力]]的反向侵蚀。
@@ -112,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／传记对象** 乔治·凯南（George F. Kennan） — 遏制战略提出者，加迪斯为其耗时数十年撰写权威传记。
 > - **战略合作者** 保罗·肯尼迪（Paul Kennedy）、查尔斯·希尔（Charles Hill） — 耶鲁大学大战略教学三驾马车。
 > - **思想对话者** [[Steven Pinker|斯蒂芬·平克]] — 承接[[Long Peace|长和平]]命题并运用实证数据论证暴力退潮。
@@ -137,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -149,9 +141,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引加迪斯关于二战后大国[[Long Peace|长和平]]的经典史学定性，深刻揭示长和平所诱发的防务自满与软件世纪威慑重构的紧迫性。
 
 

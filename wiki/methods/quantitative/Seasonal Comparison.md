@@ -34,19 +34,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 季节性比较（Seasonal Comparison）是一种准[[Experimental Research\|实验研究]]设计，利用学校日历的季节性特征——九个月的学年后接三个月的暑假——作为自然实验来理解学校如何影响不平等。其核心逻辑类似于医学研究中的交叉设计（[[Repeated Measures Design\|crossover design]]）：被试在治疗期（学年）和非治疗期（暑假）被反复观测，通过比较两种条件下成就差距的变化来推断学校的因果效应([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.4]])。
 >
 > > "Similar to a crossover design in medical research, where patients are observed on and off treatment, seasonal comparison researchers observe how achievement gaps change when children are on treatment (in school) versus out (summer)."
 
-## 认识论立场
-
-> [!abstract|notitle] [[Epistemology\|认识论]]立场
+> [!abstract] [[Epistemology\|认识论]]立场
 > 季节性比较属于准实验[[Causality\|因果推断]]传统，其认识论核心是[[Counterfactual\|反事实推理]]（counterfactual reasoning）。设计试图回答的问题不是传统的"学校 A vs 学校 B 哪个更好"，而是更根本的："如果学校不存在，不平等会是什么样？"（Raudenbush & Eschmann, 2015, cited in [[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.3]]）。暑假被用作这一反事实的经验近似([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.4]])。
 >
 > 这种设计绕过了传统方法面临的三个核心难题([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.3–4]])：
@@ -73,9 +69,7 @@ updated: 2026-10-21
 > - **NWEA 数据（Northwest Evaluation Association）** 大规模学生评估数据（Yoon & Merry, 2015）
 > - **巴尔的摩纵向研究** Entwisle & Alexander 在 1980 年代开始的标志性地方性季节性研究（Entwisle & Alexander, 1992, 1994）
 
-## 适用场景
-
-> [!success|notitle] 适用场景
+> [!success] 适用场景
 > - 评估学校对不平等的**总体效应**（所有学校机制的综合后果），而非单个学校实践的效果
 > - 研究 [[Socioeconomic Status|SES]]、种族／族裔、性别等多维度成就差距的学校效应
 > - 可扩展到非认知结果：肥胖（BMI）、社交／行为技能等（von Hippel et al., 2007; Downey, Workman & von Hippel, 2016）
@@ -103,9 +97,7 @@ updated: 2026-10-21
 > [!warning] 对种族模式的解释困难
 > 种族认知技能差距的季节性模式在不同研究中不一致：Heyns (1978) 在亚特兰大发现学校对种族差距是补偿性的，但 ECLS-K 全国数据暗示学校可能是加剧性的。种族差距在幼儿园入学前已很大，这使得整理学校和非学校因素变得复杂([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.5]])。
 
-## 使用此方法的研究
-
-> [!example|notitle] 使用此方法的研究
+> [!example] 使用此方法的研究
 > 关键研究及其发现([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.4–5]])：
 >
 > - **Heyns (1978)** 亚特兰大 42 所学校 3,000+ 名六七年级学生（1971–1972 学年和暑假）——开创性发现：暑假学习是纯粹的非学校因素产物，比较两个季节揭示学校如何发挥作用

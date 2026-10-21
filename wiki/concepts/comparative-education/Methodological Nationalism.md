@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Methodological Nationalism
@@ -99,9 +99,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 方法论民族主义 | 规范性民族主义 | [[Classical Geopolitics\|古典地缘政治]] |
 > |------|--------|----------------|----------------|
 > | **性质定位** | 认识框架 / 分析预设（如何看待世界） | 价值立场 / 意识形态（如何评价世界） | 国际关系领域的特定分析流派 |
@@ -203,9 +201,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2002–2003 — 移民与社会学研究起源**
 >   Wimmer & Glick Schiller (2002/2003) 系统提出“方法论民族主义”概念，批判社会科学研究中未经反思地将民族国家作为自然社会和政治边界的倾向。[[Argument_Marginson_2025_ECNUROE|Wimmer & Schiller, 2003, 引自 Marginson, 2025, p. 8]]
 > - **2007 — 全球化理论扩展**
@@ -257,9 +253,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Methodological Transnationalism|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 论证 Massey 的[[Relational Space|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]重构教育政策[[Discourse|话语]]的三级转译。

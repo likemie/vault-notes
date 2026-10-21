@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Conditionalities
@@ -263,9 +263,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **20 世纪下半叶 — 传统宏观结构调整与主权借贷附加条件** 伴随布雷顿森林体系的演变，[[International Monetary Fund|国际货币基金组织]]（IMF）与[[World Bank|世界银行]]将政策附加条件系统应用于发展中国家的主权纾困与结构调整贷款中，要求借款国必须严格实行财政紧缩、削减教育等公共支出、推行贸易与资本[[Liberalization|自由化]]以及私有化改革，带有强烈的[[Washington Consensus|华盛顿共识]]新自由主义色彩。但外源性强加的条件常因借款国缺乏本土意愿而陷入执行停摆。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 > - **2010 年代 — 使命导向创新与[[Public Value|公共价值]]重塑** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mazzucato, 2022）与丹尼·罗德里克（Rodrik, 2023）系统构建[[Modern Industrial Policy|现代产业政策]]附加条件分类学，主张通过条件设定将创新转化为包容、绿色与公共利益。
 > - **2021–2024 年 — 美国现代产业战略的法典化与[[Operationalization|操作化]]** 拜登政府在 [[Infrastructure Investment and Jobs Act|IIJA]]（[[Build America, Buy America Act|BABA]] 条款）、CHIPS（劳工/托儿/利润分享/地缘护栏）及 [[International Reading Association|IRA]]（[[Apprenticeship|学徒制]]与现行工资抵免）中全面落地附加条件机制，并将其延伸至 [[National Science and Technology Council|NSTC]] 研发联合体开放准入与非排他 IP 规约，使其成为 21 世纪国家产业战略治理的标准配置。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–14)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
@@ -311,13 +309,11 @@ updated: 2026-10-21
 > | 《[[CHIPS and Science Act\|CHIPS]] 研发与 NSTC 联合体》 (2023) | 110 亿美元研发基金 | 开放准入、知识产权非排他许可、多元造血自负盈亏 | 设立中立非营利运营实体（[[Natcast]]）；强制面向全美高校与初创企业开放 300mm 基线中试线与 DEG；基线成果实行非独占许可 | 确立国家级研发中试公共品防范寡头垄断与维持长期活力的治理框架 | [[Argument_NIST_2023_NSTC\|(NIST, 2023, pp. 2–5, 10–11)]] |
 > | 《[[Inflation Reduction Act\|通胀削减法案]]》（IRA） | 3690 亿美元清洁能源与气候转型税收激励 | 现行工资（Prevailing Wage）、注册学徒工时 | 清洁能源项目满足法定现行工资及注册学徒工时比例，可获得基准税率 5 倍（最高 30%）的投资/生产税收抵免 | 极大调动私营清洁能源投资，同时推动工会高薪与注册学徒培训规模化增长 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 9, 13)]] |
 > | 《[[Infrastructure Investment and Jobs Act\|两党基础设施法]]》（IIJA） | 1.2 万亿美元联邦基础设施专项拨款 | 《[[Build America, Buy America Act\|以美国制造为荣法案]]》（BABA） | 所有联邦资助项目使用的钢铁、制造品与建材必须 100% 在本土生产；推行分阶段豁免过渡期 | 创造数百亿美元本土采购内生需求，需妥善处理特定高端部件短期供给瓶颈 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 12–14)]] |
-> | 美欧半导体法案附加条件对比 | 美国 CHIPS Act vs. [[EU\|欧盟]] Chips Act | 美方全面硬性绑定（地缘护栏、劳工标准、分红回购禁令、超额利润分成）；欧方去中心化弱约束（[[Important Projects of Common European Interest\|IPCEI]] 利润回缴、危机期应急优先订单） | 揭示美国集中式法定强约束与欧盟去中心化弱约束的制度分水岭，指出多层级治理制约了欧盟附加条件的规制效能 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 14–17)]] |
+> | 美欧半导体法案附加条件对比 | 美国 CHIPS Act vs. [[EU\|欧盟]] Chips Act | 美方全面硬性绑定（地缘护栏、劳工标准、分红回购禁令、超额利润分成）；欧方去中心化弱约束（[[Important Projects of Common European Interest\|IPCEI]] 利润回缴、危机期应急优先订单） | 揭示美国集中式法定强约束与欧盟去中心化弱约束的制度分水岭，指出多层级治理制约了欧盟附加条件的规制效能 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 14–17)]] |  |
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与理论作用 |
 > |:---|:---|:---|
@@ -334,9 +330,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 深度剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中附加条件与护栏条款的制度设计、执行挑战与[[Public Value|公共价值]]产出逻辑。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 系统阐释美国半导体研发资助中面向 [[National Science and Technology Council|NSTC]] 的开放准入、非排他知识产权许可与长期自负盈亏等研发附加条件治理机制。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较美欧半导体产业政策中的附加条件设计，揭示美国集中式强力规制与[[EU|欧盟]]去中心化弱约束的机制分殊与效能差异。

@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Professors of Practice
@@ -45,15 +45,11 @@ updated: 2026-10-16
 > [!quote|notitle]
 > "Industry participation in courses as part-time lecturers or full-time professors of practice provide a knowledge [[Flow]] from industry to university."（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p.58]]）
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs 兼职讲师（part-time lecturers）— 兼职讲师的全职工作在企业，仅以兼职身份在大学授课；实践教授可以是全职的（其主业就在大学），二者的共同点是[[Source of Knowledge\|知识来源]]均为产业界（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp.58, 64]]）
 > - vs 传统学术教授 — 传统教授的聘任标准是学术发表、研究经费和教学能力；实践教授的聘任标准是产业成就和实践专长。后者通常不经过传统的终身教职（tenure-track）路径
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > - **聘任标准** 基于产业经验而非学术资质——大学因候选人在特定行业的实践专长而聘任（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p.60]]）
 > - **知识流向** 产业 → 大学——实践教授将产业界的技术方法、管理实践和行业趋势带入课程设计、学生指导和合作研究（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p.58]]）
 > - **制度形式** 可为全职（full-time professor of practice）或兼职讲师（part-time lecturer，全职在企业）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp.58, 64]]）
@@ -68,9 +64,7 @@ updated: 2026-10-16
 > [!example] Princeton-Google AI 实验室
 > Princeton and Google 联合推出的 AI 实验室是一个新近案例——两位教授将其时间分配在大学和 Google 之间，以"加深对机器学习的理解并产生令人兴奋的创新"。这一案例代表了实践教授从传统学科向新兴技术领域的扩展趋势（p.39）。
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > Boccanfuso and Hall（2025, p.64）对 65 所 [[University Industry Demonstration Partnership\|UIDP]] 成员大学的调查显示：
 > - 88% 的大学聘请企业全职员工担任兼职讲师
 > - 84% 的大学聘请全职实践教授（因其产业经验而被聘用）

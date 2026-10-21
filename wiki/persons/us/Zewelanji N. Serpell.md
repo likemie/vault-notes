@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Zewelanji N. Serpell
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2000s–2010s** 在弗吉尼亚联邦大学心理学系从事儿童发展、注意力机制与基于学校的心理学实证研究。
 > - **2017–2018** 入选[[AERA Congressional Fellowship Program\|国会研究员计划]]，前往华盛顿特区，担任美国[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]专业幕僚研究员，直接深度参与联邦教育法案听证、证据审查、跨党派协商与政策制定全流程。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41–43)]]
 > - **2020** 在权威刊物《教育心理学家》（*Educational Psychologist*）发表专题论文，系统总结国会山立法实务经验，构建指导教育研究者的[[Navigational Framework for Educational Researchers\|政策导航框架]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–48)]]

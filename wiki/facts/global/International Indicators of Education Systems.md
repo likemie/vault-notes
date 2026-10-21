@@ -16,7 +16,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -33,20 +33,17 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Peer Pressure]]"
   - "[[Definition of Terms]]"
-  - "[[Variable]]"
   - "[[Academic Achievement]]"
   - "[[Data Infrastructure]]"
-  - "[[Heterogeneity]]"
   - "[[New Public Management]]"
   - "[[School Autonomy]]"
-  - "[[Science and Technology Studies]]"
   - "[[Commensuration]]"
-  - "[[Performativity]]"
   - "[[Reflexivity]]"
   - "[[Knowledge Production]]"
   - "[[Ecological Fallacy]]"
   - "[[Performance Pay]]"
   - "[[Progressive Education]]"
+  - "[[Performativity]]"
   - "[[Global Education Governing Complex]]"
 related_theories: []
 related_methods: []
@@ -59,19 +56,19 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
-  - "[[EU]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[EU]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[IEA]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # International Indicators of Education Systems
@@ -137,7 +134,7 @@ updated: 2026-10-21
 > |:---|:---|:---|
 > | **核心诉求** | 直观、简明、跨国可排名的结果指标 | 严谨、审慎、兼顾输入背景与测量误差 |
 > | **对成绩的态度** | 坚决要求将学生考试成绩纳入指标以评估绩效（Lugano 决策） | 强烈反对将脱敏成绩简化为国别指标，警惕伪因果与不当问责 |
-> | **治理哲学** | [[New Public Management|新公共管理]]（NPM）、结果导向与跨国竞争压力 | 基础科学描述、系统生态理解与谨慎推论 |
+> | **治理哲学** | [[New Public Management\|新公共管理]]（NPM）、结果导向与跨国竞争压力 | 基础科学描述、系统生态理解与谨慎推论 |
 >
 > **关键裁决** 卢加诺会议确立了政治意志对学术科学的主导：为了向公众与议会提供“可计算的世界”，科学家的技术迟疑被定性为改革阻力并遭到边缘化。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 12–13)]]
 
@@ -189,9 +186,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

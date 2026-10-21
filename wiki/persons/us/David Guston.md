@@ -44,7 +44,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # David Guston
@@ -65,9 +65,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1987年** 毕业于耶鲁大学，获工程与政治学双学士学位。
 > - **1993年** 获麻省理工学院（MIT）政治学博士学位，师从知名科学政策学者，博士论文奠定了科学契约分析的基础。
 > - **1994年** 与肯·肯尼斯顿（Kenneth Keniston）合编出版《弱化的契约？大学科学与联邦政府》（*The Fragile Contract? University Science and the Federal Government*），系统反思冷战后联邦科研资助危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
@@ -110,9 +108,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战基础研究与国家目标关系的学术大讨论。
 > - **师承／合作者** 肯·肯尼斯顿（Kenneth Keniston） — 共同合编出版《弱化的契约？》，奠定契约危机研究传统。
 > - **机构／运动／项目** 亚利桑那州立大学（ASU）未来社会创新学院 — 长期担任创立院长与核心学术领袖。
@@ -132,9 +128,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

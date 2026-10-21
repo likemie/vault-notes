@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dialectic of the Global and the Local
@@ -111,9 +111,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -181,9 +179,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国[[Policy Borrowing|政策借用]]与本土落地冲突、[[Pluri-Scalar Governance|多标度教育治理]]重构、基层教育社会运动。
 > - **成立条件** 需要研究者兼备宏观政治经济学制度分析能力与微观人类学长时段[[Qualitative Observation|田野观察]]能力。
 > - **解释不足** 容易将复杂的因果链条泛化为一切皆是辩证互动，若缺乏对具体中介机制的严密追踪，可能退化为描述性套话。
@@ -212,9 +208,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威理论专章，系统确立贯通宏观世界体系与微观课堂[[Ethnography|民族志]]的双重视野，提出教育改革发起方位与目标取向二维矩阵。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]。
 

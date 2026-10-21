@@ -48,7 +48,7 @@ sources:
 part_of: "[[Argument_Parreira do Amaral_2022_Springer]]"
 status: draft
 created: 2026-05-19
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Erfurth_2022_education-hubs"
@@ -78,9 +78,7 @@ citation_aliases:
 本章的独特视角在于：不研究高等教育的子议题（[[Student Mobility|学生流动]]、国际化策略等），而是将高等教育视为**被政治行动者改变的对象**——高等教育被嵌入更大的政治项目，成为追求地缘政治转型的工具(p.205)。
 
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 
 本章采用 [[Cultural Political Economy|文化政治经济学]](Sum & Jessop, 2013)作为概念框架。其核心主张是：文化（非物质-符号）维度与结构-物质维度应被同等分析，而非像传统政治经济学那样侧重后者(p.202)。
 
@@ -92,9 +90,7 @@ citation_aliases:
 两个维度在同一个枢纽项目中共存但可能产生摩擦，其间的张力是本章实证分析的核心线索(pp.205–211)。
 
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 
 - 研究设计：[[Comparative Case Study|比较案例研究]]（Comparative [[Case Study]], Bartlett & Vavrus, 2017），通过三个轴比较新加坡和阿联酋——水平轴（不同地点相似政策如何展开）、垂直轴（跨尺度关注）、横贯轴（历时追溯 1990–2018 年间现象的变迁）。本章重点使用横贯维度(p.202, 204)
 - 分析方法：**批判[[Discourse Analysis|话语分析]](Critical Discourse Analysis, Fairclough, 2003)**，结合文本分析与社会理论分析，考察教育枢纽如何被[[Discourse|话语]]性地生产、话语建构如何沉淀为社会结构(p.202)
@@ -194,9 +190,7 @@ citation_aliases:
 > "2020 年，阿联酋在地区排名第一、全球软实力指数排名第 18。这证明了国家持续致力于确保机遇、创新、发展和宽容的环境"(MoFAIC, 2020, cited in p.208)
 
 
-## 局限性与批评
-
-> [!warning|notitle]
+> [!warning] 局限性与批评
 
 **作者自述局限(pp.212–213)**
 - 仅聚焦新加坡和阿联酋两个案例，限制了规模和适用范围，无法对教育枢纽现象做出一般性假设

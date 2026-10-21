@@ -12,9 +12,9 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 28
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: supranational
 headquarters: "布鲁塞尔（比利时）"
@@ -41,8 +41,6 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Performance Indicators]]"
   - "[[Champ]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Governing by Numbers]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
 related_methods: []
@@ -53,22 +51,21 @@ related_facts:
   - "[[Bologna Process]]"
   - "[[Erasmus Programme]]"
   - "[[Lisbon Strategy]]"
-  - "[[Horizon Europe]]"
+  - "[[OECD]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Evidence Network]]"
+  - "[[Horizon Europe]]"
   - "[[EU Skills Agenda]]"
-  - "[[OECD]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # EU
@@ -171,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 核心关联说明 |
 > |:---|:---|:---|

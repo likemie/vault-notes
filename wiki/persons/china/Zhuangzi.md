@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Zhuangzi
 
@@ -41,14 +41,10 @@ updated: 2026-10-16
 > [!person-profile] 人物档案
 > - **身份位置** 庄子（约369-286 BCE），名周，战国时期道家思想家，与[[Mencius\|孟子]]同时代。其著作《庄子》以丰富的寓言和生动的故事阐发道家哲学思想，对后世东亚文化中的学习观和技艺观产生了深远影响([[Argument_Li_2012_Cambridge\|Li, 2012, p.134]])。
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > 庄子思想中最直接与学习过程相关的贡献，在于他通过"庖丁解牛"等寓言，阐发了通过长期专注的实践达到"[[Refined Mastery\|精通]]"（refined/perfected mastery, 精）的理念。这种精通不是机械的重复所能达到的，而是练习者与对象之间的深度融合——一种"以神遇而不以目视"的境界([[Argument_Li_2012_Cambridge\|Li, 2012, pp.134-135]])。
 
-## 庖丁解牛
-
-> [!example|notitle]
+> [!example] 庖丁解牛
 > 庄子讲述了一个关于"[[Refined Mastery\|精通]]"的经典寓言：
 
 魏惠王的厨师庖丁在解牛时，每一个手的动作、肩膀的倾斜、脚步的移动、膝盖的按压，都像舞者一样精准而有节奏。国王惊叹道："我从未想过解牛可以达到如此境界。"
@@ -59,9 +55,7 @@ updated: 2026-10-16
 
 ([[Argument_Li_2012_Cambridge|Li, 2012, pp.134-135]])
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 - 庖丁解牛的故事中"游刃有余"（the knife can surely find plenty of room）这一成语至今仍在日常中文中广泛使用，表达"以高超技艺轻松完成任务"之意([[Argument_Li_2012_Cambridge|Li, 2012, p.135]])。
 - 庄子通过这则寓言传达的核心理念——通过长期专注的实践可以达到超越技巧本身的"道"的境界——为东亚学习传统中"熟能生巧""精进不懈"的观念提供了哲学基础([[Argument_Li_2012_Cambridge|Li, 2012, pp.134-136]])。
 - 庄子所描绘的[[Refined Mastery|精通]]状态（与对象融为一体、不用感官而用精神去感知）与儒家以[[Learning Virtues|学习美德]]为导向的精通过程（如勤奋练习、反复温习以求新知）形成了互补，共同塑造了东亚对"精"（refined mastery）的文化理解([[Argument_Li_2012_Cambridge|Li, 2012, p.134]])。

@@ -153,7 +153,7 @@ updated: 2026-10-20
 > | [[UK Centre for Evidence-based Policy]]（[ukri.org/councils/esrc](https://www.ukri.org/councils/esrc/)） | 原属英国经济与社会研究理事会（Economic and Social Research Council，ESRC），ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI） | 推动循证政策研究与实践。ESRC 原有专门页面已下线，职能已整合至 UKRI 体系 |
 > | [[Evidence Network]]（[kcl.ac.uk/policy-institute](https://www.kcl.ac.uk/policy-institute)） | 原属伦敦国王学院 | 原为证据网络的建立与推广。网址已废弃，国王学院现由政策研究所（Policy Institute）承担类似职能 |
 > | [[What Works Clearinghouse]]（[ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc/)） | 美国教育部教育科学研究所（Institute of Education Sciences，IES），附带[[Recommendations for Practice\|实践建议]]报告 | 教育干预证据的系统性审查与评级。2025 年 2 月因联邦合同取消而停止新审阅，网站可能保留为存档 |
-> | [[Research Informed Practice Site]]（[gov.uk/dfe](https://www.gov.uk/government/organisations/department-for-education)） | 原属英国儿童、学校与家庭部（Department for Children, Schools and Families，DCSF），DCSF 于 2010 年改组为教育部（Department for Education，DfE） | 提供研究主题与证据资源。原网址已废弃，相关职能并入英国教育部 GOV.UK 体系
+> | [[Research Informed Practice Site]]（[gov.uk/dfe](https://www.gov.uk/government/organisations/department-for-education)） | 原属英国儿童、学校与家庭部（Department for Children, Schools and Families，DCSF），DCSF 于 2010 年改组为教育部（Department for Education，DfE） | 提供研究主题与证据资源。原网址已废弃，相关职能并入英国教育部 GOV.UK 体系 |
 
 以上七个机构构成了本教材第七版出版时（2011 年）循证教育制度基础设施的核心。此后二十余年间，该领域扩展至更多国家和机构类型，详见 [[Evidence-Based Education Institutions]]。对 EBE 的系统性批判见 [[Critique of Evidence-Based Education]]。
 

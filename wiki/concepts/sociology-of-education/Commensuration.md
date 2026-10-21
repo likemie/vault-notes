@@ -9,10 +9,10 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 36
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -35,8 +35,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Discourse]]"
-  - "[[Operationalization]]"
-  - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
   - "[[Goodhart's Law]]"
@@ -45,14 +43,13 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Student-Teacher Relationship]]"
 related_methods:
-  - "[[Item Response Theory]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 related_persons:
   - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
@@ -63,12 +60,11 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
 related_theories:
-  - "[[Human Capital Theory]]"
   - "[[Phenomenology]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Commensuration
@@ -100,8 +96,6 @@ updated: 2026-10-21
 > - 不等于 一般性数据统计：一般统计仅呈现数值分布；通约特指将质性差异消除并建立等价交换或排序关系的权力化过程。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析
 > | 维度 | 通约（Commensuration） | 测量的履行性（[[Performativity of Measurement]]） | 评估与赋值社会学（[[Sociology of Valuation and Evaluation]]） |
@@ -182,9 +176,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1998 — 数量通约与统计等值理论奠基** Espeland and Stevens（1998）提出通约概念，阐明将不同质态折算为量化指标的社会过程；[[Alain Desrosières|Desrosières]]（1998）在《大数的政治》中阐释大规模统计如何建立等值空间。
 > - **2006–2009 — 跨国教育治理与大规模评估应用** Lawn（2006）、[[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 与 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] 将通约理论引入国际大规模评估研究，揭示 [[PISA]] 如何通过数量通约在欧洲与全球制造可比等值空间。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2019 — 数字化监测与次国家治理微观机制深化** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 通过美德州级教育数据监测系统实证，深入剖析脱域化公分母、统计同伴组与微观做数据博弈。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3–7)]]
@@ -240,8 +232,6 @@ updated: 2026-10-21
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 4–8)]] | 德国汉堡市（社会指数）与美国马萨诸塞州（RADAR/DART）学校监测 | 跨国比较案例研究与半结构化专家访谈（16 场 / 20 位官员） | 算法通约匹配机制；统计同伴组对标行为 | 汉堡将生源失业与贫困折算为 1–6 级社会指数；马萨诸塞州算法自动匹配全州特征最相似的 10 所统计双胞胎学校 | — | 实证揭示次国家治理中通约机制如何建立形式公平对标并诱发基层博弈 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较德美州级学校数据监测，揭示通约机制如何通过统计同伴组制造公平比较表象并诱发微观指标博弈。

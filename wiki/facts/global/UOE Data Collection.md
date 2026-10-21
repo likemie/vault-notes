@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,14 +26,10 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[Data Infrastructure]]"
-  - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
-  - "[[Commensuration]]"
-  - "[[Space of Equivalence]]"
-  - "[[European Education Space]]"
+  - "[[Performance Indicators]]"
 related_theories: []
-related_methods:
-  - "[[Secondary Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Sotiria Grek]]"
@@ -41,16 +37,16 @@ related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[EU]]"
-  - "[[Eurydice]]"
   - "[[Lisbon Strategy]]"
-  - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[Eurydice]]"
+  - "[[International Indicators of Education Systems]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # UOE Data Collection
@@ -137,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

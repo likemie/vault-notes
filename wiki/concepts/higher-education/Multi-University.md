@@ -31,7 +31,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Multi-University
@@ -56,9 +56,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Multi-university 的运转依赖于以下相互关联的要素：
 
 - **三重使命** 研究（知识创造）、教学（人才培养）和公共服务（社会贡献），三者互为支撑而非独立运作（p.5）
@@ -67,17 +65,13 @@ updated: 2026-10-16
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[Triple Helix]] — 多元大学是 Triple Helix 中"大学"一方的制度形态；现代[[Research Universities|研究型大学]]不仅从事教学和研究，还通过[[Technology Transfer\|技术转移]]、初创企业孵化和区域经济发展承担部分产业和政府角色（p.13）
 > - [[Innovation Ecosystem]] — 多元大学是区域创新生态系统的关键"锚点"；斯坦福大学之于硅谷、MIT 之于波士顿，正是多元大学作为创新锚点的典型案例（pp.12–13）
 
 ---
 
-## 与产学合作的关系
-
-> [!abstract|notitle]
+> [!abstract] 与产学合作的关系
 > Boccanfuso and Hall（2025）将 Multi-university 概念用于分析[[University-Industry Collaboration\|产学合作]]的框架中：多元大学的三大核心使命恰好对应产学合作的三重回报。产学合作可以通过赞助研究、技术许可收入、服务报酬、捐赠和企业会员资格等方式为大学提供财务支持，但这不应成为合作的主要驱动力（p.5）。详见 [[University-Industry Collaboration]]。
 
 ---

@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # De-Westernisation
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | De-Westernisation (去西方化) | [[Re-Westernisation\|Re-Westernisation (再西方化)]] |
 > |------|--------|----------------|
 > | **地缘代表主体** | 以中国等新兴非西方国家为代表。 | 以美国与西欧发达国家为核心。 |
@@ -112,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2011 — 殖民矩阵的双重道路划分** [[Walter Mignolo]] 在 *The Darker Side of Western Modernity* 中明确界定了去西方化（de-colonial path 的分化形态）与西方[[Re-Westernisation\|再西方化]]的地缘对抗关系，指出两者核心在于争夺控制权。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 > - **2023 — 比较教育[[Discourse|话语]]的去西方化解构** Klerides 追溯冷战后的[[Revolutionism\|革命主义]]演进，指出中国的崛起以及学会中对去殖民性、南南对话讨论的增加，将“去西方化”推至比较教育研究的前沿焦点。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
 > - **2025 — [[Geopolitics|地缘政治]]向空间能动者转型** 余婧然、谢爱磊指出，随着大国博弈在 2016 年后进入自觉研究，去西方化要求高等教育作为空间实践者，在技术民族主义与人才安全化变局下，主动重构跨国流动与地缘空间版图。([[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊, 2025, pp. 5–6]])
@@ -132,8 +128,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 从去殖民矩阵角度深刻辨析了美国“[[Re-Westernisation\|再西方化]]”与中国“去西方化”的[[Geopolitics|地缘政治]]冲突与共存特征。
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊, 2025]] — 分析了[[Geopolitics of Higher Education\|高等教育地缘政治]]从非自觉到自觉的阶段，讨论了当前大国竞争和技术民族主义下非西方国家的空间实践。

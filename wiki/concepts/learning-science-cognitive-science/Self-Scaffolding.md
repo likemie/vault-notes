@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Self-Scaffolding
@@ -114,7 +114,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用自我[[Scaffolding\|脚手架]]理论量化解释高等教育阶段学生在外在可视化教学干预下[[Effect Size\|效应量]]低于中学生的发展机制。

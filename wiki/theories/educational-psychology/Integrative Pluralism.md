@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Integrative Pluralism
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -123,17 +121,13 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 跨越微观与宏观的复杂社会-认知现象（如课堂学习、科学共同体的[[Knowledge Production\|知识生产]]、公众对[[Socioscientific Issues\|社会科学议题]]的信任危机）。
 > - **常见误用** 极易被新手误读为“折中主义（Eclecticism）”或“相对主义”。整合[[Pluralism|多元主义]]要求严格的因果链条论证，而不是在论文的讨论部分把所有理论堆砌在一起说“都有道理”。
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **2003 — 生物学复杂系统的起源** 哲学家 Sandra Mitchell 在《Biological Complexity and Integrative [[Pluralism]]》一书中首次提出，用于解决生物学中由于系统复杂性导致的多重局部模型冲突问题。
 > - **2015 — 引入学习科学** 学习科学先驱 James Greeno 在回顾领域发展时，呼吁借用此视角来解决教育学内部认知派与情境派的长期分裂。
 > - **2016 — [[Epistemic Cognition\|认识论认知]]领域的[[Paradigm\|范式]]奠基** [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] 正式将该理论引入认识论认知研究，将其作为终结该领域“方法论危机”和“发展轨迹合法性危机”的唯一出路。
@@ -152,7 +146,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统性回顾了[[Epistemic Cognition\|认识论认知]]的四大断层，正式倡导整合的[[Pluralism|多元主义]]，指出必须同时考察个体、互动与活动系统三个层级。

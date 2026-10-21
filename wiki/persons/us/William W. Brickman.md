@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # William W. Brickman
@@ -77,9 +77,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1913** 出生于美国纽约市，后在纽约市立学院获得文学学士（1934）与理学硕士（1935）。
 > - **1938** 在纽约大学获得教育学博士学位，专攻教育哲学与教育史。
 > - **1940–1962** 任教于纽约大学教育学院，讲授教育史与比较教育学，期间[[Refined Mastery|精通]]德语、法语、俄语、拉丁语等多种语言，奠定扎实文献学功底。
@@ -113,9 +111,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **建制化路径** 创立美国比较教育学会（[[Comparative and International Education Society|CIES]]）并奠定创刊《比较教育评论》（CER）的专业编辑标准，将分散于各大学的跨文化研究者聚拢为具备自主建制的学科共同体。
 > - **史料学路径** 打破战后教育学界盲目崇拜调查[[Questionnaire|问卷]]与统计表格的量化教条，确立多语种一手档案考据（Primary Documents）在跨国比较中的第一性地位。
 > - **历史主义学派传承** 与[[Immanuel Kant|康德]]尔、卡扎米亚斯等人共同构建起北美比较教育学的历史学阵营，为后续抵御新自由主义标准化与[[Positivism|实证主义]]指标垄断提供了深厚的思想防线。
@@ -131,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** 斯图尔特·E·弗雷泽（Stewart E. Fraser） — 长期合编跨国比较教育原始史料汇编，重构学科前现代思想谱系。
 > - **历史主义同行** [[Isaac Kandel]]、[[Robert Ulich]]、[[Andreas Kazamias]]、[[Claude A. Eggertsen]] — 共同构成战后反对激进[[Positivism|实证主义]]的比较教育历史学派支柱。
 > - **[[Scientific Paradigm|科学范式]]论争方** [[C. Arnold Anderson]]、[[Harold Noah]]、[[Max Eckstein]] — 虽身处不同方法论阵营，但在学会平台共创学科专业建制。
@@ -141,9 +135,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|

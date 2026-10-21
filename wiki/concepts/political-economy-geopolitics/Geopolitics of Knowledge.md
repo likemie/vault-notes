@@ -115,7 +115,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Geopolitics of Knowledge
@@ -151,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!timeline|notitle] 概念演变
+> [!timeline] 概念演变
 > - **1980s–1990s** 人文地理学空间转向：[[Doreen Massey]]、Harvey 等人将空间理解从领土性转向关系性；拉丁美洲去殖民思想兴起（Mignolo, Dussel），形成[[Critical Geopolitics\|批判地缘政治学]]与去殖民传统两条平行脉络
 > - **1990s** "[[Geopolitics|geopolitics]] of knowledge"[[Discourse|话语]]出现（Partaken 的 Ngram 分析）；两条脉络分别追问：谁建构地缘政治秩序（批判地缘政治学）vs 谁的知识被认定为知识（去殖民传统）
 > - **2000s–2010s** GPK 话语快速强化；空间转向深化，地缘政治分析从领土性转向关系性、网络化视角（Thompson & Parreira do Amaral, 2022, p.10）
@@ -282,9 +280,7 @@ updated: 2026-10-21
 
 ### 空间-竞争层：结构性机制
 
-#### 知识经济化与空间竞争
-
-> [!finding-cards|notitle]
+> [!finding-cards] 知识经济化与空间竞争
 > 1. **[[Knowledge-Based Economization\|知识经济化]]与城市空间竞争** 大型城市日益体现[[Competitiveness|国家竞争力]]，国家将资源转向首都和城市基础设施。[[Economic Patriotism\|经济爱国主义]]将特定领土的利益推进作为核心策略（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]]）
 > 2. **[[Spatial Sortings\|空间分选]]的系统性效应** 增长潜力集中在[[Knowledge-Based Economy\|知识经济]]城市枢纽，枢纽之外地区经历相对衰退。关键[[Research Problem\|研究议题]]：包容与排斥机制、被排斥人群的后果、国家的中介角色（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]]）
 > 3. **[[Global Regionalisms\|全球区域主义]]中教育角色转变** 从"国际组织如何影响教育"到"教育项目如何参与想象和建构世界区域本身"的[[Epistemology\|认识论]]转向（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.41]]）

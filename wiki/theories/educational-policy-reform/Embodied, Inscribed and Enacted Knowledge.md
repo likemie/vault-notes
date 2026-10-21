@@ -17,10 +17,10 @@ aliases:
 summary: "弗里曼与斯特迪提出的政策工作知识形态理论，将知识区分为依附人体并随人移动的具身知识、固化于文本工具与规程的文本化知识，以及在具体行动中生成且随行动结束而消失的践行知识，用以解释知识如何在政策与组织工作中被携带、固化、使用和转化。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 13
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 8
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/knowledge
   - theme/policy-process
@@ -32,11 +32,6 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Procedural Knowledge]]"
   - "[[Communities of Practice]]"
-  - "[[School Inspection]]"
-  - "[[Socioscientific Issues]]"
-  - "[[Scientific Method]]"
-  - "[[Unit of Analysis]]"
-  - "[[Research Utilization]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -50,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Embodied, Inscribed and Enacted Knowledge
@@ -92,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -156,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 知识密集型公共治理机构（如教育督导局、卫生医疗评审机构、科研管理部委）的规程设计、实地评估与报告生成全过程。
 > - **成立条件** 需要获取微观层面的会议过程材料、多轮文本修改稿以及核心当事人的深度反思访谈。
 > - **解释不足** 该框架侧重描述知识形态在时空中的流动与变形，本身并不解释为何某种特定学术流派（如成功学校研究）在内容上被优先选中；需要结合政策议程设置与政治权力理论补充解释。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 652)]]
@@ -196,7 +187,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，运用三种知识形态理论全程追踪常规督导与质量审计，揭示教育研究如何从口头协商转化为法定规程与终审报告，阐明证据本位治理对具身经验与践行斡旋的深层依赖（pp. 642–657）。

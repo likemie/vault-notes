@@ -37,9 +37,9 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
   - "[[General Education]]"
-  - "[[Variable]]"
   - "[[Evidence Standards]]"
   - "[[Construct]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -57,13 +57,13 @@ related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
-  - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Darwish_2009_Queens]]"
+  - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Areas of Knowledge
@@ -100,9 +100,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **领域生产规范差异（Domain-Specific Production Norms）** 知识生产规范在各学科传统中存在本质分化，各领域依据其独特对象分别确立经验观察、逻辑演绎、历史诠释或审美表达的合法性标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36–39)]]
 > - **跨领域比较框架（Shared Epistemic Framework）** 规定范围、概念、方法、历史及与个人知识互动五个共同反思维度，使跨学科审视围绕一致的认识论问题展开。
 > - **认知者中心互动（Knower-Centered Interaction）** 认知者处于知识领域与认知方式的交汇枢纽，在反思学科知识来源与可靠性的过程中实现个人信念向评价论的演化。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 12–17)]]
@@ -338,9 +336,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Epistemology\|认识论]]演进的[[Domain Specificity\|领域特异性]]** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 横跨品味、审美、价值观、事实等领域，实证了个体的认识论阶段具有强烈的领域非同步性特征。
 > - **跨领域伦理议题** [[Argument_Darwish_2009_Queens\|Darwish (2009)]] 记录的 [[Theory of Knowledge\|TOK]] 课堂围绕堕胎、死刑与种族歧视展开讨论，引导学生比较不同领域的证据逻辑并识别道德判断中的文化偏见。
 > - **规定题目论述的领域比较** [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 分析跨学科论述如何调用 AOK 发展[[Knowledge Questions\|知识问题]]，同时指出领域连接只代表部分[[Critical Thinking\|批判性思维]]表现。

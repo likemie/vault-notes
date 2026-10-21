@@ -21,7 +21,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Social Episodes
 
@@ -76,7 +76,5 @@ updated: 2026-10-21
 > [!warning] 概念局限
 > 社会片段概念本身存在模糊性——缺乏可接受的分类法来基于经验可量化的特征对互动序列进行分类（p.458）。若干研究尝试使用因子分析、连接分析、多维标度和[[Cluster Analysis\|聚类分析]]等量化手段来解决这一问题，但尚未形成共识（Magnusson, 1971; Forgas, 1976, 1978）。
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章以社会片段为人因方法的基本[[Unit of Analysis\|分析单位]]，系统阐述[[Account Gathering\|陈述收集]]与分析程序，并通过Heath（1982）的Trackton社区研究展示如何在社会片段层面分析课堂沟通。

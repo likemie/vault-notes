@@ -86,7 +86,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kelly_2025_ROE"
@@ -333,9 +333,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文作者明确指出的研究局限包括：（1）本研究为小规模、探索性质性比较研究，每国仅[[In-depth Interview\|深度访谈]] 3 位[[School Leadership\|学校领导]]者，其经验叙述仅代表特定视角的经验切片，不能简单推论代表全体校长群体的普遍态度；（2）德国样本全部来自汉堡单个联邦州，未考察德国其他联邦州在教育监测与中介支持上的潜在区域[[Heterogeneity\|异质性]]；（3）研究仅聚焦于校长与高级管理层的经验感知，未能直接检验其观点是否与校内中层领导及一线任课教师的真实体验相吻合。（pp. 23–24）
 
 ---

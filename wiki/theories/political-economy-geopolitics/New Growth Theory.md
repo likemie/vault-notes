@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # New Growth Theory
@@ -98,9 +98,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -149,9 +147,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 解释工业化国家在面临传统制造业外流时，如何通过升级高科技研发、知识密集型服务业与高等教育扩招来重塑[[National Competitive Advantage|国家竞争优势]]。
 > - **成立条件** 依赖于健全的知识产权保护、高效的风险资本市场、灵活的劳动力制度以及高水平的基础科学教育底座。
 > - **解释不足** 忽视了知识过度商品化对[[Academic Freedom|学术自由]]与基础理论研究的挤压；对全球数字知识垄断与知识帝国主义剥夺发展中国家的机制缺乏批判自省。
@@ -178,7 +174,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–446)]] — 分析[[OECD|经合组织]]如何借用内生新增长理论重塑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]，推动教育目的向操作技能全面转移。

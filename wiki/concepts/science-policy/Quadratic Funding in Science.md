@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Quadratic Funding in Science
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 二次方配比资助（Quadratic Funding） | 传统同行评审拨款（Traditional Peer Review） | 纯民间科学众筹（Pure Scientific Crowdfunding） |
 > |---|---|---|---|
 > | **决策权分配** | 分散化：由大量社群成员的独立微额资助综合决定 | 集中化：由 3–5 名指定同行专家打分共识决定 | 完全去中心化：仅由公众个体散户自愿出资决定 |
@@ -116,9 +114,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2018 — 二次方融资数学模型提出** 格伦·韦尔（Glen Weyl）、维塔利克·布特林（Vitalik Buterin）与佐伊·希茨格（Zoë Hitzig）提出 Liberal Radicalism 理论框架。
 > - **2019–2024 — 开源软件与去中心化科学（DeSci）试验** Gitcoin 与多个去中心化科学平台将 QF 用于资助数千个公共开源基础设施。
 > - **2026 — 进入联邦国家科学政策与预算备忘录** 《科学：新黄金时代》正式将二次方资助纳入联邦资助机构多元选拔与机制设计试验序列。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 30, 87)]]
@@ -133,7 +129,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将二次方资助纳入美国联邦 2028 财年研发预算优先事项与[[Metascience|元科学]]试点机制。

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Model-Evidence-Link Matrix
@@ -112,8 +112,6 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合情境** 涉及高度争论、存在多重解释的社会性科学议题（如气候变化成因、恐龙灭绝假说、流行病基因易感性）。
 > - **局限性** 若学生缺乏对证据生成背后"可靠认识过程"（如抽样偏差、[[Blinding\|盲法]]控制）的深入理解，MEL 矩阵可能会退化为纯形式上的连线游戏，无法自发阻断误判。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 212, 221–222)]]

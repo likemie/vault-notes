@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Evaluator Independence
@@ -201,9 +201,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970–1990 年代 — 开发者自研自评主导期** 早期教育干预评估主要由课程发明人及其团队自行开展，自编测验盛行，[[Effect Size\|效应量]]普遍高达 $d = 0.80 \sim 1.50$，但外部推广时频现复现失败。
 > - **2002 年 — [[Education Sciences Reform Act 2002|ESRA]] 立法与美国 [[Institute of Education Sciences\|IES]] 设立** 美国通过《教育科学改革法》（ESRA），设立教育科学研究院（IES），在法律上首次提出独立评估要求，但执行中允许受资助者自主选聘评估方。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 > - **2009–2011 年 — i3 计划与英国 [[Education Endowment Foundation\|EEF]] 三方协议制度创新** 联邦 i3 计划投入 14 亿美元强制要求独立评估；英国 EEF 创立“专家库竞标 + 三方独立资助协议”模式，将评估独立性推向制度化巅峰。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
@@ -259,9 +257,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念与方法网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念与方法网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
@@ -276,9 +272,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 系统比对全球 10 家循证清算中心对独立评估者的准入规约，实证分析开发者自评导致的[[Effect Size\|效应量]]夸大现象。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 剖析英国 [[Education Endowment Foundation\|EEF]] 评估者专家库、三方资助协议及 NPD 国家客观统考直接对接的制度化独立评估模式。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 探讨课程研发者在循证评级体系中的角色定位，以及大规模第三方独立评估与外部复制对破除[[Replication in Education Research\|复现危机]]的决定性意义。

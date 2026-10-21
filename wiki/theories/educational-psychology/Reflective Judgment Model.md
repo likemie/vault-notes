@@ -48,7 +48,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reflective Judgment Model
@@ -156,9 +156,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 在十年级科学课劣构辩护任务中应用 King and Kitchener (1994) 模型建立 5 分制 RJ 评分量规，实证证实了[[Simplicity of Knowledge\|简单知识]]（SK）信念对[[Reflexivity\|反思性]]判断得分的显著负向预测效应（$\beta = -.24, p = .02$）。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 全面梳理并评述了 King & Kitchener 的反思性判断模型，剖析了其从 Perry 图式演化而来的理论脉络、三阶段七时期架构及其在[[Epistemic Cognition\|认识论认知]]研究中的基石地位。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预[[Meta-analysis\|元分析]]，检验了反思性判断相关[[Construct\|构念]]在课堂教学中的可干预性，证实显性教学干预能因果打破前反思停滞，并揭示了初高中学段显著优于大学学段的干预红利（$Q_b = 6.273, p < .05$）。

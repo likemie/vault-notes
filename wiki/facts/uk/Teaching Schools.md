@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Teaching Schools
@@ -146,9 +146,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Self-Improving School System]] | 概念 | 教学学校是该治理取向中承担专业发展与研究发展的核心组织形式。 |

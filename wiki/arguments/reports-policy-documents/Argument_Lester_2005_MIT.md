@@ -48,7 +48,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_Lester_2005_MIT
 
@@ -191,9 +191,8 @@ Lester 指出，这些间接贡献往往比直接的专利许可和创业孵化�
 > 4. **大学的公共空间角色被忽视** 作为中性对话场所的功能对于本地[[Systems of Innovation\|创新系统]]的健康运作至关重要
 
 ---
-## 自述局限
 
-> [!warning|notitle]
+> [!warning] 自述局限
 > 研究属于探索性的多案例比较研究，22 个案例虽然覆盖了广泛的产业和国家情境，但每个案例都是独特的。匹配案例对比增强了发现的[[External Validity\|可推广性]]，但仍然无法替代大规模定量验证。此外，研究聚焦于本地[[Systems of Innovation\|创新系统]]中的大学角色，对其他关键行动者（政府、风投、大企业）的分析相对有限。
 
 ---

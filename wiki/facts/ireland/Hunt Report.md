@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hunt Report
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 成为欧洲高等教育区中通过综合战略议程（Comprehensive Agenda）实现全系统质量升级的典范政策。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
 > - **实践影响** 推动全爱尔兰高校设立教学卓越中心（CTL），全面推行学生作为学习伙伴（Students as Partners）的教改实践。
 > - **知识影响** 为国际高教政策研究提供了“国家战略导向、中介机构资助与高校自律契约”三位一体的经典治理案例。

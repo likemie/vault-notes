@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Policy Ambiguity
@@ -167,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1972 — 组织决策的垃圾桶模型** 科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）提出组织歧义性概念，指出大学等组织具有目标含混、技术不清晰与参与流动三大特征。
 > - **1989 — 《无序的秩序》确立政策歧义性分析** 费尔德曼（Martha Feldman, 1989）系统界定歧义性为“对同一情境存在多种并存思考方式”，论证信息生产在政策制定中的符号化机制。
 > - **2003–2017 — [[Multiple Streams Framework\|多源流分析框架]]的深化** 扎哈里亚迪斯（Nikolaos Zahariadis）将决策歧义性确立为多源流理论的[[Epistemology\|认识论]]基石，强调政策过程的本质是操纵与管理歧义性。
@@ -212,7 +210,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在教育治理 2.0 框架下系统阐述政策歧义性，揭示信息过载时代国际组织如何将数字作为[[Façade of Rationality\|理性表象]]的[[Scaffolding\|脚手架]]，为决策者提供政治叙事空间。

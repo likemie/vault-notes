@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Perpetual Peace
@@ -198,9 +198,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1795 — [[Immanuel Kant|康德]]确立先验哲学法权框架** 发表《论永久和平》，系统确立以共和宪政为预设、以自由国家联盟为组织、以世界公民普遍款待权为纽带的三大先决条件。
 > - **1817–1833 — 朱利安开创比较教育实践化进路** 朱利安将康德启蒙理性与世界和平追求转化为具体的教育操作工程：提出常设特别教育委员会与比较观察表，创办《[[Revue encyclopédique|百科评论]]》，加入伦敦和平之友协会，呼吁以“比较文明学”推进世界永久和平。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 22–24)]]
 > - **1925–1945 — 两次世界大战创伤与国际组织实体化** 国际联盟日内瓦[[International Education|国际教育]]局（IBE, 1925）与[[UNESCO|联合国教科文组织]]（UNESCO, 1945）相继诞生；《联合国教科文组织宪章》庄严宣告“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”，使朱利安与康德的永久和平蓝图正式转化为战后国际教育治理的实体架构。
@@ -231,9 +229,7 @@ updated: 2026-10-21
 
 ---
 
-## 领域应用
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
@@ -250,9 +246,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统考证朱利安如何深受[[Immanuel Kant|康德]]启蒙自主性与[[Jean-Jacques Rousseau|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory|怀特国际理论三大传统]]，揭示康德式[[Revolutionism|革命主义]]传统的[[Cosmopolitanism|世界主义]]道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 深刻解构西方社会对永久和平自然降临的自由主义幻觉，批判同盟体系单方面去武力化引发的地缘脆弱性，确立以软件[[Hard Power|硬实力]]与 AI 威慑捍卫[[Long Peace|长和平]]的现实主义秩序。

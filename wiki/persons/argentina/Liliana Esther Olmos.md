@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Liliana Esther Olmos
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1980s–1990s** 在阿根廷及拉美从事成人教育、识字运动与教育社会学研究，亲历拉美威权军政府向代议民主制转型及债务危机背景下的结构调整。
 > - **2000s–至今** 任职于加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院，与托雷斯等学者密切合作，主攻全球化政治经济学、国家理论与第三世界教育政策批判。
 
@@ -113,18 +111,14 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **长期合作者** [[Carlos Alberto Torres]] — 共同撰写多篇关于国家理论、全球化与拉美教育政治经济学的奠基性文献。
 > - **理论传统** [[Paulo Freire]]、Antonio Gramsci、Karl Marx — 汲取[[Critical Pedagogy|批判教育学]]与[[Praxis|实践哲学]]思想养分。
 > - **[[Analytic Framework|分析框架]]** [[Conditioned State Theory]]、[[Compensatory Legitimation]]、[[Financial-Intellectual Complex]]。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

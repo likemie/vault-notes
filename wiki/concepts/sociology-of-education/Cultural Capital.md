@@ -65,7 +65,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cultural Capital
@@ -207,9 +207,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970 — 《再生产》再生产机制描述** Bourdieu & Passeron 首次在教育系统再生产分析中提出文化资本雏形，论证学校如何将优势阶层的文化资源包装为个人天赋。[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023, Ch. 2)]]
 > - **1979 — 《区隔》品味与生活方式拓展** 借助法国社会大规模经验调查，将文化资本概念拓展至审美品味、艺术消费与生活方式领域，确立其作为阶级区隔的工具性质。
 > - **1986 — 《资本的三种形态》独立理论建构** Bourdieu 独立发表理论文章，正式确立文化资本的三种存在形态（具身化、客体化、制度化），奠定了其在社会学中的[[Operationalization|操作化]]基础。
@@ -258,9 +256,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 将具身化文化资本[[Operationalization\|操作化]]为对大学[[Champ\|场域]]隐性出路规则的掌握，解释了寒门学子和中产家庭学生在升学与求职中的直觉分化。
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 发现中国县域城镇化[[School Choice\|择校]]中由于入学程序简化，文化资本在执行中被边缘化，无法独立完成学位准入，必须向社会资本退让。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 大规模纵向[[Cohort Study\|面板研究]]，证实家庭文化资本（藏书量）不仅直接促进高中毕业成就（$\beta = 0.16$），更通过降低确定性信念（$\beta = -0.13$）间接赋能高阶[[Academic Achievement\|学业表现]]。

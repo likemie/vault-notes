@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Bob Darwish
@@ -54,9 +54,7 @@ updated: 2026-10-21
 
 ---
 
-## 主要著作
-
-> [!work-line|notitle] 主要著作
+> [!work-line] 主要著作
 > - **2009 — *Education as a Political Act: Dewey, Freire and the ([[International Baccalaureate]]) [[Theory of Knowledge]] Curriculum*** 结合[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]思想提出[[Active Learning\|主动学习]]模型，审查 IB TOK 课程中的实践缺失 [[Argument_Darwish_2009_Queens\|(Darwish, 2009)]]。
 
 ---

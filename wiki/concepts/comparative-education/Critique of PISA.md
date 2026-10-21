@@ -316,9 +316,7 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统梳理二十年对 PISA 的学术批判，从教育观、实施与解释维度解构其商业营销与威权美化本质。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 从批判政策社会学视角解构经合组织如何运用 PISA 制造全球等值空间与推行远处掌舵。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 从比较教育学科史视角批判大规模跨国测验对航海隐喻与历史文化诠释传统的瓦解。
@@ -328,9 +326,7 @@ updated: 2026-10-22
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[PISA]] | Fact | 批判所针对的核心客体与跨国评估制度原型。 |

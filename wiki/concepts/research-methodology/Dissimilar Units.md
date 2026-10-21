@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Dissimilar Units
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 非同质单位困境 | [[Unit of Analysis\|分析单位]] | [[Variable\|研究变量]] |
 > |---|---|---|---|
 > | **性质属性** | [[Epistemology\|认识论]]与方法论根本限制 | 研究设计操作层级 | 经验测度与统计指标 |
@@ -142,9 +140,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1976 — [[Neil Smelser|斯梅尔塞]]比较社会[[Scientific Method|科学方法]]论奠基** 斯梅尔塞在《社会科学中的比较方法》（*Comparative Methods in the Social Sciences*）中系统提出非同质单位命题，界定社会学比较的核心[[Epistemology|认识论]]困境。
 > - **1990年代 — 跨国教育[[Unit of Analysis|分析单位]]层级化** 托马斯（R. Murray Thomas, 1998）等学者将该命题系统引入教育学，界定国家教育系统作为分析单位时的多层次结构。
 > - **2009 — 学科历史反思中的认识论平反** 拉斯特等人在《国际比较教育手册》中重申非同质单位分析的核心地位，以此论证 19 世纪人文历史学派深度情境考察的学术正当性，批判战后去情境化[[Positivism|实证主义]]的虚妄。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
@@ -162,7 +158,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 借由[[Neil Smelser|斯梅尔塞]]关于非同质单位的经典论述，论证比较教育学无法开展实验室控制干预的根本规定性，捍卫自然情境研究与质性脉络化进路的合法地位。

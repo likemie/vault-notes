@@ -48,12 +48,10 @@ related_instruments: []
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 空间分选（Spatial Sortings）是 [[Sami Moisio]]（2022）在分析[[Knowledge-Based Economization\|知识经济化]]的极化效应时使用的概念，指知识密集型资本主义系统性地将地点和人口划分为**赢家**与**输家**的过程：某些地点和人口被置于发展和资本积累的中心，而其他地点和人口被边缘化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.30–31]])。
 
 Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些地点和人口置于发展和资本积累的中心，同时将其他地点和人口边缘化——这不是市场的自然结果，而是由公共和私人投资驱动、国家中介的结构性过程([[Argument_Moisio_2022_Springer|Moisio, 2022, p.30]])。
@@ -62,9 +60,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - **vs 区域不平等 (Regional Inequality)** 区域不平等是描述性概念，指地区间经济指标的差异；空间分选是过程性概念，关注产生和维持这种不平等的机制——特别是政策和投资如何分选空间。
 > - **vs [[Fixity-Motion Tension]]** Harvey 的固着-流动张力解释为什么资本主义不断创造和摧毁空间配置；空间分选描述这一过程的具体结果——谁被包含、谁被排斥。
 > - **vs 绅士化 (Gentrification)** 绅士化关注城市内部社区层面的空间置换；空间分选关注更宏观的尺度——城市群与农村地区之间、大型枢纽城市与较小城市群之间的分化。
@@ -108,9 +104,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-## 理论语境
-
-> [!tip|notitle]
+> [!tip] 理论语境
 > - Sassen (2010) 的**驱逐（expulsion）** 概念——
 > 
 > > "the core organizing logic of the POST-Keynesian world is not to VALUE people as workers and consumers, but to expel people and to destroy traditional capitalism to feed high finance and high tech" (cited in Moisio, 2022, p. 31)
@@ -188,9 +182,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-## 相关概念
-
-> [!example|notitle]
+> [!example] 相关概念
 > - [[Hub and Flow Imaginaries]] — Hub and [[Flow]] 想象是驱动空间分选的认知框架：将世界划分为枢纽和边缘，为空间分选提供合法性。
 > - [[Fixity-Motion Tension]] — 空间分选是固着-流动张力的具体空间表现：被固着投资的枢纽成为赢家，资本流动放弃的地区成为输家。
 > - [[Geopolitical Subject]] — 空间分选的主体维度：地缘政治主体的形塑过程决定了谁成为全球竞争的赢家、谁被排斥为输家。

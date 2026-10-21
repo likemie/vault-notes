@@ -9,10 +9,10 @@ summary: "美国哲学家与组织学习学者，反思性实践理论奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 39
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1930"
 died: "1997"
 lifespan: "1930–1997"
@@ -59,7 +59,6 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
-  - "[[Donald A. Schön]]"
   - "[[John Dewey]]"
   - "[[John Hattie]]"
   - "[[Klaus Nielsen]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Donald A. Schön
@@ -98,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1930** 出生于美国马萨诸塞州波士顿，先后就读于耶鲁大学（哲学学士，1951）与哈佛大学（哲学硕士与博士，1955），博士论文师从[[Pragmatic Paradigm|实用主义]]哲学家研究[[John Dewey|杜威]]的探究理论。
 > - **1950s–1960s** 在理特管理咨询公司（Arthur D. Little）任职，并担任美国商务部国家发明与创新委员会顾问，深入观察工业研发、组织创新与公共政策制定的现实过程。
 > - **1972** 出任麻省理工学院（MIT）城市研究与规划系福特讲席教授，直至 1997 年逝世；期间长期主持组织学习与专业实践研究。
@@ -163,9 +160,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想前驱／哲学源流** [[John Dewey|约翰·杜威]] — 舍恩的博士论文即研究杜威的探究理论，继承其反思思维与[[Learning by Doing|从做中学]]理念。
 > - **终身学术合作者** 克里斯·阿吉里斯（Chris Argyris） — 共同开创组织学习、双环学习与行动科学领域。
 > - **理论对话与并置者** [[Herbert A. Simon|赫伯特·西蒙]] — 西蒙从认知与决策科学提出[[Bounded Rationality|有限理性]]，舍恩从情境与[[Epistemology|认识论]]批判[[Technical Rationality|技术理性]]，二者被现代教育学者整合用于解释[[Professional Judgment|专业判断]]。
@@ -174,9 +169,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

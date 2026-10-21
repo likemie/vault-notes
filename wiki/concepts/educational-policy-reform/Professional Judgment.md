@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 93
+related_count: 94
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -92,11 +92,11 @@ related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Common Core State Standards]]"
   - "[[American Federation of Teachers]]"
+  - "[[Swedish Schools Inspectorate]]"
   - "[[Education Endowment Foundation]]"
   - "[[The Scott Report]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Social Ventures Australia]]"
-  - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Rickinson_2022_EducRes]]"
@@ -105,13 +105,14 @@ related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
+  - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -119,7 +120,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Professional Judgment
@@ -303,9 +304,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1982 — 技术赤字与反思必要性** Luhmann & Schorr 提出教学系统存在固有的技术赤字（Deficit of Technology），即教育因果链条不可完全预测，要求教师必须具备[[Reflexivity|反思性]]判断力。
 > - **1983 — 反思实践者[[Paradigm|范式]]奠基** Schön 提出行动中的反思（Reflection-in-Action），系统确立专业人员应对不确定性情境的非[[Technical Rationality|技术理性]]决策模型。
 > - **1986 — 官方报告对评价复杂性与专业工具缺位的承认** 新西兰议会《[[The Scott Report|斯科特报告]]》虽然原则上赞同能力评估，但审慎承认客观衡量优秀教师教学表现面临极高技术困难，建议在大学设立专门研究机构花费多年攻关工具，警示不可草率推行绩效考核破坏教学专业性。
@@ -432,9 +431,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]批判《[[Visible Learning|可见的学习]]》证据被新自由主义政策断章取义挪用，确立实证证据作为“探究假设”而非“行动规则”的边界，论证[[Performance Pay|绩效工资]]对教师专业判断与互信生态的系统性破坏。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新泰勒制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单规训如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
 > - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。

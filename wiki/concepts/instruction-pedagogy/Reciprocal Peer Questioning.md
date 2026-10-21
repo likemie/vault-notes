@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Reciprocal Peer Questioning
@@ -120,7 +120,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，以 King（1995）对等同伴提问法为典型案例，定量检验学生生成提问策略（$k=4, g+=0.37$）对[[Critical Thinking\|批判性思维]]技能的干预效果。

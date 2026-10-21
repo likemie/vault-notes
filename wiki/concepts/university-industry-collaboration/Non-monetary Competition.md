@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Non-monetary Competition
@@ -55,15 +55,11 @@ updated: 2026-10-16
 > [!quote|notitle]
 > "金钱不是科学和教育[[Champ\|场域]]中唯一的'通货'，因为学术人员之间的竞争也围绕'符号商品'（Bourdieu, 1984）——如声望、认可或区隔——展开。"([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.797]])
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Academic Capitalism]]：学术资本主义关注市场逻辑如何渗透学术生产——侧重制度转型和经济维度；非货币竞争则解释为何学术领域的"市场"从根本上不同于经济市场——因为竞争的核心通货是符号认可而非金钱。两者互为补充而非替代。
 > - vs 货币竞争：常规市场中的竞争由价格、利润和供需机制驱动；非货币竞争由声誉、引用数、排名位置和同行评价驱动。但两者在实践中相互交织——高排名往往转化为经济资源（拨款、捐赠），而经济资源又进一步巩固符号地位，形成[[Matthew Effect in Academia\|制度化的马太效应]]([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.801–802]])。
 
-## 核心表现形态
-
-> [!abstract|notitle]
+> [!abstract] 核心表现形态
 > 非货币竞争在当代高等教育中有多种制度化的表现形态([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.797–802]])：
 
 ### 指标化评估与排名
@@ -78,9 +74,7 @@ updated: 2026-10-16
 
 基于竞争的国家支出或学术[[New Public Management|新公共管理]]：从英国的 [[Research Excellence Framework|Research Assessment Exercise]]（1998–2008）和 [[Research Excellence Framework]]（自 2014 年起）到德国、法国等国的卓越计划，标准化产出指标被用作资源分配的基础。这一学术版本的"准市场"在部分国家已成为主要的分配机制——并作为[[Matthew Effect in Academia|制度化的马太效应]]运作，使资源向已有资源的机构进一步集中([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp.801–802]])。
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > 两组理论为揭示非货币竞争提供了分析线索([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.797–798]])：
 
 ### 微观社会学实践理论
@@ -91,8 +85,6 @@ updated: 2026-10-16
 
 Lamont（2012）概括的"[[Sociology of Valuation and Evaluation|评估与赋值社会学]]"（sociology of valuation and evaluation）帮助揭示[[Discourse|话语]]竞争的过程，特别是评估、量化绩效测量和个体与机构序数排名的兴起。该领域研究强调学术质量管理中竞争加剧的非预期负面效应——如引用索引不仅选择性极强地测量研究绩效（Münch, 2013, pp.149–152），还可能通过触发研究者追求狭窄策略而阻碍科学进步（Rogge, 2015, pp.209f; Fang et al., 2012）([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.798]])。
 
-## 与新封建等级的关系
-
-> [!note|notitle]
+> [!note] 与新封建等级的关系
 > 非货币竞争并不必然产生平等化的效果。相反，在向竞争和市场的转向中，现有等级往往被正式化和固化——而非松动。精英大学（Harvard, Princeton, Yale, Stanford, Berkeley）和非精英院校之间的差距在扩大而非缩小；全球知名研究教授享有非精英学院无法想象的优越条件和设施。非货币竞争与货币竞争共同作用，产生并加固了 [[Neo-feudalism in Higher Education\|高等教育新封建主义]] 所描述的等级秩序([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.798–799]])。
 

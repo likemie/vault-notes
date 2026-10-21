@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Confucius
@@ -90,9 +90,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **551 BCE** — 出生于鲁国陬邑（今山东曲阜）[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 36)]]。
 > - **前 6 世纪中后期** — 编订六经（诗、书、礼、乐、易、春秋），整理前代哲学、政府、人伦、道德、历史与诗乐文本。
 > - **前 6 世纪末** — 打破贵族官学垄断，创办私学，招收弟子约 3,000 人（贤人七十二），宣告“有教无类”——无论社会背景与经济阶层，人人享有受教育的权力。
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **继承者／理论阐发者** — [[Mencius\|孟子]]、[[Zhu Xi\|朱熹]]、[[Wang Yangming\|王阳明]] — 继承并深化仁学与性善论/理学/心学体系。
 > - **跨文化对话与异质镜像** — [[John Dewey\|John Dewey]] — 1919 年蔡元培将其塑造为“替代性现代[[Sage\|圣人]]”与孔子对比[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 75)]]。
 > - **理论共振视角** — [[Lev Vygotsky\|Lev Vygotsky]] — 社会文化理论与孔子启发式对话在当代 [[Learner-Centred Education\|LCE]] 改革中产生[[Selective Affinity\|选择性亲和]][[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]。
@@ -177,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

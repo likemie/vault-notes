@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Strategic Compliance
@@ -152,9 +152,7 @@ updated: 2026-10-17
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | **[[Theory of Gradual Institutional Change]]** | 理论 | 为行动者类型学（Table 1.3）与联盟博弈提供核心微观机制支柱。 |

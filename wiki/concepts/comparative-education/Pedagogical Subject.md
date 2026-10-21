@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pedagogical Subject
@@ -181,8 +181,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 结合拉美外围国家理论，深度阐发公立教育撤资如何解构公民作为教育主体的宪法契约。（pp. 78–80）
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习与[[Cognitive Capitalism|认知资本主义]]对教育主体的精神剥离，阐释德意志教化与具身化-延展辩证法重塑主体性的哲学路径。（pp. 7–10）

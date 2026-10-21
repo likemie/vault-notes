@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Engineering Education
@@ -126,9 +126,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 工程教育（Engineering Education） | 探究式科学（Inquiry Science） | [[Socioscientific Issues\|社会科学议题]]（SSI Approach） | 职业技能培训（Vocational Training） |
 > |------|-----------------------------------|-------------------------------|-----------------------------|------------------------------------|
 > | 核心目的 | 满足应用需求、解决现实技术难题、锁定开源事实标准与优化制造系统 | 构建合理模型表征与解释自然世界 | 权衡多元伦理与公共利益协商共识 | 掌握特定工业操作与熟练装配工艺 |
@@ -257,9 +255,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪后半叶 — 工艺学与专门学科院系成型** 伴随工业革命与《[[Morrill Land-Grant Act of 1862|莫里尔法案]]》，机械、土木、化工等专门工程系所相继确立，奠定现代工学院的学科分立格局。
 > - **战后至 1970 年代 — 工程科学化与理论偏向** 随着冷战基础科研投入激增，大学工程教育日益数学化和物理化，但逐步演变为偏重黑板理论讲授、脱离一线动手工程实践的狭隘模式。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **1984 年 — [[Engineering Research Centers|ERC]] 与跨学科动手实践革命** [[National Science Foundation|NSF]] 设立[[Engineering Research Centers|工程研究中心]]（ERC）并在内部建立工程教育与中心处（EEC），强制要求中心嵌入工程教育组件，开创跨学科系统设计与动手原型制造新纪元。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366–369)]]
@@ -310,9 +306,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 阐释《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第三支柱“全谱系劳动力培育（Goal 3）”，系统规划 [[Advanced Technological Education|ATE]] 社区学院技术员认证、REU/RET 动手洁净室实训、微电子[[Co-Design|协同设计]]课程与 [[Natcast]] 劳动力卓越中心（WCoE）的顶层路径。
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 系统记录了 1980 年代 [[National Science Foundation|NSF]] 通过[[Engineering Research Centers|工程研究中心]]（ERC）重构高等工程教育动手实践与跨学科系统设计[[Paradigm|范式]]的历史进程。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]维度系统剖析了工程教育在多约束权衡、原型设计迭代与数据决策中的独特[[Epistemology|认识论]]规程。

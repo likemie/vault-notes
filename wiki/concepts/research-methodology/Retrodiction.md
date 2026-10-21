@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Retrodiction
 
@@ -115,9 +115,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪 — 均变论与历史地质学奠基** 莱尔（Charles Lyell）提出“以今论古”，确立了从现有地质作用推测地球过去的推理基础。
 > - **20 世纪末 — 历史科学哲学体系确立** Ault (1998) 与 Cleland (2002) 系统构建了历史科学[[Epistemology\|认识论]]，正式提出回溯推测（Retrodiction）对受控实验预测的补充与超越。
 > - **2010s 至今 — 科学教育[[Epistemic Practices\|认识论实践]]整合** Kelly & Licona 等人将回溯推测整合进科学教育认识论实践框架，用于指导板块构造等[[Big Ideas\|大概念]]的论证写作教学。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 151, 156)]]
@@ -132,7 +130,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合板块构造写作案例分析回溯推测在地学教育中的[[Epistemology\|认识论]]层级与[[Chain of Evidence\|证据链]]构建。

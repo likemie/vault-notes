@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Otherhood
@@ -48,24 +48,21 @@ updated: 2026-10-16
 > "Otherhood, here, refers to the social process of enacting agency for other actors (e.g. nation-states), non-actor entities (e.g. the world's children; endangered species) and principles (e.g. human rights)."（Meyer & Jepperson, 2000，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]]）
 
 ---
-## 概念辨析
 
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Organizational Actorhood]] — actorhood 描述组织作为自主行动者的一般特征（自主性、目标导向、问责性、社会嵌入性）；otherhood 是 actorhood 在社会嵌入性维度上的激进延伸。关键区别：actorhood 回答"组织如何成为一个能动者"，otherhood 回答"组织为谁行动"。一个大学可以具有很强的 actorhood（战略清晰、问责到位），但其研究可能主要服务于自身排名提升——这不构成 otherhood。Otherhood 要求组织的行动以他者利益为指向([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.148–149]])
 > - vs 企业社会责任（CSR） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任，本质上仍以企业自身的合法性为核心；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程。二者的重叠在于：大学的 [[University Social Responsibility]] 实践可以被视为 otherhood 的制度化表达([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])
 > - vs 慈善／利他主义 — 慈善和利他主义主要描述个体的道德行为；otherhood 是[[World Society Theory\|世界社会理论]]中解释**组织层面**社会运作的机制性概念——它不依赖组织成员的道德品质，而是现代组织身份建构中的结构性特征([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 
 ---
-## 概念辨析
 
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[Organizational Actorhood]] — actorhood 描述组织作为自主行动者的一般特征（自主性、目标导向、问责性、社会嵌入性）；otherhood 是 actorhood 中社会嵌入性维度的激进表达，强调组织的行动不以自我利益为中心，而以他者利益为中心([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 > - vs 企业社会责任（CSR） — CSR 主要指企业对其利益相关者承担的经济、法律、伦理和慈善责任；otherhood 是一个更根本的社会学概念，不限于企业部门，涵盖所有类型组织为"他者"行使代理权的过程([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])
 
 ---
-## 概念演变
 
-> [!note|notitle]
+> [!note] 概念演变
 
 ### 概念提出与理论发展
 
@@ -90,9 +87,8 @@ updated: 2026-10-16
 > 这三种形式并非互斥——同一项大学活动可以同时体现多种 otherhood。例如，一所大学研究气候变化对太平洋岛国的影响：它替岛国政府提供政策建议（为其他行动者代理），替面临海平面上升威胁的社区和生态系统发声（为非行动者实体代理），同时也隐含了"气候正义"的规范性立场（为现代性原则代理）。这种多重 otherhood 的重叠使大学在全球治理中获得了独特的知识权威地位（基于 Zapp, 2022, pp.149–150）
 
 ---
-## 理论基础
 
-> [!tip|notitle]
+> [!tip] 理论基础
 > - [[World Society Theory]] — otherhood 是世界社会理论的核心机制：由于世界社会缺乏传统的控制与权威机制，它本质上通过 otherhood 建构——即通过围绕进步与正义等宏大目标的[[Cultural Models\|文化模型]]扩散与模仿来运作（Meyer et al., 1997，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]]）
 
 ---
@@ -111,9 +107,8 @@ updated: 2026-10-16
 > - 全球 **200+ 所**大学发布 CSR/可持续发展报告（Corporate Register, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]]）
 
 ---
-## 相关案例／政策
 
-> [!example|notitle]
+> [!example] 相关案例／政策
 > - [[UN Sustainable Development Goals]] — SDGs 为大学的 otherhood 提供了全球性议程，大学通过研究、教学、内部政策和网络四个渠道对齐 SDGs
 > - [[THE Impact Ranking]] — THE SDG 影响力排名将大学的 otherhood 活动（如性别平等、气候行动、可持续城市）量化为排名指标
 

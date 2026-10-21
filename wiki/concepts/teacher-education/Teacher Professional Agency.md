@@ -75,7 +75,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Teacher Professional Agency
@@ -296,9 +296,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从新泰勒制监控、[[Cargo Cult Science|货物崇拜科学]]与澳大利亚 [[Victorian HITS and Literacy Toolkit|HITS]] 案例出发，系统解构了《[[Visible Learning|可见的学习]]》如何贬抑教师专业智慧并将育人活动降格为流水线操作清单（pp. 23–41）。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 结合爱沙尼亚等国标杆经验，强调必须通过宽课程大纲与赋予教师专业自主权，破解科学师资短缺并提升课堂活力（pp. 31, 36）。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — [[Systematic Review|系统综述]]把专业能动性置于跨层治理机制中，揭示[[Institutional Distrust|制度性不信任]]对能动性的压制回路，主张以可持续结构培育专业自主（pp. 16, 18）。

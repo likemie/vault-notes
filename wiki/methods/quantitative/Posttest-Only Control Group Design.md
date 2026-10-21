@@ -35,7 +35,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Posttest-Only Control Group Design
 
@@ -81,16 +81,12 @@ updated: 2026-10-20
 > - **谨慎使用** 样本量较小时——无法用前测数据验证随机化是否成功。
 > - **不适合使用** 需要测量个体变化时——使用前后测设计。
 
-## 局限性
-
-> [!method-limits|notitle]
+> [!method-limits] 局限性
 > - **无法验证基线等价** 完全依赖[[Random Assignment\|随机化]]的理论保证，无法用[[Pre-test and Post-test\|前测]]数据实证检验两组是否等价。
 > - **无法测量个体变化** 只有后测数据，无法区分"干预前就高的组"和"干预后变高的组"——只能依赖随机化假设两组基线相同。
 > - **对随机化质量高度敏感** 如果随机化失败（小样本中可能出现），无法通过前测发现。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Pretest-Posttest Control Group Design]] | 方法 | 互补设计——有[[Pre-test and Post-test\|前测]]时使用，担心前测时使用本设计 |

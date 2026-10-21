@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Network Plasticity
@@ -144,8 +144,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 经典实证检验 [[DARPA]] 项目经理如何调动网络可塑性，将硅锗、应变硅与硅基光子学前沿网络由离散引向高密度协同。
 > - Davis (2009) — 奠定网络可塑性理论基础，阐述组织社会学中行动者对网络结构的塑造能力。

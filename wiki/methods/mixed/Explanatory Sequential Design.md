@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Explanatory Sequential Design
@@ -142,9 +142,7 @@ updated: 2026-10-20
 
 ---
 
-## 6. 方法变体与对比
-
-> [!tip|notitle]
+> [!tip] 6. 方法变体与对比
 > - [[Convergent Design\|聚敛式设计]]：同时进行 vs. 序列进行；聚敛式是互证，解释性是驱动与解释。
 > - [[Exploratory Sequential Design\|探索性序列设计]]：顺序相反（质性在前）；目的是开发工具而非解释结果。
 
@@ -181,9 +179,7 @@ updated: 2026-10-20
 
 ---
 
-## 8. 相关概念与理论
-
-> [!tip|notitle]
+> [!tip] 8. 相关概念与理论
 > - [[Purposeful Sampling]] — 序列设计中连接两阶段的关键抽样策略。
 > - [[Metainferences]] — 整合解释阶段的最终产出。
 

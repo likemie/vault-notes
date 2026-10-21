@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Seedhouse's Ethical Pyramid
@@ -99,7 +99,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al. (2011, Ch.5)]] — 系统介绍该金字塔并将其作为全章伦理讨论的核心框架

@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Societies of Control
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -138,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 运用控制社会理论剖析当代高等教育中在线自评（[[Online Self-Assessment|OSA]]）与“[[Promising Student|有前景的学生]]”如何成为持续调制的数字产物。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯与澳大利亚教育实证，剖析指标问责与可见学习如何推动“持续数据生产”，揭示控制社会中报表膨胀对教师队伍造成的深层组织病理与流失危机。
 > - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 批判澳大利亚[[School Leadership|学校领导力]]对数据持续生产的病态屈从，揭示[[New Managerialism|新管理主义]]如何将学校异化为控制社会的指标生产车间。

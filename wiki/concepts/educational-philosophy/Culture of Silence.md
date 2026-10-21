@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Culture of Silence
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 沉默文化（Culture of Silence） | [[Conscientization\|批判意识觉醒]]（Conscientização） |
 > |------|-------------------------------|-----------------------------------------|
 > | 状态 | 被动服从、无声、认同既有压迫秩序 | 能动审视、发声、揭露并对抗社会压迫结构 |
@@ -83,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 理论与实践路径
-
-> [!influence-path|notitle] 理论与实践路径
+> [!influence-path] 理论与实践路径
 > - **理论路径** 成为[[Critical Pedagogy\|批判教育学]]、去殖民化理论与后殖民研究中揭露政治与[[Hegemony\|文化霸权]]的核心概念。
 > - **实践路径** 指导解放性扫盲运动、社区赋权项目以及民主对话课堂的设计。
 

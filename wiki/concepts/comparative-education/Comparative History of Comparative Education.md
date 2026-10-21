@@ -64,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Comparative History of Comparative Education
@@ -93,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 比较教育学的比较史（Comparative History of Comparative Education） | 规范性学科起源史（Normative Disciplinary Origin Historiography） | [[Academic Iconography\|学科肖像学]]（Academic Iconography） |
 > |------|------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------|
 > | **分析对象** | 比较教育学学科自身的多元演进轨迹、跨国学者网络、被遮蔽的边缘经验与深层档案 | 以英美和西欧为核心的[[Disciplinary Institutionalization\|学科制度化]]里程碑、标志性院系建立与经典教材谱系 | 学科集体记忆中被神圣化的先驱图腾、经典演说与开山宪章 |
@@ -189,9 +187,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960年代 — 线性规范起源叙事的奠定** 诺亚与埃克斯坦在《迈向比较教育科学》（1969）以及贝雷迪（1964）的经典教材中，确立了将学科史划分为“旅行者见闻—[[Policy Borrowing\|教育借用]]—历史文化背景研究—[[Scientific Method\|经验科学]]社会学分析”的单向演进阶梯，实证[[Scientism\|科学主义]]确立为学科合法性的基石。
 > - **1980–1990年代 — [[Epistemology\|认识论]]危机与去中心化反思** 后现代、后殖民与[[Critical Theory\|批判理论]]视角引入学科（如[[Martin Carnoy|马丁·卡诺伊]] [Martin Carnoy]、[[Robert Arnove|罗伯特·阿诺夫]] [Robert Arnove]），学者开始反思西方现代化理论的霸权，呼吁打破单一欧美中心叙事并关注第三世界的依附与抵抗。
 > - **2000年代初 — 奠基神话与核心文本的个案重读** 卡扎米亚斯与考恩等人系统重审[[Michael Sadler\|萨德勒]]爵士的吉尔福德演讲与朱利安的《计划》，揭示学科教科书对经典文献的去脉络化拔高，开启了对学科集体记忆与肖像学的学术反思。
@@ -221,8 +217,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩系统阐述“比较教育学的历史应成为比较教育学的比较史”这一核心纲领，提出解构[[Academic Iconography\|学术肖像学]]、开掘隐蔽历史与纳入多中心经验的史学编纂议程。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 卡洛扬纳基与卡扎米亚斯通过精细考据 19 世纪英美法[[Primary and Secondary Documents\|原始文献]]，解构了学科发端的单一实证[[Empiricism\|经验主义]]神话，还原了准科学人道主义与行政[[Educational Meliorism\|改良主义]]交织的双重现代主义母题，为比较教育学比较史的个案[[Rich and Thick Description\|深描]]树立了典范。

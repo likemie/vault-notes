@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-01'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Qualitative Observation
@@ -139,9 +139,7 @@ updated: 2026-10-16
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

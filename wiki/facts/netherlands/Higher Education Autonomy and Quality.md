@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Higher Education Autonomy and Quality
@@ -168,9 +168,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -185,7 +183,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 追踪 1985 年荷兰《高等教育：自主与质量》（HOAK）白皮书从危机动因、TVC 预算协商、HBO 机构大兼并到 1993 年 [[Higher Education and Research Act 1992|WHW]] 法典化的历史过程，系统论证从科层管制向“间接[[Steering at a Distance|远距离操纵]]”新[[Paradigm|范式]]的转型逻辑并反思评估国家集权悖论。

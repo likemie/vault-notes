@@ -36,22 +36,18 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 ## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing\|政策借用]]四阶段模型和[[Cross-National Attraction\|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性[[Analytic Framework\|分析框架]]。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
 
-## 生平与职涯
-
-> [!note-|notitle] 生平与职涯
+> [!note-] 生平与职涯
 > - 牛津大学教育研究系博士（2005），导师 [[David Phillips]]
 > - 博士论文题目：*Educational [[Policy Borrowing]] and its Implications for Reform and Innovation: a study with specific reference to the London Borough of Barking and Dagenham*
 
-## 主要著作
-
-> [!abstract|notitle] 主要著作
+> [!abstract] 主要著作
 > - Ochs, K. & [[David Phillips\|Phillips, D.]] (2002). *Toward a Structural Typology of [[Cross-National Attraction]] in Education*. Lisbon: Educa. — 提出跨国吸引力的结构性类型学，识别六类政策焦点和 13 种情境因素
 > - Phillips, D. & Ochs, K. (2003). Processes of [[Policy Borrowing]] in education: some explanatory and analytical devices. *Comparative Education*, 39(4), 451–461. — 提出[[Policy Borrowing\|政策借用]]四阶段循环模型
 > - Phillips, D. & Ochs, K. (2004a). Researching policy borrowing: some methodological problems in comparative education. *British Educational Research Journal*, 30(6), 773–784. — 反思政策借用研究方法论困境
@@ -83,9 +79,7 @@ updated: 2026-10-21
 > [!info] 新行动者识别
 > Ochs (2005) 在 Dolowitz and Marsh (2000) 的政治行动者列表基础上，新增了网络（networks）、排行榜（[[Global Universities Rankings\|league tables]]）、媒体／通讯技术和资助来源（sources of funding）等全球化时代的新行动者类别。([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 227]])
 
-## 主要贡献
-
-> [!success|notitle] 主要贡献
+> [!success] 主要贡献
 > - **[[Policy Borrowing\|政策借用]]四阶段模型** — [[Cross-National Attraction\|跨国吸引]]力→决策→实施→内化／本土化（Phillips & Ochs, 2003）
 > - **跨国吸引力结构性类型学** — 六类政策焦点 + 13 种情境因素（Ochs & Phillips, 2002）
 > - **四种吸引力"火花"分类** — 为理解为什么外国范例被引入国内辩论提供了分析工具

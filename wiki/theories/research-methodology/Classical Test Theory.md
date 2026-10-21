@@ -40,7 +40,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Classical Test Theory
@@ -67,9 +67,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -119,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 经典测验编制中的[[Reliability\|信度]]评估和题目筛选；教育[[Achievement and Aptitude Tests\|成就测验]]、[[Rating Scale\|态度量表]]的基础测量属性分析。
 > - **谨慎使用** 需要跨样本比较题目参数，或为每位受试者提供个性化测量精度估计时，CTT 的样本依赖性和内容依赖性成为重要限制。
 > - **不适合解释** 题目参数在不同群体间的差异（需要 [[Item Response Theory\|IRT]] 的[[Measurement Invariance\|测量不变性]]检验）；[[Computerized Adaptive Testing\|计算机自适应测验]]中的题目选择逻辑。
@@ -129,16 +125,12 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1904 — Spearman 提出[[Reliability\|信度]]概念** 奠定 CTT 的数学基础
 > - **20 世纪中期 — CTT 成为测验编制的标准框架** 广泛应用于教育测量和心理测量领域
 > - **20 世纪后期 — [[Item Response Theory]] 兴起** 对 CTT 的题目参数样本依赖性和分数比较困难提出系统性改进。CTT 仍广泛用于课堂测验和[[Developer-Made Measures\|研究者自编测验]]
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材 24.5 节介绍 CTT 的基本公式 $X = T + E$、真实分数与观测分数的概念区分、误差来源，以及 CTT 在[[Item Analysis\|题目分析]]和测验编制中的应用

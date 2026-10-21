@@ -62,7 +62,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2017
 doi: ""
 citation_aliases:
@@ -235,9 +235,7 @@ citation_aliases:
 
 ---
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > - **心理学与神经影像学的年龄鸿沟** 大部分[[Functional Magnetic Resonance Imaging\|功能性磁共振成像]] (fMRI) 和正电子发射断层扫描 ([[Punctuated Equilibrium Theory|PET]]) 研究仅招募 7 岁以上的儿童，导致 7 岁以下（如感觉运动与前运算早期）脑区功能的实时影像学数据极为匮乏，尚待高密度[[Electroencephalography\|脑电图]] (EEG) 等技术进一步补充（p.9）。
 > - **认知[[Executive Function\|执行功能]]界定的变动性与测量困境** 执行功能 (EF) 成分界定复杂，测量任务也高度混杂，不同任务形式的发展进程因特定知识素养要求而不同（pp.19–20）。
 > - **个体差异与外部环境干扰** 该模型仅描述普遍发展轨迹，未考虑巨大个体差异。例如双语环境能显著加速儿童 EF 发展，而低[[Socioeconomic Status|社会经济地位]] (Low Socioeconomic Status, Low SES)、压力、药物或虐待则会导致 [[Prefrontal Cortex\|PFC]] 结构与 EF 表现缩水。

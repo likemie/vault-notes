@@ -82,7 +82,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Third Generation Activity Theory
@@ -248,9 +248,7 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1978 — 第一代：Vygotsky 心理中介三角** 提出主体—中介工具—客体模型，确立人类心理机能由文化符号中介的核心原理。
 > - **1987 — 第二代：Engeström 六要素集体活动系统** 引入共同体、规则与劳动分工，将[[Unit of Analysis\|分析单元]]拓展为集体的活动系统，出版奠基著作 *Learning by Expanding*。
 > - **2001 — 第三代：多活动系统互动与扩展性改造** Engeström 正式提出第三代活动理论，聚焦多个活动系统的相遇、边界跨越与扩展性学习网络。
@@ -287,9 +285,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 采用活动理论移动计算机支持协作学习（AT-MCSCL）框架，将生成式 AI 学习系统解构为主体、客体、工具、规则、分工与情境六大维度，对 57 项[[Experimental Research\|实验研究]]进行多维[[Interaction Effect\|调节效应]][[Meta-analysis\|元分析]]，解释了边际效益递增与权力壁垒破除机制。
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用第三代活动理论作为[[Analytic Framework\|分析框架]]，解构中国 4 所高中在跨国专业发展项目后，[[Test-Based Accountability\|考试问责]]系统与 [[Learner-Centred Education\|LCE]] 改革系统如何通过建立学校特定共享目标，促成要素协同重构与扩展性改造。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 将活动理论应用于高等教育生成式 AI 整合综述，揭示大模型作为新型中介工具对教学活动系统平衡的扰动，系统提出了涵盖工具定位、规则重塑、人机认知分工与多源反馈共同体的扩展性改造方案。

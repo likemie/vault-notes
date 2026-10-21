@@ -145,7 +145,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Technological Republic
@@ -206,9 +206,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 技术共和国（Technological Republic） | 国家创新系统（[[National Innovation System]]） | 自由放任科技市场[[Paradigm\|范式]]（Laissez-Faire Tech） |
 > |:---|:---|:---|:---|
 > | **核心取向** | 国家安全、公共使命、所有权分享与民主合法性的深度融合 | 经济增长、产业升级与知识流动网络效率 | 股东价值最大化、短期财报指标与消费者个人效用满足 |
@@ -451,9 +449,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1940 年代 — [[Big Science|大科学]]动员与国家安全同盟原型** [[Vannevar Bush|万尼瓦尔·布什]]领导[[Office of Scientific Research and Development|科学研究与开发办公室]]（OSRD），协同[[Manhattan Project|曼哈顿工程]]，奠定技术共和国由国家资助前沿探索、科学家承担国家安全责任的制度传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–8)]]
 > - **1960 年代 — [[DARPA|ARPA]] 模式与[[Man-Computer Symbiosis|人机共生]]计算基石** 利克莱德主导国防高级研究计划局信息处理技术办公室（ARPA IPTO），以国家安全使命驱动交互式计算与互联网雏形研发。
 > - **1970–1990 年代 — 反文化脱节、[[Consumer Internet|消费互联网]]繁荣与采购法治变革** 硅谷黑客文化与反建制思潮导致科技精英与防卫使命脱节；同时 1990 年代硅谷开创全员员工持股的所有权模式；国会通过《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》确立[[Commercial Off-The-Shelf|商用现成产品]]法定优先权。
@@ -500,7 +496,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - **技术共和国专著论述** [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 系统阐明技术共和国在人工智能地缘竞争中的制度重塑方案与组织治理哲学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Ch. 1–4)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Ch. 6–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Ch. 9–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Ch. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]

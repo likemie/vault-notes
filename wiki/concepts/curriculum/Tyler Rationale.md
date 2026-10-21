@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tyler Rationale
@@ -94,7 +94,5 @@ updated: 2026-10-21
 
 ---
 
-## 应用案例
-
-> [!case|notitle] 应用案例索引
+> [!case] 应用案例索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 121–149)]] — Tyler 原理被用作[[Critical Theory\|批判理论]]课程分析的靶子：英格兰和威尔士国家课程被论证为在技术兴趣上重、解放兴趣上轻，有意或无意地支持了社会不平等的再生产。

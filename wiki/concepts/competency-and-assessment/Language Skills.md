@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Language Skills
@@ -134,9 +134,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **20世纪中期 — [[Behaviorism|行为主义]]听说法与分立技能观** 早期语言教学将语言技能视为孤立的习惯养成，强调机械的句型操练（Drill）与正误强化，技能被严格割裂为离散的语音与词汇测试。
 > - **1970s–1980s — 交际语言能力（Communicative Competence）转向** Hymes 与 Canale & Swain 等提出交际能力理论，推动语言技能从纯语法规则识记转向社会语言学、语篇与策略能力的综合统整。
 > - **2001 — 欧洲语言共同参考框架（CEFR）确立[[Operationalization\|操作化]]能做清单** 确立基于“能做”（Can-do statements）的行为描述语体系，将语言技能确立为具有国际通用效标的层级操作化指标。
@@ -173,7 +171,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]]系统考察生成式 AI 对大学生多维学习产出的影响，实证确立语言技能是获益最剧烈的产出维度（$g^+ = 2.331$，剪补后 $1.009$），并揭示表层语言符号组织与深层心智调控的效应级差。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemological Coherence
@@ -82,9 +82,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 全流程[[Epistemology\|认识论]]连贯性（Epistemological Coherence） | 方法论效度（Methodological Validity） | 政策适宜性（Political Appropriateness） |
 > |---|---|---|---|
 > | **核心关切** | 知识从生产到应用全链条逻辑的自洽与保真 | 实验或调查设计在技术与统计层面的无偏性 | 政策文本在政治网络中的可接受度与落地阻力 |
@@ -159,9 +157,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000s — [[Critical Realism\|批判实在论]]与三层[[Ontology\|本体论]]** Bhaskar 与 Sayer 提出实在论科学观，强调因果机制必须与经验现象和情境条件保持内在逻辑统一。
 > - **2010s — 循证外推困境的识别** Cartwright 提出证据外推三阶段模型，Wiliam 论证教育知识的情境依赖性，揭示跨情境迁移的[[Epistemology\|认识论]]鸿沟。
 > - **2022 年 — 全流程认识论连贯性概念成型** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 正式将“全流程认识论连贯性”确立为抵御[[Policy-Based Evidence-Making\|基于政策的证据制造]]与政策伪科学的核心规范，系统建构了连接生产、转译与落地的批判框架。
@@ -180,8 +176,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 首次在教师教育政策与[[Evidence Era\|证据时代]]语境中系统阐发全流程[[Epistemology\|认识论]]连贯性概念，揭示其在[[Policy Network\|政策网络]]中被割裂的制度机制。
 > - [[Critique of Evidence-Based Education]] — 循证教育批判总条目，包含认识论缺陷、民主缺陷与[[Institutional Isomorphism\|制度同构]]批判。

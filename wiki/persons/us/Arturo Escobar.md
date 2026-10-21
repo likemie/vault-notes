@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -49,9 +49,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 
 **Pluriverse（多元世界）** Escobar 的核心概念——不是单一世界（universe）而是多元世界（pluriverse）的制造。这与全球化作为霸权项目形成对照：[[Mondialisation]]（世界化）以具体的生活世界为主要参照，而非市场、劳动灵活化和文化同质性([[Argument_Amos_2022_Springer|Amos, 2022, pp.61–62]])。
 
@@ -63,9 +61,7 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命系统理
 
 ---
 
-## 主要著作与思想发展
-
-> [!abstract|notitle]
+> [!abstract] 主要著作与思想发展
 
 - Escobar, A. (2018). *Designs for the pluriverse: Radical interdependence, autonomy, and the making of worlds*. Duke University Press. — 提出 pluriverse 和 [[Transition Design]] 的核心概念
 
@@ -77,9 +73,7 @@ Escobar 援引 Irwin (2015) 的转型设计十条原则：(1) 以生命系统理
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 
 - 与 [[Donna Haraway]] 共享相似的心智框架和交叉的智识偏好，核心差异在于 Escobar 的语气更为充满希望——他认为通过结社和连接，解决方案可以在更大规模上起作用。两者的共同之处多于分歧([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])
 - 其立场与非洲 [[Ubuntu]] 和拉丁美洲 [[Buen Vivir]] 理念具有"家族相似性"，或许与后者的共鸣略多([[Argument_Amos_2022_Springer|Amos, 2022, p.64]])

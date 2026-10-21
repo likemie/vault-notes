@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 31
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -52,7 +52,6 @@ related_instruments: []
 related_persons:
   - "[[Tina Seidel]]"
 related_facts:
-  - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[OECD]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Zentrum für internationale Bildungsvergleichsstudien
@@ -152,9 +151,7 @@ updated: 2026-10-17
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

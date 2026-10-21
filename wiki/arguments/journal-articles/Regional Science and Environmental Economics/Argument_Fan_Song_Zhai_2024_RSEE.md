@@ -54,7 +54,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_Fan_Song_Zhai_2024_RSEE
 
@@ -365,9 +365,8 @@ updated: 2026-10-16
 > 4. **描述性有余[[Causality\|因果性]]不足** 准确描述了格局但未能解释成因，制约政策指导价值
 
 ---
-## 自述局限
 
-> [!warning|notitle]
+> [!warning] 自述局限
 > 研究采用省级面板数据，未能深入更精细空间尺度。评价指标体系可能遗漏某些维度。本质上是一项描述性综合评价，未做[[Causality\|因果推断]]。
 > 
 ---

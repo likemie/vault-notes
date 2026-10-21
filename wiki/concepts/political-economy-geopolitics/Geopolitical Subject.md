@@ -52,12 +52,10 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > [[Sami Moisio]]（2022）提出[[Geopolitics|地缘政治]]主体（geopolitical subject）概念，指被国家通过制度（尤其是高等教育）系统性形塑的一类理想化的人的类型——他们被装备上特定技能、行为取向和空间心态，能够在全球竞争中被调动起来服务于财富和竞争领土的生产([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.29–30]])。
 >
 > > "The concept of the geopolitical subject therefore refers to an organized set of human figures, who are, from the perspective of political power, equipped with particular ideal skills, behaviors, orientations and 'spatial mindsets' which can be harnessed in the production of territories of wealth and competition at the age of global competition."
@@ -129,9 +127,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 
 ---
 
-## 概念辨析
-
-> [!example|notitle] 概念辨析
+> [!example] 概念辨析
 > - vs [[Human Capital Theory\|人力资本]]（Human Capital）：这是最关键的区分。人力资本概念的核心逻辑是"投资-回报"——个体通过教育获取技能，技能在市场上兑现为更高的工资。人力资本将教育问题框定为*效率*问题（如何最大化教育投资的经济回报）。[[Geopolitics|地缘政治]]主体概念将教育问题重新框定为*权力*问题：国家通过教育系统在做什么？不是在分配投资机会，而是在*制造适应其竞争需求的人口类型*。前者问"教育值不值得花钱"，后者问"教育在把学生变成什么样的人，这种转变服务于谁的议程"
 >
 > - vs 创意阶层（Creative Class, Florida, 2002）：创意阶层是[[Knowledge-Based Economy\|知识经济]]中的一种特定理想主体类型——强调[[Creativity\|创造力]]、生活方式偏好和文化消费；地缘政治主体是更广义的分析范畴，涵盖国家通过教育和制度实践系统性地塑造的各类适应全球竞争的主体性形态。创意阶层可以是地缘政治主体的一种具体变体（参见下文关于"创意创业者"的讨论），但地缘政治主体不一定都是"创意阶层"——一个被训练为全球金融服务业员工的毕业生同样是地缘政治主体
@@ -150,25 +146,19 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 
 ---
 
-## 理论基础
-
-> [!info|notitle] 理论基础
+> [!info] 理论基础
 > - [[Knowledge-Based Economization]] — 为[[Geopolitics|地缘政治]]主体概念提供了总体[[Analytic Framework\|分析框架]]：经济化过程不仅涉及市场逻辑的扩展，还涉及"将人们——包括经济和政治行动者——的行为带入某种将保持积累体制运转的配置"（Harvey, 1978, p.121, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]]）
 > - Hardt and Negri（2000）的 Empire 理论 — 提供对知识密集型资本主义所需劳动类型的分析（交际性、合作性、情感性劳动），解释了为什么地缘政治主体不能仅被还原为技能
 > - Foucault 的[[Governmentality\|治理术]]（governmentality）传统 — 隐性地支撑了对主体如何在制度性实践中被形塑的分析；Moisio 的主体"装备"概念与 Foucault 的"主体化"（subjectivation）过程虽未直接引用但存在分析上的亲和性
 >
 
-## 争议与批评
-
-> [!warning|notitle] 争议与批评
+> [!warning] 争议与批评
 > - 该概念目前仅在 [[Argument_Moisio_2022_Springer|Moisio（2022）]]章节中提出，其经验适用性和[[Operationalization\|操作化]]路径尚待后续研究验证
 > - 高等教育空间中对[[Geopolitics|地缘政治]]主体的具体形塑过程究竟是*如何运作的*——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]])
 > - 该概念的分析存在不对称性：国家如何"装备"主体被描述得很强，但主体是否以及如何*抵抗*这种装备、如何在被塑造的过程中发展出非预期的主体性，讨论尚不充分
 >
 
-## 相关概念
-
-> [!example|notitle] 相关概念
+> [!example] 相关概念
 > - [[Hub and Flow Imaginaries]] — [[Geopolitics|地缘政治]]主体被塑造去适应的空间图景：世界划分为枢纽与边缘，理想主体在枢纽之间自由流动
 > - [[Spatial Sortings]] — 地缘政治主体生产的不均衡后果：被成功塑造者成为赢家，被排斥者成为输家
 > - [[Fixity-Motion Tension]] — 地缘政治主体的结构性困境：被要求在固着（地方忠诚与贡献）与流动（全球移动性）之间同时运作

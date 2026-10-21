@@ -13,7 +13,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-10-21
+updated: 2026-10-22
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -190,18 +190,14 @@ related_arguments:
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德[[Discourse|话语]]构建象征边界。
 > - [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding\|文化脱嵌]]效应。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的必修教材充当了国家符号边界自然化的制度载体。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

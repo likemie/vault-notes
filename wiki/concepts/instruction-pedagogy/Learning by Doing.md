@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Learning by Doing
@@ -101,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 教育哲学中的“在做中学” | 工业制造中的“干中学” | 公共治理中的“干中学”（自适应规制） | 静态规模经济（Scale Economies） |
 > |---|---|---|---|---|
 > | **分析载体** | 课堂学生心智与[[Critical Thinking\|批判性思维]] | 车间工程团队、制造良率与工时 | 监管机构、跨部门协调办公室与执行网络 | 工业厂房与物理设备的瞬时产能规模 |
@@ -231,9 +229,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -255,9 +251,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细拆解“在做中学”在[[Active Learning|主动学习]]模型中的案例与[[Reflective Thinking|反思性思维]]运作机制。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从微观企业史视角阐明高科技大规模制造车间中工程排障与工艺良率提升的组织化“在做中学”机制。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与半导体全球竞争视角，阐述干中学如何通过先进制程良率爬坡构筑动态成本壁垒，以及政府补贴介入的经济学逻辑。

@@ -45,7 +45,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Navigation Metaphor in Comparative Education
@@ -139,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1958 — 起源奠基** 英国比较教育学家约瑟夫·劳威斯在伦敦大学教育学院提出航海隐喻，明确界定大学比较教育学者的职能如同航海顾问，旨在提供跨国航线与环境信息，拒绝替决策者掌舵操舵。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 95)]]
 > - **1960s–1970s — 激进咨询挑战与德意志经验分化** [[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）等学者提出积极参与国家教育立法与总体规划的激进咨询模式；然而联邦德国多数比较学者在罗宾逊与劳威斯之间，依然选择偏向航海隐喻的审慎超然立场，以防御冷战意识形态干扰。
 > - **1990s–至今 — 跨国测评盛行与学科[[Epistemology|认识论]]挤压** 随着 [[IEA]] 与 [[OECD]] 发起的 [[PISA]] 席卷全球，量化指标治理主导了教育政策议程。航海隐喻所依托的历史情境与多元备选项探讨被边缘化，比较教育学者面临被吸纳为技术官僚测量工匠或沦为体制旁观者的双重危机。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
@@ -169,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -188,7 +184,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育在统一与多样性张力下的学科史，提出劳威斯航海隐喻与当代[[OECD|经合组织]]测评霸权之间的结构性冲突。

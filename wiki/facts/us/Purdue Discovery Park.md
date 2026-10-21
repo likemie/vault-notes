@@ -35,14 +35,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-10-22
 ---
 
 # Purdue Discovery Park
 
-## 内容
-
-> [!info|notitle]
+> [!info] 内容
 > 普渡发现园（Purdue Discovery Park）是普渡大学（Purdue University）在印第安纳州西拉法叶市（West Lafayette）创建的大学[[Innovation Park\|研究园区]]，位于校园西侧边界([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.131–132]])。
 
 初始投资约 3000 万美元，来自礼来基金会（Lilly Endowment）和印第安纳州政府各约 1500 万美元。早期产业伙伴集中于农业、化学和航空航天工程领域，吸引了 Bayer、Rolls-Royce and Saab 等主要企业入驻（p.132）。

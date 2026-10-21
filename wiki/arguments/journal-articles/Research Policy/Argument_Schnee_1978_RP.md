@@ -59,7 +59,7 @@ sources:
   - "[[sources/Schnee_1978_RP/Schnee_1978_RP|Schnee_1978_RP]]"
 status: active
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Schnee_1978_RP"
@@ -368,9 +368,7 @@ journal: "Research Policy"
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **短期经济回报滞后性** 从重大技术突破转化为商业化新产品或新工艺的过程高度复杂且耗时漫长；20 世纪重大创新的历史研究表明，发明与商业化应用之间平均存在 10 至 20 年的时间滞后。尽管政府资助创新的发明到商业化周期略短于私营独立资助创新，但时间滞后依然十分显著，不能期望公共项目的技术影响在短期内产生即时经济回报。（pp.20–21）
 > - **科技人力资源供需失衡争议** 批评者指出，美国空间与国防公共大项目的巨额扩张在特定工程与科学领域造成了全国科技人力资源供给的结构性失衡与过度倾斜。（p.20）
 > - **创新归因的复杂性与局限** 鉴于重大工程面临的具体任务约束与对现有技术的依赖，[[Evaluation Research|评估研究]]不能指望将重[[Big Science|大科学]]进展的全部功劳单一或直接归因于政府项目本身。

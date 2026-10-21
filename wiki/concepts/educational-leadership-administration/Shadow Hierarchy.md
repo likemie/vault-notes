@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Shadow Hierarchy
@@ -61,9 +61,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 敏捷影子层级 | 固化科层金字塔 | 极端绝对扁平化 |
 > |---|---|---|---|
 > | **显性化程度** | 低度显性，保留生产性模糊真空 | 极高，组织架构图与审批流刻板锁定 | 宣称完全无层级，实则掩盖隐性垄断 |
@@ -73,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **结构可重构性** 层级能够伴随市场新需求与战役任务极速解构和重建，员工不被固定职级终身锁定。
 > - **生产性组织模糊性** 不在每个领域设立严密的排他性负责制，故意留出权力空白以激发自发创业精神。
 > - **反地盘主义** 破除踏入他人领地即属越权的官僚恐惧，鼓励有才华者凭借实干主动接管未决难题。
@@ -97,8 +93,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2003 — 实证经济学先声** 拉詹与沃尔夫（Rajan & Wulf, 2003）在美国全国经济研究所（National Bureau of Economic Research, NBER）发表《扁平化企业》，揭示美国大型企业首席执行官（Chief Executive Officer, CEO）直管人数从 4 人翻倍至 8 人的去中介化趋势。
 > - **2025 — 理论提炼** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《[[Technological Republic|技术共和国]]》中提出影子层级理论，系统辩护生产性组织模糊性在激发前沿创新中的战略价值。

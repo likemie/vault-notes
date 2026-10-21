@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Martin Carnoy
@@ -81,9 +81,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1938** 出生于美国。早年在加州理工学院获得理学学士学位，后转入芝加哥大学获得经济学硕士与博士学位。早期受托尔斯滕·舒尔茨（Theodore Schultz）等芝加哥学派[[Human Capital Theory|人力资本理论]]训练，但在拉美实地考察后彻底转向批判政治经济学。
 > - **1969–至今** 任教于斯坦福大学教育研究生院，历任副教授、正教授与 Vida Jacks 讲席教授，担任国际比较教育专业核心学术导师。
 > - **1974** 出版里程碑式专著《教育作为文化帝国主义》（*Education as Cultural Imperialism*），将新马克思主义[[Dependency Theory|依附理论]]引入教育学，开启了战后比较教育学的批判转向。
@@ -153,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** [[Joel Samoff]] — 斯坦福大学长期同事与合作者，合著《第三世界的教育与社会转型》（1990），共同剖析非洲与第三世界教育的依附政治经济学。
 > - **学术合作者** 亨利·莱文（Henry M. Levin） — 斯坦福大学经济学家与教育学家，合著《民主国家中的学校教育与工作》（1985），奠定资本积累与民主平权张力[[Analytic Framework|分析框架]]。
 > - **理论同盟** [[Carlos Alberto Torres]] — 共同推进比较教育学国家理论与拉美外围国家受限状态研究。
@@ -186,9 +182,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -196,4 +190,4 @@ updated: 2026-10-21
 > | [[Post-Fordism]] | 概念 | 分析后福特制灵活积累对全球劳动力技能、教育分轨与工作形态的宏观重塑。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 阐释依附性资本积累与早期工业化背景下拉美教育扩张的结构性动力与断裂悖论。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭露[[World Bank\|世界银行]]等跨国金融机构通过资助与实证垄断[[Disciplina and Doctrina\|规训]]第三世界教育政策的话语机器。 |
-> | [[Dependency Theory]] | 理论 | 将
+> | [[Dependency Theory]] | 理论 | 将中心-外围依附框架引入教育制度分析，奠定战后教育依附批判传统。 |

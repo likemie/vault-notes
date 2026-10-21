@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Alan Daly
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1990s–2000s** 早期曾长期担任美国公立基础教育阶段的教师、中小学校长及学区管理官员，积累了极其深厚的教育一线组织治理与危机应对经验；后于加利福尼亚大学圣塔芭芭拉分校（UCSB）获得教育学博士学位。
 > - **2006–至今** 加盟加利福尼亚大学圣迭戈分校（UCSD）教育研究系，历任助理教授、副教授、教授、系主任，现任杰出教授，创立了国际知名的教育网络与系统改进研究团队。
 > - **2010** 由哈佛教育出版社（Harvard Education Press）出版里程碑式著作《社会网络理论与教育变革》（*Social Network Theory and Educational Change*），确立了[[Network Analysis\|社会网络分析]]在教育政策与学校改进研究中的主导[[Paradigm\|范式]]地位。
@@ -114,18 +112,14 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 克服了教育管理学中长期存在的“实体主义”（Substantialism）与“[[Methodological Individualism\|方法论个体主义]]”偏误，将[[Network Society\|网络社会]]学、[[Social Capital Theory\|社会资本理论]]与社会网络理论系统嫁接到教育领导力与学校改进领域。
 > - **方法路径** 推动了教育研究从依赖传统属性数据（如年龄、教龄、学历）向收集并分析关联网状数据（Relational data）的方法论转型，将网络图谱、节点中心度与互惠指数转化为诊断学校组织健康度的核心指标。
 > - **实证应用路径** 与英国学者[[Chris Brown\|克里斯·布朗]]（Chris Brown）联合主导了英格兰 [[Research Learning Communities\|RLC]] 项目的基线测评设计，使[[Network Analysis\|社会网络分析]]成为追踪校际联盟与证据知情变革扩散的标准实证方法（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **重要合作者** [[Chris Brown]] — 长期开展跨国合作，共同开发了测度学校证据知情文化与关系网络的基线[[Questionnaire\|问卷]]及系列实证研究。
 > - **实证合作者** [[Toby Greany]] — 共同在英格兰[[Self-Improving School System\|自我改进学校系统]]与 [[Research Learning Communities\|RLC]] 项目中探讨校际横向伙伴关系与证据流动。
 > - **学术合作者** 卡拉·芬尼根（Kara S. Finnegan） — 长期合作运用[[Network Analysis\|社会网络分析]]研究美国学区改革与问责制度影响。
@@ -133,9 +127,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

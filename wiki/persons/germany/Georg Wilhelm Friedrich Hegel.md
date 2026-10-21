@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-12
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Georg Wilhelm Friedrich Hegel
@@ -71,9 +71,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1770** 出生于德国符腾堡公国斯图加特。
 > - **1788–1793** 就读于图宾根神学院，与荷尔德林（Friedrich Hölderlin）、[[Thomas Schelling|谢林]]（Friedrich Wilhelm Joseph Schelling）同窗研读哲学与神学，深受法国大革命思潮震荡。
 > - **1801–1806** 任教于耶拿大学，1807 年出版划时代哲学名著《精神[[Phenomenology|现象学]]》（*Phänomenologie des Geistes*）。
@@ -121,9 +119,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想激荡与哲学渊源** [[Immanuel Kant|康德]] — 黑格尔全面继承并推进了康德的主体性原则，扬弃了物自体与现象界的二元分裂，构筑了主客观统一的绝对唯心论体系。
 > - **[[Paideia|古典教化]]同道** 威廉·冯·洪堡（Wilhelm von Humboldt） — 普鲁士教育改革时期的思想同道，共同确立了以古典人文素养与哲学思辨为核心的现代大学与文科中学教育[[Paradigm|范式]]。
 > - **当代后现代批判论敌** [[Baruch Spinoza|斯宾诺莎]]、德勒兹与当代批判学者 — 借由内在性平面与情感力量，对黑格尔的国家目的论与理性规训体系展开解构。
@@ -146,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

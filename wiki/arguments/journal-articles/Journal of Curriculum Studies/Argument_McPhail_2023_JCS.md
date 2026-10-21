@@ -66,7 +66,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-22
 year: 2023
 doi: ""
 citation_aliases:
@@ -133,9 +133,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 使用 [[Curriculum Design Coherence Model\|CDCM]] 的翻译装置，基于 Bratland and El Ghami (2022) 为挪威课程改革研究开发的分析量规，分析[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]文件的两个方面：
 >
 > - 改革的目的声明和整体结构（学习进步和 UKD 结构）
@@ -143,9 +141,7 @@ citation_aliases:
 
 ---
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > 从课程改革的背景出发，经由[[Regulative and Instructional Discourse\|规约性话语]]分析和知识结构分析，到达课程改革主要关注规约性[[Discourse|话语]]而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的[[Epistemology\|认识论]]混乱，最后指出 UKD 框架的逻辑问题。
 
 ### 第一步：学科知识为何重要
@@ -325,9 +321,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - **[[Regulative and Instructional Discourse\|规约性话语]]主导**。课程改革主要关注创建规约性[[Discourse|话语]]，即道德和政治义务的话语，而非学科知识的识别和组织。
 > - **[[Recontextualization\|再脉络化]]原则的张力**。双文化主义、地方化和道德原则三种再脉络化原则之间存在潜在的[[Ontology\|本体论]]和[[Epistemology\|认识论]]张力。
 > - **[[Big Ideas\|大概念]]的不一致**。[[Big Ideas\|大概念]]在不同学科中的构想不同，有些捕捉知识，有些论证学科价值。
@@ -366,9 +360,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - **部分完成**。课程改革在分析时仍在进行中，许多学科尚未开发。但已有足够证据判断课程文件是否展示了向学科知识的更强转向。分析以十年级末（中学第二年）为例，这一阶段代表了学生在课程中进展的关键节点。
 > - **分析范围**。并非对[[Recontextualization\|再脉络化]]原则的完整分析，而是揭示了一种持续的折衷方法——试图将[[Epistemology\|认识论]]、理论和思想差异很大的各种取向整合在一起。例如，[[Mātauranga Māori\|毛利知识体系]]的核心关切与课程声称已转向关注学习进步和增长之间存在潜在的[[Ontology\|本体论]]和认识论张力，教师如何处理这种张力仍有待观察。
 > - **方法论说明**。分析使用了基于 Bratland and El Ghami (2022) 为挪威课程改革研究开发的分析量规，该量规基于 [[Curriculum Design Coherence Model\|CDCM]] 的原则。作者主要借鉴了模型的关键原则，而非其具体设计细节。

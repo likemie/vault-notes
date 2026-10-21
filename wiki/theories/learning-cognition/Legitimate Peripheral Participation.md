@@ -8,7 +8,7 @@ aliases:
 summary: "让·莱夫与埃蒂安·温格在情境学习理论中确立的学习科学奠基性理论；主张学习是行动者在真实实践共同体中，通过承担合法但非核心的边缘性职责，逐步浸润、掌握共同体的专业技能、文化工具并形成身份认同的社会化过程；在政策与治理研究中，该理论被创新性地用于解释学者跨界介入国家督导时的身份切换与边缘协商机制。"
 type: theory
 theory_field: "learning-cognition"
-theory_related_count: 9
+theory_related_count: 7
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -20,15 +20,13 @@ tags:
   - theme/research-use
   - theme/sociology-of-education
 related_concepts:
-  - "[[Constructivist Paradigm]]"
-  - "[[Professional Judgment]]"
   - "[[Research Utilization]]"
-  - "[[Epistemology]]"
+  - "[[Professional Judgment]]"
+  - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Embodied, Inscribed and Enacted Knowledge]]"
   - "[[Governing by Inspection]]"
-related_methods:
-  - "[[Case Study]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -38,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Legitimate Peripheral Participation
@@ -119,9 +117,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -31,7 +31,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Saturation
@@ -87,8 +87,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 将饱和作为[[Qualitative Research\|质性研究]][[Sample Size Determination\|样本量确定]]的核心标准，与预设样本量并列
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 将饱和作为参与式观察停止收集数据的判断标准（Adler & Adler, 1994, p. 380），强调在饱和点继续收集以验证[[Emergence\|涌现]]类别的价值（23.6 节）

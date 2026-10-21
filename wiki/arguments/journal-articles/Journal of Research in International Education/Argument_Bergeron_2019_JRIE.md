@@ -59,7 +59,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-05
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bergeron_2019_JRIE"
@@ -120,9 +120,7 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
-> [!logic-map|notitle]-
+> [!logic-map]- 论证结构
 > ```mermaid
 > flowchart LR
 >     A["调查教师对 TOK 的理念认同"] --> B["发现批判性思维与跨学科连接被视为最大价值"]

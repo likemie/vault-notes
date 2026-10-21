@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Outward-Oriented Internationalization
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 外向型[[Internationalization of Higher Education\|高等教育国际化]] | 内向型高等教育国际化 | 西方跨境商业教育输出 |
 > |------|----------------------|----------------------|----------------------|
 > | **战略核心驱动** | 国家地缘战略与全球[[Epistemic Governance\|知识治理]]责任 | 弥补国内办学短板与接轨国际先进水平 | 寻求跨国学费盈余与[[GATS and Trade in Education Services\|教育服务贸易]]扩展 |
@@ -139,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 理论局限与适用边界
-
-> [!theory-boundary|notitle] 理论局限与适用边界
+> [!theory-boundary] 理论局限与适用边界
 > - **适合分析** 转型期新兴大国（特别是金砖国家与东亚经济体）国家主导的外向型教育对外开放战略演进。
 > - **成立条件** 依赖强有力的中央财政支持与中央政策赋权，以及国内一批具备国际办学[[Competitiveness|竞争力]]的高水平大学支撑。
 > - **解释不足** 对基层高校教师与科研人员自下而上的学术合作能动性刻画有限，容易将国家战略意图简单等同于一线办学实践的全部动力。
@@ -149,8 +145,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 梳理外向型国际化概念谱系，以跨国多边大学联盟为实证对象检验其[[Knowledge Power|知识权力]]与[[Knowledge Diplomacy|知识外交]]运作机制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 系统记录[[Belt and Road Initiative|一带一路倡议]]下一系列外向型高等教育对外开放政策与校际科技合作实践。

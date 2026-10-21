@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Process-Oriented Guided Inquiry Learning
@@ -264,9 +264,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Procedural Skill
@@ -110,7 +110,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在[[Meta-analysis\|元分析]]中将程序性技能作为证据量最大的[[Dependent Variable\|结果变量]]亚组（$k = 42, g = 0.391$），论证了自适应即时反馈在分担外在认知负荷、加速产生式规则编译与技能自动化方面的稳固成效。

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jiang Menglin
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1886** 出生于浙江余姚。
 > - **1912–1917** 赴美留学，就读于哥伦比亚大学[[Normal School\|师范学院]]，师从[[John Dewey\|杜威]]获得博士学位。
 > - **1919** 创办并主编《新教育》杂志（*[[New Education Movement\|The New Education]]*），使之成为民国新教育运动的核心理论阵地。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
@@ -127,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** [[John Dewey]] — 哥大博士导师；[[Hu Shi]]、[[Tao Xingzhi]] — 哥大留美同事与杜威访华接待网络。
 > - **批评者／论敌** 蒋琦（1919） — 温和派教育家，反对蒋梦麟“全盘抹煞旧教育”的激进立场。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
 > - **机构／运动** [[New Education Movement]] — 运动领袖；《新教育》 — 创办人兼主编；北京大学 — 长期任校长。
@@ -153,9 +149,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

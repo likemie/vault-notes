@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # International Baccalaureate Six-Year Experiment
@@ -139,17 +139,13 @@ updated: 2026-10-21
 > [!warning] 解释边界
 > 这项试验没有形成随机或代表性抽样，也没有在本章完整报告预测效度研究。其主要证据是制度能否持续运行、进入不同学校并获得大学承认，因而更适合被理解为真实情境中的制度可行性试验，而不是受控的课程效果实验。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–68)]]
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **资格制度** IB从创制阶段进入可重复运行的跨国考试和大学资格网络。
 > - **组织制度** [[International Baccalaureate|IBO]] 从依赖个人关系和临时资助的项目转向有合同、收费、分权业务和政府代表的常设组织。
 > - **[[International Education\|国际教育]]** 试验显示国际课程的制度单位不是教学大纲，而是学校、评价、承认、行政和资金构成的闭环。
 > - **后续扩张** [[United World Colleges\|联合世界书院]]和北美学校的增长随后为 IB 提供更大规模的学校、师生和政治支持网络。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 66, 87–97)]]
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|

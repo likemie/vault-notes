@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Role-playing
@@ -189,9 +189,7 @@ updated: 2026-10-20
 
 ---
 
-## 领域应用与相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用与相关条目
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
@@ -209,7 +207,7 @@ updated: 2026-10-20
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 论证 | 实证检验大模型认知角色设定对促发[[Epistemology\|认识论]]扰动与评价主义立场的有效性。 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 论证 | [[Meta-analysis\|元分析]]确立角色扮演在促进[[Critical Thinking\|批判性思维]]中的最高教学干预[[Effect Size\|效应量]]。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11)]] | 论证 | 论证前沿软件开发与初创企业如同即兴演剧，依托地位解耦与试错演进保持活力。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法审计 | 揭示宏观[[Meta-meta-analysis\|元-元分析]]中将角色扮演的社会发展指标（换位思考、冲动抑制）错划为认知[[Academic Achievement\|学业成就]]的[[Dependent Variable\|因变量]]漂移缺陷。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法审计：揭示宏观[[Meta-meta-analysis\|元-元分析]]中将角色扮演的社会发展指标（换位思考、冲动抑制）错划为认知[[Academic Achievement\|学业成就]]的[[Dependent Variable\|因变量]]漂移缺陷。 |
 
 ---
 

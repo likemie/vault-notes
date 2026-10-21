@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Apollo Program
@@ -124,8 +124,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估阿波罗计划与国防大项目对美国计算机和半导体产业的经济、技术与人才影响，揭示了其在加速微型化演进、释放[[Learning Economy|学习经济]]与培育产业骨干中的关键机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引阿波罗登月计划作为激进非连续科技跃升的标尺，反思当代硅谷工程师野心异化、[[Consumer Internet|消费互联网]]狭隘化与[[Big Idea Famine|大构想饥荒]]。

@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Personal Construct Theory
 
@@ -56,9 +56,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -115,9 +113,7 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 个体层面的认知结构、个人意义建构、身份发展、价值系统层级；心理治疗和个人发展研究。
 > - **谨慎使用** 大规模组间比较研究中，当使用提供[[Construct\|构念]]时，需要验证所提供的构念是否对受访者有意义（如 Bell（2000）的单维性检验方法）。
 > - **不适合解释** 制度结构和社会系统层面的[[Causality\|因果关系]]；群体行为规律；教育政策的宏观效果。
@@ -125,9 +121,7 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 
 ---
 
-## 发展脉络
-
-> [!dev-timeline|notitle] 发展脉络
+> [!dev-timeline] 发展脉络
 > - **1955 — 理论创立** Kelly 出版 *The Psychology of [[Personal Constructs]]*，提出完整的形式化人格理论，包含基本公设和十一条推论，以及"[[Repertory Grid Technique\|角色建构库测验]]"的原始版本。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 > - **1965 — [[Laddering\|阶梯法]]诞生** Hinkle 将"蕴含"概念与组织推论链接，开发阶梯法和蕴含网格（Impgrid），将理论从静态建构描述扩展为建构层级关系的动态探索工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 8)]]
 > - **1968 — 方法化整合** Bannister and Mair 出版 *The Evaluation of Personal [[Construct\|constructs]]*，系统阐述 repertory grid 的方法论框架，包括提供构念与引发构念的调和立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 8)]]
@@ -149,7 +143,5 @@ Kelly 的理论来自临床经验。他观察到个体主动理解世界并扩�
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统介绍该理论作为 [[Repertory Grid Technique]] 的理论基础，涵盖基本公设、十一条推论及其方法论含义。

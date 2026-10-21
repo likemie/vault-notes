@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -153,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 全文以 APA 德尔菲专家共识为理论基底与[[Variable\|变量]]编码标准，量化检验了德尔菲技能与倾向的教学成效。
 > - [[Critical Thinking Disposition]] — 深入阐述德尔菲情意倾向维度的理论机制与[[Meta-analysis\|元分析]]数据。
 > - [[California Critical Thinking Disposition Inventory]] — 基于德尔菲七维度开发的经典测量工具。

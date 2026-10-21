@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Paulo Freire
@@ -179,9 +179,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

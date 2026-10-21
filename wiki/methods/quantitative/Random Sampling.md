@@ -12,7 +12,7 @@ summary: "从研究总体中按非零且已知概率选取样本单元的方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -21,9 +21,7 @@ tags:
   - quantitative-research
   - survey
 related_concepts:
-  - "[[Unit of Analysis]]"
   - "[[External Validity]]"
-  - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Response Bias]]"
   - "[[National Large-Scale Assessments]]"
@@ -31,21 +29,22 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Sampling Frame]]"
+  - "[[Random Assignment]]"
   - "[[Systematic Sampling]]"
   - "[[Stratified Sampling]]"
   - "[[Cluster Sampling]]"
   - "[[Stage Sampling]]"
-  - "[[Random Assignment]]"
   - "[[Multi-phase Sampling]]"
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Random Sampling
@@ -79,10 +78,10 @@ updated: 2026-10-21
 > - **不声称回答的问题** 随机抽样仅保障样本对总体的统计代表性，不能单独回答因果机制问题（因果推断需要依托研究设计本身的实验控制或反事实构建）；在政策问责中，基于样本的抽样监测无法直接输出针对单一学校或具体教师的微观绩效评定。
 
 > [!contrast-table] 随机抽样 vs 随机分配
-> | 比较维度 | 随机抽样（Random Sampling） | [[Random Assignment|随机分配]]（Random Assignment） |
+> | 比较维度 | 随机抽样（Random Sampling） | [[Random Assignment\|随机分配]]（Random Assignment） |
 > |---|---|---|
 > | **核心关切** | **谁**被选入样本研究（选样阶段） | 已进入样本的被试**如何**分配至各实验组（分配阶段） |
-> | **效度目标** | 确保样本向总体的统计推广力（[[External Validity|外部效度]]） | 消除组间系统性混淆变量，确立因果推断（[[Internal Validity|内部效度]]） |
+> | **效度目标** | 确保样本向总体的统计推广力（[[External Validity\|外部效度]]） | 消除组间系统性混淆变量，确立因果推断（[[Internal Validity\|内部效度]]） |
 > | **独立性** | 可独立应用于调查研究与宏观监测 | 可独立应用于实验室实验或真实情境临床试验 |
 
 > [!method-stack] 方法层级
@@ -109,11 +108,11 @@ updated: 2026-10-21
 > | 类型 | 英文 | 核心机制与特征 | 典型适用场景 |
 > |---|---|---|---|
 > | 简单随机抽样 | Simple Random Sampling | 每个总体成员享有均等、独立的被选入机会；依赖完整详尽名单 | 总体规模有限且分布集中、具备完整抽样框的小规模研究 |
-> | [[Systematic Sampling|系统抽样]] | Systematic Sampling | 随机确定起始点，按照固定间隔（$k = N/n$）等距抽取 | 具备名录清单且数据排列无周期性波动的流水式连续抽样 |
-> | [[Stratified Sampling|随机分层抽样]] | Stratified Sampling | 先按关键变量（如城乡、公私立）分层，再在层内执行独立随机抽样 | 总体异质性高、需确保少数边缘子群具备统计分析代表性 |
-> | [[Cluster Sampling|整群抽样]] | Cluster Sampling | 随机抽取自然群组（如学校、村落），调查群内所有最终单元 | 总体地域辽阔分散、缺乏个体名单但具备集群名录的大规模调查 |
-> | [[Stage Sampling|阶段抽样]] | Stage Sampling | 逐级分层抽取集群，并在最后一级抽取样本个体（多级随机化） | 教育系统嵌套结构（先抽区县、再抽学校、最终抽选班级或学生） |
-> | [[Multi-phase Sampling|多阶段抽样]] | Multi-phase Sampling | 在大样本中收集基础信息，随后在子样本中跟进采集深度指标 | 需要分层次开展深度测试或后续定点追踪的复杂混合调查 |
+> | [[Systematic Sampling\|系统抽样]] | Systematic Sampling | 随机确定起始点，按照固定间隔（$k = N/n$）等距抽取 | 具备名录清单且数据排列无周期性波动的流水式连续抽样 |
+> | [[Stratified Sampling\|随机分层抽样]] | Stratified Sampling | 先按关键变量（如城乡、公私立）分层，再在层内执行独立随机抽样 | 总体异质性高、需确保少数边缘子群具备统计分析代表性 |
+> | [[Cluster Sampling\|整群抽样]] | Cluster Sampling | 随机抽取自然群组（如学校、村落），调查群内所有最终单元 | 总体地域辽阔分散、缺乏个体名单但具备集群名录的大规模调查 |
+> | [[Stage Sampling\|阶段抽样]] | Stage Sampling | 逐级分层抽取集群，并在最后一级抽取样本个体（多级随机化） | 教育系统嵌套结构（先抽区县、再抽学校、最终抽选班级或学生） |
+> | [[Multi-phase Sampling\|多阶段抽样]] | Multi-phase Sampling | 在大样本中收集基础信息，随后在子样本中跟进采集深度指标 | 需要分层次开展深度测试或后续定点追踪的复杂混合调查 |
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含分层标识、集群编号与个体抽样权重的层次化横截面调查数据库。
@@ -171,9 +170,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

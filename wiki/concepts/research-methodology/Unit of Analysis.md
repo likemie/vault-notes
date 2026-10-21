@@ -131,7 +131,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Unit of Analysis
@@ -363,9 +363,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1810s–1880s — 第一代“[[Scholiocentric Approach|以校为中心]]”孤立微观办学单位** [[Victor Cousin|库森]]（Cousin, 1831）、[[Horace Mann|霍勒斯·曼]]（Mann, 1844）与巴纳德（Barnard, 1854）等行政视察官员将学校视作单纯的教学场所进行孤立描述（scholiocentric），以学校内部章程与科目教法为考察单元，充当立法游说的合法化工具。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–141)]]
 > - **1900 — 第二代“民族国家整体体系”分析单位奠定** [[Michael Sadler|迈克尔·萨德勒]]（Sadler, 1900）在牛津演讲中确立“民族国家教育体系”为核心分析单位，强调[[Intangible Spiritual Forces|校外无形精神力量]]的决定性作用，终结了以校为中心的碎片化借用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **19 世纪中叶–20 世纪 — 民族国家制度容器确立** 随着现代民族国家确立公共教育主权垄断，以领土主权为边界的国民教育学制成为比较教育学最持久、最主要且被视为[[Doxa|不言自明]]的经验分析单位。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94)]]
@@ -454,9 +452,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -487,9 +483,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统剖析[[Meta-meta-analysis|二级元分析]]中的“分析单位错位错误（Unit-of-Analysis Error）”，论证文献重叠如何破坏独立性假定，确立宏观[[Research Synthesis|证据综合]]必须穿透至底层独立原始研究的技术基准（pp. 24–25, 29–30）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判比较教育学中的“[[Methodological Nationalism|方法论民族主义]]”，系统确立资本主义世界经济体作为基准分析单位，并运用[[Pluri-Scalar Governance|多标度治理]]与微观[[Comparative Case Study|比较案例研究]]重构空间与行动者分析单位（pp. 101, 104, 108–111）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 批判比较教育的[[Methodological Statism|方法论国家主义]]，整合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]，将分析单位重构为由五大结构位置构成的跨国网络流通模型（pp. 341–344, 349–351）。

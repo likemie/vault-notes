@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Cross-checking
 
@@ -81,9 +81,7 @@ Kitwood（1977）推荐的实践是两位以上研究者独立提出类别系统
 > - **误用风险** 将交叉检查的结果等同于"客观性"或"[[Reliability\|信度]]"保证；忽视协商过程中的权力动态。
 > - **补救方式** 与非研究者（如参与者）的[[Member Tests\|成员核验]]结合使用；记录协商过程中每位研究者的初始立场和最终共识的形成过程。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

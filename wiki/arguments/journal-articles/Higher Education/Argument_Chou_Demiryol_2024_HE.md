@@ -69,7 +69,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Chou_Demiryol_2024_HE
 
@@ -313,9 +313,7 @@ updated: 2026-10-20
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 实证材料主要来自官方政策文本、组织章程、媒体报道与公开发布的年度报告等案头文献，缺少对联盟行政管理者、高校师生等利益相关者的实地[[Questionnaire|问卷调查]]与深度[[Qualitative Interview|质性访谈]]。（pp. 1699, 1704–1705）
 
 ---

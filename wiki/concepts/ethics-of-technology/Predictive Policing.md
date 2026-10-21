@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Predictive Policing
@@ -63,9 +63,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 预测性警务（Predictive Policing） | 传统反应型警务（Reactive Policing） | 普遍无差别监视（Mass Surveillance） |
 > |:---|:---|:---|:---|
 > | **行动逻辑** | 基于多源数据关联，主动预先介入潜在暴力热点 | 案发后被动出警，依赖人工记忆与单线报案 | 对所有社会成员实施全天候数据抓取与行为画像 |
@@ -74,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多源异构数据融合（Multi-Source Data Integration）** 将原本孤立分布于各部门的涉枪记录、车辆轨迹、通话关联与现场勘验数据整合至统一底层本体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–175)]]
 > - **暴力网络链路发现（Criminal Network Linkage）** 识别复杂犯罪集团内部层级、枪支流转路径与潜在报复性冲突节点。
 > - **合规与[[Audit Trail|审计跟踪]]（[[Strategic Compliance|compliance]] and Auditability）** 设立细粒度访问权限控制，确保每一次线索调阅均有据可查并符合法定授权程序。
@@ -130,7 +126,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|Karp & Zamiska (2025)]] — 详述[[Palantir Technologies|帕兰提尔]]在新奥尔良的预测性警务实践及由此引发的全国性科技与司法伦理大论战。

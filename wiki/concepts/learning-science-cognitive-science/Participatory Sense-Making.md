@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Participatory Sense-Making
@@ -115,16 +115,12 @@ updated: 2026-10-21
 
 ---
 
-### 命题总览
-
-> [!contrast-table|notitle] 命题总览
+> [!contrast-table] 命题总览
 > | 命题类型 | 核心指向 | 理论贡献 | 代表学者 |
 > |---|---|---|---|
 > | **具身交互与反还原论命题** | 教学理解是师生身体互动中的动态协同生成 | 瓦解单向信息输入与可见指标测量的行为主义迷思 | Fuchs & De Jaegher; Larsen |
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 引入福克斯与德耶格尔的参与式意义建构理论，论证课堂互动作为生成主体间性的复杂性，构筑抗衡可见学习监控[[Paradigm|范式]]的具身认知防线。

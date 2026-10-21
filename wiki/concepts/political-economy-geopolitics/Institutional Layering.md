@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 concept_field: political-economy-geopolitics
 tags:
   - theme/institutional-change
@@ -41,12 +41,12 @@ related_theories:
   - "[[Realist Evaluation]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Kathleen Thelen]]"
   - "[[James Mahoney]]"
   - "[[Jeroen van der Heijden]]"
-  - "[[Michael Fullan]]"
   - "[[Ray Pawson]]"
 related_facts:
   - "[[EU]]"
@@ -54,10 +54,11 @@ related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Institutional Layering
@@ -184,9 +185,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1940年代–1970年代 — 官僚层级增厚研究** 早期行政学文献使用层叠描述多级政府机构层级扩张与职权叠加，重点揭示多层管辖权冲突与责任模糊问题。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **1980年代–1990年代 — [[Regulatory Ratchet|规制累积]]与工具增多** 规制研究引入层叠描述法律与劳动规制条款的层层加码，凝练出[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet）隐喻，揭示合规体系的过度复杂化负担。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **2000年代初 — 希伦奠定[[Historical Institutionalism|历史制度主义]]核心机制** [[Kathleen Thelen|凯瑟琳·希伦]]（[[Kathleen Thelen]]）等学者将层叠提升为历史制度主义四大渐进变迁支柱之一，系统界定其通过增设规则改变原有规则行为结构的机制内涵。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
@@ -245,9 +244,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 运用历史制度主义与政策工具社会学，系统追踪国家大规模评估与问责工具如何在旧行政体制上通过分层累加实现单向度扩张，并以外包同盟锁定体制。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊文献中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。

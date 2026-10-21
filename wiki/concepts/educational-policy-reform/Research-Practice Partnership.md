@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research-Practice Partnership
@@ -120,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 研究-实践伙伴关系（RPP） | 传统课题委托/外包咨询 | [[Professional Learning Community\|专业学习共同体]]（PLC） | [[Knowledge Mobilisation\|知识动员]]（KMb） |
 > |---|---|---|---|---|
 > | **协作时长与机制** | 长期互惠、制度化组织协同 | 短期契约、项目周期内交付 | 学校内部教师常态化教研 | 覆盖全生命周期的过程性、系统性战略 |
@@ -217,9 +215,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000–2011 — 英格兰 [[Teaching and Learning Research Programme\|TLRP]] 的早期伙伴关系探索** 英格兰实施“教学与学习研究计划”（Teaching and Learning Research Programme, TLRP），将用户参与、伙伴关系可持续性、团队[[Knowledge Production\|知识生成]]与专业能力建设确立为战略基石，开创了国家级 RPP 先河。[[Argument_Revai_2022_ChangingLandscape\|(OECD, 2007; Révai, 2022, p. 20)]]
 > - **2006 — [[Engaged Scholarship\|参与式学术]]奠定[[Epistemology\|认识论]]基石** Van de Ven and Johnson (2006) 提出“参与式学术”，将理论-实践鸿沟界定为[[Knowledge Production\|知识生产]]方式问题，确立了研究者与实践者协同共创的正当性。
 > - **2010s — 美国学区-大学伙伴关系兴起与工具开发** 美国大批城市学区（如芝加哥、巴尔的摩、纽约）与顶尖大学建立制度化 RPP；[[National Center for Research in Policy and Practice\|NCRPP]] 与 Coburn 等学者开始系统解构 RPP 对教育者心智模式与三类[[Research Utilization\|研究使用]]的深层影响。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 132)]]
@@ -317,9 +313,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在特刊导言中将 RPP 确立为[[Knowledge Mobilisation\|知识动员]]的关键伙伴关系策略，详细阐述安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 全系统网络与 Wentworth et al. 的成效[[Scale of Measurement\|测量量表]]。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 从[[Knowledge Production\|知识生产]]方式演进（Van de Ven & Johnson, 2006）与复杂系统视角，梳理英格兰 [[Teaching and Learning Research Programme\|TLRP]]、[[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]及高校跨界合作机制，深刻揭示学术发表激励错位与[[Knowledge Co-production\|知识共创]]的深层张力。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 基于 [[OECD]] 跨国政策调查，实证测度大学-中小学网络在研究生产、政策促成与教学实践转化三端的活跃度，揭示其在多国实践转化功能上的断层与未制度化现实。

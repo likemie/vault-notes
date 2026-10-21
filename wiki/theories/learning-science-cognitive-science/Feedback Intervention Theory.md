@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Feedback Intervention Theory
@@ -190,9 +190,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 明确[[Task Structure|良构任务]]中的反馈设计、标准化[[Homework|作业]]评价、企业绩效辅导与计算机化练习界面。
 > - **成立条件** 必须存在可识别的目标标准与反馈回馈渠道；受试者必须能够理解反馈的认知含义并有能力采取修正行动。
 > - **解释不足** 理论主要建立在短期任务表现与实验心理学任务之上，对长周期师生交往中建立的信任关系、文化认同与深层社会情感联系的解释力相对有限。
@@ -219,8 +217,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 深度审查哈蒂对克鲁格与德尼西（1996）[[Meta-analysis|元分析]]的剪裁与遮蔽，以 FIT [[Falsification|证伪]]反馈普适强效神话（pp. 10–12）。
 > - [[Feedback]] — 将 FIT 的三层级注意力控制模型作为界定教学反馈边界与防范负效应的核心理论支柱。

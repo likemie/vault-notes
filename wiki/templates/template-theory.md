@@ -55,9 +55,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -143,9 +141,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 该理论在哪些问题、对象、层次和情境中有解释力。
 > - **成立条件** 使用它需要哪些前提、材料或研究设计。
 > - **解释不足** 哪些重要机制、主体或现象未被充分说明；注明是原作者自述、后续研究发现还是本条目的推断。
@@ -184,7 +180,5 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验、修正或批评该理论。

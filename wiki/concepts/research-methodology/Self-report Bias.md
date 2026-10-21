@@ -63,7 +63,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-07-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Self-report Bias
@@ -202,9 +202,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s — 心理测量学与社会期望量表的开创** Allen Edwards（1957）与 Marlowe and Crowne（1960）确立社会期望（Social Desirability）量表，首次尝试在人格测验中量化并剥离受访者的自报美化倾向。
 > - **1980s–2000s — 认知调查方法学（CASM）与应答四阶段模型确立** Roger Tourangeau 等人（2000）发表《调查应答的心理学》，将认知心理学引入[[Questionnaire\|问卷]]方法，系统确立包含理解、检索、判断与编辑的四阶段信息处理框架，从机制上阐明自报偏差的生成路径。
 > - **2010s — 教育研究方法学的系统规约与模式效应拓展** [[Louis Cohen\|Louis Cohen]]、Lawrence Manion 与 Keith Morrison（2011）在《教育研究方法》中系统总结自报的三重偏差机制（低报、高报、理解不一致），并结合 Dale（2006）与 Fowler（2009）梳理施测媒介（网络、电话、面对面）与情境波动对自报偏差的调节影响。
@@ -258,9 +256,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d, pp. 262–265)]] — 系统阐明[[Survey Research\|调查研究]]中自报偏差的三重机制（低报、高报、理解不一致）与回忆偏差，以及数据收集方式对偏差的调节作用。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 76–80, 93)]] — 在[[OECD\|经合组织]] 29 国政策调查中深刻反思部委单一自陈调查的局限性，揭示部委自陈偏高掩盖基层学校阻力的方法论偏差，以及跨国文化基准[[Heterogeneity\|异质性]]。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 通过对 568 名在职教师的心理测量学调查，实证揭示教师自陈科研态度（4.37）与实际使用行为（3.78）之间的知行断层与自报赞许效应。

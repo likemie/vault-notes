@@ -9,7 +9,7 @@ summary: "智利公共政策与教育研究学者，经合组织教育研究与�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 24
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,8 +43,7 @@ related_methods:
   - "[[Meta-analysis]]"
 related_instruments:
   - "[[Strengthening the Impact of Education Research Policy Survey]]"
-related_persons:
-  - "[[José Manuel Torres]]"
+related_persons: []
 related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[OECD]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # José Manuel Torres
@@ -76,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **2010 年代初** 获得智利天主教大学（Universidad Católica de Chile）经济与工商管理学士学位，并在智利与法国参与区域社会经济学实证调查。
 > - **2010 年代中** 赴法国巴黎第一大学（先贤祠-索邦大学，Pantheon-Sorbonne University）深造，获公共政策硕士学位。
 > - **2016–2019** 任职于智利基金会（Fundación Chile），主持一线学校创新教育项目与教学改进干预的研发与落地，积累了跨越学校实践与政策设计的实务经验。
@@ -119,9 +116,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** Nóra Révai — [[Centre for Educational Research and Innovation\|OECD CERI]] 项目负责人兼《谁在乎教育研究的政策与实践应用？》主编，与 Torres 共同主导了整个跨国调查的设计与分析统筹。
 > - **机构／运动／项目** [[OECD]] — 国际政府间经济与政策组织，项目委托与执行依托主体。
 > - **机构／运动／项目** [[Centre for Educational Research and Innovation]] — 经合组织教育研究与[[Innovation Hub\|创新中心]]，研究[[Knowledge Mobilisation\|知识动员]]专项推进机构。
@@ -136,9 +131,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

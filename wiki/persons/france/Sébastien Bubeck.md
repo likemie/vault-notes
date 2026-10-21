@@ -9,10 +9,10 @@ summary: "法国计算机科学家与机器学习专家，前微软研究院通�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 10
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 9
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1985"
 lifespan: "1985–至今"
 tags:
@@ -30,7 +30,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Sébastien Bubeck]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts: []
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Sébastien Bubeck
@@ -60,9 +59,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1985** 出生于法国。
 > - **2010** 毕业于里尔第一大学（University of Lille），获得应用数学与计算机科学博士学位，专注多臂老虎机（Multi-Armed Bandits）与凸优化理论。
 > - **2011–2014** 任教于普林斯顿大学运筹与金融工程系，从事机器学习基础理论研究。

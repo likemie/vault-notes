@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 ## 简介
 
@@ -46,9 +46,7 @@ updated: 2026-10-16
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle]
+> [!note] 生平与职涯
 > - 1857年出生于英国伦敦
 > - 1904年在《英国医学杂志》发表伤寒疫苗接种数据的跨研究合并分析，首次提出合并多项研究数据以回答因果问题的思想([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.33]])
 > - 担任伦敦大学学院[[Francis Galton|高尔顿]]优生学教授及高尔顿实验室主任
@@ -56,9 +54,7 @@ updated: 2026-10-16
 
 ---
 
-## 主要著作
-
-> [!abstract|notitle]
+> [!abstract] 主要著作
 > - Pearson, K. (1904). Report on certain enteric fever inoculation statistics. *The British Medical Journal*, 2(2288), 1243–1246. — 首次尝试合并多项研究数据以判断疫苗效果，并探索效果变异的原因。
 
 ---
@@ -77,9 +73,7 @@ updated: 2026-10-16
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - Pearson 的工作为[[Meta-analysis\|元分析]]奠定了思想基础——合并多项研究数据以获得更可靠结论，同时探索效果变异的原因
 > - 他预见了[[Randomised Controlled Trials\|随机对照试验]]在评估干预效果中的作用
 > - 其[[Pearson Product-Moment Correlation\|积差相关]]系数和[[Chi-Squared Test\|卡方检验]]至今仍是统计学的基础工具

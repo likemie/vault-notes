@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Virtual World
@@ -196,7 +196,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 系统介绍虚拟世界作为教育研究工具的内涵、理论基础（[[Complexity Theory\|复杂性理论]]、基于主体建模、[[Ideal Speech Situation\|理想言说情境]]）、五大应用方向、完整操作程序和伦理议题，并以公民教育虚拟世界研究（Martin, 2010）为案例展示完整的研究设计。

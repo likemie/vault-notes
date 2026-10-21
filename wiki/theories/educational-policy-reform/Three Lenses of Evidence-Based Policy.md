@@ -9,10 +9,10 @@ aliases:
 summary: "布赖恩·W·黑德提出的公共政策与治理分析理论；打破了政策决策仅依赖客观科学研究的实证主义假定，指出真实政策世界的循证基础由三重互不重合但相互交织博弈的知识透镜共同建构：系统性学术证据、项目与实践经验证据以及政治证据；在教育治理中，该框架揭示了行政系统为何往往以政治透镜为主导来选择、裁剪与包装学术研究。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 12
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 9
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 subtype: educational-policy-reform
 tags:
   - theory/educational-policy-reform
@@ -21,18 +21,15 @@ tags:
   - theme/research-use
   - theme/policy-analysis
 related_concepts:
+  - "[[Assemblage]]"
+  - "[[Recontextualization]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Research Utilization]]"
-  - "[[Social Science as Legitimation Alibi]]"
   - "[[Technical Rationality]]"
-  - "[[Policy Borrowing]]"
-  - "[[State Simplification]]"
+  - "[[Social Science as Legitimation Alibi]]"
 related_theories:
   - "[[Embodied, Inscribed and Enacted Knowledge]]"
-  - "[[Governing by Inspection]]"
-related_methods:
-  - "[[Systematic Review]]"
-  - "[[Case Study]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -42,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Three Lenses of Evidence-Based Policy
@@ -123,9 +120,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

@@ -69,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Shape-Shifting
@@ -264,9 +264,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2009_CE|Cowen (2009b)]] — 提出“移动即变形”的理论命题，系统批评比较教育学[[Methodological Nationalism|方法论民族主义]]，援引美式蓝图在战后日本与西德截然相反演化的学制实证（Shibata, 2005），奠定形变理论的基石。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将形变理论运用于[[Network Society|网络社会]]政策分析，通过巴西中等教育改革中国家政策对跨学科[[Discourse|话语]]与 14 门传统分科的杂糅并置，实证揭示全球话语在国家政策翻译中的形态变异。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建五位置[[Champ|场域]]流通模型，深入剖析国际组织紧迫[[Pragmatic Paradigm|实用主义]]驱动的话语截断、拉美[[Gatekeepers|守门人]]垄断机制，以及阿根廷教师翻抄商业教辅图书目录与巴阿两国实训改革瘫痪等微观实践反常形变，提出外来残枝枯萎亦改变本土生态的微生物隐喻。

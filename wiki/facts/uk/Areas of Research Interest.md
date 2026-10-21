@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Areas of Research Interest
@@ -90,17 +90,13 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > 1. **终结政策循证的供需脱节** 推动大学科研界告别闭门造车，使高质量学术证据能够精准滴灌国家最迫切的民生与发展痛点。
 > 2. **警惕学术独立性遭[[Pragmatic Paradigm\|实用主义]]收口** 过于功利地将科研项目与政府当下 ARIs 绑定，可能压缩纯基础科学研究的生存空间；必须兼顾探索性研究与政策导向研究的生态平衡。
 
 ---
 
-## 相关条目
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

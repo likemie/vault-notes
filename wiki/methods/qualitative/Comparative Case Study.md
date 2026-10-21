@@ -76,16 +76,16 @@ related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Comparative Case Study
@@ -179,9 +179,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

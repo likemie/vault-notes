@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Jack Douglas
@@ -73,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1937** 出生于美国，早年在普林斯顿大学接受严格的社会学理论与方法论训练，获社会学博士学位。
 > - **1967** 出版博士论文《自杀的社会意义》（*The Social Meanings of Suicide*），彻底颠覆涂尔干自杀论的实证神话，证明官方自杀统计数据实质上是验尸官与官方官僚机构分类建构的产物。
 > - **1969–1990s** 长期执教于加州大学圣迭戈分校（UCSD），汇聚舒茨[[Phenomenology\|现象学]]、常人方法学与存在主义哲学，开创极具影响力的“UCSD 日常生活社会学派”。
@@ -120,9 +118,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论承继** [[Alfred Schutz]] — 继承舒茨[[Phenomenology\|现象学]]社会学关于日常生活世界常识知识的深层学理脉络。
 > - **学派共鸣** [[Harold Garfinkel]] — 与常人方法学创始人加芬克尔呼应，共同清算[[Positivism\|实证主义]]统计神话。
 > - **[[Paradigm\|范式]]批判对象** [[Auguste Comte]] — 道格拉斯的[[Normative Paradigm\|规范范式]]精准概括了孔德以降实证主义企图用自然科学铁律统一社会世界的宏大野心。
@@ -141,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

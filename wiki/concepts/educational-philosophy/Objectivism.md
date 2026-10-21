@@ -7,7 +7,7 @@ aliases:
 summary: "研究社会现实的客观主义取向，持实在论本体论和实证主义认识论，将社会世界视为外在于个体的客观实在，以发现普遍法则为研究目标；在现代教育治理中，其科学决策与量化排位修辞被超国家机构塑造成无可置疑的客观主义品牌以推进去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,33 +17,26 @@ tags:
   - theme/research-philosophy
   - theme/educational-governance
 related_concepts:
-  - "[[Nomothetic]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Scientific Method]]"
   - "[[Determinism]]"
-  - "[[Technical Rationality]]"
-  - "[[Commensuration]]"
-  - "[[Governing by Numbers]]"
-  - "[[Space of Equivalence]]"
+  - "[[Nomothetic]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Burrell and Morgan Four Assumptions Framework]]"
 related_methods:
-  - "[[Quantitative Research]]"
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons:
-  - "[[Kerstin Martens]]"
-related_facts:
-  - "[[OECD]]"
-  - "[[PISA]]"
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Objectivism
@@ -78,10 +71,10 @@ updated: 2026-10-21
 > [!contrast-table] 客观主义与主观主义范式对比
 > | 比较维度 | 客观主义取向（Objectivism） | 主观主义取向（Subjectivism） |
 > |---|---|---|
-> | **[[Ontology|本体论]]** | 实在论（Realism）：社会实在是外在于个体的客观存在 | 唯名论（Nominalism）：社会世界是由标签、概念与主体创造的名称组合 |
-> | **[[Epistemology|认识论]]** | [[Positivism|实证主义]]（Positivism）：知识是硬性的、客观的、可检验与可累积的 | 反实证主义（Anti-positivism）：知识具有主观体验性与特定情境浸润性 |
-> | **人性假设** | [[Determinism|决定论]]（Determinism）：人受制于外部环境与社会结构因果律驱动 | 意志论（Voluntarism）：人是具有完全自由意志与创造潜能的自主行动者 |
-> | **方法论取向** | [[Nomothetic|通则式]]（Nomothetic）：追求普适规律、标准化量化测度与数学建模 | 表意式（Ideographic）：追求情境深度理解、个案诠释与第一人称叙事 |
+> | **[[Ontology\|本体论]]** | 实在论（Realism）：社会实在是外在于个体的客观存在 | 唯名论（Nominalism）：社会世界是由标签、概念与主体创造的名称组合 |
+> | **[[Epistemology\|认识论]]** | [[Positivism\|实证主义]]（Positivism）：知识是硬性的、客观的、可检验与可累积的 | 反实证主义（Anti-positivism）：知识具有主观体验性与特定情境浸润性 |
+> | **人性假设** | [[Determinism\|决定论]]（Determinism）：人受制于外部环境与社会结构因果律驱动 | 意志论（Voluntarism）：人是具有完全自由意志与创造潜能的自主行动者 |
+> | **方法论取向** | [[Nomothetic\|通则式]]（Nomothetic）：追求普适规律、标准化量化测度与数学建模 | 表意式（Ideographic）：追求情境深度理解、个案诠释与第一人称叙事 |
 > | **组织哲学** | 组织是独立于个体的理性秩序实体，具备目标导向与客观生命 | 组织是行动者持续互动与意义协商维持的主观社会产物 |
 > | **政策应用形态** | 跨国指标排位、效应量工具包、客观主义品牌科学决策 | 教师情境实践智慧、行动研究、校本民主审议 |
 
@@ -146,9 +139,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **19 世纪 — [[Positivism|实证主义]]传统与客观实在论奠基** 孔德等实证主义哲学家倡导以自然科学方法考察社会现象，奠定客观主义在社会学中的认识论主导地位。
 > - **1975 — 格林菲尔德反思组织研究客观实在论** 托马斯·巴尔·格林菲尔德系统反思组织理论，批判将教育组织视作具有独立生命的客观实体的实在论倾向。
 > - **1979 — 伯勒尔与摩根提出四组假设主客观框架** 《社会学范式与组织分析》系统划分主观–客观哲学维度，形式化确立客观主义在本体论、认识论、人性和方法论上的四组假设。
@@ -183,14 +174,12 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 27–28)]] | 经合组织（OECD）历年教育政策出版物与跨国决策反响 | 政策文献历史溯源与跨国决策话语考证 | 客观主义科学决策品牌认可度、跨国同行审议采纳率 | 确证经合组织依靠“客观主义品牌”确立了全球无可辩驳的政策声誉；其比较转向成功将政策争端转换为客观数据评估，被学术界与政界广泛奉为科学决策典范 | 质性政策史料饱和考证 | 证实客观主义在宏观教育治理中已转化为核心的合法性象征资本 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]] | 教育研究哲学范式文献库与组织理论流派 | 哲学比较分析与范式元综合 | 主观–客观四组核心假设与组织分析十维度指标 | 系统归纳实在论、实证主义、决定论与通则式方法构成的客观主义四联矩阵，确立了其与唯名论、反实证主义、意志论与表意式主观矩阵的对称映射 | 逻辑与概念推导饱和 | 明确了客观主义作为现代实证教育研究主流哲学基石的形式化边界 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统阐述教育研究哲学的客观主义范式传统，解构 Burrell & Morgan 四组假设与 Greenfield 组织哲学十维度特征。

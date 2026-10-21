@@ -31,7 +31,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Epistemic Climate
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **Feucht (2010)** — 探讨了课堂[[Epistemology\|认识论]]环境如何影响个体的认知发展，强调了环境不仅是背景，更是积极的塑造力量。
 > - **Muis and Duffy (2013)** — 通过实证设计展示了特定的[[Constructivist Paradigm\|建构主义]]干预如何重塑课堂的认识论氛围，进而提高学生的自律学习与概念理解。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将认识论氛围确立为[[Integrative Pluralism\|整合多元主义]]的第三大聚合层级，并指出对它的研究必须依赖[[Ethnography\|民族志]]或宏观系统观察，而不能依赖个体[[Questionnaire\|问卷]]。

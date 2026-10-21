@@ -55,7 +55,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-21
+updated: 2026-10-22
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -157,9 +157,7 @@ aliases:
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1950s–1970s — 冷战国防采购实践探索** 美国军方与[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）通过对半导体器件和大型计算机的 100% 首发托底采购，创造了需求侧政策塑造微电子革命的历史经验原型。
 > - **1978 — 战后高科技采购微观[[Learning Economy|学习经济]]实证奠基** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与[[John E. Tilton|蒂尔顿]]（Tilton, 1971）实证揭示空间与国防采购对半导体、集成电路和计算机的初期拉动作用，确立 100% 首购托底与累计产量倍增导致成本下降 20%–30% 的微观需求侧传导机制。
 > - **1980s — 创新政策工具箱系统分类** 罗思韦尔（Roy Rothwell）在《工业创新与政府政策》中系统提出公共采购、法规标准与用户补贴等需求侧创新政策工具分类。
@@ -200,9 +198,7 @@ aliases:
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
@@ -218,9 +214,7 @@ aliases:
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 跨越 150 年历史梳理三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，系统阐述公共采购与需求侧工具在塑造新兴战略市场中的决定性地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析战后美国军方半导体、计算机与软件采购合同如何充当创新奖金与先导用户，降低新创企业进入壁垒并催生商用通用市场，同时揭示需求侧采购在技术成熟期的效力衰减边界与能源政策启示。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机产业发展的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何释放 20%–30% 的[[Learning Economy|学习经济]]效应并促使硬件价格暴跌十倍以上。

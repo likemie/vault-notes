@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-09-16
+updated: 2026-10-22
 ---
 
 # Mode 2 Knowledge Production
@@ -96,9 +96,7 @@ Mode 2 与 产学研发合作（UICs）高度一致：UIC 本身就是一种大�
 
 ---
 
-## 近期发现：互补性可以缓解张力
-
-> [!success|notitle]
+> [!success] 近期发现：互补性可以缓解张力
 > 传统观点认为产业合作与学术产出之间存在零和关系——投入产业活动的时间必然挤占发表时间。但近年的实证研究提供了更细致的理解([[Argument_Cohen_2025_JTT\|Cohen et al., 2025, p.348]])：
 
 - Bikard et al.（2019）发现，当 UIC 建立在预期互补性（资源、技能、设备、任务分配）之上时——即产业成员负责商业化、学术成员负责科学产出——双方的产出都能增加，而非此消彼长

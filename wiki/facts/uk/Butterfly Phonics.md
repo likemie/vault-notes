@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Butterfly Phonics
@@ -114,9 +114,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Butterfly Phonics 列为初等阅读高年级 Tier 2 教师小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何在高年级小初衔接阶段设置拼读补救防线。
 > - [[Education Endowment Foundation]] — 资助并发布该项目独立因果试验评估的英国法定证据机构。

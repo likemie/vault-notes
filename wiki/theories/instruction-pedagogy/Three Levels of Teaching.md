@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Three Levels of Teaching
@@ -56,9 +56,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:---|:---|:---|
@@ -123,9 +121,7 @@ updated: 2026-10-21
 
 ---
 
-## 适用边界
-
-> [!theory-boundary|notitle] 适用边界
+> [!theory-boundary] 适用边界
 > - **适合解释** 教师如何理解教学责任、如何诊断学习失败，以及课程设计为何从内容传递转向学生活动。
 > - **谨慎使用** 三个层次可以描述发展方向，但原文没有提供纵向数据证明所有教师都会依次经过三个阶段。
 > - **不适合解释** 它不能单独估计某种教学方法的平均效果，也不能替代对学科知识、资源条件和学生需要的具体分析。
@@ -143,7 +139,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 提出三层教学观，区分两种加总模型与学生中心的系统模型，并以此推出[[Constructive Alignment\|建构性对齐]]的课程设计责任。

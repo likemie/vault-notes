@@ -27,14 +27,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # Cooperative Education
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 合作教育（cooperative education，简称 co-op）是一种结构化教育模式，将学生的课堂学术学习与有薪、与专业相关的产业工作经验交替进行。学生在学期间轮流进入学术学期（academic terms）和工作学期（work terms），使理论学习与实践应用相互强化。
 
 工作整合学习（work-integrated learning）是一个更宽泛的上位概念，涵盖合作教育、实习、[[Apprenticeship|学徒制]]、服务学习等多种将学术学习与工作实践结合的模式。合作教育是其中最系统化、制度化程度最高的形式之一。
@@ -49,9 +47,7 @@ updated: 2026-10-05
 
 ---
 
-## 与产学合作研究的关系
-
-> [!abstract|notitle]
+> [!abstract] 与产学合作研究的关系
 > 合作教育文化为[[University-Industry Collaboration\|产学合作]]研究奠定了三重基础([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.254]])：
 > - **人才管道** 产业伙伴通过合作教育项目直接接触未来雇员，这种关系为后续研究合作建立了社会资本
 > - **文化基础** 合作教育使"产学互动"成为大学日常运作的一部分，降低了教师对产业合作的心理门槛

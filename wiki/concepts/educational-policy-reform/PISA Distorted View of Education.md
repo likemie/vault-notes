@@ -127,7 +127,5 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 提出 PISA 扭曲教育观构念，系统批判将经济增长作为教育唯一目的的新自由主义偏颇。

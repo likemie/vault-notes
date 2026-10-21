@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Cultural Recognition
@@ -72,9 +72,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 文化认同探索（Cultural Recognition） | 文化同化（Cultural Assimilation） | 传统[[Soft Power\|软实力]]文化输出（Soft Power Projection） |
 > |---|---|---|---|
 > | **分析对象** | 跨国高教合作中的当代发展治理经验传播 | 移民或从属群体对宗主国核心价值观的同质化融合 | 依赖大众文化与消费品产生的非强制吸引力 |
@@ -130,9 +128,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1940 年代 — 经典朝贡同化预设确立** [[John King Fairbank|费正清]]（Fairbank, 1942）等学者将古代东亚[[Tributary System|朝贡体系]]解释为周边番邦仰慕华夏道德礼乐感召而自愿接受文化同化的非强制阶序秩序。
 > - **2017–2018 年 — 新朝贡高教框架沿袭同化假设** [[Suyan Pan|潘苏燕]]等学者（Pan & Lo, 2017, 2018）将大学界定为新朝贡纽带，依然将语言文化输出视为塑造文化同化（Cultural Assimilation）的机制。
 > - **2025 年 — 实证否定文化同化并确立文化认同探索** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）基于中柬[[Fieldwork|田野调查]]推翻文化同化假设，指出高教输出重点已转向当代国情与治理经验分享，确立了以寻求发展模式制度认可为核心的“文化认同探索（Cultural Recognition）”概念。
@@ -166,7 +162,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合中柬高教拓展实证田野，系统阐发文化认同探索概念，[[Falsification|证伪]]传统新[[Tributary System|朝贡模型]]的文化同化假设，揭示当代跨国教育在传播治理经验中的独特机制。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Søren Kierkegaard
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1813年** 出生于丹麦哥本哈根一个虔敬派基督教富商家庭。早年体弱多病，父亲深沉的负罪感与严苛宗教氛围对其终身思考产生了不可磨灭的精神印记。
 > - **1830–1840年** 进入哥本哈根大学攻读神学，期间广泛涉猎哲学与古典文学。深受[[Socrates\|苏格拉底]]反讽与生存探索的吸引，逐渐对风靡欧洲的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]客观唯心主义体系产生根本质疑。1840年以《论反讽概念》（*Om Begrebet Ironi*）完成学位答辩。
 > - **1840–1841年** 与雷金娜·奥尔森（Regine Olsen）订婚，但因感到自身内在的忧郁与神圣使命无法融入世俗婚姻，于次年断然解除婚约。这一剧烈情感创伤催化了其一生爆发性的哲学创作。前往柏林旁听[[Thomas Schelling|谢林]]（Schelling）讲座，随后彻底与德国观念论体系决裂。
@@ -145,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **哲学论敌** [[Georg Wilhelm Friedrich Hegel\|黑格尔]]（G. W. F. Hegel） — 批判黑格尔构建吞噬个体激情的客观历史理性大厦，主张思辨体系无法安顿个体的真实生存困境。
 > - **存在论回响** 存在主义哲学群落 — 承袭其焦虑、绝望、自由决断与生存优先于本质的核心母题。
 > - **社会学与教育学转译者** [[Louis Cohen]]、[[Keith Morrison]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]） — 将其作为打破教育研究中[[Positivism\|实证主义]]垄断、确立自然主义与拟人化探究合法性的理论基石。

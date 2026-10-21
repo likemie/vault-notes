@@ -74,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Geopolitics
@@ -103,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | [[Classical Geopolitics\|古典地缘政治]]（物质—实践） | 批判与[[New Geopolitics\|新地缘政治]]（观念—[[Discourse\|话语]]） | 知识与高教地缘政治（网络—制度） |
 > |------|--------------------------|------------------------------|--------------------------------|
 > | **[[Ontology\|本体论]]位置** | 物质—实践端（客观地理与军事实力） | 观念—科学端（话语生产与象征分类） | 复合嵌套端（物理基建与网络规程交织） |
@@ -185,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1899–1940s — [[Classical Geopolitics|古典地缘政治]]创立与帝国领土争霸** 契伦创设“地缘政治”概念，拉策尔奠定国家有机体说，麦金德“陆权论”与马汉“海权论”确立以地理控制、航道要塞与领土扩张为轴心的理论[[Paradigm|范式]]，服务于列强殖民划分与战略均势。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4)]]
 > - **1945–1980s — 冷战两极对峙与意识形态工具化** 阵营对抗取代多国热战，地理争夺向制度与意识形态竞争蔓延。高等教育被纳入国家安全战略体系，[[Fulbright Program|富布莱特计划]]等项目使文化交流与学术项目从属于两极外事实践。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 4)]]
 > - **1990s–2010s — [[Critical Geopolitics|批判地缘政治]]兴起与全球化非自觉阶段** 伴随冷战结束与[[Constructivist Paradigm|建构主义]]思潮，奥图阿瑟（Gearóid Ó Tuathail）与阿格纽等学者发起批判地缘政治转向，解构地缘政治修辞中的空间霸权。高等教育研究广泛借用中心—外围理论分析南北差距，但多归于[[Developmentalism|发展主义]]与国际化[[Discourse|话语]]，对地缘权力的理论自觉相对有限。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
@@ -228,9 +224,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理[[Geopolitics of Higher Education|高等教育地缘政治]]视角的发展谱系，阐释从[[Classical Geopolitics|古典地缘政治]]到批判[[New Geopolitics|新地缘政治]]的[[Ontology|本体论]]分化与互补机制。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合跨国大学联盟实践，辨析地缘政治视角下的[[Knowledge Power|知识权力]]构建同[[Developmentalism|发展主义]]视角下的[[Knowledge Diplomacy|知识外交]]合作。
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 论述古典硬领土控制逻辑与当代[[Knowledge-Based Economization|知识经济化]]进程的共构演进，解析科技竞争中的势力范围重组。

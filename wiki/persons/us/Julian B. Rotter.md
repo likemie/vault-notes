@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Julian B. Rotter
 
@@ -61,16 +61,12 @@ updated: 2026-10-16
 > 
 > 在任何特定心理情境下行为发生的潜力，是该行为在该情境下将导致特定强化的期望以及该强化价值的函数。
 
-## 思想发展
-
-> [!note|notitle]
+> [!note] 思想发展
 > - **1954** — 出版 *Social Learning and Clinical Psychology*，奠定[[Social Learning Theory\|社会学习理论]]的[[Variable\|变量]]框架
 > - **1966** — 正式提出[[Locus of Control\|控制点]][[Construct\|构念]]，区分内部与外部控制点
 > - **1975** — 对控制点构念的应用问题进行澄清，包括连续体性质而非二分法的强调
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - Rotter 的[[Social Learning Theory\|社会学习理论]]四[[Variable\|变量]]框架被后续研究者广泛应用，如 Crutchfield (1986) 将其应用于学术生产力研究
 > - [[Locus of Control\|控制点]]（[[Locus of Control]]）[[Construct\|构念]]成为动机心理学和人格心理学的核心概念之一
 > - Rotter 的工作直接影响了 Weiner 的[[Attribution Theory\|归因理论]]（[[Attribution Theory]]）发展——Weiner 将 Rotter 的单维度控制点概念扩展为来源、稳定性和可控性三个独立维度

@@ -52,7 +52,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Wolf_2025_InternationalResearchCollab"
@@ -81,18 +81,14 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > - [[Stokes' Quadrant Model of Scientific Research]]，以[[Pasteur's Quadrant|巴斯德象限]]（Pasteur's Quadrant）为国际 UI 合作提供[[Epistemology\|认识论]]定位。大学的基础研究能力与产业的应用问题驱动相结合，合作自然落在"[[Use-Inspired Basic Research|应用启发的基础研究]]"（use-inspired Basic Research）区间(p.310)
 > - [[Dollinger et al. Framework for UI Collaboration]]，从环境、技术和管理三个因素评估国际合作，提供操作性基准工具(pp.316–317)
 > - [[Triple Helix]]，Rossoni et al.(2023)以此为第一个[[Theoretical Perspective\|理论视角]]评估 UI 合作的障碍因素，另两个视角为关系社会资本和[[Technology Transfer\|技术转移]](p.316)
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > 采用实践导向的综述与案例分析，非实证研究。方法包括：
 > - 对国际 UI 合作文献和行业报告（美国公立与赠地大学协会 APLU、[[University Industry Demonstration Partnership\|大学产业示范伙伴关系]]（University Industry Demonstration Partnership, UIDP）、Elsevier 等）的综合梳理
 > - 一手实践经验来源于 Mars（Wolf and Stevenson 所属机构）与 UC Davis（Siegel 所属机构）四十年的合作积累
@@ -284,9 +280,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - Wolf and Stevenson 受雇于 Mars，Siegel 受雇于 UC Davis，案例选择基于自身参与经验，可能偏向正面呈现，无法代表所有类型的国际 UI 合作模式(pp.323–324)
 > - 未提供系统性的[[Literature Search\|文献检索]]方法或纳入排除标准，论据筛选标准不透明
 > - 三个案例均属于食品与农业领域，该领域的[[University-Industry Collaboration\|产学合作]]IP 敏感性可能低于制药或国防技术领域，因此"开放获取"策略的[[External Validity\|可推广性]]有限

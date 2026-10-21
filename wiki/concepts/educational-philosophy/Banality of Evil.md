@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Banality of Evil
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 平庸之恶（Banality of Evil） | 根本之恶（Radical Evil） | 纯粹恶意与病态施虐（Sadism / Malice） |
 > |---|---|---|---|
 > | **主观动机** | 缺乏深层恶意，仅追求职业合规、履职晋升与程序正确 | 试图从根基上摧毁人的道德法则与主体性自由 | 强烈的仇恨、报复心或从伤害他人中获取病态快感 |
@@ -167,9 +165,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1961–1963 — 政治哲学发端与艾希曼审判批判** [[Hannah Arendt|汉娜·阿伦特]]旁听耶路撒冷审判，发表《艾希曼在耶路撒冷》，打破传统神学与心理学对极端罪恶的“病态妖魔化”[[Paradigm|范式]]，正式奠立“平庸之恶”与“无思状态”概念范畴。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
 > - **1963–1974 — 社会心理学实验实证与代理态理论化** 斯坦利·[[Stanley Milgram|米尔格拉姆]]在耶鲁大学开展权威服从电击实验（[[Milgram Obedience Experiment|米尔格拉姆服从实验]]），以 65% 的极端服从率确立代理态理论，为平庸之恶提供了无可辩驳的微观实证支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–135)]]
 > - **1986 — 组织行为学与高风险技术灾难反思** 挑战者号航天飞机升空解体灾难引发学界对“组织化平庸之恶”的深入剖析，揭示防卫型[[Bureaucracy|科层制]]中的合规文化与层级压力如何系统性抹杀一线工程师的关键技术警告。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
@@ -205,8 +201,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 专著在第 12 章（pp. 132–136）结合[[Milgram Obedience Experiment|米尔格拉姆服从实验]]与挑战者号航天飞机灾难，系统探讨[[Hannah Arendt|阿伦特]]平庸之恶命题在现代[[Bureaucracy|科层制]]与科技创新治理中的关键启示。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 在教育哲学批判中以阿伦特和[[Immanuel Kant|康德]]的判断力传统为对照，批评当前以单一[[Effect Size|效应量]]与可见学习为中心的[[Positivism|实证主义]]测评对教育批判主体性的削弱。

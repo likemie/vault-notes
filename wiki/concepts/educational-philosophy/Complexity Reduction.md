@@ -36,19 +36,15 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle] 定义
+> [!info] 定义
 > 复杂性化简（Complexity Reduction）是由 [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 引入的概念，指通过在系统中减少元素可用选项的数量，使原本作为开放、递归、符号系统的社会情境变得**更可预测和可控制**。它解释了为何在非[[Determinism\|决定论]]的社会领域中某些事物仍然"能运作"（things can work）——但代价是权力的行使。
 >
 > > "Complexity reduction has to do with the reduction of the number of available options for action for the elements of a system." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 497]])
 
-## 历史沿革
-
-> [!note-|notitle] 历史沿革
+> [!note-] 历史沿革
 > - **2010** — Biesta 使用该概念解释教育系统的可预测性从何而来
 > - **2010b** — Biesta 在 *[[Complexity Theory]] and the Politics of Education* 中进一步探讨复杂性化简的政治维度
 > - **理论根源** 来自系统理论（systems theory）对封闭/开放/递归/符号系统的区分
@@ -82,17 +78,13 @@ updated: 2026-10-21
 >
 > > 例：一项 [[Randomised Controlled Trials\|RCT]] 证明某阅读干预在每日固定 45 分钟、学生按[[Tracking\|能力分组]]的条件下有效。学校若要"应用"该证据，必须先通过时间表（锁定 45 分钟）、分组（拆分班级）和统一教学法（培训所有教师使用相同步骤）进行三重化简——这是 Latour 的"着陆跑道"在教室中的具体建造过程。
 
-## 与相关概念的区别
-
-> [!example|notitle] 与相关概念的区别
+> [!example] 与相关概念的区别
 > - **vs 标准化（Standardization）** — 标准化是复杂性化简的一种手段，但化简范畴更广，包括物理空间设计、时间框架、分组逻辑等非标准化制度
 > - **vs [[Atomisation of Knowledge and Skills]]** — 知识与技能原子化是复杂性化简在课程内容层面的表现：复杂教育目的被拆成更可管理、可测量和可比较的小单位
 > - **vs [[Evidence-Based Education]] "应用"模型** — 证据本位教育假设进步来自"应用知识"；复杂性化简揭示的是"改造世界以匹配知识"
 > - **vs 社会控制（Social Control）** — 复杂性化简是中性的分析概念，可以是有益的（使教育成为可能）也可以是压抑的（限制可能性），取决于权力如何行使
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > Biesta 的论证是概念性/哲学性的，而非实证的。但概念框架指向了可验证的方向：
 > - 不同教育系统的复杂性化简程度差异（如芬兰的高信任/低标准化 vs. 英格兰的高问责/高标准化）
 > - 复杂性化简与学生学习质量的关系（过度化简可能压制深度学习）

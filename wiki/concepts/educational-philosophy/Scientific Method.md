@@ -9,9 +9,9 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而在跨国治理中其亦被超国家机构包装为客观中立的科学决策品牌以推行去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 88
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 73
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/research-methodology
@@ -23,12 +23,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Epistemology]]"
-  - "[[Knowledge Production]]"
   - "[[Positivism]]"
   - "[[Nature of Science]]"
   - "[[Practical Epistemology]]"
-  - "[[Reflexivity]]"
-  - "[[Metascience]]"
   - "[[Scientism]]"
   - "[[Authentic Science Practices]]"
   - "[[Interpretive Paradigm]]"
@@ -40,9 +37,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Principle of Parsimony]]"
   - "[[Hypothesis]]"
-  - "[[Causality]]"
   - "[[Paradigm]]"
-  - "[[Value Neutrality]]"
   - "[[Chain of Evidence]]"
   - "[[Retrodiction]]"
   - "[[Socioscientific Issues]]"
@@ -50,33 +45,29 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Technical Rationality]]"
   - "[[Evidence-Based Education]]"
-  - "[[Publication Bias]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[General Education]]"
   - "[[Theory of Knowledge]]"
+  - "[[Value Neutrality]]"
   - "[[Objectivism]]"
+  - "[[Metascience]]"
   - "[[Epistemological Beliefs]]"
   - "[[Creativity]]"
   - "[[Discourse]]"
   - "[[School Effectiveness]]"
   - "[[Visible Learning]]"
-  - "[[Governing by Numbers]]"
 related_theories:
-  - "[[Path Dependence]]"
   - "[[Pluralism]]"
   - "[[Inquiry Cycle]]"
-  - "[[Varieties of Capitalism]]"
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Randomised Controlled Trials]]"
   - "[[In-depth Interview]]"
   - "[[Participant Observation]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Standard Error]]"
-  - "[[Improvement Science]]"
   - "[[Causal Modeling]]"
   - "[[Mechanism Experiments]]"
   - "[[Questionnaire]]"
@@ -84,10 +75,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Fixed-Effect Model]]"
   - "[[Research Synthesis]]"
-  - "[[Quantitative Research]]"
-  - "[[Mixed Methods Research]]"
-  - "[[Triangulation]]"
-  - "[[Random Assignment]]"
 related_instruments: []
 related_persons:
   - "[[Anthony Giddens]]"
@@ -98,26 +85,24 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
   - "[[Christof Wecker]]"
-  - "[[Kerstin Martens]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
-  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
-  - "[[Argument_Kratsios_2026_OSTP]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Scientific Method
@@ -151,16 +136,14 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析
 > | 维度 | 科学方法（Scientific Method） | 科学主义（[[Scientism]]） | 实践认识论（[[Practical Epistemology]]） | 诠释学探究（[[Interpretive Paradigm]]） |
 > |:---|:---|:---|:---|:---|
-> | **[[Epistemology|认识论]]前提** | 经验观察、逻辑推论与假设[[Falsification|证伪]]相统一 | 将经验科学方法视作获取真理的唯一合法途径 | 探究者在具体情境行动中内隐运用的求知信念 | 现实由具有能动性的人类主体主观建构与赋义 |
-> | **主客体关系** | 主张研究者保持客观中立，降低主观干扰 | 确立科技专家对社会客体的[[Absolute Knowing|绝对认知]]支配 | 探究者在活动情境中与工具、同伴深度互动 | 研究者与研究对象处于“主体-主体”交往[[Dialogue in Education|对话]]中 |
-> | **真理检验标准** | 经验可重复性、[[Predictive Validity|预测效度]]与可证伪性 | 凡不能被量化测量的命题皆被判定为无意义 | 知识能否有效解决当下行动困境并达成理解 | 阐释是否具有丰富情境深度与反思共鸣感 |
-> | **方法论取向** | 假设检验、受控观察、建模与论证综合 | 机械套用数理量化与自然科学实验外壳 | 具身参与、行动反思与局内人情境决策 | [[In-depth Interview|深度访谈]]、[[Participant Observation|参与观察]]、文本阐释与意义还原 |
-> | **主要风险或局限** | 容易被教条化为去情境的配方式实验步骤 | 剥夺人文价值与道德批判，异化为技术极权 | 难以自发自动转化为高阶专业[[Formal Epistemology|形式认识论]] | 结论具有高度情境依存性，缺乏普遍因果法则 |
+> | **[[Epistemology\|认识论]]前提** | 经验观察、逻辑推论与假设[[Falsification\|证伪]]相统一 | 将经验科学方法视作获取真理的唯一合法途径 | 探究者在具体情境行动中内隐运用的求知信念 | 现实由具有能动性的人类主体主观建构与赋义 |
+> | **主客体关系** | 主张研究者保持客观中立，降低主观干扰 | 确立科技专家对社会客体的[[Absolute Knowing\|绝对认知]]支配 | 探究者在活动情境中与工具、同伴深度互动 | 研究者与研究对象处于“主体-主体”交往[[Dialogue in Education\|对话]]中 |
+> | **真理检验标准** | 经验可重复性、[[Predictive Validity\|预测效度]]与可证伪性 | 凡不能被量化测量的命题皆被判定为无意义 | 知识能否有效解决当下行动困境并达成理解 | 阐释是否具有丰富情境深度与反思共鸣感 |
+> | **方法论取向** | 假设检验、受控观察、建模与论证综合 | 机械套用数理量化与自然科学实验外壳 | 具身参与、行动反思与局内人情境决策 | [[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]、文本阐释与意义还原 |
+> | **主要风险或局限** | 容易被教条化为去情境的配方式实验步骤 | 剥夺人文价值与道德批判，异化为技术极权 | 难以自发自动转化为高阶专业[[Formal Epistemology\|形式认识论]] | 结论具有高度情境依存性，缺乏普遍因果法则 |
 
 ---
 
@@ -262,18 +245,16 @@ updated: 2026-10-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
-> | **普遍法则预设命题** | 实证主义预设科学方法具有跨越自然与社会领域的普遍法则性与产物同构性 | 社会物理学、量化[[Causal Modeling|因果建模]]、比较教育发端[[Proto-Scientific Motif|准科学范式]] | Comte; Giddens; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] |
-> | **多元实践建构命题** | 科学探究依赖于学科家族相似性、情境化实践认识论与共同体社会论证 | [[Nature of Science|科学本质]]教学、学科认识论实践分析、探究教学法改革 | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]; Kuhn |
-> | **技术异化遮蔽命题** | 将科学方法窄化为去情境的技术操作会诱发科学主义并抽空教育人文生态 | [[Critique of Evidence-Based Education|循证教育批判]]、工具理性批判、[[General Education|通识教育]][[Theory of Knowledge|知识论]]边界划定 | Habermas; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]; [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] |
-> | **科学学反身实验命题** | 将科学方法的因果实验与数据检验反身应用于评估和革新国家科研资助与评价体系 | 科学学、科研资助[[Mechanism Experiments|机制实验]]、金标准科学评价改革 | [[Michael Kratsios\|Kratsios (2026, pp. 31–32)]] |
+> | **普遍法则预设命题** | 实证主义预设科学方法具有跨越自然与社会领域的普遍法则性与产物同构性 | 社会物理学、量化[[Causal Modeling\|因果建模]]、比较教育发端[[Proto-Scientific Motif\|准科学范式]] | Comte; Giddens; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] |
+> | **多元实践建构命题** | 科学探究依赖于学科家族相似性、情境化实践认识论与共同体社会论证 | [[Nature of Science\|科学本质]]教学、学科认识论实践分析、探究教学法改革 | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]; Kuhn |
+> | **技术异化遮蔽命题** | 将科学方法窄化为去情境的技术操作会诱发科学主义并抽空教育人文生态 | [[Critique of Evidence-Based Education\|循证教育批判]]、工具理性批判、[[General Education\|通识教育]][[Theory of Knowledge\|知识论]]边界划定 | Habermas; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]; [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] |
+> | **科学学反身实验命题** | 将科学方法的因果实验与数据检验反身应用于评估和革新国家科研资助与评价体系 | 科学学、科研资助[[Mechanism Experiments\|机制实验]]、金标准科学评价改革 | [[Michael Kratsios\|Kratsios (2026, pp. 31–32)]] |
 > | **公理审查与反异化命题** | 打着科学方法旗号的宏观量化综合若违背底层计量公理，将异化为伪科学外衣 | 循证教育批判、效应量排行榜审查、计量法医级审计 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 > | **超国家治理品牌命题** | 跨国机构将比较转向包装为政治决策的科学方法，以客观主义品牌压制本土政治纷争 | 经合组织教育指标、PISA 跨国测评、全球数字治理 | Martens (2007); [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon|弗朗西斯·培根]]提出经验归纳法，主张通过系统观察与实验事实积累发现自然规律，奠定了实验科学的方法论先导。
 > - **1810–1830 年代 — 启蒙现代性与跨国社会科学改良构想** 朱利安与孔德将科学方法外推至人类社会事务，主张通过分析式[[Questionnaire|问卷]]与系统观察表采集经验事实服务于全人教化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
 > - **19 世纪中后期 — [[Positivism|实证主义]]法典化与社会学独立学科确立** 孔德与密尔系统确立实证[[Epistemology|认识论]]阶梯与经验因果归纳法则，奠定了现代统计与[[Survey Research|调查研究]]的实证根基。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
@@ -322,15 +303,13 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, p. 25)]] | 经合组织（OECD）跨国教育政策话语与治理网络 | 批判性政策话语分析与历史制度溯源 | 科学决策品牌声誉与成员国政策采纳率 | 确证经合组织通过“转向比较”确立了政治决策的科学方法，构建出无可置疑的客观主义品牌，使其建议在政界与学术界获得高度合法性 | 质性深度饱和分析 | 揭示科学方法在跨国治理中转化为超国家软性权力的运作机制 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 24–30)]] | 约翰·哈蒂《可见的学习》二阶元分析数据库（覆盖 800+ 元分析） | 计量模型公理推导与实证审计 | 科学方法公理违背率、效应量计算误差与排行变动 | 发现因混淆标准误与标准差导致网络学习效应量虚增 10 倍（从负效应重算为负值）；缺乏加权导致排行榜名次虚假位移达 72 位 | 代数等价性推导与全量数据重新计算 | 实证确证违背科学方法公理的宏观量化综合会诱发系统性失真 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]] | 传统科学方法在教育研究中的演变案例库 | 范式比较分析与文献考证 | 经验归纳、假设演绎与证伪检验阶段划分 | 系统梳理传统科学方法八阶段与五步循环，确立实证主义方法论在教育研究规划中的形式化边界 | 逻辑推导饱和 | 明确了科学方法从经典实证向后实证多元范式转型的学理谱系 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合 Martens (2007)，剖析经合组织如何将比较转向建构为政治决策的科学方法，树立客观主义品牌以推行跨国数字治理。

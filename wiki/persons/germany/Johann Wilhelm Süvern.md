@@ -11,7 +11,7 @@ summary: "普鲁士枢密顾问官与教育改革家，主持起草1819年综合
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
-  - "[[Johann Wilhelm Süvern]]"
   - "[[Immanuel Kant]]"
   - "[[François Guizot]]"
   - "[[Calvin Stowe]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Johann Wilhelm Süvern
@@ -74,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1775** 出生于东普鲁士；早年在柯尼斯堡大学学习，深受[[Immanuel Kant\|康德]]先验哲学与古希腊人文主义学术熏陶。
 > - **1809–1810** 普鲁士因耶拿之战遭遇军事惨败后启动施泰因-哈登贝格现代化改革；[[Johann Wilhelm Süvern|聚芬]]加入普鲁士内政部宗教与公教司，与威廉·冯·洪堡紧密共事，负责起草中等学校与国民学校改革规程。
 > - **1817–1819** 普鲁士新设独立的宗教、教育与医疗事务部（由阿尔滕施泰因男爵领导）；聚芬升任枢密顾问官兼学校司司长，历时两年全面起草《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》，构建统摄全境的大一统公共教育法典。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 26–27)]]
@@ -140,9 +137,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承与合作者** 威廉·冯·洪堡（Wilhelm von Humboldt）与卡尔·冯·阿尔滕施泰因（Karl vom Stein zum Altenstein） — 普鲁士教育改革的核心盟友与主管官员，为[[Johann Wilhelm Süvern|聚芬]]提供施展制度抱负的政治平台。
 > - **跨国思想借鉴者** [[Victor Cousin\|维克多·库森]] — 1831 年考察普鲁士时全面发掘聚芬草案，将其提炼为国家公共资源法哲学并推荐给法国政府。
 > - **跨国实定法实现者** [[François Guizot\|弗朗索瓦·基佐]] — 将聚芬草案核心制度条款转化为法国《1833 年[[Guizot Law of 1833\|基佐法案]]》，实现跨国法制移植。
@@ -169,9 +164,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

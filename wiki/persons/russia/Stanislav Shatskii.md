@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Stanislav Shatskii
 
@@ -70,9 +70,7 @@ updated: 2026-10-16
 
 ---
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - 其农村实验学校体系被视为世界上规模最大的[[Progressive Education\|进步教育]]实验之一（Partlett 2011，引自 Ryabyy, 2024, p.103）。
 > - 1928 年与 Dewey 会面时，Shatskii 表示希望 Dewey 回国后能驱散美国社会中对苏联的各种误解，推动两国的文化与教育交流([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.107]])。
 > - 与 [[Anton Makarenko]] 同为苏俄最重要的进步教育改革家——两人均被拿来与 Dewey 进行比较（Gehring, Bowers & Wright 2005; Holtz 2002，引自 Ryabyy, 2024, p.103）。

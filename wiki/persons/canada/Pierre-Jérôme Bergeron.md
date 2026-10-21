@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Pierre-Jérôme Bergeron
@@ -102,9 +102,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **合作者** 利桑·里瓦尔（Lysanne Rivard）— 共同开展针对《[[Visible Learning|可见的学习]]》的数理统计审计；P. Rogers — 合作开展[[International Baccalaureate|国际文凭]]（IB）[[Theory of Knowledge|知识论]]（TOK）课程教学实证评估。
 > - **批评对象** [[John Hattie|约翰·哈蒂]]（John Hattie） — 审查其[[Meta-meta-analysis|二阶元分析]]方法论，判定《可见的学习》属于以真实数据建构的伪科学纸牌屋。
 > - **方法与理论渊源** 罗纳德·费希尔（Ronald Fisher）— 汲取其事前介入而非事后尸检的统计[[Epistemology|认识论]]；大卫·艾利森（David B. Allison）— 借鉴其发表于《自然》的科学错误分类框架；McGraw & Wong — 依据其普通语言[[Effect Size|效应量]]（[[Common Language Effect Size|CLES]]）概率公理边界。

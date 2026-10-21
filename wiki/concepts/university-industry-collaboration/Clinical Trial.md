@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Clinical Trial
@@ -221,9 +221,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
@@ -243,8 +241,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，以抗癌药紫杉醇（Taxol）等经典个案剖析联邦公共部门（[[National Institutes of Health|NIH]]/NCI）在临床试验早期承担的关键试错风险，深刻批判《[[Bayh-Dole Act of 1980|拜杜法案]]》与排他性商业许可导致的“风险社会化、利润私人化”制度弊端，论证建立公共收益回流信托的必要性。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统剖析临床试验审批迟滞导致的创新外流与成本攀升，提出 FDA 接受真实世界证据、推行单项高功效确证试验、设立[[Regulatory Sandbox|监管沙盒]]与推进 [[Accelerating Medicines Partnership|AMP]] [[Public-Private Partnership|公私伙伴关系]]的改革蓝图。

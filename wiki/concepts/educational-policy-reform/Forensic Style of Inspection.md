@@ -9,10 +9,10 @@ aliases:
 summary: "格雷厄姆·史密斯在对英国教育标准局（Ofsted）研究中提出的批判性概念；指国家学校督导机构开展的以支持既定行政结论为导向的封闭式调查模式；调查围绕既定政策设判定向搜集并拼合支撑材料，在终审环节通过内部重写清洗异议，以科学循证外观确立政策议程并促使一线学校服从合规。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 subtype: educational-policy-reform
 tags:
   - concept/educational-policy-reform
@@ -23,14 +23,10 @@ tags:
 related_concepts:
   - "[[School Inspection]]"
   - "[[State Simplification]]"
-  - "[[Evidence-Based Policy-Making]]"
-  - "[[Research Utilization]]"
   - "[[Social Science as Legitimation Alibi]]"
 related_theories:
   - "[[Governing by Inspection]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
-related_methods:
-  - "[[Case Study]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -41,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Forensic Style of Inspection
@@ -61,15 +57,13 @@ updated: 2026-10-21
 > [!citation-card] 取证式调查对既定政策结论的单向拼合
 > 质量审计整体上呈现出一种开展调查的‘取证式风格’（Smith, 2000）。审计以确证既定政策设想为目标；‘证据的搜集与组装是为了支持既定的政策结论，替代了对数据的冷静客观分析’（Smith, 2000, p. 337）。正如史密斯所指出的，这不仅是一种设定政策议程的策略，更是一种促使专业人员服从该议程的策略。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 >
-> *Overall, the audit process resembles a “forensic style” (Smith, 2000) of conducting investigations. The audit is not conducted to find anything unexpected and new or to discover any variations of practical solutions; thus, “evidence was assembled in support of a policy conclusion, rather than findings emerging from a more dispassionate analysis of the data” (Smith, 2000, p. 337). As noted by Smith (2000), this is a strategy to set the policy agenda, but we argue that it could also be a strategy to make professionals follow this agenda. (Segerholm et al., 2022, p. 653)*
+> *Overall, the audit process resembles a “forensic style” (Smith, 2000) of conducting investigations. The audit is not conducted to find anything unexpected and new or to discover any variations of practical solutions; thus, “evidence was assembled in support of a policy conclusion, rather than findings emerging from a more dispassionate analysis of the data” (Smith, 2000, p. 337). As noted by Smith (2000), this is a strategy to set the policy agenda, but we argue that it could also be a strategy to make professionals follow this agenda. ([[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022, p. 653]])*
 
 > [!boundary]- 概念边界
 > - 不等于普通的合规核查 — 合规核查侧重对照法条清单进行事实核对；取证式督导则往往动用专业实证研究与案例田野的外衣，针对复杂的“教学质量”与“办学成效”进行定向结论建构。
 > - 不等于伪造数据 — 取证式督导采集的学校案例往往真实可信，但其偏颇性体现在案例的选择性呈现、脉络剔除与结论绑架。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析
 > | 维度 | 取证式督导（Forensic Style） | 探索性研究督导（Exploratory Inspection） | 法律合规审计（Compliance Audit） |
@@ -106,7 +100,7 @@ updated: 2026-10-21
 > [!concept-lens] 督导权力与证据构建的合法化机制
 > 探讨督察机构如何利用科学证据的客观性外观掩盖行政主导的取证逻辑，进而达成对一线教学实践的强力控制。
 
-> [!claim] Segerholm et al. (2022)
+> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **取证式调查违背了科学求证的开放性本质** 塞格霍尔姆等指出，科学证据的根本特性在于其所呈现的事实往往具有超越预期的意外性，能够拓宽观察者的认知视野（Eriksson & Martinsen, 2012）。瑞典学校督察局的质量审计完全偏离了这一求真逻辑，沦为典型的取证式风格：机构在定稿前刻意抹去外部专家对国家课程大纲缺陷的学术批评，将教学问题全部归咎为学校领导与教师缺乏自信，从而使取证式督导成为迫使专业人员无条件服从国家既定教育方针的技术工具。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 651–653)]]
 
 ---
@@ -116,13 +110,11 @@ updated: 2026-10-21
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **批判性督导社会学** | 督导机构通过取证式调查实现政治议程设定与专业规训 | 国家级外部学校督导与专项质量审计 | Smith (2000); Segerholm et al. (2022) |
+> | **批判性督导社会学** | 督导机构通过取证式调查实现政治议程设定与专业规训 | 国家级外部学校督导与专项质量审计 | Smith (2000); [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2000 — 概念由格雷厄姆·史密斯正式提出** 史密斯系统分析 1981–1996 年间英国督导体制由皇家督学（HMI）向教育标准局（Ofsted）的转型，首次使用“取证式风格”揭示后者围绕政治指令编排证据的运作实质。
 > - **2010年代 — 跨国比较督导研究借鉴** 欧洲学者在比较英国、荷兰、瑞典等国外部督导时，逐步将取证式调查作为识别强效问责型督导特征的分析透镜。
 > - **2022 — 北欧国家督导深度机制解构** 塞格霍尔姆等结合瑞典督导实证田野，将该概念深化为包含“专家边缘参与—文本内部重拟—常模定型”的完整微观知识政治链条。
@@ -144,9 +136,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

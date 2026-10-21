@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Michael Porter
@@ -87,9 +87,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1947** 出生于美国密歇根州安娜堡。
 > - **1969** 毕业于普林斯顿大学航空航天与机械工程专业，获理学学士学位。
 > - **1971–1973** 先后获哈佛商学院工商管理硕士（MBA）学位及哈佛大学经济学博士学位。
@@ -163,9 +161,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **思想共振者与理论对话者** [[Chris Freeman]] — 弗里曼在[[National Innovation System|国家创新系统]]历史考察中直接援引波特理论，共同捍卫国家创新制度环境面对全球化冲击的不可替代性。
 > - **批评与理论解构者** [[Critical Geopolitics|批判地缘政治学]]派（如 [[Sami Moisio]], [[Bob Jessop]]）— 将波特从客观管理学者重新定性为新自由主义[[Geopolitics|地缘政治]]想象的建构者。
 > - **政策承接机构** [[OECD|经济合作与发展组织]]（OECD）— 将波特的集群竞争框架转化为各成员国科技政策与区域创新政策的推荐标准。

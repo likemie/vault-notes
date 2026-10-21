@@ -64,7 +64,7 @@ related_facts:
   - "[[National Aeronautics and Space Administration]]"
 status: active
 created: 2026-10-06
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Argument_Bozeman_2004_JTT
 
@@ -327,9 +327,7 @@ updated: 2026-10-16
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > - 作者明确指出，对于这些诞生仅二十余年的新型研究与教育制度能否最终同拥有数百年历史且根深蒂固的传统大学院系结构完美共存，学界目前仍难下定论（The jury is still out）。
 > - 布洛赫在访谈最后直陈当前科技政策与管理学界的关键认知盲区：尽管全美各级机构资助了海量中心（仅 [[National Science Foundation|NSF]] 就资助了 350 余所），但学界至今无人能确切说出大学研究中心的全美总数与具体分布；亟需构建统一的中心形态学与分类学（Morphology / Typology of centers），否则政策制定者根本无法系统研判资助布局的合理性与结构性缺口。（p.374）
 

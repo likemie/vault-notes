@@ -8,7 +8,7 @@ summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -48,7 +48,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Adriana Puiggrós]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
   - "[[Ernesto Schiefelbein]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Adriana Puiggrós
@@ -81,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1941** 出生于阿根廷布宜诺斯艾利斯，父亲鲁道夫·[[Adriana Puiggrós|普伊格罗斯]]（Rodolfo Puiggrós）为阿根廷著名马克思主义历史学家、布宜诺斯艾利斯[[Grandes Ecoles|大学校]]长。
 > - **1960–1974** 毕业于布宜诺斯艾利斯大学教育学系，随后执教于该校，投身工会、学生与左翼教师运动。
 > - **1974** 阿根廷右翼极端势力暗杀威胁与随后的军事政变迫使其流亡墨西哥，进入墨西哥国立自治大学（UNAM）攻读拉丁美洲研究博士学位并任教。
@@ -121,27 +118,21 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了拉美批判教育史学派与 APPEAL 研究纲领，直接影响了整个伊比利亚美洲关于正规教育与非正规[[Popular Education|民众教育]]冲突演变的理论建构；其关于“[[Pedagogical Subject|教育主体]]”的分析被托雷斯等学者深度整合入国家[[Critical Theory|批判理论]]。
 > - **政策路径** 作为副部长和教育局长直接参与阿根廷全国[[General Act of Education of 1970|普通教育法]]修订与公立师资培训体系改革，坚决抵制极端新自由主义教育券实验。
 > - **跨国／跨领域传播** 思想广泛辐射墨西哥、巴西、智利及北美比较教育学界，被视为拉美与全球[[Critical Pedagogy|批判教育学]]对话的代表性桥梁学者之一。
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** [[Carlos Alberto Torres]] — 共同撰写多部拉美国家政治学与公共教育批判奠基之作，长期在 UCLA 与拉美之间开展学术合作。
 > - **思想对话者** [[Paulo Freire]] — 共享[[Popular Education|民众教育]]与解放意识觉醒的核心关怀，积极吸收其[[Praxis|实践哲学]]。
 > - **理论对话者** [[Ernesto Schiefelbein]] — 共同主编并撰写《拉美教育：比较视角》（1998）。
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

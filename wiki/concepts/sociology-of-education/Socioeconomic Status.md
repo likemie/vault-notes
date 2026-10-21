@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Socioeconomic Status
@@ -173,9 +173,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1960 年代 — [[Coleman Report 1966|科尔曼报告]]与[[School Effectiveness|学校效能]]质疑** 詹姆斯·科尔曼（James Coleman）主持完成《教育机会均等报告》（*Coleman Report*, 1966），首次通过海量全国数据证实家庭社会经济背景对学生成就的影响远远超过学校物质设施与师资差异。
 > - **1970–1980 年代 — [[Pierre Bourdieu|布迪厄]]文化再生产与资本多维化** 皮埃尔·布迪厄（Pierre Bourdieu）提出[[Cultural Capital|文化资本]]与社会资本概念，推动社会经济地位研究从单纯的收入计量深入到阶层生活方式与符号权力传递。
 > - **2000 年代初 — [[PISA]] 评估与全球 SES 基准确立** [[OECD|经合组织]]（[[OECD]]）推行 PISA 国际学生评估，构建经济社会文化地位指数（ESCS），确立了社会背景是跨国学业变异主导来源的全球实证共识。
@@ -234,9 +232,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 审计[[John Hattie|哈蒂]] SES 正向[[Effect Size|效应量]]，揭示参照系反转后贫困成为全书最具破坏力的逆向因素（$-0.57$），并以挑战者号事故比喻批判去阶级情境的均值汇总（pp. 241–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判[[John Hattie|哈蒂]]拒绝将 SES 纳入调节[[Variable|变量]]的孤立归因偏误，提出“阶级盲教学思维”概念（pp. 6–7）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[OECD|经合组织]]数据确证家庭背景占据学业方差的绝对主导地位，反思新自由主义“学校抹平一切”的神话。
@@ -249,10 +245,10 @@ updated: 2026-10-21
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |
 > |---|---|---|
 > | [[Cultural Capital\|文化资本]] | 资源维度 | SES 与文化资本紧密交织，共同决定学生在正规教育评估中的优势累积。 |
-> | [[Pierre-Jérôme Bergeron]] | 人物 | 方法学审计 | 揭示 SES 参照系对调后贫困成为全书最大逆向破坏因素，批判脱离阶级情境的[[Meta-meta-analysis\|元综合]]。 |
+> | [[Pierre-Jérôme Bergeron]] | 人物 | 方法学审计：揭示 SES 参照系对调后贫困成为全书最大逆向破坏因素，批判脱离阶级情境的[[Meta-meta-analysis\|元综合]]。 |
 > | [[Visible Learning\|可见的学习]] | 批判靶标 | [[John Hattie\|哈蒂]]实证综合对 SES 采取刻意剔除调节[[Variable\|变量]]的处理，招致广泛方法学质检。 |
 > | [[Class Size]] | 交互调节 | 伯格等证实班级规模的有效性高度取决于学生的 SES 背景，孤立均值掩盖了[[Interaction Effect\|交互作用]]。 |
 > | [[Homework]] | 阶层折射 | 家庭作业被实证证明高度依附于家庭文化资本与物理辅导空间，容易放大阶层差距。 |
 > | [[Neo-Taylorism\|新泰勒主义]] | 治理同谋 | 阶级盲思维为新泰勒主义将社会结构矛盾转嫁为教师个人考核问责提供了合法性借口。 |
 > | [[Technical Rationality\|技术理性]] | [[Epistemology\|认识论]]根源 | 将复杂的社会阶级剥离出分析视界，源于技术理性将教育还原为封闭机械工程的偏见。 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 实证与方法学批判 | 提供基准反转（$-0.57$）、挑战者号情境剥离与未加权鱼子酱物价指数的方法学反证。 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 论证 | 实证与方法学批判：提供基准反转（$-0.57$）、挑战者号情境剥离与未加权鱼子酱物价指数的方法学反证。 |

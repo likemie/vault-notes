@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Hannah Arendt
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1906** 出生于德国下诺曼底汉诺威附近的林登（Linden），在柯尼斯堡成长；青年时期展现出非凡的古典语文学与哲学天赋。
 > - **1924–1928** 先后在马尔堡大学师从马丁·海德格尔（Martin Heidegger）、在弗莱堡大学师从[[Edmund Husserl|埃德蒙德·胡塞尔]]（Edmund Husserl），最终在海德堡大学卡尔·雅斯贝尔斯（Karl Jaspers）指导下完成博士论文《圣奥古斯丁爱之概念》（*Der Liebesbegriff bei Augustin*）。
 > - **1933** 纳粹上台后因参与反纳粹犹太复国主义地下文献收集遭盖世太保逮捕，随后流亡法国巴黎，投身青年移民救助机构。
@@ -157,9 +155,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **师承／合作者** 马丁·海德格尔（Martin Heidegger）— 早期哲学导师；卡尔·雅斯贝尔斯（Karl Jaspers）— 博士论文导师与毕生学术挚友。
 > - **哲学共鸣／实证互证者** [[Stanley Milgram|斯坦利·米尔格拉姆]]（Stanley Milgram）— 其耶鲁大学权威服从实验从微观心理学层面实证验证了阿伦特的[[Banality of Evil|平庸之恶]]命题。
 > - **教育哲学继承者** 赫特·比斯塔（[[Gert Biesta]]）与托马斯·奥斯特鲁普·勒梅尔（[[Thomas Aastrup Rømer]]）— 将其公共空间、主体化与判断力概念深度转化为批判当代教育技术官僚化与标准化测评的理论武器。
@@ -182,9 +178,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

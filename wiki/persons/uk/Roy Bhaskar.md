@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Roy Bhaskar
@@ -84,9 +84,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1944 年** 出生于英国伦敦。
 > - **1978 年** 发表代表作 *A Realist Theory of Science*，奠定[[Critical Realism|批判实在论]]科学哲学的[[Ontology|本体论]]基础。
 > - **1979 年** 发表 *The Possibility of Naturalism*，将批判实在论扩展至人文社会科学，探讨社会结构与人类能动性的辩证关系。
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术伙伴** 安德鲁·塞耶（Andrew Sayer）— 发展[[Critical Realism|批判实在论]]社会[[Scientific Method|科学方法]]论；[[Ray Pawson]] — 将批判实在论哲学转化为社会政策评估方法；[[Terry Wrigley]] — 将三层[[Ontology|本体论]]与开放系统论系统引入教育政策对证据本位评估的批判中。
 > - **后续应用** 埃迪·吴（Eddie Woo）— 将[[Explanatory Critique|解释性批判]]融入[[Critical Discourse Analysis|批判性政策话语分析]]。
 
@@ -163,9 +159,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Queer Theory
@@ -51,16 +51,12 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **身份作为位置性而非实在性** Halperin 的核心贡献——酷儿不是一种身份类型（如同性恋、跨性别），而是一种**相对于规范的反对立场**。任何被正常、合法、支配者所排斥的存在方式都可以是酷儿。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, p. 414)]]
 > - **拒绝简单归类** 酷儿理论反对将个人简化为单一身份标签。一个人的性别和性取向被其他特征和压迫形式所中介——社会阶级、族裔、肤色、残障——这些维度不能彼此分离。
 > - **规范的质询** 核心任务不是为越轨者争取"被接纳"（这实际上强化了规范的权威），而是**质询规范本身的合法性**。为什么某些性行为和性别表达被视为正常、其他被视为越轨？
 
 ---
 
-## 应用案例
-
-> [!case|notitle] 应用案例索引
+> [!case] 应用案例索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, p. 414)]] — 酷儿理论被列为[[Critical Theory\|批判理论]]伞下的重要取向，Halperin 的位置性定义是核心贡献。

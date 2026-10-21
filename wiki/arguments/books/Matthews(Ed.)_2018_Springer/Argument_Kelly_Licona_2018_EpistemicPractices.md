@@ -91,7 +91,7 @@ sources:
   - "[[books/Matthews(Ed.)_2018_Springer/Ch05_Kelly_Licona_2018|Ch05_Kelly_Licona_2018]]"
 status: draft
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Kelly_Licona_2018_EpistemicPractices
 
@@ -418,9 +418,7 @@ updated: 2026-10-20
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文指出的理论与实施边界包括：
 > 1. **职业科学实践不能直接生搬硬套到学校** 职业科研中存在激烈的利益竞争与人际博弈，这些行为如果直接复制到中小学课堂，可能对学生的心理健康与合作态度产生负面影响。教学设计必须以育人目标为前提，不能盲目追求表面上的原真性（pp. 148–149）；
 > 2. **概念知识与实践进阶的关系仍需深入研究** [[Epistemic Practices\|认识论实践]]高度依赖具体学科的概念基础，缺乏知识支撑的实践容易变成无意义的机械操作；但两者在不同年级和主题下究竟如何相互促进，仍需更多实证证据（pp. 159–160）；

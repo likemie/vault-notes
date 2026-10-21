@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Egon G. Guba
 
@@ -63,9 +63,7 @@ updated: 2026-10-16
 > 
 > 我们选择使用世界观一词，意指一套引导行动的基本信念。
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - *[[Interpretive Paradigm\|naturalistic inquiry]]* 确立[[Qualitative Research\|质性研究]]的独立[[Paradigm\|范式]]地位
 > - 第四代评价模型重新定义了教育评价的方法论基础
 > - 世界观的定义（Guba, 1990）成为研究方法教材中最广泛引用的哲学基础定义之一

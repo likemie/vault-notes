@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research-Policy Gap
@@ -95,9 +95,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | Research-Policy Gap | [[Research-Practice Gap]] | [[Evidence-Informed Decision-Making]] |
 > |---|---|---|---|
 > | **分析对象** | 政府政策制定者、教育部官员与学术研究系统 | 中小学教师、学校管理者与学术研究系统 | 政策决策模式与制度化治理框架 |
@@ -200,9 +198,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1970s — “两个社群”理论与启蒙模型** Caplan（1979）提出“两个社群”（Two Communities）假说，指出学者与决策者属于拥有不同语言、价值与生活方式的两个隔离群体；Weiss（1979）提出启蒙模型（[[Enlightenment]] Model），指出研究主要通过长期观念渗透而非直接工具性决定影响政策。
 > - **2000s — [[Evidence-Based Policy-Making|循证决策]]运动与理性主义批评** 英国新工党执政时期“有效性（What Works）”运动兴起，试图通过[[Systematic Review\|系统综述]]与政策工具包填补鸿沟；然而 Nutley 等人（2007）指出这种[[Technical Rationality\|技术理性]]主义模型低估了政策过程的复杂性。
 > - **2010s — 政治学与系统生态转向** Oliver 等人（2014）与 Cairney（2016）将[[Multiple Streams Framework\|多源流理论]]与复杂系统理论引入研究-政策鸿沟研究，论证政策制定并非理性的证据消化机器，而是充满政治妥协的竞技场。
@@ -232,9 +228,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 跨国实证绘制 37 个教育系统政策端的[[Research Utilization\|研究利用]]阻碍与机制部署全景，系统剖析时间错配与需求委托倒挂。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 辨析超越线性政策转移动员模式的关系统筹[[Paradigm\|范式]]与治理结构。
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 基于美国国会众议院立法实务，剖析证据在联邦教育政策制定中的转化困境，揭示政策时间系统与十年实验周期的脱节，提出整合法定示范条文的[[Legislative Policy Brief\|立法政策简报]]与国会研究员制度化弥合路径。

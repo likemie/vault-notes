@@ -89,7 +89,7 @@ sources:
 part_of:
 status: completed
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Atkinson_2008_TIS"
@@ -433,9 +433,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 原文指出，由于历史跨度长且涉及宏观体制演进，对部分复杂现象的长期因果走向仍需审慎评估：
 > 1. 针对 2000 至 2004 年间全美 R&D 支出中工业界出资比例下降（从 68% 降至 62%）而联邦比例上升的现象，原文明确说明其主要源于工业界研发投入在经济周期中的临时性收缩，这种比例变化究竟代表着长期的结构性趋势还是短期的暂时波动，仍有待未来数据进一步检验。（p.43）
 > 2. 原文虽然强调东亚（尤其是中国）大学通过高额经费投入正在快速追赶，并可能在未来对美国大学构成实质性竞争，但在成文时东亚大学体制的改革能否突破其传统中央行政集权瓶颈，依然充满不确定性。（pp.31, 46）

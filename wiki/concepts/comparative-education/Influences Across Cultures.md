@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Influences Across Cultures
@@ -192,9 +192,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1830s–1850s — 先驱实地考察与制度奠基阶段** 法国学者[[Victor Cousin|维克多·库森]]考察普鲁士初等教育并在英美广泛翻译流传；[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]等先驱亲赴欧洲开展实地考察，以“恶政良教可分”为由奠定美国公立公学（[[Common School Movement|Common School]]）与[[Normal School|师范学校]]（Normal School）基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–125)]]
 > - **1940s–1960s — 思想辐射与跨国双向考据阶段** [[Friedrich Schneider|弗里德里希·施奈德]]（Schneider, 1943）流亡中系统考证德国教育在海外的跨国影响；[[W. H. G. Armytage|哈里·阿米蒂奇]]（Harry Armytage）出版四卷本详述美、法、德、俄对英国教育变革的浸润，形成跨文化影响的历史考证高潮。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1960s–1980s — 战后[[Scientism|科学主义]]霸权下的贬抑边缘化** 诺亚与埃克斯坦（Noah & Eckstein, 1969）倡导实证量化与假说检验，将19世纪的跨文化借用与历史描述贬斥为“缺乏严密科学性、业余游记性质且充满主观赞美”的前建制形态，跨文化影响[[Paradigm|范式]]在主流期刊中边缘化。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121, 123)]]
@@ -237,8 +235,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合挪威改革委员会史料、美欧[[Common School Movement|公学运动]]考察文本及半个世纪期刊[[Meta-analysis|元分析]]，论述跨文化影响[[Paradigm|范式]]的学科遗产价值与[[Epistemology|认识论]]合法性。
 

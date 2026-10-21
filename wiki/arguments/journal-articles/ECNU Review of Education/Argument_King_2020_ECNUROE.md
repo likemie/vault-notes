@@ -53,7 +53,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_King_2020_ECNUROE"
@@ -349,9 +349,7 @@ issuing_organization: ""
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 1. **文本[[Discourse Analysis|话语分析]]与实地调研的距离** 对政策文本、发展规划与承诺语言的历时性话语分析，主要聚焦官方规范性表述，难以直接反映非洲留学生在华学习实况，亦未深入调研非洲中资企业与工业园区的具体用人成效。（p. 232）
 > 2. **多边规划转化为各国实际行动的制度阻力** 《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》主要体现了中国教育行政部门的战略倡议与行动愿景，不同于沿线各国联合制订的法定公约；将倡议愿景转化为多边教育制度的深层对接，仍面临各国治理体系差异与政策协调阻力。（pp. 232–233）
 

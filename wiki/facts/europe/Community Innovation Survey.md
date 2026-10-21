@@ -34,15 +34,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Community Innovation Survey
 
 ---
-## 背景
 
-> [!info|notitle]
+> [!info] 背景
 > 社区创新调查（Community Innovation Survey，CIS）是由 Eurostat 与[[EU|欧盟]]成员国国家统计机构合作开展的企业创新调查，基于[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）的 Oslo Manual 方法论。CIS 是欧洲创新研究最核心的企业层面数据来源，覆盖产品创新、流程创新、研发支出、创新合作、创新目标以及创新障碍等多个维度[[Argument_Bogliacino_Pianta_2016_EconPol\|(Bogliacino & Pianta, 2016)]]。
 
 ---
@@ -59,7 +58,6 @@ updated: 2026-10-16
 > CIS 2 和 CIS 3 的行业层面数据通过与各国数据提供方的合作协议获取——这些提供方为国家统计机构或经授权可交换数据的研究团队。CIS 4 的数据可从 Eurostat 获取（英国除外，其数据来自国家数据提供方）。数据库的[[Assemblage\|组装]]遵循了一套通用协议，沿用国家统计办公室的标准化程序。最新的 CIS 调查采用 NACE Rev. 2 分类，已通过 Perani and Cirillo（2015）开发的转换方法纳入数据库（pp.162-163）。
 
 ---
-## 在创新研究中的应用
 
-> [!note|notitle]
+> [!note] 在创新研究中的应用
 > CIS 数据被广泛用于检验创新理论、分类法和政策假设。[[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]]使用 CIS 的六个创新[[Variable\|变量]]——内部研发占创新支出比重、创新产品占营业额比重、流程创新企业占比、新设备投资企业占比、以供应商为创新来源的企业占比、以降低劳动力成本为目标的企业占比——进行主成分分析，验证了修订版 [[Pavitt Taxonomy]] 的有效性。其他典型应用包括创新与就业关系研究（Bogliacino & Pianta, 2010）和创新与生产率关系研究（Bogliacino & Pianta, 2011）。

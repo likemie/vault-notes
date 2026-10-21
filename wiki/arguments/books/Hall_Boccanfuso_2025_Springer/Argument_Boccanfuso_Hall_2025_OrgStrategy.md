@@ -63,7 +63,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
@@ -90,9 +90,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 - [[Triple Helix]]（三重螺旋）— Etzkowitz and Leydesdorff(1995)的大学-产业-政府协作模型，提供了[[University-Industry Collaboration|产学合作]]的宏观制度背景。政府通过 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 等立法和 [[National Science Foundation|NSF]] 等资助机制塑造产学互动的制度环境，大学和企业在这个环境中寻找合作空间(p.52)
 - [[Entrepreneurial University]]（创业型大学）— Etzkowitz et al.(2000)提出的模型：大学不再是被动等待企业上门，而是主动调整内部文化、创建专门办公室、改革激励制度来寻求产业合作。本章研究的正是这种"主动组织"的具体形态(p.52)
 - [[University-Industry Collaboration]] — 该章关注的不只是产学合作的内容（[[Knowledge Transfer|知识转移]]、技术商业化），更是它的组织形式（谁来管、管什么、怎么管）。核心问题是：大学如何把产学合作从一个分散的、个人驱动的活动变成一个有组织、有战略的制度行为
@@ -115,9 +113,7 @@ citation_aliases:
 
 ---
 
-## 论证结构
-
-> [!example|notitle]
+> [!example] 论证结构
 > 论证链可以分为三层：首先是**框架层**——建构了一个什么样的框架、它包含哪些部分以及各部分之间的逻辑关系；然后是**实证层**——用这个框架去审视 65 所大学的实际组织状况，发现五种模式、共同的局限（碎片化）和双方优先事项的异同；最后是**综合层**——从"碎片化"和"共识"之间提炼出组织[[University-Industry Collaboration\|产学合作]]的核心张力：大学和企业都知道应该怎么做（互利、灵活、全面），但实际上没有人能做到全面。
 
 ### 第一层：给定框架——产学参与的"全景地图"
@@ -357,9 +353,7 @@ citation_aliases:
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 - 网站分析基于大学公开呈现的内容，可能与实际组织结构存在偏差——网站可能夸大中心办公室的覆盖范围（为了对外展示"一站式服务"的形象），也可能未反映某些非正式但有效的内部协调机制(p.56)
 - 样本以 [[University Industry Demonstration Partnership|UIDP]] 成员大学为主、以美国大型[[Research Universities|研究型大学]]为主，结论对小型文理学院、教学型大学和非美国背景的适用性有限(p.56)
 - 企业调查回复率极低（7%），可能存在严重的自选偏差——对大学合作特别积极（或特别不满）的企业更可能回复(p.64)

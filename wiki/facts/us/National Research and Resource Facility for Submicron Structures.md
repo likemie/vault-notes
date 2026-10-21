@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-10
+updated: 2026-10-22
 ---
 
 # National Research and Resource Facility for Submicron Structures
@@ -138,9 +138,7 @@ updated: 2026-10-10
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

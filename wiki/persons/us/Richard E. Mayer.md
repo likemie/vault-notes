@@ -47,7 +47,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Richard E. Mayer
@@ -106,9 +106,7 @@ Mayer 的核心洞见在于：**学习者的“主动性”必须是“内部认
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

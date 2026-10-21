@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Import Substitution Industrialisation
@@ -151,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1930s–1950s — 起源阶段** 面对大萧条与二战导致的国际贸易断绝，阿根廷、巴西、墨西哥等拉美大国自发开启工业品进口替代；联合国拉加经委会（ECLAC/CEPAL）经济学家劳尔·普雷维什（Raúl Prebisch）系统提出[[Dependency Theory|依附理论]]与中心-外围不平等贸易理论，为国家主导的进口替代提供学理合法性。
 > - **1960s — 黄金期与教育大扩张** 进口替代工业化进入重工业与耐用消费品阶段；[[Human Capital Theory|人力资本理论]]与国家发展规划深度结合，拉美迎来历史上规模最大的中高等教育大爆发，年增长率高居全球榜首。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 > - **1970s — 结构瓶颈与社会抗争** 市场规模有限与缺乏财富二次分配导致内需饱和，工业利润率下滑；中高等教育毕业生[[Credential Inflation|文凭通胀]]与就业不足加剧，青年学生运动与城市游击队运动频发。
@@ -186,9 +184,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

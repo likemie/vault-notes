@@ -123,7 +123,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-01
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Argument_Kazamias_2009_HistoricalReflections
 
@@ -444,9 +444,7 @@ updated: 2026-10-20
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 作者自述本章旨在作为一篇具有宏观历史哲学与理论反省性质的个人学术自白（Personal Testament），侧重于梳理比较教育[[Discourse|话语]]的“代际”与“类型”，并未穷尽微观具体国家教育系统内部的个案差异与全部制度细节；对英国与北美比较教育学术脉络的侧重反映了作者自身的学术生涯履历，对非英语世界的某些区域性历史脉络未能予以均等篇幅展开。（pp.139–140, 151, 155–156）
 
 ---

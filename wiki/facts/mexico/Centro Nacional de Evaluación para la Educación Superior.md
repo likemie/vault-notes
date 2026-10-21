@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Centro Nacional de Evaluación para la Educación Superior
@@ -62,9 +62,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 成为拉丁美洲规模最大、制度化程度最高的高等教育国家级准入与毕业统考中枢。
 > - **实践影响** 为墨西哥数百所大学提供了客观统一的生源选拔依据与学科教学质量外部诊断数据。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
 > - **知识影响** 展现了发展中国家在大规模高利害统考中系统整合[[Critical Thinking\|批判性思维]]与高阶推理测查的实践路径。

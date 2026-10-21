@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # International Spinozian Curriculum
@@ -55,9 +55,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **欲望与情感内在平面** 将学生视为充满欲望的身体，主张将课堂冲突与情感，例如焦虑、叛逆视为可用于想象力表征和理性重组的生产性力量，而非需要排除的杂音。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 214–215)]]
 > - **想象力的核心位置** 视想象力为智识发展的基石，认为理性和直觉的发展依赖想象力的解放，依靠想象力建立事物间的全新联系。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 214, 220)]]
 > - **群体力量的政治基石** 课程的社会政治维度否定了契约式的公民或权利认同，而基于课堂群体的共同力量（potentia multitudine），以探究和拆解社会习惯与体制的权力控制为学习目的。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 218, 222)]]
@@ -87,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2005 — 概念初创** 科尔发文批判[[Theory of Knowledge\|知识论]]的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]理性公民培训[[Paradigm\|范式]]，首次阐发国际[[Baruch Spinoza\|斯宾诺莎]]主义课程作为融合想象力与情感、聚焦权力与欲望探索的课程替代方案。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 214, 220)]]
 
 ---
@@ -101,7 +97,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 提出了国际[[Baruch Spinoza\|斯宾诺莎]]主义课程框架，用以平衡学术研究与想象力培育，并为后现代知识探究提供新的方法论基础。

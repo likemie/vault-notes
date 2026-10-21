@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Educational Governance Framework
@@ -93,9 +93,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -146,9 +144,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 多层级教育系统中宏观政策、中观督导与微观[[School Leadership\|学校领导]]之间的协调机制、[[Recontextualization|再情境化]]过程与行动者观念分化。
 > - **成立条件** 适用于存在多层级科层行政与单校专业能动空间的现代教育制度；需要结合政策文本、督导工作记录与一线校长量表数据。
 > - **解释不足** 早期[[Analytic Framework\|分析框架]]对宏观新自由主义意识形态与资本逻辑对教育公益性的深层侵蚀关注不足；对行动者微观认知改变心理机制的刻画相对宏观。
@@ -169,7 +165,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 以教育治理框架为核心理论坐标，实证检验奥地利中小学校长治理态度聚类及其对微观日常工时配置与教学领导的重塑效应。

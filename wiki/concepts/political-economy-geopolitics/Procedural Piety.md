@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Procedural Piety
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 程序虔敬（Procedural Piety） | [[Output-Oriented Governance\|结果导向治理]] | [[Engineering Mindset\|工程思维实干伦理]] |
 > |:---|:---|:---|:---|
 > | **最高裁判准绳** | 程序无瑕疵、审计零违规、道德表演完美 | 物理世界真实成效（造出潜艇、消除疾病、减少犯罪） | 解决复杂工程难题、系统物理[[Reliability\|可靠性]]与战法交付 |
@@ -169,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **公元前 4 世纪 — 古典政治哲学的“拒利统治者”理想** [[Plato|柏拉图]]（[[Plato]]）在《理想国》中提出优秀统治者不应为金钱与荣誉而治理，奠定了西方将公职视为超越物质利益的道德天职传统。
 > - **1787 年 — 美国制宪会议的“公款防范”警惕** [[James Madison|麦迪逊]]（[[James Madison]]）警告议员自定薪资无异于“把手伸进公款”，强化了美国公职补偿中的清教禁欲底色。
 > - **1950s–1980s — 冷战战略工程与官僚规制冲突** 里克弗以“违规实干”突破核潜艇研制，晚年遭 6.7 万美元纪念品清算，标志着形式主义合规审查对国家战略实干家的压制达到顶峰。

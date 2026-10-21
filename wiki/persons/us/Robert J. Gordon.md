@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Robert J. Gordon
@@ -56,9 +56,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1940** 出生于美国波士顿一个经济学世家。
 > - **1967** 获得麻省理工学院经济学博士学位，师从诺贝尔经济学奖得主罗伯特·索洛（Robert Solow）。
 > - **1973** 加入西北大学经济系，长期担任宏观经济学与生产率研究讲席教授。
@@ -96,9 +94,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **经济史[[Paradigm|范式]]路径** 确立了以“[[Total Factor Productivity|全要素生产率]]（TFP）黄金期（1920–1970）vs 放缓期（1970–至今）”为核心的历史分期模型。
 > - **科技政策反思路径** 强力打破了硅谷科技至上主义神话，促使各国政府反思信息技术对实体经济拉动能力的实质边界。
 > - **战略创新路径** 卡普与扎米斯卡（2025）将戈登的实证发现作为批判[[Big Idea Famine|大构想饥荒]]的经济学基石，主张通过国家任务重构工业制造与实体工程[[Hard Power|硬实力]]。
@@ -114,9 +110,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **博士导师** 罗伯特·索洛（Robert Solow） — 提出索洛增长模型与著名“计算机无处不在，唯独不见于生产率统计”的索洛悖论。
 > - **学术论敌／对话者** 埃里克·布林约尔松（Erik Brynjolfsson） — 《第二次机器革命》作者，主张数字经济测算严重低估了消费者福利。
 > - **跨学科思想共鸣** [[Nicholas Negroponte|尼古拉斯·尼葛洛庞帝]]、[[David Graeber|大卫·格雷伯]] — 分别从工程界与人类学界印证技术野心向浅层消费退缩的现实。
@@ -138,9 +132,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
@@ -150,9 +142,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid|notitle] 相关研究索引
+> [!evidence-grid] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引戈登关于 1970 年后[[Total Factor Productivity|全要素生产率]]断崖式下滑与创新狭窄化的经典实证研究，论证克服[[Big Idea Famine|大构想饥荒]]与重振实体工程雄心的极端紧迫性。
 
 

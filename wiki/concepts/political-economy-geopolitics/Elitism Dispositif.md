@@ -34,21 +34,17 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Elitism Dispositif
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 精英部署（Elitism Dispositif）是 Maesse 在 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]的一期 Higher Education 中提出的批判[[Constructivist Paradigm\|建构主义]]概念，借用了 Foucault 的 dispositif（部署/装置）概念来分析经济学作为社会科学学科中学术精英的生产和再生产机制。它描述了一套制度配置——统一的科研产出评估、物质与人力资源的机构集中、院系规模与合作水平——共同运作以明确界定谁被承认为学科的精英、谁被推至学术可见度的边缘([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.806]])。
 
 Foucault 的 dispositif 指异质元素（制度、法律、[[Discourse|话语]]、建筑、科学陈述等）之间形成的策略性网络，它回应某种紧迫需求并产生特定的权力效应。Maesse 将这一概念用于学术[[Champ|场域]]分析：精英部署不只是"精英存在"的事实，而是一套**生产**精英的制度机器——它通过评估标准的统一化、资源的集中化和院系组织的规模化，系统性地制造学科内部的中心-边缘分化。
 
-## 运作机制
-
-> [!abstract|notitle]
+> [!abstract] 运作机制
 > 精英部署通过三个相互强化的机制运作([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.806]])：
 
 - **科研产出的统一评估** 建立全球通用的经济学研究质量标准——哪些期刊算"顶级"、哪些方法算"前沿"、哪些问题算"重要"。这一标准的统一化使得全球经济学者的工作变得可比较和可排序，但也系统性地边缘化了不符合主流[[Paradigm|范式]]的研究传统和问题意识
@@ -65,9 +61,7 @@ Foucault 的 dispositif 指异质元素（制度、法律、[[Discourse|话语]]
 > [!example] 两位经济学家，两种权威
 > 一位哈佛经济学正教授和一位地方文理学院的经济学副教授同时被邀请评论一项贸易政策。前者的观点几乎自动被赋予更高的可[[Reliability\|信度]]——不是因为他对该政策的了解更深（后者可能在同一政策领域研究了十年），而是因为他的机构隶属和发表记录触发了"精英信号"。这个信号的运作独立于实际的专业知识：观众听到"哈佛教授"这个标签，认知捷径就已经完成了权威的预判。这就是精英部署的跨场域效应。
 
-## 与相关概念的关系
-
-> [!example|notitle]
+> [!example] 与相关概念的关系
 > - vs [[Discursive Stratification]]：话语分层是更广泛的分析路径——关注所有形式的[[Discourse|话语]]如何建构社会等级。精英部署是话语分层在经济学学科中的一个具体案例——展示了评估、排名和机构集中如何成为生产精英身份的制度机器
 > - vs [[Academic Oligarchy]]：学术寡头描述的是**结果**——少数精英机构和学者对资源和标准的垄断性控制。精英部署描述的是**生产过程**——这种寡头结构是如何被制度性地制造和维持的
 > - vs Foucault 的 dispositif：Foucault 的原始概念涵盖更广泛的社会控制装置（如监狱、诊所、学校）。Maesse 将其特定化于学术[[Champ\|场域]]中的精英生产机制——保留了 Foucault 对权力生产性的关注（权力不只是压制，更是制造），但聚焦于学术界的特定制度配置

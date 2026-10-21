@@ -65,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Tianxia Heuristic
@@ -103,9 +103,7 @@ updated: 2026-10-21
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -155,9 +153,7 @@ updated: 2026-10-21
 
 ---
 
-## 局限性与适用边界
-
-> [!theory-boundary|notitle] 局限性与适用边界
+> [!theory-boundary] 局限性与适用边界
 > - **适合分析** 具有多边性、非官方性或复合型治理架构的国际高等教育网络与学术外交倡议。
 > - **成立条件** 参与主体具备自愿协商与网络互联意愿，存在多边对话管道，且发起方有意愿提供持续公共资源支持。
 > - **解释不足** 对强权政治介入下的地缘阻断、制裁脱钩与学术安全壁垒缺乏充分的微观对抗性解释；对主权国家内部行政干预与[[Academic Freedom|学术自由]]张力的刻画相对有限。
@@ -187,9 +183,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 将天下启发式框架应用于分析[[Belt and Road Initiative|一带一路]]大学联盟实践，提炼以世界为中心的天下观与[[Normalization through Knowledge Cooperation|网络中心性常态化]]理论。
 > - [[Argument_Bulag_2024_CE|Bulag (2024)]] — 深度解构[[Zhao Tingyang|赵汀阳]]天下体系理论在当代民族认同[[Discourse|话语]]建构中的哲学功能与政治局限。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合中柬高教合作案例审视[[Neo-Tributary Perspective|新朝贡分析框架]]与天下启发式，主张将二者整合以解释中国高教外向拓展在经贸外交驱动与[[Cultural Recognition|文化认同探索]]中的张力。

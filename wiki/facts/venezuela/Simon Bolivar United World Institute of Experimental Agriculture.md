@@ -29,7 +29,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-22
 ---
 # Simon Bolivar United World Institute of Experimental Agriculture
 
@@ -70,9 +70,7 @@ updated: 2026-09-29
 > [!warning] 实施状态边界
 > 截至 1985 年，土地、部分建筑、基金会、候任院长和课程规划已经存在，但学院尚未正式开学。计划目标不能记为已经实现的教育成效。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 173–174)]]
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[United World Colleges]] | Fact | 项目测试了 UWC 能否以区域职业教育回应世界饥饿和南北差距。 |

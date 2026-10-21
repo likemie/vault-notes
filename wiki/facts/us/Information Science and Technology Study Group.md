@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Information Science and Technology Study Group
@@ -94,9 +94,7 @@ updated: 2026-10-15
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

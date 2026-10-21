@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Ernest Renan
@@ -66,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1823** 出生于法国布列塔尼的特雷吉耶，早年接受严格的神职教育，后转向东方语言与宗教哲学研究。
 > - **1863** 出版划时代著作《耶稣传》（*Vie de Jésus*），引起欧洲思想界轰动。
 > - **1882** 在巴黎索邦大学发表著名演说《什么是民族？》（*Qu'est-ce qu'une nation?*），阐发[[Everyday Plebiscite|每日公民投票]]论断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
@@ -107,9 +105,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **理论共鸣与承继** [[Benedict Anderson|本尼迪克特·安德森]] — 安德森的“[[Imagined Community|想象的共同体]]”继承了勒南将民族视为心理感知与主观联结的核心洞见。
 > - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用勒南命题批判后现代虚无主义与后国家[[Cosmopolitanism|世界主义]]。
 
@@ -127,9 +123,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

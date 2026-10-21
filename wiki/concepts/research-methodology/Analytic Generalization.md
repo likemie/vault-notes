@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Analytic Generalization
 
@@ -88,7 +88,5 @@ updated: 2026-10-21
 > [!claim] 推广的四种形式
 > **多层次推广框架** 个案研究的推广并非单一模式，可以通过四种路径实现：(a) 从单个实例推广到它所代表的实例类别——如一所单一性别选拔性学校可作为反映其他同类学校重要特征的案例；(b) 从单一案例的特征推广到具有相同特征的多个类别；(c) 从案例部分的单个特征推广到该案例的整体；(d) 从单个案例推广到理论延伸或理论推广。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 288)]]
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 教材系统阐述了分析性推广与统计推广的区分，引述Yin（2009）的核心论断和Verschuren（2003）的低变异性论证，并梳理了推广的四种形式（pp. 288–289）

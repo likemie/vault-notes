@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Nerd
@@ -54,9 +54,7 @@ updated: 2026-10-17
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Nerd 现象包含三个核心层次：标签化（labeling）、同伴规范的强制执行（norm enforcement）、以及系统性后果（consequences）。
 
 ### 标签化
@@ -89,9 +87,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 
 ---
 
-## 文化根源
-
-> [!tip|notitle]
+> [!tip] 文化根源
 > Li 综合研究文献，提出了西方 nerd [[Peer-Supported Learning|同伴文化]]得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
 
 ### 1. 固定自我观
@@ -117,9 +113,7 @@ Oakes and Guiton 对美国高中[[Tracking|分轨制]]（tracking）的长期研
 
 ---
 
-## 跨文化对比
-
-> [!example|notitle]
+> [!example] 跨文化对比
 > 与西方形成鲜明对比的是，在东亚学校中，"nerd"作为一个类型或分类似乎并不存在。在中国的校园里，只存在两个同伴群体：好学生群体和反社会／行为不良群体。高成就者通常被钦佩、受欢迎、被模仿、被寻求为朋友——无论他们在其他方面是否"不够酷"（如外貌、运动能力、纯社交能力）([[Argument_Li_2012_Cambridge\|Li, 2012, pp.101–102]])。
 
 Chen 等人的[[Longitudinal Study|纵向研究]]发现：属于高成就群体的小学和初中儿童，两年后社交能力变得更强。即使是学业较弱的学生，只要属于高成就群体，也比属于低成就群体的学生发展出更少的社交问题——在 China，与高成就同伴交往对负面社交行为具有保护作用([[Argument_Li_2012_Cambridge|Li, 2012, p.102]])。
@@ -130,9 +124,7 @@ Chen 等人的[[Longitudinal Study|纵向研究]]发现：属于高成就群体�
 
 ---
 
-## 对亚裔美国学生的影响
-
-> [!warning|notitle]
+> [!warning] 对亚裔美国学生的影响
 > 亚裔美国儿童作为一个整体，已成为美国校园中默认的"nerd"群体。他们来自强调学校学习的文化背景，体型可能较小、运动能力可能不突出——外貌和行为上都契合了 nerd 的形象。
 
 Way 及其同事在纽约的研究发现：华裔移民青少年经历了来自非亚裔同伴的广泛歧视和骚扰——包括随机的"拍打"（slappings）、推搡、辱骂（"chino"、"geek"）以及抢劫。这些事件即使在成人在场时也发生。Rivas-Drake、Hughes and Way 使用标准化测量工具发现：华裔美国学生报告的同伴骚扰事件约为非裔美国学生的两倍，且表现出更高的抑郁症状和更低的自尊([[Argument_Li_2012_Cambridge|Li, 2012, pp.114–117]])。

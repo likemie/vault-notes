@@ -7,10 +7,10 @@ aliases:
 summary: "变量在理论层面的抽象意义表达，代表不可直接观察的潜在概念实体；必须通过明确的操作化转化为具有可测属性的变量才能被经验检验（Creswell & Creswell, 2022），在二阶证据综合与元分析中依赖严格的 PICO 门禁以防范构念错位与因果解释力瓦解（Kalmendal et al., 2025）。"
 type: concept
 domain: "research-methodology"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist
@@ -23,24 +23,10 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Operationalization]]"
   - "[[PICO Framework]]"
-  - "[[Abstract]]"
-  - "[[Discourse]]"
-  - "[[Socioeconomic Status]]"
-  - "[[Educational Level]]"
-  - "[[Definition of Terms]]"
   - "[[Construct Validity]]"
   - "[[Visible Learning]]"
-  - "[[Preregistration]]"
-  - "[[Metascience]]"
-  - "[[Interpretive Validity]]"
-  - "[[Ontology]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Umbrella Review]]"
-  - "[[Questionnaire]]"
-  - "[[Meta-meta-analysis]]"
-  - "[[Research Synthesis]]"
-  - "[[Effect Size]]"
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
@@ -54,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Construct
@@ -165,9 +151,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1955 — 构念效度概念正式确立** 克隆巴赫与米尔（Cronbach & Meehl, 1955）在心理测量领域正式提出构念效度（Construct Validity）与概念法则网络（Nomological Network），奠定潜变量构念假说检验的方法学基石。
 > - **1980s — 结构方程模型与潜变量统计分析普及** 随着 Jöreskog 等人推广线性结构方程模型（SEM），构念在统计上被明确表征为潜变量（Latent Variable），区分测量模型（构念与指标关系）与结构模型（构念间因果路径）。
 > - **2000s — 大规模跨国学业测评构念独立性质疑** 随着 PISA、TIMSS 等全球统考普及，林德曼（Rindermann, 2007）等学者运用因子分析揭示跨测验认知构念的高度重合，引发对国际组织独立素养构念的批判反思。[[Argument_Zhao_2020_JEC|(Zhao, 2020, pp. 248–250)]]
@@ -211,8 +195,6 @@ updated: 2026-10-21
 > | [[Argument_Zhao_2020_JEC\|Zhao (2020, pp. 248–250)]] | 参加 PISA、TIMSS 与 PIRLS 的跨国学生样本数据集 | 探索性与验证性因子分析（引自 Rindermann, 2007） | 跨测验国家平均分相关性与底层认知因子载荷 | 各测验国家得分间跨国相关性极高；所有主要测验高度载荷于单一强国家认知潜变量（$g$ 因子） | 统计因子分析推论 | 证实各跨国学业测验声称的独特素养在底层认知构念上高度重合 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 研究设计经典专著，系统阐发理论构念、外显变量与假设检验链条的方法论定位（pp. 53, 130）。

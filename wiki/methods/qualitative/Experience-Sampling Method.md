@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Experience-Sampling Method
 
@@ -96,9 +96,7 @@ updated: 2026-10-20
 > - **误用风险** 将表面的选择频率（方法1–2）当作主要发现而忽视深层解释；将尝试性解释图式当作确定结论。
 > - **补救方式** [[Cross-checking\|交叉检查]]和[[Member Tests\|成员核验]]（Kitwood, 1977）；将假设带回参与者征求意见，传达被证明错误和证明正确同样欢迎的态度。
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

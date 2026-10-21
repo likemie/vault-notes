@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # ResearchED
@@ -98,9 +98,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **激发草根证据需求与[[Teacher Professional Agency\|教师能动性]]** 促进了教师群体对实证研究的自发关注与讨论热情，打破了大学研究单向灌输的传统壁垒，成为英国及国际上教师主导教育改进运动（Flip the System）的重要载体([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 127]])。
 > - **教师专业视野的窄化** 通过在 [[Randomised Controlled Trials\|RCT]] 与其他研究（定性、案例、[[Action Research\|行动研究]]）之间划定严格的科学二分法，诱使教师将复杂的课堂因果简化为单一的实验数据，过滤掉教师对社会阶层、公平及本地情境的政治性反思([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 124]])。
 > - **对政府保守议程的护航** ResearchED 标榜的“证据[[Paradigm\|范式]]”在事实上为政府强推的“合成拼读法”（systematic synthetic phonics）等特定课程项目提供了合法性背书，削弱了大学本位的批判性研究([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
@@ -121,9 +119,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

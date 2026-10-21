@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-08'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Employability
@@ -213,9 +213,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联与知识网络
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联与知识网络
 >
 > | 条目 | 类型 | 在知识网络中的定位与功能 |
 > |:-----|:-----|:-------------------------|

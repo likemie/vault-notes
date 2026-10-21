@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Nancy Cartwright
@@ -89,9 +89,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1944 年** 出生于美国宾夕法尼亚州，后于伊利诺伊大学芝加哥分校获得哲学博士学位。
 > - **1970s–1980s** 任教于斯坦福大学，发表奠基性专著《物理学定律是如何说谎的》（*How the Laws of Physics Lie*, 1983），确立其实在论与反普适因果法则的哲学声誉。
 > - **1990s–2000s** 转任伦敦政治经济学院（LSE）与加州大学圣迭戈分校教授，创建自然与社会科学哲学中心（CPNSS），转向社会科学[[Causality\|因果推断]]与公共政策评估。
@@ -140,9 +138,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!person-network|notitle] 关系网络
+> [!person-network] 关系网络
 > - **学术合作者** [[Nick Cowen]] — 共同撰写教育循证政策工作论文，将卡特赖特因果哲学落地为学校决策指南。
 > - **学术合作者** Jeremy Hardie — 共同撰写《证据知情政策实践指南》（2012）。
 > - **教育学共振者** [[Gert Biesta]] — 同样反对医学化 [[Randomised Controlled Trials\|RCT]] 垄断教育研究，从价值哲学与因果哲学双向夹击“什么有效”教条。
@@ -166,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

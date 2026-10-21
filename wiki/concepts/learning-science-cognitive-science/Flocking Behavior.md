@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Flocking Behavior
@@ -69,9 +69,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 集群行为（Flocking Behavior） | 中心领队编队（Leader-Follower Formation） | 散乱随机飞行（Random Scattering） |
 > |---|---|---|---|
 > | **控制中枢** | 无中心首脑，由边缘感知个体自发触发 | 单一领队或领航机集中发令控制 | 无任何控制机制与统一目标 |
@@ -137,9 +135,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s — [[Computer Simulation|计算机仿真]]奠基阶段** 雷诺兹（Craig Reynolds）提出 Boids 模型，通过分离、对齐、凝聚三条局域规则首次在计算机图形学中模拟出集群运动。
 > - **2005 — 实验物理学与三维拓扑突破** [[Giorgio Parisi|帕里西]]团队在罗马马西莫宫开展高速立体摄影实验，从物理学上严格证实了椋鸟群飞的盘状几何结构与边缘个体触发机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **2025 — 升华为去中心化工程[[Organizational Culture|组织文化]]原型** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将集群行为确立为打破科层官僚僵化、释放工程师[[Creativity|创造力]]与即兴应变能力的核心组织原型。
@@ -172,7 +168,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Karp & Zamiska (2025, Ch. 10, pp. 120–121)]] — 专著第 10 章系统梳理了[[Giorgio Parisi|帕里西]]团队对罗马椋鸟群飞的实验物理学发现，将其与生物蜂群并列为解释初创工程组织敏捷转向与消除中层指令阻滞的微观自组织物理学原型。

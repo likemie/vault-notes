@@ -11,10 +11,10 @@ aliases:
 summary: "对研究利用方式的经典三分类：概念性使用指研究以间接方式影响理解与思考，工具性使用指研究直接用于具体决策，象征性使用指研究被事后用来为已定决策背书"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - topic/research-use
   - topic/educational-policy
@@ -37,7 +37,6 @@ related_theories:
   - "[[Knowledge Integration]]"
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Research Utilization Models]]"
-  - "[[Embodied, Inscribed and Enacted Knowledge]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Questionnaire]]"
@@ -49,18 +48,18 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Center for Research in Policy and Practice]]"
-  - "[[PISA]]"
   - "[[Swedish Schools Inspectorate]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Dedering_2009_EERJ]]"
-  - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Conceptual, Instrumental, and Symbolic Use of Research
@@ -86,9 +85,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 概念性使用 | 工具性使用 | 象征性使用 |
 > |------|--------|--------|--------|
 > | 作用方式 | 间接影响理解与思考 | 直接影响具体决策 | 事后为决策合法化 |
@@ -208,9 +205,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1977–1978 — 象征与工具区分** Knorr (1977) 区分象征性使用与工具性使用，Pelz (1978) 扩展[[Research Utilization|研究使用]]的视角。
 > - **1979–1980 — 类型学奠基** Weiss 提出七种[[Research Utilization|研究利用]]模型，并引入"知识渗透"概念（Weiss, 1980）。
 > - **2007 — 三分类系统化** Nutley et al. (2007) 在公共部门证据使用研究中系统化概念性、工具性与象征性三分类。
@@ -244,17 +239,15 @@ updated: 2026-10-21
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization|研究使用]]实证研究，来自 28 个国家 | [[Systematic Review|系统综述]]＋框架综合 | 研究使用方式的分布 | 以象征性与工具性使用为主，深思熟虑参与相对罕见；研究常为三方[[Dialogue in Education|对话]]中的"第三声音" | — | 描述性综合，反映文献报道分布而非精确比例 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | 德国 4 个联邦州教育部质保部门官员（12 场[[Expert Interview|专家访谈]]） | 探索性定性[[Case Study|案例研究]]＋[[Content Analysis|内容分析]] | 教育行政中的数据利用模式演进 | 早期以象征性合法化与政党博弈为主；后续发展出问题导向（工具性诊断弱势群体）与数据导向（识别困难学校）以及假说检验式概念阅读 | — | 质性深度描述，覆盖 2001–2009 年政策周期 |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate|瑞典学校督察局]]；常规督导与质量审计 | 工具性[[Case Study|个案研究]]；访谈与会议观察 | 三种研究使用在督导不同业务流程中的表现形态 | 常规督导将研究编码为 10 个评估领域（工具性）；质量审计编制知识综述启发思维（概念性）；终审定稿删改批判解释以背书官方立场（象征性） | 不适用（质性工具性个案研究） | 揭示三种使用在政策机构全流程中动态演进与共存机制（pp. 648–654） |
+> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 109 项学校[[Research Utilization\|研究使用]]实证研究，来自 28 个国家 | [[Systematic Review\|系统综述]]＋框架综合 | 研究使用方式的分布 | 以象征性与工具性使用为主，深思熟虑参与相对罕见；研究常为三方[[Dialogue in Education\|对话]]中的"第三声音" | — | 描述性综合，反映文献报道分布而非精确比例 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | 德国 4 个联邦州教育部质保部门官员（12 场[[Expert Interview\|专家访谈]]） | 探索性定性[[Case Study\|案例研究]]＋[[Content Analysis\|内容分析]] | 教育行政中的数据利用模式演进 | 早期以象征性合法化与政党博弈为主；后续发展出问题导向（工具性诊断弱势群体）与数据导向（识别困难学校）以及假说检验式概念阅读 | — | 质性深度描述，覆盖 2001–2009 年政策周期 |
+> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]；常规督导与质量审计 | 工具性[[Case Study\|个案研究]]；访谈与会议观察 | 三种研究使用在督导不同业务流程中的表现形态 | 常规督导将研究编码为 10 个评估领域（工具性）；质量审计编制知识综述启发思维（概念性）；终审定稿删改批判解释以背书官方立场（象征性） | 不适用（质性工具性个案研究） | 揭示三种使用在政策机构全流程中动态演进与共存机制（pp. 648–654） |
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 以该类型学为概念透镜记录学校[[Research Utilization|研究使用]]方式，发现深思熟虑参与比象征性与工具性使用更罕见，并据此提出从实施走向整合。
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership|研究-实践伙伴关系]]对教育者[[Evidence-Based Policy-Making|证据本位决策]]的影响。
 > - [[Argument_Dedering_2009_EERJ|Dedering (2009)]] — 考察德国各州教育部对 [[PISA]] 及大规模测评数据的利用方式，揭示数据使用从早期的战术性合法化（象征性使用）向日常治理中的问题诊断（工具性使用）与假设检验（概念性使用）演进的机制路径。

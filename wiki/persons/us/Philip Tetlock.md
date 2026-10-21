@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Philip Tetlock
@@ -69,9 +69,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1954** 出生于加拿大，后赴美深造，在耶鲁大学获得心理学博士学位。
 > - **1980年代起** 启动对政治专家长期预测的大规模[[Cohort Study|追踪研究]]，系统收集专家对全球[[Geopolitics|地缘政治]]演变的量化预测数据（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 162–163]]）。
 > - **1990年代–2000年代** 先后任教于加州大学伯克利分校、俄亥俄州立大学及宾夕法尼亚大学。
@@ -100,8 +98,6 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **认知与决策科学** 奠定了专家判断量化校验的[[Paradigm|研究范式]]，推动了预测市场与集体智能评估机制的发展。
 > - **工程与战略治理** 在[[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）对[[Technological Republic|技术共和国]][[Engineering Mindset|工程思维]]的论述中，泰特洛克的实证结论被用于论证摆脱教条主义、直面真实复杂反馈的务实工程文化价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 162–164]]）。

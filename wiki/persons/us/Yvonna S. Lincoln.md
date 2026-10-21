@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 # Yvonna S. Lincoln
 
@@ -62,9 +62,7 @@ updated: 2026-10-16
 > 
 > Lincoln and Guba 将模式理论称为在自然主义或质性研究过程中发展的解释。
 
-## 影响
-
-> [!success|notitle]
+> [!success] 影响
 > - *[[Interpretive Paradigm\|naturalistic inquiry]]*（1985）确立了[[Qualitative Research\|质性研究]]作为独立合法[[Paradigm\|范式]]的方法论地位
 > - 与 Norman K. Denzin 共同主编的 *Handbook of Qualitative Research*（[[Sage]], 多版次）已成为质性研究方法领域的标准参考书，汇集各范式代表性学者的方法论论述
 > - 与 Guba 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎假设检验的理论生成逻辑

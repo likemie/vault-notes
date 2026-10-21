@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Ideal Learner
@@ -51,9 +51,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 
 ---
 
-## 在 Li 研究设计中的位置
-
-> [!info|notitle]
+> [!info] 在 Li 研究设计中的位置
 > 理想学习者研究是 Li 的**研究二**，与研究一（[[Prototype Methods\|原型方法]]的词汇[[Concept Mapping\|概念地图]]）构成**证据[[Triangulation\|三角验证]]（triangulation）** 结构([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94-96]])。
 
 ### 为什么需要研究二？
@@ -126,9 +124,7 @@ Li 选择研究"理想"而非"一般"学习者的理论依据来自发展心理�
 
 ---
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > - **理想 ≠ 现实** 理想学习者形象揭示的是文化成员**认为"应该"** 是怎样的——而非他们**实际上**是怎样的。社会赞许性（social desirability）可能影响受访者的描述
 > - **样本集中** 参与者均为选择性大学（selective universities）的学生——他们可能已经是最成功地将文化学习理想内化的群体。非选择性大学或未上大学的同龄人可能持有不同的理想形象
 > - **文化与个体的差距** Li 本人明确区分了文化层面模型与个体层面模型([[Argument_Li_2012_Cambridge\|Li, 2012, pp.104-105]])。理想学习者是一个**文化层面**的概念——不应被直接当作任何具体学习者的描述

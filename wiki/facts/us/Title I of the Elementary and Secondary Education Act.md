@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Title I of the Elementary and Secondary Education Act
@@ -167,9 +167,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／理论
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -183,9 +181,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]]** 首项量化评估学区 Title I 联邦教育资金投资于循证实践比例的实证研究，解构 [[Every Student Succeeds Act\|ESSA]] 单项研究门槛与全量证据评价之间的巨大鸿沟。
 > - **[[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]** 论述 ESSA 四级法定[[Evidence Standards\|证据标准]]对 Title I 学校改进资助的重构，探讨 [[Evidence for ESSA]] 平台如何推动循证采购。
 > - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** 探讨[[Evidence-Based Education\|循证教育]]资助机制与政策干预中单兵研究去中心化的重要性。

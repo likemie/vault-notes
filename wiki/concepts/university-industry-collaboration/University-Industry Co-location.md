@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 # Co-location (University-Industry)
@@ -46,9 +46,7 @@ updated: 2026-10-07
 > [!quote|notitle]
 > "the purposeful combination of industry and university personnel in a dedicated space in which costs are shared for active collaborative or independent research with the strategic intent of encouraging idea exchange by reducing communication and cultural barriers that accompany the physical challenge of being located in different facilities"（UIDP, 2019, cited on p.317）
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 共同选址包含以下关键属性（[[University Industry Demonstration Partnership\|UIDP]], 2019, cited on p.317）：
 > - **联合活动与研究** 共同举办学术活动和开展研究项目
 > - **双向思想交流** 产业与学术人员之间的双向知识流动
@@ -57,15 +55,11 @@ updated: 2026-10-07
 > - **提高联合发表与 IP 产出概率** 物理邻近性促进知识溢出
 > - **学生实践机会** 学生直接与产业技术领袖合作
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > - vs [[University-Based Research Center\|大学研究型中心]]：共同选址强调产业人员在[[Grandes Ecoles|大学校]]园内的物理嵌入和日常共处；大学研究型中心可以没有驻校产业人员
 > - vs [[Innovation Hub\|创新中心]]：共同选址是一种空间合作策略，创新中心是更广泛的制度安排，共同选址可以是创新中心的具体实现形式之一
 
-## 相关案例
-
-> [!example|notitle]
+> [!example] 相关案例
 > - **联合利华 Hive** 联合利华在荷兰瓦赫宁根大学（WUR）设立的全球食品[[Innovation Hub\|创新中心]]，2019 年启用，拥有 18000 平方米的合作空间（包括中试车间、实验室和厨房），约 500 名员工驻校（p.317）
 > - **FrieslandCampina 创新中心** 2010 年起将其研发团队集中于 WUR 校园，设有中试车间、实验室、办公室和创新厨房（p.317）
 > - **拜耳研究与创新中心（BRIC）** 位于剑桥，紧邻 Broad Institute of MIT and Harvard，虽非严格意义的共同选址，但通过物理邻近性促进了长期合作（pp.317–318）

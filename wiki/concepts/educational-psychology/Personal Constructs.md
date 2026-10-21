@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Personal Constructs
 
@@ -78,9 +78,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1955 — Kelly 提出原始定义** 个人建构是 *The Psychology of Personal [[Construct\|constructs]]* 的基本概念——个体用于概念化世界的维度。此时强调个别性和临床用途。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 > - **1965 — Hinkle 扩展为蕴含关系** Hinkle 将"蕴含"概念与组织推论链接，使个人建构从静态特征扩展为具有逻辑蕴涵关系的层级网络。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 8)]]
 > - **1968 — Bannister & Mair 的方法化** 个人建构从临床概念转化为可操作的研究[[Variable\|变量]]——引入提供构念与引发构念的二元区分，使该概念进入主流研究方法论讨论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 7–8)]]
@@ -99,7 +97,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 系统阐述个人建构作为 Kelly 理论的基本单位，涵盖[[Construct\|构念]]的双极性、层级组织、引发方法（三元比较、[[Laddering\|阶梯法]]、[[Pyramiding\|金字塔法]]）及其在 [[Repertory Grid Technique]] 中的[[Operationalization\|操作化]]。

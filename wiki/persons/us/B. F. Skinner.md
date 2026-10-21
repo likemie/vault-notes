@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # B. F. Skinner
@@ -83,9 +83,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!timeline|notitle] 生平与职涯
+> [!timeline] 生平与职涯
 > - **1904** 出生于美国宾夕法尼亚州萨斯奎汉纳。
 > - **1931** 获哈佛大学心理学博士学位，潜心研究白鼠在自制实验箱（斯金纳箱）中的压杆反应与环境偶联。
 > - **1938** 出版奠基性著作《有机体的行为》（*The Behavior of Organisms*），正式提出操作性条件反射概念，确立与巴甫洛夫经典条件反射的理论边界。
@@ -125,9 +123,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **行为分析与系统教学论** 斯金纳的操作性框架催生了应用行为分析（Applied Behavior Analysis, ABA）与[[Direct Instruction|直接教学]]法（Direct Instruction）；经由其学生[[Robert Glaser|格拉泽]]（[[Robert Glaser]]）的发展，演进为涵盖起点行为、任务分析与[[Criterion-Referenced Test|标准参照测验]]的现代教学设计学科。
 > - **教育技术与计算机辅助教学** 教学机器的机械构想直接启蒙了 1960 年代以后的计算机辅助教学（Computer-Assisted Instruction, CAI）、当代的智能自适应学习系统以及各类基于算法排程的在线练习软件。
 > - **循证教学效能与反馈模型回响** [[John Hattie|哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中对反馈机制的高调推崇（$d = 0.73$），实质上再现了斯金纳关于即时矫正强化能最大化知识习得的假定，把课堂教学简化为输入—输出的纠错链条。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5)]]

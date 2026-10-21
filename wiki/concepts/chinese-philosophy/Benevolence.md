@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Benevolence
@@ -75,9 +75,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 仁（Ren / Benevolence） | 西方仁慈（Benevolence / Altruism） | 礼（[[Ritual Propriety]] / Li） |
 > |---|---|---|---|
 > | **分析对象** | 整全的人格实现与终身[[Self-Cultivation\|修身]]历程 | 针对特定对象的利他行为意向或善意情感 | 维系社会秩序与人伦交往的规范化仪式程序 |
@@ -135,9 +133,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **公元前 551–479 年 — [[Confucius|孔子]]奠定最高道德[[Paradigm|范式]]** 孔子确立“仁”为最高道德目标，倡导“为仁由己”，将仁界定为个人自主[[Establishing One's Will|立志]]与终身修持的精神追求。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
 > - **公元前约 372–289 年 — [[Mencius|孟子]]确立[[Four Sprouts|四端]]心性论基础** 孟子提出“四端”说，以恻隐之心为仁之端，为仁确立了先验人性论与心性哲学基础。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 42–43)]]
 > - **11–12 世纪 — [[Neo-Confucianism|宋明理学]]将仁与天理宇宙本体贯通** [[Cheng Brothers|程颢]]、程颐兄弟将仁与天理相连，强调循理即达仁；[[Zhu Xi|朱熹]]系统整合理学体系，将格物致知作为知仁践仁的实修阶梯。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 43–44)]]
@@ -152,7 +148,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统梳理[[Confucian Learning Tradition|儒家学习传统]]的心智模型，深入辨析“仁”在儒家成人之道中的核心地位及其与西方智识导向心智模型的文化心理学差异。

@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Rainbow Project
@@ -70,9 +70,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **政策影响** 证明了在大规模高利害选拔中引入[[Creativity Assessment\|创造力评价]]的可行性，引领了美国顶尖大学招生选拔的多元化改革浪潮。
 > - **实践影响** 成功将本科第一年 [[Academic Achievement\|GPA]] 的[[Predictive Validity\|预测效度]]提升了一倍（$R^2$ 显著提高），同时大幅缩小了少数族裔群体的录取分差。
 > - **知识影响** 树立了[[Creativity\|创造力]]测量从心理学实验室走向大学招生实际应用的世界级实证里程碑。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 34)]]

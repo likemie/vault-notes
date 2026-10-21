@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Media Logic
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | Media Logic（媒介逻辑） | [[Mediatised Governance\|Mediatised Governance（媒介化治理）]] | [[Policy Avoidance\|Policy Avoidance（政策规避）]] |
 > |:---|:---|:---|:---|
 > | **分析层次** | 传播生态的底层生产机制与组织语法 | 宏观政策[[Champ\|场域]]被媒体逻辑穿透后的综合治理形态 | 媒介逻辑作用于政策审议时诱发的具体失职行为 |
@@ -164,9 +162,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1979 — 理论创立** David Altheide 与 Robert Snow 出版《Media Logic》，首次系统界定媒介逻辑并非技术工具，而是拥有自身符号机制与组织规程的文化制度。
 > - **2004 — 引入教育政策研究** [[Bob Lingard]] 与 Shaun Rawolle 将[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]论与媒介化结合，提出“媒介资本”（Medial Capital）在教育政策生产中的渗透；Warmington and Murphy (2004) 提出教育新闻中的“[[Falling Standards Template\|水平下降模板]]”。
 > - **2008–2014 — 政治媒介化元进程确立** Jesper Strömback 与 Frank Esser 确立政治媒介化的四阶段模型，将媒介逻辑的内化视为政治系统丧失自主性的核心标志。
@@ -192,9 +188,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关条目网络
-
-> [!entry-map|notitle]
+> [!entry-map] 相关条目网络
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

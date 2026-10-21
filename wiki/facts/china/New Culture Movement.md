@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # New Culture Movement
@@ -80,9 +80,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **为[[New Education Movement\|新教育运动]]提供文化与意识形态框架** 对儒家传统的批判以及“民主”“科学”口号，直接赋予儿童中心教学法与[[Democratic Education\|民主教育]]理想合法性。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.614]]）
 > - **教育被重构为社会与政治改造的核心杠杆** 推动知识界将教育视为改造社会与国家的根本手段，赋予教育重构新国家的神圣使命。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.615]]）
 > - **瓦解[[1904 Educational System\|1904年学制]]文化合法性** 对儒家经典的批判使保留[[Self-Cultivation\|修身]]经书课的旧学制丧失生存基础，直接促成了1922年美式“新学制”的诞生。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.612–614]]）
@@ -106,9 +104,7 @@ updated: 2026-10-21
 
 ---
 
-## 相关概念／政策
-
-> [!entry-map|notitle]
+> [!entry-map] 相关概念／政策
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

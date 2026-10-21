@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research-Engaged School
@@ -101,9 +101,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 研究参与学校（RES） | [[Evidence-Informed Practice\|证据知情实践]]（EIP） | [[Research Utilization\|研究利用]]（RU） |
 > |---|---|---|---|
 > | **[[Unit of Analysis\|分析单位]]** | 学校组织系统（微观组织与制度生态） | 教师与领导者个体（决策与教学行为） | 学术知识本身（在政策与实践中的流动形态） |
@@ -217,9 +215,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **2003 — 组织系统文化规范论奠基** Handscomb and MacBeath (2003) 提出研究参与学校必须将[[Research Utilization\|证据使用]]作为文化规范深植于学校的组织风气、系统架构与日常活动之中。
 > - **2006 — 概念萌芽与初步倡导** Sharp 等（2006）在英国国家[[School Leadership\|学校领导力]]学院（NCSL）报告中提出领导“研究参与学校”的初步构想，强调研究对教师专业发展的赋能价值。
 > - **2014 — 组织理论界定奠基** Godfrey（2014a, 2014b）发表系列研究，正式确立“自觉的战略性与发展性取向”为研究参与学校的核心界定，明确其关注组织意图、意愿与能力而非单次决策。
@@ -268,8 +264,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 采用 Godfrey 的组织界定，构建四因素理论框架，通过对 79 所小学 696 名教师与领导者的基线实证调查，系统诊断研究参与学校在能力、文化、学习环境与结构上的准备状态，揭示出三大机制断裂并提出针对性干预路径。
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 在 [[Quality Use of Research Evidence Framework\|QURE]] 框架中将研究参与学校确立为组织使能三大构件（领导力、文化、基础架构）的核心实践载体，系统阐释其作为[[Research Utilization\|证据使用]]微观土壤的功能，并提出推动研究参与学校从二元达标走向质量使用的三重反思透镜。

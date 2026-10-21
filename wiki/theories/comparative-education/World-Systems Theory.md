@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-12'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # World-Systems Theory
@@ -180,9 +180,7 @@ updated: 2026-10-20
 
 ---
 
-## 概念网络与条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 概念网络与条目关联
 >
 > | 条目 | 类型 | 理论关联与学术功能 |
 > |:-----|:-----|:-------------------|

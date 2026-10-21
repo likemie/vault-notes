@@ -47,7 +47,7 @@ part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-06-03
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book
 title: "Argument_Bang_2025_ClinicalTrials"
@@ -402,9 +402,7 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 
 ---
 
-## 自述局限
-
-> [!warning|notitle]
+> [!warning] 自述局限
 > 全文为单一位从业者的行业经验分析，未采用系统性的[[Literature Review\|文献综述]]或实证研究方法。所有数据和使用案例来自 Soo Bang 在 Pfizer、Celgene、Bristol Myers Squibb 等公司的管理经验及公开行业报告（包括 [[Clinical Trials Transformation Initiative\|CTTI]] 项目报告和 IQVIA 研究所数据），论证视角偏向产业方。大学行政管理方的立场、应对策略和内部制度逻辑未被同等呈现。此外，文中引用的启动时间和成本数据主要基于美国市场，未必适用于其他国家的[[Clinical Trial\|临床试验]]生态。
 
 ---

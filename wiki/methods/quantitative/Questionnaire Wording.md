@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 # Questionnaire Wording
 
@@ -112,7 +112,5 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire\|问卷]]设计流程中专设一节系统讨论了措辞的十项警示，包括引导性、深奥、复杂、双重否定、极端措辞、权威施压和歧义等陷阱，并提供了六个歧义问题的典型案例，以 Davidson（1970）的"清晰、无歧义、工作可行"三重标准作为黄金法则。

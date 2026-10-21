@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 # Zero-Sum Competition
@@ -58,9 +58,7 @@ updated: 2026-10-17
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 **零和逻辑**。零和竞争的核心是"排他性"——成功的位置是有限的，一个人的上升必然以他人的下降为代价。这与体育竞赛的逻辑相同（只有一个冠军），但当它被**迁移到学业领域**时，产生了严重的同伴关系后果。
 
@@ -75,9 +73,7 @@ updated: 2026-10-17
 
 ---
 
-## Fülöp 的三文化比较
-
-> [!example|notitle]
+> [!example] Fülöp 的三文化比较
 > 匈牙利心理学家 Márta Fülöp 对美国、日本和匈牙利 700 余名高中生的研究，是零和竞争概念的实证基础([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95–96, 110–111；引述 Fülöp 研究]])。
 
 | 维度 | 美国 | 日本 | 匈牙利 |
@@ -120,9 +116,7 @@ Watkins 及其学生采用 Fülöp 的方法研究香港高中生（含高能力
 
 ---
 
-## 在 nerd 同伴文化中的位置
-
-> [!warning|notitle]
+> [!warning] 在 nerd 同伴文化中的位置
 > 零和竞争是 Li 识别的 [[Nerd]] 文化四重根源之一，与其他三重根源形成因果网络([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
 
 1. 固定自我观 → 学术表现 = 自我价值的验证

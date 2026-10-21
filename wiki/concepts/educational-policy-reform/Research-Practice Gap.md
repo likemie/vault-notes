@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Research-Practice Gap
@@ -154,9 +154,7 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
-> [!dev-timeline|notitle] 概念演变
+> [!dev-timeline] 概念演变
 > - **1980s 以前 — 德语区“理论-实践问题”的哲学思辨根基** 德国教育学界长期围绕“理论与实践的关系问题”（Theorie-Praxis-Problem；Benner, 1980; Vogel, 1990）展开辩难，确立了学术理论无法直接线性推导出具体教育行动指南的[[Epistemology|认识论]]共识。
 > - **1990s–2000s — [[Deficit Framing|赤字归因]]与单向传播阶段** 教育[[Research Utilization|研究使用]]文献开始频繁探讨研究与课堂的鸿沟（如 Hemsley-Brown & Sharp, 2003），多将障碍归咎于一线教师缺乏科研阅读能力，对策局限于增强学术成果的自上而下单向推送。
 > - **2010s — 关系转向、新治理工具受挫与中介制度化** 伴随德国大范围推行新治理工具（Neue Steuerung，如[[School Inspection|学校督导]]与全域统考），学界发现此类自上而下政策工具因忽视基层转移机制的非线性特征而在单体学校层面陷入“成效缺失”（mangelnde Effekte；[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）；欧美学界转而系统关注研究者-实践者协作生态（如 [[Research-Practice Partnership|RPP]]）以及美英等国清算中心（[[What Works Clearinghouse|WWC]], [[Education Endowment Foundation|EEF]]）的[[Knowledge Mediation|知识中介]]职能；德国慕尼黑工业大学于 2017 年创立 [[Clearing House Unterricht]]，标志着德语区开启了以[[Meta-analysis|元分析]]为基底、面向教师教育的本土中介制度建设。[[Argument_Knogler_2025_BB|(Knogler et al., 2025, p. 14)]]
@@ -184,8 +182,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 把研究-实践鸿沟作为系统层面障碍（$k = 13$）记录，并在关系治理机制中将其识别为贯穿各层级的核心表现。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] 深入剖析德语区教育研究与教师教育之间的转移困境（Transferproblem），系统论证了[[Clearing House Unterricht\|慕尼黑工业大学教学清算中心]]（CHU）以[[Meta-analysis\|元分析]]为证据基底、通过受众适配加工与乘数群体专业支持弥合鸿沟的运行架构与实证成效。

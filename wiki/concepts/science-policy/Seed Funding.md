@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Seed Funding
@@ -148,9 +148,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
@@ -165,8 +163,6 @@ updated: 2026-10-21
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以加州大学洛杉矶分校（UCLA）与 MIT 的半导体材料案例，系统论证了敏捷种子资助在颠覆性突破中的催化与网络重构机制。
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 结合前 [[National Science Foundation|NSF]] 主任口述史与 56 所中心纵向追踪，系统论证了政府种子经费在大学跨学科研究中心设立中的杠杆撬动与日落造血规训功能。

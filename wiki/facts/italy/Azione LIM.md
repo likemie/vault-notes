@@ -36,30 +36,22 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Azione LIM
 
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > Azione LIM 是意大利教育部在 2008 年推动的互动白板行动。它出现在意大利官方文件强调学校技术使用的政策背景中，体现了教育系统把技术创新引入课堂的趋势([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 该政策向学校提供互动白板，并配套教师培训。Pellegrini & Vivanet 用它说明：教育技术投入本身并不等于[[Effective Teaching\|有效教学]]改进，政策决策仍需要检查相关工具对学习过程和学习结果的证据基础([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 时间线
-
-> [!note|notitle]
+> [!note] 时间线
 > - 2008 — 意大利教育部推动 Azione LIM，提供 35,114 块互动白板和相应教师培训([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 > - 2016 — 互动白板已覆盖意大利 42% 的班级。
 
-## 实施情况
-
-> [!example|notitle]
+> [!example] 实施情况
 > 该行动总成本为 EUR 93,354,571，随后互动白板数量和拨款继续增加。政策逻辑是让学校具备适应技术社会的基础设施，但论文强调还需要考察技术在教学过程中的实际效果([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
 ## 效果与评价
@@ -72,14 +64,10 @@ updated: 2026-10-16
 > - 总成本 EUR 93,354,571
 > - 2016 年覆盖 42% 班级
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 > Azione LIM 的关键问题不是“学校是否应该使用技术”，而是教育技术政策是否把有效性证据纳入了投入判断。它与 [[Technology Infusion]] 的争议相连：技术投入若没有课程、教师发展和评价证据支撑，可能成为昂贵但效果有限的改革([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 相关概念／理论
-
-> [!tip|notitle]
+> [!tip] 相关概念／理论
 > - [[Technology Infusion]] — Azione LIM 是欧洲语境中的教育技术投入案例。
 > - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 该案例用于说明证据本位政策选择为何能避免高成本低效果投入。
 

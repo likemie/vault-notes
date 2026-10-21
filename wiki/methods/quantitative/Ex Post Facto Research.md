@@ -50,7 +50,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 # Ex Post Facto Research
 
@@ -169,9 +169,7 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 
 ---
 
-## 相关理论与方法
-
-> [!entry-map|notitle]
+> [!entry-map] 相关理论与方法
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
