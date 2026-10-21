@@ -124,5 +124,15 @@
       "sentence": "教师享有常任公务员身份保障，视外部审计为科层规训与非专业干预。",
       "target": "wiki/methods/qualitative/External Auditor.md"
     }
+  ],
+  "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md": [
+    {
+      "sentence": "对象国青年与社会精英在面对汉语与外部教育资源时表现出怎样的实用主义取向？",
+      "target": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
+    },
+    {
+      "sentence": "典型合作业务与实践载体",
+      "target": "wiki/concepts/instruction-pedagogy/Homework.md"
+    }
   ]
 }

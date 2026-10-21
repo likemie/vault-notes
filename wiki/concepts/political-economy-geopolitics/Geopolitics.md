@@ -117,7 +117,7 @@ updated: 2026-10-22
 
 ## 核心要素
 
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **空间本体维度（Spatial [[Ontology]]）** 涵盖客观物质容器与流动社会建构的双重属性。地缘政治既分析具有物理边界的疆域、要塞通道与基础设施，也剖析由[[Discourse|话语]]、指标排名与学术规程构建的象征性[[Relational Space|关系空间]]。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 11–13)]]
 > - **权力运作机制（Power Modalities）** 涵盖国家层面的强制性[[Hard Power|硬实力]]与建构层面的规制性[[Soft Power|软实力]]。地缘政治运作既依托关税制裁、技术禁运等排他性强制手段，也依托国际规则制定、跨国学术合作平台与话语正当性生产。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 > - **多层级行动者网络（Multiscalar Actors）** 突破传统单一主权国家假定，将跨国大学、科研院所、非政府组织、跨国大学联盟及科技专家群体纳入空间政治博弈的网络化行动者主体。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 12–13)]]
@@ -170,6 +170,9 @@ updated: 2026-10-22
 > [!claim] [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]]; [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]
 > **科学全球主义与国家安全壁垒的张力** 现代高等教育与科学研究具有全球网络化的内在动力，依托水平协同、开放出版与跨国人才流动生产全球公共产品。地缘政治竞争的加剧引发了民族国家的“再国家化”与“再边界化”进程。国家安全审查、敏感技术出口管制、关键科研领域合规排查等政策工具，将跨国学术流动转化为安全化管理对象，导致开放的跨国学术交往与排他的地缘安全防卫之间产生深刻的制度性冲突。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 10–13)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 28–30)]]
 
+> [!claim] [[Argument_Custer_2021_AidData|Custer, S. et al. (2021)]]
+> **地缘边界安全对抗对教育与文化交流制度网络的阻断与逆转** 萨曼莎·库斯特等（Samantha Custer et al.）以中印加勒万河谷（Galwan Valley）边境冲突为典型案例，实证展示了古典地缘安全对抗如何直接引爆跨国教育与文化合作网络的制度性解体。2020 年边境流血冲突爆发后，印度安全与外交部门迅速启动对涉华教育合作的全面国家安全审查，不仅将 7 所[[Confucius Institute|孔子学院]]与孔子课堂以及 54 项中印高校校际合作备忘录（MoUs）置于严格的安全合规排查之下，更在当年颁布的《国家教育政策2020》（National Education Policy 2020, NEP 2020）外语选修科目推荐名单中直接剔除中文（普通话），同时在民间与高校引发大规模抗议与抵制。这一案例表明，当传统主权安全与领土争议升温时，具有软实力沟通功能的教育与学术网络首当其冲遭遇“安全化”阻断，使长期积累的机构合作与人文纽带面临系统性逆转。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 31, 34)]]
+
 ---
 
 ### 命题总览
@@ -179,7 +182,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **本体论范式演进** | 从客观物质领土容器向话语空间社会生产的[[Epistemology\|认识论]]与本体论跨越 | 地缘政治学史、空间社会理论与批判认识论探讨 | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]]; Agnew (1994) |
 > | **制度性知识权力** | 地缘竞争延伸至科技前沿生态、关键供应链与跨国学术规则研制 | 知识经济化、跨国精英大学联盟与[[National Innovation System\|国家创新体系]]战略 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]]; [[Argument_Moisio_2022_Springer\|Moisio (2022)]] |
-> | **流动与安全的结构张力** | 全球科学公共产品的开放协作网络与民族国家安全化防卫壁垒之间的体制冲突 | 跨国学者流动受阻、关键科研合规审查与技术脱钩防范 | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] |
+> | **流动与安全的结构张力** | 全球科学公共产品的开放协作网络与民族国家安全化防卫壁垒之间的体制冲突 | 跨国学者流动受阻、关键科研合规审查与技术脱钩防范 | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]; [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] |
 
 ---
 
@@ -191,7 +194,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心张力与学术争议
+## 争议与批评
 
 > [!tension] 核心张力｜物质领土控制 vs [[Discursive Field|话语空间]]生产
 > | 维度 | 物质领土控制取向（古典实在论） | 话语[[Space Production\|空间生产]]取向（批判建构论） |
@@ -224,9 +227,21 @@ updated: 2026-10-22
 
 ---
 
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国公共外交与地缘安全审查（2000–2021 年） | 跨国混合方法评估与案例审查追踪 | 文化中心在各国内陆分布、涉华高教备忘录安全审查数量及外语政策调整 | 设立 65 所文化交流机构（孔子学院等），落后于美国（92 所）但领先于俄罗斯（32 所）；印度因边境冲突对 7 所孔院及 54 项高校合作备忘录启动安全审查，并在 NEP 2020 中剔除中文 | — | 聚焦南亚与中亚地缘断层线，反映主权安全冲突对跨国教育制度合作的阻断效应 |
+
+---
+
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统梳理[[Geopolitics of Higher Education|高等教育地缘政治]]视角的发展谱系，阐释从[[Classical Geopolitics|古典地缘政治]]到批判[[New Geopolitics|新地缘政治]]的[[Ontology|本体论]]分化与互补机制。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合跨国大学联盟实践，辨析地缘政治视角下的[[Knowledge Power|知识权力]]构建同[[Developmentalism|发展主义]]视角下的[[Knowledge Diplomacy|知识外交]]合作。
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 论述古典硬领土控制逻辑与当代[[Knowledge-Based Economization|知识经济化]]进程的共构演进，解析科技竞争中的势力范围重组。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 探讨全球科学共同体的网络[[Open-Mindedness|开放性]]与地缘政治再国家化、再边界化防卫之间的结构张力。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 从后殖民与批判视角反思全球高等教育中的[[Geopolitics of Knowledge|知识地缘政治]]格局与西方中心主义认知统治。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 13 国实证分析地缘博弈与公共外交的互动机制，以中印边境安全危机导致孔子学院与高校合作备忘录遭遇安全合规排查为例，揭示高位地缘政治冲突对跨国教育合作网络的阻断与安全化重塑（pp. 31, 34）。

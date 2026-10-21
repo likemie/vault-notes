@@ -96,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 变量与相关方法学[[Construct|构念]]横向对比
 > | 概念维度 | 变量（Variable） | 常量（Constant） | 构念（Construct） | 体系专名（Names of Systems） |
 > |:---|:---|:---|:---|:---|
@@ -207,18 +205,16 @@ updated: 2026-10-22
 
 ### 命题总览
 
-> [!contrast-table] 变量核心命题总览
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-> |:---|:---|:---|:---|
+> |---|---|---|---|
 > | **构念操作化命题** | 变量是连接抽象理论构念与实证测量的操作化中介 | [[Quantitative Research\|量化研究]]设计、[[Questionnaire\|问卷]]编制与实验干预 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
 > | **体系变量替代命题** | 跨国比较以概念变量替代国别专名以检验普遍因果假说 | 跨国多元回归、大规模国际测评、[[Causal Modeling\|因果建模]] | Noah and Eckstein; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 > | **方法论主义批判命题** | 孤立变量分析抽离历史文化厚度，易陷入去脉络化技术主义 | 比较认识论反思、定性与定量融合评估 | Barber; [[Andreas Kazamias\|Kazamias]] |
 
 ---
 
-## 概念演变
-
-> [!dev-timeline] 变量概念在社会科学与比较研究中的演进
+> [!dev-timeline] 概念演变
 > - **19 世纪中后期 — 变量思想萌芽** [[Auguste Comte|奥古斯特·孔德]]与约翰·斯图尔特·密尔在实证哲学中提出共变法（Method of Concomitant Variations），奠定了通过可观察属性的变化推断因果联系的最初逻辑。
 > - **20 世纪初至中期 — 实验设计与测量[[Operationalization|操作化]]确立** 费希尔（Ronald Fisher）开创[[Analysis of Variance|方差分析]]与实验[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]框架；坎贝尔与斯坦利（Campbell & Stanley, 1963）系统确立实验与[[Quasi-Experimental Designs|准实验设计]]中的变量控制与效度标准。
 > - **1960s–1970s — 比较研究中的“以变量替代体系”革命** 诺亚与埃克斯坦在《走向比较教育科学》（1969）及后续论著中明确提出以“概念变量名称”替代“国别体系名称”，推动比较教育从个案历史描述转向跨系统变量假说检验。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
@@ -249,6 +245,9 @@ updated: 2026-10-22
 > - **脱离情境的虚假等值比较** 机械比对不同国家相同指标名称的变量数值，而忽视变量背后完全不同的体制机制与文化含义。
 > - **陷入方法论主义的技术偏执** 过度追求变量统计模型的复杂性与拟合优度，忽略[[Research Question|研究问题]]本身的社会价值、人文目的与实践意义。
 > - **抽离校外社会变量的政策合谋** [[Gerald Grace|杰拉尔德·格雷斯]]（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 91]]）指出，学业差距模型若抽离家庭[[Cultural Capital|文化资本]]与经济贫困等校外社会变量，会制造单凭校内教学干预即可消除不平等的虚幻错觉，使变量分析沦为迎合政客回避根源性社会改革的技术掩护。
+
+> [!warning] 适用局限
+> 变量分析适用于能够进行维度解构、客观测量或统计控制的实证研究设计；在面对深层历史积淀、独特民族精神与不可通约的具身体验时，强行变量化存在削足适履与抽离社会价值目的的理论局限。
 
 ---
 
