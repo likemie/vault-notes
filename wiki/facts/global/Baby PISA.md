@@ -114,7 +114,7 @@ updated: 2026-10-21
 > [!citation-card] 代表性立项宣言／宗旨界定
 > [[OECD]] 在启动 IELS 时宣称该评估旨在为各国政府提供关于儿童早期身心准备度的客观实证依据：
 > 
-> 国际早期学习与儿童福祉研究是一项跨国评估，旨在帮助各国为所有儿童提供最好的开端。它不仅测量儿童早期发展的关键认知与社会情感领域，更为决策者与教育工作者提供关于儿童如何跨越背景差异茁壮成长的关键洞察。（OECD, 2018, IELS Framework）
+> 国际早期学习与儿童福祉研究是一项跨国评估，旨在帮助各国为所有儿童提供良好的开端。它不仅测量儿童早期发展的关键认知与社会情感领域，更为决策者与一线幼教从业人员提供关于儿童如何跨越背景差异茁壮成长的关键洞察。（OECD, 2018, IELS Framework）
 > 
 > *The International Early Learning and Child Well-being Study is an international assessment designed to help countries give all children the best start. It measures key cognitive and social-emotional areas of early development, providing decision makers and practitioners with crucial insights into how children thrive across diverse backgrounds.*
 
@@ -136,7 +136,7 @@ updated: 2026-10-21
 > - **发起与规制方（[[OECD]] 秘书处）** 掌控测量框架的意识形态定义权、测试标准的全球解释权与多国比较排行榜的媒体发布权。
 > - **跨国承包商联盟（[[Educational Testing Service\|ETS]] / [[Australian Council for Educational Research\|ACER]] / Westat）** 负责基于 [[Item Response Theory\|IRT]] 与认知心理学[[Paradigm\|范式]]开发平板交互测验程序、心理计量标定与跨国数据清洗。
 > - **参与国中央教育部门** 负责提供国家学前教育机构[[Sampling Frame\|抽样框]]、划拨参与预算并协调地方督导部门组织园所施测。
-> - **一线幼教工作者与学前儿童** 被动接受外部主试入园测评，承担配合[[Questionnaire\|问卷]]填报及提供家庭背景数据的合规性义务。
+> - **一线幼教教师与学前儿童** 被动接受外部主试入园测评，承担配合[[Questionnaire|问卷]]填报及提供家庭背景数据的合规性义务。
 
 > [!pathways] 实施路径与品牌扩张逻辑
 > - **品牌霸权驱动的产品线裂变** [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]揭示，跨国机构的扩张本质依赖其品牌霸权的溢出效应。当 [[PISA]] 在全球政治辩论中确立了无可动摇的“质量黄金标准”声誉后，OECD 便顺理成章地利用该品牌影响力向下延伸出“Baby PISA”，以此占领此前未被量化治理完全穿透的学前教育领域。
@@ -172,7 +172,7 @@ updated: 2026-10-21
 > > 探讨将中学生标准化测验[[Paradigm\|范式]]移植到学前领域是否会对早期童年造成根本性扭曲。
 > >
 > > - **批评观点（学前教育学界）** 国际学前教育知名学者（Pence, 2016; Urban, 2017）尖锐指出，早期童年具有不可度量的独特性、生成性与情境性。Baby [[PISA]] 将儿童简化为“未成熟的未来劳动力”，推崇机械的“学校准备度”（School Readiness），会迫使学前教育过早“小学化”并以应试操练压抑儿童基于游戏的自发探索。
-> > - **官方辩护（[[OECD]] 立场）** OECD 强调该研究绝非排名测验，而是为弱势儿童发展提供早期诊断工具，主张通过科学的数字游戏形式减轻儿童心理负担，帮助政策制定者识别亟需资源支持的早期干预领域。
+> > - **官方辩护（[[OECD]] 立场）** OECD 强调该研究定位于为弱势儿童发展提供早期诊断工具，区别于传统的国家间位次排名，主张通过科学的数字游戏形式减轻儿童心理负担，帮助政策制定者识别亟需资源支持的早期干预领域。
 >
 > > [!axis] 跨国治理霸权与生命历程全周期监控（治理扩张 vs 本土文化自主）
 > > 探讨大型跨国评估企业如何借新测评工具完成对全球教育政治与私人家庭领域的全面渗透。

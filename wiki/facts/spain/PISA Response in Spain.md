@@ -118,7 +118,7 @@ updated: 2026-10-20
 > [!finding-cards] 关键历史后果
 > - **国家教育空间割据加剧** 激进分权导致 17 个自治区各行其是，中央失去宏观调控与标准核验工具，国家教育空间濒临解体。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
 > - **学业失败率常年高位** 14 岁[[Grade Retention|留级]]率达 25%、16 岁达 33%，卓越生比例不足 4%，深陷中游平庸泥潭。
-> - **跨国评估异化为政治武器** [[PISA]] 数据未被转化为教学改进处方，而是沦为政党互攻与中央-地方甩锅的弹药。
+> - **跨国评估异化为政治武器** [[PISA]] 数据沦为政党互攻与中央-地方甩锅的政治弹药，在实质上脱离了微观教学改进目标。
 
 > [!stat-cards]- 核心历史数据
 > - **25% / 33%** （学业失败率） 14 岁初中生达 25%，16 岁达 33%。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
@@ -137,7 +137,7 @@ updated: 2026-10-20
 > > - **加里多批判论（2009）** 直斥狂热分权造成了官僚行政严重冗员，17 个割据体系使国家教育空间失去了统一的质量底线。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
 
 > [!citation-card] 代表性史学论著引言：加里多论狂热分权
-> 无疑，近期西班牙教育史上最突出的事件，是在极短的时间内将教育行政从高度集权转变为狂热分权。如今，惊觉西班牙境内已经存在或即将形成 17 个互不相属的教育体系（每个自治区各执一个），绝非夸大其词的凭空想象。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
+> 无疑，近期西班牙教育史上最突出的事件，是在极短的时间内将教育行政从高度集权转变为狂热分权。如今，惊觉西班牙境内已经存在或即将形成 17 个互不相属的教育体系（每个自治区各执一个），是确凿的客观制度现实，具有充分的经验依据。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
 >
 > *Without doubt the most outstanding event in recent Spanish education history is that of having converted the education administration from strongly centralised to furiously decentralised... to wonder at the existence... of 17 different education systems in Spain is not simply work of the imagination.*
 

@@ -64,7 +64,7 @@ updated: 2026-10-20
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2003 年底测试至 2004 年 12 月测评结果公布，核心影响日本全国基础教育学制与文部科学省政策。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
-> - **核心当事主体** 日本文部科学省（MEXT）、[[National Institute for Educational Policy Research|国立教育政策研究所]]（NIER）、中央教育审议会、新闻媒体网络以及基础教育一线学校。
+> - **核心当事主体** 文部科学省（MEXT）、[[National Institute for Educational Policy Research|国立教育政策研究所]]（NIER）、中央教育审议会、新闻媒体网络以及基础教育一线学校。
 > - **深层制度与社会背景** 1980 至 1990 年代，文部省为缓解“应试地狱”竞争与厌学情绪大力推行削减课时与内容的“宽松教育”；但 20 世纪末学者、经济界与家长广泛担忧基础学力滑坡，社会关于“学力低下”的论战已高度发酵。
 > - **直接导火索 / 触发事件** 2004 年 12 月 PISA 2003 结果公布，日本阅读素养从 2000 年的第 8 位跌至第 14 位，数学素养从第 1 位跌至第 6 位；主流媒体以头版头条惊呼学力滑坡与“PISA 震荡”，证实了长期蔓延的教育危机论。
 
@@ -117,7 +117,7 @@ updated: 2026-10-20
 > - **社会结构重塑** 遏制了公私立学校生源的两极分化，巩固了日本战后高均衡、高均值的公立基础教育基本盘。
 
 > [!finding-cards] 关键历史后果
-> - **学力观现代化转型** 拒绝简单倒退回[[Rote Learning|死记硬背]]应试，而是确立兼具基础扎实度与高阶[[Problem Solving|问题解决能力]]的新学力标准。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **学力观现代化转型** 确立兼具基础扎实度与高阶[[Problem Solving|问题解决能力]]的新学力标准，避免简单倒退回[[Rote Learning|死记硬背]]应试模式。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **实证诊断与教研支持** 将全国测验数据与校本教研有机结合，建立证据—改进循环，精准补偿薄弱学校。
 > - **教师工时过载隐忧** 课时回补、行政事务与密集测试交织，使日本中小学教师超负荷工作成为严重的社会问题。
 
@@ -138,7 +138,7 @@ updated: 2026-10-20
 > > - **批判反思论** 认为媒体大肆炒作 PISA 震荡夸大了学力下滑幅度，忽视了宽松教育在培养自主探究方面的长期萌芽价值。
 
 > [!citation-card] 代表性史学论著引言：二宫论日本政策调适经验
-> 日本并非简单地模仿西方模式，而是将 PISA 构念转译并整合进国家学习指导要领之中；通过在维持扎实学术要求的同时强调情境应用，日本展示了一个东亚体系如何借国际评估反思本土课程的成熟历程。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Ninomiya (2019)
+> 日本放弃简单模仿西方模式的路径，将 PISA 构念转译并整合进国家学习指导要领之中；通过在维持扎实学术要求的同时强调情境应用，日本展示了一个东亚体系如何借国际评估反思本土课程的成熟历程。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Ninomiya (2019)
 >
 > *Japan did not simply mimic Western models... By reinterpreting [[PISA Literacy]] into robust academic proficiency, it demonstrated how an East Asian system could constructively adapt international benchmarks.*
 
@@ -152,5 +152,5 @@ updated: 2026-10-20
 > |:-----|:-----|:-----|
 > | [[PISA]] | Fact (Global) | 触发日本学力危机大辩论与政策转型的国际学生评估项目。 |
 > | [[PISA Shock]] | Concept | 解释日本在 2004 年因排位下滑引发全国性政策震荡的核心概念。 |
-> | [[PISA Literacy]] | Concept | 日本文部科学省重塑国家“扎实学力”所直接吸纳的核心[[Construct\|构念]]。 |
+> | [[PISA Literacy]] | Concept | 文部科学省重塑国家“扎实学力”所直接吸纳的核心[[Construct|构念]]。 |
 > | [[Active Learning]] | Concept | 2008 年新指导要领针对震荡反思所确立的主动[[Inquiry-Based Learning\|探究学习]][[Paradigm\|范式]]。 |

@@ -186,7 +186,7 @@ updated: 2026-10-21
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[PISA]] | Fact | 宏观发起与常设运营主体；PISA [[Scientific Literacy\|科学素养]]为该评估三大核心轮换主测领域之一。 |
-> | [[Beyond 2000 Report]] | Fact | 1998 年科学教育里程碑文献，直接为 PISA 科学素养测评[[Construct\|构念]]提供了普惠公民导向的理论底座。 |
+> | [[Beyond 2000 Report]] | Fact | 1998 年科学教育里程碑文献，直接为 PISA 科学素养测评[[Construct|构念]]提供了普惠公民导向的理论基石。 |
 > | [[Scientific Literacy]] | Concept | 科学素养的母概念；PISA 科学素养为其在[[International Large-Scale Assessments\|国际大规模评估]]中的特定[[Operationalization\|操作化]]形态。 |
 > | [[Nature of Science]] | Concept | 科学本质；PISA 科学素养[[Epistemology\|认识论]]知识维度的核心测量要素。 |
 > | [[Inquiry-Based Learning]] | Concept | 探究式学习；其在 PISA 中的测量频次与科学成就呈现倒 U 型调节关系。 |
