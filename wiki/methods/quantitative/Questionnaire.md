@@ -154,7 +154,7 @@ updated: 2026-10-22
 > [!software-impl] 软件实现
 > - **数据处理** 数据清洗、反向题重编码、缺失值多重插补（Multiple [[Imputation Methods|Imputation]]）、变量标准化。
 > - **推荐软件** R（`lavaan`, `psych`, `survey`）、Python（`pandas`, `statsmodels`）、SPSS、Mplus、Stata。
-> - **核[[Flow|心流]]程** 建立代码本 $\rightarrow$ 导入与核验数据 $\rightarrow$ 因子结构探索与验证 $\rightarrow$ 计算信效度 $\rightarrow$ 拟合假设模型 $\rightarrow$ 导出分析表格。
+> - **核心流程** 建立代码本 $\rightarrow$ 导入与核验数据 $\rightarrow$ 因子结构探索与验证 $\rightarrow$ 计算信效度 $\rightarrow$ 拟合假设模型 $\rightarrow$ 导出分析表格。
 > - **报告标准** 完整报告问卷回收率与有效率、量表信效度检验参数、统计模型估计值与 95% [[Confidence Interval|置信区间]]。
 
 ---
@@ -162,7 +162,7 @@ updated: 2026-10-22
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合大样本[[Cross-sectional Study|横截面调查]]、群体态度与价值倾向测量、标准化评估、跨群体比较以及检验[[Variable|变量]]间多元相关与因果路径模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20)]]; [[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018)]]
+> - **适合使用** 适合大样本[[Cross-sectional Study|横截面调查]]、跨国政策精英偏好测评、群体态度与价值倾向测量、标准化评估、跨群体比较以及检验[[Variable|变量]]间多元相关与因果路径模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20)]]; [[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 27, 33)]]
 > - **谨慎使用** 涉及极高个人隐私、违法行为或强烈污名化的[[Sensitive Questions|敏感问题]]研究；低识字率或特殊弱势群体；以及在未充分明确[[Research Question|研究问题]]与统计分析方案时仓促发卷。
 > - **不适合使用** 深入探索复杂多变的微观互动过程、理解无法预设维度的全新文化体验、或是要求严格实验干预隔离[[Causality|因果关系]]的研究。
 
@@ -174,7 +174,7 @@ updated: 2026-10-22
 > - **偏误来源** 社会赞许偏差（Social Desirability Bias）、中心化趋中倾向、极端[[Response Bias|回应偏差]]、无回答偏差、回忆误差以及引导性措辞引发的系统性偏倚。
 > - **适用边界** 仅能测量受访者的自陈观点与报告认知，无法直接代表真实生活中的客观行为；结构化题项限制了参与者自由表达深层意义的空间。
 > - **误用风险** 将统计相关性草率解读为因果结论；忽视词语固有的语义歧义（不同受访者对同一量表等级的心理阈值存在[[Heterogeneity|异质性]]）；忽视未应答群体的系统性差异。
-> - **补救方式** 实施严格的多阶段[[Pilot Testing|预测试]]（认知访谈与统计检验）；采用反向题与匿名设计[[Societies of Control|控制社会]]赞许性；检验并控制[[Common Method Variance|共同方法偏差]]（Common Method Bias）。
+> - **补救方式** 实施严格的多阶段[[Pilot Testing|预测试]]（认知访谈与统计检验）；采用反向题与匿名设计控制社会赞许性；检验并控制[[Common Method Variance|共同方法偏差]]（Common Method Bias）。
 
 ---
 
@@ -186,7 +186,7 @@ updated: 2026-10-22
 > | [[Rating Scale]] | 测量题型 | [[Likert Scale\|李克特量表]]等评定量表是问卷中最广泛采用的态度测量技术。 |
 > | [[Ranking Questions]] | 测量题型 | 排序题用于测量相对重要性与价值取向。 |
 > | [[Pilot Testing]] | 验证技术 | 预测试是确保问卷[[Reliability\|信度]]、效度与可读性的关键环节。 |
-> | [[Multiple Regression]] | 分析方法 | 多[[Meta-regression\|元回归]]是问卷量化数据最常用的统计建模工具之一。 |
+> | [[Multiple Regression]] | 分析方法 | [[Multiple Regression\|多元回归]]是问卷量化数据最常用的统计建模工具之一。 |
 > | [[Causal Modeling]] | 分析方法 | 结构方程模型基于问卷潜[[Variable\|变量]]与观测变量检验复杂因果网络。 |
 
 ---
@@ -196,3 +196,4 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch. 20)]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 编制四因素 14 题的基线问卷，经预测试检验[[Face Validity|表面效度]]与[[Construct Validity|建构效度]]后以在线方式施测，用于在干预前刻画英格兰 79 所小学 696 名实践者的[[Evidence-Informed Practice|证据知情实践]]准备状态。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 12 国政商学界政策精英设计多语言能力与偏好问卷，结合交叉表与均值比较量化评估三大外语的地位阶梯与职业驱动意向（pp. 27, 33）。

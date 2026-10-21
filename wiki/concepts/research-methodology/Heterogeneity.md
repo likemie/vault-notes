@@ -136,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 统计异质性、质性解释异质性与[[Sampling Error|抽样误差]]辨析
 > | 维度 | 统计异质性 (Statistical Heterogeneity) | 质性解释异质性 (Qualitative Explanatory Heterogeneity) | [[Random Sampling\|随机抽样]]误差 (Sampling Error) |
 > |---|---|---|---|
@@ -334,8 +332,8 @@ updated: 2026-10-22
 > > - **硬科学受控派（Hattie, 2009; Carnine, 2000）** 主张通过统计加权或实验控制清洗环境噪音，提炼出可精确预测的通用[[Effect Size|效应量]]法则。
 > > - **生态效度派（Phillips, 2014; Eisner, 1983; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出学生的多样身份、生活经历与社会情境构成了育人的人文核心；在复杂教育情境中强行排除异质变量会彻底破坏[[Ecological Validity|生态效度]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
-> [!warning] 方法论批评与测量学系统偏误
-> 辛普森（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]）指出，大型证据库中的所谓异质性并不一定真实反映了教学实践的丰富多样性，而极易混入测量工具的系统性人工偏差（如对照组设计差异、范围限制导致的标准差分母虚假收窄、测试题项偏倚等）。研究者在解释异质性时必须严谨甄别测量假象。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
+> [!warning] 适用局限
+> 大型证据库中的统计异质性并不必然等同于教学实践的真实多样性，极易混入测量工具的系统性人工偏差（如对照组设计差异、范围限制导致的标准差分母虚假收窄、测试题项偏倚等）（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]）；同时，探索异质性不能退化为纯粹的事后数据挖掘（Data Dredging），必须以严格的理论框架与事前预注册假说为指导，防范过度细分导致的假阳性风险。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
 
 ---
 

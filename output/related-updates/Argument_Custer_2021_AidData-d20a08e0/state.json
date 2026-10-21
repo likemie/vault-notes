@@ -93,7 +93,7 @@
     },
     {
       "number": 2,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -166,11 +166,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T20:07:02.342503+00:00"
     },
     {
       "number": 3,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -209,7 +210,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-21T20:10:04.394606+00:00"
     },
     {
       "number": 4,

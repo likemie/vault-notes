@@ -73,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 构念、变量与日常概念的多维辨析
 > | 比较维度 | 构念（Construct） | 变量（Variable） | 概念（Concept） |
 > |---|---|---|---|
