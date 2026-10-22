@@ -212,16 +212,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 学生投入的多维[[Operationalization\|操作化]]与实证指标（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 投入维度 | 量化指标（[[Questionnaire\|问卷调查]]） | 质性深入追问（[[In-depth Interview\|深度访谈]]） | 理论洞见与实证表征 |
-> |---|---|---|---|
-> | **投入的量** | 学生组织领导职务级别（五级）、知名机构实习段数（五档） | “简述大学四年的求学经历”——通过叙述方式判断投入连续性 | 弱势学生在领导职务与实习段数上显著落后于优势阶层同行。 |
-> | **投入的方向性** | 七项大学目标的重要性自评与排序 | “有了职业理想后你为此做了哪些准备？” | 目标掌控者呈现清晰的阶段性聚焦，直觉依赖者普遍无长期规划。 |
-> | **[[Academic Engagement\|学业投入]]** | [[Academic Achievement\|GPA]] 分布、专业认同度与归属感自评 | 专业喜欢程度、深层阅读时间及知识探究动机 | 目标掌控者为达到特定出路维持稳定 GPA，直觉依赖者易因受挫而学业迷航。 |
-> | **[[Social Engagement\|社会性投入]]** | 深度交友数量、与专业教师学术交流频率 | [[Extracurricular Activities\|课外活动]]参与动机、对导师及朋辈的情感评价 | 优势学生把社交视为资本积累，弱势学生容易局限于同温层被动交往。 |
-
 > [!metax] [专注、坚持与投入 · Concentration-Persistence-Engagement](https://www.visiblelearningmetax.com/influences/view/concentration-persistence-engagement)
 > 学生 › 毅力与自信
 >
@@ -244,6 +234,16 @@ updated: 2026-10-22
 > > | Lindstrom et al. (2021) | Engagement | 21 | 13,521 | 199 | 0.49 |  |
 > > | Wong et al. (2023) | Engagement | 58 | 158,510 | 61 | 0.65 |  |
 > > | Liu (2014) | Need for cognition | 42 | 8,367 | 49 | 0.49 |  |
+
+> [!ref-table]- 学生投入的多维[[Operationalization\|操作化]]与实证指标（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 投入维度 | 量化指标（[[Questionnaire\|问卷调查]]） | 质性深入追问（[[In-depth Interview\|深度访谈]]） | 理论洞见与实证表征 |
+> |---|---|---|---|
+> | **投入的量** | 学生组织领导职务级别（五级）、知名机构实习段数（五档） | “简述大学四年的求学经历”——通过叙述方式判断投入连续性 | 弱势学生在领导职务与实习段数上显著落后于优势阶层同行。 |
+> | **投入的方向性** | 七项大学目标的重要性自评与排序 | “有了职业理想后你为此做了哪些准备？” | 目标掌控者呈现清晰的阶段性聚焦，直觉依赖者普遍无长期规划。 |
+> | **[[Academic Engagement\|学业投入]]** | [[Academic Achievement\|GPA]] 分布、专业认同度与归属感自评 | 专业喜欢程度、深层阅读时间及知识探究动机 | 目标掌控者为达到特定出路维持稳定 GPA，直觉依赖者易因受挫而学业迷航。 |
+> | **[[Social Engagement\|社会性投入]]** | 深度交友数量、与专业教师学术交流频率 | [[Extracurricular Activities\|课外活动]]参与动机、对导师及朋辈的情感评价 | 优势学生把社交视为资本积累，弱势学生容易局限于同温层被动交往。 |
 
 ---
 

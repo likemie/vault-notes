@@ -184,8 +184,6 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 生成式人工智能（Generative Artificial Intelligence, GenAI）指以 Transformer、自回归大语言模型（Large Language Model, LLM）及多模态扩散模型（Diffusion Models）为基础架构，能够依据自然语言提示（Prompts）动态生成连贯文本、程序代码、多维图像、音视频及复杂合成制品的计算技术系统。
 > 
@@ -522,6 +520,18 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [ChatGPT · ChatGPT](https://www.visiblelearningmetax.com/influences/view/chatgpt)
+> 技术、学校与校外策略 › 移动／触屏
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 1 | 51 | 0 | 62 | 0.71 | 0.71 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Deng et al. (2025) | ChatGPT on academic performance | 51 | NA | 62 | 0.71 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -572,20 +582,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 5)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述描述性统计 | 学科领域与地理分布特征 | 亚洲占 58.21% ($n = 39$)；STEM 占 35.82% ($n = 24$)；量化占 38.81% | — | 揭示当前实证证据集中于亚洲高校及重逻辑学科 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证[[Research Synthesis\|证据综合]] | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节[[Man-Computer Symbiosis\|人机协同]]科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
-
-> [!metax] [ChatGPT · ChatGPT](https://www.visiblelearningmetax.com/influences/view/chatgpt)
-> 技术、学校与校外策略 › 移动／触屏
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 1 | 51 | 0 | 62 | 0.71 | 0.71 | ●●○○○ |
->
-> > [!metax-ma]- 1 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Deng et al. (2025) | ChatGPT on academic performance | 51 | NA | 62 | 0.71 |  |
-
----
 
 ---
 

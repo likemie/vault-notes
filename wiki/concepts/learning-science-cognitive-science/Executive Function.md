@@ -67,8 +67,6 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > **执行功能（Executive Function, EF）** 是一个涵盖性统称（umbrella term），指个体用于目标导向控制的一组高阶、通用目的的神经认知过程，通过主动调节思维、注意与行动以实现特定目标。执行功能的核心成分包括[[Inhibitory Control\|抑制控制]]、任务转换（[[Cognitive Flexibility\|认知灵活性]]）以及[[Working Memory\|工作记忆]]内容的动态[[Updating and Monitoring\|更新与监控]]（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]）；在科学学习与[[Problem Solving\|复杂问题解决]]情境中，执行功能构成了学生过滤无关知觉线索、抑制先验直觉偏误与协调多[[Variable\|变量]]探索的微观认知中枢（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
 
@@ -190,16 +188,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | **Kwon and Lawson (2000)** | 韩国中学生科学探究追踪样本 | 追踪实验与[[Multiple Regression\|多元回归]]路径分析 | [[Inhibitory Control\|抑制控制]]能力（斯特鲁普测验/镶嵌图形测验）与探究产出 | • 独立解释 **29%** 科学推理技能方差<br>• 独立解释 **28%** 科学概念转变方差 | $p < .01$ | 证实抑制控制对微观探究认知构建具有强力解释力，但未测试教学支架介入后的补偿消除效应。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]] |
-> | **[[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]** | K-12 学龄儿童与青少年认知发展数据库 | 纵向发展追踪与文献计量综合 | 执行功能各成分发展速率、前额叶[[Myelination\|髓鞘化]]与[[Academic Achievement\|学业成就]] | • 抑制控制在 **3–5 岁**出现关键铰链点<br>• 约 **16 岁至 30 岁初**改善速率逐渐平缓<br>• 纵向预测学业变异准确度超越 IQ | 综合纵向[[Chain of Evidence\|证据链]]证实 | 阐明发展时间表与因果预测方向，但受试群体主要集中于欧美工业化国家样本。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5, 10)]] |
-> | **[[Argument_Park_2026_TSC\|Park et al. (2026)]]** | 68 项独立实证研究涉及跨学段学生群体 | 效应量相关[[Meta-analysis\|元分析]]与调节效应检验 | [[Creativity\|创造力]]（发散）与[[Critical Thinking\|批判性思维]]（收敛）之关系 | • 总体加权相关系数 **$r = 0.38$**<br>• 共享抑制控制与任务灵活性方差贡献 | 95% CI [0.33, 0.43], $p < .001$ | 实证确认两者存在共享认知基础，但元分析未直接包含神经影像学并发扫描数据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]] |
-> | **Homer and Plass (2014)** | 科学虚拟仿真[[Inquiry-Based Learning\|探究学习]]实验 | [[Factorial Design\|析因实验]]设计（符号表征 vs 具象图标） | 视觉表征设计对不同执行功能负荷学生的干扰率 | 具象图标显著分散低抑制控制学生的注意力并增加外生负荷 | 组间差异显著 ($p < .05$) | 揭示知觉诱惑对认知控制的消耗，证实科学探究界面需要微观脚手架约束。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]] |
-
 > [!metax] [执行功能 · Executive functioning](https://www.visiblelearningmetax.com/influences/view/executive_functioning)
 > 学生 › 先备知识与背景
 >
@@ -212,6 +200,16 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Pascual et al. (2019) | Executive functioning | 21 | 7,947 | 21 | 0.78 |  |
 > > | Spiegel et al. (2021) | Executive functioning | 293 | 65,605 | 293 | 0.61 |  |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | **Kwon and Lawson (2000)** | 韩国中学生科学探究追踪样本 | 追踪实验与[[Multiple Regression\|多元回归]]路径分析 | [[Inhibitory Control\|抑制控制]]能力（斯特鲁普测验/镶嵌图形测验）与探究产出 | • 独立解释 **29%** 科学推理技能方差<br>• 独立解释 **28%** 科学概念转变方差 | $p < .01$ | 证实抑制控制对微观探究认知构建具有强力解释力，但未测试教学支架介入后的补偿消除效应。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]] |
+> | **[[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]** | K-12 学龄儿童与青少年认知发展数据库 | 纵向发展追踪与文献计量综合 | 执行功能各成分发展速率、前额叶[[Myelination\|髓鞘化]]与[[Academic Achievement\|学业成就]] | • 抑制控制在 **3–5 岁**出现关键铰链点<br>• 约 **16 岁至 30 岁初**改善速率逐渐平缓<br>• 纵向预测学业变异准确度超越 IQ | 综合纵向[[Chain of Evidence\|证据链]]证实 | 阐明发展时间表与因果预测方向，但受试群体主要集中于欧美工业化国家样本。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5, 10)]] |
+> | **[[Argument_Park_2026_TSC\|Park et al. (2026)]]** | 68 项独立实证研究涉及跨学段学生群体 | 效应量相关[[Meta-analysis\|元分析]]与调节效应检验 | [[Creativity\|创造力]]（发散）与[[Critical Thinking\|批判性思维]]（收敛）之关系 | • 总体加权相关系数 **$r = 0.38$**<br>• 共享抑制控制与任务灵活性方差贡献 | 95% CI [0.33, 0.43], $p < .001$ | 实证确认两者存在共享认知基础，但元分析未直接包含神经影像学并发扫描数据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]] |
+> | **Homer and Plass (2014)** | 科学虚拟仿真[[Inquiry-Based Learning\|探究学习]]实验 | [[Factorial Design\|析因实验]]设计（符号表征 vs 具象图标） | 视觉表征设计对不同执行功能负荷学生的干扰率 | 具象图标显著分散低抑制控制学生的注意力并增加外生负荷 | 组间差异显著 ($p < .05$) | 揭示知觉诱惑对认知控制的消耗，证实科学探究界面需要微观脚手架约束。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]] |
 
 ---
 

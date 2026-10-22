@@ -72,8 +72,6 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 合作学习（Cooperative Learning，CL）是指一种将学生组织为[[Heterogeneity\|异质性]]（能力、性别、背景多元）小组的[[Constructivist Paradigm\|社会建构主义]]教学组织模式。其核心特征在于通过社会结构化的信息交流与协同互动，使学习深度依赖于组内成员的同伴支持；每个学习者既对自身的学业掌握负责，又受到共同目标的激励去促进其他成员的学习，从而达成个体与群体的共同认知、[[Higher-Order Thinking Skills\|高阶思维]]与社会情感发展目标。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 
@@ -211,6 +209,55 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [合作学习 · Cooperative learning](https://www.visiblelearningmetax.com/influences/view/cooperative_learning)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 38 | 1,385 | 46,339 | 2,262 | 0.56 | 0.53 | ●●●●● |
+>
+> > [!metax-ma]- 38 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Ayaz & Sekerci (2015) | Constructivist teaching | 53 | 3,271 | 53 | 1.16 |  |
+> > | Johnson et al. (1981) | Cooperative learning | 122 | NA | 183 | 0.73 |  |
+> > | Rolhelser-Bennett (1987) | Cooperative learning | 23 | 4,002 | 78 | 0.72 |  |
+> > | Hall (1988) | Cooperative learning | 22 | 10,022 | 52 | 0.31 |  |
+> > | Stevens et al. (1991) | Cooperative learning | 4 | NA | 4 | 0.48 |  |
+> > | Spuler (1993) | Cooperative learning in math | 19 | 6,137 | 19 | 0.54 |  |
+> > | Othman (1996) | Cooperative learning in math | 39 | NA | 39 | 0.27 |  |
+> > | Howard (1996) | Scripted cooperative learning | 13 | NA | 42 | 0.37 |  |
+> > | Suri (1997) | Cooperative learning in math | 27 | NA | 27 | 0.63 |  |
+> > | Bowen (2000) | Cooperative learning in high school chemistry | 37 | 3,000 | 49 | 0.51 |  |
+> > | Neber, Finsterwald, & Urban (2001b) | Cooperative learning with gifted | 12 | NA | 314 | 0.13 |  |
+> > | Dietrichson, Bog, Filges, & Jorgensen (2017a) | Cooperative learning | 10 | NA | 10 | 0.22 |  |
+> > | Tuncer & Dikmen (2017) | Cooperative learning | 6 | NA | 6 | 0.52 |  |
+> > | Gu (2013) | Cooperative learning | 48 | NA | 54 | 0.44 |  |
+> > | Stoner (2004) | Cooperative learning | 22 | 6,455 | 22 | 0.14 |  |
+> > | Romero (2009) | Cooperative learning | 32 | NA | 52 | 0.31 |  |
+> > | Igel (2010) | Cooperative learning | 20 | 2,412 | 20 | 0.44 |  |
+> > | McMaster & Fuchs (2002) | Cooperative learning | 15 | 864 | 49 | 0.30 |  |
+> > | Nunnery et al. (2013) | Cooperative learning in math | 15 | NA | 15 | 0.16 |  |
+> > | Puzio & Colby (2013) | Cooperative learning | 18 | NA | 29 | 0.16 |  |
+> > | Kyndt et al. (2013) | Cooperative learning | 65 | NA | 51 | 0.54 |  |
+> > | Capar & Tarim (2015) | Cooperative learning in math | 26 | NA | 36 | 0.59 |  |
+> > | Turgut & Gülsen-Turgut (2018) | Cooperative learning | 47 | NA | 59 | 0.84 |  |
+> > | Apugliese & Lewis (2017) | Cooperative learning | 26 | NA | 26 | 0.70 |  |
+> > | Susman (1998) | Cooperative learning via ICT | 23 | NA | 23 | 0.25 |  |
+> > | Jung & Shin (2016) | Cooperative learning | 13 | NA | 13 | 1.07 |  |
+> > | Warfa (2016) | Cooperative learning in chemistry | 25 | 3,985 | 25 | 0.68 |  |
+> > | Setiana (2020) | Cooperative learning | 16 | 805 | 16 | 0.15 |  |
+> > | Baomin & Lingling (2021) | Cooperative learning | 57 | NA | 57 | 0.59 |  |
+> > | Park (2009) | Cooperative learning | 272 | NA | 272 | 0.43 |  |
+> > | Gürdogan-Bayir & Bozkurt (2018) | Cooperative learning | 22 | NA | 32 | 0.96 |  |
+> > | Li & Gong (2019) | Cooperative learning | 54 | NA | 54 | 0.34 |  |
+> > | Swanson et al. (2019) | Team based learning | 17 | NA | 17 | 0.55 |  |
+> > | Shin (2018) | Cooperative learning | 77 | NA | 376 | 0.77 |  |
+> > | Rizki et al. (2022) | Cooperative learning | 21 | NA | 21 | 1.08 |  |
+> > | Ashrafzade et al. (2023) | Cooperative learning | 17 | NA | 17 | 0.89 |  |
+> > | Eslit (2023) | Cooperative learning | 28 | 4,137 | 28 | 0.47 |  |
+> > | Ridwan et al. (2022) | Cooperative learning | 22 | 1,249 | 22 | 0.89 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -265,55 +312,6 @@ updated: 2026-10-22
 >
 > - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 学习产出类型互补亚组** 预设分析；组间差异未达显著，高阶思维赋能效应点估计最高
 > - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 学科领域互补亚组** 预设分析；组间差异高度显著，语言与社会科元分析较匮乏但效应极强，体育效应微弱且不显著
-
-> [!metax] [合作学习 · Cooperative learning](https://www.visiblelearningmetax.com/influences/view/cooperative_learning)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 38 | 1,385 | 46,339 | 2,262 | 0.56 | 0.53 | ●●●●● |
->
-> > [!metax-ma]- 38 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Ayaz & Sekerci (2015) | Constructivist teaching | 53 | 3,271 | 53 | 1.16 |  |
-> > | Johnson et al. (1981) | Cooperative learning | 122 | NA | 183 | 0.73 |  |
-> > | Rolhelser-Bennett (1987) | Cooperative learning | 23 | 4,002 | 78 | 0.72 |  |
-> > | Hall (1988) | Cooperative learning | 22 | 10,022 | 52 | 0.31 |  |
-> > | Stevens et al. (1991) | Cooperative learning | 4 | NA | 4 | 0.48 |  |
-> > | Spuler (1993) | Cooperative learning in math | 19 | 6,137 | 19 | 0.54 |  |
-> > | Othman (1996) | Cooperative learning in math | 39 | NA | 39 | 0.27 |  |
-> > | Howard (1996) | Scripted cooperative learning | 13 | NA | 42 | 0.37 |  |
-> > | Suri (1997) | Cooperative learning in math | 27 | NA | 27 | 0.63 |  |
-> > | Bowen (2000) | Cooperative learning in high school chemistry | 37 | 3,000 | 49 | 0.51 |  |
-> > | Neber, Finsterwald, & Urban (2001b) | Cooperative learning with gifted | 12 | NA | 314 | 0.13 |  |
-> > | Dietrichson, Bog, Filges, & Jorgensen (2017a) | Cooperative learning | 10 | NA | 10 | 0.22 |  |
-> > | Tuncer & Dikmen (2017) | Cooperative learning | 6 | NA | 6 | 0.52 |  |
-> > | Gu (2013) | Cooperative learning | 48 | NA | 54 | 0.44 |  |
-> > | Stoner (2004) | Cooperative learning | 22 | 6,455 | 22 | 0.14 |  |
-> > | Romero (2009) | Cooperative learning | 32 | NA | 52 | 0.31 |  |
-> > | Igel (2010) | Cooperative learning | 20 | 2,412 | 20 | 0.44 |  |
-> > | McMaster & Fuchs (2002) | Cooperative learning | 15 | 864 | 49 | 0.30 |  |
-> > | Nunnery et al. (2013) | Cooperative learning in math | 15 | NA | 15 | 0.16 |  |
-> > | Puzio & Colby (2013) | Cooperative learning | 18 | NA | 29 | 0.16 |  |
-> > | Kyndt et al. (2013) | Cooperative learning | 65 | NA | 51 | 0.54 |  |
-> > | Capar & Tarim (2015) | Cooperative learning in math | 26 | NA | 36 | 0.59 |  |
-> > | Turgut & Gülsen-Turgut (2018) | Cooperative learning | 47 | NA | 59 | 0.84 |  |
-> > | Apugliese & Lewis (2017) | Cooperative learning | 26 | NA | 26 | 0.70 |  |
-> > | Susman (1998) | Cooperative learning via ICT | 23 | NA | 23 | 0.25 |  |
-> > | Jung & Shin (2016) | Cooperative learning | 13 | NA | 13 | 1.07 |  |
-> > | Warfa (2016) | Cooperative learning in chemistry | 25 | 3,985 | 25 | 0.68 |  |
-> > | Setiana (2020) | Cooperative learning | 16 | 805 | 16 | 0.15 |  |
-> > | Baomin & Lingling (2021) | Cooperative learning | 57 | NA | 57 | 0.59 |  |
-> > | Park (2009) | Cooperative learning | 272 | NA | 272 | 0.43 |  |
-> > | Gürdogan-Bayir & Bozkurt (2018) | Cooperative learning | 22 | NA | 32 | 0.96 |  |
-> > | Li & Gong (2019) | Cooperative learning | 54 | NA | 54 | 0.34 |  |
-> > | Swanson et al. (2019) | Team based learning | 17 | NA | 17 | 0.55 |  |
-> > | Shin (2018) | Cooperative learning | 77 | NA | 376 | 0.77 |  |
-> > | Rizki et al. (2022) | Cooperative learning | 21 | NA | 21 | 1.08 |  |
-> > | Ashrafzade et al. (2023) | Cooperative learning | 17 | NA | 17 | 0.89 |  |
-> > | Eslit (2023) | Cooperative learning | 28 | 4,137 | 28 | 0.47 |  |
-> > | Ridwan et al. (2022) | Cooperative learning | 22 | 1,249 | 22 | 0.89 |  |
 
 ---
 

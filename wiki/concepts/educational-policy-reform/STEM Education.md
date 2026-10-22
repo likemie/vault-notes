@@ -89,8 +89,6 @@ created: 2026-06-05
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 科学、技术、工程与数学教育（Science, Technology, Engineering, and Mathematics Education, STEM）是科学（Science）、技术（Technology）、工程（Engineering）与数学（Mathematics）四个学科领域深度交叉融合的教育[[Paradigm|范式]]与国家战略总称。它打破传统孤立分科教学的割裂状态，主张将学生置于真实世界的问题情境中，依托工程设计流程（Engineering Design Process）与科学[[Inquiry Cycle|探究循环]]（Inquiry Cycle），综合调动多学科原理进行建模、原型开发与实证检验，旨在培育学习者的[[Scientific Literacy|科学素养]]、[[Critical Thinking|批判性思维]]、高阶[[Problem Solving|问题解决能力]]与跨学科[[Epistemic Practices|认识论实践]]素养，并在大国竞争中构成国家关键科技劳动力储备的战略基石。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143)]]; [[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 
@@ -253,22 +251,6 @@ updated: 2026-10-22
 
 ---
 
-> [!effect-table]- STEM 教学法对比实证研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
-> 
-> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Klahr and Nigam (2004) | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 1.10"><span class="b22"></span></span>1.10 | $p<.001$ | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
-
-> [!ref-table]- 其他实证结果（无效应量）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Brint_2023_IHE\|Brint (2023)]] | 美国与中国高等教育体系；联邦芯片与科学立法 | 宏观政策比较与官方统计核查 | ① 中美高校 STEM 毕业生年度供给规模；② 联邦 GRFP 奖学金名额 | ① 中国高校 STEM 毕业生年产出规模达到美国的 4 倍；② 联邦法案拟将 GRFP 博士研究生奖学金年度名额从 2,000 名增加至 3,000 名（增长 50%） | 官方统计数据对比与立法条文分析 | 揭示大国地缘科技竞争中国家科技劳动力蓄水池的规模差距与政策对冲举措 |
-> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所年科研经费超 10 亿美元的[[Research Universities\|研究型大学]]；3 期半导体 STEM 学者工作坊 | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 参会规模拓展与跨学科[[Teacher Collaboration\|教师协作]]体验 | 参与规模由 81 人扩展至系统 142 人再到全州 242 人；线上组 60%、线下组 80%、混合组 75% 表达积极协作体验 | 质性开放问卷独立主题编码（$n=21, 11, 12$） | 单机构自陈式质性评估，呈现高校有组织应对国家 STEM 战略时学者团队的微观孵化动态 |
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | [[National Semiconductor Technology Center\|美国国家半导体技术中心]]（[[National Science and Technology Council\|NSTC]]）劳动力卓越中心（WCoE）生态规划 | 国家微电子产业战略与教育规划 | 全谱系人才通道、课程资源共享与全包式支持 | 建立覆盖 K-12 启蒙、社区学院微认证、本科洁净室实训与研究生全额资助的全美网络；向少数族裔服务机构（MSI）倾斜资源 | 官方战略蓝图与产业人才供需预测 | 确立国家级[[Pilot Scale Platform\|中试平台]]与全谱系 STEM 教育深度嵌入的政策范式 |
-
 > [!metax] [STEM 项目 · STEM programs](https://www.visiblelearningmetax.com/influences/view/stem_programs)
 > 课程 › 数学与科学
 >
@@ -295,6 +277,22 @@ updated: 2026-10-22
 > > | Güder et al. (2022) | Stem on science processes | 43 | NA | 43 | 0.60 |  |
 > > | Srikoon et al. (2023) | STEM on achievement | 8 | NA | 8 | 0.91 |  |
 > > | Lu et al. (2021) | STEM on achievement | 31 | NA | 42 | 0.62 |  |
+
+> [!effect-table]- STEM 教学法对比实证研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+> 
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Klahr and Nigam (2004) | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 1.10"><span class="b22"></span></span>1.10 | $p<.001$ | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Brint_2023_IHE\|Brint (2023)]] | 美国与中国高等教育体系；联邦芯片与科学立法 | 宏观政策比较与官方统计核查 | ① 中美高校 STEM 毕业生年度供给规模；② 联邦 GRFP 奖学金名额 | ① 中国高校 STEM 毕业生年产出规模达到美国的 4 倍；② 联邦法案拟将 GRFP 博士研究生奖学金年度名额从 2,000 名增加至 3,000 名（增长 50%） | 官方统计数据对比与立法条文分析 | 揭示大国地缘科技竞争中国家科技劳动力蓄水池的规模差距与政策对冲举措 |
+> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所年科研经费超 10 亿美元的[[Research Universities\|研究型大学]]；3 期半导体 STEM 学者工作坊 | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 参会规模拓展与跨学科[[Teacher Collaboration\|教师协作]]体验 | 参与规模由 81 人扩展至系统 142 人再到全州 242 人；线上组 60%、线下组 80%、混合组 75% 表达积极协作体验 | 质性开放问卷独立主题编码（$n=21, 11, 12$） | 单机构自陈式质性评估，呈现高校有组织应对国家 STEM 战略时学者团队的微观孵化动态 |
+> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | [[National Semiconductor Technology Center\|美国国家半导体技术中心]]（[[National Science and Technology Council\|NSTC]]）劳动力卓越中心（WCoE）生态规划 | 国家微电子产业战略与教育规划 | 全谱系人才通道、课程资源共享与全包式支持 | 建立覆盖 K-12 启蒙、社区学院微认证、本科洁净室实训与研究生全额资助的全美网络；向少数族裔服务机构（MSI）倾斜资源 | 官方战略蓝图与产业人才供需预测 | 确立国家级[[Pilot Scale Platform\|中试平台]]与全谱系 STEM 教育深度嵌入的政策范式 |
 
 ---
 

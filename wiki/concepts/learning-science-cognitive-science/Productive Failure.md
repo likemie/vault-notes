@@ -62,8 +62,6 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
----
-
 ## 定义
 
 在学习科学与现代教学设计领域，“生产性失败”（Productive Failure, PF），亦称有成效的失败或启发式失败，指一种先于正式概念讲授而让学生自主探索解决复杂、[[Wicked Problem|劣构问题]]（Ill-structured Problems）的时序教学[[Paradigm|范式]]。
@@ -236,6 +234,20 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [有益失败（错误） · Productive failure (errors)](https://www.visiblelearningmetax.com/influences/view/productive_failure_(errors))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 3 | 89 | 2,183 | 213 | 0.39 | 0.41 | ●●○○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Keith & Frese (2008) | Productive failure | 24 | 2,183 | 24 | 0.44 |  |
+> > | Sinha & Kapur (2021) | Problem solving then instruction | 53 | NA | 166 | 0.36 |  |
+> > | Darabi et al. (2018) | Productive failure | 12 | NA | 23 | 0.43 |  |
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -251,20 +263,6 @@ updated: 2026-10-22
 > | Vitale, McBride, & Linn (2016)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） | 中学科学课堂严格对照实验 | [[Direct Instruction\|直接讲授]]后练习 vs 前置探究试错与统整 | 即时课堂测验与延迟[[Pre-test and Post-test\|后测]]概念表现 | 即时测验直接讲授组错误率更低；延迟测验探究试错组显著占优 | 延迟测验显著（$p < .05$） | 证实直接讲授在即时表现上虚高，前置探究试错虽初期受挫但长效保持与深层理解显著更优 |
 > | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 实验与延迟追踪对比研究 | 显性规则直接讲授 vs 探究试错与内化（[[Control of Variables Strategy\|CVS]]） | 13 周后的长期保持率（延迟后测） | 直接讲授组保持率仅 31%；探究试错内化组保持率高达 78%–83% | 保持率差异显著（$p < .01$） | 证实经历试错冲突并自主领悟策略的学习者，其长周期抗遗忘能力与远迁移韧性远超直接背诵规则者 |
 > | Chin et al. (2019)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]） | K-12 科学探究对照实验 | 探究式先行解决问题 vs 传统直接教学 | 未来学习准备（PFL）测验成绩 | 探究组在面对全新未讲授的进阶科学任务时表现出显著更高的[[Learner Autonomy\|自主学习]]力 | 统计显著（$p < .05$） | 实证确立前置探究在激发未来学习准备（PFL）上的独特增益，超越了单纯直接教学的知识复制 |
-
-> [!metax] [有益失败（错误） · Productive failure (errors)](https://www.visiblelearningmetax.com/influences/view/productive_failure_(errors))
-> 教学策略 › 反馈
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 3 | 89 | 2,183 | 213 | 0.39 | 0.41 | ●●○○○ |
->
-> > [!metax-ma]- 3 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Keith & Frese (2008) | Productive failure | 24 | 2,183 | 24 | 0.44 |  |
-> > | Sinha & Kapur (2021) | Problem solving then instruction | 53 | NA | 166 | 0.36 |  |
-> > | Darabi et al. (2018) | Productive failure | 12 | NA | 23 | 0.43 |  |
 
 ---
 

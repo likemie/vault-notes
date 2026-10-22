@@ -46,7 +46,7 @@ updated: 2026-10-21
 
 ### 12 · Visible Learning MetaX 模块（2026-10-22）
 
-`[!metax]` 总览、`[!metax-ma]` 元分析明细、`[!metax-errata]` 勘误，均由 `scripts/metax_sync.py` 生成。眉标（VISIBLE LEARNING METAX / META-ANALYSES · 元分析 / ERRATA · 勘误）和表头中文全部由 CSS `content` 生成，Markdown 表头只写代号，因此“变量、元分析、效应量”等词不进入正文。三者整块受 `wiki_linker.py` 保护，不参与补链。CSS 位置：`argument-callouts.css` 末尾 `12 · Visible Learning MetaX` 段。
+`[!metax]` 总览、`[!metax-ma]` 元分析明细、`[!metax-errata]` 勘误，均由 `scripts/metax_sync.py` 生成。位置：实证数据组的最前面（MetaX → 原始研究 → 一阶 / 二阶元分析 → 亚组与调节分析 → 其他实证结果），同步脚本自动插入。眉标（VISIBLE LEARNING METAX / META-ANALYSES · 元分析 / ERRATA · 勘误）和表头中文全部由 CSS `content` 生成，Markdown 表头只写代号，因此“变量、元分析、效应量”等词不进入正文。三者整块受 `wiki_linker.py` 保护，不参与补链。CSS 位置：`argument-callouts.css` 末尾 `12 · Visible Learning MetaX` 段。
 
 `[!metax-domain]` 领域汇总总表与 `[!metax-subdomain]-` 各领域子领域表（Visible Learning Meta-X 条目使用），由 `metax_sync.py domains` 生成：表头代号 `dom n ma dm dw med sd rng neg` / `sub n dm dw rng neg` 由 CSS 显示为中文；等权平均 d 前的 `<span class="mx-bar bN">` 条形按 0.05 分档（b0–b28），负值为琥珀色。CSS 位置：`13 · MetaX 领域汇总` 段。
 
@@ -501,7 +501,7 @@ updated: 2026-10-21
 ## 使用原则
 
 - callout 服务阅读层次。普通说明段不要强行包进 callout。
-- **避免纯盒子堆叠与大段裸文字**：Callout 用于凸显核心论点、机制流程、对比张力与关键证据等结构化内容。排版上杜绝数百字未加结构化的大块裸文字；但严禁把所有文字机械塞入 Callout 导致盒子紧挨堆叠。在标题下方、不同 Callout 之间，均应保留 1–2 句精炼严谨的过渡性正文（裸文字）作为逻辑串联与推进纽带，维持优良的学术阅读流动感。
+- **不写过渡语**：Callout 用于凸显核心论点、机制流程、对比张力与关键证据等结构化内容。标题与 callout 之间、callout 与 callout 之间不硬加过渡句；只有承载实质内容（论断、机制、证据、条件）且不重复标题或下一个 callout 标题的文字才作为正文保留，否则 callout 直接相接。仍应避免数百字未加结构化的大段裸文字。
 - 同一节内 callout 不宜过密；内容少于 3 点时优先用散文或普通列表。
 - callout 名称描述的是**内容结构**，不是主题关键词；“路径”“链条”“机制”等字样本身不构成使用依据。
 - `[!chain-link]` 是低频、强语义组件。若相邻链节可以交换顺序、删除一项而不影响结论，或每项只是并列信息，则禁止使用。
@@ -514,7 +514,7 @@ updated: 2026-10-21
   - `|compact`：缩小字号与行距
   - `|col1-wide`：第一列加宽
   - 整页生效可在 frontmatter 写 `cssclasses`，按组件类型全局生效则改 CSS。
-- **实证数据账本（2026-10-22）**：Concept 等条目的实证表格不写 `## 实证数据` 标题。CSS 依据表内 marker（`concept-effect-table-marker` / `concept-meta-analysis-table-marker` / `concept-second-order-meta-table-marker` / `concept-other-empirical-table-marker`）自动显示 `DATA · EFFECT SIZES / META-ANALYSIS / 2ND-ORDER META / OTHER RESULTS` 标签与数据色带；表格上方可写一段引导说明（显示为灰色小字）。
+- **实证数据账本（2026-10-22）**：Concept 等条目的实证表格不写 `## 实证数据` 标题。CSS 依据表内 marker（`concept-effect-table-marker` / `concept-meta-analysis-table-marker` / `concept-second-order-meta-table-marker` / `concept-other-empirical-table-marker`）自动显示 `DATA · EFFECT SIZES / META-ANALYSIS / 2ND-ORDER META / OTHER RESULTS` 标签与数据色带；表格上方只在有实质说明（如数据口径、纳入范围）时才写，显示为灰色小字，不写过渡语。
 - **可计算效应值（2026-10-22，全库）**：实证表格的效应量拆成可计算列，效应条由脚本生成，禁止手填。
   - 列顺序：原始研究表 `研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 结果变量 | 分析样本 | 组别统计 | 设计与解释边界`；一阶 / 二阶元分析表 `元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 | 当前概念角色与总体结果 | 异质性 | 关键解释边界`。
   - “效应指标”只写指标名：Cohen's $d$、Hedges' $g$、SMD、Glass' Δ、$r$、Fisher $z$、OR、$\eta^2$ / 偏 $\eta^2$、$\omega^2$、$R^2$、$\beta$（SD 单位）；可加括号说明“均值 / 中位数”。未登记的指标会被 lint 拦下，需要先在 `scripts/effect_table.py` 的 `METRICS` 中登记。

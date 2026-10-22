@@ -63,8 +63,6 @@ created: 2026-08-31
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 自我调节学习（Self-Regulated Learning, SRL）是指学习者在[[Metacognition\|元认知]]、动机和行为层面上主动参与自身学习过程的动态循环系统。学习者通过设定明确的学业目标、选择并实施适切的认知策略、持续监控任务进展与理解状态，并依据反馈对心智操作和外部行为做出适应性调整。在人工智能介入的学习环境中，自我调节学习是发挥“风险中和”功能、决定学生能够将技术作为[[Scaffolding\|认知脚手架]]批判性审视其输出，还是滑向被动顺从与[[Cognitive Offloading\|认知外包]]的核心调节机制。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 7)]]；[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 
@@ -193,23 +191,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 11–12)]] | 亚组 | 高 SRL 能力组 | Hedges' $g$ | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
-> |  |  | 低 SRL 能力组（生成式 AI 促进高阶思维） |  | k=25（总 k=56） | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
->
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, pp. 11–12)]] · 亚组** 自主调节能力是决定生成式技术促学成效的核心个体分水岭；两组置信区间完全不重叠，确证低自律学习者极难单纯依靠工具获得高阶思维飞跃
-
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 6–7)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 整合中自我调节学习赋能与缺失频数 | 17 项（25%）研究证实结构化提示工程显著激活 SRL；而在缺乏 SRL 提示时，12 项（18%）研究观察到[[Metacognition\|元认知]]监控严重脱节与依赖 | — | 质性主题证据，揭示 SRL 在智能技术环境中的高情境敏感性与支架依赖性 |
-
 > [!metax] [自我调节策略 · Self-regulation strategies](https://www.visiblelearningmetax.com/influences/view/self-regulation_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >
@@ -248,6 +229,23 @@ updated: 2026-10-22
 > > | Hitt (2023) | Self-regulation interventions | 60 | NA | 60 | 0.46 |  |
 > > | Cheng et al. (2022) | Self-regulated strategies on on-line | 21 | 1,327 | 18 | 0.85 |  |
 > > | Kurucay et al. (2015) | Self-regulated learning | 18 | 11,750 | 18 | 0.11 |  |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 11–12)]] | 亚组 | 高 SRL 能力组 | Hedges' $g$ | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  |  | 低 SRL 能力组（生成式 AI 促进高阶思维） |  | k=25（总 k=56） | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, pp. 11–12)]] · 亚组** 自主调节能力是决定生成式技术促学成效的核心个体分水岭；两组置信区间完全不重叠，确证低自律学习者极难单纯依靠工具获得高阶思维飞跃
+
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 6–7)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 整合中自我调节学习赋能与缺失频数 | 17 项（25%）研究证实结构化提示工程显著激活 SRL；而在缺乏 SRL 提示时，12 项（18%）研究观察到[[Metacognition\|元认知]]监控严重脱节与依赖 | — | 质性主题证据，揭示 SRL 在智能技术环境中的高情境敏感性与支架依赖性 |
 
 ---
 

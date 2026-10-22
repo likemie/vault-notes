@@ -149,8 +149,6 @@ created: 2026-06-30
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 批判性思维是以理由为依据、有目的且能够自我调节的反思判断。个体需要识别和分析论证，评价证据与信息来源，形成推论与解释，权衡相关理由后决定相信什么或采取何种行动。完整[[Construct\|构念]]还包括探究、开放、公正、智识[[Humility\|谦逊]]和自我纠正等倾向，以及使判断成立的领域知识和情境标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31–35)]]
 
@@ -400,6 +398,19 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
+> 学生 › 先备知识与背景
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 70 | 8,233 | 90 | 0.79 | 0.71 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Fong, Kim, et al. (2017) | Critical thinking | 23 | 8,233 | 23 | 0.49 |  |
+> > | Orhan (2022) | Critical thinking | 47 | NA | 67 | 0.93 |  |
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -497,19 +508,6 @@ updated: 2026-10-22
 > | EUA Trends (2018) 调查，引自同上 | $N = 303$ 所全欧大学（覆盖 43 国） | 宏观院校调查 | 预期学习成果与考核方式改革 | 76% 大学为所有课程设定预期成果，88% 大学据此调整了考核方式，但 66% 在考核对齐中遭遇制度阻碍 | — | 欧洲高等教育区大范围普查，揭示批判性思维教学与考核对齐的制度惯性 |
 > | [[CRITHINKEDU Project\|CRITHINKEDU]] (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度[[Qualitative Interview\|质性访谈]] | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性[[Critical Thinking Assessment\|批判性思维测评]]工具与教师评价素养的严重匮乏 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对批判性思维（CT）影响的主题频数分布 | 促进维度：[[Metacognition\|元认知]]参与（27 项）、论证建构（22 项）、查错核验（19 项）、自我调节（17 项）、学科推理（15 项）；风险维度：过度依赖与心智惰性（21 项）、浅层参与（18 项）、论证退化（14 项）、元[[Cognitive Offloading\|认知卸载]]（12 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对批判性思维的促进高度依存于反思提示、结构化脚手架与 AI 素养 |
-
-> [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
-> 学生 › 先备知识与背景
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 2 | 70 | 8,233 | 90 | 0.79 | 0.71 | ●●○○○ |
->
-> > [!metax-ma]- 2 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Fong, Kim, et al. (2017) | Critical thinking | 23 | 8,233 | 23 | 0.49 |  |
-> > | Orhan (2022) | Critical thinking | 47 | NA | 67 | 0.93 |  |
 
 ---
 

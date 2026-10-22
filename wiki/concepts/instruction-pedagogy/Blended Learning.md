@@ -58,8 +58,6 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 混合式学习（Blended Learning）是指系统性重构学习体验的教学模式，它将传统的面对面实体课堂教学（Face-to-Face Instruction）与基于技术的数字化、网络化或智能化学习环境有机结合。该模式并非简单的技术叠加或课后录播补充，而是通过精心设计的课程结构，充分发挥物理课堂在具身对话、情感连接与即时协作方面的优势，同时激活数字环境在弹性节奏、自主探究与个性化自适应支持上的长处，从而在时空融合中促进学习者的深层认知建构与[[Higher-Order Thinking Skills\|高阶思维]]发展。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 7, 11–12)]]
 
@@ -204,15 +202,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | 生成式人工智能干预下的学生高阶思维培养（混合式学习亚组） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | [0.406, 0.644] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） |
->
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 教学组织模式（干预环境）** 亚组效应达中等水平且组内检验高度显著（$Z = 8.636, p < 0.001$）；三分类教学模式全模型组间差异虽未达统计显著，但混合式学习效果显著优于传统讲授式教学（$g = 0.396, p > 0.05$ 未达显著），展现出稳健的教学组织优势。
-
 > [!metax] [混合式学习 · Blended learning](https://www.visiblelearningmetax.com/influences/view/blended_learning)
 > 技术、学校与校外策略 › 远程／混合
 >
@@ -235,6 +224,15 @@ updated: 2026-10-22
 > > | Kazu et al. (2022) | Hybrid learning | 44 | NA | 45 | 1.03 |  |
 > > | Najafi & Heidari (2018) | Blended learning | 20 | 2,064 | 20 | 0.59 |  |
 > > | Oktarina et al. (2021) | Blended learning | 22 | NA | 22 | 0.44 |  |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | 生成式人工智能干预下的学生高阶思维培养（混合式学习亚组） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | [0.406, 0.644] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 教学组织模式（干预环境）** 亚组效应达中等水平且组内检验高度显著（$Z = 8.636, p < 0.001$）；三分类教学模式全模型组间差异虽未达统计显著，但混合式学习效果显著优于传统讲授式教学（$g = 0.396, p > 0.05$ 未达显著），展现出稳健的教学组织优势。
 
 ---
 

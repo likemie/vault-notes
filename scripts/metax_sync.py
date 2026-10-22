@@ -637,10 +637,18 @@ def remove_module(body: str) -> str:
 
 
 def insert_module(body: str, module: str) -> str:
-    """Place the callouts at the end of ## 实证数据 (or before ## 领域应用 / ## 相关研究,
-    or at the end of the note), ahead of the --- separator that closes the section."""
+    """Place the callouts directly before the first empirical table callout (MetaX leads the
+    empirical-data group); otherwise at the end of ## 实证数据, before ## 领域应用 / ## 相关研究,
+    or at the end of the note."""
     body = remove_module(body)
     lines = body.splitlines(keepends=True)
+    # 实证数据组内 MetaX 排在最前：有实证表格时插在第一张实证表正前方
+    emp_marker = re.compile(r"concept-(effect|meta-analysis|second-order-meta|subgroup|other-empirical)-table-marker")
+    for i, l in enumerate(lines):
+        if l.startswith("> [!") and emp_marker.search("".join(lines[i:i + 4])):
+            head = "".join(lines[:i]).rstrip("\n")
+            tail = "".join(lines[i:])
+            return head + "\n\n" + module.rstrip("\n") + "\n\n" + tail
     h2 = [i for i, l in enumerate(lines) if l.startswith("## ")]
     target = None
     for n, i in enumerate(h2):

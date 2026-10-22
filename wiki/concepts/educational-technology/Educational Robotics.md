@@ -52,8 +52,6 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 教育机器人（Educational Robotics / AI Educational Robotics）是指应用于教育教学情境中、具备物理实体具身（Physical Embodiment）或高度外显拟人化虚拟[[Avatar\|化身]]（Virtual Avatar）的人工智能交互系统。该系统整合了机器视觉、语音识别、自然语言处理与多模态感知技术，能够以同伴学习者（Peer Learner）、教学助手（[[Teaching Assistant]]）或陪伴导师（Companion Tutor）的社会性角色，与学生展开面对面的口语对话、手势示范与触觉协同操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3, 6)]]
 
@@ -98,24 +96,6 @@ updated: 2026-10-22
 
 ---
 
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Feng and Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | $p < .01$ | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解得分 | $N = 64$（干预 $n = 32$, 控制 $n = 32$） | — | 准实验设计；具身多模态与拟人表情显著降低低龄儿童外语焦虑 |
-> | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.24"><span class="b5"></span></span>0.24 | $p < .05$ | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | 实验设计；游戏化互动激发操作性技能练习动机 |
-> | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.17"><span class="b3"></span></span>0.17 | $p < .05$ | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
-
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 人工智能教育机器人（Robotics） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.474"><span class="b9"></span></span>0.474 | [0.150, 0.799] | $p < .001$ |
->
-> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著
-
 > [!metax] [机器人教育 · Robotics](https://www.visiblelearningmetax.com/influences/view/robotics)
 > 技术、学校与校外策略 › 虚拟／增强现实
 >
@@ -133,6 +113,24 @@ updated: 2026-10-22
 > > | Derakhshan et al. (2024) | Robot-assisted language learning | 7 | 2,637 | 64 | 0.78 |  |
 > > | Wang & Cheung (2024) | Robot social behaviors for language learning | 59 | 2,835 | 18 | 0.27 |  |
 > > | García-Martínez et al. (2023) | Robots on achievement | 25 | 3,529 | 94 | 0.55 |  |
+
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Feng and Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | $p < .01$ | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解得分 | $N = 64$（干预 $n = 32$, 控制 $n = 32$） | — | 准实验设计；具身多模态与拟人表情显著降低低龄儿童外语焦虑 |
+> | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.24"><span class="b5"></span></span>0.24 | $p < .05$ | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | 实验设计；游戏化互动激发操作性技能练习动机 |
+> | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.17"><span class="b3"></span></span>0.17 | $p < .05$ | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 人工智能教育机器人（Robotics） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.474"><span class="b9"></span></span>0.474 | [0.150, 0.799] | $p < .001$ |
+>
+> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著
 
 ---
 

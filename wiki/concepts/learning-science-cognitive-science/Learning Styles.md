@@ -72,8 +72,6 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 学习风格（Learning Styles）是指学习者在感知、加工、理解和记忆信息过程中所表现出的持续、[[Habituation|习惯化]]且特异的个体偏好或认知模式（如视觉型 Visual、听觉型 Auditory、动觉型 Kinesthetic，即 VAK 模型）。该假说主张教学设计应当依据学生的风格类型进行适配（[[Matching]] [[Hypothesis]] 或 Meshing Hypothesis），以此最大化学业收益。然而，大量严格的实证检验与[[Meta-analysis|元分析]]证实该匹配假设缺乏科学依据，被现代教育学、认知心理学与神经科学界判定为流传甚广的“[[Neuromyth|教育神经神话]]（Neuromyth）”。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 111)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 95)]]
 
@@ -212,24 +210,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
-> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
->
-> | 二阶[[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | 标化均值差 $d$；二阶综合平均 | 汇总相关一阶元分析及底层研究（Hattie, 2008） | 干预因素；二阶元分析综合学习风格干预对学生[[Academic Achievement\|学业成就]]的效应 | — | [[John Hattie\|哈蒂]]本人因其商业动机与证据薄弱予以驳斥；[[Ivan Snook\|斯努克]]等指出其揭示了未做质控的二阶综合与 0.40 门槛的内在荒谬性 |
-
----
-
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Besa_2024_UW\|Besa (2024, p. 252)，引述 Krammer et al. (2019)]] | 奥地利职前师范生入学群体 | 横截面[[Questionnaire\|问卷调查]] | [[Learning Styles\|学习风格]]神经神话的认同率 | 高度认同学习风格神话，且该认同独立于个体对大脑神经生理学客观知识的掌握程度 | — | 证实神经神话在[[Normal School\|师范教育]]初期具有高度普遍性与认知顽固性 |
-> | [[Argument_Besa_2024_UW\|Besa (2024, p. 255)，引述 Krüger and Konrad (2022)]] | 德国图书市场（2019–2020 年） | 市场文献计量与[[Content Analysis\|内容分析]] | 教师实践指南出版物规模与作者构成 | 共有 410 部流通在售的教师实践指南，绝大多数由一线教师单方撰写 | 行业普查数据 | 揭示实践读物是神话传播的重要载体且鲜有科研人员深度参与 |
-> | [[Argument_Besa_2024_UW\|Besa (2024, p. 256)，引述 Götzfried et al. (2022)]] | 德国职前师范生 | [[Randomised Controlled Trials\|随机对照实验]]研究 | 播客语言风格与概念转变设计对纠正学习风格神话的效果 | 采用通俗日常语言并整合概念转变引导的播客，对学习风格神话的修正更有帮助；所引综述未给出具体组间统计 | — | 证实科学传播的受众适配语言是破除教师[[Neuromyth\|神经神话]]的关键调节变量 |
-
 > [!metax] [学习风格与学业成就 · Correlating learning styles to achievement](https://www.visiblelearningmetax.com/influences/view/correlating_learning_styles_to_achievement)
 > 学生学习策略 › 学生导向干预
 >
@@ -268,6 +248,24 @@ updated: 2026-10-22
 > > | Kavale & Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
 > > | Phillips et al. (2016) | Reflection thinking styles on performance | 89 | 17,704 | 68 | 0.11 |  |
 > > | Peterson & Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
+
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶[[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | 标化均值差 $d$；二阶综合平均 | 汇总相关一阶元分析及底层研究（Hattie, 2008） | 干预因素；二阶元分析综合学习风格干预对学生[[Academic Achievement\|学业成就]]的效应 | — | [[John Hattie\|哈蒂]]本人因其商业动机与证据薄弱予以驳斥；[[Ivan Snook\|斯努克]]等指出其揭示了未做质控的二阶综合与 0.40 门槛的内在荒谬性 |
+
+---
+
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Besa_2024_UW\|Besa (2024, p. 252)，引述 Krammer et al. (2019)]] | 奥地利职前师范生入学群体 | 横截面[[Questionnaire\|问卷调查]] | [[Learning Styles\|学习风格]]神经神话的认同率 | 高度认同学习风格神话，且该认同独立于个体对大脑神经生理学客观知识的掌握程度 | — | 证实神经神话在[[Normal School\|师范教育]]初期具有高度普遍性与认知顽固性 |
+> | [[Argument_Besa_2024_UW\|Besa (2024, p. 255)，引述 Krüger and Konrad (2022)]] | 德国图书市场（2019–2020 年） | 市场文献计量与[[Content Analysis\|内容分析]] | 教师实践指南出版物规模与作者构成 | 共有 410 部流通在售的教师实践指南，绝大多数由一线教师单方撰写 | 行业普查数据 | 揭示实践读物是神话传播的重要载体且鲜有科研人员深度参与 |
+> | [[Argument_Besa_2024_UW\|Besa (2024, p. 256)，引述 Götzfried et al. (2022)]] | 德国职前师范生 | [[Randomised Controlled Trials\|随机对照实验]]研究 | 播客语言风格与概念转变设计对纠正学习风格神话的效果 | 采用通俗日常语言并整合概念转变引导的播客，对学习风格神话的修正更有帮助；所引综述未给出具体组间统计 | — | 证实科学传播的受众适配语言是破除教师[[Neuromyth\|神经神话]]的关键调节变量 |
 
 ---
 

@@ -39,8 +39,6 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 自我导向学习（Self-Directed Learning，SDL）指学习者主动承担学习责任，设定目标、选择策略、监控进度并评价结果的学习方式。在[[Problem-Based Learning\|问题本位学习]]（PBL）中，学生面对真实问题先识别自身知识缺口，再通过自导学习填补缺口，最后检验假设、评价学习结果并整合理解。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 952–953)]]
 
@@ -68,13 +66,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]] | 关键解释边界 | k / N |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | <span class="mx-bar ef-bar" title="SMD 0.47"><span class="b9"></span></span>0.47 | [0.39, 0.55] | 标准化均差（SMD）；模型未报告 | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 | k = 19 / N 未报告 |
-
 > [!metax] [自主学习 · Self-directed learning](https://www.visiblelearningmetax.com/influences/view/self-directed_learning)
 > 学生学习策略 › 学生导向干预
 >
@@ -87,6 +78,13 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Ku et al. (2012) | Self-directed learning | 61 | NA | 70 | 0.67 |  |
 > > | Doo & Zhu (2022) | Self-directed learning in online environments | 43 | 34,601 | 153 | 0.51 |  |
+
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]] | 关键解释边界 | k / N |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | <span class="mx-bar ef-bar" title="SMD 0.47"><span class="b9"></span></span>0.47 | [0.39, 0.55] | 标准化均差（SMD）；模型未报告 | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 | k = 19 / N 未报告 |
 
 ---
 

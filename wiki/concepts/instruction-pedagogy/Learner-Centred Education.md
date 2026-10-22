@@ -58,8 +58,6 @@ tags:
   - metax
 ---
 
----
-
 > [!def] 核心定义
 > 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、[[Dialogue in Education|对话教学]]和[[Critical Thinking\|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的本土化[[Recontextualization|再情境化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
 
@@ -191,13 +189,6 @@ tags:
 
 ---
 
-> [!ref-table]- 其他实证结果
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
-
 > [!metax] [以学生为中心的教学 · Student-centered teaching](https://www.visiblelearningmetax.com/influences/view/student-centered_teaching)
 > 学生学习策略 › 学生导向干预
 >
@@ -215,6 +206,13 @@ tags:
 > > | Bernard et al. (2019) | Student centered vs. teacher centered approach | 299 | 43,175 | 365 | 0.44 |  |
 > > | Uyar & Doganay (2018) | Student centered teaching | 105 | NA | 120 | 1.14 |  |
 > > | Simsek & Ozaslan (2021) | Student centered teaching | 55 | NA | 55 | 1.00 |  |
+
+> [!ref-table]- 其他实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
 
 ---
 

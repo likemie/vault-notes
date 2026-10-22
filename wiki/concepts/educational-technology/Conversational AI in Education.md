@@ -49,8 +49,6 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > [[Dialogue in Education\|教育对话]]式[[AI Agent in Education\|智能体]]（Conversational AI in Education / Conversational AI Agents）是指依托自然语言理解（Natural Language Understanding, NLU）、语音识别（Speech Recognition）与多轮会话管理技术，在教育情境中与学习者进行文本或语音实时双向交流的人工智能交互中介。该系统能够模拟人类对话者的语言交流习惯，提供拟真语境口语练习、形成性即时反馈、[[Socrates\|苏格拉底]]式追问与自适应语料支架。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 6–7)]]
 
@@ -74,6 +72,21 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [聊天机器人 · Chatbot](https://www.visiblelearningmetax.com/influences/view/chatbot)
+> 技术、学校与校外策略 › 移动／触屏
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 4 | 94 | 2,201 | 182 | 0.63 | 0.62 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Zhang, Shan, et al. (2023) | Chatbots | 18 | NA | 61 | 0.53 |  |
+> > | Lee & Hwang (2023) | Chatbots | 16 | NA | 58 | 0.69 |  |
+> > | Alemdag (2023) | Chatbots | 28 | NA | 31 | 0.48 |  |
+> > | Deng & Yu (2023) | Chatbox on achievement | 32 | 2,201 | 32 | 0.79 |  |
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -91,21 +104,6 @@ updated: 2026-10-22
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 对话式智能体（Conversational AI） | Hedges' $g$ | k = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.468"><span class="b9"></span></span>0.468 | [0.008, 0.645] | $p < .05$ |
 >
 > - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 证据库中[[Sample Size Determination\|样本量]]最大（占总体[[Effect Size\|效应量]] 41%），在语言读写与口语互动中优势突出
-
-> [!metax] [聊天机器人 · Chatbot](https://www.visiblelearningmetax.com/influences/view/chatbot)
-> 技术、学校与校外策略 › 移动／触屏
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 4 | 94 | 2,201 | 182 | 0.63 | 0.62 | ●●●○○ |
->
-> > [!metax-ma]- 4 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Zhang, Shan, et al. (2023) | Chatbots | 18 | NA | 61 | 0.53 |  |
-> > | Lee & Hwang (2023) | Chatbots | 16 | NA | 58 | 0.69 |  |
-> > | Alemdag (2023) | Chatbots | 28 | NA | 31 | 0.48 |  |
-> > | Deng & Yu (2023) | Chatbox on achievement | 32 | 2,201 | 32 | 0.79 |  |
 
 ---
 

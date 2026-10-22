@@ -94,8 +94,6 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验假设并修正心理表征而主动生成的产物，超越教师单向信息灌输的传统模式。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
 
@@ -230,6 +228,25 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [建构主义教学 · Constructivist teaching](https://www.visiblelearningmetax.com/influences/view/constructivist_teaching)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 8 | 531 | 16,980 | 659 | 0.92 | 0.93 | ●●●●○ |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Erisen & Gunay (2015) | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |  |
+> > | Semerci & Batdi (2015) | Constructivist teaching | 28 | NA | 28 | 1.08 |  |
+> > | Li, Din, et al. (2021) | Learner centered education | 42 | NA | 72 | 0.54 |  |
+> > | Selçuk & Yilmaz (2020) | Constructivist teaching | 57 | 6,237 | 114 | 1.04 |  |
+> > | Ulum & Tümkaya (2022) | Student centered teaching | 63 | NA | 66 | 0.79 |  |
+> > | Tutal (2023) | Context based learning | 42 | 3,938 | 54 | 0.97 |  |
+> > | Ting et al. (2022) | Active learning on STEM | 38 | 4,740 | 38 | 0.66 |  |
+> > | Üzüm & Özbek (2023) | Learner centered education | 234 | NA | 260 | 0.95 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Constructivist Paradigm\|建构主义]]教学与不同[[Framework for Teaching|教学框架]]因果效应对比
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -249,25 +266,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.60"><span class="b12"></span></span>0.60 | — | Cohen's $d$ | 汇总逾 800 项元分析中的相关子集 | 证实显性结构化指导、高频反馈与目标引领构成高成效教学的经验支柱 | **教师作为激活者（Activator）**<br>包括互惠教学（0.74）、形成性反馈（0.72）、自我言语指导（0.67）、元认知策略（0.67）、直接教学（0.59）、掌握学习（0.57）、挑战性目标（0.56）等 |
 > | 同上 | <span class="mx-bar ef-bar" title="Cohen's d 0.17"><span class="b3"></span></span>0.17 | — | Cohen's $d$ | 汇总逾 800 项元分析中的相关子集 | 揭示去指导化、放任探究与被动协助型建构实践成效微弱（差距 $\Delta d = +0.43$） | **教师作为促进者（Facilitator）**<br>包括模拟与游戏（0.32）、探究式教学（0.31）、较小班额（0.21）、个别化教学（0.20）、基于问题的学习（0.15）、网页式学习（0.09）、全语言阅读（0.06）、归纳教学（0.06）等 |
-
-> [!metax] [建构主义教学 · Constructivist teaching](https://www.visiblelearningmetax.com/influences/view/constructivist_teaching)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 8 | 531 | 16,980 | 659 | 0.92 | 0.93 | ●●●●○ |
->
-> > [!metax-ma]- 8 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Erisen & Gunay (2015) | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |  |
-> > | Semerci & Batdi (2015) | Constructivist teaching | 28 | NA | 28 | 1.08 |  |
-> > | Li, Din, et al. (2021) | Learner centered education | 42 | NA | 72 | 0.54 |  |
-> > | Selçuk & Yilmaz (2020) | Constructivist teaching | 57 | 6,237 | 114 | 1.04 |  |
-> > | Ulum & Tümkaya (2022) | Student centered teaching | 63 | NA | 66 | 0.79 |  |
-> > | Tutal (2023) | Context based learning | 42 | 3,938 | 54 | 0.97 |  |
-> > | Ting et al. (2022) | Active learning on STEM | 38 | 4,740 | 38 | 0.66 |  |
-> > | Üzüm & Özbek (2023) | Learner centered education | 234 | NA | 260 | 0.95 |  |
 
 ---
 

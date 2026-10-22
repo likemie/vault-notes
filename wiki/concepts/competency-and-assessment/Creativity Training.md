@@ -89,8 +89,6 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > [[Creativity\|创造力]]训练（Creativity Training）指通过显性讲授认知启发式策略、提供结构化[[Problem Solving\|问题解决]]模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属特权或神秘不可测灵感的宿命论偏见。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 1–3)]]
 
@@ -363,6 +361,37 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [创造力项目 · Creativity programs](https://www.visiblelearningmetax.com/influences/view/creativity_programs)
+> 课程 › 其他课程项目
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 20 | 1,292 | 81,351 | 2,684 | 0.51 | 0.61 | ●●●●● |
+>
+> > [!metax-ma]- 20 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Rose & Lin (1984) | Long term creativity programs | 46 | NA | 46 | 0.47 |  |
+> > | Cohn (1984) | Creativity training effectiveness | 106 | NA | 177 | 0.55 |  |
+> > | Bangert-Drowns & Bankert (1990) | Explicit instruction of creativity | 20 | NA | 20 | 0.37 |  |
+> > | Hollingsworth (1991) | Creativity programs | 39 | NA | 39 | 0.82 |  |
+> > | Conard (1992) | Creative dramatics | 20 | NA | 28 | 0.48 |  |
+> > | Scope (1998) | Instructional influences on creativity | 30 | NA | 40 | 0.90 |  |
+> > | Scott et al. (2004) | Creativity programs | 70 | 4,210 | 70 | 0.68 |  |
+> > | Bertrand (2005) | Creativity programs | 45 | NA | 45 | 0.64 |  |
+> > | Higgins et al. (2005) | Thinking programs on achievement | 29 | NA | 29 | 0.74 |  |
+> > | Huang (2005) | Creativity programs | 51 | NA | 62 | 0.89 |  |
+> > | Berkowitz (2006) | Various creative communication strategies | 23 | 5,000 | 39 | 0.46 |  |
+> > | Niu et al. (2013) | Programs on creative thinking | 31 | NA | 40 | 0.20 |  |
+> > | Liu & Chang (2017) | 4P creativity program | 11 | 745 | 11 | 0.95 |  |
+> > | Yu (2012) | Practical reasoning on home economics outcomes | 25 | NA | 35 | 0.60 |  |
+> > | Huber & Kuncel (2016) | Programs on creative thinking | 71 | 25,577 | 71 | 0.59 |  |
+> > | Abrami et al. (2008) | Interventions on critical thinking skills and dispositions | 117 | 20,698 | 161 | 0.34 |  |
+> > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | Teaching students to think critically | 341 | NA | 867 | 0.33 |  |
+> > | Allen et al. (2011) | Public speaking on critical thinking skills | 23 | 4,545 | 35 | 0.43 |  |
+> > | Sahin & Polatcan (2019) | Creativity writing exercises | 25 | 2,090 | 25 | 1.20 |  |
+> > | Sio & Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -431,37 +460,6 @@ updated: 2026-10-22
 > - **Scott et al. (2004) · 干预内容** 结构化教学显著优于放任型活动
 > - **Sio and Ormerod (2009) · 酝酿期任务负荷** 极端高负荷会阻碍无意识加工
 > - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 关联因素类型比较** 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明确可塑性
-
-> [!metax] [创造力项目 · Creativity programs](https://www.visiblelearningmetax.com/influences/view/creativity_programs)
-> 课程 › 其他课程项目
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 20 | 1,292 | 81,351 | 2,684 | 0.51 | 0.61 | ●●●●● |
->
-> > [!metax-ma]- 20 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Rose & Lin (1984) | Long term creativity programs | 46 | NA | 46 | 0.47 |  |
-> > | Cohn (1984) | Creativity training effectiveness | 106 | NA | 177 | 0.55 |  |
-> > | Bangert-Drowns & Bankert (1990) | Explicit instruction of creativity | 20 | NA | 20 | 0.37 |  |
-> > | Hollingsworth (1991) | Creativity programs | 39 | NA | 39 | 0.82 |  |
-> > | Conard (1992) | Creative dramatics | 20 | NA | 28 | 0.48 |  |
-> > | Scope (1998) | Instructional influences on creativity | 30 | NA | 40 | 0.90 |  |
-> > | Scott et al. (2004) | Creativity programs | 70 | 4,210 | 70 | 0.68 |  |
-> > | Bertrand (2005) | Creativity programs | 45 | NA | 45 | 0.64 |  |
-> > | Higgins et al. (2005) | Thinking programs on achievement | 29 | NA | 29 | 0.74 |  |
-> > | Huang (2005) | Creativity programs | 51 | NA | 62 | 0.89 |  |
-> > | Berkowitz (2006) | Various creative communication strategies | 23 | 5,000 | 39 | 0.46 |  |
-> > | Niu et al. (2013) | Programs on creative thinking | 31 | NA | 40 | 0.20 |  |
-> > | Liu & Chang (2017) | 4P creativity program | 11 | 745 | 11 | 0.95 |  |
-> > | Yu (2012) | Practical reasoning on home economics outcomes | 25 | NA | 35 | 0.60 |  |
-> > | Huber & Kuncel (2016) | Programs on creative thinking | 71 | 25,577 | 71 | 0.59 |  |
-> > | Abrami et al. (2008) | Interventions on critical thinking skills and dispositions | 117 | 20,698 | 161 | 0.34 |  |
-> > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | Teaching students to think critically | 341 | NA | 867 | 0.33 |  |
-> > | Allen et al. (2011) | Public speaking on critical thinking skills | 23 | 4,545 | 35 | 0.43 |  |
-> > | Sahin & Polatcan (2019) | Creativity writing exercises | 25 | 2,090 | 25 | 1.20 |  |
-> > | Sio & Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
 
 ---
 

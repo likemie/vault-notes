@@ -91,8 +91,6 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 智能导师系统（Intelligent Tutoring Systems, ITS）是指利用人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）技术模拟人类优秀教师一对一辅导行为的计算机教学系统。该系统通过对学习者的实时解题步骤与认知状态展开细致追踪，在无需人类教师即时干预的情况下，自适应地推演学习者的认知阻碍、动态调整教学策略并提供即时、逐级的矫正反馈与线索[[Scaffolding\|脚手架]]。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 6–7)]]
 
@@ -282,6 +280,22 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [智能导学系统 · Intelligent tutoring systems](https://www.visiblelearningmetax.com/influences/view/intelligent_tutoring_systems)
+> 技术、学校与校外策略 › 辅导／多媒体
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 5 | 283 | 25,085 | 288 | 0.52 | 0.53 | ●●●●○ |
+>
+> > [!metax-ma]- 5 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | VanLehn (2011) | Intelligent tutoring systems | 44 | NA | 44 | 0.76 |  |
+> > | Gerard et al. (2015) | Automated, adaptive guidance | 24 | NA | 29 | 0.34 |  |
+> > | Kulik & Fletcher (2016) | Intelligent tutoring systems | 50 | NA | 50 | 0.66 |  |
+> > | Ma et al. (2014) | Intelligent tutoring systems | 107 | 14,321 | 107 | 0.41 |  |
+> > | Wang et al. (2019) | Intelligent tutoring systems | 58 | 10,764 | 58 | 0.49 |  |
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -304,22 +318,6 @@ updated: 2026-10-22
 > - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高
 > - **Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] · 结果变量** 中学数学与自然科学实验及准实验证据；ITS 显著优于超媒体（$g = 0.44$）与操练程序
 > - **Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] · 干预因素（自动化自适应指导）** 针对学生开放式科学论证与因果解释文本的自动化批改与自适应提示
-
-> [!metax] [智能导学系统 · Intelligent tutoring systems](https://www.visiblelearningmetax.com/influences/view/intelligent_tutoring_systems)
-> 技术、学校与校外策略 › 辅导／多媒体
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 5 | 283 | 25,085 | 288 | 0.52 | 0.53 | ●●●●○ |
->
-> > [!metax-ma]- 5 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | VanLehn (2011) | Intelligent tutoring systems | 44 | NA | 44 | 0.76 |  |
-> > | Gerard et al. (2015) | Automated, adaptive guidance | 24 | NA | 29 | 0.34 |  |
-> > | Kulik & Fletcher (2016) | Intelligent tutoring systems | 50 | NA | 50 | 0.66 |  |
-> > | Ma et al. (2014) | Intelligent tutoring systems | 107 | 14,321 | 107 | 0.41 |  |
-> > | Wang et al. (2019) | Intelligent tutoring systems | 58 | 10,764 | 58 | 0.49 |  |
 
 ---
 

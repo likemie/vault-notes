@@ -65,8 +65,6 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 工作记忆（Working Memory）是个体在执行理解、推理、[[Problem Solving\|问题解决]]等复杂认知任务过程中，用于对任务相关信息进行短暂动态保持、符号操纵与实时监控的容量受限的认知系统。在认知心理学与神经科学中，工作记忆既是[[Executive Function\|执行功能]]（Executive Function, EF）的核心成分（表现为信息的[[Updating and Monitoring\|更新与监控]]），也是人类认知架构中处理新异信息时最狭窄的瓶颈：未经复述的信息仅能保持数秒至二十秒，且同时容纳的独立信息单元极其有限。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
 
@@ -212,16 +210,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] | 幼儿与学龄前儿童（15 个月至 8 岁跨阶段群体） | 纵向追踪与发展任务实验（面孔任务、自排序更新、数字广度） | 工作记忆发展突增期；倒序记忆项目数；成年人容量上限 | 15–30 个月初始发展突增；3–5 岁大幅增长，7 岁平缓；4 岁至 6 岁倒序记忆从 1.58 项增至 2.88 项；成年人上限为 3–4 项 | — | 描绘儿童工作记忆从婴儿期至学龄期的非线性成长曲线，确立[[Executive Function\|执行功能]]更新成分的早期发展敏感期 |
-> | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] (引自 Hattie & Yates, 2014) | 学校课堂[[Business as Usual\|常态教学]]观察与神经认知测量 | 认知注意力持续性与神经代谢生理分析 | 前额叶持续高强度专注时长；默认网络切换周期 | 前额叶完全全神贯注时间约为 10 分钟；随后大脑糖原代谢下降并转入默认网络 | — | 实证确立课堂教学不能连续讲授或连续高强度练习，须以 10 分钟为节点变换教学互动形态 |
-> | Kwon and Lawson (2000) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]) | 高中理科在校学生 | 控制实验与[[Multiple Regression\|多元回归]]分析 | [[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）对方差解释率 | 解释了科学探究技能测验 29% 的方差；解释了概念理解增益 28% 的方差 | $p < .01$ | 实证确立抑制直觉干扰、保护工作记忆带宽是科学探究与概念转变取得成功的决定性认知机制 |
-> | Homer and Plass (2014) (同上引，p. 8) | 大学生与中学生化学模拟实验探究 | 虚拟微世界交互实验 | 抑制控制能力与概念远迁移成绩 | 抑制控制高分组在概念远迁移测试中成绩显著超越低分组 | 统计显著 | 证实抑制控制对维护工作记忆资源、促进复杂因果规则图式建构的迁移保障功能 |
-
 > [!metax] [工作记忆能力 · Working memory strength](https://www.visiblelearningmetax.com/influences/view/working_memory_strength)
 > 学生 › 先备知识与背景
 >
@@ -260,6 +248,16 @@ updated: 2026-10-22
 > > | Sala & Gobet (2019) | Working memory training | 41 | 2,375 | 393 | 0.13 |  |
 > > | Sala et al. (2019) | Working memory on reading & math (Cogmed) | 50 | 3,059 | 637 | 0.05 |  |
 > > | Bharadwaj et al. (2021) | Cogmed on achievement & executive functioning | 11 | NA | 11 | -0.10 |  |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] | 幼儿与学龄前儿童（15 个月至 8 岁跨阶段群体） | 纵向追踪与发展任务实验（面孔任务、自排序更新、数字广度） | 工作记忆发展突增期；倒序记忆项目数；成年人容量上限 | 15–30 个月初始发展突增；3–5 岁大幅增长，7 岁平缓；4 岁至 6 岁倒序记忆从 1.58 项增至 2.88 项；成年人上限为 3–4 项 | — | 描绘儿童工作记忆从婴儿期至学龄期的非线性成长曲线，确立[[Executive Function\|执行功能]]更新成分的早期发展敏感期 |
+> | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] (引自 Hattie & Yates, 2014) | 学校课堂[[Business as Usual\|常态教学]]观察与神经认知测量 | 认知注意力持续性与神经代谢生理分析 | 前额叶持续高强度专注时长；默认网络切换周期 | 前额叶完全全神贯注时间约为 10 分钟；随后大脑糖原代谢下降并转入默认网络 | — | 实证确立课堂教学不能连续讲授或连续高强度练习，须以 10 分钟为节点变换教学互动形态 |
+> | Kwon and Lawson (2000) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]) | 高中理科在校学生 | 控制实验与[[Multiple Regression\|多元回归]]分析 | [[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）对方差解释率 | 解释了科学探究技能测验 29% 的方差；解释了概念理解增益 28% 的方差 | $p < .01$ | 实证确立抑制直觉干扰、保护工作记忆带宽是科学探究与概念转变取得成功的决定性认知机制 |
+> | Homer and Plass (2014) (同上引，p. 8) | 大学生与中学生化学模拟实验探究 | 虚拟微世界交互实验 | 抑制控制能力与概念远迁移成绩 | 抑制控制高分组在概念远迁移测试中成绩显著超越低分组 | 统计显著 | 证实抑制控制对维护工作记忆资源、促进复杂因果规则图式建构的迁移保障功能 |
 
 ---
 

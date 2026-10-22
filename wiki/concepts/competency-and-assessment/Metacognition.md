@@ -121,8 +121,6 @@ created: 2026-07-01
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 元认知（Metacognition）指个体对自己认知过程的认知、意识与主动调节能力，最早由约翰·弗拉维尔（John Flavell, 1976, 1979）界定为“关于认知的认知（cognition about cognition）”。它主要包含元认知知识（对自身认知特征、任务属性与策略有效性的理解）和元认知调节（在前瞻规划、即时监控与事后评估中对思维过程的控制）。在学习科学与[[Higher-Order Thinking Skills\|高阶思维]]研究中，元认知构成了联结[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的枢纽机制；既在算法流畅性面前维持[[Epistemological Vigilance\|认识论警觉]]、防止盲目[[Cognitive Offloading\|认知外包]]，又在[[Creative Problem Solving\|创造性问题解决]]中主导认知定势的突破与启发式策略的深层内化。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 249)]]; [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10–13)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]
 
@@ -309,6 +307,39 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [元认知策略 · Meta-cognition strategies](https://www.visiblelearningmetax.com/influences/view/meta-cognition_strategies)
+> 学生学习策略 › 元认知／自我调节学习
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 22 | 839 | 124,768 | 1,952 | 0.59 | 0.68 | ●●●●● |
+>
+> > [!metax-ma]- 22 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Haller et al. (1988) | Meta-cognitive training programs in reading | 20 | 1,553 | 20 | 0.71 |  |
+> > | Chiu (1998) | Meta-cognitive interventions in reading | 43 | 3,475 | 123 | 0.67 |  |
+> > | Fan (1993) | Metacognitive training on reading comprehension | 41 | 3,219 | 223 | 0.56 |  |
+> > | Jacob & Parkinson (2015) | Executive functioning | 67 | 15,879 | 67 | 0.63 |  |
+> > | Baek (2018) | Metacognitive strategies | 19 | NA | 19 | 0.79 |  |
+> > | Fauzan (2003) | Metacognitive strategies on comprehension | 27 | NA | 82 | 0.50 |  |
+> > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | Epistemic knowing | 132 | 55,418 | 752 | 0.33 |  |
+> > | Yeniad et al. (2013) | Shifting in Math achievement | 20 | 4,596 | 34 | 0.47 |  |
+> > | Allan et al. (2014) | Inhibitory control in early years | 75 | 14,424 | 85 | 0.56 |  |
+> > | Liu et al. (2021) | Meta-cognitive strategies | 54 | NA | 106 | 0.02 |  |
+> > | Muncer et al. (2021) | Metacognition and math | 31 | NA | 31 | 0.80 |  |
+> > | Antonio & Prudente (2022) | Metacognition in science | 10 | NA | 10 | 0.81 |  |
+> > | Lei et al. (2020) | Computational thinking | 34 | 8,946 | 34 | 0.60 |  |
+> > | Scionti et al. (2020) | Cognitive training in executive functioning | 27 | NA | 123 | 0.34 |  |
+> > | Wongdaeng & Higgins (2023) | Metacognitive training in EFF | 29 | NA | 29 | 1.33 |  |
+> > | Shirvan et al. (2016) | Strategy instruction | 26 | NA | 26 | 0.99 |  |
+> > | Sercenia & Prudente (2023) | Metacognitive interventions | 23 | NA | 23 | 1.36 |  |
+> > | Yan, Peng, et al. (2024) | Reducing extraneous processing in CAI | 49 | 4,700 | 53 | 0.65 |  |
+> > | Eberhart et al. (2024) | Metacognitive interventions | 44 | NA | 44 | 0.34 |  |
+> > | Liu (2010) | Metacognitive programs on writing | 11 | 768 | 11 | 0.77 |  |
+> > | Cheng et al. (2023) | Computational thinking | 21 | 1,327 | 21 | 0.85 |  |
+> > | Akpur (2024) | Metacognitive awareness | 36 | 10,463 | 36 | 0.82 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -354,39 +385,6 @@ updated: 2026-10-22
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 3,000+ 名全球 IB 毕业生与非 IB 对照学生 | 准实验与倾向得分匹配对比：ToK 认识论课程学习为[[Independent Variable\|自变量]]，**【结果变量】** 大学阶段元认知监控意识与批判反思倾向 | 修读 ToK 课程的学生在大学期间展现出显著更强的批判反思与元认知监控意识，有效防范教条主义盲从（$p < .01$） | 证实长期显性认识论追问对个体高阶元认知监控习惯的深远塑造作用 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（PRISMA 2020 框架） | [[Systematic Review\|系统综述]]与主题综合：显性反思支架为干预，**【结果变量】** 人机交互中的元认知监控与[[Cognitive Offloading\|认知外包]]状态 | 27 项研究证实反思支架能激活元认知监控；12 项研究报告缺乏支架时出现元认知监控外包；被动工具使用与批判反思负相关（$\beta = -0.34, p < .001$） | 确立显性元认知监控在[[Generative Artificial Intelligence\|生成式 AI]] 时代作为抵御表面流畅性与心智侵蚀的核心防御机制 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–365)]] | N=124 名研究生统计推论任务 | 质性交互语料与认知追踪：高阶元认知监控 vs 算法盲从 | Student C 凭借元认知监控实施 7 轮持续质询，成功识别 ChatGPT 建议中的 3 处关键统计假设违背，完成从[[Chi-Squared Test\|卡方检验]]到非参数相关的正确决策演进 | 实证证实人机[[Dialogue in Education\|对话]]中的多轮元认知质询是打破绝对论依从、实现评价论建构的关键操作机制 |
-
-> [!metax] [元认知策略 · Meta-cognition strategies](https://www.visiblelearningmetax.com/influences/view/meta-cognition_strategies)
-> 学生学习策略 › 元认知／自我调节学习
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 22 | 839 | 124,768 | 1,952 | 0.59 | 0.68 | ●●●●● |
->
-> > [!metax-ma]- 22 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Haller et al. (1988) | Meta-cognitive training programs in reading | 20 | 1,553 | 20 | 0.71 |  |
-> > | Chiu (1998) | Meta-cognitive interventions in reading | 43 | 3,475 | 123 | 0.67 |  |
-> > | Fan (1993) | Metacognitive training on reading comprehension | 41 | 3,219 | 223 | 0.56 |  |
-> > | Jacob & Parkinson (2015) | Executive functioning | 67 | 15,879 | 67 | 0.63 |  |
-> > | Baek (2018) | Metacognitive strategies | 19 | NA | 19 | 0.79 |  |
-> > | Fauzan (2003) | Metacognitive strategies on comprehension | 27 | NA | 82 | 0.50 |  |
-> > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | Epistemic knowing | 132 | 55,418 | 752 | 0.33 |  |
-> > | Yeniad et al. (2013) | Shifting in Math achievement | 20 | 4,596 | 34 | 0.47 |  |
-> > | Allan et al. (2014) | Inhibitory control in early years | 75 | 14,424 | 85 | 0.56 |  |
-> > | Liu et al. (2021) | Meta-cognitive strategies | 54 | NA | 106 | 0.02 |  |
-> > | Muncer et al. (2021) | Metacognition and math | 31 | NA | 31 | 0.80 |  |
-> > | Antonio & Prudente (2022) | Metacognition in science | 10 | NA | 10 | 0.81 |  |
-> > | Lei et al. (2020) | Computational thinking | 34 | 8,946 | 34 | 0.60 |  |
-> > | Scionti et al. (2020) | Cognitive training in executive functioning | 27 | NA | 123 | 0.34 |  |
-> > | Wongdaeng & Higgins (2023) | Metacognitive training in EFF | 29 | NA | 29 | 1.33 |  |
-> > | Shirvan et al. (2016) | Strategy instruction | 26 | NA | 26 | 0.99 |  |
-> > | Sercenia & Prudente (2023) | Metacognitive interventions | 23 | NA | 23 | 1.36 |  |
-> > | Yan, Peng, et al. (2024) | Reducing extraneous processing in CAI | 49 | 4,700 | 53 | 0.65 |  |
-> > | Eberhart et al. (2024) | Metacognitive interventions | 44 | NA | 44 | 0.34 |  |
-> > | Liu (2010) | Metacognitive programs on writing | 11 | 768 | 11 | 0.77 |  |
-> > | Cheng et al. (2023) | Computational thinking | 21 | 1,327 | 21 | 0.85 |  |
-> > | Akpur (2024) | Metacognitive awareness | 36 | 10,463 | 36 | 0.82 |  |
 
 ---
 

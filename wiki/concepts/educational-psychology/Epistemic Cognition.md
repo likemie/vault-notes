@@ -251,6 +251,19 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [认识论认知训练 · Epistemic cognitive training](https://www.visiblelearningmetax.com/influences/view/epistemic_cognitive_training)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 2 | 131 | 0 | 1,244 | 0.28 | 0.37 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | Epistemic cognitive training | 28 | NA | 59 | 0.51 |  |
+> > | McMullin & Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
+
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -310,19 +323,6 @@ updated: 2026-10-22
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | — | 漏斗图，Trim-and-fill，[[Fail-Safe N]] | 0.162 | 稳定 | Fail-safe N=9265，未发现发表偏倚 |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 离群值缩尾至 2 SD | 漏斗图、剪补法（Trim-and-fill）、[[Fail-Safe N]] | 0.342 [0.155, 0.528] | 稳定 | [[Trim and Fill Method\|剪补法]]填补 6 项缺失研究后[[Effect Size\|效应量]]仍达中等偏小（d=0.342）；Classic Fail-safe N=2,752，Orwin's Fail-safe N=115 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 逐一排除敏感性分析（r 稳定在 0.177–0.203）；无绝对残差 \|z\| > 3.29 的离群值 | 三层 [[Egger Regression Test\|Egger 回归检验]]（斜率 = -1.007, p = 0.429；截距 = 0.257, p = 0.004）与漏斗图 | 0.191 | 稳定 | [[Funnel Plot\|漏斗图]]对称，未发现发表偏倚或小样本效应 |
-
-> [!metax] [认识论认知训练 · Epistemic cognitive training](https://www.visiblelearningmetax.com/influences/view/epistemic_cognitive_training)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★☆☆ 正向影响 | 2 | 131 | 0 | 1,244 | 0.28 | 0.37 | ●●○○○ |
->
-> > [!metax-ma]- 2 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | Epistemic cognitive training | 28 | NA | 59 | 0.51 |  |
-> > | McMullin & Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
 
 ---
 

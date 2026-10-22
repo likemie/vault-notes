@@ -147,6 +147,19 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [教师即时亲和力 · Immediacy](https://www.visiblelearningmetax.com/influences/view/immediacy)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 89 | 27,192 | 89 | 1.06 | 0.65 | ●●●○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Witt et al. (2004) | Immediacy of teacher feedback | 81 | 24,474 | 81 | 1.15 |  |
+> > | Allen et al. (2006) | Immediacy on cognitive outcomes | 8 | 2,718 | 8 | 0.16 |  |
+
 > [!ma-table]- 一阶元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -163,19 +176,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Chesebro and McCroskey (2001) | 大学本科教学大班情境 | 横截面[[Questionnaire\|问卷调查]]与结构方程模型 | 教师即时性、听众焦虑与学生理解感知 | 即时性显著负向预测学生听众焦虑并正向预测课堂参与意愿 | $p < .001$ | 证实亲和力主要通过心理减压与情感支持机制发挥作用，属于人际关系调节变量 |
-
-> [!metax] [教师即时亲和力 · Immediacy](https://www.visiblelearningmetax.com/influences/view/immediacy)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 2 | 89 | 27,192 | 89 | 1.06 | 0.65 | ●●●○○ |
->
-> > [!metax-ma]- 2 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Witt et al. (2004) | Immediacy of teacher feedback | 81 | 24,474 | 81 | 1.15 |  |
-> > | Allen et al. (2006) | Immediacy on cognitive outcomes | 8 | 2,718 | 8 | 0.16 |  |
 
 ---
 

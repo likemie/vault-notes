@@ -97,8 +97,6 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过假设提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 
@@ -235,6 +233,29 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [探究式教学 · Inquiry-based teaching](https://www.visiblelearningmetax.com/influences/view/inquiry-based_teaching)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 12 | 431 | 19,195 | 652 | 0.51 | 0.58 | ●●●●○ |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Sweitzer & Anderson (1983) | Inquiry teaching in science | 68 | NA | 19 | 0.44 |  |
+> > | Shymansky et al. (1990) | Inquiry methods in science | 81 | NA | 320 | 0.27 |  |
+> > | Bangert-Drowns (1992) | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |  |
+> > | Smith (1997) | Inquiry method in science | 35 | 7,437 | 60 | 0.17 |  |
+> > | Lazonder & Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
+> > | Estrella et al. (2018) | Inquiry on ELL science | 23 | 8,291 | 23 | 0.28 |  |
+> > | Aktamis et al. (2016) | Inquiry learning in science | 16 | NA | 16 | 1.03 |  |
+> > | Furtak et al. (1998) | Inquiry method in science | 37 | NA | 37 | 0.50 |  |
+> > | Abdurrahman (2017) | Inquiry methods in science | 15 | 2,118 | 15 | 0.46 |  |
+> > | Kaçar et al. (2021) | Inquiry methods | 30 | NA | 30 | 1.15 |  |
+> > | Heindl (2019) | Inquiry methods in science | 13 | NA | 13 | 0.74 |  |
+> > | Antonio & Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -278,29 +299,6 @@ updated: 2026-10-22
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 变量控制策略掌握率与跨情境迁移成绩 | 即时后测与延迟迁移测试两组得分高度均等 | 组间差异无统计学显著性（等效） | 受控课堂实验；表明探究教学与直接教学在程序与概念掌握上均具同等有效性 |
 > | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 小学高年级学生 | 物理概念学习：学生自主设计与探究 vs. 教师直接讲授方案 | 深度概念理解与跨情境远迁移测验 | 自主设计探究组在解释性因果机制与迁移任务得分显著占优 | 显著高于直接讲授组 | 实验室受控实验；证实自主权衡[[Variable\|变量]]关系有助于深层认知表征的重构 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5, 9)]]<br>（引述 d'Angelo et al., 2014） | 59 篇论文（128 个效应量） | 元分析：标准化均数差（SMD），随机效应模型 | 干预措施：评估[[Computer Simulation\|计算机模拟]]探究教学对比非模拟传统教学的学效 | 内容知识（$k=96$）、探究推理技能（$k=17$）及非认知结果（$k=15$）均呈显著正效应 | 实验与准实验设计效应无显著差异 | 证实带支持的仿真探究显著优于非仿真教学，且有支架组优于无支架组 |
-
-> [!metax] [探究式教学 · Inquiry-based teaching](https://www.visiblelearningmetax.com/influences/view/inquiry-based_teaching)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 12 | 431 | 19,195 | 652 | 0.51 | 0.58 | ●●●●○ |
->
-> > [!metax-ma]- 12 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Sweitzer & Anderson (1983) | Inquiry teaching in science | 68 | NA | 19 | 0.44 |  |
-> > | Shymansky et al. (1990) | Inquiry methods in science | 81 | NA | 320 | 0.27 |  |
-> > | Bangert-Drowns (1992) | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |  |
-> > | Smith (1997) | Inquiry method in science | 35 | 7,437 | 60 | 0.17 |  |
-> > | Lazonder & Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
-> > | Estrella et al. (2018) | Inquiry on ELL science | 23 | 8,291 | 23 | 0.28 |  |
-> > | Aktamis et al. (2016) | Inquiry learning in science | 16 | NA | 16 | 1.03 |  |
-> > | Furtak et al. (1998) | Inquiry method in science | 37 | NA | 37 | 0.50 |  |
-> > | Abdurrahman (2017) | Inquiry methods in science | 15 | 2,118 | 15 | 0.46 |  |
-> > | Kaçar et al. (2021) | Inquiry methods | 30 | NA | 30 | 1.15 |  |
-> > | Heindl (2019) | Inquiry methods in science | 13 | NA | 13 | 0.74 |  |
-> > | Antonio & Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
 
 ---
 

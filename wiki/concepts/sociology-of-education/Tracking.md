@@ -79,8 +79,6 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 分轨制（Tracking）指根据学生的学业能力评估、标准化测验成绩或既定职业取向，将其系统性分配至不同课程难度轨道（Tracks）、教学班组或不同类型中等学校的制度化组织实践。在宏观制度层面，跨国比较实证研究表明，学校体系的分层与早期分轨不仅未能促进卓越，反而加剧了社会经济阶层隔离，对教育公平（Equity）与学生的学习动机产生显著负面抑制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；OECD, 2013b）；在微观文化心理层面，分轨制深植于西方文化的“固定自我观”与天赋论假设，通过“适应学生已有特征”而非“通过教学发展学生”的组织逻辑，促使低轨学生在长期的认知降级中陷入自我实现的失败预言（[[Argument_Li_2012_Cambridge\|Li, 2012]]）。
 
@@ -218,15 +216,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 经典与因果评估实证结果
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]（引述 OECD, 2013b） | [[PISA]] 2012 跨国青少年样本（涵盖数十个[[OECD\|经合组织]]国家） | 跨国大规模学业评估二次分析与跨层回归 | 学校层化与分轨（Stratification & Tracking）、教育公平、学习动机、家庭 [[Socioeconomic Status\|SES]] 隔离 | 学校系统层化与早期分轨与教育公平呈显著负相关；高分层系统学生动机显著更低；成绩分流在统计上高度重合于家庭 SES 隔离与形式数学暴露频率剥夺 | 跨国大样本多层回归高度显著 | 确立国家级中等教育分轨体制对教育公平与动机的宏观破坏效应 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 55–56)]]（引述 Roy et al., 2014） | 英格兰中小学（[[Education Endowment Foundation\|EEF]] 委托大规模能力分组试验） | 多中心学校级[[Randomised Controlled Trials\|随机对照试验（RCT）]] | 混合能力分组 vs 基于能力的分轨分流（Mixed ability vs Setting/Streaming） | 试验因学校坚决拒绝由外部随机决定本校能力分组政策而彻底流产（招募失败）；直接促成 2019 年 EEF 设立“研究[[School Choice\|学校选择]]”准实验资助序列 | 试验因样本招募归零终止 | 揭示学校核心组织决策对完全[[Random Assignment\|随机分配]]的天然生态排斥，确立 [[Quasi-Experimental Designs\|QED]] 的方法学必要性 |
-> | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（Setting and Streaming 专题，2021） | 英格兰及国际中等学校能力分组[[Meta-analysis\|元分析]]与长期试验数据池 | 循证清算综合元分析与试验长期追踪 | 单科分组与全科分流（Setting and Streaming）对学业产出与阶层差距的影响 | 总体学业增益几乎为零（0 个月）；对处于低轨的弱势学生产生净损害（$-1$ 个月学业倒退），低轨学生普遍遭遇教学降阶与师资边缘化；高阶学生微弱获益以加剧群体间差距为代价 | 累积证据安全性评定为低至中等 | 证实能力分流不仅无助于整体学业提升，反而是制度化扩大贫富差距与阶层隔离的组织杠杆 |
-
 > [!metax] [资优生能力分组 · Ability grouping for gifted students](https://www.visiblelearningmetax.com/influences/view/ability_grouping_for_gifted_students)
 > 课堂 › 班级构成
 >
@@ -281,6 +270,15 @@ updated: 2026-10-22
 > > | Steenberggen-Hu et al. (2016) | Ability grouping in RCT studies | 11 | NA | 11 | 0.03 |  |
 > > | Baker (2022) | Ability grouping with Black & Brown students | 11 | NA | 11 | -0.03 |  |
 > > | Terrin & Triventi (2023) | Ability grouping on achievement | 53 | NA | 213 | -0.02 |  |
+
+> [!ref-table]- 经典与因果评估实证结果
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]（引述 OECD, 2013b） | [[PISA]] 2012 跨国青少年样本（涵盖数十个[[OECD\|经合组织]]国家） | 跨国大规模学业评估二次分析与跨层回归 | 学校层化与分轨（Stratification & Tracking）、教育公平、学习动机、家庭 [[Socioeconomic Status\|SES]] 隔离 | 学校系统层化与早期分轨与教育公平呈显著负相关；高分层系统学生动机显著更低；成绩分流在统计上高度重合于家庭 SES 隔离与形式数学暴露频率剥夺 | 跨国大样本多层回归高度显著 | 确立国家级中等教育分轨体制对教育公平与动机的宏观破坏效应 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 55–56)]]（引述 Roy et al., 2014） | 英格兰中小学（[[Education Endowment Foundation\|EEF]] 委托大规模能力分组试验） | 多中心学校级[[Randomised Controlled Trials\|随机对照试验（RCT）]] | 混合能力分组 vs 基于能力的分轨分流（Mixed ability vs Setting/Streaming） | 试验因学校坚决拒绝由外部随机决定本校能力分组政策而彻底流产（招募失败）；直接促成 2019 年 EEF 设立“研究[[School Choice\|学校选择]]”准实验资助序列 | 试验因样本招募归零终止 | 揭示学校核心组织决策对完全[[Random Assignment\|随机分配]]的天然生态排斥，确立 [[Quasi-Experimental Designs\|QED]] 的方法学必要性 |
+> | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（Setting and Streaming 专题，2021） | 英格兰及国际中等学校能力分组[[Meta-analysis\|元分析]]与长期试验数据池 | 循证清算综合元分析与试验长期追踪 | 单科分组与全科分流（Setting and Streaming）对学业产出与阶层差距的影响 | 总体学业增益几乎为零（0 个月）；对处于低轨的弱势学生产生净损害（$-1$ 个月学业倒退），低轨学生普遍遭遇教学降阶与师资边缘化；高阶学生微弱获益以加剧群体间差距为代价 | 累积证据安全性评定为低至中等 | 证实能力分流不仅无助于整体学业提升，反而是制度化扩大贫富差距与阶层隔离的组织杠杆 |
 
 ---
 

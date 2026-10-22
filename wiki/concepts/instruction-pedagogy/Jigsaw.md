@@ -51,8 +51,6 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > Jigsaw（拼图法 / 切块拼接法）是由社会心理学家 Elliot Aronson 于 1978 年开创、后经 Robert Slavin（1986）系统改进（演进为 Jigsaw II/III/IV）的经典角色互补型[[Cooperative Learning\|合作学习]]教学模式。该方法的核心机制在于通过**结构化的任务信息不对称**建立强制性积极互赖：教师将整体学习内容切割为若干独立模块，原属组（Home Group）内的组员分别负责不同模块；负责相同模块的学生先汇聚至“专家组（Expert Group）”深入研讨并掌握内容，随后返回原属组轮流向组员传授讲解，最终通过个体独立测评检验全员对整体知识的掌握。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
@@ -150,6 +148,20 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [拼图法 · Jigsaw method](https://www.visiblelearningmetax.com/influences/view/jigsaw_method)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 3 | 91 | 5,912 | 87 | 0.92 | 0.85 | ●●●○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Batdi (2014) | Jigsaw on achievement | 37 | NA | 37 | 1.20 |  |
+> > | Drouet et al. (2023) | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |  |
+> > | Ozkan & Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -168,20 +180,6 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 4$；$E = 6$；$k = —$；$N = —$ | 干预因素：拼图法亚组对多维学习产出的二阶综合干预效应 | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | 涵盖护理、健康科学、21世纪素养与基础教育，证实拼图法在中高等教育中的稳健高效益 |
-
-> [!metax] [拼图法 · Jigsaw method](https://www.visiblelearningmetax.com/influences/view/jigsaw_method)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 3 | 91 | 5,912 | 87 | 0.92 | 0.85 | ●●●○○ |
->
-> > [!metax-ma]- 3 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Batdi (2014) | Jigsaw on achievement | 37 | NA | 37 | 1.20 |  |
-> > | Drouet et al. (2023) | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |  |
-> > | Ozkan & Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
 
 ---
 

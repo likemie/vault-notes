@@ -91,8 +91,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 概念界定
 > **学校效能（School Effectiveness，或称学校效能研究，School Effectiveness Research, SER）** 是一种将学校内部的组织架构、管理风气、教学质量与领导力差异作为解释学生[[Academic Achievement|学业成就]]差异核心[[Variable|变量]]的实证与政策研究取向。在微观教育学维度，它致力于探究在控制学生家庭背景等输入变量后“学校造成的实际差异”；在宏观政治社会学与比较教育学维度，它构成了现代国家治理与跨国咨询资本将微观学校组织对象化、常模化并在全球市场中作为商品输出的通用社会技术。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 662–665)]]；[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 
@@ -280,6 +278,18 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [学校效应 · School effects](https://www.visiblelearningmetax.com/influences/view/school_effects)
+> 学校 › 领导
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 1 | 168 | 0 | 168 | 0.48 | 0.48 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Scheerens & Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -299,18 +309,6 @@ updated: 2026-10-22
 > | [[Performativity\|绩效性]] | 评价[[Epistemology\|认识论]]哲学 | [[Jean-François Lyotard\|利奥塔]]揭示的“以输入输出比优化为核心”的后现代合法化逻辑，是效能指标的底层动力。 |
 > | [[Policy Borrowing\|政策借用]] | 跨国转移形态 | 效能方案作为全球教育市场中最易流通的标准件，成为各国政客证明改革科学性的借调样板。 |
 > | [[Technical Rationality\|技术理性]] | 认识论合法化 | 多边机构与咨询资本将效能技术标榜为超越意识形态与文化脉络的中立科学工具。 |
-
-> [!metax] [学校效应 · School effects](https://www.visiblelearningmetax.com/influences/view/school_effects)
-> 学校 › 领导
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 1 | 168 | 0 | 168 | 0.48 | 0.48 | ●●○○○ |
->
-> > [!metax-ma]- 1 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Scheerens & Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
 
 ---
 

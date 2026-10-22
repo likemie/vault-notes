@@ -82,8 +82,6 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，而非被动接受政府刚性就近划片分配的教育实践与制度逻辑。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]
 
@@ -245,16 +243,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
-> 
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球数百项[[Meta-analysis\|元分析]]综合及多国中小学数据 | 多层方差分解模型 | [[School Effectiveness\|学校效能]] vs 教师效能对[[Academic Achievement\|学业成就]]的方差贡献率 | 学校层面仅解释 5%–10% 方差，教师层面解释 30% 方差；校内变异显著大于校间变异 | — | 宏观元分析概括；证实单纯选择学校对提升学业成就的因果作用极为有限 |
-> | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] | G 县 814 份[[Questionnaire\|问卷]]及 128 例访谈 | [[Mixed Methods Research\|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
-> | [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] | 密尔沃基 Rufus King 高中采用 IB 五年后的 907 名学生；学校同时是承担种族融合目标的[[Magnet Schools\|磁石学校]] | 选定学校的描述性案例，比较校内参与构成及学区纪律指标 | 学生构成、IB 参与、升学、[[Student Suspension and Expulsion\|停学与开除]] | 全校白人约 55%；IB 学生中黑人接近 24%；98% 的 IB 学生升入大学；上一年仅 28 名学生遭停学、无人被开除，而密尔沃基另有 12 所学校各自记录超过 1,000 次停学 | 未报告[[Counterfactual\|反事实]]、显著性或同类学校匹配 | 数据与磁石学校选择性招生、种族融合政策和学校治理同时发生，不能把结果单独归因于 IB；但显示以严格课程为吸引物的择校载体可以同时承担学术卓越与多元入学目标。 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 30–31)]] | 英格兰应对首届 [[OECD]] [[PISA]] 2000 测评结果的政策与媒体[[Champ\|场域]] | 政策社会学[[Discourse Analysis\|话语分析]]与[[Case Study\|案例研究]]（9 篇全国主要媒体头版及官方政策文件） | 测评排名对本土择校政策（School Choice）的政治确证与阶层差距讨论缺失 | 英格兰利用阅读第 7、数学第 8、科学第 4 的优异排位确证择校竞争与问责体制的正确性，强化既有政策惯性并回避严重阶层差距 | — | 质性政策社会学分析，揭示跨国排位如何成为维护国内择校体制的政治合法化工具 |
-
 > [!metax] [择校 · School choice](https://www.visiblelearningmetax.com/influences/view/school_choice)
 > 学校 › 学校构成
 >
@@ -266,6 +254,16 @@ updated: 2026-10-22
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Jabbar et al. (2017) | School choice | 22 | NA | 28 | 0.02 |  |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+> 
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球数百项[[Meta-analysis\|元分析]]综合及多国中小学数据 | 多层方差分解模型 | [[School Effectiveness\|学校效能]] vs 教师效能对[[Academic Achievement\|学业成就]]的方差贡献率 | 学校层面仅解释 5%–10% 方差，教师层面解释 30% 方差；校内变异显著大于校间变异 | — | 宏观元分析概括；证实单纯选择学校对提升学业成就的因果作用极为有限 |
+> | [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] | G 县 814 份[[Questionnaire\|问卷]]及 128 例访谈 | [[Mixed Methods Research\|混合方法]]实证研究 | 择校进城成本与比例 | 县城随迁择校家庭年生活成本逾 2 万元，占家庭总收入 40% 以上 | — | 反映小城镇低门槛入学下的高昂私人财务负担 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6)]] | 密尔沃基 Rufus King 高中采用 IB 五年后的 907 名学生；学校同时是承担种族融合目标的[[Magnet Schools\|磁石学校]] | 选定学校的描述性案例，比较校内参与构成及学区纪律指标 | 学生构成、IB 参与、升学、[[Student Suspension and Expulsion\|停学与开除]] | 全校白人约 55%；IB 学生中黑人接近 24%；98% 的 IB 学生升入大学；上一年仅 28 名学生遭停学、无人被开除，而密尔沃基另有 12 所学校各自记录超过 1,000 次停学 | 未报告[[Counterfactual\|反事实]]、显著性或同类学校匹配 | 数据与磁石学校选择性招生、种族融合政策和学校治理同时发生，不能把结果单独归因于 IB；但显示以严格课程为吸引物的择校载体可以同时承担学术卓越与多元入学目标。 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 30–31)]] | 英格兰应对首届 [[OECD]] [[PISA]] 2000 测评结果的政策与媒体[[Champ\|场域]] | 政策社会学[[Discourse Analysis\|话语分析]]与[[Case Study\|案例研究]]（9 篇全国主要媒体头版及官方政策文件） | 测评排名对本土择校政策（School Choice）的政治确证与阶层差距讨论缺失 | 英格兰利用阅读第 7、数学第 8、科学第 4 的优异排位确证择校竞争与问责体制的正确性，强化既有政策惯性并回避严重阶层差距 | — | 质性政策社会学分析，揭示跨国排位如何成为维护国内择校体制的政治合法化工具 |
 
 ---
 

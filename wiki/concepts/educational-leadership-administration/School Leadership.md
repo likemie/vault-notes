@@ -79,8 +79,6 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > **学校领导力（School Leadership）** 指教育领导者（涵盖校长、中层管理者及分布式领导团队）通过确立学校发展愿景、促进教职员工专业成长、重构[[Organizational Culture\|组织文化]]架构与维系深度人际信任，从而对学生学业成功与学校整体改进产生关键塑造作用的专业实践（[[Argument_Møller_2017_EERJ\|Møller, 2017, p. 376]]）。领导力深具情境特异性（Context-specific），不存在放之四海而皆准的通用卓越处方。在[[Evidence-Informed Practice\|证据知情实践]]与[[Quality Use of Research Evidence Framework\|高质量研究使用]]视域下，学校领导力进一步超越传统的行政管辖与指令下达，确立为以身作则、言行一致（*walk the talk and model its implementation*）示范研究在课堂中的具体转化，并通过制度化排程为教师提供研讨工时与试错心理安全的组织使能杠杆。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376, 380)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 187–188, 191–192)]]
 
@@ -243,37 +241,6 @@ updated: 2026-10-22
 
 ---
 
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.04 → d ≈ 0.41（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b8"></span></span>0.04 | $F(2, 301) = 7.99, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 教学发展活动（Schuleffektivität） | $N = 304$ 名校长 | 循证型 $M = 3.83$；资源型 $M = 3.58$；弱发展型 $M = 3.56$ | 针对奥地利义务教育学校样本的单因素方差分析，证实循证型校长表现出显著更多的教学改进促进行为 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同能力)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 291) = 9.66, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 协同发展能力（Entwicklungskapazität） | $N = 294$ 名校长 | 循证型 $M = 3.95$；资源型 $M = 3.79$；弱发展型 $M = 3.60$ | 教师日常专业协作与发展契合，组间差异达到中等效应量水平 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 授课工时)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 299) = 10.51, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 课堂直接授课工作时间占比（%） | $N = 302$ 名校长 | 循证型 $19.87\%$；资源型 $29.11\%$；弱发展型 $33.88\%$ | 循证型校长在课堂授课时间上显著低于传统兼课校长，向全职管理身份转型 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 听课工时)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.04 → d ≈ 0.41（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b8"></span></span>0.04 | $F(2, 300) = 6.68, p = .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 课堂听课观察工作时间占比（%） | $N = 303$ 名校长 | 循证型 $7.29\%$；资源型 $5.33\%$；弱发展型 $5.57\%$ | 循证型校长显著增加课堂实地观摩与教学诊断时间 |
-
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.48"><span class="b10"></span></span>0.48 | — | — |
-> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同能力)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
-> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.62"><span class="b12"></span></span>0.62 | — | — |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 听课工时)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | — |
-> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | — |
-
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 州中小学 906 名教育者（两轮[[Questionnaire\|问卷]]）与 29 名访谈受访者 | 两轮标准化李克特问卷调查与[[In-depth Interview\|深度访谈]]主题分析 | 领导力在[[Research Utilization\|研究使用]]中的使能权重、言行示范认可度与互信文化诉求 | 89% 访谈与 72% 问卷认同领导力为核心驱动力；84% 管理者与 73% 教师认同领导必须言行一致示范转化；82% 视师资与领导互信为关键促成条件；领导支持显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育从业者主观经验自陈，证实了领导力示范在证据利用组织生态中的首要地位 |
-> | [[Argument_Møller_2017_EERJ\|Møller (2017)]] | 20+ 个国家参与的国际成功学校校长项目（ISSPP）多样本 | 跨国质性多[[Case Study\|案例研究]]与叙事综合 | 成功学校校长的跨情境基本实践特征与伦理取向 | 提炼出设定方向、发展人员、组织改进、建立信任与安全环境 5 项基本实践；共同展现强烈的伦理关怀与社会正义承诺 | — | 案例高度依赖校长自我报告，需审慎防范个人英雄故事的方法学偏误 |
-> | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题编码分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
-
 > [!metax] [校长／学校领导者 · Principals / school leaders](https://www.visiblelearningmetax.com/influences/view/principals~school_leaders)
 > 学校 › 领导
 >
@@ -310,6 +277,37 @@ updated: 2026-10-22
 > > | Almarshad (2017) | Leadership on achievement | 14 | 12,757 | 16 | 0.56 |  |
 > > | Karadag (2020) | School leadership | 151 | 131,498 | 151 | 0.68 |  |
 > > | Ertem (2021) | School leadership | 7 | 8,180 | 7 | 0.93 |  |
+
+> [!effect-table]- 原始研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.04 → d ≈ 0.41（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b8"></span></span>0.04 | $F(2, 301) = 7.99, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 教学发展活动（Schuleffektivität） | $N = 304$ 名校长 | 循证型 $M = 3.83$；资源型 $M = 3.58$；弱发展型 $M = 3.56$ | 针对奥地利义务教育学校样本的单因素方差分析，证实循证型校长表现出显著更多的教学改进促进行为 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同能力)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 291) = 9.66, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 协同发展能力（Entwicklungskapazität） | $N = 294$ 名校长 | 循证型 $M = 3.95$；资源型 $M = 3.79$；弱发展型 $M = 3.60$ | 教师日常专业协作与发展契合，组间差异达到中等效应量水平 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 授课工时)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 299) = 10.51, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 课堂直接授课工作时间占比（%） | $N = 302$ 名校长 | 循证型 $19.87\%$；资源型 $29.11\%$；弱发展型 $33.88\%$ | 循证型校长在课堂授课时间上显著低于传统兼课校长，向全职管理身份转型 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 听课工时)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.04 → d ≈ 0.41（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b8"></span></span>0.04 | $F(2, 300) = 6.68, p = .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 课堂听课观察工作时间占比（%） | $N = 303$ 名校长 | 循证型 $7.29\%$；资源型 $5.33\%$；弱发展型 $5.57\%$ | 循证型校长显著增加课堂实地观摩与教学诊断时间 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.48"><span class="b10"></span></span>0.48 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同能力)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.62"><span class="b12"></span></span>0.62 | — | — |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 听课工时)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | — |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|---|
+> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 州中小学 906 名教育者（两轮[[Questionnaire\|问卷]]）与 29 名访谈受访者 | 两轮标准化李克特问卷调查与[[In-depth Interview\|深度访谈]]主题分析 | 领导力在[[Research Utilization\|研究使用]]中的使能权重、言行示范认可度与互信文化诉求 | 89% 访谈与 72% 问卷认同领导力为核心驱动力；84% 管理者与 73% 教师认同领导必须言行一致示范转化；82% 视师资与领导互信为关键促成条件；领导支持显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育从业者主观经验自陈，证实了领导力示范在证据利用组织生态中的首要地位 |
+> | [[Argument_Møller_2017_EERJ\|Møller (2017)]] | 20+ 个国家参与的国际成功学校校长项目（ISSPP）多样本 | 跨国质性多[[Case Study\|案例研究]]与叙事综合 | 成功学校校长的跨情境基本实践特征与伦理取向 | 提炼出设定方向、发展人员、组织改进、建立信任与安全环境 5 项基本实践；共同展现强烈的伦理关怀与社会正义承诺 | — | 案例高度依赖校长自我报告，需审慎防范个人英雄故事的方法学偏误 |
+> | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题编码分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
 
 ---
 

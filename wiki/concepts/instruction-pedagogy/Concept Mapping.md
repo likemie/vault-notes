@@ -60,8 +60,6 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 概念图（Concept Mapping）是指由约瑟夫·诺瓦克（Joseph Novak）基于奥苏贝尔（David Ausubel）有意义学习理论开发的高结构化空间语义网络表征与评价工具。概念图由置于方框或圆圈中的概念节点（Concept Nodes）、指示方向的连接线（Directed Links）、标明概念间语义关系的命题连接词（Linking Words / Phrases）以及跨越不同知识分支的横向交叉连接（Cross-links）构成。两个概念节点与连接词共同构成一个完整可验证真伪的命题（Proposition），用于系统外显化复杂领域知识的层级包含结构与深层网状语义模型。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–10)]]; Novak and Gowin (1984)
 
@@ -202,6 +200,33 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [概念图 · Concept mapping](https://www.visiblelearningmetax.com/influences/view/concept_mapping)
+> 教学策略 › 学习意图
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 16 | 1,442 | 36,963 | 1,612 | 0.66 | 0.72 | ●●●●● |
+>
+> > [!metax-ma]- 16 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Moore & Readence (1984) | Graphics organizers in mathematics | 161 | NA | 161 | 0.22 |  |
+> > | Vazquez & Carballo (1993) | Concept mapping in science | 17 | NA | 19 | 0.57 |  |
+> > | Schroeder et al. (2018) | Concept mapping | 143 | 11,882 | 143 | 0.59 |  |
+> > | Marzano et al. (2001) | Idea representation | 708 | NA | 708 | 0.69 |  |
+> > | Liu et al. (2014) | Mind mapping | 40 | 5,213 | 40 | 0.63 |  |
+> > | Horton et al. (1993) | Concept mapping in science | 19 | 1,805 | 19 | 0.45 |  |
+> > | Kang (2002) | Graphics organizers in reading with learning disabled | 14 | NA | 14 | 0.79 |  |
+> > | Kim et al. (2004) | Graphics organizers in reading | 21 | 848 | 52 | 0.81 |  |
+> > | Nesbit & Adesope (2006) | Concept and knowledge maps | 55 | 5,818 | 67 | 0.55 |  |
+> > | Campbell (2009) | Concept Mapping in all subjects | 38 | NA | 46 | 0.79 |  |
+> > | Dexter et al. (2011) | Graphic organizers with learning disabled | 16 | 808 | 55 | 0.91 |  |
+> > | Wong (2021) | Collaborative concept mapping | 30 | NA | 105 | 0.88 |  |
+> > | Anastasiou et al. (2024) | Concept mapping | 55 | 5,364 | 58 | 0.78 |  |
+> > | Wang & Gu (2008) | Concept mapping | 26 | 3,623 | 26 | 0.84 |  |
+> > | Izci & Akkoc (2024) | Concept mapping | 78 | NA | 78 | 1.08 |  |
+> > | Shi et al. (2022) | Mind mapping | 21 | 1,602 | 21 | 0.99 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -242,33 +267,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|
 > | Barta et al. (2022) | 高校医学与生命科学专业学生 | 诊断性评价：**【[[Dependent Variable\|结果变量]]/评价工具】** 概念图拓扑复杂度、命题准确率与交叉连线数量对概念转变的诊断效度 | 概念图评分与深层临床推理表现高度正相关（$r = 0.52, p < .001$），能精准检出 85% 以上由选择题掩盖的概念迷思 | 证实概念图作为深层认知评价工具的独特效度与诊断价值 |
 > | Schau et al. (2001) | 中学物理电磁学探究教学样本 | 准实验干预：**【干预变量】** 填空式概念图骨架支架 vs 全自主绘图 vs 传统练习 | 填空式骨架图组在概念理解测试中成绩显著超越传统组（$p < .01$），且绘图时间消耗仅为自主构图组的一半 | 证实半结构化骨架图在控制初学者外在认知负荷上的卓越经济性 |
-
-> [!metax] [概念图 · Concept mapping](https://www.visiblelearningmetax.com/influences/view/concept_mapping)
-> 教学策略 › 学习意图
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 16 | 1,442 | 36,963 | 1,612 | 0.66 | 0.72 | ●●●●● |
->
-> > [!metax-ma]- 16 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Moore & Readence (1984) | Graphics organizers in mathematics | 161 | NA | 161 | 0.22 |  |
-> > | Vazquez & Carballo (1993) | Concept mapping in science | 17 | NA | 19 | 0.57 |  |
-> > | Schroeder et al. (2018) | Concept mapping | 143 | 11,882 | 143 | 0.59 |  |
-> > | Marzano et al. (2001) | Idea representation | 708 | NA | 708 | 0.69 |  |
-> > | Liu et al. (2014) | Mind mapping | 40 | 5,213 | 40 | 0.63 |  |
-> > | Horton et al. (1993) | Concept mapping in science | 19 | 1,805 | 19 | 0.45 |  |
-> > | Kang (2002) | Graphics organizers in reading with learning disabled | 14 | NA | 14 | 0.79 |  |
-> > | Kim et al. (2004) | Graphics organizers in reading | 21 | 848 | 52 | 0.81 |  |
-> > | Nesbit & Adesope (2006) | Concept and knowledge maps | 55 | 5,818 | 67 | 0.55 |  |
-> > | Campbell (2009) | Concept Mapping in all subjects | 38 | NA | 46 | 0.79 |  |
-> > | Dexter et al. (2011) | Graphic organizers with learning disabled | 16 | 808 | 55 | 0.91 |  |
-> > | Wong (2021) | Collaborative concept mapping | 30 | NA | 105 | 0.88 |  |
-> > | Anastasiou et al. (2024) | Concept mapping | 55 | 5,364 | 58 | 0.78 |  |
-> > | Wang & Gu (2008) | Concept mapping | 26 | 3,623 | 26 | 0.84 |  |
-> > | Izci & Akkoc (2024) | Concept mapping | 78 | NA | 78 | 1.08 |  |
-> > | Shi et al. (2022) | Mind mapping | 21 | 1,602 | 21 | 0.99 |  |
 
 ---
 

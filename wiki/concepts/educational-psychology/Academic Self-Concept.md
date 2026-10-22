@@ -37,8 +37,6 @@ created: 2026-07-01
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 学术自我概念（academic self-concept）是个体对自己学术能力的整体感知和评价，反映学生在多大程度上认为自己是有能力的、成功的学习者（Marsh, 1992）。它与实际[[Academic Achievement\|学业成绩]]交互影响——成绩塑造自我概念，自我概念又反过来影响学习动机、投入和后续[[Academic Achievement\|学业表现]]（Byrne & Worth-Gavin, 1996）。
 
@@ -55,13 +53,6 @@ updated: 2026-10-22
 > - **[[Domain Specificity\|领域特异性]]** 与一般自尊不同，ASC 通常聚焦于学术领域，且可进一步分化为学科特定的自我概念（如数学自我概念、语言自我概念）。
 
 ---
-
-> [!effect-table]- 一级研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 分析样本 | 组别统计 | 设计与解释边界 | 结果[[Variable\|变量]] |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Hedges' $g$（派生） | <span class="mx-bar ef-bar" title="Hedges' g 0.497"><span class="b10"></span></span>0.497 | $t(380)=4.24$<br>$p<.001$ | DP 与非 DP 毕业生 | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | 组间比较；[[Convenience Sampling\|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP | [[Academic Self-Concept General Scale\|ASC]] |
 
 > [!metax] [积极自我概念 · Positive self-concept](https://www.visiblelearningmetax.com/influences/view/positive_self-concept)
 > 学生 › 自我
@@ -87,6 +78,13 @@ updated: 2026-10-22
 > > | Gueyaud & Dassa (1998) | Self-concept | 108 | NA | 693 | 0.32 |  |
 > > | Suciati et al. (2020) | Self-concept | 28 | NA | 28 | 1.58 |  |
 > > | Ding et al. (2024) | Academic Self-concept | 68 | 37,113 | 68 | 1.02 |  |
+
+> [!effect-table]- 一级研究结果
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 分析样本 | 组别统计 | 设计与解释边界 | 结果[[Variable\|变量]] |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Hedges' $g$（派生） | <span class="mx-bar ef-bar" title="Hedges' g 0.497"><span class="b10"></span></span>0.497 | $t(380)=4.24$<br>$p<.001$ | DP 与非 DP 毕业生 | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | 组间比较；[[Convenience Sampling\|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP | [[Academic Self-Concept General Scale\|ASC]] |
 
 ---
 

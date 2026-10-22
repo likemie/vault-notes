@@ -87,8 +87,6 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > **教学反馈（Feedback）** 指围绕学习者当前表现、理解状态和下一步行动所提供的信息交互回路。在教育学经典界定中，反馈是由代理人（教师、同伴、书籍、父母或个体自身经验）针对其表现或理解所提供的导向性信息（Hattie & Timperley, 2007, p. 82）。
 >
@@ -203,32 +201,6 @@ updated: 2026-10-22
 > - **仪表盘色标预判专业裁量** [[Learning Analytics|学习分析]]仪表盘以红黄绿视觉警报粗暴界定学生状态，削弱了教师基于具体课堂情境的专业反思。
 
 ---
-
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Kluger and DeNisi (1996)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 11–12)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.38"><span class="b8"></span></span>0.38 | — | Cohen's $d$；未加权/加权模型 | $k = 131$（607 项效应值）；$N = 12,652$ | 干预因素：任务表现反馈干预（Feedback Intervention, FI）对表现的总体效应 | 异质性极高；38% 的[[Effect Size\|效应量]]为负值（干预反而损害任务表现） | 《可见的学习》支撑反馈效应的五大核心文献中唯一符合反馈界定的元分析；实证表明反馈效应取决于注意焦点，指向自我评价时极易引发反向抑制（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]） |
-> | Lysakowski and Walberg (1980)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 10–11)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.17"><span class="b23"></span></span>1.17 | — | Cohen's $d$；均值加权 | $k = 39$；$N = 4,842$ | [[Construct\|构念]]错位纳入：课堂行为强化技术对[[Academic Achievement\|学业成就]]的效应（被归为反馈顶级效应） | — | 全文从未测量反馈构念；考察的是有形奖励、代币与口头表扬等 39 种外在强化刺激，混入反馈证据库造成严重构念污染（pp. 10–11） |
-> | Lysakowski and Walberg (1982)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 11–12)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.97"><span class="b19"></span></span>0.97 | — | Cohen's $d$；加权合成 | $k = 94$；$N = 15,689$ | 构念错位纳入：教学线索与矫正性强化对学习的效应（被归为反馈效应） | — | 实际测量前置教学线索与矫正性练习状态，未涉及形成性教学反馈；纳入研究情境极端异质（如技校汽修实训与小学生死记德语单词混同；pp. 11–12） |
-> | Witt et al. (2004 / 2006)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 12–13)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.15"><span class="b23"></span></span>1.15 | — | Cohen's $d$ / Pearson's $r$ 换算为 Cohen's $d$ | $k = 34$；$N = 24,474$ | 构念错位纳入：教师即时亲和力（Immediacy）对感悟学习的效应（被归为反馈效应） | — | 全文测量眼神接触、微笑、幽默等师生人际情感沟通与亲和力，完全未测量认知反馈；34 项研究中 22 项为未发表学位论文，多为无对照组的自陈[[Questionnaire\|问卷]]（pp. 12–13） |
-> | Swanson and Lussier (2001)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 12–13)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.12"><span class="b22"></span></span>1.12 | — | Cohen's $d$；加权合成 | $k = 30$；$N = 5,104$ | 构念错位纳入：[[Dynamic Assessment\|动态评估]]中主考人提示对认知潜能表现的效应（被归为反馈效应） | — | 属于心理测验情境下评估学生[[Zone of Proximal Development\|最近发展区]]（Zone of Proximal Development, ZPD）潜在学习能力的主考人干预，旨在测试认知潜能，超出了常规课堂形成性教学指导范围（pp. 12–13） |
-
-> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
-> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; Hattie (2009, 2021) | <span class="mx-bar ef-bar" title="SMD 0.73"><span class="b15"></span></span>0.73 | — | 标准化均值差 $d$；未加权二阶元综合 | $M = 23$（五大核心元分析占 $N$ 的 92.4%）；$E = 1,280$；$k = —$；$N = 195,649$ | 干预因素：宏观教学综合中作为顶级影响因素的教学反馈（Feedback）对学业成就的效应 | — | 经 [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] 逐篇核查，支撑该效应 92.4% 样本量的 4 项一阶元分析严重偏离反馈构念（混入代币糖果强化、教师人际亲和力与动态测验提示），唯一契合的 Kluger & DeNisi 报告 38% 负效应且均值仅 $0.38$；粗放二阶合成掩盖了构念错位与真实异质性；注：早期版本为 $0.79$ |
-
-> [!ref-table]- 其他实证结果（无效应量）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025, p. 19)]] | 国际专家德尔菲评审团（教育学研究者与资深实践专家） | [[Delphi Technique\|德尔菲法]]问卷评定与共识度统计分析 | 教学反馈对实际中小学课堂教学实践的相关度评分（1–5 分制） | 专家评分均值 $M = 4.75$（位列全库 301 个影响因素前 5 位核心实践） | 标准差 $SD = 0.50$ | 实证确立反馈在专家共识中享有极高实践相关度与理论认可，与二阶粗放元综合的数据链缺陷形成鲜明对照 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 10–13)]] | 《[[Visible Learning\|可见的学习]]》反馈条目依赖的 5 项最大一阶元分析（覆盖 180,683 名被试，占总样本 92.4%） | 文献计量审计与概念对齐逐项细读 | 纳入一阶元分析的[[Construct Validity\|构念效度]]、反向抑制效应比例与未发表文献占比 | 4 项元分析（Lysakowski 1980/1982, Witt 2004, Swanson 2001）未测量形成性认知反馈；唯一符合定义的 Kluger and DeNisi (1996) 出现 38% 负效应；Witt (2004) 纳入 34 项中 22 项（65%）为未发表学位论文 | 质性质询与文献计量复核 | 全量实证确证宏观二阶反馈效应量存在严重的构念错位与异质拼贴，无法作为脱离具体情境的普适处方套用 |
 
 > [!metax] [反馈 · Feedback](https://www.visiblelearningmetax.com/influences/view/feedback)
 > 教学策略 › 反馈
@@ -378,6 +350,32 @@ updated: 2026-10-22
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Kulik & Kulik (1988) | Timing of feedback | 53 | NA | 53 | 0.49 |  |
+
+> [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
+> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Kluger and DeNisi (1996)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 11–12)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.38"><span class="b8"></span></span>0.38 | — | Cohen's $d$；未加权/加权模型 | $k = 131$（607 项效应值）；$N = 12,652$ | 干预因素：任务表现反馈干预（Feedback Intervention, FI）对表现的总体效应 | 异质性极高；38% 的[[Effect Size\|效应量]]为负值（干预反而损害任务表现） | 《可见的学习》支撑反馈效应的五大核心文献中唯一符合反馈界定的元分析；实证表明反馈效应取决于注意焦点，指向自我评价时极易引发反向抑制（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]） |
+> | Lysakowski and Walberg (1980)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 10–11)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.17"><span class="b23"></span></span>1.17 | — | Cohen's $d$；均值加权 | $k = 39$；$N = 4,842$ | [[Construct\|构念]]错位纳入：课堂行为强化技术对[[Academic Achievement\|学业成就]]的效应（被归为反馈顶级效应） | — | 全文从未测量反馈构念；考察的是有形奖励、代币与口头表扬等 39 种外在强化刺激，混入反馈证据库造成严重构念污染（pp. 10–11） |
+> | Lysakowski and Walberg (1982)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 11–12)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.97"><span class="b19"></span></span>0.97 | — | Cohen's $d$；加权合成 | $k = 94$；$N = 15,689$ | 构念错位纳入：教学线索与矫正性强化对学习的效应（被归为反馈效应） | — | 实际测量前置教学线索与矫正性练习状态，未涉及形成性教学反馈；纳入研究情境极端异质（如技校汽修实训与小学生死记德语单词混同；pp. 11–12） |
+> | Witt et al. (2004 / 2006)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 12–13)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.15"><span class="b23"></span></span>1.15 | — | Cohen's $d$ / Pearson's $r$ 换算为 Cohen's $d$ | $k = 34$；$N = 24,474$ | 构念错位纳入：教师即时亲和力（Immediacy）对感悟学习的效应（被归为反馈效应） | — | 全文测量眼神接触、微笑、幽默等师生人际情感沟通与亲和力，完全未测量认知反馈；34 项研究中 22 项为未发表学位论文，多为无对照组的自陈[[Questionnaire\|问卷]]（pp. 12–13） |
+> | Swanson and Lussier (2001)<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 12–13)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.12"><span class="b22"></span></span>1.12 | — | Cohen's $d$；加权合成 | $k = 30$；$N = 5,104$ | 构念错位纳入：[[Dynamic Assessment\|动态评估]]中主考人提示对认知潜能表现的效应（被归为反馈效应） | — | 属于心理测验情境下评估学生[[Zone of Proximal Development\|最近发展区]]（Zone of Proximal Development, ZPD）潜在学习能力的主考人干预，旨在测试认知潜能，超出了常规课堂形成性教学指导范围（pp. 12–13） |
+
+> [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
+> <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
+>
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; Hattie (2009, 2021) | <span class="mx-bar ef-bar" title="SMD 0.73"><span class="b15"></span></span>0.73 | — | 标准化均值差 $d$；未加权二阶元综合 | $M = 23$（五大核心元分析占 $N$ 的 92.4%）；$E = 1,280$；$k = —$；$N = 195,649$ | 干预因素：宏观教学综合中作为顶级影响因素的教学反馈（Feedback）对学业成就的效应 | — | 经 [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] 逐篇核查，支撑该效应 92.4% 样本量的 4 项一阶元分析严重偏离反馈构念（混入代币糖果强化、教师人际亲和力与动态测验提示），唯一契合的 Kluger & DeNisi 报告 38% 负效应且均值仅 $0.38$；粗放二阶合成掩盖了构念错位与真实异质性；注：早期版本为 $0.79$ |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025, p. 19)]] | 国际专家德尔菲评审团（教育学研究者与资深实践专家） | [[Delphi Technique\|德尔菲法]]问卷评定与共识度统计分析 | 教学反馈对实际中小学课堂教学实践的相关度评分（1–5 分制） | 专家评分均值 $M = 4.75$（位列全库 301 个影响因素前 5 位核心实践） | 标准差 $SD = 0.50$ | 实证确立反馈在专家共识中享有极高实践相关度与理论认可，与二阶粗放元综合的数据链缺陷形成鲜明对照 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 10–13)]] | 《[[Visible Learning\|可见的学习]]》反馈条目依赖的 5 项最大一阶元分析（覆盖 180,683 名被试，占总样本 92.4%） | 文献计量审计与概念对齐逐项细读 | 纳入一阶元分析的[[Construct Validity\|构念效度]]、反向抑制效应比例与未发表文献占比 | 4 项元分析（Lysakowski 1980/1982, Witt 2004, Swanson 2001）未测量形成性认知反馈；唯一符合定义的 Kluger and DeNisi (1996) 出现 38% 负效应；Witt (2004) 纳入 34 项中 22 项（65%）为未发表学位论文 | 质性质询与文献计量复核 | 全量实证确证宏观二阶反馈效应量存在严重的构念错位与异质拼贴，无法作为脱离具体情境的普适处方套用 |
 
 ---
 

@@ -89,8 +89,6 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > **家庭作业（Homework）** 指由学校教师布置、要求学生在校外非正规教学时段（通常在家中或课后辅导托管情境）独立或在成人支持下完成的学术性学习任务。在实证教育研究中，家庭作业被普遍假设为延伸课堂学习时间、巩固学科知识技能以及发展学生[[Self-Regulated Learning|自主调节学习]]习惯的核心教学干预。然而，由于该术语在不同历史时期、不同国家学制及不同实证研究中涵盖了[[Heterogeneity|异质性]]极高的活动形态，使得关于其有效性的[[Meta-analysis|元分析]]聚合长期陷入“苹果与橙子”的[[Construct|构念]]混淆困境。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]; [[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017, p. 7)]]
 
@@ -283,6 +281,29 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [家庭作业 · Homework](https://www.visiblelearningmetax.com/influences/view/homework)
+> 技术、学校与校外策略 › 校外
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 12 | 309 | 560,977 | 478 | 0.29 | 0.27 | ●●●●○ |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Paschal et al. (1984) | Homework on learning | 15 | NA | 81 | 0.36 |  |
+> > | Cooper (1989) | Homework on achievement | 20 | 2,154 | 20 | 0.21 |  |
+> > | Fan et al. (2017) | Homework | 28 | NA | 61 | 0.45 |  |
+> > | Bas et al. (2017) | Homework on achievement | 11 | 862 | 11 | 0.23 |  |
+> > | Scheerens, Hendriks, et al. (2013) | Homework on achievement | 17 | NA | 19 | 0.09 |  |
+> > | DeBaz (1994a) | Homework in science | 77 | 41,828 | 77 | 0.39 |  |
+> > | Cooper (1994) | Homework on learning | 17 | 3,300 | 48 | 0.21 |  |
+> > | Cooper et al. (2006) | Homework from studies 1987-2004 | 32 | 286,656 | 69 | 0.32 |  |
+> > | Ozyildirim (2021) | Homework time | 48 | 225,430 | 48 | 0.19 |  |
+> > | Kwon et al. (2021) | Homework on achievement | 12 | NA | 12 | 0.23 |  |
+> > | Bishop et al. (2024) | Online vs. traditional homework | 18 | NA | 18 | 0.06 |  |
+> > | Guo et al. (2024) | Homework vs. no homework | 14 | 747 | 14 | 0.45 |  |
+
 > [!ma-table]- 一阶与二阶[[Meta-analysis|元分析]]结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -309,29 +330,6 @@ updated: 2026-10-22
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（中学作业专题） | 英格兰及全球中学学段 | 循证综合元分析与试验追踪 | 中学课外作业与学业进展 | 平均增益相当于 $+5$ 个月额外学业进展；短小、频繁、目标清晰并配有及时反馈的作业效果最佳 | 证据安全性为中等（3 挂锁） | 确立中学阶段高质量作业对学业深化的显著正向贡献 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | Hattie (2009) 纳入的 161 项作业实证研究 | [[Meta-meta-analysis\|元综合]]统计效应深度解构与概率换算 | 班级提分成功率、身高类比差异 | 仅 21% 的班级在引入作业后出现学业提升；效应量 $d = 0.29$ 仅相当于 180cm 与 182cm 身高差异；65% 正向，35% 中性/负向 | — | 深度揭露平均效应量在具体班级教学情境中的微弱真实效力与不确定性 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]（引述 Carboni, 2013） | 丹麦基础教育中小学与教育行政机构 | 政策个案审查与文献方法学质检 | 家庭作业总体均值（$d = 0.29$）引发的公共政策废除决策 | 丹麦多家教育机构依据哈蒂均值在全境中小学全面废除家庭作业；忽视高中（$d=0.64$）与小学（$d=0.15$）鸿沟以及学科与能力调节 | — | 证实将脱离情境的无调节二阶均值直接套用至公共教育治理，会导致对高年级[[Effective Teaching\|有效教学]]实践的一刀切误杀 |
-
-> [!metax] [家庭作业 · Homework](https://www.visiblelearningmetax.com/influences/view/homework)
-> 技术、学校与校外策略 › 校外
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★☆☆ 正向影响 | 12 | 309 | 560,977 | 478 | 0.29 | 0.27 | ●●●●○ |
->
-> > [!metax-ma]- 12 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Paschal et al. (1984) | Homework on learning | 15 | NA | 81 | 0.36 |  |
-> > | Cooper (1989) | Homework on achievement | 20 | 2,154 | 20 | 0.21 |  |
-> > | Fan et al. (2017) | Homework | 28 | NA | 61 | 0.45 |  |
-> > | Bas et al. (2017) | Homework on achievement | 11 | 862 | 11 | 0.23 |  |
-> > | Scheerens, Hendriks, et al. (2013) | Homework on achievement | 17 | NA | 19 | 0.09 |  |
-> > | DeBaz (1994a) | Homework in science | 77 | 41,828 | 77 | 0.39 |  |
-> > | Cooper (1994) | Homework on learning | 17 | 3,300 | 48 | 0.21 |  |
-> > | Cooper et al. (2006) | Homework from studies 1987-2004 | 32 | 286,656 | 69 | 0.32 |  |
-> > | Ozyildirim (2021) | Homework time | 48 | 225,430 | 48 | 0.19 |  |
-> > | Kwon et al. (2021) | Homework on achievement | 12 | NA | 12 | 0.23 |  |
-> > | Bishop et al. (2024) | Online vs. traditional homework | 18 | NA | 18 | 0.06 |  |
-> > | Guo et al. (2024) | Homework vs. no homework | 14 | 747 | 14 | 0.45 |  |
 
 ---
 

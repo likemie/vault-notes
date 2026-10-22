@@ -91,8 +91,6 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 问题本位学习（Problem-Based Learning, PBL）以经过选择的真实或拟真问题启动学习。学生激活先备知识、识别知识缺口、在小组中建立解释模型、查找新资料，再通过讨论、应用和[[Problem Solving\|问题解决]]不断修正模型。专业教育中的 PBL 还把同类问题用于目标表述和学习评估，使学生练习的活动与毕业后需要完成的专业任务保持一致。[[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2011, as cited in Hattie, 2015b, p. 85)]]；[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
 
@@ -283,6 +281,48 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [问题导向学习 · Problem-based learning](https://www.visiblelearningmetax.com/influences/view/problem-based_learning)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 31 | 1,059 | 103,700 | 1,520 | 0.53 | 0.47 | ●●●●● |
+>
+> > [!metax-ma]- 31 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Albanese & Mitchell (1993) | PBL in medicine | 11 | 2,208 | 66 | 0.27 |  |
+> > | Vernon & Blake (1993) | PBL in college level | 8 | NA | 28 | -0.18 |  |
+> > | Dochy et al. (2003) | PBL on knowledge and skills | 43 | 21,365 | 35 | 0.12 |  |
+> > | Smith (2003) | PBL in medicine | 82 | 12,979 | 121 | 0.31 |  |
+> > | Newman (2004) | PBL in medicine | 12 | NA | 12 | -0.30 |  |
+> > | Haas (2005) | PBL in algebra | 7 | 1,538 | 14 | 0.52 |  |
+> > | Gijbels et al. (2005) | PBL on assessment outcomes | 40 | NA | 49 | 0.32 |  |
+> > | Walker & Leary (2009) | PBL across disciplines | 82 | NA | 201 | 0.13 |  |
+> > | Dagyar & Demirel (2015) | PBL | 98 | NA | 98 | 0.76 |  |
+> > | Jiang et al. (2013) | PBL | 38 | NA | 87 | 0.32 |  |
+> > | Chen & Yang (2019) | PBL | 30 | 12,585 | 30 | 0.71 |  |
+> > | Jensen (2015) | PBL | 34 | 9,998 | 34 | 0.59 |  |
+> > | Kalaian & Kasim (2014b) | PBL | 14 | NA | 16 | 0.29 |  |
+> > | Sayyah et al. (2017) | PBL | 21 | NA | 21 | 0.80 |  |
+> > | Zhou et al. (2016) | PBL in Chinese clinical training | 13 | 913 | 13 | 0.06 |  |
+> > | Rosli et al. (2014) | PBL | 13 | NA | 14 | 0.88 |  |
+> > | Schmidt et al. (2009) | Constructivist problem based learning on medical knowledge | 10 | NA | 90 | 0.07 |  |
+> > | Leary et al. (2013) | PBL | 94 | 34,689 | 213 | 0.24 |  |
+> > | Hong (2008) | PBL | 85 | NA | 49 | 0.69 |  |
+> > | Dolmans et al. (2016) | PBL on surface and dep outcomes | 21 | NA | 17 | 0.09 |  |
+> > | Funa & Prudente (2021) | PBL | 11 | 1,422 | 11 | 0.87 |  |
+> > | Stojadinovic et al. (2021) | PBL | 18 | 2,518 | 18 | 0.39 |  |
+> > | Aisyah & Usdiyana (2022) | PBL | 8 | NA | 8 | 0.80 |  |
+> > | Alacapinar & Mustafa (2020) | PBL | 25 | NA | 32 | 1.23 |  |
+> > | Juandi & Tamur (2021) | PBL | 50 | NA | 50 | 0.82 |  |
+> > | Novitasri et al. (2022) | PBL | 24 | NA | 24 | 0.70 |  |
+> > | Brice (2017) | PBL | 9 | 3,485 | 9 | -0.39 |  |
+> > | Waterboro et al. (2023) | PBL | 73 | NA | 73 | 1.05 |  |
+> > | Klager (2018) | PBL | 17 | NA | 17 | 0.46 |  |
+> > | Uluçinar (2023) | PBL | 55 | NA | 55 | 1.01 |  |
+> > | Erdem (2022) | PBL | 13 | NA | 15 | 0.82 |  |
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -336,48 +376,6 @@ updated: 2026-10-22
 > |  |  | 其他 |  | E = 4 | <span class="mx-bar ef-bar" title="Cohen's d .31"><span class="b6"></span></span>.31 | [−.08, .70] | — |
 >
 > - **[[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] · 结果变量** [[Dependent Variable\|结果变量]]亚组；组间差异显著
-
-> [!metax] [问题导向学习 · Problem-based learning](https://www.visiblelearningmetax.com/influences/view/problem-based_learning)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 31 | 1,059 | 103,700 | 1,520 | 0.53 | 0.47 | ●●●●● |
->
-> > [!metax-ma]- 31 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Albanese & Mitchell (1993) | PBL in medicine | 11 | 2,208 | 66 | 0.27 |  |
-> > | Vernon & Blake (1993) | PBL in college level | 8 | NA | 28 | -0.18 |  |
-> > | Dochy et al. (2003) | PBL on knowledge and skills | 43 | 21,365 | 35 | 0.12 |  |
-> > | Smith (2003) | PBL in medicine | 82 | 12,979 | 121 | 0.31 |  |
-> > | Newman (2004) | PBL in medicine | 12 | NA | 12 | -0.30 |  |
-> > | Haas (2005) | PBL in algebra | 7 | 1,538 | 14 | 0.52 |  |
-> > | Gijbels et al. (2005) | PBL on assessment outcomes | 40 | NA | 49 | 0.32 |  |
-> > | Walker & Leary (2009) | PBL across disciplines | 82 | NA | 201 | 0.13 |  |
-> > | Dagyar & Demirel (2015) | PBL | 98 | NA | 98 | 0.76 |  |
-> > | Jiang et al. (2013) | PBL | 38 | NA | 87 | 0.32 |  |
-> > | Chen & Yang (2019) | PBL | 30 | 12,585 | 30 | 0.71 |  |
-> > | Jensen (2015) | PBL | 34 | 9,998 | 34 | 0.59 |  |
-> > | Kalaian & Kasim (2014b) | PBL | 14 | NA | 16 | 0.29 |  |
-> > | Sayyah et al. (2017) | PBL | 21 | NA | 21 | 0.80 |  |
-> > | Zhou et al. (2016) | PBL in Chinese clinical training | 13 | 913 | 13 | 0.06 |  |
-> > | Rosli et al. (2014) | PBL | 13 | NA | 14 | 0.88 |  |
-> > | Schmidt et al. (2009) | Constructivist problem based learning on medical knowledge | 10 | NA | 90 | 0.07 |  |
-> > | Leary et al. (2013) | PBL | 94 | 34,689 | 213 | 0.24 |  |
-> > | Hong (2008) | PBL | 85 | NA | 49 | 0.69 |  |
-> > | Dolmans et al. (2016) | PBL on surface and dep outcomes | 21 | NA | 17 | 0.09 |  |
-> > | Funa & Prudente (2021) | PBL | 11 | 1,422 | 11 | 0.87 |  |
-> > | Stojadinovic et al. (2021) | PBL | 18 | 2,518 | 18 | 0.39 |  |
-> > | Aisyah & Usdiyana (2022) | PBL | 8 | NA | 8 | 0.80 |  |
-> > | Alacapinar & Mustafa (2020) | PBL | 25 | NA | 32 | 1.23 |  |
-> > | Juandi & Tamur (2021) | PBL | 50 | NA | 50 | 0.82 |  |
-> > | Novitasri et al. (2022) | PBL | 24 | NA | 24 | 0.70 |  |
-> > | Brice (2017) | PBL | 9 | 3,485 | 9 | -0.39 |  |
-> > | Waterboro et al. (2023) | PBL | 73 | NA | 73 | 1.05 |  |
-> > | Klager (2018) | PBL | 17 | NA | 17 | 0.46 |  |
-> > | Uluçinar (2023) | PBL | 55 | NA | 55 | 1.01 |  |
-> > | Erdem (2022) | PBL | 13 | NA | 15 | 0.82 |  |
 
 ---
 

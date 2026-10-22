@@ -88,8 +88,6 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > **师生关系（Student-Teacher Relationship）** 指学生与教师在课堂教学、生活交往与制度化组织情境中所建构的互动联结质量，涵盖情感关照、学业支持、道德信任与指导性权威（[[Argument_Lekhal_2015_Paideia|(Lekhal et al., 2015, p. 80)]]; [[Argument_Li_2012_Cambridge|(Li, 2012, pp. 52–53)]]）。在实证教育研究与[[Didaktik|教学理论]]中，师生关系不仅是学生获得[[Academic Achievement|学业成就]]与社会情感发展的前提性心理生态，更在不同文化学习模型中承载着迥异的功能定位——在欧美传统中常被界定为促成学习目标的交互资源或环境条件，而在[[Confucian Learning Tradition|儒家学习传统]]中则被视为亲子关系的自然延伸与求知道德践行的独立核心支柱（[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 73, 1555–1581)]]）。
 
@@ -195,21 +193,6 @@ updated: 2026-10-22
 
 ---
 
-> [!effect-table]- 师生关系实证研究与[[Effect Size|效应量]]快照
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本规模 | 组别统计 | 设计与解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | Cohen's $d$ | <span class="mx-bar ef-bar neg" title="Cohen's d −0.05"><span class="b1"></span></span>−0.05 | $p = .166$（无显著性别差异） | 挪威中小学男女生在师生关系评分上的组间差异（表 3） | 学生自评师生关系感知（8 项，1–4 分） | $N = 4{,}128$（男生 2,062，女生 2,066） | 男生 $3.29 (0.58)$；女生 $3.32 (0.57)$ | 横断面多信息源调查；证实师生关系感知无显著性别鸿沟，但直接回归解释力弱于规范适应 |
-> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.72"><span class="b14"></span></span>0.72 | 宏观统计高度显著 | 《[[Visible Learning\|可见的学习]]》133 项正值效应量综合归类中师生关系的实测表现 | [[Academic Achievement\|学业成就]]跨研究增益 | 800+ 项一阶[[Meta-analysis\|元分析]]综合池 | 期望效应区（$d > 0.40$）典型代表 | 二阶综合效应；证实良好师生关系是全库效应量最高的微观互动[[Variable\|变量]]之一 |
-
-> [!ref-table]- 其他实证结果（无效应量）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 欧裔美国大学生 vs 中国大学生 | 自由联想、词汇归类与多维聚类树分析 | “学习”概念网络中的教师与师生关系归属集群 | 中国样本中“师生关系”占可取方式词汇总量的 11%，独立于“方法”与“资源”并在求知维度下聚类；欧美样本无独立师生关系集群（教师仅作为外部资源） | 聚类拓扑距离高度收敛 | 认知语言学与文化心理学设计；证实师生关系在中国心智模型中具有本体性的结构位置 |
-
 > [!metax] [师生关系 · Teacher-student relationships](https://www.visiblelearningmetax.com/influences/view/teacher-student_relationships)
 > 课堂 › 课堂氛围
 >
@@ -232,6 +215,21 @@ updated: 2026-10-22
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Wang & Dong (2017) 在列表中重复出现。
 > > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，尚未经文献核实）。
+
+> [!effect-table]- 师生关系实证研究与[[Effect Size|效应量]]快照
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本规模 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | Cohen's $d$ | <span class="mx-bar ef-bar neg" title="Cohen's d −0.05"><span class="b1"></span></span>−0.05 | $p = .166$（无显著性别差异） | 挪威中小学男女生在师生关系评分上的组间差异（表 3） | 学生自评师生关系感知（8 项，1–4 分） | $N = 4{,}128$（男生 2,062，女生 2,066） | 男生 $3.29 (0.58)$；女生 $3.32 (0.57)$ | 横断面多信息源调查；证实师生关系感知无显著性别鸿沟，但直接回归解释力弱于规范适应 |
+> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.72"><span class="b14"></span></span>0.72 | 宏观统计高度显著 | 《[[Visible Learning\|可见的学习]]》133 项正值效应量综合归类中师生关系的实测表现 | [[Academic Achievement\|学业成就]]跨研究增益 | 800+ 项一阶[[Meta-analysis\|元分析]]综合池 | 期望效应区（$d > 0.40$）典型代表 | 二阶综合效应；证实良好师生关系是全库效应量最高的微观互动[[Variable\|变量]]之一 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 欧裔美国大学生 vs 中国大学生 | 自由联想、词汇归类与多维聚类树分析 | “学习”概念网络中的教师与师生关系归属集群 | 中国样本中“师生关系”占可取方式词汇总量的 11%，独立于“方法”与“资源”并在求知维度下聚类；欧美样本无独立师生关系集群（教师仅作为外部资源） | 聚类拓扑距离高度收敛 | 认知语言学与文化心理学设计；证实师生关系在中国心智模型中具有本体性的结构位置 |
 
 ---
 

@@ -106,16 +106,8 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
----
-
-## 定义
-
-班级规模是教育资源配置、微观课堂生态与宏观教育投资政策的核心交叉[[Variable|变量]]。
-
 > [!def] 核心定义
 > 班级规模（Class Size），又称班额，指单一教学组织单元或班级组内所容纳的学生实际人数。它看似是简单的组织[[Variable|变量]]，实际却同时牵涉教学互动质量、教师劳动负荷、学校资源配置、财政政策成本与实证证据的外推有效性。小班的实践成效取决于学生人数缩减幅度、教师教学方式实质调适、合格师资与校舍供给保障、学生[[Heterogeneity|异质性]]构成以及多元学业与社会情感评价指标的协同。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–102)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 155, 157–158)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 6–7)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 12, 16–17)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
-
-从宏观资源投入与微观教学过程的双重视野审视，班级规模承载着多维功能定位。
 
 > [!concept-lens] 概念透镜
 > - **含义** 班级规模既是宏观资源配置决策的组织参数，也是直接型塑师生言语互动频次与任务在轨率的微观生态变量。
@@ -127,18 +119,12 @@ updated: 2026-10-22
 >
 > *Class size cannot serve as a meaningful standalone unit of analysis. It must interact with student baseline ability, socio-demographic background, teacher professional competence, and classroom social dynamics. Simply reducing class size does not automatically produce achievement gains; the prerequisite is whether teachers change their pedagogy in smaller classes... Attributing the lack of achievement gains to class size itself misconstrues the dynamic complexity of the multi-variable system.*
 
-在实证测量与政策辩论中，准确厘清班级规模的测量口径与概念边界至关重要。
-
 > [!boundary]- 概念边界
 > - **区别于生师比（Student-Teacher Ratio）** 生师比是学校或宏观系统层面的统计均值，受行政人员、教辅人员和资源教室编制稀释，无法反映学生在具体课堂中面对的真实人数。
 > - **区别于自发教学改进** 班级人数减少不会自动引发教学法升级；若教师依然沿袭大班的全班灌输讲授，缩班的潜在红利将被严重稀释。
 > - **依赖教师质量与教学物质基底** 班级规模的实际效应受制于合格师资储备、教材配备及教室空间等刚性条件。在师资匮乏或教材不足的情境下，单纯削减班额往往无法带来预期收益。
 
 ---
-
-## 概念辨析
-
-通过横向对比生师比、学校规模与微观群组规模，可以明确班级规模在组织层级与互动机制上的特质。
 
 > [!contrast-table] 班级规模与相关概念的多维辨析
 > | 维度 | 班级规模（Class Size） | 生师比（Student-Teacher Ratio） | 学校规模（School Size） | 课堂群组规模（Instructional Group Size） |
@@ -151,8 +137,6 @@ updated: 2026-10-22
 ---
 
 ## 核心要素
-
-班级规模争论涉及测量方式、课堂微观过程、师资教学[[Paradigm|范式]]与物质基础设施的深层交织。
 
 > [!feature] 班级规模争论的四大核心基柱
 > - **测量方式与口径精细度** 评估班级人数是基于宏观注册名册、平均日常出勤，还是[[Classroom Observation|课堂观察]]当天的实际分性别在场人数。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 16–17)]]
@@ -202,13 +186,9 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-围绕班级规模在教育治理、微观教学机制与宏观政策辩论中的核心属性，学界形成了四组关键理论命题。
-
 ---
 
 ### 命题一　班级规模与学业成就存在稳定的负相关，但控制质量是关键调节变量
-
-实证研究的方法学严谨程度直接决定了班级规模效应曲线的形态与斜率。
 
 > [!concept-lens] 证据聚合与方法控制调节
 > 探讨方法学质量如何系统性重塑[[Variable|变量]]关联，解释缺乏严格控制的研究如何低估班级规模的实质价值。
@@ -229,8 +209,6 @@ updated: 2026-10-22
 
 ### 命题二　单纯缩减班额面临高昂财政成本，其成本效益常劣于同等预算下的定向教学干预
 
-公共教育预算的稀缺性要求在政策组合中横向评估各项干预的相对产出与机会成本。
-
 > [!concept-lens] 成本效益与政策替代方案
 > 探讨即便小班具有统计显著正效应，在相同财政约束下是否应优先选择更具成本效益与补偿效能的教学支持策略。
 
@@ -240,8 +218,6 @@ updated: 2026-10-22
 ---
 
 ### 命题三　班级规模本身无法作为独立分析单元，其效应取决于教师教学范式转型与系统变量交互
-
-班级规模是教学行为展开的制度载体，其自身不能脱离教师实践与社会背景独立发挥作用。
 
 > [!concept-lens] 动态复杂系统与教学[[Paradigm|范式]]交互
 > 探讨班级规模如何与教师教学策略、学生背景及物质资源构成不可分割的交互系统，解构将班级规模孤立化的机械因果观。
@@ -258,8 +234,6 @@ updated: 2026-10-22
 ---
 
 ### 命题四　班级规模无效论被建构为新自由主义财政紧缩与阶级盲教学思维的实证护盾
-
-量化元分析关于班级规模的中低效应论断，容易脱离微观实践语境，被新自由主义治理[[Discourse|话语]]吸纳为削减财政投入与推卸公共责任的工具。
 
 > [!concept-lens] 政治经济学动因与阶级盲技术主义批判
 > 探讨元分析如何通过清洗社会阶层变量与高频修辞轰炸，将班级规模转化为免除国家办学责任并推行[[Neo-Taylorism|新泰勒主义]]管理的实证工具。
@@ -287,10 +261,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
-综合微观互动、宏观计量与国际比较研究，班级规模的理论脉络由四项核心命题构成。
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -300,10 +270,6 @@ updated: 2026-10-22
 > | **财政紧缩护盾** | 班级规模无效论被政治建构为实证护盾，掩盖 16 倍词频偏差并服务于财政紧缩与阶级盲技术控制 | 批判性教育政策分析、新自由主义紧缩批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] |
 
 ---
-
-## 概念演变
-
-班级规模的实证研究走过了从单一[[Meta-analysis|元分析]]汇总、大规模随机试验到微观教学实践交互与全球南方反思的演进脉络。
 
 > [!dev-timeline] 班级规模研究的演进历程
 > - **1978 年 — Glass & Smith 开拓性元分析** 汇总 77 项研究、725 项比较及近 90 万学生数据，首次通过回归拟合出班级规模与[[Academic Achievement|学业成就]]的负相关曲线；并首次发现实验控制良好的研究其负向斜率更陡，颠覆了粗糙研究必然高估效应的直觉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 357–360)]]
@@ -319,8 +285,6 @@ updated: 2026-10-22
 ---
 
 ## 争议与批评
-
-围绕班级规模的[[Research Utilization|证据使用]]，学术界长期存在平均值遮蔽、[[Unit of Analysis|分析单元]]混淆及政策修辞误用的激烈争辩。
 
 > [!debates] 学术争议
 >
@@ -345,6 +309,26 @@ updated: 2026-10-22
 > - **极端大班额（60–100 人）对[[Classroom Observation|课堂观察]]测量的冲击** [[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]在撒哈拉以南非洲及南亚的调研显示，小学班额普遍达到 60–100 人。在世界银行 Teach 工具的现场实测中，研究人员发现超大班额直接危及低推论快照测量的有效性：观察员在 1–10 秒的瞬时扫视中，极难精准捕捉拥挤在后排或窗外张望学生的真实在轨状态，容易导致时间利用率的系统性测量偏误。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 16)]]
 
 ---
+
+> [!metax] [缩小班额 · Reducing class size](https://www.visiblelearningmetax.com/influences/view/reducing_class_size)
+> 课堂 › 班级构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 9 | 238 | 564,964 | 2,934 | 0.14 | 0.15 | ●●●●○ |
+>
+> > [!metax-ma]- 9 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Glass & Smith (1979) | Class size | 77 | 520,899 | 725 | 0.09 |  |
+> > | McGiverin et al. (1989) | Class size | 10 | NA | 24 | 0.34 |  |
+> > | Goldstein et al. (2000) | Class size | 9 | 29,440 | 36 | 0.20 |  |
+> > | Bowne et al. (2017) | Class size in early childhood | 38 | NA | 328 | 0.31 |  |
+> > | Leuven & Oosterbeek (2018) | Reducing class size by 10 | 16 | NA | 16 | 0.10 |  |
+> > | Filges et al. (2018) | Class size | 6 | NA | 9 | 0.11 |  |
+> > | Shin & Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
+> > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
+> > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -387,28 +371,14 @@ updated: 2026-10-22
 
 ## 应用案例
 
-理解班级规模政策的成败，必须将试验设计、推广条件与配套支持系统置于具体国别语境中综合审视。
-
-### 美国与法国
-
-经典实验与全国性推广的对比展示了政策外推中的师资瓶颈。
-
 > [!evidence-grid-a] 欧美代表性政策案例
 > - **田纳西州 STAR 项目（[[Tennessee STAR Project 1985-1989]]）** 严格[[Random Assignment|随机分配]]学生与教师至小班与大班，小班学生到二年级末累计领先约 3 个月学力，证实低年级小班对弱势群体的扶持效应，但威廉指出其实验条件的特殊性制约了向常规师资不足学校的直接外推。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–7)]]
 > - **加州 1996 年全州缩班工程（[[California Class Size Reduction 1996]]）** 试图将 STAR 模式快速复制至全州。[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023, p. 33)]] 考证指出，该改革实质是加州州长为了与教师工会政治斗争而仓促立法的产物，导致全州紧急招募数万名未获充分认证的代课教师，大量学生被安置在临时板房上课，师资与设施配套断裂导致预期效果彻底归零，成为政策外推忽视系统支持条件的反面教材。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 17–18)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 7)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 33)]]
 > - **法国优先教育区缩班改革（[[French Class Size Reduction]]）** 针对重点扶困小学低段推行 12 人超小班，因伴随巨额财政支出且数学增益微弱，成为欧洲[[Evidence-Based Policy-Making|循证决策]]中权衡高昂缩班成本与定向课后辅导替代方案的典型案例。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
 
-### 新西兰与西班牙
-
-财政决策修辞与宏观课程失范揭示了班级规模指标的局限性。
-
 > [!evidence-grid-a] 新西兰与西班牙制度反思案例
 > - **新西兰 [[Picking Up the Pace|PACE 项目]]与政策简报风波（[[Treasury Briefing on Student-Teacher Ratios]]）** 奥克兰南区与芒盖雷的 [[Picking Up the Pace|PACE 项目]]（Phillips et al., 2001）实证表明，将班额从 28 人缩减至 15 人并配合针对性专业发展，使教师能针对每组仅 3 名学生展开 10–15 分钟密集阅读指导，取得了两倍于常规班级的读写增益。然而，新西兰教育部长安妮·托利（Anne Tolley）与财政部简报却借[[John Hattie|哈蒂]]平均值之名，宣称班级规模无足轻重，提议扩大班额以削减教育赤字并转推[[Performance Pay|绩效工资]]，引发学界对证据断章取义与政策修辞谬误的激烈声讨。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–104)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
 > - **西班牙公立教育高投入与高失败率的反差** [[José Luis García Garrido|加西亚·加里多]]基于翔实跨国统计揭示，西班牙公立学校的班级规模与生师比全面占优于[[EU|欧盟]]平均线，但在均一不分流课程体系压迫下，学生厌学成风与纪律解体导致学业失败率高达 33%，证明班额投入指标无法挽救深层课程治理危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
-
-### 全球南方与世界银行 Teach 实证
-
-在极端班额与资源短缺情境下，班级规模构成了微观教学与方法测量的双重瓶颈。
 
 > [!evidence-grid-a] 全球南方与[[World Bank|世界银行]] Teach 案例
 > - **几内亚小学阅读教学的物质约束基础设施** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国[[Ethnography|民族志]]证实，几内亚小学面临 60 人以上的巨型班额与严重教材短缺，西方主流的儿童中心与[[Individualised Instruction|个别化教学]]失去物质可行性，教师被迫退守全班齐读与严苛纪律，确立了班级规模作为依附性物质约束的理论视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
@@ -431,33 +401,11 @@ updated: 2026-10-22
 >
 > *"The sign of an effect size depends entirely on the direction of comparison. Hattie sets class size as an effect size of 0.21 (comparing small to large classes) and declares it of low impact. However, if the comparison had been between large classes and small classes, the effect would be -0.21, putting large class size in the 'reverse effects' category... whether an intervention is seen as having low impact or being harmful depends on an arbitrary choice of baseline."*
 
-> [!metax] [缩小班额 · Reducing class size](https://www.visiblelearningmetax.com/influences/view/reducing_class_size)
-> 课堂 › 班级构成
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★☆☆☆ 微弱正向 | 9 | 238 | 564,964 | 2,934 | 0.14 | 0.15 | ●●●●○ |
->
-> > [!metax-ma]- 9 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Glass & Smith (1979) | Class size | 77 | 520,899 | 725 | 0.09 |  |
-> > | McGiverin et al. (1989) | Class size | 10 | NA | 24 | 0.34 |  |
-> > | Goldstein et al. (2000) | Class size | 9 | 29,440 | 36 | 0.20 |  |
-> > | Bowne et al. (2017) | Class size in early childhood | 38 | NA | 328 | 0.31 |  |
-> > | Leuven & Oosterbeek (2018) | Reducing class size by 10 | 16 | NA | 16 | 0.10 |  |
-> > | Filges et al. (2018) | Class size | 6 | NA | 9 | 0.11 |  |
-> > | Shin & Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
-> > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
-> > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
-
 ---
 
 ## 相关研究
 
-本 vault 中围绕班级规模展开的方法学批判、政策实证与跨国观察文献索引如下。
-
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 对[[John Hattie|哈蒂]]班级规模结论进行数理对偶审计，揭示小班 $d=+0.20$ 与大班 $d=-0.20$ 的参照基准颠倒效应，论证人为阈值（$d=0.40$）如何导致政策判定发生逻辑断裂（pp. 240–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判性重审可见学习底层逻辑，援引 Berger (1982) 确立班级规模非独立[[Unit of Analysis|分析单元]]属性，揭露排除 [[Socioeconomic Status|SES]] 调节[[Variable|变量]]所建构的阶级盲教学思维（pp. 5–7）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 通过词频统计（95 次提及）与格拉斯[[Primary and Secondary Documents|原始文献]]核查，系统揭露《[[Visible Learning|可见的学习]]》如何将班级规模效应矮化为新自由主义财政紧缩的实证挡箭牌（pp. 31–33）。
@@ -473,8 +421,6 @@ updated: 2026-10-22
 ---
 
 ## 条目关联
-
-班级规模与宏观教育政策、微观教学法、观察工具及测量指标的关系网络图谱如下。
 
 > [!entry-map|notitle]
 >

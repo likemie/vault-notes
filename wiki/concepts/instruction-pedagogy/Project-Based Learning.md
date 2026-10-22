@@ -66,8 +66,6 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 项目式学习（Project-Based Learning，常简称为 PBL 或 PjBL）是一种以学生为中心、基于[[Constructivist Paradigm\|建构主义范式]]的探究型教学组织模式。学生在一段持续的时间内，围绕真实、复杂且具挑战性的驱动性问题（Driving Question），通过自主规划、深度协作、资源检索与持续探究，最终设计、生成并公开展示具有真实应用价值的物化制品或解决方案（Artifact / Public Product）。该模式将学科核心概念与能力的学习深度内嵌于制品开发与[[Problem Solving\|问题解决]]的全过程中。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 
@@ -176,15 +174,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | 生成式人工智能干预下的学生高阶思维培养（项目式学习亚组） | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | [0.507, 0.928] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） |
->
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 教学组织模式（干预环境）** 亚组效应达中到大水平且高度显著（$Z = 6.674, p < 0.001$）；三分类教学模式整体组间检验未达显著，但项目式学习效应量明显高于传统讲授式教学；实证研究高度向探究设计倾斜。
-
 > [!metax] [项目式学习 · Project-based learning](https://www.visiblelearningmetax.com/influences/view/project-based_learning)
 > 教学策略 › 教学方法
 >
@@ -201,6 +190,15 @@ updated: 2026-10-22
 > > | Rehman et al. (2024) | Project based learning | 70 | NA | 70 | 0.65 |  |
 > > | Badawi et al. (2023) | Blended project based learning | 11 | NA | 11 | 1.28 |  |
 > > | Wenlan & Jiao (2019) | Project based learning | 46 | 3,951 | 121 | 0.59 |  |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | 生成式人工智能干预下的学生高阶思维培养（项目式学习亚组） | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | [0.507, 0.928] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 教学组织模式（干预环境）** 亚组效应达中到大水平且高度显著（$Z = 6.674, p < 0.001$）；三分类教学模式整体组间检验未达显著，但项目式学习效应量明显高于传统讲授式教学；实证研究高度向探究设计倾斜。
 
 ---
 

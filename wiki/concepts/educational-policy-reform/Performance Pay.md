@@ -76,8 +76,6 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 绩效工资（亦称 merit pay、payment by results、performance-related pay，简称 PRP）指将教师薪资报酬与其测量的教学表现或学生测试产出直接挂钩的制度安排。其核心假设是外在经济激励能够驱动教学质量提升与学生学业改进（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 103]]）。然而在教育治理实践中，该制度常演化为新自由主义问责的核心工具，不仅因测量指标失真、破坏专业合作生态以及缺乏跨国实证支撑而饱受批判（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 116–118]]），更在严密设计的现场随机试验中因教师群体的强烈伦理抗议与内在专业动机冲突而遭遇招募流产（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 55]]）。
 
@@ -250,14 +248,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 65 个参与 [[PISA]] 2012 的国家与经济体系统 | 跨国评估数据二次分析与政策[[Discourse\|话语]]解构 | 教师绩效工资（PRP）有无与学生 PISA 学业平均分 | 跨国全样本分析显示绩效工资与学生表现之间无统计相关；顶尖梯队（芬兰等）无绩效工资，中下游国家多有实施 | 不具有[[Statistical Significance\|统计显著性]] | 跨国截面数据证实宏观层面教师绩效工资对[[Academic Achievement\|学业成就]]无普适促进效应 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师绩效工资激励与辅导试验（[[Incentivised Pay and Coaching Trial\|ICR]]） | 教师/学校层级随机对照试验（[[Randomised Controlled Trials\|RCT]]） | 目标奖金资格[[Random Assignment\|随机化]]分配、学校与教师招募参与率 | 遭遇全英公立学校与教师工会系统性抵制，招募人数严重不达标，试验流产并被迫发布《关闭报告》 | 试验因招募流产未能完成主要结局效应量估算（未满足 [[Statistical Analysis Plan\|SAP]] 样本底线） | 严格 RCT 在发达国家公立学校教师薪酬领域的应用边界，证实该机制遭遇严重伦理与组织排斥 |
-
 > [!metax] [教师绩效工资 · Teacher performance pay](https://www.visiblelearningmetax.com/influences/view/teacher_performance_pay)
 > 学校 › 学校资源
 >
@@ -270,6 +260,14 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Pham et al. (2021) | Merit pay on student performance | 37 | NA | 244 | 0.05 |  |
 > > | Fitzpatrick et al. (2024) | Merit pay bonus amount | 25 | NA | 25 | -0.12 |  |
+
+> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 65 个参与 [[PISA]] 2012 的国家与经济体系统 | 跨国评估数据二次分析与政策[[Discourse\|话语]]解构 | 教师绩效工资（PRP）有无与学生 PISA 学业平均分 | 跨国全样本分析显示绩效工资与学生表现之间无统计相关；顶尖梯队（芬兰等）无绩效工资，中下游国家多有实施 | 不具有[[Statistical Significance\|统计显著性]] | 跨国截面数据证实宏观层面教师绩效工资对[[Academic Achievement\|学业成就]]无普适促进效应 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师绩效工资激励与辅导试验（[[Incentivised Pay and Coaching Trial\|ICR]]） | 教师/学校层级随机对照试验（[[Randomised Controlled Trials\|RCT]]） | 目标奖金资格[[Random Assignment\|随机化]]分配、学校与教师招募参与率 | 遭遇全英公立学校与教师工会系统性抵制，招募人数严重不达标，试验流产并被迫发布《关闭报告》 | 试验因招募流产未能完成主要结局效应量估算（未满足 [[Statistical Analysis Plan\|SAP]] 样本底线） | 严格 RCT 在发达国家公立学校教师薪酬领域的应用边界，证实该机制遭遇严重伦理与组织排斥 |
 
 ---
 

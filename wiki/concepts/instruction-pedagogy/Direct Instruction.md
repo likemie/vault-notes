@@ -105,8 +105,6 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > 直接教学（Direct Instruction, DI）是指一种由教师主动规划、高度结构化且循序渐进的显性教学模式。其核心教学流程包括：明确阐述学习目标、小步子分步示范（Modeling）、提供有指导的练习（Guided Practice）、高频检查理解并给予即时矫正性反馈，最终过渡到学生的独立练习与自动化巩固。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
 >
@@ -288,6 +286,25 @@ updated: 2026-10-22
 
 ---
 
+> [!metax] [直接教学 · Direct instruction](https://www.visiblelearningmetax.com/influences/view/direct_instruction)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 8 | 3,052 | 520,905 | 10,392 | 0.56 | 0.62 | ●●●●● |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | White (1988) | DI in special education | 25 | NA | 24 | 0.83 |  |
+> > | Adams & Engelmann (1996) | DI on reading | 37 | NA | 372 | 0.75 |  |
+> > | Borman et al. (2003) | DI from Comprehensive schools reforms | 232 | 42,618 | 182 | 0.21 |  |
+> > | Haas (2005) | DI in algebra | 10 | NA | 19 | 0.55 |  |
+> > | Stockard et al. (2018) | DI | 328 | NA | 3,999 | 0.54 |  |
+> > | Coughlin (2011) | DI | 20 | NA | 95 | 0.66 |  |
+> > | Alsowat (2020) | Explicit instruction on ELL | 2,361 | 478,287 | 5,662 | 0.59 |  |
+> > | Mason & Otero (2021) | DI | 39 | NA | 39 | 0.79 |  |
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -318,25 +335,6 @@ updated: 2026-10-22
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 29–30)]]<br>（审计 Haas, 2005 与 Hattie 数据库） | Haas (2005) 直接教学元分析（19 个效应量，$\text{SD} = 0.59$） | 统计审计与[[Inverse-Variance Weighting\|逆方差加权]]复核 | 二级元分析[[Standard Error\|标准误]]计算与权重分配 | Hattie 伪造标准误 $\text{SE} = 0.135$（$W = 54.9$），真实标准误 $\text{SE} = 0.092$（$W = 118.1$） | 权重被削减 53.5% | 揭示 Hattie 数据处理错误导致直接教学大样本高精度研究在总库中的权重被严重压低 |
 > | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | 六年级学生 | [[Control of Variables Strategy\|变量控制策略]]教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
 > | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 即时与延迟测验两组得分高度均等（Equivalence） | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒[[Inquiry-Based Learning\|探究式学习]]的绝对优势 |
-
-> [!metax] [直接教学 · Direct instruction](https://www.visiblelearningmetax.com/influences/view/direct_instruction)
-> 教学策略 › 教学方法
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 8 | 3,052 | 520,905 | 10,392 | 0.56 | 0.62 | ●●●●● |
->
-> > [!metax-ma]- 8 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | White (1988) | DI in special education | 25 | NA | 24 | 0.83 |  |
-> > | Adams & Engelmann (1996) | DI on reading | 37 | NA | 372 | 0.75 |  |
-> > | Borman et al. (2003) | DI from Comprehensive schools reforms | 232 | 42,618 | 182 | 0.21 |  |
-> > | Haas (2005) | DI in algebra | 10 | NA | 19 | 0.55 |  |
-> > | Stockard et al. (2018) | DI | 328 | NA | 3,999 | 0.54 |  |
-> > | Coughlin (2011) | DI | 20 | NA | 95 | 0.66 |  |
-> > | Alsowat (2020) | Explicit instruction on ELL | 2,361 | 478,287 | 5,662 | 0.59 |  |
-> > | Mason & Otero (2021) | DI | 39 | NA | 39 | 0.79 |  |
 
 ---
 
