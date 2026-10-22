@@ -9,10 +9,10 @@ aliases:
 summary: "源自亚里士多德实践哲学的核心认识论概念；指在特定道德、教育与工程情境中，个体超越机械规则与算法推演，权衡复杂变量并做出适切行动决断的实践智慧，涵盖课程审议、教师临床判断与产线实验排障手感。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/educational-philosophy
   - theme/curriculum-instruction
@@ -141,7 +141,7 @@ updated: 2026-10-23
 > **临床判断与实践理性论** 课程学者施瓦布（Joseph Schwab）提出“实践性（The Practical）”命题，指出教育困境无法依靠普适理论定律解决，而必须依赖教师在课堂现场对学生认知状态、情感氛围与意外生成的即时敏锐感知；比斯塔（Gert Biesta）进一步论证，当代教育问责制过度追求可测量的技术产出，严重挤压了教师运用实践明智开展教育性决断的专业自主空间。
 
 > [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
-> **实证偏见下的实践智慧边缘化与认识论正义** 坎贝尔等（Campbell et al., 2026）剖析了当代超国家证据治理体系对教育实践明智的制度性压制。国际证据机构将严谨性狭隘等同于量化实验设计与元分析效应量，使一线教师在真实复杂课堂中日积月累生成的实践智慧（Phronesis）被贬低为不具科学效度的非正规经验。实证主义证据等级推行了割裂本土情境的自上而下认识秩序；克服这一弊端必须倡导认识论正义，打破唯量化因果的知识霸权，确立一线教师实践智慧作为合法认识论资源在证据生态中的核心地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]
+> **实证偏见下的实践智慧边缘化与认识论正义** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）剖析了当代超国家证据治理体系对教育实践明智的制度性压制。国际证据机构将严谨性狭隘等同于量化实验设计与元分析效应量，使一线教师在真实复杂课堂中日积月累生成的实践智慧（Phronesis）被贬低为不具科学效度的非正规经验。实证主义证据等级推行了割裂本土情境的自上而下认识秩序；克服这一弊端必须倡导认识论正义，打破唯量化因果的知识霸权，确立一线教师实践智慧作为合法认识论资源在证据生态中的核心地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]
 
 ---
 
