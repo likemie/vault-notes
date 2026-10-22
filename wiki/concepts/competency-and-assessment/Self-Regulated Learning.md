@@ -225,12 +225,6 @@ updated: 2026-10-22
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis\|元分析]]显示自我调节学习能力显著调节生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的效应：高自律学生 g = 0.863，低自律学生仅 g = 0.284。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为[[Man-Computer Symbiosis|人机协同]]中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [自我调节策略 · Self-regulation strategies](https://www.visiblelearningmetax.com/influences/view/self-regulation_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >

@@ -4,6 +4,11 @@ aliases:
   - 复式班级
 summary: "Visible Learning MetaX 因素复式／混龄班级的条目，归属课堂 › 班级构成；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Multi-Grade Classes
-
-## Visible Learning MetaX
 
 > [!metax] [复式／混龄班级 · Multi-grade / age classes](https://www.visiblelearningmetax.com/influences/view/multi-grade~age_classes)
 > 课堂 › 班级构成

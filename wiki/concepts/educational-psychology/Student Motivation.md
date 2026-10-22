@@ -4,6 +4,11 @@ aliases:
   - 学生学习动机
 summary: "Visible Learning MetaX 因素动机、动机项目、任务价值感知的条目，归属学生 › 动机取向；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Student Motivation
-
-## Visible Learning MetaX
 
 > [!metax] [动机 · Motivation](https://www.visiblelearningmetax.com/influences/view/motivation)
 > 学生 › 动机取向
@@ -56,7 +59,7 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Waluyohadi (2019) 在列表中重复出现。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 19 项，研究数 1,226，加权平均效应量 0.46，未加权平均效应量 0.51（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 19 项，研究数 1,226，加权平均效应量 0.46，未加权平均效应量 0.51（仅供参考，尚未经文献核实）。
 
 > [!metax] [动机项目 · Motivation programs](https://www.visiblelearningmetax.com/influences/view/motivation_programs)
 > 课程 › 其他课程项目

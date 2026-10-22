@@ -9,7 +9,7 @@ aliases:
 summary: "指个体在正式获得合格教师资格（QTS）并独立执教前所接受的系统性专业职前准备阶段，涵盖大学本位培养、校本学徒制及混合临床实践模式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Rationalized Myth]]"
   - "[[Evidence Era]]"
+  - "[[Teacher Qualifications]]"
   - "[[Technical Rationality]]"
 related_theories: []
 related_methods:
@@ -145,7 +146,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 概念演变
-> - **1984 年 — 显性国家介入的开端** 成立[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE），首次以中央通令规范职前课程标准与教师资质认证。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
+> - **1984 年 — 显性国家介入的开端** 成立[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE），首次以中央通令规范职前课程标准与[[Teacher Qualifications|教师资质]]认证。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **1994 年 — 专门官僚机构统管** 依据《1994年教育法》成立[[Teacher Training Agency\|教师培训署]]（TTA），直接掌控招生指标拨款与全国培训课程大纲。
 > - **2010 年 — 学校主导[[Paradigm\|范式]]转向** 联合政府发布[[The Importance of Teaching\|《教学的重要性》]]白皮书，大力推行校本培训（SCITT）与学校直通车（School Direct），削减大学配额。
 > - **2015 年 — 循证质量重构** [[Carter Review of Initial Teacher Training\|卡特审查]]出台，建议以循证研究重塑 ITT 核心课程。
@@ -170,12 +171,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [职前教师教育 · Initial teacher education programs](https://www.visiblelearningmetax.com/influences/view/initial_teacher_education_programs)
 > 教师 › 教师教育

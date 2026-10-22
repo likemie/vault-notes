@@ -212,10 +212,6 @@ updated: 2026-10-22
 > | Trachtenburg and Ferruggia (1989) | 处境不利阅读困难初学者 | 准实验教学干预 | 故事大书共享阅读结合文学情境化拼读教具制作 | 词汇量与阅读理解获得实质性飞跃 | $d = 1.70$（极高效益） | 高效案例因包含情境化[[Decodification\|解码]]被 Hattie 选择性排除在全语言分析之外（p. 148） |
 > | Hattie (2009)（引自 [[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 97]]） | 综合 4 项存在严重分歧的元分析（0.09, 0.15, 0.65, -0.65） | [[Meta-meta-analysis\|二阶元分析]]简单算术平均 | 全语言教学 vs 常规阅读教学 | 报告加权平均效应量极低 | $d = 0.06$（影响可忽略） | [[Ivan Snook\|斯努克]]等指出底层元分析因编码标准不同而结论对立，简单平均掩盖了真实的方法论危机 |
 
----
-
-## Visible Learning MetaX
-
 > [!metax] [全语言教学 · Whole language approach](https://www.visiblelearningmetax.com/influences/view/whole_language_approach)
 > 课程 › 读写与艺术
 >

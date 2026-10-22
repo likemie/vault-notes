@@ -4,6 +4,11 @@ aliases:
   - 非专业对口教学
 summary: "Visible Learning MetaX 因素专业对口与非对口教学的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "teacher-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Out-of-Field Teaching
-
-## Visible Learning MetaX
 
 > [!metax] [专业对口与非对口教学 · In vs Out of field teaching](https://www.visiblelearningmetax.com/influences/view/in_vs_out_of_field_teaching)
 > 教师 › 教师教育

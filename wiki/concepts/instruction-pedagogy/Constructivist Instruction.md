@@ -9,7 +9,7 @@ aliases:
 summary: "以学习者主动建构意义为核心的教学系统，主张通过创设真实情境、激活先备经验、嵌入认知支架与促进社会协作达成概念转变与深层理解。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 63
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Discovery Learning]]"
   - "[[Metacognition]]"
   - "[[Direct Instruction]]"
+  - "[[Deliberate Practice]]"
   - "[[Problem-Based Learning]]"
   - "[[Procedural Skill]]"
   - "[[Zone of Proximal Development]]"
@@ -110,7 +111,7 @@ updated: 2026-10-22
 > [!boundary]- 概念边界
 > - **与[[Constructivist Paradigm\|建构主义范式]]的区别** 建构主义[[Paradigm\|范式]]是研究哲学、[[Epistemic Stances\|认识论立场]]与社会理论世界观（解释人如何理解经验、知识如何被社会建构）；建构主义教学则是落实在课堂层面的具体教学法与教学论设计系统。
 > - **与放任式[[Discovery Learning\|发现学习]]的区别** 成熟的建构主义教学高度依赖结构化认知与[[Metacognition\|元认知]]支架；纯粹缺乏指导的发现学习容易造成认知超载，与强调严密支架的成熟建构主义教学形态存在本质区别。
-> - **与[[Direct Instruction\|直接教学]]的区别** 直接教学以教师主导的概念精讲、步骤示范与刻意练习为核心，侧重程序与事实的熟练掌握；建构主义教学以学生主动探究、假设检验与模型修正为主线，侧重概念理解与意义生成。
+> - **与[[Direct Instruction\|直接教学]]的区别** 直接教学以教师主导的概念精讲、步骤示范与[[Deliberate Practice|刻意练习]]为核心，侧重程序与事实的熟练掌握；建构主义教学以学生主动探究、假设检验与模型修正为主线，侧重概念理解与意义生成。
 
 ---
 
@@ -292,12 +293,6 @@ updated: 2026-10-22
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 论证 | [[Meta-analysis\|元分析]]证实指导式探究与结构化支架建构教学高效能的实证研究。 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 论证“学习即建构”驱动教师显性指导与主动激活角色的旗舰论文。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判折衷建构主义导致文化实体蒸发与教学论双重瓦解的哲学论证。 |
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [建构主义教学 · Constructivist teaching](https://www.visiblelearningmetax.com/influences/view/constructivist_teaching)
 > 教学策略 › 教学方法

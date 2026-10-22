@@ -4,6 +4,11 @@ aliases:
   - 同伴互评
 summary: "Visible Learning MetaX 因素同伴互评的条目，归属教学策略 › 反馈；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Peer Assessment
-
-## Visible Learning MetaX
 
 > [!metax] [同伴互评 · Peer assessment](https://www.visiblelearningmetax.com/influences/view/peer_assessment)
 > 教学策略 › 反馈

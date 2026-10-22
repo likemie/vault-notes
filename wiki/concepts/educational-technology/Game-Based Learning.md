@@ -1,9 +1,14 @@
 ---
 title: Game-Based Learning
 aliases:
-  - 游戏化学习
+  - 基于游戏的学习
 summary: "Visible Learning MetaX 因素游戏化学习、英语二语游戏化学习、语言游戏化学习、数学游戏化学习、科学游戏化学习、电子游戏的条目，归属技术、学校与校外策略 › 游戏化；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-technology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Game-Based Learning
-
-## Visible Learning MetaX
 
 > [!metax] [游戏化学习 · Gaming](https://www.visiblelearningmetax.com/influences/view/gaming)
 > 技术、学校与校外策略 › 游戏化
@@ -60,7 +63,7 @@ updated: 2026-10-22
 > > [!metax-errata] 3 条
 > > - ∑ **自动核算 · 疑似重复** Xiaoling et al. (2021) 与 Hu et al. (2021) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
 > > - ∑ **自动核算 · 疑似重复** Duan (2017) 与 Chunyu (2017) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,126，加权平均效应量 0.40，未加权平均效应量 0.59（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,126，加权平均效应量 0.40，未加权平均效应量 0.59（仅供参考，尚未经文献核实）。
 
 > [!metax] [英语二语游戏化学习 · Gaming in ESL](https://www.visiblelearningmetax.com/influences/view/gaming_in_esl)
 > 技术、学校与校外策略 › 游戏化

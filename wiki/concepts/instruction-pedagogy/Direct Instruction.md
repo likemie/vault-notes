@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 72
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Discovery Learning]]"
   - "[[Creativity]]"
   - "[[Feedback]]"
+  - "[[Lecturing]]"
   - "[[Structured Teaching]]"
   - "[[Problem-Based Learning]]"
   - "[[Wicked Problem]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Category Mistake]]"
   - "[[Visible Learning]]"
+  - "[[Worked Examples]]"
   - "[[Effective Teaching]]"
   - "[[Scientific Explanation]]"
   - "[[Open-Mindedness]]"
@@ -127,7 +129,7 @@ updated: 2026-10-22
 > *Direct instruction involves the teacher providing explicit learning goals, demonstrating steps clearly, checking student understanding frequently, and providing immediate corrective [[Feedback]].*
 
 > [!boundary]- 概念边界
-> - **不等于单向满堂灌（Rote Lecturing）** 纯粹讲授缺乏高频的理解检查与即时纠错练习；直接教学要求师生之间保持高密度的互动与结构化提问。
+> - **不等于单向满堂灌（Rote [[Lecturing]]）** 纯粹讲授缺乏高频的理解检查与即时纠错练习；直接教学要求师生之间保持高密度的互动与结构化提问。
 > - **不等于[[Structured Teaching\|结构化教学]]（Structured Teaching）** 结构化教学是更上位的课堂组织范畴，直接教学是其经典实现路径，但高结构课堂亦可容纳结构化的小组辩论或项目探究。
 > - **不等于问题导向学习（[[Problem-Based Learning]], PBL）** PBL 强调以真实[[Wicked Problem|劣构问题]]为起点由学生自主推理；直接教学则强调在学生尚未形成先验[[Knowledge Framework\|知识框架]]时由教师先搭设明晰的规则体系。
 
@@ -230,7 +232,7 @@ updated: 2026-10-22
 > 探讨直接教学在宏观证据合成中因干预时长与对照基线差异引发的[[Incommensurability|不可通约性]]（[[Incommensurability]]），以及元分析计算错误如何严重低估其统计权重。
 
 > [!claim] Wecker et al.
-> **宏观全学年方案与微观实验室干预的不可[[Commensuration|通约]]性（[[Category Mistake|德甲联赛隐喻]]）** [[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker, 2016）等人指出，直接教学属于学校层面的“综合教学方案（Comprehensive Pedagogical Programs）”，其实施周期通常以整学期或整学年计，其对比基准为常规常态讲授。在《[[Visible Learning|可见的学习]]》排行榜中，哈蒂将持续一整年的直接教学与仅历时 1.5 小时的受控实验室样例学习（Worked Examples, Renkl, 2015）并列比较，犯下了根本性的范畴错误。若将微观样例学习的瞬时效应（$d \approx 0.60$）线性外推至 4 周课程，其理论效应将膨胀至 2.40，但在常规教学中效应必然大幅衰减。将性质迥异的微观瞬时技术与宏观全学年改革排在同一张表上，如同在德甲联赛中强行比较不可通约的对象；教师在实践中并非在直接教学与分布式练习之间做非此即彼的单选，而是探索二者的最优组合。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> **宏观全学年方案与微观实验室干预的不可[[Commensuration|通约]]性（[[Category Mistake|德甲联赛隐喻]]）** [[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker, 2016）等人指出，直接教学属于学校层面的“综合教学方案（Comprehensive Pedagogical Programs）”，其实施周期通常以整学期或整学年计，其对比基准为常规常态讲授。在《[[Visible Learning|可见的学习]]》排行榜中，哈蒂将持续一整年的直接教学与仅历时 1.5 小时的受控实验室[[Worked Examples|样例学习]]（Worked Examples, Renkl, 2015）并列比较，犯下了根本性的范畴错误。若将微观样例学习的瞬时效应（$d \approx 0.60$）线性外推至 4 周课程，其理论效应将膨胀至 2.40，但在常规教学中效应必然大幅衰减。将性质迥异的微观瞬时技术与宏观全学年改革排在同一张表上，如同在德甲联赛中强行比较不可通约的对象；教师在实践中并非在直接教学与分布式练习之间做非此即彼的单选，而是探索二者的最优组合。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 > [!claim] Wecker et al.
 > **伪造[[Standard Error|标准误]]导致高质量直接教学元分析权重腰斩过半** 韦克尔等人的实证审计揭示，哈蒂在汇总直接教学效应量时存在严重的低级计算错误。在处理哈斯（Haas, 2005）的直接教学元分析时，该研究报告了 19 个效应量（离散标准差 $\text{SD} = 0.59$），哈蒂未核查原始[[Sample Size Determination|样本量]]，直接拿标准差除以根号 19 拼凑伪标准误：$\text{SE} = 0.59 / \sqrt{19} \approx 0.135$。依据原始研究真实样本量计算的真实标准误应为 $0.092$。这一除数错误使哈斯直接教学元分析在总体加权中的逆方差权重从 $W = 1/(0.092)^2 \approx 118.1$ 骤降至 $W = 1/(0.135)^2 \approx 54.9$，其在大样本总分中的分量被人为削减了 53.5%，严重贬抑了高质量直接教学实证研究的统计贡献。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
@@ -286,7 +288,7 @@ updated: 2026-10-22
 > > - **学习科学派（De Jong, Hmelo-Silver, Chinn）** 批驳直接教学绝对优越论，指出直接教学对于抽象概念理解与长效保持具有天然局限，必须将其作为支架有机嵌入探究进程。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]
 >
 > > [!axis] 宏观全学年教学方案 vs 微观瞬时实验干预的[[Incommensurability|不可通约性]]（[[Category Mistake|德甲联赛隐喻]]）
-> > 争论直接教学能否与微观瞬时干预（如 1.5 小时的样例学习）在同一张[[Effect Size|效应量]]排行榜上直接比拼高下。
+> > 争论直接教学能否与微观瞬时干预（如 1.5 小时的[[Worked Examples|样例学习]]）在同一张[[Effect Size|效应量]]排行榜上直接比拼高下。
 > >
 > > - **宏观粗放排序派（Hattie, 2009）** 将直接教学（$d = 0.59$）与所有教学微观技术排在同一线性座次表上，宣扬跨情境普适效能。
 > > - **范畴区分与组合派（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）** 指出直接教学是贯穿整学年的综合模式，微观实验无法线性外推，二者时间尺度与对照基线完全不可比；教学决策的精髓在于探索直接教学与分布式练习的最优组合（德甲联赛隐喻，p. 34）。
@@ -346,12 +348,6 @@ updated: 2026-10-22
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [直接教学 · Direct instruction](https://www.visiblelearningmetax.com/influences/view/direct_instruction)
 > 教学策略 › 教学方法

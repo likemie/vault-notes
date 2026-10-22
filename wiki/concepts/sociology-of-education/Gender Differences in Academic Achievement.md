@@ -8,7 +8,7 @@ aliases:
 summary: "男女学生在学业成绩、微观学术任务及认知信念上呈现的系统性差异。既有实证揭示女生在平时总评与良构/劣构任务上普遍领先，其机制受学校规范适应、学习动机投入、能力可塑性信念及关系性认知方式的共同驱动。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,12 +31,14 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Domain Specificity]]"
   - "[[Epistemology]]"
+  - "[[Counseling Effects]]"
   - "[[Socioeconomic Status]]"
   - "[[Halo Effect]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Conatus]]"
   - "[[Simplicity of Knowledge]]"
+  - "[[Tutoring Interventions]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
   - "[[Growth Mindset]]"
@@ -127,7 +129,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **规范与动机中介** | 性别差异主要经由课堂规范适应与持续工作努力等过程变量间接传导。 | 课堂行为管理、评价偏差控制与动机辅导 | Lekhal et al. |
 > | **学业与[[Epistemology\|认识论]]双领先** | 女生在长周期成绩与良构/[[Task Structure\|劣构任务]]上全面领先，受更成熟的成长型能力观与真理演变观支撑。 | 中学科学教育、良构与劣构任务实验 | Lodewyk |
-> | **心理性别角色转向** | 超越生理二分，引入心理性别取向与关系性认识方式能更深层解释学业分化。 | 性别平等教育、学术角色认同与心理辅导 | Pintrich; Lodewyk |
+> | **心理性别角色转向** | 超越生理二分，引入心理性别取向与关系性认识方式能更深层解释学业分化。 | 性别平等教育、学术角色认同与[[Counseling Effects\|心理辅导]] | Pintrich; Lodewyk |
 
 ---
 
@@ -159,10 +161,6 @@ updated: 2026-10-22
 > | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | 4,128名挪威5–10年级中小学生 | [[Questionnaire\|问卷调查]]与多元分层回归 | 教师评定成绩、学生自评成绩、[[School Norm Adaptation\|学校规范适应]]、动机[[Conatus\|努力]]、[[Self-control\|自我控制]] | 女生教师评定成绩整体显著高于男生；规范适应与动机努力是核心预测源；性别变量在模型末端仅解释约 0.2% 方差 | 男生模型 Adjusted $R^2 = .483$；女生模型 Adjusted $R^2 = .452$；性别增量 $p < .05$ | 证实性别对成绩的影响主要是经由校内行为与评价机制交互实现的间接作用 |
 > | [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | 447名加拿大十年级科学课学生（及89名实验子样本） | 组内平衡实验、独立样本 t 检验与 [[Multivariate Analysis of Variance\|MANOVA]] | 生理性别（男/女）、EOAA、WST 表现、IST 表现、[[Epistemology\|认识论]]三因子（FQAL, [[Simplicity of Knowledge\|SK]], CK） | 女生在所有学业指标上全面显著领先：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST $t(87) = 2.92, p = .004, ES = .58$；IST $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明女生在科学学业表现上的全面优势受更成熟的能力可塑性与不确定性容忍信念驱动 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | [[John Hattie\|哈蒂]]《[[Visible Learning\|可见的学习]]》[[Meta-meta-analysis\|二阶元分析]]数据库及跨国社会学对比 | 统计审计与文献溯源 | 男孩相比女孩学业成就[[Effect Size\|效应量]]；跨国学业表现事实 | 哈蒂宣称男孩优于女孩（$d = 0.12$）；经验现实显示工业化国家中女孩整体及阅读全面领先 | — | 证实无加权二阶[[Meta-analysis\|元分析]]将研究数量混同于现实总体，且因未校准基线导致计算结果与经验事实直接相悖 |
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [性别差异 · Gender (male-female)](https://www.visiblelearningmetax.com/influences/view/gender_(male-female))
 > 学生 › 生理因素
@@ -262,7 +260,7 @@ updated: 2026-10-22
 > [!example] 典型研究与干预案例
 > - **中学科学双任务测评中的性别表现对比（[[Argument_Lodewyk_2007_EducPsych\|Lodewyk, 2007]]）**
 >   十年级科学实验中，女生在良构生活方式任务（$ES = .58$）与劣构癌症辩护任务（$ES = .44$）中均取得显著优势，展示出在规则执行与复杂价值权衡上的双重适应力。
-> - **课堂规范适应与归因辅导干预（[[Argument_Lekhal_2015_Paideia\|Lekhal et al., 2015]]）**
+> - **课堂规范适应与归因[[Tutoring Interventions|辅导干预]]（[[Argument_Lekhal_2015_Paideia\|Lekhal et al., 2015]]）**
 >   针对男生在行为规范与持续努力上的劣势，开展[[Self-control\|自我控制]]训练与[[Growth Mindset|成长型思维]]辅导以缩小性别学业差距。
 
 ---

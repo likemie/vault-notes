@@ -241,8 +241,19 @@ def is_media_target(target: str) -> bool:
 
 
 
+# Generated Visible Learning MetaX blocks ([!metax], [!metax-ma], [!metax-errata],
+# [!metax-domain], [!metax-subdomain], [!metax-factors], [!metax-chips]) are data
+# tables maintained by scripts/metax_sync.py. Their links (cited meta-analyses,
+# the 440-influence index) must not become related_* YAML, or frontmatter explodes.
+METAX_BLOCK_RE = re.compile(r"^>[ \t]*\[!metax[\w-]*\][^\n]*(?:\n>[^\n]*)*", re.M)
+
+
+def strip_metax_blocks(text: str) -> str:
+    return METAX_BLOCK_RE.sub("", text)
+
+
 def extract_wikilinks(text: str) -> list[tuple[str, str | None]]:
-    text = strip_code_fences(text)
+    text = strip_metax_blocks(strip_code_fences(text))
     links: list[tuple[str, str | None]] = []
     seen: set[tuple[str, str | None]] = set()
     for m in WIKILINK_RE.finditer(text):

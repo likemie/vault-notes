@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 57
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,12 +38,14 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Feedback]]"
   - "[[Gamification]]"
+  - "[[Attitude Towards Content Domains]]"
   - "[[Working Memory]]"
   - "[[Problem Solving]]"
   - "[[Task Structure]]"
   - "[[Variable]]"
   - "[[Control of Variables Strategy]]"
   - "[[AI Agent in Education]]"
+  - "[[Co-Teaching]]"
   - "[[Informationalization]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
@@ -147,7 +149,7 @@ updated: 2026-10-22
 > [!taxonomy] 数字化教学工具的功能谱系与认知定位（Hillmayr et al., 2020）
 > - **辅导与智能辅导系统（Tutorials & ITS）** 结构化引导全新概念与技能建构，具备自适应诊断与分步支持，学业提升效应最为突出。
 > - **动态模拟与建模工具（Simulations & Modeling）** 呈现动态数学图景或虚拟理化实验，促进学习者对复杂因果现象的直观感悟。
-> - **教育游戏与[[Gamification\|游戏化]]工具（Educational Games）** 融合关卡挑战与激励体系，显著激发学生的学习兴趣与学科态度，但认知效能依赖教学整合。
+> - **教育游戏与[[Gamification\|游戏化]]工具（Educational Games）** 融合关卡挑战与激励体系，显著激发学生的学习兴趣与[[Attitude Towards Content Domains|学科态度]]，但认知效能依赖教学整合。
 > - **操练与练习程序（Drill-and-Practice）** 聚焦既有知识的检索强化，适合自动化技能训练，无力独立支撑深层概念建构。
 > - **超媒体与信息系统（Hypermedia Systems）** 提供网状信息资源，但非线性结构极易导致学习者认知负荷超载。
 > - **交流与协作工具（Communication & Collaboration）** 支撑师生及生生研讨互动，但技术本身不自动保证有效对话，依赖严密的教学法脚本。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 15)]]
@@ -240,7 +242,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **认知负荷调控与解题步骤支持** | 步骤级自适应诊断与微线索[[Scaffolding\|脚手架]]降低工作记忆负担，促进程序技能内化 | 中小学数学演算、计算机编程与理科多步骤解题 | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]; Tasdelen & Bodemer |
 > | **功能范式与知识形态的效能分化** | 具备认知建模与自适应引导的辅导系统促学效应显著超越传统操练与超媒体 | 中学数学、物理、化学与自然科学良构概念建构 | Hillmayr et al.; Khazanchi et al. |
-> | **人机协同教学与专业支持调节** | 智能系统无法独立替代教师，其实际效能高度依附于教师教学法培训的深度协同 | 基础教育[[Informationalization\|信息化]]课堂常态化教学与技术融合 | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] |
+> | **人机[[Co-Teaching\|协同教学]]与专业支持调节** | 智能系统无法独立替代教师，其实际效能高度依附于教师教学法培训的深度协同 | 基础教育[[Informationalization\|信息化]]课堂常态化教学与技术融合 | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] |
 > | **探究过程挖掘与人机双轨支架** | 突破良构解题局限，利用过程日志挖掘与教师看板构建人机协同双轨探究支架 | 虚拟实验室科学探究、变量控制策略习得与跨学期远迁移 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; Gobert et al. (2023) |
 
 ---
@@ -256,7 +258,6 @@ updated: 2026-10-22
 > - **2020年代 探究式系统（[[Inq-ITS]]）与[[Man-Computer Symbiosis|人机协同]]看板前沿拓展** 突破纯良构符号解题[[Paradigm\|范式]]，将教育数据挖掘与自然语言处理应用于开放科学探究过程，通过内置对话代理（Rex）与教师实时看板（[[Inq-Blotter]]）构建人机双轨支架，实现科学探究技能跨学期远迁移。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 9–10)]]
 > - **2020年代中期 生成式大模型复合架构探索** 随着大语言模型兴起，学界尝试将大模型的开放语义理解能力与传统 ITS 的确定性领域规则引擎相结合，探索高稳健性、低成本的新一代教育智能辅导[[Paradigm\|范式]]。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
 > - **2026 年 — Q-Tutor 提问型导师：对直接答案范式的教育哲学批判与逆向重构** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 从[[Virtue Epistemology|美德认识论]]（Virtue [[Epistemology]]）出发，对包括传统 ITS 在内的所有倾向于直接输出答案的智能辅导系统提出根本性批判：此类系统虽能逐步提示步骤，但在设计逻辑上仍以最终答案为终点，当学习者触达底层线索时等同于[[Cognitive Offloading|认知外包]]。Naeem 提出提问型导师（Question-Tutor, Q-Tutor）作为替代架构：系统通过内置直接答案拦截规则，彻底拒绝向学生输出任何形式的现成结论，转而以层层递进的封闭→开放提问序列引导学生独立[[Constructed Knowledge|建构知识]]，将 AI 的角色从答案传递者彻底转变为认知挣扎的催化者，以防范[[Cognitive Deskilling\|认知去技能化]]与[[Creativity|创造力]]萎缩。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 274–278)]]
-
 
 ---
 
@@ -320,15 +321,11 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 探讨从传统确定性智能辅导系统向[[Generative Artificial Intelligence\|生成式人工智能]]共生学习演进中的[[Epistemic Stances\|认识立场]]分化，提出结合[[Chain-of-Thought Prompting\|思维链提示]]与教学评议的双轨支架体系以捍卫人类[[Epistemic Agency\|认识主体性]]。
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明探究式智能导师系统（[[Inq-ITS]]）利用教育数据挖掘追踪复杂科学探究技能、通过智能代理（Rex）提供自适应微观支架，并借助实时教师看板（[[Inq-Blotter]]）实现人机双轨协同教学与跨学期远迁移的前沿机制。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明探究式智能导师系统（[[Inq-ITS]]）利用教育数据挖掘追踪复杂科学探究技能、通过智能代理（Rex）提供自适应微观支架，并借助实时教师看板（[[Inq-Blotter]]）实现人机双轨[[Co-Teaching|协同教学]]与跨学期远迁移的前沿机制。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在教育[[AI Agent in Education\|人工智能智能体]]促学[[Meta-analysis\|元分析]]中将智能导师系统作为核心分析类型，证实其对基础教育学段认知表现具有显著的正向促进效应（$g = 0.540$），通过步骤级自适应线索精准支持学习者的[[Procedural Skill\|程序性技能]]习得。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 评述 Hillmayr et al.（2020）对中学理科数字工具的元分析（k = 92）：智能辅导系统效应最大（g = 0.65），教师教学法培训是关键调节因素。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 在关于[[Epistemic Dependence\|认识依赖]]的[[Critical Review\|批判性综述]]中，将传统智能导师系统的步骤级透明规则协助作为对照基准，深入辨析其与生成式大语言模型在知识确证分工、协助形态分层（过程性协助 vs 承载判断型协助）及认知可恢复性维护上的本质分野。
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 从[[Virtue Epistemology|美德认识论]]出发对传统 ITS 的直接答案导向设计逻辑提出根本性批判，提出提问型导师（Q-Tutor）作为颠覆性替代架构：以直接答案拦截规则与封闭→开放问题递进序列，将智能导师从答案传递者重构为认知挣扎的催化者，从而防范[[Cognitive Deskilling\|认知去技能化]]并培育[[Epistemic Virtues and Vices|理智美德]]。
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [智能导学系统 · Intelligent tutoring systems](https://www.visiblelearningmetax.com/influences/view/intelligent_tutoring_systems)
 > 技术、学校与校外策略 › 辅导／多媒体
@@ -358,5 +355,4 @@ updated: 2026-10-22
 > | **[[Computer Simulation\|虚拟仿真]]与科学探究** | 虚拟实验室假说检验、[[Variable\|变量]]控制与数据推论 | 操作日志挖掘、智能代理（Rex）微观支架与教师看板（[[Inq-Blotter]]） | 探究技能显著提升并实现跨学期远迁移；Gobert et al. (2023)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
 > | **人文历史与社会科学** | 多源史料阅读、时空轴线图式构建 | 事实问答导学、因果线索自适应触发与结构化评测 | 人文事实与图式识记效应显著（$g = 0.52$）；Chen et al. (2025)，引自同上 |
 > | **中学几何与高阶证明** | 辅助线构造、严密逻辑演绎推导 | 产生式规则推理与逆向推演检验 | 面对非标准高阶劣构证明时干预效应温和；Khazanchi et al. (2025)，引自同上 |
-
 

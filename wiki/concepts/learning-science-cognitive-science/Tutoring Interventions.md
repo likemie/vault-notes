@@ -4,6 +4,11 @@ aliases:
   - 辅导干预
 summary: "Visible Learning MetaX 因素一对一辅导、辅导的条目，归属学生学习策略 › 学生导向干预；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Tutoring Interventions
-
-## Visible Learning MetaX
 
 > [!metax] [一对一辅导 · One-on-One tutoring](https://www.visiblelearningmetax.com/influences/view/one-on-one_tutoring)
 > 学生学习策略 › 学生导向干预

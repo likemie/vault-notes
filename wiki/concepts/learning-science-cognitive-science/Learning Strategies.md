@@ -4,6 +4,11 @@ aliases:
   - 学习策略
 summary: "Visible Learning MetaX 因素学习策略的条目，归属学生学习策略 › 学习策略；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Learning Strategies
-
-## Visible Learning MetaX
 
 > [!metax] [学习策略 · Learning strategies](https://www.visiblelearningmetax.com/influences/view/learning_strategies)
 > 学生学习策略 › 学习策略
@@ -58,4 +61,4 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Kim, Kim, Lee, Park, Hong, & Kim (2008b) 与 Kim et al. (2018) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,211，加权平均效应量 0.74，未加权平均效应量 0.71（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,211，加权平均效应量 0.74，未加权平均效应量 0.71（仅供参考，尚未经文献核实）。

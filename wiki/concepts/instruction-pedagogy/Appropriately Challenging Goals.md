@@ -4,6 +4,11 @@ aliases:
   - 适度挑战性目标
 summary: "Visible Learning MetaX 因素适度挑战性目标的条目，归属教学策略 › 学习意图；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Appropriately Challenging Goals
-
-## Visible Learning MetaX
 
 > [!metax] [适度挑战性目标 · Appropriately challenging goals](https://www.visiblelearningmetax.com/influences/view/appropriately_challenging_goals)
 > 教学策略 › 学习意图

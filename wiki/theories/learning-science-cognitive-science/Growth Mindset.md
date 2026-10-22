@@ -15,7 +15,7 @@ aliases:
 summary: "关于人类能力与智力可塑性的内隐认知信念系统，区分视智力为固定不变的天赋实体观（固定型思维）与视智力为可通过学习、努力与策略持续拓展的增量发展观（成长型思维），深层影响学业动机、面对失败的韧性、同伴文化的评价机制以及大规模现场干预的转化效度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 37
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Intercultural Education]]"
   - "[[Evidence-Based Education]]"
+  - "[[Deliberate Practice]]"
   - "[[Construct]]"
   - "[[Talent Assumption]]"
   - "[[Zero-Sum Competition]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Academic Engagement]]"
   - "[[Homework]]"
+  - "[[Learning Strategies]]"
   - "[[Paradigm]]"
   - "[[Epistemic Responsibility]]"
   - "[[Self-Efficacy]]"
@@ -89,7 +91,7 @@ updated: 2026-10-22
 > - **知识位置** 认知心理学、动机心理学与学习科学；代表人物为卡罗尔·德韦克（Carol Dweck），后经文化心理学学者拓展至[[Intercultural Education|跨文化教育]]比较领域，并在当代[[Evidence-Based Education\|循证教育]]试验中成为规模化复制与去魅反思的焦点议题。
 
 > [!claim] 核心主张
-> 个体持有的智力内隐信念构成了组织其成就动机与解释学习体验的核心心理架构：持有智力实体观（固定型思维）者将智力视作天赋给予且难以变更的固定实体，倾向于将努力视作能力匮乏的负面表征，面对挑战易诱发防御性放弃与[[Learned Helplessness\|习得性无助]]；持有智力增长观（成长型思维）者视智力为可通过刻意练习、策略探索与持续投入而不断拓展的发展性属性，视挫折为掌握过程中的信息反馈，表现出更高的韧性与抗逆力。然而，成长型思维在常态教育体系中的规模化落地受制于学校既有教学基线与微观生态，并非能够自动消除处境不利学业鸿沟的独立灵丹妙药。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 58–59)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 54, 57)]]
+> 个体持有的智力内隐信念构成了组织其成就动机与解释学习体验的核心心理架构：持有智力实体观（固定型思维）者将智力视作天赋给予且难以变更的固定实体，倾向于将努力视作能力匮乏的负面表征，面对挑战易诱发防御性放弃与[[Learned Helplessness\|习得性无助]]；持有智力增长观（成长型思维）者视智力为可通过[[Deliberate Practice|刻意练习]]、策略探索与持续投入而不断拓展的发展性属性，视挫折为掌握过程中的信息反馈，表现出更高的韧性与抗逆力。然而，成长型思维在常态教育体系中的规模化落地受制于学校既有教学基线与微观生态，并非能够自动消除处境不利学业鸿沟的独立灵丹妙药。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 58–59)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 54, 57)]]
 
 > [!citation-card] 关键表述
 > 实体论与增长论智力观（entity versus incremental intelligence）是关于智力本质的两种基础信念。实体论者视智力为一种非此即彼的固定品质；增长论者视智力为可以通过学习和掌握来持续拓展的潜能。西方文化中的青少年往往认为“努力是低能力的标志——聪明的人不需要努力”；而东亚学习信念则将努力视作能力的直接源泉，赋予持续勤勉以崇高的道德与学业合法性。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 59, 97, 109)]]
@@ -199,7 +201,7 @@ updated: 2026-10-22
 > - **谨慎使用** 解释长周期、重度依赖物质资本与社会资本的跨代际学业流动；在极度资源匮乏或严重认知障碍群体中，思维干预的边际效益极低。
 > - **不适合解释** 制度层面的招生配额、学校财政拨款差距、以及由于生理神经退行性病变导致的认知功能衰减。
 > - **常见误用** 
->   - **假性成长型思维（False Growth Mindset）** 将成长型思维庸俗化为“只要盲目夸奖孩子努力即可”，忽视了指导孩子探索有效学习策略与深度理解错误实质的专业要求；
+>   - **假性成长型思维（False Growth Mindset）** 将成长型思维庸俗化为“只要盲目夸奖孩子努力即可”，忽视了指导孩子探索有效[[Learning Strategies|学习策略]]与深度理解错误实质的专业要求；
 >   - **心理学还原论与受害者有罪论** 将社会底层弱势儿童的学业失败归因于他们“缺乏成长型心态”，从而为公共教育财政缩减与结构性改革缺位提供借口。
 
 ---
@@ -232,12 +234,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 实证研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 《文化归属：东西方学习信念比较研究》，系统论证实体智力观与西方[[Talent Assumption\|天赋假设]]、[[Intellectual-Social Divide\|知性-社交二分]]以及针对努力者的 [[Nerd]] 同伴制裁之间的因果关联，确立东亚勤勉信念的保护性文化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation\|EEF]] 资助的“改变思维（Changing Mindsets）”大规模全校效果试验（Foliano et al., 2019），以[[National Pupil Database\|国家学生数据库]]（NPD）客观 Key Stage 2 统考成绩为标尺，揭示大规模现场落地中[[Effect Size\|效应量]]归零（$ES \approx 0.00$）与未能弥合弱势差距的方法学教训。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [成长型与固定型思维 · Growth vs. fixed mindsets](https://www.visiblelearningmetax.com/influences/view/growth_vs._fixed_mindsets)
 > 学生 › 毅力与自信

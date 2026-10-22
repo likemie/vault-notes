@@ -4,6 +4,11 @@ aliases:
   - 教师专业发展项目
 summary: "Visible Learning MetaX 因素教师专业发展项目、幼教教师专业发展、读写教学专业发展、数理教学专业发展的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "teacher-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Teacher Professional Development Programs
-
-## Visible Learning MetaX
 
 > [!metax] [教师专业发展项目 · Professional development programs](https://www.visiblelearningmetax.com/influences/view/professional_development_programs)
 > 教师 › 教师教育

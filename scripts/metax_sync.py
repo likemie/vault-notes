@@ -518,7 +518,7 @@ def auto_checks(inf: dict, studies: dict, marked: set | None = None) -> list[str
     if dup_rows:
         keep = [r for r in rows if r not in dup_rows]
         k = sum(r["k"] or 0 for r in keep)
-        out.append(f"**自动核算 · 剔除重复后** 元分析 {len(keep)} 项，研究数 {fmt_int(k)}，加权平均效应量 {fmt_d(weighted_d(keep))}，未加权平均效应量 {fmt_d(simple_d(keep))}（仅供参考，未核原文）。")
+        out.append(f"**自动核算 · 剔除重复后** 元分析 {len(keep)} 项，研究数 {fmt_int(k)}，加权平均效应量 {fmt_d(weighted_d(keep))}，未加权平均效应量 {fmt_d(simple_d(keep))}（仅供参考，尚未经文献核实）。")
     return out
 
 
@@ -612,45 +612,55 @@ def errata_line(mark: str, level: str, e: dict, st, args_meta: dict) -> str:
 
 
 def render_module(iids: list[str], data: dict, errata: list, args_meta: dict) -> str:
+    """The module is only the stacked [!metax] callouts: no heading of its own, so the
+    vault does not fill up with identical "Visible Learning MetaX" sections."""
     blocks = [render_influence(i, data["influences"][i], data["studies"], errata, args_meta) for i in iids]
-    return SECTION + "\n\n" + "\n\n".join(blocks) + "\n"
+    return "\n\n".join(blocks) + "\n"
 
 
-SECTION_RE = re.compile(r"^## Visible Learning MetaX\n.*?(?=^---\n\n## |^## (?!Visible Learning MetaX)|\Z)", re.M | re.S)
+LEGACY_SECTION_RE = re.compile(r"^## Visible Learning MetaX\n.*?(?=^---\n\n## |^## (?!Visible Learning MetaX)|\Z)", re.M | re.S)
+METAX_TOP_RE = re.compile(r"^> \[!metax\][^\n]*\n(?:>[^\n]*(?:\n|\Z))*\n*", re.M)
 
 
 def remove_module(body: str) -> str:
-    m = SECTION_RE.search(body)
-    if not m:
-        return body
-    end = m.end()
-    rest = body[end:]
-    if rest.startswith("---\n\n"):
-        rest = rest[5:]
-    return body[: m.start()] + rest
+    m = LEGACY_SECTION_RE.search(body)
+    if m:  # modules written before 2026-10-22 had their own H2
+        rest = body[m.end():]
+        if rest.startswith("---\n\n"):
+            rest = rest[5:]
+        prefix = body[: m.start()]
+        if not rest.strip():
+            prefix = re.sub(r"(?:\n*---[ \t]*)+\s*\Z", "", prefix.rstrip()) + "\n"
+        body = prefix + rest
+    body = METAX_TOP_RE.sub("", body)
+    return re.sub(r"\n{3,}", "\n\n", body)
 
 
 def insert_module(body: str, module: str) -> str:
+    """Place the callouts at the end of ## 实证数据 (or before ## 领域应用 / ## 相关研究,
+    or at the end of the note), ahead of the --- separator that closes the section."""
     body = remove_module(body)
-    block = module.rstrip("\n") + "\n\n---\n\n"
     lines = body.splitlines(keepends=True)
     h2 = [i for i, l in enumerate(lines) if l.startswith("## ")]
     target = None
     for n, i in enumerate(h2):
         if lines[i].strip() == "## 实证数据":
             target = h2[n + 1] if n + 1 < len(h2) else None
-            break
-    if target is None:
+            if target is None:
+                break
+    if target is None and not any(lines[i].strip() == "## 实证数据" for i in h2):
         for i in h2:
-            if lines[i].strip() in {"## 相关研究", "## 领域应用"}:
+            if lines[i].strip() in {"## 领域应用", "## 相关研究"}:
                 target = i
                 break
     if target is None:
-        if not h2:
-            return body.rstrip("\n") + "\n\n" + module
-        return body.rstrip("\n") + "\n\n---\n\n" + module
-    # Keep the separator that precedes the next section in front of the module.
-    return "".join(lines[:target]) + block + "".join(lines[target:])
+        return body.rstrip("\n") + "\n\n" + module
+    cut = target
+    while cut > 0 and lines[cut - 1].strip() in {"", "---"}:
+        cut -= 1
+    head = "".join(lines[:cut]).rstrip("\n")
+    tail = "".join(lines[cut:]).lstrip("\n")
+    return head + "\n\n" + module.rstrip("\n") + "\n\n" + tail
 
 
 def set_tag(text: str, present: bool) -> str:
@@ -688,7 +698,7 @@ def cmd_render(args, data=None) -> int:
         rel = path.relative_to(ROOT).as_posix()
         if rel not in by_entry and "templates" not in path.parts:
             t = path.read_text(encoding="utf-8")
-            if "\n" + SECTION + "\n" in t:
+            if "\n> [!metax] " in t or "\n" + SECTION + "\n" in t:
                 by_entry[rel] = []
     stale = []
     for rel, iids in sorted(by_entry.items()):
@@ -747,7 +757,7 @@ DOMAIN_FOLDER = {
     "Technology, School, and Out-of-School Strategies": "educational-technology",
 }
 FAMILY_ZH = {
-    "Academic Emotions": "学业情绪", "Academic Anxiety": "学业焦虑", "Game-Based Learning": "游戏化学习",
+    "Academic Emotions": "学业情绪", "Academic Anxiety": "学业焦虑", "Game-Based Learning": "基于游戏的学习",
     "Student Personality Traits": "学生人格特质", "Technology in Subject Teaching": "学科教学技术",
     "Educational Technology Across Learner Groups": "不同学习者群体的教育技术", "Virtual Reality in Education": "教育虚拟现实",
     "Mathematics Intervention Programs": "数学干预项目", "Teacher Professional Development Programs": "教师专业发展项目",
@@ -965,6 +975,26 @@ def cmd_domains(args) -> int:
             x = agg(sub[(k, sk)])
             lines.append(f"> | {zh['sub_domain'].get(sk, sk)} | {x['n']} | {bar(x['mean'])}{D(x['mean'])} | {D(x['kw'])} | {D(x['lo'])} ~ {D(x['hi'])} | {neg(x['neg'])} |")
         print("\n".join(lines))
+    if getattr(args, "factors", False):
+        titles = {e["path"]: e["title"] for e in load_json(WIKI_INDEX, [])}
+        print("\n<!-- factors -->")
+        for k in order:
+            subs = sorted([sk for (dk, sk) in sub if dk == k], key=lambda sk: -agg(sub[(k, sk)])["mean"])
+            print(f"\n#### {zh['domain'].get(k, k)}")
+            for sk in subs:
+                ids = sorted(sub[(k, sk)], key=lambda i: -(inf[i]["d"] or -9))
+                lines = [f"> [!metax-factors]- {zh['sub_domain'].get(sk, sk)} · {len(ids)} 个因素",
+                         "> | fac | rate | ma | k | dw | rob |",
+                         "> | --- | --- | --- | --- | --- | --- |"]
+                for i in ids:
+                    v = inf[i]
+                    name = (zh.get("influences") or {}).get(i, v["name"])
+                    ent = (v.get("entries") or [None])[0]
+                    cell = f"[[{titles[ent]}\\|{name}]]" if ent in titles else name
+                    lines.append(f"> | {cell} | {impact_cell(v.get('impact', ''), zh)} | {fmt_int(v.get('ma'))} | {fmt_int(v.get('k'))} | "
+                                 f"{bar(v['d']) if v['d'] is not None else ''}{fmt_d(v.get('d')).replace('-', '−')} | {rob_cell(v.get('rob'))} |")
+                print()
+                print("\n".join(lines))
     return 0
 
 
@@ -1006,7 +1036,9 @@ def main() -> int:
     p.add_argument("--dry-run", action="store_true")
     p.set_defaults(func=cmd_apply_mapping)
     sub.add_parser("audit").set_defaults(func=cmd_audit)
-    sub.add_parser("domains").set_defaults(func=cmd_domains)
+    p = sub.add_parser("domains")
+    p.add_argument("--factors", action="store_true", help="also print the per-sub-domain influence index (links to entries)")
+    p.set_defaults(func=cmd_domains)
     p = sub.add_parser("report")
     p.add_argument("--verbose", action="store_true")
     p.set_defaults(func=cmd_report)

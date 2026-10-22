@@ -4,6 +4,11 @@ aliases:
   - 学习层级法
 summary: "Visible Learning MetaX 因素学习层级法的条目，归属教学策略 › 学习意图；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Learning Hierarchies Approach
-
-## Visible Learning MetaX
 
 > [!metax] [学习层级法 · Learning hierarchies approach](https://www.visiblelearningmetax.com/influences/view/learning_hierarchies_approach)
 > 教学策略 › 学习意图

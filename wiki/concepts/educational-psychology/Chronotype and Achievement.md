@@ -4,6 +4,11 @@ aliases:
   - 晨型与夜型
 summary: "Visible Learning MetaX 因素晨型与夜型的条目，归属学生 › 情绪；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Chronotype and Achievement
-
-## Visible Learning MetaX
 
 > [!metax] [晨型与夜型 · Morning vs. evening](https://www.visiblelearningmetax.com/influences/view/morning_vs._evening)
 > 学生 › 情绪

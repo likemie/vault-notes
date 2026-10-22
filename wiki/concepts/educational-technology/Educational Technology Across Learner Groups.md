@@ -4,6 +4,11 @@ aliases:
   - 不同学习者群体的教育技术
 summary: "Visible Learning MetaX 因素小组学习技术、大学生技术应用、小学生技术应用、中学生技术应用、特殊学习需要学生技术应用的条目，归属技术、学校与校外策略 › 特殊群体信息技术；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-technology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Educational Technology Across Learner Groups
-
-## Visible Learning MetaX
 
 > [!metax] [小组学习技术 · Technology in small groups](https://www.visiblelearningmetax.com/influences/view/technology_in_small_groups)
 > 技术、学校与校外策略 › 特殊群体信息技术

@@ -4,6 +4,11 @@ aliases:
   - 初中干预
 summary: "Visible Learning MetaX 因素初中干预的条目，归属学校 › 学校构成；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Middle School Interventions
-
-## Visible Learning MetaX
 
 > [!metax] [初中干预 · Middle school interventions](https://www.visiblelearningmetax.com/influences/view/middle_school_interventions)
 > 学校 › 学校构成

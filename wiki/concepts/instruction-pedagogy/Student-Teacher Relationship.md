@@ -7,7 +7,7 @@ aliases:
 summary: "学生与教师在教育实践与微观课堂互动中建构的情感支持、道德信任与指导性交往联结。它既是学习参与、心理安全感与学业投入的关键生态条件，也是承载不同文化学习信念与社会资本转化的核心关系中介。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Didaktik]]"
   - "[[Academic Achievement]]"
+  - "[[Teacher Support for Students]]"
   - "[[Student Engagement]]"
   - "[[Reliability]]"
   - "[[School Norm Adaptation]]"
@@ -97,7 +98,7 @@ updated: 2026-10-22
 > **师生关系（Student-Teacher Relationship）** 指学生与教师在课堂教学、生活交往与制度化组织情境中所建构的互动联结质量，涵盖情感关照、学业支持、道德信任与指导性权威（[[Argument_Lekhal_2015_Paideia|(Lekhal et al., 2015, p. 80)]]; [[Argument_Li_2012_Cambridge|(Li, 2012, pp. 52–53)]]）。在实证教育研究与[[Didaktik|教学理论]]中，师生关系不仅是学生获得[[Academic Achievement|学业成就]]与社会情感发展的前提性心理生态，更在不同文化学习模型中承载着迥异的功能定位——在欧美传统中常被界定为促成学习目标的交互资源或环境条件，而在[[Confucian Learning Tradition|儒家学习传统]]中则被视为亲子关系的自然延伸与求知道德践行的独立核心支柱（[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 73, 1555–1581)]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 师生关系表征了教师与学生双向奔赴的交往样态，涵盖教师提供的关怀反馈与期望传达，以及学生对教师支持性、可预测性与专业引领的主观感知。
+> - **含义** 师生关系表征了教师与学生双向奔赴的交往样态，涵盖教师提供的关怀反馈与期望传达，以及学生对[[Teacher Support for Students|教师支持]]性、可预测性与专业引领的主观感知。
 > - **用途** 帮助研究者透视课堂中隐性情绪氛围、学习参与动机、抗逆力形成机制以及弱势学生融入阻力的社会关系基底。
 > - **边界** 师生关系是学习过程的支持环境与使能条件，不直接等同于行为层面的[[Student Engagement|学习投入]]，亦不能替代结构化的学科认知指导与教学法本身。
 
@@ -204,7 +205,6 @@ updated: 2026-10-22
 > > [!critique] 外部学术批判
 > > - **评价[[Paradigm|范式]]对教育交往本体的降维** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 从[[Didaktik|欧陆教学论]]与教化传统出发，批判可见学习将师生关系降维为提升[[Effect Size|效应量]]的输入工具；在[[Pure Evaluation|纯粹评价]]逻辑下，教师退化为依据学生反馈调控自身效果的技术员，学生则被格式化为自我监控的操作员，致使师生间作为文化世代传承与主体间相遇的实质伦理纽带被技术指标全面消解。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 3–4, 6–8)]]
 
-
 ---
 
 ## 实证数据
@@ -258,12 +258,6 @@ updated: 2026-10-22
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 论证 | 分析师生关系在可见学习模型中高回报定位的文献。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判评价[[Paradigm\|范式]]将师生关系降维为工具性自[[Variable\|变量]]的哲学论文。 |
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [师生关系 · Teacher-student relationships](https://www.visiblelearningmetax.com/influences/view/teacher-student_relationships)
 > 课堂 › 课堂氛围
 >
@@ -285,4 +279,4 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Wang & Dong (2017) 在列表中重复出现。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，尚未经文献核实）。

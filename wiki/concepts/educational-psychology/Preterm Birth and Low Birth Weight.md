@@ -4,6 +4,11 @@ aliases:
   - 早产与低出生体重
 summary: "Visible Learning MetaX 因素早产／低出生体重的条目，归属学生 › 生理因素；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Preterm Birth and Low Birth Weight
-
-## Visible Learning MetaX
 
 > [!metax] [早产／低出生体重 · Pre-term / low birth weight vs. Full term](https://www.visiblelearningmetax.com/influences/view/pre-term~low_birth_weight_vs._full_term)
 > 学生 › 生理因素

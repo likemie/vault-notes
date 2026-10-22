@@ -1,6 +1,7 @@
 ---
 citation: "Velasco, J. C. (2022). China’s soft power strategy: Education as an apparatus of influence in Southeast Asia. Chinese Studies Journal, 16, 71–93."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Velasco_2022_CSJ]]"
 processed_date: 2026-10-22
 ---
 

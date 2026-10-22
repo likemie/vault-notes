@@ -12,10 +12,10 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 51
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publication_place: "London"
 publisher: "Routledge"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Definition of Terms]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Learning Strategies]]"
   - "[[Reliability]]"
   - "[[Emergence]]"
   - "[[Research Topic]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[First and Second Order Emotion]]"
   - "[[Informed Consent]]"
+  - "[[Advance Organizers]]"
   - "[[Deception in Research]]"
 related_theories:
   - "[[Behaviorism]]"
@@ -91,7 +93,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
 status: draft
 created: 2026-08-03
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26
 
@@ -197,7 +199,7 @@ Carmel O'Sullivan 系统介绍[[Role-playing|角色扮演]]（role-playing）作
 ### 26.2 角色扮演的定义与基本结构
 
 > [!def] Sellers 的[[Definition of Terms\|操作性定义]]
-> 角色扮演是一种自发的、戏剧性的、创造性的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498）。它涉及多层次沟通（multilevel communication），作为一种强大的教学策略，能够在影响参与者态度和情感的同时，促进[[Higher-Order Thinking Skills\|高阶认知技能]]。这一定义支持角色扮演是有效的学习策略，因为它迫使参与者思考所扮演角色的那个人，与现实生活情境相连，并促进学习中的主动、亲身投入（Billings & Halstead, 2005）（p. 3）。
+> 角色扮演是一种自发的、戏剧性的、创造性的教学策略，参与者在其中公开且有意识地扮演他人的角色（Sellers, 2002, p. 498）。它涉及多层次沟通（multilevel communication），作为一种强大的教学策略，能够在影响参与者态度和情感的同时，促进[[Higher-Order Thinking Skills\|高阶认知技能]]。这一定义支持角色扮演是有效的[[Learning Strategies|学习策略]]，因为它迫使参与者思考所扮演角色的那个人，与现实生活情境相连，并促进学习中的主动、亲身投入（Billings & Halstead, 2005）（p. 3）。
 
 角色扮演从心理剧领域衍生其理论基础。
 
@@ -566,7 +568,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 >
 > **角色扮演情境** 包括介绍会议、家长—教师会议、特殊教育转介会议和个别化教育计划（IEP）规划会议。每个环节包含两次角色扮演，学生担任包括专业人员和家庭成员在内的多种角色。所有家庭面向（家庭成员、家庭特征、家庭需求与优势）都由学生自行发展，不使用脚本或案例研究。
 >
-> **分析焦点与方法** 课程、角色扮演和反思的焦点是专业协作；分析的是学生作为专业人员的协作技能，而非其作为家庭成员的表现。所有学生都获得角色扮演时间表作为先行组织者，包含累积性的协作主题：有效倾听技能、有效沟通、家庭多样性、主持会议、辅助专业人员协作和问题解决。书面反思使用发展性编码评分量表评分，对两组每次角色扮演反思逐句分析，经两步过程建立[[Inter-Rater Reliability\|评分者间信度]]（均值 89%），并分别由两位研究者独立分析各角色扮演后比较结果。
+> **分析焦点与方法** 课程、角色扮演和反思的焦点是专业协作；分析的是学生作为专业人员的协作技能，而非其作为家庭成员的表现。所有学生都获得角色扮演时间表作为[[Advance Organizers|先行组织者]]，包含累积性的协作主题：有效倾听技能、有效沟通、家庭多样性、主持会议、辅助专业人员协作和问题解决。书面反思使用发展性编码评分量表评分，对两组每次角色扮演反思逐句分析，经两步过程建立[[Inter-Rater Reliability\|评分者间信度]]（均值 89%），并分别由两位研究者独立分析各角色扮演后比较结果。
 >
 > **核心发现** 量化与质性数据均显示：第一组倾向于描述所见，缺乏高阶反思，技能发展无进展；第二组更可能简要描述所见后即投入批判性反思思维，且角色扮演 1 与 3 之间的反思技能有显著增长。结果表明录像回放与反思深度之间存在关联（pp. 20–21）。
 >

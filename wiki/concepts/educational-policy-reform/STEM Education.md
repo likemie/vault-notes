@@ -8,7 +8,7 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Control of Variables Strategy]]"
   - "[[Self-Efficacy]]"
   - "[[Chain of Evidence]]"
+  - "[[Teacher Collaboration]]"
 related_theories:
   - "[[Inquiry Cycle]]"
   - "[[Knowledge Building Theory]]"
@@ -282,7 +283,7 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brint_2023_IHE\|Brint (2023)]] | 美国与中国高等教育体系；联邦芯片与科学立法 | 宏观政策比较与官方统计核查 | ① 中美高校 STEM 毕业生年度供给规模；② 联邦 GRFP 奖学金名额 | ① 中国高校 STEM 毕业生年产出规模达到美国的 4 倍；② 联邦法案拟将 GRFP 博士研究生奖学金年度名额从 2,000 名增加至 3,000 名（增长 50%） | 官方统计数据对比与立法条文分析 | 揭示大国地缘科技竞争中国家科技劳动力蓄水池的规模差距与政策对冲举措 |
-> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所年科研经费超 10 亿美元的[[Research Universities\|研究型大学]]；3 期半导体 STEM 学者工作坊 | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 参会规模拓展与跨学科教师协作体验 | 参与规模由 81 人扩展至系统 142 人再到全州 242 人；线上组 60%、线下组 80%、混合组 75% 表达积极协作体验 | 质性开放问卷独立主题编码（$n=21, 11, 12$） | 单机构自陈式质性评估，呈现高校有组织应对国家 STEM 战略时学者团队的微观孵化动态 |
+> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所年科研经费超 10 亿美元的[[Research Universities\|研究型大学]]；3 期半导体 STEM 学者工作坊 | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 参会规模拓展与跨学科[[Teacher Collaboration\|教师协作]]体验 | 参与规模由 81 人扩展至系统 142 人再到全州 242 人；线上组 60%、线下组 80%、混合组 75% 表达积极协作体验 | 质性开放问卷独立主题编码（$n=21, 11, 12$） | 单机构自陈式质性评估，呈现高校有组织应对国家 STEM 战略时学者团队的微观孵化动态 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | [[National Semiconductor Technology Center\|美国国家半导体技术中心]]（[[National Science and Technology Council\|NSTC]]）劳动力卓越中心（WCoE）生态规划 | 国家微电子产业战略与教育规划 | 全谱系人才通道、课程资源共享与全包式支持 | 建立覆盖 K-12 启蒙、社区学院微认证、本科洁净室实训与研究生全额资助的全美网络；向少数族裔服务机构（MSI）倾斜资源 | 官方战略蓝图与产业人才供需预测 | 确立国家级[[Pilot Scale Platform\|中试平台]]与全谱系 STEM 教育深度嵌入的政策范式 |
 
 ---
@@ -293,12 +294,6 @@ updated: 2026-10-22
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《[[CHIPS and Science Act|芯片与科学法案]]》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 提出依托[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与劳动力卓越中心（WCoE），构建贯通 K-12 到硕博士的全谱系微电子 STEM 人才生态，通过共享 300mm 中试线与云端设计网关实现真实工程实训赋能。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [STEM 项目 · STEM programs](https://www.visiblelearningmetax.com/influences/view/stem_programs)
 > 课程 › 数学与科学

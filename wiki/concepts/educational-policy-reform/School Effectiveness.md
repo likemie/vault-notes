@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Professional Judgment]]"
   - "[[Socioeconomic Status]]"
+  - "[[Naming and Shaming in Education Governance]]"
   - "[[Global Universities Rankings]]"
   - "[[Champ]]"
   - "[[Policy Network]]"
@@ -169,7 +170,7 @@ updated: 2026-10-22
 > 学校效能语言不仅是描述性工具，更是现代新自由主义国家将学校塑造为可检查、可比较、可干预之常模化治理对象的[[Governmentality|治理术]]。
 
 > [!claim|notitle]
-> **常模化技术与羞辱机制** 从福柯治理术（[[Governmentality]]）视角审视，学校效能将学校区分为“有效/无效”、“健康/病态”、“平庸/卓越”，构造出标准化的常模模型。通过英国教育标准局（[[Ofsted]]）视导检查、公立学校排行榜与“失败学校”公开命名羞辱机制，教师与校长的[[Professional Judgment|专业判断]]被剥夺，退化为必须接受常态化风险防控的技术操作员。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
+> **常模化技术与羞辱机制** 从福柯治理术（[[Governmentality]]）视角审视，学校效能将学校区分为“有效/无效”、“健康/病态”、“平庸/卓越”，构造出标准化的常模模型。通过英国教育标准局（[[Ofsted]]）视导检查、公立学校排行榜与“失败学校”公开[[Naming and Shaming in Education Governance|命名羞辱]]机制，教师与校长的[[Professional Judgment|专业判断]]被剥夺，退化为必须接受常态化风险防控的技术操作员。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
 
 > [!citation-card] Ball论学校效能政策技术对学校客体的常模化塑造
 > [[Ofsted]] 检查、失败学校命名、测试体系和排行榜是学校效能研究被政策转译后的治理技术。它们把学校构造成“一个知识分支的对象”，使学校能够被持续监控、引导和改造。在政策中作为一种正常化技术运作：它建构有效学校的规范模型，同时把无效学校异常化为需要治疗的学校。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
@@ -302,10 +303,6 @@ updated: 2026-10-22
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 1985–2002 年 [[UNESCO]]、[[World Bank\|世界银行]]与 [[OECD]] 核心政策文件；阿根廷与巴西课程改革卷宗及师生访谈 | 跨国比较[[Discourse Analysis\|话语分析]]与深度质性追踪 | 效能咨询市场化输出模式、国际普遍方案与微观学校脱节度 | 揭示英国高校学术重商主义将效能打包为跨国商品；证实阿根廷与巴西微观实践与效能方案剧烈脱节 | — | 跨国宏观话语分析与拉美案例，未报告定量效应量 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Gray et al. (1986) | 英国学校[[Academic Achievement\|学业成就]]与社会阶层方差分解 | 大规模纵向多水平[[Analysis of Variance\|方差分析]] | 学生家庭背景（[[Socioeconomic Status\|SES]]）与学校效能对学业成绩的解释方差比 | 学生背景（SES）解释学业方差高达 80%，学校净效能仅解释约 20% | 极显著且稳健 | 严格实证检验，证实校外社会结构对学业产出具有压倒性主导作用 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Harker (1995) | 新西兰全国小学多水平方差分析模型 | 全国抽样[[Hierarchical Linear Model\|多层线性模型]]（HLM） | 社会阶层生源背景与校际差异方差占比 | 学生背景占总学业方差 70%–80%，校际差异仅占 8%–10% | 极显著（$p < .001$） | 证实新西兰公立学校差异极其微弱，将学业差距归咎于学校效能属于严重误导 |
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [学校效应 · School effects](https://www.visiblelearningmetax.com/influences/view/school_effects)
 > 学校 › 领导

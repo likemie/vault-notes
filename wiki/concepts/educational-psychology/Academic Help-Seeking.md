@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
 type: concept
 domain: "educational-psychology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Epistemology]]"
   - "[[Metacognition]]"
+  - "[[Academic Procrastination]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Cognitive Offloading]]"
   - "[[Problem Solving]]"
@@ -69,7 +70,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者将外部社会网络与技术系统转化为自身认知拓展延伸的自适应行为过程。
-> - **用途** 帮助教育研究者诊断学生在面对困难时是采取建设性探究还是陷入学业拖延与防御性逃避，并评估教学环境与技术工具的心理安全感。
+> - **用途** 帮助教育研究者诊断学生在面对困难时是采取建设性探究还是陷入[[Academic Procrastination|学业拖延]]与防御性逃避，并评估教学环境与技术工具的心理安全感。
 > - **[[Man-Computer Symbiosis|人机共生]]视界** 在生成式人工智能环境中，求助对象从“高社会评价威胁的人际权威”拓展为“全天候、无偏见且低威胁的智能中介”，深刻重塑了学业求助的心理成本与认识论动力学。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]
 > - **边界** 必须严格区分旨在获得认知启发与掌握解法的“工具性求助（Instrumental Help-Seeking）”与旨在逃避认知加工、直接索要现成答案的“执行性求助（Executive Help-Seeking）”。
 
@@ -191,12 +192,6 @@ updated: 2026-10-22
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 阐释求助恐惧对认识探索的阻碍，论证生成式 AI 的拟人化与无偏见特征如何提供低威胁求助环境，并结合[[Scaffolding\|教学支架]]促进自适应[[Epistemic Stances\|认识立场]]演进。（pp. 361–362）
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 基于大样本[[Meta-analysis\|元分析]]确证生成式 AI 对大学生[[Affective Outcomes\|情感动机]]的显著促进，揭示其消除传统高权力距离师生互动中提问求助焦虑的“权力壁垒破除机制”。（pp. 10–13, 16）
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较文化心理学奠基专著，深度剖析东方“同学文化”将同伴求助定义为[[Humility\|谦逊]]美德与西方[[Peer-Supported Learning|同伴文化]]将求助视作能力暴露的系统差异。（pp. 106–108, 2933–2935）
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [求助 · Help seeking](https://www.visiblelearningmetax.com/influences/view/help_seeking)
 > 学生学习策略 › 元认知／自我调节学习

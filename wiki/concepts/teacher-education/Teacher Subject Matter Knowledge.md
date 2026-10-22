@@ -4,6 +4,11 @@ aliases:
   - 教师学科知识
 summary: "Visible Learning MetaX 因素教师学科知识的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "teacher-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Teacher Subject Matter Knowledge
-
-## Visible Learning MetaX
 
 > [!metax] [教师学科知识 · Teacher subject matter knowledge](https://www.visiblelearningmetax.com/influences/view/teacher_subject_matter_knowledge)
 > 教师 › 教师教育

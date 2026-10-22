@@ -4,6 +4,11 @@ aliases:
   - 学生睡眠不足
 summary: "Visible Learning MetaX 因素睡眠不足的条目，归属学生 › 生理因素；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Sleep Deprivation in Students
-
-## Visible Learning MetaX
 
 > [!metax] [睡眠不足 · Lack of sleep](https://www.visiblelearningmetax.com/influences/view/lack_of_sleep)
 > 学生 › 生理因素

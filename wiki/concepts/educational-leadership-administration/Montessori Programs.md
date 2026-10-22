@@ -4,6 +4,11 @@ aliases:
   - 蒙台梭利项目
 summary: "Visible Learning MetaX 因素蒙台梭利项目的条目，归属学校 › 学前干预；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Montessori Programs
-
-## Visible Learning MetaX
 
 > [!metax] [蒙台梭利项目 · Montessori programs](https://www.visiblelearningmetax.com/influences/view/montessori_programs)
 > 学校 › 学前干预

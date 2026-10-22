@@ -8,10 +8,10 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊；在发展型大国南南合作中则体现为国家奖学金驱动的双向话语与单向供给张力，并推动合作载体由单纯留学生流动迈向产教融合实体共建。"
 type: concept
 domain: "comparative-education"
-related_count: 47
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/comparative-education
   - comparative-education
@@ -43,6 +43,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[STEM Education]]"
+  - "[[Public Diplomacy]]"
+  - "[[English-Medium Instruction in Higher Education]]"
 related_theories:
   - "[[Spatial Governmentality]]"
   - "[[Governmentality]]"
@@ -51,6 +53,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Comparative Policy Analysis]]"
   - "[[Qualitative Interview]]"
+  - "[[Mixed Methods Research]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[EU]]"
@@ -59,6 +62,7 @@ related_facts:
   - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
   - "[[Hukou System]]"
+  - "[[Silk Road Scholarship]]"
   - "[[ASEAN]]"
   - "[[Confucius Institute]]"
   - "[[Forum on China-Africa Cooperation]]"
@@ -70,6 +74,7 @@ related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Custer_2021_AidData]]"
 related_persons:
   - "[[Nikolas Rose]]"
   - "[[Kenneth King]]"
@@ -186,7 +191,7 @@ updated: 2026-10-22
 > 剖析非西方崛起大国如何通过主权财政补贴构建跨境留学生招募网络，以及此类流动如何因缺乏内生学术吸引力而极易受双边外交关系与宏观财政波动冲击。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo, J. J. (2023)]]
-> **补贴型单向依附与流动脆弱性** 禹钟晸（Jung Ji Woo）分析指出，中国在“[[Belt and Road Initiative|一带一路]]”倡议下推动的跨国学生流动具有鲜明的国家主导与工具主义特征。与盎格鲁-撒克逊国家依托顶尖学术声誉、全球语言资本收取高额学费的商业自费模式不同，中国吸引发展中国家留学生高度依附于“丝绸之路奖学金”等国家全额资助项目（涵盖全免学费、免费住宿及每月生活补贴），并与“一带一路”海外中资承包基建工程的未来就业机会直接绑定。这种学生流动建立在单向财政补贴与外在功利激励之上，一旦主办国经济增速放缓压缩财政奖学金预算，或沿线合作国地缘关系紧张导致基建投资项目停滞，跨境学生生源便会迅速萎缩，其历史前例正如 1960 年中苏交恶后双边留学生流动网络的瞬间断裂。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
+> **补贴型单向依附与流动脆弱性** 禹钟晸（Jung Ji Woo）分析指出，中国在“[[Belt and Road Initiative|一带一路]]”倡议下推动的跨国学生流动具有鲜明的国家主导与工具主义特征。与盎格鲁-撒克逊国家依托顶尖学术声誉、全球语言资本收取高额学费的商业自费模式不同，中国吸引发展中国家留学生高度依附于“[[Silk Road Scholarship|丝绸之路奖学金]]”等国家全额资助项目（涵盖全免学费、免费住宿及每月生活补贴），并与“一带一路”海外中资承包基建工程的未来就业机会直接绑定。这种学生流动建立在单向财政补贴与外在功利激励之上，一旦主办国经济增速放缓压缩财政奖学金预算，或沿线合作国地缘关系紧张导致基建投资项目停滞，跨境学生生源便会迅速萎缩，其历史前例正如 1960 年中苏交恶后双边留学生流动网络的瞬间断裂。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
 
 > [!claim] [[Argument_Zhu_Yang_2025_HE|Zhu, Y. & Yang, R. (2025)]]
 > **[[ASEAN|东盟]]生源周期规律、治理认同转向与学业标准张力** 朱一和杨锐考察中柬高教流动发现，发展型大国对周边国家的留学生吸引受主权外交重大峰会周期驱动，自 2010 年建立全面战略合作伙伴关系以来东盟在华生源经历十倍级爆发增长。实证研究显示留学生认同机制由传统文化转向当代治理与技术成就：学生被现代工业基础设施建设、社会治安治理秩序以及实用技术技能吸引，[[Confucius Institute|孔子学院]]推介的传统文化符号对吸引留学的实际效能较为有限。此外，跨境流动管理机制中存在深层制度张力：针对国际生源实施的超国民待遇以及降低学业考核及格线（如部分高校出现将及格标准放宽至 45 分的情况），引发了与本土生源的权益摩擦，并对主办国高教系统的学术声誉与学位含金量构成了长远侵蚀。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 6–10)]]
@@ -265,7 +270,7 @@ updated: 2026-10-22
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 欧洲高校（[[Erasmus Programme\|伊拉斯谟计划]]）、美国城市中小学及中国城乡[[Migrant Children\|随迁儿童]]就学群落 | 跨国[[Comparative Policy Analysis\|比较政策分析]]与文献综合考察 | 跨国高教流动规模、中小学中途转学动因构成及随迁儿童政策规模 | 伊拉斯谟计划累计资助逾 150 万高校学生完成跨境学分流动；美国中小学约 60% 中途转校源于家庭客观居住变迁；中国涉及逾 2000 万[[Migrant Children\|随迁儿童]]的城市教育准入调控 | — | 揭示不同空间尺度与教育阶段下学生流动的政策建构差异，不宜跨学段直接简单推论 |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 中国“[[Belt and Road Initiative\|一带一路]]”沿线国家跨境留学生资助体系 | 政策[[Discourse Analysis\|话语分析]]与[[Geopolitics of Higher Education\|高等教育地缘政治]]经济学考察 | “丝绸之路”全额奖学金覆盖项目与就业吸纳渠道 | 全额奖学金覆盖学费、住宿费与生活补贴；学生招募与中资海外基建工程岗位紧密绑定 | — | 揭示国家主导型跨国留学的补贴依赖性与地缘脆弱性 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | 2008–2018 年在华[[ASEAN\|东盟]]留学生统计与在华柬埔寨留学生深度[[Qualitative Interview\|质性访谈]]样本（25 名学生及 10 名涉外管理干部与导师） | 政策文件与统计数据追踪结合半结构化质性访谈 | 东盟在华留学生规模结构、专业分布及学业考核标准 | 2018 年在华东盟留学生达 98,823 人（占全华留学生总数 20.08%，较 2008 年增长近两倍），理工科（[[STEM Education\|STEM]]）达 20,813 人（占 33.00% 居各学科首位）；部分高校存在将国际学生及格线降至 45 分（本土学生为 60 分）现象 | — | 聚焦中柬高教流动与东盟来华案例，反映以国家战略和基建合作为依托的南南高教流动动态 |
-> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国（2015–2019 年）跨国学生流动与奖学金体系 | 跨国混合方法评估（行政资助追踪与多源数据库汇总） | 签证办理费用、政府奖学金总量、全英文项目占比与生源排名 | 签证费 $\le\$50$（平均 48 美元）；累计提供约 358,000 份奖学金；66.4% 南亚合作项目采用英文授课；成为中亚第二大、南亚第三大留学目的地国 | — | 聚焦南亚与中亚地缘走廊，反映公共外交与教育援助驱动的区域学生流动特征 |
+> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国（2015–2019 年）跨国学生流动与奖学金体系 | 跨国[[Mixed Methods Research\|混合方法]]评估（行政资助追踪与多源数据库汇总） | 签证办理费用、政府奖学金总量、全英文项目占比与生源排名 | 签证费 $\le\$50$（平均 48 美元）；累计提供约 358,000 份奖学金；66.4% 南亚合作项目采用英文授课；成为中亚第二大、南亚第三大留学目的地国 | — | 聚焦南亚与中亚地缘走廊，反映[[Public Diplomacy\|公共外交]]与教育援助驱动的区域学生流动特征 |
 
 ---
 
@@ -274,13 +279,7 @@ updated: 2026-10-22
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 揭示欧美政策话语对学生流动的阶层化道德评价，解构学校作为空间封闭容器对边缘群体的规训机制（pp. 359–368）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 揭示新兴大国“[[Belt and Road Initiative|一带一路]]”跨国留学生流动高度依赖国家全额奖学金与基建就业预期，解析其补贴型单向依附特征与地缘环境逆转下的脆弱性（pp. 692–693）。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 考察中国对[[ASEAN|东盟]]留学生流动的峰会驱动周期，揭示留学生对当代工业基础设施与社会治理经验的认同倾向，以及超国民待遇和考核降格引发的制度张力与声誉风险（pp. 6–10）。
-> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 13 国考察跨国学生流动机制，揭示低签证成本、大规模政府奖学金（35.8 万份）与高比例全英文授课项目（66.4%）对非对称教育流动的支撑作用与吸纳效能（pp. 31–34）。
-
----
-
----
-
-## Visible Learning MetaX
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 13 国考察跨国学生流动机制，揭示低签证成本、大规模政府奖学金（35.8 万份）与高比例全[[English-Medium Instruction in Higher Education|英文授课项目]]（66.4%）对非对称教育流动的支撑作用与吸纳效能（pp. 31–34）。
 
 > [!metax] [转学流动 · Mobility](https://www.visiblelearningmetax.com/influences/view/mobility)
 > 家庭 › 家庭环境

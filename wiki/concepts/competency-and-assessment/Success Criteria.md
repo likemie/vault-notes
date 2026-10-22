@@ -8,7 +8,7 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "competency-and-assessment"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,8 +20,10 @@ tags:
   - metax
 related_concepts:
   - "[[Learning Intentions]]"
+  - "[[Peer Assessment]]"
   - "[[Operationalization]]"
   - "[[Rote Learning]]"
+  - "[[Scoring Rubrics]]"
   - "[[Dialogue in Education]]"
   - "[[Chain of Evidence]]"
   - "[[Scaffolding]]"
@@ -52,7 +54,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 成功标准（Success Criteria，又称达成标准或表现成功标准）指伴随 [[Learning Intentions\|学习意图]] 向学生明确呈现的具体质性证据特征、逻辑构成要素与进阶评估阶梯。它界定了“学生做到何种程度即可被视为达成目标”，为学生在学习过程中开展自我调节、同伴互评以及教师提供针对性反馈提供清晰的[[Operationalization\|操作化]]证据参照（Clarke, Timperley, & Hattie, 2003；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。
+> 成功标准（Success Criteria，又称达成标准或表现成功标准）指伴随 [[Learning Intentions\|学习意图]] 向学生明确呈现的具体质性证据特征、逻辑构成要素与进阶评估阶梯。它界定了“学生做到何种程度即可被视为达成目标”，为学生在学习过程中开展自我调节、[[Peer Assessment|同伴互评]]以及教师提供针对性反馈提供清晰的[[Operationalization\|操作化]]证据参照（Clarke, Timperley, & Hattie, 2003；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 将抽象的认知理解转化为学生可观察、可对比、可检验的质性表现指标与阶段里程碑。
@@ -66,14 +68,14 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于 [[Learning Intentions\|学习意图]]：学习意图界定“学什么（What is being learned）”；成功标准界定“何为学好的证据（What success looks like）”。
-> - 不等于 终结性评分量规（Summative Rubrics）：评分量规常用于期末定级与甄别；成功标准侧重于过程中的形成性自评、互评与教学微调。
+> - 不等于 终结性[[Scoring Rubrics|评分量规]]（Summative Rubrics）：评分量规常用于期末定级与甄别；成功标准侧重于过程中的形成性自评、互评与教学微调。
 > - 不等于 表面格式规范：成功标准聚焦于逻辑严密性、证据相关性与解释深度，而非页面整洁或字数要求。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 成功标准与传统评分量规辨析
+> [!contrast-table] 成功标准与传统[[Scoring Rubrics|评分量规]]辨析
 > | 维度 | 成功标准（Success Criteria） | 终结性评分量规（Summative Rubrics） | 表层任务清单（Task Checklist） |
 > |---|---|---|---|
 > | **首要功能** | 过程导航、自我调节与形成性[[Dialogue in Education\|对话]] | 事后定级、评定分数与外部问责 | 检查操作步骤是否遗漏 |
@@ -165,12 +167,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 系统呈现毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。
 > - **[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]]** 记录[[John Hattie|哈蒂]]对原子化[[Learning Intentions|学习意图]]误用的反思，主张以 10 至 12 周大周期成功标准呈现优秀样例，融合表层与深层认知进阶。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [成功标准 · Success criteria](https://www.visiblelearningmetax.com/influences/view/success_criteria)
 > 教学策略 › 学习意图

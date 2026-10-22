@@ -4,6 +4,11 @@ aliases:
   - 精细加工与组织
 summary: "Visible Learning MetaX 因素精细加工与组织的条目，归属学生学习策略 › 元认知／自我调节学习；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Elaboration and Organization
-
-## Visible Learning MetaX
 
 > [!metax] [精细加工与组织 · Elaboration and organization](https://www.visiblelearningmetax.com/influences/view/elaboration_and_organization)
 > 学生学习策略 › 元认知／自我调节学习

@@ -7,10 +7,10 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - special-education
   - intervention-research
@@ -25,11 +25,15 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Teaching Assistant]]"
   - "[[Implementation Fidelity]]"
+  - "[[Tutoring Interventions]]"
+  - "[[Whole-School Improvement]]"
+  - "[[Mathematics Intervention Programs]]"
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[PICO Framework]]"
   - "[[Structured Teaching]]"
+  - "[[Reading Programs]]"
   - "[[Determinism]]"
   - "[[Preregistration]]"
   - "[[Metascience]]"
@@ -161,7 +165,7 @@ updated: 2026-10-22
 
 ### 命题二　以循证个别与小组辅导充实 Tier 2 与 Tier 3 能有效缩小群体学业鸿沟
 
-> [!concept-lens] 辅导干预的因果效能与成本效益
+> [!concept-lens] [[Tutoring Interventions|辅导干预]]的因果效能与成本效益
 > 分析不同师资类型（教师、助教、有偿志愿者）在一对一与小组辅导中的实证效能矩阵。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
@@ -174,7 +178,7 @@ updated: 2026-10-22
 > [!contrast-table] RTI 理论发展核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **具体方案填充命题** | 揭示抽象流程原则导致实施落空的机制，主张以强证据方案武装各层级 | 区域学区改革、全校改进规划、特殊教育分流评估 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]; Fuchs |
+> | **具体方案填充命题** | 揭示抽象流程原则导致实施落空的机制，主张以强证据方案武装各层级 | 区域学区改革、[[Whole-School Improvement\|全校改进]]规划、特殊教育分流评估 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]; Fuchs |
 > | **助教结构化辅导效能命题** | 论证经培训助教使用结构化规程能够产生与认证教师相当的高额效应量 | 弱势学校资源配置、个别化阅读/数学辅导方案设计 | Slavin; Baye et al. |
 
 ---
@@ -185,7 +189,7 @@ updated: 2026-10-22
 > - **2004 年 — 联邦法案法定确立** 美国国会修订《个体残疾人教育法》（IDEA 2004），正式将 RTI 确立为各州判定特定学习障碍（Specific Learning Disabilities, SLD）的法定替代途径。
 > - **2006–2014 年 — 全国推广与评估争议** 全美绝大多数学区相继出台 RTI 指南；然而 2015 年 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 全国评估报告指出，早期实施由于缺乏保真度与具体方案，干预效果微弱甚至产生负向效应。
 > - **2015 年 — [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]注入** 《每一个学生成功法》（ESSA）通过，正式建议学校在实施 RTI 时，各层级所采用的教学方案必须符合国家四级证据标准。
-> - **2019 年 — [[Response to Proven Instruction\|RTPI]] 循证升级方案成型** [[Robert Slavin\|罗伯特·斯莱文]]正式提出 RTPI（Response to Proven Instruction），系统整合近百项符合 ESSA 强/中标准的阅读与数学干预项目，将 RTI 改造为以循证产品为底座的[[Comprehensive Education|综合教育]]改革方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
+> - **2019 年 — [[Response to Proven Instruction\|RTPI]] 循证升级方案成型** [[Robert Slavin\|罗伯特·斯莱文]]正式提出 RTPI（Response to Proven Instruction），系统整合近百项符合 ESSA 强/中标准的阅读与[[Mathematics Intervention Programs|数学干预项目]]，将 RTI 改造为以循证产品为底座的[[Comprehensive Education|综合教育]]改革方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 
 ---
 
@@ -210,7 +214,7 @@ updated: 2026-10-22
 ## 实证数据
 
 > [!finding-cards] 核心实证结论
-> 1. **全员全校改革方案（TIER 1）稳固基础** [[Success for All]] 等全校阅读项目在 5 项独立大规模试验中获得加权平均[[Effect Size\|效应量]] +0.41（[[Every Student Succeeds Act\|ESSA]] 强证据评级）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
+> 1. **全员全校改革方案（TIER 1）稳固基础** [[Success for All]] 等全校[[Reading Programs|阅读项目]]在 5 项独立大规模试验中获得加权平均[[Effect Size\|效应量]] +0.41（[[Every Student Succeeds Act\|ESSA]] 强证据评级）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > 2. **小组辅导（Tier 2）效能显著** 教师主导的 [[Lindamood Phoneme Sequencing\|LiPS]] 小组辅导效应量达 +0.64；助教主导的 [[Lightning Squad]] 效应量达 +0.34（3 项研究合成）。
 > 3. **一对一密集辅导（Tier 3）产生超额收益** [[Early Steps]]/Next Steps（教师 1:1）效应量达 +0.86；[[Reading Rescue]]（助教 1:1）效应量达 +0.81。
 
@@ -248,12 +252,6 @@ updated: 2026-10-22
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism\|因果决定论]]提供批判视角。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 针对宏观证据库中 RTI 影响因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，揭示一阶[[Meta-analysis|元分析]]收录非学业测量（智商与行为）及大学生样本直接违背 [[PICO Framework|PICO]] 准入标准的问题。
 > - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助、证据审查与政策激励的三条件模型。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [干预反应模式 · Response to Intervention](https://www.visiblelearningmetax.com/influences/view/response_to_intervention)
 > 教学策略 › 教学方法

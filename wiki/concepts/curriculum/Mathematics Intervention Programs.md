@@ -4,6 +4,11 @@ aliases:
   - 数学干预项目
 summary: "Visible Learning MetaX 因素数学操作材料、数学课程与项目、数学直接或引导教学、其他数学项目、学习障碍学生数学项目、数学专项技能教学的条目，归属课程 › 数学与科学；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "curriculum"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Mathematics Intervention Programs
-
-## Visible Learning MetaX
 
 > [!metax] [数学操作材料 · Manipulative materials on math](https://www.visiblelearningmetax.com/influences/view/manipulative_materials_on_math)
 > 课程 › 数学与科学

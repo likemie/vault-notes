@@ -4,6 +4,11 @@ aliases:
   - 平板与触屏学习
 summary: "Visible Learning MetaX 因素平板／触屏设备的条目，归属技术、学校与校外策略 › 移动／触屏；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-technology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Tablets and Touch Devices in Learning
-
-## Visible Learning MetaX
 
 > [!metax] [平板／触屏设备 · Ipads / Touch devices](https://www.visiblelearningmetax.com/influences/view/ipads~touch_devices)
 > 技术、学校与校外策略 › 移动／触屏

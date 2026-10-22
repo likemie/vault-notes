@@ -4,6 +4,11 @@ aliases:
   - 学生助学金
 summary: "Visible Learning MetaX 因素助学金的条目，归属家庭 › 家庭资源；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "sociology-of-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Student Grant Aid
-
-## Visible Learning MetaX
 
 > [!metax] [助学金 · Grant aid](https://www.visiblelearningmetax.com/influences/view/grant_aid)
 > 家庭 › 家庭资源

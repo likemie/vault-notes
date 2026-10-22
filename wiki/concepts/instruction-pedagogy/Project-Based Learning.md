@@ -8,7 +8,7 @@ aliases:
 summary: "以真实驱动性问题为核心、以持续协作探究为路径、以生成并公开展示真实制品为导向的学生中心教学模式，能显著激发创造力与高阶思维，但高度依赖认知脚手架与自我调节能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,9 +29,11 @@ related_concepts:
   - "[[Variable]]"
   - "[[Scaffolding]]"
   - "[[Problem-Based Learning]]"
+  - "[[Inquisitive Mode of Governance]]"
   - "[[Homework]]"
   - "[[Discovery Learning]]"
   - "[[Task Structure]]"
+  - "[[Peer Assessment]]"
   - "[[Constructed Knowledge]]"
   - "[[Construct]]"
   - "[[Direct Instruction]]"
@@ -39,6 +41,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Metacognition]]"
   - "[[Educational Affordances]]"
+  - "[[Collaborative Learning]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learning by Doing]]"
   - "[[Technology Infusion]]"
@@ -78,9 +81,9 @@ updated: 2026-10-22
 > - **边界** 区别于无指导的自由活动，也区别于仅以解决抽象问题为目的而无需交付制品的问题导向学习；在缺乏教师[[Scaffolding\|脚手架]]或学生自我调节能力偏低时，易诱发认知过载或无序交互。
 
 > [!boundary]- 概念边界
-> - 不等于 **问题导向学习（[[Problem-Based Learning]]）** — 两者同属建构主义探究模式并常共享“PBL”简称，但终局产出不同：问题导向学习聚焦于对特定劣构临床/理论问题的合理解释与诊断模型，不强制要求产出物化制品；项目式学习则必须围绕驱动问题开发出具体、可公开展示的产品或解决方案原型（Product/Artifact）。
+> - 不等于 **问题导向学习（[[Problem-Based Learning]]）** — 两者同属建构主义[[Inquisitive Mode of Governance|探究模式]]并常共享“PBL”简称，但终局产出不同：问题导向学习聚焦于对特定劣构临床/理论问题的合理解释与诊断模型，不强制要求产出物化制品；项目式学习则必须围绕驱动问题开发出具体、可公开展示的产品或解决方案原型（Product/Artifact）。
 > - 不等于 **传统手工[[Homework\|作业]]/附加活动（Hands-on Activity / Dessert Project）** — 传统教学往往把项目当作单元教学结束后的“甜点（Dessert Project）”，仅用于复述已知知识；真实的项目式学习是学习本身的“主菜（Main Course Project）”，核心知识的建构与高阶思维的习得直接发生在探究与制作流程中。
-> - 不等于 **无指导[[Discovery Learning\|发现学习]]（Pure Discovery Learning）** — 项目式学习并非任由学生盲目尝试，而是需要严密的[[Task Structure\|任务结构]]设计、阶段性里程碑检查（Milestones）、同伴互评与教师认知脚手架。
+> - 不等于 **无指导[[Discovery Learning\|发现学习]]（Pure Discovery Learning）** — 项目式学习并非任由学生盲目尝试，而是需要严密的[[Task Structure\|任务结构]]设计、阶段性里程碑检查（Milestones）、[[Peer Assessment|同伴互评]]与教师认知脚手架。
 
 > [!citation-card] 项目式学习的定义与认知定位
 > 项目式学习强调以学习者为中心、探究驱动的活动，学生通过参与现实世界的项目来[[Constructed Knowledge\|建构知识]]。在此情境下，生成式人工智能可充当有价值的认知伙伴，提供多元资源与多维视角，赋能学生自主探索和解决复杂问题。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
@@ -109,7 +112,7 @@ updated: 2026-10-22
 > - **持续性深度探究（Sustained Inquiry）** 学生通过提问、查找资源、[[Design-Based Research\|设计实验]]和应用信息展开迭代式探究，而非快速寻找既定标准答案。
 > - **公开制品交付（Public Product）** 最终成果必须转化为可公开展示、具有实际社会或学术应用价值的物化制品或解决方案。
 > - **学生发言权与选择权（Voice & Choice）** 赋予学生对项目规划、资源配置、产品形式及探究路径的自主决策权，增强主体责任感。
-> - **批判性反思与迭代修正（Critique & Revision）** 过程内嵌持续的[[Formative Assessment\|形成性评价]]、同伴互评与原型修正机制，促进[[Metacognition\|元认知监控]]能力的提升。
+> - **批判性反思与迭代修正（Critique & Revision）** 过程内嵌持续的[[Formative Assessment\|形成性评价]]、[[Peer Assessment|同伴互评]]与原型修正机制，促进[[Metacognition\|元认知监控]]能力的提升。
 
 > [!logic-map]- 项目式学习的认知推进与产出机制
 > ```mermaid
@@ -153,7 +156,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **真实情境与高阶认知激活** | 驱动性问题与制品导向将认知投入转化为发散与批判能力 | 探究型课程设计、跨学科实践、创新能力培养 | Zhao et al. |
-> | **智能认知伙伴与探究协同** | 生成式技术作为多重视角伙伴放大项目探究效能 | 人工智能赋能课堂、复杂工程设计、协作学习情境 | Zhao et al. |
+> | **智能认知伙伴与探究协同** | 生成式技术作为多重视角伙伴放大项目探究效能 | 人工智能赋能课堂、复杂工程设计、[[Collaborative Learning\|协作学习]]情境 | Zhao et al. |
 
 ---
 
@@ -200,12 +203,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence\|生成式人工智能]]对[[Higher-Order Thinking Skills\|高阶思维]]影响的一阶[[Meta-analysis\|元分析]]中，将项目式学习作为核心教学模式调节[[Variable\|变量]]，检验发现其在各类教学形态中表现出最高的显著促进效应，并证实了 AI 作为认知伙伴在探究情境中的协同价值。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [项目式学习 · Project-based learning](https://www.visiblelearningmetax.com/influences/view/project-based_learning)
 > 教学策略 › 教学方法

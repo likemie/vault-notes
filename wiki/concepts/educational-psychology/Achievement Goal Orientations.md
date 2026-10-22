@@ -4,6 +4,11 @@ aliases:
   - 成就目标定向
 summary: "Visible Learning MetaX 因素掌握趋近目标、掌握回避目标、表现趋近目标、表现回避目标的条目，归属学生 › 动机取向；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Achievement Goal Orientations
-
-## Visible Learning MetaX
 
 > [!metax] [掌握趋近目标 · Mastery goals - approach](https://www.visiblelearningmetax.com/influences/view/mastery_goals_-_approach)
 > 学生 › 动机取向

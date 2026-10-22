@@ -4,6 +4,11 @@ aliases:
   - 身体综合征
 summary: "Visible Learning MetaX 因素身体综合征的条目，归属学生 › 生理因素；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Physical Syndromes
-
-## Visible Learning MetaX
 
 > [!metax] [身体综合征 · Physical syndromes](https://www.visiblelearningmetax.com/influences/view/physical_syndromes)
 > 学生 › 生理因素
@@ -52,4 +55,4 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Rebelo et al. (2018) 与 Ruff et al. (2019) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 15 项，研究数 295，加权平均效应量 -0.45，未加权平均效应量 -0.37（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 15 项，研究数 295，加权平均效应量 -0.45，未加权平均效应量 -0.37（仅供参考，尚未经文献核实）。

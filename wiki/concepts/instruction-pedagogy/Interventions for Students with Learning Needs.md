@@ -4,6 +4,11 @@ aliases:
   - 特殊学习需要学生干预
 summary: "Visible Learning MetaX 因素特殊学习需要学生干预的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Interventions for Students with Learning Needs
-
-## Visible Learning MetaX
 
 > [!metax] [特殊学习需要学生干预 · Interventions for students with learning needs](https://www.visiblelearningmetax.com/influences/view/interventions_for_students_with_learning_needs)
 > 教学策略 › 教学方法

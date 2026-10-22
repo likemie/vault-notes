@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 43
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,13 +22,16 @@ tags:
   - metax
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Differentiated Instruction]]"
   - "[[Grade Retention]]"
+  - "[[Student Motivation]]"
   - "[[Socioeconomic Status]]"
   - "[[Comprehensive Education]]"
   - "[[Academic Engagement]]"
   - "[[Causality]]"
   - "[[School Choice]]"
   - "[[Talent Assumption]]"
+  - "[[Teacher Expectations]]"
   - "[[Ontology]]"
   - "[[Peer-Supported Learning]]"
   - "[[Intellectual-Social Divide]]"
@@ -88,12 +91,12 @@ updated: 2026-10-22
 > [!concept-lens] 概念透镜
 > - **含义** 指向中等教育中依据[[Academic Achievement\|学业表现]]对学生实施的结构性分流与层化机制，涵盖校内课程分轨、全科分班以及校际选拔等形态。
 > - **用途** 揭示教育机会与核心学科资源如何在制度化分流中发生非均等配置，解释社会经济阶层不平等如何披着“客观能力选拔”的中立外衣被合法化再生产。
-> - **边界** 分轨制不同于基于动态诊断的个别化辅导或弹性走班差异化教学；它具有不可逆的行政定轨特征、导向分化的文凭资格证书，并伴随持久的社会心理身份标签。
+> - **边界** 分轨制不同于基于动态诊断的个别化辅导或弹性走班[[Differentiated Instruction|差异化教学]]；它具有不可逆的行政定轨特征、导向分化的文凭资格证书，并伴随持久的社会心理身份标签。
 
 > [!citation-card] 跨国评估对分轨制损害公平与动机的实证定性
 > [[OECD\|经合组织]]（[[OECD]]）基于 [[PISA]] 跨国大样本数据，对分轨制破坏教育公平的机制给出了系统性定性：
 > 
-> 学校系统中的层化（例如[[Grade Retention\|留级]]以及过早根据能力将学生选拔分流至不同‘轨道’或不同类型学校）与教育公平呈现显著负相关；且高度分层系统中的学生学习动机往往显著低于低分层系统……按学业成绩隔离学生的学校体系，往往在统计上高度重合于按[[Socioeconomic Status|社会经济地位]]和正规数学暴露频率的隔离。（OECD, 2013b, p. 14, Slide 86; 引自 [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）
+> 学校系统中的层化（例如[[Grade Retention\|留级]]以及过早根据能力将学生选拔分流至不同‘轨道’或不同类型学校）与教育公平呈现显著负相关；且高度分层系统中的[[Student Motivation|学生学习动机]]往往显著低于低分层系统……按学业成绩隔离学生的学校体系，往往在统计上高度重合于按[[Socioeconomic Status|社会经济地位]]和正规数学暴露频率的隔离。（OECD, 2013b, p. 14, Slide 86; 引自 [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）
 > 
 > *Stratification in school systems (e.g. grade repetition and selecting students at a young age for different ‘tracks’ or types of schools) is negatively related to equity; and students in highly stratified systems tend to be less motivated than those in less-stratified systems... school systems that segregate students according to their performance tend to be those where students are also segregated by socio-economic status and by the frequency of their exposure to formal mathematics.*
 
@@ -176,7 +179,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **宏观公平抑制命题** | 早期分轨与层化显著加剧阶层隔离，削弱教育公平并挫伤学生整体动机 | 跨国大规模学业评估、国家中等教育学制比较分析 | OECD; Grey & Morris |
-> | **微观认知预言命题** | [[Talent Assumption\|天赋假设]]与适应逻辑诱发低轨学生的个人降级，促成自我实现的失败循环 | 学校内部课程分轨、教师期望形成与边缘学生心理干预 | Oakes & Guiton; Li |
+> | **微观认知预言命题** | [[Talent Assumption\|天赋假设]]与适应逻辑诱发低轨学生的个人降级，促成自我实现的失败循环 | 学校内部课程分轨、[[Teacher Expectations\|教师期望]]形成与边缘学生心理干预 | Oakes & Guiton; Li |
 > | **体制去分轨增益命题** | 转向综合中学与推迟分流能够阻断背景差距传导，兼顾系统质量与公平 | 国家教育体制重构、消除早期物理分轨与综合高中改革 | OECD; Grey & Morris |
 > | **组织决策与准实验转向** | 能力分组触及学校核心组织刚性导致 RCT 招募失败，需转向利用自然变异的准实验设计（QEDs）开展因果评估 | 宏观学校组织决策因果推断、循证资助序列设计 | Edovald & Nevill; Roy et al. |
 
@@ -269,12 +272,6 @@ updated: 2026-10-22
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [资优生能力分组 · Ability grouping for gifted students](https://www.visiblelearningmetax.com/influences/view/ability_grouping_for_gifted_students)
 > 课堂 › 班级构成

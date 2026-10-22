@@ -132,12 +132,6 @@ updated: 2026-10-22
 > |:---|:---|
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 考察人造卫星危机后美国全面借用英国幼儿学校的案例，以此反衬当代全球化情境下跨国企业与多标度网络对教育[[Champ\|场域]]的重塑。 |
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [开放式与传统课堂 · Open vs. traditional classrooms](https://www.visiblelearningmetax.com/influences/view/open_vs._traditional_classrooms)
 > 课堂 › 班级构成
 >

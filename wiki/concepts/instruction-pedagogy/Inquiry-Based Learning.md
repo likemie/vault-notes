@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 61
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Procedural Skill]]"
+  - "[[Self Explanation]]"
   - "[[Metacognition]]"
   - "[[Computer Simulation]]"
   - "[[Epistemic Cognition]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Productive Failure]]"
   - "[[Executive Function]]"
   - "[[Inhibitory Control]]"
+  - "[[Differentiated Instruction]]"
   - "[[Constructivist Paradigm]]"
   - "[[Nature of Science]]"
   - "[[Visible Learning]]"
@@ -136,7 +138,7 @@ updated: 2026-10-22
 
 > [!feature|notitle] 核心要素
 > - **自主生成新知（Generating New Knowledge）** 学习者通过调查生成对其自身而言全新的概念理解，而非单纯验证教师事先讲授的定论。
-> - **高阶主动参与（Active Intellectual Work）** 学习者进行实质性的深层认知加工（包括精细化、自我解释与[[Metacognition\|元认知监控]]），而非机械应答。
+> - **高阶主动参与（Active Intellectual Work）** 学习者进行实质性的深层认知加工（包括精细化、[[Self Explanation|自我解释]]与[[Metacognition\|元认知监控]]），而非机械应答。
 > - **依托经验证据（Using Evidence）** 结论的推导必须严格扎根于物理实验、[[Computer Simulation\|虚拟仿真]]数据或信息文本等实证线索。
 > - **行使[[Epistemic Agency\|认识能动性]]（Epistemic Agency）** 学习者对学习过程拥有自主裁决权，能够提出自己的探究问题并对模型合理性负责。
 > - **复杂推理协调（Complex Reasoning）** 协调多源证据，评估替代性解释，妥善处理实验数据中的反常与异常值。
@@ -215,7 +217,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **指导协同增益** | 指导式探究在概念理解与迁移上优于单一直接讲授，显性支架防范认知超载，纯发现无效 | 中小学及大学理科概念与实验技能教学、认识论认知干预 | Alfieri et al. (2011); Lazonder and Harmsen (2016); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]; [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 485–486)]] |
 > | **时序动态整合** | 探究与直接讲授在不同节点互补嵌入（前置、即时或生产性失败），决定长效保持 | 科学探究课程单元设计与延迟迁移巩固 | [[Deanna Kuhn\|Dean & Kuhn (2007)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 8–10)]] |
-> | **目标与特质调节** | 依据教学目标层次、领域先验知识与抑制控制能力动态调整指导强度 | 差异化教学与智能化数字探究环境开发 | Frey et al. (2017); Gerard and Linn (2022); Homer and Plass (2014) |
+> | **目标与特质调节** | 依据教学目标层次、领域先验知识与抑制控制能力动态调整指导强度 | [[Differentiated Instruction\|差异化教学]]与智能化数字探究环境开发 | Frey et al. (2017); Gerard and Linn (2022); Homer and Plass (2014) |
 
 ---
 
@@ -297,12 +299,6 @@ updated: 2026-10-22
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
 > - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [探究式教学 · Inquiry-based teaching](https://www.visiblelearningmetax.com/influences/view/inquiry-based_teaching)
 > 教学策略 › 教学方法

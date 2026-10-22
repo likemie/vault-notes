@@ -12,7 +12,7 @@ aliases:
 summary: "涵盖学生间协同探究与教师间教研协作的双层互助学习范式；在学生层面通过认知外显与包容试错促进深度理解，在教师层面依托教研室信任文化与经验共享维系专业共同体，构成抵御新自由主义绩效工资零和竞争侵蚀的核心屏障。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -43,10 +43,12 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Professional Judgment]]"
+  - "[[Teacher Trust]]"
   - "[[Professional Learning Community]]"
   - "[[Scaffolding]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Benevolence]]"
+  - "[[Chain of Evidence]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -149,7 +151,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **学生认知与美德命题** | 结对帮扶与协作对话通过认知外显与道德认同超越[[Zero-Sum Competition\|零和竞争]]，实现群体共同提升 | 班级小组[[Cooperative Learning\|合作学习]]、课代表制度、校风建设 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; Chen et al. |
 > | **教师专业土壤命题** | 关怀互信、包容试错的教研室同伴文化是有效教学与学校改进的决定性基石 | 教师专业发展、校本教研、学校组织变革 | Hattie (2008); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] |
-> | **政策异化反思命题** | 绩效工资引入金钱博弈撕裂教师信任纽带，诱发经验私藏与防御性教学 | 教师薪酬政策制定、反对新自由主义考评 | Murnane & Cohen; Snook et al. |
+> | **政策异化反思命题** | 绩效工资引入金钱博弈撕裂[[Teacher Trust\|教师信任]]纽带，诱发经验私藏与防御性教学 | 教师薪酬政策制定、反对新自由主义考评 | Murnane & Cohen; Snook et al. |
 
 ---
 
@@ -222,18 +224,12 @@ updated: 2026-10-22
 
 ---
 
-> [!evidence-grid] 证据链条
+> [!evidence-grid] [[Chain of Evidence|证据链]]条
 >
 > | 论证条目 | 证据类型 | 关键学者 / 报告 | 支撑的核心论断 |
 > |:---|:---|:---|:---|
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 批判性政策审议与理论解构 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Hattie (2008); Murnane and Cohen (1981) | 揭示学校改进与[[Effective Teaching\|有效教学]]高度依赖教研室同伴文化，实证批判[[Performance Pay\|绩效工资]]对教师互信协作的破坏。 |
 > | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 跨文化[[Fieldwork\|田野调查]]与纵向追踪 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; Chen et al.; Heyman et al. | 系统剖析东亚学校基于“同学”伦理的同伴互助学习机制、课代表制与[[Learning Virtues\|学习美德]]实践。 |
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [同伴辅导 · Peer tutoring](https://www.visiblelearningmetax.com/influences/view/peer_tutoring)
 > 学生学习策略 › 学生学习观

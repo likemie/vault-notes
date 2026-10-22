@@ -4,6 +4,11 @@ aliases:
   - 自我言语化与自我提问
 summary: "Visible Learning MetaX 因素自我言语化／自我提问的条目，归属学生学习策略 › 元认知／自我调节学习；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Self-Verbalization and Self-Questioning
-
-## Visible Learning MetaX
 
 > [!metax] [自我言语化／自我提问 · Self-verbalization / self questioning](https://www.visiblelearningmetax.com/influences/view/self-verbalization~self_questioning)
 > 学生学习策略 › 元认知／自我调节学习
@@ -43,4 +46,4 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Marzano et al. (2000) 在列表中重复出现。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 345，加权平均效应量 0.56，未加权平均效应量 0.52（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 345，加权平均效应量 0.56，未加权平均效应量 0.52（仅供参考，尚未经文献核实）。

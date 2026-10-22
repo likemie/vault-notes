@@ -15,7 +15,7 @@ aliases:
 summary: "关于学习者感官偏好及教学匹配的假说，整合其证据基础、教师信念与媒体传播机制，以及概念转变干预的条件。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Habituation]]"
   - "[[Hypothesis]]"
   - "[[Neuromyth]]"
+  - "[[Differentiated Instruction]]"
   - "[[Individualised Instruction]]"
   - "[[Epistemology]]"
   - "[[Teacher Beliefs]]"
@@ -83,7 +84,7 @@ updated: 2026-10-22
 > 在教师教育与科学传播讨论中，缺乏经验支持的感官通道匹配信念也被称为学习风格神话（Learning Style Myth，德语 Lerntypenmythos）。其传播可能影响教学资源配置、学生学习进度与教师对学业潜力的判断。[[Argument_Besa_2024_UW|(Besa, 2024, p. 252)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向将学习者按照感官通道或认知习惯进行类型学（Typology）划分并实施差异化教学匹配的理论假说。
+> - **含义** 指向将学习者按照感官通道或认知习惯进行类型学（Typology）划分并实施[[Differentiated Instruction|差异化教学]]匹配的理论假说。
 > - **用途** 揭示商业化教育培训、流行教学法与未经严格检验的神经伪科学如何在教育界广泛传播；作为批判元分析机械唯数字论的标志性案例。
 > - **边界** 严格区别于被实证支持的“多元表征教学”（如同时结合文字与图像的[[Dual Coding Theory|双重编码理论]]）以及关注学生基础水平的[[Individualised Instruction|个别化教学]]；学习风格关注的是感官偏好本身的固化分类。
 
@@ -135,8 +136,7 @@ updated: 2026-10-22
 > **理论前提的逻辑落空** 学习者在特定情境下的信息接收偏好并不等同于认知理解能力；将知识内容（如几何空间概念或音乐节奏）与特定感官通道强制剥离并套用给“特定类型”的学生，在[[Epistemology\|认识论]]和学科教学论上均不成立。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
 
 > [!claim] Looß (2001)
-> **教学实践中的逻辑自相矛盾** 在许多推崇学习类型的实践手册中，一方面宣称“参与感官越多则学习成效越好”，另一方面又要求“针对单一感官类型提供差异化教学”，二者在教学法底层预设上存在根本性的内在冲突。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 255)]]
-
+> **教学实践中的逻辑自相矛盾** 在许多推崇学习类型的实践手册中，一方面宣称“参与感官越多则学习成效越好”，另一方面又要求“针对单一感官类型提供[[Differentiated Instruction|差异化教学]]”，二者在教学法底层预设上存在根本性的内在冲突。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 255)]]
 
 ---
 
@@ -222,7 +222,6 @@ updated: 2026-10-22
 > > - **传统学术批判** 局限于封闭在付费学术期刊中，甚至可能因过度强调[[Falsification\|证伪]]而引发教师心理防御。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 254–255)]]
 > > - **现代科学传播** 主张借助播客、信息中介平台与社交网络，以平实语言和日常案例开展非线性的概念重构。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–258)]]
 
-
 ---
 
 ## 实证数据
@@ -245,19 +244,12 @@ updated: 2026-10-22
 > | [[Argument_Besa_2024_UW\|Besa (2024, p. 255)，引述 Krüger and Konrad (2022)]] | 德国图书市场（2019–2020 年） | 市场文献计量与[[Content Analysis\|内容分析]] | 教师实践指南出版物规模与作者构成 | 共有 410 部流通在售的教师实践指南，绝大多数由一线教师单方撰写 | 行业普查数据 | 揭示实践读物是神话传播的重要载体且鲜有科研人员深度参与 |
 > | [[Argument_Besa_2024_UW\|Besa (2024, p. 256)，引述 Götzfried et al. (2022)]] | 德国职前师范生 | [[Randomised Controlled Trials\|随机对照实验]]研究 | 播客语言风格与概念转变设计对纠正学习风格神话的效果 | 采用通俗日常语言并整合概念转变引导的播客，对学习风格神话的修正更有帮助；所引综述未给出具体组间统计 | — | 证实科学传播的受众适配语言是破除教师[[Neuromyth\|神经神话]]的关键调节变量 |
 
-
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Besa_2024_UW|Besa (2024)]] — 整合学习类型信念、实践指南与播客干预的研究，分析教师教育中的科学传播条件。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Hattie|哈蒂]]对学习风格报告 $d = 0.41$ 却断然否定的反例，揭露[[Meta-meta-analysis|二阶元分析]]放弃底层研究质控并设定绝对门槛的深层矛盾。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 记录英国 [[ResearchED]] 运动中一线教师对学习风格这一典型“教育时尚与神话”的自发抵制与严厉批驳。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [学习风格与学业成就 · Correlating learning styles to achievement](https://www.visiblelearningmetax.com/influences/view/correlating_learning_styles_to_achievement)
 > 学生学习策略 › 学生导向干预

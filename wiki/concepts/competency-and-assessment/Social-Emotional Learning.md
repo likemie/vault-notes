@@ -9,7 +9,7 @@ aliases:
 summary: "个体获取并有效应用理解与管理情绪、确立积极目标、展现同理心、建立正向关系以及作出负责任决策所需的认知、情感与行为素养框架。在全球教育治理中，经历从心理卫生与全人教育起源，到联合国儿童基金会（UNICEF）将其开辟为危机保护与脆弱儿童政策中介新赛道，再到经合组织（OECD）与教科文组织跨界将其量化为跨国比较评价指标（如 SSES 测评）的制度演变，引发了关于非认知能力标准化与文化情境性的深刻争鸣。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,14 +21,17 @@ tags:
   - theme/well-being
   - metax
 related_concepts:
+  - "[[Counseling Effects]]"
   - "[[Soft Power]]"
   - "[[Critical Thinking]]"
   - "[[Academic Achievement]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Social Support]]"
   - "[[Sustainability Education]]"
   - "[[Commensuration]]"
+  - "[[School Bullying]]"
   - "[[Self-control]]"
   - "[[Educational Privatisation]]"
   - "[[Variable]]"
@@ -62,7 +65,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 社会情感学习（Social-Emotional Learning，SEL）是个体在终身发展过程中，系统习得并协调应用自我意识、自我管理、社会意识、人际交往技能以及作出负责任决策所需的认知、情感、态度与行为素养的综合建构。在全球教育治理视阈下，SEL 已从早期的微观心理辅导转译为跨国多边组织开拓全新规制领域、争夺全球规范制定权与慈善资本的核心中介议题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
+> 社会情感学习（Social-Emotional Learning，SEL）是个体在终身发展过程中，系统习得并协调应用自我意识、自我管理、社会意识、人际交往技能以及作出负责任决策所需的认知、情感、态度与行为素养的综合建构。在全球教育治理视阈下，SEL 已从早期的微观[[Counseling Effects|心理辅导]]转译为跨国多边组织开拓全新规制领域、争夺全球规范制定权与慈善资本的核心中介议题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体在社会交往与复杂危机情境中调节心理状态、维系社会连接并实现亲社会适应的非认知能力集群。
@@ -149,7 +152,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1994 年 — [[Collaborative for Academic Social and Emotional Learning Guide\|CASEL]] 创立与概念框架奠基** 丹尼尔·戈尔曼等学者在美国创立学术、社会与情感学习协作会（CASEL），正式确立 SEL 五大[[21st Century Skills and Competencies Discourse\|核心素养]]构架。
-> - **2000–2015 年 — [[UNICEF\|儿童基金会]]与人道援助情境拓殖** 联合国儿童基金会（UNICEF）将 SEL 引入全球南方战乱与灾后紧急教育，构建儿童心理社会支持（PSS）操作指南。
+> - **2000–2015 年 — [[UNICEF\|儿童基金会]]与人道援助情境拓殖** 联合国儿童基金会（UNICEF）将 SEL 引入全球南方战乱与灾后紧急教育，构建儿童心理[[Social Support|社会支持]]（PSS）操作指南。
 > - **2015 年至今 — [[OECD\|经合组织]]测评化与全球多边内卷** 经合组织（OECD）启动“社会与情感能力调查”（SSES），[[UNESCO\|教科文组织]]设立圣雄甘地和平与[[Sustainability Education\|可持续发展教育]]研究所（MGIEP）推广 SEL，使该概念全面卷入全球量化规制网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
@@ -162,7 +165,7 @@ updated: 2026-10-22
 > > 批判人类学者质疑[[OECD\|经合组织]]试图用标准化量表对儿童内心世界打分的合法性。
 > >
 > > - **批判学者** 批评将同理心、情绪适应等深度嵌入本土宗教、家族与社群文化的复杂体验，还原为西方心理学维度的点状分数，是心理测量学在新自由主义治理下的粗暴扩张。
-> > - **经合组织立场** 辩护称科学的三角测量[[Questionnaire\|问卷]]与情境判断测验（SJT）能够有效排除文化偏误，为国家制定反校园欺凌与促进学生心理健康政策提供严谨循证依据。
+> > - **经合组织立场** 辩护称科学的三角测量[[Questionnaire\|问卷]]与情境判断测验（SJT）能够有效排除文化偏误，为国家制定反[[School Bullying|校园欺凌]]与促进学生心理健康政策提供严谨循证依据。
 >
 > > [!axis] 自我负责的情绪管治 vs 制度性不公的遮蔽
 > > 批判社会学指出 SEL 潜藏着将社会结构问题内化为个体心理缺陷的道德风险。
@@ -191,12 +194,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[UNICEF\|联合国儿童基金会]]率先开辟社会情感学习新赛道，并引发[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]跨界跟进争夺全球规制权与私人资金的组织生态学案例。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [社会情感学习 · Socio-emotional learning](https://www.visiblelearningmetax.com/influences/view/socio-emotional_learning)
 > 课程 › 其他课程项目

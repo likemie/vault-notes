@@ -6,9 +6,9 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 119
-related_level: 11
-related_stars: "💎💎💎⭐⭐"
+related_count: 121
+related_level: 12
+related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/critical-thinking
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Operationalization]]"
   - "[[Rote Learning]]"
+  - "[[Peer Assessment]]"
   - "[[Reflective Thinking]]"
   - "[[Blended Learning]]"
   - "[[Scaffolding]]"
@@ -81,6 +82,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Scoring Rubrics]]"
   - "[[Formative Assessment]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -239,7 +241,7 @@ updated: 2026-10-22
 > | **6.3 学生提出开放式问题或执行思维任务**<br>（Student Epistemic Initiative） | 学生不提开放式问题，也不执行任何思维任务，仅被动接收信息。 | 学生不主动提问，但在指导下执行浅层思维任务。 | 学生主动提出探究性开放问题（如“为什么 6 - 9 会等于负数？”），或自主执行实质性思维任务。 |
 >
 > **跨学科典型学科行为对照（Teach 规程）**
-> - **语言学科（阅读／写作）** 低阶表现为机械认读字母与抄写范句；中阶表现为看图匹配首字母、回答关于主角与背景的事实提取题；高阶表现为探讨替换词首字母对词义与发音的生成规律、依据情节预测后续故事走向并与同伴互评、分析不同句式结构的表达优劣。
+> - **语言学科（阅读／写作）** 低阶表现为机械认读字母与抄写范句；中阶表现为看图匹配首字母、回答关于主角与背景的事实提取题；高阶表现为探讨替换词首字母对词义与发音的生成规律、依据情节预测后续故事走向并与[[Peer Assessment|同伴互评]]、分析不同句式结构的表达优劣。
 > - **数学学科（数与代数／几何）** 低阶表现为机械背诵 1–100 数字与照抄公式算式；中阶表现为按大小对已知数列升降排序、运用固定公式套算黑板长方形面积；高阶表现为在多组数序列中自主探究公共数论规律、基于商品菜单设定预算进行真实找零情境估算、通过折纸染色探究等价分数模式并推导通则、测量并计算真实教室环境的几何面积。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
 
 ---
@@ -501,14 +503,8 @@ updated: 2026-10-22
 > - **生成式 AI 促进批判性思维的元分析实证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis|元分析]]综合 29 项实验（批判性思维子维度 $k = 20$），证实生成式 AI 显著促进批判性思维（$g = 0.691$），并指出 AI 偶发幻觉反而能激发学生对抗质疑与核验反思。
 > - **[[Epistemic Cognition|认识论认知]]干预与批判性论证元分析** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 综合 26 项干预（$N = 4,373$），证实认识论认知干预对高阶论证产生强劲因果促进（$d = 1.047$），并确立基础教育阶段是认识论素养培育的黄金窗口。
 > - **[[Knowledge-Based Economy|知识经济]]规约与民主批判遮蔽** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 446)]] 揭示新自由主义知识经济[[Social Imaginary|社会想象]]如何将教育还原为[[Human Capital Theory|人力资本]]投资，将批判性思维降格为市场工具并遮蔽公民民主反思。
-> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
+> - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性[[Scoring Rubrics|评分量规]]（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
 > - **初等教育微观[[Classroom Observation|课堂观察]]与批判性思维[[Operationalization|操作化]]** [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] 在中低收入国家课堂观察工具 Teach 中将批判性思维操作化为开放式追问、实质性思维任务与学生主动提问三大微观行为，建立了区分[[Rote Learning|死记硬背]]与深层[[Content Analysis|内容分析]]的学科教学锚点。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
 > 学生 › 先备知识与背景

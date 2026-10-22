@@ -76,12 +76,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 ASC 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [积极自我概念 · Positive self-concept](https://www.visiblelearningmetax.com/influences/view/positive_self-concept)
 > 学生 › 自我
 >

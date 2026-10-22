@@ -10,7 +10,7 @@ aliases:
 summary: "教师在组织教学内容、阐明目标准则、解释概念逻辑与传达行动指令时所呈现的条理透彻与易于理解的专业沟通品质；在二阶元分析中以d=0.75位居教师实践效应量第二位，能通过降低无关认知负荷显著赋通学生的表层吸收与深层思维建构。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Productive Failure]]"
   - "[[Problem Solving]]"
   - "[[Concept Mapping]]"
+  - "[[Advance Organizers]]"
   - "[[Homework]]"
   - "[[Paradigm]]"
   - "[[Microteaching]]"
@@ -102,7 +103,7 @@ updated: 2026-10-22
 
 > [!feature|notitle] 核心要素
 > - **目标与准则显性化（Clarity of Intentions & [[Success Criteria]]）** 明确宣告“本次课要学什么”以及“达到何种标准才算掌握”，使学习者从开端即拥有清晰的自我监控参照系。
-> - **概念阐释的结构严密性（Conceptual Structural Transparency）** 运用[[Concept Mapping|概念图]]、先行组织者与多维对比，清晰梳理新旧知识交汇点，揭示学科知识的深层内在网络。
+> - **概念阐释的结构严密性（Conceptual Structural Transparency）** 运用[[Concept Mapping|概念图]]、[[Advance Organizers|先行组织者]]与多维对比，清晰梳理新旧知识交汇点，揭示学科知识的深层内在网络。
 > - **分步示范与支架化指令（Explicit [[Scaffolding]] Instructions）** 将复杂任务拆解为阶段性子任务，通过“出声思考（Think-Aloud）”向学生全景展示解题专家的思维推理过程。
 > - **理解核查与响应性澄清（Checking for Understanding）** 敏锐捕捉学生眼神与课堂沉默，通过高频精准提问诊断概念混淆，并即时开展重构解释。
 
@@ -186,12 +187,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [教师清晰度 · Teacher clarity](https://www.visiblelearningmetax.com/influences/view/teacher_clarity)
 > 教师 › 教师特质

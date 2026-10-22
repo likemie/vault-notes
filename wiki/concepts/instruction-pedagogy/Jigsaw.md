@@ -190,12 +190,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]将拼图法作为四类合作技术之一综合评估，合成[[Effect Size\|效应量]]为 ES = 0.72，纳入 6 个独立效应量。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [拼图法 · Jigsaw method](https://www.visiblelearningmetax.com/influences/view/jigsaw_method)
 > 教学策略 › 教学方法
 >

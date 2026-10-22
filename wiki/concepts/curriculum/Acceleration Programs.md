@@ -4,6 +4,11 @@ aliases:
   - 跳级加速项目
 summary: "Visible Learning MetaX 因素跳级加速项目的条目，归属课程 › 资优生课程；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "curriculum"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Acceleration Programs
-
-## Visible Learning MetaX
 
 > [!metax] [跳级加速项目 · Acceleration programs](https://www.visiblelearningmetax.com/influences/view/acceleration_programs)
 > 课程 › 资优生课程

@@ -4,6 +4,11 @@ aliases:
   - 创造力与学业成就
 summary: "Visible Learning MetaX 因素创造力与学业成就的条目，归属学生 › 先备知识与背景；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Relating Creativity to Achievement
-
-## Visible Learning MetaX
 
 > [!metax] [创造力与学业成就 · Relating creativity to achievement](https://www.visiblelearningmetax.com/influences/view/relating_creativity_to_achievement)
 > 学生 › 先备知识与背景

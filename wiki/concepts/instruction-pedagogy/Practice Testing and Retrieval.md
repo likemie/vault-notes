@@ -4,6 +4,11 @@ aliases:
   - 练习测验与提取练习
 summary: "Visible Learning MetaX 因素测验效应、频繁测验、练习测验、提取练习的条目，归属教学策略 › 反馈；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Practice Testing and Retrieval
-
-## Visible Learning MetaX
 
 > [!metax] [测验效应 · Effects of testing](https://www.visiblelearningmetax.com/influences/view/effects_of_testing)
 > 教学策略 › 反馈

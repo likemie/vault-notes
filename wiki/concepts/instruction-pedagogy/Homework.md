@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Effective Teaching]]"
   - "[[Learning Gain]]"
+  - "[[Teaching Assistant]]"
   - "[[Open-Mindedness]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Feedback]]"
@@ -31,24 +32,24 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Learner Autonomy]]"
   - "[[Counterfactual]]"
-  - "[[Academic Achievement]]"
   - "[[Executive Function]]"
+  - "[[Cultural Capital]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Class Size]]"
   - "[[Visible Learning]]"
+  - "[[Variable]]"
+  - "[[Epistemic Agency]]"
+  - "[[Epistemic Friction]]"
+  - "[[Academic Achievement]]"
   - "[[Zone of Desired Effects]]"
   - "[[Rote Learning]]"
   - "[[Reflexivity]]"
-  - "[[Variable]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
-  - "[[Competitiveness]]"
-  - "[[Cultural Capital]]"
-  - "[[Teaching Assistant]]"
   - "[[Tracking]]"
-  - "[[Class Size]]"
-  - "[[Epistemic Agency]]"
-  - "[[Epistemic Friction]]"
+  - "[[Competitiveness]]"
+  - "[[Time Management]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -59,20 +60,20 @@ related_methods:
   - "[[Process Tracing]]"
   - "[[Confidence Interval]]"
 related_facts:
+  - "[[CREATES Project]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education Endowment Foundation]]"
   - "[[Teacher Choices]]"
   - "[[Sputnik Shock 1957]]"
-  - "[[CREATES Project]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
-  - "[[Argument_Du_Yuan_2026_AIS]]"
 related_persons:
   - "[[Steve Higgins]]"
   - "[[John Hattie]]"
@@ -105,7 +106,7 @@ updated: 2026-10-22
 > [!citation-card] 希金斯论家庭作业元分析中的构念混淆
 > 把五岁儿童带回家的绘本共读、中学生备战统考的代数练习、单纯背诵单词的机械抄写以及在校内由助教辅导的作业俱乐部混为一谈，除了制造出一个看似科学实则毫无意义的抽象数值之外，根本无法指导具体的课堂实践。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]
 >
-> *Conflating a five-year-old sharing a picture book with parents, a secondary student practicing algebra for examinations, rote vocabulary copying, and an after-school homework club guided by Teaching Assistants creates a meaningless aggregate number that offers zero guidance to authentic classroom practice.*
+> *Conflating a five-year-old sharing a picture book with parents, a secondary student practicing algebra for examinations, rote vocabulary copying, and an after-school homework club guided by [[Teaching Assistant|Teaching Assistants]] [[CREATES Project|creates]] a meaningless aggregate number that offers zero guidance to authentic classroom practice.*
 
 > [!boundary]- 概念边界与活动形态辨析
 > [[Steve Higgins|史蒂夫·希金斯]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 37–38]]）系统指出了被笼统归类为“家庭作业”的各类异质性学习形态及其边界张力：
@@ -130,10 +131,10 @@ updated: 2026-10-22
 ## 核心要素
 
 > [!feature] 核心要素
-> - **学段认知发展阶梯（Developmental Cognitive Readiness）** 家庭作业的促学机制严格依赖学习者的前额叶[[Executive Function|执行功能]]、[[Metacognition|元认知监控]]与[[Working Memory|工作记忆]]容量；小学阶段认知负荷调控弱，作业学业增益微弱，而初高中阶段具备[[Learner Autonomy|自主学习]]策略，作业带来实质概念巩固与提取强化。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]; [[EEF Teaching and Learning Toolkit|(EEF, 2021)]]
-> - **形成性反馈回路质量（Formative Feedback Loop）** 作业本身的耗时并不直接产生学习，缺乏教师针对性纠偏的机械做题容易固化错误概念；作业效能取决于从“布置 $\to$ 提取练习 $\to$ 诊断发现 $\to$ 讲评订正”的完整反馈回路。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
-> - **任务性质与思维阶次（Task Epistemic Level）** 涵盖程序性规则记忆（背诵乘法表、单词抄写）与高阶概念探究（预习反思、开放性项目）；脱离理解的低阶机械操练极易诱发倦怠，深层探究任务更能促进知识迁移与[[Higher-Order Thinking Skills|高阶思维]]建构。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]
-> - **家庭社会文化资本依托（Home Cultural Capital Dependency）** 居家作业情境高度依赖家庭物理空间（独立书桌）、家长辅导胜任力与家庭[[Cultural Capital|文化资本]]；在缺乏学校支架的情境下，高难度作业易转化为放大阶层学业差距的制度载体。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 27)]]
+> - **学段认知发展阶梯（Developmental Cognitive Readiness）** 家庭作业的促学机制严格依赖学习者的前额叶[[Executive Function|执行功能]]、[[Metacognition|元认知监控]]与[[Working Memory|工作记忆]]容量；小学阶段认知负荷调控弱，作业学业增益微弱，而初高中阶段具备[[Learner Autonomy|自主学习]]策略，作业带来实质概念巩固与提取强化。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]; (EEF, 2021)
+> - **形成性反馈回路质量（Formative [[Feedback]] Loop）** 作业本身的耗时并不直接产生学习，缺乏教师针对性纠偏的机械做题容易固化错误概念；作业效能取决于从“布置 $\to$ 提取练习 $\to$ 诊断发现 $\to$ 讲评订正”的完整反馈回路。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
+> - **任务性质与思维阶次（Task Epistemic Level）** 涵盖程序性规则记忆（背诵乘法表、单词抄写）与高阶概念探究（预习反思、[[Open-Mindedness|开放性]]项目）；脱离理解的低阶机械操练极易诱发倦怠，深层探究任务更能促进知识迁移与[[Higher-Order Thinking Skills|高阶思维]]建构。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]
+> - **家庭社会[[Cultural Capital|文化资本]]依托（Home Cultural Capital Dependency）** 居家作业情境高度依赖家庭物理空间（独立书桌）、家长辅导胜任力与家庭[[Cultural Capital|文化资本]]；在缺乏学校支架的情境下，高难度作业易转化为放大阶层学业差距的制度载体。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 27)]]
 > - **全流程思维追踪与独立可恢复性（Process Recoverability in AI Era）** 在[[Generative Artificial Intelligence|生成式人工智能]]普及背景下，作业考核从单纯交付静态成品前移至中间认识动作与推理链条的透明化，要求学生具备脱离工具后自主复现论证的可恢复性。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 
 > [!logic-map]- 家庭作业有效性生成机制与调节模型
@@ -151,12 +152,12 @@ updated: 2026-10-22
 > [!entry-map]- 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |
 > |---|---|---|
-> | [[Effective Teaching|有效教学]] | 理论假定 | 作业传统上被预设为课堂有效教学时间的课外延伸与记忆提取支架。 |
-> | [[Feedback|教学反馈]] | 效能中介 | 作业能否促进学习取决于形成性反馈回路的质量，而非机械工时的长短。 |
-> | [[Self-Regulated Learning|自我调节学习]] | 学业机制 | 高质量课外作业依赖学生的[[Metacognition|元认知]]规划，同时也是培养时间自律的载体。 |
-> | [[Class Size]] | 政策对照 | 与班级规模同为被《[[Visible Learning|可见的学习]]》高度关注却被简单平均扭曲解释的核心[[Variable|变量]]。 |
-> | [[Epistemic Agency|认识主体性]] | 评价危机 | 唯成品作业导致学生直接向算法委托认知动作，剥夺了自主负责的认识主体性。 |
-> | [[Epistemic Friction|思维摩擦]] | 认知机理 | 过程性作业设计通过对抗查错与思维日志，强行保留必要的思维摩擦。 |
+> | [[Effective Teaching\|有效教学]] | 理论假定 | 作业传统上被预设为课堂有效教学时间的课外延伸与记忆提取支架。 |
+> | [[Feedback\|教学反馈]] | 效能中介 | 作业能否促进学习取决于形成性反馈回路的质量，而非机械工时的长短。 |
+> | [[Self-Regulated Learning\|自我调节学习]] | 学业机制 | 高质量课外作业依赖学生的[[Metacognition\|元认知]]规划，同时也是培养时间自律的载体。 |
+> | [[Class Size]] | 政策对照 | 与班级规模同为被《[[Visible Learning\|可见的学习]]》高度关注却被简单平均扭曲解释的核心[[Variable\|变量]]。 |
+> | [[Epistemic Agency\|认识主体性]] | 评价危机 | 唯成品作业导致学生直接向算法委托认知动作，剥夺了自主负责的认识主体性。 |
+> | [[Epistemic Friction\|思维摩擦]] | 认知机理 | 过程性作业设计通过对抗查错与思维日志，强行保留必要的思维摩擦。 |
 
 ---
 
@@ -233,7 +234,7 @@ updated: 2026-10-22
 > [!citation-card] 人工智能时代唯成品作业的效度瓦解
 > 当教育考评只奖励光鲜精美的最终成品，却让推导过程与论证辩护隐形不可见时，全盘委托技术便成为学生的理性选择。作业考核必须从静态成果转向全流程思维追踪与独立可恢复性测试，否则作业将彻底丧失其促进认知发展的育人功能。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 >
-> *When educational assessment rewards only polished final products while leaving the intermediate steps of reasoning and defense invisible, complete delegation to technology becomes the rational choice for students. Assessment must pivot from static outputs to full-process thinking tracking and independent recoverability.*
+> *When educational assessment rewards only polished final products while leaving the intermediate steps of reasoning and defense invisible, complete delegation to technology becomes the rational choice for students. Assessment must pivot from static outputs to full-process thinking [[Tracking|tracking]] and independent recoverability.*
 
 ---
 
@@ -246,7 +247,7 @@ updated: 2026-10-22
 > | **反馈机制与全班转向** | 作业效能取决于形成性反馈回路而非工时耗费；全班集中反馈可替代逐本批改内卷并保障学业增益。 | 教师日常作业设计、课后作业批改与讲评改革 | Edovald & Nevill |
 > | **简单平均与构念拼盘批判** | 隐匿公式将 5 项元分析简单平均得出 $d = 0.29$，既违反样本量加权原则，又抹杀了高中作业的真实高价值；丹麦据此全境废除作业揭示去情境治理的盲动。 | 循证政策审查、元分析方法学评估与教学指导 | Johnson & Janzen; Higgins; Terhart; Nielsen & Klitmøller |
 > | **对照基线倒错扭曲** | 原始研究控制组基线混乱（无作业、常规作业、半批作业），致使元分析合成效应失去明确反事实比较意义。 | 因果推断实证设计、元分析纳入标准与质量审查 | Simpson |
-> | **[[Process Tracing|过程追踪]]与可恢复性** | 唯成品考核在 AI 时代效度瓦解，作业需前移至思维日志、对抗查错与无技术迁移测试。 | 智能化时代作业重构、大学学术写作与高阶评价改革 | Du & Yuan |
+> | **[[Process Tracing\|过程追踪]]与可恢复性** | 唯成品考核在 AI 时代效度瓦解，作业需前移至思维日志、对抗查错与无技术迁移测试。 | 智能化时代作业重构、大学学术写作与高阶评价改革 | Du & Yuan |
 
 ---
 
@@ -268,7 +269,7 @@ updated: 2026-10-22
 > > [!axis] 巩固知性自律 vs 剥夺童年与加剧家庭不平等
 > > 争论焦点在于家庭作业是培养自律品格与学业卓越的必要阶梯，还是侵占儿童身心健康并再生产家庭阶层差距的制度推手。
 > >
-> > - **自律与延伸学习论** 强调作业培养了时间管理、独立思考与自制力，是课堂有限教学时间的不可或缺补充。
+> > - **自律与延伸学习论** 强调作业培养了[[Time Management|时间管理]]、独立思考与自制力，是课堂有限教学时间的不可或缺补充。
 > > - **家庭资本不平等再生产论** 批判学者指出，居家作业质量高度依附于家庭[[Cultural Capital|文化资本]]与物理环境（独立安静书桌、家长辅导能力、辅导资源购置）；当教师布置需要家庭资源强力支持的探究作业时，作业实质上沦为将社会经济不平等直接折射为学业差距的放大器。
 >
 > > [!axis] 教师精细书面批改神话 vs 形成性全班集中反馈效能
@@ -314,10 +315,6 @@ updated: 2026-10-22
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]] | 英格兰中小学教师日常教学实践 | 被试内微型试验试点（[[Teacher Choices]] strand） | 逐本逐页批改作业（Marking Books）vs 全班集中形成性反馈（Whole-Class [[Feedback]]） | 针对一线教师最关切的微观决策，旨在评估全班集中反馈在显著减轻教师工作负荷的同时能否维持或提升学生理解深度 | 探索性因果试验试点 | 推动因果评估向教师日常微观决策渗透，打破传统作业精细批改的工时内卷神话 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]（引述 Carboni, 2013） | 丹麦基础教育中小学与教育行政机构 | 政策个案审查与文献方法学质检 | 家庭作业总体均值（$d = 0.29$）引发的公共政策废除决策 | 丹麦多家教育机构依据哈蒂均值在全境中小学全面废除家庭作业；忽视高中（$d=0.64$）与小学（$d=0.15$）鸿沟以及学科与能力调节 | — | 证实将脱离情境的无调节二阶均值直接套用至公共教育治理，会导致对高年级[[Effective Teaching\|有效教学]]实践的一刀切误杀 |
 
----
-
-## Visible Learning MetaX
-
 > [!metax] [家庭作业 · Homework](https://www.visiblelearningmetax.com/influences/view/homework)
 > 技术、学校与校外策略 › 校外
 >
@@ -346,7 +343,7 @@ updated: 2026-10-22
 ## 相关研究索引
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 还原[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作业效应量计算公式，证实其采用简单算术平均（$d=0.29$）掩盖[[Sample Size Determination|样本量]]权重与高中作业（$d=0.64$）与小学作业（$d=0.15$）的巨大鸿沟（pp. 25–27）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 还原[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作业[[Effect Size|效应量]]计算公式，证实其采用简单算术平均（$d=0.29$）掩盖[[Sample Size Determination|样本量]]权重与高中作业（$d=0.64$）与小学作业（$d=0.15$）的巨大鸿沟（pp. 25–27）。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统批判家庭作业在实证研究中的定义模糊性与“苹果和橙子”[[Construct|构念]]混淆，剖析干预效果与相关效果的本质区别（pp. 37–38, 44）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 解构家庭作业的学段断层（小学 $d = 0.15$ vs 中学 $d = 0.64$），警示单一合并效应量对教育决策与教学实践的严重误导（p. 97）。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 通过身高类比与 21% 班级提分概率换算，具象化解构 Hattie $d = 0.29$ 效应量背后的真实微弱性与 35% 负面/中性研究事实（p. 427）。

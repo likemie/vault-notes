@@ -92,14 +92,6 @@ updated: 2026-10-22
 > - **政治工具化**。国际测试已成为新自由主义经济定义下的政治工具，强化了一种正当世界秩序的定义。
 > - **地方化与标准化的张力**。结果导向课程往往伴随着标准化的评估体系，但不同地区和学校的情境差异很大，标准化可能忽视[[Local Knowledge in Evidence-Based Policy\|地方知识]]和文化多样性。
 
----
-
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [成果导向教育 · Outcomes based education](https://www.visiblelearningmetax.com/influences/view/outcomes_based_education)
 > 课程 › 其他课程项目
 >

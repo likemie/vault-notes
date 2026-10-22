@@ -4,6 +4,11 @@ aliases:
   - 学生人格特质
 summary: "Visible Learning MetaX 因素学生人格、学生人格：宜人性、学生人格：尽责性、学生人格：外向性、学生人格：神经质、学生人格：开放性的条目，归属学生 › 学生人格；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Student Personality Traits
-
-## Visible Learning MetaX
 
 > [!metax] [学生人格 · Student personality](https://www.visiblelearningmetax.com/influences/view/student_personality)
 > 学生 › 学生人格

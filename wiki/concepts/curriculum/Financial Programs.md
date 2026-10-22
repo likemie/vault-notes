@@ -4,6 +4,11 @@ aliases:
   - 经济资助项目
 summary: "Visible Learning MetaX 因素经济资助项目的条目，归属课程 › 其他课程项目；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "curriculum"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Financial Programs
-
-## Visible Learning MetaX
 
 > [!metax] [经济资助项目 · Financial programs](https://www.visiblelearningmetax.com/influences/view/financial_programs)
 > 课程 › 其他课程项目

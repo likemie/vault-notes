@@ -6,10 +6,10 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/educational-leadership-administration
   - theme/school-leadership
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[New Public Management]]"
+  - "[[Teacher Trust]]"
   - "[[Poor Research Use]]"
   - "[[Transformative Leadership]]"
   - "[[Dialogue in Education]]"
@@ -65,6 +66,7 @@ related_methods:
   - "[[Analysis of Variance]]"
 related_persons:
   - "[[Jorunn Møller]]"
+  - "[[James C. Scott]]"
   - "[[Scott Eacott]]"
   - "[[Pierre Bourdieu]]"
   - "[[Mark Rickinson]]"
@@ -103,7 +105,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - **不等于 传统的科层行政管理（Bureaucratic Administration）** 行政管理侧重规章制度维护、考勤考评与日常事务性运转；学校领导力侧重教学愿景引领、组织文化塑造与人员赋能。
-> - **不等于 去情境化的伟人英雄叙事（Heroic Leadership）** 领导力并非个别校长的天赋特质或独断决断，而是深植于教师信任关系、教研共同体与分布式协作中的集体能力。
+> - **不等于 去情境化的伟人英雄叙事（Heroic Leadership）** 领导力并非个别校长的天赋特质或独断决断，而是深植于[[Teacher Trust|教师信任]]关系、教研共同体与分布式协作中的集体能力。
 > - **不等于 自上而下的独断强加（Bee in their bonnet）** 领导者单凭个人一时冲动强推未经全员协商的外来方案，属于典型的[[Poor Research Use\|劣质研究使用]]，会引发教师强烈怨怼与教学停滞。
 
 ---
@@ -154,7 +156,7 @@ updated: 2026-10-22
 > 批判将学校领导力抽象为普适商业管理技术的流行假设，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
 
 > [!claim] Møller; Eacott
-> **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与斯科特·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在社会经济处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–49)]]
+> **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与[[James C. Scott|斯科特]]·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在社会经济处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–49)]]
 
 ---
 
@@ -269,10 +271,6 @@ updated: 2026-10-22
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 州中小学 906 名教育者（两轮[[Questionnaire\|问卷]]）与 29 名访谈受访者 | 两轮标准化李克特问卷调查与[[In-depth Interview\|深度访谈]]主题分析 | 领导力在[[Research Utilization\|研究使用]]中的使能权重、言行示范认可度与互信文化诉求 | 89% 访谈与 72% 问卷认同领导力为核心驱动力；84% 管理者与 73% 教师认同领导必须言行一致示范转化；82% 视师资与领导互信为关键促成条件；领导支持显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育从业者主观经验自陈，证实了领导力示范在证据利用组织生态中的首要地位 |
 > | [[Argument_Møller_2017_EERJ\|Møller (2017)]] | 20+ 个国家参与的国际成功学校校长项目（ISSPP）多样本 | 跨国质性多[[Case Study\|案例研究]]与叙事综合 | 成功学校校长的跨情境基本实践特征与伦理取向 | 提炼出设定方向、发展人员、组织改进、建立信任与安全环境 5 项基本实践；共同展现强烈的伦理关怀与社会正义承诺 | — | 案例高度依赖校长自我报告，需审慎防范个人英雄故事的方法学偏误 |
 > | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题编码分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [校长／学校领导者 · Principals / school leaders](https://www.visiblelearningmetax.com/influences/view/principals~school_leaders)
 > 学校 › 领导

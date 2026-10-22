@@ -74,12 +74,6 @@ updated: 2026-10-22
 > - [[Grade Retention in French-Speaking Belgium]] — 高留级率和改革减半目标展示了证据与政策之间的转换摩擦([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 174]])。
 > - [[Pact for Educational Excellence]] — 将降低留级率列入结构性改革，但没有全面禁止共同核心阶段留级([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.172, 174]])。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [留级 · Retention](https://www.visiblelearningmetax.com/influences/view/retention)
 > 课堂 › 课堂氛围
 >

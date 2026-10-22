@@ -4,6 +4,11 @@ aliases:
   - 学业拖延
 summary: "Visible Learning MetaX 因素拖延的条目，归属学生 › 情绪；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Academic Procrastination
-
-## Visible Learning MetaX
 
 > [!metax] [拖延 · Procrastination](https://www.visiblelearningmetax.com/influences/view/procrastination)
 > 学生 › 情绪

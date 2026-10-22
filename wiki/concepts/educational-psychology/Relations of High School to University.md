@@ -4,6 +4,11 @@ aliases:
   - 高中成就与大学成就
 summary: "Visible Learning MetaX 因素高中成就与大学成就的条目，归属学生 › 先备知识与背景；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Relations of High School to University
-
-## Visible Learning MetaX
 
 > [!metax] [高中成就与大学成就 · Relations of high school to university](https://www.visiblelearningmetax.com/influences/view/relations_of_high_school_to_university)
 > 学生 › 先备知识与背景

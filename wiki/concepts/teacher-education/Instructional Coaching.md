@@ -4,6 +4,11 @@ aliases:
   - 教学教练指导
 summary: "Visible Learning MetaX 因素教练指导的条目，归属教师 › 教师教育；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "teacher-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Instructional Coaching
-
-## Visible Learning MetaX
 
 > [!metax] [教练指导 · Coaching](https://www.visiblelearningmetax.com/influences/view/coaching)
 > 教师 › 教师教育

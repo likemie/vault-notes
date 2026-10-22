@@ -4,6 +4,11 @@ aliases:
   - 翻转课堂
 summary: "Visible Learning MetaX 因素翻转课堂的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Flipped Classrooms
-
-## Visible Learning MetaX
 
 > [!metax] [翻转课堂 · Flipped classrooms](https://www.visiblelearningmetax.com/influences/view/flipped_classrooms)
 > 教学策略 › 教学方法

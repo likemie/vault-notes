@@ -220,12 +220,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立任务在轨时间的定格快照[[Operationalization|操作化]]规程，证实其作为基础支柱对学生学业增益的联合预测力。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [任务时间 · Time-on-task](https://www.visiblelearningmetax.com/influences/view/time-on-task)
 > 学生学习策略 › 学习策略
 >
@@ -251,4 +245,4 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Shulruf et al. (2006) 与 Purdie & Hattie (1999) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 11 项，研究数 327，加权平均效应量 0.50，未加权平均效应量 0.44（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 11 项，研究数 327，加权平均效应量 0.50，未加权平均效应量 0.44（仅供参考，尚未经文献核实）。

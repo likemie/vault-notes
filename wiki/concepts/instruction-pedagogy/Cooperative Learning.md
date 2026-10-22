@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -22,6 +22,8 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Structured Teaching]]"
   - "[[Paradigm]]"
+  - "[[Lecturing]]"
+  - "[[Collaborative Learning]]"
   - "[[Task Structure]]"
   - "[[Individualised Instruction]]"
   - "[[Wicked Problem]]"
@@ -42,6 +44,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Problem Solving]]"
+  - "[[Attitude Towards Content Domains]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
 related_theories: []
@@ -80,8 +83,8 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 以小群体的社会化互动与认知协商为载体，将个体学业成功与同伴成功深度绑定的[[Structured Teaching\|结构化教学]]组织[[Paradigm\|范式]]。
-> - **用途** 帮助教育研究者与一线教师超越传统单向灌输式讲授法，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
-> - **边界** 合作学习区别于无结构约束的自发小组讨论（Unstructured Group Work），也不同于去中心化且赋予学生完全自主决策权的协作学习（Collaborative Learning）。
+> - **用途** 帮助教育研究者与一线教师超越传统单向灌输式[[Lecturing|讲授法]]，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
+> - **边界** 合作学习区别于无结构约束的自发小组讨论（Unstructured Group Work），也不同于去中心化且赋予学生完全自主决策权的[[Collaborative Learning|协作学习]]（Collaborative Learning）。
 
 > [!citation-card] 经典界定与代表性表述
 > 合作学习被经典定义为“一种小组学习活动组织形式，使学习依赖于学习者在小组中社会结构化的信息交流，其中每个学习者既对自己的学习负责，又有动力促进他人的学习”（Olsen & Kagan, 1992, p. 8）。在合作学习小组中，不同能力层次的学生为了实现共同目标而协作，通过深入研讨、相互解释材料并彼此激励，最终使所有成员获得超越个体单独学习的学业与认知成长（Slavin, 2014; Gillies & Ashman, 2003; Johnson & Johnson, 1994）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
@@ -97,7 +100,7 @@ updated: 2026-10-22
 ## 概念辨析
 
 > [!contrast-table] 合作学习与相近教学[[Paradigm\|范式]]多维对比
-> | 维度 | 合作学习（Cooperative Learning） | 协作学习（Collaborative Learning） | [[Individualised Instruction\|个别化教学]]（Individualised Instruction） | 传统竞争性讲授（Competitive / Lecture） |
+> | 维度 | 合作学习（Cooperative Learning） | [[Collaborative Learning\|协作学习]]（Collaborative Learning） | [[Individualised Instruction\|个别化教学]]（Individualised Instruction） | 传统竞争性讲授（Competitive / Lecture） |
 > |---|---|---|---|---|
 > | **组织结构** | 教师高度结构化设计，明确角色分工与规则 | 教师低结构化介入，学生自主组织与协商 | 学生独立自定步调学习，无小组互动 | 教师统一面对全班讲授，学生单向听讲 |
 > | **权威与控制** | 教师控制任务框架、评价规则与进度节奏 | 权威向学生转移，学生自主设定解决路径 | 教师或学习系统预设个性化进度与路径 | 教师掌握绝对课堂权威与知识解释权 |
@@ -230,7 +233,7 @@ updated: 2026-10-22
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对数学[[Academic Achievement\|学业成就]]的干预效应 | $k = 36$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.59$ $[0.38, 0.80]$ | — | 土耳其等地区数学混合学段，全实验与[[Quasi-Experimental Designs\|准实验设计]] |
-> | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对数学学科态度的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.52$ $[-0.20, 1.24]$ | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
+> | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对数学[[Attitude Towards Content Domains\|学科态度]]的干预效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.52$ $[-0.20, 1.24]$ | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
 > | Fuad et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：[[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写对语言阅读成就的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 2.04$ $[1.35, 2.74]$ | — | 印尼 K-12 阶段准实验，[[Effect Size\|效应量]]极其突出 |
 > | Gürdoğan-Bayır & Bozkurt (2018)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对社会科学业成就的干预效应 | $k = 32$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.96$ $[0.72, 1.19]$ | — | 土耳其 K-12 阶段，社会科概念建构效果显著 |
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：综合合作学习对混合学科学业成就的干预效应 | $k = 51$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.54$ $[0.47, 0.60]$ | — | 多国混合学科与学段，样本规模大但检出[[Publication Bias\|发表偏倚]] |
@@ -272,12 +275,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项[[Meta-analysis\|元分析]]的[[Meta-meta-analysis\|二阶元分析]]显示合作学习对[[Academic Achievement\|学业成就]]（0.71）、[[Higher-Order Thinking Skills\|高阶思维]]（0.76）与情感（0.51）均有效，[[Jigsaw\|拼图法]]等技术与学科具调节作用。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [合作学习 · Cooperative learning](https://www.visiblelearningmetax.com/influences/view/cooperative_learning)
 > 教学策略 › 教学方法

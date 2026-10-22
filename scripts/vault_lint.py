@@ -2231,6 +2231,11 @@ def check_new_entries_mentioned_in_arguments(paths: List[Path], issues: List[Iss
         typ = str(data.get("type") or "").strip()
         if typ not in ARGUMENT_REQUIRED_NEW_ENTRY_TYPES:
             continue
+        tags = data.get("tags") or []
+        if isinstance(tags, list) and "metax" in tags:
+            # MetaX stub entries are created from metax/mapping.json and indexed from the
+            # Visible Learning Meta-X fact entry, not from an Argument page.
+            continue
         title = str(data.get("title") or path.stem).strip()
         if title:
             new_entries.append((path, title, typ))

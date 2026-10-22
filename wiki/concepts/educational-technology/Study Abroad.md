@@ -4,6 +4,11 @@ aliases:
   - 出国留学
 summary: "Visible Learning MetaX 因素出国留学的条目，归属技术、学校与校外策略 › 校外；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-technology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Study Abroad
-
-## Visible Learning MetaX
 
 > [!metax] [出国留学 · Study abroad](https://www.visiblelearningmetax.com/influences/view/study_abroad)
 > 技术、学校与校外策略 › 校外

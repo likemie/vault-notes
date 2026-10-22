@@ -260,12 +260,6 @@ updated: 2026-10-22
 > | [[Scaffolding]] | 概念 | 教学支架 | 外部支架通过接管表面操作，防止工作记忆出现过载崩溃。 |
 > | [[Direct Instruction]] | 概念 | 教学[[Paradigm\|范式]] | 直接教学主张通过全显性讲授将工作记忆外在负荷压制到最低。 |
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [工作记忆能力 · Working memory strength](https://www.visiblelearningmetax.com/influences/view/working_memory_strength)
 > 学生 › 先备知识与背景
 >

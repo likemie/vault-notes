@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Reliability]]"
   - "[[Divergent Thinking]]"
+  - "[[Deliberate Practice]]"
   - "[[Reflexivity]]"
   - "[[Open-Mindedness]]"
   - "[[Evidence Standards]]"
@@ -120,7 +121,7 @@ updated: 2026-10-22
 > | 维度 | [[Creativity\|创造力]]训练（Creativity Training） | 传统直接教学（[[Direct Instruction]]） | 一般批判性思维教学（[[Critical Thinking]]） |
 > |---|---|---|---|
 > | **分析对象** | 学习者的创造潜能、构想生成与问题重构加工 | 结构化事实知识、算法规则与确定性技能 | 论证结构、逻辑推论与证据[[Reliability\|可靠性]] |
-> | **核心机制** | [[Divergent Thinking\|发散思维]]、顿悟酝酿、概念重组与显式启发式策略 | 样例示范、刻意练习、即时反馈与收敛精熟 | 逻辑谬误识别、证据标准评估与[[Reflexivity\|反思性]]判断 |
+> | **核心机制** | [[Divergent Thinking\|发散思维]]、顿悟酝酿、概念重组与显式启发式策略 | 样例示范、[[Deliberate Practice\|刻意练习]]、即时反馈与收敛精熟 | 逻辑谬误识别、证据标准评估与[[Reflexivity\|反思性]]判断 |
 > | **典型实证效应** | 综合干预 $r = 0.20$（高校干预 $g = 0.628$，实验教学 $d \approx 0.60 \sim 0.77$） | 基础技能精熟度 $d \approx 0.50 \sim 0.60$ | 论证与逻辑批判能力 $d \approx 0.30 \sim 0.50$ |
 > | **问题情境特征** | 不良结构、[[Open-Mindedness\|开放性]]、无单一标准答案的真实挑战 | 良构、有明确解题路径与唯一标准答案的任务 | 评价性、论辩性与反思性文本或情境 |
 > | **失败容忍度** | 高容错，鼓励在概念跳跃与试错中发现新构想 | 低容错，强调精确掌握标准操作程序与避免错误 | 中等，强调依据[[Evidence Standards\|证据标准]]纠正错误信念 |
@@ -413,10 +414,6 @@ updated: 2026-10-22
 > | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 干预因素 | 关联因素类型比较：教育教学干预 vs 外认知因素 vs 认知能力 vs 人口学背景 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 **$r = 0.20$** $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明确可塑性 |
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [创造力项目 · Creativity programs](https://www.visiblelearningmetax.com/influences/view/creativity_programs)
 > 课程 › 其他课程项目

@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 61
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Constructive Alignment]]"
   - "[[Direct Instruction]]"
+  - "[[Deliberate Practice]]"
   - "[[Procedural Knowledge]]"
   - "[[Experiential Learning]]"
   - "[[Cooperative Learning]]"
@@ -53,6 +54,7 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Student Satisfaction]]"
   - "[[Problem Finding]]"
+  - "[[Teacher Support for Students]]"
   - "[[Engineering Education]]"
   - "[[Lifelong Learning]]"
 related_theories:
@@ -135,7 +137,7 @@ updated: 2026-10-22
 > | 比较维度 | 问题本位学习（PBL） | [[Direct Instruction\|直接教学（Direct Instruction）]] | [[Phenomenon-Based Learning\|现象本位学习（Phenomenon-Based Learning）]] |
 > |---|---|---|---|
 > | **组织单位** | 需要解释或解决的真实/拟真劣构问题 | 经过教师分解、示范与排序的知识与技能点 | 源自真实生活世界中的具身现象或跨学科主题 |
-> | **学生主要活动** | 激活先备知识、协同建模、检索资料、协作解决与复盘 | 专注听讲、模仿解题、刻意练习并接受即时纠错反馈 | 现象观察体验、跨学科多角度探究与共同反思 |
+> | **学生主要活动** | 激活先备知识、协同建模、检索资料、协作解决与复盘 | 专注听讲、模仿解题、[[Deliberate Practice\|刻意练习]]并接受即时纠错反馈 | 现象观察体验、跨学科多角度探究与共同反思 |
 > | **教师主要作用** | 设计劣构问题、监控小组认知进程、适时提供反思支架 | 显性讲授、清晰示范、逐步推进、检查与即时纠错 | 组织生活世界现象情境、引导跨学科资源与教化反思 |
 > | **主要边界** | 对先备知识水平、问题设计质量与导师支架能力高度敏感 | 易局限于陈述性与[[Procedural Knowledge\|程序性知识]]掌握，自主迁移难度高 | 强调具身经验与芬兰教学论传统，跨情境移植难度大 |
 > | **当前证据提示** | 跨学段综合效应微弱（$d \approx 0.08$）；高等教育二阶综合效应显著（调整后 $d = 0.60$） | 大规模综合报告效应中等偏高（$d \approx 0.60$） | 属于质性教育哲学与课程论辨析，未评价量化干预效应 |
@@ -295,7 +297,6 @@ updated: 2026-10-22
 
 ## 实证数据
 
-
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -341,10 +342,6 @@ updated: 2026-10-22
 > | 同上 | | [[Student Satisfaction\|学生满意度]] | E = 3 | 1.10 [.62, 1.59] | | |
 > | 同上 | | 综合 | E = 4 | .88 [.44, 1.33] | | |
 > | 同上 | | 其他 | E = 4 | .31 [−.08, .70] | | |
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [问题导向学习 · Problem-based learning](https://www.visiblelearningmetax.com/influences/view/problem-based_learning)
 > 教学策略 › 教学方法
@@ -427,7 +424,7 @@ updated: 2026-10-22
 >
 > 医学 PBL 的三跳评估把评价分为三次连续检查。第一次评价学生如何诊断、提出假设、核对临床资料和重新表述问题；第二次复核独立学习获得的知识、理解及信息评价；第三次评价关键概念综合、患者问题应用、自我监控和反馈回应。专业能力由此贯穿培养目标、学习活动和评估任务。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
 
-> [!case] 问题结构与教师支持的实施边界
+> [!case] 问题结构与[[Teacher Support for Students|教师支持]]的实施边界
 > 一门面向新手的课程若直接给出高度开放的问题，学生可能因知识不足而加入无关材料、形成错误模型，并从未知条件逆向推理。课程若把每个步骤、资料来源和正确路径都预先规定，学生又无法练习搜索概念工具、比较解释和选择应用方案。
 >
 > 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding\|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的[[Open-Mindedness|开放性]]因此是一项随学习进展调整的设计[[Variable\|变量]]。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP\|Blass (2020, p. 95)]]

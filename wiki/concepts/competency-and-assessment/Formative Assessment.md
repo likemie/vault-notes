@@ -9,7 +9,7 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Classroom Learning Culture]]"
   - "[[Feedback]]"
   - "[[Dialogue in Education]]"
+  - "[[Peer Assessment]]"
   - "[[Metacognition]]"
   - "[[Constructive Alignment]]"
   - "[[Learning Portfolio]]"
@@ -103,7 +104,7 @@ updated: 2026-10-22
 > - **精心设计诊断性任务（Engineering Effective Tasks）** 创设能够充分暴露学生迷思概念、推理缺陷或创新潜能的探究性与真实性任务。
 > - **贯通反馈三问循环（Three [[Feedback]] Questions）** 围绕“目标通往何处（Where are we going）”、“当前行进至何处（How are we going）”与“下一步走向何方（Where to next）”建立连续的认知与教学调整桥梁。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 15)]]
 > - **提供前瞻性改进反馈（Actionable Feedforward）** 反馈侧重于指出当前表现与目标的差距，并给出具体的行动指引（Feedforward），而非仅仅评判既往结果。
-> - **激活学生作为学习资源（Peer & Self-Assessment）** 组织同伴互评与自我反思，培育[[Metacognition\|元认知]]监控与批判性审视他人作品的素养。
+> - **激活学生作为学习资源（Peer & Self-Assessment）** 组织[[Peer Assessment|同伴互评]]与自我反思，培育[[Metacognition\|元认知]]监控与批判性审视他人作品的素养。
 
 > [!logic-map]- 形成性评价三核心提问的诊断闭环
 > ```mermaid
@@ -167,12 +168,6 @@ updated: 2026-10-22
 > - **[[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]** 结合 [[OECD]] 国际经验系统论述了形成性评价在培育高等教育学生[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]中的基石作用，呼吁在高校质量保障与教学支持中强化形成性评价工具的研发与应用。
 > - **[[Argument_Biggs_1999_HERD\|Biggs (1999)]]** 在[[Constructive Alignment\|建构性对齐]]框架下阐明，[[Learning Portfolio\|学习档案袋]]与过程性反思日志通过持续的师生协商与形成性反馈，能够有效引导学生走向[[Surface and Deep Learning\|深层学习]]。
 > - **[[Argument_Hattie_2005_ACER\|Hattie (2005)]]** 论证以教师为核心的形成性评价系统（[[Assessment Tools for Teaching and Learning\|asTTle]]）如何通过三核心反馈提问引导目标设定与教学反思，打破传统自上而下的总结性问责困局（pp. 11–21）。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [形成性评价 · Formative evaluation](https://www.visiblelearningmetax.com/influences/view/formative_evaluation)
 > 教学策略 › 反馈

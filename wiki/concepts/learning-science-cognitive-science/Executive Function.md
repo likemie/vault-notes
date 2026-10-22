@@ -236,12 +236,6 @@ updated: 2026-10-22
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]执行功能的涵盖性界定、三成分结构、学龄期发展轨迹及其对[[Academic Achievement\|学业成就]]与社会情绪发展的长期纵向预测力。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中证实[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]中度正相关（$r = 0.38$），并论证两者共享抑制控制、[[Cognitive Flexibility\|认知灵活性]]与[[Working Memory\|工作记忆]]等执行功能基础。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [执行功能 · Executive functioning](https://www.visiblelearningmetax.com/influences/view/executive_functioning)
 > 学生 › 先备知识与背景
 >

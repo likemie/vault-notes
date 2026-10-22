@@ -9,7 +9,7 @@ aliases:
 summary: "在规模精简（5-10名学生、5-20分钟）的受控模拟情境中，依托单一技能分解、视听录像客观回放与‘备课-授课-评议-重教’迭代循环，支持教师开展高密度刻意练习与反思性诊断的临床师资培养模式。"
 type: concept
 domain: "teacher-education"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,12 +23,14 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[Academic Achievement]]"
+  - "[[Deliberate Practice]]"
   - "[[Paradigm]]"
   - "[[Zone of Desired Effects]]"
   - "[[Lesson Study]]"
   - "[[Champ]]"
   - "[[Performativity]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Advance Organizers]]"
   - "[[Feedback]]"
   - "[[Reflexivity]]"
   - "[[Phronesis]]"
@@ -63,7 +65,7 @@ updated: 2026-10-22
 > **微格教学（Microteaching）** 是一种将复杂的课堂教学活动拆解为特定单项技能，在高度精简的受控模拟环境中进行集训的[[Normal School|师范教育]]与教师在职培训方法。其典型组织架构通常缩减为 5 至 10 名受试学生（或同伴扮演的学习者）以及 5 至 20 分钟的微型授课时长，通过音视频录像客观记录教学行为，随后开展多方评议反馈，进而完成教案修改与重新授课。在教学研究中，微格教学被证实为提升教师课堂实践技能与学生[[Academic Achievement|学业成就]]的最强干预要素之一。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 432)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向教学技能的微观化切片、刻意练习以及基于客观多媒体回放的交互诊断机制。
+> - **含义** 指向教学技能的微观化切片、[[Deliberate Practice|刻意练习]]以及基于客观多媒体回放的交互诊断机制。
 > - **用途** 帮助教师教育者在脱离常态大班管理压力的低风险环境中，精准磨砺教师的导入、提问、板书、反馈与认知引导等基础教学基本功。
 > - **边界** 适用于具体可操作的行为[[Paradigm|范式]]与教学技能习得；不适合直接替代常态复杂班级生态中的长期师生人际关系建立与复杂德育引领。
 
@@ -85,7 +87,7 @@ updated: 2026-10-22
 > | 维度 | 微格教学（Microteaching） | [[Lesson Study\|课例研究]]（Lesson Study） | 常规教育实习（Practicum） |
 > |---|---|---|---|
 > | **教学情境** | 模拟演练环境（微缩规模、同伴或小样本学生） | 真实常态学校班级完整教学环境 | 真实学校生态与多维职场综合情境 |
-> | **聚焦核心** | 孤立教学技能（提问、反馈、讲解）精准刻意练习 | 学科[[21st Century Skills and Competencies Discourse\|核心素养]]培育与学生深层思维发展 | 综合教师身份认同、班级管理与教学实践 |
+> | **聚焦核心** | 孤立教学技能（提问、反馈、讲解）精准[[Deliberate Practice\|刻意练习]] | 学科[[21st Century Skills and Competencies Discourse\|核心素养]]培育与学生深层思维发展 | 综合教师身份认同、班级管理与教学实践 |
 > | **反馈载体** | 音视频精密录像、即时同伴评议与导师逐帧指导 | 听课教师现场观察记录单、课后研讨反思会 | 见习带教导师阶段性总结评定与反思日记 |
 > | **循环结构** | 极短周期（备课-授课-回放-修改-重授）立即重试 | 较长周期（集体设计-实践观摩-反思改进-异班再教） | 学期制连续驻校任教，少有立即回炉重教 |
 
@@ -95,10 +97,10 @@ updated: 2026-10-22
 
 > [!feature|notitle] 核心要素
 > - **时空与样本尺度的微观化压缩（Scaled-Down Context）** 将课堂规模大幅缩小至 5 至 10 人、授课时长缩减为 10 分钟左右，消除常态大班的纪律失控焦虑，使执教者全身心聚焦于教学技能本身。
-> - **教学技能的原子化聚焦（Skill-Focused Targeting）** 每次微格训练明确瞄准一项具体的微观技能（如探究性提问、形成性反馈提示、概念先行组织者设计），防止目标泛化。
+> - **教学技能的原子化聚焦（Skill-Focused Targeting）** 每次微格训练明确瞄准一项具体的微观技能（如探究性提问、形成性反馈提示、概念[[Advance Organizers|先行组织者]]设计），防止目标泛化。
 > - **多媒体客观记录与多源视听回放（Objective Video Playback）** 借助全景与特写摄像镜头客观留存教学全过程，使教师能够抽离出行动者视角，以“观察者”身份审视自身的肢体语言、语速、口头禅与提问停顿。
 > - **即时多源诊断性反馈（Immediate Constructive [[Feedback]]）** 演练结束后立即开展指导教师、受训同伴以及自我反思的三方结构化研讨，对照评价标准精准剖析得失。
-> - **修改重教的刻意练习循环（Re-teach Iteration Cycle）** 在吸收反馈意见后迅速重新微调教案，并在同一或平行小组中立即进行第二轮微格授课，巩固改进成果。
+> - **修改重教的[[Deliberate Practice|刻意练习]]循环（Re-teach Iteration Cycle）** 在吸收反馈意见后迅速重新微调教案，并在同一或平行小组中立即进行第二轮微格授课，巩固改进成果。
 
 > [!logic-map]- 微格演练循环流程
 > ```mermaid
@@ -163,7 +165,7 @@ updated: 2026-10-22
 > > [!axis] [[Behaviorism|行为主义]]技能还原 vs 整体情境教学机智
 > > 争论焦点在于教学实践能否被原子化分解为单项技术动作并机械相加。
 > >
-> > - **技能训练学派（Allen & Ryan, 1969）** 认为复杂能力由基础技能组成，通过逐一精准刻意练习才能实现自动化与专业化。
+> > - **技能训练学派（Allen & Ryan, 1969）** 认为复杂能力由基础技能组成，通过逐一精准[[Deliberate Practice|刻意练习]]才能实现自动化与专业化。
 > > - **情境教学论批判视角（[[Argument_Terhart_2011_JCS|Terhart, 2011]]; 德国教学论传统）** 批评过度模块化容易将教学矮化为僵硬的技术清单操作，忽视了真实课堂充满偶然性与复杂人际互动的德育陶冶本质。
 
 ---
@@ -181,12 +183,6 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时梳理教师效能核心因素表，证实微格教学以 $d = 0.88$ 居教师实践首位。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [微格教学／课堂录像回看 · Micro-teaching / video review of lessons](https://www.visiblelearningmetax.com/influences/view/micro-teaching~video_review_of_lessons)
 > 教师 › 教师教育

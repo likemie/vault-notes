@@ -4,6 +4,11 @@ aliases:
   - 学生学习控制权
 summary: "Visible Learning MetaX 因素学生学习自主权的条目，归属学生学习策略 › 学生导向干预；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "learning-science-cognitive-science"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Student Control over Learning
-
-## Visible Learning MetaX
 
 > [!metax] [学生学习自主权 · Student control over learning](https://www.visiblelearningmetax.com/influences/view/student_control_over_learning)
 > 学生学习策略 › 学生导向干预

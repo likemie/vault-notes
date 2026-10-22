@@ -4,6 +4,11 @@ aliases:
   - 学生攻击与暴力
 summary: "Visible Learning MetaX 因素攻击／暴力行为的条目，归属学生 › 情绪；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Student Aggression and Violence
-
-## Visible Learning MetaX
 
 > [!metax] [攻击／暴力行为 · Aggression / violence](https://www.visiblelearningmetax.com/influences/view/aggression~violence)
 > 学生 › 情绪

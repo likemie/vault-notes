@@ -10,7 +10,7 @@ aliases:
 summary: "有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Homework]]"
   - "[[Champ]]"
+  - "[[Flipped Classrooms]]"
   - "[[Paradigm]]"
   - "[[Self-control]]"
   - "[[Scaffolding]]"
@@ -79,7 +80,7 @@ updated: 2026-10-22
 > [!boundary]- 概念边界
 > - **浅层技术叠加** 若只是在传统讲授课堂中放映数字课件，或将纸质练习题扫描上网，而未重塑师生互动流程，属于浅层媒体替换，不构成混合学习。
 > - **完全纯在线远程学习** 混合式学习必须保留定期的面对面实体教学环节，依托教师具身临场感与生生即时协作提供社会性情感支撑与辩论对抗。
-> - **翻转课堂的狭隘等同** 翻转课堂（Flipped Classroom）是混合式学习的一种典型实现[[Paradigm\|范式]]，但混合式学习包含更为宽广的双轨教学架构与项目实践形态。
+> - **[[Flipped Classrooms|翻转课堂]]的狭隘等同** 翻转课堂（Flipped Classroom）是混合式学习的一种典型实现[[Paradigm\|范式]]，但混合式学习包含更为宽广的双轨教学架构与项目实践形态。
 
 ---
 
@@ -182,7 +183,7 @@ updated: 2026-10-22
 >
 >   *此阶段侧重于教学资料的数字化分发与行政事务管理。*
 >
-> - **2010s — 教学法重塑与翻转课堂[[Paradigm\|范式]]整合** 伴随移动互联网与开放教育资源发展，以“课前微课自主先学、课内互动研讨深化”为特征的翻转课堂成为主流，学界强调混合学习的本质是教学范式的重构而非技术的简单装点。
+> - **2010s — 教学法重塑与[[Flipped Classrooms|翻转课堂]][[Paradigm\|范式]]整合** 伴随移动互联网与开放教育资源发展，以“课前微课自主先学、课内互动研讨深化”为特征的翻转课堂成为主流，学界强调混合学习的本质是教学范式的重构而非技术的简单装点。
 >
 > - **2020s 初 — 生成式 AI 赋能的自适应混合生态** [[Generative Artificial Intelligence\|生成式人工智能]]与大语言模型的深度介入，使混合学习中的“线上端”具备了强大的拟人化启发互动能力；混合学习逐步升级为“教师—学生—[[AI Agent in Education\|智能体]]”多元协同共创的新型教学常态。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]
 >
@@ -231,10 +232,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，将混合式学习作为核心教学模式调节[[Variable\|变量]]（$k = 22, g = 0.525, p < 0.001$），实证确证了双轨探究环境在激发学生逻辑排错与反思评估中的稳健促学价值，促学效果显著超越传统讲授式课堂。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将混合学习拓展为人机混合认知与关系性主体性协同的新[[Paradigm\|范式]]，论证线下面对面研讨在注入[[Epistemic Friction\|认知摩擦]]与防范算法依赖中的战略价值。
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [混合式学习 · Blended learning](https://www.visiblelearningmetax.com/influences/view/blended_learning)
 > 技术、学校与校外策略 › 远程／混合

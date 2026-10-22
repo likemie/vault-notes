@@ -4,6 +4,11 @@ aliases:
   - 家长教育参与
 summary: "Visible Learning MetaX 因素父母期望、家长参与、家长参与作业、家长读写项目、家长项目、家长／成人辅导的条目，归属家庭 › 家庭环境；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "sociology-of-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Parental Involvement in Education
-
-## Visible Learning MetaX
 
 > [!metax] [家长／成人辅导 · Parent / Adult tutoring](https://www.visiblelearningmetax.com/influences/view/parent~adult_tutoring)
 > 学生学习策略 › 学生学习观

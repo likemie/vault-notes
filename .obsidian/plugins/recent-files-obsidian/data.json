@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
+    },
+    {
+      "basename": "template-fact-policy",
+      "path": "wiki/templates/template-fact-policy.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "Self-Efficacy",
+      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+    },
+    {
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
+    },
+    {
       "basename": "Visible Learning Meta-X",
       "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
+    },
+    {
+      "basename": "Culturally Sustaining Practices",
+      "path": "wiki/concepts/educational-psychology/Culturally Sustaining Practices.md"
     },
     {
       "basename": "Argument_Jansen_2026_EPR",
@@ -101,10 +129,6 @@
       "path": "wiki/arguments/journal-articles/Scandinavian Journal of Educational Research/Argument_Segerholm_Lindgren_Novak_2022_SJER.md"
     },
     {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
     },
@@ -113,24 +137,12 @@
       "path": "wiki/templates/template-argument-monograph.md"
     },
     {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
-    },
-    {
       "basename": "template-fact-program",
       "path": "wiki/templates/template-fact-program.md"
     },
     {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
-    },
-    {
       "basename": "template-school",
       "path": "wiki/templates/template-school.md"
-    },
-    {
-      "basename": "template-fact-event",
-      "path": "wiki/templates/template-fact-event.md"
     },
     {
       "basename": "template-method",
@@ -187,18 +199,6 @@
     {
       "basename": "Rational Action Theory",
       "path": "wiki/theories/sociology-of-education/Rational Action Theory.md"
-    },
-    {
-      "basename": "Institutional Layering",
-      "path": "wiki/concepts/political-economy-geopolitics/Institutional Layering.md"
-    },
-    {
-      "basename": "Institutional Drift",
-      "path": "wiki/concepts/political-economy-geopolitics/Institutional Drift.md"
-    },
-    {
-      "basename": "Institutional Conversion",
-      "path": "wiki/concepts/political-economy-geopolitics/Institutional Conversion.md"
     }
   ],
   "omittedPaths": [],

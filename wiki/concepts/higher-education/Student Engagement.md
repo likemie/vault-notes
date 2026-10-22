@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Academic Achievement]]"
   - "[[Reflexivity]]"
+  - "[[Extracurricular Activities]]"
   - "[[Directionality of Innovation]]"
   - "[[Critical Thinking]]"
   - "[[Cultural Capital]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Homework]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Time Management]]"
   - "[[Epistemic Friction]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
@@ -109,7 +111,7 @@ updated: 2026-10-22
 
 > [!feature] 学生投入的现代多维架构
 > - **教育性实践活动（Educationally Purposeful Activities）** 投入所指向的载体，包括课程学习、师生学术研讨、学生组织治理、实习实践、志愿服务及同伴协作。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 113)]]
-> - **投入的量（Quantity of Engagement）** 投入时间与精力的多寡，通常体现为课程学时、自主研读时长、课外活动参与频率及领导职务参与。
+> - **投入的量（Quantity of Engagement）** 投入时间与精力的多寡，通常体现为课程学时、自主研读时长、[[Extracurricular Activities|课外活动]]参与频率及领导职务参与。
 > - **投入的质与方向性（Quality & [[Directionality of Innovation|directionality]]）** 投入的策略组织形态。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]指出，优质投入必须具备明确的目标方向，使行动能够有效转化为长效资本，而非盲目发散。
 > - **认识性投入（Epistemic Engagement）** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 提出的核心维度，指学生在探究中主动直面认知困惑、识别不确定性、检验相反证据、反思自身预设并对论点进行理性辩护的心智努力。
 > - **院校制度性支持（Institutional Support）** 学校在课程设置、师资配置、导师指导及课外实践方面提供的资源网络与制度环境。
@@ -206,7 +208,7 @@ updated: 2026-10-22
 > > [!axis] “中立过程假设” vs 阶层习性与结构性不平等
 > > 传统学生投入研究常预设大学是一个公平中立的竞技场，将未积极投入归因于学生个人努力不足。
 > >
-> > - **中立能动论** 认为大学向所有人开放相同的资源，学生能否脱颖而出纯属个人时间管理与主观动机问题。
+> > - **中立能动论** 认为大学向所有人开放相同的资源，学生能否脱颖而出纯属个人[[Time Management|时间管理]]与主观动机问题。
 > > - **社会学批判派（Tierney, 1992; Stuber, 2011; [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）** 指出由于缺乏家庭[[Cultural Capital\|文化资本]]支持，弱势学生在面对大学繁杂体系时容易产生疏离感；要求第一代大学生像中产子弟一样游刃有余地进行师生社交本身就是一种制度苛求。
 >
 > > [!axis] “投入越多越好”的线性假设 vs 策略性资源聚焦
@@ -233,11 +235,7 @@ updated: 2026-10-22
 > | **投入的量** | 学生组织领导职务级别（五级）、知名机构实习段数（五档） | “简述大学四年的求学经历”——通过叙述方式判断投入连续性 | 弱势学生在领导职务与实习段数上显著落后于优势阶层同行。 |
 > | **投入的方向性** | 七项大学目标的重要性自评与排序 | “有了职业理想后你为此做了哪些准备？” | 目标掌控者呈现清晰的阶段性聚焦，直觉依赖者普遍无长期规划。 |
 > | **[[Academic Engagement\|学业投入]]** | [[Academic Achievement\|GPA]] 分布、专业认同度与归属感自评 | 专业喜欢程度、深层阅读时间及知识探究动机 | 目标掌控者为达到特定出路维持稳定 GPA，直觉依赖者易因受挫而学业迷航。 |
-> | **[[Social Engagement\|社会性投入]]** | 深度交友数量、与专业教师学术交流频率 | 课外活动参与动机、对导师及朋辈的情感评价 | 优势学生把社交视为资本积累，弱势学生容易局限于同温层被动交往。 |
-
----
-
-## Visible Learning MetaX
+> | **[[Social Engagement\|社会性投入]]** | 深度交友数量、与专业教师学术交流频率 | [[Extracurricular Activities\|课外活动]]参与动机、对导师及朋辈的情感评价 | 优势学生把社交视为资本积累，弱势学生容易局限于同温层被动交往。 |
 
 > [!metax] [专注、坚持与投入 · Concentration-Persistence-Engagement](https://www.visiblelearningmetax.com/influences/view/concentration-persistence-engagement)
 > 学生 › 毅力与自信

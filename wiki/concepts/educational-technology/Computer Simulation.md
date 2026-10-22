@@ -263,10 +263,6 @@ updated: 2026-10-22
 > | Rieber, Tzeng, & Tribble (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） | 物理力学模拟中提供即时按需直接解释 vs 仅操作模拟 | 物理原理理解与迁移测试表现 | 大学物理探究实验 | 即时解释组显著超越无解释模拟组 | — | $p < .05$ | 实验研究；证实在模拟交互产生认知困惑时适时插入直接原理解释具备极高促学价值 |
 > | van der Graaf, Segers, & de Jong (2020)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8–9]]） | 虚拟实验室与说明文本并置呈现过程中的注视整合 | 科学实验设计质量与概念增益 | 中小学生眼动追踪实验 | 高文本-模拟整合注视组设计了更高质量的对照实验 | — | 过程指标显著相关 | 眼动与实验追踪；证实高质量模拟探究依赖于学生对文本解释与虚拟界面的深层视线整合 |
 
----
-
-## Visible Learning MetaX
-
 > [!metax] [模拟 · Simulations](https://www.visiblelearningmetax.com/influences/view/simulations)
 > 技术、学校与校外策略 › 游戏化
 >

@@ -4,6 +4,11 @@ aliases:
   - 通用学习设计
 summary: "Visible Learning MetaX 因素通用学习设计的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Universal Design
-
-## Visible Learning MetaX
 
 > [!metax] [通用学习设计 · Universal design](https://www.visiblelearningmetax.com/influences/view/universal_design)
 > 教学策略 › 教学方法

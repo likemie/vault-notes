@@ -10,10 +10,10 @@ aliases:
 summary: "个体或家庭在社会结构中所处层级位置与资源占有状况的综合度量指标，在教育实证中是学业表现最强的解释变量，其在元分析中被剔除为调节变量引发了阶级盲教学思维批判"
 type: concept
 domain: "sociology-of-education"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - educational-sociology
   - inequality
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Visible Learning]]"
   - "[[Variable]]"
+  - "[[Home Environment]]"
   - "[[Cultural Capital]]"
   - "[[Construct]]"
   - "[[Habitus]]"
@@ -84,7 +85,7 @@ updated: 2026-10-22
 > **社会经济地位（Socioeconomic Status, SES）** 指个体或家庭在社会分层结构中所占据的相对位置与综合资源占有状况，通常通过父母[[Educational Level|受教育水平]]、职业声望以及家庭收入或物质资产等多维指标进行[[Operationalization|操作化]]测度。在教育实证研究中，社会经济地位被普遍证实为解释学生认知发展、[[Academic Achievement|学业成就]]与受教育机会变异的最强因果决定因素。然而，在以《[[Visible Learning|可见的学习]]》为代表的部分量化[[Meta-analysis|元分析]]综合中，研究者刻意将 SES 排除在课堂教学干预的调节[[Variable|变量]]之外，引发了关于“阶级盲教学思维（class-blind pedagogical thinking）”的学术批评。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 94)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向社会阶层结构在家庭微观层面的资源投影，系统决定着学生课外物质投入、文化熏陶与家庭环境质量。
+> - **含义** 指向社会阶层结构在家庭微观层面的资源投影，系统决定着学生课外物质投入、文化熏陶与[[Home Environment|家庭环境]]质量。
 > - **用途** 在教育社会学与政策评估中充当核心基线指标与关键调节变量，用于剥离宏观背景差距以精确测度学校与教师的净教学增值。
 > - **边界** SES 属于宏观制度与社会结构的既成变量，无法被还原为教师在教室内通过短期心理学技巧随手改变的操作性教学手段；同时不能将其误解为断定学生智识上限的生物遗传宿命论。
 
@@ -212,10 +213,6 @@ updated: 2026-10-22
 > | Hattie (2009) 附录数据<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, p. 7)]] | 孤立测算的家庭社会经济地位（SES）效应 | 涵盖数百项原始实证研究 | Cohen's $d$；二阶未加权均值 | $d = 0.57$（部分表述为 $0.59$） | 被[[John Hattie\|哈蒂]]列为排名前列的正向影响因素，但被禁止作为调节变量参与教学法分析 | 隔离处理；将客观社会结构剥离于具体课堂干预之外 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, pp. 241–242)]] | 底层贫困家庭面临的结构性资源匮乏真实净影响（基准参照反转） | 针对 Hattie $d=0.57$（或 $0.59$）效应量开展数学对偶审计 | 符号转换分析与资本匮乏测算 | 实质为 $d = -0.57$（或 $-0.59$）的极端负向效应 | 成为全书最具破坏力的逆向有害因素，超越留级（$-0.16$）、转学（$-0.34$）与过多看电视（$-0.18$） | 证实单向包装正向均值掩盖阶级压迫；结合挑战者号事故与鱼子酱物价指数比喻批判去情境化未加权汇总 |
 
----
-
-## Visible Learning MetaX
-
 > [!metax] [同伴社会经济地位 · Peer socioeconomic status](https://www.visiblelearningmetax.com/influences/view/peer_socioeconomic_status)
 > 家庭 › 家庭资源
 >
@@ -264,7 +261,7 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Tian et al. (2020) 在列表中重复出现。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,303，加权平均效应量 0.59，未加权平均效应量 0.51（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,303，加权平均效应量 0.59，未加权平均效应量 0.51（仅供参考，尚未经文献核实）。
 
 ---
 

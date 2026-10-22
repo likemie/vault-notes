@@ -40,6 +40,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Academic Achievement]]"
+  - "[[Attitude Towards Content Domains]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -79,7 +80,7 @@ title: "Argument_Knogler_2025_BB"
 argument_key: "Argument_Knogler_2025_BB"
 argument_display_title: "Clearing House Unterricht: Ein innovativer Ansatz zur Stärkung des Wissenschaft-Praxis-Transfers in der Lehrkräftebildung"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -204,7 +205,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 转译过程将高密度英文计量文献解构重塑为面向德语中小学教师的实践指南《课堂中的数字化工具：有哪些类型以及如何有效应用？》，消除了语言与统计学认知壁垒。（p. 15）
 
 > [!case] 典范转化案例：从数字工具元分析到 Kurzreview
-> - **[[Primary and Secondary Documents\|原始文献]]基底** Hillmayr et al. (2020) 检索了 2000 年以来全球针对中学数学与自然科学教学的 92 项实验与准[[Experimental Research\|实验研究]]（$k = 92$），检验数字化工具对学生[[Academic Achievement\|学业成就]]与学科态度的影响。
+> - **[[Primary and Secondary Documents\|原始文献]]基底** Hillmayr et al. (2020) 检索了 2000 年以来全球针对中学数学与自然科学教学的 92 项实验与准[[Experimental Research\|实验研究]]（$k = 92$），检验数字化工具对学生[[Academic Achievement\|学业成就]]与[[Attitude Towards Content Domains|学科态度]]的影响。
 > - **转译标题主张化** 原始标题为学术性描述，CHU 简评将其改写为行动导向的实践发问：“课堂中的数字化工具：有哪些类型以及如何有效应用？”（*Digitale Tools im Unterricht: Welche Typen gibt es und wie kommen sie effektiv zum Einsatz?*）。
 > - **核心概念超级链接** 简评正文中所有专业统计术语均带有下划线，直接超链接至平台在线术语表（Online-Glossar），实现即时概念脚手架。
 > - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度对话。（p. 15）
@@ -278,7 +279,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 > [!stat-cards]- 核心数据
 > - **4–5 / 6** 教师教育者在个体效用、教学适用性、知识深化与时间减负等维度对 [[Clearing House Unterricht\|CHU]] 平台的平均打分。（p. 16）
 > - **2017** 德语区首个教育科学[[Educational Evidence Clearinghouses\|证据清算中心]] Clearing House Unterricht 正式上线运营。（p. 14）
-> - **0.65 / 0.45** 数字化工具对中学生理科[[Academic Achievement\|学业成就]]（Hedges' g）与学科态度的综合因果[[Effect Size\|效应量]]。
+> - **0.65 / 0.45** 数字化工具对中学生理科[[Academic Achievement\|学业成就]]（Hedges' g）与[[Attitude Towards Content Domains|学科态度]]的综合因果[[Effect Size\|效应量]]。
 > - **92** 数字化工具元分析所纳入的国际实验与准实验实证研究总数（k）。（p. 15）
 
 ---

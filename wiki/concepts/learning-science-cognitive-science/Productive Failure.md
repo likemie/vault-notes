@@ -7,10 +7,10 @@ aliases:
 summary: "学习科学与教学设计中的前置探究时序模型，指在正式直接讲授前让学生先行尝试解决复杂的劣构问题，通过挫折激活先验图式并暴露认知盲区，为后续显性讲授创设最佳认知准备状态，进而促进深层概念理解与长效远迁移"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - learning-science
   - instructional-design
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Discovery Learning]]"
   - "[[Rote Learning]]"
+  - "[[Worked Examples]]"
   - "[[Working Memory]]"
   - "[[Epistemology]]"
   - "[[Epistemic Agency]]"
@@ -95,7 +96,7 @@ updated: 2026-10-22
 通过对比不同教学时序编排模式，可以精准定位生产性失败的认知加工特征与教学机制。
 
 > [!contrast-table] 生产性失败与主流教学时序模式辨析
-> | 维度 | 本概念：生产性失败（Productive Failure） | 传统[[Direct Instruction\|直接教学]]后练习（DI-first Practice） | [[Discovery Learning\|纯发现学习]]（Pure Discovery） | 样例学习（Worked Example） |
+> | 维度 | 本概念：生产性失败（Productive Failure） | 传统[[Direct Instruction\|直接教学]]后练习（DI-first Practice） | [[Discovery Learning\|纯发现学习]]（Pure Discovery） | [[Worked Examples\|样例学习]]（Worked Example） |
 > |---|---|---|---|---|
 > | **时序逻辑** | **先劣构探究 ➔ 后直接讲授统整** | 先显性讲授 ➔ 后封闭例题操练 | 仅自主探究，教师拒绝显性介入 | 观察专家解题样例 ➔ 相似题练习 |
 > | **对错误的态度** | **积极资源**（暴露直觉盲区，激活图式） | 消极干扰（视错误为待消除的偏离） | 偶然经历（任由学生陷入错误图式固化） | 尽力规避（通过标准步骤抑制犯错） |
@@ -220,7 +221,7 @@ updated: 2026-10-22
 > > [!axis] 认知负荷理论（CLT）与生产性失败的[[Paradigm\|范式]]争鸣
 > > 争论焦点在于前置无指导探索是否会导致[[Working Memory\|工作记忆]]过载并削弱学习效率。
 > >
-> > - **传统认知负荷学派（Sweller et al.；Zhang et al., 2022）** 坚称初学者工作记忆极度有限，前置探索面对未教授概念属于毫无必要的外部认知负荷，主张必须全程采用样例学习与直接显性讲授。
+> > - **传统认知负荷学派（Sweller et al.；Zhang et al., 2022）** 坚称初学者工作记忆极度有限，前置探索面对未教授概念属于毫无必要的外部认知负荷，主张必须全程采用[[Worked Examples|样例学习]]与直接显性讲授。
 > > - **生产性失败与学习科学派（Kapur, 2016；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）** 指出前置探索激活的是相关内在认知加工，这种“有益的困难”对于发现深层结构差异不可或缺；随后及时的[[Direct Instruction\|直接讲授]]能迅速降低外在负荷并完成整合，两者时序协同完全符合认知经济性。
 >
 > > [!axis] 优等生红利 vs 弱势学生的“挫败性失败”
@@ -250,10 +251,6 @@ updated: 2026-10-22
 > | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 显性规则直接讲授 vs 探究试错与内化（[[Control of Variables Strategy\|CVS]]） | 13 周后的长期保持率（延迟后测） | 实验与延迟追踪对比研究 | 直接讲授组保持率仅 31%；探究试错内化组保持率高达 78%–83% | — | 保持率差异显著（$p < .01$） | 证实经历试错冲突并自主领悟策略的学习者，其长周期抗遗忘能力与远迁移韧性远超直接背诵规则者 |
 > | Chin et al. (2019)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]） | 探究式先行解决问题 vs 传统直接教学 | 未来学习准备（PFL）测验成绩 | K-12 科学探究对照实验 | 探究组在面对全新未讲授的进阶科学任务时表现出显著更高的[[Learner Autonomy\|自主学习]]力 | — | 统计显著（$p < .05$） | 实证确立前置探究在激发未来学习准备（PFL）上的独特增益，超越了单纯直接教学的知识复制 |
 > | Kapur (2016)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） | 生产性失败（探索 ➔ 讲授） vs 传统教学（讲授 ➔ 练习） | 概念理解与远迁移应用 | 系列中学数学与物理 [[Randomised Controlled Trials\|RCT]] | 生产性失败组在深层概念测验与迁移题上全面显著优于传统直接讲授组 | 综合 $d \approx 0.40 \sim 0.60$ | 统计显著（$p < .05$） | 标杆性多阶段 RCT；确立探索前置结合显性讲授在概念深度与弹性上的系统优势 |
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [有益失败（错误） · Productive failure (errors)](https://www.visiblelearningmetax.com/influences/view/productive_failure_(errors))
 > 教学策略 › 反馈

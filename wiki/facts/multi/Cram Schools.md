@@ -81,10 +81,6 @@ updated: 2026-10-22
 
 但研究也揭示了一个不同的视角：东亚父母相信补习班能帮助预防青少年犯罪、让儿童宝贵的青春时间投入更多学习、弥补正规学校教育的不足、提高进入更好学校的机会。这种信念根植于"在学业中取得好成绩是儿童最重要的任务"这一更根本的文化预设([[Argument_Li_2012_Cambridge|Li, 2012, p.68]])。
 
----
-
-## Visible Learning MetaX
-
 > [!metax] [课外补习 · Private tutoring](https://www.visiblelearningmetax.com/influences/view/private_tutoring)
 > 技术、学校与校外策略 › 校外
 >

@@ -4,6 +4,11 @@ aliases:
   - 学业焦虑
 summary: "Visible Learning MetaX 因素焦虑、数学／科学焦虑、减轻焦虑项目、考试焦虑的条目，归属学生 › 情绪；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Academic Anxiety
-
-## Visible Learning MetaX
 
 > [!metax] [焦虑 · Anxiety](https://www.visiblelearningmetax.com/influences/view/anxiety)
 > 学生 › 情绪

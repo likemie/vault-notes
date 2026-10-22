@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 147
+related_count: 148
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Automation Bias]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Collaborative Learning]]"
   - "[[Socratic Dialogue]]"
   - "[[Creative Deskilling]]"
   - "[[Cognitive Deskilling]]"
@@ -269,7 +270,7 @@ updated: 2026-10-22
 > - **四重社会技术中介路径（Sociotechnical Mediation Pathways）** 通过流畅权威性、无摩擦委托、不透明综合与制度化依赖四条交织路径塑造学习者的认识习惯，将界面便利性转化为隐蔽的[[Epistemic Deference|认知顺从]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–7)]]
 > - **多模态人机共建与学科评价标准支架（Multimodal Co-construction & Disciplinary Criteria Scaffolding）** 在 K-12 科学探究与课程实践中，学习者结合大语言模型与图像生成工具共建图文结合的多模态制品。学科领域的显性评价标准（如相关性、因果叙事、概念框架、适切表征水平）充当了关键的认知支架，引导学生穿透 AI 生成的流畅童话叙事与静态图像表象，实施微观[[Discourse|话语]]审问与提示词迭代重构。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 11–18)]]
 > - **反思机器与对抗性质询[[AI Agent in Education|智能体]]（Reflection Machines & Socratic Scaffolding）** 利用大语言模型（LLMs）的自适应对话生成能力，将其设计为嵌入在关键决策与探究节点的反思智能体（Reflection Machines, RMs），通过开放式[[Socrates|苏格拉底]]追问迫使学习者或决策者阐明依据，向交互流程主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范[[Automation Bias|自动化偏差]]与[[Epistemic Deference|认识论顺从]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
-> - **[[Man-Computer Symbiosis|人机协同]]活动系统全要素整合（[[Third Generation Activity Theory\|AT-MCSCL]] Activity System）** 基于[[Third Generation Activity Theory\|活动理论]]移动协作学习架构，将生成式 AI 介入解析为主体（学段与学科特质）、工具（模态与平台）、客体（多维产出）、分工（学习同伴 vs 授课导师）、规则（4–12 周干预周期与反思量规）与共同体情境（数字化水平与权力距离文化）六大要素的协同联动，摆脱单一的技术[[Determinism\|决定论]]。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 3–7)]]
+> - **[[Man-Computer Symbiosis|人机协同]]活动系统全要素整合（[[Third Generation Activity Theory\|AT-MCSCL]] Activity System）** 基于[[Third Generation Activity Theory\|活动理论]]移动[[Collaborative Learning|协作学习]]架构，将生成式 AI 介入解析为主体（学段与学科特质）、工具（模态与平台）、客体（多维产出）、分工（学习同伴 vs 授课导师）、规则（4–12 周干预周期与反思量规）与共同体情境（数字化水平与权力距离文化）六大要素的协同联动，摆脱单一的技术[[Determinism\|决定论]]。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 3–7)]]
 > - **教学活动系统与评价规则重构（Activity System Reconfiguration）** 推动教学评价从“关注最终文字成品”转向“关注提示词迭代链、事实查错过程与反思日志”的全程伴随式评价。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–13)]]
 > - **双模态[[Socratic Dialogue|苏格拉底式对话]]架构与直接答案拦截（Dual-mode Socratic Architecture & Direct Answer Interception Rule）** 探讨生成式 AI 智能体（如 Q-Tutor）的交互设计规范：支持“AI 主导探究（AI-led Inquiry）”与“学生主导练习（Student-led Practice）”双向模态；内置严苛的“直接答案拦截规则”（Direct Answer Interception Rule），在学生寻求快捷答案时拒绝直接给出结论，强制发起分层递进的追问与启发式提示，维系认知挣扎，防范思维与[[Creative Deskilling|创造力去技能化]]（[[Cognitive Deskilling|Deskilling]]）。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 273–276)]]
 > - **概念探究闭合-开放问题序列与个人经验图式交织（Closed-to-Open Question Progression & Personal Schema Integration）** 在概念探究中，[[Generative AI Agent in Education|生成式智能体]]从封闭式收敛问题（厘清基础事实与概念定义）逐步过渡到开放式发散追问（[[Counterfactual|反事实]]情境、跨学科隐喻与现实迁移），并强制引导学生将抽象概念与个人独特的先验知识与生活经验图式（如结合音乐声学或空间模型）深度交织，促进深层理解与内化。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 275–278)]]
@@ -612,12 +613,6 @@ updated: 2026-10-22
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从[[Virtue Epistemology|德性认识论]]与[[Socrates|苏格拉底]]教学法出发，设计并评估 Q-Tutor 双模态生成式[[AI Agent in Education|智能体]]，论证直接答案拦截规则、反事实探究（What-if）与个人经验图式交织在防范认知与[[Creative Deskilling|创造力去技能化]]（[[Cognitive Deskilling|Deskilling]]）、培育学生[[Epistemic Virtues and Vices|理智美德]]与[[Skill of Questioning|提问技能]]中的核心支架作用。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 从认识论与教育哲学出发，破除生成式 AI 作为计算器的工具隐喻，确立其在读写教育中代行全流程的私厨隐喻；揭示算法代写构思、提纲与修改对学习者认知能力造成的成长性认识侵害，并提出树立[[Alien Intelligence|异己智能]]批判意识与推行思维步骤全外显（Showing Steps）的双重教育防御方案。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释了支撑现代超大规模生成式 AI（如 ChatGPT）运行的高性能分布式计算与调度框架（Ray 与 Apache Spark）源于大学前竞争产学五年期联合实验室（[[Universal Parallel Computing Research Centers|UPCRC]]、AMPLab、RISELab）的技术外溢与开源转化路径。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [ChatGPT · ChatGPT](https://www.visiblelearningmetax.com/influences/view/chatgpt)
 > 技术、学校与校外策略 › 移动／触屏

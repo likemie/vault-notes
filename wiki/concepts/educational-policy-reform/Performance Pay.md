@@ -285,12 +285,6 @@ updated: 2026-10-22
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 深度解构英格兰 2013 年教师绩效工资改革，揭示政治精英如何动用媒介资本、利用“遗漏[[Discourse|话语]]”将 [[PISA]] 数据与上海案例逆向裁剪为推行国内争议政策的合法化修辞。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 剖析英格兰 [[Incentivised Pay and Coaching Trial\|ICR]] 教师绩效奖金随机试验因教师强烈伦理抗议与内在动机排斥而招募流产的典型案例，反思外部物质激励在公立校园落地的可行性边界。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [教师绩效工资 · Teacher performance pay](https://www.visiblelearningmetax.com/influences/view/teacher_performance_pay)
 > 学校 › 学校资源
 >

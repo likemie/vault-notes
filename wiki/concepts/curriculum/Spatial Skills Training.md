@@ -4,6 +4,11 @@ aliases:
   - 空间能力训练
 summary: "Visible Learning MetaX 因素空间能力训练的条目，归属课程 › 其他课程项目；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "curriculum"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Spatial Skills Training
-
-## Visible Learning MetaX
 
 > [!metax] [空间能力训练 · Spatial skills / training](https://www.visiblelearningmetax.com/influences/view/spatial_skills~training)
 > 课程 › 其他课程项目

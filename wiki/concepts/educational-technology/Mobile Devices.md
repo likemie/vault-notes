@@ -4,6 +4,11 @@ aliases:
   - 移动设备
 summary: "Visible Learning MetaX 因素移动设备的条目，归属技术、学校与校外策略 › 移动／触屏；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-technology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Mobile Devices
-
-## Visible Learning MetaX
 
 > [!metax] [移动设备 · Mobile devices](https://www.visiblelearningmetax.com/influences/view/mobile_devices)
 > 技术、学校与校外策略 › 移动／触屏
@@ -66,4 +69,4 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Tingir et al. (2017) 与 Fabian et al. (2016) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 29 项，研究数 1,394，加权平均效应量 0.63，未加权平均效应量 0.64（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 29 项，研究数 1,394，加权平均效应量 0.63，未加权平均效应量 0.64（仅供参考，尚未经文献核实）。

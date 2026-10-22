@@ -216,12 +216,6 @@ tags:
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability\|考试问责]]与教学改革的扩展性改造。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [以学生为中心的教学 · Student-centered teaching](https://www.visiblelearningmetax.com/influences/view/student-centered_teaching)
 > 学生学习策略 › 学生导向干预
 >

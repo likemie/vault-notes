@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Gamification]]"
   - "[[Didaktik]]"
   - "[[Effective Teaching]]"
+  - "[[Flipped Classrooms]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Causality]]"
   - "[[Praxis]]"
@@ -125,7 +126,7 @@ updated: 2026-10-22
 ## 核心业务与协同范式
 
 > [!feature] 核心中介业务与转译产品矩阵
-> - **研究简要评价（Kurzreviews）** 针对前沿教学[[Meta-analysis\|元分析]]提炼的德语通俗化评介，系统解构数字化教学、[[Inquiry-Based Learning\|探究式学习]]、翻转课堂、[[Gamification\|游戏化学习]]、[[Self-Regulated Learning\|自我调节学习]]等策略的因果[[Effect Size\|效应量]]、前提条件与教学建议，配套提供评分表（Rating Sheets）与材料下载。
+> - **研究简要评价（Kurzreviews）** 针对前沿教学[[Meta-analysis\|元分析]]提炼的德语通俗化评介，系统解构数字化教学、[[Inquiry-Based Learning\|探究式学习]]、[[Flipped Classrooms|翻转课堂]]、[[Gamification\|游戏化学习]]、[[Self-Regulated Learning\|自我调节学习]]等策略的因果[[Effect Size\|效应量]]、前提条件与教学建议，配套提供评分表（Rating Sheets）与材料下载。
 > - **在线进修学院（CHU-Academy）** 提供体系化在线自学进修课程，涵盖科学证据导论课、[[Effective Teaching\|有效教学]]专题课程，以及最新生成的[[Generative Artificial Intelligence\|生成式人工智能]]在教学中的应用模块。
 > - **概念导引与在线术语表（Online-Glossar）** 针对效应量（Effektstärke）、统计控制、元分析与[[Causality\|因果推断]]等核心概念编制专业教学指南与交互术语表，正文专业术语均内嵌跳转链接。
 > - **专题学术播客与微视频（Podcasts & Videos）** 对接元分析作者与教学实践专家，以音频访谈与动画讲解形式生动解读实证研究结论与课堂落地细节。

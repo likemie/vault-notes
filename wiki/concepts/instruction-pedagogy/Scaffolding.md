@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 66
+related_count: 67
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Cognitive Apprenticeship]]"
   - "[[Apprenticeship]]"
   - "[[Learning Analytics]]"
+  - "[[Inquisitive Mode of Governance]]"
   - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
   - "[[Fade-out Effect]]"
@@ -156,7 +157,6 @@ updated: 2026-10-22
 > - **启发追问与[[Socrates\|苏格拉底]]式反诘（Heuristic Prompting）** 不直接给出结论，而是通过层层设问、反例检验与[[Counterfactual|反事实]]追问，驱动学生主动识别知识缺口、权衡证据并完成路径排错。启发追问是脚手架维持学习者认知主动性的核心操作手段。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 179)]]; [[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 274–278)]]
 > - **可抗辩性提示（Contestability Cues & [[Defeater\|Defeaters]]）** 在[[Man-Computer Symbiosis|人机协同]]决策场景中，自动呈现冲突性数据、[[Alternative Hypothesis\|替代假设]]或反驳型击败者（Rebutting Defeaters），为操作者提供直接质疑算法建议所需的证据线索，降低独立抗辩的认知门槛。[[Argument_Jovchevski_2026_PT\|(Jovchevski et al., 2026, pp. 23–24)]]
 > - **系统性渐隐（Systematic Fading）** 随学习者能力提升，有计划地降低提示密度与支持频率，促使外部依托逐步内化为自主认知图式。渐隐是区分脚手架与永久性替代工具的核心判据——缺乏撤除设计的持续辅助将退化为[[Cognitive Offloading|认知外包]]而非脚手架。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 4)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]
-
 
 > [!logic-map]- 双轨脚手架运行、认识演进与渐隐内化机制图
 > ```mermaid
@@ -262,7 +262,7 @@ updated: 2026-10-22
 > - **2000s–2016 — 数字化科学探究与指导等价性确立** Quintana 等人构建软件支架框架；Lazonder and Harmsen (2016) 针对 72 项研究的[[Meta-analysis\|元分析]]确立了指导支架使探究成效提升 $d = 0.50$ 以及六种支架类型促学等价性的实证规律。
 > - **2020s–2024 — 智能自适应技术与分阶段渐隐策略** 随着大语言模型与[[AI Agent in Education\|智能体]]的普及，脚手架从静态规则提示发展为能够开展多轮启发式对话与实时[[Learning Analytics\|学习分析]]的动态认知伙伴；学界聚焦于分阶段渐隐策略与先验调节，防止技术环境下的心智外包与多重支架过载。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
 > - **2025 — 双轨干预支架与[[Epistemic Stances\|认识立场]]演进模型确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出双轨干预矩阵（技术提示支架 + 教学法支架），系统阐明其在支持认识立场向评价主义演进与维系[[Epistemic Agency\|认识主体性]]中的必要机制。
-> - **2026 — 可抗辩性支持、认知安全与反驳型支架机制；Q-Tutor [[Virtue Epistemology|德性认识论]]框架下的[[Cognitive Deskilling|去技能化]]防范支架** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 拓展脚手架理论至安全关键人机决策领域，提出[[Defeater|反驳型击败者]]（Rebutting Defeaters）与反思机器（Reflection Machines）作为提供可抗辩性支持与审议所有权的认知安全脚手架，实现从单纯的"效率减负支架"向"批判性[[Trust Calibration|信任校准]]与防偏差支架"的深化。同年，[[Argument_Naeem_2026_Episteme|Naeem (2026)]] 从[[Virtue Epistemology|美德认识论]]责任论出发，提出以直接答案拦截规则与递进式提问序列为核心的提问型导师（Q-Tutor）架构，将脚手架的功能定位从"减负"拓展为"防止学习者被 AI 替代认知能力"的德性培育机制；其双模态架构（AI 主导探究模式 → 学生主导练习模式）与渐隐原则形成了明确的理论呼应。
+> - **2026 — 可抗辩性支持、认知安全与反驳型支架机制；Q-Tutor [[Virtue Epistemology|德性认识论]]框架下的[[Cognitive Deskilling|去技能化]]防范支架** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 拓展脚手架理论至安全关键人机决策领域，提出[[Defeater|反驳型击败者]]（Rebutting Defeaters）与反思机器（Reflection Machines）作为提供可抗辩性支持与审议所有权的认知安全脚手架，实现从单纯的"效率减负支架"向"批判性[[Trust Calibration|信任校准]]与防偏差支架"的深化。同年，[[Argument_Naeem_2026_Episteme|Naeem (2026)]] 从[[Virtue Epistemology|美德认识论]]责任论出发，提出以直接答案拦截规则与递进式提问序列为核心的提问型导师（Q-Tutor）架构，将脚手架的功能定位从"减负"拓展为"防止学习者被 AI 替代认知能力"的德性培育机制；其双模态架构（AI 主导[[Inquisitive Mode of Governance|探究模式]] → 学生主导练习模式）与渐隐原则形成了明确的理论呼应。
 
 ---
 
@@ -317,10 +317,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–366)]] | 中小学科学探究与大学跨学科探究 | 概念分析与质性案例追踪 | 双轨干预支架（技术提示+教学法）与[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）转变 | 质性证实单一技术提示易导致表面顺从；技术提示结合同伴评审与反思日志能够成功促成认识立场向评价主义演进 | — | 质性案例分析与理论框架，证实双轨支架对维系[[Epistemic Agency\|认识主体性]]与促进认识演进的充要性 |
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [支架与情境学习 · Scaffolding and situated learning](https://www.visiblelearningmetax.com/influences/view/scaffolding_and_situated_learning)
 > 教学策略 › 教学方法

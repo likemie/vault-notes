@@ -4,6 +4,11 @@ aliases:
   - 父亲参与程度
 summary: "Visible Learning MetaX 因素父亲参与程度的条目，归属家庭 › 家庭结构；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "sociology-of-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Engaged Versus. Disengaged Fathers
-
-## Visible Learning MetaX
 
 > [!metax] [父亲参与程度 · Engaged vs. disengaged fathers](https://www.visiblelearningmetax.com/influences/view/engaged_vs._disengaged_fathers_)
 > 家庭 › 家庭结构

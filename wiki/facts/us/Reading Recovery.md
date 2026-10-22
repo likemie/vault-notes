@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Reading Recovery
@@ -113,12 +113,6 @@ updated: 2026-10-16
 > | [[Evaluation Research\|评估研究]]来源 | 研究设计 | 样本规模 | 辅导形态与师资 | 测量工具 | 核心效应量（$） | [[Every Student Succeeds Act\|ESSA]] 证据等级 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] [[Best Evidence Encyclopedia\|BEE]] 综合 | 多中心 [[Randomised Controlled Trials\|RCT]] / [[Quasi-Experimental Designs\|QED]] (4 项) | 一年级学生样本 | 1:1 个别，认证教师 | 独立标准化阅读测验 | $ES = +0.42$ | 强证据（Strong） |
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [阅读复苏计划 · Reading Recovery](https://www.visiblelearningmetax.com/influences/view/reading_recovery)
 > 课程 › 读写与艺术

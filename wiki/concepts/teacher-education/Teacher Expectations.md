@@ -4,6 +4,11 @@ aliases:
   - 教师期望
 summary: "Visible Learning MetaX 因素教师对学业成就的估计、教师期望、教师期望（外貌吸引力）、教师给学生贴标签的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "teacher-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Teacher Expectations
-
-## Visible Learning MetaX
 
 > [!metax] [教师对学业成就的估计 · Teacher estimates of achievement](https://www.visiblelearningmetax.com/influences/view/teacher_estimates_of_achievement_)
 > 教师 › 教师特质

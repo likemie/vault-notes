@@ -129,12 +129,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中将教育机器人作为核心技术形态，确立其对 K-12 认知表现具有显著中等促学效应（$g = 0.474$），证实具身多模态交互对低学段语言和[[Gamification\|游戏化]]技能训练的独特价值。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [机器人教育 · Robotics](https://www.visiblelearningmetax.com/influences/view/robotics)
 > 技术、学校与校外策略 › 虚拟／增强现实
 >

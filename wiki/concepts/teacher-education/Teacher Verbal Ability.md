@@ -4,6 +4,11 @@ aliases:
   - 教师言语能力
 summary: "Visible Learning MetaX 因素教师言语能力的条目，归属教师 › 教师特质；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "teacher-education"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Teacher Verbal Ability
-
-## Visible Learning MetaX
 
 > [!metax] [教师言语能力 · Teacher verbal ability](https://www.visiblelearningmetax.com/influences/view/teacher_verbal_ability)
 > 教师 › 教师特质

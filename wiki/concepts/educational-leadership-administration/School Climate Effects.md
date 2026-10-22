@@ -4,6 +4,11 @@ aliases:
   - 学校氛围
 summary: "Visible Learning MetaX 因素学校氛围的条目，归属学校 › 领导；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # School Climate Effects
-
-## Visible Learning MetaX
 
 > [!metax] [学校氛围 · School climate effects](https://www.visiblelearningmetax.com/influences/view/school_climate_effects)
 > 学校 › 领导

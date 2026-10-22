@@ -4,6 +4,11 @@ aliases:
   - 教育虚拟现实
 summary: "Visible Learning MetaX 因素虚拟现实、语言学习虚拟现实、理科虚拟现实的条目，归属技术、学校与校外策略 › 虚拟／增强现实；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-technology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Virtual Reality in Education
-
-## Visible Learning MetaX
 
 > [!metax] [虚拟现实 · Virtual Reality](https://www.visiblelearningmetax.com/influences/view/virtual_reality)
 > 技术、学校与校外策略 › 虚拟／增强现实
@@ -49,7 +52,7 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Li et al. (2019) 与 Baomi et al. (2019) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 12 项，研究数 442，加权平均效应量 0.56，未加权平均效应量 0.59（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 12 项，研究数 442，加权平均效应量 0.56，未加权平均效应量 0.59（仅供参考，尚未经文献核实）。
 
 > [!metax] [语言学习虚拟现实 · Virtual Reality in Languages](https://www.visiblelearningmetax.com/influences/view/virtual_reality_in_languages)
 > 技术、学校与校外策略 › 虚拟／增强现实

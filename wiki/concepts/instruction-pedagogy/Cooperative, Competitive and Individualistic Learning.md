@@ -4,6 +4,11 @@ aliases:
   - 合作、竞争与个体式学习
 summary: "Visible Learning MetaX 因素竞争氛围、竞争式与个体式学习、合作式与竞争式学习、合作式与个体式学习的条目，归属教学策略 › 教学方法；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Cooperative, Competitive and Individualistic Learning
-
-## Visible Learning MetaX
 
 > [!metax] [竞争氛围 · Competitive climate](https://www.visiblelearningmetax.com/influences/view/competitive_climate)
 > 教学策略 › 教学方法

@@ -4,6 +4,11 @@ aliases:
   - 学业情绪
 summary: "Visible Learning MetaX 因素愤怒、厌倦、情绪、乐趣、挫败感、幸福感、希望、幽默、放松的条目，归属学生 › 情绪；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-psychology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Academic Emotions
-
-## Visible Learning MetaX
 
 > [!metax] [愤怒 · Anger](https://www.visiblelearningmetax.com/influences/view/anger)
 > 学生 › 情绪
@@ -54,7 +57,7 @@ updated: 2026-10-22
 >
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Trimble et al. (2007) 与 Trickey & Topping (2007) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 5 项，研究数 230，加权平均效应量 -0.45，未加权平均效应量 -0.42（仅供参考，未核原文）。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 5 项，研究数 230，加权平均效应量 -0.45，未加权平均效应量 -0.42（仅供参考，尚未经文献核实）。
 
 > [!metax] [情绪 · Emotions](https://www.visiblelearningmetax.com/influences/view/emotions)
 > 学生 › 情绪

@@ -8,7 +8,7 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 44
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Academic Achievement]]"
   - "[[Inhibitory Control]]"
+  - "[[Academic Procrastination]]"
   - "[[Executive Function]]"
   - "[[Self-Regulated Learning]]"
   - "[[Literature Review]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Cognitive Flexibility]]"
   - "[[Lifelong Learning]]"
+  - "[[Learning Strategies]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Predictive Validity]]"
   - "[[Hawthorne Effect]]"
@@ -45,6 +47,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Prefrontal Cortex]]"
   - "[[Business as Usual]]"
+  - "[[Grit]]"
   - "[[Structured Teaching]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
@@ -89,7 +92,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向学生个体内在的心智自律与[[Inhibitory Control\|抑制控制]]机制，表现为抗干扰专注、延迟满足、挫折情绪平抑与任务灵活切换。
-> - **用途** 帮助研究者穿透外显的课堂违纪或学业拖延现象，从深层[[Executive Function\|执行功能]]与习得性资源感角度诊断学生的自律瓶颈。
+> - **用途** 帮助研究者穿透外显的课堂违纪或[[Academic Procrastination|学业拖延]]现象，从深层[[Executive Function\|执行功能]]与习得性资源感角度诊断学生的自律瓶颈。
 > - **边界** 自我控制侧重于短期的抑制性控制与冲突调控，不可等同于外部强制纪律下的被动服从，亦不能涵盖包含长远目标设定与策略评估的完整[[Self-Regulated Learning\|自我调节学习]]系统。
 
 > [!citation-card] 教育评价拓展非学业产出中的自我控制定位
@@ -166,7 +169,7 @@ updated: 2026-10-22
 > 探讨自我控制如何从底层[[Inhibitory Control\|抑制控制]]与延迟满足出发，为高阶认知策略的调用与长周期学业成功提供不可或缺的心智保障。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Higgins et al. (2015)
-> **非认知对学业增益的底层支撑** 自我控制并非孤立的品格表现，而是学生调用高阶学习策略的先决条件。在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的实证证据体系中，自我控制与自我调节构成了教学与学习工具箱中“[[Metacognition\|元认知]]与自我调节”（Metacognition and Self-regulation）策略的核心基底，能够为中小学学童带来平均 7 个月的额外学业进展（$+7$ months progress）。当学生能够有效抵御即时诱惑并维持任务注意时，[[Higher-Order Thinking Skills\|高阶思维]]与探究活动才能在课堂中持续展开。
+> **非认知对学业增益的底层支撑** 自我控制并非孤立的品格表现，而是学生调用高阶[[Learning Strategies|学习策略]]的先决条件。在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的实证证据体系中，自我控制与自我调节构成了教学与学习工具箱中“[[Metacognition\|元认知]]与自我调节”（Metacognition and Self-regulation）策略的核心基底，能够为中小学学童带来平均 7 个月的额外学业进展（$+7$ months progress）。当学生能够有效抵御即时诱惑并维持任务注意时，[[Higher-Order Thinking Skills\|高阶思维]]与探究活动才能在课堂中持续展开。
 
 > [!claim] Mischel et al. (1989); Duckworth and Seligman (2005)
 > **延迟满足对长期成就的因果效应** 经典纵向[[Cohort Study\|追踪研究]]表明，儿童期展现出的延迟满足与冲动控制能力对青少年时期的标准化统考成绩（SAT/GCSE）、身心健康与社会流动具有强稳健的预测效力，甚至超越智力测验（IQ）的独立解释方差，确立了自我控制在全人发展因果网络中的枢纽地位。
@@ -237,7 +240,7 @@ updated: 2026-10-22
 > > [!axis] 静态意志力特质 vs 动态有限心理资源
 > > 争论焦点在于自我控制是一种稳定的人格特质，还是一种会随使用消耗的动态心理资源。
 > >
-> > - **特质派（Duckworth et al., 2007）** 强调坚毅（Grit）与自我控制是高度稳定的跨情境特质，能够持久预测学业与职业成就。
+> > - **特质派（Duckworth et al., 2007）** 强调[[Grit|坚毅]]（Grit）与自我控制是高度稳定的跨情境特质，能够持久预测学业与职业成就。
 > > - **自我损耗资源派（Baumeister et al., 1998）** 认为自我控制依赖有限的心智能量储备（Ego Depletion），连续高强度的自控会导致后续任务中的自律崩溃，需要休息与糖分补充。
 >
 > > [!axis] 自主能动性赋能 vs 新自由主义行为规训
@@ -299,12 +302,6 @@ updated: 2026-10-22
 > | [[Discipline-Based Theory]] | 概念 | 理论归属；自我控制理论属于心理学领域的典型学科理论。 |
 > | [[Education Endowment Foundation]] | 事实 | 资助与评价旗舰；将自我控制纳入非学业评价与工具箱策略的先锋机构。 |
 > | [[EEF Teaching and Learning Toolkit]] | 事实 | 落地转译载体；元认知与自控策略带来 $+7$ 个月额外学业增益的循证平台。 |
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [自我控制 · Self control](https://www.visiblelearningmetax.com/influences/view/self_control)
 > 学生 › 自我

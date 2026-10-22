@@ -4,6 +4,11 @@ aliases:
   - 全校改进
 summary: "Visible Learning MetaX 因素全校改进项目、全校缩小成就差距的条目，归属技术、学校与校外策略 › 全校层面；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-technology"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Whole-School Improvement
-
-## Visible Learning MetaX
 
 > [!metax] [全校改进项目 · Whole-school improvement programs](https://www.visiblelearningmetax.com/influences/view/whole-school_improvement_programs)
 > 技术、学校与校外策略 › 全校层面

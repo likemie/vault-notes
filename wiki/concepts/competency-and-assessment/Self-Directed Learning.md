@@ -88,12 +88,6 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 将 SDL 作为PBL的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（d = 0.47）。
 
----
-
----
-
-## Visible Learning MetaX
-
 > [!metax] [自主学习 · Self-directed learning](https://www.visiblelearningmetax.com/influences/view/self-directed_learning)
 > 学生学习策略 › 学生导向干预
 >

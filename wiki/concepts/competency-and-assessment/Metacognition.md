@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 81
+related_count: 82
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Study Population and Sample]]"
   - "[[Threats to Internal Validity]]"
+  - "[[Transfer Strategies]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Practices]]"
   - "[[Evaluativist]]"
@@ -167,7 +168,7 @@ updated: 2026-10-22
 
 > [!feature] 元认知的核心构件
 > - **元认知知识（Metacognitive Knowledge）** 关于个体自身与他人的认知特质、任务属性与约束条件，以及何时何地采用何种启发式策略（如逆向思考、概念重组、类比迁移）的陈述性、程序性与条件性知识。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 249)]]
-> - **元认知调节与监控（Metacognitive Regulation & Monitoring）** 对即时思维进程的主动调控，包含前瞻性计划（界定问题空间与设定评价标准）、过程性监控（实时查错、检测盲区与察觉思维定势）以及总结性评估（反思成果质量与提炼可迁移策略）。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 174)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3)]]
+> - **元认知调节与监控（Metacognitive Regulation & Monitoring）** 对即时思维进程的主动调控，包含前瞻性计划（界定问题空间与设定评价标准）、过程性监控（实时查错、检测盲区与察觉思维定势）以及总结性评估（反思成果质量与提炼可[[Transfer Strategies|迁移策略]]）。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 174)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3)]]
 > - **[[Epistemological Vigilance\|认识论警觉]]（Epistemic Vigilance）** 在面对外部信息流或大语言模型生成的表面流畅输出时，主动保持怀疑审视、抗拒[[Illusion of Competence\|虚假能力错觉]]并展开严密论据核验的元认知习惯。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
 > - **元认知反思支架（Metacognitive Scaffolds）** 外部教学环境所提供的显性[[Scaffolding\|脚手架]]（如反思日志、提示词追踪链 Prompt Trail、量规自评检核表），用于将隐性内隐监控操作转化为显性外显[[Epistemic Practices\|认知实践]]。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 
@@ -379,12 +380,6 @@ updated: 2026-10-22
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 追踪实证研究证实 IB ToK [[Epistemology|认识论]]课程能够作为系统性的元认知训练，显著提升大学生的批判反思能力。
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]证实过程性元认知与[[Problem Finding|问题发现]]测量指标（$r = 0.27$）的效度显著优于单纯[[Divergent Thinking|发散思维]]测验（$r = 0.14$）。
 > - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性实证阐明元认知意识如何支撑学生的自主性发展与知情决策。
-
----
-
----
-
-## Visible Learning MetaX
 
 > [!metax] [元认知策略 · Meta-cognition strategies](https://www.visiblelearningmetax.com/influences/view/meta-cognition_strategies)
 > 学生学习策略 › 元认知／自我调节学习

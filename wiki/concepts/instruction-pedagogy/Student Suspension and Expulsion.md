@@ -4,6 +4,11 @@ aliases:
   - 停学与开除
 summary: "Visible Learning MetaX 因素停学／开除的条目，归属课堂 › 课堂管理；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
+domain: "instruction-pedagogy"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - metax
 related_concepts: []
@@ -20,8 +25,6 @@ updated: 2026-10-22
 ---
 
 # Student Suspension and Expulsion
-
-## Visible Learning MetaX
 
 > [!metax] [停学／开除 · Suspension / expelling students](https://www.visiblelearningmetax.com/influences/view/suspension~expelling_students)
 > 课堂 › 课堂管理
