@@ -114,7 +114,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 创造力测评（Creativity Assessment）
 > [[Creativity\|创造力]]测评（Creativity Assessment，亦称创造力测量）指对个体或群体在生成新颖且适切的想法、[[Problem Solving\|问题解决]]方案或实际产品时的心理潜能、认知加工过程、产出表现与行为特质进行[[Operationalization\|操作化]]测定与系统评价的过程。它涵盖[[Divergent Thinking\|发散思维]]心理测验、创造过程与[[Problem Finding\|问题发现]]任务、专家主观产品同感评定、日常创造性成就自陈[[Questionnaire\|问卷]]以及课程嵌入式真实性评分量规等多元技术[[Paradigm\|范式]]，旨在诊断创造潜能、衡量教育教学干预的[[Learning Gain\|学习增益]]并为跨学科创新人才培养提供循证依据。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–8)]] [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 4–5)]] [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 4–7)]] [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 23–28)]]
 
 > [!concept-lens] 概念透镜

@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 探究式治理模式（Inquisitive Mode of Governance）
 > **探究式治理模式（Inquisitive Mode of Governance）** 是指超国家国际组织在缺乏传统科层行政指令权与物质强制手段的情形下，施展软权力与远程治理的双重基础模式之一。在此模式下，国际组织充当全球信息的采集者、度量者与因果解释者，通过跨国大规模标准化测验、统一统计指标开发与集中数据普查，将零散、去脉络的原始行政与测评信息，根据组织自身的价值理念加工为具备因果解释力的实质性知识，从而在主权国家层面夺取对“什么是紧迫政策问题与制度危机”的排他性界定权（Problem Definition）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–271)]]
 
 > [!concept-lens] 概念透镜

@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 元表征能力（Meta-Representational Competence）
 > 元表征能力（Meta-Representational Competence, MRC）是由 diSessa & Sherin (2000) 提出的学习科学高阶认知[[Construct\|构念]]，指学习者不仅能够被动阅读和理解现有的外部表征形式（如文本、[[Concept Mapping\|概念图]]、数学方程、树状图、统计图表），而且能够深入理解不同表征形式的设计逻辑与表征局限，具备自主发明新表征、批判性评估表征的适切性与完备性、根据任务情境修改优化表征结构以及在多种不同表征模态之间自由转换与映射的高阶[[Metacognition\|元认知]]能力。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
 
 > [!concept-lens] 概念透镜

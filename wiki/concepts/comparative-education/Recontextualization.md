@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 再情境化（Recontextualization）
 > 再情境化（Recontextualization，学界亦译再脉络化、再语境化、再情景化）指特定知识、教育理念或政策[[Discourse|话语]]从原始生产场所被脱情境化挪用、重新定位、重新聚焦，并与其他既有话语和规则相关联，以构成自身新秩序的过程。在跨国教育转移与课程改革中，再情境化表现为接受者根据自身经验、意识形态议程与制度硬约束，主动从外来思想中选择性拾取、忽略、扭曲或重构某些元素并嵌入本土结构。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 33)]]; [[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–602)]]
 
 > [!concept-lens] 概念透镜

@@ -35,7 +35,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 测验规格与测验蓝图（Test Specifications and Test Blueprint）
 > 测验规格（test specifications）是测验编制中将课程目标、内容领域和各题目相对权重系统对应起来的设计方案，通常以矩阵框架（matrix frame）或测验蓝图（test blueprint）的形式呈现（Gronlund & Linn, 1990）。矩阵的行是内容领域，列是课程目标或技能维度，单元格内填入测验题目及其分值。
 
 > [!concept-lens] 概念透镜

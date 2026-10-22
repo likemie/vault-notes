@@ -32,7 +32,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 新质人才（Emergent Talents）
 > 新质人才（Emergent Talents）是指契合[[New Quality Productive Forces|新质生产力]]发展需要、兼备专精技术工艺与跨界创新能力的复合型技能人才。在职业技术教育与国际工程协作情境中，其内部特征表现为熟练运用人工智能、数字化工具和前沿装备解决现场工程难题并持续迭代自身技术知识图式；外部特征表现为敏锐洞察产业链重组趋势、自如融入跨文化工作场景并具备工艺流程自主革新能力。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 299–300)]]
 
 > [!concept-lens] 概念透镜

@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 国际文凭（International Baccalaureate）
 > 国际文凭（International Baccalaureate，IB）是一套跨国课程、资格与质量保障体系。它最初为跨国流动学生提供可被多国大学承认的高中毕业资格，后来发展为覆盖 3 至 19 岁学生的课程体系，包括小学项目（Primary Years Programme，PYP）、中学项目（Middle Years Programme，MYP）和大学预科项目（Diploma Programme，DP）。国际文凭组织（International Baccalaureate Organization，IBO）通过共同课程框架、学校授权、教师培训、内部与外部评价以及跨国治理维持标准。IB 因此既是一种课程设计，也是一套把学校、考试、大学承认和公共治理连接起来的制度安排。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–168, 178–187)]] [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 27–31)]]
 
 > [!concept-lens] 概念透镜

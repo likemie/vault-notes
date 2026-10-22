@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 批判二元论（Critical Dualism）
 > 批判二元论（Critical Dualism）是由英国比较教育学家[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）借鉴[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的社会哲学所确立的方法论原则。该原则主张严格区分人为确立的规范法则或公约（normative laws or conventions）与超出个体意志控制的客观社会或机构运行规律（sociological laws），为比较教育分析提供双重制度与文化解构视界。霍姆斯指出，规范法则是人造且可被人类自主接受、废除或修改的价值信念，构成了学校运行的深层文化情境；而社会学法则则是描述机构客观功能的假说性陈述，具有严格的情境权变性（contingency）并必须接受经验[[Falsification\|证伪]]检验。通过二元切分，比较教育学得以在拒斥绝对超越时空的机械[[Determinism\|决定论]]的同时，摆脱纯粹主观[[Empiricism\|经验主义]]与相对主义的泥潭。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981; Mattheou, 2009, pp. 62–63)]]
 
 > [!concept-lens] 概念透镜

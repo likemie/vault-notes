@@ -33,12 +33,12 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-03
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育免疫学（Educational Immunology）
 > 教育免疫学（Educational Immunology，亦称“情境免疫”或“文化免疫”）是比较教育学中用于审视政策移植与借用阻力的一个批判性视角。它指的是接受国在面对强行嵌入（insertion）的外来教育理念、政策或学制模型时，其本土文化生态、历史权力结构和价值信念为了捍卫制度主体性与地方特异性，而自发启动的排斥、过滤、抗性改写与[[Shape-Shifting\|形变]]反应（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 323–324]]）。
 
 > [!concept-lens] 概念透镜

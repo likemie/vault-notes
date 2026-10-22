@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 经验主义（Empiricism）
 > **经验主义（Empiricism）**，亦称**经验论**，是科学探究四大基本信仰假设之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 15）。该假设坚信一切可靠的知识在根本上只能来源于感官经验与实地观察（derive from experience）。在科学研究与工程实践中，经验主义意味着任何理论、假说或技术系统的可立足性（tenability），完全取决于支撑它的经验证据与实战运行结果；在此，“经验的（empirical）”被界定为通过直接观察、物理交互与实地体验可加以复核验证的事物（Barratt, 1971; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]），而“证据（evidence）”则是在概率与实效意义上对理论或假说提供确证支持的客观数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 15–16)]]
 
 > [!concept-lens] 概念透镜

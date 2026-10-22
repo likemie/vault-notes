@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 聚合思维（Convergent Thinking）
 > 聚合思维（Convergent Thinking, CT）是指认知主体在面对明确规则、逻辑难题或结构化问题情境时，调动既有长时记忆图式与逻辑推论法则，对多源信息、潜在假设与证据线索进行批判性审视、鉴别、筛选与严密逻辑演绎，从而收敛并确定单一正确答案或最优解决方案的确定性认知加工过程。在经典认知心理学与学习科学中，聚合思维是逻辑推理测验、问题求解与[[Critical Thinking\|批判性思维]]（Critical Thinking）的核心心理[[Construct\|构念]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 6)]]
 
 > [!concept-lens] 概念透镜

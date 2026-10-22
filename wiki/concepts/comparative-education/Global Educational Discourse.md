@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 全球教育话语（Global Educational Discourse）
 > 全球教育[[Discourse|话语]]（Global Educational Discourse）由[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b）提出，特指以[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，在 20 世纪 80 年代与 90 年代起，基于紧迫[[Pragmatic Paradigm|实用主义]]（urgent pragmatism）与[[Educational Meliorism|改良主义]]行动诉求，通过对复杂专深的全球学术话语进行过度简化（oversimplification）所生产并跨国推广的一整套抽象、通用的教育改革话语体系。该话语将未来统一步调地界定为“信息时代”（information age），推销一套以分权化、[[School Autonomy|学校自主]]、教师专业化、胜任力课程（competencies-based curriculum）与中央评估系统为核心支柱的普遍主义模型，并自诩为能够解决任何本土教育问题的灵丹妙药，实质上严重窄化并闭合了借款国与受援国的政策探索空间，并在微观学校机构遭遇显著的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 
 > [!concept-lens] 概念透镜

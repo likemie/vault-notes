@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 解码（Decodification）
 > **解码（Decodification）** 是保罗·[[Paulo Freire\|弗莱雷]][[Problem-Posing Education\|提问式教育]]法中紧接编码的关键探究阶段。指受教者在文化圈（círculos de cultura）中围绕编码展开集体横向对话，从感性观察跃升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的跃升。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 61)]]
 
 > [!concept-lens] 概念透镜

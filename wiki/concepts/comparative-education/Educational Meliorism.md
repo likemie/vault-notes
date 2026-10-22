@@ -105,7 +105,7 @@ updated: 2026-10-22
 
 教育改良主义是 19 世纪比较与[[International Education|国际教育]]探究的精神底色，构成了贯穿学科现代主义发端的统治性[[Epistemology|认识论]]母题：
 
-> [!def] 核心定义
+> [!def] 教育改良主义（Educational Meliorism）
 > **教育改良主义（Educational Meliorism）** 源自拉丁语 *melior*（意为“更好”），在比较教育思想史中定义为**以现实改进为先验目标的探究（inquiry with the objective of improvement）**。它是贯穿 19 世纪所有先驱求知活动的统治性母题（overriding consideration/purpose）：坚信人类社会与学校体制存在可诊断、可救治的弊病，通过跨国经验事实汇纂与横向对照能够发掘普遍善好法则，以救治母国政治危机、维系共和民主政体、预防流血暴力革命并增进人类全人福祉。这一崇高关怀从发端起便内生于现代“比较认识论问题域（comparative epistemic problematique）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 
 该概念为打破 20 世纪战后学科史的[[Positivism|实证主义]]偏见提供了核心认识论透镜：

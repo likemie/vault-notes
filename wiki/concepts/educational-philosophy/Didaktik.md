@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教学理论（Didaktik）
 > 教学论（Didaktik）是德语教育传统中的教学理论与教学论传统，关注什么知识值得教、为什么教、以及如何教，旨在连接课程内容选择、教育目的和教师的教学判断。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
 > 
 > 在德国教育学家安德烈亚斯·格鲁施卡（Andreas Gruschka）于 2019 年提出的框架中，教学设计是由教学论（Didaktik）、教化（[[Bildung]]） 与规范教育（Erziehung）三者共同构成的整合性星座（Integrated case of constellation）。教学论在此指教师决定哪部分知识在什么时间点、以什么数量以及如何向学生呈现的具体安排方式。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 238–239]]

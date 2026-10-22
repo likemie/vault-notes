@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 旅行者教育（Traveller Education）
 > 旅行者教育（Traveller Education）是指面向大篷车巡回居民、爱尔兰旅行者（Irish Travellers）以及罗姆（Roma）/吉普赛（Gypsy）少数族群儿童所展开的专门化教育安置、学业支持与包容性政策实践。该概念聚焦于具有流动生活史的社群在主流定居教育体系中所遭遇的制度性排斥，核心探讨正规学校内部高度结构化的空间与时间区隔如何造成边缘学生的文化与身体失调，以及多元文化政策在试图推动主流社会融入与尊重社群半隔离自主性之间的内在悖论。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 
 > [!concept-lens] 概念透镜

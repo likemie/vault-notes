@@ -24,10 +24,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
-> [!def] 日常学校生活中的社会学习
+> [!def] 隐性课程（Hidden Curriculum）
 > 隐性课程（Hidden Curriculum）指学生在学校日常生活中学习的权力、权威、认可、拒绝、等待、群体成员身份、规则、常规与社会可接受行为。学会这些规则影响学生如何在学校生活中行动，即使它们没有以正式学科内容的方式呈现。Jackson (1968) 强调，适应隐性课程对在校表现的重要性可能不亚于正式课程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
 
 隐性课程可从课堂互动的具体安排辨认。谁能提问、谁必须等待、哪种回答会被表扬，都会传递关于课堂身份与行为边界的信息。

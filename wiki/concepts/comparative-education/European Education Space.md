@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 欧洲教育空间（European Education Space）
 > **欧洲教育空间（European Education Space，EES）** 是指在超国家治理与欧洲一体化进程中，由[[EU|欧洲联盟]]（European Union，EU）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）通过跨国[[Data Infrastructure|数据基础设施]]、政策开放协调机制（[[Open Method of Coordination]]，OMC）、学分资格互认框架以及大规模跨国流动网络所共同构想、生产与维系的功能性治理空间与象征性社会空间。该空间不仅使欧洲各异质教育体系的跨国量化比较与政策趋同成为可能，更是塑造欧洲性（Europeanness）超国家公民认同与灵活[[Employability|就业能力]]的核心治理舞台；但在实践中，它也常被成员国作为化解内部改革合法性危机的修辞盾牌。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 362–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–322)]]
 
 > [!concept-lens] 概念透镜

@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育治理中的点名羞辱机制（Naming and Shaming in Education Governance）
 > **教育治理中的点名羞辱机制（Naming and Shaming in Education Governance）** 是指超国家国际组织在缺乏法定科层行政权力与直接经济制裁手段的情境下，依托大规模跨国标准化成就测验（如 [[PISA]]）公开发布联赛排行榜（League Tables），将参测主权国家明确区分为“优胜者”（Winners）与“落后者”（Losers）；进而借助大众媒体的议程设置与危机夸大，在落后国家内部引爆公众声誉危机与政治问责恐慌，迫使主权国家政府为了挽回国际形象与国内合法性而主动开启重大教育体制改革的非强制性声誉合规技术。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270, 274–275)]]
 
 > [!concept-lens] 概念透镜

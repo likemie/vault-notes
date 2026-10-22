@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 选择性亲和（Selective Affinity）
 > 选择性亲和（Selective Affinity / Wahlverwandtschaft）最初由歌德（Goethe）借用化学术语引入文学，后经[[Max Weber\|马克斯·韦伯]]（Max Weber）系统引入社会学。指两种原本独立的思想、信仰、制度要素或文化结构，在特定社会历史情境下，因内部逻辑与内在价值取向的高度契合而产生的“互惠吸引、自发结合与相互强化”机制。在比较教育与跨国[[Policy Borrowing\|政策借用]]研究中，该概念用于解释外来教育理念如何与本土文化传统产生深层共振，消解异己感并被成功[[Recontextualization\|再脉络化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 596, 602)]]
 
 > [!concept-lens] 概念透镜

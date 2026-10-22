@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 技术收敛（Technological Convergence）
 > 技术收敛（Technological Convergence / 工业技术汇聚）是技术经济学家内森·罗森伯格（Nathan Rosenberg）于 1963 年提出的经典概念，并在[[General Purpose Technology|通用目的技术]]（GPT）与产业演化研究中得到深化。该概念指在重大基础技术革命扩散过程中，原本在产品形态、终端用途与市场需求上彼此割裂的多元工业部门（如航天军工、计算机、民用广播电视、汽车机电与精密仪器），在底层生产制造技术、核心元器件工艺、系统设计逻辑以及工程技能体系上逐渐汇聚于相同的科学原理与通用技术界面的历史演进过程。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 208–209)]]
 
 > [!concept-lens] 概念透镜

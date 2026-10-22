@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 比较教育政策科学（Policy Science in Comparative Education）
 > **比较教育政策科学（Policy Science in Comparative Education）** 是比较教育学者[[Robert Cowen|罗伯特·考恩]]（Robert Cowen, 2023）所识别的学科四种长期并存的理解形式（Forms of Understanding）之一。该观点认为，比较教育可以且应当成为一门服务于公共决策的政策科学，其正当的[[Epistemology|认识论]]形式与基本功能在于向国家机器提供专业比较建议，协助政府在“关键决策时刻”（critical points of decision）应对治理危机。该取向在政治上公开寻求与自由民主国家权力的显性联盟，并在战后国家规划体制与国际援助中与经验[[Positivism|实证主义]]紧密共生。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]; [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
 
 > [!concept-lens] 概念透镜

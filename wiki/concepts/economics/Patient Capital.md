@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 耐心资本（Patient Capital）
 > **耐心资本（Patient Capital / Patient Finance）** 是指以长期价值创造、产业基础能力培育和重大社会技术转型为目标，具备跨越经济与技术周期（通常为 10 至 20 年）的长远投资视野、对高度技术与市场不确定性具有强耐受力，且不以短期流动性套利或快速股权退出为首要诉求的战略性金融资本。它主要由公共开发银行（Public Development Banks, PDBs）、国家战略投资基金、主权财富基金以及具有公共使命导向的研发资助机构供给，是支撑深度科技（Deep Tech）跨越[[Valley of Death|死亡之谷]]与推动三代使命政策演化的核心金融支柱。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 
 > [!concept-lens] 概念透镜

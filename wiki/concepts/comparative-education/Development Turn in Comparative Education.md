@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 发展转向（Development Turn in Comparative Education）
 > **发展转向（Development Turn）** 指二战后去殖民化浪潮与冷战对立格局下，比较教育领域的资金来源、研究焦点和方法论[[Paradigm\|范式]]系统性地转向第三世界/[[Development Education|发展中国家教育]]系统的历史过程。这不仅是研究地理空间的位移，更是将比较教育改组为以“技术援助”和“现代化”为合法性[[Discourse|话语]]、服务于大国地缘博弈与资本积累的认识型重构。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
 > [!concept-lens] 概念透镜

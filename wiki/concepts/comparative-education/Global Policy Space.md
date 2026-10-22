@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 全球政策空间（Global Policy Space）
 > 全球政策空间（Global Policy Space）是 [[Argument_Beech_2009_CE\|Beech (2009a)]] 基于 Castells 的[[Network Society\|网络社会]]理论和[[Space of Flows\|流动空间]]概念提出的分析性空间范畴，指全球教育[[Champ\|场域]]中由多元行动者（如国际多边机构、NGO、跨国企业、智库等）通过跨国网络进行互动、交换信息并生产推广“去历史化”政策方案的社会空间。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 350]])
 
 > [!concept-lens] 概念透镜

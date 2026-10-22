@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 方法论转移（Methodology Transfer）
 > **方法论转移（Methodology Transfer）** 指评估技术、实验设计规程、计量统计模型与科学验证规范跨越国界直接扩散并植入他国政策体系的过程。在[[Evidence-Based Policy-Making|循证决策]]（Evidence-Based Policy-Making, EBPM）与以结果为导向的公共治理推动下，[[Policy Borrowing|政策借用]]超越了价值理念与法律文本的表层扩散，延伸为对特定研究方法与量化评估[[Paradigm|范式]]的跨国采纳。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 342–344)]]
 
 > [!concept-lens] 概念透镜

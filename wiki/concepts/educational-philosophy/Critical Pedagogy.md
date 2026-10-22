@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 批判教育学（Critical Pedagogy）
 > 批判教育学（Critical Pedagogy，亦作解放教育学）是一种将学校课程、知识传递与师生互动界定为文化政治[[Champ|场域]]的规范性教育哲学。它源于法兰克福学派[[Critical Theory|批判理论]]与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的解放实践，主张教育必须从学生的真实活经验出发，审视日常压迫与被沉默体验中蕴含的意识形态控制。在[[Theory of Knowledge|知识论]]层面，批判教育学坚决拒斥将学生视为空容器的[[Banking Model of Education|储蓄式教育]]（Banking Model of Education），倡导通过[[Problem-Posing Education|提问式教育]]（Problem-Posing Education）与反思实践（[[Praxis]]）唤醒批判意识（[[Conscientization|conscientização]]）；在当代数智技术背景下，它进一步拓展为抵抗算法全流程代劳的批判工具，致力于打破对[[Generative Artificial Intelligence|生成式人工智能]]的权威迷信，捍卫学生的[[Epistemic Agency|认识主体性]]与社会解放自主性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–148)]]; [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜

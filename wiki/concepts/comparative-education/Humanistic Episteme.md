@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 人本认识论（Humanistic Episteme）
 > **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义[[Geisteswissenschaften|人文科学]]（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜

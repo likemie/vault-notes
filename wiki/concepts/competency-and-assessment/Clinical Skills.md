@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 临床技能（Clinical Skills）
 > 临床技能（Clinical Skills）指通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能。它要求学习者将[[Theoretical Knowledge\|理论知识]]转化为针对具体临床问题的判断与行动，促进更快更有效的临床决策，并支持长期技能保持。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 954–955)]]
 
 > [!concept-lens] 概念透镜

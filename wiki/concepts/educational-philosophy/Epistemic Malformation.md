@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认知畸变（Epistemic Malformation）
 > 认知畸变（Epistemic Malformation / 认识畸变）是指在教育教学实践或认知交往过程中，由于不当的教学指令、不公允的评价反馈或过度依赖技术外包代劳，导致发展中学习者在成为成熟求知者的形成期，其认知图式、探究品格与[[Reliability|信度]]自我认知遭受系统性扭曲、停滞或病理化异化，进而阻断其求知能力（Capacity as a Knower）健康发育的[[Epistemology|认识论]]损害。该概念由 A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）正式确立，并经斯宾塞·J·史密斯在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中拓展为解释[[Generative Artificial Intelligence|生成式人工智能]]全流程代写引发认知致残的核心病理学机制。（pp. 4–6）
 
 > [!concept-lens] 概念透镜

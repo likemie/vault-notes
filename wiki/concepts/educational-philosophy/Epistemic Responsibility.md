@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认识论责任（Epistemic Responsibility）
 > [[Epistemic Responsibility|认识论责任]]（Epistemic Responsibility，亦作认知责任、集体认知责任、认识问责）指学习者与教育者在[[Knowledge Building Theory|知识建构]]、接收与转译过程中，主动审查知识合法性、权力立场、证据因果链以及集体认知进展的理性伦理义务。在[[Critical Pedagogy|批判教育学]]脉络中，它强调拒绝盲从既定意识形态教条；在[[Knowledge Building Theory|协作知识建构]]脉络中，它深化为**集体认知责任（Collective Cognitive Responsibility）**，即共同体成员不仅对个人理解负责，更对整个班级公共知识前沿的充实、知识缺口的填补与观点的持续改进承担实质责任；在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）[[Man-Computer Symbiosis|人机共生]]环境中，它特指学习者坚决守持对算法生成推论的多源求证权，拒绝将核心认识裁决盲目外包给算法。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 54, 57)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 360–366)]]
 
 > [!concept-lens] 概念透镜

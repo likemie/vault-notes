@@ -74,8 +74,8 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
-> 国际大规模评估（International Large-Scale Assessments，ILSAs）是跨国治理机构（如 [[OECD]]）或国际学术评价组织（如 [[IEA]]）跨越国界开展的周期性、标准化教育测评与[[Questionnaire\|问卷调查]][[Paradigm\|范式]]。它采用高级心理测量学算法（如[[Item Response Theory\|项目反应理论]]与[[Hierarchical Linear Model\|多层线性模型]]）与代表性[[Random Sampling\|概率抽样]]，测查特定学龄或成年受试者在[[21st Century Skills and Competencies Discourse\|核心素养]]上的相对表现，并将数字确立为国家与超国家中介机构之间的通用治理语言。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537, 541, 543)]]
+> [!def] 国际大规模评估（International Large-Scale Assessments）
+> 国际大规模评估（International Large-Scale Assessments，ILSAs）是跨国治理机构（如 [[OECD]]）或国际学术评价组织（如 [[IEA]]）跨越国界开展的周期性、标准化教育测评与[[Questionnaire\|问卷调查]][[Paradigm\|范式]]。它采用高级心理测量学算法（如[[Item Response Theory\|项目反应理论]]与[[Hierarchical Linear Model\|多层线性模型]]）与代表性[[Random Sampling\|概率抽样]]，测查特定学龄或成年受试者在[[21st Century Skills and Competencies Discourse\|核心素养]]上的相对表现，并将数字确立为国家与超国家中介机构之间的通用治理语言。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 537, 541, 543)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种跨国界、大样本、高度标准化且以跨文化可比性为首要目标的量化测量与政策规制复合装置。
@@ -83,7 +83,7 @@ updated: 2026-10-22
 > - **边界** 不等于一国内部实施的[[Gaokao\|高考]]、中考等常模参照选拔考试，亦不等于小规模的跨文化田野心理实验，其本质是一种带有强烈全球[[Policy Brokerage\|政策中介]]意图的宏观治理基础设施。
 
 > [!citation-card] [[Governing by Numbers\|数字治理]]与从投入规制向产出测量的历史跃进
-> 在教育领域，向按数字治理（Governance by Numbers）的转向，伴随着从传统的投入规制（Input Regulation）向绩效测量（Performance Measurement）的深刻演进；这一演进集中体现于由各大国际组织设计并实施的国际大规模学生评估（ILSAs，例如经合组织的 [[PISA]] 或 IEA 的 [[TIMSS]]）。数字由此变成了国家与非国家实体之间、国际组织与主权政府之间的首要语言代码。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> 在教育领域，向按数字治理（Governance by Numbers）的转向，伴随着从传统的投入规制（Input Regulation）向绩效测量（Performance Measurement）的深刻演进；这一演进集中体现于由各大国际组织设计并实施的国际大规模学生评估（ILSAs，例如经合组织的 [[PISA]] 或 IEA 的 [[TIMSS]]）。数字由此变成了国家与非国家实体之间、国际组织与主权政府之间的首要语言代码。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 543)]]
 >
 > *The shift toward governance by numbers in the education sector accompanied a shift from input regulation to performance measurement, as epitomised in International Large-Scale Student Assessments (e.g. OECD’s PISA or IEA’s TIMSS) designed and delivered by IOs. Numbers became the primary language code between state and non-state entities and between IOs and governments.*
 
@@ -105,7 +105,7 @@ updated: 2026-10-22
 > [!feature] 核心要素
 > - **跨文化心理测量学等值性（Psychometric Equivalence）** 运用[[Item Response Theory\|项目反应理论]]（IRT）与微分项目功能（[[Differential Item Functioning|DIF]]）分析，确保同一试题在不同语言与文化情境中测量的潜在能力具有跨国数学等价性。
 > - **[[Matrix Sampling|矩阵抽样]]与旋转设计（Matrix Sampling Design）** 每个学生仅作答题库中的一部分测试模块，但通过群体聚合算法能够以极小的时间成本精准反推整个国家学生群体的综合素养全貌。
-> - **微观背景[[Questionnaire\|问卷]]的多维锚定（Contextual Questionnaires）** 同步采集学生家庭社会经济文化地位（ESCS）、教师教学策略及校长学校资源数据，为跨国多层线性回归（[[Hierarchical Linear Model\|HLM]]）提供解释[[Variable\|变量]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> - **微观背景[[Questionnaire\|问卷]]的多维锚定（Contextual Questionnaires）** 同步采集学生家庭社会经济文化地位（ESCS）、教师教学策略及校长学校资源数据，为跨国多层线性回归（[[Hierarchical Linear Model\|HLM]]）提供解释[[Variable\|变量]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 543)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -129,7 +129,7 @@ updated: 2026-10-22
 > 围绕测评如何超越单纯测量工具而演变为规制帝国的核心母体展开。
 
 > [!claim] Steiner-Khamsi et al.
-> **指标规制的不归路** 跨国比较与指标生产一旦启动，便具备自发繁衍的生命力；[[OECD\|经合组织]]从 1980 年代开发 [[International Indicators of Education Systems\|INES]] 指标，到 2000 年 [[PISA]] 放榜，再到衍生出教师调查（[[Teaching and Learning International Survey\|TALIS]]）、成人能力（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）与发展中国家版（[[PISA for Development\|PISA-D]]），构建了一个主权国家无法退出、且必须持续采购其知识产品的规制自指系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> **指标规制的不归路** 跨国比较与指标生产一旦启动，便具备自发繁衍的生命力；[[OECD\|经合组织]]从 1980 年代开发 [[International Indicators of Education Systems\|INES]] 指标，到 2000 年 [[PISA]] 放榜，再到衍生出教师调查（[[Teaching and Learning International Survey\|TALIS]]）、成人能力（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）与发展中国家版（[[PISA for Development\|PISA-D]]），构建了一个主权国家无法退出、且必须持续采购其知识产品的规制自指系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–543)]]
 
 ---
 
@@ -142,7 +142,7 @@ updated: 2026-10-22
 > **硬事实的[[Soft Power\|软权力]]杠杆** 跨国排名以“科学客观硬事实”的外观，构成了摧毁国内保守集团抗拒心理的最强软权力；落后名次引发的“PISA 冲击”能够迅速在公众中制造教育落后必将导致国家经济衰亡的恐慌，为执政者强推市场化或标准化改革铺平道路。
 
 > [!claim] Steiner-Khamsi et al.
-> **常态化危机调动与准外部权威** 国际大规模测验的放榜不再是偶然事件，而是被制度化为周期性引爆公众狂欢或道德焦虑的政治日历；政府借此将经合组织等评测机构构建为“准外部参照权威”，以此在政策议程设置中压制本土异质主张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542, 546)]]
+> **常态化危机调动与准外部权威** 国际大规模测验的放榜不再是偶然事件，而是被制度化为周期性引爆公众狂欢或道德焦虑的政治日历；政府借此将经合组织等评测机构构建为“准外部参照权威”，以此在政策议程设置中压制本土异质主张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 542, 546)]]
 
 ---
 
@@ -157,7 +157,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1960 年代 — 学术先驱探索期（[[IEA]] 成立）** 托尔斯滕·胡森等人在德国汉堡创立国际教育成就评价协会，启动首批跨国数学与科学探索性测验（FIMS）。
 > - **1990 年代 — 政治化与问责制转型** [[OECD\|经合组织]]介入指标研制（[[International Indicators of Education Systems\|INES]]），标志着大规模测验从纯学者好奇心转向服务于国家经济[[Competitiveness|竞争力]]和政府绩效问责。
-> - **2000 年至今 — 规制帝国与全生命周期扩张** 经合组织 [[PISA]] 确立全球统治地位，并向教师（[[Teaching and Learning International Survey\|TALIS]]）、成人（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）、高等教育（[[OECD AHELO Project\|AHELO]]）及全球南方（[[PISA for Development\|PISA-D]]）全面蔓延，构建了无孔不入的全球测评复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> - **2000 年至今 — 规制帝国与全生命周期扩张** 经合组织 [[PISA]] 确立全球统治地位，并向教师（[[Teaching and Learning International Survey\|TALIS]]）、成人（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）、高等教育（[[OECD AHELO Project\|AHELO]]）及全球南方（[[PISA for Development\|PISA-D]]）全面蔓延，构建了无孔不入的全球测评复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–543)]]
 
 ---
 
@@ -187,9 +187,9 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 547–548)]] | 挪威国家能力课程改革（5 个专家委员会文献 vs 教育部法定行政法令） | 政策咨询引文网络全样本追踪 | 国际组织测评工具文献垄断率 | 专家委员会引用的 464 篇文献在最终法令中仅存 22 篇，而仅存的 22 篇中有 20 篇全部来自专门审议 [[OECD]] ILSAs 衍生项目（[[Definition and Selection of Competencies\|DeSeCo]]）的单一委员会 | 全样本审查 | 实证揭示主权国家行政当局在决策阶段对跨国大规模测评体系衍生指标具有绝对压倒性的引用偏好 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 547–548)]] | 挪威国家能力课程改革（5 个专家委员会文献 vs 教育部法定行政法令） | 政策咨询引文网络全样本追踪 | 国际组织测评工具文献垄断率 | 专家委员会引用的 464 篇文献在最终法令中仅存 22 篇，而仅存的 22 篇中有 20 篇全部来自专门审议 [[OECD]] ILSAs 衍生项目（[[Definition and Selection of Competencies\|DeSeCo]]）的单一委员会 | 全样本审查 | 实证揭示主权国家行政当局在决策阶段对跨国大规模测评体系衍生指标具有绝对压倒性的引用偏好 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 系统重构国际大规模学生评估从战后冷战时期向当代[[Governing by Numbers\|数字治理]] 2.0 跨国中介演进的制度史，揭示其作为硬事实施展[[Soft Power\|软权力]]的物质基石。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] — 系统重构国际大规模学生评估从战后冷战时期向当代[[Governing by Numbers\|数字治理]] 2.0 跨国中介演进的制度史，揭示其作为硬事实施展[[Soft Power\|软权力]]的物质基石。

@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 通用认知技能（Generic Skills）
 > 通用技能（Generic Skills）是指超越单一具体学科课程内容与专业知识体系、具有高度情境可迁移性的综合性高阶认知素养与实践行为能力复合体。其核心通常聚焦于[[Critical Thinking|批判性思维]]、分析性推理、复杂现实[[Problem Solving|问题解决]]、论证决策以及有效沟通。在当代全球高等教育治理与评价改革中，通用技能被广泛用作衡量大学毕业生[[Human Capital Theory|人力资本]]存量、机构教学质量增益以及跨国可比学习成果的核心度量[[Construct|构念]]。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 21–26)]]
 
 > [!concept-lens] 概念透镜

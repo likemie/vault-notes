@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 影子层级（Shadow Hierarchy）
 > **影子层级（Shadow Hierarchy）** 是指在硅谷先锋科技企业（如 [[Palantir Technologies|Palantir]]）与敏捷工程组织中，未在正式组织架构图或规章中明确公示、但实际发挥人员协调与权威引领作用的隐性权力结构。卡普（[[Alexander Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）指出，认为高科技企业完全没有层级或绝对扁平是一种严重的认知误区；任何人类组织都需要秩序，真正决定组织创新活力的**不是层级是否存在，而是层级的僵化程度——即其能够被迅速拆解、重组的速度，以及全员耗费在维系层级与自我钻营上的精力比例**。影子层级伴随一定的组织模糊性，这种模糊性虽然增加了外部伙伴的认知成本，但却破除了部门地盘壁垒，为有才华的实干者主动承担重任创造了宝贵的开放空间。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 125–126)]]
 
 > [!concept-lens] 概念透镜

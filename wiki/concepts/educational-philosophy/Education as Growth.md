@@ -60,7 +60,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育即生长（Education as Growth）
 > **生长（Growth，在批判[[Paradigm|范式]]中亦延伸为成长）** 是现代教育哲学中衡量受教育过程有效性的终极价值标尺。在[[John Dewey|杜威]]（John Dewey）的[[Pragmatic Paradigm|实用主义]]教育哲学中，“教育即生长”（Education is Growth）被确立为最高原理，特指儿童以自身经验为原点、在与自然及社会环境的持续沟通中实现经验的连续性重组与自我实现（Self-realization）。在[[Paulo Freire|弗莱雷]]（Paulo Freire）的[[Critical Pedagogy|批判教育学]]中，生长进一步拓展为冲破社会强加的“[[Culture of Silence|沉默文化]]”、唤醒批判意识，并以改造现实不公的解放性实践（[[Praxis]]）作为成长的最终归宿。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–8, 10, 31)]]
 
 > [!concept-lens] 概念透镜

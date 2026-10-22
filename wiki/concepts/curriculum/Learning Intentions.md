@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学习意图（Learning Intentions）
 > 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被异化为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 概念透镜

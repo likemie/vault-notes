@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认知灵活性（Cognitive Flexibility）
 > 认知灵活性（Cognitive Flexibility）是指个体根据变化的环境条件、任务约束与目标需求，在不同心智表征、概念范畴、注意规则或行动策略之间自适应切换，并抑制自动化思维定势以实现多路径[[Problem Solving\|问题解决]]的高阶认知与[[Executive Function\|执行功能]]。在认知神经科学与学习科学中，它与[[Working Memory\|工作记忆]]（[[Working Memory]]）和[[Inhibitory Control\|抑制控制]]（抑制控制）共同构成核心[[Executive Function\|执行功能]]的三大支柱；在[[Creativity\|创造力]]研究中，它被视为[[Divergent Thinking\|发散思维]]、远距离概念重组与突破功能固着的最核心底层心智能力。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2, 10)]]; [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; Diamond (2013); Spiro et al. (1988)
 
 > [!concept-lens] 概念透镜

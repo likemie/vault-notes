@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 综合教育（Comprehensive Education）
 > **综合教育（Comprehensive Education）** 是指在义务教育或中等教育阶段，打破基于学力测试、学术倾向或社会出身过早划分学轨的体制，将所有适龄学生整合于统一的学校形态与共同基础课程之中，以促进社会阶层流动、延缓淘汰分选并保障公民教育权利为目标的教育制度组织原则。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
 
 > [!concept-lens] 概念透镜

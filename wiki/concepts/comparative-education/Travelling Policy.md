@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 旅途政策（Travelling Policy）
 > 旅途政策（Travelling Policy，亦称旅途改革 travelling reforms）是全球化时代比较教育政策转移研究的核心概念。它指的是特定的教育改革方案（如“以学生为中心”的教学法或“能力本位”课程）脱离了其原有的社会和历史脉络，在跨国政策空间中进行多维循环，并在不同本土情境中被不断解构、转译（translation）和重新合法化的非线性流变过程。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])
 
 > [!concept-lens] 概念透镜

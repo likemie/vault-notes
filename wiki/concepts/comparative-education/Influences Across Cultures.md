@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 跨文化影响（Influences Across Cultures）
 > 跨文化影响（Influences Across Cultures）指在比较教育学学术史与实践演进中，系统考证与追踪不同国家、民族和文化之间在教育思想、教学法、制度规程与政策设计上的横向流动、跨界吸收与双向塑形过程。这一[[Paradigm|范式]]主张跳出孤立的国别制度描述，借鉴比较文学追踪母题与体裁在时空跨度中迁徙的探究理路，为十九世纪被战后[[Scientism|科学主义]]贬抑为功利性与赞美性的先驱描述研究平反，确立其作为现代[[Policy Borrowing|政策借用]]与转移理论基石的学术合法性。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 123–124)]]
 
 > [!concept-lens] 概念透镜

@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] PISA素养（PISA Literacy）
 > [[PISA]] 素养（PISA literacy / PISA 型読解力）是日本在 2004 年 PISA 2003 结果公布后正式纳入国家教育政策目标的学术能力概念，指阅读和更广泛的课程知识，聚焦[[Problem Solving\|问题解决]]、知识应用、[[Creativity\|创造性]]工作和知识回忆等高阶能力（National Institute for Education Policy, 2019）。它为日本教育带来了与以往"学力"理解不同的新学力概念——即"扎实的学力"（robust academic proficiency），涉及高阶知识和技能的应用（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 > [!concept-lens] 概念透镜

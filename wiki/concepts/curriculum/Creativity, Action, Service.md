@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 创意、行动、服务（Creativity, Action, Service）
 > 创意、行动、服务（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的核心要素。它让学生在学科课程之外参与创意表达、身体活动和社区服务，并通过真实任务、持续参与与反思，把学术学习扩展为责任、协作和行动能力的发展。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18, 22)]]
 
 > [!concept-lens] 真实经验、学生责任与全人发展

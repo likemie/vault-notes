@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学解释（Scientific Explanation）
 > [[Scientific Explanation|科学解释]]（Scientific Explanation，亦作科学解释建构）指在科学教育与科学探究中，学习者依据经验证据与[[Discipline-Based Theory|学科理论]]，为自然现象背后的为什么与如何发生建构因果机制模型与连贯阐述的[[Epistemic Practices|认识论实践]]。它不仅要求陈述客观现象的事实状态，更要求揭示驱动现象演变的不可见中介过程、因果链条与概念网络，是《下一代科学标准》（NGSS, 2013）与学习科学确立的核心科学认识论实践之一。[[Argument_Han_Gutierez_2026_IJSE|(Sandoval, 2005; de Andrade et al., 2019; Han & Gutierez, 2026, pp. 2–5)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–892, 905–907)]]
 
 > [!concept-lens] 概念透镜

@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 永久和平（Perpetual Peace）
 > **永久和平（Perpetual Peace / *Zum ewigen Frieden*）** 是人类历史超越霍布斯式无政府野蛮战争状态的规范性终极愿景。
 > 
 > 在哲学与教育学层面，它主张持久的世界和平绝不能仅寄托于现实主义短期的均势停火，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。在当代地缘战略与技术政治层面，该构想受到现实主义者的深刻重审：战后大国间的相对和平并非道德自觉的自然演进，而是依赖于压倒性的战略威慑；单方面去武力化与安全搭便车非但不能实现永久和平，反而会制造地缘权力真空并加剧安全秩序的脆弱性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 20–24)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]

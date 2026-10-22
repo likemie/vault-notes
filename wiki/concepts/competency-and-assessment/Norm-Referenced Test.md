@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 常模参照测验（Norm-Referenced Test）
 > 常模参照测验（norm-referenced test）把个体的测验表现转换为量表分数，再与参照群体的分数分布比较，用排名、百分位或其他相对位置说明个体在群体中的位置。它适合识别和比较个体差异，但不能直接说明学生具体学会了什么，也不以判断学生是否达到课程目标为首要任务。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]；[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 69)]]
 
 > [!concept-lens] 概念透镜

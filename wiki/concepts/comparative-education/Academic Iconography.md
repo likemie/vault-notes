@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学科肖像学（Academic Iconography）
 > 学科肖像学（Academic Iconography）是指在学科史编纂与集体记忆建构中，学科共同体为了确立自身专业存在、职业合法性与延续性神话，将特定历史人物、经典演讲或标志性文本神圣化为起源图腾的社会建构过程。这种肖像化建构往往抽离了历史主体的具体时代脉络与学理混乱，以崇拜性的图腾叙事替代严肃的批判史学分析，是传统的发明在学科[[Knowledge Production\|知识生产]]中的典型体现[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]。
 
 > [!concept-lens] 概念透镜

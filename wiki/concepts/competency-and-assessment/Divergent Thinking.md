@@ -90,7 +90,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 发散思维（Divergent Thinking）
 > 发散思维（Divergent Thinking, DT）是指认知主体在面对[[Open-Mindedness|开放性]]问题、[[Task Structure\|劣构任务]]或不确定情境时，不局限于单一常规路径，而是从多角度、多方向生成多样化构想、潜在解决方案与非常规概念联结的认知探索与发散性生成过程。在心理测量学、学习科学与人工智能教育学中，发散思维常作为评估[[Creativity\|创造潜能]]（Creative Potential）与创造性思维（Creative Thinking）的核心[[Operationalization\|操作化]][[Construct\|构念]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 7)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–4)]]
 
 > [!concept-lens] 概念透镜

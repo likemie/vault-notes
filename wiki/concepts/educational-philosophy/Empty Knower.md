@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 空无的认知者（Empty Knower）
 > 空无的认知者（empty knower）是[[Georg Wilhelm Friedrich Hegel\|黑格尔]]主义教育哲学语境下的一个学生隐喻。它指学生在进入特定课程学习前被视为理性、自我导向但缺乏具体知识实质（devoid of substance）的认知主体。这种主体被认为能够仅凭理性的精神潜能（spirit）去接近和掌握非切近的、普遍性的科学概念。这一概念在[[International Baccalaureate\|国际文凭]]（International Baccalaureate, IB）[[Theory of Knowledge\|知识论]]（Theory of Knowledge, TOK）课程中常被用作其认知者中心定位的理论基础，用以刻画等待被填充课程细节并随后对这些内容进行理性质疑的学生状态。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212–213)]]
 
 > [!concept-lens] 概念透镜

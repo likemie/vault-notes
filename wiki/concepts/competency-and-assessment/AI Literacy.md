@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 人工智能素养（AI Literacy）
 > 人工智能素养（AI Literacy）是指个体理解人工智能（AI）的基本工作原理、能力边界、概率生成机制与社会伦理影响，能够在学习、工作与日常生活中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity\|创造力]]** 的协同[[Scaffolding\|脚手架]]，并在算法生成的表面语义流畅性面前维持 **[[Epistemological Vigilance\|认识论警觉]]**，坚守不将独立思考与[[Critical Thinking\|批判性思维]]盲目外包（Outsource）的综合素养与行动胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–13)]]
 
 > [!concept-lens] 概念透镜

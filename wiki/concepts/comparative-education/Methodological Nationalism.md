@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 方法论民族主义（Methodological Nationalism）
 > **方法论民族主义（Methodological Nationalism）** 是指在社会科学和比较教育研究中，未经反思地将民族国家作为划分社会空间与分析现象的默认/天然边界，从而把所有变化都理解为国家与国家之间横向地理差异的[[Epistemology\|认识论]]预设（Wimmer & Glick Schiller, 2002; Dale, 2005; [[Argument_Beech_2009_CE\|Beech, 2009a]]；[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b]]）。这一信念预设了“国家即社会”，并将世界性现象视为由国家内部生成，系统性地遮蔽了全球系统的独立存在和跨国[[Space of Flows|流动空间]]。
 
 > [!concept-lens] 概念透镜
@@ -168,8 +168,8 @@ updated: 2026-10-22
 > [!claim] [[Roger Dale|Dale, R.]] & Robertson, S.
 > **三主义叠加对跨国治理网络的系统性遮蔽** 全球化时代的教育研究不仅受限于方法论民族主义，更与[[Methodological Statism|方法论国家中心主义]]（将国家视为唯一法定治理行动者）和[[Methodological Educationism|方法论教育主义]]（将教育等同于制度化学校教育）相互纠缠、层叠强化，导致分析视角严重遮蔽跨国治理网络、非国家中介组织以及学校围墙之外的全球教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **超越国家自足容器与单向霸权传导假定** 政策实证研究极易落入将国家预设为封闭自足容器的方法论民族主义误区，或走向另一极端——将全球与国家关系简单化为自上而下的线性霸权受体；应对之道是确立[[Methodological Transnationalism|方法论跨国主义]]，将全球治理网络与主权国家视为相互依存、互构借用的关系性空间，聚焦行动者在跨国[[Transfer Space|转移空间]]中如何能动地动员外部智库与国际组织作为中介工具，重构国家内部的改革合法性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]
+> **超越国家自足容器与单向霸权传导假定** 政策实证研究极易落入将国家预设为封闭自足容器的方法论民族主义误区，或走向另一极端——将全球与国家关系简单化为自上而下的线性霸权受体；应对之道是确立[[Methodological Transnationalism|方法论跨国主义]]，将全球治理网络与主权国家视为相互依存、互构借用的关系性空间，聚焦行动者在跨国[[Transfer Space|转移空间]]中如何能动地动员外部智库与国际组织作为中介工具，重构国家内部的改革合法性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 539–540)]]
 
 ---
 
@@ -188,7 +188,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **语言偏见与尺度超越** | 揭示“跨国/国际/超国家”术语的内生偏见，基于流动空间与关系性空间超越单一国家框架 | 比较教育认识论、高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Jason Beech\|Beech (2009a)]]; [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] |
 > | **静态转移批判与流通** | 摒弃物理领土固化转移假设，确立政策思想的关系性多维流通与再脉络化 | 教育政策跨国借用、教育思想转移与本土重构 | [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] |
-> | **治理网络解构与跨国进路** | 破除三主义叠加与单向霸权模型，依托方法论跨国主义透视全球与国家互构 | [[Global Education Governing Complex\|全球教育治理复合体]]、跨国[[Policy Brokerage\|政策中介]]与国内改革合法化动员 | Dale and Robertson (2009); [[Argument_Klerides_2023_CE\|Klerides (2023)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+> | **治理网络解构与跨国进路** | 破除三主义叠加与单向霸权模型，依托方法论跨国主义透视全球与国家互构 | [[Global Education Governing Complex\|全球教育治理复合体]]、跨国[[Policy Brokerage\|政策中介]]与国内改革合法化动员 | Dale and Robertson (2009); [[Argument_Klerides_2023_CE\|Klerides (2023)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] |
 > | **全球花园横切与多位置重构** | 揭示非国家主体跨切国家区隔漫步全球花园，依托五位置[[Champ\|场域]]终结双边借用容器假设 | 全球教育治理、跨国私营咨询扩张与政策[[Discourse\|话语]]环流 | [[Jason Beech\|Beech (2009b)]] |
 
 ---
@@ -207,7 +207,7 @@ updated: 2026-10-22
 > - **2023–2025 — 高等教育与[[Ontology|本体论]]深化**
 >   [[Argument_Klerides_2023_CE|Klerides (2023)]] 整合 Dale & Robertson 框架探讨三主义叠加效应；[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] 将 [[Doreen Massey]] 的“[[Relational Space|关系性空间]]”与“[[Multiplicity|多重性]]”理论作为超越方法论民族主义的深层本体论基础，论证高等教育多重尺度的共存。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]; [[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 > - **2024 — [[Methodological Transnationalism|方法论跨国主义]]的系统应对**
->   [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 提出不仅要警惕方法论民族主义，亦需防范将全球/国家关系扁平化为线性霸权统治的误区，倡导基于[[Methodological Transnationalism|方法论跨国主义]]解构国家政府尺度与职能。
+>   [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 提出不仅要警惕方法论民族主义，亦需防范将全球/国家关系扁平化为线性霸权统治的误区，倡导基于[[Methodological Transnationalism|方法论跨国主义]]解构国家政府尺度与职能。
 
 ---
 
@@ -236,13 +236,13 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 30 个涉足教育的跨国政府间组织（1945–2020 年跨越 75 年历史演变） | 全球治理机构历史数据库计量统计与职能演进分析 | 跨国教育治理主体的职能属性分布 | 30 个国际组织中，高达 33.3%（10 个，如 [[OECD]]、世界银行、WTO、APEC）为纯粹的经济与贸易类组织，非教育组织深度主导全球教育标准制定与[[Policy Brokerage\|政策中介]] | 历史全样本归纳（$N=30$） | 证实国家教育系统的治理权早已被非教育、超国家经济组织深度渗透，有力[[Falsification\|证伪]]“教育纯属国家主权内部事务”的方法论民族主义容器预设 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | 全球 30 个涉足教育的跨国政府间组织（1945–2020 年跨越 75 年历史演变） | 全球治理机构历史数据库计量统计与职能演进分析 | 跨国教育治理主体的职能属性分布 | 30 个国际组织中，高达 33.3%（10 个，如 [[OECD]]、世界银行、WTO、APEC）为纯粹的经济与贸易类组织，非教育组织深度主导全球教育标准制定与[[Policy Brokerage\|政策中介]] | 历史全样本归纳（$N=30$） | 证实国家教育系统的治理权早已被非教育、超国家经济组织深度渗透，有力[[Falsification\|证伪]]“教育纯属国家主权内部事务”的方法论民族主义容器预设 |
 > | 同上 | 挪威国家教育改革两阶段政策制定过程（5 个政府专家委员会绿色报告 vs 教育部法定白皮书法令） | 政策转移全生命周期文献追踪与引用[[Network Analysis\|网络分析]] | 国家政策决策对跨国政策中介的依赖度与阶段过滤 | 5 个专家委员会引用的 464 篇文献中仅 22 篇进入政府最终法令（过滤率 95.3%）；而采纳的 22 篇中 20 篇（90.9%）直接源于审议 OECD [[Definition and Selection of Competencies\|DeSeCo]] 项目的委员会，OECD 成为主导国内改革的最核心知识源 | 全文本追踪分析 | 揭示民族国家政府的教育改革高度依赖超国家中介提供的“准外部权威”来克服国内争议，国家内部决策空间与全球跨国空间深度互嵌 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Methodological Transnationalism|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 提出[[Methodological Transnationalism|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 论证 Massey 的[[Relational Space|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]重构教育政策[[Discourse|话语]]的三级转译。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Champ|场域]]五位置模型，揭示非国家主体漫步全球花园横切国家区隔，以及拉美[[Gatekeepers|把关人]]群体如何闭合国家政策空间。

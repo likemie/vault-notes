@@ -42,12 +42,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 门槛假说（Threshold Hypothesis）
 > [[Threshold Hypothesis\|智力门槛假说]]（Threshold [[Hypothesis]]，亦称[[Creativity\|创造力]]门槛假说或智力-创造力门槛假说）是由吉尔福德（Guilford, 1967）与托兰斯（Torrance, 1974）提出并经后续实证检验的经典心理学假说。该假说主张**基础智力是创造力的必要非[[Necessary and Sufficient Conditions\|充分条件]]：** 在智商（Intelligence Quotient, IQ）低于某一临界门槛（传统经验设定为 $\text{IQ} \approx 120$）时，智力与[[Creativity\|创造力]]呈显著中高程度正相关；一旦智力跨越该门槛，智力水平对创造潜能的约束解除，两者的相关性显著减弱甚至趋近于零（Karwowski et al., 2021; Weiss & Steger, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 4, 8]]）。
 
 > [!concept-lens] 概念透镜

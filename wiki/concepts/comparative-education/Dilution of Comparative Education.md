@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 比较教育的稀释（Dilution of Comparative Education）
 > **比较教育的稀释（Dilution of Comparative Education）** 是指在全球化扩张与跨国教育治理热潮中，由于缺乏严格的理论与方法论训练，“人人都在比较并自称比较学者”（everybody compares and claims to be a comparativist），导致比较教育学丧失其独特的学科轮廓（specific contours）与[[Epistemology|认识论]]身份的退化现象。该概念由德国比较教育学家[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）于 2009 年系统提出，意在警示浅层经验对照、脱离文化脉络的指标罗列与政策工具主义对两百年比较教育学术根基的侵蚀。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 
 > [!concept-lens] 概念透镜

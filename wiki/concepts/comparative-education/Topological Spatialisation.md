@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 拓扑空间化（Topological Spatialisation）
 > 拓扑空间化（Topological Spatialisation），亦称拓扑空间（Topological Space）或拓扑治理（Topological Governance），是批判性政策社会学与教育空间理论用以超越传统欧几里得（Euclidean）领土尺度的新型空间构型概念。它将空间视为由异质节点在动态关系中通过拉伸（stretching）、折叠（folding）、连接（connectivity）与触达（[[Reach]]）持续编织的关系网络；在教育治理实践中，拓扑空间化重点揭示以标准化测试、绩效数据库和互操作协议为中介的[[Data Infrastructure\|教育数据基础设施]]，如何打破传统的地方—联邦州—国家—跨国嵌套科层等级，将远距离分散的课堂实践与中央[[Center of Calculation\|计算中心]]压缩折叠为即时可比、实时干预的紧密拓扑邻近关系（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 135–137]]；Allen, 2011; Ruppert, 2012）。
 
 > [!concept-lens] 概念透镜

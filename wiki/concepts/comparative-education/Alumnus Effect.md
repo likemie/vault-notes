@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 校友效应（Alumnus Effect）
 > 校友效应（Alumnus Effect）指国际留学生在留学所在国求学期间，通过跨文化沉浸、校园生活与人际交往所建立的积极情感依恋与怀旧记忆（positive nostalgia）；在完成学业返回母国后，这种个体亲历好感通过人际口碑与社交网络向民间舆论自发扩散，从而在短期与微观层面对冲外部主流媒体对留学国所建构的负面刻板印象与偏见。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 84)]]
 
 > [!concept-lens] 概念透镜

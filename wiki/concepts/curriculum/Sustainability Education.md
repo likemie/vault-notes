@@ -35,7 +35,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 可持续发展教育（Sustainability Education）
 > 可持续[[Development Education|发展教育]]是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的[[Comprehensive Education|综合教育]][[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 > [!concept-lens] 概念透镜

@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 通用目的技术（General Purpose Technology）
 > 通用目的技术（General Purpose Technology, GPT）是指一类在整个经济体系中具有高度广泛渗透性、长期技术动态改进潜力以及强大下游互补创新诱发能力的根本性技术[[Paradigm|范式]]（Bresnahan & Trajtenberg, 1995; Lipsey et al., 2005）。这类技术在诞生初期通常仅服务于特定细分市场（如军用或专用实验领域），随着规模制造、[[Application Engineering|应用工程]]与系统级标准接口的协同突破，逐步扩散至计算机、消费电子、通信与制造业等广泛部门，成为推动[[Total Factor Productivity|全要素生产率]]（Total Factor Productivity, TFP）增长的通用技术引擎。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–181)]]
 
 > [!concept-lens] 概念透镜

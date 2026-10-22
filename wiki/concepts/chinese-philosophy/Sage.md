@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 圣人（Sage）
 > **圣人（Sage / Shengxian / 圣贤）** 是[[Confucian Learning Tradition|儒家学习传统]]与比较哲学中的终极理想人格，代表了人类道德卓越、普世[[Benevolence|仁爱]]与知行合一的最高境界。在[[Jin Li|李瑾]]（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 41–44]]）的阐释中，圣人超越了“士”与“[[Junzi|君子]]”的阶梯，指那些将同理心、关怀与仁德无差别地扩展至全人类的完人；其可达性在历史上经历了从先秦[[Confucius|孔子]]的“遥不可及”到[[Neo-Confucianism|宋明理学]]“人人皆可成圣”的平民化演变。而在现代比较政治与制度诊断中，亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）进一步将“圣人/神职人员”作为一种制度假设进行反思——指出若在公共治理中不切实际地假定公职人员皆为不求物质回报的道德圣人，反而会扭曲制度激励，构筑隐性[[Red Tape|繁文缛节]]并加剧治理阶层的寡头化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–47)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
 
 > [!concept-lens] 概念透镜

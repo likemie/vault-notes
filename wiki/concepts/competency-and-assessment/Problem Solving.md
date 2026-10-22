@@ -77,7 +77,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 问题解决（Problem Solving）
 > **问题解决（Problem Solving）** 是指个体在面对情境阻碍且没有现成、自动化算法或直接反应程序可用时，运用一系列有目的的高级认知与实践规程，将“初始状态（Initial State）”逐步转化为“目标状态（Goal State）”的复杂心智与操作过程。在认知心理学经典传统中，该过程被形式化为“问题空间（Problem Space）”内的状态搜索与算子（Operators）应用；在当代学习科学、[[OECD|经合组织]]（OECD）素养框架以及[[Engineering Education|工程教育]][[Epistemology|认识论]]中，它进一步拓展为**复杂问题解决（Complex Problem Solving, [[Creative Problem Solving|CPS]]）** 与**现场故障排查（Troubleshooting）**，强调在高度动态、信息不完备、多重物理/成本约束且具劣构特征的真实情境中进行系统表征、多路径探索、算法调试、权衡折中（Trade-offs）与物理干预。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–25)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
 
 > [!concept-lens] 概念透镜

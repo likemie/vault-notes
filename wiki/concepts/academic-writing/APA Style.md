@@ -33,7 +33,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-> [!def] APA 格式（APA Style）
+> [!def] 美国心理学会出版手册（APA Style）
 > APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文文献引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜

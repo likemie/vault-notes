@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 操演性（Performativity）
 > **表演性／操演性／绩效性（Performativity）** 最初是由法国哲学家[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以输入/输出效率为核心的后现代知识合法化与社会运作原则。在批判教育社会学与政策研究中，该概念经由英国教育学者[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]，2003）等人发展为一种**国家治理、问责与微观规训技术** 它通过运用对比、衡量、考核指标与外部审查奖惩，强迫教育机构与一线教师将自身价值转化为可度量、可[[Commensuration|通约]]的数字证据；为了在竞争性评价中生存，教师与学校被迫将大量精力投入到展示合规的表演中，导致教育实践蜕变为虚构与捏造（Fabrications），造成教师专业道德的空心化与[[Ontology|本体论]]不安全感（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]；Ball, 2003, pp. 215–217；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 双层分析透镜

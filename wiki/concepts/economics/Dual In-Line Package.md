@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 双列直插封装（Dual In-Line Package）
 > 双列直插封装（Dual In-Line Package, DIP）是一种具有长方形外壳以及两排平行垂直向下金属引脚的集成电路芯片封装标准架构。该封装于1964至1965年间由[[Fairchild Semiconductor|仙童半导体]]的力克斯·赖斯（Rex Rice）及研发团队针对商用计算机和工业用户的系统级装配瓶颈研发而成。其核心设计特征在于采用100密耳（mil，即0.1英寸）的标准引脚间距与双列直插布局，既简化了印刷电路板（Printed Circuit Board, PCB）的双层布线拓扑，又能无缝兼容下游计算机制造商广泛采用的自动化插件机，从而彻底打破了军用封装对商业化扩散的成本与工艺制约。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 204–207)]]
 
 > [!concept-lens] 概念透镜

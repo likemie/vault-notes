@@ -197,7 +197,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学业成就（Academic Achievement）
 > 学业成就（academic achievement）是衡量学生在特定学习阶段、特定学科或特定学术任务中，对知识、技能以及[[Higher-Order Thinking Skills\|高阶思维]]推理掌握程度的多维结果指标。在教育心理学与教学实证研究中，它既是评估课程干预与教学模式有效性的终极衡量标尺，也是检验学生的[[Epistemic Cognition\|认识论认知]]、动机信念、自我调节策略与学习方式理论效力的关键靶标。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]; [[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 307–310)]]
 
 > [!concept-lens] 概念透镜

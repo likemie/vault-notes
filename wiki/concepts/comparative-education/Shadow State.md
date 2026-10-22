@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 影子国家（Shadow State）
 > 影子国家（Shadow State）是玛格丽特·萨顿（Margaret Sutton）、[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）与桑吉塔·卡马特（Sangeeta Kamat）在剖析全球教育治理中公共权力与非政府组织（Non-Governmental Organization, NGO）关系时确立的批判性分析概念；该概念揭示了在新自由主义国家紧缩与公共服务民营外包浪潮中，跨国双边与多边援助机构绕过主权国家行政体系，将 NGO 广泛培育成替代性公共教育承包商的制度悖论——民间组织在替受援国政府承担普及基础教育、成人扫盲与早期幼儿照料等兜底职能的同时，逐步退化为去政治化、高度依附于外部捐助资本的“准行政影子网络”，进而深刻侵蚀了民族国家统领公共教育体系的宪法合法性与制度问责。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004, cited in Arnove, 2009, pp. 111–112)]]
 
 > [!concept-lens] 概念透镜

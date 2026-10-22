@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 实验主义（Pragmatism in China）
 > Pragmatism in China（[[Pragmatic Paradigm\|实用主义]]在中国）专指[[John Dewey\|杜威]]实用主义哲学在中国（晚清、民国及建国后）的传播、选择性采纳、制度转译与政治[[Recontextualization\|再脉络化]]历史。它并非对西方原典的忠实复制或被动引进，而是中国教育改革者与政治精英出于救国、制度重构与[[Discourse|话语]]重塑需求，将 Pragmatism 从一个完整的哲学体系拆解为服务于特定政治议程的话语工具。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.68–72]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.609–612]]）
 
 > [!concept-lens] 概念透镜

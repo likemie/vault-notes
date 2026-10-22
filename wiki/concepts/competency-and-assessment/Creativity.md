@@ -128,7 +128,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 创造力（Creativity）
 > 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 > [!concept-lens] 概念透镜

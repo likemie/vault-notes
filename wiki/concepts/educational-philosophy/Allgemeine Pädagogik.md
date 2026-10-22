@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 普通教育学（Allgemeine Pädagogik）
 > **[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统摄地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜

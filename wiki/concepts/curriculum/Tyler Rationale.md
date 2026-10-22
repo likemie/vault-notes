@@ -36,7 +36,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] Tyler的课程四问（Tyler Rationale）
 > Tyler（1949）提出的课程开发四问框架，被认为是现代主义、[[Positivism\|实证主义]]课程观最具影响力的表达。其核心逻辑是：目的先行，经验服务目的，组织服务效率，评估服务验证——一个从目标到结果的线性、闭环控制系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 121–125)]]
 
 > [!concept-lens] 概念透镜

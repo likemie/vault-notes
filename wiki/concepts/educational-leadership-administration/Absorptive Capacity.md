@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 吸收能力（Absorptive Capacity）
 > **吸收能力（Absorptive Capacity）** 指组织识别外部新知识的价值、消化同化该知识并将其[[Creativity\|创造性]]应用于实践终端以实现既定目标的组织能力与系统特性（Cohen & Levinthal, 1990, p. 128）。在教育改革与[[Knowledge Mobilisation\|知识动员]]视域下，吸收能力不仅体现在个别教师的[[Research Literacy\|研究素养]]与甄别技能，更是一种扎根于微观学校组织生态的系统性学习条件，涵盖教师开放对话习惯、[[Professional Learning Community\|专业学习共同体]]（PLCs）架构、领导者躬身示范以及受制度保障的专有工时（Ross & Morrison, 2021；[[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 183–187, 193–195]]）。
 
 > [!concept-lens] 概念透镜

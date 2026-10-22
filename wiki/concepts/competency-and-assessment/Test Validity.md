@@ -32,12 +32,12 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 测验效度（Test Validity）
 > 测验效度（Test validity）指教育测验和评估工具在多大程度上实现了其设计目的——准确测量了目标[[Construct\|构念]]、内容或能力。一个有效的测验必须确保其项目内容、分数解释和后果使用都经得起方法论审查。测验效度不是一个单一指标，而是多种效度类型的**组合论证（p.225）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10)]]
 
 > [!concept-lens] 概念透镜

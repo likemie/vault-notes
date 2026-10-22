@@ -34,7 +34,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 英雄、陌生与野蛮（Heroic, Strange, and Barbaric）
 > 英雄、陌生与野蛮（Heroic, Strange, and Barbaric）是比较教育学科批判[[Discourse Analysis\|话语分析]]工具，由 [[Robert Cowen]] 于 2023 年提出。它包含三个带有强烈道德与审美张力的批判性形容词，主张将其直接运用于学校系统和教育政策分析中。该概念工具旨在通过强烈的情感与智识震荡（shock），撕开学术界日常精致中立的专业相对主义滤镜，直面教育与国家暴力、[[Geopolitics|地缘政治]]冲突对儿童受教育生命状态带来的实际人道后果。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 335, p. 336]])
 
 > [!concept-lens] 概念透镜

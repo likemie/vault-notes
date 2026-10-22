@@ -84,7 +84,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 学生流动性（Student Mobility）
 > **学生流动性（Student Mobility）** 指学生在教育系统内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该[[Construct|构念]]不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）建构出的核心政策议题。其在跨国政策[[Discourse|话语]]与地缘战略中呈现多元价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本；在美国基础教育问责语境下被问题化为伴随贫困与家庭失范风险、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）；在发展型大国[[South-South Cooperation|南南合作]]与“[[Belt and Road Initiative|一带一路]]”建设中，则经历从依赖国家全额奖学金补贴单向吸引留学生，向统筹“五个并重”（出国与来华、公派与自费、规模与质量、规范管理与优化服务、培养与发挥作用）以及结合重大工程推进产教协同实体办学演进。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–226, 230)]]
 
 > [!concept-lens] 概念透镜

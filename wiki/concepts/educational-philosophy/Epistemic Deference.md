@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认识论顺从（Epistemic Deference）
 > [[Epistemology|认识论]]顺从（Epistemic Deference）是指认知主体在面对特定判断或决策任务时，**单凭某一主张来源于特定外部行动者（如人类专家、权威机构或自动化决策支持系统），便将该主张视为比自身判断更具权威性或可[[Reliability|信度]]，进而推翻、压制或停止自身独立审思与反常证据权衡的认识让渡行为**。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 10–12)]] 在[[Man-Computer Symbiosis|人机协同]]中，认识论顺从既可以是在面对高度复杂不可验任务时的工具理性策略（理性顺从），也可以在面对明确反常证据时异化为放弃自主能动性的病理化盲从（强[[Automation Bias|自动化偏差]]）。
 
 > [!concept-lens] 概念透镜

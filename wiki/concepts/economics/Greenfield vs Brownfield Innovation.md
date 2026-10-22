@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 绿地创新与棕地创新（Greenfield vs Brownfield Innovation）
 > 绿地创新与棕地创新（Greenfield vs Brownfield Innovation）是科技政策与[[Evolutionary Economics|演化经济学]]中用于解构新兴技术所面临的“系统嵌入环境与市场结构约束”的核心概念对。绿地创新（Greenfield Innovation）指技术进入的是一个没有庞大历史沉没资产、缺乏既有垄断规制网络且应用场景高度开放的全新空白生态（如冷战初期的半导体、电子计算机与互联网）；棕地创新（Brownfield Innovation）则指新技术必须强制嵌入到深嵌于巨额重资产投资、运行寿命长达 30–50 年、极度规避风险且受公用事业强监管的既有物理与组织存量系统之中（如现代集中式电网、交通运输燃料系统与大宗化石能源基础设施）。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–186)]]
 
 > [!concept-lens] 概念透镜

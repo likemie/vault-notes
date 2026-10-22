@@ -83,7 +83,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 创造性自我效能感（Creative Self-Efficacy）
 > [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]（Creative Self-Efficacy, CSE，亦称创造效能感或创造信心）指个体对其成功完成创造性任务、生成新颖且适切的想法、克服不良结构难题阻碍并产出创新成果的能力所持有的主观信心与自我信念（Tierney & Farmer, 2002; Karwowski et al., 2013; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 3–4]]）。在教育心理学与创造力研究中，创造性自我效能感是连接个体[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance）的关键外认知动力中介桥梁，深刻调控着学习者在遭遇认知僵局与试错挫折时的坚持性与探索策略。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]
 
 > [!concept-lens] 概念透镜

@@ -33,12 +33,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 漂浮能指（Floating Signifier）
 > 漂浮能指（Floating Signifier）是指被剥离了具体历史时间和空间起源的符号或概念[[Discourse|话语]]。它失去了固定的具体所指对象，其沟通与传播效力恰恰来自其“空洞性”——即能在不同接收语境中被不同行动者进行差异化解读与重新编码的巨大弹性。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 353–355]])
 
 > [!concept-lens] 概念透镜

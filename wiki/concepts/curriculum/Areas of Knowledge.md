@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识领域（Areas of Knowledge）
 > **知识领域（Areas of Knowledge，AOK）** 广义上指[[Knowledge Production\|知识生产]]、信念辩护和日常论辩发生的具体领域，涵盖从个人品味、审美和价值判断到社会事实与物理事实的连续范围。狭义上，它是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）课程中用于比较主要学科与知识传统的课程框架。它考察各科如何界定对象、形成概念、接受证据、选择方法并建立判断标准，超越对学科事实数量的统计。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 314–319)]] [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 35–39)]]
 
 > [!concept-lens] 概念透镜

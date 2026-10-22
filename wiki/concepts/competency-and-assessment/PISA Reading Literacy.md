@@ -47,12 +47,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] PISA阅读素养（PISA Reading Literacy）
 > [[PISA]] 阅读素养（PISA Reading Literacy）是[[OECD|经济合作与发展组织]]（OECD）在国际学生评估项目（[[PISA]]）中确立的跨国测评[[Construct|构念]]，指 15 岁学生理解、使用、评估、反思多源书面文本并参与阅读，以实现个人发展目标、拓展知识与潜能并有效参与社会生活的能力。该构念摆脱了传统学科测验偏重课文背诵、汉字/词汇[[Decodification|解码]]与预设标准答案的束缚，确立了面向真实生活情境与成年公民参与的应用导向素养[[Paradigm|范式]]，并伴随技术变迁完成了从单篇连续/非连续印刷文本检索向复杂开放数字界面下多源文本验证、[[Reliability|信度]]辨析与矛盾整合的历史演进。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]; [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 
 > [!concept-lens] 概念透镜

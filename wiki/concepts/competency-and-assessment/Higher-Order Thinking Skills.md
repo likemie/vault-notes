@@ -120,7 +120,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 高阶思维技能（Higher-Order Thinking Skills）
 > 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity\|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy\|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization\|操作化]]为[[Critical Thinking\|批判性思维]]、[[Computational Thinking\|计算思维]]、[[Problem Solving\|复杂问题解决]]、[[Metacognition\|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1365–1366)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜

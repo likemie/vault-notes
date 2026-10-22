@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 数据素养（Data Literacy）
 > 数据素养（Data Literacy）涵盖双重维度：在**通识与课程教育层面**，指个体在日益数字化的社会中理解、解读、批判性评估和负责任应用数据的综合胜任力，依托概率论与统计学基础，涵盖对数据来源真实性、抽样偏差、可视化操纵及不确定性的批判审视（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026, p. 31]]）；在**教育者专业探究层面**，指教师与[[School Leadership\|学校领导]]者将多源校本数据（输入、过程、情境与结果数据）系统收集、质检清洗、深入解读并转化为可操作教学见解的核心胜任力（Mandinach & Gummer, 2016；Schildkamp & Kuiper, 2010），重点在于发展[[Analytical Stance\|分析立场]]（analytical stance），克服对终结性考试分数的单一依赖，并对定性与定量证据进行[[Triangulation\|三角验证]]以支持教学调整与学校持续改进（[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp. 129–131]]；[[Argument_Brown_2017_EducRes\|Brown et al., 2017, pp. 156–159]]）。
 
 > [!concept-lens] 概念透镜

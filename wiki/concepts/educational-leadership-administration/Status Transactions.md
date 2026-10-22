@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 地位交易（Status Transactions）
 > **地位交易（Status Transactions）** 是指在任何两人面对面的社交互动中，个体通过眼神接触、肢体姿态、语调变化、打断或顺从等微细信号，持续协商与表达相对权力等级与支配从属关系的微观行为过程。由英国戏剧导演兼教育家[[Keith Johnstone|基思·约翰斯通]]（Keith Johnstone）在其 1979 年著作《即兴：即兴创作与剧场》（*Impro: Improvisation and the Theatre*）中系统阐发，该概念的核心洞见在于：**地位是可表演、可调整的工具性角色，而非个人固定不变的先天本质**。在科技创新与敏捷工程组织中，将地位视作达成组织目标的工具性手段，能够彻底破除传统企业因维护职位特权而形成的科层僵化，赋予一线人员跨越层级界限即兴协同的心理自由度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
 
 > [!concept-lens] 概念透镜

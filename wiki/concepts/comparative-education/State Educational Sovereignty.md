@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 国家教育权（State Educational Sovereignty），又称国家教育主权或教育国家化，是指近代世俗民族国家在现代性建制过程中确立的、对全境国民教育体系行使最高立法、督导、财政保障与资格规制的排他性主权公权力。
 
-> [!def] 核心定义
+> [!def] 国家教育权（State Educational Sovereignty）
 > 国家教育权是近代民族国家打破传统宗教教会神权与宗族家长私权垄断的核心法权基石。该学说明确将教育定性为**神圣的国家公共资源（public resource）**——有组织的现代文明社会（即国家）通过公共财政税收建立学校网络，承担保障全体儿童接受初等公共教育的根本责任，并相应享有对各级各类学校课程、师资与纪律行使不可让渡的最高监督与视察主权。在当代，这一排他性主权正面临超国家经贸规约（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]的深刻穿透与重组。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 26–29, 31–33)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 
 > [!concept-lens] 概念透镜

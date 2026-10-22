@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学科沉浸模式（Immersion Approach）
 > 学科沉浸模式（[[Presence\|immersion]] Approach，亦称隐性渗透模式或沉浸法）是由 Robert Ennis (1989) 提出的[[Critical Thinking\|批判性思维]]课程分类中的一种传统教学模式。它指在常规学科教学中，教师引导学生深度浸入具有挑战性的学科内容与[[Problem Solving\|问题解决]]任务中，**但并不向学生显性讲授、命名或示范通用的批判性思维原则与评价标准**。该模式建立在一个核心假设之上：只要学生深入参与高难度的学科探究，批判性思维能力就会作为学科精熟的“自然副产品”自发[[Emergence\|涌现]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]
 
 > [!concept-lens] 概念透镜

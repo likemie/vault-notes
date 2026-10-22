@@ -34,7 +34,7 @@ created: 2026-06-17
 updated: 2026-10-07
 ---
 
-> [!def] 核心定义
+> [!def] 因果过度决定（Causal Over-determination）
 > 因果过度决定（causal over-determination）是指一个特定效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果（Morrison, 2009, p. 51）。
 
 > [!concept-lens] 概念透镜

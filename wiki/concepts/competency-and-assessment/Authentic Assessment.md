@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 真实性评价（Authentic Assessment）
 > 真实性评价（Authentic Assessment）是一种直接评估学生在模拟现实工作、专业实践或公民生活情境中解决复杂[[Wicked Problem|劣构问题]]能力的教学评价取向。它强调让学生运用已有知识主动建构、推演并生成真实的学术产品或实践成果（Constructed Response），而非在去情境化的封闭[[Multiple-Choice Questions\|选择题]]中进行机械再认与被动选答（Selected Response）；通过将评价深度嵌入课程学习活动，真实性评价旨在直接测量与促进[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]及高级[[Problem Solving\|问题解决]]等[[Higher-Order Thinking Skills\|高阶思维技能]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]; Wiggins (1998); Shepard (2000)
 
 > [!concept-lens] 概念透镜

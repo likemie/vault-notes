@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 问题发现（Problem Finding）
 > [[Problem Finding|问题发现]]（Problem Finding，亦称问题建构 Problem Construction 或问题界定 Problem Identification）是指个体在开放、模糊或不良结构（Ill-structured）的情境中，主动探查信息缺口、重构潜在挑战并明确提出新颖且有价值的研究或实践问题的认知加工过程（Getzels & Csikszentmihalyi, 1976; Runco & Okuda, 1988; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 3, 8]]）。问题发现构成了完整创造过程（Creative Process）的前端核心枢纽，决定了后续观念生成（Ideation）与方案评价的认知方向与深度。
 
 > [!concept-lens] 概念透镜

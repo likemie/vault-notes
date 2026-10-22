@@ -75,8 +75,8 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
-> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ\|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向转译，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立[[Knowledge Mediation\|知识中介]]不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织、智库或政府扶植机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助或行政授权时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality\|理性表象]]施展软性政策规制或推动自上而下的政策落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
+> [!def] 政策中介（Policy Brokerage）
+> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ\|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向转译，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立[[Knowledge Mediation\|知识中介]]不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织、智库或政府扶植机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助或行政授权时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality\|理性表象]]施展软性政策规制或推动自上而下的政策落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示知识向政策转化过程中的非中立性，阐明跨国中介机构与国内[[Policy Network\|政策网络]]中的中介主体（官方扶植机构、专家审查组、领袖网络）如何将自身偏好的[[Research Translation\|研究转化]]为不可置疑的决策依据。
@@ -84,7 +84,7 @@ updated: 2026-10-22
 > - **边界** 不等于纯学术性的科学传播，亦不同于国家行政体系自上而下的法定权力命令。
 
 > [!citation-card] 政策中介的政治化定性
-> 当同一组织对其在内部生产的知识进行中介，甚至更明显地以科学理性为依据自主生产、中介推销并资助其项目时，知识中介与政策中介之间的界限便具有了流动性。因此，在考察全球治理工具时，使用政策中介而非更为中立的知识中介是更为准确的概念表述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
+> 当同一组织对其在内部生产的知识进行中介，甚至更明显地以科学理性为依据自主生产、中介推销并资助其项目时，知识中介与政策中介之间的界限便具有了流动性。因此，在考察全球治理工具时，使用政策中介而非更为中立的知识中介是更为准确的概念表述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 538)]]
 >
 > *The differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
 
@@ -105,10 +105,10 @@ updated: 2026-10-22
 ---
 
 > [!feature] 核心要素
-> - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性[[Discourse|话语]]回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
-> - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与规制手段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
-> - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
-> - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
+> - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性[[Discourse|话语]]回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
+> - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与规制手段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
+> - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]
+> - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 546–547)]]
 > - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
 > - **系统领袖与审查组的定向委托（Selective Commission of System Leaders）** 政府直接委托政治认同度高的体制内系统领袖牵头专项审查（如[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]），利用其从业者身份为自上而下的循证政策改革背书并加速落地。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 612–613)]]
 > - **文官流转下的非正式中介与口口相传（Informal Word-of-Mouth Mediation）** 在部门高流动性与高压决策环境中，去情境化的学术结论或单篇研究成果化为口口相传的口碑传播与社交网络碎片，成为政策中介绕过严谨同行评审的非正式通道。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
@@ -135,8 +135,8 @@ updated: 2026-10-22
 > [!concept-lens] 信息过载与证据筛选
 > 探讨数字化时代知识供给过剩如何颠覆传统理性决策假设，促成政策中介机构的制度性崛起。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **[[Surplus of Evidence\|证据过剩]]催生选择性转译需求** 在数字经济与海量信息时代，更多研究证据并不必然减少政策制定中的歧义性或自动促进[[Evidence-Based Policy-Making|循证决策]]；恰恰相反，信息过载为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进而开展实用转译的机构与个人提供了繁茂生长的土壤。政策中介的核心说服机制在于让决策者确信中介机构洞悉全局并能从中提炼出不可替代的确定性结论。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]
+> **[[Surplus of Evidence\|证据过剩]]催生选择性转译需求** 在数字经济与海量信息时代，更多研究证据并不必然减少政策制定中的歧义性或自动促进[[Evidence-Based Policy-Making|循证决策]]；恰恰相反，信息过载为那些能够选择性吸纳研究成果、将科研发现精炼转化为政策证据并进而开展实用转译的机构与个人提供了繁茂生长的土壤。政策中介的核心说服机制在于让决策者确信中介机构洞悉全局并能从中提炼出不可替代的确定性结论。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 539–540)]]
 
 ---
 
@@ -145,8 +145,8 @@ updated: 2026-10-22
 > [!concept-lens] 数字合法性与争议平抑
 > 探讨教育领域平民化知识结构对专业权威的挑战，以及政策中介如何通过量化指标确立中立公信力。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **数字外衣与专业排他性补偿** 教育领域具有专门知识平民化的典型特征，公众与从业人员均自视为教育行家，缺乏医学等行业的技术排他壁垒，因而极易陷入公共意识形态纷争；政策中介机构通过诉诸量化指标而非质性叙事，为政策制定搭建出具备理性、精确与普适特征的[[Discourse|话语]]表象，借助能够诱发政策解读的数字指标化解专业公信力赤字。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]
+> **数字外衣与专业排他性补偿** 教育领域具有专门知识平民化的典型特征，公众与从业人员均自视为教育行家，缺乏医学等行业的技术排他壁垒，因而极易陷入公共意识形态纷争；政策中介机构通过诉诸量化指标而非质性叙事，为政策制定搭建出具备理性、精确与普适特征的[[Discourse|话语]]表象，借助能够诱发政策解读的数字指标化解专业公信力赤字。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 540)]]
 
 ---
 
@@ -155,8 +155,8 @@ updated: 2026-10-22
 > [!concept-lens] 组织中介风格与借鉴路径
 > 分析主要政府间组织在政策中介风格、经验依据与自指性引用模式上的结构性差异。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **外向型国别借鉴与自指性实践仓库的分流** 尽管不同国际组织在政策中介的宣介修辞上高度趋同，但其论证政策建议的证据基础存在本质分野：[[OECD\|经合组织]]倾向于引用其他成员国的实践经验进行横向教训汲取；[[World Bank\|世界银行]]则高度依赖其自身建立的政策实践仓库与内部研究帝国，在论证中呈现出强烈的自指性特征。各机构通过深耕专属工具建立组织利基以维系自身在全球治理中的排他性优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]
+> **外向型国别借鉴与自指性实践仓库的分流** 尽管不同国际组织在政策中介的宣介修辞上高度趋同，但其论证政策建议的证据基础存在本质分野：[[OECD\|经合组织]]倾向于引用其他成员国的实践经验进行横向教训汲取；[[World Bank\|世界银行]]则高度依赖其自身建立的政策实践仓库与内部研究帝国，在论证中呈现出强烈的自指性特征。各机构通过深耕专属工具建立组织利基以维系自身在全球治理中的排他性优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
 
 ---
 
@@ -165,8 +165,8 @@ updated: 2026-10-22
 > [!concept-lens] [[Policy Borrowing\|政策借用]]二阶段过滤机制
 > 考察主权国家在将跨国政策中介引入本土时，如何在议程设置与行政立法之间实施非对称筛选。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **外部中介的阶段性合法化借力与行政过滤断崖** 政策借用在主权国家内部呈现高度断裂的双阶段特征。在政策周期的第一阶段（议程设置），主权国家通过召集专家委员会大量汲取跨国政策中介的研究成果以引发公众危机意识并论证改革必要性；但在第二阶段（官方行政法规或部长令起草），主权行政当局会实施戏剧性的去国际化过滤，斩断绝大部分外部引用，仅保留极少数契合既定政治路线的特定国际组织工具。实证显示，挪威在能力改革专家阶段列入 464 篇文献，最终颁布法令时断崖式缩减至 22 篇，而其中高达 20 篇被经合组织审查组垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]
+> **外部中介的阶段性合法化借力与行政过滤断崖** 政策借用在主权国家内部呈现高度断裂的双阶段特征。在政策周期的第一阶段（议程设置），主权国家通过召集专家委员会大量汲取跨国政策中介的研究成果以引发公众危机意识并论证改革必要性；但在第二阶段（官方行政法规或部长令起草），主权行政当局会实施戏剧性的去国际化过滤，斩断绝大部分外部引用，仅保留极少数契合既定政治路线的特定国际组织工具。实证显示，挪威在能力改革专家阶段列入 464 篇文献，最终颁布法令时断崖式缩减至 22 篇，而其中高达 20 篇被经合组织审查组垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 547–548)]]
 
 ---
 
@@ -196,7 +196,7 @@ updated: 2026-10-22
 > - **2010 — 知识-行动联结三代模型** Best & Holmes 梳理[[Research Utilization\|知识利用]]演进阶段：第一代单向推送模式、第二代行动者关系共建模式，以及第三代关注组织生态、制度能力与政策周期的系统性程序模式。
 > - **2018 — 跨国[[Network Governance\|网络治理]]与[[Soft Power by Hard Facts\|硬事实软权力]]** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 指出以[[OECD\|经合组织]]为代表的国际组织凭借量化指标体系充当知识经纪人，通过探究与调解模式行使软治理。
 > - **2022 — 国内[[Policy Network\|政策网络]]与制度化政策中介解剖** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 将政策中介视角引入主权国家内部政策[[Network Analysis\|网络分析]]，基于新制度主义揭示英格兰教育治理从测量时代迈向[[Evidence Era\|证据时代]]后，政府[[Gatekeepers\|守门人]]如何通过扶植专属中介（[[Chartered College of Teaching\|CCT]]、TSC）与非正式人际网络实现[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
-> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 与政策中介理论成型** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 正式提出数字治理 2.0 议程，将研究焦点从去情境化的测验指标推进至信息过载时代的“政策中介”，揭示国际组织自我生产、推销与资助方案的一体化运作。
+> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 与政策中介理论成型** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] 正式提出数字治理 2.0 议程，将研究焦点从去情境化的测验指标推进至信息过载时代的“政策中介”，揭示国际组织自我生产、推销与资助方案的一体化运作。
 
 ---
 
@@ -206,14 +206,14 @@ updated: 2026-10-22
 > > 关于中介机构究竟是在促进理性决策还是在推行特定意识形态的争论。
 > >
 > > - **[[Technical Rationality\|技术理性]]派** 认为政策中介有效整合了零散复杂的科研证据，降低了决策者的信息搜寻成本，是现代[[Output-Oriented Governance\|循证治理]]必不可少的专业基础设施。
-> > - **批判政治学派** 指责政策中介机构利用数字外衣遮蔽了深层政治考量，借技术客观性之名推行新自由主义治理问责与全球市场化议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> > - **批判政治学派** 指责政策中介机构利用数字外衣遮蔽了深层政治考量，借技术客观性之名推行新自由主义治理问责与全球市场化议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 > [!critique] 外部批评
-> - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识展开定向中介与项目资助，极易导致[[Evidence-Based Policy-Making|循证决策]]演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识展开定向中介与项目资助，极易导致[[Evidence-Based Policy-Making|循证决策]]演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
 > - **证据异化与[[Epistemology\|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology\|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity\|反思性]]的教条意见。
 
 > [!warning] 适用局限
-> 政策中介概念主要解释具备完备数据生产能力与跨国传播网络的超国家组织、大型智库及发达咨询实体；在缺乏成熟[[Data Infrastructure\|数据基础设施]]或高度封闭集权的政策体系中，其分析解释力可能受限。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 550)]]
+> 政策中介概念主要解释具备完备数据生产能力与跨国传播网络的超国家组织、大型智库及发达咨询实体；在缺乏成熟[[Data Infrastructure\|数据基础设施]]或高度封闭集权的政策体系中，其分析解释力可能受限。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 550)]]
 
 ---
 
@@ -222,11 +222,11 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力课程改革（5 个专家委员会 vs 部长令）；全球 30 个涉教育政府间组织历时数据 | 政策咨询引用[[Network Analysis\|网络分析]]；组织机构分类数据库追踪 | 专家报告采纳率；经济协调类国际组织在教育中的占比 | 专家委员会共列入 464 篇文献，行政法令最终仅引用 22 篇（其中 20 篇来自[[OECD\|经合组织]]审查组）；涉教育国际组织中三分之一属于经济合作协调组织 | — | 证实国家行政当局在法定出台阶段对政策中介的强力政治过滤，以及非专门组织跨界主导政策中介的格局 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | 挪威能力课程改革（5 个专家委员会 vs 部长令）；全球 30 个涉教育政府间组织历时数据 | 政策咨询引用[[Network Analysis\|网络分析]]；组织机构分类数据库追踪 | 专家报告采纳率；经济协调类国际组织在教育中的占比 | 专家委员会共列入 464 篇文献，行政法令最终仅引用 22 篇（其中 20 篇来自[[OECD\|经合组织]]审查组）；涉教育国际组织中三分之一属于经济合作协调组织 | — | 证实国家行政当局在法定出台阶段对政策中介的强力政治过滤，以及非专门组织跨界主导政策中介的格局 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] — 揭示经合组织作为跨国政策知识经纪人，如何通过探究与调解双模协同推介最佳实践处方以施展软治理。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。

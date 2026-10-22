@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 复数比较教育学（Comparative Educations）
 > “复数比较教育学”（Comparative Educations）是指 1970 年代中叶以降，伴随二战[[Postpositivism\|后实证主义]]“全包容[[Scientific Paradigm\|科学范式]]”（all-embracing scientific [[Paradigm]]）在政策治理现实、自然科学[[Epistemology\|认识论]]与跨学科学术思潮中的三重解体，比较教育学终结了由单一实证量化与功能主义垄断正统[[Discourse|话语]]的单数时代，演进为由多种理论流派、认识论传统与“真理体制”（regimes of truth）并存竞争的复数化、多极化学科格局。（Cowen, 2000; Altbach, 1991; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]）
 
 > [!concept-lens] 概念透镜

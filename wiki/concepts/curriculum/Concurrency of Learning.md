@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 并发学习（Concurrency of Learning）
 > 并发学习（Concurrency of Learning）是课程设计与实施中的一项原则，它强调为学生提供在同一时期内同时学习多门学科的机会，并在不同学科或课程组件之间建立有机联系。它反映了[[Constructivist Paradigm\|建构主义]]学习哲学，旨在促进整体学习（holistic learning）和跨学科理解，从而帮助学习者应对真实世界中的复杂问题 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, pp. 218–219)]]。
 
 > [!concept-lens] 概念透镜

@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 方法论教育主义（Methodological Educationism）
 > 方法论教育主义（Methodological Educationism）是指在教育研究和政策制定中，将广义的“教育”（education）无意识地简化或等同于正式的“学校教育”（schooling，即由国家和行政力量主导的正式学校体制、班级授课制与制度化课程体系）的还原论[[Epistemology\|认识论]]立场。这一概念主要由 [[Roger Dale]] 提出，用于批判传统研究忽视非正式学习、家庭与社群教育，以及过度依赖学校体制改革来解决深层社会问题的局限性。它常与[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）及[[Methodological Statism\|方法论国家中心主义]]（Methodological Statism）叠加运作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 > [!concept-lens] 概念透镜

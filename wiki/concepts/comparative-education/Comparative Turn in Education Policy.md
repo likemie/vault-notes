@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育政策的比较转向（Comparative Turn in Education Policy）
 > **教育政策的比较转向（Comparative Turn in Education Policy）** 是指自 1980 年代末至 1990 年代初全球教育多边治理领域发生的深层认识论与规制范式转型。在经合组织（OECD）等核心机构主导下，国际教育政策监测全面放弃了此前依赖个案深度走访、立足历史文化脉络与主权国个别协商的个案定性审查传统（Idiographic Country Reviews），转变为依托标准化心理测量指标网络（如 INES、[[PISA]]、[[Teaching and Learning International Survey|TALIS]]）构建统一跨国可比等值空间、实施横向数据排位与联赛对标的法则化量化测评范式（Nomothetic Comparative Assessment）。这一转向使超国家机构得以凭借量化硬事实确立超越民族国家的认知权威，标志着全球教育治理步入以数字进行治理的实证化新时期。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–274)]]
 
 > [!concept-lens] 概念透镜
@@ -135,7 +135,7 @@ updated: 2026-10-22
 > > [!axis] 文化生态抹杀与认识论暴力
 > > 批评学者指出比较转向强行用单一西方现代化标尺抹平了全球丰富多样的本土教育哲学与实践。
 > >
-> > - **施泰纳-哈姆西（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 批评比较转向将真正的质性比较教育降解为狭隘的量化统计分析，制造了“去情境化的通约神话”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–544)]]
+> > - **施泰纳-哈姆西（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b]]）** 批评比较转向将真正的质性比较教育降解为狭隘的量化统计分析，制造了“去情境化的通约神话”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–544)]]
 > > - **里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指出比较转向将各国的复杂教育系统重新编码为服务于全球资本积累的效率机器，压制了教育促进社会正义与公民权利的向度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 
 > [!warning] 适用局限
@@ -148,4 +148,4 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统追溯经合组织从个案审查向量化比较测评的历史范式转向，阐明其构建认知权威的技术逻辑。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释比较转向在欧洲多边治理中的展开，展现指标与数据如何建构统一的政策行动空间。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 批判反思比较转向对传统比较教育学认识论的冲击与学科殖民效应。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 批判反思比较转向对传统比较教育学认识论的冲击与学科殖民效应。

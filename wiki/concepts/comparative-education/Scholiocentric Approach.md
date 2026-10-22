@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 以校为中心取向（Scholiocentric Approach）
 > **以校为中心取向（Scholiocentric Approach）** 是 19 世纪早期欧美官方教育视察者（如法国的[[Victor Cousin|维克多·库森]]、美国的[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]等）在开展跨国教育考察时所普遍采取的一种经验描述性研究取向。该取向以具体的外国学校机构、校舍设施、课程科目、教学方法与日常行政督导规程作为核心[[Unit of Analysis|分析单位]]，倾向于将学校孤立地视为自给自足的教学与管理场所进行静态白描，忽视甚至抽离了深嵌于学校背后的宏观政治结构、阶级冲突与文化传统，主要服务于新兴民族国家的公共教育制度建设、[[Policy Borrowing|政策借用]]与立法辩护。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–141)]]
 
 > [!concept-lens] 概念透镜

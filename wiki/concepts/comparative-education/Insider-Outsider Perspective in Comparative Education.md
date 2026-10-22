@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 比较教育中的内外视角（Insider-Outsider Perspective in Comparative Education）
 > **比较教育中的内外视角（Insider-Outsider Perspective in Comparative Education）** 是指在跨国比较研究与超国家教育治理分析中，将深谙情境脉络的行动者（局内人，Insider）的内在[[Flow|沉浸体验]]，与外来观察者（局外人，Outsider）的审慎疏离视界进行辩证整合的[[Epistemology|认识论]]与方法论框架。该视角确立了两大核心互补向度：在**跨文化与跨国比较向度**上，本土研究者拥有深厚的[[Contextual Knowing|语境认知]]、语言精微把握与[[Tacit Knowledge|默会知识]]，但易受理所当然的本土前设遮蔽；外部研究者秉持陌生化疏离姿态（*Verfremdung*）与客观批判距离，善于质疑习以为常的[[Habitus|惯习]]，却面临概念不对称与文化误读风险（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 96–97]]）。在**超国家机构与组织治理向度**上，外部学术批评者易局限于公开政策文本分析，将国际金融机构抽象还原为推行新自由主义霸权的全能机器；而深具数十年一线管理经验的圈内实务官员，能够穿透意识形态迷思，揭示机构内部复杂的学术理论论战、[[Red Tape|繁文缛节]]与反腐审计造成的基层瘫痪，以及重投入轻产出的系统性失能（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 455–456, 462–464]]）。
 
 > [!concept-lens] 概念透镜

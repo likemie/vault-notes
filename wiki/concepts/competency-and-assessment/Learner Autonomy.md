@@ -88,7 +88,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学习者自主性（Learner Autonomy）
 > 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition\|元认知]]监控的能力与意愿。Holec（1988）最早将其奠基性地定义为“掌控自身学习的能力”（taking charge of one\x27s own learning）；Dam（1995）进一步补充了“准备度（Readiness）”维度——自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架解耦分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens] 概念透镜

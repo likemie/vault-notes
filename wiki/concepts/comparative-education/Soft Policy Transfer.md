@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 软政策转移（Soft Policy Transfer）
 > 软政策转移（Soft Policy Transfer）源于戴安娜·斯通（Stone, 1999）对政策转移机制的[[Typification|类型化]]划分，特指政策思想、概念[[Discourse|话语]]、规范认知与价值图景在跨国政策圈层与网络中传播和扩散（diffusion）的过程。软政策转移区别于强调工具与技术程序直接机械复制（copying）的[[Hard Policy Transfer|硬政策转移]]，其核心在于为本土政策制定者、学者及专业群体保留了结合本国历史脉络与制度特征进行[[Recontextualization|再语境化]]与因地制宜调适的弹性空间。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 195)]]
 
 > [!concept-lens] 概念透镜

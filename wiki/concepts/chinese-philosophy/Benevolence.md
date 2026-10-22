@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 仁爱（Benevolence）
 > Ren（仁）是儒学的最高道德概念，指行动者通过终身修养达到的真诚、完整且合乎人性的道德境界；它超越孝、礼、义等单一德目，构成[[Confucian Learning Tradition|儒家学习传统]]与人格养成的终极目标。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
 
 > [!concept-lens] 概念透镜

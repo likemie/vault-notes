@@ -45,12 +45,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学技术研究（Science and Technology Studies）
 > **科学技术研究（Science and Technology Studies, STS）** 是一个跨学科研究领域，主张科学知识与技术工具本质上是由[[Heterogeneity|异质性]]行动者网络、物质实践、制度规训与治理权力共同构成的社会技术成就，突破了关于外部客观世界透明镜像的静态设想。STS 拒绝自然/社会、科学/政治等二元对立，核心关注知识如何被生产、动员、验证、转译与施行（[[Performativity|performativity]]），以及统计指标、计算规程与评估工具如何深度嵌构并重塑现代教育治理与学校实践[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 253)]]。
 
 > [!concept-lens] 概念透镜

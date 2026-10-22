@@ -29,7 +29,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 终结性课程（Terminal Courses）
 > 终结性课程（Terminal Courses）面向学生在某一领域可能结束正式学习的阶段，以离校后的应用、理解和持续兴趣为主要设计依据。它与为后续专业学习积累知识的预备性课程（Preparatory Courses）具有不同功能。在[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的历史语境中，辅助层级（Subsidiary Level）课程被主张承担这一功能，而不只是压缩高级层级（Higher Level）课程的内容。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 202–204)]]
 
 ---

@@ -107,7 +107,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 建构主义（Constructivist Paradigm）
 > 建构主义（Constructivism）是一个跨领域的概念家族。它的共同立场是：认识者不会原样接收一个已经给定的意义世界，而会在行动、解释、语言和社会互动中组织经验，由此形成对现实的理解。这个共同立场在不同领域指向不同对象：[[Paradigm\|研究范式]]关注参与者和研究者如何解释经验，学习理论关注学生如何通过活动改变理解，社会理论则关注观念、规范和知识如何塑造制度现实。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1, pp. 8–9)]]; [[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 59–61)]]; [[Argument_Zapp_2022_Springer\|(Zapp, 2022, pp. 145, 148)]]
 
 > [!concept-lens] 概念透镜

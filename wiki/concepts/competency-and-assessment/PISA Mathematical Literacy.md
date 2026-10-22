@@ -47,12 +47,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] PISA数学素养（PISA Mathematical Literacy）
 > [[PISA]] 数学素养（PISA Mathematical Literacy）是[[OECD|经济合作与发展组织]]（OECD）在国际学生评估项目（[[PISA]]）中确立的跨国测评[[Construct|构念]]，指个体在多样化现实生活情境中提出、运用、解释与评价数学，以及进行数理推理的能力。该构念摆脱了传统学科教学偏重抽象公式[[Rote Learning|死记硬背]]与纯符号算法操练的局限，确立了以“现实情境数学化建模”为核心的学力[[Paradigm|范式]]，考查 15 岁学生如何将无结构的实际问题转化为数学表征、运用数学概念规律进行分析求解，并在真实生活情境中检验数学推论的有效性与实践合理性。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
 
 > [!concept-lens] 概念透镜

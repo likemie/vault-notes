@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 普罗透斯式认识体系（Protean Episteme）
 > **普罗透斯式认识体系（Protean Episteme）** 是由希腊裔比较教育史学家[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）借用古希腊神话中能够随心所欲变换形态的海神普罗透斯（Proteus）隐喻，界定比较教育学作为一门多学科交叉“[[Geisteswissenschaften|人文科学]]”（Human Science, *Vergleichende Erziehungswissenschaft*）的本质[[Epistemology|认识论]]特征。该概念指明：比较教育学在两百余年的历史演化中从来不是单一面向或单音调的知识体系，而是如同身披不同颜色认识论、方法论和意识形态丝线织就的各异装束，随着不同历史时代的智识思潮、研究风尚与文化诉求而持续变换其面貌、研究重点与论述代际。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
 
 > [!concept-lens] 概念透镜

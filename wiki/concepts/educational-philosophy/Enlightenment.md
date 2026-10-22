@@ -99,7 +99,7 @@ updated: 2026-10-22
 
 启蒙运动（Enlightenment，德语：*Aufklärung*），又称启蒙现代性[[Paradigm|范式]]（Enlightenment Paradigm of Modernity），是指 18 世纪发端于西欧并扩展至全大西洋世界的理性批判、制度重构与现代性奠基思想文化运动。
 
-> [!def] 核心定义
+> [!def] 启蒙运动（Enlightenment）
 > 启蒙运动是现代世界观与制度体系脱离中世纪封建依附、教权神权与宗派蒙昧的根本哲学转折点。在教育哲学与政治现代性视阈下，启蒙运动将人确立为拥有先验理性与自我完善潜能的自主行动者，主张启蒙即“人类脱离自己所加之于自己的不成熟状态（*Unmündigkeit*）”；它彻底颠覆了传统“原罪救赎”与“等级特权”的人性假设，在法权上将初等普及公共教育确立为世俗现代国家培育爱国独立公民、重构批判性公共领域（public sphere）、保障立宪民主与走向世界[[Perpetual Peace\|永久和平]]的本体性制度载体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 18–20, 25)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 147–148, 161)]]
 
 > [!concept-lens] 概念透镜

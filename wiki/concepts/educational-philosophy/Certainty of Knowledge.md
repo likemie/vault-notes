@@ -90,7 +90,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识的确定性（Certainty of Knowledge）
 > 知识的确定性（Certainty of Knowledge）是一个跨越哲学[[Epistemology\|认识论]]与教育心理学的核心概念：在宏观西方思想史中，它指代以数学和演绎逻辑为[[Paradigm\|范式]]、追求客观普遍与永恒真理的文化认知传统（即“真知”）；在微观教育心理学中，它指代个体对知识本质的底层认知预设，即个体究竟倾向于认为知识是由外部权威确立的绝对固定之永恒真理，还是特定历史语境下人类建构、具有暂时性与[[Falsification\|可证伪性]]的学术[[Discourse|话语]]终产物。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 23–26)]]；[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997, pp. 119–120)]]；[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 348–350)]]
 
 > [!concept-lens] 概念透镜

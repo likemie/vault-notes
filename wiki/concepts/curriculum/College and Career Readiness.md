@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 大学与职业就绪（College and Career Readiness）
 > 大学与职业就绪（College and Career Readiness, CCR）指高中毕业生在完成基础教育阶段学习后，无须修读非学分大学补习课程（Remedial courses），即可在具有[[Reliability|信度]]的高等教育学术学分课程（涵盖英语、数学、科学及社会科学）中取得合格成绩，或在无须二次补习基础技能的情况下直接进入具备职业晋升前景的高技能学徒与现代职场培训所需的学科知识、分析推理与[[Problem Solving|复杂问题解决]]能力综合[[Construct|构念]]。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1, 9, 13)]]
 
 > [!concept-lens] 概念透镜

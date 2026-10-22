@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 精益生产（Lean Production）
 > 精益生产（Lean Production）是一种以彻底消除制造流程中一切非增值浪费、追求零缺陷与动态响应市场需求为导向的先进生产组织与管理系统。其起源于日本丰田生产方式（Toyota Production System, [[Totally Pedagogised Society|TPS]]），以准时制库存控制（Just-in-Time, JIT）、[[Total Quality Management|全面质量管理]]（TQM）、生产工序拉动式看板、一线工人参与工艺改进（质量小组/改善）与跨工种多技能轮岗为核心支柱；它颠覆了福特式刚性流水线大批量库存生产模式，构成了微电子与信息革命背景下全新[[Techno-economic Paradigm|技术-经济范式]]在制造车间的微观组织基石。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13, 18)]]
 
 > [!concept-lens] 概念透镜

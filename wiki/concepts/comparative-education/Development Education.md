@@ -63,8 +63,8 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
-> **发展教育（Development Education）**，在比较与国际教育研究中常与“发展中国家教育研究”（Education in Developing Countries）或“国际发展教育”（International Development Education）互称，指聚焦亚洲、非洲、拉丁美洲等全球南方国家的教育体制建设、社会经济现代化、教育扩张、不平等治理以及双多边国际发展援助合作的专门学术研究与政策实务领域。二战后受去殖民化与冷战地缘博弈推动，该领域长期与偏向欧美历史哲学的传统理论比较教育学保持平行分流；后在[[Multilateral Development Bank|多边开发银行]]（以世界银行与[[Inter-American Development Bank|泛美开发银行]]为代表）的深度介入下，演进为依托专业技术官员与主权信贷的实务治理体系。发展教育的实务运作面临项目设计端敏捷吸收先进理念与执行端陷入繁琐审计泥潭、资金拨付考核与学生实质学业成效脱节的制度困境。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–457, 470–472)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> [!def] 发展教育（Development Education）
+> **发展教育（Development Education）**，在比较与国际教育研究中常与“发展中国家教育研究”（Education in Developing Countries）或“国际发展教育”（International Development Education）互称，指聚焦亚洲、非洲、拉丁美洲等全球南方国家的教育体制建设、社会经济现代化、教育扩张、不平等治理以及双多边国际发展援助合作的专门学术研究与政策实务领域。二战后受去殖民化与冷战地缘博弈推动，该领域长期与偏向欧美历史哲学的传统理论比较教育学保持平行分流；后在[[Multilateral Development Bank|多边开发银行]]（以世界银行与[[Inter-American Development Bank|泛美开发银行]]为代表）的深度介入下，演进为依托专业技术官员与主权信贷的实务治理体系。发展教育的实务运作面临项目设计端敏捷吸收先进理念与执行端陷入繁琐审计泥潭、资金拨付考核与学生实质学业成效脱节的制度困境。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–457, 470–472)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种以全球南方后发国家为研究对象，兼具高校学术建制（应用研究分支）与超国家金融治理工具（贷款项目实务）双重属性的知识与行动体系。
@@ -122,8 +122,8 @@ updated: 2026-10-22
 > [!claim] [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
 > **学科建制分立与共同体整合** 菲利普·阿尔特巴赫（Philip Altbach）与瓦尔·拉斯特（Val D. Rust）指出，比较教育学在战后长达数十年的时间里存在“理论比较”与“发展应用研究”的建制分流：理论学者指责发展教育偏向缺乏学理深度的事实报告与援助实务，而发展学者则批评理论学派沉溺于欧美中心主义探讨。典型的建制象征如伦敦大学教育学院（IOE）长期平行设立比较教育学系与面向第三世界的发展中教育系。随着冷战结束与全球南方在国际多边治理中权重的提升，发展教育不仅未被边缘化，反而在比较与国际教育学会（CIES）等学术组织中占据重要席位，成为比较教育学体量庞大、政策穿透力广泛的研究支柱。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 125–127)]]
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **多边主义主导权转移对发展知识的重塑** 斯泰纳-哈姆西等学者从跨国机构史考证指出，发展教育早期依托联合国教科文组织的人文主义与普遍受教育权话语；随着 1980 年世界银行发布独立教育政策文件、单方面终结与教科文组织的合作协定，发展教育的知识生产被重构为以人力资本回报率测算、成本效益分析和循证基准量规为主导的技术工具，标志着发展教育从联合国倡导机制向多边银行金融分析框架的重要转变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]
+> **多边主义主导权转移对发展知识的重塑** 斯泰纳-哈姆西等学者从跨国机构史考证指出，发展教育早期依托联合国教科文组织的人文主义与普遍受教育权话语；随着 1980 年世界银行发布独立教育政策文件、单方面终结与教科文组织的合作协定，发展教育的知识生产被重构为以人力资本回报率测算、成本效益分析和循证基准量规为主导的技术工具，标志着发展教育从联合国倡导机制向多边银行金融分析框架的重要转变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–543)]]
 
 ---
 
@@ -153,7 +153,7 @@ updated: 2026-10-22
 > [!contrast-table] 围绕发展教育形成的核心命题归纳
 > | 命题类型 | 核心理论判定 | 适用情境与解释对象 | 代表学者与文献 |
 > |:---|:---|:---|:---|
-> | **学科建制分流命题** | 发展教育经历了从理论比较边缘向实务治理中枢的转变，南北不平衡深刻影响了知识分类与系所建制。 | 比较教育学科史、高等教育系所演变与知识社会学分析。 | [[Philip Altbach\|Altbach]]; [[Val D. Rust\|Rust et al. (2009)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
+> | **学科建制分流命题** | 发展教育经历了从理论比较边缘向实务治理中枢的转变，南北不平衡深刻影响了知识分类与系所建制。 | 比较教育学科史、高等教育系所演变与知识社会学分析。 | [[Philip Altbach\|Altbach]]; [[Val D. Rust\|Rust et al. (2009)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] |
 > | **信贷物质基础命题** | 发展中国家采纳外部政策建议的动力源于主权信贷的财政支持，资金借贷实质构成了外部教育理念愿景的输入。 | 国际发展援助谈判、政策附加条件履约与知识银行转型。 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, p. 472)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 345–346)]] |
 > | **设计执行脱节命题** | 发展教育项目在设计端敏捷吸纳前沿理念，但在执行端受困于繁琐报销审计与重资金拨付轻实质学习的考核模式。 | 多边银行贷款实施周期、项目成效评估与教育工程批判。 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, p. 470)]] |
 
@@ -161,10 +161,10 @@ updated: 2026-10-22
 
 > [!dev-timeline] 发展教育的范式与建制演进
 > - **1950s–1960s — 现代化范式与冷战外援发轫** 二战后伴随殖民体系瓦解，新独立国家建立现代学校体系的需求上升；在冷战格局与现代化理论驱动下，西方国家与联合国教科文组织开启对外教育技术援助，奠定以学校基础设施建设、识字率普及与工业技术工人培养为核心的发展教育早期范式。
-> - **1970s–1980s — 依附论批判与建制深度隔离** 依附理论学者揭示对外教育援助对全球边缘国家的结构性影响；在大学建制中，伦敦大学教育学院设立独立的发展中教育系，与传统比较教育学系长期分立；世界银行单方面终止与教科文组织的合作协定，以人力资本回报率测算主导发展教育的实务定义权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1970s–1980s — 依附论批判与建制深度隔离** 依附理论学者揭示对外教育援助对全球边缘国家的结构性影响；在大学建制中，伦敦大学教育学院设立独立的发展中教育系，与传统比较教育学系长期分立；世界银行单方面终止与教科文组织的合作协定，以人力资本回报率测算主导发展教育的实务定义权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 > - **1990s — 华盛顿共识、结构调整与《全民教育》** 1990 年泰国宗迪恩《世界全民教育大会》（EFA）确立全球基础教育普及目标，由世界银行深度主导；伴随结构调整计划推行，发展教育实务深入卷入财政紧缩与教育用户自费收费争议。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
 > - **2000s–2010s — 买方市场转型、指标规训与学习危机反思** 面对拉美等中等收入国转向私人资本市场融资的趋势，多边银行推行基于成果的贷款等新型金融工具；国际学界深刻反思发展教育重硬件资金投入而轻实质认知学习成效的倾向，推动全球议程向联合国可持续发展目标（SDG 4）下的学习危机治理转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–476)]]
-> - **2015 至今 — 跨国测评下沉与国际组织利基竞逐** 经合组织（OECD）启动针对中低收入国家的[[PISA for Development|发展中国家版国际学生评估项目]]（PISA-D），将跨国标准化量化测评下沉至全球南方，通过硬事实软治理与多边开发银行的传统借贷治理展开制度竞逐。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 273)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 549–550)]]
+> - **2015 至今 — 跨国测评下沉与国际组织利基竞逐** 经合组织（OECD）启动针对中低收入国家的[[PISA for Development|发展中国家版国际学生评估项目]]（PISA-D），将跨国标准化量化测评下沉至全球南方，通过硬事实软治理与多边开发银行的传统借贷治理展开制度竞逐。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 273)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 549–550)]]
 
 ---
 
@@ -218,7 +218,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从多边开发银行内部实务视角反思发展教育，揭示主权信贷的物质基础、组织学习在设计与执行端的双重断裂，以及拨付考核导致的投入导向异化。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理从联合国教科文组织人文主义倡导向世界银行知识银行与金融量规技术统领发展教育的历史进程。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 梳理从联合国教科文组织人文主义倡导向世界银行知识银行与金融量规技术统领发展教育的历史进程。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示多边贷款仅占发展中国家教育总开支 0.5% 的资金悖论，阐明世行转型如何通过问题定义与解方双重垄断限缩受援国政策探索空间。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考察比较与国际教育学会内部发展教育议程演进，检验全球化结构调整对第三世界基础教育指标的冲击。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用世界体系分析透视多边发展援助政策，揭示国际金融机构对全球南方教育体制的深层规训。
@@ -238,7 +238,7 @@ updated: 2026-10-22
 > | [[Educational Multilateralism]] | 概念 | 贯穿发展教育各历史阶段的全球多边治理制度形态。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, p. 110)]] |
 > | [[PISA for Development]] | 事实 | 经合组织面向全球南方中低收入国家开发的标准化测评工具，体现了量化指标治理向发展中国家的下沉。[[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018, p. 273)]] |
 > | [[UNESCO]] | 事实 | 倡导人文主义发展教育理念的联合国专门机构。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, p. 466)]] |
-> | [[World Bank]] | 事实 | 凭借主权借贷资本深度主导当代发展教育实务与研究范式的全球金融机构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]] |
+> | [[World Bank]] | 事实 | 凭借主权借贷资本深度主导当代发展教育实务与研究范式的全球金融机构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–543)]] |
 > | [[Inter-American Development Bank]] | 事实 | 在拉丁美洲推行区域发展教育贷款的多边银行。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 459–460)]] |
 > | [[Path Dependence]] | 理论 | 解释发展教育中主权借贷契约惰性与重资金拨付轻产出制度锁定的理论。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 458, 470–472)]] |
 > | [[Conditioned State Theory]] | 理论 | 批判发展教育外援对第三世界受限国家教育主权影响的理论。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 462–464)]] |

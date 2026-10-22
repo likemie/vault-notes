@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 全球解读（Readings of the Global）
 > 全球解读（Readings of the Global）是比较教育核心历史与方法论分析概念，由 [[Robert Cowen]] 提出。它指比较教育学科在特定历史时期所选择阅读的[[Geopolitics|地缘政治]]与经济大叙事体系。这一框架通过追问比较教育“过去在读哪个世界、现在在读哪个世界、以及未来将读哪个世界”，定性了学科理解世界的风格，不仅框定了考察的学术议程，也构成了分析的时间轴。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 330–331]])
 
 > [!concept-lens] 概念透镜

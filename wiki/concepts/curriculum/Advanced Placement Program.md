@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 大学先修课程项目（Advanced Placement Program）
 > 大学先修课程项目（Advanced Placement Program，AP）是美国大学理事会（College Board）面向高中生提供的大学水平单科课程与外部考试体系。考试主要用于大学分班或学分，而非高中毕业或大学入学资格；学生可以选择自己擅长或感兴趣的科目参加。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 136, 139–140)]]
 
 > [!concept-lens] 概念透镜

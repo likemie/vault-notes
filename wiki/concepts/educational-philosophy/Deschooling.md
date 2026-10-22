@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 去学校化（Deschooling）
 > **去学校化思潮（Deschooling / Unschooling）** 是20世纪60至70年代在西方激进教育哲学与[[Critical Theory|批判理论]]中兴起的反制度化教育思潮。该思潮主张打破国家与制度化现代学校对教育的特权垄断，认为强制性学校体制异化了学习天性、制造了等级依附并沦为资本主义工厂式生产的规训工具；倡导以自由互助的学习网络（learning webs）、家庭教育（homeschooling）与扎根生活实践的自主社群替代由传统学科大纲和专职教师主导的官僚化班级授课体制。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230–232)]]
 
 > [!concept-lens] 概念透镜

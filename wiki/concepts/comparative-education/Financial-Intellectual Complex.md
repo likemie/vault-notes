@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 金融-智识复合体（Financial-Intellectual Complex）
 > 金融-智识复合体（Financial-Intellectual Complex）是由[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）提出、用于批判以[[World Bank|世界银行]]（World Bank）为代表的多边金融机构在全球教育治理中所建构的跨国霸权体制。该机制将巨额教育贷款的资金流向与定向委托的[[Knowledge Production|知识生产]]紧密捆绑，依托雇佣专家共同体（community of experts for hire），将新古典教育经济学、[[Human Capital Theory|人力资本理论]]和厂商理论确立为普世正当的评估标准，进而借由结构调整贷款的[[Policy Conditionalities|政策附加条件]]重塑发展中国家的教育政策与[[Research Scope|研究边界]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 > [!concept-lens] 概念透镜

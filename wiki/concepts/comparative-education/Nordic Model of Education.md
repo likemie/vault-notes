@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 北欧教育模式（Nordic Model of Education）
 > **北欧教育模式（Nordic Model of Education）** 是指自 20 世纪 20 年代起在瑞典、挪威、丹麦、芬兰和冰岛等北欧福利国家逐步发展起来的公共教育[[Paradigm\|范式]]。该模式以民主（democracy）、团结（solidarity）和公平（equality）为基础，通过设立统一的公立基础教育学校、提供均等的教学资源以及公共财政支持高等教育，致力于消除阶级壁垒，促进社会的整体和谐与代际流动（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。在新自由主义全球治理下，该模式受到绩效测量和市场竞争逻辑的冲击（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 > [!concept-lens] 概念透镜

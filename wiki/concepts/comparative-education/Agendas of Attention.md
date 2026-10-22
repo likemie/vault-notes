@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 注意力议程（Agendas of Attention）
 > **注意力议程（Agendas of Attention）** 指比较教育研究由于受到特定国际关系传统（现实主义、理性主义、[[Revolutionism\|革命主义]]）的影响，而在[[Knowledge Production\|知识生产]]中有选择地关注某些问题（在场）并排斥、遗忘另一些问题（缺席）的过滤与控制机制。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 416]])
 
 > [!concept-lens] 概念透镜

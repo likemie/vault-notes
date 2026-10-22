@@ -26,7 +26,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育援助形态演进（Educational Assistance Modalities）
 > 教育援助形态演进（Educational Assistance Modalities），指在国际发展合作与教育外交实践中，援助主体根据受援国发展需求、双边战略协同目标及自身资源优势所采取的差异化教育支持路径，在 AidData 分析范式中被归纳为校舍教学基建、奖学金与职教培训、联合科研知识生产以及综合文化交流四大互补形态，揭示了跨国教育合作从早期的实物硬件赠予向深层人力资本与技术标准输出的历时性演变。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜

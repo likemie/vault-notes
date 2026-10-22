@@ -60,8 +60,8 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
-> **[[Façade of Rationality|理性表象]]（Façade of Rationality）** 是指在面临多重解释冲突、公众价值争议以及因果链条不可检验的公共政策生态中，量化数据与指标体系为决策行动所构筑的具备科学客观性、计算精确性与跨情境普适性的外观形态。该[[Construct\|构念]]揭示了量化指标在现代治理中并非单纯的技术测量工具，而是一种政治合法化装置，它通过遮蔽政策选择背后的意识形态偏向与价值权衡，使充满主观裁量的决策过程呈现为基于客观证据的理性产物。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> [!def] 理性表象（Façade of Rationality）
+> **[[Façade of Rationality|理性表象]]（Façade of Rationality）** 是指在面临多重解释冲突、公众价值争议以及因果链条不可检验的公共政策生态中，量化数据与指标体系为决策行动所构筑的具备科学客观性、计算精确性与跨情境普适性的外观形态。该[[Construct\|构念]]揭示了量化指标在现代治理中并非单纯的技术测量工具，而是一种政治合法化装置，它通过遮蔽政策选择背后的意识形态偏向与价值权衡，使充满主观裁量的决策过程呈现为基于客观证据的理性产物。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向数字指标对政策决策过程的象征性包装机制，即数字如何通过抽离地方复杂情境，制造出不受政治利益干扰的客观中立假象。
@@ -69,7 +69,7 @@ updated: 2026-10-22
 > - **边界** 不适用于解释完全处于技术封闭领域且因果机制高度明确的工程化决策，亦不等于政策制定者完全否定科学，而是强调数字在政治博弈中的工具化与象征性利用。
 
 > [!citation-card] 数字作为理性表象的[[Scaffolding\|脚手架]]与叙事激发
-> 面对充满歧义性的政策环境，数字而非质性叙事更有能力以“理性、精确与普适的表象”为基于证据的决策提供脚手架。政策制定者之所以迷恋数字，是因为数字能够激发叙事，从而使他们能够从自身的政治视角出发去阐释数字，即讲述关于指标含义的故事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> 面对充满歧义性的政策环境，数字而非质性叙事更有能力以“理性、精确与普适的表象”为基于证据的决策提供脚手架。政策制定者之所以迷恋数字，是因为数字能够激发叙事，从而使他们能够从自身的政治视角出发去阐释数字，即讲述关于指标含义的故事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
 >
 > *As has been explained by several authors (Espeland 2015; Martens and Niemann 2013; Mennicken and Espeland 2019), numbers rather than narratives are better positioned to scaffold evidence-informed policymaking with the ‘façade of rationality, precision, and universality’ (Steiner-Khamsi 2013, 21). Policymakers are enamored with numbers because numbers ‘evoke narratives’ and, therefore, enable them to interpret the numbers, that is, tell ‘stories about what the indicators mean’ (Espeland 2015, 65) from their own political perspective.*
 
@@ -94,10 +94,10 @@ updated: 2026-10-22
 ---
 
 > [!feature] 核心要素
-> - **决策生态的三重约束** 教育领域具有不可化约的[[Policy Ambiguity\|政策歧义性]]（多重思维方式互不相容）、专家知识民主化带来的高度公共争议性、以及育人结果指向不可见未来所导致的技术赤字。这三重生态约束构成了决策者亟需[[Façade of Rationality|理性外衣]]的现实温床。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> - **决策生态的三重约束** 教育领域具有不可化约的[[Policy Ambiguity\|政策歧义性]]（多重思维方式互不相容）、专家知识民主化带来的高度公共争议性、以及育人结果指向不可见未来所导致的技术赤字。这三重生态约束构成了决策者亟需[[Façade of Rationality|理性外衣]]的现实温床。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 > - **[[Commensuration\|通约化]]与去语境化** 数字通过剥离地方学校、文化传统与历史脉络的特殊性，将[[Heterogeneity\|异质性]]的教育经验还原为单一度量衡上的标量数值，制造出全球普适与科学精密的错觉。
-> - **数字作为政治[[Scaffolding\|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
-> - **指标叙事的弹性空间** 数字不仅不消解叙事，反而激发叙事；决策者能够剥离原始统计口径的技术细节，根据政党选举与施政需要自由讲述关于指标含义的政治故事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> - **数字作为政治[[Scaffolding\|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
+> - **指标叙事的弹性空间** 数字不仅不消解叙事，反而激发叙事；决策者能够剥离原始统计口径的技术细节，根据政党选举与施政需要自由讲述关于指标含义的政治故事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -121,7 +121,7 @@ updated: 2026-10-22
 > 探讨海量研究证据供给与政策系统决策需求之间的结构性脱节，阐明为何更多的实证数据无法促成理性启蒙，反而促使政治系统依附于量化表象。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]
-> **信息过载反噬理性决策** 传统循证政策设想更多的科学研究能消解不确定性，然而当今数字经济下的[[Surplus of Evidence\|证据过剩]]与信息孤岛造成了严重的解释超载。在充满不可化约歧义性的教育情境中，相互矛盾的实证结论迫使中介机构与决策者放弃复杂的质性阐释，转而依靠量化指标制造出一种断言式的、无可辩驳的理性外观，以此作为抵御信息混乱的政治屏障。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> **信息过载反噬理性决策** 传统循证政策设想更多的科学研究能消解不确定性，然而当今数字经济下的[[Surplus of Evidence\|证据过剩]]与信息孤岛造成了严重的解释超载。在充满不可化约歧义性的教育情境中，相互矛盾的实证结论迫使中介机构与决策者放弃复杂的质性阐释，转而依靠量化指标制造出一种断言式的、无可辩驳的理性外观，以此作为抵御信息混乱的政治屏障。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
 
 ---
 
@@ -131,7 +131,7 @@ updated: 2026-10-22
 > 探讨量化技术如何兼顾政治防御功能与施政主观裁量需求，揭示客观表象与政治叙事之间的共生机制。
 
 > [!claim] Espeland, W.
-> **数字激发政治叙事** 数字指标的巨大魅力不在于其客观消除了政治主观性，而在于其表象上的技术冷酷性成功将价值冲突转化为技术问题。数字在抽离语境的同时释放了巨大的阐释空间，使执政官员既能享有科学严谨的声誉资本，又能游刃有余地根据意识形态诉求编织符合自身利益的政策叙事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> **数字激发政治叙事** 数字指标的巨大魅力不在于其客观消除了政治主观性，而在于其表象上的技术冷酷性成功将价值冲突转化为技术问题。数字在抽离语境的同时释放了巨大的阐释空间，使执政官员既能享有科学严谨的声誉资本，又能游刃有余地根据意识形态诉求编织符合自身利益的政策叙事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
 
 ---
 
@@ -146,7 +146,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1990–2000年代 — 量化社会学奠基** 西奥多·M·波特（Theodore M. Porter）与[[Wendy Espeland\|温迪·埃斯佩兰德]]（Wendy Espeland）等学者揭示[[Commensuration\|通约化]]与信赖数字的政治本质，指出量化是弱势专业群体抵抗政治干预与政府建立公众信任的技术策略。
 > - **2013 — 比较教育[[Policy Borrowing\|政策借用]]中的[[Façade of Rationality|理性外衣]]** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）在反思教育政策借鉴中的“成功经验路径”时，明确提出量化硬事实为争议性政策移植提供了“理性、精确与普适的表象（façade of rationality, precision, and universality）”。
-> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代[[Policy Brokerage\|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（[[Kerstin Martens]]）与伊德森（[[Christian Ydesen]]）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯[[Knowledge Mediation\|知识中介]]走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代[[Policy Brokerage\|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（[[Kerstin Martens]]）与伊德森（[[Christian Ydesen]]）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯[[Knowledge Mediation\|知识中介]]走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 ---
 
@@ -156,7 +156,7 @@ updated: 2026-10-22
 > > [[Positivism\|实证主义]]经济学家与政策规划者认为指标虽不完美但逼近了教育系统的客观运行规律；批判社会学者则认为指标从诞生起就是权力意志与政治包装的建构产物。
 > >
 > > - **实证政策学派** 主张严密设计的量化指标与[[Randomised Controlled Trials\|随机对照实验]]能够剥离主观偏见，为政策提供坚实理性基础。
-> > - **批判社会学派** 指出数字所维持的[[Façade of Rationality|理性表象]]系统性地消解了实质民主讨论，将深刻的政治再分配问题退化为狭隘的技术参数调整。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> > - **批判社会学派** 指出数字所维持的[[Façade of Rationality|理性表象]]系统性地消解了实质民主讨论，将深刻的政治再分配问题退化为狭隘的技术参数调整。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 > [!critique] 外部批评
 > - **技术去政治化陷阱** 理性外衣过分掩盖了教育的伦理、阶层与历史维度，促使政策制定陷入对指标排名的病态追逐，引发严重的为了指标而教等反冲效应。
@@ -167,4 +167,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合多学科视角，系统阐释[[Policy Brokerage\|政策中介]]机构如何在教育决策面临歧义、争议与不确定的生态下，运用硬事实构筑[[Façade of Rationality|理性表象]]以施展全球[[Soft Power\|软权力]]。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] — 结合多学科视角，系统阐释[[Policy Brokerage\|政策中介]]机构如何在教育决策面临歧义、争议与不确定的生态下，运用硬事实构筑[[Façade of Rationality|理性表象]]以施展全球[[Soft Power\|软权力]]。

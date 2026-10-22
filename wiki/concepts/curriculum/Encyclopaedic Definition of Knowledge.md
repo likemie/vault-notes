@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 百科全书式知识观（Encyclopaedic Definition of Knowledge）
 > 百科全书式知识观（Encyclopaedic Definition of Knowledge），指一种历史悠久、深受欧洲启蒙传统与[[Positivism|实证主义]]熏陶的教育知识[[Paradigm|范式]]，在拉丁美洲（阿根廷、巴西）及欧洲大陆的国民教育体制中占据长期统治地位。该传统将知识界定为由系统事实、经典理论、学科前沿分类与文化记忆构成的客观知识宝库，主张学校教育的核心使命是通过自上而下的国家详尽大纲，将这一体系完整传授给学生并要求其理解与记忆。在 1980–1990 年代跨国治理中，国际多边组织所推销的“[[Global Educational Discourse|全球教育话语]]”将其判定为落后、低效与不适应信息时代的过时产物，推行激进的能力本位（Competencies）与校本自主权替代；然而在缺乏专业制度配套的外围受援国落地时，激发出教师备课恐慌与抄袭商业教辅图书目录等始料未及的实践异化恶果。（Gvirtz & Beech, 2004; Beech, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348, 354]]）
 
 > [!concept-lens] 概念透镜

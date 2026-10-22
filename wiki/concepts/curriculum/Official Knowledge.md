@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 官方知识（Official Knowledge）
 > 官方知识（Official Knowledge），由 Michael Apple (1993, 2000) 在批判课程论中系统提出，指学校课程体系中被国家、教育官僚或社会支配群体选择性界定为合法、正当且唯一值得传授的知识。它并非中性无偏的自然知识积累，而是深刻反映了主导阶层与精英群体的文化利益与政治价值观，并通过课程制度化不断再生产社会中的[[Cultural Hierarchy\|文化等级]]与权力结构。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]; [[Argument_Xu_2024_CE\|(Xu, 2024, pp. 575–576)]]
 
 > [!concept-lens] 概念透镜

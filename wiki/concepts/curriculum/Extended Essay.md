@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 拓展论文（Extended Essay）
 > 拓展论文（Extended Essay，EE）是[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question\|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术论文。EE 与[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）共同把六学科课程扩展为自主探究、[[Epistemology\|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 18)]]
 
 > [!concept-lens] 课程位置、学习功能与资格作用

@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 柱状化（Pillarization）
 > 柱状化（Pillarization；荷兰语：*Verzuiling*；亦称分立主义体制或区块化）是指荷兰等欧陆低地国家沿宗教宗派与意识形态界线形成的纵向社会组织与制度分割形态。社会被垂直划分为公立世俗（State/Neutral）、罗马天主教（Catholic）、正统新教（Protestant）以及非宗教中立（Secular Neutral）等若干相互平行的柱体（Pillars）；各柱体拥有完全独立的学校体系、政党、工会、报刊、广播电台、医疗诊所与社会福利机构。整个国家的政治与社会稳定依托各柱体顶层政治精英在国家内阁与议会层面的制度化妥协、权力分摊与利益均沾机制（Consociational Democracy）予以维系。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–144)]]
 
 > [!concept-lens] 概念透镜

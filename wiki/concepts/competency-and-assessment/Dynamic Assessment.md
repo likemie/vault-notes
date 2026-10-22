@@ -61,14 +61,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 （动态评估）
 
 ---
 
-> [!def] 核心定义
+> [!def] 动态评估（Dynamic Assessment）
 > 动态评估（Dynamic Assessment, DA）发端于[[Lev Vygotsky|维果茨基]]（Lev Vygotsky）的[[Zone of Proximal Development|最近发展区]]（ZPD）理论与鲁文·费厄斯坦（Reuven Feuerstein）的中介学习经验学说，指将教学干预与辅导深度嵌入测验过程的交互式评价[[Paradigm|范式]]。主考人在评估过程中主动介入，针对儿童遇到的困难提供结构化的分级提示（Graduated Prompts）、认知线索或策略示范，通过比较无辅助条件下的初始表现与有辅助条件下的达标水平，精准测量个体的认知可塑性（Cognitive Modifiability）与潜在发展空间，有别于仅测量既往习得知识水平的静态标准化统考。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
 
 > [!concept-lens] 概念透镜

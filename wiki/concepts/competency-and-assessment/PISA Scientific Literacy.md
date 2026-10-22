@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 国际学生评估项目科学素养测评（PISA Scientific Literacy）
 > [[PISA]] [[Scientific Literacy|科学素养]]（PISA Scientific Literacy）是[[OECD|经济合作与发展组织]]（[[OECD]]）在国际学生评估项目（[[PISA]]）中确立的跨国测评[[Construct|构念]]，指 15 岁学生作为[[Reflexivity|反思性]]公民参与科学相关议题并理解科学思想的能力。该构念彻底打破了传统学科测验偏重孤立概念记忆与实验室计算的局限，确立了科学教育面向全体公民的普惠价值[[Paradigm|范式]]，要求学生在真实个人、地方与全球情境中运用知识，展示解释科学现象、设计与评估实证探究以及批判性解读数据证据的综合胜任力（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026, pp. 30–31]]）。
 
 > [!concept-lens] 概念透镜

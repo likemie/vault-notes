@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 历史-哲学-文化母题（Historical-Philosophical-Cultural Motif），全称为历史-哲学-文化与自由人文主义母题（The Historical-Philosophical-Cultural and Liberal Humanist Motif），是指发端于 19 世纪中后期、并在 20 世纪上半叶由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者集大成的主导性比较教育[[Paradigm|研究范式]]。
 
-> [!def] 核心定义
+> [!def] 历史-哲学-文化母题（Historical-Philosophical-Cultural Motif）
 > 历史-哲学-文化母题是将比较教育界定为**广义[[Geisteswissenschaften|人文科学]]（Human Science / Wissenschaft / Episteme）** 的[[Epistemology\|认识论]]传统。该母题拒绝将比较教育降格为技术官僚导向的实证社会科学或纯统计测量，主张比较探究的根本任务在于通过历史学、哲学与文化分析，揭示塑造各民族国家教育制度独特风貌的深层历史力量、政治传统、宗教遗产、[[National Character\|民族性格]]与[[Intangible Spiritual Forces\|无形精神力量]]；同时，该母题坚持历史[[Educational Meliorism\|改良主义]]，坚信通过理解外国教育背后的思想与制度生成逻辑，能够涵养教育工作者的哲学态度，从而推动本国民主制度与教育实践的审慎革新。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 38–42)]]
 
 > [!concept-lens] 概念透镜

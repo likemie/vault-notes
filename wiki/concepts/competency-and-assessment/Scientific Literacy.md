@@ -103,7 +103,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学素养（Scientific Literacy）
 > 科学素养（Scientific Literacy / Science Literacy）是指个体具有对[[Nature of Science|科学本质]]及其运作机制的充分理解，能够把握科学知识通过逐步降低不确定性而演进的动态过程，具备批判性评估多源证据质量及其可[[Reliability|信度]]的认知能力，并在日常生活、健康医疗、消费抉择、公共民主审议与科技政策制定中做出明智决策的核心公民与治理素养。它超越了传统对孤立科技事实与术语的[[Rote Learning|机械记忆]]，将科学本质理解、学科[[Epistemic Practices|认识论实践]]、数据与算法批判心智、实证可复现性（Reproducibility）意识以及捍卫基于客观学术卓越的“金标准科学（[[Gold Standard Science]]）”评价原则融为一体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144, 161)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 
 > [!concept-lens] 概念透镜

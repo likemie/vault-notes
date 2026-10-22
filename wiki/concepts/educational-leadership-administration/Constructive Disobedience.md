@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 建设性不服从（Constructive Disobedience）
 > 建设性不服从（Constructive Disobedience），是指在追求颠覆性前沿创新的科技企业、研究型机构或社会组织中，一线执行者在深刻理解并全面内化组织最高领导层宏观战略愿景的前提下，拒绝盲目照搬自上而下的微观行政指令，而是根据一线实战现实与物理反馈对指令进行主动质疑、批判性重塑与修正执行的行动哲学与[[Organizational Culture|组织文化]]。在[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）的理论框架中，建设性不服从是克服人类天然服从本能、打破平庸[[Bureaucracy|科层制]]束缚并激活真实[[Engineering Mindset|工程思维]]的微观组织支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 136–138)]]
 
 > [!concept-lens] 概念透镜

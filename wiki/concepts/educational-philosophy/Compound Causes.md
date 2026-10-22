@@ -29,7 +29,7 @@ created: 2026-06-18
 updated: 2026-09-11
 ---
 
-> [!def] 核心定义
+> [!def] 复合原因（Compound Causes）
 > 复合原因（compound causes）是指多个原因只有**共同作用**时才施加因果力的一种因果结构。复合原因中的每个单独因素既不是独立充分的，也不是独立必要的，但组合在一起才构成[[Necessary and Sufficient Conditions\|充分条件]]。复合原因与[[Causal Over-determination\|因果过度决定]]不同——后者每个原因单独都足以产生效果，而复合原因中单个原因单独不充分。
 
 > [!concept-lens] 概念透镜

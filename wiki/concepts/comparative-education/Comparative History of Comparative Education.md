@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 比较教育学的比较史（Comparative History of Comparative Education）
 > 比较教育学的比较史（Comparative History of Comparative Education）是指将比较[[Analytic Framework\|分析框架]]、多元区域脉络与批判史学反思引入比较教育学（Comparative Education, CE）学科自身演变历程的[[Paradigm\|研究范式]]。它主张超越单一国别或英美中心主义的线性起源神话，将学科的制度化历程、元[[Epistemology\|认识论假设]]（Meta-Epistemic Assumptions）、跨国学术网络与被遮蔽的历史主体（包括女性学者与非西方地区经验）置于动态的比较视野中展开考察，以此揭示学科[[Knowledge Production\|知识生产]]的社会建构本质与历史偶联性[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–9)]]。
 
 > [!concept-lens] 概念透镜
