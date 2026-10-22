@@ -381,7 +381,7 @@
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-policy.md",
       "entries": [
@@ -400,7 +400,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T03:42:04.451797+00:00"
     }
   ]
 }
