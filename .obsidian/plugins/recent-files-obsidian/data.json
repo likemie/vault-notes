@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Confucius Institute",
+      "path": "wiki/facts/china/Confucius Institute.md"
+    },
+    {
       "basename": "Argument_Custer_2021_AidData",
       "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
+    },
+    {
+      "basename": "Luban Workshop",
+      "path": "wiki/facts/china/Luban Workshop.md"
+    },
+    {
+      "basename": "Soft Power",
+      "path": "wiki/concepts/political-economy-geopolitics/Soft Power.md"
     },
     {
       "basename": "Critique of Meta-analysis",
@@ -187,18 +199,6 @@
     {
       "basename": "Critique of PISA",
       "path": "wiki/concepts/comparative-education/Critique of PISA.md"
-    },
-    {
-      "basename": "Three-Level Mechanism Model of PISA's Impact on Education Policy",
-      "path": "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
-    },
-    {
-      "basename": "PISA Shock in Japan",
-      "path": "wiki/facts/japan/PISA Shock in Japan.md"
-    },
-    {
-      "basename": "PISA Shock in Germany",
-      "path": "wiki/facts/germany/PISA Shock in Germany.md"
     }
   ],
   "omittedPaths": [],
