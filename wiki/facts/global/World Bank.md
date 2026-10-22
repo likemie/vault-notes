@@ -122,30 +122,31 @@ related_facts:
   - "[[Business Roundtable]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
-  - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!claim] 核心定位
-> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。自 20 世纪 80 年代以来，世界银行取代[[UNESCO|联合国教科文组织]]成为全球教育政策的实质主导者，引领了以结构调整和财政紧缩为核心的“防卫性与规训性多边主义”（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；其依托庞大的信贷附加条件与技术[[Discourse|话语]]（[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），一方面演进为与[[OECD|经合组织]]（OECD）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断、固化国际分层与推行去政治化“[[Shadow State|影子国家]]”外包的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽。在组织运作机制上，世界银行兼具提供硬通货贷款的“资金银行”（Bank of Funds）与重塑政策议程的“理念银行”（Bank of Ideas）双重性；其依托发达出资国高信用评级在国际资本市场低息发债筹资、以保本微利向发展中国家转贷，本质上属于特定主权国家间构筑的“主权信用合作社”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–112)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457, 472–473)]]
+> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。自 20 世纪 80 年代以来，世界银行取代[[UNESCO|联合国教科文组织]]成为全球教育政策的实质主导者，引领了以结构调整和财政紧缩为核心的“防卫性与规训性多边主义”（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；其依托庞大的信贷附加条件与技术[[Discourse|话语]]（[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），一方面演进为与[[OECD|经合组织]]（OECD）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断、固化国际分层与推行去政治化“[[Shadow State|影子国家]]”外包的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽。在组织运作机制上，世界银行兼具提供硬通货贷款的“资金银行”（Bank of Funds）与重塑政策议程的“理念银行”（Bank of Ideas）双重性；其依托发达出资国高信用评级在国际资本市场低息发债筹资、以保本微利向发展中国家转贷，本质上属于特定主权国家间构筑的“主权信用合作社”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–112)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457, 472–473)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，在全球设立 130 余个国别代表处，业务覆盖 189 个成员国，是主导全球南方国家宏观经济与公共部门改革的最高多边信贷实体。
 > - **法人属性与经费基础** 由 189 个成员国政府持股的特许多边金融机构，经费来自国际金融市场发债筹资、成员国认缴股本以及[[International Development Association|国际开发协会]]（IDA）由发达捐助国定期补充的软贷款赠款；其金融运作依赖美、英、德、日等发达出资国的 AAA 级信用担保获得最低融资利率，在借款利率基础上加收约 1 个百分点以支付员工薪酬并维持保本，依托[[International Monetary Fund|国际货币基金组织]]（IMF）违约黑名单机制确保零坏账，并要求借款国财政部强制按比例匹配[[Counterpart Funds|对等配套资金]]（Counterpart Funds）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–458)]]
-> - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 
 ---
 
@@ -154,16 +155,16 @@ updated: 2026-10-22
 >
 >   转入全球南方后，世行初期严守砖瓦与设备（Brick and Mortar）模式，把教育视作消费性开支排除在主权借贷之外，极少干预借款国内部行政体制。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 464)]]
 >
->   - **1944** 创设之初旨在资助二战后欧洲的物理基建重建，不涉足教育社会事业。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+>   - **1944** 创设之初旨在资助二战后欧洲的物理基建重建，不涉足教育社会事业。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
 >   - **1962** 向突尼斯发放首笔中等技术教育贷款，初步敲开全球南方的教育大门。
 >   - **1964** 与教科文组织签署《合作协定》（Co-operative Agreement），依靠 UNESCO 专业团队物色与评估借贷国教育项目；业务严格限定于校舍建造与实验室器材采购。
 >
 > - **1968–1981** **麦克纳马拉改革与教育研究帝国奠基期**
 >
->   世行在这一时期把教育从消费性开支重新定义为生产性投资，并建立起自有的中央研究团队：教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等开创覆盖全球的[[Return on Investment|教育投资回报率]]（Rate of Return to Education，RORE）实证计量传统。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
+>   世行在这一时期把教育从消费性开支重新定义为生产性投资，并建立起自有的中央研究团队：教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等开创覆盖全球的[[Return on Investment|教育投资回报率]]（Rate of Return to Education，RORE）实证计量传统。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 >
 >   - **1968** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱。
->   - **1980** 4 月发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+>   - **1980** 4 月发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 >
 > - **1981–1999** **结构调整贷款、规训性多边主义与[[National Innovation System|国家创新系统]]滞后**
 >
@@ -176,17 +177,17 @@ updated: 2026-10-22
 >   - **1995** 成为南方国家最大的单一外部教育资助来源，并在《教育优先与战略》报告中自称其研究在广度与严谨性上无可匹敌（World Bank, 1995: 21），将三十余年的回报率与成本效益核算确立为最高评判准绳。比奇指出其悖论在于，世行贷款仅占[[Development Education|发展中国家教育]]总开支的 0.5%，却伴随全方位的体制干预。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1999）进一步揭示，其成本效益模型将教材、黑板与粉笔定为最划算的教学物资，把教师薪酬视作削减成本的核心障碍，并以“若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值将萎缩 40%”一类宏观计量推论作为修辞武器。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–347)]]
 >   - **1996 起** 在 [[OECD]] 发布《以知识为基础的经济》后迅速跟进，拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 >   - **1997** 联合[[OECD|经合组织]]与教科文组织发起世界[[Performance Indicators|教育指标]]（[[World Education Indicators]]，WEI）项目，将量化指标方法学推广至非成员转型经济体。
->   - **1999** 联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（Poverty Reduction Strategy Papers，PRSPs），将教育指标纳为国家宏观多边信用评级的关键考核指标。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]
+>   - **1999** 联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（Poverty Reduction Strategy Papers，PRSPs），将教育指标纳为国家宏观多边信用评级的关键考核指标。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024b, p. 542)]]
 >
 > - **1999–2018** **[[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机**
 >
 >   詹姆斯·沃尔芬森（James Wolfensohn）主导世行转型为知识银行。比奇指出，这意味着借款国在获得有限资金的同时，被迫成套借入西方技术官僚量身打造的整套教育制度愿景；而[[Claudio de Moura Castro|卡斯特罗]]（Castro）的实务观察表明，借款国重视世行建议的根本原因在于背后捆绑的主权贷款支持，脱离资金的纯政策咨询会重蹈教科文组织的无效覆辙。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
 >
 >   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景；教育部门率先设立教育知识管理系统（EKMS）与教育咨询服务部开展数字化知识集散先导试验。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
->   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, p. 543)]]
+>   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024b, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，促使非政府组织转变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
 >   - **2010–2014** 启动开放发展倡议与开放知识库（OKR），实施 STEP 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 SABER 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
->   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
+>   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 545, 548)]]
 >   - **21 世纪** 拉美与亚洲中等收入国家主权信用提升、可直接在国际私人资本市场低成本融资，世行面临从卖方市场转向买方市场的业务缩水危机，被迫推出基于成果的框架贷款（Program-for-Results，PforR）与分步递进式信贷，以降低借款国的官僚合规交易成本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 475–476)]]
 >
 > - **2018–至今** **[[Learning Crisis|学习危机]]诊断、微观课堂实践转向与开源公共品体系**
@@ -235,13 +236,13 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
-> - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；[[Learning Crisis|学习贫困]]测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
-> - **旗舰项目、调查与测评** [[International Development Association|国际开发协会]]基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
-> - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
+> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
+> - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；[[Learning Crisis|学习贫困]]测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542, 548)]]
+> - **旗舰项目、调查与测评** [[International Development Association|国际开发协会]]基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024b, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 
 > [!citation-card] 世界银行教育自主政策研究的独立宣言
-> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育文献与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
+> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育文献与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b, p. 542]])
 >
 > *The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.*
 
@@ -253,9 +254,10 @@ updated: 2026-10-22
 ---
 
 > [!indicators] 影响力维度与指标
+> - **全球证据中介网络核心枢纽** 在全球 654 个证据平台与机构的网络拓扑测绘中，世界银行居于中心网络第 2 位（网络连接度 23，核心伙伴为经合组织），与联合国教科文组织、经合组织等少数多边巨头共同主导着全球教育政策证据生产与分发的中枢。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 20–22)]]
 > - **资源与网络规模** 年均教育信贷承诺额超 30–50 亿美元，是全球发展中国家最大的外部教育公共资助方；在华盛顿及全球驻外使团拥有数千名经济与技术专家。
-> - **学术与[[Knowledge Production|知识生产]]** 发展经济学工作报告年产出数百篇，其教育科研产出是全球前 13 所高产大学均值的三倍（[[Argument_Zapp_2017_IJED|Zapp, 2017, p. 6]]）；其[[Return on Investment|教育投资回报率]]研究、教师缺勤率调查与 [[Randomised Controlled Trials|RCT]] 实验成果在发展经济学界具有极高的引文声誉。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 548)]]
-> - **政策与制度渗透** 深度主导了全球南方 100 多个国家的国家教育部门计划（ESP）编制；将量化问责指标直接写入主权借贷契约，重塑了借贷国财政部与教育部之间的权力支配关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **学术与[[Knowledge Production|知识生产]]** 发展经济学工作报告年产出数百篇，其教育科研产出是全球前 13 所高产大学均值的三倍（[[Argument_Zapp_2017_IJED|Zapp, 2017, p. 6]]）；其[[Return on Investment|教育投资回报率]]研究、教师缺勤率调查与 [[Randomised Controlled Trials|RCT]] 实验成果在发展经济学界具有极高的引文声誉。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 548)]]
+> - **政策与制度渗透** 深度主导了全球南方 100 多个国家的国家教育部门计划（ESP）编制；将量化问责指标直接写入主权借贷契约，重塑了借贷国财政部与教育部之间的权力支配关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领** 确立了[[Human Capital Theory|人力资本理论]]在[[Development Education|发展中国家教育]]政策中的绝对统治地位，并在 1996 年后跟进[[OECD|经合组织]]全面吸纳[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]，推动以[[Causality|因果推断]]（RCTs、[[Difference-in-Differences|双重差分法]]）为主导的微观循证经济学[[Paradigm|范式]]成为全球教育政策研究的黄金标准。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
@@ -268,7 +270,7 @@ updated: 2026-10-22
 > - **15–30 yr** 主权开发贷款的典型偿还周期，还款期限远超商业银行。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
 > - **1 pp** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系机构日常人员薪资开销以实现保本运营。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
 > - **1/3** 1980 年代世界银行激进强推[[Structural Adjustment Programs|结构调整政策]]附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
-> - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
+> - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542, 548)]]
 > - **1,600** （项） [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
 > - **3×** 世界银行教育学术产出达到全球前 13 所高产大学均值的倍数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **6,900+** （份） 开放知识库（OKR）收录的免费教育学术文献总数，累计下载近 900 万次。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
@@ -282,7 +284,7 @@ updated: 2026-10-22
 > > [!axis] 自指性证据垄断争议：自指实践库 vs 本地经验脉络
 > > 学界批评世界银行的[[Policy Brokerage|政策中介]]呈现出极强的“内部循环”与“自指性”偏好。
 > >
-> > - **批判比较学者（Seitzer et al., 2023; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 依托[[World Education Reform Database|世界教育改革数据库]]（WERD）的跨国实证指出，[[OECD|经合组织]]倾向于横向援引各成员国的本土改革经验，而世界银行的国别政策报告呈现出显著的“自指性政策借鉴（Self-referential lesson-drawing）”，反复循环引用世行自身的 [[Systems Approach for Better Education Results|SABER]] 工具、既往贷款报告与集中式最佳实践仓库，将外部主权国家的丰富实践消减为华盛顿制定的统一定制处方。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> > - **批判比较学者（Seitzer et al., 2023; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b]]）** 依托[[World Education Reform Database|世界教育改革数据库]]（WERD）的跨国实证指出，[[OECD|经合组织]]倾向于横向援引各成员国的本土改革经验，而世界银行的国别政策报告呈现出显著的“自指性政策借鉴（Self-referential lesson-drawing）”，反复循环引用世行自身的 [[Systems Approach for Better Education Results|SABER]] 工具、既往贷款报告与集中式最佳实践仓库，将外部主权国家的丰富实践消减为华盛顿制定的统一定制处方。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
 > > - **世行政策团队** 辩解称集中化最佳实践库是确保跨国借贷项目科学严谨、控制道德风险并提升公共资金使用效率的唯一可行标准化通道。
 >
 > > [!axis] 结构调整与[[Market Fundamentalism|市场原教旨主义]]的后殖民破坏
@@ -383,7 +385,8 @@ updated: 2026-10-22
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示世界银行受紧迫实用主义驱动过度简化知识并依托拉美守门人垄断话语。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析世行“知识银行”制度愿景借贷、成本效益修辞与拉美[[Gatekeepers\|守门人]]网络的代表学者。 |
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 剖析世界银行在跨国[[Policy Borrowing\|政策借用]]连续谱中通过贷款附加条件与最佳实践扮演的协商性乃至受迫性政策转移中介功能。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 运用[[World Education Reform Database\|世界教育改革数据库]]实证检验世行自指性政策中介机制与知识银行演变全过程。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 运用[[World Education Reform Database\|世界教育改革数据库]]实证检验世行自指性政策中介机制与知识银行演变全过程。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 在全球 654 个证据平台网络测绘中将世界银行定位于核心层第 2 位，揭示其与多边国际组织主导中心网络的格局。 |
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | Argument | 建立受限国家[[Analytic Framework\|理论分析框架]]，解构世行金融-智识复合体对第三世界[[State Educational Sovereignty\|国家教育主权]]的深度规训。 |
 > | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 从圈内高阶官员视角系统剖析世行贷款机制的审计繁杂、执行拖延与重投入轻产出困境。 |
 > | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视世界银行等机构的教育援助政策，揭示其防卫性规训与扶植影子国家的政治经济学后果。 |

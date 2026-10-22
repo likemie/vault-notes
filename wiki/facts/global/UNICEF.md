@@ -54,31 +54,32 @@ related_facts:
   - "[[Building Evidence in Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!claim] 核心定位
-> 联合国儿童基金会（UNICEF，简称儿童基金会）是联合国大会设立的专门致力于全球儿童生存、保护与发展权益的核心人道主义与发展实体；在全球教育治理体系中，作为五大治理巨头（Big Five）之一，聚焦处境最不利的儿童群体，是[[Social-Emotional Learning\|社会情感学习]]（SEL）与家庭微观多指标调查的全球[[Policy Brokerage\|政策中介]]先驱。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539, 544)]]
+> 联合国儿童基金会（UNICEF，简称儿童基金会）是联合国大会设立的专门致力于全球儿童生存、保护与发展权益的核心人道主义与发展实体；在全球教育治理体系中，作为五大治理巨头（Big Five）之一，聚焦处境最不利的儿童群体，是[[Social-Emotional Learning\|社会情感学习]]（SEL）与家庭微观多指标调查的全球[[Policy Brokerage\|政策中介]]先驱。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 539, 544)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1946 年 12 月 11 日由联合国大会决议设立国际儿童紧急救援基金（UNICEF），旨在救济二战受灾儿童；1953 年改为联合国常设附属机构并缩短现名，将职能扩展至发展中国家儿童的长期发展。
 > - **总部地点 / 业务辐射** 总部设于美国纽约，在佛罗伦萨设有因诺琴蒂研究中心（Innocenti），在全球 190 多个国家和地区设有办事处与国家委员会，是深入底层社区毛细血管最广的联合国实体。
 > - **法人属性与经费基础** 联合国大会附属发展方案基金，完全不依靠联合国法定经常预算分摊，100% 依赖成员国政府自愿捐款、私营企业赞助以及民间普通公众慈善筹款。
-> - **核心宗旨与法定职责** 全面落实《联合国儿童权利公约》（UNCRC），捍卫每个儿童受教育的基本权利，优先保障女童、残障儿童、难民和危机冲突情境中处境不利儿童公平获取高质量早期与基础教育。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
+> - **核心宗旨与法定职责** 全面落实《联合国儿童权利公约》（UNCRC），捍卫每个儿童受教育的基本权利，优先保障女童、残障儿童、难民和危机冲突情境中处境不利儿童公平获取高质量早期与基础教育。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 544)]]
 
 ---
 
 > [!dev-timeline] 组织发展历程
 > - **1946–1989 — 人道战后紧急救援与儿童基本生存保障期** 早期集中于救济口粮、疫苗接种与母婴卫生保健等生命救援；1960 年代起逐步意识到儿童心智发展与基础初等教育对阻断代际贫困的关键意义，开始资助农村小学初级卫生与女童识字培训。
-> - **1989–2000 — 《儿童权利公约》与[[Education for All|全民教育]]（EFA）联盟共建期** 1989 年联合国大会通过《儿童权利公约》（UNCRC），确立“以儿童最大利益为首要考量”法律原则；1990 年联合[[UNESCO|教科文组织]]、[[World Bank|世行]]在泰国宗迪恩联合发起《[[Education for All|全民教育]]》（EFA）全球倡议；1995 年正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补了全球南方底层家庭儿童福祉微观数据的空白（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 541]]）。在此期间，儿童基金会深度介入全球南方基础教育能力建设，在印度等地资助开创性的小学在职教师教育与女教师发展项目，探索通过微观教学主体增能落实儿童受教育权（Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
+> - **1989–2000 — 《儿童权利公约》与[[Education for All|全民教育]]（EFA）联盟共建期** 1989 年联合国大会通过《儿童权利公约》（UNCRC），确立“以儿童最大利益为首要考量”法律原则；1990 年联合[[UNESCO|教科文组织]]、[[World Bank|世行]]在泰国宗迪恩联合发起《[[Education for All|全民教育]]》（EFA）全球倡议；1995 年正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补了全球南方底层家庭儿童福祉微观数据的空白（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b, p. 541]]）。在此期间，儿童基金会深度介入全球南方基础教育能力建设，在印度等地资助开创性的小学在职教师教育与女教师发展项目，探索通过微观教学主体增能落实儿童受教育权（Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
 > - **2000–2015 — 女童教育倡议与爱生学校模式全球推广期** 发起联合国女童教育倡议（UNGEI），推动撒哈拉以南非洲和南亚女童入学率跨越式提升；系统研发并推广“爱生学校”（Child-Friendly Schools, CFS）标准框架，倡导健康、安全、保护儿童免受暴力的人文教学环境。
-> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱与数据契约共治期** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟，同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱与数据契约共治期** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟，同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
 
 ---
 

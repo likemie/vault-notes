@@ -164,31 +164,32 @@ related_facts:
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
 related_arguments:
-  - "[[Argument_Klerides_2023_CE]]"
-  - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Grey_2018_CE]]"
+  - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Mitter_2009_Europe]]"
-  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
-  - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Grey_2018_CE]]"
-  - "[[Argument_Li_2025_HSSC]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Verger_2019_Discourse]]"
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!claim] 核心定位
-> 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的奠基者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
+> 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的奠基者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC））；深层背景为冷战前沿[[Geopolitics|地缘政治]]对抗与美国[[Economics of Education Movement\|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
@@ -226,7 +227,7 @@ updated: 2026-10-22
 >
 >   冷战终结后，OECD 内部经济效率与社会目的之间的张力消退，组织从成员国协商的开放论坛演变为自身独立的政策行动者（policy actor in its own right）：放弃指令性强制，转而通过破译新兴趋势、同行评议与指标体系确立跨国游戏规则，推动国家治理向[[New Public Management|新公共管理]]、分权问责与市场竞争转型，并把教育公平、性别平权与社会凝聚力工具化为经济政策的附庸。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 440–446, 448–452)]]
 >
->   - **1983** 美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告引发教育危机恐慌，时任美国教育部助理部长切斯特·芬恩（Chester Finn Jr.）转向 CERI，委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+>   - **1983** 美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告引发教育危机恐慌，时任美国教育部助理部长切斯特·芬恩（Chester Finn Jr.）转向 CERI，委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–542)]]
 >   - **1988** [[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络正式启动。
 >   - **1992** 推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），标志 OECD 从投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
@@ -238,7 +239,7 @@ updated: 2026-10-22
 >
 > - **2000–至今** **独立教育司设立、大数据[[Governing at a Distance|远处治理]]、非成员经济体外展与[[Epistemic Governance|知识治理]]体系深化**
 >
->   经合组织开创跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，并通过工具打包与外向型国别借鉴演进为全球教育政策规范制定者。这一经济导向的政策与大规模量化测试瓦解了战后劳威斯倡导的超然咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
+>   经合组织开创跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，并通过工具打包与外向型国别借鉴演进为全球教育政策规范制定者。这一经济导向的政策与大规模量化测试瓦解了战后劳威斯倡导的超然咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 >
 >   - **2000** 推出首轮 [[PISA]] 测评。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 >   - **2000 / 2003** CERI 开展部门知识治理调查，开启长达二十余年的教育知识管理与知识治理探索。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
@@ -287,7 +288,7 @@ updated: 2026-10-22
 > - **指标体系与旗舰出版物** 每年持续出版权威报告《[[Education at a Glance\|教育概览]]》（Education at a Glance），维护[[International Indicators of Education Systems\|国际教育系统指标]]（INES）体系，提供涵盖教育财政投入、入学机会、教师待遇与毕业生劳动力市场回报的跨国宏观数据。
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning\|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
-> - **[[Policy Brokerage|政策中介]]与跨国经验横向借鉴** 以 PISA 基准测验为枢纽，打包同行评议、国别政策审查与教育全球定位系统（[[Education GPS]]）数字平台，系统推介高表现国家改革经验，为成员国提供定制化政策方案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
+> - **[[Policy Brokerage|政策中介]]与跨国经验横向借鉴** 以 PISA 基准测验为枢纽，打包同行评议、国别政策审查与教育全球定位系统（[[Education GPS]]）数字平台，系统推介高表现国家改革经验，为成员国提供定制化政策方案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]
 > - **科技创新指标与[[National Innovation System|国家创新系统]]评价体系（DSTI 业务线）** 依托经合组织科学、技术与创新司（Directorate for Science, Technology and Innovation, DSTI）及其下属科技政策委员会（CSTP），制定并持续修订《[[Frascati Manual|弗拉斯卡蒂手册]]》（研发统计）、《奥斯陆手册》（创新数据收集）与《专利统计手册》；发布两年度旗舰报告《OECD 科学、技术与工业记分牌》（*OECD Science, Technology and Industry Scoreboard*），构建包括研发强度、企业技术改造、高技术产业贸易以及国家[[Systems of Innovation|创新系统]]互动学习在内的多维评估指标。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 > - **教育[[Epistemic Governance\|知识治理]]与[[Knowledge Mobilisation\|知识动员]]体系研发（[[Centre for Educational Research and Innovation\|CERI]] 业务线）** 依托教育研究与[[Innovation Hub\|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]
 
@@ -313,6 +314,7 @@ updated: 2026-10-22
 > [!indicators] 影响力维度与指标
 > - **成员覆盖与全球代表性** 从成立初期的 20 个欧美成员国扩张至当前 38 个成员国，[[PISA]] 测评覆盖逾 80 个国家和经济体，参与国经济总量占全球 80% 以上。
 > - **国际组织网络核心度** 战争关联（COW）国际组织数据库普查显示，在全球 495 个政府间组织中，仅 20 个（4.0%）深度介入教育治理，经合组织成为全球教育治理网络的核心枢纽。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 278)]]
+> - **全球证据中介网络中枢地位** 在针对全球 654 个证据平台与机构的拓扑网络分析中，经合组织居于中心主群第 4 位（网络连接度 18，核心伙伴为联合国儿童基金会），牢牢占据全球多边知识生产与标准扩散的核心位置。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 20–22)]]
 > - **[[Knowledge Production\|知识生产]]与学术渗透度** 发布的各类年度报告与实证微观数据库成为全球比较教育、教育经济学及公共政策学者最重要的实证来源，单年度成果引用量稳居跨国教育智库之首。
 > - **制度问责与国家治理重塑** 推动挪威、瑞士、德国及中国等数十个国家建立与国际标准对接的全国教育质量监测系统与循证督导评估体制。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
@@ -321,7 +323,7 @@ updated: 2026-10-22
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society\|参考社会]]”，引发广泛的[[Policy Borrowing\|政策借用]]。
 > - **国内政治权力格局重组** 经合组织测评数据作为外部合法性资源，赋权并强化了主权国家内部偏好与其一致的改革同盟（如财政经济部门与雇主协会），同时弱化了缺乏实证数据支撑的传统反对力量（如教师工会）的论辩[[Discourse|话语]]权，间接重构了国家教育政治的权力配置。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 277–278)]]
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]]）；并通过与[[EU|欧盟]]委员会建立深层跨机构共生（欧盟资助 80% 调查成本，50%–60% [[Lisbon Strategy|里斯本战略]]数据直接依赖经合组织），将比较指标建构为赋权主权国家推行国内争议性改革的准外部合法化权威（[[Argument_Grek_2009_JEdPolicy\|Grek, 2009, pp. 24–26, 32–35]]）。
-> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元文献，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元文献，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -359,7 +361,7 @@ updated: 2026-10-22
 > > [!axis] 跨国治理复合体中的排他性同盟与利基割据
 > > 批判学者剖析 OECD 与其他跨国巨头在多边协调修辞掩护下的权力同盟与自利性制度壁垒。
 > >
-> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等构成了“[[Global Education Governing Complex\|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education\|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact\|学习数据协定]]”（Learning Data Compact）试图建立统一框架时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 [[PISA for Development\|PISA-D]]（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539, 549–550)]]
+> > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等构成了“[[Global Education Governing Complex\|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education\|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact\|学习数据协定]]”（Learning Data Compact）试图建立统一框架时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 [[PISA for Development\|PISA-D]]（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 539, 549–550)]]
 >
 > > [!axis] 比较教育学科认识论侵蚀与咨询[[Paradigm|范式]]异化
 > > 探讨经合组织指标治理对传统比较教育学科自主性、认识论深度与政策咨询伦理的深层冲击。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96, 98–99)]]
@@ -429,7 +431,8 @@ updated: 2026-10-22
 > | [[Rashomon Effect]] | Concept | 解释同一批 OECD 评估数据被国际组织、本土政客与大众媒体赋予多重冲突真实的[[Epistemology\|认识论]]效应。 |
 > | [[Navigation Metaphor in Comparative Education]] | Concept | 战后比较教育坚持的超然政策咨询范式，后遭 OECD 经济主义与指标治理体系深度解构。 |
 > | [[Wolfgang Mitter]] | Person | 揭示 OECD 经济导向教育政策对欧洲比较教育学科自主性与认识论侵蚀的代表学者。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 剖析数字治理 2.0 时代 OECD 如何通过政策中介工具打包与经验横向借鉴实现远处治理。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析数字治理 2.0 时代 OECD 如何通过政策中介工具打包与经验横向借鉴实现远处治理。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 在全球 654 个证据平台测绘中将经合组织定位于多边核心层第 4 位，揭示其与多边机构紧密交织的中心网络特征。 |
 > | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] | Argument | 总结 [[Centre for Educational Research and Innovation\|CERI]] 二十年循证政策与[[Epistemic Governance\|知识治理]]研究脉络，基于跨国政策调查构建五维证据生态[[Analytic Framework\|分析框架]]。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 从学科史维度批判 OECD 经济主义政策对比较教育学者自主性与航海隐喻的侵蚀。 |
 > | [[Strengthening the Impact of Education Research Project]] | Fact (Program) | OECD CERI 启动的旗舰跨国调查项目，覆盖 29 国 37 个教育系统，系统摸排[[Knowledge Mobilisation\|知识动员]]与证据生态治理机制。 |
