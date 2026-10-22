@@ -226,7 +226,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **命题一：规范合法性自愿认可** | 吸引力机制依托受众对政策文化正当性的自发内化与认同 | 国家公共外交与文化价值输出 | [[Joseph S. Nye Jr.\|Nye]]; 余婧然和谢爱磊 |
-> | **命题二：数字硬事实软治理权威** | 量化指标与国际测评通过探究与调解模式行使隐蔽规制 | 超国家组织治理与全球教育[[Policy Borrowing\|政策借用]] | Steiner-Khamsi 等; [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
+> | **命题二：数字硬事实软治理权威** | 量化指标与国际测评通过探究与调解模式行使隐蔽规制 | 超国家组织治理与全球教育[[Policy Borrowing\|政策借用]] | Steiner-Khamsi et al.; [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
 > | **命题三：跨境高教地缘工具化异化** | 将国际学术合作降格为零和博弈武器将销蚀跨国互信 | 跨境高等教育与跨国科研合作 | [[Jane Knight\|Knight]]; 余婧然和谢爱磊 |
 > | **命题四：软实力为必要非充分条件** | 脱离技术与物质硬实力威慑的软实力空谈将诱发战略自满 | 地缘安全博弈与危机外交防御 | Karp & Zamiska |
 > | **命题五：高教软实力经济依附脆弱** | 依赖奖学金与基建外援的软实力投射面临功利退潮与民意抵制 | [[South-South Cooperation\|南南合作]]高教跨国出海与援助外交 | [[Argument_Woo_2023_HEP\|Woo (2023)]]; [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] |

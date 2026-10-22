@@ -213,7 +213,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > - **2003–2008 — [[National Science Foundation\|NSF]] 重大资助与全美 POGIL 项目社群建立** 获得美国国家科学基金会（NSF）数百万美元资助，正式建立 The POGIL Project 官方非营利组织，出版化学、生物与物理标准教材活动集（Moog & Spencer, 2008）。
 > - **2010–2016 — 跨学科横向拓展至计算机科学与中学教育** POGIL 成功溢出化学领域，被引入大学计算机科学（CS-POGIL）、高中 AP 课程与[[Engineering Education|工程教育]]，成为探究教学的标准[[Paradigm\|范式]]之一。
 > - **2017 — Walker & Warfa 权威[[Meta-analysis\|元分析]]确立循证底座** 沃克与瓦法在《PLoS One》发表里程碑元分析，严格量化了 POGIL 在提升课程通过率与降低 DFW 上的系统优势，确立其循证有效性（Walker & Warfa, 2017）。
-> - **2023 — De Jong 等里程碑综述纳入国际探究全景** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 将 POGIL 作为科学教育中结构化[[Inquiry-Based Learning\|指导式探究]]的标杆实践，有力反击[[Direct Instruction\|直接教学]]派关于探究等于“无指导放任”的不实指责。（p. 3）
+> - **2023 — De Jong et al. 里程碑综述纳入国际探究全景** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 将 POGIL 作为科学教育中结构化[[Inquiry-Based Learning\|指导式探究]]的标杆实践，有力反击[[Direct Instruction\|直接教学]]派关于探究等于“无指导放任”的不实指责。（p. 3）
 
 ---
 

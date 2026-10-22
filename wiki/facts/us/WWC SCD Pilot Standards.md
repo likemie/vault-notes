@@ -120,7 +120,7 @@ updated: 2026-10-22
 > 详见 [[5-3-20 Rule]]。该阈值由标准专家组提出，经外部 SCD 专家审核([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.466]])。
 
 > [!abstract] 标准中的推广性处理
-> [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[Single-Case Design\|SCD]] 评估量规时，仅审查了 [[Single-Case Design\|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse\|WWC]] 标准未捕获推广性细节"的结论。Hitchcock 等回应：
+> [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] 整篇评论的核心论点是澄清一个误解：Maggin et al. (2013) 在比较 7 种 [[Single-Case Design\|SCD]] 评估量规时，仅审查了 [[Single-Case Design\|SCD]] 设计标准文件本身，得出了"[[What Works Clearinghouse\|WWC]] 标准未捕获推广性细节"的结论。Hitchcock et al. 回应：
 >
 > 1. WWC 设计标准**不能孤立看待**——它们必须与审查协议和 SCD Review Guide 一起理解（p.461）
 > 2. Review Guide 系统地捕获了 Maggin et al. 列出的所有推广性标准：基线描述、因[[Variable\|变量]][[Definition of Terms\|操作性定义]]、[[Independent Variable\|自变量]]描述、参与者描述、场所描述（p.465, Table 1）

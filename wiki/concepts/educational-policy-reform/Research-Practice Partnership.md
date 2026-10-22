@@ -248,7 +248,7 @@ updated: 2026-10-22
 > > [!axis] 本地知识能否升级为普遍科学证据
 > > 围绕 RPP 产出的深植于单一学区的定制化知识究竟是提升了适切性，还是阻碍了向其他情境的因果概化。
 > >
-> > - **循证复现派（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）** 批评以 Bryk 等人倡导的单学区 RPP 模式虽然契合本地，但过度贴合特定学区的特殊政治与人事微观生态，反而可能在向外推推广时遭遇严重的[[External Validity\|外部效度]]障碍；解决概化问题的唯一科学途径是在广泛多元情境中的成功复现，而非固守单一学区的定制化开发。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 8)]]
+> > - **循证复现派（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）** 批评以 Bryk et al. 倡导的单学区 RPP 模式虽然契合本地，但过度贴合特定学区的特殊政治与人事微观生态，反而可能在向外推推广时遭遇严重的[[External Validity\|外部效度]]障碍；解决概化问题的唯一科学途径是在广泛多元情境中的成功复现，而非固守单一学区的定制化开发。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 8)]]
 > > - **情境建构派（Enthoven & de Bruijn, 2010; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]）** 强调教育改进本质上高度依赖微观情境，机械套用普适模型注定遭遇排异反应，RPP 的核心生命力恰在扎根具体学校的协同探究与共同所有权。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
 >
 > > [!axis] 校本实用开发 vs 基础学术严谨性蜕化

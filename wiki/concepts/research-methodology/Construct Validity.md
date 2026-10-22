@@ -236,7 +236,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
 > | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、[[Variable\|变量]]定义、[[Manipulation Check\|操纵检查]] | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
-> | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell and Fiske (1959); Cohen 等人 |
+> | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell and Fiske (1959); Cohen et al. |
 > | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级[[Meta-analysis\|元分析]] | [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] |
 > | **课程表征命题** | 内部自洽对齐可能掩盖目标构念不足呈现 | 课程纲要审查、[[Higher-Order Thinking Skills\|高阶思维]]评估 | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **跨国信度与效度牺牲命题** | 跨国量化测评为追求通约信度系统性牺牲情境构念效度与本体论 | 跨国大规模测评（PISA）、全球教育数字治理 | [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |

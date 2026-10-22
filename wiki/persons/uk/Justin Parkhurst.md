@@ -109,7 +109,7 @@ updated: 2026-10-22
 
 ## 历史评价
 
-> [!citation-card] Rickinson 等论帕克赫斯特的学科奠基贡献
+> [!citation-card] Rickinson et al. 论帕克赫斯特的学科奠基贡献
 > 贾斯汀·帕克赫斯特通过剖析政治学与公共管理的内在规律，有力论证了[[Good Governance of Evidence\|证据良好治理]]的制度必然性，为各实践领域打破狭隘的技术主义迷思提供了根本性的理论标杆。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
 >
 > *Just as Parkhurst (2017) drew deeply on the nature of politics and public administration to articulate the good governance of evidence, theories of quality evidence use in education must engage with the core nature of educational practice.*

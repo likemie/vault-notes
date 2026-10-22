@@ -51,7 +51,7 @@ updated: 2026-10-22
 > [!note-] 历史沿革
 > Eacott 在 2017 年前后开始关注教育行政与领导力领域的对话质量问题。激发这一关注的具体事件是他观察到 Peter Gronn and Ross Thomas 之间关于"[[Rich and Thick Description\|厚描述]]"（thick description）的学术交流——Thomas 因不了解 Geertz 的研究而将 Gronn 的论点斥为"纯粹语义学"，Eacott 从中看到学者之间即使正面交锋也往往在"不对等的智识地带"上进行([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.775]])。
 >
-> Eacott 随后通过组织特刊（*Journal of Educational Administration and Foundations*, Vol. 26 No. 2）和出版 *Beyond Leadership*（Eacott, 2018）来展示他的规范性立场——遵循 Bourdieu 等人的学术逻辑，即**argument and refutation**（论证与反驳）([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.774]])。
+> Eacott 随后通过组织特刊（*Journal of Educational Administration and Foundations*, Vol. 26 No. 2）和出版 *Beyond Leadership*（Eacott, 2018）来展示他的规范性立场——遵循 Bourdieu et al. 的学术逻辑，即**argument and refutation**（论证与反驳）([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.774]])。
 
 > [!example] 与相关概念的区别
 > - vs **thesis-antithesis-synthesis**（[[Georg Wilhelm Friedrich Hegel\|黑格尔]]辩证法）：[[Argument_Hattie_2017_SLM\|Hattie (2017)]]主张学术界应遵循"正题-反题-合题"逻辑，但 Eacott 指出 Hattie 的回应恰恰证明了问题——他只需在表层引用几个词就能制造"反题"，无需真正理解或反驳 Eacott 的核心论点([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.779]])。Eacott 主张以**argument-refutation**（论证-反驳）替代 thesis-antithesis-synthesis，区别在于前者的反驳必须基于对对方论证的实质性参与

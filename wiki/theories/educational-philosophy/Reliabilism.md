@@ -123,7 +123,7 @@ updated: 2026-10-22
 > [!dev-timeline] 发展脉络
 > - **1986 — 起点或经典文本** Goldman (1986) 出版《[[Epistemology]] and Cognition》，正式将过程可靠主义推入主流，确立了认识论的“心理学转向”与自然化道路。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 469)]]
 > - **1990s-2000s — 扩展阶段** 可靠主义从个体认知层面扩展至社会认识论，开始关注群体论证、同行评审及制度机制的[[Reliability\|可靠性]]。
-> - **2011 — 教育研究应用** Chinn 等人将可靠主义及其对“可靠产生过程”的关注，正式纳入教育心理学领域的[[Expanded Framework of Epistemic Cognition\|扩展的认识论认知框架]]中，作为第五大核心组件。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
+> - **2011 — 教育研究应用** Chinn et al. 将可靠主义及其对“可靠产生过程”的关注，正式纳入教育心理学领域的[[Expanded Framework of Epistemic Cognition\|扩展的认识论认知框架]]中，作为第五大核心组件。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 
 ---
 

@@ -155,7 +155,7 @@ issuing_organization: ""
 > *来源：本研究表 1（p. 235）。*
 
 > [!warrant]- 推理桥梁
-> EOCD 并非把 Kuhn 的阶段逐项合并或拆分，而是用三个维度重新描述不同认识论位置：现实主义表现为 SC、JA、PJ 均强；认识到知识并非简单且确定后，个体可能转向依赖权威的教条主义（SC 弱、JA 强、PJ 弱），或依赖个人经验的怀疑主义（SC 弱、JA 弱、PJ 强）；理性主义则表现为 SC 弱、JA 与 PJ 中等。作者指出，现实主义近似 Kuhn 等人的绝对主义，怀疑主义近似[[Pluralism|多元主义]]，理性主义近似评价主义（pp. 237–238）。
+> EOCD 并非把 Kuhn 的阶段逐项合并或拆分，而是用三个维度重新描述不同认识论位置：现实主义表现为 SC、JA、PJ 均强；认识到知识并非简单且确定后，个体可能转向依赖权威的教条主义（SC 弱、JA 强、PJ 弱），或依赖个人经验的怀疑主义（SC 弱、JA 弱、PJ 强）；理性主义则表现为 SC 弱、JA 与 PJ 中等。作者指出，现实主义近似 Kuhn et al. 的绝对主义，怀疑主义近似[[Pluralism|多元主义]]，理性主义近似评价主义（pp. 237–238）。
 
 > [!contrast-table] 表2：[[Epistemic and Ontological Cognition\|认识论与本体论认知]]模型（Model of Epistemic and Ontological Cognition）
 > | [[Educational Level\|受教育水平]] | 劣构领域阶段 | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段 | SC 信念 | JA 信念 | PJ 信念 |

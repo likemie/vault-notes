@@ -81,8 +81,8 @@ updated: 2026-10-22
 > [!work-line] 主要著作
 > - **2009 — *Governing by numbers: the PISA 'effect' in Europe*** 实证剖析芬兰、德国与英国对 PISA 的政策反响，揭示跨国组织以数据重塑欧洲教育空间的机制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–37)]]
 > - **2012 — *Fabricating Europe: The Formation of an Education Space*（与 Martin Lawn 合著）** 系统阐发欧洲教育空间的历史制度生成，论述跨国专家网络与统计等价性在欧洲一体化中的构造功能。
-> - **2015 — *Governing by Inspection*（与 Jenny Ozga 等合著）** 比较欧洲各国督导制度的数字化转型，揭示视学评估由层级官僚问责向量化自我规训的技术演变。
-> - **2021 — *The New Production of Users: Making Education Data Productive*（与 Christian Ydesen 等合著）** 考察跨国教育数据基础设施的用户生产与算法治理逻辑。
+> - **2015 — *Governing by Inspection*（与 Jenny Ozga et al. 合著）** 比较欧洲各国督导制度的数字化转型，揭示视学评估由层级官僚问责向量化自我规训的技术演变。
+> - **2021 — *The New Production of Users: Making Education Data Productive*（与 Christian Ydesen et al. 合著）** 考察跨国教育数据基础设施的用户生产与算法治理逻辑。
 
 ---
 

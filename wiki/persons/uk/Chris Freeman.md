@@ -108,7 +108,7 @@ updated: 2026-10-22
 >   - **关键概念／方法** [[Systems of Innovation]]、[[Ministry of International Trade and Industry|通商产业省]]（MITI）协调机制、[[Lean Production|精益生产]]与现场学习。
 >   - **阶段转向** 突破孤立的企业边界，将产业政策、终身雇佣、逆向工程与大学-产业协作整合成具有国别制度特征的系统分析。
 > - **1988–1992 — [[Evolutionary Economics|演化经济学]]联盟建立与技术-经济[[Paradigm|范式]]深化** 与纳尔逊、佩雷斯等学者紧密合作，将[[Joseph Schumpeter|熊彼特]]创新理论形式化为演化经济学大厦，探讨微电子[[General Purpose Technology|通用技术]]长波带来的结构性危机。
->   - **代表著作** *Technical Change and Economic Theory*（1988，与 Nelson 等合编）；*The Economics of Hope*（1992）。
+>   - **代表著作** *Technical Change and Economic Theory*（1988，与 Nelson et al. 合编）；*The Economics of Hope*（1992）。
 >   - **关键概念／方法** [[Evolutionary Economics]]、技术-经济[[Paradigm|范式]]（[[Techno-economic Paradigm]]）、[[Technological Trajectories|技术轨迹]]。
 >   - **阶段转向** 将技术创新拓展为涵盖生产组织、劳资规制与金融资本的长波动态共演理论。
 > - **1995 以后 — 全球化反思与多尺度国家创新系统辩护** 针对 1990 年代兴起的“无国界世界”与“民族国家终结”论调，重返思想史考证[[Friedrich List|李斯特]]传统，论证全球化深层依赖母国创新母体。

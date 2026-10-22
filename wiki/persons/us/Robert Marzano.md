@@ -119,7 +119,7 @@ updated: 2026-10-22
 
 > [!influence-path|notitle] 影响路径
 > - **方法路径** 率先将 Gene Glass（1976）创设的[[Meta-analysis|元分析]]方法运用于大规模教育实证综合（汇总 4,057 项效应维度），创造了“学校效应”（school effects）的经典[[Analytic Framework|分析框架]]，开创了[[Evidence-Based Education|循证教育]]政策研究的量化传统。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
-> - **理论路径** 提出的理论驱动[[Meta-meta-analysis|元综合]]不仅深刻启发了后续学者（如 Higgins 等）反思元分析分类缺陷，其构建的马扎诺分类学也成为西方替代传统[[Bloom's Taxonomy|布鲁姆分类学]]的核心框架之一。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 230)]]
+> - **理论路径** 提出的理论驱动[[Meta-meta-analysis|元综合]]不仅深刻启发了后续学者（如 Higgins et al.）反思元分析分类缺陷，其构建的马扎诺分类学也成为西方替代传统[[Bloom's Taxonomy|布鲁姆分类学]]的核心框架之一。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 230)]]
 > - **承继与拓展** [[John Hattie|John Hattie]] 直接继承了马扎诺关于“学校效应”的提法和元分析综合传统，但 Hattie 将其进一步推向包含 800+ 元分析的“二阶元分析”（mega-analysis），在更宏观的全球政策层面掀起了可见学习浪潮。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 
 > [!evidence-grid-a] 相关研究索引

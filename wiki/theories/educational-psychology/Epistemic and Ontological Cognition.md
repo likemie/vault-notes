@@ -97,7 +97,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 发展脉络
-> - **2008 — 概念起点** Greene 等人初步提出区分[[Epistemology\|认识论]]和[[Ontology\|本体论]]认知的理论论述。
+> - **2008 — 概念起点** Greene et al. 初步提出区分[[Epistemology\|认识论]]和[[Ontology\|本体论]]认知的理论论述。
 > - **2010 — 实证检验** Greene、Torney-Purta 及 Azevedo 将该模型转化为 [[Epistemic and Ontological Cognition Questionnaire\|EOCQ]] [[Questionnaire\|问卷]]，并通过[[Factor Mixture Modeling\|因子混合模型]]进行大样本验证。[[Argument_Greene_2010_JEP\|(Greene et al., 2010)]]
 
 ---

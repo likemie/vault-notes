@@ -232,7 +232,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变脉络
 > - **1950s — 吉尔福特提出智力结构模型** Guilford 正式区分发散思维与[[Convergent Thinking\|聚合思维]]，确立流畅性、灵活性与独创性等评估维度。
 > - **1960s–1970s — 托兰斯创造思维测验与标准化测评** Torrance 研发标准化纸笔与图形测验，发散思维成为全球[[Creativity Assessment\|创造力评估]]的主流指标。
-> - **1990s–2000s — 观念行为理论与认知整合模型** Runco 等提出观念生成理论，将发散思维嵌入日常[[Runco Ideational Behavior Scale\|观念行为量表]]（RIBS）与[[Problem Finding\|问题发现]]框架。
+> - **1990s–2000s — 观念行为理论与认知整合模型** Runco et al. 提出观念生成理论，将发散思维嵌入日常[[Runco Ideational Behavior Scale\|观念行为量表]]（RIBS）与[[Problem Finding\|问题发现]]框架。
 > - **2020–2025 年 — [[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]的量化确立** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 运用二阶元分析确立发散思维（$r = 0.14$）基准效应；[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 实证确立空间组织器对发散思维的强促学效应（$g = 1.167$）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 运用[[Three-Level Meta-Analysis\|多层元分析]]确立干预对发散[[Creativity\|创造性思维]]的高增益（$g = 0.671$）与言语训练优势（$g = 0.998$）；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 基于 29 项实验元分析确立生成式 AI 对创造性发散思维的中等促进效应（$g = 0.444$），并揭示时长倒 U 型曲线与 [[Self-Regulated Learning\|SRL]] 免疫机制。
 > - **2026 年 — 生成式 AI 时代的发散重构与批判反思** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] [[Systematic Review\|系统综述]]确立生成式 AI 作为发散思维“低门槛构想放大器”与“早熟收敛风险源”的二元特征；[[Argument_Smith_2026_SPE\|Smith (2026)]] 进一步从批判社会[[Epistemology|认识论]]视角揭示 AI [[Brainstorming|头脑风暴]]的均质化与非具身局限，确立全盘外包发散对未成年求知者成长性认识正义的侵蚀机制。
 

@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # EMMIE Framework
@@ -93,7 +93,7 @@ updated: 2026-10-20
 > - **实施方式** 专家编码评估（Expert Coding），由[[Educational Brokerage Agency\|证据中介机构]]研究员或系统评价团队对照阶梯描述符独立研判并开展复核。
 
 > [!citation-card] 证据多维评价量规开发主旨与方法论演进
-> 针对单一效果指标无法解释复杂社会情境干预有效性的局限，Johnson 等人于 2015 年在《Journal of Experimental Criminology》提出 EMMIE 证据评级量表，并在英国警务学院《犯罪减少工具包》中制度化推行。[[David Gough]] 等学者指出，EMMIE 框架标志着[[Educational Brokerage Agency\|知识中介机构]]由单维因果效应评级向涵盖机制解释与情境适切性的多维量规演进。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
+> 针对单一效果指标无法解释复杂社会情境干预有效性的局限，Johnson et al. 于 2015 年在《Journal of Experimental Criminology》提出 EMMIE 证据评级量表，并在英国警务学院《犯罪减少工具包》中制度化推行。[[David Gough]] 等学者指出，EMMIE 框架标志着[[Educational Brokerage Agency\|知识中介机构]]由单维因果效应评级向涵盖机制解释与情境适切性的多维量规演进。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 >
 > *"Introducing EMMIE: an evidence [[Rating Scale]] to encourage mixed-method crime prevention synthesis reviews... to synthesize evidence on the Effect of interventions, the Mechanisms through which they are expected to work, the factors that Moderate their impact, the Implementation issues that arise, and the Economic appraisal of interventions."* (Johnson, Tilley, & Bowers, 2015, p. 459)
 

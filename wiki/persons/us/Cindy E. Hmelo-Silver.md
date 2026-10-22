@@ -4,7 +4,7 @@ aliases:
   - 辛迪·赫梅洛-西尔弗
   - Hmelo-Silver, C. E.
   - Cindy Hmelo-Silver
-summary: "美国印第安纳大学杰出教授、学习科学前国际学会主席（ISLS Fellow）、问题导向学习（PBL）与计算机支持协作学习（CSCL）国际权威学者。2007 年与 Chinn 等发表反驳认知负荷派的里程碑文献，系统奠定支架协同、复杂因果表征与生产性失败教学时序理论"
+summary: "美国印第安纳大学杰出教授、学习科学前国际学会主席（ISLS Fellow）、问题导向学习（PBL）与计算机支持协作学习（CSCL）国际权威学者。2007 年与 Chinn et al. 发表反驳认知负荷派的里程碑文献，系统奠定支架协同、复杂因果表征与生产性失败教学时序理论"
 type: person
 nationality: "us"
 person_region: "us"

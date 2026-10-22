@@ -2,7 +2,7 @@
 title: Methodological Transnationalism
 aliases:
   - 方法论跨国主义
-summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
+summary: "Diane Stone (2020) 与 Steiner-Khamsi et al. 倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
 related_count: 30

@@ -159,7 +159,7 @@ updated: 2026-10-22
 > > [!axis] 超国家宪政法权 vs 实质国家文化与历史神话
 > > 围绕现代民主政治能够仅依靠抽象宪政程序维系，还是必须依赖共享国家历史与[[Civic Religion|公民宗教]]展开论争。
 > >
-> > - **后国家宪政派（Habermas 等）** 坚信理性法治与普遍人权足以维系现代复杂社会的正当性与稳定性。
+> > - **后国家宪政派（Habermas et al.）** 坚信理性法治与普遍人权足以维系现代复杂社会的正当性与稳定性。
 > > - **共同体与共和派（Bellah, 1967; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 强调制度运作离不开深厚道德资本与共享国家神话的滋养，纯粹程序法治过于单薄，无法抵御虚无主义侵蚀。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 >
 > > [!axis] 历史罪责永恒反思 vs 正常国家认同与威慑重建

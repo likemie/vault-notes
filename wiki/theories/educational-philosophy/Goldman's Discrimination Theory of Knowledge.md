@@ -6,7 +6,7 @@ aliases:
   - 辨识理论
   - 知识区分理论
   - Discrimination Theory of Knowledge
-summary: "由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam 等人引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。"
+summary: "由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam et al. 引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。"
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 26

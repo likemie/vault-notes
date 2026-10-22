@@ -107,7 +107,7 @@ updated: 2026-10-22
 ## 争议与批评
 
 > [!tension] 核心张力：文化理解 vs 测量效率
-> - **理解传统（Lauwerys 等）** 强调以 Verstehen 的哲学态度深入分析不同文明塑造理想类型（ideal type）人格的文化脉络，保持对孩子成长生态的道德同理心。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 333, 336]])
+> - **理解传统（Lauwerys et al.）** 强调以 Verstehen 的哲学态度深入分析不同文明塑造理想类型（ideal type）人格的文化脉络，保持对孩子成长生态的道德同理心。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 333, 336]])
 > - **测量传统（[[PISA]]/[[IEA]] 等）** 将受教育身份完全窄化为标准化的测试数据与跨国绩效排名，用效率度量压倒文化脉络，使学科沦为解决方案导向的技艺。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 333–334]])
 
 > [!critique] 外部批评：去历史化的“[[Floating Signifier\|漂浮能指]]”与政治共谋

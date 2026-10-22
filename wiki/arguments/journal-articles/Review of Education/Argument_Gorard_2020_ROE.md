@@ -93,7 +93,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-22
 journal: Review of Education
 citation: "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610."
 authors:
@@ -511,7 +511,7 @@ sources:
 > - **教育政策制定因果证据全面空白** 现有文献关于政治家与政策制定者如何采纳证据的研究完全没有因果对照组，导致该维度的论证主要依赖逻辑推演与制度平行类比。（p. 597）
 
 > [!critique] 过度工程化对教师专业自主性的潜在侵蚀
-> - **去专业化（De-professionalization）风险** Gorard 等人主张将证据直接工程化为标准化脚本教案（Scripted Lesson Plans），并主张教师无需知晓底层证据基础即可直接使用。这种立场虽然在因果保真度上极具实效，但极易将教师降格为机械执行预制流程的技术工人，削弱教师面对[[Heterogeneity\|异质性]]课堂时的[[Professional Judgment\|专业判断力]]与情境反思能力。
+> - **去专业化（De-professionalization）风险** Gorard et al. 主张将证据直接工程化为标准化脚本教案（Scripted Lesson Plans），并主张教师无需知晓底层证据基础即可直接使用。这种立场虽然在因果保真度上极具实效，但极易将教师降格为机械执行预制流程的技术工人，削弱教师面对[[Heterogeneity\|异质性]]课堂时的[[Professional Judgment\|专业判断力]]与情境反思能力。
 > - **工程化工件自身的质量检验危机** 当证据转化为技术工件后，基层教师失去了对工件底层[[Chain of Evidence\|证据链]]条的审视门槛。一旦商业开发机构打着工程化循证工件的旗号推销粗制滥造的教材与教辅软件，学校将极难防范披着科技外衣的新型教学神话。
 
 ---

@@ -202,7 +202,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 教育智能体的发展演变脉络
 > - **1970年代至1980年代 规则型计算机辅助教学与早期[[Intelligent Tutoring Systems\|智能导师系统]]萌芽** 基于[[Behaviorism|行为主义]]与早期认知心理学，开发出 SCHOLAR、GUIDON 等基于产生式规则与专家系统的早期智能导师系统，实现单向规则分流。
-> - **1990年代至2000年代 认知模型成熟与贝叶斯知识追踪** Anderson 等人开发认知导师（Cognitive Tutor），结合贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）与产生式规则，实现精细化的学生技能掌握度建模与步调自适应。
+> - **1990年代至2000年代 认知模型成熟与贝叶斯知识追踪** Anderson et al. 开发认知导师（Cognitive Tutor），结合贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）与产生式规则，实现精细化的学生技能掌握度建模与步调自适应。
 > - **2010年代 具身[[Educational Robotics\|教育机器人]]与[[Conversational AI in Education|对话式智能体]]普及** 随着自然语言处理与传感器硬件发展，NAO 等实体教育机器人和基于检索与规则的教学聊天机器人进入中小学课堂，探索情感陪伴与外语会话互动。
 > - **2020年代 [[Generative AI Agent in Education\|生成式智能体]]与大模型驱动的自适应生态** 基于大语言模型与多模态架构的生成式智能体广泛[[Emergence\|涌现]]，具备开放式上下文理解、代码实时调试与自适应支架生成能力，并在全球基础教育中开展大规模准实验干预评估。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 1–3)]]
 

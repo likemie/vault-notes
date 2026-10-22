@@ -626,8 +626,9 @@ def writing_baseline_key(issue: "Issue") -> Tuple[str, str, str, str]:
     # Link rendering adds spaces around link text and the context is cut at
     # 160 chars, so compare whitespace-free text over a stable prefix.
     head, _, context = _REVIEW_ID_RE.sub("待审查", issue.message).partition(" 语境：")
-    # Mechanical auto-fixes (等 -> et al.) must not turn an old hit into a new one.
-    context = LATIN_DENG_RE.sub(_latin_deng_replacement, context)
+    # Mechanical auto-fixes (等 -> et al., and the citation links they enable)
+    # must not turn an old hit into a new one.
+    context = re.sub(r"et al\.|等人|等", "", unicodedata.normalize("NFKC", context))
     return ("WRITING", issue.path, issue.code, head + "|" + re.sub(r"\s+", "", context)[:100])
 
 
@@ -2287,26 +2288,67 @@ def fix_bold_boundaries(text: str) -> Tuple[str, int]:
     return head + body, len(positions)
 
 
-# CITATION_LATIN_DENG: Latin-script author + 等/等人 before a year is an English
-# citation and takes "et al.": "Hopkins 等, 1996" -> "Hopkins et al., 1996",
-# "Cai 等人（2025）" -> "Cai et al.（2025）". Chinese authors keep 等 ("王等, 2025").
-# Without a year, "X 等" is ordinary Chinese ("PISA、TIMSS 等", "Mignolo、Dussel 等")
-# and is left alone.
+# Latin-script author + 等/等人 -> "et al." (silent auto-fix, like table-pipe
+# escaping; no lint warning). "Hopkins 等, 1996" -> "Hopkins et al., 1996",
+# "Cai 等人（2025）" -> "Cai et al.（2025）", "Hattie 等人指出" -> "Hattie et al. 指出".
+# A name counts as a person when a year follows or it is a known Person surname /
+# cited author. Left alone: acronyms and organisations (OECD、PISA 等), non-persons
+# (Teach 等工具), lists of names (Mignolo、Dussel 等; Holmes 和 King 等人), words
+# beginning with 等 (等级, 等同 …) and Chinese authors (王等, 2025).
 LATIN_DENG_RE = re.compile(
-    r"(?<![A-Za-z\u00C0-\u024F'’\-])"
-    r"(?P<name>[A-Z][A-Za-z\u00C0-\u024F'’\-]*[A-Za-z\u00C0-\u024F]\.?)"
-    r"\s*(?:等人|等)"
-    r"(?:\s*(?P<comma>[，,])\s*|\s*(?P<paren>[（(])\s*)"
-    r"(?P<year>(?:19|20)\d{2}[a-z]?)(?![0-9])"
+    r"(?<![A-Za-zÀ-ɏ'’\-])"
+    r"(?P<name>[A-Z][A-Za-zÀ-ɏ'’\-]*[A-Za-zÀ-ɏ]\.?)"
+    r"\s*(?P<deng>等人(?!员)|等(?![级同于待价值距量效式号比位差高长分]|学者|研究者|作者|专家|人员))"
+    r"(?:(?:\s*(?P<comma>[，,])\s*|\s*(?P<paren>[（(])\s*)(?P<year>(?:19|20)\d{2}[a-z]?)(?![0-9]))?"
 )
+_LIST_BEFORE_RE = re.compile(r"[A-Za-z\u00C0-\u024F.]\s*(?:、|和|与|及|&|\band|,)\s*(?:[A-Z][\w\u00C0-\u024F'’.\-]*\s+){0,3}$")
 
 
-def _latin_deng_replacement(m: re.Match[str]) -> str:
+@lru_cache(maxsize=1)
+def known_person_surnames() -> frozenset:
+    """Surnames of Person entries (not schools) and of cited Argument authors."""
+    names: Set[str] = set()
+    try:
+        entries = json.loads(INDEX_JSON.read_text(encoding="utf-8"))
+    except Exception:
+        entries = []
+    for e in entries if isinstance(entries, list) else []:
+        if not isinstance(e, dict) or e.get("type") != "person" or "/schools/" in str(e.get("path", "")):
+            continue
+        title = str(e.get("title", ""))
+        if title.split():
+            names.add(title.split()[-1])
+        for alias in e.get("aliases") or []:
+            m = re.match(r"([A-Z][\wÀ-ɏ'’\-]+),\s", str(alias))
+            if m:
+                names.add(m.group(1))
+    try:
+        data = json.loads(CITATION_FULL_JSON.read_text(encoding="utf-8"))
+        items = data.get("items", {}) if isinstance(data, dict) else {}
+        for item in items.values() if isinstance(items, dict) else []:
+            for author in (item.get("authors") or []) if isinstance(item, dict) else []:
+                m = re.match(r"([A-Z][\w\u00C0-\u024F'’\-]+(?:\s[A-Z][\w\u00C0-\u024F'’\-]+)?),\s", str(author))
+                if m:
+                    names.add(m.group(1).split()[-1])
+    except Exception:
+        pass
+    return frozenset(n for n in names if not n.isupper())
+
+
+def _latin_deng_replacement(m: "re.Match[str]", before: str = "") -> Optional[str]:
     name = m.group("name")
-    if m.group("comma"):
-        return f"{name} et al., {m.group('year')}"
-    paren = m.group("paren")
-    return f"{name} et al.{' ' if paren == '(' else ''}{paren}{m.group('year')}"
+    if name.rstrip(".").isupper():
+        return None  # acronyms / organisations: OECD 等, PISA 等
+    if _LIST_BEFORE_RE.search(before):
+        return None  # several named people: "A、B 等", "A 和 B 等人"
+    if m.group("year"):
+        if m.group("comma"):
+            return f"{name} et al., {m.group('year')}"
+        paren = m.group("paren")
+        return f"{name} et al.{' ' if paren == '(' else ''}{paren}{m.group('year')}"
+    if name.rstrip(".") not in known_person_surnames():
+        return None
+    return f"{name} et al."
 
 
 def fix_latin_deng(text: str) -> Tuple[str, int]:
@@ -2316,25 +2358,18 @@ def fix_latin_deng(text: str) -> Tuple[str, int]:
     pos = 0
     count = 0
     for m in LATIN_DENG_RE.finditer(masked):
+        rep = _latin_deng_replacement(m, masked[max(0, m.start() - 60):m.start()])
+        if rep is None:
+            continue
+        nxt = text[m.end():m.end() + 1]
+        if not m.group("year") and nxt and not nxt.isspace() and nxt not in "，。、；：,.;:)）]」”'\"*":
+            rep += " "
         out.append(text[pos:m.start()])
-        out.append(_latin_deng_replacement(m))
+        out.append(rep)
         pos = m.end()
         count += 1
     out.append(text[pos:])
     return "".join(out), count
-
-
-def check_latin_deng(path: Path, text: str, issues: List[Issue]) -> None:
-    if not is_wiki_entry_path(path) or TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
-        return
-    masked = mask_markdown_code(text)
-    for m in LATIN_DENG_RE.finditer(masked):
-        issues.append(Issue(
-            "WARN", rel(path),
-            f"英文作者引用用 et al.，不用“等”：{m.group(0)!r} -> {_latin_deng_replacement(m)!r}",
-            line=line_of_pos(text, m.start(), 1),
-            code="CITATION_LATIN_DENG",
-        ))
 
 
 def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
@@ -3443,7 +3478,6 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_axis_callouts(path, text, issues)
     check_stat_card_titles(path, text, issues)
     check_markdown_misc(path, text, issues)
-    check_latin_deng(path, text, issues)
     check_templater_placeholders(path, text, issues)
 
     data = check_frontmatter(path, text, by_title, issues)

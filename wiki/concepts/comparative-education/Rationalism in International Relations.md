@@ -142,7 +142,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 发展脉络
 > - **1920s–1940s — 国联智力合作与教科书改革** IIIC 开启跨国教科书修编，旨在破除极端国家性格，培育具有合作精神的“[[International Mind|国际心智]]”。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 423–424]])
-> - **1950s–1970s — [[UNESCO]] 科学人道主义与 [[Comparative Education Society in Europe|CESE]] 成立** 随着 Lauwerys 等人的推动，理性主义以国际大学建制和欧洲学术交换为载体，在冷战对峙缝隙中搭建制度化合作桥梁。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
+> - **1950s–1970s — [[UNESCO]] 科学人道主义与 [[Comparative Education Society in Europe|CESE]] 成立** 随着 Lauwerys et al. 的推动，理性主义以国际大学建制和欧洲学术交换为载体，在冷战对峙缝隙中搭建制度化合作桥梁。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 > - **2000s 至今 — 新自由主义软治理与数据流变** [[PISA]] 基准测试全面崛起，比较教育演变为“[[Governing at a Distance|远处治理]]模式”；[[Actor-Network Theory|ANT]] 理论被引入解析[[Policy Entrepreneur|政策企业家]]与 [[Travelling Policy|travelling policies]] 的网格化交互。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
 
 ---

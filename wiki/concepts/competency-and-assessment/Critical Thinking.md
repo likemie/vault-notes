@@ -265,7 +265,7 @@ updated: 2026-10-22
 > **显性教学与复合策略优势** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] [[Meta-analysis\|元分析]]证实显性[[Blended Learning\|混合教学]]模式（独立思维教学 + 学科融入）显著优于单纯隐性沉浸模式；同时，将[[Authentic Instruction\|真实性教学]]（应用型解题与[[Role-playing\|角色扮演]]）、深度对话与导师指导整合的三维复合干预产生最高增益，揭示了显性示范、情境锚定与过程[[Scaffolding\|脚手架]]的协同机制。Abrami et al. (2008) 早期元分析与 Behar-Horenstein and Niu (2011) 高教干预[[Systematic Review\|系统综述]]亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials\|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 33)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
-> **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250, 255–259)]]
+> **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole et al. 的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250, 255–259)]]
 
 > [!claim] Güngör, S., et al.
 > **同伴互动与社会建构促进** [[Meta-meta-analysis|二阶元分析]]表明，[[Cooperative Learning|合作学习]]（CL）对涵盖批判性思维的[[Higher-Order Thinking Skills|高阶思维技能]]（HOTS）具有强劲的促进效应，高于常规[[Academic Achievement|学业成就]]与[[Affective Outcomes|情感行为]]。其核心机制在于[[Heterogeneity|异质性]]同伴在面对面互动中必须阐明推理依据、处理认知冲突并协商达成共识，从社会交往层面直接激发了深度批判性反思。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 8–9)]]

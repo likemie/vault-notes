@@ -288,7 +288,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知与制度转译命题** | 阐明边界跨越者运用双重[[Language Skills\|语言能力]]弥合异质系统认知鸿沟、缓冲制度摩擦的运作机制 | 产学合作技术对接、教育学术文献向课堂工具转译 | Aldrich and Herker (1977); Boccanfuso and Hall (2025); Akkerman and Bakker (2011) |
-> | **社会资本与信任命题** | 揭示跨界协作的长期维系依赖于中介者对关系的专门认领与多边信任培育 | 产学长期联盟管理、学区与大学战略伙伴关系（[[Research-Practice Partnership\|RPP]]） | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; Carol Campbell 等 |
+> | **社会资本与信任命题** | 揭示跨界协作的长期维系依赖于中介者对关系的专门认领与多边信任培育 | 产学长期联盟管理、学区与大学战略伙伴关系（[[Research-Practice Partnership\|RPP]]） | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; Carol Campbell et al. |
 > | **共创能动性命题** | 论证中介角色从单向线性传递向双向协同探究与共创编排的[[Paradigm\|范式]]转变 | 全系统知识动员战略、校本[[Inquiry Cycle\|探究循环]]、产学联合研发 | [[Julie Nelson]] 等; Cooper et al. (2017); Malin and Brown (2019) |
 > | **行政集聚与实践赤字命题** | 揭示跨界中介角色在政策制定端（73%）与学校实践端（32%）设立的非对称失衡 | 跨国[[Evidence Ecosystem\|教育证据生态系统]]比较、循证治理资源配置 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] |
 > | **网络架构重塑命题** | 论证公共代理人凭借技术权威与网络可塑性超越消极边界跨越，演化为重塑网络拓扑的系统集成者 | 前沿颠覆性硬科技攻坚、纵向碎片化产业共性技术平台协同 | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] |

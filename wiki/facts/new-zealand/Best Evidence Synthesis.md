@@ -136,7 +136,7 @@ updated: 2026-10-22
 
 > [!stat-cards]- 标志性产出与规模指标
 > - **4** 国际公认的划时代教育迭代综合专著（部；优质教学、家校合作、教师发展、[[School Leadership\|学校领导力]]）
-> - **0.42** Robinson 等人测算的教学型领导对学生学习成果的平均效应量（$d$）
+> - **0.42** Robinson et al. 测算的教学型领导对学生学习成果的平均效应量（$d$）
 >
 > > [!feature] 数十
 > > “行动中的证据”课堂实景教学微视频与本土实践案例库（部）
@@ -172,7 +172,7 @@ updated: 2026-10-22
 > |:---|:---|:---|
 > | [[Educational Brokerage Agency]] | Concept | 本项目所归属的核心组织概念（部委嵌入型中介机构典范）。 |
 > | [[Evidence-Informed Practice]] | Concept | 本项目在国家层面力求推进的实践[[Paradigm\|范式]]。 |
-> | [[Instructional Leadership]] | Concept | Robinson 等人通过 BES 报告在全球确立的核心领导力形态。 |
+> | [[Instructional Leadership]] | Concept | Robinson et al. 通过 BES 报告在全球确立的核心领导力形态。 |
 > | [[Viviane Robinson]] | Person | 主持领导力 BES 迭代研究的代表性学者。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 与 BES 并列的早期循证中介先驱机构，代表官方外包型因果清算模式。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国[[Systematic Review\|系统综述]]先驱，与 BES 形成“大学学术中介 vs 部委嵌入中介”的鲜明对比。 |

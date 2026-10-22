@@ -89,7 +89,7 @@ updated: 2026-10-22
 > - **中期 — 思想市场与教育智库政治学** 系统研究教育政策智库（Cato Institute, Heritage Foundation, [[Thomas B. Fordham Institute]] 等）如何生产、包装与推销契合意识形态目标的"研究证据"。
 >   - **代表著作** "Advocacy Organizations and the Politics of Information in Education Policy" (*Peabody Journal of Education*, 2014); *Thinking for a Living: Think Tanks, the Policy Process, and the Case of Education Reform* (series articles, 2019)。
 >   - **关键概念** Marketplace of Ideas、智库（Think Tanks）、Policy Advocacy Research、[[Surplus of Evidence]]中介化。
->   - **阶段转向** 建立对政策[[Knowledge Production\|知识生产]]政治经济学的系统批判框架，为 Steiner-Khamsi 等人的"证据过剩"分析提供了重要经验基础。
+>   - **阶段转向** 建立对政策[[Knowledge Production\|知识生产]]政治经济学的系统批判框架，为 Steiner-Khamsi et al. 的"证据过剩"分析提供了重要经验基础。
 > - **近期 — 跨国[[Policy Borrowing\|政策借用]]中的智库网络与信息孤岛** 探索跨国右翼智库网络如何跨越国界协调传播意识形态政策处方，以及"信息孤岛"（Information Silos）如何加速极化政策环境中的知识碎片化。
 >   - **关键概念** Information Silos、Transnational [[Policy Network\|policy networks]]、[[Policy Borrowing]]的意识形态性。
 

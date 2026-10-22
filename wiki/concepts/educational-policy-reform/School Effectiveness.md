@@ -215,7 +215,7 @@ updated: 2026-10-22
 > [!claim|notitle]
 > **两类效能研究的范畴谬误与结构性责任隐匿** [[Ivan Snook|斯努克]]等人指出，正统学校效能研究与[[John Hattie|约翰·哈蒂]]（John Hattie）在证据解读中犯下了严重的范畴谬误（Category Mistake）：它们将第一类效能研究（探讨在学生背景同质的前提下，校内教师如何改进教学）的发现，非法外推至第二类效能研究（探讨学校能否克服社会不平等）。大量实证研究（如英国 Gray et al., 1986；新西兰 Harker, 1995）表明，学生家庭背景（[[Socioeconomic Status|SES]]）解释了 70%–80% 的学业总方差，校际净效能差异仅占约 8%–10%。哈蒂与新自由主义政策制定者借“校内教师差异大于校际差异”为由，宣称学校和教师能够单凭教学效能克服贫困，本质上是在用微观教学参数掩盖宏观社会不平等的决定性影响，为政府削减教育经费、推卸社会再分配责任提供了实证借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 
-> [!citation-card] Snook 等论学校效能研究的两类范式与范畴谬误
+> [!citation-card] Snook et al. 论学校效能研究的两类范式与范畴谬误
 > 混淆‘第一类学校效能研究’（探讨给定学生背景下如何改进教学）与‘第二类学校效能研究’（探讨学校能否克服宏观社会不平等）构成了根本性的范畴谬误。实证证据证实，社会背景解释了 70%–80% 的学业方差，校际差异至多占 8%–10%。宣称教师可以单枪匹马消除阶层差距，是为政府推卸社会反贫困责任提供实证借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 >
 > *“Conflating Type 1 school effectiveness research (how to improve schooling given a student body) with Type 2 research (whether schools can overcome social inequalities) commits a serious category mistake... Socioeconomic background [[Accounts]] for 70–80% of achievement variance.”*

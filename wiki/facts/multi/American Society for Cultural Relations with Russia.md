@@ -4,7 +4,7 @@ aliases:
   - 美国对俄文化关系协会
   - ASCRR
   - 美苏文化交流协会
-summary: "1927年前后在美成立的民间文化交流组织，John Dewey 任副主席，以书籍期刊交换为核心活动，1928年组织了 Dewey 等25名美国教育者的访苏之行，后被反共势力指控为共产党的外围宣传组织"
+summary: "1927年前后在美成立的民间文化交流组织，John Dewey 任副主席，以书籍期刊交换为核心活动，1928年组织了 Dewey et al. 25名美国教育者的访苏之行，后被反共势力指控为共产党的外围宣传组织"
 type: fact
 subtype: organization
 region: multi

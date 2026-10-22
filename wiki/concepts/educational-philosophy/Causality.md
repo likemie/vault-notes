@@ -245,7 +245,7 @@ updated: 2026-10-22
 > 从微观单项实验的因果识别到宏观政策采纳，必须跨越[[Research Synthesis|证据综合]]与[[Construct Validity\|构念效度]]的双重门槛。
 
 > [!claim] [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]]
-> **因果有效性的综合门槛割裂** [[Internal Validity\|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa 等人揭示，由于不同清算机构在 **[[Evaluator Independence\|独立评估者]]复制**、**12 个月[[Fade-out Effect\|持续效果]]** 及 **[[Iatrogenic Effects in Education\|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials\|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 26)]]
+> **因果有效性的综合门槛割裂** [[Internal Validity\|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa et al. 揭示，由于不同清算机构在 **[[Evaluator Independence\|独立评估者]]复制**、**12 个月[[Fade-out Effect\|持续效果]]** 及 **[[Iatrogenic Effects in Education\|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials\|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 26)]]
 
 ---
 

@@ -133,7 +133,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Higgins 等对 17 项早期试验的复算如何揭示模型依赖性，并催生《EEF 评估统计分析指南》（2018）。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Higgins et al. 对 17 项早期试验的复算如何揭示模型依赖性，并催生《EEF 评估统计分析指南》（2018）。
 > - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size\|效应量]]排序混淆了试验敏感度操纵与教学有效性。
 
 ---

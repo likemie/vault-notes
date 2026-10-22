@@ -122,7 +122,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究
 > - [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
-> - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 探讨将实验科学的[[Mechanism Experiments\|机制实验]]与 Bryk 等的改进科学进行双向整合，作为 “什么有效 2.0” 的底层基础。
+> - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 探讨将实验科学的[[Mechanism Experiments\|机制实验]]与 Bryk et al. 的改进科学进行双向整合，作为 “什么有效 2.0” 的底层基础。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 引用 NICs 作为超越传统 [[Evidence-Based Education\|EBE]] “单一平均[[Effect Size\|效应量]]” 压制、开展情境化民主探究的重要替代方案。
 
 ---

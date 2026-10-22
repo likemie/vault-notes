@@ -303,7 +303,7 @@ updated: 2026-10-22
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019]] — 从[[Niklas Luhmann\|卢曼]]系统论与[[Structural Coupling\|结构耦合]]视角为 Hattie 辩护，批判意识形态解释社群。
 > - [[Argument_Golovchin_2019_ESC\|Golovchin, 2019]] — 变差系数（56.87%）与极端离散度检验：解构 $d=0.40$ 基准有效性，警示脱离教师地位与生源条件的机械实证排名风险。
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]] — 审视英国教育政策将 Hattie 列为官方认可证据来源的治理效应。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 揭示北欧五国政策咨询网络在法定规制阶段对 Hattie 等学术明星的海量引文过滤。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 揭示北欧五国政策咨询网络在法定规制阶段对 Hattie et al. 学术明星的海量引文过滤。
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]] — 从[[Critical Theory|批判理论]]视角剖析 Hattie 理论核心的[[Positivism|实证主义]][[Technical Rationality|技术理性]]，揭示其流行实质在于化解晚期现代教育系统的[[Legitimation Crisis|合法化危机]]。
 
 ---
@@ -340,7 +340,7 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **师承与学术合作关系** [[Herbert Walberg]]（合作综合 226 项[[Meta-analysis|元分析]]检验[[Walberg's Educational Productivity Model|教育生产力模型]]）；[[John Biggs]]（合作开展学习技能干预[[Meta-analysis|元分析]]）；Helen Timperley（合作发表反馈元分析）；Gregory Yates（合作撰写认知学习科学专著）；Tanja Jansen 与 Jens Möller 等（合作开展基于 Meta-X 数据库的大模型[[Automated Data Extraction|自动化数据提取]]评测）。
 > - **继承者与本土化转译者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard（斯堪的纳维亚本土化引介与转译，运用系统论为可见学习辩护）；Deb Masters（[[Visible Learning]] 教师培训实施与全球实践案例库联合编著者）。
-> - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定[[Meta-meta-analysis|二阶元分析]]不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal 等人（针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
+> - **统计方法学审查者** [[Christof Wecker]] 等人（推导两级[[Fixed-Effect Model|固定效应]]代数等价性，实证判定[[Meta-meta-analysis|二阶元分析]]不可行）；[[Pierre-Jérôme Bergeron]] 与 Lysanne Rivard（揭示 [[Common Language Effect Size|CLES]] 负概率、基线反转与公式颠倒，定性为伪科学纸牌屋）；Kalmendal et al. （针对 322 个因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，证实数据提取复现率仅 0.66%）。
 > - **新西兰论战与政策批判者** [[Ivan Snook]]、John Clark、[[John O'Neill]]、Roger Openshaw（新西兰论战首发批判团队，质询二阶元分析质控缺位、截断值武断性与生源归因偏误）；[[Gerald Grace]]（批判学者良知角色与技术辩护矛盾）；[[Scott Eacott]]、McKnight & Whitburn（批判澳大利亚[[School Leadership|学校领导力]]的[[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]]规训）。
 > - **教育哲学与教化传统反思者** [[Ewald Terhart]]（指出理论教化实质真空、双向可见性的福柯式全景规训与修补金字塔双重困境）；[[Steen Nepper Larsen]]（从[[Phenomenology|现象学]]自由批判观看盲视并主张 [[Bildung]] 替代）；[[Klaus Nielsen]] & Jørgen Klitmøller、[[Thomas Aastrup Rømer]]（从[[Jürgen Habermas|哈贝马斯]][[Critical Theory|批判理论]]揭示[[Technical Rationality|技术理性]]的[[Legitimation Crisis|合法化危机]]）。
 > - **依托机构与跨国[[Policy Network|政策网络]]** [[Visible Learning]]（核心学术成果体系）；[[Visible Learning Meta-X]]（底层元分析汇聚数据库）；[[Cognition Education]]（全球教师培训商业化特许运营商）；[[Australian Institute for Teaching and School Leadership|AITSL]]（担任董事会主席并推动嵌入国家专业标准）；[[Evidence for Learning]]（E4L 学校专家咨询委员会主席）；新西兰教育部（[[Assessment Tools for Teaching and Learning|asTTle]] 委托开发）；[[Education Endowment Foundation|EEF]]（英澳循证证据工具箱）。
@@ -381,7 +381,7 @@ updated: 2026-10-22
 > >   - *公式选择颠倒排名*：受控数值模拟证实组间净差异、组内增长与相关转化三类合法公式对相同数据产出截然相反的排名，排行榜仅反映公式选择而非干预优劣；
 > >   - *相关换算极值发散*：$r \to d$ 换算在 $r \to 1$ 时急剧发散，仅需 $r=0.196$（仅解释 3.85% 方差）即可虚增至 $d=0.40$ [[Zone of Desired Effects|期望效应区]]，将横向相关包装为因果干预。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–246)]]
 > > - **Golovchin** 对 133 项正向效应量开展变差系数（$V_\sigma$）检验，发现总体变差系数高达 56.87%（学生特征 71.24%、学校环境 65.97%），证实效应量呈极端不均匀分布，$d=0.40$ 无法充当普遍有效的因果基准线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
-> > - **Kalmendal 等人** 开展针对全库 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在所引文献中完全不存在，实证瓦解了聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+> > - **Kalmendal et al.** 开展针对全库 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，证实仅 19% 满足 [[PICO Framework|PICO]] 纳入基准，仅 0.66%（2 项）可完全复现数据提取，44% 报告的效应量在所引文献中完全不存在，实证瓦解了聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control|控制社会]]背景后边际效应骤降，[[Whole Language|全语言]]案例审查揭示出分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL|(O'Connor, 2020)]]
 > > - **Terhart 提出[[Stability vs. Variability Dilemma|双重困境模型]]** 针对二阶元分析的累加逻辑提出“稳定性假说与变异性假说”双重困境：[[Effective Teaching|有效教学]]因素仅能渐近逼近教科书已知常识而缺乏知识增量，特定关键领域又因文献陈旧被最新实证（如 [[COACTIV]] 证实教师专业知识关键性）推翻，论证巨型综合陷入了修补金字塔困境。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
@@ -389,8 +389,8 @@ updated: 2026-10-22
 > > 质询其对教师专业主体的技术化规训、知识产权商业化转化机制以及在国家主权规制中的治理边界。
 > >
 > > - **Eacott 以及 McKnight and Whitburn** 定性其为[[Neo-Taylorism|新泰勒主义]]监控与“[[Cult of the Guru|大师崇拜]]”，将微观教学拆解为原子化可测量单元，以进步主义修辞包装[[Positivism|实证主义]]考核与新自由主义问责。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
-> > - **O'Neill 等人以及 Johnson and Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] [[Dual-Entity Legal Structure|双层法人架构]]在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间的无缝切换，披露其 5 年间获取 86.9 万新西兰元版税并享有免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
-> > - **Steiner-Khamsi 等人** 揭示跨国政策中介的制度落差：在北欧政策咨询网络中，专家咨询报告虽高频引用哈蒂，但在法定行政法令阶段被清洗过滤超 95%，个体学术明星威权远逊于 [[OECD]] 等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> > - **O'Neill et al. 以及 Johnson and Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] [[Dual-Entity Legal Structure|双层法人架构]]在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间的无缝切换，披露其 5 年间获取 86.9 万新西兰元版税并享有免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+> > - **Steiner-Khamsi et al.** 揭示跨国政策中介的制度落差：在北欧政策咨询网络中，专家咨询报告虽高频引用哈蒂，但在法定行政法令阶段被清洗过滤超 95%，个体学术明星威权远逊于 [[OECD]] 等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > > [!axis] 教育哲学审视：[[Technical Rationality|技术理性]]、盲视框架与 [[Bildung]] 替代
 > > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性[[Screening Off|屏蔽]]。

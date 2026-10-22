@@ -93,7 +93,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚与英国著名教育政策社会学家，澳大利亚社会[[Chinese Academy of Sciences|科学院]]院士（Fellow of the Academy of the Social Sciences in Australia, FASSA）。曾任英国爱丁堡大学教育政策讲席教授（Chair of Education）、澳大利亚昆士兰大学教育学院教授，现为昆士兰大学荣誉教授。
 > - **核心角色** 批判性全球教育政策社会学（Critical Sociology of Global Education Policy）的核心开拓者之一。与[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）长期深度合作，在[[International Education|国际教育]]治理、政策[[Discourse Analysis|话语分析]]与量化治理研究中承担枢纽节点功能，系统揭示跨国组织如何借助软法、统计指标与[[Social Imaginary|社会想象]]重塑民族[[State Educational Sovereignty|国家教育主权]]。
-> - **代表贡献** 与 Rizvi 等合著里程碑专著《[[OECD|经合组织]]、全球化与教育政策》（Henry et al., 2001）与《全球化教育政策》（Rizvi & Lingard, 2010）；提出并系统阐释[[Knowledge-Based Economy|知识经济]]社会想象在教育治理中的物化机制（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009)]]）；系统解构以[[PISA]]为核心的数字即政策（policy as numbers）、跨国[[Space of Equivalence|等值空间]]与远处掌舵治理技术。
+> - **代表贡献** 与 Rizvi et al. 合著里程碑专著《[[OECD|经合组织]]、全球化与教育政策》（Henry et al., 2001）与《全球化教育政策》（Rizvi & Lingard, 2010）；提出并系统阐释[[Knowledge-Based Economy|知识经济]]社会想象在教育治理中的物化机制（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009)]]）；系统解构以[[PISA]]为核心的数字即政策（policy as numbers）、跨国[[Space of Equivalence|等值空间]]与远处掌舵治理技术。
 
 > [!citation-card] 林加德论全球教育政策[[Champ|场域]]的自主性建构
 > 全球教育政策场域并不是独立于主权国家的虚无空间，而是由超国家组织、国际指标体系与国家官僚机构在多层网络中共同织就的治理网络。在这一场域中，数字与比较被赋予了前所未有的权威，使得远离具体课堂的技术官僚能够以客观科学之名，对各国的课程标准、教学形态与教育价值实施远处调控。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–447)]]

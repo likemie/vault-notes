@@ -142,7 +142,7 @@ updated: 2026-10-22
 > 探讨抽象概念如何通过具身与情境化的锚定转化为可操作的思考工具。
 
 > [!claim] Abrami, P. C., et al.; [[John Dewey\|Dewey, J.]]
-> **真实情境转化概念为思维工具** [[John Dewey\|杜威]]（John Dewey）批评脱离情境的[[Rote Learning\|死记硬背]]使学生无法理解事实的真实意义，主张必须将知识置于对学生而言真实的探究情境中。Abrami 等人进一步指出，通过将复杂概念锚定在应用型[[Problem Solving\|问题解决]]、[[Role-playing\|角色扮演]]或情境模拟中，学生得以在处理真实阻碍的过程中经历假设检验与证据权衡，从而使抽象认知技能获得生动的运用载体。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
+> **真实情境转化概念为思维工具** [[John Dewey\|杜威]]（John Dewey）批评脱离情境的[[Rote Learning\|死记硬背]]使学生无法理解事实的真实意义，主张必须将知识置于对学生而言真实的探究情境中。Abrami et al. 进一步指出，通过将复杂概念锚定在应用型[[Problem Solving\|问题解决]]、[[Role-playing\|角色扮演]]或情境模拟中，学生得以在处理真实阻碍的过程中经历假设检验与证据权衡，从而使抽象认知技能获得生动的运用载体。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
 
 ### 命题二　真实性教学与对话及导师指导的协同整合产生最大干预效应
 
@@ -157,7 +157,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **20 世纪初 — [[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]教育哲学** 杜威提出“[[Learning by Doing\|在做中学]]”与真实探究思想，批判脱离情境的符号灌输，强调学校应提供真实生活经验。
 > - **1990 年代 — [[Anchored Instruction\|抛锚式教学]]与[[Situative Perspective\|情境认知]]理论** 范德堡认知与技术小组（CTGV）提出[[Anchored Instruction\|抛锚式教学]]，利用多媒体故事生成真实问题锚点，推动情境学习理论发展。
-> - **2010 年代至今 — [[Critical Thinking\|批判性思维]]干预实证综合** Abrami 等人将真实性/抛锚式教学提炼为批判性思维教学的三大[[Central Phenomenon\|核心范畴]]之一，通过大规模[[Meta-analysis\|元分析]]确立了其在实证干预中的关键地位。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
+> - **2010 年代至今 — [[Critical Thinking\|批判性思维]]干预实证综合** Abrami et al. 将真实性/抛锚式教学提炼为批判性思维教学的三大[[Central Phenomenon\|核心范畴]]之一，通过大规模[[Meta-analysis\|元分析]]确立了其在实证干预中的关键地位。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
 
 ---
 

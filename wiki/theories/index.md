@@ -61,7 +61,7 @@ Total entries: **243**
 > - [[Ecology of the Brain]] — 托马斯·福克斯提出的生态身体现象学与生物学理论，将大脑界定为嵌入在生命有机体整体及其社会文化生活世界中的“无指挥的交响乐团”与“关系中介器官”，从根本上瓦解笛卡尔式心脑二元论与神经还原论。
 > - [[Epistemic Injustice]] — 由 Miranda Fricker (2007) 开创的批判性社会认识论理论，指个体或群体在作为求知者（knowers）的身份上所遭受的系统性损害与特权剥夺，核心涵盖证词不正义、诠释不正义以及教育领域的成长性认识不正义。在智能求知时代，该理论揭示了大模型语料偏倚与平台垄断对边缘群体认识主体性与知识多样性的隐蔽侵害。
 > - [[Formative Epistemic Injustice]] — 由 Martin (2018) 初创、Nikolaidis (2021) 扩展并由 Smith (2026) 操作化推进的教育哲学与社会认识论理论，揭示教育制度安排或技术代劳对未成年人在求知者形成期的认知发展权造成的根本侵害，核心涵盖知识传递阻断、技能实践剥夺与信度认知失真三重检验维度。
-> - [[Goldman's Discrimination Theory of Knowledge]] — 由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam 等人引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。
+> - [[Goldman's Discrimination Theory of Knowledge]] — 由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam et al. 引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。
 > - [[Law of Requisite Variety]] — 英国控制论学者罗斯·阿什比提出的控制论奠基性法则，指出控制系统的内部多样性必须至少等于或大于被控制系统的扰动多样性方能维持有效调控；在公共治理与教育组织中，该法则揭示了单一中心自上而下的科层规制因无法穷举专业网络的内在复杂性而陷入多样性赤字与必然失灵，为远距离操纵与去中心化自组织调节提供了控制论认识论基础。
 > - [[Luhmann's Systems Theory]] — 将社会理解为由自创生沟通构成的功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、系统结构联结与盲点机制揭示观察界限与自适应生态演化。
 > - [[Panopticism]] — Foucault 基于 Bentham 全景监狱隐喻提出的现代权力理论，揭示权力如何通过可见性非对称与潜在被注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控
@@ -224,7 +224,7 @@ Total entries: **243**
 
 > [!index-list]- Research Methodology (12)
 > - [[Absolutist and Relativist Ethics]] — 研究伦理中两种对立的元立场：绝对主义坚持清晰固定的原则应无一例外地指导研究者行为；相对主义认为伦理考量应源于具体研究情境，不存在可普遍适用的绝对准则
-> - [[Campbellian Validity Framework]] — Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。
+> - [[Campbellian Validity Framework]] — Donald Campbell et al. 创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。
 > - [[Cartwright's Three-Stage Knowledge Framework]] — RCT 证据外推的三阶段模型：it-works-somewhere → capacity claims → it-will-work-for-us，揭示因果机制知识在证据外推中的关键作用
 > - [[Central Limit Theorem]] — 概率论核心定理，指从任何总体中反复抽取等大随机样本时样本均值趋近正态分布，且样本均值的均值逼近总体均值，是抽样误差理论和统计推论的数学基础
 > - [[Classical Test Theory]] — 将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架

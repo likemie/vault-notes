@@ -110,7 +110,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜（双层演进脉络）
 > - **第一部分：哲学层面（杜威等）** 先完整回答[[Epistemology|认识论]]与探究论问题，将真理定义为情境行动中经受检验的有效后果与“担保性断言”，强调渐进实验与试错。
-> - **第二部分：方法论层次（Creswell/Morgan 等）** 再延伸解答研究设计与技术选择自由，打破库恩[[Incommensurability|范式不可通约性]]（Incommensurability）迷信，为整合量化与质性数据提供合法性。
+> - **第二部分：方法论层次（Creswell/Morgan et al.）** 再延伸解答研究设计与技术选择自由，打破库恩[[Incommensurability|范式不可通约性]]（Incommensurability）迷信，为整合量化与质性数据提供合法性。
 > - **边界** 实用主义不是无原则的“怎么都行”（Anything Goes）；它在哲学层面受限于历史社会情境，在方法论层面要求严格服务于回答研究问题。
 
 > [!citation-card] 实用主义以实践问题驱动超越形而上学体系

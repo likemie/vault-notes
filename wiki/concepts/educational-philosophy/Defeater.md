@@ -58,7 +58,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性假设的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski 等转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
+> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性假设的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski et al. 转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指能够瓦解原主张确证基础的反向证据、冲突事实或逻辑漏洞，展现了人类[[Knowledge Building Theory|知识建构]]与信念更新的可撤销性本质。

@@ -201,7 +201,7 @@ updated: 2026-10-22
 > - **1980s — Schön [[Reflexivity|反思性]]实践与问题重构** 唐纳德·A·舍恩（[[Donald A. Schön]]）提出实践者面对沼泽地般的复杂实践情境时，必须具备“行动中反思”的批判立场，奠定了分析立场的[[Epistemology|认识论]]根基。
 > - **2000s — Cochran-Smith 探究作为立场（Inquiry as Stance）** 玛丽莲·科克伦-史密斯（Marilyn Cochran-Smith）提出将探究内化为教师专业生活的基本立场，坚决反对将教育研究仅视作外部技术工具。
 > - **2004–2009 — Kamat 与 Arnove 拓展至宏观治理与民间社会批判** 将分析立场从微观循证教学扩展至[[International Education|国际教育]]政治经济学领域，揭示民间组织若丧失分析立场将面临沦为[[Shadow State|影子国家]]的体制异化危机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
-> - **2016 — O'Neill 等人将分析立场拓展为穿透隐性私有化的制度屏障** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立[[Educational Privatisation|教育私有化]]的实证解剖，将分析立场确立为公立学校教育者、校董会与公民社会识别商业中介与[[Policy Entrepreneur|政策企业家]]修辞、穿透 [[Educational Management Organisation|EMO]] 资本网络并捍卫代议制民主受托责任的核心防线。
+> - **2016 — O'Neill et al. 将分析立场拓展为穿透隐性私有化的制度屏障** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立[[Educational Privatisation|教育私有化]]的实证解剖，将分析立场确立为公立学校教育者、校董会与公民社会识别商业中介与[[Policy Entrepreneur|政策企业家]]修辞、穿透 [[Educational Management Organisation|EMO]] 资本网络并捍卫代议制民主受托责任的核心防线。
 > - **2017 — Carrier 与 Nelson & Campbell 确立针对证据审验的分析立场** 针对教育[[Research Utilization|证据使用]]生态中的[[Persuasive Communication in Education|说服性修辞]]泛滥，系统将“分析立场”界定为教师甄别研究质量、抵御商业化教育时尚的核心认知防线。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---

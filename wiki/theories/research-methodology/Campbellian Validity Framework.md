@@ -5,7 +5,7 @@ aliases:
   - 坎贝尔效度体系
   - 坎贝尔因果推断框架
   - Campbellian Validity
-summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
+summary: "Donald Campbell et al. 创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 51

@@ -168,7 +168,7 @@ updated: 2026-10-22
 > > 探讨强制转让专有技术是否侵蚀企业的原发性研发动力。
 > >
 > > - **产权保护派批评** 认为强制向直接竞争对手移交核心工艺削弱了先发企业承担极早期高额 R&D 投资的预期回报，可能诱发行业内部的“搭便车”（Free-rider）投机行为。
-> > - **[[Evolutionary Economics|演化经济学]]派辩护** Mowery 等演化经济学者指出，军品采购给予了极其丰厚的高溢价合同与规模化首发订单，完全足以补偿先发者的研发开支；而第二货源机制带来的全行业知识外溢与动态竞争，最终反哺了整个[[Technological Trajectories|技术轨道]]的爆发式演进。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 34)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–168)]]
+> > - **[[Evolutionary Economics|演化经济学]]派辩护** Mowery et al. 演化经济学者指出，军品采购给予了极其丰厚的高溢价合同与规模化首发订单，完全足以补偿先发者的研发开支；而第二货源机制带来的全行业知识外溢与动态竞争，最终反哺了整个[[Technological Trajectories|技术轨道]]的爆发式演进。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 34)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–168)]]
 
 > [!warning] 适用局限
 > 第二货源机制仅在政府作为占支配地位的核心采购客户、且技术处于物理和工艺标准未定型的早期阶段时最为有效。当民用商业市场规模远超政府采购（如 1970 年代后集成电路军购降至 10% 以下）、或者产品设计高度复杂且受严密专利丛林保护时，政府强制推行第二货源将遭遇强烈的法律与市场阻力。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 33–34)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–182)]]

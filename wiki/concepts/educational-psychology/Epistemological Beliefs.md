@@ -97,7 +97,7 @@ updated: 2026-10-22
 > - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct\|构念]]升级为更具内部连贯性的“[[Epistemological Theories\|认识论理论]]（epistemological theories）”。
 > - **2004 年 — 网络学习环境与信念双向重塑假说** [[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）系统提出网络环境认识论信念假说，指出认识论信念不仅调节网络信息搜寻策略，开放的超媒体环境在支架引导下更能逆向重塑个体的认识论信念。
 > - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement\|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization\|学科社会化]]双重机制。
-> - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene 等人提出整合性的 [[Epistemic and Ontological Cognition\|EOC]] 模型，将对“[[Certainty of Knowledge\|知识的确定性]]与简单性”的信念重新界定为“[[Ontology\|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling\|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
+> - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene et al. 提出整合性的 [[Epistemic and Ontological Cognition\|EOC]] 模型，将对“[[Certainty of Knowledge\|知识的确定性]]与简单性”的信念重新界定为“[[Ontology\|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling\|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
 > - **2021 年 — [[Meta-analysis\|元分析]]证实聚焦证据确证模型的干预优势** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过认识论干预元分析证实，基于多维信念模型与证据协调等聚焦知识本质与确证机制的现代模型干预能产生中等以上提分效果（$d \approx 0.63$），而基于 Schommer 宽泛认知信念模型的干预则无显著效果（$d = 0.185$），为构念边界净化提供了因果实证支持。
 > - **2025 年 — [[Generative Artificial Intelligence\|生成式人工智能]]与[[Man-Computer Symbiosis|人机共生]]认识理论升级** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论信念理论升级为人机共生自适应[[Epistemic Stances\|认识立场]]框架，揭示绝对主义、相对主义与评价主义认识论信念在与大语言模型交互中对[[Cognitive Offloading\|认知卸载]]性质的决定性分化作用。
 
@@ -154,7 +154,7 @@ updated: 2026-10-22
 > 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
 
 > [!claim] [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]
-> **多维阶段融合模型与领域特殊性** Greene 等人提出整合性的[[Epistemic and Ontological Cognition\|认识论与本体论认知]]（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“[[Simplicity of Knowledge\|知识的简单性]]与确定性”属于[[Ontology\|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling\|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（现实主义者、教条主义者、怀疑论者、理性主义者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, pp. 245-247)]]
+> **多维阶段融合模型与领域特殊性** Greene et al. 提出整合性的[[Epistemic and Ontological Cognition\|认识论与本体论认知]]（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“[[Simplicity of Knowledge\|知识的简单性]]与确定性”属于[[Ontology\|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling\|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（现实主义者、教条主义者、怀疑论者、理性主义者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, pp. 245-247)]]
 
 ---
 

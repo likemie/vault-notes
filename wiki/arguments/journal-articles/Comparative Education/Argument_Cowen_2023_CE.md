@@ -252,7 +252,7 @@ citation_aliases:
 
 > [!dimension] 学术界中长期并存的四种理解形式
 > - **历史与情境的相似与差异比较（求同存异）**
->   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 [[Isaac Kandel\|Isaac Leon Kandel]]、[[Nicholas Hans]] and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
+>   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 [[Isaac Kandel\|Isaac Leon Kandel]]、[[Nicholas Hans]] and Andreas Kazamias et al.。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
 > - **[[Convergence Theory in Comparative Education\|趋同理论]]与同构（Convergence Theory）**
 >   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey et al., 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
 > - **作为实用工具的[[Policy Science in Comparative Education\|政策科学]]（Policy Science）**

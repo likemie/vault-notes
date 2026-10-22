@@ -45,7 +45,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 方法定义
-> 非引导性访谈（Non-directive Interview）源自 Freud 开创的精神病学与治疗领域，后经 Rogers 等人的修正。其核心特征是**受访者负责启动和引导遭遇的进程以及在其中表达的态度**，访谈者施加最少的方向或控制。受访者能够尽可能完整和自发地表达主观感受，而访谈者的角色是接纳、澄清和反映，而非引导和提问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 467–468]]）。
+> 非引导性访谈（Non-directive Interview）源自 Freud 开创的精神病学与治疗领域，后经 Rogers et al. 的修正。其核心特征是**受访者负责启动和引导遭遇的进程以及在其中表达的态度**，访谈者施加最少的方向或控制。受访者能够尽可能完整和自发地表达主观感受，而访谈者的角色是接纳、澄清和反映，而非引导和提问（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 467–468]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体的深层态度、情感、潜意识需求和个人意义建构。

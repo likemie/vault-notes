@@ -175,7 +175,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **2000 — 主客观双维协调模型提出** [[Deanna Kuhn]] 等人发表里程碑研究，确立了绝对论、多元论与评价论的三阶段发展架构，并通过 15 题跨领域评估工具证实了领域不对称发展序列。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000)]]
 > - **2011–2014 — 融入扩展[[Epistemic Cognition\|认识论认知]]构件** [[Clark A. Chinn]] 等学者在 [[AIR Model of Epistemic Cognition\|AIR]] 理论模型中，将[[Epistemology\|认识论]]理解与[[Epistemic Aims\|认识目标]]、[[Epistemic Ideals\|认识理想]]及[[Reliable Epistemic Processes\|可靠过程]]紧密链接，强调探究中对规范性标准的理性觉知。
-> - **2018 — 大规模实证测量效度确立** Greene 等人开展大规模[[Meta-analysis\|元分析]]，证实认识论理解量表（EUI）能够稳健预测学生的[[Academic Achievement\|学业成就]]（$r = .242$），量化验证了认识论成熟对学习结果的促进作用。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
+> - **2018 — 大规模实证测量效度确立** Greene et al. 开展大规模[[Meta-analysis\|元分析]]，证实认识论理解量表（EUI）能够稳健预测学生的[[Academic Achievement\|学业成就]]（$r = .242$），量化验证了认识论成熟对学习结果的促进作用。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 > - **2025 — 学科探究实践中的元认识论[[Operationalization\|操作化]]** Duncan & Chinn 进一步将认识论理解区分为认知执行与元认识论反思，确立了理解因果机理与边界条件在科学论证评价中的核心地位。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
 
 ---

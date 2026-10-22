@@ -231,7 +231,7 @@ updated: 2026-10-22
 > *Initially meant to strengthen knowledge production at the country level – as opposed to knowledge production in the headquarters – to strengthen the [[Research Utilization|Use of Research Evidence]] for policy decisions, the Global Development Network lost its great promise and was eclipsed by numerous other centrally administered initiatives (such as SABER in the education sector).*
 
 > [!warning] 概念局限
-> “知识银行”最初是戴安娜·斯通（Stone, 2000）在相对中性的制度分析语境下提出的描述性概念；后续批判比较教育学者（如 Steiner-Khamsi 等）在使用时赋予了其更强的认识论规训批判意涵，而圈内实务分析者（如 Castro, 2009）则将其作为反思贷款资金与纯智库咨询关系的现实主义锚点。读者在使用该概念时，应清晰辨别批判治理视角与金融实务视角之间的语境差异。
+> “知识银行”最初是戴安娜·斯通（Stone, 2000）在相对中性的制度分析语境下提出的描述性概念；后续批判比较教育学者（如 Steiner-Khamsi et al.）在使用时赋予了其更强的认识论规训批判意涵，而圈内实务分析者（如 Castro, 2009）则将其作为反思贷款资金与纯智库咨询关系的现实主义锚点。读者在使用该概念时，应清晰辨别批判治理视角与金融实务视角之间的语境差异。
 
 ---
 

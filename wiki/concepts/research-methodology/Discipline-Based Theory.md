@@ -240,7 +240,7 @@ updated: 2026-10-22
 > - **1960s–1980s — [[Behaviorism|行为主义]]冲击与经验调查分流** 北美行为主义与 [[IEA]] 等大规模量化测验兴起，学科本位理论与无理论[[Empiricism|经验主义]]测验之间产生方法论张力与制度分流。
 > - **1990s — [[Mixed Methods Research|混合方法]]中的规范化界定** 社会[[Scientific Method|科学方法]]论学者系统提炼理论在实证研究中的角色，Crotty（1998）等界定了[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与具体方法的级联关系。
 > - **1996–2000s — [[Knowledge-Based Economy|知识经济]]转型与学科理论向[[Procedural Skill|程序性技能]]退位** Foray and Lundvall（1996）提出学习型经济概念，[[OECD|经合组织]]将学习重心从正规学科理论（knowing that）转向跨界网络协作与商业化技能（[[Procedural Knowledge|knowing how]]），形成了以市场效用主导教育的全新[[Social Imaginary|社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
-> - **2000s–2010s — 混合方法研究中的首要理论类型** Creswell 等将学科理论规范化为混合方法研究的第一核心理论形态，系统归纳其组织数据、预测假设与统领[[Coding in Qualitative Research|质性编码]]的操作[[Paradigm|范式]]。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–72)]]
+> - **2000s–2010s — 混合方法研究中的首要理论类型** Creswell et al. 将学科理论规范化为混合方法研究的第一核心理论形态，系统归纳其组织数据、预测假设与统领[[Coding in Qualitative Research|质性编码]]的操作[[Paradigm|范式]]。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 69–72)]]
 > - **2020s — 超国家素养测评侵蚀下的理论自主性反思** 面对 [[PISA]] 等去学科化、去情境化的跨国通用素养排名的技术主义侵蚀，学界重新呼唤回归学科本位理论与深厚文化历史阐释，重构教育探究的批判反思力与学术自主性。
 
 ---

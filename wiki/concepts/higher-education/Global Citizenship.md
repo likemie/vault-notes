@@ -155,7 +155,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **2005 — 博士公民意识呼吁** Nerad 率先呼吁博士培养必须超越单纯的学术专精，涵盖公民参与和世界公民身份（world citizenship）的承诺。(Nerad, 2005, 引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 87]])
 > - **2011 — 四维[[Analytic Framework\|分析框架]]建立** O'Brien 提出包含数字、文化与社会沟通的三素养分析框架，后经 Spronken-Smith (2018) 补充“环境素养”演变为经典的四维分析模式。(O'Brien, 2011, 引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 87–88]])
-> - **2022–2024 — 高教[[Graduate Attributes\|毕业生特质]]检视** Wong 等揭示英国本科高教特质的表面化修辞，Spronken-Smith 等将全球公民明确列为博士特质七域分类的独立维度，并通过[[Mixed Methods Research\|混合方法]]对 PhD 毕业生的实证数据进行了赤字确诊。([[Argument_Wong_2022_HERD\|Wong et al., 2022, p. 1347]]; [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 98–99]])
+> - **2022–2024 — 高教[[Graduate Attributes\|毕业生特质]]检视** Wong et al. 揭示英国本科高教特质的表面化修辞，Spronken-Smith et al. 将全球公民明确列为博士特质七域分类的独立维度，并通过[[Mixed Methods Research\|混合方法]]对 PhD 毕业生的实证数据进行了赤字确诊。([[Argument_Wong_2022_HERD\|Wong et al., 2022, p. 1347]]; [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 98–99]])
 
 ---
 

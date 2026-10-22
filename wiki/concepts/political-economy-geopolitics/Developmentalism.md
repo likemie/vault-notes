@@ -182,7 +182,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1950s–1960s — 战后工具性发展主义[[Paradigm|范式]]确立** 伴随第三世界非殖民化浪潮与冷战现代化理论兴起，[[Human Capital Theory|人力资本理论]]成为比较教育核心支柱，[[OECD|经合组织]]与[[World Bank|世界银行]]将教育规划与人力预测作为援助核心处方。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
-> - **1970s–1990s — [[Dependency Theory|依附理论]]与后殖民解构的反思浪潮** 依附理论学者与 Escobar 等[[Post-colonial Theory|后殖民理论]]家对西方中心的发展主义展开深刻批判，指认“发展”[[Discourse|话语]]是将全球南方锁定在外围依附地位的思想工具。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 28–30)]]
+> - **1970s–1990s — [[Dependency Theory|依附理论]]与后殖民解构的反思浪潮** 依附理论学者与 Escobar et al. [[Post-colonial Theory|后殖民理论]]家对西方中心的发展主义展开深刻批判，指认“发展”[[Discourse|话语]]是将全球南方锁定在外围依附地位的思想工具。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 28–30)]]
 > - **2000s–2010s — [[Cognitive Capitalism|认知资本主义]]中的微观发展强制** [[Lifelong Learning|终身学习]]政策全球化扩散，发展主义由宏观国家规划转化为对个体的自我发展律令，形成自负盈亏的高弹性学习主体。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 8–9)]]
 > - **2010s–至今 — [[South-South Cooperation|南南合作]]与跨国高教中的多边发展主义叙事** 新兴国家在对外教育合作中重新激活发展主义叙事，以基础设施互联、多边大学联盟与公共产品供给为支柱，主张超越西方地缘对抗的零和逻辑，重塑[[Knowledge Diplomacy|知识外交]]格局。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698, 1703)]]
 

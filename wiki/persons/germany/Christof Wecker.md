@@ -139,10 +139,10 @@ updated: 2026-10-22
 > [!debates] 学术争议
 >
 > > [!axis] 严谨公理化方法标准 vs. 政策行动主义实用妥协
-> > 围绕 Wecker 等人的严格技术审计，[[Evidence-Based Education|循证教育]]政策学界产生了[[Theoretical Standpoint|理论立场]]的深刻分歧。
+> > 围绕 Wecker et al. 的严格技术审计，[[Evidence-Based Education|循证教育]]政策学界产生了[[Theoretical Standpoint|理论立场]]的深刻分歧。
 > >
 > > - **[[Pragmatic Paradigm|实用主义]]辩护派** 认为[[John Hattie|哈蒂]]的主要贡献在于提供了一个宏观的“理论故事”，在大方向上唤醒了公众对教学质量的重视；即使底层计算存在瑕疵，也不影响大局导向。（Beywl & Zierer, 2015a; Arnold, 2011）
-> > - **Wecker 等人的方法学立场** 坚决指出，任何宏观理论解释都必须建立在坚实的数据基础之上；若分析的每个操作层级均存在严重的计算失真、伪造[[Standard Error|标准误]]与模型违背，基于其上的排行榜结论必然误导教育决策，绝不能以“故事动听”掩盖统计失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
+> > - **Wecker et al. 的方法学立场** 坚决指出，任何宏观理论解释都必须建立在坚实的数据基础之上；若分析的每个操作层级均存在严重的计算失真、伪造[[Standard Error|标准误]]与模型违背，基于其上的排行榜结论必然误导教育决策，绝不能以“故事动听”掩盖统计失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–35)]]
 
 > [!warning] 未解问题与边界
 > - **基于代表性案例的重构而非全量再计算** Wecker et al. (2016, pp. 23–24, 30) 明确声明，由于哈蒂原始[[Meta-analysis|元分析]]数据库关键数据大面积缺失、主要研究未附带完整[[Sample Size Determination|样本量]]与方差矩阵，外部研究者客观上无法对全书 800 余项元分析开展全量精确重算，因此缺陷对 138 个因素综合[[Effect Size|效应量]]的具体偏移程度尚无法逐一定量测定。

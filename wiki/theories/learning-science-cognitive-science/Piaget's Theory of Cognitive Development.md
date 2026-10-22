@@ -216,7 +216,7 @@ updated: 2026-10-22
 ## 发展脉络
 
 > [!dev-timeline] [[Jean Piaget\|皮亚杰]]认知发展理论的演进脉络
-> - **1950年代 经典发生[[Epistemology\|认识论]]与四阶段框架确立** 皮亚杰与 Cook 等出版系列著作，系统提出感觉运动、前运算、具体运算与形式运算四阶段[[Constructivist Paradigm\|建构主义]]体系。
+> - **1950年代 经典发生[[Epistemology\|认识论]]与四阶段框架确立** 皮亚杰与 Cook et al. 出版系列著作，系统提出感觉运动、前运算、具体运算与形式运算四阶段[[Constructivist Paradigm\|建构主义]]体系。
 > - **1970年代 新皮亚杰主义与心理能量模型** 胡安·帕斯卡尔-莱昂（[[Juan Pascual-Leone]]）引入信息加工观点，提出心理能量（M-power）与干扰算子，开启[[Neo-Piagetian Theories\|新皮亚杰理论]]探索。
 > - **1980年代至1990年代 动力技能理论与[[Working Memory\|工作记忆]]容量细化** 库尔特·菲舍尔（[[Kurt Fischer]]）提出动力技能模型；[[Robbie Case\|罗比·凯斯]]（Robbie Case）运用平衡木等任务精确测量工作记忆容量与子阶段演化。
 > - **2010年代 认知神经科学与前额叶[[Executive Function\|执行功能]]对齐** Scott Bolton 与 John Hattie（2017）系统论证皮亚杰阶段与[[Prefrontal Cortex\|前额叶皮层]]解剖成熟及执行功能三成分（抑制、转换、更新）的高度平行机制。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017)]]

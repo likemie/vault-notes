@@ -165,7 +165,7 @@ updated: 2026-10-22
 > - **2014–2019** — [[EEF Teaching and Learning Toolkit]] 创立“额外学习月数”转换，英国 [[Education Endowment Foundation|EEF]] 确立效应量与[[EEF Padlock Security Rating|挂锁安全评级]]双轨呈现机制（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；[[Adrian Simpson]]（2017, 2019）提出匈牙利单词思想实验，论证效应量测量的是试验灵敏度而非教学有效性；戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）检验《可见学习》133 项效应量数据集，证实全库变差系数超标（$V_\sigma = 56.87\% > 33\%$），击穿统计同质性前提。
 > - **2019** — 丹麦学者拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）立足德意志教化传统与身体[[Phenomenology|现象学]]，深入解构可见学习[[Paradigm|范式]]将学习降维为即时效应量可见快照的[[Positivism|实证主义]]迷思，揭示其混淆认识论与存在论的范畴错误。
 > - **2023** — Kraft 建立基于 3,426 个教育 RCT 效应量的实证分布（中位数 0.10，36% 的效应量 $< 0.05$），提倡以因果评估经验基准与失败频率取代 Cohen 抽象法则（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
-> - **2025** — Kalmendal 等人完成[[Metascience|元科学]]质量审计，证实组间与组内设计估计不同总体参数，混杂独立组与重复测量及不同对照条件导致跨研究效应量丧失数学可比性（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
+> - **2025** — Kalmendal et al. 完成[[Metascience|元科学]]质量审计，证实组间与组内设计估计不同总体参数，混杂独立组与重复测量及不同对照条件导致跨研究效应量丧失数学可比性（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
 
 ---
 

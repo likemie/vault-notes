@@ -248,4 +248,4 @@ updated: 2026-10-22
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引入科学哲学家 Phillips (2014) 与课程学者 Eisner (1983) 理论，批判 [[Visible Learning]] 等[[Meta-meta-analysis|二阶元分析]]试图以硬科学实验室控制手段提炼[[Effective Teaching|有效教学]]清单的做法彻底抹杀了教育的生态效度。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 梳理国外学者针对《可见学习》的六大方法论通病，剖析其强行汇总[[Heterogeneity|异质性]]研究、排除社会环境变量导致生态效度严重剥落的[[Epistemology|认识论]]局限。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 针对《可见学习》提出方法学与政策批判，系统论证海外二阶[[Meta-analysis|元分析]]统计均值在跨国政策推广中面临的生态效度壁垒，揭示其粗暴合并不同学段、学科与生源背景所造成的微观课堂生态扭曲。
-> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应 Snook 等人的生态效度与可推广性质疑，提出在本土研究供给不足时批判性转译国际现有证据的合理性辩护。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应 Snook et al. 的生态效度与可推广性质疑，提出在本土研究供给不足时批判性转译国际现有证据的合理性辩护。

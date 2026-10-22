@@ -307,7 +307,7 @@ updated: 2026-10-22
 ## 概念演变
 
 > [!dev-timeline] 高阶思维技能的理论与实证演进
-> - **1956 年 认知目标分类学奠基** Bloom 等人提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的经典层级框架。
+> - **1956 年 认知目标分类学奠基** Bloom et al. 提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的经典层级框架。
 > - **1980 年代 认知科学转向与思维教学运动** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学与[[Metacognition\|元认知]]研究兴起。
 > - **2001 年 [[Bloom's Taxonomy\|布鲁姆分类学]]二维修订** Anderson & Krathwohl 对分类学进行重构（知识维度 $\times$ 认知过程维度），将“创造”（Create）置于认知过程最高层级，突出[[Knowledge Production\|知识生成]]的综合性。
 > - **2010 年代 [[Computational Thinking\|计算思维]]与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale\|计算思维量表]]（CTS），将算法思维、[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决]]与[[Creativity\|创造力]]整合为可测量的技术高阶认知[[Construct\|构念]]。

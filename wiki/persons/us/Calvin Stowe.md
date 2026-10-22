@@ -153,7 +153,7 @@ updated: 2026-10-22
 >
 > *...the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad' ... to use as legitimating rationales for the reform of national public education in the United States.*
 
-> [!citation-card] Rust 等人论斯托的证词与普鲁士教育的辩证立场
+> [!citation-card] Rust et al. 论斯托的证词与普鲁士教育的辩证立场
 > 斯托在俄亥俄州议会上宣称普鲁士教育体制绝非"空想"，而是"有史以来最好的学区"所实施的教育方案。但他同时坦承，普鲁士整体教育计划的目的在于"将专制政治特有的军事力量与对人民理解力和情感的强烈道德控制相结合"。他随即以"恶政与良教在自然上可分"论辩反转局面：良好的教学法具有普适性，可以被共和体制完全继承而无须接受专制价值观。[[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 124–125)]]；引自 Stowe (1930)
 >
 > *Stowe openly conceded that the whole educational program of Prussia was 'to unite with the military force which always attends despotism, a strong moral power over the understanding and affections of the people'.*
