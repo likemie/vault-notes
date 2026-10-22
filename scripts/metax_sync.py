@@ -49,12 +49,12 @@ SECTION = "## Visible Learning MetaX"
 TAG = "metax"
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳"
 FLAG = "⚑"
-OVERVIEW_FIELDS = ["impact", "ma", "k", "n", "m", "d", "rob"]
+OVERVIEW_FIELDS = ["impact", "ma", "k", "n", "m", "d", "du", "rob"]
 ROW_FIELDS = ["var", "k", "n", "m", "d"]
 FIELD_LABELS = {
     "domain": "领域", "sub_domain": "子领域", "impact": "影响判定", "ma": "元分析数",
     "k": "研究数", "n": "学生数", "m": "效应数", "d": "效应量", "rob": "稳健性",
-    "var": "变量", "author": "作者", "year": "年份", "title": "篇名", "classification": "归类",
+    "du": "未加权平均效应量", "var": "变量", "author": "作者", "year": "年份", "title": "篇名", "classification": "归类",
 }
 
 WIKILINK_RE = re.compile(r"\[\[([^\]|\\]+)(?:\\?\|([^\]]+))?\]\]")
@@ -461,29 +461,40 @@ def weighted_d(rows: list[dict]):
     return round(sum(d * k for d, k in pairs) / total, 2) if total else None
 
 
+def simple_d(rows: list[dict]):
+    """MetaX TOTAL/AVERAGE row d = unweighted mean of row d (verified on all 440 influences)."""
+    ds = [r["d"] for r in rows if r["d"] is not None]
+    return round(sum(ds) / len(ds), 2) if ds else None
+
+
 def auto_checks(inf: dict, studies: dict, marked: set | None = None) -> list[str]:
-    """Recompute the overview from the rows; return errata lines for mismatches only."""
+    """Recompute the overview from the rows; return errata lines for real mismatches only.
+
+    Checks: meta-analysis count; k / n / m sums against the overview and the MetaX
+    TOTAL row; k-weighted mean d against the overview; unweighted mean d against
+    the TOTAL row; suspected duplicate rows. Known properties of MetaX totals that
+    hold for every influence (plain summing, NA excluded, overlap not removed) are
+    explained once in the Visible Learning Meta-X fact entry, not per card."""
     rows = inf["rows"]
     out = []
     if inf.get("ma") is not None and inf["ma"] != len(rows):
         out.append(f"**自动核算 · 计数不符** 元分析数：总览 {inf['ma']}，列表实有 {len(rows)} 项。")
+    src_total = inf.get("source_total") or {}
     for f in ("k", "n", "m"):
+        if not any(r[f] is not None for r in rows):
+            continue
         total = sum(r[f] or 0 for r in rows)
-        if inf.get(f) is not None and total and inf[f] != total:
-            out.append(f"**自动核算 · 加总不符** {FIELD_LABELS[f]}：总览 {fmt_int(inf[f])}，列表合计 {fmt_int(total)}。")
-    reported = [r for r in rows if r["n"] is not None]
-    missing = len(rows) - len(reported)
-    if rows and not reported:
-        out.append("**自动核算 · 学生数** 各元分析均未报告样本量，总览的学生数"
-                   + (f"显示为 {fmt_int(inf['n'])}，不代表实际人数。" if inf.get("n") is not None else "缺失。"))
-    elif len(rows) > 1:
-        seg = f"总览 {fmt_int(inf.get('n'))} 为 {len(reported)} 项元分析样本量的直接相加"
-        if missing:
-            seg += f"，另 {missing} 项未报告（NA）未计入，可能偏低"
-        out.append(f"**自动核算 · 学生数** {seg}；直接相加未剔除不同元分析共享的原始研究样本，又可能重复计数，不宜视为独立学生总数。")
+        if inf.get(f) is not None and inf[f] != total:
+            out.append(f"**自动核算 · 加总不符** {FIELD_LABELS[f]}：总览 {fmt_int(inf[f])}，各项相加为 {fmt_int(total)}。")
+        if src_total.get(f) is not None and src_total[f] != total:
+            out.append(f"**自动核算 · 加总不符** {FIELD_LABELS[f]}：MetaX 合计行 {fmt_int(src_total[f])}，各项相加为 {fmt_int(total)}。")
     wd = weighted_d(rows)
     if wd is not None and inf.get("d") is not None and abs(wd - inf["d"]) > 0.011:
         out.append(f"**自动核算 · 效应量不符** 加权平均效应量：总览 {fmt_d(inf['d'])}，按研究数加权重算为 {fmt_d(wd)}。")
+    sd = simple_d(rows)
+    du = (inf.get("source_total") or {}).get("d")
+    if sd is not None and du is not None and abs(sd - du) > 0.011:
+        out.append(f"**自动核算 · 效应量不符** 未加权平均效应量：MetaX 合计行 {fmt_d(du)}，按列表重算为 {fmt_d(sd)}。")
     seen: dict[tuple, dict] = {}
     dup_rows = []
     for r in rows:
@@ -504,7 +515,7 @@ def auto_checks(inf: dict, studies: dict, marked: set | None = None) -> list[str
     if dup_rows:
         keep = [r for r in rows if r not in dup_rows]
         k = sum(r["k"] or 0 for r in keep)
-        out.append(f"**自动核算 · 剔除重复后** 元分析 {len(keep)} 项，研究数 {fmt_int(k)}，加权平均效应量 {fmt_d(weighted_d(keep))}（仅供参考，未核原文）。")
+        out.append(f"**自动核算 · 剔除重复后** 元分析 {len(keep)} 项，研究数 {fmt_int(k)}，加权平均效应量 {fmt_d(weighted_d(keep))}，未加权平均效应量 {fmt_d(simple_d(keep))}（仅供参考，未核原文）。")
     return out
 
 
@@ -524,14 +535,17 @@ def render_influence(iid: str, inf: dict, studies: dict, errata: list, args_meta
     lines = [f"> [!metax] [{esc(title)}]({inf['url']})"]
     lines.append(f"> {flag('domain', esc(domain))} › {flag('sub_domain', esc(sub))}")
     lines.append(">")
-    lines.append("> | rate | ma | k | n | m | d | rob |")
-    lines.append("> | --- | --- | --- | --- | --- | --- | --- |")
+    lines.append("> | rate | ma | k | n | m | d | du | rob |")
+    lines.append("> | --- | --- | --- | --- | --- | --- | --- | --- |")
     cells = [
         flag("impact", impact_cell(inf.get("impact", ""), zh)),
-        flag("ma", fmt_int(inf.get("ma"))), flag("k", fmt_int(inf.get("k"))),
-        flag("n", fmt_int(inf.get("n"))) + (f" {AUTO}" if len(inf["rows"]) > 1 or not any(r["n"] is not None for r in inf["rows"]) else ""),
+        flag("ma", fmt_int(inf.get("ma"))),
+        flag("k", fmt_int(inf.get("k"))),
+        flag("n", fmt_int(inf.get("n"))),
         flag("m", fmt_int(inf.get("m"))),
-        flag("d", fmt_d(inf.get("d"))), flag("rob", rob_cell(inf.get("rob"))),
+        flag("d", fmt_d(inf.get("d"))),
+        flag("du", fmt_d((inf.get("source_total") or {}).get("d") if (inf.get("source_total") or {}).get("d") is not None else simple_d(inf["rows"]))),
+        flag("rob", rob_cell(inf.get("rob"))),
     ]
     lines.append("> | " + " | ".join(cells) + " |")
 
