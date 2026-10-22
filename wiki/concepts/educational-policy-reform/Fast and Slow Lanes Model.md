@@ -68,7 +68,7 @@ updated: 2026-10-23
 >
 > *Looking back at the explosive growth in data and research output... we seem to have arrived at a new stage of knowledge-based governance, one that focuses on the middle lane... these organizations attempt to bridge science (slow lane) and politics (fast lane) by translating research for policy use... Thus, filling 'the space in between' by means of knowledge brokerage is not sufficient. It is equally important to invest in an ecosystem that instills a culture of evidence-based decisions in government and a valorization of applied policy-relevant research in universities.*
 
-> [!example]- 图 1.2：[[Output-Oriented Governance|循证治理]]的三大支柱与快慢车道模型
+> [!figure]- 图 1.2　[[Output-Oriented Governance|循证治理]]的三大支柱与快慢车道模型
 > ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig1-2_Three_Lanes_Knowledge_Governance.jpg)
 
 > [!feature] 核心要素

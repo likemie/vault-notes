@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
+                "file": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Steiner-Khamsi_2024_CE"
+              "title": "Argument_Custer_2021_AidData"
             }
           },
           {
@@ -290,7 +290,15 @@
   },
   "active": "bd88d0cdfde06150",
   "lastOpenFiles": [
+    "raw/mccormick2012.pdf",
+    "raw/1-s2.0-S0738059310000179-main.pdf",
+    "raw/14494035.2019.1619325.pdf",
+    "raw/jpcc-10-2025-0109en.pdf",
+    "wiki/facts/us/AidData.md",
+    "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md",
+    "sources/Custer_2021_AidData/Custer_2021_AidData.md",
     "wiki/facts/global/Systems Approach for Better Education Results.md",
+    "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
     "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Zapp_2017_IJED.md",
     "wiki/methods/qualitative/Deliberative Policy Dialogue.md",
     "wiki/concepts/educational-policy-reform/Two Broken Feedback Loops.md",
@@ -316,16 +324,8 @@
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-011/result.json",
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-010/result.json",
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-009/result.json",
-    "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-008/result.json",
-    "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-007/result.json",
-    "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-006/result.json",
     "tmp/callout-design-backup-v4/sub-ns-before/Sleeper Effect.md",
     "tmp/callout-design-backup-v4/sub-ns-before/Metacognitive Laziness.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Cognitive Offloading.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Source Evaluation.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Rote Learning.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Project-Based Learning.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Mind Mapping.md",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig5-2_Summary_Recommendations_Tracks.jpg",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-2_CoCitation_Analysis_Clusters.jpg",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-1_Annual_Scientific_Production.jpg",

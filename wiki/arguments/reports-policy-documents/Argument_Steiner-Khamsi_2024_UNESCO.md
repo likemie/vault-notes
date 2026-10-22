@@ -188,7 +188,7 @@ updated: 2026-10-23
 > - **供给端：海量实证数据爆发** 国际机构持续生产海量数据集、指标库与实证报告，全球教育证据库规模庞大。
 > - **需求端：政策规划吸收赤字** 各国教育行政部门与一线学校在制定规划时真正调阅的文献极少，决策受访专家一致指出实际决策与学术成果处于深度脱节状态。
 
-> [!figure] 图 1.1　知识利用中的[[Two Broken Feedback Loops|双重反馈回路断裂]]
+> [!figure]- 图 1.1　知识利用中的[[Two Broken Feedback Loops|双重反馈回路断裂]]
 > ![图1.1：证据利用中的双重反馈回路断裂](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig1-1_Two_Broken_Feedback_Loops.jpg)
 
 > [!challenges] 知识利用中的[[Two Broken Feedback Loops|双重反馈回路断裂]]（pp. 14–16）
@@ -197,7 +197,7 @@ updated: 2026-10-23
 > 2. **第二重断裂：全球集中生产端与国家本土需求端的空间阻隔**
 >    位于全球北方的国际组织和顶尖智库生产了大量被标榜为普适规律的实证综述，假定各国决策者会自动提取并吸收这些结论；然而，由于忽视了本土政治经济约束、财政支付能力与[[Cultural Validity|文化适切性]]，这些外部产品极难在国家与地方层面落地。
 
-> [!figure] 图 1.2　[[Output-Oriented Governance|循证治理]]的三大支柱与[[Fast and Slow Lanes Model|快慢车道模型]]
+> [!figure]- 图 1.2　[[Output-Oriented Governance|循证治理]]的三大支柱与[[Fast and Slow Lanes Model|快慢车道模型]]
 > ![图1.2：循证治理的三大支柱与快慢车道模型](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig1-2_Three_Lanes_Knowledge_Governance.jpg)
 
 > [!theory-components] [[Fast and Slow Lanes Model|知识治理快慢车道模型]]的三大轨道构件（pp. 15–16）
@@ -260,7 +260,7 @@ updated: 2026-10-23
 >
 > *(数据源自报告表 3.2 与表 3.3，按经常调阅频次降序排列。因调查分发渠道影响，统计中未计入发起方 [[NORRAG]]；表 3.3 原始报告仅披露调阅频次大于 4 次的前 12 大实体，其余知名机构以 ≤4 标注；表 3.2 仅统计知名度前 15 大实体，未入榜者以 >15 标注)*
 
-> [!figure] 图 3.2　教育政策与规划中的证据来源网络拓扑图
+> [!figure]- 图 3.2　教育政策与规划中的证据来源网络拓扑图
 > 基于全球问卷调查（Q3：日常经常查阅的倡议、网络与平台）构建的“受访者—证据源”两模二部网络（Bipartite Affiliation Network）。图谱直观展现了全球教育证据利用生态在拓扑上的极端离散度与核心—边缘割裂格局（pp. 22–24）。
 >
 > ![图3.2：教育政策与规划中的证据来源网络拓扑图](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig3-2_Network_Research_Evidence_Sources.jpg)
@@ -279,7 +279,7 @@ updated: 2026-10-23
 
 #### 3. 实证研究过度扎堆基础学习，职业与高等教育缺乏数据支撑
 
-> [!figure] 图 3.1　SDG 4 各子目标政策实证支撑受访者认知分布
+> [!figure]- 图 3.1　SDG 4 各子目标政策实证支撑受访者认知分布
 > 各方生产的实证成果在具体发展目标之间分布极不均衡，调查参与者对各项可持续发展目标的实证支撑程度给出了高度分化的评估（pp. 22, 24–25）。
 >
 > ![图3.1：SDG 4 各子目标政策实证支撑受访者认知分布](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig3-1_Perception_SDG_Evidence_Support.jpg)
@@ -312,7 +312,7 @@ updated: 2026-10-23
 
 #### 1. 公共卫生的循证研究发文增速与权威文献积累大幅领先教育领域
 
-> [!figure] 图 4.1　公共卫生与教育领域政策证据利用年学术产出对比
+> [!figure]- 图 4.1　公共卫生与教育领域政策证据利用年学术产出对比
 > 研究团队通过 Web of Science 数据库检索了公共卫生（1,660 篇）与教育领域（1,825 篇）关于政策证据利用的系统综述文献，开展跨部门科学计量比对（pp. 29–32）。
 >
 > ![图4.1：公共卫生与教育领域政策证据利用年学术产出对比](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-1_Annual_Scientific_Production.jpg)
@@ -321,7 +321,7 @@ updated: 2026-10-23
 > - **全球公共卫生领域** 1999 年至 2021 年发文复合年均增长率（Compound Annual Growth Rate, CAGR）高达 30.5%，累计产出 520 篇高被引经典文献，形成了公认的知识坐标体系。
 > - **全球教育研究领域** 同期发文复合年均增长率为 23.6%，高被引经典文献仅有 66 篇，高质量实证积累与学科辐射力明显滞后。
 
-> [!figure] 图 4.2　政策证据研究共被引知识聚类图谱（公共卫生 vs 教育）
+> [!figure]- 图 4.2　政策证据研究共被引知识聚类图谱（公共卫生 vs 教育）
 > ![图4.2：政策证据研究共被引知识聚类图谱（公共卫生 vs 教育）](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-2_CoCitation_Analysis_Clusters.jpg)
 
 > [!tension] 政策证据共被引知识聚类的学科结构分化（pp. 31–32）
@@ -438,7 +438,7 @@ updated: 2026-10-23
 > - **轨道二：打造连接全球与本土的区域桥梁** 支持区域枢纽建设，使其承担承上启下的横向同伴交流与纵向需求反馈职责。
 > - **轨道三：发起全球倡导并动员多边长效资源** 组建由政府、多边机构与国际慈善基金会构成的资助联盟，彻底扭转以往仅资助短期项目研究的碎片化状态。
 
-> [!figure] 图 5.2　全球教育循证治理变革建议三轨架构总览
+> [!figure]- 图 5.2　全球教育循证治理变革建议三轨架构总览
 > ![图5.2：全球教育循证治理变革建议三轨架构总览](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig5-2_Summary_Recommendations_Tracks.jpg)
 
 > [!phase] 全球教育循证治理变革的分阶段推进路线图（2022–2025）

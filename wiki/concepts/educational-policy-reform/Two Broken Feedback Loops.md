@@ -19,10 +19,10 @@ tags:
   - theme/surplus-of-evidence
   - theme/knowledge-governance
 related_concepts:
+  - "[[Technical Rationality]]"
   - "[[Feedback]]"
   - "[[Surplus of Evidence]]"
   - "[[Patient and Public Involvement]]"
-  - "[[Technical Rationality]]"
   - "[[Research Utilization]]"
   - "[[Literature Review]]"
   - "[[Cultural Validity]]"
@@ -52,20 +52,20 @@ updated: 2026-10-23
 
 ---
 
-> [!def] Two Broken [[Feedback]] Loops
-> 双重反馈回路断裂（Two Broken Feedback Loops）是吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景战略审查中确立的诊断模型。该概念系统解释了当代教育治理在面临[[Surplus of Evidence|证据过剩]]的同时却陷入政策有效利用赤字的深层机理：知识流动在横向维度上受阻于学术研究生产端（PRE-4-[[Patient and Public Involvement|PPI]]）与政策决策使用端（URE-4-PPI）之间的节奏与利益分歧；在纵向维度上受阻于全球集中供给平台与国家本土情境化需求之间的空间阻隔。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 12–14)]]
-
 > [!concept-lens] 概念透镜
 > - **含义** 指涉教育证据生态中横向“研政脱节”与纵向“全球—本土脱节”构成的双重结构性阻断。
 > - **用途** 帮助研究者诊断为何海量发布的国际最佳实践报告无法转化为具体国家的改革成效，破除将证据转化等同于单向推送的[[Technical Rationality|技术理性]]幻想。
 > - **边界** 聚焦于宏观与中观教育知识生态系统的流动梗阻，不直接解释课堂教学情境中师生微观互动的即时反馈。
+
+> [!def] Two Broken Feedback Loops
+> 双重反馈回路断裂（Two Broken [[Feedback]] Loops）是吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景战略审查中确立的诊断模型。该概念系统解释了当代教育治理在面临[[Surplus of Evidence|证据过剩]]的同时却陷入政策有效利用赤字的深层机理：知识流动在横向维度上受阻于学术研究生产端（PRE-4-[[Patient and Public Involvement|PPI]]）与政策决策使用端（URE-4-PPI）之间的节奏与利益分歧；在纵向维度上受阻于全球集中供给平台与国家本土情境化需求之间的空间阻隔。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 12–14)]]
 
 > [!citation-card] 全球证据供需中的双重反馈阻断
 > 尽管身处全球数据与研究产出过剩的时代，政策制定、规划与实施对研究证据的实际采纳依然十分有限。第二重断裂存在于全球层级与本土层级之间：全球中介网络持续产出海量文献，预设本土专家会自动提取并将其调适于本国情境，这一假设已被事实证明建立在错误前提之上。两类行动者（研究者与决策者）以及两个运作层级（本土与全球）在现实中处于实质性脱节状态。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13–14)]]
 >
 > *First, despite living in an era with a surplus of globally produced data and research, there is still limited uptake in policy, planning, and implementation. The second broken feedback loop is between the global and local levels: global INPs keep producing a great number of studies with the expectation that local experts subsequently adopt them and locally adapt them to their country context. The expectations are proven to be built on faulty premises. The two types of actors (researchers and policy-makers) and the two levels of operations (the local and global levels) are literally out of touch with each other.*
 
-> [!example]- 图 1.1：[[Research Utilization|知识利用]]中的双重反馈回路断裂
+> [!figure]- 图 1.1　[[Research Utilization|知识利用]]中的双重反馈回路断裂
 > ![](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig1-1_Two_Broken_Feedback_Loops.jpg)
 
 > [!feature] 核心要素

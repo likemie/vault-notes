@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Steiner-Khamsi_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+      "basename": "Argument_Custer_2021_AidData",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
+    },
+    {
+      "basename": "AidData",
+      "path": "wiki/facts/us/AidData.md"
+    },
+    {
+      "basename": "Custer_2021_AidData",
+      "path": "sources/Custer_2021_AidData/Custer_2021_AidData.md"
     },
     {
       "basename": "Systems Approach for Better Education Results",
       "path": "wiki/facts/global/Systems Approach for Better Education Results.md"
+    },
+    {
+      "basename": "Argument_Steiner-Khamsi_2024_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
       "basename": "Argument_Zapp_2017_IJED",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Jansen_2026_EPR",
       "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md"
-    },
-    {
-      "basename": "template-instrument",
-      "path": "wiki/templates/template-instrument.md"
-    },
-    {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
-    },
-    {
-      "basename": "template-metax",
-      "path": "wiki/templates/template-metax.md"
     }
   ],
   "omittedPaths": [],
