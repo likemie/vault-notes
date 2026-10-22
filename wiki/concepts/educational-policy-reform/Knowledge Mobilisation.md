@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 63
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -92,10 +92,11 @@ related_arguments:
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Torres_2022_KMModels]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -114,13 +115,13 @@ updated: 2026-10-22
 > *"Mobilisation implies social interaction and iterative processes of co-creating knowledge through collaboration between and among researchers, decision-makers and practitioners."*
 
 > [!citation-card] 知识动员作为学校改进基石
-> "这在同样程度上是一种知识动员的形式：学校改进的核心难点不在于是否存在研究，而在于研究如何进入课堂并转化为教师的内生行动。"[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
+> "这在同样程度上是一种知识动员的形式：学校改进的核心难点在于推动研究进入课堂并转化为教师的内生行动，其挑战远超越知识的被动储备。"[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
 >
 > *"Det har i like stor grad vært en form for kunnskapsmobilisering."*
 
 > [!boundary]- 概念边界
 > - 区别于线性[[Knowledge Transfer\|知识转移]]（Knowledge Transfer / KT）：知识转移预设知识从研究者向实践者的单向输出，忽视实践情境的复杂性；知识动员强调多主体双向循环与[[Knowledge Co-production\|知识共创]]（Co-creation）。
-> - 区别于学术研究发表与信息传播（Dissemination）：单纯的论文发表与分发无法打破实践壁垒；知识动员要求深度的能力建设、关系网络与系统化制度支撑。
+> - 区别于学术研究发表与信息传播（Dissemination）：单纯的研究成果印发与推介无法打破实践壁垒；知识动员要求深度的能力建设、关系网络与系统化制度支撑。
 > - 区别于[[Evidence-Based Education\|证据本位教育]]（EBE）：EBE 侧重探究有效性干预（What Works）；知识动员聚焦知识如何被转译并在具体制度条件下转化为学校行动。
 
 ---
@@ -204,7 +205,7 @@ updated: 2026-10-22
 > |---|---|---|
 > | **优质知识产出（Quality Products）** | 研发经严格实证检验、界面友好、紧贴教学痛点的转译工具包、指南与评估资源。 | 降低认知负荷，为一线实践提供可靠、可操作的物质与概念中介。 |
 > | **协作伙伴关系（Collaborative Relationships）** | 联结政府、大学、学区、学校与教师工会，建立长期、互惠、平等的跨界 RPP 网络。 | 消除机构隔阂与文化互不信任，促进双向[[Dialogue in Education\|对话]]与问题共同界定。 |
-> | **全系统能力承诺（System-Wide Capacity Building）** | 政策制定者提供持续专项经费、制度化教研时间、探究激励机制与难题攻关承诺。 | 克服短期项目制碎片化弊端，将知识动员沉淀为系统常态文化。 |
+> | **全系统能力承诺（System-Wide Capacity Building）** | 政策制定者提供持续专项经费、制度化教研时间、探究激励机制与难题攻关承诺。 | 克服短期项目制碎片化弊端，将知识动员确立为系统常态文化。 |
 
 > [!features] 推动有效知识动员的关键支持条件
 > - **制度化教研时间** 为一线教师参与研究审议与跨校研讨提供排课与编制保障。
@@ -217,6 +218,7 @@ updated: 2026-10-22
 > 1. **加拿大安大略 [[Knowledge Network for Applied Education Research\|KNAER]] 全系统网络** 安大略省应用教育研究知识网络（KNAER）由政府教育部、多伦多大学 OISE 与西安大略大学联合发起，吸纳学区与教师工会参与；通过多年协同攻关，针对数学教学与多元文化教育研发专门转译工具包，并派遣[[Boundary Spanner\|跨界中介者]]入校支持，将全省规模的学术[[Research Translation\|研究转化]]为一线教师日常备课活动。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–131)]]
 > 2. **滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 产学研动员生态** 在加拿大滑铁卢大学 Schlegel-UW 老龄化研究所（RIA）案例中，研究团队将实验室开发的脑血管健康检测技术直接嵌入 Schlegel Villages 退休社区网络的常规临床评估中，通过物理空间共同选址与护理人员联合培训，实现了研究成果从实验室到终端用户的无缝动员。[[Argument_Dean_2025_UICollaborationSupport\|(Dean et al., 2025, pp. 245–253)]]
 > 3. **英国 [[Teaching and Learning Research Programme\|TLRP]] 协同中介示范** 英国教与学研究计划（TLRP）作为全系统动员典范，通过用户全程参与、长效校际伙伴关系、团队联合生产与跨界能力建设四大支柱，探索突破单向线性分发，使循证原则深度嵌入一线教学改进与国家课程政策。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
+> 4. **经合组织（OECD, 2025）“爵士乐队”即兴协同隐喻与全球 288 家中介调研** 经合组织基于全球 288 家知识中介机构的调研，将知识动员比喻为“爵士乐队”，强调多元异质主体在动态复杂情境中通过即兴协作、倾听互补与自适应协调达成协同，打破了研究与政策两相隔绝的静态轨道；但坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）揭示，这一浪漫化修辞掩盖了中介机构缺乏长效公共财政资助的生存困境与超国家证据层级的认识论规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -256,6 +258,9 @@ updated: 2026-10-22
 > [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]
 > **多方共创与社会交互本质** 知识在教育系统中的流动不会自然发生，单纯增加研究供给无法打破实践壁垒。动员指涉研究者、决策者与实践者之间通过持续对话共同界定问题、协同生产知识的社会互动与迭代过程。唯有打破生产者与消费者的二元对立，将知识流动置于互惠伙伴关系之中，研究证据才能真正扎根于微观实践土壤。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
 
+> [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
+> **“爵士乐队”即兴协同隐喻及其修辞治理功能** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织（OECD, 2025）全球 288 家知识中介调研文本的批判分析指出，超国家组织将知识动员形象化为“爵士乐队”，意在倡导多方行动者通过相互倾听、自适应响应打破学术研究与决策实践分离的僵化绝望图景；然而，这种浪漫化修辞在实践中往往充当了掩盖制度条件匮乏的规范性话语，将深层政策执行受阻与资源断裂个体化归咎为官员数据素养不足，掩蔽了跨国证据等级对本土多元实践知识的认识论规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
+
 > [!tension] 知识流动本体[[Paradigm Wars\|范式之争]]：线性管道输送 vs 多方社会共创
 > - **[[Technical Rationality\|技术理性]]单向交付（蓝方）** 预设研究知识为标准化静态货品，通过自上而下的管道（Pipeline）向一线被动输送，将实践者定位为接受容器。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 > - **社会建构协作共创（红方）** 视动员为研究者、决策者与教师在真实教学情境中共同界定难题、协同生产与[[Recontextualization|本土重构]]的持续迭代过程。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
@@ -267,7 +272,7 @@ updated: 2026-10-22
 
 ### 命题二　知识动员的最大瓶颈在于生产者与使用者的双向能力赤字
 
-知识转化的梗阻并非单向源于一线教师的素养不足，而是研究生产端与实践应用端普遍面临对称性的能力赤字。
+知识转化的梗阻根源于研究生产端与实践应用端普遍面临对称性的能力赤字，打破了将应用受阻单向归咎于教师素养短板的传统假设。
 
 > [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; Carrier (2017); Cooper et al. (2017)
 > **双向能力赤字与分析性立场** 长期以来政策界将证据应用受阻片面归咎于教师素养不足；实证研究证实，知识动员的核心困境在于研究生产者往往缺乏动员转译技能，而决策者与实践者缺乏系统搜寻与审议证据的能力，二者存在对称的双向能力赤字。推进动员要求研究者掌握清晰、可及的跨界传播策略，同时要求一线教育者发展[[Research Literacy\|研究素养]]与分析性立场，以辨别缺乏实证支撑的商业修辞。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–131)]]
@@ -286,7 +291,7 @@ updated: 2026-10-22
 
 ### 命题三　学校现场的证据流动高度依托同行网络与跨界中介而非原始学术发表
 
-在真实的教育生态中，学术期刊论文的直接辐射范围极为有限，证据流动高度依附于非正式同行网络与跨界中介通道。
+在真实的教育生态中，学术期刊的直接辐射范围极为有限，证据流动高度依附于非正式同行网络与跨界中介通道。
 
 > [!claim] Cooper et al. (2017); [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]]; [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]
 > **同行网络主导与中介者转译** 无论在微观课堂评估领域还是宏观学校改进中，一线教师获取实践信息的最主要渠道是同行专业网络，对[[Practice-Based Evidence\|实践本位证据]]的信赖度显著高于原始学术报告。学术期刊的直接辐射力有限，知识流动高度依托学校中层领导者、教研员、工会与专业中介机构扮演跨界中介角色，在组织间建立转译与连接的社会资本通道。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 28–31)]]; [[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
@@ -304,7 +309,7 @@ updated: 2026-10-22
 传统的方案依从度模式将教师视为被动执行者，现代动员转向以能动性为基石、由多层治理机制协调的整合[[Paradigm|范式]]。
 
 > [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; Campbell et al. (2017)
-> **从实施转向整合与跨层治理** 传统的[[Research Utilization\|知识利用]]研究存在个体层面偏向与机械实施取向，将教师视为被动执行干预的载体；跨国[[Systematic Review\|系统综述]]证实自上而下的技术灌输难以产生可持续变革。现代知识动员必须转向整合范式（Integration Paradigm），以[[Teacher Professional Agency\|教师专业能动性]]为基础，依托信任、技能、组织结构与关系网络四大跨层治理机制，实现优质产品、协作关系与全系统承诺的有机统合。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 12–18)]]; [[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 131)]]
+> **从实施转向整合与跨层治理** 传统的[[Research Utilization\|知识利用]]研究存在个体层面偏向与机械实施取向，将教师视为被动执行干预的载体；跨国[[Systematic Review\|系统综述]]证实自上而下的技术灌输难以产生可持续变革。现代知识动员必须转向整合范式（Integration Paradigm），以[[Teacher Professional Agency\|教师专业能动性]]为基础，依托信任、技能、组织结构与关系网络四大跨层治理机制，实现优质产品、协作关系与全系统承诺的有机整合。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 12–18)]]; [[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 131)]]
 
 > [!dimension] 跨层整合治理的四大支柱机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]）
 > - **组织与人际信任（Trust）**
@@ -314,7 +319,7 @@ updated: 2026-10-22
 > - **可持续组织架构（Sustainable Structures）**
 >   设立制度化中介机构、联合教研岗位与专门研究使用时间表，避免项目制短期化。
 > - **多层级关系网络（Relationships）**
->   激活校内中层领导与跨校同伴网络，促进实践本位证据的横向扩散与生态沉淀。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 12–15)]]
+>   激活校内中层领导与跨校同伴网络，促进实践本位证据的横向扩散与长效积累。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 12–15)]]
 
 ---
 
@@ -353,7 +358,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **社会共创** | 知识动员为多方协作共创的迭代社会过程，非线性技术输出 | 伙伴关系构建、跨界对话 | Campbell et al. (2017); [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] |
+> | **社会共创** | 知识动员为多方协作共创的迭代社会过程，非线性技术输出 | 伙伴关系构建、跨界对话 | Campbell et al. (2017); [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 > | **双向能力** | 动员瓶颈源于研究生产者与使用者的双向能力赤字 | 跨界素养培训、分析性立场确立 | Carrier (2017); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] |
 > | **网络中介** | 证据流动高度依托同行网络与跨界中介，实践证据优先 | 中介平台运营、教研网络建设 | Cooper et al. (2017); [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]]; [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] |
 > | **系统整合** | 知识动员须由机械实施转向以能动性为核心的跨层整合 | 全系统政策设计、治理机制改革 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
@@ -376,6 +381,7 @@ updated: 2026-10-22
 > - **2022 — 跨领域动员模型类型学与下一代生态路径** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 系统比照卫生、公共治理与教育领域主流知识动员模型（Lavis, Graham, Levin, Gough），提炼出构件交互由孤立管道向双层嵌套生态演进、行动者由一维标签向多维功能复合体演进的双重轨迹；批评既有模型普遍缺失终极目标的缺陷，确立了以学生和教师专业学习为崇高目标基准的下一代生态建构路径。
 > - **2025 — 产学研协同动员的多重机制** [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] 基于滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，证明共同选址、[[Counterpart Funds|配套资金]]与联合研发是实现实验室知识向社会快速动员的自增强系统。
 > - **2026 — 从机械实施转向关系与多维整合** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 基于 109 项研究综述，正式确立以[[Teacher Professional Agency\|教师能动性]]、信任网络与跨层治理为核心的整合范式。
+> - **2026 年 — 跨国知识动员修辞隐喻解构与生态平等转向** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 分析经合组织（OECD, 2025）全球 288 家知识中介调研与“爵士乐队”动员隐喻，揭示修辞策略如何塑造证据文化与掩盖认识论不平等，呼吁转向包容一线实践者认知主权的非处方化动员生态（pp. 344, 346–348, 350–351）。
 
 ---
 
@@ -405,6 +411,7 @@ updated: 2026-10-22
 > | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 英格兰 79 所小学，696 名在职教职员工 | 基于四要素量表的横断面基线调查 | 校内知识动员正式与非正式渠道指标 | 82% 教师经常与同伴非正式讨论教学实践 vs 61% 缺乏正式跨团队分享论坛、52% 缺乏文献研读时间 | — | 实证揭示校内知识动员对非正式同伴网络的重度依赖与正式分享结构的制度性匮乏（pp. 129–131） |
 > | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻行为 | 调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道与偏好 | 教师主要从其他一线教师获取信息，实践[[Research Utilization\|证据使用]]远超原始学术研究 | — | 证实一线同行网络在证据流动中的决定性地位 |
 > | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] | 涵盖 29 个 [[OECD]] 国家的 37 个国家或次国家级教育部 | 跨国政策[[Questionnaire\|问卷调查]]与深度访谈（6 国官员） | 知识动员机制、跨界协作促成条件与首要制度阻碍 | 绝大多数系统缺乏国家级统筹战略；同行学术评价体制被广泛报告为阻碍学者参与[[Knowledge Co-production\|知识共创]]的首要制度壁垒 | — | 反映教育部行政高层自陈认知，存在行政修辞与受访口径[[Heterogeneity\|异质性]] |
+> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | 全球 288 家教育知识中介机构（[[OECD]] 2025 调查） | 跨国中介机构问卷调研与文本解释性分析 | 知识动员活动谱系、财政资源可持续性与动员障碍 | 覆盖 288 家知识中介机构，证实实践采纳极度不均衡，中介普遍缺乏长效公共财政支持，象征性利用压倒工具性利用 | 不适用（跨国调查报告与质性政策分析） | 揭示“爵士乐队”修辞掩盖下的中介微观生存危机与动员碎片化现状（pp. 344, 346–348） |
 
 ---
 
@@ -417,5 +424,6 @@ updated: 2026-10-22
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 综合 109 项实证研究，批判线性实施取向，提出以信任、技能、组织结构与关系为核心的跨层整合治理框架。
 > - **[[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]]** 结合加拿大滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，论证共同选址与终端嵌入在推动健康研究成果向临床照护快速动员中的机制。
 > - **[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]]** 梳理[[EU|欧盟]]证据中介组织与[[Educational Brokerage Agency\|知识经纪]]网络，展示非处方化协调与跨国同伴学习的知识流动路径。
+> - **[[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]** 解构经合组织（OECD, 2025）全球 288 家中介调研及“爵士乐队”知识动员修辞隐喻，揭示超国家证据文化对实践情境的认识论压制，提出包容一线认知主权的动员生态重塑路径（pp. 344, 346–348, 350–351）。
 > - **Best and Holmes (2010)** 奠定知识动员三代演化模型（线性推送、关系网络、复杂系统）及四维系统构件，奠定教育研发系统思维基础。
 
