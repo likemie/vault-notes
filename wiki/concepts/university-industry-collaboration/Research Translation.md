@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程。在产学合作中体现为成果商业化漏斗，在学校教育中体现为基于行动理论的再脉络化课例探究，在行政督导中体现为将成功学校研究编码为法定评估常模并服务于国家简化，在宏观立法中体现为依托政策简报的法条采纳，在前沿科技中体现为公共代理人依托嵌入型网络治理引导颠覆性轨道，在硬科技与安全治理中体现为依托共享试验场与首要买家拉动将前沿突破转化为本土实体制造与战略交付能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 111
+related_count: 112
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
