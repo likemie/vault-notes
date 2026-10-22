@@ -19,6 +19,7 @@ tags:
   - theme/evidence-based-education
   - level/k12
   - region/global
+  - metax
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Socioeconomic Status]]"
@@ -73,3 +74,29 @@ updated: 2026-10-22
 > - [[Grade Retention in French-Speaking Belgium]] — 高留级率和改革减半目标展示了证据与政策之间的转换摩擦([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 174]])。
 > - [[Pact for Educational Excellence]] — 将降低留级率列入结构性改革，但没有全面禁止共同核心阶段留级([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.172, 174]])。
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [留级 · Retention](https://www.visiblelearningmetax.com/influences/view/retention)
+> 课堂 › 课堂氛围
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ▼ 负向影响 | 10 | 339 | 27,408 | 4,456 | -0.24 | -0.29 | ●●●●○ |
+>
+> > [!metax-ma]- 10 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Holmes (1983) | Retained vs. non-retained | 7 | NA | 527 | -0.42 |  |
+> > | Holmes & Matthews (1984) | Retention on all students on elementary students | 44 | 11,132 | 575 | -0.37 |  |
+> > | Holmes (1986) | Retained vs. non-retained | 17 | NA | 217 | -0.06 |  |
+> > | Holmes (1989) | Retention on all students | 63 | NA | 861 | -0.15 |  |
+> > | Yoshida (1989) | Retention on elementary students | 34 | NA | 242 | -0.38 |  |
+> > | Drany & Wilson (1992) | Retained vs. non retained within same year | 22 | NA | 78 | -0.66 |  |
+> > | Jimerson (2001) | Retained vs. non-retained | 20 | 2,806 | 175 | -0.39 |  |
+> > | Allen et al. (2009) | High quality studies on retention | 22 | 13,470 | 207 | 0.04 |  |
+> > | Bright (2011) | Retained vs non-retained | 26 | NA | 245 | -0.50 |  |
+> > | Goos et al. (2021) | Retention on all students | 84 | NA | 1,329 | -0.04 |  |

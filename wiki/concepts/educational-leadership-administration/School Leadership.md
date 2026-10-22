@@ -15,6 +15,7 @@ tags:
   - theme/school-leadership
   - theme/evidence-informed-practice
   - theme/school-improvement
+  - metax
 related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[New Public Management]]"
@@ -268,6 +269,47 @@ updated: 2026-10-22
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 州中小学 906 名教育者（两轮[[Questionnaire\|问卷]]）与 29 名访谈受访者 | 两轮标准化李克特问卷调查与[[In-depth Interview\|深度访谈]]主题分析 | 领导力在[[Research Utilization\|研究使用]]中的使能权重、言行示范认可度与互信文化诉求 | 89% 访谈与 72% 问卷认同领导力为核心驱动力；84% 管理者与 73% 教师认同领导必须言行一致示范转化；82% 视师资与领导互信为关键促成条件；领导支持显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育从业者主观经验自陈，证实了领导力示范在证据利用组织生态中的首要地位 |
 > | [[Argument_Møller_2017_EERJ\|Møller (2017)]] | 20+ 个国家参与的国际成功学校校长项目（ISSPP）多样本 | 跨国质性多[[Case Study\|案例研究]]与叙事综合 | 成功学校校长的跨情境基本实践特征与伦理取向 | 提炼出设定方向、发展人员、组织改进、建立信任与安全环境 5 项基本实践；共同展现强烈的伦理关怀与社会正义承诺 | — | 案例高度依赖校长自我报告，需审慎防范个人英雄故事的方法学偏误 |
 > | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题编码分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [校长／学校领导者 · Principals / school leaders](https://www.visiblelearningmetax.com/influences/view/principals~school_leaders)
+> 学校 › 领导
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 26 | 1,093 | 1,328,243 | 2,757 | 0.34 | 0.36 | ●●●●● |
+>
+> > [!metax-ma]- 26 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Pantili et al. (1991) | Assessment ratings of principals and job performance | 32 | 10,773 | 32 | 0.41 |  |
+> > | Bosker & Witziers (1995) | Principals on student achievement | 21 | NA | 65 | 0.04 |  |
+> > | Brown (2001) | Leadership on student achievement | 38 | NA | 339 | 0.57 |  |
+> > | Wiseman (2002) | Instructional management on achievement | 59 | 16,326 | 59 | -0.26 |  |
+> > | Witziers et al. (2003) | Principals on student achievement | 61 | NA | 377 | 0.02 |  |
+> > | Waters et al. (2003) | District superintendents on student achievement | 70 | 1,100,000 | 70 | 0.52 |  |
+> > | Waters & Marzano (2006) | District superintendents on achievement | 27 | NA | 27 | 0.49 |  |
+> > | Chin (2007) | Transformational leadership | 21 | 6,558 | 11 | 1.12 |  |
+> > | Robinson et al. (2008) | Principals on student achievement | 22 | NA | 199 | 0.41 |  |
+> > | Creemers & Kyriakides (2008) | School leadership | 29 | NA | 29 | 0.07 |  |
+> > | Hendriks & Steen (2012) | Leadership on outcomes | 15 | NA | 15 | 0.03 |  |
+> > | Scheerens & Steen (2012) | Instructional leadership on achievement | 53 | NA | 170 | 0.05 |  |
+> > | Tsai (2015) | Teacher leadership on achievement | 12 | 3,233 | 3 | 0.31 |  |
+> > | Karadag et al. (2015) | Instructional leadership on achievement | 57 | 28,964 | 57 | 0.72 |  |
+> > | Leithwood & Sun (2012) | Transformational leadership | 24 | 2,185 | 20 | 0.18 |  |
+> > | Wang (2010) | School leadership | 108 | NA | 108 | 0.22 |  |
+> > | Shen et al. (2020) | School leadership | 21 | NA | 22 | 0.39 |  |
+> > | Uysal & Sarier (2018) | School leadership | 39 | NA | 68 | 0.05 |  |
+> > | Liebowitz & Porter (2019) | Principal behaviors | 31 | NA | 346 | 0.12 |  |
+> > | Tan, Gao, et al. (2020) | School leaders on student achievement | 16 | NA | 16 | 0.49 |  |
+> > | Tan et al. (2021) | School leaders on student achievement | 108 | NA | 493 | 0.28 |  |
+> > | Sertel et al. (2022) | Leadership across cultures | 15 | 7,769 | 15 | 0.70 |  |
+> > | Wu & Shen (2022) | School leaders on student achievement | 42 | NA | 42 | 0.21 |  |
+> > | Almarshad (2017) | Leadership on achievement | 14 | 12,757 | 16 | 0.56 |  |
+> > | Karadag (2020) | School leadership | 151 | 131,498 | 151 | 0.68 |  |
+> > | Ertem (2021) | School leadership | 7 | 8,180 | 7 | 0.93 |  |
 
 ---
 

@@ -54,6 +54,8 @@ confidence: medium
 status: draft
 created: 2026-05-26
 updated: 2026-10-22
+tags:
+  - metax
 ---
 
 # Learner-Centred Education
@@ -213,3 +215,27 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability\|考试问责]]与教学改革的扩展性改造。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [以学生为中心的教学 · Student-centered teaching](https://www.visiblelearningmetax.com/influences/view/student-centered_teaching)
+> 学生学习策略 › 学生导向干预
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 7 | 815 | 90,074 | 969 | 0.53 | 0.56 | ●●●●○ |
+>
+> > [!metax-ma]- 7 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Preston (2007) | Student centered vs. teacher centered approach | 19 | NA | 19 | 0.54 |  |
+> > | Thomas et al. (2014) | Student centered in ICT | 40 | 4,952 | 55 | 0.16 |  |
+> > | Bernard et al. (2013) | Learner vs teacher centered environments | 290 | 39,377 | 348 | 0.37 |  |
+> > | Wilson et al. (2019) | Student centered & CAI in anatomy | 7 | 2,570 | 7 | 0.24 |  |
+> > | Bernard et al. (2019) | Student centered vs. teacher centered approach | 299 | 43,175 | 365 | 0.44 |  |
+> > | Uyar & Doganay (2018) | Student centered teaching | 105 | NA | 120 | 1.14 |  |
+> > | Simsek & Ozaslan (2021) | Student centered teaching | 55 | NA | 55 | 1.00 |  |

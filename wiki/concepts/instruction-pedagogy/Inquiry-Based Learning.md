@@ -20,6 +20,7 @@ tags:
   - method/inquiry
   - level/k12
   - level/higher-education
+  - metax
 related_concepts:
   - "[[Variable]]"
   - "[[Constructed Knowledge]]"
@@ -296,3 +297,32 @@ updated: 2026-10-22
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
 > - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [探究式教学 · Inquiry-based teaching](https://www.visiblelearningmetax.com/influences/view/inquiry-based_teaching)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 12 | 431 | 19,195 | 652 | 0.51 | 0.58 | ●●●●○ |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Sweitzer & Anderson (1983) | Inquiry teaching in science | 68 | NA | 19 | 0.44 |  |
+> > | Shymansky et al. (1990) | Inquiry methods in science | 81 | NA | 320 | 0.27 |  |
+> > | Bangert-Drowns (1992) | Inquiry teaching effects on critical thinking | 21 | NA | 21 | 0.37 |  |
+> > | Smith (1997) | Inquiry method in science | 35 | 7,437 | 60 | 0.17 |  |
+> > | Lazonder & Harmsen (2016) | Inquiry learning | 72 | NA | 72 | 0.62 |  |
+> > | Estrella et al. (2018) | Inquiry on ELL science | 23 | 8,291 | 23 | 0.28 |  |
+> > | Aktamis et al. (2016) | Inquiry learning in science | 16 | NA | 16 | 1.03 |  |
+> > | Furtak et al. (1998) | Inquiry method in science | 37 | NA | 37 | 0.50 |  |
+> > | Abdurrahman (2017) | Inquiry methods in science | 15 | 2,118 | 15 | 0.46 |  |
+> > | Kaçar et al. (2021) | Inquiry methods | 30 | NA | 30 | 1.15 |  |
+> > | Heindl (2019) | Inquiry methods in science | 13 | NA | 13 | 0.74 |  |
+> > | Antonio & Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |

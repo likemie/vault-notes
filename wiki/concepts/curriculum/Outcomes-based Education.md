@@ -15,6 +15,7 @@ tags:
   - theme/curriculum
   - paradigm/neoliberalism
   - critique/curriculum
+  - metax
 related_concepts:
   - "[[Paradigm]]"
   - "[[Powerful Knowledge]]"
@@ -93,3 +94,20 @@ updated: 2026-10-22
 
 ---
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [成果导向教育 · Outcomes based education](https://www.visiblelearningmetax.com/influences/view/outcomes_based_education)
+> 课程 › 其他课程项目
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 1 | 20 | 16,160 | 20 | 0.97 | 0.97 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Yusoff et al. (2014) | Outcomes Based Education | 20 | 16,160 | 20 | 0.97 |  |

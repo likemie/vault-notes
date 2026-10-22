@@ -17,6 +17,7 @@ tags:
   - theme/motivation
   - theme/affect
   - theme/intrinsic-motivation
+  - metax
 related_concepts:
   - "[[Intrinsic vs Extrinsic Motivation]]"
 related_theories: []
@@ -73,3 +74,21 @@ updated: 2026-10-22
 
 ---
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [心流 · Flow](https://www.visiblelearningmetax.com/influences/view/flow)
+> 学生 › 毅力与自信
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 45 | 9,939 | 45 | 1.05 | 1.02 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Xing et al. (2024) | Flow | 32 | 6,686 | 32 | 1.09 |  |
+> > | Jinmin & Qi (2023) | Flow | 13 | 3,253 | 13 | 0.95 |  |

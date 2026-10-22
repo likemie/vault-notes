@@ -19,6 +19,7 @@ tags:
   - stem-education
   - curriculum-reform
   - interdisciplinary-education
+  - metax
 related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Literacy]]"
@@ -292,3 +293,36 @@ updated: 2026-10-22
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《[[CHIPS and Science Act|芯片与科学法案]]》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 提出依托[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与劳动力卓越中心（WCoE），构建贯通 K-12 到硕博士的全谱系微电子 STEM 人才生态，通过共享 300mm 中试线与云端设计网关实现真实工程实训赋能。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [STEM 项目 · STEM programs](https://www.visiblelearningmetax.com/influences/view/stem_programs)
+> 课程 › 数学与科学
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 16 | 464 | 157,402 | 505 | 0.79 | 0.74 | ●●●●○ |
+>
+> > [!metax-ma]- 16 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Becker & Park (2011) | Integrated approaches among STEM subjects | 28 | 5,404 | 28 | 0.62 |  |
+> > | Siregar et al. (2019) | STEM on achievement | 17 | 137,389 | 17 | 0.24 |  |
+> > | Karasah-Cakici et al. (2021) | STEM on achievement | 54 | NA | 54 | 1.48 |  |
+> > | Lu et al. (2021) | STEM on achievement | 31 | NA | 42 | 0.50 |  |
+> > | Lueangsuwan & Srikoon (2021) | STEM on achievement | 22 | NA | 22 | 0.45 |  |
+> > | Tasdemir (2022) | STEM on achievement | 26 | NA | 26 | 0.62 |  |
+> > | Savelsbergh et al. (2016) | Innovative teaching in STEM | 56 | NA | 40 | 0.78 |  |
+> > | Khoiri (2019) | STEM on achievement | 42 | NA | 42 | 0.93 |  |
+> > | Saraç (2018b) | STEM on achievement | 23 | 12,909 | 58 | 0.44 |  |
+> > | Ademoglu et al. (2021) | STEM on achievement | 28 | NA | 28 | 1.01 |  |
+> > | Gürsoy et al. (2023) | STEM on achievement | 22 | NA | 22 | 0.98 |  |
+> > | Putra et al. (2023) | STEM on critical thinking | 13 | NA | 13 | 0.99 |  |
+> > | Asrizal et al. (2023) | STEAM on achievement | 20 | 1,700 | 20 | 0.71 |  |
+> > | Güder et al. (2022) | Stem on science processes | 43 | NA | 43 | 0.60 |  |
+> > | Srikoon et al. (2023) | STEM on achievement | 8 | NA | 8 | 0.91 |  |
+> > | Lu et al. (2021) | STEM on achievement | 31 | NA | 42 | 0.62 |  |

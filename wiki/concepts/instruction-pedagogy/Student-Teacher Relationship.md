@@ -18,6 +18,7 @@ tags:
   - level/k12
   - level/higher-ed
   - cultural-learning-models
+  - metax
 related_concepts:
   - "[[Didaktik]]"
   - "[[Academic Achievement]]"
@@ -257,3 +258,31 @@ updated: 2026-10-22
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 论证 | 分析师生关系在可见学习模型中高回报定位的文献。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判评价[[Paradigm\|范式]]将师生关系降维为工具性自[[Variable\|变量]]的哲学论文。 |
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [师生关系 · Teacher-student relationships](https://www.visiblelearningmetax.com/influences/view/teacher-student_relationships)
+> 课堂 › 课堂氛围
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 8 | 789 | 7,107,506 | 1,980 | 0.58 | 0.50 | ●●●●● |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Cornelius-White (2007) | Teacher-student relations on achievement | 229 | 355,325 | 1,450 | 0.72 |  |
+> > | Roorda et al. (2011) | Teacher-student relations on achievement | 99 | 165,926 | 168 | 0.53 |  |
+> > | Vandenbroucke et al. (2018) | Teacher-student interactions on Executive functioning | 23 | 19,906 | 23 | 0.18 |  |
+> > | Kincade et al. (2020) | Teacher-student programs on achievement | 21 | NA | 21 | 0.26 |  |
+> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
+> > | Emslander et al. (2023) | Teacher-student relations on achievement | 231 | 6,237,000 | 116 | 0.50 |  |
+> > | Lei, Wang, et al. (2022) | Teacher-student relations on achievement | 74 | 233,961 | 90 | 0.54 |  |
+> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
+>
+> > [!metax-errata] 2 条
+> > - ∑ **自动核算 · 疑似重复** Wang & Dong (2017) 在列表中重复出现。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，未核原文）。

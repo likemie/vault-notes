@@ -17,6 +17,7 @@ tags:
   - "academic-achievement"
   - "theme/epistemological-beliefs"
   - "level/k12"
+  - metax
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[School Norm Adaptation]]"
@@ -158,6 +159,101 @@ updated: 2026-10-22
 > | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | 4,128名挪威5–10年级中小学生 | [[Questionnaire\|问卷调查]]与多元分层回归 | 教师评定成绩、学生自评成绩、[[School Norm Adaptation\|学校规范适应]]、动机[[Conatus\|努力]]、[[Self-control\|自我控制]] | 女生教师评定成绩整体显著高于男生；规范适应与动机努力是核心预测源；性别变量在模型末端仅解释约 0.2% 方差 | 男生模型 Adjusted $R^2 = .483$；女生模型 Adjusted $R^2 = .452$；性别增量 $p < .05$ | 证实性别对成绩的影响主要是经由校内行为与评价机制交互实现的间接作用 |
 > | [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | 447名加拿大十年级科学课学生（及89名实验子样本） | 组内平衡实验、独立样本 t 检验与 [[Multivariate Analysis of Variance\|MANOVA]] | 生理性别（男/女）、EOAA、WST 表现、IST 表现、[[Epistemology\|认识论]]三因子（FQAL, [[Simplicity of Knowledge\|SK]], CK） | 女生在所有学业指标上全面显著领先：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST $t(87) = 2.92, p = .004, ES = .58$；IST $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明女生在科学学业表现上的全面优势受更成熟的能力可塑性与不确定性容忍信念驱动 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | [[John Hattie\|哈蒂]]《[[Visible Learning\|可见的学习]]》[[Meta-meta-analysis\|二阶元分析]]数据库及跨国社会学对比 | 统计审计与文献溯源 | 男孩相比女孩学业成就[[Effect Size\|效应量]]；跨国学业表现事实 | 哈蒂宣称男孩优于女孩（$d = 0.12$）；经验现实显示工业化国家中女孩整体及阅读全面领先 | — | 证实无加权二阶[[Meta-analysis\|元分析]]将研究数量混同于现实总体，且因未校准基线导致计算结果与经验事实直接相悖 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [性别差异 · Gender (male-female)](https://www.visiblelearningmetax.com/influences/view/gender_(male-female))
+> 学生 › 生理因素
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 17 | 1,320 | 18,474,009 | 3,218 | 0.02 | 0.10 | ●●●●● |
+>
+> > [!metax-ma]- 17 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Hansford & Hattie (1980) | Gender and achievement | 72 | NA | 503 | -0.02 |  |
+> > | Meehan (1984) | Formal operations and gender | 53 | NA | 160 | 0.14 |  |
+> > | Johnson (1984) | Gender in problem solving | 9 | NA | 9 | 0.45 |  |
+> > | Linn & Peterson (1985) | Spatial achievement and gender | 172 | NA | 263 | 0.40 |  |
+> > | Tohidi et al. (1986) | Cognitive functioning and gender | 70 | NA | 70 | 0.32 |  |
+> > | Born et al. (1987) | Gender in intelligence | 17 | NA | 772 | 0.08 |  |
+> > | Stumpf & Klieme (1989) | Spatial achievement and gender | 18 | 171,824 | 18 | 0.48 |  |
+> > | Magnuson et al. (2016) | Early childhood programs | 21 | NA | 23 | 0.10 |  |
+> > | Hyde et al. (1990) | Gender and cognitive achievement | 100 | 3,217,489 | 259 | 0.20 |  |
+> > | DeBaz (1994b) | Gender and achievement | 67 | 7,026 | 9 | 0.26 |  |
+> > | Fischer, Schult, et al. (2013) | Sex on college admission performance | 130 | 493,048 | 130 | -0.24 |  |
+> > | Voyer & Voyer (2014) | Gender on achievement | 369 | 1,134,042 | 502 | -0.23 |  |
+> > | Else-Quest et al. (2010) | Gender in PISA and TiMMS | 69 | 493,495 | 86 | -0.01 |  |
+> > | Keller et al. (2020) | PISA math, reading, science | 82 | 2,280,502 | 343 | -0.06 |  |
+> > | Petersen (2018) | Sex in verbal achievement | 16 | 10,000,000 | 16 | -0.29 |  |
+> > | Ouma & Nam (2015) | Gender across Africa | 35 | 105,121 | 35 | 0.00 |  |
+> > | Nunes et al. (2022) | Gender | 20 | 571,462 | 20 | 0.04 |  |
+
+> [!metax] [性别差异（创造力） · Gender (male-female) on creativity](https://www.visiblelearningmetax.com/influences/view/gender_(male-female)_on_creativity)
+> 学生 › 生理因素
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ▼ 负向影响 | 2 | 465 | 205,772 | 1,483 | -0.08 | -0.08 | ●●●○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Thompson (2016) | Sex on creativity | 271 | 137,247 | 480 | -0.06 |  |
+> > | Taylor et al. (2023) | Gender on creativity | 194 | 68,525 | 1,003 | -0.10 |  |
+
+> [!metax] [性别差异（数学） · Gender (male-female) on Math](https://www.visiblelearningmetax.com/influences/view/gender_(male-female)_on_math)
+> 学生 › 生理因素
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 9 | 387 | 3,124,282 | 902 | 0.07 | 0.05 | ●●●●○ |
+>
+> > [!metax-ma]- 9 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Reilly et al. (2015) | Sex on NAEP math & science | 24 | 2,804,016 | 24 | 0.09 |  |
+> > | Yang (1997) | Math and gender | 25 | NA | 25 | -0.34 |  |
+> > | Schram (1996) | Applied statistics and gender | 13 | 4,134 | 18 | -0.08 |  |
+> > | Frost et al. (1994) | Math and gender | 100 | NA | 254 | 0.15 |  |
+> > | Freeman (1984) | Gender differences in mathematics | 35 | NA | 35 | 0.09 |  |
+> > | Lysakowski & Walberg (1989) | Math and gender | 34 | 88,253 | 160 | 0.23 |  |
+> > | Lynn & Irwing (2008) | Sex in math | 28 | NA | 28 | 0.28 |  |
+> > | Friedman (1989) | Math and gender | 98 | 227,879 | 98 | 0.02 |  |
+> > | Hines (1989) | Math and gender | 30 | NA | 260 | 0.01 |  |
+
+> [!metax] [性别差异（阅读） · Gender (male-female) on Reading](https://www.visiblelearningmetax.com/influences/view/gender_(male-female)_on_reading)
+> 学生 › 生理因素
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ▼ 负向影响 | 3 | 331 | 1,487,798 | 331 | -0.15 | -0.18 | ●●●○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Hyde & Linn (1988) | Gender differences on verbal achievement | 165 | 1,418,899 | 165 | -0.11 |  |
+> > | Hyde (1981) | Reading and gender | 27 | 68,899 | 27 | -0.24 |  |
+> > | Lietz (2006) | Reading and gender | 139 | NA | 139 | -0.19 |  |
+
+> [!metax] [性别差异（科学） · Gender (male-female) on Science](https://www.visiblelearningmetax.com/influences/view/gender_(male-female)_on_science)
+> 学生 › 生理因素
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 5 | 565 | 1,303,953 | 489 | 0.11 | 0.14 | ●●●●○ |
+>
+> > [!metax-ma]- 5 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Becker (1989) | Gender differences in science | 29 | 17,603 | 67 | 0.16 |  |
+> > | Lindberg et al. (2010) | Math and gender | 242 | 1,286,350 | 242 | 0.05 |  |
+> > | Kahl et al. (1982) | Pre-college science and achievement | 169 | NA | 31 | 0.12 |  |
+> > | Steinkamp & Maehr (1983) | Gender differences in science | 83 | NA | 107 | 0.19 |  |
+> > | Becker & Chang (1986) | Science and gender | 42 | NA | 42 | 0.16 |  |
 
 ---
 

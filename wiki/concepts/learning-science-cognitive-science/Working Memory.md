@@ -17,6 +17,7 @@ tags:
   - cognitive-science
   - executive-function
   - cognitive-load
+  - metax
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Executive Function]]"
@@ -258,3 +259,48 @@ updated: 2026-10-22
 > | [[Inquiry-Based Learning]] | 概念 | 教学情境 | 指导式探究通过支架分担工作记忆负荷，支撑高阶概念重构。 |
 > | [[Scaffolding]] | 概念 | 教学支架 | 外部支架通过接管表面操作，防止工作记忆出现过载崩溃。 |
 > | [[Direct Instruction]] | 概念 | 教学[[Paradigm\|范式]] | 直接教学主张通过全显性讲授将工作记忆外在负荷压制到最低。 |
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [工作记忆能力 · Working memory strength](https://www.visiblelearningmetax.com/influences/view/working_memory_strength)
+> 学生 › 先备知识与背景
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 6 | 536 | 56,538 | 4,372 | 0.64 | 0.65 | ●●●●● |
+>
+> > [!metax-ma]- 6 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Peng et al. (2016) | Working memory on math achievement | 110 | NA | 829 | 0.61 |  |
+> > | Peng et al. (2018) | Working memory on reading | 197 | 29,629 | 2,026 | 0.61 |  |
+> > | Friso-van den Bos et al. (2013) | Working memory on achievement | 111 | 16,921 | 1,233 | 0.70 |  |
+> > | Carretti et al. (2009) | Working memory on reading achievement | 19 | 1,613 | 19 | 0.71 |  |
+> > | Shin (2020) | Working memory second language learning | 25 | 2,682 | 37 | 0.63 |  |
+> > | Hijkata & Koizumi (2022) | Working memory and L2 Reading | 74 | 5,693 | 228 | 0.63 |  |
+
+> [!metax] [工作记忆训练 · Working memory training](https://www.visiblelearningmetax.com/influences/view/working_memory_training)
+> 学生学习策略 › 学习策略
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 11 | 366 | 21,488 | 2,704 | 0.36 | 0.33 | ●●●●○ |
+>
+> > [!metax-ma]- 11 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Melby-Lervag & Hulme (2013) | Working memory training | 23 | NA | 30 | 0.35 |  |
+> > | Linck et al. (2014) | Working memory training | 79 | 3,707 | 748 | 0.41 |  |
+> > | McLaughlin (2017) | Working memory on reading & math (Cogmed) | 6 | 835 | 8 | 0.08 |  |
+> > | Spencer-Smith & Klingberg (2015) | Working memory training on verbal and visual spatial working memory performance | 7 | 306 | 8 | 0.54 |  |
+> > | Hyman (2017) | Working memory (Lumosity) | 4 | NA | 4 | 0.07 |  |
+> > | Daneman & Merikle (1996) | Working memory training | 77 | 6,179 | 150 | 0.82 |  |
+> > | Rolhelser-Bennett (1987) | Memory training | 12 | 1,968 | 78 | 1.28 |  |
+> > | Sala et al. (2019) | Working memory via Cogmed | 56 | 3,059 | 637 | 0.05 |  |
+> > | Sala & Gobet (2019) | Working memory training | 41 | 2,375 | 393 | 0.13 |  |
+> > | Sala et al. (2019) | Working memory on reading & math (Cogmed) | 50 | 3,059 | 637 | 0.05 |  |
+> > | Bharadwaj et al. (2021) | Cogmed on achievement & executive functioning | 11 | NA | 11 | -0.10 |  |

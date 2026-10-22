@@ -16,6 +16,7 @@ tags:
   - subject/curriculum
   - level/k12
   - paradigm/constructivist
+  - metax
 related_concepts:
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
@@ -210,6 +211,26 @@ updated: 2026-10-22
 > | Dahl and Freppon (1994) | 低收入内城区小学 8 个班级（幼儿园至一年级）两年追踪 | 准实验队列[[Cohort Study\|追踪研究]] | 全语言班 vs 技能本位传统班 | 标准化测验分数相当，但全语言班学生在自主读写兴趣、句法与词汇生成复杂度及学习所有权（ownership）上显著领先 | 质性与行为显著优势 | 证实纸笔测验分数难以捕捉全语言培养的高阶语言功能与长远学习动机（pp. 146–147） |
 > | Trachtenburg and Ferruggia (1989) | 处境不利阅读困难初学者 | 准实验教学干预 | 故事大书共享阅读结合文学情境化拼读教具制作 | 词汇量与阅读理解获得实质性飞跃 | $d = 1.70$（极高效益） | 高效案例因包含情境化[[Decodification\|解码]]被 Hattie 选择性排除在全语言分析之外（p. 148） |
 > | Hattie (2009)（引自 [[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 97]]） | 综合 4 项存在严重分歧的元分析（0.09, 0.15, 0.65, -0.65） | [[Meta-meta-analysis\|二阶元分析]]简单算术平均 | 全语言教学 vs 常规阅读教学 | 报告加权平均效应量极低 | $d = 0.06$（影响可忽略） | [[Ivan Snook\|斯努克]]等指出底层元分析因编码标准不同而结论对立，简单平均掩盖了真实的方法论危机 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [全语言教学 · Whole language approach](https://www.visiblelearningmetax.com/influences/view/whole_language_approach)
+> 课程 › 读写与艺术
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 5 | 81 | 8,018 | 288 | 0.14 | 0.09 | ●●●○○ |
+>
+> > [!metax-ma]- 5 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Stahl & Miller (1989) | Effects of whole language instruction | 15 | NA | 117 | 0.09 |  |
+> > | Gee (1993) | Effects of whole language instruction | 21 | NA | 52 | 0.65 |  |
+> > | Stahl et al. (1994) | Effects of whole language instruction | 14 | NA | 14 | 0.15 |  |
+> > | Jeynes & Littell (2000) | Effects of whole language instruction | 14 | 630 | 14 | -0.65 |  |
+> > | Abrami et al. (2020) | Effects of Balanced Literacy interventions | 17 | 7,388 | 91 | 0.20 |  |
 
 ---
 

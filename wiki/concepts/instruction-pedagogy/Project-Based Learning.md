@@ -17,6 +17,7 @@ tags:
   - pedagogy
   - subject/instruction
   - theme/higher-order-thinking
+  - metax
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Problem Solving]]"
@@ -199,3 +200,26 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence\|生成式人工智能]]对[[Higher-Order Thinking Skills\|高阶思维]]影响的一阶[[Meta-analysis\|元分析]]中，将项目式学习作为核心教学模式调节[[Variable\|变量]]，检验发现其在各类教学形态中表现出最高的显著促进效应，并证实了 AI 作为认知伙伴在探究情境中的协同价值。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [项目式学习 · Project-based learning](https://www.visiblelearningmetax.com/influences/view/project-based_learning)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 6 | 211 | 6,075 | 287 | 0.88 | 1.05 | ●●●○○ |
+>
+> > [!metax-ma]- 6 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Ayaz & Soylemez (2015) | Project based learning in Turkey | 41 | NA | 42 | 1.00 |  |
+> > | Purbosari et al. (2024) | Project based learning | 26 | NA | 26 | 1.12 |  |
+> > | Meng (2023) | Project based learning | 17 | 2,124 | 17 | 1.64 |  |
+> > | Rehman et al. (2024) | Project based learning | 70 | NA | 70 | 0.65 |  |
+> > | Badawi et al. (2023) | Blended project based learning | 11 | NA | 11 | 1.28 |  |
+> > | Wenlan & Jiao (2019) | Project based learning | 46 | 3,951 | 121 | 0.59 |  |

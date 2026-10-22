@@ -17,6 +17,7 @@ tags:
   - subject/instruction
   - theory/learning-theory
   - pedagogy/constructivist
+  - metax
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
@@ -292,3 +293,27 @@ updated: 2026-10-22
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 论证“学习即建构”驱动教师显性指导与主动激活角色的旗舰论文。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判折衷建构主义导致文化实体蒸发与教学论双重瓦解的哲学论证。 |
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [建构主义教学 · Constructivist teaching](https://www.visiblelearningmetax.com/influences/view/constructivist_teaching)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 8 | 531 | 16,980 | 659 | 0.92 | 0.93 | ●●●●○ |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Erisen & Gunay (2015) | Constructivist in doctoral thesis | 27 | 2,065 | 27 | 1.39 |  |
+> > | Semerci & Batdi (2015) | Constructivist teaching | 28 | NA | 28 | 1.08 |  |
+> > | Li, Din, et al. (2021) | Learner centered education | 42 | NA | 72 | 0.54 |  |
+> > | Selçuk & Yilmaz (2020) | Constructivist teaching | 57 | 6,237 | 114 | 1.04 |  |
+> > | Ulum & Tümkaya (2022) | Student centered teaching | 63 | NA | 66 | 0.79 |  |
+> > | Tutal (2023) | Context based learning | 42 | 3,938 | 54 | 0.97 |  |
+> > | Ting et al. (2022) | Active learning on STEM | 38 | 4,740 | 38 | 0.66 |  |
+> > | Üzüm & Özbek (2023) | Learner centered education | 234 | NA | 260 | 0.95 |  |

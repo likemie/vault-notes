@@ -19,6 +19,7 @@ tags:
   - theme/educational-policy
   - theme/global-governance
   - theme/well-being
+  - metax
 related_concepts:
   - "[[Soft Power]]"
   - "[[Critical Thinking]]"
@@ -190,3 +191,27 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[UNICEF\|联合国儿童基金会]]率先开辟社会情感学习新赛道，并引发[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]跨界跟进争夺全球规制权与私人资金的组织生态学案例。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [社会情感学习 · Socio-emotional learning](https://www.visiblelearningmetax.com/influences/view/socio-emotional_learning)
+> 课程 › 其他课程项目
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 7 | 666 | 803,966 | 2,271 | 0.14 | 0.17 | ●●●●○ |
+>
+> > [!metax-ma]- 7 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Beelmann et al. (1994) | Social competence training on achievement outcomes | 49 | NA | 23 | -0.04 |  |
+> > | Karadag (2015) | Social adjustment | 24 | 5,096 | 24 | 0.20 |  |
+> > | Quinn et al. (1999) | SS with emotional and behavioral disorders | 35 | 1,123 | 35 | 0.20 |  |
+> > | Taylor et al. (2017) | Social-emotional learning interventions | 82 | 3,658 | 8 | 0.33 |  |
+> > | Corcoran et al. (2018) | Social-emotional learning interventions | 40 | 135,495 | 73 | 0.25 |  |
+> > | Shi & Cheung (2024) | SEL on academic performance | 12 | 83,233 | 59 | 0.13 |  |
+> > | Cipriano et al. (2023) | Social-emotional learning interventions | 424 | 575,361 | 2,049 | 0.11 |  |

@@ -19,6 +19,7 @@ tags:
   - spatial-turn
   - student-mobility
   - geopolitics
+  - metax
 related_concepts:
   - "[[Construct]]"
   - "[[Discourse]]"
@@ -274,3 +275,24 @@ updated: 2026-10-22
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 揭示新兴大国“[[Belt and Road Initiative|一带一路]]”跨国留学生流动高度依赖国家全额奖学金与基建就业预期，解析其补贴型单向依附特征与地缘环境逆转下的脆弱性（pp. 692–693）。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 考察中国对[[ASEAN|东盟]]留学生流动的峰会驱动周期，揭示留学生对当代工业基础设施与社会治理经验的认同倾向，以及超国民待遇和考核降格引发的制度张力与声誉风险（pp. 6–10）。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 13 国考察跨国学生流动机制，揭示低签证成本、大规模政府奖学金（35.8 万份）与高比例全英文授课项目（66.4%）对非对称教育流动的支撑作用与吸纳效能（pp. 31–34）。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [转学流动 · Mobility](https://www.visiblelearningmetax.com/influences/view/mobility)
+> 家庭 › 家庭环境
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ▼ 负向影响 | 4 | 186 | 203,463 | 545 | -0.38 | -0.30 | ●●●●○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Jones (1989) | Mobility and achievement | 93 | 51,057 | 141 | -0.50 |  |
+> > | Card et al. (2011) | Military deployed and achievement | 5 | 17,828 | 5 | -0.16 |  |
+> > | Mehana (1997) | Mobility and achievement | 26 | 2,889 | 45 | -0.24 |  |
+> > | Diaz (1992) | Moving from community college to 4-yr institutions | 62 | 131,689 | 354 | -0.28 |  |

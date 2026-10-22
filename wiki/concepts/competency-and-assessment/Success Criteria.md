@@ -17,6 +17,7 @@ tags:
   - theme/instruction
   - theme/curriculum-design
   - theme/rubrics
+  - metax
 related_concepts:
   - "[[Learning Intentions]]"
   - "[[Operationalization]]"
@@ -164,3 +165,22 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 系统呈现毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。
 > - **[[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]]** 记录[[John Hattie|哈蒂]]对原子化[[Learning Intentions|学习意图]]误用的反思，主张以 10 至 12 周大周期成功标准呈现优秀样例，融合表层与深层认知进阶。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [成功标准 · Success criteria](https://www.visiblelearningmetax.com/influences/view/success_criteria)
+> 教学策略 › 学习意图
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 163 | 0 | 163 | 0.64 | 0.88 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Lavery (2008b) | Setting standards for self-judgement | 156 | NA | 156 | 0.62 |  |
+> > | Marzano et al. (2001) | Cues/ brief overview of success | 7 | NA | 7 | 1.13 |  |

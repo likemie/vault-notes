@@ -20,6 +20,7 @@ tags:
   - ai-in-education
   - conversational-ai
   - instruction/dialogic-teaching
+  - metax
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[AI Agent in Education]]"
@@ -101,3 +102,24 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中系统检验了对话式智能体的大样本实证效能（$k = 30, g = 0.468$），确立了其在基础教育语言听说与交互式读写领域的统治性干预优势。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [聊天机器人 · Chatbot](https://www.visiblelearningmetax.com/influences/view/chatbot)
+> 技术、学校与校外策略 › 移动／触屏
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 4 | 94 | 2,201 | 182 | 0.63 | 0.62 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Zhang, Shan, et al. (2023) | Chatbots | 18 | NA | 61 | 0.53 |  |
+> > | Lee & Hwang (2023) | Chatbots | 16 | NA | 58 | 0.69 |  |
+> > | Alemdag (2023) | Chatbots | 28 | NA | 31 | 0.48 |  |
+> > | Deng & Yu (2023) | Chatbox on achievement | 32 | 2,201 | 32 | 0.79 |  |

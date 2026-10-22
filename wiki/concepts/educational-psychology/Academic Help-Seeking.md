@@ -18,6 +18,7 @@ tags:
   - theme/self-regulated-learning
   - theme/epistemic-cognition
   - cognition/learning-science
+  - metax
 related_concepts:
   - "[[Task Structure]]"
   - "[[Generative Artificial Intelligence]]"
@@ -190,3 +191,37 @@ updated: 2026-10-22
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 阐释求助恐惧对认识探索的阻碍，论证生成式 AI 的拟人化与无偏见特征如何提供低威胁求助环境，并结合[[Scaffolding\|教学支架]]促进自适应[[Epistemic Stances\|认识立场]]演进。（pp. 361–362）
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 基于大样本[[Meta-analysis\|元分析]]确证生成式 AI 对大学生[[Affective Outcomes\|情感动机]]的显著促进，揭示其消除传统高权力距离师生互动中提问求助焦虑的“权力壁垒破除机制”。（pp. 10–13, 16）
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较文化心理学奠基专著，深度剖析东方“同学文化”将同伴求助定义为[[Humility\|谦逊]]美德与西方[[Peer-Supported Learning|同伴文化]]将求助视作能力暴露的系统差异。（pp. 106–108, 2933–2935）
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [求助 · Help seeking](https://www.visiblelearningmetax.com/influences/view/help_seeking)
+> 学生学习策略 › 元认知／自我调节学习
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 4 | 207 | 44,438 | 233 | 0.41 | 0.67 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Lavery (2008b) | Help seeking | 62 | NA | 62 | 0.60 |  |
+> > | Dignath et al. (2008) | Seeking help from peers | 21 | NA | 21 | 0.83 |  |
+> > | Nakaya & Okada (2020) | Help seeking for near goals | 16 | 6,497 | 16 | 1.12 |  |
+> > | Fong, Gonzales, et al. (2021) | Help seeking | 108 | 37,941 | 134 | 0.12 |  |
+
+> [!metax] [向同伴求助 · Seeking help from peers](https://www.visiblelearningmetax.com/influences/view/seeking_help_from_peers)
+> 学生学习策略 › 元认知／自我调节学习
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 42 | 0 | 42 | 0.68 | 0.68 | ●○○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Hattie & Donoghue (2016) | Seeking help from peers | 21 | NA | 21 | 0.83 |  |
+> > | Brierley (2022) | Seeking help from peers in medical school | 21 | NA | 21 | 0.52 |  |

@@ -21,6 +21,7 @@ tags:
   - theme/student-engagement
   - theme/teaching-quality
   - theme/time-use
+  - metax
 related_concepts:
   - "[[Classroom Management]]"
   - "[[Learning Crisis]]"
@@ -218,3 +219,36 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立任务在轨时间的定格快照[[Operationalization|操作化]]规程，证实其作为基础支柱对学生学业增益的联合预测力。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [任务时间 · Time-on-task](https://www.visiblelearningmetax.com/influences/view/time-on-task)
+> 学生学习策略 › 学习策略
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 12 | 363 | 47,253 | 522 | 0.47 | 0.42 | ●●●●○ |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Bloom (1976) | Time on task | 11 | NA | 28 | 0.75 |  |
+> > | Fredrick & Walberg (1980) | Time on task | 35 | NA | 35 | 0.34 |  |
+> > | Catts (1992) | Time on task | 18 | NA | 37 | 0.19 |  |
+> > | Shulruf et al. (2006) | Taking more coursework | 36 | NA | 36 | 0.24 | ∑ |
+> > | Marzano et al. (2000) | Time on task | 15 | NA | 15 | 0.39 |  |
+> > | Purdie & Hattie (1999) | Time on task | 36 | NA | 36 | 0.24 | ∑ |
+> > | Kidron & Lindsay (2014) | Increased learning time | 18 | NA | 18 | 0.05 |  |
+> > | Scheerens & Hendriks (2014) | Time on task | 30 | NA | 111 | 0.34 |  |
+> > | Scheerens, Hendriks, et al. (2013) | Learning time in school | 12 | NA | 16 | 0.09 |  |
+> > | Cook et al. (2010) | Time on task | 13 | NA | 14 | 1.25 |  |
+> > | Crede et al. (2010) | Class attendance | 90 | 28,034 | 99 | 0.95 |  |
+> > | Huang (2015b) | Study time | 49 | 19,219 | 77 | 0.24 |  |
+>
+> > [!metax-errata] 2 条
+> > - ∑ **自动核算 · 疑似重复** Shulruf et al. (2006) 与 Purdie & Hattie (1999) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 11 项，研究数 327，加权平均效应量 0.50，未加权平均效应量 0.44（仅供参考，未核原文）。

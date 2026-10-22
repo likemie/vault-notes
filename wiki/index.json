@@ -2693,6 +2693,14 @@
     ]
   },
   {
+    "title": "Acceleration Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Acceleration Programs.md",
+    "aliases": [
+      "跳级加速项目"
+    ]
+  },
+  {
     "title": "Advanced Placement Program",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Advanced Placement Program.md",
@@ -2722,6 +2730,14 @@
     ]
   },
   {
+    "title": "Arts Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Arts Programs.md",
+    "aliases": [
+      "艺术项目"
+    ]
+  },
+  {
     "title": "Atomisation of Knowledge and Skills",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Atomisation of Knowledge and Skills.md",
@@ -2730,11 +2746,59 @@
     ]
   },
   {
+    "title": "Autism Program",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Autism Program.md",
+    "aliases": [
+      "孤独症干预项目"
+    ]
+  },
+  {
     "title": "Big Ideas",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Big Ideas.md",
     "aliases": [
       "大概念"
+    ]
+  },
+  {
+    "title": "Bilingual Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Bilingual Programs.md",
+    "aliases": [
+      "双语项目"
+    ]
+  },
+  {
+    "title": "Career Interventions",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Career Interventions.md",
+    "aliases": [
+      "生涯干预"
+    ]
+  },
+  {
+    "title": "Character and Positive Education Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Character and Positive Education Programs.md",
+    "aliases": [
+      "品格与积极教育项目"
+    ]
+  },
+  {
+    "title": "Chess Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Chess Instruction.md",
+    "aliases": [
+      "国际象棋教学"
+    ]
+  },
+  {
+    "title": "Coding Education",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Coding Education.md",
+    "aliases": [
+      "编程教育"
     ]
   },
   {
@@ -2809,6 +2873,22 @@
     ]
   },
   {
+    "title": "Diversity Courses",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Diversity Courses.md",
+    "aliases": [
+      "多元文化课程"
+    ]
+  },
+  {
+    "title": "Drama Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Drama Programs.md",
+    "aliases": [
+      "戏剧项目"
+    ]
+  },
+  {
     "title": "Dramatic Tension",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Dramatic Tension.md",
@@ -2842,6 +2922,14 @@
     ]
   },
   {
+    "title": "Enrichment Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Enrichment Programs.md",
+    "aliases": [
+      "拓展充实项目"
+    ]
+  },
+  {
     "title": "Epistemic Ascent",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Epistemic Ascent.md",
@@ -2860,6 +2948,22 @@
     ]
   },
   {
+    "title": "Exercise Interventions",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Exercise Interventions.md",
+    "aliases": [
+      "运动干预"
+    ]
+  },
+  {
+    "title": "Exposure to Reading",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Exposure to Reading.md",
+    "aliases": [
+      "阅读接触量"
+    ]
+  },
+  {
     "title": "Extended Essay",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Extended Essay.md",
@@ -2875,6 +2979,22 @@
     "aliases": [
       "滋养机制",
       "动态滋养机制"
+    ]
+  },
+  {
+    "title": "Financial Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Financial Programs.md",
+    "aliases": [
+      "经济资助项目"
+    ]
+  },
+  {
+    "title": "Foreign Languages",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Foreign Languages.md",
+    "aliases": [
+      "外语学习"
     ]
   },
   {
@@ -2931,6 +3051,14 @@
     ]
   },
   {
+    "title": "Integrated Curriculum Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Integrated Curriculum Programs.md",
+    "aliases": [
+      "整合课程"
+    ]
+  },
+  {
     "title": "International Baccalaureate",
     "type": "concept",
     "path": "wiki/concepts/curriculum/International Baccalaureate.md",
@@ -2948,6 +3076,14 @@
     "path": "wiki/concepts/curriculum/International Spinozian Curriculum.md",
     "aliases": [
       "国际斯宾诺莎主义课程"
+    ]
+  },
+  {
+    "title": "Juvenile Delinquent Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Juvenile Delinquent Programs.md",
+    "aliases": [
+      "青少年犯罪矫治项目"
     ]
   },
   {
@@ -3005,6 +3141,38 @@
     ]
   },
   {
+    "title": "Mathematics Intervention Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Mathematics Intervention Programs.md",
+    "aliases": [
+      "数学干预项目"
+    ]
+  },
+  {
+    "title": "Mathematics Problem Solving Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Mathematics Problem Solving Instruction.md",
+    "aliases": [
+      "数学问题解决教学"
+    ]
+  },
+  {
+    "title": "Moral Judgement Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Moral Judgement Programs.md",
+    "aliases": [
+      "道德判断项目"
+    ]
+  },
+  {
+    "title": "Music Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Music Programs.md",
+    "aliases": [
+      "音乐项目"
+    ]
+  },
+  {
     "title": "Mātauranga Māori",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Mātauranga Māori.md",
@@ -3035,6 +3203,14 @@
     ]
   },
   {
+    "title": "Outdoor Adventure Education",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Outdoor Adventure Education.md",
+    "aliases": [
+      "户外探险教育"
+    ]
+  },
+  {
     "title": "Paradigmatic Learning",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Paradigmatic Learning.md",
@@ -3044,11 +3220,67 @@
     ]
   },
   {
+    "title": "Phonemic Awareness",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Phonemic Awareness.md",
+    "aliases": [
+      "音素意识"
+    ]
+  },
+  {
+    "title": "Phonics Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Phonics Instruction.md",
+    "aliases": [
+      "自然拼读教学"
+    ]
+  },
+  {
+    "title": "Phonological Awareness",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Phonological Awareness.md",
+    "aliases": [
+      "语音意识"
+    ]
+  },
+  {
+    "title": "Play Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Play Programs.md",
+    "aliases": [
+      "游戏项目"
+    ]
+  },
+  {
     "title": "Powerful Knowledge",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Powerful Knowledge.md",
     "aliases": [
       "有力知识"
+    ]
+  },
+  {
+    "title": "Print Versus Digital Reading",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Print Versus Digital Reading.md",
+    "aliases": [
+      "纸质与数字阅读"
+    ]
+  },
+  {
+    "title": "Reading Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Reading Programs.md",
+    "aliases": [
+      "阅读项目"
+    ]
+  },
+  {
+    "title": "Reading Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Reading Strategies.md",
+    "aliases": [
+      "阅读策略"
     ]
   },
   {
@@ -3072,6 +3304,30 @@
     ]
   },
   {
+    "title": "Science Conceptual Change Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Science Conceptual Change Programs.md",
+    "aliases": [
+      "科学概念转变项目"
+    ]
+  },
+  {
+    "title": "Science Lab Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Science Lab Programs.md",
+    "aliases": [
+      "科学实验项目"
+    ]
+  },
+  {
+    "title": "Science Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Science Programs.md",
+    "aliases": [
+      "科学项目"
+    ]
+  },
+  {
     "title": "Scientific Explanation",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Scientific Explanation.md",
@@ -3091,6 +3347,14 @@
     ]
   },
   {
+    "title": "Sentence-combining Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Sentence-combining Programs.md",
+    "aliases": [
+      "句子合并训练"
+    ]
+  },
+  {
     "title": "Social Museology",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Social Museology.md",
@@ -3099,6 +3363,14 @@
       "sociomuseology",
       "sociomuseologia",
       "new museology"
+    ]
+  },
+  {
+    "title": "Social Skills Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Social Skills Programs.md",
+    "aliases": [
+      "社交技能项目"
     ]
   },
   {
@@ -3113,6 +3385,30 @@
     ]
   },
   {
+    "title": "Sound Or Inference",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Sound Or Inference.md",
+    "aliases": [
+      "语音或推理"
+    ]
+  },
+  {
+    "title": "Spatial Skills Training",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Spatial Skills Training.md",
+    "aliases": [
+      "空间能力训练"
+    ]
+  },
+  {
+    "title": "Spelling Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Spelling Programs.md",
+    "aliases": [
+      "拼写项目"
+    ]
+  },
+  {
     "title": "Sustainability Education",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Sustainability Education.md",
@@ -3122,6 +3418,14 @@
       "气候与可持续发展教育",
       "Climate and Sustainability Education",
       "Education for Sustainable Development"
+    ]
+  },
+  {
+    "title": "Tactile Stimulation",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Tactile Stimulation.md",
+    "aliases": [
+      "触觉刺激"
     ]
   },
   {
@@ -3156,6 +3460,30 @@
     ]
   },
   {
+    "title": "Use of Calculators",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Use of Calculators.md",
+    "aliases": [
+      "使用计算器"
+    ]
+  },
+  {
+    "title": "Visual Perception Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Visual Perception Programs.md",
+    "aliases": [
+      "视知觉项目"
+    ]
+  },
+  {
+    "title": "Vocabulary Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Vocabulary Programs.md",
+    "aliases": [
+      "词汇项目"
+    ]
+  },
+  {
     "title": "Ways of Knowing",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Ways of Knowing.md",
@@ -3174,6 +3502,14 @@
       "西方文明课",
       "History of Western Civilization",
       "西方文明通识课"
+    ]
+  },
+  {
+    "title": "Writing Programs",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Writing Programs.md",
+    "aliases": [
+      "写作项目"
     ]
   },
   {
@@ -3293,6 +3629,38 @@
     ]
   },
   {
+    "title": "Academic Press",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Academic Press.md",
+    "aliases": [
+      "学业压力导向"
+    ]
+  },
+  {
+    "title": "Building Quality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Building Quality.md",
+    "aliases": [
+      "校舍质量"
+    ]
+  },
+  {
+    "title": "Charter Schools",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Charter Schools.md",
+    "aliases": [
+      "特许学校"
+    ]
+  },
+  {
+    "title": "College Halls of Residence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/College Halls of Residence.md",
+    "aliases": [
+      "大学住宿"
+    ]
+  },
+  {
     "title": "Constructive Disobedience",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Constructive Disobedience.md",
@@ -3300,6 +3668,14 @@
       "建设性不服从",
       "建设性违抗",
       "建设性抗命"
+    ]
+  },
+  {
+    "title": "COVID-19 Disruption to Schooling",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/COVID-19 Disruption to Schooling.md",
+    "aliases": [
+      "新冠疫情停课"
     ]
   },
   {
@@ -3322,6 +3698,14 @@
     ]
   },
   {
+    "title": "Diversity of Student Body",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Diversity of Student Body.md",
+    "aliases": [
+      "学生群体多样性"
+    ]
+  },
+  {
     "title": "Educational Decentralization",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Educational Decentralization.md",
@@ -3331,6 +3715,14 @@
       "地方教育分权",
       "educational devolution",
       "educational decentralisation"
+    ]
+  },
+  {
+    "title": "Free School Meals",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Free School Meals.md",
+    "aliases": [
+      "免费校餐"
     ]
   },
   {
@@ -3358,6 +3750,14 @@
     ]
   },
   {
+    "title": "Magnet Schools",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Magnet Schools.md",
+    "aliases": [
+      "磁石学校"
+    ]
+  },
+  {
     "title": "Meeting-Industrial Complex",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Meeting-Industrial Complex.md",
@@ -3367,6 +3767,22 @@
       "会议官僚主义",
       "Meeting Madness",
       "过度会议文化"
+    ]
+  },
+  {
+    "title": "Middle School Interventions",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Middle School Interventions.md",
+    "aliases": [
+      "初中干预"
+    ]
+  },
+  {
+    "title": "Montessori Programs",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Montessori Programs.md",
+    "aliases": [
+      "蒙台梭利项目"
     ]
   },
   {
@@ -3398,6 +3814,14 @@
     ]
   },
   {
+    "title": "Preschool Education Programs",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Preschool Education Programs.md",
+    "aliases": [
+      "学前教育项目"
+    ]
+  },
+  {
     "title": "Rational-Control Rhetoric",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Rational-Control Rhetoric.md",
@@ -3407,12 +3831,92 @@
     ]
   },
   {
+    "title": "Religious Schools",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Religious Schools.md",
+    "aliases": [
+      "宗教学校"
+    ]
+  },
+  {
+    "title": "School Accountability Systems",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Accountability Systems.md",
+    "aliases": [
+      "学校问责制度"
+    ]
+  },
+  {
+    "title": "School Calendar Modification",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Calendar Modification.md",
+    "aliases": [
+      "校历调整"
+    ]
+  },
+  {
+    "title": "School Climate Effects",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Climate Effects.md",
+    "aliases": [
+      "学校氛围"
+    ]
+  },
+  {
+    "title": "School Consolidation and Turnaround",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Consolidation and Turnaround.md",
+    "aliases": [
+      "学校合并与转型"
+    ]
+  },
+  {
+    "title": "School Corporal Punishment",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Corporal Punishment.md",
+    "aliases": [
+      "学校体罚"
+    ]
+  },
+  {
+    "title": "School Desegregation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Desegregation.md",
+    "aliases": [
+      "学校种族融合"
+    ]
+  },
+  {
+    "title": "School Finances",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Finances.md",
+    "aliases": [
+      "学校经费"
+    ]
+  },
+  {
     "title": "School Leadership",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/School Leadership.md",
     "aliases": [
       "学校领导力",
       "学校领导"
+    ]
+  },
+  {
+    "title": "School Size Effects",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Size Effects.md",
+    "aliases": [
+      "学校规模效应"
+    ]
+  },
+  {
+    "title": "School Vouchers",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Vouchers.md",
+    "aliases": [
+      "教育券"
     ]
   },
   {
@@ -3426,6 +3930,14 @@
       "组织模糊性",
       "Productive Organizational Ambiguity",
       "开放真空空间"
+    ]
+  },
+  {
+    "title": "Single-sex Schools",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Single-sex Schools.md",
+    "aliases": [
+      "单性别学校"
     ]
   },
   {
@@ -3451,6 +3963,22 @@
       "Instrumental Status",
       "Status Negotiation",
       "地位协商"
+    ]
+  },
+  {
+    "title": "Summer School",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Summer School.md",
+    "aliases": [
+      "暑期学校"
+    ]
+  },
+  {
+    "title": "Summer Vacation Length",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Summer Vacation Length.md",
+    "aliases": [
+      "暑假长度"
     ]
   },
   {
@@ -6466,6 +6994,22 @@
     ]
   },
   {
+    "title": "Academic Anxiety",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Academic Anxiety.md",
+    "aliases": [
+      "学业焦虑"
+    ]
+  },
+  {
+    "title": "Academic Emotions",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Academic Emotions.md",
+    "aliases": [
+      "学业情绪"
+    ]
+  },
+  {
     "title": "Academic Help-Seeking",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Academic Help-Seeking.md",
@@ -6474,6 +7018,14 @@
       "学业求助行为",
       "academic help seeking",
       "寻求学术帮助"
+    ]
+  },
+  {
+    "title": "Academic Procrastination",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Academic Procrastination.md",
+    "aliases": [
+      "学业拖延"
     ]
   },
   {
@@ -6495,6 +7047,30 @@
     ]
   },
   {
+    "title": "Achievement Goal Orientations",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Achievement Goal Orientations.md",
+    "aliases": [
+      "成就目标定向"
+    ]
+  },
+  {
+    "title": "Adjustment to College",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Adjustment to College.md",
+    "aliases": [
+      "大学适应"
+    ]
+  },
+  {
+    "title": "Adverse Childhood Experiences",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Adverse Childhood Experiences.md",
+    "aliases": [
+      "童年不良经历"
+    ]
+  },
+  {
     "title": "Affective Outcomes",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Affective Outcomes.md",
@@ -6508,6 +7084,54 @@
       "情感动机",
       "Affective-Motivational Outcomes",
       "Non-cognitive Outcomes"
+    ]
+  },
+  {
+    "title": "Attitude to Math and Science",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Attitude to Math and Science.md",
+    "aliases": [
+      "数学／科学态度"
+    ]
+  },
+  {
+    "title": "Attitude Towards Content Domains",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Attitude Towards Content Domains.md",
+    "aliases": [
+      "学科态度"
+    ]
+  },
+  {
+    "title": "Autism Spectrum Disorder",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Autism Spectrum Disorder.md",
+    "aliases": [
+      "孤独症谱系障碍"
+    ]
+  },
+  {
+    "title": "Breastfeeding and Cognitive Development",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Breastfeeding and Cognitive Development.md",
+    "aliases": [
+      "母乳喂养与认知发展"
+    ]
+  },
+  {
+    "title": "Childhood Illness and Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Childhood Illness and Achievement.md",
+    "aliases": [
+      "儿童疾病"
+    ]
+  },
+  {
+    "title": "Chronotype and Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Chronotype and Achievement.md",
+    "aliases": [
+      "晨型与夜型"
     ]
   },
   {
@@ -6549,12 +7173,36 @@
     ]
   },
   {
+    "title": "Cross-Laterality Training",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Cross-Laterality Training.md",
+    "aliases": [
+      "交叉侧性训练"
+    ]
+  },
+  {
+    "title": "Culturally Sustaining Practices",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Culturally Sustaining Practices.md",
+    "aliases": [
+      "文化维续教学"
+    ]
+  },
+  {
     "title": "Development of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Development of Knowledge.md",
     "aliases": [
       "知识的发展",
       "知识发展信念"
+    ]
+  },
+  {
+    "title": "Dialect Use",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Dialect Use.md",
+    "aliases": [
+      "方言使用"
     ]
   },
   {
@@ -6567,6 +7215,14 @@
       "学科特异性",
       "Domain-Specificity",
       "Domain Specific"
+    ]
+  },
+  {
+    "title": "Emotional Intelligence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Emotional Intelligence.md",
+    "aliases": [
+      "情绪智力"
     ]
   },
   {
@@ -6613,6 +7269,14 @@
     "aliases": [
       "认识论承诺",
       "隐性认识论信念"
+    ]
+  },
+  {
+    "title": "Epistemic Curiosity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Epistemic Curiosity.md",
+    "aliases": [
+      "学习好奇心"
     ]
   },
   {
@@ -6764,11 +7428,27 @@
     ]
   },
   {
+    "title": "Field Independence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Field Independence.md",
+    "aliases": [
+      "场独立性"
+    ]
+  },
+  {
     "title": "Formal Epistemology",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Formal Epistemology.md",
     "aliases": [
       "形式认识论"
+    ]
+  },
+  {
+    "title": "Grit",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Grit.md",
+    "aliases": [
+      "坚毅"
     ]
   },
   {
@@ -6803,6 +7483,14 @@
       "Epistemic Emotions",
       "Intellectual Emotion",
       "Epistemic Emotion"
+    ]
+  },
+  {
+    "title": "Intelligence and Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Intelligence and Achievement.md",
+    "aliases": [
+      "智力与学业成就"
     ]
   },
   {
@@ -6883,6 +7571,14 @@
     ]
   },
   {
+    "title": "Perfectionism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Perfectionism.md",
+    "aliases": [
+      "完美主义"
+    ]
+  },
+  {
     "title": "Personal Constructs",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Personal Constructs.md",
@@ -6892,11 +7588,59 @@
     ]
   },
   {
+    "title": "Physical Fitness and Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Physical Fitness and Achievement.md",
+    "aliases": [
+      "体质健康"
+    ]
+  },
+  {
+    "title": "Physical Syndromes",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Physical Syndromes.md",
+    "aliases": [
+      "身体综合征"
+    ]
+  },
+  {
+    "title": "Piagetian Levels",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Piagetian Levels.md",
+    "aliases": [
+      "皮亚杰认知阶段"
+    ]
+  },
+  {
+    "title": "Positive Ethnicity Self-identity",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Positive Ethnicity Self-identity.md",
+    "aliases": [
+      "积极族裔认同"
+    ]
+  },
+  {
     "title": "Practical Epistemology",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Practical Epistemology.md",
     "aliases": [
       "实践认识论"
+    ]
+  },
+  {
+    "title": "Preterm Birth and Low Birth Weight",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Preterm Birth and Low Birth Weight.md",
+    "aliases": [
+      "早产与低出生体重"
+    ]
+  },
+  {
+    "title": "Prior Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Prior Achievement.md",
+    "aliases": [
+      "先前学业成就"
     ]
   },
   {
@@ -6919,6 +7663,30 @@
     ]
   },
   {
+    "title": "Relating Creativity to Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Relating Creativity to Achievement.md",
+    "aliases": [
+      "创造力与学业成就"
+    ]
+  },
+  {
+    "title": "Relation of High School to Adult Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Relation of High School to Adult Achievement.md",
+    "aliases": [
+      "高中成就与成年成就"
+    ]
+  },
+  {
+    "title": "Relations of High School to University",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Relations of High School to University.md",
+    "aliases": [
+      "高中成就与大学成就"
+    ]
+  },
+  {
     "title": "Reliable Epistemic Processes",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Reliable Epistemic Processes.md",
@@ -6927,6 +7695,14 @@
       "可靠认知过程",
       "reliable processes",
       "可靠过程"
+    ]
+  },
+  {
+    "title": "Self-reported Grades",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Self-reported Grades.md",
+    "aliases": [
+      "自我报告成绩"
     ]
   },
   {
@@ -6941,12 +7717,44 @@
     ]
   },
   {
+    "title": "Sleep Deprivation in Students",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Sleep Deprivation in Students.md",
+    "aliases": [
+      "学生睡眠不足"
+    ]
+  },
+  {
     "title": "Source of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Source of Knowledge.md",
     "aliases": [
       "知识的来源",
       "知识来源"
+    ]
+  },
+  {
+    "title": "Student Absenteeism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Absenteeism.md",
+    "aliases": [
+      "学生缺勤"
+    ]
+  },
+  {
+    "title": "Student Aggression and Violence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Aggression and Violence.md",
+    "aliases": [
+      "学生攻击与暴力"
+    ]
+  },
+  {
+    "title": "Student Approaches to Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Approaches to Learning.md",
+    "aliases": [
+      "学生学习方式"
     ]
   },
   {
@@ -6959,6 +7767,30 @@
     ]
   },
   {
+    "title": "Student Depression",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Depression.md",
+    "aliases": [
+      "学生抑郁"
+    ]
+  },
+  {
+    "title": "Student Motivation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Motivation.md",
+    "aliases": [
+      "学生学习动机"
+    ]
+  },
+  {
+    "title": "Student Personality Traits",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Personality Traits.md",
+    "aliases": [
+      "学生人格特质"
+    ]
+  },
+  {
     "title": "Student Satisfaction",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Student Satisfaction.md",
@@ -6968,11 +7800,27 @@
     ]
   },
   {
+    "title": "Student Well-being",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Student Well-being.md",
+    "aliases": [
+      "学生幸福感"
+    ]
+  },
+  {
     "title": "Subjective Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Subjective Knowledge.md",
     "aliases": [
       "主观知识"
+    ]
+  },
+  {
+    "title": "Sugar Intake and Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Sugar Intake and Learning.md",
+    "aliases": [
+      "糖摄入与学习"
     ]
   },
   {
@@ -7000,6 +7848,14 @@
       "十二年级滑坡",
       "twelfth grade slump",
       "senior-year slump"
+    ]
+  },
+  {
+    "title": "After-school Programs",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/After-school Programs.md",
+    "aliases": [
+      "课后项目"
     ]
   },
   {
@@ -7052,6 +7908,30 @@
     ]
   },
   {
+    "title": "Artificial Intelligence in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Artificial Intelligence in Education.md",
+    "aliases": [
+      "教育人工智能"
+    ]
+  },
+  {
+    "title": "Audiovisual Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Audiovisual Instruction.md",
+    "aliases": [
+      "视听教学"
+    ]
+  },
+  {
+    "title": "Augmented Reality",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Augmented Reality.md",
+    "aliases": [
+      "增强现实"
+    ]
+  },
+  {
     "title": "Automation Bias",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Automation Bias.md",
@@ -7079,6 +7959,14 @@
     ]
   },
   {
+    "title": "Classroom Response Systems",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Classroom Response Systems.md",
+    "aliases": [
+      "课堂应答系统"
+    ]
+  },
+  {
     "title": "Cognitive Deskilling",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Cognitive Deskilling.md",
@@ -7088,6 +7976,22 @@
       "Deskilling",
       "Cognitive Deskilling Effect",
       "智力去技能化"
+    ]
+  },
+  {
+    "title": "College Programs for High Risk",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/College Programs for High Risk.md",
+    "aliases": [
+      "大学高风险学生项目"
+    ]
+  },
+  {
+    "title": "Communicative Assisted Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Communicative Assisted Learning.md",
+    "aliases": [
+      "交际辅助学习"
     ]
   },
   {
@@ -7148,6 +8052,14 @@
     ]
   },
   {
+    "title": "Distance Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Distance Education.md",
+    "aliases": [
+      "远程教育"
+    ]
+  },
+  {
     "title": "Educational Robotics",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Educational Robotics.md",
@@ -7157,6 +8069,14 @@
       "Educational Robots",
       "人工智能教育机器人",
       "具身教育智能体"
+    ]
+  },
+  {
+    "title": "Educational Technology Across Learner Groups",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Educational Technology Across Learner Groups.md",
+    "aliases": [
+      "不同学习者群体的教育技术"
     ]
   },
   {
@@ -7184,6 +8104,30 @@
     "aliases": [
       "认识论挑衅者",
       "epistemic provocateurs"
+    ]
+  },
+  {
+    "title": "Extracurricular Activities",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Extracurricular Activities.md",
+    "aliases": [
+      "课外活动"
+    ]
+  },
+  {
+    "title": "FaceTime and Social Media",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/FaceTime and Social Media.md",
+    "aliases": [
+      "视频通话与社交媒体"
+    ]
+  },
+  {
+    "title": "Game-Based Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Game-Based Learning.md",
+    "aliases": [
+      "游戏化学习"
     ]
   },
   {
@@ -7222,6 +8166,14 @@
     ]
   },
   {
+    "title": "Information and Computer Technology",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Information and Computer Technology.md",
+    "aliases": [
+      "信息与计算机技术"
+    ]
+  },
+  {
     "title": "Intelligent Tutoring Systems",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md",
@@ -7232,6 +8184,30 @@
       "智能教学系统",
       "Intelligent Tutoring System",
       "Intelligent Tutoring Systems (ITS)"
+    ]
+  },
+  {
+    "title": "Interactive Story Books",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Interactive Story Books.md",
+    "aliases": [
+      "互动故事书"
+    ]
+  },
+  {
+    "title": "Interactive Video and Multimedia",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Interactive Video and Multimedia.md",
+    "aliases": [
+      "交互视频与多媒体"
+    ]
+  },
+  {
+    "title": "Interactive Whiteboards",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Interactive Whiteboards.md",
+    "aliases": [
+      "交互式白板"
     ]
   },
   {
@@ -7269,6 +8245,14 @@
     ]
   },
   {
+    "title": "Massive Open Online Courses",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Massive Open Online Courses.md",
+    "aliases": [
+      "慕课"
+    ]
+  },
+  {
     "title": "Meaningful Human Control",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Meaningful Human Control.md",
@@ -7279,6 +8263,38 @@
       "人在回路",
       "Human Oversight",
       "人类有效控制"
+    ]
+  },
+  {
+    "title": "Mobile Devices",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Mobile Devices.md",
+    "aliases": [
+      "移动设备"
+    ]
+  },
+  {
+    "title": "One-on-one Laptops",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/One-on-one Laptops.md",
+    "aliases": [
+      "一人一机"
+    ]
+  },
+  {
+    "title": "Online and Digital Tools",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Online and Digital Tools.md",
+    "aliases": [
+      "在线与数字工具"
+    ]
+  },
+  {
+    "title": "Online Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Online Education.md",
+    "aliases": [
+      "在线教育"
     ]
   },
   {
@@ -7295,6 +8311,46 @@
     ]
   },
   {
+    "title": "Presence of Mobile Phones",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Presence of Mobile Phones.md",
+    "aliases": [
+      "手机在场"
+    ]
+  },
+  {
+    "title": "Programmed Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Programmed Instruction.md",
+    "aliases": [
+      "程序教学"
+    ]
+  },
+  {
+    "title": "Screen Time",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Screen Time.md",
+    "aliases": [
+      "屏幕时间"
+    ]
+  },
+  {
+    "title": "Service Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Service Learning.md",
+    "aliases": [
+      "服务学习"
+    ]
+  },
+  {
+    "title": "Shadow Programs",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Shadow Programs.md",
+    "aliases": [
+      "跟岗体验项目"
+    ]
+  },
+  {
     "title": "Stochastic Parrot",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Stochastic Parrot.md",
@@ -7305,6 +8361,30 @@
     ]
   },
   {
+    "title": "Student After School Employment",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Student After School Employment.md",
+    "aliases": [
+      "学生课后打工"
+    ]
+  },
+  {
+    "title": "Study Abroad",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Study Abroad.md",
+    "aliases": [
+      "出国留学"
+    ]
+  },
+  {
+    "title": "Tablets and Touch Devices in Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Tablets and Touch Devices in Learning.md",
+    "aliases": [
+      "平板与触屏学习"
+    ]
+  },
+  {
     "title": "Technology Habituation",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Technology Habituation.md",
@@ -7312,6 +8392,14 @@
       "技术习惯化",
       "前沿技术习惯化",
       "教育中的技术习惯化"
+    ]
+  },
+  {
+    "title": "Technology in Subject Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Technology in Subject Teaching.md",
+    "aliases": [
+      "学科教学技术"
     ]
   },
   {
@@ -7338,6 +8426,22 @@
     ]
   },
   {
+    "title": "Use of PowerPoint",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Use of PowerPoint.md",
+    "aliases": [
+      "使用演示文稿"
+    ]
+  },
+  {
+    "title": "Virtual Reality in Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Virtual Reality in Education.md",
+    "aliases": [
+      "教育虚拟现实"
+    ]
+  },
+  {
     "title": "Virtual Teacher Staffroom",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Virtual Teacher Staffroom.md",
@@ -7360,6 +8464,30 @@
       "虚拟世界",
       "virtual worlds",
       "synthetic world"
+    ]
+  },
+  {
+    "title": "Web-Based Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Web-Based Learning.md",
+    "aliases": [
+      "网络学习"
+    ]
+  },
+  {
+    "title": "Webinar-Based Learning",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Webinar-Based Learning.md",
+    "aliases": [
+      "网络研讨会学习"
+    ]
+  },
+  {
+    "title": "Whole-School Improvement",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Whole-School Improvement.md",
+    "aliases": [
+      "全校改进"
     ]
   },
   {
@@ -8259,6 +9387,38 @@
     ]
   },
   {
+    "title": "ADHD Treatment with Drugs",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/ADHD Treatment with Drugs.md",
+    "aliases": [
+      "多动症药物治疗"
+    ]
+  },
+  {
+    "title": "Adjunct Aids",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Adjunct Aids.md",
+    "aliases": [
+      "辅助材料"
+    ]
+  },
+  {
+    "title": "Advance Organizers",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Advance Organizers.md",
+    "aliases": [
+      "先行组织者"
+    ]
+  },
+  {
+    "title": "Alternative Assessment Methods",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Alternative Assessment Methods.md",
+    "aliases": [
+      "替代性评价方法"
+    ]
+  },
+  {
     "title": "Anchored Instruction",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Anchored Instruction.md",
@@ -8280,6 +9440,14 @@
       "双元制学徒培训",
       "注册学徒制",
       "Registered Apprenticeship"
+    ]
+  },
+  {
+    "title": "Appropriately Challenging Goals",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Appropriately Challenging Goals.md",
+    "aliases": [
+      "适度挑战性目标"
     ]
   },
   {
@@ -8315,6 +9483,14 @@
       "真实的科学实践",
       "真实科学探究",
       "authentic scientific practices"
+    ]
+  },
+  {
+    "title": "Background Music While Studying",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Background Music While Studying.md",
+    "aliases": [
+      "学习背景音乐"
     ]
   },
   {
@@ -8354,6 +9530,30 @@
     ]
   },
   {
+    "title": "Captions and Subtitles",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Captions and Subtitles.md",
+    "aliases": [
+      "字幕"
+    ]
+  },
+  {
+    "title": "Class Climate Effects",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Class Climate Effects.md",
+    "aliases": [
+      "班级氛围"
+    ]
+  },
+  {
+    "title": "Classroom Breaks",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Classroom Breaks.md",
+    "aliases": [
+      "课间休息"
+    ]
+  },
+  {
     "title": "Classroom Debate",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Classroom Debate.md",
@@ -8363,6 +9563,14 @@
       "教育辩论",
       "educational debate",
       "academic debate"
+    ]
+  },
+  {
+    "title": "Classroom Discussion and Argumentation",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Classroom Discussion and Argumentation.md",
+    "aliases": [
+      "课堂讨论与论证"
     ]
   },
   {
@@ -8379,6 +9587,46 @@
     "path": "wiki/concepts/instruction-pedagogy/Classroom Management.md",
     "aliases": [
       "课堂管理"
+    ]
+  },
+  {
+    "title": "Classroom Pets",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Classroom Pets.md",
+    "aliases": [
+      "班级宠物"
+    ]
+  },
+  {
+    "title": "Clear Goal Intentions",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Clear Goal Intentions.md",
+    "aliases": [
+      "明确的目标意图"
+    ]
+  },
+  {
+    "title": "Co-Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Co-Teaching.md",
+    "aliases": [
+      "协同教学"
+    ]
+  },
+  {
+    "title": "Cognitive Behavioral Programs",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Cognitive Behavioral Programs.md",
+    "aliases": [
+      "认知行为项目"
+    ]
+  },
+  {
+    "title": "Collaborative Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Collaborative Learning.md",
+    "aliases": [
+      "协作学习"
     ]
   },
   {
@@ -8439,6 +9687,22 @@
     ]
   },
   {
+    "title": "Cooperative, Competitive and Individualistic Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Cooperative, Competitive and Individualistic Learning.md",
+    "aliases": [
+      "合作、竞争与个体式学习"
+    ]
+  },
+  {
+    "title": "Counseling Effects",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Counseling Effects.md",
+    "aliases": [
+      "心理辅导"
+    ]
+  },
+  {
     "title": "Critiques of Visible Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
@@ -8446,6 +9710,22 @@
       "可见的学习批评",
       "Visible Learning critiques",
       "Criticism of Visible Learning"
+    ]
+  },
+  {
+    "title": "Decreasing Disruptive Behavior",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Decreasing Disruptive Behavior.md",
+    "aliases": [
+      "减少扰乱行为"
+    ]
+  },
+  {
+    "title": "Design Thinking in Education",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Design Thinking in Education.md",
+    "aliases": [
+      "设计思维教育"
     ]
   },
   {
@@ -8508,11 +9788,35 @@
     ]
   },
   {
+    "title": "Explicit Teaching Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Explicit Teaching Strategies.md",
+    "aliases": [
+      "显性教学策略"
+    ]
+  },
+  {
+    "title": "Explicit Teaching Strategies with LD",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Explicit Teaching Strategies with LD.md",
+    "aliases": [
+      "面向学习障碍学生的显性教学"
+    ]
+  },
+  {
     "title": "Feedback",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Feedback.md",
     "aliases": [
       "教学反馈"
+    ]
+  },
+  {
+    "title": "Flipped Classrooms",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Flipped Classrooms.md",
+    "aliases": [
+      "翻转课堂"
     ]
   },
   {
@@ -8536,6 +9840,14 @@
       "整体方法",
       "整体进路",
       "Ganz Method"
+    ]
+  },
+  {
+    "title": "Goal Commitment",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Goal Commitment.md",
+    "aliases": [
+      "目标承诺"
     ]
   },
   {
@@ -8571,6 +9883,14 @@
     ]
   },
   {
+    "title": "Inclusive Education",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Inclusive Education.md",
+    "aliases": [
+      "融合教育"
+    ]
+  },
+  {
     "title": "Individualised Instruction",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Individualised Instruction.md",
@@ -8579,6 +9899,14 @@
       "个性化教学",
       "个别化指导",
       "individualized instruction"
+    ]
+  },
+  {
+    "title": "Inductive Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Inductive Teaching.md",
+    "aliases": [
+      "归纳式教学"
     ]
   },
   {
@@ -8605,6 +9933,22 @@
       "guided inquiry",
       "指导式探究",
       "探究学习"
+    ]
+  },
+  {
+    "title": "Intervention Programs for ADHD",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Intervention Programs for ADHD.md",
+    "aliases": [
+      "多动症干预项目"
+    ]
+  },
+  {
+    "title": "Interventions for Students with Learning Needs",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Interventions for Students with Learning Needs.md",
+    "aliases": [
+      "特殊学习需要学生干预"
     ]
   },
   {
@@ -8652,6 +9996,22 @@
     ]
   },
   {
+    "title": "Learning Hierarchies Approach",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Learning Hierarchies Approach.md",
+    "aliases": [
+      "学习层级法"
+    ]
+  },
+  {
+    "title": "Lecturing",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Lecturing.md",
+    "aliases": [
+      "讲授法"
+    ]
+  },
+  {
     "title": "Listening-Oriented Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Listening-Oriented Learning.md",
@@ -8660,6 +10020,14 @@
       "listening-centred learning",
       "silent participation",
       "沉默参与"
+    ]
+  },
+  {
+    "title": "Mastery Learning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Mastery Learning.md",
+    "aliases": [
+      "掌握学习"
     ]
   },
   {
@@ -8673,6 +10041,22 @@
       "Mind Maps",
       "Mindmapping",
       "放射性思维"
+    ]
+  },
+  {
+    "title": "Multi-Grade Classes",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Multi-Grade Classes.md",
+    "aliases": [
+      "复式班级"
+    ]
+  },
+  {
+    "title": "Multi-tiered Systems of Support",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Multi-tiered Systems of Support.md",
+    "aliases": [
+      "多层支持系统"
     ]
   },
   {
@@ -8701,6 +10085,30 @@
     ]
   },
   {
+    "title": "Out of Class Communication",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Out of Class Communication.md",
+    "aliases": [
+      "课外师生沟通"
+    ]
+  },
+  {
+    "title": "Peer Assessment",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Peer Assessment.md",
+    "aliases": [
+      "同伴互评"
+    ]
+  },
+  {
+    "title": "Peer Friendship",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Peer Friendship.md",
+    "aliases": [
+      "同伴友谊"
+    ]
+  },
+  {
     "title": "Peer-Supported Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
@@ -8725,6 +10133,22 @@
     ]
   },
   {
+    "title": "Philosophy in Schools",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Philosophy in Schools.md",
+    "aliases": [
+      "儿童哲学"
+    ]
+  },
+  {
+    "title": "Planning and Prediction",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Planning and Prediction.md",
+    "aliases": [
+      "计划与预测"
+    ]
+  },
+  {
     "title": "Popular Education",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Popular Education.md",
@@ -8746,12 +10170,28 @@
     ]
   },
   {
+    "title": "Practice Testing and Retrieval",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Practice Testing and Retrieval.md",
+    "aliases": [
+      "练习测验与提取练习"
+    ]
+  },
+  {
     "title": "Problem-Based Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Problem-Based Learning.md",
     "aliases": [
       "问题本位学习",
       "基于问题的学习"
+    ]
+  },
+  {
+    "title": "Problem-Solving Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Problem-Solving Teaching.md",
+    "aliases": [
+      "问题解决教学"
     ]
   },
   {
@@ -8789,6 +10229,14 @@
     ]
   },
   {
+    "title": "Reciprocal Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Reciprocal Teaching.md",
+    "aliases": [
+      "交互式教学"
+    ]
+  },
+  {
     "title": "Reflective Structuration",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Reflective Structuration.md",
@@ -8809,6 +10257,14 @@
       "改革教育学",
       "Reformpädagogik",
       "欧洲改革教育学"
+    ]
+  },
+  {
+    "title": "Relative Age Within a Class",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Relative Age Within a Class.md",
+    "aliases": [
+      "班内相对年龄"
     ]
   },
   {
@@ -8860,6 +10316,30 @@
       "创造性思维检核表",
       "启发式创新检核表",
       "替代-组合-调适-修改-移作他用-消除-重组"
+    ]
+  },
+  {
+    "title": "School Bullying",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/School Bullying.md",
+    "aliases": [
+      "校园欺凌"
+    ]
+  },
+  {
+    "title": "Scoring Rubrics",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Scoring Rubrics.md",
+    "aliases": [
+      "评分量规"
+    ]
+  },
+  {
+    "title": "Sense of School Belonging",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Sense of School Belonging.md",
+    "aliases": [
+      "学校归属感"
     ]
   },
   {
@@ -8930,6 +10410,14 @@
     ]
   },
   {
+    "title": "Strong Classroom Cohesion",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Strong Classroom Cohesion.md",
+    "aliases": [
+      "班级凝聚力"
+    ]
+  },
+  {
     "title": "Structured Teaching",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Structured Teaching.md",
@@ -8937,6 +10425,30 @@
       "结构化教学",
       "structured instruction",
       "结构化教学设计"
+    ]
+  },
+  {
+    "title": "Student Mentoring Programs",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Student Mentoring Programs.md",
+    "aliases": [
+      "学生导师计划"
+    ]
+  },
+  {
+    "title": "Student Self-Assessment",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Student Self-Assessment.md",
+    "aliases": [
+      "学生自我评价"
+    ]
+  },
+  {
+    "title": "Student Suspension and Expulsion",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Student Suspension and Expulsion.md",
+    "aliases": [
+      "停学与开除"
     ]
   },
   {
@@ -8950,6 +10462,14 @@
     ]
   },
   {
+    "title": "Students Feeling Disliked",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Students Feeling Disliked.md",
+    "aliases": [
+      "学生感到被排斥"
+    ]
+  },
+  {
     "title": "Synectics",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Synectics.md",
@@ -8959,6 +10479,14 @@
       "分合法",
       "戈登技术",
       "创造性类比法"
+    ]
+  },
+  {
+    "title": "Task Complexity",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Task Complexity.md",
+    "aliases": [
+      "任务复杂度"
     ]
   },
   {
@@ -8999,6 +10527,30 @@
     ]
   },
   {
+    "title": "Teacher Questioning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teacher Questioning.md",
+    "aliases": [
+      "课堂提问"
+    ]
+  },
+  {
+    "title": "Teacher Support for Students",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teacher Support for Students.md",
+    "aliases": [
+      "教师支持"
+    ]
+  },
+  {
+    "title": "Teacher-student Dependency",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Teacher-student Dependency.md",
+    "aliases": [
+      "师生依赖"
+    ]
+  },
+  {
     "title": "Teaching and Learning Activities",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Teaching and Learning Activities.md",
@@ -9019,6 +10571,14 @@
       "团队-游戏-竞赛法",
       "TGT",
       "小组游戏竞赛法"
+    ]
+  },
+  {
+    "title": "Testing Monitoring Tools",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Testing Monitoring Tools.md",
+    "aliases": [
+      "测验监测工具"
     ]
   },
   {
@@ -9046,6 +10606,14 @@
     ]
   },
   {
+    "title": "Universal Design",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Universal Design.md",
+    "aliases": [
+      "通用学习设计"
+    ]
+  },
+  {
     "title": "Visible Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
@@ -9063,6 +10631,22 @@
     ]
   },
   {
+    "title": "Within-Class Grouping",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Within-Class Grouping.md",
+    "aliases": [
+      "班内分组"
+    ]
+  },
+  {
+    "title": "Worked Examples",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Worked Examples.md",
+    "aliases": [
+      "样例学习"
+    ]
+  },
+  {
     "title": "Zone of Desired Effects",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md",
@@ -9072,6 +10656,14 @@
       "Hinge Point",
       "铰接点",
       "d=0.40 分水岭"
+    ]
+  },
+  {
+    "title": "Aptitude-treatment Interactions",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Aptitude-treatment Interactions.md",
+    "aliases": [
+      "能力与教学交互作用"
     ]
   },
   {
@@ -9169,6 +10761,30 @@
     ]
   },
   {
+    "title": "Deliberate Breaks",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Deliberate Breaks.md",
+    "aliases": [
+      "有意休息"
+    ]
+  },
+  {
+    "title": "Deliberate Practice",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Deliberate Practice.md",
+    "aliases": [
+      "刻意练习"
+    ]
+  },
+  {
+    "title": "Differentiated Instruction",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Differentiated Instruction.md",
+    "aliases": [
+      "差异化教学"
+    ]
+  },
+  {
     "title": "Dunbar's Number",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Dunbar's Number.md",
@@ -9214,6 +10830,38 @@
     "aliases": [
       "教育性概念改变",
       "教育性概念转变"
+    ]
+  },
+  {
+    "title": "Effort Management",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Effort Management.md",
+    "aliases": [
+      "努力管理"
+    ]
+  },
+  {
+    "title": "Elaboration and Organization",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Elaboration and Organization.md",
+    "aliases": [
+      "精细加工与组织"
+    ]
+  },
+  {
+    "title": "Elaborative Interrogation",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Elaborative Interrogation.md",
+    "aliases": [
+      "精细询问"
+    ]
+  },
+  {
+    "title": "Environmental Structuring",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Environmental Structuring.md",
+    "aliases": [
+      "学习环境调控"
     ]
   },
   {
@@ -9282,6 +10930,22 @@
     ]
   },
   {
+    "title": "Interleaved Practice",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Interleaved Practice.md",
+    "aliases": [
+      "交错练习"
+    ]
+  },
+  {
+    "title": "Learning Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Learning Strategies.md",
+    "aliases": [
+      "学习策略"
+    ]
+  },
+  {
     "title": "Learning Styles",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Learning Styles.md",
@@ -9305,6 +10969,30 @@
     "path": "wiki/concepts/learning-science-cognitive-science/Learning-Impeding Behavior.md",
     "aliases": [
       "学习阻碍行为"
+    ]
+  },
+  {
+    "title": "Lesson Design",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Lesson Design.md",
+    "aliases": [
+      "课堂设计"
+    ]
+  },
+  {
+    "title": "Listening Support",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Listening Support.md",
+    "aliases": [
+      "听力支持"
+    ]
+  },
+  {
+    "title": "Mental Imagery Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Mental Imagery Strategies.md",
+    "aliases": [
+      "心理表象策略"
     ]
   },
   {
@@ -9338,6 +11026,30 @@
       "mind-oriented process",
       "Western learning process",
       "心智导向"
+    ]
+  },
+  {
+    "title": "Mindfulness Interventions in Schools",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Mindfulness Interventions in Schools.md",
+    "aliases": [
+      "学校正念干预"
+    ]
+  },
+  {
+    "title": "Mnemonic Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Mnemonic Strategies.md",
+    "aliases": [
+      "记忆术"
+    ]
+  },
+  {
+    "title": "Modality Effect",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Modality Effect.md",
+    "aliases": [
+      "通道效应"
     ]
   },
   {
@@ -9381,6 +11093,22 @@
     ]
   },
   {
+    "title": "Note-Taking",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Note-Taking.md",
+    "aliases": [
+      "记笔记"
+    ]
+  },
+  {
+    "title": "Outlining & Organizing",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Outlining & Organizing.md",
+    "aliases": [
+      "提纲与组织"
+    ]
+  },
+  {
     "title": "Participatory Sense-Making",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Participatory Sense-Making.md",
@@ -9390,6 +11118,22 @@
       "Enactive Intersubjectivity",
       "Mutual Incorporation",
       "相互具身"
+    ]
+  },
+  {
+    "title": "Perceptual-motor Programs",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Perceptual-motor Programs.md",
+    "aliases": [
+      "知觉运动项目"
+    ]
+  },
+  {
+    "title": "Personalized Learning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Personalized Learning.md",
+    "aliases": [
+      "个性化学习"
     ]
   },
   {
@@ -9423,6 +11167,38 @@
     ]
   },
   {
+    "title": "Record Keeping",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Record Keeping.md",
+    "aliases": [
+      "学习记录"
+    ]
+  },
+  {
+    "title": "Rehearsal and Memorization",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Rehearsal and Memorization.md",
+    "aliases": [
+      "复述与记忆"
+    ]
+  },
+  {
+    "title": "Rereading",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Rereading.md",
+    "aliases": [
+      "重读策略"
+    ]
+  },
+  {
+    "title": "Revising Record",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Revising Record.md",
+    "aliases": [
+      "复习笔记"
+    ]
+  },
+  {
     "title": "Seductive Details Effect",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Seductive Details Effect.md",
@@ -9431,6 +11207,22 @@
       "诱惑性细节效应",
       "Seductive-Details Effect",
       "Seductive Details Hypothesis"
+    ]
+  },
+  {
+    "title": "Self Consequences",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self Consequences.md",
+    "aliases": [
+      "自我奖惩"
+    ]
+  },
+  {
+    "title": "Self Explanation",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self Explanation.md",
+    "aliases": [
+      "自我解释"
     ]
   },
   {
@@ -9459,6 +11251,22 @@
     ]
   },
   {
+    "title": "Self-judgement and Reflection",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-judgement and Reflection.md",
+    "aliases": [
+      "自我评判与反思"
+    ]
+  },
+  {
+    "title": "Self-Monitoring in Learning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-Monitoring in Learning.md",
+    "aliases": [
+      "学习自我监控"
+    ]
+  },
+  {
     "title": "Self-Scaffolding",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Self-Scaffolding.md",
@@ -9467,6 +11275,14 @@
       "自主支架",
       "自我支架",
       "Self Scaffolding"
+    ]
+  },
+  {
+    "title": "Self-Verbalization and Self-Questioning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Self-Verbalization and Self-Questioning.md",
+    "aliases": [
+      "自我言语化与自我提问"
     ]
   },
   {
@@ -9488,6 +11304,46 @@
     ]
   },
   {
+    "title": "Social Support",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Social Support.md",
+    "aliases": [
+      "社会支持"
+    ]
+  },
+  {
+    "title": "Spaced Practice",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Spaced Practice.md",
+    "aliases": [
+      "分散练习"
+    ]
+  },
+  {
+    "title": "Strategy Monitoring",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Strategy Monitoring.md",
+    "aliases": [
+      "策略监控"
+    ]
+  },
+  {
+    "title": "Strategy to Integrate with Prior Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Strategy to Integrate with Prior Knowledge.md",
+    "aliases": [
+      "联结先前知识的策略"
+    ]
+  },
+  {
+    "title": "Student Control over Learning",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Student Control over Learning.md",
+    "aliases": [
+      "学生学习控制权"
+    ]
+  },
+  {
     "title": "Student Learning Research",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Student Learning Research.md",
@@ -9495,6 +11351,22 @@
       "学生学习研究",
       "student learning paradigm",
       "学生学习范式"
+    ]
+  },
+  {
+    "title": "Study Skills Programs",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Study Skills Programs.md",
+    "aliases": [
+      "学习技能项目"
+    ]
+  },
+  {
+    "title": "Summarization Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Summarization Strategies.md",
+    "aliases": [
+      "概括策略"
     ]
   },
   {
@@ -9532,6 +11404,70 @@
     "path": "wiki/concepts/learning-science-cognitive-science/synaptogenesis.md",
     "aliases": [
       "突触发生"
+    ]
+  },
+  {
+    "title": "Teacher Autonomy Support",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Teacher Autonomy Support.md",
+    "aliases": [
+      "教师自主支持"
+    ]
+  },
+  {
+    "title": "Teaching Students to Be Teachers",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Teaching Students to Be Teachers.md",
+    "aliases": [
+      "学生当小老师"
+    ]
+  },
+  {
+    "title": "Teaching Test Taking and Coaching",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Teaching Test Taking and Coaching.md",
+    "aliases": [
+      "应试技巧训练"
+    ]
+  },
+  {
+    "title": "Text Generation",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Text Generation.md",
+    "aliases": [
+      "文本生成"
+    ]
+  },
+  {
+    "title": "Time Management",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Time Management.md",
+    "aliases": [
+      "时间管理"
+    ]
+  },
+  {
+    "title": "Transfer Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Transfer Strategies.md",
+    "aliases": [
+      "迁移策略"
+    ]
+  },
+  {
+    "title": "Tutoring Interventions",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Tutoring Interventions.md",
+    "aliases": [
+      "辅导干预"
+    ]
+  },
+  {
+    "title": "Underlining and Highlighting",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Underlining and Highlighting.md",
+    "aliases": [
+      "划线与高亮"
     ]
   },
   {
@@ -14163,6 +16099,14 @@
     ]
   },
   {
+    "title": "Engaged Versus. Disengaged Fathers",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Engaged Versus. Disengaged Fathers.md",
+    "aliases": [
+      "父亲参与程度"
+    ]
+  },
+  {
     "title": "Establishment Caste",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Establishment Caste.md",
@@ -14191,6 +16135,22 @@
       "水平下降模板",
       "标准下滑模板",
       "教育衰退叙事模板"
+    ]
+  },
+  {
+    "title": "Family Structure and Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Family Structure and Achievement.md",
+    "aliases": [
+      "家庭结构与学业成就"
+    ]
+  },
+  {
+    "title": "Family Welfare Receipt",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Family Welfare Receipt.md",
+    "aliases": [
+      "家庭领取社会救助"
     ]
   },
   {
@@ -14274,6 +16234,22 @@
     ]
   },
   {
+    "title": "Home Environment",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Home Environment.md",
+    "aliases": [
+      "家庭环境"
+    ]
+  },
+  {
+    "title": "Home Visiting Programs",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Home Visiting Programs.md",
+    "aliases": [
+      "家访项目"
+    ]
+  },
+  {
     "title": "Horizontal Knowledge Structure",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Horizontal Knowledge Structure.md",
@@ -14282,6 +16258,14 @@
       "horizontal discourse",
       "weak grammar",
       "弱语法"
+    ]
+  },
+  {
+    "title": "Immigrant Status",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Immigrant Status.md",
+    "aliases": [
+      "移民身份"
     ]
   },
   {
@@ -14450,6 +16434,30 @@
       "认知社会化",
       "情感社会化",
       "parental socialization"
+    ]
+  },
+  {
+    "title": "Parental Involvement in Education",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Parental Involvement in Education.md",
+    "aliases": [
+      "家长教育参与"
+    ]
+  },
+  {
+    "title": "Parenting Styles and Support",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Parenting Styles and Support.md",
+    "aliases": [
+      "父母教养方式"
+    ]
+  },
+  {
+    "title": "Peer Ethnicity",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Peer Ethnicity.md",
+    "aliases": [
+      "同伴族裔构成"
     ]
   },
   {
@@ -14626,6 +16634,14 @@
     ]
   },
   {
+    "title": "Student Grant Aid",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Student Grant Aid.md",
+    "aliases": [
+      "学生助学金"
+    ]
+  },
+  {
     "title": "Symbolic Boundary",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Symbolic Boundary.md",
@@ -14654,6 +16670,14 @@
       "tall poppy",
       "fall of the tall poppy",
       "高罂粟"
+    ]
+  },
+  {
+    "title": "Television Hours",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Television Hours.md",
+    "aliases": [
+      "看电视时长"
     ]
   },
   {
@@ -14771,6 +16795,14 @@
     ]
   },
   {
+    "title": "Collective Teacher Efficacy",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Collective Teacher Efficacy.md",
+    "aliases": [
+      "教师集体效能"
+    ]
+  },
+  {
     "title": "Engagement in and with Research",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Engagement in and with Research.md",
@@ -14781,6 +16813,14 @@
       "Engagement with Research",
       "Engagement in Research",
       "Research Engagement"
+    ]
+  },
+  {
+    "title": "Instructional Coaching",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Instructional Coaching.md",
+    "aliases": [
+      "教学教练指导"
     ]
   },
   {
@@ -14832,6 +16872,14 @@
     ]
   },
   {
+    "title": "Out-of-Field Teaching",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Out-of-Field Teaching.md",
+    "aliases": [
+      "非专业对口教学"
+    ]
+  },
+  {
     "title": "Profession-Sensitive Conceptualisations of Research Use",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Profession-Sensitive Conceptualisations of Research Use.md",
@@ -14854,6 +16902,14 @@
       "Professional Learning Communities",
       "专业学习团队",
       "PLT"
+    ]
+  },
+  {
+    "title": "Racial-ethnic Discrimination",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Racial-ethnic Discrimination.md",
+    "aliases": [
+      "种族／族裔歧视"
     ]
   },
   {
@@ -14884,6 +16940,38 @@
     ]
   },
   {
+    "title": "Teacher Collaboration",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Collaboration.md",
+    "aliases": [
+      "教师协作"
+    ]
+  },
+  {
+    "title": "Teacher Credibility",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Credibility.md",
+    "aliases": [
+      "教师可信度"
+    ]
+  },
+  {
+    "title": "Teacher Effects",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Effects.md",
+    "aliases": [
+      "教师效应"
+    ]
+  },
+  {
+    "title": "Teacher Expectations",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Expectations.md",
+    "aliases": [
+      "教师期望"
+    ]
+  },
+  {
     "title": "Teacher Knowledge Base",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Knowledge Base.md",
@@ -14906,6 +16994,14 @@
     ]
   },
   {
+    "title": "Teacher Personality",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Personality.md",
+    "aliases": [
+      "教师人格"
+    ]
+  },
+  {
     "title": "Teacher Professional Agency",
     "type": "concept",
     "path": "wiki/concepts/teacher-education/Teacher Professional Agency.md",
@@ -14915,6 +17011,62 @@
       "教师专业能动性",
       "professional agency",
       "teacher agency"
+    ]
+  },
+  {
+    "title": "Teacher Professional Development Programs",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Professional Development Programs.md",
+    "aliases": [
+      "教师专业发展项目"
+    ]
+  },
+  {
+    "title": "Teacher Qualifications",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Qualifications.md",
+    "aliases": [
+      "教师资质"
+    ]
+  },
+  {
+    "title": "Teacher Racial-ethnic Discrimination",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Racial-ethnic Discrimination.md",
+    "aliases": [
+      "教师种族／族裔歧视"
+    ]
+  },
+  {
+    "title": "Teacher Subject Matter Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Subject Matter Knowledge.md",
+    "aliases": [
+      "教师学科知识"
+    ]
+  },
+  {
+    "title": "Teacher Trust",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Trust.md",
+    "aliases": [
+      "教师信任"
+    ]
+  },
+  {
+    "title": "Teacher Verbal Ability",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Verbal Ability.md",
+    "aliases": [
+      "教师言语能力"
+    ]
+  },
+  {
+    "title": "Teacher Well Being",
+    "type": "concept",
+    "path": "wiki/concepts/teacher-education/Teacher Well Being.md",
+    "aliases": [
+      "教师幸福感"
     ]
   },
   {

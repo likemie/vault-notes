@@ -22,6 +22,7 @@ tags:
   - cognitive-load
   - theme/national-security
   - theme/geopolitics
+  - metax
 related_concepts:
   - "[[Boundary Object]]"
   - "[[Artificial General Intelligence]]"
@@ -611,3 +612,21 @@ updated: 2026-10-22
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从[[Virtue Epistemology|德性认识论]]与[[Socrates|苏格拉底]]教学法出发，设计并评估 Q-Tutor 双模态生成式[[AI Agent in Education|智能体]]，论证直接答案拦截规则、反事实探究（What-if）与个人经验图式交织在防范认知与[[Creative Deskilling|创造力去技能化]]（[[Cognitive Deskilling|Deskilling]]）、培育学生[[Epistemic Virtues and Vices|理智美德]]与[[Skill of Questioning|提问技能]]中的核心支架作用。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 从认识论与教育哲学出发，破除生成式 AI 作为计算器的工具隐喻，确立其在读写教育中代行全流程的私厨隐喻；揭示算法代写构思、提纲与修改对学习者认知能力造成的成长性认识侵害，并提出树立[[Alien Intelligence|异己智能]]批判意识与推行思维步骤全外显（Showing Steps）的双重教育防御方案。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释了支撑现代超大规模生成式 AI（如 ChatGPT）运行的高性能分布式计算与调度框架（Ray 与 Apache Spark）源于大学前竞争产学五年期联合实验室（[[Universal Parallel Computing Research Centers|UPCRC]]、AMPLab、RISELab）的技术外溢与开源转化路径。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [ChatGPT · ChatGPT](https://www.visiblelearningmetax.com/influences/view/chatgpt)
+> 技术、学校与校外策略 › 移动／触屏
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 1 | 51 | 0 | 62 | 0.71 | 0.71 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Deng et al. (2025) | ChatGPT on academic performance | 51 | NA | 62 | 0.71 |  |

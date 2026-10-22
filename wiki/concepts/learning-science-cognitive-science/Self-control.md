@@ -19,6 +19,7 @@ tags:
   - classroom-behavior
   - subject/psychology
   - level/k12
+  - metax
 related_concepts:
   - "[[Metacognition]]"
   - "[[Academic Achievement]]"
@@ -298,3 +299,24 @@ updated: 2026-10-22
 > | [[Discipline-Based Theory]] | 概念 | 理论归属；自我控制理论属于心理学领域的典型学科理论。 |
 > | [[Education Endowment Foundation]] | 事实 | 资助与评价旗舰；将自我控制纳入非学业评价与工具箱策略的先锋机构。 |
 > | [[EEF Teaching and Learning Toolkit]] | 事实 | 落地转译载体；元认知与自控策略带来 $+7$ 个月额外学业增益的循证平台。 |
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [自我控制 · Self control](https://www.visiblelearningmetax.com/influences/view/self_control)
+> 学生 › 自我
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 4 | 126 | 89,853 | 157 | 0.66 | 0.62 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | de Ridder et al. (2018) | Self control | 5 | 1,546 | 5 | 0.77 |  |
+> > | Naso et al. (2011) | Effortful control | 58 | 8,394 | 89 | 0.68 |  |
+> > | Taylor (2012) | Relative autonomy | 6 | NA | 6 | 0.39 |  |
+> > | Nasvytiene & Lazdauskas (2021) | Effortful control | 57 | 79,913 | 57 | 0.65 |  |

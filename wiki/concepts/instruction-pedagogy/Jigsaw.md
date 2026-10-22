@@ -18,6 +18,7 @@ tags:
   - "theme/cooperative-learning"
   - "level/k12"
   - "level/higher-education"
+  - metax
 related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Academic Achievement]]"
@@ -188,3 +189,23 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]将拼图法作为四类合作技术之一综合评估，合成[[Effect Size\|效应量]]为 ES = 0.72，纳入 6 个独立效应量。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [拼图法 · Jigsaw method](https://www.visiblelearningmetax.com/influences/view/jigsaw_method)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 3 | 91 | 5,912 | 87 | 0.92 | 0.85 | ●●●○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Batdi (2014) | Jigsaw on achievement | 37 | NA | 37 | 1.20 |  |
+> > | Drouet et al. (2023) | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |  |
+> > | Ozkan & Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |

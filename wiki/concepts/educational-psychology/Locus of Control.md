@@ -16,6 +16,7 @@ tags:
   - theme/motivation
   - theme/attribution
   - theme/achievement
+  - metax
 related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
@@ -67,3 +68,23 @@ updated: 2026-10-22
 
 ---
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [控制点 · Locus of control](https://www.visiblelearningmetax.com/influences/view/locus_of_control)
+> 学生 › 自我
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 4 | 236 | 109,291 | 599 | 0.30 | 0.27 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Findley & Cooper (1983) | Internal locus of control | 98 | 15,285 | 275 | 0.36 |  |
+> > | Kalechstein & Nowicki (1997) | Internal locus of control | 78 | 58,142 | 261 | 0.23 |  |
+> > | Çogaltay (2017) | Locus of control | 23 | 18,918 | 23 | 0.04 |  |
+> > | Haidai et al. (2023) | Locus of control | 37 | 16,946 | 40 | 0.45 |  |

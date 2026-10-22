@@ -26,6 +26,7 @@ tags:
   - theme/intelligence
   - learning-sciences
   - educational-psychology
+  - metax
 related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Intercultural Education]]"
@@ -231,3 +232,28 @@ updated: 2026-10-22
 > [!evidence-grid-a] 实证研究索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 《文化归属：东西方学习信念比较研究》，系统论证实体智力观与西方[[Talent Assumption\|天赋假设]]、[[Intellectual-Social Divide\|知性-社交二分]]以及针对努力者的 [[Nerd]] 同伴制裁之间的因果关联，确立东亚勤勉信念的保护性文化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation\|EEF]] 资助的“改变思维（Changing Mindsets）”大规模全校效果试验（Foliano et al., 2019），以[[National Pupil Database\|国家学生数据库]]（NPD）客观 Key Stage 2 统考成绩为标尺，揭示大规模现场落地中[[Effect Size\|效应量]]归零（$ES \approx 0.00$）与未能弥合弱势差距的方法学教训。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [成长型与固定型思维 · Growth vs. fixed mindsets](https://www.visiblelearningmetax.com/influences/view/growth_vs._fixed_mindsets)
+> 学生 › 毅力与自信
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 8 | 398 | 985,196 | 745 | 0.14 | 0.11 | ●●●●○ |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Burnette et al. (2013) | Incremental vs. entity thinking | 32 | 51,676 | 110 | 0.09 |  |
+> > | Sisk et al. (2018) | Growth mindsets | 123 | 365,915 | 273 | 0.20 |  |
+> > | Sisk et al. (2018) | Growth mindsets interventions | 29 | 57,155 | 43 | 0.08 |  |
+> > | Costa & Faria (2018) | Incremental vs. entity thinking | 46 | 412,022 | 94 | 0.14 |  |
+> > | Seo (2019) | Growth mindsets | 42 | NA | 42 | 0.28 |  |
+> > | Burnette et al. (2022) | Growth mindsets | 53 | NA | 110 | 0.09 |  |
+> > | Macnamara & Burgoyne (2022) | Growth mindsets | 63 | 97,672 | 63 | 0.05 |  |
+> > | Bardach, Bostwick, et al. (2024) | Teacher mindsets on student achievement | 10 | 756 | 10 | -0.08 |  |

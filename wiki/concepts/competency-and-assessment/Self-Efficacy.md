@@ -19,6 +19,7 @@ tags:
   - theme/achievement
   - theme/teacher-education
   - theme/learning-science
+  - metax
 related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Creativity]]"
@@ -266,3 +267,50 @@ flowchart LR
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 将自我效能感拓展至教师群体，通过跨国大样本调查证实教龄累积与复杂探究课程（如[[Theory of Knowledge\|知识论]]）的成功实施能够显著提升教师教学效能感。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的[[Neuromyth|教育神经神话]]（如[[Learning Styles\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织（OECD）如何通过 PISA 将自我效能感制度化为跨国可比的非认知素养指标，将其作为衡量未来生活通用胜任力与自主规制学习能力的关键政策基准（p. 27）。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [自我效能感 · Self-efficacy](https://www.visiblelearningmetax.com/influences/view/self-efficacy)
+> 学生 › 自我
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 17 | 808 | 1,381,152 | 1,319 | 0.69 | 0.71 | ●●●●● |
+>
+> > [!metax-ma]- 17 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Holden et al. (1990) | Self-efficacy | 25 | NA | 26 | 0.37 |  |
+> > | Multon et al. (1991) | Self-efficacy | 36 | 4,998 | 38 | 0.76 |  |
+> > | Silva et al. (2016) | Self-efficacy on achievement in Higher education | 20 | NA | 20 | 0.25 |  |
+> > | Çikrikci (2017) | Self-efficacy | 231 | 242,023 | 231 | 0.72 |  |
+> > | Unrau et al. (2018) | Reading self-efficacy | 30 | NA | 33 | 0.33 |  |
+> > | Gegenfurtner et al. (2014) | Self-efficacy in simulation based learning | 15 | 2,274 | 15 | 0.72 |  |
+> > | Robbins et al. (2004) | Self-efficacy | 13 | NA | 13 | 1.84 |  |
+> > | Carpenter (2007) | Self-efficacy | 48 | 12,466 | 48 | 0.70 |  |
+> > | Ciftci & Yildiz (2019) | Self-confidence | 76 | 1,028,567 | 76 | 0.59 |  |
+> > | Sun, Wang, Lambert, et al. (2021) | Writing self-efficacy on L2 students | 76 | NA | 76 | 0.56 |  |
+> > | Braithwaite & Corr (2016) | Self-efficacy on achievement in Higher education | 14 | NA | 14 | 0.26 |  |
+> > | Rachmahana (2008) | Self-efficacy | 23 | NA | 23 | 0.95 |  |
+> > | Muhtadi, Assagaf, et al. (2022) | Self-efficacy | 40 | 4,503 | 40 | 1.71 |  |
+> > | Haidai et al. (2023) | Self-efficacy | 37 | 16,946 | 40 | 0.08 |  |
+> > | Sun (2021) | Self-efficacy | 76 | 18,620 | 575 | 0.50 |  |
+> > | Nunes et al. (2022) | Academic self-efficacy | 11 | 27,705 | 11 | 0.74 |  |
+> > | Goetze & Driver (2022) | Self-efficacy in 2nd language | 37 | 23,050 | 40 | 1.04 |  |
+
+> [!metax] [教师自我效能感 · Teacher self-efficacy](https://www.visiblelearningmetax.com/influences/view/teacher_self-efficacy)
+> 教师 › 教师特质
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 2 | 28 | 14,215 | 129 | 0.22 | 0.22 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Klassen & Tze (2014) | Teacher self-efficacy and achievement | 12 | NA | 31 | 0.24 |  |
+> > | Kim & Seo (2018) | Teacher self-efficacy | 16 | 14,215 | 98 | 0.20 |  |

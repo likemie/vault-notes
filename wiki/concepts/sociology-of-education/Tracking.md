@@ -19,6 +19,7 @@ tags:
   - theme/educational-governance
   - theme/comparative-education
   - paradigm/critical
+  - metax
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Grade Retention]]"
@@ -268,3 +269,64 @@ updated: 2026-10-22
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [资优生能力分组 · Ability grouping for gifted students](https://www.visiblelearningmetax.com/influences/view/ability_grouping_for_gifted_students)
+> 课堂 › 班级构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 6 | 131 | 0 | 516 | 0.20 | 0.27 | ●●●○○ |
+>
+> > [!metax-ma]- 6 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Kulik & Kulik (1984b) | Classroom organization on gifted | 25 | NA | 25 | 0.25 |  |
+> > | Goldring (1987) | Ability grouping for gifted | 23 | NA | 146 | 0.35 |  |
+> > | Rogers (1991) | Grouping on gifted | 13 | NA | 13 | 0.43 |  |
+> > | Vaughn et al. (1991) | Pull out programs for gifted | 8 | NA | 8 | 0.47 |  |
+> > | Neber, Finsterwald, & Urban (2001a) | Homogeneous vs. Heterogeneous on Gifted | 6 | NA | 314 | 0.13 |  |
+> > | Kulik & Kulik (1991a) | Classroom organization on gifted | 56 | NA | 10 | 0.02 |  |
+
+> [!metax] [取消分轨 · Detracking](https://www.visiblelearningmetax.com/influences/view/detracking)
+> 课堂 › 班级构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 1 | 15 | 15,577 | 22 | 0.09 | 0.09 | ●○○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Rui (2009) | Detracking high schools | 15 | 15,577 | 22 | 0.09 |  |
+
+> [!metax] [分轨／分流 · Tracking / streaming](https://www.visiblelearningmetax.com/influences/view/tracking~streaming)
+> 课堂 › 班级构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 15 | 594 | 0 | 1,421 | 0.09 | 0.08 | ●●●○○ |
+>
+> > [!metax-ma]- 15 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Kulik & Kulik (1982) | Ability grouping on high school students | 52 | NA | 51 | 0.10 |  |
+> > | Kulik & Kulik (1984a) | Ability grouping in elementary grades | 23 | NA | 23 | 0.19 |  |
+> > | Kulik & Kulik (1985) | Inter-class ability grouping | 85 | NA | 85 | 0.15 |  |
+> > | Noland & Taylor (1986) | Ability grouping | 50 | NA | 720 | -0.08 |  |
+> > | Slavin (1987a) | Ability grouping in elementary grades | 14 | NA | 17 | 0.00 |  |
+> > | Slavin (1990) | Ability grouping on high school students | 29 | NA | 29 | -0.02 |  |
+> > | Gutierrez & Slavin (1992) | Nongraded elementary schools | 14 | NA | 14 | 0.34 |  |
+> > | Kulik & Kulik (1985) | Inter-class ability grouping | 78 | NA | 78 | 0.15 |  |
+> > | Kulik & Kulik (1992) | Ability grouping | 56 | NA | 51 | 0.03 |  |
+> > | Kim (1996) | Nongraded schools in Kentucky | 96 | NA | 96 | 0.17 |  |
+> > | Mosteller et al. (1996) | Ability grouping | 10 | NA | 10 | 0.00 |  |
+> > | Lou et al. (1996) | Ability grouping | 12 | NA | 12 | 0.12 |  |
+> > | Steenberggen-Hu et al. (2016) | Ability grouping in RCT studies | 11 | NA | 11 | 0.03 |  |
+> > | Baker (2022) | Ability grouping with Black & Brown students | 11 | NA | 11 | -0.03 |  |
+> > | Terrin & Triventi (2023) | Ability grouping on achievement | 53 | NA | 213 | -0.02 |  |

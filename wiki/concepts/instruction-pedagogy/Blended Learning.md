@@ -19,6 +19,7 @@ tags:
   - theme/pedagogy
   - educational-technology
   - construct/instructional-design
+  - metax
 related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Homework]]"
@@ -230,6 +231,33 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，将混合式学习作为核心教学模式调节[[Variable\|变量]]（$k = 22, g = 0.525, p < 0.001$），实证确证了双轨探究环境在激发学生逻辑排错与反思评估中的稳健促学价值，促学效果显著超越传统讲授式课堂。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将混合学习拓展为人机混合认知与关系性主体性协同的新[[Paradigm\|范式]]，论证线下面对面研讨在注入[[Epistemic Friction\|认知摩擦]]与防范算法依赖中的战略价值。
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [混合式学习 · Blended learning](https://www.visiblelearningmetax.com/influences/view/blended_learning)
+> 技术、学校与校外策略 › 远程／混合
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 12 | 323 | 6,601 | 332 | 0.85 | 0.80 | ●●●●○ |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Mahmud (2018) | Blended learning | 59 | NA | 59 | 0.60 |  |
+> > | Yu (2021a) | Blended learning | 25 | NA | 27 | 0.53 |  |
+> > | Lusa et al. (2021) | Blended learning | 27 | NA | 27 | 1.01 |  |
+> > | Sales et al. (2022) | Blended learning | 24 | NA | 24 | 1.14 |  |
+> > | Suryono et al. (2023) | Blended learning on critical thinking | 10 | NA | 10 | 0.79 |  |
+> > | Rahman et al. (2023) | Blended learning | 14 | NA | 14 | 0.93 |  |
+> > | Samritin et al. (2023) | Blended learning | 18 | NA | 20 | 0.73 |  |
+> > | Cao & Hsu (2023) | Blended learning across countries | 11 | NA | 11 | 0.50 |  |
+> > | Antonio (2022) | Blended learning | 49 | 4,537 | 53 | 1.35 |  |
+> > | Kazu et al. (2022) | Hybrid learning | 44 | NA | 45 | 1.03 |  |
+> > | Najafi & Heidari (2018) | Blended learning | 20 | 2,064 | 20 | 0.59 |  |
+> > | Oktarina et al. (2021) | Blended learning | 22 | NA | 22 | 0.44 |  |
 
 ---
 

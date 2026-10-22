@@ -9,7 +9,8 @@ related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
-tags: []
+tags:
+  - metax
 related_concepts:
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
@@ -305,3 +306,21 @@ updated: 2026-10-22
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition\|AIR]] 认识论认知模型[[Operationalization\|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]对论证实质的决定机制。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，揭示认识论认知在人机交互中的动态调节效应，论证[[Evaluativist\|评价主义认识立场]]对克服消极[[Cognitive Offloading\|认知卸载]]的关键价值，并提出技术与教学法双轨支架干预机制。
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [认识论认知训练 · Epistemic cognitive training](https://www.visiblelearningmetax.com/influences/view/epistemic_cognitive_training)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 2 | 131 | 0 | 1,244 | 0.28 | 0.37 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | Epistemic cognitive training | 28 | NA | 59 | 0.51 |  |
+> > | McMullin & Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |

@@ -17,6 +17,7 @@ tags:
   - theme/social-stratification
   - theme/educational-inequality
   - policy/neoliberalism
+  - metax
 related_concepts:
   - "[[Discourse]]"
   - "[[Migrant Children]]"
@@ -260,3 +261,21 @@ updated: 2026-10-22
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 442)]] — 揭示[[OECD|经合组织]]教育理事会如何将择校与质量、公平、成本分担并列为核心议程，将择校[[Operationalization|操作化]]为以[[Performance Indicators|绩效指标]]衡量的准市场效率机制。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释英格兰政策精英如何利用 PISA 2000 的优异排位为本土市场化择校竞争与高利害问责模式确立合法性，并借此掩盖严重的教育阶层差距（pp. 30–31）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献系统综述，系统剖析新公共管理市场化体制如何利用基于测验的问责制（TBA）撬动家长择校与生源竞争，并揭示不同行政传统对择校政策的分化折射效应。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [择校 · School choice](https://www.visiblelearningmetax.com/influences/view/school_choice)
+> 学校 › 学校构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 1 | 22 | 0 | 28 | 0.02 | 0.02 | ●○○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Jabbar et al. (2017) | School choice | 22 | NA | 28 | 0.02 |  |

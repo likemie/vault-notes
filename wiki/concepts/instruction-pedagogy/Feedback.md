@@ -269,6 +269,134 @@ updated: 2026-10-22
 > > | Mertens et al. (2022) | Computer presented feedback | 77 | NA | 163 | 0.40 |  |
 > > | Gui et al. (2022) | Feedback in rich technology contexts | 61 | NA | 180 | 0.44 |  |
 
+> [!metax] [反馈（评语与分数） · Feedback (Comments vs. grades)](https://www.visiblelearningmetax.com/influences/view/feedback_(comments_vs._grades))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 3 | 27 | 0 | 103 | 0.21 | 0.20 | ●●○○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Koenka et al. (2021) | Grades vs no feedback | 12 | NA | 25 | 0.25 |  |
+> > | Koenka et al. (2021) | Comments & grades vs grades only | 7 | NA | 7 | 0.04 |  |
+> > | Koenka et al. (2021) | Comments vs. grades | 8 | NA | 71 | 0.30 |  |
+
+> [!metax] [反馈（纠正、强化与提示） · Feedback (Corrective, reinforcement & cues)](https://www.visiblelearningmetax.com/influences/view/feedback_(corrective,_reinforcement_&_cues))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 6 | 164 | 21,547 | 267 | 0.92 | 0.87 | ●●●○○ |
+>
+> > [!metax-ma]- 6 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Tenenbaum & Goldring (1989) | Cues, and reinforcement | 15 | 522 | 15 | 0.72 |  |
+> > | Lysakowski & Walberg (1982) | Cues, participation and corrective feedback | 54 | 15,689 | 94 | 0.97 |  |
+> > | Lysakowski & Walberg (1980) | Classroom reinforcement | 39 | 4,842 | 102 | 1.17 |  |
+> > | Schenck (2022) | Corrective feedback on learning | 15 | NA | 15 | 1.28 |  |
+> > | Lim & Renandya (2020) | Corrective feedback on writing | 35 | NA | 35 | 0.59 |  |
+> > | Gramling (2016) | Corrective feedback on learning | 6 | 494 | 6 | 0.47 |  |
+
+> [!metax] [反馈（学生评教） · Feedback (from student re quality)](https://www.visiblelearningmetax.com/influences/view/feedback_(from_student_re_quality))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 11 | 269 | 1,698 | 398 | 0.49 | 0.50 | ●●●○○ |
+>
+> > [!metax-ma]- 11 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Cohen (1980) | Feedback from student ratings | 8 | NA | 8 | 0.25 |  |
+> > | Cohen (1981) | Student rating of teacher | 19 | NA | 19 | 0.68 |  |
+> > | Cohen (1981) | Student rating of teacher | 41 | NA | 68 | 0.48 |  |
+> > | L'Hommedieu et al. (1990) | Feedback from college student ratings | 28 | 1,698 | 28 | 0.34 |  |
+> > | Dowell & Neal (1982) | Student rating of teacher | 6 | NA | 6 | 0.40 |  |
+> > | Clayson (2009) | Student rating of teacher | 17 | NA | 42 | 0.66 |  |
+> > | Uttl et al. (2017) | Student rating of learning | 51 | NA | 97 | 0.47 |  |
+> > | Menges & Brinko (1986) | Student evaluation as feedback | 27 | NA | 31 | 0.44 |  |
+> > | Cohen (1986) | Student rating of teacher | 47 | NA | 74 | 0.44 |  |
+> > | Penny & Coe (2004) | Consultation after student feedback | 11 | NA | 11 | 0.69 |  |
+> > | McCallum (1984) | Teacher rating and achievement | 14 | NA | 14 | 0.68 |  |
+
+> [!metax] [反馈（来自测验） · Feedback (from Tests)](https://www.visiblelearningmetax.com/influences/view/feedback_(from_tests))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 3 | 72 | 4,666 | 90 | 0.41 | 0.48 | ●●○○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Schimmel (1983) | Feedback from tests | 15 | NA | 15 | 0.47 |  |
+> > | Bangert-Drowns, Kulik, Kulik, et al. (1991) | Feedback from tests | 40 | 4,666 | 58 | 0.26 |  |
+> > | Travlos & Pratt (1995) | Knowledge of results | 17 | NA | 17 | 0.71 |  |
+
+> [!metax] [反馈（自我层面） · Feedback (Self)](https://www.visiblelearningmetax.com/influences/view/feedback_(self))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 2 | 103 | 0 | 103 | 0.14 | 0.15 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Getsie et al. (1985) | Rewards and punishment | 89 | NA | 89 | 0.14 |  |
+> > | Wilkinson (1980) | Teacher praise | 14 | NA | 14 | 0.15 |  |
+
+> [!metax] [反馈（任务与过程层面） · Feedback (Tasks & Processes)](https://www.visiblelearningmetax.com/influences/view/feedback_(tasks_&_processes))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 10 | 138 | 3,624 | 170 | 0.73 | 0.71 | ●●●○○ |
+>
+> > [!metax-ma]- 10 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Miller (2003) | Corrective feedback on learning | 8 | NA | 8 | 1.08 |  |
+> > | Kang & Han (2015) | Corrective feedback on learning | 22 | NA | 22 | 0.68 |  |
+> > | Lyster & Saito (2010) | Oral feedback on learning | 15 | NA | 28 | 0.74 |  |
+> > | Li (2010) | Corrective feedback on learning | 33 | 1,773 | 28 | 0.64 |  |
+> > | Truscott (2007) | Error correction on writing | 6 | 283 | 20 | 0.15 |  |
+> > | Russell & Spada (2006) | Error correction on writing | 15 | NA | 15 | 1.16 |  |
+> > | Lv et al. (2021) | Online feedback on learning | 17 | 1,568 | 17 | 0.75 |  |
+> > | Kao (2013) | Focused feedback | 7 | NA | 7 | 0.70 |  |
+> > | Swart et al. (2022) | Feedback targeting comprehension | 8 | NA | 8 | 0.61 |  |
+> > | Brobst (2009) | Error correction on writing | 7 | NA | 17 | 0.55 |  |
+
+> [!metax] [反馈（技术支持） · Feedback (Technology)](https://www.visiblelearningmetax.com/influences/view/feedback_(technology))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 4 | 102 | 6,769 | 132 | 0.65 | 0.75 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | van der Kleij et al. (2015) | Feedback in ICT | 40 | 4,266 | 70 | 0.42 |  |
+> > | Azevedo & Bernard (1995) | Computer presented feedback | 22 | NA | 22 | 0.80 |  |
+> > | Moshen (2022) | Computer mediated feedback | 14 | 1,220 | 14 | 1.21 |  |
+> > | Mohamed (2022) | Feedback re computer in language learning | 26 | 1,283 | 26 | 0.56 |  |
+
+> [!metax] [反馈（时机） · Feedback (Timing)](https://www.visiblelearningmetax.com/influences/view/feedback_(timing))
+> 教学策略 › 反馈
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 1 | 53 | 0 | 53 | 0.49 | 0.49 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Kulik & Kulik (1988) | Timing of feedback | 53 | NA | 53 | 0.49 |  |
+
 ---
 
 ## 领域应用

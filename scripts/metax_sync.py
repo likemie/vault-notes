@@ -24,6 +24,7 @@ Subcommands:
   map      INFLUENCE_ID ENTRY_PATH...   attach an influence to entries
   unmap    INFLUENCE_ID [ENTRY_PATH...] detach
   suggest                               influences whose name equals an entry title/alias
+  apply-mapping [--dry-run]             create stub entries and attach influences per metax/mapping.json
   report                                matched / collision / review summary
   domains                               VL-style domain summary + per-domain sub-domain callouts (Markdown)
   audit                                 suspected data errors -> metax/audit.json (leads, not errata)
@@ -43,6 +44,7 @@ DATA_DIR = ROOT / "metax"
 DATA_JSON = DATA_DIR / "metax.json"
 ERRATA_JSON = DATA_DIR / "errata.json"
 ZH_JSON = DATA_DIR / "zh.json"
+MAPPING_JSON = DATA_DIR / "mapping.json"
 CITATION_FULL = ROOT / "citation/citation_full.json"
 WIKI_INDEX = ROOT / "wiki/index.json"
 
@@ -644,6 +646,8 @@ def insert_module(body: str, module: str) -> str:
                 target = i
                 break
     if target is None:
+        if not h2:
+            return body.rstrip("\n") + "\n\n" + module
         return body.rstrip("\n") + "\n\n---\n\n" + module
     # Keep the separator that precedes the next section in front of the module.
     return "".join(lines[:target]) + block + "".join(lines[target:])
@@ -727,6 +731,94 @@ def cmd_sync(args) -> int:
         print("stale: metax/metax.json (study matches changed)")
         code = 1
     return code
+
+
+
+# ----------------------------------------------------------------- mapping -> entries
+DOMAIN_FOLDER = {
+    "Student": "educational-psychology",
+    "Student Learning Strategies": "learning-science-cognitive-science",
+    "Teaching Strategies": "instruction-pedagogy",
+    "Classroom": "instruction-pedagogy",
+    "Curricula": "curriculum",
+    "Teacher": "teacher-education",
+    "School": "educational-leadership-administration",
+    "Home": "sociology-of-education",
+    "Technology, School, and Out-of-School Strategies": "educational-technology",
+}
+FAMILY_ZH = {
+    "Academic Emotions": "学业情绪", "Academic Anxiety": "学业焦虑", "Game-Based Learning": "游戏化学习",
+    "Student Personality Traits": "学生人格特质", "Technology in Subject Teaching": "学科教学技术",
+    "Educational Technology Across Learner Groups": "不同学习者群体的教育技术", "Virtual Reality in Education": "教育虚拟现实",
+    "Mathematics Intervention Programs": "数学干预项目", "Teacher Professional Development Programs": "教师专业发展项目",
+    "Achievement Goal Orientations": "成就目标定向", "Student Approaches to Learning": "学生学习方式",
+    "Parental Involvement in Education": "家长教育参与", "Parenting Styles and Support": "父母教养方式",
+    "Student Motivation": "学生学习动机", "Tutoring Interventions": "辅导干预", "Mindfulness Interventions in Schools": "学校正念干预",
+    "Cooperative, Competitive and Individualistic Learning": "合作、竞争与个体式学习", "Preschool Education Programs": "学前教育项目",
+    "Teacher Expectations": "教师期望", "Whole-School Improvement": "全校改进", "Practice Testing and Retrieval": "练习测验与提取练习",
+    "Reading Programs": "阅读项目", "Family Structure and Achievement": "家庭结构与学业成就",
+}
+
+
+def stub_text(title: str, aliases: list[str], members: list[dict], zh: dict, today: str) -> str:
+    first = members[0]
+    dom = (zh.get("domain") or {}).get(first["domain"], first["domain"])
+    sub = (zh.get("sub_domain") or {}).get(first["sub_domain"], first["sub_domain"])
+    names = "、".join((zh.get("influences") or {}).get(m["_id"], m["name"]) for m in members)
+    summary = (f"Visible Learning MetaX 因素{names}的条目，归属{dom} › {sub}；"
+               f"目前只收录 MetaX 元分析汇总数据，概念界定待补充。")
+    if len(summary) > 240:
+        summary = f"Visible Learning MetaX {len(members)} 个相关因素的合并条目，归属{dom} › {sub}；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
+    alias_block = "aliases: []" if not aliases else "aliases:\n" + "\n".join(f"  - {a}" for a in aliases)
+    return (f"---\ntitle: {title}\n{alias_block}\nsummary: \"{summary}\"\ntype: concept\ntags:\n  - {TAG}\n"
+            "related_concepts: []\nrelated_theories: []\nrelated_methods: []\nrelated_instruments: []\n"
+            "related_persons: []\nrelated_facts: []\nrelated_arguments: []\nconfidence: medium\nstatus: draft\n"
+            f"created: {today}\nupdated: {today}\n---\n\n# {title}\n")
+
+
+def cmd_apply_mapping(args) -> int:
+    """Create stub entries for new influences and attach every influence to its entry,
+    following metax/mapping.json (reviewed in metax/MetaX 映射审核.md)."""
+    import datetime
+    data = load_json(DATA_JSON, None)
+    zh = zh_table()
+    mapping = load_json(MAPPING_JSON, [])
+    index = {e["title"]: e for e in load_json(WIKI_INDEX, [])}
+    today = datetime.date.today().isoformat()
+    groups: dict[str, list[dict]] = {}
+    for row in mapping:
+        groups.setdefault(row["target"], []).append(row)
+    created = 0
+    for title, rows in groups.items():
+        if rows[0]["action"] == "挂载":
+            if title not in index:
+                print(f"mount target missing: {title}", file=sys.stderr)
+                continue
+            rel = index[title]["path"]
+        else:
+            existing = index.get(title)
+            if existing:
+                rel = existing["path"]
+            else:
+                inf0 = data["influences"][rows[0]["id"]]
+                rel = f"wiki/concepts/{DOMAIN_FOLDER[inf0['domain']]}/{title}.md"
+                path = ROOT / rel
+                if not path.exists():
+                    aliases = [FAMILY_ZH[title]] if title in FAMILY_ZH else [a for a in {r["alias"] for r in rows} if a]
+                    members = [{**data["influences"][r["id"]], "_id": r["id"]} for r in rows]
+                    if not args.dry_run:
+                        path.parent.mkdir(parents=True, exist_ok=True)
+                        path.write_text(stub_text(title, aliases, members, zh, today), encoding="utf-8")
+                    created += 1
+        for r in rows:
+            entries = data["influences"][r["id"]].setdefault("entries", [])
+            if rel not in entries:
+                entries.append(rel)
+    print(f"stub entries {'to create' if args.dry_run else 'created'}: {created}")
+    if args.dry_run:
+        return 0
+    dump_json(DATA_JSON, data)
+    return cmd_render(argparse.Namespace(check=False))
 
 
 # ----------------------------------------------------------------- mapping
@@ -910,6 +1002,9 @@ def main() -> int:
     p.add_argument("entries", nargs="*")
     p.set_defaults(func=cmd_unmap)
     sub.add_parser("suggest").set_defaults(func=cmd_suggest)
+    p = sub.add_parser("apply-mapping")
+    p.add_argument("--dry-run", action="store_true")
+    p.set_defaults(func=cmd_apply_mapping)
     sub.add_parser("audit").set_defaults(func=cmd_audit)
     sub.add_parser("domains").set_defaults(func=cmd_domains)
     p = sub.add_parser("report")

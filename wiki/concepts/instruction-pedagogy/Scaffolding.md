@@ -24,6 +24,7 @@ tags:
   - theme/pedagogy
   - construct/cognitive-scaffold
   - inquiry-learning
+  - metax
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Zone of Proximal Development]]"
@@ -316,6 +317,28 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–366)]] | 中小学科学探究与大学跨学科探究 | 概念分析与质性案例追踪 | 双轨干预支架（技术提示+教学法）与[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）转变 | 质性证实单一技术提示易导致表面顺从；技术提示结合同伴评审与反思日志能够成功促成认识立场向评价主义演进 | — | 质性案例分析与理论框架，证实双轨支架对维系[[Epistemic Agency\|认识主体性]]与促进认识演进的充要性 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [支架与情境学习 · Scaffolding and situated learning](https://www.visiblelearningmetax.com/influences/view/scaffolding_and_situated_learning)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 7 | 274 | 12,416 | 654 | 0.50 | 0.57 | ●●●●○ |
+>
+> > [!metax-ma]- 7 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Belland et al. (2015) | Scaffolding on achievement | 7 | NA | 17 | 0.53 |  |
+> > | Belland et al. (2012) | Scaffolding on STEM outcomes | 144 | NA | 333 | 0.46 |  |
+> > | Vogel et al. (2017) | Scaffolding with Computer supported collaboration scripts | 22 | 2,825 | 45 | 0.20 |  |
+> > | Kim (2012b) | Situated learning | 19 | 2,501 | 36 | 1.12 |  |
+> > | Cai, Mao, et al. (2022) | Scaffolding in digital games | 49 | 5,906 | 154 | 0.43 |  |
+> > | Doo et al. (2020) | Scaffolding in elearning | 18 | 1,184 | 41 | 0.65 |  |
+> > | Pesco & Gagne (2017) | Scaffolding | 15 | NA | 28 | 0.61 |  |
 
 ---
 

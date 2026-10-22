@@ -10,6 +10,7 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
+  - metax
 - theme/cross-cultural
 - level/k12
 - level/higher-ed
@@ -83,3 +84,25 @@ updated: 2026-10-22
 > - [[Chinese Learner]] — 刻板印象威胁在[[Intercultural Education|跨文化教育]]中的主要应用案例：中国学习者如何在西方课堂中经历威胁感知 → 内化 → 自我实现的完整链条
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] 对刻板印象威胁在中国学习者案例中的系统论证
 
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [刻板印象威胁 · Stereotype threat](https://www.visiblelearningmetax.com/influences/view/stereotype_threat)
+> 学生 › 生理因素
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ▼ 负向影响 | 6 | 298 | 19,563 | 485 | -0.14 | -0.23 | ●●●○○ |
+>
+> > [!metax-ma]- 6 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Mitchell (2014) | Stereotype threat on girl's math | 9 | 2,251 | 29 | -0.64 |  |
+> > | Doyle & Voyer (2016) | Threat and lift for males and females | 86 | NA | 224 | 0.14 |  |
+> > | Nguyen & Ryan (2008) | Stereotype threat | 116 | 7,964 | 116 | -0.26 |  |
+> > | Flore & Wicherts (2015) | Stereotype threat on girl's performance | 26 | 3,760 | 47 | -0.22 |  |
+> > | Magoutier et al. (2023) | Stereotype threat vs. no threat | 17 | NA | 25 | -0.17 |  |
+> > | Picho et al. (2013) | Stereotype threat on girl's math | 44 | 5,588 | 44 | -0.24 |  |

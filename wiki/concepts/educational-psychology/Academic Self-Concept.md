@@ -15,6 +15,7 @@ tags:
   - theme/academic-self-concept
   - theme/motivation
   - theme/measurement
+  - metax
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Variable]]"
@@ -74,3 +75,34 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 ASC 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [积极自我概念 · Positive self-concept](https://www.visiblelearningmetax.com/influences/view/positive_self-concept)
+> 学生 › 自我
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 14 | 914 | 633,055 | 3,625 | 0.54 | 0.56 | ●●●●● |
+>
+> > [!metax-ma]- 14 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Hansford & Hattie (1982) | Self-concept | 128 | 202,823 | 1,136 | 0.43 |  |
+> > | Muller et al. (1988) | Self-concept | 38 | NA | 838 | 0.36 |  |
+> > | Wickline (2003) | Self-concept | 41 | 48,038 | 41 | 0.35 |  |
+> > | Valentine et al. (2004) | Self-concept | 56 | 50,000 | 34 | 0.16 |  |
+> > | O'Mara et al. (2006) | Self-concept interventions | 145 | NA | 460 | 0.51 |  |
+> > | Dulay (2017) | Self-concept | 123 | 223,068 | 123 | 0.82 |  |
+> > | Körük (2017) | Self-esteem | 46 | 27,419 | 46 | 0.49 |  |
+> > | Lackner (2015) | Self-esteem on African Americans | 27 | NA | 41 | 0.43 |  |
+> > | Huang (2011) | Self-concept | 32 | 44,594 | 39 | 0.49 |  |
+> > | Wu, Guo, et al. (2021) | Achievement to self over time | 62 | NA | 66 | 0.35 |  |
+> > | Shinta & Yudiarsa (2021) | Self-concept | 12 | NA | 12 | 0.52 |  |
+> > | Gueyaud & Dassa (1998) | Self-concept | 108 | NA | 693 | 0.32 |  |
+> > | Suciati et al. (2020) | Self-concept | 28 | NA | 28 | 1.58 |  |
+> > | Ding et al. (2024) | Academic Self-concept | 68 | 37,113 | 68 | 1.02 |  |

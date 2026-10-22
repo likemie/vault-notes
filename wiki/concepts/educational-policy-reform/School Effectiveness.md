@@ -20,6 +20,7 @@ tags:
   - region/uk
   - region/global
   - method/quantitative
+  - metax
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Variable]]"
@@ -301,6 +302,22 @@ updated: 2026-10-22
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 1985–2002 年 [[UNESCO]]、[[World Bank\|世界银行]]与 [[OECD]] 核心政策文件；阿根廷与巴西课程改革卷宗及师生访谈 | 跨国比较[[Discourse Analysis\|话语分析]]与深度质性追踪 | 效能咨询市场化输出模式、国际普遍方案与微观学校脱节度 | 揭示英国高校学术重商主义将效能打包为跨国商品；证实阿根廷与巴西微观实践与效能方案剧烈脱节 | — | 跨国宏观话语分析与拉美案例，未报告定量效应量 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Gray et al. (1986) | 英国学校[[Academic Achievement\|学业成就]]与社会阶层方差分解 | 大规模纵向多水平[[Analysis of Variance\|方差分析]] | 学生家庭背景（[[Socioeconomic Status\|SES]]）与学校效能对学业成绩的解释方差比 | 学生背景（SES）解释学业方差高达 80%，学校净效能仅解释约 20% | 极显著且稳健 | 严格实证检验，证实校外社会结构对学业产出具有压倒性主导作用 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Harker (1995) | 新西兰全国小学多水平方差分析模型 | 全国抽样[[Hierarchical Linear Model\|多层线性模型]]（HLM） | 社会阶层生源背景与校际差异方差占比 | 学生背景占总学业方差 70%–80%，校际差异仅占 8%–10% | 极显著（$p < .001$） | 证实新西兰公立学校差异极其微弱，将学业差距归咎于学校效能属于严重误导 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [学校效应 · School effects](https://www.visiblelearningmetax.com/influences/view/school_effects)
+> 学校 › 领导
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 1 | 168 | 0 | 168 | 0.48 | 0.48 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Scheerens & Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
 
 ---
 

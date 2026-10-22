@@ -16,6 +16,7 @@ tags:
   - level/k12
   - theme/assessment
   - method/research-methods
+  - metax
 related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -382,6 +383,30 @@ updated: 2026-10-20
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 《[[Visible Learning\|可见的学习]]》全书文本（Hattie, 2009） | 政策[[Discourse\|话语]]与词频统计分析 | “班级规模（Class Size）”词频对比 | 全书共提及 95 次，遍布 16 个章节；为第一名“自我报告成绩”（仅 6 次）的 16 倍 | — | 揭示出对低效应量班额概念的超常规关注，服务于新自由主义财政紧缩与抵制工会诉求 |
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 俄罗斯联邦沃洛格达地区 1,120 名中小学教师 | 区域教师[[Questionnaire\|问卷调查]] | 学校资源配置、班额压力与教师负荷 | 45% 教师反映办学经费严重匮乏，79% 教师每周承受超 10 小时填报重负 | 描述性统计（[[Chi-Squared Test\|卡方检验]]显著） | 证实依凭元分析低效应排名缩减公立学校办学资源与维持大班额，会加剧教师流失与治理陷阱 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 丹麦与国际[[Evidence-Based Education\|循证教育]]文献反思 | 概念与方法学底层审计 | 班级规模[[Unit of Analysis\|分析单元]]有效性与 [[Socioeconomic Status\|SES]] 调节作用 | 确立 Berger (1982) 交互原则；指出哈蒂孤立 SES（$d=0.57$）且拒绝作为调节变量 | 质性理论与[[Epistemology\|认识论]]批判 | 论证班级规模无法作为独立分析单元，揭示阶级盲教学思维对教育不平等的技术掩饰 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [缩小班额 · Reducing class size](https://www.visiblelearningmetax.com/influences/view/reducing_class_size)
+> 课堂 › 班级构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 9 | 238 | 564,964 | 2,934 | 0.14 | 0.15 | ●●●●○ |
+>
+> > [!metax-ma]- 9 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Glass & Smith (1979) | Class size | 77 | 520,899 | 725 | 0.09 |  |
+> > | McGiverin et al. (1989) | Class size | 10 | NA | 24 | 0.34 |  |
+> > | Goldstein et al. (2000) | Class size | 9 | 29,440 | 36 | 0.20 |  |
+> > | Bowne et al. (2017) | Class size in early childhood | 38 | NA | 328 | 0.31 |  |
+> > | Leuven & Oosterbeek (2018) | Reducing class size by 10 | 16 | NA | 16 | 0.10 |  |
+> > | Filges et al. (2018) | Class size | 6 | NA | 9 | 0.11 |  |
+> > | Shin & Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
+> > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
+> > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
 
 ---
 

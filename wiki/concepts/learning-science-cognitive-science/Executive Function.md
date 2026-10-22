@@ -15,6 +15,7 @@ tags:
   - cognitive-science
   - working-memory
   - inquiry-based-learning
+  - metax
 related_concepts:
   - "[[Inhibitory Control]]"
   - "[[Cognitive Flexibility]]"
@@ -234,3 +235,22 @@ updated: 2026-10-22
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inhibitory Control\|抑制控制]]在科学探究推理与概念转变中的微观神经认知机制（解释近 30% 变异），确立了[[Scaffolding\|教学支架]]对学生执行功能负荷的代偿功能。
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]执行功能的涵盖性界定、三成分结构、学龄期发展轨迹及其对[[Academic Achievement\|学业成就]]与社会情绪发展的长期纵向预测力。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中证实[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]中度正相关（$r = 0.38$），并论证两者共享抑制控制、[[Cognitive Flexibility\|认知灵活性]]与[[Working Memory\|工作记忆]]等执行功能基础。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [执行功能 · Executive functioning](https://www.visiblelearningmetax.com/influences/view/executive_functioning)
+> 学生 › 先备知识与背景
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 314 | 73,552 | 314 | 0.62 | 0.70 | ●●●●○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Pascual et al. (2019) | Executive functioning | 21 | 7,947 | 21 | 0.78 |  |
+> > | Spiegel et al. (2021) | Executive functioning | 293 | 65,605 | 293 | 0.61 |  |

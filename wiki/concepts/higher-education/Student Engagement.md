@@ -18,6 +18,7 @@ tags:
   - theme/higher-education
   - level/higher-ed
   - theme/learning-science
+  - metax
 related_concepts:
   - "[[Variable]]"
   - "[[Man-Computer Symbiosis]]"
@@ -233,6 +234,33 @@ updated: 2026-10-22
 > | **投入的方向性** | 七项大学目标的重要性自评与排序 | “有了职业理想后你为此做了哪些准备？” | 目标掌控者呈现清晰的阶段性聚焦，直觉依赖者普遍无长期规划。 |
 > | **[[Academic Engagement\|学业投入]]** | [[Academic Achievement\|GPA]] 分布、专业认同度与归属感自评 | 专业喜欢程度、深层阅读时间及知识探究动机 | 目标掌控者为达到特定出路维持稳定 GPA，直觉依赖者易因受挫而学业迷航。 |
 > | **[[Social Engagement\|社会性投入]]** | 深度交友数量、与专业教师学术交流频率 | 课外活动参与动机、对导师及朋辈的情感评价 | 优势学生把社交视为资本积累，弱势学生容易局限于同温层被动交往。 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [专注、坚持与投入 · Concentration-Persistence-Engagement](https://www.visiblelearningmetax.com/influences/view/concentration-persistence-engagement)
+> 学生 › 毅力与自信
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 12 | 650 | 507,214 | 1,312 | 0.44 | 0.52 | ●●●●● |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Kumar (1991) | Engagement in science | 16 | 4,518 | 102 | 1.09 |  |
+> > | Aker (2016) | Engagement in science | 79 | 53,971 | 79 | 0.37 |  |
+> > | Lei & Cui (2016) | Engagement | 69 | 196,473 | 163 | 0.56 |  |
+> > | Quin (2017) | Engagement | 14 | NA | 14 | 0.67 |  |
+> > | Chang et al. (2016) | Engagement | 33 | NA | 33 | 0.49 |  |
+> > | Mikolashek (2004) | Resilience for at-risk students | 28 | NA | 268 | 0.03 |  |
+> > | Fong, Krou, et al. (2021) | Concentration | 211 | 71,854 | 265 | 0.29 |  |
+> > | Randall et al. (2014) | Less mind wandering | 27 | NA | 27 | 0.56 |  |
+> > | Sun, Wang, & Zhang (2021) | Behavioral engagement | 52 | NA | 52 | 0.53 |  |
+> > | Lindstrom et al. (2021) | Engagement | 21 | 13,521 | 199 | 0.49 |  |
+> > | Wong et al. (2023) | Engagement | 58 | 158,510 | 61 | 0.65 |  |
+> > | Liu (2014) | Need for cognition | 42 | 8,367 | 49 | 0.49 |  |
 
 ---
 

@@ -25,6 +25,7 @@ tags:
   - theme/policy-borrowing
   - level/primary
   - theme/curriculum-instruction
+  - metax
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Classroom Management]]"
@@ -130,3 +131,24 @@ updated: 2026-10-22
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 考察人造卫星危机后美国全面借用英国幼儿学校的案例，以此反衬当代全球化情境下跨国企业与多标度网络对教育[[Champ\|场域]]的重塑。 |
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [开放式与传统课堂 · Open vs. traditional classrooms](https://www.visiblelearningmetax.com/influences/view/open_vs._traditional_classrooms)
+> 课堂 › 班级构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 4 | 315 | 0 | 333 | 0.02 | 0.00 | ●●○○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Peterson (1980) | Traditional vs. open classrooms | 45 | NA | 45 | 0.12 |  |
+> > | Madamba (1981) | Traditional vs. open classrooms on reading | 72 | NA | 72 | -0.03 |  |
+> > | Hetzel (1980) | Traditional vs. open classrooms | 45 | NA | 45 | -0.13 |  |
+> > | Giaconia & Hedges (1982) | Traditional vs. open classrooms | 153 | NA | 171 | 0.06 |  |

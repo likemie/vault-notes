@@ -20,6 +20,7 @@ tags:
   - teacher-student-relationship
   - affective-learning
   - feedback-critique
+  - metax
 related_concepts:
   - "[[Construct]]"
   - "[[Feedback]]"
@@ -174,6 +175,23 @@ updated: 2026-10-21
 > |---|---|---|---|---|---|---|
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | [[John Hattie\|哈蒂]]《[[Visible Learning\|可见的学习]]》反馈类目引用的 Witt 等研究文本 | 文献学源头核查与[[Construct Validity\|构念效度]]审计 | [[Primary and Secondary Documents\|原始文献]][[Research Topic\|研究主题]]与反馈概念重合度 | 原始[[Documentary Analysis\|文献研究]]听众焦虑、沟通技巧与幽默，全文未曾出现“反馈”一词 | 质性文献学考证确凿 | 证实[[Meta-meta-analysis\|二阶元分析]]因术语表面相似性发生了严重语境漂移与[[Construct\|构念]]错位 |
 > | Chesebro and McCroskey (2001) | 大学本科教学大班情境 | 横截面[[Questionnaire\|问卷调查]]与结构方程模型 | 教师即时性、听众焦虑与学生理解感知 | 即时性显著负向预测学生听众焦虑并正向预测课堂参与意愿 | $p < .001$ | 证实亲和力主要通过心理减压与情感支持机制发挥作用，属于人际关系调节变量 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [教师即时亲和力 · Immediacy](https://www.visiblelearningmetax.com/influences/view/immediacy)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 89 | 27,192 | 89 | 1.06 | 0.65 | ●●●○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Witt et al. (2004) | Immediacy of teacher feedback | 81 | 24,474 | 81 | 1.15 |  |
+> > | Allen et al. (2006) | Immediacy on cognitive outcomes | 8 | 2,718 | 8 | 0.16 |  |
 
 ---
 

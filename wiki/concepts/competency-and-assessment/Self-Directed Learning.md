@@ -15,6 +15,7 @@ tags:
   - theme/self-directed-learning
   - theme/metacognition
   - theme/higher-education
+  - metax
 related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Lifelong Learning]]"
@@ -86,3 +87,22 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 将 SDL 作为PBL的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（d = 0.47）。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [自主学习 · Self-directed learning](https://www.visiblelearningmetax.com/influences/view/self-directed_learning)
+> 学生学习策略 › 学生导向干预
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 2 | 104 | 34,601 | 223 | 0.60 | 0.59 | ●●●○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Ku et al. (2012) | Self-directed learning | 61 | NA | 70 | 0.67 |  |
+> > | Doo & Zhu (2022) | Self-directed learning in online environments | 43 | 34,601 | 153 | 0.51 |  |

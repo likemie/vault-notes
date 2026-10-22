@@ -14,6 +14,7 @@ tags:
   - theme/critical-thinking
   - theme/curriculum
   - theme/higher-order-thinking
+  - metax
 related_concepts:
   - "[[Construct]]"
   - "[[Humility]]"
@@ -502,3 +503,22 @@ updated: 2026-10-22
 > - **[[Knowledge-Based Economy|知识经济]]规约与民主批判遮蔽** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 446)]] 揭示新自由主义知识经济[[Social Imaginary|社会想象]]如何将教育还原为[[Human Capital Theory|人力资本]]投资，将批判性思维降格为市场工具并遮蔽公民民主反思。
 > - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
 > - **初等教育微观[[Classroom Observation|课堂观察]]与批判性思维[[Operationalization|操作化]]** [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] 在中低收入国家课堂观察工具 Teach 中将批判性思维操作化为开放式追问、实质性思维任务与学生主动提问三大微观行为，建立了区分[[Rote Learning|死记硬背]]与深层[[Content Analysis|内容分析]]的学科教学锚点。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
+> 学生 › 先备知识与背景
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 70 | 8,233 | 90 | 0.79 | 0.71 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Fong, Kim, et al. (2017) | Critical thinking | 23 | 8,233 | 23 | 0.49 |  |
+> > | Orhan (2022) | Critical thinking | 47 | NA | 67 | 0.93 |  |

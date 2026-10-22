@@ -17,6 +17,7 @@ tags:
   - tiered-instruction
   - evidence-based-reform
   - rti
+  - metax
 related_concepts:
   - "[[Grade Retention]]"
   - "[[Response to Proven Instruction]]"
@@ -247,3 +248,28 @@ updated: 2026-10-22
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism\|因果决定论]]提供批判视角。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 针对宏观证据库中 RTI 影响因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，揭示一阶[[Meta-analysis|元分析]]收录非学业测量（智商与行为）及大学生样本直接违背 [[PICO Framework|PICO]] 准入标准的问题。
 > - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助、证据审查与政策激励的三条件模型。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [干预反应模式 · Response to Intervention](https://www.visiblelearningmetax.com/influences/view/response_to_intervention)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 8 | 180 | 11,231 | 689 | 0.73 | 0.74 | ●●●●○ |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Tran et al. (2011) | Response to Intervention programs | 13 | NA | 107 | 0.76 |  |
+> > | Burns & Symington (2002) | Use of prereferral intervention teams | 11 | NA | 57 | 0.96 |  |
+> > | Torres (2016) | Response to Intervention programs | 20 | NA | 11 | 0.32 |  |
+> > | Swanson & Lussier (2001) | Dynamic assessment (feedback) | 30 | 5,104 | 170 | 1.12 |  |
+> > | Bagasi (2014) | Response to Intervention programs | 19 | NA | 19 | 0.47 |  |
+> > | Burns et al. (2005) | Response to Intervention programs | 25 | NA | 25 | 1.49 |  |
+> > | Wang et al. (2016) | Response to Intervention programs | 34 | 6,127 | 261 | 0.50 |  |
+> > | Stuebing et al. (2015) | Response to Intervention programs | 28 | NA | 39 | 0.30 |  |

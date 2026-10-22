@@ -19,6 +19,7 @@ tags:
   - differentiated-instruction
   - class-size
   - level/k12
+  - metax
 related_concepts:
   - "[[Scaffolding]]"
   - "[[Critical Pedagogy]]"
@@ -243,3 +244,32 @@ updated: 2026-10-22
 > | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] | 跨文化教学实证综合 | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]; SFI Report (2015) | 个别化教学不等于教师甩包袱；弱势背景学生对显性结构高度依赖，过度开放的个别化反会拉大差距。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 循证干预[[Meta-meta-analysis\|元综合]]评价 | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Hattie (1992, 2008) | 归纳个别化教学在纯统计排名中的低效应量（$d = 0.14$），反思自定步调独立学习的局限。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 政策社会学与跨国治理分析 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 剖析欧盟同伴学习活动如何将芬兰面向落后学生的早期个别化教学经验构造成兼顾卓越与公平的跨国通用政策处方。 |
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [个别化教学 · Individual instruction](https://www.visiblelearningmetax.com/influences/view/individual_instruction)
+> 学生学习策略 › 学生导向干预
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 12 | 894 | 9,380 | 1,434 | 0.26 | 0.22 | ●●●●○ |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Hartley (1977) | Individualization in math | 51 | NA | 139 | 0.16 |  |
+> > | Kulik & Kulik (1980) | Individualized college teaching | 213 | NA | 213 | 0.33 |  |
+> > | Horak (1981) | Individualization in math | 60 | NA | 129 | -0.07 |  |
+> > | Willett et al. (1983) | Individualized science curriculum | 130 | NA | 131 | 0.17 |  |
+> > | Bangert et al. (1983) | Individualized in high schools | 49 | NA | 49 | 0.10 |  |
+> > | Aiello & Wolfle (1980) | Individualized in high school science | 115 | NA | 182 | 0.35 |  |
+> > | Waxman et al. (1985) | Adaptive methods (individual, continuous assessment, periodic evaluation) | 38 | 7,200 | 309 | 0.45 |  |
+> > | Atash & Dawson (1986) | Individualized science curriculum | 12 | 2,180 | 12 | -0.02 |  |
+> > | Mitchell (1987a) | Individualized instruction in mathematics | 38 | NA | 39 | 0.19 |  |
+> > | Cohen & Dacanay (1992) | Individual instruction in medical education | 30 | NA | 30 | 0.37 |  |
+> > | Blumschein (2003a) | Adaptive methods | 144 | NA | 144 | 0.33 |  |
+> > | Jung et al. (2018) | Data based individualized instruction | 14 | NA | 57 | 0.30 |  |

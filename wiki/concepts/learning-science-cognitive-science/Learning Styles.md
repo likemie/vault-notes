@@ -27,6 +27,7 @@ tags:
   - educational-fad
   - theme/teacher-beliefs
   - theme/science-communication
+  - metax
 related_concepts:
   - "[[Habituation]]"
   - "[[Hypothesis]]"
@@ -251,3 +252,48 @@ updated: 2026-10-22
 > - [[Argument_Besa_2024_UW|Besa (2024)]] — 整合学习类型信念、实践指南与播客干预的研究，分析教师教育中的科学传播条件。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Hattie|哈蒂]]对学习风格报告 $d = 0.41$ 却断然否定的反例，揭露[[Meta-meta-analysis|二阶元分析]]放弃底层研究质控并设定绝对门槛的深层矛盾。
 > - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 记录英国 [[ResearchED]] 运动中一线教师对学习风格这一典型“教育时尚与神话”的自发抵制与严厉批驳。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [学习风格与学业成就 · Correlating learning styles to achievement](https://www.visiblelearningmetax.com/influences/view/correlating_learning_styles_to_achievement)
+> 学生学习策略 › 学生导向干预
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 13 | 654 | 63,329 | 2,391 | 0.43 | 0.48 | ●●●●● |
+>
+> > [!metax-ma]- 13 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Tamir (1985) | Cognitive preference | 54 | NA | 13 | 0.02 |  |
+> > | Sullivan (1993) | Dunn and Dunn Learning styles matched to achievement | 42 | 3,434 | 42 | 0.75 |  |
+> > | Iliff (1994) | Kolb Learning Style matched to achievement | 101 | NA | 486 | 0.33 |  |
+> > | Dunn et al. (1995) | Interventions to enhance matching learning style on achievement | 36 | 3,181 | 65 | 0.76 |  |
+> > | Slemmer (2002) | Learning styles in hyper/technology environments | 48 | 5,908 | 51 | 0.13 |  |
+> > | Mangino (2004) | Dunn and Dunn Learning styles for adults | 47 | 8,661 | 386 | 0.54 |  |
+> > | Lovelace (2005) | Dunn and Dunn Learning styles matched to achievement | 76 | 7,196 | 168 | 0.67 |  |
+> > | Salvione (2007) | Dunn and Dunn learning styles for students | 34 | 7,093 | 677 | 0.28 |  |
+> > | Ay (2017) | Learning styles | 60 | 26,391 | 60 | 0.47 |  |
+> > | Ostovar (2023) | Learning styles | 98 | NA | 384 | 0.19 |  |
+> > | Mohammadi et al. (2013) | Learning styles on achievement | 10 | NA | 10 | 0.25 |  |
+> > | Kanadli (2016) | Learning styles on achievement | 30 | NA | 30 | 1.03 |  |
+> > | Erdem & Kaf (2023) | Learning styles | 18 | 1,465 | 19 | 0.78 |  |
+
+> [!metax] [按学习风格匹配教学 · Matching teaching to style of learning](https://www.visiblelearningmetax.com/influences/view/matching_teaching_to_style_of_learning)
+> 学生学习策略 › 学生导向干预
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 4 | 150 | 23,779 | 295 | 0.11 | 0.09 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Garlinger & Frank (1986) | Field independence/dependence on achievement | 7 | 1,531 | 7 | -0.03 |  |
+> > | Kavale & Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
+> > | Phillips et al. (2016) | Reflection thinking styles on performance | 89 | 17,704 | 68 | 0.11 |  |
+> > | Peterson & Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |

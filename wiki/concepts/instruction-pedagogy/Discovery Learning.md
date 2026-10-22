@@ -21,6 +21,7 @@ tags:
   - constructivism
   - inquiry-based-learning
   - direct-instruction
+  - metax
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
@@ -239,6 +240,23 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|---|
 > | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 显性直接讲授 vs 引导式发现探究（[[Control of Variables Strategy\|CVS]]） | 13 周延迟[[Pre-test and Post-test\|后测]]保持率 | 严格控制实验与长期追踪 | 直接教学组保持率 31%；引导式发现组保持率 78%–83% | — | 保持率差异显著（$p < .01$） | 证实经历试错发现所建构的认知策略具备极高的长期抗遗忘韧性 |
 > | Klahr and Nigam (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 直接讲授控制[[Variable\|变量]]规则 vs 发现学习 | 科学实验设计质量与近迁移表现 | 小学生科学课堂实验 | 直接讲授组短期掌握更快，发现组部分学生通过试错达成相同掌握水平 | — | 掌握后两组表现相当 | 证实两类教学路径均可通向精熟，但直接讲授短期速度更快，引导发现深层卷入度更高 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [发现式教学 · Discovery-based teaching](https://www.visiblelearningmetax.com/influences/view/discovery-based_teaching)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 2 | 193 | 0 | 394 | 0.27 | 0.21 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Mitchell (1987a) | Discovery methods in mathematics | 29 | NA | 34 | 0.11 |  |
+> > | Alfieri et al. (2011) | Discovery methods | 164 | NA | 360 | 0.30 |  |
 
 ---
 

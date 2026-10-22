@@ -19,6 +19,7 @@ tags:
   - reflective-practice
   - pedagogical-skills
   - clinical-training
+  - metax
 related_concepts:
   - "[[Normal School]]"
   - "[[Academic Achievement]]"
@@ -180,3 +181,25 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时梳理教师效能核心因素表，证实微格教学以 $d = 0.88$ 居教师实践首位。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [微格教学／课堂录像回看 · Micro-teaching / video review of lessons](https://www.visiblelearningmetax.com/influences/view/micro-teaching~video_review_of_lessons)
+> 教师 › 教师教育
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 5 | 270 | 0 | 307 | 0.86 | 0.79 | ●●●○○ |
+>
+> > [!metax-ma]- 5 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Butcher (1981) | Micro teaching on teacher skills | 47 | NA | 47 | 0.55 |  |
+> > | Bennett (1987) | Micro teaching on teacher skills | 112 | NA | 126 | 1.10 |  |
+> > | Metcalf (1995) | Lab experiences in teacher education on teacher skills | 60 | NA | 83 | 0.70 |  |
+> > | Morin et al. (2019) | Video of special ed classes on student outcomes | 24 | NA | 24 | 0.96 |  |
+> > | Aina (2020) | Micro teaching on teaching skills | 27 | NA | 27 | 0.65 |  |

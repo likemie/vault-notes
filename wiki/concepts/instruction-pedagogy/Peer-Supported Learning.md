@@ -23,6 +23,7 @@ tags:
   - peer-tutoring
   - teacher-collaboration
   - school-culture
+  - metax
 related_concepts:
   - "[[Champ]]"
   - "[[Paradigm]]"
@@ -227,3 +228,65 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 批判性政策审议与理论解构 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Hattie (2008); Murnane and Cohen (1981) | 揭示学校改进与[[Effective Teaching\|有效教学]]高度依赖教研室同伴文化，实证批判[[Performance Pay\|绩效工资]]对教师互信协作的破坏。 |
 > | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 跨文化[[Fieldwork\|田野调查]]与纵向追踪 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; Chen et al.; Heyman et al. | 系统剖析东亚学校基于“同学”伦理的同伴互助学习机制、课代表制与[[Learning Virtues\|学习美德]]实践。 |
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [同伴辅导 · Peer tutoring](https://www.visiblelearningmetax.com/influences/view/peer_tutoring)
+> 学生学习策略 › 学生学习观
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 16 | 599 | 17,397 | 1,632 | 0.55 | 0.50 | ●●●●○ |
+>
+> > [!metax-ma]- 16 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Phillips (1983) | Tutorial training of conservation | 45 | NA | 531 | 1.01 |  |
+> > | Mathes & Fuchs (1994) | Peer tutoring in reading | 11 | NA | 74 | 0.36 |  |
+> > | Elbaum, Vaughn, Hughes, Moody, et al. (2000) | Peer tutoring in reading | 32 | 1,248 | 216 | 0.41 |  |
+> > | Bowman-Perrott et al. (2013) | Peer tutoring | 26 | 938 | 195 | 1.17 |  |
+> > | Rohrbeck et al. (2003) | Peer assisted learning in elementary students | 90 | NA | 90 | 0.59 |  |
+> > | Ginsburg-Block et al. (2006) | Peer-assisted learning | 28 | NA | 26 | 0.35 |  |
+> > | Shenderovich et al. (2016) | Cross age tutoring | 15 | NA | 15 | 0.19 |  |
+> > | Alegre-Ansuategui et al. (2018) | Peer tutoring | 50 | 7,043 | 50 | 0.33 |  |
+> > | Zeneli et al. (2016) | Peer tutoring | 49 | NA | 182 | 0.72 |  |
+> > | Leung (2015) | Peer tutoring | 72 | 6,611 | 72 | 0.39 |  |
+> > | Burton (2020) | Cross-age peer mentors | 6 | 685 | 6 | 0.45 |  |
+> > | Zha et al. (2019) | Peer led learning | 28 | NA | 28 | 0.36 |  |
+> > | Jo et al. (2021) | Peer teaching | 61 | NA | 61 | 0.52 |  |
+> > | Rees et al. (2016) | Peer vs faculty teaching | 10 | NA | 10 | 0.07 |  |
+> > | Öz (2023) | Peer instruction | 43 | NA | 43 | 0.92 |  |
+> > | Zhang, Liao, et al. (2022) | Peer teaching on nurses | 33 | 872 | 33 | 0.10 |  |
+
+> [!metax] [同伴辅导（受辅者） · Peer tutoring on Tutee](https://www.visiblelearningmetax.com/influences/view/peer_tutoring_on_tutee)
+> 学生学习策略 › 学生学习观
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 3 | 113 | 0 | 127 | 0.49 | 0.54 | ●●○○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Hartley (1977) | Effects on tutees in math | 29 | NA | 50 | 0.63 |  |
+> > | Cohen et al. (1982) | Effects on tutees | 65 | NA | 52 | 0.40 |  |
+> > | Cook et al. (1985) | Handicapped as tutees | 19 | NA | 25 | 0.58 |  |
+
+> [!metax] [同伴辅导（辅导者） · Peer tutoring on Tutor](https://www.visiblelearningmetax.com/influences/view/peer_tutoring_on_tutor)
+> 学生学习策略 › 学生学习观
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 4 | 129 | 0 | 116 | 0.43 | 0.47 | ●●○○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Hartley (1977) | Effects on tutors in math | 29 | NA | 18 | 0.58 |  |
+> > | Cook et al. (1985) | Handicapped as tutors | 19 | NA | 49 | 0.53 |  |
+> > | Cohen et al. (1982) | Effects on tutors | 65 | NA | 33 | 0.33 |  |
+> > | Leung (2019) | Peer tutors on tutor's achievement | 16 | NA | 16 | 0.43 |  |

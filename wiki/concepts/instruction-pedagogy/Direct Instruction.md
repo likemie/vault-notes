@@ -17,6 +17,7 @@ tags:
   - subject/instruction
   - level/k12
   - pedagogy
+  - metax
 related_concepts:
   - "[[Scaffolding]]"
   - "[[Inquiry-Based Learning]]"
@@ -345,3 +346,28 @@ updated: 2026-10-22
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [直接教学 · Direct instruction](https://www.visiblelearningmetax.com/influences/view/direct_instruction)
+> 教学策略 › 教学方法
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 8 | 3,052 | 520,905 | 10,392 | 0.56 | 0.62 | ●●●●● |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | White (1988) | DI in special education | 25 | NA | 24 | 0.83 |  |
+> > | Adams & Engelmann (1996) | DI on reading | 37 | NA | 372 | 0.75 |  |
+> > | Borman et al. (2003) | DI from Comprehensive schools reforms | 232 | 42,618 | 182 | 0.21 |  |
+> > | Haas (2005) | DI in algebra | 10 | NA | 19 | 0.55 |  |
+> > | Stockard et al. (2018) | DI | 328 | NA | 3,999 | 0.54 |  |
+> > | Coughlin (2011) | DI | 20 | NA | 95 | 0.66 |  |
+> > | Alsowat (2020) | Explicit instruction on ELL | 2,361 | 478,287 | 5,662 | 0.59 |  |
+> > | Mason & Otero (2021) | DI | 39 | NA | 39 | 0.79 |  |

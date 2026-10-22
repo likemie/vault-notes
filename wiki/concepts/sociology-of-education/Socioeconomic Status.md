@@ -20,6 +20,7 @@ tags:
   - effect-size
   - visible-learning
   - social-class
+  - metax
 related_concepts:
   - "[[Educational Level]]"
   - "[[Operationalization]]"
@@ -210,6 +211,60 @@ updated: 2026-10-22
 > | [[OECD]] (2005) 基准报告<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, p. 6)]] | 家庭社会经济背景对[[Academic Achievement\|学业表现]]的方差贡献 | 全球 [[PISA]] 跨国多阶段[[Stratified Sampling\|分层抽样]] | 结构方程与[[Hierarchical Linear Model\|多层线性模型]]（HLM） | 占全域总变异最高比例 | 确立家庭阶层背景对认知发展与学业动机的绝对基础决定作用 | 跨国实证基准；表明校内教学无法孤立于社会结构独立发生作用 |
 > | Hattie (2009) 附录数据<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, p. 7)]] | 孤立测算的家庭社会经济地位（SES）效应 | 涵盖数百项原始实证研究 | Cohen's $d$；二阶未加权均值 | $d = 0.57$（部分表述为 $0.59$） | 被[[John Hattie\|哈蒂]]列为排名前列的正向影响因素，但被禁止作为调节变量参与教学法分析 | 隔离处理；将客观社会结构剥离于具体课堂干预之外 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, pp. 241–242)]] | 底层贫困家庭面临的结构性资源匮乏真实净影响（基准参照反转） | 针对 Hattie $d=0.57$（或 $0.59$）效应量开展数学对偶审计 | 符号转换分析与资本匮乏测算 | 实质为 $d = -0.57$（或 $-0.59$）的极端负向效应 | 成为全书最具破坏力的逆向有害因素，超越留级（$-0.16$）、转学（$-0.34$）与过多看电视（$-0.18$） | 证实单向包装正向均值掩盖阶级压迫；结合挑战者号事故与鱼子酱物价指数比喻批判去情境化未加权汇总 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [同伴社会经济地位 · Peer socioeconomic status](https://www.visiblelearningmetax.com/influences/view/peer_socioeconomic_status)
+> 家庭 › 家庭资源
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 1 | 40 | 0 | 40 | 0.40 | 0.40 | ●○○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Markalousová (2023) | Peer socioeconomic status on achievement | 40 | NA | 40 | 0.40 |  |
+
+> [!metax] [社会经济地位 · Socioeconomic status](https://www.visiblelearningmetax.com/influences/view/socioeconomic_status)
+> 家庭 › 家庭资源
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 23 | 1,375 | 5,213,109 | 5,049 | 0.58 | 0.50 | ●●●●● |
+>
+> > [!metax-ma]- 23 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | White (2001b) | Socioeconomic status and achievement | 101 | NA | 620 | 0.66 |  |
+> > | Fleming & Malone (1983) | Student characteristics and science achievement | 273 | NA | 21 | 0.54 |  |
+> > | Sirin (2005) | Relation between SES and achievement | 58 | 101,157 | 307 | 0.56 |  |
+> > | Letourneau et al. (2013) | Socioeconomic status and achievement | 7 | 665 | 7 | 0.35 |  |
+> > | Tan (2017) | Cultural capital | 41 | 685,393 | 155 | 0.32 |  |
+> > | Çiftçi & Cin (2017) | Socioeconomic status | 66 | 159,315 | 66 | 0.90 |  |
+> > | Harwell et al. (2017) | Socioeconomic status and achievement | 45 | NA | 2,610 | 0.37 |  |
+> > | Strenze (2007) | Socioeconomic status and achievement | 86 | 145,632 | 58 | 0.65 |  |
+> > | Sackett et al. (2009) | SES on Univ entrance and GPAs | 41 | 155,191 | 41 | 0.93 |  |
+> > | Lawson et al. (2018) | Socioeconomic status on executive functioning | 25 | 8,760 | 25 | 0.32 |  |
+> > | Kim et al. (2019) | Socioeconomic status in developing countries | 49 | 2,828,216 | 49 | 0.06 |  |
+> > | Liu et al. (2019) | Socioeconomic status in China | 78 | 215,649 | 78 | 0.50 |  |
+> > | Nieuwenhuis & Hooimeijer (2016) | Neighborhood SES | 88 | NA | 88 | 1.01 |  |
+> > | Rodriguez-Hernandez et al. (2020) | Socioeconomic status with immigrants | 42 | NA | 42 | 0.12 |  |
+> > | Kim, Mok, et al. (2020) | Parental SES/education | 7 | NA | 7 | 0.08 |  |
+> > | Tian et al. (2020) | Socioeconomic status on math | 36 | NA | 36 | 0.41 | ∑ |
+> > | Selvitopu & Kaya (2021) | Socioeconomic status | 48 | 386,601 | 62 | 0.52 |  |
+> > | Scherer & Siddiq (2019) | SES and ICT literacy | 32 | NA | 75 | 0.44 |  |
+> > | Tan et al. (2019) | Cultural capital | 98 | 371,385 | 355 | 0.28 |  |
+> > | Nunes et al. (2022) | Socioeconomic status | 13 | 117,088 | 13 | 0.37 |  |
+> > | Tan et al. (2023) | Socioeconomic status | 74 | NA | 241 | 1.42 |  |
+> > | Kaya & Selvitopu (2023) | Family acculturation with immigrants | 31 | 38,057 | 57 | 0.38 |  |
+> > | Tian et al. (2020) | Socioeconomic status on math | 36 | NA | 36 | 0.41 | ∑ |
+>
+> > [!metax-errata] 2 条
+> > - ∑ **自动核算 · 疑似重复** Tian et al. (2020) 在列表中重复出现。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,303，加权平均效应量 0.59，未加权平均效应量 0.51（仅供参考，未核原文）。
 
 ---
 

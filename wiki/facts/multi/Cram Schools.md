@@ -25,6 +25,7 @@ tags:
   - theme/private-tutoring
   - theme/shadow-education
   - theme/academic-pressure
+  - metax
 related_concepts:
   - "[[Homework]]"
   - "[[Academic Achievement]]"
@@ -82,3 +83,17 @@ updated: 2026-10-22
 
 ---
 
+## Visible Learning MetaX
+
+> [!metax] [课外补习 · Private tutoring](https://www.visiblelearningmetax.com/influences/view/private_tutoring)
+> 技术、学校与校外策略 › 校外
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 2 | 47 | 6,750 | 103 | 0.35 | 0.37 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Zhang & Liu (2022) | Private tutoring | 22 | 6,750 | 78 | 0.67 |  |
+> > | Liu (2016) | Private tutoring | 25 | NA | 25 | 0.06 |  |

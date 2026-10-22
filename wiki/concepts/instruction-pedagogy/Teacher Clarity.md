@@ -20,6 +20,7 @@ tags:
   - communication
   - cognitive-load
   - direct-instruction
+  - metax
 related_concepts:
   - "[[Success Criteria]]"
   - "[[Scaffolding]]"
@@ -185,3 +186,23 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。
+
+---
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [教师清晰度 · Teacher clarity](https://www.visiblelearningmetax.com/influences/view/teacher_clarity)
+> 教师 › 教师特质
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 3 | 101 | 14,853 | 239 | 0.85 | 0.84 | ●●●○○ |
+>
+> > [!metax-ma]- 3 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Fendick (1990) | Teacher clarity on outcomes | 39 | NA | 100 | 0.75 |  |
+> > | Titsworth et al. (2015) | Teacher clarity on outcomes | 25 | 8,241 | 25 | 0.72 |  |
+> > | Titsworth et al. (2015) | Teacher clarity on outcomes | 37 | 6,612 | 114 | 1.04 |  |

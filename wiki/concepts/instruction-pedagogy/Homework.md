@@ -17,6 +17,7 @@ tags:
   - theme/academic-achievement
   - level/k12
   - paradigm/evidence-based
+  - metax
 related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Heterogeneity]]"
@@ -312,6 +313,33 @@ updated: 2026-10-22
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | Hattie (2009) 纳入的 161 项作业实证研究 | [[Meta-meta-analysis\|元综合]]统计效应深度解构与概率换算 | 班级提分成功率、身高类比差异 | 仅 21% 的班级在引入作业后出现学业提升；效应量 $d = 0.29$ 仅相当于 180cm 与 182cm 身高差异；65% 正向，35% 中性/负向 | — | 深度揭露平均效应量在具体班级教学情境中的微弱真实效力与不确定性 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]] | 英格兰中小学教师日常教学实践 | 被试内微型试验试点（[[Teacher Choices]] strand） | 逐本逐页批改作业（Marking Books）vs 全班集中形成性反馈（Whole-Class [[Feedback]]） | 针对一线教师最关切的微观决策，旨在评估全班集中反馈在显著减轻教师工作负荷的同时能否维持或提升学生理解深度 | 探索性因果试验试点 | 推动因果评估向教师日常微观决策渗透，打破传统作业精细批改的工时内卷神话 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]（引述 Carboni, 2013） | 丹麦基础教育中小学与教育行政机构 | 政策个案审查与文献方法学质检 | 家庭作业总体均值（$d = 0.29$）引发的公共政策废除决策 | 丹麦多家教育机构依据哈蒂均值在全境中小学全面废除家庭作业；忽视高中（$d=0.64$）与小学（$d=0.15$）鸿沟以及学科与能力调节 | — | 证实将脱离情境的无调节二阶均值直接套用至公共教育治理，会导致对高年级[[Effective Teaching\|有效教学]]实践的一刀切误杀 |
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [家庭作业 · Homework](https://www.visiblelearningmetax.com/influences/view/homework)
+> 技术、学校与校外策略 › 校外
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★☆☆ 正向影响 | 12 | 309 | 560,977 | 478 | 0.29 | 0.27 | ●●●●○ |
+>
+> > [!metax-ma]- 12 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Paschal et al. (1984) | Homework on learning | 15 | NA | 81 | 0.36 |  |
+> > | Cooper (1989) | Homework on achievement | 20 | 2,154 | 20 | 0.21 |  |
+> > | Fan et al. (2017) | Homework | 28 | NA | 61 | 0.45 |  |
+> > | Bas et al. (2017) | Homework on achievement | 11 | 862 | 11 | 0.23 |  |
+> > | Scheerens, Hendriks, et al. (2013) | Homework on achievement | 17 | NA | 19 | 0.09 |  |
+> > | DeBaz (1994a) | Homework in science | 77 | 41,828 | 77 | 0.39 |  |
+> > | Cooper (1994) | Homework on learning | 17 | 3,300 | 48 | 0.21 |  |
+> > | Cooper et al. (2006) | Homework from studies 1987-2004 | 32 | 286,656 | 69 | 0.32 |  |
+> > | Ozyildirim (2021) | Homework time | 48 | 225,430 | 48 | 0.19 |  |
+> > | Kwon et al. (2021) | Homework on achievement | 12 | NA | 12 | 0.23 |  |
+> > | Bishop et al. (2024) | Online vs. traditional homework | 18 | NA | 18 | 0.06 |  |
+> > | Guo et al. (2024) | Homework vs. no homework | 14 | 747 | 14 | 0.45 |  |
 
 ---
 

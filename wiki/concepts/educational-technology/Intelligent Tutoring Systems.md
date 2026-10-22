@@ -19,6 +19,7 @@ tags:
   - ai-in-education
   - instruction/adaptive-learning
   - learning-science
+  - metax
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Scaffolding]]"
@@ -324,6 +325,26 @@ updated: 2026-10-22
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 评述 Hillmayr et al.（2020）对中学理科数字工具的元分析（k = 92）：智能辅导系统效应最大（g = 0.65），教师教学法培训是关键调节因素。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 在关于[[Epistemic Dependence\|认识依赖]]的[[Critical Review\|批判性综述]]中，将传统智能导师系统的步骤级透明规则协助作为对照基准，深入辨析其与生成式大语言模型在知识确证分工、协助形态分层（过程性协助 vs 承载判断型协助）及认知可恢复性维护上的本质分野。
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 从[[Virtue Epistemology|美德认识论]]出发对传统 ITS 的直接答案导向设计逻辑提出根本性批判，提出提问型导师（Q-Tutor）作为颠覆性替代架构：以直接答案拦截规则与封闭→开放问题递进序列，将智能导师从答案传递者重构为认知挣扎的催化者，从而防范[[Cognitive Deskilling\|认知去技能化]]并培育[[Epistemic Virtues and Vices|理智美德]]。
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [智能导学系统 · Intelligent tutoring systems](https://www.visiblelearningmetax.com/influences/view/intelligent_tutoring_systems)
+> 技术、学校与校外策略 › 辅导／多媒体
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 5 | 283 | 25,085 | 288 | 0.52 | 0.53 | ●●●●○ |
+>
+> > [!metax-ma]- 5 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | VanLehn (2011) | Intelligent tutoring systems | 44 | NA | 44 | 0.76 |  |
+> > | Gerard et al. (2015) | Automated, adaptive guidance | 24 | NA | 29 | 0.34 |  |
+> > | Kulik & Fletcher (2016) | Intelligent tutoring systems | 50 | NA | 50 | 0.66 |  |
+> > | Ma et al. (2014) | Intelligent tutoring systems | 107 | 14,321 | 107 | 0.41 |  |
+> > | Wang et al. (2019) | Intelligent tutoring systems | 58 | 10,764 | 58 | 0.49 |  |
 
 ---
 
