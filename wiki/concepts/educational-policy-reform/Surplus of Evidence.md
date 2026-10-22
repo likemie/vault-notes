@@ -8,10 +8,10 @@ aliases:
 summary: "在数字经济与海量知识制造时代，针对同一公共政策议题的研究成果、实证数据与咨询报告在数量上发生爆炸式增长并超过决策系统认知与处理负荷的生态现象。该现象打破了“证据越丰富政策越理性”的传统启蒙假设，反而加剧了政策歧义性（Policy Ambiguity）与信息孤岛，促使政治决策者更倾向于策略性“选秀”证据，并为政策中介机构对海量数据进行二次提炼、认证包装与权威背书创造了垄断性的制度中介空间。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/policy-studies
   - theme/policy-brokerage
@@ -34,17 +34,21 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Gatekeepers]]"
   - "[[Governing by Numbers]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Knowledge Bank]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Epistemology]]"
   - "[[Academic Freedom]]"
   - "[[Variable]]"
+  - "[[Two Broken Feedback Loops]]"
 related_theories:
   - "[[Two-Communities Theory]]"
   - "[[Pluralism]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Elite Interview]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
@@ -53,10 +57,11 @@ related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -133,15 +138,15 @@ updated: 2026-10-22
 > **从知识制造到[[Policy Brokerage|政策中介]]的重心转移** 在信息过量时代，治理权力的核心在于“在海量数据中提取清晰洞见并建立说服力”的能力；[[OECD|经合组织]]与[[World Bank|世界银行]]正是依托其指标打包与转译技术，在过剩的证据生态中成为各国政府的重要政策导航中枢。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538, 544)]]
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
-> **全球证据平台泛滥与本土决策吸纳的结构性脱节** 对全球 103 国证据生态的系统梳理表明，全球范围内存在 654 个活跃证据平台，形成了显著的“证据来源过剩”生态；然而这些平台并未有效支持国家政策规划，54% 的平台处于与国际主流网络完全孤立的断裂状态，74% 未与任何知识经纪网络建立正式链接，超六成（62%）教育部委官员因缺乏时间与专业技能而难以吸收技术性报告。这表明未经情境化转译与制度支持的海量证据堆积，反而阻断了知识向政策的有效转化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25)]]
+> **全球证据平台泛滥与本土决策吸纳的结构性脱节** 对全球 103 国证据生态的系统梳理表明，全球范围内存在 654 个活跃证据平台，形成了显著的“证据来源过剩”生态；然而这些平台并未有效支持国家政策规划，54% 的平台处于与国际主流网络完全孤立的断裂状态，74% 未与任何[[Educational Brokerage Agency|知识经纪]]网络建立正式链接，超六成（62%）教育部委官员因缺乏时间与专业技能而难以吸收技术性报告。这表明未经情境化转译与制度支持的海量证据堆积，反而阻断了知识向政策的有效转化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **策略挪用命题** | 证据过剩为政客提供了丰富的[[Social Science as Legitimation Alibi|合法化借口]]与选择性选秀空间 | 存在高度政治争议与党派分歧的教育改革决策 | Lubienski (2019); [[Gita Steiner-Khamsi|Steiner-Khamsi]] |
-> | **中介权力重构命题** | 信息过载推动政策权力从中立学术界转移至中介打包机构，全球平台泛滥与本土决策吸纳严重脱节 | 数字时代全球治理复合体与[[Knowledge Bank|知识银行]]运作 | [[Gita Steiner-Khamsi|Steiner-Khamsi et al. (2024)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] |
+> | **策略挪用命题** | 证据过剩为政客提供了丰富的[[Social Science as Legitimation Alibi\|合法化借口]]与选择性选秀空间 | 存在高度政治争议与党派分歧的教育改革决策 | Lubienski (2019); [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
+> | **中介权力重构命题** | 信息过载推动政策权力从中立学术界转移至中介打包机构，全球平台泛滥与本土决策吸纳严重脱节 | 数字时代全球治理复合体与[[Knowledge Bank\|知识银行]]运作 | [[Gita Steiner-Khamsi\|Steiner-Khamsi et al. (2024)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] |
 
 ---
 
@@ -179,13 +184,13 @@ updated: 2026-10-22
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 537–538, 547)]] | 北欧五国（挪威、瑞典、丹麦、芬兰、冰岛）教育立法文献池 | 政策咨询文献计量与引文网络追踪 | 专家报告证据库规模与最终行政采纳数 | 仅挪威 5 个能力委员会即汇集 464 篇参考文献，但最终仅有 22 篇被部长法令采纳，引文损耗率达 95.3% | 全样本追踪 | 提供了决策系统在面对海量证据过剩时实施极端政治过滤与指标筛减的直接实证数据 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a, pp. 21–25)]] | 覆盖 103 国 898 名政策受访者的全球调查及 33 名关键知情人访谈 | 全球网络问卷调查与关键知情人访谈 | 证据机构与平台数量、受访者平台使用率与来源过剩共识 | 受访者共识别出 654 个证据平台与倡议；受访专家一致认同当前存在证据来源过剩而非匮乏；54% 的证据来源为国家级且与国际平台处于松散或无连接状态（网络离散度 0.99，含 121 个完全孤立组件）；74% 平台未与任何中介网络链接；62% 部委官员报告缺乏解读技术性报告的时间与能力 | 全球样本覆盖五大区域 | 实证确立了全球教育领域证据来源过剩与国家决策吸纳不足并存的结构性悖论 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a, pp. 21–25)]] | 覆盖 103 国 898 名政策受访者的全球调查及 33 名[[Elite Interview\|关键知情人访谈]] | 全球网络[[Questionnaire\|问卷调查]]与关键知情人访谈 | 证据机构与平台数量、受访者平台使用率与来源过剩共识 | 受访者共识别出 654 个证据平台与倡议；受访专家一致认同当前存在证据来源过剩而非匮乏；54% 的证据来源为国家级且与国际平台处于松散或无连接状态（网络离散度 0.99，含 121 个完全孤立组件）；74% 平台未与任何中介网络链接；62% 部委官员报告缺乏解读技术性报告的时间与能力 | 全球样本覆盖五大区域 | 实证确立了全球教育领域证据来源过剩与国家决策吸纳不足并存的结构性悖论 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 提出[[Governing by Numbers|数字治理]] 2.0 议程，将证据过剩与信息超载作为[[Policy Brokerage|政策中介]]机构崛起与主权国家选择性挪用证据的根本制度背景。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 基于全球 103 国调查与 654 个平台梳理，实证确证教育证据过剩与国家吸纳不足并存，揭示研究与决策、全球与本土之间的双重反馈回路断裂。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 基于全球 103 国调查与 654 个平台梳理，实证确证教育证据过剩与国家吸纳不足并存，揭示研究与决策、全球与本土之间的[[Two Broken Feedback Loops|双重反馈回路断裂]]。

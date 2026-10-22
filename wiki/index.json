@@ -5953,6 +5953,17 @@
     ]
   },
   {
+    "title": "Fast and Slow Lanes Model",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Fast and Slow Lanes Model.md",
+    "aliases": [
+      "知识治理快慢车道模型",
+      "快慢车道模型",
+      "Fast and Slow Lanes of Knowledge Governance",
+      "三车道模型"
+    ]
+  },
+  {
     "title": "Firewall Effect",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Firewall Effect.md",
@@ -6935,6 +6946,17 @@
       "绕道透明度机制",
       "信息公开绕道",
       "transparency bypass mechanism"
+    ]
+  },
+  {
+    "title": "Two Broken Feedback Loops",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Two Broken Feedback Loops.md",
+    "aliases": [
+      "双重反馈回路断裂",
+      "两重反馈回路断裂",
+      "Double Broken Feedback Loops",
+      "证据利用双重反馈回路断裂"
     ]
   },
   {
@@ -19454,9 +19476,7 @@
       "两社区理论",
       "双社群理论",
       "两个群体理论",
-      "Two-Communities Metaphor",
-      "知识治理快慢车道模型",
-      "快慢车道模型"
+      "Two-Communities Metaphor"
     ]
   },
   {
@@ -21665,6 +21685,17 @@
     "aliases": [
       "数据缩减",
       "资料缩减"
+    ]
+  },
+  {
+    "title": "Deliberative Policy Dialogue",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Deliberative Policy Dialogue.md",
+    "aliases": [
+      "审议性政策对话",
+      "避风港政策对话",
+      "Safe Haven Policy Dialogue",
+      "审议政策论坛"
     ]
   },
   {

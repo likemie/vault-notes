@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
+  - "[[Deliberative Policy Dialogue]]"
   - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
 related_instruments: []
@@ -55,7 +56,7 @@ updated: 2026-10-23
 ---
 
 > [!claim] 核心定位
-> 证据知情[[Policy Network|政策网络]]（Evidence-informed Policy Network, EVIPNet）是世界卫生组织（WHO）于 2005 年创设的全球常设中介网络，通过在成员国内部建立国家知识转化平台、制定证据简报以及召开审议性政策对话，系统促进科研成果向公共卫生政策与规划的纵深转化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34–36, 81–82)]]
+> 证据知情[[Policy Network|政策网络]]（Evidence-informed Policy Network, EVIPNet）是世界卫生组织（WHO）于 2005 年创设的全球常设中介网络，通过在成员国内部建立国家知识转化平台、制定证据简报以及召开[[Deliberative Policy Dialogue|审议性政策对话]]，系统促进科研成果向公共卫生政策与规划的纵深转化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34–36, 81–82)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 依据第 58 届世界卫生大会通过的促进卫生研究与政策结合决议（WHA58.34），世界卫生组织于 2005 年正式启动 EVIPNet，应对全球范围内学术研究成果海量增长但基层卫生决策与资源分配依然严重脱节的结构性困境。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34, 82)]]

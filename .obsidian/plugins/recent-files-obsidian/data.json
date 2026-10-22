@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Steiner-Khamsi_2024_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Systems Approach for Better Education Results",
+      "path": "wiki/facts/global/Systems Approach for Better Education Results.md"
+    },
+    {
       "basename": "Argument_Zapp_2017_IJED",
       "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Zapp_2017_IJED.md"
+    },
+    {
+      "basename": "African Virtual University",
+      "path": "wiki/facts/africa/African Virtual University.md"
     },
     {
       "basename": "Argument_Niemann_Martens_2018_GSP",
@@ -187,18 +199,6 @@
     {
       "basename": "template-metax",
       "path": "wiki/templates/template-metax.md"
-    },
-    {
-      "basename": "Argument_Burns_Schuller_2022_BrokerageAgencies",
-      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
-    },
-    {
-      "basename": "Educational Evidence Clearinghouses",
-      "path": "wiki/concepts/educational-policy-reform/Educational Evidence Clearinghouses.md"
-    },
-    {
-      "basename": "Argument_Custer_2021_AidData",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
     }
   ],
   "omittedPaths": [],
