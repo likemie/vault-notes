@@ -171,7 +171,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 教育中介机构（Educational Brokerage Agency）
 > 教育中介机构（Educational Brokerage Agency）指旨在生成、评估并在教育政策制定者、学校实践者及公众等利益相关群体之间交流传播研究证据的制度化专门实体或结构化合作网络（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–61]]）。作为现代[[Evidence Ecosystem\|教育证据生态系统]]的关键枢纽，教育中介机构不仅承担证据数据库维护与快速[[Systematic Review\|系统综述]]等技术功能，更通过促进跨界对话、协调供需断裂以及提升全系统循证素养，在制度化层面维系[[Knowledge Production\|知识生产]]、[[Knowledge Mediation\|知识中介]]与[[Research Utilization\|知识利用]]之间的动态联结（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–63]]）。
 
 > [!concept-lens] 概念透镜

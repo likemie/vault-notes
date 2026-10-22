@@ -88,7 +88,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 师生关系（Student-Teacher Relationship）
 > **师生关系（Student-Teacher Relationship）** 指学生与教师在课堂教学、生活交往与制度化组织情境中所建构的互动联结质量，涵盖情感关照、学业支持、道德信任与指导性权威（[[Argument_Lekhal_2015_Paideia|(Lekhal et al., 2015, p. 80)]]; [[Argument_Li_2012_Cambridge|(Li, 2012, pp. 52–53)]]）。在实证教育研究与[[Didaktik|教学理论]]中，师生关系不仅是学生获得[[Academic Achievement|学业成就]]与社会情感发展的前提性心理生态，更在不同文化学习模型中承载着迥异的功能定位——在欧美传统中常被界定为促成学习目标的交互资源或环境条件，而在[[Confucian Learning Tradition|儒家学习传统]]中则被视为亲子关系的自然延伸与求知道德践行的独立核心支柱（[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 73, 1555–1581)]]）。
 
 > [!concept-lens] 概念透镜

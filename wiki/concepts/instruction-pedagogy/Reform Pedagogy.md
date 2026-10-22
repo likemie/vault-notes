@@ -52,12 +52,12 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-18
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 改革教育学（Reform Pedagogy）
 > **改革教育学（Reformpädagogik）** 指发端于 19 世纪末至 20 世纪初的欧洲德语区与北欧、并在 20 世纪 60 至 70 年代经历批判性复兴的一系列反权威主义与反注入灌输的教育理论与学校实验思潮；其核心在于拒斥将学生视作被动[[Received Knowledge|接收知识]]注入的“空容器”或“白板”，主张立足儿童的生活经验、自主探究意愿与民主交往潜能，通过问题导向学习、跨学科小组合作与自治学校实验，重构教育的社会解放功能与生命陶成价值。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
 
 > [!concept-lens] 概念透镜

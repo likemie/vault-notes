@@ -35,7 +35,7 @@ related_arguments: []
 part_of: ''
 status: draft
 created: 2026-05-03
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2020
 doi: ""
 citation_aliases: []
@@ -43,7 +43,7 @@ citation_aliases: []
 
 ---
 
-> [!def] 定义
+> [!def] 简单阅读观（Simple View of Reading）
 > 简单阅读观（Simple View of Reading）是由菲利普·高夫（Philip Gough）与威廉·顿默（William Tunmer, 1986）提出的一种认知主义阅读理解模型。该模型主张，阅读能力在本质上可以被预测为[[Decodification\|解码]]能力与语言理解（听力理解）能力的乘积 (p.149)。
 
 > [!concept-lens] 概念透镜

@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 建构知识（Constructed Knowledge）
 > 建构知识（Constructed Knowledge）在[[Epistemology\|认识论]]发展模型中具有专属的技术性含义：它是 Belenky et al. (1986) 提出的[[Women's Ways of Knowing\|女性认知方式]]模型中的最高发展阶段。达到这一阶段的个体能够将主观直觉与客观系统程序融为一体，认识到知识和真理是情境化的、随语境变化的产物，并将自身视为[[Knowledge Building Theory|知识建构]]过程的积极参与者，而非被动接受者。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
 
 > [!concept-lens] 概念透镜

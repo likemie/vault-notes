@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 政策企业家（Policy Entrepreneur）
 > **政策企业家（Policy Entrepreneur，又称政策创业者）**，是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值[[Discourse|话语]]，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）引入公共政策分析；迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动[[School Autonomy|学校自主]]的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论；[[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）则系统解构了政策企业家如何依托双层组织架构在公共行政、非营利与商业载体间无缝切换，实现学术成果商业化与制度套利。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47–50)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜

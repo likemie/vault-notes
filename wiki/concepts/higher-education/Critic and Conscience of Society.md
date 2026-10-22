@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 社会的批评者与良知（Critic and Conscience of Society）
 > **社会的批评者与良知（Critic and Conscience of Society）** 指大学在自由民主社会中承担独立批判和公共良知使命的法定本质特征。该概念由英国教育社会学者[[Gerald Grace|杰拉尔德·格雷斯]]（Gerald Grace）于 1988 年提出，后被纳入加里·霍克（Gary Hawke）主持的《[[Learning for Life Report|为生活而学习报告]]》（*Learning for Life*, 1989 年 2 月），并最终写入新西兰《1989 年教育法》（*Education Act 1989*）第 162 条，成为界定大学法定特性的核心条款。其制度意图在于保障大学基于严谨、公正与客观的学术研究向执政权力讲真话（speak truth to power），充当抵御政党意识形态、[[New Managerialism|新管理主义]]与行政殖民的权力制衡机制。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 
 > [!concept-lens] 概念透镜

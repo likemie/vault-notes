@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 工程实用主义（Engineering Pragmatism）
 > 工程[[Pragmatic Paradigm|实用主义]]（Engineering Pragmatism）指在重大国家科技工程、国防科研与前沿算法研发中，以行动优先、立即可见实效与技术可行性攻关为导向的工程[[Praxis|实践哲学]]。该哲学强调“建造优先于形而上学清谈”，主张在直面现实物理与计算约束中解决关键技术瓶颈（如[[J. Robert Oppenheimer|奥本海默]]所言“看到技术精妙之物便直接去做”）；同时，它要求工程力量必须与国家战略使命及公共福祉深度绑定，警惕纯粹效用追求退化为回避终极道德责任的科学非道德论或狭隘的商业消费主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18, 26–28)]]
 
 > [!concept-lens] 概念透镜

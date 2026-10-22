@@ -49,7 +49,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 教育对话式智能体（Conversational AI in Education）
 > [[Dialogue in Education\|教育对话]]式[[AI Agent in Education\|智能体]]（Conversational AI in Education / Conversational AI Agents）是指依托自然语言理解（Natural Language Understanding, NLU）、语音识别（Speech Recognition）与多轮会话管理技术，在教育情境中与学习者进行文本或语音实时双向交流的人工智能交互中介。该系统能够模拟人类对话者的语言交流习惯，提供拟真语境口语练习、形成性即时反馈、[[Socrates\|苏格拉底]]式追问与自适应语料支架。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 6–7)]]
 
 > [!concept-lens] 概念透镜

@@ -43,12 +43,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 经验学习（Experiential Learning）
 > 经验学习（Experiential Learning，亦称经验教育）关注经验及其重组如何促进理解与成长，是[[John Dewey|约翰·杜威]]（John Dewey）在《经验与教育》（*Experience and Education*, 1938）中系统阐发的教育哲学核心。杜威提出，一切真正的教育都来自于经验（*all genuine education comes about through experience*）[[Argument_Darwish_2009_Queens|(Dewey, 1963, p. 25; 引自 Darwish, 2009, p. 30)]]。然而，杜威并非无条件赞同所有经验，而是强调必须通过**连续性原则（Continuity）** 与 **[[Interaction Effect|交互作用]]原则（Interaction）** 来判定一项经验是促进后续生长或成长的[[Educative Experience|教育性经验]]（educative experience），还是阻碍并扭曲生长的反教育性经验（[[Mis-educative Experience]]）[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 31–32)]]。
 
 > [!concept-lens] 概念透镜

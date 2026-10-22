@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 无指挥协同（Undirected Cooperation）
 > **无指挥协同（Undirected Cooperation）** 是指大规模自主个体在完全没有中心领导者集中发号施令、缺乏预设层级指挥链与自顶向下监督控制的条件下，依据对等信息交互、局域行为规则与动态投票反馈，自发展开复杂探索、方案筛选并达成高度协调一致行动的自组织协同[[Paradigm|范式]]。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化体系中，无指挥协同被确立为连接生物自组织与人类尖端工程创新的核心理论纽带：从 1951 年[[Martin Lindauer|马丁·林道尔]]观测的数万只蜜蜂选巢迁徙，到罗马[[Flocking Behavior|椋鸟群飞]]与硅谷高敏捷初创团队的即兴协作，无指挥协同证明了群体无需依赖僵化的中央特权首领或科层管理中介，便能在剧变对抗环境中[[Emergence|涌现]]出卓越的[[Problem Solving|问题解决能力]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115, 120–121)]]
 
 > [!concept-lens] 概念透镜

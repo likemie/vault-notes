@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识共创（Knowledge Co-production）
 > **知识共创（Knowledge Co-production）**，亦称知识合作生产，指学术研究者、一线教育实践者（教师、校长）与政策制定者在平等、互惠的协作关系中，共同参与[[Research Question\|研究问题]]确立、研究方案设计、现场数据收集、深度数据分析及实践转化全周期的制度化生产模式（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 90–92, 96]]；[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 23–24]]）。作为现代[[Evidence Ecosystem\|教育证据生态系统]]的根本性制度基石，知识共创从根本上超越了传统的单向线性“推-拉”（Push-Pull）知识供给模式，赋予一线实践者在知识创造中的主体地位，通过[[Convergence Research\|融合研究]]者的[[Interactional Expertise\|交互型专长]]与一线教师的[[Contributory Expertise\|贡献型专长]]，确保研究成果深度契合具体的教育情境与微观实践需求。
 
 > [!concept-lens] 概念透镜

@@ -92,7 +92,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 政策流动（Policy Mobility）
 > **政策流动（Policy Mobility / Policy Mobilities）** 是指政策观念、模型、工具与治理技术如何在跨国、跨区域及公私混合网络中穿梭、解构、变异并在本地重新装配的动态过程。与经典政策转移或[[Policy Borrowing\|政策借用]]理论将政策视作可在真空物理空间中完整平移的既定“包裹”不同，政策流动强调政策在位移过程中不可避免地发生形态变异（mutation）与权力转译；其背后通常由跨国管理咨询公司、[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）组织与金融资本组成的[[Policy Network\|政策网络]]所驱动，依托“快速政策”（fast policy）机制穿透传统民族国家边界，并通过耐用物质材料与法律装置在目标[[Champ\|场域]]完成[[Recontextualization|再情境化]]（Peck & Theodore, 2015；Ball et al., 2017；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5–6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–525]]）。
 
 > [!concept-lens] 概念透镜

@@ -27,10 +27,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 筛选隔离（Screening Off）
 > 筛选隔离（screening off）是指两个[[Variable\|变量]]看似存在关联（covariance 或 correlation），但实际上被一个共同的原因隔离开来——二者只有相关关系而没有[[Causality\|因果关系]]。这一概念由 Reichenbach（1956）提出，后由 Salmon（1998）进一步发展。
 
 > [!concept-lens] 概念透镜

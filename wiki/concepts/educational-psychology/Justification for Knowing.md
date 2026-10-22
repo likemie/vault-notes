@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认知的辩护（Justification for Knowing）
 > 认知的辩护（justification for knowing）是构成[[Epistemological Theories\|认识论理论]]的核心维度之一（属于“认知的本质”范畴）。它反映了个体为知识主张提供合理性证明的机制，即个体在面对冲突或[[Wicked Problem|劣构问题]]时，如何评估知识主张、如何运用证据，以及如何评价专家权威，从而为自身的信念进行概率性的论证。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
 > 
 > > [!concept-lens] 概念透镜

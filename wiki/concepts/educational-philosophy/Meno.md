@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 美诺篇（Meno）
 > 《美诺篇》（*Meno*）是[[Plato|柏拉图]]创作的早期向中期过渡阶段的哲学对话录。该篇以追问“美德是否可教”（whether virtue can be taught）为起点，系统提出了探究如何可能的“美诺悖论”（Meno's Paradox），并首次确立了[[Theory of Knowledge|知识论]]核心奠基命题——灵魂回忆说（Theory of Recollection / Anamnesis）。[[Socrates|苏格拉底]]在篇中通过引导从未受过正规教育的童奴自主推导出正方形倍面积定理，奠定了西方启发式提问教学与先天心智论（Nativist [[Theory of Mind|Theory of Mind]]）的哲学基石[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28)]]；但在现代[[Virtue Epistemology|德性认识论]]与教育人工智能审视下，该对话亦被批判为预设唯一客观标准答案、依赖闭合引导的收敛性诱导原型[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
 
 > [!concept-lens] 概念透镜

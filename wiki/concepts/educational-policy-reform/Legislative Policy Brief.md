@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 立法政策简报（Legislative Policy Brief）
 > 立法政策简报（Legislative Policy Brief）指由[[National Education Policy Center\|国家教育政策中心]]（[[National Education]] Policy Center, NEPC）等专业智库与[[Educational Brokerage Agency\|知识中介机构]]倡导并采用的一种专业化科学传播文类。它将精炼的实证[[Research Synthesis|研究综合]]与明确的操作性政策诉求，与由执业律师依据实证结论量身起草的**法定示范条文（Model Statutory Language）** 深度结合，直接向立法机构、国会常设委员会专业幕僚及法案起草员展示如何将科学研究结论转化为具备法律效力与可操作性的法案法定语言。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
 > [!concept-lens] 概念透镜

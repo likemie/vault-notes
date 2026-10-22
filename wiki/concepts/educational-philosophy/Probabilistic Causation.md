@@ -28,10 +28,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 概率因果性（Probabilistic Causation）
 > 概率[[Causality\|因果性]]（probabilistic causation）是一种关于因果关系的刻画方式，主张在社会科学——尤其是教育研究中——因果关系更多是概率性的（probabilistic）而非决定性的（deterministic）。即原因通常**提高**其效果发生的可能性，而非**保证**效果的发生（Mellor, 1995, pp. 69–70）。
 
 > [!concept-lens] 概念透镜

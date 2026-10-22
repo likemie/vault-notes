@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 沉睡者效应（Sleeper Effect）
 > 沉睡者效应（Sleeper Effect，亦称延时发酵效应）是指在干预处理结束一段时间后，个体的认知增益、态度转变或行为改进不仅没有随时间衰减，反而随着心理结构的沉淀、内化与自主整合，在延时追踪测评中展现出比即时[[Pre-test and Post-test\|后测]]更为显著或翻倍放大的反直觉心理学现象。在教育心理学领域，深层[[Epistemic Ideals\|认识论标准]]的学习往往需要经历认知重构的“潜伏酝酿期”，使得延时后测成为捕捉深层概念转变与[[Higher-Order Thinking Skills\|高阶思维]]质变的关键窗口。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 490–493)]]
 
 > [!concept-lens] 概念透镜

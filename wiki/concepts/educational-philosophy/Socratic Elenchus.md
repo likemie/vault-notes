@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 苏格拉底驳诘法（Socratic Elenchus）
 > [[Socrates\|苏格拉底]]驳诘法（Socratic Elenchus / Exetasis）是古希腊哲学的核心探究与教学方法。在[[Plato\|柏拉图]]对话录中，驳诘法通过连续提问、交叉检验与立场反诘，揭示对话者既有信念与假设中的内在矛盾 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–3)]]。它本身并不直接增加实质性知识，而是作为一种智识清理机制，清除无知与自以为是的偏见，导向真正的辩证法（Dialectic）与[[Examined Life\|省察的生活]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–32)]]。
 
 > [!concept-lens] 概念透镜

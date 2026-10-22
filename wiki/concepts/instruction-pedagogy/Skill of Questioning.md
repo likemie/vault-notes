@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 提问技能（Skill of Questioning）
 > 提问技能（Skill of Questioning）是指认识主体在学习与求知过程中，能够清晰表达自身认知缺口、合逻辑地构建具有高阶认知价值的问题、并依据探究情境灵活调整问题焦点与层次的可习得智力技能。在教育[[Epistemology|认识论]]中，提问技能构成了智力技能（Intellectual Skills）的核心支柱，其可以通过刻意练习与外部支架训练掌握；但拥有提问技能并不等同于具备追求真理的理智品格，若缺乏对认知善品（Epistemic Goods）的内在热爱，提问技能可能被异化为诡辩或功利性应试工具。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 272–274)]]
 
 > [!concept-lens] 概念透镜

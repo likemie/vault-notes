@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 依托大学的科研基础设施（University-Based Research Infrastructure）
 > 依托大学的科研基础设施（University-Based Research Infrastructure）是指以高水平[[Research Universities|研究型大学]]为空间依托和制度载体，在国家公共科技财政与重大战略任务支持下建立的大型尖端科学仪器集群、[[Comparative Education as a Cross-Sectional Area|交叉学科]]科研基地、[[Open-Mindedness|开放性]]计算网络以及配套的高级工程技术支撑体系。该概念强调大学科研平台兼具“[[Academic Freedom|学术自由]]探索”与“国家创新底座”的双重属性：二战后美国通过国防部、国家科学基金会等联邦机构对高校基础科研的长期高强度注资，构筑了世界领先的大学科研基础设施，它不仅保障了前沿理论突破，更为民用高科技工业的爆发式成长持续输送新创企业（Spinoffs）、通用协议标准以及掌握前沿工艺的高层次年轻科学家与工程人才。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31, 38, 41)]]
 
 > [!concept-lens] 概念透镜

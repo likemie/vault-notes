@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学态度（Scientific Attitude）
 > 科学态度（Scientific Attitude / Disposition）指个体与社会公众在认识世界、评估证据与参与决策过程中所秉持的理性倾向、认知心智与价值规范。在教育[[Epistemology\|认识论]]层面，它要求尊重客观实证、批判性审视多源证据、理解科学知识的暂定性与不确定性；在教育改革与政策史层面，它是 1920 年代中国[[New Education Movement\|新教育运动]]以客观事实、实验渐进与精细研究取代激进空想的纲领原则；在当代科技治理与大众传播层面，它表现为公众对科学的信任、对建设性解决方案的信息渴求，以及科研共同体主动披露局限、恪守传播诚信的伦理自律。[[Argument_Zhou_2024_CE\|(Zhou & Westberg, 2024, pp. 619–620)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 47)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
 
 > [!concept-lens] 概念透镜

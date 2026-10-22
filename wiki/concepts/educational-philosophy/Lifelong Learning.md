@@ -110,7 +110,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 终身学习（Lifelong Learning）
 > 终身学习（Lifelong Learning）指贯穿个体全生命周期的持续性、情境化与自愿性学习过程。它突破了传统正规学校教育的时空界限，涵盖成人进修、职业技能重塑、社区文化参与、科学探索场馆互动及数字化自主探究等多元形态，致力于培育学习者适应社会、技术与生态剧变的[[Cognitive Flexibility|认知灵活性]]，实现个体潜能开发、健康福祉提升与公民民主参与。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 48)]]
 
 > [!concept-lens] 概念透镜

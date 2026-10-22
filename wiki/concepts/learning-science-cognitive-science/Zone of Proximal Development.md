@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 最近发展区揭示了外部社会中介干预与个体心智机能演进之间的动态张力。
 
-> [!def] 核心定义
+> [!def] 最近发展区（Zone of Proximal Development）
 > 最近发展区（Zone of Proximal Development, ZPD），又称潜在发展区，指个体独立解决问题所决定的**实际发展水平（Actual Developmental Level）** 与在成人指导、更有能力的同伴协作或外在支架辅助下解决问题所决定的**潜在发展水平（Potential Developmental Level）** 之间的动态心理跨度。该[[Construct|构念]]确立了“良好的教学走在发展前面”的社会文化历史[[Epistemology|认识论]]，主张教学干预应当精准靶向个体正处于胚胎期与成熟过程中的心理机能。在现代学习科学中，它不仅是自适应[[Man-Computer Symbiosis|人机协同]]支架的算法依据，更被扩展为成人与教师在职专业发展中循证辅导（Coaching）的核心理论基石。[[Argument_Liu_2026_CHBR|(Liu et al., 2026, pp. 2, 9–10)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 590)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 3, 6–7)]]
 
 从认知潜能诊断与干预设计的双重视角审视，最近发展区界定了最富成效的学习发生[[Champ|场域]]。

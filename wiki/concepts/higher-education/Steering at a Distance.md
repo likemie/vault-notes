@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 远距离操纵（Steering at a Distance）
 > 远距离操纵（Steering at a Distance；荷兰语：*sturen op afstand*）是 20 世纪 80 年代中叶由荷兰教育与科学部在高等教育治理改革中开创、并由欧陆公共行政学界系统化的现代公共治理[[Paradigm|范式]]。该模式标志着政府调控从依赖细密法律禁令、繁琐事前行政审批与输入条件管制的传统科层集权，转向以扩[[Grandes Ecoles|大学校]]组织办学自治为前提、将国家直接干预严格限定于宏观部门层级与事后产出质量评估、并依托统包经费拨款、双年度[[Higher Education and Research Plan|对话式规划]]与非强制激励的系统性间接治理架构。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135, 140)]]
 
 > [!concept-lens] 概念透镜

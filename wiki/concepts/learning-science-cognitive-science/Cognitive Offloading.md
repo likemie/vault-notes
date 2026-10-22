@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认知卸载（Cognitive Offloading）
 > 认知卸载（Cognitive Offloading）是指个体利用物理行动或外部数字/智能工具改变任务的信息加工要求，将原本由内部心智（如[[Working Memory\|工作记忆]]维持、符号运算、长时记忆提取或结构性规划）承担的认知操作转移到外部媒介中执行的过程。在[[Generative Artificial Intelligence\|生成式人工智能]]介入的教育情境中，认知卸载表现出深刻的“双刃剑效应”：在[[Structured Teaching\|结构化教学]]支持下，它能够有效卸载低阶语法排错与初级素材检索等外在负荷，将心智资源释放至高阶概念推演与反思；但在缺乏教学约束或学生自主调节能力偏低的情境下，它极易演变为对算法输出的被动依赖与“知识外包（Knowledge Outsourcing）”，诱导学生绕过必要的认知挣扎，导致[[Metacognition\|元认知]]监控停摆与批判性审思能力的实质性退化。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 9–10)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 5–6, 14–16)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–361)]]
 
 > [!concept-lens] 概念透镜

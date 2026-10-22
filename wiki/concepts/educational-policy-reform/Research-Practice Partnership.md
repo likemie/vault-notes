@@ -93,7 +93,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究-实践伙伴关系（Research-Practice Partnership）
 > 研究-实践伙伴关系（Research-Practice Partnership, RPP）指研究者与实践组织（学校、学区、教育行政部门）之间长期、互惠的制度化协作安排：双方围绕一线真实面临的持久挑战，共同界定[[Research Question\|研究问题]]、协同开展[[Knowledge Production\|知识生产]]并情境化推进研究成果转化运用，旨在从[[Epistemology\|认识论]]与制度根源上弥合[[Research-Practice Gap\|研究-实践鸿沟]]并驱动全系统[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–132)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 19–22)]]
 
 > [!concept-lens] 概念透镜

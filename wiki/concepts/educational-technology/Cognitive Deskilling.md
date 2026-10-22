@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认知去技能化（Cognitive Deskilling）
 > 认知去技能化（Cognitive Deskilling）是指学习者或专业人员将原本需要生物机体大脑执行的核心认知操作（如文本撰写、数学计算、逻辑推演、批判性质疑与[[Problem Solving|复杂问题解决]]）长期、不可逆或过度外包给外部计算工具（特别是大语言模型驱动的[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI；统称人工智能，Artificial Intelligence, AI）），导致主体自身内在的[[Working Memory|工作记忆]]调动、图式重构与程序性认知技能发生萎缩、钝化或发展停滞的现象。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270–272)]]
 
 > [!concept-lens] 概念透镜

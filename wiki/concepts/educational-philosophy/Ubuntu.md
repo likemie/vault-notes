@@ -51,14 +51,14 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-08'
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ## 定义
 
 乌班图（Ubuntu）起源于南部非洲班图语系传统，是非洲传统哲学的核心伦理与[[Ontology|本体论]]基石。
 
-> [!def] 核心定义
+> [!def] 乌班图（Ubuntu）
 > 乌班图的核心格言是“一个人之所以为人，是因为他人”（班图语：*Umuntu ngumuntu ngabantu*；英语：*I am because we are*）。该哲学将人的存在确立为彻底的关系性存在：个体绝非孤立自足、先验存在的理性原子，而是在与共同体他者、先祖及生态自然构成的活态互动网络中，通过相互承认与伦理责任才逐步成其为人。在当代教育哲学与技术伦理中，该概念被进一步阐发为批判工具理性、化解算法[[Epistemic Injustice|认识不正义]]与重构人机教育关系的规范性伦理资源。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 64)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–10)]]
 
 > [!concept-lens] 概念透镜

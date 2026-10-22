@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 多元、平等与包容（Diversity, Equity, and Inclusion）
 > **多元、平等与包容（Diversity, Equity, and Inclusion, DEI）** 是指广泛应用于高等教育、科研资助机构与公共组织中的政策框架与组织治理理念。其中“多元”（Diversity）强调个体在种族、性别、社会经济阶层及文化背景上的[[Heterogeneity|异质性]]呈现；“平等”（Equity）强调通过差异化资源配置以弥补历史与结构性不利；“包容”（Inclusion）强调构建确保所有成员获得平等尊重、归属感与决策参与权的制度文化。在科技政策与学术评审中，该框架常被转化为基金申请资格审查、师资聘任与项目评价的硬性指标。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 
 > [!concept-lens] 概念透镜

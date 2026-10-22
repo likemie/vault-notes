@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 在场感（Presence）
 > 在场感是用户在虚拟或中介环境中主观感受到自己身处其中而非物理所在地的体验。使用互动或非互动媒体将自我[[Externalization\|外化]]并在并非物理在场的环境中创建在场印象，依赖于自愿[[Epoché\|悬置]]不信任（Coleridge, 1817）以创建视角的幻觉性转移（Dennett, 1978, p. 312），以及用户在体验中使用自身知识、想象力和热情（Zhao, 2003）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 154–155]]）。
 
 > [!concept-lens] 概念透镜

@@ -35,7 +35,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 制度性不信任（Institutional Distrust）
 > 制度性不信任（institutional distrust）指制度安排（主要是问责体系）被设计为把专业人员限定在政策方向指定的狭小能动范围内，从而使公众对专业行动者保持不信任的状态（Grimen, 2008）。它的高低决定[[Research Utilization\|研究使用]]是[[Professional Judgment\|专业判断]]与能动性的权限，还是工具性服从。
 
 > [!concept-lens] 概念透镜

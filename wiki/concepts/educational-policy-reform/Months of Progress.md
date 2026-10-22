@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 月度进步指标（Months of Progress）
 > **月度进步指标（Months of Progress）** 是由[[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins）团队为英国[[Sutton Trust\|萨顿信托]]（Sutton Trust）与[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）研发的派生计量转换指标。该指标通过将教育干预评估中的标准化[[Effect Size\|效应量]]（通常以基准 $d pprox 0.09 \sim 0.10$ 标准差对应“+1 个月的额外学业进展”）折算为直观的自然时间尺度，旨在向中小学校长与政策制定者通俗化阐明不同教学干预措施在一年内的相对投入产出效能。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 584)]]
 
 > [!concept-lens] 概念透镜

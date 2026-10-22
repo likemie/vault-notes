@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 浸礼会与私酒贩同盟（Baptist-Bootlegger Coalition）
 > 浸礼会与私酒贩同盟（Baptist-Bootlegger Coalition）是公共规制理论与[[Historical Institutionalism|历史制度主义]]中解释奇特跨阵营政治联盟的经典分析机制。该概念最早由经济学家布鲁斯·扬德尔（Bruce Yandle, 1983）在规制经济学中提出，后由艾伦·雅各布斯（Alan Jacobs, 2009/2010）与[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）、[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）引入[[Theory of Gradual Institutional Change|渐进制度变迁理论]]的联盟动力学分析中（Table 1.5, p. 31）。特指在政策与制度博弈中，两类动机截然相悖的利益群体——出于崇高道德教义、宗教规范或意识形态原则追求共同善的公开倡导者（“浸礼会”），与出于狭隘自利动机通过制度漏洞寻租套利、大发横财的隐蔽非法/违规经营者（“私酒贩”，即[[Symbionts|共生者]]）——达成心照不宣或公开的政治同盟，共同极力阻止废除或更新既有法律规章。这种看似矛盾的异质结盟为低效或扭曲的制度提供了超常的政治抗逆力，构成了阻滞制度变迁的重要微观支柱（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
 
 > [!concept-lens] 概念透镜

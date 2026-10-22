@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 中国方案（China Solution）
 > **中国方案（China Solution，常与“中国智慧”并提）** 是当代中国大国外交大战略与全球治理哲学的核心规范性[[Discourse|话语]]范畴。指中国官方依托过去数十年经济快速增长、减贫实践、强政府统筹与基础设施现代化累积的发展型国家经验，向国际社会尤其是广大全球南方发展中国家提供的一整套跨国制度治理方案与替代性公共产品。在批判政策社会学与[[Geopolitics of Higher Education|高等教育地缘政治]]视阈下，“中国方案”构成了与[[Beijing Consensus|北京共识]]和[[Community of Shared Future for Mankind|人类命运共同体]]紧密锚定的[[Grand Theory|宏大叙事]]。在[[Education Going Global|教育出海]]实践中，它以“[[Telling China's Story Well|讲好中国故事]]”与“推广中国模式”为显性指引，通过向海外输出中国工程技术标准、组建国际高教科技协同联盟以及开展定向技术人才培养，承担着输出非西方治理经验与重塑全球治理格局的重要战略使命。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
 
 > [!concept-lens] 概念透镜

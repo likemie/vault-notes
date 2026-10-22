@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 苏格拉底对话（Socratic Dialogue）
 > [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，而是通过界定核心术语、追问潜在前提假设、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代[[Man-Computer Symbiosis|人机协同]]与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜

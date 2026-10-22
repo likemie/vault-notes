@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 消费互联网（Consumer Internet）
 > **消费互联网（Consumer Internet）** 是指 21 世纪初在全球范围内（尤其以美国硅谷为中心）确立主导地位的技术与商业形态，其核心特征是将海量风险资本、顶尖软件工程人才与算力资源全面倾斜于满足终端个人消费者的即时生活、娱乐、社交与便利性需求（如定向在线广告、图片与短视频分享、即时通讯、电商零售及外卖配送）。
 > 
 > 在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的思想史与制度批判中，消费互联网标志着硅谷科技界对早期[[Counterculture Computing|反文化计算]]解放理想与战后[[Technological Republic|技术共和国]]国家战略使命的双重背弃：技术精英在解构国家大叙事后，退避至政治冷漠的[[Technological Agnosticism|技术不可知论]]与纯粹唯利是图的“雇佣兵式”（Mercenary）物质消费服务之中；这一产业[[Paradigm|范式]]将工程才智消耗于“玩具之地（Toyland）”式的[[Lifestyle Technology|生活方式科技]]与[[Technological Pastiche|技术拼贴]]，制造了繁荣的创新幻觉，实则诱发了深层的[[Big Idea Famine|大构想饥荒]]与国家战略防御能力的系统性空洞化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 102)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103, 110–111)]]

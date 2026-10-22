@@ -51,7 +51,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 拼图法（Jigsaw）
 > Jigsaw（拼图法 / 切块拼接法）是由社会心理学家 Elliot Aronson 于 1978 年开创、后经 Robert Slavin（1986）系统改进（演进为 Jigsaw II/III/IV）的经典角色互补型[[Cooperative Learning\|合作学习]]教学模式。该方法的核心机制在于通过**结构化的任务信息不对称**建立强制性积极互赖：教师将整体学习内容切割为若干独立模块，原属组（Home Group）内的组员分别负责不同模块；负责相同模块的学生先汇聚至“专家组（Expert Group）”深入研讨并掌握内容，随后返回原属组轮流向组员传授讲解，最终通过个体独立测评检验全员对整体知识的掌握。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 > [!concept-lens] 概念透镜

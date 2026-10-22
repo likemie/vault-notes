@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 在认知心理学与现代教学设计中，“发现学习”（Discovery Learning）指一种促使学习者通过自主操纵材料、探索案例、提出假设与反思归纳，自发发现概念规律或学科基本结构的[[Constructivist Paradigm|建构主义]]教学取向。
 
-> [!def] 核心定义
+> [!def] 发现学习（Discovery Learning）
 > 发现学习由认知心理学家杰罗姆·布鲁纳（Jerome S. Bruner）在 1960 年代系统提出。该理论假定知识的最深刻内化并非源于被动接受外界讲授，而源于学习者运用归纳推理自主“发现”概念的过程。然而在半个多世纪的理论论争与实验检验中，学界对其内涵进行了根本性解构，严格区分为两类截然不同的[[Paradigm\|范式]]：
 > 1. **无指导纯发现学习（Unassisted / Pure Discovery Learning）** 教师不提供外部提示、解释或程序约束，放任学生在开放情境中自发试错摸索；
 > 2. **增强型引导式发现（Assisted / Guided Discovery Learning）** 教师或教学系统提供结构化情境、[[Scaffolding\|脚手架]]提示与关键解释，引导学生在约束边界内经历自主归纳与验证（Alfieri et al., 2011；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]）。

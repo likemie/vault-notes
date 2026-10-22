@@ -94,7 +94,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 工程教育（Engineering Education）
 > **工程教育（Engineering Education）** 是以培养具备工程科学基础、跨学科系统设计能力、现场动手排障技艺、开源技术标准研发与复杂约束权衡思维的高阶工程科技人才为目标的专门教育[[Paradigm|范式]]。与以解释自然现象为旨归的纯科学探究不同，工程教育以“满足人类与社会实际需求、解决真实世界技术问题与维护国家战略技术能力”为导向，强调在材料性能、制造成本、安全规程、工艺良率与地缘安全等多重约束条件下，综合运用数学与科学原理开展系统设计、原型制造、产线调试、标准开源与三级人才迭代培养。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜

@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 心灵官能心理学（Faculty Psychology），又称官能心理学或心智能力说，是 18 世纪末至 19 世纪在欧洲与北美占据主导地位的心理学与[[Epistemology|认识论]]学说。该学说假定人类的心灵（mind/soul）由若干先天的、相对分立的“官能（faculties）”（如感觉、注意力、记忆力、比较力、想象力、推理力、意志与道德情感）所构成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 16–17, 30)]]
 
-> [!def] 核心定义
+> [!def] 官能心理学（Faculty Psychology）
 > 官能心理学主张教育的根本旨趣不在于机械灌输具体的实用知识技能，而在于顺应心灵的自然法则，对各项心理官能展开有秩序的系统训练与陶冶（心智训练，*mental discipline*）。它构成了 19 世纪前期比较教育先驱（如[[Marc-Antoine Jullien\|马克-安托万·朱利安]]与[[Victor Cousin\|维克多·库森]]）设计比较观察指标、规划[[General Education\|通识教育]]课程（[[Culture Générale\|普通文化]]，*culture générale*）以及追求全人体智德协调发展的心理学与认识论底色。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 16–18, 30)]]
 
 > [!concept-lens] 概念透镜

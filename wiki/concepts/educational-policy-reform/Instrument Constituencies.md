@@ -34,7 +34,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 工具支持群体（Instrument Constituencies）
 > 政策工具支持群体（Instrument Constituencies）指由政治与经济行动者构成的利益与专业共同体，其行动目标在于开发、维护和扩张某种特定的政策工具治理模式，并在深化该工具使用的过程中享有确定的既得利益。该概念由西蒙斯（Arno Simons）与福斯（Jan-Peter Voß）提出，后由贝兰德（Daniel Béland）与豪利特（Michael Howlett）拓展至政策制定过程分析；在教育政策研究中，韦尔热（Antoni Verger）等人运用该概念揭示了由国际组织、国家测评官僚、私营测评企业与智库所构成的支持同盟，如何驱动大规模标准化评估与问责工具在教育系统中实现单向度扩张并构筑制度锁定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251–252, 259–260)]]
 
 > [!concept-lens] 概念透镜

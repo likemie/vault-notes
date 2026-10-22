@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 冷战大学（Cold War University）
 > 冷战大学（Cold War University）指二战后至冷战时期在美国地缘战略动员背景下深度重塑的[[Research Universities|研究型大学]]制度形态。其核心特征在于高校高度依赖联邦政府（特别是美国国防部及其下属科研机构）的基础研究与应用研究经费注资，将大学实验室深度嵌入国家科技与国防创新网络，在推动电子工程、计算机科学、航空航天等尖端[[Disciplinary Institutionalization|学科制度化]]建制的同时，使大学成为支撑战后国家科研基础设施（Research Infrastructure）、孵化高科技衍生企业及培养高层次工程技术人才的战略中枢。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 29)]]
 
 > [!concept-lens] 概念透镜

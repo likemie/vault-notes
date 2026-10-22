@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究使用的概念性、工具性与象征性类型学（Conceptual, Instrumental, and Symbolic Use of Research）
 > 概念性、工具性与象征性使用（Conceptual, Instrumental, and Symbolic Use of Research）是对[[Research Utilization|研究利用]]方式的经典三分类。概念性使用指研究以复杂而往往间接的方式为实践者提供信息，影响他们对各种议题的理解与思考（Nutley et al., 2007），Weiss (1980, p. 381) 称之为"知识渗透"（knowledge creep）；工具性使用指某一项研究直接回应某一具体议题，直接影响政策或实践决策（Nutley et al., 2007）；象征性（或策略性／战术性）使用指研究主要被用来事后为已作出的决策合法化（Knorr, 1977）。这一类型学也被用于[[Categorical Funding|分类研究]]干预的长期成果：工具性成果对应研究对实践的直接影响，概念性成果对应研究对思维的间接影响，象征性成果对应使用证据合法化做法或说服他人([[Argument_Nelson_2017_EducRes|Nelson & Campbell, 2017, p. 132]])。
 
 > [!concept-lens] 概念透镜

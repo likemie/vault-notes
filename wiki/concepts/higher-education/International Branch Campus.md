@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 国际分校（International Branch Campus）
 > 国际分校（International Branch Campus, IBC，亦称海外分校、高等教育海外办学实体）是指由母国高等教育机构在本土之外建立并运营、拥有独立的实体校园与教学设施、冠以母校名称并向东道国学生授予母校正式学位或双学位的离岸办学实体。国际分校代表了跨境高等教育中投资规模最大、制度嵌入度最高且[[Geopolitics|地缘政治]]敏感性最强的办学模式。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
 
 > [!concept-lens] 概念透镜

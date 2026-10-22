@@ -38,7 +38,7 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 个例式（Idiographic）
 > 个例式（idiographic）是以理解和解释独特个体案例为目标的方法论取向。研究聚焦于个体如何创造、修改和解释他们所置身的世界，兼顾量化和质性；核心关注是解释和理解独特的、个别的情况，而非一般的、普遍的情况（Burrell & Morgan, 1979; Kirk & Miller, 1986, p. 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 
 > [!concept-lens] 概念透镜

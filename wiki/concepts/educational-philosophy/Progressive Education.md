@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 进步主义教育（Progressive Education）
 > 进步主义教育（Progressive Education）是以 [[John Dewey\|John Dewey]] 为核心代表的教育改革运动，主张以儿童发展为中心、以项目和活动课程（project- and activity-based curriculum）取代强调服从与[[Rote Learning\|死记硬背]]的传统学术式教学。其核心在于通过[[Experiential Learning\|经验学习]]（learning from experience）培养能够积极参与并塑造民主社会的独立公民。在跨国传播与[[Policy Borrowing\|政策借用]]中，进步教育表现出高度的可塑性，被不同社会语境[[Recontextualization\|再脉络化]]为民主育人、社会主义国家建设、[[Pragmatic Paradigm\|实用主义]]应试提分或政策合法化修辞。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 102)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, pp. 68–69)]]; [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–602)]]
 
 > [!concept-lens] 概念透镜

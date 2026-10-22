@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 人工智能威慑（AI Deterrence）
 > 人工智能威慑（[[Generative Artificial Intelligence|Artificial Intelligence]] Deterrence / Algorithmic Deterrence, AI Deterrence）指依托前沿人工智能（Artificial Intelligence, AI）大模型、自主无人系统蜂群、边缘战术推理算力与全域感知作战软件所构筑的新型国家战略威慑能力形态。
 > 
 > 该[[Paradigm|范式]]标志着国家安全从二战与冷战时期的工业化核威慑（Atomic Deterrence）向 21 世纪软件世纪（Software Century）的根本性历史转型。其核心特征在于：

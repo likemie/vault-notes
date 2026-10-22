@@ -115,12 +115,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 循证教育批判（Critique of Evidence-Based Education）
 > [[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）批判指围绕 EBE 的[[Epistemology\|认识论]]前提、方法论基础、实践转化障碍和政治治理后果形成的多维度学术反思体系。这一批判阵营并非否定教育实践应参考经验研究证据，而是系统追问：什么算作合法证据？将医学临床的[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与一维[[Effect Size\|效应量]]排序移植到教育领域是否正当？“什么有效”（what works）的追问方式是否遮蔽了更根本的教育价值目的与民主审议？[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–495)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
 
 > [!concept-lens] 概念透镜

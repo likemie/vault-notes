@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 补偿性合法化（Compensatory Legitimation）
 > 补偿性合法化（Compensatory Legitimation）是指国家政权（尤其是承受深刻经济依赖或威权转型的[[Neocorporatism|法团主义]]与[[Conditioned State Theory|受限国家]]）在面临资本积累矛盾、严重社会分层与执政信任赤字时，通过自上而下大规模推行象征性的公共教育福利、入学名额扩增、成人扫盲与职业培训项目，以此作为平抑底层阶级激进化、换取大众政治顺从以及修补国家统治霸权的代偿性治理策略。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 > [!concept-lens] 概念透镜

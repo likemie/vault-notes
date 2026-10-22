@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 小组调查法（Group Investigation）
 > Group Investigation（小组[[Survey Research\|调查法]] / 小组探究法，GI）是由以色列学者 Shlomo Sharan 与 Yael Sharan 于 1992 年系统建构的一种高度开放、以学生为中心的民主探究型[[Cooperative Learning\|合作学习]]教学模式。该方法植根于[[John Dewey\|约翰·杜威]]（John Dewey）的[[Democratic Education\|民主教育]]与经验探究哲学，强调将课堂重组为微型“探究共同体”；学生根据兴趣自主组建 2–6 人的异质小组，围绕核心主题自主选定子课题并设计调查方案，通过多源信息搜集、协作分析与观点综合，最终向全班汇报探究成果并接受多维评价。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 > [!concept-lens] 概念透镜

@@ -37,7 +37,7 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 通则式（Nomothetic）
 > 通则式（nomothetic）是以发现普遍法则（universal laws）为目标的方法论取向。研究聚焦于分析选定因素之间的关系和规律性，以量化为主，涉及识别和定义元素、发现其关系如何被表达（Burrell & Morgan, 1979）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 
 > [!concept-lens] 概念透镜

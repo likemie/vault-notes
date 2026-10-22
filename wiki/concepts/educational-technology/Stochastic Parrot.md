@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 随机鹦鹉（Stochastic Parrot）
 > 随机鹦鹉（Stochastic Parrot）指能够根据海量训练语料中的概率分布，随机且合乎统计规律地拼接巨量语言符号，但其生成过程完全不涉及对客观世界真实含义、逻辑因果或[[Intentionality|意向性]]理解的计算系统。该概念揭示了大模型在形式流畅度与实质理解力之间的深刻鸿沟。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 23; Bender et al., 2021, p. 617)]]
 
 > [!concept-lens] 概念透镜

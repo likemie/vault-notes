@@ -20,7 +20,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 ---
@@ -29,7 +29,7 @@ updated: 2026-10-15
 
 爱国主义教育需要先明确忠诚所指向的共同体，才能判断其教育任务。
 
-> [!def] 核心定义
+> [!def] 爱国主义教育（Patriotic Education）
 > 爱国主义教育（Patriotic Education）培养对地方、文化共同体及政治国家的理解、情感承诺和责任。地方文化归属联系自身群体、故乡和根源，具有相对持久性；国家公民忠诚联系政治制度和公民的道德、法律义务，会随国界与国家制度变化。两者可以相互支持，但承担不同的教育任务。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 195–197)]]
 
 区分忠诚对象，使对根源的热爱与对国家的责任可以分别受到审查。

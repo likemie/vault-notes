@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 概念定义
+> [!def] 医源性伤害（Iatrogenic Effects in Education）
 > **教育中的医源性伤害（Iatrogenic Effects in Education）**，借用自临床医学术语（意指由治疗行为本身引发的疾病或损伤），是指教育、心理辅导与青少年发展干预方案在设计初衷为“促进学业、预防辍学或纠正不良行为”的前提下，由于干预机制失调、同伴负向强化或结构性挤压，在实际实施后**反而导致受试者出现学业滑坡、心理创伤、反社会行为恶化或越轨升级的系统性负面因果效应**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]])。
 >
 > 在国际循证清算体系中，医源性伤害被视作不可豁免的**最高伦理与准入红线**。以 [[Blueprints for Healthy Youth Development\|Blueprints]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 为代表的严格机构明确规定：任何候选项目只要在核心使命领域或随访期内被证实存在统计显著或实质重要的负向效应（Negative Treatment Effects），将直接实施**一票否决**并标记为“无效或有害（Iatrogenic / Non-certified）”([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15, 26–27]])。

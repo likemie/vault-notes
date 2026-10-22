@@ -67,7 +67,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 执行功能（Executive Function）
 > **执行功能（Executive Function, EF）** 是一个涵盖性统称（umbrella term），指个体用于目标导向控制的一组高阶、通用目的的神经认知过程，通过主动调节思维、注意与行动以实现特定目标。执行功能的核心成分包括[[Inhibitory Control\|抑制控制]]、任务转换（[[Cognitive Flexibility\|认知灵活性]]）以及[[Working Memory\|工作记忆]]内容的动态[[Updating and Monitoring\|更新与监控]]（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]）；在科学学习与[[Problem Solving\|复杂问题解决]]情境中，执行功能构成了学生过滤无关知觉线索、抑制先验直觉偏误与协调多[[Variable\|变量]]探索的微观认知中枢（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
 
 > [!concept-lens] 概念透镜

@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 确证标准（Justificatory Standards）
 > 确证标准（Justificatory Standards）是个体或学术共同体在评价知识主张、理论解释或经验证据的充分性与合法性时所依据的细粒度评价准则（fine-grained criteria）。它既表现为个体心智中评估实证数据与逻辑理论的内部试探法，[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]] 也是特定学科社群在具体探究活动中动态协商、共同达成的社会实践规范。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
 
 > [!concept-lens] 概念透镜

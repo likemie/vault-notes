@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 古典地缘政治（Classical Geopolitics）
 > **古典[[Geopolitics|地缘政治]]（Classical Geopolitics，亦称传统地缘政治）** 是指以主权民族国家为基本[[Unit of Analysis|分析单元]]、聚焦硬性领土权力与势力范围划分的传统地缘政治[[Paradigm|范式]]。该范式涉及划定国家法定边界、将民族塑造为确定疆界、通过空间性强制技术构建国内秩序、依托军事技术控制陆海空关键战略空间，并为国家的领土与资源主张提供地理与历史合法性辩护。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 25–26)]]
 >
 > 理论渊源上，古典地缘政治将国家比拟为处于自我保全与空间扩张斗争中的社会有机体（Ratzel, 1896），以麦金德（H. Mackinder）的“陆权论”（1904）、马汉（A. Mahan）的“海权论”（1890）以及斯派克曼（N. Spykman）的“边缘地带论”为经典支柱。在当代跨国高等教育与发展合作研究中，古典地缘政治常作为对照基线，用以反衬超越零和博弈的[[South-South Cooperation|南南合作]]与多边互惠网络。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 231–233)]]

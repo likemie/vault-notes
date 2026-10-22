@@ -72,7 +72,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 合作学习（Cooperative Learning）
 > 合作学习（Cooperative Learning，CL）是指一种将学生组织为[[Heterogeneity\|异质性]]（能力、性别、背景多元）小组的[[Constructivist Paradigm\|社会建构主义]]教学组织模式。其核心特征在于通过社会结构化的信息交流与协同互动，使学习深度依赖于组内成员的同伴支持；每个学习者既对自身的学业掌握负责，又受到共同目标的激励去促进其他成员的学习，从而达成个体与群体的共同认知、[[Higher-Order Thinking Skills\|高阶思维]]与社会情感发展目标。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 
 > [!concept-lens] 概念透镜

@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 头脑风暴（Brainstorming）
 > 头脑风暴（Brainstorming），亦称脑力激荡法或智力激励法，是由美国广告学家[[Alex Osborn\|亚历克斯·奥斯本]]（Alex Osborn）（1953）创立的一套旨在最大化激发生命力与观念数量的结构化[[Divergent Thinking\|发散思维]]技法。该方法以延迟评判（Defer Judgment）与以量求质（Quantity Breeds Quality）为核心法则，要求参与者在特定的构思阶段内彻底搁置逻辑批判与可行性审查，鼓励异想天开与在他人的观念上搭便车（Hitchhiking）重构，从而打破心理防御与思维定势。当代认知心理学与群体动力学研究进一步解构了其过程损失（Process Loss）机制，确立了书面脑力激荡（Brainwriting）与个体独立先行的混合[[Paradigm\|范式]]。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 3, 10)]]; Osborn (1953); Paulus (2000)
 
 > [!concept-lens] 概念透镜

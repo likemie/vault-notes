@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 人工智能幻觉（AI Hallucination）
 > AI 幻觉（AI Hallucination / Machine Hallucination）是指大语言模型（LLM）与[[Generative Artificial Intelligence\|生成式人工智能]]系统在生成文本、代码或多模态内容时，**输出在语法与语调上极具连贯性、说服力与权威感，但在客观事实上纯属虚构、缺乏真实证据支撑、编造学术文献或在逻辑上自相矛盾的内容现象**。其根源在于自回归深度神经网络基于统计概率预测下一词（Next-Token Prediction）的生成机制，而非基于对真实物理世界与逻辑真理的符号表征。[[Argument_Li_2026_CEAI\|(Ji et al., 2023; Li et al., 2026, pp. 2, 6, 11)]]
 
 > [!concept-lens] 概念透镜

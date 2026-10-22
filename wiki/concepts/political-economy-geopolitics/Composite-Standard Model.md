@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 复合标准模型（Composite-Standard Model）
 > [[Evolutionary Economics|演化经济学]]、科技政策与[[Path Dependence|路径依赖]]理论中用以解释复杂技术协议与大型制度系统连续性机制的核心模型；由政治学者泰勒·博阿斯（Taylor Boas, 2007）系统提出。该模型将复杂系统划分为底层的“核心复合标准”（Composite Standard，如互联网 TCP/IP 协议）与建构于其上的“外围简单标准序列”（Simple Standards，如电子邮件、网页浏览与文件传输协议）；核心标准为外围应用提供通用基础平台，外围应用的繁荣叠加（博阿斯称之为“厚度商”，Thickness Quotient）虽然在表面上呈现出活跃的图层累加，但由于外围构件必须依赖底层核心运作，这一过程不仅没有改变核心规则，反而呈指数级推高了全系统的迁移转换成本，将核心标准彻底锁死。（Boas, 2007; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 13]]）
 
 > [!concept-lens] 概念透镜

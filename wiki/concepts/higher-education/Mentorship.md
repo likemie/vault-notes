@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 导师制（Mentorship）
 > 导师制（Mentorship）是一个系统的培育与发展过程，由更具专业技能、经验或学术声望的个体（导师，Mentor）作为榜样，通过个性化示范、指导、支架支持、赞助与陪伴，促进资历较浅者（受训者，Mentee）在专业学术、认知推理及社会情感层面的综合发展。在高等教育与科学研究中，导师制是学术社会化与学术谱系传承的核心机制；在教学干预中，它作为微观认知催化剂驱动[[Critical Thinking\|批判性思维]]的高阶跃升。[[Argument_Sandrone_2025_MEO\|(Sandrone, 2025, pp. 2–3)]] [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
 
 > [!concept-lens] 概念透镜

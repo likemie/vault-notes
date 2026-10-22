@@ -84,7 +84,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 主观主义（Subjectivism）
 > **主观主义（Subjectivism）** 是社会科学与教育研究的基本[[Epistemology\|认识论]]与方法论取向，在吉布森·伯勒尔与加雷斯·摩根（Gibson Burrell & Gareth Morgan）的社会学[[Analytic Framework\|分析框架]]中代表主观—客观维度的关键一极。该取向将社会世界视为主观意识与人际互动创造的产物，主张研究的核心使命在于理解个体如何创造、修正与解释其所置身的世界；关注独特的[[Idiographic\|个例式]]案例而非抽象的普适定律，强调相对主义的社会现实而非绝对主义的外部客观存在。在教育学与比较教育学史中，主观主义既构成了历史人文传统的阐释基石，也在战后经历了[[Positivism\|实证主义范式]]的系统清洗、批判理性主义的情境整合以及后现代思潮对多元真理体制的重新合法化。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 60–62, 68–69)]]
 
 > [!concept-lens] 概念透镜

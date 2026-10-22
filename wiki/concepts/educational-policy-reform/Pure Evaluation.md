@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 纯粹评价（Pure Evaluation）
 > **纯粹评价（Pure Evaluation）** 是由丹麦学者 Tanggaard、Rømer 与 Brinkmann 于 2014 年提出的教育哲学批判概念，仿照波普凯维茨（Thomas Popkewitz）等人的“纯粹教育”（pure education）界定，指一种宣称可在自调节系统中独立于具体时空、制度脉络与教育目标而运作的评价[[Paradigm|范式]]。该范式将复杂的教育活动化约为输入干预与输出指标的机械关联，使评价由传统的反思机制转变为界定教育本身的先验框架。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜

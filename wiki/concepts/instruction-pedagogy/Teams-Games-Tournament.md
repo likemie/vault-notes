@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 团队游戏竞赛法（Teams-Games-Tournament）
 > Teams-Games-Tournament（团队-游戏-竞赛法，TGT）是由 David DeVries 与 Keith Edwards 于 1973 年开发、后经 Robert Slavin（1978）系统整合进“学生团队学习（Student Team Learning，STL）”框架中的经典[[Cooperative Learning\|合作学习]]教学模式。其核心特征在于将组内合作与组间竞争有机融合，使用每周一次的“学术竞赛台游戏（Academic Tournament Games）”替代传统的闭卷纸笔测验；学生在[[Heterogeneity\|异质性]]（能力、性别多元）的原属小组内协同研讨并相互辅导，随后被分派至同质能力水平的竞赛桌与跨组同伴进行均等竞答，为原属小组赢取积分并获取团队表彰。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 > [!concept-lens] 概念透镜

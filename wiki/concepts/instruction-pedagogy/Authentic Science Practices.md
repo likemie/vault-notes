@@ -56,12 +56,12 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 真实科学实践（Authentic Science Practices）
 > 真实科学实践（Authentic Science Practices）是当代科学教育改革与学习科学的核心[[Paradigm|范式]]。它要求将学生置于主动的意义建构者（Sense-Makers）与科学实践者（Doers of Science）地位，在课堂中重构类似专业科学共同体的探索过程——包括提出真实驱动性问题、直面探究中的不确定性、自主设计调查、迭代构建因果解释模型、开展基于证据的论辩与协同评审，并在整个过程中行使[[Epistemic Agency|认识能动性]]，而非被动执行预设步骤以验证既定标准答案。（NRC, 2012; NGSS Lead States, 2013; Chinn & Malhotra, 2002; [[Argument_Zhang_2022_SE\|Zhang et al., 2022]]）
 
 > [!concept-lens] 概念透镜

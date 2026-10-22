@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 范式战争（Paradigm Wars）
 > [[Paradigm\|范式]]战争（Paradigm Wars）是纳撒尼尔·格奇（Nathaniel L. Gage, 1989）在教育研究领域提出的经典方法论[[Construct\|构念]]，特指 20 世纪 70 至 90 年代以[[Positivism\|实证主义]]为底色的[[Quantitative Research\|量化研究]]范式与以社会建构论为底色的[[Qualitative Research\|质性研究]]（[[Interpretive Paradigm\|诠释范式]]）阵营之间长达数十年的制度化方法论对立与交锋（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Gage, 1989）。在这场论辩中，研究者各自坚守排他性的范式忠诚，将研究方法的技术选择上升为关于[[Ontology\|本体论]]实在与知识合法性的世界观斗争。这场战争推动了质性探究与自然主义评价标准的崛起（Denzin, 2008, p. 316），但其二元割裂亦造成了学术共同体撕裂；最终促使[[Mixed Methods Research\|混合方法研究]]作为“第三次方法论运动”应运而生。
 
 > [!concept-lens] 概念透镜

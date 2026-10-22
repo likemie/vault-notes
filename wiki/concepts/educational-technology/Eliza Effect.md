@@ -33,7 +33,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 伊莉莎效应（Eliza Effect）
 > 伊莉莎效应（Eliza Effect）指人类倾向于将计算机生成的符号响应解读为具备真实人类意识、情感、深层意图或主观感受的心理认知投射现象。在人机交互过程中，即使机器仅在执行无意义的字符串替换或高维词向量概率转移，人类也会自发补全上下文并赋予其心智与人格。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 22–23)]]
 
 > [!concept-lens] 概念透镜

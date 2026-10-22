@@ -79,7 +79,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学校探究循环（School Enquiry Cycle）
 > 学校[[Inquiry Cycle\|探究循环]]（School Enquiry Cycle，原作者统称为“证据知情学校与教师改进模型”，Evidence-informed School and Teacher Improvement, ESTI；在后续研究系统中亦概括为 Cycle of Inquiry）指由 [[Chris Brown]]、[[Kim Schildkamp]] 与 Mireille D. Hubers（2017）构建、并在证据知情学校系统（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）中进一步深化的证据知情学校改进操作模型。该模型致力于打破[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）在现实学校中的割裂状态，将校内学情数据的严谨诊断与校外学术研究的实证干预整合为连续迭代的校本探究闭环，引导教师团队在具体情境中行使[[Professional Judgment\|专业判断]]以持续提升教学质量。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 > [!concept-lens] 概念透镜

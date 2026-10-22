@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 多元论者（Multiplist）
 > 多元论者（Multiplist）是 Kuhn et al.（1991, 2000）[[Epistemology\|认识论]]模型中的关键过渡立场。当绝对论受到现实争议挑战时，个体转向承认认知的主观维度，认为知识完全是个人视角的产物。因此，所有争议仅仅是主观偏好（“意见”）的不同，所有观点都同等有效，缺乏去评估比较不同观点优劣的动机与客观依据。在[[Generative Artificial Intelligence\|生成式人工智能]]学习环境中，[[Pluralism|多元主义]]立场表现为学习者能够主动引导大语言模型（Large Language Model, LLM）生成多种替代方案或视角，但因缺乏明确的评价标准与证据约束，无法对不同方案进行深层权衡，陷入相对主义的选择迷失或虚无。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–364)]]
 
 > [!concept-lens] 概念透镜

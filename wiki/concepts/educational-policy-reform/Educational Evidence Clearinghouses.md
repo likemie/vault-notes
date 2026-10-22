@@ -188,7 +188,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育证据清算中心（Educational Evidence Clearinghouses）
 > **教育证据清算中心（Educational Evidence Clearinghouses, CH）** 是在[[Evidence-Based Education\|循证教育]]（EBE）与循证改革（[[Evidence-Based Reform\|EBR]]）中兴起的制度化[[Knowledge Mediation\|知识中介]]组织。狭义上特指通过设定科学因果[[Evidence Standards\|证据标准]]、系统审查评估教育干预效果，并面向公众和政策界发布具名项目“有效性评级（effectiveness ratings）”的专业评级实体平台([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 4–5]])；广义上则是指在教育[[Epistemic Governance\|知识治理]]生态中承担连接科学研究、政策制定与教学实践功能的教育证据中介与转化枢纽（[[Boundary Spanner\|Boundary Spanners]]），涵盖部委嵌入型政策智库、政府资助自治实体、独立慈善基金以及一线定制化咨询平台等多元制度形态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–64]])。
 >
 > 清算中心承担五项核心功能：(1) 设定[[Causality\|因果推断]]的科学证据准入标准；(2) 系统搜寻符合质量要求的实证研究；(3) 审查评价单项研究的[[Internal Validity\|内部效度]]与偏倚风险；(4) 跨[[Research Synthesis|研究综合]]证据以判定干预项目的整体有效性；(5) 面向决策者、[[School Leadership\|学校领导]]、教师与公众转译发布分层评级结论或实施指南([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–63]])。

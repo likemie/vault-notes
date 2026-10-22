@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识的简单性（Simplicity of Knowledge）
 > 知识的简单性（simplicity of knowledge，在量化测验中常简称为简单知识，simple knowledge，SK）是构成[[Epistemological Theories\|认识论理论]]的核心维度之一（属于“知识的本质”范畴）。它指的是个体关于知识组织结构的底层信念：知识究竟是一系列相互孤立、无歧义且无需概念整合的离散事实清单，还是一个高度互联、充满条件性且依赖于具体情境的复杂概念网络。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]; [[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 309-310)]]
 
 > [!concept-lens] 概念透镜

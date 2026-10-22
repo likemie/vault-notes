@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 循证学校发展（Evidence-Based School Development）
 > **循证学校发展（Evidence-Based School Development / 德语：Evidenzbasierte Schulentwicklung）**，亦称循证学校管理（Evidence-Based School Management），是指德语区在 2000 年代“[[PISA]] 冲击”后，依据各州教育部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|Kultusministerkonferenz]], KMK）于 2006 年确立的《国家教育监测综合战略》（[[Gesamtstrategie zum Bildungsmonitoring]]）及[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（SQA）等治理框架发展起来的新型学校治理与质量提升[[Paradigm\|范式]]（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 134]]；[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019, pp. 19–20]]）。该范式打破传统依靠经验直觉与细碎投入规制的官僚管理体制，赋予学校更多的路径自主权，要求校长与教师系统采集并解读标准化学生能力比较测评（[[Vergleichsarbeiten]], VERA）、外部学校评估与[[School Inspection\|学校督导]]诊断报告、校内诊断测评数据等多源实证证据，形成“现状诊断 ➔ 目标协商 ➔ 循证干预 ➔ 成效反馈”的校本质量持续改进机制。
 
 > [!concept-lens] 概念透镜

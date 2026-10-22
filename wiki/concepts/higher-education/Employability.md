@@ -79,7 +79,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 就业力（Employability）
 > 就业能力（Employability，又称就业力）指劳动者（特别是高校毕业生）在劳动力市场中获取、维持和转换体面就业的综合潜能与资格[[Construct|构念]]。该概念最初指劳动者满足工作岗位基准要求的**绝对专业能力**（由知识、技术训练与资格证书决定）；但在高等教育大众化与[[Credential Inflation|文凭通胀]]背景下，它日益演变为建立在求职者群体内部相互比较与筛选之上的**相对排序位置**。求职者不仅需要持有学历凭证，还必须对个人经历、交往网络、品格气质乃至空间适应性进行战略性管理与展示，以争取稀缺优质岗位。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
 > [!concept-lens] 概念透镜

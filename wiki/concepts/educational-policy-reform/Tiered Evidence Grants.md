@@ -43,12 +43,12 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 分层证据资助（Tiered Evidence Grants）
 > 分层证据资助机制（Tiered Evidence Grants）是指政府公共部门或大型慈善基金会依据教育干预方案既有实证证据的严谨度与成熟度，梯度匹配财政资助体量、实施范围与方法学评估要求的政策工具。其核心架构将资助划分为早期开发（Development）、中期验证（Validation）与规模化扩展（Scale-up / Expansion）三个阶梯，要求项目在晋级更高资助梯次时必须提供更高等级的因果实证支持。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
 
 > [!concept-lens] 概念透镜

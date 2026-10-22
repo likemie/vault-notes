@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 发展主义（Developmentalism）
 > 发展主义（Developmentalism）是以国家引导、资本积累与全面现代化转型为导向的宏观政治经济学[[Paradigm|范式]]与意识形态[[Discourse|话语]]。在教育政策与比较教育研究中，它呈现为双重学术形态：其一是战后第三代比较教育中盛行的“工具性发展主义范式”（Instrumental-Developmental Paradigm），将教育视为开启国家现代化大门的通用密钥与[[Human Capital Theory|人力资本]]积累工具；其二是当代跨国[[Geopolitics of Higher Education|高等教育地缘政治]]中的“发展主义叙事”（Developmentalist Narrative），强调[[International Education|国际教育]]合作是通过多边非零和连接提供国际公共产品、促进对等互惠与共同繁荣的“[[Knowledge Diplomacy|知识外交]]”平台，构成了对传统现实主义零和权力竞争的理论替代。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698, 1702–1703)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 
 > [!concept-lens] 概念透镜

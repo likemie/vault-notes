@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学博士生产过剩（PhD Overproduction in Science）
 > 科学博士生产过剩（PhD Overproduction in Science）是指在现代科研资助激励机制下，[[Research Universities|研究型大学]]倾向于持续扩张博士研究生与博士后规模以获取低成本科研劳动力，导致新毕业博士数量长期显著超出学术界与产业界传统研发岗位吸纳能力的系统性失衡现象。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]
 
 > [!concept-lens] 概念透镜

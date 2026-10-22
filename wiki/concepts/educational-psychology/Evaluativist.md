@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 评价论者（Evaluativist）
 > 评价论者（Evaluativist）是 Kuhn et al.（1991, 2000）界定的最高阶[[Epistemology\|认识论]]立场。该层级的个体既承认了知识的生成是由人类心智建构的、具有主观性和不确定性（接纳了多元论的主张），同时又重新整合了认知的客观维度。他们认为并非所有观点都同等有效，通过批判性的理性论辩和客观证据的检验，可以判断出某些主张比其他主张更具合理性或更接近真相。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）[[Man-Computer Symbiosis|人机共生]]学习环境中，评价主义立场表现为学习者将大语言模型（Large Language Model, LLM）视作共同探究的思维伙伴，主动协调大模型建议、学术文献、统计规则与现实约束等多源证据，对算法输出进行实质性质疑与批判性重构，从而实现高阶共享[[Epistemic Agency\|认识主体性]]。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 > [!concept-lens] 概念透镜

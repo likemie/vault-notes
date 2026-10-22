@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育技术可供性（Educational Affordances）
 > 教育技术可供性（Educational Affordances）是指技术工具或数字学习环境在特定的教学活动情境中，与学习者（及其已有认知能力、动机、素养）以及学习任务相互作用时所[[Emergence\|涌现]]出的、**可被学习者感知并实际支持特定认知加工、[[Knowledge Building Theory|知识建构]]、社会协作与[[Metacognition\|元认知监控]]的行动可能性与潜在功能使能属性**。[[Argument_Li_2026_CEAI\|(Kirschner et al., 2004; Bower, 2008; Li et al., 2026, pp. 2, 4–8)]]
 
 > [!concept-lens] 概念透镜

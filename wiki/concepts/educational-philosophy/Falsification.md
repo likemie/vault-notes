@@ -99,7 +99,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 证伪主义（Falsification）
 > 证伪主义（Falsificationism），又称可证伪性（Falsifiability），是[[Karl Popper|卡尔·波普尔]]（Karl Popper, 1934/1959, 1968）提出的科学与非科学划界标准及知识增长理论。该理论主张，科学理论的本质特征体现为其命题结构明确界定了何种经验观察结果将构成对理论的反驳，即理论必须承担被经验证伪的潜在风险，归纳证实无法赋予全称命题以必然性。
 > 
 > 科学理论的标志是**具备可证伪性**。在逻辑上无法被任何潜在可观察事实所反驳的理论，脱离了[[Scientific Method|经验科学]]范畴。科学进步通过大胆的推测（Conjectures）与严格的反驳（Refutations）循环来实现；因此，科学知识本质上是推测性的（Conjectural）、可检验的（Falsifiable）、随时可受质疑的（Challengeable）以及持续修正演化中的（Changing）。在现代[[Metascience|元科学]]治理与 AI 时代，证伪原则进一步演化为防范[[Reproducibility Crisis|可重复性危机]]的强制性制度规范与自动化机器核验基础设施。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–67)]]

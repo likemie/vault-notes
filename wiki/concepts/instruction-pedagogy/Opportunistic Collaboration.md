@@ -55,12 +55,12 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 弹性协作（Opportunistic Collaboration）
 > 弹性协作（Opportunistic Collaboration，亦称机会性协作、自组织协作或弹性分组）是[[Knowledge Building Theory|知识建构理论]]（Knowledge Building Theory）与学习科学中提出的一种高度动态的社会组织协作[[Paradigm|范式]]。它打破了传统课堂中由教师预先指定固定名单与脚本角色的[[Cooperative Learning|合作学习]]模式，允许学习者根据探究过程中不断[[Emergence|涌现]]的研究兴趣、认知盲区和知识线索，自发结成小组、跨组流动并动态重组团队。其核心旨在通过通透的小组边界与自组织协作，促进全班共同体的观点交融、集体[[Epistemic Responsibility|认知责任]]承担与深层概念理解。（Zhang et al., 2007, 2009; [[Argument_Zhang_2022_SE\|Zhang et al., 2022]]）
 
 > [!concept-lens] 概念透镜

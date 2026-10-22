@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 基于数据的决策（Data-Based Decision Making）
 > 基于数据的决策（Data-Based Decision-Making, DBDM，亦常称“数据使用”）指教育者系统分析学校内部现存多元数据，将分析结果应用于革新教学、课程与[[School Effectiveness\|学校效能]]，并在实践中执行（如延续、调整或终止）具体干预措施的动态过程（Schildkamp & Kuiper, 2010; Lai & Schildkamp, 2013）。涵盖的数据类型包括输入数据（人口统计背景）、过程数据（[[Classroom Observation|课堂观察]]、师生互动）、情境数据（[[Organizational Culture\|组织文化]]、家长参与）以及结果数据（标准化测验、日常形成性测评、[[Academic Achievement\|学业成就]]与[[Grade Retention\|留级]]率）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 154–157)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 指出，DBDM 早期过度受行政问责驱动，当代已转向形成性改进取向，承认决策不能由数据单一主导，而应结合教师的默会经验与[[Professional Judgment\|专业判断]]；但 DBDM 与[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）长期平行割裂，亟需在整体性证据知情系统中加以整合。
 
 > [!concept-lens] 概念透镜

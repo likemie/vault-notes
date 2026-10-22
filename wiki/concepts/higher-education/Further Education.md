@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 继续教育（Further Education）
 > 继续教育（Further Education，又称中学后非正规培训或在职继续教育）指位于义务教育与全日制正规高等教育之外的中学后教育与培训形态。该形态主要发生在传统学校与大学等结构化教育体制之外，通常与非学位证书（Non-degree Credentials）及微证书（Micro-credentials）紧密挂钩。在后福特主义“永久创新经济”与跨国产业协同格局下，继续教育与正规高等教育并列为支撑[[Lifelong Learning|终身学习]]、劳动力技能重塑及全生命周期职业发展的两大支柱。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 179–180)]]; [[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 300–301)]]
 
 > [!concept-lens] 概念透镜

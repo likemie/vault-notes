@@ -26,7 +26,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 高等教育全英文授课（English-Medium Instruction in Higher Education）
 > 高等教育全英文授课（English-Medium Instruction in Higher Education, EMI），指在非英语作为母语或官方主导语言的国家的大学及科研院所中，直接采用英语作为课堂讲授、教材选用、学术考核和毕业学位成果撰写主要媒介语言的教学与课程组织机制，旨在快速破除跨国留学生的民族语言壁垒，直接接入全球高等教育与学术流动市场。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 23, 27–28)]]
 
 > [!concept-lens] 概念透镜

@@ -30,7 +30,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认识论形式（Epistemic Forms）
 > [[Epistemology\|认识论]]形式（Epistemic Forms）指知识在特定情境下的微观结构形态（如列表、树状结构、阶段模型、生物学机制等）。它们是指导学习者组织信息、开展探究的标靶结构。该概念由 Collins and Ferguson (1993) 提出。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 151)]]
 
 > [!concept-lens] 概念透镜

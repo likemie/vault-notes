@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育智能体（AI Agent in Education）
 > 教育智能体（[[Generative Artificial Intelligence\|Artificial Intelligence]] Agents in Education, AI Agent）是指在教学与学习环境中，能够感知学习者输入与状态、自主执行决策并提供自适应[[Scaffolding\|脚手架]]与即时反馈的人工智能计算系统。与静态教育数字资源不同，教育智能体能够根据学习者的认知水平、答题表现与交互轨迹动态调整教学步调与支架强度，在基础教育（Kindergarten through Twelfth Grade, K-12）中主要体现为[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics\|人工智能教育机器人]]（AI Educational Robotics）、[[Generative AI Agent in Education\|生成式智能体]]（[[Generative Artificial Intelligence\|Generative AI]] Agents）以及[[Conversational AI in Education|对话式智能体]]（[[Conversational AI in Education\|Conversational AI Agents]]）四种技术形态。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 1–3, 5)]]
 
 > [!concept-lens] 概念透镜

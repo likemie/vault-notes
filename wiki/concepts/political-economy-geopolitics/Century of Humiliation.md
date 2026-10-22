@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 百年屈辱史（Century of Humiliation）
 > 百年屈辱史（Century of Humiliation，亦称百年国耻或百年屈辱叙事）是中国近现代政治文化与集体记忆中的主导性历史创伤[[Construct|构念]]。在[[Critical Discourse Analysis|批判性政策话语分析]]（Critical [[Discourse Analysis]], CDA）视域下，该叙事特指自1840年第一次鸦片战争爆发至1949年中华人民共和国成立期间，中国遭受西方列强与日本帝国主义入侵、割地赔款及主权沦丧的历史时期。作为深层[[Discursive Field|话语场域]]（Discursive [[Champ|Field]]）的核心基底，百年屈辱与[[National Rejuvenation Narrative|民族复兴叙事]]构成互为镜像的孪生结构；其确立了一种以洗雪历史创伤为导向的情感共识，将当代国家主导的经济繁荣、科技赶超与跨国倡议界定为扭转历史不公的必然实践。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
 > [!concept-lens] 概念透镜

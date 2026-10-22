@@ -71,12 +71,12 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 学习分析（Learning Analytics）
 > 学习分析（Learning Analytics, LA）是指通过对学习者在数字化学习环境中生成的行为轨迹（点击流、停留时长、[[Homework\|作业]]提交、交互日志）及[[Academic Achievement\|学业表现]]数据进行系统性收集、测量、挖掘与建模，以理解、预测和优化学习过程及其发生环境的技术与教育治理实践。在现代高等教育中，学习分析已从单纯的在线学习行为追踪，进一步扩展为支撑跨学期[[Learning Gain\|学习增益]]（Learning Gain）测查与高阶认知素养评估的系统性数据工程。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 224)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19)]]
 
 > [!concept-lens] 概念透镜

@@ -63,8 +63,8 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心界定
-> **古德哈特定律（Goodhart's Law）** 是治理科学、文献计量学与教育[[Sociology of Valuation and Evaluation|评估社会学]]中的核心经验定律。其经典表述为：**“当一个量化测度被选定作为政策控制与利益分配的目标时，该测度就会立即失去其原有的有效信息价值。”** 在科研资助、大学治理与教育政策中，该定律揭示了当论文发表篇数（Paper Counts）、期刊影响因子（Impact Factor）、大学排名位次或标准化测验均分等可量化代理指标被绑定于教职晋升、经费拨款与学校考核时，行动者必然展开策略性博弈与指标刷量（Metric Gaming），最终导致指标数值虚高而实质性原始创新与深层教育质量遭受系统性侵蚀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> [!def] 古德哈特定律（Goodhart's Law）
+> **古德哈特定律（Goodhart's Law）** 是治理科学、文献计量学与教育[[Sociology of Valuation and Evaluation|评估社会学]]中的核心经验定律。其经典表述为：**“当一个量化测度被选定作为政策控制与利益分配的目标时，该测度就会立即失去其原有的有效信息价值。”** 在科研资助、大学治理与教育政策中，该定律揭示了当论文发表篇数（Paper Counts）、期刊影响因子（Impact Factor）、大学排名位次或标准化测验均分等可量化代理指标被绑定于教职晋升、经费拨款与学校考核时，行动者必然展开策略性博弈与指标刷量（Metric Gaming），最终导致指标数值虚高而实质性原始创新与深层教育质量遭受系统性侵蚀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指标作为“无意图的观察标尺”时具有参考意义，但一旦作为“具有高利害关系的奖励标靶”，便会不可避免地诱发理性行动者的合规套利与反向适应。
@@ -107,8 +107,8 @@ updated: 2026-10-22
 > [!concept-lens] 跨国量化治理与教育窄化
 > 揭示超国家机构量化指标帝国如何通过硬事实排他性规训国家教育价值。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]
-> **跨国指标霸权与教育价值窄化假说** [[OECD]] 与[[World Bank|世界银行]]依托 [[PISA]] 等自指性量化指标行使[[Soft Power by Hard Facts|硬事实软权力]]。当各国政府将国际排名位次作为衡量教育改革成败的绝对标靶时，古德哈特定律促使政策制定者将课程资源向易于被标准化测验测量的应试技能倾斜，从而边缘化了深层文化理解、哲学批判反思与公民民主审议等难以简单量化的根本教育目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]
+> **跨国指标霸权与教育价值窄化假说** [[OECD]] 与[[World Bank|世界银行]]依托 [[PISA]] 等自指性量化指标行使[[Soft Power by Hard Facts|硬事实软权力]]。当各国政府将国际排名位次作为衡量教育改革成败的绝对标靶时，古德哈特定律促使政策制定者将课程资源向易于被标准化测验测量的应试技能倾斜，从而边缘化了深层文化理解、哲学批判反思与公民民主审议等难以简单量化的根本教育目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 18)]] | 全球 1950–2024 年数千万篇科学论文与专利数据库 | CD 指数（颠覆性与固化性指数）与论文篇数纵向追踪 | 尽管全美及全球年度发表论文总数扩大数倍，但各学科 CD 颠覆性指数呈现系统性单调下滑 | 实证检验了高利害论文篇数考核对原始颠覆性创新的抑制效应（古德哈特效应） |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 18–19)]] | 2009 年阿尔茨海默病里程碑顶刊撤稿案例 | 顶刊引文网络与药企临床转化复现对比 | 顶刊所载靶点数据在发表 3 年内即被药企证实无法复现，但因顶刊影响因子光环在学界积累逾 800 次虚假引用，误导公共研发长达十余年 | 揭示将期刊影响因子作为质量绝对指标导致的虚假共识与巨额预算浪费 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 544)]] | 全球 30 个涉教育国际组织与 [[Systems Approach for Better Education Results\|SABER]] 数据库（1600 项量化指标） | 跨国指标生产与[[Policy Borrowing\|政策借用]]追踪 | 跨国组织自产 1,120 项教育回报率实证报告并绑定结构调整贷款，促使受援国针对指标开展功利化合规 | 证实古德哈特定律在跨国教育政策借用与[[Governing by Numbers\|数字治理]]中的普遍渗透 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, p. 544)]] | 全球 30 个涉教育国际组织与 [[Systems Approach for Better Education Results\|SABER]] 数据库（1600 项量化指标） | 跨国指标生产与[[Policy Borrowing\|政策借用]]追踪 | 跨国组织自产 1,120 项教育回报率实证报告并绑定结构调整贷款，促使受援国针对指标开展功利化合规 | 证实古德哈特定律在跨国教育政策借用与[[Governing by Numbers\|数字治理]]中的普遍渗透 |
 
 ---
 
@@ -137,7 +137,7 @@ updated: 2026-10-22
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **科研计量** | **计量异化与颠覆性衰退** | 篇数与影响因子高利害绑定诱发萨拉米切片发表，压低颠覆性新颖性 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 18, 67–68)]] |
-> | **教育政策** | **指标霸权与教育价值窄化** | 跨国测评指标博弈促使课程向易测应试技能靠拢，侵蚀深层育人价值 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 538–540)]] |
+> | **教育政策** | **指标霸权与教育价值窄化** | 跨国测评指标博弈促使课程向易测应试技能靠拢，侵蚀深层育人价值 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 538–540)]] |
 > | **治理纠偏** | **去指标化与动态交流重构** | 推行长周期对人资助、动态可执行笔记本与[[Metascience\|元科学]]独立审计破除博弈 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 28, 67–70)]] |
 
 ---
@@ -177,4 +177,4 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第五章，深刻批判学术期刊出版与文献计量的古德哈特定律异化，提出[[Dynamic Research Notebook|动态研究笔记本]]与去中心化交流核验体系。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示超国家机构量化指标帝国的自指性生产机制及其对比较教育学科[[Paradigm|范式]]的扭曲。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 揭示超国家机构量化指标帝国的自指性生产机制及其对比较教育学科[[Paradigm|范式]]的扭曲。

@@ -57,12 +57,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 省察的生活（Examined Life）
 > 省察的生活（Examined Life）是[[Socrates\|苏格拉底]]在[[Plato\|柏拉图]]《申辩篇》（38a）中提出的哲学命题——“未经省察的生活不值得过”（the unexamined life is not worth living）。[[Argument_Li_2012_Cambridge\|Li (2012)]] 将其识别为西方学习传统的第三大核心支柱，代表了一种深嵌于西方文化的智识态度：质疑一切被视为理所当然的事物与既有权威，成为[[Critical Thinking\|批判性思维]]的文化根源 [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–33)]]。在现代课程哲学中，[[Argument_Darwish_2009_Queens\|Darwish (2009)]] 进一步将其作为[[Active Learning\|主动学习]]的西方典籍起点，分析其从古希腊精英理性反诘演变为现代全员学习者自由的历程 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。
 
 > [!concept-lens] 概念透镜

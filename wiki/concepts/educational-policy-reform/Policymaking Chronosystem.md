@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 政策制定时间系统（Policymaking Chronosystem）
 > 政策制定时间系统（Policymaking Chronosystem）指由社会历史情境、重大关键突发事件与制度周期共同塑造的政策演进时间生态。该概念借用[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]（Urie Bronfenbrenner）与斯蒂芬·J·塞西（Stephen J. Ceci, 1994）在[[Ecological Systems Theory\|生态系统理论]]模型中提出的历时系统（chronosystem）构想，强调政策制定并非在无菌的真空环境中展开，而是处于由历史时机与文化空间交织作用的动态演变之中，政策的稳定性与变革性始终受到外部宏观事件的节律支配。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 > [!concept-lens] 概念透镜

@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 盆景军队（Bonsai Army）
 > **盆景军队（Bonsai Army / Bonsai Armies）** 是[[EU|欧洲联盟]]外交与安全政策高级代表[[Josep Borrell|何塞普·博雷利]]（Josep Borrell）提出的地缘战略诊断概念，指冷战结束以来欧洲国家在长期和平假象下系统性削减国防开支（普遍降至国内生产总值（Gross Domestic Product, GDP）的 1.5% 以下），导致常规武装力量规模急剧萎缩、重型战备库存空洞化、且过度依赖美国安全庇护的脆弱军事形态。这种军队在外表上保留了陆海空各兵种的完整建制与仪式化门类，但实际兵力、弹药储备与持续交战能力极其有限，宛如微缩观赏的盆景；同时近三十个欧洲国家各自为政的防务采办策略进一步分裂了欧洲本土军工市场，培育出小规模、高成本且碎片化的盆景产业（Bonsai Industries）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 42–43)]]
 
 > [!concept-lens] 概念透镜

@@ -89,7 +89,7 @@ created: 2026-06-05
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 跨学科科学教育（STEM Education）
 > 科学、技术、工程与数学教育（Science, Technology, Engineering, and Mathematics Education, STEM）是科学（Science）、技术（Technology）、工程（Engineering）与数学（Mathematics）四个学科领域深度交叉融合的教育[[Paradigm|范式]]与国家战略总称。它打破传统孤立分科教学的割裂状态，主张将学生置于真实世界的问题情境中，依托工程设计流程（Engineering Design Process）与科学[[Inquiry Cycle|探究循环]]（Inquiry Cycle），综合调动多学科原理进行建模、原型开发与实证检验，旨在培育学习者的[[Scientific Literacy|科学素养]]、[[Critical Thinking|批判性思维]]、高阶[[Problem Solving|问题解决能力]]与跨学科[[Epistemic Practices|认识论实践]]素养，并在大国竞争中构成国家关键科技劳动力储备的战略基石。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143)]]; [[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 
 > [!concept-lens] 概念透镜

@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 应试教育（Examination-Oriented Education）
 > 应试教育（Examination-Oriented Education / Exam-Driven Education；中文拼音：yingshi jiaoyu）是指以标准化考试成绩为教育质量、学校声誉与学生发展潜能之核心衡量尺度的教育组织、教学与评价体系。其核心特征是以高利害考试结果作为筛选与分配社会机会的唯一或首要标准，教学活动围绕应考考点、模式识别与标准答案高效展开。在中国，该体系深植于隋唐以来的[[Civil Service Examination|科举]]文化认同并依托当代[[Gaokao|普通高等学校招生全国统一考试]]（[[Gaokao|高考]]）的多层问责机制运转（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）；在跨国与批判教育哲学视阈下，应试教育表现为将复杂的探究活动窄化为套路化模式识别，与[[Computerization of Education|教育计算机化]]深度互构，前置性诱发了未成年学习者的[[Formative Epistemic Injustice|成长性认识不正义]]（[[Argument_Smith_2026_SPE|Smith, 2026]]）。
 
 > [!concept-lens] 概念透镜

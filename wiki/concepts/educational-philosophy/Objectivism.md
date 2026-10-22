@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 客观主义（Objectivism）
 > **客观主义（Objectivism / 客观主义取向）** 是社会科学哲学中主观–客观维度的关键极向。吉布森·伯勒尔与加雷斯·摩根（Burrell & Morgan, 1979）在[[Burrell and Morgan Four Assumptions Framework|四组假设框架]]中指出，持客观主义取向的研究者将社会世界构想为如同自然世界一般的硬性外部实在（External and Objective Reality），其核心目标在于运用量化与通则式方法识别变量间恒常关系，进而探寻支配人类行为与社会机制的普遍法则。在当代教育治理与政策分析中，客观主义进一步延伸为一种政策合法化话语——超国家机构（如经合组织）将量化统计与比较指标包装为科学决策的“客观主义品牌”（Objectivism Brand），以此将政治价值决断置换为中立的技术参数与无可辩驳的科学事实。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 25, 27–28)]]
 
 > [!concept-lens] 概念透镜

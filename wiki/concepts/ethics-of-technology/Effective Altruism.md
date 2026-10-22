@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 有效利他主义（Effective Altruism）
 > 有效利他主义（Effective Altruism, EA）是指发端于当代应用伦理学与功利主义哲学、在过去十年被硅谷科技阶层广泛接纳的一种道德运动与意识形态[[Paradigm|范式]]。该范式主张以伦理[[Cosmopolitanism|普世主义]]与量化[[Cost-Benefit Analysis|成本效益分析]]为判准，将个体行动与资本捐赠精确导向能够最大化增进人类（乃至非人类）整体福利的单一指标领域；然而在当代科技政治视阈下，它被批判为一种回避实质政治决断的“空洞功利主义”，充当了科技精英逃避民族国家防卫义务与公民共同体承诺的道德避险工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–215)]]
 
 > [!concept-lens] 概念透镜

@@ -34,7 +34,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 行业产教融合共同体（Industry-Education Integration Community）
 > 行业产教融合共同体（Sectoral Industry-Education Integration Community）是由龙头企业、骨干职业院校与应用技术大学联合牵头，吸收行业协会、科研机构与政府主体共同参与的跨区域协作办学与技术创新组织形态。其核心是通过建立共同利益纽带与协同机制，促进教育链、人才链与产业链、创新链的有机衔接，推动人才培养从单一学校内部教学走向跨区域全产业链的技术技能协同开发。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294–295, 300–301)]]
 
 > [!concept-lens] 概念透镜

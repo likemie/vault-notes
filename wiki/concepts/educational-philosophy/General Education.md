@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 ---
@@ -46,7 +46,7 @@ updated: 2026-10-07
 
 概念首先需要区分其教育目的与能够由课程制度直接规定的条件。
 
-> [!def] 核心定义
+> [!def] 通识教育（General Education）
 > 通识教育（General Education）是一种使学生获得多种思想工具，并愿意把这些工具用于新情境的教育理念。[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）参与的[[International Baccalaureate|国际文凭]]课程改革把通识性从知识覆盖范围转向学习过程。学生仍需掌握事实、概念和背景，但教育成效主要体现为能否运用语言、数学、历史、实验科学、道德与审美判断等不同思维方式理解经验。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 38–44)]]
 
 > [!concept-lens] 教育广度、课程用途与适用边界

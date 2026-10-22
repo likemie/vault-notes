@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学术资历壁垒（Seniority Barrier in Academia）
 > **学术资历壁垒（Seniority Barrier in Academia / Seniority Monopoly in Science）** 是指在当代[[Research Universities|研究型大学]]与国家科学资助体系中，由于经费同行评审机制对历史声望和预备数据的过度依赖、繁重行政合规成本对初创团队的非对称惩罚，以及以资深课题组负责人（PI）为中心的学术等级制度，导致青年科学家获得首笔独立研究资助的年龄被系统性推迟至[[Creativity|创造力]]峰值之后，被迫长年沦为资深实验室的依附性劳动力并锁定于小步渐进的安全选题的制度性失灵现象。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–18)]]
 
 > [!concept-lens] 概念透镜

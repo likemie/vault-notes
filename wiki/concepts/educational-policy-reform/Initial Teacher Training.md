@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 初始教师培训（Initial Teacher Training）
 > 初始教师培训（Initial Teacher Training, ITT）指准教师在正式获得法定执教资质（如英格兰合格教师资格 Qualified Teacher Status, QTS）并独立承担班级教学前所经历的系统性职前专业准备程序。ITT 构成了教师专业[[Lifelong Learning\|终身学习]]与职业阶梯的第一阶段，其核心机制在于整合学科知识、教学法原理、儿童认知发展规律与学校现场教学实践，通过大学教育学院、校本培训实体（SCITT）或公私伙伴网络，将受训者塑造为具备法定执教能力的专业人员。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 88–90)]]
 
 > [!concept-lens] 概念透镜

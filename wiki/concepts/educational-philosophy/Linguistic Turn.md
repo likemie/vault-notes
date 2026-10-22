@@ -35,7 +35,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 语言学转向（Linguistic Turn）
 > 语言学转向（linguistic turn）在[[Documentary Analysis\|文献分析]]中指对文献的语言和[[Discourse|话语]]进行细致研究，以理解文本如何**建构**其所呈现的事实和论证，而非仅仅从中提取信息。这一取向遵循解释学（hermeneutics）原则，并受到文学批评的影响（Reinfandt, 2009）。一些教育史学者已[[Creativity\|创造性]]地将其运用于文献研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(pp. 17–18)]]
 
 > [!citation-card] 关键表述

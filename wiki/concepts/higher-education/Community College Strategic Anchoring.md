@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 社区学院战略产业锚定模式（Community College Strategic Anchoring）
 > **社区学院战略产业锚定模式（Community College Strategic Anchoring / Regional Skill Hub Model）** 是指将覆盖广泛大众的公立社区学院与地方高等教育网络，深度嵌合于国家战略性先进制造基地与区域高科技产业集群的发展路径；通过引入产业端先进制造设备捐赠、校企联合开发开放式模块化技术员课程，以及打通短期资格培训与学位教育的学分立交桥，将地方教育机构重塑为支撑国家[[Industrial Commons|产业公地]]与技术供应链的区域技能枢纽。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–55)]]
 
 > [!concept-lens] 概念透镜

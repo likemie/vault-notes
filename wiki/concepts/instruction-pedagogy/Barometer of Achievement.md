@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 成就气压计（Barometer of Achievement）
 > **成就气压计（Barometer of Achievement）** 是[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》全书中反复使用的标志性视觉图表，采用类似汽车速度表或工业压力表的半圆形仪表盘构造，用于将抽象的[[Effect Size|效应量]]（$d$）直观呈现在不同色彩区段内。该图表并非首创于教育学著作，而是直接脱胎于哈蒂此前为主管部门研制的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机化评估系统中的行政监控界面，旨在将教学成效规约为外显可读的仪表指针读数。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!concept-lens] 概念透镜

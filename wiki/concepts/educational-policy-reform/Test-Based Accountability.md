@@ -91,7 +91,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 基于考试的问责制（Test-Based Accountability）
 > 基于考试的问责制（Test-Based Accountability）指以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排。问责（Accountability）的核心在于角色承担者对其行为负责、接受审查，并在未满足标准时可能受到制裁（Kogan, 1986, p. 25）。在教育语境中，这一机制将学生考试成绩作为衡量教育质量的核心指标，是全球教育体系中的显著特征之一（Darling-Hammond, 2004）。
 
 > [!concept-lens] 概念透镜

@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学习增益（Learning Gain）
 > 学习增益（Learning Gain，亦称学习增值或 Value-Added）是指学生在经历特定教学干预、课程阶段或高等教育全周期培养后，在学科专业知识、概念性理解、[[Higher-Order Thinking Skills\|高阶思维技能]]（如[[Critical Thinking\|批判性思维]]与[[Problem Solving\|问题解决]]）以及个人综合素养等方面所实现的纵向能力进步与净增长幅度。在现代教学设计与学习科学实验中，学习增益特指通过前[[Pre-test and Post-test\|后测]]设计或受控实验对比所剥离出的教学干预净成效；在高等教育与宏观政策评价中，它突破了以生源声誉和静态文凭为主的输入导向评价，转而评估院校教育过程对学生实际认知发展的增值赋能。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
 
 > [!concept-lens] 概念透镜

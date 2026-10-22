@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认识论价值（Epistemic Value）
 > [[Epistemology\|认识论]]价值（Epistemic Value）是个体或学术共同体对特定认识成就（epistemic achievements，如理论解释、实操洞见、深层因果机制理解等）所赋予的主观价值、重要性与优先度评价。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 142)]]
 
 > [!concept-lens] 概念透镜

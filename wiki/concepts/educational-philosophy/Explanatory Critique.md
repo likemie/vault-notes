@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 解释性批判（Explanatory Critique）
 > **解释性批判（Explanatory Critique）** 是[[Critical Realism|批判实在论]]（Critical Realism）哲学的基石性[[Epistemology|认识论]]概念与规范批判方法。由英国哲学家[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar, 1979, 1986）系统奠定，并经安德鲁·科利尔（Andrew Collier, 1994, 1999）与[[Critical Discourse Analysis|批判话语分析]]奠基人[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough, 2013）深化发展。它主张打破休谟式的“实然与应然（Is/Ought）”二元割裂以及传统[[Positivism|实证主义]]的“[[Value Neutrality|价值中立]]”教条；当社会科学研究通过揭示深层生成机制，成功阐明某种虚假信念、意识形态偏见或扭曲[[Discourse|话语]]是由特定的社会制度结构所系统性生产与维系时，这项科学因果解释本身在逻辑上必然通向对该错误信念及其背后支配性结构的否定性规范评价，从而为社会解放实践提供客观的批判理据。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
 
 > [!concept-lens] 概念透镜

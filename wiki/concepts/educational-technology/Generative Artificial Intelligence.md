@@ -184,7 +184,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 生成式人工智能（Generative Artificial Intelligence）
 > 生成式人工智能（Generative Artificial Intelligence, GenAI）指以 Transformer、自回归大语言模型（Large Language Model, LLM）及多模态扩散模型（Diffusion Models）为基础架构，能够依据自然语言提示（Prompts）动态生成连贯文本、程序代码、多维图像、音视频及复杂合成制品的计算技术系统。
 > 
 > 在学习科学视角下，生成式 AI 不仅是一项自动化内容生产工具，更是嵌入在分布式认知网络中的**交互式认知中介、对话伙伴与[[Boundary Object\|边界对象]]**；在国家战略与地缘竞争视角下，前沿生成式模型展现出逼近人类复杂推理的[[Artificial General Intelligence|通用人工智能]]（AGI）火花，推动战争中枢从传统物理动能装备向以敏捷软件与算法为核心的[[AI Deterrence|人工智能威慑]]发生历史性转移。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1–3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21, 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]

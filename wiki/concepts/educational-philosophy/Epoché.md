@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 悬置（Epoché）
 > [[Epoché|悬置]]（Epoché，亦称[[Phenomenology|现象学]]还原或放入括号）是德国哲学家埃德蒙·胡塞尔（[[Edmund Husserl]]）先验[[Phenomenology|现象学]]的核心奠基方法。该方法主张研究者必须暂时中止对外部客观世界存在的“自然态度”（natural attitude）以及未经理性审视的总命题信念，将经验世界的一切既有假定“放入括号”（put the world in brackets），从而从日常感知与实证经验常识的预设束缚中彻底解放出来（Warnock, 1970）。悬置的目的在于解构经验对象在意识中的构成方式，使探究能够以全新的、不受理论偏见污染的目光直面现象本身——这正是胡塞尔著名[[Epistemology|认识论]]纲领“回到事物本身！”（back to the things themselves!）的方法论实践载体。在质性探究与现代工程认识论中，悬置进一步延伸为排除主观先入之见、非评判性如实注视复杂现实的观察纪律；而在全球教育治理与批判社会学视阈下，悬置进一步展现为超国家技术官僚量化治理的权力运作机制：[[OECD|经合组织]]（Organisation for Economic Co-operation and Development, OECD）等机构通过系统性悬置各国深嵌的历史脉络与本土[[Ontology|本体论]]差异，将异质的教育实在强行置入等值[[Commensuration|通约]]的去语境化量化空间。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
 
 > [!concept-lens] 概念透镜

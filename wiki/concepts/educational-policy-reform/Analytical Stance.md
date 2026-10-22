@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 批判性分析立场（Analytical Stance）
 > **批判性分析立场（Analytical Stance，简称分析立场）**，是指教育实践者与公共行动者在面对外部学术研究证据、商业教育产品、政策改革倡议以及跨界资本渗透时，所秉持的一种主动审验研究质量、探询因果机制、评估情境适切性并穿透修辞包装的专业认知与制度审议立场。在微观[[Evidence-Based Education|循证教育]]维度，[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017, pp. 130–131)]] 基于 Nora Carrier（2017）等人的研究强调，分析立场超越了被动遵从行政指令的技术顺从，构成了教师行使[[Professional Judgment|专业判断]]的[[Epistemology|认识论]]基石；在宏观政治经济学与公共治理维度（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），分析立场进一步拓展为公立学校、校董会与公民社会识别“隐性私有化”（Privatisation by Stealth）、穿透非营利/慈善包装并捍卫代议制民主问责的制度防线。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 130–131)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 6–7, 23–24)]]
 
 > [!concept-lens] 概念透镜

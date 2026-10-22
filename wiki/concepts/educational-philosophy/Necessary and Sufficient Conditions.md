@@ -30,7 +30,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 必要条件和充分条件（Necessary and Sufficient Conditions）
 > 必要条件（Necessary Condition）是特定结果发生所不可或缺的前提，遵循“无之必不然”的逻辑；充分条件（Sufficient Condition）是单独足以诱发该结果的条件，遵循“有之必然”的逻辑。在社会科学与教育研究的复杂情境中，单一因素通常既难以独立构成充分条件，也难以单独涵盖全部因果路径，更多是以必要与充分条件的特定构型（如复合充分条件或 INUS 条件）协同产生因果效力（Mackie, 1993; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|(Cohen et al., 2011, pp. 56–57)]]）。在政策演进分析中，安东尼·贝尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 256]]）指出，建立全员人口普查式测评（Census-based [[National Large-Scale Assessments|NLSA]]）是推行[[Test-Based Accountability|测试问责]]（TBA）制度的必要条件。
 
 > [!concept-lens] 概念透镜

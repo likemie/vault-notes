@@ -102,7 +102,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认识主体性（Epistemic Agency）
 > 认识能动性（Epistemic Agency，亦作认识主体性、认识能动权）是指学习者在探究实践中，有权且有能力对“知道什么”（知识主张的提出与模型建构）以及“如何知道”（认识准则、检验方法与评价标准的设定）进行自主决策、反思权衡与共同建构的能动状态。它要求教学超越由教师单向颁布规程的程序遵循[[Paradigm\|范式]]，促使学生真正承担起收集经验证据、权衡竞争性解释以及协商知识标准的认识责任，是区分[[Inquiry-Based Learning\|探究式学习]]与单一[[Direct Instruction\|直接教学]]的核心分水岭。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
 
 > [!concept-lens] 概念透镜

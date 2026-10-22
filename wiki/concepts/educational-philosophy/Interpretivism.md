@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 解释主义（Interpretivism）
 > **解释主义（Interpretivism）**，亦称**诠释主义**，是现代社会科学与教育研究中与[[Positivism|实证主义]]根本对立的核心哲学与[[Epistemology|认识论]]立场。解释主义主张人类社会世界绝非独立于人的意识而存在的客观物理实体，而是充满主观意图、象征符号与价值赋予的意义网络；探究的根本目的不在于寻找超越时空的因果普适规律（[[Nomothetic]] Laws）并施加技术控制，而在于通过领会（Verstehen）与深入当事人的参照框架，整体性地描述、重构与理解（[[Idiographic]] Understanding）行动者在具体历史与文化情境中所经验和建构的生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 14–17]]）。在比较教育学术史中，解释主义构成了早期历史叙事与解释性专论（interpretive essays）的认识论根基，并在 1970 年代作为打破[[Structural Functionalism|结构功能主义]]与实证现代化霸权的核心理论同盟，开启了学科多元化的新纪元（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128, 131–132]]）。
 
 > [!concept-lens] 概念透镜

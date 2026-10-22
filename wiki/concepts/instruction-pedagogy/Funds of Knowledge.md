@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识资金（Funds of Knowledge）
 > 知识资金（Funds of Knowledge, FoK）是指深植于家庭、社区日常生活与劳动实践中，在历史长河中积累、代际传递且对家庭生存与个体福祉不可或缺的战略性知识、技能与文化资源网络（如农业种植、汽修机械、民俗医药、手工艺与双语沟通）。由路易斯·莫尔（Luis C. Moll）、诺玛·冈萨雷斯（Norma González）与凯茜·阿曼蒂（Cathy Amanti, 1992, 2005）等人系统阐发，该概念旨在解构将少数族裔、移民及工人阶级家庭视为“认知贫乏”的文化亏空模型（[[Deficit Model of Science Communication\|deficit model]]），主张将学生从家庭生活世界带来的丰富实践经验转化为课堂学科探究的合法资产与[[Scaffolding\|认知支架]]。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 160)]]
 
 > [!concept-lens] 概念透镜

@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究-实践鸿沟（Research-Practice Gap）
 > 研究-实践鸿沟（research-practice gap，德语区常称 Transferproblem 或转移困境）指教育研究与学校实践之间的持续脱节：研究者与实践者往往在两个分离的世界里工作，学术研究不易转化为课堂行动，实践者也难以反向影响科研生产。它是[[Research Utilization\|研究使用]]领域中最具基础性的解释性概念，既表现为系统层面的结构性阻滞，也被视为贯穿各层级的跨层关系机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 13, 17)]]; [[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]
 
 > [!concept-lens] 概念透镜

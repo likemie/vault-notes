@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] PISA 单一教育观（PISA Monolithic View of Education）
 > **PISA 单一教育观（PISA Monolithic View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]与挪威学者斯约伯格（Svein Sjøberg）等针对经合组织（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术构念，指 PISA 建立在一项未经证明的基本哲学预设之上——即假设存在一套客观、中立且普适的衡量公尺，能够脱离各国的学校体制、社会结构、历史传统、文化信仰、地理环境及生产方式，单一性地界定与测度所有国家的“教育质量”。批判学者指出，这一预设将 35 个 OECD 发达市场经济体的特定经济与教育现实强加于全球近 200 个面临截然不同挑战的多样性国家，构成了新自由主义的认识论规训与文化霸权。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-lens] 概念透镜

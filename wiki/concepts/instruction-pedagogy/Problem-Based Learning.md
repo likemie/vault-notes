@@ -91,7 +91,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 问题本位学习（Problem-Based Learning）
 > 问题本位学习（Problem-Based Learning, PBL）以经过选择的真实或拟真问题启动学习。学生激活先备知识、识别知识缺口、在小组中建立解释模型、查找新资料，再通过讨论、应用和[[Problem Solving\|问题解决]]不断修正模型。专业教育中的 PBL 还把同类问题用于目标表述和学习评估，使学生练习的活动与毕业后需要完成的专业任务保持一致。[[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2011, as cited in Hattie, 2015b, p. 85)]]；[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
 
 > [!concept-lens] 概念透镜

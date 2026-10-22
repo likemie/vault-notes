@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 集聚外部性（Agglomeration Externalities）
 > **集聚外部性（Agglomeration Externalities）**，亦称集聚经济（Agglomeration Economies），指企业、研发机构与专业人才在特定地理空间内紧密相邻而自发产生的外部规模经济与正向生产率溢出效应。根据马歇尔（Marshall）经典理论，其微观机制由**专业化劳动力池共享（Labor Market Pooling）**、**本地化专业投入品与供应商配套（Input Sharing）** 以及**面对面非正式交互带来的技术与知识外溢（Knowledge Spillovers）** 三大要素构成；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83)]] 在产业政策与高科技[[Geopolitics|地缘政治视角]]下，集聚外部性构成了战后美国硅谷以及东亚半导体制造基地形成极端地理集中的核心经济动因，同时也构成了评价[[Modern Industrial Policy|现代产业政策]]经济效率损失的核心理论基准。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 > [!concept-lens] 概念透镜

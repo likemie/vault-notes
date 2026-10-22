@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学生满意度（Student Satisfaction）
 > 学生满意度（Student Satisfaction）指学生对学习过程与学习环境的总体满意程度，反映教学模式在学习体验层面的情感效果。[[Problem-Based Learning\|问题本位学习]]（PBL）通过主动参与[[Problem Solving\|问题解决]]激发内在动机、增强学习能力，从而提升整体学习体验与满意度。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 955–956, 963–964)]]
 
 > [!concept-lens] 概念透镜

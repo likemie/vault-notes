@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 蜜蜂舞蹈语言（Dance Language of Bees）
 > **蜜蜂舞蹈语言（Dance Language of Bees，德语：Tanzsprache）** 是指欧洲蜜蜂（*Apis mellifera*）等社会性昆虫利用身体特定轨迹摆动与空间角度转换来向同伴精确传递外部地理空间信息（包括方向、距离与资源质量）的符号化通信与集体协商机制。由奥地利动物学家[[Karl von Frisch|卡尔·冯·弗里施]]（[[Karl von Frisch]]）发现并由[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）拓展至蜂群筑巢选址的民主决策过程：侦察蜂在归巢后通过摆尾舞公开展示勘探到的潜在巢穴，其舞蹈强度与跳舞者数量构成了蜂群在无中心干预下评估优劣并达成全局共识的选票。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
 
 > [!concept-lens] 概念透镜

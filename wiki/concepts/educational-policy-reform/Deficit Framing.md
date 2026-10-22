@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 赤字框架（Deficit Framing）
 > 赤字框架（Deficit Framing / Deficit Perspective，在教学与文化研究中常被称为赤字理论 Deficit Theorising 或赤字归因）指社会政策、教育改革与学术研究中，一种习惯性将问题根源归咎于行动主体（如教师、弱势学生或家庭文化）自身能力不足、素质欠缺或动机匮乏的[[Epistemology\|认识论]]预设与[[Discourse|话语]]模式。
 >
 > 该概念在教育领域呈现两大核心表现维度：

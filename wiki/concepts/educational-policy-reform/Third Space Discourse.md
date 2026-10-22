@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 第三空间话语（Third Space Discourse）
 > **第三空间[[Discourse|话语]]（Third Space Discourse）** 在教育[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）中，指大学科研学者与中小学一线教育工作者在跨界协作过程中形成的一种超越传统学院派学术理论话语（第一空间）与日常教学实用经验话语（第二空间）二元对立的全新公共沟通与意义建构体系。该机制强调明确承认、尊重并包容学术研究与临床教学天然存在的专业[[Heterogeneity\|异质性]]与价值取向差异，拒绝将彼此强行同化，通过常态化的微型研讨[[Champ\|场域]]与平等对话，实现知识需求的双向界定、学术概念的情境化重塑以及兼具科学严谨性与实践适切性的[[Knowledge Co-production\|知识共创]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
 
 > [!concept-lens] 概念透镜

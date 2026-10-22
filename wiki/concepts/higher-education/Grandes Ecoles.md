@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 法国大学校（Grandes Ecoles）
 > 法国大学校（Grandes Écoles，单数 Grande École）是法国高等教育中独立于大众化综合公立大学（Universités）的精英专业学院系统。其肇始于 18 世纪末法国大革命与拿破仑时期，以极其严苛的高中毕业会考（Baccalauréat）后预科班（Classes Préparatoires aux Grandes Écoles, CPGE）选拔统考（Concours）为门槛，专注于为国家行政官僚体系、工商业财团及国防工程培养高级技术专家、高级公务员与商业领袖（如巴黎综合理工学院 École Polytechnique、国立行政学院 ENA、巴黎高等[[Normal School|师范学院]] ENS、巴黎高等商学院 HEC 等）（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, p. 42]]）。在比较教育与历史社会学中，大学校不仅因与[[CNRS|法国国家科学研究中心]]（CNRS）和综合大学构成“三元分立”格局而成为高教制度分析的典型客体，更作为近代主权国家间双边[[Policy Borrowing|政策借用]]与制度模仿的经典原型（如巴西早期对法国大学校的制度模仿，Cowen & Figueiredo, 1992；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）。
 
 > [!concept-lens] 概念透镜

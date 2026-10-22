@@ -93,7 +93,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学本位研究（Scientifically Based Research）
 > 科学本位研究（Scientifically Based Research, SBR）是 1998 年美国《[[Reading Excellence Act|卓越阅读法案]]》（Reading Excellence Act, REA）首次在联邦立法中界定、并由 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）与 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（Education Sciences Reform Act, ESRA）全面确立的联邦法定证据准入标准，指“采用严谨、系统和客观的程序以获取与教育活动和项目相关的可靠与有效知识的研究”；该标准明确将实验设计（特别是带有[[Random Assignment|随机分配]]的实验）和严格的[[Quasi-Experimental Designs|准实验设计]]奉为优先青睐的实证方法，作为联邦教育专项拨款申请、教学干预方案采购与学校绩效问责的强制前置条件。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]; [[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 109)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 
 > [!concept-lens] 概念透镜

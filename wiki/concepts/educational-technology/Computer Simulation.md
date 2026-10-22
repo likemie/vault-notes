@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 计算机模拟（Computer Simulation），亦称计算机仿真或虚拟仿真，在现代教育科学中具有双重[[Epistemology|认识论]]定位：既是研究者用来对复杂动态社会系统进行建模、推理与假设检验的研究方法，又是科学与 [[STEM Education|STEM]] 教育中为学习者提供直观可操纵[[Variable|变量]]、动态交互可视化与反思支架的数字化探究微世界（Micro-worlds）。
 
-> [!def] 核心定义
+> [!def] 计算机模拟（Computer Simulation）
 > 作为研究工具，计算机模拟是对真实世界系统的计算机表征，通过数学模型与算法规则使理论显性化，支持在受控条件下进行“what-if”[[Causality\|因果推断]]与多主体[[Emergence\|涌现]]分析（Gilbert & Troitzsch, 2005；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19]]）。作为教学技术，计算机模拟通过将微观分子运动、电磁场分布、天体轨道或生态平衡等隐性抽象机制显性化，为学习者创设安全、可重复、即时反馈的实验探究环境；多项权威[[Meta-analysis\|元分析]]证实，配备[[Scaffolding\|认知支架]]的计算机模拟探究在促进概念理解、科学推理与学习兴趣上显著优于传统讲授与常规纸笔实验（Smetana & Bell, 2012; d'Angelo et al., 2014；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）。
 
 > [!concept-lens] 概念透镜

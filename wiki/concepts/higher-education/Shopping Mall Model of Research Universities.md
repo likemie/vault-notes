@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究型大学商场模型（Shopping Mall Model of Research Universities）
 > [[Research Universities|研究型大学]]商场模型（Shopping Mall Model of Research Universities）是著名科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan）提出的组织分析隐喻，用来概括当代美国研究型大学的核心运作逻辑：大学在本质上越来越类似于高端商业购物中心——校方专注于构建最先进的实验室基础设施与机构声誉品牌，进而通过提取外部科研资助中的间接成本（indirect costs）以及要求教师冲抵个人薪酬（buyout of salary），将这些空间实质性“出租”给各课题组负责人（PI），后者如同商场内的自负盈亏商铺一般独立运营其科研实验室。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 
 > [!concept-lens] 概念透镜

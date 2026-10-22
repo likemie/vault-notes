@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 元认知惰性（Metacognitive Laziness）
 > [[Metacognition\|元认知]]惰性（Metacognitive Laziness）是指学习者在使用[[Generative Artificial Intelligence\|生成式人工智能]]（GenAI）等高效外部计算工具辅助学习时，因过度依赖算法所提供的即时解答、文本自动生成与结构化组织，自发减少甚至放弃对自身思维过程的积极监控、困难觉知、策略选择与反思校准，从而导致[[Metacognition\|元认知]]监控能力出现钝化、退化或停滞的认知心理现象。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 4, 16, 18–19)]]
 
 > [!concept-lens] 概念透镜

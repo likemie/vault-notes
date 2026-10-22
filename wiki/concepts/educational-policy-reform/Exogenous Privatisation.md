@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 外生私有化（Exogenous Privatisation）
 > **外生私有化（Exogenous Privatisation）**，亦称**针对公立教育的私有化（Privatisation of Public Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指通过合同承包、[[Public-Private Partnership|公私伙伴关系]]（PPP）、特许学校（Charter Schools / Partnership Schools）以及向私营[[Educational Management Organisation|教育管理组织]]（EMO）采购核心业务，将原本由公共部门承担的校舍建设、课程开发、测验评价与日常教学交付全面向营利或非营利私营实体开放的制度过程。当代实证研究（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）进一步揭示，外生私有化已经从早期的后勤基建承包，演进为涵盖免税慈善信托控股营利实体的[[Dual-Entity Legal Structure|双层法人架构]]，并最终演变为跨界商业网络直接主导国家教育立法与政策议程设置的**政策制定权隐性私有化**。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
 > [!concept-lens] 概念透镜

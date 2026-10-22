@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 预测性警务（Predictive Policing）
 > 预测性警务（Predictive Policing）指执法机关运用先进大数据集成平台、地理空间态势感知与人工智能（AI）算法，对历史犯罪数据、涉案枪支网络、被害人与嫌疑人关联线索进行深度交叉比对与因果挖掘，从而在空间上精准预判高危暴力犯罪发生区域、在关系网络上快速识别犯罪团伙架构并优化警力调配的现代公共安全治理[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 173–175)]]
 
 > [!concept-lens] 概念透镜

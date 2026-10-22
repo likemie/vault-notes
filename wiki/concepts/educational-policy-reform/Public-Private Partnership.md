@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 公私合作伙伴关系（Public-Private Partnership）
 > 公私合作伙伴关系（Public-Private Partnership, PPP），指公共部门（政府机构）与私营部门（营利性商业公司、社会资本或非营利组织）之间建立的长期、制度化协作与契约化治理机制。该概念在当代治理中涵盖两大核心向度：在**公共教育治理与公共服务交付**中，表现为政府将校舍基建（私人融资倡议，PFI）、地方教育局运营、[[School Inspection|学校督导]]评估、教师在职进修及后勤配餐等公共职能向私营资本和跨国教育集团外包，推动了教育的[[Exogenous Privatisation|外生私有化]]并模糊了国家公共性边界；在**战略科技攻关与产业创新**中，表现为政府部门、产业界成熟企业与[[Research Universities|研究型大学]]联合资助、风险共担并协同执行前竞争共性技术攻关的多边三螺旋（[[Triple Helix]]）制度安排。Cardini (2006, pp. 393–395); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–234)]]
 
 > [!concept-lens] 概念透镜

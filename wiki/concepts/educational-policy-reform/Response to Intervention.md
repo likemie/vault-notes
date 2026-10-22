@@ -83,7 +83,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 干预反应模型（Response to Intervention）
 > **干预反应模型（Response to Intervention, RTI）** 是起源于美国《个体残疾人教育法》（Individuals with Disabilities Education Act, IDEA 2004）的多层级学业与行为支持框架。该框架主张在将学业困难学生转介至特殊教育之前，先在普通班级生态内提供多层递进的预防性与补救性干预：全班核心通用教学（TIER 1）、针对轻度落后学生的小组补充辅导（Tier 2），以及针对重度落后学生的高强度个别辅导（Tier 3），以此根据学生对科学干预的动态反应进行差异化支持与特教准入判定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 
 > [!concept-lens] 概念透镜

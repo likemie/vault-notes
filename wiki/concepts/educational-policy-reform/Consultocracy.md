@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 顾问统治（Consultocracy）
 > **顾问统治（Consultocracy）** 是指在[[New Public Management\|新公共管理]]（New Public Management, NPM）与新自由主义国家转型语境下，以麦肯锡（McKinsey & Company）、波士顿咨询（BCG）、贝恩（Bain & Company）及普华永道、德勤等跨国私营战略咨询公司为核心的商业顾问力量，深度嵌入、塑造甚至实质垄断国家公共政策制定、组织流程再造与重大社会改革的非传统治理形态（Saint-Martin, 2000；Gunter et al., 2015）。在教育政策领域，顾问统治表现为政府将长远战略规划、因果评估标准与财政分配方案系统外包给私营咨询机构，以商业度量衡、[[Return on Investment\|投资回报率]]与绩效量规替代公共育人价值审议，引发传统公务员科层行政能力的萎缩与民主问责的制度性[[Epoché\|悬置]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522, 530)]]
 
 > [!concept-lens] 概念透镜

@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育出海（Education Going Global）
 > 教育出海（Education Going Global，或称教育走出去、跨境教育出海）是指一国教育系统在国家战略统筹下，主动向境外延伸办学实体、输出课程与专业标准、构建跨国学术联盟，并以此支撑国家对外经贸合作与[[Geopolitics|地缘政治]]布局的体系化实践。在中国语境下，该概念主要表现为依托《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，推动[[Research Universities|研究型大学]]建设[[International Branch Campus|海外分校]]并联合攻关前沿科技、推动职业院校伴随大型工业基建出海开展技能培训，以及依托专项国家奖学金定向吸引沿线青年精英流动。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680, 684–687)]]
 
 > [!concept-lens] 概念透镜

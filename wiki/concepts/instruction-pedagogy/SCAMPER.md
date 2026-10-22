@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 创造性思维检核表（SCAMPER）
 > SCAMPER 启发式创新技法（SCAMPER Technique）是由[[Alex Osborn\|亚历克斯·奥斯本]]（Alex Osborn, 1953）提出设问检核表雏形、后由罗伯特·埃伯尔（Robert F. Eberle, 1971）系统整合的一套标准化[[Creativity\|创造性思维]][[Scaffolding\|脚手架]]。该技法由七个首字母缩写操作算子构成：**S**ubstitute（替代）、**C**ombine（合并）、**A**dapt（调适/借用）、**M**odify / Magnify / Minify（修改/放大/缩小）、**P**ut to other uses（移作他用）、**E**liminate（消除/简化）与 **R**everse / Rearrange（反转/重组）。它通过显性化的问题提示，引导学习者主动跳脱常规认知惯性，对现有对象的形态、功能、材料与结构展开多向度的概念重组与变通拓展。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]; Eberle (1971)
 
 > [!concept-lens] 概念透镜

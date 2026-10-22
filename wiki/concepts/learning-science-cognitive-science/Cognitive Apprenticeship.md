@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认知学徒制（Cognitive Apprenticeship）
 > 认知[[Apprenticeship|学徒制]]（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills\|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition\|元认知]]策略，引导新手在[[Scaffolding\|脚手架]]支持下逐步掌握独立解决[[Wicked Problem|劣构问题]]的专家能力。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
 
 > [!concept-lens] 概念透镜

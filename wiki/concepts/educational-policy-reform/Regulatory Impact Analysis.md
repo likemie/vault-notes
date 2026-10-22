@@ -30,7 +30,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 规制影响分析（Regulatory Impact Analysis）
 > 规制影响分析（Regulatory Impact Analysis, RIA；亦称规制影响评估）指在政策全周期（事前预测、事中运行、事后成效）中，基于明确价值标准与经验证据，全面权衡规制方案对社会、经济与制度成本效益的系统化循证评估机制。在教育治理中，它主要用于诊断并化解政策起草与实施过程中的失序、断裂与错位，确保多边及跨区域教育合作的质量、公平与适应性。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 297–298)]]
 
 > [!concept-lens] 概念透镜

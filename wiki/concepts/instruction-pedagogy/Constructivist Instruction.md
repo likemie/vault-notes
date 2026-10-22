@@ -94,7 +94,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 建构主义教学（Constructivist Instruction）
 > [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验假设并修正心理表征而主动生成的产物，超越教师单向信息灌输的传统模式。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
 
 > [!concept-lens] 概念透镜

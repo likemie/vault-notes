@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 国家大规模教育评估（National Large-Scale Assessments）
 > 国家大规模教育评估（National Large-Scale Assessments, NLSAs）指由中央或国家/联邦教育行政主管当局主导设计并实施的外部标准化学生学业评价体系。该体系依托标准化心理测量技术测定学生达成国家课程或学业标准的程度，兼具宏观系统监测与微观规制功能。在当代规制型教育治理中，它往往超越单纯的数据收集职能，与[[Test-Based Accountability|基于测验的问责制]]（Test-Based Accountability, TBA）及学习标准紧密装配为系统性的政治配置（political dispositif）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–250)]]
 
 > [!concept-lens] 概念透镜

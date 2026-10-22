@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 游戏化（Gamification）
 > **游戏化（Gamification）** 指将积分、徽章、排行榜与即时正向反馈循环等游戏机制，系统应用于非游戏情境（如学校教育、组织管理、家庭育儿或公共政策培训）以激发用户参与、调节目标行为并维持交互黏性的设计策略（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p. 236]]；引自 Zichermann & Cunningham, 2011）。在教育技术与算法治理视域下，游戏化植根于操作条件反射与[[Behaviorism|行为主义]]心理学逻辑，通过数字化代币奖励塑造可预测、可重复且具商业回报的交互体验（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 236–237]]）。在全球教育治理层面，多边国际机构亦将游戏化与同行评审模块引入在线研修网络，构建高交互度的政策决策者培训系统（[[Argument_Zapp_2017_IJED|Zapp, 2017, p. 8]]）。
 
 > [!concept-lens] 概念透镜

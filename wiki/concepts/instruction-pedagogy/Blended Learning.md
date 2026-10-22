@@ -58,7 +58,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 混合式学习（Blended Learning）
 > 混合式学习（Blended Learning）是指系统性重构学习体验的教学模式，它将传统的面对面实体课堂教学（Face-to-Face Instruction）与基于技术的数字化、网络化或智能化学习环境有机结合。该模式并非简单的技术叠加或课后录播补充，而是通过精心设计的课程结构，充分发挥物理课堂在具身对话、情感连接与即时协作方面的优势，同时激活数字环境在弹性节奏、自主探究与个性化自适应支持上的长处，从而在时空融合中促进学习者的深层认知建构与[[Higher-Order Thinking Skills\|高阶思维]]发展。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 7, 11–12)]]
 
 > [!concept-lens] 概念透镜

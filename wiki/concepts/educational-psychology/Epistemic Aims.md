@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认识论目标（Epistemic Aims）
 > [[Epistemology\|认识论]]目标（Epistemic Aims）是个体或共同体在探究、发现事物以及形成信念过程中所采纳的、指引具体认知活动并追求特定认识成就（epistemic achievements，如真理、深层因果理解或经验模型）的意图与目标。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 142)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–207)]]
 
 > [!concept-lens] 概念透镜

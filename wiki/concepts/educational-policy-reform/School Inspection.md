@@ -100,7 +100,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学校督导（School Inspection）
 > 学校督导（School Inspection）指由国家或地方政府法定授权的外部独立专门机构，依据预设的质量评估标准框架，通过现场进驻、推门听课、师生访谈、查阅档案与数据核验等综合手段，对中小学校的办学质量、教学效能、管理规范及法定合规状态开展系统审查、发布评级或诊断报告并触发相应行政响应的制度化外部评价机制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；[[Argument_Dedering_2009_EERJ\|Dedering, 2009]]）。在国际比较视野中，学校督导主要呈现三大治理[[Paradigm\|范式]]：一是英美体系下的**高利害惩罚性外部问责（Punitive External Accountability）**，强调单一等级评定、公开点名与强制托管转制；二是欧洲大陆（如德国各联邦州）模式下的**全域过程性质量诊断与支持（Diagnostic & Supportive School Monitoring）**，作为国家教育监测体系的核心支柱，通过对全量学校开展涵盖输入、过程与产出的全景视导，为单体薄弱学校改进与教育行政部门资源配置提供精准实证依据（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, pp. 485]], 494）；三是[[Output-Oriented Governance\|产出导向治理]]现代化演进出的**目标协定与对话协商型督导（Target-Agreement & Dialogical Inspection）**，以[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（Schulqualität Allgemeinbildung, SQA）为典型代表，督学由单向稽查者转向专业咨询伙伴，通过定期开展成效核算与目标协定对话（Bilanz- und Zielvereinbarungsgespräche），将国家质量标准转化为单校自主改进的发展合约（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019, pp. 19–20]]）。
 
 > [!concept-lens] 概念透镜

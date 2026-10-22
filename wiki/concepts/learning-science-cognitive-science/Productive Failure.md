@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 在学习科学与现代教学设计领域，“生产性失败”（Productive Failure, PF），亦称有成效的失败或启发式失败，指一种先于正式概念讲授而让学生自主探索解决复杂、[[Wicked Problem|劣构问题]]（Ill-structured Problems）的时序教学[[Paradigm|范式]]。
 
-> [!def] 核心定义
+> [!def] 生产性失败（Productive Failure）
 > 生产性失败由马努·卡普尔（Manu Kapur）系统提出，并在丹尼尔·施瓦茨（Daniel L. Schwartz）与约翰·布兰斯福德（John D. Bransford）关于“未来学习准备”（Preparation for Future Learning, PFL）理论的基础上发展成熟。该模式主张：在向学习者系统讲授标准科学定理、公式或规范算法之前，首先设计具有认知挑战性的复杂任务让学生尝试解决；即便学生在初期探索中无法独立得出正确答案并遭遇策略受挫，这种真实的试错体验能够有效激活个体的先验知识图式、暴露出既有朴素直觉的认知盲区与边界，进而催生出强烈的认识求知欲与[[Metacognition\|元认知]]反思；随后由教师适时跟进显性[[Direct Instruction\|直接教学]]，完成核心概念的系统统整与模型升华（Kapur, 2016；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
 
 > [!concept-lens] 概念透镜

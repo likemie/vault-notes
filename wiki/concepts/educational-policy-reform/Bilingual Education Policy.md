@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 双语教育政策（Bilingual Education Policy）
 > **双语教育政策（Bilingual Education Policy）** 是指主权国家或地方政府通过法律、课程标准与考试制度，强制或引导各级学校系统同时采用两种语言作为教学媒介语（Medium of Instruction）与核心必修科目的公共政策[[Paradigm|范式]]。在比较教育与发展中国家建构中，该政策常承担双重战略任务：一方面确立通用的国际强势语言（如英语）以实现技术引进、行政效率与全球经济对接；另一方面推行族群母语教育以传承历史文化正典、稳固道德锚点并塑造统一的国家认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]
 
 > [!concept-lens] 概念透镜

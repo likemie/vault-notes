@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 效应衰退（Fade-out Effect）
 > **效应衰退（Fade-out Effect）**，亦称**效应消退**、**干预后持续性衰减**或**规模化电压降（Voltage Drop）**，是指教育、心理与社会干预方案在干预当期或小范围受控状态下虽然展现出显著的即时正向效应（Immediate Post-test Gains），但随着时间推移、外部密集支持撤除，或从理想小规模试验推向全系统常规运行，该正向因果优势逐步萎缩、衰减甚至完全归零的普遍经验现象（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]；[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 28]]）。
 >
 > 效应衰退在现代[[Evidence-Based Education\|循证教育]]中展现为双重视角：其一是**时间维度的后效衰减（Temporal Fade-out）**，即受试者离开干预环境后优势的自发衰减；其二是**空间与组织维度的规模化衰减（Scale-up Voltage Drop）**，即干预由[[Efficacy Trial\|效力试验]]走向大规模[[Effectiveness Trial\|实效试验]]时[[Effect Size\|效应量]]的断崖式缩水。两者共同构成了区分浅层测验提分与实质性重塑发展轨迹的试金石。

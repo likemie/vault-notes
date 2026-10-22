@@ -121,7 +121,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究型大学（Research Universities）
 > **研究型大学（Research Universities）** 是 19 世纪中叶以后在西方（尤其是美国）以德国洪堡大学[[Humboldtian Model of Higher Education|教学与科研相统一原则]]为制度母本、深度融合本土赠地学院社会服务传统而建立的现代高等教育核心组织[[Paradigm|范式]]。该类大学将 **[[Knowledge Production|知识生产]]（前沿基础与应用科学研究）** 与**高层次专门人才培养（尤其是博士生教育）** 深度熔铸为不可分割的核心职能，构成了现代国家科学技术[[Systems of Innovation|创新系统]]的战略中枢与基础知识供给源泉。二战后，研究型大学依托《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》确立的联邦资助契约走向繁荣；进入 21 世纪，在面对私人研发崛起、地缘科技竞争、行政合规膨胀与人工智能科研范式重构的挑战下，研究型大学正经历从资助机制、学术自治到产学研协同的深层变革。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–33)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–8, 15–20)]]
 
 > [!concept-lens] 概念透镜

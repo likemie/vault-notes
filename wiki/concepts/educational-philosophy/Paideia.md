@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 古希腊教化（Paideia）
 > 古希腊教化（Paideia，亦作 *Paedeia* 或 *Klassiki Paedeia*，中文通译为古典教化或古风教化）源自古希腊城邦（Polis）文明的古典哲学与教育传统。它超越了单纯的儿童抚养或职业技能操练，是指通过文法、修辞、辩证法、音乐、几何以及体育哲学的全面熏陶，促成个体灵魂发生深刻转向（*periagoge*），实现智性卓越（*arete*）、道德自律与审美身心和谐，从而将个体锻造成具备城邦公共奉献精神与政治决断力的卓越公民。在比较教育思想史中，该概念构成了欧洲古典人文教化传统的历史源头，并被确立为以人为本（*anthropos*）的[[Geisteswissenschaften|人文科学]]（[[Humanistic Episteme]]）元范畴，用于抵御将教育降格为技术官僚工具化学校教育（Schooling）的深层危机。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜

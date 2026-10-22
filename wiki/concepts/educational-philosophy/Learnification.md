@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学习化（Learnification）
 > **学习化（Learnification）** 是由当代荷兰教育哲学家[[Gert Biesta|格特·比斯塔]]（Gert Biesta）首创的批判性概念，指教育理论与实践[[Discourse|话语]]被以效果为中心、去价值负荷的“学习”（Learning）与“学习结果”（Learning Outcomes）逻辑全面侵蚀与重塑的现象。该[[Construct|构念]]揭示：传统教育中教师引领主体涉入客观文化传统的教育学关系，被异化为以产出测量为中介的技术化交付过程；学生被编码为需对自身效能持续负责的学习消费者，消解了教育关涉主体成熟（Mündigkeit）、民主审议与道德解放的根本宗旨。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 15–20)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜

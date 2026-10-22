@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 化身（Avatar）
 > **化身（Avatar）** 是指在数字虚拟空间、计算机生成环境或人机交互系统中，代表人类参与者（用户端化身）或人工智能代理（教学端化身）的可视化、可配置数字拟人表征。在[[Qualitative Research\|质性研究]]与社会互动视域下，用户化身作为[[Projection Technique\|投射技术]]与身份实验载体，使个体能够将内在价值观[[Externalization\|外化]]并在安全匿名的理想沟通语境中展开民主审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19]]）；在智能学习技术与科学探究视域下，教学化身作为拟人化虚拟导师（Pedagogical Agent），通过动态视线追踪、提问引导与即时诊断，在无前置显性讲授的情境下有效激发学生的自主因果探究与概念构建（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）。
 
 > [!concept-lens] 概念透镜

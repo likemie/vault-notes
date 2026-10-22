@@ -31,7 +31,7 @@ related_arguments: []
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-21
+updated: 2026-10-22
 year: 2020
 doi: ""
 citation_aliases: []
@@ -39,7 +39,7 @@ citation_aliases: []
 
 ---
 
-> [!def] 定义
+> [!def] 语言经验法（Language Experience Approach）
 > 语言经验法（Language Experience Approach, LEA）是一种将儿童自身的口语经验与读写学习紧密结合的早期读写教学方法。该方法由 R. V. 艾伦（R. V. Allen, 1964）系统阐述，其核心是“将阅读和其他沟通技能在教学中整合在一起” (p.144)。
 
 > [!concept-lens] 概念透镜

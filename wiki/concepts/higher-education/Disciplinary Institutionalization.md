@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学科建制化（Disciplinary Institutionalization）
 > 学科建制化（Disciplinary Institutionalization）是指一个新兴的知识体系、工程技艺或问题领域，通过明确研究对象与核心方法论[[Paradigm|范式]]，在[[Research Universities|研究型大学]]内部建立独立的教学科研系所、学位授予点与教职序列，并在外部获得政府公共研发资金与专业学会认可，从而演进为制度化、自主性学术学科（Academic Discipline）的社会历史过程。该概念强调外部资源注入与大学内部[[Knowledge Production|知识生产]]机制的互动共演：以战后计算机科学为例，即便在私营硬件制造工业已具规模的背景下，联邦国防科研经费的持续注资依然是促成高校建立独立计算机系所、打通基础研究与工程应用枢纽的关键制度催化剂。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
 
 > [!concept-lens] 概念透镜

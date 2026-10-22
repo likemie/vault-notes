@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 每日公民投票（Everyday Plebiscite）
 > **每日公民投票（Everyday Plebiscite，法文：*Un plébiscite de tous les jours*）**由法国思想家[[Ernest Renan|欧内斯特·勒南]]（[[Ernest Renan|Ernest Renan]]）于 1882 年在巴黎索邦大学著名演讲《什么是民族？》（*Qu'est-ce qu'une nation?*）中提出，是现代公民民族主义（Civic Nationalism）的基石概念。勒南主张，民族的实质是一种宏大的道德团结（a vast solidarity），由过去共同付出的牺牲记忆与当下明确表达的共同生活意愿所构成；民族的存在并非取决于血缘、语言、宗教或地理疆界的客观强加，而是依靠全体国民在精神上每天自愿进行的默示投票与持续确认。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!concept-lens] 概念透镜

@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 社会影响力投资（Social Impact Investing）
 > **社会影响力投资（Social Impact Investing / Impact Investing）**，是指投资者将资本有意识地配置于能够产生明确可测量的积极社会与教育效益、同时获取一定财务本金回收或商业利润回报的投资[[Paradigm|范式]]（Nicholls et al., 2015）。它起源于华尔街与伦敦金融城对“双重底线”（Double Bottom Line，即兼顾商业回报与社会价值）的追求，将风险投资（Venture Capital）与私募股权的审慎尽职调查、高参与度管理介入及量规审计逻辑系统引入公共服务与社会政策领域。在教育政策实践中，影响力投资催生了两大典型运作模式：一是以**社会影响力债券（Social Impact Bonds, SIBs）** 与成果导向合同为核心的金融证券化模式，将学校[[Academic Achievement|学业表现]]或辍学率降幅直接与投资人分红挂钩；二是以**高参与度[[Venture Philanthropy|风险慈善]]（High-Engagement Venture Philanthropy）** 为核心的公益创投模式，通过严密里程碑考核与外部专业咨询强行重塑基层学校治理。批判学者指出，这一范式实质上构成了公共教育深层金融化与隐性私有化的关键杠杆。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520, 524, 526)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64, 76–80)]]
 
 > [!concept-lens] 概念透镜

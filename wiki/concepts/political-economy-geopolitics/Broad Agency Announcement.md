@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 广泛领域资助公告（Broad Agency Announcement）
 > **广泛领域资助公告（Broad Agency Announcement, BAA）** 是美国联邦政府（特别是国防部、情报部门与国家安全前沿研发机构）依据《联邦采办条例》（FAR 35.016）广泛采用的一种竞争性项目招标与合同发包制度工具。与传统采购中详细规定技术规格与工作说明书（SOW）的模式不同，BAA 仅发布宏观科学挑战、战略性能瓶颈与终极目标愿景，向全社会公开征集[[Heterogeneity|异质性]]、探索性且非预设技术路径的基础与应用研究提案。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1139)]]
 
 > [!concept-lens] 概念透镜

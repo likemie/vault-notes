@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 默会知识（Tacit Knowledge）
 > **默会知识（Tacit Knowledge）** 最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以编码、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!concept-lens] 概念透镜

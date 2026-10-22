@@ -29,7 +29,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育性概念改变（Educative Conceptual Change）
 > 教育性概念改变（educative conceptual change）指学习者通过重新组织信息并借助信息思考，使自己对某一现象的理解发生改变，并因此以不同方式看待和处理相关世界。它不是在原有理解上增加更多可复述的信息，而是改变信息之间的关系、现象的意义以及学习者能够采取的行动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
 
 > [!concept-lens] 概念透镜

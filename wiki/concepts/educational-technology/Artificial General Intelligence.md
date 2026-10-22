@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 通用人工智能（Artificial General Intelligence）
 > 通用人工智能（Artificial General Intelligence, AGI）指具备超越单一特定任务范围、能够在跨学科语境中自主理解、推理、生成概念并解决未知复杂问题的人造智能系统。与仅在国际象棋、围棋或图像识别等窄领域超越人类的专用弱人工智能不同，AGI 的核心特征在于其心智表征的通用性、多模态常识推理能力以及对人类语言与[[Creativity|创造力]]垄断地位的深层挑战。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 18–20)]]
 
 > [!concept-lens] 概念透镜

@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 虚拟教师休息室（德文：Virtuelles Lehrerzimmer / Twitterlehrerzimmer，简称 twlz；英文：Virtual Teacher Staffroom / Online Teacher Community）是指一线在岗教师、师范生与教育工作者依托社交媒体平台（如 Twitter/X、Instagram、TikTok、Bluesky 等），通过特定主题标签（如德语区的 `#twlz`、英语区的 `#EdChat`）自发组织、跨越地域与学段限制的非正式在线专业交流社群与数字公共空间。
 
-> [!def] 核心定义
+> [!def] 虚拟教师休息室（Virtual Teacher Staffroom）
 > 虚拟教师休息室（Virtual Teacher Staffroom）构成了数字时代教师[[Professional Learning Community\|专业学习共同体]]（[[Professional Learning Community\|PLC]]）的去中心化网络形态。它打破了传统实体学校物理隔绝与行政层级束缚，以即时素材共享、课堂突发问题求助、数字化教学法探讨及职业情感共鸣为核心驱动力；但在展现极高同侪活跃度的同时，该空间普遍存在大学学术科研力量缺位、[[Knowledge Production\|知识生产]]缺乏实证把关，以及在算法机制下形成“网络意见领袖（*Meinungsführer*）”主导[[Discourse|话语]]权的新型层级结构。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 257–258)]]
 
 > [!concept-lens] 概念透镜

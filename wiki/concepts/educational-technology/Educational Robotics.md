@@ -52,7 +52,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 教育机器人（Educational Robotics）
 > 教育机器人（Educational Robotics / AI Educational Robotics）是指应用于教育教学情境中、具备物理实体具身（Physical Embodiment）或高度外显拟人化虚拟[[Avatar\|化身]]（Virtual Avatar）的人工智能交互系统。该系统整合了机器视觉、语音识别、自然语言处理与多模态感知技术，能够以同伴学习者（Peer Learner）、教学助手（[[Teaching Assistant]]）或陪伴导师（Companion Tutor）的社会性角色，与学生展开面对面的口语对话、手势示范与触觉协同操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3, 6)]]
 
 > [!concept-lens] 概念透镜

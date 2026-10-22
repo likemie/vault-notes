@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学生投入（Student Engagement）
 > 学生投入（Student Engagement）是指学生在高等教育及各类教学环境中，向具备明确教育目的的课内外实践活动（Educationally Purposeful Activities）所投入的时间、精力和深层心智关注。该概念由美国学者乔治·库（George Kuh, 1991）系统奠定，指出投入是连接学校制度环境与学生发展成果的核心中介[[Variable\|变量]]。随着研究深化，学生投入从最初可观察的“行为性投入”拓展至“情感性投入”与“认知性投入”，并在当代研究中进一步延伸出区分资源配置的“方向性投入”以及[[Man-Computer Symbiosis|人机共生]]下的“认识性投入（Epistemic Engagement）”。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 112–115)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6)]]
 
 > [!concept-lens] 概念透镜

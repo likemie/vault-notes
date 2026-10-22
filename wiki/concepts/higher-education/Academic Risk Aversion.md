@@ -51,12 +51,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 学术避险主义（Academic Risk Aversion）
 > 学术避险主义（Academic Risk Aversion），亦称科研避险倾向，指在现代高度竞争的科研资助体系、量化绩效评估以及短聘考核压力约束下，科研人员、评审专家及科研资助机构系统性展现出的一种行为偏好：极力回避具有高度[[Epistemology|认识论]]不确定性、长周期和高失败率的开创性探索（Transformative Research），转而集中精力选择技术路径成熟、预期产出高度确定、能够迅速产出阶段性论文的渐进型研究（Incremental Research）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 31–32)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 > [!concept-lens] 概念透镜

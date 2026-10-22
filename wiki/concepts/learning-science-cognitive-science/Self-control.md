@@ -84,7 +84,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 自我控制（Self-control）
 > 自我控制（Self-control）指个体在面临即时诱惑、冲动反应或环境干扰时，主动抑制优势反应、调节情绪唤醒并维持目标导向行动的自律能力。在教育心理学与学习科学中，它不仅表现为课堂规则遵从与注意力聚焦的执行控制功能，更是连接深层[[Metacognition\|元认知]]监控与长期[[Academic Achievement\|学业成就]]的核心非认知素养（Non-attainment Outcome）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]; [[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 69–70)]]
 
 > [!concept-lens] 概念透镜

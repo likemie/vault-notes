@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 尺度重组（Rescaling）
 > 尺度重组（Rescaling，亦称空间尺度重构或国家尺度重组），是政治地理学（Brenner, 2004）与批判性教育政策研究（Robertson & Dale, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）的核心概念。它指在全球化、新自由主义转型与数字化监测扩张的驱动下，国家规约权力、政策功能与制度安排在跨国（Transnational）、国家（National）、次国家/联邦州（Subnational）以及地方/市镇（Local）等不同空间尺度之间所发生的质性重构、分层转移与再结网过程。该概念强调：空间尺度并非先验、固定、天然存在的地理容器，而是由社会行动者、制度博弈与技术媒介不断生产、协商与争夺的动态产物（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–136]]）。
 
 > [!concept-lens] 概念透镜

@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 实践明智（Phronesis）
 > **实践明智（Phronesis，亦译实践智慧或实践理性）** 源自古希腊哲学家[[Aristotle|亚里士多德]]的《尼各马可伦理学》（*Nicomachean Ethics*, 1140b），是指在具体、非结构化且充满不确定性的情境中，个体基于对“人类至善”（Human Flourishing / Eudaimonia）或系统最优目标的追求，审慎权衡多元冲突价值与复杂动态[[Variable|变量]]，进而做出正确理智判断与适切行动的高阶实践智慧。该概念超越了抽象普适的[[Theoretical Knowledge|理论知识]]（Episteme）与流水线式的技术制作技能（Techne），构成了[[Curriculum as Process|作为过程的课程]]、教师临床[[Professional Judgment|专业判断]]以及尖端实验制造排障的共同[[Epistemology|认识论]]基石。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 67–68)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47, 56)]]
 
 > [!concept-lens] 概念透镜

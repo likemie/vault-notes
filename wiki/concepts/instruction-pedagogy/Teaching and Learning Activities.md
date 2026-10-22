@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教学与学习活动（Teaching and Learning Activities）
 > 教学与学习活动（teaching and learning activities，TLA）是课程为促使学生开展目标认知行为而组织的活动。它既包括讲授、提问、实验和辅导等教师组织的活动，也包括小组讨论、同伴教学、[[Learner Autonomy\|自主学习]]和[[Metacognition\|元认知]]监控等由同伴或学生组织的活动。活动的教育价值取决于它最可能引出何种学习，以及这种学习是否与课程目标一致。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 63–68)]]
 
 > [!concept-lens] 概念透镜

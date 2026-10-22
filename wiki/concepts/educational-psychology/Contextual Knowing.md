@@ -26,7 +26,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 语境认知（Contextual Knowing）
 > 语境认知（Contextual Knowing）是 Baxter Magolda (1992) 模型中的最高阶段。个体认识到尽管知识具有相对性和不确定性，但并非所有观点都同等有效。他们学会了在特定语境中，运用证据进行概率性的评价与辩护。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 99)]]
 
 > [!concept-lens] 概念透镜

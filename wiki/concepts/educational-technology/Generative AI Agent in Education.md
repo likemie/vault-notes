@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 生成式教育智能体（Generative AI Agent in Education）
 > [[Generative Artificial Intelligence\|生成式人工智能]][[AI Agent in Education\|教育智能体]]（Generative Artificial Intelligence Agent in Education, GenAI Agent）是指以大语言模型（Large Language Models, LLM）及多模态生成模型为认知驱动中枢，具备环境情境感知、自主规划推理、动态知识检索与自适应内容生成能力的教育技术系统。不同于依赖预设决策树或静态规则的传统导师系统，生成式智能体能够理解学习者开放、非结构化的自然语言输入，并实时生成个性化解释、[[Socrates\|苏格拉底]]式追问、程序代码调试反馈与反思[[Scaffolding\|脚手架]]。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜

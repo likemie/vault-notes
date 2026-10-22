@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 吊灯里的巨蟒（Anaconda in the Chandelier）
 > 吊灯里的巨蟒（Anaconda in the Chandelier）是政治心理学与言论规训研究中的著名隐喻和分析范畴，由汉学家[[Perry Link|林培瑞]]（Perry Link）于 2002 年提出。该隐喻指一种基于心理威慑与预期模糊性的非机械化控制系统：审查权力如同盘踞在吊灯上的巨蟒，它无需频繁主动发起攻击，仅凭其隐秘而庞大的在场，便足以让下方的人群始终处于一种钝滞而根深蒂固的戒备与警惕（leeriness）之中，进而主动进行前置性的自我语言过滤与思想退缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 > [!concept-lens] 概念透镜

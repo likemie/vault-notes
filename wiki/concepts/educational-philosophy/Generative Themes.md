@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 生成性主题（Generative Themes）
 > **生成性主题（Generative Themes / *Temas Geradores*）**由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（*Pedagogy of the Oppressed*, 2000）中确立。它是[[Problem-Posing Education\|提问式教育]]的课程构建基石。指文化调查小组深入受教者社区提取的日常生存矛盾（如工资、房租、水资源、工作工具），这些主题能够引发探究好奇，并不断“生成”对社会压迫结构的深层批判意识。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 47, p. 61)]]
 
 > [!concept-lens] 概念透镜

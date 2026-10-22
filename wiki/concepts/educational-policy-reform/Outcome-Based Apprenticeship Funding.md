@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 结果导向学徒制资助机制（Outcome-Based Apprenticeship Funding）
 > **结果导向[[Apprenticeship|学徒制]]资助机制（Outcome-Based Apprenticeship Funding / Pay-for-Outcomes Apprenticeship Funding）** 是指由公共财政设立的新型职业教育与技能培训拨款模式，主张废除传统按照培训机构招生人数或课时量一次性前置拨付的输入型资助，转为依据经过独立核验的学徒真实录用上岗、薪资达标增长以及多期就业留任率等实质产出指标进行阶段性报销与绩效奖励。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
 
 > [!concept-lens] 概念透镜

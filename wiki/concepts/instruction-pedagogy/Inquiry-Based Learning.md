@@ -97,7 +97,7 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 探究式学习（Inquiry-Based Learning）
 > 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过假设提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜

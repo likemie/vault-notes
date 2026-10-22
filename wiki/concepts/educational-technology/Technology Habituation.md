@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 技术习惯化（Technology Habituation）
 > 技术[[Habituation\|习惯化]]（Technology Habituation）是由英国皇家学会《科学造福社会》（*Science for Society*）报告提出的前沿科技教育治理概念。它主张在基础教育（K-12）阶段，通过国家公共财政与研发机构的专项定向资助，使全体中小学生能够常态化、低门槛地亲身操作前沿数据赋能技术（如[[Generative Artificial Intelligence\|生成式人工智能]]、增强现实 AR、三维打印等现代先进制造），使其从高深冷峻的“神秘客”转化为如纸笔和计算器般习以为常的认知工具，从而在个体认知早期建立批判性理解，并从根本上破除社会对颠覆性技术的信任赤字与认知恐惧。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 76)]]
 
 > [!concept-lens] 概念透镜

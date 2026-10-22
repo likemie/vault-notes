@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 图形组织器（Graphic Organizer）
 > 图形组织器（Graphic Organizer, GO）是指通过空间排布、几何节点与可视化拓扑连线提取并表征关键信息及其内部逻辑关联的视觉教学与[[Scaffolding\|认知脚手架]]（如[[Mind Mapping\|思维导图]]、[[Concept Mapping\|概念图]]、[[Argument Mapping\|论证图]]、流程图、文氏图等）。在认知学习理论中，图形组织器利用空间隐喻（Spatial Metaphors）将抽象语义与逻辑层级具象化，有效卸载学习者在信息识别、提取与记忆等低阶思维（Lower-Order Thinking, LOT）过程中的[[Working Memory\|工作记忆]]负担，进而将有限的心智资源重新配置并聚焦于[[Higher-Order Thinking Skills\|高阶思维]]（Higher-Order Thinking, HOT）的倾向激发、认知加工与技能迁移。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜

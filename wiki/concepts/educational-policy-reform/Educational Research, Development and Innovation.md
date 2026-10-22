@@ -40,12 +40,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育研发与创新（Educational Research, Development and Innovation）
 > **教育研发与创新（Educational Research, Development and Innovation, RDI）** 指新加坡教育体系在国家层面建构的、以“研究者、政策制定者与实践者三方枢纽”（Nexus of Researchers, Policy Makers and Practitioners）为核心动力的一体化[[Knowledge Mobilisation\|知识动员]]与系统革新模式（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 134]]）。在该[[Paradigm\|范式]]下，新加坡教育部（Ministry of Education, MOE）主导设立国家教育研究资助计划（Education Research Funding Programme, ERFP）；南洋理工大学国立教育学院（National Institute of Education, NIE）及其教育研究办公室（Office of Education Research, OER）与教育研究中心（Centre for Research in Pedagogy and Practice, CRPP）承担高水平实证探究与教学原型开发；新加坡教师学院（Academy of Singapore Teachers, AST）与中小学校群则依托[[Professional Learning Community\|专业学习共同体]]，将经过检验的教学成果转化为课堂教学法与教师专业发展方案，从而实现实证知识在系统各层级的流动与转化。
 
 > [!concept-lens] 概念透镜

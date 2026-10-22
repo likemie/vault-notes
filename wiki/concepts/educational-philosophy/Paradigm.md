@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 范式（Paradigm）
 > 范式（Paradigm）由[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn, 1962, p. 23）最初界定为“一种被接受的模型或模式”（an accepted model or pattern）。更具体而言，范式是一个科学或学术研究共同体所共享的一整套看待与研究现象的方式、基本世界观、对何谓合法科学知识的共识、原则集合以及典型的[[Problem Solving|问题解决]]方案；它规定了该共同体应当探讨何种问题以及如何展开有效探究（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。在比较教育等社会科学领域，范式进一步指涉特定历史时期主导[[Knowledge Production|知识生产]]的[[Epistemology|认识论]]框架与方法论传统（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 92–94]]）。
 
 > [!concept-lens] 概念透镜

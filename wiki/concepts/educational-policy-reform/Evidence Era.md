@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 证据时代（Evidence Era）
 > 证据时代（Evidence Era）是由[[Ian Menter\|伊恩·门特]]（Ian Menter）与约·赫尔盖通（Jo B. Helgetun）提出的教育政策治理[[Paradigm\|范式]]概念（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）。该概念指出，当代教育政策的合法化模式已经超越了[[Gert Biesta\|格特·比斯塔]]（Gert Biesta）所概括的以大规模量化测验与审计文化为特征的测量时代（Age of Measurement），演进为一种更加复杂的技术治理范式：政策制定者不仅依赖统计数据，更广泛借助学术规范式引文、国际经验参考（如芬兰与新加坡经验）、医学化临床类比以及对[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）的推崇，将证据构建为全[[Champ\|场域]]不可动摇的主导性[[Rationalized Myth\|合理化神话]]。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91)]]
 
 > [!concept-lens] 概念透镜

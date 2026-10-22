@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 软钱聘任制（Soft-Money Faculty Model）
 > 软钱教职模式（Soft-Money Faculty Model）是指[[Research Universities|研究型大学]]或医学院在聘任学术与科研人员时，不提供稳定的机构预算硬钱（hard money）兜底，而是明确要求或常态化依赖教师通过申请外部竞争性科研基金（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 等项目拨款）来支付自身全部或大部分薪资（salary buyout）的雇佣机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 
 > [!concept-lens] 概念透镜

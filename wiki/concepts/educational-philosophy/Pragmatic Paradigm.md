@@ -99,7 +99,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义（从哲学层面到方法论层次的演进）
+> [!def] 实用主义（Pragmatic Paradigm）
 > 实用主义[[Paradigm|范式]]（Pragmatic Paradigm）包含逻辑与历史递进的两个层次：
 > 1. **哲学层面（古典哲学传统）** 首先起源于 Peirce、James、Mead 与 [[John Dewey|杜威]]，是一门关于经验连续性、[[Reflexivity|反思性]]探究、行动后果与民主重组的古典哲学体系，拒绝绝对形而上学与脱离情境的确定性真理。
 > 2. **方法论层次（研究方法论范式）** 随后由 Cherryholmes (1992)、Morgan (2007)、Denscombe (2008)、[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 等学者拓展，专指[[Mixed Methods Research|混合方法研究]]的哲学基础，主张以[[Research Question|研究问题]]为中心、以[[Fitness for Purpose|适合目的]]与实践效用为取向，超越纯量化与纯质性的范式对立。

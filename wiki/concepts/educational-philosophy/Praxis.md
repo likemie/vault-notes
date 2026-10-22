@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 实践哲学（Praxis）
 > 实践（Praxis / 实践哲学）在[[Critical Pedagogy|批判教育学]]与批判社会理论中，是指**批判性反思（Critical Reflection）与变革现实的自觉行动（Transformative Action）之间不可分割的辩证统一**。它拒斥将知识矮化为纯粹书斋式的经院思辨或技术官僚式的实用操作。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）的解放教育学脉络中，实践是学习者突破“[[Culture of Silence|沉默文化]]”与实现人性化的唯一载体（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 8, 10]]）；在安东尼奥·葛兰西（Antonio Gramsci）、让-保罗·萨特（Jean-Paul Sartre）与[[Daniel Bensaïd|丹尼尔·本赛德]]（Daniel Bensaïd）的马克思主义谱系中，实践哲学（Philosophy of Praxis）更进一步升华为一种将求实冷面的制度科学分析与炽热道德乌托邦融为一体、动员被压迫者建立广泛反抗联盟以重构国家与公共教育的总体性历史[[Epistemology|认识论]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 76–77, 85]]）。
 
 > [!concept-lens] 概念透镜

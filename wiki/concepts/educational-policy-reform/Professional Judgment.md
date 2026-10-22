@@ -125,7 +125,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 专业判断（Professional Judgment）
 > 专业判断（Professional Judgment）指教师与教育决策者在开放、复杂的教育情境中，基于专业知识、伦理价值、教学法原则与情境洞察，权衡多元信息并做出审慎决策的核心能力。在微观教学中，专业判断是[[Evidence-Informed Practice|证据知情实践]]（EIP）与[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（QURE）的多源证据整合枢纽；在宏观政策研制中，当既有实证研究供给不足或结论受限时，专业判断充当联结学科逻辑演绎、一线教学可行性论证与同行互信背书的制度性基石。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 129, 132)]]; [[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–141)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 19)]]
 
 > [!concept-lens] 概念透镜

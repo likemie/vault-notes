@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 认识依赖（Epistemic Dependence）
 > **认识依赖（Epistemic Dependence）** 是指认知主体在开展与知识相关的核心活动（包括获取信息、接收解释、综合多源文献、评估学术质量、选择理论诠释、消解[[Scientific Uncertainty\|认知不确定性]]以及为知识主张提供辩护）时，对外部知识源、社会专家或技术系统所形成的信赖与依托关系。在人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）特别是[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与大语言模型（Large Language Model, LLM）介入教育的语境下，认识依赖本身并不构成教育上的失败，而应区分为两种根本形态：**生产性认识依赖（Productive Epistemic Reliance）** 能够在人机交互中激发深入对比、显化证据不确定性并拓展学习者的协作审议能力；**有害性认识依赖（Harmful Epistemic Dependence）** 则将不可替代的[[Evaluative Judgement\|评价性判断]]委托给算法黑箱，剥离中间认识动作，导致学习者丧失独立复现推理与批判质疑的能力。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–5)]]
 
 > [!concept-lens] 概念透镜

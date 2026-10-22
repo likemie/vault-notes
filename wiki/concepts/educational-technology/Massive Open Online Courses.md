@@ -26,7 +26,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 慕课（Massive Open Online Courses）
 > 大规模开放在线课程（Massive Open Online Courses，简称慕课或 MOOCs）是指依托互联网平台面向公众开放、支持大规模学习者注册参与的数字化课程形态。该概念由戴夫·科米尔（Dave Cormier）与布赖恩·亚历山大（Bryan Alexander）于 2008 年提出，融合了开放教育资源与网络协作学习理念；在高等教育与职业教育国际化中，慕课作为跨国数字教育资源共享枢纽，支持跨时空协同教学、多语种资源共建与学分学时对接。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 299–300)]]
 
 > [!concept-lens] 概念透镜

@@ -102,7 +102,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学术自由（Academic Freedom）
 > **学术自由（Academic Freedom）** 指大学教职员工和学生在探索知识、追求学术兴趣、公开发表研究成果以及自主决定教学内容与学业评价方式上享有不受政治、商业或行政力量不当干预的法定与制度化自主权。它与客观性（Objectivity）共同构成现代大学体系的基石制度价值，赋予大学以思想、人才与创意自由流动的“高渗透性（Porous Nature）”，并在产学知识产权博弈、国家高教政策转译以及宏观治理模式对峙中充当核心制度交汇点。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 8–11)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 6, 26)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–690)]]
 
 > [!concept-lens] 概念透镜

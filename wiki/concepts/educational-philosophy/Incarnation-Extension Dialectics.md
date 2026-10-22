@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 具身-延展辩证法（Incarnation-Extension Dialectics）
 > **具身-延展辩证法（Incarnation-Extension Dialectics，又称具身化-扩展辩证法）** 是丹麦哲学家与教育学家[[Steen Nepper Larsen|斯滕·内珀·拉森]]（Steen Nepper Larsen）在批判可见学习与“[[Learnification|学习化]]”[[Paradigm|范式]]时提出的[[Phenomenology|现象学]]概念框架。该框架将人类学习界定为 **身体具身化（Incarnation）** 与 **向外延展（Extension）** 之间的双向循环运动：学习者将所学内容（知识、技艺与价值）具身化入有意识与无意识、可见与不可见的身体存在构型，进而通过这种身心综合拓展其在世界之中存在（being-in-the-world）的感知维度、行动自由与理解广度。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 9–10)]]
 
 > [!concept-lens] 概念透镜

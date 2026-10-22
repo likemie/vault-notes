@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 布莱克斯通比率（Blackstone's Ratio）
 > [[William Blackstone|布莱克斯通]]比率（Blackstone's Ratio）指 18 世纪英国法学家威廉·[[William Blackstone|布莱克斯通]]在《英国法释义》中提出的经典刑事法理准则——“宁可让十个有罪之人逃脱法网，也不可使一个无辜者遭受冤狱”（It is better that ten guilty persons escape than that one innocent suffer）；该原则确立了刑事司法对一类错误（[[Type I and Type II Errors|false positive]]，冤枉无辜）相比于二类错误（False Negative，漏网之鱼）的绝对不对称容忍阈值，构成了现代正当程序与疑罪从无理念的核心法理支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
 
 > [!concept-lens] 概念透镜

@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 边际效益假说（Marginal Gains Hypothesis）
 > 边际效益假说（Marginal Gains [[Hypothesis]] in Educational Technology）是指在教育技术干预与数字化学习研究中，由于初始教育资源分布的不均衡，在信息通信技术基础设施匮乏（低 ICT 水平）或学生家庭/区域[[Socioeconomic Status|社会经济地位]]脆弱（低 SES 背景）的环境中引入新兴教育技术工具，往往比在资源已高度饱和的成熟环境中产生显著更大的相对促学增量和边际附加价值（Added VALUE）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 6, 17–18)]]
 
 > [!concept-lens] 概念透镜

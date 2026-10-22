@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 基于实践的证据（Practice-Based Evidence）
 > 实践本位证据（Practice-Based Evidence, PBE）指教育实践者在真实教学现场生成的细粒度、情境化知识与微观过程数据。它区别于外部研究者在受控实验室或标准化测试中产出的去情境化结论，将一线教师确立为合法的证据生产主体；通过在具体教学情境中持续沉淀[[Phronesis\|实践智慧]]，形成性地支持教师专业学习、教学策略微调与学生学业成长。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]; [[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
 
 > [!concept-lens] 概念透镜

@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 驻校实践者项目（Practitioner-in-Residence）
 > **驻校实践者项目（Practitioner-in-Residence）** 与**国家工匠学者计划（National Craftsman Fellowship）** 是指由国家科技政策与高等教育机构联合设立的制度性师资与培养通道，旨在打破传统单一学术文凭阶梯垄断，选拔资深机械师、工艺专家与产线排障技师进驻[[Research Universities|研究型大学]]与国家实验室，赋予其正式教职身份、研究生联合指导权以及专利与论文的共同署名权，将车间操作与默会排障经验制度化融入尖端科学与工程训练体系。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 
 > [!concept-lens] 概念透镜

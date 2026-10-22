@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 人类命运共同体（Community of Shared Future for Mankind）
 > **人类命运共同体（Community of Shared Future for Mankind，早期译为 Community of Shared Destiny）** 是当代中国外交哲学、对外大战略与全球治理愿景的顶层叙事核心与全局性[[Social Imaginary|社会想象]]（Social Imaginary）。由中国最高决策层系统阐发并写入宪法序言与执政纲领，旨在倡导建立一个持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。在[[Discourse Analysis|话语分析]]与政策社会学视阈下，该概念构成了中国应对西方[[Washington Consensus|华盛顿共识]]失灵与全球治理赤字的替代性意识形态方案；在“[[Belt and Road Initiative|一带一路]]”倡议及跨国教育扩张中，它充当了核心的[[Policy Framing|激励性框架]]（Motivational Framing），通过强化[[South-South Cooperation|南南合作]]、文明互鉴与[[People-to-People Connectivity|民心相通]]等包容性修辞，赋予国家主导的对外战略行动以崇高的道德号召力与多边合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 684, 688–691)]]
 
 > [!concept-lens] 概念透镜

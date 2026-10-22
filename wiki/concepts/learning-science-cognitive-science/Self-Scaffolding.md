@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 自我脚手架（Self-Scaffolding）
 > 自我[[Scaffolding\|脚手架]]（Self-Scaffolding）是指认知主体在知识经验积累与表征能力成熟过程中，将曾经依赖教师、同伴或外在图示工具提供的外部支架（External Scaffolding）逐步内化为高度自适应的内在认知机制；个体能够自发在[[Working Memory\|工作记忆]]与长时记忆中调用空间隐喻、组织拓扑关系、自主设定子目标并监控复杂思维推理全过程，从而在无需外显实体工具辅助的情况下完成高阶[[Problem Solving\|问题解决]]与探究任务。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
 
 > [!concept-lens] 概念透镜

@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 深度学习新教学法（New Pedagogies for Deep Learning）
 > **深度学习新教学法（New Pedagogies for Deep Learning, NPDL）**，亦称**深度学习全球伙伴关系（NPDL Global）**，是指由加拿大教育学者[[Michael Fullan|迈克尔·富兰]]（[[Michael Fullan]]）等人在多伦多联合跨国科技企业（英特尔、微软、普罗米休斯）及[[OECD|经合组织]]（[[OECD]]）代表于 2012 年发起创立的专有教学法体系与跨国特许加盟网络。该倡议以 **6C [[21st Century Skills and Competencies Discourse|核心素养]]框架**与全系统变革工具套件为核心，声称通过重构学习环境与融入数字技术促进深度学习；在批判教育政策社会学视角下，它被定性为教育学者、跨国财团与[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）联手将公共教育大纲核心能力包装为排他性商业特许商标（Proprietary Brand），进而持续汲取国家公共教师研训预算的制度载体。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
 > [!concept-lens] 概念透镜

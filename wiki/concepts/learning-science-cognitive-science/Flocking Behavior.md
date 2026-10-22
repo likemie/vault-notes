@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 集群行为（Flocking Behavior）
 > **集群行为（Flocking Behavior）** 是指大量自主个体在完全缺乏中央指挥中枢或预设首领指令的条件下，依据局部感知与邻近个体间的交互规则，在空间运动中自发[[Emergence|涌现]]出高度有序、形态动态演化且具备极强自适应能力的全局协同运动[[Paradigm|范式]]。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化体系中，罗马椋鸟群飞的集群运动机制被提炼为高敏捷工程团队与现代分布式系统运作的物理学原型：复杂群体在遭遇外部天敌威胁或环境剧变时，无须等待自顶向下的指令层层下达，而是由处于群体边缘的最外围个体率先发起转向，并依托近邻无损拓扑传导实现亚秒级的全群自发协同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 
 > [!concept-lens] 概念透镜

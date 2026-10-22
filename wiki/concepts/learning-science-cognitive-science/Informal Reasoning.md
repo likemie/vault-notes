@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 非形式推理（Informal Reasoning）
 > 非形式推理（Informal Reasoning）是指个体在面对现实生活中开放、复杂、结构不良（ill-structured）且不存在预设唯一演算法的问题情境时，基于不完备的信息与多元冲突的证据，开展主张生成、证据评估、价值权衡与抗辩反驳的动态认知与审议过程。由詹姆斯·沃斯（James F. Voss, 1989）与特洛伊·[[Michael Sadler\|萨德勒]]（Troy D. Sadler, 2004）等学者系统界定，非形式推理与纯粹形式逻辑推理（Formal Reasoning）在受控前提下的封闭必然演绎截然不同，它深度统合了理性认知、直觉感知与伦理道德关怀，是现代公民审议[[Socioscientific Issues\|社会科学议题]]（Socioscientific Issues, SSI）并做出明智决策的核心认知基石。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–155)]]
 
 > [!concept-lens] 概念透镜

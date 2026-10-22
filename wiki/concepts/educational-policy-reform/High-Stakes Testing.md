@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 高风险测验（High-Stakes Testing）
 > **高利害测验（High-Stakes Testing，又称高风险测验）** 是指测验分数或评估结果被直接赋予对受试者、教师、学校或区域教育系统产生重大制度性后果（选拔分流、毕业认证、教师绩效评价、办学经费分配乃至学校关闭问责）的评估情境（Harlen, 1994）。高利害测验的核心特征在于“诸多重大利益取决于测验结果”（much hinges on the test results）；当高利害压力系统性向下传导时，它不仅产生将未测内容淘汰出课堂的回冲效应（Backwash Effect），更迫使教学活动从开放探究矮化为标准化的套路训练，与[[Generative Artificial Intelligence|生成式人工智能]]的全流程代写合谋加剧学习者的[[Formative Epistemic Injustice|成长性认识不正义]]与[[Epistemic Malformation|认知畸变]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.8 节)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 5–6)]]
 
 > [!concept-lens] 概念透镜

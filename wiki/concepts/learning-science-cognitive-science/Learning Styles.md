@@ -72,7 +72,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 学习风格（Learning Styles）
 > 学习风格（Learning Styles）是指学习者在感知、加工、理解和记忆信息过程中所表现出的持续、[[Habituation|习惯化]]且特异的个体偏好或认知模式（如视觉型 Visual、听觉型 Auditory、动觉型 Kinesthetic，即 VAK 模型）。该假说主张教学设计应当依据学生的风格类型进行适配（[[Matching]] [[Hypothesis]] 或 Meshing Hypothesis），以此最大化学业收益。然而，大量严格的实证检验与[[Meta-analysis|元分析]]证实该匹配假设缺乏科学依据，被现代教育学、认知心理学与神经科学界判定为流传甚广的“[[Neuromyth|教育神经神话]]（Neuromyth）”。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 111)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 95)]]
 
 > 在教师教育与科学传播讨论中，缺乏经验支持的感官通道匹配信念也被称为学习风格神话（Learning Style Myth，德语 Lerntypenmythos）。其传播可能影响教学资源配置、学生学习进度与教师对学业潜力的判断。[[Argument_Besa_2024_UW|(Besa, 2024, p. 252)]]

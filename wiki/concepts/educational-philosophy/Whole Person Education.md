@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-07
+updated: 2026-10-22
 ---
 
 ---
@@ -46,7 +46,7 @@ updated: 2026-10-07
 
 概念首先需要区分其教育目的与能够由课程制度直接规定的条件。
 
-> [!def] 核心定义
+> [!def] 全人教育（Whole Person Education）
 > 全人教育（Whole Person Education）以人的多方面能力及其相互联系为教育对象。[[Alec Peterson|亚历克·皮特森]]（Alec Peterson）把[[International Baccalaureate|国际文凭]]的总体目标概括为充分发展每个人理解、改变并享受内外环境的能力，同时覆盖物质、社会、道德、审美与精神层面。目标由三种人与环境的关系和五个经验领域交叉构成，课程需要把智识理解、创造行动、社会参与、审美经验和闲暇生活连接起来。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 33–34, 57–59)]]
 
 > [!concept-lens] 完整发展、课程用途与制度边界

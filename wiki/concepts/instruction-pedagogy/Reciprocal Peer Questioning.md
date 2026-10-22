@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 互惠同伴提问法（Reciprocal Peer Questioning）
 > 互惠同伴提问法（Reciprocal Peer Questioning, RPQ）是由 Alison King 开发的一种结构化同伴[[Dialogue in Education\|对话教学]]策略。教师向学生提供通用的高阶“提问句干”（Thought-Provoking Question Stems）作为[[Scaffolding\|认知脚手架]]，学生在自主阅读或讲授后，利用句干生成针对学习材料的深层问题，并在结对（Dyad）或小组中相互提问、阐明推理与辩护证据，从而实现知识的深层精细加工与[[Critical Thinking\|批判性思维]]发展。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 285)]]
 
 > [!concept-lens] 概念透镜

@@ -35,7 +35,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 评估研究（Evaluation Research）
 > 评估研究（Evaluation Research / Evaluative Research）是运用社会科学方法与实证测量工具，专门回答特定政策方案、干预项目或教学改革的有效性、因果归因与实施过程问题的应用研究分支（Plewis & Mason, 2005; Morrison, 1993）。它以回答委托方或决策系统给定的实践问题为导向，理论在研究中通常被作为解决现实问题的既定工具，较少将理论本身的普遍性作为首要审问对象（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, Ch. 3.1)]]）。在方法论与知识治理视阈，理查德·伯克（[[Argument_Berk_2011_EvalRev|Berk, 2011]]）进一步强调评估研究旨在为公共干预建立严谨的反事实因果推断证据，将可信政策事实与缺乏有效因果对照的经验断言明确区分开来。
 
 > [!concept-lens] 概念透镜

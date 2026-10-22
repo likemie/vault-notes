@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 道德二元论（Moral Dualism）
 > **道德二元论（Moral Dualism / 压迫者与被压迫者二元论）** 是政治哲学、伦理学与文化批评中的认知分析[[Paradigm|范式]]，指将复杂的社会结构、人类历史与地缘冲突简化为统治者与被统治者、压迫者与被压迫者（Dominants vs. Dominated / Oppressors vs. Oppressed）非黑即白的两极对立思维模式。该范式在[[Epistemology|认识论]]上往往陷入一种道德屈尊（moral condescension）：机械地将无权与弱势等同于崇高与无罪，不仅否定了处于从属地位群体作为道德主体的独立责任与施恶潜能，而且在国际安全与技术治理领域构筑了一种将任何国家强制防御与技术威慑一概斥为原罪的绝对和平主义叙事。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 53–54)]]
 
 > [!concept-lens] 概念透镜

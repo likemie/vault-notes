@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 唯意志论（Voluntarism）
 > **唯意志论（Voluntarism）**，亦称**唯意志主义**，是社会科学哲学主客观[[Analytic Framework\|分析框架]]中关于“人性本质（human nature）”的两大对立[[Ontology\|本体论]]公设之一（Burrell & Morgan, 1979, p. 8）。该假设坚决否定人类行为是外部环境刺激或内在生理驱力的被动机械反应，主张人类是自身行动的自主发起者（initiators of their own actions），具备自由意志（free will）、自我反思与[[Intentionality|意向性]][[Creativity\|创造力]]；人在能动地理解、赋予世界意义并与他人交互的过程中，积极地生产和改造其所处的社会环境，而非环境的被动适应物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 8)]]
 
 > [!concept-lens] 概念透镜

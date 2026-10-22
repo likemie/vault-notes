@@ -128,7 +128,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 证据知情实践（Evidence-Informed Practice）
 > 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment\|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation\|知识动员]]支撑，实现对适切研究证据的审慎参与与常态化实施。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–185)]]
 
 > [!concept-lens] 概念透镜

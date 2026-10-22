@@ -180,7 +180,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 证据本位教育（Evidence-Based Education）
 > 证据本位教育（Evidence-Based Education, EBE，亦称循证教育）主张教育专业实践与公共政策制定必须以严格实证研究（尤其是[[Randomised Controlled Trials|随机对照试验]]与[[Systematic Review|系统综述]]）确立的因果有效性证据为核心基础。该运动受循证医学（Evidence-Based Medicine, EBM）启发而兴起，核心关注什么有效（what works）的经验识别；然而这一取向关于实验因果外推、知识去情境化、[[Professional Judgment|专业判断]]自主性以及教育价值正当性的基本假定，在国际学术界激发了持续而深刻的理论争鸣。[[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]]; [[Argument_Biesta_2010_SPE|Biesta, 2010, p. 491]]; [[Argument_Terhart_2011_JCS|Terhart, 2011, p. 426]]
 
 > [!concept-lens] 概念透镜

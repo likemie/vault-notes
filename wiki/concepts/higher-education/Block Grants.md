@@ -46,12 +46,12 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 整笔拨款（Block Grants）
 > 整笔拨款（Block Grants / Lump-sum Funding），又称总额预算或一揽子拨款，指中央政府或上级拨款机关向高等院校、学区或科研机构下达的、不限定微观支出细项用途的打包性财政补助。受资助机构在符合国家宏观法规与办学任务的前提下，享有将经费在教学、人员薪酬、设备采购与校舍维护之间自主统筹调配与跨年度结转的完全财务裁量权。它构成了现代公共部门去规制化以及[[Steering at a Distance|远距离操纵]]公共治理新[[Paradigm|范式]]的核心财政支柱。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140, 146)]]
 
 > [!concept-lens] 概念透镜

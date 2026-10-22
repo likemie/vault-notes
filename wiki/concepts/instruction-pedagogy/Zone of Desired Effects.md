@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 期望效应区（Zone of Desired Effects）
 > **期望效应区（Zone of Desired Effects）** 是新西兰学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的核心量化分界标准，指教育干预或影响因素的[[Effect Size|效应量]]达到或超过 $d \ge 0.40$ 的区间。哈蒂将 $d = 0.40$ 设定为**铰接点（Hinge Point）**，假托其代表学生在一整年中不加额外特殊干预时的典型学业成长与常态教师教学的复合平均进展，并以此作为甄别教育策略是否真正具备推广价值的刚性门槛。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 
 > [!concept-lens] 概念透镜

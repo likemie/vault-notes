@@ -41,7 +41,7 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 经济和工业间谍（Economic and Industrial Espionage）
 > 经济间谍（economic espionage）和工业间谍（industrial espionage）在实务中常混用，但一些学者作出了区分：工业间谍指企业为商业目的针对竞争对手进行的活动；经济间谍指由外国政府主导或代理、出于非纯粹商业目的在经济领域进行的间谍活动（[[Argument_Glitz_2020_AmEconRev\|Glitz & Meyersson, 2020, p.1055 fn.1]]）。在美国法律中，《经济间谍法》（Economic Espionage Act of 1996）将经济间谍定义为"以意图或明知该行为将使任何外国政府、外国机构或外国代理人受益的方式，盗窃或侵占商业秘密"。
 
 > [!concept-lens] 概念透镜

@@ -161,14 +161,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ## 定义
 
 实证主义（Positivism）是近代西方哲学与社会科学研究方法论中最具支配地位的[[Epistemology|认识论]][[Paradigm|范式]]之一，其核心主张在于将客观可证的感官经验视作一切有效知识的唯一基石。
 
-> [!def] 核心定义
+> [!def] 实证主义（Positivism）
 > 实证主义（Positivism）是一种主张人类所有真正的知识都必须基于感官经验、系统观察与受控实验的哲学[[Epistemic Stances\|认识论立场]]。它坚决扬弃神学玄想与形而上学的第一因思辨，将自然科学的探究规范确立为人类知识的典范（Duncan, 1968）。实证主义不仅预设外部物理世界具有独立于观察者的客观规律，更坚信人类社会现象同样服从不可逆的[[Determinism\|因果决定论]]法则，因而可以通过客观测量与归纳推演建立普遍的实证定律。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 113)]]
 
 在教育探究与社会[[Scientific Method|科学方法]]论中，实证主义构成了连接微观测量与宏观政策设计的认知基础。
