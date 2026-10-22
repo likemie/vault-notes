@@ -2278,6 +2278,16 @@
     ]
   },
   {
+    "title": "Emergent Talents",
+    "type": "concept",
+    "path": "wiki/concepts/competency-and-assessment/Emergent Talents.md",
+    "aliases": [
+      "新质人才",
+      "创新型复合技术技能人才",
+      "顶尖技术技能人才"
+    ]
+  },
+  {
     "title": "Evaluative Judgement",
     "type": "concept",
     "path": "wiki/concepts/competency-and-assessment/Evaluative Judgement.md",
@@ -6044,6 +6054,17 @@
     ]
   },
   {
+    "title": "Industry-Education Integration Community",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Industry-Education Integration Community.md",
+    "aliases": [
+      "行业产教融合共同体",
+      "产教融合共同体",
+      "跨区域产教共生生态圈",
+      "Sectoral Industry-Education Integration Community"
+    ]
+  },
+  {
     "title": "Initial Teacher Training",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Initial Teacher Training.md",
@@ -6556,6 +6577,16 @@
     "path": "wiki/concepts/educational-policy-reform/Recommendations for Practice.md",
     "aliases": [
       "实践建议"
+    ]
+  },
+  {
+    "title": "Regulatory Impact Analysis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Regulatory Impact Analysis.md",
+    "aliases": [
+      "规制影响分析",
+      "规制影响评估",
+      "Regulatory Impact Assessment"
     ]
   },
   {
@@ -31648,6 +31679,15 @@
     ]
   },
   {
+    "title": "Center for Research on Chinese-ASEAN Vocational Education",
+    "type": "fact",
+    "path": "wiki/facts/china/Center for Research on Chinese-ASEAN Vocational Education.md",
+    "aliases": [
+      "中国—东盟职业教育研究中心",
+      "CCAVEC"
+    ]
+  },
+  {
     "title": "China Scholarship Council",
     "type": "fact",
     "path": "wiki/facts/china/China Scholarship Council.md",
@@ -31656,6 +31696,16 @@
       "国家留学基金委",
       "留基委",
       "CSC"
+    ]
+  },
+  {
+    "title": "China-ASEAN Federation for Vocational Education",
+    "type": "fact",
+    "path": "wiki/facts/china/China-ASEAN Federation for Vocational Education.md",
+    "aliases": [
+      "中国—东盟职业教育联合会",
+      "CAFEV",
+      "China-ASEAN Vocational Education Federation"
     ]
   },
   {
@@ -31984,6 +32034,16 @@
       "中国—东盟教育交流周",
       "东盟教育交流周",
       "CAECW"
+    ]
+  },
+  {
+    "title": "Chinese-ASEAN Modern Craftsmanship Institute",
+    "type": "fact",
+    "path": "wiki/facts/china/Chinese-ASEAN Modern Craftsmanship Institute.md",
+    "aliases": [
+      "中国—东盟现代工匠学院",
+      "现代工匠学院",
+      "Modern Craftsmanship Institute"
     ]
   },
   {
@@ -34865,6 +34925,15 @@
       "韩国创新政策体系",
       "Korea Innovation Policy",
       "韩国科技立国"
+    ]
+  },
+  {
+    "title": "Regional Comprehensive Economic Partnership",
+    "type": "fact",
+    "path": "wiki/facts/multi/Regional Comprehensive Economic Partnership.md",
+    "aliases": [
+      "区域全面经济伙伴关系协定",
+      "RCEP"
     ]
   },
   {

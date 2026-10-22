@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Class Size",
-      "path": "wiki/concepts/educational-policy-reform/Class Size.md"
+      "basename": "Regulatory Impact Analysis",
+      "path": "wiki/concepts/educational-policy-reform/Regulatory Impact Analysis.md"
     },
     {
       "basename": "Argument_Wang_Liang_Chen_2025_CES",
       "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
+    },
+    {
+      "basename": "Class Size",
+      "path": "wiki/concepts/educational-policy-reform/Class Size.md"
     },
     {
       "basename": "Academic Achievement",
@@ -195,10 +199,6 @@
     {
       "basename": "template-fact-program",
       "path": "wiki/templates/template-fact-program.md"
-    },
-    {
-      "basename": "template-school",
-      "path": "wiki/templates/template-school.md"
     }
   ],
   "omittedPaths": [],
