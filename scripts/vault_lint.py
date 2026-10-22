@@ -3144,9 +3144,17 @@ def argument_self_parenthetical_aliases(path: Path, fm: Optional[str], data: Dic
     if m:
         targets.add(m.group(1).strip())
     for target in targets:
-        aliases.update(a for a in (argument_citations.get(target) or {}).get("aliases", []) if isinstance(a, str))
+        info = argument_citations.get(target) or {}
+        aliases.update(a for a in info.get("aliases", []) if isinstance(a, str))
+        stem = info.get("citation_stem")
+        if isinstance(stem, str) and stem.strip():
+            aliases.add(stem.strip())
     # Narrative forms ("Ball (2008)") are not parenthetical citations.
-    return {_norm_citation_text(a) for a in aliases if a.strip() and not re.search(r"[（(）)]", a)}
+    result = {_norm_citation_text(a) for a in aliases if a.strip() and not re.search(r"[（(）)]", a)}
+    for a in list(result):
+        stem = re.sub(r"(\b\d{4})[a-z]\b", r"\1", a)
+        result.add(stem)
+    return result
 
 
 SELF_PREFIX_RE = re.compile(r"^(?:据|基于|根据|nach|based on|adapted from)\s*", re.IGNORECASE)
@@ -3154,7 +3162,7 @@ CITED_IN_RE = re.compile(r"[,，]?\s*(?:(?:as\s+)?(?:cited|quoted)\s+in|引用�
 
 
 def _self_alias_locator(segment: str, aliases: Set[str]) -> Optional[str]:
-    """'' if the segment is a bare self alias, the page locator if alias + pages, else None.
+    r"""'' if the segment is a bare self alias, the page locator if alias + pages, else None.
     A leading "|" / "\|" is residue of a removed self-wikilink "[[Argument_…|";
     "据 / 基于 / Nach / Adapted from …" prefixes still cite this source."""
     norm = _norm_citation_text(re.sub(r"^[\s\\|]+", "", segment))
@@ -3167,7 +3175,7 @@ def _self_alias_locator(segment: str, aliases: Set[str]) -> Optional[str]:
             if loc:
                 pages = re.sub(r"\s+", "", loc.group(2)).replace("-", "–").replace("—", "–")
                 pages = re.sub(r",(?=\d)", ", ", pages)
-                return f"{loc.group(1).lower()}.{pages}"
+                return f"{loc.group(1).lower()}. {pages}"
     return None
 
 
@@ -3899,6 +3907,40 @@ def fix_alias_title_duplicates(text: str) -> Tuple[str, int]:
     return text.replace(fm, new_fm, 1), removed
 
 
+def fix_argument_raw_self_aliases(path: Path, text: str, argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[str, int]:
+    """Rewrite parenthetical self-citations in Argument pages to page locators (ARGUMENT_RAW_SELF_ALIAS)."""
+    if not is_wiki_entry_path(path):
+        return text, 0
+    fm, body, _ = split_frontmatter(text)
+    if fm is None:
+        return text, 0
+    data = entry_metadata(path)
+    if not is_argument_entry(data):
+        return text, 0
+    aliases = argument_self_parenthetical_aliases(path, fm, data or {}, argument_citations)
+    if not aliases:
+        return text, 0
+    src = _SOURCE_SECTION_RE.search(body)
+    head, tail = (body[:src.start()], body[src.start():]) if src else (body, "")
+    scan = strip_existing_wikilinks(mask_markdown_code(head))
+    edits: List[Tuple[int, int, str]] = []
+    for m in PAREN_GROUP_RE.finditer(scan):
+        res = self_alias_rewrite(m.group(0), aliases)
+        if res is None:
+            continue
+        replacement, _ = res
+        start, end = m.start(), m.end()
+        if not replacement:
+            while start > 0 and head[start - 1] in " \t":
+                start -= 1
+        edits.append((start, end, replacement))
+    if not edits:
+        return text, 0
+    for start, end, repl in sorted(edits, key=lambda x: x[0], reverse=True):
+        head = head[:start] + repl + head[end:]
+    return text[: len(text) - len(body)] + head + tail, len(edits)
+
+
 def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[int, int]:
     changed_files = 0
     total = 0
@@ -3926,7 +3968,8 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
             new_text, n5 = fix_citation_link_displays(new_text, argument_citations)
             new_text, n6 = fix_alias_title_duplicates(new_text)
             new_text, n7 = fix_duplicate_parenthetical_links(new_text)
-            n6 += n7
+            new_text, n8 = fix_argument_raw_self_aliases(path, new_text, argument_citations)
+            n6 += n7 + n8
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             changed_files += 1
