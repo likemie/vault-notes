@@ -9,7 +9,9 @@ Default behavior:
   1. Scan citation-eligible Argument pages.
   2. Generate expected citation_aliases from authors + year.
   3. Remove legacy citation_stem/citation_suffix/citation_key/citation_short.
-  4. Write citation/citation_full.json and citation/citation_ambiguous.json.
+  4. Write citation/citation_full.json and citation/citation_ambiguous.json
+     (same author-year groups with their APA 7 disambiguation rule, plus
+     external author-year collisions recorded by scripts/metax_sync.py).
 
 This script does not link body text. Use scripts/wiki_linker.py sync --citations-only for that.
 """
@@ -22,7 +24,7 @@ import os
 import re
 import subprocess
 import unicodedata
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
@@ -161,6 +163,8 @@ class ArgumentCitation:
     source_language: str
     base_aliases: list[str]
     aliases: list[str]
+    rule: str = ""
+    apa7_aliases: list[str] = field(default_factory=list)
 
     @property
     def rel_path(self) -> str:
@@ -455,19 +459,107 @@ def load_arguments() -> tuple[list[ArgumentCitation], list[InheritedBookChapter]
     return items, inherited_chapters
 
 
-def assign_suffixes(items: list[ArgumentCitation]) -> None:
+# Same-surname / et al. disambiguation (APA 7, 8.18 and 8.20).
+#
+# Works that share a base short cite ("Zhang et al., 2022") are told apart in
+# this order: (1) first authors who are different people with the same surname
+# get their initials ("J. Zhang et al."); (2) different co-author lists that
+# collapse to the same "et al." form list as many names as needed
+# ("Kim, Lee, et al."); (3) only identical author lists fall back to a/b year
+# suffixes. The recommended form is always written to citation_ambiguous.json
+# (`rule`, `apa7_aliases`). It replaces the a/b suffix in `citation_aliases`
+# only when APA7_DISAMBIGUATION is True or `--apa7` is passed, because the
+# switch rewrites existing citation displays across the vault.
+APA7_DISAMBIGUATION = False
+
+
+def surname_initials(author: str) -> tuple[str, str]:
+    disp = re.sub(r"\s+", " ", display_from_wikilink(author)).strip()
+    if "," in disp:
+        surname, initials = disp.split(",", 1)
+        return surname.strip(), initials.strip()
+    return disp, ""
+
+
+def expanded_part(authors: list[str], shown: int) -> str:
+    labels = [author_label(a) for a in authors if author_label(a)]
+    if len(labels) <= 2 or shown <= 1:
+        return author_part(authors)
+    if shown >= len(labels):
+        return ", ".join(labels[:-1]) + ", & " + labels[-1]
+    return ", ".join(labels[:shown]) + ", et al."
+
+
+def apa7_plan(group: list[ArgumentCitation]) -> dict[int, tuple[str, str, bool]]:
+    """Return {id(item): (author_part, rule, needs_suffix)} for one base-alias group."""
+    plan: dict[int, tuple[str, str, bool]] = {}
+    if any(item.source_language == "zh" for item in group):
+        for item in group:
+            plan[id(item)] = (author_part(item.authors), "suffix", True)
+        return plan
+    by_initials: dict[str, list[ArgumentCitation]] = {}
+    for item in group:
+        _, initials = surname_initials(item.authors[0]) if item.authors else ("", "")
+        by_initials.setdefault(re.sub(r"[\s.]", "", initials).casefold(), []).append(item)
+    use_initials = len(by_initials) > 1
+    for sub in by_initials.values():
+        prefix = ""
+        if use_initials and sub[0].authors:
+            prefix = surname_initials(sub[0].authors[0])[1] + " "
+        rule = "initials" if use_initials else ""
+        if len(sub) == 1:
+            plan[id(sub[0])] = (prefix + author_part(sub[0].authors), rule or "suffix", False)
+            continue
+        labels = {id(i): [author_label(a) for a in i.authors if author_label(a)] for i in sub}
+        longest = max(len(v) for v in labels.values())
+        unresolved = list(sub)
+        for shown in range(2, longest + 1):
+            buckets: dict[tuple, list[ArgumentCitation]] = {}
+            for item in unresolved:
+                buckets.setdefault(tuple(labels[id(item)][:shown]), []).append(item)
+            still = []
+            for members in buckets.values():
+                if len(members) == 1 and len(buckets) > 1:
+                    item = members[0]
+                    plan[id(item)] = (prefix + expanded_part(item.authors, shown), "authors", False)
+                else:
+                    still.extend(members)
+            unresolved = still
+            if not unresolved:
+                break
+        for item in unresolved:
+            plan[id(item)] = (prefix + author_part(item.authors), rule or "suffix", True)
+    return plan
+
+
+def assign_suffixes(items: list[ArgumentCitation], apa7: bool | None = None) -> None:
+    apa7 = APA7_DISAMBIGUATION if apa7 is None else apa7
     groups: dict[str, list[ArgumentCitation]] = {}
     for item in items:
         groups.setdefault(item.base_key, []).append(item)
     for group in groups.values():
         if len(group) == 1:
             group[0].aliases = group[0].base_aliases
+            group[0].rule, group[0].apa7_aliases = "", []
             continue
         ordered = sorted(group, key=lambda x: (x.citation, x.title, x.rel_path))
+        plan = apa7_plan(ordered)
+        # a/b suffixes are assigned only among works whose recommended part still collides.
+        suffix_groups: dict[str, list[ArgumentCitation]] = {}
+        for item in ordered:
+            part, _, needs = plan[id(item)]
+            if needs:
+                suffix_groups.setdefault(part, []).append(item)
+        suffix_of = {id(i): chr(ord("a") + n) for members in suffix_groups.values() for n, i in enumerate(members)}
         for idx, item in enumerate(ordered):
-            suffix = chr(ord("a") + idx)
-            year = f"{item.year}{suffix}"
-            item.aliases = aliases_for(item.authors, year, item.citation, item.source_language)
+            part, rule, needs = plan[id(item)]
+            item.rule = rule
+            item.apa7_aliases = aliases_for_parts([part], f"{item.year}{suffix_of.get(id(item), '')}") if item.source_language != "zh" else []
+            if apa7 and item.source_language != "zh":
+                item.aliases = item.apa7_aliases
+            else:
+                suffix = chr(ord("a") + idx)
+                item.aliases = aliases_for(item.authors, f"{item.year}{suffix}", item.citation, item.source_language)
 
 
 def yaml_quote(value: str) -> str:
@@ -591,8 +683,47 @@ def build_indexes(items: list[ArgumentCitation]) -> tuple[dict[str, Any], dict[s
         groups.setdefault(item.base_key, []).append(item)
     for base_key, group in sorted(groups.items()):
         if len(group) > 1:
-            ambiguous["items"][base_key] = [item.json_entry() for item in sorted(group, key=lambda x: x.aliases[0])]
+            ambiguous["items"][base_key] = [
+                {**item.json_entry(), "rule": item.rule, "apa7_aliases": item.apa7_aliases}
+                for item in sorted(group, key=lambda x: x.aliases[0])
+            ]
+    external = external_collisions(items)
+    if external:
+        ambiguous["external"] = external
     return full, ambiguous
+
+
+METAX_JSON = ROOT / "metax/metax.json"
+
+
+def external_collisions(items: list[ArgumentCitation]) -> dict[str, Any]:
+    """Works outside the vault (currently Visible Learning MetaX) whose first author
+    and year equal an Argument's but whose title differs. They must never be linked
+    to that Argument by author-year; see scripts/metax_sync.py."""
+    if not METAX_JSON.exists():
+        return {}
+    try:
+        studies = json.loads(METAX_JSON.read_text(encoding="utf-8")).get("studies", {})
+    except (OSError, ValueError):
+        return {}
+    by_target = {item.target: item for item in items}
+    out: dict[str, Any] = {}
+    for sid, st in sorted(studies.items()):
+        if st.get("match") not in {"collision", "review"}:
+            continue
+        item = by_target.get(st.get("collides_with", ""))
+        if item is None:
+            continue
+        out.setdefault(item.base_key, {"argument": item.target, "aliases": item.aliases, "external": []})["external"].append({
+            "source": "metax",
+            "id": sid,
+            "status": st["match"],
+            "apa": st.get("apa", ""),
+            "authors": st.get("authors_raw", ""),
+            "year": st.get("year", ""),
+            "title": st.get("title", ""),
+        })
+    return out
 
 
 def write_json(full: dict[str, Any], ambiguous: dict[str, Any], dry_run: bool) -> None:
@@ -650,6 +781,7 @@ def main() -> int:
     journal_mode.add_argument("--journals-check", action="store_true", help="Check only journal registry and article filename codes without writing.")
     journal_mode.add_argument("--register-journal", nargs=2, metavar=("JOURNAL", "CODE"), help="Register an explicit unique journal code and validate journal filenames.")
     parser.add_argument("--base", help="Git baseline for journal filename compatibility (defaults to HEAD).")
+    parser.add_argument("--apa7", action="store_true", help="Use APA 7 same-surname / et al. disambiguation instead of a/b suffixes (see APA7_DISAMBIGUATION).")
     args = parser.parse_args()
     if (args.journals_check or args.register_journal) and (args.check or args.dry_run or args.full):
         parser.error("journal-only options cannot be combined with citation indexing options")
@@ -660,7 +792,7 @@ def main() -> int:
         return code
 
     items, inherited_chapters = load_arguments()
-    assign_suffixes(items)
+    assign_suffixes(items, apa7=True if args.apa7 else None)
     print(f"📚 citation-eligible arguments: {len(items)}")
     print(f"📖 inherited book chapters: {len(inherited_chapters)}")
 

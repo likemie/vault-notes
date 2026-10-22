@@ -22508,3 +22508,112 @@ body .callout.callout.callout:is([data-callout="quote"], [data-callout="cite"]):
 
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]):not(.is-collapsible) > .callout-title { display: none !important; }
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-content { margin-top: 0 !important; }
+
+/* ── 12 · Visible Learning MetaX 模块（2026-10-22） ───────────────────
+   [!metax] 总览 / [!metax-ma] 元分析明细 / [!metax-errata] 勘误。
+   眉标与表头文字全部由 CSS 生成：Markdown 中表头只写代号
+   （dom sub impact ma k n m d rob / ref var k n m d e），
+   因此“变量、元分析、效应量”等词不进入正文，也不会被补链。 */
+.callout[data-callout="metax"] { --callout-color: 15, 118, 110; --callout-icon: lucide-bar-chart-3; }
+.callout[data-callout="metax-ma"] { --callout-color: 15, 118, 110; --callout-icon: lucide-list; }
+.callout[data-callout="metax-errata"] { --callout-color: 190, 112, 34; --callout-icon: lucide-alert-triangle; }
+
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) {
+  padding: 1rem 1.1rem 1.1rem !important;
+  background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
+  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
+  border-radius: 10px !important; box-shadow: none !important;
+}
+body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) {
+  margin: .9rem 0 0 !important; padding: .75rem .9rem .85rem !important;
+  background: var(--ac-raised, var(--background-primary)) !important;
+}
+body .callout.callout.callout[data-callout="metax-errata"] {
+  border-left: 3px solid rgb(190, 112, 34) !important;
+}
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::before,
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::after { display: none !important; }
+
+/* 标题：眉标（短横 + 全大写小字）→ 衬线标题 */
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title {
+  padding: 0 !important; margin: 0 0 .7rem; background: none !important; border: 0 !important;
+  box-shadow: none !important; align-items: flex-start; gap: .5rem;
+}
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]).is-collapsed > .callout-title { margin-bottom: 0; }
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-icon { display: none; }
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
+  font-family: var(--ac-serif, Georgia, serif); font-size: 1.1em; font-weight: 500; line-height: 1.45;
+  color: var(--text-normal) !important; letter-spacing: 0;
+}
+body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
+  font-family: var(--ac-mono, ui-monospace, monospace); font-size: .95em; font-variant-numeric: tabular-nums;
+}
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
+  display: block !important; width: max-content; margin: 0 0 .35rem !important; padding: 0 0 0 20px !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
+  background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 12px 2px no-repeat !important;
+  color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, sans-serif); font-size: .62rem !important;
+  font-weight: 650 !important; letter-spacing: .14em !important; line-height: 1.5; text-transform: uppercase; animation: none !important;
+}
+body .callout.callout.callout[data-callout="metax"] > .callout-title .callout-title-inner::before { content: "Visible Learning MetaX" !important; }
+body .callout.callout.callout[data-callout="metax-ma"] > .callout-title .callout-title-inner::before { content: "Meta-analyses · 元分析明细" !important; }
+body .callout.callout.callout[data-callout="metax-errata"] > .callout-title .callout-title-inner::before { content: "Errata · 勘误" !important; }
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-content {
+  padding: 0 !important; background: none !important; overflow-x: auto !important;
+}
+
+/* 表格：纸面白底、仅横向分隔线、等宽数字 */
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content table {
+  width: 100% !important; min-width: 0 !important; margin: 0 !important; font-size: .88em;
+  border-collapse: collapse; background: var(--ac-raised, var(--background-primary)) !important;
+}
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(th, td) {
+  padding: .45rem .65rem !important; border-left: 0 !important; border-right: 0 !important;
+  border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important;
+  vertical-align: top; line-height: 1.55; white-space: nowrap !important; min-width: 0 !important;
+  font-variant-numeric: tabular-nums;
+}
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(th, td):is(:nth-child(1), :nth-child(2)) { white-space: normal !important; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content td:nth-child(3) { white-space: normal !important; min-width: 12em !important; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content td:nth-child(3) { white-space: nowrap !important; min-width: 0 !important; }
+body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:first-child { min-width: 11em !important; font-weight: 550; }
+body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:nth-child(2) { min-width: 10em !important; color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content td:nth-child(n+4) { text-align: right; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content td:nth-child(8),
+body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:nth-child(6) { font-weight: 650; color: var(--text-normal); }
+body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:nth-child(7) { color: rgb(190, 112, 34); text-align: center; }
+
+/* 表头：隐藏 Markdown 代号，显示 CSS 标签 */
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content th {
+  font-size: 0 !important; color: transparent !important; background: none !important; text-align: left;
+  border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
+}
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content th * { font-size: 0 !important; color: transparent !important; }
+body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content th::before {
+  font-size: .72rem; font-weight: 600; letter-spacing: .02em; color: var(--ac-muted, var(--text-muted));
+}
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(1)::before { content: "领域"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(2)::before { content: "子领域"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(3)::before { content: "影响判定"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(4)::before { content: "元分析数"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(5)::before { content: "研究数"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(6)::before { content: "学生数"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(7)::before { content: "效应数"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(8)::before { content: "加权平均效应量"; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(9)::before { content: "稳健性"; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(1)::before { content: "文献"; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(2)::before { content: "变量"; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(3)::before { content: "研究数"; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(4)::before { content: "学生数"; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(5)::before { content: "效应数"; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(6)::before { content: "效应量"; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(7)::before { content: "勘误"; }
+
+/* 勘误列表 */
+body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul { margin: 0 !important; padding-left: 0 !important; }
+body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li {
+  list-style: none !important; padding: .4rem 0 !important; font-size: .9em; line-height: 1.65;
+  border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border));
+}
+body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li:last-child { border-bottom: 0; }
+body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li > strong { color: rgb(190, 112, 34); font-weight: 650; }

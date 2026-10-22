@@ -3881,6 +3881,7 @@ def start_gate_checks() -> List[Tuple[str, str, str, "subprocess.Popen[str]"]]:
     checks = [
         ("INDEX_STALE", "wiki/index.json", "run: python3 scripts/vault_index.py", ["scripts/wiki_index.py", "--check"]),
         ("CITATION_INDEX_STALE", "citation/citation_full.json", "run: python3 scripts/vault_index.py", ["scripts/citation_index.py", "--check"]),
+        ("METAX_STALE", "metax/metax.json", "run: python3 scripts/vault_index.py", ["scripts/metax_sync.py", "sync", "--check"]),
     ]
     env = dict(os.environ, **{GATE_SKIP_ENV: "1"})
     started = []

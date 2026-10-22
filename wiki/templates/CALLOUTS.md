@@ -46,6 +46,10 @@ updated: 2026-10-21
 
 - CSS 位置：`argument-callouts.css` 末尾 `11 Component designs` 段，由 `tmp/callout-design-backup-v4/gen.py` 生成。新增组件时把名字加进对应形态的列表即可获得整套样式。
 
+### 12 · Visible Learning MetaX 模块（2026-10-22）
+
+`[!metax]` 总览、`[!metax-ma]` 元分析明细、`[!metax-errata]` 勘误，均由 `scripts/metax_sync.py` 生成。眉标（VISIBLE LEARNING METAX / META-ANALYSES / ERRATA）和表头中文全部由 CSS `content` 生成，Markdown 表头只写代号，因此“变量、元分析、效应量”等词不进入正文。三者整块受 `wiki_linker.py` 保护，不参与补链。CSS 位置：`argument-callouts.css` 末尾 `12 · Visible Learning MetaX` 段。
+
 ## 视觉系统 v3 · Prismatic study
 
 在原有丰富组件的基础上，按语义分别设计材质与层次；保留徽章、水印、渐变、计数器、时间轴和悬停反馈。
@@ -235,6 +239,7 @@ updated: 2026-10-21
 | 效应量 / d = / N = / 比例 / 关键统计数字 | `[!stat-cards]` |
 | 证据列表 / 支持证据并列 | `[!evidence-grid]` |
 | 元分析 / meta-analysis / 跨研究汇总 d 值 | `[!ma-table]-` |
+| Visible Learning MetaX 因素数据（脚本生成，勿手写） | `[!metax]` + `[!metax-ma]-` + `[!metax-errata]`，见 `template-metax.md` |
 | 效应量汇总表（含前测后测 CI） | `[!effect-table]-` |
 | 主要发现 + 结论合并 / 影响 / 成效 | `[!success]` |
 

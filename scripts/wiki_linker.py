@@ -899,7 +899,8 @@ def split_protected_spans(text: str, protect_wikilinks: bool = True) -> list[tup
 
     Protected chunks are not edited. This avoids frontmatter/body handled elsewhere,
     code blocks, headings, quote callouts, HTML, URLs/DOIs, Markdown links,
-    existing wikilinks, and embeds. Non-quote Obsidian callouts remain linkable.
+    existing wikilinks, and embeds. Other Obsidian callouts remain linkable;
+    generated [!metax*] callouts are protected like quote callouts.
 
     `protect_wikilinks=False` is used by normalize_bold_heading_style(). Ordinary
     (non-Argument) wikilinks are left unprotected there, because protecting them
@@ -956,7 +957,9 @@ def split_protected_spans(text: str, protect_wikilinks: bool = True) -> list[tup
             marker_start = start + (len(line) - len(stripped)) + marker.start()
             marker_end = start + (len(line) - len(stripped)) + marker.end()
             add(marker_start, marker_end)
-        if re.match(r"^>\s*\[!quote\]", stripped, re.IGNORECASE):
+        # Quote callouts and generated MetaX modules ([!metax], [!metax-ma],
+        # [!metax-errata]) are never linked; metax_sync.py writes their links.
+        if re.match(r"^>\s*\[!(?:quote|metax[\w-]*)\]", stripped, re.IGNORECASE):
             in_quote_callout = True
         if in_quote_callout and stripped.startswith(">"):
             add(start, end)
@@ -1869,6 +1872,11 @@ def citation_wikilink_display(raw: str) -> str:
     return inner.split("#", 1)[0].strip()
 
 
+# Generated MetaX modules: citation links are owned by scripts/metax_sync.py,
+# which matches by title rather than author-year.
+METAX_BLOCK_RE = re.compile(r"^>[ \t]*\[!metax[\w-]*\][^\n]*(?:\n>[^\n]*)*", re.M)
+
+
 def citation_mask_protected(text: str) -> tuple[str, list[str]]:
     protected: list[str] = []
 
@@ -1878,7 +1886,7 @@ def citation_mask_protected(text: str) -> tuple[str, list[str]]:
         protected.append(citation_unmask(m.group(0), protected))
         return f"\uE000{len(protected) - 1}\uE001"
 
-    for rx in [APA_CODE_FENCE_RE, APA_HTML_COMMENT_RE, APA_OBSIDIAN_COMMENT_RE, APA_WIKILINK_RE, APA_INLINE_CODE_RE]:
+    for rx in [METAX_BLOCK_RE, APA_CODE_FENCE_RE, APA_HTML_COMMENT_RE, APA_OBSIDIAN_COMMENT_RE, APA_WIKILINK_RE, APA_INLINE_CODE_RE]:
         text = rx.sub(repl, text)
     return text, protected
 

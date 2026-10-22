@@ -1662,6 +1662,15 @@ def run_base_index(
     code = maintain_book_overviews(dry_run=book_dry_run, check=book_check)
     if code:
         return code
+    # MetaX modules: match MetaX studies to Arguments by title (never by bare
+    # author-year) and regenerate the `## Visible Learning MetaX` modules, so a
+    # newly processed meta-analysis is linked wherever MetaX cites it.
+    if (ROOT / "metax/metax.json").exists() and not (book_check or book_dry_run):
+        code = run_script("metax_sync.py", ["sync"])
+        if code:
+            return code
+        _TEXT_CACHE.clear()
+        _FM_CACHE.clear()
 
     if sync_links:
         # Ordinary linking and relation sync must see newly created / renamed

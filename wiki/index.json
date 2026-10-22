@@ -768,6 +768,17 @@
     ]
   },
   {
+    "title": "Educational Assistance Modalities",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Educational Assistance Modalities.md",
+    "aliases": [
+      "教育援助形态演进",
+      "教育援助类型学",
+      "教育援助形态",
+      "Educational Aid Modalities"
+    ]
+  },
+  {
     "title": "Educational Immunology",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Educational Immunology.md",
@@ -1131,6 +1142,17 @@
       "知识银行",
       "World Bank as Knowledge Bank",
       "Knowledge-Based Development Bank"
+    ]
+  },
+  {
+    "title": "Language Income Premium",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Language Income Premium.md",
+    "aliases": [
+      "语言收入溢价",
+      "语言溢价假说",
+      "外语收入溢价",
+      "Language Premium"
     ]
   },
   {
@@ -7643,6 +7665,17 @@
       "高等工程教育",
       "Engineering Education Research",
       "高等工程人才培养"
+    ]
+  },
+  {
+    "title": "English-Medium Instruction in Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/English-Medium Instruction in Higher Education.md",
+    "aliases": [
+      "高等教育全英文授课",
+      "英文授课项目",
+      "高校全英文教学",
+      "English-Medium Instruction in HEIs"
     ]
   },
   {
@@ -29777,6 +29810,16 @@
     ]
   },
   {
+    "title": "Silk Road Scholarship",
+    "type": "fact",
+    "path": "wiki/facts/china/Silk Road Scholarship.md",
+    "aliases": [
+      "丝绸之路奖学金",
+      "一带一路奖学金",
+      "Silk Road Scholarship Program"
+    ]
+  },
+  {
     "title": "Study in China",
     "type": "fact",
     "path": "wiki/facts/china/Study in China.md",
@@ -32196,6 +32239,16 @@
       "Kutatótanár",
       "Hungarian Researcher Teacher Category",
       "匈牙利研究型教师计划"
+    ]
+  },
+  {
+    "title": "Indian Council for Cultural Relations",
+    "type": "fact",
+    "path": "wiki/facts/india/Indian Council for Cultural Relations.md",
+    "aliases": [
+      "印度文化关系委员会",
+      "ICCR",
+      "印度文化中心网络"
     ]
   },
   {

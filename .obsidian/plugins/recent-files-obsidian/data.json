@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
       "basename": "template-instrument",
       "path": "wiki/templates/template-instrument.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "TEMPLATE-SPEC",
       "path": "wiki/templates/TEMPLATE-SPEC.md"
-    },
-    {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
     },
     {
       "basename": "INVALSI",

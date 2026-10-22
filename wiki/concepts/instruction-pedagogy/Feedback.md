@@ -14,6 +14,7 @@ tags:
   - reinforcement
   - subject/instruction
   - level/k12
+  - metax
 related_concepts:
   - "[[International Education]]"
   - "[[Operationalization]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Feedback
@@ -242,6 +243,29 @@ updated: 2026-10-20
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025, p. 19)]] | 国际专家德尔菲评审团（教育学研究者与资深实践专家） | [[Delphi Technique\|德尔菲法]]问卷评定与共识度统计分析 | 教学反馈对实际中小学课堂教学实践的相关度评分（1–5 分制） | 专家评分均值 $M = 4.75$（位列全库 301 个影响因素前 5 位核心实践） | 标准差 $SD = 0.50$ | 实证确立反馈在专家共识中享有极高实践相关度与理论认可，与二阶粗放元综合的数据链缺陷形成鲜明对照 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 10–13)]] | 《[[Visible Learning\|可见的学习]]》反馈条目依赖的 5 项最大一阶元分析（覆盖 180,683 名被试，占总样本 92.4%） | 文献计量审计与概念对齐逐项细读 | 纳入一阶元分析的[[Construct Validity\|构念效度]]、反向抑制效应比例与未发表文献占比 | 4 项元分析（Lysakowski 1980/1982, Witt 2004, Swanson 2001）未测量形成性认知反馈；唯一符合定义的 Kluger and DeNisi (1996) 出现 38% 负效应；Witt (2004) 纳入 34 项中 22 项（65%）为未发表学位论文 | 质性质询与文献计量复核 | 全量实证确证宏观二阶反馈效应量存在严重的构念错位与异质拼贴，无法作为脱离具体情境的普适处方套用 |
 
+
+---
+
+## Visible Learning MetaX
+
+> [!metax] [Feedback](https://www.visiblelearningmetax.com/influences/view/feedback)
+> | dom | sub | impact | ma | k | n | m | d | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Teaching Strategies | Feedback | Potential to considerably accelerate | 10 | 1,116 | 14,049 | 3,433 | 0.50 | 5/5 |
+>
+> > [!metax-ma]- 10
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Jeong-Hwa & Byung-gee (2019) | Feedback | 180 | NA | 1,393 | 0.59 |  |
+> > | Yeany & Miller (1983) | Diagnostic feedback in college science | 49 | NA | 49 | 0.52 |  |
+> > | Kluger & DeNisi (1996) | Feedback | 470 | 12,652 | 470 | 0.38 |  |
+> > | Neubert (1998) | Goals plus feedback | 16 | 744 | 16 | 0.63 |  |
+> > | Hatala et al. (2014) | Feedback for simulation skills | 31 | 653 | 31 | 0.74 |  |
+> > | Biber et al. (2011) | Feedback in ESL Writing and Reading | 25 | NA | 88 | 0.87 |  |
+> > | Thirakunkovit & Chamcharatsri (2019) | Teacher feedback | 27 | NA | 52 | 0.90 |  |
+> > | Lee & Bak (2018) | Feedback | 180 | NA | 991 | 0.59 |  |
+> > | Mertens et al. (2022) | Computer presented feedback | 77 | NA | 163 | 0.40 |  |
+> > | Gui et al. (2022) | Feedback in rich technology contexts | 61 | NA | 180 | 0.44 |  |
 
 ---
 

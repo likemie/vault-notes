@@ -107,10 +107,15 @@ scripts/
   wiki_relations.py
   vault_lint.py
   source_record.py
+  metax_sync.py
 citation/
   journals.json              AI 命名用期刊全名到唯一代码的最小注册表
   citation_full.json          可引用 Argument 的全量索引
-  citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
+  citation_ambiguous.json     同作者同年歧义组（含 APA 7 区分建议）与库外作者年份撞车
+metax/                       Visible Learning MetaX 数据（不进 wiki、不补链）
+  metax.json                  studies（书目与匹配状态）+ influences（总览、明细行、挂载条目）
+  errata.json                 单篇／整合勘误，须有来源
+  audit.json                  metax_sync.py audit 输出的疑似数据错误线索（不是勘误）
 wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
@@ -243,7 +248,7 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 `citation/` 索引文件由 `scripts/citation_index.py` 生成：
 
 - `citation_full.json`：所有 `citation_aliases` 到 Argument 的查询索引。
-- `citation_ambiguous.json`：无后缀基础短引用对应的重复文献组。
+- `citation_ambiguous.json`：无后缀基础短引用对应的重复文献组。每篇附 `rule` 与 `apa7_aliases`：第一作者同姓不同人用名字缩写区分（`initials`，如 `J. Zhang et al.`，APA 7 8.20）；合著者不同但缩写成 et al. 后相同的，列出足以区分的作者（`authors`，如 `Kim, Lee, et al.`，APA 7 8.18）；作者完全相同才用 a/b（`suffix`）。`citation_aliases` 目前仍用 a/b，`citation_index.py --apa7` 预览、`APA7_DISAMBIGUATION = True` 启用 APA 7 形式（启用会改写全库相应显示文本）。`external` 记录库外数据集（目前为 MetaX）中与 Argument 第一作者、年份相同但篇名不同的文献，防止按作者年份误链。
 
 正文 citation 补链由 `scripts/wiki_linker.py sync --citations-only` 完成，引用模式只读取 citation 索引，不修改 Argument frontmatter。基础索引自动执行增量引用补链；标准流程通过同一补链入口统一执行引用与普通双链维护。
 
@@ -259,6 +264,18 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.147–148）；正文以裸文本括注写出本文献（含 `part_of` 继承的全书）`citation_aliases` 的，`vault_lint.py` 以 `ARGUMENT_RAW_SELF_ALIAS` 提示简化为纯页码。`vault_lint.py` 检查 citation 字段、`a/b/c` 冲突、正文 APA 短引用格式和歧义引用核验。可引用 Argument 的完整 `citation` 不得缺失或为空；专著和教材的章节 Argument 可继承全书引用，论文集 overview 不作为可引用单元。`citation_index.py --check` 同样检查完整引用是否为空。
 
 非 Argument 条目（Concept、Theory、Method、Instrument、Person、Fact）引用 Argument 时，wikilink 显示文本必须包含作者与年份，可继续附页码或章节，例如 `[[Argument_Author_Year_Journal|Author, Year, p. 12]]` 或 `[[Argument_Author_Year_Journal|Author (Year, Ch. 1)]]`；不得只写 `p. 12`、`pp. 12–15`、`Ch. 1` 或裸 `[[Argument_...]]`。
+
+### Visible Learning MetaX Module
+
+MetaX 数据只存在 `metax/`，条目中的 `## Visible Learning MetaX` 模块由 `scripts/metax_sync.py` 生成，不手写、不手改。
+
+- 位置：独立 H2，放在 `## 实证数据` 之后，不与实证数据混写；无 `## 实证数据` 的条目放在 `## 领域应用` / `## 相关研究` 之前。挂载模块的条目自动加 tag `metax`，卸载时自动移除。
+- 结构：`[!metax]` 总览（标题为 MetaX 原页链接，兼作模块标识）→ `[!metax-ma]-` 元分析明细（默认折叠）→ 有勘误时 `[!metax-errata]`。
+- 卡片只写 APA 短引用、变量与数字；篇名、期刊、完整作者只存 `metax.json`。眉标与表头中文由 CSS 生成，Markdown 表头只写代号（`dom sub impact ma k n m d rob` / `ref var k n m d e`）。
+- `[!metax*]` 整块不参与普通补链和 APA 引用补链。块内引用链接只由 `metax_sync.py` 写入：年份、第一作者姓氏与篇名（或 DOI）一致才链接；作者年份相同但篇名不同记为 `collision`，永不链接，并写入 `citation_ambiguous.json` 的 `external`。新入库的元分析 Argument 在下一次 `vault_index.py` 后自动链接到所有收录它的模块。
+- 挂载：`metax_sync.py map <influence_id> <条目路径>`；卸载：`unmap`；候选：`suggest`（因素名与条目 title/alias 完全一致）。一个条目可挂多个因素，按因素名排序叠放。
+- 勘误写入 `metax/errata.json`：`level` 为 `study`（单篇，明细行 e 列标 ①②…）或 `influence`（整合，总览对应数值旁标 ⚑）；字段 `influence`、`study`（S 编号）、`field`、`metax`、`corrected`、`type`、`source`（Argument 文件名）、`pages`、`note`。勘误须有来源；`audit` 的输出只是待核线索。
+- `vault_lint.py` 以 `METAX_STALE` 检查模块与匹配状态是否最新。
 
 ### tags
 
