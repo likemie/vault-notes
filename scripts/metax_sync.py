@@ -25,6 +25,7 @@ Subcommands:
   unmap    INFLUENCE_ID [ENTRY_PATH...] detach
   suggest                               influences whose name equals an entry title/alias
   report                                matched / collision / review summary
+  domains                               VL-style domain summary + per-domain sub-domain callouts (Markdown)
   audit                                 suspected data errors -> metax/audit.json (leads, not errata)
 """
 
@@ -815,6 +816,66 @@ def cmd_audit(args) -> int:
     return 0
 
 
+def bar(value: float) -> str:
+    """Inline bar for a mean effect size; width bucket in 0.05 steps (CSS: .mx-bar.b0-b28)."""
+    if value < 0:
+        return f'<span class="mx-bar neg b{min(28, round(-value * 20))}"></span>'
+    return f'<span class="mx-bar b{min(28, round(value * 20))}"></span>'
+
+
+def cmd_domains(args) -> int:
+    """Print the VL-style domain summary and per-domain sub-domain callouts for the
+    Visible Learning Meta-X fact entry. Header cells are codes; CSS shows labels."""
+    import statistics as stats
+    data = load_json(DATA_JSON, None)
+    zh = zh_table()
+    inf = data["influences"]
+
+    def agg(ids):
+        ds = [inf[i]["d"] for i in ids if inf[i]["d"] is not None]
+        rows = [r for i in ids for r in inf[i]["rows"] if r["d"] is not None and r["k"]]
+        return {
+            "n": len(ids),
+            "ma": sum(inf[i]["ma"] or 0 for i in ids),
+            "uniq": len({r["study"] for i in ids for r in inf[i]["rows"]}),
+            "mean": stats.mean(ds), "kw": sum(r["d"] * r["k"] for r in rows) / sum(r["k"] for r in rows),
+            "med": stats.median(ds), "sd": stats.pstdev(ds) if len(ds) > 1 else 0.0,
+            "lo": min(ds), "hi": max(ds), "neg": sum(1 for x in ds if x < 0),
+        }
+
+    D = lambda x: f"{x:.2f}".replace("-", "−")
+    dom: dict[str, list[str]] = {}
+    sub: dict[tuple, list[str]] = {}
+    for iid, v in inf.items():
+        dom.setdefault(v["domain"], []).append(iid)
+        sub.setdefault((v["domain"], v["sub_domain"]), []).append(iid)
+    res = {k: agg(v) for k, v in dom.items()}
+    order = sorted(res, key=lambda k: -res[k]["mean"])
+    neg = lambda n: str(n) if n else "—"
+
+    out = ["> [!metax-domain] 九个领域（按因素等权平均降序）",
+           "> | dom | n | ma | dm | dw | med | sd | rng | neg |",
+           "> | --- | --- | --- | --- | --- | --- | --- | --- | --- |"]
+    for k in order:
+        r = res[k]
+        out.append(f"> | {zh['domain'].get(k, k)} | {r['n']} | {r['ma']:,} / {r['uniq']:,} | {bar(r['mean'])}{D(r['mean'])} | {D(r['kw'])} | {D(r['med'])} | {D(r['sd'])} | {D(r['lo'])} ~ {D(r['hi'])} | {neg(r['neg'])} |")
+    a = agg(list(inf))
+    out.append(f"> | 全部 | {a['n']} | {a['ma']:,} / {a['uniq']:,} | {bar(a['mean'])}{D(a['mean'])} | {D(a['kw'])} | {D(a['med'])} | {D(a['sd'])} | {D(a['lo'])} ~ {D(a['hi'])} | {neg(a['neg'])} |")
+    print("\n".join(out))
+    for k in order:
+        subs = sorted([sk for (dk, sk) in sub if dk == k], key=lambda sk: -agg(sub[(k, sk)])["mean"])
+        r = res[k]
+        print()
+        lines = [f"> [!metax-subdomain]- {zh['domain'].get(k, k)} · {len(subs)} 个子领域 · {r['n']} 个因素",
+                 "> | sub | n | dm | dw | rng | neg |",
+                 "> | --- | --- | --- | --- | --- | --- |"]
+        for sk in subs:
+            x = agg(sub[(k, sk)])
+            lines.append(f"> | {zh['sub_domain'].get(sk, sk)} | {x['n']} | {bar(x['mean'])}{D(x['mean'])} | {D(x['kw'])} | {D(x['lo'])} ~ {D(x['hi'])} | {neg(x['neg'])} |")
+        print("\n".join(lines))
+    return 0
+
+
 def cmd_report(args) -> int:
     data = load_json(DATA_JSON, None)
     counts: dict[str, int] = {}
@@ -850,6 +911,7 @@ def main() -> int:
     p.set_defaults(func=cmd_unmap)
     sub.add_parser("suggest").set_defaults(func=cmd_suggest)
     sub.add_parser("audit").set_defaults(func=cmd_audit)
+    sub.add_parser("domains").set_defaults(func=cmd_domains)
     p = sub.add_parser("report")
     p.add_argument("--verbose", action="store_true")
     p.set_defaults(func=cmd_report)
