@@ -10,10 +10,10 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
+  - theme/cross-cultural
+  - level/k12
+  - level/higher-ed
   - metax
-- theme/cross-cultural
-- level/k12
-- level/higher-ed
 related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Deficit Model of Science Communication]]"

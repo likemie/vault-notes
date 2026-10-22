@@ -12,10 +12,10 @@ method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
 tags:
-  - metax
   - cognitive-task-analysis
   - paradigm/cognitivist
   - level/higher-ed
+  - metax
 related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"

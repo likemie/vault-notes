@@ -679,22 +679,49 @@ def insert_module(body: str, module: str) -> str:
 
 
 def set_tag(text: str, present: bool) -> str:
+    """Update only tags, accepting both YAML block-list indentation styles."""
     m = re.match(r"\A---\n(.*?)\n---\n", text, re.S)
     if not m:
         return text
-    fm = m.group(1)
-    has = re.search(rf"^  - {TAG}$", fm, re.M) or re.search(rf"^tags: \[.*\b{TAG}\b.*\]$", fm, re.M)
-    if present and not has:
-        if re.search(r"^tags: \[\]$", fm, re.M):
-            fm = re.sub(r"^tags: \[\]$", f"tags:\n  - {TAG}", fm, flags=re.M)
-        elif re.search(r"^tags:\s*$", fm, re.M):
-            fm = re.sub(r"^(tags:\s*\n(?:  - .*\n?)*)", lambda x: x.group(1).rstrip("\n") + f"\n  - {TAG}\n", fm + "\n", count=1, flags=re.M).rstrip("\n")
+    lines = m.group(1).splitlines()
+    start = next((i for i, line in enumerate(lines) if re.match(r"^tags:", line)), None)
+    if start is None:
+        if present:
+            lines.extend(["tags:", f"  - {TAG}"])
+    else:
+        value = lines[start].split(":", 1)[1].strip()
+        flow = re.fullmatch(r"\[(.*)\]([ \t]*(?:#.*)?)", value)
+        if flow:
+            # Keep quoted scalars intact, including commas within tag strings.
+            tokens = re.findall(r"""(?:"(?:\\.|[^"\\])*"|'(?:''|[^'])*'|[^,])+""", flow[1])
+            tags = [token.strip() for token in tokens if token.strip()]
+            tags = [tag for tag in tags if tag.strip("\"'") != TAG]
+            if present:
+                tags.append(TAG)
+            lines[start] = "tags: [" + ", ".join(tags) + "]" + flow[2]
+        elif value and not value.startswith("#"):
+            if value.strip("\"'") == TAG:
+                lines[start] = f"tags: {TAG}" if present else "tags: []"
+            elif present:
+                lines[start:start + 1] = ["tags:", f"  - {value}", f"  - {TAG}"]
         else:
-            fm += f"\ntags:\n  - {TAG}"
-    elif not present and has:
-        fm = re.sub(rf"^  - {TAG}\n?", "", fm + "\n", flags=re.M).rstrip("\n")
-        fm = re.sub(r"^tags:\s*$(?!\n  - )", "tags: []", fm, flags=re.M)
-    return f"---\n{fm}\n---\n" + text[m.end():]
+            end = start + 1
+            while end < len(lines) and re.match(r"^[ \t]*(?:- |#|$)", lines[end]):
+                end += 1
+            items = []
+            for line in lines[start + 1:end]:
+                item = re.match(r"^[ \t]*- (.*)$", line)
+                if item:
+                    if re.fullmatch(r"(?:metax|'metax'|\"metax\")(?:[ \t]+#.*)?", item[1].strip()):
+                        continue
+                    items.append("  - " + item[1])
+                else:
+                    items.append(line)
+            if present:
+                items.append(f"  - {TAG}")
+            header = lines[start] if any(re.match(r"^  - ", line) for line in items) else "tags: []"
+            lines[start:end] = [header, *items]
+    return "---\n" + "\n".join(lines) + "\n---\n" + text[m.end():]
 
 
 def cmd_render(args, data=None) -> int:
