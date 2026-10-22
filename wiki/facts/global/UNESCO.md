@@ -118,11 +118,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# UNESCO
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO；简称联合国教科文组织）是联合国系统内主管教育事务的法定专门机构，代表了战后全球教育多边治理的人文主义、和平主义与人权规范传统，主导着全球[[Education for All|全民教育]]（Education for All，EFA）与[[UN Sustainable Development Goals|可持续发展目标]]中的第四项目标（Sustainable Development Goal 4，SDG 4）的统筹协调。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
@@ -135,8 +131,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 通过教育、科学、文化与传播促进国际合作，捍卫受教育权作为不可剥夺的基本人权，推动教育包容、性别平等与[[Lifelong Learning|终身学习]]，守护教育作为全球共同利益（Global Common Good）的公共属性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1945–1965** **战后人权奠基与有限再分配性多边主义**
@@ -188,8 +182,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（大会 / 执行局）** 大会（General Conference）为最高审议中枢，每两年召开一次，全体成员国实行“一国一票”平等表决权；执行局（Executive Board）由 58 名当选成员国代表组成，负责监督经常预算与战略执行。
 > - **执行机构（总干事 / 教育助理总干事）** 秘书处设在巴黎，由总干事统率，教育助理总干事（Assistant Director-General for Education，ADG/ED）直接主管教育部门，统筹未来学习、[[Lifelong Learning|终身学习]]、包容与技术职业教育等常设处室。
@@ -203,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理建议书》（2021）；《[[Generative Artificial Intelligence|生成式人工智能]]在教育与研究中的应用指南》（2023）；《学生及教师人工智能能力框架》（2024）。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 > - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）；与[[OECD|经合组织]]、欧盟统计局共建的 UNESCO-OECD-Eurostat（UOE）联合数据集（构成跨国教育统计与欧盟教育指标报告 50% 至 60% 的基础数据源；[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）。
@@ -217,8 +207,6 @@ updated: 2026-10-22
 > *In the early years, the World Bank’s portfolio in education was almost identical to that of UNESCO. In stark contrast to the World Bank, however, UNESCO had a humanistic and human rights-driven approach to education. The connection between the two organisations was sealed through the Co-operative Agreement signed in 1964. After gaining access to countries of the Global South with the help of UNESCO, the World Bank started to distance itself from UNESCO. It became increasingly apparent that the two organisations neither shared outlooks and priorities nor a modus operandi in governance.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 经常性预算年均约 3–4 亿美元，全球雇员与专家约 2,500 人；覆盖 194 个成员国，建立超 800 个教科文组织大学教席和数千所联系学校网络（Associated Schools Project Network，ASPnet）。
@@ -240,8 +228,6 @@ updated: 2026-10-22
 >
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

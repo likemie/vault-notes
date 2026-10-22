@@ -68,11 +68,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Researching School Choices
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 研究[[School Choice\|学校选择]]（Researching School Choices）是英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）于 2019 年设立的宏观组织变革专项资助流。该资助流标志着[[Evidence-Based Education\|循证教育]]治理彻底打破对单一[[Randomised Controlled Trials\|随机对照试验]]（RCT）[[Paradigm\|范式]]的教条崇拜：针对涉及学校深层治理体制、师资排课架构与家长敏感利益的宏观制度领域（如分轨分流、到校作息调整），资助机制果断放弃引发招募灾难的人为[[Random Assignment\|随机化]]，转向依托英格兰[[National Pupil Database\|国家学生数据库]]（NPD）全量微观纵向普查数据，采用严密的[[Quasi-Experimental Designs\|准实验设计]]（[[Quasi-Experimental Designs\|QED]]）评估现实教育生态中自然存在的[[Policy Mobility\|政策变异]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 >   2. **中学早晨推迟到校试验瘫痪（Teensleep, Robinson 2016）** 试验试图通过随机分组让部分中学推迟至 10:00 上课以研究睡眠生物节律对学业的影响。推迟上学牵扯到全市校车交通时刻表重排、双职工家庭接送弟妹冲突、课后体育场馆租赁以及教师工会法定工作时长重开谈判等庞大社会系统网络。学校完全无法服从随机化指令，试验在招募阶段直接瘫痪夭折。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 在不适宜强行[[Random Assignment\|随机化]]的宏观制度领域，通过捕捉教育体系内部自发产生的制度断点、政策试点时间差或校本办学特征，运用现代计量经济学准实验工具从海量普查行政数据中精准剥离混淆偏差，能够以极高[[External Validity\|外部效度]]与零田野破坏性评估学校宏观选择的真实因果效应。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
@@ -109,16 +103,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目演进历程
 > - **2014–2018 — 强推 [[Randomised Controlled Trials\|RCT]] 的挫败与方法学反思期** 能力分班与 [[Teensleep]] 现场试验相继因招募归零而夭折，学界批评单一 RCT [[Paradigm\|范式]]将复杂学校生态削足适履（Edovald & Firpo, 2016; Roy et al., 2018）。
 > - **2019 — 资助机制破局与 [[Quasi-Experimental Designs\|QED]] 专属通道确立** [[Education Endowment Foundation\|EEF]] 董事会正式批准设立 Researching School Choices 资助流，制定前置准实验审查标准，开创了英国循证资助从单一 RCT 向多方法学生态的重大转型。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 > - **2020–至今 — NPD 普查大数据赋能与宏观政策反哺** 深度结合英格兰[[National Pupil Database\|国家学生数据库]] 105 项完成试验微观档案与全英普查底册，系统产出针对能力编班、校本弹性课表的高公信力准实验报告。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层设计与资助方** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 甄选具有全局价值的宏观组织变革议题，协调跨部门数据使用权。
@@ -127,8 +117,6 @@ updated: 2026-10-22
 > - **受益决策群体** 中小学校长、地方多学院信托（MAT）CEO 与教育决策者 — 获取关于编班体制、到校时间等制度安排的无偏经验证据。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心制度价值与方法学贡献
 > - **破除“无 [[Randomised Controlled Trials\|RCT]] 即无因果”的教条主义迷思** 确立了严密的[[Quasi-Experimental Designs\|准实验设计]]在宏观教育治理领域的法定地位，证明了在组织变革领域，高水准的 QED 能够提供远比强行实施畸形 RCT 更加稳健可靠的实践指导。
@@ -141,8 +129,6 @@ updated: 2026-10-22
 > - 评估设计库：全面集成回归断点（[[Regression Discontinuity Design\|RDD]]）、[[Difference-in-Differences\|双重差分]]（DID）与[[Propensity Score Matching\|倾向得分匹配]]（PSM）。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 方法学争议与边界
 >

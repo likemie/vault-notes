@@ -48,11 +48,7 @@ created: 2026-09-03
 updated: 2026-10-16
 ---
 
-# Abbreviated Torrance Test for Adults
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Abbreviated Torrance Test for Adults (ATTA)
 > - **工具类型** 标准化[[Divergent Thinking\|发散思维]]表现测验（精简版纸笔测验）。
@@ -61,8 +57,6 @@ updated: 2026-10-16
 > - **实施方式** 限时纸笔团体或个别施测（总测验用时约 15 分钟，每项活动限时 3 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Creativity\|创造潜能]]与[[Divergent Thinking\|发散思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -77,14 +71,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 1 项言语问题假设活动与 2 项不完整图形线索发散补全活动。
 > - **作答格式** 纸笔手写文本列举与画笔构图。
 > - **反向题与跳题** 无反向题与跳题；每项活动严格计时 3 分钟，要求在限定时间内尽可能产生多且独特的想法。
-
-### 活动一：言语发散推理任务
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -105,8 +95,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -116,8 +104,6 @@ updated: 2026-10-16
 > | Meinel et al. (2019) | 德语改编版 ATTA | 德国高校设计与工程学生（$N = 118$），检验设计思维短期干预对发散思维维度的塑造 | 内部一致性 $\alpha = 0.81$ | 干预组在 ATTA 独创性与精致性维度显著优于替代训练对照组 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

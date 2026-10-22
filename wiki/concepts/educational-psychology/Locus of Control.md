@@ -35,11 +35,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Locus of Control
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 控制点（locus of control）是 Rotter (1966) 提出的动机概念：个体对成功或失败结果的预期取决于他们是否将原因感知为内部或外部。如果一个人相信能力（内部属性）是成功的原因，则他对成功更有信心；如果相信运气（外部因素）决定结果，则他对成功的确定性较低([[Argument_Li_2012_Cambridge\|Li, 2012, p.60]])。
 
 > [!quote|notitle]

@@ -103,11 +103,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Brian Holmes
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（Institute of Education, IOE）比较教育学教授兼系主任（1975–1985），[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）奠基人之一，[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（World Council of Comparative Education Societies, WCCES）前主席。
@@ -137,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950s — 物理科学向比较[[Epistemology|认识论]]的跨界融合期** 结合物理学实证传统与波普尔反归纳主义哲学，探索如何克服[[Empiricism|经验主义]]旅行见闻与粗糙借用。
 >   - **代表著作** 与劳威斯合编《世界教育年鉴》系列年度专著（1953–1970）。
@@ -155,9 +149,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育必须是一门以[[Nomothetic|通则式]]“预测（prediction）”为核心标志的概括性[[Policy Science in Comparative Education|政策科学]]；反对无假说的经验归纳与沉溺于过去的制度历史溯源，主张以[[John Dewey|杜威]]反思思维和波普尔批判理性主义为基石，通过“问题甄别—假说提出—初始条件与环境模式分析—逻辑演绎推导—政策后果预测”程序，精准诊断由于制度变革与深层传统观念不同步（文化滞后）引发的教育危机，指导具有现实可操作性的零星社会工程改革。
 
 > [!citation-card] 通则式预测优于回顾性历史解释
@@ -202,9 +194,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 创立[[Critical Dualism|批判二元论]]与情境[[Problem Solving|问题解决]]模式，与芝加哥学派（安德森、福斯特）及哥大学派（诺亚、埃克斯坦）共同构成战后第三代际[[Scientism|科学主义]]运动的核心支柱，开启跨大西洋[[Scientific Paradigm|科学范式]]大论战；
 > - **方法路径** 确立了“问题甄别—假说提出—情境模式—逻辑演绎—后果预测（$L + I = P$）”的假说-演绎[[Problem Approach|问题法]]，使跨国比较摆脱了无反思的经验白描与静态因素列举；
 > - **政策路径** 深度影响了英联邦、[[UNESCO]] 与 IBE 的教育规划专家培训，成为[[International Education|国际教育]]顾问制定政策可行性方案的标准分析工具；
@@ -219,8 +209,6 @@ updated: 2026-10-22
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统考察霍姆斯引入波普尔批判二元论对欧洲比较教育学科的[[Positivism|实证主义]]重塑，梳理其在 IOE 内部与汉斯、劳威斯文化主义传统的认识论论辩，以及联合创立 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 理论转型委员会的建制贡献。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 考恩论霍姆斯作为[[Policy Science in Comparative Education|政策科学]]与物理学式预测[[Paradigm|范式]]的代表
 > 考恩在系统考察比较教育学[[Ontology|本体论]]争论时指出，霍姆斯是将比较教育建构为“政策科学”的领袖人物，他所倡导的物理学式预测模型与严密逻辑演绎，代表了 1960 年代学科追求科学确定性与政策干预效能的巅峰形态。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
@@ -252,8 +240,6 @@ updated: 2026-10-22
 > - **机构领导** 伦敦大学教育学院（IOE）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）、[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

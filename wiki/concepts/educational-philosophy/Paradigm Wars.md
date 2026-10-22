@@ -74,11 +74,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Paradigm Wars
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Paradigm\|范式]]战争（Paradigm Wars）是纳撒尼尔·格奇（Nathaniel L. Gage, 1989）在教育研究领域提出的经典方法论[[Construct\|构念]]，特指 20 世纪 70 至 90 年代以[[Positivism\|实证主义]]为底色的[[Quantitative Research\|量化研究]]范式与以社会建构论为底色的[[Qualitative Research\|质性研究]]（[[Interpretive Paradigm\|诠释范式]]）阵营之间长达数十年的制度化方法论对立与交锋（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Gage, 1989）。在这场论辩中，研究者各自坚守排他性的范式忠诚，将研究方法的技术选择上升为关于[[Ontology\|本体论]]实在与知识合法性的世界观斗争。这场战争推动了质性探究与自然主义评价标准的崛起（Denzin, 2008, p. 316），但其二元割裂亦造成了学术共同体撕裂；最终促使[[Mixed Methods Research\|混合方法研究]]作为“第三次方法论运动”应运而生。
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Paradigm\|范式]]战争中两大对抗阵营与超越进路辨析
 > | 维度 | 实证量化阵营（蓝方） | 质性诠释阵营（红方） | [[Pragmatic Paradigm\|实用主义]]混合进路（第三条道路） |
 > |---|---|---|---|
@@ -116,8 +110,6 @@ updated: 2026-10-22
 > | 对战争的态度 | 视[[Qualitative Research\|质性研究]]为缺乏科学严密性的前科学主观诗学 | 批判[[Quantitative Research\|量化研究]]为去情境化、抽空人性的机械霸权 | 主张超越非黑即白的范式内耗，开展跨范式务实对话 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Paradigm\|范式]]战争的核心历史与[[Epistemology\|认识论]]机制
 > - **范式绝对忠诚（Paradigm Allegiances）** 学者将学术训练、期刊发表与职业身份锚定于特定范式之中，形成了“赢家通吃”的学术部落主义（Academic Tribalism）。
@@ -183,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕范式战争展开的四大核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -204,8 +194,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与反思
 >
 > > [!axis] [[Paradigm\|范式]]战争是否真正终结：实质性跨越还是表面停火
@@ -224,8 +212,6 @@ updated: 2026-10-22
 > 范式战争作为一个历史与理论分析透镜，有助于透视方法论争议的哲学实质；但不应被过度泛化为将一切跨方法讨论均视为“敌我斗争”的极端立场，避免阻碍健康的学术批评与方法创新。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Paradigm\|范式]]演变与方法学格局分布文献计量指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

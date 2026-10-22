@@ -47,11 +47,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Louis Henry Jordan
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大十九世纪末至二十世纪初著名宗教学家、学术比较方法论学者，比较宗教学（Comparative Religion）奠基人之一；先后在加拿大、英国牛津与欧洲大陆从事跨学科比较研究。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1905 — *Comparative Religion: Its Genesis and Growth*** 跨学科比较方法论的集大成之作；系统梳理 26 个近代比较学科的形成演进，为比较教育学跨入现代大学建制提供了极为关键的“科学合法性”背书。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127)]]
 > - **1908 — *Comparative Religion: A Survey of its Recent Literature*** 评述欧美比较方法论的最新研究动态与实证指标标准化争鸣。
@@ -84,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 近代所有冠以“比较”（Comparative）之名的学科，其内在合法性均源自一套共享的“[[Scientific Method|科学方法]]论”（Scientific Methodology）：即超越孤立封闭的国别经验描述，运用假说演绎与归纳分析揭示不同系统之间深层的“关系规律”（fundamental laws of relation）。比较教育学在这一知识图景中不仅是一门应用学科，更因其实践建言的高效性而具备典范意义。
 
 > [!citation-card] 论比较教育学作为最具典范意义的科学比较领域
@@ -101,8 +93,6 @@ updated: 2026-10-22
 > - **规律探寻[[Epistemology|认识论]]路径** 将[[Positivism|实证主义]]从自然科学（解剖学、生理学）向人文社会科学（语言学、宗教学、教育学）平移，深远影响了[[William H. Payne|威廉·H·佩恩]]（William H. Payne）乃至战后[[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）对跨国“普遍法则”的实证主义追求。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 罗斯特等论乔丹对比较教育学“入驻大学即为科学”的历史见证
 > 乔丹在 1905 年的著作揭示出，比较教育学并非在战后才突然追求实证科学化；早在一进入大学建制之时，它就置身于世纪之交将比较方法视为普适科学法则的宏大知识风潮之中。（pp.126–127）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127)]]

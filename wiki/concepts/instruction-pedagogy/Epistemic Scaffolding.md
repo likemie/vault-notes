@@ -46,11 +46,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Epistemic Scaffolding
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemic Scaffolding\|认识论支架]]（Epistemic [[Scaffolding]]，亦作认识性支架）指在教学与探究环境中，**通过使学科底层的[[Epistemology\|认识论]]结构、评价准则与[[Justificatory Standards\|辩护标准]]显性化，引导学习者如何评估知识、检验论据、协调认知冲突并参与学科规范实践的教学支持机制**。区别于仅提供操作步骤的程序性支架或提供领域事实的概念性支架，认识论支架聚焦于“知识何以确证”以及“如何像科学家一样思考与评价”。[[Argument_Han_Gutierez_2026_IJSE\|(Lin & Puntambekar, 2019; Han & Gutierez, 2026, pp. 4–6)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Epistemology\|认识论]]支架与传统[[Scaffolding\|教学支架]]的辨析
 > | 比较维度 | 认识论支架（Epistemic Scaffolding） | 程序性支架（Procedural Scaffolding） | 概念性支架（Conceptual Scaffolding） | [[Metacognition\|元认知]]支架（Metacognitive Scaffolding） |
 > |---|---|---|---|---|
@@ -84,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **学科标准的显性化表征** 将科学共同体评估主张的隐性准则转化为学习者可操作的显性标准（如[[Scientific Explanation\|科学解释]]的相关性、因果叙事、概念框架与表征水平）。[[Argument_Han_Gutierez_2026_IJSE\|(de Andrade et al., 2019; Han & Gutierez, 2026, pp. 5–6)]]
 > - **[[Reflexivity\|反思性]]提问提示语引导** 提供针对信源[[Reliability\|可靠性]]、专家资质及自我理解盲区的定向提问支架，引导学习者主动跳出表面语义顺从。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]]
 > - **分布式生态嵌入** 支架不仅由教师口头提供，更分布于数字工具界面、任务规程、[[Cooperative Learning\|合作学习]]规范及提示词工程模板之中。[[Argument_Han_Gutierez_2026_IJSE\|(Puntambekar, 2021; Han & Gutierez, 2026, p. 4)]]
@@ -135,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,8 +141,6 @@ updated: 2026-10-22
 > - **2026 — [[Man-Computer Symbiosis|人机协同]]解释与双轨支架系统** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 将认识论支架拓展至生成式 AI 协同学习领域，构建“显性学科标准 + 反思提问提示语”双轨认识论支架体系，实证解析其激活初中生三维[[Epistemological Vigilance\|认识论警觉]]的微观机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -169,8 +157,6 @@ updated: 2026-10-22
 > 认识论支架不能替代领域基础知识的建构。若学生对所探究的科学领域毫无先验认知，即使拥有显性评价标准与反思提示语，也无法有效识别模型生成物中细微的机制错误或表征扭曲。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 22–24)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

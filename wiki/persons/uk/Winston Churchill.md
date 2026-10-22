@@ -36,11 +36,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Winston Churchill
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国政治家、演说家、历史学家，曾两度出任英国首相（1940–1945，1951–1955），1953年诺贝尔文学奖得主。
@@ -65,16 +61,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与演说
 > - **1938 — *Bristol University Address on Civilization*** 提出文明的核心标志是平民法治、议会代议制度与公民免于暴力专制侵扰的安定生活。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 89)]]
 > - **1948–1953 — *The Second World War*** 六卷本战争回忆录，全景展现盟国反法西斯战略决策与自由体制的保卫战。
 > - **1956–1958 — *A History of the English-Speaking Peoples*** 四卷本历史巨著，阐述普通法体系、代议民主与宪政自由在英美历史长河中的演进脉络。
 
 ---
-
-## 学术与历史评价
 
 > [!critique] 历史遗产与现代启示
 > - **确立现代文明的宪政实质** 丘吉尔对文明的界定摆脱了狭隘的种族或地理标签，将其锚定在法律统治、代议民主与平民自由权利的制度基石之上，为理解西方民主政体的制度合法性提供了经典参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 89)]]

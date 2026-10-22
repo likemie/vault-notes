@@ -48,11 +48,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Gold Standard Science
-
 ---
-
-## 概念总览与核心界定
 
 > [!def] 核心界定
 > **黄金标准科学（Gold Standard Science / Machine-Verifiable Gold Standard Research）** 是现代[[Metascience|元科学]]、人工智能哲学与科技治理体系中的核心[[Epistemology|认识论]]与质量规制标准。该标准针对既有学术出版中普遍存在的[[Reproducibility Crisis|可重复性危机]]，以及生成式 AI 时代低成本论文与算法模型指数级爆发所引发的虚假知识泛滥而提出。黄金标准科学确立了四大不可妥协的硬性准则：**原始数据全量机器可读开源**、**分析代码在隔离沙盒中全自动一键复现**、**数学理论的形式化机器定理证明（Formal Verification）**，以及**强制性阴性/[[Falsification|证伪]]结果公开**。其核心主张在于：在算力大幅压低假说生成成本的同时，国家科研体系必须同步等规模扩建机器核验基础设施，确立“未经机器独立复现者不构成科学事实”的新[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–67)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > | **激励分配导向** | 只奖励首次发现者（First Discovery），不资助复核审计 | 设立专职复现与[[Falsification\|证伪]]激励基金，将独立复核者置于同等崇高地位 |
 
 ---
-
-## 核心要素与规制支柱
 
 > [!feature] 黄金标准科学的四大核心支柱
 > - **标准化机器复现包（Standardized Machine-Executable Bundles）** 规范计算与[[Experimental Research|实验研究]]的交付格式，强制包含全量原始数据、带哈希校验的代码库及 Docker/Conda 容器环境，确保算法可在隔离沙盒中无缝运行。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–66)]]
@@ -114,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与典型案例
-
 > [!ref-table]- 黄金标准科学实证数据与机器核验突破
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -126,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 黄金标准科学核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
@@ -137,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变历程
-
 > [!dev-timeline] 黄金标准科学演变脉络
 > - **1934 — [[Karl Popper|卡尔·波普尔]]提出[[Falsification|可证伪性]]原则** 确立科学与非科学的划界标准，但缺乏自动化工程检验手段。
 > - **2010s — 《自然》《科学》反思[[Reproducibility Crisis|可重复性危机]]** 全球心理学与生物医学爆发[[Replication in Education Research|复现危机]]，推动数据可用性声明（Data Availability Statements）普及。
@@ -146,8 +134,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫签署行政令正式将黄金标准确立为国家科研强制准则** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第六章将黄金标准科学作为[[Genesis Mission|创世纪计划]]的双翼之一，要求联邦资助项目全量强制执行。
 
 ---
-
-## 争议与学术交锋
 
 > [!debates] 科研合规学术争鸣
 >

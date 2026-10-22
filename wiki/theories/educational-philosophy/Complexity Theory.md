@@ -86,13 +86,9 @@ created: 2026-06-13
 updated: 2026-10-21
 ---
 
-# Complexity Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 教育生态系统中多元主体的非线性交互、高阶全局模式的自发[[Emergence\|涌现]]、网络连接性、自组织适应以及系统相变与临界转折。
 > - **理论问题** 彻底扬弃机械牛顿力学的线性[[Determinism\|因果决定论]]、受控实验的孤立[[Variable\|变量]]还原论以及实验室封闭系统推广假设，确立开放教育世界中不确定性、生成性与整体关系的[[Epistemology\|认识论]]正当性。
 > - **理论类型** 元理论（Meta-theory）、[[Paradigm\|范式]]级[[Analytic Framework\|分析框架]]、跨学科复杂适应系统理论。
@@ -212,8 +208,6 @@ updated: 2026-10-21
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 实在是动态演进、持续[[Emergence\|涌现]]且高度网络化的关系[[Champ\|场域]]；学校不是一台由离散零件拼装而成的机器，而是一个充满生机与不确定性的生态系统。
 > - **[[Epistemology\|认识论]]** 知者与被知者不可分割，观察者本身即为被观察网络中的节点；真理不在于发现永恒不变的普遍因果铁律，而在于理解情境动力学、关键转折点与自组织潜能。
@@ -232,8 +226,6 @@ updated: 2026-10-21
 
 ---
 
-## 发展脉络
-
 > [!phase] 复杂性理论的发展脉络
 > - **1960s–1980s — 混沌理论与[[Determinism\|决定论]]破产**
 >   气象学家洛伦兹（Edward Lorenz）发现“蝴蝶效应”，确立系统对初始条件的敏感依赖性；格莱克（James Gleick, 1987）推动混沌学说普及，数学家证明极简非线性方程可生成无限复杂的行为图景（Stewart, 1990），彻底打破拉普拉斯机械决定论神话。
@@ -245,8 +237,6 @@ updated: 2026-10-21
 >   基于主体建模（ABM）与复杂[[Network Analysis\|网络分析]]成为检验复杂系统假说的强力数字工具；同时，Best and Holmes (2010)、Burns & Köster (2016)、Mason (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]]、[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 将复杂适应系统确立为现代教育治理与跨国证据生态（[[OECD]] 37 个教育系统调查）的核心元理论透镜；政策执行复杂性理论（Honig, 2006; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）进一步揭示多层级治理中的中层组织界面与单体学校[[Absorptive Capacity|吸收能力]]制约，驱动公共教育政策从单向流水线控制转向自组织生态培育与全系统动力学协同。
 
 ---
-
-## 理论争鸣与批判反思
 
 > [!debates] 理论争鸣与局限
 > 
@@ -283,9 +273,7 @@ updated: 2026-10-21
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|

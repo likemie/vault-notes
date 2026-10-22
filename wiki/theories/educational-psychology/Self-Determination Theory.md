@@ -62,14 +62,11 @@ created: '2026-09-05'
 updated: 2026-10-22
 ---
 
-# Self-Determination Theory
 （自我决定理论）
 
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 人类行为的内在驱动力、心理成长动机，以及环境支持对个体健康、高阶认知投入与积极学业体验的促进与阻碍机制。
 > - **理论问题** 克服[[Behaviorism|行为主义]]刺激-反应论将人视为被动受赏罚驱动的局限，阐明内在自发动力如何萌发，以及外在规约如何内化为自决行为。
 > - **理论类型** 宏观动机心理学与人格发展理论（Macro-theory of Human Motivation and Personality）。
@@ -96,8 +93,6 @@ updated: 2026-10-22
 > | **基本心理需求量表（BPNS）** | 方法 | 心理测量工具；在教育中用于定量评估课堂、教师行为或数字化学习环境对三项心理需求的满足程度。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜环境对三大基本心理需求的满足直接决定了个体动机的高质量激发与维持
 > - **前提一** 人类天生具有探索环境、掌握技能和发展统整自我的主动倾向，但这并非无条件发生，而需要特定的环境滋养。
@@ -152,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 采取有机体辩证观（Organismic-Dialectic Perspective）：人是具有主动整合倾向的生命系统，但其健康潜能的实现严格受制于外部社会文化语境的滋养或阻抑。
 > - **[[Epistemology\|认识论]]** 强调主观心理体验的客观真实性与实证可测性；拒绝将动机还原为单一外在行为频次，聚焦动机背后的质性结构（自决程度）。
@@ -183,8 +176,6 @@ updated: 2026-10-22
 > - **2024–2025 — [[Man-Computer Symbiosis|人机协同]]与 AI 时代的新拓展** 扩展至人机协同学习[[Champ\|场域]]；[[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在 *Educational Research Review* 通过[[Meta-analysis\|元分析]]证实 [[Generative Artificial Intelligence\|GenAI]] 对大学生[[Affective Outcomes\|情感动机]]的大[[Effect Size\|效应量]]（$g^+ = 0.617$），实证确立了 SDT 在智能教育环境中的解释力。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

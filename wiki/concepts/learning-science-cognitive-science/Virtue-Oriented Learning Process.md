@@ -55,11 +55,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Virtue-Oriented Learning Process
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 美德导向学习过程是 [[Argument_Li_2012_Cambridge|Li (2012)]] 基于中国／东亚学习者的词汇研究、[[Classroom Observation|课堂观察]]和自述反思所识别的东亚文化学习过程模型。与西方以心智发展为焦点的模型不同，该模型以[[Learning Virtues\|学习美德]]的培养为中心，将学习视为一个通过美德实践来实现自我完善的道德过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.123]])。
 
 > [!quote|notitle]

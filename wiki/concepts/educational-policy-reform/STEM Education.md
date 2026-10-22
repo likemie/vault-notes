@@ -89,11 +89,7 @@ created: 2026-06-05
 updated: 2026-10-22
 ---
 
-# STEM Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学、技术、工程与数学教育（Science, Technology, Engineering, and Mathematics Education, STEM）是科学（Science）、技术（Technology）、工程（Engineering）与数学（Mathematics）四个学科领域深度交叉融合的教育[[Paradigm|范式]]与国家战略总称。它打破传统孤立分科教学的割裂状态，主张将学生置于真实世界的问题情境中，依托工程设计流程（Engineering Design Process）与科学[[Inquiry Cycle|探究循环]]（Inquiry Cycle），综合调动多学科原理进行建模、原型开发与实证检验，旨在培育学习者的[[Scientific Literacy|科学素养]]、[[Critical Thinking|批判性思维]]、高阶[[Problem Solving|问题解决能力]]与跨学科[[Epistemic Practices|认识论实践]]素养，并在大国竞争中构成国家关键科技劳动力储备的战略基石。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143)]]; [[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
@@ -114,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] STEM 教育与相近教育[[Paradigm\|范式]]辨析
 > | 比较维度 | 跨学科 STEM 教育 | 传统分科科学教育 | 创客教育（Maker Education） | 职业技术教育（Vocational Education） |
 > |---|---|---|---|---|
@@ -124,8 +118,6 @@ updated: 2026-10-22
 > | **[[Epistemic Aims\|认识论目标]]** | 培养综合[[Problem Solving\|问题解决]]与跨领域[[Epistemic Practices\|认识论实践]] | 掌握特定学科基本事实、定律与理论 | 激发造物兴趣与设计能动性 | 形成标准化岗位生产与服务操作能力 |
 
 ---
-
-## 核心要素
 
 > [!feature] 跨学科 STEM 教育的四大支柱要素
 > - **多学科深度有机融合（Interdisciplinary Integration）** 打破单科割裂，将数学量化建模、技术工具中介、工程约束优化与科学实证检验融为一体。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
@@ -209,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -221,8 +211,6 @@ updated: 2026-10-22
 > | **中试硬件赋能与纵向贯通命题** | 国家级中试基线与劳动力卓越中心贯通从 K-12 到博士全谱系，实现软硬件深度赋能 | 微电子创新生态、产教[[Pilot Scale Platform\|中试平台]]实战、全包式弱势群体教育支持 | [[Argument_NIST_2023_NSTC\|NIST (2023)]] |
 
 ---
-
-## 典型模式与技术平台
 
 > [!pathways] 国家战略体系与政策实践机制
 > - **立法保障与顶层协调** 通过《[[America COMPETES Act|美国竞争法案]]》及 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》等立法，将 STEM 纳入联邦与各州核心战略与教育问责体系；由[[National Science Foundation|美国国家科学基金会]]（NSF）、美国[[National Science and Technology Council|国家科学技术委员会]]（NSTC）及教育部统筹联邦五年战略规划。
@@ -249,8 +237,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 学科本体完整性 vs 浅层拼盘叠加
@@ -266,8 +252,6 @@ updated: 2026-10-22
 > 跨学科 STEM 教学的设计与实施门槛极高，高度依赖教师扎实的跨学科知识储备与高超的支架搭建能力。在缺乏师资专业支持的条件下强推综合 STEM 课程，容易导致教学秩序混乱与学习效果下滑。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- STEM 教学法对比实证研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

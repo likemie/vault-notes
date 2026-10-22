@@ -143,11 +143,7 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-# Meta-meta-analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Meta-meta-analysis\|元-元分析]]（Meta-[[Meta-analysis]]，在现代统计学中亦称二阶元分析 Second-Order Meta-Analysis, SOMA，早期文献称 Mega-analysis 或 Meta-synthesis）指在更高统计层级上对多个已发表[[Meta-analysis\|元分析]]（Meta-analysis）结果进行系统检索、方法学质控与定量合成的方法体系。与一阶元分析综合原始主要研究不同，二阶元分析以一阶元分析提取的汇总[[Effect Size\|效应量]]（及其背后的[[Sampling Error\|抽样误差]]结构）为[[Unit of Analysis\|分析单位]]，旨在估计宏观领域效应量基准、比较不同[[Construct\|理论构念]]与干预维度的相对有效性，并识别全领域效应[[Heterogeneity\|异质性]]的深层来源。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 2)]]
@@ -164,8 +160,6 @@ updated: 2026-10-22
 > *Second-order meta-analyses synthesize the findings of previous meta-analyses to provide a higher-order summary of evidence... controlling for dependencies through cluster-robust variance estimation.*
 
 ---
-
-## 术语演变与方法定位
 
 > [!ref-table]- 术语演变对照表
 > | 术语 | 提出者 / 使用者 | 含义侧重与历史定位 |
@@ -195,8 +189,6 @@ updated: 2026-10-22
 > | **核心目的与产出** | 建立宏观全景排行榜（League Table）与气压计 | 评估特定领域宏观平均效应、检验亚组调节[[Variable\|变量]]并评估发表偏倚 | 估计无偏宏观效应基准、精确分解多层级异质性，并以[[Preregistration\|预注册]]全库审计检验[[Chain of Evidence\|证据链]]可溯源性与可复现性 |
 
 ---
-
-## 历史演变与三代方法谱系演进
 
 > [!org-evolution] 二阶[[Meta-analysis\|元分析]]的三代方法谱系演进
 > - **1980s–2000s** **第一代：粗放元综合**
@@ -232,8 +224,6 @@ updated: 2026-10-22
 三代划分是方法学成熟度的分层而非严格的时间先后，三条路线在 2010 年后长期并存，各代的具体做法见上方多维对比表。
 
 ---
-
-## 经典二阶综合操作案例：Hattie 的六大领域与影响气压计
 
 > [!ref-table]- Hattie (2009) 六大影响因素领域与气压计分区（元分析数据见 [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428, Table 1)]]）
 > | 领域分组 | 涵盖维度与特征 | 一阶[[Meta-analysis\|元分析]]数量 | 平均效应量（Cohen's $d$） |
@@ -317,8 +307,6 @@ updated: 2026-10-22
 
 ---
 
-## 现代二阶元分析研究程序与步骤
-
 > [!proc] 现代二阶[[Meta-analysis\|元分析]]六步标准操作规程
 > 1. **前置 [[PICO Framework|PICO]] [[Construct|构念]]对齐与多数据库检索** 检索主流学术数据库与灰色文献，依据 [[PICO Framework|PICO]] 框架严格界定研究人群、干预措施、对照组属性（活跃对照 vs 照常对照）与学业成果构念，严格排除缺乏定量合并矩阵或构念严重错位的元分析；遵循 [[PRISMA]] 声明透明报告筛选流程。
 > 2. **[[AMSTAR]] 方法学质量评估** 采用改编的 AMSTAR 准则，[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 的改编版为 12 项（原版 AMSTAR 为 11 项，AMSTAR 2 为 16 项）进行双人独立编码（一致率 $\ge 95\%$），设定得分阈值（如 $\ge 0.75$）作为高质量指示[[Variable\|变量]]。
@@ -328,8 +316,6 @@ updated: 2026-10-22
 > 6. **二阶[[Meta-regression\|元回归]]与亚组调节变量检验** 纳入[[Construct\|理论构念]]类型、[[Independent Variable\|自变量]]/[[Dependent Variable\|结果变量]]角色、研究设计等调节变量，全面分解效应[[Heterogeneity\|异质性]]来源。
 
 ---
-
-## 统计建模核心步骤与方法学原理
 
 > [!proc]- 二阶[[Meta-analysis|元分析]]统计建模与检验流程
 > ```mermaid
@@ -439,8 +425,6 @@ updated: 2026-10-22
 
 ---
 
-## 认识论辩护与推论层级约束
-
 > [!concept-lens] [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 的辩护与动态知识学习模型
 > [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015, pp. 27–33)]] 从支持者角度为二阶综合的合理性辩护：元-[[Meta-analysis\|元分析]]通过[[Effect Size\|效应量]]将不同的具体测量转换为“共同表达式”，使跨研究比较相对学习结果成为可能。但他同时指出，共同表达式的代价是结果高度抽象化，难以判断总体效应究竟来自表层记忆、深层理解还是概念性学习；因此主张引入[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]，按知识类型对学习结果进行多维细化分解。
 
@@ -471,8 +455,6 @@ updated: 2026-10-22
 > 4. **终结圣杯神话的金字塔隐喻** 二阶元分析未曾寻获掌控教学成效的终极法则（圣杯），其实际成果为筑起了一座庞大的金字塔：一方面体量巨大、形式固化而无法轻易移位；另一方面局部不断受损、整体需无休止扩建修复，始终处于临时性与未完成状态（p. 437）。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] R 语言多水平二阶[[Meta-analysis\|元分析]]实现代码
 > ```R
@@ -520,8 +502,6 @@ updated: 2026-10-22
 > - **二阶元综合效应量离散度与同质性检验** [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 采用变差系数（$V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%$）对《可见的学习》133 项效应量展开统计测算，证实全库变差系数达 $56.87\%$（严重突破 $33\%$ 阈值），实证揭示第一代粗放二阶综合在未经同质性控制下输出单一线性均值与关节点的数理缺陷（pp. 238–241）。
 
 ---
-
-## 方法学局限与学术争议总览
 
 > [!warning] 方法学局限与争议提示
 > 二阶[[Meta-analysis\|元分析]]虽然在统计技术上通过[[Robust Variance Estimation\|三明治估计量]]实现了多水平稳健化，但在[[Epistemology\|认识论]]和证据应用层面仍面临多重系统性挑战：

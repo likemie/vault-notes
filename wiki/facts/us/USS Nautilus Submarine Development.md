@@ -43,11 +43,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# USS Nautilus Submarine Development
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 由美国海军与美国原子能委员会（Atomic Energy Commission, AEC）联合发起、[[Hyman Rickover|海曼·里科弗]]（[[Hyman Rickover|Hyman G. Rickover]]）海军上将直接指挥的颠覆性战略工程；旨在攻克舰载核反应堆小型化与安全控制难题，打造全球第一艘不依赖空气推进（Air-Independent Propulsion, AIP）且具备长期水下航行能力的核动力潜艇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
@@ -59,8 +55,6 @@ updated: 2026-10-22
 > - **核心问题导向** 彻底解决传统常规柴电潜艇必须频繁浮出水面充电、航速缓慢且极易被雷达侦测与反潜反击的致命缺陷，确立对苏联红海军的压倒性非对称深海威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–185)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心工程假说与技术路线
 > 通过压水核反应堆（Pressurized Water Reactor, PWR）技术将浓缩铀链式核裂变释放的热能转化为高温蒸汽驱动汽轮机，使潜艇彻底摆脱对化石燃料与大气氧气的依赖，实现真正的全天候隐蔽深海巡航。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
@@ -77,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!timeline] 工程里程碑
 > - **1953 年 5 月 31 日** 在美国爱达荷州沙漠国家反应堆试验站，小型舰载反应堆陆上样机成功启动并连续运转近两小时，随后完成长达五天的全功率持续运行试验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 183–184)]]
 > - **1954 年 1 月 21 日** 世界上第一艘核动力潜艇鹦鹉螺号（USS Nautilus, SSN-571）在康涅狄格州格罗顿正式下水。
@@ -86,8 +78,6 @@ updated: 2026-10-22
 > - **1958 年 8 月** 鹦鹉螺号成功完成穿越北极极点冰盖的极地穿越阳光行动，开辟了极地战略航道。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **指挥与监管方** [[Hyman Rickover|海曼·里科弗]]海军上将统领的美国海军反应堆部门与原子能委员会，负责总体路线裁决与穿透式技术把关。
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > - **跨机构强力统合** 打破海军军种内耗与文职官僚阻隔，实现从核物理基础科研到舰艇工程制造的无缝集成。
 
 ---
-
-## 历史成效与治理启示
 
 > [!performance] 战略成效与治理反思
 > - **改写全球海战与地缘均势** 彻底终结了柴电潜艇时代，直接推动美国海军建立起核动力航母战斗群与弹道导弹核潜艇二次核打击力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 184)]]

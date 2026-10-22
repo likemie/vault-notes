@@ -49,11 +49,7 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# Paul B. Paulus
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国实验社会心理学家、得克萨斯大学阿灵顿分校（UT Arlington）心理学系杰出教授、前理学院院长、顶级期刊《Group Dynamics》主要撰稿人。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980–1995 年 — 解构群体神话与识别过程损失** 回应为什么面对面口头[[Brainstorming\|头脑风暴]]的实际产出总是显著低于无交互的名义群体。
 >   - **代表著作** *Group Influence on Individual Task Performance* (1989)。
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 群体本身既非创意的天然催化剂，亦非必然的绊脚石；面对面口头交互之所以失败，是因为单一言语信道迫使思考者在排队等待时遗忘了即时构想（生产阻塞），并诱发了害怕被评判的自我防卫（评价顾虑）；只要改变交互媒介，采用异步书面轮转（Brainwriting）或推行“先个体独立深思、后群体结构化交锋”的混合[[Paradigm\|范式]]，群体的[[Heterogeneity\|异质性]]背景便能转化为强大的无意识语义启动刺激，实现真正超越个人的[[Wisdom of Crowds|群体智慧]]飞跃。Paulus (2000); Baruah and Paulus (2008); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 
 > [!citation-card] 关键表述
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > - **核心合作学生** J. Baruah — 共同开展[[Creativity Training\|创造力训练]]与群体构想实验（Baruah & Paulus, 2008）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

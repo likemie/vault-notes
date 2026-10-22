@@ -61,11 +61,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Goodhart's Law
-
 ---
-
-## 概念总览与核心界定
 
 > [!def] 核心界定
 > **古德哈特定律（Goodhart's Law）** 是治理科学、文献计量学与教育[[Sociology of Valuation and Evaluation|评估社会学]]中的核心经验定律。其经典表述为：**“当一个量化测度被选定作为政策控制与利益分配的目标时，该测度就会立即失去其原有的有效信息价值。”** 在科研资助、大学治理与教育政策中，该定律揭示了当论文发表篇数（Paper Counts）、期刊影响因子（Impact Factor）、大学排名位次或标准化测验均分等可量化代理指标被绑定于教职晋升、经费拨款与学校考核时，行动者必然展开策略性博弈与指标刷量（Metric Gaming），最终导致指标数值虚高而实质性原始创新与深层教育质量遭受系统性侵蚀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 > | **深层系统后果** | 促进实质性[[Knowledge Production\|知识生产]]与学术共同体良性发展 | 诱发系统性[[Academic Risk Aversion\|学术避险]]，挤出颠覆性创新与公共产品供给 |
 
 ---
-
-## 核心要素与异化机制
 
 > [!feature] 古德哈特定律在科研与教育治理中的四大异化机制
 > - **代理指标置换实质目标（Surrogate [[Institutional Displacement|displacement]]）** 将便于测量的量化代理[[Variable|变量]]（如论文数量、引用频次）偷换为难以测量的终极价值（如学术卓越、科学真理与[[Critical Thinking|批判性思维]]），造成系统性目标置换。
@@ -128,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与典型案例
-
 > [!ref-table]- 古德哈特定律在科研生态中异化实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -141,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 古德哈特定律核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
@@ -152,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变历程
-
 > [!dev-timeline] 古德哈特定律及相关评估定律演变脉络
 > - **1975 — 查尔斯·古德哈特提出货币政策控制定律** 英国经济学家古德哈特（Charles Goodhart）在研究央行货币调控时指出，任何一旦被用作货币调控目标的统计规律都会立即瓦解。
 > - **1976–1979 — 坎贝尔定律（Campbell's Law）在社会评价中确立** 唐纳德·坎贝尔提出社会量化指标用于决策越多，其越会腐化所意图监测的社会过程本身。
@@ -162,8 +150,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》系统诊断科研发表出版的古德哈特异化** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第五章深入解构源自 17 世纪的学术期刊论文发表体制，批判指标博弈与不可[[Replication in Education Research|复现危机]]，提出[[Dynamic Research Notebook|动态研究笔记本]]与机器可读[[Gold Standard Science|黄金标准科学]]的新[[Paradigm|范式]]。
 
 ---
-
-## 争议与学术交锋
 
 > [!debates] 量化治理与指标评估学术争鸣
 >

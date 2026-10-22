@@ -59,11 +59,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# William W. Brickman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国二十世纪著名比较教育史学家、教育史学者，纽约大学与宾夕法尼亚大学教育学讲席教授，美国比较教育学会（[[Comparative and International Education Society|CIES]]，原 CES）创始人兼首任会长，《比较教育评论》（CER）创刊编辑。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1960 — *Pre-evolution of Comparative Education*** 追溯十九世纪朱利安（[[Marc-Antoine Jullien]]）之前的古典与近代比较教育思想萌芽，驳斥“学科始于十九世纪实证调查”的狭隘断代论。
 > - **1964 — *Educational Systems in the United States*** 系统阐述美国联邦分权体制下公共教育的演进脉络及其与欧洲教育思想的渊源。
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育学不是脱离历史虚构的抽象[[Variable|变量]]实验，而是一门深深植根于一手史料考据与文化脉络的人文历史探究。任何无视制度历史生成过程与文化特殊性的跨国指标对比，不仅违背史学求真伦理，而且必然陷入“[[Dissimilar Units|非同质单位]]”（dissimilar units）的虚妄比较。
 
 > [!citation-card] 历史主义取向学者的学术阵营
@@ -117,8 +109,6 @@ updated: 2026-10-22
 > - **历史主义学派传承** 与[[Immanuel Kant|康德]]尔、卡扎米亚斯等人共同构建起北美比较教育学的历史学阵营，为后续抵御新自由主义标准化与[[Positivism|实证主义]]指标垄断提供了深厚的思想防线。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 罗斯特等论布里克曼的西方中心先驱地位与史学贡献
 > 比较教育研究的早期中心几乎完全由发达国家的专家组成，布里克曼、埃格特森与安德森是其中的美国代表；正是他们对历史文献的抢救与编目，维系了学科与古典人文主义传统的纽带。（pp.122, 129）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122, 129)]]

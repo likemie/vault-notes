@@ -84,11 +84,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Market Failure
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **市场失灵（Market Failure / 市场失灵理论）** 是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想假设，导致资源配置无法自发达到帕累托最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 102)]]
@@ -110,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 市场失灵修补[[Paradigm|范式]]、[[Market Shaping and Creating|市场塑造]]范式与现代安全产业政策范式对比
 > | 比较维度 | 传统市场失灵修补范式（Market Fixing） | [[Market Shaping and Creating\|市场塑造与创造范式（Market Shaping）]] | [[Modern Industrial Policy\|现代地缘安全产业政策（Geopolitical Security）]] |
 > |:---|:---|:---|:---|
@@ -124,8 +118,6 @@ updated: 2026-10-22
 > | **评估考核方法** | 静态微观项目级[[Cost-Benefit Analysis\|成本收益分析]]（CBA）。 | 系统级[[Reflexivity\|反思性]]评估、全系统演化学习。 | 国家安全评估、供应链去风险指标与技术代差维持度。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 产业与科技政策视野中的核心市场失灵维度
 > - **公共品属性与知识正外部性（Public Goods & Knowledge Spillovers）** 前沿基础科学具有非排他性与非竞争性，私人企业无法完全独占研发收益，导致全社会基础研发投资自发低于社会最优水平（Nelson, 1959; Arrow, 1962）。
@@ -233,8 +225,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 市场失灵相关理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -256,8 +246,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 被动平整场地 vs 主动塑造市场
@@ -276,8 +264,6 @@ updated: 2026-10-22
 > 市场失灵理论对于解决资源静态配置中的局部缺陷（如环境污染、通用研发补贴）具有严密的微观分析力，但一旦进入高科技[[Geopolitics|地缘政治]]冲突、系统级产业生态重组或颠覆性创新赛道，其单纯基于价格与供求均衡的分析工具便显现出严重的解释力边界。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 市场失灵修补与现代战略干预特征对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

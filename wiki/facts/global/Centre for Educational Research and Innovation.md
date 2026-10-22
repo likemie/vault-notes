@@ -93,11 +93,7 @@ created: 2026-09-11
 updated: 2026-10-22
 ---
 
-# Centre for Educational Research and Innovation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]，简称经合组织）于 1968 年设立的半自主专门研发机构。作为经合组织内部兼具基础探索与前瞻试验性质的教育智库，CERI 致力于开展具有前沿风险与长期价值的跨国教育研发，充当沟通学术科学界、国家政策制定者与一线学校实践的制度化孵化器。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5, 8)]]
@@ -110,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1968–1970 年代 — 概念突破与前瞻实验期** 1968 年[[OECD|经合组织]]正式设立 CERI，标志着组织内部深刻认识到经济增长不仅有数量规模，更有定性维度，教育应当作为“改善生活条件的重要工具”；到 1970 年，经合组织逐步摆脱狭隘的经济主义偏见，承认教育肩负着广泛的社会与文化使命，在追求经济发展的同时高度关注教育机会均等与民主化。在此阶段，经合组织教育工作围绕四大业务支柱展开（教育委员会、CERI 领导理事会、学校建筑项目 [[Programme on Educational Building|PEB]]、高等教育机构管理项目 [[Institutional Management in Higher Education|IMHE]]），CERI 充当包容成员国多元立场、尊重国家自主权的“广泛意识形态教会”，积极吸收欧洲激进教育学与[[Lifelong Learning|终身学习]]思想；1973 年发布里程碑式报告《循环教育：终身学习策略》（*Recurrent Education: A Strategy for Lifelong Learning*），率先将教育从青年期终结的封闭形态重塑为贯穿个体生命全程的弹性制度；同期发起首批跨国指标试错探索。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–440)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]
 > - **1980–1990 年代 — 指标孵化与实证帝国奠基** 1983 年美国《国家处在危险之中》报告发布后，里根政府教育部门转向 CERI 寻求跨国比较方案；在 CERI 资深主管 [[Jarl Bengtsson]] 推动下，该中心于 1988 年正式孵化设立[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems, INES）项目网络，由教育社会学家 [[Norberto Bottani]] 挂帅长达十年，成功奠定了《[[Education at a Glance\|教育概览]]》（Education at a Glance, EAG）的生产母体，并直接催生了后来的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 5, 8)]]
@@ -121,8 +115,6 @@ updated: 2026-10-22
 >   - **前瞻情境、高阶素养量规与多利益相关方论辩（2019–2022）** 2019 年研制发布跨学科[[Higher-Order Thinking Skills\|高阶思维]]评价量规；2022 年由编者诺拉·雷瓦伊主持设计跨越学术建制派（[[Dirk Van Damme\|范达默]]）、官方资助派（施奈德）、全球工会派（班斯与亨利）、一线实践派（纳吉）、国家试点派（普勒茨）、慈善民主派（[[Vivian Tseng\|曾薇薇安]]）与批判伦理派（友利田）的 7 大利益相关者群体论辩矩阵，全面反思供给侧质量赤字与学术榨取，推动迈向[[Democratising Evidence\|证据民主化]]与专业受托伦理。[[Argument_Bouckaert_2023_OECD\|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 200–234)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **CERI 领导理事会（Governing Board）** 由各参与成员国任命的杰出教育学者、资深[[Policy Science in Comparative Education\|政策科学]]家与高级规划官员组成，独立于 [[OECD]] 传统政府间代表大会，享有自主决定中长期研究优先议题的权力；自 2010 年起，理事会正式设立经合组织工会咨询委员会（TUAC）/ [[Education International\|国际教育协会]]（EI）常设观察员席位，使全球逾 3200 万一线教师的专业诉求制度化融入战略审议。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
@@ -135,8 +127,6 @@ updated: 2026-10-22
 > - **多方平等对话与受托生态共建** 近年来深刻反思[[New Public Management\|新公共管理]]模式下的单向知识传输与工具主义采买，倡导在官方决策者、专业科研人员与一线教师工会之间建立以信任与共同所有权为基石的多边对话机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 108)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 229–231)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **前瞻政策理念框架** 循环教育（Recurrent Education）构想、“明日学校”六大情境模型、[[Definition and Selection of Competencies\|DeSeCo]] 关键素养理论框架。
@@ -157,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **理念先导力** 率先将[[Lifelong Learning\|终身学习]]与高阶认知素养植入全球政策[[Discourse|话语]]，深刻塑造了 20 世纪下半叶以来的跨国教育思潮。
 > - **制度孵化规模** 孕育的 [[International Indicators of Education Systems\|INES]] 与指标体系最终发展为调动数十个国家、囊括数十万数据点的全球测验帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -166,8 +154,6 @@ updated: 2026-10-22
 > - **工具采纳度** [[Creativity\|创造力]]与[[Critical Thinking Assessment\|批判性思维评价]]原型量规被欧美数十所高等院校与中小学直接采纳为校本课程嵌入式评价标准。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 28–30)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

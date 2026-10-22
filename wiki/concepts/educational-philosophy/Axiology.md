@@ -45,11 +45,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Axiology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **价值论（Axiology）** 是探究者在研究实践中所持有的价值、信念与意义目的系统（the values and beliefs that we hold），主要回答“什么被视为有价值的”（what is deemed valuable）以及“理解的根本目的是什么”（the purposes of understanding）。作为希区柯克与休斯（Hitchcock & Hughes, 1995）五层研究推导阶梯的最顶层哲学维度，价值论将研究从纯技术性的操作规程提升为受世界观与价值取向驱动的人类实践活动[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 111)]]。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 哲学探究四大维度的学理辨析
 > | 哲学维度 | 核心追问 | 关涉对象 | 在研究设计中的功能 |
 > |---|---|---|---|
@@ -82,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **价值驱动的五层推导阶梯** 价值论作为元理论源头，自上而下逐层渗透并决定[[Ontology\|本体论]]预设、[[Epistemology\|认识论]]立场、方法论考量与具体工具测度，终结“方法至上主义”的技术盲区[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 111)]]。
 > - **教育研究不可分割的政治属性** 教育探究、公共决策与政治权力不可分割地交织在一起，向应用性与评估性研究的[[Paradigm\|范式]]转向本身即体现了鲜明的制度性价值选择。
 > - **认识论旨趣与解放潜能** 价值论诉求赋予知识以不同的意图取向，从技术控制旨趣、实践理解旨趣跃升至[[Ideology Critique\|意识形态批判]]与个体解放旨趣（Habermas, 1972）。
@@ -130,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > - **21世纪前沿 — 复杂性与参与式行动共生** [[Complexity Theory\|复杂性理论]]与[[Action Research\|行动研究]]彻底确立探究者的价值内嵌性，教育研究全面拥抱价值反思、社会正义诉求与多元共生网络。
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：[[Value Neutrality\|价值无涉]]（Value-freedom）vs 价值涉入（Value-ladenness）
 > - **[[Positivism\|实证主义]]价值无涉阵营（蓝方）** 坚持科学知识必须彻底剔除研究者的个人偏好、道德信念与政治立场；唯有保持客观中立、超然旁观，才能产出具有跨时空普适效度的因果法则（p. 115）。

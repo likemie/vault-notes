@@ -76,11 +76,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Knowledge Bank
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **知识银行（Knowledge Bank）** 是戴安娜·斯通（Diane Stone）于 2000 年提出的制度分析概念，指[[World Bank|世界银行]]在 20 世纪 90 年代詹姆斯·沃尔芬森（James Wolfensohn）主政时期推行的战略转型：从以物理资本投资、工程建设与基础设施融资为核心的传统开发银行，重构为以全球[[Knowledge Production|知识生产]]、实证数据库建设、[[Warehousing of Good Practices|最佳实践仓储]]与宏观政策咨询为主轴的超国家知识权威中枢。这一转型使世界银行将合法性基础从单纯的“资金融通者”（Bank of Funds）重塑为全球教育与社会发展议程的“理念银行”（Bank of Ideas），确立了其在全球教育治理领域中作为重要[[Policy Brokerage|政策中介]]的机构地位。圈内制度分析同时揭示，知识银行推行的政策建议之所以能够产生实际约束力并付诸实施，根本上依托于主权信贷资金的刚性契约与财政约束。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[International Education|国际教育]]治理[[Knowledge Production|知识生产]]主体与咨询模式对比
 > | 比较维度 | 知识银行模式（[[World Bank\|世界银行]]） | 传统规范智库模式（[[UNESCO\|联合国教科文组织]]） | 智库型同行审议模式（[[OECD\|经济合作与发展组织]]，OECD） |
 > |:---|:---|:---|:---|
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > | **典型政策工具** | [[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（Systems Approach for Better Education Results, SABER）量规体系、公共支出审查（Public Expenditure Review, PER）、结果导向型规划贷款（Program-for-Results, PforR） | [[Global Education Monitoring Report\|全球教育监测报告]]（Global Education Monitoring Report, GEMR）、达喀尔与仁川行动框架 | 国际学生评估项目（PISA）、[[Education at a Glance\|教育概览]]（Education at a Glance, EAG） |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识银行运作的核心制度构件
 > - **自指性最佳实践数据库（[[Warehousing of Good Practices|Warehousing of Good Practices]]）** 建立集中化政策数据库，将各借贷国的试点数据汇总至华盛顿总部清洗后归纳为通用处方，在后续国别借贷报告中反复循环引用自身既往项目，形成自我引证的实证支持体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
@@ -165,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕知识银行形成的核心命题归纳
 > | 命题类型 | 核心理论判定 | 适用情境与解释对象 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -177,8 +167,6 @@ updated: 2026-10-22
 > | **成熟时滞与政策风潮命题** | 政策理念具有漫长的跨国采纳时滞，且多边银行内部议程存在周期性的学术时尚更替，容易给受援国制度建设造成代际断裂。 | 考察国际组织政策借贷与跨国政策转移（如高等教育贷款长期冻结）中的政策摇摆问题。 | [[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 473–474)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 知识银行演变轨迹
 > - **1968–1981 — 麦克纳马拉时代的智力投资与制度奠基** 罗伯特·麦克纳马拉（Robert McNamara）执掌[[World Bank|世行]]期间，大幅扩充教育借贷规模并组建中央经济研究团队，建立[[Return on Investment|教育投资回报率]]（Rate of Return on Education, RORE）实证计量传统，奠定了日后知识银行转型的人才储备与实证数据基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -191,8 +179,6 @@ updated: 2026-10-22
 > - **2010–2014 — 开放发展战略、STEP 跨国技能测评与全球知识集散地成型** 启动开放知识与开放数据倡议，设立开放知识库（OKR）与开放学习园区（OLC），配合 STEP 成人技能测试与 SABER 全球评估，实现从微观借贷向全方位跨国认知治理的系统升级。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议交锋
 >
@@ -234,8 +220,6 @@ updated: 2026-10-22
 > “知识银行”最初是戴安娜·斯通（Stone, 2000）在相对中性的制度分析语境下提出的描述性概念；后续批判比较教育学者（如 Steiner-Khamsi et al.）在使用时赋予了其更强的认识论规训批判意涵，而圈内实务分析者（如 Castro, 2009）则将其作为反思贷款资金与纯智库咨询关系的现实主义锚点。读者在使用该概念时，应清晰辨别批判治理视角与金融实务视角之间的语境差异。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

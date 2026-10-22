@@ -41,8 +41,6 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Rasch Measurement
-
 ---
 
 > [!info] 定义

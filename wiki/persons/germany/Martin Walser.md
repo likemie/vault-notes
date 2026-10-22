@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Martin Walser
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 战后德国文坛巨匠、四七社（Gruppe 47）核心成员、公共知识分子，毕希纳奖与德国书业和平奖得主。
@@ -73,17 +69,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1998 — *Erfahrungen beim Verfassen einer Sonntagsrede* （起草星期天演讲的经验 / 保罗教堂演说）** 批判大屠杀耻辱记忆的媒体工具化与仪式化表演，主张将道德内疚回归个人内心良知。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 202–203)]]
 > - **1998 — *Ein springender Brunnen* （涌泉）** 以自传体小说反思童年时代在第三帝国时期的成长经验，拒绝后设道德说教。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 对历史罪责的真正反思应当发生在个人的内心深处与私人良知之中，而非通过媒体与知识精英主导的日常公开道德鞭笞；将奥斯威辛庸俗化为随时可动用的“道德大棒”只会引发公众的心理逆反与道德麻木，阻碍战后一代形成健康的国家认同与面向未来的建设性历史意识。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 202–203)]]
 
 > [!citation-card] 瓦尔泽论抵制对奥斯威辛的工具化与道德大棒
@@ -93,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **当代德国记忆文化与知识分子论战** 打破了战后德国知识界在赎罪问题上的禁忌语态，开启了关于德国历史记忆“正常化”（Normalisierung）的长期学术论辩。
 > - **[[Geopolitics|地缘政治]]与欧洲防卫能力反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中指出，战后德国对国家认同与爱国[[Pride in Learning|自豪]]感的彻底压抑，直接导致了当代欧洲在面对外部地缘扩张时缺乏可信的常规防务威慑意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **所涉核心事件** [[Walser-Bubis Debate|瓦尔泽-布比斯之争]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 思想与政治争议
 >

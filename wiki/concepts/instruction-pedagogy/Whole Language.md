@@ -71,12 +71,9 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-# Whole Language
 （全语言）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全语言（Whole Language）是一种关于儿童语言习得与读写教学的教学哲学、[[Epistemology|认识论]]与教育运动。它主张语言学习必须在真实（authentic）、完整的交际语境中整体进行，教学重心在于儿童对意义的主动建构，坚决反对将读写能力机械拆解为脱离语境的孤立子技能序列（如无情境拼读规则、孤立字词表与填鸭式练习册）进行[[Rote Learning|死记硬背]]。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 143–144)]]
@@ -93,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 全语言与主流早期识字教学模式多维对比
 > | 对比维度 | 全语言（Whole Language） | [[Language Experience Approach\|语言经验法]]（LEA） | [[Simple View of Reading\|简单阅读观]]（Simple View） | [[Direct Instruction\|直接教学]]（Direct Instruction） |
 > | :--- | :--- | :--- | :--- | :--- |
@@ -104,8 +99,6 @@ updated: 2026-10-22
 > | **阅读理解观** | 理解即读者利用多维线索建构意义的猜测游戏 | 阅读是儿童将自我思想与他人文字连接的口语延伸 | 理解与解码明确二分，解码是通往理解的唯一通道 | 理解被拆解为可量化测量的词汇、主旨等子技能 |
 
 ---
-
-## 核心维度与实施原则
 
 > [!frames-ref] 全语言哲学的五大核心原则
 > 1. **意义建构优先（Meaning Priority）** 读写教学的核心是建构思想与文化意义，而非操练符号工具本身；课堂鼓励所有口头与书面语言功能的自然发展（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 143]]）。
@@ -156,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 全语言核心命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与机制 | 代表学者 |
 > |---|---|---|---|
@@ -166,8 +157,6 @@ updated: 2026-10-22
 > | **次政府铁三角政策清洗** | “科学本位阅读”修辞与排他性法案本质上是政商官铁三角维护商业练习册垄断、剥夺教师[[Professional Judgment\|专业判断]]的政治经济建构。 | 识字政策史批判、教科书商业寻租分析、阅读战争制度反思 | Edmondson; Goodman; Strauss |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 全语言的历史发展与政治斗争
 > - **1967 年：猜测游戏假说的提出** [[Ken Goodman|肯·古德曼]]（Goodman, 1967）发表经典论文《阅读：心理语言学的猜测游戏》，为全语言奠定了[[Cognitive Constructivism|认知建构主义]]与心理语言学理论基石。
@@ -180,8 +169,6 @@ updated: 2026-10-22
 > - **2020 年：方法论偏见全面解构** 帕特里克·奥康纳（Patrick O'Connor, 2020）深入审查哈蒂二阶综合的底层元分析，证实哈蒂通过纳入垃圾研究、非对称审查正面研究以及计算错误，人为压低了全语言的真实效果。
 
 ---
-
-## 争议与方法论反思
 
 > [!critique-method] 评估方法论偏见（O'Connor 对 Hattie 的指控）
 > - **概念混淆与垃圾研究注入** [[John Hattie|哈蒂]]所采纳的[[Steven Stahl|斯塔尔]]与米勒（Stahl & Miller, 1989）[[Meta-analysis|元分析]]将早期的“[[Language Experience Approach|语言经验法]]”混同于全语言，甚至塞入了全语言运动诞生前的 Brazziel and Terrell (1962) [[Behaviorism|行为主义]]准备研究，造成典型的“垃圾输入，垃圾输出”（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 144]]）。
@@ -197,8 +184,6 @@ updated: 2026-10-22
 > - **反抗商业规训与教师去专业化** 全语言强调文学[[Open-Mindedness|开放性]]与教师的专业裁量权，难以被批量打包为昂贵练习册；而拼读切片模式借由排他性法律门槛，成功将公共预算转化为出版寡头的垄断利润，致使全语言沦为政商旋转门寻租与技术官僚规训的牺牲品。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 全语言相关[[Meta-analysis|元分析]]与对比实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -229,8 +214,6 @@ updated: 2026-10-22
 > > | Abrami et al. (2020) | Effects of Balanced Literacy interventions | 17 | 7,388 | 91 | 0.20 |  |
 
 ---
-
-## 应用案例
 
 > [!case] Case 1: Dahl and Freppon (1994) 双城[[Cohort Study|追踪研究]]
 > 该研究追踪了低收入内城区学校的 8 个班级两年（幼儿园到一年级），结果表明虽然量化阅读测试得分相似，但全语言班学生能生成更多故事语言的句法与词汇特征，并建立起极强的读写坚持性与学习所有权（ownership），而技能本位班只有最熟练的学生才有此类倾向（pp. 146–147）。

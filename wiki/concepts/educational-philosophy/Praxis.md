@@ -66,11 +66,7 @@ created: 2026-07-25
 updated: 2026-10-22
 ---
 
-# Praxis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 实践（Praxis / 实践哲学）在[[Critical Pedagogy|批判教育学]]与批判社会理论中，是指**批判性反思（Critical Reflection）与变革现实的自觉行动（Transformative Action）之间不可分割的辩证统一**。它拒斥将知识矮化为纯粹书斋式的经院思辨或技术官僚式的实用操作。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）的解放教育学脉络中，实践是学习者突破“[[Culture of Silence|沉默文化]]”与实现人性化的唯一载体（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 8, 10]]）；在安东尼奥·葛兰西（Antonio Gramsci）、让-保罗·萨特（Jean-Paul Sartre）与[[Daniel Bensaïd|丹尼尔·本赛德]]（Daniel Bensaïd）的马克思主义谱系中，实践哲学（Philosophy of Praxis）更进一步升华为一种将求实冷面的制度科学分析与炽热道德乌托邦融为一体、动员被压迫者建立广泛反抗联盟以重构国家与公共教育的总体性历史[[Epistemology|认识论]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 76–77, 85]]）。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 思想史脉络中不同实践概念谱系的比较
 > | 维度 | [[Aristotle\|亚里士多德]]古典实践观（Praxis） | [[Paulo Freire\|弗莱雷]][[Critical Pedagogy\|批判教育学]]实践（Freirean Praxis） | 葛兰西/[[Daniel Bensaïd\|本赛德]]历史唯物主义实践哲学（Philosophy of Praxis） |
 > |------|--------------------------------|-----------------------------------------|----------------------------------------------------------|
@@ -108,8 +102,6 @@ updated: 2026-10-22
 > | **主要局限/风险** | 依附于城邦奴隶制经济特权，缺乏结构批判意识 | 容易被后世学者矮化为单一课堂内的微观[[Active Learning\|主动学习]]技术 | 面临跨国政治联盟缺乏战略协调、容易陷入碎片[[Avatar\|化身]]份斗争的现实挑战 |
 
 ---
-
-## 核心要素
 
 > [!feature] 实践[[Construct|构念]]的四重内在张力与支柱
 > - **词与劳作的互渗统一（Word and Work）** [[Paulo Freire|弗莱雷]]指出，真正的实践绝非纯粹的言辞空谈（[[Verbalism]]），亦非不假思索的盲动冒险（Activism）；必须通过对话“命名世界”，并将这种命名转化为改造世界物质现实的集体劳作。
@@ -166,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 实践（Praxis）核心命题归纳
 > | 命题维度 | 核心理论断言 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -176,8 +166,6 @@ updated: 2026-10-22
 > | **政治与社会行动维度** | 真正的实践必须超越个体化修辞，演化为联合工会与大众运动的集体组织抗争 | 抵制教育私有化与[[Structural Adjustment Programs\|结构调整]]运动 | Apple (1982); Torres (2007) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 实践[[Construct|构念]]的思想史流变
 > - **公元前 4 世纪 — [[Aristotle|亚里士多德]]奠基** 区分理论（Theoria）、创制（Poiesis）与实践（Praxis），将实践定义为以自身为目的的伦理与政治城邦活动。
@@ -188,8 +176,6 @@ updated: 2026-10-22
 > - **2000s — 全球化反抗与冷热辩证法重构** 本赛德（1999）与托雷斯等学者（2009）将实践哲学运用于批判新自由主义[[Educational Privatisation|教育私有化]]，确立跨阶层反抗同盟的组织[[Paradigm|范式]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

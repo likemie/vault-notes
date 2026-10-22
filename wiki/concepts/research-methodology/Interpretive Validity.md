@@ -70,11 +70,7 @@ created: 2026-06-23
 updated: 2026-10-22
 ---
 
-# Interpretive Validity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **解释效度（Interpretive Validity）**，亦称**诠释效度**，原指在[[Qualitative Research|质性研究]]中准确捕捉情境与事件对**参与者/主体本身**的主观意义、解释框架、语言术语及行动意图的能力——即坚持从“内部人视角”（[[Emic and Etic|emic perspective]]）与受访者自身[[Discourse|话语]]理解现象（Maxwell, 1992；Blumenfeld-Jones, 1995）。在当代[[Metascience|元科学]]与[[Research Synthesis|证据综合]]方法学中，该概念被进一步延伸至统计与证据推论层面，指宏观综合结论、分类标签与排名体系在多大程度上能够真实保留并准确传达底层原始研究所操纵的干预实质、对照基线与测量属性，而非通过脱离情境的粗暴标签化强加外部解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–16)]]
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 解释效度与相关效度维度的对照辨析
 > | 维度 | 解释效度（Interpretive Validity） | [[Descriptive Validity\|描述效度（Descriptive Validity）]] | [[Theoretical Validity\|理论效度（Theoretical Validity）]] | [[Construct Validity\|构念效度（Construct Validity）]] |
 > |---|---|---|---|---|
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > | **方法学[[Paradigm\|范式]]** | 植根于[[Interpretivism\|诠释主义]]质性范式；[[Metascience\|元科学]]延伸至综合推论有效性 | 质性事实记录与量化原始数据保真度共用 | 质性理论生成与量化因果机制建构共用 | 量化心理测量学与实验因果推断的核心标准 |
 
 ---
-
-## 核心要素
 
 > [!feature] 解释效度的双重[[Operationalization|操作化]]准则
 > - **以参与者本土语汇与分类呈现数据** 在质性田野中坚决拒绝以研究者的先验理论标签强行遮蔽当事人的本土术语（Geertz, 1974），完整保留语言背后的社会文化脉络。
@@ -139,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -149,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1970s — 解释人类学与[[Rich and Thick Description|深描]]传统奠基** [[Clifford Geertz|克利福德·格尔茨]]（Clifford Geertz）提出“从本地人的视角”（from the native's point of view）与深描（Thick Description），确立了质性探究必须以理解行动者的意义之网为旨趣。
 > - **1992 — Maxwell 提出五类型[[Qualitative Validity|质性效度]]框架** 约瑟夫·麦克斯韦（Joseph Maxwell）在《哈佛教育评论》系统建构理解导向的质性效度分类学，正式确立解释效度（Interpretive Validity）为连接描述事实与理论建构的核心支柱，强调其在[[Positivism|实证主义]]量化[[Paradigm|范式]]中无直接对应物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > - **2025 — [[Metascience|元科学]]审计中二阶综合解释效度审查** 卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）等学者在批判《[[Visible Learning|可见的学习]]》时将解释效度维度深度融入元科学审计，实证揭示宏观[[Meta-meta-analysis|二阶元分析]]因概念错配与对照条件混同对因果解释效度造成的灾难性破坏。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 14)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -31,11 +31,7 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# Entrepreneur in Residence
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 驻校企业家（Entrepreneur in Residence, [[Education Innovation and Research\|EIR]]）是大学聘请的具有成功创业和退出经验的产业高管，其职责是同时支持多个[[University Spin-Out\|大学衍生企业]]的商业化进程，帮助他们"跨越从实验室到市场的鸿沟"([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025, pp.147-148]])。
 
 > [!abstract|notitle]
@@ -52,9 +48,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心价值
-
-> [!success|notitle]
+> [!success] 核心价值
 > [[Education Innovation and Research\|EIR]] 制度的价值在于补充了学术创始团队系统性缺乏的商业能力（pp.147-148）：
 
 - **合同与谈判** EIR 能识别试点合同中对衍生企业不利的条款，并利用其行业经验进行协商

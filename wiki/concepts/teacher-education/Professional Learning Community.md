@@ -78,11 +78,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Professional Learning Community
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **专业学习共同体（Professional Learning Community, PLC）** 指学校内部教育者（涵盖专任教师、[[School Leadership\|学校领导]]者与教学辅助人员）以持续改善所有学生的学业发展与身心福祉为共享愿景，基于互信文化与合作探究机制，对日常教学实践与学术科研证据展开系统审思、批判研读与集体实践的制度化协同组织形态（DuFour, 2004; Stoll et al., 2006; Vescio et al., 2008）。在[[Evidence-Informed Practice\|证据知情实践]]与高质量研究[[Research Utilization\|证据使用]]（[[Quality Use of Research Evidence Framework\|QURE]]）视域下，PLC 不仅是教师同侪互助的社会网络，更是使一线教育工作者免受科层行政事务碎片化挤压、为深思熟虑研读转化外部适切证据提供专有时空保障的实践庇护所，以及承载证据“共同审议”（shared deliberation）与多层使能构件发生交汇的微观组织中枢。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 141–144)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 188, 191–192)]]; [[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 18–19)]]
@@ -208,8 +204,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -232,8 +226,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：全员包容性参与 vs 骨干攻关任务小组（Task Forces）
 > - **全员包容性参与立场（蓝方）** 强调[[Knowledge Mobilisation\|知识动员]]必须卷入全体教职员工，唯有全员深度参与[[Reflexivity\|反思性]]学习对话，才能重塑全校性循证文化并避免知识垄断在少数人手中。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
 > - **骨干任务小组攻关立场（红方）** [[School Leadership\|学校领导]]者常视全员参与为耗费工时与资源的低效之举，倾向于选派少数骨干教师（如证据带头人）组成精干的“任务小组”开展专项试点。
@@ -245,8 +237,6 @@ updated: 2026-10-22
 > - **缺乏工时保障导致的工作量过载** 若系统未能在教师工作量中实质扣减行政杂务，仅仅在原有负荷上叠加 PLC 例会，极易诱发教师的严重身心倦怠，导致循证实践流于形式主义打卡。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 192–193)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table] 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

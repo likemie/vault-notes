@@ -47,11 +47,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Cost of Ownership
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **所有权成本（Cost of Ownership, COO）** 是指在装备或技术系统的整个生命周期内，为获得、运营、维护该设备并生产单位合格产出物所分摊的全部直接与间接经济成本之和。与仅关注购置标价的传统核算不同，COO 模型将初始固定投资、可变运行维护费用、设备[[Reliability|可靠性]]/利用率损失以及材料与良率缺陷损失统一转化为“单位合格产出成本”（Cost per Good Unit），成为衡量先进制造装备生命周期真实经济价值与产业[[Competitiveness|竞争力]]的权威基准。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
@@ -82,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **固定资本成本（Fixed Capital Costs）** 包含设备采购标价、厂房洁净室空间占用折旧、安装调试工程费及配套辅助设施投入。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 > - **可变运营与维护成本（Recurring Operating Costs）** 包含工艺消耗品（靶材、化学气体、去离子水）、电力与气体能耗、预防性维护备件及现场工程师人力成本。
 > - **[[Reliability|可靠性]]与停机损失（Reliability and Downtime Costs）** 包含非计划故障停机造成的产能闲置损失、平均无故障工作时间（MTBF）及平均修复时间（MTTR）对应的机会成本。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 746)]]
@@ -127,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] 外部批评
 > - **参数高度敏感性与主观假设偏差** COO 计算对设备稼动率（Utilization Rate）与微小良率波动的假设极为敏感，微小的参数设定偏差可能导致不同设备之间的单位成本估算产生数倍颠倒。
 > - **忽略战略颠覆性技术价值** COO 模型本质上是针对渐进性技术改良与已知工艺路线的优化工具；当面临全新[[Paradigm|范式]]革新（如全新光刻物理架构）时，初期极高的 COO 可能会扼杀具有远期战略潜力的颠覆性技术。
@@ -154,8 +144,6 @@ updated: 2026-10-22
 > COO 模型高度依赖真实连续生产环境下的精确工时与缺陷数据收集，在缺乏中试验证环境或[[Sample Size Determination|样本量]]极小的实验室研发初期，难以开展高置[[Reliability|信度]]的模型测算。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

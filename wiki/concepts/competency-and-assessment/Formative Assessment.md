@@ -57,11 +57,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Formative Assessment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 形成性评价（Formative Assessment，常被称为促学评价 Assessment for Learning）是指在教学进程中系统诱发、解释和利用关于学生学习状况的证据，向教师与学生提供指向下一步改进的反馈，并据此动态调整教与学活动的评价[[Paradigm\|范式]]。其核心在于将评价功能从终结性认证（Certification）转向学习促进（Learning），通过澄清[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]、开展诊断性活动、提供低利害（Low-Stakes）练习机会以及培育自我调节与同伴反思能力，为[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]等[[Higher-Order Thinking Skills\|高阶思维技能]]的生成提供持续的[[Scaffolding\|脚手架]]支持。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 32–34)]]; Black & Wiliam (1998, 2007); Crooks (2008); [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–17)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 形成性评价与总结性评价对比
 > | 比较维度 | 形成性评价（Formative Assessment） | 总结性评价（Summative Assessment） |
 > |---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **适用认知目标** | 复杂问题解决、论证构建、批判审视与[[Creativity\|创造性]]构想 | 既定标准达标判定、大范围常模比较与知识覆盖 |
 
 ---
-
-## 核心要素
 
 > [!feature] 形成性评价的核心实施要素（Black & Wiliam, 2007; Nicol & Macfarlane-Dick, 2006; [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]；[[Argument_Hattie_2005_ACER\|Hattie, 2005]]）
 > - **明晰与分享[[Success Criteria\|成功标准]]（Clarifying Criteria）** 预先向学生阐明[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]（如 [[VALUE Rubrics]]），使学生明确努力方向。
@@ -152,8 +144,6 @@ updated: 2026-10-22
 > **评价数据的教学归因转向** 形成性评价最深层的效能不在于向学生打上“会”或“不会”的标签，而在于将学生未掌握的内容视作对教师后续行动的即时提示。当教师将评价数据理解为对自己教学成效的反思（而非仅仅关于学生智力或努力）时，形成性评价才能促使教师改变教学策略与重组支架，完成教学改进的实质转化。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

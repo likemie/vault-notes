@@ -53,11 +53,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Time-Space Compression
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 时空压缩（Time-Space Compression）源自马克思主义地理学家大卫·哈维（David Harvey）的政治经济学[[Critical Theory|批判理论]]，指在资本主义为克服积累危机而加速资本周转的过程中，借助现代信息通信技术与交通运输手段，大幅缩短克服空间障碍所需的时间，从而在主观体验与客观实践中造成空间距离被时间急剧消解的现象。在比较教育研究中，[[Robert Arnove|阿诺夫]]（Arnove）将时空压缩视为区分当代全球化与传统世界体系历史阶段的根本[[Ontology|本体论]]分水岭。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
@@ -87,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **以时间消灭空间** 现代电信与数字网络消解了物理地理的阻隔，使得中心国家的资本调度、决策指令与课程模式能够即时抵达边缘地区。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
 > - **生产方式与教育劳动的弹性化** 伴随时空压缩，传统局限于国境内的福特制（Fordism）大规模流水线被全球分布式的丰田制（Toyotism）即时生产所取代，迫使教育系统转而培养具备弹性、适应性与[[Lifelong Learning|终身学习]]技能的劳动力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 > - **以太空间与身份重构** 跨国数字连接开辟了新型以太空间（ether space）与离散空间（diaspora space），允许个体跨越国界接触异质文化，建构混合身份。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 112–113)]]
@@ -138,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -154,8 +146,6 @@ updated: 2026-10-22
 > - **2000 年代 — 引入比较教育政治经济学** [[Robert Arnove|阿诺夫]]等人将时空压缩概念引入比较教育学，用以界定全球化相较于传统[[World-Systems Theory|世界体系理论]]的质性转变，并解释[[Virtual University|虚拟大学]]、跨国劳动力重组与[[Globalization from Below|自下而上的全球化]]抗争。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107, 112–114)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力
 > - **全球无界论（激进全球主义）** 认为时空压缩彻底宣告了“地理的终结”与“民族国家的消亡”，全球化将迅速抹平所有地域界限，形成同质化的无边界世界。

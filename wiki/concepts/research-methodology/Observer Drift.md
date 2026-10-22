@@ -29,11 +29,7 @@ created: 2026-07-24
 updated: 2026-10-22
 ---
 
-# Observer Drift
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 观察者漂移（Observer [[Institutional Drift|drift]]）是观察者在长时间观察过程中逐渐改变评分标准和判断尺度的倾向（Cooper & Schindler, 2001, p. 380）。随着时间推移，同一观察者可能对相同行为给出不同的评分或编码，导致数据的[[Reliability\|信度]]下降（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
@@ -45,8 +41,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 观察者漂移的特征
 > - **时间依赖性** 漂移随时间推移发生，与疲劳、注意力下降和重复性任务导致的认知变化有关
 > - **评分标准松动** 观察者可能在早期阶段严格按照[[Definition of Terms\|操作性定义]]评分，后期阶段因熟悉而放松标准
@@ -54,8 +48,6 @@ updated: 2026-10-22
 > - **多观察者场景放大效应** 如果多位观察者各自的漂移方向和幅度不同，[[Inter-Rater Reliability\|评分者间信度]]将严重受损
 
 ---
-
-## 防范措施
 
 > [!info] 防范观察者漂移的策略
 > - 在观察全程定期进行[[Inter-Rater Reliability\|评分者间信度]]检验，而非仅在初期校准一次

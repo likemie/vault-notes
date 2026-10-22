@@ -55,11 +55,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Space of Equivalence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **等值空间（Space of Equivalence）** 由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量通过制度化创设统一分类编码、基准刻度与公分母，在异质社会实体、机构与实践之间建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 > | 治理功能 | 为跨国比较与排位建立平准基底 | 消除不同制度体系间的比较障碍 | 绕过主权壁垒实现远处掌舵 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **制度化公分母建构** 通过专门的专家委员会与技术承包商网络，人为设定共同测度标准，在异质社会实践间强行打通可[[Commensuration|通约]]刻度。（Desrosières, 1998）
@@ -156,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -174,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 标准化跨国统计[[Commensuration|通约]] vs 本土情境教育[[Ontology|本体论]]多元性
@@ -191,8 +181,6 @@ updated: 2026-10-22
 > > - **Rose（1999）** 警告数字技术将大量主观、偶然与偏向性的政治决断包装成无可置疑的客观事实，严重削弱了民主审议空间。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨国等值空间构建与维系的实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

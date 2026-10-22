@@ -43,11 +43,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Martin Lindauer
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国动物行为学家、感官生理学家与社会生物学先驱；慕尼黑大学动物学研究所研究员，法兰克福大学教授与维尔茨堡大学动物学研究所所长，巴伐利亚科学与[[Geisteswissenschaften|人文科学]]院院士。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **2008** 在德国维尔茨堡逝世，享年 89 岁。
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 代表性学术贡献与论著
 > - **1955 — *House-Hunting by Honey Bee Swarms* (*Schwärme der Honigbiene auf Wohnungssuche*)** 详尽记录[[Eck Swarm Experiment|埃克蜂群]]等多次蜂群迁徙案例，发现侦察蜂通过摇摆舞强度和持续时间动态反映候选巢穴质量，证明了蜂群能够在完全无中心女王指令的情境下达成全局最优决策。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–120)]]

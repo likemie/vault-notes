@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Epistemic Curiosity
-
 > [!metax] [好奇心 · Curiosity](https://www.visiblelearningmetax.com/influences/view/curiosity)
 > 学生 › 情绪
 >

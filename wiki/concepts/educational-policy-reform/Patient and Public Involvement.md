@@ -44,11 +44,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Patient and Public Involvement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 患者与公众参与（Patient and Public Involvement, PPI）是指在医学、生命科学及相关社会研究中，由患者、照护者以及广大公众作为平等的积极研究伙伴，“与研究者共同开展”（With or by）或“由公众主动主导开展”的研究活动，而不仅仅是“对公众开展”、“关于公众”或“为了公众”进行的被动信息采集。（National Institute for Health and Care Research, 2019; 引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]）
@@ -64,8 +60,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 患者与公众参与（PPI）与相邻科研维度的系统对比
 > | 比较维度 | 患者与公众参与（PPI / Patient Centricity） | [[Clinical Trial\|临床试验]]受试招募（[[Research Topic\|research subject]] / Trial Recruitment） | 传统科学传播与公关（Public Communication / [[Participatory Research\|PR]]） |
 > |---|---|---|---|
@@ -75,8 +69,6 @@ updated: 2026-10-22
 > | **决策权力关系** | 双向协商、共同决策，拥有实质性反馈否决权 | 遵循由专家制定的严格规程（Protocol），无权修改方案 | 单向信息传递，由学者或公关团队单方把控议程 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代患者与公众参与（PPI）的四大核心支柱
 > - **全生命周期深度嵌入（R&D Lifecycle Embedding）** 彻底打破将公众参与局限于方案通过后或成果发布后的碎片化做法，将患者之声机制化内嵌于立项优先级设立、动物模型论证、临床方案编写、终点指标选择及药监上市对话等各个关键节点。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]
@@ -95,8 +87,6 @@ updated: 2026-10-22
 > - **医学研究慈善机构的中枢引领** [[Association of Medical Research Charities\|英国医学研究慈善联合会]]（[[Advanced Manufacturing Research Centre\|AMRC]]）148 家成员单位每年投入 16 亿英镑科研经费，在英国癌症研究中心（Cancer Research UK）等重大项目中将病患直接聘为课题评审专家与伦理委员，开创了第三部门使命驱动型科学参与的标杆[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 74)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

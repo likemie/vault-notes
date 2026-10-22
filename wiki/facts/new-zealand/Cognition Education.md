@@ -67,11 +67,7 @@ created: "2026-05-23"
 updated: 2026-10-22
 ---
 
-# Cognition Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是新自由主义教育准市场、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 机构官方宣称致力于将学习科学（Learning Science）转译为面向学校、社区与政府的专业实践服务，推动全球教育改进；在批判学者视阈下，其实质扮演了将公共教育资产私有化、推动新自由主义教育治理与知识商品化的商业先锋。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织演进历程
 > - **1989–1996 准市场求生与被迫试错期**
@@ -116,8 +110,6 @@ updated: 2026-10-22
 >   - **2018** 考文出版社（Corwin Press）从 Cognition 手中全面收购 Visible Learningplus 咨询专营权，进一步将其推向全球化商业流水线。
 
 ---
-
-## 治理架构与双层运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（Cognition Education Trust 理事会）** 慈善信托理事会作为最高控股方，拥有营利性运营公司的 100% 股权，负责任命董事、审定年度公益捐赠与战略方向。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 66)]]
@@ -173,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与规模数据
-
 > [!indicators] 业务规模与辐射范围
 > - **本土市场垄断力** 长期掌控新西兰最大的中小学校车网络与工资清算业务，被学界定性为新西兰本土最大的[[Educational Management Organisation|教育管理组织]]（EMO）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]
 > - **跨国[[Policy Network|政策网络]]节点** 作为新西兰教育服务业对外输出的旗舰，深度嵌入英联邦、海湾合作委员会国家及[[OECD|经合组织]]（OECD）成员国的教育决策链条。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 35–48)]]
@@ -187,8 +177,6 @@ updated: 2026-10-22
 > - **\$50M** （企业体量） 2018 年接盘 Visible Learningplus 全球专营权的美国[[Corwin Press|考文出版社]]年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >
@@ -205,8 +193,6 @@ updated: 2026-10-22
 > > 批判治理学者指出，尽管 Cognition 每年承接数以千万计的教育部教师培训、课程评估与领导力项目，但由于其采取私营有限责任公司架构，其核心运营成本、利润率、董事薪酬及第三方版税合同均被排除在《官方信息法》（Official Information Act, OIA）的法定披露范围之外。这种公私混合网络实质上以商业机密为盾牌，架空了议会质询与公民对公共教育预算流向的民主审查权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 3–7, 82–84)]]
 
 ---
-
-## 关键引用
 
 > [!citation-card] 慈善信托架构下的商业免税与公共利益背离
 > 在 2012 至 2014 年间，向 Trust 支付的捐款消除了 Cognition Education Limited 及其子公司的应税收入……2015 年，Trust 实际分配给慈善受资助者的款项仅有 25.1 万新西兰元，只占该集团总营收的 0.9%。该组织是否仍应被界定为服务于公共利益的免税慈善信托，面临着严重的学术与政策拷问。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
@@ -232,8 +218,6 @@ updated: 2026-10-22
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用[[Critical Policy Analysis|批判性政策分析]]，揭露 Cognition 专营 [[Visible Learning]] 知识品牌、向[[John Hattie|哈蒂]]支付超 86.9 万新西兰元版税以及向[[Corwin Press|考文出版社]]（Corwin）转让专营权的政商旋转门资本运作（pp. 30–31）。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 机构关联网络
 >

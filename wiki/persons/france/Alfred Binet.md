@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Alfred Binet
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国心理学家、实验心理生理学家与现代心理测量学奠基人；巴黎索邦大学心理生理学实验室主任，《心理学年鉴》（*L'Année psychologique*）联合创始人。
@@ -63,8 +59,6 @@ updated: 2026-10-22
 > - **1911** 在法国巴黎逝世，享年 54 岁。
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 代表性著作
 > - **1903 — *L'étude expérimentale de l'intelligence* (*智力的[[Experimental Research|实验研究]]*)** 通过对其两个女儿思维过程的精细观察，开创了个体认知风格与高阶心智过程的质性与量化结合[[Paradigm|研究范式]]。

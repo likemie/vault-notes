@@ -52,11 +52,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Self-Cultivation
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 修身（self-cultivation / self-perfection）是[[Confucian Learning Tradition\|儒家学习传统]]的核心目的：学习的对象不是外部世界，而是**自我本身**。自我是每个人需要终其一生去认识、反思、实践、精炼和完成的工程。因为没有人天生如此，所以人必须通过"学"来修身([[Argument_Li_2012_Cambridge\|Li, 2012, p.37]])。
 
 > [!quote|notitle]
@@ -64,9 +60,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **修身 vs 西方"认识世界"** 在儒家传统中，学习的首要方向是向内——完善自我；在西方传统中，学习的首要方向是向外——认识、掌握世界。这不是说儒家学习不包括认识世界（[[Zhu Xi\|朱熹]]的"格物致知"即为认知世界的一步），而是说认知世界服务于修身的更高目的([[Argument_Li_2012_Cambridge\|Li, 2012, pp.37-38]])。
 
 > [!example|notitle]

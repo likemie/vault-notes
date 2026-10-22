@@ -68,11 +68,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Institute for Effective Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 有效教育研究所（Institute for Effective Education, IEE）是英国约克大学（University of York）设立的独立慈善科研与中介机构，由国际知名[[Evidence-Based Education\|循证教育]]学者[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）等领衔创立；机构定位于连接“高标准实证因果生产”与“一线学校实践转化”的综合[[Knowledge Mediation\|知识中介]]纽带，致力于通过促进教育政策与实践中的[[Research Utilization\|研究利用]]（[[Research Utilization]]），系统改善处境不利儿童的教育成效。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2008–2010 — 创立奠基与跨大西洋[[Evidence Network\|证据网络]]构建** 斯莱文与贝特·钱伯斯（Bette Chambers）在约克大学创办 IEE，与美国约翰霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（[[Best Evidence Encyclopedia\|BEE]]）紧密协同，推出面向一线实践者的《简明证据通讯》（Evidence in Brief），向英国中小学系统引进国际前沿实证综述。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]
 > - **2011–2015 — 证据清算平台与试点创新资助** 创设英国首个针对具名教育干预方案的有效性评价数据库 Evidence 4 Impact（E4I），推行透明的四级因果评级标准；同时设立“创新评估专项资助”（Innovation Evaluation Grants），直接资助中小学校联合研究人员开展教学创新的前期因果试点评估。
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > - **2020–2021 — 战略转型与机构平稳交接** 伴随长期专项资助周期届满以及创始人斯莱文教授离世，IEE 于 2020 至 2021 年间结束了作为独立研究所的日常运营阶段；其核心资产、研究学校网络运营职能与数据库规范被英国教育捐赠基金会（EEF）及约克大学完整接管并持续沿用。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **学术管理委员会** 由约克大学资深教授、约翰霍普金斯大学合作学者及国际循证评估专家组成，负责把握重大科研项目的方法论严谨性。
@@ -110,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵与代表产品
 > - **Evidence 4 Impact（E4I）有效干预清算数据库** 英国首个针对学校教学方案的因果有效性评价在线门户。采用清晰透明的准入标准，系统评估市场上商业或开源教学软件与课程方案的因果实证水平，为中小学校长合理规划“[[Pupil Premium\|学生津贴]]”（Pupil Premium）采购提供第三方客观背书。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]
 > - **Evidence in Brief 简明实证通讯** 联合约翰霍普金斯大学教育研究与改革中心（CRRE）定期出版的双月通讯，以极简版面呈现全球关于阅读、数学及行为干预的高质量研究综述，发行覆盖全英数千所中小学校。
@@ -125,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **网络覆盖规模** 创设并协同管理全英近 40 所区域研究学校，间接辐射周边数千所基础教育公立薄弱学校。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **清算平台收录** E4I 数据库收录并独立评定逾百项中小学读写、数学及科技干预方案，成为英格兰学校管理层采购教学资源的重要参考源。
@@ -137,8 +125,6 @@ updated: 2026-10-22
 > - **确立英国具名方案清算标准** 在 EEF 聚焦通用教学策略（Approaches）的背景下，IEE 的 E4I 平台弥补了英国在具体具名打包项目（Programmes）因果证据审查上的制度空白。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

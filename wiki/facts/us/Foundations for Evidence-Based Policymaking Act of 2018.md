@@ -57,11 +57,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Foundations for Evidence-Based Policymaking Act of 2018
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2018 年由美国第 115 届国会两院跨党派全票或压倒性多数通过，2019 年 1 月 14 日由总统签署成为联邦公法（公法编号：P.L. 115-435）。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **问题背景与治理转型** 2001 年不让一个孩子掉队法（[[No Child Left Behind Act 2001\|No Child Left Behind Act]], NCLB）将“[[Scientifically Based Research\|基于科学的研究]]”写入 ESEA 法条，但规制型政策将单一[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与高利害问责死板挂钩，诱发了教学窄化与集体舞弊危机；2017 年国会内部更爆发了关于是否废除强制收集按种族分层学业成绩数据（Race-Disaggregated Data）的激烈党派交锋。传统[[Output-Oriented Governance\|循证治理]]面临部委数据孤岛、格式封闭、科研调取壁垒以及过度将 RCT 奉为唯一金标准的方法论瓶颈。法案系统承接了联邦[[Evidence-Based Policy-Making|循证决策]]委员会（Commission on Evidence-Based Policymaking, CEP）的核心建议，标志着联邦循证治理从狭隘的实验门槛转向全政府数据开放与治理基座的重大[[Paradigm\|范式]]跃升。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41–43)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法案以法制化形式确立了联邦政府各部门系统建立数据治理、学习议程与评价能力的法定义务，通过推行“默认开放且机器可读”原则破除部委数据壁垒，并在严格保密机制下赋权科研界安全调取联邦教育与民生微观行政数据，为国家宏观[[Output-Oriented Governance\|循证治理]]奠定全域制度基座。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
@@ -91,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1965** 约翰逊总统签署[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（ESEA），创设第一条款（[[Title I of the Elementary and Secondary Education Act\|Title I]]）补偿性财政拨款杠杆。
 > - **2001** 乔治·布什总统签署不让一个孩子掉队法（[[No Child Left Behind Act 2001\|NCLB]]），首次将“[[Scientifically Based Research\|基于科学的研究]]”刚性嵌入 ESEA 第一条款的拨款与问责门槛。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
@@ -102,8 +94,6 @@ updated: 2026-10-22
 > - **2019** 法案于 1 月 14 日由总统签署生效（P.L. 115-435），全面启动联邦部委学习议程编制与首席数据官任命。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 43)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国第115届国会立法、总统签署颁布。
@@ -117,8 +107,6 @@ updated: 2026-10-22
 > - **安全开放与数据集成** 依据 CIPSEA 框架建立微观行政数据安全共享接口，推动教育数据与劳工、人口普查等跨部门大数据的交叉连接。
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心推动联盟** 国会跨党派立法领袖、联邦管理与预算局（OMB）高层、各部委首席数据官与评价官 — 统筹全政府[[Evidence Standards\|证据标准]]与评价预算分配。
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **确立数据作为国家公共资产的法律地位** 强制性要求政府数据“默认开放且机器可读”，从源头上消除了学术界与政策界之间的数据壁垒。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

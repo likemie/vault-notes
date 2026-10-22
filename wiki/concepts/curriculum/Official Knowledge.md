@@ -48,11 +48,7 @@ created: '2026-05-21'
 updated: 2026-10-22
 ---
 
-# Official Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 官方知识（Official Knowledge），由 Michael Apple (1993, 2000) 在批判课程论中系统提出，指学校课程体系中被国家、教育官僚或社会支配群体选择性界定为合法、正当且唯一值得传授的知识。它并非中性无偏的自然知识积累，而是深刻反映了主导阶层与精英群体的文化利益与政治价值观，并通过课程制度化不断再生产社会中的[[Cultural Hierarchy\|文化等级]]与权力结构。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]; [[Argument_Xu_2024_CE\|(Xu, 2024, pp. 575–576)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 课程知识概念辨析
 > | 维度 | 官方知识（Official Knowledge） | [[Hidden Curriculum\|隐性课程]]（Hidden Curriculum） | 强[[Powerful Knowledge\|有力知识]]（Powerful Knowledge） |
 > |---|---|---|---|
@@ -84,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **政治选择性（Political [[Selectivity]]）** — 官方知识是从社会庞杂知识库中精心筛选出来的特定片段，筛选标准取决于[[Pact of Domination|统治契约]]与主导群体的利益。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]
 > - **制度合法化（Institutional Legitimation）** — 通过赋予官方审核盖印，将特定文化传统升格为唯一的国家正统，使其他非主流经验边缘化。[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]
 > - **[[Cultural Hierarchy\|文化等级]]再生产（Cultural Hierarchy）** — 在传递知识内容的同时，隐性确立了谁的文化代表国家、谁的知识更为高级的文化秩序。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]
@@ -127,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -143,8 +133,6 @@ updated: 2026-10-22
 > - **2020 年代 — 实证教科书与民族教育应用** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 与 [[Argument_Xu_2024_CE\|Xu (2024)]] 将其运用于中国教科书与[[One Country, Two Systems\|一国两制]]的实证分析，揭示官方知识在主流与边缘、中心与特区间的差异化生产机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

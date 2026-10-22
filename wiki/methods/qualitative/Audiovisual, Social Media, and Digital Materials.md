@@ -37,8 +37,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Audiovisual, Social Media, and Digital Materials
-
 > [!info] 定义
 > 视听、社交媒体和数字材料（Audiovisual, Social Media, and Digital Materials）是[[Qualitative Research\|质性研究]]中继观察、访谈和文件之后的第四种主要数据收集类型。这类数据可以采取照片、艺术品、录像带、网站主页、电子邮件、短信、社交媒体文本或各种声音的形式。还包括视觉[[Ethnography\|民族志]]（Pink, 2001）中的[[Creativity\|创造性]]数据收集程序，以及生活故事、隐喻性视觉叙事和数字档案（Clandinin, 2007）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.200）。
 

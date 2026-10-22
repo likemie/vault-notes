@@ -45,11 +45,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Thomas Carlyle
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 维多利亚时代苏格兰著名历史学家、政论家、哲学家，爱丁堡[[Grandes Ecoles|大学校]]长（1865–1868 年）。
@@ -71,16 +67,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1841 — *On Heroes, Hero-Worship, and the Heroic in History* （论英雄、英雄崇拜与历史上的英雄业绩）** 提出世界历史即伟人传记，系统考察神明英雄、先知、诗人、教士、文人与君王等六种历史英雄形态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类历史的本质是伟大人物在世间所成就之事的总和；客观物质环境与大众群体固然构成历史演进的背景燃料，但唯有具备非凡洞察力、崇高品格与钢铁意志的卓越领袖作为不可或缺的引燃闪电，历史进程才得以发生根本性的破局与飞跃。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
 
 > [!citation-card] 卡莱尔论伟人作为时代的引燃闪电
@@ -90,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **史学与政治哲学路径** 确立了 19 世纪欧洲广泛盛行的浪漫主义[[Great Man Theory|英雄史观]]，直接影响了后世对卓越政治领袖、战略决断者与天才科学家的传记[[Paradigm|研究范式]]。
 > - **组织与领导力理论** 成为 20 世纪现代领导力理论（特质理论 Trait Theory of Leadership）的源头。
 > - **当代地缘战略与国家建构反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中结合[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew）建国实践，重估卡莱尔思想对于反思现代平庸[[Bureaucracy|科层制]]与后现代解构主义的重要价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **当代重估者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中批判当代学术界对英雄叙事的污名化与过度解构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

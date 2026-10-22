@@ -50,11 +50,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# OECD-fication
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **经合组织化（OECD-fication）** 是指原本作为战后国际经济协调与多边咨询机构的[[OECD|经济合作与发展组织]]（OECD），在缺乏主权国家法定行政强制权、司法裁判权与直接财政制裁手段的情形下，依托跨国大规模标准化测评（如 [[PISA]]、[[Teaching and Learning International Survey|TALIS]]、[[Programme for the International Assessment of Adult Competencies|PIAAC]]）与以硬事实施展软治理的技术，将原本属于民族国家主权专属管辖的公共教育系统，重塑为服务于全球[[Knowledge-Based Economy|知识经济]]与人力资本积累的国际对标议程；进而驱动各国国内教育目标、素养构念、质量监测与行政问责机制，向经合组织所推崇的经济功利主义导向与产出控制范式实质趋同的宏观制度变迁过程。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 278)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 > | **适用层次** | 全球教育多边治理网络与宏观制度演进格局 | 微观课堂、中观学校督导至宏观治理的全景度量技术 | 民族国家内部政策制定者与利益群体的策略性行动 |
 
 ---
-
-## 核心要素
 
 > [!feature] 经合组织化的四大核心支柱
 > - **话语范式的人力资本化** 将传统承载公民教化、文化传承与社会凝聚的教育事业，窄化界定为面向未来知识经济劳动力市场的战略性[[Human Capital Theory|人力资本]]投资，把教育产出质量与国家宏观经济[[Competitiveness|竞争力]]建立因果挂钩。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 272)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,8 +143,6 @@ updated: 2026-10-22
 > - **2010 年代至今 — “经合组织化”理论化与多边示范** 丹尼斯·尼曼与克斯汀·马滕斯系统提出“经合组织化”概念，指出该组织已成为全球教育政策的唯一总设计中枢，其硬事实软治理模式成为其他涉教国际组织竞相模仿的典范。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269, 278)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -171,8 +161,6 @@ updated: 2026-10-22
 > 经合组织化概念主要适用于分析深度融入全球经济竞争与采纳西方绩效问责框架的体系；对于相对封闭、自给自足或坚持传统宗教教化导向的特殊教育系统，其解释力受到结构性限制。此外，经合组织化不等于各国内部政策实践的绝对同质化，各国的本土转译机制与政治过滤仍会催生多样化的制度变体。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 274–276)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

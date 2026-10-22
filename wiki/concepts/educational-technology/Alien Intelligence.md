@@ -48,11 +48,7 @@ created: 2026-09-23
 updated: 2026-10-22
 ---
 
-# Alien Intelligence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 异己智能（Alien Intelligence）是一个非拟人化（De-anthropomorphism）的技术[[Ontology|本体论]]与认知哲学概念，指具备强大的符号计算、概率生成与模式识别能力，但在本质上完全脱离人类具身生活经验（Dis-embodied）、缺乏主观意识体验、情感共鸣与伦理[[Intentionality|意向性]]的非人类认知实体。在教育哲学与读写教学中，该概念用于打破将大语言模型拟人化为“数字导师”或“全知权威”的技术崇拜，促使学习者以审慎、批判的目光对待算法输出，将其视为来自陌生机器心智的外部反应，从而捍卫人类求知者的[[Epistemic Agency|认识主体性]]。[[Argument_Smith_2026_SPE|Smith (2026, pp. 10–11)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 异己智能与相关技术[[Paradigm|范式]]的对比
 > | 比较维度 | 异己智能（Alien Intelligence） | 拟人化数字导师（Anthropomorphic Tutor） | 中性计算工具（Neutral Calculator） |
 > |---|---|---|---|
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > | **正义风险** | 防范[[Formative Epistemic Injustice\|成长性认识不正义]]的核心防御武器 | 易诱发[[Cognitive Deskilling\|认知去技能化]]与自加信度赤字 | 局限于分配正义（设备普及），忽视心智剥夺 |
 
 ---
-
-## 核心要素
 
 > [!feature] 异己智能的核心要素
 > - **非具身性与现实脱节（Dis-Embodied Cognition）** 缺乏物理身体与真实社会生活体验，无法基于常识与生存直觉区分现实洞见与离奇空想，高度依赖用户的提示词驱动。[[Argument_Smith_2026_SPE|Smith (2026, p. 7)]]
@@ -133,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -148,8 +138,6 @@ updated: 2026-10-22
 > - **2026 — 引入教育哲学与读写教学** 斯宾塞·J·史密斯（Spencer J. Smith）在《教育哲学与教育研究》（*Studies in Philosophy and Education*）中将异己智能概念引入读写教育，构建起防范[[Formative Epistemic Injustice|成长性认识不正义]]、推行思维外显与自我评估的三重课堂防御体系。[[Argument_Smith_2026_SPE|Smith (2026)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

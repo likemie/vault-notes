@@ -48,9 +48,6 @@ status: draft
 created: 2026-07-12
 updated: 2026-10-22
 ---
-# Internet-Based Experiments
-
-## 定义
 
 > [!def] 网络实验
 > 网络实验（Internet-Based Experiments）是通过互联网远程进行的[[Experimental Research\|实验研究]]，利用网页、电子邮件或聊天室等平台向参与者呈现刺激材料和收集反应数据（Reips, 2002a, 2002b; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
@@ -60,8 +57,6 @@ updated: 2026-10-22
 > - **问题类型** 与传统实验相同——检验干预或操纵是否产生因果效应，但增加了对远程参与行为和技术变异本身的研究。
 > - **[[Unit of Analysis\|分析单位]]** 个体参与者的反应数据（反应时、选择、[[Questionnaire\|问卷]]回答）。
 > - **输出形式** 组间比较（实验组 vs 控制组）、退出率分析、技术变异分析。
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]定位
 > - **与传统实验的关系** 既不完全等同也不完全相异（Reips, 2002b）。关键差异：参与者可随时退出、可在任意时间和自身环境中参与、[[Sample Size Determination\|样本量]]通常更大、依赖技术条件和计算机能力、更为公开。关键共性：基本理念相同、许多实验室实验同样依赖计算机、两种方式已产生相似结果。
@@ -103,8 +98,6 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 > [!info] 资料与分析
 > 网络实验的数据收集与传统实验共享核心逻辑——操纵[[Independent Variable\|自变量]]、测量[[Dependent Variable\|因变量]]——但额外面临三类特殊的数据质量问题：(1) 退出率可能极高（1% 至 87%），需作为因[[Variable\|变量]]分析而非简单忽略；(2) 技术变异（网络速度、计算机速度、软件差异）可能产生比传统实验更大的结果变异（Reips, 2002b, pp. 245–246）；(3) 多次提交和身份验证困难可能混淆[[Reliability\|信度]]。Reips (2002a) 建议通过激励（付费或彩票）降低退出率约 31%；通过单次密码和一致性检查减少多次提交；通过子样本一致性检验检测数据可靠性。
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 需要大[[Sample Size Determination\|样本量]]但招募成本受限时；[[Research Question\|研究问题]]受益于参与者在自然环境中参与（高[[Ecological Validity\|生态效度]]）时；[[Study Population and Sample\|目标总体]]分布广泛或难以聚集时。
 > - **谨慎使用** 需要毫秒级精度计时时（反应时间实验）；干预涉及不可控的环境因素时；参与者计算机能力和网络条件参差不齐时。
@@ -128,8 +121,6 @@ Reips (2002a, 2002b) 提供的系统实施指南（[[Argument_Cohen_Manion_Morri
 > |---|---|---|
 > | [[Experimental Research]] | 方法 | 母方法——网络实验是传统实验在远程环境中的延伸，共享操纵[[Independent Variable\|自变量]]、测量[[Dependent Variable\|因变量]]、[[Random Assignment\|随机分配]]等核心逻辑 |
 > | [[Internet-based Survey]] | 方法 | 相近方法——静态印刷材料型网络实验与网络调查高度相似，共享下载时间、浏览器差异等问题 |
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 系统介绍网络实验的四类材料类型、Reips (2002a, 2002b) 的实施指南、与传统实验的相似与差异、优势与局限性。

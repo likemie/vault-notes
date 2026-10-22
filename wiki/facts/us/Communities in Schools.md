@@ -59,8 +59,6 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Communities in Schools
-
 ---
 
 > [!info] 项目定位与方案概况
@@ -70,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 运作模式与综合学生支持（ISS）架构
-
 > [!policy-design] 驻校协调员与三层支持体系
 > CIS 的核心运作机制是将全职**驻校项目协调员（Site Coordinator）** 嵌入公立学校，充当学校与社区资源的连接枢纽：
 > - **第一层（TIER 1 · 全校普及性支持）** 面向全校所有学生提供基础生活物资援助（如衣物、食品包）、健康与视力筛查、以及全校性防辍学动机宣讲。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **第三层（Tier 3 · 密集个案管理 Case Management）** 针对极端高危学生（慢性旷课、家庭严重变故、濒临退学）建立一对一个案档案，深度链接外部心理危机干预、司法支持与专业家庭辅导。
 
 ---
-
-## 循证清算中心评级全景对比
 
 > [!contrast-table] 六大清算中心对 CIS 的评级与审查机制对比（基于 Wadhwa et al., 2024）
 > | 清算中心 | 最终底线评级结论 | 核心支撑实证池与文献来源 | 评级推导机制与方法学裁量依据 |
@@ -94,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 案例核心启示：最大极性冲突背后的证据断裂机制
-
 > [!critique] CIS 案型揭示的三大[[Research Synthesis|证据综合]]断裂根源
 > [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 25)]] 指出，校内社区（CIS）案例生动呈现了宏观循证政策生态中最极端的制度撕裂：
 >
@@ -107,8 +99,6 @@ updated: 2026-10-22
 >    - [[National Dropout Prevention Center\|NDPC]] 作为扎根防辍实践界的倡导型平台，倾向于全面采信一线运行经验并给予最高推荐；而 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[Social Programs That Work\|SPTW]] 等机构坚持严格的[[Counterfactual\|反事实]]因果度量，直接导致了同一干预在政策市场上呈现出完全相反的评价光谱。
 
 ---
-
-## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
 

@@ -48,11 +48,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Long Peace
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **长和平（Long Peace / 冷战长和平）** 是著名冷战史学家[[John Lewis Gaddis|约翰·刘易斯·加迪斯]]（John Lewis Gaddis）于 1987 年提出的国际关系核心概念，指自 1945 年第二次世界大战结束以来，世界主要大国之间长达近一个世纪未曾爆发直接全面军事冲突的稳定历史时期。加迪斯指出，这段相对稳定的时期构成了近代世界史上大国关系持续最久的和平纪录。认知科学家[[Steven Pinker|斯蒂芬·平克]]（Steven Pinker）实证证实二战后全球战阵死亡率呈历史性大幅退潮。卡普与扎米斯卡（2025）深刻指出，长和平的维系绝非依赖于道德承诺或市场一体化，而是建立在原子弹恐怖破坏力与美国绝对军事优势所铸就的战略威慑之上；一旦这种威慑被和平自满所侵蚀，战后安全秩序将迅速崩塌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Pinker, 2011; Karp & Zamiska, 2025, pp. 39–41)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 原子时代长和平 vs 软件世纪 AI 威慑新常态辨析
 > | 比较维度 | 原子时代长和平（1945–2020） | 软件世纪 AI 威慑新常态（2020s–） |
 > |:---|:---|:---|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **西方社会心理** | 战后初期保有对[[Total War\|总体战]]破坏的深切记忆与防务共识。 | 陷入[[Winner's Fallacy\|胜者谬误]]与和平自满，同盟军队微缩为[[Bonsai Army\|盆景军队]]。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 维系长和平的关键机制支柱
 > - **原子威慑与恐怖平衡（Nuclear Deterrence）** [[Manhattan Project|曼哈顿工程]]研发的核武器所带来的总体毁灭力，将大国间直接军事冲突的成本推高至不可承受的极限。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–40)]]
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 长和平三大核心命题归纳
 > | 命题类型 | 核心理论断言 | 适用分析情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-22
 > - **2025 — 软件世纪长和平的威慑重塑** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中揭示和平自满引发的同盟脆弱性，呼吁以软件[[Hard Power|硬实力]]与[[AI Deterrence|人工智能威慑]]重构战后安全底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–47)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

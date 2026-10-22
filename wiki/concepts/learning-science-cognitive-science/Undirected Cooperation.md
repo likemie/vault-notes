@@ -51,11 +51,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Undirected Cooperation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **无指挥协同（Undirected Cooperation）** 是指大规模自主个体在完全没有中心领导者集中发号施令、缺乏预设层级指挥链与自顶向下监督控制的条件下，依据对等信息交互、局域行为规则与动态投票反馈，自发展开复杂探索、方案筛选并达成高度协调一致行动的自组织协同[[Paradigm|范式]]。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化体系中，无指挥协同被确立为连接生物自组织与人类尖端工程创新的核心理论纽带：从 1951 年[[Martin Lindauer|马丁·林道尔]]观测的数万只蜜蜂选巢迁徙，到罗马[[Flocking Behavior|椋鸟群飞]]与硅谷高敏捷初创团队的即兴协作，无指挥协同证明了群体无需依赖僵化的中央特权首领或科层管理中介，便能在剧变对抗环境中[[Emergence|涌现]]出卓越的[[Problem Solving|问题解决能力]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115, 120–121)]]
@@ -86,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **零中央指挥官介入** 协同的启动与推进不依赖单一中心首领的指令指派，所有个体均遵循通用对等交互法则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 116)]]
 > - **对等去中心化信息协议** 依靠标准化的公开通信机制（如摆尾舞步长与夹角编码、近邻拓扑传导）实现信息的全员透明共享。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
 > - **动态多向协商与投票** 方案的选择由全体成员在公开竞争中通过投入度（如跳舞频次、同行复核）动态加权决定。
@@ -132,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -148,8 +140,6 @@ updated: 2026-10-22
 > - **2025 — 确立为[[Technological Republic|技术共和国]]工程[[Organizational Culture|组织文化]]基石** 卡普与扎米斯卡将无指挥协同提升为对抗科层官僚僵化、重塑西方国家[[Hard Power|硬实力]]的核心组织哲学。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -59,11 +59,7 @@ created: 2026-06-16
 updated: 2026-10-22
 ---
 
-# BHP Foundation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 必和必拓基金会（BHP Foundation）是由全球自然资源与跨国矿业巨头必和必拓集团（BHP Group）全资资助设立的跨国企业慈善基金会，是当代[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）深度介入公共教育治理与[[Knowledge Mediation\|知识中介]]的典型代表。基金会通过与英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）订立战略资助协议，在全球范围内推动建设多中心教育[[Evidence Ecosystem\|证据生态系统]]（Evidence Ecosystem），并深度参与主权国家教育科研机构孵化与教师教育准入大纲的制度重塑。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2013–2017 — 创设与传统企业慈善期** 依托集团矿产业务所在地开展社区援助与助学项目，运营模式接近传统的企业社会责任（Corporate Social Responsibility，CSR）直接赠款。
 > - **2018 — 启动“全球[[Evidence Ecosystem\|教育证据生态系统]]”五年战略项目** 必和必拓基金会转型采取现代[[Venture Philanthropy\|风险慈善]]策略，宣布与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）正式结成全球战略伙伴，出资启动为期 5 年的跨国教学证据生态建设计划，旨在将 EEF 的因果评估与循证工具包模式向全球关键区域辐射扩散。
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **2021–至今 — 深度介入澳大利亚国家教育大纲改革** 借助注资项目形成的人事与机构网络，深度参与推动澳大利亚联邦政府创设官方证据旗舰——[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation，AERO），并通过人事跨界渗透主导了澳大利亚全国初任教师教育大纲《有力开端》（[[Strong Beginnings Report\|Strong Beginnings]]）的制度化重塑。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8, 11)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **董事会（Board of Directors）** 由必和必拓集团高级管理层、国际发展专家与前政府高官组成，掌控制定全球资助战略与大额拨备审批。
@@ -101,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心项目与业务矩阵
 > - **全球[[Evidence Ecosystem\|教育证据生态系统]]五年计划（[[Building a Global Evidence Ecosystem for Teaching]]）** 2018 年与英国 [[Education Endowment Foundation\|EEF]] 联合设立的旗舰计划，旨在超越英国本土单一中心，在全球范围内建立多国互联、扎根区域本土情境的现代证据生态网络。
 > - **[[SUMMA\|拉美和加勒比卓越教育中介网络]]（[[SUMMA]]）** 基金会资金重点支持的跨国证据平台（设于智利圣地亚哥），联合拉美十余国教育部将《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》翻译为西班牙语与葡萄牙语版本（《有效教育实践平台》），并结合拉美本土学情资助开展原创性学校现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
@@ -116,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **跨国中介孵化** 成功资助建立了辐射拉美和加勒比 21 国的 [[SUMMA]] 平台以及澳大利亚 [[Evidence for Learning\|E4L]] 组织，成为南半球最具影响力的两大[[Evidence-Based Education\|循证教育]]中介。
 > - **政策与大纲重构** 在澳大利亚，基金会资助的生态网络直接催生了国家级官方机构 [[Australian Education Research Organisation\|AERO]]，并主导了联邦教师教育核心大纲的法定修订。
@@ -128,8 +116,6 @@ updated: 2026-10-22
 > - **企业绩效理性对公共教育的重塑** 将复杂的教育教学人际互动实践，全面降维包装为以[[Effect Size\|效应量]]、标准化工具包为核心的企业化知识管理模式。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

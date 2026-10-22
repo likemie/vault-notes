@@ -62,11 +62,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Conceptual, Instrumental, and Symbolic Use of Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 概念性、工具性与象征性使用（Conceptual, Instrumental, and Symbolic Use of Research）是对[[Research Utilization|研究利用]]方式的经典三分类。概念性使用指研究以复杂而往往间接的方式为实践者提供信息，影响他们对各种议题的理解与思考（Nutley et al., 2007），Weiss (1980, p. 381) 称之为"知识渗透"（knowledge creep）；工具性使用指某一项研究直接回应某一具体议题，直接影响政策或实践决策（Nutley et al., 2007）；象征性（或策略性／战术性）使用指研究主要被用来事后为已作出的决策合法化（Knorr, 1977）。这一类型学也被用于[[Categorical Funding|分类研究]]干预的长期成果：工具性成果对应研究对实践的直接影响，概念性成果对应研究对思维的间接影响，象征性成果对应使用证据合法化做法或说服他人([[Argument_Nelson_2017_EducRes|Nelson & Campbell, 2017, p. 132]])。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 > | 作为长期成果 | 概念性成果（影响思维） | 工具性成果（影响实践） | 象征性成果（合法化做法）([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 132]]) |
 
 ---
-
-## 核心要素
 
 > [!feature] 三分类的核心要素
 > - **概念性使用（Conceptual Use）** 研究通过逐渐改变实践者对问题的理解方式发挥作用，Weiss (1980) 称其为"知识渗透"，侧重长效认知启发而非即时指令。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 3)]]
@@ -193,8 +187,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -217,8 +209,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 静态孤立分类 vs 动态过程流转
@@ -233,8 +223,6 @@ updated: 2026-10-22
 > - 作为成果分类使用时，成果是情境化、多层面的，测量需区分中间成果与长期成果、并用多种量化指标与描述性数据([[Argument_Nelson_2017_EducRes|Nelson & Campbell, 2017, pp. 131–133]])。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

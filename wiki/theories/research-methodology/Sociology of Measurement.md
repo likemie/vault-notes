@@ -49,8 +49,6 @@ updated: 2026-10-22
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] 将其应用于教育政策领域，研究 [[OECD]] [[International Education\|国际教育]]指标的发展([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.6–7]])
 > - Gorur 在 *European Educational Research Journal* 中进一步阐述了"迈向教育政策中的测量技术社会学"([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.18]])
 
-## 核心要素
-
 > [!abstract] Instrumentalism（工具主义）
 > 关注测量实践中如何解决实际问题——约束如何被处理、利益如何被翻译、分类如何被定义、框架如何被协商、方法如何被建立、协议如何被制定。Gorur 以 [[International Indicators of Education Systems\|INES]] 为案例展示了：面对技术不可行性，科学家放弃理论模型，采用以可用性为导向的经验方法([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.8–12]])。
 
@@ -75,8 +73,6 @@ updated: 2026-10-22
 > - [[International Indicators of Education Systems\|INES]] 项目通过一系列"排序"操作（Berg & Timmermans, 2000; Bowker & STAR, 2000; Law, 1994）将多样化世界标准化([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.9–10]])
 > - "共识"可视为一种"转译"（Callon, 1986; Latour, 1999），它消除或最小化阻碍([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.17]])
 > - 方法论的程序化产生了一种"机械客观性"（Porter, 1995），为政策制定者所珍视
-
-## 争议与批评
 
 > [!warning] 从批判到干预
 > Gorur 论证，仅指出数字是"简化论的"或"不准确的"是不够的——那些批判来自再现论（representationalist）而非生产论（productive/performative）的理解。测量社会学要求从[[Epistemology\|认识论]]批判转向政治论和存在论（ontological）的干预([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.18]])。

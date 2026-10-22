@@ -78,10 +78,6 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-# Participant Observation
-
-## 定义
-
 > [!def] 方法定义
 > 参与观察是[[Qualitative Research\|质性研究]]的核心数据收集方法。研究者进入被研究群体的自然情境，同时扮演"参与者"（加入群体活动、分享经验）和"观察者"（系统记录和分析行为与互动）的双重角色。这一方法植根于[[Ethnography\|民族志]]传统——Malinowski（1922）的"把握土著人的观点"和人类学的[[Fieldwork\|田野工作]]传统——后被广泛应用于教育研究等领域。目标是以内部人视角（主位视角）获取对群体文化、行为和社会互动的深度理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 408, 425, 430)]]
 
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > - **问题类型** 适合回答"该群体如何生活？""行为背后的意义是什么？""文化实践如何维持和再生产？"等描述性和解释性问题。
 > - **[[Unit of Analysis\|分析单位]]** 个体、群体、互动事件、仪式、组织[[Champ\|场域]]。
 > - **输出形式** 民族志描述、[[Rich and Thick Description\|厚描述]]、主题分析、理论建构（通常以[[Case Study\|案例研究]]或民族志报告形式呈现）。
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 知识是情境性的、由参与者建构的；研究者通过沉浸和理解获得知识，而非通过距离和测量。
@@ -104,8 +98,6 @@ updated: 2026-10-22
 > - **数据收集** 参与观察、[[Non-participant Observation\|非参与观察]]、[[Field Notes\|田野笔记]]、[[Semi-structured Interview\|半结构化访谈]]、非正式对话、文档收集、日记和生命史、视听记录。
 > - **分析方法**编码（实体/描述/理论编码）、[[Domain Analysis\|领域分析]]、主题分析、[[Progressive Focussing\|逐步聚焦]]、[[Narrative Analysis\|叙事分析]]、[[Analytic Induction\|分析归纳法]]。
 > - **辅助技术** 抽样（[[Theoretical Sampling\|理论抽样]]、目的抽样、滚雪球）、[[Gatekeepers\|守门人]]关系管理、[[Reflexivity\|反身性]]日志。
-
-## 研究程序
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -149,8 +141,6 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 
 ---
 
-## 边际性管理
-
 > [!citation-card] Hammersley & Atkinson 论边际性管理
 > [[Ethnography\|民族志]]学者必须在智识上保持“熟悉”与“陌生”之间的平衡，同时在社交上保持“局外人”和“朋友”之间的平衡。这种多重角色的管理，尤其是边际性（marginality，在组织之中但不属于组织）的管理，可能产生一种持续的不安全感。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 427)]]
 >
@@ -158,16 +148,12 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 需要深度理解群体文化、意义建构和行为情境的研究；探索性研究或新领域研究；涉及[[Tacit Knowledge|隐性知识]]、默会实践或不宣之规则的情况。
 > - **谨慎使用** 高度敏感的研究场景（犯罪团体、权力高度不对称的机构）；研究者可能与参与者利益冲突的情境；参与者高度脆弱的情况。
 > - **不适合使用** 需要大样本统计概括的研究；需要精确[[Causality\|因果关系]]估计的[[Experimental Research\|实验研究]]；时间资源极度受限的短期项目。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与政策遭遇
 > - **偏误来源** 反应性（研究者改变情境）、研究者偏见（选择性注意和解释）、光环/[[Halo Effect|牛角效应]]（对参与者的预判影响观察）。
@@ -192,8 +178,6 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考证比较教育学研究策略的演进，指出参与观察等常规社会[[Scientific Method\|科学方法]]的激增标志着学科摆脱[[Primary and Secondary Documents\|二手文献]]综述。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!strength] Bailey（1994, pp. 243–244）的四项优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 293]]）
 > - **非语言行为数据的优势** [[Observation Method\|观察研究]]在收集非语言行为数据时优于实验和调查。

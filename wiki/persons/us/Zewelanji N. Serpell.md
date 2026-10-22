@@ -44,11 +44,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Zewelanji N. Serpell
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育心理学家，弗吉尼亚联邦大学（Virginia Commonwealth University）心理学系教授。
@@ -69,14 +65,10 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2020 — *Supporting the Integration of Evidence into Federal Educational Policy and Reform Efforts: A [[Navigational Framework for Educational Researchers]]*** 发表在《教育心理学家》，系统反思[[Randomised Controlled Trials\|随机对照试验]]在立法中的现实局限，提出[[Policymaking Chronosystem\|政策制定时间系统]]与四阶段政策导航行动框架。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–48)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 学术研究对政策的有效赋能，绝不能指望政策制定过程倒向并模仿科学发现的漫长周期，而取决于研究者是否具备在复杂政治语境中航行的智慧。研究者必须理解政策本质上的价值属性，积极与国会委员会、立法幕僚和[[Policy Brokerage\|政策中介]]机构协作，以精炼精准的科学传播形态直接回应立法的迫切需求。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–46)]]

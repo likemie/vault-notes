@@ -57,11 +57,8 @@ status: draft
 created: 2026-10-08
 updated: 2026-10-16
 ---
-# Argument_Karp_Zamiska_2025_Technological_Republic_Ch13
 
 ---
-
-## 本章主旨
 
 > [!chapter-question]
 > 在一线作战人员面临生死威胁的现实下，为何庞大的防务采办[[Bureaucracy|科层制]]往往无法提供实用的技术支持，反而耗费巨资自建低效系统？从海湾战争期间军队无法直接购买市售对讲机，到阿富汗反简易爆炸装置（Improvised Explosive Device, IED）作战中多源情报难以整合的困境，传统军工定制采购模式存在怎样的体制障碍？《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（Federal Acquisition Streamlining Act of 1994, FASA）确立的[[Commercial Off-The-Shelf|商用现货]]（Commercial Off-The-Shelf, COTS）优先原则，如何为科技企业打破垄断、重塑国防[[Hard Power|硬实力]]提供法律依据？在科技行业普遍追逐短期商业利益的背景下，坚持直面复杂实战的[[Engineering Mindset|工程思维]]具有怎样的战略价值？
@@ -207,8 +204,6 @@ updated: 2026-10-16
 
 ---
 
-## 实证材料与关键论据
-
 > [!row-contrast] 政府采购制度与战地实战案例对照
 > | 历史事件与时期 | 主要涉及主体与基本事实 | 采办与管理体制的特征 | 产生的制度影响与启示 |
 > |:---|:---|:---|:---|
@@ -220,8 +215,6 @@ updated: 2026-10-16
 > | **2011 科技行业取向对比** | Zynga（70亿估值）、Groupon（250亿估值）与防务软件 | 行业资本高度集中于消费娱乐应用；防务领域技术开发受到忽视 | 表明直面复杂实体问题的工程取向对保障国家公共能力具有长期价值 |
 
 ---
-
-## 关键引用
 
 > [!citation-card] 战地装备诉求与国家道义责任
 > 如果一名海军陆战队员请求获得一把更好的步枪，我们必须全力打造；对于软件而言，同样应当如此。（p. 143）

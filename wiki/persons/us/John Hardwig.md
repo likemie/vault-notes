@@ -49,12 +49,9 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# John Hardwig
 （约翰·哈德威格）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国哲学家，田纳西大学诺克斯维尔分校（University of Tennessee, Knoxville）哲学系荣休教授与前系主任；先后毕业于耶鲁大学（文学学士）与德克萨斯大学奥斯汀分校（哲学博士）。当代社会[[Epistemology\|认识论]]与应用伦理学的重要奠基学者之一。
@@ -76,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1985 — *[[Epistemic Dependence]]*** 发表在《哲学杂志》（*The Journal of Philosophy*），以高能粒子物理学数百人署名的大规模实验为例，系统论证现代个体知者诉诸专家证词与分工网络的[[Epistemology\|认识论]]必然性，奠定[[Epistemic Dependence\|认识依赖]]理论根基。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 2)]]
 > - **1991 — *The Role of Trust in Knowledge*** 发表于《哲学杂志》，论述信任在[[Knowledge Production\|知识生产]]中的核心地位，指出既然现代信念建立在他人证言之上，理性求知便在根本上依赖于专家社群的道德品格与学术诚信规范。
@@ -86,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 哈德威格最深刻的理论断言在于击碎了[[Enlightenment\|启蒙运动]]以来统治西方[[Epistemology\|认识论]]的“独立自主个体知者”神话。他深刻指出，现代知识大厦的本质是高度社会化与分布式的，没有任何单个个体能够完全掌握支持自身所有理性信念的第一手实验与数学推导；如果一个外行固执地坚持事必躬亲式的纯粹个体验证，其结论必将远不如信任该领域专家权威来得可靠。因此，诉诸专家证言并非愚昧的屈从，而在许多关键领域恰恰是最高形式的理智反思。
 
 > [!citation-card] 约翰·哈德威格论诉诸专家权威的理性正当性
@@ -98,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 作为社会[[Epistemology\|认识论]]（Social Epistemology）的开创者之一，其观点直接促发了[[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman）等分析认识论学者关于非专家如何评估专家证言、信誉与学术分歧机制的系统探索。
 > - **学习科学与教育认识论路径** 纠正了[[Radical Constructivism\|激进建构主义]]盲目贬抑学术权威与显性教学的倾向，为理解学习者如何在专家支架与共同体证言引导下逐步走向成熟认识提供了认识论辩护。
 > - **人工智能认识论路径** 在生成式大模型成为日常[[Knowledge Production\|知识生产]]中介的背景下，[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 等学者直接将哈德威格的[[Epistemic Dependence\|认识依赖]]框架引入[[Man-Computer Symbiosis|人机协同]]研究，论证学生对外部工具的借助具备社会[[Ontology\|本体论]]必然性，核心课题在于区分合理的理性依赖与丧失评价能力的盲目顺从。
@@ -116,8 +107,6 @@ updated: 2026-10-22
 > - **当代教育中介应用者** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 借用其理论作为[[Man-Computer Symbiosis|人机共生]]学习中界定认识责任与教学法改革的哲学起点。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

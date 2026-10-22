@@ -57,7 +57,6 @@ status: draft
 created: 2026-10-07
 updated: 2026-10-16
 ---
-# Argument_Peterson_1987_OpenCourt_Ch08
 
 > [!question] [[International Education|国际教育]]的价值、教学与供给责任如何共同成立
 > 国际教育指什么，为什么值得追求？应怎样教、向谁提供？应由私人、国家政府还是国际机构承担？三个问题分别涉及价值分析、教育设计与政治供给，只有相互连接才能确定[[International Baccalaureate|国际文凭]]和[[United World Colleges|联合世界书院]]的未来方向。（p. 193）

@@ -62,11 +62,7 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# SCAMPER
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > SCAMPER 启发式创新技法（SCAMPER Technique）是由[[Alex Osborn\|亚历克斯·奥斯本]]（Alex Osborn, 1953）提出设问检核表雏形、后由罗伯特·埃伯尔（Robert F. Eberle, 1971）系统整合的一套标准化[[Creativity\|创造性思维]][[Scaffolding\|脚手架]]。该技法由七个首字母缩写操作算子构成：**S**ubstitute（替代）、**C**ombine（合并）、**A**dapt（调适/借用）、**M**odify / Magnify / Minify（修改/放大/缩小）、**P**ut to other uses（移作他用）、**E**liminate（消除/简化）与 **R**everse / Rearrange（反转/重组）。它通过显性化的问题提示，引导学习者主动跳脱常规认知惯性，对现有对象的形态、功能、材料与结构展开多向度的概念重组与变通拓展。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]; Eberle (1971)
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] SCAMPER 技法与主要[[Creativity\|创造力]]启发式工具对比
 > | 比较维度 | **SCAMPER 技法** | **自由[[Brainstorming\|头脑风暴]]（Brainstorming）** | **[[TRIZ]] 理论** | **六顶思考帽（Six Thinking Hats）** |
 > |---|---|---|---|---|
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | **在干预中的定位** | **技术型工具（Technique-based）** | 基础发散活动（Thinking-based） | 系统方法学（Methodology-based） | 组织思考策略（Strategy-based） |
 
 ---
-
-## 核心要素
 
 > [!feature] SCAMPER 的七大外显认知操作算子（Eberle, 1971）
 > 1. **S — Substitute（替代）** 思考哪些部分可以被替换？换用不同材料、替代性构件、不同受众群体、异质流程或替代能源。
@@ -168,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心理论断言 | 关键机制与调节[[Variable\|变量]] | 代表学者与实证依据 |
 > |---|---|---|---|
@@ -179,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] SCAMPER 技法演进脉络
 > - **1953 年　[[Alex Osborn\|亚历克斯·奥斯本]]提出 73 问检核表** Osborn (1953) 在《Applied Imagination》中首次系统提出包含“换一换、借一借、变一变、减一减”等 73 个用于激发创意的设问清单。
 > - **1971 年　罗伯特·埃伯尔整合确立 SCAMPER 口诀化模型** Eberle (1971) 将奥斯本零散的检核表高度概括并按首字母缩写整合为 SCAMPER [[Gamification\|游戏化]]模型，出版专著在中小学与天才教育中推广。
@@ -188,8 +176,6 @@ updated: 2026-10-22
 > - **2004–2025 年　实证研究与[[Meta-analysis\|元分析]]量化确立效能** Scott et al. (2004) 与 [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 分别将 SCAMPER 纳入观念生成策略与技术型训练范畴，量化证实其对[[Creativity\|创造性思维]]的稳健促进效能（$d = 0.68, g = 0.552$）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与应用反思
 >
@@ -204,8 +190,6 @@ updated: 2026-10-22
 > 2. **重视发散后的收敛筛选** SCAMPER 产生的大量构想中常混杂不切实际的碎片方案，必须配合评价量规或[[Concept Mapping\|概念图]]进行二次收敛。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -245,8 +229,6 @@ updated: 2026-10-22
 > | Ritter and Mostert (2017) | 荷兰高校跨学科创新工坊学生（$EG = 31 / CG = 31$） | 实验前后测：**【干预变量】** 外显启发式认知技术训练；**【结果变量】**[[Alternate Uses Test\|AUT]] 与 [[Remote Associates Test\|RAT]] 认知灵活性表现 | 掌握外显重组算子的学生在面对非常规物品时展现出显著更高的语义范畴跳跃能力（$p < .01$） | 证实启发式算子对长时记忆概念网络跨范畴检索的促通效应 |
 
 ---
-
-## 教育应用与教学实践
 
 > [!implication]- 科学应用 SCAMPER 技法的四大教学支柱
 > 1. **设置具象实物或现实问题原型作为锚点** SCAMPER 不能凭空展开，必须先给学生一个现有产品（如课桌、书包）或现存流程（如食堂打饭流程），再引导其应用算子开展“旧物新生”改造；

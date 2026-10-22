@@ -34,8 +34,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Sunshine Act
-
 > [!info] 内容
 > Sunshine Act（正式名称为 Physician Payments Sunshine Act）于 2010 年作为《平价医疗法案》（Affordable Care Act）的组成部分通过立法。其核心条款要求制药和医疗器械公司向美国卫生与公众服务部（U.S. Department of Health and Human Services）报告向医生和教学医院支付的所有款项（p.208）。
 

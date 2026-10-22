@@ -57,8 +57,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Prussian Draft Education Law of 1819
-
 ---
 
 ## 背景
@@ -117,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施情况
-
 > [!actor-grid] 实施角色分工
 > - **主导起草** 普鲁士宗教、教育与医疗事务部大臣阿尔滕施泰因、枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]（Johann Wilhelm Süvern）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–27)]]
 > - **行政执行主体** 普鲁士各省教育行政长官（*Regierungspräsidenten*）、地方专职督学、各市镇基层管理委员会（*Schulvorstand*）。
@@ -132,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
@@ -144,16 +138,12 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!finding-cards] 历史影响与制度评价
 > - **近代国家教育机器的原型建构** [[Johann Wilhelm Süvern\|聚芬]]草案在世界近代教育史上第一次系统厘清了中央督导、地方自筹、专业师范与学制阶梯的科层运作逻辑，构成了 19 世纪欧美公共学校机器的基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–27)]]
 > - **欧陆比较[[Policy Borrowing\|政策借用]]的技术母本** 通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的中介转译，聚芬法案成为法国七月王朝消除教育荒漠的“即插即用”立法技术库，催生了法国逾三万所公立市镇小学的强制普及。（pp. 28–30）
 > - **全人官能启迪与世俗教育的平衡点** 草案巧妙融合了基督教道德教化与近代自然科学、体操与美育，为启蒙理性与宗教传统的调和提供了范例。（pp. 27–28; Cousin, 1930:159）
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策与学术史争议
 >

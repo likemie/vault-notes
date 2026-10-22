@@ -92,11 +92,7 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Grounded Theory
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **扎根理论（Grounded Theory，又称扎根理论方法、扎根理论设计）** 是一种源自社会学的经典[[Qualitative Research\|质性研究]]设计：通过多阶段迭代的数据收集、系统的概念化编码（[[Open Coding\|开放编码]]、[[Axial Coding\|主轴编码]]与[[Selective Coding\|选择性编码]]）、持续比较与理论备忘录撰写，自下而上地从经验材料与参与者行动视角中，归纳推导出解释某一过程、行动或互动机制的实质性理论（Glaser & Strauss, 1967；Strauss & Corbin, 1990；Charmaz, 2006；Corbin & Strauss, 2008, 2015；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 1, 7]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 560–562]]）。
@@ -120,8 +116,6 @@ updated: 2026-10-22
 > *Glaser (1996) is on record as saying that not only did grounded theory develop out of a desire to apply a quantitative paradigm to qualitative data, but that paradigmatic purity was unacceptable in the real world of qualitative data analysis, in which [[Fitness for Purpose]] should be the guide.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 社会世界充斥着动态演进的行动、意义与情境互动；扎根理论主张理论不是脱离经验的纯思辨产物，而是通过系统的经验提炼与持续比较建构而成的解释性认知图景。
@@ -248,8 +242,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法论争议与应用张力
-
 > [!tension] 经验真实[[Emergence\|涌现]] vs 理论[[Paradigm\|范式]]强加的学术论争
 > - **施特劳斯的系统规范性** 强调运用严密的三级编码和六要素范式模型，使扎根理论具备可被同行复现的操作程序与科学[[Reliability\|信度]]。
 > - **格拉瑟的范式强加批评** 尖锐批评施特劳斯-科宾学派的六要素范式模型退化为繁复的理性主义[[Scaffolding\|脚手架]]，容易导致研究者将外部范式强加于文本（forcing data into paradigm），扼杀了真正理论自下而上的鲜活涌现。
@@ -258,8 +250,6 @@ updated: 2026-10-22
 > 阿曼达·考菲（Amanda Coffey）与保罗·阿特金森（Paul Atkinson）警示，[[Coding in Qualitative Research|质性编码]]在对文本进行逐行切片与离散检索时，存在割裂时序脉络与生活情境的系统性风险。当某一特定行为在不同时空场景下的深层意涵完全不同时，机械归纳容易抹平真实差异；扎根理论分析者必须通过保留情境化叙事记录与[[Rich and Thick Description\|深描]]，对冲过度理论抽象带来的失真（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用判断
 > - **适合使用** 现有学术文献对某一社会现象、心理转变或互动过程缺乏成熟理论解释，或既有理论无法适配本土新情境的研究；旨在建构中微观解释机制的探索性探究。

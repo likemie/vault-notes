@@ -36,11 +36,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# MN-IP Create
-
-## 内容
-
-> [!info|notitle]
+> [!info] 内容
 > MN-IP Create（全称 MN-IP: Sponsoring Research & Innovation Partnerships）是明尼苏达大学推出的[[University-Industry Collaboration\|产学合作]]知识产权预先定价项目。该项目的核心创新在于为产业赞助方提供菜单式的[[Foreground IP\|FIP]]权利选项，以固定预付费和延迟版税的组合替代传统的事后协商定价模式([[Argument_Susalka_Carbone_2025_IP_Web\|Susalka & Carbone, 2025, p.283]])。
 
 > [!note|notitle]

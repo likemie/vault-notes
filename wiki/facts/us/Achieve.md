@@ -56,11 +56,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# Achieve
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 阿奇夫（Achieve, Inc.）是一家独立的无党派非营利教育改革智库与技术研究机构。该组织由全美两党资深州长与跨国顶尖企业领袖于 1996 年联合发起创立，旨在搭建政界、商界与公立基础教育系统之间的合作桥梁；作为美国基于标准的教育改革（Standards-Based Reform, [[Scientifically Based Research|SBR]]）的核心技术引擎，阿奇夫在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动中承担了早期标准孵化、国际基准比对、方案起草协同及各州微观对标分析（Crosswalks）的关键操盘职能。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11, 17–18)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 确保所有美国高中毕业生具备免修大学[[Cram Schools|补习班]]和在现代高薪行业就业所需的读写、定量与[[Critical Thinking|批判性思维]]能力，消除高中文凭背后的质量注水现象。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1996–2003** **创设与各州课标质量体检期**
@@ -100,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **两党理事会（Board of Directors）** 董事会结构具备跨界权威，由 4 至 6 位在任或离任两党州长、财富 500 强跨国企业首席执行官（如杜邦、保诚、英特尔高管）以及知名教育家联合组成，由前教育部助理部长迈克尔·科恩（Michael Cohen）长期出任总裁。
 > - **核心技术研发部门** 下设标准与评估部、战略与传播部、各州政策分析部，汇集了全美一流的课程专家与计量心理学学者。
@@ -113,8 +105,6 @@ updated: 2026-10-22
 > - **政界高层穿梭与政策倡导** 总裁迈克尔·科恩直接参与各州州长听证会与国会咨询，扮演连接学术界、商界与政界的跨界[[Policy Entrepreneur|政策企业家]]。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[American Diploma Project|美国文凭项目]]（American Diploma Project, ADP）** 覆盖全美 35 州，代表了美国首个跨州自主联合的大学与职业学术基准网络，直接催生了通用代数标准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > *Analyses of the similarities and differences between the CCSS and existing state standards had been conducted in Massachusetts (Achieve 2010), in California (WestEd 2010), and across multiple states (Carmichael et al. 2010).... In Massachusetts, for example, the Achieve analysis showed that the CCSS covered 80% to 90% of the state’s current standards, while providing stronger systematic development in mathematical practices and evidentiary writing.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **政策渗透与采纳广度** 主导起草的 [[Common Core State Standards|CCSS]] 在全美被超过 45 个州正式采纳，重塑了美国基础教育半个世纪以来的标准格局。
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > - **45+** 最终正式投票采纳由 Achieve 联合主笔编制的 CCSS 标准的州份数量。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

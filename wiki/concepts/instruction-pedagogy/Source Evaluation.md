@@ -68,11 +68,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Source Evaluation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 信源评估（Source Evaluation，在阅读研究中常称为 Sourcing 或 Sourcing Heuristic）是指学习者在面对单一或多重文本（特别是存在观点冲突的数字化信息与[[Generative Artificial Intelligence|生成式人工智能]]输出）时，超越表层陈述内容，主动识别、审验并评价信息提供者的专业资质、机构背景、出版动机、潜在利益冲突以及背后证据支撑力度的系统性认知规程与[[Framework for Teaching|教学框架]]。在教学实践中，通过[[Direct Instruction\|直接讲授]]信源甄别准则与提供[[Reflexivity|反思性]]提问提示，能够有效帮助学生破解网络虚假信息与算法权威盲从，实现高质量的跨文本整合与论证建构。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]; [[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, p. 5)]]
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Epistemological Beliefs\|认识论信念]]、阅读策略与信息评估维度对比
 > | 比较维度 | 信源评估（Source Evaluation） | [[Source of Knowledge\|知识来源（Source of Knowledge）]] | [[Justificatory Standards\|确证标准（Justificatory Standards）]] |
 > |---|---|---|
@@ -105,8 +99,6 @@ updated: 2026-10-22
 > | **干预成效** | 元分析显示显性策略教学产生极高学业促进（$d = 0.800$） | 传统抽象信念转变较慢，需经由信源评估等外显练习内化 | 随认识论干预显著升级，直接驱动论证表现提升（$d = 1.047$） |
 
 ---
-
-## 核心要素
 
 > [!feature] 信源评估的核心维度与操作规程
 > - **作者专业资质审验（Author Expertise）** 核查信息撰写者是否具有该领域的专业知识、学术训练或实践经验，区分具备同行评议资质的专业人士与无学术背景的网络撰稿人。
@@ -154,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -174,15 +164,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] 形式化核查的局限
 > - **检查清单陷阱（Checklist Trap）** 传统教学常使用简单的评分清单（如 CRAAP 测试），但研究发现商业公关公司与虚假信息网站极易通过精美排版和伪造履历轻松通过常规静态清单的检查，僵化的规则套用可能误导学生。
 > - **算法推荐与生成式 AI 的线索遮蔽** 在[[Generative Artificial Intelligence\|生成式人工智能]]与自媒体聚合平台普及的背景下，原始作者、首发机构与资助背景被深度掩盖或重新整合，传统基于文本出处的信源评估规则面临严峻的技术挑战。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]教学干预框架[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

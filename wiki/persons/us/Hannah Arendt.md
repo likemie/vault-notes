@@ -57,11 +57,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Hannah Arendt
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德裔美籍政治哲学家、思想家，20 世纪[[Phenomenology|现象学]]与存在主义哲学传统的代表学者，先后执教于普林斯顿大学、芝加哥大学社会思想委员会与纽约新学院（The New School for Social Research）。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1924–1933 — [[Phenomenology|现象学]]存在论与古典爱哲学奠基期** 在胡塞尔、海德格尔与雅斯贝尔斯影响下，探究个体存在、内在性与共同体伦理。
 >   - **代表著作** 《圣奥古斯丁爱之概念》（*Der Liebesbegriff bei Augustin*, 1929）。
@@ -110,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代社会的极端灾难往往并非由病态的狂热恶魔所驱使，而是源于普通人在高度专业化与层级化的[[Bureaucracy|科层制]]中丧失了独立思考与道德判断能力（无思状态）；面对群体从众与权威规训，唯有在公共空间中坚守由复多性滋养的[[Critical Thinking|批判性思维]]与扩大化判断力，培育敢于拒绝盲从的制度性抗体，才能阻止现代人沦为平庸作恶的体制齿轮。
 
 > [!citation-card] 官僚科层体制下的无思状态与道德脱敏
@@ -127,9 +119,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 深刻重塑了 20 世纪政治哲学、极权主义研究与民主审议理论；其复多性与公共领域概念直接启发了[[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）的交往行动理论，以及当代共和主义政治学。
 > - **实证互证路径** 艾希曼审判中提出的“[[Banality of Evil|平庸之恶]]”哲学论断，在社会心理学黄金时期与斯坦利·[[Stanley Milgram|米尔格拉姆]]（Stanley Milgram）的权威服从实验（[[Milgram Obedience Experiment|米尔格拉姆服从实验]]）形成严密互证，从经验数据上证实了普通人在层级权威压迫下以礼貌合规执行致命残酷指令的微观机制。
 > - **教育哲学路径** 经由托马斯·奥斯特鲁普·勒梅尔（[[Thomas Aastrup Rømer]]）与赫特·比斯塔（[[Gert Biesta]]）等欧洲教育学者，阿伦特的判断力理论被引入当代教育哲学与 [[Bildung]] 传统，成为抵抗新自由主义[[Positivism|实证主义]]测评（如 [[John Hattie]] 的 [[Visible Learning]]）与教育技术官僚化、捍卫学生批判性主体化（Subjectification）的关键思想资源。
@@ -140,8 +130,6 @@ updated: 2026-10-22
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 在教育哲学批判中借助[[Immanuel Kant|康德]]与阿伦特的判断力与思维传统，反思当代[[Evidence-Based Education|循证教育]]评价将复杂教育实践降格为单向度可见产出的理论缺陷。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 卡普与扎米斯卡论阿伦特[[Banality of Evil|平庸之恶]]对现代组织治理的警示
 > 耶鲁电击实验打破了二战浩劫仅由少数病态心理变态者所犯下的神话，冷酷地印证了汉娜·阿伦特关于平庸之恶的历史哲学洞见：在制度权威与合规语境的压迫下，普通人会以极其彬彬有礼的茶会语言执行残酷恶行。现代组织治理若将对上级的绝对顺从视为美德，必将滑向系统性的灾难与毁灭。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
@@ -162,8 +150,6 @@ updated: 2026-10-22
 > - **治理理论对话者** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）— 将其对无思服从的批判发展为科技组织中的[[Constructive Disobedience|建设性不服从]]与反盲从工程文化。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

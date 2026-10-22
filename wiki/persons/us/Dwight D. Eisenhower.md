@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Dwight D. Eisenhower
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国陆军五星上将、第 34 任美国总统（1953–1961），哥伦比亚大学前校长（1948–1953）。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要演讲与战略文献
-
 > [!work-line] 关键历史文献
 > - **1953 — *Atoms for Peace (UN Speech)*** 提出原子能用于和平用途的国际治理构想。
 > - **1958 — *National Defense Education Act ([[National Defense Education Act of 1958|NDEA]])*** 将联邦教育资助与国家安全及科学技术人才培养紧密绑定。
@@ -83,14 +77,10 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 德怀特·D·艾森豪威尔（Dwight D. Eisenhower）强调，强大的国家防御与科技创新必须建立在健全的民主宪政与公民自决基础之上。国家不能在追求技术与军事优势的过程中，将战略决策权拱手让给未受民主问责的军工利益集团或技术官僚精英，必须时刻捍卫公共政策的公共性与民主控制。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Karp & Zamiska 论艾森豪威尔的科技治理预警
 > 艾森豪威尔早在 1961 年就预见到了今日硅谷软件资本高度垄断的困境：当科技精英 untethered（脱嵌）于国家根本目标盲目建造时，缺乏民主制约的技术垄断终将侵蚀共和国的自治根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 71)]]

@@ -81,11 +81,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Response to Intervention
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **干预反应模型（Response to Intervention, RTI）** 是起源于美国《个体残疾人教育法》（Individuals with Disabilities Education Act, IDEA 2004）的多层级学业与行为支持框架。该框架主张在将学业困难学生转介至特殊教育之前，先在普通班级生态内提供多层递进的预防性与补救性干预：全班核心通用教学（TIER 1）、针对轻度落后学生的小组补充辅导（Tier 2），以及针对重度落后学生的高强度个别辅导（Tier 3），以此根据学生对科学干预的动态反应进行差异化支持与特教准入判定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
@@ -107,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学业支持与特教筛查模式辨析
 > | 比较维度 | 传统智商差异诊断模型（IQ-Discrepancy） | 传统干预反应模型（Generic RTI） | [[Response to Proven Instruction\|循证干预反应]]方案（RTPI） |
 > |---|---|---|---|
@@ -118,8 +112,6 @@ updated: 2026-10-22
 > | **代表学者** | Bateman; Kavale | Fuchs & Fuchs; Gresham | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] RTI / [[Response to Proven Instruction\|RTPI]] 的三层递进架构
 > - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学。在 RTPI 中，要求采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如 [[Success for All]]、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（[[Peer-Supported Learning|peer-assisted learning]] Strategies, PALS）），有效预防 80% 以上学生的学业困难。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
@@ -173,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] RTI 理论发展核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -183,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] RTI 概念演进历程
 > - **2004 年 — 联邦法案法定确立** 美国国会修订《个体残疾人教育法》（IDEA 2004），正式将 RTI 确立为各州判定特定学习障碍（Specific Learning Disabilities, SLD）的法定替代途径。
 > - **2006–2014 年 — 全国推广与评估争议** 全美绝大多数学区相继出台 RTI 指南；然而 2015 年 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 全国评估报告指出，早期实施由于缺乏保真度与具体方案，干预效果微弱甚至产生负向效应。
@@ -192,8 +180,6 @@ updated: 2026-10-22
 > - **2019 年 — [[Response to Proven Instruction\|RTPI]] 循证升级方案成型** [[Robert Slavin\|罗伯特·斯莱文]]正式提出 RTPI（Response to Proven Instruction），系统整合近百项符合 ESSA 强/中标准的阅读与[[Mathematics Intervention Programs|数学干预项目]]，将 RTI 改造为以循证产品为底座的[[Comprehensive Education|综合教育]]改革方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -210,8 +196,6 @@ updated: 2026-10-22
 > > - **导致干预效能被假性低估** 将组内非学业观察行为与严格组间学业实验未加权直接合并，严重稀释了[[Structured Teaching|结构化教学]]补救（如一对一辅导）在真实学业提升上的因果[[Effect Size|效应量]]。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 15)]]
 
 ---
-
-## 实证数据
 
 > [!finding-cards] 核心实证结论
 > 1. **全员全校改革方案（TIER 1）稳固基础** [[Success for All]] 等全校[[Reading Programs|阅读项目]]在 5 项独立大规模试验中获得加权平均[[Effect Size\|效应量]] +0.41（[[Every Student Succeeds Act\|ESSA]] 强证据评级）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]

@@ -79,11 +79,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Strengthening the Impact of Education Research Project
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 强化教育[[Research Impact\|研究影响力]]项目（Strengthening the Impact of Education Research Project）是由[[OECD\|经济合作与发展组织]]（[[OECD]]）[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）于 2021 年正式设立的旗舰跨国政策倡议。项目针对全球教育研发投资持续增加但研究成果在宏观决策与一线课堂长期脱节的顽疾，通过覆盖 29 国 37 个教育系统的结构化政策调查与[[In-depth Interview\|深度访谈]]，致力于摸清[[Knowledge Mobilisation\|知识动员]]机制全貌，构建新一代[[Evidence Ecosystem\|证据生态系统]]治理框架。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–17)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解[[Evidence-Based Education\|循证教育]]二十年来的元研究困境——在各类中介机构激增的背景下，究竟何种组织结构、关系网络、激励机制与专业能力能够切实促成教育研究的高质量使用（What works in what works）。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–17)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 项目确立的核心假说指出：局部的中介机构扩建或单向证据推送无法打破转化壁垒；唯有通过结构、关系、质量、文化与技能五维协同，激活包含动态反馈与学术考核激励重构的[[Evidence Ecosystem\|证据生态系统]]，才能实现教育[[Research Impact\|研究影响力]]的全系统规模化释放。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–25)]]
@@ -117,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2021年上半年 — 理论综合与[[Questionnaire\|问卷]]框架研制** [[Centre for Educational Research and Innovation\|CERI]] 梳理卫生、农业与公共行政领域的跨学科[[Knowledge Mobilisation\|知识动员]]模型，确立线性-关系-复杂系统三代嵌套理论框架，完成跨国政策调查问卷（[[Strengthening the Impact of Education Research Policy Survey]]）设计。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–25)]]
 > - **2021年6月–9月 — 跨国政策调查大规模施测** 针对 [[OECD]] 成员国教育部实施标准化问卷调研，正式采集到 29 个国家共计 37 个教育系统的高级行政数据，建立跨国政策端[[Research Utilization\|研究利用]]的首个基准数据库。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 25)]]
@@ -127,8 +119,6 @@ updated: 2026-10-22
 > - **2023年至今 — 深化微观机制实证评估** 项目进入第二阶段，聚焦中介机制有效性因果检验、学校循证文化培育与大学学术考评改革试验。
 
 ---
-
-## 实施架构与治理范式
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与统筹中枢（[[Centre for Educational Research and Innovation\|OECD CERI]]）** 负责项目立项、预算配置、调查框架研发、跨国数据清洗与旗舰成果编撰发布。
@@ -142,8 +132,6 @@ updated: 2026-10-22
 > - **教师专业职级与科研终身激励突破（匈牙利）** 设立研究型教师（Researcher Teacher）终身职级体系，要求博士学位与严苛考核，配备 5 年可续科研规划并大幅提高法定薪酬补贴，打破大学对[[Knowledge Production\|知识生产]]的垄断，在行政中枢与微观教学间构筑起独立造血的中介支点。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **覆盖规模指标** 参与国别数（29 国）、独立教育系统数（37 个）、深度案例访谈数（6 国）。
@@ -165,8 +153,6 @@ updated: 2026-10-22
 > 覆盖 29 国 37 个教育系统，测度 17 类组织生态位；揭示嵌入式研究者政策端设立率 73% vs 实践端 32%；高校学者 7 阶段全流程主导（各阶段 18–20 系统），中小学教师在数据收集占 18 系统 vs 提问仅 5 系统；专家咨询普及率 92%，技术方案设计应用 70% vs 赢得信任 42%。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与方法学局限
 >

@@ -58,11 +58,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Time Sampling
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 时间抽样法（Time Sampling）是一种在行为[[Observation Method|观察研究]]中依据预先设定的时间单位、固定时间间隔或离散时间点，对特定行为或事件是否发生及其持续状态进行系统编码的数据采集技术。该方法通过将连续流动的复杂互动解构为离散的时间切片，规避了观察员需要全神贯注进行连续秒级计时的认知负荷，为行为频率、发生率与时间占比的量化推断提供了高[[Reliability|信度]]的标准化规程。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 8, 16)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 > *"For the Time on Learning element, observers will take 3 'snapshots,' or 1–10 second scans of the classroom, and use only information gathered during the snapshot to code the behaviors... scan the classroom from left to right to determine whether students are on task."*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 认为外显行为和教学状态具有可客观还原性，通过标准化的时间抽样窗口能够抽取具有统计代表性的行为样本，从而推断整体情境的行为特征。
@@ -165,8 +159,6 @@ updated: 2026-10-22
 > | [[Inter-Rater Reliability]] | 效度检验 | 时间抽样通过降低认知负荷，旨在大幅提升跨评分者间的一致性。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立基于 1–10 秒瞬时定格快照的时间抽样技术，用于量化发展中国家小学课堂[[Time on Task|任务在轨时间]]与教师教学供给。

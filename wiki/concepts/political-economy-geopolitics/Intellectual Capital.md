@@ -68,11 +68,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Intellectual Capital
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **智力资本（Intellectual Capital，早期亦译为精神资本 Mental Capital）** 指全人类历代积累的科学发现、技术发明、工艺改良与劳动实践经验所构成的无形知识总量与社会化认知能力；它不仅体现为个体的脑力与技术素养，更沉淀于国家的技术教育建制、工业制造传统、组织学习网络与顶尖工程人才池之中，是决定一国有形物质[[Return on Investment|投资回报率]]、长期生产力繁荣与国家战略安全能力的实质根基。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–13)]]
@@ -99,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 资本[[Paradigm|范式]]与知识维度的概念辨析
 > | 维度 | 本概念（智力资本） | [[Human Capital Theory\|人力资本]] | 物质资本（Physical Capital） |
 > |---|---|---|---|
@@ -110,8 +104,6 @@ updated: 2026-10-22
 > | **政策取向** | 布局国家技术教育体系、公共研发、国家使命工程与战略产业创新网络 | 增加个体教育投资、教育券与私有收益激励 | 提高储蓄率、扩大招商引资与基建投资 |
 
 ---
-
-## 核心要素
 
 > [!feature] 智力资本的构成要素与功能定位
 > - **全人类世代累积的科学与技术存量** 凝结了文明演进中所有可继承的发明成果，构成后发国家[[Technological Catch-up|技术追赶]]与先发国家持续突破的公共知识宝库。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 6)]]
@@ -171,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 智力资本核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -191,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!warning] 测量难度与指标替代偏误
 > 由于智力资本具有极强的无形性、情境依附性与外溢性，传统统计学往往退而求其次，以正规 R&D 经费支出或专利数量作为代理指标；Freeman 警告这种做法容易引发盲目攀比研发排名的技术官僚偏误，忽略生产现场工艺经验与普通技工的实际技能水平。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–11)]]
 
@@ -200,8 +188,6 @@ updated: 2026-10-22
 > 自由市场对软件与工程智力资本的估值往往由风险投资与消费广告流量所决定；这导致能够创造巨大商业市值的消费级算法开发人员获得极高的资本回报，而投身国防硬件、公共卫生与基础科学的智力资本受到市场冷落，引发国家关键领域的智力资源匮乏。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–10)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 智力资本投入与国家创新能力实证指标对比（1980s）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

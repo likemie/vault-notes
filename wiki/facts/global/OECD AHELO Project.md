@@ -70,11 +70,7 @@ created: 2026-05-11
 updated: 2026-10-22
 ---
 
-# OECD AHELO Project
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > [[OECD|经合组织]]高等教育学习成果评估（Assessment of Higher Education Learning Outcomes, AHELO）是[[OECD|经济合作与发展组织]]（OECD）于 2008 年启动的跨国高等教育评价先导工程，旨在验证建立类似 [[PISA]] 的跨国高等教育学习成果测评工具的可行性与科学有效性。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 194, 200–201)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 > - **核心问题导向** 当时既有的[[Global Universities Rankings|全球大学排名]]几乎全盘依赖科研产出与文献被引指标（如 [[Academic Ranking of World Universities|ARWU]]），缺乏衡量本科教学质量与学生实际学习成果的跨国指标，经合组织试图确立跨国统一的高教质量评估基准。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过跨国统一测评通用[[Higher-Order Thinking Skills|高阶认知技能]]（[[Critical Thinking|批判性思维]]、分析推理、[[Problem Solving|问题解决]]）与学科专业能力，能够为不同制度背景的高等教育机构提供超越单纯科研排名的教育产出质量镜像，驱动大学教学质量问责与持续改进。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 194)]]
@@ -105,16 +99,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2008–2010 — 方案设计、治理网络组建与工具选型期** [[OECD|经合组织]]确立四大支柱架构，委托[[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）牵头组建技术联合体；设立国家专家组（GNE）与利益相关者咨询组（SCG），直接引进美国 [[Collegiate Learning Assessment|CLA]] 任务开发通用技能工具。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]
 > - **2011–2012 — 跨国试点实施与技术挫折显现期** 在 17 国 248 所高校实施可行性先导施测；通用技能任务因植根于美国文化情境而在多国翻译与适应中遭遇严重排异，研发团队不得不中途增补客观多选题并修改框架。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 201)]]
 > - **2013–2015 — 评估报告发布、学术界反弹与常态化推广搁浅** 2012 年底发布总结报告，虽宣称证实了测量可行性，但未能确立国际[[Commensuration|通约]]的可比基准；遭到欧美主流[[Research Universities|研究型大学]]联合抵制，经合组织最终放弃将其推进为常态化 [[PISA]] 式全球排名的计划。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 203)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与战略管控中枢** 由[[OECD|经合组织]]教育政策委员会（EPC）与[[Institutional Management in Higher Education|高等教育机构管理计划]]（IMHE）理事会统筹大局，牢牢掌控终极裁决权。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 201)]]
@@ -127,8 +117,6 @@ updated: 2026-10-22
 > - **应急纠偏机制** 在 [[Collegiate Learning Assessment|CLA]] 表现性任务遭遇跨语言排异与实施障碍时，研发团队被迫追加[[Multiple-Choice Questions|多项选择题]]以维持基本测量[[Reliability|信度]]。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 201)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **技术可行性指标** 跨国双向翻译一致性、计算机化施测稳定性、评分员跨国[[Reliability|信度]]。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 > - **23,000+** （名） 参与可行性测试的本科毕业生样本总人数。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

@@ -27,9 +27,6 @@ status: draft
 created: 2026-06-22
 updated: 2026-09-11
 ---
-# Guilty Knowledge
-
-## 定义
 
 > [!def] 核心定义
 > 有罪知识（guilty knowledge）指研究者在[[Sensitive Research\|敏感研究]]中，因接触越轨群体或秘密行为而持有的、可能给研究者和参与者双方带来个人与职业风险的知识（De Laine, 2000, p. 67）。这一概念与 Klockars (1979) 的"肮脏之手（dirty hands）"密切相关——研究者在知晓越轨行为或反态度时，自身也陷入了伦理困境（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 209]]）。
@@ -40,8 +37,6 @@ updated: 2026-09-11
 > - **边界** 有罪知识不同于一般的[[Research Ethics\|研究伦理]]问题——它涉及对违法或严重违规行为的知晓，而非一般的敏感信息。它也不同[[Covert Research\|隐蔽研究]]中的欺骗——有罪知识是研究过程中被动获取的，而非研究者主动设计的。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 有罪知识 vs 肮脏之手
 > | 维度 | 有罪知识（Guilty Knowledge） | 肮脏之手（Dirty Hands） |
@@ -56,8 +51,6 @@ updated: 2026-09-11
 
 ---
 
-## 核心要素
-
 > [!feature] 有罪知识的核心特征
 > - **被动获取** 研究者在田野过程中并非主动寻求这些信息，而是作为研究的"副产品"获得。
 > - **威胁性** 知识本身对持有者和被涉及者都具有威胁性（De Laine, 2000, p. 84）。
@@ -65,8 +58,6 @@ updated: 2026-09-11
 > - **信任测试** 参与者可能故意制造让研究者获得有罪知识的情境，以测试研究者的忠诚（Lee, 1993, p. 139）。
 
 ---
-
-## 应用案例
 
 > [!case] 经典案例
 > - **Patrick (1973) 的格拉斯哥帮派研究** 研究者目睹了一起谋杀——应报告警方从而暴露身份，还是保持沉默以维持与帮派的接触？后者违反法律（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 209]]）。

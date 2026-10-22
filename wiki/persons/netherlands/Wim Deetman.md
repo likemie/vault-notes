@@ -56,11 +56,7 @@ created: 2026-10-12
 updated: 2026-10-22
 ---
 
-# Wim Deetman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 荷兰政治家、公共管理者，基督教民主呼吁党（[[Critical Discourse Analysis|CDA]]）重要领袖，荷兰二战后任期最长的教育与科学大臣（1982–1989），后历任荷兰议会二院议长（1989–1996）、海牙市长（1996–2008）与国务委员会国务顾问。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要政绩与思想发展
-
 > [!thought-timeline] 政治生涯与改革领导
 > - **1982–1985 — 财政危机与 [[Higher Education Autonomy and Quality|HOAK]] 治理[[Paradigm|范式]]奠基** 面对 1970 年代末经济危机引发的财政赤字与高等教育官僚管制失灵，德特曼在部委内部破除法理条规思维，吸纳[[Walter J. M. Kickert|瓦尔特·基克特]]等学者作为高级顾问开展[[Reflexivity|反思性]]政策规划，最终凝练并出台 HOAK 白皮书。
 >   - **代表成果** 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》白皮书。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
@@ -96,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心政治与治理理念
-
-> [!claim|lead] 核心主张
+> [!claim] 核心政治与治理理念
 > 在深度法团化与宗派分立的[[Social Regime|社会体制]]中，激进的自上而下科层命令注定引发破坏性对抗；优秀的公共治理应当善用“去政治化”的理性[[Discourse|话语]]，以扩大机构[[Strategic Autonomy|战略自主]]权换取改革妥协，依托中介[[Policy Network|政策网络]]的自组织协商达成兼顾公共财政底线与专业活力的平稳变革。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144–146)]]
 
 ---
@@ -116,8 +108,6 @@ updated: 2026-10-22
 > - **法团协商伙伴** [[VSNU|荷兰大学联合会]]（VSNU）与高等职业教育委员会（[[HBO-Raad]]）领导层 — 在预算削减与院校兼并中开展紧密闭门协商的中介领袖。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 政治争议
 >
@@ -138,8 +128,6 @@ updated: 2026-10-22
 > | [[Higher Education and Research Act 1992]] | 事实 | 奠定并推动 1992 年 WHW 统一框架立法的政治出台。 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 详尽记录德特曼大臣在 1980 年代主政期间推行 [[Higher Education Autonomy and Quality|HOAK]] 改革与 HBO 大兼并的政治策略，剖析其去政治化协商艺术与治理贡献。

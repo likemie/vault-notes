@@ -53,8 +53,6 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Quantum Opportunity Program
-
 ---
 
 > [!info] 项目定位与方案概况
@@ -64,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案架构与干预机制
-
 > [!policy-design] 方案架构与“250 × 3”核心机制
 > QOP 专为来自低收入家庭、处于学业失败与辍学高风险中的高中生设计，要求受试学生每年完成 **750 小时** 的结构化课外与社区活动：
 > - **学业发展模块（Academic Development · 250 小时/年）** 包含课后同伴辅导、计算机辅助教学、阅读写作强化与大学申请准备。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **经济激励机制** 设立参与工时即时现金津贴，并建立等额大学奖学金信托账户（1:1 配比存入），形成强劲的长期激励杠杆。
 
 ---
-
-## 循证清算中心评级全景对比
 
 > [!contrast-table] 四大清算中心对 QOP 与 EQOP 的评级与审查机制对比（基于 Wadhwa et al., 2024）
 > | 审查维度 | [[National Dropout Prevention Center\|NDPC]] | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] |
@@ -88,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 案例核心启示：版本迭代与文献可得性分歧
-
 > [!critique] QOP/EQOP 案型揭示的三大证据断裂机制
 > [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 24–25)]] 指出，量子机会项目案例深刻展示了清算机构在处理干预迭代与文献边界时的制度张力：
 >
@@ -101,8 +93,6 @@ updated: 2026-10-22
 >    - 政策制定者若不细分“原始 QOP”与“改良版 EQOP”，极易被 NDPC（强推）、WWC（无效）与 Blueprints（EQOP 有望但 QOP 无效）相互矛盾的评级标签所困扰，凸显了清算中心对干预版本世代进行精细化追踪的必要性。
 
 ---
-
-## 实证数据与效应量表现
 
 > [!stat-cards]- 核心实证研究数据快照
 > - **63% / 42%** （Hahn et al. (1994) 早期小规模试点 [[Randomised Controlled Trials\|RCT]]） 费城单点 100 名高危学生试验，报告干预组高中毕业率达到 63%（显著高于对照组的 42%），为 QOP 赢得了最初的政策声誉。

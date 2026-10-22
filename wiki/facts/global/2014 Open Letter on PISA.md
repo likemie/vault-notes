@@ -64,11 +64,7 @@ created: 2026-09-11
 updated: 2026-10-22
 ---
 
-# 2014 Open Letter on PISA
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 2014 年致[[Andreas Schleicher\|施莱歇尔]]抵制 [[PISA]] 学者公开信（2014 Open Letter to Andreas Schleicher on PISA）是由来自英、美、澳、德、北欧等全球多国的 83 位著名教育学者联合签署，于 2014 年 5 月 6 日发表在英国《卫报》上的公开抗议声明。该事件标志着当代国际学术共同体对[[OECD\|经济合作与发展组织]]（[[OECD]]）利用大规模学生评估推行新自由主义全球教育治理霸权最具代表性的一次集体历史抗争（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 123]]；[[Argument_Zhao_2020_JEC\|Zhao, 2020, p. 22]]）。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2014-05-06 — 联名公开信刊发与全球舆论引爆** 83 位国际顶尖学者在《卫报》刊发题为《[[OECD]] 与 [[PISA]] 测验正在损害全球教育》（OECD and Pisa tests are damaging education worldwide）的联名信，列举 PISA 六大系统性弊端，公开发出呼吁要求暂停下一轮 PISA 测评（PISA 2015）。
 > - **2014-05-15 — OECD 官方辩护与公关反驳** [[Andreas Schleicher]] 代表 OECD 迅速发表公开回应，辩称 PISA 的根本宗旨在于促进跨国教育经验交流与促进教育公平，否认 PISA 造成了短期功利主义，并坚称跨国量化数据是各国改进教育系统的必要工具。
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > - **2016–至今 — 制度性溢出与北欧等国杯葛 [[Baby PISA]]** 公开信所确立的批判框架（民主授权赤字、过度标准化与全生命周期监控）成为后续跨国抵制运动的核心理论源泉，直接促成了瑞典、挪威、丹麦等北欧国家集体拒绝参与 OECD 后续发起的幼儿版评估项目（[[Baby PISA]]）。
 
 ---
-
-## 关键文献、法案与历史宣言
 
 > [!citation-card] 2014 年致[[Andreas Schleicher\|施莱歇尔]]公开信核心诉求宣言
 > 83 位学者在公开信中尖锐指控了 [[OECD]] 的民主授权缺陷与应试修补危害：
@@ -101,8 +93,6 @@ updated: 2026-10-22
 > *As an unelected economic agency, the OECD has no democratic mandate to determine the goals and principles of public education worldwide... The three-year assessment cycle inevitably leads to an obsession with short-term fixes designed to help a country climb [[Times Higher Education World University Rankings|the rankings]], diverting attention from enduring improvements. It focuses attention on a narrow range of measurable outcomes, crowding out arts, humanities, citizenship, and deeply harming the well-being of students and teachers.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **学术抗争同盟（83 位学者及其后援网络）** [[Paul Morris]]、[[Yong Zhao\|赵勇]]、[[Stephen Ball]] 等 — 坚守[[Progressive Education\|进步主义教育]]哲学与教育民主主权，批判将教育异化为经济工具的新自由主义计量学。
@@ -123,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **[[Epistemology|认识论]]祛魅** 彻底终结了全球教育政策界对 [[PISA]]“纯粹技术客观与科学中立”的神话崇拜，揭露其背后的新自由主义意识形态与商业寻租机制。
 > - **推动[[Reflexivity\|反思性]]学术研究激增** 激发了比较教育学界关于“全球数据治理”、“[[Mediatised Governance\|媒介化治理]]”与 PISA“[[Rashomon Effect\|罗生门效应]]”的大规模批判性实证研究浪潮。
@@ -142,8 +130,6 @@ updated: 2026-10-22
 > - **1** （轮） 呼吁全面暂停的核心诉求（要求暂停 PISA 2015 周期）
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

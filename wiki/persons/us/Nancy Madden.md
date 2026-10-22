@@ -49,11 +49,7 @@ created: '2026-09-17'
 updated: 2026-10-22
 ---
 
-# Nancy Madden
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家与阅读干预专家，约翰斯·霍普金斯大学教育学院教授、教育研究与改革中心（CRRE）核心研究员，全员成功方案基金会（[[Success for All]] Foundation）联合创始人兼首席执行官。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1987 — *[[Cooperative Integrated Reading and Composition]]: Two [[Champ\|field]] experiments*** 系统确立中高年级阅读与写作的结构化同伴合作教学[[Paradigm\|范式]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 31)]]
 > - **2001 — *One Million Children: [[Success for All]]*** 总结全校改革方案在全美多元高贫困学校落地推广的实证轨迹与组织机制。
@@ -84,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > **以[[Structured Teaching\|结构化教学]]材料与同伴交互重塑底层课堂效能** 马登主张教育公平的实现不能仅停留在宏观政策号召，而必须深入到每日每课的课堂教学微观结构中；通过为教师和助教提供经过严格实验验证的结构化脚本材料、将[[Cooperative Learning\|合作学习]]机制深度内嵌于阅读教学各环节，并为落后儿童配备即时的个别化/小组辅导，任何高贫困学校都有能力让绝大多数儿童掌握熟练的读写技能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25, 27–29)]]
 
 ---

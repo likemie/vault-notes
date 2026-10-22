@@ -35,9 +35,6 @@ status: draft
 created: 2026-06-22
 updated: 2026-10-22
 ---
-# Theoretical Sampling
-
-## 定义
 
 > [!def] 方法定义
 > 理论抽样（Theoretical Sampling）是[[Grounded Theory\|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、编码和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至[[Saturation\|理论饱和]]（[[Saturation\|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967, p. 61）。
@@ -47,8 +44,6 @@ updated: 2026-10-22
 > - **问题类型** 理论生成
 > - **[[Unit of Analysis\|分析单位]]** 随理论发展而变化
 > - **输出形式** 扎根于数据的理论
-
-## 研究程序
 
 > [!proc] 迭代程序
 > 1. 收集初始数据，进行编码和分析。
@@ -62,14 +57,10 @@ updated: 2026-10-22
 >
 > 决策基于理论相关性——那些有助于生成尽可能多属性和类别的群体。
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**[[Grounded Theory\|扎根理论]]研究、需要从数据中生成理论的研究。
 > - **谨慎使用** 研究时间或资源有限时——无法预知何时达到饱和。
 > - **不适合使用** 需要预先确定[[Sample Size Determination\|样本量]]和抽样计划的研究、验证性研究。
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **不可预测性** 由于事先不知道需要多少数据，[[Sample Size Determination\|样本量]]难以提前确定。这是一个迭代过程而非预先规划。
@@ -100,8 +91,6 @@ Ezzy（2002, pp. 74–75）在其失业研究中给出了另一个示例：初�
 > | [[Grounded Theory\|扎根理论]] | 方法 | 理论抽样是扎根理论的核心抽样机制——两者互为前提：扎根理论从数据中涌现，理论抽样随理论涌现调整下一步数据收集方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 421–423)]] |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen, Manion & Morrison (2011, Ch. 8)]] — 介绍理论抽样与 Glaser and Strauss（1967）的[[Saturation\|理论饱和]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Ch. 11]] 以教师士气等研究展示其操作逻辑及与[[Analytic Induction\|分析归纳法]]的关系。

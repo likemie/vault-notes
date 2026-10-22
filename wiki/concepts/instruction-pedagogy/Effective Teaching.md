@@ -120,11 +120,7 @@ created: '2026-05-05'
 updated: 2026-10-22
 ---
 
-# Effective Teaching
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 有效教学（Effective Teaching / God Undervisning）是一个旨在揭示高品质课堂教学通用规律的综合性概念，指教师通过明确领导、清晰目标、即时反馈、学习导向气氛以及与学生先验知识和认知前提的高度适配，从而最大化促进学生学科理解与学业成长的教学过程。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–36)]]
@@ -144,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 有效教学与相关教学概念对比
 > | 比较维度 | 有效教学（Effective Teaching） | 抽象通用原则（General Principles） | 脚本化[[Direct Instruction\|直接教学]]（Direct Instruction） | 纯粹[[Individualised Instruction\|个别化教学]]（Individualised Instruction） |
 > |---|---|---|---|---|
@@ -155,8 +149,6 @@ updated: 2026-10-22
 > | **实证效应** | 综合效应显著（$d \approx 0.40 \sim 0.60$），高挑战与清晰反馈效益突出 | 转化损耗严重，缺乏[[Counterfactual\|反事实]]对照时常出现效果衰减 | 基础程序技能极高（$d = 0.59$），但发散思维受限 | 总体效应微弱（$d \approx 0.15 \sim 0.20$），缺乏社会性互动 |
 
 ---
-
-## 核心要素
 
 > [!feature] 有效教学的五大核心质量支柱
 > - **明确的教师领导与[[Classroom Management\|课堂管理]]（Active Teacher Leadership）** 教师主动规划并掌控教学进程，建立清晰一致的课堂常规，营造高度专注的学业氛围。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 35)]]
@@ -256,8 +248,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -282,8 +272,6 @@ updated: 2026-10-22
 > - **2023 年 — 批判性解构与关系型共同体反思** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 系统解构了商业化有效教学运动（如 Visible Learning、[[Victorian HITS and Literacy Toolkit|HITS]]）的技术拜物教与[[Neo-Taylorism|新泰勒主义]]底色，揭示其将有效教学窄化为清单考核与监控工具对[[Teacher Professional Agency|教师专业自主权]]的侵蚀，重申有效教学的[[Ontology|本体论]]核心在于特定情境中师生人际关怀与伦理学习共同体的建构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -335,8 +323,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]总体结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -371,8 +357,6 @@ updated: 2026-10-22
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（引自 Lilley, 2022; Wescott, 2022） | 澳大利亚维多利亚州公立中小学推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 区域样本 | 批判性政策质性调查与文献核查 | [[Victorian HITS and Literacy Toolkit\|HITS]] 清单实施、形式主义板书打卡、[[Teacher Professional Agency\|教师专业自主权]] | 刚性推行有效教学策略清单导致教师必须在铃响前于白板抄写[[Learning Intentions\|学习意图]]，引发普遍的[[Performativity\|表演性]]应付，教师专业自主感与同行信任度显著下降 | 揭示将有效教学降格为标准化行政打卡清单对基层教学实践与教师心态的负面挤压效应 |
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Ewald Terhart|特哈特]]论教师作为激活者 vs 促进者[[Effect Size|效应量]]与传统教学常识印证
 > 教师作为主动激活者的角色在效应量上显著压倒了作为促进者的角色（$d = 0.60$ 对比 $d = 0.17$）。然而，对于教育学和教学论研究者而言，这一被宣称为具有革命性突破的实证发现，实际上只是印证了数十年来早已确立的教学常识：有效的教学始终需要教师的主导性规划、结构化示范与即时指导；将[[Constructivist Paradigm|建构主义]]心理学直接外推为自由放任、学生自发摸索的弱指导教学，早已被证明是不切实际的幻想。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 431, 433)]]

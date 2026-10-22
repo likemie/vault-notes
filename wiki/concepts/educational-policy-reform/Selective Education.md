@@ -70,8 +70,6 @@ updated: 2026-10-22
 > 英国议会简报和[[Abstract\|研究摘要]]（Danechi, 2020; Long et al., 2018; POST, 2016）已持续向议员呈递上述实证证据([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.11]])。
 >
 
-## 争议与批评
-
 > [!warning] [[Research Utilization\|证据使用]]与道德侧步
 > 尽管研究证据高度一致地不支持选择性教育，[[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]发现英国议会辩论中政策制定者系统性地回避这些证据，转而使用道德侧步（[[Moral Sidestep]]）——将[[Grammar School\|文法学校]]等同于 [[Ofsted]] 评级意义上的、进而道德意义上的"好学校"。保守党议员在议会辩论中将文法学校与"好学校"关联的频率远高于工党议员（125 次 vs 30 次），表明这一[[Discourse|话语]]策略具有明显的党派属性([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.15]])。
 

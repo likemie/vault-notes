@@ -66,11 +66,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Pedagogical Subject
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教育主体（Pedagogical Subject，西语：*Sujeto Pedagógico*）** 是批判教育政治社会学、拉美激进教育史学与欧洲大陆教育哲学中的核心[[Construct|构念]]，指公立教育体系在国家契约与哲学本体层面所培育的具备反思批判意识、政治参与权利、具身教化与公共理性的完整人（whole person）。在拉美[[Critical Theory|批判理论]]视域下，教育主体是公立学校依据宪法契约培育的民主公民，承担对抗新自由主义国家撤资与市场化异化的政治使命（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 79]]）；在欧洲教化哲学视域下，教育主体是立足德意志教化（[[Bildung]]）传统与具身化-延展辩证法的生命存在，以精神自主性抵御[[Cognitive Capitalism|认知资本主义]]与[[Positivism|实证主义]]可见监控对学习的去主体化剥离（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 7–10]]）。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教育主体与当代异化角色的系统辨析
 > | 比较维度 | 教育主体（Pedagogical Subject） | 教育消费者（Customer / Consumer） | [[Effect Size\|效应量]]产出单元（VL Metric Node） | [[Human Capital Theory\|人力资本]]所有者（Human Capital Agent） |
 > |---|---|---|---|---|
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > | **异化表征** | 主体性遭受政治撤资与算法监视挤压 | 公民身份萎缩为个人消费博弈 | 师生具身交往退化为机械刷题与数据应激 | 陷入文凭贬值与过度教育的竞争内卷 |
 
 ---
-
-## 核心要素
 
 > [!feature] 教育主体的四大核心维度
 > - **政治公民性与宪法契约保障** 依托[[State Educational Sovereignty|国家教育主权]]与普遍公民权，在平等的公共学校[[Champ|场域]]中习得民主审议、阶级结构认知与公共问责能力（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 79]]）。
@@ -148,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕教育主体形成的理论命题归纳
 > | 命题类型 | 核心指向 | 理论机制与批判焦点 | 代表学者与文献 |
 > |---|---|---|---|
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > | **具身教化与批判重构命题** | 具身教化哲学与民众教育是抵抗异化、重振主体性的根本进路 | 德意志教化自足性、具身化-延展辩证法、弗莱雷批判觉醒 | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]]; Freire (1970) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 教育主体理论争议
 >

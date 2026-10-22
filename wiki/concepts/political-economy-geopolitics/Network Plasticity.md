@@ -45,11 +45,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Network Plasticity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **网络可塑性（Network Plasticity）** 指社会、组织或产业研发网络的拓扑形态、连接密度与信息流转通道并非不可逾越的刚性客观约束，而是能够被具备制度权威、技术研判力或关键资源的能动行动者进行**主动介入、定向修剪、跨界重组与重新编织**的结构弹性属性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 网络结构观[[Paradigm|范式]]辨析
 > | 比较维度 | 结构[[Determinism\|决定论]]网络观（Structural Determinism） | 嵌入性网络观（Granovetter, 1985） | 网络可塑性治理观（Davis, 2009; [[Argument_Fuchs_2010_RP\|Fuchs, 2010]]） |
 > |:---|:---|:---|:---|
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > | **政策与管理意涵** | 只能依据既有网络位置制定被动策略 | 依赖非正式人脉与历史声誉进行润滑 | **主动调动资金与技术背书重织网络，引导[[Technological Trajectories\|技术轨道]]** |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心构成要素
 > - **连接可变性（Tie Reconfigurability）** 异质行动者（如大学教授与代工厂工程师）之间的合作通道能够从无到有被快速建立或解耦。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
@@ -126,15 +118,11 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演进脉络
 > - **2009 — 组织社会学概念奠基（Gerald F. Davis）** 在《Managed by the Markets》及相关[[Network Governance|网络治理]]研究中明确提出“网络可塑性”[[Construct|构念]]，强调管理者重构公司间网络的能动空间。
 > - **2010 — 国家科技政策[[Paradigm|范式]]升级（[[Erica Fuchs]]）** 在《Research Policy》中将网络可塑性与国家创新治理相结合，揭示公共部门如何运用网络可塑性引导硬科技[[Technological Trajectories|技术轨道]]，奠定了[[Embedded Network Governance|嵌入型网络治理]]的微观拓扑基础。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

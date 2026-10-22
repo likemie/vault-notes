@@ -54,11 +54,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Procedural Piety
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **程序虔敬（Procedural Piety）**，源自[[Alexander Karp|亚历山大·卡普]]（Alexander C. Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas W. Zamiska）在《[[Technological Republic|技术共和国]]》第 16 章《虔敬及其代价》（*Piety and Its Price*）中的核心论断，是指现代官僚体制与公共文化中将**行政程序合规、透明性公关与道德纯洁性表演**视作绝对神圣教条，进而压制、遮蔽和取代**物理世界实质战略产出**的制度与认知病理。该机制一方面将公职人员预设为无需物质激励的禁欲[[Sage|圣人]]以维持形式廉洁，导致公共部门人才贫困；另一方面借由微小的微观合规瑕疵对具备非凡开拓能力的实干领袖发起道德猎巫，通过[[Scapegoat Mechanism|替罪羊机制]]卸载体制深层的战略无能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 179–189)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > | **最终体制后果** | 制造[[Innovation Desert\|创新荒漠]]与平庸官僚，削弱国家硬实力 | 打造现代化治理能力与高效敏捷的公共部门 | 奠定[[Technological Republic\|技术共和国]]的战略威慑基石 |
 
 ---
-
-## 核心要素
 
 > [!feature] 程序虔敬的三重异化机制
 > - **公职禁欲与道德[[Sage|圣人]]假定（The Ascetic Public Servant Myth）** 将公共职位神圣化为不食人间烟火的苦行圣职，拒绝市场化对标激励，导致政界沦为世袭富豪的志愿俱乐部或离职变现的跳板。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183)]]
@@ -156,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -176,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 道德纯洁性要求 vs 市场激励对标
@@ -194,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证与历史数据
-
 > [!ref-table]- 历史与经验案例对照表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -207,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 跨学科关联
-
 > [!rel-table] 跨学科概念关联
 > | 学科领域 | 关联概念 | 关联机制与理论对话 |
 > |:---|:---|:---|
@@ -219,8 +205,6 @@ updated: 2026-10-22
 > | **思想史** | [[Sage]] | 程序虔敬深植于将官员预设为无欲圣人的古典迷思，遭到[[Lee Kuan Yew\|李光耀]]等现代治国者的批判 |
 
 ---
-
-## 条目关联
 
 > [!entry-map] 条目关联网络
 > | 关联条目 | 关系类型 | 核心说明 |

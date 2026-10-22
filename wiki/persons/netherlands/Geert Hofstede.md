@@ -33,7 +33,6 @@ status: draft
 created: '2026-05-05'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Geert Hofstede 是国家文化研究中被 Laursen 称为"最有影响力"的学者。Laursen 引用 Hofstede、Hofstede and Minkov (2010) 的表述，将文化定义为"software of the mind"，并指出 Hofstede 把价值观视为国家文化核心([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.36]])。

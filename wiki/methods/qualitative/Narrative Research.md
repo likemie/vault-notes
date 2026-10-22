@@ -37,8 +37,6 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Narrative Research
-
 > [!info] 定义
 > 叙事研究（Narrative Research）是一种源自人文学科的[[Qualitative Research\|质性研究]]设计。研究者研究个体的生活，请一个或多个参与者提供关于他们生活的故事（Riessman, 2008）。这些信息随后由研究者重新讲述或重新故事化（restoried）为叙事性编年史。最终，叙事通常将参与者生活中的观点与研究者生活中的观点合并为一个合作性叙事（Clandinin & Connelly, 2000）。
 

@@ -37,8 +37,6 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-# Central Limit Theorem
-
 ---
 
 > [!theory-position] 理论定位
@@ -48,8 +46,6 @@ updated: 2026-10-22
 > - **知识位置** 位于概率论与研究方法之间，中心极限定理是数学定理，但其推论（[[Standard Error\|标准误]]、[[Confidence Interval\|置信区间]]、显著性检验）直接支撑教育研究的量化方法。
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题链
 > - **前提** 从任何总体中反复抽取等大的[[Random Sampling\|随机样本]]，每次抽样独立。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > | $Z$ 值（$Z$-score） | 概念 | 基于正态分布的标准分数，$Z = 1.96$ 对应 95% 置信水平，由中心极限定理赋予其概率含义 |
 
 ---
-
-## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology\|认识论]]与方法含义
 > - **[[Ontology\|本体论]]** 中心极限定理不涉及本体论承诺，它是关于随机[[Variable\|变量]]行为的数学定理。

@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Thomas Hart Benton
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国20世纪著名壁画家、版画家与地方主义（Regionalism）绘画运动核心领袖，曾长期任教于纽约艺术学生联盟（Art Students League of New York）。
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要作品与艺术发展
-
 > [!thought-timeline] 艺术发展
 > - **1910年代 — 现代主义与同步主义探索期** 研习欧洲前沿色彩理论与古典大师解剖学构图，探索抽象与装饰性构成。
 >   - **代表作品** 早期同步主义实验习作。
@@ -86,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 真正的艺术探索要求创作者具备强烈的批判定力与抵抗性格，拒绝为了顺应潮流或博取大众赞许而轻易抛弃自身坚信的表现形式；[[Creativity|创造性]]传承并非来自温和顺从的讨好，而是来自高强度的观念交锋、建设性批评与创造性摩擦。
 
 > [!citation-card] 抵抗性导师与反讨好品格
@@ -98,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **现代艺术与壁画运动** 确立了20世纪美国本土现实主义具象叙事壁画的经典[[Paradigm|范式]]，深刻影响了联邦艺术计划（FAP）时代的公共艺术创作。
 > - **艺术教育与非从众[[Creativity|创造力]]** 作为导师培养了[[Jackson Pollock|波洛克]]等艺术巨匠，开创了通过严厉批判与包容特立独行激发潜在创造力的师生互动典范。
 > - **工程与创新[[Organizational Culture|组织文化]]** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其与波洛克的[[Student-Teacher Relationship|师生关系]]提炼为反思现代企业“讨好文化”（Culture of Agreeableness）的核心案例，论证了允许建设性人际摩擦与包容尖锐异见对实现突破性创新的关键价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 借助本顿与波洛克的师生交锋批判过度讨好的平庸文化，论证非从众性格与创造性摩擦对实现颠覆性创新的不可替代性。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 卡普与扎米斯卡论本顿的导师阻抗与[[Jackson Pollock|波洛克]]蜕变
 > 卡普与扎米斯卡指出，本顿作为导师的伟大之处不仅在于传授扎实的构图技法，更在于他以强大的个人定力充当了波洛克艺术蜕变的“坚硬砥石”，证明了唯有经历激烈的思想抗争与反叛，真正的原创天才才能破茧而出。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - **思想阐释者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 将本顿的反讨好品格与导师阻抗提炼为现代科技组织激发非从众创新活力的理论模型。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

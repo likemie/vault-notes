@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# College Halls of Residence
-
 > [!metax] [大学住宿 · College halls of residence](https://www.visiblelearningmetax.com/influences/view/college_halls_of_residence)
 > 学校 › 学校构成
 >

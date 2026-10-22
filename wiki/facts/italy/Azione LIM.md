@@ -39,8 +39,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Azione LIM
-
 > [!info] 背景
 > Azione LIM 是意大利教育部在 2008 年推动的互动白板行动。它出现在意大利官方文件强调学校技术使用的政策背景中，体现了教育系统把技术创新引入课堂的趋势([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
@@ -54,9 +52,7 @@ updated: 2026-10-22
 > [!example] 实施情况
 > 该行动总成本为 EUR 93,354,571，随后互动白板数量和拨款继续增加。政策逻辑是让学校具备适应技术社会的基础设施，但论文强调还需要考察技术在教学过程中的实际效果([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > Pellegrini & Vivanet 引用英国大规模[[Experimental Research\|实验研究]]作为对照：互动白板使用 5 个月后，英语[[Effect Size\|效应量]]为 +.04 且不显著，数学和科学分别为 +.10 和 +.11；两年后，英语、数学和科学效应接近零。Kyriakou and Higgins 的[[Systematic Review\|系统综述]]也显示互动白板既未明显影响学生成就，也未明显改善课堂学习质量([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
 > [!info] 核心数据

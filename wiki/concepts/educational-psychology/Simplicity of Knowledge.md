@@ -48,12 +48,9 @@ created: 2026-08-14
 updated: 2026-10-22
 ---
 
-# Simplicity of Knowledge
 （知识的简单性）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识的简单性（simplicity of knowledge，在量化测验中常简称为简单知识，simple knowledge，SK）是构成[[Epistemological Theories\|认识论理论]]的核心维度之一（属于“知识的本质”范畴）。它指的是个体关于知识组织结构的底层信念：知识究竟是一系列相互孤立、无歧义且无需概念整合的离散事实清单，还是一个高度互联、充满条件性且依赖于具体情境的复杂概念网络。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]; [[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 309-310)]]
@@ -114,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
@@ -126,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1990 年：多维量表中的独立维度析出** Schommer (1990) 首次在[[Epistemology\|认识论]][[Questionnaire\|问卷]]（EQ）中将简单知识（SK）作为独立维度量化，打破了传统单一发展阶段论。
 > - **1994 年：[[Reflective Judgment Model\|反思性判断模型]]中的结构解构** King and Kitchener (1994) 揭示个体在面对争议问题时，从视知识为简单答案向视知识为复杂概率网络的质变过程。
@@ -136,15 +129,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与方法论反思
-
 > [!critique] 方法论反思与理论张力
 > - **一般性信念与[[Domain Specificity\|领域特殊性]]的测度张力** 采用一般性[[Questionnaire\|问卷]]测得的简单知识信念，在跨越物理、历史或伦理等不同学科时，可能受到学科内在结构特异性的调节，未来研究需结合领域特殊性任务进行动态追踪。
 > - **简单知识在不同[[Task Structure\|任务结构]]中的双重效应** 简单知识信念在良构算法练习中并不会造成成绩损失甚至可能带来短期的解题速度优势，这种短期正反馈极易掩盖其在长周期劣构[[Problem Solving\|问题解决]]中的深层破坏力。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 知识简单性（SK）实证研究汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -155,8 +144,6 @@ updated: 2026-10-22
 > | 同上 | 89名加拿大十年级中学生（实验子样本） | 组内平衡设计（良构 vs [[Task Structure\|劣构任务]]） | 良构任务表现（WST）、劣构任务表现（IST）、[[Reflexivity\|反思性]]判断（RJ） | SK 无法预测 WST（$R^2 = .002, p = .69$），但显著负向预测 IST（$\beta = -.24, p = .02$）与 RJ 得分（$\beta = -.24, R^2 = .06, p = .02$；控制 CK 后增量 $\Delta R^2 = .07, p = .02$） | IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$；SK 对 RJ 独立效应 $F(1,87) = 5.56, p = .02$ | 确立简单知识信念在劣构情境下对学业产出与高阶反思判断的特异性瓶颈效应 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学与测评案例
 > - **高中科学劣构论辩任务中的简单知识瓶颈（[[Argument_Lodewyk_2007_EducPsych\|Lodewyk, 2007]]）**

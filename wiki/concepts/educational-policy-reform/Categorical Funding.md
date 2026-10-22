@@ -65,11 +65,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Categorical Funding
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 分类资助（Categorical Funding）亦称定向委托研究（Commissioned Research），是一种由外部资助方（政府部门、研究理事会或跨国多边金融机构）预先设定[[Research Topic|研究主题]]、目标、范围和方法学边界的资助制度。项目承接通常依托标书竞标完成，学术生产在机制上被转化为执行出资方意图的合同化履约劳动。在[[International Education|国际教育]]治理中，以[[World Bank|世界银行]]为代表的机构通过长周期、高额预算的定向资助，将新古典经济学、[[Human Capital Theory|人力资本理论]]与投入产出规程深度嵌入全球[[Knowledge Production|知识生产]]，构成[[Financial-Intellectual Complex|金融-智识复合体]]的核心支柱；而在学术[[Champ|场域]]内部，定向委托合同研究以极端压缩的交付周期迫使学者放弃复杂性探索与批判反思，深刻侵蚀了大学基础科研的自主逻辑。Burgess (1993, p. 1); [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; Ball (2001); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 355)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 分类定向资助与自由探索资助（[[Curiosity-Driven Research|蓝天研究]]）辨析
 > | 维度 | 分类定向资助（Categorical Funding） | 自由探索资助（[[Curiosity-Driven Research\|蓝天研究]]） |
 > |---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | **宏观治理功能** | 为行政决策提供合法化背书，推行[[Disciplina and Doctrina\|规训]]与绩效监控 | 提供长期知识积累，反思既有权力结构与[[Paradigm\|范式]]盲区 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素与运作机制
 > - **议程由资助方预设（Funder-Set Agenda）** 研究的主题、边界和核心考量指标在招标公告发布前已被官方锁定，排斥非预期维度的自主发散。Burgess (1993, p. 1)
@@ -178,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -198,8 +188,6 @@ updated: 2026-10-22
 > - **2009 — [[Conditioned State Theory|受限国家]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯将跨国定向委托研究正式定性为[[Financial-Intellectual Complex|金融-智识复合体]]的霸权运作机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议
 >
@@ -223,8 +211,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -241,8 +227,6 @@ updated: 2026-10-22
 > - [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]] — 揭示国际机构委托研究如何通过极限压缩交付周期迫使学者放弃理论复杂性，与鲍尔（Ball, 2001）共同批判合同资助对大学[[Knowledge Production|知识生产]]逻辑的结构性侵蚀。
 
 ---
-
-## 相关条目网络
 
 > [!entry-map] 分类资助知识网络与关联矩阵
 >

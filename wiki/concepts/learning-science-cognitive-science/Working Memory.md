@@ -65,11 +65,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Working Memory
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 工作记忆（Working Memory）是个体在执行理解、推理、[[Problem Solving\|问题解决]]等复杂认知任务过程中，用于对任务相关信息进行短暂动态保持、符号操纵与实时监控的容量受限的认知系统。在认知心理学与神经科学中，工作记忆既是[[Executive Function\|执行功能]]（Executive Function, EF）的核心成分（表现为信息的[[Updating and Monitoring\|更新与监控]]），也是人类认知架构中处理新异信息时最狭窄的瓶颈：未经复述的信息仅能保持数秒至二十秒，且同时容纳的独立信息单元极其有限。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 工作记忆与相关认知[[Construct\|构念]]的特征对比
 > | 维度 | 工作记忆（Working Memory） | 短时记忆（Short-Term Memory） | 长时记忆（Long-Term Memory） | 注意力（Attention） |
 > |---|---|---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | **教学设计意义** | 必须通过[[Scaffolding\|教学支架]]防止外部超载 | 提示重要术语的基本语音与表象 | 构建自动化图式以突破加工瓶颈 | 设计阶段性节点避免注意疲劳 |
 
 ---
-
-## 核心要素
 
 > [!feature] 工作记忆系统的核心结构要素
 > - **中央执行系统（Central Executive）** 工作记忆的最高调控中枢，依赖[[Prefrontal Cortex\|前额叶皮层]]运行，负责注意力分配、任务集转换以及对无关直觉与冲动的[[Inhibitory Control\|抑制控制]]。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 8)]]
@@ -180,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -191,8 +181,6 @@ updated: 2026-10-22
 > | **人机卸载与摩擦权衡** | 揭示生成式 AI 消除机械负荷释放带宽，警惕切除思维摩擦阻断图式建构 | [[Intelligent Tutoring Systems\|智能导师系统]]、人机协同探究与学术写作 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 工作记忆概念的演进历程
 > - **1956 — 神奇的数字 7±2 假说** 乔治·A·米勒（George A. Miller）提出人类即时记忆广度约为 7±2 个信息块，奠定了认知容量有限性的经典基调。
@@ -204,8 +192,6 @@ updated: 2026-10-22
 > - **2026 — 人工智能时代的双向[[Cognitive Offloading\|认知卸载]]与生产性摩擦** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 系统揭示生成式 AI 介入对工作记忆的双向影响，提出区分降低外在负荷的工具性卸载与剥离[[Evaluative Judgement\|评价性判断]]的过度卸载，确立捍卫生产性认识摩擦对激活工作记忆深层加工的必要性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -225,8 +211,6 @@ updated: 2026-10-22
 > > 工作记忆模型主要解释有意识的逻辑推理与外显符号操作；对于通过大量内隐感知运动练习获得的非外显动作技能，工作记忆模型的预测力相对有限。此外，大脑注意力衰退并非纯粹的认知失败，适度放空并切换至默认网络有助于跨领域灵感生成与记忆巩固。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015, pp. 71–72)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

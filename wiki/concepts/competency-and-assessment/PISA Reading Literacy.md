@@ -50,11 +50,7 @@ created: 2026-10-21
 updated: 2026-10-21
 ---
 
-# PISA Reading Literacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[PISA]] 阅读素养（PISA Reading Literacy）是[[OECD|经济合作与发展组织]]（OECD）在国际学生评估项目（[[PISA]]）中确立的跨国测评[[Construct|构念]]，指 15 岁学生理解、使用、评估、反思多源书面文本并参与阅读，以实现个人发展目标、拓展知识与潜能并有效参与社会生活的能力。该构念摆脱了传统学科测验偏重课文背诵、汉字/词汇[[Decodification|解码]]与预设标准答案的束缚，确立了面向真实生活情境与成年公民参与的应用导向素养[[Paradigm|范式]]，并伴随技术变迁完成了从单篇连续/非连续印刷文本检索向复杂开放数字界面下多源文本验证、[[Reliability|信度]]辨析与矛盾整合的历史演进。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]; [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
@@ -76,8 +72,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[PISA]] 阅读素养与传统课程导向阅读测验及 [[PIRLS]] 的区别
 > | 维度 | PISA 阅读素养（Reading Literacy） | 传统母语课程期末统考 | PIRLS 国际阅读素养进展研究 |
 > |---|---|---|---|
@@ -88,8 +82,6 @@ updated: 2026-10-21
 > | **跨国度量标准** | 统一国际素养量表（均值 500，标准差 100） | 依据校内大纲百分制或等级评定 | 统一国际基准量表（均值 500，标准差 100） |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **三大核心认知过程维度** 构成评价认知操作的纵向主轴：① **定位信息（Locating information）** 在单源或多源材料中检索与筛选相关事实细节；② **理解文本（Understanding）** 整合文本不同部分、生成直接推论与构建篇章深层意义表征；③ **评估与反思（Evaluating and reflecting）** 审视文本的内容真实性、信息来源的可[[Reliability|信度]]与格式偏误，结合个人外部知识库进行理性辩驳与[[Metacognition|元认知监控]]。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]

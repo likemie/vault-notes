@@ -154,7 +154,6 @@ publication_place: "Washington, DC"
 publisher: "Office of Science and Technology Policy"
 issuing_organization: "Office of Science and Technology Policy"
 ---
-# Argument_Kratsios_2026_OSTP
 
 ---
 
@@ -179,8 +178,6 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -202,8 +199,6 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ---
 
-## 研究方法
-
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
@@ -220,8 +215,6 @@ issuing_organization: "Office of Science and Technology Policy"
 > | **政策样本** | 涵盖[[Nuclear Regulatory Reform Executive Orders 2025\|2025年核监管改革行政令]]、[[Restoring Gold Standard Science Executive Order\|恢复黄金标准科学行政令]]、[[Genesis Mission\|创世纪计划]]行政令、[[Workforce Pell Grants 2025\|劳动力佩尔助学金]]及各州监管沙盒法案。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -252,9 +245,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ---
 
-### 论证步骤一　从基础研究到开发的单向管道已无法解释当代发现机制
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　从基础研究到开发的单向管道已无法解释当代发现机制
 > 联邦政府资助私人市场不愿充分承担之基础研究的公共职能依然成立，但将基础研究、应用研究与试验开发割裂为固定机构分段负责的单向线性模型，已与当代科研实践严重脱节。（pp. 1–7）
 
 #### 1. 联邦公共资助职能仍然成立，但发现的组织形态已发生根本重构
@@ -345,9 +336,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ---
 
-### 论证步骤二　行政摩擦、资历垄断与错位激励大幅抬高突破性创新成本
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　行政摩擦、资历垄断与错位激励大幅抬高突破性创新成本
 > 维持历史科技进步速度所需的科研投入在多领域急剧攀升；行政文书重负、资深学者的[[Seniority Barrier in Academia|资历垄断]]、偏离学术能力的考核标准以及追求论文数量的功利激励，共同推高了取得突破性科学进展的制度成本。（pp. 13–20）
 
 #### 1. 维持历史技术进步速度所需的研究投入在多个领域成倍攀升
@@ -431,9 +420,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 ---
 
-### 论证步骤三　构建多元资助工具与新型组织形态的可检验科研组合
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　构建多元资助工具与新型组织形态的可检验科研组合
 > 每年约 2000 亿美元的联邦研发投入应当作为经过深思熟虑的资助组合进行主动配置；联邦机构必须发展多元科研组织实体与选拔机制，并依托元科学单元开展[[Randomised Controlled Trials|随机对照实验]]以检验其有效性。（pp. 20–32）
 
 #### 1. 历史上针对特定科学前沿设立专用机构的制度传统
@@ -508,9 +495,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ---
 
-### 论证步骤四　跨越从科学发现到本土转化的鸿沟以维系国家技术优势
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　跨越从科学发现到本土转化的鸿沟以维系国家技术优势
 > 单纯依赖论文层面的学术卓越无法自发维系国家技术领导地位；必须打破行政许可枷锁，全面开放联邦试验测试设施，组建前竞争技术联合体，确保公共研发成果扎根于本土实体产业。（pp. 33–46）
 
 #### 1. 单纯科学卓越无法自发维系国家综合技术领导地位
@@ -629,9 +614,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ---
 
-### 论证步骤五　将过程知识与熟练手艺重构为科研生态的核心支柱
-
-> [!claim|lead] 步骤五核心主张
+> [!claim] 论证步骤五　将过程知识与熟练手艺重构为科研生态的核心支柱
 > 技术能力本质上深植于无法完全编码的[[Process Knowledge|过程知识]]与熟练手艺之中；制造业的外流切断了科学探索与生产实践的反馈回路，必须重振学徒制并拓宽传统学术阶梯之外的科研参与路径。（pp. 47–56）
 
 #### 1. 过程知识深植于实践现场而无法仅凭发表文献传递
@@ -698,9 +681,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ---
 
-### 论证步骤六　在人工智能时代同步扩大知识生成与同等规模的实验核验
-
-> [!claim|lead] 步骤六核心主张
+> [!claim] 论证步骤六　在人工智能时代同步扩大知识生成与同等规模的实验核验
 > 人工智能大幅降低了假设生成与论文撰写的成本，但并未自动消除实验反馈的物理约束；[[Genesis Mission|创世纪计划]]必须将国家算力仪器整合为发现引擎，并同步建立以黄金标准科学为核心的大规模自动化核验基础设施。（pp. 57–72）
 
 #### 1. 认知工具跃升难以直接消除物理与制度层面的硬性约束
@@ -775,9 +756,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ---
 
-### 论证步骤七　以 2028 财年预算优先事项指导联邦研发组合战略重组
-
-> [!claim|lead] 步骤七核心主张
+> [!claim] 论证步骤七　以 2028 财年预算优先事项指导联邦研发组合战略重组
 > 附件指导备忘录将[[Portfolio-Based Research Funding|组合式科研资助]]、开放设施、机制设计试验与制造转化等核心原则，正式转化为各联邦部门编制 2028 财年预算时的刚性合规科目。（p. 86）
 
 #### 1. 联邦政府应聚焦时间视野长且私人资本难以承担的基础探究
@@ -806,8 +785,6 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **单向线性模型失真** 企业每年约 7000 亿美元的研发投入已超过政府与高等教育总和的三倍，当代重大突破多呈现基础研究与工程应用的双向迭代，[[Pasteur's Quadrant|巴斯德象限]]成为前沿科学的主导形态。（pp. 5–7）
 > 2. **制度摩擦推高创新成本** 近一半科研时间被行政文书消耗，[[National Institutes of Health|NIH]] 课题负责人平均年龄推迟至 51 岁，同行评议趋于保守求稳，亟需引入对人资助、金券与快速资助等多元选拔假设。（pp. 8, 16, 27–28）
@@ -822,8 +799,6 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > - **400B** 2025 年美国企业承诺投入人工智能基础设施的资金总额（美元）。（p. 57）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 十年后的衡量基准
 > 十年之后，美国研究者应当能够回头说，当时我不能追的关键问题，现在我可以自由去追。
@@ -846,8 +821,6 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > *Even if every scientist benefits from adopting AI, it does not follow that science as a whole will advance. Individual gains do not automatically aggregate into collective progress.*（p. 60）
 
 ---
-
-## 自述局限
 
 > [!warning] 报告自述边界与实施局限
 > - 报告承认成熟领域进步放缓存在客观难度上升的成分，虽列举历史案例说明新工具可打破停滞，但未能在实证数据上严格剥离制度摩擦与学科内在探索极限的各自贡献率。（p. 14）

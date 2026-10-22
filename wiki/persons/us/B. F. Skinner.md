@@ -64,12 +64,9 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# B. F. Skinner
 （伯尔赫斯·弗雷德里克·斯金纳）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名心理学家、新[[Behaviorism|行为主义]]领衔人物，哈佛大学心理学系教授，美国国家科学奖章获得者。
@@ -99,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1938 — *The Behavior of Organisms: An Experimental Analysis*** 确立操作性行为与强化排程的[[Experimental Research|实验法]]则，奠定行为分析学派的实验科学大厦。
 > - **1953 — *Science and Human Behavior*** 将实验室强制定律扩展至人类[[Social Regime|社会体制]]、法律、宗教与教育控制的全面分析。
@@ -111,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 斯金纳坚持极端[[Positivism|实证主义]]与环境[[Determinism|决定论]][[Epistemology|认识论]]：有机体的一切外显行为均是有机体在面对环境刺激时发出的操作性反应，其发射频率与存续形态由其后继结果（强化或惩罚）所塑造。心理学与教育学应当彻底[[Epoché|悬置]]无法进行客观检验的主观心智、自由意志与深层[[Intentionality|意向性]]，将探究严格收拢为输入刺激、反应行为与输出后果之间的函数关系。在教学中，教育者应当扮演行为工程师的角色，通过将知识分解为紧密的微小序列，并利用教学机器或精巧排程给予即时正强化，达成对学习者表现的精准调控。这一[[Paradigm|范式]]展现了[[Donald A. Schön|唐纳德·舍恩]]（[[Donald A. Schön]]）所界定的[[Technical Rationality|技术理性]]特质。
 
 > [!citation-card] 教学机器与即时强化纠偏逻辑
@@ -130,8 +123,6 @@ updated: 2026-10-22
 > - **当代商业算法与[[Gamification|游戏化]]调控** 现代数字科技巨头与教育 App 广泛吸收斯金纳的变比率强化排程，设计出充满积分金币、随机宝箱与即时视听刺激的[[Gamification|游戏化]]系统，以维持学生的粘性停留与连续答题行为。[[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, pp. 236–237)]]
 
 ---
-
-## 争议与评价
 
 > [!debates] 学术争议与反思
 >
@@ -161,16 +152,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键引用
-
 > [!citation-card] 思想史考证：斯金纳行为工程学向可见学习的渗透
 > [[John Hattie|哈蒂]]早期在《学习模型显著维度识别》（Hattie, 1987）中明确承认其关于学生学习的模型直接依凭[[Robert Glaser|格拉泽]]的学习理论，而格拉泽则是斯金纳[[Behaviorism|行为主义]]传统的忠实传承者与合作者。这一谱系证实，哈蒂在《[[Visible Learning|可见的学习]]》中所建立的反馈回路深植于斯金纳式的行为塑造与[[Technical Rationality|技术理性]]控制传统，具有明确的[[Epistemology|认识论]]依附。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 4–5)]]
 >
 > *Hattie explicitly stated in 1987 that his early model of student learning was based on Robert Glaser's learning theory, which derived directly from Skinner's operant tradition. This genealogy confirms that Hattie's [[Feedback]] model is deeply rooted in behaviorist shaping and technical rationality.*
 
 ---
-
-## 条目关联
 
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |

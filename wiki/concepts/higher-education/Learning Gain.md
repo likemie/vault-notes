@@ -78,11 +78,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Learning Gain
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学习增益（Learning Gain，亦称学习增值或 Value-Added）是指学生在经历特定教学干预、课程阶段或高等教育全周期培养后，在学科专业知识、概念性理解、[[Higher-Order Thinking Skills\|高阶思维技能]]（如[[Critical Thinking\|批判性思维]]与[[Problem Solving\|问题解决]]）以及个人综合素养等方面所实现的纵向能力进步与净增长幅度。在现代教学设计与学习科学实验中，学习增益特指通过前[[Pre-test and Post-test\|后测]]设计或受控实验对比所剥离出的教学干预净成效；在高等教育与宏观政策评价中，它突破了以生源声誉和静态文凭为主的输入导向评价，转而评估院校教育过程对学生实际认知发展的增值赋能。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习增益在不同研究层面的[[Paradigm\|范式]]对比
 > | 维度 | 教学实验中的微观学习增益 | 高等教育纵向增值评价 | 教师效能增值模型（VAM） |
 > |---|---|---|---|
@@ -117,8 +111,6 @@ updated: 2026-10-22
 > | **典型风险** | [[Hawthorne Effect\|霍桑效应]]、测试工具敏感度局限 | 学生低利害作答动机涣散、配对[[Attrition\|样本流失]] | 惩戒性人事规制瓦解教师专业信任生态 |
 
 ---
-
-## 核心要素
 
 > [!feature] 学习增益的核心测度取向与构成机制
 > - **实验干预的净因果增益识别** 在教学对比实验中，通过严格的[[Pre-test and Post-test\|前测]]基线控制与后测延迟测试，剔除先验知识与自然成长影响，精准度量特定教学法诱发的认知结构变化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
@@ -173,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -184,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学习增益概念的演进历程
 > - **1980s — 基础教育教师增值评估（VAM）兴起** William Sanders 在美国田纳西州开创田纳西增值评价系统（TVAAS），利用[[Hierarchical Linear Model\|多层线性模型]]追踪学生跨学年标准化成绩，尝试剥离教师个体的教学增益。
 > - **2000s — 实验心理学与探究教学增益标准化** 科学教育与认知心理学普遍确立以前[[Pre-test and Post-test\|后测]]标准差增益（Cohen's $d$ / Hedges' $g$）作为衡量不同教学[[Paradigm\|范式]]（探究 vs 讲授）概念获得成效的核心指标。
@@ -193,8 +181,6 @@ updated: 2026-10-22
 > - **2016–2023 — 探究指导与自适应支架增益的循证综合** Lazonder and Harmsen (2016) [[Meta-analysis\|元分析]]确立指导使[[Inquiry-Based Learning\|探究学习]]增益提升半个标准差及指导形态等价性；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统综合长周期实验，论证探究与[[Direct Instruction\|直接教学]]协同互补实现长效[[Surface and Deep Learning\|深层学习]]增益的最佳路径。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -214,8 +200,6 @@ updated: 2026-10-22
 > 学习增益测量必须建立在稳定可靠的[[Pre-test and Post-test\|前测与后测]]基准量尺之上；若前后测试题形式异质、存在明显的[[Floor and Ceiling Effects\|天花板效应]]（高水平学生无法测出进步），或者学生作答态度消极，增益计算将产生严重的统计假象。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

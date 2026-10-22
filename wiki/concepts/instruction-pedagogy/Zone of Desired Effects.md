@@ -78,11 +78,7 @@ created: "2026-10-16"
 updated: 2026-10-22
 ---
 
-# Zone of Desired Effects
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **期望效应区（Zone of Desired Effects）** 是新西兰学者[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的核心量化分界标准，指教育干预或影响因素的[[Effect Size|效应量]]达到或超过 $d \ge 0.40$ 的区间。哈蒂将 $d = 0.40$ 设定为**铰接点（Hinge Point）**，假托其代表学生在一整年中不加额外特殊干预时的典型学业成长与常态教师教学的复合平均进展，并以此作为甄别教育策略是否真正具备推广价值的刚性门槛。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 期望效应区与传统教育评估标准的辨析
 > | 维度 | 期望效应区（Zone of Desired Effects） | 传统统计显著性标准（$p < .05$） | 课程标准达成度基准（Criterion-Referenced） |
 > |---|---|---|---|
@@ -116,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **铰接点（Hinge Point, $d = 0.40$）** [[John Hattie|哈蒂]]设定的核心分水岭，声称代表学生一年正常认知成熟与标准教学的基线进展，高于此数值方被视作对教学产生期望成效。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
 > - **四层效应区间划分** 哈蒂将教育影响因素分为四大区段：逆效应区（$< 0$）、发展效应区（$0 \le d < 0.15$，自然成熟）、教师效应区（$0.15 \le d < 0.40$，平庸教学）、期望效应区（$d \ge 0.40$，高效教学）。
 > - **简单算术平均本质** 该数值源自 2009 年全书 138 项影响因素未加权平均的数学产物，缺乏任何外在客观物理常数依据。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
@@ -186,8 +178,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕期望效应区形成的命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -205,8 +195,6 @@ updated: 2026-10-22
 > - **2023 年 — 批判性解构与意识形态揭露** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 从[[Neo-Taylorism|新泰勒主义]]与[[Cargo Cult Science|货物崇拜科学]]视角，系统拆解期望效应区的伪[[Nature of Science|科学本质]]，揭露其掩盖学段[[Heterogeneity|异质性]]并服务于新自由主义财政紧缩的治理功能。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -235,8 +223,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 期望效应区与核心影响因素统计反差
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -253,8 +239,6 @@ updated: 2026-10-22
 > | **规范反馈干预（FI）**<br>Kluger and DeNisi (1996) | $d = 0.38$ | 低于期望阈值 | 唯一符合严格反馈界定的[[Meta-analysis\|元分析]]，且 38% 的研究表现受损 | 处于 $0.40$ 阈值之下 | 因未达标促使哈蒂拼贴强化与即时亲和力等异质数据以虚构 $d = 0.73$ 虚假指标（[[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]]） |
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[John Hattie|哈蒂]]承认 0.40 支点截断值纯属叙事性建构
 > 这一切分点是来自 800 多项[[Meta-analysis|元分析]]的平均效应……它充当着用来创造故事（关于什么是普遍的、什么是高于和低于该效应的）的门槛，未被设计为武断判定低于它的就该忽略、高于它的就该珍视的固定临界分值。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 89; 引自 Nielsen & Klitmøller, 2021a, p. 7)]]

@@ -104,11 +104,8 @@ status: active
 created: 2026-05-30
 updated: 2026-10-22
 ---
-# Constructivist Paradigm
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 建构主义（Constructivism）是一个跨领域的概念家族。它的共同立场是：认识者不会原样接收一个已经给定的意义世界，而会在行动、解释、语言和社会互动中组织经验，由此形成对现实的理解。这个共同立场在不同领域指向不同对象：[[Paradigm\|研究范式]]关注参与者和研究者如何解释经验，学习理论关注学生如何通过活动改变理解，社会理论则关注观念、规范和知识如何塑造制度现实。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1, pp. 8–9)]]; [[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 59–61)]]; [[Argument_Zapp_2022_Springer\|(Zapp, 2022, pp. 145, 148)]]
@@ -126,8 +123,6 @@ updated: 2026-10-22
 > - **建构不等于任意创造。** 经验材料、学科知识、语言资源、任务规则和权力关系都会限制可以成立的解释。Crotty 将意义概括为人在解释世界时形成、并在共同体互动中生成的产物（Crotty, 1998, as cited in Creswell & Creswell, 2022, p. 9）。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 同一名称下的三种主要用法
 > | 用法 | 分析对象 | 建构过程 | 主要问题 | 方法或[[Praxis\|实践]]含义 |
@@ -232,8 +227,6 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -256,8 +249,6 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **2020 年代：[[Recontextualization|再脉络化]]、知识批评与专业发展拓展** 跨文化研究考察[[Constructivist Instruction|建构主义教学]]如何与本土传统形成[[Selective Affinity|选择性亲和]]（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）；[[Social Realism|社会实在论]]反思自主建构对系统学科知识的边缘化（[[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）；同时在高等教育与科研管理领域，社会建构主义（Social Constructivism）被拓展至大学科研人员与教师专业发展，指导以结构化提示、[[Brainstorming|头脑风暴]]与跨学科研讨为核心的学者工作坊设计，推动不同院系学者在集体社会协商中实现协同[[Knowledge Building Theory|知识建构]]与国家重大战略承接。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -283,8 +274,6 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > 建构主义研究擅长说明人们怎样理解经验、概念怎样在互动中变化，以及制度怎样获得意义。要求严密控制[[Variable\|变量]]、估计[[Effect Size\|效应量]]或检验普遍线性[[Causality\|因果关系]]的问题，需要采用能够支持这些推论的设计。方法选择应由[[Research Question\|研究问题]]决定，质性解释也可以与量化证据组合。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]教学角色与建构主义实践因果效应对比（激活者 vs 促进者）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

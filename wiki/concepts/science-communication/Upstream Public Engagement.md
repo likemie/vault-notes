@@ -48,11 +48,7 @@ created: 2026-09-04
 updated: 2026-10-21
 ---
 
-# Upstream Public Engagement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 上游公众参与（Upstream Public Engagement）是指在科研议程确立、课题优先序遴选、技术路线构思乃至资助申请立项等研究周期的最前端，将多元公众、患者社群与非专业利益相关者实质性引入科研过程的双向互动[[Paradigm\|范式]]；其核心在于超越在科研成果产出后开展单向通知或公关解释的“下游修补”模式，在科技轨迹与社会价值尚未固化的早期阶段共同探讨科技的潜在影响、伦理边界与公众关切。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 92, 100, 105)]]
@@ -68,8 +64,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 上游参与、下游科普与传统赤字传播辨析
 > | 维度 | 上游公众参与（Upstream PE） | 下游科学普及（Downstream PE） | 传统赤字灌输（[[Deficit Model of Science Communication\|deficit model]]） |
 > |---|---|---|---|
@@ -80,9 +74,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **议程设定的平权性（Co-creation in Agenda-setting）**
 >   公众与非专业群体不再仅作为被调查的数据提供者，而是实质性参与界定“哪些现实问题最值得被研究”，例如在医学健康与环境生态领域的优先序磋商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 92, 100)]]
 > - **全生命周期的前置性（Lifecycle Front-loading）**
@@ -131,8 +123,6 @@ updated: 2026-10-21
 > **[[Knowledge Production\|知识生产]]认识论的互补增益** 64% 的英国科研人员在实证调查中明确认同公众参与能显著提升科研本身的质量；在医学和环境研究中，通过引入[[Patient and Public Involvement\|患者与公众参与]]（[[Patient and Public Involvement\|PPI]]）以及大规模[[Citizen Science\|公民科学]]共创，一线学者不仅能够优化[[Clinical Trial\|临床试验]]方案依从度，更能精准捕捉以往被量化模型忽视的真实世界[[Variable\|变量]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 92, 95)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

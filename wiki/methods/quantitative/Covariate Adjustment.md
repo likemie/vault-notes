@@ -72,11 +72,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Covariate Adjustment
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **协[[Variable\|变量]]调整（Covariate Adjustment）**，亦称**协变量控制**或 **[[Analysis of Covariance\|协方差分析]]（ANCOVA）**，是指在统计模型中系统性纳入可能影响[[Dependent Variable\|结果变量]]的第三变量（基线协变量 $\mathbf{X}$），以重新估计核心[[Independent Variable\|自变量]]与因变量之间关系的量化建模技术。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 > *“From 2014 onwards, the EEF effectively doubled the effective sample size of trials... Covariate adjustment using baseline prior attainment absorbs substantial residual variance, significantly shrinking standard errors and boosting statistical power without doubling actual recruitment costs.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 承认教育真实世界中[[Variable\|变量]]的高度纠缠性。一个表面上由教师教学行为或学校政策带来的成绩差异，极可能大部分源自学生家庭背景或既有学业基础；未控制协变量的边际[[Effect Size\|效应量]]绝不能被轻率等同于净因果贡献（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]）。
@@ -123,16 +117,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **协[[Variable\|变量]]前置识别与理论论证** 基于既有文献与理论框架挑选关键前置协变量（如[[Pre-test and Post-test\|前测]][[Academic Achievement\|学业成绩]]、家庭[[Socioeconomic Status|社会经济地位]] SES、特殊教育需求资格），坚决杜绝纳入受到干预结果影响的中介变量（Bad Controls）。
 > 2. **制定[[Statistical Analysis Plan\|统计分析计划]]并预先锁定（[[Preregistration]]）** 在干预后测数据收集前，于统计分析计划（SAP）中刚性明确主效应模型所包含的全部协变量清单，防范[[Researcher Degrees of Freedom\|研究者自由度]]与模型钓鱼。
 > 3. **基线均衡核查与前测采集** 采集试验启动前的基线数据，检验处理组与对照组在前测与背景协变量上的均值差与标准化偏差。
 > 4. **拟合协变量调整因果模型** 将基线协变量矩阵纳入回归方程，同时控制学校/班级层面的集群嵌套结构。
 > 5. **敏感性与未调整模型对比汇报** 同时报告未调整的粗边际效应（Unadjusted Estimate）与调整后的净效应（Adjusted Estimate），并对比[[Effect Size\|效应量]]与[[Standard Error\|标准误]]的变化。
-
-### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 学生个体嵌套于学校的两层前后测数据。
@@ -167,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - [[Randomised Controlled Trials\|随机对照试验]]与整群 RCT（通过控制强相关前测大幅降低残差方差，提升小效应识别精度；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）；
@@ -182,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **偏误来源**
 >   - **不可观测[[Variable\|变量]]遗漏偏差** 在观察性数据中，控制再多的可观测协变量也无法保证未观测变量的对称，不可盲目推断因果（[[Argument_Berk_2011_EvalRev\|Berk, 2011]]）。
@@ -193,8 +179,6 @@ updated: 2026-10-22
 > - **补救方式** 必须在正式分析前通过[[Statistical Analysis Plan\|统计分析计划]]（SAP）预注册固化协变量集合；结合平衡性诊断与敏感性分析。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -211,8 +195,6 @@ updated: 2026-10-22
 > > - **批判实证论警示** [[Argument_Berk_2011_EvalRev\|Berk (2011)]] 强调，未观测到的进取动机、学校隐性文化永远无法被代理变量完全清除，观察性协变量调整得出的[[Causality\|因果推断]]始终是脆弱的假说。
 
 ---
-
-## 典型实证案例
 
 > [!case] 丹麦教师学科专业资格效应的协[[Variable\|变量]]敏感性（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]）
 > 在丹麦基础教育实证分析中，未控制学生背景时，拥有专业学科硕士资质的教师对学生成绩的边际[[Effect Size\|效应量]]达到 $+0.15$ SD 且高度显著；然而当研究者纳入学生家庭[[Socioeconomic Status|社会经济地位]]（SES）与父母教育背景进行协变量调整后，该效应量骤降至 $+0.08$ SD 且完全失去[[Statistical Significance\|统计显著性]]。这一经典案例无可辩驳地表明：教师资质的优势实质上很大程度混杂了优质生源的非随机分派，统计模型中的协变量选择会从根本上改变教育政策的排名与资源分配优先级（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, pp. 49–51]]）。
@@ -231,8 +213,6 @@ updated: 2026-10-22
 > | [[Effect Size]] | 核心指标 | 协变量调整直接重构残差结构，使标准化效应量更为纯净可靠。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述英国 [[Education Endowment Foundation\|EEF]] 在大规模两级整群 [[Randomised Controlled Trials\|RCT]] 中将基线[[Pre-test and Post-test\|前测]]协[[Variable\|变量]]调整常态化，实现[[Effective Sample Size\|有效样本量]]翻倍与微弱效应精准识别的方法学实践。

@@ -49,11 +49,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Basic-Applied Research Dichotomy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 基础/应用研究二分法（Basic/Applied Research Dichotomy）是二战后主导全球尤其是美国科技体制建设的核心分类[[Paradigm|范式]]。该范式以科研人员开展工作当下的**初始主观动机**为判据，将科研活动划分为追求纯粹客观规律认知的基础研究与满足现实功用目的的应用研究，预设二者存在不可逆的单向传导秩序：基础研究在自由探索中产出新科学定律，进而单向流入应用研究并转化为工业技术。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年报告[[Science, The Endless Frontier 1945]]中将此确立为国家科技体制基石，规定政府公共财政仅对[[Market Failure|市场失灵]]的纯基础研究承担资助义务，应用开发则交由私营市场。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科技政策史上三大科研分类[[Paradigm|范式]]的系统对照
 > | 比较维度 | [[Basic-Applied Research Dichotomy\|基础/应用研究二分法]]（Bush, 1945） | [[Pasteur's Quadrant\|帕斯德象限理论]]（Stokes, 1997） | [[Discovery-Invention Cycle\|发现-发明循环理论]]（[[Argument_Narayanamurti_2013_IST\|Narayanamurti et al., 2013]]） |
 > |:---|:---|:---|:---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **公共资助判据** | 政府仅资助纯[[Curiosity-Driven Research\|基础研究]]，应用开发由市场负责 | 优先资助帕斯德象限内的用启发性基础研究 | 资助聚焦于 **[[Long-Term Public Utility\|长期公共效用]]** 与**疏通创新网络瓶颈** |
 
 ---
-
-## 核心要素
 
 > [!feature] 二分法[[Paradigm|范式]]的四大理论支柱与制度预设
 > - **文化阶层偏见的[[Theory of Knowledge|知识论]]投影** 深植于西方古老文化中将动脑思考置于动手操作之上的智识偏见，武断推定纯理论认知天然优越于工程实践专长。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
@@ -127,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕基础/应用二分法形成的批判性命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **2013 — 宣告二分法终结** 纳拉亚纳穆尔提等人在《科学与技术问题》撰文宣布二分法寿终正寝（RIP），主张以客观产出的发现与发明循环模型全面替代动机二分，并以[[Long-Term Public Utility|长期公共效用]]重构科研资助准绳。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

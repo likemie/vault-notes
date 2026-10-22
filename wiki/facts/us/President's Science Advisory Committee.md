@@ -61,11 +61,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# President's Science Advisory Committee
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 总统科学顾问委员会（President's Science Advisory Committee, PSAC）是冷战高潮时期直属于美国总统的最高战略级科学顾问机构，是战后美国“高自治—高嵌入”科技治理结构的制度化巅峰。该委员会使学术精英作为“国家理性”的[[Avatar|化身]]深度介入白宫核心大战略决策，跨越各行政部委官僚壁垒，为总统直接提供前沿科技、核战略、国防安全及科学高等教育战略评估，构成了战后美国科学界制度化嵌入国家大战略决策的核心枢纽。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1957–1961 — [[Dwight D. Eisenhower|艾森豪威尔]]时期组建与“高自治—高嵌入”治理结构确立** 艾森豪威尔任命麻省理工学院（Massachusetts Institute of Technology, MIT）校长詹姆斯·基利安（James Killian）为首任全职总统科学顾问，正式组建 PSAC；首届 17 名委员中 14 名来自顶尖[[Research Universities|研究型大学]]，深度统筹军备控制、核战略、[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）创建与高等教育扩容，形成科学精英深度嵌入大战略决策的黄金时期。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1961–1963 — 肯尼迪时期体制扩张与法定参谋机构 [[Office of Science and Technology Policy|OST]] 创设** 约翰·肯尼迪（John F. Kennedy）总统任命 MIT 工程学教授杰罗姆·威斯纳（Jerome Wiesner）为科学顾问兼 PSAC 主任；1962 年在白宫内正式创设科学技术办公室（OST），赋予科学顾问法定的政策统筹职能与常设技术参谋团队。
@@ -89,8 +83,6 @@ updated: 2026-10-22
 > - **2025 年以来的治理反差** 相比冷战时期 PSAC 学术精英充当“国家理性”[[Avatar|化身]]、统领科技大战略的黄金时期，2025 年起在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，白宫科技政策办公室转向执行总统定向指令、跨过学术体系直接组织战略技术获取，展现出历史性治理逻辑反差。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **领导架构（总统科学顾问）** 由总统直接任命的全职总统科学顾问（如 James Killian、Jerome Wiesner、Edward David）兼任 PSAC 主任，直接参与国家安全战略讨论并向总统汇报。
@@ -113,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!citation-card] 高自治与高嵌入治理结构
 > [[Dwight D. Eisenhower|艾森豪威尔]]总统组建总统科学顾问委员会（PSAC），使学术精英直接参与核威慑、导弹防御与航天工程的最高决策，形成了历史上极其罕见的高自治与高嵌入治理结构。在微观层面，立项与评价完全依托同行评议，政府不干涉研究细节；在宏观层面，科学家被公认为“国家理性”的[[Avatar|化身]]，享有崇高的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 >
@@ -127,8 +117,6 @@ updated: 2026-10-22
 > - **[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）治理规范** 就国家实验室（如费米实验室、劳伦斯伯克利实验室等）的运行机制、[[Big Science|大科学]]设施开放共享提供战略规范。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -80,8 +80,6 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Normal School
-
 ---
 
 ## 定义
@@ -190,8 +188,6 @@ updated: 2026-10-22
 > **知识半衰期与二阶骨干乘数辐射机制** 大学师范教育专业课程仅能提供职业生涯初期所需的基础知识，实证研究证据具有时效性与不断迭代的特征（Halbwertszeit des Wissens）。在繁重的日常教学与行政负担下，在岗教师对方法学密集的一级实证文献感知负荷过高且缺乏直接操作性指导，极易诱发对科研成果的疏离并退回经验直觉或伪科学神话。克服这一困境的关键在于突破单向知识供给假设，由清算中心等二阶[[Educational Brokerage Agency\|知识中介机构]]将前沿[[Meta-analysis\|元分析]]与研究综述转化为实践评介，重点面向大学与进修机构的教师教育者（Lehrkräftebildner*innen）进行专业供给，依托其作为“乘数群体（Multiplikatoren）”在见习阶段（Referendariat）与在职进修（Fortbildung）中实现研究证据的梯次辐射与概念转变。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 251–252, 258)]]；[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–16)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

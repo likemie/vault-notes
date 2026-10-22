@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Time Management
-
 > [!metax] [时间管理 · Time management](https://www.visiblelearningmetax.com/influences/view/time_management)
 > 学生学习策略 › 学习策略
 >

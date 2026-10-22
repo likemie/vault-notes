@@ -53,11 +53,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# Nord Anglia Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **诺德安达教育（Nord Anglia Education，曾用名 Nord Anglia Education [[Professional Learning Community|PLC]]）** 是发端于英国、现已发展为全球最大的跨国营利性优质私立[[International Schools|国际学校]]运营集团之一。在比较教育与[[Policy Borrowing|政策借用]]研究中，比奇将其作为跨国私人资本依托国内[[Public-Private Partnership|公私伙伴关系]]（PPP）积累运营技术、随后将本土服务能力全面转化为全球扩张工具的代表性企业。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 宣称致力于为全球 2 至 18 岁学生提供个性化且具全球视野的学术培养，强调通过[[Singapore Education Hub Policy|全球校园]]网络促进跨文化学习体验。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1972–1990s** **英国本土教育外包与体制内渗透期**
@@ -94,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（集团全球董事会）** 由全球私募股权投资机构合伙人、资深跨国教育行政长官及国际学术顾问组成，行使跨国资本配置与战略并购决断权。
 > - **执行机构（全球执行委员会）** 首席执行官（CEO）统领全球运营，按地理区域设立区域首席执行官（欧洲、中东、东南亚、美洲、中国等），实行集中化标准与属地化运营。
@@ -103,8 +95,6 @@ updated: 2026-10-22
 > - **跨国校际联动平台** 搭建“[[Singapore Education Hub Policy|全球校园]]（Global Campus）”数字化协作系统，连接全球数万名跨国学生开展联合研学与项目式探究。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **高端全日制国际寄宿与走读学校** 遍及全球各核心国际都会，为跨国精英家庭子女提供高标准双语或全英语 K-12 课程。
@@ -117,8 +107,6 @@ updated: 2026-10-22
 > *In the UK, through Public-Private Partnerships, private enterprises have moved into the delivery of education ... Nord Anglia Education PLC is an example of an enterprise that is using its capacity built in the UK to expand overseas ... 'We see significant opportunities to deploy our UK expertise in overseas markets and this significantly increases our operating capacity' ([[Argument_Beech_2009_GlobalGarden|Beech, 2009b: 344]]).*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与比较教育启示
 > - **从本土公共服务外包到全球资本输出** 比奇揭示了教育市场化的跨国溢出路径：国内[[New Public Management|新公共管理]]与 [[Public-Private Partnership|PPP]] 改革孵化了高度专业化的营利性教育实体，这些实体随后摆脱对本国单一财政的依赖，反向出海重构全球教育版图。

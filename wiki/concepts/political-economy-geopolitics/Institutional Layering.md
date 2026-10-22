@@ -61,11 +61,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Institutional Layering
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Historical Institutionalism|历史制度主义]]与公共政策分析中用以解释[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）的核心概念；指在维持既有制度总体稳定或保留核心制度框架的前提下，行动者通过向既有结构附加新规则、新政策工具、新组织机构或新行政程序，使其与旧制度并存共生，进而随着历史时间推移逐步重塑原有规则的行为导向、治理功能与制度地位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9, 11)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 制度层叠与相关制度变迁机制辨析
 > | 机制类型 | 结构变动形式 | 对旧制度的态度 | 核心驱动力 | 解释目标 |
 > |---|---|---|---|---|
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > | **间断均衡**<br>（Punctuated Equilibrium） | 长期宏观稳态与短暂激进突变交替出现 | 在[[Punctuated Equilibrium Theory\|政策垄断]]打破时颠覆旧政策议程 | 外生重大冲击打破垄断与[[Venue Shopping\|场所转换]]推进 | 宏观政策议程设置与体制断裂式剧变 |
 
 ---
-
-## 核心要素
 
 > [!feature] 制度层叠的历史演进传统与构成维度
 > - **差异化增长（Differential Growth）** 改革者在既有制度核心的外围增设补充性新规则或新机制；新层最初看似微不足道，但由于外部市场红利或政策倾斜，其增长速度显著超越旧制度核心，随时间推移逐渐吸纳全社会增量资源并完成结构性重塑。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 22–24)]]
@@ -174,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -192,8 +182,6 @@ updated: 2026-10-22
 > - **2010年代及以后 — 概念漂移检视与理论桥梁重构** 学界出现宽泛套用层叠的概念漂移现象；[[Jeroen van der Heijden|范德海登]]（Van der Heijden）等学者开展系统学术史考证，厘清层叠边界并倡导将其作为弥合间断均衡与渐进演化理论的因果分析工具。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–16)]]
 
 ---
-
-## 经验证据与典型案例
 
 > [!evidence-grid] 制度层叠的代表性经验案例（增新不废旧并驱动制度演化）
 > - **德国劳动力市场微型工作与非正规用工分层（双轨化[[Liberalization|自由化]]分层典范）** 德国政府在保留传统全职制造业劳工严格解雇保护（Kündigungsschutz）核心的前提下，通过劳动力市场改革在劳动规制外围分层增设微型工种（Minijobs）与临时派遣工规章；免税与低社保费用的微型工种以数十倍于传统岗位的速度野蛮生长，吸纳了数百万低薪服务业劳工，使得德国在表面完整维系战后劳工保护制度的同时，实质完成了劳动力市场深刻的二元分层（Dualization）与自由化转型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 23–24)]]
@@ -212,8 +200,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 制度层叠机制的实证文献分析
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -222,8 +208,6 @@ updated: 2026-10-22
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 251–258)]] | 全球 158 篇教育治理改革文献（重点追踪智利、英格兰与美国等） | [[Systematic Review\|系统文献综述]]与历时性政策演进追踪 | 规制型教育治理中标准、测验与问责工具的单向分层累加与功能转换 | 证实评估与问责工具遵循制度分层化（Layering）机制，政府在保留既有行政框架的前提下不断追加全员统考、增值评价与绩效制裁，并最终借助外包商业测评产业锁定体制，阻断了制度退出 | 质性系统综述与历史制度主义综合分析，侧重制度化演进与工具累加机制 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与概念漂移风险
 

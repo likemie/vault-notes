@@ -63,11 +63,7 @@ created: 2026-09-17
 updated: 2026-10-20
 ---
 
-# American Educational Research Association
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **美国教育研究学会（American Educational Research Association, AERA）** 是全球规模最大、历史最悠久的跨学科教育研究国家级专业学术学会（501(c)(3)）。学会由逾 2.5 万名跨学科教育学者、方法学家与政策分析师组成，致力于推进教育相关学术探究、提升科学研究标准、并通过专门的公共政策参与网络将前沿实证研究成果转化为各级立法与治理实践。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
@@ -80,8 +76,6 @@ updated: 2026-10-20
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1916–1930 — 测量与测验运动奠基期** 伴随 20 世纪初心理测验学与[[Positivism\|实证主义]]教育科学的兴起，早期核心聚焦于标准化测验、[[Academic Achievement\|学业成就]]测评方法与学校行政统计数据的规范化。
 > - **1931–1967 — 跨学科拓展与学术独立建制** 学会逐步吸纳社会学、发展心理学、历史学、哲学与人类学等多元学科视角，于 1968 年正式脱离[[National Education Association\|全美教育协会]]成为完全自治的跨学科全国性联合会，并创办旗舰期刊《美国教育研究杂志》（AERJ）。
@@ -90,8 +84,6 @@ updated: 2026-10-20
 > - **2004–至今 — [[Output-Oriented Governance\|循证治理]]时代与公共科学传播转型** 面对联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA）对实证证据的持续要求，AERA 主导发起[[AERA Congressional Fellowship Program\|国会政策研究员计划]]，举办年度国会山学术走访微培训，并在联邦法庭审理教育平权法案时系统提交“法庭之友”（Amicus Curiae）专家简报，全面深化了学术社团在宏观立法中的制度化穿透力。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（AERA Council）** 学会最高治理决策权力机构，由民选的学会会长、候任会长、前任会长、12 个专业学部的部长以及特别代表组成，统揽战略规划、预算审批与重大公共声明。
@@ -105,8 +97,6 @@ updated: 2026-10-20
 > - **专业研究者政策赋能** 定期开展“从学者到政策参与者”的实战工作坊，向跨学科青年学者讲授如何将学术成果压缩为一页纸立法备忘录，并资助高级学者深入国会办公室开展全职立法服务。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵
 > - **全球旗舰学术出版群** 出版教育学界最高影响因子的期刊群，包括《美国教育研究杂志》（AERJ）、《教育研究者》（Educational Researcher）、《教育研究评论》（Review of Educational Research, RER）以及开放获取期刊《AERA Open》。
@@ -122,8 +112,6 @@ updated: 2026-10-20
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **奠定现代教育科学的研究规范与方法伦理** AERA 制定的同行评议准则、测试标准及科研伦理指南，深刻规范了近一个世纪以来的全球教育研究，成为世界各国教育研究协会参照的核心模板。
 > - **打通象牙塔与国会山的制度化沟通闭环** 通过国会政策研究员机制与常设政府关系管道，AERA 成功帮助教育学界打破了“自我循环、自说自话”的狭隘天地，使研究证据有效嵌入了联邦 [[Elementary and Secondary Education Act of 1965\|ESEA]] 历次重新授权、IDEA 残障学生立法及[[Higher Education Act of 1965\|高等教育法]]案（HEA）的修正案起草中。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 46–47)]]
@@ -131,15 +119,11 @@ updated: 2026-10-20
 
 ---
 
-## 争议、批评与反思
-
 > [!critique] 争论与反思
 > - **学术建制化带来的[[Paradigm\|范式]]排他性争议** 历史上部分激进派学者与新兴流派曾批评 AERA 长期由传统量化测量和主流白人精英主导，在包容边缘群体[[Theory of Knowledge\|知识论]]、本土研究方法及批判性种族理论（CRT）方面存在反应迟滞与建制化惰性。
 > - **[[Value Neutrality\|价值中立]]与政策倡导之间的张力** 当学会在重大政治争议议题（如高校平权招生、少数族裔历史教学规范）上发表政策声明或法庭简报时，常面临保守派立法者关于其“背离学术客观性、陷入意识形态党派偏向”的尖锐诘问，反映了专业学术社团在极化政治环境中维系学术信誉的制度困境。
 
 ---
-
-## 相关论证
 
 > [!evidence-grid-a] 相关研究与论证索引
 > - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 详述 AERA 的组织制度沿革、国会政策研究员机制以及学术社团在联邦教育[[Policy Network|政策网络]]中的[[Educational Brokerage Agency|知识经纪]]角色（pp. 46–47）。

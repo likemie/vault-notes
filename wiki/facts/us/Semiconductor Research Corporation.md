@@ -81,11 +81,7 @@ created: 2026-06-04
 updated: 2026-10-22
 ---
 
-# Semiconductor Research Corporation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **半导体研究公司（Semiconductor Research Corporation, SRC）** 是美国半导体产业界于 1982 年联合发起创立的非营利性公私研发合作伙伴关系（[[Public-Private Partnership|PPP]]）与大学科研资助枢纽。SRC 汇聚全美数十家芯片设计、制造与装备巨头（包括市场上直接竞争的企业）的共同资金，专注于资助高校开展长周期、前竞争阶段（Pre-competitive）的基础科学与微电子工艺研究，同时为国家集成电路产业持续输送高水平博士与工程技术领军人才。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1982–1987 — 破冰创建与前竞争产学资助体系奠基** 建立首个全行业共享的大学微电子研究资助基金，确立“行业提需求、高校出方案、同行评议立项、知识产权非独占共享”的治理准则；早期曾构想广泛吸纳外资企业，但在 1983 年修改章程限制仅允许美国本土公司参与，以化解冷战技术流失顾虑并深度撬动联邦国防对等资助。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241–242)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **1988–1996 — 协同 [[Sematech]] 统筹[[Sematech Centers of Excellence|大学卓越中心]]网络（SCOE）** 承担 [[Sematech]] 每年 **1000 万至 1500 万美元** 的大学科研经费转拨与统筹管理职能，在加州大学伯克利分校、斯坦福大学、麻省理工学院等高校建立 Sematech 大学卓越技术中心网络，专注于前沿光刻物理、等离子体刻蚀与材料建模基础研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
@@ -108,8 +102,6 @@ updated: 2026-10-22
 > - **2024 年 — 白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下的公私协同与本科生留存专项** 白宫国家科学技术委员会在国家战略中将 SRC JUMP 2.0 跨校中心列为 Goal 4.1 公私伙伴关系的核心支柱，与 NSTC、[[National Advanced Packaging Manufacturing Program|NAPMP]]、[[Microelectronics Commons|微电子共用体]]和 [[Manufacturing USA]] 紧密联动；同时针对拔尖人才流失危机，SRC 联合 [[National Science Foundation|NSF]] 设立本科生科研体验（REU）微电子专项，资助低年级本科生直接参与前沿芯片设计与实验，构筑从本科到硕博的微电子人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37, 39–43)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Directors）** 由成员企业高级研发副总裁（如 Intel、IBM、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、TI、Qualcomm 等）组成，依据全行业中长期技术路线图审定[[Total War|总体战]]略方向与跨计划预算分配。
@@ -125,8 +117,6 @@ updated: 2026-10-22
 > - **TECHCON 人才直聘管道** 每年举办半导体技术大会（TECHCON），受资助博士生直接向企业技术高管与招聘团队汇报最新成果并开展现场面试，使高层次人才吸纳成为企业出资最立竿见影的核心回报。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 245, 251)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与旗舰项目
 > - **全球研究协作计划（GRC）** SRC 最早的基础项目，聚焦近中期 CMOS 演化瓶颈，依据国际半导体技术路线图（ITRS）由大学个人学者与中心承接；后续引入定向资金分配机制与 IS 双维评估体系，面向全球企业开放。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–251)]]
@@ -144,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **累计科研投入与资助规模** 自 1982 年成立以来累计组织产学研研发投入超过 **25 亿美元**；年均支持全美近 1,500 名博士研究生；管理间接费用严格保持在 13% 以下；在 2005 年荣获美国国家技术与创新奖章（National Medal of Technology）。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 243–246, 252)]]
 > - **高阶工程人才培养输出** 累计培养输送超过 **9,200 名**微电子、物理与计算机科学领域的硕士与博士毕业生（其中 GRC 培养 6,861 人，[[Focus Center Research Program|FCRP]] 培养 1,963 人，NRI 培养 382 人）；在 1982–1990 年间推动全美含“硅”主题博士论文从 162 篇激增至 470 篇，含“集成电路”主题论文从 31 篇跃升至 110 篇。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 245–246)]]
@@ -160,8 +148,6 @@ updated: 2026-10-22
 > - **为《[[CHIPS and Science Act|芯片法案]]》与 [[National Science and Technology Council|NSTC]] 奠定产学协同与人才网络蓝本** 2022 年《芯片与科学法案》在规划[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制；同时，[[Argument_NIST_2023_NSTC|NIST (2023)]]指出 NSTC 通过提供 300mm 共享中试线与设计网关，有力补齐了 SRC 受资助大学成果在 [[Technology Readiness Level|TRL]] 4–7 中试验证环节的硬件短板。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37, 39–44)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

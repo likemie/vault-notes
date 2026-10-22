@@ -82,10 +82,6 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-# Publication Bias
-
-## 定义
-
 > [!def] 核心定义
 > 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术文献库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
 
@@ -108,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 偏倚类型与方法学属性辨析
 > | 偏倚类型 | 发生阶段 | 作用层级 | 核心机制 | 典型校正与防范方案 |
 > |---|---|---|---|---|
@@ -119,10 +113,6 @@ updated: 2026-10-22
 > | **[[Developer Effect\|开发者效应]]（Developer Effect）** | 干预研发、实施与评估全周期 | 方案级（研发者亲自主导实验） | 开发者额外支持提高保真度、自编测验过度对齐、对负面结果选择性发表 | 强制[[Evaluator Independence\|第三方独立评估]]、采用标准化统考测验 |
 
 ---
-
-## 核心要素
-
-### 1. 诱发机制与知识生态危害
 
 > [!feature] 发表偏倚的多重诱因与生态后果
 > [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 429)]] 与 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, p. 22)]] 揭示了教育研究中发表偏倚的多重动因及其系统性危害：
@@ -185,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -195,8 +183,6 @@ updated: 2026-10-22
 > | **基础设施解耦命题** | 商业出版篇幅与显著性偏爱剥离原始统计量，二阶元分析复合放大偏倚；需建立解耦出版的中央数据基础设施实现全量归档 | 循证证据库建设、科研数据治理与动态一阶元分析 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 发表偏倚的概念演变
 > - **1940 — Pratt and Rhine 最早检测** 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计未发表论文对汇总效果的影响，开启了对抽屉效应的方法学关注。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 35)]]
@@ -212,8 +198,6 @@ updated: 2026-10-22
 > - **2023 — Kraft 教育 [[Randomised Controlled Trials|RCT]] 经验基准** 基于大规模试验实证分布，指出发表偏倚导致教育实证文献中的项目有效率被严重虚夸。[[Argument_Kraft_2023_ER|(Kraft, 2023, p. 186)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 统计校正模型的前提假设与适用局限
 > - **权重函数模型与[[Trim and Fill Method|剪补法]]的模型假设** Vevea-Hedges 权重模型高度依赖发表概率与 p 值区间的先验假设；剪补法假定[[Funnel Plot|漏斗图]]不对称完全源于发表偏倚，但在真实研究中，小样本研究质量较差、干预强度更高或研究间实质[[Heterogeneity|异质性]]同样会导致漏斗图不对称，机械剪补可能过度下调真实效应。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 442)]]
@@ -231,8 +215,6 @@ updated: 2026-10-22
 > - **不分发表状态的全量归档与出版清单激励** 建议将实证研究归档与商业期刊出版彻底解耦，由学术共同体建立中央[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助研究的方法、全量原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在制度上将数据存缴直接认定为“适合列入出版物清单的学术成果”（Publikationslisten; Stanat, 2012），从激励机制根源消除文件抽屉效应，为动态一级元分析奠定透明基石。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Meta-analysis\|元分析]]发表偏倚诊断与校正实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

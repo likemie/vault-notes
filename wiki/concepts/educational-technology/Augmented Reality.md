@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Augmented Reality
-
 > [!metax] [增强现实 · Augmented Reality](https://www.visiblelearningmetax.com/influences/view/augmented_reality)
 > 技术、学校与校外策略 › 虚拟／增强现实
 >

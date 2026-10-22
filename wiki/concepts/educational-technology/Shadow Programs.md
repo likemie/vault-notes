@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Shadow Programs
-
 > [!metax] [跟岗体验项目 · Shadow programs](https://www.visiblelearningmetax.com/influences/view/shadow_programs)
 > 技术、学校与校外策略 › 校外
 >

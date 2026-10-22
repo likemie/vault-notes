@@ -58,11 +58,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# National Rejuvenation Narrative
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 民族复兴叙事（National Rejuvenation Narrative，主要表现为“[[Zhonghua Minzu|中华民族]]伟大复兴”政治[[Discourse|话语]]）是中国当代内政哲学与对外战略中的主导性历史叙事与意识形态[[Construct|构念]]。在[[Critical Discourse Analysis|批判性政策话语分析]]（Critical [[Discourse Analysis]], CDA）视域下，该叙事与[[Century of Humiliation|百年屈辱]]（Hundred Years of Humiliation）历史创伤叙事构成镜像孪生关系，以近代列强侵略至1949年中华人民共和国成立的历史为对照基准，将经济持续高增长、两个一百年奋斗目标与大国地位重构确立为弥补历史不公的必然路径。在跨国政策与[[Education Going Global|教育出海]]实践中，该叙事赋予国家主导的对外资源整合与全球治理参与以深层的历史合法性与文明复归修辞。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 民族复兴叙事与关联政治[[Discourse|话语]]辨析
 > | 分析维度 | 民族复兴叙事（National Rejuvenation Narrative） | [[Telling China's Story Well\|讲好中国故事]] | [[China Solution\|中国方案]] |
 > |---|---|---|---|
@@ -94,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Century of Humiliation|百年屈辱]]创伤回溯** 以近代受制于外强的历史创伤为情感锚点，赋予国家富强与安全建设以迫切的救亡图存道义正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–688)]]
 > - **两个一百年目标具象化** 将抽象的文明复兴愿景转化为阶段性经济繁荣、科技跨越与现代化强国建设的具体指标。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
 > - **朝贡朝向与文明荣光重置** 借由古丝绸之路等历史符号的现代重构，投射古代区域秩序中心与文明枢纽的历史想象。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
@@ -139,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 民族复兴叙事核心理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +145,6 @@ updated: 2026-10-22
 > - **2012至今 — 新时代对外战略投射与教育全球化应用** 中华民族伟大复兴成为总体外交布局的顶层理念；在教育领域，《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》等文件明确将对外教育协同作为服务两个一百年目标的重要推进工具，复兴叙事全面渗透至国际化高等教育与[[Knowledge Diplomacy|知识外交]]实践中。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–689)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 围绕民族复兴叙事对外政策延伸的学术分歧
 >
@@ -173,8 +161,6 @@ updated: 2026-10-22
 > 本概念适用于分析国家顶层政策文本、意识形态合法化动员机制与外向型制度修辞，不适宜直接套用于解释微观课堂教学互动或无涉[[Geopolitics|地缘政治]]的纯技术性教育管理问题。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 民族复兴背景下教育涉外布局统计指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -58,11 +58,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Australian Schools Plus
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 澳大利亚首个经由联邦专门立法确立、旨在引导企业资本与高净值私人捐赠定向流入弱势公立学校的国家级非营利筹款中介机构。该机构充当连接商业企业与公立学校环境的桥梁，通过运营竞争性微额项目赠款机制，将商业慈善资本引入基础教育治理体系（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程（2011–2023）
 > - **2011–2013 — 政策孕育与联邦法定落地** 冈斯基报告建议设立专门机制打通企业向公立学校捐资渠道；2013 年澳大利亚学校加计划正式注册为慈善机构，时任 [[Social Ventures Australia\|SVA]] 首席执行官[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任董事兼董事长，并获得联邦政府 500 万澳元启动资助（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **2014 — 联邦税法修正案与 [[Deductible Gift Recipient\|DGR1]] 资质授予** 联邦议会通过《2014年税收与养老金法律修正案（第5号措施）》，破例授予学校加计划全国范围内的第一类可抵税捐赠受赠人（Deductible Gift Recipient Type 1, DGR1）法定资质；这确立了国家为企业慈善介入公立教育提供税收补贴的历史先例。
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > - **2021–至今 — 跨界网络固化与先驱者计划** 持续深化与高净值精英的绑定，设立由[[David Gonski\|戴维·冈斯基]]亲自领衔的慈善先驱者（Pioneers in Philanthropy）委员会，常态化组织弱势公立学校竞逐企业命题的竞争性教学资助（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与网络节点
 > - **决策机构（董事会）** 董事席位深度向金融投资、企业高管及前高级官僚倾斜；前联邦教育部次长兼政府首席执行官莉莎·保罗（Lisa Paul）出任董事；前福克斯电讯（Foxtel）首席执行官金·威廉姆斯（Kim Williams）在向 [[Social Ventures Australia\|SVA]] 捐资后亦进入该机构董事会（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 529–530]]）。
@@ -109,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务与产品矩阵
 > - **先锋学校创新微额赠款（Pioneers in Philanthropy Grants）** 针对高不利处境指数（Index of Community Socio-Educational Advantage, ICSEA）公立学校开展年度竞标式项目资助，资助重点绑定企业捐赠偏好的 [[STEM Education\|STEM]] 与职业素养。
 > - **全国公立学校众筹匹配平台（[[Start Making a Reader Today]] Giving Platform）** 搭建面向社会大众和企业的数字化捐赠通道，为符合资质的弱势公立学校项目提供免税配捐管理。
@@ -118,8 +108,6 @@ updated: 2026-10-22
 > - **企业专项定制教育合作项目** 为波音、澳大利亚电信（Telstra）等跨国企业提供定向渠道，将企业品牌、数字产品与企业社会责任（Corporate Social Responsibility, CSR）议程直接输入公立学校课堂。
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资本动员与再分配规模** 累计从企业、信托基金与高净值私人领域动员数千万澳元善款，覆盖全澳超过 1000 所弱势公立学校，成为澳大利亚规模最大的公立学校企业慈善中介。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]])
@@ -133,8 +121,6 @@ updated: 2026-10-22
 > - **2013–2016** 与 [[Social Ventures Australia\|SVA]] 共享注册办公地址与企业管理系统的无缝共生期。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 526]])
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心学术争议与批判
 >

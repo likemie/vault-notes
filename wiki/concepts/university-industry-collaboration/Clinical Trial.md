@@ -69,11 +69,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Clinical Trial
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **临床试验（Clinical Trial，亦称临床研究 Clinical Study）** 是以人为研究对象，按照严密预设的研究方案分阶段[[Evaluation Research|评估研究]]性药物、医疗器械、生物制品、细胞与基因疗法之安全性、疗效和风险收益比的前瞻性[[Intervention Research|干预研究]]活动。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 阶段划分与学产分工
-
 > [!workflow] 临床试验标准分期与转化职能
 >
 > | 试验阶段 | 样本体量与受试对象 | 核心目标与评估终点 | [[Academic Medical Center\|学术医学中心]]（AMC）与产业方产出 |
@@ -111,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素与产学运作机制
-
 > [!feature] 核心要素
 > - **双盲随机对照设计（[[Blinding|double-blind]] [[Randomised Controlled Trials|RCT]] Protocol）** 通过受试者与研究者双向[[Blinding|盲法]]及[[Random Assignment|随机分组]]，彻底隔绝安慰剂效应与分配偏误，构筑最高等级[[Internal Validity|内部效度]]。
 > - **[[Academic Medical Center|学术医学中心]]与[[Contract Research Organization|合同研究组织]]协同（AMC & CRO Synergy）** 产业方依托[[Contract Research Organization|合同研究组织]]（CRO）处理数据监查与行政合规，同时依托顶尖学术医学中心处理复杂病例救治与前沿机理研究。
@@ -120,10 +112,6 @@ updated: 2026-10-22
 > - **独立公私伙伴加速平台（Independent [[Public-Private Partnership|PPP]] Platforms）** 依托独立法定基金会（如 FNIH）搭建[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP），跨药企共享临床前靶点数据与早期试验资源。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] 临床试验核心命题归纳
 > | 命题类型 | 核心指向 | 提出学者 / 机构 | 实证情境 |
@@ -171,8 +159,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 临床试验制度与规制演进历程
 > - **1940s–1960s — [[Randomised Controlled Trials|随机对照试验]]金标准奠定** 英国医学研究理事会（[[Meta-Representational Competence|MRC]]）链霉素试验确立 RCT 方法论；1962 年美国《科夫弗-哈里斯修正案》（Kefauver-Harris Amendment）首次法定要求新药上市前必须提供“充分且良好受控”的临床有效性证据。
 > - **1970s–1990s — 分期标准与伦理规范制度化** 《贝尔蒙报告》（Belmont Report）确立[[Informed Consent|知情同意]]与受试者保护伦理准则；国际人用药品注册技术协调会（ICH）出台临床试验管理规范（GCP），确立 I–IV 期标准开发路径。
@@ -181,8 +167,6 @@ updated: 2026-10-22
 > - **2026 年 — 真实世界证据、单项确证研究与[[Regulatory Sandbox|监管沙盒]]新[[Paradigm|范式]]** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），推动 FDA 实质性监管改革：推行单项高功效确证试验、接受真实世界证据、设立前沿生物医疗监管沙盒，并深化公私伙伴（[[Accelerating Medicines Partnership|AMP]]）协同开发机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -205,8 +189,6 @@ updated: 2026-10-22
 > > - **公私利益再平衡派（[[Argument_Block_2008_PS|Block, 2008]]）** 指出在大量救命药物中，纳税人已通过公共资助承担了临床试验最关键的早期试错成本；政府必须建立公共收益分享信托、合理定价约束与专利强制许可机制，打破公众“出资研发、高价买单”的双重剥夺。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 临床试验关键运行指标与实证分布
 >

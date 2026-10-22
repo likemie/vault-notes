@@ -36,8 +36,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Research Triangle Park
-
 > [!info] 内容
 > Research Triangle Park（RTP）是位于北卡罗来纳州的美国最大[[Innovation Park\|研究园区]]之一。最初是一个"不太可能实现的概念"——由一家地区银行的总裁和一位本地开发商牵头、在当时州长 Luther Hodges 的支持下发起，目的是扭转该州的经济衰退，阻止毕业生流向更繁荣的地区([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.130–131]])。
 

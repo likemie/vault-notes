@@ -108,11 +108,7 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Lifelong Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 终身学习（Lifelong Learning）指贯穿个体全生命周期的持续性、情境化与自愿性学习过程。它突破了传统正规学校教育的时空界限，涵盖成人进修、职业技能重塑、社区文化参与、科学探索场馆互动及数字化自主探究等多元形态，致力于培育学习者适应社会、技术与生态剧变的[[Cognitive Flexibility|认知灵活性]]，实现个体潜能开发、健康福祉提升与公民民主参与。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 48)]]
@@ -133,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 终身学习与相关教育形态的学理辨析
 > | 概念维度 | 核心范畴与时空范围 | 驱动机制与目的旨趣 | 制度化载体与评价方式 |
 > |---|---|---|---|
@@ -143,8 +137,6 @@ updated: 2026-10-22
 > | **成人补习教育（Adult Remedial Education）** | 面向走出正规学制的成年期劳动者；通常采取模块化短期补缺形态 | 针对正规教育阶段遗留的技能或学历缺口，开展补偿性技能补救或扫盲 | 职业再培训中心、夜校认证、微证书培训与岗位技能达标考核 |
 
 ---
-
-## 核心要素
 
 > [!dimension] 终身学习的三重理论维度与实践支柱
 > - **1. 人本主义与全人发展维度（Humanistic & Personal Development）**
@@ -232,8 +224,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表文献 / 来源 |
 > |---|---|---|---|
@@ -245,8 +235,6 @@ updated: 2026-10-22
 > | **学习化异化与全景敞视规训** | 新自由主义与可见学习将教育置换为终身学习，使主体沦为应对[[Knowledge Capitalism\|知识资本主义]]折旧的持续自我优化客体，将教育关系降格为数据监控 | 警惕学习化（learnification）陷阱，重构关涉成熟自由与文化启蒙的教育学主体性 | [[Argument_Larsen_2019_EducSci\|Larsen (2019, pp. 7–10)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 50 年概念演变脉络
 > - **1970–1980 年代 [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 支持“循环教育与终身学习”** 经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）赞助多项循环教育（recurrent education）与终身学习项目，彼时主要支持成员国社会民主主义福利国家议程，强调教育资源向弱势群体的二次再分配。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]; Papadopoulos (1994)
@@ -261,8 +249,6 @@ updated: 2026-10-22
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议与张力
 >
@@ -292,8 +278,6 @@ updated: 2026-10-22
 > > - **[[Science Capital|科学资本]]自选与阶层固化壁垒** 高端终身学习项目常被高[[Socioeconomic Status|社会经济地位]]人群垄断，欠发达地区与低技能群体因时间贫困与经济门槛面临实质性排斥。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

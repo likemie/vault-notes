@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Inductive Teaching
-
 > [!metax] [归纳式教学 · Inductive teaching](https://www.visiblelearningmetax.com/influences/view/inductive_teaching)
 > 教学策略 › 教学方法
 >

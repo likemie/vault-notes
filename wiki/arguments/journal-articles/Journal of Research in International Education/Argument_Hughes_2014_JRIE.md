@@ -66,7 +66,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Hughes_2014_JRIE
 
 **中文题名：**《[[Theory of Knowledge|知识论]]的宗旨、目标与评估标准：[[Critical Thinking|批判性思维]]描述符分析》
 
@@ -85,8 +84,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] [[Critical Thinking\|批判性思维]][[Construct\|构念]]参照系
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -99,8 +96,6 @@ issuing_organization: ""
 > 单一分类法内部存在边界争议，不能机械充当检查表；多个框架反复出现的辨别、分析、判断或评价、解释与论证，可构成最低限度的共同参照。再以各框架额外强调的推论、假设检验、决策和创造检查遗漏，便能同时识别课程的核心覆盖与构念不足呈现。（pp.34–35）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -117,8 +112,6 @@ issuing_organization: ""
 > | **推断边界** | 指南文本只能支持对书面课程设计的评论，无法据此确定真实课堂中批判性思维的数量或质量，也不能替代对教学质量、教师发展和评分调节的考察。（pp.31, 35） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -240,16 +233,12 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **课程身份错位** ToK 的课程标签强调[[Critical Thinking\|批判性思维]]，实际结构至少同等程度上聚焦[[Epistemology\|认识论]]和[[Knowledge Building Theory|知识建构]]。（pp.36, 41）
 > 2. **内部对齐不完整** 课程目标、评估目标和任务标准在[[Knowledge Questions\|知识问题]]、不同观点与真实情境方面相互呼应，但文化视角、个人反思、责任与行动等目标没有进入评分描述符。（pp.40–41）
 > 3. **[[Construct\|构念]]覆盖过窄** 批判性阅读、来源评价、推论、预测、假设检验、不确定性判断、决策、[[Problem Solving\|问题解决]]和创造等重要分支缺席，使 ToK 不能充分测量其声称代表的批判性思维构念。（pp.41–43）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 课程效度的核心缺口
 > 评估标准真正引发疑问的，与其说是其中包含了什么，不如说是其中缺少了什么。（p.41）

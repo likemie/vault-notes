@@ -151,11 +151,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Research Translation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究转化（Research Translation，在社会科学与教育学中亦称知识转译 Knowledge Translation）** 指将科学研究发现、理论假说和实验室成果转化为实际技术产品、教学干预方案、法定督导常模、国家重大战略[[Technological Trajectories|技术轨道]]、宏观公共政策条文、本土实体制造能力或国家安全与公共治理战略交付的多阶段跨界过渡系统。
@@ -216,8 +212,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 研究转化在不同[[Champ|场域]]中的多维机制辨析
 > | 比较维度 | 产学商业转化漏斗（[[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025]]） | 基础教育教学转化（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]） | 教育行政规程与审计转化（[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al., 2022]]） | 宏观立法政策转化（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]） | 国家嵌入前沿网络转化（[[Argument_Fuchs_2010_RP\|Fuchs, 2010]]） | 国家硬科技制造转化（[[Argument_Kratsios_2026_OSTP\|Kratsios, 2026]]） | 国家安全使命转化（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska, 2025]]） |
 > |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -227,8 +221,6 @@ updated: 2026-10-22
 > | **成功转化标志** | 商业化产品规模部署与战略壁垒确立 | 外部证据内化为学校[[Business as Usual\|常态教学]]行为 | 成功学校研究编码为国家督导标准、调查报告为既定行政指控提供合法化背书 | 法案重新授权采纳、示范条文写入法典 | 颠覆性技术成熟、产业共识确立、主导轨道形成 | 本土先进制程与硬件制造能力确立、战略产业链自主可控 | 现代国防软件与 AI 武器部署、国家安全威慑与公共能力兑现 |
 
 ---
-
-## 核心要素与多场域转化模型
 
 > [!feature] 核心要素
 > - **跨界语言转译与文类重塑（Linguistic Translation & Genre Reconstruction）** 破除学术界晦涩黑话，将高深因果模型重构为工程师的操作规程、教师的教研课例指南、由律师起草的示范法条（Model Statutory Language），或工业级标准化测试协议。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 46)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1142)]]
@@ -313,10 +305,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -434,8 +422,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1939 — [[Einstein-Szilard Letter|爱因斯坦-西拉德信函]]开启国家战略转化常态机制** 顶尖物理学家主动致信国家行政当局预警铀裂变潜力，开启政产学研常态化联络，催生[[Manhattan Project|曼哈顿工程]]并确立战后技术优势。
 > - **1940s–1960s — [[Technological Republic|技术共和国]]国家首要买家转化奠基** [[Office of Scientific Research and Development|OSRD]] 与 [[DARPA]] 确立国家作为前沿技术转化首要买家与组织中枢，拉动青霉素、微芯片与 [[ARPANET]] 跨越转化鸿沟。
@@ -451,8 +437,6 @@ updated: 2026-10-22
 > - **2026 — 白宫国家深科技与实体制造转化体系重构** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立“打破规制阻滞、恢复[[Permissionless Innovation|无许可创新]]、开放共享试验场与国家实验室设施、组建前竞争技术联合体并将科研突破锚定于本土先进制造”的国家级研究转化体系。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨国研究转化生态组织活跃度实证分布（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022, pp. 78–86]]）
 >
@@ -480,8 +464,6 @@ updated: 2026-10-22
 > | **宏观国家立法转化** | 2–7 年 | 从象征性法案起草至法典重新授权条文采纳 | 政治意识形态相悖、缺乏示范法条、错过[[Policy Window\|政策窗口]] | [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]]; Weiss (1989) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与现实张力
 >

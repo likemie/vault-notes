@@ -47,11 +47,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Bogdan Suchodolski
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 波兰著名哲学家、教育学家、科学史家与比较教育思想家，波兰[[Chinese Academy of Sciences|科学院]]（PAN）院士兼科学与技术史研究所所长，华沙大学教育科学系讲座教授；[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）核心元老成员，[[UNESCO|联合国教科文组织]]（[[UNESCO]]）[[International Education|国际教育]]咨询专家。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与学术建制
 > - **1903** 出生于波兰索斯诺维茨（Sosnowiec）。
 > - **1920s** 先后在克拉科夫雅盖隆大学（Jagiellonian University）与华沙大学深造，攻读波兰文学、哲学与教育学，并赴巴黎与柏林游学，奠定深厚的多语种欧陆思想学养。
@@ -81,8 +75,6 @@ updated: 2026-10-22
 > - **1992** 逝世于波兰华沙，享年 89 岁。
 
 ---
-
-## 主要思想与学术建树
 
 > [!work-line] 代表性学术思想
 > - **面向未来的教育哲学（Education for the Future）** 出版《面向未来的教育哲学》（*Pedagogika na jutro*, 1972），批评传统教育过度沉湎于复制既有劳动分工，倡导教育应前瞻性地培养具有批判[[Creativity|创造力]]、能应对科技文明巨变的主体人格。

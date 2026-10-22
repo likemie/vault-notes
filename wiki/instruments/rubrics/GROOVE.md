@@ -57,11 +57,7 @@ created: 2026-08-25
 updated: 2026-10-16
 ---
 
-# GROOVE
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] GROOVE
 > - **工具类型** [[Umbrella Review\|伞状综述]]与[[Meta-meta-analysis\|二阶元分析]]初级研究重叠定量审计与可视化分析工具（Overlap Quantification & Graphical Representation Tool）。
@@ -70,8 +66,6 @@ updated: 2026-10-16
 > - **实施方式** 基于 Excel 宏算法及结构化脚本，通过导入[[Primary and Secondary Documents\|初级文献]]交叉引用矩阵自动计算节点重叠并生成分级色彩热力图。
 
 ---
-
-## 核心构念与分析维度
 
 > [!construct-table] [[Corrected Covered Area]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -85,8 +79,6 @@ updated: 2026-10-16
 
 ---
 
-## 操作规程与实施步骤
-
 > [!proc] GROOVE 工具四步操作规程
 > 1. **提取与清洗[[Primary and Secondary Documents\|初级文献]]清单** 逐篇提取所有初筛纳入的一阶[[Meta-analysis\|元分析]]所引用的全部初级研究参考文献，标准化作者姓名与发表年份，消除格式异构。
 > 2. **构建二元交叉引用矩阵（Citation Matrix）** 建立 $r$ 行（不重复初级研究）$\times$ $c$ 列（一阶元分析）的电子表格，填入 0 与 1（或打勾标记），统计总勾选数 $N$。
@@ -94,8 +86,6 @@ updated: 2026-10-16
 > 4. **执行重叠剔除与[[Chain of Evidence\|证据链]]合规化** 对成对或总体 $CCA > 10\%$ 的高重叠元分析实施逐一剔除，直至剩余数据集满足抽样独立性标准（[[Argument_Unal_2026_JECR\|Ünal et al., 2026]]）。
 
 ---
-
-## 方法学贡献与应用典范
 
 > [!warrant]- 方法学定位
 > 在第一代粗放[[Meta-meta-analysis\|元综合]]（如 Hattie, 2009）中，文献重叠常被完全忽视，导致高达 80%–90% 的底层数据被重复加权。GROOVE 工具为第二代与第三代[[Umbrella Review\|伞状综述]]提供了标准化、可复现的去重操作方案：

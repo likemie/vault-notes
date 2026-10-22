@@ -64,11 +64,7 @@ created: 2026-09-18
 updated: 2026-10-21
 ---
 
-# Academic Attrition
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学业流失（Academic [[Attrition]]），亦称**学生流失（Student Attrition）** 或**学业脱落**，是指注册在读的学生在完成法定学段、达到毕业标准或获取既定学位之前，非自愿（如遭学校停课、开除劝退或行政推挤）或自愿（如因学业挫败、经济压力、家庭变故或心理脱嵌主动辍学）过早离开正规教育系统并中断学业的实质性教育现象。该指标是衡量教育系统公平性、学生留存率（Student Retention）以及制度包容性的关键逆向评价指标。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 13–15)]]
@@ -90,8 +86,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 流失与学业脱离概念多维辨析
 > | 维度 | 学业流失（Academic [[Attrition]]） | 实验流失（Experimental Attrition） | 学业[[Grade Retention\|留级]]（Grade Retention） |
 > |---|---|---|---|
@@ -103,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **制度性惩戒推挤（Exclusionary Pushout）** 学校将校规处置机械泛化为停课、转学与开除等排斥性管教措施，直接剥夺在读机会并将学生推入“学校到监狱管道”。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **问责压力下的生源筛选（Accountability-Induced Cream-Skimming）** 在外部高风险达标重压下，部分学校通过提高缺勤门槛或劝退后进生以保全整体测试达标率。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 15)]]
 > - **多维早期预警表征（ABC Early Warning Indicators）** 缺勤率（Attendance）、行为处分（Behavior）与基础学科不及格门数（Course Performance）构成判定学生学业脱落的核心前瞻表征。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 223)]]
@@ -140,10 +132,6 @@ updated: 2026-10-21
 > ```
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -195,8 +183,6 @@ updated: 2026-10-21
 
 ---
 
-## 理论争鸣与演进
-
 > [!debate-card] 个人缺陷归因论与机构结构推挤论的学术对立
 > - **个人与家庭[[Deficit Framing\|赤字归因]]论（[[Deficit Model of Science Communication\|deficit model]]）** 早期传统观点多从心理学与微观家庭角度解释学业流失，将学生离校归咎于个体智力不足、缺乏学业抱负、家庭低[[Socioeconomic Status|社会经济地位]]或家教缺位；政策应对主要局限于向学生和家长施加道德劝诫或简单补习。
 > - **机构推挤与结构性正义批判论（Structural Pushout Theory）** [[Russell J. Skiba\|斯基巴]]（Skiba）、塞尔佩尔（Serpell）及当代教育社会学家尖锐批判了这种将结构问题个人化的倾向，指出绝大多数所谓的“辍学”实质上是学校的“制度性推挤”（Pushout）。排斥性纪律、高利害应试分流以及对多元文化的制度漠视，构成了驱赶边缘群体的结构性暴力；政策焦点必须由“改造学生”转向“重构学校治理[[Paradigm\|范式]]”，以发展型支持与恢复性司法彻底替代规制型惩戒。
@@ -209,8 +195,6 @@ updated: 2026-10-21
 > - **2020 年代** 证据清算平台（如 [[National Dropout Prevention Center\|NDPC]]）全链条推广基于预警指标与多级支持（MTSS）的留存干预，强调系统性阻断学业脱落。
 
 ---
-
-## 边界条件与适用范围
 
 > [!boundary-conditions] 适用边界与制度约束
 > - **义务教育与非义务教育学段分化** 在基础教育义务教育阶段，学业流失受到国家法律的刚性约束，往往表现为隐性流失（长期旷课、休学挂籍、转入替代性矫治项目）；在高等教育阶段，学业流失则多表现为显性的主动退学或未注册停学，经济负担与专业认同成为核心诱因。

@@ -41,11 +41,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# PhD Overproduction in Science
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学博士生产过剩（PhD Overproduction in Science）是指在现代科研资助激励机制下，[[Research Universities|研究型大学]]倾向于持续扩张博士研究生与博士后规模以获取低成本科研劳动力，导致新毕业博士数量长期显著超出学术界与产业界传统研发岗位吸纳能力的系统性失衡现象。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学劳动力配置模式辨析
 > | 维度 | 博士生产过剩（现行模式） | 专职科学家梯队模式（Staff Scientist） | 布什原初独立奖学金模式 |
 > |---|---|---|---|
@@ -76,8 +70,6 @@ updated: 2026-10-22
 > | **宏观体制后果** | 博士后蓄水池滞留、学制拉长、高技能向常规岗位错配 | 人员成本上升、课题组规模受限，但职业路径稳定清晰 | [[Academic Freedom\|学术自由]]度高、劳动力供给与课题规模解耦 |
 
 ---
-
-## 核心要素
 
 > [!feature] 博士生产过剩的驱动机制
 > - **助研津贴替代独立奖学金** 战后资助机制从[[Vannevar Bush|万尼瓦尔·布什]]倡导的直接发放给学生的独立奖学金（fellowships），系统性转向绑定在 PI 课题上的研究助理津贴（Graduate Research Assistantships, GRAs），导致招生规模直接由项目用工数量决定。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 20–21, 37)]]
@@ -123,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 博士培养与供求矛盾演变
 > - **1950s–1960s — 黄金产能扩张期** 战后为填补科研产能赤字，全美高校博士授权点与招生规模翻倍增长，劳动力市场呈现供不应求。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 5–6, 12)]]
 > - **1970s–1980s — 供需初次失衡与转折** 越战后联邦直接支持放缓，学术岗位萎缩，博士毕业去向首次承压，博士后开始演变为求职蓄水池。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 17–18)]]
@@ -132,16 +122,12 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 科学产能必需品 vs 青年人才剥削
 > > 传统科研领导者主张保持大规模博士队伍是筛选顶尖科学领军人才所必需的庞大基座；当代劳动与教育经济学家则批判该体制依赖信息不对称与虚幻的学术教职预期，构成了对青年科研人员的结构性掠夺。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

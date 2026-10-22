@@ -49,11 +49,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Post-Nationalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **后国家主义（Post-Nationalism）** 是一种主张在政治、法律与文化维度逐步超越和解构传统民族国家（Nation-State）合法性边界的规范性政治哲学与社会思潮。它认为传统的国家认同与爱国叙事具有内在的排他性、沙文主义和道德危险性，主张将公民忠诚转向超国家制度联合体、程序性宪政法权或去中心化的多元[[Cosmopolitanism|世界主义]]。在当代地缘战略与政治哲学反思中，该思潮因系统性消解了国家共同体的精神凝聚力、造成公共道德真空并削弱民主阵营防卫威慑力而面临重大危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–194, 198–204)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 后国家主义 vs 共和公民民族主义 vs 族裔民族主义
 > | 维度 | 后国家主义（Post-Nationalism） | 共和公民民族主义（Civic Nationalism） | 族裔民族主义（Ethnic Nationalism） |
 > |---|---|---|---|
@@ -86,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **国家历史叙事祛魅** 系统解构传统国家的英雄人物、建国神话与爱国[[Pride in Learning|自豪]]，将历史研究局限于揭露内部冲突与不平等。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Breidlid et al., 2008; Karp & Zamiska, 2025, pp. 193–194)]]
 > - **文化中立与包容泛化** 拒绝确立任何实质性的国家文化正典，宣称国家仅由多元亚文化拼贴而成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Macron, 2017; Jégo, 2017; Karp & Zamiska, 2025, pp. 191–192)]]
 > - **后国家道德替代方案** 倡导宪政爱国主义或跨国界博爱，试图在无国家归属感的前提下维持社会协作。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Sennett, 1994; Nussbaum, 1994; Karp & Zamiska, 2025, p. 198)]]
@@ -133,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 决策者 |
 > |---|---|---|---|
@@ -151,8 +141,6 @@ updated: 2026-10-22
 > - **2025 — [[Technological Republic|技术共和国]]现实主义批判** 卡普与扎米斯卡全面宣告后国家主义实验的破产，呼吁在千年尺度上重建国家叙事、[[Hard Power|硬实力]]威慑与技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–204)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

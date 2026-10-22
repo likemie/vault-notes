@@ -80,11 +80,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# EMMIE Framework
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] EMMIE Framework
 > - **工具类型** [[Authentic Assessment\|表现性评价]]量规矩阵（Rubrics）与多维[[Evidence Standards\|证据标准]]评定工具。
@@ -99,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] 多维[[Evidence Standards\|证据标准]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -114,14 +108,10 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 评价与作答规则
 > - **题项形式** [[Criterion-Referenced Test\|标准参照]]表现评价量规（Criterion-Referenced Rubric）。
 > - **作答格式** 专家依据 0–4 级阶梯表现描述符对 5 个维度独立评定等级。
 > - **核心逻辑** 明确区分“该维度缺乏实证证据”（评 0 级）与“该维度证据显示干预负向或无效”（在效应维度标记负向），避免将证据空白误判为干预失效。
-
-### 干预效应量规
 
 > [!ref-table]- 维度 E：干预效应评分标准
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -135,8 +125,6 @@ updated: 2026-10-22
 > | **3 级** | 高度严密证据 | 采用严密的[[Regression Discontinuity Design\|断点回归]]、工具[[Variable\|变量]]法或中等规模随机试验，基线可比且流失控制良好 | 严格准实验或低偏倚风险[[Randomised Controlled Trials\|随机对照试验]]（SMS 4） |
 > | **4 级** | 最高等级证据 | 大样本多中心[[Randomised Controlled Trials\|随机对照试验]]（RCT）或针对多项高严密性设计的系统综述与元分析 | 充分功效的高质量 RCT 或 Cochrane/Campbell 级[[Meta-analysis\|元分析]]（SMS 5） |
 
-### 作用机制量规
-
 > [!ref-table]- 维度 M：作用机制评分标准
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > 评定依据：Johnson et al. (2015, p. 464)
@@ -148,8 +136,6 @@ updated: 2026-10-22
 > | **2 级** | 间接相关测量 | 测量了预期中介变量的变化，但未建立中介变化与最终产出之间的因果检验 | 单纯的前后测中间指标描述 |
 > | **3 级** | 实证机制支撑 | 通过质性[[Process Tracing\|过程追踪]]或定量中介分析，证明干预激活了中间机制并促进了最终产出 | [[Mixed Methods Research\|混合方法]][[Implementation and Process Evaluation\|过程评估]]或初步中介效应分析 |
 > | **4 级** | 严密机制因果链 | 具备先验[[Preregistration\|预注册]]机制假设，通过多重中介模型或因果中介分析彻底证实因果传导路径 | 严格中介分析或系统化[[Mechanism Experiments\|机制实验]] |
-
-### 调节变量量规
 
 > [!ref-table]- 维度 M：调节变量评分标准
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -163,8 +149,6 @@ updated: 2026-10-22
 > | **3 级** | 假说导向调节分析 | 依据先验理论建立调节变量假设，开展统计功效充足的[[Interaction Effect\|交互效应]]检验或[[Meta-regression\|元回归]] | 先验设计的调节效应或元回归模型 |
 > | **4 级** | 完整情境构型 | 系统揭示“情境—机制—结果”（CMO）构型，明确界定干预在何种生态阈值下有效或产生反作用 | 深度[[Realism in International Relations\|现实主义]]综合或跨情境多水平异质性建模 |
 
-### 实施条件量规
-
 > [!ref-table]- 维度 I：实施条件评分标准
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 > 评定依据：Johnson et al. (2015, p. 466)
@@ -176,8 +160,6 @@ updated: 2026-10-22
 > | **2 级** | 明确操作要素 | 详细列出干预核心组件、操作手册与培训要求，但缺乏[[Implementation Fidelity\|实施保真度]]的量化监控 | 具有标准化手册但无系统保真度监测 |
 > | **3 级** | 保真度系统监控 | 运用量表或观察清单持续测量实施保真度、到达率与剂量，并记录[[Going Native\|本土化]]调试过程 | 规范的实施与过程评估（IPE） |
 > | **4 级** | 实施决定因素全景 | 系统识别了促进因素与系统性障碍，明晰维持高保真度的组织能力门槛与剂量反应关系 | 综合运用实施科学框架的纵向过程评估 |
-
-### 经济学评测量规
 
 > [!ref-table]- 维度 E：经济学评价评分标准
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -193,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -203,8 +183,6 @@ updated: 2026-10-22
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] | EMMIE 警务与公共政策定制版 | 英国[[What Works Network\|有效性网络]]（What Works Network）旗下 15 个国际证据门户与[[Policy Brokerage\|政策中介]]智库 | [[Evidence Standards\|证据标准]]架构完备度与多维评级效度 | 将 EMMIE 框架确立为证据标准多维化升级的国际标杆[[Paradigm\|范式]]；实证调研表明，严格落实 EMMIE 的警务学院工具包有效遏制了“盲目移植平均[[Effect Size\|效应量]]”导致的政策失误，但在实证稀缺领域普遍面临机制与实施维度信息缺失挑战。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

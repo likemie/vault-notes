@@ -39,11 +39,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Skokie Free Speech Case
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 斯科基言论自由案（Skokie Free Speech Case, 1977–1978）是美国宪法第一修正案与司法判例史上最具标志性的言论自由危机与法理确立事件。该案以极端仇恨团体在犹太人聚居区申请游行引发的剧烈宪法冲突，确立了“即使最令人深恶痛绝的政治言论，政府亦不得依其内容实施事前禁止或审查”的硬性法律底线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
@@ -56,16 +52,12 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **1976–1977 — 申请集会与地方禁令出台** 纳粹团体策划斯科基集会，斯科基村出台要求巨额保险保证金、禁止煽动仇恨符号等法令阻止游行，引发全美舆论哗然。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
 > - **1977 — ACLU 介入代理与内部巨大撕裂** 本身为逃离纳粹大屠杀幸存者的 ACLU 总监[[Aryeh Neier|阿里耶·内尔]]力排众议，决定依据第一修正案为纳粹团体的集会权利提供无偿法律辩护；该决定引发该机构约三万名核心会员退会抗议与严重财政危机。
 > - **1977–1978 — 司法审判与宪法判例终审确立** 联邦上诉法院与美国最高法院相继作出判决，裁定斯科基村的事前限制与符号禁令违反宪法第一修正案，确立了宪法言论自由超越政治厌恶的[[Hard Belief|硬信念]]法理。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
 ---
-
-## 关键文献、法案与历史宣言
 
 > [!citation-card] 宪法自由对公权力的刚性约束
 > 为了保卫我自己，我必须用自由来限制权力，哪怕这一原则的暂时受益者正是自由的敌人。坚守信念必须付出代价，而为之辩护需要将组织自身的信誉以及个人的声誉置于险境。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]; (Neier, 1979, p. 5)
@@ -74,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者阵营与社会力量博弈
-
 > [!actor-grid] 权力—立场矩阵
 > - **宪法权利辩护方** [[Aryeh Neier]] 领导的 ACLU 法律团队 — 主张第一修正案的核心价值在于保护不受欢迎甚至极度邪恶的言论免受国家行政机器的任意剥夺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 > - **地方政府与受害幸存者阵营** 斯科基村政府、当地犹太社区与二战大屠杀幸存者 — 主张纳粹符号与游行构成直接的心理施暴与公共秩序挑衅，应当被排除在宪法保护之外。
@@ -83,15 +73,11 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键历史后果
 > - **第一修正案司法基准的刚性化** 彻底封闭了地方政府以防范群体愤怒或被冒犯感为由剥夺集会权力的行政审查后门。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 > - **智识勇气的历史坐标** 成为政治哲学与领导学中衡量公共领袖能否为超越自身利益的“[[Hard Belief|硬信念]]”承担声誉与政治代价的经典检验案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–60)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

@@ -79,11 +79,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Intraclass Correlation Coefficient
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **组内相关系数（Intraclass Correlation Coefficient，简称 ICC，在符号中常记为 $\rho$）** 最初由统计学家罗纳德·费希尔（Ronald Fisher）于 1925 年在[[Analysis of Variance\|方差分析]]框架下提出，是衡量具有嵌套（Nested）或群聚（Clustered）结构数据中**同属于同一群组的个体之间相似程度**的核心统计量。在现代分层线性[[Hierarchical Linear Model\|多水平模型]]（[[Hierarchical Linear Model\|HLM]]）中，ICC 被严格定义为**高层级组间方差占总方差的比例**。在教育实证研究与[[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）中，ICC 捕捉了同校或同班学生因共享教师、校园文化、地理社区及同伴互动而产生的非独立性相关，是测算设计效应（Design Effect）、换算[[Effective Sample Size\|有效样本量]]以及消除[[Standard Error\|标准误]]向下偏倚的生命线参数。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
@@ -100,8 +96,6 @@ updated: 2026-10-22
 > *“In education trials, pupils are clustered in classes and schools. If an analysis ignores this clustering, the effective sample size is exaggerated and the standard error is underestimated. Adjusting for the intraclass correlation coefficient is mandatory to prevent spurious [[Statistical Significance]].”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 承认测量单位与[[Unit of Analysis\|分析单位]]错位（Unit of Analysis Misalignment）带来的推断风险。个体表现永远嵌于环境脉络之中，忽视群聚相关性在认识论上属于典型的[[Ecological Fallacy\|生态学谬误]]或原子论谬误。
@@ -126,16 +120,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **构建两层无条件空模型（Unconditional Null Model）** 不纳入任何[[Independent Variable\|自变量]]与控制[[Variable\|变量]]，仅将[[Dependent Variable\|因变量]]按学校/班级层级进行自由分解。
 > 2. **提取方差分量参数** 采用限制性极大似然（REML）估计获取 Level 2 截距方差 $\tau_{00}$（组间变异）与 Level 1 残差方差 $\sigma^2$（组内变异）。
 > 3. **计算 ICC 点估计量** 计算 $\rho = \frac{\tau_{00}}{\tau_{00} + \sigma^2}$。
 > 4. **检验组间方差[[Statistical Significance\|统计显著性]]** 执行似然比检验（Likelihood Ratio Test, LRT）比较单层模型与两层模型的拟合优度，确认 ICC 是否显著大于零。
 > 5. **换算设计效应与[[Effective Sample Size\|有效样本量]]** 结合平均集群规模 $m$，测定设计效应 $\text{Deff} = 1 + (m - 1)\rho$，[[Evaluation Research\|评估研究]]的真实有效信息量。
-
-### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含 $J$ 个独立集群（如学校），第 $j$ 所学校包含 $n_j$ 名个体，平均集群规模 $m = \frac{1}{J}\sum n_j$。
@@ -218,8 +208,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 任何涉及学校、班级、诊所或社区的[[Cluster Randomized Trials\|集群随机对照试验]]前期功效分析与[[Sample Size Determination\|样本量]]测算；
@@ -234,16 +222,12 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **抽样不确定性大** 当集群数较小时，ICC 的[[Confidence Interval\|置信区间]]往往极宽，依据历史文献粗略猜测 ICC 极易导致试验先期功效设计严重失实。
 > - **集群规模不平衡时的敏感性** 经典公式假定各集群规模完全相等；当各校学生人数差距悬殊时，标准设计效应公式会低估真实的方差膨胀程度。
 > - **补救方式** 优先从官方大规模国家普查数据（如英格兰 NPD 归档）中提取先验 ICC；规模不均时采用加权设计效应公式（Eldridge et al., 2006）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -268,8 +252,6 @@ updated: 2026-10-22
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 评估实证 | 运用双向[[Random-Effects Model\|随机效应]]单评分者模型 ICC(2,1) 评估多国跨学科资深学者在宏观证据库实践相关性评分中的评定一致性（ICC = 0.60）。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 说明 [[Education Endowment Foundation\|EEF]] 试验复算如何推动《EEF 评估统计分析指南》（2018）出台，确立 ICC 与聚类稳健[[Standard Error\|标准误]]的技术准则。

@@ -60,11 +60,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Community of Shared Future for Mankind
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **人类命运共同体（Community of Shared Future for Mankind，早期译为 Community of Shared Destiny）** 是当代中国外交哲学、对外大战略与全球治理愿景的顶层叙事核心与全局性[[Social Imaginary|社会想象]]（Social Imaginary）。由中国最高决策层系统阐发并写入宪法序言与执政纲领，旨在倡导建立一个持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。在[[Discourse Analysis|话语分析]]与政策社会学视阈下，该概念构成了中国应对西方[[Washington Consensus|华盛顿共识]]失灵与全球治理赤字的替代性意识形态方案；在“[[Belt and Road Initiative|一带一路]]”倡议及跨国教育扩张中，它充当了核心的[[Policy Framing|激励性框架]]（Motivational Framing），通过强化[[South-South Cooperation|南南合作]]、文明互鉴与[[People-to-People Connectivity|民心相通]]等包容性修辞，赋予国家主导的对外战略行动以崇高的道德号召力与多边合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682, 684, 688–691)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 人类命运共同体与主要全球秩序[[Paradigm|范式]]辨析
 > | 比较维度 | 人类命运共同体（Shared Future） | 自由主义国际秩序（[[Washington Consensus]]） | 传统现实主义大国均势（Balance of Power） |
 > |---|---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **在批判视角中的功能** | 充当国家大战略出海的道德正当性与激励性修辞 | 确立全球新自由主义高等教育评价与准市场霸权 | 强化冷战式地缘阵营审查与学术交流政治化限制 |
 
 ---
-
-## 核心要素
 
 > [!feature] 构建人类命运共同体的五大核心支柱
 > - **政治伙伴支柱（持久和平）** 坚持国家不分大小贫富强弱一律平等，主张以对话解决争端、以协商化解分歧，构建结伴而不结盟的国际新秩序。
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -168,8 +158,6 @@ updated: 2026-10-22
 > - **2023年 — 批判政策社会学实证解构** 教育社会学与批判政策分析学者将该概念确立为解构中国[[Internationalization of Higher Education|高等教育国际化]]、[[Knowledge Diplomacy|知识外交]]与全球南方教育援助的核心分析对象。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–684, 688–691)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

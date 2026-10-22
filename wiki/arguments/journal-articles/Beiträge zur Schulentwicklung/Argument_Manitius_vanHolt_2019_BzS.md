@@ -104,7 +104,6 @@ status: completed
 created: 2026-09-26
 updated: 2026-10-20
 ---
-# Argument_Manitius_vanHolt_2019_BzS
 
 ---
 
@@ -121,8 +120,6 @@ updated: 2026-10-20
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -135,8 +132,6 @@ updated: 2026-10-20
 > 德国教育学思想史中的理论-实践问题（Benner, 1980; Vogel, 1990）从认识论根基上瓦解了将科学知识等同于行动处方的朴素实在论；现代传播学中的转移科学纲领（Antos, 2001; Wichter & Busch, 2006）与国际政策执行研究（Honig, 2006）则将分析视线由宏观政治口号拉回至复杂组织网络，从而确立了教育科学必须深化为转移科学的学理支柱。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -325,8 +320,6 @@ updated: 2026-10-20
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > - **新治理工具在学校层面的成效缺失揭示了转移的非线性本质** 德国大范围引入[[School Inspection|外部学校督导]]与学业监测工具后，并未在单体学校自发产生预期的质量提升，实证表明转移过程高度受制于情境背景与行动者主观认知，排斥预设的线性因果投递。（p. 9）
 > - **清算机构建设迅猛但缺乏底层转移模型反思与成效验证** 尽管各类清算中心（[[Educational Evidence Clearinghouses|Clearinghouse]]）与中介平台在政策推动下快速建立，但项目底层普遍缺乏对转移模型与因果作用假设（Wirkannahmen）的学术反省，且此类机构能否有效达成转移目标的实证证据在国际上依然高度匮乏。（p. 10）
@@ -334,8 +327,6 @@ updated: 2026-10-20
 > - **中层研训督导实体与全周期教师教育是转移落地的决定性制度纽带** 德国各州立研训机构（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）与学校督导虽被政策赋予关键中介职能但长期遭受学术忽视；贯穿职前与职后的教师教育（Lehrerbildung）是实现科研知识与学校实践双向对话的核心转化场。（pp. 11–13）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 新治理工具在单体学校层面的转移挫折
 > 针对外部督导等宏观调控措施未能在微观层面带来实质改进的治理现实：
@@ -373,8 +364,6 @@ updated: 2026-10-20
 > *...weil damit angezeigt wird, dass in dieser Institutionen-Konstellation Transferprozesse stattfinden und man sich von einseitig linearen Transfervorstellungen – beispielsweise von der Wissenschaft zur Praxis hin – verabschieden muss, das Wie dieser Prozesse jedoch gleichzeitig noch nicht hinreichend analytisch ausgeschärft und erforscht ist.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与[[Research Scope|研究边界]]
 > - **[[Discourse|话语]]观察的探索性与概览性定位** 作为编著全书的导论性综述，论证侧重于勾勒德语区教育转移的宏观政策话语与实证研究现状，并未开展独立的大[[Sample Size Determination|样本量]]化或深入个案质性调查。（pp. 9, 13）

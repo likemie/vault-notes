@@ -75,11 +75,7 @@ created: 2026-05-06
 updated: 2026-10-22
 ---
 
-# Gita Steiner-Khamsi
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 比较教育与[[International Education\|国际教育]]政策研究领军学者，哥伦比亚大学教师学院（Teachers College, Columbia University）教授、日内瓦高等国际关系与发展研究院（Geneva Graduate Institute）教授，[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）资深学者。
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2000 — *Transferring education, displacing reforms*（收录于 [[Jurgen Schriewer|Jürgen Schriewer]] 编 *[[Discourse]] Formation in Comparative Education*）** 系统论证教育转移并非中立技术复制，而是国内行动者用以解决本土政治合法性危机、以借用外来改革置换国内意识形态僵局的“改革置换（Reform [[Institutional Displacement|displacement]]）”策略（如以中国大学引入美国大学学分制为例证），提出必须聚焦抵制、颠倒或本土化教育进口的微观能动者与政治意图。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 > - **2004a — *The Global Politics of [[Policy Borrowing|Educational Borrowing]] and Lending*** 确立跨国教育政策转移政治分析的理论纲领，系统探讨[[World Bank|世界银行]]等国际组织与受援国之间的非对称权力博弈。
@@ -116,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 施泰纳-卡姆西的核心洞见是：跨国教育[[Policy Borrowing|政策借用]]在本质上是高度政治化的本土合法化过程，而非中立的最佳实践技术传递。学者必须将注意力从被借用的政策内容转向借用行动者、制度利益与流通机制，探究谁在借用、为何借用以及借用服务于何种国内政治冲突；在研究方法上，她倡导结合社会[[Network Analysis|网络分析]]与口述史，不仅捕捉跨国行动者的流动轨迹，更抢救被官方档案遗忘的活态学科历史。面对数字化时代的信息过载，她进一步提出[[Governing by Numbers|数字治理]] 2.0，揭示国际组织如何将[[Policy Brokerage|政策中介]]作为全球治理工具，[[Soft Power by Hard Facts|以硬事实施展软权力]]。
 
 > [!citation-card] 本土情境焦点与能动者转向
@@ -161,8 +153,6 @@ updated: 2026-10-22
 > - **学术机构** 哥伦比亚大学教师学院、日内瓦高等国际关系与发展研究院、[[Comparative Education Society in Europe]]（CESE）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与反思
 >

@@ -43,11 +43,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Reflexive Governance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Reflexivity|反思性]]治理（Reflexive Governance）** 是由扬-彼得·福斯（Jan-Peter Voß）与巴斯蒂安·博内曼（Bastien Bornemann）等学者在可持续转型与科技政策中系统发展的治理理论[[Paradigm|范式]]，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心机制。它指面对具有高度[[Scientific Uncertainty|认知不确定性]]、价值争议与复杂系统关联的社会转型挑战时，治理主体放弃确定性预测与刚性自上而下规划，通过制度化嵌入多方参与审议、持续实证监测、跨领域社会学习与小步渐进试验，动态反思并调整公共[[Problem Finding|问题界定]]与技术方案选择，从而防范系统过早陷入不可逆的[[Path Dependence|技术锁定]]与合法性赤字。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 治理模式演化特征对比
 > | 维度 | 传统经典科层管制 | [[New Public Management\|新公共管理]]模式 | [[Reflexivity\|反思性]]治理模式 |
 > |---|---|---|---|
@@ -79,8 +73,6 @@ updated: 2026-10-22
 > | **代表文献** | Weber (1922) | Hood (1991) | Voß & Bornemann (2011); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Reflexivity|反思性]]治理的核心制度构件
 > - **双重对象反思（Dual Reflexivity）** 不仅对技术方案的经济与环境性能进行动态监测，更对公共[[Problem Finding|问题界定]]本身的伦理正当性与社会接受度进行持续审视。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 485)]]
@@ -143,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 反思性治理核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +143,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Reflexivity|反思性]]治理理论演变
 > - **1990s — 自反性现代化社会学奠基** 乌尔里希·贝克（Ulrich Beck）与[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）提出自反性现代化（Reflexive Modernization）理论，指出工业社会的成功正在不断制造其自身无法消化的系统性风险。
 > - **2006 — 可持续发展反思性治理正式确立** 福斯、鲍克内希特与肯普在著作 *Reflexive Governance for Sustainable Development* 中首次将反思性引入公共政策与转型管理体系。
@@ -162,8 +150,6 @@ updated: 2026-10-22
 > - **2020 — 使命导向政策二维收敛机制整合** 万岑伯克等人将反思性治理作为推进问题–解决方案双重收敛的核心工具，完成了从宏观转型理论向中观政策操作框架的转化。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

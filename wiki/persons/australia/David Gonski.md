@@ -58,11 +58,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# David Gonski
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚顶尖商业律师、投资银行家、企业董事局领袖与联邦高级教育政策审查专员；曾任新南威尔士[[Grandes Ecoles|大学校]]监、澳新银行集团（ANZ）董事长、可口可乐阿玛提尔公司董事长、[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（Australian Philanthropic Services，APS）董事会主席及[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）先驱者委员会主席。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与关键职涯节点
 > - **1953** 出生于南非开普敦，童年随家庭移民澳大利亚；后就读于新南威尔士大学（UNSW）法学院并获商学与法学双学士学位。
 > - **1970s–1980s** 早期进入顶级商业律所 Freehills 成为合伙人，随后转向投资银行业务，创立咨询公司 Wentworth Associates 并迅速成长为澳洲企业并购界最炙手可热的商法顾问。
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > - **2017–2018 — 领衔 [[Gonski 2.0]] 卓越审查与 [[Australian Education Research Organisation\|AERO]] 催生** 受特恩布尔（Malcolm Turnbull）自由党联盟联邦政府委托，领衔开展第二轮全国教育审查，发布《通过成长实现成就：实现澳大利亚学校教育卓越审查报告》（Gonski 2.0），其第 23 条建议直接推动联邦与各州设立国家级教育证据机构（AERO）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 
 ---
-
-## 核心政策审查与思想主张
 
 > [!work-line] 标志性政策审查报告
 > - **2011 — *Review of Funding for Schooling: Final Report*（Gonski 1.0）** 确立资源分配公平基准，提出“学校资源标准”（Schooling Resource Standard，SRS）加弱势附加拨款模型，主张根据原住民、残疾、社会经济不利及偏远地理等指标实行差异化补偿拨款，并建议设立公立学校民间慈善募捐机制（[[Gonski Reforms]]；[[Argument_Keddie_2020_IJLE\|Keddie et al., 2020b, p. 11]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
@@ -105,16 +97,12 @@ updated: 2026-10-22
 
 ---
 
-## 关系网络
-
 > [!person-network] 核心关系网络与跨界拓扑
 > - **政界委托方** 茱莉亚·吉拉德（Julia Gillard，工党总理）与马尔科姆·特恩布尔（Malcolm Turnbull，自由党总理）— 分别跨党派任命其领衔 Gonski 1.0 与 2.0 两轮重大审查。
 > - **[[Venture Philanthropy\|风险慈善]]与商业董事盟友** [[Michael Traill\|迈克尔·特雷尔]]（Michael Traill，[[Social Ventures Australia\|SVA]] 创办 CEO）、贝琳达·哈钦森（Belinda Hutchinson，悉尼[[Grandes Ecoles|大学校]]监兼 APS 董事）、罗杰·马西-格林（Roger Massy-Greene，美洲银行前高管兼 [[Australian Education Research Organisation\|AERO]] 董事）— 共同出任 SVA 子公司 APS 理事，并协同运作 [[Australian Schools Plus\|Schools Plus]] 先驱者委员会，构成密切的利益[[Co-affiliation\|共同从属]]圈（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 9]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 530–531]]）。
 > - **政策衍生与筹款中介实体** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）、[[Evidence for Learning\|证据学习中心]]（E4L）与[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）— 其审查建议直接催生或深度参与治理的机构节点；冈斯基出任 Schools Plus 先驱者委员会主席（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术与政策争议
 >

@@ -46,11 +46,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Artificial General Intelligence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 通用人工智能（Artificial General Intelligence, AGI）指具备超越单一特定任务范围、能够在跨学科语境中自主理解、推理、生成概念并解决未知复杂问题的人造智能系统。与仅在国际象棋、围棋或图像识别等窄领域超越人类的专用弱人工智能不同，AGI 的核心特征在于其心智表征的通用性、多模态常识推理能力以及对人类语言与[[Creativity|创造力]]垄断地位的深层挑战。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 18–20)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > *And the most advanced versions of the models have now started to demonstrate what one group of researchers has called "sparks of artificial general intelligence," or forms of reasoning that appear to approximate the way that humans think.*
 
 ---
-
-## 核心特征与评估维度
 
 > [!feature] 核心维度
 > - **万亿参数隐空间与世界模型** 随着模型参数规模扩展至万亿级别，模型在多维隐空间中内生构建起对现实物理与社会规律的连续表征，参数规模越大，表征与映射世界的丰富度越高。（p. 18）

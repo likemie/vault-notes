@@ -44,11 +44,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Science Foundation Ireland
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **爱尔兰科学基金会（Science Foundation Ireland, SFI）** 是爱尔兰国家层面的法定科研资助机构，隶属于爱尔兰企业、贸易与就业部（Department of Enterprise, Trade and Employment）。其核心使命是通过竞争性资助高水准基础科研与应用科学团队，推动大学与工业界前沿协同，将爱尔兰建设成为全球领先的[[Knowledge-Based Economy|知识型经济]]体。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
@@ -61,16 +57,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2000–2003 — 机构创设与海外制度借鉴** 爱尔兰政府为承接“凯尔特之虎”（Celtic Tiger）经济腾飞并向高附加值研发转型，设立 SFI；为迅速建立世界级科研评审标准，SFI 直接聘任[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）前科学与数学学部主任威廉·哈里斯（Dr. William Harris）出任首任总干事。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
 > - **2003–2012 — 移植 [[Engineering Research Centers|ERC]] 模式创设 CSET 中心群** 在哈里斯主导下，SFI 深度移植美国 NSF [[Engineering Research Centers|工程研究中心]]（ERC）的治理模式与评估机制，在全爱尔兰高校设立科学、工程与技术中心（Centers for Science, Engineering, and Technology, CSETs），推动跨国企业（如英特尔、辉瑞、IBM）与爱尔兰高校建立长效实体研发中心。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
 > - **2012 年至今 — SFI 研究中心旗舰网络与机构重组** CSET 计划升级拓展为 16 所大规模 SFI 研究中心（SFI Research Centres，如微电子 Tyndall、生物医药 APC Microbiome 等）；2024 年爱尔兰推进科研资助体制深化改革，将 SFI 与爱尔兰研究理事会（IRC）合并重组为统一的爱尔兰国家研究与创新署（Taighde Éireann / Research Ireland）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **管理理事会（SFI Board）** 由爱尔兰政府任命的知名科学家、高教领袖及产业界高管组成，负责制定战略资助方针与中长期重大预算分配。
@@ -84,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **科学、工程与技术中心（CSETs）／ SFI 研究中心** 旗舰级跨学科实体中心网络，直接借鉴美国 [[Engineering Research Centers|ERC]] 架构，覆盖信息科学、纳米科技、生物制药及数字内容等前沿产业领域。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
 > - **探索者与学者资助计划（Investigator & Frontiers for the Future Programmes）** 面向高校优秀个人科学家与青年团队的中长期前沿探索课题资助。
@@ -98,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > 1. **重塑爱尔兰大学科研生态** 推动爱尔兰高校从以传统教学为主导的象牙塔，全面跨越为具备国际[[Competitiveness|竞争力]]的前沿[[Research Universities|研究型大学]]群落。
 > 2. **夯实高科技外资研发高地** 促使落户爱尔兰的跨国科技与制药巨头（如 Google、Apple、Pfizer）从单纯的欧洲税收与制造运营中心，深度拓展为与本地大学紧密联动的先导研发中心。
@@ -110,8 +98,6 @@ updated: 2026-10-22
 > - **16** SFI 资助设立的大型跨学科旗舰研究中心网络规模。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

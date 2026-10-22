@@ -83,11 +83,8 @@ status: draft
 created: 2026-08-23
 updated: 2026-10-17
 ---
-# Argument_RoyalSociety_2026_ScienceForSociety_Ch02
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid

@@ -48,11 +48,7 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-# Methodological Statism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Methodological Statism\|方法论国家主义]]（Methodological Statism，亦称方法论国家中心主义）是全球化教育社会学与比较教育学中的核心批评概念。它指的是在分析教育政策时，默认主权国家及其 government 机构是教育唯一的规划者、出资者、管理和提供者，并直接将“教育治理”等同于“国家行政管理行为”的方法论还原主义偏误。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Roger Dale]] 三大方法论陷阱对照表
 > | 维度 | Methodological Statism ([[Methodological Statism\|方法论国家主义]]) | [[Methodological Nationalism\|Methodological Nationalism (方法论民族主义)]] | [[Methodological Educationism\|Methodological Educationism (方法论教育主义)]] |
 > |------|---------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -77,9 +71,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **国家中心主义假设（State-Centric Assumption）** 认为凡是属于教育政策的事物，其始作俑者和最终落实者必须是国家教育部等政权科层机构。
 > - **权威单一性幻觉（Illusion of Unitary Authority）** 假设主权国家在领土范围内拥有绝对、单一的控制权，忽视了当今全球治理网络中权威实际上在向超国家机构（如[[World Bank\|世界银行]]、[[OECD]]）及次国家实体（如教育产业公司）扩散的现实。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 > - **跨国[[Policy Mobility\|政策流动]]的技术遮蔽（Technical Obfuscation of Transnational Flows）** 在分析本国教育改革时，仅从国内政治周期或领导人意图出发解释，从而在方法论上过滤掉跨国 **[[Travelling Policy\|旅途政策]]** 和多边基准评估对国内改革的无声规训。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > **多边主义与去中心治理的崛起** 指出，在跨国资本主义和全球化背景下，教育政策的制定权正在经历“向上让渡”（至超国家组织）与“向下扩散”（至地方和市场主体）。如果研究者依然固守方法论国家主义，仅仅在“国家教育部做出了什么决定”的层面开展比较，就无法看清诸如 [[OECD]] 等机构通过 benchmarking 数据行使的 **[[Governing at a Distance\|远处治理]]**。这不仅是一种学术上的[[Epistemology\|认识论]]落后，更在客观上配合了新自由主义[[Geopolitics|地缘政治]]将实质性治理冲突“技术化”和“去政治化”的策略。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 发展脉络
 > - **2005 — 概念系统化** [[Roger Dale]] 撰文讨论全球化对教育研究方法论的挑战，系统界定了方法论 statism，并与 nationalism、educationism 结盟，构成教育社会学批判的基础。 (Dale, 2005)

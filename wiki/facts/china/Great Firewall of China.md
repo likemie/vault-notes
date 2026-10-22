@@ -39,8 +39,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Great Firewall of China
-
 ## 背景
 
 中国的互联网审查制度伴随互联网在中国大陆的普及而建立，其技术基础是大数据监控与网络过滤系统的结合。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将 Great Firewall 定位为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中审查模态的核心案例——通过系统性阻断对境外信息的访问来干涉[[Knowledge Transfer|知识转移]]([[Argument_Partaken_2022_Springer|Partaken, 2022, p.82]])。

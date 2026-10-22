@@ -74,7 +74,6 @@ citation_aliases:
   - "Ross & Morrison, 2021"
   - "Ross & Morrison (2021)"
 ---
-# Argument_Ross_Morrison_2021_ECNUROE
 
 > [!info] [[Research Question\|研究问题]]
 > 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有[[Evidence Standards\|证据标准]]常把有效性压缩为严格实验中的统计显著成就效果(pp.109-112)。
@@ -164,9 +163,7 @@ citation_aliases:
 > [!warning] 论证中的关键张力
 > 文章并未否定 RCT、QED 或 [[Educational Evidence Clearinghouses]]。真正的批评是：当这些机制把“有效性”简化为单一成就指标和[[Statistical Significance\|统计显著性]]时，它们无法充分回答复杂学校系统中的实践问题(pp.110-113, 120-124)。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > ### 关于[[Research Utilization\|证据使用]]
 > 1. 实践者虽然被鼓励使用严格证据，但在产品选择上常更偏好同伴推荐和本地试点，因为这些来源更能回答地方实施、使用体验、成本和适配问题(pp.120-121)。
 > 2. 证据审查若只报告[[Statistical Significance\|统计显著性]]和[[Effect Size\|效应量]]，容易遗漏成本、实施要求、用户满意度、情境特征和研究局限等实践者实际需要的信息(p.121)。
@@ -184,9 +181,7 @@ citation_aliases:
 > - [[Classroom Observation|课堂观察]]覆盖 2014 年秋至 2019 年春，单次观察约 20 分钟；观察工具总体评分者一致性 [[Cronbach's Alpha]] 为 .972(p.117)。
 > - 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 的平均成就效应量仅为 .06 SD，且只有 23% 的效应显著大于零，这说明即使最严格的设计也常给出很小或不显著的成就结果(p.112)。
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “证据并不存在于一个不受现行教育政策和紧迫需求影响的真空中。”
 > ("Evidence does not exist in a void unaffected by prevailing educational policies and exigencies.")(p.111)
 
@@ -194,9 +189,7 @@ citation_aliases:
 > “技术不是一种在操作上可定义的干预，而是一种传递教学的模式。”
 > ("Technology is not an operationally definable intervention but rather a mode for delivering instruction.")(p.113)
 
-## 局限性与批评
-
-> [!warning|notitle] 局限性与批评
+> [!warning] 局限性与批评
 > 该文的案例说明依赖作者自身作为外部评价者的经验，因此对 [[Students and Teachers Accessing Tomorrow\|STAT]] 的解释带有评价参与者视角；文章也明确承认，由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，不能证明 STAT 的因果效果(p.124)。
 
 > [!warning] 局限性与批评

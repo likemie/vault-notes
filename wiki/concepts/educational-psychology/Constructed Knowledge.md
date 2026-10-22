@@ -46,12 +46,9 @@ status: active
 created: 2026-08-15
 updated: 2026-10-22
 ---
-# Constructed Knowledge
 （建构知识）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 建构知识（Constructed Knowledge）在[[Epistemology\|认识论]]发展模型中具有专属的技术性含义：它是 Belenky et al. (1986) 提出的[[Women's Ways of Knowing\|女性认知方式]]模型中的最高发展阶段。达到这一阶段的个体能够将主观直觉与客观系统程序融为一体，认识到知识和真理是情境化的、随语境变化的产物，并将自身视为[[Knowledge Building Theory|知识建构]]过程的积极参与者，而非被动接受者。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
@@ -66,8 +63,6 @@ updated: 2026-10-22
 > - 不等于 **[[Procedural Knowledge\|程序知识]]（Procedural Knowledge）阶段** — 在 Belenky et al. 的模型中，程序知识阶段在建构知识之前，个体已经能运用客观系统化程序，但尚未完成主客观的深度整合。
 
 ---
-
-## 核心要素
 
 > [!taxonomy] Belenky et al. 的五种[[Epistemology\|认识论]]视角
 > 建构知识是以下五个认识论发展视角中的顶阶，每个阶段代表个体对[[Source of Knowledge\|知识来源]]与确定性的不同理解：
@@ -111,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -127,8 +120,6 @@ updated: 2026-10-22
 > - **2018 — [[Meta-analysis\|元分析]]视角下的重新审视** Greene et al. 在元分析综述中，将以发展论模型（包括建构[[Knowledge Framework\|知识框架]]）为基础的测量工具作为调节[[Variable\|变量]]之一，考察其对[[Academic Achievement\|学业成就]]预测效力的影响。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：[[Epistemology\|认识论]]成熟度是固定终点还是动态情境产物？
 > - **发展论立场（蓝方）** 建构知识代表[[Epistemic Cognition\|认识论认知]]的普遍发展顶阶，是个体经过阶段性积累后获得的相对稳定的认识论世界观。该立场认为高等教育应以培养学生达到此阶段为目标。

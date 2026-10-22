@@ -41,11 +41,7 @@ created: 2026-05-31
 updated: 2026-09-11
 ---
 
-# Coherence in Writing
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 写作连贯性（coherence）指文本中观念之间的逻辑联结：观念相互关联（tie together），句子之间逻辑推进（logically [[Flow]] from one sentence to another），段落之间自然衔接（connect from one paragraph to another）。连贯性是增强学术文本可读性的核心手段（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 > [!quote|notitle]

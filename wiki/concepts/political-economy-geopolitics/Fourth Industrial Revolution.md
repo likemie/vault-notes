@@ -42,8 +42,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Fourth Industrial Revolution
-
 > [!info] 定义
 > "第四次工业革命"（Fourth Industrial Revolution, 4IR）是 Klaus Schwab 在世界经济论坛（WEF）中推广的概念，声称当前技术转型因三个原因构成继蒸汽机（第一次）、电力（第二次）和数字技术（第三次）之后的第四次工业革命：速度（velocity）、范围（scope）和系统影响（systems impact）。该转型涵盖 AI、物联网、区块链、量子计算等新兴技术领域([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.70]])。
 

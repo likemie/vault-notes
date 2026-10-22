@@ -107,11 +107,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# DARPA
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 美国国防高级研究计划局（Defense Advanced Research Projects Agency, DARPA）是美国国防部（Department of Defense, DoD）直属的高风险前沿颠覆性技术研发机构。在[[Evolutionary Economics|演化经济学]]与科技政策理论中，DARPA 被视作第二代[[Big Science|大科学]]使命政策（狮子形态）的代表、去中心化探索型公共网络（Decentralized Explorative Public Network）与激进型[[Market Shaping and Creating|市场塑造]]者的全球典范，以及在[[Pasteur's Quadrant|巴斯德象限]]中跨越基础科学探索与重大国防使命工程转化的标杆机构。在[[Technological Republic|技术共和国]]理论中，DARPA 构成了国家重大战略需求孵化现代通用数字基础设施的历史基石，是破除私营科技巨头[[Historical Amnesia|历史健忘症]]的关键实证参照。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
@@ -124,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 六十年技术使命演化与突破历程
 > - **1958–1960s — 太空竞争突围与计算机科学建制奠基** [[Dwight D. Eisenhower|艾森豪威尔]]总统因应苏联斯普特尼克危机设立高级研究计划局（ARPA）；早期短暂主导美国航天计划（后移交[[National Aeronautics and Space Administration|美国国家航空航天局]] [NASA]）；1962 年设立信息处理技术办公室（IPTO），资助分时操作系统、图形交互与分组交换网络；1968 年底突破传统垄断电信巨头，将首个[[ARPANET|阿帕网]]（ARPANET）接口信息处理机关键制造合同授予麻省理工学院教授创办的小型工程咨询公司 BBN，直接催生阿帕网；并系统资助麻省理工学院、斯坦福大学、卡内基梅隆大学与加州大学伯克利分校等高校计算机科学系所的学科奠基。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
 > - **1970s — [[Mansfield Amendment 1969|曼斯菲尔德修正案]]、TCP/IP 公共领域确立与战术隐身突防** 国会通过《曼斯菲尔德修正案》，强制要求国防研发紧密挂钩直接军事需求；机构改组为国防高级研究计划局（DARPA），重点资助战术防御技术；启动“海弗蓝”（Have Blue）验证机项目，突破机身雷达散射截面积计算理论与吸波材料工艺，最终催生 F-117 隐身攻击机。同期在网络通信领域，资助卡恩与瑟夫研制 TCP/IP 协议，并坚持将其完全置于公共领域（Public Domain），不申请排他性专利，联合全美逾 100 所大学和科研节点进行大规模实体部署，奠定了全球开放互联网架构。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 > - **2010s–至今 — 生物技术拓展、[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与《[[CHIPS and Science Act|芯片法案]]》跨机构研发衔接** 设立生物技术办公室（BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证。2023 年联合半导体研究联盟（[[Semiconductor Research Corporation|SRC]]）发起[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（JUMP 2.0），依托宾夕法尼亚州立大学牵头的 14 所顶尖高校攻坚微电子[[Heterogeneous Integration|异构集成]]与先进封装。在《芯片与科学法案》（[[CHIPS and Science Act]]）与白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》框架下，DARPA 推进电子复兴计划（ERI 2.0）与[[Embedded Entrepreneurship Initiative|嵌入式创业倡议]]（EEI），其工具箱共享机制（[[DARPA Toolbox Initiative|DARPA Toolbox]]）与国防部微电子公有云（[[Microelectronics Commons]]）、商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）实现全链条研发协同与技术进阶衔接；同时，DARPA 在芯片安全架构（AISS/SSITH）上的前期积累直接奠定了国家战略第四支柱（[[Hardware Security|硬件安全]]与根信任）的技术基石。DARPA 的项目经理制、挑战赛模式与前竞争公私协同机制亦直接启发了美国卫生高级研究计划署（[[ARPA-H]]）、高级能源研究计划署（[[ARPA-E]]）、国家科学基金会 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会以及[[Focused Research Organization|聚焦研究组织]]（FRO）等新型科研建制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 32)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 24–25)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29, 37–44)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **局长办公室（Director's Office）** 实行极度扁平化架构，仅设局长与副局长，直接对国防部主管科技副部长负责，最大程度排除官僚中间层干扰。
@@ -153,8 +145,6 @@ updated: 2026-10-22
 > 5. **适时断乳脱钩与机制化退出（Timely Weaning & Graceful Exit）** 一旦技术原型验证成功且私营市场或军种采购具备自主造血能力，DARPA 迅速终止资助，坚决避免形成利益集团依附。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 颠覆性技术策源矩阵
 > - **数字时代信息基础设施** 互联网前身 [[ARPANET]]、TCP/IP 协议族、分时计算系统、计算机图形界面与鼠标早期研发资助。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–40)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176)]]
@@ -179,8 +169,6 @@ updated: 2026-10-22
 > *The entire digital infrastructure, from computing architecture to the internet itself, traces its lineage directly back to DARPA and cold-war defense investments. For modern software oligarchs to claim sole credit while turning their backs on national security is a profound act of historical amnesia.*
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 理论与政策争议
 >

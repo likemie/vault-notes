@@ -65,11 +65,7 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# David Gough
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国资深社会科学家、循证政策与方法学专家，伦敦大学学院教育学院（UCL Institute of Education）社会科学研究部（Social Science Research Unit, SSRU）实证政策与实践荣休教授，证据知情政策与实践信息与协调中心（[[EPPI-Centre\|Evidence for Policy and Practice Information and Co-ordinating Centre]], [[EPPI-Centre]]）前主任。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展脉络
 > - **2000s — [[Systematic Review\|系统综述]]方法论建构与证据权重多维化** 致力于将循证医学的系统综述方法改造并拓展至复杂的社会科学与教育研究领域，批判单纯以[[Randomised Controlled Trials\|随机对照试验]]为唯一黄金标准的教条主义。
 >   - **代表著作** *[[Weight of Evidence Framework\|Weight of Evidence]]: A framework for the appraisal of the quality and relevance of evidence* (2007)；*An Introduction to Systematic Reviews* (with Oliver & Thomas, 2012)。
@@ -110,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 证据在政策与实践中的应用并非知识产品的被动消费过程，而是发生于复杂自适应[[Evidence Ecosystem\|证据生态系统]]之中的多维互动。单纯传播或建立人际联结并不能自然引发行为改变；[[Educational Brokerage Agency\|知识中介机构]]必须确立明确的[[Theory of Change\|变革理论]]，依据透明严谨的[[Evidence Standards\|证据标准]]提出适切的功效主张，并将自身工作有机嵌入包括问责体制在内的外层制度大系统。
 
 > [!citation-card] 证据生态系统的自省与元研究视阈
@@ -128,8 +120,6 @@ updated: 2026-10-22
 > - **政策与实践路径** 长期担任英国议会科技委员会、政府部门及国际组织的循证政策顾问，深度参与塑造英国[[What Works Network\|有效性网络]]（What Works Network）与全球[[Evidence-Based Education\|循证教育]]治理战略。
 
 ---
-
-## 相关概念与研究
 
 > [!evidence-grid-a] 相关索引
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 系统阐述[[Educational Brokerage Agency\|知识中介机构]]自我循证的五大支柱与[[Evidence Standards\|证据标准]]框架。

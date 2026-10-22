@@ -100,11 +100,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Technology Transfer
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **技术转移（Technology Transfer）** 是指将大学、公共科研机构或工业实验室所产出的科学发现、技术发明与工程知识（包括专利发明、实验数据、计算机软件及制造工艺诀窍），转化为产业实际应用、商业化产品及社会生产力的全过程。
@@ -139,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 技术转移核心模式辨析
 > | 比较维度 | 法定专利许可模式（[[Bayh-Dole Act of 1980\|Bayh-Dole]] [[Paradigm\|范式]]） | 开放公共扩散模式（冷战军工与公共领域范式） | 敏捷国家与制造锚定模式（[[Argument_Kratsios_2026_OSTP\|Kratsios, 2026]]） | 走廊联合平台模式（[[Argument_Woo_2023_HEP\|Woo, 2023]]） |
 > |---|---|---|---|---|
@@ -152,9 +146,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **转移载体与产权构型（Transfer Media & IP Architecture）** 涵盖显性法定知识产权（发明专利、版权代码、商业秘密）与隐性工艺诀窍（[[Process Knowledge|过程知识]]）；在合同设计中区分为合作前既有的[[Background IP|背景知识产权]]（[[Background IP]]）与履行合作产生的创新成果[[Foreground IP|前景知识产权]]（[[Foreground IP]]）。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 277–280)]]
 > - **制度性中介组织与敏捷授权工具（Intermediaries & Agile Authorities）** 包括大学内部的[[Technology Transfer Office|技术转移办公室]]（TTO）、工业联络处，以及国家实验室采用的[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA）和[[Other Transaction Authority|其它交易授权]]（OTA），能够大幅绕过传统联邦采购壁垒。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–44)]]
 > - **实体[[Human Capital Theory|人力资本]]跨界载体（Human Capital Mobility）** 掌握前沿技术诀窍的青年研究生、博士后与教授通过进入企业、创办衍生企业或以创业科学家身份进驻国家实验室（如 [[Activate Fellowship|Activate]] 计划），实现[[Tacit Knowledge|默会知识]]的具身化物理转移。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
@@ -241,8 +233,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕技术转移形成的代表性命题
 > | 命题类型 | 核心指向 | 提出学者 | 实证支持情境 |
 > |---|---|---|---|
@@ -256,8 +246,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 技术转移制度发展历程
 > - **1940 年代–1970 年代 — 冷战军工驱动与公共领域开放阶段** 联邦政府深度资助[[Research Universities|研究型大学]]，科研成果多按军方规程置于公共领域，技术转移主要通过开源披露、强制第二供应商工艺共享与工程技术人才流动自发完成。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
 > - **1970 年代末–1980 年代 — 多边实体平台与国家用户设施破冰** 面对微电子工艺设备成本激增，大学创设加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福 CIS 等多边物理平台，通过企业驻场轮转与国家共享机台实现了重资产制造技术的高效转移。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289–295)]]
@@ -270,8 +258,6 @@ updated: 2026-10-22
 > - **2026 年 — 统一许可框架、[[Other Transaction Authority|OTA]] 敏捷授权与国家制造锚定** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推行跨校统一知识产权许可框架、加速国家实验室 [[Cooperative Research and Development Agreement|CRADA]] 与深化 OTA 商业授权，将技术转移全面锚定于本土先进制造与产业链自主可控。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -306,8 +292,6 @@ updated: 2026-10-22
 > 技术转移制度框架在很大程度上建立在发达经济体完善的产权法治与风险投资市场环境之上；在制度环境不健全或[[Absorptive Capacity|吸收能力]]薄弱的发展中地区，单纯复制[[Bayh-Dole Act of 1980|拜杜法案]]往往无法激活产业需求，反而导致高校专利大量沉睡闲置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 44)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

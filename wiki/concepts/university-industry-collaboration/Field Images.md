@@ -33,8 +33,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Field Images
-
 > [!info] 定义
 > [[Champ\|场域]]图像（Field Images）是 Bloch & Mitterle 在 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]的一期 Higher Education 中提出的概念，用于重新理解高等教育中的分层（stratification）。其核心主张是：分层不应被理解为一种静态的结构（哪些大学在顶层、哪些在底层），而应被理解为一个由"场域图像"驱动的持续**过程**——排名和评估不只是报告既有的质量分布，更在**教导**学生、雇主、政府和管理者"看见"一种垂直的秩序([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.806–807]])。
 

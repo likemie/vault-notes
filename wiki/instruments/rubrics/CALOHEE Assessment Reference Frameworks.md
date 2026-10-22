@@ -65,11 +65,7 @@ created: 2026-08-28
 updated: 2026-10-20
 ---
 
-# CALOHEE Assessment Reference Frameworks
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[CALOHEE Project\|CALOHEE]] 评价参照框架
 > - **工具类型** 学科化[[Authentic Assessment\|表现性评价]]量规与参照框架体系（Assessment Reference Frameworks）。
@@ -84,8 +80,6 @@ updated: 2026-10-20
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] [[Critical Thinking]] 与 [[Creativity]] 的五大学科化评价矩阵
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -99,8 +93,6 @@ updated: 2026-10-20
 
 ---
 
-## 题项与作答方式
-
 > [!proc] 评价框架的[[Operationalization\|操作化]]评定流程
 > 1. **资格对齐（Descriptor Mapping）** 将[[European Qualifications Framework\|欧洲资格框架]]（EQF 6 级学士 / 7 级硕士）抽象描述符转化为具体的专业能力指标。
 > 2. **真实任务设计（Authentic Task Design）** 依据矩阵开发嵌入课程的[[Open-Mindedness|开放性]][[Task Structure\|劣构任务]]（如历史史料考证、物理探究实验），摒弃单纯[[Rote Learning\|死记硬背]]。
@@ -108,15 +100,11 @@ updated: 2026-10-20
 
 ---
 
-## 测量学特性
-
 > [!finding-cards] 测量学特性与质保机制
 > - **[[Construct\|构念]]有效性（[[Construct Validity]]）** 克服了通用机考[[Multiple-Choice Questions\|选择题]]的脱嵌缺陷，通过将批判思维与[[Creativity\|创造力]]与具体学科专业知识深度融合，显著提升了[[Ecological Validity\|生态效度]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]
 > - **跨国同行审定（International Moderation）** 框架由全欧五大学科数百位学者、行业雇主与校友联合体反复协商迭代，具备极高的专家[[Content Validity\|内容效度]]与跨国认可度。
 
 ---
-
-## 使用情况
 
 > [!usage-cases] 使用情境
 > - **欧洲高等教育区专业质量认证** 广泛应用于 [[Bologna Process|EHEA]] 成员国高校的专业培养方案编制、ECTS 学分成果对齐与机构评估。

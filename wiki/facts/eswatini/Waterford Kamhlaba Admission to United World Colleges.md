@@ -33,11 +33,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# Waterford Kamhlaba Admission to United World Colleges
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间／地点** 1963 至 1982 年，时称斯威士兰的姆巴巴内（Mbabane, Swaziland），即今史瓦帝尼。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 122–126)]]
@@ -48,8 +44,6 @@ updated: 2026-10-22
 沃特福德的价值起点与 UWC 接近，组织形态却差异明显。它覆盖多个年龄阶段，多数学生由家庭选择并缴费，原先采用剑桥海外普通程度考试（Cambridge Overseas Ordinary Level，O-level）和高级程度考试（Advanced Level，A-level）。加入过程必须依次解决使命判断、组织联系、课程时点和共同财政责任。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 122–126)]]
 
 ---
-
-## 学校起源
 
 > [!feature] 从创校到接触 [[United World Colleges\|UWC]]
 > - **1963 年开校** 一间教室、六名教师和十六名学生。
@@ -62,8 +56,6 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 从价值接近到正式成员
 > - **1975 年　首次接触 [[United World Colleges\|UWC]]** 牛顿·汤普森提出参照新加坡取得关联身份。学校希望减少孤立并在人员更替后维持教育目标，UWC 则看到非洲多种族教育和社区服务进入网络的可能。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 122–123)]]
 > - **1977 年 10 月　非正式联系成为政策程序** 国际董事会要求合格既有学校在正式关联决定前，与现有 UWC 保持适当时长的非正式联系。沃特福德与大西洋学院成为首批配对之一。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 124)]]
@@ -74,8 +66,6 @@ updated: 2026-10-22
 > - **1982 年初　正式成员协议签署** 学校以沃特福德卡姆拉巴南部非洲联合世界书院（Waterford Kamhlaba United World College of Southern Africa）之名并入 UWC。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 126)]]
 
 ---
-
-## 课程转换与基础设施调整
 
 > [!framework-table] 正式加入的两项障碍
 > | 障碍 | 学校需要 | 解决方式 | 网络后果 |
@@ -94,8 +84,6 @@ updated: 2026-10-22
 > - **单校需要改变国际课程基础设施** 十一月考试季把南半球学校的时间要求纳入 IB 全球服务结构。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]]
 
 ---
-
-## 争议与评论
 
 > [!tension] 关联期的筛选功能与晋级预期
 > - **制度缓冲（蓝方）** 非正式联系期让学校与现有书院相互了解，也让国际办公室评估教育承诺、课程转换和支持成本。

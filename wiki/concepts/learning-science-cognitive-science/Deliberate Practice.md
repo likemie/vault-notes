@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Deliberate Practice
-
 > [!metax] [刻意练习 · Deliberate practice](https://www.visiblelearningmetax.com/influences/view/deliberate_practice)
 > 学生学习策略 › 学习策略
 >

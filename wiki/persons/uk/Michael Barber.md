@@ -72,11 +72,7 @@ created: 2026-07-04
 updated: 2026-10-22
 ---
 
-# Michael Barber
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名教育政策顾问、政府治理专家与跨国商业咨询领袖。曾任英国教育与就业部（Department for Education and Employment, DfEE）学校标准与效能组（Standards and Effectiveness Unit, SEU）首席顾问（1997–2001）、托尼·布莱尔（Tony Blair）内阁首相交付组（Prime Minister's Delivery Unit, PDU）首任负责人（2001–2005）、麦肯锡公司（McKinsey & Company）全球教育业务主管兼合伙人（2005–2011）、培生集团（Pearson）首席教育顾问（2011–2017）及英国学生办公室（Office for Students, OfS）创会主席（2017–2021）。
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1997–2005 — 交付学体系建构与国家机器量规化阶段** 回应新工党执政后公共服务执行力涣散、[[Bureaucracy|科层制]]阻滞政策落地的现实困境，开创基于严格数据追踪的量化绩效交付模型。
 >   - **代表著作** *Instruction to Deliver: Tony Blair, Public Services and the Challenge of Achieving Targets* (2007)；*Deliverology 101: A [[Champ\|field]] Guide For Educational Leaders* (2010)。
@@ -123,9 +117,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 迈克尔·巴伯（Michael Barber）的核心思想体现为“[[Technical Rationality\|技术官僚理性]]、管理咨询效能与量化问责哲学的深度杂糅”。他坚信公共教育与政府部门的低效源于“执行赤字”（Implementation Deficit），主张通过确立不可妥协的优先事项、分解设定严密的可测量[[Performance Indicators\|绩效指标]]、组建直属最高执政者的专门交付机构（Delivery Unit）以及实施高频次数据审议，将科层行政机器彻底重塑为目标达成机器；在教育系统改革上，他提出“教育体系的质量绝不可能超出其教师队伍的质量”，主张将商业管理主义的精益管控、因果循证证据与国际标杆测试作为驱动大规模系统改进的关键支点。
 
 > [!citation-card] 教师素质决定教育体系质量的麦肯锡命题
@@ -154,8 +146,6 @@ updated: 2026-10-22
 > - **批评者与学术论敌** [[Paul Morris|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE|Cowen, 2023, p. 334]]）；[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education|循证教育]]与[[Venture Philanthropy|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 530–531]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术与政策争议
 >

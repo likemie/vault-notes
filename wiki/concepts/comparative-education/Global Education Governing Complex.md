@@ -63,11 +63,7 @@ created: 2026-09-11
 updated: 2026-10-22
 ---
 
-# Global Education Governing Complex
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全球教育治理复合体（Global Education Governing Complex）是指由五大核心国际组织——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）、[[World Bank\|世界银行]]（World Bank）、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO，简称联合国教科文组织）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）与[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）为中枢，深度整合了主权国家资本、跨国教育商业企业与私人慈善基金会的多元跨国[[Network Governance\|网络治理]]形态。该复合体打破了传统民族国家对公共教育政策的专属垄断，将可量化、可比较与可标准化的知识深度工具化与武器化，依靠设定国际目标、基准测验、跨国排名与[[Policy Brokerage\|政策中介]]等“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”的间接治理技术，在缺乏法律强制制裁权的前提下跨尺度重塑全球与国家教育改革议程并实施远距离绩效问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -98,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **五大组织核心网络（The Big Five）** 复合体的常设支柱包括[[OECD\|经合组织]]（OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNESCO\|联合国教科文组织]]（UNESCO）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与[[Global Partnership for Education\|全球教育伙伴关系]]（GPE），各方在治理资源、合法性来源与主导工具上存在结构性互补与竞合。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **非教育机构的跨界渗透** 经济协调与金融类国际组织（如经合组织、世界银行、区域开发银行）凭借资金实力与数据技术，以“教育促进经济增长”为合法性修辞深度介入教育议程，占据全部涉教育国际组织的三分之一。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **[[Public-Private Partnership|公私伙伴关系]]与慈善资本联结** 私人基金会（如[[Bill & Melinda Gates Foundation|盖茨基金会]]）与跨国教育企业（如培生集团）通过专项资助与联合项目嵌入治理中枢，重塑公共政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
@@ -164,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -183,8 +175,6 @@ updated: 2026-10-22
 > - **2019–2024 — 复合体理论化与[[Governing by Numbers\|数字治理]] 2.0 议程** Christian Ydesen (2019) 正式提出全球教育治理复合体[[Construct\|构念]]；[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 将其推进至数字治理 2.0，揭示信息过载下[[Policy Brokerage\|政策中介]]工具打包、排他战略同盟与[[Transfer Space\|转移空间]]内主权国家的政治过滤机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -206,8 +196,6 @@ updated: 2026-10-22
 > 全球教育治理复合体概念高度聚焦于跨国多边平台、国际宏观规制网络与公私资本中枢，对于脱离国际援助体系的草根教育实验、微观学校日常实践以及完全封闭集权的本土体制解释力相对间接。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 550)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

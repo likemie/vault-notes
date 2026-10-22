@@ -55,11 +55,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Paul Pierson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国历史政治学家与比较政治经济学家，加州大学伯克利分校（University of California, Berkeley）约翰·格罗斯政治学讲席教授（John Gross Professor of Political Science），美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士，当代[[Historical Institutionalism|历史制度主义]]与[[Path Dependence|路径依赖理论]]头号集大成者。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990年代 — 福利国家紧缩与不可逆[[Path Dependence|路径依赖]]** 反思新自由主义改革为何未能如愿彻底摧毁英美战后福利体系。
 >   - **代表著作** *Dismantling the Welfare State?* (1994); *The New Politics of the Welfare State* (2001)。
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 政治现象从根本上嵌入于不可逆的历史时间之中，时间的次序、慢[[Variable|变量]]的沉淀以及微小初始选择的自强化对结果具有决定性塑造力；制度不仅具有抵御外部冲击的报酬递增惯性，同样也会在微观行动者长期的白蚁式啃噬、边缘层叠与策略性不作为中，经由长周期的潜伏发酵累积出戏剧性的结构质变。
 
 > [!citation-card] 慢变量与时间序列在制度演化中的决定性作用
@@ -118,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将[[Path Dependence|路径依赖]]与时间性概念彻底植入现代政治学词汇库；其早期关于福利韧性的论断直接倒逼了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]的形成；其提炼的地下室白蚁机制成为刻画制度潜伏[[Subversives|颠覆者]]的经典分析工具。
 > - **方法路径** 奠定政治科学重视事件次序、因果时滞与慢[[Variable|变量]]追踪的[[Process Tracing|过程追踪]]规范，极大地丰富了比较历史分析的[[Causality|因果推断]]深度。
 > - **跨学科辐射** 其时间性理论被社会学、历史学、法学与组织理论广泛引用，成为反对“无历史的微观经济学帝国主义”的理论旗帜。
@@ -139,8 +129,6 @@ updated: 2026-10-22
 > - **理论对话者与批评者** [[Wolfgang Streeck]] — 施特雷克在《制度变迁的超越》中深入剖析皮尔逊的连续性偏误，揭示即使缺乏立法废止，制度也正通过漂移与层叠被实质瓦解。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

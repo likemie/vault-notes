@@ -68,11 +68,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Chris Freeman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名[[Evolutionary Economics|演化经济学]]家、创新经济学奠基人，萨塞克斯大学（University of Sussex）科技政策研究所（Science Policy Research Unit, SPRU）创建者兼首任所长（1966–1982），荷兰马斯特里赫特大学技术创新经济学与社会学创新研究所（MERIT）首任所长。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960s–1970s — 产业研发测量与工业创新经济学奠基** 批判新古典理论将技术变迁外生化的教条，聚焦企业微观研发投资、创新成功因素与技术扩散。
 >   - **代表著作** *The Economics of Industrial Innovation*（1974，工业创新经济学经典教材）；《[[Frascati Manual|弗拉斯卡蒂手册]]》（1963 奠基草案）。
@@ -118,9 +112,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 技术创新决非孤立发生在均质市场中的信息转移或资本堆积，而是由公共教育机构、产业研发组织、生产车间与政府部门嵌入在特定国家制度母体中的网络化集体学习过程；后发国家实现[[Technological Catch-up|技术赶超]]的关键，不在于消极顺从现存静态比较优势参与自由贸易，而在于通过国家战略协调前瞻性技术教育、[[Apprenticeship|学徒培训]]网络、企业内部研发实验室及高频供需互动，构建自主吸收与二次创新能力。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 5–8]], 16–21）
 
 > [!citation-card] 批判单一量化研发指标与线性思维
@@ -135,9 +127,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定国家[[Systems of Innovation|创新系统学派]]（[[National Innovation System|NIS]]），深刻启发了本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）、[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）与查尔斯·埃德奎斯特（Charles Edquist）的研究，促成创新研究从新古典生产函数转向制度演化框架。
 > - **方法路径** 倡导历史制度比较与质性机制追踪相结合的方法论，纠正片面依赖研发支出排行榜（GERD/GNP）的技术官僚倾向。
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（OECD）、[[EU|欧盟]]委员会及多国工业与科技政策，推动政策界从被动弥补“[[Market Failure|市场失灵]]”转向设计系统性国家创新战略与教育配套。
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从历史演进与思想史视角系统论证国家创新系统的不可替代性，跨国对比德、日、苏、东亚与拉美创新绩效。
 
 ---
-
-## 历史评价
 
 > [!citation-card] [[Carlota Perez]] 论[[Friedrich List|弗里德里希·李斯特]]传统的当代复兴者
 > 弗里曼最伟大的贡献在于他打破了经济学界长久以来的技术黑箱假定，将技术变迁的历史维度与社会制度结构的演进融为一体；他让经济学重新认识到，缺少了组织与制度的创新研究无异于缘木求鱼。（[[Argument_Freeman_1995_CJE|Freeman, 1995, p. 18]]）
@@ -165,8 +153,6 @@ updated: 2026-10-22
 > - **关联机构** 萨塞克斯大学科技政策研究所（SPRU）、[[OECD|经合组织]]（[[OECD]]）、马斯特里赫特大学（MERIT）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

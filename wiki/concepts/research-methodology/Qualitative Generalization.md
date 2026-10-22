@@ -35,8 +35,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Qualitative Generalization
-
 > [!info] 定义
 > 质性推广（Qualitative Generalization）是[[Qualitative Research\|质性研究]]中以有限方式使用的术语。质性探究的意图不是将研究发现推广到所研究的个体、场所或地点之外的其他人或情境（Gibbs, 2007）。质性研究的价值在于在特定场所情境中发展的详细描述和主题。特定性（particularity）而非推广性（[[External Validity\|generalizability]]）是优质质性研究的标志（Greene & Caracelli, 1997）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.215）。
 

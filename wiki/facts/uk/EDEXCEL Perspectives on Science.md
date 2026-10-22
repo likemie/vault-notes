@@ -38,11 +38,7 @@ created: 2026-07-05
 updated: 2026-10-22
 ---
 
-# EDEXCEL Perspectives on Science
-
 ---
-
-## 背景
 
 > [!event-context] EDEXCEL AS Perspectives on Science
 > - **时间地点** 英国，2004 年 11 月草案（EDEXCEL Level 3 AS GCE in History and Philosophy and Ethics）
@@ -51,8 +47,6 @@ updated: 2026-10-22
 > - **触发条件** 英国国家课程改革要求在科学教育中融入[[Nature of Science\|科学本质]]（NOS）和[[Critical Thinking\|批判性思维]]元素的背景下推出
 
 ---
-
-## 课程设计
 
 > [!contrast-table] 与 IB [[Theory of Knowledge\|TOK]] 的对比
 > | 维度 | EDEXCEL Perspectives on Science | [[Theory of Knowledge\|IB TOK]] |

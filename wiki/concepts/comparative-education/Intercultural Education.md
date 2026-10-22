@@ -60,11 +60,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Intercultural Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 跨文化教育（Intercultural Education）是让不同语言、宗教、族群与国家经验的学习者进入持续交往、平等对话与共同学习的教育理念和实践。在比较教育中，它把分析对象从国家制度间的静态对比，扩展到国界内外的文化配置（cultural configurations），并通过课程、教材、多语言支持和共同生活促进文化理解与社会参与。[[Argument_Mitter_2009_Europe|Mitter (2009, pp. 94, 97–98)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 跨文化教育与多元文化教育、经典比较教育关注不同层次
 > | 维度 | 跨文化教育 | 多元文化教育（Multicultural Education） | 经典比较教育（Comparative Education） |
 > | :--- | :--- | :--- | :--- |
@@ -93,8 +87,6 @@ updated: 2026-10-22
 > | **社会认同取向** | 在差异中寻求共同公民性与普适民主规则 | 巩固族裔文化自主性与文化保存 | 国家公民身份与国家[[Human Capital Theory\|人力资本]]竞争力 |
 
 ---
-
-## 核心要素
 
 > [!feature] 跨文化教育同时要改变分析对象、交往关系与制度条件
 > - **[[Unit of Analysis|分析单元]]转向文化配置** 研究不只比较主权国家的法律和政策，也分析课堂、学校与社区中语言、宗教和族群历史如何塑造认同与参与。
@@ -138,8 +130,6 @@ updated: 2026-10-22
 > [!claim] Sobe, N. W. & Fischer, J. M.
 > **跨文化教育的模式分化取决于空间流动与人口治理的动态配置** 西班牙在过去几十年中经历了从移民输出国向移民接收国的极速逆转，0–14 岁外籍学童在 2002 至 2006 年间增长逾一倍，且生源结构呈现高度分散与异质化（摩洛哥、拉美、东欧及[[EU|欧盟]]内部移居者），一线教师面临教授大批西班牙语能力有限学生的异质化班级挑战。在此背景下，西班牙学校采取了旨在“承认、接纳与赋权不同文化群体”的跨文化取向（intercultural approach）（Garcia & Molina, 2001; Santos, 1999）。Sobe & Fischer 将西班牙与中国（户籍排斥）和美国（宪法权利与登记监控）并置对比，证明移民教育与跨文化包容的空间政治并非固定铁律，而是个体、制度与合法/非规空间流动在特定场域中持续博弈与协商的产物。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -149,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 欧洲（特别是德国与南欧）跨文化教育学的学术史进程
 > - **1960–1970 年代　外籍劳工子女教育被理解为补救问题** 西德等国最初将外籍劳工子女教育视为临时语言补偿任务，带有文化同化与赤字假设（Deficit [[Hypothesis]]）。
 > - **1980 年代　批判同化模式并建立独立学术领域** 跨文化教育学（Interkulturelle Pädagogik）强调承认差异和双向反思；由于传统比较教育仍主要关注民族国家与冷战体制，两个领域在学术建制上一度分离。[[Argument_Mitter_2009_Europe|Mitter (2009, pp. 97–98)]]
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > - **2000 年代　南欧移民转型与新型跨文化取向兴起** 西班牙等南欧国家经历从移民输出国向接收国的剧变，面对拉美、东欧与北非高度异质化的生源，官方与学界推行旨在“承认与包容文化群体”的跨文化取向（Intercultural Approach），丰富了多元文化教育的欧洲地缘图景。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table] 实证考证与[[Student Mobility|学生流动]]数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -177,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] 法国国际选项为双文化衔接提供制度形式，却难以覆盖多国籍学校
 > 法国国际会考选项（[[International Option of the French Baccalaureate]]，OIB）把法国国家课程与另一种语言文化传统结合。这种结构对法英、法美或法西等明确的双边情境有价值，也能保留东道国资格的公共性。但在三四十个国籍共存的学校中，为每个文化群体建立双边分组既难以管理，也可能分割共同校园经验。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 190–191)]]
 
@@ -192,8 +176,6 @@ updated: 2026-10-22
 > 面对 2000 年代外籍学童在四年内暴增一倍、且生源涵盖拉美、北非、东欧及[[EU|欧盟]]多国的复杂现实，西班牙教育界未采取英美传统以英语补偿为导向的赤字同化路径，亦未采取类似中国的行政排斥，而是制度化推行“跨文化取向”（intercultural approach）（Garcia & Molina, 2001; Santos, 1999）。该模式在异质化班级中倡导对不同文化族群的主动承认与价值肯定，通过语言支持与多元文化活动促进融合。然而，这也使西班牙一线教师面临[[Language Skills|语言能力]]受限与跨文化教学培训不足的深层挑战，展现出空间治理与文化接纳相互交织的未定型动态格局。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -224,8 +206,6 @@ updated: 2026-10-22
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 考察西班牙面对移民结构剧变推行的跨文化取向（intercultural approach），揭示学校空间容纳与多元文化教育的治理张力。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 追踪比较教育与跨文化教育从建制分离到重新合流的过程，并将文化配置视为比较研究的重要分析对象。

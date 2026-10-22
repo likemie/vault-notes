@@ -56,11 +56,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Competitive Semiconductor Manufacturing Program
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **竞争性半导体制造项目（Competitive Semiconductor Manufacturing Program, CSM）** 是 1991 年由阿尔弗雷德·P·斯隆基金会（Alfred P. Sloan Foundation）资助、加州大学伯克利分校（University of California, Berkeley）工程学院、哈斯商学院（Haas School of Business）及伯克利国际经济圆桌会议（BRIE）联合发起建立的跨学科[[Industrial Benchmarking|产业标杆分析]]与[[Engineering Education|工程教育]]科研项目。项目旨在深入微观晶圆制造一线，通过跨国工厂实地调研与统一工程量化测算，厘清半导体制造生产率与良率差距的微观因果机制。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 115–118)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **核心问题导向** 回应 20 世纪 80 年代美国半导体产业在动态随机存取内存（DRAM）制造上遭受重挫的竞争力危机，打破仅停留在宏观资本成本与产业政策层面的抽象争论，探究制造工艺良率、产线自动化与组织管理实践对实际制造效率的微观影响。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 115–116)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 项目假设半导体制造的国际[[Competitiveness|竞争力]]差距根源于微观工程实践、[[Statistical Process Control|统计过程控制]]与组织学习能力的差异，而非不可逾越的国家文化或单一自动化设备投资；通过建立标准化的工厂层级度量与缺陷密度归一化模型，能够精准量化工艺排障效率与管理机制对晶圆良率的边际贡献。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–117)]]
@@ -91,16 +85,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1991–1993 — 一期调研与测量工具开发** 研发晶圆制造标杆测算模型与[[Questionnaire|问卷]]体系，完成对第一批 16 座美日欧晶圆厂的驻厂调研，发布首份全球半导体制造[[Competitiveness|竞争力]]基础报告，揭示美日微观良率差距的本质。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 115)]]
 > - **1994–1997 — 二期深化与亚微米制程追踪** 样本扩展至 30 余座先进晶圆厂，重点跟踪 0.7–0.9 微米及亚 0.5 微米先进 CMOS 逻辑与存储制程，发现美国领先逻辑晶圆厂在缺陷密度与劳动生产率上全面赶超日本同行。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 116–118)]]
 > - **1998–2000s — 理论结项、学术扩散与教材沉淀** 发布最终研究成果丛书与系列权威论文，微观标杆方法被半导体制造装备与材料国际（SEMI）、[[Sematech]] 及全美高等工程管理课程广泛采纳为标准教学[[Paradigm|范式]]。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（Sloan Foundation）** 阿尔弗雷德·P·斯隆基金会提供稳定经费资助，倡导将学术研究与产业实务深度结合的“行业研究”（Industry Studies）[[Paradigm|范式]]。
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > - **学术成果向产学双向反馈** 定期向参与企业提交个性化标杆对标诊断报告，同时提炼具有共性的制造科学原理向全行业公开发表。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **工艺质量与良率指标** 归一化晶圆缺陷密度（Defect Density per $cm^2$）、晶圆探针良率（Probe Yield, %）、每百万出厂缺陷数（Defective PPM）。
@@ -133,8 +121,6 @@ updated: 2026-10-22
 > - **60% vs 60% / 84% vs 87%** 0.7–0.9 微米与亚 0.5 微米逻辑制程中美日领先晶圆厂探针良率的收敛对齐。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 117)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

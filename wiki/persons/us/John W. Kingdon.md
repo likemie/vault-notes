@@ -58,11 +58,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# John W. Kingdon
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家，密歇根大学（University of Michigan）政治学荣休教授，美国文理[[Chinese Academy of Sciences|科学院]]院士，古根海姆学者。
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970年代 — 立法认知与投票行为微观分析** 关注代议制民主下政治行动者如何处理高度复杂的政策信息，发现议员高度依赖同僚信任网络与即时直觉，打破了古典全知理性假设。
 >   - **代表著作** 《国会议员的投票决策》（*Congressmen's Voting Decisions*, 1973）。
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 金登的核心思想彻底颠覆了传统的阶段论线性模型。他指出公共政策决策并非理性规划的工程步骤，而是在高度歧义性（Ambiguity）与有限注意力约束下运行的松散耦合系统。问题流（客观危机与统计指标）、政策流（学术专家储备的技术方案）与政治流（民意氛围与执政班子更迭）各自遵循独立的内在逻辑演进；唯有当偶发事件或政治契机撬开短暂的“[[Policy Window|政策之窗]]”时，具有高度能动性与耐心的“[[Policy Entrepreneur|政策企业家]]”才能迅速行动，将既有的现成方案与紧迫的危机问题强行锚定，并在政治流的庇护下完成三流耦合，最终推动议题跃上法定决策议程。
 
 > [!citation-card] 政策企业家的资源投入与倡导动机
@@ -124,8 +116,6 @@ updated: 2026-10-22
 > - **理论学术应用者** 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford） — 将金登模型与政策生命周期相结合，实证拓展其在[[Evidence-Based Education|循证教育]]改革中的应用边界。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术论战与理论边界
 >

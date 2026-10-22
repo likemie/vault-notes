@@ -34,11 +34,7 @@ created: '2026-05-17'
 updated: 2026-10-22
 ---
 
-# Stereotype Threat
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Aronson (2002) 提出的社会心理学概念：当个体意识到关于自身群体的负面刻板印象存在时，会产生额外的情感与认知负担（extra emotional or cognitive burden），进而导致"去认同化"（disidentification）——即对该领域失去兴趣、动机和投入——最终刻板印象成为"自我实现的预言"（self-fulfilling prophesy），证实了原本错误的预期([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, p.44]])。
 
 > [!quote|notitle]

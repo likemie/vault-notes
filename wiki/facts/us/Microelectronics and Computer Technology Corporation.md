@@ -53,11 +53,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Microelectronics and Computer Technology Corporation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, MCC）** 是美国于 1982 年由 10 余家主要半导体与计算机巨头联合组建的首个大型私营高技术研发联合体。MCC 旨在通过企业联合出资与集中攻关，应对[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）主导的[[VLSI Project|超大规模集成电路项目]]与[[Fifth Generation Computer Systems|第五代计算机计划]]（ICOT），是美国高技术产业反思反垄断限制、探索竞争前联合研发的制度先驱。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286, 293–294)]]
@@ -70,16 +66,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1982–1983 — 破冰创设与各州激烈竞标选址** 诺里斯联合 AMD、DEC、Harris、Honeywell、Motorola、NCR、National Semiconductor、RCA、Sperry 等巨头创设 MCC，聘请博比·英曼（Bobby Inman）出任首任 CEO；全美数十个州展开激烈的产业政策总部争夺战，得克萨斯州长马克·怀特（Mark White）以承诺由州政府全资新建大学级微电子研究中心（[[Meta-Representational Competence|MRC]]）为筹码，最终击败亚特兰大、圣地亚哥与三角研究园等强劲对手，将 MCC 成功锁定在奥斯汀。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 293–294)]]
 > - **1984–1992 — 治理困境与向副会员制转型** 由于宏大长周期项目难以满足各成员多样化的短期商业诉求，且成员企业不愿派遣顶级技术骨干，MCC 于 1984 年修订章程允许设立“副会员（Associate Members）”机制，转向由特定成员子群出资的定制化短期项目组合。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 728, 752)]]
 > - **1993–2000 — 开放网络扩张与组织解体** 1993 年增设小企业与大学合作会员；随着成员扩展至 22 家股东与 47 家副会员，MCC 逐渐退化为松散的合同研发中介；由于缺乏大学多学科近邻的转型灵活性，随着 1990 年代纯微电子硬件退潮，最终于 2000 年代初因资金匮乏停止运营。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 752)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 296–298)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **股东董事会（Shareholder Board）** 由认购初始股权的核心成员企业高管组成，行使最高治理与重大战略立项决策权。
@@ -94,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **先进封装与互连技术（Packaging/Interconnect）** 成功开发多芯片组件（MCM）与倒装芯片（Flip-chip）封装测试规范，被广泛采用于高端服务器与国防硬件。
 > - **超大规模集成电路 CAD 工具套件** 研发跨厂商的芯片自动化设计与电路仿真算法，为后来商用 EDA 软件奠定了算法基础。
@@ -109,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **经费与会员规模** 1983–1990 年间累计投入研发经费超过 **3 亿美元**；全盛期吸纳 **22 家** 股东企业与 **47 家** 副会员企业。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726, 752)]]
 > - **区域经济催化效应** MCC 的落户直接带动了奥斯汀从得克萨斯大学所在地跃升为全美瞩目的高科技“硅丘”（Silicon Hills），促成了随后 [[Sematech]] 的选址奥斯汀及戴尔（Dell）等硬件巨头的崛起。
@@ -122,8 +110,6 @@ updated: 2026-10-22
 > - **为 Sematech 提供反面镜鉴** 其在派驻人员素质不高、缺乏纵向供应链协同及纯私营资金不稳等方面的教训，直接启发了 Sematech 采取“公私对等出资+高管亲自派驻+聚焦纵向设备商”的制度设计。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 751–754)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

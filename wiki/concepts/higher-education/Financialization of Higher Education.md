@@ -32,8 +32,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Financialization of Higher Education
-
 > [!info] 定义
 > 高等教育金融化（Financialization of Higher Education）由 Eaton et al.（2016）系统提出，指高等教育的收入来源和支出策略日益由金融机制主导的趋势。这一概念涵盖三个核心层面：大学的借贷和基于捐赠基金的投资、学生贷款及其利息支付、以及营利性高等教育的利润获取。2003 至 2012 年间，美国高等教育中"机构债务利息、营利性机构的运营利润和学生贷款利息的综合实际成本增加了一倍以上"，而这些"上升的金融成本远远超过了增加的金融回报"(Eaton et al., 2016, p.2, p.23f; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.800–801]])。
 
@@ -44,8 +42,6 @@ updated: 2026-10-22
 > - **学生贷款市场** 学费上涨与联邦贷款扩张相互强化，学生贷款已成为大型金融市场——贷方从学生支付的利息中获利([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.801]])
 > - **营利性高等教育的扩张** 营利性院校的运营利润是高等教育金融化的核心组成部分，这些机构常以高昂费用出售质量存疑的项目([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.796]])
 > - **公共资金的隐性补贴** 美国联邦学生贷款和拨款实际上大量补贴了营利性高校的增长——公共资金承担风险，私人机构获取利润(Douglass, 2012; Mettler, 2014; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.797]])
-
-## 量化趋势
 
 > [!info] 核心数据（美国）
 > - 2003 至 2012 年间，美国公立[[Research Universities|研究型大学]]中州政府拨款占比下降了近一半，而学费收入占比——通常由联邦贷款和拨款支撑——几乎翻倍(American Academy of Arts and Sciences, 2016, p.9; [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.800]])

@@ -51,12 +51,9 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Feedback Literacy
 （反馈素养）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 反馈素养（[[Feedback]] Literacy）是指学习者在具体教学与实践情境中，有效理解、评估并利用来自多元渠道的反馈信息以促进自身认知与学业改进所必需的综合胜任力、心理倾向与行动能力（Carless & Boud, 2018）。在人工智能中介的学习生态中，反馈素养不仅体现为对评语信息的被动吸收与文字修改，更要求学习者在面对算法生成的表面流利评议时，维持情绪自省，独立运用[[Evaluative Judgement\|评价性判断]]甄别建议有效性，并将其转化为有理论支撑的修改决策与反思辩护。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5, 9)]]
@@ -83,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 反馈素养与相近评价与能力[[Construct\|构念]]辨析
 > | 比较维度 | **反馈素养（[[Feedback]] Literacy）** | **[[Evaluative Judgement\|评价性判断]]** | **[[AI Literacy\|人工智能素养]]** | **机械顺从（Passive Uptake）** |
 > |---|---|---|---|---|
@@ -95,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **理解与重视反馈（Appreciating [[Feedback]]）** 深刻领悟反馈的本质是持续展开的社会化对话与探究过程，超越分数与等级评定的狭隘视角；主动建立多渠道反馈收集意识，接纳同伴评议、教师面谈及数字工具评语的多重视角。Carless and Boud (2018, pp. 1318–1320)
 > - **做出评价判断（Making Judgments）** 依靠自身积累的学科专业规范与[[Evaluative Judgement\|评价性判断]]能力，审视外部反馈的合理性与证据支持度，准确诊断当前表现与卓越标准之间的真实差距。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 5)]]
 > - **管理情绪与情感（Managing Affect）** 觉察批评性反馈引发的认知失调、防御心理或挫败焦虑，保持平稳理性的情绪平衡（Emotional Equilibrium），克服对负面评语的防御性抵触，同时戒除对权威算法或高威信评价者的盲从顺应。Carless and Boud (2018, pp. 1320–1321)
@@ -142,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -159,8 +150,6 @@ updated: 2026-10-22
 > - **2024–2026 年 — [[Man-Computer Symbiosis|人机共生]]环境下的认识防御与教学法重塑** 伴随[[Generative Artificial Intelligence\|生成式人工智能技术]]的普及，[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 等学者将反馈素养提升至社会[[Epistemology\|认识论]]与学习科学交汇的高地，确立其为破除大模型自动化依赖、捍卫学习者[[Epistemic Agency\|认识主体性]]的核心策略支撑。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

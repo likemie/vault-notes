@@ -184,11 +184,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# Generative Artificial Intelligence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 生成式人工智能（Generative Artificial Intelligence, GenAI）指以 Transformer、自回归大语言模型（Large Language Model, LLM）及多模态扩散模型（Diffusion Models）为基础架构，能够依据自然语言提示（Prompts）动态生成连贯文本、程序代码、多维图像、音视频及复杂合成制品的计算技术系统。
@@ -244,8 +240,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 四类教育技术形态的技术架构、认知交互与教学定位辨析
 > | 比较维度 | 判别式 / 预测性 AI | 传统[[Intelligent Tutoring Systems\|智能导师系统]]（ITS） | 传统搜索引擎与信息检索 | **生成式人工智能（GenAI）** |
 > |---|---|---|---|---|
@@ -258,9 +252,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **概率性语义表征与能力[[Emergence\|涌现]]（Emergence & Representation）** 基于海量人类语料的自注意力机制，展现出跨学科模式识别、体裁迁移与概念重组能力，为开放探究提供即时知识连接。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **共生学习伙伴关系与共享[[Epistemic Agency\|认识主体性]]（Symbiotic Learning Partnership & Shared Epistemic Agency）** 将生成式 AI 确立为与学习者协同构建知识的共生伙伴；认识主体性在人机协作网络中动态分布，由人类把控探究目标、设计引导提示并实施证据裁决。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 > - **提示词工程与对话式[[Scaffolding\|认知脚手架]]（Prompt Scaffolding）** 将自然语言提示作为人机交互与思维[[Externalization\|外化]]的界面，通过[[Role-playing\|角色扮演]]（Role-playing）与[[Chain-of-Thought Prompting\|思维链]]（Chain of Thought, CoT）提示指令，动态调整技术对[[Zone of Proximal Development\|最近发展区]]的支持力度。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 10)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
@@ -306,9 +298,7 @@ updated: 2026-10-22
 
 ---
 
-### 常用 AI 工具导航
-
-> [!index-table|notitle] 常用 AI 工具导航
+> [!index-table] 常用 AI 工具导航
 > | 工具 / 模型 | 说明与特征 |
 > |---|---|
 > | [ChatGPT](https://chatgpt.com) | OpenAI 研发的旗舰对话与多模态生成大模型；支持代码执行、高级数据分析、多模态交互与深度推理 |
@@ -433,8 +423,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -462,8 +450,6 @@ updated: 2026-10-22
 > - **2025–2026 — 国家地缘科技战略核心与技术型契约锚点** 生成式 AI 从产业与学术探索全面上升为大国竞争与国家安全战略中枢。美国出台“AI 行动计划”与“[[Genesis Mission|创世纪计划]]”，将赢得 AI 竞赛确立为联邦科技政策的最高正当性叙事，推动二战后传统科学契约向[[Technology-Oriented Social Contract|技术型社会契约]]深刻转型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -535,8 +521,6 @@ updated: 2026-10-22
 > - **[[Publication Bias\|发表偏倚]]虚高与真实效应收敛** 现有文献存在显著的“抽屉效应”与自编测验效应虚高（自编测验 $g^+ = 1.022$ vs 标准化量表 $0.614$），经[[Trim and Fill Method\|剪补法]]严密校正后总体真实[[Effect Size\|效应量]]收敛为中等偏小的客观基准（$g^+ = 0.321$），警示学界与决策者摒弃盲目技术狂热。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 13–14)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

@@ -35,11 +35,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Naming and Shaming in Education Governance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教育治理中的点名羞辱机制（Naming and Shaming in Education Governance）** 是指超国家国际组织在缺乏法定科层行政权力与直接经济制裁手段的情境下，依托大规模跨国标准化成就测验（如 [[PISA]]）公开发布联赛排行榜（League Tables），将参测主权国家明确区分为“优胜者”（Winners）与“落后者”（Losers）；进而借助大众媒体的议程设置与危机夸大，在落后国家内部引爆公众声誉危机与政治问责恐慌，迫使主权国家政府为了挽回国际形象与国内合法性而主动开启重大教育体制改革的非强制性声誉合规技术。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270, 274–275)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > | **主要后果** | 引发国家级政策震荡（如 PISA 冲击） | 启动法定问责或司法诉讼程序 | 渐进式微调教学与行政业务规程 |
 
 ---
-
-## 核心要素
 
 > [!feature] 点名羞辱机制的三重运作逻辑
 > - **二元标签划分（Winners vs. Losers）** 借助统一折算的连续分值与排行榜，将原本错综复杂的各国内部教育表现简化为单一的相对排位，赋予排头国家“教育奇迹/政策楷模”与中下游国家“落后失能/系统危机”的醒目标签。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270, 274)]]
@@ -118,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -135,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 象征性恐慌与仓促应对的政策失焦
@@ -149,8 +139,6 @@ updated: 2026-10-22
 > 点名羞辱机制的威力建立在一国高度融入国际声誉体系且存在多元自由媒体舆论环境的前提之上；对于媒体受到严密管制的封闭系统或对西方国际指标持对抗态度的国家，排位羞辱不仅无法激发自省，反而会被转译为外部意识形态攻击，从而失效。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

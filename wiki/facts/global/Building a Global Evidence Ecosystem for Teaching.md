@@ -62,11 +62,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Building a Global Evidence Ecosystem for Teaching
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”（Building a Global Evidence Ecosystem for Teaching）** 是英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与跨国矿业资源寡头必和必拓旗下基金会（[[BHP Foundation]]）于 2018 年联合发起的五年期跨国教育伙伴项目。该项目旨在通过企业慈善资本的战略注入，将英国本土成型的因果证据评价[[Paradigm\|范式]]与中介网络全球化输出，支持包括澳大利亚、拉美与欧洲在内的多国建立本土化“[[Educational Brokerage Agency\|证据经纪人]]”（evidence brokers）（Collins, 2018；Edovald & Nevill, 2021；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]）。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **全球网络平台** 2023 年正式升格组建“[[Evidence for Education Network\|教育证据网络]]”（Evidence for Education Network, EEN），官方门户为 [https://evidence.education](https://evidence.education)。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 该项目预设：通过将 [[Education Endowment Foundation\|EEF]] 经过英国数千所学校检验的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及严谨[[Counterfactual\|反事实]]评估标准，依托跨国中介枢纽向海外体系授权并进行本土语境化调整，能够以极低边际成本加速全球学校教学效能提升，打破传统由大学主导的散漫科研[[Paradigm\|范式]]（Collins, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]）。
@@ -97,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2018 — 伙伴协议签署与全球启动** [[Education Endowment Foundation\|EEF]] 与 [[BHP Foundation]] 正式签约启动项目，由 EEF 首席执行官 [[Sir Kevan Collins]] 挂帅，确立面向澳大利亚、智利等国的全球扩展蓝图（Collins, 2018；Edovald & Nevill, 2021）。
 > - **2018–2020 — 澳洲样板深化与 [[Australian Education Research Organisation\|AERO]] 催化** 借助该项目资金与技术输出，澳大利亚 [[Social Ventures Australia\|SVA]] 旗下的[[Evidence for Learning\|证据学习中心]]（E4L）加速推广澳洲版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等公立学区展开试验，为后续澳大利亚联邦设立国家级 AERO 提供了最核心的实践样板与舆论铺垫（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **2026 — 独立评估终审报告发布（NatCen, 2026）** 英国国家社会研究中心（NatCen）于 2026 年 1 月 22 日正式发布最终独立评估报告《Building a global [[Evidence Ecosystem]] for teaching: Evaluation – Final report》，系统确立了项目在工具本土化使用与证据动员方面的全球成效，并指出后资助时代的可持续性维持、地方政府政治认同（buy-in）以及本土干预成熟度储备是全球证据生态面临的最核心现实挑战。
 
 ---
-
-## 政策影响与批判性审视
 
 > [!debates] 核心学术反思
 >

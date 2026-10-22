@@ -51,11 +51,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# America COMPETES Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2007 年 8 月由美国国会通过并由乔治·W·布什总统签署（Public Law 110-69）；2010 年 12 月由巴拉克·奥巴马总统签署再授权法案（America COMPETES Reauthorization Act of 2010, Public Law 111-358）。
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **制度位置** 承接冷战后科技政策传统，是《[[CHIPS and Science Act|芯片与科学法案]]》（2022）出台前美国规模最大、跨党派共识最广泛的全国性科技与人才立法范本。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《美国竞争法案》（America COMPETES Act）以“为有意义地促进卓越技术、教育与科学创造机会”为宗旨，通过法律授权将国家科学基金会、能源部科学办公室及国家标准与技术研究院的科研预算在十年内翻番，并全方位资助 [[STEM Education|STEM]] 教师培养与跨学科前沿探索；但受制于两阶段财政体制，面临严重的拨款落空风险。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
@@ -83,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 政策时间线
-
 > [!timeline] 立法与执行轨迹
 > - **2005 年** [[National Academy of Sciences|美国国家科学院]]、工程院与医学院联合工作组发布《[[Rising Above the Gathering Storm 2007|迎接风暴]]》报告，直接催生两党科技立法共识。
 > - **2007 年** 美国国会以绝对多数表决通过《美国竞争法案》（America COMPETES Act of 2007），正式授权 336 亿美元科技与教育支出。
@@ -93,8 +85,6 @@ updated: 2026-10-22
 > - **2022 年** 《[[CHIPS and Science Act|芯片与科学法案]]》通过，汲取《竞争法》历史经验教训，重塑现代产业科技资助格局。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 
 ---
-
-## 效果与评价
 
 > [!finding-cards] 实施成效与制度反思
 > - **制度创新的深远遗产** 成功推动设立了高级能源研究计划署（[[DARPA|ARPA]]-E），为美国探索去中心化高风险绿色前沿颠覆性创新提供了制度原型。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **10 yr** 法案最初规划实现 [[National Science Foundation|NSF]] 与 [[Department of Energy|DOE]] 科学办公室基础科研预算翻倍的时间跨度。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议与体制反思
 >

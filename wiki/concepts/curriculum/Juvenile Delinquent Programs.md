@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Juvenile Delinquent Programs
-
 > [!metax] [青少年犯罪矫治项目 · Juvenile delinquent programs](https://www.visiblelearningmetax.com/influences/view/juvenile_delinquent_programs)
 > 课程 › 其他课程项目
 >

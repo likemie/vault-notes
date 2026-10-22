@@ -30,8 +30,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Cooperative Education
-
 > [!info] 定义
 > 合作教育（cooperative education，简称 co-op）是一种结构化教育模式，将学生的课堂学术学习与有薪、与专业相关的产业工作经验交替进行。学生在学期间轮流进入学术学期（academic terms）和工作学期（work terms），使理论学习与实践应用相互强化。
 

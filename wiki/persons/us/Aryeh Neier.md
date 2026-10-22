@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Aryeh Neier
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍犹太裔著名人权与民权活动家、法学家，美国公民自由联盟（American Civil Liberties Union, ACLU）前执行总监（1970–1978）、人权观察（Human Rights Watch, HRW）联合创始人、开放社会研究所（Open Society Institute）前所长。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970年代 — 第一修正案的[[Hard Belief|硬信念]]与法律程序正义** 面对冷战与民权时期的极化撕裂，确立了宪法言论自由的普适性原则，反对任何基于政治观点或道德厌恶而赋予国家的审查特权。
 >   - **代表著作** *Defending My Enemy: American Nazis, the [[Skokie Free Speech Case|Skokie case]], and the Risks of Freedom* (1979)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 57)]]
@@ -83,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 阿里耶·内尔强调，真正的自由主义信念并非毫无代价的情感宣泄，而是一种明知会遭受公众唾骂与组织损失却依然甘愿承担风险的“[[Hard Belief|硬信念]]”（Hard Belief）。言论自由的最严苛考验恰恰在于保护那些我们深恶痛绝的敌人的发声权利；一旦允许国家以防范极端观念为由行使审查特权，这种不受约束的权力最终必将反噬所有人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
 
 ---

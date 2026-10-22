@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Thomas D. Seeley
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国生物学家、行为生态学家与社会生物学家；康奈尔大学神经生物学与行为学系名誉教授，美国文理[[Chinese Academy of Sciences|科学院]]院士，曾获德国亚历山大·冯·洪堡高级研究奖。
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **2002–2010** 与德国同行合作撰写[[Martin Lindauer|林道尔]]学术传记，并在普林斯顿大学出版社出版代表作《蜜蜂的民主》，通过高帧率红外摄像与标记实验全面证实了蜂群协商的数理模型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–116)]]
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 代表性著作
 > - **1995 — *The Wisdom of the Hive: The Social Regulation of Honey Bee Colonies*** 系统阐述蜂巢内部劳动分工、信息反馈与采集调控的分布式反馈网络。

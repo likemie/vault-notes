@@ -46,8 +46,6 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# Inclusive Evidence Validation Typology
-
 > [!info] 定义
 > 包容性证据验证类型学是 Dachet and Baye 在法语比利时[[Pact for Educational Excellence\|教育卓越公约]]工作中建立的研究设计分类框架。它用于整理教学工具/项目的证据基础，把专家验证、[[Case Study\|案例研究]]、横断研究、相关或[[Longitudinal Study\|纵向研究]]、实验和准[[Experimental Research\|实验研究]]放在同一连续框架内，同时为每类方法设置最低质量标准([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.175-178]])。
 
@@ -65,9 +63,7 @@ updated: 2026-10-22
 - 相关或[[Longitudinal Study|纵向研究]]验证：[[Correlational Research|相关性研究]]适合建模自然环境中变量之间的关系；纵向研究通过重复测量观察变化，但不一定使用控制组，[[Pre-test and Post-test|前测]]/后测无控制组研究也被放入此类([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.177]])。
 - 实验与准[[Experimental Research|实验研究]]验证：实验和[[Quasi-Experimental Designs|准实验设计]]通过实验处理与控制处理之间的比较来评估工具/项目效果；[[Randomised Controlled Trials|RCT]] 依赖[[Random Assignment|随机分配]]避免选择偏差，匹配准实验则要求控制组在尽可能多的维度上与实验组可比([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.177-178]])。
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > 该类型学服务两个目标：一是让工作组能够按证据水平整理候选工具/项目，二是为不同方法路径定义最低标准，包括质性方法的最低标准([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.178]])。
 
 > [!info] 核心数据

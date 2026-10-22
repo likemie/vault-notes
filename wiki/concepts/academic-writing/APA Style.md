@@ -32,9 +32,6 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# APA Style
-
-## 定义
 
 > [!def] APA 格式（APA Style）
 > APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文文献引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
@@ -49,8 +46,6 @@ updated: 2026-10-22
 > - 不等于 Chicago 格式（Chicago Manual of Style）与 MLA 格式（Modern Language Association） — Chicago 支持脚注/尾注文献体系，MLA 侧重人文学科的作者-页码制（Author-Page）；APA 采用“著者-出版年”（Author-Date）制，强调出版时间在社会科学知识累积中的时效性。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 主流学术引用与著录规范辨析
 > | 维度 | APA Style（第7版） | [[GB/T 7714-2015]] | Chicago Style（第17版） | MLA Style（第9版） |
@@ -118,8 +113,6 @@ APA 第7版对论文的各级标题格式进行了统一规范，建立了清晰
 > | **Level 5** | 缩进 0.5 英寸 | ***粗斜体***，标题首字母大写 | **以句号结尾** | 正文**接在句号后同段排版** |
 
 ---
-
-### 常见文献类型著录模板与示例
 
 > [!proc] 核心文献类型标准著录模板
 > 
@@ -200,8 +193,6 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 
 ---
 
-### 命题总览
-
 > [!contrast-table] APA Style 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者/机构 |
 > |---|---|---|---|
@@ -209,8 +200,6 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 > | **伦理自觉与平等建构** | 规范包容性语言与中立表述，消除研究偏见与标签化 | 质性/[[Quantitative Research\|量化研究]]表述、参与者描述、政策报告 | APA (2020) |
 
 ---
-
-## 争议与批评
 
 > [!warning] 频繁改版的迁移成本与工具依赖
 > - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有文献数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。

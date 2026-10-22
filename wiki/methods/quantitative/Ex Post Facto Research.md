@@ -52,11 +52,8 @@ status: draft
 created: 2026-07-12
 updated: 2026-10-22
 ---
-# Ex Post Facto Research
 
 ---
-
-## 定义
 
 > [!def] 事后回溯研究的定义
 > 事后回溯研究（ex POST facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的因果因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable\|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable\|自变量]]（IV），然后通过假设、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，[[Causality\|因果推断]]属于概率性因果关系的范畴（p.304）。
@@ -73,8 +70,6 @@ updated: 2026-10-22
 > *Ex post facto research is that in which the independent variable or variables have already occurred and in which the researcher starts with the observation of a dependent variable or variables. She then studies the independent variable or variables in retrospect for their possible relationship to, and effects on, the dependent variable or variables.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 事后回溯研究属于概率性[[Causality\|因果推断]]传统，承认无法确定性地证明因果关系；因果推断是试探性而非结论性的（p.304）。
@@ -142,8 +137,6 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 更严格的实验方法不可行时：自[[Variable\|变量]]超出研究者控制时；实验室控制不切实际、成本过高或不符合伦理时；特别是在社会、教育和心理情境中[[Independent Variable\|自变量]]通常无法被操纵时（p. 310）。
 > - **谨慎使用** 简单因果-效应关系探索；变量之间的相关较强且替代解释可被排除时；拥有大型公共数据库可供分析时（Ayres, 2008）；作为[[Experimental Research\|实验研究]]的预备探索阶段生成假设时。
@@ -158,8 +151,6 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 > - Arnold and Atkins（1991）小样本研究听障学生的社会与情感适应
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 缺乏对自[[Variable\|变量]]的控制（核心弱点）；无法[[Random Assignment\|随机分配]]；回溯数据受历史证据的弱点和偏差影响；假设可以从同一数据中获得多个甚至相互矛盾的支持（p. 308）；[[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]（POST hoc, ergo propter hoc）——仅因一个变量在时间上先于另一个，不意味着前者引发了后者（Cohen & Nagel, 1961）（p. 309）。
@@ -179,8 +170,6 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 > | [[Experimental Research]] | 方法 | 事后回溯研究是准实验的一种形式，介于描述性研究与真正实验之间（Spector, 1993, p. 42）（p. 305）。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 论述事后回溯研究的定义、类型、适用时机与优劣，并以 Morrison（2009）的[[Effective Teaching\|有效教学]]研究为例；其概率性因果与[[Counterfactual\|反事实]]基础见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Ch. 4]]。

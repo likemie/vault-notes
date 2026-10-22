@@ -48,11 +48,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Docentemás
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 智利教师专业表现评估系统（Sistema de Evaluación del Desempeño Profesional Docente，通称 Docentemás）是智利面向全国市镇公立学校教师建立的常态化专业评价项目。该项目于 2003 年由中央政府与全国教师工会协商达成框架协议，标志着教师考评正式被纳入国家宏观教育问责框架。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对 1980 年代[[Educational Privatisation|教育私有化]]改革后教师职业地位边陲化与公立教育质量滑坡问题，为建立基于专业标准的教师职业晋升阶梯提供实证依据。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 260)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 依据国家《优良[[Framework for Teaching|教学框架]]》（Marco para la Buena Enseñanza）设定的专业标准，通过多维度证据组合对教师教学实践开展诊断式测评，并将结果分为四个等级，通过将评价结果挂钩薪酬激励、专业进修与离职淘汰机制驱动教师自主反思与专业发展。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
@@ -83,16 +77,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2000–2003 — 劳资博弈与标准确立期** 政府颁布《优良[[Framework for Teaching|教学框架]]》，教育部、全国市镇协会与智利全国教师工会展开长达三年的联合谈判，达成三方共识。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **2004–2015 — 机制确立与常态施测期** Docentemás 在全国公立学校全面落地，形成四年一轮的周期性循环，评定等级直接挂钩可变薪酬津贴及低绩效淘汰程序。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 > - **2016–至今 — 教师职业体系并轨整合** 智利颁布第 20.903 号法律建立全新《教师专业发展体系》（Sistema de Desarrollo Profesional Docente），Docentemás 与学科知识测验正式整合为决定全国教师专业晋升与薪资阶梯的核心法定支柱。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257, 260)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层领导与政策制定** 智利教育部（MINEDUC）下属教师教研与专业[[Innovation Hub|创新中心]]（CPEIP），负责统筹考评大纲并拨付保障经费。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **四级定性分流** 评估结果分为“卓越”（Destacado）、“称职”（Competente）、“基础”（Básico）与“不满意”（Insatisfactorio）。连续两届被评为不满意的教师将被强制终止公立学校教职。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **专业表现等级分布** 各学段教师在四个评定等级的百分比分布。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > - **4** 年一次公立学校在岗教师法定强制循环评价周期。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 260)]]
 
 ---
-
-## 争议与制度反思
 
 > [!debates] 项目争议
 >

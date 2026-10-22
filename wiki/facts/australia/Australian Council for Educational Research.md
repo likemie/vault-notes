@@ -51,11 +51,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Australian Council for Educational Research
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **澳大利亚教育研究委员会（Australian Council for Educational Research, ACER）** 是澳大利亚独立的全国性非营利教育研究与测评专业机构。ACER 在全球范围内主导国际大规模学生能力测评的技术开发，并在本国教育治理中承担关键的标准化考试运营与政策中介职能。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 197)]]; [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
@@ -68,16 +64,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1930–1990 — 创设奠基与国家教育研究中枢** 在卡内基基金资助下建立，长期承担澳大利亚中小学课程评估、智力测验与心理测量量表的本土研制，确立其在全国教育统计与实证研究领域的权威中枢地位。
 > - **1990s–2010 — 跨国扩张与全球测评技术垄断** 1990 年代起赢得[[OECD|经合组织]]（OECD）试题研发合同，牵头跨国联合体主导[[PISA|国际学生评估项目]]（PISA）的命题、设计与实施，并在[[TIMSS|国际数学与科学趋势研究]]中承担关键分析合同。ACER 借此重塑了全球大规模测评的专业知识中枢，但也因长期包揽跨国测评高额合同，引发欧洲国家对其技术垄断与资金外流的强烈抗议。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 197)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 > - **2015–至今 — 教师教育问责与本土中介商业化** 2015 年澳大利亚政府采纳[[Teacher Education Ministerial Advisory Group|教师教育部长顾问小组]]（TEMAG）改革建议，决定推行全国统一准入考核；ACER 获授权独家研发并运营管理[[LANTITE|初始教师教育学生读写和算术测试]]（LANTITE），成为职前教师准入的法定“[[Gatekeepers|守门人]]”，并借此获得稳定的商业化运营收入。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会）** 由资深教育学者、行业领袖与前教育官员组成独立理事会，负责制定机构发展战略并监督财务与法律合规。
@@ -92,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **跨国大规模学生测评（PISA、TIMSS）** 牵头组建国际测评联合体，长期承担 OECD [[PISA]] 的试卷设计、[[Test Production|试题研发]]、问卷调查与数据分析合同，并深度参与 IEA [[TIMSS]] 等项目的技术分析。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 197)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 > - **教师专业准入统考（LANTITE）** 受澳大利亚联邦政府委托独家运营初始教师教育学生读写和算术测试，考核全部职前教师在读写与算术维度的基本素养，将其作为准予毕业与注册从教的强制前提。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
@@ -107,16 +97,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **确立全球测评专业知识技术中枢** 通过深度主导 PISA 试题开发与实测流程，ACER 推动了跨国大规模学生能力测评技术的范式固化，重塑了全球基础教育指标的量化生产逻辑。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 197)]]
 > - **职前教师“守门人”地位确立** 凭借对 [[LANTITE]] 统考命题、通过线与评分标准的独立控制，ACER 实质上获得了决定在校职前教师能否获得毕业从教资格的守门权力。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 > - **中介机构的商业红利与政策锁定** 每年稳定从 LANTITE 统考运营中获得约 370 万澳元的营业收入，使教育问责制在客观上形成了对非政府中介组织商业化运作的路径依赖。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

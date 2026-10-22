@@ -41,11 +41,7 @@ created: '2026-05-04'
 updated: 2026-10-22
 ---
 
-# Cognitive Shifting
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知转换（Cognitive Shifting），亦称[[Cognitive Flexibility\|认知灵活性]]（Cognitive Flexibility）或任务切换（Task Switching），是[[Executive Function\|执行功能]]的核心成分之一，指在多个不同任务、操作或心理集之间来回切换的能力。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]）
@@ -59,8 +55,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 转换成本（Shift Cost）的两个测量成分
 > - **反应时间** 变慢表明个体继续使用切换前的旧规则。
 > - **准确率** 下降表明个体继续使用切换前的旧规则。
@@ -68,8 +62,6 @@ updated: 2026-10-22
 > 转换能力通常与执行两个或多个简单"决策"任务并在特定线索或顺序下切换的能力相关；转换相关的错误表现为参与者无法抑制之前的规则集并继续应用它们。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]）
 
 ---
-
-## 测量方式
 
 > [!ref-table]- 常用测量工具
 > | 工具 | 说明 |
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > 认知转换（灵活性）是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共同依赖的[[Executive Function\|执行功能]]成分之一（连同抑制与[[Working Memory\|工作记忆]]，Benedek et al., 2012, 2014），构成两者正相关的认知基础之一。（pp. 2–3）
 
 ---
-
-## 发展轨迹
 
 > [!dev-timeline] 认知转换的发展轨迹
 > - **2–7 岁快速发展** 认知转换在 2–7 岁之间快速发展（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 10]]）。

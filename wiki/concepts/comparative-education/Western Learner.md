@@ -60,8 +60,6 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Western Learner
-
 > [!info] 定义
 > 西方学习者（Western Learner）是 Li 基于对西方知识传统的追溯所提炼出的学习者模型——呈现于 Figure 2.1([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-36]])。Li 指出，在西方哲学传统中，"学习者作为一个整体的人并没有占据哲学辩论的突出位置——大多数思想家没有写太多关于学习者作为整全的人的内容，而是聚焦于心智"。但通过对西方教育思想史的梳理，她仍能辨识出四个核心的学习者特征与过程([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-35]])。
 
@@ -108,9 +106,7 @@ updated: 2026-10-22
 > [!abstract] 心智导向的学习过程
 > Li 在第 4 章中进一步详细描述了西方学习者在实际学习中遵循的四个关键过程，它们共同构成了 Figure 4.1 的"[[Mind-Oriented Learning Process\|心智导向学习过程]]"模型([[Argument_Li_2012_Cambridge\|Li, 2012, pp.108-124]])。这四个过程不是孤立的步骤，而是一个相互增强的系统——每个过程强化其他过程。
 
-### 1. 主动参与（Active Engagement）
-
-> [!info|notitle]
+> [!info] 1. 主动参与（Active Engagement）
 > 主动参与是 Li 从英语学习词汇研究中提取的**第一大类别**的具体学习过程([[Argument_Li_2012_Cambridge\|Li, 2012, pp.108-110]])。典型词汇包括：*[[Active Learning]], hands-on, learn by doing, trial and error, practice, study, training, work*——这些都是可观察的学习者实际行为。当学习者被描述为"主动参与"时，他们是"在身体上在场，经常是手和身体——而不仅是心智——完全投入"的([[Argument_Li_2012_Cambridge\|Li, 2012, p.108]])。
 
 > [!example] 主动参与的三种常见形式
@@ -123,9 +119,7 @@ updated: 2026-10-22
 > [!tip] 西方学前教育的典范
 > Li 特别指出 Montessori 学校、受 Dewey 哲学启发的学校（如 Shady Hill School and Putney School）、以及 Reggio Emilia 学前教育——这些学校对"儿童作为主动学习者的本质"的强调，令非西方（甚至西方）访客感到震撼。儿童"用他们的感官、好奇心、经验和对周围世界的问题"来学习——雨后踩进水坑引出对水和镜子如何反射事物的研究；研究超市这样的现代人造环境，收集信息、采访经理和顾客、提出改进建议([[Argument_Li_2012_Cambridge\|Li, 2012, pp.109-110]])。
 
-### 2. 探索与探究（Exploration and Inquiry）
-
-> [!info|notitle]
+> [!info] 2. 探索与探究（Exploration and Inquiry）
 > 探究在第 2 章中已被确立为西方学习传统的核心。在第 4 章中，Li 进一步描述了探究在日常学习中的具体运作([[Argument_Li_2012_Cambridge\|Li, 2012, pp.113-121]])。
 
 当西方学习者面对不熟悉的事物、好奇心被触发时——"在这样的时候，大多数人会提出疑问"([[Argument_Li_2012_Cambridge|Li, 2012, p.113]])。Li 引用了多位诺贝尔奖得主的自传来展示探究精神的早期发展：
@@ -139,9 +133,7 @@ updated: 2026-10-22
 > - 诺贝尔博物馆（斯德哥尔摩）保存了每位诺贝尔奖得主的自传，其中大多数详细描述了他们的探究起源
 > - 学校的英语和社会科课程明确要求学生"调查和分析话题"而非简单记忆事实——例如"一个老师可能要求学生研究埃及金字塔是如何建造的"
 
-### 3. 思考与批判性思维（Thinking and Critical Thinking）
-
-> [!info|notitle]
+> [!info] 3. 思考与批判性思维（Thinking and Critical Thinking）
 > 思考（thinking）是西方知识传统的核心——强调逻辑、推理、分析、综合等心智操作。[[Critical Thinking\|批判性思维]]（critical thinking）在此基础上更进一步，要求质疑一切被视为理所当然的东西，包括权威和既有的知识体系([[Argument_Li_2012_Cambridge\|Li, 2012, pp.121-124]])。
 
 > [!quote|notitle]
@@ -153,9 +145,7 @@ updated: 2026-10-22
 > [!tip] 批判性思维 ≠ 否定一切
 > Li 明确指出：在西方，批判性思维不是一种要人"反一切"的价值，而是一种**追求更可靠知识的方法**——它建立在[[Socrates\|苏格拉底]]"省察生活"的传统之上。从苏格拉底在雅典街头追问"什么是虔敬"到今天的[[Academic Freedom\|学术自由]]，同一条线索贯穿其中([[Argument_Li_2012_Cambridge\|Li, 2012, pp.123-124]])。
 
-### 4. 自我表达与沟通（Self-Expression and Communication）
-
-> [!info|notitle]
+> [!info] 4. 自我表达与沟通（Self-Expression and Communication）
 > 在西方传统中，自我表达与沟通是学习的**核心产出**和**过程本身**。在 Figure 2.1 中，自我表达（speaking, writing, other forms）被列为探究过程中的两个关键活动之一([[Argument_Li_2012_Cambridge\|Li, 2012, pp.124-128]])。
 
 > [!note] 口头雄辩的希腊传统

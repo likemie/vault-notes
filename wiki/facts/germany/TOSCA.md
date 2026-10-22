@@ -47,11 +47,7 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# TOSCA
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2002 年（T1 高中毕业施测）至 2004 年（T2 大学升学追踪施测）；德国巴登-符腾堡州（Baden-Württemberg）。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 353–355)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > - **触发条件** 学界对于中学生认知智力、非认知信念、家庭背景如何共同塑造大学升学路径与[[Academic Achievement\|学业成就]]缺乏大规模、代表性的高质量因果追踪数据。
 
 ---
-
-## 经过
 
 > [!dev-timeline] 事件经过
 > - **2002 年 2–5 月 — T1 第一波高中毕业现场施测** 抽样覆盖巴登-符腾堡州 90 所代表性文理中学（学校参与率 100%，学生参与率 > 80%），对 $N = 2854$ 名高三毕业生进行学校现场测试与[[Questionnaire\|问卷调查]]，采集官方 Abitur 成绩、[[Cognitive Ability Test KFT\|KFT]] 认知智力、确定性信念、大五人格与家庭 [[Socioeconomic Status|SES]]/藏书量。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 354)]]

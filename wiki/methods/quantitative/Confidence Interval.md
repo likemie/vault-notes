@@ -67,11 +67,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Confidence Interval
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 置信区间（Confidence Interval, CI）是统计推断中围绕参数点估计值所构建的可能取值区间，用于表征估计精度的统计不确定性。一个 $100(1-\alpha)\%$（通常为 95%）的置信区间意味着：若在相同条件下从同一总体中进行无限次独立重复抽样并依照相同数学程序构建区间，理论上将有 $100(1-\alpha)\%$ 的区间包含真实的总体未明参数。置信区间由估计值、临界值（如 $Z$ 或 $t$ 分位数，由置信水平决定）与[[Standard Error|标准误]]三者共同确定。在抽样设计中，CI 作为边际误差（Margin of Error）约束所需[[Sample Size Determination|样本量]]；在实验报告与[[Meta-analysis|元分析]]中，CI 呈现[[Effect Size|效应量]]的不确定性边界，并作为防范假阳性与点估计虚假排名的核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 147–148)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
@@ -88,8 +84,6 @@ updated: 2026-10-22
 > *The confidence interval is that degree of variation or variation range that one wishes to ensure. A conventional sampling strategy will be to use a 95 per cent confidence level and a 3 per cent confidence interval.* ([[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 148]])
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 视单次实证观察所得的点估计为包含[[Sampling Error|抽样误差]]的随机[[Variable|变量]]，任何不报告不确定性边界的孤立点估计均具有认识论上的误导性（False Precision）；科学知识的客观性体现于估计精度的收敛与对不确定性的透明呈现。
@@ -114,8 +108,6 @@ updated: 2026-10-22
 > | **方法学关系** | $CI = \text{点估计} \pm Z \times SE$ | 95% CI 不包含 0 等价于 $p < 0.05$ | 点估计是 CI 的中心锚点 | $SE$ 是构建 CI 的基本原材料 | $PI = \bar{y} \pm t \sqrt{SE^2 + \tau^2}$ |
 
 ---
-
-## 数学原理与计算程序
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **输入数据** 点估计值（$\bar{x}$、$p$ 或[[Effect Size|效应量]] $d$）、样本容量（$n$）、抽样方差（$v = SE^2$）或跨研究权重（$W_j$）。
@@ -175,8 +167,6 @@ updated: 2026-10-22
 
 ---
 
-## 软件实现
-
 > [!software-impl] 软件实现与代码范例
 > - **R 语言生态（`metafor`、`esc` 包）**
 >   ```R
@@ -206,8 +196,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - **抽样方案设计** 依据预期变异度与容许误差半宽计算目标样本容量。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 147–148)]]
@@ -221,8 +209,6 @@ updated: 2026-10-22
 >   - 存在严重集群依赖或文献重叠却未做方差校正的数据集（计算出的经典 CI 属于虚假置信区间）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **点估计排名的虚假精确性诱骗** 单纯基于点估计大小对教育干预进行单一线性排序（如《[[Visible Learning|可见的学习]]》138 项排行榜），隐去了置信区间信息，误导决策者将无统计区分度的相邻排位（如 $d = 0.72$ 与 $d = 0.71$）视作实质优劣。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 47–48)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
@@ -246,8 +232,6 @@ updated: 2026-10-22
 > | [[EEF Padlock Security Rating]] | 工具 | 充当面向一线实践者传达研究效度与不确定性的直观符号，折衷专业 CI 与行动易读性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]] |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011)]] — 系统阐释置信区间与置信水平在[[Random Sampling|概率抽样]][[Sample Size Determination|样本量]]设计中的数理逻辑，剖析 384 例天花板与民调 1067 例样本容量的置信半宽推导（Ch. 8, pp. 146–148）。

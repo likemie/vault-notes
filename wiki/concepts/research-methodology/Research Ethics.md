@@ -59,14 +59,10 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Research Ethics
-
 > [!info] 定义
 > 研究伦理是一套贯穿研究全过程的伦理原则和操作策略，涵盖从研究设计到成果发表的每一个阶段。伦理问题出现在质性、量化和[[Mixed Methods Research\|混合方法研究]]中，且遍及研究的各个阶段。在研究中预见并书面说明伦理问题及其应对策略，是高质量研究写作的基石（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 伦理被定义为"对他人权利的原则性敏感"，而"虽然真理是好的，但尊重人的尊严更好"（Cavan, 1977, p. 810）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 87]]）。Kimmel (1988) 指出伦理与不伦理行为之间的区分不是二分的，而是连续体上的判断——伦理原则一般不是绝对的，必须在研究情境和其他相关价值的语境中解释。
-
-## 伦理理论基础
 
 > [!framework-table] 三种基本伦理立场
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 76–77]]）：
@@ -102,9 +98,7 @@ updated: 2026-10-22
 > [!info] [[Situated Ethics\|情境伦理]]（Situated Ethics）
 > Simons and Usher (2000, p. 1) 主张：虽然伦理传统上被视为一套不变且有效地适用于所有情境的一般原则，但恰恰相反，伦理原则在不同的研究实践中被中介，因此相对于这些实践具有不同的意义。这意味着情境伦理是"免疫于普遍化"的——"研究者无法避免权衡位于研究情境特殊性中的冲突考量和困境，在这些困境中需要做出伦理决定，但这些决定不能通过诉诸单义、单值的（unambiguous and univalent）原则或守则来达到"（Simons & Usher, 2000, p. 2）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 128–129]]）。
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 研究伦理按研究阶段可分为五个层面的议题和策略（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第4章, Table 4.1）：
 
@@ -218,8 +212,6 @@ updated: 2026-10-22
 
 ---
 
-## 不伤害、行善与人的尊严
-
 > [!info] 不伤害（[[Non-maleficence and Beneficence in Research\|non-maleficence]]）
 > 希波克拉底誓言中的 primum non nocere（首先，不伤害）在研究中同样适用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 89–93]]）。研究不应在身体、心理、情感、职业或个人层面损害参与者。但"什么构成伤害"是不清楚的——一个人的伤害可能是社会的收益，一点小伤害对少数人是否在为所有人（甚至为当事人）带来重大利益的情况下可容忍，这凸显了其中的张力。核心问题是：**目的正当化手段吗？**
 
@@ -241,8 +233,6 @@ updated: 2026-10-22
 
 ---
 
-## 绝对主义与相对主义伦理
-
 > [!tension] 两种立场的张力
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 92–93]]）：
 >
@@ -253,8 +243,6 @@ updated: 2026-10-22
 > Plummer (1983) 指出双方都有弱点：绝对主义者坚持[[Informed Consent\|知情同意]]可能导致特权群体研究不足（他们会说"不"）、弱势群体研究过度（他们抱希望说"是"）；而如果个体良心是指导，不道德的——甚至是不择手段的——研究者的大门就敞开了。他建议由专业机构制定的广泛指导方针，为研究者留下个人伦理选择的空间，是走出困境的方法。
 
 ---
-
-## 伦理困境与背信
 
 > [!warning] Robson 的十项可疑实践
 > Robson (1993, p. 33) 列出了十项在伦理上存疑但并非黑白分明的实践（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 95–98]]）：
@@ -274,8 +262,6 @@ updated: 2026-10-22
 
 ---
 
-## 电子研究伦理
-
 > [!warning] 在线研究的特殊挑战
 > （[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 105–108]]）：
 >
@@ -285,8 +271,6 @@ updated: 2026-10-22
 > - **AoIR 伦理指南（Ess & AoIR, 2002）** 不要假设电子邮件安全；场所公认的公共性越强，保护个人隐私的义务可能越少；研究者对参与者的脆弱性越强，保护参与者的义务越大
 
 ---
-
-## 评估研究伦理
 
 > [!info] Strike 的两个广泛原则
 > Strike (1990) 提出了评估伦理的两个广泛原则（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 114–116]]）：
@@ -318,8 +302,6 @@ Creswell & Creswell (2022, 第4章) 提供了三个研究者在实际研究中�
 ## 敏感研究中的伦理极端化
 
 在[[Sensitive Research|敏感研究]]中，日常研究伦理的张力被推向极端——日常研究中的可协商灰色地带，在敏感研究中可能变成不可调和的冲突（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 209–215]]）。
-
-### 有罪知识与肮脏之手
 
 > [!def] [[Guilty Knowledge\|有罪知识]]（Guilty Knowledge）与肮脏之手（Dirty Hands）
 > 有罪知识（De Laine, 2000, p. 67）指研究者在田野中被动获得的、可能给研究者和参与者双方带来个人与职业风险的信息。肮脏之手（Klockars, 1979）指研究者知晓越轨行为后自身陷入的伦理困境——知晓了可能伤害他人或违法或违背公共利益的信息，但披露又可能破坏研究关系。

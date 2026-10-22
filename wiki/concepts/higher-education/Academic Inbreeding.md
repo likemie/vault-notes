@@ -43,11 +43,7 @@ created: 2026-10-12
 updated: 2026-10-22
 ---
 
-# Academic Inbreeding
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **学术近亲繁殖（Academic Inbreeding）** 是指高等教育机构在专任教职聘用与晋升过程中，优先录用本校培养的博士毕业生或长期留任内部初级学者的制度化倾向。这种封闭的人事任用机制往往在大学自治缺乏外部独立同行评议与绩效问责的条件下被进一步强化，形成排斥外部候选人、维系学派门阀与派系庇护的自我复制网络。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 学术近亲繁殖的制度生成机理
 > - **选拔权力垄断** 评聘委员会主要由本校或本系教师组成，内部成员通过互惠联盟操纵评审规则与遴选结果。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 > - **外部流动阻隔** 外部优秀学者因缺乏本土人脉、地方语言门槛或体制性排斥而难以进入评审视野。
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > - **[[Discourse|话语]]掩饰与对标脱节** 高校在对外宣传中积极采纳[[Bologna Process|博洛尼亚进程]]、欧洲高等教育区等国际化话语，但微观选拔机制依旧沿袭旧制，形成表面对标与内部僵化的双重脱节。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 理论与政策争议
 >
@@ -103,8 +95,6 @@ updated: 2026-10-22
 > - **国际排名与科研质量赤字** 无论是在软科[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）还是[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]中，受严重近亲繁殖困扰的高校往往位次低迷，难以产出具有全球影响力的前沿科研突破。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

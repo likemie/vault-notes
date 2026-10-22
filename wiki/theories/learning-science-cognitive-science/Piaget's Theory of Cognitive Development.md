@@ -70,13 +70,9 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Piaget's Theory of Cognitive Development
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 儿童智力与认知图式的起源、质变跃迁与阶段演变规律，以及环境交互与大脑生理发育对心智结构的约束机制。
 > - **理论问题** 批判传统[[Empiricism\|经验主义]]（将儿童视为被动白板）与唯理论（将认知结构视为先天预设），探索认识结构如何在主客体动态交互中主动建构。
 > - **理论类型** 发生[[Epistemology\|认识论]]（Genetic Epistemology）、认知发展阶段模型与[[Constructivist Paradigm\|建构主义]]学习理论。
@@ -107,8 +103,6 @@ updated: 2026-10-22
 > | **[[Executive Function\|执行功能（Executive Function, EF）]]** | 神经心理构件 | 包含抑制控制、[[Cognitive Shifting\|认知转换]]与[[Working Memory\|工作记忆]]更新三核心成分，是大脑前额叶驱动认知阶段转化的生理引擎。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜主客体互动建构机制与同化-顺应平衡化动力学
 > - **前提一** 知识既非外在现实的简单镜像，亦非先天脑结构的单向展开，而是主客体双向相互作用的产物（Piaget, 1952）。
@@ -163,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-## 四阶段深度脑-认知特征剖析
-
 > [!phase] 感觉运动阶段（Sensorimotor Stage, 0–2 岁）
 > - **认知表征** 表现出完全自我中心的世界观，无法将思想与行动分离，认知依赖即时感知与肢体肌肉动作；在 7 至 12 个月期间逐步克服自我中心并建立客体永久性。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 2)]]
 > - **典型测评[[Paradigm\|范式]]** A非B任务（A-not-B Task）与客体检索任务（Object Retrieval Task）。
@@ -190,8 +182,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] 发生[[Epistemology\|认识论]]与主动建构观
 > - **[[Ontology\|本体论]]** 认知结构并非客观存在的静态实体，而是主体在适应环境过程中动态组织化的动作图式网络。
 > - **[[Epistemology\|认识论]]** 坚持发生认识论与[[Cognitive Constructivism\|认知建构主义]]（Cognitive Constructivism）；知识是主客体交互中同化与顺应的产物。
@@ -213,8 +203,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展脉络
-
 > [!dev-timeline] [[Jean Piaget\|皮亚杰]]认知发展理论的演进脉络
 > - **1950年代 经典发生[[Epistemology\|认识论]]与四阶段框架确立** 皮亚杰与 Cook et al. 出版系列著作，系统提出感觉运动、前运算、具体运算与形式运算四阶段[[Constructivist Paradigm\|建构主义]]体系。
 > - **1970年代 新皮亚杰主义与心理能量模型** 胡安·帕斯卡尔-莱昂（[[Juan Pascual-Leone]]）引入信息加工观点，提出心理能量（M-power）与干扰算子，开启[[Neo-Piagetian Theories\|新皮亚杰理论]]探索。
@@ -223,8 +211,6 @@ updated: 2026-10-22
 > - **2020年代 智能时代人机自适应支架的实证检验** [[Meta-analysis\|元分析]]研究将皮亚杰阶段论用于解释技术干预的学段[[Heterogeneity\|异质性]]，确立高小学段（具体向形式运算过渡期）的最强促学效能区。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

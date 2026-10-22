@@ -58,11 +58,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# National Educational Panel Study
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 德国国家教育发展[[Cohort Study\|追踪研究]]（National Educational Panel Study, NEPS / 德语：Nationales Bildungspanel）是德国规模最大的全国性、多队列纵向教育追踪研究项目与常设科研基础设施。该项目于 2009 年由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）出资启动，旨在通过跨越全生命周期的超大规模纵向追踪数据，填补德国在教育能力习得、升学分流、教育不平等及成人技能变迁等领域缺乏高质量长时段面板数据的空白（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 142]]）。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **核心问题导向** 响应 2000 年[[PISA]] 震荡后德国对实证教育研究（Empirical Educational Research）的迫切需求，克服横断测评（如 [[PISA]]、[[TIMSS]]、[[IQB-Bildungstrend]]）无法有效追踪个体能力因果轨迹与生命历程转型的局限（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 141–142]]）。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > NEPS 采用多 cohort 序列设计（Multi-Cohort Sequence Design），通过在不同生命起点并行启动代表性样本追踪，将能力发展测量与家庭背景、学校组织环境、制度分流及劳动力市场变迁紧密耦合，建构起支撑[[Evidence-Based Education\|循证教育]]决策与基础社会学研究的权威数据底座。
@@ -100,16 +94,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2009–2012 年 — 专项建设与多队列基线采集期** [[Federal Ministry of Education and Research\|BMBF]] 投入巨额专项启动资金，班贝格大学牵头全德 20 余所大学与研究所成立研究联合体，设计跨学段测量工具，完成 6 大队列逾 6 万名受访者的基线抽样与初次测评（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 142]]）。
 > - **2013–2014 年 — 永久基建转型与 LIfBi 成立** 经德国联合科学大会（GWK）决议，将 NEPS 确立为国家常设基础设施；2014 年在班贝格正式成立莱布尼茨学会下属的独立科研机构——莱布尼茨教育轨迹研究所（LIfBi），常态化接管 NEPS 运营。
 > - **2015 年至今 — 深度数据融合与拓扑服务扩展** 持续开展年度追踪波次（Waves），推出 NEPS-P（微观面板数据产品）；与德国[[Leibniz Institute for Educational Research and Educational Information\|莱布尼茨教育研究与教育信息研究所]]（DIPF）、[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）等机构的数据中心实现跨平台互联与二次分析支持（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 143]]）。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）与 16 个联邦州政府联合资助。
@@ -131,16 +121,12 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 核心学术与政策贡献
 > - **全生命周期能力轨迹刻画** 打破了传统单一年龄段横断测试的截面局限，首次精准揭示了从学龄前语言与认知基础到劳动力市场职业技能演化的纵向因果机制。
 > - **教育不平等的动态累积机制** 证实家庭[[Socioeconomic Status|社会经济地位]]（SES）对个体教育分流的影响不仅发生在小学毕业分流点，而是在学前、初高中毕业及高等教育入学各个关口持续产生累积性[[Interaction Effect\|调节效应]]。
 > - **国家教育监测四大支柱的有机配合** 在德国[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]中，NEPS 与横断国际测评（[[PISA]]）、跨州标准比较（[[IQB-Bildungstrend]]）及全德教育报告（Nationaler Bildungsbericht）紧密咬合，构成了微观因果解释的核心数据来源（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

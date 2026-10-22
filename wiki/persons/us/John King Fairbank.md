@@ -43,11 +43,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# John King Fairbank
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国历史学家、汉学家，哈佛大学历史系教授、东亚研究中心（现费正清中国研究中心）创设主任，美国中国近代史学派的奠基者。
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1940 年代 — [[Tributary System|朝贡体系]]模型与制度史探索** 系统梳理明清两代官方档案与涉外条约，提炼出中国传统对外关系的[[Cultural Hierarchy|文化等级]]逻辑。
 >   - **代表著作** *On the Ch'ing Tributary System* (1941, with S. Y. Têng); *Tributary Trade and China's Relations with the West* (1942).[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 传统中国构建了一套基于华夏中心主义文明优越感、将对外通商与周边地缘关系高度仪式化与道德化的[[Tributary System|朝贡体系]]；在该体系中，文化感召与礼仪从属先于且高于纯粹的经贸利益与行政控制。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 
 > [!citation-card] 华夏中心主义与朝贡等级秩序
@@ -101,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定了西方近现代中国研究的“[[Tributary System|朝贡体系]]模型”与“冲击—反应模型”，成为后世修正派学者（柯文、康灿雄、周方银、濮德培）开展理论对话的永恒靶标。
 > - **方法路径** 倡导深度整合多语种原始档案（汉文、满文、外文）与制度[[Documentary Analysis|文献分析]]，开创了近代中国制度史与外交史的跨学科[[Paradigm|研究范式]]。
 > - **跨国与当代传播** 其理论被后世比较教育与政治学者发展为当代跨国高等教育输出的[[Neo-Tributary Perspective|新朝贡视角]]（Pan & Lo, 2017, 2018；[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
@@ -120,8 +110,6 @@ updated: 2026-10-22
 > - **机构实体** 哈佛大学费正清中国研究中心 — 费正清亲手创设的全球中国学研究重镇。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

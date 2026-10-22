@@ -61,11 +61,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Rainer Kattel
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 爱沙尼亚裔公共治理与创新经济学学者，伦敦大学学院（University College London, UCL）创新与公共目的研究所（Institute for Innovation and Public Purpose, IIPP）公共治理与技术转型教授、副所长，曾任塔林理工大学（TalTech）公共管理与创新政策系主任。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2018 — *[[Mission-Oriented Innovation Policy]] and Dynamic Capabilities in the Public Sector*** 系统梳理使命导向创新政策的百年演变历程，将[[Joseph Schumpeter|熊彼特]]企业动态能力与韦伯式国家能力相综合，奠定[[Public Dynamic Capabilities|公共部门动态能力]]的三层分析构架。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2019 — *Innovation [[Bureaucracy]]: How Governments Successfully Support Innovation*** 深入剖析公共机构在支持颠覆性创新时如何实现组织重构与敏捷学习，论述创新官僚制的结构形态。
@@ -95,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 公共部门不仅是消极纠正市场外部性的规制者，更是具备方向塑造、跨界协调与实验反思能力的演化变革主体。在应对气候变化与老龄化等复杂社会危机时，国家必须摆脱[[New Public Management|新公共管理]]运动所导致的外部咨询依赖与组织[[Cognitive Deskilling|去技能化]]，通过重塑涵盖政治合法性、政策协调性与行政敏捷性的[[Public Dynamic Capabilities|公共动态能力]]，形成引领探索与制度化学习的良性循环。
 
 > [!citation-card] 动态能力的演化综合观

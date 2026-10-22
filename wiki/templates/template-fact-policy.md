@@ -20,11 +20,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 政策何时由谁发布。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -33,8 +29,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **制度位置** 政策与既有法规、改革、项目或治理结构的关系。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 用一两句话说明政策目标、适用对象、约束方式和制度工具，附 Argument citation。
@@ -52,8 +46,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 时间线
-
 %% 节点少时用 [!timeline]；阶段差异明显时改用 [!dev-timeline]-。 %%
 
 > [!timeline] 政策时间线
@@ -62,8 +54,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - YYYY 开始实施、修订或评估。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -77,8 +67,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **反馈 / 调整** 执行中如何评估、修订、扩展或收缩。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 行动者与利益相关者
 
 %% 可选节。信息充分时填写，运用政策行动者理论与利益相关者理论；信息不足时整节删除。prop-table 按实际行动者数量增删行；actor-grid 四象限可根据实际调整标签。 %%
 
@@ -108,8 +96,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 经费、人力、资源、覆盖范围。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **过程指标** 执行程度、参与率、合规性、实施质量。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -124,8 +110,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 关键比例、人数、时间跨度、经费、覆盖范围等。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 争议与评论
 
 %% 三类内容分开记录，不要混用。
    - 多方立场争论政策目标/工具/执行 → [!debates]（P1/P2/P3，无明确对错）

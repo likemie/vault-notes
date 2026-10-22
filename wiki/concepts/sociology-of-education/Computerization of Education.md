@@ -48,11 +48,7 @@ created: 2026-09-23
 updated: 2026-10-22
 ---
 
-# Computerization of Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育计算机化（Computerization of Education），特别是读写教育的计算机化（Computerization of Literacy Education），是指在教育问责制、课程标准化与[[High-Stakes Testing|高利害测验]]的系统性压力下，学校教育实践逐步将培养目标异化为与计算机算力优势相重合的“信息处理（Information-Processing）”与“模式识别（Pattern Recognition）”技能，从而全面边缘化和驱逐人类心智中不可替代的“主观阐释（Interpretation）”、“批判理解（Understanding）”与道德价值探索的历史演进过程。在智能求知时代，该概念揭示了[[Generative Artificial Intelligence|生成式人工智能]]之所以能迅速接管学生思维，其制度根源在于现行教育体系早已被计算机化模式所驯化。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5–6)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教育计算机化与相关教育[[Paradigm|范式]]的对比
 > | 比较维度 | 教育计算机化（Computerization of Education） | 人文主义读写教育（Humanistic Literacy） | [[Critical Pedagogy\|批判教育学]]读写（Critical Literacy） |
 > |---|---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > | **技术代劳后果** | 迅速交由大模型代劳，陷入[[Cognitive Deskilling\|去技能化]] | 抵制全流程代笔，维系具身阅读与创作 | 借助[[Alien Intelligence\|异己智能]]视角解构算法偏见 |
 
 ---
-
-## 核心要素
 
 > [!feature] 教育计算机化的核心特征
 > - **模式识别压倒主观阐释** 教学与考核聚焦于固定格式（如五段式作文）、关键词匹配与中心句提取，排斥多义性、矛盾性与富有独创性的主观体验。Davies (2022)
@@ -131,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > - **2026 — 引入生成式 AI 与成长性认识正义批判** 斯宾塞·J·史密斯（Spencer J. Smith）将教育计算机化作为解释生成式 AI 课堂危害的制度前置条件，指出应试八股与大模型代劳达成了扼杀学生心智发育的恶性共谋。[[Argument_Smith_2026_SPE|Smith (2026)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -80,11 +80,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# National Institutes of Health
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 国立卫生研究院（National Institutes of Health, NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于卫生与公众服务部（Department of Health and Human Services, HHS）；作为战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的健康使命基石，与原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）及国家科学基金会（[[National Science Foundation]], NSF）并立，在[[Social Contract of Science|科学社会契约]]框架下统合基础病理探索与临床诊疗工艺发明，构成了激进型[[Market Shaping and Creating|市场塑造]]者与前沿健康能力策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与治理演变历程
 > - **1887–1937 — 传染病控制与中央实验室初创期** 早期专注于霍乱、黄热病等跨国烈性传染病的病原微生物分离与检疫，奠定了美国现代公共卫生微观科学基础。
 > - **1937–1948 — 癌症法案与专业研究所矩阵成型** 1937 年[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]签署法案设立国家癌症研究所（NCI）；二战后迅速吸纳战时医学动员遗产，相继设立心肺血液研究所（NHLBI）等分支，正式形成国立卫生研究院群（Institutes of Health）的多中心格局。
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > - **2025–2026 — [[Gold Standard Science|黄金标准科学]]行政令、对人赋权与[[Metascience|元科学]]重构** 落实《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》以推进机器可读与数据复现；依据 2026 年白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略，推广先锋奖长周期对人资助[[Paradigm|范式]]，依托独立基金会（FNIH）深化[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP），并在机构内设立直属院长的法定[[Metascience|元科学]]单元以[[Randomised Controlled Trials|随机对照实验]]优化评审制度。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28, 31–32, 42)]]
 
 ---
-
-## 治理架构与现代运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（NIH 院长办公室）** 院长（由总统任命并经参议院确认）统领全局，制定[[Total War|总体战]]略规划与跨所重大行动计划（Common Fund），设立向院长直报的法定[[Metascience|元科学]]单元。
@@ -125,8 +117,6 @@ updated: 2026-10-22
 > - **法定元科学实验机制** 设立元科学部门，有权在评审流程中开展部分[[Random Assignment|随机化]]（Random Allocation）、[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）与双盲评审对照实验，破除资深评审人对青年探索者的名气偏倚。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与科研矩阵
 > 1. **分子生物学与基因组学基石** 深度资助从重组 DNA、聚合酶链式反应（PCR）到人类基因组全图谱测序与 CRISPR 基因编辑技术的底层工具发明与理论发现。
@@ -146,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **公共预算规模** 年度财政拨款逾 450 亿美元，为全球最大的单一生物医药研究公共赞助者。
 > - **[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]关联** 累计有超过 160 位诺贝尔奖获得者在其职业生涯中得到过 NIH 的持续资助，涵盖了战后现代医学与分子生物学的大部分重大丰碑。
@@ -162,8 +150,6 @@ updated: 2026-10-22
 > - **≈ 50% $\to$ 100%** 1960 年代末至当代全美医学院全职专任教师薪资中依赖科研软钱覆盖的比例。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

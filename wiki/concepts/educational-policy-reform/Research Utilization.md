@@ -150,11 +150,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Research Utilization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究利用（Research Utilization / Research Use，亦称研究使用、知识利用、证据使用）** 指科学研究产出（包括理论概念、实证数据、教学策略、评估工具与方法论程序）以不同路径和形式进入公共教育政策制定、学校组织治理以及一线课堂教学实践的动态转化过程与交互机制。它不仅包含将科研结论直接转化为操作决策的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，更包含通过知识渗透重构行动者心智的概念性使用、为既定立场护航的象征性使用与去政治化护盾；在宏观政策全生命周期中呈现清晰的阶段依随性（Stage-contingent），在微观教学中表现为基于育人伦理与多源知识的能动整合。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–5)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
@@ -187,8 +183,6 @@ updated: 2026-10-22
 > - **不等于 单纯的研究态度认同（Research Attitude）** 教师对科研价值持有极高认同（态度高位）并不等同于其实际开展了课堂使用；研究利用是独立于态度且受技能控制调控的外显实践[[Construct|构念]]。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 8)]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 研究利用的多[[Scale in Higher Education\|尺度分析]]维度辨析
 > | 维度 | 宏观政策研究利用 | 中观学校治理机制 | 微观教师教学整合 |
@@ -362,8 +356,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -392,8 +384,6 @@ updated: 2026-10-22
 > - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为[[Performativity|表演性]]辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -441,8 +431,6 @@ updated: 2026-10-22
 > 3. **高利害外部问责体制对学校研究利用的压倒性支配** 在以英国教育标准局（[[Ofsted]]）为代表的高利害督导体制下，学校管理层的办学行为首先受制于评级考核达标，研究利用若无法与督导指标衔接，极易被一线教师视作额外负担而遭到边缘化。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 150–151)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

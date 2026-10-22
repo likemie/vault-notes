@@ -157,11 +157,7 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-# Technical Rationality
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 技术理性将专业实践与教育改革窄化为**自上而下的线性研究灌输与去情境化的工具性计算模型**。在微观实践层面，[[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 127)]] 指出，技术理性将教师贬低为被动执行外部有效性证据的技术人员，因忽视复杂实践情境与教师[[Professional Judgment\|专业判断]]而频遭政策受挫；在宏观比较教育与国际治理层面，[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, pp. 56–57)]] 揭示技术官僚理性将教育矮化为单纯的“学校教育”（Schooling）与可测量的经济投入产出工程，剥夺了对以人为中心（Anthropocentric）的古典全人教化（*[[Paideia]]*）传统与人类文明伦理危机的哲学反思。
@@ -198,8 +194,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 技术理性 vs. [[Reflexivity\|反思性]]实践 vs. [[Phronesis\|实践智慧]] vs. 全人教化
 > | 维度 | 技术理性（Technical Rationality） | [[Reflexivity\|反思性实践]]（Reflective Practice） | 实践智慧（[[Phronesis\|Phronesis]]） | 古典全人教化（[[Bildung\|Paideia]]） |
 > |---|---|---|---|---|
@@ -210,8 +204,6 @@ updated: 2026-10-22
 > | **教育后果** | 教学去技能化、目标僵化、官僚[[Disciplina and Doctrina\|规训]] | 发展教师专业敏感性与情境应对力 | 培育深层教育责任感与实践自主性 | 涵养全人理智、精神自由与抵御极权意识 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **手段-目的工具主义（Means-Ends Instrumentalism）** 将专业实践窄化为寻求最有效达成给定目标的工具手段，将复杂情境问题剥离为孤立的因果链条。
@@ -313,8 +305,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -346,8 +336,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -364,8 +352,6 @@ updated: 2026-10-22
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a, pp. 3–15)]] | 约翰·哈蒂《可见的学习》反馈综合文献（覆盖总样本 67,931 人中 92.4% 权重的五大核心[[Meta-analysis\|元分析]]） | 概念批判与元分析底层[[Construct\|构念]]计量核查 | 行为主义变量还原、调节变量（SES）剔除、构念混淆与[[Neo-Taylorism\|新泰勒主义]][[Disciplina and Doctrina\|规训]] | 证实 5 项核心元分析中 4 项测量的属于强化、身体亲和力与测验提示等异质构念；唯一契合的研究实际效应仅为 $d=0.38$ 且包含 38% 负效应；揭示去理论化修辞掩盖下的行为主义预设与阶级盲还原 | 质性深度案例核查与概念批判 | 实证揭示技术理性在教育证据合成中导致的构念混淆、阶级盲偏误与自上而下劳动监控机制 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

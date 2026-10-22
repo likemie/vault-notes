@@ -89,7 +89,6 @@ citation_aliases:
   - "Partaken, 2022"
   - "Partaken (2022)"
 ---
-# Argument_Partaken_2022_Springer
 
 > [!question]
 > [[Geopolitics of Knowledge\|知识地缘政治]]（GPK）的核心问题域是什么？Partaken 质疑后殖民研究将[[Knowledge Production\|知识生产]]（knowledge production）作为 GPK 主要分析视角的做法，提出 GPK 的真正核心是[[Knowledge Transfer\|知识转移]]（knowledge transfer）而非知识生产，并以当代中美紧张关系作为经验案例加以验证。
@@ -242,9 +241,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 > **全章的逻辑闭环** Partaken 从"knowledge is power"（Bacon, 17 世纪）起笔，以"the sovereignty lieth hid in knowledge"（同一句 Bacon）收束。中间的论证完成了从"知识的静态生产"到"知识的动态转移"的范式转换，以中美 GPK 紧张为经验试金石，以Lyotard 的[[Van Leeuwen's Legitimation Theory\|合法化理论]]和 Foucault 的全景敞视主义为理论锚点，以六模态类型学为分析工具。最终结论不是简单地断言"知识转移比知识生产更重要"，而是论证了一个方法论立场：要理解当代地缘政治，必须将注意力从"知识是什么"转向"知识在被做什么"。
 
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - "[[Geopolitics of Knowledge\|知识地缘政治]]"（[[Geopolitics|geopolitics]] of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK [[Discourse|话语]](p.68)
 > - [[Narrative Knowledge\|叙事知识]](Lyotard, 1979/1984)处于急剧衰退中，原因不是后现代对[[Grand Theory\|元叙事]]的不信任，而是全球化中商业价值的"科学知识"得到国家和产业赞助(p.74–75, 83–84)
 > - 经济间谍活动确实能有效缩小技术差距：[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，东德通过间谍活动显著缩小了与西德的工业技术差距(p.77)
@@ -257,9 +254,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 > - FBI 调查的 165 家公司中 50% 承认商业机密或知识产权被盗，95% 怀疑中国(p.79)
 
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “与其关注知识的这种静态，对地缘政治的探究应该更多地关注‘运动中的知识’现象，如转移、传播、教学法、灌输、窃取、间谍活动、监视和审查。”
 > ("Instead of such a static state of knowledge, the inquiry into geopolitics should pay more attention to the phenomena of '[[Knowledge Transfer\|knowledge in motion]]' such as transfer, dissemination, pedagogy, indoctrination, theft, espionage, surveillance and censorship.")(p.84)
 

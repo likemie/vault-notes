@@ -59,11 +59,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Academic Help-Seeking
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学业求助（Academic Help-Seeking，亦作学业求助行为）是指学习者在遭遇认知瓶颈、概念困惑或[[Task Structure\|劣构任务]]障碍时，主动觉察自身理解局限并战略性地向外部人力资源（教师、同伴、助教）或技术中介（智能系统、文献数据库、[[Generative Artificial Intelligence\|生成式人工智能]]）寻求支持的高级[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）与[[Epistemology\|认识论]]行为。它并非单纯的认知依赖或被动顺从，而是兼具[[Metacognition\|元认知]]监控、情感调控与社会交往的多维积极探究策略。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学业求助的核心类型与人机交互形态对比
 > | 比较维度 | 工具性求助（Instrumental） | 执行性求助（Executive） | 人机交互求助（Human-AI Help-Seeking） |
 > |---|---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **远端学习效应** | 促进深层概念理解与高阶技能内化 | 导致长远学业能力衰退与认知依赖 | 促进认识立场向评价论演进与[[Higher-Order Thinking Skills\|高阶思维]]发展 |
 
 ---
-
-## 核心要素
 
 > [!feature] 学业求助行为的关键构成维度
 > - **困境感知与[[Metacognition\|元认知监控]]（Awareness of Need）** 学习者准确评估自身认知状态，识别出当前知识储备不足以独立解决问题。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 362)]]
@@ -166,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -177,8 +167,6 @@ updated: 2026-10-22
 > | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场跃迁。 | 人工智能教育应用、[[Man-Computer Symbiosis\|人机协同]]探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 学业求助研究的理论演进
 > - **1980 年代 — 从依赖行为向自我调节认知策略转向** Nelson-Le Gall（1981）提出工具性求助理论，打破了将求助视作被动依赖或无能表现的传统偏见，确立了学业求助作为主动认知调节策略的理论地位。

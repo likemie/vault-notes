@@ -43,11 +43,8 @@ status: stable
 created: 2026-09-16
 updated: 2026-10-22
 ---
-# Strategic School Improvement Fund
 
 ---
-
-## 背景
 
 > [!program-context] 项目背景
 > - **立项时间 / 发起主体** 英国教育部（Department for Education, DfE）于 2017 年正式设立战略学校改进基金（Strategic School Improvement Fund, SSIF）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 596)]]
@@ -57,8 +54,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案设计与资助机制
-
 > [!policy-design] 方案设计
 > - **项目目标** 针对各学区识别出的教育薄弱环节，定向投入精准资金，支持学校引入外部成熟专业支持与教学干预，缩小校际质量差距。
 > - **覆盖对象** 英格兰地方教育当局（Local Authorities, LAs）、多学院信托（Multi Academy Trusts, MATs）与公立薄弱学校联合体。
@@ -67,16 +62,12 @@ updated: 2026-10-22
 
 ---
 
-## 实施历程与资金投放
-
 > [!phase] 推进历程与批次拨款
 > - **第一阶段：方案启动与首轮评审（2017年）** 英国教育部启动规模达数千万英镑的资金池，首轮资助 56 个合作项目，覆盖数百所公立学校，重点倾斜数学教学与读写能力提升。
 > - **第二阶段：资金扩围与多轮投放（2017–2018年）** 持续开展第二与第三轮评审，累计资助超过 140 个区域改进项目，支持范围扩展至偏远乡村学校与处境不利学生集中的城市边缘校区。
 > - **第三阶段：政策反思与项目终结（2018–2019年）** 由于资金效益饱受议会与独立研究机构质疑，且缺乏持续客观的因果增益证据，教育部随后停止设立新的拨款轮次，转向依靠[[Research Schools Network\|研究学校网络]]与[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的证据推广渠道。
 
 ---
-
-## 成效评估与制度批评
 
 > [!finding-cards] 成效评估与[[Counterfactual\|反事实]]评估赤字
 > - **缺乏严格因果评估设计** 萨福克郡等地方议会联合 [[Education Endowment Foundation\|EEF]] 针对资助项目开展的评估（Gu et al., 2019）属于无对照组的轻量过程性调查，虽显示对孤立乡村学校有一定主观满意度，但无法确立对学生[[Academic Achievement\|学业表现]]的净因果增益。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]

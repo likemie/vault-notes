@@ -74,8 +74,6 @@ created: 2026-09-06
 updated: 2026-10-21
 ---
 
-# Victor Cousin
-
 ---
 
 ## 简介
@@ -97,9 +95,7 @@ updated: 2026-10-21
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle] 生平与职涯
+> [!note] 生平与职涯
 > 库森的学术与政治生平横跨波旁复辟王朝与七月王朝，见证了法国从大革命动荡向立宪君主制国家整合的转型过程：
 
 > [!timeline] 生平与职涯
@@ -134,9 +130,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心思想
-
-> [!note|notitle] 核心思想
+> [!note] 核心思想
 > 库森将折衷主义政治哲学与现代国家建制诉求融为一体，构建了以国家公共资源论与审慎借用为轴心的教育学说：
 
 > [!claim] 核心主张
@@ -203,9 +197,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!note|notitle] 影响路径
+> [!note] 影响路径
 > 库森的学术报告与立法实践深刻塑造了欧美大西洋两岸的现代国家公共教育建制：
 
 > [!influence-path] 影响路径
@@ -220,8 +212,6 @@ updated: 2026-10-21
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立库森在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的枢纽坐标，剖析其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）考察如何充当游说立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 《外国季刊评论》论国民教育如同常备陆海军
 > [[Report on the State of Public Instruction in Prussia\|库森报告]]以实实在在的完全实践成功有力证明：国民教育制度绝非不着边际的空想，不是做梦的哲学家凭空捏造的幻影；而是一种确保所有儿童接受初等教育的制度模式，国家建立和维持这一体系的必要性，丝毫不亚于维持一支陆军或海军。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 27)]]；引自 Knight (1930:116)
@@ -250,9 +240,7 @@ updated: 2026-10-21
 
 ---
 
-## 关系网络
-
-> [!note|notitle] 关系网络
+> [!note] 关系网络
 > 库森的思想与行动深嵌于 19 世纪上半叶欧美跨国教育交流与政治哲学的核心网络之中：
 
 > [!person-network] 关系网络

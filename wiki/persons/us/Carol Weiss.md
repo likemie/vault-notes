@@ -46,11 +46,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Carol Weiss
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政策与社会研究学者，活跃于 20 世纪后半叶的公共政策研究领域。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1977 — *Research for Policy's Sake: The [[Enlightenment]] Function of Social Research*** 阐明社会科学研究对政策的启蒙功能，深刻指出政治本质上关于价值立场而非[[Value Neutrality\|价值中立]]。
 > - **1979 — *The Many Meanings of [[Research Utilization]]*** 提出研究利用的七种模型，区分知识如何以不同方式进入政策与实践。
@@ -82,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 研究不是以“研究发现→直接采纳”的线性方式进入政策与实践，而是通过多种路径——直接应用、[[Problem Solving\|问题解决]]、持续互动、策略性引用——并以“知识渗透”般的缓慢方式改变决策者的思维。[[Research Utilization\|研究利用]]因此是扩散性、累积性的，而非即时因果输入。
 
 > [!feature] 政策决策中的证据燃料论、价值本质与委员会吸收机制
@@ -99,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 为[[Research Utilization\|研究利用]]研究奠定基础，七种模型与"知识渗透"概念被后续研究使用综述（如 Hagevold et al., 2026）反复援引。
 > - **方法路径** 推动研究者从"研究是否被使用"转向"研究以什么方式被使用"，并影响概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]类型学。
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 > - **后继整合** Nutley et al.（2007）在公共部门证据使用研究中系统化三分类，直接承继 Weiss 的框架。
 
 ---
-
-## 争议与批评
 
 > [!warning] 未解问题与边界
 > [[Research Utilization\|研究利用]]模型描述"研究如何被用"，但不规定"应该怎么用"；把描述性类型学当作规范等级，会低估[[Conceptual, Instrumental, and Symbolic Use of Research\|概念性使用]]的长期价值，也会误以为工具性使用更"高级"。

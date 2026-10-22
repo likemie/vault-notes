@@ -45,11 +45,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Sedentarism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 定居主义（Sedentarism，亦称定居中心主义）是指现代社会科学、民族国家建构与公共政策中普遍存在的一种隐性[[Epistemology|认识论假设]]与治理意识形态。它将固定地域内的定居、扎根与空间稳定性预设为人类文明、社会秩序与理性主体的自然基准（Normative Baseline）；反之，将空间位移、游牧迁徙、中途转学或大篷车漫游等流动状态视作无根、不守秩序、病态或缺乏教化的偏离行为。在现代教育体系中，定居主义直接形塑了学校作为空间围栏的组织形式，并为国家推行强制定居同化与流动人口排斥提供了道德与制度正当性。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
@@ -79,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **定居基准的规范化（Normalization of Settlement）** 将稳定的地理扎根预设为主体健全发育、公民资格确认与道德责任承担的必要前置条件。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 > - **流动的病理化与道德贬抑（Pathologization of Movement）** 在政策与学术[[Discourse|话语]]中，底层群体因生计所迫的空间位移被命名为漂泊（[[Transiency]]）或流窜（Itinerancy），与家庭功能失调、学业失败和秩序破坏深度捆绑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 > - **精英与底层流动的阶层双标（Class-Bifurcated Mobility Coding）** 文化精英跨越国界的自决漫游被加冕为面向未来的国际化美德，而弱势群体的迁徙则被判定为亟待管制的社会风险。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
@@ -127,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 定居作为公共福利基础 vs 流动作为人权自由之争
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > 批判定居主义并不意味着浪漫化底层的被迫流离失所；研究者必须严格区分弱势家庭因贫困驱赶产生的被迫无序流徙与主动维系的文化移动生活方式，避免陷入将苦难审美化的伦理误区。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

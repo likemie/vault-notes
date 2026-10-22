@@ -48,11 +48,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Latin American Debt Crisis of 1982
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 1982 年拉美债务危机是 20 世纪下半叶拉丁美洲经济与社会政策演进的决定性分水岭，它标志着二战后长达三十年的[[Import Substitution Industrialisation|进口替代工业化]]（ISI）模式与国家主导教育扩张的终结，并直接促使以[[World Bank|世界银行]]为代表的跨国金融机构强力介入拉美内政，开启了长达数十年的新自由主义教育紧缩与私有化浪潮。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 81–84)]]
@@ -65,16 +61,12 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **1982 — 危机全面爆发** 墨西哥、巴西与阿根廷先后陷入主权债务违约，国际私人借贷市场彻底对拉美关闭，各国面临严重的恶性通货膨胀与财政枯竭。
 > - **1980 年代中期 — 结构调整强加与公共教育撤资** [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 介入救援，将放贷条件与[[Structural Adjustment Programs|结构调整方案]]（SAPs）强制捆绑，强迫各国压缩公共教育与卫生开支，推行学校分权化甩包袱与使用者付费。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 > - **1980 年代末至 1990 年代 — [[Neocorporatism|法团主义]]代偿与私有化确立** 面对失学激增与社会骚乱，墨西哥等国设立[[INEA|全国成人教育学会]]推行扫盲以实施[[Compensatory Legitimation|补偿性合法化]]；智利与阿根廷等国全面放开[[Educational Privatisation|教育私有化]]，拉美公共教育体系深陷阶层撕裂。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
-
-## 对教育政策的深远冲击
 
 > [!tension-table] 债务危机前后拉美教育政策[[Paradigm|范式]]大逆转
 > | 比较维度 | 债务危机前（1960–1970 年代） | 债务危机后（1980 年代至今） |
@@ -85,8 +77,6 @@ updated: 2026-10-22
 > | **社会后果** | 虽存在双轨但中产阶级受教育规模激增 | 公立学校破败，贫民与工薪中产陷入生存与负债危机 |
 
 ---
-
-## 历史定性
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论债务危机与结构调整对拉美教育的重塑
 > 历史和哲学上，新自由主义在拉美的推行始终与债务危机后的[[Structural Adjustment Programs|结构调整方案]]形影相随。从政治经济学视角看，经济危机的爆发成为了重组教育政策的基石，而结构调整处方非但未能治愈经济弊病，反而严重恶化了该地区的教育扩张质量与教育机会均等，彻底改变了教师组织、[[Conditioned State Theory|受限国家]]与跨国金融机构之间的政治力量博弈格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]

@@ -71,11 +71,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Engineering Research Centers
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 工程研究中心（Engineering Research Centers, ERC）是[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）于 1984 年正式设立的跨学科[[University-Industry Collaboration|产学合作]]科研资助计划，标志着美国联邦基础研究资助体系发生深刻结构性转向：从传统以院系为基底、单一首席研究员（Principal Investigator, PI）驱动的纯学科自由探索模式，转向以[[Big Science|大科学]]中心为基底（Center-based）、跨学科整合、产业界深度嵌入与重构工程人才培养的战略性协同创新体系。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对 1980 年代新兴工业化国家（如日本、韩国）在微电子与先进制造上的竞争危机；在当代则进一步承接大国地缘博弈与[[Securitization of Technology|技术安全化]]使命，跨越工程转化“[[Valley of Death|死亡之谷]]”。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过建立长期资助、跨学科与多机构联动的实体工程中心，将产业界前沿技术痛点转化为大学实验室先导课题，推动工程专业师生参与高强度工程实践与产学交互，使大学科研能力直接转化为支撑美国工业国际[[Competitiveness|竞争力]]与国家技术主权的关键杠杆。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 370)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
@@ -107,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1983–1984 — 方案动议与顶层规划期** [[National Academy of Sciences|美国国家科学院]]与国家工程院相继发布报告，确立以应对[[Competitiveness|竞争力]]危机为轴心的中心设计准则；[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）等具有产业界与工程深厚背景的领导者主导推进制度构建。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367, 371)]]
 > - **1985–1990 — 第一代（Gen-1）试点与制度定型期** 首批资助设立 6 所中心；面对特拉华大学与加州大学圣巴巴拉分校两所早期中心的未获续约与提前关闭，[[National Science Foundation|NSF]] 顶住政治压力坚守严格问责原则，向全美学术界树立了重实效与重规划的鲜明导向。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 373)]]
@@ -117,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[National Science Foundation|NSF]] 工程学学部及下属[[Engineering Education|工程教育]]与中心处（EEC），负责战略指南发布、竞争性评审、年度绩效监督与预算杠杆配置。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 369)]]
 > - **中心管理团队与主持高校** 中心主任与领衔高校负责跨学院、跨学科整合，配置研发物理空间，协调产业界合作界面与财务运行。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368, 373–374)]]
@@ -126,8 +116,6 @@ updated: 2026-10-22
 > - **受试与受益师生** 拥有院系终身教职轨道编制的双重聘任教师，以及在跨学科、动手实践工程项目中接受联合培养的本科生与研究生。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 373)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心成效与产学双向收益
 > 1. **科研资助模式革命** 成功确立了多用途、多学科大学研究中心（MMURC）作为美国高校研发的核心组织形态，彻底改变了战后数十年由学科院系与单一自由探索 PI 垄断的科研资助版图。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366)]]
@@ -146,8 +134,6 @@ updated: 2026-10-22
 > - **10 yr** ERC 设立的法定最长资助周期（[[Sunset Provisions|日落条款]]），期满后中心必须具备独立造血能力。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与组织张力
 >

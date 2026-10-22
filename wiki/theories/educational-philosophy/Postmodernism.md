@@ -72,13 +72,9 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Postmodernism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 现代性[[Knowledge Production|知识生产]]的[[Legitimation Crisis|合法化危机]]、教育体制中的宏大[[Grand Theory|元叙事]]霸权、微观课堂中的[[Discourse|话语]]博弈、多重共存实在与边缘群体的异质声音。
 > - **理论问题** 彻底解构启蒙现代性对普遍理性、线形进步与客观科学定律的绝对崇拜，反抗[[Positivism|实证主义]]将复杂人类行动还原为机械因果法则的确定性幻觉。
 > - **理论类型** 文化与哲学批判思潮、去中心化的[[Epistemology|认识论]]框架、兼具解构与赋权功能的方法论取向。
@@ -99,15 +95,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Jean-François Lyotard|利奥塔]]（Jean-François Lyotard）于 1979 年出版《后现代状况：关于知识的报告》（*The Postmodern Condition: A Report on Knowledge*），首次将后现代界定为“对[[Grand Theory|元叙事]]的怀疑”（incredulity toward metanarratives）；詹姆逊（Fredric Jameson）于 1991 年出版《晚期资本主义的文化逻辑》（*Postmodernism, or, the Cultural Logic of Late Capitalism*），系统提炼后现代的 11 项核心特征。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 27–28)]]
 > - **原初问题** 面对二战后[[Technical Rationality|技术理性]]狂潮、后工业社会转型以及电子信息技术的爆炸，人类发现[[Enlightenment|启蒙运动]]许诺的“通过客观科学普及必然带来人类道德与政治解放”的宏大叙事彻底破产；教育与学术演化为服务于国家与跨国资本竞争的绩效技术工具。
 > - **理论资源与材料** 吸收了[[Friedrich Nietzsche|尼采]]的视角主义与权力意志哲学、维特根斯坦的“语言游戏”（language games）学说，以及德里达的解构主义和福柯的[[Discourse|话语]]权力谱系学。
 > - **形成路径** 从解构现代科学的自我合法化神话切入，指出任何宏大理论（如[[Georg Wilhelm Friedrich Hegel|黑格尔]]精神辩证法、历史唯物论阶段论、[[Positivism|实证主义]]因果律）都依赖于未经证明的元叙事叙述；揭示科学知识不过是众多异质语言游戏中的一种，倡导走向微观叙事（petit récit）与地方性实践。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演变历程
 > - **1979 — 元叙事合法性危机确立** 利奥塔发表《后现代状况》，将后现代明确界定为对元叙事的质疑，宣告宏大真理时代的终结。
@@ -118,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle] 关键概念与理论构件
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -143,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜宏大[[Grand Theory|元叙事]]的终结引发科学知识合法性危机，教育探究必然走向局部微观[[Knowledge Production|知识生产]]
 > **解释** 利奥塔（1979）与詹姆逊（1991）指出，任何声称揭示全人类教育普遍铁律或单一发展阶段论的宏大理论（如经典[[Positivism|实证主义]]因果律、机械[[Human Capital Theory|人力资本]]投资模型或正统现代化阶段论）在后现代视域下均告破产。多元世界的[[Heterogeneity|异质性]]无法被装入同一套理论容器。教育研究不再服务于构筑包罗万象的宏大理论大厦，而是转向关注地方性的、情境化的局部知识生产（Local Knowledge），为不同文化与弱势群体赋予发声空间。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 27)]]
 >
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > **应用实例** 在学校[[Ethnography|民族志研究]]中，传统实证学者往往以专家自居，将受访学生和教师单向客体化为被分析的数据提供者。后现代研究者则采取合作性叙事与同伴审查，不仅在报告中保留多重乃至相互冲突的学生原声，更在引言中公开披露研究者自身的阶级背景与情感偏向，打破了学术霸权对真实经验的单向垄断。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 某项全球教育政策宣称的“普适经验”压制了何种地方[[Heterogeneity|异质性]]？主流学术标准背后隐藏了何种[[Discourse|话语]]垄断机制？学校微观生活中的边缘群体如何通过微观叙事解构官方权威？
@@ -189,8 +175,6 @@ updated: 2026-10-22
 > - **不能直接推出** 质疑[[Grand Theory|元叙事]]绝不等于否定客观历史事实的存在；解构研究者权威亦不代表研究可以放弃严谨的经验证据规范。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批评
 >

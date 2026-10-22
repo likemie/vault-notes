@@ -31,16 +31,12 @@ created: '2026-06-10'
 updated: 2026-10-22
 ---
 
-# Attentional Inertia
-
 > [!info] 核心定义
 > 注意力惯性（Attentional Inertia）指个体在进行[[Cognitive Shifting\|认知转换]]（Cognitive Shifting / Task Switching）时，由于过度关注先前具有相关性的规则或刺激特征，导致难以将注意力转移并压制旧规则以执行新规则的认知控制受阻现象。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 11)]]
 >
 > 这一概念通常用于解释幼童在规则转换任务中的行为表现，即他们能够口头陈述新规则，但在实际操作中仍然重复执行旧规则的特征。
 
 ---
-
-## 核心机制
 
 > [!abstract] 言行脱节与前额叶发育限制
 > 注意力惯性在行为表现上具有“言行脱节”的独特性质。在维度变化卡片分类任务 (Dimensional Change Card Sort, DCCS) 中，3岁的儿童在切换分类维度（例如从“按颜色”切换为“按形状”）时面临极大困难。
@@ -54,15 +50,11 @@ updated: 2026-10-22
 
 ---
 
-## 测量方法
-
 > [!method-panel] 维度变化卡片分类任务 (DCCS)
 > - **切换前阶段 (Pre-switch)** 要求受试儿童根据单一规则（例如卡片上物体的“颜色”）对卡片进行分类。此阶段 3–4 岁儿童能够完美通关。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 10–11)]]
 > - **切换后阶段 (POST-switch)** 突然要求儿童根据另一个规则（例如物体的“形状”）进行分类。低于 4–5 岁的儿童在无人协助的情况下通常无法完成此阶段，表现为持续使用切换前的规则。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 11)]]
 
 ---
-
-## 实证发现
 
 > [!finding-cards] 发展关键期
 > 1. **4–5岁成熟转折** 注意力惯性的克服具有显著的年龄依赖性。4–5 岁是完成 DCCS 切换后阶段的转折点，此后多数儿童能够成功压制旧规则并顺利实现[[Cognitive Shifting\|认知转换]]。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 11)]]

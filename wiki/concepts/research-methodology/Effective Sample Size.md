@@ -58,11 +58,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Effective Sample Size
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **有效[[Sample Size Determination\|样本量]]（Effective Sample Size，ESS）** 指在复杂抽样设计、多层嵌套模型或整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster-Randomised Controlled Trials）中，扣除由聚集性（Clustering）和[[Intraclass Correlation Coefficient\|群内相关系数]]（Intra-Cluster Correlation Coefficient，ICC）所引起的方差膨胀与设计效应（Design Effect，Deff）后，样本在统计学上实际等价于“独立同分布[[Random Sampling\|简单随机抽样]]（Simple Random Sampling）”的观测单位数量。它直接决定了统计检验力（Statistical Power）与参数估计的精度（即[[Confidence Interval\|置信区间]]宽度）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 统计样本概念横向对比
 > | 维度 | 有效[[Sample Size Determination\|样本量]]（Effective Sample Size） | 名义样本量（Nominal Sample Size） | 最小可测[[Effect Size\|效应量]]（MDES） |
 > |---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | **局限性** | 不直接反映外部代表性与实施质量 | 存在“大样本假象”，极易高估真实统计推断精度 | 依赖事前参数假定，若实际 [[Intraclass Correlation Coefficient\|ICC]] 高于预期则 MDES 显著恶化 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素与数学逻辑
 > - **设计效应（Design Effect，Deff）** 在[[Cluster Randomized Trials\|整群随机试验]]中，设计效应度量了[[Cluster Sampling\|整群抽样]]相较于[[Random Sampling\|简单随机抽样]]导致的估计方差膨胀倍数，其经典形式为：
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 统计功效与有效[[Sample Size Determination\|样本量]]演进历程
 > - **1970s–1980s — 统计学奠基阶段** 抽样统计学家（Kish, 1965; Cochran, 1977）形式化定义复杂抽样中的设计效应（Design Effect）与有效样本量概念，主要用于全国性人口普查与社会调查。
 > - **1990s–2000s — 多层模型与整群试验规程化** 随着[[Hierarchical Linear Model\|多层线性模型]]（HLM）的成熟，以 Donald Rubin、Larry Hedges 等为代表的方法学家将有效样本量推导引入[[Clinical Trial\|临床试验]]与教育实验，确立整群 [[Randomised Controlled Trials\|RCT]] 的样本量测算公式。
@@ -169,8 +157,6 @@ updated: 2026-10-22
 > - **2014–至今 — 国家尺度动员与有效样本量倍增** EEF 建立全国性学校动员网络与统一数据归档机制，单项试验平均纳入学校数量翻倍，推动有效样本量整体翻番，确立了全球教育现场因果评估的精度新基准。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -184,8 +170,6 @@ updated: 2026-10-22
 > 为了追求充足的有效样本量以获取微弱效应的统计检验力，研究者被迫招募成百上千所学校展开超大规模试验。然而，随着组织规模急剧膨胀，跨校培训质量、材料递送与教师依从度极易发生剧烈衰减，导致干预在现场被严重稀释，最终陷入“样本量足够大但干预实质已经名存实亡”的效度悖论。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 国际大规模教育现场试验[[Sample Size Determination\|样本量]]与统计精度实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

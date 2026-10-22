@@ -48,11 +48,7 @@ created: "2026-10-16"
 updated: 2026-10-22
 ---
 
-# John O'Neill
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰批判教育政策学者、梅西大学（Massey University）教育学院前院长与荣休教授。
@@ -75,17 +71,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2012 — *Open Letter on Proposed [[Class Size]] Increases in New Zealand Schools*** 针对新西兰政府依据可见学习[[Effect Size|效应量]]拟扩大班额的政策动向，系统梳理 Glass et al. 原始[[Meta-analysis|元分析]]实证文献，指出盲目扩班对处境不利学生的长期损害。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 > - **2016 — *A Political Economy of Education in New Zealand*** 深入剖析新西兰 1989 年权力下放以来的公共资产私有化与中介机构扩张，以[[Cognition Education|认知教育]]公司为案例，首次完整披露官方财政档案中记录的咨询酬金流向。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 奥尼尔指出，新西兰公共教育体系在权力下放与[[New Managerialism|新管理主义]]改革后，形成了学者、咨询外包企业与政府官僚深度绑定的政治经济利益网络。学术界应当高度警惕将复杂的[[Meta-analysis|元分析]][[Effect Size|效应量]]脱离情境地转变为削减公共支出的财政借口；当国家将教育评价权力外包给具有商业利益诉求的智库和个人时，公立教育的公平属性与教师的专业自主权必将遭受毁灭性挤压。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–33)]]
 
 > [!citation-card] [[Cognition Education|认知教育]]公司向[[John Hattie|哈蒂]]支付劳务报酬的审计核查
@@ -109,8 +101,6 @@ updated: 2026-10-22
 > - **呼应学者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 全文引用奥尼尔的财务调查发现，重构对新自由主义[[Knowledge Production|知识生产]]的系统批判。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

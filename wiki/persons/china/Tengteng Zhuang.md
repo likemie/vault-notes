@@ -33,7 +33,6 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的文献计量分析和制度化发展。

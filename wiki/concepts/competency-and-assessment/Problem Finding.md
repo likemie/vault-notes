@@ -57,11 +57,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Problem Finding
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Problem Finding|问题发现]]（Problem Finding，亦称问题建构 Problem Construction 或问题界定 Problem Identification）是指个体在开放、模糊或不良结构（Ill-structured）的情境中，主动探查信息缺口、重构潜在挑战并明确提出新颖且有价值的研究或实践问题的认知加工过程（Getzels & Csikszentmihalyi, 1976; Runco & Okuda, 1988; [[Argument_Runco_2026_CRJ|Runco et al., 2026, pp. 3, 8]]）。问题发现构成了完整创造过程（Creative Process）的前端核心枢纽，决定了后续观念生成（Ideation）与方案评价的认知方向与深度。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 问题发现 vs [[Divergent Thinking|发散思维]] vs 常规[[Problem Solving|问题解决]]
 > | 比较维度 | 问题发现（Problem Finding） | 发散思维（Divergent Thinking） | 常规问题解决（Problem Solving） |
 > |---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | **教育教学指向** | 劣构探究驱动（[[Problem-Based Learning\|PBL]]、探究性科学实验） | [[Brainstorming\|头脑风暴]]、非常规用途训练 | 步骤化算法演练、标准习题巩固 |
 
 ---
-
-## 核心要素
 
 > [!feature] 问题发现的核心认知子成分
 > - **问题敏感性（Problem Sensitivity）** 敏锐感知现有理论、技术或日常实践中的矛盾、漏洞、不协调与未被满足的需求。
@@ -138,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与理论张力
 >
 > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]争论
@@ -170,8 +158,6 @@ updated: 2026-10-22
 > 问题发现任务在[[Ecological Validity|生态效度]]与评分客观性上存在局限：人工主观评分存在[[Inter-Rater Reliability|评分者信度]]波动，且高度受限于被试的语言表达流畅性与特定领域的专业前备经验。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 问题发现与创造过程相关一阶与[[Meta-meta-analysis|二阶元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

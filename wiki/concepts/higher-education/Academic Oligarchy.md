@@ -43,11 +43,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Academic Oligarchy
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 学术寡头（Academic Oligarchy）源自 Burton Clark（1983）在 The Higher Education System 中提出的三角协调模型，将"专业寡头"（professional oligarchy）定位为高等教育治理中与国家权威和市场力量并列的第三极。在 Clark 的原始框架中，专业寡头指资深教授和学术行会通过控制学术标准、准入资格和同行评审来治理高等教育的一种协调模式。
 
 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]在分析高等教育的新政治经济学时重新激活并扩展了这一概念：在当代竞争转型中，市场化和[[Non-monetary Competition|非货币竞争]]不仅没有消解专业寡头的权力，反而催生了**新型的学术寡头结构**，少数精英大学和精英学者在公平竞争和卓越的[[Discourse|话语]]下，进一步集中了对学术资源分配和价值定义的实质控制（pp.798–799, 808–809）。

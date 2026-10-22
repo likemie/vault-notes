@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Single-sex Schools
-
 > [!metax] [单性别学校 · Single-sex schools](https://www.visiblelearningmetax.com/influences/view/single-sex_schools)
 > 学校 › 学校类型
 >

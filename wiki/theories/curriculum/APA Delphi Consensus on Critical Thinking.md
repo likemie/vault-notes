@@ -56,13 +56,9 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# APA Delphi Consensus on Critical Thinking
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** [[Critical Thinking\|批判性思维]]（Critical Thinking）的本质内涵、核心构成要素、[[Operationalization\|操作化]]定义及其在教育评估中的通用标准。
 > - **理论问题** 回应 20 世纪 80 年代批判性思维领域派系林立、定义模糊、测量工具缺乏统一[[Construct Validity\|构念效度]]基准的学界困境。
 > - **理论类型** 规范性与操作化共识理论框架（Normative & Operational Consensus Framework）。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > *The ideal critical thinker is habitually inquisitive, well-informed, trustful of reason, open-minded, flexible, fair-minded in evaluation, honest in facing personal biases, prudent in making judgments, willing to reconsider, clear about issues, orderly in complex matters, diligent in seeking relevant information, reasonable in the selection of criteria, focused in inquiry, and persistent in seeking results which are as precise as the subject and the circumstances of inquiry permit.* (Facione, 1990, p. 2)
 
 ---
-
-## 关键构件与双元架构
 
 > [!logic-map]- [[Critical Thinking|批判性思维]]双元架构（认知技能与情感倾向）
 > ```mermaid
@@ -141,8 +135,6 @@ updated: 2026-10-22
 > - **推导结论** 理想的批判性思维教学必须坚持“技能训练 + 习性浸润”双轨并进，唯有将[[Scaffolding\|认知脚手架]]与导师榜样示范结合，才能实现德尔菲框架所倡导的理性全人发展。
 
 ---
-
-## 实证表现与历史影响
 
 > [!ma-table]- [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 基于德尔菲双元框架的[[Meta-analysis\|元分析]]实证成果
 > | 德尔菲[[Construct\|理论构念]]维度 | 对应测量工具与样本规模 | 汇总效应量 $g+$ | 95% [[Confidence Interval\|CI]] | 核心实证结论 |

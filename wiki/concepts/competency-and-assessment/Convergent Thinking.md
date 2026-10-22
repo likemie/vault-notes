@@ -71,12 +71,9 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Convergent Thinking
 （聚合思维 / 收敛性认知加工）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 聚合思维（Convergent Thinking, CT）是指认知主体在面对明确规则、逻辑难题或结构化问题情境时，调动既有长时记忆图式与逻辑推论法则，对多源信息、潜在假设与证据线索进行批判性审视、鉴别、筛选与严密逻辑演绎，从而收敛并确定单一正确答案或最优解决方案的确定性认知加工过程。在经典认知心理学与学习科学中，聚合思维是逻辑推理测验、问题求解与[[Critical Thinking\|批判性思维]]（Critical Thinking）的核心心理[[Construct\|构念]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 6)]]
@@ -100,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 聚合思维 vs [[Divergent Thinking\|发散思维]] vs [[Critical Thinking\|批判性思维]] vs AI 辅助收敛
 > | 比较维度 | **聚合思维（Convergent Thinking）** | **发散思维（[[Divergent Thinking]]）** | **批判性思维（[[Critical Thinking]]）** | **AI 辅助收敛（AI-Assisted Convergence）** |
 > |---|---|---|---|---|
@@ -112,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **规则遵循与逻辑演绎（Rule Following & Deduction）** 严格依照形式逻辑、数学公理或领域规范展开自顶向下或自底向上的因果推演。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
 > - **信息筛选与证据权衡（Evidence Screening & Evaluation）** 辨析相关信息与无关干扰，评估证据真实性、论据支持力度与潜在偏见。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
 > - **方案比较与排他性收敛（Alternative Comparison & Elimination）** 对多个候选假设进行对照排查，逐步剔除矛盾选项并收敛至唯一最优解。
@@ -178,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -189,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1950s — 吉尔福特确立智力结构二元划分** J. P. Guilford 在智力结构理论中正式将聚合思维与[[Divergent Thinking\|发散思维]]并列为两大核心认知操作维度。
 > - **1960s — [[Remote Associates Test\|远距离联想测验]]的收敛测量** S. A. Mednick 研发远距离联想测验（RAT），开创了以“给定三词寻找唯一共同联结词”测度聚合[[Creativity\|创造潜能]]的[[Paradigm\|范式]]。
@@ -199,8 +188,6 @@ updated: 2026-10-22
 > - **2026 年 — 生成式 AI 与[[Man-Computer Symbiosis|人机协同]]论证重构** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 系统揭示了生成式 AI 作为辩难对手促进聚合批判思维（$n=27$）与诱发[[Cognitive Offloading\|认知卸载]]（$n=21$）的机制分水岭。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -217,8 +204,6 @@ updated: 2026-10-22
 > > - **警惕派（Fan et al., 2025; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）** 指出无指导使用会导致论证逻辑碎片化与表层顺从。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -246,8 +231,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] (引述 Fan et al., 2025) | 大学本科生学术论文写作 | 语料库质性分析与逻辑链追踪 | 论证连贯性与推导完整性 | 全盘依赖 AI 的学生论文呈现“马赛克式”段落拼贴，段落间缺乏因果演绎推导链 | — | 证实无支架使用会导致收敛性演绎推理严重退化 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学应用案例
 > - **“人机双轨对比与批注辩护”三步反思规程（Strobl et al., 2024; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**

@@ -59,16 +59,13 @@ citation_aliases:
   - "Hall, 2025"
   - "Hall (2025)"
 ---
-# Argument_Hall_2025_EthicalLegalFrameworks
 
 > [!question]
 > 大学与企业的合作从非正式关系走向正式协议时，面临一个系统性的谈判难题：双方在法律合规要求、组织价值观和政策规范上存在深层差异。这些差异不是偶发的摩擦，而是两种制度逻辑在"界面"上相遇时的结构性产物。大学以[[Academic Freedom\|学术自由]]和知识传播为核心使命，企业以市场竞争优势和股东回报为目标。如何在协议设计中使双方的成本、收益和风险得到匹配(p.259)，需要从战略、法律和伦理三个维度同时审视。
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 不使用显性理论框架，而是提供一种**操作性的三维分析视角(p.261)**，这三个透镜在协议谈判中同时运作：
 
 > [!abstract] 战略透镜（Strategic Lens）
@@ -86,8 +83,6 @@ citation_aliases:
 > 这是一篇政策与实践综述（policy and practice overview）。作者基于自身在 USC 担任科研副校长近 15 年的管理经验，结合美国大学[[University-Industry Collaboration\|产学合作]]的制度框架，系统梳理了产学合作协议的类型学、法律约束和伦理议题。
 
 ---
-
-## 论证结构
 
 > [!abstract] 步骤 1：协议是[[University-Industry Collaboration\|产学合作]]从非正式走向正式的机制枢纽
 
@@ -243,9 +238,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > 正式[[University-Industry Collaboration\|产学合作]]极少从零开始——其起点几乎总是非正式的、基于人际网络的关系（专业会议、校友就业、学生实习、研究者之间的共同兴趣发现等）。协议的作用是将这些非正式关系中已经验证的信任和共同兴趣转化为法律上可执行的承诺(pp.260–261)。
 
 > [!success|notitle]
@@ -262,9 +255,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "Both universities and companies look for creativity, novelty, and impact, as well as workforce development, economic growth, and IP, they prioritize different outcomes."(p.259)
 
 > [!quote|notitle]

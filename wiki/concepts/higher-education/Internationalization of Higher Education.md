@@ -67,11 +67,7 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Internationalization of Higher Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 高等教育国际化（Internationalization of Higher Education）指高等教育系统在办学宗旨、教学、科研与社会服务功能中整合国际、跨文化与全球维度的制度化过程。批判教育研究指出，国际化不仅是教育要素的跨境流动，更是国家地缘战略、政[[Governmentality|治理性]]与制度塑造深度交织的复杂实践；其驱动理性经历了从早期以能力建设和援助为特征的现代化[[Developmentalism|发展主义]]，到以全额学费和商业出口为导向的市场理性，并正在向以主导多边学术网络与重塑全球[[Epistemic Governance|知识治理]]为特征的[[Outward-Oriented Internationalization|外向型国际化]]深度转型。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 高等教育国际化与相近概念的辨析
 > | 维度 | 高等教育国际化（Internationalization of Higher Education） | [[International Education Hubs\|国际教育枢纽]]（IEHs） | [[Transnational Research Collaboration\|跨国研究合作]]（TRC） |
 > |---|---|---|---|
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > | **功能定位** | 拓展全球学术连接、提升办学声誉与服务国家地缘战略 | 培育[[Innovation Ecosystem\|区域创新生态]]系统、促进[[Knowledge-Based Economy\|知识经济]]转型与高教产业升级 | 攻关全球重[[Big Science\|大科学]]挑战、提升科研产出质量与拓展学术前沿 |
 
 ---
-
-## 核心要素
 
 > [!feature] 高等教育国际化的核心构成要素
 > - **驱动理性的历史演进** 涵盖从早期[[Developmentalism|发展主义]]（能力建设与现代化援助）、市场理性（全额学费创收与出口贸易）到地缘战略理性（制度[[Discourse|话语]]权与治理规则重塑）的多重目标体系。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 高等教育国际化核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -167,8 +157,6 @@ updated: 2026-10-22
 > | **外向型网络中心论** | 新兴大国借助[[Multi-University\|多元大学]]联盟与政产学协同网络织密多边连接，兼顾[[Epistemic Governance\|知识治理]]中心性与伙伴国自主能力建设 | 非西方国家主导的[[Belt and Road Initiative\|一带一路]]等区域与跨洲际高教合作倡议 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]]; [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 高等教育国际化的历史阶段演进
 > - **1950–1980s — [[Developmentalism|发展主义]]阶段**
@@ -183,8 +171,6 @@ updated: 2026-10-22
 >   刘伟等学者实证考察中国高校与中资央企在[[Belt and Road Initiative|一带一路]]中的定向联合培养项目，揭示外向型高教国际化在微观工程实践中兼顾长期经济自利与全球南方[[Capability Approach|能力进路]]的协同机制。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–195)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 市场商业化与[[Public Value|公共价值]]的内在张力
 > - **市场价值导向（商业出口逻辑）** 将高等教育作为赚取外汇储备、弥补公共财政赤字与积累机构声誉的出口产业，追求国际生招募规模最大化。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–98)]]

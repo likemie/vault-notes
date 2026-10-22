@@ -67,11 +67,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Critical Discourse Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 批判[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, CDA，近年亦称批判话语研究 Critical Discourse Studies, CDS）是一种将语言与符号活动视为社会实践形式的批判性[[Qualitative Research|质性研究]]方法。该方法主张语言使用与话语表征深受权力关系、意识形态与社会结构的塑造，并持续反作用于社会现实的建构与再生产；其核心目标在于穿透文本表层的良性修辞，阐明话语在合法化不平等、维持社会霸权以及推行特定政策议程中的深层机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 植根于社会建构论、[[Critical Theory|批判理论]]与[[Critical Realism|批判实在论]]；认为社会现实具有可分层的实在结构，[[Discourse|话语]]作为符号实践连接着可观察的语言表层与深层的权力利益机制。
 > - **研究者角色** 倡导明确的批判性反身立场，拒绝所谓的“客观中立”[[Positivism|实证主义]]幻象，研究者公开承担揭露权力不对称与促进社会公正的智识使命。
@@ -105,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. 界定研究涉及的政策争议或社会议题，选定代表性文本群并划定时间跨度与分析边界。
 > 2. 开展初读与文本层细读，提取主导词汇、语法特征、隐喻策略与政策框架类型。
@@ -115,8 +107,6 @@ updated: 2026-10-22
 > 5. 综合提炼理论洞见，形成针对政策修辞张力与深层战略意图的[[Explanatory Critique|解释性批判]]报告。
 
 ---
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -133,16 +123,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适合分析国家宏观教育战略演进、跨国教育合作政策的意识形态合法化过程、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
 > - **谨慎使用** 纯技术性教学流程测量、课堂微观师生语言互动的秒级编码（更宜采用[[Conversation Analysis|会话分析]] Conversation Analysis）。
 > - **不适合使用** 评估教育干预措施的大样本平均因果效应或开展跨国[[Academic Achievement|学业成绩]]排名的量化统计建模。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **解释过度与主观倾向风险** 批评者常指责批判[[Discourse Analysis|话语分析]]易受研究者先验政治立场的诱导，出现“按结论找文本证据”的偏倚。
@@ -161,8 +147,6 @@ updated: 2026-10-22
 > | [[Critical Policy Analysis]] | 替代与互补 | 批判政策分析关注[[Policy Network\|政策网络]]与资源权力分配，批判话语分析为其提供微观与中观的语言符号解构工具。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、政策框架理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与[[Geopolitics|地缘政治]]逻辑。

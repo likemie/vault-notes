@@ -33,8 +33,6 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Exogenous and Endogenous Variables
-
 > [!info] 定义
 > 外生[[Variable\|变量]]（exogenous variable）和内生变量（endogenous variable）是因果模型中对变量的一种结构性区分。外生变量不被模型中其他变量所引起，作为模型的输入端。内生变量受模型中其他变量的影响，处于模型的因果链之中([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.59]])。
 
@@ -72,9 +70,7 @@ updated: 2026-10-22
 
 因果网络（causal nets）是非递归因果模型的自然延伸——它描述的不是单条因果链，而是原因集群以多方向共同作用的网络结构。在因果网络中，变量之间不仅有链式关系，还有互向关系，以及多个原因同时对多个效果施加因果力的网状结构（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 66–67]]）。因果网络不预设单一的因果方向或线性关系，而是承认在多因多果的情境中，关系及其分析是概率性、条件性和虚拟的——因果网络和因果条件比因果线或因果事件链更恰切地描述因果性。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **外生/内生 vs 自[[Variable\|变量]]/[[Dependent Variable\|因变量]]**。[[Independent Variable\|自变量]]和因变量描述的是变量之间"谁影响谁"的二元关系。外生和内生描述的是变量在完整因果模型中的结构位置。一个内生变量可以是某个下游变量的自变量，同时又是上游外生变量的因变量。两者的区分层次不同。
 
 > [!example|notitle]

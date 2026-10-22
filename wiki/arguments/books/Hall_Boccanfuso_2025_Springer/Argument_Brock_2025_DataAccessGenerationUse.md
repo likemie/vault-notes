@@ -56,7 +56,6 @@ citation_aliases:
   - "Brock, 2025"
   - "Brock (2025)"
 ---
-# Argument_Brock_2025_DataAccessGenerationUse
 
 > [!question]
 > 在[[University-Industry Collaboration\|产学合作]]协议中，数据条款长期被边缘化。数据往往被泛化地塞进知识产权、发明或保密信息的定义中，缺乏独立的和上下文特定的界定。这种做法导致协议条款在不同解释之间摇摆，为后续冲突埋下伏笔。需要回答的问题有三个层面：第一，数据在产学协议中应如何被独立定义。第二，数据的"所有权"与"使用权"在法律上如何区分、各自应如何约定。第三，隐私法规、安全标准和资助方政策构成的治理框架如何嵌入协议条款。
@@ -78,8 +77,6 @@ citation_aliases:
 > 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（NIST SP 800-53）、[[EU|欧盟]]法规（GDPR、Data Governance Act）、学术文献 (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
 
 ---
-
-## 论证结构
 
 > [!abstract] 步骤 1：数据缺乏统一定义是产学协议的根源性隐患
 
@@ -236,9 +233,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > 产学协议中数据的根本问题不是技术性的，而是定义性的。联邦法规（[[National Institutes of Health|NIH]]、DoD、ED）、行业标准（[[University Industry Demonstration Partnership\|UIDP]]）和普通字典提供了互不兼容的"数据"定义。缺乏统一定义导致数据在协议中被泛化地归入知识产权、发明或保密信息的宽泛范畴，丧失了作为独立议题被精确界定的机会(pp.290–292)。
 
 > [!success|notitle]
@@ -255,9 +250,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "Perhaps the most challenging feature of 'data' in UI relationships is that there is no universal definition."(p.290)
 
 > [!quote|notitle]

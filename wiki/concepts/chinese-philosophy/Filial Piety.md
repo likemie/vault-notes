@@ -35,11 +35,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Filial Piety
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 孝是儒家[[Five Cardinal Relationships\|五伦]]中父子关系对应的子女德目，指子女对父母的真诚敬爱和道德义务。孝与父母的慈爱（ai/ciài, 愛/慈愛）构成相互的义务关系——"父母对子女福祉的完全承诺"与子女对父母的孝敬相互建构([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])。
 
 > [!quote|notitle]
@@ -47,9 +43,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **孝 ≠ 提供物质赡养**[[Confucius\|孔子]]的名言直指要害——如果孝只是"能让父母有饭吃"，那与养狗养马有何区别？真正的孝在于"敬"——即发自内心的尊重和情感，而非单纯的物质供给或形式上的义务履行([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])。
 
 > [!example|notitle]

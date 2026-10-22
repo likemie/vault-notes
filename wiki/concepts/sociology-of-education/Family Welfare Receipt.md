@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Family Welfare Receipt
-
 > [!metax] [家庭领取社会救助 · Family on welfare / state aid](https://www.visiblelearningmetax.com/influences/view/family_on_welfare~state_aid)
 > 家庭 › 家庭资源
 >

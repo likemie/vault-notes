@@ -45,11 +45,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Disciplinary Institutionalization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学科建制化（Disciplinary Institutionalization）是指一个新兴的知识体系、工程技艺或问题领域，通过明确研究对象与核心方法论[[Paradigm|范式]]，在[[Research Universities|研究型大学]]内部建立独立的教学科研系所、学位授予点与教职序列，并在外部获得政府公共研发资金与专业学会认可，从而演进为制度化、自主性学术学科（Academic Discipline）的社会历史过程。该概念强调外部资源注入与大学内部[[Knowledge Production|知识生产]]机制的互动共演：以战后计算机科学为例，即便在私营硬件制造工业已具规模的背景下，联邦国防科研经费的持续注资依然是促成高校建立独立计算机系所、打通基础研究与工程应用枢纽的关键制度催化剂。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
@@ -70,9 +66,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **院系建制与学位序列（Departmental & Degree Structure）** 在大学内部建立独立的计算机系或交叉实验室，设立学士、硕士与博士学位培养方案，摆脱对传统数学系或电气工程系的依附。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
 > - **外部公共科研资助网络（External Public Funding Network）** 联邦科技部门（如国防部高级研究计划局与国家科学基金会）设立专项基金，为大学基础与应用探索提供稳定经费，克服短期商业收益视角的狭隘性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 38)]]
 > - **跨部门知识杂交与人才枢纽（Cross-Fertilization & Talent Pipeline）** 高校在新兴学科建制化中充当连接政府、产业界与学界的[[Knowledge Mediation|知识中介]]，持续为工业界供给具备跨界视野的先驱科学家与工程骨干。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > **学科建制化构建产学军知识网络** 大学计算机科学学科建制化的深远意义不仅在于产出了前沿硬件架构与网络协议，更在于大学成为连接联邦政府、国防部门与民用商业产业的核心枢纽。大学培养出大批兼具扎实科学理论与工程实践素养的高层次青年学者与工程师，打破了国防科研与商业市场之间的知识阻隔，形成了持续的人才输送与跨部门知识流动机制。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
 
 ---
-
-## 概念命题汇总
 
 > [!prop-table] 围绕学科建制化形成的代表性命题
 > | 命题陈述 | 核心机制 | 提出学者 | 实证支持情境 |

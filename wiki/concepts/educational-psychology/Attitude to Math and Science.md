@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Attitude to Math and Science
-
 > [!metax] [数学／科学态度 · Attitude to math / science](https://www.visiblelearningmetax.com/influences/view/attitude_to_math~science)
 > 学生 › 动机取向
 >

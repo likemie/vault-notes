@@ -39,14 +39,11 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Amelia Peterson，哈佛大学教育研究生院（Harvard Graduate School of Education）研究者。以提出"什么有效 2.0"（What Works 2.0）整合框架著称——将实验科学的[[Mechanism Experiments\|机制实验]]与[[Improvement Science\|改进科学]]的网络化方法结合，旨在避免教育研究中的"[[Paradigm\|范式]]战争"，加速关于系统性教育研究基础设施和资金的国际讨论([[Argument_Peterson_2016_IJRME\|Peterson, 2016]])。
 
-## 核心思想
-
-> [!info|notitle] 核心思想
+> [!info] 核心思想
 > Peterson 的核心贡献在于论证"什么有效"（以黑箱 [[Randomised Controlled Trials\|RCT]] 为中心）与[[Improvement Science\|改进科学]]（以网络化[[Practitioner Enquiry\|教师探究]]为中心）**并非对立而是互补**。她提出了一个双向整合框架：
 >
 > 1. **[[Mechanism Experiments\|机制实验]]** 改革 RCT 设计——从评估整个项目转向测试可迁移的教育变革机制

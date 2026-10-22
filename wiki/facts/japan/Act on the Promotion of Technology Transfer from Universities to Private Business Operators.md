@@ -49,11 +49,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Act on the Promotion of Technology Transfer from Universities to Private Business Operators
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1998 年由日本国会全票通过，文部科学省（MEXT）与[[Ministry of International Trade and Industry|通商产业省]]（现经济产业省 METI）联合颁布实施。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 效仿美国 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》的日本版本核心支柱立法，直接催化了 2004 年日本国立大学法人化改革。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法案通过赋予大学技术许可机构（Technology Licensing Organization, [[Technology Transfer Office|TLO]]）独立公司法人的法定地位，向经认定的 TLO 提供政府运营补贴与专利费减免，并彻底松绑大学教授创业兼职与持股限制，建立了以市场为导向的高校专利商业化制度闭环。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1998 日本国会正式审议并通过《[[Technology Transfer|大学技术转移]]促进法》（[[Technology Transfer Office|TLO]] 法）。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - 1999 日本出台《产业活力再生特别措施法》（日本版拜杜条款），允许企业全额保留政府资助专利所有权。
@@ -91,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施情况
-
 > [!actor-grid] 实施角色分工
 > - **立法与主管部门** 文部科学省与经济产业省，负责认证 [[Technology Transfer Office|TLO]] 资质、审核科技预算补贴与发布年度执行白皮书。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **执行核心主体** 东京大学、筑波大学、庆应义塾大学等高校设立的独立 TLO 公司，承担专利检索、权利申请、商业谈判与诉讼维权。
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > - **产业承接方** 丰田、佳能、索尼等跨国制造巨头以及[[Tokyo Bay Area|东京湾区]]高科技初创企业。
 
 ---
-
-## 成效评估与实证影响
 
 > [!finding-cards] 核心政策成效
 > 1. **高校专利商业化爆发式增长** 法案实施后，日本全国[[Emergence|涌现]]出数十家专业 [[Technology Transfer Office|TLO]]，大学发明专利申请量与对外许可合同金额实现数量级跃升。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]

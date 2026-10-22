@@ -61,8 +61,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Report on the State of Public Instruction in Prussia
-
 ---
 
 ## 背景
@@ -129,8 +127,6 @@ updated: 2026-10-22
 > - **北美[[Common School Movement\|公学运动]]的合法化神兵** 在合众国，[[Horace Mann\|霍勒斯·曼]]与斯托等人面临着极其顽固的加尔文教派与地方纳税人保守抵抗。库森报告通过确立“公共学校是现代繁荣文明之基”的普遍法则，为北美改革者提供了击碎国内保守阵营谎言的绝佳外部权威与合法性论据（legitimating rationales）。（pp. 31–34）
 
 ---
-
-## 争议与学术史定位
 
 > [!debates] 报告的方法论与理论定位争议
 >

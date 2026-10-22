@@ -61,11 +61,7 @@ created: 2026-08-28
 updated: 2026-10-22
 ---
 
-# Test of Teaching Knowledge
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 教学知识测验 (TTK)
 > - **工具类型** 教师专业胜任力标准化表现性测验（Performance-Based Standardized Assessment）。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **实施方式** 标准化机考或纸笔测试，由一系列基于真实教育情境的建构反应题（Constructed-Response Items）组成。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[InTASC Standards]] 核心教学胜任力维度
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -89,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!proc] 题型结构与作答机制
 > - **拒绝封闭选择，采用建构反应** 区别于传统只考事实记忆的[[Multiple-Choice Questions\|选择题]]，TTK 全面采用**建构反应题（Constructed-Response Items）**，要求考生阅读真实课堂教学实录、学生[[Homework\|作业]]样本或教学困境案例，亲自撰写教学设计、解释干预逻辑并论证理论依据。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 21)]]
 > - **双重角色考核** 既测查教师自身的批判分析与[[Problem Solving\|问题解决能力]]，更重点测查教师“通过教学培育学生高阶能力”的教学胜任力。
@@ -102,8 +94,6 @@ updated: 2026-10-22
 > - **评分员校准（Rater Calibration）** 由 [[Educational Testing Service\|ETS]] 提供严格的评分员培训与校准研讨机制，确保开放式答卷在跨考区评阅时保持高[[Reliability\|信度]]与跨考官一致性。
 
 ---
-
-## 使用情况
 
 > [!usage-cases] 使用情境
 > - **美国 15 州联盟试点** 由 15 个 [[InTASC Standards\|InTASC]] 成员州联合采纳，作为教师职前教育质量退出评估与教师资格准入创新的示范性工具。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 21)]]

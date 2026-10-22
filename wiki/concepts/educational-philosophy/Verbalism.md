@@ -33,11 +33,7 @@ created: 2026-08-03
 updated: 2026-10-22
 ---
 
-# Verbalism（言语主义 / 空谈）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **言语主义（Verbalism）** 由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（2000）中确立。它指在教育与政治讨论中，对话被剥离了改变现实的行动（Action）而退化为纯粹的空谈或无意义的口头文字游戏。弗莱雷指出，真正的实践是“反思与行动的统一”，若只有反思而缺乏行动，对话就会异化为言语主义。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 81)]]
@@ -66,9 +62,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **行动维度剥离（Deprivation of Action）** 讨论仅停留在理智觉察与口头批评。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 > - **假对话异化（Degeneration into Chatter）** 平等对话退化为象牙塔内的功利辩论或消遣聊天。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 > - **维持压迫现状（Preservation of Status Quo）** 因无实质行动，客观上保留了被压迫者受剥削的现实。同上
@@ -98,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用言语主义诊断 IB TOK 课程“只讨论不行动”的致命瓶颈。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 言语主义批判针对的是将反思封顶在口头辩论中的惰性态度，并不否定探究初期必要的理论澄清与观念反思阶段。

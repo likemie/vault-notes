@@ -65,11 +65,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Alain Desrosières
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国当代著名统计学家、社会学家与科学史家，法国国家统计与经济研究所（INSEE）资深主任统计总监（Administrateur de l'INSEE），[[CNRS|法国国家科学研究中心]]（CNRS）与法国社会科学[[Institute for Advanced Study|高等研究院]]（EHESS）亚历山大·柯瓦雷科学史研究中心（Centre Alexandre-Koyré）核心研究员。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970–1980 年代 — 社会分类编码与公约构建期** 关注统计分类如何被发明与制度化，将职业与阶层分类阐明为统计学家、国家行政官僚与社会工会博弈协商所确立的社会公约。
 >   - **代表著作** 《社会职业分类》（*Les Catégories socioprofessionnelles*, 1988, 与 Laurent Thévenot 合著）。
@@ -110,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 量化统计本质上是一种通过制定规范惯例、消除地方情境差异并建立“[[Space of Equivalence|等值空间]]”（Space of Equivalence）来强行“将事物凝聚在一起”（*tenir ensemble*）的制度建构工程，区别于中立被动的镜像测量。量化兼具科学“证明”（Prouver）与政治“治理”（Gouverner）的双重功能；一旦统计指标脱离认知探索转为行政问责与资源分配工具，便会借助数字的客观科学表象掩盖复杂的政治价值决断，并通过自我实现的[[Commensuration|通约]]机制深度重塑被测量对象的实践生态。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] [[Alain Desrosières|德罗西埃]]论统计作为制造等值空间的制度公约
@@ -122,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了量化社会学（Sociology of Quantification）传统，与特奥多尔·波特（Theodore Porter）、阿兰·考夫曼（Alain Cottereau）共同奠定了现代统计政治社会学基石。
 > - **方法路径** 倡导“公约主义方法论”（Conventionalist Methodology），要求研究者在面对量化图表与模型时，必须回溯其底层分类编码体系的生成历史与协商过程。
 > - **政策路径** 深刻影响了批判政策社会学与比较教育学；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、[[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）等学者将其概念用于解构[[OECD|经合组织]]与[[PISA]]等全球量化监控网络。
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **机构平台** 法国国家统计与经济研究所（INSEE）、[[CNRS]]、亚历山大·柯瓦雷科学史研究中心 — 长期开展统计公约研发与科学史反思的机构基地。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

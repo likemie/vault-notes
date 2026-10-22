@@ -35,8 +35,6 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# Proof of Concept Programs
-
 > [!info] 定义
 > 概念验证项目（Proof of Concept Programs, 也称 Proof of Product Programs, PoPs）是大学资助的[[Translational Research\|转化研究]]孵化项目，通过[[Non-dilutive Funding\|非稀释性拨款]]（non-dilutive grants）与产业[[Mentorship\|导师制]]相结合，帮助研究团队验证其技术的技术可行性和市场可行性（pp.148-149）。资助金额通常在 $10,000 至 $100,000 之间，项目周期为几个月到一年，目标是推进转化研究达到一个明确的里程碑，以揭示关于项目技术或市场前景的关键信息（pp.148-149）。
 
@@ -47,9 +45,7 @@ updated: 2026-10-22
 > - **结项阶段** 产业成员提供反馈；部分有前景的创新被搁置，但保留下来的项目具备了推进衍生企业创建的坚实基础
 > - **后续跟踪** 产业组织有时会继续跟踪并参与衍生企业的早期发展，在时机成熟时提供进一步支持
 
-## 产业参与的价值
-
-> [!success|notitle]
+> [!success] 产业参与的价值
 > 产业在 PoP 项目中最重要的贡献是提供"市场声音"（voice of the market）——包括客户需求、竞争格局、分销渠道、制造成本和销售周期等市场洞察。这种输入是产业能够为刺激创新和创业成功提供的最重要、最普遍的高价值贡献（p.148）。
 
 > [!note|notitle]

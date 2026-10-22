@@ -39,13 +39,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Economy of Experience
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 履历经济学（Economy of Experience）是英国社会学家Phillip Brown提出的概念，描述在高等教育大众化和[[Credential Inflation\|文凭通胀]]背景下，大学生为了在求职市场获得竞争优势，必须将自己大学期间的课余生活（旅行、实习、社团、志愿服务等）进行精心的投资、管理和包装，使其成为简历上可兑换为就业[[Competitiveness|竞争力]]的"履历资本"。
 
 > [!quote|notitle]

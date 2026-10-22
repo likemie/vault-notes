@@ -52,11 +52,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-# Didaktik
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教学论（Didaktik）是德语教育传统中的教学理论与教学论传统，关注什么知识值得教、为什么教、以及如何教，旨在连接课程内容选择、教育目的和教师的教学判断。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 2]]
@@ -150,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -167,8 +161,6 @@ updated: 2026-10-22
 > - **2014年 — 芬兰跨学科课程改革的理论整合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 7]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 

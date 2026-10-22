@@ -32,11 +32,7 @@ created: 2026-05-31
 updated: 2026-10-16
 ---
 
-# Definition of Terms
-
-## 定义与目的
-
-> [!info|notitle]
+> [!info] 定义与目的
 > 术语定义（Definition of Terms）是研究计划中对关键术语的精确界定。其目的是确保读者（尤其是领域外人士）能够准确理解研究者使用的概念，避免读者带着一套定义阅读，后来才发现作者使用的是另一套定义([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
 Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scientists have sharply defined terms with which to think clearly about their research and to communicate their findings and ideas accurately"（p.22）。Firestone (1987) 则从语言哲学的角度解释了为何需要定义：
@@ -70,8 +66,6 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 
 ---
 
-## 三种研究路径中的术语策略
-
 > [!abstract] 策略差异
 > 术语定义的策略因研究路径而异，这与[[Literature Review\|文献综述]]在三种路径中的不对称性是平行的([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
@@ -88,8 +82,6 @@ Wilkinson (1991) 强调了术语定义在科学活动中的核心地位："Scien
 [[Mixed Methods Research|混合方法研究]]的术语策略视起始阶段而定：如果研究以量化阶段开始，可包含独立的定义章节；如果以质性阶段开始，术语可在研究过程中涌现。但混合方法特有的术语（如"[[Convergent Design|聚敛式设计]]""整合""[[Metainferences|元推论]]"）应在程序讨论中加以说明。
 
 ---
-
-## 定义示例
 
 > [!example] VanHorn-Grassmeyer (1998) 的术语定义
 > 在一项关于高校学生事务新专业人员反思实践的[[Mixed Methods Research\|混合方法研究]]中，VanHorn-Grassmeyer 在第一章的独立"Definition of Terms"节中详细定义了"Individual Reflection"和"Student Affairs Professional"两个关键术语。每个定义引用 Schon (1983)、Argyris and Schon (1978)、Baskett and Marsick (1992) 等文献中的约定含义，展示了将术语定义建立在已有学术文献基础之上的做法（引自 Creswell & Creswell, 2022）。

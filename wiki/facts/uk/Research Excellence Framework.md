@@ -62,11 +62,7 @@ created: 2026-06-01
 updated: 2026-10-19
 ---
 
-# Research Excellence Framework
-
 ---
-
-## 政策背景档案
 
 > [!policy-context] 英国全国性大学研究评估体系
 > | 维度 | 政策要素 |
@@ -77,8 +73,6 @@ updated: 2026-10-19
 > | **制度位置** | 作为准政府性质的全国性[[External Auditor\|外部审计]]机构，行使宏观质量控制，是高等教育准市场资源配置的核心机制 |
 
 ---
-
-## 评估体系的历史演进
 
 > [!phase] 评估机制与政策导向的演变
 > - **RAE 奠基阶段（1986年—2008年）**
@@ -91,8 +85,6 @@ updated: 2026-10-19
 >   针对以往评估偏向短期经济转化的弊端，REF 2029 重构评估结构，设立独立的“参与与影响”（Engagement and Impact）剖面，明确要求高校在影响力案例中纳入公众参与证据与策略，在“战略、人才与科研环境”（Strategy, People and Research Environment）部分陈述参与发展规划，并将全职公众参与专业支持人员（Engagement Professionals）人数纳入科研共同体基础数据核算（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 101]]）。
 
 ---
-
-## 准市场的多重制度效应
 
 > [!theory-components] REF/RAE 驱动的资源与行为重塑
 > - **准市场的强力资源分配机制**
@@ -114,8 +106,6 @@ updated: 2026-10-19
 
 ---
 
-## 学术审计催生的大学形变
-
 > [!dimension] RAE/REF 审计催生的英国大学[[Shape-Shifting\|形变]]维度
 > - **外部治理的自治权力侵蚀**
 >   大学对“学术质量”和“制度使命”的自我定义权向[[External Auditor\|外部审计]]机构转移。由 REF/RAE 与高等教育质量保障署（QAA）等准政府机构主导的数值化评估，在大学外部确立了以审计为主导的质量控制边界，削弱了学术共同体的传统自治权（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 320]]）。
@@ -127,8 +117,6 @@ updated: 2026-10-19
 >   研究关系陷入彻底的效能化和准商品化。为迎合 REF 的评估指标，科研经费和评估等级被高度绑定于社会影响（impact）。这导致探索未知本质的[[Curiosity-Driven Research\|蓝天研究]]被降级为非[[Pragmatic Paradigm\|实用主义]]学术，传统的洪堡与雅斯贝尔斯式的人文主义科研追求被纯粹的工具主义契约关系所取代（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 321–322]]）。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 学术审计与 REF 影响研究
 > - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Curiosity-Driven Research\|蓝天研究]]。

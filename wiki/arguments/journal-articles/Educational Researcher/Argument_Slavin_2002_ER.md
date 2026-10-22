@@ -59,7 +59,6 @@ journal: "Educational Researcher"
 book_title: ""
 issuing_organization: ""
 ---
-# Argument_Slavin_2002_ER
 
 > [!info] [[Research Question\|研究问题]]
 > 教育研究能否通过采用证据本位政策——即依赖[[Random Assignment\|随机化]]和严格匹配实验来评估可复制的教育项目——实现类似医学和农业的渐进式、系统性改进？(p. 15)
@@ -82,8 +81,6 @@ issuing_organization: ""
 > - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001\|NCLB]] 法案文本、OERI 战略计划）、方法论文献、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment\|随机化]]评估经验）
 
 ---
-
-## 论证结构
 
 > [!example] 核心论证
 > ### 1. 教育落后于其他领域的证据革命

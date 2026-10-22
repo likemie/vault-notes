@@ -34,8 +34,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Tense Society
-
 > [!info] 定义
 > Tense Society（张力社会）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中使用的概念，描述当代社会的一个核心特征：所有社会领域都在经历"新"与"旧"之间的指数级加速张力，这些张力彼此高度互联。在张力社会中，"正常"就是张力——张力不再是例外或危机，而是存在的常态。Delambre 警示："如果张力教育不成为一个全球[[Geopolitics|地缘政治]]项目，我们未来可能面临重大的破坏性张力"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110–112, 121]])。
 >

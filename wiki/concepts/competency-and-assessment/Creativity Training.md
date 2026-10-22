@@ -89,11 +89,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Creativity Training
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Creativity\|创造力]]训练（Creativity Training）指通过显性讲授认知启发式策略、提供结构化[[Problem Solving\|问题解决]]模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属特权或神秘不可测灵感的宿命论偏见。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 1–3)]]
@@ -127,8 +123,6 @@ updated: 2026-10-22
 > | **失败容忍度** | 高容错，鼓励在概念跳跃与试错中发现新构想 | 低容错，强调精确掌握标准操作程序与避免错误 | 中等，强调依据[[Evidence Standards\|证据标准]]纠正错误信念 |
 
 ---
-
-## 核心要素与干预范式
 
 > [!taxonomy] [[Creativity\|创造力]]干预与教育教学的五大核心[[Paradigm\|范式]]
 > - **结构化认知训练课程** 显性讲授系统化认知策略与思维工具（如[[Creative Problem Solving\|创造性问题解决模型]] CPS $d = 0.74$、普渡创造性思维计划 PCTP $d = 0.63$、[[SCAMPER]] 创新思维技法）。
@@ -314,8 +308,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -335,8 +327,6 @@ updated: 2026-10-22
 > - **2026 年 — [[Meta-meta-analysis\|二阶元分析]]确立全领域实证基准** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 综合 52 项一阶元分析（124 万人样本），确立教育教学干预在全领域创造力相关因素中位列第一（$r = 0.20$）。
 
 ---
-
-## 争议与边界
 
 > [!debates] 学术争议
 >
@@ -372,8 +362,6 @@ updated: 2026-10-22
 > 3. **防范长期习惯化倦怠** 超长周期持续操练易导致注意力耗竭与工具依从性，应采用模块化、中短期循环迭代的课程组织方式。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -447,8 +435,6 @@ updated: 2026-10-22
 > > | Sio & Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
 
 ---
-
-## 教育应用与教学实践
 
 > [!implication]- 教学设计四大黄金原则
 > 1. **显性策略教学优先** 教学中应系统传授 [[Creative Problem Solving\|CPS]] 模型、[[SCAMPER]] 算子等可操作的启发式策略，而非期望学生在缺乏支架的自由活动中自发领悟；

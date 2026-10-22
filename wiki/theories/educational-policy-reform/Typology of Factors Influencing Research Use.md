@@ -68,13 +68,9 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# Typology of Factors Influencing Research Use
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 解释教育研究证据在政策制定和学校教学实践中为何被利用或被搁置，识别推动研究采纳的促成机制与阻碍[[Research Translation\|研究转化]]的结构性障壁。
 > - **理论问题** 回应[[Evidence-Based Education\|循证教育]]与[[Knowledge Mobilisation\|知识动员]]领域长期存在的要素孤立化与机制碎片化困境，厘清因素（Factors）、机制（Mechanisms）、障壁（Barriers）、干预（Interventions）与战略（Strategies）之间的逻辑层级与交互模式。
 > - **理论类型** 跨领域中层机制分类学与多维度系统[[Analytic Framework\|分析框架]]。
@@ -105,8 +101,6 @@ updated: 2026-10-22
 > | 概念层级拓扑 | 拓扑构件 | 明确“因素 → 促成机制/阻碍障壁 → 干预方案 → 综合战略”的递进逻辑链。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜影响教育[[Research Utilization\|研究利用]]的因素横跨五大异质维度并在政策与实践情境中呈现差异化权重与非对称表现
 > - **前提一（要素五维分类与[[Heterogeneity\|异质性]]）** 影响研究利用的因素不可简化为单一维度的技术或认知问题，而是横跨信息、互动、个体特征、结构与组织、文化五大维度；每个维度同时包含正向促成机制与反向阻碍障壁。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 122–123)]]
@@ -175,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 关系的、情境化的系统治理本体论。[[Research Utilization\|研究利用]]是多维度行动者在特定制度结构与文化网络中互动的结果，而非孤立线性的技术传递。
 > - **[[Epistemology\|认识论]]** [[Critical Realism\|批判实在论]]与[[Pragmatic Paradigm\|实用主义]]认识论。承认证据客观特性的同时，强调行动者的认知图式、组织习惯与政治诉求对证据吸收的决定性过滤作用。
@@ -215,8 +207,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 理论争议
 >
 > > [!axis] 还原论要素分解 vs 复杂自适应系统生态
@@ -226,8 +216,6 @@ updated: 2026-10-22
 > > - **[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]]** 回应指出，类型学并非主张机械还原，而是为高度复杂的治理现象提供可操作的诊断支点与分析基准，其终极目标正是推动从碎片要素向系统级协同发展。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[OECD\|经合组织]] 37 个教育系统机制覆盖率与障壁感知核心数据（2021年）
 > | 调查维度与核心指标 | 政策制定端覆盖率/比例 | 学校教学实践端覆盖率/比例 | 结构性差异与特征洞察 |

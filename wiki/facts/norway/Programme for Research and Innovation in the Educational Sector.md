@@ -61,11 +61,7 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# Programme for Research and Innovation in the Educational Sector
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 挪威教育部门研究与创新计划（Programme for Research and Innovation in the Educational Sector, FINNUT）是挪威研究理事会（Research Council of Norway, RCN）于 2014 至 2023 年统筹实施的为期十年的国家级教育研发专项计划；旨在通过系统资助高水准科研，激发教育系统全流程创新，并为从学前教育到成人教育各层级的教学实践与政策制定提供全方位证据支撑。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > - **核心问题导向** 克服教育科学研究的碎片化，化解基础战略研究与应用研究及现场创新之间的体制脱节，构建全国性教育科研与政策实践的合作枢纽平台。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > FINNUT 改变了传统的纯[[Academic Freedom\|学术自由]]申报或纯政府指令采购模式，创新性设立三类具有差异化[[Knowledge Mobilisation\|知识动员]]导向的资助类别（研究者主导、用户主导、用户协同参与），以此同时达成产出高精尖国际前沿成果、强化实践者本土研究能力，以及在制度化平台上实现跨部门协同治理的三重目标。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
@@ -100,16 +94,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2014–2017 年 — 规划确立与多轨资助启动** 发布《FINNUT 工作规划 2014–2023》，确立四大资助领域与三类项目申报渠道，资助第一批大型学术与用户协同课题，搭建国家合作平台基础架构。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
 > - **2018–2020 年 — 中期评估与跨界协同拓展** 深化与[[Kunnskapssenter for utdanning\|挪威教育知识中心]]（KSU，设于斯塔万格大学）的业务联动，强化[[Systematic Review\|系统综述]]与知识综合成果向各级教育委员会的定向报送，扩大实践者参与比例。
 > - **2021–2023 年 — 成果集成、全系统辐射与终期结项** 全面总结十年研发成果，系统评估学术影响力与政策实践转化效能，作为 [[Centre for Educational Research and Innovation\|OECD CERI]] 跨国调查中兼顾科研生产与利用统筹的典范范例被系统提炼，为挪威后续教育科研中长期规划奠定制度基石。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 115–116)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 挪威研究理事会（Research Council of Norway, RCN）— 享有国家法定统筹权威，设立长周期专项拨款，主导《FINNUT 工作规划》并监督课题立项。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 通过中期审查与跨国政策调研动态微调项目评审准则，兼顾国际同行评议科学严谨性与一线教育实践相关性。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 挪威研究理事会设立的十年长周期专项研发资金，覆盖青年科研人员学术流动与博士后工作站。
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **41% / 22%** （跨国对照） OECD 跨国调查显示，仅 41% 的教育系统具备科研生产长期战略，仅 22% 具备科研利用战略；FINNUT 代表了跨国前列的高度制度化统筹形态。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 111, 116)]]
 
 ---
-
-## 争议、局限与反思
 
 > [!warning] 局限与反思
 > - **学术评价指标与本土实践转化的潜在冲突** 计划在评估未来影响力时，仍部分依赖于国际科学期刊引文频次（Citation Frequency in International Scientific Journals）等传统学术指标，这在一定程度上可能诱导科研团队优先迎合西方英语主流期刊的发表偏好，而相对削弱需要长期浸润的本土学校现场共创动力。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]

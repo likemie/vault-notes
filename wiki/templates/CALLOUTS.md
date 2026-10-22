@@ -9,8 +9,6 @@ created: 2026-06-20
 updated: 2026-10-21
 ---
 
-# Callouts
-
 本文件是组件速查表，按**想表达的内容类型**分组。具体视觉样式见 `argument-callouts.css`。
 
 ## 视觉系统 v4 · Editorial Hairline（2026-10-20）
@@ -509,13 +507,14 @@ updated: 2026-10-21
 - `[!chain-link]` 是低频、强语义组件。若相邻链节可以交换顺序、删除一项而不影响结论，或每项只是并列信息，则禁止使用。
 - **`[!claim|lead]`**：紧跟章节标题（如“### 论证步骤一 …”）的核心主张写 `> [!claim|lead] 步骤一核心主张`。`|lead` 让卡片只显示 CORE CLAIM 眉标、不再重复标题；独立出现、需要自身标题的 claim 不加 `|lead`。
 - **动态层（2026-10-22）**：CSS 末尾 `12 Motion` 段。卡片悬停上浮并点亮顶边；流程节点弹起并点亮当前连线；时间轴节点放大；表格行左侧强调条；tension 两卡向中线靠拢、VS 旋转；interdependence 顶部渐变流动；折叠内容淡入；列表条目错峰浮现。全部受系统“减少动态效果”控制。
-- **章节标题与 callout 不重复（2026-10-22）**：一个章节只放一个 callout、且标题与 callout 同义时，不写章节标题，直接用 callout 标题（如 `> [!entry-map] 相关条目网络`，而不是 `## 相关条目网络` + `> [!entry-map|notitle]`）。同一章节下有多个 callout 时保留章节标题。`|notitle` 只用于确实没有标题的组件。
+- **callout 外不写标题（2026-10-22）**：正文不写一级标题（文件名即标题）。章节标题后紧跟 callout 时，不写章节标题，由 callout 标题承担；callout 无标题时把章节名写进 callout 标题（如 `> [!claim] 论证步骤一　……`、`> [!entry-map] 相关条目网络`）。例外：`## 来源`（下接来源列表，脚本据此提取来源）与带完整判断的长 H3/H4 标题（如“### 命题一　……”）保留。lint 已不再要求实证数据与工具页章节标题；MetaX 模块改为按实证表格 callout 定位。
 - **表格宽度标记（2026-10-22）**：6 列及以上的表格默认保持可读列宽（单列约 6.5–13em），超出时在 callout 内横向滑动。单个表格可在 callout 类型后加标记调整，可多个连写（如 `> [!dual-header|compact|fit] 标题`）：
   - `|wide`：不足 6 列也按宽表处理（横向滑动）
   - `|fit`：强制全部列挤入框内，不滑动
   - `|compact`：缩小字号与行距
   - `|col1-wide`：第一列加宽
   - 整页生效可在 frontmatter 写 `cssclasses`，按组件类型全局生效则改 CSS。
+- **实证数据账本（2026-10-22）**：Concept 等条目的实证表格不写 `## 实证数据` 标题。CSS 依据表内 marker（`concept-effect-table-marker` / `concept-meta-analysis-table-marker` / `concept-second-order-meta-table-marker` / `concept-other-empirical-table-marker`）自动显示 `DATA · EFFECT SIZES / META-ANALYSIS / 2ND-ORDER META / OTHER RESULTS` 标签与数据色带；表格上方可写一段引导说明（显示为灰色小字）。
 - **`|notitle`**：两种情况加 `|notitle`，只显示眉标：① 不写标题的组件（如 `> [!entry-map|notitle]`），避免 Obsidian 自动补出与眉标重复的类型名；② callout 标题与紧邻的上方章节标题相同（或只多“索引／矩阵／汇总”等字），如 `## 相关研究` 下的 `> [!evidence-grid-a|notitle] 相关研究索引`。提示类（info／note／warning 等）加 `|notitle` 时整行标题隐藏。同一章节下有多个 callout、各自标题区分内容时（如“主要著作”与“思想发展”），保留标题。
 - **折叠统一规则（2026-10-21）**：只有以下几类写 `-` 默认折叠，其余一律不加 `-` / `+`：
   - 解读类：`[!exegesis]-`、`[!implication]-`、`[!result-reading]-`

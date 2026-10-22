@@ -51,13 +51,9 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# Critical Pluralism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 教育政策制定过程中的权力博弈、证据[[Discourse|话语]]建构，以及教育专业人员与公众在民主治理中的实质性参与路径。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–2)]]
 > - **理论问题** [[Pluralism|传统多元主义]]忽视社会各群体在权力与资本上的巨大结构性不平等；[[Neocorporatism|法团主义]]将政策谈判局限于高层组织代表而引发会员合法性危机；次政府与[[Elite Theory|精英理论]]将政策制定视为封闭集团的寡头控制，从而导致基层教育者陷入政治无能感与顺从主义。
 > - **理论类型** 规范性与批判性政策[[Analytic Framework|分析框架]]，兼具制度分析功能与实践行动指引。
@@ -68,15 +64,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 杰奎琳·埃德蒙森（Jacqueline Edmondson）于 2005 年在《教育政策分析档案》（Education Policy Analysis Archives）发表的论文《教育中的政策制定：理解对[[Reading Excellence Act|卓越阅读法案]]的影响》（Policymaking in Education: Understanding Influences on the Reading Excellence Act）中正式系统阐发。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–2, 10–11)]]
 > - **原初问题** 针对美国 1998 年《[[Reading Excellence Act|卓越阅读法案]]》立法进程中国会、联邦行政官僚与商业出版集团结盟垄断教学科研定义，而广大教师和学者却在政策制定中陷入失语与无力抵抗的困境。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 2–4)]]
 > - **理论资源与材料** 批判性吸收了斯黛拉·西奥杜卢（Stella Theodoulou）与马修·卡恩（Matthew Cahn）的政策制定四分类型学，整合了香农关于三类政策研究的划分、帕克的公民参与民主观以及南希·弗雷泽（Nancy Fraser）关于承认与再分配的正义理论。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 2–3, 11–13)]]
 > - **形成路径** 通过对《卓越阅读法案》在参众两院不同草案文本、听证会实录及专业组织公关行动的深度案例分析，揭示既有政策理论在解释教育实践者能动性上的空白，进而建构出批判性[[Pluralism|多元主义]]框架。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 10–14)]]
-
-### 理论源流与演变
 
 > [!dev-timeline] 理论版本与演变脉络
 > - **1995 — 基础分类学引入** 斯黛拉·西奥杜卢（Stella Theodoulou）与马修·卡恩（Matthew Cahn）梳理公共政策学四大经典模型（多元主义、[[Elite Theory|精英理论]]、[[Neocorporatism|法团主义]]与[[Subgovernment Theory|次政府理论]]），确立制度分析的多维透镜。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 2–4)]]
@@ -84,8 +76,6 @@ updated: 2026-10-22
 > - **2005 — 批判性替代模型系统阐发** 埃德蒙森（Edmondson）将[[Critical Theory|批判理论]]与参与式民主融合，针对新自由主义教育立法建构出批判性多元主义框架，系统提出统整三类政策研究与三维行动阵线。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 10–14)]]
 
 ---
-
-## 关键概念与理论构件
 
 > [!row-contrast] 批判性[[Pluralism|多元主义]]框架核心要素（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 11]]）
 > | 框架要素 | 理论界定与行动要求 |
@@ -106,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜政策是负载价值判断且投射社会理想的权威性人为建构
 > **解释** 政策文本所宣称的客观目标与科学标准，本质上是特定利益群体在特定历史时空下将其世界观、意识形态与利益取向予以制度化赋权的产物。任何看似纯粹科学或技术的政策干预规程，都预设了何种社会生活与公民类型被认可、何种经验与[[Discourse|话语]]被排斥的价值裁决。正如施耐德和英格拉姆（Schneider & Ingram, 1997）所阐发的，政策是关于人们应当如何共同生活的权威宣称，始于作者对理想社会的预设。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
 >
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > **应用实例** 宾夕法尼亚州部分学区面对带有严苛限制的联邦阅读优先拨款项目，主动放弃申请资金以保护本校经过检验的多元读写实践；同时教师与跨学科学者联名公开质询联邦机构与教材出版商的利益关联。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 该理论适用于考察教育政策制定中多元利益主体的权力分配、[[Evidence Standards|证据标准]]的正当化修辞、专业协会的代表性困境，以及教育工作者的行动策略选择。
@@ -152,8 +138,6 @@ updated: 2026-10-22
 > - **不能直接推出** 理论不能单凭批判视角推定所有中央教育立法均出于阶层恶意；亦不能将专业协会高层的所有务实妥协简单等同于对专业自主权的背叛。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与批评
 >

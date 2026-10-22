@@ -42,11 +42,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Spellings Report
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年 9 月由美国联邦教育部长玛格丽特·斯佩林斯（Margaret Spellings）委任的高等教育未来委员会（Commission on the Future of Higher Education）正式发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 7)]]
@@ -55,8 +51,6 @@ updated: 2026-10-22
 > - **制度位置** 21 世纪初美国联邦政府推动高等教育由“投入导向”转向“成果与增值问责”的最核心政策纲领。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 报告要求全美高等教育打破传统声誉与选拔性招生的神话，必须向公众、纳税人与学生提供公开透明的本科教育“增值（VALUE-Added）”测量数据，系统证明学生在大学期间[[Critical Thinking\|批判性思维]]、分析推理与有效沟通能力的实际增长。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 7, 25)]]

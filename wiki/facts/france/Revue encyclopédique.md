@@ -53,8 +53,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Revue encyclopédique
-
 ---
 
 ## 背景
@@ -94,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 创办、跨国影响与演变时间线
 > - **1819** 朱利安在巴黎正式创办《[[Revue encyclopédique|百科评论]]》（*Revue encyclopédique*）并出任主编，首期发表创刊宣言，宣称刊物致力于忠实呈现人类知识在社会秩序改良中的进步。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 20)]]
 > - **1819–1823** 建立覆盖欧美及各大洲的通讯员网络，持续刊载法国、瑞士、西班牙与美国的公共教育发展报告；发表著名的世界公民宣言。
@@ -103,8 +99,6 @@ updated: 2026-10-22
 > - **1830** 七月革命爆发前后，朱利安因精力与财力转将刊物转交皮埃尔·勒鲁（Pierre Leroux）与让·雷诺（Jean Reynaud）等圣西门主义思想家接管，随后逐渐转向社会哲学激进探讨并于数年后停刊。（Palmer, 1993）
 
 ---
-
-## 影响与历史地位
 
 > [!finding-cards] 历史影响与地位
 > - **[[International Education\|国际教育]]与常设智库机制的原型** 《[[Revue encyclopédique|百科评论]]》将朱利安在 1817 年 《计划》 中提出的“多语种教育通报网络”设想落到了实处，为 20 世纪国际教育局（IBE）与 [[UNESCO]] 的教育通报平台提供了最早的刊物[[Paradigm\|范式]]。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 21–22]]）

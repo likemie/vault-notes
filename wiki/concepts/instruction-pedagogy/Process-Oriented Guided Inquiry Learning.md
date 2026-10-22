@@ -67,8 +67,6 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Process-Oriented Guided Inquiry Learning
-
 ---
 
 ## 定义
@@ -193,8 +191,6 @@ POGIL 的成功运作依赖于“学习环认知进阶”与“合作角色互�
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -235,8 +231,6 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -253,8 +247,6 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > | Joshi and Lau (2023)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | POGIL 教学模式 vs 传统讲授 | [[Surface and Deep Learning\|深层学习]]途径得分与长期概念表现 | 大学理科学生准[[Experimental Research\|实验研究]] | POGIL 组在深层学习方式与延迟测验上表现显著更优 | — | 统计显著（$p < .05$） | 准实验对照研究；确立 POGIL 在转变学习策略与促进长期抗遗忘上的因果增益 |
 
 ---
-
-## 应用案例
 
 > [!case] 大学普通化学“化学平衡与勒夏特列原理”POGIL 教学设计（Moog & Spencer, 2008）
 > 在学习勒夏特列原理时，教师不讲授任何原理条文，而是分发四人小组活动单。
@@ -278,8 +270,6 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述将 POGIL 作为反驳探究缺乏结构指导的标杆证据。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 评述[[Inquiry-Based Learning\|指导式探究]]，引用 Moog and Spencer（2008）等[[Meta-analysis\|元分析]]，将 POGIL 视为科学教育中高度结构化、能显著降低挂科率的指导式探究典范。

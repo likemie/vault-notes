@@ -85,8 +85,6 @@ created: 2026-08-25
 updated: 2026-10-20
 ---
 
-# Zone of Proximal Development
-
 ---
 
 ## 定义
@@ -277,12 +275,10 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 
 ---
 
-## 实证数据
-
-大样本[[Meta-analysis|元分析]]与[[Cohort Study|追踪研究]]为 ZPD 在人机自适应支架及教师辅导中的有效性提供了扎实证据。
-
 > [!effect-table]- 原始实证研究快照
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> 大样本[[Meta-analysis|元分析]]与[[Cohort Study|追踪研究]]为 ZPD 在人机自适应支架及教师辅导中的有效性提供了扎实证据。
 >
 > | 研究 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]]指标 | 显著性或结论 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|

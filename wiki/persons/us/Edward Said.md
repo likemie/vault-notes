@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Edward Said
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍巴勒斯坦裔文学理论家、文化批评家，哥伦比亚大学英语与比较文学讲席教授，后殖民研究（Postcolonial Studies）的奠基人。
@@ -70,16 +66,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与学术影响
 > - **1978 — *[[Orientalism]]*** 系统批判西方学术、文学与行政[[Discourse|话语]]如何将东方构建为落后、异质与被支配的他者，确立[[Post-colonial Theory|后殖民理论]]核心[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 90–92)]]
 > - **1993 — *Culture and Imperialism*** 将文化与权力关系的批判视野扩展至西方现代小说与帝国主义全球扩张的互动历史。
 > - **1994 — *Orientalism (Afterword)*** 强调历史叙事与身份认同的生产从来不是中立客观的行为，而是现实权力的运作体现。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 91–92)]]
 
 ---
-
-## 学术评价与理论争议
 
 > [!critique] 学术影响与局限反思
 > - **重塑人文学科知识[[Paradigm|范式]]** 《[[Orientalism|东方主义]]》打破了传统西方文明大叙事的普遍主义神话，使后殖民研究从专业领域演变为渗透现代思想界的全局性世界观。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 90–91)]]

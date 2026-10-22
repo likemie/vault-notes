@@ -33,13 +33,9 @@ created: 2026-06-12
 updated: 2026-10-22
 ---
 
-# LISA Spatiotemporal Transition
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > LISA时空转移（LISA Spatiotemporal Transition）是探索性时空数据分析（ESTDA）的核心方法之一。它通过构建空间转移矩阵（Spatiotemporal Transition Matrix），追踪各空间单元在相邻年份之间在Moran散点图四个象限（HH、LH、LL、HL）间的转移行为，将转移分为四种类型（Type0–Type3），并通过空间凝聚度（$SC$）、时空流动度（$SF$）和相对移动率（$p$）三个汇总指标量化空间格局的惯性强度和流动性。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 68–69)]]
 
 > [!quote|notitle]
@@ -53,8 +49,6 @@ updated: 2026-10-22
 
 > [!info] 第一步：象限编码
 > 对每个年份 $t$，将 $n$ 个空间单元按其 Moran 散点图坐标 $(z_{i,t}, \sum_j w_{ij} z_{j,t})$ 的符号编码为四类之一：HH（$+$, $+$）、LH（$-$, $+$）、LL（$-$, $-$）、HL（$+$, $-$）。编码后的数据为一个 $n \times T$ 的分类矩阵 $Q$，每个元素 $Q_{i,t} \in \{\text{HH}, \text{LH}, \text{LL}, \text{HL}\}$。
-
-### 第二步：构建转移频率矩阵
 
 > [!line-a] 一阶 Markov 转移矩阵
 > 将 $n$ 个单元在连续两年 $(t, t+1)$ 之间的象限变化视为一阶 Markov 转移过程。对于全部 $T-1$ 个时间步，共产生 $n \times (T-1)$ 次转移观测。统计从状态 $a$ 转移到状态 $b$ 的频次，构成 $4 \times 4$ 转移频率矩阵 $\mathbf{M}$：
@@ -85,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-### 第四步：三项汇总指标
-
 > [!line-a] 数学定义
 > 设总转移次数 $m = n \times (T-1)$：
 > $$SC = \frac{\text{Type0} + \text{Type3A}}{m} \qquad SF = \frac{\text{Type1} + \text{Type2}}{m} \qquad p = 1 - \frac{\sum_{i=1}^{4} p_{i,i}}{4}$$
@@ -103,8 +95,6 @@ updated: 2026-10-22
 > LISA 时空转移的一个关键扩展是对同一面板数据按不同发展维度（如教育、科技、人才三个子系统）分别计算转移矩阵和汇总指标。通过比较各子系统的 $SC$、$SF$、$p$ 值，可识别哪一维度的空间锁定最强、哪一维度最具流动性——这为政策干预的优先级排序提供了直接的经验依据。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 73)]]
 
 ---
-
-## 资料与分析
 
 > [!info] 数据结构
 > 输入为 $n$ 个空间单元 $\times$ $T$ 个年份的象限标签矩阵 $Q_{n \times T}$（$Q_{i,t} \in \{0,1,2,3\}$，分别对应 HH/LH/LL/HL），以及可选的子系统标签（用于分子系统分析）。标签矩阵通过对各年份 Moran 散点图坐标编码生成。

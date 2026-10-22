@@ -68,11 +68,7 @@ created: '2026-09-03'
 updated: 2026-10-22
 ---
 
-# Science Media Centre
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 科学媒体中心（Science Media Centre, SMC）是 2002 年设立于英国伦敦的独立非营利[[Science Journalism\|科学新闻]]中介机构，首创在科学争议爆发时直接对接一线科学家与大众传媒新闻采编室的快速同行评议中介模式，其制度设计直接衍生出面向人文社会科学的[[Education Media Centre\|英国教育媒体中心]]（Education Media Centre, EMC），并在全球催生了跨国科学媒体中介协作网络，成为后真相时代维护公共[[Scientific Literacy\|证据素养]]、阻断虚假信息发酵的标志性制度中介。([[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 56)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62, 64]])
@@ -85,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与模式扩散历程
 > - **2000–2002 — 创设与机制奠基期** 在英国上议院调查报告推动下，由菲奥娜·福克斯（Fiona Fox）担任创院首席执行官，正式在伦敦威康信托基金会总部建立编辑团队，确立“突发新闻快速专家点评”（Roundups & Rapid Reactions）与“焦点新闻简报会”（News Briefings）两项核心操作规范。
 > - **2005–2015 — 跨国网络扩散与跨领域模式移植** SMC 运作模式展现出强劲的制度辐射力：澳大利亚（2005）、新西兰（2008）、加拿大（2008）、德国（2015）相继设立独立的科学媒体中心，共同签署遵循《科学媒体中心宪章》（*Charter of the Science Media Centres*）。在此期间，英国进一步将该模式移植至教育科学领域，于 2013 年正式创设独立的[[Education Media Centre\|英国教育媒体中心]]（Education Media Centre, EMC），开创了社会科学实证中介的先河。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62, 64]])
 > - **2016–至今 — 后真相时代的认知防御与突发公卫应急** 面对社交媒体算法茧房、商业利益集团公关操纵（Spinners）与伪科学信息的泛滥，SMC 成为全球事实核查与[[Scientific Literacy\|证据素养]]防御的重要支柱；在 COVID-19 疫情期间常态化向全球主流媒体分发数千条流行病学专家专业审评，并协助台湾（2017）和东非（2020）等地扩建新的中介枢纽。
 
 ---
-
-## 治理架构与独立性防护机制
 
 > [!actor-grid] 组织治理架构与多元制衡
 > - **受托人董事会（Board of Trustees）** 由资深媒体总编、前沿科学家、法学界专家与公众代表共同组成，负责监管机构运营合规性与战略独立性，确保业务完全脱离政府日常干预与出资方意愿。
@@ -109,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与三大旗舰支柱
-
 > [!finding-cards] SMC 三大业务支柱
 > - **突发新闻快速专家点评（Roundups & Rapid Reactions）** 当具有争议或突发性质的[[Science Journalism\|科技新闻]]发酵时，SMC 在数小时内联动一线权威学者，迅速汇总多视角的客观专业点评，赶在第一版新闻定稿前直供各大主流媒体，从源头确保报道具备严谨的实证依据与局限性说明。
 > - **焦点新闻简报会（News Briefings）** 针对极具争议性或存在高度伦理争议的重大前沿成果（如基因编辑、气候突变模型、人造肉、脑机接口），为首席科学家举办面对面新闻吹风会，邀请一线跑口记者进行深度质询与对话，系统厘清方法学边界。
@@ -123,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 标志性案例与体系成效
-
 > [!evidence-grid] 重大争议科技议题中的中介成效
 > - **转基因生物公共争论（Genetically Modified Organisms, GMOs）** 彻底改变了 1990 年代末英国小报对转基因技术充斥煽动性恐慌的报道生态（如针对未经同行评议的普兹泰土豆实验炒作“科学怪人食品”）。SMC 介入后常态化汇集植物生物学、生态学与毒理学专家的严谨实证，引导公共辩论回归粮食安全、生态风险与基因漂移的客观科学评估。([[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 56)]])
 > - **线粒体捐赠立法争议（Mitochondrial Donation）** 在英国国会审议批准“三亲婴儿”（Three-person IVF）线粒体替代疗法期间，SMC 协同纽卡斯尔大学科学家与患者家庭组织多轮吹风会，用直观图解阐明人类 99.8% 遗传密码由细胞核 DNA 决定而线粒体仅占 0.2% 供能基因，成功消解了公众对“制造定制婴儿”的虚假恐慌，为英国在全球率先合法化线粒体疗法筑牢了理性民意基石。
@@ -132,8 +120,6 @@ updated: 2026-10-22
 > - **突发公共卫生事件与跨国中介协同** 在埃博拉病毒、寨卡病毒及 COVID-19 疫情期间，SMC 日夜无休向全球各大主流媒体分发数千条同行评议专家审评，成为阻断虚假医疗偏方与阴谋论传播的关键国际中介枢纽。
 
 ---
-
-## 知识中介模式跨界拓展：教育媒体中心（EMC）与反商业操纵防线
 
 > [!case] 模式跨界迁移：[[Education Media Centre\|英国教育媒体中心]]（Education Media Centre, EMC）
 > 伴随循证运动在社会科学领域的深入，英国于 2013 年正式将 SMC 的[[Science Journalism\|科学新闻]]中介模式移植到教育科学领域，创设了**教育媒体中心（Education Media Centre, EMC）**（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62, 64]]）：
@@ -154,8 +140,6 @@ updated: 2026-10-22
 > | **英国教育媒体中心（EMC）**<br>（英国） | 2013 年<br>伦敦 | 独立非营利慈善信托；大学教育学院与慈善基金会联合出资 | 面向全英教育与时评记者、政策制定者与广大家长公众 | 借鉴 SMC 模式向教育与人文社科领域移植的典范，反制教育伪科学。 |
 
 ---
-
-## 争议、批评与制度反思
 
 > [!debates] 核心争议交锋
 >

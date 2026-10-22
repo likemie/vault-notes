@@ -74,11 +74,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-# Design-Based Research
-
 ---
-
-## 定义
 
 > [!def] 基于设计的研究
 > **基于设计的研究（Design-Based Research, DBR，亦称设计研究或设计实验）** 是一种以多轮实境迭代为核心的方法论框架：研究者与实践者在真实的教育或专业组织情境中共同设计、实施、评估和精炼教学干预与学习环境，在解决复杂实践问题的同时，生成扎根于真实情境的教与学理论，并沉淀可迁移的设计原则（Brown, 1992; Collins, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]; [[Argument_Zhang_2022_SE|Zhang et al., 2022]]）。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **[[Epistemology|认识论]]立场** 扎根于[[Pragmatic Paradigm|实用主义范式]]（Pragmatic [[Paradigm]]），强调知识的[[Ecological Validity|生态效度]]（Ecological Validity）与实践效用，主张通过改变现实来理解现实（Cobb et al., 2003, p. 10）。
 > - **研究者角色** 兼具干预设计者、促学协作者与理论建构者的复合角色，与一线教师和学习者紧密合作，深度介入情境而非保持冷眼旁观。
@@ -111,8 +105,6 @@ updated: 2026-10-22
 > - **辅助技术** 数字化[[Learning Analytics|学习分析]]工具、[[Coding in Qualitative Research|质性编码]]软件与协作话语可视化。
 
 ---
-
-## 研究程序
 
 > [!proc] 基于设计的研究标准迭代循环
 > 1. **问题识别与理论奠基** 联合一线实践者深入现场，识别核心教学困境与认知瓶颈，结合学习科学理论构建初始干预方案与设计假说。
@@ -137,8 +129,6 @@ updated: 2026-10-22
 > - **理论驱动（Theory Driven）** 干预方案以坚实的理论为起点，并在实境迭代中持续修正、生成与丰富教与学理论（Cobb et al., 2003, p. 9）。
 
 ---
-
-## 资料与分析
 
 > [!method-stack] [[Integration in Mixed Methods|混合方法整合]]设计
 > - **设计类型** 嵌入式[[Mixed Methods Research|混合方法]]（Embedded Mixed-Methods）与纵向历时追踪设计。
@@ -167,16 +157,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 需要在真实复杂的课堂情境中开发、检验和精炼创新教学方案时；希望深入探究干预措施如何运作的微观机制时；旨在同时产出实用教学工具与情境化理论时。[[Argument_Zhang_2022_SE|(Zhang et al., 2022)]]
 > - **谨慎使用** 需要向非专业受众推导普遍性统计结论时（需明确阐述情境边界与可转移性条件）；研究时间与资源极为有限时（DBR 依赖长周期多轮迭代）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011)]]
 > - **不适合使用** 仅需检验单一孤立假设且要求严格控制所有无关[[Variable|变量]]的受控实验；仅需进行大规模现状普查而无干预意图的描述性研究。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与应对策略
 > - **生态混淆[[Variable|变量]]与推论保证** 真实课堂中存在大量不可控的环境因素，如何证明成效确由设计干预带来而非其他变量导致？应对策略：采用长周期[[Process Tracing|过程追踪]]与多模态数据[[Triangulation|三角互证]]，呈现完整的因果链条（Shavelson et al., 2003, p. 25）。
@@ -198,8 +184,6 @@ updated: 2026-10-22
 > | [[Research Universities]] | 概念 | DBR 从中小学课堂拓展至大学跨学科科研团队孵化与学者发展的组织[[Champ\|场域]] |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011, Ch16)]] — 系统阐述基于设计的研究起源（Brown, 1992）、核心特征、迭代循环、与传统实验的差异及方法论局限。

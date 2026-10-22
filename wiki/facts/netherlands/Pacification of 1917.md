@@ -41,11 +41,7 @@ created: 2026-10-12
 updated: 2026-10-16
 ---
 
-# Pacification of 1917
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 1917 年大妥协（The Pacification of 1917，荷文：*De Pacificatie van 1917*）是荷兰宪政与现代教育史上的分水岭事件。它通过精巧的跨阵营政治交换，彻底终结了 19 世纪中叶以来围绕国家教育控制权撕裂社会的“学校论争（Schoolstrijd）”；在宪法第 23 条中将“教育自由（Freedom of Education）”升格为根本公民权利，确立了私立宗教学校享有与公立学校 100% 财政全额平等资助的宪法原则，系统奠定了荷兰[[Pillarization|柱状化]]（Pillarization）制度与现代高教[[Policy Network|政策网络]]的历史底色。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–143)]]
@@ -58,8 +54,6 @@ updated: 2026-10-16
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **1857–1889 — 学校论争白热化与宗教政党崛起** 自由派主导议会确立公立学校中立原则并拒绝[[Centros Concertados|资助私立学校]]；库珀（Abraham Kuyper）创立新教反革命党，天主教与新教结成政治联盟，发起全国性请愿与抗争。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 142)]]
 > - **1913–1917 — 战时大妥协谈判与利益互换** 中立自由派首相范德林登设立特设宪法委员会，精心设计“包揽式双向交换协议”：世俗政党接受宗教学校获得全额同等国家资助，换取宗教政党支持取消财产限制、实施男性全面普选权及引入比例代表制。
@@ -67,16 +61,12 @@ updated: 2026-10-16
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 基克特论1917年宪法大妥协与教育自由
 > 荷兰宪法赋予的‘教育自由’——即自由创办学校、自由组织办学并自主决定其宗教或思想信仰基础的权利——是荷兰学校百花齐放的根本原因。然而，保障完全平等的公共财政资助，在客观上催生出了一张极其繁杂细密的法律与行政规章网络。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 >
 > *The constitutional right of 'freedom of education' - the freedom to found schools, to organize them and to determine the religious or other convictions on which they are based - is the reason for the wide variety of schools in the Netherlands. Financial equality has produced an intricate structure of legislation and regulations.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **宗教宗派阵营（天主教与新教加尔文派）** 核心诉求是捍卫信仰代际传承，视教育自主权为宗派生存红线，坚决要求国家财政承担私立宗教学校 100% 运营经费。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–143)]]
@@ -94,16 +84,12 @@ updated: 2026-10-16
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键历史后果
 > - **[[Pillarization|柱状化]]社会的制度固化** 1917 年大妥协不仅没有削弱宗派对立，反而通过制度化财政资助将天主教、新教与世俗派完全固化为从幼儿园、大学直至医院和工会的平行社会堡垒。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 > - **催生繁密补偿性规制泥潭** 为防止不同宗派互相指责政府偏心，中央教育部被迫制定出极端详尽的生均成本核算公式与逐项审批规程以证明“绝对公平”；围绕部委聚拢的宗派代表与教师工会筑成紧密的[[Neocorporatism|法团主义]]铁环，将教育系统锁死为封闭的“教育省”。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 143–144, 151)]]
 > - **成为 1980 年代[[Steering at a Distance|远距离操纵]]改革的制度跳板** 正是因为宪法平等资助规制泥潭管得过死，荷兰在 1980 年代财政紧缩时无法通过行政强权简单裁撤宗派学校，倒逼政府绕开宗派敏感性，转向以中立行政效率为导向的[[Steering at a Distance|远距离操纵]]与自组织大兼并。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144–146)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与时代争议
 >

@@ -55,11 +55,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Mark Schneider
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学者、教育科研管理高官。曾任美国教育部[[Institute of Education Sciences\|美国教育科学院]]（Institute of Education Sciences, [[Institute of Education Sciences\|IES]]）第四任院长（2018–2024）、美国国家教育统计中心（National Center for Education Statistics, NCES）专员（2005–2008）、美国研究学会（American Institutes for Research, [[AIR Model of Epistemic Cognition\|AIR]]）副总裁兼杰出研究员。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990–2005 — 公共选择、家长[[School Choice\|择校]]与社会资本** 主要回应美国城市教育治理中家长择校决策、市场竞争机制与弱势家庭信息劣势问题。
 >   - **代表著作** *Choosing Schools: Consumer Choice and the Quality of American Schools* (2000)。
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 传统的[[Evidence-Based Education\|循证教育]]科研过度狭隘地局限于单一[[Randomised Controlled Trials\|随机对照试验]]（RCT）的孤立因果验证，常常把复杂的教育综合干预视作未被拆解的药丸袋（bag of pills），既无法识别究竟是何种成分发生效用，又忽视了学校真实的实施成本与推广条件。必须通过制度化的教育研究卓越标准（SEER），强制推行研究[[Preregistration\|预注册]]、干预核心构件界定、详实记录实施反差与保真度、严谨成本核算、独立通用测量规程（防范[[Developer-Made Measures\|研究者自编测验]]效应虚高）、多样态人群系统复现、市场化推广激励与教育公平导向，让科学证据真正具备变革教育实践的力量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 
 > [!citation-card] 剖析教育干预的药丸袋隐喻
@@ -122,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **联邦资助准则重构** 通过 [[Institute of Education Sciences\|IES]] 课题评审与资助合同的法定约束力，直接迫使全美教育因果研究界将构件拆解、成本效益核算与通用工具测量内化为研究规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 207–208)]]
 > - **技术生态与敏捷复现** 引入数字实验平台与竞争性奖项机制，改变了传统实地田野试验耗资千万、耗时数年且极难复现的沉重周期，开创了[[Evidence-Based Education\|循证教育]]科学的敏捷迭代机制。
 > - **政策转化与产业化机制** 联合斯坦福国际研究院（Stanford Research Institute, SRI International）将市场化规模化推广条款明确植入资助指南，打破教育科研唯论文发表即结项的象牙塔闭环。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
@@ -141,8 +131,6 @@ updated: 2026-10-22
 > - **机构与科研平台** [[Institute of Education Sciences]] — 施奈德推进 SEER 标准与科研资助[[Paradigm\|范式]]转型的核心联邦科学机构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

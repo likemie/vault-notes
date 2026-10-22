@@ -53,9 +53,6 @@ status: draft
 created: 2026-05-07
 updated: 2026-10-22
 ---
-# Walter Mignolo
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Walter D. Mignolo（1941–）是阿根廷裔美国符号学家、文学理论家和去殖民思想家，杜克大学（Duke University）文学与文化研究教授，拉丁美洲现代性/殖民性研究项目（M/C Project）的核心成员。他是去殖民理论（decolonial theory）的奠基性人物，从 1990 年代起系统发展了"[[Geopolitics of Knowledge\|知识地缘政治]]"（[[Geopolitics|geopolitics]] of knowledge）概念的批判性分支，提出"殖民差异"（colonial difference）、"殖民性"（coloniality）、"边界思维"（border thinking）和"[[Epistemology\|认识论]]不服从"（epistemic disobedience）等核心概念([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38, 50]])。

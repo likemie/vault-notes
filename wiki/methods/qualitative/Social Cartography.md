@@ -65,11 +65,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Social Cartography
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **社会制图学（Social Cartography）** 是由美国比较教育学家[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston, 1997, 2000）在 1990 年代首创的质性与视觉认知分析方法。该方法深受后现代哲学空间转向（Spatial Turn）与保罗·吉尔罗伊（Paul Gilroy, 1993）“黑色大西洋”（Black Atlantic）等社会文化空间思想启发，主张将教育理论流派、政策[[Discourse|话语]]争鸣与跨国借用实践视作非线性的多维拓扑[[Champ|场域]]；通过绘制具有空间隐喻的“认知地图”（Cognitive Maps）与“差异社会制图”（Social Cartography of Difference），打破以欧洲[[Enlightenment|启蒙运动]]为代表的线性时间进步史观与[[Positivism|实证主义]]单一真理霸权，直观呈现不同学术阵营的立场位置、边界重叠与张力距离，进而为透视教育[[Policy Mobility|政策流动]]、空间区隔及被边缘化群体的空间[[Governmentality|治理术]]提供启发性工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 彻底摒弃现代主义与[[Positivism|实证主义]]的普世真理与线性进化论，坚持[[Postmodernism|后现代主义]]的多元视角主义与空间[[Ontology|本体论]]。批判[[Enlightenment|启蒙运动]]以来的“空间时间化”（[[Temporalization of Space]]）偏向——即欧洲旅行者自视为“时间旅行者”，将非西方世界与边缘人群划入“未开化”的历史时间阶梯（Leed, 1991; Sayre, 1997）；社会制图学通过共时性空间并置（Synchronic Spatial Juxtaposition）拆解这种等级叙事。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **研究者角色** 研究者不是超然物外的客观测量者，而是身处图景之内的制图员（Cartographer）；其自身绘制的地图同样是一种有立场的视角表达，需持续保持认识论自省与[[Reflexivity|反身性]]。
@@ -102,8 +96,6 @@ updated: 2026-10-22
 > - **辅助技术** 概念映射可视化（[[Concept Mapping]]）、拓扑图解绘制工具及[[Qualitative Content Analysis|质性文本分析]]软件。
 
 ---
-
-## 研究程序
 
 > [!sample-panel]- 文本[[Discourse|话语]]材料与制图现场
 > | 维度 | 信息 |
@@ -121,8 +113,6 @@ updated: 2026-10-22
 > 5. **[[Reflexivity|反身性]]对话与图谱更新** 将地图作为启发性工具呈现在学术共同体对话中，根据批评与现实动态持续修订空间认知图景。
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用场景
 > - 适合梳理复杂学科历史演进中的学派争鸣、分析跨国教育政策[[Discourse|话语]]的流动与竞争，以及呈现后现代多元[[Paradigm|范式]]图景。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
@@ -149,8 +139,6 @@ updated: 2026-10-22
 > | [[Rolland Paulston]] | 人物 | 社会制图学的首创者，将后现代空间图绘引入比较教育研究的核心学者。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 探讨空间转向与[[Rolland Paulston|保尔斯顿]]社会制图学在破除[[Enlightenment|启蒙运动]]“空间时间化”线性偏见、追踪教育[[Policy Mobility|政策流动]]及揭示少数群体空间[[Governmentality|治理术]]中的应用与拓展。

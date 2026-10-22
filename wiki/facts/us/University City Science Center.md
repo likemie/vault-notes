@@ -35,14 +35,10 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# University City Science Center
-
 > [!info] 背景
 > 大学城科学中心（University City Science Center）位于宾夕法尼亚州费城（Philadelphia），是一家以[[Asset Mapping\|资产映射]]和创业支持著称的[[University-Industry Collaboration\|产学合作]]组织([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.126–127]])。
 
-## 发展策略
-
-> [!note|notitle]
+> [!note] 发展策略
 > 科学中心最初利用非营利结构（nonprofit structure），创建了激励创业者之间关系发展的项目，在提供培训和资源获取的同时，聚焦费城本地的相对优势和资产。其核心理念是[[Asset Mapping\|资产映射]]即关系建立（authentic relationship building）（pp.126–127）。
 
 > [!note|notitle]

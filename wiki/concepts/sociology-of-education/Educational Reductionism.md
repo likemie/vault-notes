@@ -53,11 +53,7 @@ created: 2026-10-18
 updated: 2026-10-22
 ---
 
-# Educational Reductionism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育还原主义（Educational Reductionism）指在教育理论建构、实证建模与政策议程中，将复杂的[[Academic Achievement|学业成就]]差异、社会流动与生活机会不平等，单向度地还原为学校内部教学安排、评估技巧或个别教师效能的技术主义[[Epistemology|认识论]]倾向。该视角通过将家庭阶级地位、物质贫困、[[Cultural Capital|文化资本]]与社区资源等非学校结构性[[Variable|变量]]作为外部噪音剔除，建构出仅凭课堂技术干预即可弥合学业鸿沟的判断。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
@@ -88,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **非学校结构性[[Variable|变量]]的形式化剥离** 在建模中承认家庭阶层、物质贫困与健康环境等因素在经验上更重要，却以超出考察轨道为由将其排除出因果解释模型。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 90–91)]]
 > - **学校教学效能万能论的包装** 宣称仅靠优化课堂反馈、显性教学或评估工具即可抹平[[Academic Achievement|学业成就]]差距，将复杂的阶级生活机会化约为纯粹的校内微观操作。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
 > - **政治治理责任的转嫁机制** 转移公众对公共福利紧缩与深层再分配缺失的关注，将结构性失败的治理责任单方面转嫁给基层学校与教师。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 104–105)]]
@@ -139,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 学校教学能动性 vs 宏观阶级结构制约
@@ -170,8 +160,6 @@ updated: 2026-10-22
 > 对教育还原主义的批判旨在警示宏观政策归因的偏狭与政治免责，不能用于否定微观课堂教学改进努力的专业价值；优质教学在既定阶级结构下对改善个体学习体验仍具有不可替代的意义。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

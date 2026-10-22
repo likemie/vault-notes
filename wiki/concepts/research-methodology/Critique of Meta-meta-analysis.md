@@ -84,13 +84,9 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Critique of Meta-meta-analysis
-
 ---
 
-## 核心定义
-
-> [!def|notitle] 核心定义
+> [!def] 核心定义
 > [[Critique of Meta-meta-analysis\|元-元分析批判]]（Critique of [[Meta-meta-analysis]]）指教育学、统计学与科学哲学界对将多个已发表[[Meta-analysis\|元分析]]结果在更高层级进行二次聚合（如 *[[Visible Learning]]* 与政策联盟表）所提出的系统性反思与方法论质疑。批判核心集中于：二级聚合脱离了因果机制、将试验灵敏度误读为教育有效性、低质量一阶研究导致的偏倚逐级放大、以及以脱离情境的简单排名驱动公共政策决策的合法性危机。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, p. 15)]]; [[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 11)]]
 
 > [!concept-lens] 概念透镜
@@ -99,8 +95,6 @@ updated: 2026-10-22
 > - **偏倚复合放大** 一阶元分析中的未加权、SE/SD 混淆与效应量测度混合，在二级汇总中作为输入被进一步复合放大，无法在二阶统计中被自动纠正。
 
 ---
-
-## 核心批判维度与论辩谱系
 
 > [!debates] [[Meta-meta-analysis\|元-元分析]]的核心学术争论与批判维度
 >
@@ -134,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 典型案例深度剖析：全语言效应量的内部瓦解
-
 > [!case-study] 对《[[Visible Learning\|可见的学习]]》[[Whole Language\|全语言]][[Effect Size\|效应量]]（$d = 0.06$）的细读审查
 > [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 逐层拆解了 Hattie 在《可见的学习》中得出全语言对阅读影响微不足道（$d = 0.06$）的推导全过程，为批判先验偏见驱动数据选择提供了典型文本实证：
 >
@@ -155,8 +147,6 @@ updated: 2026-10-22
 >    Hattie 声明其贡献在于“在这个证据上的镜头与故事”，O'Connor 指出这与元分析创始人 Gene Glass (1976) 提供“严谨客观替代叙述”的初衷直接背道而驰。（p. 142）
 
 ---
-
-## 方法学反思与建设性替代路径
 
 > [!contrast-table] 传统粗糙[[Meta-meta-analysis\|元综合]] vs 批判后建设性替代路径
 > | 维度 | 传统粗糙元综合（如早版 Hattie） | [[Critical Realism\|批判实在论]]与现代二阶[[Meta-analysis\|元分析]]方案 |

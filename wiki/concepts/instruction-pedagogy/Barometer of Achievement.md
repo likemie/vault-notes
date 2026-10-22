@@ -63,11 +63,7 @@ created: "2026-10-16"
 updated: 2026-10-22
 ---
 
-# Barometer of Achievement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **成就气压计（Barometer of Achievement）** 是[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》全书中反复使用的标志性视觉图表，采用类似汽车速度表或工业压力表的半圆形仪表盘构造，用于将抽象的[[Effect Size|效应量]]（$d$）直观呈现在不同色彩区段内。该图表并非首创于教育学著作，而是直接脱胎于哈蒂此前为主管部门研制的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机化评估系统中的行政监控界面，旨在将教学成效规约为外显可读的仪表指针读数。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 成就气压计与相关教育表征工具的辨析
 > | 维度 | 成就气压计（Barometer of Achievement） | 传统[[Meta-analysis\|元分析]][[Forest Plot\|森林图]]（Forest Plot） | 现代[[Learning Analytics\|学习分析]]仪表板（Learning Dashboard） |
 > |---|---|---|---|
@@ -101,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **半圆表盘与指针（Dial and Needle）** 模拟物理压力表或汽车速度表构造，指针指示特定教学策略的汇总[[Effect Size|效应量]]点估计。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 > - **彩色分区（Color-Coded Zones）** 将表盘自左至右划分为负效应区（红色）、自然发展效应区（黄色）、典型教师效应区（蓝色）和[[Zone of Desired Effects|期望效应区]]（绿色），强化直观的情感评价倾向。
 > - **铰接点中线刻度（Hinge Point, $d = 0.40$）** 在表盘正上方或核心转折处显著标出 $0.40$ 刻度，作为衡量教学优劣的视觉分界。
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕成就气压计形成的命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 普及循证认知 vs [[Cargo Cult Science|货物崇拜科学]]图腾
@@ -178,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 气压计图表与原型软件特征对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -191,8 +177,6 @@ updated: 2026-10-22
 > | **实践效应** | 强化校方对教师日常测验节奏的技术监控 | 将未经加权的算术均值塑造为物理仪器读数 | 诱发形式主义应付、板书打卡与[[Teacher Professional Agency\|教师专业自主权]]流失 |
 
 ---
-
-## 关键引用
 
 > [!citation-card] 泰勒制工时测定与气压计图表的历史承袭
 > 工业流水线管理的核心，在于打破工匠的主体掌控权，将对劳动节奏的支配权转移到管理者手中。泰勒在 1911 年开展工时测定，认为基层工人懒散迟钝，必须由管理者通过严格拆解的标准化动作进行直接管控。VL 书中反复出现的气压计图表直接取自 [[Assessment Tools for Teaching and Learning|asTTle]] 系统的管理界面，继承了将丰富复杂的育人活动压缩为仪表刻度的控制逻辑。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]

@@ -79,11 +79,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Scientific Attitude
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学态度（Scientific Attitude / Disposition）指个体与社会公众在认识世界、评估证据与参与决策过程中所秉持的理性倾向、认知心智与价值规范。在教育[[Epistemology\|认识论]]层面，它要求尊重客观实证、批判性审视多源证据、理解科学知识的暂定性与不确定性；在教育改革与政策史层面，它是 1920 年代中国[[New Education Movement\|新教育运动]]以客观事实、实验渐进与精细研究取代激进空想的纲领原则；在当代科技治理与大众传播层面，它表现为公众对科学的信任、对建设性解决方案的信息渴求，以及科研共同体主动披露局限、恪守传播诚信的伦理自律。[[Argument_Zhou_2024_CE\|(Zhou & Westberg, 2024, pp. 619–620)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 47)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 > - 不等于传统科技事实回忆：它关注的是认知倾向、证据评估与不确定性接纳，而非死记硬背标准公式。
 
 ---
-
-## 核心要素与理论维度
 
 > [!dimension] 科学态度的四重核心理论维度（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026]], 2026b, 2026c, 2026d）
 > - **1. [[Epistemology\|认识论]]与探究心智维度（Epistemic Disposition & Inquiry Mindset）**
@@ -174,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表文献 / 来源 |
 > |---|---|---|---|
@@ -185,8 +177,6 @@ updated: 2026-10-22
 > | **解决方案求知与赋能行动** | 克服恐慌诱导的新闻回避，转向建设性循证出路 | 媒介素养教育、科学新闻传播、公众心理赋能 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 57)]] |
 
 ---
-
-## 概念演变
 
 > [!phase] 概念演变脉络
 >
@@ -204,8 +194,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 渐进改良与政治妥协的张力
@@ -221,8 +209,6 @@ updated: 2026-10-22
 > 科学态度必须与具体的社会文化情境相结合。若将科学态度抽离民主监督与人文关怀，容易异化为冷酷的技术官僚主义或将所有社会争议简化为技术参数的[[Scientism\|科学主义]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p. 622]]）
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 科学态度与公众参与宏观民意实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

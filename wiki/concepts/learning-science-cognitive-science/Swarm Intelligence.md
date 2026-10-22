@@ -49,11 +49,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Swarm Intelligence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **群体智能（Swarm Intelligence）** 是指由大规模去中心化的异质或同质个体通过局部信息交换与间接协同，在整体层面自发[[Emergence|涌现]]出超越单个个体认知容量的复杂决策、环境自适应与协同行动能力的自组织[[Paradigm|范式]]。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化论证中，群体智能超越了传统生物学范畴，被提炼为对抗大型科层官僚僵化、实现高敏捷复杂系统开发的组织哲学：成功的工程团队应当如[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）观测的蜜蜂蜂群与[[Giorgio Parisi|乔治·帕里西]]（[[Giorgio Parisi]]）观测的椋鸟群一般，将决策权充分赋予处于外部环境边缘的侦察者与实干者，实现无中心中介指令的即兴协同与动态共识构建。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 119–121)]]
@@ -84,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **去中心化自治** 组织内不存在主宰具体业务指令的超级首领，个体依据通用简单规则与局部目标自主探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 > - **边缘感知驱动** 处于群体外围与前沿一线、最先接触真实外部物理环境与威胁的个体，享有最高的提案与信息触发权重。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **透明动态共识机制** 通过公开可见的信息呈现（如公开舞蹈辩论）与同行评审，以方案实际优劣而非提出者行政级别决定最终采纳。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
@@ -136,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -152,8 +144,6 @@ updated: 2026-10-22
 > - **2020s — 跨学科组织与工程治理[[Paradigm|范式]]** 群体智能被系统引入医疗急救韧性建设与科技初创企业治理，卡普与扎米斯卡将其确立为打破科层官僚僵化、重建[[Technological Republic|技术共和国]]工程文化的核心理论原型。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -172,8 +162,6 @@ updated: 2026-10-22
 > 群体智能的高效运转高度依赖底层通信协议的保真度与信息透明度；若群体中存在严重的信息不对称、恶意欺骗信号或局部拓扑网络割裂，群体容易陷入从众级联失误或决策瘫痪。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 119–121)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -39,11 +39,7 @@ created: 2026-06-04
 updated: 2026-10-22
 ---
 
-# Responsible Conduct of Research
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 负责任的研究行为（Responsible Conduct of Research, RCR）指研究者在研究的各个环节中应达到的质量标准和伦理义务，涵盖[[Research Ethics\|研究伦理]]（包括人类和动物受试者保护及安全）、数据管理、实验设计和成果报告等内容([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.266]])。大学通常要求学生和教师完成 RCR 培训作为从事研究的条件。
 
 > [!quote|notitle]
@@ -61,9 +57,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **RCR vs 研究不端（Research Misconduct）** 研究不端特指抄袭、伪造和篡改三种严重违规行为，属于 RCR 的底线要求；RCR 的范围更广，涵盖研究全过程的质量标准，不仅限于避免违规，还包括积极履行研究者的专业责任（p.265）。
 
 > [!example|notitle]
@@ -76,9 +70,7 @@ updated: 2026-10-22
 
 ---
 
-## 署名规范
-
-> [!note|notitle]
+> [!note] 署名规范
 > RCR 的署名维度要求：任何对研究做出实质性贡献的人都应被列为作者或成果创作者（包括数据、软件、交互媒体和文章），而未做出实质性贡献的人不应被列入（p.266）。
 
 > [!note|notitle]
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > 近年来越来越多期刊采用 **CRediT Taxonomy**（Contributor Roles Taxonomy）作为署名标准，要求所有作者精确说明各自在研究中的贡献类型（p.266）。
 
 ---
-
-## 科学传播与科研诚信的制度融合
 
 > [!claim] 科学传播与科研诚信的合流
 > 负责任的研究行为（RCR）不仅适用于同行评议学术期刊中的成果报告，更应全面延伸至面向大众传媒与公众的科学传播环节。大众媒体报道中科学结论的夸大往往并非源于记者的曲解，而是直接始于大学新闻办公室新闻通稿（Press Releases）中的过度包装（Sumner et al., 2014）；科学界必须遏制过度营销（Overselling）学术影响力的竞争冲动，将对外新闻发布与媒体沟通正式纳入科研诚信与可重复性治理大框架。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 61–62)]]

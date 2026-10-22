@@ -70,11 +70,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Zentrum für internationale Bildungsvergleichsstudien
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 德国[[International Education\|国际教育]]比较研究中心（德语：[[Zentrum für internationale Bildungsvergleichsstudien]], 缩写为 ZIB；英语：Centre for International Student Assessment）是由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF / 德语：Bundesministerium für [[Bildung]] und Forschung）与各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）于 2010 年共同决议出资设立的国家级跨机构学术联合体。其核心法定使命是承担[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）在德国的国家协调、技术研发与科学分析，为德国教育决策层、科研界及社会公众提供权威的宏观系统知识（Systemwissen）与解释性知识（Erklärungswissen）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
@@ -87,16 +83,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2010–2012 — 机构创建与体制化奠基** [[Federal Ministry of Education and Research\|BMBF]] 与 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 签署共建协议，选址慕尼黑工业大学设立 [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]] 实体；汇聚克里斯蒂娜·赖斯（Kristina Reiss）等知名学者，正式承接 [[PISA]] 2012 德国国家测评的研发与实施任务。
 > - **2013–2019 — 周期性国家测评深化与周期扩展** 连续主导完成 PISA 2015（聚焦[[Scientific Literacy\|科学素养]]）与 PISA 2018（聚焦阅读素养）的德国国家报告；开创将国际标准化测验与德国各州课程标准微观比对的方法体系。
 > - **2020–至今 — 跨机构证据协同与“[[Clearing House Unterricht\|CHU]] x ZIB”双轨模式** 统筹发布经历新冠疫情冲击的 PISA 2022 报告；与同设于慕尼黑工业大学的[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）正式建立深度战略合作机制（CHU x ZIB），探索将宏观国家监测与微观教学效能证据相融通的新型[[Knowledge Mediation\|知识中介]][[Paradigm\|范式]]。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Directors）** 由三家联合机构的主持教授组成核心执行理事会，包括慕尼黑工业大学（TUM，执行主席）、莱布尼茨教育研究所（[[Leibniz Institute for Educational Research and Educational Information\|DIPF]]）所长以及莱布尼茨数理教育研究所（IPN）所长。
@@ -110,8 +102,6 @@ updated: 2026-10-22
 > - **政策报告与公众转译发布** 协同 KMK 与 BMBF 在柏林同步召开国家发布会，出版长篇国家研究专著，出具面向各州教育改革的政策建议案。
 
 ---
-
-## 核心业务与协同范式
 
 > [!finding-cards] 核心业务与国家测评矩阵
 > 1. **[[PISA]] 国家测评研发与全流程实施** 统筹全德 16 个联邦州的科学抽样、计算机化测验与保密题库管理，每三年至四年完成一次全德大规模实测，出具官方国家评估专著。
@@ -130,16 +120,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > 1. **终结国家测评动荡，确立常设学术重镇** 彻底解决了德国以往由单一大学教授团队短期竞标承接 [[PISA]] 导致的队伍解散与标准断层，成为德国教育实证监测不可动摇的国家支柱。
 > 2. **深刻重塑德国基础教育立法与课标改革** 其揭示的德国教育成就与家庭背景高度绑定的实证数据，直接促成全德推进全日制学校建设（Ganztagsschulen）、国家教育标准设立及学前语言筛查改革。
 > 3. **架设“从监测到干预”的转化立交桥** 依托 [[Clearing House Unterricht\|CHU]] x [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]] 协同平台，打破了宏观政策官员与微观课堂教师的语系鸿沟，使大规模测评不仅停留在国际排名的“照镜子”，而是成为催生具体循证教学法的引擎。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

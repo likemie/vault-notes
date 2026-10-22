@@ -60,11 +60,7 @@ created: 2026-08-28
 updated: 2026-10-16
 ---
 
-# Multiple-Choice Questions
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 多项选择题（Multiple-Choice Questions, MCQ），亦称选择反应型试题（Selected-Response Items），是教育测量与心理学评估中最广泛应用的客观化量化题型。试题由呈现问题情境的“题干（[[STEM Education\|STEM]]）”和包含一个正确答案（Key）与若干干扰项（Distractors）的“选项集（Options）”构成；被试只需在预设选项中识别并选出正确答案。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 23–25)]]
@@ -77,16 +73,12 @@ updated: 2026-10-16
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 假定目标知识或逻辑推理存在唯一确定、无歧义的标准答案；知识可被原子化拆解为离散的测试要点。
 > - **测量学优势** 具备绝对客观的机器评分[[Reliability\|信度]]（[[Inter-Rater Reliability]] = 1.0）、高抽样内容覆盖度（[[Content Validity\|content coverage]]）以及极高的大规模施测成本效益。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
 > - **测量学局限与核心危机** 仅能测量“再认（Recognition）”而非“主动生成（Generation）”；测量高阶复杂[[Construct\|构念]]时极易引发严重的**构念代表性不足（Construct Underrepresentation）**。[[Argument_Bouckaert_2023_OECD\|(Frederiksen, 1984; Shepard, 2000; Bouckaert, 2023, pp. 24–25)]]
 
 ---
-
-## 核心机制与认知不对称性
 
 > [!contrast-table] 选择反应型 (MCQ) 与 建构反应型 / 表现任务的深度对比
 > | 维度 | 多项选择题 (MCQ / Selected-Response) | 建构反应型试题 (Constructed-Response) | 真实性表现任务 (Authentic Performance Tasks) |
@@ -99,8 +91,6 @@ updated: 2026-10-16
 
 ---
 
-## 围绕选择题测验形成的学术争议与实证反思
-
 > [!debates] 测量学争议焦点
 >
 > > [!axis] 选择题测查[[Higher-Order Thinking Skills\|高阶思维]]的三重理论危机
@@ -109,8 +99,6 @@ updated: 2026-10-16
 > > - **应试技巧（Test-Wiseness）与负向反拨** 选项线索排除、关键词猜测等应试技巧可能虚假推高分数；高利害选择题统考强力驱动课堂转向机械刷题，从根本上摧毁了[[Constructive Alignment\|建构性对齐]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24, 26–27)]]
 
 ---
-
-## 实证数据与测量学边界
 
 > [!ref-table]- 选择题与其他题型效度与[[Reliability\|信度]]实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

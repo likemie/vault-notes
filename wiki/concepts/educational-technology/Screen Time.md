@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Screen Time
-
 > [!metax] [屏幕时间 · Screen time](https://www.visiblelearningmetax.com/influences/view/screen_time)
 > 技术、学校与校外策略 › 移动／触屏
 >

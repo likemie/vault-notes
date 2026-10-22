@@ -55,11 +55,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Global Partnership for Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 全球教育伙伴关系（Global Partnership for Education，GPE）是全球唯一专门致力于提高发展中国家基础教育普及与质量的多元利益相关方国际多边基金组织；作为[[Global Education Governing Complex\|全球教育治理复合体]]的五大多边核心机构之一，GPE 旨在通过调动国际赠款、协调捐助国与发展中国家政府编制国家教育部门规划（ESP），充当连接全球教育援助资金与国家层面政策落实的中介协调平台。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 544)]]
@@ -72,16 +68,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2002–2010 — [[Education for All\|全民教育]]快车道倡议（EFA-FTI）奠基期** 2002 年在蒙特雷发展筹资国际会议上发起成立，作为[[World Bank\|世界银行]]与[[UNESCO\|联合国教科文组织]]加速落实全民教育达喀尔目标的紧密合作工具；初期高度依附于世界银行放贷审批流程，重点资助初等教育完成率考核达标的发展中国家。
 > - **2011–2018 — 机构独立重组与 GPE 多边治理确立** 2011 年彻底脱离单纯依靠世行托管的运作模式，正式更名为全球教育伙伴关系（GPE）；吸纳发展中国家、教师工会与国际非政府组织代表进入董事会，建立起首个多利益相关方联合治理架构。
 > - **2019–至今 — [[Knowledge and Innovation Exchange\|KIX]] 枢纽建立与[[Policy Brokerage\|政策中介]]深化** 2019 年联合加拿大国际发展研究中心（IDRC）正式设立“知识与创新交流”（Knowledge and Innovation Exchange，KIX）机制，在全球南方设立 4 大区域中介枢纽，推动从传统的外部援助赠款向系统性支持区域同侪互学与本土证据利用演变。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（GPE 董事会）** 实行独特的选区（Constituency）平权治理结构，由发展中国家政府代表、双边捐助国、多边开发机构、民间社会组织、私营企业及私人慈善基金会代表共同组成最高决策实体。
@@ -96,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **大规模多边教育赠款工具箱** 涵盖系统转型赠款（System Transformation Grants）、加速资金（Accelerated Funding）与数据赋能赠款，累计配置数十亿美元[[International Education\|国际教育]]公共财政。
 > - **知识与创新交流（[[Knowledge and Innovation Exchange\|KIX]]）平台** 全球最大的[[Development Education|发展中国家教育]]政策循证知识共享平台，支持 70 多个全球南方国家在课程改革、教师专业化与早期教育领域的实用研究。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > *Nominally, the GPE is not an IO (intergovernmental organisation) but rather a multi-stakeholder international organisation with representation from donor countries, recipient countries, civil society, business, and foundations. However, it is de facto very much donor driven and functions like an IO (see Menashy 2018).*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 汇聚全球数十个双边捐助国与多边机构资金，累计动员超 80 亿美元多边赠款，覆盖近 90 个伙伴发展中国家。
@@ -129,8 +117,6 @@ updated: 2026-10-22
 > - **>\$8B** 成立以来累计撬动并配置的全球教育发展合作资金。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 治理争议与批判
 >

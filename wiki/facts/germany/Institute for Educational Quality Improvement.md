@@ -63,11 +63,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Institute for Educational Quality Improvement
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 德国教育质量发展研究所（Institut zur Qualitätsentwicklung im Bildungswesen, IQB）是德意志联邦共和国 16 个联邦州依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）决议于柏林洪堡大学联合创设的国家级专业科学研究机构。作为[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]（[[Gesamtstrategie zum Bildungsmonitoring]]）的学术中枢与核心研发基地，IQB 承担着研发国家教育标准测评工具、实施联邦州学业达标水平比较、统筹全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库以及维护全国教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum）的核心使命，在德国联邦分权治理体制中扮演了联结跨国、国家、州级与微观学校的国家[[Center of Calculation\|计算中心]]角色（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]；[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）。
@@ -80,16 +76,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2004–2006 — 机构创设与国家教育标准题库奠基** 2004 年由 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 决议在柏林正式组建，初期核心任务是为 KMK 颁布的中学第一阶段（Sekundarstufe I）与小学国家教育标准（Bildungsstandards）研发心理测量学指标、试题库与能力层级量规（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 484]]）。
 > - **2007–2012 — 联邦州比较测试常规化与 [[Vergleichsarbeiten\|VERA]] 统筹接管** 2009 年起常态化组织实施全国代表性样本的联邦州学业达标比较测试（[[IQB-Bildungstrend\|Ländervergleich]]），并逐步接管由各州自发发起的校际比较测试（[[Vergleichsarbeiten\|VERA]]）的全国命题与元治理协调职能，确立其作为全国命题与标准标定中枢的法定权威（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 141, 144]]）。
 > - **2013–至今 — 研究数据中心（FDZ）集成与数字化拓扑拓展** 正式建立并扩大教育研究数据中心（Forschungsdatenzentrum, FDZ），将跨国（[[PISA]]、[[TIMSS]]、[[PIRLS]]）与国内大规模测评数据全面集成归档；同时上线面向全德一线教师的数字化练习任务平台，推动国家标准向微观课堂教学直接延伸（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 144–145]]）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **主管机关与指导委员会** 在宏观政策与施测规划上直接向 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 负责，接受由各州教育部高级官员组成的科学指导委员会监督。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 > - **FDZ 数据清洗、归档与二次研究支持** 汇聚全德与[[International Large-Scale Assessments\|国际大规模评估]]的微观数据集，实施去标识化清洗，面向全球学术界提供合规的数据调取申请、高级统计培训与方法学研讨（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 144]]）。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **联邦州教育趋势比较（[[IQB-Bildungstrend]] / Ländervergleich）**
@@ -126,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与政策渗透
 > - **全国 16 州 100% 覆盖** IQB 研发的国家标准体系与 [[Vergleichsarbeiten\|VERA]] 题库在全德所有公立中小学实现了全覆盖，终结了各州标准老死不相往来的离散历史。
 > - **国家[[Data Infrastructure\|数据基础设施]]的集约化整合** 通过 FDZ 的集成运作，德国成功建立起可与美国国家教育统计中心（National Center for Education Statistics, NCES）或英国打通的集约化教育数据仓储，极大提升了本国实证教育学的国际[[Competitiveness|竞争力]]。
@@ -138,8 +126,6 @@ updated: 2026-10-22
 > - **在去排名框架下维系数据治理效能** 尽管德国法律严格禁止对单体学校或学生编制公开排名榜，IQB 生产的细粒度数据通过内部反馈机制有效支撑了各州教育行政部门的针对性资源调配与教学改进（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–144]]）。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

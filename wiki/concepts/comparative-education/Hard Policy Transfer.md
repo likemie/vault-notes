@@ -54,11 +54,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Hard Policy Transfer
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **硬政策转移（Hard Policy Transfer）** 源于戴安娜·斯通（Stone, 1999）对政策转移机制的[[Typification|类型化]]划分，特指政策工具、制度架构、技术规程、测量工具或法律条文跨越国界直接复制（copying）与移植的过程。与允许地方行动者根据本土情境进行自由诠释与变通的[[Soft Policy Transfer|软政策转移]]不同，硬政策转移要求接受方原封不动地照搬现成工具或程序，压缩了本土调适的弹性空间。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 195)]]; [[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–345)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Soft Policy Transfer|软政策转移]]与硬政策转移的特征对比
 > | 比较维度 | 软政策转移（Soft Policy Transfer） | 硬政策转移（Hard Policy Transfer） |
 > |---|---|---|
@@ -95,8 +89,6 @@ updated: 2026-10-22
 > | **典型风险** | 政策修辞漂移、停留在象征性口号而缺乏落地工具 | 跨文化语境冲突、技术排异、伦理争议与基层师生抵制 |
 
 ---
-
-## 核心要素
 
 > [!feature] 硬政策转移的实施环节与载体形态
 > - **标准化题项编写与测试规程复制** 规定接受国必须按照预设的认知任务模式撰写测试题或采用统一试卷，以统一技术规程取代本土原有的考核逻辑。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,16 +141,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 硬政策转移概念的历史演进
 > - **1999 — 软硬政策转移二分法奠基** 戴安娜·斯通（Stone, 1999）在非政府组织与智库研究中系统区分[[Soft Policy Transfer|软转移]]（理念、修辞与概念扩散）与硬转移（工具、制度与规程直接复制），奠定了分析范畴。
 > - **2000s — 国际组织跨国测评推进技术规程硬转移** [[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）推行[[PISA|国际学生评估项目]]（[[PISA]]）与[[OECD AHELO Project|高等教育学习成果评估]]（[[OECD AHELO Project|AHELO]]），尝试将美国大学学习评估（[[Collegiate Learning Assessment|CLA]]）等量化测评工具直接跨国复制，在实践中暴露出跨文化语境冲突与本土排异。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 195, 200–201)]]
 > - **2010s 至今 — 政策评估技术与专业智库作为独立载体跨国硬转移** 蒂莫西·勒格兰德（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）拓展了硬转移边界，证实政策转移不仅包含实质政策方案，量化实验评估技术（[[Random Assignment|随机分配]]实验）与海外专业智库（如美国[[MDRC|人力示范研究公司]]）亦作为独立载体跨国硬移植，深度重塑接受国中央行政运作。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与制度张力
 >
@@ -180,8 +166,6 @@ updated: 2026-10-22
 > 硬政策转移主要适用于标准化程度高、因果逻辑明确且可[[Operationalization|操作化]]的量化测量工具、实验规程或局部技术规范。在涉及深层意识形态纷争、复杂社会福利再分配或深植本土历史传统的制度领域，单纯的硬性工具复制难以跨越本土政治生态的接纳壁垒。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨国硬政策转移的实证案例对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

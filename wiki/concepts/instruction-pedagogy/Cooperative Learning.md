@@ -72,11 +72,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Cooperative Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 合作学习（Cooperative Learning，CL）是指一种将学生组织为[[Heterogeneity\|异质性]]（能力、性别、背景多元）小组的[[Constructivist Paradigm\|社会建构主义]]教学组织模式。其核心特征在于通过社会结构化的信息交流与协同互动，使学习深度依赖于组内成员的同伴支持；每个学习者既对自身的学业掌握负责，又受到共同目标的激励去促进其他成员的学习，从而达成个体与群体的共同认知、[[Higher-Order Thinking Skills\|高阶思维]]与社会情感发展目标。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 合作学习与相近教学[[Paradigm\|范式]]多维对比
 > | 维度 | 合作学习（Cooperative Learning） | [[Collaborative Learning\|协作学习]]（Collaborative Learning） | [[Individualised Instruction\|个别化教学]]（Individualised Instruction） | 传统竞争性讲授（Competitive / Lecture） |
 > |---|---|---|---|---|
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > | **适用目标** | 学科知识掌握、[[Higher-Order Thinking Skills\|高阶思维]]训练与社会技能 | 复杂[[Wicked Problem\|劣构问题]]探究、创新项目与跨学科研究 | 基础知识补救、技能操练与个性化补齐 | 事实性知识传授与大班高效信息传递 |
 
 ---
-
-## 核心要素
 
 > [!feature] 合作学习的五大支柱要素（Johnson & Johnson 框架）
 > - **积极互赖（Positive Interdependence）** 组员建立利益休戚与共的深度联结，确立一人成功依赖于全员成功、无人能独善其身的目标、奖赏、资源与角色互赖机制。
@@ -181,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -193,8 +183,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 合作学习的发展演进
 > - **1970s — 起源与理论奠基** 合作学习在美国高等教育与基础教育中萌芽，Johnson & Johnson 创立明尼苏达大学合作学习中心，Slavin 开创约翰霍普金斯大学学生团队学习研究项目，奠定社会互赖与个体责任的理论基石。
 > - **1980s–1990s — 技术分化与全球传播** [[Jigsaw]]、STAD、[[Cooperative Integrated Reading and Composition\|CIRC]]、[[Group Investigation]] 等系统化教学技术相继开发并标准化，跨国家、跨学科实证研究广泛展开，确立了五大核心要素标准。
@@ -202,8 +190,6 @@ updated: 2026-10-22
 > - **2020s 至今 — [[Meta-meta-analysis\|二阶元分析]]整合与[[Higher-Order Thinking Skills\|高阶思维]]拓展** 面对一阶元分析的[[Sampling Error\|抽样误差]]与学科偏倚，研究者运用二阶元分析方法进行跨领域总括性[[Research Synthesis|证据综合]]，重点关注合作学习对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]、高阶思维与[[Problem Solving\|复杂问题解决]]能力的促进机制。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -224,8 +210,6 @@ updated: 2026-10-22
 > - **实施周期与持续时间依赖** 短期接触式合作往往难以形成良性小组动力，需要充足的时间沉淀与结构化引导。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

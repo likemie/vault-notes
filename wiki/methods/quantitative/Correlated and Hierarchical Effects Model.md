@@ -45,11 +45,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Correlated and Hierarchical Effects Model
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）是一种专门用于在[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）中同时处理**相关效应（Correlated Effects，同一项研究或同一被试报告的多个相关测量）** 与**层级效应（Hierarchical Effects，[[Effect Size\|效应量]]嵌套于不同原始研究或一阶元分析集群中）** 的三水平统计工作模型（Working Model）（Pustejovsky & Tipton, 2022; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 5]]）。CHE 通过构建块对角协方差工作矩阵并分解三层方差分量，为加权估计提供最优化统计效率。
@@ -67,8 +63,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位：解决的核心问题
-
 > [!contrast-table] 传统模型 vs 独立[[Hierarchical Linear Model\|多水平模型]] vs CHE 工作模型
 > | 维度 | 传统两水平[[Meta-analysis\|元分析]]模型 | 纯层级效应模型（Hierarchical） | 相关与层级效应工作模型（CHE） |
 > |---|---|---|---|
@@ -83,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心统计模型与数学公式
-
 > [!formula-set]- CHE 模型三水平方差分解与建模流程
 > ```mermaid
 > flowchart LR
@@ -95,8 +87,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-### 1. 三水平方差分解公式
 
 > [!formula-step] 公式步骤　CHE 三水平数学模型
 > $$z_{ij} = \beta_0 + \sum_{p=1}^P \beta_p X_{p,ij} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
@@ -114,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-### 2. 抽样协方差矩阵的插补构造
-
 > [!formula-step] 公式步骤　块对角协方差工作矩阵构建
 > $$
 > \mathbf{V}_j = \begin{pmatrix}
@@ -129,8 +117,6 @@ updated: 2026-10-22
 > **这个公式在做什么** 在[[Primary and Secondary Documents\|原始文献]]未完整报告测量间相关系数时，设定合理的先验集群内相关常数 $\rho$（在敏感性分析中通常设定 $\rho = 0.8$，并检验 $\rho \in [0.0, 0.9]$ 范围内的稳定性），插补构造块对角抽样协方差矩阵。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] R 语言环境（metafor）拟合 CHE 模型
 > ```R
@@ -153,8 +139,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用判断
 > - **强烈推荐** [[Meta-analysis\|元分析]]中存在多重结果测量、亚组对比，或[[Meta-meta-analysis\|二阶元分析]]中[[Effect Size\|效应量]]嵌套于多个一阶元分析中。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]

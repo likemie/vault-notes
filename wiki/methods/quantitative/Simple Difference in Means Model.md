@@ -70,11 +70,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Simple Difference in Means Model
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **简单均值差异模型（Simple Difference in Means Model）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）与两组比较实验中最直观、最基础的[[Counterfactual\|反事实]]因果估计模型。在完全[[Random Assignment\|随机分配]]的前提下，该模型直接以处理组（Treatment Group）[[Pre-test and Post-test\|后测]]结果的样本均值减去对照组（Control Group）后测结果的样本均值，作为干预对[[Study Population and Sample\|目标总体]]的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]）的无偏点估计。模型不纳入任何基线协[[Variable\|变量]]（如学生前测成绩或家庭背景特征），完全依赖随机化机制在期望上抹平两组基线差异。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
@@ -91,8 +87,6 @@ updated: 2026-10-22
 > *“Using archived data from the [[National Pupil Database]] (NPD), Xiao et al. (2016) reanalysed 17 completed EEF trials using four alternative models: simple difference in means, [[Ordinary Least Squares]] with pre-test, multilevel linear models, and generalised estimating equations. The choice of model had profound impacts on [[Effect Size]] estimates and confidence intervals, demonstrating that simple mean comparisons without covariate adjustment suffer from substantial loss of statistical power.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 依托内曼-鲁宾因果模型（Neyman-Rubin Causal Model）。认为在理想[[Random Assignment\|随机分配]]下，处理分配指标独立于潜在结果（$T_i \perp (Y_i(1), Y_i(0))$），两组[[Pre-test and Post-test\|后测]]可观测均值之差在数学期望上严格等于总体平均因果效应。
@@ -117,16 +111,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **检验[[Random Assignment\|随机分配]]质量与基线平衡性** 比较处理组与对照组在基线人口统计学特征上的分布，评估是否存在严重的偶然基线偏差。
 > 2. **计算两组[[Pre-test and Post-test\|后测]][[Descriptive Analysis\|描述统计]]量** 分别计算处理组（$N_T$）与对照组（$N_C$）的[[Sample Size Determination\|样本量]]、后测算术均值（$\bar{Y}_T, \bar{Y}_C$）与样本方差（$s_T^2, s_C^2$）。
 > 3. **计算简单均值差点估计量** 直接两组相减计算 $\hat{\tau}_{\text{SDM}} = \bar{Y}_T - \bar{Y}_C$。
 > 4. **执行假设检验与推断** 检验两组方差齐性（Levene 检验）；若方差不齐采用韦尔奇 $t$ 检验（Welch's $t$），构建[[Confidence Interval\|置信区间]]与确定 $p$ 值。
 > 5. **换算标准化[[Effect Size\|效应量]]** 结合全样本对照组标准差换算为 Cohen's $d$ 或小样本校正的 Hedges' $g$。
-
-### 量化分析模块
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** 单期后测横截面两组数据，包含 $N_T$ 个处理组受试与 $N_C$ 个对照组受试（总样本量 $N = N_T + N_C$）。
@@ -185,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 样本规模极大、且由于评估成本限制未收集基线[[Pre-test and Post-test\|前测]]数据的探索性大规模个体随机实验；
@@ -201,8 +189,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **统计功效显著受损** 由于未利用基线[[Pre-test and Post-test\|前测]]成绩对后测成绩进行解释，[[Dependent Variable\|因变量]]的总变异全部沦为残差方差。实证审计表明，在同等[[Effect Size\|效应量]]下，简单均值差异模型通常需要比引入基线前测的模型多出 2 至 4 倍的[[Sample Size Determination\|样本量]]才能达到 80% 的统计功效（Xiao et al., 2016）。
 > - **偶然不平衡易致偏误** 在样本量有限的真实试验中，[[Random Assignment\|随机化]]只能确保无偏的数学期望，无法保证特定样本中两组基线完全对等。若处理组偶然分入较多高学力学生，简单均值差异模型会将基线优势全盘误判为干预效果。
@@ -210,8 +196,6 @@ updated: 2026-10-22
 > - **补救方式** 在试验设计阶段采集基线前测数据，并在分析阶段升级为引入基线协[[Variable\|变量]]的 [[Ordinary Least Squares\|OLS]] 模型（[[Analysis of Covariance\|ANCOVA]]）或校正集群效应的[[Hierarchical Linear Model\|多层线性模型]]（HLM）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -235,8 +219,6 @@ updated: 2026-10-22
 > | [[Model Dependency]] | 风险现象 | 简单均值模型与其他模型在[[Effect Size\|效应量]]估计与显著性上的差异揭示的核心方法学挑战。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等用NPD对 17 项 [[Education Endowment Foundation\|EEF]] 试验做四模型复算，发现简单均值差异模型较[[Covariate Adjustment\|协变量调整]]模型功效损失明显。

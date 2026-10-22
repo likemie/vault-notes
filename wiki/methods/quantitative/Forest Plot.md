@@ -56,11 +56,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Forest Plot
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 森林图（Forest Plot）是[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]中用于全景展示各项初级研究定量结果及总体合成估计的标准可视化图表。图中每一横行代表一项纳入的独立实证研究，以矩形方块（Square）表示[[Effect Size\|效应量]]点估计值、以贯穿方块的水平线段表示95% [[Confidence Interval\|置信区间]]（CI），图表底部以一个菱形（Diamond）表示加权合并后的总体效应量及其置信区间。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 33)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **边界** 森林图展示的是已有数据的综合结果与置信范围，不直接展示[[Publication Bias\|发表偏倚]]风险（后者主要由 [[Funnel Plot\|漏斗图]] 诊断）。
 
 ---
-
-## 森林图解剖结构与视觉要素
 
 > [!logic-map]- 森林图视觉要素体系
 > ```mermaid
@@ -98,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 森林图专业判读三步法
-
 > [!proc] 森林图三步判读规程
 > 1. **第一步：看效应方向与显著性** 观察绝大多数研究的方块位于无效线左侧还是右侧；观察底部汇总菱形是否远离无效参考线。
 > 2. **第二步：看置信线段重叠度（直观判读[[Heterogeneity\|异质性]]）** 
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > 3. **第三步：看大权重研究的主导性** 检查是否存在单项方块极大、权重占比过高（如 $> 50\%$）的研究；若存在，需警惕总体结论是否被单一研究所绑架，需进行[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]（Leave-one-out sensitivity analysis）。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 森林图与[[Funnel Plot\|漏斗图]]对比
 > | 维度 | 森林图（Forest Plot） | [[Funnel Plot\|漏斗图（Funnel Plot）]] |
@@ -121,8 +111,6 @@ updated: 2026-10-22
 > | **出现阶段** | 报告分析结论的标准主图 | 质控与敏感性分析阶段的辅助图 |
 
 ---
-
-## 软件绘制示例（R · metafor）
 
 > [!software-impl] 森林图生成脚本
 > ```r
@@ -140,8 +128,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 实证检验案例
 
 > [!case] 实证展示案例：生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]的森林图
 > - **多[[Effect Size\|效应量]]全景呈现与权重刻画** 在一项针对生成式 AI 促进高阶思维的一阶[[Meta-analysis\|元分析]]中，纳入 29 项实验与准[[Experimental Research\|实验研究]]共 59 个效应量，在森林图中按行绘制各项初级研究的 Hedges' $g$ 点估计方块与 95% [[Confidence Interval\|置信区间]]横线，方块面积直观反映各研究在[[Random-Effects Model\|随机效应模型]]中的[[Inverse-Variance Weighting\|逆方差加权]]比重。

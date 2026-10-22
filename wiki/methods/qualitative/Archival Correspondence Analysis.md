@@ -34,9 +34,6 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Archival Correspondence Analysis
-
-
 > [!info] 定义
 > 档案通信分析（Archival Correspondence Analysis）是一种历史研究方法，通过收集和分析个人通信（信件）、同时期报纸报道、政府外交或行政函件等一手档案资料，交叉验证以重建历史事件的经过、参与者的互动以及不同行动者的视角。其核心逻辑不是依赖单一来源叙述，而是通过多源资料的比对和互补来逼近事件的完整图景([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.102–103]])。
 

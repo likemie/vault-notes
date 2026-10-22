@@ -35,8 +35,6 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Mātauranga Māori
-
 ---
 
 > [!info] 定义

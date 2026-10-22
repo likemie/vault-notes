@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Sound Or Inference
-
 > [!metax] [语音或推理 · Sound or inference](https://www.visiblelearningmetax.com/influences/view/sound_or_inference)
 > 课程 › 读写与艺术
 >

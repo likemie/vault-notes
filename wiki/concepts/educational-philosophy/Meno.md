@@ -57,11 +57,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# Meno
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 《美诺篇》（*Meno*）是[[Plato|柏拉图]]创作的早期向中期过渡阶段的哲学对话录。该篇以追问“美德是否可教”（whether virtue can be taught）为起点，系统提出了探究如何可能的“美诺悖论”（Meno's Paradox），并首次确立了[[Theory of Knowledge|知识论]]核心奠基命题——灵魂回忆说（Theory of Recollection / Anamnesis）。[[Socrates|苏格拉底]]在篇中通过引导从未受过正规教育的童奴自主推导出正方形倍面积定理，奠定了西方启发式提问教学与先天心智论（Nativist [[Theory of Mind|Theory of Mind]]）的哲学基石[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28)]]；但在现代[[Virtue Epistemology|德性认识论]]与教育人工智能审视下，该对话亦被批判为预设唯一客观标准答案、依赖闭合引导的收敛性诱导原型[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 《美诺篇》对话[[Paradigm|范式]]与相近交互范式辨析
 > | 维度 | 《美诺篇》[[Socrates\|苏格拉底]]几何对话范式 | 《优绪弗洛篇》[[Socratic Elenchus\|苏格拉底反诘法]]范式 | 心理治疗式教育探究对话范式 |
 > |:---|:---|:---|:---|
@@ -93,8 +87,6 @@ updated: 2026-10-22
 > | **典型教育产出** | 演绎逻辑推导能力的激活与收敛性正解 | 虚妄教条的破除与认识论困惑（Aporia） | [[Open-Mindedness\|思想开放]]、[[Counterfactual\|反事实]]想象力与个人层面的[[Creativity\|创造力]]（P-creativity） |
 
 ---
-
-## 核心要素
 
 > [!feature] 《美诺篇》五大哲学与教学支柱
 > - **美德可教性之问** 探讨美德究系先天具有、后天习得还是神圣恩赐，由此引发对“美德之本质定义”的根本追问。
@@ -149,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 《美诺篇》相关核心理论命题汇总
 > | 命题方向 | 核心论断 | 代表研究 | 实践与理论意涵 |
 > |:---|:---|:---|:---|
@@ -159,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 《美诺篇》思想与教学影响演变
 > - **公元前 4 世纪 — [[Plato|柏拉图]]创作** 柏拉图在雅典学园时期写下《美诺篇》，以回忆说回应美诺悖论，将[[Socrates|苏格拉底]]的口头哲学实践书面化与体系化。
 > - **17–18 世纪 — 近代唯理主义[[Epistemology|认识论]]继承** [[René Descartes|笛卡尔]]（René Descartes）与莱布尼茨（Gottfried Wilhelm Leibniz）继承《美诺篇》的精神脉络，发展出天赋观念论（Innate Ideas），对抗[[Empiricism|经验主义]]的“白板说”（Tabula Rasa）。
@@ -168,8 +156,6 @@ updated: 2026-10-22
 > - **2026 年 — 智能教育系统中的交互批判与[[Paradigm|范式]]跃迁** 纳伊姆（Naeem）在[[Virtue Epistemology|德性认识论]]框架下解构《美诺篇》诱导问答的认识论缺陷，批判其剥夺学习者自主作者权，倡导以心理治疗式开放对话重构智能导师（Q-Tutor）的交互机制。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

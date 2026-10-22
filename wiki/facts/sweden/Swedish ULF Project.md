@@ -59,11 +59,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Swedish ULF Project
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 瑞典 ULF 项目（Swedish ULF Project，全称 Utveckling, Lärande, Forskning，即发展、学习与研究项目）是瑞典政府于 2017 年正式委托启动的国家级科研与实践伙伴关系基础设施试点工程，联合全瑞典 25 所设立教师教育专业的高等院校与 150 余个地方自治市学区，旨在构建大学学术界与基础教育学校系统之间长效可持续的协同研究机制，赋权一线教师自主发起并深度参与教育科研。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解大学教育科研长期存在的脱离教学一线、理论成果无法迁移转化，以及学校一线教师仅能充当外部课题被动调查对象的结构性鸿沟，建立实践本位科研的制度化土壤。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预与机制假说
 > 唯有打破以大学研究者为单向主导的传统课题外包模式，建立研究者与中小学教师在[[Problem Finding\|问题界定]]、方案设计与成果应用各阶段地位平等的长效伙伴机制，并为学校专业人员设立自主发起课题的制度化通道，才能实现科研严谨性与实践情境性的有机融合。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
@@ -93,16 +87,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2017–2021 年 — 国家先导试点与模式探索期** 瑞典政府下达试点委托令，25 所高校与 150 余市镇组建区域合作节点，在[[Action Research\|行动研究]]、协同探究与设计本位研究中探索大学与学校签订长期合作协议（ULF-avtal）的操作范本。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
 > - **2021–2024 年 — 过渡深化与国家评估推进期** 挪威学者蒂娜·S·普罗伊茨（[[Tine S. Prøitz]]）等独立专家团队完成五年试点成效追踪评估，系统总结协作机制的障碍与成功要素；瑞典政府决定设立三年过渡期，完善国家级经费长效保障机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 > - **2024 年至今 — 长期国家基础设施沉淀期** 试点模式正式上升为瑞典国家教育科研的法定常态机制，成为支撑瑞典教师教育与中小学专业教学实践的制度化基座。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 217)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **国家教育行政与资助统筹（瑞典教育部与 SKR）** 提供国家层面稳定的财政预算与法制保障，监督高校与地方市镇协同协议的履行。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 216)]]
@@ -118,8 +108,6 @@ updated: 2026-10-22
 > - **贯穿全流程参与（Actor involvement in all phases）** 支持教师深度介入研究前期需求诊断、中期干预与后期转化全周期。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **制度覆盖广度** 签约参与高校与地方市镇比例、跨界合作协议履行率。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 216)]]
@@ -137,8 +125,6 @@ updated: 2026-10-22
 > - **5 yr** 瑞典政府首期国家级委托试点的系统运行周期。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

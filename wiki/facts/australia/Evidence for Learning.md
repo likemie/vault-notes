@@ -75,11 +75,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Evidence for Learning
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 证据学习中心（Evidence for Learning，E4L）是 2014 年在澳大利亚设立的专业教育[[Educational Brokerage Agency\|证据中介机构]]，作为全澳最大[[Venture Philanthropy\|风险慈善]]枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）的全资中介子公司，依托英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与澳大利亚联邦银行（Commonwealth Bank of Australia）的联合种子资金创设。E4L 充当了跨国[[Evidence-Based Education\|循证教育]]工具在澳洲本土化试验的原型平台，并成为 SVA 游说联邦政府创设国家级法定证据机构（[[Australian Education Research Organisation\|AERO]]）的关键制度踏板（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6–7]]）。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 宣称致力于“协助教育决策者与一线教师获取严谨、直观的研究证据，以做出更明智的投资与教学决策”，重点通过本土化工具包缩小处境不利学生的学业差距。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展与中介试验历程
 > - **2014–2015 — 机构创设与跨国资本注入** 在英国 [[Education Endowment Foundation\|EEF]] 推进全球化扩张的背景下，EEF 联合澳大利亚联邦银行（Commonwealth Bank of Australia）出资，支持 [[Social Ventures Australia\|SVA]] 设立证据学习中心（E4L）；由前商业律师马修·迪布尔（Matthew Deeble）出任首任首席执行官，负责全面引进、重构并本土化英国 EEF《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]）。
@@ -110,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构与母体从属
 > - **母体控制（[[Social Ventures Australia\|SVA]] 全资控股）** E4L 并非独立法人实体，其行政人事、法律审计与财务运营完全依托母体澳大利亚社会创投（SVA），是 SVA 进军基础教育公共政策领域的专业操作手臂（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]]）。
 > - **执行领导层（跨国商法精英主导）** 由前跨国商业律师马修·迪布尔长期担任总监。埃玛·罗威（Emma Rowe）特别指出，迪布尔没有任何一线公立中小学教师或校长从业经历，体现了跨国商法和企业咨询精英在循证中介机构中的主导性占位（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
@@ -126,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit - Australia）** 参照英国 [[Education Endowment Foundation\|EEF]] 架构并深度本土化，系统收录 34 类教学策略，以直观的“额外[[Months of Progress\|月度学业进展]]”（Months of Progress）、成本星级和挂锁证据强度呈现，成为全澳一线校长与教研主任高频查阅的核心导航工具。
 > - **早期儿童教育工具包（Early Childhood Education Toolkit）** 针对学前教育与幼小衔接阶段的读写启蒙、早期干预发布本土循证策略指南。
@@ -141,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **学校决策与教师专业动员** 深度嵌入各州公立学校系统（如维多利亚州学校改进模型），成为教师日常教研备课、资源选配的高频参考，工具包月访问量达 2.2 万次，核心用户逾 2.6 万人。
 > - **[[Experimental Research\|实验研究]]能力突破** 打造澳大利亚教育史上最大规模 [[Randomised Controlled Trials\|RCT]] 试验（南澳“思维数学”，158 所学校，7,000+ 名学生），实质性提升了澳大利亚高等院校与评估机构设计执行因果实证的整体产能。
@@ -155,8 +143,6 @@ updated: 2026-10-22
 > - **A\$50M** 借道 E4L 试验样板游说促成的联邦与各州设立国家法定中介 [[Australian Education Research Organisation\|AERO]] 的启动专项注资。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心学术与政策争议
 >

@@ -44,11 +44,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# HEFCE Learning Gain Project
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2014 年由[[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（Higher Education Funding Council for England, HEFCE）正式启动，持续资助至 2018 年。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
@@ -57,8 +53,6 @@ updated: 2026-10-22
 > - **制度位置** 配合英国卓越[[Framework for Teaching|教学框架]]（TEF）探索高教质量评价实证基准的国家专项科研计划。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > [[Higher Education Funding Council for England\|HEFCE]] 注资 400 万英镑设立 13 个多路径试点项目，覆盖全英 70 余所高校，综合运用标准化情境测验、课程学业增益模型、[[Student Engagement\|学生投入]]调查与[[Learning Analytics\|学习分析]]技术，全面评估大学生[[Learning Gain\|学习增益]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
@@ -71,16 +65,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2014 [[Higher Education Funding Council for England\|HEFCE]] 正式发布[[Learning Gain\|学习增益]]项目招标指南，设立 400 万英镑专项基金。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - 2015 确定 13 个试点课题联合体，全面启动全英 70 余所高校的基线测试与数据采集。
 > - 2018 发布最终评估报告，总结多路径测量学习增益的实证成果与方法学局限（如低利害测验作答动机不足问题）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18, 25–26)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** [[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（HEFCE / 后转由学生办公室 Office for Students 接管）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]

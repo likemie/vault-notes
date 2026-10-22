@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Peer Ethnicity
-
 > [!metax] [同伴族裔构成 · Peer ethnicity](https://www.visiblelearningmetax.com/influences/view/peer_ethnicity)
 > 家庭 › 家庭资源
 >

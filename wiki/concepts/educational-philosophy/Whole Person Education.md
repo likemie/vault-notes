@@ -40,8 +40,6 @@ created: 2026-08-23
 updated: 2026-10-07
 ---
 
-# Whole Person Education
-
 ---
 
 ## 定义
@@ -239,12 +237,10 @@ updated: 2026-10-07
 
 ---
 
-## 实证数据
-
-这里的数字描述课程采用和实施条件，不是全人发展效果的测量。
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> 这里的数字描述课程采用和实施条件，不是全人发展效果的测量。
 >
 > | 研究 | 样本与情境 | 研究设计 | 指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
@@ -265,8 +261,6 @@ updated: 2026-10-07
 > 新加坡营养科学与[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]课程试点把本地问题、多学科应用和教师准备连接起来，设计、实施经过及成效边界见课程创新案例。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 用理解、改变和享受环境三项目标回检[[International Baccalaureate|国际文凭]]课程，区分课程能够直接规定、间接促进和难以验证的全人发展结果。

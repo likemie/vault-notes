@@ -57,9 +57,7 @@ updated: 2026-10-22
 > - **2017-2018** — Lighthouse schools 扩展到 8 年级；全学区扩展到 7-8 年级。
 > - **2018-2019** — 全学区扩展到 9-12 年级，完成分阶段推进。
 
-## 实施情况
-
-> [!example|notitle]
+> [!example] 实施情况
 > STAT 的实施包括教师专业发展、STAT teachers 与同事支持、课堂设备、数字内容和教学规划资源。项目评价使用教师[[Questionnaire\|问卷]]、学生[[Focus Group\|焦点小组]]、校长与 STAT teachers 访谈、课堂教师焦点小组、[[Classroom Observation|课堂观察]]、行为数据以及 ELA 和数学成就数据([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.115-118]])。
 
 > [!info] 核心数据
@@ -67,9 +65,7 @@ updated: 2026-10-22
 > - 课堂观察从 2014 年秋至 2019 年春持续进行，单次观察约 20 分钟；观察工具总体评分者一致性 [[Cronbach's Alpha]] 为 .972([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.117]])。
 > - BCPS 接近 50% 学生符合免费或减价餐资格，PARCC 结果通常接近州平均但略低，低于许多经济条件更优的学区([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.118]])。
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > STAT 在前四年的评价结果总体稳定：多数校长和教师对项目持积极态度，尤其认可 STAT teachers 的专业支持，以及专业发展对学生中心教学、学生参与和学生成就的影响。家长和 STAT teachers 也整体支持项目运行和延续([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.118]])。
 
 > [!success|notitle]
@@ -78,9 +74,7 @@ updated: 2026-10-22
 > [!warning|notitle]
 > 成就结果并不明确。Lighthouse 学校在 ELA 和数学上大体呈轻微上升趋势，但结果跨年份和队列并不一致，无法通过描述性结果显示 STAT 带来显著正向趋势。2018-2019 年，Lighthouse 小学年级在 ELA 和数学熟练率上比同伴和州水平增长更多，但其他小学 ELA 下降、数学上升，中学结果则较为混合([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.118-119]])。
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 > STAT 的争议集中在“项目成功应由什么衡量”。支持者重视数字公民、教学多样化、学生参与和技术接入公平；反对者更强调学生成就。由于测试分数没有明显上升，一部分较高收入白人家长和若干白人学校董事会成员把项目视为失败，并偏好把资金用于缩小[[Class Size\|班额]]或修缮校舍([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.123]])。
 
 > [!warning|notitle]

@@ -39,11 +39,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# HEInnovate
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年由[[EU|欧盟]]委员会（European Commission）与[[OECD\|经济合作与发展组织]]（OECD）联合设立并运营。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
@@ -52,8 +48,6 @@ updated: 2026-10-22
 > - **制度位置** 作为欧盟《欧洲高等教育现代化议程》与 OECD 创新政策的核心政策引导与自我诊断支架。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > HEInnovate 提供覆盖 8 大维度的免费在线机构自我评估工具（Self-Assessment Tool），指导大学诊断自身在培育学生[[Creativity\|创造力]]、跨学科[[Problem Solving\|问题解决]]与创新考核方面的系统能力并制定改进策略。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 11–12)]]

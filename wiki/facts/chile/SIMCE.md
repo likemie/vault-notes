@@ -51,11 +51,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# SIMCE
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 智利教育质量测度系统（Sistema de Medición de la Calidad de la Educación, SIMCE）是智利国家教育评估体系的核心支柱，创设于 1988 年军政府末期，是全球发展中国家运行时间最久、制度化程度最高的全员大规模标准化测评项目之一。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **核心问题导向** 配合 1981 年教育券改革（[[Chilean Educational Reform of 1981]]），解决家长[[School Choice|择校]]过程中的信息不对称问题，确立中央政府对全国统一课程大纲的远程质量监控。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过对全体学生进行[[Criterion-Referenced Test|标准参照]]与常模测评，将量化分数公开发布并作为家长[[School Choice|择校]]信号与学校问责依据，借由准市场竞争与行政奖惩促使[[School Autonomy|学校自主]]提升教学质量。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249, 253, 257)]]
@@ -86,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1988–1994 — 初始监测与课程控制期** 军政府时期设立，初期主要作为低利害监测工具，用于评估新课程大纲实施情况并向家长提供基础信息。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 > - **1995–2007 — 排位公开与绩效奖金绑定** 1995 年首次在全国主流媒体公开发布学校成绩排行榜；同年引入[[SNED|国家学校绩效评估系统]]（[[SNED]]），将 SIMCE 表现与公立及补贴私校教师绩效奖金紧密挂钩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257–258)]]
@@ -95,8 +87,6 @@ updated: 2026-10-22
 > - **2014–至今 — 社会反弹与制度反思** 学生、教师与学者联合发起“[[Alto al SIMCE|停止 SIMCE 运动]]”（[[Alto al SIMCE]]），批判统考加剧教育隔离与学校文化异化，促使政府特别委员会评估统考利害并调减测试频次。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层规划与资助方** 智利教育部（MINEDUC），负责教育法规制定与国家课程标准确立。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - **公私协同一体推进** 凭借公共财政资助的优先权，强制各类学校纳入同一尺度排位，构筑全国统一的量化[[Space of Equivalence|等值空间]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249–250, 257)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **学业标准达成度** 各学科标准化分值与等级分布。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
@@ -127,8 +115,6 @@ updated: 2026-10-22
 > - **1995** 首次在智利主流报纸公开发布全国学校成绩排行榜年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
 
 ---
-
-## 争议与制度反思
 
 > [!debates] 项目争议
 >

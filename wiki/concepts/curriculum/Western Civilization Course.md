@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-16
 ---
 
-# Western Civilization Course
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **西方文明通识课程（Western Civilization Course，通常简称为 Western Civ）** 指20世纪在美国高等教育中广泛设立、作为本科生必修通识核心仪式的历史与经典阅读课程体系。该课程通过系统讲授从古希腊罗马、欧洲民族国家形成到美国宪政共和国演进的思想文本与历史脉络（如[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]、马克思、[[Hannah Arendt|阿伦特]]等），旨在日益多元异质的现代移民社会中，为受教育阶层构筑维系国家认同与理性共同体认同的[[Civic Religion|公民宗教]]精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–85)]]
@@ -65,8 +61,6 @@ updated: 2026-10-16
 
 ---
 
-## 历史演变与正典解构
-
 > [!timeline] 西方文明课程的兴起与退场脉络
 > - **19世纪末至20世纪初** 美国历史学会（AHA）与哥伦比亚大学、芝加哥大学等高校确立西方文明导论课程模式，为移民社会塑造统一的公共公民认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84, 88)]]
 > - **二战后至1950年代** 西方文明通识课成为全美顶尖学府普遍要求的大一必修课，如斯坦福大学的西方文明史课程（History of Western Civilization）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 87)]]
@@ -75,8 +69,6 @@ updated: 2026-10-16
 > - **1980年代至今** 该课程退潮演变为长达数十年围绕多元文化主义与去中心化的[[Canon Wars|经典之争]]（Canon Wars），美国历史教育被形象地比喻为“断线气球”（A Balloon Cut Loose）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 88, 95–96)]]
 
 ---
-
-## 理论争议与课程功能辨析
 
 > [!contrast-table] 西方文明通识课程的两大阵营立场对比
 > | 比较维度 | 传统正典派（如 [[William H. McNeill\|威廉·麦克尼尔]]） | 批判解构派（如 [[Fredric L. Cheyette\|切耶特]]、[[Kwame Anthony Appiah\|阿皮亚]]） |
@@ -87,8 +79,6 @@ updated: 2026-10-16
 > | **历史后果** | 废除课程导致国家共同体认同软化与公共精神空洞化 | 拆解正典消除了殖民特权傲慢，但在废墟上未能确立替代性实质价值 |
 
 ---
-
-## 对科技精英精神气质的深层影响
 
 > [!critique] 断线气球与硅谷技术精英的价值脱嵌
 > 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，日后缔造硅谷并推动个人计算机革命的一代技术精英，恰恰成长于西方文明通识课程全面崩解、国家认同被深刻解构的历史转折期。当大学教育放弃了构筑丰厚国家归属感与公共使命的文明载体后，技术精英迅速退缩为只关注个人消费、市场代码与程序合规的[[Technological Agnosticism|技术不可知论]]者，从而埋下了当代科技力量与国家战略使命严重脱节的深层文化根源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84, 95–96)]]

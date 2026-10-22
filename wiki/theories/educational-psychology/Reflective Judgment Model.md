@@ -51,12 +51,9 @@ created: 2026-08-13
 updated: 2026-10-22
 ---
 
-# Reflective Judgment Model
 （[[Reflexivity|反思性]]判断模型）
 
 ---
-
-## 理论定位
 
 > [!theory-position] 理论概貌
 > - **核心解释对象** 个体面对缺乏唯一确定答案的[[Wicked Problem|劣构问题]]（ill-structured problems）时，如何理解知识的本质、不确定性以及如何为自己的信念进行合理辩护。
@@ -65,8 +62,6 @@ updated: 2026-10-22
 > - **知识脉络定位** 构成了教育心理学中评估个体认知成熟度、批判性论辩水平以及[[Task Structure\|劣构任务]]推理能力的核心理论框架。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 100-101)]]; [[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 309-310)]]
 
 ---
-
-## 发展阶段体系
 
 > [!taxonomy] [[Reflexivity\|反思性]]判断的三个认知发展时期与七个递进阶段
 > King & Kitchener (1994, 2002) 将个体的反思性判断能力划分为三大认知发展时期，细分为七个具有内在逻辑一致性的递进发展阶段（见下表）：
@@ -121,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 课堂教学实验中的操作化量规
-
 > [!ref-table]- 劣构学术任务[[Reflexivity\|反思性]]判断评分细则（基于 King & Kitchener, 1994; [[Argument_Lodewyk_2007_EducPsych\|Lodewyk, 2007, pp. 316–317]]）
 > | RJ 评分（1–5分制） | 对应 RJM 发展阶段 | 阶段认知特征与在癌症经费辩护任务中的具体表现 | 评分标准与指标 |
 > |---|---|---|---|
@@ -133,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论适用边界与批评
-
 > [!theory-boundary] 适用边界与方法论反思
 > - **适用情境** 适合解释青少年到成年期个体在面对伦理争议、公共政策、历史评定及科学争议等复杂[[Wicked Problem|劣构问题]]时的认知成熟度演变。
 > - **常模与发展阶段的分布现实** 大样本实证表明，中学生群体的[[Reflexivity\|反思性]]判断常模均值处于阶段 3.2（King & Kitchener, 1994），普遍处于前反思向准反思的过渡阶段；高阶的反思阶段（阶段 6 与 7）极其罕见，通常仅在接受过系统学术训练的高级研究生或成熟学者群体中稳定出现。
@@ -142,8 +133,6 @@ updated: 2026-10-22
 > - **自然成熟假设与教学可塑性的张力** 传统模型将各阶段假定为长期生活经验自发累积的产物，容易导致教学宿命论；而现代干预[[Meta-analysis\|元分析]]（[[Argument_Cartiff_2021_JEP\|Cartiff et al., 2021]]）证实显性认知干预可在数周内加速阶段递进，表明理论需进一步整合外在[[Scaffolding\|教学支架]]的调节作用。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Reflexivity\|反思性]]判断模型实证研究汇总
 > <span class="theory-empirical-table-marker" aria-hidden="true"></span>

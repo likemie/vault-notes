@@ -89,11 +89,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Isaac Kandel
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍英裔比较教育学家、教育史学家与哲学家，哥伦比亚大学[[Normal School\|师范学院]]（Teachers College, Columbia University）教育学教授（1923–1946），曼彻斯特大学首任美国研究教授，《教育年鉴》（*Educational Yearbook*, 1924–1944）创办主编。
@@ -125,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1920年代至1930年代初 — 历史-[[Philosophical Analysis in Education\|哲学分析]]框架与力量与因素** 回应简单描述学校事实的浅薄倾向，主张唯有深入探究制度背后的无形历史力量才能理解教育。
 >   - **代表著作** *Comparative Education* (1933); *Educational Yearbook* (1924–1944). [[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
@@ -141,9 +135,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 任何国家的教育体系绝非孤立的机械装置，乃是由独特的历史传统、[[National Character\|民族性格]]、政治信仰与社会力量综合塑造的活体。比较教育学的真正目的在于穿透表层办学经验，把握决定教育实践的深层无形力量与哲学前提，借由他者镜鉴深入反思本国教育面临的核心矛盾。面对极权主义将教育沦为政治灌输工具的威胁，比较教育学者必须坚守人文主义底线，捍卫个体自由发展与民主社会的共同基石。
 
 坎德尔将比较教育视为政治学与政治哲学的分支，在学科史上首次将主权国家确立为统领全局的首要情境解释[[Independent Variable|自变量]]，深入阐发了古典政治哲学的政体与教化传统。
@@ -192,9 +184,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **学派[[Paradigm\|范式]]奠基** 开创的[[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]]在半个世纪里主导了西方比较教育学界，深刻塑造了[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）、[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）、[[George Bereday\|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]等数代学者的学术底色。
 > - **极权主义与政治反思** 首次将国家作为核心解释[[Variable\|变量]]，其对法西斯极权教育的跨国揭露成为政治社会学与教育[[Critical Theory\|批判理论]]的经典文献。
 > - **机构档案与史学挖掘** 西班牙学者佩雷拉长期致力于开掘坎德尔散落于大西洋两岸的档案，[[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）借此案例揭示推进高质量学科史研究所面临的巨大现实阻力与制度资助缺失。
@@ -205,8 +195,6 @@ updated: 2026-10-22
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust）等学者将坎德尔论教育折射国家深层政治文化抱负的经典命题，确立为两百年比较教育学术史演进中理解国家教育目的的核心基石。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Bereday论坎德尔的人文泰斗地位
 > 坎德尔是一位真正的人文学者，他既非狭隘的科学家，亦非语义学学究；他坚信直觉，是一位博学的欧洲-美洲文人……坎德尔教授属于那一代大学人文学者，在今天这个更加技术官僚、更加匆忙、更加狭隘专业的时代，他们将难以再现。那一代人如同高耸的灯塔，照亮了由后人汇聚而成的澎湃潮水。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 46)]]；引自 Bereday (1965:249; 1966:147–150)
@@ -239,8 +227,6 @@ updated: 2026-10-22
 > - **机构与组织** 哥伦比亚大学[[Normal School\|师范学院]]国际研究所（核心教授）、《教育年鉴》（创办主编）、[[UNESCO\|联合国教科文组织]]（资深顾问）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

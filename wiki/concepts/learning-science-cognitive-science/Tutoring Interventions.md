@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Tutoring Interventions
-
 > [!metax] [一对一辅导 · One-on-One tutoring](https://www.visiblelearningmetax.com/influences/view/one-on-one_tutoring)
 > 学生学习策略 › 学生导向干预
 >

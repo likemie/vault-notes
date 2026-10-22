@@ -75,11 +75,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Evidence for Education Network
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **教育[[Evidence Network\|证据网络]]（Evidence for Education Network, EEN）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）牵头组建并常态化协调的全球多边跨国教育证据协作网络。该网络在[[BHP Foundation\|必和必拓基金会]]长期资助的“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”项目成果基础上于 2023 年正式升格设立，常设官方门户为 [evidence.education](https://evidence.education)。EEN 汇聚了全球约 20 个国家和地区的权威教育证据中介与评价机构，旨在打破跨国证据孤岛，推动以因果实证为核心的教学决策与实践变革，缩小全球弱势儿童的学业差距。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2014–2017 — 早期国际双边探索期** 英国 [[Education Endowment Foundation\|EEF]] 首批探索向澳大利亚（联合 [[Social Ventures Australia\|SVA]] 孵化 [[Evidence for Learning\|E4L]]）等英语国家输出《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，建立跨国同盟原型。
 > - **2018–2022 — 矿业资本资助与跨国证据生态[[Incubation\|孵化期]]** [[BHP Foundation\|必和必拓基金会]]注资启动“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”五年项目（因疫情延长至 2025 年）。EEF 联合智利 [[SUMMA]]、西班牙“la Caixa”基金会、约旦拉尼娅王后基金会等建立大区级证据中枢，完成工具包跨语种转译初测。
@@ -102,8 +96,6 @@ updated: 2026-10-22
 > - **2026 — 独立终审报告出炉与后资助战略转型** 英国国家社会研究中心（NatCen）于 2026 年 1 月 22 日发布最终独立评估报告，确认了 EEN 在降低证据获取门槛与动员教师循证意识上的全球贡献，网络全面转向应对后慈善资助时代的财政可持续性挑战。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **协调与统筹枢纽（Facilitating Hub）** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）国际战略团队承担网络秘书处职能，负责标准质控、技术文档更新、[[Meta-meta-analysis\|二阶元分析]]数据库协同维护及全球年度峰会召集。
@@ -116,8 +108,6 @@ updated: 2026-10-22
 > 3. **本土证据生成与孵化（Evidence Generation）** 面对发展中国家高水平干预稀缺的挑战，资助与指导本土研究团队开展严谨的前置试点（Pilot Studies）与因果实验，填补全球南方因果实证空白。
 
 ---
-
-## 核心业务与全球矩阵
 
 > [!row-contrast] 全球跨国中介网络覆盖矩阵
 >
@@ -148,8 +138,6 @@ updated: 2026-10-22
 > - **1** 个面向全球免费开放的统一证据中介门户
 
 ---
-
-## 争议、反思与未来挑战
 
 > [!debates] 核心学术反思
 >

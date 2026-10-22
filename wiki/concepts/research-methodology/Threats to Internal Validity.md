@@ -49,11 +49,8 @@ status: draft
 created: 2026-06-23
 updated: 2026-10-16
 ---
-# Threats to Internal Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Internal Validity\|内部效度]]威胁（Threats to internal validity）指在研究过程中可能混淆自[[Variable\|变量]]与[[Dependent Variable\|因变量]]之间真实关系、使研究者无法确定观测到的效应究竟是来自研究处理还是来自其他混淆因素的系统性偏差来源。[[Internal Validity\|内部效度]]寻求证明一项研究的解释实际上能为数据所支撑（p.164），而内部效度威胁正是那些**削弱这一证明力的因素**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 164–168)]]
@@ -132,8 +129,6 @@ Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建�
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 164–166)]]
 
-### 随机化实验中的额外威胁
-
 > [!factors] [[Randomised Controlled Trials\|RCT]] 中的额外偏差来源（Torgerson & Torgerson, 2003b）
 > - **随机化的实践局限** 并非所有混淆[[Variable\|变量]]都能在随机化过程中得到适当控制——随机化在理论上完美，但在实践中受限于[[Sample Size Determination\|样本量]]和实施质量（Hammersley, 2008, p. 4; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 332]]）。
 > - **小样本的偶然失衡** 小样本中偶然因素可能导致严重失衡——例如 40 名学生中有 4 名阅读障碍者，全部四人随机落入同一组的概率不可忽略。可通过**最小化（minimisation）** 策略应对（Torgerson & Torgerson, 2003b, p. 40）。
@@ -166,8 +161,6 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 167–168)]]
 
 ---
-
-## 两种范式处理威胁的不同逻辑（Quantitative vs Qualitative）
 
 > [!contrast-table] 量化与[[Qualitative Research\|质性研究]]处理[[Internal Validity\|内部效度]]威胁的不同逻辑
 > | 维度 | [[Quantitative Research\|量化研究]] | 质性研究 |

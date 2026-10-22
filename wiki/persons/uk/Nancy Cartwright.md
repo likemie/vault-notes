@@ -71,11 +71,7 @@ created: "2026-05-01"
 updated: 2026-10-22
 ---
 
-# Nancy Cartwright
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Nancy Cartwright，科学哲学家、英国国家学术院院士（FBA）、欧洲[[Chinese Academy of Sciences|科学院]]院士，杜伦大学（Durham University）哲学系荣休教授、加州大学圣迭戈分校（UC San Diego）特聘教授。她是人文参与科学与社会研究中心（CHESS）的核心领袖。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2010 — *The limitations of [[Randomised Controlled Trials\|randomized controlled trials]] in predicting effectiveness*** 揭示 [[Randomised Controlled Trials\|RCT]] 证据外推的三阶段跃迁困境（it-works-somewhere $\to$ capacity claims $\to$ it-will-work-for-us），阐明未明机制下的外推盲目性。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 10)]]
 > - **2012 — *[[Evidence-Based Policy-Making|Evidence-Based Policy]]: A Practical Guide to Doing It Better*（与 Jeremy Hardie 合著）** 系统建构证据知情政策的实用操作框架，提出支持因素饼图（Support Factor Cakes）与因果作用通路。
@@ -107,9 +101,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Randomised Controlled Trials\|随机对照试验]]（RCT）的阳性结论仅证明干预措施在特定历史样本与特定协同因素支撑下“在某处有效”（It works somewhere），绝不等于它具有普适有效性或“在我们这里也能起效”（It will work here）。证据无法自动旅行（Evidence doesn't travel automatically）；从一项研究推论至本土课堂，必须透彻解构干预措施起效所必需的“行动理论”（Theories of Action）与本土“支持性协同因素”（Support Factors），将机械的“剪贴移植”转化为批判性的“情境[[Recontextualization\|再脉络化]]”。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 10–11)]]; [[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 123)]]
 
 > [!citation-card] 论 RCT 外推的根本[[Epistemology\|认识论]]局限
@@ -124,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **哲学与[[Epistemology\|认识论]]路径** 摧毁了将统计相关性等同于普遍规律的[[Technical Rationality\|技术理性]]神话，将实在论因果机制与[[Aristotle\|亚里士多德]]式的[[Phronesis\|实践智慧]]（Phronesis）重新引入循证研究核心。
 > - **方法学路径** 提出三阶段外推分析模型，促使临床医学与教育评估界反思纯 [[Randomised Controlled Trials\|RCT]] 的局限，催生了聚焦“机制与情境”的现实主义评价（[[Realist Evaluation]]）。
 > - **教育政策与实践路径** 深刻影响英国教育循证学术共同体（如 Brown & Greany, 2018；Cowen et al., 2015）；其理论直接被运用于设计[[School Enquiry Cycle\|学校探究循环]]（[[School Enquiry Cycle]]）中的证据转译协议，促使一线学校坚决摒弃照搬外部处方的盲目尝试，将[[Research Utilization\|证据使用]]建构为深度的“因果行动理论调试”。
@@ -146,8 +136,6 @@ updated: 2026-10-22
 > - **政策批判对象** 英国 [[What Works Network]] 早期的机械证据主义模型。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

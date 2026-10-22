@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-20
 ---
 
-# Huntington-Wallace Line
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > **[[Samuel P. Huntington|亨廷顿]]-华莱士线（Huntington-Wallace Line）** 指牛津大学学者威廉·华莱士（William Wallace）考证划定、并在塞缪尔·P·亨廷顿（Samuel P. Huntington）1993年名篇《文明的冲突？》中被作为核心图示引用的欧洲历史文化分界线。该线标示了截至公元1500年西方基督教（罗马天主教与新教）向东扩展的最远历史疆界，将欧洲清晰划分为西方基督教文明区与东正教及伊斯兰文明区。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
@@ -54,8 +50,6 @@ updated: 2026-10-20
 
 ---
 
-## 文明地图与学术争议
-
 > [!example] 图7-1：[[Samuel P. Huntington|亨廷顿]]-华莱士线（公元1500年西方基督教文明边界）
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_7-1_The_Huntington_Wallace_Line.jpg)
 
@@ -65,8 +59,6 @@ updated: 2026-10-20
 > - **1990年代末至今 — 学界批判与规范性讨论挤压** 主流人文社科学界普遍批判其还原主义地理[[Determinism|决定论]]倾向；然而卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，学界的这种全盘排斥也导致了关于文化在国际关系、经济发展与国家防卫中规范性作用的严肃讨论被长久禁锢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 ---
-
-## 历史意义与当代反思
 
 > [!critique] 地缘断层线对现代认同的启示
 > [[Samuel P. Huntington|亨廷顿]]-华莱士线的深层价值在于促使人们直面文化、宗教传统与制度演进之间的长期历史黏性。尽管任何静态的地理划线都存在简化事实的危险，但无视文明制度传统的差异同样会导致国际战略研判与国家认同构建的严重失焦。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]

@@ -64,11 +64,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# Rationalism in International Relations
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 理性主义（Rationalism，亦称格劳秀斯传统 Grotian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的建制与合作维度。它承认[[Geopolitics|地缘政治]]的无政府状态，本能地主张通过多边主义、法律与契约可以予以有效缓和。它将国际社会视为一个“真实的、但存在制度缺陷的社会”（a true society, but institutionally deficient），其运作依赖于国家间的交往规则与制度性合作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 关键理论构件对照表
 > | 维度 | Rationalism (理性主义) | [[Realism in International Relations\|Realism (现实主义)]] | [[Revolutionism\|Revolutionism (革命主义)]] |
 > |------|----------------------|--------------------------------|------------------------|
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **和平政治与[[International Mind\|国际心智]]培育（Peace Politics & International Understanding）** 比较教育被构想为消解民族利己主义、消除历史教科书偏见、促进跨国合作与培育“国际心智”的和平工具，其早期实证表现为国际联盟智力合作组织（IIIC）的工作。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 423–424]])
 > - **[[Governing at a Distance\|远处治理]]与中立数据技术（Benchmarking & Governing at a Distance）** 在冷战后将比较教育塑造为一种“治理模式”。多边组织（如 [[OECD]]）借助大数据、评估框架与基准测试（benchmarking），在“科学客观性”的外衣下行使远处规训，推动各国教育系统向效率指标渐进趋同。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 > - **多元[[Policy Mobility\|政策流动]]的网格化分析（[[Network Governance]] & [[Relational Space]]）** 突破单一国家的物理边界，使用[[Actor-Network Theory\|行动者网络理论]]（ANT），透视[[Policy Entrepreneur\|政策企业家]]、NGO、跨国企业与主权国家在“政策景观”（policyscapes）和“流动[[Discourse|话语]]”中的多维共谋与标准化对齐。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
@@ -138,16 +130,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 发展脉络
 > - **1920s–1940s — 国联智力合作与教科书改革** IIIC 开启跨国教科书修编，旨在破除极端国家性格，培育具有合作精神的“[[International Mind|国际心智]]”。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 423–424]])
 > - **1950s–1970s — [[UNESCO]] 科学人道主义与 [[Comparative Education Society in Europe|CESE]] 成立** 随着 Lauwerys et al. 的推动，理性主义以国际大学建制和欧洲学术交换为载体，在冷战对峙缝隙中搭建制度化合作桥梁。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 424]])
 > - **2000s 至今 — 新自由主义软治理与数据流变** [[PISA]] 基准测试全面崛起，比较教育演变为“[[Governing at a Distance|远处治理]]模式”；[[Actor-Network Theory|ANT]] 理论被引入解析[[Policy Entrepreneur|政策企业家]]与 [[Travelling Policy|travelling policies]] 的网格化交互。(引自 [[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

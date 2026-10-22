@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Educational Technology Across Learner Groups
-
 > [!metax] [小组学习技术 · Technology in small groups](https://www.visiblelearningmetax.com/influences/view/technology_in_small_groups)
 > 技术、学校与校外策略 › 特殊群体信息技术
 >

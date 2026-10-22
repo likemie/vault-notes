@@ -118,11 +118,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Higher-Order Thinking Skills
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 高阶思维技能（Higher-Order Thinking Skills, HOTS）是指超越简单的信息再认、事实机械回忆与固定程序算法套用的复杂心智加工运作系统。它具有非算法性（non-algorithmic）、高心智投入、多元路径与高度自我调节等特征，在面对充满不确定性与劣构的问题情境时能够形成[[Creativity\|创造性]]解决方案或作出审慎的价值与逻辑判断；在理论脉络上深植于[[Bloom's Taxonomy\|布鲁姆教育目标分类学]]（Bloom's Taxonomy）的高阶认知层级（分析、评价与创造），并在当代教育实证研究中具体[[Operationalization\|操作化]]为[[Critical Thinking\|批判性思维]]、[[Computational Thinking\|计算思维]]、[[Problem Solving\|复杂问题解决]]、[[Metacognition\|元认知]]反思与团队协作等核心能力。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–4)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1365–1366)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1–3)]]
@@ -149,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 高阶思维（HOTS）与低阶思维（LOTS）及常规智力测验对比
 > | 比较维度 | 高阶思维技能（HOTS） | 低阶思维技能（LOTS） | 常规智商测验（IQ） |
 > |---|---|---|---|
@@ -161,8 +155,6 @@ updated: 2026-10-22
 > | **教学与评价载体** | 开放探究、辩论协商、真实项目与论文设计 | 单项选择、填空默写与常规标准化闭卷测验 | 标准化智力量表（如韦氏量表） |
 
 ---
-
-## 核心要素
 
 > [!feature] 高阶思维技能五维核心分类框架（Resnick, 1987; McLoughlin & Mynard, 2009; Liu et al., 2024）
 > - **[[Problem Solving\|问题解决]]（Problem Solving）** 在目标模糊、信息不完备且路径非唯一的劣构情境中，自主规划、假设检验、动态监控与迭代推进解决路径的实践认知能力。
@@ -288,8 +280,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -304,8 +294,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 高阶思维技能的理论与实证演进
 > - **1956 年 认知目标分类学奠基** Bloom et al. 提出认知领域教育目标分类学，确立从知识、领会、运用到分析、综合、评价的六级阶梯，奠定高阶思维的经典层级框架。
 > - **1980 年代 认知科学转向与思维教学运动** Resnick（1987）系统阐述“教育与学习思考”，明确高阶思维的非算法性、复杂性与自我调节属性，推动思维技能显性教学与[[Metacognition\|元认知]]研究兴起。
@@ -319,8 +307,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 智能技术与高阶思维发展的核心张力
 > - **认知释放与思维深化（赋能方）** 智能工具自动处理繁复语法纠错与常规信息检索，将学习者从机械重复中解放，促进高阶[[Computational Thinking\|计算思维]]、逻辑验证与[[Creativity\|创造性]]综合（Yilmaz & Karaoglan Yilmaz, 2023; Ünal et al., 2026）。
 > - **[[Cognitive Offloading\|认知卸载]]与浅层依赖（警示方）** 缺乏教学法约束时，学生易将思考过程完全外包给 AI，导致认知卸载（Cognitive Offloading），干预带来的增益多停留于布鲁姆低阶识记层级，削弱了深度批判性反思与自主探究能力（Essien et al., 2024; Chen et al., 2020; [[Argument_Li_2026_CEAI\|Li et al., 2026, p. 10]]）。
@@ -333,8 +319,6 @@ updated: 2026-10-22
 > - **技术工具必须与教学法精准对齐** 若仅将 AI 工具作为电子黑板或直接答案生成器使用，无法自发催生高阶思维；必须通过设计冲突问题、[[Socrates\|苏格拉底]]追问及强制性同伴答辩等教学法干预引导反思（Ünal et al., 2026; [[Argument_Li_2026_CEAI\|Li et al., 2026, p. 11]]）。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

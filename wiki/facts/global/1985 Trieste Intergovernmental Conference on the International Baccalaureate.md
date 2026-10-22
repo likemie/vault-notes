@@ -36,11 +36,8 @@ status: draft
 created: 2026-09-29
 updated: 2026-10-22
 ---
-# 1985 Trieste Intergovernmental Conference on the International Baccalaureate
 
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 1985 年的里雅斯特[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）政府间会议是国际文凭进入第二个十年后的阶段性治理会议。它把组织增长造成的政府出资份额下降、未来五年课程合作和欧洲资格承认重新交由成员政府协商。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 189–191)]]
@@ -82,8 +79,6 @@ updated: 2026-10-22
 > - **积极规划立场** 反对从数量直接推断治理或评分支配，同时反对完全依赖需求自然增长，主张主动支持其他地区。会议确认的平衡方向与这一立场相符。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 207–209)]]
 
 ---
-
-## 历史后果与深远影响
 
 > [!policy-design] 平衡扩展的对象、手段与教育理由
 > - **服务对象** 优先满足流动国际社群的教育需要，同时维持整个组织的文化与地域多样性。

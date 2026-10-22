@@ -62,11 +62,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Thinking, Doing, Talking Science
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **“思考、动手、对话科学”（Thinking, Doing, Talking Science，简称 TDTS）** 是由英国牛津科学机构（Science Oxford）与牛津布鲁克斯大学（Oxford Brookes University）联合研发、由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）重点资助的小学科学教师专业发展与课堂教学干预项目。该项目旨在通过系统培训小学教师，将[[Higher-Order Thinking Skills\|高阶思维]]、动手探究与对话式课堂研讨深度融入科学课程，破解英国小学科学教学中重事实死记、轻思维探究的痼疾。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > - **核心问题导向** 英国基础教育长期偏重小学语文与数学，科学学科面临课时被挤占、教师学科教学知识薄弱、探究活动沦为盲目动手而缺乏思维挑战等系统性质量危机。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > TDTS 假定：小学科学教学必须超越“单纯动手做实验”的表层活动，通过系统训练教师在课堂中提出引发认知冲突的高阶问题（Thinking）、设计目标聚焦且具挑战性的动手操作（Doing），以及组织基于证据的同伴对话与论证（Talking），从而深层激发学童对科学原理的本质理解与探究兴趣。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
@@ -100,16 +94,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2013–2015 — 开发者主导的[[Efficacy Trial\|效力试验]]期（Efficacy Trial）** 由约克大学与杜伦大学作为独立评估方，对牛津郡及周边 42 所小学（Year 5，1,240 名学生）实施整群 [[Randomised Controlled Trials\|RCT]]。课程原创研发者直接对教师进行 5 天面授培训。评估显示干预组科学成绩取得显著进步（$ES = +0.22$，相当于额外多学 3 个月），弱势群体更达 $+8$ 个月进步，成为当年 [[Education Endowment Foundation\|EEF]] 的明星示范项目（Hanley et al., 2015）。
 > - **2016–2018 — 跨区域规模化[[Effectiveness Trial\|实效试验]]期（Effectiveness Trial）** 为检验方案在全英大范围复制的可行性，美国研究学会（[[AIR Model of Epistemic Cognition\|AIR]]）与纳特森社会研究中心（NatCen）受托开展跨地区实效试验，覆盖英格兰 205 所学校、逾 8,000 名学生。由于规模庞大，项目由研发者亲自授课转为“培训培训者”（Train-the-Trainer）级联模式（Kitmitto et al., 2018）。
 > - **2018–至今 — 评估反思与证据库沉淀** 终期独立评估报告正式发布，实效试验显示干预[[Effect Size\|效应量]]净值为零（$ES = 0.00$）。该结果在国际[[Evidence-Based Education\|循证教育]]界引发震动，成为剖析教育干预“效力到实效电压降（Voltage Drop）”与[[Business as Usual\|常态教学]]（BAU）动态演进的经典范例。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **资助与监督方** 英国[[Education Endowment Foundation\|EEF]] 负责项目整体资金支持、设立研究设计标准并指派独立评估机构。
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > - **保真度与依从性监控** [[Implementation and Process Evaluation\|过程评估]]团队通过培训出勤日志、教师访谈与课堂录像抽检，系统追踪教学策略落实的深度与频次。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **学业产出指标** 独立于学校的[[Blinding\|盲法]][[Pre-test and Post-test\|后测]]，采用标准化小学五年级科学认知测验量表；
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **205** 实效试验覆盖的小学数量（所），五年级学童 $N > 8,000$ 名，核心效应量 $d = 0.00$（FSM 学生 $d = -0.01$），挂锁安全评级 4 把锁。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

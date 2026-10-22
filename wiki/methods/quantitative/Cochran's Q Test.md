@@ -44,11 +44,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Cochran's Q Test
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > Cochran's Q 检验（Cochran's Q Test，亦称 Q 统计量检验）是由 William G. Cochran (1954) 提出并在[[Meta-analysis\|元分析]]中被作为标准检验手段的经典统计假设检验方法。它通过计算各项初级研究[[Effect Size\|效应量]]与其[[Fixed-Effect Model|固定效应]]加权均值之间的**加权离差平方和**，检验“所有研究估计同一真实效应量”（原假设 $H_0: \theta_1 = \dots = \theta_k = \theta$，即 $\tau^2 = 0$）的同质性假设，判定观察到的研究间差异是纯属[[Sampling Error\|抽样误差]]随机波动，还是存在实质性[[Heterogeneity\|异质性]]。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 38–39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **输出指标** $Q$ 统计量观测值、自由度 $df = k - 1$ 及渐近 $p$ 值。
 
 ---
-
-## 数学原理与公式推导
 
 > [!formula-step] Q 统计量计算公式
 > $$Q = \sum_{i=1}^k w_i (y_i - \hat{\theta}_{\text{FE}})^2 = \sum_{i=1}^k \frac{(y_i - \hat{\theta}_{\text{FE}})^2}{v_i}$$
@@ -84,16 +78,12 @@ updated: 2026-10-22
 
 ---
 
-## 局限性与方法学困境
-
 > [!method-limits] Cochran's Q 检验的双重功效困境
 > - **小样本检验功效不足（Low Statistical Power when $k$ is small）** 当纳入研究数量较少（如 $k < 15$）或初级研究样本量较小时，即使客观存在实质性异质性，Q 检验也极易得出 $p > .05$ 的不显著结论，造成高假阴性率（Type II 错误）。
 > - **大样本假阳性过度敏感（Excessive Sensitivity when $k$ or $N$ is large）** 当纳入研究数量极多或[[Sample Size Determination\|样本量]]极庞大时，极其微小的临床/教育无关轻微波动也会触发 $p < .001$ 极度显著，无法反映异质性的实际严重程度。
 > - **无法度量[[Heterogeneity\|异质性]]幅度** Q 检验仅能给出“异质性是否存在”（Yes/No）的二[[Metainferences\|元推断]]，无法回答“异质性有多大”这一核心量化问题。
 
 ---
-
-## 进阶承接：$\tau^2$ 与 $I^2$ 的衍生基石
 
 > [!logic-map]- [[Heterogeneity|异质性]]检验与方差分解逻辑
 > ```mermaid

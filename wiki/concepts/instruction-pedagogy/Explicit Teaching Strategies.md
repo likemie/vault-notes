@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Explicit Teaching Strategies
-
 > [!metax] [显性教学策略 · Explicit teaching strategies](https://www.visiblelearningmetax.com/influences/view/explicit_teaching_strategies)
 > 教学策略 › 教学方法
 >

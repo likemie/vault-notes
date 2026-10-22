@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-15
 ---
 
-# Federal Acquisition Streamlining Act of 1994
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1994 年 10 月由美国第 103 届国会通过，总统比尔·克林顿（Bill Clinton）签署生效。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–152)]]
@@ -59,8 +55,6 @@ updated: 2026-10-15
 > - **直接立法导火索** 1990 年代初海湾战争期间，美国空军因严苛特殊的成本会计审计规定，无法合法采购市场上单价不足 20 美元的摩托罗拉成熟商用对讲机，最终被迫借道日本政府出资代购 6000 台设备转交美军；参议员威廉·罗斯（William Roth）批评政府连在沃尔玛与凯马特（Kmart）随时可买到的商品都无法正常采购，推动克林顿政府将采购精简列入国家绩效评估（National Performance Review, NPR）核心议程。
 
 ---
-
-## 政策文本摘要与制度设计
 
 > [!claim] 政策核心
 > 《1994年联邦采购精简法》（Federal Acquisition Streamlining Act of 1994, FASA）确立了政府采购中的商用优先法定义务，强制要求联邦政府各机构在启动任何定制研发前，必须在最大可行范围内优先采购市场上已有的成熟[[Commercial Off-The-Shelf|商用现货]]（COTS）；同时将采办导向从单一的最低价机械合规转向以实际性能和战备实效为核心的综合价值导向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–152)]]
@@ -81,8 +75,6 @@ updated: 2026-10-15
 
 ---
 
-## 关键引用
-
 > [!citation-card] 优先采购[[Commercial Off-The-Shelf|商用现货]]的法定条款（10 U.S.C. § 2377）
 > 联邦法规强制规定，美国政府各机构在采购过程中必须在最大可行范围内采购市场上现成的商用物品，而非试图从零制造或定制开发新产品。（p. 152）
 >
@@ -94,8 +86,6 @@ updated: 2026-10-15
 > *As Glenn pointed out, "We have wrestled year-in and year-out with these same issues, and still have failed to enact any meaningful reform. The strategy of public servants," he added, "was often 'to just not make waves, to not disturb their careers, to not do anything unusual that might get them in trouble.'"*
 
 ---
-
-## 时间线
 
 > [!timeline] 政策发展与司法激活时间线
 > - **1905 年** [[Franklin D. Roosevelt|罗斯福总统]]设立基普委员会，首次系统揭露联邦政府采购[[Red Tape|繁文缛节]]与物资规格冗余（278 种笔、28 种墨水）。
@@ -109,8 +99,6 @@ updated: 2026-10-15
 
 ---
 
-## 实施主体与实施机制
-
 > [!actor-grid] 实施主体与角色分工
 > - **立法领导与行政推动** 参议员[[John Glenn|约翰·格伦]]（John Glenn）牵头起草推进；总统克林顿与副总统戈尔提供行政领导。
 > - **主要执行机构** 美国国防部及联邦各部委采购办公室（管理着 20 多万采办人员的庞大体制）。
@@ -122,8 +110,6 @@ updated: 2026-10-15
 > - **诉讼突破与制度刚性确立** 2016 年帕兰提尔依据 FASA 提起诉讼并获得司法胜诉，打破了军工采办的封闭潜规则，强制确立了公共部门必须优先审查市场成熟商业技术方案的法律底线。
 
 ---
-
-## 影响与评估
 
 > [!claim] 历史影响与制度意义
 > 《1994年联邦采购精简法》不仅是美国政府采购历史上终结天价普通配件丑闻的重要里程碑，更在三十年后成为重塑防务科技生态的制度催化剂：**它赋予了民用高科技创新力量合法打破传统军工复合体垄断的权利**，确立了以实战价值为导向的采购逻辑，奠定了商业软件与人工智能算法快速融入国家[[Hard Power|硬实力]]与[[Technological Republic|技术共和国]]建设的法律基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 152–154)]]

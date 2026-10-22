@@ -22,11 +22,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 简介
 
 > [!person-profile] 学派档案
 > - **学术重镇与发源** 发源机构、发轫年代、学术地理与依托学科。
@@ -41,8 +37,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 形成渊源与演进历程
-
 > [!timeline] 学派演进里程碑
 > - **YYYY** 奠基时刻：针对特定理论危机的开创性突破与奠基文本。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **YYYY–YYYY** 体系成型与扩张：概念框架系统化、大样本跨国实证积累与第二代学术骨干崛起。
@@ -51,10 +45,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 信息量充足且阶段转向清晰时，可升级使用 [!thought-timeline] 或 [!dev-timeline]。 %%
 
 ---
-
-## 核心学术纲领与主要著作
-
-### 理论基石与解释逻辑
 
 > [!ref-table] <学派名称>核心理论基石与解释逻辑
 > | 理论基石 | 核心论断与假设 | 解释机制与运作逻辑 | 经验表征与现实映射 |
@@ -68,8 +58,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 学派网络与师承谱系
-
 > [!person-network] 学术网络与师承
 > - **开创者／核心领袖** [[Person]] — 学派旗手与理论奠基人。
 > - **核心骨干／第二代学者** [[Person]] — 扩展实证版图与深化概念的关键学者。
@@ -80,8 +68,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 只写具有实质性思想联系、师承脉络或重大争论的节点。 %%
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

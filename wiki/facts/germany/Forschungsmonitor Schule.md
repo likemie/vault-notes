@@ -52,11 +52,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Forschungsmonitor Schule
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 德国学校研究监测平台（Forschungsmonitor Schule, FMS）是由德国各联邦州教师研训州立研究所（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）与州立教育质量保障机构联合创设的跨区域教育实证研究中介与清算平台（Manitius & Rosendahl, 2018; Bieber et al., 2018）。其核心使命是面向一线中小学教师、师范生、大学与进修机构教师教育者（Lehrkräftebildner*innen）以及各级教育行政管理人员，提供跨学科、实践导向的当代教育实证研究书评与简要述评。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心宗旨与服务对象** 宗旨在于促进科研成果转化为专业行动，服务对象全面覆盖职前师范生、在岗中小学教师、高校与进修机构教师教育者以及各级[[School Inspection\|教育督导]]与行政管理人员。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **跨州联合指导委员会** 由各联邦州教育质量研究所、州立师训学院（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）与科研机构专家代表共同组成，统筹评介选题与审稿标准。
@@ -97,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与中介模式
-
 > [!contrast-table] 德国主要教育证据中介平台模式对比
 > | 比较维度 | 学校研究监测平台（Forschungsmonitor Schule） | [[Clearing House Unterricht\|德国教学研究清算中心]]（Clearing House Unterricht, CHU） |
 > |---|---|---|
@@ -110,16 +102,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > 1. **拓展德语区循证中介的议题边界** 突破了传统清算中心单一聚焦数理学科微观教学干预的局限，成功将教育数字化转型、学校治理等宏观与中观议题纳入实证转化视野。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]
 > 2. **搭建跨州研训与行政中介桥梁** 将实证研究述评常态化嵌入各联邦州在岗进修网络，增强了教师教育与教育行政的[[Evidence-Informed Decision-Making\|证据知情决策]]能力。
 > 3. **兼顾单篇前沿与系统综合的互补生态** 与聚焦[[Meta-analysis\|元分析]]的 [[Clearing House Unterricht\|CHU]] 形成有效功能互补，为德语区教育界提供了既能紧跟单篇最新实验突破、又能把握宏观综合共识的多层次证据服务网络。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心制度反思与成效争议
 >

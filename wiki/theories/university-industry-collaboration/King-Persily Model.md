@@ -35,8 +35,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# King-Persily Model
-
 > [!tip] 核心主张
 > King-Persily 模型（King & Persily, 2019）提出了一种解决大学与产业在数据治理和专有信息问题上矛盾的合作框架。其核心思路是：引入一个独立的第三方委员会，将研究者与产业数据、政策和专有信息之间的完全接触解耦（decouple），从而使研究者可以在不掌握产业专有数据的前提下完成独立学术研究([[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones, 2025, p.188]])。
 

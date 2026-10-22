@@ -96,7 +96,6 @@ argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Educational Philosophy and Theory
 ---
-# Argument_Rømer_2018_EPT
 
 ---
 
@@ -113,8 +112,6 @@ journal: Educational Philosophy and Theory
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -127,8 +124,6 @@ journal: Educational Philosophy and Theory
 > 罗默以分析哲学与欧陆教育哲学为桥梁，将可见学习置于[[Epistemology|认识论]]与概念演变的广阔脉络中。通过区分评价逻辑与教育逻辑，揭示可见学习如何将后者的价值维度化约为前者的效率指标；通过激进[[Constructivist Paradigm|建构主义]]与波普尔实在论的对质，指认可见学习在认识论上陷入主观自足的唯我论，进而推导出其所谓的教师中心模式必然退化为内部认知监控，最终为教育政策层面的集权化数据治理提供了理论注脚。（pp. 2–11）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -146,8 +141,6 @@ journal: Educational Philosophy and Theory
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -161,9 +154,7 @@ journal: Educational Philosophy and Theory
 
 ---
 
-### 论证步骤一　评价逻辑消解教育传统与学科内容
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　评价逻辑消解教育传统与学科内容
 > 可见学习根本上是一套简化版评价理论对教育概念的殖民与吞噬；它将教育活动化约为可测量的干预与效果，导致传承两百年的欧陆教化概念与规范性教育学整体退场。（pp. 2–5）
 
 #### 1. 评价范式将教育简化为干预目标审查
@@ -212,9 +203,7 @@ journal: Educational Philosophy and Theory
 
 ---
 
-### 论证步骤二　因变量操作化脱节构建封闭自循环体系
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　因变量操作化脱节构建封闭自循环体系
 > 哈蒂作为[[Meta-analysis|元分析]]核心[[Dependent Variable|因变量]]的学业成就缺乏概念清晰度，其在不同层级学习定义与六万项经验研究的多元测量之间存在无法弥合的[[Operationalization|操作化]]断裂，最终通过自变量与因变量的循环互证构筑起与真实世界脱节的[[Research Cage|研究牢笼]]（research cage）。（pp. 5–6）
 
 #### 1. 学习层级划分脱离经验测量
@@ -261,9 +250,7 @@ journal: Educational Philosophy and Theory
 
 ---
 
-### 论证步骤三　激进建构主义诱发教学双重瓦解
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　激进建构主义诱发教学双重瓦解
 > 哈蒂在底层全面接纳了[[Radical Constructivism|激进建构主义]]的唯我论学习观，并在取消教师文化权威的废墟上强行嫁接教师中心，制造出教师钻入学生心智内部调控参数的双重无教师结构，在根本上背离了西方教育思想传统。（pp. 6–9）
 
 #### 1. 虚假教师中心演变为内部认知监控
@@ -301,9 +288,7 @@ journal: Educational Philosophy and Theory
 
 ---
 
-### 论证步骤四　逆向反馈催生自下而上的数据集权网络
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　逆向反馈催生自下而上的数据集权网络
 > 哈蒂将反馈概念抽空为不具哲学反思性的技术工具，并通过强调从学生流向教师的归纳反馈，将教师异化为自身教学效果的学徒，进而构筑起由下至上收集数据、自上而下实施集权问责的全国性监控有机体。（pp. 9–10）
 
 #### 1. 归纳反馈将教师异化为教学效果的学徒
@@ -338,9 +323,7 @@ journal: Educational Philosophy and Theory
 
 ---
 
-### 论证步骤五　误读波普尔导致客观思想世界向主观认知塌缩
-
-> [!claim|lead] 步骤五核心主张
+> [!claim] 论证步骤五　误读波普尔导致客观思想世界向主观认知塌缩
 > 哈蒂借用[[Karl Popper|卡尔·波普尔]]的[[Popper's Three Worlds Theory|三世界理论]]构建其学习分层，不仅继承了贝雷特对文化世界的化简，更进一步抹杀了客观知识世界（世界三）的独立本体地位，将其完全塌缩为主观心理（世界二）与脑神经生理（世界一），走向了科学实在论的精准反面。（pp. 10–12）
 
 #### 1. 经由贝雷特中介将文化客体化简为科学真假命题
@@ -375,8 +358,6 @@ journal: Educational Philosophy and Theory
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Category Mistake|范畴错误]]而非统计偏差** 可见学习的深层缺陷是根本性的概念范畴错误；评价理论殖民教育实践，迫使所有教学关系从属于目标回溯性审查，抹杀了具有两百年历史的教化与教学论传统。（pp. 2–5）
 > 2. **[[Dependent Variable|因变量]]断裂与封闭[[Research Cage|研究牢笼]]** [[Academic Achievement|学业成就]]因[[Variable|变量]]在概念层级与实证测量间缺乏[[Operationalization|操作化]]连结，评价性学习概念循环界定了教学[[Independent Variable|自变量]]，构建出具有高[[Reliability|信度]]但脱离外部客观现实的[[Research Cage|研究牢笼]]。（pp. 5–6）
@@ -384,8 +365,6 @@ journal: Educational Philosophy and Theory
 > 4. **反馈倒置推动集权监控与[[Epistemology|认识论]]倒置** 反馈被改造为自下而上的数据上收网络，构筑起贯穿课堂至[[EU|欧盟]]的集权化治理网络；同时对波普尔理论的化简导致客观文化世界三彻底塌缩为主观世界二，使实在论彻底走向了唯我论。（pp. 9–12）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 评价理论对教育概念的吞噬
 > 《[[Visible Learning|可见的学习]]》本身并不构成独立的学习理论，实质上更谈不上[[Didaktik|教学理论]]。所谓可见的学习，乃是教育与教学屈从于简陋评价理论的产物。诚然，[[John Hattie|哈蒂]]的学说亦涉及测量与[[Behaviorism|行为主义]]，但核心症结在于：该体系强求将所有的数字、数据与测度，一概置于狭隘的评价图式中加以诠释。（p. 2）

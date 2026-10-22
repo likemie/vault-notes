@@ -54,11 +54,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Multi-Project Wafer
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 多项目晶圆（Multi-Project Wafer, MPW，行业俗称“拼圆”）是指将多个不同设计团队或研发项目的集成电路掩模版图，合并拼版在同一组光刻掩模版（Mask Set）与物理晶圆表面，由晶圆代工厂进行统一批次流片加工的共享制造机制。在流片完成后，晶圆按照不同区域划片切割并分发给各个客户，从而使各参与方能够按芯片面积比例共同分摊昂贵的光刻掩模与产线开机固定成本。这一机制大幅降低了大学高校、科研机构与小微初创企业的样片制造门槛，构成了微电子领域跨越从实验室原理验证到产业化先导中试（[[Translational Research|lab-to-fab]]）断层的核心制度工具。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24, 27–28)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > | **主要应用场景** | 大学教学科研、算法可行性验证、初创公司工程样片 | 商业化芯片规模化量产与大宗供货 | 架构空间探索、功能前仿与系统级时序验证 |
 
 ---
-
-## 核心要素
 
 > [!feature] 多项目晶圆服务的四大核心运作支柱
 > - **光罩拼版规划与物理切分（Reticle Floorplanning & Dicing Boundaries）** 代理机构或晶圆厂在掩模曝光视场（Reticle [[Champ|field]]）内为不同客户划分标准化网格，预留统一划片槽与工艺控制监测（PCM）测试图形。
@@ -150,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
@@ -169,8 +161,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 班车排期滞后与知识产权混拼隔离风险 vs 自建试验线高昂沉没成本
@@ -180,8 +170,6 @@ updated: 2026-10-22
 > > - **商业拼圆聚合主张（[[Argument_NSTC_2024_MicroelectronicsResearch|NSTC, 2024]]）** 指出自建一条先进 300 毫米晶圆先导试验线需投入数十亿美元的设备采购与超净间运维成本，绝大多数大学无力承受；通过国家平台聚合商业 MPW 产能，是维持技术与工业界前沿严格同步的最高性价比路径。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–27)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 多项目晶圆平台成本分摊与服务覆盖实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

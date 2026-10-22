@@ -58,11 +58,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Façade of Rationality
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Façade of Rationality|理性表象]]（Façade of Rationality）** 是指在面临多重解释冲突、公众价值争议以及因果链条不可检验的公共政策生态中，量化数据与指标体系为决策行动所构筑的具备科学客观性、计算精确性与跨情境普适性的外观形态。该[[Construct\|构念]]揭示了量化指标在现代治理中并非单纯的技术测量工具，而是一种政治合法化装置，它通过遮蔽政策选择背后的意识形态偏向与价值权衡，使充满主观裁量的决策过程呈现为基于客观证据的理性产物。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
@@ -97,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **决策生态的三重约束** 教育领域具有不可化约的[[Policy Ambiguity\|政策歧义性]]（多重思维方式互不相容）、专家知识民主化带来的高度公共争议性、以及育人结果指向不可见未来所导致的技术赤字。这三重生态约束构成了决策者亟需[[Façade of Rationality|理性外衣]]的现实温床。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Commensuration\|通约化]]与去语境化** 数字通过剥离地方学校、文化传统与历史脉络的特殊性，将[[Heterogeneity\|异质性]]的教育经验还原为单一度量衡上的标量数值，制造出全球普适与科学精密的错觉。
 > - **数字作为政治[[Scaffolding\|脚手架]]功能** 量化指标充当了阻挡公众批评与专业异见的防御性盾牌，为既有政策议程提供坚不可摧的客观外包装。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -141,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -157,8 +149,6 @@ updated: 2026-10-22
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代[[Policy Brokerage\|政策中介]]的运作机制** 施泰纳-哈姆西、马滕斯（[[Kerstin Martens]]）与伊德森（[[Christian Ydesen]]）在《数字治理 2.0》中将理性表象概念进一步升华，确立为剖析国际组织从单纯[[Knowledge Mediation\|知识中介]]走向政治化政策中介的核心机制枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

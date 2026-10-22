@@ -36,11 +36,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# University of Illinois Research Park
-
-## 组织架构
-
-> [!info|notitle]
+> [!info] 组织架构
 > 伊利诺伊大学研究园（University of Illinois [[Innovation Park\|research park]]）位于伊利诺伊大学厄巴纳-香槟分校（UIUC），是[[University-Industry Collaboration\|产学合作]]在组织设计方面的典型案例。其执行主任（executive director）同时兼任大学的经济发展办公室（Economic Development Office）主任，通过双重角色实现产业合作与校内资源的高效对接([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.134–135]])。
 
 > [!abstract|notitle]

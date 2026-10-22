@@ -72,11 +72,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Richard J. Shavelson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家、心理测量学家与统计学家，斯坦福大学教育学院名誉院长兼名誉讲席教授（I. James Quillen Dean Emeritus and Margaret Jacks Professor of Education Emeritus），美国教育研究协会（[[American Educational Research Association]], AERA）前主席（2007–2008）。
@@ -99,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1976 — *Self-Concept: Validation of [[Construct]] Interpretations* (with J. J. Hubner & G. C. Stanton)** 提出著名的多层级、分领域自我概念理论模型（Shavelson Model），确立顶层总体自我概念与底层学科具体自我概念的结构分化，成为当代人格与自我概念研究的经典[[Paradigm\|范式]]。
 > - **1991 — *[[External Validity\|generalizability]] Theory: A Primer* (with N. M. Webb)** 系统总结概化理论的核心数学与测量框架，运用[[Analysis of Variance\|方差分析]]（ANOVA）技术将[[Classical Test Theory\|经典测验理论]]单一的“真实分数+误差”模型解构为多重测量变异来源的精细识别。
@@ -111,9 +105,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育研究的终极使命并非在象牙塔内产出封闭的抽象理论，而必须建立对真实人类认知、测量误差与实践情境的客观求真；学术界往往以假说检验与理论积累为最高奖励导向，而一线教学决策则要求在高时间压力与不确定性中迅速采取有效行动。这种生产目的与行动情境的根本相异性造成了长期的“转移阻滞”，单纯依赖学术自发扩散无法跨越断层，唯有通过建立具备科学鉴别力与教学论转译能力的[[Educational Brokerage Agency\|知识中介机构]]，构建连通科研界与师资培养者的非线性桥梁，方能实现研究与实践的双向增益。
 
 > [!citation-card] 科研理论生产与教学实践行动的逻辑脱节

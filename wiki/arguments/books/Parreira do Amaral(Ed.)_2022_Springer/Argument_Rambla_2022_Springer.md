@@ -86,7 +86,6 @@ citation_aliases:
   - "Rambla, 2022"
   - "Rambla (2022)"
 ---
-# Argument_Rambla_2022_Springer
 
 > [!question] [[Research Question\|研究问题]]
 > [[EU|欧盟]]的 [[Innovation Union]] 与 [[EU Skills Agenda]] 两项旗舰政策如何通过"[[Performance Indicators\|绩效指标]]"这一特定政策工具，建构关于"区域"（regions）的教育与创新想象（imaginaries）？在这一建构过程中，绩效指标体系在哪些方面系统性地优先了某些政策议题，又使哪些议题被边缘化？(p.163–164)
@@ -115,8 +114,6 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 > [!tip] 宏观语境：[[Geopolitics of Knowledge\|知识地缘政治]]
 > Rambla 将上述分析置于 [[Geopolitics of Knowledge]](Mignolo, 2002; Moisio, 2019)的宏观框架中：知识、政治与地理空间并非相互独立的领域，而是深度交织的。后殖民学术传统(Mignolo, 2002)和批判地理学(Moisio, 2019)已开启了关于三者关系的富有成果的对话。欧盟通过绩效指标绘制区域地图、分类排名并据此分配资源和注意力，本身就是一种"知识[[Geopolitics|地缘政治]]"的操作——通过[[Knowledge Production\|知识生产]]（统计排名）来塑造地理空间中的权力关系(p.163, 176)。这一视角也与 [[Regulatory Regionalism]] 的讨论相通：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理。
 
-
-## 研究方法
 
 > [!info] 研究类型与资料来源
 > 该章属于**政策分析**（非实证研究），综合运用三种方法路径：
@@ -231,8 +228,6 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > 4. **一线实践的多样性暗示了另一种可能。** YOUNG_ADULLLT 的数据表明，在制度传统较强或地方创新活跃的区域（芬兰、德国、奥地利、加泰罗尼亚），政策实践并不完全被绩效指标的逻辑所捕获。这意味着：虽然指标体系具有强大的同质化推力，但它并非不可抵抗——但抵抗所需的制度资源或地方创新能力，恰恰是许多被标记为"落后"的区域最缺乏的。
 
 
-## 主要发现
-
 > [!success] 核心发现
 > - [[Performance Indicators\|绩效指标]]作为 [[Performance Indicators]]，同时运作于技术维度和权力维度：EUROSTAT 的区域排名将成员国和区域置于比较性分类中，这些分类既是统计技术产物，也是政治建构(p.165–166)
 > - [[EU|欧盟]]的 [[Innovation Union]] 和 [[EU Skills Agenda]] 共同建构了一种"区域想象"：每个 NUTS2 区域都应成为[[Innovation Ecosystem\|创新生态]]体系与教育培训体系协同运作的空间单元。这一想象通过 EUROSTAT 定期发布的指标体系被反复生产和自然化(p.170–171)
@@ -248,9 +243,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > - [[Youth Guarantee Scheme]] 核心承诺：青年在离开学校或结束工作后 4 个月内获得就业、教育、培训或学徒机会(p.169)
 
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “欧盟已经通过使用专家知识的政策工具，描绘出成员国及其内部区域的特定地理图像，从而构建了相当复杂的教育和创新想象。”
 > (“欧盟已经通过使用专家知识的政策工具，描绘出成员国及其内部区域的特定地理图像，从而构建了相当复杂的教育和创新想象。”
 > ("The European Union has elaborated quite sophisticated imaginaries of education and innovation by means of policy instruments that use expert knowledge to draw certain geographical images of the member states and the regions within these states."))(p.176)
@@ -270,8 +263,6 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > (“政策工具在公共辩论的舞台上‘选择’相关的政策议题，同时引导行动者边缘化其他议题。”
 > ("Policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."))(Jessop, 2007,引用于 p.166)
 
-
-## 局限性与批评
 
 > [!warning] 作者未明确陈述的局限性
 > - **政策分析视角的边界** 该章聚焦于[[EU|欧盟]]层面的官方[[Discourse|话语]]和[[Performance Indicators\|绩效指标]]体系。虽然引用了 [[YOUNG_ADULLLT]] 的定性数据作为"地面检验"，但这些数据仅覆盖[[Lifelong Learning\|终身学习]]政策领域（不涵盖 [[Innovation Union]] 在研发和创新方面的接受情况），且来自单一研究项目。对成员国国内政策制定中的自主性、抵抗和协商过程，该章只能提供有限的图景。

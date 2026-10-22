@@ -105,11 +105,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Direct Instruction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 直接教学（Direct Instruction, DI）是指一种由教师主动规划、高度结构化且循序渐进的显性教学模式。其核心教学流程包括：明确阐述学习目标、小步子分步示范（Modeling）、提供有指导的练习（Guided Practice）、高频检查理解并给予即时矫正性反馈，最终过渡到学生的独立练习与自动化巩固。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
@@ -135,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 直接教学与主流教学取向对比
 > | 比较维度 | 直接教学（Direct Instruction） | 问题导向学习（[[Problem-Based Learning]], PBL） | 学科融入显性教学 | 隐性发现/沉浸模式 |
 > |---|---|---|---|---|
@@ -148,9 +142,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **目标阐明与先行组织（Clear Goals）** 课初清晰告知学习目标与[[Success Criteria\|成功标准]]，提供先行[[Scaffolding\|认知支架]]。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
 > - **分步示范与大声思维（Modeling / "I do"）** 教师将复杂技能切分为小步子，边演示边大声思维展示专家解题路径。
 > - **脚手架指导练习（Guided Practice / "We do"）** 师生共同演练，提供提示模板并在错误发生时即时介入纠正。
@@ -244,8 +236,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -265,8 +255,6 @@ updated: 2026-10-22
 > - **2016 年 — 宏观[[Research Synthesis|证据综合]]审计与[[Incommensurability|不可通约性]]批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 揭露 Hattie 二级综合中伪造标准误导致 Haas (2005) 直接教学权重被削减 53.5%，并提出“[[Category Mistake|德甲联赛隐喻]]”，指出直接教学作为全学年宏观方案与瞬时微观实验不可[[Commensuration|通约]]，教师决策应聚焦于其与练习策略的最优组合而非机械非此即彼。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -299,8 +287,6 @@ updated: 2026-10-22
 > - **长效保持脆弱** 若缺乏情境化实践与探究演练，直接讲授习得的规则在长周期[[Pre-test and Post-test\|后测]]中容易发生严重衰减。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

@@ -84,7 +84,6 @@ citation_aliases:
   - "Rizvi, 2022"
   - "Rizvi (2022)"
 ---
-# Argument_Rizvi_2022_Springer
 
 > [!question]
 > 亚洲的经济和政治崛起如何重塑了全球高等教育的架构？
@@ -93,9 +92,7 @@ Rizvi 的核心论点是：过去三十年间，高等教育的深刻转型（[[
 
 这个问题的提出有一个重要背景：Rizvi 承认已有批判学者从知识资本主义(Peters, 2013)、工作性质的转变(Brown & Lauder, 2016)、全球化和技术创新等角度解释了高等教育的转型。但他认为这些分析不够充分——因为它们没有把亚洲崛起作为一个独立的因果力量来对待。他写道："along with these factors, the economic and political [[Research in Schools Evaluation|RISE]] of Asia has also played a highly consequential role"(p.90)。这个"along with"表明他不是要推翻既有解释，而是要**补充一个被忽视的维度**。
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > Rizvi 的分析工具箱包含三个层次的理论资源：
 
 **第一层：[[Geopolitics|地缘政治]]的基本概念(Dodds, 2019)**

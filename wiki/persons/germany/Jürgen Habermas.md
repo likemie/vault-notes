@@ -90,8 +90,6 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Jürgen Habermas
-
 ---
 
 ## 简介
@@ -126,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960s — 公共领域考掘与[[Positivism|实证主义]]批判的奠基阶段** 回应资本主义技术官僚统治与实证主义对社会哲学的窄化。
 >   - **代表著作** 《公共领域的结构转型》（1962）、《认识与兴趣》（1968）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, Ch. 2, pp. 23–25)]]
@@ -144,9 +140,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代社会的危机根源于理性维度的病态片面化——工具理性与行政系统（官僚控制与资本逻辑）侵入并残酷殖民了本应以语言沟通为基础的文化生活世界。同时，现代民主政体的政治合法性并非抽象自存，而是根本上取决于国家能否有效提供安全、健康、教育与经济繁荣等核心公共品；当技术红利被封闭精英垄断而无法转化为公共治理效能时，国家将不可避免地陷入深层的[[Legitimation Crisis|合法化危机]]。现代性绝非不可救药的极权铁笼，而是一项远未完成的理性解放工程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 25)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–9, 11)]]
 
 > [!critique] 对[[Positivism|实证主义]]与[[Scientism|科学主义]]的系统批判
@@ -173,8 +167,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论应用与影响路径
-
 > [!influence-path] 影响路径
 > - **现代性工程与公共教育的制度起源（比较教育史学路径）**
 >   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（朱利安、[[Victor Cousin|库森]]、曼、斯托、巴纳德）时，运用[[Jürgen Habermas|哈贝马斯]]的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。
@@ -187,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-## 关系网络
-
 > [!person-network] 思想网络与学术关联
 > - **思想前驱／哲学源流** [[Immanuel Kant|康德]] — [[Jürgen Habermas|哈贝马斯]]继承其先验理性、普遍伦理与世界公民观念，将其从个体内省转向主体间商谈。
 > - **法兰克福学派师承** 霍克海默（Max Horkheimer）与阿多诺（Theodor W. Adorno） — 导师与思想策源地；哈贝马斯继承其[[Ideology Critique|意识形态批判]]，但克服了其绝望的文化悲观论。
@@ -198,8 +188,6 @@ updated: 2026-10-22
 > - **理论论敌与争鸣对象** [[Jean-François Lyotard|利奥塔]]、福柯与德里达 — 围绕后现代解构主义与现代性启蒙理性的世纪论战。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

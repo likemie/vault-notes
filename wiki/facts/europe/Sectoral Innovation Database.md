@@ -38,17 +38,14 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Sectoral Innovation Database
-
 ---
 
 > [!info] 背景
 > 部门创新数据库（Sectoral Innovation Database，SID）由意大利 Urbino 大学开发，是一个跨国家产业层面的创新数据库。它将社区创新调查（[[Community Innovation Survey]]，CIS）的多个波次数据与来自其他来源的经济表现指标整合在一起，为创新经济学中的跨国家和跨行业比较研究提供标准化的[[Data Infrastructure\|数据基础设施]][[Argument_Bogliacino_Pianta_2016_EconPol\|(Bogliacino & Pianta, 2016, pp.162-163)]]。
 
 ---
-## 覆盖范围
 
-> [!abstract|notitle]
+> [!abstract] 覆盖范围
 > SID 的数据覆盖（pp.162-163）：
 > - **国家** 德国、法国、意大利、荷兰、葡萄牙、西班牙、英国和挪威，共 8 个欧洲国家（含一个欧洲自由贸易联盟（European Free Trade Association，EFTA）国家）
 > - **行业** 22 个制造业和 17 个服务业的两位数 NACE Rev. 1 行业，共 38 个行业

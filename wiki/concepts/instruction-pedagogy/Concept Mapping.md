@@ -60,11 +60,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Concept Mapping
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 概念图（Concept Mapping）是指由约瑟夫·诺瓦克（Joseph Novak）基于奥苏贝尔（David Ausubel）有意义学习理论开发的高结构化空间语义网络表征与评价工具。概念图由置于方框或圆圈中的概念节点（Concept Nodes）、指示方向的连接线（Directed Links）、标明概念间语义关系的命题连接词（Linking Words / Phrases）以及跨越不同知识分支的横向交叉连接（Cross-links）构成。两个概念节点与连接词共同构成一个完整可验证真伪的命题（Proposition），用于系统外显化复杂领域知识的层级包含结构与深层网状语义模型。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–10)]]; Novak and Gowin (1984)
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念图 vs [[Mind Mapping\|思维导图]] vs [[Argument Mapping\|论证图]]系统辨析
 > | 比较维度 | **概念图（Concept Mapping）** | **思维导图（[[Mind Mapping]]）** | **论证图（[[Argument Mapping]]）** |
 > |---|---|---|---|
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > | **评价诊断功能** | **极高**<br>精准诊断概念迷思与[[Knowledge Integration\|知识整合]]度 | 偏低（主要评价流畅性与独创性） | 中等（评价逻辑谬误与论证力度） |
 
 ---
-
-## 核心要素
 
 > [!feature] 概念图的四大核心建构构件（Novak & Gowin, 1984）
 > 1. **概念节点（Concept Nodes）** 置于矩形框或椭圆中的核心概念术语（通常为名词或专有名词），代表规则、事物或心理表象。
@@ -174,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心理论断言 | 关键机制与调节变量 | 代表学者与实证依据 |
 > |---|---|---|---|
@@ -186,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念图理论与技术应用演进脉络
 > - **1970 年代　约瑟夫·诺瓦克创立概念图技术** 康奈尔大学团队基于 Ausubel 有意义学习理论开发概念图，用于长期追踪儿童在基础科学学习中的概念结构转变。
 > - **1984 年　确立命题语法与交叉连接评估体系** Novak & Gowin 出版专著《Learning How to Learn》，正式确立包含层级、命题、交叉连接与实例的标准四维评分规程。
@@ -196,8 +184,6 @@ updated: 2026-10-22
 > - **2020 年代　[[Graphic Organizer\|图形组织器]]多维元分析与结构开销梯度** [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 实证确立概念图在[[Higher-Order Thinking Skills\|高阶思维]]干预中的稳健效能（$g = 0.548$），并清晰量化了其与[[Mind Mapping\|思维导图]]、[[Argument Mapping\|论证图]]的结构复杂度梯度。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与前沿分歧
 >
@@ -215,8 +201,6 @@ updated: 2026-10-22
 > 2. **初学阶段务必控制节点数量** 初学者单次构图的概念节点数建议控制在 10–15 个以内，避免过多节点造成严重的视觉拥挤与[[Working Memory\|工作记忆]]过载。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -283,8 +267,6 @@ updated: 2026-10-22
 > > | Shi et al. (2022) | Mind mapping | 21 | 1,602 | 21 | 0.99 |  |
 
 ---
-
-## 教育应用与教学实践
 
 > [!implication]- 科学应用概念图的四大教学支柱
 > 1. **将“横向交叉连线（Cross-links）”作为深层整合的教学抓手** 引导学生在完成基本树状层级分支后，主动追问“左侧的这个概念与右侧的概念有何因果或转化关系？”，通过强行构建交叉连线打破认知孤岛；

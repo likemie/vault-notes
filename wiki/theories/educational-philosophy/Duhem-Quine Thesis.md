@@ -39,13 +39,9 @@ created: 2026-07-04
 updated: 2026-10-22
 ---
 
-# Duhem-Quine Thesis
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 经验证据与理论选择之间的关系：为什么仅凭逻辑和经验证据无法唯一地决定科学理论的选择。
 > - **理论问题** 如果证据不能唯一决定理论，那么理论选择的合理性基础是什么？这一论题是否会导致对科学事业的怀疑论？
 > - **理论类型** 科学哲学中的[[Epistemology\|认识论]]论题（epistemological thesis），属于中层理论工具。
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > *"I would say that the thesis as I have used it is probably trivial. I haven't advanced it as an interesting thesis as such. ... I am not concerned even to avoid the trivial extreme of sustaining a law by changing a meaning."* (Harding, 1976, p. 132)
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜经验证据不能唯一决定理论选择
 > - **前提一** 任何理论检验都同时预设了辅助假设、测量理论、背景知识和初始条件。

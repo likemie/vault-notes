@@ -58,12 +58,9 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Language Skills
 （语言技能）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 语言技能（Language Skills）是衡量学习者在特定语言环境中运用口头与书面符号进行意义理解、信息提取与交际表达的[[Operationalization\|操作化]]能力系统。在现代二语习得（Second Language Acquisition, SLA）与外语教学（English as a Second/Foreign Language, ESL/EFL）中，它通常基于欧洲语言共同参考框架（Common European Framework of Reference for Languages, CEFR）或美国外语教学学会（American Council on the Teaching of Foreign Languages, ACTFL）准则，通过听力感知、阅读理解、书面产出（写作流利度、语法词汇纠错、体裁组织）以及口语即时交际对话表现进行综合测度。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2–3, 10)]]
@@ -79,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 核心学习产出概念辨析
 > | 维度 | 语言技能 (Language Skills) | [[Academic Achievement\|学业成绩]] | [[Higher-Order Thinking Skills\|高阶思维技能]] |
 > |---|---|---|---|
@@ -89,8 +84,6 @@ updated: 2026-10-22
 > | AI 干预敏感度 | **极高** — 自然语言模型底层基于符号概率分布，即时纠错赋能显著 | **中等** — 依赖于概念解释、例题练习与助教答疑 | **中等至审慎** — 易诱发[[Cognitive Offloading\|认知卸载]]，表面文本流畅掩盖深层推理缺陷 |
 
 ---
-
-## 核心要素
 
 > [!feature] 语言技能的四大核心要素
 > - **书面表达与语法重构（Written Expression & Syntactic Restructuring）** 运用恰当的词汇与句式组织连贯语篇的能力，涵盖遣词造句的准确性、体裁规约与即时修改润色。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 10)]]
@@ -124,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -142,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] 表层符号流畅性陷阱与[[Cognitive Offloading\|认知卸载]]
 > - **文本表面繁荣遮蔽批判性缺陷** 学习者可借助大语言模型在数秒内生成结构严谨、词法高级的外语文章，但若缺乏对生成内容的批判性审查，极易形成被动的认知依赖与表层拼贴，使语言技能的真实习得大打折扣。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 15–16)]]
 
@@ -152,15 +141,11 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!example] 生成式 AI 赋能语言技能的典型教学实验案例
 > - **学术写作多轮提示词润色与体裁重构（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]）** 在二语大学生英语学术写作中设计多轮提示词交互任务，要求学生借助大模型开展段落重构、句式降重与高级学术词汇替换，有效提升了书面语篇的规范性与流利度。
 > - **低焦虑口语即时交际对话演练（Wang et al., 2024）** 运用生成式对话[[AI Agent in Education\|智能体]]构建 24/7 全天候外语模拟交际环境，学生在无真人评判威慑的情境中大幅降低了二语交际焦虑，显著改善了口语即时对话流利度。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

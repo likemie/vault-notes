@@ -39,7 +39,6 @@ status: draft
 created: '2026-06-08'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Karl Pearson（1857–1936）是英国数学家，被广泛视为现代数理统计学的奠基人之一。他发展了[[Pearson Product-Moment Correlation\|积差相关]]系数（product–moment correlation coefficient）和[[Chi-Squared Test\|卡方检验]]等至今仍在使用的统计技术。1904年，他在《英国医学杂志》上发表了最早尝试跨研究合并数据的分析，被后世追认为[[Meta-analysis\|元分析]]的思想先驱([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.33]])。
@@ -59,9 +58,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Pearson 在 1904 年的分析中同时追求两个目标：合并多项小研究的发现以获得更可靠的答案，以及探索研究间效果变异的原因。这两个目标构成了[[Meta-analysis\|元分析]]的核心概念([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.33]])。
 >
 > 他将每项研究的结果以独立行呈现，列出效果测量值和研究内不确定性测量，最后一行给出平均相关系数作为汇总估计。这种呈现方式预示了后来[[Meta-analysis\|元分析]]中[[Forest Plot\|森林图]]（forest plot）的标准形式。

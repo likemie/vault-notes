@@ -46,8 +46,6 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Economics of Education Movement
-
 ---
 
 > [!info] 背景

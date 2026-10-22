@@ -86,13 +86,9 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-# Campbellian Validity Framework
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 科学研究（尤其是实验与[[Quasi-Experimental Designs\|准实验设计]]）中[[Causality\|因果推断]]结论的真实性、[[Reliability\|可靠性]]、[[External Validity\|可推广性]]与[[Construct\|构念]]测量有效性。
 > - **理论问题** 回应实证研究中“如何确证干预与结果之间存在真实因果关系”、“如何系统排除竞争性替代解释”以及“因果知识能否及如何在不同人群与情境间推广”。
 > - **理论类型** 方法论元理论（Methodological Meta-Theory）与因果效度[[Analytic Framework\|分析框架]]。
@@ -176,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 机制图
-
 > [!mechanism-map]- Campbellian 效度层级与多质多法转化机制
 > ```mermaid
 > flowchart TD
@@ -201,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 承认客观世界中干预与结果之间存在真实的因果作用机制，但社会系统的复杂性使因果效应往往嵌入于特定情境与机制之中。
 > - **[[Epistemology\|认识论]]** 秉持[[Postpositivism\|后实证主义]]（Postpositivism）与[[Falsification\|证伪主义]]取向；主张[[Causality\|因果关系]]永远无法被绝对“证实”，只能通过系统、严密地排除所有已知的竞争性替代解释来不断逼近真理。
@@ -224,8 +216,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展脉络
-
 > [!dev-timeline] Campbellian 效度框架的演进脉络
 > - **1959 — [[Multitrait-Multimethod Matrix\|MTMM]] 矩阵创立** Donald Campbell 与 Donald Fiske 发表经典论文，提出多质多法（Multitrait-[[Multimethod Research\|multimethod]], MTMM）[[Analytic Framework\|分析框架]]，奠定了[[Construct Validity\|构念效度]]检验的收敛与判别准则([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
 > - **1963 — 实验与准实验效度二分法** Campbell & Stanley 出版《教学研究中的实验与[[Quasi-Experimental Designs\|准实验设计]]》，首次系统确立[[Internal Validity\|内部效度]]与[[External Validity\|外部效度]]概念，系统编目八大[[Threats to Internal Validity\|内部效度威胁]]。
@@ -235,8 +225,6 @@ updated: 2026-10-22
 > - **2024 — 清算中心实践构念效度的实证审思** 运用 Campbellian MTMM 理论全景检验 10 个清算中心 1,359 个项目，实证揭示跨机构评级高度冲突与综合门槛割裂，深化了对“循证”实践构念效度的[[Epistemology\|认识论]]反思([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

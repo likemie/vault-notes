@@ -45,13 +45,9 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Dual Coding Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 人脑如何通过独立的视觉非言语系统与听觉言语系统分别接收、加工并协同表征外部信息。
 > - **理论问题** 为什么纯文本阅读容易造成认知瓶颈，而图文结合的教学设计能够带来显著的记忆与深层理解增益。
 > - **理论类型** 认知架构中层理论、多模态信息加工机制模型。
@@ -103,8 +99,6 @@ updated: 2026-10-22
 > - **推导** 空间分支图示同时激活长时记忆中潜伏的视觉表象与言语概念，通过密集的跨模态指称联结加速观念检索与灵感碰撞，因而在实证中对[[Divergent Thinking\|发散思维]]的促进效应（$g = 1.167$）显著超越受形式规则严格约束的[[Convergent Thinking\|聚合思维]]（$g = 0.680$）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4, 11)]]
 
 ---
-
-## 实证证据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]理论验证数据
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

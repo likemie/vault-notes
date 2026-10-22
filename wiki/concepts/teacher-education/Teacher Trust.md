@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Trust
-
 > [!metax] [教师信任 · Teacher trust](https://www.visiblelearningmetax.com/influences/view/teacher_trust)
 > 教师 › 教师特质
 >

@@ -116,7 +116,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Gungor_2026_CP
 
 ---
 
@@ -139,8 +138,6 @@ issuing_organization: ""
 > - **贡献** 首次在二阶统计层级确立合作学习对多维学习产出的宏观效应基准，实证确立其对高阶思维技能的优先促进价值，系统分解教学技术与学科情境的调节机制，并为未来循证教学干预与一阶元分析纠偏提供了清晰的研究议程。
 
 ---
-
-## 理论框架
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -172,8 +169,6 @@ issuing_organization: ""
 > **图表解读** 本表系统界定了[[Meta-meta-analysis\|二阶元分析]]中 4 类学习产出与 7 类合作学习技术的核心理论构念、操作化定义、典型教学规程、代表性测评工具及纳入的一阶元分析实证案例，为二阶亚组调节分析与教学转化提供了精准的分类学与操作化基准。（pp. 3–7）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计与编码流程
 > | 模块 | 材料与处理方式 |
@@ -232,8 +227,6 @@ issuing_organization: ""
 > | **学科与技术构成** | 数学 8 个效应量、自然科学 7 个、语言 1 个、社会科 1 个、体育 1 个、混合学科 5 个；拼图法 6 个、综合合作学习 14 个、小组调查法 2 个、CIRC 整合阅读 1 个。（pp. 6–7） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -401,8 +394,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Cooperative Learning\|合作学习]]对学生的综合学习产出具有稳健的中等促进效应** [[Meta-meta-analysis\|二阶元分析]]汇总 15 项一阶[[Meta-analysis\|元分析]]（403 项原始实证研究、23 个独立[[Effect Size\|效应量]]），得出加权平均效应量为 $ES = 0.71$（$95\%\text{ CI} = [0.55, 0.87]$），[[Fail-Safe N\|失安全系数]]（$N = 4954$）、Egger 回归与[[Trim and Fill Method\|剪补法]]一致证实该结论高度稳健且无[[Publication Bias\|发表偏倚]]。（pp. 6–8）
 > 2. **合作学习对[[Higher-Order Thinking Skills\|高阶思维技能]]的赋能效应最为突出** 合作学习对高阶思维技能（HOTS）的促进效应达到 $ES = 0.76$（$95\%\text{ CI} = [0.42, 1.11]$），高于[[Academic Achievement\|学业成就]]（$ES = 0.71$）与[[Affective Outcomes\|情感行为]]（$ES = 0.51$），实证确立了[[Heterogeneity\|异质性]]同伴互动与认知冲突在培养批判性与[[Creativity\|创造性]]思维中的核心价值。（pp. 8–9）
@@ -418,8 +409,6 @@ issuing_organization: ""
 > - **$I^2 = 93.70\%$** 效应量总异质性比例（$Q = 349.48, \tau^2 = 0.13$）。（p. 6）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Meta-meta-analysis\|二阶元分析]]总体结论与调节分化
 > 本研究结果表明，[[Cooperative Learning\|合作学习]]对学习产出具有中等程度的影响（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。观察到合作学习对学习产出的影响在统计上因合作学习技术、学科领域以及一阶[[Meta-analysis\|元分析]]研究所涵盖的基础研究实验设计类型而异。（p. 1）
@@ -437,8 +426,6 @@ issuing_organization: ""
 > *The unique VALUE of employing a second-order meta-analysis here is not just to report a finding, but to highlight this exact methodological gap: there is a severe paucity of high-level synthesis (meta-analyses) that systematically report effect sizes for the language or social studies domains... establishes a clear agenda for future first-order meta-analyses, which must actively seek out and synthesize primary research in disciplines such as language and social studies to rectify this systemic imbalance in the synthesis landscape.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与[[Research Scope\|研究边界]]
 > 1. **[[Dependent Variable\|因变量]]分类受制于一阶[[Meta-analysis\|元分析]]数据实态** 尽管教育目标理论框架涵盖认知、情感与动作技能三领域，但因一阶元分析中缺乏动作技能实证数据，导致本研究被迫排除了动作技能领域。

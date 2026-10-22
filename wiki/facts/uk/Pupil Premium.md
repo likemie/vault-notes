@@ -69,11 +69,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Pupil Premium
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2011 年 4 月由英国保守党—自由民主党联合政府（Conservative-Liberal Democrat Coalition Government）教育部正式颁布实施。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 47–49)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 > - **制度位置** 政策作为英国教育财政转移支付的重大结构性创新，与 2011 年成立的[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及随后推广的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》相互绑定，形成“国家专项注资—[[School Autonomy|学校自主]]支配—权威证据指引—[[School Inspection\|教育督导]]评估”四位一体的因果[[Output-Oriented Governance\|循证治理]]格局。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 280)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 国家财政打破传统的按学校整体规模平均配给模式，以过去 6 年内有资格享受免费校餐（Ever 6 FSM）的学生人头为基准，向学校直接拨付非定向专项津贴；赋予中小学校长完全的经费支配自主权，但要求学校必须依据严格的实证科研证据合理规划开支，切实缩小弱势学生的学业差距。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 47–48)]]
@@ -101,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2010** 自由民主党将设立学生津贴作为联合组阁的核心政策要价，保守党教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）在白皮书[[The Importance of Teaching\|《教学的重要性》]]中正式确立政策框架。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
 > - **2011** 政策正式生效启动，初年度投入 6.25 亿英镑；同年英国教育部向[[Sutton Trust\|萨顿信托]]联合体下拨 1.25 亿英镑成立 [[Education Endowment Foundation\|EEF]]，开发《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》指导津贴支出。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 48)]]
@@ -110,8 +102,6 @@ updated: 2026-10-22
 > - **2018–2020** 英国教育部将学校采纳 EEF《学校实施指南》作为规范学生津贴支出的官方标准；全英超过 70% 的中学校长将工具包作为制定年度津贴支出战略的首要参考。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与拨款主体** 英国教育部（Department for Education） — 依据[[National Pupil Database\|国家学生数据库]]（NPD）核定各校弱势学生名册，直接按年度向学校拨付专款。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
@@ -125,8 +115,6 @@ updated: 2026-10-22
 > - **公开透明披露与督导核查** 学校必须在官网上发布标准化模板的《学生津贴战略陈述书》（Pupil Premium Strategy Statement），详述往年产出与后续预算论据。
 
 ---
-
-## 行动者与利益相关者
 
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
@@ -149,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 2011 年启动时为 6.25 亿英镑，至 2020 年稳定在每年逾 25 亿英镑；每名合格小学生的年度津贴超 1,300 英镑，中学生超 900 英镑。
 > - **过程指标** 全英格兰逾 14,000 所公立中小学纳入覆盖；超过 70% 的中学校长制度化依据 [[Education Endowment Foundation\|EEF]] 证据规划预算。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
@@ -167,8 +153,6 @@ updated: 2026-10-22
 > - **20,000+** 覆盖英格兰全部公立中小学校的数量（所）。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

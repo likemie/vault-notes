@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# John Glenn
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国海军陆战队王牌战斗机飞行员、水星计划首位环绕地球飞行的宇航员、俄亥俄州联邦参议员（民主党，1974–1999 年连任四届）、参议院政府事务委员会（Senate Committee on Governmental Affairs）主席。
@@ -71,14 +67,10 @@ updated: 2026-10-22
 
 ---
 
-## 主要贡献与思想发展
-
 > [!work-line] 核心立法与政策介入
 > - **1994 — 《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（S. 1587 / FASA 1994）** 针对海湾战争中军用通信采购滞后、前线将领被迫自行购买商用 GPS 接收机的困境，以及五角大楼 400 美元锤子与 600 美元马桶座圈等军购浪费丑闻，主持起草法案；首次以联邦立法形式打破长达数千页的军用规格说明书（Mil-Specs）壁垒，强制要求联邦机构在开展定制研发前必须优先购买[[Commercial Off-The-Shelf|商用现成产品]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 151–152)]]
 
 ---
-
-## 核心思想
 
 > [!claim] 务实治理与破除官僚避险
 > 约翰·格伦主张公共治理的效能必须建立在直面日常繁杂现实的制度设计之上。他深刻洞察到庞大国家官僚机构的避险惯性，认为唯有通过具有刚性约束的法定程序（如强制要求考虑成熟商业技术），才能冲破数以十万计采购官员筑起的[[Red Tape|繁文缛节]]高墙，重塑政府的务实行动力与公共信誉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 151–152)]]
@@ -88,8 +80,6 @@ updated: 2026-10-22
 > - **刚性法定要求突破避险循环（Statutory Mandates over Bureaucratic Inertia）** 认识到单纯的道德呼吁无法动摇官僚体制为了保全仕途而“不做不错”的消极惰性，必须通过具有司法可诉性的联邦法律为外部前沿企业赋权，以法治力量打破既得利益壁垒。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 151–152)]]
 
 ---
-
-## 影响路径
 
 > [!influence-path] 制度影响路径
 > - **法律规范路径** 格伦主持制定的 [[Federal Acquisition Streamlining Act of 1994|FASA 1994]] 被法典化为美国法典第10编第2377条（10 U.S.C. § 2377），确立了全美政府采购必须优先满足商业现成解决方案的刚性底线。

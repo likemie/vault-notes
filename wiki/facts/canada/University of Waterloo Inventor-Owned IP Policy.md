@@ -37,8 +37,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# University of Waterloo Inventor-Owned IP Policy
-
 > [!info] 背景
 > 滑铁卢大学的发明人自有知识产权政策（inventor-owned IP policy），也称创造者自有知识产权政策（creator-owned IP policy），是该校自 1959 年建校起实行的核心制度安排。与多数北美大学（在 [[Bayh-Dole Act of 1980\|Bayh-Dole]] 框架下，大学通常对联邦资助研究产生的发明拥有所有权）不同，滑铁卢大学将知识产权所有权归于发明人个人而非大学机构([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, pp.242–243]])。
 

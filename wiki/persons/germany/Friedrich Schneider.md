@@ -59,11 +59,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Friedrich Schneider
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国天主教教育学家、比较教育学奠基人，先后任教于科隆大学、科隆教育学院、奥地利萨尔茨堡大学与慕尼黑大学，1931 年创办跨国学术期刊《[[International Education|国际教育]]学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*）。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展阶段
 > - **1920年代–1930年代 — 跨国比较探索与国际学术网络奠基** 探索超越德国传统思辨教育学的实证制度比较，创办跨国学术期刊搭建国际对话平台。
 >   - **代表著作** 创办《[[International Education|国际教育]]学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*, 1931）。在创刊号中，施奈德系统勾勒了比较教育学的历史、体系、方法、宗旨与贡献，并致力于为这门学科确立统一规范的术语基底。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
@@ -108,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育的核心任务绝非浮于表面的外部制度照搬与事实白描，而在于通过历史与哲学的深度透视，发掘塑造各民族教育体系深层特质的内在动力因素（德文：[[Theories of the Driving Forces|Triebkräfte]]）。施奈德将天主教人文主义的普世价值融入比较研究，坚信欧洲各民族的教育系统虽然在民族[[State Educational Sovereignty|国家教育主权]]的制度表现上展现出高度多样性，但在精神脉络、哲学传统与道德伦理根基上共享着深刻的欧洲统一性。这种宏大历史文化全景视角构成了战后欧洲比较教育学抵御北美[[Behaviorism|行为主义]]与量化还原论的核心人文主义基石。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93–94)]]
 
 > [!citation-card] 比较教育的欧洲统一性理想
@@ -125,9 +117,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与汉斯共同树立了 20 世纪前中期以历史文化哲学为底色的比较教育经典[[Paradigm|范式]]，创立[[Theories of the Driving Forces|驱动力理论]]（Triebkräfte），使欧洲比较教育在[[Positivism|实证主义]]与[[Behaviorism|行为主义]]浪潮前牢固确立了[[Geisteswissenschaften|精神科学]]与文化因素分析的合法性。
 > - **方法路径** 规范了德语区[[Historical-Comparative Method|历史比较法]]，将个案历史发生学考察与跨国精神文化形态比照相结合，奠定了战后德国比较教育的解释学传统。
 > - **建制化路径** 创办中欧第一份跨国比较教育学术期刊《[[International Education|国际教育]]学评论》，二战后先后复兴萨尔茨堡大学与慕尼黑大学比较教育教席，为西德大学比较教育实体建制培养了骨干梯队。
@@ -162,8 +152,6 @@ updated: 2026-10-22
 > - **关联学术实体** 萨尔茨堡比较教育研究所（创办人）、慕尼黑大学（教育学教席）、《[[International Education|国际教育]]学评论》（创办人）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

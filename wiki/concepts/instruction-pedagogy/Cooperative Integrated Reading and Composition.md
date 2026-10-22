@@ -54,11 +54,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Cooperative Integrated Reading and Composition
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）是由 [[Robert Slavin]]、Robert Stevens 与 [[Nancy Madden]] 于 1987 年在约翰霍普金斯大学系统开发的一种针对中小学语言与读写教育的综合性[[Cooperative Learning\|合作学习]]教学模式。该模式将教师主导的显性阅读理解策略精讲与[[Heterogeneity\|异质性]]同伴协作深度融合，通过配对朗读、生字词汇协商、故事语法图解、同伴审阅修改及读写一体化迁移，构建语言输入与输出高频互动的教学流程。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] CIRC 与其他主流读写教学模式对比
 > | 比较维度 | 合作整合读写 (CIRC) | 传统全班单向讲读 | 独立自定步调阅读 (Individualised Reading) | 纯粹小组自由讨论 |
 > |---|---|---|---|---|
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **教师显性策略示范（Teacher-Led Explicit Instruction）** 教师精讲预测、主旨提炼、故事语法结构分析与写作修辞策略，进行认知建模。
 > - **异质配对朗读与即时纠音（Partner Reading & Decoding）** 组内异质结对轮流朗读课文段落，同伴即时纠正发音并进行段落要点口头复述。
 > - **词汇协商与故事语法图解（Vocabulary & Story Structure）** 共同研讨目标词汇语境含义，绘制故事背景、人物动机、冲突与结局的结构图表。
@@ -136,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +143,6 @@ updated: 2026-10-22
 > - **2020 年代至今 — 全球跨语言推广与[[Meta-meta-analysis\|二阶元分析]]确证** CIRC 进一步推广至印尼语、土耳其语等多语种教学；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 二阶[[Meta-analysis\|元分析]]确证其干预效应在[[Cooperative Learning\|合作学习]]技术中位居首位（$ES = 2.04$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–5)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -175,8 +163,6 @@ updated: 2026-10-22
 > - **配套材料依赖度高** 高度依赖针对特定文学读物开发的成套练习单与评估手册，若缺乏系统资源支持，教师自行备课成本极其高昂。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

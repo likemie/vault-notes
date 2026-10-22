@@ -56,11 +56,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Educational Science Communication
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育科学传播（Educational Science Communication / 德语：Wissenschaftskommunikation in der Bildungsforschung）是指将教育科学与实证教育研究的发现、理论、模型与方法，面向教育实践者（职前与在岗教师、教师教育者、学校管理者）、教育行政决策层以及社会公众进行系统阐释、通俗转译与双向互动的专门科学传播形态。其核心目标是超越将教师预设为被动接收者的自上而下单向线性[[Knowledge Transfer\|知识转移]]模式，构建多媒介、非线性、递归且受众适配的专业对话生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–254)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 传统单向[[Knowledge Transfer\|知识转移]]与现代教育科学传播辨析
 > | 比较维度 | 传统线性知识转移（Linear Knowledge Transfer） | 现代教育科学传播（Educational Science Communication） |
 > |---|---|---|
@@ -93,8 +87,6 @@ updated: 2026-10-22
 > | **对学术界的反馈** | 缺乏常态化机制，研究者与实践现场脱节 | 促使研究者反思[[Research Question\|研究问题]]效度，获得教学现场即时需求反馈 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代教育科学传播的四大支柱与媒介谱系
 > - **非线性双向递归沟通机制** 摒弃从实验室到课堂的线性链条，强调研究者与教师教育者、一线教师在数字社区与研训情境中展开双向对话，形成需求与证据的互惠循环。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
@@ -168,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 教育科学传播核心命题归纳
 > | 命题类型 | 核心指向 | 实践与政策含义 | 代表学者 |
 > |---|---|---|---|
@@ -179,16 +169,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 教育科学传播[[Paradigm\|范式]]演进
 > - **20 世纪末 — 早期自上而下政策驱动期** 侧重通过官方课程标准、白皮书与学术期刊向学校自上而下灌输科研发现，普遍遭遇一线教师的吸收抵抗。
 > - **2010 年代 — 循证清算中心与专业中介崛起** 随着[[Evidence-Based Education\|循证教育]]运动兴起，英美与德语区先后创设[[What Works Clearinghouse\|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）、[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）、德国[[Forschungsmonitor Schule\|学校研究监测平台]]（FMS）等专业中介机构，系统提炼[[Meta-analysis\|元分析]]并向教师教育者分发简评。
 > - **2020 年代至今 — 数字去中心化与全媒体对话转向** 播客、短视频与社交媒体成为师范生和教师获取教学灵感的重要渠道；教育科学界开始系统反思线性[[Knowledge Transfer\|知识转移]]局限，全面转向受众适配、反[[Neuromyth|神经神话]]、去中心化互动的教育科学传播新生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–258)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与现实困境
 >
@@ -205,8 +191,6 @@ updated: 2026-10-22
 > > - **大众直达路线（如播客与社交媒体）** 具有极高的直接传播量，但难以确保受众系统理解与质量鉴别。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 257–258)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

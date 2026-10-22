@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-04'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** [[Neo-Piagetian Theories\|新皮亚杰理论]]家，提出技能理论（Skill Theory），考察学习发生的环境如何影响认知发展的实际水平和最优技能水平([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])。

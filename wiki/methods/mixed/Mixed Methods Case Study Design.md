@@ -32,8 +32,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Mixed Methods Case Study Design
-
 > [!info] 定义
 > [[Mixed Methods Research\|混合方法]][[Case Study\|案例研究]]设计（Mixed Methods [[Case Study]] Design）是一种复杂混合方法设计，将核心混合方法设计（聚敛式、解释性序列或探索性序列）嵌入案例研究的开发和比较过程中。研究者通过量化和质性数据来发展案例，然后对案例进行描述和比较([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.246]])。
 
@@ -41,9 +39,7 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
-> [!abstract|notitle]
+> [!abstract] 研究程序
 > 两种基本变体([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.246–247]])：
 >
 > **1. 演绎法（Deductive Approach）**

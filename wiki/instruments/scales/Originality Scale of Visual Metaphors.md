@@ -44,11 +44,7 @@ created: 2026-09-03
 updated: 2026-10-16
 ---
 
-# Originality Scale of Visual Metaphors
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Originality Scale of Visual Metaphors (OSVM)
 > - **工具类型** 表现性作品评价量表（结合绘图创作任务与专家评定尺度的测量工具）。
@@ -57,8 +53,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔绘图测试结合多位评分者独立盲评（作图限时通常为 10–15 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 视觉隐喻原创性与深层概念表征
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -71,14 +65,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 呈现一个或多个高度抽象的概念主题（例如“时间”、“成功”、“冲突”、“思维”、“互联网”等）。
 > - **作答格式** 指导语要求被试“请不要使用简单的文字或常规符号（如画钟表表示时间），而是设计并绘制一幅富有创意的插画，生动比喻这一概念的深层特征”。
 > - **反向题与跳题** 无反向题；由 2–3 名经过培训的评委依据标准化量规独立打分（采用专家共识评价原理）。
-
-### 核心任务范式与评定指标
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -90,8 +80,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -101,8 +89,6 @@ updated: 2026-10-16
 > | Baruah and Paulus (2008) | OSVM 任务[[Paradigm\|范式]] | 美国高校大学生（$N = 22$），检验头脑风暴与结构化训练对个体及小组概念隐喻生成独创性的影响 | [[Inter-Rater Reliability\|评分者信度]] ICC = 0.84 | 接受显性启发式训练的被试在 OSVM 独创性维度显著优于无训练对照组 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

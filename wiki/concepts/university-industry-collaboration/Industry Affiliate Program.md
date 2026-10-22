@@ -60,11 +60,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Industry Affiliate Program
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 产业联盟计划（Industry Affiliate Program，亦称企业会员计划，Corporate Affiliate Program, CAP）是[[Research Universities|研究型大学]]为产业界设立的**会员制（Membership-based）** 长效合作机制。企业通过按年度向大学缴纳固定会费，获取对特定院系或跨学科科研社区的“通用入场券”与优先联络通道，包括前沿技术交流简报、学生人才提前对接、联合研讨活动及优先了解最新学术发现的权利；大学则借此聚合多元产业资金池，在不让渡排他性专利控制权的前提下维持与多家企业的稳定协同关系。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 64–65)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 109–110)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 产学协同合作模式对比
 > | 比较维度 | 产业联盟计划（CAP） | [[Sponsored Research Agreement\|赞助研究协议]]（SRA） | 企业慈善捐赠（Corporate Gifts） | [[University-Based Research Center\|大学研究型中心]]（Research Centers） |
 > |---|---|---|---|---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **企业核心收益** | 早期人才招聘、技术扫描、同行网络 | 专属定制解决方案、技术商业化排他权 | 履行社会责任、提升企业品牌声誉 | 深度介入前沿共性技术标准制定 |
 
 ---
-
-## 核心要素与运作机制
 
 > [!feature] 核心要素
 > - **会员制费用与资金池运营** 企业通过按年缴纳梯度会员费（如常规会员、资深会员或赞助伙伴）获得权益，多方资金汇聚为非绑定性科研资金池，为青年教师与博士生探索前瞻性课题提供灵活支持。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 64–65)]]
@@ -165,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -182,8 +172,6 @@ updated: 2026-10-22
 > - **2000 年代至今 — 规范化分类与全校战略枢纽** 产业联盟演进为捐赠型与合同型两大标准化法律通道，并由大学中心[[University-Industry Collaboration|产学参与]]办公室统筹运营，成为连接早期技术雷达与后续定向赞助研究（[[Sponsored Research Agreement|SRA]]）的关键战略接口。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 64–65)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 109–111)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术与实践争议
 >
@@ -209,8 +197,6 @@ updated: 2026-10-22
 > 产业联盟模式不适用于需要高度排他性专有专利保护、具有极强保密要求或开发周期在数月以内的具体工程抢修任务。企业若将联盟会费当作廉价的研发外包手段，势必遭遇知识产权共有与学术公开出版规则的制度反噬。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 110–111)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 产业联盟在全美[[Research Universities|研究型大学]]产学协同中的普及率与典型历史案例规模
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

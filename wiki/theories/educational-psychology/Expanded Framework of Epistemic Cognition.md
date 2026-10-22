@@ -44,13 +44,9 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Expanded Framework of Epistemic Cognition
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 个体的[[Epistemology\|认识论]]认知（[[Epistemic Cognition]]）涵盖的信念与性情维度的全貌。
 > - **理论问题** 回应了以往心理学认识论认知模型维度过少与测量粒度过粗导致预测学习[[Consequential Validity\|结果效度]]偏低的问题。
 > - **理论类型** [[Analytic Framework\|分析框架]]。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > | [[Reliabilism]] | 理论 | 奠定框架第五组件即对个体判断可靠与不[[Reliable Epistemic Processes\|可靠过程]]的因果哲学基础。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Epistemology\|认识论]]认知是一个包含五个交互组件的多维网络
 > - **前提** 当代哲学[[Epistemology\|认识论]]的[[Research Scope\|研究范围]]远广于心理学以往关注的确定性、复杂性、来源、确证等维度。[[Epistemological Naturalism\|自然化认识论]]促使研究转向具体的认知生成实践。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 145)]]

@@ -45,11 +45,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Martha Nussbaum
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名政治哲学家、伦理学家、法学家，芝加哥大学法律与哲学杰出贡献教授（Ernst Freund Distinguished Service Professor of Law and Ethics），京都奖与霍尔堡奖得主。
@@ -71,17 +67,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1996 — *For Love of Country: Debating the Limits of Patriotism* （为了热爱国家：辩论爱国主义的限度）** 系统阐发[[Cosmopolitanism|世界主义]]立场，主张教育应当培养对全人类道德尊严的承诺而非局限于民族国家边界。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 > - **2011 — *Creating Capabilities: The Human Development Approach* （创造可行能力）** 提出涵盖十项核心人类功能能力的全球规范正义框架。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 道德效忠的核心应当赋予所有人类构成的普世世界共同体（Kosmopolitēs），而非偶然出生的民族国家；将爱国主义[[Pride in Learning|自豪]]感置于首位在伦理上是危险的，容易滑向道德沙文主义与宗派排他；教育与公共生活应当以普遍人类尊严与可行能力的平等等待为最高准则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 
 > [!citation-card] 努斯鲍姆论爱国主义的道德危险与世界公民
@@ -91,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政治哲学与伦理学路径** 重塑了当代关于全球正义、[[Cosmopolitanism|世界主义]]与爱国主义的哲学论争，成为后国家世界公民学派的核心旗帜。
 > - **发展经济学与政策评估** 与森共同推动联合国开发计划署（United Nations Development Programme, UNDP）采用人类发展指数（Human Development Index, HDI）与可行能力框架。
 > - **[[Geopolitics|地缘政治]]反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中批评努斯鲍姆的后国家世界主义抽空了国家共同体防御与合作的现实精神纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - **当代批评者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 批判其[[Cosmopolitanism|世界主义]]导致国家认同虚空化。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

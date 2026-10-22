@@ -76,13 +76,9 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Stability vs. Variability Dilemma
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** [[Meta-meta-analysis|二阶元分析]]（元-[[Meta-analysis|元分析]] / mega-analysis）与[[Evidence-Based Education|证据本位教育]]在[[Knowledge Production|知识生产]]、统计聚合与政策转化过程中的[[Epistemology|认识论]]有效性与方法学边界。
 > - **理论问题** 回应量化[[Positivism|实证主义]]试图通过海量元分析数据无限累加来终结教学争议、确立所谓终极教学科学法则（“寻找圣杯”）的认识论神话。
 > - **理论类型** 属于科学哲学与教育认识论范畴的批判性[[Analytic Framework|分析框架]]与两难评估模型。
@@ -93,15 +89,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 德国教学论学者[[Ewald Terhart|埃瓦尔德·特哈特]]在 2011 年发表于《Journal of Curriculum Studies》的长篇学术书评《Has [[John Hattie]] really found the holy grail of research on teaching? An extended review of [[Visible Learning]]》中正式建构并命名该模型。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 435–437)]]
 > - **原初问题** [[John Hattie|约翰·哈蒂]]（John Hattie）在 2009 年《[[Visible Learning|可见的学习]]》中宣称通过综合 800 余项[[Meta-analysis|元分析]]找到了控制课堂教学成效的客观法则，引发国际政策界对单一量化效应排行榜的盲目崇拜，亟需对其方法学底层逻辑开展哲学层面的审度。
 > - **理论资源与材料** 特哈特结合了科学知识社会学中关于知识演进“复杂性与分化持续增长”的基本原理、[[Didaktik|欧陆教学论]]对学科实质内容的关切，以及货币[[Commensuration|通约]]比附批判，对哈蒂汇集的 816 项元分析、52,649 项初级研究展开了[[Epistemology|认识论]]解构。
 > - **形成路径** 特哈特敏锐观察到二阶综合面临的数据矛盾：绝大多数有效因素（如反馈、清晰讲授）早已是几十年前教科书的标准常识，而声称“教师学科知识与教师教育微弱无效”的结论却与德国本土最新的前沿实证项目（如 [[COACTIV]]）严重相左。由此，特哈特提炼出稳定性假说与变异性假说这对相互掣肘的认识论张力。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演进与学术反响
 > - **2011 — 原初双重困境模型确立** 特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）正式提出稳定性与变异性假说，确立以“修补金字塔”解构“寻获圣杯”的核心学术定论。
@@ -121,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜[[Meta-meta-analysis|二阶元分析]]在成熟教学要素上受制于稳定性假说，仅能对已知教科书常识进行渐近逼近
 > **解释** [[Ewald Terhart|特哈特]]指出，对于《[[Visible Learning|可见的学习]]》所报告的绝大部分高居[[Effect Size|效应量]]排行榜前列的[[Effective Teaching|有效教学]]要素（如[[Microteaching|微格教学]] $d=0.88$、[[Teacher Clarity|教师清晰度]] $d=0.75$、形成性反馈 $d=0.72$、[[Direct Instruction|直接教学]] $d=0.59$ 等），其正面促进作用早在过去半个世纪中便已成为传统教学论教科书与教师教育文献的标准常识。将成百上千项[[Meta-analysis|元分析]]重新打包装袋，并不能在因果机制或实践操作上开拓出任何全新的理论疆界；即便在未来年份再追加 300 篇元分析，也仅能在统计数字上对已知结论形成边际递减的渐近逼近，耗费巨大的数据累加并未换来实质性的教育理解突破。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
@@ -140,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 用于审读各类宏观证据清理所（Evidence Clearinghouses）、全域教育干预排行榜及[[Meta-analysis|元分析]][[Systematic Review|系统综述]]，诊断其[[Epistemology|认识论]]自洽性与时效边界。
 > - **分析对象与单位** [[Meta-meta-analysis|二阶元分析]]报告、国家教育循证指南、跨国政策借鉴中的量化依据文本。
@@ -158,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证证据与应用案例
-
 > [!case-study] 检验案例：德国 [[COACTIV]] 项目对[[John Hattie|哈蒂]]教师专业知识结论的实证反驳
 > 在《[[Visible Learning|可见的学习]]》首版中，哈蒂根据上世纪的[[Meta-analysis|元分析]]汇总，将教师学科知识和师资培训列为影响微弱的边缘因素。[[Ewald Terhart|特哈特]]以德国[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]主持的 COACTIV 项目（Baumert et al., 2010）作为核心反例展开检验：
 > 1. **研究设计** COACTIV 依托 [[PISA]] 2003 / 2004 德国纵向样本，开发出严格的多维测验工具，区分教师的数学学科知识（CK）与学科教学法知识（PCK）；
@@ -167,8 +153,6 @@ updated: 2026-10-22
 > 3. **学理判定** 这一严格实证彻底击碎了哈蒂二阶综合关于“教师知识影响微弱”的宏观结论，完美验证了变异性假说对陈旧[[Meta-meta-analysis|二阶元分析]]有效性的致命冲击。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 437)]]
 
 ---
-
-## 理论局限与批评反思
 
 > [!critique] 学理反思与适用边界
 > - **概念定性依赖思辨与外在反例** 该模型主要建立在文献学考证、[[Epistemology|认识论]]批判与典型实证反例的基础之上，未对[[John Hattie|哈蒂]]全库底层数据开展全面的逆向重计算（此项工作后由 Wecker et al., 2016 完成）。

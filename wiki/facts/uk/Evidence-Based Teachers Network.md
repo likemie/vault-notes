@@ -37,8 +37,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Evidence-Based Teachers Network
-
 > [!info] 背景
 > Evidence-Based Teachers Network（EBTN）是英国面向教师、大学研究者和其他教育利益相关者的证据分享网络([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 

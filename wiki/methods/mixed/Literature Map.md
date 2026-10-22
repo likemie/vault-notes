@@ -30,8 +30,6 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Literature Map
-
 > [!info] 定义
 > 文献地图（Literature Map）是 Creswell 提出的一种文献组织工具，以可视化方式呈现已有研究的分类与分组关系，并将研究者计划开展的研究置于这一文献体系之中。它既帮助研究者理解自己的研究如何补充、延伸或复制已有研究，也可用于向学位委员会汇报、在学术会议上展示，或为期刊投稿组织[[Literature Review\|文献综述]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
@@ -80,8 +78,6 @@ updated: 2026-10-22
 > - 自身研究跨越多个文献体系，需要理清不同体系之间的关系
 
 文献地图既适用于[[Quantitative Research|量化研究]]（帮助按[[Variable|变量]]组织文献），也适用于[[Qualitative Research|质性研究]]（帮助按主题或现象组织文献），以及[[Mixed Methods Research|混合方法研究]]。
-
-## 实践建议
 
 > [!tip] Creswell 的[[Recommendations for Practice\|实践建议]]
 > - **教育读者** 第一次看到文献地图的人可能不熟悉这种文献组织方式，应仔细解释地图的意图和研究在其中的位置

@@ -80,12 +80,9 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-# Self-control
 （自我控制）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 自我控制（Self-control）指个体在面临即时诱惑、冲动反应或环境干扰时，主动抑制优势反应、调节情绪唤醒并维持目标导向行动的自律能力。在教育心理学与学习科学中，它不仅表现为课堂规则遵从与注意力聚焦的执行控制功能，更是连接深层[[Metacognition\|元认知]]监控与长期[[Academic Achievement\|学业成就]]的核心非认知素养（Non-attainment Outcome）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]; [[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 69–70)]]
@@ -107,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 核心相近概念对比辨析
 > | 维度 | 自我控制（Self-control） | 自我调节学习（[[Self-Regulated Learning]]） | [[Executive Function\|执行功能]]（Executive Function） | 课堂纪律（Classroom Discipline） |
 > |---|---|---|---|---|
@@ -118,8 +113,6 @@ updated: 2026-10-22
 > | **在学习中的功能** | 提供抗干扰与克服拖延的底层非认知保障 | 赋能学生成为独立高效的[[Lifelong Learning\|终身学习]]者 | 支撑复杂思维推理的底层认知硬件 | 营造安全有序的集体授课物理与社会环境 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素与表现结构
 > - **[[Inhibitory Control\|反应抑制]]（Inhibitory Control）** 在干扰刺激或即时诱惑下主动压制自动化优势冲动，维持既定学习任务的专注度与执行连续性。
@@ -212,8 +205,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与机制 | 代表学者 |
 > |---|---|---|---|
@@ -232,8 +223,6 @@ updated: 2026-10-22
 > - **2019–2021 — [[Social-Emotional Learning\|社会情感学习]]实践指南与[[Business as Usual\|常态教学]]融合** EEF 发布《改善小学社会情感学习》（van Poortvliet et al., 2019）官方实践指南，推动自我控制策略与[[Metacognition\|元认知]]策略在全国中小学课堂中显性化、制度化落地。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -258,8 +247,6 @@ updated: 2026-10-22
 > - **在急性创伤情境下的暂时失效** 遭遇重大变故、极端贫困或神经发育障碍（如 ADHD）的儿童，其[[Prefrontal Cortex\|前额叶皮层]][[Inhibitory Control\|抑制功能]]受损，单纯要求其行使意志控制不仅无效，反而会加剧挫败感与心理创伤。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

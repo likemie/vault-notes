@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Ignatz Bubis
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国犹太裔商界领袖、自由民主党（Freie Demokratische Partei, FDP）政治家，德国犹太人中央理事会主席（1992–1999 年在任），法兰克福犹太社群领袖。
@@ -69,17 +65,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1993 — *Ich bin ein deutscher Staatsbürger jüdischen Glaubens* （我是犹太信仰的德国公民）** 阐发犹太公民作为德国宪政民主平等主体的政治身份认同。
 > - **1999 — *“Geistige Brandstiftung”? Die [[Walser-Bubis Debate|Walser-Bubis-Debatte]]*** 汇编并深化其在论战中关于历史记忆、国家道德义务与反犹主义防线的论述。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 对纳粹大屠杀罪责的公开、制度化铭记与忏悔是战后德国重返文明世界、确立宪政爱国主义（Verfassungspatriotismus）不可动摇的道德基石；任何试图以“厌烦耻辱展示”或“道德大棒”为由将奥斯威辛私有化、相对化或边缘化的企图，都是危险的“精神纵火”，将为极右翼历史修正主义与反犹主义复活打开缺口。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
 
 > [!citation-card] 布比斯论对大屠杀记忆的公共责任底线
@@ -89,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **德国宪政与纪念文化路径** 确立了战后德国对大屠杀罪责必须保持不可抹杀之国家公共记忆的宪政伦理原则。
 > - **少数族裔与公民权利保障** 强化了德国犹太人社群及其他少数群体在联邦共和国作为平等主体的政治发声权与尊严保障。
 > - **地缘战略与国家认同反思** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中分析布比斯与瓦尔泽的辩论，指出该论战揭示了战后欧洲在彻底否定历史罪责与重建有效国家认同与防务威慑意志之间的深刻张力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 203–204)]]
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **所涉核心事件** [[Walser-Bubis Debate|瓦尔泽-布比斯之争]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 历史与伦理争议
 >

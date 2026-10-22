@@ -81,11 +81,8 @@ status: draft
 created: 2026-10-08
 updated: 2026-10-20
 ---
-# Argument_Karp_Zamiska_2025_Technological_Republic_Ch14
 
 ---
-
-## 本章主旨
 
 > [!chapter-question]
 > 在现代大型企业与公共机构普遍推崇讨好文化与刻意回避冲突的背景下，真正的颠覆性创新为何必须建立在建设性人际摩擦与心理抗压能力之上？从[[René Girard|勒内·吉拉尔]]（[[René Girard|René Girard]]）的[[Mimetic Theory|模仿欲望理论]]到[[Ralph Waldo Emerson|拉尔夫·沃尔多·爱默生]]（[[Ralph Waldo Emerson|Ralph Waldo Emerson]]）的《论自信》，从众本能与理论教条如何导致科技行业陷入同质化的衍生性微创新？[[Isaiah Berlin|以赛亚·柏林]]（[[Isaiah Berlin|Isaiah Berlin]]）与[[Philip Tetlock|菲利普·泰特洛克]]（[[Philip Tetlock|Philip E. Tetlock]]）关于[[Hedgehog and Fox Model|刺猬与狐狸]]的思维模型，如何通过实证数据证明概率性动态认知对复杂战略预测的显著优势？结合[[Taiichi Ohno|大野耐一]]（[[Taiichi Ohno|Taiichi Ohno]]）在丰田创立的[[Five Whys|五问法]]（Five Whys）根本原因分析（Root Cause Analysis, RCA）与画家[[Lucian Freud|卢西安·弗洛伊德]]（[[Lucian Freud|Lucian Freud]]）的客观观察，追求实效、直面物理运行反馈的[[Engineering Mindset|工程思维]]如何构成了重塑[[Technological Republic|技术共和国]]的[[Epistemology|认识论]]基石？
@@ -291,8 +288,6 @@ updated: 2026-10-20
 
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Philip Tetlock|泰特洛克]]论人类追求[[Determinism|决定论]]规律与厌恶概率误差
 > 人类心智在迷宫实验中输给动物，是因为我们从本质上是决定论的思考者，厌恶那种承认错误不可避免的概率策略。

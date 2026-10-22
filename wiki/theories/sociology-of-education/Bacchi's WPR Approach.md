@@ -45,13 +45,9 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Bacchi's WPR Approach
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > WPR方法的核心前提是，政策并非对既定问题的中性回应，而是主动参与了问题的建构。政策文本中的“问题”并非客观存在，而是通过特定的表征方式被生产出来的。分析者应当追问的不是“如何解决这个问题”，而是“这个问题被表征为什么”（Bacchi, 2009）。
 > 
 > 该方法在理论上与批判政策社会学（Critical Policy Sociology）紧密关联，专注于质疑权力分配、[[Knowledge Production\|知识生产]]以及[[Policy Mobility\|政策流动]]（policy mobilities）背后的意图与机制（Ozga, 2021）。
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > 政策是通过将某些状况界定为“问题”来行使治理权力的。一旦某种“问题表征”获得官方[[Discourse|话语]]的权威地位，它就会主动建构社会成员的认知，并合理化特定的制度化干预手段（Bacchi, 2009）。
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] WPR 六步分析机制
 > WPR方法通过六个逐层递进的问题来审视和解构政策文本，从而揭示隐藏的治理逻辑（Bacchi, 2009, p. 2）：
@@ -74,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键概念与理论构件
-
 > [!theory-components] 关键构件
 > - **问题表征（Problem Representation）** 政策文本赋予问题的特定界定方式，构成了治理的起点。
 > - **预设（Presuppositions）** 使某种问题表征显得“理所当然”的底层信念或意识形态。
@@ -85,16 +77,12 @@ updated: 2026-10-22
 
 ---
 
-## 认识论与方法含义
-
 > [!theory-stance] [[Theoretical Standpoint\|理论立场]]
 > - **[[Ontology\|本体论]]（[[Constructivist Paradigm\|社会建构主义]]）** 认为社会问题不是独立于人的客观事实，而是由语言、权力和制度互动建构出来的产物（Bacchi, 2009）。
 > - **[[Epistemology\|认识论]]（[[Postpositivism\|后实证主义]]）** 拒绝将[[Policy Science in Comparative Education\|政策科学]]视为中立的技术方案，强调任何[[Knowledge Production\|知识生产]]都嵌入在特定的权力关系中（Ozga, 2021）。
 > - **[[Analytical Stance\|分析立场]]** 关注被政策“沉默”的侧面（如教师工作量、制度性资金不足等），认为沉默的侧面往往比被明文纳入的条款更能暴露治理权力的真实走向（Bacchi, 2009）。
 
 ---
-
-## 分析框架与使用方式
 
 > [!theory-use] 政策解构工具
 > WPR方法作为一种强大的[[Analytic Framework\|分析框架]]，帮助研究者跳出政策制定者设定的“问题-解决”闭环。在教育政策研究中，它被广泛用于揭示教育改革背后的“[[Policy Network\|理念编排]]”（idea orchestration）和新自由主义问责网络的形成（Ozga, 2021）。
@@ -103,15 +91,11 @@ updated: 2026-10-22
 
 ---
 
-## 适用边界
-
 > [!theory-boundary] 分析局限
 > - **[[Discourse|话语]]偏重** 该方法极度倚重对文本和话语的解构，在分析具体政策在复杂学校环境中的微观实施（enactment）与物质妥协时需要辅以其他社会学方法。
 > - **分析者主观性** 确定哪些议题属于“沉默”或“排除”，高度依赖研究者自身的[[Theoretical Standpoint\|理论立场]]，容易引入研究者的主观价值偏见。
 
 ---
-
-## 争议与批评
 
 > [!tension] 争议焦点
 > - **线性结构的张力** 虽然六个问题在逻辑上是递进的，但在实际分析中，问题表征的形成（Q3）、沉默（Q4）与效果（Q5）通常是高度共生且互为因果的，难以在文本分析中做绝对的线性割裂。

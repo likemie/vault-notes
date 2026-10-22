@@ -64,7 +64,6 @@ citation_aliases:
   - "Swick & Jones, 2025"
   - "Swick & Jones (2025)"
 ---
-# Argument_Swick_Jones_2025_AcademicHealthSystems
 
 > [!question]
 > [[Applied Medical Innovation\|医用创新]]（Applied Medical Innovation, AMI），即整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，其[[University-Industry Collaboration\|产学合作]]面临一个结构性矛盾：从临床需求识别、基础研究发现、产品开发到[[Clinical Trial\|临床试验]]和规模化部署，每个阶段都要求大学、产业和医院之间深度协作，但三者的治理模式、核心目标和回报定义截然不同。大学追求研究发表和学生培养，产业追求市场和利润，医院追求患者安全和当前最佳标准的诊疗。谁来充当各方之间的翻译者和促进者？什么样的组织载体能够同时容纳科学、医学、教学和创新四种逻辑，使产学合作在医用创新中高效运转，而不是在各方的优先级冲突中停滞？
@@ -315,9 +314,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - [[Academic Health System\|AHS]] 是一种与 [[Academic Medical Center\|AMC]] 在组织结构、优先事项和能力上存在实质差异的独特组织形态。其混合学术、临床和产业三种逻辑的结构性特征（"中心辐射"网络、双向学术管线、多元化伙伴组合）使其成为 [[Applied Medical Innovation\|AMI]] 类[[University-Industry Collaboration\|产学合作]]的理想促进者(pp.179–182)。
 > - [[Physician-Scientist\|医师科学家]]是 AMI 的关键催化者，但面临严重的时间挤压（研究可用时间中 44.3% 花在行政任务上）和超亚专业化带来的跨学科沟通障碍。AHS 通过专门基础设施（如 Houston Methodist Bookout Center、快速装置转化中心）来减轻这些负担(pp.176–177, 185–187, 195)。
 > - 七重结构性挑战（创新成本、监管负担、数据管理、问题复杂性与技术变革速度、超亚专业化、医师科学家时间挤压、合作光谱定位）共同构成了单一组织无法独立完成医用创新的论证。产学合作不是众多选项之一，而是穿越这些障碍的唯一路径(pp.182–187)。
@@ -338,9 +335,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "The 'secret sauce' for healthcare innovation (particularly in the United States) is [[Applied Medical Innovation]] (AMI)."(p.175)
 >
 > 医疗创新的秘密配方（特别是在美国）是医用创新（AMI）。

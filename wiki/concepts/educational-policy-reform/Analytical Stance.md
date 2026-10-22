@@ -72,11 +72,7 @@ created: 2026-09-02
 updated: 2026-10-22
 ---
 
-# Analytical Stance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **批判性分析立场（Analytical Stance，简称分析立场）**，是指教育实践者与公共行动者在面对外部学术研究证据、商业教育产品、政策改革倡议以及跨界资本渗透时，所秉持的一种主动审验研究质量、探询因果机制、评估情境适切性并穿透修辞包装的专业认知与制度审议立场。在微观[[Evidence-Based Education|循证教育]]维度，[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017, pp. 130–131)]] 基于 Nora Carrier（2017）等人的研究强调，分析立场超越了被动遵从行政指令的技术顺从，构成了教师行使[[Professional Judgment|专业判断]]的[[Epistemology|认识论]]基石；在宏观政治经济学与公共治理维度（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），分析立场进一步拓展为公立学校、校董会与公民社会识别“隐性私有化”（Privatisation by Stealth）、穿透非营利/慈善包装并捍卫代议制民主问责的制度防线。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 130–131)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 6–7, 23–24)]]
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 批判性分析立场 vs 盲目权威遵从 vs 经验虚无主义 vs 纯技术研究技能
 > | 维度 | 批判性分析立场（Analytical Stance） | 盲目权威遵从（Blind [[Strategic Compliance\|compliance]]） | 经验虚无主义（Empirical Nihilism） | 纯技术研究技能（Technical Literacy） |
 > |---|---|---|---|---|
@@ -115,8 +109,6 @@ updated: 2026-10-22
 > | **专业能动性** | 主动探究者、情境重构者与公共利益[[Gatekeepers\|守门人]] | 被动执行技术员与商业产品消费者 | 封闭的个体经验孤岛 | 案头[[Documentary Analysis\|文献分析]]员 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **因果机制追问意识（Inquiry into Causal Mechanisms）** 不仅关注“是否有效”，更深入探究“它为何有效、在什么心理或社会机制下起作用”。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 130)]]
@@ -183,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -195,8 +185,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 分析立场思想脉络
 > - **1980s — Schön [[Reflexivity|反思性]]实践与问题重构** 唐纳德·A·舍恩（[[Donald A. Schön]]）提出实践者面对沼泽地般的复杂实践情境时，必须具备“行动中反思”的批判立场，奠定了分析立场的[[Epistemology|认识论]]根基。
 > - **2000s — Cochran-Smith 探究作为立场（Inquiry as Stance）** 玛丽莲·科克伦-史密斯（Marilyn Cochran-Smith）提出将探究内化为教师专业生活的基本立场，坚决反对将教育研究仅视作外部技术工具。
@@ -205,8 +193,6 @@ updated: 2026-10-22
 > - **2017 — Carrier 与 Nelson & Campbell 确立针对证据审验的分析立场** 针对教育[[Research Utilization|证据使用]]生态中的[[Persuasive Communication in Education|说服性修辞]]泛滥，系统将“分析立场”界定为教师甄别研究质量、抵御商业化教育时尚的核心认知防线。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与制度张力
 >

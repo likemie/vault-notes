@@ -53,11 +53,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Learnology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **微观学习学（Learnology，亦作 Learneology）** 是 20 世纪晚期英国比较教育学派开创的微观[[Qualitative Research|质性研究]][[Paradigm|范式]]，由英国学者[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot, 1999）正式提出。该范式主张将跨文化比较的视线从宏观的国家学制、财政投入与标准化测验产出，转向教育活动最核心的发生地——课堂，系统考察处于特定文化与社会契约之中的学生如何建构学习者身份、体验评价[[Discourse|话语]]并实现心智发展，致力于在微观深度上复兴比较教育的人文关怀。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习学与相关学术进路的维度辨析
 > | 辨析维度 | 微观学习学（Learnology） | [[Comparative Pedagogy\|比较教学论]]（Comparative Pedagogy） | 传统宏观比较教育（Macro Comparative Education） |
 > |:-----|:-----|:-----|:-----|
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > | **学术旨趣** | 理解跨文化学习者的人性与尊严 | 揭示教学法背后的深层文化精神与教育契约 | 为国家人力规划与宏观治理提供决策参考 |
 
 ---
-
-## 核心要素
 
 > [!feature] 比较学习学的核心分析构件
 > - **学习者主体性与认同建构** 关注在不同文化与制度形态下，儿童如何将自己建构为“成功者”或“失败者”，考察文化价值对学习[[Self-Efficacy|自我效能感]]的根本塑造。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]

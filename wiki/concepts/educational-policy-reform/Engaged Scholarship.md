@@ -61,11 +61,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Engaged Scholarship
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）** 指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并转译应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也不在于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 理论—实践脱节的三重解释框架（Van de Ven & Johnson, 2006; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]）
 > | 比较维度 | [[Knowledge Transfer\|知识转移]]取向（Transfer Problem） | 知识形态异质取向（Distinct Knowledge Forms） | [[Knowledge Production\|知识生产]]取向（Engaged Scholarship） |
 > |---|---|---|---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **动员[[Paradigm\|范式]]对应** | 第一代：线性模型（Linear Model） | 第二代：关系模型（Relationship Model） | 第三代：复杂系统共创模型（Systems Model） |
 
 ---
-
-## 核心要素
 
 > [!feature] 参与式学术的核心要素构成
 > - **劣构难题的联合界定（Collaborative Problem Formulation）** 探究的逻辑起点是一线教育治理或课堂教学中真实遭遇的劣构困境（ill-structured problems），而非学者依据单纯文献空白（gap-spotting）自上而下设定的假设。
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 参与式学术的概念演变历程
 > - **2006 — 理论奠基与三大框架确立** Andrew H. Van de Ven 与 Paul E. Johnson 发表论文，系统区分理论—实践脱节的转移问题、形态异质问题与生产方式问题，正式奠定“参与式学术”的概念基石。
 > - **2007 — 专著体系化与[[National Competitive Advantage|钻石模型]]问世** Van de Ven 出版专著 *Engaged Scholarship: A Guide for Organizational and Social Research*（牛津大学出版社），系统构建由[[Problem Finding\|问题界定]]、理论建构、研究设计与解决问题组成的四大钻石循环模型。
@@ -159,8 +149,6 @@ updated: 2026-10-22
 > - **2022 — 复杂系统研究生态视角的整合** [[OECD]] [[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）在 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 中将参与式学术置于[[International Education\|国际教育]][[Research Utilization\|研究利用]]的复杂系统网络之中，揭示其作为超越线性转移、达成全系统[[Knowledge Production\|知识生产]]与使用良性循环的关键纽带。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与局限反思
 >
@@ -176,8 +164,6 @@ updated: 2026-10-22
 > > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] & Enthoven & de Bruijn (2010)** 真正的协同生产内生保证了研究对特定学校的关涉度，但这类局部知识高度嵌入于本土信任与微观文化。要使其升华为具备广泛指导价值的显性通用知识，必须在不同情境下展开长周期的重复验证与迭代整合；然而由于资源短缺，这类跨情境验证在现实中极少发生。
 
 ---
-
-## 应用案例
 
 > [!case] 案例一：[[Teaching and Learning Research Programme\|英国教与学研究计划]]（TLRP）的伙伴关系与联合[[Knowledge Production\|知识生产]]
 > 在英国开展的[[Teaching and Learning Research Programme\|教与学研究计划]]（TLRP, 2000–2011）中，项目团队系统落实参与式学术理念。大学研究人员与一线中小学教师共同组建联合课题组，从立项论证起共同商定课堂改进目标，协同收集教学反思与学业增值数据，使学术研究成果直接转化为一线教师能切实掌握的教学策略。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 21)]]

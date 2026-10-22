@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Robert Bellah
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名宗教社会学家，加州大学伯克利分校福特社会学教授（Elliott Professor of Sociology emeritus），美国国家人文奖章获得者。
@@ -70,17 +66,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1967 — *[[Civic Religion|civil religion]] in America* （美国的公民宗教）** 系统论证美国存在独立于宗派教会的公民宗教维度，以出埃及、立约、牺牲等象征符号维系国家道德共识。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 > - **1985 — *Habits of the Heart* （心灵的习性）** 结合托克维尔视角，批判现代功利个人主义与表达个人主义造成的社群瓦解。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 世俗民主宪政体制的稳定运行无法单靠薄弱的利益算计与功利法理，必须依赖于一套与宗派教会相区别、深植于国家历史牺牲与立约神圣性的“[[Civic Religion|公民宗教]]”维度；当社会过度沉溺于原子化个人主义并解构公共神圣叙事时，政治共同体的道德资本将迅速枯竭，引发广泛的公共冷漠与社会解体危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Bellah, 1967; Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!citation-card] 贝拉论制度化公民宗教的完整性
@@ -90,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **宗教社会学与政治哲学路径** 开创了当代[[Civic Religion|公民宗教]]研究领域，推动社会学界由单纯研究教会建制转向探讨世俗政治秩序中的神圣象征与道德整合机制。
 > - **社群主义思想运动** 《心灵的习性》直接启发了 1980–1990 年代西方社群主义对新自由主义极端个人主义的系统反思。
 > - **现代[[Technological Republic|技术共和国]]的文化道德资本重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用贝拉概念，指出科技精英与现代政体必须重新珍视公民宗教遗产，以防止民主国家沦为纯粹的物质交易市场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **当代应用与对话** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 将[[Civic Religion|公民宗教]]作为[[Technological Republic|技术共和国]]不可或缺的[[Soft Belief|软信念]]基石。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

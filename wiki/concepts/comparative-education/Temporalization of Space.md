@@ -48,11 +48,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Temporalization of Space
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 空间的时间化（Temporalization of Space，亦称空间的历时化）是指自欧洲[[Enlightenment|启蒙运动]]以来在西方哲学、历史学与社会科学中占据统治地位的一种[[Epistemology|认识论]][[Paradigm|范式]]。它将原本共时并存的全球地理差异与异质文化，生硬地折算、投射并依附于一条单线演进的人类历史时间轴上；跨越地理距离的空间旅行被构想为跨越文明阶段的时间旅行（Time Travel），生活在异域的非西方人群与本土少数群体则被贴上文明早期的原始（Primitive）标签。在比较教育学中，该概念用于解构追赶式现代化发展论，批判将边缘群体聚居空间预设为“道德规范欠缺、急需外部开化补偿”的教育殖民倾向。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
@@ -82,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **时间旅行者的帝国视线（Imperial Gaze of Time Travellers）** 欧洲远航者与殖民官员自居为站在文明终点的观察者，将跨洋地理位移等同于回溯人类童年史的考察之旅。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Leed, 1991; Sobe & Fischer, 2009, p. 360)]]
 > - **原始范畴的时间化建构（Invention of the Primitive）** 将原住民社群直接比附为古罗马人或未开化野蛮人，用历时性的野蛮与开化之别取代共时性的文化差异。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sayre, 1997; Sobe & Fischer, 2009, p. 360)]]
 > - **边缘空间文明欠缺的预设（Spatial Deficit of Civility）** 将少数族裔、流动人口与非西方群体的聚居空间判定为缺乏现代文明道德规范与发展动力的荒原。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Popkewitz, 1998; Sobe & Fischer, 2009, p. 360)]]
@@ -133,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 历史进步规律的客观性 vs 空间异质共存的拓扑正当性之争
@@ -164,8 +154,6 @@ updated: 2026-10-22
 > 解构空间的时间化旨在消除文明歧视与殖民优越感，但不能否认特定地区在教育公共服务、识字率与物质设施上确实存在的客观差距；研究者应避免用[[Cultural Relativism|文化相对主义]]掩盖急需通过公共政策解决的物质贫困问题。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

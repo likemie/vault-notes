@@ -54,16 +54,12 @@ created: '2026-05-13'
 updated: 2026-10-22
 ---
 
-# EU Skills Agenda
-
 > [!info] 背景
 > [[EU]] Skills Agenda（欧盟技能议程）全称"欧洲新技能议程"（A New Skills Agenda for Europe），由欧盟委员会于 2016 年发布，是 [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一。该议程融合了[[Welfare-to-Work|积极劳动力市场政策]]（Active Labour Market Policies, ALMPs）与欧盟教育培训战略（EU Education and Training Strategy），旨在同时提高就业率和生产率水平(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
 >
 > Skills Agenda 的提出回应了三重挑战：技能短缺与技能错配（skills mismatches）、数字转型对劳动力技能的冲击、以及早期辍学（early school leaving）对社会凝聚力的威胁。议程的核心理念是：技能形成既需要教育培训体系的支撑，也需要积极劳动力市场政策的介入——这两者不再被视为独立的政策领域([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169, 170]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > Skills Agenda 的核心框架围绕三个层面展开(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–171]])：
 >
 > **提升低技能成年人技能水平** 要求成员国通过"技能保障"（Skills Guarantee）路径为低技能成年人提供提升技能（upskilling）的机会，涵盖在职和失业人群。目标是改善其识字、计算和数字技能，并在可能的情况下获得更高一级的学历资格（European Commission, 2016，引用于 Rambla, 2022, p.171）。
@@ -105,9 +101,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 - **南欧和东欧** 政策网络较弱，专业人员缺乏系统的 [[Theories of Policy Change]] 支撑，倾向于依赖对青年受益人的负面刻板印象组织服务。选择性效应在此更为显著——"帮助青年尽快找到任何工作"成为压倒性的实践取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])
 - **意大利利古里亚和西班牙加泰罗尼亚** 第二机会学校展示了自下而上的创新路径，从"最后一搏的补救站"演变为"教育性、高标准的服务机构"。在加泰罗尼亚，非营利组织先行创建模式再寻求公共支持，形成了新型政治关系（p.173）
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > - Skills Agenda 成功将"教育培训体系"建构为[[EU|欧盟]]政策[[Discourse|话语]]中的核心概念，使其与"[[Innovation Ecosystem\|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170–171]])
 > - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方[[Theory of Change\|变革理论]]内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 

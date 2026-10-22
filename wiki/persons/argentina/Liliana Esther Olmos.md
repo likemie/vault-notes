@@ -54,11 +54,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Liliana Esther Olmos
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔比较教育社会学者，长期在加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院从事研究工作。
@@ -78,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2009 — *Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches*** （与 托雷斯合著，收录于《比较教育学国际手册》）系统构建国家理论与教育扩张的宏观政治经济学[[Analytic Framework|分析框架]]，批判世界体系论与世界文化论，奠定[[Conditioned State Theory|受限国家理论]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–86)]]
 > - **2011 — *In the Shadow of Neoliberalism: Thirty Years of Educational Reform in North America*** （与 托雷斯及 Rich Van Heertum 合编）系统剖析新自由主义重组三十年来对北美及拉美教育、公民身份与民主政治的深刻冲击。
 > - **拉美教育政治社会学与扫盲研究** 长期参与拉美成人教育政策演进、教师工会运动与替代性教育方案的经验考察与批判反思。
 
 ---
-
-## 核心思想
 
 > [!claim] 拒绝非历史的普世扩张论，主张资本积累与政治合法化的双重视角
 > 奥尔莫斯强调研究第三世界国家的教育扩张，绝不能套用欧美发达国家的均质化现代化叙事，亦不能采纳假定战后存在单一文化体系的普世[[World Society Theory|世界社会理论]]。必须回到资本积累与政治合法化的历史辩证法，考察特定民族国家接入全球资本体系的时点与方式、前殖民与殖民教育遗产，以及本土阶级结构，方能深刻理解拉美教育系统长期存在的阶级分选[[Dual School System|双轨学制]]与公共职能脆弱性。
@@ -99,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了比较教育社会学对国家机器自主性与依附性边界的辩证认识，将[[Conditioned State Theory|受限国家理论]]确立为剖析第三世界教育不平等的重要典范。
 > - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（内生与[[Exogenous Privatisation|外生私有化]]）的霸权[[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **区域研究路径** 深化了拉美[[Critical Pedagogy|批判教育学]]与成人扫盲运动对[[State Corporatism|国家法团主义]]（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。

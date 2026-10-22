@@ -38,9 +38,6 @@ status: draft
 created: 2026-07-12
 updated: 2026-10-22
 ---
-# Matched Pairs Design
-
-## 定义
 
 > [!def] 配对设计
 > 配对设计（Matched Pairs Design）是[[True Experimental Design\|真实验设计]]的一种变体：受试者首先在若干被认为重要的[[Independent Variable\|自变量]]上配对，然后将每对成员[[Random Assignment\|随机分配]]至控制组和实验组。随机化发生在**配对的层面**而非整组的层面（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 322–323]]）。
@@ -53,8 +50,6 @@ updated: 2026-10-22
 > - **[[Unit of Analysis\|分析单位]]** 配对个体——分析以配对为单位（如配对 t 检验）。
 > - **输出形式** 配对比较的处理效应估计 + [[Effect Size\|效应量]]。
 
-## 方法定位
-
 > [!method-position] 在实验设计中的位置
 > - **与纯[[Random Assignment\|随机化]]的关系** 随机化在整个[[Variable\|变量]]范围内产生等价性（Smith, 1991, p. 215），但需要**足够大的样本**才能有效运作。配对设计在小样本中提供了额外的保障——即使随机化偶然失衡，配对确保了关键变量上的等价。
 > - **有效性标准** 比纯随机化在小样本中更稳健——匹配变量上的组间差异被强制消除。但控制力仍弱于大样本随机化（因为只控制了命名变量）。
@@ -65,8 +60,6 @@ updated: 2026-10-22
 > - **数据收集** [[Pre-test and Post-test\|前测]]数据（用于配对）+ 后测数据（用于比较）。
 > - **分析方法** 配对 t 检验、配对比较的[[Effect Size\|效应量]]。
 > - **辅助技术** 配对标准的定义（匹配区间）；排序配对作为折衷。
-
-## 研究程序
 
 > [!warrant]- 为什么先配对再[[Random Assignment\|随机分配]]？
 > 随机化在大样本中有效，但在**小样本**中可能偶然产生不等价的组（如全部阅读障碍者落入同一组）。配对设计通过在关键[[Variable\|变量]]上**先匹配、再随机分配**，确保两组在这些变量上等价——即使[[Sample Size Determination\|样本量]]很小。代价是：(1) 需要[[Pre-test and Post-test\|前测]]所有候选参与者；(2) 难以找到精确匹配会导致[[Attrition\|样本流失]]；(3) 只控制了匹配变量，未匹配的变量仍可能混淆。Smith (1991, p. 215) 指出，匹配远不如随机化——因为随机化控制**所有**变量，匹配只控制**命名**变量。
@@ -98,8 +91,6 @@ Mitchell and Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题
 > [!info] 资料与分析
 > 配对设计的分析以**配对**为[[Unit of Analysis\|分析单位]]——不是比较两组的均值，而是比较每对内部实验组成员与控制组成员的**差异分数**。配对 t 检验是标准的分析方法。如果配对[[Variable\|变量]]与[[Dependent Variable\|因变量]]高度相关，配对设计可以显著减少误差方差，提高统计检验力。但需要注意：如果配对变量选择不当（与因变量相关性低），配对不仅不能减少误差，反而会因为损失自由度而降低检验力。
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** [[Sample Size Determination\|样本量]]较小、[[Random Assignment\|随机化]]可能偶然失衡时；有明确的与[[Dependent Variable\|因变量]]高度相关的配对[[Variable\|变量]]时；需要在小样本中确保组间等价性时。
 > - **谨慎使用** 配对变量数量过多时——越难找到匹配样本；配对变量与因变量相关性低时——配对不能有效减少误差。
@@ -118,8 +109,6 @@ Mitchell and Jolley (1988, p. 103) 提出比较两组时需考虑的三个问题
 > | [[Random Assignment]] | 方法 | 互补技术——随机化在配对之后施加于每对内部 |
 > | [[Matching]] | 方法 | 核心操作——配对是匹配技术在实验设计中的具体应用 |
 > | [[Repeated Measures Design]] | 方法 | 逻辑延伸——配对设计让不同但相似的人比较，重复测量让同一个人比较 |
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 系统介绍配对设计的逻辑、Borg and Gall (1979) 五步操作程序、配对精度的权衡、Mitchell and Jolley (1988) 三问题检验，以及 Smith (1991) 对配对 vs [[Random Assignment\|随机化]]的对比。

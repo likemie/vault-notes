@@ -96,7 +96,6 @@ citation_aliases:
   - "Klerides, 2023"
   - "Klerides (2023)"
 ---
-# Argument_Klerides_2023_CE
 
 ---
 
@@ -120,8 +119,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -133,8 +130,6 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
@@ -142,8 +137,6 @@ citation_aliases:
 > | **历史与当代案例检索**<br>Case Retrieval and Extraction | 从比较教育的历史文献与当代文献中检索与三大传统核心概念（权力、权威、武力）相匹配的学术议程、政策实践和大学建制安排(pp. 417–418)。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -158,9 +151,7 @@ citation_aliases:
 
 ---
 
-### 第一步：确立三大传统作为分析框架
-
-> [!claim|lead] 步骤一主张
+> [!claim] 第一步：确立三大传统作为分析框架
 > 国际关系的三大思想传统对国际社会性质有着截然不同的底层设定，这决定了学术研究和政策实践对国家行为模式的规范性预期(p. 417)。
 
 > [!theory-components] 怀特[[Wight's Three Traditions of International Theory\|国际关系三大传统]]
@@ -183,9 +174,7 @@ citation_aliases:
 
 ---
 
-### 第二步：现实主义如何塑造比较教育
-
-> [!claim|lead] 步骤二主张
+> [!claim] 第二步：现实主义如何塑造比较教育
 > 从现实主义视角出发，比较教育是一系列务实而行动导向的工具，旨在帮助国家最大限度地提升权力能力、获取或维持国际地位。这一形态被称为现代主义比较教育，它以领土和[[Geopolitics|地缘政治]]的术语阅读社会空间(pp. 419–420)。
 
 > [!dev-timeline] 现实主义比较教育的演进脉络
@@ -220,9 +209,7 @@ citation_aliases:
 
 ---
 
-### 第三步：理性主义如何塑造比较教育
-
-> [!claim|lead] 步骤三主张
+> [!claim] 第三步：理性主义如何塑造比较教育
 > 从理性主义视角出发，全球治理机制和多边主义的兴起，将比较教育从国家主导的借用工具重塑为分析分散权威（dispersed authority）的治理平台，并将比较本身重构为一种[[Governing at a Distance\|远处治理]]的政治技术(p. 425)。
 
 > [!dev-timeline] 理性主义比较教育的演进脉络
@@ -253,9 +240,7 @@ citation_aliases:
 
 ---
 
-### 第四步：革命主义如何塑造比较教育
-
-> [!claim|lead] 步骤四主张
+> [!claim] 第四步：革命主义如何塑造比较教育
 > 革命主义将国际秩序解构为压迫与被压迫的阶级与殖民支配结构。这推动比较教育成为一项道德批判事业，旨在揭露不平等、挑战殖民性并为被压迫群体争取解放(p. 426)。
 
 > [!dev-timeline] 革命主义比较教育的演进脉络
@@ -284,9 +269,7 @@ citation_aliases:
 
 ---
 
-### 第五步：综合与前瞻：中美对抗、美俄对抗下的学科未来
-
-> [!claim|lead] 步骤五主张
+> [!claim] 第五步：综合与前瞻：中美对抗、美俄对抗下的学科未来
 > 三大传统并非替代性的历史分期，而是共存且交叉于学科过去的理论形态；学科的[[Agendas of Attention\|注意力议程]]必然随着国际关系格局的转变而重新分配(p. 431)。
 
 > [!conclusion] 比较教育是国际关系的产物与学科矛盾的解释
@@ -320,8 +303,6 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **多重比较教育形态的建构** 比较教育的不同学术形态（现实主义的现代主义借用、理性主义的[[Governing at a Distance\|远处治理]]、[[Revolutionism\|革命主义]]的道德解放）并非简单的学派分歧，而是对国际社会性质底层预设的直接反映(p. 417)。
 > 2. **学科内部矛盾的政治性解构** [[Policy Borrowing\|政策借用]]与情境理解的冲突、技术评估与批判解放的对立，本质上是现实主义（权力斗争）、理性主义（规范治理）与革命主义（支配抵抗）冲突的表征，具有不可消除性(p. 431)。
@@ -329,8 +310,6 @@ citation_aliases:
 > 4. **地缘新变局下的学科走向** 随着美俄军事对抗再显主权回归，以及中国在[[De-Westernisation\|去西方化]]权力矩阵中的经济博弈，比较教育将重设注意力议程以服务于新的集团生存或去西方化修辞(pp. 429–430)。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 理论反思的缺失
 > 中文译文：我们从未系统性地运用国际理论的透镜来阐述我们这一领域的身份、历史和未来。(p.416)
@@ -353,8 +332,6 @@ citation_aliases:
 > *How do we write about the field in ways that are not simply guided by the optimism of rationalism nor the moral passion of [[Revolutionism]], but that also include a realist(ic) flavour without its cynicism?*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与研究建议
 > - **怀特传统作为理想类型的局限** 三大传统是高度简化的理想类型，并不代表经验现实的全部，且它们诞生于欧洲，具有根深蒂固的西欧中心主义底色(p. 431)。

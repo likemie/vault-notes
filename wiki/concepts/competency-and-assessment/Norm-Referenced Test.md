@@ -37,11 +37,7 @@ created: 2026-08-01
 updated: 2026-10-22
 ---
 
-# Norm-Referenced Test
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 常模参照测验（norm-referenced test）把个体的测验表现转换为量表分数，再与参照群体的分数分布比较，用排名、百分位或其他相对位置说明个体在群体中的位置。它适合识别和比较个体差异，但不能直接说明学生具体学会了什么，也不以判断学生是否达到课程目标为首要任务。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]；[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 69)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!tension-table] 常模参照与[[Criterion-Referenced Test\|标准参照]]采用不同的总结性评估逻辑
 > | 维度 | [[Norm-Referenced Test\|常模参照]] | [[Criterion-Referenced Test\|标准参照]] |
 > |---|---|---|
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > [[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 69–70)]]
 
 ---
-
-## 核心要素
 
 > [!feature] 常模参照模型的构成
 > - **参照群体** 个体分数只有放入某个群体的分布中才获得相对意义，群体的构成会影响排名或百分位的解释。
@@ -127,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 常模参照的主要命题
 > | 命题 | 核心判断 | 适用情境 | 代表来源 |
 > |---|---|---|---|
@@ -137,8 +127,6 @@ updated: 2026-10-22
 > | **曲线约束** | 预定分布把维持差异变成制度目标，使[[Constructive Alignment\|建构性对齐]]无法成立 | 大学总结性评分 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
 
 ---
-
-## 应用案例
 
 > [!evidence-grid] 典型使用与误用
 > - **选拔与排名** 需要确定申请者或受测者在参照群体中的相对位置时，常模参照能够提供直接信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]

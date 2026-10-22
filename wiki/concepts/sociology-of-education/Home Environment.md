@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Home Environment
-
 > [!metax] [家庭环境 · Home environment](https://www.visiblelearningmetax.com/influences/view/home_environment)
 > 家庭 › 家庭环境
 >

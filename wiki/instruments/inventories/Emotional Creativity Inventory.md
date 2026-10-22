@@ -43,11 +43,7 @@ created: 2026-09-03
 updated: 2026-10-20
 ---
 
-# Emotional Creativity Inventory
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Emotional [[Creativity]] Inventory (ECI)
 > - **工具类型** 心理自陈量表（情绪特质与体验测评量表）。
@@ -56,8 +52,6 @@ updated: 2026-10-20
 > - **实施方式** 纸笔或在线[[Questionnaire\|问卷]]自陈（无时间限制，平均施测耗时 8–10 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 情绪[[Creativity\|创造力]]（Emotional Creativity）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -70,14 +64,10 @@ updated: 2026-10-20
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 针对个人情感生活体验与信念的第一人称陈述句。
 > - **作答格式** 5 点李克特（Likert）等级标度（1 = 非常不同意，2 = 比较不同意，3 = 不确定，4 = 比较同意，5 = 非常同意）。
 > - **反向题与跳题** 包含若干反向计分题（在统计合成前须先行翻转计分）；无跳题逻辑。
-
-### 核心测量维度代表性题项
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -90,8 +80,6 @@ updated: 2026-10-20
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -101,8 +89,6 @@ updated: 2026-10-20
 > | Mahasneh and Gazo (2019) | 阿拉伯语版 ECI | 约旦哈希姆大学本科生（$EG = 35 / CG = 32$），检验情绪智力与创造力干预课程对大学生情绪创造力各维度的塑造 | 内部一致性 $\alpha = 0.88$ | 干预组在 ECI 新颖性与有效性维度产生中等幅度的[[Pre-test and Post-test\|后测]]提升 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

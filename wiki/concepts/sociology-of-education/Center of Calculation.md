@@ -62,11 +62,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Center of Calculation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 计算中心（Center of Calculation，法文 centres de calcul），亦称算计中心或运算中心，是[[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour）在[[Actor-Network Theory\|行动者网络理论]]（Actor-Network Theory, ANT）中提出的核心概念，后被政治社会学（Rose, 1999）与批判性教育治理研究（Gorur, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）广泛采纳。它指代这样一种特定的制度化空间节点或组织机构：其核心功能在于将分散在遥远时空、充满[[Heterogeneity\|异质性]]的复杂现实对象（如不同地区和学校的教学、学生的实际学业水平），通过测量、编码与标准化程序转译为流动、稳定且可组合的标准化数据表征（immutable and combinable mobiles / inscriptions）；这些数据在中心节点被集中汇聚、分类统计、模型推演并二次计算，从而生产出具备全域可比性与行动指导力的治理知识，使中心得以在缺乏直接物理在场与行政强制的情况下实现远距离治理（Latour, 1987; Rose, 1999; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–138]]）。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 计算中心与相关组织机构形态辨析
 > | 维度 | 本概念：计算中心（Center of Calculation） | 传统行政科层机关（Bureaucratic Agency） | 独立学术研究机构（Academic Research Institute） |
 > |---|---|---|---|
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > | **治理功能** | 生产可比较基准、诊断镜像与标准对齐工具，实现远距离治理 | 下达硬性指标、行使人事任免与财政奖惩 | 提供理论反思与实证参考，不直接介入政策流程 |
 
 ---
-
-## 核心要素
 
 > [!feature] 计算中心运转的核心机制构件
 > - **标准化数据表征的生产（Production of Mobile Inscriptions）** 复杂的教学过程无法直接搬运到中心；计算中心必须通过统一题库、标准试卷和评分量规，将学生的即时表现转化为在纸张和网络中自由移动且结构不变的量化数据记录（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 138]]）。
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +145,6 @@ updated: 2026-10-22
 > | **平台中介与拓扑规训命题** | 计算中心依托在线平台推送标准任务，实现对微观课堂的直接标准引导 | 数字化[[Homework\|作业]]平台、国家题库系统与校本诊断工具 | [[Argument_Hartong_2018_GSE\|Hartong (2018, p. 144)]]; Gorur (2015) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 计算中心概念的理论演化
 > - **1987 年 — 科学技术学（Science, Technology and Society, [[Science and Technology Studies\|STS]]）的奠基** [[Bruno Latour\|布鲁诺·拉图尔]]在《行动中的科学》（*Science in Action*）中首次提出计算中心，阐述早期航海地图、天文台与帝国测量局如何通过收集标本与绘制图表实现对遥远殖民地的认知控制。
@@ -166,8 +154,6 @@ updated: 2026-10-22
 > - **2019 年 — 从单一中心走向分布式数据基础设施网络** 哈通与弗施勒（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）进一步指出，随着数字平台、商业教育科技（EdTech）与云服务的渗透，现代治理正从依托单一国家计算中心向多中心协同、权能分散的“分布式数据基础设施网络”演化。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -187,8 +173,6 @@ updated: 2026-10-22
 > 该概念适用于分析具有高度标准化测量程序、集中化数据处理机构与数字反馈机制的现代[[Output-Oriented Governance\|循证治理]]系统；对于完全依赖经验直觉、口头传承或高度去中心化无统一标准的传统教学[[Champ\|场域]]，该概念的解释力有限。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

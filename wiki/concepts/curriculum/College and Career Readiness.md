@@ -57,11 +57,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# College and Career Readiness
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 大学与职业就绪（College and Career Readiness, CCR）指高中毕业生在完成基础教育阶段学习后，无须修读非学分大学补习课程（Remedial courses），即可在具有[[Reliability|信度]]的高等教育学术学分课程（涵盖英语、数学、科学及社会科学）中取得合格成绩，或在无须二次补习基础技能的情况下直接进入具备职业晋升前景的高技能学徒与现代职场培训所需的学科知识、分析推理与[[Problem Solving|复杂问题解决]]能力综合[[Construct|构念]]。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1, 9, 13)]]
@@ -93,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **锚点标准（Anchor Standards）** 统摄整个基础教育体系的顶层素养规程，在十二年级出口端界定清晰的认知进阶终端，使各年级条文的研制拥有明确的因果目标。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13–14)]]
 > - **文本复杂度阶梯（Text Complexity Progression）** 依据美国大学测验组织（ACT）实证研究，将能够独立阅读深奥、高信息密度且包含复杂论证的非虚构文本与经典文选，确立为通向大学成功最关键的预测指标。
 > - **数学概念深度与逻辑连贯（Mathematical Coherence）** 强调打破宽一英里、深一英寸的知识点罗列，将数学学科本身的公理逻辑与[[Epistemic Ascent|概念进阶]]作为支撑职业与大学科学建模的底层支柱。
@@ -147,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 >
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -165,8 +157,6 @@ updated: 2026-10-22
 > - **2009–2010 年 — [[Common Core State Standards|CCSS]] 国家标准顶层锚定** [[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）正式将 CCR 确立为全美共同核心标准的立纲统领，并在 2010 年发布大学与职业就绪锚点标准终稿。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 12–16)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议交锋
 >

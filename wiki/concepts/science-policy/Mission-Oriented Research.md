@@ -59,11 +59,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Mission-Oriented Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 任务导向型研究（Mission-Oriented Research，亦称使命驱动型研究）是指由国家意志或公共治理中枢明确界定战略目标、围绕国家安全威慑、关键工业技术自立或重大社会挑战展开的定向研发组织[[Paradigm|范式]]。它打破了由科学家学术好奇心主导的自主探索传统，以“目标导向、需求牵引、集中动员、成果交付”为核心特征，将科研活动紧密嵌入国家竞争与产业政策框架之中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062, 1064)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 现代科研组织模式的三轨辨析
 > | 比较维度 | [[Curiosity-Driven Research\|自由探索型研究]] | [[Use-Inspired Basic Research\|应用启发型研究]] | [[Mission-Oriented Research\|任务导向型研究]] |
 > |:---|:---|:---|:---|
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **战略使命预设性** 研究方向完全从属于外部国家目标（如赢得 AI 竞赛、半导体独立、探月工程），研究人员不享有纯粹的选题自由裁量权。
 > - **跨部门垂直统筹** 打破学科与院系藩篱，形成“白宫/政府高层定向—部委统筹—骨干机构执行”的高效垂直动员链条。
 > - **公私伙伴与多元协作** 打破单纯依赖大学基础研究的局限，深度融合国家实验室的技术沉淀与私营科技资本的工程化能力。
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -161,16 +151,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 任务导向研发组织[[Paradigm|范式]]的历史演化
 > - **1940s–1970s — 战时与冷战初期军事防务任务期** 以[[Manhattan Project|曼哈顿工程]]、美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）、雷达网、阿波罗登月工程及[[DARPA|DARPA]]信息处理办公室为代表，在国家存亡与阵营威慑统摄下，建立起由联邦政府资助（峰值占全美研发支出 2/3）的大规模战略攻坚与首要采购模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
 > - **2010s — 重大社会挑战与使命导向扩张期** 以 2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》为标志，任务导向由纯国防工程扩展至气候变化、新能源、先进制造等宏大社会问题（[[Grand Challenges]]）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]与[[Technological Republic|技术共和国]]重构期** 在[[Technology-Oriented Social Contract|技术型社会契约]]与重塑[[Technological Republic|技术共和国]]诉求导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、[[Autonomous Drone Swarms|自主无人机蜂群]]、先进制程与量子计算为核心，推行“[[Genesis Mission|创世纪计划]]”与敏捷软件采办，打破公共部门[[Innovation Desert|创新荒漠]]，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11–15)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

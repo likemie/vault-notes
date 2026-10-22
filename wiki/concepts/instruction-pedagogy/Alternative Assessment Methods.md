@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Alternative Assessment Methods
-
 > [!metax] [替代性评价方法 · Alternative assessment methods](https://www.visiblelearningmetax.com/influences/view/alternative_assessment_methods)
 > 教学策略 › 反馈
 >

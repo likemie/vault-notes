@@ -98,7 +98,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Block_2008_PS
 
 ---
 
@@ -115,8 +114,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -129,8 +126,6 @@ issuing_organization: ""
 > 论文将宏观国家理论与中观创新社会学、政治经济学紧密结合：以[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]打破传统将基础研究与商业化截然二分的观点，确立国家介入应用转化的技术[[Epistemology|认识论]]基础；以 DNS 的四大网络职能统合分散在国防、能源、卫生与标准部门的微观政策工具；以波兰尼自调节市场神话破除主流舆论对美国自由放任传统的盲目崇拜；进而通过两党博弈与虚构商品理论，严密推导出隐形国家机制在公私利益分配、劳工技能培育和民主监督上的五大系统性弊端。（pp. 172–176, 182–186, 194–200）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -148,8 +143,6 @@ issuing_organization: ""
 > | **案例调研情境** | 涵盖 DARPA 战略计算倡议、能源部国家实验室、[[National Institutes of Health\|NIH]] 与百时美施贵宝（Bristol-Myers Squibb, BMS）紫杉醇研发合同、NIST 先进技术计划（Advanced Technology Program, ATP）与制造业拓展伙伴计划（Manufacturing Extension Partnership, MEP）的预算争夺与听证档案。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -424,8 +417,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **美国隐藏的[[Developmental Network State|发展型网络国家]]客观确立** 1980 年代的一揽子立法与跨部门组织学习催生了由 [[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、NIST 与 [[SBIR and STTR Programs|SBIR]] 等构成的分布式网络国家，打破了传统大企业封闭研发的垄断格局。（pp. 169–178）
 > 2. **[[National Innovation System|国家创新系统]]经历公私协作的结构性转型** R&D 100 获奖成果纵向数据证实，财富 500 强企业独立完成的前沿重大创新比例从 1975 年的 55% 暴跌至 2006 年的 7%；87.5% 的顶级商业化成果直接依赖联邦财政资助与跨机构协同。（pp. 186–187）
@@ -440,8 +431,6 @@ issuing_organization: ""
 > - **$35m vs $500m** NIH 研发抗癌药紫杉醇（Taxol）获得的商业专利版税总额与联邦医保 Medicare 单独为该药报销的支出对比。(p. 196)
 
 ---
-
-## 关键引用
 
 > [!citation-card] 爱伦·坡式隐喻：众目睽睽之下被隐蔽的国家科技体系
 > 各种发展型国家职能机构并非处于地下或秘密运作；相反，提供技术创新扶持的机构在商业界广泛宣传其服务，并在官网上炫耀成功案例。如同爱伦·坡小说中被窃的信件，[[Developmental Network State|隐藏的发展型国家]]就明明白白隐藏在众目睽睽之下。然而，由于[[Market Fundamentalism|市场原教旨主义]]意识形态的全面胜利，它在公共辩论中被彻底隐形了。由于该意识形态一口咬定私营部门天然高效、充满活力，而国家天然僵化笨拙，于是在概念上就根本没有容纳政府行动对美国技术活力至关重要这一事实的空间。(pp. 182–183)

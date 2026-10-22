@@ -40,11 +40,8 @@ status: draft
 created: 2026-09-22
 updated: 2026-10-22
 ---
-# Retrodiction
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 回溯推测（Retrodiction，亦称历史溯因或反向推测）是地质学、古生物学、进化生物学、考古学及宇宙学等历史科学（historical sciences）所特有的核心[[Epistemology\|认识论]]推理策略。由科学教育家 C. R. 奥尔特（C. R. Ault, 1998）等学者深入阐发，回溯推测旨在通过收集和分析当下地层、化石、同位素丰度或宇宙背景辐射中遗留的历史痕迹，反向推导并重构过去发生的独特、不可逆且不可重复的自然演化事件。与经典物理学和化学在受控实验室中基于普遍定律向前“预测”（Prediction）未来状态截然不同，回溯推测依靠多条独立且相互收敛的[[Chain of Evidence\|证据链]]来约束解释的歧义性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 151, 156)]]
@@ -61,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 回溯推测与前瞻性预测的[[Epistemology\|认识论]]辨析
 > | 维度 | 回溯推测（Retrodiction） | 前瞻性预测（Prediction） |
 > |---|---|---|
@@ -73,8 +68,6 @@ updated: 2026-10-22
 > | **典型案例** | 依据洋底地磁倒转条带反推大洋中脊扩张历史 | 依据牛顿力学方程精确计算日食发生的准确时刻 |
 
 ---
-
-## 核心要素
 
 > [!feature] 回溯推测的核心[[Epistemology\|认识论]]准则
 > - **独立收敛[[Chain of Evidence\|证据链]]** 
@@ -105,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 回溯推测核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -121,8 +112,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 科学教育[[Epistemic Practices\|认识论实践]]整合** Kelly & Licona 等人将回溯推测整合进科学教育认识论实践框架，用于指导板块构造等[[Big Ideas\|大概念]]的论证写作教学。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 151, 156)]]
 
 ---
-
-## 局限性与适用边界
 
 > [!warning] 适用局限
 > - **历史痕迹不完备性带来的欠决性** 随着年代久远，地质历史痕迹常被风化或俯冲消减破坏，容易导致多重竞争性假说在现有证据下处于经验欠决（Underdetermination）状态。

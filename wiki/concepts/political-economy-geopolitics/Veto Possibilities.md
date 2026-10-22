@@ -45,11 +45,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Veto Possibilities
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **否决可能性（Veto Possibilities）** 指政治宏观体制赋予维持现状阵营阻挠、封杀正式法律修改或实质政策重组的结构化能力。该概念由[[James Mahoney|马奥尼]]与希伦吸收并扩展[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis）的否决玩家理论建构而成；不仅涵盖宪法与议会体制中否决玩家（Veto Players）的数量与制度性否决点（Veto Points）分布，更取决于这些行动者是否拥有维持现状的主观利益偏好，以及该否决权在特定政策领域的特异性，构成判定制度渐进变迁路径的宏观政治[[Independent Variable|自变量]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 否决可能性与经典否决理论的维度辨析
 > | 维度 | 否决可能性（Veto Possibilities） | 否决玩家（Veto Players） | 否决点（Veto Points） |
 > |:---|:---|:---|:---|
@@ -77,8 +71,6 @@ updated: 2026-10-22
 > | **对变迁的预期** | 强否决逼迫行动者转向[[Institutional Layering\|层叠]]与[[Institutional Drift\|漂移]] | 强否决直接等同于政策绝对稳定（无变迁） | 否决点越多，重大立法通过概率越低 |
 
 ---
-
-## 核心要素
 
 > [!feature] 否决可能性的四大结构维度
 > - **制度性与体制外否决能力** 既涵盖宪法明确赋予的法定否决权（总统否决权、参议院超级多数门槛、宪法法院司法审查），也涵盖强大的利益集团通过体制外动员（总罢工、资本外逃、街头封锁）实施事实阻断的能力（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 18–19]]）。
@@ -128,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-## 经验案例与应用场景
-
 > [!case] 经验案例一：美国公立养老金与雇主私人养老金层叠（Hacker 案例）
 > - **国会强否决阻断新政扩展** 20 世纪中叶美国国会由南方保守民主党人与共和党保守派掌控关键委员会否决点，坚决封杀自由派扩大联邦社会保障（Social Security）公共给付水平的立法提案（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 19–20]]）。
 > - **规避否决转向税收层叠** 工会与进步派改革者在强否决约束下妥协，转而推动在联邦体系边缘通过税收减免层叠扶持基于企业的商业雇主养老金与私人健康保险，重塑了美国混合福利国家构型。
@@ -139,8 +129,6 @@ updated: 2026-10-22
 > - **法条冻结驱动选制漂移** 旧选举规则文本长期维持不变，但随着外部人口结构变迁，农村一票权重膨胀至城市的数倍，在法条一字未改的前提下实现了有利于执政党的[[Institutional Drift|制度漂移]]。
 
 ---
-
-## 学术争论与前沿对话
 
 > [!debates] 学术争议
 >

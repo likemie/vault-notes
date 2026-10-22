@@ -52,11 +52,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Rapid Assessment and Response Strategy
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **快速评估与响应战略（Rapid Assessment and Response Strategy, RARS）** 是美国[[Society for Research in Child Development\|儿童发展研究学会]]（Society for Research in Child Development, SRCD）创新设立的敏捷政策倡导与证据动员机制。该机制旨在打破传统学术同行评议动辄数月乃至数年的漫长周期，针对突发公共危机事件，在数日乃至数小时内组织权威跨学科专家团队快速系统聚合高质量实证证据，出具专业政策反应声明，精准咬合国家宏观立法的极速时间窗口。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对由突发事件激发的[[Policymaking Chronosystem\|政策制定时间系统]]——在校园枪击案或移民危机爆发后，国会议员通常在数小时内被迫公开宣布立场并锁定政见；若学术界无法在第一时间提供可靠实证支持，立法空间必将被缺乏科学依据的情绪化舆论所占据。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42, 47)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 机制假定：政策世界对科学证据的吸收并非由于学者产出不够，而是由于科学供给与政策议程的时间节律发生错位；通过在学会内部建立常态化、模块化的“快速战备响应团队”，学术界能够在公共危机爆发的第一时间将深奥复杂的因果证据转化为直截了当的官方定调声明，从而使研究证据成为议员公开立场的合法化支柱。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42, 47)]]
@@ -86,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **统筹决策机构（[[Society for Research in Child Development\|SRCD]] 政策委员会）** 负责研判外部危机性质、决定是否启动 RARS 战备响应并核准最终政策声明文本。
 > - **专项行动专家组（RARS Team）** 由对口领域的领军学者组成，负责在 24–72 小时内完成高质量实证证据的核实、提取与共识提炼。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
@@ -96,16 +88,12 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 关键成效与示范价值
 > - **打通突发[[Policy Window|政策窗口]]的敏捷通道** 成功证明学术社群能够在不牺牲科学底线的前提下，适应政治世界的极速节律，实现了学术知识库对国家突发立法的即时供给。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
 > - **提升学术组织的公共能见度与[[Discourse|话语]]权** 改变了传统专业学会仅在年度例会发表学术见解的被动状态，使学术学会转型为积极介入公共政策辩论的知识行动者。
 > - **为其他学科组织提供机制[[Paradigm\|范式]]** 启发了包括 [[American Educational Research Association\|AERA]]、APA 在内的诸多社会科学组织建立快速科学传播与政策突击工作组。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

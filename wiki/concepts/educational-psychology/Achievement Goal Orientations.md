@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Achievement Goal Orientations
-
 > [!metax] [掌握趋近目标 · Mastery goals - approach](https://www.visiblelearningmetax.com/influences/view/mastery_goals_-_approach)
 > 学生 › 动机取向
 >

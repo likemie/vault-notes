@@ -42,11 +42,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Next-Generation Microsystems Manufacturing
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 下一代微系统制造计划（Next-Generation Microsystems Manufacturing, NGMM）是由[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）于 2023 年正式启动的重大先导制造基础设施计划。该计划旨在通过建立全美首个开放共享的国家级[[Heterogeneous Integration|三维异构集成]]（3D Heterogeneous Integration, 3DHI）研发与中试制造中心，彻底扭转美国本土缺乏先进微互连与多材料垂直异构集成制造能力的战略被动局面，为国防任务与关键工业构建自主可控的微系统制造基底。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 27–28)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **核心问题导向** 彻底解决美国半导体企业与大学在开展尖端 3D 异构集成前沿研究时，因本土无代工产线而严重依赖东亚海外先进封装与中试代工设施的重大地缘脆弱性危机。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 27)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 下一代微系统制造计划的核心干预假说在于：通过政府高额资本开支建立一个具备工业级精度的本土开放式 [[Heterogeneous Integration|3DHI]] 中试制造中心，并配套开发标准化的[[Process Design Kit|装配设计套件]]（ADK）与自动化[[Hardware Security|硬件安全]]协议，能够将不同工艺节点制造的硅基数字逻辑、氮化镓射频芯片、磷化铟光子器件与高密度存储器在垂直空间实现微米级紧密堆叠，从而在摆脱二维单片物理微缩瓶颈的同时实现系统效能的数量级跃升。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 27–28)]]
@@ -77,16 +71,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2022 — 需求调研与概念论证** [[DARPA]] 发布针对国内 3D [[Heterogeneous Integration|异构集成]]制造能力的广泛信息征询书（RFI），确认美国本土在晶圆级微米/次微米键合与异构微系统流片能力上存在结构性空白。
 > - **2023 — NGMM 计划正式立项并招标选址** DARPA MTO 正式公布 NGMM 计划框架，启动数十亿美元级国家中心竞标，重点遴选能够兼顾国防高可靠要求与工业界广泛[[Open-Mindedness|开放性]]的牵头机构。
 > - **2024–至今 — 国家战略协同与平台基建启动** NGMM 被正式纳入白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，与商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）形成跨部委互补分工，正式开工建设本土 3DHI 洁净室试验线。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 27–28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **项目发起与管理机构** [[DARPA]] 微系统技术办公室（MTO），负责总体技术路线制定、里程碑考核与专项经费调拨。
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对多材料键合时的热膨胀系数（CTE）失配难题，依托在位计量与数字孪生实时优化反应温度与键合压力曲线。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 20, 27)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 联邦专项资助金额、先进封装与微互连设备采购就绪率、高标准洁净室建造达标面积。
@@ -119,8 +107,6 @@ updated: 2026-10-22
 > - **3** （部门协同） 与 DOC（[[National Science and Technology Council|NSTC]]/[[National Advanced Packaging Manufacturing Program|NAPMP]]）及 DOD（Commons）形成全美先进封装中试铁三角。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 27–28)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与治理反思
 >

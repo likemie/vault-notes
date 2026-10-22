@@ -45,11 +45,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Reciprocal Peer Questioning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 互惠同伴提问法（Reciprocal Peer Questioning, RPQ）是由 Alison King 开发的一种结构化同伴[[Dialogue in Education\|对话教学]]策略。教师向学生提供通用的高阶“提问句干”（Thought-Provoking Question Stems）作为[[Scaffolding\|认知脚手架]]，学生在自主阅读或讲授后，利用句干生成针对学习材料的深层问题，并在结对（Dyad）或小组中相互提问、阐明推理与辩护证据，从而实现知识的深层精细加工与[[Critical Thinking\|批判性思维]]发展。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 285)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 互惠同伴提问法与常规同伴互动辨析
 > | 维度 | 互惠同伴提问法（RPQ） | 常规同伴结对讨论（Dyad Talk） | 传统同伴辅导（[[Peer-Supported Learning\|peer tutoring]]） |
 > |---|---|---|---|
@@ -72,8 +66,6 @@ updated: 2026-10-22
 > | **主要认知负荷** | 整合新旧知识、建构[[Reflexivity\|反思性]]解释 | 维持交流顺畅 | 知识检索与步骤讲解 |
 
 ---
-
-## 核心要素
 
 > [!feature] 互惠同伴提问的三步实施程序
 > - **步骤一：讲授或阅读后独立生成问题** 学生在接受新知识后，对照教师发放的“高阶提问句干清单”，独立撰写 2–3 个针对当前内容的高阶问题。
@@ -101,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：学生自主提问对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 4$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.37$ $[-0.02, 0.77]$ | $Q(3) = 10.99, p = .012, I^2 = 72.70\%$ | 纳入实验与准实验；作为[[Dialogue in Education\|对话]]维度细分子策略检验 |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 实施边界
 > - **句干依赖与机械套用** 学生若未经充分训练，可能只是生硬套用句干填充词汇，缺乏实质性的认知投入。

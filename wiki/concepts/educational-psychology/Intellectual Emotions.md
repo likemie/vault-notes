@@ -57,11 +57,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Intellectual Emotions
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 理智情感（Intellectual Emotions，亦称[[Epistemology|认识论]]情感，Epistemic Emotions）是指认知主体在面对知识状态、信息缺口、证据矛盾、理论美感及求知探究活动时所体验到的特定情绪与情感反应，主要包括好奇心（Curiosity）、惊异（Wonder）、着迷（Fascination）、认识论困惑（Epistemic Confusion）及理智敬畏（Intellectual Awe）。在当代[[Virtue Epistemology|德性认识论]]（Virtue Epistemology）与教育心理学中，理智情感被视为将抽象的智力技能（Intellectual Skills）升华转化为稳定[[Epistemic Virtues and Vices|理智美德]]（Intellectual Virtues）的核心心理纽带与动力引擎，能够激发并维系主体对真理、深层理解与解释融贯性等认知善品（Epistemic Goods）的内在非功利热爱。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 278–282)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 理智情感与相关心理[[Construct|构念]]的比较
 > | 比较维度 | 理智情感（Intellectual Emotions） | 道德情感（Moral Emotions） | 审美情感（Aesthetic Emotions） | 功利化学业情绪（Achievement Emotions） |
 > |---|---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | **德性转化路径** | 转化为理智[[Humility\|谦逊]]、思想开放与探究[[Creativity\|创造力]] | 转化为同理心、正义与[[Benevolence\|仁爱]]美德 | 转化为审美鉴赏力与艺术直觉 | 难以自发转化为内在品格，易诱发外在工具主义 |
 
 ---
-
-## 核心要素与情感分类学
 
 > [!feature] 核心理智情感类型及其促学与德性功能
 > - **好奇心（Curiosity）** 指向认知缺口或未解谜题的主动求知渴望，引导注意力聚焦并驱动提出高质量探究问题。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, p. 280)]]
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -175,8 +165,6 @@ updated: 2026-10-22
 > - **2026 年 人工智能时代的理智情感教学法与美德培育** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 结合生成式 AI [[AI Agent in Education|智能体]]（Q-Tutor）的交互设计，提出通过个性化叙事隐喻唤起着迷与好奇等理智情感，阐明理智情感在防范[[Cognitive Deskilling|认知去技能化]]、培育[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等理智美德中的关键支架路径。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -199,8 +187,6 @@ updated: 2026-10-22
 > > - **批判派** 警告过度依赖算法定制叙事可能导致情感体验的算法饲养与同质化。
 
 ---
-
-## 教学案例与叙事唤起
 
 > [!example] 典型理智情感唤起与美德转化案例
 > - **蜘蛛织网叙事与[[Creativity|创造力]]美德共鸣** 在 Q-Tutor 的故事模式中，面对一位对昆虫世界着迷的学生，系统生成了一只蜘蛛在面临捕食者追捕时创造性织造非对称几何网逃生的故事。学生被蜘蛛的解困构想深深吸引并产生着迷情感，进而主动将创造力视为解决现实困境的高价值理智品格，并在后续学习中积极尝试提出发散性假设。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 281–282)]]

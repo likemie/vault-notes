@@ -37,11 +37,7 @@ created: 2026-06-10
 updated: 2026-10-20
 ---
 
-# Rational-Control Rhetoric
-
 ---
-
-## 定义
 
 > [!info] 核心定义
 > **理性/控制修辞（Rational/Control Rhetoric）** 是管理修辞分类学中的一个重要概念，指组织或系统在面临慢性、持续而缓慢的绩效下滑压力时，自发激活的一种技术统治主义[[Discourse|话语]]体系。这种修辞强调通过系统化、逻辑化和顺序规划的干预措施来追求确定性，其核心关切在于探寻“什么有效”（what works）以及“什么最有效”（what works best），以此建立标准化的控制结构并实现持续的改进。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 415]])
@@ -56,8 +52,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 管理修辞的双轨对比
 > | 维度 | 理性/控制修辞 (Rational/Control Rhetoric) | 规范/意向修辞 (Normative/Aspirational Rhetoric) |
 > |------|--------|----------------|
@@ -68,9 +62,7 @@ updated: 2026-10-20
 
 ---
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > 理性/控制修辞在慢性危机中将教育质量问题简化为数据指标，进而将泰勒制的效率逻辑与“唯一正确方法”引入教育行政管理。
 
 > [!logic-map]- 命题关系
@@ -90,15 +82,11 @@ updated: 2026-10-20
 
 ---
 
-## 理论语境
-
 > [!logic-map] 理论归属
 > - **管理修辞学（Management Rhetoric Taxonomy）** — 理性/控制修辞源自组织管理学中对理性控制修辞与规范修辞的交替规律研究（Abrahamson, 1997），被引入教育政策分析中（Hartley, 2010; Eacott & Norris, 2014）。
 > - **[[Cult of Efficiency\|效率崇拜]]与泰勒制** — 卡拉汉（Raymond Callahan）历史效率分析的延续。理性/控制修辞在 21 世纪的教育[[Discourse|话语]]中复活了泰勒制，通过将教学划分为最小可测量单元，试图建立一门可预测、可行政规训的“教学科学”。([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 419, 422]])
 
 ---
-
-## 应用案例
 
 > [!evidence-grid-a] [[Visible Learning\|可见的学习]]（Visible Learning，VL）与绩效责任制
 > - **VL的数据规训** — 在澳大利亚理性/控制修辞主导的教改语境下，Hattie 的VL提供的 138 个[[Effect Size\|效应量]]排行榜成为决策的绝对标尺。它通过[[Australian Institute for Teaching and School Leadership\|AITSL]] 的国家标准，促成了“无数据即无学习，无学习即无教学”的绩效问责逻辑，将举证责任倒置给一线教师。([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 420–421]])

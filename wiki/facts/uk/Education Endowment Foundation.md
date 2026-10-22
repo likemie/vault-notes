@@ -151,11 +151,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Education Endowment Foundation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 教育捐赠基金会（Education Endowment Foundation，EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由[[Sutton Trust\|萨顿信托]]（The Sutton Trust）与[[Impetus\|动力基金会]]（Impetus）联合设立并依托英国教育部 1.25 亿英镑留本基金运营，代表了从传统单向清算中心向因果证据生产 $+$ 综合转译 $+$ [[Research Schools Network\|研究学校网络]]深耕的现代[[Evidence Ecosystem\|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm\|范式]]演进（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 62]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–49]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]）。
@@ -168,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 机构发展与全球扩张历程
 > - **2011 — 创设与工具包研发** 依据 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]设想，Gove 在 [[Michael Barber]] 影响下推动设立，利用未扩大免费学生校餐的沉淀资金注资 1.25 亿英镑；[[Sutton Trust\|萨顿信托]]联合 [[Impetus]] 正式创立 EEF（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 90–91]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）；接手并深度拓展杜伦大学（Durham University）研发的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），以额外学习月数（[[Months of Progress]]）向全英学校输出排序指标。
 > - **2012–2015 — 成为全球最大的教育 [[Randomised Controlled Trials\|RCT]] 资助旗舰之一** 设立评估者专家库（Panel of Evaluators）公开竞标体系，建立方案[[Preregistration\|预注册]]与[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）纵向归档；累计委托逾 200 项大规模[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT），占过去十年全球已知教育试验的近两成（19%），且 70% 以上试验规模超过 1,000 人。自 2014 年起通过加大招募使试验[[Effective Sample Size\|有效样本量]]较早期翻倍，显著提升了统计功效，被斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 24]]）评价为全球最具活力的教育因果试验资助与管理平台之一（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 48–50]]）。
@@ -180,8 +174,6 @@ updated: 2026-10-22
 > - **2020–2023 — 跨国高管旋转门与因果证据输出** EEF 首任首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins）兼任 SVA 顾问并受邀出任澳大利亚 AERO 首届专家委员会委员，深度主导跨国因果[[Evidence Standards\|证据标准]]与工具包框架向国家科研体制的输入，形成跨国[[Policy Network\|政策网络]]与[[Network Governance\|网络治理]]的人事与知识回路（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 9–10]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 531]]）；2023 年发布《课堂中的认知科学》专题综述，系统推进基于[[Cognitive Load Theory\|认知负荷理论]]（Cognitive Load Theory）的显性教学规程。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与跨国网络
 > - **信托受托人理事会（Board of Trustees）** 机构最高决策权力层，由[[Peter Lampl\|彼得·兰普尔爵士]]担任主席，[[Sutton Trust\|萨顿信托]]代表、[[Impetus\|动力基金会]]（Impetus）代表、顶尖教育学者、前高级政务官及商界资深人士组成，统筹战略资助与资金配置。
@@ -285,8 +277,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Evidence-Based Policy-Making|循证决策]]工具包矩阵（Toolkits）** 研发国际公认的旗舰《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与《学前教育工具包》，综合 5,500 余项实证研究，以额外学习月数（[[Months of Progress]]）、实施成本与挂锁安全级别动态呈现 30 余类教学干预有效性。([[Argument_Higgins_2016_ROE\|Higgins, 2016, pp. 46–47]]; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, pp. 110–111]])
 > - **权威结局度量工具库与实证数据库（Databases）** 为从源头上提升干预评估的心理计量质量，构建由三大国家级度量数据库（[[SPECTRUM]] 非认知测量库、[[Academic Achievement\|学业成就]]测量库 [Attainment Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database) 与学前早期测量库 [Early Years Measures](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）以及深度编码上万项研究的全球教育活数据库（EEF Education Database）构成的量化基础设施。
@@ -299,8 +289,6 @@ updated: 2026-10-22
 > *The Toolkit synthesises evidence from more than 5 500 studies to provide accessible, actionable information on the average impact (expressed as months of progress), cost, and evidence security of different educational approaches.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **学校覆盖率与动员广度** 截至官方最新发布的评估报告（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)），全英格兰已有超过五分之四（80%）的公立中小学实际参与过 EEF 资助的项目；累计资助超过 400 项教育干预试验与先导试点，构建起全球覆盖密度最高的单体教育实证试验网络。
@@ -334,8 +322,6 @@ updated: 2026-10-22
 > - **70%** 英格兰中学领导者常规参考决策比例[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心学术与政策争议
 >

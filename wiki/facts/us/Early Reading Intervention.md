@@ -54,11 +54,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Early Reading Intervention
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Early Reading Intervention（早期阅读干预，简称 ERI）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）迈克尔·科因（Michael D. Coyne）、爱德华·卡梅埃努伊（Edward J. Kame'enui）与戴维·查德（David J. Chard）等学者联合研发、由培生斯考特·福斯曼（Scott Foresman）出版发行的幼儿园早期阅读小组干预方案；其核心目标是在学前与幼儿园阶段精准识别早期拼音意识与字母知识滞后的高危儿童，通过受训教学助教开展结构化显性教学，在儿童进入小学一年级前筑牢基础阅读防线。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克传统教学中将阅读干预推迟至二、三年级造成的“等待失败（Wait-to-Fail）”弊端，探索在幼儿园阶段由低成本非专业师资阻断阅读障碍的早筛早治路径。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 在幼儿园阶段由教学助教对 3 至 5 名高危学生开展每日 30 分钟、共计 120 余课的高密度显性拼读微教学，依托按认知递进编排的字母拼搭学具与连贯可控文本，非专业助教能够以极高保真度产生显著的因果学业增益，大幅降低一年级阅读困难发生率。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -91,16 +85,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] ERI 发展历程
 > - **2003–2008 — 方案编制与先导[[Efficacy Trial\|效力试验]]** 俄勒冈大学团队在全美多所公立幼儿园测试显性教学脚本的可行性，完成成套教材的商业出版与发行。
 > - **2009–2013 — 大规模整群[[Randomised Controlled Trials\|随机对照试验]]验证** 科因等学者（Coyne et al., 2013）在多学区开展严格的对照试验评估，证实助教执教 ERI 对弱势幼儿字母命名流利度与假词[[Decodification\|解码]]的因果净增益。
 > - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 在斯莱文桑代克奖演说论著中被正式列为初等阅读 Tier 2 助教辅导代表性强证据方案，成为全美幼小衔接阅读干预的经典[[Paradigm\|范式]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **出版与技术支持方（培生 / 俄勒冈大学 CTL）** 提供标准化助教执教卡、挂图、学生练习册及音素学具盒。
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - **目标受益幼儿（幼儿园阅读高危儿童）** 每日接受结构化拼读点拨，填补早期家庭语言刺激不足导致的音素感知缺失。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的标准化早期阅读[[Effect Size\|效应量]]** 在严格[[Randomised Controlled Trials\|随机对照试验]]中，接受 ERI 辅导的幼儿在早期读写标准化测验（如 Woodcock-Johnson 与 DIBELS）上取得了平均 $+0.31$ 的显著因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

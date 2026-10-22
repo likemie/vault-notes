@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Konrad Lorenz
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利动物学家、动物心理学家，比较行为学与经典习性学（Ethology）奠基人，[[Max Planck|马克斯·普朗克]]行为生理学研究所所长，1973 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]共同得主（与[[Karl von Frisch|卡尔·冯·弗里施]]、尼古拉斯·廷伯根共获）。
@@ -73,24 +69,18 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1949 — *King Solomon's Ring: New Light on Animal Ways*** 经典习性学著作，基于亲身饲养与细致野外观测，揭示动物的认知世界、情感交流以及鸟群社会内残酷的[[Pecking Order|啄序]]统治等级。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
 > - **1963 — *On Aggression*** 探讨动物攻击行为的种系发生功能与物种内等级秩序的生物学根源。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > **生物社会等级具有强大的内生固化与排斥效应** 康拉德·劳伦兹通过长期的动物群体生态观察论证指出，群居动物（如寒鸦与狼群）自发建立的[[Pecking Order|支配等级]]并非温和的分工协调，而是高度森严的“啄序”（Pecking Order）。处于支配阶层的个体通过持续的微观攻击与体态威胁压制下层个体，形成牢不可破的特权壁垒。这一生物学发现成为后世戏剧家（如[[Keith Johnstone|基思·约翰斯通]]）与组织理论家解构人类传统企业僵化官僚等级、揭露自上而下特权压制的批判性源泉。
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **生物学与生态学路径** 奠定了现代比较行为学、动物认知与演化生物学的实证基础。
 > - **人际心理学路径** 启发戏剧家[[Keith Johnstone|基思·约翰斯通]]（Keith Johnstone）将动物等级争斗提炼为人类日常微观互动中的[[Status Transactions|地位交易]]模型。
 > - **组织社会学路径** 被卡普与扎米斯卡用于批判传统科层企业中固化的职位种姓制与对基层创新的压制。

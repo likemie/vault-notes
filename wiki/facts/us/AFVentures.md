@@ -38,11 +38,7 @@ created: 2026-10-10
 updated: 2026-10-15
 ---
 
-# AFVentures
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 空军商业投资计划（AFVentures）是由美国空军创新机构 AFWERX 联合空军研究实验室（Air Force Research Laboratory, AFRL）设立的国防商业化风险投资对接计划。该计划旨在利用联邦小企业创新研发与[[Technology Transfer|技术转移]]（[[SBIR and STTR Programs|Small Business Innovation Research]] / Small Business Technology Transfer, SBIR/STTR）[[Non-dilutive Funding|非稀释性资助]]资金，通过机制化匹配外部私营风险资本与国防采办专项资金，打破传统军工采购壁垒，加速高风险双用途（Dual-Use）硬件与前沿技术跨越[[Valley of Death|死亡之谷]]。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
@@ -54,8 +50,6 @@ updated: 2026-10-15
 > - **核心问题导向** 扭转传统国防研发采购周期动辄长达数年导致前沿科技公司因现金流枯竭而破产的弊端，破解军工科研资助与商业规模化应用严重脱节的体制障碍。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 空军商业投资计划的核心干预假说在于：单纯依靠政府研发赠款无法支撑硬科技企业完成产品工程化与产能爬坡；通过引入私营风险投资机构的尽职调查能力与市场敏感度，并以政府[[Non-dilutive Funding|非稀释性资助]]提供[[Counterpart Funds|对等资金]]匹配（1:1 或 2:1 配比），能够有效分担早期硬件投资风险，引导商业资本投向国家战略急需的硬科技前沿。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
@@ -73,16 +67,12 @@ updated: 2026-10-15
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2018–2019 — 开放式选题与路演日（Pitch Days）试验期** 空军推行首轮 [[SBIR and STTR Programs|SBIR]] 极速合同流程，将从申请到首批资金到账的时间由原本的几个月压缩至数周，甚至在路演当天直接授予采购信用卡（Same-day Swipe），初步吸引大量硅谷高新技术企业入局。
 > - **2020–2022 — 设立 TACFI 与 STRATFI 大额匹配融资机制** AFVentures 正式设立战术资金增额与战略融资分级支持框架，要求申请团队必须同时拉动外部私营风险资本与空军内部采办办公室资金，形成了规范的公私风险分担机制。
 > - **2023–至今 — 跨部门辐射与国家微电子战略联动** 伴随白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》发布，AFVentures 模式被确立为跨部门培育战略性初创企业与连接[[Patient Capital|耐心资本]]的核心标杆机制之一，进一步拓展至全美半导体与微系统硬件初创企业扶持中。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与统筹方** 美国空军部、AFWERX 与空军研究实验室（AFRL）负责政策制定、预算把关与跨军种采购协同。
@@ -96,8 +86,6 @@ updated: 2026-10-15
 > - **动态反馈与调整** 针对国防领域芯片制造中试周期长的问题，适度延长战略融资执行周期，并配套商业知识产权保护与安全审查绿色通道。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 联邦 [[SBIR and STTR Programs|SBIR]]/STTR 匹配资金落实量、外部私营资本跟投金额比率（Leverage Ratio）。
@@ -113,8 +101,6 @@ updated: 2026-10-15
 > 截至 2020 年代前期，AFVentures 累计资助数千家科技企业，撬动超过数十亿美元的私营外部投资与政府过渡资金，将受助企业后续风险投资获投率从 10% 提升至 29%。
 
 ---
-
-## 延伸议题与争议辨析
 
 > [!critique] 争鸣与反思
 > AFVentures 的运行成效获得了政策界的高度评价，但防务专家与审计部门也提出了若干现实关注点：

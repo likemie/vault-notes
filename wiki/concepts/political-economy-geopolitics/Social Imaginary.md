@@ -101,11 +101,7 @@ created: 2026-04-13
 updated: 2026-10-22
 ---
 
-# Social Imaginary
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **社会想象（Social Imaginary）** 最初由哲学家查尔斯·泰勒（Charles Taylor）系统阐发，并经人类学家阿尔君·阿帕杜莱（Arjun Appadurai）与教育政策社会学者[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）拓展至全球化与比较教育研究。它指普通民众及政策行动者想象自身社会存在、自身与他人如何契合、群体互动如何展开，以及背后所承载的深层规范性观念与意象图景（Taylor, 2004, p. 21）。在批判性全球教育政策社会学中，社会想象是由跨国[[Policy Network|政策网络]]与国际组织（如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD））生产和扩散的一套相互重叠交织的[[Discourse|话语]]体系；它兼具描述性与规范性，将非结构化、偶发的经验事实与集体情感焦虑相融合，依托跨国指标与统计技术将其固化为关于教育目的、国家[[Competitiveness|竞争力]]与制度改革的“[[Doxa|不言自明]]的政策常识”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–446)]]
@@ -127,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 社会想象与相关理论范畴辨析
 > | 维度 | 本概念（Social Imaginary） | 社会理论（Social Theory） | 传统意识形态（Ideology） | [[Governing by Numbers\|数字治理（Governing by Numbers）]] |
 > |---|---|---|---|---|
@@ -138,8 +132,6 @@ updated: 2026-10-22
 > | **在跨国治理中的功能** | 确立新自由主义全球化的认知图式与政策常识 | 提供特定学说资源（如[[New Growth Theory\|内生新增长理论]]） | 提供直接的政治合法化辩护修辞 | 作为社会想象的技术物质化装置落实远处掌舵 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代社会想象的核心运作机制
 > - **描述性与规范性的滑动融合（Descriptive-Prescriptive Slippage）** [[Pierre Bourdieu|皮埃尔·布迪厄]]（Pierre Bourdieu, 2003）指出，全球化概念在跨国[[Discourse|话语]]中展现出致命的词义滑动：行动者在表面上声称仅仅客观“描述”世界经济的既成事实，实则在以隐蔽的“规范性”力量规训民族国家必须朝着解除市场管制与私有化方向重塑制度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441, 445)]]
@@ -207,8 +199,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者 |
 > |---|---|---|---|
@@ -219,8 +209,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 社会想象概念在政治经济学与教育治理中的演进脉络
 > - **第一阶段（1996–2004）：哲学与人类学奠基** 阿尔君·阿帕杜莱（Appadurai, 1996, 2000）提出全球文化流动中的“想象作为日常社会实践”，打破民族国家对集体认同的垄断；查尔斯·泰勒（Taylor, 2004）在《现代社会想象》中系统阐发社会想象如何作为深层共享背景赋予现代市场、公共领域与公民社会以正当性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–445)]]
 > - **第二阶段（2003–2006）：[[Cultural Political Economy|文化政治经济学]]与[[Knowledge-Based Economy|知识经济]]批判** [[Pierre Bourdieu|布迪厄]]（Bourdieu, 2003）揭示新自由主义[[Discourse|话语]]的展演性滑动；简·肯韦等学者（Kenway et al., 2006）在《困扰知识经济》中将社会想象引入全球知识经济批判，剖析主流知识经济叙事对替代性社会经济形态的遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -229,8 +217,6 @@ updated: 2026-10-22
 > - **第五阶段（2023）：地缘政策话语想象** 吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）借鉴费尔克拉夫（Fairclough, 2003）的投射性想象概念，揭示宏大国家政策文本如何通过建构关于未来的“可能世界”，塑造连接[[National Rejuvenation Narrative|民族复兴]]与全球治理替代方案的跨国高教地缘政策想象。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 691–692)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -253,8 +239,6 @@ updated: 2026-10-22
 > > - **民主公物与实质正义立场** 坚称教育的首要本质是促进个体自由全面发展、培育批判性民主公民与维系社会包容平等的纯粹公共物品；将社会公平残余化为人力资本开发的附属指标，已构成对现代民主价值的深刻侵蚀。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 450–452)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨国政策文本与[[Discourse Analysis|话语分析]]案例数据（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -39,8 +39,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Thousand Talents Program
-
 ## 背景
 
 千人计划是中国政府实施的海外高层次人才引进计划，以巨大的财务和职业激励吸引在海外的中国专业人士回国。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将其置于[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Knowledge Transfer|知识转移]]与间谍的交叉地带进行分析——从中国视角看是"人才回流"（Brain Gain），从美国政府视角看则是国家支持的制度化知识盗窃机制([[Argument_Partaken_2022_Springer|Partaken, 2022, p.79]])。

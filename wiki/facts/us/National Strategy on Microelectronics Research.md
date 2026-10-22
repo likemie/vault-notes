@@ -76,11 +76,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# National Strategy on Microelectronics Research
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2024 年 3 月正式发布，2025 年 4 月根据最新科技行政指令完成修订；发布主体为美国[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）国土与国家安全委员会下属的[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（Subcommittee on Microelectronics Leadership, SML）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 1–2)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > - **制度位置** 依据 2021 财年《威廉·M·(麦克)·索恩伯里国防授权法案》（NDAA 2021, P.L. 116-283）第 9906(a) 条法定授权制定，与 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act）研发资助计划形成战略衔接与全政府协同框架。（pp. ii, 1–2, 9–10）
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《国家微电子研究战略》确立了未来五年美国微电子技术领域的四大互联战略支柱（加速前沿突破、构建跨越中试的基础设施、培育全谱系技术劳动力、营造繁荣的产业转化生态），旨在通过全政府跨部门协同整合联邦研发资源与《[[CHIPS and Science Act|芯片法案]]》历史性投资，重塑美国在下一代半导体领域的全球技术主导地位。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
@@ -114,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 战略演进时间线
 > - 2021 年 1 月 美国国会通过《2021财年国防授权法案》（NDAA 2021, P.L. 116-283），第 9906 条法定设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]并责令编制国家战略。（p. ii）
 > - 2022 年 8 月 美国颁布《[[CHIPS and Science Act|芯片与科学法案]]》（P.L. 117-167），为本土微电子研发与制造注入数百亿美元专项资助。（p. 1）
@@ -123,8 +115,6 @@ updated: 2026-10-22
 > - 2025 年 4 月 根据最新科技竞争态势与白宫行政指令完成修订版编制并公开发布。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 1)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与统筹主体** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）与[[National Science and Technology Council|国家科学技术委员会]]（NSTC）[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
@@ -138,8 +128,6 @@ updated: 2026-10-22
 > - **人才管网与产业孵化协同** 结合 NSF [[NSF Regional Innovation Engines|区域创新引擎]]与 DOE [[Lab-Embedded Entrepreneurship Program|实验室嵌入式创业计划]]（如 [[Activate Fellowship|Cyclotron Road]]），打通人才培养与初创企业种子轮融资渠道。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–37, 45–47)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键引领者** [[Subcommittee on Microelectronics Leadership|SML]]、DOC（[[National Science and Technology Council|NSTC]]/[[National Advanced Packaging Manufacturing Program|NAPMP]]）与 DOD（[[Microelectronics Commons]]）— 掌握立法赋权与数百亿美元研发中试资源，统筹技术主导权。（pp. ii, 2, 9–10）
@@ -157,8 +145,6 @@ updated: 2026-10-22
 > | **商业晶圆代工厂（Foundry / OSAT）** | 商业制造产能 / 工业工艺基线 | 规避非成熟原型对商业产线的干扰，获取成熟技术与人才 | 战略合作 | 参与公私合作（[[Public-Private Partnership\|PPP]]）、承接 [[Technology Readiness Level\|TRL]] 8–9 量产转化 |
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标体系
 > - **投入指标** 联邦微电子研发预算总额、开放式中试洁净室机时分配、[[Multi-Project Wafer|MPW]] 拼版流片补贴规模、研究生与学徒奖学金数量。（pp. 21–28, 31–37）
@@ -178,8 +164,6 @@ updated: 2026-10-22
 > - **600+** （家） NISE Network 覆盖的全美科技馆与科普教育基地数量。（p. 35）
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

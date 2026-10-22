@@ -46,11 +46,7 @@ related_arguments:
   - "[[Argument_Yu_2024_CE]]"
 ---
 
-# Cultural Hierarchy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 文化等级（Cultural Hierarchy），指支配群体利用文化权威与制度化手段，将其特定的文化视角、价值观与生活方式合法化为社会“正统”或“普遍”标准，同时将边缘或少数群体的文化降格为“次等”、“落后”或“局部”的符号支配与不平等再生产机制[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]。在教育[[Champ\|场域]]中，文化等级常隐蔽地通过[[Official Knowledge\|官方知识]]与课程筛选加以巩固。
@@ -71,8 +67,6 @@ related_arguments:
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 文化等级、[[Symbolic Boundary\|符号边界]]与[[Hegemony\|文化霸权]]的分野
 > | 概念 | 核心聚焦 | 作用机制 | 表现形式 |
 > |:---|:---|:---|:---|
@@ -82,9 +76,7 @@ related_arguments:
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **正统[[Discourse|话语]]的垄断（Discursive Monopolisation）** — 将主导群体的文化（如汉族儒家传统）提升为国家“唯一”或“核心”的文化象征，剥夺其他文化的代表性[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **师生与教化隐喻（Teacher-Student Metaphor）** — 在历史与文化叙事中，将主导文化塑造为“施教者/文明化者”，将非主导群体塑造为“受教者/学习者”，固定两者的支配-服从关系[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **少数文化的“异域化”与边缘化（Exoticisation & Marginalisation）** — 将少数族群文化置于非主流的“民俗展示”或“落后待改造”位置，排除在核心知识体系之外[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 60)]]。
@@ -125,8 +117,6 @@ related_arguments:
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心机制 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -135,16 +125,12 @@ related_arguments:
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念史演变脉络
 > - **1970s — [[Hegemony\|文化霸权]]与再生产** — Antonio Gramsci 提出文化霸权（Hegemony），[[Pierre Bourdieu]] 提出[[Cultural Capital\|文化资本]]与符号暴力，为文化等级分析奠定了社会学基石。
 > - **1990–2000s — [[Official Knowledge\|官方知识]]与课程批判** — Michael Apple 提出[[Official Knowledge\|官方知识]]理论，指出学校课程缺乏[[Value Neutrality\|价值中立]]性，是主导群体维系文化等级的工具。
 > - **2024 年 — 多元文化中国下的课程文化等级** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将文化等级概念引入当代中国基础教育课程研究，系统揭示了儒家复兴在中小学教科书中建构的汉儒中心主义与民族文化等级[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 59, 67)]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论交锋
 >

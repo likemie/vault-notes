@@ -39,11 +39,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# State Simplification
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 国家简化（State Simplification）是政治学家与人类学家詹姆斯·C·斯科特（[[James C. Scott]], 1998）提出的核心概念，指现代国家官僚机器为了对复杂庞大的社会现实实施自上而下的统领、赋税与行政控制，通过绘制地图、制定人口普查、统一量度单位及创立标准化问责指标等技术，将极其复杂、生动多元且情境嵌入的社会生活和地方性实践，暴力裁切并重构为整齐划一、可度量、可横向比较的分类客体。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653; Scott, 1998)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 核心要素
 > - **可读性生产（Production of Legibility）** 国家官僚机器无法直接处理微观层面的无数特殊情境，必须通过统一的分类标准和指标矩阵，创造出一种脱离原初脉络的标准化视野。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
 > - **对多元与冲突的排他性过滤（Purging of Pluralism）** 任何学术争议、未解谜题或相互矛盾的实证结论，都会威胁到行政常模的权威性；因此国家机构必然选择性封装证据，制造出所谓“无可争议的当前知识状态”。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653)]]
@@ -102,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -117,8 +109,6 @@ updated: 2026-10-22
 > - **2022 — 教育督导与循证治理实证分析** 塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）将国家简化直接应用于学校督导研究，揭示督察机构如何通过知识综述与指标化操作将教育科学改造成服务国家简化的工具。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议交锋
 >

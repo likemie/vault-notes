@@ -37,11 +37,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# E. Digby Baltzell
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家、历史学者，宾夕法尼亚大学社会学讲座教授。
@@ -67,8 +63,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1958 — *Philadelphia Gentlemen*** 系统剖析美国全国性上层阶级的形成机制与社会网络。
 > - **1964 — *The Protestant Establishment*** 提出开放贤能统治向封闭特权种姓退化的经典社会学分析模型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 78–79)]]
@@ -76,9 +70,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > E. 迪格比·巴尔策尔（E. Digby Baltzell）主张，任何民主共和国的健康运作都需要一个具备公共责任感的领导阶层（Establishment）。真正的贵族制应当基于能力与贡献，并保持对全社会新人与异质群体的持续开放。一旦统治阶级为了垄断特权而闭关自守、排斥新人，就会沦为自私自利的“种姓”，最终导致社会制度权威的瓦解。
 
 ---

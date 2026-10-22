@@ -61,11 +61,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Ontology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **本体论（Ontology）** 是关于实在本质与事物性质的元理论假设（assumptions about the nature of reality and the nature of things；Hitchcock & Hughes, 1995, p. 21）。在社会科学研究哲学中，它聚焦于社会现象究竟是独立于人类知觉的外在客观实体（实在论），还是人类个体意识与语言符号建构的心灵产物（唯名论/观念论；Burrell & Morgan, 1979）；在教育心理学与学习科学中，它指代个体学习者对知识属性（如[[Simplicity of Knowledge\|知识的简单性]]与确定性）进行排他性分类的心智认知系统[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 探究哲学三大基石的学理辨析
 > | 哲学维度 | 核心追问 | 关注焦点 | 在研究推导中的地位 |
 > |---|---|---|---|
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **实在论极（Realism）** [[Objectivism\|客观主义]]本体论基础，坚信外部世界独立于知觉者而存在，社会现象具有硬性客观规律，强加于个体意识之上（Burrell & Morgan, 1979）。
 > - **[[Nominalism\|唯名论]]与观念论极（Nominalism & Idealism）** [[Subjectivism\|主观主义]]本体论基础，主张概念仅是人类指称现象的语言标签，所谓的社会现实全赖个体意识在情境中的赋予与建构（Greenfield, 1975）。
 > - **组织作为发明的实在（Invented Reality）** [[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield）指出学校与组织是人类行动者基于特定价值信念持续发明的社会实在，破除了将组织视为拥有客观意志与独立生命周期的实体假设[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 185)]]。
@@ -172,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -193,15 +183,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：实在论（Realism）vs [[Nominalism\|唯名论]]（Nominalism）
 > - **实在论阵营（蓝方）** 坚信客体具有独立于知觉者的客观硬质存在，不以人类意志为转移；社会结构与组织是实在的实体，研究应当运用自然科学法则发现其运行通则（p. 115）。
 > - **唯名论阵营（红方）** 坚信所谓概念与范畴仅仅是人类为了指称事物而发明的语言标签；外部世界不存在独立于知觉者的实体，社会现实完全是主体意义赋予与认知建构的产物（p. 115）。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

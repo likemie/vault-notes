@@ -50,11 +50,7 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Buen Vivir
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **Buen Vivir**（西班牙语，直译为“好好生活”或“美好生活”；克丘亚语：*Sumak Kawsay*；艾马拉语：*Suma Qamaña*）是源自拉丁美洲安第斯原住民宇宙观的整体性生态哲学与政治伦理[[Construct|构念]]。它主张生命的真正繁荣在于人、社群与自然（大自然母亲，*Pachamama*）之间的互惠、互依与动态平衡，坚决反对将“生活得更好”（*Vivir Mejor*，即追求无限的物质财富积累、消费扩张与感官占有）视为人类发展的最高目标。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] Buen Vivir 与主流西方发展及正义[[Paradigm|范式]]的维度辨析
 > | 辨析维度 | 好好生活（Buen Vivir / Sumak Kawsay） | 新自由主义消费主义（Vivir Mejor） | 自由主义程序正义（The Right） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **哲学传统渊源** | 安第斯原住民宇宙观、非西方关系[[Ontology\|本体论]] | 功利主义、工业主义与资本无休止积累逻辑 | 启蒙自由主义、[[Immanuel Kant\|康德]]/[[John Rawls\|罗尔斯]]程序正义理论 |
 
 ---
-
-## 核心要素
 
 > [!feature] Buen Vivir 的四大支柱
 > - **自然作为法律与伦理权利主体（Rights of Nature / Pachamama）** 彻底颠覆“人类保护自然”的恩赐式人本视角，在宪政层面（如 2008 年厄瓜多尔宪法与 2009 年玻利维亚宪法）确立自然本身拥有存在、维持与再生的固有权利。
@@ -114,8 +106,6 @@ updated: 2026-10-22
 > 在西方政治哲学讨论中，[[John Rawls|约翰·罗尔斯]]等自由主义者主张“[[The Right and the Good|正当优先于善]]”（The Priority of Right over Good），导致公共[[Discourse|话语]]退守于形式化、无菌化的程序中立，正如[[Ágnes Heller|阿格妮丝·赫勒]]所警示的“只有冰冷的正义骨架，丧失了美好生活的血肉”（Heller, 1987; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）。Buen Vivir 作为非西方本土哲学中关于“善与美好生活”（The Good Life）的充实表达，展现了文明若要走出后现代解构带来的价值虚无，必须敢于在公共领域重新界定何为值得过的高贵、和谐生活，将制度的正义骨架与实质伦理血肉有机熔融。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 80–82)]]
 
 ---
-
-## 争议与现实挑战
 
 > [!debates] 实践争议与制度张力
 >

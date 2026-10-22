@@ -23,8 +23,6 @@ created: 2026-10-07
 updated: 2026-10-15
 ---
 
-# Patriotic Education
-
 ---
 
 ## 定义
@@ -146,8 +144,6 @@ updated: 2026-10-15
 > 地方情感与对其他共同体的理解从小学早期共同开始，国家公民教育主要放在中学，较系统的[[International Education|国际教育]]主要放在青春期后期；双文化教育是否作为中间阶段取决于环境，这是一项工作假设，未获经验验证。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 199)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 195–199)]] 区分地方文化归属与国家公民忠诚，讨论国际理解的制衡作用、多层归属和年龄安排的证据边界。

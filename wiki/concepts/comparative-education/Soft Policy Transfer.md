@@ -44,11 +44,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Soft Policy Transfer
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 软政策转移（Soft Policy Transfer）源于戴安娜·斯通（Stone, 1999）对政策转移机制的[[Typification|类型化]]划分，特指政策思想、概念[[Discourse|话语]]、规范认知与价值图景在跨国政策圈层与网络中传播和扩散（diffusion）的过程。软政策转移区别于强调工具与技术程序直接机械复制（copying）的[[Hard Policy Transfer|硬政策转移]]，其核心在于为本土政策制定者、学者及专业群体保留了结合本国历史脉络与制度特征进行[[Recontextualization|再语境化]]与因地制宜调适的弹性空间。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 195)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 软政策转移与[[Hard Policy Transfer|硬政策转移]]的特征对比
 > | 维度 | 软政策转移（Soft Policy Transfer） | 硬政策转移（Hard Policy Transfer） |
 > |------|-----------------------------------|-----------------------------------|
@@ -76,8 +70,6 @@ updated: 2026-10-22
 > | **典型风险** | 政策修辞漂移、止步于口号化而缺乏微观制度落实 | 跨文化语境冲突、技术排异与一线高校师生抵制 |
 
 ---
-
-## 核心要素
 
 > [!feature] 软政策转移的关键构成
 > - **共识性概念建构（Idea Fixing）** 跨国组织通过专题会议与白皮书，将原本模糊多元的教育议题固化为具有特定政策倾向的通用概念（如将教育质量界定为生活素养或职场胜任力）。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 194, 200)]]
@@ -99,8 +91,6 @@ updated: 2026-10-22
 > **学科共识驱动的柔性转移** [[OECD|经合组织]]在 [[OECD AHELO Project|AHELO]] 学科能力研制中，联合欧洲 [[Tuning Project|Tuning]] 协会等学术共同体，通过跨国同行协商确立经济学与工程学超越纯学科知识的现实[[Problem Solving|问题解决]]与职场沟通胜任力；这种基于理念扩散与学术对话的软政策转移，成功在不同国家学者间凝聚了国际可比的学科预期，避免了通用技能模块因直接照搬美国工具而激发的激烈文化排异。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 200)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

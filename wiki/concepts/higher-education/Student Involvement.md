@@ -42,13 +42,9 @@ created: '2026-05-08'
 updated: 2026-10-22
 ---
 
-# Student Involvement
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 学生涉入（Student Involvement）是美国高等教育研究者Alexander Astin（1984）提出的学生发展理论，意指"学生在学习过程中所投入的生理和心理能量的数量和质量"。该理论是Kuh（1991）[[Student Engagement\|学生投入]]理论的直接前身，两者核心假设一致：学校是对学生发挥关键影响力的环境，学生参与其中的程度越深，越可能获得正向影响（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Astin, 1984, 1993）。
 
 > [!quote|notitle]

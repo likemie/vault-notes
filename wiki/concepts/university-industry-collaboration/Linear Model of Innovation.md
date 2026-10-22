@@ -65,11 +65,7 @@ created: 2026-06-09
 updated: 2026-10-22
 ---
 
-# Linear Model of Innovation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 线性创新模型（Linear Model of Innovation）是一种预设创新过程遵循从基础科学、应用研究、技术开发到市场商业化单向因果链条的概念模型。其基本公式为：基础研究 → 应用研究 → 技术开发 → 商业生产 → 经济社会福祉。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》等战后政策[[Discourse|话语]]将其确立为全球科技资源配置的主导理论依据，假定公共财政对基础科学的投入是产业创新与经济增长的充分且[[Necessary and Sufficient Conditions|必要条件]]，将基础科学置于创新价值链的绝对主导地位；随后受到创新研究界与科学技术史学家的系统性质疑。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Innovation Models Evolution|创新过程模型]]的核心机制辨析
 > | 维度 | 线性创新模型（[[Linear Model of Innovation]]） | 链式创新模型（[[Chain-linked Model]]） | 发现-发明循环模型（[[Discovery-Invention Cycle]]） | 黄金时代双核模型（[[Science A New Golden Age 2026\|OSTP 2026]]） |
 > |:---|:---|:---|:---|:---|
@@ -104,8 +98,6 @@ updated: 2026-10-22
 > | **政策资助逻辑** | 政府主导无约束[[Curiosity-Driven Research\|基础研究]]，开发留给市场 | 优化产学研界面，支持企业研发中心 | 政府资助消除生态瓶颈，以[[Long-Term Public Utility\|长期公共效用]]为准绳 | 组合式资助、对人赋权、新型组织与开放中试试验场 |
 
 ---
-
-## 核心要素
 
 > [!feature] 线性创新模型的核心假设支柱
 > - **单向因果推进（Unidirectional [[Causality]]）** 假定创新严格遵循自上而下的推进逻辑，完全无视工程生产实践、仪器研制向基础科学前沿的反向知识馈送。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
@@ -155,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕线性模型形成的批判性命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 报告 |
 > |:---|:---|:---|:---|
@@ -177,8 +167,6 @@ updated: 2026-10-22
 > - **2026 — 联邦政策文本宣布管道彻底失真** 《[[Science A New Golden Age 2026|科学：新的黄金时代]]》保留布什报告关于公共资助不可替代性的核心论点，但判定基础研究到开发的单向分工已无法解释当代发现机制；主张以[[Pasteur's Quadrant|巴斯德象限]]重组资助架构，并将科学发现重新锚定于本土先进制造、试验基础设施与工程手艺。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 34–46)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >
@@ -201,8 +189,6 @@ updated: 2026-10-22
 > > - **白宫科技战略派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 单纯依赖论文无法维系国家综合技术领先；在全球产业不对称竞争下，若无本土中试线、前竞争联合体与制造熟练工人，公共基础研究将沦为竞争对手低成本获取的原材料，国家安全与经济根基将被实质性掏空。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–36)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

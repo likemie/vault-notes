@@ -37,19 +37,13 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Manipulation Check
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 操纵检查（Manipulation Check）是[[Experimental Research\|实验研究]]中用于定量[[Evaluation Research\|评估研究]]者是否成功操纵了目标自[[Variable\|变量]]（[[Independent Variable]]）的测量。它在实验操纵之后施测，通过比较各实验条件组在操纵检查测量上的得分，验证自变量操纵是否产生了预期的组间差异（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote|notitle]
 > "A manipulation check measure is defined as a measure of the intended manipulated variable of interest."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 操纵检查的核心逻辑（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 在实验操纵之后、主要结果测量之前（或同时），施测一个简短的相关测量。

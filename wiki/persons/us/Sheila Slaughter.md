@@ -48,11 +48,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Sheila Slaughter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名高等教育社会学家、佐治亚大学（University of Georgia）麦克比高等教育研究所荣休讲席教授，美国高等教育研究学会（ASHE）前主席。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1990 — *The Higher Learning and High Technology*** 早期探讨高新技术产业与大学科研政策深度绑定的历史转折，奠定大学与国家关系政治经济学分析[[Paradigm|范式]]。
 > - **1997 — *[[Academic Capitalism]]: Politics, Policies, and the [[Entrepreneurial University]]*** 提出“学术资本主义”概念，论证高校教师与科研团队如何作为市场行动者在公立资助退潮下竞逐外部资本。
@@ -85,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的[[Social Regime|制度规约]]之中，形成了国防军事残留契约（五角大楼高额订单）、经济与产业[[Competitiveness|竞争力]]契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 契约演进的非线性与多元交叠
@@ -97,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创“[[Academic Capitalism|学术资本主义]]”理论，成为全球高等教育社会学、科学政策与政治经济学引用率最高的经典分析流派之一。
 > - **方法路径** 倡导深度微观案例调查、高校财务与专利数据审计相融洽的制度实证方法。
 > - **政策路径** 其对大学过度商业化与知识私有化的批判性反思，深刻启发了后续关于开放科学、大学公共利益使命的政策讨论。
@@ -117,8 +107,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** 美国高等教育研究学会（ASHE） — 曾担任学会主席并获终身成就奖。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

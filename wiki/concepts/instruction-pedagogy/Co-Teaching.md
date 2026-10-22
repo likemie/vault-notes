@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Co-Teaching
-
 > [!metax] [合作／协同教学 · Co- / team teaching](https://www.visiblelearningmetax.com/influences/view/co-~team_teaching)
 > 教学策略 › 教学方法
 >

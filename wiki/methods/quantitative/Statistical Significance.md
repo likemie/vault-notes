@@ -52,8 +52,6 @@ created: '2026-05-05'
 updated: 2026-10-22
 ---
 
-## 定义
-
 > [!def] 核心定义
 > 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的[[Null Hypothesis\|零假设]]。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 
@@ -79,8 +77,6 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > **示例** 以 $n = 25$ 为例，$d \approx 0.412$ 对应 $t = 2.060$，接近双侧检验 $p \approx 0.05$ 的临界值。这意味着 Hattie 的 $d = 0.40$ 关节点在特定样本量下恰好与 $p \approx 0.05$ 相连，并非脱离样本量的普遍边界（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 
 ---
-
-## 历史沿革
 
 > [!dev-timeline] 统计显著性的概念演变
 > - **2011 — Terhart 的区分** Terhart 在解释 Hattie 的 [[Effect Size\|效应量]]时区分了统计显著性和效应大小：统计显著性只说明结果不太可能由随机因素造成，却不说明效应有多大或实践意义是什么（[[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]]）。
@@ -121,8 +117,6 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 > - 现行[[Evidence Standards\|证据标准]]容易把中等或强”有效性”缩小为严格实验中的统计显著效果，忽略实施质量、结果类型和地方上重视的非成就目标（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.110-112]]）。
 
 ---
-
-## 应用案例
 
 > [!evidence-grid-a] 相关案例索引
 > - [[Educational Evidence Clearinghouses]] — 清算中心把统计显著性、效应方向和最低[[Effect Size\|效应量]]阈值组合成项目评级规则（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp.12–15]]）

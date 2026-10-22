@@ -56,11 +56,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# Policy Window
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 政策之窗（Policy Window，亦称政策机会之窗）是[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）在[[Multiple Streams Framework|多源流分析框架]]中提出的核心分析概念，指特定历史时期在政策体系中短暂开启、允许倡导者推动其既定方案或将注意力聚焦于特定紧迫问题的关键机会窗口。当问题流（社会危机与关键指标）、政策方案流（成熟的技术方案）与政治流（民意转变或政府更替）三者在特定契机下交汇耦合时，政策之窗即告打开；但该窗口具有极强的暂时性与脆弱性，一旦关闭，重大制度变革的契机将迅速流逝。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–4, 6)]]
@@ -81,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **三流汇聚耦合（Coupling）** 问题流（如跨国测评落后指标）、政策流（如[[College and Career Readiness|大学与职业就绪]]标准草案）与政治流（如两党州长对经济[[Competitiveness|竞争力]]的共识）在同一时空节点实现精准对接。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 4–6)]]
 > - **时间压缩效应（Time Compression）** 窗口开启时间通常极短（如数月至一年），极大压缩了常规实证调研与全量同行评审的时间裕度。
 > - **外生催化激励（Exogenous Incentives）** 突发性的财政资助（如联邦[[Race to the Top|力争上游]]数十亿美元拨款）往往扮演强行撬开并维持窗口的外部催化剂。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -145,8 +137,6 @@ updated: 2026-10-22
 > | **突围采纳命题** | 少数派联合执政等政治流突变开启政策之窗，政策企业家携预制方案伺机突围实现制度突破 | 特许学校立法、[[Exogenous Privatisation\|外生私有化]]与教育管理外包 | O'Neill et al.; Ball; Kingdon |
 
 ---
-
-## 实证数据与案例对比
 
 > [!table] 表一：教育政策之窗三流交汇机制与决策演进跨国对比矩阵
 > | 分析维度 | 美国[[Common Core State Standards\|共同核心国家标准]]（CCSS）采纳 | [[Partnership Schools Kura Hourua\|新西兰特许学校]]（PSKH）立法采纳 |
@@ -168,8 +158,6 @@ updated: 2026-10-22
 > - **2016年 — [[Policy Entrepreneur|政策企业家]]突围与私有化借道** 奥尼尔等学者将政策之窗拓展至英联邦与威斯敏斯特议会制国家，揭示了少数派联合政府如何创造特殊的政治之窗，促成新自由主义政策企业家突围并推进教育[[Exogenous Privatisation|外生私有化]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

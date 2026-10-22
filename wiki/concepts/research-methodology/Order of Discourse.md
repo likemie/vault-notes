@@ -47,11 +47,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Order of Discourse
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Discourse|话语]]秩序（Order of Discourse，亦称话语规序）** 是批判性[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, [[Critical Discourse Analysis|CDA]]）的核心宏观理论范畴，源自法国哲学家米歇尔·福柯（Michel Foucault, 1970）的就职演讲《话语的秩序》（*L'ordre du discours*），并由英国语言学家[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough, 1989, 1995, 2003）在三维话语模型中推进为系统的社会学分析工具。话语秩序特指特定社会机构、领域或整个社会网络中，各类话语实践（Discursive Practices）的总和及其结构化的相互关联模式。它涵盖了体裁（Genres）、话语类型（Discourses）与语态风格（Styles）在社会空间中的相对稳定配置；当外部权力结构发生转变时，不同领域间话语秩序的边界松动、重组与相互殖民，构成了观察制度变迁与霸权争夺的结构性指针。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 684)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Discourse|话语]]秩序与关联[[Discourse Analysis|话语分析]]概念辨析
 > | 分析维度 | 话语秩序（Order of Discourse） | 话语场域（[[Discursive Field]]） | 互话语性（[[Interdiscursivity]]） |
 > |---|---|---|---|
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > | **变迁表征** | 表现为机构话语规范体系的系统性重组 | 表现为时代精神与国家大叙事的[[Paradigm\|范式]]转型 | 表现为具体政策文本中出现[[Heterogeneity\|异质性]]体裁元素 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Discourse|话语]]秩序的三大结构性支柱
 > - **体裁网络（Network of Genres）** 机构内部特定行动方式的语言惯例与交往格式（如行政命令、公文报告、学术著述、咨询简报）在结构上的主次排序与流动链条。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 684)]]
@@ -141,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > - **2023年 — 跨国教育政策实践应用** 伍国雄将话语秩序运用于分析中国高等教育跨国扩张[[Policy Network|政策网络]]，系统阐释跨部门多边文本如何重构当代中国的高教对外开放话语秩序。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -60,11 +60,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Between-Study Variance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究间方差（Between-Study Variance，记为 $\tau^2$ 或 $\text{Tau}^2$）** 是[[Random-Effects Model|随机效应]][[Meta-analysis|元分析]]模型中的核心统计参数。它衡量的是各项初级研究背后的“真实[[Effect Size|效应量]]”（True Effect Sizes）分布的方差，代表了[[Sampling Error|抽样误差]]（Sampling Error, $v_i$）之外、由不同研究人群特征、干预实施强度、测量工具与情境条件等实质性差异所引起的跨研究变异总量。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 38–39)]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 承认教育与社会现象的情境[[Heterogeneity|异质性]]与条件依存于真实世界的客观存在，拒绝将不同干预机制强行简化为单一无偏常数。
 > - **研究者角色** 在模型选择（[[Fixed-Effect Model|固定效应]] vs [[Random-Effects Model|随机效应]]）与估计量选择（DL 矩估计 vs REML 似然估计）中作出科学权衡。
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > | **主要用途** | 分配随机效应权重、计算[[Prediction Interval\|预测区间]] | 直观解读真实效应在总体中的波动幅度 | 向读者报告异质性严重程度等级 | 假设检验判定异质性是否显著存在 |
 
 ---
-
-## 研究程序与数理估计
 
 > [!method-stack] 数据结构与估计逻辑
 > - **数据输入** 各独立研究报告的[[Effect Size|效应量]] $y_i$ 及其抽样方差 $v_i = SE_i^2$。
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-## 统计功能与影响机制
-
 > [!feature] $\tau^2$ 对[[Meta-analysis|元分析]]推断的核心调节作用
 > - **权重再平衡（Weight Leveling）** 当 $\tau^2$ 较大时，各研究的随机权重 $w_i^* = \frac{1}{v_i + \tau^2}$ 趋于相等，有效防止单一大样本研究垄断合并结论，赋予小样本研究适度的[[Discourse|话语]]权。
 > - **[[Standard Error|标准误]]扩张与保守推断** [[Random-Effects Model|随机效应]]合并估计量的方差为 $\text{Var}(\hat{\mu}) = \frac{1}{\sum w_i^*}$。$\tau^2$ 的存在使得合并[[Confidence Interval|置信区间]]展宽，反映了外推至更广总体的真实不确定性。
@@ -163,16 +153,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 纳入多项独立实证研究且研究在人群、干预实施细节、测量工具或情境条件上存在不可控变异的[[Random-Effects Model|随机效应]][[Meta-analysis|元分析]]；
 > - **谨慎使用** 纳入研究数极少（$k < 5$）的情境，此时 $\tau^2$ 估计极其不稳定，极易产生假性为 0 或严重偏倚；
 > - **不适合使用** 实验室高度同质实验、仅推断现有特定样本的[[Fixed-Effect Model|固定效应]]元分析。
 
 ---
-
-## 局限性与前沿争议
 
 > [!method-limits] 方法局限与前沿争议
 > - **小样本研究数（Small $k$）下的估计量崩溃** 当纳入研究数 $k$ 较小时（例如 $k < 10$），DL 估计量和 REML 估计量的统计功效极低，抽样误差会导致 $\hat{\tau}^2$ 出现严重的截断偏倚（被截断为 0）或剧烈浮动。
@@ -203,8 +189,6 @@ updated: 2026-10-22
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch. 17)]] | 论证 | 教材规范，系统阐明元分析中固定与随机效应模型下 $\tau^2$ 的数学原理与解释。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 32–33)]] — 系统剖析二级[[Meta-meta-analysis|元-元分析]]中研究间方差 $\tau^2$ 估计的数理困局，指出因纳入[[Meta-analysis|元分析]]数量过少（平均仅约 6 项）导致[[Random-Effects Model|随机效应]]建模无法可靠估计 $\tau^2$。

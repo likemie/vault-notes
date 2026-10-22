@@ -70,12 +70,9 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Structured Teaching
 （结构化教学）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 结构化教学（Structured Teaching）指在教学设计与组织过程中，通过教师或教学系统建立清晰的目标导向、逻辑严密的[[Scaffolding\|认知支架]]（Scaffolding）、有序的课堂活动管理、即时的过程性反馈与理解监控，为学生提供清晰稳定的系统支持，同时维持高度能动的师生与人机交互的教学[[Paradigm\|范式]]。它既不是僵化单向的教师机械讲授，也不是把所有责任全盘推给学生的放任式自学，而是在结构化支持（Structure）与能动性互动（Interaction）之间形成动态平衡，并依据学生的自我调节水平与任务复杂度弹性调整支架强度。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584–585, 592–595)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10–13)]]
@@ -108,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教学组织与支架[[Paradigm\|范式]]对比
 > | 比较维度 | **结构化教学（Structured Teaching）** | **[[Direct Instruction\|直接教学]]（Direct Instruction）** | **去结构化/放任个别化（Unguided Individualisation）** | **传统讲坛式教学（Pulpit Teaching）** |
 > |---|---|---|---|---|
@@ -120,8 +115,6 @@ updated: 2026-10-22
 > | **AI 时代的表现** | 递归探究、提示词追踪与批判审订（协同增益） | 算法辅助的分步操练与自动化正误判断 | 依赖 AI 产出终稿，诱发深度认知卸载与侵蚀 | 视 AI 为作弊隐患进行机械性惩罚性封堵 |
 
 ---
-
-## 核心要素
 
 > [!feature] 结构化教学的核心构件
 > - **清晰目标导向与对齐[[Scaffolding\|认知支架]]（Aligned Cognitive Scaffolds）** 明确短期与长期的认知进阶目标，为分析或生成任务提供分步支架与评价量规，使学生清晰把握学习方向与评价标准。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, p. 592)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
@@ -198,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
@@ -209,16 +200,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **2011 — 政策口号引入与教师领导重提** 瑞典 2011 年课程改革（Lgr 11）与教育条例正式引入“结构化教学（structured teaching）”，作为扭转国际测评（[[PISA]]）成绩下滑、重塑教师课堂组织与领导职责的政策要求。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584–585)]]
 > - **2015 — 比较[[Meta-meta-analysis\|元综合]]与“结构—互动”教学论重构** Håkansson 基于 43 项国际与本土教学研究综述，将结构化教学从模糊的政策口号提炼为“教师结构与能动互动的动态平衡”，澄清了其与[[Direct Instruction\|直接教学]]及讲坛式灌输的本质区别。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a)]]
 > - **2026 — 智能[[Technology Infusion\|技术整合]]与高等教育[[Scaffolding\|认知支架]][[Paradigm\|范式]]演进** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills\|高阶思维]][[Systematic Review\|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务循环、多源反馈生态的[[Man-Computer Symbiosis|人机协同]]教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI\|(Li et al., 2026)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -239,8 +226,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -251,8 +236,6 @@ updated: 2026-10-22
 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师与学科教研组（[[Incentivised Pay and Coaching Trial\|ICR]] 试验） | 两级集群 [[Randomised Controlled Trials\|RCT]]（前置可行性与招募评估） | 结构化教学辅导（Instructional Coaching）、[[Performance Pay\|绩效工资]]奖金激励、教师招募与留存 | 试验试图将结构化教学辅导与基于学生考分增长的差异化经济奖金相结合，但在招募阶段遭遇校长与一线教师的集体抵制；教师普遍指责随机抛硬币决定奖金资格严重破坏同行信任与专业协作伦理，最终招募严重流产，[[Education Endowment Foundation\|EEF]] 被迫终止试验并出具《关闭报告》 | 招募失败率达 100%（未能达到 [[Statistical Analysis Plan\|SAP]] 预设最低样本门槛） | 确立结构化教学辅导在现场试验中的落地效能高度受制于学校教研生态与教师内在动机；违背职业伦理的外在金钱刺激会导致结构化培训机制整体失效 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学与干预案例
 > - **基础教育中平衡结构与自主的课堂组织（[[Argument_Håkansson_2015_TT\|Håkansson, 2015a]]）**

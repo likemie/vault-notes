@@ -49,11 +49,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Advancement Via Individual Determination
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 个体决定促进计划（Advancement Via Individual Determination, AVID）是美国覆盖广泛的全国性非营利大学预备教育项目，旨在通过在初高中常规课程体系中嵌入专门的选修支持课程与探究辅导，助力学术成绩处于中等区间、来自低收入或家庭第一代大学生（First-Generation College Students）背景的弱势青少年跨入大学门槛。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案设计与运行机制
-
 > [!claim] 核心干预／机制假说
 > AVID 假定中等[[Academic Achievement\|学业表现]]的弱势学生并非缺乏智力潜能，而是缺乏高阶学习策略与社会资本支持；通过将学生置于高难度严格学术课程（如荣誉课程与 [[Advanced Placement Program\|大学先修课程]]）中，并在日常课表中提供一门密集辅导的 AVID 选修课作为支架，能促发学生完成从被动受助向自主学业规划的转变。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
 
@@ -79,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与现实采办
-
 > [!actor-grid] 实施协同矩阵
 > - **AVID Center 研发与培训方** 负责提供国家认证标准、课程指南、[[Implementation Fidelity\|实施保真度]]评估及暑期教师专业发展学院。
 > - **学区与学校管理层** 校长与教学主管设立跨学科协调团队，通过联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金保障人员编制与耗材采购。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
@@ -91,8 +83,6 @@ updated: 2026-10-22
 > [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 170]]）对美国大型城市学区微观财务账目的实证穿透揭示，在高中学段，学校管理层将联邦 Title I 补偿性资金的相当比例定点采购于 AVID 项目及其配套的辅导服务。这表明 AVID 已成为美国大城市弱势高中改善大学准备度、提升高校录取率最主要的制度化采购选择之一。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心成效与争议
 > - **高等教育入学率与留存率正向增益** 多数实证评估表明，完成 3–4 年 AVID 培养的学生，其中高中毕业率、四年制大学直接录取率显著高于人口统计学特征相似的未参与对照组。

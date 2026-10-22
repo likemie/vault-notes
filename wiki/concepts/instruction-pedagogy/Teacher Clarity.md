@@ -61,11 +61,7 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Teacher Clarity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教师清晰度（Teacher Clarity）** 指执教者在课堂教学中向学习者准确传递学习目标、[[Success Criteria|成功标准]]、学科概念结构与学习操作指引的专业沟通与组织品质。它要求教师语言条理分明、用词精准无歧义、逻辑架构严密，并能提供结构化的实例示范与适切的[[Scaffolding|认知支架]]。在实证教学研究中，清晰度被普遍视作激活学生注意力、压缩理解阻抗与促进[[Academic Achievement|学业成就]]的核心教学行为特质。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 432)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教学沟通维度辨析
 > | 维度 | 教师清晰度（Teacher Clarity） | 教师即时亲和力（[[Teacher Immediacy]]） | 讲授流畅性（Lecture Fluency） |
 > |---|---|---|---|
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **目标与准则显性化（Clarity of Intentions & [[Success Criteria]]）** 明确宣告“本次课要学什么”以及“达到何种标准才算掌握”，使学习者从开端即拥有清晰的自我监控参照系。
 > - **概念阐释的结构严密性（Conceptual Structural Transparency）** 运用[[Concept Mapping|概念图]]、[[Advance Organizers|先行组织者]]与多维对比，清晰梳理新旧知识交汇点，揭示学科知识的深层内在网络。
 > - **分步示范与支架化指令（Explicit [[Scaffolding]] Instructions）** 将复杂任务拆解为阶段性子任务，通过“出声思考（Think-Aloud）”向学生全景展示解题专家的思维推理过程。
@@ -142,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -152,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1970s — 过程-结果（Process-Product）研究中的清晰度发现** 巴拉克·罗森夏因（Barak Rosenshine）与福斯特（Furst）通过大规模[[Classroom Observation|课堂观察]]，确立“教学清晰度”与学生考试成绩存在稳定正相关。
 > - **1980s — 教学维度[[Operationalization|操作化]]与[[Scale Development|量表编制]]** 唐纳德·克鲁克香克（Donald Cruickshank, 1985）编制教师清晰度量表，将清晰度解构为讲解通透、实例丰富、组织结构严密等具体行为指标。
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > - **2009–2011 — 可见学习与[[Ewald Terhart|特哈特]]述评确立其量化顶峰排位** [[John Hattie|哈蒂]][[Meta-meta-analysis|二阶元分析]]将教师清晰度[[Effect Size|效应量]]标定为 $d = 0.75$，特哈特在长篇书评中将其作为[[Effective Teaching|有效教学]]核心实证典型，确立其作为成熟教学要素共识的代表性地位。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -173,8 +159,6 @@ updated: 2026-10-22
 > > - **探究[[Constructivist Paradigm|建构主义]]视角（Kapur [[Productive Failure|生产性失败]]理论）** 认为在探索高阶迁移问题时，适度的不确定性与尝试困惑对深层概念理解至关重要，过度细致的步骤清晰反而会诱发思维惰性。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="concept-meta-table-marker" aria-hidden="true"></span>

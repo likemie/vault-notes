@@ -39,11 +39,8 @@ status: draft
 created: 2026-06-02
 updated: 2026-10-16
 ---
-# Metainferences
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 元推论（Metainferences）是[[Mixed Methods Research\|混合方法研究]]中的关键术语。当研究者在[[Joint Display\|联合展示]]表格或图表中检视量化与质性数据的并排比较后，会得出关于两种数据库组合所产生洞见的结论——研究者先分别得出量化推论（quantitative inferences）和质性推论（qualitative inferences），然后基于两种数据库的组合，得出**超越单一数据类型**的额外推论（即元推论）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 234)]]
@@ -59,8 +56,6 @@ updated: 2026-10-16
 > *As a researcher examines the joint display table or graph, conclusions are drawn about the insight emerging from comparing the two databases. In mixed methods, these insights are called metainferences, which suggests that a researcher concludes quantitative and qualitative inferences and then draws additional inferences (metainferences) based on combining the quantitative and qualitative databases.*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 元推论 vs 量化推论 vs 质性推论
 > | 维度 | 量化推论 | 质性推论 | 元推论 |
@@ -87,8 +82,6 @@ updated: 2026-10-16
 >   研究者检视质性发现与设计特征（如调查条目、[[Variable\|变量]]、量表）之间的对应关系，检验经过调整的量化评估是否产生了良好结果、是否对目标样本和人群表现出敏感性、结果与已有文献和理论的比较如何。
 
 ---
-
-### 元推论的提取过程
 
 > [!proc] 在联合展示中提取元推论的操作流程
 > 1. **添加元推论列** 在[[Joint Display\|联合展示]]表格中添加专门的"元推论"列或行，为跨数据库比较的洞察预留空间
@@ -126,8 +119,6 @@ Onwuegbuzie and Johnson (2006, p. 52) 指出[[Mixed Methods Research|混合方�
 > - **整合（integration）** 使用和结合量化和质性方法——两者各有自己的、有时对抗性的效度标准，元推断的质量取决于整合过程中这些标准的协调程度。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]] — 在[[Mixed Methods Research\|混合方法研究]]设计中系统介绍元推论的概念，描述在三种设计类型中提取元推论的操作逻辑。

@@ -55,11 +55,7 @@ created: '2026-06-08'
 updated: 2026-10-22
 ---
 
-# Robert Marzano
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 罗伯特·J·马扎诺（Robert J. Marzano, 1946–）是美国当代著名教育研究者、教育评价专家，Marzano Resources 创始人，曾长期任职于美国中大陆地区教育与学习实验室（Mid-Continent Research for Education and Learning, McREL）。
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1998 — *A Theory-Based [[Meta-analysis]] of Research on Instruction*** 确立理论驱动的[[Meta-meta-analysis|元综合]][[Paradigm|范式]]，综合 100 多项元分析，基于认知系统、[[Metacognition|元认知]]系统与自我系统对教学干预进行细颗粒度理论分类。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]
 > - **2000 — *A New Era of School Reform: Going Where the Research Takes Us*** 首次将元分析系统性应用于基础教育改革与学校管理效能评估，汇总 4,057 项效应维度，提出[[School Effectiveness|学校效能]]的五个层级系统。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
@@ -93,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育效能与教学改革研究绝不能沦为去理论化的统计数字堆砌或空洞的“品牌名”盲从，而必须建立在扎实的认知心理学理论与严密的学校层级组织保障之上；真正的教学有效性是通过对具体认知加工过程的理论指引以及学校安全、课程、教学和测评系统的协同达成的。
 
 > [!proc] [[School Effectiveness|学校效能]]的五个层级（Five Levels of School Performance, Marzano 2000）
@@ -115,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法路径** 率先将 Gene Glass（1976）创设的[[Meta-analysis|元分析]]方法运用于大规模教育实证综合（汇总 4,057 项效应维度），创造了“学校效应”（school effects）的经典[[Analytic Framework|分析框架]]，开创了[[Evidence-Based Education|循证教育]]政策研究的量化传统。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 > - **理论路径** 提出的理论驱动[[Meta-meta-analysis|元综合]]不仅深刻启发了后续学者（如 Higgins et al.）反思元分析分类缺陷，其构建的马扎诺分类学也成为西方替代传统[[Bloom's Taxonomy|布鲁姆分类学]]的核心框架之一。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]; [[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 230)]]
 > - **承继与拓展** [[John Hattie|John Hattie]] 直接继承了马扎诺关于“学校效应”的提法和元分析综合传统，但 Hattie 将其进一步推向包含 800+ 元分析的“二阶元分析”（mega-analysis），在更宏观的全球政策层面掀起了可见学习浪潮。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
@@ -127,8 +117,6 @@ updated: 2026-10-22
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 高度评价马扎诺1998年元综合报告在解构“品牌名”聚合偏误与践行理论驱动分类上的开创性方法贡献。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与局限
 >

@@ -78,11 +78,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Teacher Professional Agency
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、本土化课程开发与差异化评价上所拥有的专业决策权、[[Phronesis|实践智慧]]与自主行动空间。它强调教师不是被动执行死板清单与应试考评的技术操作工，而是具备反思能力、根据特定情境建设师生学习共同体的专业实践者，并在遭遇不合理行政规约、新泰勒制监控与资本渗透时具备批判性政策审议与集体维权的民主行动能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 11–14)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教师专业能动性 vs. 新泰勒制清单管理 vs. 自由放任个人主义
 > | 维度 | 教师专业能动性（Teacher Professional Agency） | 新泰勒制清单管理模式（Neo-Taylorist Checklist Model） | 自由放任个人主义（Laissez-faire Individualism） |
 > |---|---|---|---|
@@ -113,8 +107,6 @@ updated: 2026-10-22
 > | **专业发展机制** | 终身持续专业发展、同行研讨与社区结盟 | 接受外部商业机构或管理层推销的处方化操作技能培训 | 拒绝同行介入，缺乏系统专业成长机制 |
 
 ---
-
-## 核心要素
 
 > [!feature] 教师专业自主权的核心支撑支柱
 > - **教学法与探究设计自主（Pedagogical Freedom）** 教师根据学生的认知规律与本土资源，自主选择教学流派、调配进度并设计[[Open-Mindedness|开放性]]探究方案。
@@ -198,8 +190,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 治理维度 | 代表学者与文献 |
 > |---|---|---|---|
@@ -211,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 教师专业能动性的理论演进脉络
 > - **1980 年代 — [[Critical Pedagogy|批判教育学]]倡导教师作为转化型知识分子** [[Henry Giroux|亨利·吉鲁]]与[[Paulo Freire|保罗·弗莱雷]]提出教师不应沦为流水线技工，而应作为具有批判意识的知识分子行使反思能动性。
 > - **1998 — 十万名教师联合抗议与立法失语** 面对美国《[[Reading Excellence Act|卓越阅读法案]]》推行单一拼读规约，全美逾十万名教育工作者向国会请愿，标志着教师群体捍卫科研与教学自主权发起的大规模集体发声。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
@@ -222,8 +210,6 @@ updated: 2026-10-22
 > - **2026 — 治理视角下系统性不信任与宏观宽框架确立** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]揭示[[Institutional Distrust|制度性不信任]]对能动性的压制回路；英国皇家学会（2026）提炼爱沙尼亚等国标杆经验，将宏观宽大纲与教师专业赋权确立为突破师资瓶颈的核心战略。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -250,8 +236,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -264,8 +248,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] 澳大利亚维多利亚州：[[Victorian HITS and Literacy Toolkit|HITS]] 教学策略清单对专业自主权的蚕食
 > 澳大利亚维多利亚州教育部推行基于 [[Visible Learning]] 提炼的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求公立学校教师上课前必须在白板上规范书写[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]。教学常规检查将板书打卡列为硬性指标，导致一线教师为了免遭扣分而被迫依从固定格式，丧失了根据课堂偶发事件与真实互动展开即兴教学的专业空间，引发了严重的职业倦怠（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
@@ -276,8 +258,6 @@ updated: 2026-10-22
 > 面对 1998 年美国联邦《[[Reading Excellence Act|卓越阅读法案]]》试图立法确立单一拼读大纲并排斥多元阅读研究，全美逾十万名教育工作者向国会呈交联名信捍卫专业自主权。在此类立法强推背景下，部分学区基于宪政分权原则选择拒领附带教学管制的联邦专款，体现了专业能动性从课堂微观调适走向制度抵制的行动力（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, pp. 6]], 11–14）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 教学作为人际学习共同体 vs 机械外科手术清单
 > 在《[[Visible Learning|可见的学习]]》中，[[John Hattie|哈蒂]]将外科手术和高山救援作为教学应当效仿的科学职业……然而，教学的核心关注点不在于核查清单或标准操作程序。教学关乎在具体的社区、特定的学校和充满差异的班级中，认真负责地建设一个学习共同体。这是一项复杂的、充满关系性的挑战，需要广阔的人文与专业技能，这与医学核查清单、缝合伤口或打绳结毫无共同之处。任何错置的医学研究术语、统计筛选或一厢情愿的空想都无法改变这一事实。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]

@@ -76,8 +76,6 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# John W. Creswell
-
 ---
 
 ## 简介

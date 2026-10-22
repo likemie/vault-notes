@@ -35,11 +35,7 @@ created: 2026-07-04
 updated: 2026-10-22
 ---
 
-# Hierarchy of Future Issues in Comparative Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 比较教育未来议题层级（Hierarchy of Future Issues in Comparative Education）是学科元研究与议程分析概念，由 [[Robert Cowen]] 于 2023 年提出。它将比较教育学科所关注的研究对象与主题划分为五个递进的智识层级：常规谜题（学校系统运转与常规改革）、热门主题（高产且持续升温的理论热点）、突破性主题（直穿未来的新兴变革力量）、冷门主题与重大沉默（面对战争、革命、帝国等大剧变的集体失声），以及最高维度的[[Readings of the Global\|全球解读]]（[[Geopolitics|地缘政治]]与经济大叙事变迁）。这一框架旨在揭示比较教育如何选择性分配其智识注意力，并批判其因过度沉溺于技术官僚常规业务而丧失前瞻解释力的局限。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 329–331]])
@@ -50,8 +46,6 @@ updated: 2026-10-22
 > - **边界** 并非用于代替具体的实证议题研究，而是作为元[[Theoretical Perspective\|理论视角]]（meta-[[Theoretical Standpoint\|theoretical lens]]）审视和重构比较教育的学科议程。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
 
 ---
-
-## 核心要素
 
 > [!theory-components] 未来议题的五个智识层级
 > - **常规谜题（Normal-puzzle topics）**
@@ -66,8 +60,6 @@ updated: 2026-10-22
 >   最高维度的宏观回应，代表了学科如何阅读地缘政治与经济大叙事变迁，并由此定性了学科在特定历史时期的总体理解风格。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 329–331)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：技术官僚政策咨询 vs 纯粹学术前瞻
 > - **技术官僚政策咨询倾向** 倾向于将学科注意力紧锁在常规谜题（Normal puzzles）中，以提供实用政策建议、嫁接外国方案为目的，沦为国家机器行政控制的社会管道工。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 327]])

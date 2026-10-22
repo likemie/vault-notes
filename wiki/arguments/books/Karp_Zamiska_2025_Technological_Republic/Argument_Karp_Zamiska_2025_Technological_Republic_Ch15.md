@@ -75,11 +75,8 @@ status: draft
 created: 2026-10-08
 updated: 2026-10-16
 ---
-# Argument_Karp_Zamiska_2025_Technological_Republic_Ch15
 
 ---
-
-## 本章主旨
 
 > [!chapter-question]
 > 在资本市场与科技创新高度繁荣的表象之下，为何地方执法、公共医疗与基础教育等关乎国计民生的核心公共治理领域反而沦为了被科技界普遍规避的[[Innovation Desert|创新荒漠]]？从[[Francis Galton|弗朗西斯·高尔顿]]（[[Francis Galton|Francis Galton]]）的[[Wisdom of Crowds|群体智慧]]实验到[[Michael Sandel|迈克尔·桑德尔]]（[[Michael Sandel|Michael Sandel]]）批判的[[Market Triumphalism|市场必胜论]]，自由市场逻辑如何诱导科技界沉迷于消费级轻应用而放弃对公共善的哲学追问？在面对城市恶性涉枪暴力时，以[[William Blackstone|威廉·布莱克斯通]]（[[William Blackstone|William Blackstone]]）宁纵十罪不枉一无辜的[[Blackstone's Ratio|布莱克斯通比率]]为代表的司法审慎原则，如何被异化为企业与政客推卸治理复杂性的托词？结合[[Rob Henderson|罗伯·亨德森]]（[[Rob Henderson|Rob Henderson]]）提出的[[Luxury Belief|炫耀性信念]]与科技巨头的公关式避险，重构[[Technological Republic|技术共和国]]为何必须依靠建立权责对称的所有权社会与[[Founder Culture|创始人文化]]来打破公共治理的瘫痪状态？
@@ -286,8 +283,6 @@ updated: 2026-10-16
 > - **建立利益攸关的创始人文化与所有权社会** 重建[[Technological Republic|技术共和国]]必须在政府体制中培育科技创业者的[[Founder Culture|创始人文化]]，确立权责对称机制——**绝不把领导权交给那些对自身成败没有任何切身利益担当的人**（p. 178）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Francis Galton|高尔顿]]论普利茅斯公牛估重实验与民主判断的可[[Reliability|信度]]
 > 787 位参观者猜测公牛重量的中位数为 1207 磅，与 1198 磅的真实重量相差不到 0.8%；这一惊人结果引发了关于[[Wisdom of Crowds|群体智慧]]及其精确预测能力的百年学术探讨，并指向了民主判断的可信度。

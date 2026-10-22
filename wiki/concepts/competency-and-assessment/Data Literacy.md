@@ -76,11 +76,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Data Literacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 数据素养（Data Literacy）涵盖双重维度：在**通识与课程教育层面**，指个体在日益数字化的社会中理解、解读、批判性评估和负责任应用数据的综合胜任力，依托概率论与统计学基础，涵盖对数据来源真实性、抽样偏差、可视化操纵及不确定性的批判审视（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026, p. 31]]）；在**教育者专业探究层面**，指教师与[[School Leadership\|学校领导]]者将多源校本数据（输入、过程、情境与结果数据）系统收集、质检清洗、深入解读并转化为可操作教学见解的核心胜任力（Mandinach & Gummer, 2016；Schildkamp & Kuiper, 2010），重点在于发展[[Analytical Stance\|分析立场]]（analytical stance），克服对终结性考试分数的单一依赖，并对定性与定量证据进行[[Triangulation\|三角验证]]以支持教学调整与学校持续改进（[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp. 129–131]]；[[Argument_Brown_2017_EducRes\|Brown et al., 2017, pp. 156–159]]）。
@@ -102,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 数据素养的多重维度辨析
 | 维度 | 学生通识数据素养 | 教育者专业数据素养 | [[Data Infrastructure\|数据基础设施素养]]（Data Infrastructure Literacy） | [[Research Literacy\|研究素养]]（Research Literacy） |
 |---|---|---|---|---|
@@ -114,8 +108,6 @@ updated: 2026-10-22
 | **固有盲区** | 易停留在抽象做题，脱离现实生活复杂情境 | 能诊断病因却不知如何研制[[Effective Teaching\|有效教学]]干预方案 | 偏重系统与制度批判，较少直接指导微观课堂日常教学交互 | 方案成熟但易追逐时髦热点，脱离校本真实学情 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **概率与风险推断（Probability and Risk Reasoning）** 准确把握随机性、期望值与风险概率，克服直觉偏差与恐慌心理。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
@@ -189,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 |---|---|---|---|
@@ -201,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 数据素养的内涵拓展
 > - **1990s–2000s — 统计学与信息素养衍生** 数据素养最初被界定为统计计算与信息检索技能的延伸，主要服务于高等教育与专业科研人员。
 > - **2000s–2010s — 问责政策下的教师数据使用能力** 伴随欧美教育问责制和测试本位改革（如美国 [[No Child Left Behind Act 2001\|NCLB]] 法案），数据素养聚焦于教师解读标准化考试成绩与管理报表的技术能力。
@@ -212,8 +200,6 @@ updated: 2026-10-22
 > - **2020s — 全员通识素养与批判性公民胜任力** [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] 等机构推动数据素养面向全体 18 岁学习者的全科贯通，强调在真实复杂议题中的概率推理与数据批判。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -245,8 +231,6 @@ updated: 2026-10-22
 > - **缺乏教学干预推导力** 数据素养能够帮助教师精确定位教学问题所在，但数据本身绝不提供现成处方；若缺乏深厚教学法底蕴与外部研究支持，教师依然苦于研制不出科学改进措施。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 159)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

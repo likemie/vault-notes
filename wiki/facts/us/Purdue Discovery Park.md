@@ -38,8 +38,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Purdue Discovery Park
-
 > [!info] 内容
 > 普渡发现园（Purdue Discovery Park）是普渡大学（Purdue University）在印第安纳州西拉法叶市（West Lafayette）创建的大学[[Innovation Park\|研究园区]]，位于校园西侧边界([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.131–132]])。
 

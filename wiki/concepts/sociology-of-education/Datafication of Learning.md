@@ -63,11 +63,7 @@ created: '2026-09-12'
 updated: 2026-10-22
 ---
 
-# Datafication of Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **学习数据化（Datafication of Learning）** 是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其转译为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字编码、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习评价与技术形态的比较辨析
 > | 比较维度 | 本概念（学习数据化 Datafication of Learning） | 教育数字化转型（Digitalisation of Education） | 传统纸笔标准化测验（Standardised Testing） |
 > |---|---|---|---|
@@ -102,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **从“教”向“学”的[[Discourse|话语]]位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 > - **微观认知经验的[[Commensuration\|通约化]]与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
 > - **[[Governing at a Distance\|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使[[UNESCO\|联合国教科文组织]]、[[OECD\|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-22
 > - **2021–2024 — 多边数据协定与[[Governing by Numbers\|数字治理]] 2.0 时代** [[UNESCO\|教科文组织]]、[[World Bank\|世行]]与[[UNICEF\|儿童基金会]]设立“[[Learning Data Compact\|学习数据协定]]”（Learning Data Compact），施泰纳-哈姆西等（2024）揭示学习数据化已成为全球五大治理巨头构建排他性权力同盟的核心技术基础。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -195,8 +183,6 @@ updated: 2026-10-22
 > 该概念聚焦于批判性制度与文化宏观社会学透视，不适合用于微观课堂环境下具体的心理测量模型参数校准或技术排障。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

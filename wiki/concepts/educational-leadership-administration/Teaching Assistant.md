@@ -59,11 +59,7 @@ created: '2026-09-14'
 updated: 2026-10-22
 ---
 
-# Teaching Assistant
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **助教（Teaching Assistants, TAs；英国亦称 Learning Support Assistants 或 Classroom Assistants）** 是英国中小学课堂中由学校雇用的准专业人员（paraprofessionals），在持有正式教师资格的主讲教师（Qualified Teacher）领导下提供课堂教学辅助与个别化支持。助教群体规模庞大——2019 年英格兰雇佣约 38 万名助教，占学校教职总数四分之一以上。在[[Evidence-Based Education\|循证教育]]与教育治理视域下，助教构成了极具代表性的双重研究案例：一方面，常规配置下的逆向效应推动英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）发起基于七项建议的区域规模化战役，提供了[[Knowledge Mediation\|知识中介]]重塑实践的因果验证（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 149–150, 157]]）；另一方面，围绕“助教是否有效”的循证争论，深刻折射出官方中介[[Interactional Expertise\|交互型专长]]与一线教师[[Contributory Expertise\|贡献型专长]]之间的制度博弈与政治化挪用（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 19–21]]）。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 助教配置的两种组织模式对比
 > | 比较维度 | 常规随意配置模式（Traditional Discretionary Model） | 循证结构化重组模式（Evidence-Informed Structured Model） |
 > |---|---|---|
@@ -92,8 +86,6 @@ updated: 2026-10-22
 > | **实证学业后果** | 产生系统性隔离与负向逆转（Webster et al., 2010） | 获得显著正向学业增益（Sibieta & Sianesi, 2019） |
 
 ---
-
-## 核心要素
 
 > [!feature] 助教体制与循证重组的核心要素
 > - **庞大财政与人力规模** 英格兰雇佣逾 38 万名助教，年度公共支出数十亿英镑，其配置模式直接关涉教育公共资源的使用效益。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 149)]]
@@ -137,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > | **政治挪用与手艺抵制命题** | 官方证据被异化为财政裁员工具，遭到一线贡献型专长的批判性抵制 | 证据政治学、教育治理与专业专长博弈 | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 助教效能的[[Epistemology\|认识论]]与治理争议
 > 
@@ -165,8 +153,6 @@ updated: 2026-10-22
 > > - **校本自主诉求** 主张[[School Leadership\|学校领导]]者最清楚生源[[Heterogeneity\|异质性]]与具体困境，应当享有基于[[Professional Judgment\|专业判断]]调配助教资源的自主空间。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

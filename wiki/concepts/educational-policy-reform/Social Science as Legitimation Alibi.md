@@ -79,11 +79,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Social Science as Legitimation Alibi
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **实证社会科学作为合法化借口（Social Science as Legitimation Alibi）** 指在教育政策制定、国家发展规划与跨国治理实践中，实证量化社会科学（尤其是[[Variable\|变量]]共变与统计预测模型）被政府官员与技术官僚工具化，用以规避决策政治责任、免受道德反思与公众问责，并为预先设定的意识形态方针披上“[[Value Neutrality\|价值中立]]”与“客观规律”外衣的政治功能机制。该概念揭示了[[Positivism\|实证主义]]在现实政策[[Champ\|场域]]中独占鳌头的动力，根源于其满足了统治权力对合法性屏障（Alibi）的制度性渴求，而非源于其在[[Epistemology\|认识论]]上的真理优越性。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 64, 67–69)]]
@@ -114,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Research Utilization\|研究使用]]的三种类型学与政治借口机制辨析
 > | 维度 | [[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]（Instrumental Use） | 概念性使用（Conceptual Use） | 实证社会科学作为合法化借口（Legitimation Alibi） |
 > |---|---|---|---|
@@ -126,9 +120,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **官方资助市场的逆向淘汰机制** 科研资助机构与政客对无法得出明确处方、不支持预设方针且无法在官员任期内提供速效保证的研究（如霍姆斯揭示深层矛盾的[[Problem Approach\|问题法]]）抱有天然疑虑，促使资金向能提供直观回归系数的实证派高度集中。
 > - **机构赞助与[[Geopolitics|地缘政治]]利益合谋（Institutional Patronage & Policy Interests）** 实证功能主义与[[Empiricism|唯方法论主义]]在战后的迅速扩张绝非纯粹的[[Epistemology|认识论]]演进，而是得到了国家政府、私人慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）强大的制度性资助；这些资助机构出于自身的行政与地缘政策利益，系统性地将实证社会科学作为推行发展规划与技术援助的科学护照。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
 > - **历史谱系中的改良借用辩护长波（Meliorist Legitimising Rationales）** 跨国教育知识作为政治合法化借口具有深远的历史根基：早在 19 世纪，欧美行政视察官便将外国办学数据转化为游说议会、推行公共教育税收的合法化理由；战[[Postpositivism|后实证主义]]则将这一机制升级为以[[Multiple Regression|多元回归]]与[[Human Capital Theory|人力资本]]模型为国家五年计划免责背书。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 141, 149)]]
@@ -195,8 +187,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -216,8 +206,6 @@ updated: 2026-10-22
 > - **1990s 至今 — 跨国测评排位治理中的制度惯性延续** 尽管实证[[Determinism\|决定论]]在哲学上破产，但政治家依然执着于依靠 [[IEA]] 研究与 [[OECD]] [[PISA]] 等大规模量化测试，将其作为向国内推行紧缩政策、问责改革与教师绩效考评的外在合法化免责借口。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 333–334)]]; [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力
 > - **独立求真的学术批判品格（蓝方）** 主张社会科学必须保持学术批判距离，如霍姆斯[[Problem Approach\|问题法]]坚持揭示制度与观念间的深层脱节、警惕非意图后果，拒斥成为权力的附庸。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981; Mattheou, 2009, pp. 63, 67)]]

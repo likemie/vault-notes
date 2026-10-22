@@ -42,8 +42,6 @@ updated: 2026-10-22
 >
 > > "Because the outcome for any one student depends on the students with whom he or she interacts, and because that depends on which students are assigned to which interventions, causal effects are defined not just by the interventions, but by which students happen to be assigned where." ([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.195]])
 
-## 核心要素
-
 > [!abstract] 违反机制：集群[[Random Assignment\|随机化]]中的主体间干扰
 > SUTVA 在教育研究中最重要的违反场景是 **[[Cluster Randomized Trials\|集群随机试验]]（CRT）**。在典型的教室集群随机化中：
 >

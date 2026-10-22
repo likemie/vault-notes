@@ -41,11 +41,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Studiebarometeret
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年由[[Norwegian Agency for Quality Assurance in Education\|挪威教育质量保障局]]（NOKUT）受挪威教育与研究部委托正式发起。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
@@ -54,8 +50,6 @@ updated: 2026-10-22
 > - **制度位置** 作为挪威国家高等教育质量监测与外部质保审计（Institutional QA Audits）的核心信息基础设施。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 挪威政府通过年度全国学生学业晴雨表（Studiebarometeret），系统采集学生对教学质量、考核反馈、[[Active Learning\|主动学习]]投入与[[Critical Thinking\|批判性思维]]训练的评价，并在专属公开门户向全社会发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]

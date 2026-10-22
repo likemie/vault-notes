@@ -43,11 +43,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Peer Mentoring
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 同伴[[Mentorship\|导师制]]（Peer Mentoring，或近同伴导师制 Near-Peer Mentoring）是一种由具备相关学术与生活经验的高年级或同辈学习者（Peer Mentor），向新手或低年级学生（Mentee）提供结构化一对一或小组指导的教育实践。通过经验分享、[[Scaffolding\|认知脚手架]]搭建与社会情感支持，同伴导师制帮助受训者克服学业转型障碍、深化复杂问题理解并培养[[Critical Thinking\|批判性思维]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 287)]]
@@ -63,8 +59,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 同伴指导与相近[[Construct\|构念]]辨析
 > | 维度 | 同伴[[Mentorship\|导师制]]（Peer Mentoring） | 传统教师导师制（Faculty Mentoring） | 传统同伴辅导（[[Peer-Supported Learning\|peer tutoring]]） |
 > |---|---|---|---|
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > | **认知机制** | 亲历经验迁移与低焦虑探讨 | 专家示范（Modeling）与高阶严谨审查 | 知识复述与单向指导 |
 
 ---
-
-## 核心要素
 
 > [!feature] 同伴导师的核心功能维度
 > - **学术与认知支持** 在探究性学习与解题过程中提供提问句干支架、思路梳理与同伴反馈，协助受训者度过认知瓶颈期。
@@ -101,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：[[Mentorship\|导师制]]在复合策略中的干预 | 导师指导（含同伴导师与教师导师）作为干预维度 | $k = 28$ | $g+ = 0.39$ $[0.23, 0.55]$ | 复合策略 A+D+M 达到 $g+ = 0.57$（$z = 1.98, p = .024$） | 证实导师作为认知催化剂的核心功能 |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 实施挑战与风险
 > - **导师自身认知局限与误导** 若同伴导师未经系统培训，可能传递错误概念或非规范的解题捷径，需要教师进行间接监督。

@@ -38,11 +38,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# Gilbert Nicol
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 北美高等教育规划、大学行政与非营利教育组织管理者；1977 年 8 月起担任[[International Baccalaureate North America\|国际文凭北美公司]]（[[International Baccalaureate]] North America，IBNA）执行主任。
@@ -55,8 +51,6 @@ updated: 2026-10-22
 > - **1971–1976 年** 担任大学与学院规划协会（Society for College and University Planning）执行主任，并曾任普林斯顿大学发展副主任，积累教育规划与募款经验（p. 143）。
 > - **1977 年 8 月起** 接任 [[International Baccalaureate North America\|IBNA]] 执行主任，在极小的纽约办公室建立专职区域业务；学校扩张在 1983 年迁入更大办公室前已经开始（pp. 143–144）。
 > - **1978–1984 年** 组织介绍会与教师培训工作坊，逐步把推广从单次宣传转向学校申请、教师准备和考官参与相互连接的支持体系（pp. 149–152）。
-
-## 核心贡献
 
 > [!claim] 把课程传播组织成实施能力建设
 > 新课程的采用取决于教师是否认同目标、能否承担额外劳动，以及是否能从更有经验的学校和考官获得支持。介绍会让学校形成初步判断，培训工作坊再把课程知识、校际联系和国际运动身份提供给教师。两类活动形成从了解、申请到实施的连续路径，而不是把扩张停留在行政推广。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 149–152)]]

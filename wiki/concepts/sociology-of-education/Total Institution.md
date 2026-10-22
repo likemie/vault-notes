@@ -48,11 +48,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Total Institution
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全控机构（Total Institution）是社会学家[[Erving Goffman|欧文·戈夫曼]]（[[Erving Goffman]]）在《收容所》（*Asylums*, 1961）中提出的制度社会学经典概念，指大量处境相似的个体在相当长的时间内与外部广阔社会相隔绝，并在封闭、受到形式化管理的单一权威与场所中共同度过全部日常生活的一种组织形态。在全控机构中，睡眠、游憩与工作等通常在不同[[Champ|场域]]展开的活动被强行一体化，由统一的严格日程和管理者阶层集中支配。精神病院、监狱、军队、修道院与[[Boarding Schools|寄宿学校]]是其典型范例（Goffman, 1961, p. xxi; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], §31.3）。在当代政治社会学中，该概念进一步被引申为对精英大学及科技企业封闭行政文化、语言自我审查与道德钝化机制的批判透镜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
@@ -111,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -127,8 +121,6 @@ updated: 2026-10-22
 > - **2020年代至今 — 逆向审视当代精英大学与科技官僚生态** 卡普与扎米斯卡等学者将全控机构概念逆向应用于批判当代常春藤高校与硅谷巨头，指出形式化的语言监管、道德合规与对现实冲突的制度性隔绝，正在制造新一代缺乏真实信念的空洞行政管理阶层。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

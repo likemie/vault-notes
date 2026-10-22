@@ -50,11 +50,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Susan L. Robertson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名批判教育社会学家、全球化理论家，剑桥大学教育学讲席教授（Professor of Sociology of Education），顶尖学术期刊《全球化、社会与教育》（*Globalisation, Societies and Education*, GSE）创刊主编。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000s — 多标度空间治理与 [[GATS and Trade in Education Services|GATS]] 贸易规制批判** 将地理学空间标度理论引入教育社会学，剖析跨国贸易协定对主权国家权力的重构。
 >   - **代表著作** "GATS and the Multilateral Regulation of Education Services" (2002, with X. Bonal & R. Dale); *Globalisms and Europeanisms in Education* (2002, with R. Dale)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -90,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球化不是权力的简单消散，而是权力在地理与制度空间上的重新标度化（[[Rescaling]]）。伴随[[World Trade Organization|世贸组织]]及其《[[GATS and Trade in Education Services|服务贸易总协定]]》的推行，教育被制度化地重组为一种跨境资本可以合法套利的私人物品与贸易服务，民族国家不再垄断教育的筹资、提供与规制权，而是不得不与跨国资本、私立承包商和区域集团共享甚至让渡主权；这一过程深刻地加剧了全球教育获取的不平等与教师劳工的去专业化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!citation-card] 罗伯逊论世贸组织与国家主权让渡

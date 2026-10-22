@@ -57,11 +57,8 @@ status: draft
 created: 2026-06-23
 updated: 2026-10-16
 ---
-# Threats to External Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[External Validity\|外部效度]]威胁（Threats to external validity）指限制研究发现从[[Study Population and Sample\|研究样本]]推广到更广泛总体、情境和时间的系统性偏差来源。[[External Validity\|外部效度]]关注研究发现的**可推广性（generalizability）**——这些威胁正是那些**收缩可推广边界**的因素。当存在外部效度威胁时，研究者无法确定其发现在研究情境之外的适用性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 168–173)]]
@@ -157,8 +154,6 @@ Onwuegbuzie & Leech (2006b: 237–8) 进一步识别了质性研究中跨越十�
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 172–173)]]
 
 ---
-
-## 两种范式处理外部效度威胁的不同逻辑
 
 > [!contrast-table] 量化与[[Qualitative Research\|质性研究]]处理[[External Validity\|外部效度]]威胁的不同逻辑
 > | 维度 | [[Quantitative Research\|量化研究]] | 质性研究 |

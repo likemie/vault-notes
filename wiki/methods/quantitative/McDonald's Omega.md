@@ -49,11 +49,7 @@ created: 2026-08-29
 updated: 2026-10-22
 ---
 
-# McDonald's Omega
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **麦克唐纳 $\omega$ 系数（McDonald's Omega）** 是现代心理计量学与结构方程模型中基于同类测验模型（Congeneric Test Model）估计测量工具[[Internal Consistency\|内部一致性]][[Reliability\|信度]]的核心统计量。由 Roderick McDonald（1999）系统提出，它通过显式纳入每个题项在潜[[Variable\|变量]]上的非等同**因子载荷（Factor Loadings）** 与**测量残差方差（Error Variances）**，消除了经典 Cronbach's $\alpha$ 强求本质 $\tau$-等值（等载荷）所带来的系统性信度低估偏差。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 11)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 属于现代潜[[Variable\|变量]]测量[[Paradigm\|范式]]，强调[[Reliability\|信度]]不仅是被试作答的样本表面统计特征，更是特定因子模型（[[Confirmatory Factor Analysis\|CFA]] / EFA）与真实数据拟合度的结构化参数。
 > - **研究者角色** 研究者必须在拟合优度良好的因子模型（CFA）前提下计算 $\omega$；如果底层因子模型错误，计算出的 $\omega$ 亦无实际意义。
@@ -83,10 +77,6 @@ updated: 2026-10-22
 > - **不声称回答的问题** $\omega$ 本身度量信度（测量精确性），不能直接替代效度检验（如 [[Average Variance Extracted\|AVE]] [[Convergent and Discriminant Validity\|收敛效度]]与 Fornell-Larcker 区分效度）。
 
 ---
-
-## 研究程序与数学原理
-
-### 量化分析与公式推导
 
 > [!formula-step] 公式步骤一　单维/同类因子模型下的 McDonald's $\omega$
 > $$\omega = \frac{\left(\sum_{i=1}^{k} \lambda_i\right)^2}{\left(\sum_{i=1}^{k} \lambda_i\right)^2 + \sum_{i=1}^{k} \theta_i}$$
@@ -140,8 +130,6 @@ updated: 2026-10-22
 > | [[Confirmatory Factor Analysis]] | 估计引擎 | 为 $\omega$ 提供精准的标准化因子载荷 $\lambda$ 与残差方差 $\theta$ 估计值。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在[[Research Literacy Scale for Teachers\|教师研究素养量表]]（RLS）心理测量学检验中，同步报告了总量表 McDonald's $\omega = .95$（Cronbach's $\alpha = .94$），确立了优异的潜[[Variable\|变量]]合成[[Reliability\|信度]]。

@@ -47,11 +47,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Electronic Design Automation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 电子设计自动化（Electronic Design Automation, EDA）是指利用计算机软件算法、硬件描述语言（HDL）与多层次抽象模型，自动化完成超大规模集成电路（[[VLSI Project|VLSI]]）、印刷电路板及微系统的功能规范制定、逻辑综合、物理版图生成、时序收敛、多物理场仿真以及可制造性验证的全套工具链与方法体系。在现代半导体产业链中，EDA 是连接上游芯片架构设想与下游晶圆代工物理制造的核心数字桥梁，直接决定了集成电路的设计效率、芯片性能、功耗与量产良率。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15–16, 23–24)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > | **产业位置** | 芯片无晶圆厂（Fabless）与系统厂商的设计核心软件底座 | 制造业通用工程研发与结构分析工具 | 晶圆代工厂（Foundry）与芯片设计厂商之间的标准化契约接口 |
 
 ---
-
-## 核心要素
 
 > [!feature] 电子设计自动化全技术栈核心要素
 > - **系统级建模与高级综合（System-Level & High-Level Synthesis, HLS）** 将高级编程语言（如 C/C++、SystemC）算法规范自动转化为寄存器传输级（RTL）硬件描述，实现早期系统级架构探索与跨层次验证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 15)]]
@@ -130,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 商业闭源垄断生态 vs. 开源 EDA/[[Process Design Kit|PDK]] 普惠科研生态
@@ -161,8 +151,6 @@ updated: 2026-10-22
 > > - **开源创新与学术去壁垒论（[[Argument_NSTC_2024_MicroelectronicsResearch|NSTC, 2024]]）** 指出高昂软件授权费扼杀了全美高校师生与小微创客的硬件创新活力，倡导在成熟工艺（如 130nm/28nm）大力推行开源 EDA 流程与开放 PDK，以繁荣去中心化人才储备与前瞻概念验证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 电子设计自动化工具生态与产业集中度实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

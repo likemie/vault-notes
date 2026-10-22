@@ -59,11 +59,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Knowledge Exchange
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **知识交流（Knowledge Exchange, KE）** 指大学、公共研发机构与产业界、政府及更广泛社会主体之间，通过多渠道、正式与非正式机制进行知识、技能与专长双向互动的系统性过程。它不仅包含[[Technology Transfer|技术转移]]所聚焦的知识产权许可与衍生企业创设，更涵盖合同研究、人员双向流动、联合设施共用及非正式网络互动；[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 42–46)]] 在创新经济学与产业组织视角下，高频的知识交流构成了产业集群[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）的核心内生载体，对于复杂工程制造中的隐性诀窍（[[Tacit Knowledge]]）扩散具有不可替代的作用。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83, 102–103)]]
@@ -100,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多元互动渠道矩阵（Multidimensional Channels）** 涵盖合同研究、技术咨询、人员借调（联合聘任）、共建中试设施与高管[[Further Education|继续教育]]等丰富路径。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 44)]]
 > - **[[Tacit Knowledge|隐性知识]]的人际具身流动（Tacit Knowledge Embodiment）** 最关键的工艺创新与实验直觉无法编码为专利文本，必须通过工程师与科学家的面对面交流、共同调试产线或离职创业流转。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83)]]
 > - **长期稳定制度支持（Formula Funding & Infrastructure）** 从短期竞争性项目补贴转向公式驱动的长期稳定资金拨付，为大学建立专业化知识交流支持体系与战略性伙伴关系提供[[Patient Capital|耐心资本]]。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 42–43)]]
@@ -154,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -171,8 +163,6 @@ updated: 2026-10-22
 > - **2020 年代至今 — [[Geopolitics|地缘政治]]竞争与供应链安全审视** Bown 与 Wang（2024）等产业经济学者将知识交流纳入[[Modern Industrial Policy|现代产业政策]][[Analytic Framework|分析框架]]，反思地缘博弈和供应链去风险对传统知识外溢与[[Agglomeration Externalities|集聚经济]]的阻断效应。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83, 102–103)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

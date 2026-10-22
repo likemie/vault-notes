@@ -45,11 +45,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Shopping Mall Model of Research Universities
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Research Universities|研究型大学]]商场模型（Shopping Mall Model of Research Universities）是著名科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan）提出的组织分析隐喻，用来概括当代美国研究型大学的核心运作逻辑：大学在本质上越来越类似于高端商业购物中心——校方专注于构建最先进的实验室基础设施与机构声誉品牌，进而通过提取外部科研资助中的间接成本（indirect costs）以及要求教师冲抵个人薪酬（buyout of salary），将这些空间实质性“出租”给各课题组负责人（PI），后者如同商场内的自负盈亏商铺一般独立运营其科研实验室。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > | **空间扩张驱动** | 借贷扩建实验室以争夺明星团队与管理费返还 | 按[[Disciplinary Institutionalization\|学科建制]]与教学科研实际需求稳步配置 | 面向高利润应用科技的产业园区孵化导向 |
 
 ---
-
-## 核心要素
 
 > [!feature] 商场模型的核心组织构件
 > - **地产与品牌运营商定位** 大学行政当局扮演商业地产开发商角色，借贷建设豪华生命科学实验楼，依托历史声誉招揽外部资助与顶级团队。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
@@ -136,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 商场模型的成型脉络
 > - **1960s–1970s — 机制酝酿** 随着联邦资助间接成本核算规则的演变，大学逐步将[[Indirect Costs of Research|科研间接成本]]转化为机构扩张的重要利润来源。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 11, 14–17)]]
 > - **1980s–1990s — 模式成型** 伴随大学自筹科研资金份额与设备成本上升，大学普遍推行软钱教职与高额启动金制度，确立了以 PI 为基本承租核算单元的治理形态。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–25, 30)]]
@@ -145,16 +137,12 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 资源整合效率 vs 学术公共性侵蚀
 > > 支持者认为商场模型极大地激发了微观科研团队的创新进取心与市场敏锐度；批判学者则指出该模式彻底扭曲了大学的公共使命，将高等学府绑架在无休止的地产与排名投机之中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–34)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

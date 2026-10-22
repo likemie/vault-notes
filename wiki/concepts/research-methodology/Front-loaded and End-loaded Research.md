@@ -39,9 +39,6 @@ status: draft
 created: 2026-06-21
 updated: 2026-10-22
 ---
-# Front-loaded and End-loaded Research
-
-## 定义
 
 > [!def] 前载型与后载型研究
 > 前载型研究（front-loaded research）指设置阶段耗时较长（如开发、试点和测试工具），但数据收集后处理和分析较快的研究类型。后载型研究（end-loaded research）指设置和开始可能不太耗时，但数据收集和分析可能需要更长时间的研究类型。两者之间的区别在于研究各阶段的时间分布特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.124–126]]）。
@@ -56,8 +53,6 @@ updated: 2026-10-22
 > - 不适用于所有研究——小型研究、[[Literature Review\|文献综述]]或理论分析可能不呈现明显的前载/后载特征
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 前载型 vs 后载型
 > | 维度 | 前载型（Front-loaded） | 后载型（End-loaded） |
@@ -84,8 +79,6 @@ updated: 2026-10-22
 - **合成式** 混合方法从一开始就结合量化和质性
 
 ---
-
-## 经典案例
 
 > [!case] Turner (1972) *The Mountain People*（后载型）
 > 对乌干达东北部 Ik 部落的长期[[Fieldwork\|田野调查]]。Ik 原为游猎-采集族群，因政府将其传统领地划为国家公园并强制迁移，被迫在贫瘠山区转为农耕，陷入极端生存危机。Turnbull 进入田野前并无具体[[Hypothesis\|研究假设]]——他本意是记录一个濒危文化，却在长期[[Participant Observation\|参与观察]]中目睹了饥饿如何系统性地瓦解社会纽带。这项研究的核心发现——Ik 社会崩溃的动力机制——完全是在田野过程中[[Emergence\|涌现]]的，而非从预设问题出发。这正是后载型研究的标志性特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.125]]）。

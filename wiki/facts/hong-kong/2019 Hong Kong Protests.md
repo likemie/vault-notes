@@ -37,10 +37,6 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# 2019 Hong Kong Protests
-
-
-
 > [!info] 背景
 > 2019 年反修例运动爆发前，香港与中央政府之间的张力已在多次事件中持续累积。2012 年的反国民教育运动迫使港府撤回德育及国民教育科；2014 年的雨伞运动进一步暴露了中心与边缘在政治认同上的深层分歧([[Argument_Xu_2024_CE\|Xu, 2024, p.578]])。与此同时，中央政府对香港教育——尤其是中国历史教育——的干预力度已在逐步加大：2013 年要求审查和修订中国历史教科书，2018 年将中国历史从其他科目中独立设置([[Argument_Xu_2024_CE\|Xu, 2024, pp.578–579]])。
 >
@@ -68,9 +64,7 @@ updated: 2026-10-22
 
 ---
 
-## 关键文件／声明
-
-> [!quote|notitle] 关键文件／声明
+> [!quote] 关键文件／声明
 > "The CCP found its intervention point amidst the 2019 riots. This was achieved by framing the 2019 riots as a matter of 'national security' and Liberal Studies (LS) as the chief vehicle for fomenting subversion and sedition." ([[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 488]])
 > 
 > 中共在 2019 年的骚乱中找到了干预点。这是通过将 2019 年的骚乱框定为国家安全问题，并将通识教育科 (LS) 视为煽动颠覆和叛乱的主要载体来实现的。

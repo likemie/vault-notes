@@ -49,11 +49,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Inflation Reduction Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2022 年 8 月 16 日由美国总统乔·拜登（Joe Biden）正式签署生效（公法第 117-169 号）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2, 9)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 与《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act）及《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（IIJA）共同构成拜登政府现代美国产业战略（Modern American Industrial Strategy）的三大立法支柱。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
 > **技术中立与社会责任挂钩的绿色产业转型** 《通胀削减法案》（Inflation Reduction Act, [[International Reading Association|IRA]]）授权总额约 3690 亿美元（高盛等机构预估实际动员税收补贴可达 1.2 万亿美元）用于清洁能源与气候转型投资，通过技术中立的税收抵免基准设计、严苛的现行工资与[[Apprenticeship|学徒制]]挂钩乘数、本土内容加成及社区利益计划，将碳减排目标与重振本土高薪制造就业深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–11)]]
@@ -87,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2022-08-16** 拜登总统签署《通胀削减法案》（Public Law 117-169）生效。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **2022-11** 美国财政部与能源部发布首批关于现行工资、[[Apprenticeship|学徒制]]要求及清洁能源税收抵免的实施指导原则。
@@ -97,8 +89,6 @@ updated: 2026-10-22
 > - **2024** 全美清洁能源制造与部署投资突破数千亿美元，引发欧洲出台“绿色协议产业计划”（Green Deal Industrial Plan）等国际协调。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6, 14)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国国会与美国总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
@@ -112,8 +102,6 @@ updated: 2026-10-22
 > - **跨部门规制纠偏与自适应调整** 针对清洁电力项目并网受阻与土地审批迟缓瓶颈，联邦与州级监管机构推行行政许可改革与电网互联规则重塑（如 FERC 2023 改革）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 14)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心决策与执行者** 财政部国税局（IRS）、能源部（[[Department of Energy|DOE]]）、大型可再生能源开发商与清洁汽车制造商 — 掌控税则解释、竞争性资助分配与绿色超级工厂投资。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 10)]]
@@ -141,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 预计 3690 亿美元至 1.2 万亿美元联邦税收支出与补贴，拉动逾 5000 亿美元私人制造业投资宣布。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6, 10)]]
 > - **过程指标** 清洁能源项目开工数、工会现行工资合规率、CBP 提交与落地质量、电网互联审批周期。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11, 14)]]
@@ -160,8 +146,6 @@ updated: 2026-10-22
 > - **6%–11%** 法案预计在既有趋势基础上进一步拉动的美国温室气体减排幅度。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 14)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

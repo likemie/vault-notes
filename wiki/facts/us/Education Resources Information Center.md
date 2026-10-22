@@ -58,11 +58,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Education Resources Information Center
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 教育资源信息中心（Education Resources Information Center, ERIC）是由美国联邦教育部（U.S. Department of Education）所属[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）出资赞助并维护的国家级、公益性教育文献数字图书馆与检索系统，是全球规模最大、历史最悠久的教育学专业文献索引与全文存储枢纽。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1964–1970 年代 — 分散清算所网络奠基期** 初期采取分布式网络架构，在全美知名大学与科研机构设立十余个专业分科清算所（Clearinghouses，如阅读、初等教育、测试评价、高等教育等），负责分头采集并加工特定学科领域的学术文献与灰色报告。
 > - **1980–1990 年代 — 光盘索引向互联网检索转型** 引入计算机微缩胶片与光盘检索（CD-ROM），随后全面接入万维网，发布《ERIC 叙词表》（Thesaurus of ERIC Descriptors），成为[[International Education\|国际教育]]实证研究通用的受控标引规范。
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > - **2015 年至今 — [[Every Student Succeeds Act\|ESSA]] 循证浪潮下的公共证据中枢** 作为免费公开的国家公共数字文献库，与 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]] 等专用证据分级平台相互补充，成为学区管理者与科研人员检索因果[[Experimental Research\|实验研究]]与全量证据体的基础平台。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **监管与出资方** 美国联邦教育部（ED）[[Institute of Education Sciences\|教育科学研究院]]（IES）下属的[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（NCEE），负责制定总体政策、预算分配及文献收录遴选标准。
@@ -99,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与关键价值
-
 > [!finding-cards] 核心功能矩阵
 > - **全球最大教育文献索引库** 汇集超过 170 万条教育学领域文献书目记录，覆盖 1,000 余种主流教育同行评议学术期刊。
 > - **灰色文献与政府委托评估档案库** 系统保存美国各级政府、州教育厅、学区及第三方科研智库公开发布的非正式出版研究报告（ERIC Documents, ED），有效平抑学术[[Publication Bias\|发表偏倚]]。
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **公共证据检索基石** 作为美国唯一完全由联邦全额补贴、零商业门槛开放的[[Comprehensive Education|综合教育]]数据库，成为地方教育机构（LEA）在面对循证采购法定义务时最易获取的文献源。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
 
 ---
-
-## 在循证教育生态中的定位与局限
 
 > [!debates] 政策功能与方法学争议
 >

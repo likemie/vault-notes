@@ -51,11 +51,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Compensatory Legitimation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 补偿性合法化（Compensatory Legitimation）是指国家政权（尤其是承受深刻经济依赖或威权转型的[[Neocorporatism|法团主义]]与[[Conditioned State Theory|受限国家]]）在面临资本积累矛盾、严重社会分层与执政信任赤字时，通过自上而下大规模推行象征性的公共教育福利、入学名额扩增、成人扫盲与职业培训项目，以此作为平抑底层阶级激进化、换取大众政治顺从以及修补国家统治霸权的代偿性治理策略。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 补偿性合法化与相邻机制辨析
 > | 维度 | 补偿性合法化（Compensatory Legitimation） | 专家政治[[Social Science as Legitimation Alibi\|合法化借口]]（Legitimation Alibi） | 民主赋权再分配（Democratic Redistribution） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **结构影响** | 维系既有阶级霸权与不平等经济再生产 | 掩盖政策价值偏见，将政治问题技术化 | 动摇特权阶层垄断，重塑国家权力结构 |
 
 ---
-
-## 核心要素
 
 > [!feature] 补偿性合法化的三大支柱
 > - **危机驱动性** 往往爆发于资本主义积累受挫、外债沉重或政权缺乏普选合法性的动荡周期，教育成为代价最低的政治吸纳阀门。
@@ -129,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -147,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 象征性欺瞒 vs 实质性大众赋权
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > > - **[[Critical Pedagogy|批判教育学]]与[[Popular Education|民众教育]]倡导者 ([[Paulo Freire]])** 认为哪怕是国家出于维稳发起的识字教育，底层人民也能在实践中将其改造为觉醒阶级意识的文化行动。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

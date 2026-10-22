@@ -52,11 +52,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# National Science Board
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **美国国家科学委员会（National Science Board, NSB）** 是依据《1950 年国家科学基金会法案》（National Science Foundation Act of 1950）设立的美国国家科学与工程政策法定决策与监督机构。NSB 拥有双重核心法定职能：其一，作为国家科学基金会（[[National Science Foundation|NSF]]）的最高治理与政策制定理事会，审定其总体方针、优先资助领域与重大科研基础设施投资；其二，作为直属于美国总统和国会的独立国家科技顾问机构，定期编制并发布国家法定报告《科学与工程指标》（Science and Engineering Indicators, SEI），为联邦政府制定国家科技与教育战略提供权威的实证数据基准。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 236–238)]]; [[Argument_Ramming_2025_CorporateSupport|(National Science Board, 2024, cited in Ramming, 2025, p. 236)]]
@@ -69,16 +65,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1950 — 创设与奠定战后同行治理宪制架构** 依据《1950 年国家科学基金会法案》成立由 24 位顶尖科学家组成的国家科学委员会，确立了由科学界自治领袖统领联邦基础科研资助方向的同行治理传统。
 > - **1972 — 国会法定授权定期发布《科学与工程指标》** 国会立法修正案赋予 NSB 法定职责，要求其每两年编制并向总统和国会提交全面评估全美与全球科技研发态势的权威报告《科学与工程指标》（SEI），奠定全球科技政策计量基准。
 > - **2020s — 应对全球竞争拐点与推动国家技术战略重构** 发布《远景 2030》（Vision 2030）战略蓝图；2024 年向国会提交关键证词，实证揭示中美科技竞争重大转折，极力呼吁推动政产学研“全政府协同”（Whole-of-government Effort）以应对基础科学出资结构性失衡危机。[[Argument_Ramming_2025_CorporateSupport|(Reed, 2024, cited in Ramming, 2025, pp. 237–238)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **委员会成员（Board Members）** 由 24 名由美国总统任命、经参议院确认的杰出领袖组成（任期 6 年，涵盖顶尖[[Grandes Ecoles|大学校]]长、诺贝尔奖得主、国家实验室主管与跨国科技企业资深高管）。
@@ -93,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **《科学与工程指标》（Science and Engineering Indicators, SEI）双年度国家报告** 全球最权威的科技发展与工程劳动力大样本指标体系，涵盖全球 R&D 支出、顶尖论文产出、专利授权、高技术制造与 [[STEM Education|STEM]] 教育全链条数据。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 236–237)]]
 > - **国家战略愿景蓝图（如《Vision 2030》）** 为未来十年美国科学与工程体系设定核心优先行动框架，强调科研成果转化加速、包容性人才培养与跨界公私协作。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > *The radical changes in the R&D landscape call for a new approach that maintains the benefits of our distributed system while still positioning our nation for competitive success. Facilitating a truly national S&T strategy will require the ability to effectively and efficiently execute a whole-of-government effort, prioritize resources, and work hand-in-hand with our industry and academic partners.* [[Argument_Ramming_2025_CorporateSupport|(Dr. Darin Reed, 2024, cited in Ramming, 2025, pp. 237–238)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **最高学术与产业代表性权威** 24 位理事横跨基础物理、生命科学、工程技术与产业战略投资，形成美国科技政策治理中最具公信力的跨党派智库。
@@ -125,8 +113,6 @@ updated: 2026-10-22
 > - **≈50%** 全美科学与工程领域在读硕博研究生与博士后研究员中外国公民的占比。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

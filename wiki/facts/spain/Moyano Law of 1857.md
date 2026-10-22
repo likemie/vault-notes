@@ -44,11 +44,7 @@ created: 2026-10-12
 updated: 2026-10-22
 ---
 
-# Moyano Law of 1857
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1857 年 9 月 9 日由西班牙伊莎贝拉二世统治时期的温和派政府公共工程部长克劳迪奥·莫亚诺（Claudio Moyano）起草并颁布。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
@@ -57,8 +53,6 @@ updated: 2026-10-22
 > - **制度位置** 西班牙历史上首部系统性国民教育综合法典，终结了旧制度下教会与行会对教育的零散垄断，初步奠定了国家对教育体系的统一规范权。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 确立初等、中等与高等教育三级结构，规定 6 至 9 岁实施为期 3 年的初级初等义务教育，并按拿破仑官僚模式建立国家教育部对课程、教科书与教职资格的中央集权监管，同时向天主教会让渡道德监督特权。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
@@ -76,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1813 金塔纳报告提出建立普及、免费且世俗的国家教育体系构想，但因政治动荡受挫。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
 > - 1857 莫亚诺部长主持通过《公立教育法》（Ley Moyano），西班牙现代教育体系正式确立。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
@@ -85,8 +77,6 @@ updated: 2026-10-22
 > - 1970 《[[General Act of Education of 1970|普通教育法]]》（LGE）颁布，莫亚诺法案长达 113 年的法律效力正式宣告终结。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 西班牙中央政府（公共工程部与王室）。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
@@ -101,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 温和派自由主义官僚，力图建立中央集权的国家秩序，借教育实现政治整饬。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
 > - **高权力 · 低利益 — 潜在否决者或盟友** 天主教会，通过在法案中保留宗教教义审查权与办学特权，维持了对中等教育的强大渗透力。
@@ -111,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **确立现代国家教育架构** 首次以法律形式整合了从蒙学、初小、高小到中学与大学的连贯阶梯，奠定了西班牙教育法制的基石。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
 > - **固化阶层双轨制与精英分流** 初级教育与学术中等教育严重脱节，普通百姓止步于 9 岁前的低水平识字教学，中等学校与大学成为少数上层精英的专属领地。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 > - **制度停滞与延宕[[Path Dependence|路径依赖]]** 该法缺乏根据工业化进程动态调整的自我更新机制，保守维系逾一个世纪，使西班牙教育深陷落后于西欧现代化的被动局面。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
@@ -124,8 +110,6 @@ updated: 2026-10-22
 > - **14** （岁大面积失学） 迟至 1970 年改革前，全国仍有大批 14 岁青少年流离于中等教育大门之外。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

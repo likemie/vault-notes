@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher-student Dependency
-
 > [!metax] [师生依赖 · Teacher-student dependency](https://www.visiblelearningmetax.com/influences/view/teacher-student_dependency)
 > 课堂 › 课堂氛围
 >

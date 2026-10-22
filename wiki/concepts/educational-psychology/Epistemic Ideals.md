@@ -71,11 +71,7 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# Epistemic Ideals
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology\|认识论]]理想（Epistemic Ideals）是个体或共同体在评价科学模型、理论解释、论证方案以及证据本身等认识产出（epistemic products）时所秉持的规范性标准与质量评价准则。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 202)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[AIR Model of Epistemic Cognition\|AIR]]模型三构件与传统论证结构对比
 > | 维度 | [[Epistemic Ideals]]（认识论理想） | [[Epistemic Aims]]（认识论目标） | [[Reliable Epistemic Processes]]（可靠认识论过程） | 结构性论证要素（Claims-Evidence-Reasoning） |
 > |---|---|---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | 评价功能 | 甄别论证背后的[[Epistemology\|认识论]]优劣与证据充分性 | 界定认知活动是否属于认识论范畴 | 审查证据生成方法是否具备因果可[[Reliability\|信度]] | 仅能审查论证部件是否完整，无法区分合谋包装的伪科学 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心[[Epistemology\|认识论]]理想维度
 > - **证据契合度（Fit with Evidence）** 优质模型或解释必须能够统摄并解释当前可获得的全部相关经验证据，且不存在未解决的高质量冲突证据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
@@ -184,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -205,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：形式结构完备性还是[[Epistemology\|认识论]]实质？
 > - **句法结构主义（蓝方）** 依据 Toulmin 论证模型或 CER 框架，强调论证文本中主张、数据、推理与反驳等特定功能部件的完整性与修辞组织。
 > - **认识论实质论（红方）** 强调论证质量根植于支撑主张的认识论理想与证据[[Reliability\|可靠性]]；结构复杂的文本完全可能是认识论劣质的伪科学论证。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 203–204)]]
@@ -222,8 +210,6 @@ updated: 2026-10-22
 > - **实体知识匮乏导致的理想机械套用** 认识论理想极难与学科实体概念知识完全剥离。当学习者缺乏对特定科学机制（如免疫生理同源性）的充分理解时，容易产生对推论直接性等理想的僵化机械套用，进而错误排斥高度相关的科学证据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–222)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果（干预因果效应）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -258,8 +244,6 @@ updated: 2026-10-22
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 分析[[Generative Artificial Intelligence\|生成式人工智能]]抹平各学科认识论理想的表层假答案机制，提出确立关系性[[Epistemic Agency\|认识主体性]]以重塑[[Man-Computer Symbiosis|人机共生]]环境下的规范性认识标准。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

@@ -62,11 +62,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# William T. Grant Foundation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 威廉·T·格兰特基金会（William T. Grant Foundation）是美国具有近百年历史的知名独立慈善基金会，专注于资助减少青少年发展不平等的高质量实证研究，以及改善影响年轻人的重大政策与实践中的研究证据利用（[[Research Utilization\|Use of Research Evidence]]，URE），系全球推动“研究与实践伙伴关系”（[[Research-Practice Partnership\|RPP]]）理论化与[[Democratising Evidence\|证据民主化]]运动的战略资助中枢。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
@@ -79,16 +75,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1936–1980 年代 — 青少年发展与心理适应奠基期** 早期重点资助青少年心理学、精神卫生与适应力研究，设立著名的“格兰特学者计划”（William T. Grant Scholars Program），重点扶持处于职业早期的杰出青年学者开展前沿探索。
 > - **1980–2000 年代 — 处境不利儿童实证研究转型期** 伴随美国贫困加剧与城市种族隔离，资助重心转向弱势家庭、少数族裔儿童发展与跨文化教养研究，长期资助包括美籍华裔与亚洲儿童文化适应在内的重要实证工程。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. xii)]]
 > - **2000 年代至今 — 研究证据利用（URE）与[[Democratising Evidence\|证据民主化]]引领期** 在高级副总裁[[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng, 2004–2022 年主政科研）推动下，基金会开创性将 URE 与 [[Research-Practice Partnership\|RPP]] 确立为核心资助支柱；2017 年后全面反思大学学术研究的种族主义历史与“采矿式科研”（Extractive Research），发起声势浩大的证据民主化运动与大学考核停钟机制改革。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **董事会（Board of Trustees）** 由全美著名社会科学家、高等教育领袖、法律界与公共政策专家组成，负责审批年度重大战略资助方向与慈善资金监管。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **研究证据利用（URE）资助专项** 全美唯一长期持续资助“关于[[Research Utilization|证据使用]]的科学研究”（[[Metascience|Research on Research]] use）的常设基金，旨在将证据利用研究与政治学、社会学等更广阔的[[Discipline-Based Theory|学科理论]]深度整合。例如设立专项基金资助麦克唐奈与韦瑟福德团队开展全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进历程的重大实证追踪，揭示出实证研究如何与政治规范价值、专业实践经验在不同决策阶段发生阶段权变性融合，开创了宏观政策周期中多源证据互动的实证研究先河。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 220)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 20)]]
 > - **机构挑战资助（Institutional Challenge Grants）** 与斯宾塞基金会等联合设立，专项支持高校制度改革，促成大学在终身教职评审（Tenure review）中承认跨界社会服务，并允许学者为深度参与政策而暂停长聘评审计时钟。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 222–223)]]
@@ -118,8 +108,6 @@ updated: 2026-10-22
 > *For far too long, researchers and research funders have had outsized influence on research agendas, and thus it is unsurprising that research is more likely to fill gaps in the academic literature than inform practice or policy dilemmas... If we see students and their communities as beneficiaries of education, then their interests should be at the centre of education research.* (Tseng, 2022; cited in Bangs et al., 2022, pp. 220–221)
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **学术[[Discourse|话语]]权** 成功将“研究证据利用”（URE）与“研究与实践伙伴关系”（[[Research-Practice Partnership\|RPP]]）确立为当代教育科学与公共管理的前沿主流显学。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
@@ -139,8 +127,6 @@ updated: 2026-10-22
 >
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议
 >

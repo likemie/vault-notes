@@ -47,11 +47,7 @@ created: 2026-07-01
 updated: 2026-10-16
 ---
 
-# ToK Interview and Focus Group Protocol
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] ToK 访谈与[[Focus Group\|焦点小组]]协议
 > - **工具类型** [[Semi-structured Interview\|半结构化访谈]]与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
@@ -60,8 +56,6 @@ updated: 2026-10-16
 > - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化对话。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] ToK 课程体验与[[Critical Thinking\|批判性思维]]教学
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -75,8 +69,6 @@ updated: 2026-10-16
 > | 身份与哲学 | 2 | ToK/CT 与身份的关系、对哲学及其与 ToK 关系的理解 | 定性编码 |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 开放式问题，研究者以此为指引进行[[Semi-structured Interview\|半结构化访谈]]。
@@ -131,8 +123,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -141,8 +131,6 @@ updated: 2026-10-16
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校：22 次教师访谈（40 分钟/人）、8 组学生[[Focus Group\|焦点小组]]（30 分钟/组，4–7 人）、5 次行政人员访谈 | — | 与课堂观察和文件分析[[Triangulation\|三角验证]]后，识别出四校在 ToK 概念化和[[Operationalization\|操作化]]上的四种差异模式 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

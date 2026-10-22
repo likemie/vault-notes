@@ -40,12 +40,9 @@ status: draft
 created: '2026-05-03'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Ken Goodman 是美国教育研究者，[[Whole Language\|全语言]]（Whole Language）运动的最具影响力的创始人。他的 1967 年里程碑文章 *Reading: A Psycholinguistic Guessing Game*（阅读：一个心理语言学的猜测游戏）发表于 *Journal of the Reading Specialist*，为 1970 年代全语言运动的兴起奠定了理论基础([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.143]])。
-
-## 核心思想
 
 > [!info] 阅读作为心理语言学过程
 > Goodman（1967）提出阅读不是一个精确的、逐字的[[Decodification\|解码]]过程，而是一个"心理语言学猜测游戏"——读者利用三种线索系统（语义、句法、字形）预测和建构文本意义，并在阅读过程中不断验证和修正这些预测([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.143]])。

@@ -51,11 +51,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Mathematical Quality of Instruction
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Mathematical Quality of Instruction (MQI)
 > - **工具类型** 数学[[Domain Specificity|学科特异性]]课堂外部[[Classroom Observation|教学观察]]与内容质性评定规程（observation-tool）。
@@ -84,14 +80,10 @@ MQI 将数学教学质量解构为五个互补的核心领域。
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 5 个核心领域与十余项具体学科行为锚点。
 > - **作答格式** 行为等级评定（无证据/低/中/高），综合得出片段分值。
 > - **反向题与跳题** “错误与不精准”领域为反向计分（错误越严重得分越低）；所有数学教学时段必须完整评定。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] MQI 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -116,8 +108,6 @@ MQI 将数学教学质量解构为五个互补的核心领域。
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | MQI 修订版 | 作为[[World Bank\|世行]] Teach 初始 43 项要素建库来源之一；希瑟·希尔参与技术咨询 | 检验其[[Predictive Validity\|预测效度]]与跨学科简化可行性 | 证实学科内容严谨性对学业提升至关重要，但其极高的数学专业门槛难以直接在发展中国家全科观察员中普及，促使 Teach 聚焦更具通识性的教学指导要素。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

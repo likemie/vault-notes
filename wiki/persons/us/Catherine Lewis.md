@@ -34,7 +34,6 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Catherine Lewis，美国教育研究者，以对[[Improvement Science\|改进科学]]（Improvement Science）在教育中应用的倡导著称。其 2015 年在 *Educational Researcher* 上发表的"什么是改进科学？我们在教育中需要它吗？"一文，是向教育研究界引介改进[[Scientific Method\|科学方法]]论的关键文献。

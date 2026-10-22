@@ -44,11 +44,7 @@ created: 2026-08-17
 updated: 2026-10-16
 ---
 
-# Epistemological Understanding Assessment
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Epistemological Understanding\|认识论理解]]评估工具 (EUA)
 > - **工具类型** [[Questionnaire\|问卷]]、测验
@@ -63,8 +59,6 @@ updated: 2026-10-16
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] [[Epistemological Understanding]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -78,8 +72,6 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 情境题（由两名虚构人物 Robin and Chris 提出相互对立的陈述）。
 > - **作答格式** 结构化的两步多项选择。
@@ -91,8 +83,6 @@ updated: 2026-10-16
 >      - 选项 D：ONE COULD BE MORE RIGHT（有一方可以更正确） $\rightarrow$ 判定为 **[[Evaluativist\|评价论者]] (Evaluativist)**。
 > - **反向题与跳题** 根据第一步的回答具有跳题逻辑（第一步选 A，则该题项评定结束）。
 
-### 个人品味
-
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 >
@@ -101,8 +91,6 @@ updated: 2026-10-16
 > | 1 | Robin says warm summer days are nicest.<br>Chris says cool autumn days are nicest.<br>*(Robin 说温暖的夏日最棒。 / Chris 说凉爽的秋日最棒。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 317)]] |
 > | 2 | Robin says the stew is spicy.<br>Chris says the stew is not spicy at all.<br>*(Robin 说这道炖菜很辣。 / Chris 说这道炖菜一点也不辣。)* | 两步选择 | 阶段分类 | 同上 |
 > | 3 | Robin thinks weddings should be held in the afternoon.<br>Chris thinks weddings should be held in the evening.<br>*(Robin 认为婚礼应该在下午举行。 / Chris 认为婚礼应该在晚上举行。)* | 两步选择 | 阶段分类 | 同上 |
-
-### 审美判断
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -113,8 +101,6 @@ updated: 2026-10-16
 > | 5 | Robin thinks the first painting they look at is better.<br>Chris thinks the second painting they look at is better.<br>*(Robin 认为他们看的第一幅画更好。 / Chris 认为他们看的第二幅画更好。)* | 两步选择 | 阶段分类 | 同上 |
 > | 6 | Robin thinks the first book they both read is better.<br>Chris thinks the second book they both read is better.<br>*(Robin 认为他们俩读的第一本书更好。 / Chris 认为他们俩读的第二本书更好。)* | 两步选择 | 阶段分类 | 同上 |
 
-### 价值观判断
-
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 >
@@ -124,8 +110,6 @@ updated: 2026-10-16
 > | 8 | Robin thinks lying is wrong.<br>Chris thinks lying is permissible in certain situations.<br>*(Robin 认为撒谎是错的。 / Chris 认为撒谎在某些情况下是允许的。)* | 两步选择 | 阶段分类 | 同上 |
 > | 9 | Robin thinks the government should limit the number of children families are allowed to have to keep the population from getting too big.<br>Chris thinks families should have as many children as they choose.<br>*(Robin 认为政府应该限制家庭生育孩子的数量以防止人口过剩。 / Chris 认为家庭应该有权决定生育多少孩子。)* | 两步选择 | 阶段分类 | 同上 |
 
-### 社会事实判断
-
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 >
@@ -134,8 +118,6 @@ updated: 2026-10-16
 > | 10 | Robin has one view of why criminals keep going back to crime.<br>Chris has a different view of why criminals keep going back to crime.<br>*(Robin 对犯罪分子为何屡教不改有一种看法。 / Chris 对犯罪分子为何屡教不改有另一种看法。)* | 两步选择 | 阶段分类 | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000, p. 317)]] |
 > | 11 | Robin thinks one book’s explanation of why the Crimean wars began is right.<br>Chris thinks another book’s explanation of why the Crimean wars began is right.<br>*(Robin 认为一本书关于克里米亚战争起因的解释是正确的。 / Chris 认为另一本书关于克里米亚战争起因的解释是正确的。)* | 两步选择 | 阶段分类 | 同上 |
 > | 12 | Robin agrees with one book’s explanation of how children learn language.<br>Chris agrees with another book’s explanation of how children learn language.<br>*(Robin 赞同一本书对儿童如何学习语言的解释。 / Chris 赞同另一本书对儿童如何学习语言的解释。)* | 两步选择 | 阶段分类 | 同上 |
-
-### 物理事实判断
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -148,8 +130,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -158,8 +138,6 @@ updated: 2026-10-16
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | 原始 15 题英文版 | N=129，涵盖小学五年级至研究生及成人的跨年龄样本，用于探讨跨领域的[[Epistemology\|认识论]]发展规律。 | — | 发现了不同领域的认识论演进具有高度的领域非同步性：事实领域的成熟最晚但也最易达到评价论，而价值观和审美领域的评价论在成人中极其罕见。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

@@ -48,8 +48,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Epistemology of Resistance
-
 > [!info] 定义
 > [[Epistemology]] of Resistance（抵抗认识论）是一种从被排斥群体的**具体经验**出发，通过实践行动（而非仅靠理论论述）直接制造替代性知识形式的[[Epistemic Stances\|认识论立场]]。它区别于在学术[[Discourse|话语]]层面论证西方认识论霸权的做法——抵抗认识论**首先存在于行动中** 剧场表演、口述叙事、社区博物馆策展、集体记忆保存——这些实践本身就是[[Knowledge Production\|知识生产]]，不需要等待学术体制的认证([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])。
 

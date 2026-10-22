@@ -79,13 +79,9 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Hofstede's Cultural Dimensions
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 国家文化核心价值观模式、跨国组织行为与沟通风格差异、教育交往中的师生权威等级结构、教学法跨国转译的文化阻力，以及技术中介（如生成式 AI）对文化权力屏障的[[Interaction Effect\|调节效应]]。
 > - **理论问题** 如何量化度量不同国家在价值观与社会关系形态上的深层差异？这些宏观文化模式如何规约微观教育活动中的互动规约？在引入外部教学法或智能技术工具时，文化差异如何形塑其实际效能与适用边界？
 > - **理论类型** 宏观比较社会学与组织行为学实证模型、跨文化测量[[Analytic Framework\|分析框架]]，常作为比较教育研究、跨文化教学与教育技术[[Moderator Analysis\|调节效应分析]]中的宏观背景解释透镜。
@@ -100,8 +96,6 @@ updated: 2026-10-22
 > *Culture is the collective programming of the mind that distinguishes the members of one group or category of people from others... in teacher-student interactions, differences in power distance and uncertainty avoidance fundamentally structure classroom expectations and communicative competence.*
 
 ---
-
-## 关键概念与理论构件
 
 > [!theory-components] 文化维度的核心构件与机制
 > - **权力距离指数（Power Distance Index, PDI）**
@@ -128,8 +122,6 @@ updated: 2026-10-22
 > | [[Ecological Fallacy\|生态谬误检验]] | 方法 | 提示在跨文化比较中严格区分国家层面的聚合属性与个体层面的心理特质。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜国家文化价值沉淀与心智软件内化命题（Hofstede, 1980, 2010）
 > - **前提一** 国家层面的历史发展、生态环境与制度演进，凝结为相对稳定的社会核心价值观网络，形成区别不同群体的“心智软件”。
@@ -220,8 +212,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]与方法含义
 > - **[[Ontology\|本体论]]** [[Positivism\|实证主义]]与[[Structural Functionalism|结构功能主义]]倾向——预设民族国家共享相对稳定、跨越时空延续的核心价值观集合，文化被视为具有层级结构与统计聚集特征的“社会客体”。
 > - **[[Epistemology\|认识论]]** 宏观聚合实证主义认识论——主张通过大规模跨国[[Questionnaire\|问卷调查]]、标准化题项与因子分析，将复杂的文化生活还原为可测量的相对数值坐标。
@@ -245,8 +235,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用边界
-
 > [!theory-boundary] 理论适用边界
 > - **适合解释** 国家尺度上的宏观制度比较、跨国教育政策转译与借用中的宏观文化适应障碍、智能教育技术工具在不同文化生态中的边际增益分化。
 > - **谨慎使用** 用于解释单一国家内部不同社会阶层、城乡区域、移民群体或多元民族亚文化之间的教育现象；此时必须补充[[Socioeconomic Status|社会经济地位]]（SES）与[[Cultural Capital\|文化资本]]等阶级[[Variable\|变量]]。
@@ -265,8 +253,6 @@ updated: 2026-10-22
 > - **2025 — 高等教育生成式 AI 跨越权力距离的实证突破（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）** 在教育技术前沿[[Meta-analysis\|元分析]]中，研究者将权力距离指数作为核心宏观调节[[Variable\|变量]]，实证证实生成式 AI 具有解构传统高权力距离文化中师生等级壁垒的显著功能，开辟了文化维度理论在智能教育时代的全新解释面向。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 13, 18)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

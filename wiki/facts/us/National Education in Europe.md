@@ -67,8 +67,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# National Education in Europe
-
 ---
 
 ## 背景
@@ -119,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 著作酝酿、出版与学术接受时间线
 > - **1835–1837** 青年巴纳德自费前往欧洲深度游历英、法、德、瑞等国，考察学校、工厂与监狱，奠定跨国比较观察基调。（Barnard, 1872）
 > - **1854** 在担任康涅狄格与罗得岛教育督办后，于哈特福德出版单卷本《欧洲国民教育》（*[[National Education]] in Europe*，全书近 900 页），震动美国教育界。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
@@ -132,8 +128,6 @@ updated: 2026-10-22
 > - **2009** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）发表重磅重估，正名巴纳德为近代卓越的“教育编年史家与教育[[Ethnography\|民族志]]学者”。（pp. 32–33）
 
 ---
-
-## 实施情况与话语功能转化
 
 > [!actor-grid] 制度转译矩阵
 > - **汇纂与转译核心** [[Henry Barnard\|亨利·巴纳德]]——通过汇集事实充当[[Knowledge Mediation\|知识中介]]。

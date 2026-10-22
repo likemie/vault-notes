@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Classroom Pets
-
 > [!metax] [班级宠物 · Pets in class](https://www.visiblelearningmetax.com/influences/view/pets_in_class)
 > 教学策略 › 教学方法
 >

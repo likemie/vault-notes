@@ -39,11 +39,7 @@ created: 2026-08-15
 updated: 2026-10-20
 ---
 
-# Factor Mixture Modeling
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 因子混合模型（Factor Mixture Modeling, FMM）结合了因子分析降维测量的优势与潜在类别/剖面分析探究[[Heterogeneity\|异质性]]的功能。它利用个体在多个连续的潜在因子（潜[[Variable\|变量]]）上的表现特征，将其划分至具备不同特征轮廓（profile）的未知类群中。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 239)]]
@@ -56,8 +52,6 @@ updated: 2026-10-20
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 认为人类的心理或行为属性既具有多维度的连续特征，也在总体上包含本质不同的类别群体。
 > - **研究者角色** 需要在各类拟合指数中选择合理的模型分类数目，并基于理论为不同类群特征赋予命名和实质解释。
@@ -68,8 +62,6 @@ updated: 2026-10-20
 > - **辅助技术** [[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）、潜在剖面分析（LPA）。
 
 ---
-
-## 研究程序
 
 > [!proc] 通用程序
 > 1. 明确[[Research Question\|研究问题]]、对象以及假定的[[Heterogeneity\|异质性]]亚群结构。
@@ -146,21 +138,15 @@ updated: 2026-10-20
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 具有深层分类学假说、需要在多维度上综合识别异质发展阶段群体的研究场景。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 239)]]
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **偏误来源** 对起点的初值较为敏感，极大可能面临局部极值和不收敛问题，通常需要充足的[[Sample Size Determination\|样本量]]；另外潜在类群的实质解释依赖研究者的理论预设，有主观色彩。
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 该研究通过因子混合模型，将大样本学生在[[Epistemology\|认识论]]维度上的测量得分有效聚类为了理论预设的四个阶段组。

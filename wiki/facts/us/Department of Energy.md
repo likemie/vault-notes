@@ -91,11 +91,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Department of Energy
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 美国能源部（United States Department of Energy，简称 DOE）是美国联邦政府负责国家能源战略、核安全保障以及重大基础与工程前沿科学研发的内阁级行政主管机关；依托遍布全美的 17 所国家实验室体系（汇聚约 4 万名科学家与工程师，年研发预算约 200 亿美元），DOE 构成了美国物理科学、先进材料、高性能计算以及大型重大科技基础设施领域的头号公共资助者与研发组织者。在科技政策与国家战略中，DOE 既是冷战[[Big Science|大科学工程]]与颠覆性[[Research Translation|技术转化]]的母体，也是国家微电子战略中微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）联合主席单位，统筹全美纳米科学研究中心（NSRCs）与极低能耗半导体前沿攻关，并作为[[Genesis Mission|创世纪计划]]（Genesis Mission）人工智能科研超级平台的战略中枢。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 19, 61–63)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
@@ -108,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1942–1977 — 战时军工起源与机构整合期** 源于[[Manhattan Project|曼哈顿工程]]建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
 > - **1977–2000 — 内阁设部、法定[[Technology Transfer|技术转移]]与[[Big Science|大科学]]工业联合体确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；1986 年《联邦技术转移法》（FTTA）授权国家实验室设立研究与技术应用办公室（ORTA）并广泛签署[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA），推动 DOE 实验室全面转向支撑民用商业化；1992 年启动**先进涡轮机系统计划（Advanced Turbine Systems Program）**，由 DOE 实验室联合通用电气（GE）与西门子等重型装备巨头攻坚耐高温陶瓷涂层，公共财政承担 75% 早期试制风险，成功推动下一代高效清洁发电燃气轮机实现商业化量产；在 1990 年代末，劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–180)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
@@ -120,8 +114,6 @@ updated: 2026-10-22
 > - **2025–2026 — [[Genesis Mission|创世纪计划]]领航与国家人工智能科研基础设施重塑** 白宫签署国家安全总统备忘录启动[[Genesis Mission|创世纪计划]]（Genesis Mission），指定 DOE 为牵头联邦机构，统筹 17 所国家实验室打造“美国科学与安全平台”（ASSP），组建涵盖 24 家顶级产学研机构的“[[Transformational AI Models Consortium|变革性人工智能模型联合体]]”（Transformational AI Models Consortium），并在全美实验室部署自主闭环机器人合成与表征设施，同时全面落实 2025 年核能监管改革行政命令。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63, 67–68)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（内阁部长与副部长层级）** 能源部长（内阁成员）统筹全局，下设负责科学与创新的副部长，领导科学办公室与各应用能源部门（能效与可再生能源局、核能局、化石能源与碳管理局、贷款项目办公室）。
@@ -136,8 +128,6 @@ updated: 2026-10-22
 > - **战略性工艺平台与前沿制造托底** 针对市场无力承担的长周期基础工艺（如高温超导薄膜制造、高纯浓缩铀供应链），由公共预算与国防生产法（DPA）授权直接托底，维系国家工艺知识与制造韧性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与科研矩阵
 > - **[[Megascience Installations|大科学装置]]与物理基石** 运营先进光子源（APS）、国家同步辐射光源二期（NSLS-II）与散裂中子源（SNS）在内的全球顶尖科研设施。
@@ -168,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **科研资产与预算规模** 管理 17 所国家实验室，拥有全美最集中的物理科学、材料工程与超算研究网络，年科研与项目预算逾 400 亿美元。
 > - **诺贝尔奖谱系关联** 依托 DOE 资助诞生的诺贝尔物理学奖与化学奖得主逾百位。
@@ -186,8 +174,6 @@ updated: 2026-10-22
 
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -43,11 +43,7 @@ created: 2026-07-25
 updated: 2026-10-22
 ---
 
-# Problem-Posing Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 提问式教育（Problem-Posing Education / [[Problem Solving\|问题解决]]式教育）是[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire）在《被压迫者教育学》中提出的核心教学[[Paradigm\|范式]]，作为[[Banking Model of Education\|储蓄式教育]]的正面替代方案。在 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 的[[Active Learning\|主动学习]]三环节模型中，提问式教育被视为激发[[Critical Thinking\|批判性思维]]与能动解脱的根本机制：教育者不再自上而下灌输定论，而是将学习者的现实生存处境作为“提问”的对象，促使师生在平等对话中转变为“批判性共同探究者”（critical co-investigators） [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]。
@@ -63,8 +59,6 @@ updated: 2026-10-22
 > *Through problem-posing education, the teacher-of-the-students and the students-of-the-teacher cease to exist and a new term emerges: teacher-student with students-teachers. The teacher is no longer merely the-one-who-teaches, but one who is himself taught in dialogue with the students... (Freire, 2000, p. 80)*
 
 ---
-
-## 核心要素
 
 > [!theory-components] 提问式教育的三大核心要素
 > - **经验贴近性（Relevance to Lived Experience）**
@@ -91,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 提问式教育的形式化风险
@@ -100,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

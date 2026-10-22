@@ -42,8 +42,6 @@ created: '2026-05-22'
 updated: 2026-10-22
 ---
 
-# Confucian Heritage Cultures
-
 > [!info] 定义
 > "儒家文化圈"（Confucian Heritage Cultures, CHC）是 [[David Watkins]] 和 [[John Biggs]] 在其 1996 年合编的《The [[Chinese Learner]]》中提出的分类术语，涵盖受[[Confucian Learning Tradition\|儒家学习传统]]影响的国家和地区：中国、香港、台湾、新加坡、日本、韩国和越南([[Argument_Li_2012_Cambridge\|Li, 2012, p.84]])。该术语的提出服务于 [[Paradox of the Chinese Learner\|中国学习者悖论]] 研究——为解释这些地区学习者看似低效的学习方式与持续高成就之间的张力，需要一个跨越单一国家边界、以共享文化传统为纽带的概念框架。
 

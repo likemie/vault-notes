@@ -59,11 +59,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Surplus of Evidence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据过剩（Surplus of Evidence）是公共政策与比较教育政策学中用于刻画信息超载时代[[Research Utilization\|知识利用]]生态的[[Construct\|理论构念]]；指在数字化生产与[[Intellectual Capital|知识资本]]急剧繁衍的背景下，可用于同一政策议程的研究文献、统计数据与实证报告呈现出极度饱和与矛盾丛生的状态，导致决策者面对的不再是“缺乏证据”而是“无法从相互冲突的证据洪流中辨别方向”的系统性困境。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
@@ -93,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **海量文献的认知超载（Cognitive Overload）** 每年[[Emergence\|涌现]]数以万计的同行评审论文与智库报告，使得任何决策官员均不可能通读其负责领域的全量文献。
 > - **[[Causality\|因果推断]]的结论相悖性（Contradictory Findings）** 由于抽样、情境与方法差异，同一改革举措（如小班化、[[Performance Pay\|绩效工资]]）在不同实证报告中呈现出彼此矛盾的[[Effect Size\|效应量]]。
 > - **思想市场的资本化游说（Commercialised Marketplace of Ideas）** 智库、商业咨询公司与游说集团为争夺政策关注，竞相将学术成果包装为带有鲜明政治倾向的极简政策简报。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
@@ -139,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +147,6 @@ updated: 2026-10-22
 > - **2024 年至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的中介霸权** Steiner-Khamsi、Martens 与 Ydesen（2024）将证据过剩确立为理解跨国[[Policy Brokerage\|政策中介]]、[[Soft Power by Hard Facts\|以硬事实施展软权力]]的生态基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -173,8 +163,6 @@ updated: 2026-10-22
 > 证据过剩主要存在于宏观政策论辩与具备充足科研投入的领域；在弱势儿童特殊教育、边缘少数民族语言教学等微观边缘领域，严谨的实证证据依然严重不足。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -49,11 +49,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Sotiria Grek
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国与希腊学者，爱丁堡大学社会与政治科学学院欧洲与全球教育治理讲席教授（Professor of European and Global Education Governance）、英国国家学术院院士（Fellow of the British Academy, FBA）、爱丁堡皇家学会院士（FRSE）。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2009 — *Governing by numbers: the PISA 'effect' in Europe*** 实证剖析芬兰、德国与英国对 PISA 的政策反响，揭示跨国组织以数据重塑欧洲教育空间的机制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–37)]]
 > - **2012 — *Fabricating Europe: The Formation of an Education Space*（与 Martin Lawn 合著）** 系统阐发欧洲教育空间的历史制度生成，论述跨国专家网络与统计等价性在欧洲一体化中的构造功能。
@@ -86,16 +80,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心理论贡献
-
 > [!finding-cards] 核心学术贡献
 > - **“以数治教”作为政治技术** 格雷克将统计学与社会学洞见引入教育政策分析，论证跨国数字指标具有固有的政策指向性，能够按照自身内在逻辑重构政策行动范畴。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34)]]
 > - **超国家跨机构共生网络** 揭示欧盟委员会与经合组织之间深层职能互补——经合组织提供高公信力的测评与方法论，欧盟提供财政补贴（承担 80% 调查成本）与政治合法性渠道，共同绕过宪制立法障碍推进欧洲一体化。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23, 32–34)]]
 > - **政策借用的策略性外在化机制** 阐明成员国政府面对 PISA 等跨国数据时，往往将其作为外在化权威资源，借“国际领先标准”压制国内民主争议、推进结构性重组或确证既定政策路线。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]
 
 ---
-
-## 学术争议与批判
 
 > [!debates] 学术论战与评价
 >

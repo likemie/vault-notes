@@ -45,11 +45,7 @@ created: 2026-06-11
 updated: 2026-10-22
 ---
 
-# Structural Holes
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 结构洞（Structural Holes）指社会网络拓扑结构中**不同子群体或行动者之间缺乏直接联结的隔离与断裂状态**。在经典社会网络理论中，占据结构洞位置的行动者（结构洞经纪人）凭借连接互不连通网络节点的拓扑优势，获得非冗余的信息流与控制权；而在前沿公共创新治理与[[Space Production|空间生产]]理论中，该概念被进一步拓展为行动者主动消除网络断裂、重构技术[[Innovation Ecosystem|创新生态]]与跨区域制度协同的能动实践。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 2–3)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 网络拓扑与中介机制辨析
 > | 维度 | 结构洞（Structural Holes, Burt） | 网络闭合（Network Closure, Coleman） | 弱联系（Weak Ties, Granovetter） | [[Embedded Network Governance\|网络架构重塑]]（Network Reweaving, Fuchs） |
 > |:---|:---|:---|:---|:---|
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > | **典型治理场景** | 市场竞争中的个人晋升与资源垄断 | 社区自治、学术同侪共同体信任维护 | 求职流动、跨领域知识偶然扩散 | 颠覆性技术攻关、产学研协同[[Innovation Ecosystem\|创新生态]]构建 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心构成要素
 > - **非冗余接触点（Non-redundant Contacts）** 结构洞连接的各方彼此互不连通，行动者从不同接触点获取的信息具有高度互补性与[[Heterogeneity|异质性]]，避免了紧密群体内部的信息内卷。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, p. 3)]]
@@ -139,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 结构洞理论命题体系
 > | 命题维度 | 核心理论断言 | 适用情境与对象 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 结构洞概念演进脉络
 > - **1992 — 经典理论确立（Ronald Burt）** 在《结构洞：竞争的社会结构》中正式提出该概念，批判性修正了科尔曼（James Coleman）的网络闭合理论，奠定基于网络拓扑断裂的社会资本分析[[Paradigm|范式]]。
 > - **2000–2004 — 管理学与创意网络扩散（Ronald Burt）** 实证检验结构洞对企业管理者绩效、创意产生率（Good Ideas）与薪酬晋升的正向促进作用，确立经纪人（Brokerage）研究的核心地位。
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > - **2025 — [[Space Production|空间生产]]与高等教育多维拓展（Yuzhuo Cai et al.）** 将结构洞从纯粹的社会拓扑关系拓展至空间生产的三元辩证法框架，系统解构跨法域区域高等教育协同中的制度、认知与空间结构洞。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 1–4)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论交锋
 >

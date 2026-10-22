@@ -64,11 +64,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Mariana Mazzucato
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 意大利裔经济学家，伦敦大学学院（University College London, UCL）创新与公共目的研究所（Institute for Innovation and Public Purpose, IIPP）创始所长，创新与[[Public Value|公共价值]]经济学讲座教授。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2013–2015 — 企业型国家与风险收益不对称批判** 批判公共部门仅被视为被动市场修复者的传统偏见，揭示国家在前沿技术探索中的激进创新与风险承担功能，主张建立公共风险与公共收益相匹配的制度机制。特别指出硅谷奇迹并非单纯由自由创业家与风险投资创造，其底层核心源于美国军方、[[DARPA]] 与政府长期承担的高风险战略研发投资与早期订单托底，尖锐批判科技巨头的[[Historical Amnesia|历史健忘症]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 229)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 >   - **代表著作** *The Entrepreneurial State: Debunking Public vs. Private Myths in Risk and Innovation* (2013)。
@@ -112,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 玛丽安娜·马祖卡托（Mariana Mazzucato）主张经济增长不仅具有“速率”（Rate），更具有“方向”（Direction）。公共政策的本质不应是消除市场摩擦的消极“修补者”，而应是确立社会转型方向、勇于承担早期风险、主动进行[[Market Shaping and Creating|市场塑造与市场共创]]的“引领者”。面对重大社会挑战与地缘安全博弈，国家应通过设立明确战略使命，重塑公私部门风险共担与收益共享的契约纽带。
 
 > [!contrast-table] 新古典市场修复观与马祖卡托企业型国家观的对比
@@ -133,8 +125,6 @@ updated: 2026-10-22
 > - **技术政治经济学批判** 其关于公共研发奠基作用的论证，被 [[Technological Republic|技术共和国]] 框架用作打破科技巨头“自发创新神话”、批判硅谷[[Historical Amnesia|历史健忘症]]与重建政产协同契约的基石理论。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

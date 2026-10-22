@@ -66,11 +66,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Mind Mapping
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 思维导图（Mind Mapping）是指以单一核心主题或核心词为中心节点，遵循放射状思维模式向外辐射多级层级分支，结合色彩、图形、关键词和自由联想规则，将非线性心智思考过程与概念联想网络进行空间视觉外显化的低认知开销[[Scaffolding\|教学支架]]与思维工具。由托尼·博赞（Tony Buzan）于 20 世纪 70 年代系统创立并普及，思维导图在[[Brainstorming\|头脑风暴]]、发散创意生成、快速速记与结构化复习中被广泛应用。[[Meta-analysis\|元分析]]证据表明，其极简的组织语法能够以最低的外在认知负荷释放学习者的发散生成潜能。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–10)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 思维导图 vs [[Concept Mapping|概念图]] vs [[Argument Mapping|论证图]]系统辨析
 > | 比较维度 | **思维导图（Mind Mapping）** | **概念图（[[Concept Mapping]]）** | **论证图（[[Argument Mapping]]）** |
 > |---|---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | **对发散思维增益** | **强效极高增益（$g = 1.167$）** | 相对偏低（侧重概念整合与辨析） | 侧重严密推论的有效性检验 |
 
 ---
-
-## 核心要素
 
 > [!feature] 思维导图的五大核心视觉要素（Buzan, 1974; [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al., 2026]]）
 > 1. **单一中心主题（Central Theme）** 居于画布中央的核心图像或核心关键词，作为所有思维发散的原点与认知锚点。
@@ -182,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心理论断言 | 关键机制与调节[[Variable\|变量]] | 代表学者与实证依据 |
 > |---|---|---|---|
@@ -194,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 思维导图理论与技术应用演进脉络
 > - **1970 年代　托尼·博赞创立放射性思维与经典导图[[Paradigm\|范式]]** Buzan (1974) 出版《Use Your Head》，系统提出单中心、多级主次分支、色彩图像与关键词编码的经典脑图模型。
 > - **1990 年代　认知心理学与[[Dual Coding Theory\|双重编码理论]]奠基** Paivio 双重编码理论与神经科学研究证实，视觉-空间维度的图文并茂有助于强化长时记忆痕迹并减轻[[Working Memory\|工作记忆]]负荷。
@@ -204,8 +192,6 @@ updated: 2026-10-22
 > - **2025–2026 年　大规模[[Meta-analysis\|元分析]]量化确立工具效能级差** [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 确立思维导图（$g = 1.041$）对[[Higher-Order Thinking Skills\|高阶思维]]的促学效应显著超越[[Argument Mapping\|论证图]]与[[Concept Mapping\|概念图]]；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 确立思维导图在[[Creativity\|创造力]]思维训练（$g = 0.762$）中的核心载体地位。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与应用反思
 >
@@ -225,8 +211,6 @@ updated: 2026-10-22
 > 4. **抑制形式主义美化，关注思维流动质量** 明确禁止学生在课堂上花费大量时间进行复杂绘画与排版装饰，避免诱发“[[Seductive Details Effect|诱人细节效应]]”，将注意力集中于分支多维性与构想独创性。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

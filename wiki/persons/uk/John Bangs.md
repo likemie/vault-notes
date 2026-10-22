@@ -68,11 +68,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# John Bangs
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育政策学者、教师劳工战略家；剑桥大学教育学院高级研究员（Senior Research Associate）、前全英教师联合会（National Union of Teachers, NUT）教育与平等事务部负责人；现任[[Education International\|国际教育协会]]（Education International, EI）特别顾问。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1995–2010 年 — [[Teacher Professional Agency\|教师专业自主权]]与工作负荷实证批判期** 深刻反思撒切尔主义以来[[New Public Management\|新公共管理]]对英国教师队伍的规训，依托剑桥大学跨界合作，从实证角度揭示过度行政干预对教师心理效能感与专业忠诚度的破坏。
 >   - **代表著作** *Re-inventing Schools, Re-forming Teaching: John Bangs, John MacBeath and Maurice Galton* (Routledge, 2010)。
@@ -114,9 +108,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育改革陷入“政策频出却执行瘫痪”的系统性困境，根本病灶在于决策者将教师排斥在方案设计之外并贬为单纯执行命令的受试工具。真正的[[Evidence-Based Education\|循证教育]]治理必须将有组织的教师专业集体视作平等的改革设计伙伴；工会必须发展独立的实证科研能力，争取跨国数据共同所有权，并在免受政治作秀干扰的闭门保密环境下与民选高官开展基于证据的坦诚战略对话。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
 
 > [!citation-card] 教师集体发声是教育改革卓越的决定性基石
@@ -131,9 +123,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 拓展了教育政治学与社会对话理论，将工会从传统利益集团的抗争[[Paradigm\|范式]]，重塑为具备高级学术研判能力的[[Knowledge Mediation\|知识中介]]与证据倡导者（[[Boundary Spanner\|Knowledge Broker]]）。
 > - **方法路径** 打破了官僚自编量表的象牙塔偏差，推动大型跨国测量工具（如 [[Teaching and Learning International Survey\|TALIS]]）融入一线教学真实[[Variable\|变量]]，开创了工会委托独立资深学者二次挖掘官方数据库的实证规程。
 > - **政策路径** 创立全球最高规格的部长-工会双边治理平台（[[International Summits on the Teaching Profession\|ISTP]]），促成各国在国家立法（如美国 [[Every Student Succeeds Act\|ESSA]] 法案）中采纳分布式领导与教师福祉指标。
@@ -151,8 +141,6 @@ updated: 2026-10-22
 > - **协同平台** [[International Summits on the Teaching Profession]] — 联合创办并常年主持该全球最高规格教育政策峰会。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

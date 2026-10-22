@@ -79,7 +79,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Han_Gutierez_2026_IJSE
 
 ---
 
@@ -95,8 +94,6 @@ issuing_organization: ""
 > - **贡献** 将演化认知科学的认识论警觉理论与学习科学的认识论支架理论深度融合，构建并实证检验了“内容—信源—接收者”三维评估模型与“学科标准 + 反思提问”双轨支架机制，为人工智能时代的科学探究教学提供了具操作性的微观[[Analytic Framework\|分析框架]]与教学干预[[Paradigm\|范式]]。
 
 ---
-
-## 理论框架
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -116,8 +113,6 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Fig1_Conceptual_Framework.jpg)
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -144,8 +139,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -163,9 +156,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一　显性学科标准能够引导中学生精准识别生成式人工智能内容中的因果机制缺陷与表征失真
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　显性学科标准能够引导中学生精准识别生成式人工智能内容中的因果机制缺陷与表征失真
 > 四项显性[[Scientific Explanation\|科学解释]]评价标准（相关性、因果叙事、概念框架、适切表征水平）为学生提供了清晰的学科判断依据，使他们能够跳出算法生成的顺滑语言与故事化外壳，敏锐发现生成内容中因果逻辑的缺失、上位分类概念的遗漏以及示意图表征的失真，并驱动多轮提示词重写与图文修正。（pp.11–18）
 
 #### 1. 对照科学解释标准识别事实堆砌并补齐因果逻辑与分类框架
@@ -248,9 +239,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二　反思性提问语能够促使学生主动核查外部信源并监控自身的真实理解
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　反思性提问语能够促使学生主动核查外部信源并监控自身的真实理解
 > 教师提供的[[Reflexivity\|反思性]]提问语（如追问数据来源、核对已有知识）有效激活了学生对信息来源（[[Source Evaluation\|信源评估]]）和自身认知状态（接收者评估）的审验；学生通过追查人工智能答案的依据、查阅权威教科书进行多方比对，并借助大模型自带的警示语，主动克服了盲目信从算法的倾向。（pp.18–22）
 
 #### 1. 追问证据出处并对照权威教科书开展跨来源核验
@@ -283,9 +272,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　双轨显性支架与课堂协作规范协同保障了学生在人机交互中的认知主体地位
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　双轨显性支架与课堂协作规范协同保障了学生在人机交互中的认知主体地位
 > 学科评价标准与反思性提问语并非各自分立，而是形成了优势互补的双轨支架体系；在同伴充分协商与多轮修改的课堂规范支持下，二者共同促使学生牢牢掌握对科学解释的最终裁决权，将生成式人工智能转化为提供灵感与激发思考的对话伙伴，有效防止了思维的被动外包。（pp.5–7, 22–24）
 
 课堂互动的全过程及最终生成的图文制品表明，这一教学设计成功化解了人工智能技术进课堂可能带来的认知惰性风险。
@@ -299,8 +286,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **中学生能够全面践行三维[[Epistemological Vigilance\|认识论警觉]]** 初中生在人机交互中展现出扎实的内容评估（识别事实堆砌、剔除修辞干扰、补全输导机制与微观结构）、[[Source Evaluation\|信源评估]]（追问数据来源、查阅教科书核实）和自身理解监控（反思已有概念、拒绝不懂的术语）。（pp.11–22）
 > 2. **双轨支架形成了协同互补的作用机制** [[Scientific Explanation\|科学解释]]标准直接指导对内容的审查，并带动对来源与自身的关注；反思提示语则直接激发信源审查与自我反思，并以解释质量标准为归宿。（pp.5–6, 18–22）
@@ -313,8 +298,6 @@ issuing_organization: ""
 > - **3** 质性[[Discourse Analysis\|话语分析]]提炼的核心认识论警觉实践维度（内容、信源、接收者评估）。（pp.11–22）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 显性[[Epistemic Scaffolding\|认识论支架]]的双轨互补功能
 > [[Scientific Explanation\|科学解释]]标准主要通过显化科学家评价解释质量的学科规范来为内容评估搭建[[Scaffolding\|脚手架]]；与此同时，[[Reflexivity\|反思性]]提问提示语显性引导学生核查信息可[[Reliability\|信度]]并监控自身[[Epistemology\|认识论]]推理。这两类支架互为补充，共同引导了学生在与 [[Generative Artificial Intelligence\|GenAI]] 交互中对科学内容、信息来源及自我理解的协同评估。（p.5）
@@ -332,8 +315,6 @@ issuing_organization: ""
 > *These findings suggest that within their cognitive levels, middle school students may engage in epistemic vigilance with explicit epistemic scaffolding, positioning students as primary epistemic agents.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限
 > 1. **样本规模与抽样范围限制** 8 名初中生（4 个小组）均来自京畿道同一所学校，且此前系统学习过[[Scientific Explanation\|科学解释]]评价标准，良好的协作默契可能强化了对评价规范的遵从，结论向更广泛初中生群体的推广性仍需进一步检验。（pp.6, 23）

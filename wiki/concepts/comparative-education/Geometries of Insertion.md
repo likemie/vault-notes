@@ -45,11 +45,7 @@ created: 2026-06-06
 updated: 2026-10-20
 ---
 
-# Geometries of Insertion
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 嵌入几何学（Geometries of Insertion）是由 [[Robert Cowen]] (2009) 提出的理论关切。它是指当情境被重新概念化并纳入转移、转译、转化及[[Shape-Shifting\|形变]]的理论体系中而被驯服之后，所形成的一套系统分析工具与设计理论，用于指导和刻画如何将一处所创造的教育思想与实践精确植入另一处。([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]])
@@ -66,8 +62,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析：嵌入几何学与相关概念的对比 (基于 [[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]])
 > | 维度 | 嵌入几何学 (Geometries of Insertion) | [[Policy Borrowing\|政策借用]] (Policy Borrowing) | 经典情境描述 (Context-Description) |
 > | :--- | :--- | :--- | :--- |
@@ -80,8 +74,6 @@ updated: 2026-10-20
 > - **与 [[Transfer Translation Transformation\|3T 框架]] 互为表里** 3T 框架是嵌入几何学得以成立的解剖工具。只有将移动分解为空间转移、文本转译、权力转化三个清晰阶段，情境才可能被拆解为可操作的参数，进而实现精确的几何嵌入。
 
 ---
-
-## 理论构件
 
 > [!theory-components] 嵌入几何学的核心理论要素
 > - **情境的[[Variable\|变量]]化与驯服 (Subduing of Context)**
@@ -96,8 +88,6 @@ updated: 2026-10-20
 
 ---
 
-## 案例剖析
-
 > [!case] 案例一：强制性几何嵌入（战后德日的不同抗性）
 > 二战后，盟国占领当局在德、日推行了几乎平行的教育民主化蓝图。在美国占领下的日本，驻日盟军总司令部（General Headquarters of the Allied Powers，GHQ）强推美式单轨制（6-3-3-4 学制）以废除战前军国主义复轨体制，虽然该学制外在结构被完整保留，但被本土极其残酷的升学[[Examination Hell\|考试地狱]]（Examination Hell）与大学声望层级彻底拉长[[Shape-Shifting\|形变]]，异化为服务于阶级筛选的分流工具。而在德国，美占德国军事政府（Office of Military Government, United States，OMGUS）强推综合中学（Einheitsschule）以瓦解传统阶级分化，但遭到保守教育精英和地方各州（Länder）政府的联合抵制，在长时段博弈中彻底灭绝了美式综合中学，强力保留了文科中学（Gymnasium）、实科中学（Realschule）和主体中学（Hauptschule）的欧式传统三轨制。相同的转移输入在不同接受国演化出截然相反的制度形状（p. 323）。
 
@@ -110,8 +100,6 @@ updated: 2026-10-20
 ---
 
 
-
-## 相关研究
 
 > [!evidence-grid] 嵌入几何学的理论研究与实证拓展
 > - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 提出嵌入几何学作为比较教育的伦理命题，拷问情境被降服为[[Variable\|变量]]后的[[Social Cloning\|社会克隆]]代价，奠定了[[Shape-Shifting\|形变]]与 3T 分析的批判性基调。

@@ -41,11 +41,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Talent Assumption
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 天赋假设（talent assumption）是 [[Argument_Li_2012_Cambridge|Li (2012)]] 在分析西方 [[Nerd]] [[Peer-Supported Learning|同伴文化]]时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平([[Argument_Li_2012_Cambridge\|Li, 2012, pp.96–98]])。
 
 这一信念的历史根源可追溯至 [[Francis Galton]] 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein and Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
@@ -55,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 **先天论取向**。天赋假设的核心前提是：才能（talent）是天生的——一个人在出生时就被赋予了一定水平的智力、[[Creativity|创造力]]和能力倾向，教育和社会化可以"实现"或"表达"这些潜能，但不能从根本上改变它们([[Argument_Li_2012_Cambridge|Li, 2012, p.96]])。西方文化中"gifted children"（天才儿童）这一概念以及围绕其建立的整本学术期刊和研究领域，就是这一信念的制度化体现([[Argument_Li_2012_Cambridge|Li, 2012, p.119 note 48]])。
 

@@ -64,11 +64,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Institutional Review Board
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **机构审查委员会（Institutional Review Board, IRB）**，亦称机构伦理委员会或[[Research Ethics|研究伦理]]委员会，是设立在大学、科研院所、医疗中心及产业研发机构内部的专门伦理治理机构。其法定职能依据美国《联邦通用规范》（[[Common Rule 2018|Common Rule]]）及各国受试者保护法规，在实证研究开展数据收集之前，独立审查涉及人类受试者的研究方案、[[Informed Consent|知情同意]]文件及风险规避措施，确保研究符合伦理正当性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, 第 4 章]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 116–129]]）。在[[University-Industry Collaboration|产学合作]]与[[Clinical Trial|临床试验]]中，IRB 既是保障受试者福祉的伦理[[Gatekeepers|守门人]]，也是直接决定试验启动速度与合规成本的关键制度节点（[[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp. 206–211]]）。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > | **典型现实代表** | 传统[[Research Universities\|研究型大学]] IRB、公立医院伦理委员会 | WCG IRB、Advarra、[[Clinical Trials Transformation Initiative\|CTTI]] 倡导的单中心伦理协作网 | BERA (2004) 伦理指南、APA (2002) 伦理原则 |
 
 ---
-
-## 核心要素
 
 > [!feature] IRB 审查的核心风险类别与保护对象
 > - **五大风险评估维度** 评估受试者面临的身体风险（Physical risk）、心理风险（Psychological risk）、社会风险（Social risk）、经济风险（Economic risk）与法律风险（Legal risk）。（Sieber, 1998; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, 第 4 章]]）
@@ -168,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -179,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 机构审查制度的建立与尺度演变
 > - **二战后至 1960 年代初 — 无 IRB 监管的探索黄金期与伦理隐患** 高校心理学系主要依赖研究者自我监管，催生了阿施从众实验（1951）与米尔格拉姆服从实验（1961）等揭示人性深层盲从弱点的巅峰成果，但也暴露了严重的受试者心理创伤风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 132)]]
 > - **1970s–1980s — 贝尔蒙报告与 IRB 审查制度化** 《贝尔蒙报告》（Belmont Report）确立尊重人、行善与正义三大原则；美国出台《联邦通用规范》（[[Common Rule 2018|Common Rule]]），将 IRB 确立为高校与医院开展人类研究的强制前置门槛。
@@ -188,8 +178,6 @@ updated: 2026-10-22
 > - **2025 — [[Technological Republic|技术共和国]]工程治理重审 IRB 避险体制** 卡普与扎米斯卡在《技术共和国》中从科学突破与国家战略能力视角反思 IRB 规章合规对颠覆性实验探索的抑制效应，呼吁在严守底线的同时防范防卫型官僚主义对科学活力的扼杀。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132, 147)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议交锋
 >

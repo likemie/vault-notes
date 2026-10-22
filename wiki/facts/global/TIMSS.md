@@ -65,11 +65,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# TIMSS
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **国际数学与科学[[Trend Study|趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）** 是由[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）主办的全球性周期性[[Academic Achievement|学业成就]]比较项目；项目以 4 年为固定周期，旨在追踪全球中小学 4 年级与 8 年级学生在数学与自然科学领域的学业成就趋势，并全面审视国家课程政策与学校教学环境。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 484, 494)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 > - **课程导向特质** 与 [[PISA]]（侧重 15 岁学生适应未来社会的跨学科综合素养与 [[OECD]] 经济导向）不同，TIMSS 严格采取**基于课程的评估框架（Curriculum-based Framework）**，系统考察“预定课程（Intended Curriculum）”、“实施课程（Implemented Curriculum）”与“习得课程（Attained Curriculum）”的三联契合度。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 通过建立对标课程大纲的内容与认知双维矩阵，结合全景式教育背景调查[[Questionnaire|问卷]]，为各国政府提供跨越周期的国际课程效能基准，诊断学校数理教学的制度性短板。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 494)]]
@@ -104,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1995 — 奠基与规模突破** 开展首轮 40 多个国家参与的测试，创下当时国际比较教育史上最大规模实证测评纪录。
 > - **1997–2003 — 跨国课程对比与多国震荡** 1997 年 TIMSS 结果发布在德国引爆“TIMSS 震荡”，直接促成联邦与各州设立重大教学改革项目 [[SINUS]]；密歇根州立大学教授兼 TIMSS 美国国家研究协调员[[William H. Schmidt|威廉·H·施密特]]扮演[[Policy Entrepreneur|政策企业家]]角色，依据比较数据诊断美国课程“一英里宽、一英寸深”，为后续跨州[[Common Core State Standards|共同核心标准]]（CCSS）确立了国际基准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
@@ -113,8 +105,6 @@ updated: 2026-10-22
 > - **2019 至今 — 数字化与交互测评转型** 全面过渡至计算机化数字测评（eTIMSS），引入基于模拟情境的复杂科学探究与数学交互解题模块。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **主办与国际统筹方（IEA 秘书处与阿姆斯特丹/汉堡中心）** 负责总体政策指导、成员国接纳、数据清洗与国际比较数据库发布。
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > - **多层背景问卷关联分析** 将学生测试得分与教师资历、教学时长及学校资源进行层次线性模型（HLM）联动，揭示课程实施的背景调节效应。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入与背景指标** 国家课程大纲覆盖率、各学段周均数理课时、任课教师专业对口率、学校实验室与教学硬件配置。
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > - **500 / 100** 跨国平均分与标准差标准刻度基准。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

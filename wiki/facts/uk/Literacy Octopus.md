@@ -73,11 +73,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Literacy Octopus
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **“识字八爪鱼”（Literacy Octopus）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）全额资助、英国国家教育研究基金会（National Foundation for Educational Research, NFER）作为独立第三方评估的大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（[[Multi-Arm Trial\|Multi-Arm RCT]]）。该试验旨在系统检验不同包装样态与媒介形式的实证研究成果单向推送策略对小学教师教学行为以及 5 年级、6 年级学童终结性[[Academic Achievement\|学业成就]]的因果影响，构成了全球循证政策与知识传播领域最具代表性的标志性实证检验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 152)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 586–588)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > - **因果质量评级基石** 戈拉德等在证据利用[[Systematic Review\|系统综述]]中运用“[[Gorard's Trustworthiness Sieve\|戈拉德研究可信度筛子]]”将该试验评定为 4 级（★★★★，最高可[[Reliability\|信度]]），认定其具备极低样本损耗、独立客观终考测量与严格[[Counterfactual\|反事实]]对照，是全球极少数直接以终端学业成效检验知识传播的黄金标准研究。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 577, 588)]]
 
 ---
-
-## 试验设计与干预臂样态
 
 > [!policy-design] 多臂随机对照架构
 > 试验设置了维持日常教学的常态对照组（[[Business as Usual]]）以及多个平行干预臂（Arms），正交检验由专业中介机构策划的 4 类不同形式的被动与轻量级知识传播策略：
@@ -111,16 +105,12 @@ updated: 2026-10-22
 
 ---
 
-## 实证结果与因果裁定
-
 > [!critique-data] 严格[[Intent-to-Treat Analysis\|意向性分析]]下的全线零效应
 > - **终结性学业指标** 评估团队将试验微观数据与英格兰[[National Pupil Database\|国家学生数据库]]（National Pupil Database, NPD）对接，以学生在 Key Stage 2（KS2）小学毕业全国标准化考试中的客观阅读与写作成绩作为主要结局指标，彻底杜绝自编测验的虚高偏倚。
 > - **意向性分析（[[Initial Teacher Training\|ITT]]）结果** 统计结果表明，**所有 4 种单一信息推送策略对学生最终 KS2 识字成绩的因果增益[[Effect Size\|效应量]]全部接近于零（$ES pprox 0.00$），且在统计学上无任何显著性（$p > .05$）**。
 > - **[[Implementation and Process Evaluation\|过程评估]]与教师行为追踪** 同步开展的大规模[[Questionnaire\|问卷调查]]与课堂深度观察证实：在教师专业行为层面的 6 项量化使用指标上，干预组与对照组完全没有统计学可测量的差异。尽管多数教师报告确实阅读了寄送的纸质材料或点击了数字邮件，但其在日常课堂中的提问方式、师生互动以及阅读教学策略并未发生任何可识别的系统性转变。单向信息推介完全停留在认知表层，无法跨越到实践转化层面。[[Argument_Gough_2022_EvidenceOnEIPP\|(Lord et al., 2017; Gough et al., 2022, p. 152)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 586–588)]]
 
 ---
-
-## 方法学与制度性启示
 
 > [!finding-cards] 对全球[[Evidence-Based Education\|循证教育]]生态的颠覆性重构
 > - **彻底粉碎信息赤字假设** 识字八爪鱼试验以无可辩驳的高质量因果证据，彻底宣判了“单向学术推介（Research Push）”与单纯文本改写分发模式的失效。经验证实：单纯的信息可及性既不是实践变革的[[Necessary and Sufficient Conditions\|充分条件]]，甚至不是核心驱动力；寄送精美的手册无法自动转化为课堂生产力。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 588)]]
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > | [[COM-B Model]] | Theory | 试验失效后解释教师行为转化障碍、指导证据生态重构的核心行为改变理论。 |
 
 ---
-
-## 来源与文献出处
 
 > [!citation-card] 试验官方独立评估报告与权威综述出处
 > - Lord, P., Rabiasz, A., & Styles, B. (2017). *The Literacy Octopus: Communicating evidence to improve teaching. Evaluation report and executive summary*. [[Education Endowment Foundation]].

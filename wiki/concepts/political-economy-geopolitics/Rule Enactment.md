@@ -45,11 +45,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Rule Enactment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **规则践行（Rule Enactment）** 指行动者在具体社会与经济情境中理解、解释、推行、抵制或变通制度规范的动态实践过程；[[Historical Institutionalism|历史制度主义]]强调，形式条文的**规则设计（Rule Design）** 与基层实际的**规则践行**之间始终存在不可消除的结构性脱节（Gap），这一脱节并非纯粹的技术执行失误，而是各方利益主体展开持续政治博弈与微观重塑的根本制度空间。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 制度运作机制概念辨析
 > | 维度 | 规则践行（Rule Enactment） | 规则设计（Rule Design） | 自由裁量权（[[Enforcement Discretion]]） |
 > |:---|:---|:---|:---|
@@ -81,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **规则的固有不完备性（Rule Incompleteness）** 任何成文法都无法预见未来所有复杂的现实情境，立法意图与具体适用之间永远需要中介解释，使规则意义处于开放状态。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 14)]]
 > - **设计者的认知局限与意外后果（Cognitive Limits）** 制度设计者无法掌握全面信息，善意的规则推行常诱发反常的非预期结果，迫使体制在事后修补中偏离原轨。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 14–15)]]
 > - **策略性漏洞探测与边界试探（Strategic Loophole Probing）** 未完全社会化的自利行动者（如雇主与税务律师）持续利用规则缝隙寻找合规避险方案，一旦新做法扩散便会倒逼制度实质质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 15)]]
@@ -130,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -146,8 +136,6 @@ updated: 2026-10-22
 > - **2009 — [[Rule Ambiguity|规则模糊性]]与执法裁量权模型化** [[James Mahoney|詹姆斯·马奥尼]]与[[Kathleen Thelen|凯瑟琳·希伦]]在《解释制度变迁》中继承该思路，将践行脱节形式化建构为[[Rule Ambiguity|规则模糊性]]与执法裁量权的双维分析工具。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

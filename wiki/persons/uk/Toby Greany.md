@@ -55,11 +55,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Toby Greany
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名教育政策与领导力学者，诺丁汉大学（University of Nottingham）教育学院教育领导力与管理讲席教授，前伦敦大学学院教育研究院（UCL IOE）学习领导力中心（London Centre for Leadership in Learning）主任，前英格兰国家[[School Leadership\|学校领导力]]学院（National College for School Leadership, NCSL）研究与发展执行主任。
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2014 — *Are We Nearly There Yet? Progress, Issues and Possible [[Early Steps\|Next Steps]] for a [[Self-Improving School System]]* (IOE Press)** 全面审视英格兰 2010 年[[The Importance of Teaching\|《教学的重要性》]]白皮书改革进展的奠基之作，系统阐释了学校主导型改进系统在政策预期与落地现实之间的巨大落差。
 > - **2015 — *How Can Evidence Inform Teaching and Decision Making Across 21,000 Autonomous Schools?* (in [[Chris Brown\|C. Brown]], Ed., *Leading the Use of Research & Evidence in Schools*, IOE Press)** 深入剖析在 21,000 所高度自治但又相互孤立竞争的公立学校体系中，如何依托中介网络与微观教研机制实现研究证据的可信动员。
@@ -93,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 英格兰倡导的“[[Self-Improving School System\|自我改进学校系统]]”并未真正消除新自由主义官僚控制，而是构建了一种由科层问责统领、准市场生源竞争渗透、横向网络弱势共存的三重混合治理模式；在缺乏外部督导体制与问责激励协同调整的情况下，单纯依靠学校自发探索无法形成普遍的循证实践生态。
 
 > [!citation-card] 外部问责框架转型作为证据知情自改进的先决条件

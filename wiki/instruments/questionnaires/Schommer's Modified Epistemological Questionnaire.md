@@ -42,11 +42,7 @@ created: 2026-08-19
 updated: 2026-10-16
 ---
 
-# Schommer's Modified Epistemological Questionnaire
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] SMEQ
 > - **工具类型** [[Questionnaire\|问卷]]
@@ -56,8 +52,6 @@ updated: 2026-10-16
 > - **题量说明** 课堂施测总题量为 52 题；经[[Exploratory Factor Analysis\|探索性因子分析]]后，最终提取并保留用于计算三因子核心得分的代表性题项共 11 题。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Epistemological Beliefs\|认识论信念]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -70,15 +64,11 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 第一人称或泛指陈述句。
 > - **作答格式** 5点 Likert 量表（1 = 完全不同意，5 = 完全同意）。
 > - **反向题与跳题** 部分反向表述题项在计分时予以反向转换；分数越高通常代表[[Epistemological Beliefs\|认识论信念]]越朴素（naïve），分数越低代表认识论信念越成熟（sophisticated）。
 > - **题项呈现说明** 学生实际施测填写 52 题[[Questionnaire\|问卷]]；经[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）筛选后，仅将因子载荷达标（$\ge .33$）且构成 3 个核心因子的 **11 个核心题项** 纳入统计模型并在文献中公开发布（见下表）。其余 41 题因载荷过低或跨载荷未进入核心模型。
-
-### 固定与快速学习能力
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -91,8 +81,6 @@ updated: 2026-10-16
 > | 4 | Working hard on a difficult problem for a longer period of time only pays off for really smart students.<br>**花较长时间努力钻研难题只对真正聪明的学生有回报。** | .48 | 1–5 | 正向计分 | — |
 > | 5 | Once a person is born, their ability to learn will not change.<br>**人一旦出生，其学习能力就不会改变。** | .39 | 1–5 | 正向计分 | — |
 
-### 简单知识
-
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 >
@@ -103,8 +91,6 @@ updated: 2026-10-16
 > | 8 | We can't be sure of anything, except that we will die someday.<br>**除了我们终有一天会死去之外，我们对任何事都无法确信。** | .41 | 1–5 | 正向计分 | — |
 > | 9 | It's a waste of time to work on problems which have no possibility of coming out with a clear-cut and straight forward answer.<br>**把时间花在不可能得出明确直接答案的问题上是一种浪费。** | .33 | 1–5 | 正向计分 | — |
 
-### 确定知识
-
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 >
@@ -114,8 +100,6 @@ updated: 2026-10-16
 > | 11 | If scientists try hard enough, they can find the truth to almost anything.<br>**如果科学家足够努力，他们几乎可以找到任何事物的真理。** | .74 | 1–5 | 正向计分 | — |
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -139,8 +123,6 @@ updated: 2026-10-16
 > | **公立学校子样本（Public Sub-sample）** | 358 | .008 (.85) | .03 (.77) | .07 (.86)+ |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

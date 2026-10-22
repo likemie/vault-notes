@@ -38,13 +38,9 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Knowledge-that and Know-how-to
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 知其然（Knowledge-that）和知其所用（Know-how-to）是 Ryle (1946) 提出的知识区分。知其然是关于某事是什么的命题性知识，知其所用是关于如何做某事的应用性知识。在 [[Curriculum Design Coherence Model\|课程设计连贯性模型]]中，这两种知识形式的连接被[[Operationalization\|操作化]]为课程设计的核心要素([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 
 > [!quote|notitle]
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **明智地知其所用**。CDCM 中的「明智地知其所用」（intelligent know-how-to）和「知其所以然」（knowing-why），发生在学生能够展示和阐述两种知识形式之间的联系时。这标志着深层学习，而非表面学习（如背诵事实或机械展示技能）。
 
 ---
-
-## 争议与批评
 
 > [!warning] 边界模糊问题
 > 在[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中，知其然和知其所用的边界在某些学科中模糊。例如，数学学科的「知道」部分有两个列，名为「我知道」和「我知道如何」。命题适当地出现在「我知道」列中，但「我知道如何」的陈述并非命题形式。知其然时而以命题形式出现，时而以其他形式出现，这种不一致反映出学科知识不同形式之间界限的模糊。更值得注意的是，「知道」部分本应识别用于阐释[[Big Ideas\|大概念]]的丰富语境，但却混入了「知其所用」（应用知识），这属于[[Epistemology\|认识论]]上的类别错误([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。

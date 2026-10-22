@@ -45,11 +45,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Co-Design
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **协同设计（Co-Design）** 指在微电子及复杂工程系统的研发全生命周期中，打破传统层级隔离与单向传递的设计流水线，将材料特性、物理模型、器件结构、制造工艺、异构封装、电路拓扑、算法体系及终端应用需求进行全栈双向贯通与同步联合优化的研发[[Paradigm|范式]]。在半导体技术领域，协同设计具体涵盖设计—技术协同优化（Design-Technology Co-Optimization, DTCO）与系统—技术协同优化（System-Technology Co-Optimization, STCO），通过在设计初期同步考量可制造性、热耗散极限、辐射耐受性、物理安全性与全生命周期能效，实现系统级指标的最优权衡。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 13–16, 18–20)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 芯片设计研发[[Paradigm|范式]]对比
 > | 维度 | 协同设计（Co-Design / DTCO / STCO） | 经典抽象分层设计（Layered Modular Design） | 逆向定制设计（Post-Hoc Customization） |
 > |---|---|---|---|
@@ -81,8 +75,6 @@ updated: 2026-10-22
 > | **主要工具支撑** | 跨尺度物理模型、云端数字孪生与多物理场仿真 | 标准[[Electronic Design Automation\|电子设计自动化]]（EDA）静态综合与验证工具 | 硬件仿真器与后仿真微调补丁 |
 
 ---
-
-## 核心要素
 
 > [!feature] 协同设计的关键构成支柱
 > - **多层级双向信息流（Bidirectional Stack Communication）** 实现从材料晶格—物理器件—异构封装—逻辑电路—算法软件—网络应用的连续双向参数传递。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 13, 20)]]
@@ -126,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 协同设计核心命题概览
 > | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
 > |---|---|---|---|
@@ -144,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 协同设计学术争议与治理张力
 >
 > > [!axis] 工程架构[[Paradigm|范式]]：跨层级全局联合优化 vs 经典抽象分层黑箱
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > > - **头部商业代工厂** 出于保护核心制造工艺机密与客户隔离考虑，倾向于提供高度抽象化、保守放宽安全裕量的商业 PDK，限制了深度软硬件定制潜力的完全释放。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

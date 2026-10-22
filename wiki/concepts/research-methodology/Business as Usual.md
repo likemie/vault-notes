@@ -76,8 +76,6 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Business as Usual
-
 ---
 
 ## 定义
@@ -208,8 +206,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -260,8 +256,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -274,8 +268,6 @@ updated: 2026-10-22
 > | Lortie-Forgues and Inglis (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | 英美 141 项中介资助大样本教育 RCT vs BAU | 学科学业表现 | 141 项大型 RCT，跨越英美数万名学生与数百所学校 | 绝大多数干预未能取得大幅度增量 | 中位 $d = 0.06$ | 效应量总体极度微弱 | 揭示在公立教育体系坚实的常态基线之上取得大幅度净增益面临极高生态门槛 |
 
 ---
-
-## 应用案例
 
 > [!case] 英国 [[Education Endowment Foundation\|EEF]] 评估体系中的对照组常态教学实证追踪方案
 > 英国[[Education Endowment Foundation\|教育捐赠基金会]]在现代评估指南中对常态教学设定了明确的操作规约：要求独立评估团队在方案[[Preregistration\|预注册]]协议（Protocol）中不仅定义干预内容，还必须详尽阐明对照组常态教学的理论假设；在试验执行过程中，评估团队通过向对照组教师发放专项调查[[Questionnaire\|问卷]]、核对日常教学时间分配，排查对照组学校是否采购了相似的数字学习工具。这一规范彻底改变了将常态对照视为未测量黑盒的历史弊端。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 53]]）
@@ -302,8 +294,6 @@ updated: 2026-10-22
 > | [[Education Endowment Foundation]] | 事实 | 英国 EEF 率先将对照组常态教学行为追踪纳入独立评估标准规范。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐发常态教学高水准基线假说，论证证明干预无法超越常态教学对保护公共财政与防止商业营销绑架的重要治理价值。

@@ -57,11 +57,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# PISA Creative Thinking
-
 ---
-
-## 理论构念与核心定义
 
 > [!def] 概念定义
 > **[[PISA]] [[Creativity|创造性思维]]（PISA Creative Thinking）** 是[[OECD|经济合作与发展组织]]（OECD）在 2022 年国际学生评估项目（[[PISA]]）中正式确立并实施的跨学科前沿评估[[Construct|构念]]。该框架将创造性思维界定为个体在面对复杂问题与表达需求时，能够产生多样化构想（Generating Diverse Ideas）、产生新颖且原创构想（Generating Creative/Original Ideas），以及对既有构想进行批判性评估与迭代改进（Evaluating and Improving Ideas）的胜任力组合。这一测评脱离了传统心理学对个体内在特质或“天才创造力”（Big-C）的精英化假设，转向考察在义务教育阶段人人皆可发展的“日常创造力”（Little-c），关注学生将创造性构想运用于书面交流、视觉艺术、社会日常挑战及科学探索情境中的实际表现。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 测评维度与任务矩阵
-
 > [!matrix-table] [[PISA]] [[Creativity|创造性思维]]双向细目矩阵
 > | 认知加工过程 | 书面表达（Creative Expression） | 视觉表达（Visual Expression） | 社会[[Problem Solving\|问题解决]]（Social Problem Solving） | 科学问题解决（Scientific Problem Solving） |
 > |:---|:---|:---|:---|:---|
@@ -94,16 +88,12 @@ updated: 2026-10-22
 
 ---
 
-## 方法论挑战与理论争鸣
-
 > [!tension] 学理争议与测量学张力
 > - **[[Construct|构念]][[Commensuration|通约]]性与文化多样性张力** 批评者指出，何为“新颖”与“有效”深度依赖于特定的文化传统与本土生活经验；西方测试设计中倾向于褒奖的反常规颠覆性构想，在重视传统连续性与集体和谐的东方文化情境中可能面临文化评估偏差。
 > - **标准化度量与[[Creativity|创造力]]本质的悖论** 创造力的核心在于打破既有规则与框架，而标准化大规模评估依赖于预设的封闭采分点与算法规则；将[[Divergent Thinking|发散性思维]]强行还原为六级能力量表，面临将生动的探索精神矮化为机械套路应试的风险。
 > - **自然语言处理自动化评分的效度边界** 采用算法评估学生文本的语义独特性时，算法容易偏向于奖励罕见词汇堆砌或复杂句式，对深层文化幽默、反讽修辞与隐喻意蕴的识别精度依然受限。
 
 ---
-
-## 政策效应与教育反响
 
 > [!lessons] 经验启示与治理反响
 > - **反向牵引基础教育育人目标重组** [[PISA]] 将[[Creativity|创造性思维]]提升为主测衍生模块，促使多国教育部反思以往课堂教学中过度的[[Rote Learning|死记硬背]]与单一标准答案倾向，推动中小学在国家课程中强化[[Inquiry-Based Learning|探究式学习]]、设计思维（Design Thinking）与 STEAM 跨学科整合。
@@ -125,8 +115,6 @@ updated: 2026-10-22
 > | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | 论证 | 批判 PISA 业务线不断向创造力等新领域扩张、以度量霸权笼罩全球教育的文献。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 深入剖析[[OECD|经合组织]]如何通过不断将[[Creativity|创造力]]、全球胜任力等前沿[[Construct|构念]]纳入 [[PISA]] 产品线，实现跨国评价帝国的自我再生产与治理[[Discourse|话语]]扩张。

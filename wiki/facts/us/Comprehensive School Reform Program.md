@@ -56,11 +56,8 @@ status: draft
 created: 2026-05-01
 updated: 2026-10-22
 ---
-# Comprehensive School Reform Program
 
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 全面学校改革计划（Comprehensive School Reform, CSR）是美国国会于 1997/1998 年通过 Obey-Porter 修正案设立的联邦专项资助计划，是美国教育史上首次在法律层面明确将联邦财政拨款与教学方案的实证有效性证据（Proven Effectiveness）直接绑定的制度先例。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -72,8 +69,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对长期以来 Title I 资金碎片化投入、缺乏实证支持且未能根本改善薄弱学校整体[[Academic Achievement\|学业成就]]的治理困境，试图通过财政激励引导学校采纳经过实验验证的一体化全校改革模型。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 15–16)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过为每所入选学校提供每年至少 5 万美元（连续 3 年）的专项附加经费，激励薄弱学校放弃零散修补，转而采购并在全校整体实施经过严格实验-对照组评估验证的“全面改革模式”（Comprehensive Reform Models）。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
@@ -91,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1997 年 — 政策倡导与立法动议** [[Robert Slavin]] 在 *Educational Researcher* 发表《设计竞赛》（Design Competitions），提出将实证[[Evidence Standards\|证据标准]]作为联邦教育资助核心准绳；众议员 Obey 与 Porter 将其转化为跨党派立法修正案。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 > - **1998 年 — 项目启动与首批拨款** 联邦设立每年 1.5 亿美元专项拨款，CSR 示范项目（CSRD）正式启动，在全美掀起全校改革模型采纳热潮。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -101,8 +94,6 @@ updated: 2026-10-22
 > - **2009 年至今 — 制度遗产沉淀与 i3/[[Every Student Succeeds Act\|ESSA]] 承继** CSR 确立的“拨款与证据挂钩”机制为联邦[[Investing in Innovation Program\|创新投资项目]]（i3）及 2015 年《让每个学生都成功法案》（ESSA）分层证据框架提供了直接制度范本。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **联邦教育部（ED）** 制定管理规章，向各州按比例切块下拨 CSR 专项经费，发布指导性评估框架。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
@@ -116,8 +107,6 @@ updated: 2026-10-22
 > - **州级自由裁量权与标准稀释** 在实际操作中，由于缺乏国家级统一证据审查平台，各州官员在评审时广泛保留自由裁量权，大量未经验证的地方自创模型被宽松准入。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入与规模指标** 联邦累计资助超过 2,600 所学校，年财政总投入最高达 3.1 亿美元。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
@@ -139,8 +128,6 @@ updated: 2026-10-22
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | CSR 政策纵向回顾与 ESSA 项目库比较（跨越 20 年） | 政策演进分析与[[Best Evidence Synthesis\|最佳证据综合]] | 政策杠杆有效性与方案长期存续 | 每年 2 亿美元资金成功带动全美数百所学校采纳高保真循证方案；直接催生后续 i3 与 ESSA 分层资助立法 | 确立了财政杠杆在驱动循证学校改革中的基石地位 |
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

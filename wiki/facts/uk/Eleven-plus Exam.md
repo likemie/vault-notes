@@ -73,8 +73,6 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 
 ---
 
-## 效果与评价
-
 > [!info] 核心数据
 > - 163 所[[Grammar School\|文法学校]]仅覆盖英格兰不到 5% 的中学生，但在议会被提及九倍于 3,200 所综合学校([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17–18]])
 > - 仅约 3% 的 FSM 儿童进入文法学校([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.21]])

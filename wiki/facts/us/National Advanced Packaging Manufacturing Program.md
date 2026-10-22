@@ -61,11 +61,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# National Advanced Packaging Manufacturing Program
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **国家先进封装制造计划（National Advanced Packaging Manufacturing Program, NAPMP）** 是依据美国《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022，15 U.S.C. § 4656(c)）设立的 30 亿美元国家级专项研发计划。该计划由美国商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）统筹实施，旨在重构美国本土半导体先进测试、[[Assemblage|组装]]与封装基础设施，攻克[[Heterogeneous Integration|异构集成]]关键工程瓶颈，并在《微电子研究国家战略》四大战略目标中承担后摩尔时代先进封装技术攻坚与系统级创新中试重任。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 10, 17–18)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对全球先进封装产能高度集中于东亚（美国本土全球封装市场份额不足 3%）的地缘供应链断裂风险，并在单片系统级芯片（System-on-Chip, SoC）逼近物理微缩极限的背景下开辟多维异质系统性能提升新路径。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过资助共性先进封装中试线、确立开放式[[Process Design Kit|装配设计套件]]（[[Process Design Kit|Assembly Design Kit]], ADK）与通用芯粒（[[Heterogeneous Integration|Chiplet]]）互连互通标准，并攻克微米/亚微米级微互连（微凸点、硅通孔与直接混合键合）计量与多物理场协同仿真，大幅降低复杂异构微系统的研发准入门槛，形成从实验室概念到 300 毫米晶圆级量产封装的本土工程化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 10, 15)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 17–18, 24)]]
@@ -102,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2022 — 立法授权与资金划拨** 国会通过《[[CHIPS and Science Act|芯片与科学法案]]》，正式为 NAPMP 授权 30 亿美元专项拨款，确立其与 [[National Science and Technology Council|NSTC]] 并列的法定战略地位。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 26)]]
 > - **2023 — 顶层愿景与技术路线图确立** 商务部发布《[[National Semiconductor Technology Center|国家半导体技术中心]]愿景与战略》，界定 NAPMP 与 NSTC 的协同机制，系统规划 2.5D/3D 封装中试线与芯粒互连规范。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
@@ -111,8 +103,6 @@ updated: 2026-10-22
 > - **2024–至今 — 竞争性资助发布与[[Pilot Scale Platform|中试基地]]落地** NIST 陆续发布先进封装基板、制造装备工具、热管理以及先进封装原型中试基地（Prototyping Facility）专项资助机会公告（NOFO），全面启动产学研攻关联合体建设。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **商务部 NIST / CHIPS 研发办公室** 负责制定[[Total War|总体战]]略资助指南、遴选研发联合体并监督项目执行与绩效评估。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2, 26)]]
@@ -126,8 +116,6 @@ updated: 2026-10-22
 > - **全链条跨部门无缝衔接** 承接国家科学基金会（[[National Science Foundation|NSF]]）与国防部[[Microelectronics Commons|微电子共用体]]的早期原型，直接对接商业代工厂量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **技术成熟度跃升** 将先进异构封装方案的[[Technology Readiness Level|技术就绪度]]（TRL）从实验室原理（TRL 3–4）加速推进至工业量产就绪（TRL 7–8）。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–10)]]
@@ -146,8 +134,6 @@ updated: 2026-10-22
 > - **3%** 法案出台前美国本土在全球先进封装制造市场中的极低占比基线。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议交锋
 >

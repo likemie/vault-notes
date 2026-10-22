@@ -68,13 +68,9 @@ created: 2026-05-19
 updated: 2026-10-22
 ---
 
-# Cultural Political Economy
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 资本主义社会中经济与政治秩序的演化与再生产；危机时期政策[[Discourse|话语]]、[[Social Imaginary|社会想象]]与制度转型的互动机制；教育与知识体系如何兼具符号表征与物质生产的双重属性。
 > - **理论问题** 传统政治经济学陷入经济[[Determinism|决定论]]或结构拜物教，将文化与意识形态降为经济基础的派生副产物；而[[Postmodernism|后现代主义]]文化转向走向极端文本主义，彻底消解了物质生产、制度安排与资本积累的刚性因果制约。
 > - **理论类型** [[Critical Realism|批判实在论]]导向的后学科综合解释框架与批判分析透镜。
@@ -85,15 +81,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 英国社会学家[[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）与岑丽玲（Ngai-Ling Sum）在《走向文化政治经济学》（*Towards a Cultural Political Economy: Putting Culture in Its Place in Post-Crisis Capitalist Economies*, 2013）中系统建构该理论。
 > - **原初问题** 2008年全球金融危机爆发后，既有经济学模型无法合理解释为何破产的新自由主义叙事能够通过[[Discourse|话语]]重塑迅速恢复统治地位，暴露了传统理论割裂“意义阐释”与“结构积累”的理论短板。
 > - **理论资源与材料** 吸收了[[Evolutionary Economics|演化经济学]]的“变异—选择—保留”模型、[[Critical Realism|批判实在论]]的分层[[Ontology|本体论]]、[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）的批判性[[Discourse Analysis|话语分析]]（[[Critical Discourse Analysis|CDA]]）、以及安东尼奥·葛兰西（Antonio Gramsci）的[[Hegemony|文化霸权]]与历史块垒概念。
 > - **形成路径** 将[[Linguistic Turn|语言学转向]]引入国家理论与积累体制分析，确立“符号化（Semiosis）”与“结构化（Structuration）”两条平行且交织的因果进路，把想象定位为连接微观主观意义与宏观客观体制的中介枢纽。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
 > - **2013 年 — 奠基之作** 岑丽玲与杰索普出版专著，系统确立文化政治经济学（Cultural Political Economy, CPE）本体论、[[Epistemology|认识论]]与演化机制，划清与[[Post-structuralism|后结构主义]]极端文本主义的边界。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]
@@ -102,8 +94,6 @@ updated: 2026-10-22
 > - **2023 年 — 批判政策话语分析结合** 吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）在教育政策社会学研究中，将 CPE 的符号化（Semiosis）[[Champ|场域]]假说与批判话语分析三维模型结合，剖析中国[[Belt and Road Initiative|一带一路]]教育文本中替代性国际秩序想象的建构与工程技术物质化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
 
 ---
-
-## 关键概念与理论构件
 
 > [!entry-map] 关键构件与功能
 > | 构件 | 类型 | 在理论中的功能 |
@@ -116,8 +106,6 @@ updated: 2026-10-22
 > | **时空修复（Spatio-Temporal Fix）** | 结构机制 | 借助跨国投资、空间扩张与未来预期延缓资本过度积累危机，界定教育与科技跨国布局的物质动因。 |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一｜符号维度与物质维度的辩证统一与不可还原性
 > **解释** 文化政治经济学坚持[[Critical Realism|批判实在论]]的分层实在观，主张符号化（文化、[[Discourse|话语]]、主体性）与结构化（技术、资源、制度）同属于构成社会实在的原初维度。符号维度赋予物质实体以社会意义与行动指引，物质结构则对符号可能设定义务边界与客观摩擦力。任何将文化还原为经济附庸、或将经济消解为纯粹语言游戏的进路均切断了历史因果链条。
@@ -135,8 +123,6 @@ updated: 2026-10-22
 > **应用实例** 在中国职业教育境外拓展历程中，沿线产能合作初期的分散技能培训经国家顶层设计挑选整合，最终定型为标准化的[[Luban Workshop|鲁班工坊]]实体网络，完成从外交叙事向跨国办学基础设施的制度固化。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 该理论适合回答：特定教育政策[[Discourse|话语]]如何在危机中生成？符号化叙事如何与资本、产业及国家地缘战略结盟？主导性政策方案如何从竞争性话语中突围并实现物质化？
@@ -161,8 +147,6 @@ updated: 2026-10-22
 > - **不能直接推出** 理论无法仅凭政策话语的强势霸权直接推导在地实施的必然成功；受制于在地市民社会抵制与外部地缘摩擦，符号展演常面临破产风险。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

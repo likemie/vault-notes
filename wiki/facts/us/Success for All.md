@@ -84,11 +84,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Success for All
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 人人成功（Success for All, SFA）是由著名[[Evidence-Based Education\|循证教育]]学家[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）与[[Nancy Madden\|南希·马登]]（Nancy Madden）于 1987 年在约翰霍普金斯大学创立的全美旗舰级全校读写综合改革项目（Comprehensive School Reform, CSR），旨在通过严格实证检验的课程、分层辅导与家庭支持彻底阻断弱势儿童的早期学业失败链条。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 18)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
@@ -100,8 +96,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对城市与贫困农村薄弱学校处境不利儿童早期读写危机，打破“先等待学生失败再提供特殊教育”的被动补救[[Paradigm\|范式]]，建立全员预防性的因果干预体系。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > SFA 确立了以预防为主的循证干预金字塔架构（Response to Proven Intervention, [[Response to Proven Instruction\|RTPI]]）：通过将高保真度的全班[[Cooperative Learning\|合作学习]]、结构化语音拼读与针对后进生的小组/个别化辅导相结合，确保绝大多数弱势儿童在小学三年级前达到年级阅读水平。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
@@ -122,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1987–1996 — 原型研发与巴尔的摩试点试验期** 斯莱文与马登在巴尔的摩一所极度贫困的小学开发 SFA 原型，通过实验组与对照组追踪证实早期读写干预能显著缩小贫困儿童学业差距，并逐步建立 [[Cooperative Integrated Reading and Composition\|CIRC]] 与早期阅读拼读模块。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 18)]]
 > - **1997–2008 — 联邦 CSR 法案扶持与全国多中心 [[Randomised Controlled Trials\|RCT]] 验证期** 联邦国会通过全面学校改革计划（CSR），每年拨款 2 亿美元支持薄弱学校采纳实证全校方案；SFA 迅速扩展至全美千余所学校，并在 35 所学校开展全美最大规模的多中心[[Cluster Randomized Trials\|集群随机对照试验]]（Cluster RCT, Borman et al., 2007）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -131,8 +123,6 @@ updated: 2026-10-22
 > - **2015–至今 — [[Every Student Succeeds Act\|ESSA]] 强证据认证与常态化运行期** 在《每一个学生成功法》（ESSA）四级证据框架下被评定为 TIER 1 强证据方案，成为学区使用 [[Title I of the Elementary and Secondary Education Act\|Title I]] 专项改善拨款采购全校改革方案的首选标杆。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **研发与督导方（JHU CRRE / SFA 基金会）** 负责教材教具编制、全国实证数据追踪及派遣全职驻校教练（Coaches）开展常态化磨课。
@@ -146,8 +136,6 @@ updated: 2026-10-22
 > - **跨年级[[Tracking\|能力分组]]（Cross-Grade Grouping）** 每日读写课期间打破传统行政班级界限，依据学生当前实际阅读能力重新分班，实现无标签化的同质因材施教。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **保真度与组织指标** 教师投票赞成率（$\ge 80\%$）、每日 90 分钟课时到位率、辅导方案依从性。
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > - **+0.25–+0.33** Borman et al. (2007) 全国 35 校多中心集群 RCT 获得的效应量区间
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与学术反思
 >

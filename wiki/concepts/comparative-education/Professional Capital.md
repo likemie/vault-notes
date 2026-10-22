@@ -44,11 +44,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Professional Capital
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 专业资本（Professional Capital）是指教师和教学专业人员所具备的综合专业资产，由人类资本（个体知识与技能）、社会资本（同行合作与网络协作）以及决策资本（在复杂不确定情境中做出专业裁量与判断的经验积累）三者交互构成。在跨国教育政策扩散与全球治理语境中，该[[Construct|构念]]常被国际组织与学者用于超越单一狭隘的[[Human Capital Theory|人力资本]]视角，强调通过赋予教师自主权、强化专业管理与搭建专业合作网络来系统提升教学效能与学校变革能力。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 423)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 专业资本的构成与政策操作域
 > - **人类资本（[[Human Capital Theory|Human Capital]]）** 教师个体的专业素养、学科内容知识、教学法专长及对学生学习规律的认知储备。
 > - **社会资本（[[Social Capital Theory|Social Capital]]）** 教师群体之间的专业信任、合作网络、集体备课与[[Peer-Supported Learning|同伴互助]]反思机制。
@@ -80,8 +74,6 @@ updated: 2026-10-22
 > - **网络协作（Networking）** 跨校、跨区域及国际平台上的教师[[Communities of Practice|实践社群]]与专业知识流动网络。
 
 ---
-
-## 理论与政策演进
 
 > [!theory-components] 教师专业性概念建构的政策演进
 > - **[[Human Capital Theory|人力资本]]奠基期**
@@ -100,8 +92,6 @@ updated: 2026-10-22
 > | [[Institutional Isomorphism]] | 理论 | 扩散效应；跨国机构推动的专业资本标准促使各国教师政策与评价模式趋向制度同构。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Huang_2020_APJE|Huang and Kan (2020)]]** 在对[[OECD|经合组织]]全球教育影响论文集的批判性书评中指出，经合组织在教师政策扩散中已将其早期的[[Human Capital Theory|人力资本理论]]取向与专业资本概念相互交融，以自主性、管理与网络化重构全球教师专业性[[Discourse|话语]]。（p. 423）

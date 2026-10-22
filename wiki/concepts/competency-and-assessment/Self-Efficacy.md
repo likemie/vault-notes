@@ -88,11 +88,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Self-Efficacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 自我效能感（Self-Efficacy）是指个体在面对**特定任务情境**时，对自身能否成功调动认知、动机与行为资源以达成预期表现的主观胜任信念。[[Albert Bandura|阿尔伯特·班杜拉]]（Albert Bandura）在社会认知理论中强调，感到自我有效（feeling efficacious）是驱动个体走向积极探索与技能掌握的直接动力；反之，低自我效能感会引发任务逃避与[[Learned Helplessness\|习得性无助]]。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 58)]]；[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, p. 9)]]
@@ -113,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 自我效能感与相近心理[[Construct\|构念]]辨析
 > | 比较维度 | 自我效能感（Self-Efficacy） | 自尊（Self-Esteem） | 实际能力水平（Objective Ability） | [[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs） |
 > |---|---|---|---|---|
@@ -123,8 +117,6 @@ updated: 2026-10-22
 > | **适用情境** | 任务层面的学习动机、教师教学胜任力评估 | 全局性心理健康与人格发展研究 | [[Academic Achievement\|学业成就]]测量与标准化专业能力认证 | 教师教学决策、科学理解与教学法反思 |
 
 ---
-
-## 核心要素
 
 > [!feature] 自我效能感的信息来源与行为调节机制
 > - **四大核心信息源（Sources of Efficacy）** [[Albert Bandura\|班杜拉]]归纳了个体构建效能信念的四大基石：
@@ -208,8 +200,6 @@ flowchart LR
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -232,8 +222,6 @@ flowchart LR
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 任务特定效能 vs 一般自我效能
@@ -249,8 +237,6 @@ flowchart LR
 > 自我效能感的提升必须以真实能力建设与合理的外部支持为支撑。脱离客观技能训练的虚假口头鼓励无法带来持久的效能提升，反而在遭遇真实挫折后引发更严重的效能崩塌。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

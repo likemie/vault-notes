@@ -28,8 +28,6 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Deficiencies in Past Literature
-
 > [!info] 定义
 > 既往文献缺陷（Deficiencies in Past Literature）是指在已有研究文献中识别出的缺口、不足或忽略之处。它是 Creswell [[Deficiencies Model for an Introduction\|引言缺陷模型]]（[[Deficiencies Model for an Introduction]]）的第三部分，也是该模型得名的核心要素——通过指出已有研究"缺少什么"来为新的研究提供合法化空间（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 

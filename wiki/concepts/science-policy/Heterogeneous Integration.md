@@ -47,11 +47,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Heterogeneous Integration
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **异构集成（Heterogeneous Integration, HI）** 指将由不同半导体材料、不同制造工艺节点以及不同功能特质分别加工制造而成的独立单元（如先进互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）逻辑核心、射频前端、硅光子光互连模块、高带宽存储器及模拟器件），通过先进高密度封装基板、微凸点互连、硅通孔（Through-Silicon Via, TSV）或无凸点混合键合等三维堆叠技术（3D Heterogeneous Integration, 3DHI），整合为单个系统级封装或微系统的工程技术与制造[[Paradigm|范式]]。该技术摆脱了对传统单片二维晶体管物理尺寸微缩（摩尔定律）的单一依赖，通过模块化芯粒（Chiplets）协同实现系统层面的算力密度跃升、互连延迟压缩与能效最优化。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2–3, 10, 17–18)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 芯片集成[[Paradigm|范式]]对比
 > | 维度 | 异构集成（Heterogeneous Integration） | 单片系统级芯片（Monolithic SoC） | 板级系统集成（System-on-Board） |
 > |---|---|---|---|
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > | **主要技术挑战** | 多物理场热管理、异质界面应力、多芯片协同测试与封装规程 | 掩膜物理尺寸极限、暗硅效应、异质功能集成工艺不兼容 | 互连带宽瓶颈、功耗过高、外形尺寸庞大 |
 
 ---
-
-## 核心要素
 
 > [!feature] 异构集成的关键支撑要素
 > - **模块化芯粒架构（Modular Chiplet Architecture）** 将庞大复杂的单芯片解构为具有独立功能的标准化小芯片（Chiplets），支持跨厂商、跨工艺节点的即插即用与灵活配置。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 17)]]
@@ -128,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 异构集成核心命题概览
 > | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
 > |---|---|---|---|
@@ -147,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 异构集成学术争议与工程张力
 >
 > > [!axis] 技术演进路线：单片微缩优先 vs 三维异构集成主导
@@ -164,8 +152,6 @@ updated: 2026-10-22
 > > - **行业先发寡头企业** 倾向于维护私有专有接口以最大化垂直整合性能与构筑技术护城河，认为过度标准化会拖慢前沿定制化算力创新的迭代节奏。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

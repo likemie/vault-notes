@@ -45,11 +45,7 @@ created: 2026-06-30
 updated: 2026-10-16
 ---
 
-# Motivated Strategies for Learning Questionnaire Critical Thinking Subscale
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] MSLQ [[Critical Thinking\|批判性思维]]分量表
 > - **工具类型** 学习动机策略[[Questionnaire\|问卷]]中的五题自陈分量表。
@@ -58,8 +54,6 @@ updated: 2026-10-16
 > - **实施方式** 自陈。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -70,15 +64,11 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **作答格式** 七点量表，4 表示“比较符合我”，7 表示“非常符合我”；其余锚点 — [[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 252, 254)]]
 > - **反向题与跳题** —
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -88,8 +78,6 @@ updated: 2026-10-16
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文五题分量表 | 澳大利亚 ToK 十一、十二年级学生，在线施测，总分比较 n = 1,242。作为 [[Critical Thinking Strategies Scale\|CTSS]] 的既有量表参照 | 既有证据 α = .80；当前样本[[Reliability\|信度]]、效度与可比性 — | 十二年级均值 4.69（1.15），高于十一年级 4.48（1.22），t(1240) = 3.04，p < .01 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

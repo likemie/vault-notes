@@ -35,8 +35,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Physician-Scientist
-
 > [!info] 定义
 > 医师科学家（Physician-Scientist）是同时持有医学博士（Doctor of Medicine, MD）和哲学博士（Doctor of Philosophy, PhD）学位、在实验室、诊所、大学或研究机构中同时从事临床诊疗和科学研究的专业人员，既是临床前线的问题识别者，也是将基础科学发现转化为临床解决方案的翻译者（pp.176–177）。
 

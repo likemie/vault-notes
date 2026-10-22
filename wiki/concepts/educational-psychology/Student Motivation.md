@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Student Motivation
-
 > [!metax] [动机 · Motivation](https://www.visiblelearningmetax.com/influences/view/motivation)
 > 学生 › 动机取向
 >

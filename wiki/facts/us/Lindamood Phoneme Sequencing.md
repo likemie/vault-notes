@@ -52,11 +52,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Lindamood Phoneme Sequencing
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Lindamood Phoneme Sequencing（LiPS，林达穆德音素序列项目）**，原名深入听觉辨别训练（Auditory Discrimination in Depth, ADD），是由语言病理学家帕特里夏·林达穆德（Patricia Lindamood）与查尔斯·林达穆德（Charles Lindamood）创立、由著名阅读心理学家约瑟夫·托尔格森（Joseph Torgesen）等学者展开严格因果评估的经典多感官早期读写干预方案；其核心目标是通过发音动作的动觉与本体感觉反馈，帮助普通拼读教学无法奏效的严重阅读困难与阅读障碍（Dyslexia）学生掌握基础音素感知与正字法[[Decodification\|解码]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克传统“仅凭听觉和视觉”拼读教学对音素感知盲区儿童无效的顽疾，开创以发音口腔动觉为中介的神经认知补偿路径。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 当学生无法凭借听觉分辨音素细微差异时，通过引导其感知发音时嘴唇、舌头、声带与牙齿的触觉与物理运动（如将 /p/ 与 /b/ 命名为“嘴唇爆破音 Lip Poppers”），并用彩色方块和字母符号进行实体[[Externalization\|外化]]建模，能够打通语音回路，显著逆转严重的[[Decodification\|解码]]失败。Torgesen et al. (1997, 2010)
@@ -86,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] LiPS 发展历程
 > - **1970–1980 年代 — 临床创立与 ADD [[Paradigm\|范式]]成型** 林达穆德夫妇在临床言语矫正中提炼出“动作—听觉—视觉”多感官语音感知体系，出版《深入听觉辨别训练》手册。
 > - **1990 年代 — [[National Institute of Child Health and Human Development|NICHD]] 国家阅读认知危机攻关** 托尔格森团队在佛罗里达州开展里程碑式的长期追踪 [[Randomised Controlled Trials\|RCT]]（Torgesen et al., 1997），证实 LiPS 在一年级严重阅读障碍儿童中取得了突破性的[[Decodification\|解码]]增益（[[Effect Size\|效应量]]超 $+0.60$），确立了其全美学术声誉。
@@ -96,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **技术研发方（Lindamood-Bell）** 研发成套多感官教学工具箱（发音唇舌示意图、磁性彩色方块、定制音素拼读卡）并提供系统性专业师资认证。
 > - **专业执行者（认证阅读专家与特教教师）** 负责精准把控发音动作诊断，主持 Tier 2 小组或 Tier 3 个别化深度干预。
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **干预对象（高危阅读障碍学生）** 接受持续 12–20 周、每周 3–5 次、每次 45–60 分钟的多感官密集训练。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **超大因果学业[[Effect Size\|效应量]]** 在托尔格森等（Torgesen et al., 1997, 2010）主导的独立 [[Randomised Controlled Trials\|RCT]] 实验中，无论是以 1:2–3 形式开展的小组辅导（Tier 2，效应量 $+0.64$）还是 1:1 个别辅导（Tier 3，效应量 $+0.69$），LiPS 均测得远高于常规教育干预的超大效应量，显著消除虚假音素障碍。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

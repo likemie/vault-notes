@@ -41,13 +41,9 @@ doi: ""
 citation_aliases: []
 ---
 
-# Simple View of Reading
-
 ---
 
-## 定义
-
-> [!def|notitle] 定义
+> [!def] 定义
 > 简单阅读观（Simple View of Reading）是由菲利普·高夫（Philip Gough）与威廉·顿默（William Tunmer, 1986）提出的一种认知主义阅读理解模型。该模型主张，阅读能力在本质上可以被预测为[[Decodification\|解码]]能力与语言理解（听力理解）能力的乘积 (p.149)。
 
 > [!concept-lens] 概念透镜
@@ -57,8 +53,6 @@ citation_aliases: []
 
 ---
 
-## 核心命题与机制
-
 > [!proposition-chain] 简单阅读观的公式与逻辑链
 > 简单阅读观的核心逻辑可以通过以下认知命题链来呈现：
 > 1. **乘积公式** 阅读理解（R） = [[Decodification\|解码]]能力（D） × 语言理解（L） —— $R = D \times L$。
@@ -67,8 +61,6 @@ citation_aliases: []
 > 4. **终极假定** 一旦儿童掌握了完美的字词解码技巧（例如能够顺畅读出没有任何实际意义的“伪词”），其阅读理解的水平将完全受限于其口头语言理解的能力 (p.149)。
 
 ---
-
-## 政策与实证影响
 
 > [!case] Case 1: 英国《[[Rose Report\|罗斯报告]]》（Rose Report, 2006）与合成拼读强制化
 > 简单阅读观在公共政策层面的最显著应用是英国政府出台的《罗斯报告》(Rose, 2006)。该报告以简单阅读观为核心科学依据，将[[Decodification\|解码]]视为识字的物理起点，从而在英国全国公立学校系统强制推行“系统合成拼读法”（Systematic Synthetic Phonics）教学 (p.149)。
@@ -80,8 +72,6 @@ citation_aliases: []
 > - 此外，哈蒂在书中刻意将计算机教学中的“理解”与“阅读”划分为两个独立的数据类别计算[[Effect Size\|效应量]]，这也体现了简单阅读观将解码与理解视为独立积木的机械还原主义[[Epistemology\|认识论]]。
 
 ---
-
-## 争议与批评
 
 > [!critique-logic] 对阅读复杂性的技术主义还原（Proctor 与[[Whole Language\|全语言]]的反驳）
 > - **过度简化认知过程** 普罗克特（Proctor, 2006, p.1）指出，简单阅读观“过于简单，根本无法在理解个体学习者带给阅读过程的巨大复杂性方面产生有意义的差异” (p.149)。它忽视了[[Working Memory\|工作记忆]]、阅读动机以及词汇广度在[[Decodification\|解码]]和理解之间的中介作用。

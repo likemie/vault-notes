@@ -36,8 +36,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Kokutai no Hongi
-
 ## 背景
 
 《国体之本义》（Kokutai no Hongi）是日本文部省思想局（Bureau of Thought Control of the Japanese Ministry of Education）直接监督下精心编写的一部皇国思想教育文本。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将其定位为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中[[Forced Knowledge Transfer|强制知识转移]]的历史典范——一个帝国通过系统性的课程编制和强制教学，将特定知识体系灌输给殖民地臣民([[Argument_Partaken_2022_Springer|Partaken, 2022, p.76]])。

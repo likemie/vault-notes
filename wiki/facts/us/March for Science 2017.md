@@ -45,11 +45,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# March for Science 2017
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 2017 年“为科学而游行”（March for Science）是现代科学史上规模最大、参与学者最广泛的全球性公众集会。它打破了战后科学家不直接参与街头政治抗议的行业默契，以公开政治动员的形式捍卫科学实证权威、同行评议与[[Evidence-Based Policy-Making|循证决策]]，标志着战后以国家安全为庇护的[[Social Contract of Science|科学社会契约]]彻底陷入政党极化与政治互信断裂危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2017年01月–2017年03月 — 酝酿与草根动员期** 科研人员在社交网络发起捍卫科学倡议，数周内汇聚全美数十万科研学者关注，迅速建立跨学科协调网络与全球各城市联络机制。
 > - **2017年04月22日 — 全球联合游行爆发阶段** 国际地球日当天，华盛顿国家广场数万名科研人员冒雨游行至国会大厦，全球 600 多个城市超过 100 万人同步举行集会，成为现代科学共同体空前的集体政治行动。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
@@ -71,16 +65,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 标志性文件／历史声明
 > 2016—2020 年政治极化背景下，科学在气候变化等议题上遭遇选择性否认，政府与科学共同体之间的互信明显下降；以 2017 年的“为科学而游行”（March for Science）为标志，科学共同体首次公开走上街头为自身的合法性进行集体辩护。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 >
 > *During 2016–2020, amid political polarization, scientific consensus on issues like climate change was selectively denied, causing mutual trust between the government and the scientific community to plummet. Marked by the 2017 "March for Science," the scientific community publicly took to the streets to defend the institutional legitimacy of science.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 运动先锋** [[Research Universities|研究型大学]]青年学者、跨学科科研人员、[[American Association for the Advancement of Science|AAAS]] 等学术团体 — 依托科学实证声誉与[[Academic Freedom|学术自由]]伦理，发起公开集会抵制行政干预。
@@ -101,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 催生了科学界常设政治倡导组织网络，推动学术界更加制度化地参与国会听证与政策游说。
 > - **思想[[Paradigm|范式]]变迁** 打破了“科学家必须远离政治以维系纯粹客观”的免检神话，促使学者反思学术自治与社会责任的重构。
@@ -119,8 +107,6 @@ updated: 2026-10-22
 > - **>220** （支持组织） 获得全美超过 220 个权威学术协会与非营利机构的正式官方背书。
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

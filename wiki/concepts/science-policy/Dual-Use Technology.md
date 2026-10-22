@@ -43,11 +43,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Dual-Use Technology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 军民两用技术（Dual-Use Technology）是指既具备军事实战与国防安全应用价值，又具备广泛民用工业与商业市场潜力的基础或应用型前沿技术[[Paradigm|范式]]。该概念强调技术知识在军民两大部门间的渗透与流动机制：在产业萌芽与成长初期，军民技术规范高度重叠，国防研发投资与先导采购通过知识基础设施构建、技术衍生（Spinoff）及规模学习效应强力催化民用产业诞生；而当民用商业市场规模反超军用需求后，军民技术要求分化，技术前沿由民用部门主导，演进为由民向军的“逆向技术溢出”（Reverse Spillovers）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–31, 41)]]
@@ -68,9 +64,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **军民技术重叠度（Technological Overlap）** 衡量军用作战指标（抗毁性、低延迟、恶劣环境适应）与民用商业指标（成本、能效、用户友好性）在技术物理底座上的兼容程度；重叠度越高，早期军民双向渗透越顺畅。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31, 34)]]
 > - **市场规模主导权更迭（Market Scale Dominance）** 在产业萌芽期，国防采购占芯片与早期主机市场的绝对主导，军方承担了高额试错成本；伴随商业市场爆炸式增长，民用需求在规模上彻底压倒国防需求，主导了技术演进方向。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 33–34)]]
 > - **规范分化与制度壁垒（Standard Divergence vs. [[Commercial Off-The-Shelf|COTS]]）** 军用特种规格（Mil-Specs）与商业工业标准的脱节容易导致军工体系孤岛化；促使现代国防政策向采购商用现成产品（COTS）与开放架构转型。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 34, 38)]]
@@ -118,8 +112,6 @@ updated: 2026-10-22
 > **国防塑造力衰减与逆向技术溢出** 当微电子与软件产业进入成熟期后，民用商业市场规模彻底反超国防订单，军民技术指标出现严重分化（军品偏向特种耐恶劣环境的军规 milspec，而民品追求极低成本、通用算力与丰富开发者生态）。此时国防部自上而下试图主导[[Technological Trajectories|技术轨道]]的努力（如耗资近 9 亿美元的超高速集成电路 VHSIC 计划，以及强推通用 Ada 编程语言）均告受挫。两用技术流动方向发生根本性逆转，国防装备转而深度依赖民用商业前沿技术的“逆向溢出”（Reverse Spillovers）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 34, 37–38, 41)]]
 
 ---
-
-## 概念命题汇总
 
 > [!prop-table] 围绕军民两用技术形成的代表性命题
 > | 命题陈述 | 核心机制 | 提出学者 | 实证支持情境 |

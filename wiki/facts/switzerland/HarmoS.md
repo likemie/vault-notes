@@ -43,11 +43,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# HarmoS
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 瑞士州际义务教育协调协议（HarmoS）是瑞士战后基础教育史上具有转折意义的体制重构事件。该协议依托经合组织国际学生评估项目（[[PISA]]）揭示的阅读素养低分组实证数据，打破了 26 个主权州长达数十年的制度阻力与地方自满，将分散割裂的州立学校体制整合于全国统一的教育产出标准之下，推动瑞士教育治理从传统资源输入导向转向以治理效能与社会公平为核心的实证产出控制[[Paradigm|范式]]。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025)]]; (Bieber et al., 2015)
@@ -60,8 +56,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **1990 年代–2001 — 早期州际协调搁浅与制度否决僵局** 面对人口跨州流动带来的入学衔接障碍，瑞士各州教育部长会议（EDK）自 1990 年代起即尝试就学制结构进行自愿协商，但受制于各州强烈的教育主权意识与保守抵制，统一立标进程长期进展缓慢，陷入制度否决僵局。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]; (Bieber et al., 2015)
 > - **2001–2006 — PISA 数据震荡与协调协议加速立案**
@@ -72,8 +66,6 @@ updated: 2026-10-22
 > - **2009 至今 — 产出治理机制落地与国家标准监测** 签约各州系统落地统一能力标准（语言、数学、自然科学），全面采纳经合组织推荐的[[School Autonomy|学校自主权]]与质量保障规程；2011 年公布首批全国基础能力标准，2016 年启动国家教育监测（ÜGK/COSE），常态化检验学生在 4 岁、8 岁和 11 岁学段的能力达标率。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 ---
-
-## 关键文献、法案与历史宣言
 
 > [!citation-card] 瑞士各州教育部长会议（EDK）《HarmoS 协调协议》总则（2006）
 > 各州应当协调义务教育的结构与目标，确保全瑞士所有儿童享有获得高质量教育的同等机会，并在尊重州立教育特色的同时提高基础教育体系的整体效能。
@@ -86,8 +78,6 @@ updated: 2026-10-22
 > *Where harmonization of school education cannot be achieved by agreement between the Cantons, the Confederation shall enact the necessary regulations.* (Federal Constitution of the Swiss Confederation, Art. 62, Para. 4)
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革推进阵营（州际协调派）** 瑞士各州教育部长会议（EDK）执行层、大都市区州政府（苏黎世、巴塞尔、日内瓦）、跨国企业雇主协会与联邦内政部 — 主张消除 26 州教育壁垒，建立全国统一产出标准以支撑知识经济下的人才流动与国际竞争力。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]; (Bieber et al., 2015)
@@ -108,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **学制结构统一** 统一将义务教育年限确立为 11 年（含 2 年学前教育），规定儿童年满 4 岁须入读幼儿园（1–2 年级），彻底解决了以往各州 4 至 7 岁入学参差不齐的衔接断层。
 > - **治理范式转型** 从传统关注经费、课时、师生比的输入规制，全面转向以能力基准、国家抽测与[[Evidence-Based Policy-Making|循证决策]]为特征的产出导向[[Paradigm|范式]]。
@@ -127,8 +115,6 @@ updated: 2026-10-22
 > - **15 / 26** 最终正式批准并加入 HarmoS 协议的瑞士主权州数量（覆盖瑞士全国逾 75% 的学龄人口）。
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

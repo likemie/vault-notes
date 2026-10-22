@@ -54,11 +54,7 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
-# Control of Variables Strategy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Variable\|变量]]控制策略（Control of Variables Strategy, CVS）指在科学实验与实证探究中，为了确定某一因素对结果的因果效应，学习者或研究者仅系统操纵单一焦点[[Independent Variable\|自变量]]（Focal Variable），同时保持所有其他可能产生影响的外部变量（Extraneous Variables）严格恒定的程序性策略。该策略旨在消除实验中的混淆因素（Confounding），从而使观察到的[[Dependent Variable\|因变量]]变化能够被唯一地归因于目标自变量。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Variable\|变量]]控制策略与相关概念辨析
 > | 维度 | 变量控制策略（CVS） | 试误探索（Trial and Error） | 全因素[[Factorial Design\|析因设计]]（Factorial Design） |
 > |---|---|---|---|
@@ -90,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **确定因果焦点** 明确探究问题中所关心的单一核心[[Independent Variable\|预测变量]]（如斜面坡度或摆锤重量）。
 > - **正交成对对比（Orthogonal Comparison）** 构建两组或多组实验，使其仅在目标焦点[[Variable\|变量]]的水平上存在差异，其余属性完全相同。
 > - **潜在混杂排除（Confound Elimination）** 识别并冻结所有可能影响结果的非目标变量，防止虚假关联与过度推论。
@@ -136,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -146,8 +136,6 @@ updated: 2026-10-22
 > | **支架介入时序** | 前置直接讲授与探究过程中嵌入动态支架效果一致 | 计算机虚拟实验与课堂科学探究 | Lazonder and Egberink (2014) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > 变量控制策略主要聚焦于单因素线性[[Causality\|因果关系]]的离散变量系统。面对现实世界中普遍存在的非线性交互系统、复杂自适应网络或[[Emergence\|涌现]]现象时，机械坚持“单一变量控制”可能诱发还原论偏误，难以解释多元动态平衡。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

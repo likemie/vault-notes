@@ -42,11 +42,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Pull Mechanisms for Innovation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 创新拉动机制（Pull Mechanisms for Innovation）是一类将财政激励对准最终已验证成果、而非前期科研人员工时、设备与耗材投入的创新资助政策工具。传统研发资助（推动机制，Push Mechanism）属于“为努力付费”（paying for effort），无论项目最终是否产出突破均报销既定成本；拉动机制则属于“为结果付费”（paying for success），主要包括重大技术悬赏奖金（Inducement Prizes）、[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）、事后追溯资助（Retroactive Grants）及[[Quadratic Funding in Science|二次方配比资助]]（Quadratic Funding）。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, pp. 28–30)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 推动机制（Push）与拉动机制（Pull）的核心机制对比
 > | 比较维度 | 传统推动机制（Push Mechanisms） | 创新拉动机制（Pull Mechanisms） |
 > |:---|:---|:---|
@@ -75,8 +69,6 @@ updated: 2026-10-22
 > | **核心适用场景** | 目标与路径皆未知的开放探索（玻尔象限） | 终点明确、指标可量化但路径未知的瓶颈攻坚（[[Pasteur's Quadrant\|巴斯德象限]]） |
 
 ---
-
-## 核心要素
 
 > [!taxonomy] 创新拉动机制的主要工具形态
 > - **重大技术悬赏奖金（Inducement Prize Contests）** 设立数百万至数千万美元奖金池，奖励首个达到严苛物理或工程指标的团队（如 [[DARPA]] 自动驾驶大挑战、安萨里 X 大奖）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
@@ -116,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术与政策争议
 >
 > > [!axis] 资源分配公平性：资金匮乏团队的入场壁垒
@@ -133,8 +123,6 @@ updated: 2026-10-22
 > > - **应对[[Paradigm|范式]]（海尔迈耶问答）** 依据 [[DARPA]] 海尔迈耶问答体系严格定义问题，确保指标度量客观且具备重大战略公共效用。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 拉动机制典型案例与杠杆数据（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

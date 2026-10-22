@@ -46,12 +46,9 @@ created: 2026-10-19
 updated: 2026-10-20
 ---
 
-# Visible Classroom
 （可见课堂）
 
 ---
-
-## 工具定位
 
 > [!instrument-profile] Visible Classroom
 > - **工具类型** 课堂客观音频实时采集、即时[[Transcription in Qualitative Research|转录]]与算法分类编码观察工具。
@@ -60,8 +57,6 @@ updated: 2026-10-20
 > - **实施方式** 教师佩戴智能手机或随身音频采集设备，通过移动网络传输音频并借助实时语音转录技术与算法仪表盘生成自动化反馈。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 课堂言语交互可见性
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -75,8 +70,6 @@ updated: 2026-10-20
 > | 学生即时反馈感知 | — | 学生在课后或过程中对[[Teacher Clarity\|教学清晰度]]与理解度的即时评价 | 移动端短评测汇总得分与文本分析 |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 课堂自然言语声音流持续采集与算法语义单元自动识别。
@@ -95,8 +88,6 @@ updated: 2026-10-20
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -105,8 +96,6 @@ updated: 2026-10-20
 > | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 手机移动端应用程序 | 7,000–8,000 名一线中小学教师，用于课堂言语知觉偏差实测与反馈 | 3 秒语音极速文字[[Transcription in Qualitative Research\|转录]]与自动化分类编码 | 证实一线教师普遍自估发言仅占 20%–30%，但客观系统实测证实教师实际讲话时长高达 70%–80% |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

@@ -88,11 +88,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Certainty of Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识的确定性（Certainty of Knowledge）是一个跨越哲学[[Epistemology\|认识论]]与教育心理学的核心概念：在宏观西方思想史中，它指代以数学和演绎逻辑为[[Paradigm\|范式]]、追求客观普遍与永恒真理的文化认知传统（即“真知”）；在微观教育心理学中，它指代个体对知识本质的底层认知预设，即个体究竟倾向于认为知识是由外部权威确立的绝对固定之永恒真理，还是特定历史语境下人类建构、具有暂时性与[[Falsification\|可证伪性]]的学术[[Discourse|话语]]终产物。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 23–26)]]；[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997, pp. 119–120)]]；[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 348–350)]]
@@ -119,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知传统与维度的概念辨析
 > | 维度 | 本概念：知识的确定性 | [[Self-Cultivation\|修身（Self-Cultivation）]] | [[Simplicity of Knowledge\|知识的简单性]]（Simplicity of Knowledge） |
 > |---|---|---|---|
@@ -130,8 +124,6 @@ updated: 2026-10-22
 > | **教育功能** | 预测学生的深层批判性阅读与[[Wicked Problem\|劣构问题]]应对 | 塑造道德主体性与社会责任感 | 预测概念整合能力与知识迁移广度 |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识确定性概念的核心要素
 > - **公理演绎与超感官真理** 西方哲学传统将确定性寄托于纯粹理性的演绎推导，认为思维高于不可靠的感官经验，致力于在变动不居的现实背后寻找永恒不变的本质。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 24–25)]]
@@ -231,8 +223,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -254,8 +244,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 现代[[Epistemology\|认识论]]对绝对确定性的解构与科学实践的张力
@@ -273,8 +261,6 @@ updated: 2026-10-22
 > - **自陈式[[Questionnaire\|问卷]]对深层推理的捕捉限制** 相比于基于真实复杂任务的反思性判断访谈（[[Reflective Judgment Model\|Reflective Judgment]] Interview，RJI），纸笔量表在探测个体的微观认识论推断过程上存在[[Ecological Validity\|生态效度]]局限。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 364)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]因果干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

@@ -50,10 +50,6 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Chartered College of Teaching
-
-## 机构定位与宗旨
-
 > [!claim] 核心定位
 > 英国特许教学学院（Chartered College of Teaching，CCT）是于 2017 年在英国皇家特许状授权下重组设立的独立教师专业团体，在英国教育部（Department for Education，DfE）政策扶持下运作，旨在通过促进教育科研与课堂实践深度结合以推广循证教学理念，并在[[Policy Network\|政策网络]]中扮演官方认可的教师专业代言声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 
@@ -65,16 +61,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2010–2015 — 政策构想与筹备** 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]（DfE 2010）提出建立独立教师专业团体的构想，旨在模仿皇家医学学会模式重塑教师专业权威；随后经由跨党派咨询与行业筹备委员会推进。
 > - **2017 — 皇家特许重组与正式设立** 承接原教师学院历史资产与皇家特许状，获得政府数百万英镑启动资金，正式以特许教学学院（CCT）之名独立运作。
 > - **2017–至今 — 循证网络扩张与认证体系落地** 推出旗舰专业期刊《Impact》，全面落地特许教师资格认证（CTeach），并在社交媒体、博客圈及政策咨询网络中扮演核心中介角色（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 93, 95]]）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理与[[Policy Network\|政策网络]]位置
 > - **官方扶持的专业代言人** 在英格兰教师教育[[Policy Network\|政策网络]]中，英国教育部将 CCT 与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council，TSC）共同扶植为核心“内部人机构”，赋予其专属政策咨询地位（如参与 2016 年白皮书《处处卓越的教育》咨询），以此重塑符合官方意图的行业专业声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
@@ -88,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **特许教师资格认证（CTeach）** 为具有卓越教学实践与循证[[Research Literacy\|研究素养]]的资深教师颁发国家级专业特许资质，树立教学专业标杆。
 > - **旗舰期刊《Impact》** 创办同行评议与实践导向并重的专业刊物，每期围绕特定循证教学主题（如认知科学应用、全员全纳教育、[[Formative Assessment\|形成性评价]]）整合最新学术研究与案例分析。
@@ -101,8 +91,6 @@ updated: 2026-10-22
 > *DfE also supports the creation of new professional bodies such as the Chartered College of Teaching and the Teaching Schools Council (TSC), and works closely with them, giving them a role in policy advice (e.g. DfE 2016a)...*
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 实践争议与批判视角
 >

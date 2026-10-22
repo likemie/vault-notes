@@ -46,11 +46,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Kenniskamer
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > Kenniskamer（荷兰语"知识室"，英文 Dutch Knowledge Chamber）是荷兰教育部于2000年代设立的内部政策咨询机制，直接嵌入部委行政体系，专门为教育部长的施政议程提供证据咨询与[[Knowledge Mediation\|知识中介]]支持。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为"部委嵌入型"中介的典型荷兰案例，并以其停摆轨迹论证过度依附特定政治人物意愿对中介机构存续的致命影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
@@ -63,15 +59,11 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2000年代初期 — 创设与初期运作** 荷兰教育部在循证政策浪潮影响下设立 Kenniskamer，紧密对齐主导部长的施政优先议程，在部委框架内提供研究证据咨询与政策建议服务；机构成效高度依赖推动设立的部长个人的政治承诺与行政推力。
 > - **部长离任 — 失去高层推力与休眠停摆** 随着发起部长离任及荷兰内阁重组，Kenniskamer 失去核心的政治推动力与行政主持者，在缺乏法定授权或跨党派法律锚点的情况下，机构陷入休眠停摆状态，无法在新政治格局中重建存续的制度依据。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **主管机构** 荷兰教育、文化与科学部（Ministerie van Onderwijs, Cultuur en Wetenschap, OCW），最高权威为在任教育部长。
@@ -83,8 +75,6 @@ updated: 2026-10-22
 > - **内部快速综述** 在政策决策窗口期内迅速整合可得研究证据，以简报、报告或口头汇报等形式呈递决策层，区别于外部公开发布的[[Systematic Review\|系统综述]]。
 
 ---
-
-## 知识治理视阈下的学理意义
 
 > [!tension] 部委嵌入型中介的制度优势与致命弱点
 > - **制度优势：政策对齐度极高** 与决策核心的物理与行政紧密度，使 Kenniskamer 的[[Research Synthesis|研究综合]]能够直接进入部长的决策流程，避免了知识传播链条中常见的信息衰减与优先级失配问题。相比独立第三方机构，其在特定政治窗口内的政策影响效率极高。

@@ -52,11 +52,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Programme on Educational Building
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **[[OECD|经合组织]]教育建筑计划（Programme on Educational Building, PEB）** 是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）理事会于 1972 年正式批准设立的学校物理基础设施与学习环境专业合作工程。与教育委员会、[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）及[[Institutional Management in Higher Education|高等教育机构管理计划]]（IMHE）并列为战后经合组织教育体系的四大组织支柱，该项目致力于通过跨国比较调研、建筑设计案例库与成本效益审计，协助成员国以经济高效的方式建设适应现代教学法需求的教育硬件设施。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解战后婴儿潮与义务教育年限延长带来的巨大校舍基建缺口，防止财政紧缩下出现劣质或功能单一的仓储式校舍，探索空间设计如何赋能新型教学法与多元社区服务。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预与机制假说
 > 学校建筑绝非[[Value Neutrality|价值中立]]的物理外壳，而是深层塑造教学行为与[[Student-Teacher Relationship|师生关系]]的“第三位教师”；唯有将建筑学空间设计、成本效益测算与前沿教学法有机结合，方能在控制公共财政预算的同时创造出灵活、包容且支持协作探究的现代学习环境。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 439, 447)]]
@@ -87,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1972–1980 年代 — 战后婴儿潮与工业化校舍成本控制期** 聚焦化解急剧膨胀的入学人口压力，研发预制装配式构件标准与模块化空间布局，强调在有限公共财政预算内实现校舍建设的标准化与成本效益最大化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 > - **1990 年代 — 空间灵活性、社区多功能学校与可持续设计期** 随着学龄人口增速趋缓，项目重心转向校舍的生态环保、抗震减灾与全生命周期能效，倡导学校作为社区文化中心开放共享，打破孤立封闭的传统校园模式。
 > - **2000–2012 年 — 向有效学习环境（CELE）转型与数字化融合期** 顺应[[Knowledge-Based Economy|知识经济]]对创新能力的要求，项目更名为有效学习环境中心（CELE），系统研究无线互联网络、跨学科协作工作坊对传统教室布局的重构，推动物理空间与数字空间的无缝融合。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **[[OECD|经合组织]]秘书处（PEB/CELE 秘书处）** 负责拟定调研议题、组织跨国专家同行评估与发布旗舰指南，承担跨国数据汇总与质量控制职责。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - **跨学科专业共同体搭建** 打破教育家懂教学不懂工程、建筑师懂结构不懂育人的行业壁垒，促成教育学与建筑学的长期深度跨界融合。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **物理环境舒适度与安全指标** 教室自然采光度、室内空气质量与通风率、声学降噪效果及抗灾安全防护等级。
@@ -129,8 +117,6 @@ updated: 2026-10-22
 > - **4** （项） 经合组织官方史中明确记载的战后教育四大核心专门业务板块之一。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

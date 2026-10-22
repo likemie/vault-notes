@@ -56,11 +56,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Funnel Plot
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 漏斗图（Funnel Plot）是由 Light and Pillemer (1984) 提出并在[[Meta-analysis\|元分析]]中被广泛采用的标准化可视化诊断工具。它以各项初级研究的[[Effect Size\|效应量]]点估计值为横轴，以研究精度的倒数测度（通常为[[Standard Error\|标准误]] $SE$，且纵轴采用倒置刻度，即顶部为小标准误/大样本、底部为大标准误/小样本）为纵轴。在无[[Publication Bias\|发表偏倚]]且效应同质的理想假定下，大样本研究向真实效应量集中于顶部窄角区，小样本研究受[[Sampling Error\|抽样误差]]影响在底部呈宽幅离散，整体散点分布呈现一个对称的“倒置漏斗”形态。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 38, 48)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 漏斗图与[[Forest Plot\|森林图]]辨析
 > | 维度 | 漏斗图（Funnel Plot） | [[Forest Plot\|森林图（Forest Plot）]] |
 > |---|---|---|
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > | **使用阶段** | 证据质控与偏倚检验阶段 | 结果汇总与模型报告阶段 |
 
 ---
-
-## 数学原理与几何特征
 
 > [!logic-map]- 漏斗图空间几何结构
 > ```mermaid
@@ -108,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 漏斗图不对称性的四大来源
-
 > [!feature] 导致漏斗图不对称的机制诊断
 > - **[[Publication Bias\|发表偏倚]]与报告偏倚（Publication Bias）** 不显著的小样本研究更难见刊（“抽屉文件”效应），造成统计学意义上的单侧缺失。
 > - **真实效应[[Heterogeneity\|异质性]]（True Heterogeneity）** 小样本研究通常聚焦于高风险或特殊干预组，其实际效应可能客观上大于大范围普通人群研究。
@@ -117,8 +107,6 @@ updated: 2026-10-22
 > - **统计伪影与偶然波动（Chance / [[Artefact\|artifacts]]）** 当纳入研究数量较少（如 $k < 10$）时，纯粹的抽样随机性极易被误判为偏倚。
 
 ---
-
-## 配合使用的定量诊断与校正方法
 
 > [!ref-table]- 漏斗图辅助检验与校正工具矩阵
 > | 工具/方法 | 方法性质 | 检验逻辑与研判标准 | 关联条目 |
@@ -129,8 +117,6 @@ updated: 2026-10-22
 > | **[[Multilevel Egger's Test\|多水平 Egger 检验]]** | 多水平[[Meta-regression\|元回归]] | 针对嵌套数据与集群依赖，提供无偏截距估计与稳健[[Small Study Effects\|小研究效应]]检验 | [[Multilevel Egger's Test]] |
 
 ---
-
-## 实证检验案例
 
 > [!case] 实证检验案例：生成式 AI 赋能[[Higher-Order Thinking Skills\|高阶思维]]的漏斗图审计
 > - **数据规模与坐标设定** 在一项关于生成式 AI 促进高阶思维的一阶[[Meta-analysis\|元分析]]中，纳入 29 项实验与准[[Experimental Research\|实验研究]]共 59 个[[Effect Size\|效应量]]（Hedges' $g$），以反向排列的[[Standard Error\|标准误]] $SE$ 为纵轴、效应量 $g$ 为横轴绘制漏斗图，中心虚线对准合并效应量 $g = 0.609$。

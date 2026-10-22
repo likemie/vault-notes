@@ -44,11 +44,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Problem of Many Hands
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **多手难题（Problem of Many Hands）** 最初由政治哲学家丹尼斯·F·汤普森（Dennis F. Thompson）于 1980 年提出，后被布赖恩·W·黑德（Brian W. Head）及伊博·范德波尔（Ibo van de Poel）等学者引入公共治理与科技政策领域。在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中，该概念用于刻画应对重大社会挑战时的制度性协调阻碍：在涉及多部委、多行政层级与多类社会行动者的复杂治理网络中，由于行动贡献相互交织且决策链条过长，当政策推进受阻、出现重大延误或产生次生负面后果时，无法将行政与道德责任清晰归因于任何单一组织或个人，导致责任归咎不能与治理僵局（[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020, pp. 476–477]]）。在[[Historical Institutionalism|历史制度主义]]与规制治理研究中，该概念进一步被确立为[[Institutional Layering|制度层叠]]中行动者增厚（Thickening）的典型制度病理：当政府在纵向行政层级或横向规制体制中持续叠加新机构、私营部门与非营利主体时，多重图层重叠导致管辖权模糊与责任虚化，形成系统性归责真空与协调失灵（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 14]]；Light, 1995）。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 责任与集体行动困境辨析
 > | 维度 | 多手难题（Problem of Many Hands） | 搭便车难题（Free-Rider Problem） | 旁观者效应（Bystander Effect） |
 > |---|---|---|---|
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > | **代表文献** | Thompson (1980); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]]; Van de Poel et al. (2012) | Olson (1965) | Darley & Latané (1968) |
 
 ---
-
-## 核心要素
 
 > [!feature] 多手难题的核心结构要素
 > - **行动者多元性与增厚（[[Multiplicity]] and Thickening of Actors）** 治理任务横跨中央与地方多级政府，并随着[[Institutional Layering|制度层叠]]不断叠加私营机构、非营利组织与第三方审查主体，形成庞杂的多元主体生态（Belisle, 1944; Light, 1995; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020, pp. 476–477]]；[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 14]]）。
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 多手难题核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -170,8 +160,6 @@ updated: 2026-10-22
 > | **制度增厚与管辖模糊命题** | 制度层叠不断叠加主体导致层级与规制图层重叠，加剧管辖权冲突与系统性责任虚化 | 跨层级行政扩张、私营与非营利监管引入、规制国家演进 | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]]; Light (1995); Brenner (1975) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 多手难题概念演进
 > - **1944 — 行动者增厚的制度萌芽** 尤金·贝利斯尔（Eugene Belisle）系统考察战后政府在各地理层级上增设机构的现象，为分析多层权威重叠奠定基础（Belisle, 1944, p. 605）。
@@ -183,8 +171,6 @@ updated: 2026-10-22
 > - **2020 — 融入使命政策系统复杂性诊断** 万岑伯克（Iris Wanzenböck）等人将多手难题作为评估重大社会挑战系统复杂性的核心指标与跨部门协调失灵的诊断工具。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

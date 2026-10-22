@@ -79,11 +79,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# Performance Indicators
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 绩效指标（Performance Indicators，在教育领域通称“教育指标” Education Indicators），是指经过目的性选择、数学建模与情境化加工的派生统计量（Derived Statistics），专门用于跨时空监测系统运行状况、预警体制弊端并为公共决策提供综合信息依据（Blank, 1993）。从政策工具社会学的视阈，勒加莱斯（Patrick Le Galès, 2016）将绩效指标界定为同时包含 **[[Technical Rationality|技术理性]]成分（Techniques）** 与**权力规制成分（Power）** 的复合体：其技术成分依托数理统计的客观合法性，而其权力成分则在充满不对等关系的行动者网络中运转，通过推动各主体参与评比排名，决定资源再分配并重塑组织行为。在[[Governing by Numbers|数字治理]] 2.0 时代，绩效指标进一步成为中介机构在海量知识过剩与[[Policy Ambiguity|政策歧义性]]生态下，为政策制定者构筑客观、精确与普适之“[[Façade of Rationality|理性表象]]”（Façade of Rationality）的核心政治[[Scaffolding|脚手架]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
@@ -119,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 统计数据、绩效指标、系统评估与教育排名的多维对比
 > | 维度 | 原始统计（Statistics） | 绩效指标（Performance Indicators） | 教育评估（Educational Evaluation） | 跨国教育排名（Rankings） |
 > |:---|:---|:---|:---|:---|
@@ -130,8 +124,6 @@ updated: 2026-10-22
 > | **在治理中的位置** | 行政统计基础（工业普查体制） | [[Policy Brokerage\|政策中介]]机构的[[Façade of Rationality\|理性表象]][[Scaffolding\|脚手架]]（[[International Indicators of Education Systems\|INES]], [[Education at a Glance\|EAG]]） | 院校与专业社群内部的[[Reflexivity\|反思性]]同行评议 | 超国家组织治理复合体的远处规制工具（[[PISA]]） |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **政策目的性** 指标从设计之初便紧密围绕决策需求展开，专门用于回答决策者对教育系统投入、过程与产出的特定关切。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]
@@ -230,8 +222,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -259,8 +249,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 科学纯度（Scientific Purity） vs 政策可用性（Policy Usability）
@@ -286,8 +274,6 @@ updated: 2026-10-22
 > 绩效指标体系易于偏向标准化认知技能（如阅读与数学考试成绩）或经济投入产出比，难以完整涵盖公民道德、[[Critical Thinking|批判性思维]]、艺术审美与社会情感等无法充分数字化的核心育人维度，在政策高利害挂钩时易诱发教学内容的狭隘化。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

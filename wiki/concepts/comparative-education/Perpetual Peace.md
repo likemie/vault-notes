@@ -73,11 +73,7 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Perpetual Peace
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **永久和平（Perpetual Peace / *Zum ewigen Frieden*）** 是人类历史超越霍布斯式无政府野蛮战争状态的规范性终极愿景。
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 永久和平、均势秩序与国际社会法权的多维对照
 > | 比较维度 | 永久和平（Perpetual Peace / [[Revolutionism\|革命主义]]传统） | 均势秩序（Balance of Power / 现实主义传统） | 国际社会法权（International Society / 理性主义传统） |
 > |---|---|---|---|
@@ -118,8 +112,6 @@ updated: 2026-10-22
 > | **代表思想家** | [[Immanuel Kant\|康德]]、朱利安、马丁·怀特 | 马基雅维利、霍布斯、摩根索、[[Alexander Karp\|卡普]]与[[Nicholas Zamiska\|扎米斯卡]] | 格老秀斯、洛克、赫德利·布尔 |
 
 ---
-
-## 核心要素
 
 > [!feature] 永久和平的四大构成要素
 > - **普遍启蒙与理性的公共运用（Universal [[Enlightenment]] & Public Reason）** [[Immanuel Kant|康德]]确立“Sapere aude! 敢于求知”的启蒙命题，主张人唯有摆脱教条盲从、享有在一切事务中公开运用理性的自由，公众才能达成自觉启蒙，从而铲除煽动沙文狂热与非理性战争的心智温床。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, p. 20)]]
@@ -187,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 永久和平三大核心命题归纳
 > | 命题类型 | 核心理论断言 | 适用分析情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -206,8 +196,6 @@ updated: 2026-10-22
 > - **2020年代 — 软件世纪的[[Technological Republic|技术共和国]]与战略现实主义重构** 卡普与扎米斯卡（2025）指出，面对威权国家推进实战化军事 AI 的严峻挑战，西方必须摆脱对永久和平自然降临的自由主义幻觉与单方面去武力化的和平主义洁癖，确立以软件[[Hard Power|硬实力]]与[[AI Deterrence|算法威慑]]捍卫技术共和国的现实主义新秩序。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -50,11 +50,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Council for Aid to Education
-
 ---
-
-## 背景
 
 > [!event-context] 机构创立与定位
 > - **成立时间 / 发起主体** 1952 年由全美商界与高教领袖（包括通用汽车、新泽西标准石油等企业高管）在纽约联合创立。
@@ -63,8 +59,6 @@ updated: 2026-10-22
 > - **核心使命** 提升学生的高阶思辨、[[Problem Solving\|复杂问题解决]]与有效沟通能力，为大学提供科学的教学诊断与增益反馈。
 
 ---
-
-## 核心职能与重大突破
 
 > [!feature] [[Collegiate Learning Assessment\|CLA]] 系列产品与国际合作
 > - **开创表现性测评标准（CLA / CLA+）** 2002 年正式推出大学学习评估（CLA / CLA+），首创由“情境化真实文档库（[[Document]] Library）+ 劣构决策任务（Performance Tasks）”构成的考核模式，颠覆了传统[[Multiple-Choice Questions\|选择题]]客观测试[[Paradigm\|范式]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]

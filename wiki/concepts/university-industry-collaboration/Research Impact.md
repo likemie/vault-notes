@@ -65,11 +65,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Research Impact
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科研影响力（Research Impact），在当代高等教育政策与科研评价语境中，特指经同行评议认定的优秀学术研究对学术共同体之外的广泛领域——包括经济繁荣、公共政策制定、医疗健康改善、文化生活繁荣、教育实践以及生态环境保护等——所带来的可验证、可测度的实质性贡献、效益或积极变革（demonstrable benefits to society and economy）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科研影响力、学术内部引用与科技成果商业化辨析
 > | 维度 | 科研影响力（Research Impact） | 学术内部引用（Academic Citations） | 科技成果商业化（Commercialisation） |
 > |---|---|---|---|
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **可证实性与社会外在性（Demonstrability & External [[Reach]]）**
 >   影响力必须超越高校与学术圈内部，对外部真实世界的政策、产业、社区或个体产生可识别的实质性积极改变，并具备可供第三方审计的外部证明材料。
 > - **多元化实现路径（Pluralistic Impact Pathways）**
@@ -183,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者/报告 |
 > |---|---|---|---|
@@ -204,8 +194,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 科研影响力评估的双元利益导向冲突
 > - **技术商业化导向（蓝方）** 强调专利授权、[[Technology Transfer\|技术转让]]与企业衍生公司所带来的立竿见影的量化财政回报与经济增长。
 > - **[[Public Value|公共价值]]与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science\|公民科学]]素养提升与前瞻伦理对话，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
@@ -214,8 +202,6 @@ updated: 2026-10-22
 > 科研影响力概念容易导致将学术研究的价值狭隘化为短期功利效益；若对基础研究强行套用线性因果归因指标，可能严重扼杀自由探索类研究（[[Curiosity-Driven Research|Blue Skies Research]]），且忽视了科学思想在历史长河中渐进、跨学科渗透的非线性规律。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 英国科研卓越框架（REF）公众参与影响力案例分布与特征
 > | 评估周期 | 涉及公众参与的影响力案例比例 | 学科领域[[Heterogeneity\|异质性]]特征 | 核心收益覆盖维度 | 评估体制挑战与特征 |

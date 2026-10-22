@@ -66,11 +66,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Progressive Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 进步主义教育（Progressive Education）是以 [[John Dewey\|John Dewey]] 为核心代表的教育改革运动，主张以儿童发展为中心、以项目和活动课程（project- and activity-based curriculum）取代强调服从与[[Rote Learning\|死记硬背]]的传统学术式教学。其核心在于通过[[Experiential Learning\|经验学习]]（learning from experience）培养能够积极参与并塑造民主社会的独立公民。在跨国传播与[[Policy Borrowing\|政策借用]]中，进步教育表现出高度的可塑性，被不同社会语境[[Recontextualization\|再脉络化]]为民主育人、社会主义国家建设、[[Pragmatic Paradigm\|实用主义]]应试提分或政策合法化修辞。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 102)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, pp. 68–69)]]; [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–602)]]
@@ -102,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **项目与活动课程** 以项目和活动课程（project- and activity-based curriculum）取代传统的[[Rote Learning\|死记硬背]]与机械讲授。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 102)]]
 > - **从经验中学习** 强调知识不是被单向灌输的，而是在儿童与环境相互作用的真实经验活动中主动建构的。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 103)]]
 > - **儿童中心与发展导向** 教育体系以儿童的自然发展需求、兴趣与心理准备为中心，而非以僵化的学科分类或教师权威为中心。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, pp. 102–103)]]
@@ -125,8 +119,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -184,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与批判
 >
 > > [!axis] 儿童中心与民主参与 vs 阶级意识与政治控制
@@ -207,8 +197,6 @@ updated: 2026-10-22
 > > - **[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]** 展示了杜威思想被本土政策议程选择性提取与功利利用的机制。[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 93)]]
 
 ---
-
-## 实证数据与案例
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

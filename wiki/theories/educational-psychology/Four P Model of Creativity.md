@@ -65,13 +65,9 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Four P Model of Creativity
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** [[Creativity\|创造力]]在人类心理机能、认知操作、社会交互与物质产出中发生的完整全景生态系统及其内部协同机制。
 > - **理论问题** 克服早期心理学将[[Creativity\|创造力]]碎片化等同于单一智商分数、孤立[[Divergent Thinking\|发散思维]]测验或特异性艺术作品的狭隘倾向，建立多维整合的元分类学（Metataxonomy）[[Analytic Framework\|分析框架]]。
 > - **理论类型** 宏观分析框架（Macro Framework）与全域生态整合模型。
@@ -128,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-### 延伸命题与机制
-
 > [!proposition-chain] 延伸命题
 > - **推论一（源自核心命题一与命题二）** 当创造力作为[[Independent Variable\|预测变量]]时，由于采用标准化潜能（Person/Process）测验，其[[Predictive Validity\|预测效度]]（$r = 0.29$）显著强于创造力作为[[Dependent Variable\|效标变量]]时（$r = 0.12$），揭示了效标定义分散（Product 异质性）对效应量的统计稀释机制[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 7–8)]]。
 > - **推论二（教育应用命题）** [[Creativity Training\|创造力教学]]干预必须采取“Press-Process-Person”三位一体策略：通过创设高心理安全感与[[Wicked Problem|劣构问题]]情境（Press），传授启发式重构策略（Process），同步激发创造性[[Self-Efficacy\|自我效能]]与内在动机（Person），以达成最大干预效应（$d \approx 0.74–0.87$）。
@@ -176,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将[[Creativity\|创造力]]理解为个体心理机能、社会文化[[Champ\|场域]]与物理人工物相互交织的复合生态现象，拒绝单一维度的机械还原论。
 > - **[[Epistemology\|认识论]]** 强调创造力既包含主观内在的心理潜能，又包含客观外在的产品效标；认知与外认知、结构化环境与即时诱因共同决定创造表现。
@@ -206,8 +198,6 @@ updated: 2026-10-22
 > - **2026 — [[Meta-meta-analysis\|二阶元分析]]全域实证确证** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 运用二阶[[Meta-analysis\|元分析]]（SOMA）综合 52 项一阶元分析与 124 万被试数据，实证证实 4P 分类体系在解释宏观[[Effect Size\|效应量]]谱系上的高度有效性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

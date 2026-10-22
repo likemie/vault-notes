@@ -63,11 +63,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Norman Fairclough
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国语言学学者、[[Critical Discourse Analysis|批判话语分析]]（Critical [[Discourse Analysis]], CDA）学派奠基人，兰卡斯特大学（Lancaster University）语言学与语言学应用荣休教授。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1989 — *Language and Power*** 奠定批判语言学基础，指出语言是社会权力行使、维系与争夺的核心符号[[Champ|场域]]，承载深层意识形态功能。
 > - **1992 — *[[Discourse]] and Social Change*** 确立 [[Critical Discourse Analysis|CDA]] 三维分析架构，系统阐述互文性机制与[[Order of Discourse|话语秩序]]（Order of Discourse）的动态演变。
@@ -103,9 +97,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 语言是一种符号化的社会实践，既受到宏观社会结构与权力关系的塑造，又在动态中再生产或变革社会现实。政策批判将微观语言学修辞分析与宏观社会结构深度贯通，把政策文本置于[[Discourse|话语]]生产与消费的互文网络中，并进一步深入宏观社会结构与[[Geopolitics|地缘政治]]生态，揭示深层生成机制、意识形态统治与替代性[[Social Imaginary|社会想象]]，实现实然因果解释与应然规范批判的有机统一。
 
 > [!citation-card] [[Critical Discourse Analysis|CDA]] 三维分析模型与政策改造
@@ -120,9 +112,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 确立[[Critical Discourse Analysis|批判话语分析]]流派，推动应用语言学向社会理论的“批判转向”，深刻影响社会学、传播学与政治学研究。
 > - **方法路径** 提供了从文本到社会结构的可[[Operationalization|操作化]]质性分析[[Paradigm|范式]]，广泛应用于政策文本分析、媒体[[Discourse|话语]]研究与组织话语研究。
 > - **政策与教育学应用** 为批判性教育政策社会学（Critical Policy Sociology）提供核心分析武器；吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）将其三维模型与[[Policy Framing|政策框架化]]理论结合，成功开创剖析跨国高等教育政策话语的批判分析路径。
@@ -139,8 +129,6 @@ updated: 2026-10-22
 > - **后续应用学人** 埃迪·吴（Eddie Woo）— 将其 CDA 三维模型应用于跨国高等教育地缘政策解构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

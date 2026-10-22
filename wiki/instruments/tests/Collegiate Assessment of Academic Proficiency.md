@@ -48,11 +48,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Collegiate Assessment of Academic Proficiency
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Collegiate Assessment of Academic Proficiency（CAAP）
 > - **工具类型** 标准化通识能力与增值测验（Standardized [[General Education]] Assessment）。
@@ -61,8 +57,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔测试或计算机机考（[[Critical Thinking\|批判性思维]]模块限时 40 分钟），题项基于真实情境阅读材料。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -75,16 +69,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 33 道[[Scientifically Based Research\|基于科学研究]]、社会争议、哲学辩论等短文材料的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 4 选 1 客观单项选择题。
 > - **计分与常模** 采用 50–70 分的量表分体系，提供基于全美数百所高校常模的百分位等级与院校增值评估报告。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -94,8 +84,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | CAAP [[Critical Thinking\|批判性思维]]模块 | [[OECD]] 报告综述分析[[Voluntary System of Accountability\|美国自愿问责体系]]（VSA）中标准化增值测验的兴衰历程 | 标准化通识能力测试 | 指出 CAAP 作为高[[Reliability\|信度]]客观测验虽便于横向对比，但因缺乏与具体学科课程的有机联系，难以直接指导基层教学改进 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

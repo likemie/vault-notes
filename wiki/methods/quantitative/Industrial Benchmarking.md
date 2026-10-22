@@ -50,11 +50,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Industrial Benchmarking
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **产业标杆分析（Industrial Benchmarking）** 是一种通过采集并标准化跨企业、跨产线或跨国别的微观生产运行数据，构建多维度物理与工程[[Performance Indicators|绩效指标]]体系，以精确定位产业制造能力差距、识别最佳工程实践与诊断效率瓶颈的实证[[Quantitative Research|量化研究]]方法。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–117)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 认为真实的产业[[Competitiveness|竞争力]]并非单纯由宏观要素禀赋或国家政策意图所决定，而是积淀于微观产线的工程管理实践、[[Statistical Process Control|统计过程控制]]与持续学习能力之中。
 > - **研究者角色** 研究者需深入产业实地设计标准化的工程测量协议，并在企业保密约束下对跨国异质数据进行口径对齐与归一化处理。
@@ -88,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **界定标杆基准与技术代际** 选取具有代表性的核心制造工序与标准化技术代际（如 0.7–0.9 微米 CMOS 逻辑制程），确保跨国厂区具有工程可比性。
 > 2. **建立多维微观指标体系** 区分并提取关键工程参数，包括每百万缺陷数（Defective Parts per Million, PPM）、缺陷密度（个/$\text{cm}^2$）、晶圆探针良率与直接劳动生产率。
 > 3. **跨厂区数据清洗与口径标准化** 剔除因晶圆尺寸、掩膜层数或测试严格程度不同造成的系统性测量偏差，将异质数据归一化至同一物理基准。
 > 4. **跨国能力差距诊断与归因分析** 对比不同国家与企业的良率爬坡速度及生产率演进曲线，识别管理实践（如[[Total Quality Management|全面质量管理]] Total Quality Management, TQM 与全员生产维护 Total Preventive Maintenance, TPM）的因果贡献。
 > 5. **输出标杆报告与政策启示** 呈现多维差距雷达图与时间序列对比曲线，为企业战略调整与国家科技政策评估提供微观证据。
-
-### 量化方法模块
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 跨国微观制造工厂面板数据与工艺追踪数据。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与标杆案例
-
 > [!ref-table]- 跨国半导体制造标杆实证数据（加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目）
 >
 > | 技术制程 / 制造指标 | 美国厂商（US） | 日本厂商（Japan） | 欧洲厂商（Europe） | 亚太厂商（Korea/Taiwan） | 差距与收敛特征 | 来源文献 |
@@ -131,16 +119,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 评估资本与技术密集型高端制造业（如微电子、精密仪器、汽车装配）的真实跨国工艺差距与演进动态。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–118)]]
 > - **谨慎使用** 涉及定制化程度极高或缺乏标准化技术代际的非标离散制造业，跨厂区比较易产生口径失真。
 > - **不适合使用** 仅依赖公开财务报表或进出口海关数据的宏观经济学分析。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 参与企业自愿披露意愿导致的自选择偏误；不同厂商测试标准宽严不一造成的测量噪音。
@@ -159,8 +143,6 @@ updated: 2026-10-22
 > | [[Comparative Case Study]] | 补充方法 | 与微观工程标杆相结合，揭示宏观制度与产业组织分化的定性机理。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Macher_1998_CMR|Macher et al., 1998]] — 借助加州大学伯克利分校竞争性半导体制造（Competitive Semiconductor Manufacturing, [[Competitive Semiconductor Manufacturing Program|CSM]]）项目的多国晶圆厂标杆数据，实证评估美日半导体制造商在 0.7–0.9 微米制程中的缺陷密度、探针良率与劳动生产率差距演变。

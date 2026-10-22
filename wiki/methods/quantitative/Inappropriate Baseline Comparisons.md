@@ -69,12 +69,9 @@ created: 2026-10-18
 updated: 2026-10-22
 ---
 
-# Inappropriate Baseline Comparisons
 （不当基线比较）
 
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **不当基线比较（Inappropriate Baseline Comparisons，亦称基准比较偏误）** 是指在[[Experimental Research|实验研究]]、[[Meta-analysis|元分析]]（Meta-analysis）与二阶综合中，由于未清晰界定、主观操纵或混淆对照基线总体，从而导致[[Effect Size|效应量]]（Effect Size, ES）正负方向、数值量级与实质因果定性产生系统性扭曲的统计方法偏误。阿利森等（Allison et al., 2016, p. 27）在《自然》（*Nature*）杂志上将其与“元分析计算失误”并列为当代科学[[Reproducibility Crisis|可重复性危机]]（Reproducibility Crisis）中的三大统计死穴之一；伯杰龙与里瓦尔（Bergeron & Rivard）进一步证实，在宏观教育[[Research Synthesis|证据综合]]中，脱离对等[[Counterfactual|反事实]]参照系的单向基线设定，会诱发政策推荐结论的根本性颠倒。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 240–242)]]
@@ -91,8 +88,6 @@ updated: 2026-10-22
 > *“The fundamental problem here is that every effect size, despite the absence of a unit, is a relative measure that provides a comparison to a set, group, or baseline population, even if it may be implicit. Inappropriate baseline comparisons constitute a tragedy of errors in science.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 建立在关系性认识论与现代[[Causality|因果推断]]框架之上。强调任何[[Effect Size|效应量]]都不存在孤立的客观绝对零点，所有测量数值的意义必须锚定在清晰界定的基线对比条件（*ceteris paribus* 参照系）之中。
@@ -153,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 审评与诊断程序
-
 > [!proc] 基线有效性审查的五步诊断清单
 > 针对任何声称具备因果效力的量化[[Meta-analysis|元分析]]或实证综合，研究者应依序执行以下审查程序：
 > 1. **确认[[Central Question|核心研究问题]]与因果意图** 明确该研究所考察的核心干预措施是什么，所声称的因果效应是否具备现实物理可行性。
@@ -164,8 +157,6 @@ updated: 2026-10-22
 > 5. **审查加权模型与生态流行率** 核实跨领域均值汇总时是否对各类现象在现实人群中的真实暴露率与发生频率实施了恰当加权，排除“鱼子酱指数”式数据拼凑。
 
 ---
-
-## 适用场景与防范策略
 
 > [!method-fit] 适用判断
 > - **适合使用基线审查的场景** 针对大规模证据清理库、跨国二阶[[Meta-meta-analysis|元综合]]报告以及教育公共政策优先级清单展开方法学审计与质检。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 240–242)]]
@@ -196,8 +187,6 @@ updated: 2026-10-22
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 实证与方法学来源 | 系统论证基线颠倒、鱼子酱指数隐喻及因素/文献总体混淆的方法学批判奠基之作。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从数理统计学视角剖析《[[Visible Learning|可见的学习]]》中的不当基准比较，以[[Class Size|班级规模]]、社会阶层和性别为例证实基线颠倒彻底推翻政策结论，提出鱼子酱未加权物价指数隐喻（pp. 240–242）。

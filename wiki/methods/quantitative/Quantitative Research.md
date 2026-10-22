@@ -116,11 +116,7 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Quantitative Research
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 量化研究（Quantitative Research）是一种以[[Positivism\|实证主义]]与[[Postpositivism\|后实证主义]]为哲学基石，通过将概念[[Operationalization\|操作化]]为离散[[Variable\|变量]]、采用标准化工具收集数值数据，并运用数学统计模型进行理论检验、群体比较与[[Causality\|因果推断]]的演绎式探究路径（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 5]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 113]]）。其核心机制在于通过严谨的研究设计控制混杂偏差与[[Counterfactual\|反事实]]替代解释，在数理逻辑上确立变量之间的统计关联与[[Causality\|因果关系]]，并追求研究发现的[[External Validity\|可推广性]]与可复制性。最终书面报告具有严格固定的演绎结构（引言、[[Literature Review\|文献综述]]、方法、结果与讨论）。
@@ -148,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 根植于[[Critical Realism\|批判实在论]]与[[Postpositivism\|后实证主义]]。世界存在独立于研究者意识的客观规律，但人类一切经验观察皆具推测性与误差；[[Karl Popper\|卡尔·波普尔]]（[[Karl Popper]]）的[[Falsification\|证伪主义]]确立了推测性知识观，量化探究不声称绝对“证明”假设，而仅指出在特定显著性水平下未能拒绝原假设。
 > - **研究者角色** 追求外在客观性与[[Value Neutrality\|价值中立]]。研究者作为独立于客体的观测者，通过预设研究设计、[[Blinding\|盲法]]控制、标准化[[Questionnaire\|问卷]]和既定算法规程最大限度约束主观价值卷入。
@@ -164,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 量化研究通用程序
 > 1. 明确理论框架与[[Hypothesis\|研究假设]]：从既有文献中提炼核心[[Construct\|构念]]，推导出可检验、可[[Falsification\|证伪]]的定向理论假说或[[Research Question\|研究问题]]。
 > 2. 构念[[Operationalization\|操作化]]与指标界定：将抽象构念转化为离散的[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、控制[[Variable\|变量]]、调节变量与中介变量，明确[[Scale of Measurement\|测量尺度]]。
@@ -174,8 +166,6 @@ updated: 2026-10-22
 > 5. 数据清洗与探索性分析：核查数据质量，检验正态性、极端离群值与缺失机制，开展[[Imputation Methods\|缺失值插补]]与变量变换。
 > 6. 统计建模与假设检验：运用统计模型进行参数估计，计算[[Effect Size\|效应量]]、[[Confidence Interval\|置信区间]]与精确显著性水平，对照初始理论做出检验决断。
 > 7. 模型诊断与结果报告：开展共线性、同方差性与拟合优度检验，遵循 IMRAD 规范撰写研究报告并披露局限性与数据共享链接。
-
-### 量化方法模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 横截面数据、时间序列数据、平衡或非平衡面板数据（Panel Data）、多层嵌套数据（学生嵌套于班级与学校）与受控实验数据。
@@ -193,16 +183,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 旨在识别影响教育结果的核心决定因素、精确测度某项教育干预措施的因果净效应、验证不同理论解释模型的拟合优度，或基于大样本数据推断总体特征规律的情境。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 12]])
 > - **谨慎使用** 涉及高度复杂、文化依赖、情境高度异质或充满微观微权力博弈的[[Champ\|场域]]；当现象处于探索萌芽期、缺乏成熟的[[Operationalization\|操作化]][[Construct\|构念]]时需格外审慎。([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 115]])
 > - **不适合使用** 旨在深度剖析个体主观生命体验、解构微观教室[[Discourse|话语]]互动机智、探索行动者[[Thomas Theorem\|情境定义]]与[[Tacit Knowledge|默会知识]]的研究。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与批判反思
 > - **预设封闭结构对新现象的遮蔽** 演绎假说与标准化封闭量表锁定了问题边界，容易使研究者对经验世界中意料之外的突发新现象视而不见。
@@ -226,8 +212,6 @@ updated: 2026-10-22
 > | [[Survey Research]] | 补充方法 | 量化研究中最广泛的非干预设计，通过[[Questionnaire\|问卷]]与[[Random Sampling\|概率抽样]]推断总体分布特征。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 评述[[Scientific Method\|科学方法]]与实证量化进路的发展历程，对其机械还原论与计算崇拜发起[[Epistemology\|认识论]]批判。

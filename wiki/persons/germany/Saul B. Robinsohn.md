@@ -48,11 +48,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Saul B. Robinsohn
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国与以色列杰出比较教育学家、社会学家与课程改革理论家。曾任[[UNESCO|联合国教科文组织]]汉堡教育研究所（UNESCO-UIE）所长（1958–1963），后任[[Max Planck Institute for Human Development|柏林马克斯·普朗克人类发展与教育研究所]]（MPIB）首任联合所长（1963–1972），兼任柏林自由大学教育学讲座教授。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展阶段
 > - **1950年代末–1960年代初 — 国际多边对话与比较学科组织奠基** 依托[[UNESCO|联合国教科文组织]]，致力于消除战[[Post-Nationalism|后民族主义]]隔阂，推动比较教育跨国建制化。
 >   - **代表成果** 联合发起成立[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE, 1961）。
@@ -89,8 +83,6 @@ updated: 2026-10-22
 >   - **关键思想** 社会进程[[Determinism|决定论]]、跨国经验比较、激进政策咨询极。
 
 ---
-
-## 核心思想
 
 > [!feature] 罗宾逊的核心学术贡献
 > - **开创宏观经验社会学比较[[Paradigm|范式]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, p. 95]]）指出，与当时德国波鸿、法兰克福等大学侧重哲学与历史文本考据的进路不同，罗宾逊在 [[Max Planck Institute for Human Development|MPIB]] 主持的跨国课题明确以经验社会学为理论框架，系统抽取社会阶层结构、经济现代化水平与政治体制[[Variable|变量]]，考察其对英、法、德、瑞典、波兰、苏联等国学制分流改革的实际作用机制。
@@ -123,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 罗宾逊核心学术命题归纳
 > | 命题类型 | 核心指向 | 理论对手 / 对照立场 | 关键文献 |
 > |---|---|---|---|
@@ -132,8 +122,6 @@ updated: 2026-10-22
 > | **命题二：激进政策咨询干预** | 比较学者应积极起草法案蓝图，发挥直接的国家政策咨询导向功能 | 劳威斯的[[Navigation Metaphor in Comparative Education\|航海隐喻]]模式（中立审慎、不干预决策） | [[Argument_Mitter_2009_Europe\|Mitter (2009, pp. 95–96)]] |
 
 ---
-
-## 学术影响与当代回响
 
 > [!debates] 学术争议与历史评价
 >
@@ -144,8 +132,6 @@ updated: 2026-10-22
 > > - **审慎超然派（Lauwerys 与西德主流学界）** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, p. 96]]）指出，联邦德国绝大多数比较学者在两德分裂的高度政治敏感环境中，选择了偏向劳威斯式的审慎距离；这种自我约束旨在保护脆弱的比较学科免受党派政争与冷战意识形态的直接绑架。
 
 ---
-
-## 论证索引
 
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 90, 91, 95–96)]] — 系统评析罗宾逊在柏林 [[Max Planck Institute for Human Development|MPIB]] 的体制领导力、主持《社会进程中的学校改革》跨国项目的先驱意义，以及其作为欧洲比较教育政策咨询激进干预极的经典地位。

@@ -60,11 +60,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Research-Practice Gap
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 研究-实践鸿沟（research-practice gap，德语区常称 Transferproblem 或转移困境）指教育研究与学校实践之间的持续脱节：研究者与实践者往往在两个分离的世界里工作，学术研究不易转化为课堂行动，实践者也难以反向影响科研生产。它是[[Research Utilization\|研究使用]]领域中最具基础性的解释性概念，既表现为系统层面的结构性阻滞，也被视为贯穿各层级的跨层关系机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 13, 17)]]; [[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 > - 不预设责任在单方 — 早期文献倾向于归咎教师个人能力不足，当代研究普遍将其定性为研究生产与学校实践遵循异质工作逻辑的结构性产物。
 
 ---
-
-## 核心要素
 
 > [!feature] 鸿沟的四大面向
 > - **系统层面的制度性障碍** 在学校[[Research Utilization\|研究使用]][[Systematic Review\|系统综述]]中，研究-实践鸿沟是被实证研究高频报告的系统性障碍（$k = 13$），表现为研究界与实践界彼此隔离的工作环境与缺乏互通的专业语言。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 13)]]
@@ -143,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,8 +154,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -173,8 +163,6 @@ updated: 2026-10-22
 > | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 德国高校教师教育者与进修主管（$N = 189$） | [[Questionnaire\|问卷调查]]与平台效用评估 | 清算中介平台使用效用（1–6 分） | 个人使用效用、自身教学适用性、专业知识拓展与时间精力减负四个维度平均评分均达 4–5 分 | 跨不同研究与资源背景人群均具一致高度正面评价 | 教师教育者主观接受度与减负自评，反映中介材料对缓解时间与认知鸿沟的实践认可度 |
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > - **二元对立的认知固化风险** 将研究与实践对立为两个分离的世界，可能无意中强化了实践者缺乏理论思维或研究者脱离现场的刻板印象，忽视了教师[[Action Research\|行动研究]]、校本探究等内生实践性知识的生产潜能。

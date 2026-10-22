@@ -29,11 +29,8 @@ status: draft
 created: 2026-08-04
 updated: 2026-10-22
 ---
-# First and Second Order Emotion
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 第一级情感（first order emotion）指真实生活中体验到的原始情感；第二级情感（second order emotion）指艺术中体验到的过滤情感（Witkin, 1974; Best, 1992）。一般认为第一级情感在艺术中没有位置，因为它短暂、转瞬即逝，有时可能压倒一切、不可控制；艺术的独特优势在于允许放慢时间，暂停和凝思那些可能否则会从身边溜走的经验（26.7，p. 16）。
@@ -49,8 +46,6 @@ updated: 2026-10-22
 > *In educational drama and role-play we are broadly concerned with the notion of first and second order emotions. The former describes raw emotion as experienced in real life, and the latter refers to filtered emotion, as may be experienced in art (see Witkin, 1974; Best, 1992).*
 
 ---
-
-## 核心要素
 
 > [!feature] 两级情感的核心要素
 > - **第一级情感** 真实生活中的原始情感，短暂、转瞬即逝，有时压倒一切、无法控制，在艺术中没有位置

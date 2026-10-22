@@ -86,7 +86,6 @@ argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 ---
-# Argument_Knogler_2025_BB
 
 ---
 
@@ -103,8 +102,6 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -116,8 +113,6 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 > 论证以现代教师专业化转型为逻辑起点：如同医学等成熟专门职业，教师专业决策必须建立在可靠科学证据基础之上以提升教学效能；然而，Gräsel (2010) 与[[Richard J. Shavelson\|沙维尔森]]（Shavelson, 2020）的理论指明，科研知识与实践知识遵循完全不同的生产逻辑与激励体制，单纯依赖自发传播注定遭遇结构性阻滞。因此，必须引入第三方的[[Knowledge Mediation\|知识中介机制]]，以清算中心的制度形态对实证证据进行知识筛选与加工，从而在[[Epistemology\|认识论]]与实践操作之间架起稳固桥梁。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -137,8 +132,6 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -153,9 +146,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 ---
 
-### 论证步骤一　单纯依赖科研自发扩散无法消解实践阻滞，必须依托专业中介机构重构转移通道
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　单纯依赖科研自发扩散无法消解实践阻滞，必须依托专业中介机构重构转移通道
 > 现代教师专业化要求教学决策建立在坚实科研证据之上，但由于学术研究侧重理论生产而实践现场面临严峻资源约束，造成了结构性[[Research-Practice Gap\|转移困境]]（Transferproblem），必须由第三方专业中介机构建立系统连接。（pp. 13–14）
 
 #### 1. 教师专业化循证转向与结构性转移困境
@@ -180,9 +171,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 ---
 
-### 论证步骤二　以元分析为高信度证据基底，通过分层加工显著降低实践者的认知与应用门槛
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　以元分析为高信度证据基底，通过分层加工显著降低实践者的认知与应用门槛
 > 破除学术壁垒的关键在于以因果[[Reliability\|信度]]最高的[[Meta-analysis\|元分析]]为证据源头，通过制定统一学术质量规程开展通俗化二次加工，将厚重计量文献转化为分层分级的决策[[Scaffolding\|脚手架]]。（pp. 14–15）
 
 #### 1. 专家规程制定与多层次中介服务矩阵
@@ -232,9 +221,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 ---
 
-### 论证步骤三　以师资培训者为辐射支点并健全双向反馈机制，推动循证理念深层融入教学常态
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　以师资培训者为辐射支点并健全双向反馈机制，推动循证理念深层融入教学常态
 > 知识转移并非面向个别分散实践者的单向技术输出，必须以师资培训者这一骨干群体为中枢支点实现规模化扩散，并建立包含持续评估与多层级支持的双向反馈迭代机制。（pp. 15–16）
 
 #### 1. 教师教育者作为核心乘数的杠杆放大机制
@@ -268,8 +255,6 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **科学立论职业诉求与[[Research-Practice Gap\|转移困境]]共存** 教师专业决策向科学证据立论的转型趋势明确，但学术研究的理论导向性与实践现场的资源匮乏导致[[Knowledge Transfer\|知识转移]]长期受阻。（pp. 13–14）
 > 2. **专业化中介二次加工不可替代** 依托严谨标准筛选[[Effective Teaching\|有效教学]][[Meta-analysis\|元分析]]，并将其二次加工为德语 Kurzreviews、播客与数字化学院模块，是消除认知壁垒的关键路径。（pp. 14–15）
@@ -283,8 +268,6 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 > - **92** 数字化工具元分析所纳入的国际实验与准实验实证研究总数（k）。（p. 15）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 教师职业的科学立论转向与循证行动假设
 > 类似于医学中成熟的专业，教学职业也越来越被理解为一个具有科学立论基础的专门职业。伴随这一理解的是一种期待：教师不应仅凭个人经验或信念作出决策，而应尽可能面向可靠的科学知识。其潜在假设是：具有科学立论基础的行动有助于提高教学有效性，并更可靠地达成学习目标。（p. 13）

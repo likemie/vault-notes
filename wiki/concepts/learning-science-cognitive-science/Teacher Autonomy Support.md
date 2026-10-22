@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Autonomy Support
-
 > [!metax] [教师自主支持 · Teacher autonomy support](https://www.visiblelearningmetax.com/influences/view/teacher_autonomy_support)
 > 学生学习策略 › 学生导向干预
 >

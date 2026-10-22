@@ -74,11 +74,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Peer Debriefing
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 同行汇报（Peer Debriefing），又称同行审议，是[[Qualitative Research\|质性研究]]中用以增强研究可信性（Credibility）与[[Qualitative Validity\|质性效度]]（Qualitative Validity）的核心操作策略。该方法通过将质性分析过程、初级编码、[[Chain of Evidence\|证据链]]条与工作假设暴露于无利害关系的同行面前，展开类似交叉质询（Cross-examination）的深入研讨，系统检验分析的诚实性与客观性、排查先验偏见与解释盲点，并明确后续分析与资料收集的迭代方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 167)]]; [[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch9, p. 213)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 基于[[Qualitative Research\|质性研究]]中[[Researcher as Key Instrument\|研究者作为关键工具]]的认识论前提；研究者的前见与[[Theoretical Standpoint\|理论立场]]必然渗透于资料解释中，同行审议不追求绝对超然的客观真理，而是通过主体间性的外部制衡实现[[Reflexivity\|反思性]]自觉与[[Chain of Evidence\|证据链]]公开展现。
 > - **研究者角色** 研究者从孤立的个人解释者转变为在学术共同体对话中接受审查的求知者，主动将推理链暴露于外部审视，践行负责任的[[Research Ethics\|研究伦理]]（[[Responsible Conduct of Research\|research integrity]]）。
@@ -113,16 +107,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **遴选审议同行** 选定一位熟悉[[Qualitative Research\|质性研究]]方法与该领域知识、但未直接参与本项课题的无利害关系学者（Disinterested Peer）。
 > 2. **准备审议档案** 汇总原始数据抽样切片、编码字典、分析备忘录、证据到主题的推导图谱及初步论断草稿。
 > 3. **执行交叉质询会议** 审议者围绕研究诚实性、概念裂隙、过度解释与竞争性假说展开辩驳式质询。
 > 4. **记录反馈与反思重构** 撰写审议反思备忘录，系统核对争议点，调整编码范畴并补充搜集反例或补充数据。
 > 5. **多轮迭代验证** 在重要理论范畴[[Emergence\|涌现]]或形成核心论证时再次进行复审，直至达成解释的充分融贯性。
-
-### 质性方法模块
 
 > [!sample-panel]- 审议材料与质询互动
 > | 维度 | 信息与规程 |
@@ -140,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-## 与其他效度策略的关系
-
 > [!contrast-table] 同行汇报与关联效度策略的辨析
 > | 维度 | 同行汇报（Peer Debriefing） | 成员核查（[[Member Checking\|Member Checking]]） | 外部审计（[[External Auditor\|External Auditor]]） |
 > |---|---|---|---|
@@ -156,16 +144,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适用于所有深入的[[Qualitative Research\|质性研究]]。特别适合：（a）研究者身处自身熟悉的文化或机构环境（如教师研究自身课堂），存在显著主观盲点与认知盲区时；（b）独立研究者（如博士生）缺乏多编码员交叉检验时，作为替代性的外部反思保障；（c）质性研究进入资料分析与理论范畴初步建构阶段，需要排查竞争性假说时。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch9, p. 213)]]
 > - **谨慎使用** 审议同行与研究者理论偏好过于一致时（难以形成实质批评）；审议同行对质性研究方法规范不熟悉时（可能提出量化[[Positivism\|实证主义]]的脱节要求）。
 > - **不适合使用** 不能用于替代对田野现场的长期沉浸；不能由对研究结果有直接利益关涉的人员（如项目资助方、行政主管）担任审议者。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **审议者偏好偏差** 同行审议者本身亦带有特定的理论倾向与[[Epistemology\|认识论]]偏见，可能存在用审议者的个人偏好替代研究者合理学术判断的风险。
@@ -186,8 +170,6 @@ updated: 2026-10-22
 > | [[External Auditor]] | 替代方法 | 外部审计采用形式化的文档审计线索检查，而同行汇报侧重于互动式的辩驳与解释深化。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 在 Lincoln & Guba [[Qualitative Validity\|质性效度]]框架中系统阐述同行汇报的四维质询功能（诚实性、假设检验、盲点排查与下一步确定）。

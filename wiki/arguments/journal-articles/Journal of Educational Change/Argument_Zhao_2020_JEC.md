@@ -64,7 +64,6 @@ citation_aliases:
   - "Zhao, 2020"
   - "Zhao (2020)"
 ---
-# Argument_Zhao_2020_JEC
 
 ---
 
@@ -224,9 +223,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "There is no research available that proves this assertion beyond the point that knowing something is always good and knowing more is better."(Hopmann, 2008, p.438)
 >
 > 没有研究能够证明这一断言，除了知道一些东西总是好的、知道更多更好之外。

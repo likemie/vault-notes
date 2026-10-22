@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Karl von Frisch
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利动物学家、比较生理学家与经典动物行为学奠基人；慕尼黑大学动物学研究所教授兼所长，1973 年与[[Konrad Lorenz|康拉德·洛伦茨]]（Konrad Lorenz）、尼古拉斯·廷伯根（Nikolaas Tinbergen）共同荣获[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]。
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **1982** 在德国慕尼黑逝世，享年 95 岁。
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 代表性著作
 > - **1927 — *The Life of the Bee* (*Aus dem Leben der Bienen*)** 面向学术界与公众的经典著作，系统阐明蜜蜂的社会结构、感官生理与日常采集行为。

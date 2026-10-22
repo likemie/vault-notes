@@ -48,11 +48,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Early Warning Indicator System
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 早期预警指标系统（Early Warning Indicator System, EWIS）是美国马萨诸塞州初等与中等教育厅（[[Massachusetts Department of Elementary and Secondary Education]], DESE）依托全州纵向[[Data Infrastructure\|数据基础设施]]开发的一套算法预测与学业预警系统，旨在通过对历史学业与出勤数据的回归运算，识别从学前教育直至高中阶段可能偏离学业轨道的学生，并为学校及早介入提供依据。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **核心问题导向** 回应美国各州长期面临的高中辍学率隐患、大学按期毕业率滞后以及学业援助行动过晚的结构性治理危机。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > EWIS 建立在[[Positivism\|实证主义]]的预防性干预假说之上：假定通过整合历史多维行为数据（出勤、违纪、考试成绩、挂科数），能够建立高精度的纵向统计回归模型，先验地测算出个体学生偏离正常升学轨道的概率并赋予红黄绿风险标签，从而促使学校教辅人员在危机显现前精准投放补救资源。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
@@ -83,16 +77,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2007–2011 — 预警指标理论验证与指标确立** 全美学界与非营利机构（如约翰斯·霍普金斯大学团队）确立以缺勤率与不及格课程为核心的预警指标模型；马萨诸塞州立项论证将全州纵向数据库转变为预测性决策平台的可行性。
 > - **2012–2016 — 算法系统上线与全州学区接入** [[Massachusetts Department of Elementary and Secondary Education\|DESE]] 正式向全州学区推送 EWIS 报告，嵌入州级统一商业智能与数据报告平台（Edwin Analytics），提供从早期儿童阶段到高中毕业的全链条风险评分。
 > - **2017–至今 — 预测向大学升学扩展与微观实践反思** 预测模型进一步向高等教育延伸，纳入预测学生在高中毕业后是否能在六年内完成大学学业的预测概率；与此同时，学界与实地调研揭示出基层顾问对风险标签的扭曲使用等意外后果。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与监管方** 马萨诸塞州初等与中等教育厅（[[Massachusetts Department of Elementary and Secondary Education\|DESE]]）：负责全州模型开发、数据库集成、算法参数校准及全州访问权限管控。
@@ -102,15 +92,11 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 核心实证结论
 > - **预测准确性与宏观识别效能** 在纯统计预测维度上，多指标回归模型对群体层面的高中辍学与按期毕业表现出较高的统计预测力，帮助州教育厅精准定位了高辍学风险的薄弱学区与群体分布。
 > - **微观实践[[Heterogeneity\|异质性]]与赤字标签陷阱** 实地定性调研揭示，在缺乏配套个别化辅导资源与正确[[Data Literacy\|数据素养]]指引下，基层行政与指导顾问并未将高风险评级转化为帮扶干预，而是将其直接异化为否定学生发展潜力的[[Determinism\|决定论]]标签。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

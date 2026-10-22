@@ -74,11 +74,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Stanford School
-
 ---
-
-## 简介
 
 > [!person-profile] 学派档案
 > - **学术重镇与发源** 斯坦福大学社会学系与教育学院（Stanford University），发轫于 20 世纪 70 年代，为社会学新制度主义（Sociological Institutionalism）与世界社会研究的学术大本营。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 形成渊源与演进历程
-
 > [!dev-timeline] 学派演进里程碑
 > - **1970s — 组织制度主义奠基** 迈耶与罗恩（Meyer & Rowan, 1977）发表《制度化组织：作为神话与仪式的正式结构》，针对美国学校内部“松散联结”（loose coupling）与宏观合法性并存的悖论，首次阐明正式结构迎合[[Rationalized Myth|制度神话]]的去耦合机制。
 > - **1977–1987 — 大众教育大扩张跨国实证转向** 迈耶、拉米雷斯与博利等学者（Meyer et al., 1977; Ramirez & Boli, 1987）运用大样本跨国时间序列回归，[[Falsification|证伪]]了大众教育取决于国内工业化水平的功能主义假说，论证国家构建与成员身份界定是驱动全球义务教育普及的政治文化动力。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
@@ -100,10 +94,6 @@ updated: 2026-10-22
 > - **2000s 至今 — 全球评估、人权课程与组织能动性拓展** [[Aaron Benavot|贝纳沃特]]、布罗姆利、弗兰克与扎普（Zapp）等后继学者，将理论版图拓展至全球课程标准化、人权教育渗透、现代大学作为理性化完全组织的能动性演变，以及国际组织在[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）多边治理中的[[Knowledge Production|知识生产]]。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–154)]]
 
 ---
-
-## 核心学术纲领与主要著作
-
-### 理论基石与解释逻辑
 
 > [!ref-table] 斯坦福学派核心理论基石与解释逻辑
 > | 理论基石 | 核心论断与假设 | 解释机制与微观运作 | 经验表征与现实映射 |
@@ -125,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 学派网络与师承谱系
-
 > [!person-network] 学术网络与师承
 > - **学派奠基旗手** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — 斯坦福大学社会学系荣休教授，学派灵魂人物与核心理论提出者。
 > - **核心骨干学者** 弗朗西斯科·拉米雷斯（Francisco O. Ramirez，跨国教育大纲与大学社会学研究权威）、约翰·博利（John Boli，世界体系跨国非政府组织研究权威）、布赖恩·罗恩（Brian Rowan，组织社会学制度主义奠基学者）、乔治·托马斯（George M. Thomas）。
@@ -141,8 +129,6 @@ updated: 2026-10-22
 > - **依托学术重镇** 斯坦福大学社会学系（Stanford Sociology）、斯坦福教育研究生院（Stanford GSE）、[[Comparative and International Education Society|比较与国际教育学会]]（CIES）、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]政策研究网络。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -48,11 +48,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Procedural Skill
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 程序性技能（Procedural Skill / [[Procedural Knowledge]]）是指个体关于“如何做”（How-to）的知识与操作能力系统，表现为在特定问题情境中准确应用产生式规则（Production Rules）、执行标准化计算与操作序列，以及熟练、自动化地解决良构问题的心理动作能力。在认知心理学与[[Bloom's Taxonomy\|布鲁姆教育目标分类学]]中，它涵盖解题技巧、计算机编程代码撰写、口语朗读流利度与四则运算操作等。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 5–7)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知学习成果三元分类辨析
 > | 维度 | 陈述性知识（Declarative Knowledge） | 程序性技能（Procedural Skill） | [[Higher-Order Thinking Skills\|高阶思维技能]]（HOTS） |
 > |---|---|---|---|
@@ -80,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心机制与图式自动化
-
 > [!feature] ACT-R 理论下的程序技能三阶段演进
 > 1. **认知阶段（Cognitive Stage）** 学习者依靠陈述性规则指导动作，步骤繁琐且高度消耗[[Working Memory\|工作记忆]]容量。
 > 2. **联结阶段（Associative Stage）** 通过刻意练习，零散的陈述性规则被“编译”（Compilation）为连贯的产生式规则。
 > 3. **自主阶段（Autonomous Stage）** 技能达到高度自动化，提取执行时仅占用极少的心智资源，释放工作记忆以赋能高阶推理。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

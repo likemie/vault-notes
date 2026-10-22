@@ -67,11 +67,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Executive Function
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **执行功能（Executive Function, EF）** 是一个涵盖性统称（umbrella term），指个体用于目标导向控制的一组高阶、通用目的的神经认知过程，通过主动调节思维、注意与行动以实现特定目标。执行功能的核心成分包括[[Inhibitory Control\|抑制控制]]、任务转换（[[Cognitive Flexibility\|认知灵活性]]）以及[[Working Memory\|工作记忆]]内容的动态[[Updating and Monitoring\|更新与监控]]（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]）；在科学学习与[[Problem Solving\|复杂问题解决]]情境中，执行功能构成了学生过滤无关知觉线索、抑制先验直觉偏误与协调多[[Variable\|变量]]探索的微观认知中枢（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 执行功能、[[Working Memory\|工作记忆]]、[[Metacognition\|元认知]]与普通智力辨析
 > | 维度 | 执行功能 (Executive Function) | [[Working Memory\|工作记忆]] (Working Memory) | 元认知 (Metacognition) | 普通智力 (General Intelligence) |
 > |---|---|---|---|---|
@@ -105,8 +99,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Baddeley (2000); Cowan (2001) | Flavell (1979); Schraw (1998) | Spearman (1904); Carroll (1993) |
 
 ---
-
-## 核心要素
 
 > [!feature] 执行功能的三大核心成分（Miyake 统一性与多样性框架）
 > - **[[Inhibitory Control\|抑制控制]]（Inhibitory Control / [[Cognitive Inhibition\|Cognitive Inhibition]]）** 在必要时故意抑制主导性、自动化或习惯性反应的能力。在科学探究中表现为主动压制基于直觉的经验偏误与无关知觉线索（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
@@ -163,8 +155,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境与实践机制 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -183,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与张力
 >
 > > [!axis] 执行功能训练的远迁移效能争论（Cognitive Training & Far Transfer）
@@ -201,8 +189,6 @@ updated: 2026-10-22
 > 警惕陷入“神经认知[[Determinism\|决定论]]”与“缺陷病理化”。绝不能将儿童在探究课堂中的困顿粗暴归咎为“执行功能低下”，而推卸课程教学设计的责任；合理的任务分解、清晰的指引性问题与支架式工具，完全能够在环境层面代偿执行功能发展中的暂时性不足。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

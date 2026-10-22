@@ -41,11 +41,7 @@ aliases:
   - 成本效益分析法
 ---
 
-# Cost-Benefit Analysis
-
 ---
-
-## 方法定义与公式模型
 
 > [!def] 核心定义
 > **成本收益分析（Cost-Benefit Analysis, CBA / 成本效益分析）** 是一种基于新古典福利经济学与微观经济学理论的规范性政策与项目量化评估方法；它通过将特定公共政策、基础设施投资或技术方案在整个生命周期内所引发的全部直接与间接、有形与无形的社会收益（Benefits）与社会成本（Costs）系统识别并折算为统一的货币度量单位，进而利用折现率计算其**净现值（Net Present Value, NPV）** 或**收益成本比（Benefit-Cost Ratio, BCR）**，用以判断该干预是否符合卡尔多–希克斯改进（Kaldor-Hicks Improvement）与经济效率最大化准则（Boardman et al., 2018）。在[[New Public Management|新公共管理]]（NPM）浪潮中，CBA 成为各国政府控制财政开支与审批微观项目的标准金科玉律。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 798)]]
@@ -60,8 +56,6 @@ aliases:
 > 当 $BCR > 1$ 时，单位成本带来的社会收益大于投入，项目具有经济合理性。
 
 ---
-
-## 经典操作流程
 
 > [!process]- 成本收益分析的标准实施链条
 > ```mermaid
@@ -78,8 +72,6 @@ aliases:
 > 5. **敏感性检验** 测试贴现率波动与极端情境下的决策稳健性。
 
 ---
-
-## 科技政策中的方法批判与局限
 
 > [!tension-table] [[New Public Management|新公共管理]]微观 CBA 评估 vs. 使命导向动态演化评估深度对比
 >

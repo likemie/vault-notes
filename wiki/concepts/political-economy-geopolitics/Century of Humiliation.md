@@ -53,11 +53,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Century of Humiliation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 百年屈辱史（Century of Humiliation，亦称百年国耻或百年屈辱叙事）是中国近现代政治文化与集体记忆中的主导性历史创伤[[Construct|构念]]。在[[Critical Discourse Analysis|批判性政策话语分析]]（Critical [[Discourse Analysis]], CDA）视域下，该叙事特指自1840年第一次鸦片战争爆发至1949年中华人民共和国成立期间，中国遭受西方列强与日本帝国主义入侵、割地赔款及主权沦丧的历史时期。作为深层[[Discursive Field|话语场域]]（Discursive [[Champ|Field]]）的核心基底，百年屈辱与[[National Rejuvenation Narrative|民族复兴叙事]]构成互为镜像的孪生结构；其确立了一种以洗雪历史创伤为导向的情感共识，将当代国家主导的经济繁荣、科技赶超与跨国倡议界定为扭转历史不公的必然实践。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 > | **政策功能** | 强化政权凝聚力并论证综合国力建设的紧迫性 | 指引跨国倡议、[[Knowledge Diplomacy\|知识外交]]与全球治理参与 | 为历史学研究与档案保管提供事实依据 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **主权受制的创伤原点** 以不平等条约、领土割让与治外法权等近代经历为历史参照，铸就强烈的危机感与主权自主偏好。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–688)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,8 +143,6 @@ updated: 2026-10-22
 > - **1990年代至今 — [[Patriotic Education|爱国主义教育]]体系化与跨国战略赋权期** 百年屈辱叙事全面融入国民历史教育与公共[[Discursive Field|话语空间]]，成为解释经济腾飞、国防建设与[[Belt and Road Initiative|一带一路]][[Education Going Global|教育出海]]不可替代的历史正义支撑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -169,8 +159,6 @@ updated: 2026-10-22
 > 本概念主要用于宏观社会学、国际关系与[[Critical Policy Analysis|批判性政策分析]]中解构国家战略的深层意识形态成因，不能替代具体的近代实证史学档案考证。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–688)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 百年屈辱[[Discourse|话语]]与对外战略教育投入实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

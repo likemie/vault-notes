@@ -54,19 +54,13 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# International Baccalaureate Six-Year Experiment
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间／地点** 1967 年塞夫尔会议后启动，正式考试覆盖 1970–1975 年；为履行对已入读学生的责任延至 1976 年，并以海牙政府间会议标志实验期结束。组织中心位于日内瓦，学校、大学和资助网络遍及欧洲、北美、亚洲、非洲和拉丁美洲。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–97)]]
 > - **关键主体** [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的管理机构国际文凭办公室（International Baccalaureate Office，IBO）、获批学校与考生、大学和教育部、国际主考官委员会、基金会、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）、[[International Education\|国际教育]]局（International Bureau of Education，IBE）及出资政府。
 > - **制度背景** 1967 年塞夫尔会议接受六学科与考试框架，并建议以每年不超过 500 名完整文凭考生进行有限期限的[[Action Research\|行动研究]]。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 26–31)]]
 > - **触发条件** [[International Schools\|国际学校]]需要不依附单一国家课程、又能被多国大学接受的共同资格；项目必须同时证明考试质量、学校适用性、大学承认和财务延续性。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–68)]]
-
-## 经过
 
 > [!dev-timeline] 事件经过
 > - **1967–1968 年 — [[Research Purpose\|研究目的]]转向资格服务** 理事会在严控小样本的应用研究与扩大网络的现实服务之间出现分歧，最终把服务跨国流动学生和建立永久资格置于优先位置。办公室迁至日内瓦科洛尼并补充考试行政人员。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–67)]]
@@ -75,8 +69,6 @@ updated: 2026-10-22
 > - **1973–1975 年 — 财务危机与组织重构** 通货膨胀、汇率错配和阶段性基金会资助退出迫使 [[International Baccalaureate|IBO]] 控制成本、把部分考试业务转至英国、建立学校加入费与年费，并扩大政府支持（pp. 83–94）。
 > - **1976 年 — 海牙会议结束实验期** 海牙政府间会议汇集十五国与 [[UNESCO]] 代表，九国原则同意为 1977–1978 年考试出资，会议支持出资国进入理事会并保留新的政府间结构选项（pp. 94–97）。
 > - **1978 年 — 独立法律身份与政府支持结合** UNESCO 拒绝整合方案后，IBO 保留瑞士法律身份；政府常设会议获得部分理事提名权，常设国际资格组织的混合治理结构成形（p. 97）。
-
-## 关键结果
 
 > [!ref-table]- 正式考试规模
 >
@@ -125,8 +117,6 @@ updated: 2026-10-22
 > - **资格可跨境使用** 大学承认采取入学、离校资格等值、分班和免修等不同形式，证明同一资格能够进入多种招生体系。
 > - **课程可跨学校类型迁移** 收费[[International Schools\|国际学校]]、公立实验学校、[[Further Education\|继续教育]]学院和双语学校都能采用共同框架，但需要地方课程和语言协商。
 > - **组织可形成收入组合** 考试费、出版物、学校订阅、基金会和政府资助共同取代单一启动资金。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 67–94)]]
-
-## 争议与评论
 
 > [!tension] 研究控制与服务扩展
 > - **研究控制（蓝方）** 限定少数学校和大学，严格监测[[Predictive Validity\|预测效度]]、[[Reliability\|可靠性]]和课程效果，可以提高研究可控性。

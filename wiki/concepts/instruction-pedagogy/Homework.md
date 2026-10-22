@@ -89,11 +89,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Homework
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **家庭作业（Homework）** 指由学校教师布置、要求学生在校外非正规教学时段（通常在家中或课后辅导托管情境）独立或在成人支持下完成的学术性学习任务。在实证教育研究中，家庭作业被普遍假设为延伸课堂学习时间、巩固学科知识技能以及发展学生[[Self-Regulated Learning|自主调节学习]]习惯的核心教学干预。然而，由于该术语在不同历史时期、不同国家学制及不同实证研究中涵盖了[[Heterogeneity|异质性]]极高的活动形态，使得关于其有效性的[[Meta-analysis|元分析]]聚合长期陷入“苹果与橙子”的[[Construct|构念]]混淆困境。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]; [[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017, p. 7)]]
@@ -127,8 +123,6 @@ updated: 2026-10-22
 > | **[[Meta-analysis\|元分析]]比较基线** | **有作业 vs 无作业（Baseline A）**<br>绝对干预有无对比 | **丰富拓展作业 vs 常规作业（Baseline B）**<br>不同作业质量或批改密度的相对对比 | 元分析若将 Baseline A 与 Baseline B 粗暴合并，会导致某些研究的处理条件在另一些研究中沦为对照基准，彻底瓦解[[Counterfactual\|反事实]]有效性。 | [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017, p. 7)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **学段认知发展阶梯（Developmental Cognitive Readiness）** 家庭作业的促学机制严格依赖学习者的前额叶[[Executive Function|执行功能]]、[[Metacognition|元认知监控]]与[[Working Memory|工作记忆]]容量；小学阶段认知负荷调控弱，作业学业增益微弱，而初高中阶段具备[[Learner Autonomy|自主学习]]策略，作业带来实质概念巩固与提取强化。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]; (EEF, 2021)
@@ -238,8 +232,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境与解释边界 | 代表学者 |
 > |---|---|---|---|
@@ -261,8 +253,6 @@ updated: 2026-10-22
 > - **2026 — 智能时代作业[[Paradigm|范式]]危机与可恢复性考评转向** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 揭示大语言模型一键交付功能导致传统静态成品作业效度瓦解，诊断“唯成品论”考评如何诱导学生剥离中间认识动作，倡导将作业重心前移至全流程思维追踪、对抗性质询日志与脱离工具后的独立推导可恢复性测试。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -292,8 +282,6 @@ updated: 2026-10-22
 > 小学低年级坚决不宜布置机械书面作业，宜以生活体验与亲子朗读为主；初高中阶段应严格控制作业时长，聚焦深层概念理解任务，杜绝低质低阶重复抄写；脱离学生认知发展阶段与家庭支持条件的作业政策设计具有严重的反生产力风险。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶与二阶[[Meta-analysis|元分析]]结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -339,8 +327,6 @@ updated: 2026-10-22
 > > | Guo et al. (2024) | Homework vs. no homework | 14 | 747 | 14 | 0.45 |  |
 
 ---
-
-## 相关研究索引
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 还原[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作业[[Effect Size|效应量]]计算公式，证实其采用简单算术平均（$d=0.29$）掩盖[[Sample Size Determination|样本量]]权重与高中作业（$d=0.64$）与小学作业（$d=0.15$）的巨大鸿沟（pp. 25–27）。

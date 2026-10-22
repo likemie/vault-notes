@@ -120,11 +120,7 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Case Study
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 个案研究（Case Study）是一种在真实自然情境中对受时空限定的系统（bounded system）展开全面、深入考察的[[Qualitative Research|质性研究]]设计（Stake, 1995; Yin, 2009, 2014）。案例可以是个体、群体、组织、项目、事件或决策过程。研究者依托多元资料来源，通过[[Process Tracing|过程追踪]]与机制分析揭示现象本身的复杂性或检验宏观理论问题。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 1, Ch. 9)]]; [[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 6)]]
@@ -142,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] 认识论与方法定位
 > - **知识观** 追求地方性知识的深入洞察与以小见大。推广逻辑区分为两种取向：殷（Yin, 2009）主张遵循实验复制原则实现“分析性概括”（将发现提升为理论命题）；斯塔克（Stake, 1995）则提出“[[Naturalistic Generalization|自然主义概括]]”，强调通过提供详实经验[[Rich and Thick Description|深描]]，由读者依据自身经验完成情境迁移。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 215)]]
 > - **研究者角色** 深度卷入的实地探究者与对话者，在自然未受控情境下长期驻留，依靠主观[[Professional Judgment|专业判断]]理解行动者体验，并保持[[Reflexivity|反思性]]以校正潜在偏见。
@@ -158,16 +152,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **明确研究问题与理论命题** 界定探究“如何”（how）与“为何”（why）的核心问题，形成初步理论假设或解释框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|(Cohen et al., 2011, Ch. 14)]]
 > 2. **划定案例边界与设计类型** 明确案例的时空范围，选定单案例或多案例、整体性或嵌入性分析架构（如以单一公共机构为工具性案例，内嵌若干业务单元迷你案例）。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 645)]]
 > 3. **编制研究方案并收集多源资料** 制订案例研究草案，运用访谈、观察、文件与档案多渠道收集数据，维护[[Chain of Evidence|证据链]]完整性。
 > 4. **展开个案内与跨案例分析** 形成翔实案例叙事，对比理论预期与经验模式，系统排查竞争性解释。
 > 5. **撰写报告并实施质量检验** 呈现[[Rich and Thick Description|厚描述]]与理论机制分析，通过成员检查与[[External Auditor|外部审计]]增强解释可信度。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -185,16 +175,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适合探究如何（how）和为什么（why）类[[Research Question|研究问题]]，尤其适用于需要揭示因果机制、制度演化与微观能动性互动的复杂社会情境，以及在已有关联性证据但缺乏过程理解的领域开展深度机制探索。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1699)]]; [[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9)]]
 > - **谨慎使用** 需要大样本统计推论的研究、时间与经费极度受限的短期项目，以及高度封闭且无法建立持续现场互动的研究对象需审慎采用。
 > - **不适合使用** 寻求严密控制外生变量以量化特定单一干预净效应的微观[[Experimental Research|实验研究]]，以及仅需描述宏观总体参数分布的横截面统计调查。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源与主观性** 依赖个体自述与回忆易产生回忆偏误；研究者深度卷入与分析式归纳易受先验偏见影响，选择过程与经验推断不易完全分离。
@@ -224,8 +210,6 @@ updated: 2026-10-22
 > | [[Analytic Generalization]] | 前置方法 | 个案研究的推广逻辑：从具体案例推升至普遍理论命题。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 采用跟踪式个案设计，结合目的抽样与理论抽样分两阶段选取 62 名个案，用以检视叙述可靠性并确证意向与行为的关联。

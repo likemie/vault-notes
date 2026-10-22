@@ -58,11 +58,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Torrance Tests of Creative Thinking
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 托兰斯[[Creativity\|创造性]]思维测验（TTCT）
 > - **工具类型** 标准化[[Divergent Thinking\|发散思维]]心理测验（Standardized Divergent Thinking Test）。
@@ -74,8 +70,6 @@ updated: 2026-10-16
 > 托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）是过去半个世纪中全球应用最广泛、心理测量学标准化程度最高的[[Creativity Assessment\|创造力测量]]工具，其长期[[Cohort Study\|追踪研究]]确立了发散思维对真实卓越成就的中等[[Predictive Validity\|预测效度]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Divergent Thinking\|发散思维]]与[[Creativity\|创造潜能]]测量维度
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -92,16 +86,12 @@ updated: 2026-10-16
 
 ---
 
-## 心理测量学特征
-
 > [!proc] [[Reliability\|信度]]与效度证据
 > 1. **评分者一致性信度（[[Inter-Rater Reliability]]）** 经标准手册严格培训的评分员之间一致性系数通常稳定在 $r = 0.90 \sim 0.96$（Kim, 2006）。
 > 2. **[[Test-Retest Reliability\|重测信度]]（Test-retest Reliability）** 跨数周至数月的重测信度在 $r = 0.60 \sim 0.80$ 之间，展现出作为心理特质潜能的良好跨时间稳定性。
 > 3. **长期[[Predictive Validity\|预测效度]]（Longitudinal Predictive Validity）** 托兰斯长达 40 年至 50 年的里程碑[[Cohort Study\|追踪研究]]（Torrance, 1981; Cramond et al., 2005; Runco et al., 2010）证实，个体在学龄期 TTCT 上的综合得分对其成年期获得的客观终身[[Creativity\|创造性]]成就（专利、公开出版物、创业与学术专著）具有显著预测力（关联系数达 **$r = 0.28 \sim 0.38$**），预测力显著超越传统智商（IQ）测验。
 
 ---
-
-## 实证应用与元分析证据
 
 > [!ma-table]- TTCT 在干预与[[Meta-meta-analysis\|二阶元分析]]中的实证表现
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -115,8 +105,6 @@ updated: 2026-10-16
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 学生样本创造力-[[Critical Thinking\|批判性思维]]相关元分析 | TTCT 被编码为客观[[Creativity Assessment\|创造力测量]]（如 Khatami et al., 2023; Misset, 2012; Ulger, 2016 等） | 总体相关 $r = 0.386$；双客观测量组合 $r = 0.317$ | 双主观组合相关更高（$r = 0.509$），提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
 
 ---
-
-## 优缺点与应用边界
 
 > [!boundary]- 工具优缺点与局限
 > - **优势** 标准化常模极为庞大、跨文化可比性强、评分客观规范且具备坚实的长期[[Predictive Validity\|预测效度]]。

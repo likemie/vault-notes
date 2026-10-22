@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Solomon Asch
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 波兰裔美国社会心理学家、格式塔心理学代表人物，曾任斯沃斯莫尔学院（Swarthmore College）心理学教授、罗格斯大学认知科学中心主任。
@@ -74,16 +70,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1951 — *Effects of Group Pressure upon the Modification and Distortion of Judgments*** 系统报告 1951 年线段对比实验数据，揭示群体一致性压力如何导致受试者放弃感官直觉做出屈从判断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 130)]]
 > - **1952 — *Social Psychology*** 确立社会心理学学科框架的奠基性教科书，融合格式塔整体论与[[Positivism|实证主义]]方法。
 > - **1955 — *Opinions and Social Pressure*** 在《科学美国人》（*Scientific American*）发表综述，面向公众深刻反思群体规范对教育体系与社会价值观的挑战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 131)]]
 
 ---
-
-## 理论主张与核心贡献
 
 > [!claim] 核心学术主张
 > 群体压力能够直接扭曲个体的判断与感知，但在普遍屈服的群体之中，始终存在对虚假共识保持清醒抵抗的独立个体；现代教育与[[Organizational Culture|组织文化]]必须致力于保护这种抵抗盲从的微观理性。
@@ -106,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 学术争鸣与反思
-
 > [!debates] 围绕[[Asch Conformity Experiment|阿施从众实验]]的理论争鸣
 >
 > > [!axis] 从众的跨文化普遍性 vs 民主文化例外论
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > > - **工程组织哲学（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 强调在突破技术无人区时，从众本能是致命毒药，唯有保护具有[[Social Deafness|社交失聪]]特质的独立者方能实现从 0 到 1 的[[Paradigm|范式]]跨越。
 
 ---
-
-## 关联网络与思想谱系
 
 > [!actor-grid] 学术传承与关联网络
 > - **师承与渊源** 马克斯·韦特海默（Max Wertheimer）、沃尔夫冈·寇勒（Wolfgang Köhler）等格式塔心理学先驱。

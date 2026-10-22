@@ -62,11 +62,7 @@ created: 2026-08-19
 updated: 2026-10-16
 ---
 
-# Views of Nature of Science Questionnaire
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Nature of Science\|科学本质观]][[Questionnaire\|问卷]]（Views of Nature of Science Questionnaire, VNOS）
 > - **工具类型** 开放式[[Questionnaire\|问卷]]结合[[Semi-structured Interview\|半结构化访谈]]的质性测量工具（Open-ended Questionnaire supplemented with Semi-structured Interviews）。
@@ -100,14 +96,10 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 开放式论述题（Open-ended Questions），采用情境诱导与启发性质询。
 > - **作答格式** 质性文字长文本阐述；施测后研究者随机抽取 15%–25% 的被试进行 15–30 分钟[[Semi-structured Interview\|半结构化访谈]]，要求被试重述作答并解释关键词义。
 > - **反向题与跳题** 无跳题逻辑；题项设计常包含反直觉对比情境（如恐龙灭绝的不同理论解释、恐龙外观复原图的依据）以触发[[Epistemology\|认识论]]深层思考。
-
-### 核心访谈与质性评估提纲
 
 > [!interview-guide] VNOS 核心质性质询与追问提纲
 > <span class="instrument-interview-table-marker" aria-hidden="true"></span>
@@ -122,8 +114,6 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 
 ---
 
-## 使用该工具的研究与批评
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -133,8 +123,6 @@ VNOS 的核心测量[[Construct|构念]]为[[Formal Epistemology|形式认识论
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] | VNOS 标准量表及同类问卷 | 审视科学教育中基于调查量表的认识论测验与基于课堂话语的认识论实践之间的[[Paradigm\|范式]]差异。 | 针对问卷测量效度与[[Ecological Validity\|生态效度]]的批判性理论审视。 | 指出将科学本质简化为问卷测试中的命题记忆，容易导致教学退化为应试式标准答案灌输。科学认识论不能仅靠脱离情境的问卷测量，必须将认识论主体定位于微观协商共同体，通过课堂交互人种志与[[Discourse Analysis\|话语分析]]考察学生在提出、沟通、评估与合法化知识主张过程中的真实[[Epistemic Practices\|认识论实践]]。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

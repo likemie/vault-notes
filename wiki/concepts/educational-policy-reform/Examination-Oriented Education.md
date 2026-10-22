@@ -63,12 +63,9 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Examination-Oriented Education
 （应试教育 / 考试驱动型教育）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 应试教育（Examination-Oriented Education / Exam-Driven Education；中文拼音：yingshi jiaoyu）是指以标准化考试成绩为教育质量、学校声誉与学生发展潜能之核心衡量尺度的教育组织、教学与评价体系。其核心特征是以高利害考试结果作为筛选与分配社会机会的唯一或首要标准，教学活动围绕应考考点、模式识别与标准答案高效展开。在中国，该体系深植于隋唐以来的[[Civil Service Examination|科举]]文化认同并依托当代[[Gaokao|普通高等学校招生全国统一考试]]（[[Gaokao|高考]]）的多层问责机制运转（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）；在跨国与批判教育哲学视阈下，应试教育表现为将复杂的探究活动窄化为套路化模式识别，与[[Computerization of Education|教育计算机化]]深度互构，前置性诱发了未成年学习者的[[Formative Epistemic Injustice|成长性认识不正义]]（[[Argument_Smith_2026_SPE|Smith, 2026]]）。
@@ -95,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史演变与跨文化脉络
-
 > [!dev-timeline] 历史演变与跨文化演进
 > - **6 世纪至 1905 年 — 中国[[Civil Service Examination|科举制度]]确立“以考选士”传统** 建立统一规范的标准化选拔，将考试胜出与政治精英权力、社会向上流动深度捆绑，奠定了全社会重考崇文的集体无意识。
 > - **20 世纪初至 1970 年代 — 现代选拔考试的确立与工具化蜕变** 中国废科举后现代学校体系仍以大学联考为轴心；而在西方，阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，原本以道德神学与社会至善探究为核心的读写教学，逐步蜕变顺从于政客要求的标准化技能考核。
@@ -105,8 +100,6 @@ updated: 2026-10-22
 > - **2020 年代 — [[High-Stakes Testing|高利害测验]]与[[Computerization of Education|教育计算机化]]批判** 朱莉·埃尔·勒恩德（Julie E. Learned et al., 2020）揭示西方标准化考试迫使教师推行公式套路写作并诱发情绪创伤；威廉·戴维斯（William Davies, 2022）与斯宾塞·J·史密斯（Spencer J. Smith, 2026）进一步论证，应试体系对模式识别的推崇构成了[[Computerization of Education|教育计算机化]]，并在生成式 AI 时代前置性诱发并系统放大了学习者的[[Formative Epistemic Injustice|成长性认识不正义]]。
 
 ---
-
-## 运作机制与系统协调性
 
 > [!feature] 核心要素与支撑支柱
 > - **课堂教学考点化** 教学内容严格局限于考试大纲与常考题型，讲授与做题强化占据绝对主导；区域统考成绩逐校、逐班、逐题拆解，驱动备课与教学反思全面紧扣分数提升。
@@ -182,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心论点 | 适用情境 | 代表文献 |
 > |---|---|---|---|
@@ -194,8 +185,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 应试教育 vs [[Quality Education|素质教育]] vs [[Test-Based Accountability|考试问责]]制 vs [[Computerization of Education|教育计算机化]]
 > | 比较维度 | **应试教育（Examination-Oriented）** | **[[Quality Education\|素质教育]]（Quality-Oriented）** | **[[Test-Based Accountability\|考试问责制]]（Accountability）** | **[[Computerization of Education\|教育计算机化]]（Computerization）** |
 > |---|---|---|---|---|
@@ -205,8 +194,6 @@ updated: 2026-10-22
 > | **未成年人心智影响** | 诱发焦虑，压抑独创，前置造成[[Epistemic Injustice\|认识不正义]] | 理论上激发潜能，实践中常沦为表面形式 | 强化分数挂帅，引发教学测验窄化 | 导致主观阐释与深层价值探究全面萎缩 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -224,8 +211,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table] 应试教育相关实证研究汇总
 > | 研究 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]与调查维度 | 原始定性/定量发现 | 解释边界与理论贡献 |
 > |---|---|---|---|---|---|
@@ -235,8 +220,6 @@ updated: 2026-10-22
 > | Collin (2024)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 美国读写教育百年历史与课程档案 | 历史社会学与读写史考察 | 读写教学目标演进与测验技能异化 | 读写教育彻底放弃了早期追求道德真理与社会至善的探究目标，退化为圈过渡词等细碎技能操练 | 确立了读写教育向应试技能主义蜕变的工具化历史脉络 |
 
 ---
-
-## 教育与政策启示
 
 > [!pathways] 解构与防范应试教育弊端的路径建议
 > - **重构评价指标与弱化高利害单次筛选** 建立过程性、多维度与增值性学业评价框架，切断将升学率作为评价学校声誉与教师绩效的单一硬性指标。

@@ -39,11 +39,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Self-Directed Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 自我导向学习（Self-Directed Learning，SDL）指学习者主动承担学习责任，设定目标、选择策略、监控进度并评价结果的学习方式。在[[Problem-Based Learning\|问题本位学习]]（PBL）中，学生面对真实问题先识别自身知识缺口，再通过自导学习填补缺口，最后检验假设、评价学习结果并整合理解。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 952–953)]]
@@ -59,8 +55,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] SDL 的过程要素
 > - **目标设定** 学习者明确学习目标与知识需求。
 > - **策略选择** 选择收集资料、分析问题与解决问题的策略。
@@ -73,8 +67,6 @@ updated: 2026-10-22
 > 3. **检验与评价** 学生检验假设、评价学习结果，整合理解。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

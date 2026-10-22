@@ -164,11 +164,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Argument_Cowen(Ed.)_2009_Springer
-
 ---
-
-## 编著定位
 
 > [!volume-profile] 编著档案
 > - **核心议题** 21 世纪初全球化与知识社会背景下比较教育学的学科重塑、知识图景拓展与理论[[Paradigm\|范式]]重建。
@@ -177,8 +173,6 @@ updated: 2026-10-22
 > - **使用方式** 作为全书 80 个章节 Argument 的总导航入口、结构索引与跨章理论线索沉淀基座。
 
 ---
-
-## 编者问题与组织主张
 
 > [!question] 编者问题
 > 比较教育学在经历 20 世纪末至 21 世纪初的学科复兴与全球繁荣之后，如何摆脱狭隘的技术官僚工具主义与制度自满，正视学科内部海量未被照见的隐蔽历史、[[Epistemological Break\|认识论断裂]]与南方经验的缺位？如何在民族国家、国际组织与全球力量交错重组的复杂语境下，重获批判深度与理论想象力？（pp.3–6）
@@ -195,8 +189,6 @@ updated: 2026-10-22
 
 ---
 
-## 全书结构与章节路线
-
 > [!volume-structure] 全书结构
 > - **Section 1 / Ch. 01–10 — 学科的创建与再造（The Creation and Re-creation of a [[Champ\|field]]）** 反思学科起源神话、现代主义源头、科学[[Paradigm\|范式]]、国家理论、[[World-Systems Theory|世界体系分析]]与欧洲传统。（pp.3–157）
 > - **Section 2 / Ch. 11–20 — 政治形态与教育系统（Political Formations and Educational Systems）** 考察帝国主义与殖民遗产、民族国家建构、希腊/意大利国家形态、后社会主义转型与[[EU|欧盟]][[Discourse|话语]]。（pp.161–334）
@@ -208,8 +200,6 @@ updated: 2026-10-22
 > - **Section 8 / Ch. 71–80 — 探索未来（The Cutting Edge - Questioning the Future）** 直面学科前沿、数字化技术、叙事危机、[[Discourse Analysis\|话语分析]]、科学革命构想与全书总结。（pp.1135–1300）
 
 ---
-
-## 理论、方法与关键词
 
 > [!volume-tools] 理论与方法工具箱
 > - **[[Comparative History of Comparative Education]]** 作为贯穿全书历史反思的核心纲领，主张跨越单一国别视角，以多中心与批判史学反思学科自身的发展轨迹。（pp.7–10）
@@ -262,8 +252,6 @@ updated: 2026-10-22
 
 ---
 
-## 各章概览
-
 > [!chapter-index] 章节索引
 > - **Ch. 01 — Joint Editorial Introduction** Argument_Cowen_Kazamias_2009_Introduction — 概述世纪之交比较教育学的复兴态势、出版繁荣与制度化成就，抛出全书对学科未来的根本追问。
 > - **Ch. 02 — On History and on The Creation of Comparative Education** [[Argument_Cowen_2009_HistoryCreation]] — 揭示早期学科史的职业合法化功能，剖析档案隐蔽、制度匮乏与材料密度低三重困境，倡导走向 [[Comparative History of Comparative Education\|比较教育学的比较史]]。
@@ -283,8 +271,6 @@ updated: 2026-10-22
 
 
 ---
-
-## 整体贡献与使用边界
 
 > [!volume-contribution] 整体贡献
 > - **学科版图重构** 跨越 80 章的宏阔体量，彻底扭转了比较教育学局限于英美单一中心的狭窄视界，将全球多中心经验与理论前沿系统化整合。

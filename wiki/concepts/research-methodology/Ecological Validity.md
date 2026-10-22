@@ -65,11 +65,7 @@ created: 2026-06-23
 updated: 2026-10-22
 ---
 
-# Ecological Validity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **生态效度（Ecological Validity）** 要求将研究场所（如学校、大学、具体社区与班级）的**具体特征**全面纳入研究考量，而不是简单通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞（rhetoric of policies），即假设政策以预定意图或有权群体所宣称的方式被实施（Brock-Utne, 1996, pp. 617–618）。生态效度追问的是：研究所描述的因果机制与教育现象，在多大程度上真实反映了其在**自然发生情境**中的样貌？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 生态效度 vs [[External Validity|外部效度]] vs [[Internal Validity|内部效度]]
 > | 维度 | 生态效度（Ecological Validity） | 外部效度（External Validity） | 内部效度（Internal Validity） |
 > |---|---|---|---|
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > | **方法论偏好** | 质性自然主义、[[Rich and Thick Description\|厚描述]]、田野观察 | 大样本[[Random Sampling\|随机抽样]]、统计代表性推断 | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、严格实验室控制 |
 
 ---
-
-## 核心要素
 
 > [!feature] 生态效度的核心维度
 > - **自然发生性（Natural Occurrence）** 质性自然主义研究的基本前提是研究者不人为操纵情境[[Variable|变量]]，让互动在自然状态下发生，以描绘真实社会情境的复杂全貌。
@@ -162,8 +154,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕生态效度形成的命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -174,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 生态效度的概念脉络
 > - **1970 年代 — 心理学实验室反思** 针对传统实验心理学过度依赖人造实验室环境导致的推论缺陷，生态效度概念被正式引入，用于衡量发现与日常现实生活的契合度。
 > - **1983 年 — 教学的人际艺术与反行为规训** [[Elliott Eisner|埃利奥特·艾斯纳]]发表《教学的艺术与工艺》（Eisner, 1983），指出教育是极其复杂的动态人际过程，预设的行为目标无法概括育人全貌，奠定人文生态评价思想。
@@ -185,8 +173,6 @@ updated: 2026-10-22
 > - **2014–2023 年 — 科学哲学深化与[[Critique of Meta-meta-analysis|二阶元分析批判]]** 科学哲学家 Phillips (2014) 系统阐述硬科学实验室控制在教育中移除生态效度的机制；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 结合 Eisner 理论，将生态效度作为核心支架，系统解构了《可见学习》抹杀学校生态情境的[[Neo-Taylorism|新泰勒主义]]技术主义弊端。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -209,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键引用
-
 > [!citation-card] [[Variable|变量]]控制在教育中消除生态效度
 > 科学哲学家丹尼斯·菲利普斯指出，在物理科学中变量可以被严密控制，但在学校情境中，这些变量绝非干扰噪音，而是具有重大人文与教育意义的本体内容——在这里施加控制，将消除一切生态效度的表象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Phillips, 2014, p. 10)]]
 >
@@ -232,8 +216,6 @@ updated: 2026-10-22
 > *Ecological validity demands that the specific characteristics of the research setting be taken into [[Accounts|account]] rather than merely replicating the rhetoric of policies.*
 
 ---
-
-## 应用案例
 
 > [!case] 实验室 vs 教室：阅读干预的双重困境
 > 一项在严格控制条件的大学实验室中验证有效的阅读干预方法，在真实的小学教室中可能完全失效——教室中有噪音、有不同阅读水平的学生同时活动、有教师需要同时管理课堂纪律。实验室的发现声称具有高[[Internal Validity|内部效度]]，但其[[Ecological Validity|生态效度]]极低。另一方面，如果直接在教室中进行实地实验，失去对[[Variable|变量]]的严格控制后，即使发现有效果，也无法确定是干预本身还是教室特有的情境因素（如教师的教学风格、班级氛围）产生了效果。这是实验方法在生态效度与内部效度之间的根本取舍。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, pp. 319–320)]]

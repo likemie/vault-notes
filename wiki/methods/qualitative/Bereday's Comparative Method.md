@@ -66,11 +66,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Bereday's Comparative Method
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 贝雷迪四步比较法是由美籍波兰裔比较教育学家[[George Bereday|乔治·贝雷迪]]（[[George Bereday|George Z. F. Bereday]]）在 1964 年经典专著《教育中的比较方法》（*Comparative Method in Education*）中系统阐明的经验归纳比较程序。该方法将跨国教育研究划分为由浅入深、逻辑连贯的四个操作阶段：以搜集单国客观事实为起点的**描述（Description）**、以跨学科人文社科视角深挖制度动因的**解释（Interpretation）**、将多国事实与解释依循统一范畴横向对照并提出[[Working Hypothesis|工作假说]]的**并置（Juxtaposition）**，以及在同一[[Analytic Framework|分析框架]]下同时比对多国证据以提炼跨国通则或结构类型学的**综合分析（Comparison / Total Analysis）**。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > *"While his first three steps aimed basically at understanding and explaining specific educational phenomena, his ultimate aim remained total analysis; an exercise, i.e. which 'deals with the imminent general forces upon which all systems are built' and which lead to 'the formulation of 'laws' or 'typologies' that permit an international understanding and a definition of the complex interrelation between the schools and the people they serve' (Bereday, 1964: 23–25)."*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 秉持温和经验归纳主义认识论。认为教育绝非孤立存在的技术装置，而是深嵌于特定社会的政治、经济、历史与文化脉络之中；可靠的理论推导不能建立在脱离情境的先验概念之上，而必须从对各国具体教育事实的忠实记录与多学科脉络解释中逐步提炼。
@@ -107,8 +101,6 @@ updated: 2026-10-22
 >   - [[Theoretical Sampling|理论抽样]]与多国对比类型学提炼。
 
 ---
-
-## 研究程序
 
 > [!proc] 贝雷迪四步归纳比较程序
 > 1. **描述阶段（Description）**
@@ -136,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 
 >   - 适用于系统探索不同主权国家在相似发展阶段或特定政策议题上的体制差异与[[Institutional Isomorphism|制度同构]]；
@@ -152,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **归纳滞后与理论依赖风险** 过度依赖“先描述再归纳”容易使研究者耗费巨量精力于海量资料的表层堆砌，导致理论建构迟滞；且研究者在初始资料搜集时实质上已暗含了未受检验的直觉预设。
 > - **[[Working Hypothesis|工作假说]]迟置** 将假说的提出延后至第三阶段（并置），容易导致前两阶段的描述与解释缺乏清晰的问题聚焦，产生庞杂而缺乏解释针对性的国别资料包袱。
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > - **补救方式** 结合明确的[[Research Question|研究问题]]聚焦前置框架；在描述阶段严格设定范畴指标；结合[[Grounded Theory|扎根理论]]的[[Constant Comparison|持续比较法]]（Constant Comparison）与[[Reflexivity|反身性]]审查提升理论敏感度。
 
 ---
-
-## 争论与批评
 
 > [!tension] Holmes vs. Bereday：假说演绎法与经验归纳法的世纪辩争
 > - **[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）的[[Analytical Stance|批判立场]]**
@@ -184,8 +170,6 @@ updated: 2026-10-22
 > | [[Grounded Theory]] | 演进方法 | 当代质性经验归纳理论建构进路，在[[Epistemology\|认识论]]谱系上继承了归纳比较传统。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 将贝雷迪四步归纳法确立为 1960 年代学科实证科学化历程中经验归纳进路的最系统代表形态，剖析其与霍姆斯假说演绎法的世纪论争。

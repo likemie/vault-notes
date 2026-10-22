@@ -84,11 +84,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Student Mobility
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **学生流动性（Student Mobility）** 指学生在教育系统内部跨越学校、学区、地域乃至国家地理边界的空间位移与机构转换过程。在比较教育与政策社会学中，该[[Construct|构念]]不仅描述物理迁移现象，更是现代国家[[Spatial Governmentality|空间治理术]]（Spatial [[Governmentality]]）建构出的核心政策议题。其在跨国政策[[Discourse|话语]]与地缘战略中呈现多元价值编码：在欧洲一体化语境中被建构为促进超国家公民认同与灵活[[Employability|就业能力]]的高级制度资本；在美国基础教育问责语境下被问题化为伴随贫困与家庭失范风险、危及学校绩效达标的[[Transiency|流动漂泊]]（Transiency）；在发展型大国[[South-South Cooperation|南南合作]]与“[[Belt and Road Initiative|一带一路]]”建设中，则经历从依赖国家全额奖学金补贴单向吸引留学生，向统筹“五个并重”（出国与来华、公派与自费、规模与质量、规范管理与优化服务、培养与发挥作用）以及结合重大工程推进产教协同实体办学演进。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–226, 230)]]
@@ -117,8 +113,6 @@ updated: 2026-10-22
 > | 治理目标 | 调节人口流动秩序、配置教育准入机会与地缘影响力拓展 | 重塑国家教育治理体系与制度合法化 | 缓解族裔区隔与维护国家社会稳定 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **流动的空间尺度与方向（Spatial Scales & Trajectories）** 涵盖学年内社区就近转学、城乡间季节性跨区域流动，以及跨越国界的洲际高等教育学分转移、学位攻读与高端专业人才访学。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–364)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
@@ -211,8 +205,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键理论工具 | 代表学者 |
 > |---|---|---|---|
@@ -235,8 +227,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 空间流动价值评价的两极对立
 > - **立场 A（欧洲[[Discourse|话语]]：制度资本与公民美德）** 欧洲一体化话语将跨国高校流动赞颂为自主开拓的时代美德，强调流动能增强超国家公民认同与弹性应变胜任力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 > - **立场 B（美国话语：失范偏离与绩效危机）** 美国联邦问责话语将中小学频繁转学贬斥为破坏规训与秩序的越轨行为，将其与家庭贫困、学业滞后及学校问责减分相绑定。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
@@ -258,8 +248,6 @@ updated: 2026-10-22
 > 宏观政策文件中的留学生配额与奖学金规模属于行政规划指标，无法直接替代微观层面关于留学生在华跨文化融入、[[Academic Achievement|学业成就]]以及回国后职业发展质量的实证考察；单纯的人员流动统计亦容易掩盖不同专业领域的结构性失衡。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

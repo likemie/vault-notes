@@ -76,11 +76,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Theoretical Perspective
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 理论视角（Theoretical Perspective）是科学研究设计与[[Epistemology|认识论]]中的核心概念，兼具宏观学科认识论与微观研究设计双重内涵。在认识论与方法论层级上，它指统率整个经验探究过程的总体概念框架、价值预设与[[Paradigm|范式]]透镜，决定了研究者“看见什么、如何提问与怎样阐释数据”；在[[Research Proposal|课题申报]]书与研究方案中，它指专门阐明研究理论依据的独立章节，通过彩虹桥梁机制建立[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的演绎逻辑链条，为具体[[Hypothesis|研究假设]]提供理论支撑。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 53)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
@@ -107,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 理论视角与相邻概念辨析
 > | 维度 | 理论视角（Theoretical Perspective） | 研究方法（Methods/Techniques） | [[Literature Review\|文献综述]]（Literature Review） |
 > |---|---|---|---|
@@ -119,9 +113,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Epistemology|认识论]]统领性（Epistemological Primacy）** 在学术探究四层级架构中位居顶层，决定了研究者关于知识性质、现实可测性以及[[Causality|因果关系]]的根本信念。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
 > - **彩虹连接机制（Rainbow Connection Mechanism）** 在量化与因果研究中，横跨在[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间，系统说明自[[Variable|变量]]为何能够通过特定心理、社会或制度中介来预测因变量。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 53)]]
 > - **规范化[[Research Writing Script|写作脚本]]（Standardized Research Writing Script）** 在研究计划中包含“指明理论—追溯来源—回顾应用—陈述命题—关联变量”五步递进的标准阐述程序。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 62–63)]]
@@ -195,8 +187,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -214,8 +204,6 @@ updated: 2026-10-22
 > - **2020s 至今 — 后西方地缘转向与非西方关系性视角拓展** 随着全球教育多极化发展，批判学者揭示出欧美二元理论视角在解释非西方国家跨国高教治理中的盲区；引入关系性哲学（如天下理论框架），拓展了兼具等级秩序与包容互惠的非西方理论视角。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与[[Epistemology|认识论]]交锋
 >
@@ -244,8 +232,6 @@ updated: 2026-10-22
 > - **单一视角的认知盲区** 单一理论视角只能截取复杂现实的特定侧面，任何宣称自身具备全能解释力的理论视角都会沦为盲目教条；研究者必须保持认识论自省，明确所选视角的观察盲区。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 123)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -41,11 +41,7 @@ created: 2026-08-18
 updated: 2026-10-22
 ---
 
-# Epistemological Naturalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology\|认识论]]自然主义（Epistemological Naturalism）是20世纪中后期最重要的哲学转向之一。它主张放弃对知识“绝对确定性”和基础主义（Foundationalism）的先验（A priori）寻求，转而将认识论视为一门需要依赖[[Scientific Method\|经验科学]]（尤其是心理学、认知科学和进化生物学）来研究人类如何实际获取、生成和评估信念的实证性学科。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 145)]]；[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
@@ -70,9 +66,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **连续性原则（Continuity with Science）** 哲学不应该站在科学之上颁发许可证，哲学本身应当与自然科学（心理学、认知科学）融为一体，共享同一种方法论。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 > - **关注[[Causal Processes\|因果过程]]（Causal Processes）** 评价一个信念是否合理，不能只看它与其他信念在逻辑上是否一致，而必须看它是由什么样的自然因果过程（如视觉、记忆、推理、专家证词）所生成的。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **认知者的社会嵌入性** 自然化转向将研究视野从“沉思的孤立[[René Descartes\|笛卡尔]]式大脑”扩展到依赖社会分工的认知者。认知者必须依靠他人提供的信息（证词）和物质工具进行探究。
@@ -124,8 +118,6 @@ updated: 2026-10-22
 > - **2000s 至今 — 教育研究应用** 这一哲学转向进入教育心理学（如 [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] 以及 [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]]），促使研究者跳出测量单一内部信念的局限，开始研究课堂真实情境中的[[Epistemic Cognition\|认识论认知]]实践、工具使用及社会互动。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力
 > - **规范性是不可或缺的（蓝方）** Jaegwon Kim 严厉批评 Quine 的强自然主义，认为如果把[[Epistemology\|认识论]]完全交给纯描述的心理学，我们就失去了区分“正确推理”与“错误推理”的权力，认识论就彻底消亡了。

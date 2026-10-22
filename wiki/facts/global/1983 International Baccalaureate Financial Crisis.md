@@ -35,11 +35,8 @@ status: draft
 created: 2026-10-04
 updated: 2026-10-22
 ---
-# 1983 International Baccalaureate Financial Crisis
 
 ---
-
-## 背景与历史成因
 
 > [!claim] 课程扩张快于共同财政制度的形成
 > 1983 年[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization, IBO）财政危机表明，课程和学校网络增长没有自动形成足以承担中央行政、课程开发与考试服务的稳定收入。危机迫使组织同时削减支出、重新分配区域责任并寻求短期救援。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 185–186)]]
@@ -51,8 +48,6 @@ updated: 2026-10-22
 > - **法律风险** 若不能在当年纠正，组织可能依据瑞士慈善基金会法律被迫关闭。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 185–186)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!timeline] 从赤字预警到建立储备
 > - **1983 年预算预警** 初步估算显示赤字超过 500,000 瑞士法郎，财政问题从经常性压力升级为组织存续危机。
@@ -73,8 +68,6 @@ updated: 2026-10-22
 > | 紧急委员会与总干事协调 | 把多项措施组织为年度方案 | 关键领导承担跨国谈判功能 | 高度依赖个人投入 |
 
 ---
-
-## 历史后果与深远影响
 
 > [!finding-cards] 危机改变了组织对成本和分权的理解
 > - **预算得到即时修复** 1983／84 年恢复平衡，次年出现储备，说明组合式应急方案在短期内有效。

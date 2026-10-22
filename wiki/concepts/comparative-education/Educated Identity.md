@@ -49,11 +49,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Educated Identity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 受教育身份（Educated Identity）是比较教育的核心关切概念，由 Lauwerys (1965) 最早提出，并由 [[Robert Cowen]] 提炼为学科重建的道德与智识支点。它指教育系统所试图塑造的理想人格、文化期望与社会角色，更是一个兼具伦理、政治和学术维度的本质性拷问：追问在特定社会、历史时期与[[Geopolitics|地缘政治]]下，我们在这个世界上以教育和改革之名对孩子们实施了怎样的系统性行为，以此见证并记录教育的实际人道后果。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - 不等于 [[Space of Flows\|流动空间]] — 流动空间是塑造现代受教育身份的[[Policy Network\|全球政策网络]]承载体，而受教育身份是其塑造的[[Discourse|话语]]产物。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念辨析：学科核心关切对比
 > | 维度 | 受教育身份 (Educated Identity) | 转移 (Transfer) |
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > - **2023 — 重建未来的道德与智识支点** [[Argument_Cowen_2023_CE\|Cowen (2023)]] 将其提炼为重构学科未来的二元支点之一，用以在人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]]，AI）教学与监控资本主义主导的“[[Totally Pedagogised Society\|全盘教育化社会]]”中重新确立人道主义与生命伦理底线。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 335–336]])
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：文化理解 vs 测量效率
 > - **理解传统（Lauwerys et al.）** 强调以 Verstehen 的哲学态度深入分析不同文明塑造理想类型（ideal type）人格的文化脉络，保持对孩子成长生态的道德同理心。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 333, 336]])

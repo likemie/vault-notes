@@ -60,7 +60,6 @@ citation_aliases:
   - "Ryan & Slethaug, 2010"
   - "Ryan & Slethaug (2010)"
 ---
-# Argument_Ryan_2010_HKUP
 
 > [!question]
 > 本书编者 Ryan and Slethaug 试图回答两个相互关联的问题：第一，[[International Education\|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner\|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学实践，以及如何打破它们？(pp.2–3]])
@@ -92,9 +91,7 @@ citation_aliases:
 > 三个部分共同指向一个结论：真正的挑战不仅在于教学法，更在于教师在社会化过程中对认同、跨文化关系和教学实践的反思(p.8]])。
 
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > 编者提出两个核心判断：
 > - "[[Chinese Learner\|中国学习者]]无处不在，各年龄段皆有。不存在单一类型的中国学习者，也无法确定单一的教学场所。最佳教学实践高度依赖于学习者文化、教师文化以及两者之间的互动。"(p.15]])
 > - [[International Education\|国际教育]]已经从"地方和国家绑定"的教育模式转变为跨国市场和全球竞争[[Champ\|场域]]——而这一转变"在几乎无人察觉的情况下"完成了(p.15, 呼应标题"Something Happened While Nobody Was Looking"]])

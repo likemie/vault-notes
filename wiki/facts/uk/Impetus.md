@@ -62,11 +62,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Impetus
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 动力基金会（Impetus，前身为动力信托与私募股权基金会联合体 Impetus - The Private Equity Foundation）是 2002 年在英国伦敦成立的标杆性[[Venture Philanthropy\|风险慈善]]组织与跨国私募资本慈善联合体。该机构开创性地将私募股权（Private Equity，PE）的尽职调查、战略咨询、多年期核心资本与[[Return on Investment\|投资回报]]率纪律引入公共社会领域；作为关键母体节点，它于 2011 年联合[[Sutton Trust\|萨顿信托]]成功竞标并共同发起设立了英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），成为全球[[Evidence-Based Education\|循证教育]]运动底层重要的资本推动者（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6, 8–9]]）。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与中介创设历程
 > - **2002–2006 — 私募股权纪律引入英国慈善界** 动力信托（Impetus Trust）与私募股权基金会（[[Pupil Equity Funding\|PEF]]）相继成立，率先在英国推广“[[Venture Philanthropy\|风险慈善]]”（Venture Philanthropy）模式，主张超越传统的零散小额捐款，改用对有潜力的非营利机构进行多年期、重度参与的“控股型”投后管理与专业赋能（Traill, 2016；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
 > - **2011 — 联合[[Sutton Trust\|萨顿信托]]发起创立 [[Education Endowment Foundation\|EEF]]** 联合萨顿信托参与英国教育部设立独立留本基金的公开竞标；凭借其在私募股权界调动商业管理顾问与配比资金的强大实力成功胜出，共同发起设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），并获得教育部 1.25 亿英镑初始留本基金（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > - **2018–至今 — 跨国[[Policy Network\|政策网络]]映射与资本流动** 埃玛·罗威（Emma Rowe）通过政策[[Network Analysis\|网络分析]]揭示，Impetus 与萨顿信托、[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）存在深度的资助者与理念[[Co-affiliation\|共同从属]]（如美洲银行、普华永道、安理律师事务所等跨国机构的重复重叠）；这些跨国资本以 Impetus 为中继站，将金融化度量衡与治理逻辑深度嵌入主权国家的教育实证政策网络（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与跨国金融网络
 > - **受托人理事会（Board of Trustees）** 董事会高度由跨国私募股权合伙人、投资银行家与大型律所资深顾问主导，包括来自 Bain Capital、Apax Partners 与金融城精英机构的高级合伙人，直接把关资助决策与投后治理。
@@ -103,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **处境不利青年教育与就业投资组合** 长期集中扶持 IntoUniversity、Action Tutoring、The Brilliant Club 等全英顶级课外辅导与大学准入非营利机构，累计撬动数千万英镑配套社会资金。
 > - **青年机会晴雨表与政策报告（Youth Employment Index）** 联合顶尖智库发布针对英国“既未就业也未就学”（NEET）弱势青年的系统追踪数据，为下议院就业与养老金部提供政策建议。
@@ -117,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **受助学生与青年覆盖** 累计资助的教育与就业项目触达超过 40 万名英国处境不利背景儿童与青少年。
 > - **生态化制度辐射** 成功推动了英国教育部设立 1.25 亿英镑留本基金创建 [[Education Endowment Foundation\|EEF]]，树立了私市股权跨界参与国家教育因果实验的全球标杆。
@@ -130,8 +118,6 @@ updated: 2026-10-22
 > - **400,000+** （名） 旗下投资组合机构累计深度支持的低收入家庭青少年总数
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心学术与政策争议
 >

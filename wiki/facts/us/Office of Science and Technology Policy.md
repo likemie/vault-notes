@@ -67,11 +67,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Office of Science and Technology Policy
-
 ---
-
-## 机构定位与组织宗旨
 
 > [!claim] 核心定位
 > 科学技术政策办公室（Office of Science and Technology Policy, OSTP）是美国联邦政府在总统执行办公室（Executive Office of the President, EOP）内设立的最高法定科学技术政策参谋与跨部门统筹机构。其前身为 1962 年约翰·肯尼迪总统创设的科学技术办公室（OST），在经历越战期间尼克松解散总统科学顾问的严重政治危机后，于 1976 年由杰拉尔德·福特总统签署国会立法正式以常设法定局形式重建。OSTP 不仅赋予了总统科学顾问法定的制度化地位与宪政问责属性，更在冷战后历次国家大战略转型中充当最高政策操作中枢，并在 2026 年主导重构面向二十一世纪后半叶的国家创新体制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–40)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–ix)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革：从行政附属到法定中枢与体制重构
-
 > [!dev-timeline] 组织变迁与制度演变历程
 > - **1962 — 肯尼迪创设科学技术办公室（OST）** 肯尼迪总统在白宫内部设立非法定性质的科学技术办公室（OST），由总统科学顾问杰罗姆·威斯纳（Jerome Wiesner）执掌，开始制度化统筹日益庞大的联邦科技体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 > - **1973 — 越战冲突与尼克松裁撤科学顾问** 越战期间总统与学术界关系急剧恶化，尼克松总统视[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）为大学学界插手白宫的游说团，于 1973 年悍然解散 PSAC 并废除总统科学顾问职位，白宫科技决策中枢陷入真空。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
@@ -97,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理机制与法定操作界面
-
 > [!policy-design] OSTP 核心治理机制与政策工具箱
 > - **[[Metascience|元科学]]单元法定授权机制** OSTP 推动在各联邦科学机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]] 等）设立直属局长的独立[[Metascience|元科学]]部门，拥有法定实验预算与开展[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCT]]）的权限，对资助机制与评审有效性进行实证评估。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 > - **联邦研发预算战略指导（OSTP-OMB Joint [[Memos]]）** 联合白宫预算局向各部委发布绑定性研发优先事项指令，要求各机构在 2028 财年预算中重新平衡资助组合，向物理科学、工程、前沿计算与[[Pasteur's Quadrant|用启发性基础研究]]倾斜。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 86)]]
@@ -106,8 +98,6 @@ updated: 2026-10-22
 > - **公私协同与监管试验场开放** 理顺大学与国家实验室的技术许可壁垒，推动能源部 28 个世界级用户设施向产业初创企业开放，并在全国范围内推动各州设立实体技术[[Regulatory Sandbox|监管沙盒]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–41)]]
 
 ---
-
-## 关键制度特征与权力结构
 
 > [!tension] 白宫个人幕僚顾问 vs. 具有国会作证义务的法定机构
 > - **1976 年立法前的制度缺陷** 在福特政府之前，科学顾问仅属于白宫幕僚（White House Staff），缺乏法定依据；总统不仅可以随时撤销该职位，而且根据行政特权（Executive Privilege），国会无法强制要求科学顾问出席听证会作证。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心职能与旗舰产出
-
 > [!finding-cards] 关键战略报告与历史辐射
 > 1. **1994 年《[[Science in the National Interest 1994|科学与国家利益]]》（*Science in the National Interest*）** 克林顿与戈尔时期由 OSTP 主导编制，系统奠定了后冷战时期联邦资助基础科研转向经济[[Competitiveness|竞争力]]与社会繁荣的战略航标。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
 > 2. **2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》（*A Strategy for American Innovation*）** OSTP 参与主导，首次在联邦顶层设计中系统确立应对能源、卫生与先进制造等“宏大挑战”的使命驱动科研[[Paradigm|范式]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
@@ -128,8 +116,6 @@ updated: 2026-10-22
 > 4. **2026 年 7 月《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（*Science: A New Golden Age*）** 主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]呈交总统的历史性战略报告；以[[Pasteur's Quadrant|巴斯德象限]]取代失效的线性模型，提出重振科研人员与资助机制、掌握关键[[Research Translation|技术转化]]与制造、实现创新红利的区域与手艺普惠、在智能时代建立生成与核验并进的科学制度四大支柱，重构战后八十年来的联邦科研体制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–ix, 1–86)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心治理争议
 >

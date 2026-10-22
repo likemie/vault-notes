@@ -45,12 +45,9 @@ created: 2026-09-02
 updated: 2026-10-22
 ---
 
-# Illusion of Competence
 （能力错觉 / 虚假能力错觉）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 能力错觉（Illusion of Competence / Illusion of Knowing）是指学习者或认知主体在学习与[[Problem Solving\|问题解决]]过程中，因**外部线索的即时可得性、材料呈现的清晰性或文本表层语义的极度流畅性**，产生的一种严重的[[Metacognition\|元认知监控]]偏差，错误地将“容易理解、阅读顺畅或有现成答案可用”误判为“自己已经真正掌握、能够独立推导并内化了深层知识图式”。[[Argument_Li_2026_CEAI\|(Bjork et al., 2013; Li et al., 2026, pp. 2, 8, 10)]]
@@ -71,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 虚假能力错觉与真实认知掌握对比
 > | 比较维度 | **虚假能力错觉（Illusion of Competence）** | **真实认知掌握（Genuine Mastery）** |
 > |---|---|---|
@@ -83,8 +78,6 @@ updated: 2026-10-22
 > | **干预与破除途径** | 闭卷提取练习、反思性红队查错、[[Socrates\|苏格拉底]]追问 | 持续的刻意练习与变式迁移应用 |
 
 ---
-
-## 核心要素
 
 > [!feature] 能力错觉的核心心理机制与诱发维度
 > - **流畅性启发式误用（Misapplication of Fluency Heuristic）** 语法规范、词汇优雅的大模型文本降低了主观阅读难度，大脑自动将加工流畅性错误归因为自身智力胜任力。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 10)]]
@@ -151,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,16 +153,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1980 年代 — [[Metacognition\|元认知监控]]研究奠基** Markman 与 Glenberg 等提出“知晓错觉（Illusion of Knowing）”，揭示阅读中学生无法识别文本矛盾的普遍现象。
 > - **2013 年 — 生产性困难理论拓展** Robert Bjork 与 Elizabeth Bjork 系统阐述“能力错觉（Illusion of Competence）”，证明重复阅读制造虚假自信，而费力的提取练习才能建立真正记忆。
 > - **2026 年 — 生成式 AI 时代心智危机** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将能力错觉确立为解构大模型“语义流畅性陷阱”、[[Critical Thinking\|批判性思维]]侵蚀与学术声音剥落的核心认知心理学概念。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -183,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -193,8 +178,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育实证研究（涵盖全球高校本科生与研究生） | 系统综述与主题综合（PRISMA 2020） | 能力错觉、构想惰性（n=20）、被动顺从与 [[Causal Modeling\|SEM]] 路径检验 | 超过 45% 的学生在获得第一个顺滑回答后即停止深入探究（Awal, 2024; Azmi et al., 2024）；20 项实证明确报告顺从与惰性；SEM 检验表明被动工具调用显著负向预测反思（$\beta = -0.34$） | $p < .001$ | 证实语义流畅性引发的能力错觉是导致[[Generative Artificial Intelligence\|生成式 AI]] 交互中[[Critical Thinking\|批判性思维]]退化的核心心理中介 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学应用案例
 > - **创意写作中的“首方案强制否决教学法”（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）**

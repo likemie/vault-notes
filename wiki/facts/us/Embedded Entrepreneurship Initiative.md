@@ -42,11 +42,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Embedded Entrepreneurship Initiative
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 嵌入式创业者计划（Embedded Entrepreneurship Initiative, EEI）是由[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）于 2019 年正式设立的颠覆性深科技（Deep Tech）成果商业化加速计划。该项目旨在通过将具备丰富行业经验的资深商业高管、连续创业者与市场战略顾问，作为专职外部领导力量直接“嵌入”受 DARPA 资助的尖端科研课题组，弥补高校科学家与军工研究员在商业模式设计与风险融资能力上的短板，推动前沿实验室突破加速转化为具备市场生存能力的商业产品与国家安全能力。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–46)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解国防科技成果普遍存在的“高科技就绪度（[[Technology Readiness Level|TRL]]）但零商业就绪度（CRL）”瓶颈，消除顶尖科学家既不懂市场又无力组建商业运营团队而深陷成果转化[[Valley of Death|死亡之谷]]的顽疾。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–46)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 嵌入式创业者计划的核心干预假说在于：单纯提供科技研发经费无法催生商业成功；只有在研发早期阶段直接为技术发明团队配置具备股权分配权与商业决策权的专职“联合创始人级”外部商业领袖（如驻场 CEO 或首席商务官 CBO），并打通通往顶级私营风险资本的网络渠道，才能在保护国家安全知识产权的前提下实现技术的快速商业化变现。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–46)]]
@@ -77,16 +71,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2019 — 项目构想提出与小范围试点** [[DARPA]] 首期遴选数十个前沿电子与光子课题组试行“外部商业导师嵌入模式”，初步验证了商业专家介入对明确芯片终端应用场景的显著促进作用。
 > - **2020–2022 — 引入 In-Q-Tel 资本与导师网络深化期** DARPA 正式与 In-Q-Tel 达成全方位合作，设立专职商业化加速平台，引入全美顶级风险投资家、退役军工采购主管与连续创业者组成常态化顾问池。
 > - **2023–至今 — 与微电子生态全面联动与国家战略推广** 计划深度嵌入 DARPA [[Next-Generation Microsystems Manufacturing|下一代微系统制造]]（NGMM）与[[Microelectronics Commons|微电子共用体]]项目；在 [[National Science and Technology Council|NSTC]]《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中被列为联邦跨部门硬科技创业培育的示范模型。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–46)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起管理与政策监管方（[[DARPA]]）** 负责制定课题遴选标准，统筹调拨专项商业化推进经费并提供国家安全合规背书。
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对国防敏感技术面临的严格防扩散审查，设立专职合规顾问指导初创企业设计军民两用合规隔离架构。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** [[DARPA]] 为单个团队匹配的商业化辅助资金额、调动的商业高管导师人均辅导时长。
@@ -122,8 +110,6 @@ updated: 2026-10-22
 
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与治理反思
 >

@@ -71,7 +71,6 @@ citation_aliases:
   - "O'Connor, 2020"
   - "O'Connor (2020)"
 ---
-# Argument_OConnor_2020_AJLL
 
 ---
 
@@ -88,8 +87,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -102,8 +99,6 @@ citation_aliases:
 > 作者以读写的社会文化观为立足点，将[[John Hattie\|哈蒂]]的《VL》置于新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（Global Education Reform Movement, GERM）的政治历史脉络中。通过古德曼对全语言的核心定义，作者能够逐一检验哈蒂在元分析筛选中所依据的“概念分类”是否符合该教学法的本质，从而论证其数据输入与修正过程的主观偏见。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -120,8 +115,6 @@ citation_aliases:
 > | **政策文件样本** | 澳大利亚维多利亚州教育部发布的 10 项“高影响教学策略”（High Impact Teaching Strategies, [[Victorian HITS and Literacy Toolkit\|HITS]]）指南及读写教学工具箱（Literacy Teaching Toolkit）(p.141)。 |
 
 ---
-
-## 论证结构
 
 > [!argument-map]- 论证逻辑脉络
 > 本文的论证逻辑围绕[[John Hattie\|哈蒂]]如何通过操纵四项[[Meta-analysis\|元分析]]的数据，将[[Whole Language\|全语言]][[Effect Size\|效应量]]压低至 d = 0.06 的过程展开：
@@ -150,9 +143,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤一：数据输入的分类错误与时代错误
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一：数据输入的分类错误与时代错误
 > 哈蒂在计算全语言效应量时，直接引入了将全语言与早期“[[Language Experience Approach\|语言经验法]]”（LEA）混为一谈的元分析，导致底层数据存在严重的分类错误与时代错误 (p.144)。
 
 > [!critique-method] [[Steven Stahl\|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
@@ -167,9 +158,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤二：对负面结果的非批判性接受与偏见忽视
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二：对负面结果的非批判性接受与偏见忽视
 > 哈蒂在面对报告全语言产生极度负面效应（d = -0.65）的元分析时，完全放弃了方法论审查与学术警惕，选择性忽略了其中的计算错误以及作者强烈的右翼宗教政治偏见 (p.145)。
 
 > [!critique-data] 极端负面离群值与克拉申的数据重算 (Jeynes & Littell, 2000)
@@ -194,9 +183,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤三：对正面结果的选择性修正与定义裁剪
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三：对正面结果的选择性修正与定义裁剪
 > 哈蒂在处理显示全语言具有显著正面效应（d = 0.65）的元分析时，采用了截然不同的严苛标准，以“混入拼读”为由，人为删除其中表现突出的原始研究，强行将该元分析的效应量归零 (p.147)。
 
 > [!critique-logic] 哈蒂对全语言定义的概念曲解与双重标准
@@ -214,9 +201,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤四：数据对“故事”的屈从与教育新自由主义治理
-
-> [!claim|lead] 步骤四主张
+> [!claim] 论证步骤四：数据对“故事”的屈从与教育新自由主义治理
 > 哈蒂以“故事优先于数据”的解释学辩护，背叛了元分析作为客观统计替代方案和叙述性讨论的学术初衷；同时，这一伪科学结论被新自由主义下的技术官僚所利用，绑架了学校的一线教学实践 (p.142)。
 
 > [!critique-logic] “故事”对“数据”的凌驾与统计承诺的背叛
@@ -234,8 +219,6 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **有缺陷的数据输入** [[John Hattie\|哈蒂]]通过对 4 项高度分化的[[Meta-analysis\|元分析]]进行不加权算的算术平均，得出了[[Whole Language\|全语言]][[Effect Size\|效应量]]为 d = 0.06 的结论。然而，其中 [[Steven Stahl\|斯塔尔]]与米勒（Stahl & Miller, 1989）存在将早期[[Language Experience Approach\|语言经验法]]混同于全语言的分类与时代错误 (pp.144-145)。
 > 2. **非对称的数据审查** 哈蒂对极端负面值且计算存在多处反转错误的 [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）元分析（d = -0.65）未做任何审查即予以采纳；却唯独对显示正面效应的 Gee (1995) 元分析（d = 0.65）进行人工干预，删除三项研究并强行将其清零 (pp.145-148)。
@@ -250,8 +233,6 @@ citation_aliases:
 > - **d =0.65 → 0** Gee (1995) 元分析的原始向正效应量，被哈蒂以剔除 Trachtenburg (d=1.7) 等三项正面研究为手段强行清零 (p.148)。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 论[[Effect Size\|效应量]]评估的非责任性
 > 试图通过《VL》报告的效应量来定位教学实践是不明智的，而以此为基础制定公共政策决策则是不负责任的。(p.149)

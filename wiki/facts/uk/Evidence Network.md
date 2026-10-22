@@ -55,11 +55,7 @@ created: 2026-07-14
 updated: 2026-10-16
 ---
 
-# Evidence Network
-
 ---
-
-## 机构与网络定位
 
 > [!claim] 核心定位
 > 证据网络（Evidence Network）起源于英国经济与社会研究委员会（Economic and Social Research Council，ESRC）于 1999 年资助设立的“英国循证政策与实践中心”（[[UK Centre for Evidence-based Policy]] and Practice），是以伦敦大学玛丽女王学院（Queen Mary University of London）与伦敦国王学院（King's College London）等多所顶尖大学为核心节点建立的全国性跨部门[[Knowledge Mediation\|知识中介]]网络；在当代教育与公共治理语境中，它指涉连接学术科研界、政策决策层与基层实践者的关系型[[Knowledge Mobilisation\|知识动员]]网络架构（Relational Knowledge Mobilisation Network），致力于通过长期非交易性合作与多方对话打破学术孤岛，促进实证研究在政策制定与专业实践中的有效利用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17, pp. 330–335)]]; [[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
@@ -72,16 +68,12 @@ updated: 2026-10-16
 
 ---
 
-## 历史沿革与演变脉络
-
 > [!dev-timeline] 证据网络的发展演进历程
 > - **1999–2009 — ESRC 资助下的实体网络探索期** 依托英国循证政策与实践中心建立专门在线门户（`www.evidencenetwork.org`），广泛整合教育、公共卫生与刑事司法领域的实证证据，发布系列政策工作论文与循证方法指南，成为英国跨界[[Knowledge Mobilisation\|知识动员]]的先驱实验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17, pp. 331–333)]]
 > - **2010s — 职能内嵌与高校政策研究所转型** 随着 ESRC 专项资助周期结束，原网络门户逐渐由各大学内部实体机构承接升级——以伦敦国王学院政策研究所（Policy Institute at King's College London）为代表，大学将证据网络职能转化为常设性智库功能，持续为英国白厅（Whitehall）中央政府与国际组织提供政策咨询。
 > - **2010s–2020s — 现代国家网络与跨国生态扩散** 关系型证据网络模式在全球广泛扩散：在英国本土催生了涵盖教育、医疗等多领域的国家级“何者有效网络”（[[What Works Network]]）以及 2025 年创立的“证据交换联盟”（Evidence Exchange）；在国际上，非洲证据网络（African Evidence Network，AEN）等区域性跨部门网络迅速崛起；在威尔士政府 2021 年发布的《[[National Strategy for Educational Research and Enquiry\|国家教育研究与探究战略]]》（[[National Strategy for Educational Research and Enquiry\|NSERE]]）中，“积极融入国际证据网络”被正式确立为四大国家战略支柱之一。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织与网络协同矩阵
 > - **网络协调枢纽** 大学政策研究所、跨学科研究中心或中介智库秘书处，负责策划跨界活动并维护网络日常联络。
@@ -96,16 +88,12 @@ updated: 2026-10-16
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键功能与治理成效
 > - **确立关系型[[Knowledge Mobilisation\|知识动员]]典范** 证据网络打破了“研究生产—单向传递—被动采纳”的传统线性流水线迷思，实证确立了多方长期互动与深层信任在知识动员中的决定性中枢地位；
 > - **塑造大学与政府协作生态** 为当代英国高校构建“政策研究所”（Policy Institutes）并直接深度服务国家公共治理提供了可复制的组织[[Paradigm\|范式]]；
 > - **国际治理战略对齐** 为后发国家和地区构建本土[[Evidence Ecosystem\|证据生态系统]]提供了关键切口——如威尔士 [[National Strategy for Educational Research and Enquiry\|NSERE]] 将对接国际证据网络视为提升本土高校产能与政策质量的战略支柱。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 
 ---
-
-## 面临的挑战与批判反思
 
 > [!debates] 核心制度张力与实践困境
 >
@@ -119,8 +107,6 @@ updated: 2026-10-16
 > > 在高度政治化、充满党派利益博弈的政策制定环境中，网络所提供的中立严谨证据往往面临被决策者工具化剪裁（Cherry-picking）或因不符合既定政治立场而被刻意搁置的风险。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 123)]]
 
 ---
-
-## 相关条目
 
 > [!ref-table] 关联索引
 > | 条目 | 类型 | 关联说明 |

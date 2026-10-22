@@ -49,11 +49,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Schulqualität Allgemeinbildung
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2012 年由奥地利联邦教育、艺术与文化部（Bundesministerium für Unterricht, Kunst und Kultur, BMUKK；后更名为联邦教育部 [[Federal Ministry of Education and Research\|BMBF]]）联合各联邦州教育委员会联合颁布。
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 作为奥地利落实产出导向教育治理的核心载体，[[Schulqualität Allgemeinbildung|SQA]] 将宏观国家教育标准（Bildungsstandards）、全国统考数据监测、校本发展规划与新型学校督导整合进统一的质量循环闭合网络。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > [[Schulqualität Allgemeinbildung|SQA]] 确立了以单所学校为质量发展主体的治理架构，通过设立校级质量协调员、推行三年期校本发展规划（含教学改进与组织发展双主题），并以督导与校长之间的成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）建立契约式发展机制。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20, 33)]]
@@ -84,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2008–2010** 奥地利联邦议会通过《教育标准法案》，正式确立四年级与八年级国家标准与统考机制，启动 [[Schulqualität Allgemeinbildung|SQA]] 概念先导论证。
 > - **2012** 联邦教育部正式发布 SQA 实施指南，在全国普通中小学全面铺开；任命首批学校质量协调员并组织专项资质培训。
@@ -94,16 +86,12 @@ updated: 2026-10-22
 
 ---
 
-## 政策影响与实施效果
-
 > [!policy-impact] 政策影响与实证检验
 > - **学校质量文化的制度化建立** 实证调查显示，全奥地利超过 95% 的普通学校建立了常态化的校本自评制度并如期签署目标协定书，推动了学校从封闭运行走向数据自觉。
 > - **[[School Inspection\|学校督导]]职能[[Paradigm\|范式]]重塑** 将传统的“警察式稽查”成功转型为“协商伙伴与发展批判者”（Critical Friend），督导员在会谈中运用国家统考数据（Standardüberprüfung）引导校长聚焦微观课堂教学薄弱环节。
 > - **基层认同与执行[[Heterogeneity\|异质性]]** [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] 的实证追踪显示，在 [[Schulqualität Allgemeinbildung|SQA]] 导入初期，仅有 27.5% 的校长真正将质量工具转化为日常教学领导；部分资深校长与偏远小学由于缺乏专业数据解读支持，往往将发展规划视为“文牍主义负担”，呈现出显著的象征性应付与仪式化服从。
 
 ---
-
-## 争议与批评
 
 > [!warning] 制度争鸣与现实困境
 > - **文牍主义与行政负荷攀升** 基层教师工会多次批评三年期规划与阶段总结报告撰写耗费了大量备课时间，诱发形式主义表格填写。

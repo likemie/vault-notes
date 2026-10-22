@@ -119,11 +119,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Quasi-Experimental Designs
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment\|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design\|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design\|regression discontinuity]]），系统操纵[[Independent Variable\|自变量]]以检验因果假设的量化实验设计方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 317–318]]）。
@@ -143,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **认识论取向** 秉承[[Postpositivism\|后实证主义]]与[[Pragmatic Paradigm\|实用主义]]哲学取向，承认学校系统具有[[Open-Mindedness|开放性]]、社会关系复杂性与情境嵌套性，在坚持[[Causality\|因果推断]]逻辑的同时，以妥协性控制技术换取更高的[[Ecological Validity\|生态效度]]（Ecological Validity）。
 > - **因果识别定位** 采用[[Counterfactual\|反事实]]潜在结果逻辑，但因果识别依赖于**条件独立性假设（Conditional Independence Assumption, CIA）**——即假定在控制了基线[[Pre-test and Post-test\|前测]]和关键可观察协[[Variable\|变量]]后，组别分配与潜在结果在统计上条件独立。
@@ -159,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 准[[Experimental Research\|实验研究]]标准实施六步规程
 > 1. **选择非等对比较组** 依据地理区位、历史[[Academic Achievement\|学业成绩]]与生源特征，匹配选择与干预组最相似的自然对照学校或行政班级。
 > 2. **实施全面基线测量** 采集详尽的[[Pre-test and Post-test\|前测]][[Academic Achievement\|学业成绩]]与背景协[[Variable\|变量]]，严密核验两组基线等值性（[[Baseline Standardized Mean Difference\|Baseline Equivalence]]）。
@@ -170,8 +162,6 @@ updated: 2026-10-22
 > 6. **开展替代解释敏感性分析** 针对历史事件、测验敏感化、选择-成熟[[Interaction Effect\|交互作用]]及对照组代偿性努力开展[[Falsification\|证伪]]与安慰剂检验。
 
 ---
-
-### 准实验五大经典亚型
 
 > [!framework-table] 准实验五大经典设计亚型对比（基于 Cohen et al., 2011, Ch. 16）
 > | 设计亚型 | 经典符号模型 | 核心机制与控制优势 | 主要效度威胁与防范 | 典型应用情境 |
@@ -183,8 +173,6 @@ updated: 2026-10-22
 > | **仅后测非等对组设计<br>(Posttest-Only Non-equivalent)** | $\frac{X \quad O_1}{\quad\quad O_2}$ | 无法获取前测时的妥协设计；依赖事后统计匹配尝试控制已知背景变量 | 威胁：严重的初始选择偏倚；属于弱因果设计 | 突发教育事件评估或历史档案回溯研究 |
 
 ---
-
-### 量化分析与估计模型
 
 > [!formula-step] 公式步骤　双重差分基准估计模型（Difference-in-Differences）
 > $$Y_{it} = \beta_0 + \beta_1 Treat_i + \beta_2 Post_t + \beta_3 (Treat_i \times Post_t) + \sum_{k} \gamma_k X_{kit} + \varepsilon_{it}$$
@@ -231,8 +219,6 @@ updated: 2026-10-22
 
 ---
 
-## 政策与清算体系中的审查标准
-
 > [!policy-context] 准实验设计在联邦立法与证据审查中的制度定位与法理突破
 > - **从法定等级偏好到因果合法性确立** 在 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）中，联邦公法明文写入“优先青睐[[Random Assignment|随机分配]]实验（with a preference for random-assignment experiments）”，将准实验（QEDs）置于从属的二等地位；然而在 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）中，国会吸纳学术界质证，确立了更为严谨的[[Causality|因果推断]]法理：明确规定因果关系主张不仅限于随机实验，只要“在实质上排除所获结果合理竞争性解释的其他设计（other designs to the extent such designs substantially eliminate plausible competing explanations）”，准实验设计同样具备提出因果主张的法定合法性（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
 > - **[[What Works Clearinghouse|有效干预清算中心]]（WWC）审查规程的分离与细化** 在早期 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程草案中，准实验与实验一度被混合评估，引发学界对单一实验模板裁量准实验设计的抗议；WWC 在吸纳 47 条公众评议后，正式在规程中将准实验与随机实验拆分为两个独立审查部分，设立专章容纳[[Regression Discontinuity Design|断点回归设计]]（RDD），并增设 30 多项实施情境与设计特征作为因果调节[[Variable|变量]]进行编码（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 35–36]]）。
@@ -265,16 +251,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 自然班级和完整学校建制不可随意打散拆分时；学校强烈抵制被[[Random Assignment\|随机分配]]宏观组织决策（如[[Tracking\|能力分组]]分流、作息制度变革、校历调整）时；利用行政区划、政策试点边界或考试录取分数线开展回溯性因果评估时；弱势群体补偿性项目（伦理上不允许设立无支持的空白对照组）（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]；[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]）。
 > - **谨慎使用** 候选对照组与干预组在学区财政、生源[[Socioeconomic Status|社会经济地位]]上存在系统性鸿沟且无法通过统计匹配消除时；[[Attrition\|样本流失]]率极高且存在严重差异性流失时；需要向目标学段之外进行跨学段外推时（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 177–178]]）。
 > - **不适合使用** 完全缺乏基线[[Pre-test and Post-test\|前测]]数据、无法通过历史档案构建可信对照的单组事后研究；旨在推断复杂教育系统内深层主观体验、文化生态或哲学意义的[[Qualitative Research\|质性研究]]。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与偏误控制
 > - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线[[Pre-test and Post-test\|前测]]分数完全平衡，来自优势社区学校的对照组学生其自然认知成长斜率可能显著快于薄弱校干预组，导致因果估计产生系统性正向或负向偏倚（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 318–320]]）。
@@ -306,8 +288,6 @@ updated: 2026-10-22
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 审计证据：审计揭示二阶证据库中组间准实验、组内前后测与[[Correlational Research\|相关性研究]]违规混用（17% 混杂组间与组内）导致的效度崩溃。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 体系化梳理准实验五大经典设计（非等对控制组、时间序列、[[Regression Discontinuity Design\|断点回归]]、轮换对等），详析选择-成熟交互与均值回归等效度威胁（Ch. 16, pp. 317–324）。

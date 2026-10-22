@@ -51,11 +51,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Agglomeration Externalities
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **集聚外部性（Agglomeration Externalities）**，亦称集聚经济（Agglomeration Economies），指企业、研发机构与专业人才在特定地理空间内紧密相邻而自发产生的外部规模经济与正向生产率溢出效应。根据马歇尔（Marshall）经典理论，其微观机制由**专业化劳动力池共享（Labor Market Pooling）**、**本地化专业投入品与供应商配套（Input Sharing）** 以及**面对面非正式交互带来的技术与知识外溢（Knowledge Spillovers）** 三大要素构成；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83)]] 在产业政策与高科技[[Geopolitics|地缘政治视角]]下，集聚外部性构成了战后美国硅谷以及东亚半导体制造基地形成极端地理集中的核心经济动因，同时也构成了评价[[Modern Industrial Policy|现代产业政策]]经济效率损失的核心理论基准。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
@@ -92,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **高度稠密的专业劳动力池（Thick Labor Markets）** 集群内部聚集着大量具备精深制造经验与工艺排障直觉的工程师、技工与管理人员，使企业招募与人才重组的摩擦成本降至极低。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83)]]
 > - **深度嵌套的本地供应商与配套网络（Specialized Input Sharing）** 洁净室耗材、特种气体、高纯化学品、精密机加工维修与零部件配送网络形成小时级即时响应圈，极大压降了供应链库存与停机维护成本。
 > - **高频面对面的[[Tacit Knowledge|隐性知识]]外溢（Tacit Knowledge Spillovers）** 最前沿的先进制程调试参数与制造良率改进方案无法完全编码，高度依存于工程师跨企业非正式交流、学术研讨与同行流动中的[[Knowledge Exchange|知识交流]]。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82, 102–103)]]
@@ -138,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 纯市场效率集聚 vs 国家安全供应链去风险
@@ -173,8 +163,6 @@ updated: 2026-10-22
 > > - **经济地理怀疑派** 强调集聚外部性是数十年隐性技能与劳动力文化的历史沉淀，跨国代工厂在缺乏成熟工程人才的地区建厂将面临长期文化冲突与良率低下阵痛。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

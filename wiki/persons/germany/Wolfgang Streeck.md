@@ -62,11 +62,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Wolfgang Streeck
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国比较经济社会学家与政治经济学家，科隆[[Max Planck|马克斯·普朗克]]社会研究所（Max Planck Institute for the Study of Societies, MPIfG）荣休所长，柏林自由大学社会学荣誉教授，当代欧洲批判政治经济学与[[Theory of Gradual Institutional Change|制度变迁理论]]领军人物。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980年代–1990年代初 — 产业民主与多元协调资本主义** 探究战后德国社会市场经济为何能够兼顾经济效率与社会公平。
 >   - **代表著作** *Social Institutions and Economic Performance* (1992); *Works Councils* (1995, with J. Rogers)。
@@ -111,9 +105,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 制度绝非自我维系的和谐平衡或技术最优设计，而是蕴含深刻阶级张力与权力冲突的暂时政治停火协议；由于任何形式规则在践行中都面临认知不完备与利益抵触，制度设计与[[Rule Enactment|制度践行]]之间永远存在不闭合的缝隙。在长时段常规历史博弈中，行动者通过向外围叠加新规则、利用解释缝隙转用既有资源、策略性放任旧规则效能漂移或过度支取体制前提，完全能够在保持体制外壳连续性的假象下，累积完成颠覆性质的制度重塑。
 
 > [!citation-card] 规则设计与践行脱节作为内生演化根源
@@ -123,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 施特雷克与希伦（2005）的合著开创了[[Historical Institutionalism|历史制度主义]]内生变迁研究的新纪元；[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）在此形态学基础上进一步引入因果解释矩阵与行动者模型，确立了[[Theory of Gradual Institutional Change|渐进制度变迁理论]]。
 > - **方法路径** 倡导深度比较历史[[Process Tracing|过程追踪]]，要求学者穿透法律文本的表层条文，深入到劳资谈判、日常执法与规避策略的微观经验细节中检验制度实质功能。
 > - **跨学科辐射** 其资本主义危机与去组织化理论在社会学、批判法学与国际政治经济学（[[Implementation and Process Evaluation|IPE]]）中引发跨学科论战。
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **理论批评对象** [[Paul Pierson]] — 施特雷克与希伦（2005）系统批评皮尔逊福利国家紧缩理论中的“连续性偏误”，指出其忽视了无立法修改状态下的渐进侵蚀。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

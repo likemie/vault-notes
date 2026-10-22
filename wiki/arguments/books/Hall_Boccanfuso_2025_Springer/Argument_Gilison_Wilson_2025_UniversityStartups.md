@@ -81,7 +81,6 @@ citation_aliases:
   - "Gilison & Wilson, 2025"
   - "Gilison & Wilson (2025)"
 ---
-# Argument_Gilison_Wilson_2025_UniversityStartups
 
 > [!question]
 > [[University Spin-Out\|大学衍生企业]]（Spin-outs）常被浪漫化，学生宿舍里的灵感、辍学创业、一夜成功。但现实中，"成功的大学衍生企业才是真正的独角兽"(p.142)。
@@ -368,9 +367,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > **产业在衍生企业中最有价值的贡献**
 > - 提供"市场声音"（voice of the market），包括客户需求、竞争格局、成本驱动因素和商业可行性方面的洞察，是产业为刺激大学创新和创业成功所能提供的最重要、最普遍的高价值输入(p.148)
 > - 当产业在大学或初创企业的邀请下、在正确的时机进入时最有价值，而非产业主动发起衍生企业创建
@@ -398,9 +395,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “事实上，各种不利因素对大学初创企业非常不利，以至于那些成功的企业才算是真正的‘独角兽’。”
 > (“事实上，各种不利因素对大学初创企业非常不利，以至于那些成功的企业才算是真正的‘独角兽’。”
 > ("In fact, the odds are stacked against the [[University Spin-Out\|university-based startup]] so much so that the successful ones are the true 'Uni-corns.'"))(p.142)

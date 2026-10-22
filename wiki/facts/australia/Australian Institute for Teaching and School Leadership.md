@@ -58,11 +58,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Australian Institute for Teaching and School Leadership
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 澳大利亚教学与[[School Leadership|学校领导力]]研究院（Australian Institute for Teaching and School Leadership, AITSL）是澳大利亚联邦政府设立的全国性法定专业机构，于 2010 年正式运营，负责研制与推行全国教师与校长专业标准，并主导[[Initial Teacher Training|初始教师教育]]（Initial Teacher Education, ITE）项目的国家认证规程。在国家教育治理中，AITSL 扮演着连接联邦政策议程、州级教育行政与大学教师培养机构的中央协调枢纽。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 官方宗旨在于通过提供严谨的国家标准、专业资质认证指南与循证实践资源，赋能高素质教师队伍与卓越[[School Leadership|学校领导力]]，进而促进全体澳大利亚学生学业素养的提升。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2010–2014 奠基与国家标准确立期**
@@ -100,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（AITSL 董事会）** 由联邦教育部长直接任命的独立董事会，成员涵盖知名教育学者（如长期担任主席的[[John Hattie|约翰·哈蒂]]）、资深中小学校长、智库代表（如詹妮弗·巴金汉博士）与各州教育官僚代表。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 260)]]; [[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 > - **执行机构（管理团队）** 设立执行总裁（CEO）与常设业务局室，负责协调全澳标准落地、认证指南更新与教师[[Further Education|继续教育]]评估。
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > - **法定认证附表与绩效考核挂钩** 运用国家认证附表作为政策工具，将[[Initial Teacher Training|初始教师教育]]大纲合规性与大学教师培养机构办学许可、毕业生资质审核及联邦经费挂钩，形成全流程考核管理机制。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **《澳大利亚教师专业标准》（APST）** 确立全澳教师从“毕业生”到“首席教师”的专业知识、实践与参与三维度七大核心能力框架。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
@@ -128,16 +118,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **重塑全国教师专业[[Discourse|话语]]体系** 终结各州各自为政的资质审查分散局面，确立以国家专业标准为基准的专业能力共享语言。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, p. 11)]]
 > - **规训大学[[Normal School|师范教育]]大纲开发** 通过法定认证附表，从宏观专业标准把关延伸至具体的大学课程设计审查，大幅削减传统师范大学的课程自主权。[[Argument_Skourdoumbis_2024_AER|(Skourdoumbis & Rowe, 2024, pp. 5–6)]]
 > - **深耕学区中间领导提升落地保真度** 依托稳定的全国标准体系与学区中间层，为各州推行高影响教学策略（如维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]]）提供操作支柱，规避短期政治波动带来的制度损耗。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 259–260)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -57,11 +57,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Edmund Husserl
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利-德国哲学家、数学家，先验[[Phenomenology\|现象学]]（Transcendental Phenomenology）奠基人，先后执教于哈勒大学、哥廷根大学和弗莱堡大学。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1890s–1900s — 描述性[[Phenomenology\|现象学]]阶段（Descriptive Phenomenology Phase）** 主要关注数学与纯粹逻辑基础，批判当时盛行的心理学主义（Psychologism）。
 >   - **代表著作** 《算术哲学》（*Philosophie der Arithmetik*, 1891）、《逻辑研究》（*Logical Investigations*, 1900/1901）。
@@ -111,9 +105,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 胡塞尔主张哲学必须成为“严格的科学”（strenge Wissenschaft），其首要任务是探寻科学基础的真正源头，质疑日常生活中理所当然（taken-for-granted）的常识假定（Burrell & Morgan, 1979）。通过“回到事物本身！”（back to the things）的原则，穿透文化与象征符号中介的层层遮蔽，直观事物如何直接显现给我们；进而运用“[[Epoché\|悬置]]”（epoché）方法将整个自然态度与先入之见放入括号，达到对先验意识构成机制的纯粹洞察；并在晚期深刻阐明一切[[Scientific Method\|经验科学]]均奠基于主观体验的前理论“生活世界”，借助主体间性的互动与移情共筑客观实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
 
 > [!feature] 还原后的先验意识三要素
@@ -139,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] Burrell 与 Morgan 论胡塞尔对科学基础与常识假定的探究
 > 许多人视为[[Phenomenology\|现象学]]奠基人的胡塞尔，致力于探究科学基础的源头，并质疑日常生活中理所当然的常识假定。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
 >
@@ -148,9 +138,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 直接开创了欧陆[[Phenomenology\|现象学]]学派，深刻影响了海德格尔、萨特、梅洛-庞蒂等后继者的存在主义与具身现象学。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **方法路径** [[Epoché\|悬置]]和现象学还原方法成为[[Qualitative Research\|质性研究]]中[[Interpretive Paradigm\|诠释范式]]的核心反思工具，为超越表面行为记录、探究参与者深层主观意义提供了[[Epistemology\|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）转译并带入社会学中，成为社会现象学与常人方法学的基石，并在当代教师教育与芬兰[[Phenomenon-Based Learning\|现象本位学习]]中作为抵制课程原子化与工具主义的技术性批判资源。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 11]]
@@ -179,8 +167,6 @@ updated: 2026-10-22
 >   - **海因里希·李凯尔特（Heinrich Rickert）** 新[[Immanuel Kant\|康德]]主义者，围绕科学奠基与价值哲学展开论辩。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

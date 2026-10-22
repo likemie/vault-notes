@@ -55,11 +55,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Jerome E. Schnee
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名管理学家与产业经济学者，曾任哥伦比亚大学商学院副教授、罗格斯大学（Rutgers University）管理学院教授及系主任。
@@ -75,15 +71,11 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与学术发展
-
 > [!work-line] 代表性学术著作与文献
 > - **1978 — *Government programs and the growth of high-technology industries* (Research Policy)** 核心问题意识：大型空间与国防大项目如何驱动战后美国半导体与计算机产业确立全球优势。构建经济影响（研发资助、[[Assured Demand|确定性需求]]、促进竞争）、技术影响（前沿演进、[[Demonstration Effect|示范效应]]、方向引导）与[[Human Capital Theory|人力资本]]影响（企业间衍生与企业内转移）三维[[Analytic Framework|分析框架]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
 > - **1977 — *Research and Innovation in the Modern Pharmaceutical Industry* (with E. Mansfield et al.)** 深入分析制药工业研发成本、新药上市周期与政府药品规制政策对创新的影响。
 
 ---
-
-## 核心思想
 
 > [!claim] 核心学术思想
 > 杰罗姆·E·施尼（Jerome E. Schnee）的核心洞见在于：大型国家公共项目对新兴产业的核心驱动力，不在于政府自身去发明基础科学原理，而在于在技术商业化初期充当敢于支付早期溢价的确定性首购买家（[[Assured Demand|确定性需求]]），通过保障规模订单推动企业跨越学习曲线并释放 20%–30% 的制造成本暴跌，同时坚持技术指标择优发包以打破传统垄断巨头格局，辅以容忍人才跨企业离职创业的[[Human Capital Theory|人力资本]]流动机制，多维协同催生了具有全球主导力的高科技产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 20–22)]]
@@ -94,8 +86,6 @@ updated: 2026-10-22
 > *The impact of government programs on high-technology industries is multifaceted, encompassing direct R&D support, assured market demand, stimulation of competition, technological demonstration, and manpower development. Government procurement underwrote the early high-cost learning phase, enabling radical price declines that paved the way for commercial takeoff.* [[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 20–21)]]
 
 ---
-
-## 影响路径与学术贡献
 
 > [!influence-path] 影响路径
 > - **[[Demand-side Innovation Policy|需求侧创新政策]]奠基** 施尼关于[[Assured Demand|确定性需求]]与微观[[Learning Economy|学习经济]]结合的研究，直接启迪了[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]]）与雅各布·埃德勒（Jakob Edler）关于[[Demand-side Innovation Policy|需求侧创新政策]]的系统建构。

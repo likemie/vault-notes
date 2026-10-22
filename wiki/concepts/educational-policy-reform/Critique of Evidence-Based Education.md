@@ -118,11 +118,7 @@ created: 2026-07-14
 updated: 2026-10-20
 ---
 
-# Critique of Evidence-Based Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）批判指围绕 EBE 的[[Epistemology\|认识论]]前提、方法论基础、实践转化障碍和政治治理后果形成的多维度学术反思体系。这一批判阵营并非否定教育实践应参考经验研究证据，而是系统追问：什么算作合法证据？将医学临床的[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与一维[[Effect Size\|效应量]]排序移植到教育领域是否正当？“什么有效”（what works）的追问方式是否遮蔽了更根本的教育价值目的与民主审议？[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–495)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
@@ -144,8 +140,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Evidence-Based Education\|循证教育]]相关思潮与批判流派辨析
 > | 比较维度 | 循证教育批判（本概念） | 循证教育修正主义（证据知情／What Works 2.0） | 激进[[Interpretive Paradigm\|反实证主义]]（后现代／解构主义） |
 > |---|---|---|---|
@@ -156,8 +150,6 @@ updated: 2026-10-20
 
 
 ---
-
-## 核心要素
 
 > [!feature] 批判的四个核心维度
 > - **[[Epistemology\|认识论]]与哲学维度** 质疑 [[Evidence-Based Education\|EBE]] 将医学因果估计奉为最高等级的[[Theory of Knowledge\|知识论]]前提，揭示其忽视教育开放系统本质、否定学生施为能动性与割裂[[Epistemological Coherence\|认识论连贯性]]的根本缺陷。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 495–499)]]; [[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 6–8)]]
@@ -282,8 +274,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 循证教育批判四大核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -294,8 +284,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Evidence-Based Education\|循证教育]][[Critical Theory\|批判理论]]脉络演进
 > - **2004–2007 年 — 民主缺陷与哲学反思的萌芽** Hammersley 与 Biesta 发表《为何“什么有效”行不通》，首次提出“民主缺陷”概念，追问“为了什么目的”。
 > - **2010 年 — 三重[[Deficit Framing\|缺陷框架]]奠基** Biesta 正式确立知识缺陷、效力缺陷与应用缺陷的三重框架，将哲学批判拓展至存在论与实践论维度。[[Argument_Biesta_2010_SPE\|(Biesta, 2010, pp. 493–501)]]
@@ -305,8 +293,6 @@ updated: 2026-10-20
 
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -329,8 +315,6 @@ updated: 2026-10-20
 > - EBE 批判主要针对将 RCT 绝对化、推行刚性清单治理的极端政策情境；对于审慎将经验证据作为多元评估参考之一的温和实践，其批判效力具有一定边界条件。
 
 ---
-
-## 实证数据
 
 > [!finding-cards] 核心实证发现
 > 1. **跨清算中心评级严重冲突** 比较 12 个教育证据清理机构发现，多重评级项目中不同机构给出一致有效性结论的比例仅约 30%。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 3)]]
@@ -365,8 +349,6 @@ updated: 2026-10-20
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 个影响因素及 1,369 篇元分析 | 仅 19% 满足 PICO；数据提取复现率仅 0.66%；44% 效应量查无实据 | 瓦解宏观证据库的科学有效性宣称，揭示循证政策依据的底层虚脱 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] [[Evidence-Based Education\|循证教育]]批判核心文献索引
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 从[[Epistemology\|认识论]]、存在论和实践论系统确立 EBE 的三重[[Deficit Framing\|缺陷框架]]与民主缺陷批判。

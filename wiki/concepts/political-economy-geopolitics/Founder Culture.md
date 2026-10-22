@@ -64,11 +64,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Founder Culture
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 创始人文化（Founder Culture）指源自高科技创业与国家重大工程攻坚实践的组织治理与责任[[Paradigm|范式]]；其核心特征在于确立**权责对称**与**切身利益担当（Skin in the Game）**，要求机构领导者与决策者对组织在物理世界的最终治理实效（如建造战略重器、拯救生命、遏制犯罪与消除贫困）承担直接、长期且不可推卸的实质责任，反对[[Bureaucracy|官僚科层制]]中将程序合规、避险推责与微观道德表演置于治理成果之上的防卫型文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 14–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183, 187–189)]]
@@ -100,8 +96,6 @@ updated: 2026-10-22
 > | **治理产出** | 打破[[Innovation Desert\|创新荒漠]]，打造现代化战略工程与国防能力 | 固化流程低效与技术代差，使公共部门沦为创新洼地 | 制造[[Discourse\|话语]]极化与审查恐惧，导致实质治理机制瘫痪 |
 
 ---
-
-## 核心要素
 
 > [!feature] 创始人文化的核心支柱
 > - **切身利益担当（Stake in Success / Skin in the Game）** 核心决策者必须与组织的治理成败深度捆绑，杜绝“决策者免受后果冲击、一线群众承受治理恶果”的外部性脱节。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]
@@ -196,8 +190,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -209,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 创始人文化的理论与制度演变历程
 > - **1950s–1980s — 国家重大战略工程时期的“创始人型军政领袖”** 以海曼·里克弗（[[Hyman Rickover]]）主持美国核潜艇项目为代表，战略领袖以身家性命与职业声誉为担保，突破死板军令规程，以惊人速度交付国家战略重器。
 > - **1970s–1990s — 硅谷高科技创业生态的“商业创始人[[Paradigm|范式]]”** 随着风险投资与车库创业兴起，创始人文化作为对抗东海岸传统[[Bureaucracy|科层制]]公司的敏捷创新模式确立，强调股权激励、极度扁平化与使命驱动。
@@ -220,8 +210,6 @@ updated: 2026-10-22
 > - **2025 年 — 国家政治哲学与[[Technological Republic|技术共和国]]维度的系统重塑** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）将创始人文化从纯粹商业语境提升为国家治理与文明重构工具；通过融合创始人长期审美裁量、奥德修斯式制度自我约束、斯文森 300 年长程资产托管哲学与全员股权制度，主张打破公职禁欲迷思与[[Procedural Piety|程序虔敬]]，以权责对称重塑公共部门，消灭[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 14–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–189)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 209–212)]]
 
 ---
-
-## 争鸣与前沿
 
 > [!debates] 学术争议
 >
@@ -245,16 +233,12 @@ updated: 2026-10-22
 
 ---
 
-## 实践与应用
-
 > [!pathways] 在公共治理中培育创始人文化的实施路径
 > - **重构公职薪酬与权责对称激励** 破除圣徒迷思，参照私营市场高阶专业基准制定核心公职待遇，杜绝人才逆向淘汰。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183)]]
 > - **设立高权限国家工程突击特区** 在国防采办、关键基础设施与前沿科研中赋予战略领袖突破常规采购与人事[[Red Tape|繁文缛节]]的自主裁量权。
 > - **改革人事考核与容错评价机制** 将考核重心从“有无微观合规记录”转向“是否实质性解决国家战略难题”，包容实干领袖的非致命性格摩擦。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
 
 ---
-
-## 实证与历史数据
 
 > [!ref-table]- 历史与经验案例对照表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -270,8 +254,6 @@ updated: 2026-10-22
 
 ---
 
-## 跨学科关联
-
 > [!rel-table] 跨学科概念关联
 > | 学科领域 | 关联概念 | 关联机制与理论对话 |
 > |:---|:---|:---|
@@ -282,8 +264,6 @@ updated: 2026-10-22
 > | **政治哲学** | [[Scapegoat Mechanism]] | 揭示程序官僚体制如何利用微观道德猎巫将创始人型实干家异化为替罪羊 |
 
 ---
-
-## 条目关联
 
 > [!entry-map] 条目关联网络
 > | 关联条目 | 关系类型 | 核心说明 |

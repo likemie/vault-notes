@@ -75,11 +75,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Best Evidence Encyclopedia
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **最佳证据百科全书（Best Evidence Encyclopedia, BEE）** 是由国际著名[[Evidence-Based Education\|循证教育]]学者[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 1950–2021）团队于约翰斯·霍普金斯大学教育研究与改革中心（Center for Research and Reform in Education, CRRE）创立的大学学术型[[Educational Evidence Clearinghouses\|证据清算中心]]，受到[[Institute of Education Sciences\|美国教育部教育科学研究院]]（Institute of Education Sciences, IES）长期持续资助。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 7)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与演变脉络
-
 > [!dev-timeline] 组织发展历程
 > - **1986 — [[Best Evidence Synthesis\|最佳证据综合]]法（BES）创立** [[Robert Slavin\|罗伯特·斯莱文]]提出“最佳[[Research Synthesis|证据综合]]法”，倡导将[[Systematic Review\|系统综述]]的质性审慎与[[Meta-analysis\|元分析]]的定量加权相融通，奠定 BEE 审查的核心方法学基石。
 > - **2004 — BEE 平台由 JHU CRRE 正式设立** 获得美国教育部 [[Institute of Education Sciences\|IES]] 专项资助，针对全美 K–12 主流阅读与数学课程方案开展大规模学科元分析审查。
@@ -102,8 +96,6 @@ updated: 2026-10-22
 > - **2019 — 全球传播网络成熟** 旗下双周刊通讯《简报中的证据》（[[Best Evidence in Brief]], BEiB）向全球数万名教育者与决策者推送，并建立中英多语种国际合作网络。
 
 ---
-
-## 治理架构与质评规程
 
 > [!actor-grid] 组织治理架构
 > - **学术领袖与主任团队** 由[[Robert Slavin\|罗伯特·斯莱文]]与 CRRE 资深教授团队统筹，主持学科[[Meta-analysis\|元分析]]选题与方法学规程研制。
@@ -116,8 +108,6 @@ updated: 2026-10-22
 > - **加权平均效应量合成** 采用方差倒数加权元分析模型，依据[[Sample Size Determination\|样本量]]与测量精度对入选的 [[Randomised Controlled Trials\|RCT]] 与高质量 [[Quasi-Experimental Designs\|QED]] 进行定量合成。
 
 ---
-
-## 核心业务与审查体系
 
 > [!formula-step] BEE 最高评级[[Effect Size\|效应量]]门槛判定
 > BEE 对达到最高有效性评级的项目执行严格的定量门槛标准：
@@ -138,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **库容规模全美第二** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，BEE 贡献了 **124 个项目**，规模仅次于 [[What Works Clearinghouse\|WWC]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
 > - **奠定现代[[Meta-analysis\|元分析]]学科审查[[Paradigm\|范式]]** 其发表的数十篇阅读与数学综合元分析累计被引数千次，成为 WWC 与英国 [[Education Endowment Foundation\|EEF]] 研制教学工具包的重要基础文献。
@@ -152,16 +140,12 @@ updated: 2026-10-22
 
 ---
 
-## 典型案例与跨中心评级
-
 > [!warning] 跨清算中心评级分歧与共识案例
 > - [[Success for All]]（SFA）— SFA 是 Slavin 团队创立的旗舰全校改革方案，在 BEE 获得最高评级 **Strong Evidence**；在 [[What Works Clearinghouse\|WWC]]（阅读理解 Positive）、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 亦获得一致高度评价，成为跨机构高度收敛的干预典范。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 23)]]
 > - [[Open Court Reading]]（OCR）— BEE 将其评为 **Moderate Evidence**（合成加权 $ES = +0.13\text{ SD}$），与 WWC 的“潜在积极”及 [[Blueprints for Healthy Youth Development\|Blueprints]] 的“有望（Promising）”保持定性一致，展现了定量[[Meta-analysis\|元分析]]的整合优势。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 22–23)]]
 > - [[Peer-Assisted Learning Strategies]]（PALS）— BEE 将其小学数学与阅读版本分别评为 Moderate / Strong，肯定其[[Peer-Supported Learning\|同伴互助]]教学的高性价比与稳定提分效果。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 学术争议与利益相关性讨论
 >
@@ -178,8 +162,6 @@ updated: 2026-10-22
 > > - **WWC 模式** 优势在于精确呈现干预在不同认知维度上的精细化反应，避免平均效应量掩盖局部无效。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>

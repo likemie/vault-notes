@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Student Control over Learning
-
 > [!metax] [学生学习自主权 · Student control over learning](https://www.visiblelearningmetax.com/influences/view/student_control_over_learning)
 > 学生学习策略 › 学生导向干预
 >

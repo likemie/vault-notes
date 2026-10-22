@@ -48,11 +48,7 @@ created: 2026-08-11
 updated: 2026-10-22
 ---
 
-# IB Learner Profile
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学习者特征（IB Learner Profile）是[[International Baccalaureate\|国际文凭]]教育的核心使命宣言，包含 10 项特质（如探究者、思考者、反思者、胸襟开阔者等），旨在培养具有国际情怀的[[Lifelong Learning\|终身学习]]者。在课程实践中，它不仅是单一学科的德育目标，更是贯穿于所有学术科目与核心组件（[[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）的统一价值观，为跨学科[[Concurrency of Learning\|并发学习]]提供了稳定的教育导向。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, pp. 227–228)]]
@@ -80,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Whole Person Education\|全人教育]]目标** 超越纯认知学习，强调伦理、情感与社会责任感（如“有原则的”、“懂得关爱的”）。
 > - **跨界融合枢纽** 作为一致的价值观，鼓励教师和学生展现这些特质，从而促进对跨学科学习的更深理解。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]
 >
@@ -133,8 +127,6 @@ updated: 2026-10-22
 > **胸襟开阔与教学信念的转变**
 > [[Theory of Knowledge\|知识论]]（TOK）不仅使学习者特征变得“鲜活（brings it to life）”，拓宽了学生的思维，使学生变得更具“[[Reflexivity\|反思性]]”和“胸襟开阔”（在遇到不同观点时不直接轻信或拒斥，而是愿意倾听并处理分歧）；它同时也强烈地作用于教师。研究发现，在教授探究课程的过程中，教师也被迫在课堂上亲自示范（model）“探究者”和“冒险者”等特质，这种实践深刻重塑了教师自身的教学哲学，打破了传统指令性教学的局限。[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 4, 30, 55)]]
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -142,8 +134,6 @@ updated: 2026-10-22
 > | **师生双向重塑** | 探究性课程能使抽象特质落地，并反向重塑教师自身的教学哲学 | 知识论教学、教师专业发展、高阶思维培养 | Bergeron |
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

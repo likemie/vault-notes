@@ -60,11 +60,7 @@ created: 2026-08-28
 updated: 2026-10-16
 ---
 
-# OECD Rubrics for Creativity and Critical Thinking
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[OECD]] [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]量规
 > - **工具类型** 跨学科[[Authentic Assessment\|表现性评价]]量规（Cross-Disciplinary Assessment Rubrics）。
@@ -73,8 +69,6 @@ updated: 2026-10-16
 > - **实施方式** 嵌入日常学科课程教学与任务考核，教师与学生依据量规阶梯描述符进行自我评估、同伴互评与教师定性评价。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Creativity]] 与 [[Critical Thinking]] 的 $2 	imes 4$ 认知表现矩阵
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -88,8 +82,6 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!proc] 四级进阶表现标准
 > 量规将上述 8 个维度的表现划分为四个阶梯水平：
 > 1. **萌芽水平（Emerging / Level 1）** 在教师引导下进行基础识别或尝试提出观点。
@@ -99,15 +91,11 @@ updated: 2026-10-16
 
 ---
 
-## 测量学特性
-
 > [!finding-cards] 测量学特性与教学法价值
 > - **[[Ecological Validity\|生态效度]]（Ecological Validity）** 深度嵌入真实学科任务与探究过程，彻底克服了封闭[[Multiple-Choice Questions\|选择题]]把[[Higher-Order Thinking Skills\|高阶思维]]退化为再认技巧的[[Construct\|构念]]缺陷。
 > - **教评一体化（Formative Integration）** 不仅作为评分工具，更作为教师设计具有高阶认知挑战任务（Challenge Tasks）的教学法指南。
 
 ---
-
-## 使用情况
 
 > [!usage-cases] 使用情境
 > - **[[OECD]] 国际教改实验网络** 在全球 11 个国家的数十所高校与中小学开展跨国实证干预，成为 OECD 推动高教评价改革的旗舰工具。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 28, 30)]]

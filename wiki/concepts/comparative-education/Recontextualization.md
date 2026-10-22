@@ -87,11 +87,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Recontextualization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 再情境化（Recontextualization，学界亦译再脉络化、再语境化、再情景化）指特定知识、教育理念或政策[[Discourse|话语]]从原始生产场所被脱情境化挪用、重新定位、重新聚焦，并与其他既有话语和规则相关联，以构成自身新秩序的过程。在跨国教育转移与课程改革中，再情境化表现为接受者根据自身经验、意识形态议程与制度硬约束，主动从外来思想中选择性拾取、忽略、扭曲或重构某些元素并嵌入本土结构。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 33)]]; [[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]; [[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–602)]]
@@ -123,9 +119,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **生产、再情境化与再生产场所的[[Champ|场域]]分立** [[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）指出，[[Knowledge Production|知识生产]]语境（主要由学术界掌控）负责划定“不可思”（Unthinkable）的[[Epistemology|认识论]]界限；官方再情境化场域（Official Recontextualising Field, ORF，如教育部）依据政治合法性重组[[Discourse|话语]]；教学再情境化场域（Pedagogic Recontextualising Field, PRF，如大学教育院系、专业出版物）提供批判与调试；再生产语境则发生在基层学校日常实践中。
 > - **跨国五位置循环流动与层级变形** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）将再情境化拓展为全球教育场域五大结构位置模型：全球学术[[Space Production|空间生产]]专业知识；国际组织出于紧迫[[Pragmatic Paradigm|实用主义]]将其过度简化为去情境化的普遍处方（[[Global Educational Discourse|全球教育话语]]）；国家层面将其与既有规范折衷并置为政策大纲；本土学术界因[[Gatekeepers|守门人]]群体垄断而陷入依附与失声；基层教育机构在落地时则遭遇剧烈实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
 > - **选择性挪用与重构** 行动者绝非被动接收，而是从外来思想中选择性拾取符合自身诉求的元素，同时忽略或扭曲不契合的部分。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
@@ -149,8 +143,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -219,8 +211,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与批判
 >
 > > [!axis] 忠实移植的规范要求 vs 主动再造的经验事实
@@ -240,8 +230,6 @@ updated: 2026-10-22
 > > - **[[Argument_Wang_2025_CE|Wang and McLaughlin (2025, pp. 601–603)]]** 证实了实用主义再情境化的生存价值，但也指出了权力共享被排除的硬边界。
 
 ---
-
-## 实证数据与案例
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

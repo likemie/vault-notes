@@ -37,11 +37,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Bodmer Report 1985
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1985 年由英国皇家学会（The Royal Society）设立的专门委员会发布，委员会由人类遗传学家[[Walter Bodmer\|瓦尔特·博德默尔]]爵士（Sir Walter Bodmer）主持。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–5)]]
@@ -50,8 +46,6 @@ updated: 2026-10-22
 > - **制度位置** 英国战后最重要的科学政策里程碑之一，奠定了后续数十年英国科学传播、科研基金申请要求与中小学必修科学课程改革的基调。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 4)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 报告断言科学渗透于现代社会的每个角落，明确提出促进公众科学理解是全体科学家及其所在机构不可推卸的职业责任，呼吁将科学传播考核嵌入国家科研基金评审，并推行 16 岁前全员必修科学教育。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–6)]]
@@ -68,8 +62,6 @@ updated: 2026-10-22
 > *Science pervades our society. Most of our industry and much of our national prosperity are based on science … Science affects many, if not most, policy issues of national and international importance. It also affects a wide range of personal activities, from health and diet to holidays and sport.*
 
 ---
-
-## 时间线
 
 > [!timeline] 政策时间线
 > - **1985** 英国皇家学会正式发布《公众理解科学》（*The Public Understanding of Science*）报告（Bodmer Report）。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 4)]]

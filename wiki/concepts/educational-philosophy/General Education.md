@@ -40,8 +40,6 @@ created: 2026-08-23
 updated: 2026-10-07
 ---
 
-# General Education
-
 ---
 
 ## 定义
@@ -236,12 +234,10 @@ updated: 2026-10-07
 
 ---
 
-## 实证数据
-
-以下记录保留具体情境和解释边界，制度规模与采用情况不能直接等同于教育成效。
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> 以下记录保留具体情境和解释边界，制度规模与采用情况不能直接等同于教育成效。
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
@@ -259,8 +255,6 @@ updated: 2026-10-07
 > 六学科、共同核心与深度选项配合 EE、[[Creativity, Action, Service|CASS]] 和 [[Theory of Knowledge|TOK]]，把不同思想工具、个人研究与直接经验纳入文凭要求；具体设计与评价条件见课程形成史。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 43–57)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 研究索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987)]] 追踪欧洲和北美通识教育的制度分化，并说明多种思维方式如何进入[[International Baccalaureate|国际文凭]]的学科分布、课程核心和评价设计。

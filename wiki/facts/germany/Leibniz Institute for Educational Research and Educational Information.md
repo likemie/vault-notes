@@ -78,11 +78,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Leibniz Institute for Educational Research and Educational Information
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 莱布尼茨教育研究与教育信息研究所（德语：Leibniz-Institut für Bildungsforschung und Bildungsinformation, 缩写为 DIPF；曾用名：德国[[International Education\|国际教育]]研究所 German Institute for International Educational Research）是德意志联邦共和国历史最悠久、规模最大的国家级非大学实证教育研究与教育信息基础设施中枢。米特（[[Wolfgang Mitter]]）指出，DIPF 与[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]共同构成了战后西德大学体系之外的两大国家级比较教育实体研究支柱。研究所作为莱布尼茨学会（Leibniz Association）核心成员，受[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）与[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）联合资助与委托，主导编撰德国国家[[Comprehensive Education|综合教育]]报告（Bildungsbericht）、研发技术支持测评（TBA），并协同慕尼黑工业大学（TUM）与基尔莱布尼茨科学与数学教育研究所（IPN）共同组建[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]；[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]；[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1951–1964 — 战后创设与实证比较方法引入** 1951 年在黑森州法兰克福成立，由埃里希·希瑟（Erich Hylla）等学者主导，打破德国传统思辨教育学垄断，首创以量化统计、心理测量与国际比较为核心的实证研究传统。
 > - **1964–1977 — 跨州体制化与比较教育教席建制** 1964 年签署跨州协定转制为公法研究所，更名为德国[[International Education\|国际教育]]研究所（DIPF），成为各州文教部长会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）重要的实证咨询智库。米特（[[Wolfgang Mitter]]）指出，在此期间，DIPF 在舒尔策（Walter Schultze）与米特主持下设立了专门的比较教育研究实体与学术教席，与柏林[[Max Planck|马克斯·普朗克]]研究所共同成为战后德国大学之外的两大比较教育国家学术支柱。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
@@ -105,8 +99,6 @@ updated: 2026-10-22
 > - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、技术赋能测评与基础设施数字化** 2010 年与慕尼黑工业大学（TUM）、莱布尼茨数理教育研究所（IPN）联合成立国家国际教育比较研究中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]），DIPF 全权承担计算机化测验（TBA）与全套背景[[Questionnaire\|问卷]]研制；2018 年研究所更名为现名，系统运营全国教育信息门户 DIPF-Kompass 与德国教育云端资源。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 145)]]; [[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Trustees / Kuratorium）** 治理最高决策与监督机构，由 [[Federal Ministry of Education and Research\|BMBF]] 联邦代表、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 各州代表、科研机构学者代表以及社会公众人士共同组成，负责审议战略规划与财务预决算。
@@ -120,8 +112,6 @@ updated: 2026-10-22
 > - **教育数据与文献基础设施共享** 运营教育研究数据中心（FDZ [[Bildung]]），实施严格的学术数据脱敏、元数据标准标定，并维护全德最大的开放教育信息网络（Deutscher Bildungsserver）。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与产品矩阵
 > - **国家与联邦州联合教育报告（[[Bildung]] in Deutschland）** DIPF 牵头专家组每两年定期编制出版全德最高权威[[Comprehensive Education|综合教育]]白皮书，全面呈现国家教育体系全貌、财政投入、升学流动、移民融入与弱势群体公平性指标。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141, 145)]]
@@ -144,16 +134,12 @@ updated: 2026-10-22
 
 ---
 
-## 治理影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **确立德国跨学段[[Lifelong Learning\|终身教育]]宏观基准** 通过《德国教育报告》连续 20 年的定期发布，终结了德国教育统计长期割裂的局面，使全社会能够依据客观可[[Commensuration\|通约]]的数据评估教育扩张、早教普及与技能转型。
 > - **赋能国际大型测评的数字化转型** 依托 TBA 技术中心，DIPF 在推动 [[PISA]] 测验由纸笔施测全面转向计算机化自适应测评中发挥了核心技术中介作用。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **推动教育数据开放与基础设施共享** 构筑起覆盖全德的教育文献与研究数据开放生态（FDZ [[Bildung]] 与 BBF），极大降低了青年学者开展实证教育学研究的制度门槛。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

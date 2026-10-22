@@ -85,7 +85,6 @@ citation_aliases:
   - "Ulrichsen, 2025"
   - "Ulrichsen (2025)"
 ---
-# Argument_Ulrichsen_2025_UIR_Evolution
 
 > [!question]
 > 过去五十年间，大学与企业之间的创新驱动关系（University-Industry Relationships, UIRs）如何演变？哪些因素塑造了这些关系的规模、性质和重要性？理解这一演变对大学、企业和政府意味着什么？
@@ -319,9 +318,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “创新过程‘既不平滑也不线性，而且通常表现得不太规矩’。”
 > ("Innovation processes were 'neither smooth nor linear, nor often well behaved'.")(Kline & Rosenberg, 1986, p.285,引自 p.28)
 

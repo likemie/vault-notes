@@ -69,11 +69,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# Tennessee STAR Project 1985-1989
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 学生—教师成就比项目（Student-Teacher Achievement Ratio, STAR）是由美国田纳西州议会立法全额资助、田纳西州教育局主导开展的大规模 K-3 阶段[[Class Size\|班级规模]][[Randomised Controlled Trials\|随机对照试验]]（RCT），旨在为“大幅缩减班级规模是否能[[Causality\|因果性]]提升学生[[Academic Achievement\|学业成就]]”提供最高科学[[Evidence Standards\|证据标准]]的实证解答。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 5–6)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > - **核心问题导向** 终结长期悬而未决的“班级规模对学习有无实质影响”的政策争论，克服传统观察性研究中生源家庭背景自选择与高资历教师选班所引发的内生性混淆。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 6)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > STAR 项目假设：在儿童正式教育的起点阶段（K-3），将[[Class Size\|班级规模]]大幅压缩至 13–17 人，能显著增加教师针对个体学生的即时反馈与诊断性互动，改善课堂纪律与专注度，从而带来具有长期累积效应的学业增益。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 6)]]

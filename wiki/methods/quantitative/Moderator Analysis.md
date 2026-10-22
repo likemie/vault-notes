@@ -87,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 使用此方法的研究
-
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在三水平[[Meta-analysis\|元分析]]中通过[[Meta-regression\|元回归]]检验[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]测量类型（主观 vs 客观）、学段、年龄、地理区域与发表年份对两者相关的调节作用，并检验测量类型交互项（$Q_M(1) = 6.524, p = .011$）。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 以 [[Cochran's Q Test|Q 检验]]比较[[Framework for Teaching|教学框架]]、理论模型、对齐程度、成就测量、时长与学段对[[Epistemic Cognition\|认识论认知]]干预效应的调节作用。

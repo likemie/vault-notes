@@ -32,9 +32,6 @@ status: draft
 created: 2026-06-18
 updated: 2026-10-22
 ---
-# Confidentiality in Research
-
-## 定义
 
 > [!def] 核心定义
 > 保密是保护参与者隐私权的基本方式：研究者承诺不以任何可能识别个体或使个体可被追踪的方式披露参与者信息。这意味着虽然研究者知道谁提供了信息或能从所给信息中识别参与者，但他们绝不将这种关联公之于众；共享秘密的边界将受到保护（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 101–102]]）。
@@ -50,8 +47,6 @@ updated: 2026-10-22
 > - 不适用于已进入公共领域的信息 — 保密仅保护尚未公开的个人信息。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 保密 vs 匿名 vs 隐私
 > | 维度 | [[Confidentiality\|保密]] | [[Anonymity in Research\|匿名]] | [[Privacy in Research\|隐私]] |
@@ -83,8 +78,6 @@ Cooper and Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Coh
 
 ---
 
-### 保密承诺的可信度
-
 > [!warning] 保密保证与数据质量的关系
 > Kimmel (1988) 指出，一些敏感主题研究的潜在受访者在保密保证薄弱、模糊、不被理解或被认为可能被违反时会拒绝合作。保密保证在无害研究中似乎不影响合作率——因为大多数潜在受访者期待保密将被保护。但在[[Sensitive Research\|敏感研究]]中，研究者提供可信保密承诺的能力可能严重影响数据的有效性（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 101]]）。
 
@@ -93,8 +86,6 @@ Cooper and Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Coh
 ### 敏感研究中的特殊保密挑战
 
 在[[Sensitive Research|敏感研究]]中，保密面临两项特殊挑战（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 212–213]]）：
-
-#### 演绎披露
 
 > [!def] [[Deductive Disclosure\|演绎披露]]（Deductive Disclosure）
 > Boruch and Cecil (1979) 提出的概念：即使研究者没有直接披露姓名，读者仍可以通过重新组合和拼凑数据中的细节来唯一识别个体。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即使不具名，这些特征组合足以识别他（p.212）。
@@ -118,8 +109,6 @@ Cooper and Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Coh
 这一程序设计类似于双盲临床实验——研究者不知道参与者的真实身份，只知道 P001 说了什么、P002 报告了什么。Lee (1993, p. 179) 承认这在量化数据上比在质性数据上更容易实现——质性数据的叙述细节本身就可能暴露身份，即使姓名已被移除。
 
 ---
-
-## 争议与批评
 
 > [!tension] 保密是否应被打破
 > Wiles et al. (2008, p. 419) 讨论了保密是否应因公共或私人安全利益而被打破，涉及（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 102–103]]）：

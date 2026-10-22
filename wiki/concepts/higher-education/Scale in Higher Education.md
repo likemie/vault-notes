@@ -42,11 +42,7 @@ created: '2026-05-13'
 updated: 2026-10-22
 ---
 
-# Scale in Higher Education
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 在高等教育研究中，尺度（scale）是"一种被生产出来的社会度量，用于区分空间"（Marston & Smith, 2001, p. 615, cited in [[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 7]]）。尺度不是自然给定的，而是通过社会关系和实践被建构的。高等教育的活跃尺度包括：世界尺度（含自然环境）、全球尺度（人类社会世界层面）、泛国家区域尺度（如[[EU|欧盟]]、[[ASEAN|东盟]]）、国家尺度（法律、政策、拨款）、次国家区域尺度（城市、省份）、地方尺度（院校、研究中心、院系）和个体尺度（学者、学生）([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 7–8]])。
 
 > [!quote|notitle]

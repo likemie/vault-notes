@@ -45,11 +45,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Common Method Variance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 共同方法变异（Common Method Variance, CMV）是指由测量方法本身、而非所测[[Construct\|构念]]的真实差异造成的系统方差。当两个或多个构念使用同一种测量方法（尤其是同一份自陈[[Questionnaire\|问卷]]）获得数据时，测量方法共享的方法成分成为共同来源，使观察到的构念间相关被系统性放大，可能产生虚假或偏高的关系估计。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 9)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > - 不等于 随机测量误差：测量误差包含随机成分，共同方法变异专指与测量方法绑定、在多个测量间共享的系统成分。
 
 ---
-
-## 核心要素
 
 > [!feature] 共同方法变异的核心要素
 > - **方法共享来源** 自陈作答方式、同一评分者、相同施测情境等方法的共同特征在多个[[Construct\|构念]]测量中重叠。
@@ -86,16 +80,12 @@ updated: 2026-10-22
 > [!claim] [[Argument_Park_2026_TSC\|Park et al. (2026)]]
 > **双主观组合相关虚高** 在[[Meta-analysis\|元分析]]综合学生样本中[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的相关时，双主观（双自陈）测量组合的合并相关 $r = 0.509$ 显著高于双客观组合（$r = 0.317$）与混合组合（$r = 0.195$–$0.260$），测量类型及其交互项的[[Interaction Effect\|调节效应]]均达显著，方向符合共同方法变异放大观察相关的预测。经典方法学文献（Podsakoff et al., 2003）把这种共享作答倾向称为共同方法偏差的来源。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 9)]]
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **自陈测量放大观察相关** | 双主观测量组合的构念间相关显著高于客观与混合组合，指向共同方法方差 | 自陈[[Questionnaire\|问卷]]研究、元分析调节检验 | Podsakoff et al. (2003); [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

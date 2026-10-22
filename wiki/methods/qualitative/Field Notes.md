@@ -33,9 +33,6 @@ status: draft
 created: 2026-07-11
 updated: 2026-10-20
 ---
-# Field Notes
-
-## 定义
 
 > [!def] 方法定义
 > 田野笔记是研究者在观察现场或观察后尽快记录的文字材料，涵盖观察到的行为、对话、非语言线索、环境特征以及研究者自身的反应和初步分析。它是参与式观察和[[Non-participant Observation\|非参与式观察]]的核心数据载体，也是[[Case Study\|个案研究]]和[[Ethnography\|民族志研究]]的基础材料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 295–296)]]
@@ -51,8 +48,6 @@ updated: 2026-10-20
 >
 > *I filled thirty-two notebooks with about half a million words of notes made during nearly six hundred hours [of observation].* (King, 1979)
 
-## 研究程序
-
 > [!proc] Lofland（1971）的七条田野笔记指南
 > 1. **尽快记录** 观察后尽快记录笔记，短时间内遗忘的信息量非常少，但随时间推移迅速加速
 > 2. **训练快速书写** 训练自己快速写笔记，接受记录田野笔记预计需要与实际观察花费同样长的时间
@@ -61,8 +56,6 @@ updated: 2026-10-20
 > 5. **制作多份副本** 至少制作两份副本，最好在母版上打字以供复制。原件保留供参考，其他副本用作草稿进行剪切、重组织和重写
 > 6. **充分详细** 笔记应足够充分，以便数月后能充分唤起对任何描述事件的合理生动的画面。每次观察后至少写几页单倍行距的打字页
 > 7. **系统归档** 笔记应按条目归档和分类，便于后续检索和分析
-
-## 方法定位
 
 > [!method-position] 实践原则
 > - **知识观** 田野笔记不是对现实的透明记录，而是研究者在特定时刻的选择性建构——记录什么、忽略什么、如何表述都涉及研究者的判断
@@ -73,22 +66,16 @@ updated: 2026-10-20
 > [!warning] Wolcott 的核心提示
 > 在先前观察的笔记完成之前，绝不要恢复观察。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 296)]]
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 所有涉及参与式观察或[[Non-participant Observation\|非参与式观察]]的研究；[[Case Study\|个案研究]]；[[Ethnography\|民族志研究]]
 > - **谨慎使用** 研究者无法当场记录的情境（如[[Covert Research\|隐蔽研究]]，Patrick 在格拉斯哥帮派中需秘密记录）
 > - **不适合使用** 仅依赖[[Questionnaire\|问卷]]或实验数据、不涉及现场观察的研究
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 选择性记录（只记引人注目的事件）、记忆衰退（延迟记录导致细节丢失）、研究者疲劳（Wolcott 因无聊而影响记录质量）
 > - **适用边界** 田野笔记的质量严重依赖研究者的书写速度和现场条件
 > - **误用风险** 将田野笔记等同于客观事实；未做系统归档导致后期无法检索
 > - **补救方式** 尽快记录、打字而非手写、制作多份副本、与访谈和文件交叉验证
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] — 在[[Case Study\|个案研究]]章讨论观察记录（Lofland、Wolcott、Walker 等的建议，pp. 295–296）；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Ch. 23]] 介绍田野笔记的描述与反思层面、日志类型与[[Unit of Analysis\|分析单位]]。

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Peer Friendship
-
 > [!metax] [友谊 · Friendship](https://www.visiblelearningmetax.com/influences/view/friendship)
 > 课堂 › 课堂氛围
 >

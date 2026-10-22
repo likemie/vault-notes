@@ -74,11 +74,7 @@ created: 2026-05-12
 updated: 2026-10-22
 ---
 
-# Methodological Nationalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **方法论民族主义（Methodological Nationalism）** 是指在社会科学和比较教育研究中，未经反思地将民族国家作为划分社会空间与分析现象的默认/天然边界，从而把所有变化都理解为国家与国家之间横向地理差异的[[Epistemology\|认识论]]预设（Wimmer & Glick Schiller, 2002; Dale, 2005; [[Argument_Beech_2009_CE\|Beech, 2009a]]；[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b]]）。这一信念预设了“国家即社会”，并将世界性现象视为由国家内部生成，系统性地遮蔽了全球系统的独立存在和跨国[[Space of Flows|流动空间]]。
@@ -109,9 +105,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **国家作为唯一[[Unit of Analysis|分析单位]]** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009a, p. 348]]
 > - **遮蔽全球性现象** 系统性阻挡了对科学（就其[[Epistemology|认识论]]自主性而言）、生态和跨国网络等无法还原为国家属性的全球性现象的观察。
 > - **语言概念的潜在偏见** 比较教育常用的“跨国”（transnational，跨越国家）与“国际”（international，国家之间）均预设了国家作为活动基础；即使是“超国家”（supranational，国家之上）也仍是以民族国家为基准定位该空间。[[Argument_Beech_2009_CE|Beech, 2009a, pp. 348–349]]
@@ -189,8 +183,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -219,8 +211,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 > 
 > > [!axis] 国家与全球尺度的张力关系
@@ -240,8 +230,6 @@ updated: 2026-10-22
 > - **避开彻底去国家化的乌托邦** 对于如高等教育、大众基础教育等强国家属性的研究，完全放弃国家视角可能导致对[[Geopolitics|地缘政治]]权力、国家预算投入等关键现实制约的忽视。研究者需根据研究对象的空间属性，客观组合[[Relational Space|关系空间]]与领土空间框架，而非一味排斥国家层级。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

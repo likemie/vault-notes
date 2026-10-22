@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Worked Examples
-
 > [!metax] [样例学习 · Worked examples](https://www.visiblelearningmetax.com/influences/view/worked_examples)
 > 教学策略 › 学习意图
 >

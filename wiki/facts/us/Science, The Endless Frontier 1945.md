@@ -86,11 +86,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Science, The Endless Frontier 1945
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 《科学：无止境的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development]], OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门（Harry S. Truman）总统提交的划时代科技政策报告。该报告构成了二战后美国国家科研资助体制的基石宪章与[[Social Contract of Science|科学社会契约]]原型，亦是美国[[Technological Republic|技术共和国]]政产学研协同动员模式的总体蓝图；确立了政府出资、科学自治与长期公共回报的三位一体体制，催生了国家科学基金会（[[National Science Foundation]], NSF）与多元分布式资助网络，并在政策分类上制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
@@ -103,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 报告编制与契约演变历程
 > - **1944–1945 — 战时动员与报告起草呈递** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展起草；1945 年 7 月将报告《科学——无止境的边疆》呈交继任总统杜鲁门，将战时研发合同经验升华为国家科学资助蓝图。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1057–1058)]]
 > - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
@@ -114,8 +108,6 @@ updated: 2026-10-22
 > - **2026 — 八十年后的系统对照与体制重构** 2026 年 7 月 21 日，[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]呈交《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，全面对照 1945 年布什报告；文本保留了公共资助基础科学的核心合法性，但宣告单向分工管道彻底失真，系统开启向组合资助、新型组织、本土制造转化与生成核验协同的新时代重构。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–ix, 5–7)]]
 
 ---
-
-## 历史对照：1945 年布什报告与 2026 年克拉齐奥斯报告
 
 > [!contrast-table] 1945 年布什契约与 2026 年黄金时代战略核心维度对照
 > | 比较维度 | 1945 年布什报告（[[Science, The Endless Frontier 1945]]） | 2026 年克拉齐奥斯报告（[[Science A New Golden Age 2026]]） |
@@ -128,8 +120,6 @@ updated: 2026-10-22
 > | **时代[[Paradigm\|范式]]与基础设施** | 印刷期刊传播、数月至数年评审周期 | AI 假设生成（[[Genesis Mission\|创世纪计划]]）与黄金标准自动化核验网络 |
 
 ---
-
-## 思想支柱与三大制度性承诺
 
 > [!citation-card] 基础科学作为技术进步源泉的核心宣言
 > 基础研究是技术进步的起搏器。新产品和新工艺并非自发产生，它们建立在新的科学原理和新构想之上，而这些原理必须在最纯粹的科学探索中费力开发出来。如果放弃对纯基础科学的资助，工业界的应用研发很快就会陷入停滞。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
@@ -148,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者阵营与制度构想博弈
-
 > [!actor-grid] 战后科技政策治理[[Discourse|话语]]博弈
 > - **布什学派精英科学家阵营** [[Vannevar Bush|万尼瓦尔·布什]]与顶尖[[Research Universities|研究型大学]]领导层 — 主张科学家同行自主自治，强调资助完全不受政治和经济即时应用目的干扰的纯基础科学，政府只需出资而不干预。
 > - **新政民主派与基尔戈阵营** 参议员哈维·基尔戈（Harley Kilgore）与杜鲁门政府预算局 — 主张国家资助的科研成果必须归属全体纳税人所有，强调研发应直接服务于社会重大现实难题与地理平衡分配，主张由文官局长实施严格监管。
@@ -165,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键历史后果
 > 1. **制度创生：[[National Science Foundation|NSF]] 与现代大学研究体系** 1950 年正式创建国家科学基金会；推动大学实验室形成全球最具规模的基础科学探索网络，为大学-政府-产业三螺旋奠定财政基座。
 > 2. **制度承载：多元分布式资助网络的确立** 布什设想的中央科学基金虽经历立法妥协，但其倡导的契约逻辑最终被嵌入由 AEC、[[Office of Naval Research|ONR]]、[[National Institutes of Health|NIH]] 与 NSF 共同构成的分布式资助网络，避免了单一行政中枢对学术探索的垄断。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
@@ -176,8 +162,6 @@ updated: 2026-10-22
 > 6. **当代[[Paradigm|范式]]更替：2026 年《[[Science A New Golden Age 2026|科学：新的黄金时代]]》** 2026 年 7 月白宫战略报告正式宣告布什单向分工模型终结，确立组合式资助、新型科研组织（[[Focused Research Organization|FRO]]）、本土制造承接与生成核验协同体系，开启后布什时代国家科技体制的全面重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >
@@ -202,8 +186,6 @@ updated: 2026-10-22
 > > - **彻底超越单向组织形态** 否定布什报告关于基础研究必然自动转化为国内产业繁荣的假设，指出若无本土先进制造生态与试验场，科研成果将外溢为竞争对手的产业红利；必须以[[Pasteur's Quadrant|巴斯德象限]]、组合式资助与新型组织取代单一线性管道。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 34–46)]]
 
 ---
-
-## 相关条目网络
 
 > [!entry-map] 关键相关条目网络
 >

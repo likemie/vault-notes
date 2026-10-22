@@ -53,11 +53,7 @@ created: 2026-09-11
 updated: 2026-10-22
 ---
 
-# Media Logic
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 媒介逻辑（Media Logic）指大众传媒机构在识别、加工、组织与传播信息时所固有的一整套组织惯例、技术规则、格式规范与符号语法（Altheide & Snow, 1979; Mazzoleni, 2008）。在教育治理与公共政策视阈下，媒介逻辑表现为新闻媒介对负面危机、跨国竞争、人身冲突、即时轰动与极简排列表的系统性偏好；它迫使教育决策者不断积累与动员“媒介资本”（Media Capital），将复杂的长周期教育改革重塑为符合新闻生产规程的耸动警句与危机神话，促成了媒体与政治精英之间的深层共谋（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
@@ -89,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **新闻价值偏好（News Values）** 媒体偏好具有负面性（Bad News）、迫近性（Proximity）、人情冲突（Conflict）及重大经济后果的事件，倾向于将复杂教育实践简化为非黑即白的“输家与赢家”（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 112]]）。
 > - **格式与视觉排版语法（Format Constraints）** 极度崇拜可压缩为一维排列表的名次对比、全彩信息图及短小精悍的口号警句（Soundbites），对无法在 30 秒广播或报纸通栏中呈现的多维因果机制具有结构性排斥。
 > - **叙事模板化（Templating）** 惯常套用诸如“[[Falling Standards Template\|水平下降模板]]”等成熟文化原型，以极低的认知成本调动公众的集体焦虑与国家竞争危机意识。
@@ -151,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -169,8 +161,6 @@ updated: 2026-10-22
 > - **2018 — 跨国教育数据治理批判** [[Paul Morris\|Paul Morris]] 与 Sue Grey 深入剖析英格兰应对 [[PISA]] 2012 案例，阐发媒介逻辑如何与政治媒介资本共谋催生[[Mediatised Governance\|媒介化治理]]与[[Policy Avoidance\|政策规避]]。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

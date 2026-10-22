@@ -56,11 +56,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Claudio de Moura Castro
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 巴西著名教育经济学家、比较教育学者与国际发展金融实务专家；曾长期担任巴西联邦政府高阶科技教育官员，并在全球两大代表性[[Multilateral Development Bank|多边开发银行]]（[[World Bank|世界银行]]与[[Inter-American Development Bank|泛美开发银行]]）历任高级教育顾问与部门司长。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 学术与公共任职历程
 > - **1938** 出生于巴西米纳斯吉拉斯州。
 > - **1960s** 在巴西米纳斯吉拉斯联邦大学获得经济学学士学位，随后赴美国范德堡大学（Vanderbilt University）深造并获经济学博士学位。
@@ -87,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表性学术著作与专题报告
 > - **1991 — *O Governo Brasileiro, o BIRD e o [[Inter-American Development Bank|BID]]: Cooperação e Confronto*** 系统梳理巴西联邦政府与[[World Bank|国际复兴开发银行]]（BIRD/世行）及泛美开发银行（BID）长达数十年的合作博弈历史，奠定多边信贷微观政治学框架。
 > - **2000 — *Phylogenetic Approach to Portfolio Monitoring*（with A. Verdisco）** 运用发生学方法全量审查泛美行历史教育贷款组合，首次以实证数据揭示“设计端具备学习能力，执行端高度非学习固化”的组织悖论。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 471–472)]]
@@ -96,8 +88,6 @@ updated: 2026-10-22
 > - **2009 — *Can Multilateral Banks Educate the World?*** 收录于《国际比较教育学手册》（Cowen & Kazamias 编），全面构建[[Multilateral Development Bank|多边开发银行]]教育治理的制度主义分析[[Paradigm|范式]]。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–477)]]
 
 ---
-
-## 核心思想
 
 > [!claim] 核心学术主张
 > 卡斯特罗的核心思想立足于新制度主义经济学、组织社会学与政治博弈论的交汇点。他主张分析国际多边机构不能停留在空洞的[[Ideology Critique|意识形态批判]]（如简单斥为“新自由主义剥削机器”），而必须深挖其制度内核：多边银行在金融本质上是依托发达成员国信用担保发债的主权信用合作社；推动教育改革的真正动力在于数以亿计的信贷资金杠杆，而非单纯的学术理念宣讲；在现实借贷运作中，借款国内部政治生存逻辑始终支配着外部技术约束；而多边机构最深刻的危机在于执行端深陷合规报销与[[Disbursement-Driven Evaluation|投入导向评估]]泥潭，从而使其宏大改革构想频繁蜕变为“重物轻人”的现代白象工程。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
 > [!influence-path] 学术与政策影响路径
 > - **比较教育学理论路径** 推进了比较教育研究中从“外部文本批判”向“内部制度与组织人类学”的[[Paradigm|范式]]转型；通过揭示华盛顿多边技术官僚与受援国部长的微观互动，为[[Conditioned State Theory|受限国家理论]]、[[Policy Borrowing|政策借用]]与移植理论提供了极具实证质感的情境化反思工具。
 > - **国际组织社会学路径** 影响了对国际机构多重亚文化、[[Path Dependence|路径依赖]]与自发合规阻力的研究脉络；与[[Stephen P. Heyneman|海尼曼]]（Heyneman, 2003）关于[[World Bank|世行]]内部理论冲突的著述形成互补，确立了多边金融机构“精英经济学博士主导的学术傲慢”与“实务工程师在地妥协”的组织二元理想型。
@@ -128,15 +116,11 @@ updated: 2026-10-22
 
 ---
 
-## 论争与学术对话
-
 > [!tension] 核心论争：外源性依附施加 vs. 本土内生改革的借力
 > - **拉美左翼批判学者的指控** 巴西知名教育学者阿卡西亚·昆泽尔（Acácia Kuenzer, 2000）等激烈抨击联邦教育部针对技术教育实行的普职分流改革，将其定性为[[World Bank|世界银行]]等外源帝国主义金融资本剥夺拉美国家教育自主权、推行新自由主义规训的阴谋产物。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 462)]]
 > - **卡斯特罗的实证反驳与反讽** 卡斯特罗指出，该指控暴露出批判学者对基本制度事实的惊人无知：首先，该笔贷款来自[[Inter-American Development Bank|泛美开发银行]]而非世界银行（世行从未资助过巴西技术教育）；其次，该项“普职分流”政策构想，恰恰是卡斯特罗本人在入职国际金融机构十年前在巴西本土研究中率先提出的改革建议；在借贷谈判中，这项条件获得了巴西教育部长的全力拥护，因为部长正急需外部信贷契约作为战略筹码，以打破国内优势阶层将公立优质技校作为免费升学跳板的特权垄断。该案例成为反思“跨国规训神话”与“本土政治借力”的经典范本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 462, 467)]]
 
 ---
-
-## 条目图谱
 
 > [!entry-map] 关联知识网络
 > | 条目 | 类型 | 关系 |

@@ -56,11 +56,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Teacher Choices
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 教师选择（Teacher Choices）是英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）于 2018 至 2019 年设立的开创性敏捷评估资助流。该资助流旨在跳出传统教育循证高度依赖“向外部机构采购成套昂贵干预包（Manualized Programs）”的重资产[[Paradigm\|范式]]，转而将严格的[[Causality\|因果推断]]方法深入下沉至一线教师每天都要做出的、近乎零边际成本的微观日常教学决策，为公立学校常态教研提供轻量、快速且直接可操作的因果证据支撑。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **核心问题导向** 既往大规模学校[[Randomised Controlled Trials\|随机对照试验]]（RCT）绝大多数聚焦外部机构研发的成套项目（如昂贵的数字化阅读软件或外部专家入校指导），此类干预不仅需要学校额外挤占教育经费，而且在常规教学中容易因教师认知负荷过重而诱发严重的实施递送走样；相反，教师在常态课堂中面临的大量最基础的微观选择（如[[Homework\|作业]]批改方式、纪律管理沟通路径），长期处于“缺乏因果实证检验”的[[Empiricism\|经验主义]]真空之中。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过解构一线教学微习惯，在同一批参试教师或班级内部引入被试内交叉设计（Within-participant [[Repeated Measures Design\|crossover design]]）与高灵敏度的近端过程性指标（Proximal Outcomes），能够以极低财政成本、极短试验周期精确测定微观教学策略的因果净效益，使循证科学真正嵌入教师的日常决策本能。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
@@ -92,16 +86,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目演进历程
 > - **2018 — [[Paradigm\|范式]]反思与方案预研** [[Education Endowment Foundation\|EEF]] 评估团队基于前八年逾百项大规模 [[Randomised Controlled Trials\|RCT]] 经验总结，系统反思“重型干预偏好”引发的学校参与疲劳，正式提出 Teacher Choices 微观方法学框架。
 > - **2019 — 首批国家级试点立项** 针对全班反馈[[Homework\|作业]]批改与大班朗读策略两项典型课题，面向全英格兰公开招标独立评估团队，正式招募首批中小学开展微型现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 > - **2020–至今 — 融入[[Research Schools Network\|研究学校网络]]常态教研** 将 Teacher Choices 的方法学成果与工具箱下沉至[[Research Schools Network\|研究学校网络]]（Research Schools Network），鼓励一线公立教师将微型对照试验作为校本教学反思与同行听评课的科学工具。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 确立选题库、拨付小额微型试验经费、制定近端心理测量标准。
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - **一线执行主体** 公立学校科任教师 — 直接在常态班级生态中切换微观教学动作，完成观察日志与随堂小测记录。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心制度价值与实证突破
 > - **打破“循证等于花钱买项目”的虚假神话** 首次系统证明了因果实证方法能够直接作用于公立学校已有的、零额外成本的[[Business as Usual\|常态教学]]微生态，极大拓宽了 What Works 运动的实践辐射半径。
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - 评估敏捷性：数据反馈直接服务于当前学期的校本备课与教研改进。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 方法学争议与边界
 >

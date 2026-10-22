@@ -79,7 +79,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Hofer_1997_RER
 
 ---
 
@@ -95,8 +94,6 @@ issuing_organization: ""
 > - **贡献** 系统梳理并按主题分类比较了已有模型，澄清了认识论的边界，并提炼出了四维度的认识论理论。
 
 ---
-
-## 论证结构
 
 > [!chain-link] 核心论证逻辑
 > 作者并非只是简单罗列前人的模型，而是通过“破与立”的过程，论证了为何需要将[[Epistemological Beliefs\|认识论信念]]重构为一种“理论”。
@@ -317,9 +314,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 
 ---
 
-## 结论与启示
-
-> [!conclusion|notitle]
+> [!conclusion] 结论与启示
 > 真正的[[Epistemology\|认识论]]发展研究必须明确[[Construct\|构念]]的边界，将关于学习和智力的信念（外围成分）与关于知识和认知性质的信念（核心成分）区分开来。个体对这四个核心维度的理解，形成了一种类似个人理论（personal theories）的认知结构，指导他们在面对不同学术任务时的学习策略和动机。
 
 > [!implication]- 对未来研究的影响

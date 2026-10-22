@@ -48,11 +48,7 @@ created: 2026-05-01
 updated: 2026-10-20
 ---
 
-# Science and Technology Studies
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **科学技术研究（Science and Technology Studies, STS）** 是一个跨学科研究领域，主张科学知识与技术工具本质上是由[[Heterogeneity|异质性]]行动者网络、物质实践、制度规训与治理权力共同构成的社会技术成就，突破了关于外部客观世界透明镜像的静态设想。STS 拒绝自然/社会、科学/政治等二元对立，核心关注知识如何被生产、动员、验证、转译与施行（[[Performativity|performativity]]），以及统计指标、计算规程与评估工具如何深度嵌构并重塑现代教育治理与学校实践[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 253)]]。
@@ -74,8 +70,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学技术研究（STS）与传统科学哲学的系统辨析
 > | 比较维度 | 科学技术研究（STS） | [[Positivism\|实证主义]]科学观 | 传统[[Ideology Critique\|意识形态批判]] |
 > |---|---|---|---|
@@ -85,8 +79,6 @@ updated: 2026-10-20
 > | **典型分析切入点** | 指标公式、分类规程、培训脚本与合同条款 | 统计[[Reliability\|信度]]、效度与[[Effect Size\|效应量]]大小 | 政策文本中的隐性统治阶级利益 |
 
 ---
-
-## 核心要素
 
 > [!feature] 科学技术研究的核心分析构件
 > - **共同生产（[[Knowledge Co-production|Co-production]]）** 知识秩序与社会秩序相互塑造；[[Performance Indicators|教育指标]]既是统计科学成果，又是跨国治理的干预工具，两者紧密纠缠且不可分割[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]。

@@ -31,8 +31,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Attribution Theory
-
 > [!tip] 核心主张
 > Weiner 的归因理论认为，人类天然倾向于寻找事件的因果解释（做出因果归因），尤其是那些对自身重要的事件（如[[Academic Achievement\|学业表现]]）。这些因果归因反过来又影响个体在后续成就情境中的行为和情感反应([[Argument_Li_2012_Cambridge\|Li, 2012, p.60–61]])。
 

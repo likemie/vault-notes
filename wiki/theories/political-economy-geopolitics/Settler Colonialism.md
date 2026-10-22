@@ -40,11 +40,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Settler Colonialism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 定居殖民主义（Settler Colonialism）是一种特殊的殖民主义形式。其核心特征在于，定居者并非旨在剥削土著居民的劳动力，而是遵循“消除的逻辑”（logic of elimination），通过系统性侵占土地并以定居者人口替代土著居民，实现对土著政治、文化与肉体存在的结构性消除。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]]) 这一概念最早由帕特里克·沃尔夫（Patrick Wolfe, 2006）系统化提出。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 在中国语境中的应用
-
 > [!concept-lens] 新疆族群关系分析
 > 近年来，多位西方学者将定居殖民主义[[Paradigm\|范式]]用于分析中国新疆的族群关系。例如，迈克尔·克拉克（Michael Clarke, 2022）主编的《新疆紧急状态》（The Xinjiang Emergency）、詹姆斯·米尔沃德（James Millward）（2021）的《欧亚十字路口》（Eurasian Crossroads）修订版以及《新疆元年》（Xinjiang Year Zero, Byler et al., 2022）都采用了这一框架。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]])
 > 
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > - **关系重构** 该框架将新疆的族群关系重构为“定居殖民者—土著”的二元对立（汉人对维吾尔人及其他非汉族群），以此取代官方[[Discourse|话语]]中平等的“各民族团结/多数与少数”叙事。
 
 ---
-
-## 争议与批评
 
 > [!debates] [[Paradigm\|范式]]局限与去政治化效果
 > 

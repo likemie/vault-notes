@@ -73,11 +73,7 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Relational Space
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology\|本体论]][[Paradigm\|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络拓扑构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在跨国教育政策、批判[[Policy Network\|政策网络]]与社会-物质装配（[[Assemblage]]）视阈中，该范式不仅打破了传统“全球与地方”、“国家与国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 540]]）；更进一步指出，关系性空间不仅是主观人际互动，而且依赖于税法豁免法条、公司法人注册与证据量规等“耐用客体”（durable materials）的持续装配，从而在传统国家科层管辖之外构筑起具有排他性与支配性的异层治理拓扑。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522)]]
@@ -111,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **网络动态生产与重构空间** 空间并非被动容纳行动者的物理背景，而是由网络关系的配置、重构与[[Assemblage\|组装]]不断生产的动态产物；不存在单一的绝对空间，不同的社会行动者网络共存并创造各异的实践空间。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015)]]
 > - **空间是社会过程的效果而非容器** 空间被界定为社会、政治与经济过程的动态生成结果（Effect），其外延随着行动者卷入程度与交互强度的增减而发生拓扑[[Shape-Shifting\|形变]]。
 > - **耐用客体对关系空间的物理化锚定（Embodiment in Durable Materials）** 关系空间不仅是由主体互动维系的主观交往空间，而且借助物理和法律实体的“耐用材料”（如公司法法人章程、法定税法修正案、因果推论量规）获得长程延展与制度刚性；耐用客体将特定利益集团的意志固化为客观治理规则，使其免受民主政党轮替冲击。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]
@@ -178,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -199,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 关系性网络拓扑是否会消解国家领土主权的硬约束
@@ -219,8 +209,6 @@ updated: 2026-10-22
 > 关系性空间[[Paradigm\|范式]]最适用于分析多边互动频繁、信息开放度高且积极参与国际治理对话的政策[[Champ\|场域]]；对于制度极度闭锁、严厉限制跨国网络交往的极权或孤立环境，其实证适用性会受到物理行政边界的强力挤压。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

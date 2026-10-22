@@ -40,8 +40,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Sociology of Valuation and Evaluation
-
 > [!info] 定义
 > 评估与赋值社会学（Sociology of Valuation and Evaluation）是由 Lamont（2012）在 Annual Review of Sociology 中概括的一个比较研究领域。它关注评估（evaluation）、量化绩效测量（quantitative performance measures）和序数排名（ordinal rankings）如何塑造个体和机构的社会地位——以及这些评价工具本身的建构、使用和社会效应([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.798]])。
 

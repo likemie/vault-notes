@@ -40,11 +40,7 @@ created: 2026-10-08
 updated: 2026-10-16
 ---
 
-# Cognitive Decoupling
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **认知脱钩（Cognitive Decoupling，亦称事实与价值解耦）** 指个体在处理复杂社会、政治或科学命题时，能够将经验层面的**描述性事实（Descriptive Claims，即“事实是什么”）** 与其引发的**规范性道德判断（Normative Claims，即“是否正当/应不应该”）** 以及**言说者的身份背景（Identity of the Speaker）** 进行有效剥离、独立评估的批判性认知理性能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]
@@ -61,8 +57,6 @@ updated: 2026-10-16
 
 ---
 
-## 核心机制与认知障碍
-
 > [!contrast-table] 认知脱钩与认知耦合的运作模式对比
 > | 认知维度 | 认知脱钩（Cognitive Decoupling） | 认知耦合／道德绑架（Cognitive Coupling） |
 > |---|---|---|
@@ -72,8 +66,6 @@ updated: 2026-10-16
 > | **[[Epistemology\|认识论]]后果** | 促进科学求真、精准风险预判与理性公共政策制定 | 导致[[Discourse\|话语]]审查、学术禁忌与集体认知盲区 |
 
 ---
-
-## 认识论危机与战略后果
 
 > [!critique] 认知脱钩能力退化对国家治理与技术的威胁
 > 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，当代学术界与公共舆论最严重的智识危机之一，就是将“指出客观事实”（如特定国家的科技垄断或历史主导地位）等同于“支持该事实的道德正当性”。当知识界丧失了认知脱钩能力，便无法深入剖析西方工业与科技繁荣的真实制度成因，甚至连讨论地缘[[Competitiveness|竞争力]]量对比都成为禁忌。正如[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在1949年所警告的，纳粹德国在近炸引信研制上的失败源于傲慢与道德狂热，而非技术无能；唯有保持高度的认知脱钩与事实求真能力，技术精英与战略家才能在残酷的地缘科技博弈中立于不败之地。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]

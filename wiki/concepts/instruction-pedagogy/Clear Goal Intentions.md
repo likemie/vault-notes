@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Clear Goal Intentions
-
 > [!metax] [明确的目标意图 · Clear goal intentions](https://www.visiblelearningmetax.com/influences/view/clear_goal_intentions)
 > 教学策略 › 学习意图
 >

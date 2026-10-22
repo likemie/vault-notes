@@ -69,7 +69,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Jovchevski_2026_PT
 
 ---
 
@@ -86,8 +85,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 四大核心理论支柱与[[Analytic Framework|分析框架]]
 > | 理论支柱 | 核心理论源流与代表学者 | 解释功能与理论角色 |
 > |---|---|---|
@@ -100,8 +97,6 @@ issuing_organization: ""
 > 论证以工效学认知启发式模型（弱自动化偏差）与规范认识论（强自动化偏差）的分野为起点，建立过度信任导致[[Epistemic Deference|认识论顺从]]的核心理论定性；进而通过程序主义与实质关系自主性理论，推导强顺从如何造成信念修正功能性瘫痪与认识权威剥离；随后结合基于生命尊严的道德哲学，揭示人在回路退化为形式化橡皮图章对道德受托责任的背离；最终整合可撤销推理的[[Defeater|击败者机制]]与社会认识论摩擦，将伦理批判转化为反思机器与反驳型击败者的交互设计架构，完成从概念辨析、认知机制、道德批判到系统工程落地的完整论证链条。（pp. 4–25）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 核心材料与分析路径 |
@@ -134,8 +129,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 论文整体论证逻辑演进图
 > ```mermaid
 > flowchart TD
@@ -155,9 +148,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一　自动化偏差必须依据对矛盾证据的认知卷入划分为弱偏差与强偏差两类实质形态
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　自动化偏差必须依据对矛盾证据的认知卷入划分为弱偏差与强偏差两类实质形态
 > [[Automation Bias|自动化偏差]]不能被简单归结为单一的注意懈怠；必须根据操作者对矛盾证据的接触与认知卷入状态，严格区分为以认知吝啬和过失疏忽为特征的弱自动化偏差，以及以[[Trust Calibration|过度信任]]和[[Epistemic Deference|认识论顺从]]为特征的强自动化偏差。（pp. 4–11）
 
 #### 1. 弱自动化偏差源于认知吝啬与警觉性替代，在伦理上构成应知而未注意的过失疏忽
@@ -189,9 +180,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二　强自动化偏差从信念修正能力与社会技术权威两方面系统破坏人类的自主能动性
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　强自动化偏差从信念修正能力与社会技术权威两方面系统破坏人类的自主能动性
 > 强自动化偏差对操作者自主能动性的破坏具有双重根源：在程序主义维度表现为理性信念修正能力的病理断裂，在实质主义维度表现为社会技术系统对个体合法认识权威的结构性削弱。（pp. 11–17）
 
 #### 1. 程序主义视角下连续顺从错误输出表明操作者的理性信念修正机能陷入功能性瘫痪
@@ -222,9 +211,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　强自动化偏差使人在回路退化为形式化橡皮图章并背弃不可让渡的道德审思义务
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　强自动化偏差使人在回路退化为形式化橡皮图章并背弃不可让渡的道德审思义务
 > 高风险与关乎生死存亡的重大决策必须依托具备同理心与尊严敬畏的人类道德审思；强自动化偏差架空了[[Meaningful Human Control|有意义的人类控制]]，使操作者退化为法律免责的橡皮图章，实质上构成了对生命尊严与道德受托义务的违背。（pp. 17–20）
 
 #### 1. 关乎生命尊严的强制性裁决必须包含真实人类道德审思，机器天然缺乏道德理解力
@@ -245,9 +232,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤四　向人机决策回路注入认识论摩擦是校准批判性信任与恢复抗辩权的关键设计路径
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　向人机决策回路注入认识论摩擦是校准批判性信任与恢复抗辩权的关键设计路径
 > 克服强自动化偏差不能寄希望于操作者的自发警惕，而必须在人机交互回路中系统性注入[[Epistemic Friction|认识论摩擦]]，利用反思机器与[[Defeater|反驳型击败者]]重构操作者的审思所有权与可抗辩性。（pp. 20–25）
 
 #### 1. 反思机器在关键决策节点通过开放追问重构人类的审思所有权与认知投入
@@ -275,8 +260,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心理论与设计发现
 > 1. **弱与[[Automation Bias|强自动化偏差]]的二元分野** 确立了未查阅证据的弱偏差（过失疏忽）与已知矛盾证据仍顺从的强偏差（[[Epistemic Deference|认识论顺从]]）的本质差异。（p. 1）
 > 2. **自主能动性的双重侵蚀机制** 阐明强自动化偏差既破坏了个体程序性的信念修正机能，又在社会技术架构中剥夺了个体的合法认识权威。（pp. 12–17）
@@ -290,8 +273,6 @@ issuing_organization: ""
 
 ---
 
-## 关键引用
-
 > [!citation-card] [[Automation Bias|自动化偏差]]的伦理与道德核心危害（Jovchevski et al., pp. 6–8）
 > 我们主张，这种顺从之所以在伦理与道德上令人不安，是因为它（1）干扰了用户自主能动性的行使，并且（2）在高风险决策情境中损害了人类履行行使人类判断的道德义务。为了应对这些关切，我们在本文最后部分提出了两种在人类操作者与决策支持系统交互中引入[[Epistemic Friction|认识论摩擦]]的设计干预：反思机器与[[Defeater|击败者]]。这两种工具均旨在促进[[Reflexivity|反思性]]卷入并培育对系统建议的批判性信任。（p. 4）
 >
@@ -303,8 +284,6 @@ issuing_organization: ""
 > *Unlike an undercutting defeater, which would challenge the reliability of the input data or the system's processing pipeline, a rebutting defeater introduces evidence that supports an incompatible diagnosis. When the system recommends Condition A, the rebutting defeater might automatically display clinical indicators from the patient record... that statistically correlate with Condition B rather than Condition A... In each case, the defeater directly contests the system's recommendation by supplying counterevidence, inciting the clinician to exercise one's judgment on whether the automated cue should be accepted, qualified, or rejected.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与现实挑战
 > 1. **反思交互的形式化与例行公事化风险** 任何制度化反思实践均存在被操作者退化为机械敷衍应对的风险，长期使用中用户可能与大模型产生相互妥协的浅层交互模式，需未来研究持续探索维持认知挑战的动态策略。（pp. 22–23）

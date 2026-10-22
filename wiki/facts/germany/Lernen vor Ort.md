@@ -46,11 +46,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Lernen vor Ort
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > “地方学习”计划（Lernen vor Ort / Local Learning）是[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）联合欧洲社会基金（[[English Schools Foundation Hong Kong\|ESF]]）及多家大型私人慈善基金会（如贝塔斯曼基金会 Bertelsmann Stiftung、赢创基金会 Evonik Stiftung 等）在 2009 至 2014 年间实施的重大全国性地方教育治理资助工程。该项目旨在赋能德国基层市镇与独立县区（*Kommunen*），推动建立地方层级的数据驱动型教育管理（Kommunales Bildungsmanagement）与地方教育监测报告体系（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **核心问题导向** 打破传统德国地方教育碎片化、各职能部门（学校局、青年局、社会救助局、劳工局）数据孤立分割的局面，强化地方政府对全域教育生态的自主统筹与循证调控能力（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 该计划假定：通过在市镇层面整合跨部门教育与社会人口学数据、定期编制标准化地方教育报告（Kommunale Bildungsberichterstattung）并引入第三方智库与基金会提供管理咨询，地方政府能够建立起超越传统学校围墙的[[Lifelong Learning\|终身教育]]治理网络，实现对弱势群体学业过渡的精准干预（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
@@ -85,16 +79,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2009–2012 年 — 第一期试点与跨部门数据架构搭建** 选定 35 个示范县市建立地方教育管理办公室，打通跨部门数据通道，发布首批地方教育报告（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 142]]）。
 > - **2012–2014 年 — 第二期深化与质量评估** 重点推进数据报告在地方议会与行政决策中的实际应用，建立联邦级交流平台与标准化监测模板库。
 > - **2015 年至今 — 结项后制度化转化（Transferagenturen）** 资助期结束后，[[Federal Ministry of Education and Research\|BMBF]] 设立全德 9 所区域转移机构（Transferagenturen Kommunales Bildungsmanagement），将“地方学习”产出的监测工具与治理模型向全德 300 多个非试点县市扩散推广。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与顶层资助方** 联邦教研部（[[Federal Ministry of Education and Research\|BMBF]]）提供政策框架与资金保障。
@@ -114,15 +104,11 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 核心学术与政策影响
 > - **基层数据透明化与孤岛破除** 推动地方建立了首批涵盖人口变迁、贫困分布、语言测试及升学率的[[Comprehensive Education|综合教育]]数据库。
 > - **联邦穿透州级边界的[[Rescaling\|尺度重组]]典型案例** 德国宪法将学校事务完全划归各州，联邦不得直接干预学校；[[Federal Ministry of Education and Research\|BMBF]] 借助“地方学习”这一以市镇社会管理为名的专项资助，成功将联邦影响力和循证监测逻辑直接植入基层学区，形成了典型的[[Rescaling\|尺度重组]]与[[Topological Spatialisation\|拓扑空间化]]治理（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

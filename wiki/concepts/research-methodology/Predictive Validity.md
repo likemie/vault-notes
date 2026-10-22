@@ -81,8 +81,6 @@ created: 2026-06-23
 updated: 2026-10-20
 ---
 
-# Predictive Validity
-
 ---
 
 ## 定义
@@ -248,12 +246,10 @@ updated: 2026-10-20
 
 ---
 
-## 实证数据
-
-[[Meta-analysis|元分析]]研究为认知潜能的预测效度提供了大规模量化基准。
-
 > [!ma-table]- [[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> [[Meta-analysis|元分析]]研究为认知潜能的预测效度提供了大规模量化基准。
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|

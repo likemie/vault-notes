@@ -53,11 +53,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Dissimilar Units
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 非同质单位困境（Dissimilar Units Constraint）是比较社会科学与比较教育学中的核心方法论命题与[[Epistemology|认识论]]限制，由社会学家[[Neil Smelser|尼尔·斯梅尔塞]]（Neil Smelser, 1976）系统阐发并由[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust|Val D. Rust]]）等人引入比较教育学。该命题指出，比较研究最根本的复杂性在于其[[Unit of Analysis|分析单位]]（通常为不同民族国家的教育体系或文化子系统）植根于根本异质的宏观历史、政治、经济与文化土壤中。名义上看似相同的制度指标、政策法令或[[Academic Achievement|学业表现]]，在不同的社会结构中承担着迥异的社会功能与价值意涵，因此不可脱离自然情境进行去语境化的机械测量或等值替换。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
@@ -87,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **制度情境的深嵌性（Institutional Embeddedness）** 教育体制并非孤立运转的技术系统，而是深嵌于母体社会的经济生产方式、政治权威结构与宗教文化传统之中。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
 > - **指标内涵的文化多义性（Cultural Multivocality）** 升学率、师资学历、课程大纲或纪律规程等表面通用的指标，在不同民族国家具有截然不同的社会再生产功能与阶层象征资本。
 > - **自然[[Situative Perspective|情境观]]察依托（Natural Setting Reliance）** 由于研究者无法像自然科学家那样在人工控制环境下对主权国家或文化社群施加操纵性[[Variable|变量]]干预，比较研究必须以自然情境中发生的历史与现实变异为唯一事实来源。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]]
@@ -130,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -146,8 +138,6 @@ updated: 2026-10-22
 > - **2009 — 学科历史反思中的认识论平反** 拉斯特等人在《国际比较教育手册》中重申非同质单位分析的核心地位，以此论证 19 世纪人文历史学派深度情境考察的学术正当性，批判战后去情境化[[Positivism|实证主义]]的虚妄。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 跨国可[[Commensuration|通约]]性与本土[[Incommensurability|不可通约性]]之争
 > - **通用实证测量派（蓝方）** 主张通过现代统计测量技术（如跨文化[[Measurement Invariance|测量等值性检验]]、[[Item Response Theory|项目反应理论]]）消除单位[[Heterogeneity|异质性]]干扰，建立统一的全球[[Performance Indicators|教育指标]]标尺。

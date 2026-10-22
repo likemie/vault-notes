@@ -70,11 +70,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Gesamtstrategie zum Bildungsmonitoring
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年由德意志联邦共和国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK / 德语：Ständige Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland）在 16 个联邦州全会共识基础上正式颁布，并于 2015 年表决通过全面升级修订案。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 > - **制度位置** 构成了当代德国基础教育循证改革的最高统摄性纲领，确立了跨尺度[[Data Infrastructure\|数据基础设施]]、全国教育标准对等互认与多层级绩效评价的法定基石。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《国家教育监测[[Total War|总体战]]略》（Gesamtstrategie zum Bildungsmonitoring）制度化确立了由国际大型测评、国家标准达标检验、全域[[Vergleichsarbeiten\|校际比较测试]]与国家统一教育报告组成的四大实证支柱体系，打破传统输入规范主义，构建起兼顾联邦文化主权与全国质量[[Commensuration\|通约]]的循证监测基础设施。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
@@ -105,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 政策时间线
-
 > [!dev-timeline] 推进与修订历程
 > - **2001–2002 — 应急响应与七大行动领域** [[PISA]] 2000 震荡后，[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 迅速确立学前语言促进、基础读写与数理能力、移民群体靶向支持等七大优先行动领域，并决议扩充 PISA 德国样本至 4 万人以上以支持跨州横向比对。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 488, 491)]]
 > - **2004 — 创设国家质量中枢 [[Institute for Educational Quality Improvement\|IQB]]** 各州在柏林洪堡大学联合创设教育质量发展研究所（IQB），确立国家教育标准研发与命题校准的专业学术实体与国家[[Center of Calculation\|计算中心]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 140)]]
@@ -115,8 +107,6 @@ updated: 2026-10-22
 > - **2015 — 总体战略升级修订与[[Knowledge Transfer|知识转移]]赋权** [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 表决通过修订版战略，不仅将数字素养、全日制学校扩展、幼小初高衔接贯通以及持续追踪机制正式纳入总体监测体系（[[Argument_Hartong_2018_GSE|(Hartong, 2018, p. 139)]]），更专门增设“为教育政策与教育实践提供更多应用导向知识”章节，法定要求对改革实施过程进行科学追踪以总结成效条件，确保治理相关知识切实服务于整个教育系统与各单体学校的内涵发展，并正式将各州立研训与质量机构（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）确立为知识转移的核心法定行动者。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 10)]]
 
 ---
-
-## 实施情况与治理机制
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层决策与政治监督（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] & [[Federal Ministry of Education and Research|BMBF]]）** 制定[[Total War|总体战]]略规程，控制预算拨款，保障测试周期与教育标准的全国一致性。
@@ -128,16 +118,12 @@ updated: 2026-10-22
 
 ---
 
-## 治理影响与体系成效
-
 > [!finding-cards] 体系影响
 > - **推动科层治理常规化** 终结了德国教育行政长期停留于主观经验与口头修辞的状态；各州官员在多轮监测周期中演化出以假设检验为特征的前置认知图式，使[[Output-Oriented Governance\|循证治理]]实质性沉淀为日常行政常规。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 490–495)]]
 > - **促进国家教育标准统一与跨州[[Commensuration\|通约]]** 打破了德国各州中学毕业考试（Abitur）与文凭资格各自为政、难以横向互认的百年藩篱。
 > - **重构联邦教育政策的[[Topological Spatialisation\|拓扑空间]]** 在法律严格禁止公开发布学校排名榜与维护各州文化主权的约束下，依托跨尺度[[Data Infrastructure\|数据基础设施]]实现了国家对基层学校的[[Topological Spatialisation\|拓扑空间化]]连通与[[Governing at a Distance\|远处治理]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 144–146)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 政策争议交锋
 >

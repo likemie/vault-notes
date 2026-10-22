@@ -55,11 +55,7 @@ created: '2026-05-17'
 updated: 2026-10-20
 ---
 
-# International Schools
-
 ---
-
-## 定义
 
 > [!def] 国际学校（International Schools）
 > 国际学校是在一国境内服务跨国流动家庭、多国学生共同体或本地国际课程需求，并在课程、教学语言、升学资格或学校治理上跨越单一国家教育体系的学校。早期形态多为特定国家侨民提供母国课程与大学通道；少数学校从创办之初便面向多国共同体。第二次世界大战后，学生跨国升学与大学选拔压力推动学校协调多套国家课程，并发展共同课程和跨国资格。全球化时期的国际学校还呈现市场化、英语教学和精英升学导向。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–17)]][[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 20–25)]]
@@ -73,8 +69,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!boundary]- 学校类型、课程类型与办学关系
 > - **与[[Boarding Schools|寄宿学校]]的区别** 寄宿学校通常位于学校所属国家，海外学生跨境前往就读；国际学校设在学生家庭居住国，为当地的跨国或多国共同体提供教育。
 > - **与本地公立学校的区别** 国际学校通常收取学费，采用国际课程或外国国家课程，并常以英语或多种语言教学；本地公立学校主要由政府资助并遵循本国课程。
@@ -83,20 +77,14 @@ updated: 2026-10-20
 
 ---
 
-## 核心要素
-
 > [!feature] 国际学校的四项制度要素
 > - **跨国学生共同体** 学生的国籍、家庭流动路径和预期升学国家不一致，学校需要同时处理语言、文化与大学资格差异。
 > - **课程与资格协调** 学校可以并行提供多国课程，也可以采用共同国际课程。早期 IB 直接回应多套国家课程造成的重复教学、国家分组和小国籍学生支持不足。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 16–17, 27–28)]]
 > - **跨国承认关系** 课程能否成为可使用的升学资格，取决于大学、考试机构和政府是否接受其成绩。国际学校因此需要持续协调教学内容、考试标准和大学准入。
 > - **多层组织网络** 单所学校提供教师、学生和试验环境，学校协会负责跨校联系，专门考试机构承担长期课程开发与资格责任。[[International School of Geneva|日内瓦国际学校]]（International School of Geneva，通称 Ecolint；法语名为 École internationale de Genève）、[[International Schools Association|国际学校协会]]（International Schools Association，ISA）与[[International Schools Examination Syndicate|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）的分工体现了这一结构。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 17–20)]]
 
-### 市场化运营
-
 > [!factors] 收费、资源与课程需求
 > 去国家化使许多学校失去母国政府和跨国企业的稳定资金，转而依赖家庭支付全额学费。香港国际学校的年费在 10,000 至 20,000 美元之间。学校必须根据目标家庭能够承担的价格、课程需求以及人口和经济变化调整运营。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 26)]]
-
-### 课程国际化
 
 > [!chain-link] 学生构成变化如何推动课程重组
 > - **生源多元化** 创始国学生比例下降，本地与多国家庭增加，单一母国课程与学生未来生活的关联减弱。
@@ -162,8 +150,6 @@ updated: 2026-10-20
 >
 > *Global Education Management Systems (GEMS) which, according to its web page, operates more than 65 schools in seven countries (United Arab Emirates, United Kingdom, India, Qatar, Germany, Libya and Jordan) and defines itself as 'a catalyst for education reform through schools, advisory services and the GEMS Foundation'. It has a team of consultants that advise national and regional governments and other schools on educational projects. The operation of companies such as GEMS and Nord Anglia is also interesting because through the expansion of international schools they might be facilitating the formation of a 'global elite' (Lauder, 2007) and simultaneously these companies act as advisors to national and local governments.*
 
-### 命题总览
-
 > [!row-contrast] 国际学校的五类制度判断
 > | 命题 | 核心关系 | 解释边界 | 代表文献 |
 > |---|---|---|---|
@@ -175,8 +161,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 从侨民国家通道到跨国课程市场
 > - **两次世界大战之间　母国学校分别服务侨民** 法国海外中学、英国学校与剑桥海外考试、美国学校与大学入学考试分别把侨民学生接回母国升学体系，德国和意大利也有较少的侨民学校。真正面向多国共同体的学校很少，1924 年创办的[[International School of Geneva|日内瓦国际学校]]（Ecolint）是主要先例。各国通道尚能满足多数家庭需求，共同资格缺少稳定使用者。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–16)]]
 > - **殖民时期至 1960 年　国家前哨站延续** 英国、法国、德国和美国等国家的海外学校主要教育本国公务员、传教士和商人子女。1960 年约 70% 的学生来自学校创始国，课程也与母国制度紧密连接，例如香港加拿大国际学校曾开设安大略省公民课。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 24, 27)]]
@@ -186,8 +170,6 @@ updated: 2026-10-20
 > - **2000 年代中叶至今　跨国教育管理财团与全球精英连锁网络** 国际学校发展超越单一院校自发设立，大型跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）以跨国连锁模式在亚欧非多国运营数十所高端国际学校；国际学校兼具商业营利机构、全球精英培育温床与政府政策咨询中介三重属性，标志着全球教育空间向多标量、商业化网络的深刻转变。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 学校规模、生源与运营条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -204,8 +186,6 @@ updated: 2026-10-20
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, p. 344)]] | 2000 年代跨国集团网络 | [[GEMS Education\|GEMS]] 运营规模 | 在 7 个国家（阿联酋、英国、印度、卡塔尔、德国、利比亚、约旦）运营 65+ 所学校 | 揭示跨国教育集团集连锁办学、咨询顾问与政策游说于一体的全新治理形态 |
 
 ---
-
-## 争议与批评
 
 > [!critique] 本地学生的身份张力
 > 大量本地学生在本国就读国际学校，以降低海外学习带来的文化疏离风险。学生在学校中的价值观和期望仍可能与家庭及本地社区出现明显差异，形成 Deveney（2005）所称的[[Fourth Culture|第四文化]]。Rao、Ng 与 Pearson（2009）进一步指出，社会、经济和技术变迁会改变教育政策与实践，全球化课程价值与本地传统之间的张力也随之进入学校。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 24–25)]]
@@ -234,8 +214,6 @@ updated: 2026-10-20
 
 ---
 
-## 应用案例
-
 > [!case] 营养科学与地方社会联系
 > 东南亚书院把当地饮食调查纳入内部第六科，推广时遇到教师与选课限制；详细材料见 [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–206)]]。
 
@@ -259,8 +237,6 @@ updated: 2026-10-20
 > | [[Jason Beech]] | 人物 | 比较教育学者，深入剖析国际学校作为跨国[[Policy Brokerage\|政策中介]]网络与全球精英生产空间的机制。 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22, 27–31)]] — 国际学校的国家课程并行、教师协作与共同资格创制。

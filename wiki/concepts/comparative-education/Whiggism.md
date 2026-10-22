@@ -62,11 +62,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Whiggism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **辉格史观（Whiggism / The Whig Interpretation of History）** 指历史研究中以当下的价值取向、政治制度或学术标准为终极依归，将复杂的历史演进过程简化为通向当下“优越状态”的线性进步叙事，并据此对历史事实与历史当事人展开逆向剪裁与道德裁判的史学方法论倾向。该[[Construct\|构念]]由英国史学家赫伯特·巴特菲尔德（Herbert Butterfield）于 1931 年系统确立。在比较教育学中，辉格史观主要表现为两种形态：一是历史学派学者（如[[Isaac Kandel\|坎德尔]]）在考察国家制度演进时混淆“实然阐释（What is）”与“应然改良（What ought to be）”，以先验的民主改良热忱逆向剪裁史料；二是战[[Postpositivism\|后实证主义]]学者（如诺亚与埃克斯坦）虚构学科从“前科学借用”走向“科学假说检验”的单向进化神话，以 20 世纪量化与[[Value Neutrality\|价值中立]]公理衡量 19 世纪初启蒙先驱，造成严重的时代倒错与原初人文母题的遮蔽。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 32–33)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 历史比较研究中的史学立场与分析[[Paradigm\|范式]]对比
 > | 维度 | 辉格史观（Butterfield 1931） | 情境批判史学（Kazamias 2009） | 古典历史主义（Ranke 1824） | 实证进化叙事（Noah & Eckstein 1969） | 谱系解构史学（Popkewitz 2000） |
 > |---|---|---|---|---|---|
@@ -110,8 +104,6 @@ updated: 2026-10-22
 > | **主要方法论偏误** | 时代倒错、混淆实然与应然、目的论剪裁 | 对当代规范的反思若不彻底易生评价争议 | 陷入极端个殊主义与历史虚无主义 | 狭隘技术主义、抹杀人文语境与反思自觉 | 极度解构导致实然因果推导力被弱化 |
 
 ---
-
-## 核心要素
 
 > [!feature] 辉格史观的核心特征与操作机制
 > - **时代倒错与现时主义剪裁（Anachronism & Presentism）** 以后发标准、现代概念与当代技术[[Paradigm\|范式]]裁量前代历史实践，强行要求前人回答后人设定的问题。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
@@ -179,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -197,8 +187,6 @@ updated: 2026-10-22
 > - **2009 — 跨世纪思想史解构与原初母题平反** 卡扎米亚斯与卡洛扬纳基（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]; [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias, 2009b]]）系统清算学科史中的双向辉格史观：一方面捍卫历史因果解释免于老派[[Educational Meliorism\|改良主义]]剪裁，另一方面打破实证主义进化神话，为 19 世纪先驱的教育编年史官与[[Ethnography\|民族志]]地位平反，恢复启蒙现代性中的人文教化内核。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

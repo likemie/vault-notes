@@ -94,11 +94,7 @@ created: '2026-05-31'
 updated: 2026-10-22
 ---
 
-# Random Assignment
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 随机分配（Random Assignment，亦称随机分组或随机化）是[[Experimental Research|实验研究]]中将受试对象按已知且非零的概率均等原则分派至不同实验处理条件（如干预组与对照组）的核心技术。其核心功能在于使各组受试对象在所有已知与未知的基线特征上达到期望等价，从而消除选择偏误（Selection Bias），为确立[[Causality|因果推断]]（Causal Inference）与估计干预净效应奠定最强[[Internal Validity|内部效度]]基石。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 8)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, p. 313)]]
@@ -126,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 基于[[Positivism|实证主义]]与[[Empiricism|经验主义]]因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性推导出[[Causality|因果关系]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]将样本随机化列为[[Quantitative Research|量化研究]]效度的实证主义前提之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **在因果推断中的角色** 随机分配使两组在期望上等价，将组间任何后续差异无偏归因于干预操作（*ceteris paribus* 假定）。
@@ -142,8 +136,6 @@ updated: 2026-10-22
 > - **辅助技术** 伪随机数发生器、分层随机化（Stratified Randomisation）、区组随机化（Block Randomisation）、最小化法（Minimisation）。
 
 ---
-
-## 研究程序
 
 > [!proc] 通用操作程序
 > 1. **确定实验处理条件** 界定[[Independent Variable|自变量]]的各个水平（如干预组 vs [[Business as Usual|常规对照组]]；或传统同行评议组 vs 随机化抽签资助组）。
@@ -162,8 +154,6 @@ updated: 2026-10-22
 
 ---
 
-## 辨析与对比
-
 > [!contrast-table] 随机分配 vs [[Random Sampling|随机抽样]] vs [[Propensity Score Matching|倾向得分匹配]]
 > | 维度 | 随机分配（Random Assignment） | 随机抽样（Random Sampling） | 匹配（[[Matching]]） |
 > |---|---|---|---|
@@ -175,16 +165,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 评估标准化教学干预、数字工具、药物疗效或科研资助机制（如部分抽签）的纯粹因果效应；当[[Research Ethics|研究伦理]]允许且[[Sample Size Determination|样本量]]足以保障统计功效时。
 > - **谨慎使用** 复杂社会与教育生态中，当受试者具有强烈能动性且无法实施双盲时，教师态度与代偿性努力极易污染对照组。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 6)]]
 > - **不适合使用** 涉及剥夺基础受教育权或已知救济措施的伦理禁区，宏观历史变迁、制度演变或情境依赖性极高的质性[[Case Study|个案研究]]。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与治理警惕
 > - **小样本失衡与“糟糕随机化”** 当[[Sample Size Determination|样本量]]较小时，随机分配可能偶然导致严重的基线不平衡；若直接计算均值差将产生严重的数据包装偏误。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 5)]]
@@ -229,8 +215,6 @@ updated: 2026-10-22
 > | [[Propensity Score Matching]] | 替代方法 | 观测研究中在可测协[[Variable\|变量]]上平衡组间特征的准实验替代手段，但无法平衡未测遗漏变量。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 在四组完全随机分配的受控模拟实验中，证实三种合法[[Effect Size|效应量]]公式导致因果排名完全颠倒，揭示出宏观综合对公式选择的虚假依赖（pp. 243–245）。

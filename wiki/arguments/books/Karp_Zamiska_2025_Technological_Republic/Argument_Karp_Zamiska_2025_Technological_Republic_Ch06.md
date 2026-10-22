@@ -76,11 +76,8 @@ status: draft
 created: 2026-10-08
 updated: 2026-10-20
 ---
-# Argument_Karp_Zamiska_2025_Technological_Republic_Ch06
 
 ---
-
-## 本章主旨
 
 > [!chapter-question]
 > 为什么掌握前沿算力与万亿资本的硅谷科技精英，会深陷将工程建造与国家使命割裂的“[[Technological Agnosticism|技术不可知论]]”与“[[Cult of Optionality|选择权崇拜]]”？过度世俗化与[[Culture of Disbelief|不信文化]]如何消解了社会的崇高信念？高等教育的[[Productization of the Mind|心智产品化]]与资本极化又如何催生了[[Establishment Caste|统治集团种姓化]]危机？
@@ -301,8 +298,6 @@ updated: 2026-10-20
 > 一个世纪前开启的对国家与民族身份概念的解构战争，已经将开放包容的初衷异化为对集体认同与共同政治方案的全面拒斥。唯有重新拥抱共同体使命与实质硬信念，硅谷与西方才能走出技术不可知论的泥潭，重建面向软件世纪的[[Technological Republic|技术共和国]]（pp. 81–82）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Amy Gutmann|艾米·古特曼]]论[[Cosmopolitanism|世界主义]]正义效忠
 > 我们的首要道德效忠不属于任何共同体，无论是国家还是其他群体，而是指向正义本身。（pp. 69–70）

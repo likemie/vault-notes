@@ -89,11 +89,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Modern Industrial Policy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **现代产业政策（Modern Industrial Policy / New Industrial Policy）** 指 21 世纪以来主要工业经济体在高科技战略领域（特别是半导体、人工智能与绿色技术）所采取的政府干预形态。与 20 世纪下半叶以纠正[[Market Failure|市场失灵]]（如[[Agglomeration Externalities|集聚外部性]]、[[Learning by Doing|干中学]]效应）、扶持本土产业实现赶超与追求经济效率为核心目的的传统产业政策不同，现代产业政策深度嵌入于大国战略博弈与[[Geopolitics|地缘政治]]竞争之中，将供应链安全、地理多元化分散（去风险）、遏制对手获取先进制程技术以及维护国家安全确立为首要政策目标。其政策工具箱突破了单纯的研发资助与生产补贴，演化为包含巨额资本补贴、前置研发支持、跨国投资安全审查、单边与多边技术出口管制、盟友间友岸外包（Friendshoring）及战略原材料反制的多维复合治理网络。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 101–103)]]
@@ -115,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 传统产业政策与现代产业政策的多维对比
 > | 维度 | 传统产业政策（20世纪70–80年代） | 现代产业政策（2020年代以来） |
 > |------|--------------------------------|----------------------------|
@@ -127,8 +121,6 @@ updated: 2026-10-22
 > | **经济成本特征** | 主要是贸易扭曲与下游用户成本上升 | 丧失[[Agglomeration Externalities\|集聚经济]]与规模效应、产能重复建设与潜在全球结构性产能过剩 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代产业政策的核心构成维度
 > - **巨额制造资本与研发补贴** 针对先进制程晶圆厂（Fab）单厂建设成本高达 200 亿美元的现实，通过数百亿美元规模的直接财政补助与税收抵免弥补跨国建厂成本劣势（如美国 390 亿美元制造补贴、[[EU|欧盟]] 430 亿欧元计划）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 97, 100)]]
@@ -246,8 +238,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 现代产业政策核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 核心逻辑依据 | 代表学者与文献 |
 > |---|---|---|---|---|
@@ -269,8 +259,6 @@ updated: 2026-10-22
 > - **2024 — 国家战略研发统筹与自维持生态构建** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）发布《微电子研究国家战略》，将现代产业政策深化为涵盖底层物理探索、跨部门中试漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）、早期风险资本引导与劳动力培育的跨部门全链条体系。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 21–29)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -294,8 +282,6 @@ updated: 2026-10-22
 > 现代产业政策需要极高的国家行政协调能力与精细的情报研判网络；若受制于行政许可迟滞（如 NEPA 环评与电网审批并网积压）或技术劳动力短缺，巨额资金极易陷入寻租陷阱、无效重复建设与结构性落地迟滞。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 13–15)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 现代半导体与绿色产业政策主要经济体举措与成本对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

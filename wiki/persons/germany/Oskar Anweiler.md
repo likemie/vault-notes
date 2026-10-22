@@ -54,11 +54,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Oskar Anweiler
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名比较教育学家、教育史学家，波鸿鲁尔大学（Ruhr-Universität Bochum）比较教育学与东欧教育研究讲座教授，德国教育学会（Deutsche Gesellschaft für Erziehungswissenschaft, DGfE）比较与[[International Education|国际教育]]学分会核心奠基人。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展阶段
 > - **1950年代–1960年代 — 俄国历史社会学考证与比较教育[[Comparative Education as a Cross-Sectional Area|交叉领域]]奠基** 从苏维埃政治史研究切入，厘定比较教育在[[Allgemeine Pädagogik|普通教育学]]体系内部的[[Epistemology|认识论]]边界。
 >   - **代表著作** *Die Rätebewegung in Russland 1905–1921* (1958); *Konzeptionen der Vergleichenden Pädagogik* (1967)。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育学在德意志学术传统中绝非游离于教育学之外的纯实证社会学分支，而是依附于[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）母体学科、面向历史学与社会学开放的[[Comparative Education as a Cross-Sectional Area|交叉领域]]（Querschnittsbereich）。安维勒主张，教育体系的比较研究必须始终关照人类教化（[[Bildung]]）与人的成长本质，同时借用严格的历史文献发生学考证与社会学制度结构工具。在冷战地缘博弈中，比较学者必须超越意识形态阵营对抗的浅层口号，以第一手档案文献为基石，客观还原社会主义学制的内在逻辑与制度局限，为社会公共决策提供审慎的[[Institutional Displacement|制度替代]]方案。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93, 96–98)]]
 
 > [!citation-card] 比较教育学的交叉领域定位与学科依附
@@ -117,9 +109,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Disciplinary Institutionalization|学科建制]]定位** 在德语界牢固确立了比较教育在教育科学内部作为“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”的合法性，直接塑造了德国教育学会（DGfE）将比较分会置于教育学母体二级建制的组织传统。
 > - **区域国别研究标杆** 开创了战后全欧苏联与东欧社会主义教育研究的波鸿学派，所收集的大量第一手东欧教育档案文献在剧变后成为国际学界的宝贵遗产。
 > - **两德体制融合智库支撑** 1990 年出版的两德教育比较专著，在冷战结束与两德教育体制重组过程中发挥了至关重要的政策咨询与事实锚定功能。
@@ -148,8 +138,6 @@ updated: 2026-10-22
 > - **机构阵地** 波鸿鲁尔大学（东欧教育研究中心主任）、德国教育学会（DGfE 比较分会奠基人）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE 骨干成员）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -52,11 +52,7 @@ created: 2026-10-18
 updated: 2026-10-22
 ---
 
-# Pierre-Jérôme Bergeron
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大统计学者、独立统计咨询顾问，渥太华大学（University of Ottawa）数学与统计学系兼任教授，麦吉尔大学（McGill University）统计学博士。
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与研究介入
-
 > [!work-line] 主要著作
 > - **2015 — *Teaching [[Theory of Knowledge|TOK]]: An Evaluation of the Impact of the Theory of Knowledge Course on [[Critical Thinking]] and Academic Success*** 评估[[International Baccalaureate|国际文凭]]课程核心项目对学生批判性思维与学业发展的实际影响 [[Argument_Bergeron_2015_TeachingTOK|(Bergeron & Rogers, 2015)]]。
 > - **2017 — *How to Engage in Pseudoscience With Real Data: A Criticism of [[John Hattie]]'s Arguments in [[Visible Learning]] From the Perspective of a Statistician*** 系统审查[[Meta-meta-analysis|二阶元分析]]中的普通语言[[Effect Size|效应量]]负概率、基线反转、三种效应量公式矛盾排名与相关换算爆炸 [[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 237–246)]]。
@@ -74,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 实证数据与海量样本规模本身并不天然等同于科学严谨性。若在[[Problem Finding|问题界定]]、对照基线设定、[[Effect Size|效应量]]公式选取及指标转换环节缺乏严密的数学公理与统计规范约束，以真实数据为原料的宏观证据合成同样会沦为伪科学。教育研究必须在研究方案设计、数据采集到分析建模的全周期强制引入独立专业统计咨询。（pp. 238–246）
 
 > [!critique-method] [[Meta-meta-analysis|二阶元分析]]的四大数理缺陷审计
@@ -109,9 +101,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法路径** 为教育领域对[[Meta-meta-analysis|二阶元分析]]与宏观[[Effect Size|效应量]]排名的统计审计提供了受控数值反证[[Paradigm|范式]]，确立了不同计算公式维度丢失与基线敏感性的诊断检验规程。
 > - **政策与争论路径** 成为全球学界反思《[[Visible Learning|可见的学习]]》证据神话的核心统计学文献，促使多国[[Evidence-Based Education|循证教育]]智库重新审视效应量跨设计聚合的技术合法性。
 

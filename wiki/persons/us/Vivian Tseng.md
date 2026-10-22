@@ -52,11 +52,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Vivian Tseng
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国心理学者、教育科研资助与慈善战略专家。曾长期担任[[William T. Grant Foundation\|威廉·T·格兰特基金会]]（William T. Grant Foundation）高级副总裁（2004–2022），现任美国儿童发展基金会（Foundation for Child Development）总裁兼首席执行官（CEO）。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000–2010 — 移民儿童心理适应与社会网络支持** 主要探究移民背景青少年在家庭、学校与社区中的社会资本动员与心理适应机制。
 >   - **代表著作** 相关实证论著发表于 *Child Development* 与 *American Journal of Community Psychology* 等发展心理学权威期刊。
@@ -96,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育研究必须从根本追问“研究究竟为何而做”（First things first）：研究的终极目的应当是服务学生与社区，尤其是历史上遭受种族主义与贫困排斥的边缘群体。学术界长期推行的“榨取式研究”（Extractive Research）仅将弱势社群视作提取个人经历或生理指标的数据矿场，却未给社群留下实质收益。必须通过[[Democratising Evidence\|证据民主化]]，将研究议程设定权交由一线实践者与社区共有；推动科研资助机构实施四项深刻转型：提供耐心灵活的长效基础设施拨款、将关系网络与组织能力增进重新界定为核心交付成果（打破学术唯论文评价）、设立包容性多元评审指标（赋予社区代表否决权），以及对资助机构自身权力实践展开系统元研究。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
 > [!citation-card] 终结学术榨取式研究的深刻呼吁
@@ -118,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **资助[[Paradigm\|范式]]重构** 推动[[William T. Grant Foundation\|威廉·T·格兰特基金会]]、多丽丝·杜克基金会、斯宾塞基金会等设立跨部门“机构挑战资助”（Institutional Challenge Grants），直接资助高校重组内部考评架构，促使纽约卡内基基金会推行政策学术停钟（Tenure clock pause）机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223, 231–232)]]
 > - **[[Research-Practice Partnership\|RPP]] 评估体系确立** 协同 Henrick 等学者确立[[Evaluation Research\|评估研究]]-实践伙伴关系有效性的五大维度，为全美数十个学区-高校协作联盟提供操作与检验基准。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223, 232)]]
 > - **跨界中介专业化** 将跨界中介专员（[[Boundary Spanner]]）与一线社区误工补偿机制列入常设预算，重塑了科研合作的经济与人力资源分配模式。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–222)]]
@@ -138,8 +128,6 @@ updated: 2026-10-22
 > - **机构与基金会** [[William T. Grant Foundation\|威廉·T·格兰特基金会]]、美国儿童发展基金会、斯宾塞基金会 — 曾薇薇安推行[[Democratising Evidence\|证据民主化]]战略与跨界资助改革的核心慈善载体。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

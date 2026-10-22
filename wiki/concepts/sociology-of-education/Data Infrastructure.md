@@ -72,11 +72,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Data Infrastructure
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 数据基础设施（Data Infrastructure），在批判性数据研究中常被界定为数据汇聚体（Data [[Assemblage]]），指围绕教育数据的去情境化与[[Recontextualization|再情境化]]过程所动态装配的技术、政治、社会与经济网络（Kitchin, 2014; Williamson, 2017）。它是由采集摄取、质检校验、算法建模、数据库存储、可视化呈现与政策报告等偶发性、关系性的物质[[Discourse|话语]]实践持续建构的社会-技术系统，不同于中立客观或静态不变的信息仓储，其核心功能在于将分散微观的学校活动转化为具备行动导向的治理知识。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 2–3)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 数据基础设施与相近概念辨析
 > | 维度 | 本概念：数据基础设施（Data Infrastructure） | 教育管理信息系统（Education Management Information System, EMIS） | 商业教育数字平台（Digital Platforms） |
 > |---|---|---|---|
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > | **权力效应** | 制造次级代表表象，通过算法指标弥散性重塑治理能见度 | 维持[[Bureaucracy\|科层制]]组织内部既有的行政汇报层级与监督权威 | 培育对商业平台的生态依赖，蚕食公共教育主权 |
 
 ---
-
-## 核心要素
 
 > [!feature] 数据基础设施的技术流转与社会实践构件
 > - **全域数据吸纳与标准化采集（Input & Ingestion）** 依托互操作标准与统一接口，定期自基层学校与学区学生信息系统抽取学生学籍与教职员微观记录，学区在此扮演核心数据中介。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, p. 4)]]
@@ -186,8 +178,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -209,8 +199,6 @@ updated: 2026-10-22
 > - **2019 — 州级教育行政机构数据黑箱的经验拆解** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 开展美德跨国[[Comparative Case Study|比较案例研究]]，系统勾勒出四级技术架构与做数据五维治理张力，并倡导培育数据基础设施素养。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -235,8 +223,6 @@ updated: 2026-10-22
 > - **先锋城邦外推局限** 实证材料多来源于数字化积淀深厚的先锋州（如马萨诸塞州与汉堡），在推广至技术薄弱或广袤落后地区时须审慎考量资源梯度差异。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, p. 10)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

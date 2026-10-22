@@ -73,7 +73,6 @@ citation_aliases:
   - "McPhail et al., 2023"
   - "McPhail et al. (2023)"
 ---
-# Argument_McPhail_2023_JCS
 
 ---
 
@@ -90,9 +89,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 分析依托三个相互关联的理论资源：[[Social Realism\|社会实在论]]的[[Epistemology\|认识论]]立场、[[Basil Bernstein\|伯恩斯坦]]关于知识结构和[[Recontextualization\|再脉络化]]的理论，以及 [[Curriculum Design Coherence Model\|课程设计连贯性模型]]（CDCM）。
 
 ---
@@ -278,8 +275,6 @@ citation_aliases:
 
 ---
 
-### 第四步：UKD 的逻辑问题
-
 > [!warning] 顺序混乱
 > 课程文件声称 UKD 这些元素「不是分开的，也不是按顺序的」，应该被编织在一起（Ministry of Education, March 2023d, p.23）。但从课程设计和学习的角度来看，知道-做-理解是比理解-知道-做更合乎逻辑的概念框架。
 >
@@ -298,8 +293,6 @@ citation_aliases:
 > **声称与现实的矛盾** 课程文件声称该结构「清晰且易于使用」(p.5)，但作者作为学者发现其多层次结构实际上相当复杂，怀疑这一结构能否帮助教师厘清认识论知识，从而为[[Surface and Deep Learning\|深层学习]]所需的课程设计连贯性和逻辑提供支撑。
 
 ---
-
-### 第五步：向知识的转向有限
 
 > [!success] 结论
 > 课程改革在[[Epistemic Ascent\|概念进阶]]和认识论上升方面有了更明确的承认，新的进度成果也增加了概念标记。但从结果导向课程的转向是有限的。
@@ -336,9 +329,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "The curriculum is informed by the knowledge landscape and by insights from a range of curriculum theories that are transforming our understanding about the importance of our dual heritage, our culturally diverse communities, and a shared, sustainable, and prosperous future for Aotearoa New Zealand."（Ministry of Education, March 2023d, p.12, 斜体为原文所加）
 >
 > 课程受到知识景观和一系列课程理论洞见的启发，这些理论正在改变我们对双重遗产、文化多样社区以及新西兰共享、可持续和繁荣未来的重要性的理解。

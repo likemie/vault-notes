@@ -70,11 +70,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Steve Higgins
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国杜伦大学教育学院教育学教授（Professor of Education, Durham University），英国[[Evidence-Based Education\|循证教育]]、[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]方法论权威专家。
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2013 — *[[Sutton Trust\|The Sutton Trust]]-[[EEF Teaching and Learning Toolkit]]*** 领衔编制覆盖 30 余类通用教学策略的[[Meta-meta-analysis\|二阶元分析]]决策工具，首创结合学习进展月数、实施成本与证据安全性星级的三维呈现框架。[[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, p. 450)]]
 > - **2016 — *Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits*** 追溯从皮尔逊 1904 年到现代元综合的演进，系统论证跨[[Meta-analysis\|元分析]]比较虽然面临“苹果与橙子”不可比的技术风险，但在控制[[Heterogeneity\|异质性]]前提下仍是回答教育干预相对成效的最佳可用手段。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 31–53)]]
@@ -107,9 +101,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > Higgins 坚持[[Evidence-Based Education\|循证教育]]必须兼顾科学严密性与实践可操作性。他主张面对海量[[Heterogeneity\|异质性]]研究，[[Meta-meta-analysis\|二阶元分析]]与跨干预综合是打破信息孤岛、辅助[[Evidence-Based Policy-Making|循证决策]]的最佳工具；通过“进展月数”将抽象统计[[Effect Size\|效应量]]转译为教师与校长的通用日常语言，能够有效降低决策门槛。同时，他高度警惕统计推断中的“[[Model Dependency\|模型依赖性]]”，主张通过透明公开微观数据、执行独立二次审计和前置确立[[Statistical Analysis Plan\|统计分析计划]]（SAP），以方法学制度化来防范分析偏倚。
 
 > [!citation-card] 跨[[Meta-analysis\|元分析]]比较在教育决策中的最佳可用性（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]）
@@ -124,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法路径** 推动了教育实证研究对“[[Model Dependency\|模型依赖性]]”的深度反思，其复算审计促成了《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的出台，将[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）和模型敏感性分析确立为全球教育试验的黄金行业准则。
 > - **政策与转译路径** 领衔研制的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]覆盖英格兰逾 70% 的中学校长，深度重塑了数十亿英镑[[Pupil Premium\|学生津贴]]的财政资源配置取向。
 > - **跨国传播** 工具包架构被澳大利亚（[[Evidence for Learning]]）、拉丁美洲及全球[[Educational Brokerage Agency\|证据中介机构]]（[[What Works Network]]）广泛本土化引介，成为[[International Education\|国际教育]]循证综合的标准模板。
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **依托机构与平台** [[Education Endowment Foundation]]、[[Sutton Trust]]、杜伦大学教育学院。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

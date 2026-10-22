@@ -30,10 +30,6 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-# Costs Benefits Ratio in Research Ethics
-
-## 定义
-
 > [!def] 核心定义
 > 成本/收益比是社会研究中表达基本伦理困境的根本概念。在规划研究时，研究者必须权衡研究的可能社会收益与参与个体付出的个人成本。这一平衡过程主要是主观的，几乎不存在绝对标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 75–76]]）。
 
@@ -43,8 +39,6 @@ updated: 2026-10-22
 > - **边界** 成本/收益比是一个分析概念而非计算公式——它不提供量化的、确定性的答案。它不能替代具体的伦理守则和程序（如[[Informed Consent\|知情同意]]），而是为这些具体程序提供根本理由。
 
 ---
-
-## 核心要素
 
 > [!contrast-table] 成本与收益的对照
 >
@@ -58,8 +52,6 @@ updated: 2026-10-22
 来源：改编自 Frankfort-Nachmias and Nachmias (1992)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 75–76]]）。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!claim] 成本/收益比是主观的
 > 权衡收益与可能成本的过程主要是主观的。在不同研究者之间，同一研究方案的成本/收益评估可能产生截然不同的结论。研究者必须依据专业和个人价值观做出关于研究内容和程序的决定（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 75–76]]）。
@@ -78,8 +70,6 @@ updated: 2026-10-22
 > - **2003** Oliver 将成本/收益比与具体的研究实践——如参与诱导、儿童研究、资助研究——联系起来，扩展了其应用范围
 
 ---
-
-## 争议与批评
 
 > [!tension] 功利主义框架的局限
 > Howe and Moses (1999, p. 23) 指出成本/收益分析的两个核心问题：(a) 不清楚哪些成本和收益应被纳入分析——不同利益相关者可能对什么算作成本或收益有根本分歧；(b) 假设所有成本和收益具有同等强度——实际上一次尊严受损可能超过多项微小的收益。这质疑了成本/收益分析作为纯粹功利主义计算的可行性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 76]]）。

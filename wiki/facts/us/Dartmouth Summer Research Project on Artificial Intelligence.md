@@ -39,11 +39,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Dartmouth Summer Research Project on Artificial Intelligence
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 达特茅斯人工智能夏季研讨会（Dartmouth Summer Research Project on [[Generative Artificial Intelligence|Artificial Intelligence]]）是 1956 年夏季在美国达特茅斯学院举行的一场具有里程碑意义的学术会议，标志着人工智能作为一门独立科学学科的正式确立。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 25–26)]]
@@ -55,16 +51,12 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 会议推进历程
 > - **1955-08 — 会议提案起草** 麦卡锡等人向洛克菲勒基金会提交资助申请书，首次在学术文献中正式提出“人工智能”（[[Generative Artificial Intelligence|Artificial Intelligence]]）概念。
 > - **1956-07–08 — 研讨会举行** 十余位数学家、神经科学家与工程师展开为期两个月的密集[[Brainstorming|脑力激荡]]，展示了世界上第一个运行的符号人工智能程序“逻辑理论家”（Logic Theorist）。
 > - **1957–1960 — 乐观预言与学科扩散** 会后以西蒙为代表的先驱乐观预测计算机将在 10 年内击败国际象棋冠军、在 20 年内胜任人类能做的一切工作，引发了战后第一波人工智能研究浪潮与国家资助。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 25–26)]]
 
 ---
-
-## 历史后果与深远影响
 
 > [!finding-cards] 关键历史后果
 > - **确立人工智能学科命名与[[Paradigm|研究范式]]** 终结了此前“自动机理论”、“控制论”与“复杂信息处理”等术语混杂的局面，奠定了符号主义 AI 的半世纪基调。

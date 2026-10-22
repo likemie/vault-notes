@@ -80,11 +80,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Learnification
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **学习化（Learnification）** 是由当代荷兰教育哲学家[[Gert Biesta|格特·比斯塔]]（Gert Biesta）首创的批判性概念，指教育理论与实践[[Discourse|话语]]被以效果为中心、去价值负荷的“学习”（Learning）与“学习结果”（Learning Outcomes）逻辑全面侵蚀与重塑的现象。该[[Construct|构念]]揭示：传统教育中教师引领主体涉入客观文化传统的教育学关系，被异化为以产出测量为中介的技术化交付过程；学生被编码为需对自身效能持续负责的学习消费者，消解了教育关涉主体成熟（Mündigkeit）、民主审议与道德解放的根本宗旨。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 15–20)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 1–3)]]
@@ -111,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习化与相关教育哲学校验辨析
 > | 比较维度 | 学习化（Learnification） | 传统教化（[[Bildung]]） | 可见学习（[[Visible Learning]]） | 证据为本教育（[[Evidence-Based Education\|EBE]]） |
 > |---|---|---|---|---|
@@ -123,8 +117,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 洪堡; 赫尔巴特; 施莱尔马赫; [[Wolfgang Klafki\|克拉夫基]] | [[John Hattie\|Hattie]] (2009, 2012); Hattie and Clarke (2019) | [[Argument_Slavin_2002_ER\|Slavin (2002)]]; Davies (1999); Goldacre (2013) |
 
 ---
-
-## 核心要素
 
 > [!feature] 学习化机制的核心特征与传导机制
 > - **教育语言的去教育学化（De-Educationalization of Vocabulary）** 将教学（Teaching）替换为“促进学习”（Facilitating Learning），将学生（Pupil/Student）替换为“学习者”（Learner），将学校替换为“学习环境”。这一词汇更迭抽离了教育原有的伦理责任与权力不对称意涵，将原本需要师生共同建构的价值遭遇退化为中性的认知交易。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 16–18)]]
@@ -213,8 +205,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 学习化核心命题归纳
 > | 命题类型 | 核心指向 | 理论机制与批判焦点 | 代表学者 |
 > |---|---|---|---|
@@ -224,8 +214,6 @@ updated: 2026-10-22
 > | **关系商品化与教导消解** | 教师从文化引路人降格为学习促进者，教育关系退化为满足个体学习需求的市场消费 | 捍卫教师作为精神引路人的崇高天职与不可替代的教导维度 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 学习化概念的历史脉络与演进
 > - **1960–1970 年代 — [[Critical Pedagogy|批判教育学]]引入“学习”作为解放工具** 学习（læring/learning）概念作为对抗传统专制灌输与僵化[[Rote Learning|死记硬背]]的批判工具进入欧美与北欧教育界。教育学者结合[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]与克拉夫基范例教学，主张以学生的主动探究、问题导向学习与小组合作挑战自上而下的国家规训，赋予学习解放性与批判性品格。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]
@@ -252,8 +240,6 @@ updated: 2026-10-22
 > > - **实践智慧与德性教导派（Biesta, 2015; Carr, 2000）** 强调教学本质上是充满伦理张力的人际互动，无法通过固化的效应量指南加以预先编程；将教师降格为数据促进者剥夺了其运用教育学机智（pedagogical tact）与价值决断的空间。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 学习化[[Paradigm|范式]]下的测量效应与治理实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

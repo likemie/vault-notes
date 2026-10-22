@@ -35,16 +35,10 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# The Great Learning
-
-
-
 > [!info] 定义
 > 《大学》（The Great Learning）是儒家"四书"之一，由南宋理学家[[Zhu Xi\|朱熹]]（1130-1200）编纂并注释，成为此后直至1949年中国学生必读的核心经典文本([[Argument_Li_2012_Cambridge\|Li, 2012, p.44]])。该书提供了一个从个人修养到社会治理的系统性学习框架。
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > [[Zhu Xi\|朱熹]]在《大学》中整合了[[Cheng Brothers\|程颐]]与程颢的学说，提出了从认知探究到道德实践、从个人[[Self-Cultivation\|修身]]到世界治理的完整学习路径。这一路径包含八个步骤([[Argument_Li_2012_Cambridge\|Li, 2012, pp.44, 46-47]])：
 
 1. 格物（investigating things）——探究事物的原理

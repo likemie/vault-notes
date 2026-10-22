@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Attitude Towards Content Domains
-
 > [!metax] [学科态度 · Attitude towards content domains](https://www.visiblelearningmetax.com/influences/view/attitude_towards_content_domains)
 > 学生 › 动机取向
 >

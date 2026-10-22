@@ -93,8 +93,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Enlightenment
-
 ---
 
 ## 定义
@@ -228,8 +226,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -251,8 +247,6 @@ updated: 2026-10-22
 > - **2020年代 — 科技共和国视阈下的启蒙反思与实质美德重铸** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 结合列奥·施特劳斯政治哲学，批判启蒙科学分析中的“道德迟钝”与形式中立在当代蜕变为[[Technological Agnosticism|技术不可知论]]与文化虚无主义，倡导以儒家[[Junzi|君子]]美德与国民[[Civic Rituals|公民仪式]]重铸现代技术文明的价值锚桩（pp. 214–218）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

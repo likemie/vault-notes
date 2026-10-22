@@ -53,11 +53,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Numbers Count
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Numbers Count（数数算算）** 是由英国“知晓儿童倡议”（Every Child Counts，由英国教育部与边山大学 Edge Hill University 联合设立）研发并统筹实施的国家级初等数学一对一个别化救济干预项目；其核心目标是针对小学一至二年级（英国学制 Year 2，约 6–7 岁）在基础数感与早期算术上处于全英后 5%–10% 的严重学困生，由经过高规格专业资质培训认证的专任教师实施每日 30 分钟的高强度一对一个别辅导，帮助其在一年内重返年级常模水平。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **核心问题导向** 彻底改变英国公立小学早期数学落后儿童到关键发展阶段（Key Stage 2）学业差距加速劣化的困局，探索专业教师一对一密集介入的极限成效。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 由经受严格认知诊断与[[Reflexivity\|反思性]]教学培训的专任教师实施为期 12 周、每日 30 分钟的高密度一对一[[Individualised Instruction\|个别化教学]]，根据儿童的认知卡点动态调整教学表征并提供高保真[[Scaffolding\|脚手架]]，能够产生显著的因果净增益并长期维持数学学业自信。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -92,16 +86,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Numbers Count 发展历程
 > - **2007–2010 — 国家先导试验与全英学区铺开** 英国教育部启动 Every Child Counts 战略，在英格兰数百所公立学校试点建立 Numbers Count 专职辅导教室，初步建立起全国专业教师培训网络。
 > - **2011–2013 — 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）独立大样本整群 [[Randomised Controlled Trials\|RCT]] 评估** 约克大学卡罗尔·托格森（Carole Torgerson et al., 2013）团队受 EEF 资助开展多中心随机对照试验，测得稳健且显著的因果学业增益，获 EEF 极高[[EEF Padlock Security Rating\|证据安全性评级]]。
 > - **2015–至今 — 跨国证据采纳与纳入 [[Every Student Succeeds Act\|ESSA]] 强证据** 斯莱文团队在全面审查国际实证文献后，将 Numbers Count 作为初等数学 Tier 3 专业教师辅导的标杆列入 Table 2，确立其在英美循证改革学术脉络中的经典地位。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **学术认证中心（边山大学）** 制定全英统一的 Numbers Count 教师资质标准与诊断评估工具包。
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - **目标受益学生（Year 2 数学严重落后儿童）** 接受持续 12 周的每日密集个别指导，迅速填补认知断层。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **卓越的全国标准化因果[[Effect Size\|效应量]]** 在约克大学主导的 [[Education Endowment Foundation\|EEF]] 独立整群[[Randomised Controlled Trials\|随机对照试验]]中，干预组学生在 Progress in Maths 等全国标准化测验上取得了平均 $+0.33$ 的因果效应量（相当于额外多获得约 7 个月的学业进步），达 [[Every Student Succeeds Act\|ESSA]] 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

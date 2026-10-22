@@ -42,11 +42,7 @@ created: 2026-09-18
 updated: 2026-10-20
 ---
 
-# Massachusetts Department of Elementary and Secondary Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 马萨诸塞州中小学教育部（Massachusetts Department of Elementary and Secondary Education, DESE）是负责监管与统筹指导美国马萨诸塞州全域公立 K-12 教育的州级执行部门。作为全美教育改革与高标准问责的先锋州行政机关，该机构构建了高度成熟的数字化[[Data Infrastructure\|数据基础设施]]，依托集中式数据仓库与高级分析建模，推行集质量监测、学区资源优化、学生早警预警与高利害行政干预于一体的现代教育治理体系[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 2–4)]]。
@@ -59,8 +55,6 @@ updated: 2026-10-20
 
 ---
 
-## 数据治理与技术架构
-
 > [!feature] 核心数据工具与治理机制
 > - **集中式数据仓库与多源摄取（Data Warehouse）**
 >   建立全州统一的集中式数据仓库，通过学生信息管理系统（SIMS）与教育人员信息管理系统（EPIMS）等渠道，定期自学区和学校吸纳覆盖出勤、测评、课程与师资的海量微观数据，运用自动化业务规则（Data Business Rules）执行格式与逻辑质检[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4, 7)]]。
@@ -72,8 +66,6 @@ updated: 2026-10-20
 >   开发资源配置与学区行动报告系统（Resource Allocation and District Action Reports, RADAR），将学区财务支出、人员编制与学生成绩进行交叉建模，支持学区自主遴选至多 10 个地理邻近或统计特征相似的学区展开资源效益对标分析[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 7)]]。
 
 ---
-
-## 实践张力与制度特征
 
 > [!tension-table] DESE 数据实践中的制度张力
 > | 实践领域 | 核心机制 | 治理挑战 | 实践应对策略 |

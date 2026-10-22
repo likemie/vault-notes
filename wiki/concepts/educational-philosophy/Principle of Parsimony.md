@@ -48,11 +48,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Principle of Parsimony
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **简约原则（Principle of Parsimony）**，亦称**奥卡姆剃刀（Occam's razor）** 或**简便律**，是科学家群体日常工作所恪守的四大根本假设之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 15）。该原则主张现象应当以尽可能经济、精炼的方式进行解释，其古典哲学表述源于 14 世纪哲学家奥卡姆的威廉（William of Occam）的名言“如无必要，勿增实体”（*entia non sunt multiplicanda praeter necessitatem*）；现代科学准则将其提炼为阿尔伯特·爱因斯坦的名言“事情应当尽可能做得简单，但绝不能过度简化”（*make matters as simple as possible, but no simpler*）。在研究设计与理论构建中，简约原则要求：当两个相互竞争的理论或假说拥有同等解释力时，研究者应当优先选择概念较少、假设较精简的方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 简约原则在不同[[Paradigm\|研究范式]]中的方法论定位
 > | 探究范式 | 对简约原则的态度 | 核心操作机制 | 典型表现与考量 |
 > |---|---|---|---|
@@ -85,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **概念经济性（Conceptual Parsimony）** 严格控制[[Construct\|理论构念]]的数量，用最紧凑的概念系统涵盖最大范围的经验现象，防止虚构多余的经院哲学实体。
 > - **假设精简化（[[Hypothesis]] Economy）** 呼应 Kerlinger（1970）关于良好假说的辅助准则——假说应当以最经济的方式表达[[Variable\|变量]]之间的关联。
 > - **模型选择与过拟合防御（Model Selection and Overfitting Prevention）** 在现代统计分析中，简约原则体现为对自由度与自由参数的数学惩罚机制，确保统计模型具备高外推效度与普适泛化力。
@@ -141,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕简约原则形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
@@ -159,8 +149,6 @@ updated: 2026-10-22
 > - **2000s 至今 — 复杂系统与质性反思** [[Complexity Theory\|复杂性理论]]与质性[[Rich and Thick Description\|厚描述]]运动对机械简约主义发起反思，推动研究者从“追求极简结论”转向“把握复杂网络中的[[Emergence\|涌现秩序]]”。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -181,8 +169,6 @@ updated: 2026-10-22
 > - **掩盖教育边缘群体的异质声音** 追求普适简化的均值结论，极易淹没少数族裔、特殊需求儿童等边缘群体的细微经验与特殊诉求。
 
 ---
-
-## 实证数据
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 16)]] — 界定简约原则、奥卡姆剃刀与 Kerlinger 的假说经济性；全书另述模型选择、因子提取准则及简约与[[Rich and Thick Description\|深描]]的权衡。

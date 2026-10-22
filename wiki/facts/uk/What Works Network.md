@@ -84,11 +84,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# What Works Network
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年由英国中央政府内阁办公室（Cabinet Office）正式倡导并联合相关中央部委协调设立，其政策前驱探索可追溯至 2011 年创设的英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及更早期的循证医学与政策实践。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 3–4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 > - **制度位置** 标志着证据本位政策（Evidence-Based Policy, EBP）在英国公共治理体系中的国家级制度化复兴；作为独立或半独立的专门[[Knowledge Mediation\|知识中介]]网络（Specialist Knowledge Intermediary Network），处于中央部委政策制定与基层公共服务一线之间，承担供需双向转译、[[Research Synthesis|证据综合]]评级与干预因果试验的制度枢纽职能。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–148)]]
 
 ---
-
-## 政策文本与治理框架
 
 > [!claim] 政策核心
 > 通过中央政府顶层倡导与多元资助孵化，在教育、医疗、警务、福祉等关键公共领域设立专门的有效性中心（What Works Centres, WWCs），运用严格方法综合存量科研证据（特别是[[Randomised Controlled Trials\|随机对照试验]]（RCT）与[[Systematic Review\|系统综述]]），研制通俗直观的证据工具包与实践指南，并资助因果试验以弥合学术研究与一线决策之间的鸿沟。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–150)]]
@@ -116,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 政策发展历程
 > - **2000 年代早期 — [[Evidence-Based Policy-Making|循证决策]]思想萌芽与早期中介探索** 2002 年循证政策与实践中心（Centre for Evidence Based Policy and Practice）系统总结了 EBP 成功的四大关键要求；[[Campbell Collaboration]] 等国际通用[[Educational Evidence Clearinghouses\|证据清算中心]]起步运作，[[Systematic Review\|系统综述]]与实证清理规范逐渐确立。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 3)]]
 > - **2011 — 旗舰示范中心设立与工具包问世** [[Sutton Trust\|萨顿信托]]（Sutton Trust）联合英国教育部设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]），获 1.25 亿英镑初始留本基金支持；同年发布首版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），开创了直观量化“学习进展月数”与成本效益的可视化先河。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 149)]]
@@ -132,8 +124,6 @@ updated: 2026-10-22
 > *“In 2013, the Cabinet Office formally designated the EEF (in partnership with the Sutton Trust) as the ‘What Works Centre for Education’ in England, part of a wider network of What Works Centres that cover more than £250 billion of public spending... to ensure that thorough evidence informs public spending.”*
 
 ---
-
-## 实施情况与中心全景
 
 > [!actor-grid] 实施角色分工
 > - **发布与协调主体** 英国中央政府内阁办公室（Cabinet Office），负责全英有效性网络的跨部门宏观统筹、成员准入资格认证与跨领域经验交流。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 151)]]
@@ -167,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心中介与治理枢纽** 英国中央内阁办公室（Cabinet Office）与各领域旗舰有效性中心（如 [[Education Endowment Foundation\|EEF]]、[[National Institute for Health and Care Excellence\|NICE]]） — 掌控国家循证战略规划、核心留本基金配给与公共[[Discourse|话语]]权，主导制定证据评价规则与资助方向。
 > - **高权力 · 低利益 — 潜在制约者与权威督导方** 英国教育标准局（[[Ofsted]]）、财政部与各中央行政部委 — 掌控对基层学校与公共机构的法定督导评级及财政预算周期，其高利害问责指标对一线机构拥有绝对支配权，但对具体学术证据包的微观细节关注度有限。
@@ -196,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标体系
 > - **投入指标** 英国教育部 1.25 亿英镑初始留本基金（[[Education Endowment Foundation\|EEF]]）、国家彩票社区基金 5000 万英镑（老龄优化中心）、内政部与 ESRC 联合专项资助；全英设立 9 大领域国家级有效性中心。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 > - **过程指标** 《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》涵盖 5,500+ 项实证研究总结、资助 200 余项大规模多臂学校 [[Randomised Controlled Trials\|RCT]]；全英逾数万名教师与管理层常态化查阅工具包；建立涵盖数十所骨干校的全国[[Research Schools Network\|研究学校网络]]（RSN）。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 7, 19)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
@@ -221,8 +207,6 @@ updated: 2026-10-22
 > **注记** \* 部分门户附带无证据表明该干预存在危害作为附加前提。跨案例调查揭示仅 40% 的国际知名门户采用正式系统综述，且 100% 的打包项目类门户仅凭 1–2 项单项研究即宣称方案有效，暴露出中介行业在[[Evidence Standards\|证据标准]]上的脆弱性。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 154–155)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 政策争议
 >

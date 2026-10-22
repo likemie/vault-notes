@@ -48,11 +48,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# FairTest
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 国家公正与公开测试中心（National Center for Fair & Open Testing，简称 FairTest）是美国倡导教育评价改革与反对标准化测验误用的先锋独立非营利组织，长期充当公民社会抵制高利害问责的理论与法律支持中枢。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 终结滥用标准化考试对学生、教师及学校造成的制度性伤害，促进公平、无偏见且对教学有建设性指导价值的[[Authentic Assessment|真实性评价]]体系。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1985–2000** **高教入学测验批判与民权维权期**
@@ -91,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **理事会** 由民权法律专家、测量学学者、一线教师代表及社区领袖组成的无薪决策机构，负责确立优先战略方针。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **执行团队** 包括执行主任、政策分析师、法律顾问与公关沟通专家，负责日常研究发布与危机介入。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -105,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **《全美可选择测验高校名录》** 动态维护并发布免除 SAT/ACT 硬性要求的四年制大学名录，重塑了美国高校招生生态。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **退考权利指南与法律手册** 针对各州教育法条文为家长与学区提供退考权利边界、免受行政惩罚的法务操作指南。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -118,8 +108,6 @@ updated: 2026-10-22
 > *In the US, the rapid intensification of standardized testing has triggered the [[Emergence|emergence]] of an ideologically transversal opt-out movement that crystallizes in organizations such as FairTest or United Opt Out (Dobrick, 2014; Pizmony-Levy & Woolsey, 2017). In states like New York, families have massively followed calls to boycott the test and, in response to these actions, the government has introduced improvements in the test design and administration. The political influence of this movement also manifests in the fact that ‘opt-out parents’ have been elected in different district school boards (Wang, 2017).*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **退考动员参与率** 重点学区参与抵制官方统考的学生比例（纽约州部分学区峰值超过 20%）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -136,8 +124,6 @@ updated: 2026-10-22
 > - **> 20%** 纽约州部分学区家长响应退考号召的学生罢考率峰值。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 机构争议
 >

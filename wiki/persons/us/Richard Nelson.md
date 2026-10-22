@@ -50,11 +50,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Richard Nelson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国[[Evolutionary Economics|演化经济学]]家、新[[Joseph Schumpeter|熊彼特]]创新学派代表人物，哥伦比亚大学国际与公共事务学院荣休教授，曾任兰德公司高级经济学家、耶鲁大学教授。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950s–1970s — 基础科研公共品属性与批判新古典余值** 揭示科学研究的高度不确定性与外部性，批判将技术进步当作外生“索洛余值”的静态模型。
 >   - **代表著作** *The Simple Economics of Basic Scientific Research* (1959); *Recent Exercises in Growth Accounting: New Understanding or Dead End?* (1973)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 20)]]
@@ -97,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 企业的技术创新是在[[Bounded Rationality|有限理性]]与高度不确定性约束下受组织惯例支配的演化搜寻过程；由于技术变迁包含密集的制度互依性，无法将其简化为单一数学生产函数中的平滑余值；主权国家的大学体制、反垄断与专利法、公共资助网络及产业组织结构的独特历史组合，决定了其不可替代的国家创新绩效与跨国制度多样性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15, 20)]]
 
 > [!citation-card] 纳尔逊论新古典增长模型中余值的解释贫困
@@ -109,9 +101,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与 Freeman、Lundvall 并列为现代创新经济学与[[National Innovation System|国家创新系统]]学派的三大理论柱石；与 Winter 共同奠定了[[Evolutionary Economics|演化经济学]]经典教科书体系。
 > - **政策路径** 其国家[[Systems of Innovation|创新系统]]跨国比较研究直接影响了[[National Science Foundation|美国国家科学基金会]]（NSF）、[[National Academy of Sciences|美国国家科学院]]及 [[OECD]] 的科技政策指标与[[Competitiveness|国家竞争力]]评估标准。
 > - **跨国学术网络构建** 1993 年工程汇聚了全球数十位经济学家和历史学家，成为推动比较制度分析（Comparative Institutional Analysis）的主导力量。

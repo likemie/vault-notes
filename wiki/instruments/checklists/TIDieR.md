@@ -61,11 +61,7 @@ created: 2026-09-14
 updated: 2026-10-16
 ---
 
-# TIDieR
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] TIDieR
 > - **工具类型** 干预方案描述与可复现性方法学核查清单（Checklist）。
@@ -79,8 +75,6 @@ updated: 2026-10-16
 > *"For this reason, in 2014, the EEF commissioned a literature review by Manchester University of IPE for education interventions (Humphrey et al., 2016) which informed guidance highlighting the importance of a detailed intervention description (Hoffman et al., 2014) and high-quality data on implementation, [[Strategic Compliance|compliance]], control group activity, causal mechanisms, and cost."*
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 复杂干预方案要素解构体系
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -97,8 +91,6 @@ updated: 2026-10-16
 > | **计划保真度与实际依从性（How Well）** | 2 | 方案设计的保真度维系与质控手段（Planned），以及现场实测的教师依从率与吸收程度（Actual） | 二元合规核查（同时报告设计机制与现场独立实测数据 / 仅有主观宣称） |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 核查规则
 > - **题项形式** 标准化方法学陈述核查条目（Checklist Items）。
@@ -127,8 +119,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -137,8 +127,6 @@ updated: 2026-10-16
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | TIDieR (2014) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）方法学指南体系 | 复杂教育干预方案标准化解构与复现核查 | EEF 采纳曼彻斯特大学评估综述（Humphrey et al., 2016），自 2014 年起正式将 TIDieR 规定为所有立项干预必须填写的标准模板，强制要求清晰界定因果[[Theory of Change\|变革理论]]、对照组活动、现场遵从度与剂量数据，推动了全英教育试验向[[Realist Evaluation\|现实主义试验]]（Realist Trials）演进。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

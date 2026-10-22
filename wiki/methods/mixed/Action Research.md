@@ -90,11 +90,8 @@ status: stable
 created: 2026-06-25
 updated: 2026-10-22
 ---
-# Action Research
 
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 行动研究（Action Research）是研究者与实践者平等合作，在真实的社会或教育情境中，通过“计划—行动—观察—反思”的螺旋迭代循环解决实际问题的一种[[Paradigm\|研究范式]]。其根本旨趣在于改进实践效能与促进实践者专业成长，而非建构抽象理论体系。[[Kurt Lewin\|库尔特·勒温]]（Kurt Lewin, 1946）最早将其界定为将研究者与实践者的比较优势相结合以解决现实问题的方法；后经发展成为涵盖技术性、实践性与解放性多重取向的方法论体系。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
@@ -115,8 +112,6 @@ updated: 2026-10-22
 >
 > *Action research is a form of collective self-reflective enquiry undertaken by participants in social situations in order to improve the rationality and justice of their own social or educational practices, as well as their understanding of these practices and the situations in which these practices are carried out.*
 
-### 定义谱系与否定性界定
-
 > [!phase] 定义谱系的演进脉络
 > - **操作严谨性取向（Corey ➔ Hopkins ➔ Ebbutt ➔ Cohen & Manion）** Corey (1953) 倡导实践者通过[[Scientific Method\|科学方法]]审视自身实践；Hopkins (1985) 将其界定为严谨的实践探究；Ebbutt (1985) 强调行动与反思的系统结合；Cohen and Manion (1994) 聚焦小规模情境干预与效果审视。Kemmis and McTaggart (1992, p. 10) 将其精神概括为：比日常生活更仔细、更系统、更严谨地计划、行动、观察和反思。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 264–266)]]
 > - **哲学深度与批判取向（Carr & Kemmis）** Carr and Kemmis (1986) 引入于尔根·[[Jürgen Habermas\|哈贝马斯]]（Jürgen Habermas）的[[Critical Theory\|批判理论]]，将行动研究定性为旨在促进社会正义的自我[[Reflexivity\|反思性]]探究，使之由局部操作工具上升为批判性社会科学的基石。
@@ -132,8 +127,6 @@ updated: 2026-10-22
 > 行动研究对教师产生深远的七重专业发展影响（Noffke & Zeichner, 1987）：重塑对专业技能和角色的认知、增强[[Self-Efficacy\|自我效能]]与专业自信、提升对课堂复杂议题的敏感度、改善日常反思倾向、转变教育价值观与信念、增进实践理论与具体行动的契合度、拓宽对教学与社会的全局视野。因此行动研究是深植于工作场所的情境学习（Collins & Duguid, 1989）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 266–267)]]
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 跨越[[Positivism\|实证主义]]与[[Interpretive Paradigm\|诠释范式]]。技术性行动研究接近实证逻辑，实践性行动研究植根于诠释学理解与行动中反思（Schön, 1983），[[Emancipatory Action Research\|解放性行动研究]]以[[Critical Theory\|批判理论]]为认识论支柱。
@@ -154,8 +147,6 @@ updated: 2026-10-22
 > - **评价与推广** 对[[Hypothesis\|研究假设]]、方法路径与实际成效进行客观评测；成果推广意味着在更广泛的实践中接受检验与批评。
 
 ---
-
-## 类型学与流派阵营
 
 > [!contrast-table] 行动研究的三种核心类型（Grundy, 1987; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 272–273]]）
 > | 维度 | 技术性（Technical） | 实践性（Practical） | 解放性（Emancipatory） |
@@ -185,8 +176,6 @@ updated: 2026-10-22
 > - **成果建档与公开辩护** 系统建立活动实践、[[Discourse|话语]]表达、社会关系与研究能力四类变革记录（原则十六）；向公众与同行提供有理据的检验辩护（原则十七）。
 
 ---
-
-## 研究程序与操作模型
 
 > [!proc]- [[Kurt Lewin\|勒温]]—[[Stephen Kemmis\|凯米斯]]螺旋循环模型
 > ```mermaid
@@ -230,16 +219,12 @@ updated: 2026-10-22
 > | **评价** | 分析变革数据 | 监测反思，评价调整后的行动 | 反思数据，规划知情行动 |
 > | **迭代** | 审查变革并决定下一步 | 调整计划并继续循环 | — |
 
-### 结构化群体数据收集工具
-
 > [!feature] 核心群体工具与特色方法
 > - **[[Nominal Group Technique\|名义小组技术]]（NGT）** 通过“独立静默书写 ➔ 轮流展示陈述 ➔ 聚类合并澄清 ➔ 独立投票排序”四个阶段，在单次会议中高效收敛群体共识，避免强势个体主导（Morrison, 1993）。
 > - **[[Delphi Technique\|德尔菲技术]]（Delphi）** 通过多轮背对背匿名书面问卷与反馈汇总，使专家或教师团队逐步趋向共识，有效免受群体人际压力干扰。
 > - **现场协作支持技术** 包含激发团队[[Creativity\|创造力]]的[[Brainstorming\|头脑风暴]]法、由研究者/行动者/评价者三方共同审议的三角形[[Observation Method\|观察法]]，以及保障各方平等[[Discourse|话语]]权的中立主席法。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
 
 ---
-
-## 报告规范与反身性要求
 
 > [!rule] 报告撰写的核心规范
 > McNiff and Whitehead (2009, p. 15) 强调行动研究报告必须系统陈述 11 项关键内容：明确[[Research Problem\|研究议题]]及其演化为改进议题的过程、干预方法论及其选择理据、干预与特定情境的互动关系、数据收集的时间与对象、数据处理与分析程序、干预监测与同行审查机制、[[Reflexivity\|反身性]]处理与偏误控制、[[Success Criteria\|成功标准]]的界定与推导、结论得出与验证过程、研究者的专业成长以及实践本身的实质变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 291–293)]]
@@ -255,16 +240,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 教学策略改进、校本课程研发、班级管理优化、师生互动质量提升、教育政策在地转化等强调实践变革的情境。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
 > - **谨慎使用** 旨在建构普适性宏观理论的研究；需要向大规模异质总体进行统计推论的课题。
 > - **不适合使用** 要求严格控制所有外部[[Variable\|变量]]的纯实验室实验；需要精确计算全域[[Effect Size\|效应量]]并推导无偏因果净值的[[Evaluation Research\|评估研究]]。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 实践者同时作为研究者容易导致评估结果的主观性偏倚（Newby, 2010, p. 64）；强烈的团队群体动力可能压制个别教师的异议。
@@ -291,8 +272,6 @@ updated: 2026-10-22
 > | [[Reflexivity]] | 核心概念 | 研究者兼具行动者双重身份时的认识论自省要求 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.9)]] — 系统阐释行动研究的历史渊源、核心特征、九步螺旋程序及三种本土群体研讨工具。

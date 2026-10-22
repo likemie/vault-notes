@@ -38,13 +38,9 @@ created: 2026-06-12
 updated: 2026-10-22
 ---
 
-# Coupling Coordination Theory
-
 ---
 
-## 核心主张
-
-> [!tip|notitle]
+> [!tip] 核心主张
 > 耦合协调理论（Coupling Coordination Theory）以系统论（Systems Theory）为理论基础，主张若干相互关联的子系统之间并非孤立运行，而是通过能量、信息和要素的流动形成耦合关系（Coupling）——既相互支撑又相互制约。系统的整体发展水平不仅取决于各子系统的独立发展程度，更取决于耦合强度与各自发展水平的协调程度：高耦合高发展才是真正的"协调发展"，高耦合低发展是"共同贫困"，低耦合高发展是"各自为政"。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 62–64)]]
 
 > [!quote|notitle]
@@ -53,9 +49,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > 耦合协调理论的核心可概括为三个相互关联的命题，从"系统如何连接"到"系统如何演进"再到"空间如何分化"逐层递进。
 
 > [!line-a] 命题一：耦合的普遍性

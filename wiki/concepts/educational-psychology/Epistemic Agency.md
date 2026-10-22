@@ -100,11 +100,7 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# Epistemic Agency
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认识能动性（Epistemic Agency，亦作认识主体性、认识能动权）是指学习者在探究实践中，有权且有能力对“知道什么”（知识主张的提出与模型建构）以及“如何知道”（认识准则、检验方法与评价标准的设定）进行自主决策、反思权衡与共同建构的能动状态。它要求教学超越由教师单向颁布规程的程序遵循[[Paradigm\|范式]]，促使学生真正承担起收集经验证据、权衡竞争性解释以及协商知识标准的认识责任，是区分[[Inquiry-Based Learning\|探究式学习]]与单一[[Direct Instruction\|直接教学]]的核心分水岭。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
@@ -138,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认识能动性与相近概念辨析
 > | 维度 | 认识能动性（Epistemic Agency） | 学习自主性（[[Learner Autonomy]]） | 行为参与度（Behavioral Engagement） |
 > |---|---|---|---|
@@ -150,9 +144,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **探究决策的主体裁决权** 学习者能够自主决定探究切入点、选择[[Variable\|变量]]操作路径并构建个性化因果解释，而非照方抓药。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
 > - **认识责任的共担与确立** 学习者不再等待教师告知标准答案，而是对探究结论的严密性与证据因果[[Reliability\|可靠性]]承担实质责任。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 222)]]
 > - **元[[Epistemology\|认识论]]维度的标准辩护** 学习者不仅陈述“观察到了什么”，更必须公开反思并辩护“为什么该观察方法比其他替代方案更可靠”。
@@ -250,8 +242,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -277,8 +267,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 孤立认识纯洁性 vs 关系性/共享认识主体性
@@ -301,8 +289,6 @@ updated: 2026-10-22
 > 认识能动性的顺利展开高度依赖教师的支架搭建能力与学生的先验知识基础。若教师缺乏动态诊断学生推理困境的能力，单纯形式化地放权，容易使课堂探究沦为浮于表面的无效言语争吵，难以形成具有因果严密性的科学共识。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–222)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 7–8)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]教学模式调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

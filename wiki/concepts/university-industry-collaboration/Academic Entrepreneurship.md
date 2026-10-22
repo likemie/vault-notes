@@ -61,11 +61,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Academic Entrepreneurship
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **学术创业（Academic Entrepreneurship）**，广义上亦表现为**学术制度创业（Academic Institutional Entrepreneurship）**，是指大学内部学者及协同行动者识别未来战略机遇、调配组织与跨界资源，并通过赋予行动正当性（Legitimacy）来创建全新制度、组织形态、规程与认知框架的能动性过程。该过程不仅包含传统意义上学者创办商业化衍生公司（Spin-offs）的微观市场行为，更包含学者利用政府与产业危机契机，在大学内外重塑跨学科科研中心、共性研发联合体与多方资助生态的组织创新行为。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 285–286)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学术制度创业与相关产学概念辨析
 > | 比较维度 | 学术制度创业（Institutional Entrepreneurship） | 商业衍生创业（[[University Spin-Out\|academic spin-off]]） | [[Entrepreneurial University\|创业型大学]]模式 |
 > |:---|:---|:---|:---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **成果[[Open-Mindedness\|开放性]]** | 强调成果优先公开发表、知识库非独占共享与人才通用培养 | 严格依赖专利排他性垄断保护与商业机密 | 兼顾开放科学与商业化收入的平衡管理 |
 
 ---
-
-## 核心要素
 
 > [!feature] 学术制度创业的三维行动支柱
 > - **机遇识别（Opportunity Identification）** 敏锐捕捉外部政策转向、地缘技术竞争危机（如日本 [[VLSI Project|VLSI]] 威胁）与重资产科研瓶颈，将宏观外部危机转化为大学设立新型实体的战略窗口。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287)]]
@@ -152,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -170,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] [[Academic Freedom|学术自由]]与工业问责的博弈
@@ -184,8 +172,6 @@ updated: 2026-10-22
 > 学术制度创业模式高度依赖通用制造与测量装备的重资产与多学科共享属性；在技术路径单一、依赖单点独占专利即可形成壁垒的轻资产技术领域，构建庞大跨学科实体反而可能增加官僚协调成本。（pp.287, 299）
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 微电子学术制度创业核心机构的历史规模与资源配置指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

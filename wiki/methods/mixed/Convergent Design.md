@@ -62,11 +62,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Convergent Design
-
 ---
-
-## 1. 定义与核心价值
 
 > [!info] 定义
 > 聚敛式设计（convergent design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。在聚敛式设计中，研究者同时收集量化数据和质性数据，对两类数据分别进行分析，然后将两组分析结果合并（merge）进行比较，以综合解释[[Research Question\|研究问题]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.136]])。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 - **受众需求** 希望在一个研究项目中同时满足量化导向受众和质性导向受众的期待。
 
 ---
-
-## 3. 认识论立场
 
 > [!abstract] [[Pragmatic Paradigm\|实用主义]] (pragmatism)
 > 聚敛式设计通常扎根于[[Pragmatic Paradigm\|实用主义范式]]，强调什么有效（what works）来解决[[Research Question\|研究问题]]。它不追求量化或质性[[Paradigm\|范式]]的排他性，而是认为通过并行的数据收集可以从多维度捕捉现实，不同性质的证据可以互补以服务于对复杂教育现象的解释。
@@ -136,8 +130,6 @@ updated: 2026-10-22
 
 **阶段 3：提取[[Metainferences|元推论]]**
 从[[Joint Display|联合展示]]中提取[[Metainferences|元推论]]：通过**沿行检视**和**沿列检视**，判断量化与质性结果是否确认、一致或分歧。当出现分歧时，可返回分析深入探索数据库、收集额外数据，或讨论某一数据库的局限。
-
-### 4.4 关键工具：联合展示模板
 
 > [!note] 联合展示的操作逻辑
 > 联合展示可以将主题作为列、分类变量（如高/中/低分）作为行，单元格中放置引用或得分，并添加[[Metainferences\|元推论]]行和列。

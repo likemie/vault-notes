@@ -48,11 +48,7 @@ created: 2026-05-05
 updated: 2026-10-16
 ---
 
-# CNCS Evidence Exchange
-
 ---
-
-## 概述
 
 > [!info] 机构定位与运营概况
 > **国家与社区服务公司证据交流中心（Corporation for National and Community Service Evidence Exchange, CNCS EE，现更名为 AmeriCorps Evidence Exchange）** 是由美国联邦独立机构国家与社区服务公司（AmeriCorps）设立的官方公共证据清算平台([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
@@ -60,8 +56,6 @@ updated: 2026-10-16
 > CNCS EE 覆盖国民志愿服务、经济福利、基础教育辅导、青少年行为发展及退伍军人服务等领域。当前处于**活跃运营（Active）** 状态，官方平台为 [americorps.gov/evidence-exchange](https://americorps.gov/about/our-impact/evidence-exchange)，持续作为联邦资助拨款中评估项目证据力度的法定依据。
 
 ---
-
-## 机构背景与资助体系
 
 > [!note] 发展背景与资助演进
 > 依据《爱德华·肯尼迪服务美国法案》（Serve America Act），AmeriCorps 每年向全美非营利组织、学区与高等院校拨付数亿美元的志愿服务专项基金。
@@ -71,15 +65,11 @@ updated: 2026-10-16
 
 ---
 
-## 评级对象与项目纳入范围
-
 > [!feature] 评价范围与项目入库
 > - **样本贡献** 在 Wadhwa et al. 汇总的项目池中，CNCS EE 贡献了 **52 个教育与能力建设领域项目**（均具备正式评估报告与明确证据等级）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **评估对象级别** 针对受资助的组织机构、具体干预方案及单项独立评估报告进行综合评级。
 
 ---
-
-## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
 > CNCS EE 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=2, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，对组间对比实验与准实验均建立了明确的证据质量审查指南([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
@@ -88,8 +78,6 @@ updated: 2026-10-16
 > 2. **多层级证据阶梯** 建立了从“概念验证（Preliminary）”到“严格因果（Strong）”的清晰发展阶梯。
 
 ---
-
-## 评级体系与最高准入门槛
 
 > [!contrast-table] CNCS EE / AmeriCorps 证据分层标准
 > | 证据等级 | 核心准入条件与方法学门槛 |
@@ -101,14 +89,10 @@ updated: 2026-10-16
 
 ---
 
-## 生态定位与政策作用
-
 > [!warning] 联邦政策治理意义
 > - **财政杠杆撬动实证研究** CNCS EE 成功展示了如何通过联邦资助条款，倒逼基层非营利组织与学校主动引入高校或专业智库开展独立因果评价，推动了基层教育志愿项目的科学化发展([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。
 
 ---
-
-## 相关概念／政策
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — CNCS EE 代表了联邦拨款机构将证据清算与项目资助深度绑定的治理[[Paradigm\|范式]]。

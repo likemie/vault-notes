@@ -29,10 +29,7 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Responsible Innovation
-
 ---
-## 定义
 
 > [!info] 核心定义
 > 负责任创新是一种集体的（collective）、参与性的（participative）、包容受创新影响的不同利益相关者（stakeholders）的创新方式。它力图管理创新的风险和不确定性，在技术开发过程中就前瞻性地识别和应对伦理问题，而非等工具开发完成后再做补救。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 29-30)]]
@@ -51,7 +48,6 @@ updated: 2026-10-22
 在监管方面，峰会讨论提出了关键张力：有人认为过早监管会扼杀创新，有人则认为监管将改善实践、创造公平竞争环境。负责任创新的立场倾向于有效的而非繁重的监管——应允许不同行业和应用情境采用不同实践方式，必须允许实验；监管应强调从失败中学习和改进的过程，而非仅仅追究责任和惩罚。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 29-30)]]
 
 ---
-## 应用案例
 
 > [!info] AI 决策中的负责任创新
 > AI 驱动的决策工具在医疗保健和保险行业已开始部署，这些早期采用者提供了负责任创新的关键学习机会。峰会强调大学通过[[University-Industry Collaboration\|产学合作]]应当在开发包含伦理考虑的 AI 负责任创新方法方面走在前列。所有领域的研究者都应考虑和反思其研究的目的、动机和后果。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 29-30)]]

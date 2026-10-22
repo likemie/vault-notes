@@ -48,11 +48,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Sunset Provisions
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **日落条款（Sunset Provisions）** 是指在科技资助政策、研发机构治理与公共法规中预先设定的法定存续时限约束机制。该机制明确规定：公共资助机构对特定研发实体（如大学跨学科研究中心）的资助并非永久性基准拨款，而是在经历预设的固定周期（如 10 年）后自动终止，受资助中心必须在此期限内证明自身学术突破与产业应用价值，并建立起多元化的外部造血机制，否则将被依法淘汰或关闭。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 373–374)]]
@@ -83,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **法定有限资助周期** 资助协议预先设定不可协商的资助存续上限（如 [[National Science Foundation|NSF]] 规定的 10 年上限）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 > - **阶段性淘汰威慑** 设立严格的期中实地审核（如第 3 年与第 6 年评估），未达标中心果断关停终止合同。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
 > - **多元配套造血驱动** 强制要求中心在联邦资助期内逐步提高产业界会员费、地方政府出资与[[Research Translation|技术转化]]授权收入比例。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 374)]]
@@ -129,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 核心争议
 >
 > > [!axis] 十年硬性日落与基础前沿科学长周期探索的张力
@@ -160,8 +150,6 @@ updated: 2026-10-22
 > 日落条款高度适用于以应用转化、跨学科系统工程及产学协同为目标的实体研发中心，不宜机械套用于需要几代学者连续积累的纯基础理论学科与人文社科研究基地。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

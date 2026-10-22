@@ -109,11 +109,7 @@ created: 2026-05-07
 updated: 2026-10-22
 ---
 
-# Knowledge-Based Economy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识经济（Knowledge-Based Economy, KBE）指一种实际存在的资本积累与社会生产形态，其中知识、创新、学习、高等教育、研发、技术以及[[Higher-Order Thinking Skills|高阶思维技能]]（特别是[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）是价值创造、财富提取以及国家、城市和区域间[[Geopolitics|地缘政治]]与经济竞争的绝对核心要素。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
@@ -134,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识经济与相关发展[[Paradigm|范式]]辨析
 > | 维度 | 知识经济 (KBE) | 福特制工业经济 | 后工业社会 (Bell) |
 > |---|---|---|---|
@@ -145,8 +139,6 @@ updated: 2026-10-22
 > | **劳动力要求** | 能够应对劣构复杂问题的审辩与[[Creativity\|创造性]]主体 | 遵循既定操作手册的纪律化体力/程序化工人 | 掌握专业学科知识的服务性白领 |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识经济的核心结构特征
 > - **无形资产与一般智识的价值化** 财富创造的主要来源从自然资源与有形物质资本，系统性转变为无形专利、数据算法、知识网络与[[Human Capital Theory|人力资本]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
@@ -244,8 +236,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -259,8 +249,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 知识经济概念演进脉络
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 > - **二战后奠基（1950s–1970s） — 知识劳动者与后工业理论** Drucker（1959/1969）提出“知识型雇员”（Knowledge Worker）；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
@@ -271,8 +259,6 @@ updated: 2026-10-22
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -298,8 +284,6 @@ updated: 2026-10-22
 > - **软法指标治理的主权边界** 依托数据指标推行的知识经济软法治理虽然能够达成形式上的政策趋同，但在触及成员国核心宪制主权（如联邦制教育文化主权）时，仍受制于本土政治势力的策略性重组与防御性抵制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 知识经济与高等教育实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

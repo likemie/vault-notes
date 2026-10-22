@@ -40,11 +40,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Evidence Backlash
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据反弹（Evidence Backlash）是指在后真相与社交网络极化环境中，当公众或特定利益群体遭遇与自身既有信念、政治立场或文化认同相冲突的实证研究证据时，不仅拒绝接受该证据，反而激发出更强烈的心理防卫与对“专家群体”及“科学过程”本身的激进贬低、质疑甚至仇视的[[Epistemology\|认识论]]现象。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]引述 Lewandowsky et al.（2017）的诊断，指出证据反弹彻底粉碎了古典循证运动“只要提供严谨数据即可导向理性决策”的理想化假定。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])
@@ -61,16 +57,12 @@ updated: 2026-10-22
 
 ---
 
-## 发生机制与催化条件
-
 > [!feature] 证据反弹的三重催化机制（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 56–57]]; Lewandowsky et al., 2017）
 > - **身份防卫与证实偏差（Identity Defense & Confirmation Bias）** 证据往往触及教育理念（如严格纪律 vs 宽松探究）背后的道德直觉与意识形态；当科学结论威胁到群体的核心自我认同时，受众倾向于通过攻击研究者的动机或中立性来化解认知失调。
 > - **反专家民粹修辞的泛滥（Disdain for Experts）** 在公共舆论场中，“象牙塔专家不接地气”、“证据是技术官僚剥夺教师/家长自主权的借口”等修辞被政客或自利操纵者广泛动员，诱发普遍的信任坍塌。
 > - **算法回音室的极化放大** 社交媒体根据点赞与情绪偏好持续推送同质内容，使反科学观点在社群内部互相确证，最终形成对任何外部相反证据具有强烈排异反应的封闭体系。
 
 ---
-
-## 知识治理视阈下的应对之道
 
 > [!finding-cards] 对[[Educational Brokerage Agency\|教育中介机构]]的战略启示
 > - **超越“信息[[Deficit Model of Science Communication\|赤字模型]]”** 中介机构必须认识到，证据不被利用并非单纯因为教师或官员“不懂或看不到”，而是面临深层的[[Epistemology\|认识论]]防卫；因此，单向灌输和海量发布[[Abstract\|研究摘要]]只会加剧反弹。

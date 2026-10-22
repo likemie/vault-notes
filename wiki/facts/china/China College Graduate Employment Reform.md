@@ -40,8 +40,6 @@ created: '2026-05-08'
 updated: 2026-10-22
 ---
 
-# China College Graduate Employment Reform
-
 ---
 
 > [!info] 背景

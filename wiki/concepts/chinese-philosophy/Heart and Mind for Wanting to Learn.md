@@ -44,11 +44,7 @@ created: 2026-05-21
 updated: 2026-10-22
 ---
 
-# Heart and Mind for Wanting to Learn
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 好學心（hao-xue-xin, heart and mind for wanting to learn）是一个中国本土学习概念，指一个人内在的、自发的求知欲望与向学之心。[[Jin Li]] 在博士论文研究中以该概念替代西方心理学的"成就动机"（achievement motivation），并随后将其发展为描述中国学习模型的核心概念([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix–x]])。
 
 > [!quote|notitle]
@@ -56,9 +52,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > ### vs 成就动机（Achievement Motivation）
 > 西方心理学中的"成就动机"关注个体追求成功、避免失败的内驱力，通常以可量化的目标达成为导向。好學心则不以"成就"为参照——它描述的是学习者对学习本身的渴望，而非对学习结果的追求。根本差异在于翻译上的语义断裂：在中文日常用语中，"动机"偏指向犯罪意图（如"杀人动机"），而非学习意愿([[Argument_Li_2012_Cambridge\|Li, 2012, p.ix]])。因此当 Li 的母亲听到"成就动机"时，"完全无法产生任何中文联想"——这不是文化隔阂，而是翻译制造了一个在目标语言中不存在日常语义锚点的概念。
 
@@ -97,9 +91,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > ### 学校中的[[Learning Virtues\|学习美德]]实践
 > Li 报告了以下来自中国学校的系统性观察([[Argument_Li_2012_Cambridge\|Li, 2012, pp.13–14]])：
 >

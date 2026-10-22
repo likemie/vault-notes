@@ -33,8 +33,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Alumni Engagement in University-Industry Collaboration
-
 > [!info] 定义
 > 校友参与[[University-Industry Collaboration\|产学合作]]（Alumni Engagement in University-Industry Collaboration）指大学有策略地动员和引导校友资源来启动、推动和深化产学伙伴关系。其核心优势在于校友的"双重信任"地位：校友既了解母校的研究优势、文化和内部运作方式，又在产业中建立了信誉和人际网络，因此可以同时充当倡导者、连接者、赞助者和合作者([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, pp.74–75]])。
 

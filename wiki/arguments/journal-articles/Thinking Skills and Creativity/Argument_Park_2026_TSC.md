@@ -116,7 +116,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Park_2026_TSC
 
 ---
 
@@ -140,8 +139,6 @@ issuing_organization: ""
 > 此外在方法部分检验两测量类型的交互项，预期同型组合相关更高。
 
 ---
-
-## 理论框架
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -173,8 +170,6 @@ issuing_organization: ""
 > 
 > **图表解读** 主客观编码遵循创造力[[Meta-analysis\|元分析]]惯例（Storme et al., 2021; N. K. Park et al., 2016）：主观指自陈或自评作答，客观指观念/产品产出或任务表现。同一构念的编码随研究而异，完整逐研究归属见下方 Table 1。（pp. 4–5）
 
-### 核心变量与操作化编码表
-
 > [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
@@ -187,8 +182,6 @@ issuing_organization: ""
 > **图表解读** 本表界定[[Meta-analysis\|元分析]]中两类核心构念及其测量编码、三个调节变量与测量类型组合，为后续亚组与[[Meta-regression\|元回归]]分析提供操作化基准；测量类型的主观-客观编码直接支撑[[Common Method Variance\|共同方法变异]]放大相关的核心解释。（pp. 4–5）
 
 ---
-
-## 研究方法
 
 > [!evidence-scope] 证据范围与[[Unit of Analysis\|分析单位]]
 > - **总体** 学生样本，覆盖中学/高中、大学与研究生各学段。
@@ -276,8 +269,6 @@ issuing_organization: ""
 > | **地理与学段构成** | 样本覆盖北美、东亚、中东与其他国家；学段以大学生为主，含部分中学/高中与研究生。（pp. 5–6） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -482,8 +473,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]呈显著中等正相关** [[Three-Level Meta-Analysis\|三水平元分析]]综合 29 项学生研究 51 个相关系数（$N = 12{,}548$），总体相关 $r = 0.386$（95% CI $[0.296, 0.470]$，$p < .001$），RVE 敏感性分析结果一致。（pp. 6–7）
 > 2. **测量类型显著调节相关，双主观组合最高** 双主观测量组合 $r = 0.509$，双客观 $r = 0.317$，混合组合 $r = 0.195$–$0.260$；测量类型与交互项均显著，同型测量放大观察相关。（pp. 8–9）
@@ -497,8 +486,6 @@ issuing_organization: ""
 > - **$Q_M(1) = 6.524$** 测量类型交互项检验（$p = .011$）。（p. 8）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 总体相关的核心结论
 > 尽管显著[[Heterogeneity\|异质性]]存在，但正如所假设的，我们发现的总体相关估计明确落在中等范围且显著为正，表明两个[[Construct\|构念]]的测量之间存在某种重叠。（p. 9）
@@ -516,8 +503,6 @@ issuing_organization: ""
 > *Instruction that simultaneously cultivates creative ideation and evaluative reasoning may yield broader cognitive benefits than programs targeting either skill in isolation... the relationship between the two constructs is investigated at the between-individual level, and this relationship (or its strength) may not translate to the within-individual level.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与边界
 > 1. **无法剥离第三方心理属性** 相关的一部分可能归因于一般心理能力、经验[[Open-Mindedness|开放性]]/智力开放性、认知需求等同时解释两个[[Construct\|构念]]的属性：一般心理能力已显示与[[Creativity\|创造力]]相关（Gerwig et al., 2021; Kim, 2008），[[Critical Thinking\|批判性思维]]被讨论为智力的潜在再定义（Halpern, 2003），甚至两者都可能被视为智力的组成（Albergaria-Almeida, 2011）；且两者均与开放性正相关（Feist, 1998; Clifford et al., 2004）。控制这些[[Variable\|变量]]后相关可能被削弱。（pp. 10–11）

@@ -35,8 +35,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Life Power
-
 > [!info] 定义
 > Life Power（生命力量，德文：Lebenskraft）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中提出的概念，指在"新"与"旧"之间的意义张力中，为存在赋予意义的实践性再定位能力。它是局部社区所拥有并被其解释为存在意义及过去-现在-未来连续性的一切——包括记忆、口述传统、艺术、精神性、人际关系和日常实践([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.113–116]])。
 >

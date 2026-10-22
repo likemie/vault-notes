@@ -87,11 +87,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Discipline-Based Theory
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学科理论（Discipline-Based Theory），亦称学科本位理论或实质内容理论，是指源自成熟母学科（社会科学、人文学科或自然科学）的系统性[[Theoretical Knowledge|理论知识]]体系，涵盖事实认知、因果命题与概念结构。该概念在当代教育研究与治理中呈现三重方法论与[[Epistemology|认识论]]意涵：
@@ -118,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学科理论与相关范畴多维辨析
 > | 维度 | 学科理论（Discipline-Based Theory） | 社会正义理论（[[Social Justice Theory]]） | 程序性操作知识（[[Procedural Knowledge]]） | 纯技术主义测量指标 |
 > |---|---|---|---|---|
@@ -130,8 +124,6 @@ updated: 2026-10-22
 > | **典型代表** | [[Attribution Theory\|归因理论]]、[[Self-Determination Theory\|自我决定理论]]、[[Allgemeine Pädagogik\|普通教育学]] | 女性主义、批判种族理论、残障研究理论 | 团队协调、商业谈判、危机应对与数字操作 | [[IEA]] 测验量表、[[PISA]] 素养排名指标 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Mixed Methods Research|混合方法]]中学科理论的六大功能
 > 根据 Creswell & Creswell（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 69–70]]）与 Evans et al.（2011）的论述，学科理论在混合方法研究中发挥六项核心整合功能：
@@ -222,8 +214,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -232,8 +222,6 @@ updated: 2026-10-22
 > | **知识经济解构命题** | 全球治理[[Discourse\|话语]]推动学习重心从学科理论（knowing that）转向操作技能（knowing how） | 全球知识经济政策、跨国测评治理与认识论批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; Foray and Lundvall (1996) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 学科理论的学术演变脉络
 > - **20世纪中叶 — 大学讲座与学科理论垄断** 欧洲比较教育学依托大学讲座教授制，将比较研究牢固锚定在哲学、历史学与[[Allgemeine Pädagogik|普通教育学]]的学科本位理论之上，排斥去理论化的纯技术调查。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
@@ -244,8 +232,6 @@ updated: 2026-10-22
 > - **2020s — 超国家素养测评侵蚀下的理论自主性反思** 面对 [[PISA]] 等去学科化、去情境化的跨国通用素养排名的技术主义侵蚀，学界重新呼唤回归学科本位理论与深厚文化历史阐释，重构教育探究的批判反思力与学术自主性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与反思
 >
@@ -265,8 +251,6 @@ updated: 2026-10-22
 > 学科理论的解释效力依赖于母学科概念体系的成熟度与边界清晰度；在面对快速变迁的新兴交叉议题时可能产生学科壁垒与[[Path Dependence|路径依赖]]，但盲目抛弃学科理论将导致实证研究陷入缺乏因果机制的无理论[[Empiricism|经验主义]]。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨领域学科理论实证与政策研究对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

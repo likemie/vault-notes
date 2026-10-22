@@ -38,9 +38,6 @@ status: draft
 created: 2026-07-12
 updated: 2026-10-22
 ---
-# Non-Equivalent Control Group Design
-
-## 定义
 
 > [!def] 非等价控制组设计
 > 非等价控制组设计（Non-Equivalent Control Group Design）是最常用的[[Quasi-Experimental Designs\|准实验设计]]之一，其关键特征是实验组与控制组**未通过[[Random Assignment\|随机化]]实现等价**——因此在设计图中用虚线分隔两组（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
@@ -55,8 +52,6 @@ Campbell and Stanley (1963) 符号表示为：
 
 虚线表示两组未通过随机分配等价。
 
-## 方法定位
-
 > [!method-position] 与真实验的关键区别
 > - **研究者角色** 使用已有完整组别（intact groups），无法控制"谁何时接受何种暴露"。
 > - **有效性标准** 组间可比性依赖于匹配而非[[Random Assignment\|随机化]]；随机化在理论上控制所有可能的自[[Variable\|变量]]，匹配只控制少数命名变量（Smith, 1991, p. 215）。
@@ -69,8 +64,6 @@ Campbell and Stanley (1963) 符号表示为：
 1. 在关键自[[Variable|变量]]上对实验组和控制组进行**匹配（[[Matching]]）**，然后[[Random Assignment|随机分配]]至两组。
 2. 若匹配不可行，使用**来自同一总体的样本**或尽可能相似的样本（Kerlinger, 1970）。
 3. 若完整组别差异较大，匹配可能因**回归效应（regression effects）** 导致[[Pre-test and Post-test|后测]]均值差异，此时匹配效果不佳。
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 教育研究中无法[[Random Assignment\|随机分配]]学校或班级的场景；需要对已有组别进行干预效果评估。

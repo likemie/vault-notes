@@ -52,11 +52,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# 1961 Policy Conference on Economic Growth and Investment in Education
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 1961 年华盛顿政策会议是战后全球教育治理史上具有划时代意义的制度分水岭。会议不仅在西方世界全面确立了将教育视为经济增长核心生产要素的[[Human Capital Theory\|人力资本]][[Paradigm\|范式]]，而且正式奠定了非教育专门国际组织（[[OECD\|经合组织]]）将教育治理纳入自身经济协调法定使命（[[Education-for-Mandates\|Education-for-Mandates]]）的历史与法理基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **1960–1961 — 筹备与议程设定** [[OECD\|经合组织]]科学与技术人员委员会（CSTP）与肯尼迪智囊团紧密协同，打破传统教育仅关乎文化教化与公民品德的人文传统，明确将“教育作为经济投资”设定为大会核心议题。
 >   - 1961-09 OECD 成立条约正式生效，秘书长托基尔·克里斯滕森（Thorkil Kristensen）强调教育是经济增长的关键瓶颈。
@@ -80,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 华盛顿会议宣言与教育作为生产性投资定性
 > 教育是一项对人的能力发展的至关重要的生产性投资，它在决定现代国家经济长期增长率方面发挥着不可替代的作用。公共政策必须打破将教育经费视作财政负担与纯粹消费性开支的传统偏见，将教育系统扩张与国民经济增长目标实施整体规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
 > *Education is an investment in human capability which is of fundamental importance for economic growth. Expenditure on education should no longer be seen merely as a financial burden or consumption, but as a primary agent for economic progress.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **经济理性倡导者 / 跨界改革先锋** [[OECD\|经合组织]]秘书处、美国国际开发总署与芝加哥学派/计量经济学者 — 强调教育投入产出比、劳动力技能预测与经济增长函数，推动教育政策的技术官僚化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -110,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 确立了经济协调类国际组织全面介入国家教育政策制定的常态化机制，推动各国普遍建立与国家经济计划委员会相配套的教育规划处室。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **思想[[Paradigm\|范式]]变迁** 彻底扭转战后公共财政理念，使教育投资成为与实物资产投资等量齐观的经济公理，促成了战后教育的大扩张时代。
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > - **从规划扩张走向指标规制** 随着 1970 年代滞胀与财政紧缩，华盛顿会议所确立的“增加投资驱动增长”逻辑反向逆转为“检验投资效率与产出效益”，直接倒逼经合组织转型研发 [[International Indicators of Education Systems\|INES]] 与 [[PISA]]。
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

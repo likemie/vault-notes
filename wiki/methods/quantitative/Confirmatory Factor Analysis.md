@@ -46,11 +46,7 @@ created: 2026-08-15
 updated: 2026-10-20
 ---
 
-# Confirmatory Factor Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 验证性因子分析（Confirmatory Factor Analysis, CFA）是一种用来测试研究者预先设定的潜[[Variable\|变量]]（因子）结构是否与实际收集到的数据相契合的统计方法。与[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）不同，CFA 要求研究者在分析前就明确指定哪些外显指标（观测变量）对应哪些潜在因子。
@@ -63,8 +59,6 @@ updated: 2026-10-20
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 认为心理与教育测量中的诸多概念（如智力、动机、[[Epistemological Beliefs\|认识论信念]]）是无法直接观测的潜[[Variable\|变量]]，必须通过一组可观测的指标来推断。
 > - **研究者角色** 研究者基于先验理论或前期探索研究提出结构假设，主观决定模型的设定。
@@ -76,16 +70,12 @@ updated: 2026-10-20
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. 根据理论或前期研究，构建测量模型（指明题项与因子的对应关系，以及因子间的协方差）。
 > 2. 收集足够规模的样本数据（通常要求 N > 200）。
 > 3. 运行模型并进行参数估计。
 > 4. 评价模型拟合度。如果不佳，可参考修正指数（Modification Indices, MI）谨慎修改模型。
 > 5. 报告因子载荷、测量误差与整体拟合指数。
-
-### 量化方法模块
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** 横截面数据为主，追踪数据可用于做[[Measurement Invariance\|测量等值性]]（Measurement Invariance）检验。
@@ -139,22 +129,16 @@ updated: 2026-10-20
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 验证成熟量表在不同人群中的[[Construct Validity\|结构效度]]，或在进行复杂的[[Causal Modeling\|结构方程建模]]前验证测量模型。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **误用风险** 为了追求好的拟合指数，无视理论依据盲目释放误差协方差（ correlated errors）。
 > - **适用边界** [[Sample Size Determination\|样本量]]过小时估计不稳定；当观测指标不是连续[[Variable\|变量]]而是 Likert 等级评分时，使用传统 ML 估计可能导致[[Standard Error\|标准误]]偏误。
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] —  使用验证性因子分析（CFA）评估了《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）在数学和历史领域的维度结构及其数据拟合度。

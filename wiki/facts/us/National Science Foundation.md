@@ -126,11 +126,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# National Science Foundation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 美国国家科学基金会（National Science Foundation, NSF）是美国联邦政府负责促进非医学领域基础科学、工程技术研究、科学教育以及前沿跨学科创新的核心独立官方资助机构；作为二战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的民事基石，与[[Office of Naval Research|海军研究办公室]]（ONR）、原子能委员会（AEC）及国立卫生研究院（[[National Institutes of Health|NIH]]）形成机制协同，统领全美大学基础研究投资、科学、技术、工程与数学教育（[[STEM Education|STEM]]）改革以及产学研区域协同创新网络。在《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体战略中，NSF 联合主持白宫微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]），统领未来半导体（FuSe）前沿攻关与全美纳米中试设施；在 2026 年国家科技战略重塑中，NSF 进一步肩负起探索[[Metascience|元科学]]资助机制创新、依托技术创新合作理事会（[[Directorate for Technology, Innovation and Partnerships|TIP]]）孵化[[NSF Regional Innovation Engines|区域创新引擎]]与支持新型[[Focused Research Organization|聚焦研究组织]]（FRO）的战略重任。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
@@ -142,8 +138,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 法定使命为“促进科学进步；增进国家健康、繁荣与福利；保障国家安全”；资助自由探索的[[Curiosity-Driven Research|蓝天研究]]、推进全纳的科学与[[Engineering Education|工程教育]]（[[STEM Education]]），并通过产学研协同机制促进实验室成果向经济生产力转化。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
 > - **1945–1950 — 创设立法博弈与战后科学治理妥协**
@@ -170,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策与监督机构（[[National Science Board|国家科学委员会]] NSB）** 由总统任命并经参议院确认的 24 位顶尖科学家、工程学者与产业界领袖组成，负责制定国家宏观科学政策与 NSF 总体发展方针。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 > - **执行领导层（Director）** 由总统提名并经参议院确认的基金会主任（任期六年）主持日常运行，统筹各学术理事会与跨学科倡议的战略执行。
@@ -185,8 +177,6 @@ updated: 2026-10-22
 > - **与 [[DARPA]] 的跨机构资助接力（Institutional Relay）** 对于颠覆性新构想（如应变硅技术），通常由 DARPA 率先承担早期概念验证风险；可行性确立后，学者转入 NSF 申请基金开展深入机理研究。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与科研矩阵
 > - **大学基础科研资助基石（[[Curiosity-Driven Research|Blue Skies Research]]）** 每年下拨数以万计竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育数百位诺贝尔奖得主。
@@ -206,8 +196,6 @@ updated: 2026-10-22
 > *To promote the progress of science; to advance the national health, prosperity, and welfare; to secure the national defense; and for other purposes.*
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >
@@ -242,8 +230,6 @@ updated: 2026-10-22
 > > - **可携带奖学金改革论** 主张大[[Scale Enlargement|规模扩充]] NSF GRFP 奖学金名额，直接向博士生本人发放可携带资金，赋予青年学者挑选顶尖导师与跨学科探索的充分自主权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 
 ---
-
-## 实证数据
 
 > [!stat-cards]- 核心规模与改革数据
 > - **~$9–10 Billion** NSF 年度联邦科研预算总额。

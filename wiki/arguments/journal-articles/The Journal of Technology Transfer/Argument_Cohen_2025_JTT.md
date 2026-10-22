@@ -72,7 +72,6 @@ citation_aliases:
   - "Cohen et al., 2025"
   - "Cohen et al. (2025)"
 ---
-# Argument_Cohen_2025_JTT
 
 > [!question]
 > 产学研发合作（UICs）产生的影响如何在概念上系统地分类？测量这些影响时会遇到哪些方法论障碍，又有哪些策略可以克服这些障碍？
@@ -408,9 +407,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - 25 种 UIC 影响被归入智力、经济、技术、环境、社会和战略六种类型，构成 UIC 影响测量框架的分类基础。按主体划分，产业视角涵盖 18 种影响（最多），社会视角仅 10 种（最少）——这一不对称反映了现有研究对产业视角的系统性倾斜(pp.355–361)。
 > - 五维分类系统（类型 × 主体 × 时间 × 发生方式 × 性质）使每种影响可从多个维度同时标记，克服了单一维度分类的信息损失，并为不同研究之间的比较提供了共同语言(pp.354–355)。
 > - 影响类型的时间趋势明显分化：经济影响从 2000 年起持续占据主导地位；社会影响在 2015–2022 年间急剧增长，表明学界对"研究如何回应社会需求"的关注在上升；环境影响则始终处于边缘——在 92 篇分析文献中仅个别研究触及（Fig. 3, p.362）。
@@ -425,9 +422,7 @@ Fig. 4 以绿色、淡紫色和黄色三层可视化地展示了挑战与策略�
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "在 UIC 语境中，影响被定义为源自合作的正向或负向变化，可以直接或间接地影响个体、组织、社区和整个社会。"（"impact is defined as a positive or negative change originated in the UIC context that can directly or indirectly affect individuals, organizations, communities and society in general."）(p.346, citing Siemieniako et al., 2021)
 
 > [!quote|notitle]

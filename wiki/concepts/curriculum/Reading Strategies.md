@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Reading Strategies
-
 > [!metax] [阅读策略 · Reading strategies](https://www.visiblelearningmetax.com/influences/view/reading_strategies)
 > 课程 › 读写与艺术
 >

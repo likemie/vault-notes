@@ -60,11 +60,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# Process Tracing
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 过程追踪法（Process Tracing）是政治学、历史社会学与公共政策分析中用于案例内[[Causality|因果推断]]的核心[[Qualitative Research|质性研究]]方法。该方法不依赖大样本统计控制，而是深入单一案例或少量比较案例的内部历程，通过对时间序列档案、口述证词与决策现场材料的密集挖掘，追踪连接初始条件（[[Independent Variable|自变量]]）与最终政策产出（[[Dependent Variable|因变量]]）之间的微观中介[[Causal Processes|因果过程]]（Intervening causal processes）与因果机制（Causal mechanisms）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 秉持因果实在论（Causal Realism）。认为[[Causality|因果关系]]不仅是统计[[Variable|变量]]间恒常相伴的线性相关（Constant conjunction），而是存在于物理与社会世界中的真实生成机制（Productive mechanisms）；即便缺乏大样本统计量，详尽的微观[[Chain of Evidence|证据链]]同样能够确立强健的因果解释。
 > - **研究者角色** 兼具历史侦探与法官角色。研究者根据预先设定的理论假说，深入档案、会议纪要与当事人证词，运用贝叶斯更新（Bayesian updating）逻辑，评估每一条新发现的证据在多大程度上强化或削弱了特定因果链条的可[[Reliability|信度]]。
@@ -99,16 +93,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 过程追踪通用分析规程
 > 1. **界定因果疑问与候选假说** 明确待解释的[[Dependent Variable|因变量]]（如政策从僵局到火速采纳），系统梳理现有学术文献，提出两种或以上相互竞争的因果机制假说（如“纯粹科学证据驱动假说”对立于“政治利益交换与财政勒索假说”）。
 > 2. **建立微观因果机制的理论预期步骤** 将从起点到终点的[[Causal Processes|因果过程]]解构成可观察的微观中介节点（$A \to B \to C \to D$），并预测若该机制真实发生，应当留下何种具体的文本线索、制度会议与通信痕迹。
 > 3. **搜集密集的多源证据** 开展大规模[[Elite Interview|精英访谈]]、搜集非公开备忘录、法案初稿修订痕迹与行政统计报告，还原完整的时间轴与决策动作。
 > 4. **运用贝叶斯逻辑检验[[Chain of Evidence|证据链]]条** 审查各节点之间是否存在逻辑跳跃或事实断裂，排查是否存在未被预料的混杂因素或反向因果。
 > 5. **撰写因果机制叙事报告** 呈现不可替代的关键转折点（Critical junctures）与机制运作逻辑，说明各因素如何协同导致最终产出。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -126,16 +116,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适合回答“政策是如何被一步步制定出来的”、“为什么看似完美的科学改革方案在实践中变质”、“行动者如何在复杂制度结构中策略性博弈”等纵深因果机制问题。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
 > - **谨慎使用** 当政策决策发生在高度保密、档案缺失且当事人拒绝接受访谈的封闭场景中时，因[[Chain of Evidence|证据链]]极易产生断裂，需谨慎运用。
 > - **不适合使用** 不适合用于评估大规模人群干预的处理效应平均数值，亦不适合在缺乏具体决策过程细节的大样本[[Cross-sectional Study|横截面研究]]中使用。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **无限后退问题（Infinite regress）** 因果机制总能被无限向下细分，研究者必须根据理论收益设立合理的因果细分停止点（Stopping rule）。
@@ -156,8 +142,6 @@ updated: 2026-10-22
 > | [[Case Study]] | 关联方法 | 过程追踪是纵深个案研究实现严谨[[Causality\|因果推断]]的核心分析引擎。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 麦克唐纳与韦瑟福德通过过程追踪法追踪[[Common Core State Standards|共同核心标准]] 5 年生命周期，揭示出实证研究如何与[[Professional Judgment|专业判断]]及政治价值发生阶段权变性整合。

@@ -49,16 +49,12 @@ created: '2026-05-13'
 updated: 2026-10-22
 ---
 
-# Youth Guarantee Scheme
-
 > [!info] 背景
 > Youth Guarantee Scheme（青年保障计划）由[[EU|欧盟]]理事会于 2013 年 4 月 22 日通过理事会建议书（Council Recommendation）设立，是 [[Europe 2020 Strategy]]（2010–2020）框架下应对青年失业问题的关键政策工具。该计划将就业、青年工作和教育培训领域联结起来，旨在解决完成义务教育后进入失业状态的青年群体面临的过渡困境(European Council, 2013; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])。
 >
 > Youth Guarantee 的设立标志着欧盟政策[[Discourse|话语]]中的一个重要转变：义务教育的结束不再意味着国家责任的终止，而是进入一个由就业、教育、培训和[[Apprenticeship|学徒制]]共同构成的保障新阶段。这体现了欧盟对"教育培训体系"一体化理解的具体制度化——即教育不应是孤立于就业之外的服务，而应与就业政策无缝衔接([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169]])。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > Youth Guarantee Scheme 的核心承诺是：确保任何青年在离开学校或结束一份工作后的 **4 个月内**，获得以下四项之一的机会(European Council, 2013; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])：
 >
 > - **就业（employment）**

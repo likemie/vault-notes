@@ -48,11 +48,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Rule Ambiguity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **规则内生模糊性（Rule Ambiguity）** 指成文法律、法规与正式组织章程在词义表述、适用范围及现实执行中内生具有且不可消除的抽象性、原则性与解释缝隙。[[Historical Institutionalism|历史制度主义]]认为，模糊性并非立法技术不成熟所导致的暂时瑕疵，而是人类认知局限、政治妥协起草以及立法与日常执法组织分离的必然物理属性；这一属性从根本上打破了规则遵从的确定性，为微观行动者在日常政治中展开策略性重新解释与重定向提供了持续的微观[[Champ|场域]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 规则模糊性与相关制度概念的维度辨析
 > | 维度 | 规则内生模糊性（Rule Ambiguity） | [[Enforcement Discretion\|解释执行裁量权]] | [[Disjointed Pluralism\|脱节多元主义]] |
 > |:---|:---|:---|:---|
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > | **变迁功能** | 为微观博弈提供不可消除的“软肋与缝隙” | 充当决定转换（[[Institutional Conversion\|conversion]]）与漂移（[[Institutional Drift\|drift]]）的结构杠杆 | 解释制度为何天然缺乏有机自洽性与统一设计 |
 
 ---
-
-## 核心要素
 
 > [!feature] 规则内生模糊性的四大产生机制
 > - **无限复杂性与有限完备性** 人类制定规则所依赖的抽象语言永远无法穷尽真实世界未来发生的所有极端边界情境；任何新经济技术现象或社会冲突出现时，制度文本必然面临未列举漏洞，必须依赖解释性填补（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 11–12]]）。
@@ -130,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-## 经验案例与应用场景
-
 > [!case] 经验案例一：美国 1964 年《民权法》第七章与平权执法（Lieberman 案例）
 > - **妥协模糊的立法条文** 1964 年美国国会在保守派压力下起草平权法案时，故意对平等就业机会委员会（EEOC）的权力作出含糊妥协，剥夺了其直接发布禁令的行政强制权，保守派意图将其架空为象征性虚职（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 13–14]]）。
 > - **裁量扩张撬动体制转换** EEOC 内部自由派官僚敏锐抓住条文关于“模式与实践歧视”的模糊表述，策略性支持民权团体向联邦法院提起集团诉讼；联邦法官借助扩张性司法解释逐步确立了“不相称影响原则”（Disparate Impact），反向将一个羸弱机构铸造为全球规制能力最强的平权实体之一。
@@ -141,8 +131,6 @@ updated: 2026-10-22
 > - **两度颠覆性转用** 在大萧条时期被罗斯福政府重释为对全国工业劳动标准与工会集体谈判权的联邦干预依据；在 1960 年代民权运动中，进一步被最高法院重释为勒令私营旅馆与餐厅废除种族隔离的法律武器（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 21]]）。
 
 ---
-
-## 学术争论与前沿对话
 
 > [!debates] 学术争议
 >

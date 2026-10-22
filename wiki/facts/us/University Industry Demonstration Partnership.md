@@ -72,11 +72,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# University Industry Demonstration Partnership
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 大学-产业展示合作伙伴组织（University Industry Demonstration Partnership，简称 UIDP）是一个全球性的[[University-Industry Collaboration|产学合作]]专业机构与实践者联盟。该组织定位于产学合作领域的“制度性基础设施提供者”，不直接撮合单一具体科研项目，而是致力于通过开发可操作的标准化实践工具、汇聚全球产学前沿管理者与推动跨部门规则共识，系统降低大学与企业之间的制度交易成本。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 16–20)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 103–108)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1980s–2003 — 产学合同困境与 GUIRR 早期探索** [[National Academy of Sciences|美国国家科学院]]成立政府-大学-产业研究圆桌会议（Government-University-Industry Research Roundtable, GUIRR），致力于简化科研合同流程；2003 年 GUIRR 推出首份知识产权示范协议，但实践表明“一刀切”的合同模板无法适应多元产业需求；工业研究学会（IRI）与全美大学研究管理者委员会（NCURA）亦相继成立跨部门工作组，凝聚了建立客观第三方常设平台的行业共识。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 15–16)]]
 > - **2004–2006 — 倡议确立与创始原则发布** 2004 年筹备委员会正式提议在国家[[Chinese Academy of Sciences|科学院]]框架下设立 UIDP；2006 年发布《大学-产业合作行动指导原则》（*Guiding Principles to University-Industry Endeavors*），获得[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、考夫曼基金会（Kauffman Foundation）以及加利福尼亚大学洛杉矶分校、惠普、辉瑞等机构的联合资助。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 16)]]
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > - **2019–至今 — 跨国峰会拓展与前沿机制引领** 2019 年与牛津大学联合举办首届牛津 UIDP 国际峰会，发布《面向未来的大学-产业伙伴关系》；2024 年发布《产学合作中[[Joint Faculty Appointments|联合教职]]聘用的演进与影响》前沿专题报告；截至 2025 年，累计研制发布逾 60 项面向实践者的操作指南出版物，议题由传统合同法务拓展至战略关系、联合聘用、区域经济生态与前沿技术协同。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 2–3)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Directors）** 最高治理机构，由来自会员大学科研管理高管（如科研副校长、[[University-Industry Collaboration|产学合作]]主任）与跨国企业技术高管（如大学关系总监、企业技术战略总监）严格等额组成，确保学术界与产业界的诉求平衡。
@@ -114,8 +106,6 @@ updated: 2026-10-22
 > - **开源工具库与全行业知识共享** 指南形成后形成非排他性出版物向全社会开放，充当全球产学合作领域的通用公共品。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与工具矩阵
 > - **《合同共识》系列操作指南（Contract Accords）** 针对产学赞助与许可协议中争议最剧烈的法律条款提供逐条解析与替代性解决策略。已从最初的 5 项条款扩展至近 20 项，重点包括：Accord 5（[[Background IP|背景知识产权]]）、Accord 6（[[Foreground IP|前景知识产权]]）、Accord 8（版权）以及 Accord 16（开源软件与数据治理）。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 285)]]
@@ -138,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **全球实践者枢纽网络** 汇聚全美数百所[[Research Universities|研究型大学]]与顶尖跨国企业，非美国会员占比超过 12%，常年保持极高的会员留存率与参与活跃度。
 > - **行业合同规范渗透率** 《合同共识》（Contract Accords）被全美高校[[Technology Transfer Office|技术转移办公室]]（[[Technology Transfer Office|TTO]]）、赞助项目办公室（SPO）与跨国企业法务部门广泛采纳为日常合同谈判的基础底稿。
@@ -158,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议、批评与反思
-
 > [!debates] 核心议题与实践张力
 >
 > > [!axis] 通用合同共识 vs 本土情境权变
@@ -175,8 +161,6 @@ updated: 2026-10-22
 > > - **外溢公共品辩护** UIDP 坚持将大部分操作指南与共识原则公开发布，使全社会非会员机构同样能免费受益于其沉淀的最佳实践。
 
 ---
-
-## 相关条目网络
 
 > [!entry-map] 关联条目知识网络
 >

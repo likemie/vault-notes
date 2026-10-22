@@ -51,11 +51,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Pupil Equity Funding
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2017 年由苏格兰政府（Scottish Government）正式设立并推行，作为苏格兰学业达标挑战（Scottish Attainment Challenge）的关键财政支柱。
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **制度位置** 标志着苏格兰教育拨款机制的重大结构性转向，系苏格兰政府首次绕过传统中观行政中介地方当局（local authorities），将大额专项资金直接下拨至各中小学校长账户。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 14)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 苏格兰政府依据学生的社会经济处境不利程度直接向具体学校核拨专项经费，赋予校长自主支配权，旨在专项用于缩小贫困相关的[[Academic Achievement\|学业成就]]差距，并配套引入《苏格兰学业达标挑战：[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，推动一线教育工作者向[[Evidence-Based Policy-Making|循证决策]]靠拢。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
@@ -83,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策推进时间线
 > - 2015 [[OECD\|经合组织]]发布《改进苏格兰的学校》评估报告，推动苏格兰政策[[Discourse|话语]]转向循证改进。
 > - 2017 苏格兰政府正式设立学童公平资助（PEF），并联合 [[Education Endowment Foundation\|EEF]] 推出苏格兰版[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]。
@@ -92,8 +84,6 @@ updated: 2026-10-22
 > - 2023 苏格兰政府公布《学校研究计划（2023–2026）》并宣布筹建卓越教学中心。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 苏格兰政府教育主管行政部门。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
@@ -108,16 +98,12 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!finding-cards] 政策成效与专业体验
 > - **[[School Autonomy|学校自主]]裁量权的拓展** 赋予[[School Leadership\|学校领导]]者根据社区具体需求开展差异化干预的自由度，学校不再完全受制于单一的行政指令。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 15)]]
 > - **外部商业与慈善机构渗透** 资金直拨吸引了大量第三方服务机构直接向学校推销所谓循证方案，改变了苏格兰学校传统的公共服务采购格局。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 14)]]
 > - **对通用工具包的警惕与质疑** 苏格兰校长普遍对直接平移自英格兰的 [[Education Endowment Foundation\|EEF]] 工具包持审慎怀疑态度，批评其证据结论政治化且过于脱离微观教学实际。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 20–21)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

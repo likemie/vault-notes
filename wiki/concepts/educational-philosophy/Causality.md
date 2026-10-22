@@ -120,11 +120,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Causality
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **因果关系（Causality / Causal Inference）** 指实证研究中通过严密的研究设计与统计分析，确立原因 $X$ 导致结果 $Y$ 发生的推理过程([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]])。在科学研究中，建立有效因果推断必须同时满足三大基石要件：(1) **统计关联性（[[Variable\|变量]]间存在稳定的协变证据）**；(2) **时间先后序**（原因在时间上严格先于结果发生）；(3) **排除替代解释**（系统排除潜在混杂变量与虚假关联）([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp. 56–57]])。
@@ -153,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 因果关系四重刻画取向对比
 > | 比较维度 | [[Determinism\|决定论]]因果 (Deterministic) | 概率因果 (Probabilistic) | [[Counterfactual\|反事实]]潜在结果模型 (Counterfactual) | 机制生成论因果 (Generative) |
 > |:---|:---|:---|:---|:---|
@@ -164,8 +158,6 @@ updated: 2026-10-22
 > | **主要应对方法** | 封闭实验室极限控制 | [[Multiple Regression\|多元回归]]、倾向得分匹配（PSM） | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、工具变量（IV）、断点回归（RDD） | 质性过程追踪、[[Realist Evaluation\|现实主义评估]]、[[Action Narratives\|行动叙事]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 因果推断的五大核心要素
 > - **时间优先序（Temporal Precedence）** [[Independent Variable\|自变量]] $X$ 的施加必须在时间轴上严格先于[[Dependent Variable\|因变量]] $Y$ 的变动，防范反向因果（Reverse Causality）([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 57]])。
@@ -262,8 +254,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 因果推断核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -274,8 +264,6 @@ updated: 2026-10-22
 > | **脉络条件因果命题** | 跨国因果推断受制于初始条件（$L + I = P$），警惕方法论主义去脉络化 | 比较教育[[Policy Borrowing\|政策借用]]、跨国因果迁移与制度改革 | Holmes (1965); Barber (1972); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 因果关系与因果推断理论演进
 > - **18 世纪 — 休谟归纳因果四准则** 大卫·休谟提出时空邻近、时间优先、恒常联结与必然联系，指出因果关系源于人类的经验归纳而非绝对先验演绎。
@@ -289,8 +277,6 @@ updated: 2026-10-22
 
 ---
 
-## 在研究与评估中的操作
-
 > [!proc] 建立严谨因果推断的六步规程
 > 1. **明确界定因果识别问题** 清晰界定干预[[Variable\|变量]] $X$ 的具体成分与目标[[Dependent Variable\|结果变量]] $Y$，锁定目标推断人群。
 > 2. **选择高等级因果设计** 优先选用[[Randomised Controlled Trials\|随机对照试验]]（RCT）或严谨准实验（[[Regression Discontinuity Design\|RDD]]/[[Quasi-Experimental Designs\|QED]]/[[Single-Case Design\|SCD]]），在设计阶段阻断选择偏倚。
@@ -300,8 +286,6 @@ updated: 2026-10-22
 > 6. **结合质性[[Process Tracing|过程追踪]]** 嵌入[[Action Narratives\|行动叙事]]与[[Implementation Fidelity\|实施忠实度]]监控，打开因果起效的微观机制黑箱([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 71–74]])。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -328,8 +312,6 @@ updated: 2026-10-22
 > - **混淆局部处理效应（LATE）与全局平均效应（ATE）** 将[[Regression Discontinuity Design\|断点回归]]或工具变量识别出的局域因果效应盲目推广至全样本。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 因果推断核心实证与方法学案例
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

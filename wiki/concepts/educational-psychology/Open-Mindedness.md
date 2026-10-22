@@ -50,11 +50,7 @@ created: 2026-09-23
 updated: 2026-10-22
 ---
 
-# Open-Mindedness
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 思想开放（Open-Mindedness / Intellectual Open-Mindedness）是指认识主体在面临未知、分歧或挑战性证据时，能够自发、公允地生成并审视替代性观点，并依据更具合理性的理由与证据随时准备调整或修正原有立场的稳定理智品格与认知习惯。在[[Virtue Epistemology|美德认识论]]（Virtue [[Epistemology]]）的德性责任论视角下，思想开放不仅要求主体熟练掌握多角度论证的技术性智力技能，更必须以对真理、知识与理解等认知善品的真诚热爱为内在动机；若仅能罗列多元观点却将其用于诡辩或博取名利，则属于[[Value Neutrality|价值中立]]的操作技能而非真正的[[Epistemic Virtues and Vices|理智美德]]。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270, 273–274, 278–281)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 思想开放与相邻理智品格及技能的辨析
 > | 维度 | 思想开放（Open-Mindedness） | 理智谦逊（[[Humility\|Intellectual Humility]]） | 多元视角生成技能 | 盲目顺从（Dogmatic Deference） |
 > |---|---|---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 > | **典型表征** | “尽管这与我原先设想相左，但证据令人信服，我修正立场” | “关于这个问题，我的专业知识有限，尚不足以得出断言” | “我可以轻松写出正反双方各自的三条论据” | “权威专家说什么就是什么，我无条件接受” |
 
 ---
-
-## 核心要素
 
 > [!feature] 思想开放的核心构成要素
 > - **替代性视角的敏锐生成（Generating Alternative Perspectives）** 能够突破单一概念框架与既有假说的思维束缚，自发展开发散联想，构想出合理且新颖的备选解释路径。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–280)]]
@@ -163,8 +155,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 思想开放命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -174,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 思想开放概念的演变脉络
 > - **古典时期 — [[Socrates|苏格拉底]]反讽与自知无知** 苏格拉底通过承认自身一无所知并在辩证法中向一切可能的真知敞开，奠定了思想开放作为哲学求知底色的古典传统。
 > - **20 世纪末 — [[Critical Thinking|批判性思维]]与认知倾向研究** 认知心理学（如 Baron, 1988）将思想开放（Actively Open-Minded Thinking, AOT）作为克服确认偏差、评估相反证据的独立思考倾向进行量化测量。
@@ -183,8 +171,6 @@ updated: 2026-10-22
 > - **2025–2026 年 — 人工智能时代提问驱动与交互培育重构** Lani Watson (2025) 提出通过良好提问实践思想开放；Hadeel [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 在[[Man-Computer Symbiosis|人机协同]]与抵御[[Cognitive Deskilling|去技能化]]背景下，系统提出利用 Q-Tutor 的追问规制与兴趣故事叙事模式培育思想开放美德的完整教学模型。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–282)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与哲学反思
 >

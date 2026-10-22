@@ -48,11 +48,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# MDRC
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 人力示范研究公司（Manpower Demonstration Research Corporation, MDRC）是美国设立的非营利性独立公共政策与教育实证[[Evaluation Research|评估研究]]智库，以在大规模社会政策与教育改革中推行严格的[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）与[[Causality|因果推断]]标准而享誉全球。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 致力于通过构建客观、严密的实证因果证据，改善低收入家庭、处境不利学生与求职弱势群体的福祉与公共服务效能。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1974–1980s** **创设与奠基期**
@@ -88,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 董事会）** 由知名社会科学家、经济学家、公共政策专家与前政府高级官员组成的独立董事会统筹领导。
 > - **执行机构（管理层 / 研究中心）** 设有政策研究部、青年与教育发展部、卫生与劳动力部及数据计量中心。
@@ -103,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **随机实验设计与质控规程** 研制的大规模社会政策[[Random Assignment|随机分配]]操作标准被视作国际实证评估标杆。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **旗舰评估项目** 主导全美与跨国的[[Employment Retention and Advancement|就业留任与晋升]]（ERA）、学习者留存促进项目等大型现场实验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
@@ -117,16 +107,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领** 确立了[[Randomised Controlled Trials|随机对照试验]]在社会政策与教育干预评价中的黄金标准地位。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **政策塑造** 评估结论直接推动了美国 1996 年联邦福利法案以及英国新政[[Welfare-to-Work|福利到工作]]体系的调整。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 341–344)]]
 > - **跨国[[Technology Transfer|技术转移]]** 开启了由海外专业智库向输入国成套移植评估工具与操作规程的跨国治理路径。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–345)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -54,11 +54,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# ETS HEIghten Critical Thinking Assessment
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Educational Testing Service\|ETS]] HEIghten [[Critical Thinking Assessment]]
 > - **工具类型** 计算机化情境能力测评（Computer-Based Scenario Assessment）。
@@ -67,8 +63,6 @@ updated: 2026-10-16
 > - **实施方式** 计算机在线考试（限时 45 分钟），题项由 26 道基于学术和公共文本的阅读材料与情境问题组成。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -80,16 +74,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 26 道基于跨学科短文、实验数据表与论辩材料的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 包含单项选择、多项选择以及选择最佳理由等交互式机考题型。
 > - **计分与报告** 采用[[Item Response Theory\|项目反应理论]]（IRT）标定分数，满分量表范围 150–180 分，提供分析技能分量表分、综合技能分量表分与总能力等级。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -99,8 +89,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | [[Educational Testing Service\|ETS]] HEIghten 机考版 | [[OECD]] 报告分析大规模标准化增值测试在高等教育中的应用[[Paradigm\|范式]] | 跨国机考能力测试 | 综述了 Loyalka et al. (2021) 运用 HEIghten 在俄、中、印、美四国 STEM 本科生中开展的超大规模纵向追踪，证实其在跨国对比中的优良常模[[Reliability\|信度]] |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

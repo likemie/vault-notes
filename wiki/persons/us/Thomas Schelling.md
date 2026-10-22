@@ -41,11 +41,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Thomas Schelling
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国经济学家、外交政策顾问，曾任教于耶鲁大学与哈佛大学，2005年因“通过博弈论分析加深了对冲突与合作的理解”荣获诺贝尔经济学奖。
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1960 — *The Strategy of Conflict*** 提出聚焦概念、可信承诺与边缘政策（Brinkmanship）模型，开创非合作博弈论在战略冲突中的应用。
 > - **1966 — *Arms and Influence*** 深入探讨武力威胁、强制性暴力与外交谈判之间的关系，系统论述“伤害的能力即谈判的能力”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 32)]]
@@ -80,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 战略冲突与国际对抗的本质并非纯粹的物理毁灭，而是一种基于暴力预期与伤害潜能的动态讨价还价过程（Bargaining Process）。有效的强制外交（Coercive Diplomacy）和威慑机制，不取决于单方面的道德优越感，而取决于一方是否拥有能够对敌对目标造成实质性伤害（Power to Hurt）的可信技术手段与明确意志。
 
 > [!citation-card] 强制暴力的预期性与外交本质

@@ -54,11 +54,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Initial Teacher Training
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 初始教师培训（Initial Teacher Training, ITT）指准教师在正式获得法定执教资质（如英格兰合格教师资格 Qualified Teacher Status, QTS）并独立承担班级教学前所经历的系统性职前专业准备程序。ITT 构成了教师专业[[Lifelong Learning\|终身学习]]与职业阶梯的第一阶段，其核心机制在于整合学科知识、教学法原理、儿童认知发展规律与学校现场教学实践，通过大学教育学院、校本培训实体（SCITT）或公私伙伴网络，将受训者塑造为具备法定执教能力的专业人员。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 88–90)]]
@@ -89,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多元培养路径（Training Routes）** 涵盖大学主导的教育学研究生证书（PGCE）、学校主导的校本培训（SCITT）、学校直通车（School Direct）以及针对优秀毕业生的直接入职计划（Teach First）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 89–90)]]
 > - **法定标准与课程规程（Statutory Standards）** 国家制定的教师专业标准与核心内容框架（[[Initial Teacher Training Core Content Framework\|CCF]]），严格规定职前阶段必须掌握的认知科学理论与实践技能。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **临床实践整合（Clinical Practice Integration）** 将大学[[Discipline-Based Theory\|学科理论]]与中小学沉浸式实习深度交织的实践教学机制，强调导师带教、现场观察与教学微格反思。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 92)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +145,6 @@ updated: 2026-10-22
 > - **2019 年至今 — [[Evidence Era\|证据时代]]法定化** 颁布[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]，实现职前与职后前两年（ECF）的标准化证据衔接。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -86,11 +86,7 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Global Universities Rankings
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全球大学排名（Global Universities Rankings）是对各国高等教育机构（Higher Education Institutions, HEIs）进行比较性评估和排序的标准化量化工具系统。排名通过选定自然科学研究产出、文献被引频次、跨国学术声誉调查和师生比等指标加权评分，生成连续排位的排行榜（league tables）。它不仅是提供给求学者与雇主的信息参考工具，更已演化为驱动国家高等教育政策转型、重塑院校战略规划并深层固化全球学术权力分层的核心评价基础设施（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 125–126]]）。
@@ -112,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 全球大学排名与相关评价机制的区别
 > | 评估机制 | 空间范围与对象 | 核心导向与指标 | 评价逻辑与结果形态 |
 > |---|---|---|---|
@@ -122,8 +116,6 @@ updated: 2026-10-22
 > | **专业认证评估**<br>Accreditation | 国家或专业行业协会内部院系 | 课程规范、师资资质与最低质量门槛 | 二元资格认定（通过/未通过），不制造逐级排位 |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 全球大学排名的创制与演进历程
 > - **1983 年 — 国家排名的兴起**
@@ -140,8 +132,6 @@ updated: 2026-10-22
 >   - THE 推出基于联合国[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）的大学影响力排名，试图将评价维度从传统科学卓越拓展至社会正义、气候行动与性别平等，反映出全球排名逻辑对公共责任议题的回应与再吸收（[[Argument_Zapp_2022_Springer|Zapp, 2022, p. 147]]）。
 
 ---
-
-## 兴起原因
 
 > [!factors] 全球大学排名兴起的动力结构
 > 排名在 20 世纪下半叶以来的迅猛崛起是多重结构性转型的交汇产物（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 130–131]]）：
@@ -163,8 +153,6 @@ updated: 2026-10-22
 >   [[New Public Management|新公共管理]]浪潮推动量化考核与绩效可度量性成为公共机构的核心管理规范（Power, 1997）。
 
 ---
-
-## 核心特征与系统性偏见
 
 > [!feature] 全球排名的系统性偏见维度
 > 跨国实证研究一致表明，主流全球大学排名存在层层累积的系统性倾斜（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 131–132]]）：
@@ -237,8 +225,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -248,8 +234,6 @@ updated: 2026-10-22
 > | **超国家远程操控命题** | 跨国排行榜制造排名焦虑，支撑新公共管理对高校与主权国家的远程操控 | 国际指标联赛、超国家教育治理与政策话语异化 | Rizvi & Lingard |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 否定机构多样性与推行一刀切模式
 > 全球排名将特定类型的机构（英美模式、侧重自然科学的[[Research Universities|研究型大学]]）奉为普适典范，以统一模板衡量所有院校。德国的应用科学大学（Fachhochschulen）以及法国、芬兰等国以卓越教学与[[Technology Transfer|技术转移]]为导向的应用型高教机构，尽管具有深厚社会声望与经济价值，却在统一指标下被严重惩罚与低估（Kehm, 2014, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 132]]）。
@@ -267,8 +251,6 @@ updated: 2026-10-22
 > 批判学者将全球排名界定为一种服务于跨国新自由主义精英利益的政治意识形态技术，它侵蚀了学术人员的自主[[Professional Judgment|专业判断]]，将教育降格为资本增殖与地缘博弈的工具（Amsler & Bolsmann, 2012, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 132]]）。
 
 ---
-
-## 排名的体制不可避免性
 
 > [!taxonomy] 新制度主义视角的权力根源
 > 尽管遭遇各界口诛笔伐，全球排名在政策与大学实践中的主导地位不仅未被削弱，反而持续深化。新制度主义揭示出这一现象的深层结构必然性（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 137–139]]）：

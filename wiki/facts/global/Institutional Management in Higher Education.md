@@ -64,11 +64,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Institutional Management in Higher Education
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **[[OECD|经合组织]]高等教育机构管理计划（Programme on Institutional Management in Higher Education, IMHE）** 是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）于 1969 年正式设立的高等教育专业管理与治理国际合作工程。作为经合组织 20 世纪 70 至 80 年代教育工作的四大组织支柱之一，该计划专门面向成员国大学领导层与高教管理机构，致力于通过跨国比较分析、机构同行审查与管理技术分享，协助高等院校应对规模扩张与系统复杂性挑战。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对战后高等教育从精英模式向大众化阶段飞速扩张所引发的大学财政紧缩、管理体制僵化、学术与行政权力冲突，以及政府对高校绩效与公共问责日益增长的制度诉求。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预与机制假说
 > 唯有打破传统大学行会式的封闭自律管理，引入现代专业化战略规划、成本核算、绩效评估与同行审查机制，高等教育机构才能在公共财政缩减与学生多元化需求激增的双重冲击下，维持学术卓越并实现对[[Knowledge-Based Economy|知识经济]]的高效响应。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 439, 447)]]
@@ -99,16 +93,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1969–1980 年代初 — 应对高等教育大众化与机构扩张期** 项目聚焦于战后婴儿潮带来的高校规模暴增难题，重点探讨多校区管理、学分制改革、大学预算编制技术与招生规划模型，协助传统大学构建现代行政管理架构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 > - **1980 年代中–1990 年代末 — [[New Public Management|新公共管理]]渗透与企业型大学转型期** 随着西方新自由主义改革浪潮兴起，项目重点转向大学自治与远处掌舵、产学研协同、绩效拨款、科研成果转化以及大学作为企业型组织（[[Entrepreneurial University]]）的战略重构。
 > - **2000–2016 年 — 全球化排位竞争、质量审计与职能重组整合** 面对[[Global Universities Rankings|全球大学排名]]的兴起与[[Student Mobility|跨国学生流动]]扩张，项目聚焦[[Internationalization of Higher Education|高等教育国际化]]、生均质量保障与[[Innovation Ecosystem|区域创新生态]]贡献；2016 年前后，[[OECD|经合组织]]将 IMHE 的工作网络全面重组整合进教育司的高等教育战略规划（Higher Education Programme）常态工作之中。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **[[OECD|经合组织]]秘书处与指导委员会** 统筹协调年度预算与重点研究项目，监督各专题研究小组的进展，保障跨国调研的科学严谨性。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
@@ -122,8 +112,6 @@ updated: 2026-10-22
 > - **跨国同行互评与声誉激励机制** 依托跨国专家组的专业诊断与国际期刊成果发布，促成参与院校在国际同侪网络中形成良性竞合动力。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **治理专业化程度** 参与大学内部专职管理人员配置率、战略发展规划书制定率与校务委员会外部利益相关者代表比例。
@@ -141,8 +129,6 @@ updated: 2026-10-22
 > - **4** （支柱） 与教育委员会、[[Centre for Educational Research and Innovation|CERI]] 以及 [[Programme on Educational Building|PEB]] 共同构成战后经合组织教育体系的四大组织基石。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

@@ -45,11 +45,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Goh Report
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1979 年 2 月 10 日，由新加坡副总理[[Goh Keng Swee|吴庆瑞]]（[[Goh Keng Swee|Goh Keng Swee]]）领衔的特别研究小组向新加坡教育部正式提交并发布。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **制度位置** 新加坡战后教育体制改革的奠基性白皮书，直接催生了能力分流制度与[[Speak Mandarin Campaign|讲华语运动]]。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 报告警告纯外语世俗教育将导致传统伦理价值观丧失并沾染西方虚浮风气，指出缺乏共同道德价值的社会在危机面前难以维持凝聚力；主张通过系统的双语教育与统一华语推广，为移民社会筑牢抵御文化侵蚀与捍卫国家利益的精神基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
@@ -77,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1978** [[Lee Kuan Yew|李光耀]]指派副总理兼国防部长[[Goh Keng Swee|吴庆瑞]]率领 11 名年轻系统分析专家对教育部展开全面调查审计。
 > - **1979-02** 正式发布《教育部报告》（*Report on the Ministry of Education*，即《吴庆瑞报告》）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 195)]]
@@ -86,8 +78,6 @@ updated: 2026-10-22
 > - **1980** 新加坡内阁正式实施“新教育制度”（New Education System），全面推行小学与中学按[[Language Skills|语言能力]]分流。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与督导主体** 新加坡副总理公署与教育部团队。
@@ -102,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 政策成效与实证评估
-
 > [!indicators] 评估指标体系
 > - **教育留存与通过率** 中小[[Academic Attrition|学生辍学]]率从改革前的 20% 以上大幅下降至 1% 以下。
 > - **双语能力达标率** 学生掌握英语通用语与母语华语的合格率逐年显著上升。
@@ -117,8 +105,6 @@ updated: 2026-10-22
 > 调查揭示当时新加坡小学阶段仅有 19% 的学生能同时通过两门语言考试，85% 的家庭主要讲方言；改革后 10 年内双语达标率提升至 80% 以上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
 ---
-
-## 政策争鸣与局限
 
 > [!debates] 教育分流与精英主义之争
 >

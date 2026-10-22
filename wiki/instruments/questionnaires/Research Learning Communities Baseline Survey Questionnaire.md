@@ -66,11 +66,7 @@ created: 2026-09-15
 updated: 2026-10-20
 ---
 
-# Research Learning Communities Baseline Survey Questionnaire
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Research Learning Communities]] Baseline [[Questionnaire\|survey questionnaire]]
 > - **工具类型** 自陈式调查问卷，用于系统描述与诊断学校层面的[[Research Utilization\|证据使用]]准备状态与组织生态。
@@ -84,8 +80,6 @@ updated: 2026-10-20
 > *“The survey was developed... based on the four key factors identified from the literature.”*（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 127]]）
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Evidence-Informed Practice]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -108,8 +102,6 @@ updated: 2026-10-20
 > [[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 127)]]
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 第一人称的陈述句，就自身实践或所在学校的做法表明同意程度。
@@ -171,8 +163,6 @@ updated: 2026-10-20
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -181,8 +171,6 @@ updated: 2026-10-20
 > | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 原始英文版，经 Survey Monkey 在线施测 | 英格兰 79 所小学（60 所 [[Research Learning Communities\|RLC]] 学校、19 所可计算应答率的对照学校）的教师与[[School Leadership\|学校领导]]者；调查期为 2014 年 10 月 2 日至 19 日，用于干预前的基线描述与诊断 | 在未参与项目的同区域小学教师中试测[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]；信度系数、因子结构与[[Measurement Invariance\|测量不变性]]未报告 | 共收到 797 份应答，696 份纳入分析（仅保留 2014 年 9 月前入职者）；76% 认同研究价值，86% 认为在课堂有用；揭示了探究末端成效评价缺失（仅 67%）及底层假设讨论脱节（55%）的组织病理 |
 
 应答率分布方面，项目学校（n = 60）低于 30%、30% 至 40%、40% 至 50%、50% 至 60%、60% 至 70%、70% 至 80% 与 80% 以上各区间分别有 1、2、0、5、12、8、32 所，应答率超过 80% 的 32 所中 13 所（22%）达到 100%；对照学校（n = 19）对应区间分别有 1、3、4、0、2、3、6 所，超过 80% 的 6 所中 3 所（11%）达到 100%。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 128)]]
-
-### 分维度结果
 
 > [!ref-table]- 基线调查分维度应答分布与四大组织悖论诊断
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -207,8 +195,6 @@ updated: 2026-10-20
 > 比例由五级原始分布合并而来；因四舍五入，各行合计可能不等于 100%。数据在对照学校与干预学校之间合并呈现，基线阶段没有特别理由将两组分开分析。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–130)]]
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

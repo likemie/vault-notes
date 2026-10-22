@@ -38,10 +38,6 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-# Idiographic
-
-## 定义
-
 > [!def] 核心定义
 > 个例式（idiographic）是以理解和解释独特个体案例为目标的方法论取向。研究聚焦于个体如何创造、修改和解释他们所置身的世界，兼顾量化和质性；核心关注是解释和理解独特的、个别的情况，而非一般的、普遍的情况（Burrell & Morgan, 1979; Kirk & Miller, 1986, p. 14）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 
@@ -49,8 +45,6 @@ updated: 2026-10-22
 > - **含义** 把独特个体与其情境作为分析核心，重视意义、语言与主观诠释。
 > - **用途** 支撑[[Qualitative Research\|质性研究]]、[[Case Study\|案例研究]]、生命史与[[Narrative Analysis\|叙事分析]]。
 > - **边界** 不以发现可推广的普遍法则为目的，结论的普适性有限。
-
-## 概念辨析
 
 > [!contrast-table] 个例式 vs [[Nomothetic\|通则式]]
 > | 维度 | 个例式（idiographic） | [[Nomothetic\|通则式]]（nomothetic） |
@@ -63,8 +57,6 @@ updated: 2026-10-22
 > [!boundary]- 概念边界
 > - 不等于与量化的简单对立 — 个例式可兼顾量化手段，但以独特案例的理解为核心。
 > - 不适用于 — 以可推广普遍规律为目标的通则化研究。
-
-## 核心要素
 
 > [!feature] 个例式的核心要素
 > - **理解独特案例** 以理解和解释独特的、个别的情况为核心关注。

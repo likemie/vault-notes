@@ -46,11 +46,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# I-squared Statistic
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > I² 统计量（I-squared Statistic，亦称[[Heterogeneity\|异质性]]百分比 / Higgins' I²）是由 Julian Higgins and Simon Thompson (2002) 提出并在 Higgins et al. (2003) 中确立规范的无量纲相对异质性指标。它衡量的是[[Meta-analysis\|元分析]]中观察到的各初级研究[[Effect Size\|效应量]]总变异中，**由跨研究的真实异质性（Between-study heterogeneity）而非偶然[[Sampling Error\|抽样误差]]（Sampling error）所解释的方差百分比**。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 38)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **边界** $I^2$ 反映的是相对比例而非绝对变异幅度；初级[[Study Population and Sample\|研究样本]]量越大，抽样误差越小，$I^2$ 会自然趋向膨胀，因此不能单纯依赖 $I^2$ 替代 [[Between-Study Variance\|研究间方差]] $\tau^2$ 与 [[Prediction Interval\|预测区间]]。
 
 ---
-
-## 数学原理与计算公式
 
 > [!formula-step] I² 计算公式与方差比率模型
 > 基于 Cochran's [[Cochran's Q Test\|Q 统计量]] 的经典计算公式为：
@@ -79,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 判定基准与等级划分
-
 > [!tip] Higgins et al. (2003) 经验分级标准
 > - **$I^2 = 0\%–25\%$（低度[[Heterogeneity\|异质性]] / Low Heterogeneity）** 绝大部分变异由抽样随机性造成，各研究结果高度一致；
 > - **$I^2 = 25\%–50\%$（中度异质性 / Moderate Heterogeneity）** 存在适度的跨研究实质性差异；
@@ -88,8 +80,6 @@ updated: 2026-10-22
 > - **$I^2 = 75\%–100\%$（极高度异质性 / Considerable Heterogeneity）** 结果极度离散，单纯汇报全局平均[[Effect Size\|效应量]]可能具有误导性，需慎重探讨合成的合法性。
 
 ---
-
-## 核心优势与常见误区
 
 > [!feature] 核心优势
 > - **无量纲通用性** 不依赖具体[[Research Utilization\|研究使用]]的[[Scale of Measurement\|测量量表]]（如百分制、5点量表、二分类比值比），可在不同学科和主题之间进行横向比较。

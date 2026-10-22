@@ -76,19 +76,13 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Paulo Freire
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Paulo Freire（1921–1997），巴西著名教育家、哲学家，[[Critical Pedagogy|批判教育学]]（Critical Pedagogy）的奠基人，被公认为 20 世纪最具全球影响力的教育思想家之一。以《被压迫者教育学》（*Pedagogy of the Oppressed*, 1968/1972）确立其国际声誉，其思想融合了[[Phenomenology|现象学]]、生存主义、马克思主义辩证法与天主教解放神学，构筑了以[[Conscientization|批判意识觉醒]]（Conscientização）、反思实践（[[Praxis]]）与提问式对话为核心的解放教育哲学。
 > - **理论坐标** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 在[[Geopolitics of Knowledge|知识地缘政治]]（GPK）语境中援引弗莱雷的银行概念（Banking Concept）作为剖析[[Forced Knowledge Transfer|强制知识转移]]与殖民教育规训的理论锚点；而在当代数智技术反思中，[[Argument_Smith_2026_SPE|Smith (2026)]] 汲取其消解权威压迫的批判对话精神，提出破除[[Generative Artificial Intelligence|生成式人工智能]]拟人化迷信的[[Alien Intelligence|异己智能]]（Alien Intelligence）防御方案。
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 主要著作
 > - **1972 — *Pedagogy of the Oppressed*** 奠定[[Critical Pedagogy|批判教育学]]的成熟代表作。基于 1960 年代巴西成人扫盲实践，系统提出[[Banking Model of Education|储蓄式教育]]批判与[[Problem-Posing Education|提问式教育]]模型，论证教育必须摆脱自上而下的驯化存取，成为受压迫者争取自身解放的文化行动。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]] 著作在确立解放教育学的同时，其关于“暴力从未由被压迫者发起”的绝对化判断，在当代[[Geopolitics|地缘政治]]与道德哲学中引发了关于[[Moral Dualism|道德二元论]]与弱者道德能动性的深入反思与论争。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Freire, 1968; cited in Karp & Zamiska, 2025, pp. 53–54)]]
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育绝非中立的技能传递，而是一场关涉自由与支配的文化政治。传统的[[Banking Model of Education|储蓄式教育]]将学生贬低为等待知识存款的被动空容器，实质上维系了压迫性的[[Culture of Silence|沉默文化]]；真正的教育是[[Problem-Posing Education|提问式教育]]，要求师生在平等的对话遭遇中共同将现实问题化，通过反思与行动高度统一的实践（[[Praxis]]）唤醒批判意识，促成求知者自主性与社会正义的实现。（Freire, 1972; [[Argument_Darwish_2009_Queens|Darwish, 2009]]）
 
 > [!claim] [[Politicity of Education|教育的政治性]]（Politicity of Education）
@@ -124,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论建构路径** 开创并奠定了[[Critical Pedagogy|批判教育学]]（Critical Pedagogy）学派，深刻启发了[[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与彼得·麦克拉伦（Peter McLaren）等当代课程论学者，确立了学校作为文化政治[[Champ|场域]]的分析[[Paradigm|范式]]。
 > - **比较教育政治社会学与国家理论路径** 弗莱雷关于“公共教育作为竞争性争夺场域”和“[[Politicity of Education|教育的政治性]]”论断，为托雷斯（Torres）、卡诺伊（Carnoy）与[[Liliana Esther Olmos|奥尔莫斯]]（Olmos）等比较学者提供了批判[[Ontology|本体论]]，直接启发了将[[Dependency Theory|依附理论]]、[[State Corporatism|国家法团主义]]与教育[[Compensatory Legitimation|补偿性合法化]]相融合的比较教育国家理论。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
 > - **[[Geopolitics of Knowledge|知识地缘政治]]与去殖民路径** 其[[Banking Model of Education|储蓄式教育]]批判模型被广泛应用于[[Geopolitics of Knowledge|知识地缘政治]]（GPK）与比较教育研究中，作为揭示殖民教育、[[Forced Knowledge Transfer|强制知识转移]]及全球北方政策霸权的批判利器。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
@@ -143,14 +133,10 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] Rust, Johnstone, & Allaf 论弗莱雷对现代性迷思的解构与解放实践转向
 > 教育在本质上蕴含着鲜明的政治属性；将教育等同于资本主义现代性掩盖了跨国霸权对弱势群体的思想宰制与不平等再生产。弗莱雷确立的人道主义与解放实践，为当代教育研究摆脱帝国主义干涉、重归促进人类福祉与文化自决提供了根本伦理坐标。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 134–135)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

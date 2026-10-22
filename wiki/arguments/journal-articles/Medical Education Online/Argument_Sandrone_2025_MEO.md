@@ -48,7 +48,6 @@ citation_aliases:
   - "Sandrone, 2025"
   - "Sandrone (2025)"
 ---
-# Argument_Sandrone_2025_MEO
 
 ---
 
@@ -112,8 +111,6 @@ citation_aliases:
 
 ---
 
-### 诺贝尔演讲中导师致谢的缺失
-
 > [!warning] 核心发现
 >
 > **认可率极低**。在 208 篇诺贝尔生理学或医学奖演讲中，只有 20 篇（9.6%）明确提到了导师。第一次引用发生在 1974 年，即该奖项创立 73 年后。
@@ -143,8 +140,6 @@ citation_aliases:
 > **2018 年 Tu Youyou**。「Figure 15 shows a photo taken soon after I joined the Institute of Chinese Materia Medica. Professor Lou Zhicen (left), a famous pharmacognosist, was mentoring me on how to differentiate herbs」（图 15 展示了我加入中国中医研究院后不久拍摄的照片。楼之岑教授（左），一位著名的生药学家，正在指导我如何鉴别草药）
 
 ---
-
-### 与其他奖项的对比
 
 > [!example] 拉斯克奖的对比
 >
@@ -184,9 +179,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "Only twenty Nobel Laureates have explicitly acknowledged their mentors in their Nobel Lectures."
 >
 > 只有 20 位诺贝尔奖获得者在他们的诺贝尔演讲中明确承认了他们的导师。

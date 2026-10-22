@@ -67,11 +67,7 @@ created: 2026-07-14
 updated: 2026-10-20
 ---
 
-# Evidence-Based Education Institutions
-
 ---
-
-## 背景
 
 > [!event-context] [[Evidence-Based Education\|循证教育]]的制度化
 > - **时间地点** 1990 年代从医学领域发端，2000 年代在英美两国率先制度化，2010 年代后扩散至全球
@@ -82,8 +78,6 @@ updated: 2026-10-20
 以下汇总[[Evidence-Based Education|循证教育]]运动在全球范围内建立的制度基础设施，按功能类型分组。这些机构在[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]]中首次被系统列举，在此后二十余年中经历了扩展、重组或关闭。
 
 ---
-
-## 发展历程
 
 > [!phase] [[Evidence-Based Education\|循证教育]]机构的代际演进
 >
@@ -168,15 +162,11 @@ updated: 2026-10-20
 
 ---
 
-## 影响与评价
-
 > [!finding-cards] [[Evidence-Based Education\|循证教育]]机构格局的三条主线
 > 1. **重心转移：从方法论驱动到实践驱动** 早期以 [[EPPI-Centre]] 的[[Systematic Review\|系统综述]]方法论为引擎，中期以 [[What Works Clearinghouse\|WWC]] 和 [[Education Endowment Foundation\|EEF]] 的政策工具为推手，后期以 [[ResearchED]] 为代表的教师草根运动将证据拉回课堂。驱动力从学术方法论逐步转向政策需求、再转向一线实践者。
 > 2. **地理扩散：从英美中心到全球多中心** 2010 年代后澳大利亚、瑞典、荷兰、中国等国纷纷建立本土化[[Educational Evidence Clearinghouses\|证据清算中心]]与研究机构，循证教育不再仅限于英语发达国家。但美国与英国仍然是机构密度和影响力最高的两个中心。
 > 3. **制度脆弱性：拨款依赖与行政连续性** 近半数英国早期机构（UK CBEP、[[Evidence Network]]、[[Research Informed Practice Site]]）已关闭或整合，美国 WWC 在 2025 年突然停摆。循证教育制度基础设施高度依赖政府拨款和行政连续性，其长期可持续性仍是一个开放问题。
 
-
-## 相关条目
 
 > [!ref-table] 关联索引
 > | 条目 | 关系 |

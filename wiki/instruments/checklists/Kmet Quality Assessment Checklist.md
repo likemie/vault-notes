@@ -55,11 +55,7 @@ created: 2026-08-25
 updated: 2026-10-16
 ---
 
-# Kmet Quality Assessment Checklist
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Kmet 方法学质量评价量表
 > - **工具类型** 实证研究方法学质量与偏倚风险核查清单（Checklist / Rubric）。
@@ -73,8 +69,6 @@ updated: 2026-10-16
 > *Two authors independently assessed the quality of each study with Kmet, Lee, and Cook's (2004) fourteen-item checklist. These items helped assess the internal validity of quantitative research across multiple methodological dimensions...*
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 定量实证研究[[Internal Validity\|内部效度]]与方法学质量
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -90,8 +84,6 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 计分规则与合成规程
 > - **题项数量** [[Quantitative Research\|定量研究]]共 14 项评价准则（[[Qualitative Research\|质性研究]]对应 10 项准则）。
 > - **满分与标准化得分** 定量研究满分为 28 分（若包含 $m$ 个不适用题项 NA，则有效满分为 $28 - 2m$）；最终质量得分以总得分占有效满分的百分比表示：
@@ -99,8 +91,6 @@ updated: 2026-10-16
 > - **纳入截断标准** [[Meta-analysis\|元分析]]通常设定 50% 或 60% 为最低质量合格线，低于截断标准的研究在敏感性分析中剔除。
 
 ---
-
-## 实证应用与案例
 
 > [!evidence-grid-a] 实证研究中的应用
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用 Kmet 14 项量表对 66 项[[Graphic Organizer\|图形组织器]][[Experimental Research\|实验研究]]进行双盲质量评分（评分范围 17 至 28 分，$M = 23.75$），证实纳入文献[[Ganz-Methode\|整体方法]]学质量优良（图 3 与表 1）。

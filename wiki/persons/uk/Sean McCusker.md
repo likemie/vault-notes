@@ -37,7 +37,6 @@ status: draft
 created: '2026-05-01'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Sean McCusker 任职于英国诺桑比亚大学（Northumbria University）社会科学系（Department of Social Sciences）。他与 [[Terry Wrigley]] 合作发表了关于证据本位教学科学观的批判性研究。

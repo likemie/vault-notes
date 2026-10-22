@@ -91,11 +91,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Problem-Based Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 问题本位学习（Problem-Based Learning, PBL）以经过选择的真实或拟真问题启动学习。学生激活先备知识、识别知识缺口、在小组中建立解释模型、查找新资料，再通过讨论、应用和[[Problem Solving\|问题解决]]不断修正模型。专业教育中的 PBL 还把同类问题用于目标表述和学习评估，使学生练习的活动与毕业后需要完成的专业任务保持一致。[[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2011, as cited in Hattie, 2015b, p. 85)]]；[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
@@ -117,8 +113,6 @@ updated: 2026-10-22
 > *PBL is an experience-based approach that fosters learning through the investigation, explanation, and resolution of meaningful problems.*
 
 ---
-
-## 概念辨析
 
 > [!tension-table] 传统专业课程与问题本位学习
 > | 比较维度 | 传统内容导向课程 | 问题本位学习 |
@@ -144,8 +138,6 @@ updated: 2026-10-22
 > | **证据解释边界** | 表中[[Effect Size\|效应量]]来自 [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 82–86)]] 与 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 960–963)]]；这些平均效应没有控制先备知识、结果类型和实施质量，**适合提示证据差异，不宜直接充当教学法排名** | 效应量来自 [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, p. 82)]]；在良构知识领域优势突出，但在开放复杂推理与高级探究中成效受限 | 概念边界来自 [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024, pp. 2–8)]]；深度根植于芬兰教化与[[Phenomenology\|现象学]]传统，重在课程哲学重构而非标准化量化效应比较 |
 
 ---
-
-## 核心要素
 
 > [!feature] PBL 系统的七个要素
 > - **问题选择** 问题需要具有专业相关性，并共同覆盖课程目标中的主要知识范围。问题序列决定学生接触哪些概念以及在哪些情境中使用它们。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 71)]]
@@ -272,8 +264,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 设计或解释问题 | 代表研究者 |
 > |---|---|---|---|
@@ -284,8 +274,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] PBL 概念内涵与系统[[Paradigm\|范式]]的演进
 > - **1960 年代中期 — 临床医学导向的[[Apprenticeship|学徒制]]替代模型（麦克马斯特起源）** 霍华德·巴罗斯（Howard Barrows）等人在加拿大麦克马斯特大学医学院创立 PBL，旨在打破传统分科灌输导致的“理论记忆脱离临床实践”困境。此时 PBL 的核心概念定位为：以真实的临床病患案例为驱动，通过小组讨论模拟医生诊断过程，激发自导式学习（[[Self-Directed Learning]]）并内化临床推理技能，本质是医学专业教育中的情境化学徒制模型。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 950–952)]]
 > - **1970 年代–1980 年代 — 认知革命与[[Constructivist Instruction\|建构主义教学]]范式化（从[[Clinical Skills\|临床技能]]转向通用认知模型）** 伴随认知心理学与学习科学的兴起，PBL 突破单纯的医学规程，被[[Constructivist Paradigm\|建构主义]]学者提炼为跨学科的通用教学范式。概念核心发生质变：界定为以“[[Wicked Problem|劣构问题]]（Ill-Structured Problems）”为组织载体，依托“先备知识激活、小组协同假说建构、自主检索验证与解释模型修正”的认知循环，并系统扩展至工程、法律与商科等高等教育与职业领域。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, p. 951)]]
@@ -294,8 +282,6 @@ updated: 2026-10-22
 > - **2020 年代至今 — 情境化[[Epistemic Cognition\|认识论认知]]整合与近缘范式边界厘清（认识论认知与课程哲学分野）** 现代循证学习科学推动 PBL 在两个层面深化：一是[[Epistemology\|认识论]]维度的深化，证实面对复杂劣构议题时单纯呈现问题若缺乏显性程序与[[Metacognition\|元认知]]引导会导致认知过载，促使 PBL 向整合 [[Epistemic Cognition\|认识论认知]] 与[[Source Evaluation\|信源评估]]支架深化；二是课程哲学层面的精确划界，清晰界定了 PBL（以问题因果机制解释与诊断为核心）与 [[Project-Based Learning\|项目式学习]]（强调具身实体产品交付）以及芬兰 [[Phenomenon-Based Learning\|现象本位学习]]（根植于生活世界体验与 教化 传统）的概念分野。[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 486, 492)]]；[[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024, pp. 2–8)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -387,8 +373,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 低平均效应与条件性效力
 > - **平均效应解读** 九项[[Meta-analysis\|元分析]]的二级综合（简单算术平均）为 d ≈ 0.08，知识获取结果还出现 d = −0.79。按照统一学习结果判断，PBL 的平均优势很小。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
 > - **条件性解读** PBL 的目标可能是知识应用、专业推理和深层理解，效果又受到学生知识基础、问题结构、教师能力及评估方式影响。平均效应没有区分这些条件，无法单独决定具体课程是否适合采用 PBL。[[Argument_Blass_2020_JESP\|Blass (2020, pp. 92–95)]]
@@ -414,8 +398,6 @@ updated: 2026-10-22
 > > - **Neville (2008)** 认为 PBL 毕业生具备相当或更强的专业能力。
 
 ---
-
-## 应用案例
 
 > [!case] 专业教育中的自上而下对齐
 > 传统专业课程通常先分科教授陈述性知识，再安排技能训练，最后据此认定学生已具备执业准备。Biggs 指出，这套安排容易让考试要求决定知识结构。学生能够复述各学科内容，却未必处理过毕业后会遇到的陌生问题。大学按照内容院系配置人员和课程，也会强化这种组织方式。

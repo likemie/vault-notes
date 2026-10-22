@@ -31,19 +31,13 @@ created: 2026-08-13
 updated: 2026-10-22
 ---
 
-# Argumentative Reasoning
-
 > [!theory-position] 理论定位
 > - **解释对象** 个体针对日常社会问题产生因果解释和论辩的思维过程。
 > - **理论问题** 论辩技能如何与底层的[[Epistemology\|认识论]]标准（如证明、专长和确定性）相关联？
 > - **理论类型** 基于日常非正式推理的认识论类型学。
 > - **知识位置** 将[[Epistemological Beliefs\|认识论信念]]的研究从课堂学习扩展至跨年龄段的日常非正式推理，揭示了论辩能力与[[Epistemic Stances\|认识论立场]]的联系。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 103)]]
 
-## 核心命题与机制
-
-### 基于专家确定性的三种认识论观点
-
-> [!proposition-chain|notitle]
+> [!proposition-chain] 基于专家确定性的三种认识论观点
 > [[Epistemology\|认识论]]观点可依据对专长确定性的态度划分为[[Absolutist\|绝对论者]]、[[Multiplist\|多元论者]]和[[Evaluativist\|评价论者]]。
 
 > [!chain-link|notitle]

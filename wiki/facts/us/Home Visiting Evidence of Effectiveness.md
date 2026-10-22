@@ -47,11 +47,7 @@ created: 2026-05-05
 updated: 2026-10-16
 ---
 
-# Home Visiting Evidence of Effectiveness
-
 ---
-
-## 概述
 
 > [!info] 机构定位与运营概况
 > **家访成效证据（Home Visiting Evidence of Effectiveness, HomVEE）** 是由美国卫生与公众服务部儿童与家庭管理局（HHS/ACF）于 2009 年依据《患者保护与平价医疗法案》（ACA）所创设的母婴与幼儿家访项目（MIECHV）而设立的联邦官方[[Educational Evidence Clearinghouses\|证据清算中心]]([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
@@ -59,8 +55,6 @@ updated: 2026-10-16
 > HomVEE 专注于孕妇家庭及 0–5 岁早期儿童发展领域，评估对象包括家访干预模型（Home Visiting Models）与单项实证研究。当前处于**活跃运营（Active）** 状态，官方平台为 [homvee.acf.hhs.gov](https://homvee.acf.hhs.gov)，定期发布联邦法定资助家访模型的审核报告。
 
 ---
-
-## 机构背景与资助体系
 
 > [!note] 发展背景与资助演进
 > 联邦 MIECHV 拨款法案规定，各州至少 75% 的联邦家访资助资金必须投向被 HomVEE 认证为“符合 HHS 有效性[[Evidence Standards\|证据标准]]”的模型。
@@ -70,8 +64,6 @@ updated: 2026-10-16
 
 ---
 
-## 因果推断与方法学标准
-
 > [!abstract] 因果设计与质量规程
 > HomVEE 在因果设计描述程度编码中获评极高级别（**[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=3, [[Regression Discontinuity Design\|RDD]]=3, [[Intelligent Tutoring Systems\|ITS]]=0**），是全库中唯一在技术细化程度上与 [[What Works Clearinghouse\|WWC]] 并驾齐驱的机构([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
 >
@@ -80,8 +72,6 @@ updated: 2026-10-16
 > 3. **基线等值性与混杂因素排除** 强制要求在干预前基线测量中证明两组在人口学[[Variable\|变量]]与核心发展指标上的等值性。
 
 ---
-
-## 评级体系与最高准入门槛
 
 > [!contrast-table] HomVEE 评级标准与联邦法定认证
 > | 评级维度 | HomVEE 标准规范 |
@@ -93,16 +83,12 @@ updated: 2026-10-16
 
 ---
 
-## 在 1,359 个教育项目库中的实证表现
-
 > [!stat-cards]- HomVEE 样本表现
 > - **53** 处理早期儿童认知发展与就学准备结果的家访干预项目数量（个）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])
 
 在方法学审查上高度严密，其对单项 [[Randomised Controlled Trials|RCT]] 和 [[Regression Discontinuity Design|RDD]] 的[[Internal Validity|内部效度]]打分与 [[What Works Clearinghouse|WWC]] 展现出极高的一致性，但因其模型聚焦于家访模式，与纯学校课堂教学项目重叠度较低。
 
 ---
-
-## 相关概念／政策
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — HomVEE 代表了公共部门以法律刚性条款直接绑定财政拨款的清算中心治理典范。

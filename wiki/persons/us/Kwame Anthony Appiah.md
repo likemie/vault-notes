@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Kwame Anthony Appiah
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英美著名哲学家、文化批评家，纽约大学哲学系与法学院讲席教授，曾任普林斯顿大学哲学系教授、美国哲学会主席。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与学术观点
 > - **1992 — *In My Father's House: Africa in the Philosophy of Culture*** 批判本质主义的种族主义与泛非民族主义神话，倡导多元开放的文[[Avatar|化身]]份。
 > - **2006 — *[[Cosmopolitanism]]: Ethics in a World of Strangers*** 提出兼顾普遍人权关怀与地方文化特殊性的世界主义伦理框架。
@@ -77,8 +71,6 @@ updated: 2026-10-22
 > - **2018 — *The Lies That Bind: Rethinking Identity*** 深入解构宗教、国家、阶级、色种与文化等五重本质主义身份神话。
 
 ---
-
-## 学术评价与理论争议
 
 > [!critique] 理论贡献与争议
 > - **解构文化本质主义的锐利之剑** 阿皮亚深刻揭示了将“西方”塑造成线性的、纯粹理性与自由发源地的历史虚构性，有力推动了历史教育的去中心化与多元化反思。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85, 89)]]

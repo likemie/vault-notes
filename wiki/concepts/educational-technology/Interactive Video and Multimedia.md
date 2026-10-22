@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Interactive Video and Multimedia
-
 > [!metax] [交互视频／多媒体 · Interactive video / multimedia](https://www.visiblelearningmetax.com/influences/view/interactive_video~multimedia)
 > 技术、学校与校外策略 › 辅导／多媒体
 >

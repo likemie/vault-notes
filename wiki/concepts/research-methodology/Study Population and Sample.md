@@ -46,11 +46,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Study Population and Sample
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 在[[Quantitative Research\|量化研究]]——尤其是[[Survey Research\|调查研究]]——中，研究总体（Study Population）和研究样本（Study Sample）是两个必须明确区分的基本概念。研究总体指研究者希望做出推论的全部人群（如全世界所有护士）；研究样本指研究中实际检验的受试者子集（如从你所在城市五家医院抽取的护士）。抽样（sampling）的目标是在可行范围内，以最小化偏差的方式从总体中选取样本，使研究者能够基于样本结果对总体做出有效推论（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote|notitle]

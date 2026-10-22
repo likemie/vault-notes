@@ -42,11 +42,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Other Transaction Authority
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **其它交易授权（Other Transaction Authority, OTA / Other Transaction Agreement）** 是指美国国会通过专门立法赋予特定联邦科学与国防机构（如国防部、[[National Aeronautics and Space Administration|国家航空航天局]]与能源部）的法定订约特权，允许机构在开展基础研发、前沿技术原型试制及后续生产转化时，合法豁免于繁琐僵化的《联邦采购条例》（Federal Acquisition Regulation, FAR）及常规政府合规审查法规限制，直接依据灵活的商业条款、知识产权协商机制与里程碑阶段付费方式订立契约。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
@@ -77,9 +73,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **非传统承包商准入激励** 显著降低初创公司因缺乏政府合规系统而面临的法律准入门槛。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
 > - **里程碑式阶段付费（Milestone-Based Payments）** 以明确的硬件交付或技术指标为拨付节点，取代繁琐的成本发票审计。
 > - **知识产权与商业机密保护** 允许商业企业保留其核心专有算法与制造工艺，消除技术被公共公开的商业担忧。
@@ -109,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -125,8 +117,6 @@ updated: 2026-10-22
 > - **2026 — 作为打破技术外溢与转化断层的核心国家工具** 白宫科技政策办公室在《科学：新黄金时代》中明确将 OTA 确立为畅通国家实验室与产业联合体技术许可的支柱工具。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 敏捷采购灵活性与公共财政监督透明度的制度张力
 > - **敏捷创新与效率优先论（蓝方）** 强调在日新月异的技术竞争中，[[Red Tape|繁文缛节]]等于自我扼杀，必须给予项目官员充分的商业自由裁量权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]

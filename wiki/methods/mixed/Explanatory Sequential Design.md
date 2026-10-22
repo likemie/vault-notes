@@ -51,11 +51,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Explanatory Sequential Design
-
 ---
-
-## 1. 定义与核心价值
 
 > [!info] 定义
 > 解释性序列设计（explanatory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先收集和分析量化数据（第一阶段），然后基于量化结果，通过第二阶段的质性数据收集和分析来深入解释量化发现([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.137]])。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 - **受众需求** 目标受众更青睐以量化发现为前导、质性解释为支撑的论证结构。
 
 ---
-
-## 3. 认识论立场
 
 > [!abstract] [[Postpositivism\|后实证主义]]与[[Pragmatic Paradigm\|实用主义]] (POST-[[Positivism]] & pragmatism)
 > 该设计通常始于[[Postpositivism\|后实证主义]]立场（强调通过量化测量识别客观规律），随后转向[[Interpretivism|解释主义]]/[[Pragmatic Paradigm\|实用主义]]立场（强调通过个体经验理解具体背景）。它体现了实用主义的灵活性，即根据[[Research Question\|研究问题]]的不同阶段切换最有效的工具。
@@ -147,8 +141,6 @@ updated: 2026-10-22
 > - [[Exploratory Sequential Design\|探索性序列设计]]：顺序相反（质性在前）；目的是开发工具而非解释结果。
 
 ---
-
-## 7. 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 采用解释性序列设计，第一阶段用大规模量化调查（N=960）检验全球[[Theory of Knowledge\|知识论]]教师的信念与态度，第二阶段通过多地[[Focus Group\|焦点小组]]访谈深入解释量化发现中的实操困境与溢出效应。

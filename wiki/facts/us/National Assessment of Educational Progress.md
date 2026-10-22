@@ -57,11 +57,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# National Assessment of Educational Progress
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 全国教育进展评估（National Assessment of Educational Progress, NAEP）是美国由联邦国会立法授权实施的全国唯一连续性、具有全国代表性的中小学生[[Academic Achievement|学业成就]]监测项目，在公共舆论与学术界被公认为“国家成绩单”（The Nation's Report Card）。该项目由美国联邦教育部下属的国家教育统计中心（National Center for Education Statistics, NCES）负责运营，并在独立的全国评估管理委员会（National Assessment Governing Board, NAGB）监督下开展，为衡量各州学生真实认知水平提供了客观公尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对美国教育宪政分权体制下各州自行设计考试、及格分数无法直接跨州比较的困局，建立一套超越地方利益干扰的全国统一测量基准尺。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心测评机制
 > NAEP 不向任何具体学生、教师或学校出具个人成绩单，亦不与奖惩高利害问责挂钩；它纯粹采用分层[[Random Sampling|随机抽样]]设计（[[Stratified Sampling|stratified random sampling]]）与[[Matrix Sampling|矩阵抽样]]（Matrix sampling）技术，在大规模群体层面上精准估计全美及各州的学业分布与认知梯度，从而防范一线学校因考核压力产生应试操纵或作弊动机。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
@@ -91,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1969–1980 年代 — 创设与全国长期趋势建立期** 由知名教育家拉尔夫·泰勒（Ralph Tyler）等人推动创立，早期仅发布全美总体的长期趋势报告，不公开各州单独排名以避免引发政治争议。
 > - **1988–2001 — 州级代表性测评与《不让一个孩子掉队法》法定绑定** 1988 年联邦立法授权启动州级自愿测评（State NAEP）；2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）正式通过，强制要求所有接受联邦 [[Title I of the Elementary and Secondary Education Act|Title I]] 拨款的州必须每隔两年参加 NAEP 四年级与八年级读写与数学测验，作为外部对照基准。
@@ -100,8 +92,6 @@ updated: 2026-10-22
 > - **2015–至今 — 数字化机考转型与疫情后学业滑坡监测** 全面完成向计算机化自适应测评转型，在 2022 年发布的疫情后学业监测中客观记录了全美数十年来最严重的阅读与数学学业滑坡，持续充当宏观监测中枢。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **统筹与技术实施中枢（NCES）** 负责数据收集、试题编制合同管理（长期委托教育测试服务社 [[Educational Testing Service|ETS]] 等专业测量机构）以及国家统计报告发布。
@@ -115,8 +105,6 @@ updated: 2026-10-22
 > - **刻度映射与政策反馈** NCES 通过将各州自设的熟练切分点映射至 NAEP 统一刻度，向全美公众和政策制定者公开发布“国家成绩单”，提供打破地方政策垄断的客观证据反馈。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入与覆盖指标** 联邦国会经常性预算拨款额、全美各州公立与私立学校抽样样本量（通常覆盖数十万学生）。
@@ -132,8 +120,6 @@ updated: 2026-10-22
 > - **90% vs. 28%** 田纳西州原考卷自称阅读及格率（90%）与 NAEP 实际熟练率（28%）的极端悬殊反差。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

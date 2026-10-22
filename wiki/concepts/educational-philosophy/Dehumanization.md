@@ -37,11 +37,7 @@ created: 2026-08-02
 updated: 2026-10-22
 ---
 
-# Dehumanization（非人性化）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **非人性化（Dehumanization）** 是保罗·[[Paulo Freire\|弗莱雷]]解放教育理论的存在论与伦理学核心概念。指不公正的压迫制度与统治霸权将受压迫者异化和物化为“东西”（things）或被动的客体，剥夺了其说出自己词语与决定自己命运的权利。解放教育的终极目标正是克服非人性化、恢复受压迫者与压迫者双方的人性尊严。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 46, pp. 61–63)]]
@@ -71,9 +67,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **物化降格（Objectification）** 压迫者仅将自己视为“人”，而将受压迫者视为可被支配、驯化与存储的静态事物。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61 注脚72)]]
 > - **双重异化（Double Alienation）** 非人性化不仅剥夺了受压迫者的人性，同时也使压迫者因剥削与施暴丧失自身人性。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 46)]]
 > - **历史可逆（Historical Incompressibility）** 非人性化非不可改变的人类宿命，而是可被批判意识与实践克服的历史畸变。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 63)]]
@@ -103,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -117,8 +109,6 @@ updated: 2026-10-22
 > - **2004 — 民主国家伦理扩展** 弗莱雷在《行知力》中强调有为干预型国家有责任消除非人性化不公。[[Argument_Darwish_2009_Queens\|(Freire, 2004b, p. 35; Darwish, 2009, p. 61)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 避免将“非人性化”泛化为抽象的道德谴责，必须紧密结合具体的社会经济结构与统治关系进行实证解构。

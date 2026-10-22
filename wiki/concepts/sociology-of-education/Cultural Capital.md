@@ -68,12 +68,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Cultural Capital
 （文化资本）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 文化资本（Cultural Capital）是法国社会学家 [[Pierre Bourdieu]] 提出的核心概念，指个体通过早期家庭社会化与正规教育过程获得、并在特定社会[[Champ\|场域]]中具有合法交换价值与排他性收益的文化资源总和。文化资本存在具身化、客体化和制度化三种形态；学校教育往往将对这一资本的默认占有作为隐性选拔前提，从而将社会出身的不平等转化为[[Academic Achievement\|学业成就]]的客观差距，在实质上履行了社会阶级再生产的功能。在大规模教育实证研究中，它常被[[Operationalization\|操作化]]为家庭藏书量等客体化资源，用以捕捉家庭文化刺激对学生认知与[[Epistemology\|认识论]]发展的深层促进作用。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]；[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 353–355)]]
@@ -95,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 资本类型对比
 > | 维度 | 文化资本（Cultural Capital） | [[Social Capital Theory\|社会资本（Social Capital）]] | [[Human Capital Theory\|人力资本]]（Human Capital） |
 > |---|---|---|---|
@@ -106,8 +101,6 @@ updated: 2026-10-22
 > | **实证测量** | 父母受教育程度、家庭藏书量、文化活动参与度 | 拜年网络、亲友体制内任职、关系动员能力 | 培训年限、认知技能测验分数、工作经验 |
 
 ---
-
-## 核心要素
 
 > [!feature] 文化资本的三种存在形态
 > - **具身化文化资本（Embodied Cultural Capital）** 内化于个体身体和心智中的持久倾向，如语言表达风格、审美趣味、行为举止与思维[[Paradigm\|范式]]。它无法像财产那样即时让渡，必须经过漫长时期的身体化习得与内化。在精英高校中，它表现为对隐性保研（[[Recommendation-Based Graduate Admission System\|推免]]）与求职出路规则的直觉洞察力。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 3)]]
@@ -195,8 +188,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -216,8 +207,6 @@ updated: 2026-10-22
 > - **2020 年代 — 跨文化情境的转译与反思** [[Yajun Zheng|郑雅君]]将具身化文化资本本土化为精英大学[[Champ|场域]]中的出路直觉；[[Argument_Teng_2025_CE|Teng and Wang (2025)]] 则揭示了中国县域熟人社会中文化资本的妥协与边缘化特征。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -243,8 +232,6 @@ updated: 2026-10-22
 > - **政策程序简化情境下的效能[[Epoché\|悬置]]** 当入学或评价流程极度单一、透明且缺乏主观评价环节时，文化资本的技术优势会被大大压缩。[[Argument_Teng_2025_CE\|(Teng & Wang, 2025, p. 310)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

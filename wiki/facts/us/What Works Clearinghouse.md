@@ -128,11 +128,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# What Works Clearinghouse
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 有效干预清算中心（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）是[[Institute of Education Sciences\|美国教育部教育科学研究院]]（Institute of Education Sciences, IES）于 2002 年依据《[[Education Sciences Reform Act 2002|教育科学改革法]]案》（ESRA）创立的联邦官方教育证据清算中心，是当代[[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）与循证改革基础设施的国际旗舰平台，在[[OECD\|经合组织]]（OECD）十五年纵向追踪中被确立为凭借法律强制授权与法定预算保障抵御政治更迭、实现持续完全活跃的政府依托型清算[[Paradigm\|范式]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 7–8]])。
@@ -145,8 +141,6 @@ updated: 2026-10-22
 > - **事后被动证据清算 vs 全链条试验中介范式** 相比英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）集干预资助、试验委托、独立评估防火墙、NPD 行政大数据归档与基层动员网络为一体的全链条模式，WWC 属于纯粹的事后被动证据清算中心（Ex-post Evidence Clearinghouse）：本身不设立科研资助基金、不直接委托或设计现场试验，仅对外部已有的独立或开发者研究进行二次审查与评级归档（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–49]]）。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展与立法资助历程
 > - **1960 年代 — 因果问责诉求起源** 参议员罗伯特·肯尼迪（Robert F. Kennedy）质问教育专员：“你是说你花了十亿美元却不知道他们是否会读写？”奠定了联邦追求教育实证确定性的政治动因([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 3]])。
@@ -171,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理与执行矩阵
 > - **联邦管理与监督层（[[Institute of Education Sciences\|IES]] / [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）** 隶属于美国教育部国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
 > - **方法学常设指导委员会** 由全美顶尖计量经济学、心理测量学与统计学专家组成，负责每 2–3 年主持修订审查手册（Handbook）。
@@ -185,8 +177,6 @@ updated: 2026-10-22
 > - **逐级门控审查** 按照“因果识别设计 $\to$ [[Attrition\|样本流失]]模型 $\to$ 基线等值性检验 $\to$ [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]]聚合”程序完成标准化评级。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与代表性成果
 > - **WWC 审查手册（Review Procedures and Standards Handbooks）** 国际公认的最详尽[[Causality\|因果推断]]操作规程，现行 Handbook v5.0 对[[Randomised Controlled Trials\|随机对照试验]]、准实验与[[Regression Discontinuity Design\|断点回归]]提供了数学级审查细则。
@@ -230,8 +220,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **库容规模第一** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，WWC 贡献了 **537 个项目**（占比 39.5%），收录规模居全美首位([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **法定行政约束力** [[Every Student Succeeds Act\|ESSA]] 法案直接将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 拨款与 WWC 认证标准挂钩，赋予其极高的行政硬约束。
@@ -250,8 +238,6 @@ updated: 2026-10-22
 > - [[Communities in Schools]] — WWC 评估辍学预防领域认定为 **No Discernible Effects（无明显效果）**，与 [[National Dropout Prevention Center\|NDPC]] 的“强证据（Strong）”最高推荐形成正面极化冲突([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 学术与政策争议
 >
@@ -293,8 +279,6 @@ updated: 2026-10-22
 > - **对[[Quasi-Experimental Designs\|准实验设计]]的严苛降级** 导致大量在现实课堂中行之有效的本土渐进性创新因缺乏大规模 [[Randomised Controlled Trials\|RCT]] 而被排斥于联邦资助之外。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>

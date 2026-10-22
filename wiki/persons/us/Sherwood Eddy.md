@@ -33,10 +33,7 @@ status: draft
 created: 2026-05-26
 updated: 2026-10-22
 ---
-# Sherwood Eddy
 
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 宣夏德（Sherwood Eddy），美国著名新教传教士（prominent Protestant missionary）和教育者，活跃于 20 世纪早期。1931 年出版 The Challenge of Russia（Farrar & Rinehart），系统论证美国应正式承认苏联。他在该书的教育与文化章节中大量依赖 [[John Dewey]] 1928 年访苏的观察来描述苏联教育状况，将苏联教育称为当今地球上最有趣的实验([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.107–108]])。
@@ -51,9 +48,7 @@ updated: 2026-10-22
 
 - Eddy, S. (1931). *The Challenge of Russia*. Farrar & Rinehart. — 从文化、教育、宗教和政治经济角度全面描述苏联社会，论证美国应正式承认苏联。书中教育与文化章节以 Dewey 1928 年访苏的观察为核心经验证据([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.107–108]])。
 
-## 核心思想
-
-> [!abstract|notitle]
+> [!abstract] 核心思想
 > Eddy 在 The Challenge of Russia 中提出了承认苏联的四项论据([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.107]])：
 >
 > 1. **先例原则**——美国曾承认一战期间的德国等在意识形态和制度上存在重大差异的国家，承认苏联与此一脉相承

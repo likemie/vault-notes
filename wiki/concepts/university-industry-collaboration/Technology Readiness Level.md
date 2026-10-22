@@ -76,11 +76,7 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# Technology Readiness Level
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **技术就绪度（Technology Readiness Level, TRL，亦称技术成熟度等级）** 是[[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）于 1970 年代创设并在全球科技创新、国防采办与产业政策中广泛采纳的一套 9 级标准化技术成熟度度量体系。该量表从 TRL 1（基础科学原理被观察与报告）线性递进至 TRL 9（实际系统在真实运行环境中成功完成任务验证）。
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 九级量表与阶段运行架构
-
 > [!contrast-table] 技术就绪度（TRL）9 级阶梯与多维转化特征
 > | TRL 等级 | 阶段名称 | 核心特征与达成标志 | 主导机构与环境 | 典型支持机制 |
 > |:---|:---|:---|:---|:---|
@@ -127,10 +121,6 @@ updated: 2026-10-22
 > - **中试共置与双向逆向反哺** 在微电子与先进制造领域，依托 300 毫米晶圆中试基线设施与云端网关，高校师生与企业工程师不仅能将 TRL 1–3 成果顺向推进至 TRL 6–7，更通过“测试样片”（Test Coupons）与工业基线产线实现“产线向实验室”（Fab-to-Lab）的逆向参数反馈，形成高频迭代闭环。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–9)]]
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] 技术就绪度核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
@@ -182,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 技术就绪度（TRL）的演进历程
 > - **1974–1989 — [[National Aeronautics and Space Administration|NASA]] 创设 7 级初始框架** 斯坦·萨丁（Stan Sadin）于 1974 年提出概念，1989 年 NASA 正式确立 7 级 TRL 规范，用于航天工程项目的技术风险管理。
 > - **1995 — 扩容确立 9 级通用标准** 约翰·曼金斯（John Mankins）发表白皮书，将 TRL 细化为 9 个等级，确立了当代沿用至今的完整评估标准。
@@ -192,8 +180,6 @@ updated: 2026-10-22
 > - **2020s — [[CHIPS and Science Act|芯片法案]]与深科技全链条角色重构** 《[[CHIPS and Science Act|芯片与科学法案]]》设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），整合分布式 300mm 先进中试线、云端 DEG 网关与大学开放洁净室，推动[[Research Universities|研究型大学]]与深科技企业依托共置与测试样片直接参与 TRL 4–7 中试验证，并开创 Fab-to-Lab 双向闭环，弥合硬科技转化断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 围绕技术就绪度（TRL）的学术与政策争议
 >
@@ -217,8 +203,6 @@ updated: 2026-10-22
 > TRL 评估体系最适用于具有明确物理硬件、航空航天、国防采办与重资产工程制造等强结构化领域；在以敏捷迭代、快速试错与网络效应为核心的纯软件开发、互联网平台及部分数字服务创新中，过度机械套用 TRL 评估将显著降低创新敏捷度。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- TRL 阶段跨越与衍生企业融资实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

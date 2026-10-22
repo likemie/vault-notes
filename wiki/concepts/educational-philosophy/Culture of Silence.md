@@ -40,11 +40,7 @@ created: 2026-07-25
 updated: 2026-10-22
 ---
 
-# Culture of Silence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 沉默文化（Culture of Silence）是[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire）在[[Critical Pedagogy\|批判教育学]]与扫盲实践中提炼的核心概念。它指被压迫者与受教育者在社会压迫结构及[[Banking Model of Education\|储蓄式教育]]的长期规训下，丧失了对自身生活现实进行批判性审视与发声的权力，陷入被动接受统治者[[Discourse|话语]]与价值认同的无声状态。在 Freire and Darwish (2009) 的论述中，真正生长/成长与[[Active Learning\|主动学习]]的发生，本质上就是打破这一沉默文化、实现[[Conscientization\|批判意识觉醒]]并迈向实践的过程 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 7)]]。
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > *Growth can be understood as breaking away from the 'culture of silence' imposed upon the oppressed... (Freire & Macedo, 1987, p. 159; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*
 
 ---
-
-## 核心要素
 
 > [!theory-components] 沉默文化的三大表现维度
 > - **[[Discourse|话语]]权被剥夺（Deprivation of Voice）**
@@ -87,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 古典教育哲学对“沉默”的合法化与现代批判
@@ -96,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -79,11 +79,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Central Phenomenon
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **核心现象（Central Phenomenon，在[[Grounded Theory|扎根理论]]分析中深化为核心范畴 Core Category）** 是[[Qualitative Research|质性研究]]与[[Grounded Theory|扎根理论]]中用于探索、理解与理论建构的核心支点概念。在研究设计阶段，它是质性[[Purpose Statement|目的陈述]]与[[Central Question|核心研究问题]]所推进的单一核心观念，有别于[[Quantitative Research|量化研究]]对多[[Variable|变量]]关联或群组比较的先验设定（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 125]]）；在数据分析与理论生成阶段，核心现象是扎根理论[[Axial Coding|主轴编码]]与[[Selective Coding|选择性编码]]中具有最大解释力（greatest explanatory potential）的中心范畴，所有其他范畴、因果条件、中介机制与行动策略均围绕其展开系统整合、校验并凝聚为连贯的理论[[Story Line|故事线]]（Strauss, 1987, p. 11；Strauss & Corbin, 1990, p. 116；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]）。
@@ -193,8 +189,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -212,8 +206,6 @@ updated: 2026-10-22
 > - **2020s — 计算质性分析与[[Man-Computer Symbiosis|人机协同]]演进** 在 [[Qualitative Computer Software|CAQDAS]] 语义知识图谱与大语言模型（LLM）时代，文本主题建模（Topic Modeling）与无监督语义聚类能够快速生成候选核心节点，但最终对核心现象的理论命名、主轴关系对齐与[[Epistemology|认识论]]审校，仍依赖人类学者的[[Reflexivity|反身性]]判断。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -267,8 +259,6 @@ updated: 2026-10-22
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 在[[Grounded Theory|扎根理论]]主轴与[[Selective Coding|选择性编码]]专节中系统阐释核心范畴的最大解释潜力、[[Story Line|故事线]]整合与包容层级整合机制（Ch. 30）。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 核心现象关联网络
 >

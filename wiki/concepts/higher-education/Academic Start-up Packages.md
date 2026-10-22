@@ -51,11 +51,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Academic Start-up Packages
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 高校科研启动配套金（Academic Start-up Packages），指[[Research Universities|研究型大学]]向新招聘理工科教职人员（助理教授及资深教授）由校方内部预算出资提供的专属一次性科研资助包，用于实验室初期建设、大型仪器设备采购、研究生助研津贴、博士后薪资及实验耗材支出；其核心制度功能是为新进学者提供为期约 3 年的资源缓冲期，使其能够产出初始[[Pilot Testing|预实验]]数据（Pilot Data），从而具备角逐国家级外部竞争性资助（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 基金）的初始资本。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24, 30–31)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科研启动配套金与相关科研支持机制对照
 > | 维度 | 高校科研启动配套金（Start-up Package） | 竞争性外部科研项目（External Grants） | 终身教职基础薪酬（Hard-Money Salary） |
 > |---|---|---|---|
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > | **考核目标** | 能否成功斩获首个独立外部国家级基金（如 R01） | 课题合同指标完成度与学术论著发表产出 | 年度教学工作量、院系公共服务与学术产出 |
 
 ---
-
-## 核心要素
 
 > [!feature] 启动配套金的核心结构与支出构件
 > - **科研仪器与重资产设备（Equipment Expenditures）** 构成启动金中最大比例的单项支出；在康奈尔大学（Cornell University）等顶尖学府，设备采购支出占三分之一新进教师启动金的 60% 以上，占其余半数启动金的 25% 至 40%。
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,8 +152,6 @@ updated: 2026-10-22
 > - **2000s 至今 — 避险危机与商场模型反思** 启动金膨胀被理论化为大学“商场模式”下的摊位铺底租金；学者深入揭示 3 年资助耗尽倒计时与[[Academic Risk Aversion|学术避险主义]]之间的结构性因果链条。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -180,8 +168,6 @@ updated: 2026-10-22
 > > - **学术避险批判论** 阿特金森等学者指出，在低中标率环境下强加 3 年生存红线，迫使最具[[Creativity|创造力]]的青年学者转向稳妥平庸的选题，严重背离了国家与大学资助学术探索的根本宗旨。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 启动配套金规模与高校内部投入实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

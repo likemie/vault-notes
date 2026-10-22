@@ -75,13 +75,9 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# AIR Model of Epistemic Cognition
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 个体与共同体在真实情境中开展探究、评价证据、构建科学模型与论证时的[[Epistemic Cognition\|认识论认知]]（[[Epistemic Cognition]]）与实践机制。
 > - **理论问题** 克服早期个人[[Epistemology\|认识论]]（personal epistemology）将认识论认知窄化为个体关于知识抽象本质（确定性、简单性）的脱域信念，缺乏对目标、评价标准、[[Causal Processes\|因果过程]]及学科情境性的解释力。
 > - **理论类型** 整合哲学认识论与认知心理学的中层理论与[[Analytic Framework\|分析框架]]。
@@ -109,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题与机制
-
 > [!proposition-chain] 核心命题一｜[[Epistemic Cognition\|认识论认知]]由目标、理想与[[Reliable Epistemic Processes\|可靠过程]]三大构件深度交织构成
 > - **前提一** 传统认识论认知框架主要聚焦于学习者关于知识确定性与来源的抽象信念，遗漏了当代哲学[[Epistemology\|认识论]]（如[[Epistemological Naturalism\|自然化认识论]]、[[Reliabilism\|可靠主义]]与[[Virtue Epistemology\|美德认识论]]）所强调的广泛认知资源。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–207)]]
 > - **前提二** 任何完整的科学探究活动均包含设定探究意图、操作生成程序、检验所得产品三阶段。
@@ -133,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Theoretical Standpoint\|理论立场]]
 > - **[[Ontology\|本体论]]立场** 认识实践是情境化的、深度依赖社会互动与物质环境的因果活动，而非纯粹封闭在个体颅骨内的先验信念网络。
 > - **[[Epistemic Stances\|认识论立场]]** 坚持温和[[Reliabilism\|可靠主义]]与社会自然主义[[Epistemology\|认识论]]；知识的合理性源于产生它的认知过程与检验标准在经验现实中的[[Reliability\|可靠性]]与可抗辩性。
@@ -146,8 +138,6 @@ updated: 2026-10-22
 > - **作为元认识论对话触发器** 在课堂中组织元认识论审议（meta-epistemic discussions），促使学生跳出对具体结论的争论，转向辩护“为什么在当前情境下双盲/系统观察比个人直觉更可靠”。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- AIR 模型与[[Epistemic Cognition\|认识论认知]]干预实证研究汇总
 > <span class="theory-empirical-table-marker" aria-hidden="true"></span>
@@ -165,8 +155,6 @@ updated: 2026-10-22
 > - **不适合解释** 纯粹文学审美、修辞修饰技巧或无[[Epistemic Aims\|认识目标]]的纯情感表达性[[Discourse|话语]]。
 
 ---
-
-## 争议与批评
 
 > [!critique] 对传统论证结构模型的超越与理论交锋
 > - **对[[Toulmin's Argumentation Model\|图尔敏论证模型]]（TAP）与 CER 框架的批判** [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] 尖锐指出，当前科学教育主流框架将论证质量简化为部件数量与复杂性（如主张、证据、推理、反驳）。这种结构主义进路存在重大盲区：全球变暖否定论与反疫苗阴谋论的宣传文本往往具备极其完美的图尔敏结构与复杂反驳，却在[[Epistemic Ideals\|认识论理想]]（采纳孤立个案、诉诸个人直觉）与过程[[Reliability\|可靠性]]（依赖不可靠的非系统观察、选择性报告）上千疮百孔。结构分析无法区分科学论证与披着伪科学外衣的精致谎言。

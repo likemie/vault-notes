@@ -42,11 +42,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Traveller Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 旅行者教育（Traveller Education）是指面向大篷车巡回居民、爱尔兰旅行者（Irish Travellers）以及罗姆（Roma）/吉普赛（Gypsy）少数族群儿童所展开的专门化教育安置、学业支持与包容性政策实践。该概念聚焦于具有流动生活史的社群在主流定居教育体系中所遭遇的制度性排斥，核心探讨正规学校内部高度结构化的空间与时间区隔如何造成边缘学生的文化与身体失调，以及多元文化政策在试图推动主流社会融入与尊重社群半隔离自主性之间的内在悖论。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
@@ -76,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **漫游污名的社会统合（Social Stigma of Itinerancy）** 尽管大篷车社群内部高度异质（涵盖传统流动家庭、已定居家庭以及冷战后来自中东欧的新罗姆移民），但在主流定居社会眼中均被统一贴上“流窜、不稳定与边缘病态”的社会污名。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 > - **学校微观空间的结构化规训（Highly Structured Use of Space）** 现代学校依靠被精细分割的教室、走廊走动限制、按钟声起坐以及不得随意外出的微观空间秩序，直接抵触旅行者儿童习惯于宽阔自然营地与灵活移动的身体习性。
 > - **多元文化承认与空间同化的政策张力（Recognition vs Containment Paradox）** 英国等国政策一方面通过“旅行者教育服务（Traveller Education Services, TES）”试图在课程中尊重其族群尊严，另一方面学校的日常组织结构却在物质与身体层面强制推行定居化纪律，使教育实践陷入深刻矛盾。
@@ -122,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -139,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 分类标签与群体内部复杂性之争
@@ -153,8 +143,6 @@ updated: 2026-10-22
 > 旅行者教育的研究结论高度依赖西欧特定的反吉普赛主义（Antiziganism）历史语境与大篷车聚落法规；在非游牧或缺乏专门巡回族群传统的社会中，不能直接套用该概念来分析常规城市农民工子女的就学问题。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

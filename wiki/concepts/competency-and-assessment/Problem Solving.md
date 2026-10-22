@@ -75,11 +75,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Problem Solving
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **问题解决（Problem Solving）** 是指个体在面对情境阻碍且没有现成、自动化算法或直接反应程序可用时，运用一系列有目的的高级认知与实践规程，将“初始状态（Initial State）”逐步转化为“目标状态（Goal State）”的复杂心智与操作过程。在认知心理学经典传统中，该过程被形式化为“问题空间（Problem Space）”内的状态搜索与算子（Operators）应用；在当代学习科学、[[OECD|经合组织]]（OECD）素养框架以及[[Engineering Education|工程教育]][[Epistemology|认识论]]中，它进一步拓展为**复杂问题解决（Complex Problem Solving, [[Creative Problem Solving|CPS]]）** 与**现场故障排查（Troubleshooting）**，强调在高度动态、信息不完备、多重物理/成本约束且具劣构特征的真实情境中进行系统表征、多路径探索、算法调试、权衡折中（Trade-offs）与物理干预。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 14)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 24–25)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 问题解决与相近高阶认知与实践能力对比
 > | 比较维度 | 问题解决（Problem Solving） | [[Critical Thinking\|批判性思维（Critical Thinking）]] | [[Creativity\|创造力（Creativity）]] | 现场故障排查（Troubleshooting） |
 > |---|---|---|---|---|
@@ -119,9 +113,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **问题表征与约束空间界定（Problem Space Representation）** 理解问题语义、识别初始状态、明确目标状态并解析材料、物理、成本与安全边界约束，建立内在心智模型。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 156–157)]]
 > - **解题路径搜索与启发式策略应用（Heuristic Search）** 结合领域特定知识，在潜在解空间中运用手段-目的分析（Means-Ends Analysis）、分治法或类比迁移策略探索前进步骤。
 > - **多约束权衡与折中决策（Multi-Constraint Trade-offs）** 在相互冲突的指标（如性能 vs 功耗、精度 vs 成本）之间寻找帕累托最优解，制定工程折中方案。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 157)]]
@@ -176,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -187,8 +177,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 问题解决理论的发展演进
 > - **1910s–1930s — 试错说与顿悟说的早期对峙** 桑代克（Edward Thorndike）提出试错联结说，强调刺激-反应之间的渐进强化；格式塔学派（苛勒 Wolfgang Köhler、邓克尔 Karl Duncker）则提出“顿悟说”（Insight），强调克服功能固着（Functional Fixedness）并对情境关系进行整体知觉重构。
 > - **1970s — 信息加工与问题空间[[Paradigm|范式]]确立** [[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon]]）与纽厄尔（Allen Newell）出版里程碑专著《人类问题解决》（*Human Problem Solving*），将思维形式化为在包含初始、中间与目标状态的“问题空间”中，运用启发式策略（如手段-目的分析 Means-Ends Analysis）进行符号搜索的加工系统。
@@ -197,8 +185,6 @@ updated: 2026-10-22
 > - **2020s — [[Man-Computer Symbiosis|人机协同]]与现场排障手艺的双重重塑** 生成式 AI 推动纯符号推演与代码排错的自动化，而科技界同时重新认识到物理硬件、实验仪器与制造产线现场排障（Troubleshooting）手艺的不可替代性。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 问题解决的核心学术争议
 >
@@ -218,8 +204,6 @@ updated: 2026-10-22
 > 纸笔标准化测验往往只能测查静态的陈述性推导，难以有效评估动态复杂问题解决（[[Creative Problem Solving|CPS]]）中的自适应调控能力与物理排障手艺；高阶表现性测验（如 [[Collegiate Learning Assessment|CLA+]] 任务）评分成本高昂，且易受被试作答动机波动影响。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 12–14)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

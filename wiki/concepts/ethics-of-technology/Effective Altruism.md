@@ -46,11 +46,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Effective Altruism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 有效利他主义（Effective Altruism, EA）是指发端于当代应用伦理学与功利主义哲学、在过去十年被硅谷科技阶层广泛接纳的一种道德运动与意识形态[[Paradigm|范式]]。该范式主张以伦理[[Cosmopolitanism|普世主义]]与量化[[Cost-Benefit Analysis|成本效益分析]]为判准，将个体行动与资本捐赠精确导向能够最大化增进人类（乃至非人类）整体福利的单一指标领域；然而在当代科技政治视阈下，它被批判为一种回避实质政治决断的“空洞功利主义”，充当了科技精英逃避民族国家防卫义务与公民共同体承诺的道德避险工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–215)]]
@@ -81,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **单一福利指标的算术化还原（Metric Utilitarianism）** 将极其丰富的人类文明经验、审美追求与共同体责任，简化为诸如“每美元拯救生命数”或“预防疾病伤残调整寿命年”等单一量化指标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
 > - **脱嵌于政治共同体的抽象[[Cosmopolitanism|普世主义]]（Disembodied Universalism）** 宣称所有生命福利在道德计算中具有绝对均等权重，以此在伦理上否定个体对本土政治共同体、历史传统与国家宪政防卫的特殊责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–214)]]
 > - **科技精英的道德避险庇护所（Moral Cover for Technocrats）** 为硅谷高管与软件工程师提供了一种披着崇高理想外衣的心理安慰剂，使其能够合理化自身的政治冷漠，延缓面对人类对生命意义与终极善恶的严肃探寻。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
@@ -137,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +147,6 @@ updated: 2026-10-22
 > - **2025 — 科技共和国视阈下的哲学批判** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 系统解构有效利他主义，指出其为空洞功利主义与[[Technological Agnosticism|技术不可知论]]的合谋，呼吁以实质伦理与[[Civic Rituals|公民仪式]]重塑[[Technological Republic|技术共和国]]（pp. 212–218）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

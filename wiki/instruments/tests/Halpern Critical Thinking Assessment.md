@@ -56,11 +56,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Halpern Critical Thinking Assessment
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Halpern [[Critical Thinking Assessment]]（HCTA）
 > - **工具类型** 混合型情境化[[Cognitive Ability Test KFT\|认知能力测验]]（Mixed-Format Cognitive Assessment）。
@@ -69,8 +65,6 @@ updated: 2026-10-16
 > - **实施方式** 计算机在线施测（限时约 60–90 分钟），题项基于生活、医疗决策、公共政策等生动情境。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Across Five Cognitive Domains）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -85,15 +79,11 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **双阶段作答机制（Dual-Response Format）** 包含 25 个日常真实情境。每个情境首先要求受测者进行**开放式主动生成（Constructed-Response）**（如提出可能原因或批评漏洞）；作答提交后系统显示第 2 问，要求受测者在预设选项中进行**选择再认与排序（Forced-Choice Recognition）**。
 > - **计分体系** 开放生成题依据精细化量规打分（可使用自动化自然语言处理评分或人工评分），[[Multiple-Choice Questions\|选择题]]自动判分；输出生成分、再认分与总[[Critical Thinking\|批判性思维]]分数。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -103,8 +93,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | HCTA 计算机版 | [[OECD\|经合组织]]高等教育评价综述，分析混合格式测评工具在[[Ecological Validity\|生态效度]]与心理测量[[Reliability\|信度]]之间的平衡优势 | 混合格式[[Higher-Order Thinking Skills\|高阶思维]]测评 | 证明 HCTA 成功弥合了“主动生成”与“被动再认”之间的认知鸿沟，是兼具生态效度与测量信度的高教测评范例 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

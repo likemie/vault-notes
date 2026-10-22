@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# School Bullying
-
 > [!metax] [欺凌 · Bullying](https://www.visiblelearningmetax.com/influences/view/bullying)
 > 课堂 › 课堂管理
 >

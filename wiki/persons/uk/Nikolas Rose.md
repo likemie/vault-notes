@@ -61,11 +61,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Nikolas Rose
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代著名社会学家、社会思想家，英国社会[[Chinese Academy of Sciences|科学院]]院士（FAcSS），伦敦国王学院（King's College London）社会科学、健康与医学系荣休教授，曾任伦敦政治经济学院（LSE）社会学系主任及生物科学、生物医学与社会研究中心（BIOS）联席主任。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980–1990 年代初 — 心理复合体与微观规训期** 揭示现代心理学与精神医学如何成为国家行政的延伸技术，将劳动力与公民自我重塑为自我监测、自我调适的“企业化自我”（Enterprising Self）。
 >   - **代表著作** 《治理灵魂：私人自我的塑造》（*Governing the Soul: The Shaping of the Private Self*, 1989）。
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 在高级自由主义时代，权力的运作核心在于将受治主体形塑为“自由、理性且追求自我负责的企业家”，实现“远处统治”（[[Governing at a Distance]]），区别于中央集权国家的直接强制命令。在此过程中，量化数据与性能指标构成了关键政治技术（Political Technology）：“数字即政策”（Policy as Numbers）将原本包含伦理冲突、意识形态分歧与阶级利益博弈的政治决断，转化为中立、客观的技术测量；通过设置排名、审计公约与[[Performance Indicators|绩效指标]]，治理者诱使地方自治机构与个体主动将自身行为对齐中央或跨国标准。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 > [!citation-card] 罗斯论数字作为使政治决断隐形化的统治技术
@@ -118,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 极大地丰富并系统化了盎格鲁-撒克逊学界对福柯“[[Governmentality|治理术]]”（Governmentality）的阐释，建立了高级自由主义、远处统治与计算权力的经典[[Analytic Framework|分析框架]]。
 > - **方法路径** 倡导“政治技术学分析”（Analytics of Government），主张通过解构[[Questionnaire|问卷]]量表、会计报表、测评指标与算法分类来追踪权力在毛细血管层面的运作。
 > - **政策路径** 成为全球批判政策社会学与教育政治经济学的旗帜性理论源头；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、珍妮·奥兹加（Jenny Ozga）与史蒂芬·鲍尔（[[Stephen Ball]]）广泛汲取其理论解构国际组织的教育绩效监控体系。
@@ -140,8 +130,6 @@ updated: 2026-10-22
 > - **机构平台** 伦敦政治经济学院（LSE）、伦敦国王学院（KCL） — 长期执教与领导跨学科社会科学与生物医学社会研究中心的核心重镇。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

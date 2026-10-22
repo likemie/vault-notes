@@ -71,11 +71,7 @@ created: 2026-05-11
 updated: 2026-10-22
 ---
 
-# John W. Meyer
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 约翰·迈耶（John W. Meyer），美国当代著名社会学家，斯坦福大学社会学系荣休教授，斯坦福大学教育学院兼任教授，[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]的核心开创者。
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970–1979 — 经验异常与[[Rationalized Myth|制度神话]]的发现：从国家内部[[Variable|变量]]到组织新制度主义** 这一时期主要回应战后跨国教育普及浪潮中出现的经验异常，即为何无论国家贫富、政体民主或专制，全球各地的学校入学率均出现步调一致的暴增，且组织内部的正式结构与实际技术活动往往严重脱节。
 >   - **代表著作** Meyer (1971) *Economic and Political Effects on National Educational Enrollment Patterns*; Meyer and Rowan (1977) *Institutionalized Organizations: Formal Structure as Myth and Ceremony*; Meyer and Hannan (1979) *National Development and the World-System: Educational, Economic, and Political Change, 1950–1970*. [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
@@ -128,9 +122,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代社会的制度变迁、民族国家建构与组织演进，本质上不是各个孤立社会内部技术功能自发演化的产物，而是一个由共享理智化规范构成的世界社会不断向外扩散全球[[Cultural Models|文化模型]]的结果；在此过程中，现代国家、组织与个体被赋予了高度标准化的能动者身份，并通过科学家、专业人士与非政府组织所践行的“[[Otherhood|为他者行动]]”机制，将全球启蒙理性转化为合法性权威，维系着去中心化全球秩序的[[Institutional Isomorphism|制度同构]]与持续运转。
 
 > [!citation-card] 迈耶论孤岛社会对世界理性制度的自发采纳
@@ -145,9 +137,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
 > - **方法路径** 倡导大规模、长时段的跨国量化比较研究方法，通过建立战后全球多国入学率数据库、国家课程纲要分类与课时比例数据库、人权与环境条约签署数据库等，奠定了运用宏观跨国面板数据检验微观[[Institutional Isomorphism|制度同构]]效应的研究设计规范。
 > - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化与政策执行落差的标准分析工具。
@@ -159,8 +149,6 @@ updated: 2026-10-22
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 全面汲取迈耶的[[Organizational Actorhood|组织能动者身份]]（Actorhood）与[[Otherhood|为他者行动]]（Otherhood）框架，实证解构现代超级研究型大学如何通过科学客观性与[[Knowledge Production|知识生产]]，在全球去中心化治理中占据独特的合法性中心地位。
 
 ---
-
-## 历史评价
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论迈耶世界文化流派对比较教育宏观视野的拓展
 > 迈耶及其同事开创的世界文化与新制度主义研究，聚焦跨国文化与社会系统的运作，有力解释了二战后学校教育在世界各地的建立与扩张，特别是教育与现代公民权及民族国家建构之间的紧密关联；迈耶的跨国研究证实教育的普遍扩张独立于各个国家以往的经济、政治与社会结构约束，为比较教育学确立了超越国家孤立分析的世界宏观视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–102)]]
@@ -186,8 +174,6 @@ updated: 2026-10-22
 > - **机构阵地** 斯坦福大学社会学系（Department of Sociology, Stanford University）、斯坦福教育学院 — 斯坦福新制度主义学派的核心摇篮与全球学术阵地。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

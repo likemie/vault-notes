@@ -47,11 +47,7 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# Revoicing
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **重铸（Revoicing）** 是玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）于 1993 年提出的课堂教学[[Discourse|话语]]策略。指教师在课堂师生对话中，将学生提出的初步、粗糙或非正式的日常表述，重新转述为更为严谨、符合学科规范且认知层次更高的学术话语，在此过程中明确保留原意并显性确认该观点属于提出学生本人（即作者权/归属权，Authorship/Ownership），进而引导全班对该观点展开评估与辩论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 课堂[[Discourse|话语]]互动模式对比
 > | 维度 | 话语重铸（Revoicing） | [[Listening-Oriented Learning\|倾听导向学习]]（Listening-Oriented Learning） | 纠错反馈（Recasting） |
 > |---|---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > | **文化依托** | 西方[[Mind-Oriented Learning Process\|心智导向]]与表达即思考模型 | 东亚[[Virtue-Oriented Learning Process\|美德导向]]与敏于行讷于言规范 | 通用二语习得认知心理学 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Discourse|话语]]重铸的核心功能构成
 > - **标注观点作者权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 话语重铸的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,16 +150,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Discourse|话语]]重铸理论与应用演进
 > - **1981 — 社会语言学理论奠基** 欧文·[[Michael Gove|戈夫]]曼（[[Erving Goffman]]）在 *Forms of Talk* 中提出话语角色[[Analytic Framework|分析框架]]，区分话语发出者（Animator）、文本起草者（Author）与责任承担者（Principal），为教学中的话语转述奠定理论根基。
 > - **1993–1996 — 课堂重铸概念正式界定** 玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）在中小学科学与数学探究课堂中系统提炼出 Revoicing 话语策略，明确其在观点对齐与概念升级中的双重功能。
 > - **2012 — 跨文化学习模型整合** [[Jin Li|李瑾]]（Jin Li）在著作 *Cultural Foundations of Learning* 中将话语重铸置于西方[[Mind-Oriented Learning Process|心智导向]]学习模型（Mind-Oriented Learning Model）的系统框架中，并与东亚[[Listening-Oriented Learning|倾听导向学习]]模式进行深度比较。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 91–96, 115–120)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 课堂[[Discourse|话语]]哲学的跨文化张力
 > - **观点作者权与公开辩论（西方模型）** 坚信知识在个人观点的公开碰撞中生成，说话强化思考，主张通过重铸强化个人归属感与辩论能力。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
@@ -187,8 +173,6 @@ updated: 2026-10-22
 > 话语重铸策略建立在学生具备边说边想认知习惯的文化前提上。在对口语表达带有道德承诺负担（如先想后说）的文化群体中，强行要求学生即时口头辩论可能显著升高其压力荷尔蒙水平，进而干扰其高阶[[Problem Solving|问题解决]]表现。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 108, 120)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨文化说话与认知处理生理实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

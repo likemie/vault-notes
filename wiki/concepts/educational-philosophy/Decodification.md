@@ -36,11 +36,7 @@ created: 2026-08-02
 updated: 2026-10-22
 ---
 
-# Decodification（解码）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **解码（Decodification）** 是保罗·[[Paulo Freire\|弗莱雷]][[Problem-Posing Education\|提问式教育]]法中紧接编码的关键探究阶段。指受教者在文化圈（círculos de cultura）中围绕编码展开集体横向对话，从感性观察跃升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的跃升。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 61)]]
@@ -70,9 +66,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **结构跃升（Structural Elevation）** 从“照片里有一块泥砖”拆解为“烧砖者为何住不起砖房”的结构分析。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 > - **横向合作（Horizontal Dialogue）** 师生作为平等探究主体共同解码，拒绝教师单向灌输结论。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 > - **实践指向（[[Praxis]] Orientation）** 解码理性觉察直接转化为改变压迫现状的实践行动。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
@@ -102,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -117,8 +109,6 @@ updated: 2026-10-22
 > - **2009 — 课程对比应用** 达维什在学位论文第 4 章中将解码作为评估[[Active Learning\|主动学习]]深度的重要标准。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 解码若缺乏教育者的批判引导，可能滑向无意义的抱怨或表面经验轮换；若教育者过度主导，则可能退化为家长制说教。

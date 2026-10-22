@@ -55,11 +55,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# UTeach Observation Protocol
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] UTeach [[Observation Protocol]] (UTOP)
 > - **工具类型** [[STEM Education|STEM]] 学科探究式课堂外部[[Classroom Observation|教学观察]]规程（observation-tool）。
@@ -87,14 +83,10 @@ UTOP 将探究性 [[STEM Education|STEM]] 课堂表现解构为四大核心板�
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 26 项具象化观察指标，并附带定性证据记录栏。
 > - **作答格式** 1–5 点等级评定（1 = 几乎无证据，3 = 中度展现，5 = 极佳达成），最后给出 1–7 分的全局综合印象分。
 > - **反向题与跳题** 无反向题；若某指标在当堂课不适用（如本课未涉及外部技术工具），允许标记为 N/A。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] UTOP 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -119,8 +111,6 @@ UTOP 将探究性 [[STEM Education|STEM]] 课堂表现解构为四大核心板�
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | UTOP 原始版 | 作为 Teach 初始 43 项要素建库来源之一；对比探究教学指标的预测力 | 分析其要素在中低收入国家大[[Class Size\|班额]]情境中的落地可行性 | 其课时连贯性与学生自主性指标为 Teach 提供了重要启发，但全课时 26 项打分对跨国基层观察员认知负荷过大，促成了 Teach 的双段 15 分钟设计。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

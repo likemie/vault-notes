@@ -54,11 +54,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# G. Reid Lyon
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代神经心理学家、联邦高级科技官僚，曾任美国[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]（[[National Institute of Child Health and Human Development|NICHD]]）儿童发展与行为分支（CDBB）主管、乔治·W·布什总统白宫教育顾问。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1995 — *Frames of Reference for the Assessment of Learning Disabilities*** 倡导以神经认知测量和标准化实验[[Paradigm|范式]]评估学习障碍，奠定医学化诊断框架。
 > - **1998 — *Overview of Reading and Literacy Research*** 汇总受 [[National Institute of Child Health and Human Development|NICHD]] 资助的大规模实证研究成果，宣示直接拼读干预相较于[[Whole Language|全语言]]的决定性优势。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
@@ -90,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 阅读习得本质上是一种复杂但可被精确测量的神经认知生理机制，而非自然习得的语言副产品；有效的早期阅读教学必须建立在音位意识与显性直接拼读[[Decodification|解码]]的基础之上，任何未经大样本严格控制实验（[[Randomised Controlled Trials|RCT]]）检验的教学哲学（如[[Whole Language|全语言]]）均属于“未经证实的主观信念”，联邦公共财政绝不得为不具备可复制性科学证据的教学项目提供资助。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 
 > [!citation-card] 将阅读干预等同于临床医学规范（G. Reid Lyon, 1998）
@@ -109,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] 史蒂文·施特劳斯论次政府政企闭环中的里昂角色（Steven Strauss, 2001）
 > 联邦科研机构与美国企业界纯粹商业议程之间的紧密契合，迫使我们不得不质问：你们是否真的欢迎来自学术共同体尤其是广大研究者的挑战，以及你们的既定目标最终究竟符合谁的利益。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]
 >
@@ -126,8 +116,6 @@ updated: 2026-10-22
 > - **领导机构** [[National Institute of Child Health and Human Development]] — 其长期任职并施展政策影响力的联邦官僚中枢。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

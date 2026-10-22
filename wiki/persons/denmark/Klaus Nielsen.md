@@ -56,7 +56,6 @@ status: draft
 created: '2026-05-03'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Klaus Nielsen 是丹麦奥胡斯大学（Aarhus University）心理学系教授，研究兴趣为社会实践中学习、理论心理学和质性方法（Nielsen & Klitmøller, 2021, p. 92）。他以运用 Habermas 的[[Legitimation Crisis|合法化危机]]理论（Legitimation Crisis）和 Schön 的[[Technical Rationality\|技术理性]]（Technical Rationality）概念，从**理论功能**（而非方法论）角度解释 [[John Hattie]] 的 [[Visible Learning]] 为何在全球流行的批判性分析而知名。 Nielsen 与长期合作者 Jacob Klitmøller 自 2017 年起发表了一系列丹麦语和英语论文，系统性地从理论内核、方法论质量和合法化功能三个维度批判 Hattie 的 VL 项目。
@@ -72,8 +71,6 @@ updated: 2026-10-22
 > - Klitmøller, J., & Nielsen, K. (2019). Kritikken af kvaliteten af Hattie's kvantitative forskning [A critique of the quality of Hattie's [[Quantitative Research]]]. *[[Paideia]]*, 18, 65. — 对 VL 量化方法论的丹麦语详细批判
 > - Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. *International Review of Theoretical Psychologies*, 1(1), 78–92. — 运用 Habermas [[Legitimation Crisis|合法化危机]]理论解释 VL 全球流行的英文理论分析
 > - Nielsen, K., & Klitmøller, J. (2021). Blind spots in visible learning: A critique of John Hattie as an educational theorist. *Nordic Psychology*. — 以[[Technical Rationality\|技术理性]]为框架论证 Hattie 是教育理论家（而非纯统计学家），追溯其[[Behaviorism|行为主义]]谱系（Skinner→Glaser→Hattie），对 VL 反馈效应进行 5 项[[Meta-analysis\|元分析]]逐项细读审查
-
-## 核心思想
 
 > [!info] VL 的[[Legitimation Crisis|合法化危机]]解释（2021, IRTP）
 > Nielsen & Klitmøller (2021, IRTP) 的核心论证是：VL 的全球流行不能仅从方法论维度（数据质量/统计方法）理解，而需要从**合法化危机的理论功能**维度理解。在 [[PISA]] 冲击后各国教育系统面临严重合法性赤字时，Hattie 的 VL 提供了一个"统一的[[Didaktik\|教学理论]]"，使政策制定者和学校能够向公众证明教育系统在"有效运作"（Nielsen & Klitmøller, 2021, pp. 86-88）。

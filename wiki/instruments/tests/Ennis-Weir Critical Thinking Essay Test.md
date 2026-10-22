@@ -46,11 +46,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Ennis-Weir Critical Thinking Essay Test
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Ennis-Weir [[Critical Thinking]] Essay Test
 > - **工具类型** 开放表现性论文测验（Open-Ended Essay Assessment）。
@@ -59,8 +55,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔测试（限时 40 分钟），受测者阅读一篇由虚构市民写给市长倡议禁止夜间停车的公开信，并逐段撰写评判小论文。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]论证评估与生成技能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -78,15 +72,11 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 受测者阅读包含 8 个逻辑段落的完整书信材料。受测者针对第 1 至 8 段分别撰写一段简要批评（指出该段理由是否充分、存在何种谬误），并在第 9 部分撰写综合结论。
 > - **计分体系** 采用 -1 到 +3 分（第 9 题为 -1 到 +5 分）的量规标准计分，满分为 29 分（最低为 -9 分）。若受测者不仅指出错误而且合理解释了原因得高分；若支持了错误论证则倒扣分。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -96,8 +86,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | Ennis-Weir 经典版 | [[OECD]] 报告测评工具谱系分析，考察开放论文式测验在评估真实论证生成中的价值 | 开放表现性测验 | 强调 Ennis-Weir 是最早突破客观单选题、直接测量高阶批判性论证生成与逻辑谬误辨析的经典工具 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

@@ -47,11 +47,7 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# PRACCIS
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2010 年代初至 2020 年代，主要在美国新泽西州及周边多元生源公立学区展开。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 212)]]
@@ -61,16 +57,12 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 事件经过
 > - **2010–2014 — 理论奠基与课程开发** 基于[[AIR Model of Epistemic Cognition\|AIR]] [[Epistemic Cognition\|认识论认知]]模型设计基于模型的探究（Model-Based Inquiry, MBI）课程单元，开发"[[Model-Evidence-Link Matrix\|模型-证据关联矩阵]]"（MEL）与班级公共标准协商机制。
 > - **2015–2020 — 第一与第二队列课堂实施与实证追踪** 在多样化公立初中展开多轮[[Intervention Research\|干预研究]]，涵盖人类免疫缺陷病毒（HIV）遗传抗性、北极食物网生态系统、哮喘环境诱因等探究主题。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 212–213)]]
 > - **2021–2025 — 论证质量评估与[[Epistemology\|认识论]]实质理论总结** 系统分析项目积累的数百份初中生书面论辩短文与全学年课堂口头[[Transcription in Qualitative Research\|转录]]记录，产出将[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]融入科学评价的理论成果。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 201–204)]]
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] PRACCIS 项目课程设计的[[Epistemology\|认识论]]旨趣
 > PRACCIS 旨在通过基于模型的探究课程，将学生置于协调竞争性[[Scientific Explanation\|科学解释]]与梯度经验证据的真实语境中，培育其超越图尔敏形式主义的外在结构，深入审视证据生成背后的可靠认识过程与方法论约束。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 212–213)]]
@@ -84,8 +76,6 @@ updated: 2026-10-22
 > - **知识影响** 为检验 [[AIR Model of Epistemic Cognition\|AIR]] 认知模型提供了扎实的微观课堂实证，系统证明了即便在[[Academic Achievement\|学业表现]]偏低的学区，初中生同样具备高水平的[[Epistemic Agency\|认识主体性]]，催生了超越纯句法分析的科学论证质量双轴评价方案。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–225)]]
 
 ---
-
-## 争议与评论
 
 > [!tension] 真实探究的"认识混乱" vs 传统标准化课程进度
 > - **标准化课程与应试立场（蓝方）** 强调知识覆盖率与统一进度的课程大纲，难以承受 PRACCIS 探究中学生长周期辩论与试错带来的时间消耗。

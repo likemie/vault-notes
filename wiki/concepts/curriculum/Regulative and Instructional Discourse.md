@@ -42,13 +42,9 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Regulative and Instructional Discourse
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 规约性[[Discourse|话语]]和教学性话语是 [[Basil Bernstein\|伯恩斯坦]] (2000) 识别的课程构建的两个机制或原则。规约性话语是道德话语，创造秩序、关系和身份。教学性话语包含所选知识，通过选择、顺序、节奏和评估来组织。教学性话语嵌入更强的规约性话语之中（Bernstein, 2000, p.32, 引自 [[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]）。
 
 > [!quote|notitle]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **再脉络化原则**。再脉络化原则再生产并再脉络化一个社会在特定时期的主导话语和意识形态（Bernstein, 2000, 引自）。
 
 ---
-
-## 应用示例
 
 > [!example] [[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中的规约性[[Discourse|话语]]
 > [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] 分析发现，[[NZ Curriculum Refresh 2021-2026\|Te Mātaiaho]] 的规约性话语主要通过三种[[Recontextualization\|再脉络化]]原则运作：

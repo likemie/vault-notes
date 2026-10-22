@@ -55,10 +55,6 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Carter Review of Initial Teacher Training
-
-## 背景
-
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2014 年 5 月由英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（[[Michael Gove]]）发起委任，由安德鲁·卡特爵士（Sir Andrew Carter，著名[[Teaching Schools\|教学学校]]校长兼多学院信托首席执行官）主持独立专家组，2015 年 1 月由英国教育部（Department for Education，DfE）正式发布审查报告（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **适用地区 / 对象** 英格兰全境所有[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）提供机构（包括大学高等教育机构 Higher Education Institutions，HEIs、学校直接培训 School Direct 与校本初始教师培训中心 School-Centred Initial Teacher Training，SCITT）。
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **制度位置** 构成了 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]与后续 2019 年《早期职业框架》（Early Career Framework，ECF）和《[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]》（ITT Core Content Framework，CCF）之间的承上启下关键政策枢纽。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 卡特审查旨在系统评估英格兰[[Initial Teacher Training\|初始教师培训]]的质量与有效性，主张在培训中确立以严谨学术研究和实证证据为支撑的核心课程框架，重点强化循证教学法、学科教学知识、行为管理、特殊教育需要（Special Educational Needs and Disabilities，SEND）技能以及以研究为导向的临床实践（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 90, 95]]）。
@@ -85,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2014 年 5 月** 英国教育部委任安德鲁·卡特爵士启动全国 [[Initial Teacher Training\|ITT]] 独立审查（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **2015 年 1 月** 正式发布《卡特初始教师培训独立审查报告》（*Carter Review of Initial Teacher Training*）。
@@ -94,8 +86,6 @@ updated: 2026-10-22
 > - **2019 年** 英国教育部依据卡特审查倡导的证据框架正式发布《[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]》（CCF）与《早期职业框架》（ECF）（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 94]]）。
 
 ---
-
-## 实施情况与政策链条
 
 > [!actor-grid] 实施角色分工
 > - **审查委托方与政策制定者** 英国教育部（DfE），负责审查议程设定、吸收建议并发布官方回应。
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **法定标准制度化** 2019 年教育部分别出台 [[Initial Teacher Training Core Content Framework\|CCF]] 与 ECF，将卡特审查提倡的循证教学模块（[[Cognitive Load Theory\|认知负荷理论]]、[[Formative Assessment\|形成性评价]]、行为管理）固化为全国法定培训大纲。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 实践争议与批判视角
 >

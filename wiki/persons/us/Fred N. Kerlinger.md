@@ -37,9 +37,6 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# Fred N. Kerlinger
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Fred N. Kerlinger（1910–1991），美国教育心理学家和[[Quantitative Research\|量化研究]]方法论学者。他以研究方法的教科书和学术贡献著称，尤其以其对量化研究中理论一词的经典定义影响深远。[[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p.53)]] 认为 Kerlinger (1979) 的定义至今仍然有效。
@@ -49,9 +46,7 @@ updated: 2026-10-22
 - Kerlinger, F. N. (1979). *Foundations of Behavioral Research* (2nd ed.). Holt, Rinehart and Winston. — 行为科学[[Quantitative Research|量化研究]]方法的经典教材，涵盖测量、研究设计和统计分析。
 - Kerlinger, F. N. (1986). *Foundations of Behavioral Research* (3rd ed.). Holt, Rinehart and Winston. — 第三版更新了方法论内容。
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Kerlinger (1979) 对[[Quantitative Research\|量化研究]]中的理论给出了一个被广泛引用的经典定义。理论是一套相互关联的[[Construct\|构念]]（[[Variable\|变量]]）、定义和命题，通过具体说明变量间的关系来呈现对现象的系统观点，其目的在于解释自然现象（p.64; 引自 Creswell & Creswell, 2022, p.53）。这一定义强调理论有两个核心组成部分：目的（解释现象）和程序（通过变量间关系实现解释）。
 
 > [!quote|notitle]

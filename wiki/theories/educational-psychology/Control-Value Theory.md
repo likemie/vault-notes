@@ -61,14 +61,11 @@ created: '2026-09-05'
 updated: 2026-10-22
 ---
 
-# Control-Value Theory
 （控制-价值理论）
 
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 学习者在教育情境中所体验到的成就情绪（Achievement Emotions，包括希望、[[Pride in Learning\|自豪]]、享受、焦虑、羞愧、绝望、无聊等）的前因、内在认知评价机制及其对[[Academic Engagement\|学业投入]]、认知策略与成就结果的深层作用。
 > - **理论问题** 克服以往动机与认知研究长期忽视“情绪（Affect）”维度的弊病，阐释情绪并非不可捉摸的非理性副产品，而是由特定的情境线索与认知评价系统决定的、具有高度结构化功能的动力中介。
 > - **理论类型** 中层认知-动机-情绪整合理论（Integrative Cognitive-Motivational Theory of Emotion）。
@@ -95,8 +92,6 @@ updated: 2026-10-22
 > | **学业情绪[[Questionnaire\|问卷]]（AEQ）** | 方法 | Pekrun 等人开发的多维度标准化心理测评工具，测量课堂、学习和考试三种情境下的成就情绪反应。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜控制感评价与价值感评价的乘积效应直接决定了具体学业情绪的性质与强度
 > - **前提一** 学习者对学习事件的感知并非被动接受，而是持续进行“我是否能掌控它（控制感）”和“它对我是否有意义（价值感）”的双重认知加工。
@@ -146,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 互动认知观（Interactionist Perspective）：情绪不是单纯生理本能或纯社会构造，而是个体认知评价系统与客观环境刺激动态互动的心理表征。
 > - **[[Epistemology\|认识论]]** 主张学业情绪具备可测性、因果解释力与情境敏感性；强调前因（环境与认知）、过程（情绪体验）与后果（策略与成绩）的纵向双向循环反馈（Reciprocal [[Causality]]）。
@@ -177,8 +170,6 @@ updated: 2026-10-22
 > - **2025 — AI 教育时代的理论应用** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 将 CVT 与 [[Self-Determination Theory\|SDT]] 并列为解释生成式 AI 改善大学生[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）的核心理论，指出自适应 AI 工具重塑了学习者的过程控制感与学习效能体验。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

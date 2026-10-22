@@ -63,11 +63,7 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# Synectics
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 综联学（Synectics），中文学术界又常译为提喻法、分合法或戈登技术，是由美国[[Creativity\|创造力]]学者威廉·J·J·戈登（William J. J. Gordon, 1961）与乔治·普林斯（George M. Prince, 1970）共同创立的系统性创造力激发理论与[[Structured Teaching\|结构化教学]]法。其词源来自希腊语 *synectikos*，原意为“将看似无关的异质元素联结在一起”。该方法主张创造力的本质在于非理性情感隐喻与理性逻辑建构的动态整合，确立了“**使陌生变得熟悉（Make the strange familiar）**”与“**使熟悉变得陌生（Make the familiar strange）**”两大[[Metacognition\|元认知]]对偶原则，并通过直接类比（Direct Analogy）、拟人类比（Personal Analogy）、象征类比（Symbolic Analogy / Compressed Conflict）与幻想类比（Fantasy Analogy）四大外显操作支架，强迫认知系统跨越知识范畴边界建立深层隐喻桥梁。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]; Gordon (1961); Prince (1970)
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 综联学（提喻法）与主流[[Creativity\|创造力]]启发式模型对比
 > | 比较维度 | **综联学 / 提喻法（Synectics）** | **[[Creative Problem Solving\|创造性问题解决]]（CPS）** | **[[TRIZ]] 理论** | **[[SCAMPER]] 检核表** |
 > |---|---|---|---|---|
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > | **在干预中的定位** | **经典系统流派（Comprehensive Program）** | 宏观全周期框架（Systemic Model） | 算法化方法学（Methodology） | 战术型启发工具（Technique-based） |
 
 ---
-
-## 核心要素
 
 > [!feature] 提喻法四大经典类比操作算子（Gordon, 1961; Prince, 1970）
 > 1. **直接类比（Direct Analogy）** 将当前面临的问题与完全异质的外部领域（尤其是自然界生物机制、化学现象或平行工业部门）进行因果同构比对。典型如仿生学发明（利用荷叶自洁效应设计自清洁纳米涂层）。
@@ -176,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心理论断言 | 关键机制与调节[[Variable\|变量]] | 代表学者与实证依据 |
 > |---|---|---|---|
@@ -188,8 +178,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 综联学（提喻法）理论演进脉络
 > - **1940–1950 年代　发明小组实践与录音分析** 威廉·戈登与阿瑟·D·利特尔公司发明设计小组成员在马萨诸塞州进行长达数千小时的工业创新录音分析，提炼直觉创造中的隐喻规律。
 > - **1961 年　经典奠基专著《提喻法：[[Creativity\|创造性]]潜能的发展》出版** Gordon (1961) 正式出版《Synectics: The Development of Creative Capacity》，确立[[Making the Familiar Strange\|使熟悉变陌生]]双向原则与四大类比体系。
@@ -198,8 +186,6 @@ updated: 2026-10-22
 > - **2006–2025 年　[[Meta-meta-analysis\|二阶元分析]]量化确证与文献梳理** Ma (2006) 通过二阶[[Meta-analysis\|元分析]]量化确立提喻法的高[[Effect Size\|效应量]]基准（$d = 0.70$）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 进一步梳理其作为经典[[Creativity Training\|创造力训练]]理论基柱的学术脉络。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与应用反思
 >
@@ -214,8 +200,6 @@ updated: 2026-10-22
 > 2. **类比完成后必须执行“落回现实（Force Fit）”收敛** 进行了直接或拟人类比后，教师必须严格引导学生回答：“这一类比机制在我们的实际电路/机械/软件问题中，究竟对应着什么具体的技术结构？”，完成从陌生回落熟悉的闭环。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]与经典综合结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -240,8 +224,6 @@ updated: 2026-10-22
 > | Gordon (1961) | 哈佛大学与麻省理工学院跨学科学生工作坊 | 质性深度案例实验：**【干预变量】** 拟人类比（个人化扮演）；**【结果变量】** 微观物理现象表征与解题僵局突破 | 能够成功完成拟人化感官模拟的学生，在面对高度抽象的物理难题时，突破思维停滞的时间显著缩短 | 证实第一人称移情模拟在瓦解概念固着中的微观认知心理学机制 |
 
 ---
-
-## 教育应用与教学实践
 
 > [!implication]- 科学应用提喻法的四大教学支柱
 > 1. **在跨学科 [[STEM Education\|STEM]] 教学中深度嵌入“仿生学直接类比”** 引导学生在面对现代工程难题（如桥梁抗震、建筑散热）时，严禁直接套公式，必须先从动植物生理结构中寻找 2–3 个直接类比原型，并剖析其因果机制；

@@ -78,8 +78,6 @@ updated: 2026-10-22
 > - **2015 年** ACEL and [[Corwin Press|Corwin]] 出版公司正式宣布合作伙伴关系，系统推广 Hattie 启发的专业发展工作坊和出版物
 > - **2017 年** Eacott 发表"Cult of the Guru"论文，系统论证 Hattie 已成为澳大利亚[[School Leadership\|学校领导力]]领域的大师崇拜对象，其工作"现在在澳大利亚教育中无处不在"([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.419, 422]])
 
-## 核心要素
-
 > [!abstract] 大师崇拜的构成条件
 > [[Argument_Eacott_2017_SLM\|Eacott (2017, p.414-419)]]识别了使大师崇拜成为可能的三个相互关联的条件：
 >
@@ -120,8 +118,6 @@ updated: 2026-10-22
 > - Eacott 2017 年论文发表后下载超过 1000 次，持续收到来自学校一线教育者的邮件分享"大师崇拜对其工作的影响"故事([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.776]])
 > - 论文引发的争议本身成为大师崇拜现象的经验证据——包括向大学科研副校长的正式投诉
 
-## 争议与批评
-
 > [!warning] [[Argument_Hattie_2017_SLM\|Hattie (2017)]]的直接回应
 > Hattie在同一期刊发表题为"Educators are not uncritical believers of a cult figure"的回应，从四个层面为自身辩护：
 >
@@ -147,9 +143,7 @@ updated: 2026-10-22
 > - Hattie 声称 VL 的核心猜想"未被任何批评者证伪"——但 [[Argument_Snook_2009_NZJES|Snook et al.（2009）]]、[[Argument_Rømer_2018_EPT\|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]和多位批评者已深入质疑其[[Epistemology\|认识论]]前提。Hattie 以 Popper 的证伪主义为哲学旗帜，但 Popper 的 fallibilism 旨在区分科学与伪科学——[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p.35)]]指出"Popper 当然不意味着科学由做出完全没有根据的主张供他人反驳构成"
 > - Hattie 将"有五个人通过了认证"和"教师被禁止在培训中分享自身经验"的实践与"教育者不是不加批判的信徒"的主张并列——[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]指出这种并列本身揭示了 VL 论述中的内在矛盾
 
-## 相关案例／政策
-
-> [!example|notitle] 相关案例／政策
+> [!example] 相关案例／政策
 > - ACEL and Corwin 合作（2015）— 澳大利亚最大的[[School Leadership\|学校领导力]]专业协会与 Hattie 的出版商正式合作推广 VL 工作坊
 > - [[Australian Institute for Teaching and School Leadership\|AITSL]] — Hattie 担任澳大利亚教学与学校领导力研究院主席，其工作已嵌入国家专业标准和认证体系
 > - [[Melbourne Declaration]] of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策文件的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力

@@ -61,11 +61,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Socrates
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 苏格拉底（Socrates，约 470–399 BCE）是古希腊古典时期的雅典哲学家，一生不立文字，其思想与言行完全通过学生[[Plato|柏拉图]]的《对话录》以及[[Xenophon|色诺芬]]（Xenophon）等人的记述得以长存流传[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **约 420–399 BCE — 早期反诘破妄与自知无知时期**
 >   - **代表著作** 《申辩篇》（*Apology*）、《优绪弗洛篇》（*Euthyphro*）、《卡尔米德篇》（*Charmides*）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 31–32)]]
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 美德即知识（Virtue is Knowledge），唯有通过坚持不懈的自我理性审视，破除自以为是的虚假经验，人类才能触及真正的善与德性；承认自己的“无知”是一切真智慧探索的唯一起点；哲学家的神圣使命如同精神的助产士，不强行灌输教条，而是通过连续的反诘追问，唤醒谈话者心灵深处固存的理性与逻辑推理潜能。
 
 > [!theory-components] 苏格拉底哲学的四大核心构件
@@ -145,9 +137,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定了西方[[Virtue Epistemology|德性认识论]]与理性反思传统，开启了人类思想史上持续两千五百年的先天论心智与[[Empiricism|经验论]]（[[Empiricism]]）世纪大论战[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–29)]]；塑造了西方对[[Critical Thinking Disposition|批判性思维倾向]]的至高推崇。
 > - **方法路径** 开创了非讲授型的[[Socratic Dialogue|苏格拉底式对话]]教学法；在哈佛大学法学院案例教学法、当代科学探究物理教学（Physics by Inquiry）以及[[Man-Computer Symbiosis|人机协同]]抗[[Automation Bias|自动化偏差]]的“反思机器（Reflection Machines）”中被广泛采用。
 > - **政策路径** 苏格拉底宁死不放弃哲学探究与公开批评的殉道行为，成为西方现代[[Academic Freedom|学术自由]]、思想不受政治裁判以及公民良知抵抗的制度化伦理源泉[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 32–33)]]。
@@ -159,8 +149,6 @@ updated: 2026-10-22
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 探讨苏格拉底对话在克服传统储蓄式灌输教学中的潜能，同时警告缺乏心理安全与民主平等的反诘容易沦为居高临下的审查。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 李晨曦论苏格拉底的多重人格[[Avatar|化身]]
 > 苏格拉底不仅是叮咬富人和权贵的牛虻，也是执行审慎判断与明智评估的[[Sage|圣人]]，是西方[[Critical Thinking|批判性思维]]无可替代的化身。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 33)]]
@@ -176,8 +164,6 @@ updated: 2026-10-22
 > - **跨文化镜像参照** [[Confucius|孔子]] — 两人均不立文字、均由弟子整理语录，但一人向外追问客观真知与概念定义，一人向内修己安人与践行伦理仁义[[Argument_Li_2012_Cambridge|(Li, 2012, p. 164)]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

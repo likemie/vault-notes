@@ -30,11 +30,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Indian Council for Cultural Relations
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 印度文化关系委员会（Indian Council for Cultural Relations, ICCR）是印度政府外交部（Ministry of External Affairs, MEA）直属的法定半自主文化与教育外交专门机构，统筹负责制定和实施印度对外文化交流政策、管理跨国官方留学生全额奖学金计划，并在海外建立和运营印度文化中心网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–27, 30–31)]]
@@ -46,8 +42,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 弘扬印度的多元民主价值观与传统文明精粹，促进国际社会对印度思想、艺术与语言的了解，通过跨国教育培育深谙印度社会的外国知识与政治精英。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事长与理事会** 理事长（President）通常由印度资深资深政治家或资深学者担任，由印度总统亲自任命，负责最高战略审议与宏观政策把关。
@@ -61,8 +55,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务与奖学金矩阵
 > - **南亚与中亚 18 项专项跨境奖学金矩阵** 统筹运营 18 项专门面向邻国及中亚的政府奖学金计划，向区域内生源提供 2,896 个稳定配额（覆盖阿富汗国防部队遗属、孟加拉国边境特别项目、尼赫鲁纪念奖学金与英联邦交换专项）。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 26, p. 38 注34)]]
 > - **传统医药与文化专项奖学金（AYUSH Scholarship Scheme）** 设立阿育吠陀、瑜伽与传统医学专项全额资助，定向吸引东南亚、南亚与中亚青年赴印度国立医药高等院校研修。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 38 注34)]]
@@ -74,8 +66,6 @@ updated: 2026-10-22
 > *We identified 18 Indian government programs offering 2,896 scholarships under the auspices of the ICCR and MEA, advertising not only tuition fees, but also subsidizing housing and living costs to compete across the region.*
 
 ---
-
-## 空间布局与地缘竞合格局
 
 > [!contrast-table] ICCR 在南亚与中亚重点国家的教育资源配置（截至 2018 年）
 > | 国家名称 | 适用专项奖学金计划数 | 区域合格奖学金总配额（名额） | 设立海外文化中心数 | 最早设立年份记录 |
@@ -96,15 +86,11 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **次大陆与欧亚走廊的高教引流** ICCR 长期支撑了数万名阿富汗、尼泊尔和斯里兰卡留学生在印度顶尖工程大学（IIT）与综合性大学完成学业，培养出大量在南亚各国任职的政要与高级技术骨干。
 > - **语言输出局限性与英语媒介依附** 印度本土复杂的语言多样性格局，导致 ICCR 较难推行单一纯粹的民族语言输出，其境外文化中心和大学留学体系高度依赖英语作为通用教学媒介，客观上与美英文化机构形成了一定程度的语言资源重合。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 30)]]
 
 ---
-
-## 相关研究索引
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 剖析 ICCR 在南亚与中亚运营的 18 项专项奖学金与文化中心网络，揭示其作为印度抗衡中国教育外交核心工具的运行机制。

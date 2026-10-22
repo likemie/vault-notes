@@ -56,11 +56,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Pluralistic Federal Funding System
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科纯基础研究的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 AEC、国立卫生研究院 [[National Institutes of Health|NIH]]、[[National Aeronautics and Space Administration|国家航空航天局]] NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
@@ -71,10 +67,6 @@ updated: 2026-10-22
 > - **结构特征** “使命导向（Mission-Oriented）应用基础研究”与“自由探索（Curiosity-Driven）纯基础研究”并存；形式化结构同行评议与项目官员非形式化拍板资助机制互补。
 
 ---
-
-## 体系架构与演变历程
-
-### 1. 机构架构与资助生态图景
 
 > [!structure]- 机构架构与资助生态图景（点击展开）
 > ```mermaid
@@ -138,8 +130,6 @@ updated: 2026-10-22
 >   越战后尼克松裁撤科学顾问引发政学危机；福特总统签署法案正式设立白宫[[Office of Science and Technology Policy|科学技术政策办公室]]（OSTP, 1976）恢复顶层协调；面对经济滞胀，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），国会通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，形成纯基础探索（NSF）与战略使命资助（[[National Institutes of Health|NIH]]/DOD/[[Department of Energy|DOE]]）并行的成熟多元生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–42)]]
 
 ---
-
-## 机制比较：多元资助体系的制度优势与潜在张力
 
 > [!tension] 多元分散资助 vs 单一集权基金会
 > - **多元分散资助体制的制度优势**

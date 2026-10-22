@@ -85,11 +85,7 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Jason Beech
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷与澳大利亚批判比较教育与教育政策社会学者，曾长期任教于阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学院并担任比较教育研究中心主任，现为澳大利亚蒙纳士大学（Monash University）教育学院副教授；师从当代著名比较教育学者[[Robert Cowen|罗伯特·考恩]]，获伦敦大学教育学院（UCL Institute of Education）博士学位。
@@ -107,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2006 — *The theme of educational transfer in comparative education: A view over time*** 系统梳理比较教育中教育转移主题自朱利安以来的思想史演进，指出早期实践主义借鉴与当代解释性学术分析的分野。
 > - **2009 — *Policy spaces, mobile discourses, and the definition of [[Educated Identity|educated identities]]*** (*Comparative Education*) 引入[[Space of Flows|流动空间]]与[[Space of Places|地方空间]][[Paradigm|范式]]，追踪[[Global Educational Discourse|全球教育话语]]在“[[Global Policy Space|全球政策空间]]—民族国家—学校机构”三层级空间的逐层变形，提出[[Discourse|话语]]抽象为“[[Floating Signifier|漂浮能指]]”以获取最大可接受性的转化规律。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 347–364)]]
@@ -119,12 +113,8 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球教育转移绝非封闭民族国家容器之间的机械搬运，而是在脱离地理毗连性的[[Space of Flows|流动空间]]中展开的多位置[[Discourse|话语]]流通过程。跨国多边机构在[[Educational Meliorism|改良主义]]与紧迫[[Pragmatic Paradigm|实用主义]]驱动下，将深奥理论过度简化为去情境化的五大支柱通用处方，并通过成套垄断问题与解方闭合借款国的替代性政策探索空间；而在外围受援国，多重身份重合的[[Gatekeepers|守门人]]群体与微观学校土壤的制度脱节，使外来模型即便枯萎也深刻重构了本土教育生态。
-
-### 核心命题
 
 > [!claim] 命题一：全球教育[[Champ|场域]]五位置流通模型与话语控制权阶梯（Five-Position Circulation Model）
 > 比奇改造[[Basil Bernstein|伯恩斯坦]]的语篇控制权理论与卡斯特的流动空间概念，确立了全球教育场域的五大结构位置：
@@ -184,8 +174,6 @@ updated: 2026-10-22
 > - **编著者／学界同仁** [[Andreas Kazamias]] — 与罗伯特·考恩联合主编《比较教育学国际手册》，将比奇的话语流通模型作为手册核心篇章呈现。
 
 ---
-
-## 争议与批评
 
 > [!tension] 结构[[Discourse|话语]]规训 vs. 地方基层抗争能动性
 > - **结构主义话语批判视角** 比奇的五位置流通模型着重剖析国际机构与[[Gatekeepers|守门人]]网络自上而下的强大闭合效力，揭示发展中国家政策空间如何被成套通用模型牢牢锁死。

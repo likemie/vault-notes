@@ -92,11 +92,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Rich and Thick Description
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 深描（Thick Description，亦译厚描述）由英国哲学家[[Gilbert Ryle\|吉尔伯特·赖尔]]（Gilbert Ryle）首创、后由美国人类学家[[Clifford Geertz\|克利福德·格尔茨]]（[[Clifford Geertz]]）在解释人类学中奠立，并广泛进入教育研究质性方法论的[[Central Phenomenon\|核心范畴]]。它不仅要求对情境化人类行为展开细腻的观察记录，还必须系统囊括行动者赋予行为的**主观意义**、参与者对所处情境的**本土诠释**、以及肉眼不可直接观察的**社会文化历史脉络**。深描的根本旨趣在于使读者能够如身临其境般理解行为发生的文化之网，实现对人类社会生活的主位理解，而非仅停留于外在物理动作的扁平记录。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, pp. 403–404)]]
@@ -123,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 深描（厚描述）vs 薄描述 vs 机械行为编码
 > | 维度 | 深描（Thick Description） | 薄描述（Thin Description） | 机械行为编码（如 [[Flanders Interaction Analysis Categories\|FIAC]]） |
 > |---|---|---|---|
@@ -135,8 +129,6 @@ updated: 2026-10-22
 > | **效度定位** | 支持[[Naturalistic Generalization\|自然主义概括]]与情境迁移性判断 | 提供最基础的表面记录证据 | 提供传统测量学[[Reliability\|信度]]与观察者一致性 |
 
 ---
-
-## 核心要素
 
 > [!feature] 深描的五项核心功能
 > - **传达情境感受与现场临场感** 将读者“传送”到研究现场，赋予讨论一种共享经验的元素。当[[Qualitative Research\|质性研究]]者提供细腻的环境刻画，或就同一主题呈现多重视角时，研究呈现出更强的真实感与感染力（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch. 9, p. 213）。
@@ -228,8 +220,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -239,8 +229,6 @@ updated: 2026-10-22
 > | **命题四：微观破译效能** | 深描能穿透机械行为编码以解码索引性与默契 | 微观常人方法学、课堂[[Ethnography\|民族志]] | Walker and Adelman (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 深描概念的学术演变脉络
 > - **1968 — 哲学萌芽：Ryle 的眨眼与挤眼之辨** 英国哲学家赖尔提出生理性的不自主眨眼（twitch）与承载社会密谋信号的挤眼（wink）在物理表现上完全相同，唯有深描其所指意图与社交默契方能实现二者的实质区分。
@@ -253,8 +241,6 @@ updated: 2026-10-22
 > - **2020s — 学习科学中的微观话语深描与典型案例追踪** [[Jianwei Zhang|张建伟]]等（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）将深描与[[Interactional Ethnography|互动民族志]]、典型案例追踪（Telling Case）深度融合，通过[[Transcription in Qualitative Research|逐字转录]]、时序事件地图与多轮探究线索追踪，细腻刻画了课堂生态中学生[[Epistemic Agency|认识能动性]]与群体知识创造的微观突现过程。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

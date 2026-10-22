@@ -35,11 +35,7 @@ created: 2026-07-25
 updated: 2026-09-23
 ---
 
-# Freedom of the Learner
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学习者的自由（Freedom of the Learner）是[[John Dewey\|杜威]]（John Dewey）与弗雷尔（[[Paulo Freire]]）进步主义与[[Critical Pedagogy\|批判教育学]]中的核心理想。它否定了古典哲学（如[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]）中仅有少数统治者或特定阶层才能成为批判思考者的阶级宿命论，主张每一个学习者都拥有通过[[Active Learning\|主动学习]]、对话与经验重组实现成长与政治解脱的平等自由 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 5, 7)]]。

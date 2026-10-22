@@ -83,11 +83,7 @@ created: '2026-05-23'
 updated: 2026-10-22
 ---
 
-# Implementation Fidelity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 实施保真度（Implementation Fidelity），亦称实施忠实度，是指一项教育干预或政策项目在真实学校与课堂环境中，是否按照预设的设计要求、既定的操作规程、足够的交付强度与达标质量得以执行的程度。在教育评估与[[Causality\|因果推断]]中，实施保真度构成了打开干预成效黑箱的关键中介，用于解释干预产生或未产生效应的现场因果机制，并为科学区分实施妥协与理论无效提供核心证据依据。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 112, 120–121)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
@@ -115,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 实施保真度与相关因果评估概念对比
 > | 维度 | 实施保真度 (Fidelity) | 实践调适性 (Adaptation) | 意向性分析 ([[Intent-to-Treat Analysis\|ITT]]) | [[Complier Average Causal Effect\|依从者平均因果效应]] (CACE) |
 > |---|---|---|---|---|
@@ -126,8 +120,6 @@ updated: 2026-10-22
 > | **适用评估场景** | [[Efficacy Trial\|效力试验]]、方案标准化认证与机制归因 | 复杂组织变革、质性[[Process Tracing\|过程追踪]]与校本改进 | 政策决策层面的整体干预可获得性评估 | 检验干预在理想充分实施下的最大理论潜能 |
 
 ---
-
-## 核心要素
 
 > [!feature] 实施保真度的六维核查架构
 > - **干预核心活性成分界定（Active Ingredients）** 对照[[TIDieR\|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR）准则，清晰解构干预的理论变革模型（[[Theory of Change\|Theory of Change]]）、核心必须执行的刚性规程以及允许校本调整的弹性边界。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
@@ -220,8 +212,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -232,8 +222,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 实施保真度的理论与规程演变
 > - **2008 — 实施科学与[[Meta-analysis\|元分析]]奠基** Durlak and DuPre (2008) 在 *American Journal of Community Psychology* 发表具有里程碑意义的系统元分析，确立了实施质量对预防性与青年干预成效的显著决定作用；同年英国医学研究理事会（Craig et al., 2008）发布复杂干预评估指南，正式确立[[Implementation and Process Evaluation\|过程评估]]在打开因果黑箱中的法定地位。
 > - **2014 — [[TIDieR]] 国际规范建立** Hoffmann 等学者（2014）在《英国医学杂志》（BMJ）联合发布干预描述与复制模板（TIDieR），为社会科学与医学干预如何标准化拆解活性成分与保真度界限提供了行业标尺。
@@ -242,8 +230,6 @@ updated: 2026-10-22
 > - **2021 — 现代循证[[Paradigm\|范式]]反思与生态化拓展** [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] 在《华东师大教育评论》（ECNU Review of Education）系统批评清算中心对实施保真度数据的结构性忽略；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 系统复盘 EEF 八年试验历程，全面阐发大样本功效扩张与现场保真度稀释的内在张力。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -263,8 +249,6 @@ updated: 2026-10-22
 > - **官方[[Educational Evidence Clearinghouses\|证据清算中心]]的制度盲区** 如美国有效教育评价所（[[What Works Clearinghouse]]，WWC）等权威机构在对研究评级时，长期过度偏重[[Random Assignment\|随机分配]]与[[Attrition\|样本流失]]等因果[[Internal Validity\|内部效度]]指标，普遍缺乏对实施保真度、教师准备课时、学生实际使用强度与现场成本的结构化采集，导致高星级项目在一线学校采购时常常遭遇落地失败。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–122)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 实施保真度与[[Implementation and Process Evaluation\|过程评估]]在教育干预评估中的关键实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

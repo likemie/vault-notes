@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Flipped Classrooms
-
 > [!metax] [翻转课堂 · Flipped classrooms](https://www.visiblelearningmetax.com/influences/view/flipped_classrooms)
 > 教学策略 › 教学方法
 >

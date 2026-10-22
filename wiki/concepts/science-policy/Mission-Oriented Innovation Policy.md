@@ -93,11 +93,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Mission-Oriented Innovation Policy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **使命导向创新政策（Mission-Oriented Innovation Policy, MOIP / MIP）** 是指一种旨在调动前沿科学、技术与产业创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候危机、公共卫生、能源转型与数字包容）的系统性公共政策[[Paradigm|范式]]。不同于传统基于新古典福利经济学被动修补[[Market Failure|市场失灵]]或国家[[Systems of Innovation|创新系统理论]]修补网络失灵的模式，使命导向创新政策强调为经济与社会–技术系统提供明确的方向性（[[Directionality of Innovation|directionality]]），通过主动进行[[Market Shaping and Creating|市场塑造与市场共创]]、[[Picking the Willing|挑选意愿者]]（Picking the willing）、构建三层[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从被动的“支持与衡量”向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”范式转变。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791)]]
@@ -124,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Innovation Policy Paradigms|创新政策三范式]]对照
 > | 比较维度 | 传统研发政策（Frame 1: 科学促增长） | 国家[[Systems of Innovation\|创新系统]]政策（Frame 2: 系统协同） | 使命导向创新政策（Frame 3: [[Transformative Change\|变革转型]]） |
 > |---|---|---|---|
@@ -149,8 +143,6 @@ updated: 2026-10-22
 > - **挑选意愿者（Picking the willing，使命导向模式）** 政府以重大社会挑战为靶向明确战略方向，在全经济范围内激励所有愿意投入该使命的跨行业、多元所有制组织协同攻关，倒逼传统产业技术转型。
 
 ---
-
-## 核心要素与治理架构
 
 > [!feature] 使命导向政策的两大核心支柱（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 789–790]]）
 > - **确立公共投资的战略目的（Purpose-Setting for Public Investments）** 将[[Big Science|大科学]]（Big Science）研究能力与重大社会难题应对深度结合，打破新古典[[Market Failure|市场失灵]]框架，通过长期[[Patient Capital|耐性资本]]为国家发展锚定前沿方向。
@@ -249,8 +241,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -273,8 +263,6 @@ updated: 2026-10-22
 > - **2022–2026 — 战略性关键技术主权与半导体使命重构** 美国《[[CHIPS and Science Act|芯片与科学法案]]》规划向科研与创新体系注入约 2000 亿美元公共投资，推动科技政策由新自由主义市场中立转向战略驱动的使命导向创新政策（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；通过 [[National Science Foundation|NSF]] 与能源部为 EDA 工具与新型器件注入强方向性，引导大学开展跨界有组织科研与共置中试攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

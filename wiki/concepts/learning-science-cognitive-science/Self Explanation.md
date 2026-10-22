@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Self Explanation
-
 > [!metax] [自我解释 · Self explanation](https://www.visiblelearningmetax.com/influences/view/self_explanation)
 > 学生学习策略 › 元认知／自我调节学习
 >

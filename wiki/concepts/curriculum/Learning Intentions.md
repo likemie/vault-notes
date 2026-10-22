@@ -74,11 +74,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Learning Intentions
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被异化为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习意图、[[Success Criteria|成功标准]]与活动指令辨析
 > | 维度 | 学习意图（Learning Intentions） | 成功标准（Success Criteria） | 课堂活动指令（Activity Instructions） |
 > |---|---|---|---|
@@ -108,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **去活动化认知聚焦（De-contextualised Cognitive Focus）** 将核心学科概念从特定活动载体中剥离出来，使学生认识到活动只是探究知识的媒介，深层理解才是目的（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 17]]）。
 > - **师生显性共享（Explicit Shared Ownership）** 改变教师单向掌控教学意图的黑箱状态，在任务初始阶段即用学生可理解的语言公布并研讨意图，建立透明的师生认知契约。
 > - **进阶锚定性（Progression Anchoring）** 学习意图直接锚定学科的[[Learning Progression|学业进阶]]阶梯，明确指示学生从基础知识再认向关系推理与拓展迁移的进阶发展路径（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 14–17]]）。
@@ -188,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕学习意图的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -208,8 +198,6 @@ updated: 2026-10-22
 > - **2021 — [[Technical Rationality|技术理性]]控制与学生[[Intentionality|意向性]]批判** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）深入教育哲学层面，指出哈蒂体系将学习意图作为不容置疑的封闭终点，以既定目标神圣化教学手段，用心理学操作[[Variable|变量]]（[[Self-Efficacy|自我效能感]]、自我动机等）置换了学生探问生活世界意义的主体意向性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >
@@ -233,8 +221,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 学习意图政策落地与教师实践实证案例
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -244,8 +230,6 @@ updated: 2026-10-22
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] / Lilley (2022) | 澳大利亚维多利亚州全面推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 的公立学校教师群 | 政策[[Discourse Analysis\|话语分析]]与教师深度[[Qualitative Interview\|质性访谈]] | 白板板书合规要求、行政巡检（Learning Walks）、教师自主感与倦怠指数 | 教师被硬性要求在上课铃响前在白板上书写学习意图，巡视未达标直接扣分；受访教师普遍反映专业裁量权被剥夺，同行互信下降，滋生严重的表面[[Performativity\|表演性]]合规 | 揭示了当认知工具被官僚体系转化为强制打卡清单时对专业生态造成的破坏性后果 |
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[John Hattie|哈蒂]]论学习意图与任务形式主义的脱节
 > 观察表明，绝大多数学生在进入课堂任务时并不清楚活动背后的实质认知目的，普遍将写得长、字迹整洁、拼写正确等外在形式误当作优秀的标志。唯有清晰阐明学习意图与[[Success Criteria|成功标准]]，才能使学生理解知识深层的因果机制与结构关系，克服做完活动却未发生学习的盲区。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 17)]]
@@ -266,8 +250,6 @@ updated: 2026-10-22
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017, pp. 256–257)]] — 记录哈蒂关于课堂教学中学习意图常被误用为低阶原子化任务的反思，指出孤立意图对求知欲的挫伤，并提出转向成功标准的纠偏主张。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念网络图
 >

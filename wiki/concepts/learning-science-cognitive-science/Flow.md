@@ -33,11 +33,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Flow
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 心流（flow）是 Csikszentmihalyi 提出的心理概念，指人在从事某项活动时完全投入、沉浸其中的最佳体验状态。它不是某种特定活动独有的，而是任何人在学习、工作、表演或游戏中都可能达到的状态([[Argument_Li_2012_Cambridge\|Li, 2012, p.59–60]])。
 
 > [!quote|notitle]

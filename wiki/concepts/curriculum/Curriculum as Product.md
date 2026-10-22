@@ -42,11 +42,7 @@ created: 2026-08-03
 updated: 2026-10-22
 ---
 
-# Curriculum as Product（作为产物的课程）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **作为产物的课程（Curriculum as Product）** 是课程理论中的[[Technical Rationality\|技术理性]][[Paradigm\|范式]] (Grundy, 1987; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 64–65]])。该模式将课程视为一种以达成预设行为目标为目的的技术控制过程：教育专家自上而下制定学习结果指标，教师扮演技术员角色按照既定步骤传递知识存货，学生通过[[Rote Learning\|机械记忆]]与复述再现这些目标。
@@ -76,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **预设目标控制（Behavioral Objectives）** 以可测量的行为改变作为课程设计的绝对起点与终点。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
 > - **教师技术员化（Teacher as Technician）** 教师被剥夺课程重构权力，沦为自上而下指令的执行者。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 65)]]
 > - **结果标准化（Standardized Measurement）** 依靠统一测试检验知识存货的再现准确度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 65)]]
@@ -108,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -123,8 +115,6 @@ updated: 2026-10-22
 > - **2009 — [[Theory of Knowledge\|TOK]] 对比评估** 达维什在学位论文第 5 章中将产物范式作为评价传统教育与 TOK 课程的基础标尺。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 产物[[Paradigm\|范式]]并非完全无用；在需要高度标准化安全规范或基础技能训练（如飞行员训练）中依然具有技术控制价值。

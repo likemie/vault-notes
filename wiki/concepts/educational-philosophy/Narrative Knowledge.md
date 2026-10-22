@@ -37,8 +37,6 @@ created: 2026-05-10
 updated: 2026-10-22
 ---
 
-# Narrative Knowledge
-
 > [!info] 定义
 > Lyotard（1979/1984）在其《后现代状况》中区分了两种知识类型：叙事知识（narrative knowledge）与科学知识（scientific knowledge）。社会学和人文学科属于叙事知识范畴，而硬科学领域生产科学知识。[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 在[[Geopolitics of Knowledge\|GPK]]语境中运用这一区分，论证叙事知识正处于急剧衰退之中，这种衰退并非源于后现代对[[Grand Theory\|元叙事]]的不信任，而是因为全球化中具有商业价值的科学知识得到了国家和产业的有力赞助和推动([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.74–75, 83–84]])。
 

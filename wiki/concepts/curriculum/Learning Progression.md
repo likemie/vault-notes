@@ -48,11 +48,7 @@ created: '2026-09-16'
 updated: 2026-10-22
 ---
 
-# Learning Progression
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **学业进阶（Learning Progression / Achievement Progression）** 指学生在特定学科领域、核心观念或实践能力上，随着教学干预与认知发展，从朴素直觉与浅层理解逐步走向复杂、严密与[[Reflexivity|反思性]]专家水平的阶梯式发展序列。它将离散孤立的知识点重构为具备内在逻辑递进关系的连续统，为教师研判学情、设定挑战性目标与选择评价工具提供共同语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 进阶观与传统课程评价观念对比
 > | 维度 | [[Learning Progression\|学业进阶]] | 传统年级教学大纲 | 总结性常模评价 |
 > |---|---|---|---|
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > | [[Feedback\|教学反馈]]功能 | 明确当前所在水平与通往下一阶段的具体路径 | 检查教学大纲与教材知识覆盖进度 | 提供用于选拔分类的静态总结性总分 |
 
 ---
-
-## 核心要素
 
 > [!feature] 学业进阶的架构要素
 > - **终极锚点（Upper Anchor）** 进阶序列的高阶终点，通常对应学科专家水平的核心概念理解或学科[[21st Century Skills and Competencies Discourse|核心素养]]表现。
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 学业进阶相关实证测量与样本数据
 > | 研究来源 | 样本特征 | 测量工具 | 进阶指标 / [[Variable\|变量]] | 主要统计发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
@@ -164,8 +152,6 @@ updated: 2026-10-22
 > | Clements (2011); Daro et al. (2011)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 14, 22)]] | 全美幼儿及小学低段（K–2）学生 | 认知发展心理学实验与学习轨迹测绘工具 | 数感发展、基数概念、早期算术加减法策略 | 证实儿童早期数学认知遵循高度稳健的自然发展轨迹（Learning Trajectories），构成 [[Common Core State Standards\|CCSS]] K–2 进阶设计的坚实实证基础 | 早期数学进阶具有高[[Internal Validity\|内部效度]]，但高年级数学缺乏对应因果实证轨迹 |
 
 ---
-
-## 应用示例
 
 > [!case] 全美 [[Common Core State Standards|CCSS]] 数学标准研制中的 K–2 实证轨迹与 [[American Federation of Teachers|AFT]] 物理剪裁审读
 > 在研制全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准时，设计团队在 K–2 年级直接采纳了儿童认知发展心理学的成熟学习轨迹，确保了早期数感与运算法则进阶的实证科学性；而在高中阶段因缺乏实证数据，编写组依靠学科逻辑演绎生成假说性进阶，并交由全美教师联盟（AFT）教师团队将标准打印剪贴在墙面上进行整整两天的物理可行性审查，对衔接断层与脱节表述进行纠偏。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]

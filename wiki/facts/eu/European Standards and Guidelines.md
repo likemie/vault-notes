@@ -38,11 +38,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# European Standards and Guidelines
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2005 年由欧洲高等教育区（[[Bologna Process|EHEA]]）卑尔根部长级会议初次通过，2015 年由埃里温部长级会议全面修订。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 7)]]
@@ -51,8 +47,6 @@ updated: 2026-10-22
 > - **制度位置** 整个欧洲高等教育区（EHEA）各国立法与大学质量保障体系的最高元标准（Meta-Standard）。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > ESG 标准 1.3（以学生为中心的教与学及学业考核）明确规定：高校必须设计与预期学习成果相匹配的多元考核方法，提前公布评分准则，并在整个学习过程中为学生提供及时的形成性反馈。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 7–9)]]

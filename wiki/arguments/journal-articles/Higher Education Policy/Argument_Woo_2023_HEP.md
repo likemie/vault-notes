@@ -98,7 +98,6 @@ journal: "Higher Education Policy"
 sources:
   - "[[sources/Woo_2023_HEP/Woo_2023_HEP|Woo_2023_HEP]]"
 ---
-# Argument_Woo_2023_HEP
 
 ---
 
@@ -114,8 +113,6 @@ sources:
 > - **贡献** 将[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）的[[Critical Discourse Analysis|批判性话语分析]]（Critical [[Discourse Analysis]], CDA）三维模型与[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]相结合，开创了剖析中国高等教育跨国扩张政策[[Discourse|话语]]的批判性[[Analytic Framework|分析框架]]。
 
 ---
-
-## 理论框架
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -154,8 +151,6 @@ sources:
 
 ---
 
-## 研究方法
-
 > [!method-panel] 研究设计与分析策略
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
@@ -179,8 +174,6 @@ sources:
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -192,9 +185,7 @@ sources:
 
 ---
 
-### 论证步骤一　官方文件将[[Education Going Global|教育出海]]塑造为互利平等的共赢事业
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　官方文件将[[Education Going Global|教育出海]]塑造为互利平等的共赢事业
 > 政策文本通过指认沿线国家的人才匮乏困境，推出全方位的制度协同方案，并赋予[[Community of Shared Future for Mankind|命运共同体]]的高尚道义，将国家主导的[[Education Going Global|教育出海]]包装为互利共赢的区域发展事业。（pp. 683–684）
 
 #### 1. 借人才匮乏与共同繁荣确立跨国教育正当性
@@ -245,9 +236,7 @@ sources:
 
 ---
 
-### 论证步骤二　跨国教育实际深层依附于国家总体战略
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　跨国教育实际深层依附于国家总体战略
 > 跨部门政策文本的互动网络表明，教育出海由中央顶层意志强力推动，[[Research Universities|研究型大学]]攻坚尖端科技、职业院校配套工业产能，构成了全面服务于国家地缘经济战略的执行体系。（pp. 684–687）
 
 #### 1. 政策话语全方位服务于中央政治意志
@@ -283,9 +272,7 @@ sources:
 
 ---
 
-### 论证步骤三　教育出海寄托着重塑国际秩序与大国复兴的雄心
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　教育出海寄托着重塑国际秩序与大国复兴的雄心
 > 在深层历史与政治结构中，教育出海承接了走出近代屈辱、实现民族伟大复兴的历史叙事，投射出替代性的全球治理[[Social Imaginary|社会想象]]，并作为推广非西方发展经验的制度化载体，力图在全球南方构建抗衡西方霸权的替代性国际秩序。（pp. 687–692）
 
 #### 1. 依托非西方发展经验向全球南方输出中国治理方案
@@ -343,8 +330,6 @@ sources:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **文本三维框架建构** 核心政策通过诊断技能短板、供给成套制度与激励[[Community of Shared Future for Mankind|命运共同体]]的三维框架化运作，赋予国家主导的高教跨国布局以良性[[Developmentalism|发展主义]]合法性。（pp. 683–684）
 > 2. **[[Discourse|话语实践]]的工具从属性** 互文性解构表明，[[Belt and Road Initiative|一带一路]]教育行动由中央最高政治意志统辖，[[Research Universities|研究型大学]]攻坚高精尖科技、应用型高职支持海外产能建设，形成服务国家[[Hard Power|硬实力]]的工具化分工。（pp. 685–687）
@@ -358,8 +343,6 @@ sources:
 > - **130+** （所） [[University Alliance of the Silk Road|丝绸之路大学联盟]]（UASR）吸纳的五大洲海内外高校成员总数。（p. 680）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Cultural Political Economy|文化政治经济学]]视角下作为意义建构与[[Discourse|话语]]斗争[[Champ|场域]]的政策文本（Sum & Jessop, 2013）
 > 政策文本应当被理解为意义生成与建构的场所。换言之，它们应当被视为将语言视为符号学的话语。社会行动者通过符号化实践来简化复杂性，以此作为在现实世界中“继续生活”的先决条件。[[Critical Discourse Analysis|批判性政策话语分析]]将政策文本作为话语来研究，其目标是实现解释性与规范性批判。（p. 681）
@@ -382,8 +365,6 @@ sources:
 > *Despite the public diplomacy narratives of 'win-win' and 'shared community,' the BRI is a de facto economic hard power instrument. Heavy reliance on economic power would make the application of higher education as soft power tool less potent and steadfast if Chinese economic prowess were to diminish... Students' utilitarian interests would fade if these pull factors changed for the worse.*
 
 ---
-
-## 自述局限
 
 > [!warning] 语料范围与微观落地层面的研究局限
 > 分析材料局限于中央部委层面的顶层政策，未涵盖地方省份配套方案；基于政策[[Discourse|话语]]的文本与社会学解构偏重宏观机制，对于沿线国家基层学校与师生的实际受纳与落地成效，仍有赖于微观田野调研与长期实证追踪。（pp. 681, 683, 694）

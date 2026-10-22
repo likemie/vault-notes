@@ -50,11 +50,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Runco Ideational Behavior Scale
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 伦科观念行为量表（RIBS）
 > - **工具类型** 日常观念生成行为自陈量表（Self-report Scale of Ideational Behavior）。
@@ -69,8 +65,6 @@ updated: 2026-10-16
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] 日常观念生成与[[Creativity\|创造潜能]]倾向
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -80,14 +74,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 23 个描述日常思维活动与观念产生习惯的陈述句。
 > - **作答格式** 5 点 Likert 量表（1 = 完全不符合，2 = 比较不符合，3 = 不确定，4 = 比较符合，5 = 完全符合）。
 > - **计分规则** 全部题项正向计分，总分越高代表个体的日常观念生成频次越高、[[Creativity\|创造潜能]]倾向越强。
-
-### 核心代表性题项示例
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -102,8 +92,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -115,8 +103,6 @@ updated: 2026-10-16
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | — | 元分析中 Guan et al. (2024) 以 RIBS 作为主观[[Critical Thinking\|批判性思维]]测量，报告其与创造自我效能的相关 | — | 采用主观批判性思维测量的相关显著更高（$Q_M(1) = 5.234, p = .022$） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

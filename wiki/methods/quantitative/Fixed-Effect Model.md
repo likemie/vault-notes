@@ -65,11 +65,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Fixed-Effect Model
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 固定效应模型（Fixed-Effect Model）是[[Meta-analysis|元分析]]与[[Research Synthesis|证据综合]]中最基础的统计加权合成模型。该模型建立在强同质性假定之上：假定所有纳入分析的独立初级研究都在估计同一个唯一且恒定不变的总体真实[[Effect Size|效应量]] $\theta$，观测到的跨研究效应量变异完全源于受试者随机[[Sampling Error|抽样误差]]（Sampling Error）。在此假设下，模型通过[[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting, IVW）以各研究抽样方差的倒数赋权（$w_i = 1/v_i$），实现合成估计量方差的最小化。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 预设外部世界存在唯一的“客观真实效应”（One True Effect），经验研究的变异被视为随机干扰噪声，追求对普遍常数的高精度逼近。
 > - **研究者角色** 要求研究者严格核实纳入研究的[[Construct|理论构念]]一致性与实验设计可比性；在二级[[Research Synthesis|证据综合]]中必须逐一核查底层主要研究的完全独立性。
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > | **适用现实情境** | 实验室严格物理化复现、高纯度同质[[Clinical Trial\|临床试验]] | 复杂课堂教学、教育政策改革、社会科学跨情境干预 |
 
 ---
-
-## 核心模型结构与数学公式
 
 > [!formula-set]- 固定效应模型推导与两级合成流程
 > ```mermaid
@@ -165,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-## 统计建模与质控规范
-
 > [!proc] 固定效应模型五步操作规程（Wecker et al., 2016 规范准则）
 > 1. **[[Effect Size|效应量]]与标准差精确核验** 从各主要研究中提取均值差并除以合并标准差（$\text{SD}$），统一转换为 Hedges' $g$；严格辨别标准差与[[Standard Error|标准误]]（$\text{SE}$），严防误把标准误当除数导致效应量虚增十倍（如 Eisenstaedt 案例）。
 > 2. **前置同质性检验与模型抉择** 计算 Cochran's $Q$ 统计量与 $I^2$ 指数；只有当 $p \ge .10$ 且 $I^2 \approx 0\%$、有充分理论依据确信研究高度同质时方可采用固定效应模型；若[[Heterogeneity|异质性]]显著，必须改用[[Random-Effects Model|随机效应模型]]。
@@ -176,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法学批判与局限性
-
 > [!warning] 固定效应模型在教育研究中的系统性失配
 > 1. **教育现实[[Heterogeneity|异质性]]导致核心假设破产** 教学研究涉及不同年级、学科、教师能力与课堂文化，真实[[Effect Size|效应量]]天然处于动态离散状态。强行套用固定效应模型假定“单一恒定真值”，必然严重低估实际[[Standard Error|标准误]]，产生虚假的极窄[[Confidence Interval|置信区间]]与高假阳性率（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]；[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
 > 2. **两级综合中文献重叠导致数理崩溃** 在大型[[Meta-meta-analysis|二级元分析]]中，多个一级[[Meta-analysis|元分析]]高度共享经典底层文献（例如 Olson & Wisher 与 Sitzmann 存在 93.3% 重叠），抽样独立性充要条件荡然无存，导致固定效应等价性定理彻底失效。
@@ -185,8 +173,6 @@ updated: 2026-10-22
 > 4. **实践中的简单平均退化** 许多粗放综合项目（如[[John Hattie|哈蒂]]早期工作及部分传统综述）宣称采用固定效应模型，但在实际操作中却违背[[Inverse-Variance Weighting|逆方差加权]]规则，直接对不同效应量甚至标准误取简单算术平均，造成双重方法学失范。
 
 ---
-
-## 典型案例研究
 
 > [!case] 关键案例重构：[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 对固定效应模型违背与排名雪崩的审计
 > - **宣称模型与实际操作背离** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中声明采用固定效应模型（Hattie, 2009, p. 12），假定所有研究估计同一个恒定效应。
@@ -198,8 +184,6 @@ updated: 2026-10-22
 > - **统计后果** 该操作完全未按各主要研究的[[Sample Size Determination|样本量]]与抽样方差赋予权重，严重破坏了最佳线性无偏估计（BLUE）性质，低估了[[Standard Error|标准误]]并扭曲了真实精度。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 28)]]
 
 ---
-
-## 软件实现示例（R · metafor）
 
 > [!software-impl] R 语言固定效应模型拟合代码
 > ```R
@@ -237,8 +221,6 @@ updated: 2026-10-22
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 系统阐述固定效应与随机效应在[[Research Synthesis\|证据综合]]中的哲学假设与推论边界差异。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从固定效应数学公理严格推导两级[[Meta-analysis|元分析]]代数等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），实证审计了[[John Hattie|哈蒂]]因违反抽样独立性假定（93.3% 重叠）与滥用简单平均导致网络学习排名自第 26 位雪崩至第 98 位的严重失范。

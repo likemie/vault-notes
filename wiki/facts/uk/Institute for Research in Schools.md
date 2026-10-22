@@ -37,11 +37,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Institute for Research in Schools
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **成立时间 / 主体** 2016 年创立，是英国致力于推动“真实科研进校园”（Authentic Research in Schools）的全国性非营利慈善机构。
@@ -50,8 +46,6 @@ updated: 2026-10-22
 > - **核心使命** 打破大学与中学的象牙塔藩篱，赋能普通中学生直接参与世界顶尖前沿课题的真实科学发现。
 
 ---
-
-## 核心运作模式与旗舰科研课题
 
 > [!claim] 核心运作机制
 > IRIS 与[[CERN|欧洲核子研究组织]]（CERN）、卢瑟福·[[Michael W. Apple|阿普尔]]顿实验室、威康桑格研究所及顶尖大学合作，将尖端科研数据脱敏、解密并开发为适合中学生开展真实分析的项目包。
@@ -62,8 +56,6 @@ updated: 2026-10-22
 > - **Earth Watch & Climate Models（地球环境监测）** 结合卫星遥感数据与校园气象站，开展气候变化对地方生态系统影响的纵向建模。
 
 ---
-
-## 育人成效与评价
 
 > [!finding-cards] 育人成效
 > - **从“学习已知”到“探索未知”的[[Paradigm\|范式]]转变** 学生不再是教材知识的被动接受者，而是成为真正参与科学前沿的贡献者，极大地重构了学生的[[Epistemological Beliefs\|认识论信念]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]

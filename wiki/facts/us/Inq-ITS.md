@@ -57,11 +57,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Inq-ITS
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 探究[[Intelligent Tutoring Systems\|智能导师系统]]（Inquiry Intelligent Tutoring System, Inq-ITS）是由美国罗格斯大学（Rutgers University）贾妮斯·戈伯特（Janice D. Gobert）教授领衔研发、获[[National Science Foundation\|美国国家科学基金会]]（NSF）持续数千万美元重大资助的人工智能科学[[Inquiry-Based Learning\|探究学习]]与评价环境。系统致力于将前沿教育数据挖掘（[[Learning Analytics\|Educational Data Mining]], EDM）与自适应辅导算法深度融入中小学科学虚拟微世界，实现对学生探究技能与科学推理的实时自动诊断、[[Formative Assessment\|形成性评价]]与按需微观支架推送。（Gobert et al., 2013, 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解传统大[[Class Size\|班额]]科学探究中教师无法分身对每名学生的探究行为进行实时精准诊断与[[Individualised Instruction|个别化指导]]的痛点，依托 AI 算法实现规模化的高精度因材施教。（Luan et al., 2020）
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > [[Inquiry-Based Learning\|探究学习]]的有效性取决于对学生认知困难的秒级捕获与即时精准干预。通过教育数据挖掘技术实时解析学生在虚拟实验中的底层点击与操纵日志，能够精准识别学生是否具备[[Control of Variables Strategy\|控制变量策略]]（CVS）、是否能够正确解释数据，并由数字化[[Avatar\|化身]]智能代理即时推送自适应支架，显著促进高阶探究技能的内化与跨情境远迁移。（Gobert et al., 2018；Li et al., 2019）
@@ -95,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2010–2013 — 算法奠基与探究技能日志挖掘验证** 研发基于贝叶斯网络与机器学习的自动化技能探测器，确立算法对中学生[[Control of Variables Strategy\|控制变量策略]]识别的准确率媲美人类专家，发表标杆论文（Gobert et al., 2013）。
 > - **2014–2018 — 智能代理 Rex 上线与实时自适应支架突破** 正式引入拟人化数字导师 Rex，实现从纯后台被动评价转向前台主动按需[[Scaffolding\|脚手架]]推送，实证检验在线数据解释与实验设计干预实效（Gobert et al., 2018）。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 > - **2022–至今 — 全美规模化推广与自适应公平生态** 成立 Apprendis 进行全美大规模部署，深度整合多模态生成式技术与教师工作流，成为美国科学探究[[Intelligent Tutoring Systems\|智能导师系统]]的领跑者（Gobert et al., 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层科研主导方** 罗格斯大学与伍斯特理工学院实验室，主导底层认知诊断算法与学习科学理论建构。
@@ -115,16 +105,12 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 核心实证结论
 > - **探究技能的自动化习得与长效跨情境远迁移** Li, Gobert, & Dickler (2019) 针对初中生的严格对照追踪证实：在 Inq-[[Intelligent Tutoring Systems\|ITS]] 虚拟实验室中接受 Rex 实时算法支架指导的学生，不仅在当前科学任务中显著提升了实验设计与数据解释能力，而且在数周至数月后的跨学科陌生科学任务中展现出稳定的技能远迁移（Transfer），打破了传统探究技能难以泛化的瓶颈。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 7]]）
 > - **在线数据解释能力的秒级诊断与即时提升** Gobert et al. (2018) 实验表明，AI 算法能够毫秒级捕捉学生在数据图表中形成的局部片面推断，Rex 介入后，学生的正确结论提炼率提高超过 40%。（p. 9）
 > - **对弱势学生的大幅补偿效应** 相比传统课堂教师无暇顾及的角落，AI 导师 Rex 为学业基础薄弱的学生提供了不设次数限制的耐心微观提示，有效缩小了不同认知起点学生之间的技能差距。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究实证数据
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -136,8 +122,6 @@ updated: 2026-10-22
 > | Gobert, Sao Pedro, Raziuddin, & Baker (2013)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 9–10]]） | 基于底层日志文件的算法技能评估 vs 人类专家人工评分 | 学生[[Scientific Literacy\|科学探究素养]][[Construct Validity\|构念效度]]与预测力 | 数百名中学生实验操作日志数据 | 算法自动评分与资深科学教师专家评分的相关系数超过 0.85 | $r > 0.85$ | $p < .001$ | 算法效度标杆研究；确立了使用非侵入式日志分析替代传统纸笔测试的可行性 |
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

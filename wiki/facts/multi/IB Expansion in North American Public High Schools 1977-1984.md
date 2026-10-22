@@ -37,19 +37,13 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# IB Expansion in North American Public High Schools 1977-1984
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间／地点** 1977—1984 年，美国与加拿大。
 > - **关键主体** 美国和加拿大公立高中、地方学区、[[International Baccalaureate North America\|国际文凭北美公司]]、[[International Baccalaureate\|国际文凭]]办公室、先行[[International Schools\|国际学校]]和教师网络。
 > - **制度背景** 北美课程与成绩标准主要由学校和学区掌握，大学理事会及[[Advanced Placement Program\|大学先修课程项目]]已经建立外部课程、考试与大学分班接口。
 > - **触发条件** 精英预科学校与社区学院未形成持续采用，教育质量焦虑又使公立高中寻找能够挑战优秀学生的完整课程。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131–140)]]
-
-## 扩张过程
 
 > [!ref-table]- 1977—1984 年地区授权机构数量
 > | 年份 | 亚洲 | 非洲 | 欧洲 | 北美 | 其中加拿大 |
@@ -69,8 +63,6 @@ updated: 2026-10-22
 > - **1980 年后　加拿大公立系统扩张** 采用主要集中在艾伯塔、不列颠哥伦比亚和新斯科舍。
 > - **作者写作时　形成稳定主体** 美国 5 所、加拿大 1 所[[International Schools\|国际学校]]之外，美加已有约 130 所公立高中采用 IB。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, p. 134)]]
 
-## 扩张机制
-
 > [!logic-map]- 从制度可能性到持续增长
 > ```mermaid
 > flowchart LR
@@ -88,9 +80,7 @@ updated: 2026-10-22
 >
 > 地方自主提供采用权限，外部考试先例降低资格与大学关系的不确定性，质量焦虑提供采用动机，区域组织再把兴趣转化为申请和教师能力。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 134–152)]]
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **课程功能改变** IB 从主要服务跨国流动学生，扩展为本地公立学校的学术拔尖、学校差异化、族群融合与地区升学工具。
 > - **区域财务改变** 1980—1985 年北美学校约增长 300%，同期其他地区约增长 33%，新增订阅和考试收入支持 [[International Baccalaureate|IBO]] 的全球运营。
 > - **教师网络扩大** 1978 年培训覆盖 26 校 97 名教师，1984 年已覆盖 106 所授权学校的 579 名教师，另有候选学校参与。

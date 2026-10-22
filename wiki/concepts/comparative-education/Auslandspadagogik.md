@@ -58,8 +58,6 @@ created: 2026-09-06
 updated: 2026-10-16
 ---
 
-# Auslandspadagogik
-
 ---
 
 ## 定义

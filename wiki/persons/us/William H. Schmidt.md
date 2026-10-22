@@ -55,11 +55,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# William H. Schmidt
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育测量学家、比较课程论学者与统计学家，密歇根州立大学（MSU）杰出大学教授、课程研究中心主任，长期出任[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）全美国家研究协调员。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990年代–2000年代初 — 课程解构与跨国实证诊断期** 针对美国教育界盲目自大的态度，通过对 50 余国课程文本与教科书的矩阵化编码分析，确立了学习机会（Opportunity to Learn, OTL）与国家课程结构对学业产出的因果决定机制。
 >   - **代表著作** 《分散的视野：对美国中小学数学与科学教育的调查》（*A Splintered Vision: An Investigation of U.S. Science and Mathematics Education*, 1997）。
@@ -94,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 施密特的核心思想建立在严密的比较实证之上：他认为学生[[Academic Achievement|学业成就]]的根本差异并不单纯源于种族或家庭[[Socioeconomic Status|社会经济地位]]，而是直接受制于学校课程赋予学生的“学习机会”（Opportunity to Learn）。美国公立教育的最大体制顽疾在于各州割裂导致的课程碎片化与浅表化，大纲试图面面俱到却浅尝辄止；唯有建立在学科内在逻辑和高阶认知梯度基础上的“聚焦、严谨与连贯”的国家统一课程标准，才能为弱势群体提供平等的认知发展跳板。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
 
 > [!citation-card] 高绩效国家课程的三大黄金特征
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > - **学术辩护路径** 在 CCSS 遭到[[Brookings Institution|布鲁金斯学会]]等智库从实证层面的猛烈质疑时，施密特挺身而出构建复杂的跨期控制模型，成为捍卫国家标准学术声誉的最强学术护盾。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术论战与统计交锋
 >

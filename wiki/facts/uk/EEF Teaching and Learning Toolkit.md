@@ -110,11 +110,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# EEF Teaching and Learning Toolkit
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **研发渊源与资金背景** 初始工作基于 2008 至 2011 年间英国经济与社会研究理事会（ESRC）研究者发展计划编制的教育干预发现[[Meta-analysis\|元分析]]数据库；2011 年英国政府设立旨在改善经济弱势学生学业差距的“[[Pupil Premium\|学生津贴]]”（Pupil Premium）专项公共资金，[[Sutton Trust\|萨顿信托]]（Sutton Trust）与杜伦大学学者合作编制了一系列[[Abstract\|研究摘要]]指导[[School Autonomy|学校自主]]规划津贴用途；同年伴随英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）依托教育部 1.25 亿英镑留本基金创设，该成果被正式升格为常态化运营、持续动态更新的整合型工具包平台。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 46)]]; [[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
@@ -123,8 +119,6 @@ updated: 2026-10-22
 > - **制度位置与欧洲证据生态定位** 英国教育部官方报告将 EEF Toolkit 列为官方认可的核心证据来源之一；在欧洲证据基础设施（[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 32–33]]）中，Toolkit 被确立为连接因果试验资助、通用策略综述与区域[[Research Schools Network\|研究学校网络]]（RSN）推广的枢纽性中介载体。
 
 ---
-
-## 政策设计与方案架构
 
 > [!claim] 政策核心
 > 教学与学习工具包（Teaching and Learning Toolkit）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）研发与运维的标志性在线[[Evidence-Based Policy-Making|循证决策]]工具；该工具以[[Umbrella Review\|伞状综述]]和[[Meta-meta-analysis\|二阶元分析]]系统汇总全球实证研究，面向[[School Leadership\|学校领导]]者与教师，从额外学习月数、实施成本与证据挂锁等级三个维度系统比较 30 余类通用教学策略，总结了超过 5,500 项教育研究，作为学校专业审议与资源规划的直观标尺。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 19)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
@@ -153,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 政策发展历程
 > - **2008–2011 — 研发萌芽与[[Pupil Premium\|学生津贴]]契机** 杜伦大学学者在 ESRC 资助下建立[[Meta-analysis\|元分析]]数据库；英国政府出台“学生津贴”（Pupil Premium）政策，[[Sutton Trust\|萨顿信托]]发布首版摘要指南。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 46)]]
 > - **2011 — [[Education Endowment Foundation\|EEF]] 成立与工具包制度化发布** 伴随 EEF 设立，工具包被确立为旗舰在线产品，首创学习月数与成本效益的可视化联盟表，覆盖中小学核心教学策略。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
@@ -166,8 +158,6 @@ updated: 2026-10-22
 > - **2018–2022 — 国际证据门户调查与实施科学深化** 高夫团队（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）将 Toolkit 确立为国际 15 个证据门户中“通用策略类”的系统综述典范；EEF 配套出台实施指南并开展助教配置等区域规模化战役。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150, 154–155)]]
 
 ---
-
-## 实施情况与使用形态
 
 > [!actor-grid] 实施角色分工
 > - **研发与运维机构** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）核心团队联合杜伦大学等高校专业综述研究团队，负责全球[[Literature Search\|文献检索]]、[[Meta-analysis\|元分析]]二阶综合与指标折算更新。
@@ -191,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 核心指标与采纳率
 > - **学校采纳率** [[OECD\|经合组织]]（OECD）跨国政策调查数据显示，截至 2017 年，英格兰已有 **70% 的中学校长**在校本决策中常规参考 Toolkit，使其成为全球覆盖面最广的循证信息平台之一。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
 > - **实证体量储备** 汇总全球超过 5,500 项教育实证研究，涵盖 30 余类中小学关键教学与管理策略。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 19)]]
@@ -205,8 +193,6 @@ updated: 2026-10-22
 > - **提供专业支持并凸显[[Professional Judgment\|专业判断]]** 工具包官方技术指南明确强调，证据无法取代教师对特定学生群体的专业情境判断（Professional Judgment）。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 21–22)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心学术争议
 >

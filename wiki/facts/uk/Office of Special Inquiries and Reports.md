@@ -57,11 +57,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Office of Special Inquiries and Reports
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 英国枢密院教育委员会（后为教育署）于 1895 年设立的官方跨国教育情报与政策调查中枢，由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）出任首任局长。该机构以德国为核心参照系开创了系统的比较研究，开辟了比较教育由 19 世纪督学行政视察走向国家常设智库与 20 世纪大学建制化转型的历史枢纽。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!timeline] 机构演进时间线
 > - **1894–1895 年** 英国中等教育皇家委员会（布赖斯委员会 Bryce Commission）完成调查后，[[Michael Sadler|萨德勒]]力陈必须建立常设的教育情报调查机构；英国政府正式设立特别调查与报告办公室（OSIR），任命萨德勒为首任主任。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 44–45)]]
 > - **1897 年** 出版首卷《教育专题报告》（*Special Reports on Educational Subjects*），开创将外国学制置于深层社会历史脉络中审视的方法典范。
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **1903 年之后** 萨德勒转任曼彻斯特大学教席，其在 OSIR 开创的研究进路直接催生了现代大学比较教育在英国的率先扎根，并最终由伦敦大学教育研究院（IOE）全面发扬光大。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **行政领导层** 主任（Director）总揽全局学术与调查规划，对教育署常任次官及议会负责。
@@ -100,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **《教育专题报告》（Special Reports on Educational Subjects）** 组织编纂并出版 28 卷权威政府报告（1897–1914 年），详尽剖析德、法、美、比、瑞及英帝国各自治领的教育体系。
 > - **经典比较方法论理论发源地** 孕育了“情境不可移植性”与“[[Intangible Spiritual Forces|无形精神力量]]”公理，终结了单纯机械的法条与校舍借用。
@@ -114,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 历史影响与遗产
 > - **现代国家级教育智库的制度先驱** OSIR 彻底告别了 19 世纪私人业余游记式的[[Policy Borrowing|政策借用]]，开创了国家资助、跨国数据与制度情境深度结合的智库模型，是[[UNESCO]] [[International Education|国际教育]]局（IBE）、[[OECD]] [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）及当代国家教育科学研究机构的制度始祖。
 > - **从行政视察迈向大学建制化的历史桥梁** 米特深刻指出，[[Michael Sadler|萨德勒]]主政的 OSIR 搭建起了 19 世纪督学行政考察与 20 世纪大学比较教育教席之间的关键桥梁，直接奠定了英国在欧洲比较教育学术建制中的双核领先地位。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
@@ -127,8 +115,6 @@ updated: 2026-10-22
 > *Modern university comparative education first took root in the United Kingdom. Michael Sadler stimulated the British Government to set up the Office of Special Inquiries and Reports, initiating systematic comparative studies with Germany as the core system of reference... The IOE in London continued Sadler's legacy.*
 
 ---
-
-## 争议与组织冲突
 
 > [!debates] 机构路线争议
 >

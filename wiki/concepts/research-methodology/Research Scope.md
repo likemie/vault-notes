@@ -46,11 +46,7 @@ created: 2026-06-20
 updated: 2026-10-22
 ---
 
-# Research Scope
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 研究范围（Research Scope）指研究课题的边界设定——界定研究将覆盖什么、不覆盖什么。范围管理的核心原则是窄而深而非宽而浅：一项研究应保持狭窄和有限的范围，以实现可管理性（Manageability）和严谨性（Rigour）。俗话说“吃大象的最佳方式是一次一口”（The best way to eat an elephant is one bite at a time）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 范围管理 vs. 选题确立 vs. 可行性评估
 > | 维度 | 研究范围（Research Scope） | [[Research Topic\|研究选题]]（Research Topic） | [[Research Practicability\|研究可行性]]（Research Practicability） |
 > |---|---|---|---|
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > | **失控后果** | 课题宏大漫游、无法管理、丧失严谨性 | 缺乏探究动力、学术贡献模糊 | 调研中途夭折、数据无法获取、伦理违规 |
 
 ---
-
-## 核心要素
 
 > [!feature] 范围管理的四项操作原则
 > - **想小而非大** 把课题做小，限制研究的范围和规模，想窄而非宽，保持焦点清晰、有限、有边界且狭窄。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
@@ -122,16 +114,12 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **方法论规划命题** | 课题窄化与边界清晰是保障研究可管理性与方法严谨性的先决前提；窄聚焦能孕育高质理论洞见 | 学位论文选题、实证课题设计、小样本质性个案 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011)]]; Hopkins (1985); Axline (1964); Piaget (1932) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

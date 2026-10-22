@@ -45,11 +45,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-# Binary Logistic Regression
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable\|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu\|陪读]]、是否录取、是否流失）的广义线性回归分析方法。它通过 Logit 变换，将[[Dependent Variable\|因变量]]发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为[[Independent Variable\|自变量]]的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance\|统计显著性]]。
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **输出形式** 回归系数（B）、[[Standard Error\|标准误]]（SE）、华氏统计量（Wald）、显著性水平（p值）、优势比（Exp(B) / Odds Ratio）以及模型整体的拟合优度指标。
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 基于概率论和[[Positivism\|实证主义]]，认为社会选择行为在群体层面上遵循特定的概率分布规律，可以通过数学模型加以测度和预测。
@@ -78,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 量化分析程序
 > 1. **明确因[[Variable\|变量]]和参考组** 将二分类[[Dependent Variable\|因变量]]编码为 0 和 1（1 代表目标事件发生，0 代表未发生），并为分类[[Independent Variable\|自变量]]指定合理的参照组。
 > 2. **筛选自变量与共线性诊断** 依据理论筛选自变量，并通过相关系数矩阵或方差膨胀因子（VIF）检验，确保预测变量间不存在严重的多重共线性。
@@ -88,8 +80,6 @@ updated: 2026-10-22
 > 5. **结果汇报与解释** 汇报优势比 $Exp(B)$ 及其 95% [[Confidence Interval\|置信区间]]。若 $Exp(B) > 1$，说明自变量增加（或相对于参照组）会提升目标事件发生的发生比；若 $Exp(B) < 1$，则说明降低发生比。
 
 ---
-
-## 量化方法模块
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** 横截面数据（Cross-sectional Data）、时点统计数据或[[Longitudinal Study\|纵向调查]]数据。
@@ -155,16 +145,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 因[[Variable\|变量]]是二分类属性变量，[[Independent Variable\|自变量]]可以是连续或分类变量，旨在分析不同因素对选择行为、状态转变的预测效力与相对重要性时。
 > - **谨慎使用** [[Sample Size Determination\|样本量]]较小（如目标事件发生次数少于 30 次），可能导致模型不稳定，[[Confidence Interval\|置信区间]]过宽；或存在严重的自变量多重共线性时。
 > - **不适合使用** [[Dependent Variable\|因变量]]是多分类非顺序变量（改用多项 Logistic 回归）或因变量是连续变量（改用多元线性回归）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 遗漏关键[[Variable\|变量]]偏误、多重共线性、[[Dependent Variable\|因变量]]分类偏倚。
@@ -183,14 +169,10 @@ updated: 2026-10-22
 
 ---
 
-## 使用此方法的研究
-
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 建立三个二元 Logistic 回归模型分析家庭资本（经济、文化、社会资本）对是否[[Peidu\|陪读]]、进城陪读以及进入重点小学的预测显著度与优势比 (p.310)。
 
 ---
-
-## 模仿与延伸研究设想
 
 > [!pathways] 基于多阶段回归漏斗模型的研究设计设想
 > - **设想一 学生参与课外补习（影子教育的层级化资本购买）**

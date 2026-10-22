@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Visual Perception Programs
-
 > [!metax] [视知觉项目 · Visual perception programs](https://www.visiblelearningmetax.com/influences/view/visual_perception_programs)
 > 课程 › 读写与艺术
 >

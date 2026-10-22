@@ -55,11 +55,7 @@ created: 2026-05-31
 updated: 2026-10-16
 ---
 
-# Purpose Statement
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 目的陈述（purpose statement）是研究计划或论文中传达研究总体意图和目标的陈述，通常在摘要或引言中以一句话或一段话的形式出现。它说明研究者为何开展研究、研究期望完成什么(Locke et al., 2014; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.123]])。在健康科学领域，更常用的术语是"研究目标"（study aim）。
 
 目的陈述是连接[[Research Question|研究问题]]与研究问题的核心环节。[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, p.123)]] 将研究设计中四个环节的递进关系概括为：研究问题（problem）→ 目的陈述（purpose）→ 研究问题（research questions）→ 数据收集（data），整个过程体现了研究焦点的逐步收窄。
@@ -69,9 +65,7 @@ updated: 2026-10-16
 
 目的陈述必须明确、具体且信息丰富。研究的其他方面都从目的陈述衍生而来，读者若感到目的模糊，整篇研究的导向就会丧失。在期刊论文中，目的陈述通常在引言和摘要中呈现；在学位论文中，它常常独立成节。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **目的陈述 vs [[Research Question\|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example|notitle]

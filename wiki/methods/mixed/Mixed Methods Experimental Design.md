@@ -39,8 +39,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Mixed Methods Experimental Design
-
 > [!info] 定义
 > [[Mixed Methods Research\|混合方法]]实验（干预）设计（Mixed Methods Experimental/Intervention Design）是一种复杂混合方法设计，将质性数据收集嵌入实验或干预过程中，使参与者的个人经验得以纳入研究。这要求研究者既理解实验设计又能够严格实施实验（如[[Randomised Controlled Trials\|随机对照试验]]），同时使用质性数据来丰富对实验过程和结果的理解([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.245]])。
 
@@ -48,9 +46,7 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > 质性数据嵌入实验的三个时间点和对应的核心设计([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.245–246]])：
 >
 > **1. 实验前——嵌入[[Exploratory Sequential Design\|探索性序列设计]]**

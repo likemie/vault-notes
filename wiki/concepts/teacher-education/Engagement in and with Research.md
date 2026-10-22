@@ -64,11 +64,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Engagement in and with Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教师科研参与（Engagement in and with Research）** 是指教师在专业实践中与科学研究发生关联的两种互补方式：“开展研究”（Engagement in research）是指教师以探究主体身份直接设计与执行研究活动（如[[Action Research\|行动研究]]、基于课堂的微型课题、行动反思与学位研究）；“使用研究”（Engagement with research）是指教师作为实证成果的批判性消费者与利用者，通过检索文献、研读学术期刊并将科研证据融入备课、教学法优化及专业对话（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 2–4]]）。[[OECD\|经合组织]]（[[OECD]]）跨国实证调查进一步表明，教师科研参与不仅取决于个体专业素养，更深受宏观[[Evidence Ecosystem\|证据生态系统]]中[[Knowledge Production\|知识生产]]分工与制度性激励配置的深刻制约（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 89–92]]）。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 开展研究、使用研究与综合[[Research Literacy\|研究素养]]多维对照
 > | 维度 | 开展研究（Engagement in） | 使用研究（Engagement with） | [[Research Literacy\|研究素养]]（综合统整） |
 > |---|---|---|---|
@@ -102,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **开展研究（Engagement in research）** 涵盖发现教学现场真实痛点、拟定探究方案、收集分析课堂数据并反思教学成效，直接塑造教师的方法论实操技能（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 3–5]]）。
 > - **使用研究（Engagement with research）** 涵盖追踪专业学术期刊、解读实证图表与统计分析结论、在备课中吸纳前沿教学法知识，构成日常[[Evidence-Based Policy-Making|循证决策]]的知识输入源泉（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 6–8]]）。
 > - **双轨独立性与差异效应** 实证检验表明，开展科研与追踪期刊对教师素养各维度产生独立的主效应，两者之间无统计显著的[[Interaction Effect\|交互作用]]，表明两条路径各自独立发挥促成价值（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, p. 13]]）。
@@ -185,8 +177,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -204,8 +194,6 @@ updated: 2026-10-22
 > - **2023 — 量化实证检验与[[Effect Size\|效应量]]厘清** Kazancı Tınmaz & Sezgin 通过 2×2 [[Multivariate Analysis of Variance\|MANOVA]] 实证测定了做研究与读期刊对教师[[Research Literacy\|研究素养]]各维度的独立主效应量，证实两条路径各具不可替代的独特价值。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 12–14)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果：微观个体素养塑造（Kazancı Tınmaz & Sezgin, 2023）
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

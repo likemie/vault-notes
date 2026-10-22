@@ -57,7 +57,6 @@ citation_aliases:
   - "Lerner-Lam et al., 2025"
   - "Lerner-Lam et al. (2025)"
 ---
-# Argument_LernerLam_2025_TransdisciplinaryExecutiveEd
 
 > [!question]
 > 大学的[[Executive Education\|高管教育]]（executive education）传统上从现有学位项目中提取课程内容，再压缩为短期培训模块。当社会面临气候变化、人工智能、公共卫生等跨学科复杂挑战时，这一模式遭遇结构性失效。课程的学科划分无法覆盖问题的跨领域性，教师的学科专长难以回应多维度的实践需求，产业伙伴对"培训能带回办公室的实用工具"的期待与课程设定的系统思维目标之间存在深层错位(p.156)。
@@ -186,9 +185,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - 学科映射模式（从既有学位课程中提取[[Executive Education\|高管教育]]内容）在跨学科复杂问题面前失效，其根本原因在于学位课程本身以学科为单位组织，无法直接产出跨学科的逻辑链(pp.155-156)
 > - 跨学科课程设计最关键的环节不是决定教什么，而是重新定义实践的参数。学员需要的不只是新工具，而是对实践环境变化的系统性认识(p.159)
 > - 跨学科课程要求建立小型教师领导核心团队，该团队不仅负责内容组织，更负责在学科交叉点上建立逻辑连接。"一人一课"模式在跨学科语境下效率最低(pp.158-159)
@@ -202,9 +199,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “作为对这些挑战的回应，复杂的跨学科思维的演变——一些人将其描述为高级系统思维或融合研究——并不仅仅局限于大学校园。”
 > ("The evolution of complex, transdisciplinary thinking in response to these challenges—what some have characterized as advanced system thinking or convergence research—is not just confined to university campuses.")(p.156)
 >

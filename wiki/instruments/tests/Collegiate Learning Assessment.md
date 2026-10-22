@@ -66,11 +66,7 @@ created: 2026-08-26
 updated: 2026-10-19
 ---
 
-# Collegiate Learning Assessment
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Collegiate Learning Assessment（CLA / CLA+）
 > - **工具类型** 标准化表现性评估与[[Cognitive Ability Test KFT\|认知能力测验]]（Standardized Performance-Based Assessment）。
@@ -84,8 +80,6 @@ updated: 2026-10-19
 > *The Collegiate Learning Assessment (CLA+) was designed to measure critical thinking and written communication through authentic, open-ended performance tasks and selected-response questions embedded in real-world scenarios.*
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]与高级认知能力（[[Higher-Order Thinking Skills\|higher-order cognitive skills]]）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -102,16 +96,12 @@ updated: 2026-10-19
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 包括一个 60 分钟的表现任务（Performance Task, PT）和一组 30 分钟的选答题（Selected-Response Questions, SRQ）。表现任务提供一个包含 4–8 份材料的“文档库”（[[Document]] Library，如备忘录、财务报表、研究报告摘要、新闻剪报、专家邮件等），要求学生扮演特定专业角色（如政策顾问、项目经理）撰写决策分析报告。
 > - **作答格式** 表现任务为计算机键盘输入的开放式论述文；选答题为基于简短情境材料的单选题。
 > - **计分与报告** 结合自动化文本评分引擎与人工专家评分校准，输出总分（CLA+ Score）、各子维度得分、以及基于入学学业基础（如 SAT/ACT）推算的院校预期增值与实际表现对比。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -124,8 +114,6 @@ updated: 2026-10-19
 > | HEFCE (2018) | CLA+（英格兰试点） | 英国高等教育拨款委员会“学习增益项目”（Learning Gain Programme），联合多所大学追踪学生认知增长 | 纵向增值测量与常模对齐 | 表明情境化表现测试能够揭示不同年级间的批判性思维增益，但自愿参与机制导致高年级样本流失率较高（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, pp. 17–18]]） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

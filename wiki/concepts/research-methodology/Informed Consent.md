@@ -43,11 +43,8 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# Informed Consent
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知情同意（Informed Consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，向潜在参与者明确告知研究目的、程序、潜在风险、预期收益及退出权利，参与者在完全自愿、充分理解的基础上自主决定是否签署同意文件。爱德华·迪纳与拉里·克兰德尔（Edward Diener & Larry Crandall, 1978, p. 57）将其界定为个体在获知可能影响其决定的完整事实后自主选择是否参与调查的制度化程序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 77–79)]]
@@ -79,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **能力（Competence）** 参与者具备成熟的心智能力，能够在充分权衡信息后自主作出明智抉择；对心智尚未成熟或存在认知障碍的群体须启动特殊保护。（Diener & Crandall, 1978）
 > - **自愿（[[Voluntarism]]）** 参与者在免于任何外部强迫、经济诱惑或权力施压的情境下自由决定参与或拒绝，享有无条件且免受惩戒的退出权利。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 213)]]
 > - **充分信息（Full Information）** 研究者完整披露研究目的、程序安排、潜在不适、可能收益与联系渠道；在无法穷尽所有技术细节时，必须满足合理知情同意标准。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 79)]]
@@ -158,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -170,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 知情同意伦理规程的历史演进
 > - **1947 年 — 纽伦堡法典（Nuremberg Code）** 战后审判催生纽伦堡法典，确立受试者“自愿同意绝对必不可少”的第一原则，奠定现代研究伦理的基石。
 > - **1964 年 — 赫尔辛基宣言（Declaration of Helsinki）** 世界医学协会将自愿同意细化为涵盖研究目的、潜在风险及自愿撤回权利的国际伦理规范，首次引入代理人同意机制。
@@ -180,8 +171,6 @@ updated: 2026-10-22
 > - **2018 年至今 — 共同规则现代修订与跨界复杂治理** 美国实施《2018 年修订版共同规则》（Common Rule 2018），细化免除审查条件与知情同意书精简要求；政策学者（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]；[[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025]]）将知情同意拓展至跨部门产学合作与国家行政机构治理的敏感权力情境中。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -204,8 +193,6 @@ updated: 2026-10-22
 > 知情同意主要适用于涉及人类受试者互动与私人数据采集的情境；在完全基于公开历史档案、已解密政府公文或去标识化公开统计数据的宏观制度分析中，该程序并不构成直接操作前提。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 国际代表性研究情境中知情同意与伦理处理模式对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

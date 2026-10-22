@@ -64,11 +64,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Effect Size Conversion
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Effect Size Conversion\|效应量转换]]（[[Effect Size]] [[Institutional Conversion|conversion]]）指在[[Meta-analysis\|元分析]]（Meta-analysis）与定量证据合成中，运用数学统计模型将来自不同研究设计、测量工具与数据类型（如实验组对照组均值差、相关系数、独立样本 $t$ 检验、二分[[Variable\|变量]]联列表等）的原始统计量，统一转换为可比较的标准化[[Effect Size\|效应量]]指标（如[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$、标准化均值差 $d$ 或 $g$）的系统化计算程序与数学推导体系。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 > *All effect sizes were converted to Pearson’s r to maintain consistency across studies... and Fisher’s z transformation was applied to normalize the distribution.*
 
 ---
-
-## 公式推导流程与核心族系转换
 
 > [!formula-set]- [[Effect Size\|效应量]]转换与正态化处理全流程
 > ```mermaid
@@ -329,8 +323,6 @@ updated: 2026-10-22
 > 在教育与心理学实证研究中，$d$ 与 $g$ 的数值通常约为相关系数 $r$ 的 **$2.0$ 至 $2.1$ 倍**；解释方差比约为 $r^2$。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] 统计软件实现代码
 > - **R 语言环境（推荐 `metafor` 与 `esc` 包）**

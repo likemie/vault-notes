@@ -113,11 +113,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# Evidence-Based Reform
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **证据本位改革（Evidence-Based Reform, EBR）** 是[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）于 2002 年提出并持续倡导的宏观教育政策治理框架。该框架主张教育者与决策者将**关于有效性的严格实证研究证据**作为选择、采购与资助具体教育项目、教材和教学实践的核心法定标准。其证据基础特指来自对照[[Experimental Research\|实验研究]]（将使用干预项目的实验组与采用常规方法的对照组进行[[Academic Achievement\|学业成就]]对比，理想上采用[[Random Assignment\|随机分配]]）的严谨因果推论结果。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 22)]]
@@ -139,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Evidence-Based Education\|循证教育]]相关概念[[Paradigm\|范式]]辨析
 > | 比较维度 | 循证教育（Evidence-Based Education, EBE） | [[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP） | 证据本位改革（Evidence-Based Reform, EBR） |
 > |---|---|---|---|
@@ -152,9 +146,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **已验证项目存量（Critical Mass of Proven Programs）** 在核心学科（阅读、数学、科学）中通过严格实验评估建立充足的强证据干预方案库，确保学校具备充足的实证方案可供选择。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **独立证据审查系统（Independent Clearinghouses）** 建立客观、公信且快速更新的证据审查与极速转译平台（如 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]），从源头上过滤未经检验的商业营销。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 > - **政策与财政激励（Policy & Funding Incentives）** 通过国家与州级立法（如 [[Every Student Succeeds Act\|ESSA]] 2015）将公共教育拨款与采纳循证方案刚性挂钩，以财政杠杆驱动学校主动选择有效方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25–26)]]
@@ -218,8 +210,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -239,8 +229,6 @@ updated: 2026-10-22
 > - **2019–2021 年 — [[Response to Proven Instruction\|RTPI]] 方案成型与全球反思对话** 斯莱文提出以循证方案充实三层支持的循证干预反应（Response to Tutoring/Proven Intervention, RTPI）蓝图；国际特刊系统总结美、英、中、比等七国实践与学术反思。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–29)]]; [[Argument_Cheung_2021_ECNUROE\|(Cheung & Xie, 2021)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -270,8 +258,6 @@ updated: 2026-10-22
 > - **清算中心评级[[Heterogeneity\|异质性]]** 跨机构调查显示（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]），不同[[Educational Evidence Clearinghouses\|证据清算中心]]由于门槛、流失率标准和[[Effect Size\|效应量]]算法不同，对同一项目的评级一致率仅约 30%，表明审查平台本身亦需方法学透明度审视。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

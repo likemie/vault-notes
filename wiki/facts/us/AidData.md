@@ -49,11 +49,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# AidData
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > AidData 是设立于美国威廉与玛丽学院（William & Mary）全球研究所（Global Research Institute, GRI）的专业性跨国研究实验室与独立智库，首创“基于媒体与开源追踪的援助信息采集方法”（Tracking Underreported Financial Flows, TUFF），专注于填补非 OECD 债权国海外融资数据空白，通过地理空间次国家级制图与精英态度测度为全球发展有效性与大国公共外交评估提供实证依据。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 2, 77)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 倡导“用微观数据驱动科学循证决策”，通过采集、整合与开源发布微观层面的全球发展资金、公共外交活动与空间地理项目数据，促进国际发展政策问责与科学评估。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2009–2014** **创设奠基与开源追踪方法确立**
@@ -91,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **学术决策主体** 依托威廉与玛丽学院全球研究所学术委员会统筹，负责重大科研方向规划与跨国合作审批。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 2)]]
 > - **执行研究团队** 常设由经济学家、政治学家、地理信息系统（GIS）专家与多语种开源分析员组成的专业研发团队。
@@ -106,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **全球中国发展金融数据库（GCDF）** 采用 TUFF 规程追踪官方发展援助（ODA）与其他官方资金（OOF），覆盖交通、能源、电信与主权紧急纾困贷款等全口径资金流。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 8–10, 77)]]
 > - **全要素公共外交指标体系** 整合金融外交（信贷援助）、社会文化外交（留学生奖学金、孔子学院、鲁班工坊、友城网络）与网络信息外交（社交媒体账号与官媒传播），系统测度国家在受援国的影响力足迹。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 1–4, 13–35)]]
@@ -120,8 +110,6 @@ updated: 2026-10-22
 > *AidData is a research lab at William & Mary's Global Research Institute. We equip decision-makers with better evidence and data to help make international development more effective, transparent, and accountable.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **数据开放与学界引用** 数据库覆盖的资金项目总数、涉及主权国家数量、全球主要经管与政治学顶级期刊引用频次。
@@ -139,8 +127,6 @@ updated: 2026-10-22
 > - **13** （国） 《权力的走廊》旗舰报告深入实证测度的南亚与中亚主权国家数量。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 1)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -75,11 +75,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-# Attrition
-
 ---
-
-## 定义
 
 > [!def] 概念定义
 > **实验流失（Attrition / Experimental Mortality）**，亦称**样本流失**或**受试脱落**，是指在教育实验或纵向[[Cohort Study\|追踪研究]]进行期间，部分参与者因转学、缺勤、失去动机、主动放弃或行政失联等原因中途退出，导致最终进入数据分析的样本（Analytic Sample）不再等同于初始[[Random Assignment\|随机分配]]样本的现象([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 333–334]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
@@ -101,8 +97,6 @@ updated: 2026-10-22
 > - 不等于 [[Sampling Error\|抽样误差]] 抽样误差源自[[Random Sampling\|随机抽样]]产生的偶然统计波动，而流失偏差源自被试非随机退出导致的系统性效度偏误。
 
 ---
-
-## 核心机制与理论模型
 
 > [!mechanism] 流失破坏[[Causality\|因果推断]]的三大微观机制
 > 1. **脱落者的系统性非随机特征（Non-Random Dropout）** 脱落者通常具有特定的人口学与学业特征（如低收入家庭搬迁频率更高、学业困难生更容易产生挫败感而退出）。排除这部分学生会直接人工拔高留守组的平均成绩。
@@ -142,8 +136,6 @@ ight|$$
 
 ---
 
-## 统计纠偏与补偿策略
-
 > [!framework-table] 应对流失偏差的四大统计纠偏工具
 > | 统计纠偏技术 | 核心操作原理 | 适用场景与优劣势 |
 > |:---|:---|:---|
@@ -154,16 +146,12 @@ ight|$$
 
 ---
 
-## 概念边界与常见误区
-
 > [!boundary]- 概念辨析与适用边界
 > - **流失（Attrition） vs 排除偏差（Exclusion Bias）** 流失是指参与者已经入组并启动实验，但在中途退出或[[Pre-test and Post-test\|后测]]失联；排除偏差是指研究者在[[Random Assignment\|随机化]]分配前依据既定准入标准（如智商低于特定值）系统排除特定对象。
 > - **流失偏差 vs 小样本[[Sampling Error\|抽样误差]]（Sampling Error）** 小样本导致的偶然不平衡可通过事后[[Covariate Adjustment\|协变量控制]]缓解，且样本属性未变；流失是在时间维度上动态改变了受试者总体的概率分布结构。
 > - **[[Cross-sectional Study\|横截面调查]]（Cross-sectional）不存在实验流失** 流失是纵向时间序列[[Cohort Study\|追踪研究]]和干[[Pilot Testing\|预实验]]特有的威胁；单次横截面[[Questionnaire\|问卷]]中只存在**无[[Response Bias\|应答偏差]]（Non-response Bias）**。
 
 ---
-
-## 典型应用与反思案例
 
 > [!case] 周六早间数学加强班的自选择流失（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]; Torgerson, 2003）
 > 一项针对初中数学困难生的自愿周六补习 [[Randomised Controlled Trials\|RCT]] 实验中：

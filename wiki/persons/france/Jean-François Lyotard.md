@@ -72,11 +72,7 @@ created: 2026-05-10
 updated: 2026-10-22
 ---
 
-# Jean-François Lyotard
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国[[Post-structuralism\|后结构主义]]哲学家、社会学家和文学理论家。
@@ -117,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950s–1960s — [[Phenomenology\|现象学]]与政治反思阶段** 主要回应现象学的学术奠基与极左翼政治反思，致力于寻找理解意识及反对教条主义政治的框架。
 >   - **代表著作** 《现象学》（*La phénoménologie*, 1954）、阿尔及利亚独立运动政治评论（后集结为《政治写作》*Political Writings*, 1993）。
@@ -141,9 +135,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 后现代时期的标志是 **对宏大[[Grand Theory\|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的 **[[Performativity\|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，[[Knowledge Production|知识生产]]不再服从于普遍真理启蒙，而是 **为了进入市场售卖而生产**，导致学术成果全面退化为商业咨询与效能商品。在不同[[Discourse|话语]]系统（语言游戏）之间存在着 **不可[[Commensuration\|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
 
 > [!citation-card] 后现代状况：对宏大元叙事的怀疑
@@ -173,9 +165,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 其[[Narrative Knowledge\|叙事知识]]与科学知识的划分成为[[Critical Pedagogy\|批判教育学]]和[[Geopolitics of Knowledge\|知识地缘政治]]分析的关键视角；对[[Grand Theory\|元叙事]]解体的论证解释了传统国家同质化课程体系的瓦解和全球多元化[[Discourse|话语]]的兴起。
 > - **政策与制度评估** [[Performativity\|绩效性]]概念被广泛引入教育社会学和高等教育研究，用于分析国家和全球教育监测项目（如 [[PISA]] 排名、大学绩效问责与[[Academic Capitalism\|学术资本主义]]）。
 > - **知识商品化与学术重商主义** 知识为了售卖而生产的论断被比较教育学者用于剖析大学学术重商主义与跨国咨询输出，揭示高等院校如何将[[School Effectiveness|学校效能]]与绩效方案包装为咨询商品输出至发展中国家。
@@ -188,8 +178,6 @@ updated: 2026-10-22
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引[[Jean-François Lyotard|利奥塔]]知识商品化论断，揭示全球教育转移中大学将[[School Effectiveness|学校效能]]技术包装为咨询商品开辟海外市场的学术重商主义机制（pp. 342–343）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Beech论[[Jean-François Lyotard|利奥塔]]知识商品化命题对大学咨询市场扩张的解释力
 > 利奥塔在《后现代状况》中揭示的“[[Knowledge Production|知识生产]]为了售卖”命题，在当代全球教育转移与大学转型中得到了深刻印证：在政府公共财政紧缩压力下，大学教育学院将研发的[[School Effectiveness|学校效能]]与治理方案打包为高价咨询商品，向海外发展中国家开辟市场以补充政府拨款，推动了跨国[[Policy Borrowing|政策借用]]主体从主权国家官员向学术咨询资本的深刻质变。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
@@ -208,8 +196,6 @@ updated: 2026-10-22
 >   - “非物质”（Les Immatériaux）展览 — 1985年利奥塔在蓬皮杜艺术中心联合策划的具有里程碑意义的大型多媒体艺术展览。
 
 ---
-
-## 争议与批评
 
 > [!critique] 批评索引
 > - [[Argument_Beech_2009_CE\|Beech (2009a, p. 352)]] — 警示[[Performativity\|绩效性]]逻辑的全面渗透会抹杀教育的多元价值，使教育机构退化为只关注指标量化影响力的操演机器。

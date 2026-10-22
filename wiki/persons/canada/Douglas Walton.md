@@ -45,11 +45,7 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# Douglas Walton
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大哲学家、逻辑学家（1942–2020），曾任温莎大学推理、论辩与修辞研究中心杰出研究员，非形式逻辑与辩证法领域的奠基性人物。
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1996 — *[[Walton's Argumentation Schemes\|Argumentation Schemes]] for Presumptive Reasoning*** 系统梳理日常生活中基于假定的可撤销推理模式，提出 25 种核心论证型式及配套批判性提问。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 223)]]
 > - **1998 — *The New Dialectic: Conversational Contexts of Argument*** 提出新辩证法理论，将论辩置于信息搜集、质询、协商、批判性讨论等具体对[[Discourse|话语]]境中考量。
@@ -81,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类的实际推理与论辩绝非封闭的演绎有效性运算，而是在不完备信息情境下寻求合理假定（Presumption）的语用对话实践。论辩的理性并不依赖形式逻辑三段论的保真性，而依赖于定型论辩模式在多轮对话中经受批判性质询（Critical Questions）的动态抗辩能力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!citation-card] 假定推理与可撤销性
@@ -100,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] Duncan & Chinn 论沃尔顿理论在科学教育中的遗产
 > 沃尔顿的论证型式体系为科学教育中将论辩分析形式化提供了最系统的现有工具，但其批判性提问清单本身并不说明哪类问题在科学[[Knowledge Building Theory|知识建构]]中具有[[Epistemology\|认识论]]优先性，亦未提供在分歧时终审证据冲突的裁决依据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 >
@@ -115,8 +105,6 @@ updated: 2026-10-22
 > - **理论继承** 图尔敏（Stephen Toulmin）的非形式论证结构理论是沃尔顿论辩型式体系最直接的思想先驱。
 
 ---
-
-## 争议与批评
 
 > [!critique] 批评索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 指出[[Walton's Argumentation Schemes\|沃尔顿论证型式]]在科学论证评价中存在三重局限：① 批判性提问清单未提供[[Epistemology\|认识论]]与因果哲学依据；② 无法处理海量收敛证据的统计合成；③ 在双方分歧时缺乏终审裁决机制。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]

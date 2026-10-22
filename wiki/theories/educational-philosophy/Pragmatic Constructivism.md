@@ -44,13 +44,9 @@ created: '2026-06-22'
 updated: 2026-10-22
 ---
 
-# Pragmatic Constructivism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 学习的主动认知建构过程，以及理论与教学实践、课程设计之间的动态整合机制。
 > - **理论问题** 批判[[Behaviorism|行为主义]]对学习行为的外在刺激控制，并试图弥合传统教育中“理论与实践”的二元割裂，探讨如何设计面向不确定未来的自我调整课程。
 > - **理论类型** 学习理论、课程[[Analytic Framework\|分析框架]]。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题与机制
-
 > [!proposition-chain] 核心命题
 > - **前提一（[[John Dewey\|杜威]]的反思）** 个体并非被动接受外部信息的容器，而是在面临新经验的挑战时，通过主动反思（Reflection）构建并重组自身的认知图式（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]）。
 > - **前提二（米德的具身与社会互动）** 个体心智的发生与身体经验、自然及社会环境构成密不可分的联合系统。学习必须在主体间的社会互动（Social interaction）中实现（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]** 将现实与人理解为共生的、不断通过社会实践建构的过程。心智、身体与环境是不可分割的整体。

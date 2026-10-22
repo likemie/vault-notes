@@ -68,11 +68,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Teaching and Learning International Survey
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 教师教学国际调查（Teaching and Learning International Survey，TALIS）是[[OECD\|经合组织]]（[[OECD]]）于 2008 年启动的全球首个大规模针对教师与[[School Leadership\|学校领导]]者的周期性跨国调查项目；作为[[PISA\|国际学生评估项目]]（[[PISA]]）的姊妹平台，旨在通过对教师工作条件、教学实践与学校微观生态的量化测度，填补全球教育规制中“教师与教学过程”的实证盲区。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对[[New Public Management\|新公共管理]]改革下学校问责制对教师专业队伍的冲击，回应各成员国在教师招聘短缺、专业发展匮乏、职业倦怠及课堂纪律维护等方面的深层制度焦虑。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > TALIS 的核心假说认为：学生优异的学业素养产出与公平取决于高质量的学校教学微观过程；通过国际标准化的自陈[[Questionnaire\|问卷]]，对教师教学策略、专业协作、校长分布式领导与持续专业发展（CPD）进行多维画像，能够为国家重构教师评价与师资激励政策提供跨国对等审议基准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
@@ -104,16 +98,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2008 年 — TALIS 奠基与首轮框架确立期** 确立初中教师为核心测量对象，发布首部国际综合报告，聚焦教学实践、教师评价与专业发展需求，24 个国家参与试点。
 > - **2013 年 — 学段拓展与分布式领导力量表引入期** 增设小学与高中可选模块，首次推出“TALIS-[[PISA]] 联动调查”；同时，[[Education International\|国际教育协会]]（EI）资助开展跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力（Distributed Leadership）测评维度，促成[[OECD\|经合组织]]官方报告将转向分布式领导列为系统性政策建议（OECD, 2014）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 > - **2018 年至今 — 教师工作压力指标突破与全球素养扩张期** 全面引入数字化教学能力、多元文化包容素养与社会情感技能培养支持；更重要的是，经合组织采纳 EI 建议，在 2018 年调查中首次增设针对教师工作压力来源与性质的专属量表（OECD, 2020），使一线教师身心耗竭获得客观量化实证确证；覆盖近 50 个经济体，成为联合国《[[UN Sustainable Development Goals\|可持续发展目标]] 4》（[[UN Sustainable Development Goals\|SDG 4]]）教师关键指标的核心数据源。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[OECD]] 教育与技能司及其 TALIS 理事会（TALIS Governing Board），负责确定各轮优先调查主题与战略蓝图。
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对教师普遍抱怨的问卷冗长问题，开发模块化在线自适应问卷，降低答题认知负荷。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 教师持续专业发展（CPD）年均受训天数、专业发展财政资助覆盖率。
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > 涵盖全球近 50 个教育体系；每轮调查抽取超 260,000 名教师与 15,000 所学校微观样本；形成性反馈数据成为[[OECD\|经合组织]]《[[Education at a Glance\|教育概览]]》的核心支撑数据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]；TALIS-2013 揭示亚洲高表现经济体 67% 教师确信自身职业具备社会价值，构成高教学质量的制度文化底色。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 240)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >
@@ -188,8 +174,6 @@ updated: 2026-10-22
 > | [[Governing by Numbers]] | 概念 | 将微观教学实践全面指标化与标准化的跨国数字治理体现。 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关实证研究
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] 对比分析 TALIS-2013 跨国调查数据与俄罗斯教育现状，指出亚洲高表现经济体 67% 的教师确信自身具备社会价值，而俄罗斯仅为 16%；揭示忽视教师社会地位与基本尊严的量化绩效管理极易诱发教育系统深层的师资流失危机。

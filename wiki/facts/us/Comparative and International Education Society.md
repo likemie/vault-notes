@@ -82,11 +82,7 @@ created: 2026-07-08
 updated: 2026-10-22
 ---
 
-# Comparative and International Education Society
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 比较与[[International Education|国际教育]]学会（Comparative and International Education Society, CIES，前身为 1956 年创立的比较教育学会 CES）是全球规模最大、历史最悠久且最具建制影响力的比较教育学术共同体；下辖旗舰会刊《比较教育评论》（*Comparative Education Review*, CER），并在推动设立[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（[[World Council of Comparative Education Societies|WCCES]]）中发挥了核心领导作用。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123, 129–130)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
@@ -99,16 +95,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1956–1969 — 学会创设、会刊创办与冷战[[Structural Functionalism|结构功能主义]]渗透** 1956 年美国学者在纽约正式创设 CES，标志着专业学者共同体正式制度化；由[[George Bereday|乔治·贝雷迪]]（[[George Bereday]]）领衔创办旗舰学术期刊《比较教育评论》（*Comparative Education Review*, CER）。在冷战意识形态对抗与美国[[Economics of Education Movement|教育经济学运动]]驱动下，战后美国结构功能主义社会学深刻塑造了学会的元认识型；大批学会骨干出任美援与[[Mediterranean Regional Project|地中海区域项目]]的专家顾问，使学术研究与对外援助干预紧密交织。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
 > - **1969–1980年代 — 词汇突变更名、发起 [[World Council of Comparative Education Societies|WCCES]] 与认识型多元分化** 1969 年学会决议正式更名为 CIES，在元[[Epistemology|认识论]]上完成了对多边开发实务与[[International Education|国际教育]]应用的建制整合；1970 年学会在加拿大渥太华联合发起成立世界比较教育学会联合会（[[World Council of Comparative Education Societies|WCCES]]），推动学会网络跨大洲扩展。伴随[[Dependency Theory|依附理论]]与后殖民思潮的兴起，早期单一功能主义垄断开始解体，在[[Harold Noah|哈罗德·诺亚]]（[[Harold Noah]]，1976–1977 年会长）与[[Max Eckstein|马克斯·埃克斯坦]]（[[Max Eckstein]]，1988–1989 年会长）等领航下，学会在《比较教育评论》上展开了关于实证科学化、历史诠释与批判政治经济学的持久大辩论。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–9)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–130)]]
 > - **1990年代–至今 — [[Pluralism|范式多元主义]]成熟、实证量化演进与史料口述工程** 拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）对《比较教育评论》（CER）半个世纪（1957–2007）的文献计量及加利福尼亚大学洛杉矶分校（UCLA）调查证实，学会旗帜下形成了涵盖 26 种并存[[Paradigm|范式]]的繁荣理论多元主义，非历史的经验[[Quantitative Research|量化研究]]上升至约 60%；与此同时，学会档案积淀浩瀚，吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在 2000 年代率先发起口述史抢救工程，重建被官方报告遮蔽的活态制度记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124, 131–132)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 会长团）** 由当选会长（President）、候任会长（President-Elect）、前任会长（Past President）与常任执行总监组成核心会长团，连同全体当选理事构成最高决策机构理事会（Board of Directors），年会期间举行全体会员代表大会。
@@ -122,8 +114,6 @@ updated: 2026-10-22
 > - **学术奖掖与档案建设** 设立[[George Bereday|乔治·贝雷迪]]奖（George Bereday Award）等学术重奖表彰杰出年度论文；与各大[[Research Universities|研究型大学]]档案馆合作推进早期学者手稿保护与学术口述史数字化。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **旗舰学术期刊** 《比较教育评论》（*Comparative Education Review*, CER, 1957 年创刊，全球历史最悠久、引文影响力最高的比较教育学科顶级权威期刊）。
@@ -140,8 +130,6 @@ updated: 2026-10-22
 > 1956 年比较教育学会及其会刊《比较教育评论》的成立，标志着专业学者共同体正式制度化。对该刊 50 年发表史的实证考察表明，学会见证了学科研究策略向经验量化的拓展，以及从战后单一功能主义主导向 26 种范式并存之理论[[Pluralism|多元主义]]的历史演进。多元主义不仅不是学科碎片化，反而是比较学术心智成熟与学者[[Academic Freedom|学术自由]]的制度明证。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123, 131–132)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 拥有逾三千名注册专业会员，覆盖全球超百个主权国家；年均汇聚数千篇国际学术论文评审与宣读。
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122, 129–132)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

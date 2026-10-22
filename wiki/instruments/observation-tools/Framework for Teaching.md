@@ -49,11 +49,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Framework for Teaching
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Framework for Teaching (FFT)
 > - **工具类型** 课堂外部[[Classroom Observation|教学观察]]与综合教师专业素养评价量规（observation-tool）。
@@ -81,14 +77,10 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 22 个核心构件（Components），细化为 76 个具体行为要素（Elements）。
 > - **作答格式** 4 级阶梯表现量规：不合格（Unsatisfactory）、基本达标（Basic）、熟练/优秀（Proficient）、卓越（Distinguished）。
 > - **反向题与跳题** 无反向题；课堂现场主要针对 Domain 2 和 Domain 3 实施直接观察评定。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] FFT [[Classroom Observation|课堂观察]]核心构件重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -114,8 +106,6 @@ updated: 2026-10-22
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 2013 版修订量规 | 作为 Teach 初始 43 项要素建库的核心来源之一 | 检验其[[Predictive Validity\|预测效度]]及发展中国家跨文化适配性 | 证实其课堂环境与教学指导构件具有高预测力，但其构架过于繁复，促使[[World Bank\|世行]]向 10 要素高度精简。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

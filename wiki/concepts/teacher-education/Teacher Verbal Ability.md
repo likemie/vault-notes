@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Verbal Ability
-
 > [!metax] [教师言语能力 · Teacher verbal ability](https://www.visiblelearningmetax.com/influences/view/teacher_verbal_ability)
 > 教师 › 教师特质
 >

@@ -61,11 +61,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Plausible Values
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **似真值（Plausible Values, PV）** 是大规模教育评估（如[[PISA|国际学生评估项目]]，[[PISA]]；美国国家教育进展评估，[[National Assessment of Educational Progress|NAEP]]）中用于宏观群体特征估计的贝叶斯多重插补统计技术。在大规模评估采用[[Matrix Sampling|矩阵抽样]]设计时，每位受试者仅作答题库中的一部分题项，导致单人能力水平的极大似然估计或后验期望估计（EAP）伴随极大的测量误差。似真值技术通过将被试的客观试题作答反应与详尽的背景调查[[Questionnaire|问卷]][[Variable|变量]]（如家庭[[Socioeconomic Status|社会经济地位]]、学校特征、学习动机）联合建模，计算每名被试后验潜在能力分布，并从中独立抽取若干组（通常为 5 到 10 个）拟随机数值。这组数值代表了被试在给定作答表现与背景特征下可能具有的能力水平取样，用于在群体层面开展无偏的均值、方差、分位数及[[Multiple Regression|多元回归]]参数推断。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 似真值技术明确放弃了“测出单个被试精确分数”的传统[[Construct|构念]]假设，将个体潜在能力视为一个具有条件概率分布的不确定随机[[Variable|变量]]；其认识论核心在于通过保留个体能力的不确定性，换取群体统计推断的无偏性。
 > - **研究者角色** 数据分析人员必须严格遵循多重插补合并准则（Rubin's Rules），对每一个 PV 变量独立运行相同统计模型，再汇总合成最终点估计与混合[[Standard Error|标准误]]。
@@ -99,16 +93,12 @@ updated: 2026-10-22
 
 ---
 
-## 统计原理与计算程序
-
 > [!proc] 通用程序
 > 1. **标定题目参数** 依托全域样本，利用[[Item Response Theory|项目反应理论]]（IRT）边际极大似然法估计所有测验题目的难度与区分度参数，并保持参数固定。
 > 2. **拟合潜在回归模型（Latent Regression Model）** 将被试的所有背景[[Questionnaire|问卷]]信息（经主成分降维提取的正交特征向量 $\boldsymbol{X}_j$）作为外生解释[[Variable|变量]]，与学生潜在能力 $\theta_j$ 拟合高维线性回归模型：$\theta_j = \boldsymbol{\beta}' \boldsymbol{X}_j + \epsilon_j$。
 > 3. **推导个体条件后验分布** 结合个体作答反应向量 $\boldsymbol{Y}_j$ 的似然函数与基于背景特征的先验分布，推导个体潜在能力后验条件概率密度函数 $P(\theta \mid \boldsymbol{Y}_j, \boldsymbol{X}_j)$。
 > 4. **蒙特卡罗随机抽取（PV 抽样）** 从每个个体的后验分布中独立抽取 $M$ 个数值（PISA 早期轮次抽取 5 个，2015 年起抽取 10 个），生成 $M$ 列似真值变量。
 > 5. **二级分析多重合并** 研究者在开展二级数据分析时，必须分别对 $M$ 个数据集进行估计，应用鲁宾公式（Rubin's Rules）合并[[Sampling Error|抽样误差]]与测量插补误差。
-
-### 量化方法模块
 
 > [!formula-step] 公式步骤一　个体条件后验概率密度
 > $$P(\theta \mid \boldsymbol{Y}_j, \boldsymbol{X}_j, \boldsymbol{\xi}, \boldsymbol{\beta}, \sigma^2) = \frac{P(\boldsymbol{Y}_j \mid \theta, \boldsymbol{\xi}) \cdot \phi(\theta \mid \boldsymbol{\beta}' \boldsymbol{X}_j, \sigma^2)}{\int P(\boldsymbol{Y}_j \mid \vartheta, \boldsymbol{\xi}) \cdot \phi(\vartheta \mid \boldsymbol{\beta}' \boldsymbol{X}_j, \sigma^2) \, d\vartheta}$$
@@ -131,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景与实证应用
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   1. **宏观教育均值与极差测度** 计算国家、地区、公私立学校之间的阅读、数学或科学平均表现与能力等级百分比分布。
@@ -145,8 +133,6 @@ updated: 2026-10-22
 >   - 严禁将似真值还原至单所学校内部对具体教师进行绩效问责或对单个学生实施选拔分类。
 
 ---
-
-## 局限性与批评
 
 > [!method-limits] 方法局限与风险
 > - **计算分析门槛高昂** 二级研究者若缺乏专业计量训练，极易忽视 Rubin 合并准则与复杂调查复抽样权重的联立计算，导致文献中普遍存在错误使用单一 PV 汇报[[Statistical Significance|统计显著性]]的乱象。
@@ -171,8 +157,6 @@ updated: 2026-10-22
 > | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析大规模跨国测验技术规程与心理测量专家共同体合法性建构机制的文献。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示[[OECD|经合组织]]如何运用以似真值多重插补与[[Matrix Sampling|矩阵抽样]]为核心的高阶数理技术，确立国际大规模测验中无可辩驳的[[Objectivism|客观主义]]品牌声誉。

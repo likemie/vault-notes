@@ -112,7 +112,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Du_Yuan_2026_AIS
 
 ---
 
@@ -136,8 +135,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -150,8 +147,6 @@ issuing_organization: ""
 > 社会认识论确立了依赖是求知过程的[[Ontology\|本体论]]前提，从而驳斥了要求学生彻底脱离技术以达致技术纯洁性的教条主义设想；[[Extended Mind Theory\|延展心智理论]]进一步为认知卸载提供了辩护空间，但同时划定了清晰边界：唯有当学习者保留对人机耦合的有效控制、理解系统输入并能独立复现核心逻辑时，工具整合才具有发展正当性；[[Epistemic Cognition\|认识论认知]]理论深入微观心智机制，揭示出若算法直接给出终局判定，学习者将因丧失认知挣扎而无法建立批判性鉴别力；认识正义理论则将视阈从微观人机互动拉升至宏观结构，证明技术中介的权威并非中立产物，必须依托制度性分布式责任与知识多样性保障，防止技术系统隐蔽再生产主流阶层的[[Discourse|话语]]特权。（pp.2–8）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -179,8 +174,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- [[Epistemic Dependence\|认识依赖]]与关系性[[Epistemic Agency\|认识主体性]]重构逻辑链
 > ```mermaid
 > flowchart LR
@@ -196,9 +189,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一　认识依赖的教育危害取决于评价性判断是否被算法接管，而非使用工具的频次多寡
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　认识依赖的教育危害取决于评价性判断是否被算法接管，而非使用工具的频次多寡
 > 认识依赖（Epistemic Dependence）的核心风险不在于使用工具的次数多少，而在于技术究竟是辅助思考还是取代了人类的判断；区分“工具性协助”与“承载判断型协助”，是诊断算法是否侵夺学生思维自主权的关键判准。（pp.3–5）
 
 #### 1. 人工智能重组认知分工，承载判断型协助直接架空学生的主体审议
@@ -248,9 +239,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二　虚假权威与唯成果考核等四条路径系统切除了思考的中间动作，削弱批判审议
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　虚假权威与唯成果考核等四条路径系统切除了思考的中间动作，削弱批判审议
 > 学生的思维惰性并非单纯因个人偷懒而起，而是被算法的虚假权威、一键交付设计以及学校唯成果论的考核机制共同诱发；这四条社会技术路径系统性地切除了学生本该经历的中间思考动作，导致深层审议能力丧失。（pp.5–7）
 
 #### 1. 算法的虚假权威与一键交付功能剥离了学生自主推理的中间动作
@@ -305,9 +294,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　人机共生下的教育目标是培养敢于质疑与负责的关系性主体，并落实跨主体分布式责任
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　人机共生下的教育目标是培养敢于质疑与负责的关系性主体，并落实跨主体分布式责任
 > 面对人工智能，教育不应退回到脱离工具的极端技术排斥，而应培养能够在人机互动中主动提问、核验、对比与辩护的“关系性认识主体”；同时，学校和技术开发者必须合理分担责任，不能将算法出错的所有后果单独甩给学生。（pp.7–9）
 
 #### 1. 关系性认识主体性主张在借助技术支持的同时牢牢守住人类的批判与裁决权
@@ -347,9 +334,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤四　防范有害依赖必须从单纯抓作弊前移至界面证据溯源、课堂保留思维摩擦与过程性考核
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　防范有害依赖必须从单纯抓作弊前移至界面证据溯源、课堂保留思维摩擦与过程性考核
 > 应对人工智能冲击，不能仅仅在事后抓抄袭作弊，而必须全面前移防线：在软件界面上强制标明证据来源，在课堂上保留促发深度反思的思维阻力，在考试中重在考查推导过程与脱离工具后的独立解决能力。（pp.8–9）
 
 #### 1. 改造人机交互界面强制显现证据来源，在教学中保留迫使学生反思的思维阻力
@@ -390,16 +375,12 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Epistemic Dependence\|认识依赖]]的本质是协助形态与判断权的再分配** 认识依赖并非不可接受的教育失败，其破坏性并不取决于使用频率，而取决于技术是否置换了不可外包的[[Evaluative Judgement\|评价性判断]]；六维诊断标准确立了区分生产性依赖与有害依赖的[[Operationalization\|操作化]]标尺。（pp.3–5）
 > 2. **四重社会技术路径造成中间认识动作的系统性剥落** 流畅权威诱发信任错位，无摩擦委派切除推导过程，不透明综合扁平化学科标准，制度化嵌入倒错权责分配，合力导致学习者不确定性耐受力萎缩与学术脆弱性。（pp.5–7）
 > 3. **关系性[[Epistemic Agency\|认识主体性]]构成智能时代教育的规范基石** 应当超越极端的技术纯洁性幻想与被动的顺从主义，在人机相互依赖中培育学生提问、核验、对比、辩护与负责的权能，并以分布式制度责任与认识正义为底线构建系统防线。（pp.7–9）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Epistemic Dependence\|认识依赖]]的核心界定
 > 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合文献、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。（pp.3–4）
@@ -422,8 +403,6 @@ issuing_organization: ""
 > *Learners should take responsibility for claims they submit, but responsibility is fair only when they have sufficient knowledge and control. Institutions that mandate or normalise AI, teachers who design AI-dependent assessments, and providers that control model behaviour also shape the epistemic relation. A relational [[Accounts\|account]] therefore replaces the fiction of the isolated user with distributed responsibility. Governance should specify who is answerable for provenance, errors, accessibility, data use, model updates and the conditions under which AI-mediated work is assessed.*
 
 ---
-
-## 自述局限
 
 > [!warning] 自述研究局限与边界条件（p.9）
 > 原文第 13 节明确交代了四项边界局限与研究审慎性要求：

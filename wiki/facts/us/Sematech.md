@@ -90,11 +90,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Sematech
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 半导体制造技术战略联盟（Semiconductor Manufacturing Technology, SEMATECH）是由美国 14 家领先半导体制造企业与美国国防部[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）于 1987 年联合创设的非营利前竞争共性技术研发联合体（[[Precompetitive Research|precompetitive]] R&D Consortium）。在科技政策理论中，Sematech 是在[[Pasteur's Quadrant|巴斯德象限]]中打破企业恶性内耗与专利孤岛、依托公私资金对等匹配机制攻克全行业共性制造瓶颈的全球典范，并与[[EUV LLC]]、[[Human Genome Project|人类基因组计划]]共同构成了现代前竞争[[Big Science|大科学]]联合体的理论支柱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 177)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724, 729–730)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]
@@ -106,8 +102,6 @@ updated: 2026-10-22
 > - **制度法律基石** 依托国会 1984 年通过的《国家合作研究法》（National Cooperative Research Act, NCRA），该法案免除了企业在前竞争阶段联合研发的反垄断三倍赔偿惩罚风险。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
 > - **1986–1987 — 危机动员、选址竞标与白宫科技委员会定性**
@@ -127,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **董事会与产业指导委员会** 由出资成员企业最高技术负责人及高级主管组成决策机构，确保研发议程完全由产业一线技术需求主导，而非脱离实际的行政指令。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730–733)]]
 > - **[[DARPA]] 联邦监管与项目对接办公室** 监督公共资金严格用于共性[[General Purpose Technology|通用技术]]开发而非单一企业的产品改良，推动军民双用途（Dual-use）技术溢出。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
@@ -141,8 +133,6 @@ updated: 2026-10-22
 > - **跨组织隐性技术扩散** 借调工程师不仅参与联合攻关，还将规范化的质量控制和测试标准带回母公司，形成行业通用技术标准的自发普及。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 752–753)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > 1. **设备改进计划（[[Evidence-Informed Practice|EIP]]）与联合开发项目（JDP）** 联合 130 余家本土设备与材料供应商，资助 6 至 18 个月的现有设备[[Reliability|可靠性]]改良与 2 至 3 年面向下一代制程（0.35 微米）的关键装备联合攻关。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–734)]]
@@ -168,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与历史辐射
 > 1. **重构买方—供应商协同信任生态** 彻底打破了以往美国芯片制造商对本土中小设备商压价与防范的对抗性采购模式，建立了早期参与研发、参数共享与共同测试的纵向协同合作模式。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 744–746)]]
 > 2. **提升在役设备[[Reliability|可靠性]]与降低调试停机损失** 通过推行[[Cost of Ownership|所有权成本模型]]与[[Statistical Process Control|统计过程控制]]，使本土设备的平均无故障工作时间（MTBF）提升数倍，大幅缩短了芯片厂引入新设备后的停机调试周期。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
@@ -187,8 +175,6 @@ updated: 2026-10-22
 > - **51% vs 41%** 1992 年美日两国半导体制造设备供应商在全球市场的最终份额对比。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 741)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

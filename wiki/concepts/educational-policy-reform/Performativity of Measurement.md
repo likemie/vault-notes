@@ -80,8 +80,6 @@ updated: 2026-10-22
 > - Law (2009a) 进一步将 performativity 发展为 [[Science and Technology Studies\|STS]] 的核心分析概念
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] 将 performativity 概念系统应用于 [[OECD]] [[International Education\|国际教育]]指标分析
 
-## 核心要素
-
 > [!abstract] 两个层面的生产性([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.17–18]])
 > **层面一：测量到位后改变理解和行为**
 > - 指标反复发布形成期望模式，构成事物"如预期般出现"的背景(Thrift, 2004; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.16]])
@@ -111,9 +109,7 @@ updated: 2026-10-22
 > - **[[Science and Technology Studies]]** — Jasanoff 的共同生产（[[Knowledge Co-production\|co-production]]）理论：科学与国家相互构成，知识"结晶"为组织、物质、具身的存在状态(Jasanoff, 2004, p.3;)
 > - **Bottani 的[[Epistemology\|认识论]]** — "没有认知方法能使其观察、测量、分析、比较、[[Decodification\|解码]]的对象完全不受影响……在科学和技术之间、在认知现实及其修改之间，不存在清晰的存在论分界"(Bottani, 2008, p.22; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.18]])
 
-## 实证发现
-
-> [!success|notitle] 实证发现
+> [!success] 实证发现
 > [[OECD]] 指标的 [[Performativity]] 表现在多个层面([[Argument_Gorur_2014_Discourse\|Gorur, 2014]])：
 > - 指标成为政策制定者、媒体、公众理解教育的默认框架
 > - 各国基于比较排名调整政策，即使排名基于充满妥协的数据
@@ -176,8 +172,6 @@ updated: 2026-10-22
 > - Johnson & Janzen 将此定性为 VL 如何将教学从"an ethical, relational profession"重塑为"tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies"([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023, p.29]])
 >
 > 参见 [[Victorian HITS and Literacy Toolkit]]、[[Visible Learning Branding and Global Influences]]。
-
-## 争议与批评
 
 > [!warning] 中立性的不可能
 > Bottani 质疑指标是否能被视为中立的认知工具："我们真的能坚持认为指标的使用构成中立的认知方法、不以修改教育系统为目标吗？……生产和发布一套指标，并得到教育当局的支持和鼓励，这完全是中立的吗？"(Bottani, 2008, p.21; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.18]])

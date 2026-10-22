@@ -54,11 +54,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Transiency
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **流动漂泊（Transiency）** 在教育社会学与政策研究中特指学生在单一学年中途频繁跨校转学（mid-school year movement）的流动形态。在主流绩效问责与[[Sedentarism|定居主义]]政策[[Discourse|话语]]中，此类流动往往从技术性的“[[Student Mobility|学生流动]]（Mobility）”滑向带有严重病理学色彩的“漂泊（Transiency）”，被直接绑定于家庭贫困、失范与监护失调，并被学校管理者工具化为解释未能达成年度问责绩效目标的免责减分指标。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–364)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 空间流动概念谱系辨析
 > | 比较维度 | 流动漂泊（Transiency） | [[Student Mobility\|自愿学生流动（Student Mobility）]] | 移民/随迁教育（[[Migrant Education]]） |
 > |---|---|---|---|
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **学年中途跨校转学（Mid-School Year Movement）** 发生于完整学年授课周期的中途，直接中断教学进度、学生社交网络与教师评估连贯性。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
 > - **赤字[[Discourse\|话语]]病理化（Pathologized Deficit Discourse）** 政策文本与管理话语将频繁转学归咎为家庭“无法安稳度日”的心理或行为缺陷，掩盖宏观住房市场剥削。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 > - **学校绩效免责杠杆（Mitigating Accountability Lever）** 在高利害考核制度中，高流动率被学校用作免除自身教学质量低劣责任的法定挡箭牌。
@@ -149,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 流动漂泊核心命题归纳
 > | 命题类型 | 核心论断 | 机制与政策影响 | 代表文献 |
 > |---|---|---|---|
@@ -160,16 +150,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1960s–1980s — 城市贫困与流动性研究萌芽** 早期关注大都市贫民窟家庭的空间不稳定，初步将频繁搬迁与学业落后挂钩，但常受文化匮乏论支配。
 > - **1990s — [[Sedentarism|定居主义]][[Ideology Critique|意识形态批判]]** 人类学与文化研究学者（如 Clifford, 1997）指出“流亡者”被高尚化而“难民/流民”被污名化的双重道德标准，奠定空间与流动的[[Discourse|话语]]批判框架。
 > - **2001–2009 — [[No Child Left Behind Act 2001|NCLB]] 绩效问责与概念异化** 伴随《不让一个孩子掉队法案》出台，中途转学（Transiency）被正式固化在学校绩效报告卡中，引发实证学界（Rumberger, 2003; Kerbow et al., 2003）对官方免责借口与病理化话语的系统反思与[[Falsification|证伪]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 政策争议与理论张力
 >
@@ -184,8 +170,6 @@ updated: 2026-10-22
 > > - **空间正义与社会政策视角** 指出学生漂泊本质上是廉租房匮乏、士绅化租金暴涨和城市驱逐的副产物；若不解决住房保障与反贫困政策，单纯在教育内部修补无法根治中途转学。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

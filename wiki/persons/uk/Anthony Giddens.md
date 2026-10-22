@@ -80,11 +80,7 @@ created: 2026-08-14
 updated: 2026-10-22
 ---
 
-# Anthony Giddens
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代社会理论家，伦敦政治经济学院（LSE）前院长，剑桥大学国王学院终身研究员，英国上议院终身贵族；政体出版社（Polity Press）联合创始人。
@@ -113,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970s — [[Positivism|实证主义]]批判与[[Double Hermeneutic|双重诠释]]奠基阶段** 深入梳理古典社会学传统（涂尔干、韦伯、马克思），系统清理实证主义在社会科学中的方法论神话。
 >   - **代表著作** 《资本主义与现代社会理论》（1971）、《实证主义与社会学》（1975）、《社会学方法的新规则》（1976）、《社会理论的核心问题》（1979）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 7, 18)]]
@@ -131,9 +125,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 社会科学面对的决非外在于人类意志的机械客体，而是一个由具备反思意识、语言交往与自我监控能力的行动者共同编织的前诠释世界。自然科学处理的是无意识的主体-客体关系，社会科学则深嵌于交互理解的主体-主体关系之中；因此，社会理论与[[Qualitative Research|质性研究]]必然陷入[[Double Hermeneutic|双重诠释]]——研究者的[[Construct|理论构念]]叠合在参与者对生活世界的常识诠释之上，并且社会学理论会反向渗透回日常实践之中重构现实。在[[Ontology|本体论]]层面，社会结构并非外在压迫性的实体铁笼，而是行动者在日常实践中运用规则与资源的结构二重性体现：结构既是行动的媒介，也是行动的产物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 7, 18)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28, p. 538)]]
 
 > [!citation-card] [[Positivism|实证主义]]社会学的两大核心假定
@@ -148,9 +140,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 结构化理论通过结构二重性概念成功化解了长期困扰社会科学的能动性 vs 结构二元对立；在学习科学与微观教学论中，[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] [[Creativity|创造性]]将吉登斯的结构化理论迁移至微观科学探究课堂，提出[[Reflective Structuration|反思性结构化]]机制，阐明探究结构（认识框架、社会构型、实践方式与价值准则）并非外部强加的僵化脚本，而是师生在探究中协同构建的动态架构，并反过来中介后续的深层[[Epistemic Agency|认识能动性]]行使。
 > - **方法路径** [[Double Hermeneutic|双重诠释]]进入[[Qualitative Research|质性研究]]与教育[[Ethnography|民族志]]方法论，成为说明数据分析为何必然融合事实与解释、为何需要将主位（emic）与客位（etic）透镜辩证统合的[[Epistemology|认识论]]基石；同时为研究者的[[Reflexivity|反思性]]（反身性）实践提供了根本性辩护。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|(Cohen et al., 2011, Ch. 28, p. 538)]]
 > - **政策路径** 吉登斯倡导的第三条道路将教育定义为提升社会包容度与[[Competitiveness|国家竞争力]]的[[Social Impact Investing|社会投资]]支柱，直接引导了英国新工党政府的教育优先区、技能培训与[[Lifelong Learning|终身学习]]体制改革。
@@ -161,8 +151,6 @@ updated: 2026-10-22
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 7, 18)]] — 援引吉登斯批判[[Positivism|实证主义]]的方法论统一假定；[[Jürgen Habermas|哈贝马斯]]与双重诠释见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Ch. 2]]，[[Qualitative Validity|质性效度]]悖论见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]，质性写作见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Ch. 28]]。
 
 ---
-
-## 历史评价
 
 > [!citation-card] [[Jürgen Habermas|哈贝马斯]]论[[Double Hermeneutic|双重诠释学]]
 > [[Interpretive Paradigm|诠释范式]]本质上是一种双重诠释学：人们在一个已经被诠释过的世界中进行诠释与行动；研究者持有自身的价值观、视界与解释，而其研究对象亦在依据自身的理解而行动（Habermas, 1984, pp. 109–110; Giddens, 1976）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, Ch. 2, pp. 23–25)]]
@@ -179,8 +167,6 @@ updated: 2026-10-22
 > - **学术出版阵地** 政体出版社（Polity Press） — 1985 年联合创立的学术出版机构，推动当代社会学与人文学术思想的国际传播。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -57,11 +57,7 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# José Manuel Torres
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** [[José Manuel Torres|何塞·曼努埃尔·托雷斯]]（José Manuel Torres），智利公共政策与教育研究学者，[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（[[OECD]] CERI）顾问。
@@ -83,17 +79,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2022 — *Louder than words: Review and comparative analysis of [[Knowledge Mobilisation]] models*** 知识动员模型分类学综述。对学术界既有的 18 类知识动员模型展开[[Meta-analysis\|元分析]]，确立线性（推拉）、关系性（链接/中介/共同生产）与系统性三类[[Paradigm\|范式]]，提出因素-机制-干预-战略四层级概念体系。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 33–55)]]
 > - **2022 — *Facilitating [[Research Utilization\|Research Use]]: Scary barriers (and super mechanisms)*** 促进研究利用的阻碍与机制实证研究。基于 37 个教育系统的调研数据，构建五维度影响因素拓扑模型，实证对比政策制定与学校实践中的证据利用差异，揭示信息机制泛滥而系统战略缺失的治理困局。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 103–124)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > Torres 认为，教育研究的生产与应用并非单一的单向[[Technology Transfer\|技术转移]]，而是一个嵌入在复杂政治与组织生态中的多层次关系网络。证据转化的有效性取决于“因素-机制-干预-战略”四层级结构的协调：单一的“信息分发干预”（如建立文献库或发布政策简报）无法自动突破时间错配、制度动机匮乏与文化抗拒等深层系统阻碍；只有将个体认知、组织吸收容量与系统治理激励统整起来的“互动与链接机制”，才能实现持续的证据动员。
 
 > [!citation-card] [[Knowledge Mobilisation\|知识动员]]的层级架构与治理超越
@@ -103,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 整合公共卫生、[[Knowledge Mobilisation\|知识动员]]与教育政策领域的[[Analytic Framework\|分析框架]]，建立了贯通微观用户特征与宏观系统特征的五维度拓扑模型，澄清了机制（Mechanism）与干预（Intervention）在政策学上的概念区隔。
 > - **方法路径** 为 [[OECD]] 政策调查设计了多层级指标体系，将抽象的知识吸收与利用阻碍分解为可量化的实证观测项，形成了涵盖 37 个系统的跨国比较基线。
 > - **政策路径** 直接为参与 [[Centre for Educational Research and Innovation\|OECD CERI]] 项目的 29 个成员国教育决策部门提供了国家层面的证据生态诊断基准，推动威尔士、荷兰、挪威等国反思其研究资助与政策制定的中介机制设计。
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** [[Strengthening the Impact of Education Research Project]] — Torres 担任顾问并发表两章核心研究成果的专项国际研究计划。
 
 ---
-
-## 争议与批评
 
 > [!warning] 未解问题与边界
 > Torres 明确指出，其跨国实证调查主要依赖各教育部高级官员的自我报告数据（[[Self-report Bias]]），可能存在社会赞许性倾向与对本国机制实际执行效能的高估；同时，各教育系统对“研究”与“机制”的界定标准存在跨国语境差异，需要结合深入的质性田野与微观追踪进一步校验。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]

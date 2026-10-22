@@ -43,11 +43,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Russell J. Skiba
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家、学校心理学学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）咨询与教育心理学名誉教授，曾长期主持印第安纳大学“公平项目”（The Equity Project）。
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表性学术论著
 > - **2000 — *The Zero Tolerance Policy: An Overview*** 系统梳理了全美学校将刑法领域的“零容忍”机械移植入教育系统后的实践后果，首次指明严苛惩戒不仅无助于减少暴力，反而导致普通轻微违纪学生被大规模剥夺受教育权。
 > - **2002 — *The Color of Discipline: Sources of Racial and Gender Disproportionality in School Punishment*** 基于数十万样本的实证研究，证明在控制了违纪行为严重性与[[Socioeconomic Status|社会经济地位]]后，非裔学生因主观判定性质的违规（如“不敬”、“挑衅”）被停学处分的概率显著高于白人同侪，确凿论证了系统性制度偏见的存在。
@@ -78,8 +72,6 @@ updated: 2026-10-22
 > - **2016 — *Inequalities in School Discipline: Research and Recommended Solutions*** 总结数十年干预经验，系统提出结合多层级支持系统与恢复性正义的可替代执行路径。
 
 ---
-
-## 核心思想
 
 > [!claim] 核心学术主张
 > 学校排他性管教绝非中立的教学秩序维护工具，而是受隐性偏见驱动的结构性不平等生产机制。将违纪学生驱离教室不仅不能净化学习环境，反而会启动“排他性停学—学业中断—辍学—司法卷入”的“学校到监狱管道”。学者参与宏观立法的关键在于用不容置辩的统计因果证据拆解政策幻觉，并为立法者提供具有操作可行性的替代性干预法条。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]

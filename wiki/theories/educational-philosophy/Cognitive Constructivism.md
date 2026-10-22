@@ -53,13 +53,9 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Cognitive Constructivism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 个体内部知识表征的形成、图式重组以及认知发展的内在心理机制。
 > - **理论问题** 反驳[[Behaviorism|行为主义]]（Behaviorism）将人视为被动接受外部刺激的黑箱，确立个体在意义赋予、概念重组与知识主动建构中的主体能动性。
 > - **理论类型** 发生[[Epistemology|认识论]]与认知心理学解释[[Paradigm|范式]]。
@@ -70,15 +66,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Jean Piaget]] 在其 20 世纪中叶的系列奠基性著作（如 Piaget, 1952, *The Origins of Intelligence in Children*）中系统阐述发生[[Epistemology|认识论]]。
 > - **原初问题** 传统哲学认识论陷入[[Empiricism|经验论]]（知识完全源于外界感官输入）与先验论（知识预先存在于人类心智）的长期对立，无法[[Scientific Explanation|科学解释]]儿童思维如何从初级水平向逻辑理性阶段质跃。
 > - **理论资源与材料** 皮亚杰融合生物学适应思想与长期的儿童临床观察访谈，提出心智结构如同生物机体，通过与环境的相互作用寻求适应与认知平衡。
 > - **形成路径** 提出“图式（Schema）— 同化（Assimilation）— 顺应（Accommodation）— 平衡（Equilibration）”的认知发生机制，确立了知识由个体主动建构的核心教义。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演进与应用拓展
 > - **1970s–1980s — 个人认识论量化[[Paradigm|范式]]建立** Perry、Schommer 等学者将认知[[Constructivist Paradigm|建构主义]]拓展至大学生[[Epistemological Beliefs|认识论信念]]（Epistemic Beliefs）研究，假设个体的认知与认识论信念表现为头脑内部可提取的特质维度。
@@ -99,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜知识是个体基于先前经验主动组织的内部心理图式
 > **解释** 认知[[Constructivist Paradigm|建构主义]]认为，意义绝非外部现实的原样投射或被动烙印，而是认知主体借由已有的认知框架对感知输入进行选择、过滤、解释和归因的主动产物。学习的本质不是信息储存量的线性递增，而是认知结构的质性演化与重构。这一判断奠定了以学习者为中心的教学设计合法性。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 >
@@ -112,8 +102,6 @@ updated: 2026-10-22
 > **应用实例** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 在提炼高校国家战略学者发展的首要设计原则时强调，必须设置促发批判性自省的活动，引导学者审视和质疑对既有[[Paradigm|研究范式]]、传统单科作战或自身专业边界的惯性假设（Assumptions），以此破除学科盲区并驱动向跨学科协同研究顺应。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-framework] 认知[[Constructivist Paradigm|建构主义]][[Analytic Framework|分析框架]]
 >
@@ -132,8 +120,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能从个体展现出认知顺应直接推出其实际科研产出或跨学科项目必定落地；微观认知更新向宏观合作实践的转化还取决于组织制度支持与资源配置。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

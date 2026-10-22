@@ -78,7 +78,6 @@ citation_aliases:
   - "Marginson, 2025"
   - "Marginson (2025)"
 ---
-# Argument_Marginson_2025_ECNUROE
 
 > [!question]
 > 核心问题：在全球范围内，高等教育和知识的 空间制造 如何与不断变化的世界秩序和 [[Geopolitics|地缘政治]] 互动？
@@ -266,9 +265,7 @@ citation_aliases:
 > - 英美殖民顶峰时期控制或强烈影响了地球 95% 以上的区域(p. 15)
 
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “如果时间作为变迁而展开，那么空间则作为互动而展开”
 > ("If time unfolds as change then space unfolds as interaction")(Massey, 2005, p. 61, cited p. 3)
 

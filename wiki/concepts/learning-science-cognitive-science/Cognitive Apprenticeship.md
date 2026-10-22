@@ -44,11 +44,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Cognitive Apprenticeship
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知[[Apprenticeship|学徒制]]（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills\|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition\|元认知]]策略，引导新手在[[Scaffolding\|脚手架]]支持下逐步掌握独立解决[[Wicked Problem|劣构问题]]的专家能力。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知[[Apprenticeship|学徒制]]与传统学徒制及[[Direct Instruction\|直接讲授]]辨析
 > | 维度 | 认知学徒制（Cognitive Apprenticeship） | 传统手工艺学徒制（Traditional Craft） | 传统直接讲授（[[Direct Instruction]]） |
 > |---|---|---|---|
@@ -71,8 +65,6 @@ updated: 2026-10-22
 > | **指导机制** | 示范、辅导、支架渐退与自主探索 | 观察、模仿与纠偏 | 讲解、板书、被动练习与打分 |
 
 ---
-
-## 核心要素：六大教学方法（Six Instructional Methods）
 
 > [!feature] 认知[[Apprenticeship|学徒制]]的六大教学策略体系
 > - **示范（Modeling）** 导师在真实任务中执行解题过程，通过出声思考显性化其思维路径、假设审查与策略选择。
@@ -96,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论解释模型：检验真实情境、[[Dialogue in Education\|对话]]与导师指导的协同增益 | 真实性+对话+[[Mentorship\|导师制]]（A+D+M 复合干预） | $k = 19$ | $g+ = 0.57$ $[0.38, 0.77]$ | 显著优于单独真实性（$0.25$）、单独对话（$0.23$）及 A+D（$0.32$） | 证实情境示范、社会对话与导师[[Scaffolding\|脚手架]]三者协同的最优教学效能 |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 教学设计与规模化挑战
 > - **专家盲点（Expert [[Blind Spot in Observation|Blind Spot]]）** 资深导师的许多[[Higher-Order Thinking Skills\|高阶思维]]已高度自动化，难以完全意识到自身隐性推理步骤，导致示范不够详尽。

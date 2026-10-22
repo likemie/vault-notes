@@ -76,11 +76,7 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-# Performance Pay
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 绩效工资（亦称 merit pay、payment by results、performance-related pay，简称 PRP）指将教师薪资报酬与其测量的教学表现或学生测试产出直接挂钩的制度安排。其核心假设是外在经济激励能够驱动教学质量提升与学生学业改进（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 103]]）。然而在教育治理实践中，该制度常演化为新自由主义问责的核心工具，不仅因测量指标失真、破坏专业合作生态以及缺乏跨国实证支撑而饱受批判（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 116–118]]），更在严密设计的现场随机试验中因教师群体的强烈伦理抗议与内在专业动机冲突而遭遇招募流产（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 55]]）。
@@ -118,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教师薪酬分配模式对比
 > | 维度 | 绩效工资 (Performance Pay) | 资历与工龄工资 (Seniority Pay) | 专业胜任力阶梯 (Career Ladder) |
 > |---|---|---|---|
@@ -131,9 +125,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **外在经济激励导向（Extrinsic Financial Incentive）** 将奖金或薪级晋升与特定指标挂钩，假定金钱报酬能直接调节教师的工作投入度与行为取向。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, p. 103)]]
 > - **量化产出绑定（Metric-Linked Output）** 高度依赖学生标准化考试成绩、增值评估模型（VAM）或标准化[[Classroom Observation|课堂观察]]量表作为判定教学优劣的客观凭据。
 > - **管理层裁量权扩张（Managerial Discretion）** 打破国家或地方统一集资协商的薪酬阶梯，赋予校长与行政管理者依据考评结果自主奖惩的权力。
@@ -201,8 +193,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -211,8 +201,6 @@ updated: 2026-10-22
 > | **伦理排斥与试验流产** | 揭示现场随机化奖金设计遭遇的强烈伦理反弹、招募流产及教师内在利他动机的排异机制 | 循证干预可行性研究、教师薪酬实证试验、评估伦理 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 概念演变与政策历程
 > - **1860s — 维多利亚时期按成果付酬（Payment by Results）先声** 英国罗伯特·洛（Robert Lowe）教育法案确立最初的财政绩效挂钩制度，后因引发机械背诵、考场欺瞒与课程贫乏而在 1890 年代被废止。
@@ -224,8 +212,6 @@ updated: 2026-10-22
 > - **2017–2021 — 现场[[Randomised Controlled Trials\|随机对照试验]]的伦理破产与可行性反思** 英国 [[Education Endowment Foundation\|EEF]] 与 RAND 欧洲团队试图通过严格 RCT 验证绩效奖金辅导模式（[[Incentivised Pay and Coaching Trial\|ICR]] 试验），因教师群体对抛硬币分配奖金资格的强烈伦理抗议而遭遇招募流产，出具《关闭报告》，迫使循证机构反思外部经济激励在公立校园落地的方法学与伦理可行性边界。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -263,8 +249,6 @@ updated: 2026-10-22
 > 教学工作具有极高的情境依赖性与长周期累积效应，团队协同产出远大于个体简单相加。将复杂的专业劳作简化为单一个人计件考核，不仅违背教育系统运行规律，更易导致高素质教师流失与职业倦怠。同时，在教师专业认同强烈的公立体系中强行推进随机化经济奖惩，在伦理与可行性上存在不可逾越的鸿沟。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

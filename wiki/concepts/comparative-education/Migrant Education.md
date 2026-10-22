@@ -53,11 +53,7 @@ created: 2026-10-10
 updated: 2026-10-20
 ---
 
-# Migrant Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Migrant Children|流动儿童]]教育（Migrant Education）** 是指面向因家庭跨区域经济流动、季节性生计转移、内部务工或跨境身份未决而处于“流转/过渡状态”（in transit）的学龄群体所推行的制度安排、教学供给与公共政策。在比较教育学与批判社会学视角下，流动儿童教育不仅关涉弱势群体的受教育权保障，更是现代国家通过划分地理区域、登记人口身份与划定学校空间边界，对人口流动性（Mobility）实施识别、规制与筛选的核心机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 364–366)]]
@@ -110,9 +106,7 @@ graph TD
 
 ---
 
-## 理论解释与批判反思
-
-> [!citation-card|notitle]
+> [!citation-card] 理论解释与批判反思
 > **Popkewitz and Lindblad (2000) 论[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]在流动教育中的交织**
 > [[Thomas S. Popkewitz|托马斯·S·波普科维茨]]与斯韦克·林德布拉德指出，对弱势人口教育处境的考察必须统合“公平-参与问题式”与“[[Knowledge Questions|知识问题]]式”：
 > - **公平-参与维度** [[Migrant Children|流动儿童]]在国家治理中往往面临实体性的资源匮乏与准入剥夺（如公立学校门槛、拨款短缺、办学资质受限）；

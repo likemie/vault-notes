@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Strong Classroom Cohesion
-
 > [!metax] [班级凝聚力 · Strong classroom cohesion](https://www.visiblelearningmetax.com/influences/view/strong_classroom_cohesion)
 > 课堂 › 课堂氛围
 >

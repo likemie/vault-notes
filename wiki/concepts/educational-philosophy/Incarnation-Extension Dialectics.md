@@ -69,11 +69,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Incarnation-Extension Dialectics
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **具身-延展辩证法（Incarnation-Extension Dialectics，又称具身化-扩展辩证法）** 是丹麦哲学家与教育学家[[Steen Nepper Larsen|斯滕·内珀·拉森]]（Steen Nepper Larsen）在批判可见学习与“[[Learnification|学习化]]”[[Paradigm|范式]]时提出的[[Phenomenology|现象学]]概念框架。该框架将人类学习界定为 **身体具身化（Incarnation）** 与 **向外延展（Extension）** 之间的双向循环运动：学习者将所学内容（知识、技艺与价值）具身化入有意识与无意识、可见与不可见的身体存在构型，进而通过这种身心综合拓展其在世界之中存在（being-in-the-world）的感知维度、行动自由与理解广度。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 9–10)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 具身-延展辩证法与相关认知及教育哲学[[Paradigm|范式]]辨析
 > | 比较维度 | 具身-延展辩证法（Larsen） | 可见学习（Hattie） | 经典教化（[[Bildung]]） | 计算认知主义（Cognitivism） |
 > |---|---|---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]]; Fuchs (2018) | [[John Hattie\|Hattie]] (2009, 2012) | 洪堡; 赫尔巴特; 克拉夫基 | Fodor (1983); Newell and Simon (1972) |
 
 ---
-
-## 核心要素
 
 > [!feature] 具身-延展辩证法的核心维度与生成机制
 > - **具身化（Incarnation）：深层身心融入与存在转化** 学习者面对人类文化精髓或专业实践技艺时，有意识与无意识、显性与隐性地将其熔铸于自身的肉身存在之中。学习活动深入融入呼吸、姿态、肌肉记忆、直觉感知与行动习性，构成生命主体的默会感知库。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
@@ -199,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 具身-延展辩证法核心命题归纳
 > | 命题类型 | 核心指向 | 理论机制与批判焦点 | 代表学者 |
 > |---|---|---|---|
@@ -210,8 +200,6 @@ updated: 2026-10-22
 > | **教化复兴命题** | 借助具身现象学生成论从侧翼更新枯竭的学习话语，复兴关注全人自由的教化传统 | 克服唯心形而上学缺陷，重构心身统一的教育学主体 | [[Steen Nepper Larsen\|Larsen (2019)]]; [[Wolfgang Klafki\|Klafki (1998)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 具身认知与身体[[Phenomenology|现象学]]在教育哲学中的演进脉络
 > - **1945 年 — 梅洛-庞蒂《知觉现象学》奠定身体主体性** 法国哲学家莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）提出“活体身体”（le corps propre）作为人类体验世界的核心锚点，打破主客二元对立，奠定知觉现象学基石。
@@ -239,8 +227,6 @@ updated: 2026-10-22
 > > - **温和理性主义者** 认为高等理论、形式推理与计算机算法在相当程度上具备去身体化的独立自洽性；过分强调具身化可能低估人类在脱离情境的抽象形式化表征方面所展现的独特智力飞跃。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 具身认知与多模态学习机制实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

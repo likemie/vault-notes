@@ -48,11 +48,7 @@ created: 2026-10-18
 updated: 2026-10-22
 ---
 
-# Reinhart Koselleck
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名历史学家、历史哲学家，比勒费尔德大学历史学教授，比勒费尔德跨学科研究中心（ZiF）主任。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1959 — *Kritik und Krise: Eine Untersuchung der politischen Entstehung der bürgerlichen Welt*** 剖析[[Enlightenment|启蒙哲学]]如何通过将政治问题道德化，催生了资产阶级社会的自我意识与现代革命危机。
 > - **1972–1997 — *Geschichtliche Grundbegriffe (8 Bände)*** 系统考察上百个核心政治与社会概念在 1750–1850 年间发生的语义重构，确立概念作为历史变迁指示器与推动器的核心地位。
@@ -86,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 概念不仅是历史现实的指示器（Indicators），更是历史变迁的能动要素（Factors）；社会历史的重大转型必然伴随着核心概念的语义变迁。在教育与文化思想史中，教化（[[Bildung]]）构成了深层人类学意义上的主体免疫机制，超越了外在知识技术清单的机械习得——它是生命个体在社会制度化网络中，自觉抵制被教育机器矮化、工具化、愚弄和过度顺从的批判性实践。
 
 > [!citation-card] 概念史方法与教化作为批判性免疫
@@ -98,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法论路径** 开创的概念史（*Begriffsgeschichte*）成为跨越历史学、哲学、政治学与比较教育学的主流分析工具，深远影响了历史比较研究（[[Historical-Comparative Method]]）。
 > - **教育思想史应用** 斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）等[[Critical Pedagogy|批判教育学]]家以科塞勒克的概念史方法，系统考察了“学习”（Læring）在半个世纪内从反专制改革[[Discourse|话语]]向新自由主义规训润滑剂的语义演变。
 > - **教化[[Ontology|本体论]]重塑** 其对教化人类学与语义结构的论述，为抵御现代绩效治理与标准化考核提供了最具理论厚度的词源学武器。
@@ -116,8 +106,6 @@ updated: 2026-10-22
 > - **教育学应用学者** [[Steen Nepper Larsen]] — 借鉴其概念史与教化论著，展开对可见学习[[Paradigm|范式]]的[[Epistemology|认识论]]批判。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

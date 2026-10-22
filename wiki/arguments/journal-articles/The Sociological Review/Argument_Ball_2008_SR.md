@@ -56,7 +56,6 @@ citation_aliases:
   - "Ball, 2008"
   - "Ball (2008)"
 ---
-# Argument_Ball_2008_SR
 
 > [!info] [[Research Question\|研究问题]]
 > 英国教育社会学并不是一条连续积累知识的直线，而是由若干历史时刻、问题、人物、机构位置和理论语言共同构成的争斗[[Champ\|场域]]。关键问题是：教育社会学在解释不平等、学校知识和教育政策时，如何同时生产了治理家庭、学校和教师的知识目光？(pp.650-651)
@@ -119,9 +118,7 @@ citation_aliases:
 > ### 政策后果
 > - 教育社会学持续生产新的权力光学，使学校、教师和学生在知识与政策中被重新组织、重构和规训(p.665)。
 
-## 关键引用
-
-> [!quote|notitle] 关键引用
+> [!quote] 关键引用
 > “教育社会学创造了‘可能性的条件’和一种‘权力的光学’”
 > ("the sociology of education has created the 'conditions of possibility' and an 'optics of power'")(p.651)
 

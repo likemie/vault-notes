@@ -50,11 +50,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Disbursement-Driven Evaluation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **放贷驱动评估（Disbursement-Driven Evaluation）**，亦称**投入导向评估（Input-Biased Evaluation）**，是指在[[Multilateral Development Bank|多边开发银行]]（如[[World Bank|世界银行]]、[[Inter-American Development Bank|泛美开发银行]]）教育信贷体系中长期存在的一种组织制度异化现象：机构内部的绩效考核与声誉激励高度绑定于**贷款资金的拨付进度（Disbursement Rate）** 与**物理硬件投入的会计合规性**（如规定数量的校舍是否建成、预定指标的教师是否接受过轮训、教材与电脑设备是否采购分发到位）；而在项目验收与后续追踪中，系统性回避或形式化淡化最具根本意义的实质性问题——受训教师的教学实践是否真正改善、学生的[[Academic Achievement|学业表现]]与认知技能是否获得实质提升。这种机制使得多边机构在方案设计端展现出极高敏捷度的学术[[Absorptive Capacity|吸收能力]]，但在基层执行与评估端却数十年来深陷合规报销与“只数砖头不问育人”的非学习固化陷阱。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–472)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[International Education|国际教育]]援助中的评估[[Paradigm|范式]]二元对照
 > | 比较维度 | 放贷驱动评估（Input-Biased / Disbursement） | 学习成效驱动评估（Learning-Driven Impact） |
 > |:---|:---|:---|
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > | **对后续设计的影响** | 造成执行端数十年反复重复相同管理失误 | 理论上为政策迭代提供循证依据，实践中难以撼动放款惯性 |
 
 ---
-
-## 核心要素
 
 > [!feature] 放贷驱动评估的核心病理构件
 > - **拨付率作为单一终极硬约束（Disbursement as Ultimate Proxy）** 贷款官员和借款国执行团队唯一的实质性职业考核指标是能否在规定工期内将款项拨付完毕；未完成拨付是全系统唯一的实质性尴尬。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 470)]]

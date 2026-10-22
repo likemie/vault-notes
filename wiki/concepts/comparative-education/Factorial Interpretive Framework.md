@@ -79,8 +79,6 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Factorial Interpretive Framework
-
 ---
 
 ## 定义

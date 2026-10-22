@@ -66,11 +66,7 @@ created: 2026-07-26
 updated: 2026-10-22
 ---
 
-# Areas of Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **知识领域（Areas of Knowledge，AOK）** 广义上指[[Knowledge Production\|知识生产]]、信念辩护和日常论辩发生的具体领域，涵盖从个人品味、审美和价值判断到社会事实与物理事实的连续范围。狭义上，它是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）课程中用于比较主要学科与知识传统的课程框架。它考察各科如何界定对象、形成概念、接受证据、选择方法并建立判断标准，超越对学科事实数量的统计。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 314–319)]] [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 35–39)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > - **早期课程主题** 1960 年代至 1980 年代的材料已经系统比较学科知识形式，但原书没有把所有早期主题称为 AOK。它们构成后来框架的历史谱系，不能直接等同于某一版正式 AOK 清单。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] [[Theory of Knowledge\|TOK]] 课程中的相邻结构
 > | 维度 | 六学科组 | 知识领域 | [[Ways of Knowing\|认知方式]] | [[Knowledge Questions\|知识问题]] | [[Knowledge Framework\|知识框架]] |
@@ -276,8 +270,6 @@ updated: 2026-10-22
 > [!claim] 库恩（[[Deanna Kuhn]]）
 > **知识领域决定认知演进的非同步性** 个体从绝对论走向多元论，再走向评价论时，不会在所有领域同步变化。物理事实等领域的客观性较强，人们较晚承认其中含有主观建构；同样因为事实领域存在较明确的证据传统，当个体试图摆脱一切皆为意见的多元论时，又较容易在事实领域重建评价标准。价值观和审美领域较早接纳主观性，却更难从宽容多种意见前进到比较论证质量，大量成人因此停留在多元论。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 314, 318–326)]]
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表研究 |
 > |---|---|---|---|
@@ -289,8 +281,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Theory of Knowledge\|TOK]] 中知识领域框架的演变
 > - **1960 年　跨学科统整课程出现先行草图** 牛津课程改革报告反对把[[General Education\|通识教育]]等同于广泛记忆事实，建议在文理专业课程之外设置统整板块，讨论各学科的方法、限制和相互联系。皮特森后来把它视为 TOK 的第一份草图，并认为潜在[[Epistemology\|认识论]]比报告使用的方法论更准确。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 41–43)]]
 > - **1965 至 1967 年　六学科与共同反思课程结合** 六学科分布提供多种思维方式，法国哲学传统则经雷诺和德雷福斯转化为全体文凭学生必修的 TOK。领域比较开始承担显化学科知识形式、建立联系和支持迁移的功能。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 28–30)]] [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]
@@ -301,8 +291,6 @@ updated: 2026-10-22
 > - **2013 年　八项分类与[[Knowledge Framework\|知识框架]]形成系统结构** 指南加入宗教知识体系和本土知识体系，并规定五维知识框架，使学生能够用共同维度比较不同领域的范围、概念、方法、历史和个人知识关系。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] [[Domain Specificity\|领域特异性]]与跨领域迁移
 > - **领域特异性立场** 知识按照学科图式编码，各领域具有不同的方法、[[Evidence Standards\|证据标准]]和专业实践，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34, 38–39)]]
@@ -322,8 +310,6 @@ updated: 2026-10-22
 > 1960 年代材料、第四版总指南、1987 年附录、2007 年课程材料和 2013 年指南处于不同版本层次。早期的知识形式主题只能说明 AOK 的思想谱系；六项与八项分类应按各自版本解释。指南文本可以说明书面课程如何组织和评估 AOK，无法单独确定学生是否形成深入的领域知识或跨领域迁移能力。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]] [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31, 35–36)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 领域非同步性的主要结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

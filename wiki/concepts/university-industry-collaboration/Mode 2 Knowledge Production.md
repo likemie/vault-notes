@@ -35,13 +35,9 @@ created: 2026-06-05
 updated: 2026-10-22
 ---
 
-# Mode 2 Knowledge Production
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Mode 2 [[Knowledge Production\|知识生产]]（Mode 2 Knowledge Production）是 Gibbons et al.（1994）提出的区别于传统学术研究的跨学科知识生产模式。Mode 2 的核心特征是在科学共同体与其他利益相关者（产业、政府、社会）之间以跨学科方式生成知识，以实现对产业、政府和社会的实际影响（Cohen, Fernandes, & Godinho, 2025, p.348）。
 
 在 Mode 2 中，知识生产不再由学术共同体的内部议程单方面设定，而是通过各参与方利益的持续协商来推进——[[Research Question|研究问题]]的定义、方法的选取和成果的评价标准都由多方共同决定，而非仅由学术同行评议主导（Gibbons et al., 1994, cited in [[Argument_Cohen_2025_JTT|Cohen et al., 2025, p.348]]）。
@@ -51,9 +47,7 @@ updated: 2026-10-22
 
 ---
 
-## 与 Mode 1 的核心区分
-
-> [!abstract|notitle]
+> [!abstract] 与 Mode 1 的核心区分
 > Mode 1 与 Mode 2 的对立构成了[[Knowledge Production\|知识生产]]研究中最基本的[[Analytic Framework\|分析框架]]（Nightingale & Scott, 2007, cited in [[Argument_Cohen_2025_JTT\|Cohen et al., 2025, p.348]]）：
 
 | 维度 | Mode 1 | Mode 2 |
@@ -81,9 +75,7 @@ Mode 2 与 产学研发合作（UICs）高度一致：UIC 本身就是一种大�
 
 ---
 
-## 核心张力：社会有用性 vs 学术影响力
-
-> [!warning|notitle]
+> [!warning] 核心张力：社会有用性 vs 学术影响力
 > Nightingale & Scott（2007, cited in Cohen et al., 2025, p.348）指出 Mode 2 研究面临一个结构性矛盾：虽然更适合产生对社会有用的研究，但其影响因子往往低于 Mode 1 研究。这意味着参与 UIC（本质上是一种 Mode 2 实践）的大学研究者可能面临学术声誉的隐性惩罚。
 
 这一张力的背后是两种评价体系的错位：

@@ -37,11 +37,7 @@ created: 2026-08-02
 updated: 2026-10-22
 ---
 
-# Generative Themes（生成性主题）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **生成性主题（Generative Themes / *Temas Geradores*）**由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（*Pedagogy of the Oppressed*, 2000）中确立。它是[[Problem-Posing Education\|提问式教育]]的课程构建基石。指文化调查小组深入受教者社区提取的日常生存矛盾（如工资、房租、水资源、工作工具），这些主题能够引发探究好奇，并不断“生成”对社会压迫结构的深层批判意识。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 47, p. 61)]]
@@ -71,9 +67,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **生存根植性（Lived Groundedness）** 主题源自受教者切身社会与经济现实。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 > - **情感理智共鸣（Resonance）** 包含引发切身关切的矛盾（如“为什么烧砖者住不起砖房”）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 > - **结构生成力（Generative Capacity）** 从单一词汇向社会学与政治学分析动态扩展。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
@@ -103,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -118,8 +110,6 @@ updated: 2026-10-22
 > - **2009 — 课程批判应用** 达维什在学位论文中将其作为评估 IB 课程[[Active Learning\|主动学习]]真实性的分析工具。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 生成性主题依赖于前期深入的社区文化调查与横向互信，在时间极度紧迫或高度封闭的考试导向学校中实施门槛较高。

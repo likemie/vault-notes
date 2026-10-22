@@ -59,11 +59,7 @@ created: 2026-05-07
 updated: 2026-10-22
 ---
 
-# Horizon Europe Missions
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** [[EU|欧盟]]委员会（European Commission）于 2018 年委托玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）起草政策蓝图《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），并于 2021 年作为“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 2021–2027，总预算 955 亿欧元）框架计划的核心创新支柱正式立法颁布实施。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **制度位置** 继 Horizon 2020 之后欧盟第九代研究与创新框架计划的旗舰机制，标志着欧洲科技创新政策从被动修补[[Market Failure|市场失灵]]（Frame 1/2）全面跃迁为主动引领社会技术转型的[[Mission-Oriented Innovation Policy|使命导向型创新政策]]（Frame 3）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]；[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
 
 ---
-
-## 政策文本摘要与架构设计
 
 > [!claim] 政策核心
 > [[Horizon Europe|地平线欧洲]]战略使命（Horizon Europe Missions）打破了传统按孤立学科或部门分配研发经费的模式，通过设立五大跨部门、可衡量且有时限承诺的重大战略使命，将科学研究、监管立法与全社会公民参与深度绑定，旨在驱动全经济系统向可持续与包容性发展转型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–812)]]
@@ -102,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展时间线
-
 > [!timeline] [[Horizon Europe|地平线欧洲]]使命政策演进
 >
 > - **2018 年** [[EU|欧盟]]委员会正式发布[[Mariana Mazzucato|马祖卡托]]起草的《欧盟使命导向研究与创新》战略咨询报告，确立使命五大遴选标准与治理[[Paradigm|范式]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > - **2023 年** 欧盟完成使命实施中期评估，深化与“地平线欧洲”集群计划及区域发展基金的协同联动。
 
 ---
-
-## 运行机制与治理特征
 
 > [!actor-grid] 实施角色分工与组织架构
 > - **使命委员会（Mission Boards）** 由外部顶尖跨界专家组成，负责设定具体使命指标、进行公众协商与战略建议。
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > - **刚性法规与标准引领** 配合欧盟《绿色协议》出台限塑令、建筑节能标准与碳排放核算规制，为技术扩散消除市场壁垒。
 
 ---
-
-## 效果与学术争议
 
 > [!finding-cards] 关键创新与成效
 > - **打破学科与行政孤岛** 迫使交通、能源、环境等不同行政部门与多学科科研人员围绕单一社会使命开展联合资助与协同攻坚。

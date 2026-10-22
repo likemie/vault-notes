@@ -59,11 +59,7 @@ created: '2026-05-02'
 updated: 2026-10-22
 ---
 
-# Russian Translation of Visible Learning
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 2017年《[[Visible Learning|可见的学习]]》俄文译本的出版，标志着西方以[[Effect Size|效应量]]为中心的[[Evidence-Based Education|循证教育]][[Paradigm|范式]]正式切入俄罗斯基础教育改革议程，成为引发关于跨国[[Policy Borrowing|政策借用]]合法性、教师去专业化风险及制度陷阱的大讨论标志性学术事件。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229–232)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2017 年 — 译本问世与初步热议** 莫斯科“国民教育”出版社推出 Hattie 专著俄文版 *Vidimoe obuchenie*（496页）。该书迅速在俄罗斯教育政策与实践圈传播，各大师资培训机构与出版社频繁组织面向中小学骨干教师的网络研讨会（webinars），将其包装为提升[[School Effectiveness|学校效能]]的“科学指南”。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 >   - 2017-09 E.A. Sokolova 发表论文，率先从正面将 Hattie 的指标与 FSES 中关于培养学童[[Critical Thinking|批判性思维]]的条款挂钩。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **2019 年 — 批判性反思与政策拒斥结论** 针对俄语学界对 Hattie 理论的单向赞美与批评声音的完全缺失，M.A. Golovchin 在《经济与社会变迁》发表系统检验。通过对 133 项正值[[Effect Size|效应量]]的离散度测算（变差系数高达 56.87%）与对教师报表负担的实证调查，正式向决策层提出“明确拒绝采纳 Hattie 方法”的政策结论。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 238–241)]]
 
 ---
-
-## 关键文件、法案与历史宣言
 
 > [!citation-card] 俄文译本出版信息
 > [[John Hattie|约翰·哈蒂]]著，国民教育出版社2017年版《[[Visible Learning|可见的学习]]：对800多项[[Academic Achievement|学业成就]][[Meta-analysis|元分析]]的综合》。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 > *"The implementation of Hattie's ideas within the framework of Russian educational policy is inapplicable, since it can cause negative consequences and extend the range of new problems (in particular, the increase in the bureaucratic functionality of the teaching profession in the pursuit of 'school leadership'). ... even a slight increase in 'bureaucratic pressure' can become a catalyst for protest activity of teachers of schools in the form of mass 'withdrawal from the profession'."*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 译著引进方** 启蒙出版集团及国民教育出版社、N.A. Borisenko、I.V. Vachkov、E.A. Sokolova — 致力于将西方[[Evidence-Based Education|循证教育]]标尺作为现代化工具，论证俄罗斯 FSES 标准的科学性与先进性。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 237)]]
@@ -126,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法防范** 阻止了俄联邦盲目将 $d=0.40$ 等指标机械载入国家督导考核体系，警示决策层避免重蹈澳大利亚过度指标化的覆辙。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 > - **思想[[Paradigm|范式]]变迁** 打破了俄罗斯教育界对西方证据“盲目崇拜”的信息差，促成从单纯概念引介转向对[[Meta-meta-analysis|二阶元分析]]统计底层与[[Ecological Validity|生态效度]]的审慎反思。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 229, 238)]]
@@ -145,8 +133,6 @@ updated: 2026-10-22
 > - **>25%** 沃洛格达州打算近期转行离职的教师中，将行政文书与官僚化压力作为首要退职动因的比例。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

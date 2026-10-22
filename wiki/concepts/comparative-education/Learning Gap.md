@@ -44,8 +44,6 @@ created: '2026-05-22'
 updated: 2026-10-22
 ---
 
-# Learning Gap
-
 > [!info] 定义
 > "学习差距"（learning gap）是 [[Stevenson and Stigler\|Harold Stevenson]] 和 James Stigler 在 1992 年同名著作中提出的概念，指美国（以欧裔美国人为主）与东亚（日本、台湾、中国）在解释儿童[[Academic Achievement\|学业成就]]时的根本归因差异：美国儿童、家长和教师以**能力（ability）** 解释成就，而东亚对应群体以**努力（effort）** 解释成就([[Argument_Li_2012_Cambridge\|Li, 2012, pp.78-79]])。
 

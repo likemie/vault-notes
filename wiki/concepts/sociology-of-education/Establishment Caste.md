@@ -36,11 +36,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Establishment Caste
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 统治集团种姓化（Establishment Caste / Degeneration of Aristocracy into Caste）是由社会学家[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]（E. Digby Baltzell）提出的政治社会学概念，指任何共和国赖以维系领导力的精英集团（Aristocracy of Talent），如果丧失了向全社会优秀人才开放的流通机制，就会不可避免地蜕变为以血缘、文凭、圈子或同质意识形态为壁垒的封闭“种姓”（Caste）；在这种状态下，集团成员将绝大部分精力用于守护职权附属的特权与利益，而非推进公共组织与国家的目标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 78–79)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > **跨部门种姓壁垒的清算紧迫性** 从联邦官僚体系、国际机构到硅谷科技大厂内部形成的隐性种姓结构，正在系统性窒息西方世界的创新能力与防卫活力；唯有在制度上坚决瓦解这些闭关自守的圈子壁垒，现代机构才具有长久存续的希望。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 79)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

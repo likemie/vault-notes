@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Robin Dunbar
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国人类学家、演化心理学家，牛津大学实验心理学系进化心理学荣休教授，英国国家学术院院士（Fellow of the British Academy, FBA）。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1993 — *Co-evolution of Neocortex Size, Group Size, and Language in Humans*** 系统论证灵长类大脑容量与群体规模的定量对应关系，提出 150 人认知上限。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **1996 — *Grooming, Gossip, and the Evolution of Language*** 探讨人类语言如何替代灵长类生理梳毛成为维系大规模社会网络的演化工具。
@@ -77,9 +71,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类大脑新皮质容量对个体能够维持的双向稳定社交关系施加了约 150 人的生物学上限；超出这一熟人圈规模的超大规模人类组织必须依赖语言、神话叙事与制度化象征来维持凝聚力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Dunbar, 1993; Karp & Zamiska, 2025, pp. 190–191)]]
 
 > [!citation-card] 语言作为社交梳毛的演化替代
@@ -89,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **认知神经科学与演化心理学路径** 奠定了社会脑假说，成为解释人类社交网络分层结构的标准分析[[Paradigm|范式]]。
 > - **组织管理与军事编制路径** 深刻影响了现代敏捷组织的小团队裂变管理以及现代军队战术编制设计。
 > - **国家建构与政治哲学路径** 卡普与扎米斯卡借用[[Dunbar's Number|邓巴数]]论证，国家认同与共享文化叙事是克服生物学认知上限、实现现代科技与防卫协同的生命线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **任职机构** 牛津大学实验心理学系、利物浦大学进化心理学系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 演化常数的普适性之争
 >

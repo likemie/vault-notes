@@ -57,11 +57,7 @@ created: 2026-08-21
 updated: 2026-10-22
 ---
 
-# Multitrait-Multimethod Matrix
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **多特质-多方法矩阵（Multitrait-[[Multimethod Research\|multimethod]] Matrix, MTMM）** 是由 Donald T. Campbell 与 Donald W. Fiske 于 1959 年创立的心理测量与[[Construct Validity\|构念效度]]检验方法，指通过同时测量至少两种不同的目标特质（Traits）并分别采用至少两种相互独立的方法（Methods），构建出一套包含全部成对相关系数的对称矩阵，以系统分离特质方差、方法方差与随机误差方差，从而全面确证测量工具的[[Convergent and Discriminant Validity\|收敛效度]]（Convergent Validity）与判别效度（Discriminant Validity）([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, pp. 176–178]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持[[Postpositivism\|后实证主义]]（Postpositivism）与[[Falsification\|证伪主义]]；主张任何单一测量方法都不可避免地带有该方法特有的系统性偏差（方法方差），客观[[Construct\|构念]]的真实性只能通过不同独立方法的交叉收敛来逼近。
 > - **研究者角色** 要求研究者在测量设计阶段主动引入不同性质的独立测量途径（如自陈量表 + 行为客观测验 + 专家盲评），并预先设立排他性的竞争特质。
@@ -95,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] MTMM 分析标准六步法
 > 1. **选取目标特质与对照特质** 确定至少两个具有清晰理论界限的特质（例如 $T_1$ 学习动机，$T_2$ 焦虑水平）。
 > 2. **选取相互独立的方法** 确定至少两种测量介质或独立评价主体（例如 $M_1$ 学生自陈量表，$M_2$ 教师观察量规）。
@@ -106,8 +98,6 @@ updated: 2026-10-22
 > 6. **构建 [[Confirmatory Factor Analysis\|CFA]] 结构方程验证** 建立特质因子（Trait Factors）与方法因子（Method Factors）正交模型，检验参数显著性。
 
 ---
-
-### 量化方法模块
 
 > [!framework-table] 经典 MTMM 矩阵结构与模块划分（2 Traits × 2 Methods 示范）
 > | 测量组合 | $M_1: T_1$ | $M_1: T_2$ | $M_2: T_1$ | $M_2: T_2$ | 矩阵区块性质与解读 |
@@ -172,16 +162,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 心理与教育量表效度验证、多主体评价系统（学生/教师/家长）、教育评估工具跨平台一致性检验、以及循证清算中心跨机构评级收敛性元评估([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, p. 176]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
 > - **谨慎使用** 当测量方法之间并非真正独立（例如两种方法均为纸笔自陈[[Questionnaire\|问卷]]）时，方法方差会严重膨胀并伪装成特质相关。
 > - **不适合使用** 仅包含单一特质或单一方法的简单测验；探索性研究初期缺乏清晰[[Construct\|理论构念]]界定时。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **对角线启发式判别的主观性** 传统 Campbell-Fiske 相关比较缺乏严格的概率推断检验，容易在临界值处产生裁量分歧（已被现代 [[Confirmatory Factor Analysis\|CFA]] [[Causal Modeling\|结构方程建模]]部分弥补）。
@@ -200,8 +186,6 @@ updated: 2026-10-22
 > | [[Pearson Product-Moment Correlation]] | 基础技术 | MTMM 矩阵的底层基础单元为[[Variable\|变量]]间的成对积差相关系数。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性将 MTMM 矩阵扩展至宏观教育证据清算体系，把 10 个独立清算中心视为不同“评价方法（Methods）”，实证检验 1,359 个项目在跨机构评级上的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。

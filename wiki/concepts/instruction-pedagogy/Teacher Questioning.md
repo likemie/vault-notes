@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Questioning
-
 > [!metax] [提问 · Questioning](https://www.visiblelearningmetax.com/influences/view/questioning)
 > 教学策略 › 反馈
 >

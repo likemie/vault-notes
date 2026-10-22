@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Intelligence and Achievement
-
 > [!metax] [智力与学业成就 · Intelligence and achievement](https://www.visiblelearningmetax.com/influences/view/intelligence_and_achievement)
 > 学生 › 先备知识与背景
 >

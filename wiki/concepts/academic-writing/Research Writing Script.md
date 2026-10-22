@@ -40,11 +40,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Script (Research Writing)
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 在研究写作中，脚本（script）是一种填空式模板工具，包含某一类型学术陈述的核心词语、逻辑结构和关键要素，同时为研究者预留填入自身项目具体信息的空间。[[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p.127)]] 将其定义为："A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."
 
 脚本的作用不在于提供完美的写作范本，而在于帮助研究者系统性地覆盖某一陈述类型所需的所有必要要素。它降低遗漏关键组件的风险，也为初学者提供一个可直接操作的写作起点。
@@ -52,15 +48,11 @@ updated: 2026-10-22
 > [!quote|notitle]
 > "Here is a script helpful in drafting a complete statement. A script contains the major words and ideas of a statement and provides space for researchers to insert their project information."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.127]])
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **脚本 vs 模板（Template）** 脚本比模板更结构化——模板通常只给出标题和章节框架，脚本则将句子级别的语法结构和关键术语一并提供，研究者只需填入空缺部分。脚本是"可填空的句子"，模板是"可填空的章节"。
 
 > [!example|notitle]
 > **脚本 vs 范例（Example）** 范例是已完成的、来自具体研究的实际文本，展示的是最终成果的样子；脚本是生成文本的工具，展示的是搭建过程的"骨架"。Creswell & Creswell 的教科书同时提供脚本和范例，两者配合使用。
-
-## 核心要素
 
 > [!abstract] 脚本的设计特征
 

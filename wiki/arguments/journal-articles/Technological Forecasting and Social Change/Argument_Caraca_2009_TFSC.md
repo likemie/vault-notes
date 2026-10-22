@@ -69,7 +69,6 @@ journal: Technological Forecasting and Social Change
 book_title: ""
 issuing_organization: ""
 ---
-# Argument_Caraca_2009_TFSC
 
 ---
 
@@ -87,8 +86,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -99,8 +96,6 @@ issuing_organization: ""
 > | **[[Systems of Innovation]]**<br>Systems of Innovation<br>Freeman (2002); Lundvall et al. (2002); Malerba (2002); Asheim and Gertler (2004) | 部门创新系统（Malerba, 2002）和[[Regional Innovation System\|区域创新系统]]（Asheim & Gertler, 2004）对应企业创新过程的微观与行业环境，[[National Innovation System\|国家创新系统]]（Freeman, 2002; Lundvall et al., 2002）对应宏观制度环境。多通道互动学习模型的微观和宏观环境概念整合了上述多层分析，并进一步强调了各层次之间的共同演化和可能的制度错配 (p.865)。 |
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -115,8 +110,6 @@ issuing_organization: ""
 > | **模型并存现实** | 不同模型在现实与学者心目中并存，所提模型不是一个替代性新阶段，而是一个更完整的分析网格 (p.862, footnote 2)。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -282,8 +275,6 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **科学角色的三重转变(pp.861–866)** 经济影响泛化（供给端营销管理研究、需求端低技术产业）；主导地位消解（自然科学尤其失去自主主导因素地位）；存在方式改变（从独立起点变为贯穿全过程的遍布性要素）。
 > 2. **三种模型的递进与三类知识池(pp.862–866)** 线性模型预设单向因果并主导战后政策想象。[[Chain-linked Model\|链式模型]]突破线性预设但遗漏组织维度。[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]加入螺旋学习循环、三类知识池和界面概念，后两类知识（组织治理、营销与顾客行为）在传统政策中被低估但在 R 即 D 转变中日益重要。
@@ -295,8 +286,6 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 > - **2% + 1%** [[EU|欧盟]]巴塞罗那目标，私人 R&D 占 GDP 2%、公共 R&D 占 GDP 1%。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 创新倒逼科学创造
 > 在一幅完整的图景中，我们必须承认不仅创新依赖于科学，而且创新的需求往往迫使科学被创造出来（Kline & Rosenberg, 1986, p.287, 引自 p.863）。
@@ -324,8 +313,6 @@ Kline and Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性�
 > For all the commercial temptations, however, basic research – the discovery of new knowledge – must remain top priority for any research university.
 
 ---
-
-## 自述局限
 
 > [!warning] 概念简报的篇幅与[[Research Scope\|研究范围]]
 > - [[Multi-channel Interactive Learning Model\|多通道互动学习模型]]是复杂的，仅能给出简要概述 (p.866)。模型各组成部分——螺旋学习循环、三类知识池、界面概念、双层创新环境——均值得进一步独立研究和实证检验。

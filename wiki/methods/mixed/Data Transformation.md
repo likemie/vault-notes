@@ -37,18 +37,12 @@ created: 2026-06-14
 updated: 2026-10-16
 ---
 
-# Data Transformation
-
-## 定义
-
 > [!def] 数据转换（Data Transformation / Data [[Institutional Conversion|conversion]]）
 > [[Mixed Methods Research\|混合方法研究]]中将一种类型的数据转换为另一种类型的策略。Teddlie and Tashakkori (2009, p. 27) 将其称为"数据转换"（data conversion / transformation）：质性数据被"量化"（quantitized）——转换为数字（通常为名义或序数尺度）；量化数据被"质化"（qualitized）——转换为叙事，然后用质性数据分析程序处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 在 [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 的框架中，数据转换是[[Convergent Design|聚敛式设计]]（Convergent Design）中三种整合分析方式之一。具体操作是将质性主题或编码进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]]）。
 
 ---
-
-## 两种转换方向
 
 > [!line-a] 量化（Quantitizing）
 > 将质性数据转换为数值形式。例如给特定回应、编码或主题赋予**频率计数（frequency counts）** 以建立规律性或特殊性（Sandelowski et al., 2009, p. 210），或赋予**强度[[Rating Scale\|评定量表]]（rating scales of intensity, Teddlie and Tashakkori, 2009, p. 269）**。Miles and Huberman (1994) 是这一方法的早期倡导者。Bazeley (2006, p. 68) 报告了可辅助研究者的软件（如 [[Qualitative Computer Software\|QDAS]]），例如用于频率计数。
@@ -79,14 +73,10 @@ updated: 2026-10-16
 
 ---
 
-## 经典示例
-
 > [!example] 100 个人认为学校像监狱——统计背后的故事
 > 研究者发现 100 个人认为学校像监狱。其中 40 人认为因为限制自由和严厉纪律，20 人认为因为过度拥挤，15 人认为因为食物糟糕，10 人认为因为暴力和欺凌，10 人认为因为教人偷窃和犯罪，5 人认为因为学生只要遵守规则就能过轻松生活。[[Qualitative Interview\|质性访谈]]中的叙事理由被"**量化**"为频率计数——一个简单的统计数字（100 人）背后，质性数据揭示了完全不同的、有时甚至相互矛盾的理由构成（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 ---
-
-## 适用场景与局限
 
 > [!success] 适用场景
 > - 适合需要将质性发现纳入统一量化[[Analytic Framework\|分析框架]]的研究情境

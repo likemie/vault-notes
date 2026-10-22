@@ -36,8 +36,6 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# ROI Initiative for Unleashing American Innovation
-
 ---
 
 > [!info] 背景

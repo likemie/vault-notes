@@ -64,11 +64,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Organisation for European Economic Co-operation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 欧洲经济合作组织（Organisation for European Economic Co-operation, OEEC；简称欧洲[[OECD|经合组织]]）是 1948 年为协调美国《马歇尔计划》（Marshall Plan）战后欧洲重建援助而建立的政府间多边经济协调实体，也是 1961 年改组成立的[[OECD|经济合作与发展组织]]（OECD）的制度前身。该机构在冷战格局下被学者定性为“经济版 NATO”，承担着以跨国经济一体化强化西方阵营内部凝聚力的核心地缘功能；在其组织章程中，教育虽未获得独立的行政部门，但通过早期[[Human Capital Theory|人力资本]]逻辑被赋予服务于经济生产力与科技人力储备的“推论性职能”（inferred role），成为西方多边经济治理吸纳教育议程的历史起点。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
@@ -81,16 +77,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1948–1956 — 战后物资协调与“经济版 NATO”奠基期** 在美国国务卿马歇尔倡导下成立，核心任务聚焦于跨国宏观收支协调、关税削减与生产力提升。德国学者莱姆格鲁伯（Leimgruber）与施梅尔策尔（Schmelzer）将其定性为“经济版 NATO”——以多边经济合作替代直接的意识形态同盟，夯实资本主义西欧的物质防线。在此阶段，组织内完全没有涉足正规学校教育与文化事务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **1957–1960 — [[Sputnik Shock 1957|斯普特尼克冲击]]、科技人力办公室与全球[[Development Turn in Comparative Education|发展转向]]** 1957 年苏联成功发射首颗人造卫星（[[Sputnik Shock 1957|Sputnik]] 冲击），西方世界陷入深重的技术落后焦虑。OEEC 设立科技人力办公室（Office for Scientific and Technical Personnel），将测度欧美科技差距确立为核心议题；随着欧洲本土重建任务基本达成，机构职能开始由欧洲重建向第三世界“发展援助”与教育规划扩散（Beech, 2006b；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 344–345]]）；1960 年主持召开[[1960 Bellagio Conference|贝拉吉奥会议]]，启动[[Mediterranean Regional Project|地中海区域项目]]，确立以[[Manpower Requirements Approach|人力需求法]]为核心的教育规划实验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **1961 — 跨大西洋改组与 [[OECD]] 的诞生** 随着欧洲经济重建完成，1960 年 12 月签署《经济合作与发展组织公约》，美加两国作为完全成员加入，OEEC 于 1961 年 9 月 30 日正式终结并改组为跨大西洋的 [[OECD]]。原 OEEC 的科技人力与教育事务被整编入 OECD 早期架构，为后续设立教育委员会及 [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）奠定了组织基座。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（部长理事会 / 执行委员会）** 理事会由各成员国外交或财政部长组成，实行协商一致原则；执行委员会由少数核心大国常驻代表主持，处理日常援助审议。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 > - **[[Education-for-Mandates|使命性教育嵌入]]（Education-for-Mandates）** 教育从不作为目的本身被探讨，而是严格锚定于战后复兴与冷战军备竞赛的宏观战略目标。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **复兴协调成果** 1948–1952 年马歇尔计划 130 亿美元外援分配执行方案；《欧洲支付同盟》（EPU）清算规约。
@@ -125,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **历史坐标** 1948–1961 年间主导了二战后西欧整体宏观经济重建，推动西欧工业生产率超越战前水平逾 30%。
 > - **制度遗传** 1961 年无缝转变为[[OECD|经合组织]]（OECD），其科技人力办公室直接催生了 OECD 的教育委员会与 1968 年[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）。
@@ -137,8 +125,6 @@ updated: 2026-10-22
 > - **教育范式转移** 终结了传统欧洲将中等与高等教育仅视为博雅人文学科与阶级声望符号的狭隘认知，强力开启了以科学、数学与工程为导向的战后大众教育现代化扩张。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

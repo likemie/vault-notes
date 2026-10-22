@@ -42,11 +42,7 @@ created: 2026-10-18
 updated: 2026-10-22
 ---
 
-# Participatory Sense-Making
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 参与式意义建构（Participatory Sense-Making，亦称生成主体间性，Enactive Intersubjectivity）由身体[[Phenomenology|现象学]]家[[Thomas Fuchs|托马斯·福克斯]]（[[Thomas Fuchs]]）与认知哲学家汉娜·德耶格尔（Hanne De Jaegher）于 2009 年共同提出。该理论立足 4E 具身认知科学（Embodied, Embedded, Enacted, Extended）与身体现象学，主张人类主体间的沟通、理解与意义创生源于具身行动者在面对面的实时社会交互中，通过身体动作、目光、声调与姿态的动力学协调与相互具身（Mutual Incorporation），共同生成、维系并调节意义的自组织[[Emergence|涌现]]过程，突破了彼此孤立大脑内部的心智计算模型。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 意义建构理论横向对比
 > | 维度 | 参与式意义建构（Participatory Sense-Making） | 计算主义[[Theory of Mind\|心智理论]]（Theory of Mind） | [[Constructivist Paradigm\|社会建构主义]]（Social Constructivism） |
 > |---|---|---|---|
@@ -80,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **自组织的交互动力学（Interaction Autonomy）** 两个行动者之间的互动一旦建立，互动过程本身便获得一定的自治性，持续引导并约束双方的后续行动，无法被单方意志强行规制。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
 > - **感知运动协调（Coordination Dynamics）** 包括目光交汇、身体微小位移、语调呼吸同步等不同尺度的动态协调，构成理解生成的物理与[[Phenomenology|现象学]]基石。
 > - **相互具身（Mutual Incorporation）** 在深度互动中，他人的身体动作直接进入个体的感知视野并引起具身共振，对方的身体成为自身意向体验延伸的一部分。

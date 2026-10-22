@@ -44,11 +44,7 @@ created: 2026-09-07
 updated: 2026-10-16
 ---
 
-# Vernon Mallinson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、比较文学家，英国雷丁大学（University of Reading）比较教育学讲师、教授，战后英国比较教育学会（[[Comparative Education Society in Europe\|CESE]] 英国分会）骨干成员。
@@ -62,8 +58,6 @@ updated: 2026-10-16
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与学术节点
 > - **1910 年** 出生于英国约克郡。
 > - **1931 年** 毕业于英国利兹大学（University of Leeds），获现代语言文学学士学位；随后在比利时和法国的中等学校担任英语教师，对西欧语言与文化制度产生深厚兴趣。
@@ -75,8 +69,6 @@ updated: 2026-10-16
 > - **2005 年** 在英国逝世，享年 95 岁。
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 主要著作
 > - **1957/1960/1975 — *An Introduction to the Study of Comparative Education*** 战后英语世界流传最广的比较教育学教科书之一；系统阐述地理、经济、历史、宗教与政治诸因素，核心聚焦于“[[National Character\|国民性格]]”对英国、法国、德国、美国与俄罗斯教育体系的决定性塑造机制。
@@ -97,8 +89,6 @@ updated: 2026-10-16
 
 ---
 
-## 学术争议与批判反思
-
 > [!debates] 学术争议
 >
 > > [!axis] 文化深层解释 vs 循环论证与本质主义偏误
@@ -106,8 +96,6 @@ updated: 2026-10-16
 > > - **历史-文化传统辩护者** 则认为，国民性格概念捕捉到了跨代际文化积淀与非正式制度惯性（即当代的“[[Cultural Capital\|文化资本]]与隐性规范”），对抵御冷战时期盲目跨国技术移植具有不可磨灭的历史警戒价值。
 
 ---
-
-## 关系网络
 
 > [!person-network] 学术谱系与关联网络
 > - **思想承袭** 深受[[Michael Sadler\|迈克尔·萨德勒]]（[[Michael Sadler]]）“校外无形力量”与[[Nicholas Hans\|尼古拉斯·汉斯]]（[[Nicholas Hans]]）“[[National Character\|国民性格]]外在表征”理论的直接启发；

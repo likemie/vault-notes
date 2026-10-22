@@ -34,10 +34,6 @@ created: 2026-06-19
 updated: 2026-10-16
 ---
 
-# Ethics Debriefing
-
-## 定义
-
 > [!def] 核心定义
 > Ethics debriefing 是在涉及欺骗的研究结束或研究阶段结束后，向参与者解释研究真实目的、说明所使用欺骗的原因并帮助参与者处理研究经历的程序。它是抵消欺骗研究负面效果的主要方式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 112–113]]）。
 
@@ -47,8 +43,6 @@ updated: 2026-10-16
 > - **边界** Ethics debriefing 不同于[[Qualitative Research\|质性研究]]中的 [[Peer Debriefing]]（同行审查程序）。Ethics debriefing 面向研究参与者，目的是伦理修复；Peer debriefing 面向研究者同行，目的是增强研究可[[Reliability\|信度]]。
 
 ---
-
-## 核心要素
 
 > [!feature] Debriefing 的四项基本内容
 > Cooper and Schindler (2001, p. 116) 列出 debriefing 应包括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 112]]）：
@@ -67,8 +61,6 @@ updated: 2026-10-16
 
 ---
 
-## 围绕概念形成的命题
-
 > [!claim] Debriefing 是参与者伦理权利的一部分
 > Kelman (1967) 将 debriefing 作为处理欺骗问题的三种方式之一（方式二：抵消和最小化欺骗的负面效果）。其底层原则是不伤害（[[Non-maleficence and Beneficence in Research\|non-maleficence]]）：受试者不应以比来时更大的焦虑或更低的自尊离开。理想情况下，受试者应当被经历所丰富，带着学到了一些东西的感觉离开（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 112]]）。
 
@@ -77,16 +69,12 @@ updated: 2026-10-16
 
 ---
 
-## 操作注意事项
-
 > [!tip] Debriefing 的操作要点
 > - 反馈必须保持不可侵犯——在任何情况下都不应给参与者虚假反馈或误导他们以为在接受反馈而实际上在引入另一个实验操纵
 > - 在 debriefing 之前研究阶段尚未结束——研究者不得在研究阶段内进行 debriefing 后又引入新的操纵
 > - 对特别脆弱的参与者，可能需要安排跟进的心理学或医疗关注
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] Ethics Debriefing vs [[Peer Debriefing]]
 > | 维度 | Ethics Debriefing | Peer Debriefing |

@@ -59,13 +59,9 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Academic Capitalism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 高等教育机构与学术人员日益卷入市场和类市场活动（专利商业化、[[University-Industry Collaboration|产学合作]]、竞争性项目拨款、学生贷款金融化与软钱雇佣），学术生产与资本积累逻辑深度绑定的制度转型过程。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–798)]]
 > - **理论问题** 回应传统大学自治论与功能主义高等教育观对高校组织转型的解释盲区，破除将大学视为远离市场与政治力量象牙塔的浪漫假象。
 > - **理论类型** 批判性制度政治经济学理论与高等教育组织变迁[[Analytic Framework|分析框架]]。
@@ -76,15 +72,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Sheila Slaughter|希拉·斯劳特]]与拉里·莱斯利（Sheila Slaughter & Larry Leslie, 1997）在《学术资本主义：政治、政策与[[Entrepreneurial University|创业型大学]]》（*Academic Capitalism: Politics, Policies, and the Entrepreneurial University*）中首次提出，后由斯劳特与罗德斯（Slaughter & Gary Rhoades, 2004）在《学术资本主义与新经济》中系统扩展为涵盖学术资本主义知识体制（academic capitalism knowledge regime）的分析体系。
 > - **原初问题** 面对 1980 年代以来英美等国政府紧缩经常性高教财政拨款，大学与学者为何不仅被动应对，反而主动发起一系列商业化与市场竞争行为。
 > - **理论资源与材料** 吸收了资源[[Dependency Theory|依附理论]]（Resource Dependence Theory）、马克思主义政治经济学积累危机理论以及皮埃尔·布尔迪厄的[[Champ|场域]]与资本理论。
 > - **形成路径** 从追踪美、英、澳、加四国高校教师获取竞争性研究基金、申请专利与提供商业咨询的微观行动出发，提炼出高等教育机构如何从“公共品知识体制”向“学术资本主义知识体制”整体迁移的制度化解释。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演进脉络
 > - **1997 — 原始奠基版本（Slaughter & Leslie）** 聚焦高校面临国家财政削减时的应对策略，界定院校和教师为获取外部竞争性资金而采取的市场和类市场行为。
@@ -107,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜大学组织演化为以间接成本与软钱为纽带的商场化租赁平台
 > **解释** 在竞争性科研资助驱动下，现代[[Research Universities|研究型大学]]的微观组织形态发生了根本异化：大学管理层致力于兴建顶尖科研楼宇与打造学术声望品牌，随后通过[[Research Proposal|课题申报]]中的间接成本提取与教师薪水冲销（salary buyout），将这些物理设施实质上转租给自负盈亏的课题组负责人。教师薪资被大量推向软钱轨道，学校以此规避办学人员的长期刚性开支并以极低边际成本扩大科研规模。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 >
@@ -126,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释大学组织为何会出现科研选题规避风险、青年教师生存焦虑、博士毕业生供求失衡以及高校重资产借贷等系统性制度病理。
 > - **分析对象与单位** [[Research Universities|研究型大学]]管理层、学科院系、实验室课题组微观用工网络，以及国家科技资助机构政策文本。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-## 比较视野：学术资本主义的多样性
-
 > [!note] 福利资本主义体制下的[[Path Dependence|路径依赖]]差异
 > Schulze-Cleven & Olson 基于 Hall and Soskice（2001）的 [[Varieties of Capitalism]] 框架，比较了三种资本主义类型中学术资本主义的差异化表现：
 >
@@ -154,8 +140,6 @@ updated: 2026-10-22
 > - **社会民主体制（以挪威为代表）** 恪守高等教育作为公民基本权利的普遍主义福利传统，公共财政仍占绝对应纳总盘，学术劳动力享有高度工会与国家福利托底。
 
 ---
-
-## 争议与批评
 
 > [!warning] 理论局限与学术批评
 > - **准市场与价格机制的本质差异** 高等教育领域扩散的竞争主要围绕学术声望、同行认可与权威地位展开，并不遵循经典价格机制，将企业资本积累逻辑生搬硬套至大学可能遮蔽学术[[Champ|场域]]特有的[[Cultural Capital|文化资本]]再生产机制。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 797)]]

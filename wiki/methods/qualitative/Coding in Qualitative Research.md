@@ -102,11 +102,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Coding in Qualitative Research
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 质性编码（Coding）是将经验数据（访谈录音逐字稿、[[Qualitative Observation\|田野观察]]笔记、历史档案、政策公文、视听影像等多模态资料）系统拆解切片，并为表达相同意涵、指涉同一现象或体现特定属性的文本片段赋予概念化标签或范畴代码的分析规程（Kerlinger, 1970；Strauss & Corbin, 1990；Miles & Huberman, 1994；Gibbs, 2007；Flick, 2009；Rossman & Rallis, 2012；Creswell & Creswell, 2022）。编码不仅充当类似书籍索引系统的高效数据检索机制，支持海量材料的经济化[[Data Reduction\|数据缩减]]，更是构建概念数据网络、在经验事实与解释性理论之间架设桥梁的核心分析基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 559–560)]]
@@ -124,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 经验文本不具备脱离解释者的纯粹客观性；编码绝非单纯的机械标识，而是研究者理论前见与文本深层意蕴的主动互动对话，旨在通过概念化标签重构经验世界的社会现实（Seidel & Kelle, 1995；Gibbs, 2007）。
 > - **研究者角色** 研究者是编码过程的核心诠释工具，其理论敏感度、分类审慎性与[[Reflexivity\|反身性]]直接决定范畴提炼的深度，必须通过反身性备忘录（[[Memos]]）与[[Audit Trail\|审核追踪]]（audit trail）监控前见与分类偏向。
@@ -139,10 +133,6 @@ updated: 2026-10-22
 > - **辅助技术** 计算机辅助质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）、编码手册、反身性备忘录、大语言模型[[Meaningful Human Control|人在回路]]（HITL）协同赋码。
 
 ---
-
-## 研究程序
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -291,16 +281,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 需要系统梳理非结构化文本、归纳核心主题、比较不同主体经验模式、构建概念模型或发展[[Grounded Theory\|扎根理论]]的质性与[[Mixed Methods Research\|混合方法研究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
 > - **谨慎使用** 材料高度依赖时间时序展开、深层隐喻或连续心理演变的情境（如纯粹[[Narrative Research\|叙事探究]]、生活史研究），需结合整体叙事记录与[[Rich and Thick Description\|深描]]，防止机械切片。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **不适合使用** 企图脱离文本语境仅凭离散代码频次断言强因果决定机制，或完全无需任何概念抽象的纯原始档案留存场景。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与[[Reliability\|信度]]风险
 > - **去情境化风险（Decontextualization）** 编码将连续文本切碎并存入离散节点，极易人为割裂时序因果链条、抹平动态情境脉络；同一行为在不同时空情境中意义相异，机械赋予相同代码会导致虚假同质化。研究者需以撰写情境化叙事记录（narrative [[Accounts]]）并结合[[Rich and Thick Description\|深描]]作为对冲互补。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
@@ -329,8 +315,6 @@ updated: 2026-10-22
 > | | [[Qualitative Computer Software\|质性计算机软件]] | 辅助工具 | 提供编码节点管理、层级构建、反身备忘录与自动化布尔检索。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 系统阐释[[Grounded Theory\|扎根理论]]四类编码谱系、鲍格丹与比克连九类描述性编码家族、初筛粗编码与复合双重赋码决策，以及课堂态度矩阵化比较与去情境化风险防范。

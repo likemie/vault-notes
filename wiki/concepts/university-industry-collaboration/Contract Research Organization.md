@@ -29,8 +29,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Contract Research Organization
-
 > [!info] 定义
 > 合同研究组织（Contract Research Organization, CRO）是受制药或生物技术产业申办方委托，按雇佣作品（work for hire）方式执行临床前研究或[[Clinical Trial\|临床试验]]运营任务的第三方商业组织（p.203）。在产学临床试验生态中，CRO 充当产业申办方与大学试验基地之间的中间层。
 

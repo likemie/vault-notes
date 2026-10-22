@@ -70,11 +70,7 @@ created: 2026-07-05
 updated: 2026-10-22
 ---
 
-# Reference Society
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或[[Discourse|话语]]合法化之理想典范的他国或地区社会。概念植根于施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受[[Geopolitics|地缘政治]]关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 545)]]
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政策转移视域下的核心概念对比
 > | 维度 | 参考社会（Reference Society） | [[Policy Borrowing\|政策借用]]（Policy Borrowing） | [[Cross-National Attraction\|跨国吸引力]]（Cross-National Attraction） | [[Externalization\|外化]]（Externalisation） |
 > |:---|:---|:---|:---|:---|
@@ -117,8 +111,6 @@ updated: 2026-10-22
 > | **典型表述** | “看看芬兰是如何做教师教育的” | “我们立法引进了芬兰式的综合学校法案” | “本国学生数学成绩滑坡引发对亚洲体系的浓厚兴趣” | “国际[[OECD\|经合组织]]建议我们采纳这一标准” |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素与运作机制
 > - **系统论视角下的[[Externalization\|外化]]与不确定性管理** 遵循施赖弗（Schriewer, 1990）与[[Niklas Luhmann\|卢曼]]（Luhmann, 1995）的系统论阐发，现代公共教育体制深陷未来不可知（技术赤字）与多元利益博弈的泥潭。国内政策辩论越激烈，决策者越需要将论证支点“外化”至世界体系或特定参考社会，以此构筑超脱本土派系纠葛的客观中立性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
@@ -143,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 围绕概念形成的命题
-
 > [!claim] 命题一：系统[[Externalization\|外化]]需求是参考社会被建构的内在动因（Schriewer, 1990）
 > 现代社会教育系统的结构性矛盾与[[Policy Ambiguity\|决策歧义性]]，迫使政策行动者通过“内部建构外部参照点”来获得论据豁免权。参考社会并非客观给定的实体，而是本土系统为克服自身内在合法性赤字而制造的[[Epistemology\|认识论]]避风港。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > 在[[Governing by Numbers\|数字治理]] 2.0 时代，[[Policy Brokerage\|政策中介]]工具箱的多样化瓦解了单一模范逻辑：[[OECD\|经合组织]]依托横向国别比较维持外向型参考社会网络，而[[World Bank\|世界银行]]则通过排他性技术工具（[[Systems Approach for Better Education Results\|SABER]]）构筑起闭门自证的自指性[[Discourse|话语]]体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 ---
-
-## 应用案例
 
 > [!case] 韩国：从默然借用到北欧与东亚参照体系的动态重构
 > 韩国在参与 [[PISA]] 之前长期保持对日本教育政策的“默然借用”（Silent Borrowing）；PISA 2003 结果出炉后，韩国教育界迅速将视线转向排名领先的芬兰，掀起芬兰教育学习热潮；而在 PISA 2009 之后，上海的卓越崛起促使韩国反思自身兼具儒家传统与高压测试的东亚共性。韩国决策层敏锐利用外部参考社会的更迭，在分权化改革、私立辅导监管与公立学校优质化之间动态寻求借用杠杆。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
@@ -178,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1990 — 施赖弗奠定“[[Externalization\|外化]]假说”理论根基** 施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）发表《比较方法与外化需求》，正式确立参考社会作为社会系统为解决内部争议而主动建构的“外部观察点”，打破了传统比较教育中将外国范例视作客观实体朴素存在的[[Positivism\|实证主义]]盲区。
 > - **2000–2003 — [[PISA]] 首轮冲击与“芬兰神话”的全球化** PISA 2000 的公布彻底打破了传统的跨国[[Policy Borrowing\|政策借用]]地理版图。芬兰迅速成为全球公认的超级参考社会，德国等国因“PISA 震撼”启动国家标准的重大转型，参考社会的确立自此与跨国量化测评紧密绑定。
@@ -187,8 +173,6 @@ updated: 2026-10-22
 > - **2020年至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的中介分化与自指性重构** 比较教育学界（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]; Seitzer et al., 2023）超越传统的国家间静态模仿叙事，揭示参考社会在全球治理复合体中的差异化运用：[[OECD]] 维持横向同行参考社会网络，而[[World Bank\|世行]]推行自指性指标中介，参考社会演变为多边机构深耕组织利基与施展软治理权力的战略工具。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >

@@ -56,11 +56,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Consensual Assessment Technique
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 同感评估技术（CAT）
 > - **工具类型** 专家共识主观评分技术与[[Operationalization\|操作化]]评定规程（Expert Consensual Assessment Protocol）。
@@ -72,8 +68,6 @@ updated: 2026-10-16
 > 创造性产品评定主要依托阿马比尔的同感评估技术（Consensual Assessment Technique, CAT）或客观成果计量。CAT 具备全领域最高的生态效度，被公认为[[Creativity Assessment\|创造力测评]]的操作化黄金标准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3, 5)]]
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Creativity\|创造性]]产品同感评定维度
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -87,8 +81,6 @@ updated: 2026-10-16
 
 ---
 
-## 核心操作规程
-
 > [!proc] Amabile 五大黄金实施准则
 > 1. **标准化开放任务** 所有参与者在相同的材料、指导语与时间约束下完成同一[[Open-Mindedness|开放性]]创作任务，确保产品具有直接可比性。
 > 2. **合格的领域专家评定者** 评定者必须是具有该领域实际创作或专业教学经验的专家（如作家评定诗歌、艺术家评定绘画、资深教师评定教案），不得使用未经训练的外行。
@@ -97,8 +89,6 @@ updated: 2026-10-16
 > 5. **无细化预设量规约束** 明确禁止向专家提供详细的加减分细则，要求专家直接依靠其内隐的“领域专长直觉”进行打分，以完整保留复杂创造性的整体生态感知（Gestalt）。
 
 ---
-
-## 心理测量学特征与实证元分析表现
 
 > [!contrast-table] CAT 产品评定 vs 经典纸笔[[Divergent Thinking\|发散思维]]测验（如 [[Torrance Tests of Creative Thinking\|TTCT]]）
 > | 比较维度 | 同感评估技术（CAT） | 托兰斯测验（TTCT） |

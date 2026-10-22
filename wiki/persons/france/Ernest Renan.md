@@ -48,11 +48,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Ernest Renan
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 19 世纪法国著名哲学家、语文学家、历史学家，法兰西学术院院士，法兰西公学（Collège de France）总管。
@@ -74,16 +70,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1882 — *Qu'est-ce qu'une nation?* （什么是民族？）** 提出民族非由种族、语言、宗教、利益或地理界定，而是由过去共同牺牲的情感与当下共同生活的同意构成的精神原则，即[[Everyday Plebiscite|每日公民投票]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 民族本质上是一种高级的道德意识与精神原则（Spiritual Principle），它以过去共同付出的历史牺牲与荣耀为先决条件，并在当下通过全体成员明确表达的共同生活意愿来维系；民族的存在犹如一场“每日的公民投票”，要求公民超越种族、血缘与狭隘宗派利益，持续承诺共同体的未来。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
 
 > [!citation-card] 勒南论民族作为每日的公民投票
@@ -93,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定了现代政治哲学中的“公民民族主义”[[Paradigm|范式]]，为[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）构想“[[Imagined Community|想象的共同体]]”以及现代国家认同理论提供了主观精神契约维度的先驱框架。
 > - **政策与政治[[Discourse|话语]]路径** 成为现代西方民主共和国抵抗狭隘血缘沙文主义、构建多族裔包容性公民国家认同的核心法理与哲学支柱。
 > - **当代[[Geopolitics|地缘政治]]与[[Technological Republic|技术共和国]]重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用勒南命题，呼吁西方重塑共同生活的公民信念以克服冷漠与文化虚无。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用勒南命题批判后现代虚无主义与后国家[[Cosmopolitanism|世界主义]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

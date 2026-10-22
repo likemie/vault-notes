@@ -53,11 +53,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Nominalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **唯名论（Nominalism）** 是伯勒尔与摩根（Burrell & Morgan, 1979）分析社会科学性质的四组哲学假设中，[[Ontology\|本体论]]维度的核心一极，与实在论（Realism）相对立。唯名论主张外部世界不存在独立于认知者的客观实体与先验范畴；所谓的“概念”、“组织”或“社会结构”仅仅是人类用以指称事物的语言标签（convenient labels）与词汇符号，社会实在在本质上是人类主体主观心智与社会建构的发明物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 5–7)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 唯名论与实在论在教育与社会研究中的核心维度对立
 > | 比较维度 | 唯名论进路（Nominalist / Subjectivist） | 实在论进路（Realist / Objectivist） |
 > |---|---|---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **组织变革处方** | 探明行动背后蕴含的价值冲突，改变人或其信念价值 | 调整或再造组织结构，以迎合社会客观功能需求 |
 
 ---
-
-## 核心要素
 
 > [!feature] 唯名论在社会探究中的四大核心支柱
 > 1. **语言标签论（Concepts as Linguistic Labels）**

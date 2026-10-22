@@ -73,11 +73,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Science A New Golden Age 2026
-
 ---
-
-## 背景与委托动因
 
 > [!policy-context] 政策背景与历史动因
 > - **呈交时间与主管主体** 2026 年 7 月 21 日，由[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（Office of Science and Technology Policy, OSTP）主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael J. Kratsios）正式呈交美国总统。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. v)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 >   - 人工智能驱动的科研[[Paradigm|范式]]转型对传统数据、算力与实验基础设施提出了革命性要求。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–11)]]
 
 ---
-
-## 核心主张与四大政策支柱
 
 > [!claim] 核心[[Success Criteria|成功标准]]
 > 报告确立的核心成功标准是：**十年之后，全美最杰出的科学家与工程师能够自由追逐在现行体制下因资历门槛、行政文书与共识偏见而无法追逐的关键前沿问题**。国家必须确立[[Pasteur's Quadrant|巴斯德象限]]导向，跨越纯理论与纯应用的机械划分，实现基础探索与重大使命工程的深度融通。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. vi–vii, 7)]]
@@ -121,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施路径与 2028 财年预算备忘录
-
 > [!timeline] 政策演进与落地时间线
 > - **2025 年 3 月 26 日** 总统正式签署委托信，指示白宫科学顾问[[Michael Kratsios|克拉齐奥斯]]研拟战后 80 年国家科技新政。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. viii)]]
 > - **2025 年 5 月** 颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令与四项核能监管改革行政令，为报告建议筑牢政策基石。
@@ -142,8 +134,6 @@ updated: 2026-10-22
 > 9. **将联邦研发深植于国家科技大生态** 促进联邦机构、顶尖大学、慈善基金与工业实验室的无缝协同。
 
 ---
-
-## 理论定位与宏观影响
 
 > [!finding-cards] 理论定位与历史贡献
 > - **终结单向线性假说的历史统治** 报告从国家战略高度宣告了[[Science, The Endless Frontier 1945|布什报告]]中从纯基础顺流而下的线性模型的终结，确立了以[[Pasteur's Quadrant|巴斯德象限]]（Stokes, 1997）为核心的二维探索模型，为现代科技政策奠定了新的[[Epistemology|认识论]]基础。

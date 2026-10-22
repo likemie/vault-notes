@@ -50,11 +50,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Second-Sourcing
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 第二货源采购机制（Second-Sourcing）是冷战时期美国军方（特别是空军与海军军械部门）在先导高科技装备与微电子器件采购合同中强制推行的规制条款：要求中标的主承包商（Prime Contractor）必须与至少一家具备生产能力的独立竞争对手（第二货源供应商）签署[[Technology Transfer|技术转让]]与全面交叉许可协议，向其无保留移交产品的设计图纸、光刻掩膜、材料配方与制造工艺诀窍（Process Know-how），以确保军方在战时或主供应商产能中断时拥有完全兼容的备份供货渠道。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 需求侧采购与知识产权干预机制对比
 > | 比较维度 | 第二货源采购机制（Second-[[Source Evaluation\|Sourcing]]） | 反垄断强制许可（Compulsory Licensing） | 传统商业技术许可（Commercial Licensing） |
 > |---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | **微观产业组织** | 催生以硅谷为代表的高频衍生、去中心化独立商用半导体企业网络 | 强化纵向一体化寡头（如西门子、飞利浦）的僵化垄断结构 |
 
 ---
-
-## 核心要素
 
 > [!feature] 第二货源机制的四大支柱
 > - **物理与电气完全兼容性（Form, Fit, and Function）** 第二货源厂商生产的器件必须在引脚定义、逻辑电平、热工性能和物理封装上与原厂产品 100% 互换，直接催生了早期的行业[[General Purpose Technology|通用技术]]标准。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 165)]]
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 第二货源采购机制核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1950s — 军械制造时代的起源** 最早应用于战时常规武器弹药生产，确保弹药标准统一与兵工厂多点备份。
 > - **1960s — 硅谷微电子革命的关键催化** 美国空军在民兵导弹计划中全面推行第二货源条款，迫使德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron 等企业互相交叉许可集成电路工艺，奠定了硅谷早期的技术流动网络。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 34)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > - **1990s–至今 — 现代供应链韧性与科技政策反思** 在[[Geopolitics|地缘政治]]博弈与全球芯片断链风险下，第二货源理念重新被美欧政府纳入战略供应链法案（如《[[CHIPS and Science Act|芯片法案]]》关于关键先进制程备份生产的要求）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >
@@ -174,8 +160,6 @@ updated: 2026-10-22
 > 第二货源机制仅在政府作为占支配地位的核心采购客户、且技术处于物理和工艺标准未定型的早期阶段时最为有效。当民用商业市场规模远超政府采购（如 1970 年代后集成电路军购降至 10% 以下）、或者产品设计高度复杂且受严密专利丛林保护时，政府强制推行第二货源将遭遇强烈的法律与市场阻力。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 33–34)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–182)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 早期微电子第二货源与军品采购扩散统计
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

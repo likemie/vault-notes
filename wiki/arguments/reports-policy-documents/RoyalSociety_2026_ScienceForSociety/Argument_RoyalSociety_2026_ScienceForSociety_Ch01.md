@@ -100,11 +100,8 @@ status: draft
 created: 2026-08-22
 updated: 2026-10-22
 ---
-# Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -314,8 +311,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Scientific Literacy\|科学素养]]从事实记忆转向证据评估与运作机制理解** 科学教育必须超越孤立概念灌输，着重培养多源信息批判评估能力与审慎理解[[Scientific Uncertainty\|科学不确定性]]的理性公民。（pp. 30–31）
 > 2. **[[Data Literacy\|数据素养]]与 [[AI Literacy\|人工智能素养]]构成新型通用关键胜任力** 必须将概率风险意识、数据图表解读及防范[[Cognitive Offloading\|认知外包]]的批判性 AI 素养深度融入课程体系。（pp. 31–32）
@@ -331,8 +326,6 @@ updated: 2026-10-22
 > - **200,000** 英国绿色转型面临约 20 万人的绿色技能人才缺口，亟需全校[[Sustainability Education\|可持续发展教育]]支撑。（p. 32）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Scientific Literacy\|科学素养]]的核心内涵
 > 具备科学素养不仅意味着掌握事实知识并理解支撑 [[STEM Education\|STEM]] 学科的基本原理；它更要求理解科学是如何运作的，以及如何评估证据及其来源。（p. 30）

@@ -38,11 +38,7 @@ created: 2026-08-02
 updated: 2026-10-22
 ---
 
-# Codification（生存境遇编码）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **编码（Codification）** 在保罗·[[Paulo Freire\|弗莱雷]][[Critical Pedagogy\|批判教育学]]中是指一种将日常生存现实符号化、对象化的中介教学手段。文化调查小组在提取出[[Generative Themes\|生成性主题]]后，会将受压迫者切身经历的社会矛盾（如水资源匮乏、低薪劳动、住房恶劣）绘制或拍摄为视觉幻灯片、照片、漫画或简短文本编码。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 53 注脚61)]]
@@ -72,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **现实对象化（Objectification）** 将主观沉浸的生存苦难转化为外部可观察讨论的表象对象。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 53)]]
 > - **矛盾凝聚性（Condensation）** 编码符号必须紧扣并凝聚社会权力关系的核心矛盾（如泥砖与泥塘棚屋对比）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
 > - **开放对话性（Dialogical Openness）** 编码图像留出多义解读与批判追问空间。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
@@ -104,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -118,8 +110,6 @@ updated: 2026-10-22
 > - **2005 — 批判识字推广** 希尼（[[Theory of Mind|ToM]] Heaney）总结编码在跨文化成人批判识字项目中的应用经验。[[Argument_Darwish_2009_Queens\|(Heaney, 2005; Darwish, 2009, p. 53)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 编码若制作过于复杂或包含过多引导性倾向，可能退化为教育者自上而下的宣传画，失去诱发[[Open-Mindedness|开放性]]对话的功能。

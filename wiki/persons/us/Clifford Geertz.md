@@ -45,10 +45,6 @@ created: 2026-08-14
 updated: 2026-10-22
 ---
 
-# Clifford Geertz
-
-## 简介
-
 > [!person-profile] 人物档案
 > - **身份位置** 美国人类学家（1926–2006），诠释人类学（interpretive anthropology）学派的代表人物。
 > - **核心角色** 为[[Qualitative Research\|质性研究]]与[[Ethnography\|民族志]]方法论提供文化作为文本的解读视角；其[[Rich and Thick Description\|厚描述]]概念成为质性数据分析与写作的核心质量标准。
@@ -65,9 +61,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Ethnography\|民族志]]写作是对社会[[Discourse|话语]]的诠释性铭写：研究者把转瞬即逝的社会事件转化为可再度查阅的记述，而人类学写作本身就是诠释，是二手的、三手的诠释，就此而言是虚构（fictions），即它们是某种被制作出来的东西，而非指不真实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 > [!citation-card] 民族志学者的铭写
@@ -82,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** [[Rich and Thick Description\|厚描述]]从诠释人类学进入教育研究与质性方法论，成为自然主义[[Paradigm\|范式]]核心公理之一，也是支撑读者做[[Naturalistic Generalization\|自然主义概括]]的写作标准。
 > - **方法路径** 文化作为文本的视角支持以诠释性、[[Reflexivity\|反身性]]的方式分析访谈、观察与[[Field Notes\|田野笔记]]；[[Ethnography\|民族志]]描写的四个特征（诠释性的、诠释社会[[Discourse|话语]]之流的、把所说从转瞬即逝中救出并固定下来、显微镜式的）成为质性描述的[[Analytic Framework\|分析框架]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 

@@ -43,11 +43,7 @@ created: 2026-10-12
 updated: 2026-10-16
 ---
 
-# Higher Education and Research Plan
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1987 年由荷兰教育与科学部首次正式发布，每两年更新一期。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 136)]]
@@ -56,8 +52,6 @@ updated: 2026-10-16
 > - **制度位置** 作为 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书在规划工具维度的核心制度产物，并在 1992 年《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]）中被确立为国家法定规划工具。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 146)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《高等教育与科研规划》（HOOP）终结了政府对大学微观指标的刚性指令，确立了“对话式规划（Dialogue Planning）”新模式；教育部在 HOOP 中仅发布宏观政策意图、劳动力市场需求与财政总额边界，高校据此自主制定机构发展规划（Instellingsplan），双方在双向战略对话中达成动态调适。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 151)]]
@@ -75,8 +69,6 @@ updated: 2026-10-16
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1985** [[Higher Education Autonomy and Quality|HOAK]] 白皮书首次提出以两年一期的部门发展规划替代中央指令性蓝图规划。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
 > - **1987** 荷兰教育部正式发布首部《高等教育与科研规划》（HOOP 1988–1992）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 136)]]
@@ -84,8 +76,6 @@ updated: 2026-10-16
 > - **1992** 《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]）正式将 HOOP 规划程序写入法典。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 教育与科学部（规划司与高教司统筹编制宏观战略文本）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 136)]]
@@ -99,16 +89,12 @@ updated: 2026-10-16
 
 ---
 
-## 影响与政策成效
-
 > [!finding-cards] 关键政策成效
 > - **破除科层僵化预期** 将规划从“死板执行指标”解放为“战略性学习过程”，极大增强了高教系统应对外部技术与就业波动的韧性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140, 151)]]
 > - **打破封闭教育省藩篱** HOOP 规划程序正式邀请外部雇主组织与社会团体入席协商，打破了传统宗派代表与教师工会垄断的封闭铁环，促进了人才培养与劳动力市场的对接。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 151)]]
 > - **奠定现代对话治理[[Paradigm|范式]]** 启发了欧洲其他公共部门在卫生、环保领域的规划改革，成为公共管理学界“战略管理与[[Network Governance|网络治理]]”结合的典范文本。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 148)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 政策争议焦点
 >
@@ -117,8 +103,6 @@ updated: 2026-10-16
 > > - **基克特与规划团队（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 强调 HOOP 在法律上不具备强制指令效力，其实质是提供透明的信息共享与预期对齐平台；在实践中大学成功多次抵制了部委的单向设想，证明了对话协商的真实有效性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 154)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证剖析荷兰 HOOP 规划程序的演进机制，系统论证对话式规划替代中央蓝图指令的控制论依据与治理价值。

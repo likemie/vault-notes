@@ -69,11 +69,7 @@ created: 2026-09-28
 updated: 2026-10-16
 ---
 
-# Study Design and Implementation Assessment Device
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Study Design and Implementation Assessment Device
 > - **工具类型** 方法学质评核查清单与因果证据分级规程（Checklist and Evidence Rating Protocol）。
@@ -88,8 +84,6 @@ updated: 2026-10-16
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] [[Evidence Standards]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -103,14 +97,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 核查规程与作答规则
 > - **题项形式** 客观条件核查项、方法学门控判定题与情境特征编码表。
 > - **作答格式** 三分类证据评级（符合标准 / 有保留符合 / 不符合）、二分类门控判定（通过 / 未通过）以及多项名义编码。
 > - **逻辑门控与分流规则** 首先基于研究设计类型进入不同核查分流（随机试验、准实验或[[Regression Discontinuity Design|断点回归]]）；接着执行干预与测量指标对齐门控；最后根据流失率与基线等价性判定最终证据等级。
-
-### 核心核查模块
 
 > [!contrast-table] Study DIAD 草案与吸纳 47 条学界评议后的制度调整
 > | 审查维度 | 2002 年 11 月初始草案设想 | 2003 年 3 月吸纳评议后的正式修正版 | 制度功能与方法学突破 |
@@ -124,8 +114,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 使用 Study DIAD 的代表性文献
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -134,8 +122,6 @@ updated: 2026-10-16
 > | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | [[What Works Clearinghouse\|WWC]] Study DIAD (2003 Rev.) | 审查 WWC 发布的规程草案及 47 份学界公众评议文本 | 政策[[Content Analysis\|内容分析]]与规程文本考证 | 证实公共审议推动 WWC 放宽了单一实验垄断，确立[[Regression Discontinuity Design\|断点回归]]专章与多元调节编码（pp. 34–36） |
 
 ---
-
-## 版本与演变
 
 > [!dev-timeline] 规程版本演进历史
 > - **2002 — Study DIAD 初版草案发布** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（[[Office of Educational Research and Improvement|OERI]]）以 1850 万美元合同创立 [[What Works Clearinghouse|WWC]]；同年 11 月发布 Study DIAD 草案并在官网征求公众评议。

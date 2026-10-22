@@ -111,7 +111,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Li_2025_HSSC
 
 ---
 
@@ -133,8 +132,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -148,8 +145,6 @@ issuing_organization: ""
 > 上述理论分别对应 PISA 影响机制的三个层级：议程设置理论解释国家层级的触发条件（自我认知落差）；政策[[Convergence Theory in Comparative Education\|趋同理论]]和人力资本理论解释超国家层级的软治理运作（跨国沟通、规制竞争）；行动者网络理论和体用框架解释内部行动者网络如何转译和传递 PISA 信息（[[Policy Network\|政策网络]]中的动态博弈、文化-制度转译）。这些理论被整合到以**质量**和**公平**为核心维度的统一[[Analytic Framework\|分析框架]]中。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -180,8 +175,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -201,9 +194,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一：研究区域分布与特征
-
-> [!claim|notitle]
+> [!claim] 论证步骤一：研究区域分布与特征
 > [[PISA]] 对国际基础教育政策影响的研究呈现显著的**区域集中**特征：欧洲国家是研究焦点，[[EU|欧盟]]/欧洲经济区成员国文献占 62.4%（区域分布数据见研究方法 > 样本快照 > 地区分布）。尽管全球已有 90 多个国家和经济体参与 PISA，截至 2023 年 9 月仅有 17 个国家有相关实证研究文献可用。
 
 > [!warrant]- 推理桥梁
@@ -220,9 +211,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二：PISA 影响教育改革的质量路径
-
-> [!claim|notitle]
+> [!claim] 论证步骤二：PISA 影响教育改革的质量路径
 > 从**质量**维度看，OECD 通过 PISA 强调对学生在阅读、数学和科学中应用知识和技能应对真实生活挑战的全面评估。PISA 能力框架要求教育体系为年轻人提供应对现代社会挑战所需的知识和工具：快速变化的劳动力市场、持续数字化、社会流动、国内不平等加剧、大规模国际移民和气候变化（OECD, 2019）。PISA 的质量影响可在**宏观、中观和微观**三个决策层面分别识别。
 
 > [!dimension] 宏观决策层面的五种表现
@@ -268,9 +257,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三：PISA 影响教育改革的公平路径
-
-> [!claim|notitle]
+> [!claim] 论证步骤三：PISA 影响教育改革的公平路径
 > PISA 基于公平教育是实现可持续和包容性增长的关键这一原则。PISA 的公平框架包含两个相关概念（OECD, 2019）：**包容性（inclusiveness）**，指教育体系是否确保所有学生获得基本基础技能；**公平性（equity）**，指学生背景环境在多大程度上影响教育结果。总体而言，PISA 的公平框架关注一国或地区教育体系能否确保所有学生，无论其背景或处境，都能获得高质量教育。政策回应在机会、过程和结果三个维度上分别显现。
 
 > [!dimension] 机会公平
@@ -300,9 +287,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤四：三层机制模型
-
-> [!claim|notitle]
+> [!claim] 论证步骤四：三层机制模型
 > PISA 对各国教育政策的影响不是直接的因果效应，而是在**超国家组织（OECD 的软治理与模范社会塑造）**、**国家层面（自我认知落差、文化-制度转译与[[Policy Borrowing\|政策借用]]）** 和**内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）** 三个层级的[[Interaction Effect\|交互作用]]下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。该模型揭示了 PISA 与教育改革之间的双向互动：PISA 通过超国家层级的软治理影响国家政策，各国也通过选择性政策借用和内部行动者转译来主动回应和重新解释 PISA 信息。
 
 > [!factors] 第一层：超国家层级
@@ -356,9 +341,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤五：跨国差异的综合分析
-
-> [!claim|notitle]
+> [!claim] 论证步骤五：跨国差异的综合分析
 > 各国对 PISA 的政策回应构成一个连续光谱：从全面的教育体系改革（瑞士、德国）到几乎不产生任何影响（美国早期）。差异源于每个国家独特的政治、历史、文化和制度条件在三个层级上的具体组合方式。
 
 > [!contrast-table] 六国 PISA 政策回应对比
@@ -384,8 +367,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > - **研究区域集中与盲区并存** 现有 [[PISA]] 政策影响研究高度集中于欧洲（62.4%），全球仅 17 个国家有相关实证研究。德国以 20 篇研究一骑绝尘，与 PISA 90+ 个参与经济体的规模严重不匹配。中东、非洲、南亚和东南亚构成经验研究的主要盲区。
 > - **质量—公平双维路径的跨国运作** PISA 通过质量维度（宏观/中观/微观三层决策，从新自由主义价值接受到课程学制改革）和公平维度（机会/过程/结果三个环节，从入学标准协调到质性学力重构）两条路径影响各国基础教育改革。PISA 推动了新自由主义教育价值、能力素养概念和循证政策[[Paradigm\|范式]]的全球扩散。
@@ -399,8 +380,6 @@ issuing_organization: ""
 > - 文化传统和政治制度不是外部影响的被动过滤器，而是主动转译 PISA 信息的意义生产机制。
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[PISA]] 作为决定性分水岭
 > 德国案例："PISA was a decisive watershed in German education policymaking. Almost instantly after the PISA results were publicized in late 2001, a [[Comprehensive Education]] reform agenda was put forward in Germany. The experienced reform dynamic was highly surprising because the traditional German education system and politics were characterized by deep-rooted historical legacies, many involved stakeholders at different levels, and reform-hampering institutions. Hence, a backlog of grand education reforms has prevailed in Germany since the 1970s. The external pressure exerted by PISA completely changed that situation."（Niemann et al., 2017, pp.175–183）
@@ -418,8 +397,6 @@ issuing_organization: ""
 > "In Europe, it is particularly difficult to isolate the influence of PISA from the impact of the initiatives of the European Commission ... the initiatives and recommendations of the OECD and the EU Council and Commission have become more and more intricate in recent years because of the reciprocal influence and closer cooperation of these two international institutions."（Michel, 2017, p.207）
 
 ---
-
-## 自述局限
 
 > [!warning] 区域局限性
 > 当前研究主要集中在欧洲国家，综述无法准确反映其他地区和国家的全球情况。这种区域局限性阻碍了对 [[PISA]] 在全球尺度上影响的全面理解。

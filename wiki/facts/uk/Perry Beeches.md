@@ -54,11 +54,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Perry Beeches
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Perry Beeches（佩里比奇斯辅导项目，全称 Perry Beeches Coaching Programme）** 是由英国伯明翰著名的佩里比奇斯学院（Perry Beeches The Academy Trust）创设、由英国国家教育研究基金会（NFER）受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立评估的小学升初中关键期助教一对一辅导方案；其核心战略是针对小学六年级（UK Year 6，约 10–11 岁）在毕业统考（Key Stage 2 SATS）中处于未达标风险边缘的学困生，由学校专职聘用的资深教学助教实施为期一学期的高频个性化一对一辅导，抢抓初中分流前的最后关键期。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **核心问题导向** 探索城市贫困学区如何在现有编制约束下，通过高保真助教辅导机制帮助落后儿童在毕业统考前打赢翻身仗。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 教学助教在接受为期数周的强化教学教练培训后，对六年级学困儿童开展每周 3 次、每次 45 分钟的一对一针对性精读、词汇[[Decodification\|解码]]与阅读理解辅导，能够产生接近半个学年的额外学业增益，使学生平稳跨越升学门槛。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -88,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Perry Beeches 发展历程
 > - **2013–2014 — NFER 独立整群[[Randomised Controlled Trials\|随机对照试验]]** 洛德等学者（Lord, Bradshaw, Stevens, & Styles, 2015）在英格兰数十所小学开展大规模多中心试验。
 > - **2015 — 独立评估报告发布** 试验表明干预组学生在毕业阅读统考中获得了平均 4 个月的额外净进步（[[Effect Size\|效应量]] $+0.36$），获 [[Education Endowment Foundation\|EEF]] 极高[[EEF Padlock Security Rating\|证据安全性评级]]。
 > - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据方案** 被斯莱文团队列入 Table 1，成为英美早期阅读循证干预的跨国经典案例。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **方案发起方（Perry Beeches Trust）** 输出助教辅导规程与培训框架。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - **受试学生（六年级高危儿童）** 在统考前建立稳固的篇章理解与应考信心。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的全国标准化因果[[Effect Size\|效应量]]** 在独立 [[Randomised Controlled Trials\|RCT]] 中测得平均 $+0.36$ 的显著阅读效应量（相当于额外多获得约 4 个月的学业进步），达 [[Every Student Succeeds Act\|ESSA]] 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

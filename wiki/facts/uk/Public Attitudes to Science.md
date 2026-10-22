@@ -54,11 +54,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Public Attitudes to Science
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 主办主体** 始于 2000 年，由英国政府科学技术办公室（[[Office of Science and Technology Policy|OST]]）、商业创新与技能部（BIS）、商业能源与产业战略部（BEIS）以及现英国研究与创新署（UK Research and Innovation, UKRI）委托权威民调机构益普索（Ipsos）联合英国科学协会（British Science Association, BSA）长期执行，最新一轮为 2025 年调查报告（PAS 2025）。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 调查演化与历次轮次（2000–2025）
-
 > [!dev-timeline] 25 年 PAS 调查演进脉络
 > - **2000 年与 2005 年 奠基阶段** 确立从传统公众理解科学（Public Understanding of Science, PUS）单向科普向[[Public Engagement with Science\|公众科学参与]]（PES）双向互动的[[Paradigm\|范式]]转型，重点监测公众对转基因食品（GM）等科技争议的社会态度。
 > - **2008 年与 2011 年 信任与制度化监测** 系统追踪公众对科学家的高信任度（长期稳定在 80% 以上），建立针对科研资金公共效益与伦理监管的系统指标。
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > - **2025 年 [[Public Attitudes to Science\|PAS 2025]] 最新调查** 聚焦[[Generative Artificial Intelligence\|生成式人工智能]]（AI）、气候危机与生物安全背景下的公众态度，揭示出公众对科学知识的强烈渴求与在重大决策中被边缘化的结构性矛盾，并详细测绘全英各类科学探索场馆的实地年访问率格局。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 47)]]
 
 ---
-
-## 最新 PAS 2025 核心数据与实证发现
 
 > [!stat-cards]- 核心数据（全国民意与非正式参与）
 > - **87% / 83%** 公众对高校科学家的信任度，以及认为科学对社会做出了宝贵贡献的比例。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 12)]]
@@ -120,8 +112,6 @@ updated: 2026-10-22
 > - **63%** 认为监管科学技术的法定机构必须主动走向社会与公众沟通的公众比例。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 85–86)]]
 
 ---
-
-## 政策与理论启示
 
 > [!policy-design] 政策启示与科技治理转型
 > - **确立社会文化基础设施的民意支撑** 62% 的科学信息渴求与稳步上升的科技馆访问率证实，[[Informal Science Learning\|非正式科学参与]]具有庞大的公众需求，必须确立其与绿地、图书馆同等的核心公共品地位。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]

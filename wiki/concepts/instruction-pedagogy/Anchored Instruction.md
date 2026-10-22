@@ -42,11 +42,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Anchored Instruction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 抛锚式教学（Anchored Instruction，亦称锚定教学）是由范德堡大学认知与技术小组（Cognition and Technology Group at Vanderbilt, CTGV, 1990）提出的经典教学[[Paradigm\|范式]]。该模式通过向学生呈现一个包含复杂、真实情节的多媒体“宏观情境故事”（如《贾斯珀·伍德伯里历险记》*The Adventures of Jasper Woodbury*）作为认知“锚点”（Anchor），将解决问题所需的丰富背景与关键参数自然嵌入情节中，引导学生主动定义子问题、提取数据并开展多步因果推理，以此克服抽象学习中普遍存在的“惰性知识”（Inert Knowledge）缺陷。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 抛锚式教学与传统例题教学及 PBL 辨析
 > | 维度 | 抛锚式教学（Anchored Instruction） | 传统例题示范（Worked Examples） | [[Problem-Based Learning\|问题本位学习（PBL）]] |
 > |---|---|---|---|
@@ -69,8 +63,6 @@ updated: 2026-10-22
 > | **核心目标** | 克服惰性知识、培养多步因果探究 | 掌握标准化解题算法与套路 | 发展[[Learner Autonomy\|自主学习]]、协作与综合解题能力 |
 
 ---
-
-## 核心要素：CTGV 经典设计原则
 
 > [!feature] 抛锚式教学的核心设计特征
 > - **生成性学习格式（Generative Learning Format）** 故事在主人公面临[[Grand Challenges|重大挑战]]的高潮处戛然而止，不提供现成解法，要求学生自主生成方案并解决问题。
@@ -92,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
@@ -102,8 +92,6 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 范例所属大类：[[Authentic Instruction\|真实性教学]]对[[Critical Thinking\|批判性思维]]的干预效应 | 真实性教学整体干预维度 | $k = 96$ | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$ | 纳入真实验与准实验；证实情境锚定与应用解题对[[Higher-Order Thinking Skills\|高阶思维]]的显著赋能 |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 设计与技术约束
 > - **开发成本极高** 高质量的宏观情境锚点故事需要精密的教学设计与多媒体制作，难以由一线教师独立高频开发。

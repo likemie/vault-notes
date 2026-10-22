@@ -63,11 +63,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Definition and Selection of Competencies
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 能力界定与选择项目（Definition and Selection of Competencies，DeSeCo）是[[OECD\|经合组织]]在 1990 年代末启动的一项具有全球里程碑意义的跨[[Discipline-Based Theory\|学科理论]]研发工程，由[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI）主持、瑞士联邦统计局（SFSO）协同领导，旨在为[[PISA\|国际学生评估项目]]（[[PISA]]）及[[Knowledge-Based Economy\|知识经济]]时代的[[Lifelong Learning\|终身学习]]确立坚实、普适且具备操作性的[[21st Century Skills and Competencies Discourse\|核心素养]]理论基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **核心问题导向** 随着 1990 年代经济全球化与信息技术扩张，传统以学科孤立知识灌输为特征的课程体系无法应对未来不确定性；经合组织急需解决“现代社会中成功个人生活与运转良好的社会究竟需要何种核心能力”这一元问题，为即将全面铺开的 PISA 跨国测验提供理论合法性。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > DeSeCo 确立了以“[[Reflexivity\|反思性]]（Reflexivity）”为轴心的[[21st Century Skills and Competencies Discourse\|核心素养]]建构假说：能力不仅仅是割裂的认知技能或行为技巧，而是个体在复杂多变的情境中调动认知资源、心理社会资源、道德伦理与实际操作经验的综合心理构架，能够划分为三大互相关联的核心能力范畴。
@@ -98,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1997–1999 — 理论立项与跨学科概念奠基期** [[OECD\|经合组织]]教育委员会委托瑞士联邦统计局设立项目秘书处；1999 年在日内瓦召开首届 DeSeCo 国际研讨会，邀请人类学家、社会学家（如 Franz Weinert）与经济学家对[[21st Century Skills and Competencies Discourse\|核心素养]]展开[[Ontology\|本体论]]与[[Epistemology\|认识论]]论证。
 > - **2000–2001 — 国家政策审议与国别咨询扩展期** 伴随第一轮 [[PISA]] 测验的实施，DeSeCo 面向经合组织各成员国展开大规模国别政策咨询，出版首部里程碑专著《定义和选择关键能力》（*Defining and Selecting Key Competencies*, 2001），系统总结各学派对素养概念的争论。
@@ -107,8 +99,6 @@ updated: 2026-10-22
 > - **2004–至今 — 全球扩散与北欧政策渗透** [[EU|欧盟]]委员会依据 DeSeCo 蓝图于 2006 年颁布《欧洲[[Lifelong Learning\|终身学习]]核心素养建议》，全球数十个国家启动“能力导向课程改革”；在北欧教育改革周期中，DeSeCo 成为各国政府合法化外部借力的绝对权威文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起方与管理中枢（[[OECD]] / [[Centre for Educational Research and Innovation\|CERI]]）** 经合组织教育与技能司与教育研究与[[Innovation Hub\|创新中心]]（CERI）负责总体政治授权与战略方向把控。
@@ -122,8 +112,6 @@ updated: 2026-10-22
 > - **嵌入式机制交割** 项目结项后直接将成果移交经合组织统计与测评部门，无缝转化为 [[PISA]] 题库研发与[[Questionnaire\|问卷]]设计的底层标准。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 瑞士联邦统计局全额资助的项目秘书处、[[OECD\|经合组织]]专项自愿捐款、跨学科顶级学者团队配置。
@@ -141,8 +129,6 @@ updated: 2026-10-22
 > - **90.9%** （90.9% 的法令引文垄断率） 在挪威教育部能力课程改革实证中，官方行政法令最终引用的 22 篇参考文献中，高达 **20 篇**全部来自专门审议 OECD DeSeCo 项目的委员会，引文垄断率超过九成，其影响力远超一切国内外大学学者与学术明星。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 548]]）
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

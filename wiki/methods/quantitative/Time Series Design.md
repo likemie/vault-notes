@@ -67,11 +67,7 @@ created: 2026-06-25
 updated: 2026-10-22
 ---
 
-# Time Series Design
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **时间序列设计（Time Series Design）**，特别是**间断时间序列设计（Interrupted Time Series Design, [[Intelligent Tutoring Systems\|ITS]]）**，是指对同一个非随机取样的实验组（或自然行政单位），在接受特定教育干预或政策实施**之前与之后分别开展多次连续等间隔的重复测量**，通过对比干预前后数列变化轨迹来判定干预因果效应的[[Quasi-Experimental Designs\|准实验设计]]方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 328–331]]; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch. 4]])。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **认识论取向** 秉承[[Postpositivism\|后实证主义]]动态系统观，承认教育现象随时间自然演化，反对将[[Causality\|因果关系]]过度简化为静态单次两点差分（[[Pre-test and Post-test\|前测]]—后测）。
 > - **因果识别逻辑** 依赖“历史惯性外推”建立[[Counterfactual\|反事实]]，假定若无干预发生，干预后的时间序列将完全沿着干预前的趋势线（包含自然成熟与原有演化速度）继续延伸。
@@ -107,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 间断时间序列研究标准实施六步规程
 > 1. **确定等间隔观测时间轴** 建立干预前后对称或充足的数据采集时间点（通常要求干预前后各至少 3–5 个以上独立时间点）。
 > 2. **建立干预前稳定基线趋势** 采集干预前连续数据，检验[[Pre-test and Post-test\|前测]]数列的稳定性与历史演进斜率（Slope）。
@@ -119,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-### 经典设计亚型与符号模型
-
 > [!framework-table] 时间序列设计四大经典亚型对比（基于 Cohen et al., 2011; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
 > | 设计亚型 | 经典符号模型 | 核心机制与控制优势 | 主要效度威胁与防范 | 典型应用情境 |
 > |:---|:---:|:---|:---|:---|
@@ -130,8 +120,6 @@ updated: 2026-10-22
 > | **多基线跨情境时间序列<br>(Multiple Baseline ITS)** | $\begin{aligned} &O O O \ \mathbf{X} \ O O O O O \ &O O O O O \ \mathbf{X} \ O O O \end{aligned}$ | 在不同学校或班级分批次、阶梯式引入干预，通过交错介入点确证因果特异性 | 威胁：处理扩散与外溢效应；防范：物理隔离不同介入试点 | 区域分批次推进数字化教学平台的梯次因果检验 |
 
 ---
-
-### 效应反应模式与计量模型
 
 > [!contrast-table] 时间序列干预效应的三大核心反应模式（基于 Cohen et al., 2011, p. 329）
 > | 效应反应模式 | 趋势线形态特征 | 参数表现 ($\beta_2, \beta_3$) | 因果与政策含义 |
@@ -158,8 +146,6 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 
 ---
 
-### 政策与清算体系中的审查标准
-
 > [!framework-table] 循证清算中心（[[What Works Clearinghouse\|WWC]] / [[Home Visiting Evidence of Effectiveness\|HomVEE]]）对 [[Intelligent Tutoring Systems\|ITS]] 的审查规程与门槛（基于 Wadhwa et al., 2024）
 > | 审查维度 | WWC / HomVEE 规定技术门槛 | 未达标裁定结果 |
 > |:---|:---|:---|
@@ -170,16 +156,12 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 
 ---
 
-## 适用场景
-
 > [!fit-grid] 适用判断
 > - **适合使用** 评估全州或全学区范围内的宏观课程改革与法规变更；全校推行统一的教学技术系统；拥有连续多年的稳定标准化考试档案数据（Administrative Panel Data）；无法设立随机对照组但能获得高频历史[[Pre-test and Post-test\|前测]]的自然情境。
 > - **谨慎使用** 观测时间过长导致历史混杂事件概率剧增；测量工具在时间序列中发生版本更迭（测试工具漂移）。
 > - **不适合使用** 仅有 1–2 个离散时间点的数据；干预时间点模糊、渐进渗透且无法精确定位切入时期的方案。
 
 ---
-
-## 局限性
 
 > [!method-limits] 效度威胁、偏误来源与误用风险
 > - **共时历史事件混杂（Co-occurring History Threat）** 单组 [[Intelligent Tutoring Systems\|ITS]] 最根本的软肋：若干预推行的同时恰逢新校长上任或财政注资，分段回归无法在数理上区分哪个是真正原因（需借助 C-ITS 对照组缓解）。
@@ -201,8 +183,6 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 > | [[What Works Clearinghouse]] | 评价机构 | 为 ITS 建立了包含时间点底线与自相关校正的独立审查标准。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 详析间断时间序列设计的符号模型、[[Trend Study\|趋势分析]]、即时跃升与延迟演进模式及效度控制机制(Ch. 16, pp. 328–331)。

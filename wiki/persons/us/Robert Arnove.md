@@ -87,11 +87,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Robert Arnove
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 罗伯特·阿诺夫（Robert F. Arnove），美国当代著名比较教育学泰斗、教育社会学家；印第安纳大学布卢明顿分校荣誉总理教授（Chancellor's Professor Emeritus），[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（2000–2001）。
@@ -119,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970–1980 年代 — [[Hegemony|文化霸权]]批判与[[World-Systems Theory|世界体系分析]]的引入** 聚焦跨国非政府基金会与国际金融援助的政治经济学机制，率先在比较教育学界确立中心-半边缘-边缘的世界体系[[Analytic Framework|分析框架]]。
 >   - **代表著作** *Comparative Education and World-Systems Analysis* (1980); *Philanthropy and Cultural Imperialism: The Foundations at Home and Abroad* (1980); *Education and Revolution in Nicaragua* (1986). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105–106)]]
@@ -133,9 +127,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球化绝非单向均质的技术与[[Soft Policy Transfer|理念扩散]]，而是一场由自上而下的超国家资本规训与自下而上的本土民主抗争共同构成的辩证博弈过程。比较教育学者必须确立贯通宏观世界体系与微观学校课堂的“双重视野”，既要看清国际金融机构、世贸规约与非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱与依附固化，又要尊重基层教师、学生与草根社会运动在微观[[Champ|场域]]中的反抗、变通与跨国联合潜能，为开辟自下而上的全球社会民主提供理论支撑。
 
 > [!citation-card] 全球与本土辩证法的核心论断
@@ -150,9 +142,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与托雷斯共同开创的全球与本土辩证法[[Paradigm|范式]]已成为比较教育学的基准[[Analytic Framework|分析框架]]，打破了世界文化学派单一的同形趋同叙事与古典[[Dependency Theory|依附论]]的机械[[Determinism|决定论]]，为当代批判比较教育学树立了多标度、多维度的解释典范。
 > - **方法路径** 倡导“双重视野”（Double Vision）与宏微观贯通的比较案例设计（[[Comparative Case Study]], CCS），开创了将跨国宏观制度分析与微观人类学课堂[[Ethnography|民族志]]深度融合的方法论传统。
 > - **政策与机构批判** 对[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及大型跨国慈善基金会（福特、洛克菲勒、卡内基）的批判性政治经济学解构，深刻启发了全球教育学术界对跨国[[Policy Borrowing|政策借用]]、[[New Managerialism|新管理主义]]与[[Shadow State|影子国家]]外包风险的反思。
@@ -164,8 +154,6 @@ updated: 2026-10-22
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]的核心支柱。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 考恩与卡扎米亚斯论阿诺夫在比较教育学术史上的奠基地位
 > 罗伯特·阿诺夫是极少数成功将世界体系宏观分析、批判政治经济学与细致入微的地方教育[[Ethnography|民族志]]熔铸为一体的比较教育大家；他在 1980 年将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系分析]]引入本学科，并在 1990 年代系统确立[[Dialectic of the Global and the Local|全球与本土的辩证法]]，从根本上拓展了当代比较教育学的理论边界与批判深度。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 106)]]
@@ -191,8 +179,6 @@ updated: 2026-10-22
 > - **机构阵地** 印第安纳大学布卢明顿分校教育学院（长期执教）；[[Comparative and International Education Society|比较与国际教育学会]]（CIES，历任会长及终身杰出贡献学者）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

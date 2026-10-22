@@ -38,7 +38,6 @@ status: draft
 created: '2026-05-06'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** David Phillips 是牛津大学比较教育学教授，教育政策转移（educational policy transfer）研究领域的核心人物。他与 [[Kimberly Ochs]] 合作开发的[[Policy Borrowing\|政策借用]]四阶段模型（Four Stages of Policy Borrowing）和[[Cross-National Attraction\|跨国吸引]]力结构性类型学（Structural Typology of Cross-National Attraction）是该领域最具影响力的[[Analytic Framework\|分析框架]]之一。

@@ -73,11 +73,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Policy Entrepreneur
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **政策企业家（Policy Entrepreneur，又称政策创业者）**，是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值[[Discourse|话语]]，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）引入公共政策分析；迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动[[School Autonomy|学校自主]]的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论；[[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）则系统解构了政策企业家如何依托双层组织架构在公共行政、非营利与商业载体间无缝切换，实现学术成果商业化与制度套利。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47–50)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
@@ -114,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **政策机会窗口敏锐捕捉（[[Policy Window]] Coupling）** 密切监控社会矛盾、宏观政治动向与政府资助激励，在危机舆论爆发或财政拨款开启的短暂窗口期，迅速将预设的改革方案与社会痛点精准耦合。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 > - **跨界网络协同与多边同盟（Cross-Sector Networked Coalition）** 依托资深政界精英人脉、智库研究资源与学术领袖威望，绕过传统官僚[[Bureaucracy|科层制]]阻隔，组建跨越两党政要、商业领袖、基金会与专业组织的多元协同网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 73–74)]]
 > - **实证指标与核心价值策略性打包（Strategic Framing & Evidence Packaging）** 善于将冷峻的量化差距指标（如全美学生成绩评估 [[National Assessment of Educational Progress|NAEP]] 鸿沟、国际数学和科学评测 [[TIMSS]] 课程差距）与国家经济安全、阶层流动及社会正义等根本价值符号深度绑定，制造改革共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
@@ -179,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -198,8 +190,6 @@ updated: 2026-10-22
 > - **2016 — 公私混合创业与 [[Educational Management Organisation|EMO]] 制度套利诊断** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立教育改革的深度实证考察，揭示政策企业家在公共服务、非营利慈善与商业营利间无缝切换的微观运作路径与财务沉淀机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -223,8 +213,6 @@ updated: 2026-10-22
 > 政策企业家的解释力高度依赖于国家治理向[[Network Governance|网络化治理]]、合同承包或准市场机制开放的制度环境；在高度集权、行政指令严格闭环且排斥外部多元中介的传统刚性科层制体制下，政策企业家的活动空间极其受限。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

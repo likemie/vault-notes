@@ -77,11 +77,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# J. Robert Oppenheimer
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** J. 罗伯特·奥本海默（J. Robert Oppenheimer, 1904–1967）是美国理论物理学家，加利福尼亚大学伯克利分校物理学教授，二战期间受命担任[[Manhattan Project|曼哈顿工程]]新墨西哥州洛斯阿拉莫斯实验室（Y计划）科学主任。
@@ -110,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与职涯发展
 > - **1904年** 出生于美国纽约市一个富裕的德裔犹太家庭，早年在非宗派的伦理文化学校接受启蒙，展现出对化学、矿物学与古典文学的浓厚兴趣。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]
 > - **1925年** 以最高荣誉毕业于哈佛大学化学专业，本科期间师从诺贝尔物理学奖得主[[Percy Williams Bridgman|珀西·威廉斯·布里奇曼]]（Percy Williams Bridgman），随后赴英国剑桥大学卡文迪许实验室与德国哥廷根大学深造理论物理。
@@ -125,8 +119,6 @@ updated: 2026-10-22
 > - **1967年** 因喉癌逝世于新泽西州普林斯顿，享年 62 岁。
 
 ---
-
-## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展阶段
 > - **1920s–1930s — 量子物理前沿与理论学派奠基期** 专注于量子力学、光谱学与宇宙射线理论，开创美国本土理论物理学派。
@@ -172,8 +164,6 @@ updated: 2026-10-22
 > - **反文化个人计算对立[[Paradigm|范式]]代表（Countercultural Personal Computing Antithesis）** [[Steve Jobs|史蒂夫·乔布斯]]、[[Lee Felsenstein|李·费尔森斯坦]]、[[Stewart Brand|斯图尔特·布兰德]]、斯蒂芬·利维 — 1970 年代硅谷[[Counterculture Computing|反文化计算]]先驱，主张技术应赋权个体以反抗国家与企业机器，打破了奥本海默与布什开创的国家使命与科技共同体紧密结盟的传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议与历史反思
 >

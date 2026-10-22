@@ -62,11 +62,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# The Education Trust
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 教育信托（The Education Trust, EdTrust）是美国最具影响力的全国性非营利教育政策分析、倡导与中介研究机构（501(c)(3)）。机构以促进教育正义与民权平等为基石，致力于消除从学前到大学阶段有色人种学生与低收入家庭学生面临的[[Academic Achievement|学业成就]]鸿沟与资源机会差距；在联邦教育立法（如 [[No Child Left Behind Act 2001|NCLB]]、[[Every Student Succeeds Act|ESSA]]）与跨州课程改革（如 [[Common Core State Standards|CCSS]]）的宏观治理生态中，EdTrust 兼具权威的[[Educational Brokerage Agency|教育知识经纪机构]]与能动的[[Policy Entrepreneur|政策企业家]]双重角色。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 45)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1990–1996 — 创设与独立奠基期** 聚焦于揭示全美[[Academic Achievement|学业成就]]鸿沟的严峻现实，率先利用国家教育统计数据绘制州与学区层面的种族与收入学力差距图谱，打破当时学界与公众对贫困学生无法达到高学业标准的刻板赤字观念。
 > - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合[[Achieve|阿奇夫]]（Achieve）与[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > - **2015–至今 — 跨部门多元治理与高等教育公平扩展** 在 2015 年《每个学生都成功法》（[[Every Student Succeeds Act|ESSA]]）制定过程中，积极捍卫弱势亚群问责底线；同时将研究与倡导职能系统拓展至高等教育领域，重点攻坚大学资助分配不均、低收入学生毕业率差距及少数族裔师资队伍建设等系统性议题。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 41–42)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Directors）** 汇聚全美民权领袖、前联邦及州教育行政长官、知名学者、商界与慈善界公共事务专家，负责确立宏观战略方向、监督资金使用合规性并维护非党派独立信誉。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **政策简报与实证分析报告** 定期发布涵盖全美 K–12 资金充足性与公平性分析报告、高等教育性价比与种族权益指数白皮书，直接为州级教育财政诉讼和立法修订提供数据支持。
 > - **各州标准评估与差距映射报告** 长期发布各州学术标准严谨度比对与及格线映射报告，揭露各州自设标准的宽松水分，为推动全国统一标准提供基准诊断。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
@@ -118,8 +108,6 @@ updated: 2026-10-22
 > *The Education Trust is fiercely committed to closing the gaps in opportunity and achievement that affect students from low-income families and students of color.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与资助网络** 作为全美最具实力的 18 家教育组织之一，获得[[Bill & Melinda Gates Foundation|盖茨基金会]]数千万美元专项资助支持，常态化参与全美每周教育政策策略协调会。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
@@ -139,8 +127,6 @@ updated: 2026-10-22
 > - **1996** EdTrust 在卡蒂·海科克领导下正式独立注册为全国非营利法人的年份。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

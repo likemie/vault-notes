@@ -69,11 +69,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Precompetitive Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 前竞争研究（Precompetitive Research）是指处于早期探索与共性开发阶段、产出的知识产权（Intellectual Property, IP）尚不具备直接商业化形态的研究与试验开发活动。在[[University-Industry Collaboration|产学合作]]与高技术产业研发联盟（R&D Consortia）语境中，该概念用于划定竞争对手之间可以合法开展技术共享与联合攻关的制度安全区，使合作方共享共性技术开发成本与风险，同时将专有产品设计与商业竞争保留在各自企业内部。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 前竞争研究与相近研发形态辨析
 > | 比较维度 | 前竞争研究（Precompetitive Research） | 竞争型应用研究（Competitive/Product-Specific） | 纯基础研究（Basic Research） |
 > |:---|:---|:---|:---|
@@ -106,8 +100,6 @@ updated: 2026-10-22
 > | **法律与制度边界** | 免受《反垄断法》三倍赔偿惩罚（如美国 1984 年 NCRA 法案） | 受反垄断法规严格审查，严禁价格垄断与市场瓜分 | 享受公共财政无偿资助，强调[[Academic Freedom\|学术自由]]与信息公开 |
 
 ---
-
-## 核心要素
 
 > [!feature] 前竞争研究的治理要素
 > - **共性技术基础设施定位** 聚焦于行业通用测试标准、接口规范、物理极限探索与共性设备改良，而非具体的专有产品商业设计。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751, 754)]]
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 前竞争研究核心命题归纳
 > | 命题类型 | 核心机制与指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -172,16 +162,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、MCC 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
 > - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、[[Cost of Ownership|所有权成本模型]]（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
 > - **2000s–至今 — 产学两层知识产权与[[Public-Private Partnership|公私伙伴关系]]（PPP）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]] [[National Science and Technology Council|NSTC]]），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -199,8 +185,6 @@ updated: 2026-10-22
 > > - **[[Argument_Logar_2014_Minerva|Logar et al. (2014)]]** 通过[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的制度演进表明，前竞争联盟必须通过设立分立的子计划矩阵（如 3–5 年应用导向的 GRC 与 10–15 年超越硅基极限的 [[Focus Center Research Program|FCRP]]/NRI）来对冲商业应用对基础科学的挤出；但同时也警示，一旦完全依赖私营会员会费，前竞争基础研究预算将在行业景气下行期高度脆弱。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > | 研究 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]或指标 | 原始实证结果 | 显著性或不确定性 | 解释边界 |

@@ -44,11 +44,7 @@ created: 2026-08-28
 updated: 2026-10-22
 ---
 
-# Dublin Descriptors
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 研发主体** 2004 年由欧洲联合质量倡议（Joint Quality Initiative, JQI）非正式网络研制，并在 2005 年[[Bologna Process\|博洛尼亚进程]]卑尔根部长级会议（Bergen Communiqué）上正式采纳为[[European Qualifications Framework\|欧洲高等教育区资格框架]]（QF-EHEA）的核心基准。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 12–14)]]
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **核心使命** 为博洛尼亚进程“学士-硕士-博士”三级学位架构提供统一、通用且成果本位（Learning Outcomes-Based）的跨国可比描述符，推动学分互认（ECTS）与质量保障。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 都柏林描述符构建了涵盖五大通用维度的阶梯式素养进阶体系，在学士（第 1 周期）、硕士（第 2 周期）与博士（第 3 周期）各层级明确将批判性反思与创新[[Problem Solving\|问题解决]]确立为法定毕业资质。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 12–14, 27)]]

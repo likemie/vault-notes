@@ -50,13 +50,9 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Researchfish
-
 ---
 
-## 平台背景与制度定位
-
-> [!claim|lead] 制度定位
+> [!claim] 平台背景与制度定位
 > **英国科研成果与影响追踪系统（Researchfish）** 是英国研究与创新署（UK Research and Innovation, UKRI）、经济与社会研究理事会（Economic and Social Research Council, ESRC）、医学研究理事会（[[Meta-Representational Competence\|MRC]]）及主要慈善基金会联合采纳的云端科研产出与长效影响力报告平台。该平台要求所有获得公共科研经费资助的首席科学家在项目结项后长达 5 至 10 年内，持续填报科研论文、政策采纳、专利转化、媒体报道及现实社会经济[[Research Impact\|研究影响力]]，是英国高等教育在[[New Public Management\|新公共管理]]（New Public Management, NPM）导向下构筑学术审计文化的核心技术装置。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
 
 > [!program-context] 制度背景
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **核心治理目标** 满足财政部与公众对公共科研经费投入产出比（Value for Money）的绩效审计诉求，为英国卓越研究框架（[[Research Excellence Framework]], REF）的评估与下一轮拨款提供直接的实证影响证据库。
 
 ---
-
-## 运作机制与填报规程
 
 > [!claim] 监控机制假说
 > 假定通过跨周期的强制性、标准化在线产出与影响力填报，能够有效打通科研成果向政策实践与产业落地的转化渠道，强化科研工作者服务国家战略与社会经济发展的责任伦理。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 571–573)]]
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > *Funders such as the ESRC now require knowledge exchange and impact activities in proposals for research, and track the impact of the research using systems such as ResearchFish, and celebrate successful impact through prizes... Chubb and Watermeyer (2017) describe how the demands of funders and the [[Research Excellence Framework]] (REF) led to academics systematically exaggerating and fabricating the significance of their work.*
 
 ---
-
-## 制度异化与批判性反思
 
 > [!debates] 核心学术争议与制度批判
 >

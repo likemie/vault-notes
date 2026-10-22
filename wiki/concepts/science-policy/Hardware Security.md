@@ -45,11 +45,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Hardware Security
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **硬件安全（Hardware Security / Hardware Integrity and Security）** 指涵盖微电子器件与集成电路全生命周期（涵盖材料选型、逻辑综合、物理版图、晶圆流片、先进封装、测试筛选直至终端部署与废弃）的系统性安全防御技术、架构规范与工程方法。其核心目标在于防范外部敌对势力或非可信供应链引入的恶意硬件木马、物理侧信道攻击（Side-Channel Attacks）、故障注入攻击、逆向工程与假冒伪劣芯片，并在芯片内部构建硬件信任根（Hardware Root of Trust）、零信任物理认证机制以及抗物理探测的加密防线，确保国家关键基础设施与国防微电子系统的[[Trustworthiness|可信赖性]]（Trust and Assurance）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 13, 18–19)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 安全防护[[Paradigm|范式]]对比
 > | 维度 | 硬件安全（Hardware Security） | 软件网络安全（Software Security） | 传统器件[[Reliability\|可靠性]]（Device Reliability） |
 > |---|---|---|---|
@@ -81,8 +75,6 @@ updated: 2026-10-22
 > | **核心防御机制** | 物理不可克隆函数（PUF）、防篡改网格、差分功耗混淆 | 访问控制列表、数据加密传输、内存安全沙箱 | 降额设计、纠错码（ECC）、抗辐照物理加固 |
 
 ---
-
-## 核心要素
 
 > [!feature] 硬件安全的关键技术支柱
 > - **硬件信任根（Hardware Root of Trust, RoT）** 在芯片内部嵌入不可篡改的加密密钥存储单元、真随机数发生器与物理不可克隆函数（Physical Unclonable Function, PUF），为上层系统提供唯一的物理身份凭证。（p. 18）
@@ -125,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 硬件安全核心命题概览
 > | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
 > |---|---|---|---|
@@ -144,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 硬件安全学术争议与工程张力
 >
 > > [!axis] 安全防护开销：内生安全防御 vs 商业算力与面积能效损耗
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > > - **传统军规可信代工（Trusted Foundry）支持者** 坚持认为唯有完全由本国受控的封闭专用可信晶圆厂才能保证硬件的绝对纯净，设计端算法防御无法完全阻断恶意代工厂在底层掺杂层施加的隐蔽物理篡改。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

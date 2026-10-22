@@ -53,11 +53,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Complier Average Causal Effect
-
 ---
-
-## 定义
 
 > [!def] 概念定义
 > **顺从者平均因果效应（Complier Average Causal Effect, CACE）**，亦称**依从者平均因果效应**，是由统计学家 Donald B. Rubin 与经济学家 Joshua Angrist、Guido Imbens 于 1996 年形式化建立的现代[[Causality\|因果推断]]核心概念，是指在存在**不完全依从（Non-[[Strategic Compliance|compliance]] / Treatment Non-adherence）** 的随机实验中，干预措施对那些“若被分配至干预组就会实际接受干预、若被分配至对照组就会实际接受对照”的**顺从者群体（Compliers）** 所产生的平均因果净效应([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心机制与数理模型
-
 > [!mechanism] 四大潜在顺从行为子群
 > 在双盲或单侧依从实验中，基于分配状态 $Z \in \{0, 1\}$ 与实际接受状态 $D \in \{0, 1\}$，总体被分解为：
 > 1. **顺从者（Compliers）** $D(1)=1$ 且 $D(0)=0$；分配到干预组就参与、分配到对照组就不参与（因果效应可识别的核心主体）。
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > 4. **对抗者（Defiers）** $D(1)=0$ 且 $D(0)=1$；分配到干预组反而故意不参加、分配到对照组反而设法参加。现代[[Causality\|因果推断]]通常引入**单调性假设（Monotonicity / No-Defiers Assumption）** 排除此类群体。
 
 ---
-
-### 工具变量法与局部瓦尔德估计
 
 > [!formula-step] CACE 局部平均处理效应计算公式
 > 在满足**独立性假设**、**排除性约束**与**单调性假设**的前提下，CACE 的两阶段最小二乘（2SLS）/ 瓦尔德估计量表达为：
@@ -113,16 +105,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念边界与常见误区
-
 > [!boundary]- 概念辨析与适用边界
 > - **CACE vs 完工者分析（Per-Protocol / As-Treated）** 完工者分析简单粗暴地剔除违约者，直接对比实际完成者与对照组，彻底破坏了[[Random Assignment\|随机化]]平衡（引入严重选择偏倚）；CACE 运用工具[[Variable\|变量]]模型，利用外生随机分配 $Z$ 作为杠杆，[[Causality\|因果推断]]具有严密的无偏数学保证。
 > - **CACE vs [[Advanced Technological Education|ATE]]（总体平均处理效应）** ATE 代表若强制全员 100% 接受干预时的理论总体平均值；CACE 仅代表自然状态下愿意顺从该干预的子群体效应（若干预强制推广至从不接受者，效应可能大幅下降）。
 > - **排除性约束失效风险** 若实验组学生得知自己入组后产生了强烈的期望效应（心理安慰剂），即使未实际使用干预也提高了成绩，此时工具变量排除性假设被击穿，CACE 估计将产生系统偏误。
 
 ---
-
-## 典型应用与反思案例
 
 > [!case] 特许学校抽签入学与 CACE 估计（Angrist et al., 2002）
 > 某城市优质特许学校提供 200 个入学名额，400 名申请者参与随机摇号：

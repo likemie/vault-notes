@@ -37,11 +37,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Social Learning Theory
-
-## 核心主张
-
-> [!tip|notitle]
+> [!tip] 核心主张
 > 社会学习理论（social learning theory）试图在认知心理学与行为修正原理之间实现平衡的综合。其统一理论框架以认知、行为和环境决定因素之间的持续交互互动来解释人类行为（Bandura, 1977, p.vii; 引自 Creswell & Creswell, 2022, p.60）。
 
 > [!quote|notitle]
@@ -51,9 +47,7 @@ updated: 2026-10-22
 
 社会学习理论虽然接受强化（如塑造原则）的应用，但倾向于将奖励的作用视为既传递关于最优反应的信息，又因预期奖励而为特定行为提供激励动机。此外，该理论的学习原则特别强调替代性（vicarious）、象征性（symbolic）和自我调节（self-regulating）过程的重要作用(Bandura, 1971; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.60]])。
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > Rotter (1954) 提出解释社会学习理论必须考虑四类[[Variable\|变量]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.60–61]])：
 
 - **行为 (behavior)** 期望发生的具体行为。

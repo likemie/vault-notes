@@ -52,11 +52,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Robust Variance Estimation
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE，亦称聚类稳健方差估计 Cluster-Robust Variance Estimation, CRVE 或三明治估计量 Sandwich Estimator）是一种在[[Meta-analysis\|元分析]]（Meta-Analysis）、[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）与[[Meta-regression\|元回归]]（Meta-Regression）中处理统计依赖[[Effect Size\|效应量]]的非参数方差估计方法（Hedges, Tipton & Johnson, 2010; Tipton & Pustejovsky, 2015; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 5]]）。当研究中存在多重结果测量、同一被试纵向追踪或跨元分析文献重叠导致数据存在聚类依赖时，RVE 基于经验残差构造渐近一致的协方差三明治矩阵，无需准确获知研究内的真实相关系数矩阵，即可获得渐近无偏且稳健的[[Standard Error\|标准误]]、[[Confidence Interval\|置信区间]]及假设检验结果。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位与理论演进
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 承认真实研究中[[Effect Size\|效应量]]之间普遍存在不可避免的聚类相关与文献重叠，统计推断应建立在对依赖结构具备容错能力的经验三明治估计之上，而非不切实际的独立性假定。
 > - **研究者角色** 设定合理的工作模型（如[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]] Correlated and Hierarchical Effects Model, CHE，$\rho = 0.8$）以优化加权效率，依靠三明治经验残差为模型误设提供稳健性保护。
@@ -92,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序与建模步骤
-
 > [!proc] 通用程序
 > 1. **数据准备与集群编码** 提取一阶[[Effect Size\|效应量]]并为其分配所属集群编号（如一阶[[Meta-analysis\|元分析]]编号或主要研究编号），统一转换为费舍尔 $z$。
 > 2. **设定 [[Correlated and Hierarchical Effects Model\|CHE]] 工作模型** 采用[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]，假定集[[Intraclass Correlation Coefficient\|群内相关系数]]（如 $\rho = 0.8$）以构建逆方差权重矩阵。
@@ -103,8 +95,6 @@ updated: 2026-10-22
 > 6. **敏感性分析与偏倚校正** 在 $\rho \in [0.0, 0.9]$ 范围内浮动检验结果稳健性，结合[[Multilevel Egger's Test\|多水平艾格回归]]检验[[Publication Bias\|发表偏倚]]。
 
 ---
-
-## 核心数学模型与完整推导：从 Wecker 经典加权到三明治估计量
 
 > [!formula-set]- 从 Wecker 经典[[Inverse-Variance Weighting\|逆方差加权]]到现代三明治估计量的数学推导与演进
 > ```mermaid
@@ -194,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 软件实现与代码规程
-
 > [!software-impl] R 语言环境（metafor 与 clubSandwich）实现
 > ```R
 > library(metafor)
@@ -221,8 +209,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用判断
 > - **强烈推荐** 一项[[Meta-analysis\|元分析]]中包含多重结果测量、纵向追踪、多组比较，或[[Meta-meta-analysis\|二阶元分析]]中存在大量重叠一阶文献时。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]

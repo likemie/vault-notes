@@ -68,11 +68,7 @@ created: 2026-06-12
 updated: 2026-10-22
 ---
 
-# Manuel Castells
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 西班牙著名社会学家，南加州大学传播学与社会学讲座教授（Wallis Annenberg Chair in Communication Technology and Society），曾任加州大学伯克利分校城市与区域规划及社会学教授、西班牙大学部部长（2020–2021）。
@@ -97,16 +93,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展阶段与代表著作
 > - **1970s — 城市马克思主义与集体消费** 关注资本主义城市化中的社会运动与空间冲突。代表作《城市问题：马克思主义的方法》（*The Urban Question*, 1972）。
 > - **1980s–1990s — 信息技术革命与[[Network Society|网络社会]]崛起** 跨入宏观技术社会学，考察[[Informationalization|信息化]]生产方式与全球网络结构。代表作《信息时代》三部曲：第 1 卷《网络社会的崛起》（*The Rise of the Network Society*, 1996）、第 2 卷《认同的力量》（*The Power of Identity*, 1997）、第 3 卷《千年终结》（*End of Millennium*, 1998）。[[Argument_Chan_2015_Intersect|(Chan, 2015)]] / [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]
 > - **2000s 至今 — 传播权力与大众自传播** 聚焦数字网络时代的媒介权力、政治营销与社会抗争。代表作《网络星系》（*The Internet Galaxy*, 2001）、《传播权力》（*Communication Power*, 2009）、《愤怒与希望的网络》（*Networks of Outrage and Hope*, 2012）。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 357)]]
 
 ---
-
-## 核心思想
 
 > [!claim] 核心理论主张
 > 信息技术革命奠定了以节点和网络为基本组织的社会结构（[[Network Society|网络社会]]）。社会的生产力模式从工业主义转向[[Informationalism|信息主义]]，社会财富与权力的控制权集中于跨国流通的[[Space of Flows|流动空间]]。与此相伴随的是深刻的空间与阶层撕裂：掌握资本、代码与战略决策的精英阶层具有高度的[[Cosmopolitanism|世界主义]]脱嵌特征，而普通公众则受困于具体的场所空间；传统国家机器演变为需在多边网络中妥协协商的网络国家，高度依赖以简化口号和媒体包装为特征的[[Governance by Spin|舆论操控]]。
@@ -136,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
 > [!influence-path] 理论影响与实证应用
 > - **理论路径** 其空间二分法（[[Space of Flows|流动空间]] vs 场所空间）打破了社会科学中的[[Methodological Nationalism|方法论民族主义]]，为批判地理学、国际政治经济学与比较教育学提供了跨[[Scale in Higher Education|尺度分析]]工具。
 > - **比较教育与[[Discourse|话语]]流通研究** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）深度吸纳卡斯特的空间理论，将“全球学术空间”定性为依托国际学术期刊、专著、国际会议、学者流动与科研项目等物质支撑建构的流动空间，揭示进入该空间的行动者必须兼具本土文化与大都市“全球学术文化”的双语能力；同时论证了流动空间中过度简化的去情境化方案（[[Global Educational Discourse|全球教育话语]]）降落到扎根于场所空间的学校时产生的剧烈实践异化与[[Gatekeepers|守门人]]群体垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
@@ -146,8 +136,6 @@ updated: 2026-10-22
 > - **科技精英与政治哲学批判** 其关于“[[Cosmopolitanism|世界主义]]精英与本土大众”的洞见，被用于剖析当代硅谷科技巨头在享受国家研发红利的同时陷入[[Technological Agnosticism|技术不可知论]]与[[Cult of Optionality|选择权崇拜]]的深层精神脱嵌。
 
 ---
-
-## 争议与局限
 
 > [!critique] 学术争议与理论局限
 > - **场所空间的物质能动性被低估** [[Argument_Beech_2009_CE|Beech (2009a, p. 349)]] 指出，Castells 强调了[[Space of Flows|流动空间]]对场所空间的支配地位，但教育等深层社会实践必须在具体的[[Space of Places|地方空间]]中展开。忽视地方制度与历史[[Discourse|话语]]的中介作用，无法充分解释全球政策落地时发生的深层[[Shape-Shifting|形变]]。

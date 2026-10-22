@@ -57,11 +57,7 @@ created: 2026-09-27
 updated: 2026-10-22
 ---
 
-# Education Sciences Reform Act 2002
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2002 年 11 月 5 日由美国第 107 届国会通过，总统乔治·W·布什（George W. Bush）签署生效（Public Law 107-279）。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **制度位置** 承接并替代 1994 年《教育研究、发展、传播与改进法案》（Educational Research, Development, Dissemination, and Improvement Act of 1994），作为统领全美联邦教育科研资助、国家统计与项目评估的根本成文法。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法案正式废除[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI），设立独立于政治干预的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES），并在法律文本中确立了以探究问题适配性为导向的[[Scientifically Based Research|科学本位研究]]标准（Scientifically Based Research Standards），奠定了国家教育科学治理体系。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
@@ -104,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2000 年[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]提出迈克尔·卡斯尔（Michael Castle）议员草案（H.R. 4875），试图以量化实验与质性探索的二元标准重组 [[Office of Educational Research and Improvement|OERI]]。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - 2001 年国家教育研究政策与优先事项委员会（NERPPB）委托美国[[National Research Council|国家研究委员会]]（NRC）开展教育科学原则专项研究，发布《教育科学研究》（Scientific Research in Education, SRE）前言报告。
@@ -113,8 +105,6 @@ updated: 2026-10-22
 > - 2002 年秋经修订的法案版本（H.R. 3801）获得国会通过并由布什总统签署为法律（Public Law 107-279），《教育科学改革法》正式颁行。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–34)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国国会立法通过，总统签署颁布。
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > - **配套评估延伸** 资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），研制设计与[[Implementation and Process Evaluation|实施评估]]规程（[[Study Design and Implementation Assessment Device|Study DIAD]]），逐步确立全国教育干预的实证审核基准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 国会[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]领袖迈克尔·卡斯尔（Michael Castle）与比尔·古德林（Bill Goodling）、美国教育部及新设立的 [[Institute of Education Sciences|IES]] 领导层。
@@ -150,9 +138,7 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **立法界定的实质性拓宽** 相比 2000 年初始 Castle 草案（H.R. 4875）将[[Qualitative Research|质性研究]]贬低为非严谨的“初步探索”并强推量化实验假说检验，最终生效的 ESRA 删除了硬性假说检验要求，确立了统摄整体探究的客观质量标准，为描述性、探索性与假说生成型研究保留了法定空间。
 > - **明确方法契合问题原则** 法案在条文中写入“根据所开展研究的具体情况”与“采用与所提出[[Research Question|研究问题]]相契合的研究设计与方法”，标志着联邦立法承认[[Scientific Method|科学方法]]不能先验钦定，而必须由研究问题的[[Epistemology|认识论]]属性决定。
 > - **行政执行层面的因果偏好惯性** 尽管法定标准相对包容，但美国教育部 2002–2007 年战略规划仍明确要求到 2004 年 75% 的因果资助项目必须采用[[Random Assignment|随机分配]]；在 2002 财年，[[Institute of Education Sciences|IES]] 资助的全部因果主张项目均采用了随机设计，显示出行政执行规程对立法意图的偏向性收紧。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
@@ -161,8 +147,6 @@ updated: 2026-10-22
 > - **75% / 100%** 联邦教育部规划设定的因果研究随机分配资助目标比例，以及 IES 在 2002 财年针对[[Causality|因果推断]]主张实际资助项目中采用随机分配设计的比例。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

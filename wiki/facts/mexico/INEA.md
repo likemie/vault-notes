@@ -45,11 +45,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# INEA
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 墨西哥全国成人教育学会（Instituto Nacional para la Educación de los Adultos, INEA）是墨西哥公共教育部（SEP）直属的联邦分权化公立机构，负责统筹、规划并实施全国 15 岁以上未完成正规义务教育群体的基础扫盲、初等及中等成人教育服务。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
@@ -62,16 +58,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1981–1988 年 — 创设与全国扫盲运动** 建立全国三级成人教育网络，发起国家扫盲计划（PRONALF），动用数十万志愿青年开展大规模扫盲，成为威权国家平息底层怨气的重要社会干预工程。
 > - **1990 年代 — 分权化与模块化转型** 响应[[World Bank|世界银行]]与联邦政府分权化改革，将办学运营职能下放给各州成人教育学会（IEEA），并引入模块化生命与工作教育模式（MEVyT）。
 > - **2000 年代至今 — 社区数字化与原住民双语扫盲** 设立遍布全国的“社区广场”（Plazas Comunitarias），引入信息技术与原住民语言扫盲，但受制于财政预算缩水，成人教育依然面临生均投入微薄与流失率高的困境。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Junta Directiva）** 由公共教育部长担任主席，联合财政部、社会发展部及全国教师工会代表组成。
@@ -83,8 +75,6 @@ updated: 2026-10-22
 > - **[[Compensatory Legitimation|补偿性合法化]]的实施杠杆** 批判学者指出，国家通过设立 INEA 向失学底层大众发放象征性的学历提升希望，以此缓和经济停滞带来的阶级对抗，却未触动导致贫困与失学的深层土地与收入分配不平等。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
-
-## 在批判教育政治社会学中的学术定性
 
 > [!citation-card] 托雷斯与莫拉莱斯-戈麦斯论 INEA 扫盲工程的[[Compensatory Legitimation|补偿性合法化]]实质
 > 在墨西哥后革命国家的[[Neocorporatism|法团主义]]体制下，教育政策深受执政党维系统治统识的驱动。面对严重的社会不平等与底层抗争，国家并非致力于深层的社会财富再分配，而是将成人教育（以 INEA 为载体）作为全面推行补偿性合法化（Compensatory Legitimation）的综合工程，用微薄的边际教育资源换取大众对威权国家政治秩序的顺从与支持。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]

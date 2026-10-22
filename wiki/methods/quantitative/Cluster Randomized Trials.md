@@ -78,11 +78,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Cluster Randomized Trials
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **集群随机试验（Cluster Randomized Trials, CRCT）**，亦称**整群随机试验**或**群组[[Randomised Controlled Trials\|随机对照试验]]（Group-Randomized Trials, GRT）**，是指将完整的自然群体（如学校、班级、学区或社区）而非单个个体作为[[Random Assignment\|随机分配]]（Random Assignment）的基本单位，而在群体内部的个体（如学生、教师）层面收集数据并评估干预效果的真实实验设计([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 316–318]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
@@ -102,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **认识论取向** 承认学校教育系统具有嵌套性（Nested Structure）与生态学特征，认为将学生个体从其所属班级与同伴生态中生硬剥离[[Random Assignment\|随机分配]]是不切实际的还原主义。
 > - **内部因果效度与外部概化力双重保障** 批评者常担忧实验结论无法跨情境推广（[[Threats to External Validity\|外部效度威胁]]）。[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）指出，现代方法学要求必须在集群层级开展多层建模（[[Hierarchical Linear Model\|HLM]]）以消除忽略 [[Intraclass Correlation Coefficient\|ICC]] 造成的假阳性，这通常迫使研究必须招募 **40 至 50 所学校（如 25 所实验校 vs 25 所对照校）** 以满足统计功效。这种大样本学校池的随机分配在技术上产生了一个关键附带收益：个别学校的极端背景（如卓越校长或异常骨干师资）被有效平滑与平均化，使得实验样本具备高度的宏观代表性，从而在捍卫[[Internal Validity\|内部效度]]的同时有力确立了[[External Validity\|外部效度]]（概化力）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 8, 10)]]
@@ -116,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 集群随机试验标准实施六步规程
 > 1. **集群抽样与基线评估** 招募足够数量的自然学校或班级（通常要求每组至少 15–30 个集群以上），采集学校背景及历史基线成绩。
 > 2. **实施集群层级[[Random Assignment\|随机分配]]** 在学校或班级层面进行完全随机化（可结合学区或生源特征进行分层块随机分配 Stratified Block Randomization）。
@@ -127,8 +119,6 @@ updated: 2026-10-22
 > 6. **实施自由度校正与稳健性检验** 针对小样本集群（如学校数 $< 30$），采用 Satterthwaite 或 Kenward-Roger 自由度调整，防止过失显著性（Type I Error）。
 
 ---
-
-### 集群效应膨胀与数理校正模型
 
 > [!formula-step] 群内相关（ICC）与设计效应（Design Effect）计量模型
 > 
@@ -162,16 +152,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!fit-grid] 适用判断
 > - **适合使用** 全校综合改革（CSR）、新教材与教学模式在整班维度的试点、班级师资培训项目、旨在重塑学校文化或校风的干预方案。
 > - **谨慎使用** 能够招募的学校/班级总数极少（如总共只有 4–6 所学校），此时即使每校包含千名学生，统计功效依然极其匮乏。
 > - **不适合使用** 针对个体学生的电脑自适应辅导软件（无同伴扩散风险时应优先采用个体级 [[Randomised Controlled Trials\|RCT]] 以最大化统计功效）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 效度威胁、偏误来源与误用风险
 > - **单位错位分析偏误（Unit-of-Analysis Error）** 绝大多数误用源于研究者将 $N$ 记为学生总数直接套用普通 [[Analysis of Variance\|ANOVA]] 或 $t$ 检验，虚假膨胀 $t$ 值导致原本不显著的结果呈现出伪显著性。
@@ -191,8 +177,6 @@ updated: 2026-10-22
 > | [[What Works Clearinghouse]] | 评价机构 | 建立了国际最严谨的 CRCT 多层集群校正与自由度审查规则。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析集群处理在 12 所清算中心审查中的系统性分化，揭示未校正 [[Intraclass Correlation Coefficient\|ICC]] 与[[Unit of Analysis\|分析单位]]错位是导致虚假显著性评级的核心技术根源(pp. 8–11)。

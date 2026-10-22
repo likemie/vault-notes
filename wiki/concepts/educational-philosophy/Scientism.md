@@ -80,11 +80,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Scientism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学主义是一种将自然科学的方法与权威过度外推至人类精神、社会文化与教育探究领域的排他性[[Epistemic Stances|认识论立场]]。马克斯·霍克海默（Max Horkheimer, 1972）将其界定为“科学对自身的迷信”——深信实证科学是开展探究与解释现象的唯一合法途径，并将关于自然的概念全面数学化；[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1972）进一步揭示科学心态已演变为当代西方社会的新宗教，将全部人类知识窄化为实证科学，扼杀了伦理、价值与审美维度的理性审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。在当代教育领域，科学主义表现为对数字、[[Effect Size|效应量]]与工业研发（R&D）管理逻辑的狂热崇拜（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 与相关概念的区别
 > | 维度 | Scientism (科学主义) | [[Cargo Cult Science]] (草包族科学) | [[Evidence-Based Education]] (循证强版本) | [[Technical Rationality]] (技术理性) |
 > |---|---|---|---|---|
@@ -112,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **还原主义（Reductionism）** 将复杂立体的人类教育现象简化为可测量的少数[[Variable|变量]]，忽视无法量化的精神、意向与生命经验（Hayek, 1942; Sergiovanni, 1989）。
 > - **过度重视经验数据** 将实证量化数据视为唯一或最高形态的知识，排斥诠释学、审美体验、批判自省、道德伦理和[[Creativity|创造性]]等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）。
 > - **企业研发管理主义的历史源流** 源于二战后科学与工程技术结合催生的工业研发（R&D）体制；技术官僚与工程师将技术[[Determinism|决定论]]、社会工程与自由市场计量理念输入公共治理，成为新自由主义教育改革的意识形态基石（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
@@ -208,8 +200,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 五大命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -231,8 +221,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 科学主义的核心争议
 >
 > > [!axis] 科学主义批判的有效边界
@@ -249,8 +237,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 比较教育学理论[[Paradigm|范式]]演变与实证分布
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -259,8 +245,6 @@ updated: 2026-10-22
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132, 135)]] | 《比较教育评论》（CER）等主流期刊长期发表论文计量分析 | 理论范式与母学科认同分布 | 1960 年代[[Structural Functionalism\|结构功能主义]]与现代化理论的一统天下瓦解，至 1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%）；社会学、政治学与经济学并列为三大母学科 | 揭示单一科学主义垄断的崩溃，实证多元性不等同于所有范式在政策制定中具有同等权重 |
 
 ---
-
-## 关键引用
 
 > [!citation-card] 霍克海默与[[Jürgen Habermas|哈贝马斯]]论科学主义的自我神化与工具理性危机
 > [[Positivism|实证主义]]是对自然概念的数学化，而科学主义则是科学对自身的盲目崇拜——深信科学是开展研究与解释现象的唯一方式。科学心态已被提升至几乎不容置疑的霸权地位，近乎成为当代西方社会的新宗教（科学主义），成为唯一合法的[[Epistemology|认识论]]。在此视角下，一切知识皆被等同于实证科学知识，粗暴剥离了诠释学、美学、批判、道德与[[Creativity|创造性]]认知形式，使人类行为退化为纯粹的技术操控。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Horkheimer, 1972; Habermas, 1972, cited in Cohen et al., 2011, p. 115)]]
@@ -287,8 +271,6 @@ updated: 2026-10-22
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 阐明科学主义批判的高度情境依赖性，揭示科学在不同地缘文明与历史时期的权力[[Heterogeneity|异质性]]。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念网络图
 >

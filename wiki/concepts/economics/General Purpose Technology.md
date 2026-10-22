@@ -84,11 +84,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# General Purpose Technology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 通用目的技术（General Purpose Technology, GPT）是指一类在整个经济体系中具有高度广泛渗透性、长期技术动态改进潜力以及强大下游互补创新诱发能力的根本性技术[[Paradigm|范式]]（Bresnahan & Trajtenberg, 1995; Lipsey et al., 2005）。这类技术在诞生初期通常仅服务于特定细分市场（如军用或专用实验领域），随着规模制造、[[Application Engineering|应用工程]]与系统级标准接口的协同突破，逐步扩散至计算机、消费电子、通信与制造业等广泛部门，成为推动[[Total Factor Productivity|全要素生产率]]（Total Factor Productivity, TFP）增长的通用技术引擎。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–181)]]
@@ -117,8 +113,6 @@ updated: 2026-10-22
 > | **生产率效应** | 具有长期时滞，但带来全局[[Total Factor Productivity\|全要素生产率]]系统性提升 | 短期内提升局部产出，对宏观经济带动有限 | 稳步释放小幅成本削减收益 |
 
 ---
-
-## 核心要素
 
 > [!feature] 通用目的技术的三大支柱要素
 > - **普遍渗透性（Pervasiveness）** 作为基础投入品进入计算机、工业控制、通信、消费电子等多元产业部门，重构各行业的基础系统设计。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–180)]]
@@ -224,8 +218,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
@@ -252,8 +244,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 军工采购驱动论 vs. 商业市场与企业战略驱动论
@@ -264,8 +254,6 @@ updated: 2026-10-22
 > > - **生命周期与两阶段整合论（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）** 调和了前两派分歧，指出公共采购的杠杆效能严格取决于产业生命周期：在产业萌芽阶段（1950s–1960s），先导采购与第二货源对于分担高昂试错成本与培育企业进入不可或缺；而在商业成熟阶段（1970s以后），商业市场成为主导，自上而下的军用规格干预反会导致政策失灵，技术由民用向军工逆向流动。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–34, 41)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 通用目的技术（微电子、计算机与信息技术）公共培育与产业演进的历史实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

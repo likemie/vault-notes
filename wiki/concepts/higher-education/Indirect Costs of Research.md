@@ -49,11 +49,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Indirect Costs of Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科研间接成本（Indirect Costs of Research），在当代美国联邦科技资助体系中正式界定为**设施与行政管理费（Facilities and Administrative costs, F&A）**，亦通称为管理费（Overhead），指大学在执行外部科研项目过程中实际发生、但无法直接且明确归因于某一具体课题合同的机构运转与支持性支出（涵盖实验室建筑物折旧、水电通风、安保清洁、图书与网络系统、科研伦理审查及财务法务合规等）；联邦资助机构通常通过在直接研究经费（Direct Costs）之上按经谈判商定的百分比费率（Indirect Cost Rate）向大学提供额外资金补偿。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 5, 11, 15–17)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 间接成本与直接成本及基础事业拨款辨析
 > | 维度 | 科研间接成本（F&A / Indirect Costs） | 科研直接成本（Direct Costs） | 基础事业财政拨款（[[Block Grants\|block grant]]） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **财务风险承担** | 若项目缩减或管理费封顶，大学需内部贴补 | 若项目结题或超支，课题组自行调剂 | 宏观财政削减时由全校各部门均摊紧缩 |
 
 ---
-
-## 核心要素
 
 > [!feature] 间接成本核算与运作的核心要素
 > - **设施费组件（Facilities Component）** 包含实验建筑物及改良工程折旧、仪器设备折旧、利息开销以及日常运营和维护（O&M）；构成了间接费中波动最大且推动大学举债建楼的核心成分。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28)]]
@@ -138,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 科研间接成本机制的演化历程
 > - **1945 — 布什设想的低间接费初衷** 《[[Science, The Endless Frontier 1945|无尽的前沿]]》设想大学主要作为具备纯粹学术环境的场所，联邦主要资助直接研究，间接费处于边缘地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 4–5)]]
 > - **1950s — 15% 刚性封顶限制** [[National Science Foundation|NSF]] 与国会在资助初期坚持对间接成本设定 15% 的固定比例上限，大学长期抱怨科研项目造成院校自身财政失血。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 11)]]
@@ -148,8 +138,6 @@ updated: 2026-10-22
 > - **1991 — OMB A-21 通告设定 26% 行政封顶** 斯坦福大学游艇报销等间接费丑闻爆发后，联邦管理与预算局（OMB）对行政费组件施加 26% 的硬性上限，促使大学将更多成本转入设施折旧与校内自筹。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 23)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议交锋
 >
@@ -160,8 +148,6 @@ updated: 2026-10-22
 > > - **一线科学家与国会审计批评** 基层科研人员指出，超过 50% 甚至高达 70% 的间接费抽成直接严重蚕食了一线研发经费的实际购买力，巨额公帑被大学用于豢养臃肿庞大的行政官僚体系与营建奢华的非教学建筑。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23, 30–31)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 间接成本与高校科研基建实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

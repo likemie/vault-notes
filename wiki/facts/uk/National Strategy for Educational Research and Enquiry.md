@@ -64,11 +64,7 @@ created: 2026-09-13
 updated: 2026-10-20
 ---
 
-# National Strategy for Educational Research and Enquiry
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景档案
 > - **发布时间 / 发布主体** 2018 年 11 月由英国教育部正式委托威尔士政府牵头，联合威尔士[[Evidence Ecosystem\|教育研究生态系统]]内外多元机构与学者展开协同共创，历时三年研讨于 2021 年正式发布《NSERE 愿景文件》（Vision [[Document]]）。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 116)]]
@@ -77,8 +73,6 @@ updated: 2026-10-20
 > - **制度位置** 作为威尔士权力下放（Devolution）治理背景下的国家级中长期战略纲领，与英格兰以 [[Education Endowment Foundation\|EEF]] 为核心的中介证据库模式形成互补，构筑起威尔士独立统筹的生态型教育科研知识基础设施。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心定位
 > 威尔士国家教育研究与探究战略（National Strategy for Educational Research and Enquiry, NSERE）是威尔士政府出台的国家级长期综合治理纲领，旨在全面统筹以研究为中心的政策制定活动，大力发展决策官员与教育专业人员有效运用科研证据的专业素养，确保教育公共政策与学校日常实践均能获得现有最佳实证研究的充分支撑。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 116–117)]]
@@ -100,8 +94,6 @@ updated: 2026-10-20
 
 ---
 
-## 时间线
-
 > [!timeline] 政策演进脉络
 > - **2018 年 11 月** 英国教育部正式委托威尔士政府牵头，确立协同共创全系统教育科研战略的目标，旨在为威尔士教育科研建立连贯且透明的治理框架。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 116)]]
 > - **2018–2020 年** 威尔士政府联合本土大学教育学院、中小学专业教师代表、区域教育联合体与国际专家，开展广泛的生态需求调研与多轮共创磋商。
@@ -109,8 +101,6 @@ updated: 2026-10-20
 > - **2022 年至今** 战略进入系统化落地实施阶段，深化高校本土科研立项对齐、推进全境中小学教师实践探究网络建设，并作为 [[OECD]] 跨国[[Knowledge Mobilisation\|知识动员]]调查中稀缺的全系统统筹案例持续发挥国际影响。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 111, 116)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **领导与发布主体** 威尔士政府（Welsh Government），统筹全系统资源配置、主导宏观科研需求与公共政策议程对齐，并督导行政体系循证实践。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 116)]]
@@ -124,8 +114,6 @@ updated: 2026-10-20
 > - **微观素养培育闭环** 克服“仅提供信息中介而缺乏能力建设”的机制错配，对公务官员开展[[Evidence-Based Policy-Making|循证决策]]专项研训，为中小学教师提供实证探究方法支持与时间保障。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 112, 116)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心引领者** 威尔士政府（Welsh Government） — 掌握财政划拨、立法与行政主导权，将全系统科研统筹作为推动威尔士国家课程与教学改革的战略支点。
@@ -143,8 +131,6 @@ updated: 2026-10-20
 
 ---
 
-## 效果与评价
-
 > [!finding-cards] 战略成效与治理贡献
 > - **系统动力学统筹模式的先锋探索** 在[[OECD\|经合组织]]（OECD）对成员国教育科研利用机制的摸底中，NSERE 与荷兰 [[Netherlands Initiative for Education Research\|NRO]]、挪威 [[Programme for Research and Innovation in the Educational Sector\|FINNUT]] 并列，代表了国际上从孤立单点项目转向宏观系统协同的先锋治理范例。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 111, 115–117)]]
 > - **破除科研孤岛的制度支点** 改变了以往“大学科研自我循环、政府决策经验主导、学校实践凭直觉摸索”的碎片化状态，通过贯通四大支柱建立起以真实问题为牵引的[[Knowledge Mobilisation\|知识动员]]生态。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 116–117)]]
@@ -157,15 +143,11 @@ updated: 2026-10-20
 
 ---
 
-## 争议与评论
-
 > [!critique] 外部治理反思与落地挑战
 > - **全系统战略成效缺乏长周期实证检验** Torres 在 [[OECD]] 报告中提出审慎反思：全系统统筹战略对促进教育科研利用与改善教育结果的实际因果成效尚未在学术界得到广泛的量化实证检验；宏观制度框架从出台到转化为课堂教学质量与学生发展，面临极长的时间滞后与因果归因难题。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 117–120)]]
 > - **一线资源挤压与符号化实施风险** 战略构想的“全员探究”与“[[Evidence-Based Policy-Making|循证决策]]”在落地过程中高度依赖配套支撑条件。如果缺乏充足的时间保障、专业方法支持与持续经费投入，一线教师与地方官员极易陷入工作负担过重的困境，使宏观战略面临沦为政策符号与形式主义填表的高位悬空风险。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 112, 119)]]
 
 ---
-
-## 相关条目
 
 > [!ref-table] 关联索引
 > | 条目 | 类型 | 关联说明 |

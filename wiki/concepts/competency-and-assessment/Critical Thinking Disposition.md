@@ -66,11 +66,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Critical Thinking Disposition
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Critical Thinking|批判性思维]]倾向（Critical Thinking Disposition，亦称批判性思维意向、批判精神或批判性心智习性）是指个体在面对日常情境、学术探究、复杂组织决策与客观现实挑战时，主动、自觉且持续运用批判性思维技能的内在动力、情意态度与心理韧性。它解答了个体“不仅能够思考（Can do），而且愿意并主动去思考（Will do）”的情意动力学机制。根据美国哲学学会（APA）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]与现代认知哲学，批判性思维倾向不仅涵盖求真、开放与审慎，更要求个体具备抵御平庸从众（Likability as a Jail）、承受认知不适并敢于随时推翻自身既有理论的实验反教条品格。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 277–278)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–161)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Critical Thinking|批判性思维]]技能 vs 批判性思维倾向 vs 心理脆弱性保护
 > | 比较维度 | 批判性思维认知技能（Skills） | 批判性思维倾向（Dispositions） | 脆弱性合群文化（Culture of Fragility） |
 > |---|---|---|---|
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > | **经典代表学者** | Ennis (1989); Paul (1993) | Siegel (1988); Facione (1990); [[John Dewey\|Dewey (1922)]] | 批判视角：Friedman (2023); [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
-
-## 核心要素与倾向结构体系
 
 > [!logic-map]- 倾向结构与微观机制拓扑
 > ```mermaid
@@ -181,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 通用情意倾向 vs 领域特殊认知习性
@@ -198,8 +188,6 @@ updated: 2026-10-22
 > > - **心理韧性与求真派（Friedman, 2023; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）** 指出过度保护正在制造“受害者产业”，削弱了面对真实复杂世界所需的分寸感与批判探究勇气，强调真正的理性求真必须包容甚至欢迎观点的激烈摩擦。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]实证数据（Abrami et al., 2015 · Table 9 批判性思维倾向总体与亚组检验）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

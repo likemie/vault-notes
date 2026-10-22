@@ -74,11 +74,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Horizon Europe
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2021 年 4 月由欧洲议会与欧洲理事会正式立法通过《建立“地平线欧洲”研究与创新框架计划条例》（Regulation (EU) 2021/695），追溯自 2021 年 1 月 1 日起生效，执行期至 2027 年 12 月 31 日。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > - **制度位置** 承接第七研发框架计划（FP7, 2007–2013）与“地平线 2020”（Horizon 2020 / FP8, 2014–2020），全面吸纳《[[Lund Declaration 2009|隆德宣言 2009]]》关于挑战导向研究的共识，并将玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）的使命导向政策架构制度化为欧盟核心科技宪章。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > “地平线欧洲”（Horizon Europe，全称为[[EU|欧盟]]第九研究与创新框架计划，Framework Programme 9, FP9）总预算达 955 亿欧元，是全球规模最大的跨国公共科技资助体系；其核心在于依托三大支柱重塑科技创新链条，告别被动补贴，将第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]制度化为以解决气候危机、癌症防治及智慧生态为锚点的全系统战略规划。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
@@ -106,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 计划架构与三大支柱
-
 > [!framework-table] “地平线欧洲”的三大支柱与横向行动体系
 >
 > | 支柱模块 | 核心资助载体与实施机构 | 核心政策目标与运行机制 |
@@ -119,16 +111,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心治理机制创新
-
 > [!feature] “地平线欧洲”的三大治理[[Paradigm|范式]]突破
 > - **战略性政策使命（[[Horizon Europe Missions|EU Missions]]）的建制化落地** 依据马祖卡托（2018）提出的解构模型，将[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）解构为具有清晰可测指标与严格时限的五大旗舰行动，设立跨领域“使命委员会”（Mission Boards）统筹全过程治理。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–812)]]
 > - **欧洲创新理事会（EIC）的[[Patient Capital|耐性资本]]与催化机制** 借鉴美国[[DARPA]]的敏捷项目经理人机制（Program Managers），结合补助金与股权混合投资（Blended Finance），克服商业资本规避长周期技术风险的局限。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **[[Distributed Agency|分布式主体]]与公民共创参与（[[Distributed Agency|分布式主体]]）** 在设计与监督全流程中引入开放科学机制，通过公民陪审团、众包监测与[[Citizen Science|公民科学]]项目，使公众从被动技术受众转变为政策共创者。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 ---
-
-## 政策时间线
 
 > [!timeline] “地平线欧洲”立法与演进历程
 > - **2018 年** [[EU|欧盟]]委员会发布战略报告《使命导向研究与创新》，正式确立[[Mariana Mazzucato|马祖卡托]]提出的使命导向创新治理蓝图。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
@@ -137,8 +125,6 @@ updated: 2026-10-22
 > - **2023 年** 在全球大国科技竞争升温背景下，国际高等教育学者系统比对《地平线欧洲》与中美产业科技战略的分野，凸显欧洲在社会福祉与生态可持续领域的差异化定位。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]] 同年，欧盟通过《[[European Chips Act|欧洲芯片法案]]》，其第一支柱“欧洲芯片倡议”直接将“地平线欧洲”（尤其是第四集群“数字、工业与空间”）及“关键数字技术联合承诺”既有资助流吸纳重组，引发预算挪用与改换名目的治理争议。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–13)]]
 
 ---
-
-## 国际战略对比与定位
 
 > [!contrast-table] 美、中、欧主要经济体科技政策战略导向深度对照（[[Argument_Brint_2023_IHE|Brint, 2023]]）
 > | 维度 | 美国 | 中国 | [[EU\|欧盟]]（地平线欧洲） |
@@ -149,8 +135,6 @@ updated: 2026-10-22
 > | **政府干预逻辑** | 打破四十年自由放任，国家集中投资直接点名重点前沿技术。 | 统筹体制动员与前沿攻坚，同时积极吸纳市场竞争机制。 | 超国家多边协调，构建第三代重大社会挑战使命导向治理。 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 政策争议与学术反思
 >

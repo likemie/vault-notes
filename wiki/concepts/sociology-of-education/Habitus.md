@@ -54,13 +54,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Habitus
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 习性（habitus）是 wiki-[[Pierre Bourdieu]] 实践理论的核心概念，指行动者通过长期暴露于特定社会经验而具身化（embodied）的一套行为倾向系统——一种既是"被结构的结构"（structured structure）又是"能结构的结构"（structuring structure）的实践图式。习性不是有意识的理性计算，也不是对外部规则的机械服从，而是在既往经验塑造的倾向范围内，使行动者能够[[Creativity\|创造性]]地生成"合乎规则"且"客观上可调节"的实践活动（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Bourdieu, 1990, p.53）。
 
 > [!quote|notitle]

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Social Support
-
 > [!metax] [社会支持 · Social Support](https://www.visiblelearningmetax.com/influences/view/social_support)
 > 学生学习策略 › 学生导向干预
 >

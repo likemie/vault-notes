@@ -97,7 +97,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Sandoval_2016_RRE
 
 ---
 
@@ -114,8 +113,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -127,8 +124,6 @@ issuing_organization: ""
 > 自然化认识论和情境学习理论构成了批判传统个人认识论的基石。基于自然化认识论中社会网络与探究实践的观点，可反证出基于[[Questionnaire\|问卷]]的量表模型将知识视为头脑中脱离语境的孤立信念的局限性，进而确立采用整合[[Pluralism|多元主义]]的必要性。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -144,8 +139,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -160,9 +153,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一 认识论认知研究的多源流拼图
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一 认识论认知研究的多源流拼图
 > [[Epistemology\|认识论]]认知并非统一的领域，而是由哲学[[Epistemology\|认识论]]的转向、个人认识论的模型建构、发展心理学的早期基础，以及学科教育中的特异性实践共同拼凑而成的复杂网络。
 
 > [!chain-link] 证据到判断
@@ -189,9 +180,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二 断层线一 知识与认知的本体论决裂
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二 断层线一 知识与认知的本体论决裂
 > 社会科学领域的“文化转向（cultural turn）”引发了认识论认知研究中的第一条深层断层线：学界在知识与认知的本质定义上存在[[Ontology\|本体论]]层级的严重分歧。这种分歧导致研究在[[Unit of Analysis\|分析单元]]（unit of analysis）、发展路径的解释机制以及测量干预方法上产生了极大的张力。
 
 > [!tension] 个体心智建构 vs. 分布式社会实践
@@ -205,9 +194,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三 断层线二 领域争议掩盖的情境特异性（General vs. Specific vs. Contextual）
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三 断层线二 领域争议掩盖的情境特异性（General vs. Specific vs. Contextual）
 > 学界长期纠结于个人的[[Epistemological Beliefs\|认识论信念]]究竟是“领域一般（domain-general）”还是“领域特殊（domain-specific）”的，但这场争论实际上由于颗粒度过粗，掩盖了更核心的问题：即个体的认识论认知对微观的具体任务情境（situational context）具有极高的特异性与依赖性。
 
 > [!chain-link] 领域论争的演进与破局
@@ -223,9 +210,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤四 断层线三 发展轨迹的合法性危机（Developmental Trajectories）
-
-> [!claim|lead] 步骤四主张
+> [!claim] 论证步骤四 断层线三 发展轨迹的合法性危机（Developmental Trajectories）
 > 传统研究普遍假定个人的认识论会遵循一条“从低级盲信到高级批判”的单向线性发展轨迹。然而，实证证据的高度异质性对这种带有强烈规训色彩的“发展阶梯”的合法性提出了致命挑战。
 
 > [!chain-link] 发展模型与实证数据的冲突
@@ -241,9 +226,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤五 断层线四 测量手段与方法论危机（Methodological Crisis）
-
-> [!claim|lead] 步骤五主张
+> [!claim] 论证步骤五 断层线四 测量手段与方法论危机（Methodological Crisis）
 > 上述本体论与情境性的底层分裂直接投射到了方法论层面，导致当前该领域陷入了严重依赖封闭量表与纯外部推论的测量危机，必须全面转向混合测量的[[Triangulation\|三角验证]]。
 
 > [!chain-link] 测量工具的困境与推论危机
@@ -259,9 +242,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤六 迈向整合的多元主义
-
-> [!claim|lead] 步骤六主张
+> [!claim] 论证步骤六 迈向整合的多元主义
 > 面对上述本体论、情境性、发展观与方法论的四大深度撕裂，任何试图建立“大一统理论（grand unifying theory）”的尝试都注定失败。作者呼吁，该领域必须走向一种[[Integrative Pluralism\|整合的多元主义]]（integrative pluralism），通过在多个“聚合层级”上协同作战，来统合当前碎片化的[[Paradigm\|研究范式]]。
 
 > [!chain-link] 从割裂走向整合的论证路径
@@ -280,8 +261,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **深扒四大理论断层** 首次系统梳理了横亘在[[Epistemology\|认识论]]认知研究中的四大断层线：知识的概念化分歧、领域普遍性与情境性之争、发展轨迹的合法性危机，以及测量方法论的割裂。
 > 2. **多学科渊源重构** 明确当前研究是哲学[[Epistemology\|认识论]]转向、个人认识论、发展心理学以及学科教育研究的多源流交汇，打破单一心理学框架的孤立感。
@@ -293,16 +272,12 @@ issuing_organization: ""
 
 ---
 
-## 关键引用
-
 > [!citation-card] [[Integrative Pluralism\|整合多元主义]]的必要性
 > 鉴于[[Epistemology\|认识论]]认知现被视为发生于极其广泛的情境之中，以及关于其如何发生的各种不同视角，对这些无数情境中发现的整合，理应成为下个世纪研究的核心焦点。进展取决于对当前研究趋势的拓展，显而易见，要在多重分析层级上整合理论解释，必须对这些层级本身有清晰的阐述。（p. 480）
 >
 > *Given the scope of contexts where [[Epistemic Cognition]] is now seen to occur and the various perspectives on how it happens, integration of findings from these myriad contexts should be a major focus of research in the coming century. Progress toward an [[Integrative Pluralism]] of [[Accounts]] of epistemic cognition can occur through an expansion of current trends in epistemic cognition research. Obviously, to integrate theoretical accounts across multiple levels of analysis requires an articulation of the levels.*
 
 ---
-
-## 教育启示
 
 > [!implication]- 打通学校化与[[Deschooling|非学校化]]语境
 > [[Epistemology\|认识论]]认知的干预不应仅停留在提高学术成绩。最大的挑战在于跨语境迁移：学生在课堂中学会的评价相互冲突的主张的能力，很少能带入日常生活中。如何让具备高阶[[Epistemic Cognition\|认识论认知]]的公民，在离开学校后，面对网络上真假难辨的社会科学争议时，依然能自如地调用复杂的[[Source Evaluation\|来源评估]]（source evaluation）与证据质询技能，是教育设计必须正视的议题。这要求教师本身对科学实践具备极深的[[Epistemology\|认识论]]校准。

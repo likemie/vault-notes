@@ -34,8 +34,6 @@ created: 2026-05-21
 updated: 2026-10-22
 ---
 
-# Critical Companion
-
 > [!info] 定义
 > 批判性伴随（critical companion）是 [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka（2022, p.254）]]在分析 21 世纪技能与素养[[Discourse|话语]]（[[Single-Case Design\|SCD]]）时采用的一种质性[[Discourse Analysis\|话语分析]]方法。其核心特征是与所分析的全球话语保持"伴随"关系——不提供传统的系统性[[Literature Review\|文献综述]]，而是对政策框架进行批判性检视，识别其核心特征、共同模式和盲点。
 

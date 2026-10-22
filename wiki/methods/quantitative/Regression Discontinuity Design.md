@@ -73,11 +73,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Regression Discontinuity Design
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **断点回归设计（Regression Discontinuity Design, RDD）** 最早由 Donald L. Thistlethwaite 与 Donald T. Campbell 于 1960 年创立，是指依据某个连续**驱动[[Variable\|变量]]（Running Variable / Forcing Variable）** 在预设**截断阈值（Cut-off Point）** 处的分配规则，将受试对象严格或概率性划分为干预组与对照组，进而在阈值邻域内识别干预因果效应的准实验方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 320–324]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **认识论取向** 秉承[[Postpositivism\|后实证主义]]与因果计量经济学[[Paradigm\|范式]]，用完全透明的确定性行政规则（Deterministic Rule）替代[[Random Assignment\|随机化]]抽签，化解了实验随机分配剥夺弱势群体受助资格的伦理争议。
 > - **因果识别定位** 属于基于外生规则识别的[[Counterfactual\|反事实]]比较。相比常规[[Propensity Score Matching\|倾向得分匹配]]（PSM）依赖不可检验的“可忽略性假设（CIA）”，RDD 的因果有效性仅依赖“潜在结果在断点处关于驱动[[Variable\|变量]]的条件期望连续性”，不依赖不可测混杂变量可被完全观测的严苛假定。
@@ -113,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 断点回归设计标准实施六步规程
 > 1. **确认连续驱动[[Variable\|变量]]与刚性阈值** 界定连续且可精确测量的运行变量（如标准化统考成绩 $X$），确定明确无歧义的政策划分截点 $c$。
 > 2. **实施 McCrary 密度连续性检验** 绘制驱动变量在阈值 $c$ 两侧的频数分布直方图与核密度估计，排查受试者是否存在人为篡改成绩、虚报年龄等“操纵（Manipulation）”行为。
@@ -124,8 +116,6 @@ updated: 2026-10-22
 > 6. **开展全面敏感性与稳健性分析** 检验多项式阶数敏感性（线性 vs 二次项）、测试不同带宽区间（$0.5h, 1.5h, 2h$）、并在非断点位置进行伪断点（Placebo Cutoff）[[Falsification\|证伪]]检验。
 
 ---
-
-### 清晰断点与模糊断点两大模型
 
 > [!framework-table] 清晰断点（Sharp RDD） vs 模糊断点（Fuzzy RDD）对比
 > | 比较维度 | 清晰断点回归 (Sharp RDD) | 模糊断点回归 (Fuzzy RDD) |
@@ -137,8 +127,6 @@ updated: 2026-10-22
 > | **典型教育案例** | 依据会考成绩是否达标严格决定能否升学或拿奖学金。 | 依据成绩线推荐参加课后辅导，但学生可自主选择是否出勤。 |
 
 ---
-
-### 计量模型与 WWC 审查标准
 
 > [!formula-step] 断点回归计量方程与因果识别公式
 > 
@@ -167,16 +155,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!fit-grid] 适用判断
 > - **适合使用** 依据连续分数或测量值切分资格的政策干预（如托福/GRE 奖学金线、中考划线特许学校、特教筛查临界值）；按法定出生日期划定的小学入学年龄断点（Age-Cutoff RDD）；贫困生助学金申请打分门槛。
 > - **谨慎使用** 驱动[[Variable\|变量]]易被基层教师或受试者主观调控（如平时[[Homework\|作业]]打分）；[[Sample Size Determination\|样本量]]过小导致断点局部有效观测点稀疏。
 > - **不适合使用** 分配规则模糊、多重标准混杂或缺乏连续运行变量的常态课程对比（应选用配对准实验或 [[Randomised Controlled Trials\|RCT]]）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 效度威胁、偏误来源与误用风险
 > - **局部外推局限（Local [[External Validity]]）** 因果结论严格局限于临界分数附近的“摇摆群体（Marginal Students）”，无法直接外推至极高分资优生或极低分学困生。
@@ -198,8 +182,6 @@ updated: 2026-10-22
 > | [[What Works Clearinghouse]] | 评价机构 | 制定了国际最完备的 RDD 强迫[[Variable\|变量]]操纵与带宽审查技术手册。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 详述 Campbell & Stanley 创立的断点回归设计原理、符号模型、前[[Pre-test and Post-test\|后测]]跳跃与效度特征(Ch. 16, pp. 320–324)。

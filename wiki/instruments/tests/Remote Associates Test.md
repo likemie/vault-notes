@@ -45,11 +45,7 @@ created: 2026-08-25
 updated: 2026-10-16
 ---
 
-# Remote Associates Test
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 远距离联想测验（RAT）
 > - **工具类型** 联想思维测验（Associative Thinking Test）。
@@ -63,8 +59,6 @@ updated: 2026-10-16
 > - **边界** 属于思维型测量，与产品型评定（如专家评定）测量不同的评价标准。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 联想思维
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -80,8 +74,6 @@ updated: 2026-10-16
 —
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>

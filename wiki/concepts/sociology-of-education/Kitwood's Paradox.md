@@ -30,11 +30,8 @@ status: draft
 created: 2026-06-24
 updated: 2026-10-16
 ---
-# Kitwood's Paradox
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > Kitwood 矛盾（Kitwood's paradox）是 Kitwood (1977) 提出的访谈研究中[[Reliability\|信度]]与效度之间的根本张力：**通过理性化和标准化增强信度的程度越高，访谈的效度就越低**。其核心洞察在于——访谈作为研究方法的价值恰恰在于其**人际性（interpersonal nature）**，而标准化程序恰恰消除了这种人际性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 213)]]
@@ -51,8 +48,6 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
 > [!claim] 矛盾的根源：访谈效度依赖人际性
 > 访谈效度的独特之处在于——它依赖于一种在其他方法中被视为"偏差来源"的因素：**人际互动**。在[[Questionnaire\|问卷]]中，标准化格式增强了[[Reliability\|信度]]；在实验中，控制程序增强了[[Internal Validity\|内部效度]]。但在访谈中——特别是开放式、非结构化访谈中——正是访谈者和受访者之间自然的人际互动使深度披露成为可能。标准化消除了这种互动，从而在增强信度的同时削弱了效度。
 
@@ -62,8 +57,6 @@ updated: 2026-10-16
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 213)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 矛盾的普适性争议
 > - **Kitwood 立场** 访谈中[[Reliability\|信度]]与效度的矛盾是**内在的**和**不可消除的**——它源于访谈作为人际方法的本质特征。任何试图通过标准化完全解决这一矛盾的努力都会将访谈变成一种劣质的[[Questionnaire\|问卷]]。

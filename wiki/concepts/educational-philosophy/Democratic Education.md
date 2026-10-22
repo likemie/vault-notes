@@ -36,11 +36,7 @@ created: 2026-07-26
 updated: 2026-10-20
 ---
 
-# Democratic Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 民主教育（Democratic Education）是[[John Dewey\|约翰·杜威]]政治哲学与教育学的交汇核心。杜威在《民主与教育》（*Democracy and Education*, 1916）与《大众及其问题》（*The Public and Its Problems*, 1927）中断言：民主不仅是一种政治投票制度，更是“一种联合生活的模式，一种协同沟通的经验”（*primarily a mode of associate living, of conjoint communicated experience*）[[Argument_Darwish_2009_Queens\|(Dewey, 1961, p. 87; 引自 Darwish, 2009, p. 41)]]。民主教育主张学校本身应当构建为一个小型的民主社区，学生通过平等的对话、合作探究与经验共享，培养知情决策能力与社会责任。
@@ -57,8 +53,6 @@ updated: 2026-10-20
 
 ---
 
-## 核心要素
-
 > [!theory-components] 民主教育的三大核心要素
 > - **共同利益的相互认可（Mutual Interests Recognition）**
 >   社区所有成员享有平等的参与机会与经验分享权力，反对将特定阶层排除在理性决策之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 41)]]。
@@ -69,8 +63,6 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 民主教育中的“沟通改良”与[[Paulo Freire\|弗莱雷]]的“解放实践”
@@ -78,9 +70,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -55,11 +55,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Fail-Safe N
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 失安全系数（Fail-Safe N, 简写为 $N_{\text{fs}}$），又称失安全数（Fail-Safe Number），是由心理统计学家 Robert Rosenthal 于 1979 年提出并在后续由 Orwin（1983）和 Rosenberg（2005）扩展的[[Meta-analysis\|元分析]]敏感性分析方法体系。该方法通过构建极端[[Counterfactual\|反事实]]假设，计算在现有纳入研究的基础上，还需要多少篇无效应（[[Effect Size\|效应量]]为零）的未发表研究才能将当前统计显著的汇总结果拉低至不显著水平（经典法），或将合并效应量稀释至微小无意义阈值（Orwin 法），从而定量测度元分析结论抵抗[[Publication Bias\|发表偏倚]]（抽屉文件效应，File Drawer Effect）的稳健性边界。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]; [[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 8, 12)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 基于[[Counterfactual\|反事实推理]]与极端情境压力测试，将[[Publication Bias\|发表偏倚]]形式化为未发表阴性研究在抽屉中的隐藏堆积。
 > - **研究者角色** 设定临界显著性水平（如 $\alpha = .05$）或微小[[Effect Size\|效应量]]实践阈值（如 $g_c = 0.01$ 或 $0.10$），对潜在缺失文献的理论规模进行逆向推导。
@@ -92,8 +86,6 @@ updated: 2026-10-22
 > - **协同工具** 与漏斗图（Funnel Plot）、[[Trim and Fill Method\|剪补法]]（Trim and Fill Method）、Egger 线性回归及[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]（Leave-One-Out）协同构成偏倚诊断闭环
 
 ---
-
-## 核心计算原理与数学公式
 
 > [!formula-set]- 倒失安全数统计计算流程
 > ```mermaid
@@ -149,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-## 软件实现工作流
-
 > [!software-impl] R（metafor）与 STATA 18 分析脚本
 > 
 > ```r
@@ -178,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法学批判与适用边界
-
 > [!contrast-table] 失安全数与现代偏倚检验方法对比
 > | 维度 | Rosenthal 经典失安全数 | Orwin [[Effect Size\|效应量]]失安全数 | 现代偏倚校正法（[[Trim and Fill Method\|剪补法]] / Egger 检验 / [[Leave-One-Out Sensitivity Analysis\|留一法]]） |
 > |---|---|---|---|
@@ -195,8 +183,6 @@ updated: 2026-10-22
 > 3. **不能替代偏倚校正与质评** 失安全数仅能作为极端情境压力测试，绝不能替代基于 Cochrane RoB 2 的初级研究方法学质量评估，亦不能替代剪补法和留一法对效应量真实性的校正与扰动检验。
 
 ---
-
-## 典型案例研究
 
 > [!case] 实证案例一　[[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] · AI [[AI Agent in Education\|智能体]]促学[[Meta-analysis\|元分析]]双重失安全数检验
 > 在关于 AI 智能体促进 K-12 认知表现的元分析中（34 项研究，73 个[[Effect Size\|效应量]]），研究者同时执行了经典与 Orwin 失安全数压力测试：
@@ -219,8 +205,6 @@ updated: 2026-10-22
 > | [[Publication Bias]] | 目标[[Construct\|构念]] | 失安全数所致力于诊断与抵抗的理论偏误来源。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，综合运用经典失安全数（$N_{\text{fs}} = 378$，大于 180 门槛）与 Orwin 失安全数（需 $2{,}876$ 篇未发表零效应研究稀释至 $0.01$），系统确立了证据体系的抗偏倚稳健度。

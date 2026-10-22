@@ -57,11 +57,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Bengt-Åke Lundvall
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦著名[[Evolutionary Economics|演化经济学]]家、创新经济学奥尔堡学派（IKE Group）核心领军人，[[OECD|经济合作与发展组织]]（OECD）科技创新政策顾问。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980s — [[User-Producer Interaction|用户—生产者互动]]与微观学习机制确立** 针对新古典经济学把创新视作外生黑箱与完全信息的假定，考察机械装备与材料供应商如何从先进用户处获得反馈，确立互动学习理论。
 >   - **代表著作** *Product Innovation and User-Producer Interaction* (1985)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 技术创新在本质上是一个跨越企业边界的“互动学习”过程；当将不确定性、局域化学习和[[Bounded Rationality|有限理性]]作为微观经济行为的基本假定时，微观用户—生产者关系网络与宏观国家制度环境的差异，必然导向多样化与差异化的经济演进路径，而非标准化的全球趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
 
 > [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]论有限理性与国家创新路径的多样性
@@ -122,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与 [[Chris Freeman]]、[[Richard Nelson]] 共同构成了现代[[National Innovation System|国家创新系统]]研究的三大支柱；将分析焦点深度下沉至微观“学习与互动”维度。
 > - **政策路径** 将[[Systems of Innovation|创新系统理论]]直接注入 [[OECD]] 技术与经济计划（TEP, 1992）及[[EU|欧盟]]区域创新战略政策，推动政策从单纯补贴 R&D 经费转向优化产学研合作网络与终身职业培训。
 > - **教育研究启示** 强调教育体系不仅是[[Knowledge Production|知识生产]]机构，更是全社会“学习能力”（[[Learning Economy]]）的制度孵化器；1996 年 OECD 报告深刻推动了经合组织将[[Lifelong Learning|终身学习]]、反思能力与跨主体互动沟通确立为国家[[Human Capital Theory|人力资本]]战略与[[International Education|国际教育]]对标的核心维度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]

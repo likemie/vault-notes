@@ -69,7 +69,6 @@ citation_aliases:
   - "Bolton & Hattie, 2017"
   - "Bolton & Hattie (2017)"
 ---
-# Argument_Bolton_2017_ArchPsych
 
 ---
 
@@ -86,8 +85,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -96,8 +93,6 @@ citation_aliases:
 > | **[[Miyake's Unity and Diversity Framework of Executive Function\|Miyake执行功能统一性与多样性框架 (Miyake's Unity and Diversity Framework of Executive Function)]]** | [[Akira Miyake\|三宅（Akira Miyake）]]等人（2000）区分并定义了执行功能的三个核心成分：抑制优势反应 [[Cognitive Inhibition\|抑制控制 (Inhibition)]]、任务/精神集转换 [[Cognitive Shifting\|认知转换 (Shifting)]]、以及工作内存信息更新与监控 [[Updating and Monitoring\|工作记忆更新 (Updating)]]，作为解构认知控制能力的操作化量尺（p.4）。 |
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -115,8 +110,6 @@ citation_aliases:
 > | **大脑解剖样本** | 包含尸检解剖数据 (如背外侧前额叶皮层 [[Prefrontal Cortex\|Dorsolateral Prefrontal Cortex, dlPFC]] 锥体细胞) 以及不同年龄段儿童与成人的神经成像扫描数据（pp.9–13）。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -205,8 +198,6 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **阶段划分的时间共振 ([[Zone of Desired Effects|Hinge Point]])** [[Jean Piaget\|皮亚杰]]认知发展四阶段的时间节点与 [[Prefrontal Cortex\|PFC]] 生理发育的三个 Hinge Point（0-2岁突触暴发、3-5岁灰质达峰及抑制与转换突破、11-12岁灰质体积逆U形顶点）完全吻合，说明心理阶段的划分具有神经底座的支持（pp.9-13）。
 > 2. **[[Executive Function\|执行功能]] (EF) 作为阶段过渡的机制[[Variable\|变量]]** 经典四阶段过渡本质上是执行功能（特别是抑制、转换、更新）随大脑成熟发育的函数。抑制最早在3-5岁突破，转换在11岁左右，而更新则在15-16岁登顶（p.13, p.15）。
@@ -220,8 +211,6 @@ citation_aliases:
 > - **30** 岁是前额叶皮层 (PFC) 解剖结构与网络连结完全发育成熟的终极年龄，此后也是最先表现出衰老迹象的区域（p.7）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 认知阶段过渡是脑发育中 EF 发展的函数
 > 本文的主张是，这些变化是随着大脑发育，[[Executive Function\|执行功能]]发展的一个函数。（pp.3–4）

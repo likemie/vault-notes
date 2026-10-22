@@ -121,11 +121,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Epistemology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **认识论（Epistemology）** 是关于知识的本质、形式、获取途径以及如何向他人传播的底层元理论假设（bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings；Burrell & Morgan, 1979）。在社会科学与教育研究哲学中，认识论决定了何种证据构成“合法且有效的知识”，深刻塑造着[[Objectivism|客观主义]]与[[Subjectivism|主观主义]][[Paradigm|范式]]的探究路径；在教育心理学与学习科学中，认识论指代个体关于[[Source of Knowledge|知识来源]]与确定性的[[Metacognition|元认知]]信念系统，其核心发展机制表现为主观维度与客观维度的协调演进[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]][[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
@@ -148,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 探究哲学三大基石的学理辨析
 > | 哲学维度 | 核心追问 | 关注焦点 | 在研究推导中的地位 |
 > |---|---|---|---|
@@ -158,8 +152,6 @@ updated: 2026-10-22
 > | **[[Axiology\|价值论（Axiology）]]** | 探究的目的是什么？何为有价值的认知？ | 价值立场、研究旨趣与政治福祉 | 位于最高层级，规范引导整个研究的价值承诺 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **在研究层级中的承转位置** 认识论是研究设计五层推导框架（Hitchcock & Hughes, 1995）的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。研究者关于实在本质的本体论假设，必然先导决定其关于知识获取的认识论进路。
@@ -280,8 +272,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -309,8 +299,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] [[Objectivism|客观主义]]（Objectivism）vs [[Subjectivism|主观主义]]（Subjectivism）
@@ -336,8 +324,6 @@ updated: 2026-10-22
 > - 警惕“认识论清教徒主义”（Epistemological Puritanism），避免将[[Paradigm|范式]]差异绝对化为不可逾越的沟通壁垒，从而阻碍多源互补证据对复杂教育现实的联合揭示。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

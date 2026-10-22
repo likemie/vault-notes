@@ -77,11 +77,7 @@ created: 2026-09-02
 updated: 2026-10-22
 ---
 
-# School Enquiry Cycle
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学校[[Inquiry Cycle\|探究循环]]（School Enquiry Cycle，原作者统称为“证据知情学校与教师改进模型”，Evidence-informed School and Teacher Improvement, ESTI；在后续研究系统中亦概括为 Cycle of Inquiry）指由 [[Chris Brown]]、[[Kim Schildkamp]] 与 Mireille D. Hubers（2017）构建、并在证据知情学校系统（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）中进一步深化的证据知情学校改进操作模型。该模型致力于打破[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）在现实学校中的割裂状态，将校内学情数据的严谨诊断与校外学术研究的实证干预整合为连续迭代的校本探究闭环，引导教师团队在具体情境中行使[[Professional Judgment\|专业判断]]以持续提升教学质量。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
@@ -108,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学校[[Inquiry Cycle\|探究循环]] vs. [[Data-Based Decision Making\|基于数据的决策]] vs. 孤立研究知情实践 vs. 传统[[Action Research\|行动研究]]
 > | 维度 | 学校探究循环（School Enquiry Cycle） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | 孤立研究知情实践（[[Research-Informed Teaching Practice\|RITP]]） | 传统行动研究（Action Research） |
 > |---|---|---|---|---|
@@ -120,8 +114,6 @@ updated: 2026-10-22
 > | **实践风险** | 需要持续的能力建设与组织时间保障 | 容易导致唯分数论与不知如何改进 | 方案科学但不对症（无锚干预） | 缺乏外部严谨实证支撑，信效度有限 |
 
 ---
-
-## 核心要素
 
 > [!feature] ESTI 八步[[Inquiry Cycle\|探究循环]]构成
 > - **步骤一：确立改进愿景与目标（Setting Vision and Goals）** 立足学校自身的发展愿景与真实迫切需求，明确以提升学生[[Academic Achievement\|学业成就]]与发展质量为导向的具体目标，防止盲目追逐外部热点。
@@ -198,8 +190,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -210,8 +200,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学校[[Inquiry Cycle\|探究循环]]的理论演化
 > - **2000s — 数据驱动决策（[[Data-Based Decision Making\|DBDM]]）的兴起与瓶颈** 伴随欧美教育问责制，学校广泛开展数据驱动分析，但很快遭遇“知道问题却缺乏解决工具”的实践困境。
 > - **2010s — 循证教学与外部证据转译探索** 英国 [[Education Endowment Foundation\|EEF]] 等机构大量推出循证工具包，但一线学校面临“文献丰富却缺乏校本针对性”的新挑战。
@@ -220,8 +208,6 @@ updated: 2026-10-22
 > - **2020s — 网络化探究共同体（NICs）与全系统融合** 学校探究循环进一步与卡内基网络化改进共同体（NICs）及全系统[[Knowledge Mobilisation\|知识动员]]战略相结合，成为跨校教研与循证督导的标准模型。
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：敏捷教学尝试 vs 规范因果评价闭环
 > - **敏捷尝试立场（蓝方）** 强调[[Inquiry Cycle\|探究循环]]应赋予教师充足的心理安全感与试验自由，鼓励小步快跑、快速试错，避免繁重的评价指标扼杀一线教改积极性。
@@ -233,8 +219,6 @@ updated: 2026-10-22
 > - **学校中层支持不足** 若学校缺乏有能力的教研带头人或缺乏心理安全氛围，教师容易对暴露教学数据产生防御心理，阻碍真实探究。
 
 ---
-
-## 实证数据
 
 > [!stat-card]- 学校[[Inquiry Cycle\|探究循环]]关键阶段的实证达成度对比（基于 Brown & Greany, 2018 对英格兰 79 所小学的调查）
 > 
@@ -249,8 +233,6 @@ updated: 2026-10-22
 > 数据表明，英格兰先锋小学在探究循环的“前端认同与方案尝试”阶段表现优异，但在“末端严格评价与正式研讨”阶段显露明显短板，印证了探究循环若缺乏闭环评价规程极易沦为[[Activity Traps\|活动陷阱]]的理论假说。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–130)]]
 
 ---
-
-## 应用案例
 
 > [!case] 案例：英格兰与荷兰中小学证据知情探究实验（[[Argument_Brown_2017_EducRes\|Brown et al., 2017]]）
 > Brown, Schildkamp, & Hubers (2017) 在英格兰和荷兰的多所中小学推行学校[[Inquiry Cycle\|探究循环]]项目。项目由学科组长担任中层促进者，首先带领组内教师分析学生数学形成性测评中的常见错误类型（[[Data-Based Decision Making\|DBDM]]）；随后指导教师检索 [[Education Endowment Foundation\|EEF]] 工具包中关于“[[Metacognition\|元认知]]与自我调节”的实证文献（[[Research-Informed Teaching Practice\|RITP]]）；教师团队共同设计了“数学解题自我提问单”，并在为期 8 周的课堂试验中收集[[Homework\|作业]]反馈；期末复盘显示实验班学生解题准确率显著提升，该探究循环模式随后被推广至全校各学科组。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 158, 161, 165–167)]]
@@ -273,8 +255,6 @@ updated: 2026-10-22
 > | [[Research Learning Communities]] | 项目依托 | 验证并推行学校探究循环与基线[[Questionnaire\|问卷]]评估的大规模校际协作项目。 |
 
 ---
-
-## 包含此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 奠基性论文，提出整合 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的“证据知情学校与教师改进”（ESTI）八步探究模型与理论框架。

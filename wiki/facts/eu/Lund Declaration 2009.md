@@ -53,11 +53,7 @@ aliases:
   - 隆德宣言 2009
 ---
 
-# Lund Declaration 2009
-
 ---
-
-## 历史定位与宗旨
 
 > [!claim] 核心定位
 > 《隆德宣言》（Lund Declaration 2009，全称《欧洲必须聚焦于我们时代的重大挑战》）是 2009 年 7 月在瑞典隆德举行的[[EU|欧盟]]主席国科研大会上通过的标志性政策文件；它确立了欧洲研究与技术开发（Research and Technological Development, R&D）必须彻底打破狭隘的单一行业[[Competitiveness|竞争力]][[Paradigm|范式]]，全面转向以应对气候变化、能源安全、公共健康与人口老龄化等全球重大社会挑战为核心战略导向，被公认为欧洲第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]演进的根本制度里程碑。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
@@ -69,16 +65,12 @@ aliases:
 
 ---
 
-## 核心支柱与政策突破
-
 > [!feature] 《隆德宣言》的三大政策支柱
 > - **确立挑战导向的科研资助逻辑（Challenge-driven Research Agenda）** 明确要求打破以往由学科壁垒和孤立产业部门主导的研发资助模式，将欧洲科研经费优先配置于应对系统性社会危机的跨学科解决方案。（pp. 788–789）
 > - **克服政策方向性失灵（Tackling Orientation Failure）** 指出欧洲以往科技政策虽然拥有庞大预算，但由于缺乏明确的[[Public Value|公共价值]]导向（[[Directionality of Innovation|directionality]]），导致研发成果与社会迫切需求脱节；《宣言》推动公共部门主动设立跨部门协同目标。
 > - **倡导全链条与多元共创生态（Full Innovation Cycle & Co-creation）** 强调从基础研究、前沿技术验证到公共采购、规制重塑的全生命周期整合，吸纳地方政府、公民社会与私营企业作为[[Distributed Agency|分布式主体]]共同参与政策设计。
 
 ---
-
-## 政策范式演进对照
 
 > [!contrast-table] 《隆德宣言》前后欧洲科技政策[[Paradigm|范式]]深度对照
 >

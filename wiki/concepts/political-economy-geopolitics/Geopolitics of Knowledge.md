@@ -118,11 +118,7 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-# Geopolitics of Knowledge
-
 ---
-
-## 定义
 
 > [!info] 核心定义
 > 知识[[Geopolitics|地缘政治]]（Geopolitics of Knowledge，GPK）指在知识密集型资本主义的全球语境中，高等教育被重构为[[Knowledge Production\|知识生产]]、创新和[[Human Capital Theory\|人力资本]]的核心场所，从而成为地缘政治竞争和战略定位的关键维度。该概念关注创新、科学和教育如何被想象为个体、企业、地区和国家的全球竞争优势来源，以及这一过程中涉及的政治、[[Discourse|话语]]和物质/结构性转变（Thompson & Parreira do Amaral, 2022, pp.8–9）。
@@ -136,8 +132,6 @@ updated: 2026-10-22
 > - **不限于[[International Education\|国际教育]]政策** GPK 渗透到认识论治理（研究资助分配机制）和主体性生产的微观层面，远超出国际教育政策范畴。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 概念边界比较
 > | 维度 | 知识[[Geopolitics\|地缘政治]]（GPK） | [[Classical Geopolitics\|古典地缘政治]] | 地缘经济学 |
@@ -190,9 +184,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > GPK 的命题结构从宏观到微观形成三个相互嵌套的分析层次：①**空间-竞争层**——[[Knowledge-Based Economization\|知识经济化]]重构了大学的空间逻辑和国家竞争形态，其核心悖论是[[Fixity-Motion Tension\|固着-流动张力]]与 Hub-[[Flow]] 想象；②**主体-治理层**——大学成为生产特定主体性的核心[[Geopolitics|地缘政治]]装置，治理通过[[Epistemology\|认识论]]控制在全球尺度运作；③**知识-认识论层**——GPK 的最终战场是知识本身：谁生产何种知识、知识如何流动和被控制（两面模型），以及哪种认识论被认定为合理（[[Narrative Knowledge\|叙事知识]]衰退），决定[[Discourse|话语]]权力的全球格局。
 
 > [!logic-map]- 核心命题关系
@@ -229,8 +221,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论语境
-
 > [!logic-map] 理论归属
 > - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy\|知识经济]][[Discourse|话语]]层面转向物质过程和实践
 > - [[Critical Geopolitics]] — 批判[[Geopolitics|地缘政治学]]脉络提供[[Relational Space\|关系性空间]]分析和话语建构分析工具；[[Sami Moisio]] 为 GPK 批判地缘政治学方向的核心代表
@@ -256,9 +246,7 @@ updated: 2026-10-22
 
 ---
 
-## 实证发现
-
-> [!stat-cards|notitle]-
+> [!stat-cards]- 实证发现
 > - **5.5%+**
 >   亚洲年均经济增长率（1990年代初至今）（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.93]]）
 > - **50%+**
@@ -277,8 +265,6 @@ updated: 2026-10-22
 > 4. GPK 呈现两个历史阶段：1990–2015 美国主导霸权式全球化；2015 至今西方部分去全球化与中美脱钩（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp.15–32]]）
 
 ---
-
-### 空间-竞争层：结构性机制
 
 > [!finding-cards] 知识经济化与空间竞争
 > 1. **[[Knowledge-Based Economization\|知识经济化]]与城市空间竞争** 大型城市日益体现[[Competitiveness|国家竞争力]]，国家将资源转向首都和城市基础设施。[[Economic Patriotism\|经济爱国主义]]将特定领土的利益推进作为核心策略（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]]）
@@ -398,8 +384,6 @@ updated: 2026-10-22
 
 ### 知识-认识论层：知识秩序与认识论治理
 
-#### 知识生产的认识论治理
-
 > [!abstract] 核心主张：知识本身是地缘政治场域
 > 知识-认识论层揭示了 GPK 最深层的运作逻辑：控制何种知识被视为"有效"知识、何种认识路径被视为"科学"，本身就是一种地缘政治权力。
 
@@ -413,8 +397,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心争议
 > GPK 内部存在三组理论张力：
 > - **[[Critical Geopolitics\|批判地缘政治学]] vs 去殖民传统** 谁的问题更根本？建构[[Geopolitics|地缘政治]]秩序的空间想象（批判传统）vs [[Epistemology\|认识论]]本身的殖民性（去殖民传统）。二者可综合互补（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.39–40]]）
@@ -426,8 +408,6 @@ updated: 2026-10-22
 > - GPK 分析高度依赖理论[[Discourse Analysis\|话语分析]]，实证[[Operationalization\|操作化]]路径尚不清晰；[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]提出的"尺度-行动者-利益-机会结构"框架是少数较成熟的操作化工具之一
 
 ---
-
-## 应用案例
 
 > [!evidence-grid-a] 技术-主权竞争
 > - [[Sino-American Trade War\|中美贸易战]] — Partaken 定位为 GPK"最好且最当下的经验案例"：以关税和出口管制遏制中国在 AI、半导体、量子计算领域的[[Technological Catch-up|技术追赶]]；教育层面：签证限制 + 合作项目强制报告（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.67, 84]]）

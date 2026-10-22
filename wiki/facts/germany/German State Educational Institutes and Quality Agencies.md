@@ -59,11 +59,7 @@ created: 2026-09-26
 updated: 2026-10-15
 ---
 
-# German State Educational Institutes and Quality Agencies
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 德国各州立教育研训与质量机构（Landesinstitute und Qualitätseinrichtungen der Länder）是德意志联邦共和国 16 个联邦州教育文化部直属的公立中层专业治理实体。它们上承各州教育宏观法规与课程标准研制，下接基层中小学校内涵发展，统揽教师职后[[Further Education|继续教育]]（Lehrerfortbildung）、教学评估督导与实证研究[[Knowledge Mediation|知识中介]]转化，是联结学术研究与学校日常实践的核心制度枢纽。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 10–12]]
@@ -76,8 +72,6 @@ updated: 2026-10-15
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1960–1990 年代 — 传统教学大纲研制与师训实体** 各州建立教学法与师训院所，职能严格聚焦于教学大纲编制、教师进修班开设与传统教材审查，呈现典型的行政输入规制导向。
 > - **2000 年代 — [[PISA]] 震荡后的实证监测重组** 伴随德国由“输入控制”转向“[[Output-Oriented Governance|产出导向治理]]”，各州研究所承担起协调各州统一测评与[[School Inspection|学校督导]]（Schulinspektion）的职能，成为各州落实《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》的技术执行中枢。[[Argument_Dedering_2009_EERJ|Dedering, 2009, pp. 484–485]]
@@ -86,8 +80,6 @@ updated: 2026-10-15
 
 ---
 
-## 治理架构与职能配置
-
 > [!actor-grid] 组织治理架构
 > - **顶层政策受托** 直接接受各州教育部行政领导，贯彻 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 全德教育标准与各州教学大纲规程。
 > - **教师职后进修中枢（Lehrerfortbildung）** 统领全州中小学教师、教研组长与校长在职培训，设计涵盖数字素养、全纳教育与学科教学法等重点课程。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 12]]
@@ -95,8 +87,6 @@ updated: 2026-10-15
 > - **跨州协作网络与专业共同体** 建立跨州协同工作组，在教育测评、转移战略与科研成果转化工具包研制上实现资源共享。
 
 ---
-
-## 核心业务与机构网络
 
 > [!feature] 州立机构四大核心业务支柱
 > - **课程大纲与教学规程编制（Lehrplanentwicklung）** 依据各州法律与 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 国家标准，制定中小学各学段跨学科[[21st Century Skills and Competencies Discourse|核心素养]]教学纲领与考核规程。
@@ -114,8 +104,6 @@ updated: 2026-10-15
 
 ---
 
-## 知识中介实践与治理反思
-
 > [!tension-table] 州立机构在教育转移治理中的功能与研究盲区
 > | 维度 | 政策意图与制度赋权 | 经验研究现实与反思 |
 > |---|---|---|
@@ -131,8 +119,6 @@ updated: 2026-10-15
 > *Dass hier noch Bedarf an Aufarbeitung besteht, zeigt exemplarisch bereits die Tatsache, dass die schulsystemischen Institutionen in Deutschland, die Einzelschulen unterstützen sollen und denen rein programmatisch eine wichtige Rolle in Transferprozessen zugewiesen wird, bislang kaum erforscht werden (z. B. Schulaufsicht und Landesinstitute).*
 
 ---
-
-## 实证数据与治理评价
 
 > [!ref-table]- 州立研训与质量机构核心治理指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

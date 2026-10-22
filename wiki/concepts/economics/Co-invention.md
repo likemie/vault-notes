@@ -45,11 +45,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Co-invention
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **共同发明（Co-invention / 用户协同发明）** 是指当[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）或重大信息技术平台引入下游应用部门时，采用该技术的企业与用户组织为了使新技术适应自身特定的业务场景、工作流程与组织架构，必须自主开展的一系列互补性二次研发、流程再造、软件定制与组织制度创新活动（Bresnahan & Greenstein, 1996）。蒂莫西·布雷斯纳汉（Timothy Bresnahan）与谢恩·格林斯坦（Shane Greenstein）指出，信息技术供应商所提供的标准化硬件或基础软件仅仅是未完成的半成品，技术潜能无法自动转化为经济绩效；只有当下游用户投入大量[[Tacit Knowledge|隐性知识]]与资本进行共同发明时，通用技术才能真正嵌入现实生产系统。[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）进一步强调，由于信息技术创新高度依赖用户与供应商之间的双向共同发明，大规模部署与先导应用能够催化海量的用户端试错与试验，从而显著反哺和加速基础技术的演进与改良。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 185)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 共同发明 vs. 上游供应创新 vs. 独立用户创新
 > | 比较维度 | 共同发明（Co-invention） | 上游供应创新（Supplier Innovation） | 独立用户创新（User Innovation） |
 > |---|---|---|---|
@@ -81,8 +75,6 @@ updated: 2026-10-22
 > | **宏观效应** | 释放跨部门[[Total Factor Productivity\|全要素生产率]]，消除应用时滞 | 推动[[General Purpose Technology\|通用技术]]摩尔定律式的技术性能提升 | 开辟全新的小众技术细分品类 |
 
 ---
-
-## 核心要素
 
 > [!feature] 共同发明的四大核心要素
 > - **组织流程与治理重构（Organizational Restructuring）** 用户为匹配新技术而对内部科层、权责划分、业务流线及激励机制进行的制度性再造。
@@ -139,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -158,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 技术供给[[Determinism|决定论]] vs. 用户组织互补论（索洛悖论分歧）
@@ -175,8 +163,6 @@ updated: 2026-10-22
 > > - **结构异质论（[[Argument_Mowery_2011_NBER|Mowery, 2011]]）** 指出能源电力商品高度同质化且受严苛电网规管，用户缺乏流程定制空间，因此共同发明机制在能源供给端的作用远弱于信息技术。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 185–186)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 用户共同发明与信息技术扩散的实证历史指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

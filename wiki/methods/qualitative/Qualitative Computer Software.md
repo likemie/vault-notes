@@ -80,11 +80,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Qualitative Computer Software
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 质性计算机软件（Qualitative Computer Software），通常称为计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是指用于辅助[[Qualitative Research\|质性研究]]中组织、排序、存储、检索和分析文本、音频与图像数据库的专用程序与智能分析系统（Guest et al., 2012; 引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 206]]）。传统 CAQDAS（如 NVivo、MAXQDA、ATLAS.ti、Dedoose 等）的核心逻辑是“标记与检索”（code-and-retrieve），主要承担机械性管理与关系数据库支持，本身并不进行自动化的理论诠释；随着[[Generative Artificial Intelligence\|生成式人工智能]]与大语言模型（LLM）的发展，计算工具进一步演进为具备语义理解、概念初筛与交互式探索能力的认知协同系统，但质性研究中对经验脉络的主观赋意与效度核验责任始终由人类研究者承担。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 537, 576)]]
@@ -108,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** [[Qualitative Research\|质性研究]]视知识为扎根于具体社会语境与主体经验中的主观意义建构；计算工具是协助管理复杂经验资料的技术中介，而非独立生成客观实在的认识论代理。
 > - **研究者角色** 研究者始终处于[[Man-Computer Symbiosis|人机协同]]的中心，作为主动诠释者与理论架构者。软件提供数据库检索、结构化映射与候选模式建议，研究者则负责赋予意义、裁决分类边界、反思潜在偏误并提炼理论洞见。
@@ -126,8 +120,6 @@ updated: 2026-10-22
 >   - [[Qualitative Codebook\|编码手册]]（[[Qualitative Codebook]]）规则约束与操作日志审计链条
 
 ---
-
-## 研究程序
 
 > [!proc] 计算机辅助质性分析通用规程
 >
@@ -172,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 面对大体量文本数据（如几十至上百份[[In-depth Interview\|深度访谈]]、跨年度政策汇编或数百份[[Questionnaire\|问卷]]开放回答），需要进行系统性管理与高效检索时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 537)]]
@@ -187,8 +177,6 @@ updated: 2026-10-22
 >   - 数据量极小（如 1–3 个个案）且研究聚焦于整体生命史体验的研究，过度复杂的软件节点建模反而会增加不必要的[[Epistemic Friction\|认知摩擦]]与疏离感。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与[[Man-Computer Symbiosis|人机协同]]风险
 > - **工具宰制与方法倒置（The Tail Wags the Dog）** 多数软件的设计架构天然偏向[[Grounded Theory\|扎根理论]]式的编码与检索（Code-and-Retrieve）逻辑，容易诱使研究者机械迎合软件提供的功能与树状层级，忽视对文本更深层的批判性追问与诠释学理解（Crowley et al., 2002; Richards, 2002; Coffey et al., 1996）。软件是工具而非方法论指导者，研究者不能让工具逻辑反客为主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 539)]]
@@ -213,8 +201,6 @@ updated: 2026-10-22
 > | | [[Reflexivity\|反身性]] | 认识论准则 | 确保研究者对软件自动检索与模型生成建议保持警惕，捍卫人类最终诠释权。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability\|信度]]效度机制，并深入探讨大语言模型智能辅助编码的三大进路、[[Paradigm\|范式]]对比与[[Meaningful Human Control|人在回路]]准则。

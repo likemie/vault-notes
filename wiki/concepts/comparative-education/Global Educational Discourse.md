@@ -76,11 +76,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Global Educational Discourse
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全球教育[[Discourse|话语]]（Global Educational Discourse）由[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b）提出，特指以[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，在 20 世纪 80 年代与 90 年代起，基于紧迫[[Pragmatic Paradigm|实用主义]]（urgent pragmatism）与[[Educational Meliorism|改良主义]]行动诉求，通过对复杂专深的全球学术话语进行过度简化（oversimplification）所生产并跨国推广的一整套抽象、通用的教育改革话语体系。该话语将未来统一步调地界定为“信息时代”（information age），推销一套以分权化、[[School Autonomy|学校自主]]、教师专业化、胜任力课程（competencies-based curriculum）与中央评估系统为核心支柱的普遍主义模型，并自诩为能够解决任何本土教育问题的灵丹妙药，实质上严重窄化并闭合了借款国与受援国的政策探索空间，并在微观学校机构遭遇显著的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
@@ -111,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **普遍性空间范围与目标设定** 该[[Discourse|话语]]以“整个世界的教育”为考察与干预对象，打破地缘文化特殊性，声称依据客观中立的科学规律为全球所有国家设计通用方案。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **紧迫[[Pragmatic Paradigm|实用主义]]与过度简化生成机制** 国际组织受制于必须在短期内交付“见效且相关”政策咨询报告的组织逻辑，对全球学术空间中高度复杂、充满争议的专业知识进行剧烈的去语境化删剪与模式化提炼，锻造出高度可塑的通用处方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–351)]]
 > - **信息时代前景与五大支柱模型** 话语将未来单向度地描摹为信息社会，并捆绑输出五项标配改革原则：治理维度的行政分权化（Decentralisation）、机构维度的[[School Autonomy|学校自主权]]（School Autonomy）、队伍维度的教师专业化（Teacher Professionalisation）、教学维度的胜任力/能力本位课程（Competency-based Curriculum），以及质量监控维度的中央标准化评估体系（Central Evaluation Systems）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
@@ -168,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -186,8 +178,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 全球治理网络与数字化话语拓展** 随着 [[PISA]] 跨国数据治理体系的强化以及跨国教育科技公司的兴起，全球教育话语进一步融入[[Governing by Numbers|数字治理]]、[[Lifelong Learning|终身学习]]与[[Social-Emotional Learning|社会情感能力]]等新维度，空间分析与批判[[Discourse Analysis|话语分析]]成为剖析该范式演进的主导工具。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判
 >

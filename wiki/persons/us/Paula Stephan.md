@@ -51,11 +51,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Paula Stephan
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国科学经济学家，佐治亚州立大学（Georgia State University）经济学荣休教授，美国国家经济研究局（NBER）研究员，[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1992 — *Striking the Mother Lode in Science: The Importance of Age, Place, and Time*** 与 Sharon Levin 合著，从经济学与计量学角度系统实证检验学者年龄、学术制度与科研[[Creativity|创造力]]之间的动态关系。
 > - **2012 — *How Economics Shapes Science*** 剑桥：哈佛大学出版社。系统剖析科研经费资助机制、间接成本核算、软钱职位蔓延以及实验室人力结构对科学[[Knowledge Production|知识生产]]激励的深层扭曲。
@@ -82,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 当代大学科研系统的种种结构性危机，并非单纯源自联邦政府的政策规制，而是大学组织与教师在应对《[[Science, The Endless Frontier 1945|无尽的前沿]]》历史机遇时，为了追求规模扩张与机构声誉而主动游说、重构契约所造成的体制性后果；科研体制在正反馈循环中异化为依赖外部软钱、出租科研物理空间并生产过量廉价劳动力的脆弱生态。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 2–3, 29–31, 37)]]
 
 > [!citation-card] 斯蒂芬论战后科研体制的自发演化与后果
@@ -99,8 +91,6 @@ updated: 2026-10-22
 > - **政策路径** 多次参与[[National Academy of Sciences|美国国家科学院]]、[[National Research Council|国家研究委员会]]及国立卫生研究院关于青年学者职业发展、博士后处境及科研基础设施资助的政策咨询，有力推动了联邦科技界对资助过度向老年PI集中和软钱风险的广泛反思。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

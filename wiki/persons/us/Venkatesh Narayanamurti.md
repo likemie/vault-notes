@@ -61,11 +61,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Venkatesh Narayanamurti
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍印裔固态物理学家、应用科学教育家与科技政策学者；美国国家工程院（NAE）院士、美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士；曾任[[Bell Labs|贝尔实验室]]（Bell Labs）固态电子学研究主管、桑迪亚国家实验室（Sandia National Laboratories）研究副总裁、哈佛大学工程与应用科学学院（SEAS）首任院长，以及哈佛肯尼迪政府学院科学、技术与公共政策项目（STPP）主任。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970s–1980s — [[Bell Labs|贝尔实验室]]微观物理与工程工艺实践期** 亲历半导体激光器、分子束外延晶体生长与分数量子霍尔效应的交叉研发，积累了对科学探索与工程制造相互促进的第一手组织经验。
 >   - **代表工作** 声子传输机制与半导体界面物理[[Experimental Research|实验研究]]。
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 战后美国以[[Science, The Endless Frontier 1945|布什报告]]为核心建立的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]违背了技术先于理论的科学史事实；科学研究由创造新工具与新工艺的“发明”和揭示新知识与新规律的“发现”两大对称通道构成，二者在宏观时间跨度上交替激发、双向流转；科技政策的核心职责在于诊断并消除阻碍知识在循环中顺畅流动的体制瓶颈，必须废弃基于立项动机的标签分类，确立以[[Long-Term Public Utility|长期公共效用]]为准绳的全额资助新机制。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 
 > [!citation-card] 终结基础与应用研究二分法
@@ -123,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了从单向[[Linear Model of Innovation|线性创新模型]]与静态二维[[Pasteur's Quadrant|帕斯德象限]]向长周期网状动态创新理论的演进，为理解当代硬科技创新与[[Big Science|大科学工程]]提供了核心分析工具。
 > - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家[[Chinese Academy of Sciences|科学院]]（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与[[ARPA-E|高级能源研究计划局]]（[[DARPA|ARPA]]-E）采纳跨界组织治理准则。
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **高校治理平台** 哈佛大学工程与应用科学学院（Harvard SEAS） — 担任创院院长，将反二分法理念付诸大学[[Engineering Education|工程教育]]体系重构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

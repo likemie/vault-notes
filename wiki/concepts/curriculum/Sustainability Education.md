@@ -33,11 +33,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Sustainability Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 可持续[[Development Education|发展教育]]是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的[[Comprehensive Education|综合教育]][[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
@@ -48,8 +44,6 @@ updated: 2026-10-22
 > - **边界** 超越单纯的“拯救地球”道德口号宣传，侧重于基于实证科学数据、生态[[Big Ideas\|大概念]]与工程技术解决方案的理性探究与实践。
 
 ---
-
-## 核心要素
 
 > [!feature] 可持续[[Development Education|发展教育]]的三大支柱
 > - **全校协同模式（Whole-School Approach）** 将校园空间环境运营（节能减排、生态校园）、跨学科课程探究与社区公共行动有机统筹，营造沉浸式育人生态。
@@ -81,8 +75,6 @@ updated: 2026-10-22
 > 英国能源转型与产业绿色化面临约 20 万劳动者的“绿色技能缺口”（PwC, 2022）；国家基础教育大纲必须尽早引入工程技术与生态建模实践，确保全体青年具备应对未来绿色就业市场的专业素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 实践载体 | 关键依据 / 来源 |

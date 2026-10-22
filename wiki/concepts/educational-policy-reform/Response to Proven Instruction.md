@@ -77,11 +77,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Response to Proven Instruction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **循证干预反应（Response to Proven Instruction, RTPI）** 是由[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）于 2019 年提出的[[Evidence-Based Education\|循证教育]]改革实施框架。RTPI 继承了联邦《个体残疾人教育法》（IDEA 2004）所确立的[[Response to Intervention\|干预反应模型]]（[[Response to Intervention\|RTI]]）三层支持架构，但在其基础上作出根本性升级：要求以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强（Strong）或中等（Moderate）[[Evidence Standards\|证据标准]]的经独立实验验证的**具体课程材料、技术工具与辅导规程**，刚性填充 TIER 1（全员核心教学）、Tier 2（小组针对性辅导）与 Tier 3（密集个别辅导）三层，使高危学生的学业成功从概率性意愿转变为制度性保障。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–29)]]
@@ -103,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Response to Intervention\|RTI]] vs RTPI 核心差异
 > | 比较维度 | 传统干预反应（RTI） | 循证干预反应（RTPI） |
 > |---|---|---|
@@ -115,8 +109,6 @@ updated: 2026-10-22
 > | **理论构建者** | Fuchs & Fuchs; Gresham（2000 年代） | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] RTPI 三层循证干预架构
 > - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学，应采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如[[Success for All]]、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（PALS）），有效预防 80%–85% 学生出现学业困难。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
@@ -180,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] RTPI 核心命题归纳
 > | 命题类型 | 核心理论指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -190,8 +180,6 @@ updated: 2026-10-22
 > | **助教成本效益命题** | 经培训助教辅导效能逼近认证教师，成本减半，解锁全校规模化覆盖的可行性 | 弱势学校资源配置、高贫困 [[Title I of the Elementary and Secondary Education Act\|Title I]] 学区补救教学设计 | 同上 |
 
 ---
-
-## 实证数据
 
 > [!contrast-table]- 阅读领域符合 [[Every Student Succeeds Act\|ESSA]] 强/中[[Evidence Standards\|证据标准]]的 RTPI 代表性方案（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, Table 1]]）
 > | 层级与模式 | 代表项目名称 | 验证学段 | 师资类型 | 研究数 | 平均效应量（$ES$） | ESSA 证据等级 |

@@ -70,11 +70,7 @@ created: "2026-06-08"
 updated: 2026-10-22
 ---
 
-# Gene Glass
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名教育心理学家与量化统计学家，亚利桑那州立大学（Arizona State University）与科罗拉多大学博尔德分校（University of Colorado Boulder）荣休教授，曾任美国教育研究协会（[[American Educational Research Association|AERA]]）主席（1975–1976）。
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1976 — *Primary, Secondary, and [[Meta-analysis]] of Research*** 首次确立初级分析、二级分析与元分析的三分法架构，正式确立元分析的学科合法性与统计学规程；提出标准化均值差指标 Glass's $\Delta$，确立以对照组标准差为除数的基线方差逻辑。
 > - **1977 — *[[Meta-analysis]] of Psychotherapy Outcome Studies***（与 Mary Lee Smith 合著） 首次在大规模临床实证中应用元分析，以 $d=0.60$ [[Effect Size|效应量]]证实心理治疗的积极效能。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
@@ -109,9 +103,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Meta-analysis|元分析]]的[[Epistemology|认识论]]灵魂在于跨越不同测量工具与情境约束，将各独立研究的效果标准化为可比尺度（如 Glass's $\Delta$），进而在离散变异中揭示真实规律。元分析绝非将多元异[[Qualitative Research|质的研究]]粗暴压缩为一个孤立的平均数字，而是必须完整呈现效果分布的复杂图表。混杂不同的研究如同研究水果时混合苹果与橙子，唯有探索水果整体的多样性才配得上严肃科学探究；将元分析简化为单一数字排行榜的做法，彻底背离了统计综合的科学初衷。
 
 > [!math-def] 标准化[[Effect Size|效应量]]测度：Glass's $\Delta$ 的数理设定与除数逻辑
@@ -136,9 +128,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 确立了[[Empiricism|经验主义]]与[[Postpositivism|后实证主义]]多源[[Research Synthesis|证据综合]]的合法性，促使社会科学摆脱单一小样本研究的片面局限。
 > - **方法路径** 使[[Meta-analysis|元分析]]跃升为医学（如 Cochrane 协作网）与教育学（如 Campbell 协作网）的标准综合工具；Glass's $\Delta$ 奠定了跨量表标准化[[Effect Size|效应量]]的通用算法。
 > - **政策路径** 深刻启发了现代[[Evidence-Based Education|循证教育]]与政策证据库（如美国 [[What Works Clearinghouse|WWC]]、英国 [[Education Endowment Foundation|EEF]] 工具包及[[John Hattie|约翰·哈蒂]]的 [[Visible Learning]]）的建设。
@@ -163,8 +153,6 @@ updated: 2026-10-22
 > - **当代批判审视者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]、[[Argument_Higgins_2016_ROE|Higgins (2016)]]、[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 援引格拉斯原始曲线与警示名言，批判现代[[Evidence-Based Education|循证教育]]运动对元分析的教条化篡改与跨指标混用缺陷。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

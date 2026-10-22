@@ -57,11 +57,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Process Design Kit
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **工艺设计套件（Process Design Kit, PDK）** 是晶圆代工厂（Foundry）针对特定半导体制造工艺节点，向集成电路设计团队与[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）工具软件提供的底层模型、物理设计规则、器件紧凑物理模型与标准单元库的结构化数据集合，是连接前端抽象电路代码设计与后端物理硅片制造的基石工程契约。随着 2.5D/3D [[Heterogeneous Integration|异构集成]]与芯粒（Chiplet）技术发展，该体系进一步衍生出**装配设计套件（Assembly Design Kit, ADK）**，用于界定多芯片封装层级的中介层布线、微凸点键合与多物理场仿真规则。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 5, 11, 16)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15, 23–24)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 芯片前端设计与后端制造封装核心要素辨析
 > | 维度 | 工艺设计套件（PDK） | 装配设计套件（ADK） | [[Electronic Design Automation\|电子设计自动化]]（EDA） | [[Multi-Project Wafer\|多项目晶圆]]（MPW） |
 > |:---|:---|:---|:---|:---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心构件与文件组成
-
 > [!feature] PDK 与 ADK 核心文件体系与技术构件
 > - **器件仿真紧凑模型（SPICE Models）** 包含晶体管、电阻、电容、二极管等基础元器件在不同温度、电压和工艺偏差（PVT Corner）下的精确非线性紧凑物理模型（如 BSIM-CMOS），用于前端电路逻辑与模拟信号高精度仿真。
 > - **物理设计规则检查文件（DRC / LVS / [[Engineering Research Centers|ERC]] Rules）** 规定导线最小宽度、层间最小间距、通孔包覆等几何规则（Design Rule Check, DRC），电路原理图与物理版图一致性比对规则（Layout Versus Schematic, LVS），以及电气规则检查脚本（Electrical Rule Check, ERC）。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 运作流程与流片验证机制
-
 > [!proc] 基于 PDK/ADK 的芯片设计到硅片制造转化流程
 > 1. **设计环境配置与套件导入** 设计团队通过国家设计网关或代工厂安全通道导入目标工艺节点的 PDK 与封装 ADK，配置工艺参数库与标准单元时序模型。
 > 2. **电路原理图设计与前仿真** 依据 PDK 提供的 SPICE 物理紧凑模型进行电路功能仿真与电气参数优化，确保逻辑与时序在极端工况下满足设计指标。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 > 6. **生成光刻版图数据交付制造（Tape-out）** 生成符合晶圆代工厂标准的 GDSII / OASIS 版图文件，接入[[Multi-Project Wafer|多项目晶圆]]（MPW）拼版，交付代工厂制作光罩并投入晶圆制造与封装测试。
 
 ---
-
-## 政策意义与生态演进
 
 > [!pathways] [[Modern Industrial Policy|现代产业政策]]推动 PDK/ADK 开放与标准化的核心路径
 > - **破除实验室到代工厂（[[Translational Research|lab-to-fab]]）的制度壁垒** 传统商业代工厂对先进制程 PDK 施加严苛的非公开商业审查与法律保密协议（NDA），法务谈判动辄耗时数月甚至数年，将中小微初创公司与高校科研团队阻隔在先进硬件创新门槛之外。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 5, 11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]

@@ -75,11 +75,7 @@ created: 2026-07-25
 updated: 2026-10-22
 ---
 
-# Active Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 主动学习（Active Learning）是一种以学习者为认知与实践主体、强调通过高频反思、探究与互动建构意义的教学与课程[[Paradigm\|范式]]。在经典教育哲学（[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]）传统中，主动学习被界定为由促进[[Critical Thinking\|批判性思维]]、开展民主对话，以及指向改造现实不公的实践（[[Praxis]]）与生长构成的三维课程模型。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
@@ -103,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 主动学习与主流教学[[Paradigm\|范式]]对比
 > | 比较维度 | 主动学习（Active Learning） | [[Banking Model of Education\|储蓄式教育]]（Banking Education） | 抽象通用原则宣讲 | 结构化循证[[Cooperative Learning\|合作学习]] |
 > |---|---|---|---|---|
@@ -114,8 +108,6 @@ updated: 2026-10-22
 > | **典型产出** | [[Critical Thinking\|批判性思维]]、深层理解与[[Self-Efficacy\|自我效能]] | 短期[[Rote Learning\|机械记忆]]，深层迁移能力薄弱 | 教师转化损耗严重，成效不稳定 | 显著的学业增益（$ES = +0.20 \sim +0.40$） |
 
 ---
-
-## 核心要素
 
 > [!feature] 主动学习的核心构成要素
 > - **[[Critical Thinking\|批判性思维]]与问题化探究（Problem-Posing & Critical Thinking）** 抛弃[[Rote Learning\|死记硬背]]，以真实[[Wicked Problem|劣构问题]]或认知冲突为起点，引导学生主动检索、质疑与论证。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]
@@ -159,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -177,8 +167,6 @@ updated: 2026-10-22
 > - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials\|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -200,8 +188,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -211,8 +197,6 @@ updated: 2026-10-22
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预库（涵盖数十项 [[Randomised Controlled Trials\|RCT]]） | 政策演进分析与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象主动学习原则推广 vs 具体成套结构化方案 | 抽象原则在常态学校推广中极易衰减失效；而内嵌主动合作机制的具体方案（如 CIRC、SFA）取得 $ES = +0.20 \sim +0.41$ 的强效因果增益 | 确立了主动学习向具体循证课程转型的实践依据 |
 
 ---
-
-## 典型案例
 
 > [!case] [[John Dewey\|杜威]]的“房屋模型构建”项目（[[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 9]]）
 > 杜威在《民主与教育》中阐述，[[Critical Thinking\|批判性思维]]的生成不依赖[[Rote Learning\|死记硬背]]，而是依托具身“做（Doing）”。当学生在实际建造房屋模型时，必须主动检索力学与结构资料、与同伴讨论规划、面对倒塌挫折并寻找修复方案，这一完整的探究链条正是主动学习的经典体现。

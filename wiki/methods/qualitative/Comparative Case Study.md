@@ -88,11 +88,7 @@ created: 2026-05-19
 updated: 2026-10-22
 ---
 
-# Comparative Case Study
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 确立了**过程性的“建构案例”（casing）** 取向，强调案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
@@ -110,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 关系性、过程性与批判[[Constructivist Paradigm|建构主义]]；坚持案例属于研究者借助[[Theoretical Perspective|理论视角]]和方法操作主动建构的分析范畴（casing），与[[Cultural Political Economy|文化政治经济学]]及[[World-Systems Theory|世界体系分析]]高度契合。
 > - **研究者角色** 跨尺度政策追踪者与多地点[[Reflexivity|反思性]]对话者，既保持宏观体系的政治经济学洞察，又扎根微观实地开展[[Rich and Thick Description|深描]]，秉持兼顾全球规范与本土能动的“双重视野”（double vision；Anderson-Levitt, 2003; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）。
@@ -126,16 +120,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **界定“案例生成”（Casing）** 明确拟解释的复杂教育或政策现象，打破单一行政边界设定，识别涉及的核心空间尺度与制度节点。
 > 2. **水平选点与连接性考量** 遴选两个或多个具有内在社会连接与对比价值的实地场景，建立跨地点的田野进入路径。
 > 3. **垂直跨尺度资料搜集与追踪** 从超国家规制顺流而下，深入国家教育部政策文本，最终沉降至微观学校与社区的[[Qualitative Observation|田野观察]]与访谈。
 > 4. **嵌入横贯历史脉络** 收集历史档案与政策沿革材料，明确案例现象所处的历史发展阶段与宏观结构变迁。
 > 5. **三轴协同综合分析与撰写** 在分析具体政策事实时，同时保持跨地点对比、跨尺度穿透与历时追溯的审视，揭示全球与本土辩证互动的深层机制。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -160,16 +150,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适合分析边界模糊、多尺度交织的现象（如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、多边大学联盟、[[GATS and Trade in Education Services|教育服务贸易]]与国际组织规制在地方的转化），考察全球同质化[[Discourse|话语]]在微观学校遭遇变通、抵制与重构的全球本土辩证互动，以及跨越国家内部（地方与国家）与国家外部（跨国与区域治理）的多标度制度与治理变迁研究。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1699)]]
 > - **谨慎使用** 仅依赖二手政策文本作为单一数据来源的研究，极易退化为案头[[Documentary Analysis|文献分析]]，无法充分激活多尺度与田野互证的优势；时间与经费高度受限、无法维持多地点深度田野或多源档案获取的研究项目需审慎评估。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 212–213)]]
 > - **不适合使用** 寻求严密控制混杂[[Variable|变量]]以测量特定单一干预净效应的微观[[Experimental Research|实验研究]]，以及要求进行大样本无偏统计概率推论的量化普查。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源与深度张力** 要求研究者同时在水平、垂直与横贯三个维度展开深挖，极易因线索过于繁杂而分散精力，导致分析过于宏大宽泛而削弱微观[[Rich and Thick Description|深描]]的质感。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 212–213)]]
@@ -190,8 +176,6 @@ updated: 2026-10-22
 > | [[Robert Arnove]] | 人物 | 倡导运用多地点比较案例研究示范全球与本土辩证互动的跨尺度“双重视野”。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110, 112)]] — 评析比较教育学者如何通过精细的多地点多标度比较[[Case Study|案例研究]]（CCS），结合几内亚与美法阅读教学、以色列分权改革、印度女教师培训、巴布亚新几内亚乡村反抗及巴勒斯坦幼教机构，示范贯通跨国标准、国家中介与微观课堂的跨尺度“双重视野”分析策略。

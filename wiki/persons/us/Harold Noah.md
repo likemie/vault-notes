@@ -88,11 +88,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Harold Noah
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍英裔比较教育学家、教育经济学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）经济学与教育学讲座教授、前院长（1976–1981），美国[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1976–1977）。
@@ -120,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960年代 — 科学化[[Paradigm|范式]]革命与哥大学派确立期** 批判早期历史学派依赖直觉印象与主观阐释，构建学科发展四阶段谱系（见闻、借用、因素、实证科学），确立[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]函数共变模型。
 >   - **代表著作** *Toward a Science of Comparative Education* (1969); *Scientific Investigations in Comparative Education* (1969).
@@ -137,9 +131,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育学的[[Nature of Science|科学本质]]在于解释教育与社会[[Variable|变量]]之间的恒常函数关系，建立具有跨国解释力的[[Nomothetic|通则式]]理论命题；研究必须彻底告别主观印象主义和无节制的历史文化白描，遵循现代经验社会科学假说检验逻辑，核心法则在于**用标准化的概念变量名称替代具体的社会系统或国家名称**，借助多国大[[Sample Size Determination|样本量]]化测量、控制变量与[[Multiple Regression|多元回归]]分析确立变量间的共变规律，以此消除主观偏见并为国家教育规划与制度变革提供客观中立的科学决策基石。
 
 > [!citation-card] 卡扎米亚斯论哥大学派核心纲领：以变量名称替代系统与国名
@@ -181,9 +173,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Paradigm|范式]]塑造路径** 与埃克斯坦确立的[[Positivism|实证主义]][[Scientific Paradigm|科学范式]]彻底改写了战后北美比较教育学的研究取向，促成社会学[[Multiple Regression|多元回归]]与经济学计量工具成为学科主流；
 > - **方法论奠基路径** 提出“用[[Variable|变量]]名称替代系统名称”的通则化分析纲领，为大规模跨国教育成就调查（[[IEA]]）提供了核心方法论论证；
 > - **学科史合法化路径** 1969 年著作中对学科发展阶段的经典划分（见闻—借用—因素—科学），成为数代比较教育学者的规范历史读本；
@@ -196,8 +186,6 @@ updated: 2026-10-22
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析诺亚与埃克斯坦在科学范式中建立的变量函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 考恩论起源叙事对年轻学者的学术合法化
 > 专业层面，他们很早就解决了我作为学生时的困惑：哪里能找到一部比较教育学史？答案就在他们那本经典著作之中。在这里，该领域的起源以示范性的清晰度呈现出来，学术注释严谨翔实。这段历史赋予了我学术职业合法性。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
@@ -227,8 +215,6 @@ updated: 2026-10-22
 > - **机构与组织** [[Comparative and International Education Society|CIES]]（前会长）、哥伦比亚大学师范学院（讲座教授、院长）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

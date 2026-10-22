@@ -60,11 +60,7 @@ created: 2026-06-30
 updated: 2026-10-22
 ---
 
-# Megascience Installations
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Big Science|大科学]]装置（Megascience Installations / Megascience Facilities，亦称大型科研基础设施）** 是指在基础科学前沿与关键使能技术领域（如高能物理粒子对撞机、受控核聚变装置、同步辐射光源、散裂中子源及国家级微纳制造基础设施）建设的独特、高度复杂且造价极其昂贵的大型综合科研基础设施。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 装置类型与双轨治理模式
-
 > [!taxonomy] [[Big Science|大科学]]装置的核心类别与主要应用
 > - **基础前沿极端物理设施**
 >   - *代表形态*：高能粒子对撞机（如 [[CERN]] 大型强子对撞机 LHC、俄罗斯 NICA）、受控热核聚变实验堆（如 ITER、EAST）、深空射电望远镜阵列；
@@ -103,10 +97,6 @@ updated: 2026-10-22
 >   - *核心目标*：提供两千余台尖端微加工机台，为量子计算、先进半导体与细胞疗法初创企业提供小时级计费原型试制。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] [[Big Science|大科学]]装置核心命题归纳
 > | 命题类型 | 核心指向 | 提出学者 / 机构 | 实证情境 |
@@ -147,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Big Science|大科学]]装置演进脉络
 > - **1950s–1980s — 冷战多边科学外交与粒子物理黄金期** [[CERN]] 等国际组织成立，大科学装置作为缓和冷战地缘紧张、共享基础前沿成果的多边科学外交载体蓬勃发展。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 48)]]
 > - **1970s–1990s — 大学微纳开放用户设施与多边平台探索** 康奈尔大学亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）等大学级大科学平台破冰，通过对外共享机台与工程咨询，服务全美 40 余家机构并向生命科学跨界。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–293)]]
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > - **2026 年 — 产业中试赋能与国家深科技基础设施体系重构** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动能源部 28 个用户设施与 NNCI 微纳洁净室向硬科技初创企业全面开放，共建 GMP 级[[Pilot Scale Platform|中试制造平台]]，实现从纯基础科学探索向国家产业先进制造基座的战略升级。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -174,8 +160,6 @@ updated: 2026-10-22
 > > - **产业使能立场（Kratsios 2026; NSTC 2024）** 指出大科学装置必须兼顾商业验证紧迫性与战略产业共性需求，向硬科技初创企业开放小时级低成本机时与 300mm 中试验证，才能最大化纳税人[[Return on Investment|投资回报]]并拉动先进制造。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Big Science|大科学]]装置跨国预算与运行指标
 >

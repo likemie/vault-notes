@@ -22236,8 +22236,8 @@ body .callout.callout.callout:is([data-callout="assumptions"], [data-callout="ax
 
 
 body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="argument-steps"], [data-callout="bias-audit"], [data-callout="book-limits"], [data-callout="book-synthesis"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="chapter-index"], [data-callout="chapter-roadmap"], [data-callout="concept-lens"], [data-callout="critique"], [data-callout="critique-logic"], [data-callout="critique-method"], [data-callout="cross-chapter"], [data-callout="debates"], [data-callout="designs"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="event-context"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="fit-grid"], [data-callout="formula-step"], [data-callout="frames-ref"], [data-callout="goal"], [data-callout="impact-cards"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="instrument-items"], [data-callout="instrument-profile"], [data-callout="interdependence"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="monograph-method"], [data-callout="monograph-profile"], [data-callout="monograph-thesis"], [data-callout="monograph-tools"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="software-impl"], [data-callout="stat-cards"], [data-callout="tension"], [data-callout="theory-boundary"], [data-callout="theory-components"], [data-callout="theory-origin"], [data-callout="theory-position"], [data-callout="theory-stance"], [data-callout="theory-use"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="volume-argument"], [data-callout="volume-contribution"], [data-callout="volume-limits"], [data-callout="volume-profile"], [data-callout="volume-structure"], [data-callout="volume-tools"], [data-callout="work-line"]) .callout-content li > .list-bullet, body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="argument-steps"], [data-callout="bias-audit"], [data-callout="book-limits"], [data-callout="book-synthesis"], [data-callout="boundary"], [data-callout="case"], [data-callout="chain-link"], [data-callout="chapter-index"], [data-callout="chapter-roadmap"], [data-callout="concept-lens"], [data-callout="critique"], [data-callout="critique-logic"], [data-callout="critique-method"], [data-callout="cross-chapter"], [data-callout="debates"], [data-callout="designs"], [data-callout="dev-timeline"], [data-callout="dimension"], [data-callout="event-context"], [data-callout="evidence-grid"], [data-callout="evidence-grid-a"], [data-callout="evidence-grid-b"], [data-callout="factors"], [data-callout="feature"], [data-callout="finding-cards"], [data-callout="fit-grid"], [data-callout="formula-step"], [data-callout="frames-ref"], [data-callout="goal"], [data-callout="impact-cards"], [data-callout="indicators"], [data-callout="influence-path"], [data-callout="instrument-items"], [data-callout="instrument-profile"], [data-callout="interdependence"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="method-position"], [data-callout="method-scope"], [data-callout="method-stack"], [data-callout="monograph-method"], [data-callout="monograph-profile"], [data-callout="monograph-thesis"], [data-callout="monograph-tools"], [data-callout="org-context"], [data-callout="org-evolution"], [data-callout="pathways"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="phase"], [data-callout="policy-context"], [data-callout="policy-design"], [data-callout="proc"], [data-callout="program-context"], [data-callout="proposition-chain"], [data-callout="quad-grid"], [data-callout="software-impl"], [data-callout="stat-cards"], [data-callout="tension"], [data-callout="theory-boundary"], [data-callout="theory-components"], [data-callout="theory-origin"], [data-callout="theory-position"], [data-callout="theory-stance"], [data-callout="theory-use"], [data-callout="thought-timeline"], [data-callout="timeline"], [data-callout="timeline-compact"], [data-callout="volume-argument"], [data-callout="volume-contribution"], [data-callout="volume-limits"], [data-callout="volume-profile"], [data-callout="volume-structure"], [data-callout="volume-tools"], [data-callout="work-line"]) .callout-content li > .list-collapse-indicator { display: none !important; }
-body .callout.callout.callout:is([data-callout="critique"], [data-callout="finding-cards"], [data-callout="method-position"], [data-callout="goal"], [data-callout="actor-grid"], [data-callout="volume-tools"], [data-callout="theory-origin"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="volume-structure"], [data-callout="feature"], [data-callout="monograph-method"], [data-callout="chapter-roadmap"], [data-callout="evidence-grid"], [data-callout="event-context"], [data-callout="theory-use"], [data-callout="chapter-index"], [data-callout="monograph-thesis"], [data-callout="evidence-grid-b"], [data-callout="monograph-profile"], [data-callout="argument-steps"], [data-callout="volume-argument"], [data-callout="org-context"], [data-callout="impact-cards"], [data-callout="program-context"], [data-callout="cross-chapter"], [data-callout="evidence-grid-a"], [data-callout="software-impl"], [data-callout="indicators"], [data-callout="policy-design"], [data-callout="method-limits"], [data-callout="theory-position"], [data-callout="volume-limits"], [data-callout="book-synthesis"], [data-callout="theory-components"], [data-callout="dimension"], [data-callout="quad-grid"], [data-callout="factors"], [data-callout="theory-boundary"], [data-callout="policy-context"], [data-callout="stat-cards"], [data-callout="bias-audit"], [data-callout="book-limits"], [data-callout="critique-method"], [data-callout="theory-stance"], [data-callout="instrument-items"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="method-fit"], [data-callout="designs"], [data-callout="fit-grid"], [data-callout="volume-profile"], [data-callout="instrument-profile"], [data-callout="critique-logic"], [data-callout="volume-contribution"], [data-callout="influence-path"], [data-callout="concept-lens"], [data-callout="monograph-tools"], [data-callout="frames-ref"]) > .callout-content > :is(ul, ol) { padding-left: 0 !important; margin-top: .2rem !important; }
-body .callout.callout.callout:is([data-callout="critique"], [data-callout="finding-cards"], [data-callout="method-position"], [data-callout="goal"], [data-callout="actor-grid"], [data-callout="volume-tools"], [data-callout="theory-origin"], [data-callout="method-stack"], [data-callout="method-scope"], [data-callout="volume-structure"], [data-callout="feature"], [data-callout="monograph-method"], [data-callout="chapter-roadmap"], [data-callout="evidence-grid"], [data-callout="event-context"], [data-callout="theory-use"], [data-callout="chapter-index"], [data-callout="monograph-thesis"], [data-callout="evidence-grid-b"], [data-callout="monograph-profile"], [data-callout="argument-steps"], [data-callout="volume-argument"], [data-callout="org-context"], [data-callout="impact-cards"], [data-callout="program-context"], [data-callout="cross-chapter"], [data-callout="evidence-grid-a"], [data-callout="software-impl"], [data-callout="indicators"], [data-callout="policy-design"], [data-callout="method-limits"], [data-callout="theory-position"], [data-callout="volume-limits"], [data-callout="book-synthesis"], [data-callout="theory-components"], [data-callout="dimension"], [data-callout="quad-grid"], [data-callout="factors"], [data-callout="theory-boundary"], [data-callout="policy-context"], [data-callout="stat-cards"], [data-callout="bias-audit"], [data-callout="book-limits"], [data-callout="critique-method"], [data-callout="theory-stance"], [data-callout="instrument-items"], [data-callout="person-network"], [data-callout="person-profile"], [data-callout="method-fit"], [data-callout="designs"], [data-callout="fit-grid"], [data-callout="volume-profile"], [data-callout="instrument-profile"], [data-callout="critique-logic"], [data-callout="volume-contribution"], [data-callout="influence-path"], [data-callout="concept-lens"], [data-callout="monograph-tools"], [data-callout="frames-ref"]) > .callout-content > :is(ul, ol) > li::marker { content: none; }
+body .callout.callout.callout:is([data-callout="book-limits"], [data-callout="feature"], [data-callout="goal"], [data-callout="critique-method"], [data-callout="volume-structure"], [data-callout="volume-argument"], [data-callout="critique"], [data-callout="theory-stance"], [data-callout="person-network"], [data-callout="monograph-thesis"], [data-callout="stat-cards"], [data-callout="chapter-roadmap"], [data-callout="theory-use"], [data-callout="method-scope"], [data-callout="program-context"], [data-callout="software-impl"], [data-callout="instrument-items"], [data-callout="policy-context"], [data-callout="evidence-grid-b"], [data-callout="evidence-grid"], [data-callout="monograph-tools"], [data-callout="theory-position"], [data-callout="indicators"], [data-callout="finding-cards"], [data-callout="theory-components"], [data-callout="designs"], [data-callout="chapter-index"], [data-callout="policy-design"], [data-callout="method-position"], [data-callout="impact-cards"], [data-callout="theory-origin"], [data-callout="person-profile"], [data-callout="instrument-profile"], [data-callout="critique-logic"], [data-callout="argument-steps"], [data-callout="volume-limits"], [data-callout="influence-path"], [data-callout="org-context"], [data-callout="fit-grid"], [data-callout="frames-ref"], [data-callout="method-limits"], [data-callout="dimension"], [data-callout="cross-chapter"], [data-callout="volume-profile"], [data-callout="method-stack"], [data-callout="theory-boundary"], [data-callout="bias-audit"], [data-callout="volume-tools"], [data-callout="evidence-grid-a"], [data-callout="quad-grid"], [data-callout="method-fit"], [data-callout="actor-grid"], [data-callout="book-synthesis"], [data-callout="volume-contribution"], [data-callout="monograph-profile"], [data-callout="monograph-method"], [data-callout="concept-lens"], [data-callout="factors"], [data-callout="event-context"]) > .callout-content > :is(ul, ol) { padding-left: 0 !important; margin-top: .2rem !important; }
+body .callout.callout.callout:is([data-callout="book-limits"], [data-callout="feature"], [data-callout="goal"], [data-callout="critique-method"], [data-callout="volume-structure"], [data-callout="volume-argument"], [data-callout="critique"], [data-callout="theory-stance"], [data-callout="person-network"], [data-callout="monograph-thesis"], [data-callout="stat-cards"], [data-callout="chapter-roadmap"], [data-callout="theory-use"], [data-callout="method-scope"], [data-callout="program-context"], [data-callout="software-impl"], [data-callout="instrument-items"], [data-callout="policy-context"], [data-callout="evidence-grid-b"], [data-callout="evidence-grid"], [data-callout="monograph-tools"], [data-callout="theory-position"], [data-callout="indicators"], [data-callout="finding-cards"], [data-callout="theory-components"], [data-callout="designs"], [data-callout="chapter-index"], [data-callout="policy-design"], [data-callout="method-position"], [data-callout="impact-cards"], [data-callout="theory-origin"], [data-callout="person-profile"], [data-callout="instrument-profile"], [data-callout="critique-logic"], [data-callout="argument-steps"], [data-callout="volume-limits"], [data-callout="influence-path"], [data-callout="org-context"], [data-callout="fit-grid"], [data-callout="frames-ref"], [data-callout="method-limits"], [data-callout="dimension"], [data-callout="cross-chapter"], [data-callout="volume-profile"], [data-callout="method-stack"], [data-callout="theory-boundary"], [data-callout="bias-audit"], [data-callout="volume-tools"], [data-callout="evidence-grid-a"], [data-callout="quad-grid"], [data-callout="method-fit"], [data-callout="actor-grid"], [data-callout="book-synthesis"], [data-callout="volume-contribution"], [data-callout="monograph-profile"], [data-callout="monograph-method"], [data-callout="concept-lens"], [data-callout="factors"], [data-callout="event-context"]) > .callout-content > :is(ul, ol) > li::marker { content: none; }
 
 
 body .callout.callout.callout:is([data-callout="note"], [data-callout="info"], [data-callout="todo"], [data-callout="tip"], [data-callout="hint"], [data-callout="important"], [data-callout="success"], [data-callout="check"], [data-callout="done"], [data-callout="warning"], [data-callout="caution"], [data-callout="attention"], [data-callout="failure"], [data-callout="fail"], [data-callout="missing"], [data-callout="danger"], [data-callout="error"], [data-callout="bug"], [data-callout="example"], [data-callout="abstract"], [data-callout="summary"], [data-callout="tldr"], [data-callout="quote"], [data-callout="cite"], [data-callout="note-"]):is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]):not(.is-collapsible) > .callout-title { display: none !important; }
@@ -22346,6 +22346,53 @@ body .callout.callout.callout[data-callout="example"].is-collapsible > .callout-
   border: 1px solid var(--ac-hair); border-radius: 6px; background: #fff;
 }
 body .callout.callout.callout[data-callout="example"].is-collapsible > .callout-content p:has(> img:only-child) { text-align: center; margin: 0; }
+
+
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) {
+  --emp: 15, 118, 110; --emp-ink: color-mix(in srgb, rgb(15, 118, 110) 80%, var(--text-normal));
+  padding: 0 !important; overflow: hidden;
+  background: var(--ac-raised) !important; background-image: none !important;
+  border: 1px solid var(--ac-hair) !important; border-radius: 10px !important; box-shadow: inset 0 3px 0 rgb(var(--emp)) !important;
+  margin: .6rem 0 !important;
+}
+.theme-dark .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) { --emp: 72, 190, 170; --emp-ink: rgb(120, 210, 195); }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)):hover { border-color: color-mix(in srgb, rgb(var(--emp)) 40%, var(--ac-hair)) !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker))::before, body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker))::after { display: none !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-title {
+  display: flex !important; align-items: center; gap: .65rem; cursor: pointer;
+  margin: 0 !important; padding: .85rem 1rem .75rem !important; border: 0 !important; background: none !important;
+}
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-title:hover { background: var(--ac-sunken) !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)):not(.is-collapsed) > .callout-title { border-bottom: 1px solid var(--ac-hair-soft) !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-title .callout-icon { display: none !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-title .callout-title-inner {
+  flex: 1 1 auto; min-width: 0; display: flex; align-items: baseline; gap: .6rem; flex-wrap: wrap;
+  font-family: var(--ac-sans) !important; font-size: .95em !important; font-weight: 600 !important; line-height: 1.45 !important;
+  color: var(--text-normal) !important; letter-spacing: 0 !important;
+}
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-title .callout-title-inner::before {
+  display: inline-block !important; flex: none; margin: 0 !important; padding: .12rem .5rem !important;
+  border-radius: 4px !important; border: 1px solid color-mix(in srgb, rgb(var(--emp)) 45%, transparent) !important;
+  background: color-mix(in srgb, rgb(var(--emp)) 10%, transparent) !important; color: var(--emp-ink) !important;
+  font-family: var(--ac-mono); font-size: .64em !important; font-weight: 650 !important; letter-spacing: .08em !important;
+  line-height: 1.5 !important; box-shadow: none !important; width: auto !important;
+}
+body .callout.callout.callout[data-callout]:has(> .callout-content .concept-effect-table-marker) > .callout-title .callout-title-inner::before { content: "DATA · EFFECT SIZES" !important; }
+body .callout.callout.callout[data-callout]:has(> .callout-content .concept-meta-analysis-table-marker) > .callout-title .callout-title-inner::before { content: "DATA · META-ANALYSIS" !important; }
+body .callout.callout.callout[data-callout]:has(> .callout-content .concept-second-order-meta-table-marker) > .callout-title .callout-title-inner::before { content: "DATA · 2ND-ORDER META" !important; }
+body .callout.callout.callout[data-callout]:has(> .callout-content .concept-other-empirical-table-marker) > .callout-title .callout-title-inner::before { content: "DATA · OTHER RESULTS" !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-title .callout-fold { flex: none; margin-left: auto; padding: 0 !important; opacity: .55; color: var(--ac-muted); transition: transform 220ms, opacity 160ms; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-title:hover .callout-fold { opacity: 1; color: var(--emp-ink); }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)).is-collapsed > .callout-title .callout-fold { transform: rotate(-90deg); }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content { margin: 0 !important; padding: .9rem 1rem 1rem !important; background: var(--ac-sunken) !important; overflow-x: auto !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content > p:not(:has(> span:only-child)) { margin: 0 0 .7rem !important; color: var(--ac-muted); font-size: .92em; line-height: 1.7; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content > p:has(> span[class*="-marker"]:only-child) { display: none !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content table { background: var(--ac-raised) !important; font-size: .86em !important; font-variant-numeric: tabular-nums lining-nums; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content th { background: var(--ac-sunken) !important; color: var(--ac-muted) !important; font-size: .9em !important; white-space: normal; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content tbody tr:nth-child(even) > td { background: color-mix(in srgb, var(--ac-sunken) 60%, var(--ac-raised)) !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content tbody tr:hover > td { background: color-mix(in srgb, rgb(var(--emp)) 7%, var(--ac-raised)) !important; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content td:first-child { font-weight: 600; }
+body .callout.callout.callout[data-callout]:is(:has(> .callout-content .concept-effect-table-marker), :has(> .callout-content .concept-meta-analysis-table-marker), :has(> .callout-content .concept-second-order-meta-table-marker), :has(> .callout-content .concept-other-empirical-table-marker)) > .callout-content td:has(:is(mjx-container, .math, .katex)) { color: var(--emp-ink); font-family: var(--ac-mono); font-size: .95em; }
 
 
 body .callout.callout.callout.callout:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-title { margin: 0 0 .6rem !important; padding: 0 !important; border-bottom: 0 !important; }
@@ -22508,384 +22555,3 @@ body .callout.callout.callout:is([data-callout="quote"], [data-callout="cite"]):
 
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]):not(.is-collapsible) > .callout-title { display: none !important; }
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-content { margin-top: 0 !important; }
-
-/* ── 12 · Visible Learning MetaX 模块（2026-10-22 v2 紧凑版） ─────────
-   [!metax] 总览 / [!metax-ma] 元分析 / [!metax-errata] 勘误（有勘误才出现）。
-   眉标与表头文字由 CSS 生成，Markdown 表头只写代号：
-   总览 rate ma k n m d du rob（d 加权、du 未加权）；元分析 ref var k n m d e。 */
-.callout[data-callout="metax"] { --callout-color: 15, 118, 110; --callout-icon: lucide-bar-chart-3; }
-.callout[data-callout="metax-ma"] { --callout-color: 15, 118, 110; --callout-icon: lucide-list; }
-.callout[data-callout="metax-errata"] { --callout-color: 190, 112, 34; --callout-icon: lucide-alert-triangle; }
-
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) {
-  padding: .8rem .95rem .85rem !important; font-size: .86em;
-  background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
-  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
-  border-radius: 10px !important; box-shadow: none !important;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::before, body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::after { display: none !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-ma"], [data-callout="metax-errata"]) {
-  margin: .7rem 0 0 !important; padding: .55rem .7rem .6rem !important; font-size: 1em;
-  background: var(--ac-raised, var(--background-primary)) !important;
-}
-body .callout.callout.callout[data-callout][data-callout="metax-errata"] { border-left: 3px solid rgb(190, 112, 34) !important; }
-
-/* 标题行：眉标 + 标题 */
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title {
-  padding: 0 !important; margin: 0 0 .25rem; background: none !important; border: 0 !important;
-  box-shadow: none !important; align-items: center; gap: .4rem; min-height: 0;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]).is-collapsed > .callout-title { margin-bottom: 0; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-icon { display: none; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-fold { padding: 0 !important; opacity: .6; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
-  display: block !important; width: max-content; margin: 0 0 .2rem !important; padding: 0 0 0 16px !important;
-  border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
-  background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 10px 2px no-repeat !important;
-  color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, sans-serif); font-size: .6rem !important;
-  font-weight: 650 !important; letter-spacing: .14em !important; line-height: 1.4; text-transform: uppercase; animation: none !important;
-}
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner {
-  font-family: var(--ac-serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; line-height: 1.35; color: var(--text-normal) !important;
-}
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner::before { content: "Visible Learning MetaX" !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner a { color: inherit !important; text-decoration: none !important; background-image: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner a:hover { color: rgb(var(--callout-color)) !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner a.external-link { padding-right: 0 !important; background-image: none !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
-  font-family: var(--ac-sans, sans-serif); font-size: .72rem !important; font-weight: 500;
-  color: var(--ac-muted, var(--text-muted)) !important; line-height: 1.4;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
-  display: inline-block !important; margin: 0 .5rem 0 0 !important; vertical-align: baseline;
-}
-body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-title .callout-title-inner::before { content: "Meta-analyses · 元分析" !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-title .callout-title-inner::before { content: "Errata · 勘误" !important; }
-
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-content { padding: 0 !important; background: none !important; overflow-x: auto !important; }
-/* 领域 › 子领域 */
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content > p:first-child {
-  margin: 0 0 .55rem !important; font-size: .8rem; line-height: 1.4; color: var(--ac-muted, var(--text-muted));
-}
-
-/* 表格：等宽数字、只留横线、紧凑行距；覆盖通用“≥6 列宽表”规则 */
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) {
-  width: 100% !important; min-width: 0 !important; max-width: 100% !important; margin: 0 !important;
-  font-size: .8rem; border-collapse: collapse; background: transparent !important; table-layout: auto !important;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) {
-  min-width: 0 !important; max-width: none !important; width: auto !important;
-  padding: .28rem .45rem !important; line-height: 1.4; vertical-align: top;
-  border-left: 0 !important; border-right: 0 !important; border-top: 0 !important;
-  border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important;
-  white-space: nowrap !important; font-variant-numeric: tabular-nums; background: transparent !important;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) tr:last-child td { border-bottom: 0 !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(n+2):nth-child(-n+6) { text-align: right; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { font-weight: 650; }
-
-/* 表头：隐藏代号，显示中文标签 */
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th {
-  font-size: 0 !important; color: transparent !important; padding-top: 0 !important; padding-bottom: .2rem !important;
-  border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th * { font-size: 0 !important; color: transparent !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th::before {
-  display: block; font-size: .66rem; font-weight: 600; letter-spacing: .02em; color: var(--ac-muted, var(--text-muted));
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(n+2):nth-child(-n+6)::before { text-align: right; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content > :is(table):has(th:nth-child(6)) th:nth-child(1)::before, body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content > .table-wrapper > :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "评级"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "评级"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "元分析"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "研究"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "学生"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "效应数"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "效应量（按研究数加权）"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { content: "效应量（未加权）"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(8)::before { content: "稳健性"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "文献"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "变量"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "研究"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "学生"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "效应数"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "效应量 d"; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { content: "勘误"; text-align: center; }
-
-/* 总览：评级星（琥珀）与稳健性圆点（青绿） */
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { color: rgb(196, 140, 40); letter-spacing: .04em; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(8) { color: rgb(var(--callout-color)); letter-spacing: .06em; font-size: .72rem; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(7) { text-align: right; color: var(--ac-muted, var(--text-muted)); }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { text-align: right; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td { font-size: .86rem; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { font-size: .95rem; }
-
-/* 元分析表：文献与变量可换行 */
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:is(:nth-child(1), :nth-child(2)) { white-space: normal !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { min-width: 9em !important; font-weight: 550; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(2) { min-width: 8em !important; color: var(--ac-muted, var(--text-muted)); }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { font-size: .8rem; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(7) { text-align: center; color: rgb(190, 112, 34); }
-
-/* 勘误列表 */
-body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul { margin: 0 !important; padding-left: 0 !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul > li {
-  list-style: none !important; padding: .3rem 0 !important; font-size: .8rem; line-height: 1.55;
-  border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border));
-}
-body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul > li:last-child { border-bottom: 0; }
-body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul > li > strong { color: rgb(190, 112, 34); font-weight: 650; }
-
-/* 12b · 嵌套表复位：总览列样式不下沉到元分析表；表头默认左对齐 */
-body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th { text-align: left !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td { font-size: .8rem; letter-spacing: 0; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { color: var(--text-normal); }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(2) { text-align: left; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { text-align: left; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) :is(td, th):nth-child(n+3):nth-child(-n+6) { text-align: right; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(n+3):nth-child(-n+6)::before { text-align: right; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(7) { color: rgb(190, 112, 34); font-size: .8rem; letter-spacing: 0; text-align: center; }
-body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { text-align: center; }
-
-/* ── 13 · MetaX 领域汇总（[!metax-domain] 总表 / [!metax-subdomain] 各领域子领域） ──
-   由 metax_sync.py domains 生成；表头写代号，标签由 CSS 显示。
-   固定列宽（table-layout: fixed），各子领域表上下对齐；条形为固定轨道 + 填充，数值起点一致。 */
-.callout[data-callout="metax-domain"], .callout[data-callout="metax-subdomain"] { --callout-color: 15, 118, 110; --callout-icon: lucide-layers; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) {
-  padding: .85rem 1rem .75rem !important;
-  background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
-  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
-  border-radius: 10px !important; box-shadow: none !important;
-  font-family: var(--ac-sans, var(--font-text)); font-size: 14px;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"])::before, body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"])::after { display: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] { margin: .4rem 0 0 !important; padding: .55rem 1rem !important; border-radius: 8px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title { padding: 0 !important; margin: 0 0 .5rem; background: none !important; border: 0 !important; box-shadow: none !important; align-items: baseline; gap: .4rem; min-height: 0; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]).is-collapsed > .callout-title { margin-bottom: 0; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-icon { display: none; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-fold { padding: 0 !important; opacity: .5; align-self: center; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-title-inner { font-family: inherit; font-size: 13px; font-weight: 600; letter-spacing: 0; color: var(--text-normal) !important; line-height: 1.5; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-title-inner::before {
-  display: inline-block !important; white-space: nowrap; margin: 0 10px 0 0 !important; padding: 0 0 0 16px !important;
-  border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
-  background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 10px 2px no-repeat !important;
-  color: rgb(var(--callout-color)) !important; font-size: 10px !important; font-weight: 650 !important;
-  letter-spacing: .12em !important; text-transform: uppercase; vertical-align: baseline; animation: none !important;
-}
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-title .callout-title-inner::before { content: "MetaX Domains" !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-title .callout-title-inner::before { content: "Sub-domains" !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content { padding: 0 !important; background: none !important; overflow-x: auto !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content { padding-top: .3rem !important; }
-
-/* 表格：固定列宽、统一字号 13px、等宽数字 */
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) {
-  width: 100% !important; min-width: 0 !important; max-width: 100% !important; margin: 0 !important;
-  table-layout: fixed !important; border-collapse: collapse; background: transparent !important;
-  font-family: inherit; font-size: 13px; font-variant-numeric: tabular-nums lining-nums;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) {
-  min-width: 0 !important; max-width: none !important;
-  padding: 6px 8px !important; line-height: 20px; vertical-align: middle; text-align: right;
-  border: 0 !important; border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important;
-  white-space: nowrap !important; overflow: hidden; text-overflow: ellipsis;
-  background: transparent !important; font-weight: 400; color: var(--text-normal);
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):first-child { text-align: left; padding-left: 2px !important; white-space: normal !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):last-child { padding-right: 2px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) tbody tr:hover td { background: color-mix(in srgb, rgb(var(--callout-color)) 7%, transparent) !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th {
-  font-size: 0 !important; color: transparent !important; padding-top: 0 !important; padding-bottom: 6px !important;
-  vertical-align: bottom; border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
-}
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th * { font-size: 0 !important; color: transparent !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th::before { display: block; font-size: 11px; font-weight: 500; line-height: 16px; letter-spacing: .02em; color: var(--ac-muted, var(--text-muted)); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th:not(:first-child)::before { text-align: right; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1) { width: 12% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "领域"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2) { width: 5% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "因素"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3) { width: 13% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "元分析（累计 / 去重）"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4) { width: 18% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "等权 d（算术平均）"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5) { width: 13% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "按研究数加权 d"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6) { width: 8% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "中位数"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7) { width: 8% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { content: "标准差"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(8) { width: 16% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(8)::before { content: "范围"; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(9) { width: 7% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(9)::before { content: "负向"; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1) { width: 26% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "子领域"; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2) { width: 8% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "因素"; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3) { width: 24% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "等权 d（算术平均）"; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4) { width: 14% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "按研究数加权 d"; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5) { width: 20% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "范围"; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6) { width: 8% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "负向"; }
-/* 等权平均 d：条形轨道 + 数值，左对齐；其余对照列次要色 */
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) :is(td, th):nth-child(4), body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) :is(td, th):nth-child(3) { text-align: left; font-weight: 600; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before, body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { text-align: left; }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(n+5):nth-child(-n+8), body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(5) { color: var(--ac-muted, var(--text-muted)); }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(5), body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(4) { color: var(--text-normal); }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(3) { color: var(--ac-muted, var(--text-muted)); }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(9), body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { color: rgb(190, 112, 34); }
-body .callout.callout.callout[data-callout][data-callout="metax-domain"] > .callout-content :is(table):has(th:nth-child(6)) tbody tr:last-child td { border-bottom: 0 !important; border-top: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; font-weight: 600; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] > .callout-content :is(table):has(th:nth-child(6)) tbody tr:last-child td { border-bottom: 0 !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar { display: inline-block; position: relative; width: 40px; height: 5px; margin: 0 6px 0 0; vertical-align: middle; border-radius: 3px; background: color-mix(in srgb, rgb(var(--callout-color)) 14%, transparent); overflow: hidden; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > span { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 3px; background: rgb(var(--callout-color)); }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar.neg > span { background: rgb(190, 112, 34); }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b0 { width: 0px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b1 { width: 1.4px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b2 { width: 2.9px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b3 { width: 4.3px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b4 { width: 5.7px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b5 { width: 7.1px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b6 { width: 8.6px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b7 { width: 10px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b8 { width: 11.4px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b9 { width: 12.9px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b10 { width: 14.3px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b11 { width: 15.7px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b12 { width: 17.1px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b13 { width: 18.6px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b14 { width: 20px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b15 { width: 21.4px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b16 { width: 22.9px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b17 { width: 24.3px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b18 { width: 25.7px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b19 { width: 27.1px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b20 { width: 28.6px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b21 { width: 30px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b22 { width: 31.4px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b23 { width: 32.9px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b24 { width: 34.3px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b25 { width: 35.7px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b26 { width: 37.1px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b27 { width: 38.6px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) .mx-bar > .b28 { width: 40px; }
-/* 13c · 表头行高收紧：隐藏代号所在行不占高度；标签可两行 */
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th { line-height: 0 !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th::before { white-space: normal !important; line-height: 15px !important; overflow: visible; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) td { text-overflow: clip; }
-/* 13d · 字号收小：表格 12px、表头 10px、标题 12px */
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) { font-size: 12px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) { padding: 4px 6px !important; line-height: 18px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th { padding-bottom: 4px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th::before { font-size: 10px !important; line-height: 13px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-title-inner { font-size: 12px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-title-inner::before { font-size: 9px !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-subdomain"] { padding: .45rem .9rem !important; }
-/* 13e · 字号再收小：表格 11px、表头 9.5px、标题 11px */
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) { font-size: 11px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) { padding: 3px 5px !important; line-height: 16px; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) th::before { font-size: 9.5px !important; line-height: 12px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-title-inner { font-size: 11px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-title .callout-title-inner::before { font-size: 8.5px !important; }
-/* 13f · Obsidian 主题会给 td 单独设字号（--table-text-size），这里直接指定到单元格 */
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) td,
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) td * { font-size: 11px !important; line-height: 16px !important; }
-body .callout.callout.callout[data-callout]:is([data-callout="metax-domain"], [data-callout="metax-subdomain"]) > .callout-content :is(table):has(th:nth-child(6)) td .mx-bar { font-size: 0 !important; }
-
-/* ── 14 · [!metax-chips] 小号数值标签行（如《可见的学习》2009 六领域均值） ── */
-.callout[data-callout="metax-chips"] { --callout-color: 15, 118, 110; --callout-icon: lucide-tags; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] {
-  padding: .55rem .8rem !important; background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
-  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; border-radius: 8px !important; box-shadow: none !important;
-}
-body .callout.callout.callout[data-callout][data-callout="metax-chips"]::before, body .callout.callout.callout[data-callout][data-callout="metax-chips"]::after { display: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-title { padding: 0 !important; margin: 0 0 .4rem; background: none !important; border: 0 !important; box-shadow: none !important; min-height: 0; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-title .callout-icon { display: none; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-title .callout-title-inner { font-size: 11px !important; font-weight: 500; color: var(--ac-muted, var(--text-muted)) !important; line-height: 1.5; font-family: var(--ac-sans, var(--font-text)); }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-title .callout-title-inner::before { content: none !important; display: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-content { padding: 0 !important; background: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-content > ul { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 !important; padding: 0 !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-content > ul > li {
-  list-style: none !important; margin: 0 !important; padding: 2px 8px !important; font-size: 11px !important; line-height: 18px;
-  color: var(--ac-muted, var(--text-muted)); border: 1px solid var(--ac-hair, var(--background-modifier-border)); border-radius: 4px;
-  background: var(--ac-raised, var(--background-primary)) !important; box-shadow: none !important; min-height: 0 !important;
-}
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-content > ul > li::before, body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-content > ul > li::marker { content: none !important; display: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-chips"] > .callout-content > ul > li > strong { margin-left: 4px; font-weight: 650; color: var(--text-normal); font-variant-numeric: tabular-nums; font-size: 11px !important; background: none !important; padding: 0 !important; }
-
-
-/* ── 15 · [!metax-factors] 各子领域因素索引（Visible Learning Meta-X 条目）── */
-.callout[data-callout="metax-factors"] { --callout-color: 15, 118, 110; --callout-icon: lucide-list-tree; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] { margin: .3rem 0 0 !important; padding: .45rem .9rem !important; background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
-  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; border-radius: 8px !important; box-shadow: none !important; font-family: var(--ac-sans, var(--font-text)); }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"]::before, body .callout.callout.callout[data-callout][data-callout="metax-factors"]::after { display: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-title { padding: 0 !important; margin: 0 0 .4rem; background: none !important; border: 0 !important; box-shadow: none !important; align-items: baseline; gap: .4rem; min-height: 0; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"].is-collapsed > .callout-title { margin-bottom: 0; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-title .callout-icon { display: none; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-title .callout-fold { padding: 0 !important; opacity: .5; align-self: center; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-title .callout-title-inner { font-size: 11px !important; font-weight: 600; color: var(--text-normal) !important; line-height: 1.5; font-family: inherit; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-title .callout-title-inner::before { content: "Influences" !important; display: inline-block !important; white-space: nowrap; margin: 0 10px 0 0 !important; padding: 0 0 0 16px !important;
-  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 10px 2px no-repeat !important;
-  color: rgb(var(--callout-color)) !important; font-size: 8.5px !important; font-weight: 650 !important; letter-spacing: .12em !important; text-transform: uppercase; animation: none !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content { padding: 0 !important; background: none !important; overflow-x: auto !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) { width: 100% !important; min-width: 0 !important; max-width: 100% !important; margin: 0 !important; table-layout: fixed !important; border-collapse: collapse; background: transparent !important; font-size: 11px !important; font-variant-numeric: tabular-nums lining-nums; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) { min-width: 0 !important; max-width: none !important; padding: 3px 5px !important; line-height: 16px; vertical-align: middle; text-align: right;
-  border: 0 !important; border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important; white-space: nowrap !important; overflow: hidden; text-overflow: ellipsis; background: transparent !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) td, body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) td * { font-size: 11px !important; line-height: 16px !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) td .mx-bar { font-size: 0 !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):first-child { text-align: left; padding-left: 2px !important; white-space: normal !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):nth-child(2) { text-align: left; color: rgb(196, 140, 40); }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):nth-child(5) { text-align: left; font-weight: 600; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { text-align: left; color: rgb(var(--callout-color)); letter-spacing: .04em; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) td:is(:nth-child(3), :nth-child(4)) { color: var(--ac-muted, var(--text-muted)); }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) tbody tr:last-child td { border-bottom: 0 !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) tbody tr:hover td { background: color-mix(in srgb, rgb(var(--callout-color)) 7%, transparent) !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th { font-size: 0 !important; line-height: 0 !important; color: transparent !important; padding-top: 0 !important; padding-bottom: 4px !important; vertical-align: bottom; border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th * { font-size: 0 !important; color: transparent !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th::before { display: block; font-size: 9.5px; font-weight: 500; line-height: 12px; color: var(--ac-muted, var(--text-muted)); white-space: nowrap; text-align: inherit; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar { display: inline-block; position: relative; width: 40px; height: 5px; margin: 0 6px 0 0; vertical-align: middle; border-radius: 3px; background: color-mix(in srgb, rgb(var(--callout-color)) 14%, transparent); overflow: hidden; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > span { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 3px; background: rgb(var(--callout-color)); }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar.neg > span { background: rgb(190, 112, 34); }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1) { width: 28% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "因素"; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2) { width: 20% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "评级"; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3) { width: 9% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "元分析"; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4) { width: 10% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "研究"; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5) { width: 22% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "按研究数加权 d"; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6) { width: 11% !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "稳健性"; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b0 { width: 0px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b1 { width: 1.4px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b2 { width: 2.9px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b3 { width: 4.3px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b4 { width: 5.7px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b5 { width: 7.1px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b6 { width: 8.6px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b7 { width: 10px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b8 { width: 11.4px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b9 { width: 12.9px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b10 { width: 14.3px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b11 { width: 15.7px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b12 { width: 17.1px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b13 { width: 18.6px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b14 { width: 20px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b15 { width: 21.4px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b16 { width: 22.9px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b17 { width: 24.3px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b18 { width: 25.7px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b19 { width: 27.1px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b20 { width: 28.6px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b21 { width: 30px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b22 { width: 31.4px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b23 { width: 32.9px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b24 { width: 34.3px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b25 { width: 35.7px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b26 { width: 37.1px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b27 { width: 38.6px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b28 { width: 40px; }
-body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:is(:nth-child(2), :nth-child(5), :nth-child(6))::before { text-align: left; }

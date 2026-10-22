@@ -66,11 +66,7 @@ created: '2026-10-11'
 updated: 2026-10-22
 ---
 
-# PISA Scientific Literacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[PISA]] [[Scientific Literacy|科学素养]]（PISA Scientific Literacy）是[[OECD|经济合作与发展组织]]（[[OECD]]）在国际学生评估项目（[[PISA]]）中确立的跨国测评[[Construct|构念]]，指 15 岁学生作为[[Reflexivity|反思性]]公民参与科学相关议题并理解科学思想的能力。该构念彻底打破了传统学科测验偏重孤立概念记忆与实验室计算的局限，确立了科学教育面向全体公民的普惠价值[[Paradigm|范式]]，要求学生在真实个人、地方与全球情境中运用知识，展示解释科学现象、设计与评估实证探究以及批判性解读数据证据的综合胜任力（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026, pp. 30–31]]）。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[PISA]] [[Scientific Literacy|科学素养]]与传统课程导向科学测验的区别
 > | 维度 | PISA 科学素养（Scientific Literacy） | 传统课程导向测验（如部分期末考与 [[TIMSS]]） |
 > |---|---|---|
@@ -104,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] [[PISA]] [[Scientific Literacy|科学素养]]测评[[Construct|构念]]的三大支柱
 > - **考查胜任力（Competencies）**
 >   包含科学地解释现象、评估与设计科学探究、科学地解释数据与证据。2025 年进一步融入对算法、模型不确定性与虚假信息的批判性审查。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
@@ -115,8 +107,6 @@ updated: 2026-10-22
 >   跨越个人健康、地方资源管理与全球环境危机情境；同时通过[[Questionnaire|问卷]]测量学生对科学事业的价值认同、环保责任感与探究[[Self-Efficacy|自我效能感]]。
 
 ---
-
-## 测评框架历时演变
 
 > [!ref-table] 表：[[PISA]] [[Scientific Literacy|科学素养]]（Scientific Literacy）测评框架演化矩阵
 > | 框架版本 / 主测年份 | 核心胜任力维度（Competencies） | 考查情境与认知载体（Contexts） | 知识分类（Knowledge Types） | [[Epistemology\|认识论]]重点与时代转向 |
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique-method] 真实探究与纸笔/机考情境拟合的方法论差距
 > 科学教育学者批评指出，[[PISA]] 所谓的探究胜任力在很大程度上被还原为封闭式[[Multiple-Choice Questions|选择题]]与标准化的计算机虚拟控制[[Variable|变量]]操作。这种测评形式更考验学生的文本阅读能力与屏幕交互熟练度，无法完整测量[[Authentic Science Practices|真实科学实践]]中涉及的动手实验直觉、意外误差应对与长周期团队合作（Royal Society, 2026a）。
 
@@ -170,8 +158,6 @@ updated: 2026-10-22
 > 情境化试题极度依赖复杂的背景叙事（如特定地理环境、先进科技设备、西方生活方式），容易对非西方国家或[[Socioeconomic Status|社会经济地位]]偏弱的学生构成隐性文化壁垒，产生测量功能差异（[[Differential Item Functioning|DIF]]），从而削弱了跨国[[Scientific Literacy|科学素养]]排位的纯粹可比性。
 
 ---
-
-## 应用案例
 
 > [!evidence-grid-a] 国际典型实践案例
 > - **爱沙尼亚** 爱沙尼亚基础科学教育模式在 [[PISA]] [[Scientific Literacy|科学素养]]测试中常年位居全欧第一。其依托国家宏观宽大纲为教师提供高度专业赋权，结合早期数字化探究生态，在保障顶尖科学素养的同时保持了极低的阶层解释率，成为兼顾卓越与公平的标杆。

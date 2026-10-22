@@ -69,11 +69,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Politicity of Education
-
 ---
-
-## 概念与定义
 
 > [!def] 核心定义
 > 教育的政治性（Politicity of Education，源自葡萄牙语 Politicidade da Educação）是由巴西批判教育家[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）系统阐发、[[Critical Pedagogy|批判教育学]]派广泛继承的[[Ontology|本体论]]命题。它坚决否定将教育研究、课程编制和政策制定视为“客观中立”或“纯粹技术性”的技术官僚主义幻觉，明确指出教育在[[Epistemology|认识论]]、分析和伦理三个维度上不可剥离地内嵌于权力和阶级利益关系之中；学校教育与公共政策从来不是[[Value Neutrality|价值中立]]的真空，而是争夺商品服务分配权、国家认同与政治经济路线主导权的争鸣[[Champ|场域]]（Contested Arenas）。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教育政治性视阈与技术主义视阈对比
 > | 维度 | 教育的政治性视阈（Politicity Approach） | 技术官僚/技术主义视阈（Technicist Approach） |
 > |---|---|---|
@@ -105,8 +99,6 @@ updated: 2026-10-22
 > | **国家角色定位** | 阶级支配同盟或[[Conditioned State Theory\|受限国家]]，政策充满张力与妥协 | 超越利益冲突的中立仲裁者与公共福利提供者 |
 
 ---
-
-## 核心维度与机制
 
 > [!feature] 教育政治性的三重内涵
 > - **[[Epistemology|认识论]]维度（Epistemological）** 知识的生产与官方课程筛选本身就是权力角逐的结果；何种知识被裁定为合法的[[Official Knowledge|官方知识]]，直接反映了统治阶级的认识框架与[[Hegemony|文化霸权]]。
@@ -159,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -178,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] [[Epistemology|认识论]]批判自省 vs 党派政治意识形态灌输指责
@@ -192,8 +180,6 @@ updated: 2026-10-22
 > 教育的政治性并不意味着抹杀教育学术研究与实证数据的科学严谨性，亦非主张用政治口号取代严谨的经验证据分析；它所划定的是对任何自称“绝对超越意识形态与阶级利益”的技术主义方案保持批判警惕的方法论边界。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -60,10 +60,6 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Teaching Schools
-
-## 项目背景与立项契机
-
 > [!claim] 项目定位
 > 教学学校（Teaching Schools）是英格兰被指定承担系统改进职责的优秀中小学校，在由其牵头组成的教学学校联盟（Teaching School Alliances，[[Thinking Skills Assessment\|TSA]]）内统筹职前[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）、在职持续专业发展（Continuing Professional Development，CPD）、校际支持以及研究与发展（R&D）。这一安排将优秀学校的影响力制度化，是[[Self-Improving School System\|自我改进学校系统]]在专业发展与[[Research Utilization\|证据使用]]方面的主要组织载体；其全国性代表机构教学学校理事会（Teaching Schools Council，TSC）被英国教育部赋予核心政策咨询地位（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对前一时期由中央行政指令统一推行改进方案所造成的僵化问题，改由系统内部的优秀学校向外扩散有效实践，并将教师职前培训重心从大学高等教育机构转向中小学一线（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 119–120]]）。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 项目假定：如果由优秀学校牵头组建联盟，把专业发展、校际支持与研究发展三类职能集中到同一组织节点上，有效实践就能在系统内横向扩散，学校改进便不再依赖中央指令，而由联盟内部的经验流动与[[Research Utilization\|证据使用]]共同驱动（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）。
@@ -95,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 推进历程
 > - **2010 — 制度设立** 联合政府白皮书[[The Importance of Teaching\|《教学的重要性》]]确立教学学校制度，作为[[Self-Improving School System\|自我改进学校系统]]与校本化培训的基石。
 > - **2011 — 首批指定** 第一批 100 所教学学校正式获批并启动联盟运作。
@@ -108,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **网络覆盖规模可观与校本培训重心转移** 至 2014 年 10 月已有至少 7,144 所学校建立联系（占 32%），成功将大量 [[Initial Teacher Training\|ITT]] 配额从大学转移至学校主导的 School Direct 和 SCITT 路径（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **研究与发展（R&D）职能实施不均与边缘化** 该职能在部分联盟被视作基础性工作，但在多数联盟中因面临极度繁重的考核指标与缺乏专属经费支持，在实践中往往被弱化为附带工作（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 121–122]]）。
 > - **[[Policy Network\|政策网络]]中的政治吸纳与落地偏好** [[Elite Interview\|精英访谈]]揭示，教学[[School Leadership\|学校领导]]者作为“系统领袖”（System Leaders）被深度吸纳进教育部咨询网络，其在参与政策审查与圆桌讨论时，首要考量往往并非学术严谨性，而是方案能否在部长手中顺利“落地”（Landing）（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 93–94]]）。
@@ -121,8 +111,6 @@ updated: 2026-10-22
 > - **87** （所） 2021 年全国重组后设立的区域教学学校枢纽（TSH）总数。
 
 ---
-
-## 争议与评论
 
 > [!debates] 实践争议与批判视角
 >

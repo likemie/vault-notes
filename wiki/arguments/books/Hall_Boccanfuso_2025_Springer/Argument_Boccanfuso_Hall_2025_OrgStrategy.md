@@ -81,7 +81,6 @@ citation_aliases:
   - "Boccanfuso & Hall, 2025b"
   - "Boccanfuso & Hall (2025b)"
 ---
-# Argument_Boccanfuso_Hall_2025_OrgStrategy
 
 > [!question]
 > 假设你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration\|产学合作]]研究大量讨论了[[Knowledge Transfer\|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在实践中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？
@@ -98,9 +97,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 - 类型：实证研究，兼有框架建构
 - 方法：[[Mixed Methods Research|混合方法]]——三步设计，每一步都为下一步提供基础
 - **第一步（框架建构）** 基于 Boccanfuso & Hall 四十余年[[University-Industry Collaboration|产学合作]]领导经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），咨询八位资深产学参与官员，参考既有文献，反复修订形成框架；再通过四所美国大学、两所非美国大学和两家企业的反馈进行完善(pp.55–56)
@@ -315,9 +312,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 - [[University-Industry Collaboration|产学参与]]是一个涵盖五个使命领域（教育、研究、临床、辅助/行政、经济/社区发展）的多维度组织活动，远超传统[[Technology Transfer|技术转移]]文献关注的范围(pp.57–59)
 - 大学存在五种常见的中心办公室组织模式（科研办公室、经济发展/政府关系、企业/基金会关系、伙伴关系、全面模式），但**没有任何一个模式是真正全面的**——中心办公室的角色是"导航者"或"[[Concierge Service|礼宾]]"而非"执行者"(pp.60–63)
 - 产学双方都高度组织碎片化：大学的产业关系官员分布在学院、科研办公室、发展部门等多处；企业的大学关系官员职责同样分散。这种碎片化使得"对接"本身变成了一个高成本活动(pp.64–67)
@@ -333,9 +328,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “相较于商业化，‘参与（Engagement）’在组织上的嵌入程度较低，且更多地由个体自主驱动。”
 > ("Engagement is less organizationally embedded than commercialization, and is more autonomously driven by individuals.")(Perkmann et al., 2013,转引自 p.53)
 

@@ -46,11 +46,7 @@ created: '2026-09-17'
 updated: 2026-10-16
 ---
 
-# Tiered Evidence Grants
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 分层证据资助机制（Tiered Evidence Grants）是指政府公共部门或大型慈善基金会依据教育干预方案既有实证证据的严谨度与成熟度，梯度匹配财政资助体量、实施范围与方法学评估要求的政策工具。其核心架构将资助划分为早期开发（Development）、中期验证（Validation）与规模化扩展（Scale-up / Expansion）三个阶梯，要求项目在晋级更高资助梯次时必须提供更高等级的因果实证支持。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -66,8 +62,6 @@ updated: 2026-10-16
 > *i3 was established in 2009 to fund the development, evaluation, and scale-up of proven programs at all levels of education, pre-K to 12, using a 'tiered funding' strategy.*
 
 ---
-
-## 核心要素
 
 > [!feature] 分层证据资助的三大梯次结构
 > - **早期开发阶梯（Development / Early-phase）** 资助具有扎实理论基础和合理[[Logic Model\|逻辑模型]]的新颖创意；资助额度较小（约 300–400 万美元），允许开展[[Formative Assessment\|形成性评估]]与小样本先导试验。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -100,8 +94,6 @@ updated: 2026-10-16
 > **公共投资风控与市场激励** 分层证据资助机制成功解决了教育创新中的双重困境：一方面，它避免了将数千万美元巨资盲目砸向未经检验的理念狂热，通过小步快跑的阶梯晋级机制将财政风险降至最低；另一方面，由于最高阶梯的巨额资助和后续政府常态化采购只向"具有强证据的方案"开放，它为商业出版商、大学研发团队和软件开发者提供了极其强大的市场激励，驱动社会资本主动投资于严谨的对照试验和第三方评估，从而构筑起类似现代医学与农业的创新累积良性循环。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24, 29)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 分层证据资助代表性计划运行规模与产出对比
 > | 政策资助计划 | 实施周期 | 总资助体量 | 资助项目总数 | 核心梯次分布 | 关键质控与产出 |

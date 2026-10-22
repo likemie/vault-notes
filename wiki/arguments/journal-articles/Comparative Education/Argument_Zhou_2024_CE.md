@@ -66,7 +66,6 @@ citation_aliases:
   - "Zhou & Westberg, 2024"
   - "Zhou & Westberg (2024)"
 ---
-# Argument_Zhou_2024_CE
 
 ---
 
@@ -88,8 +87,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 核心理论工具
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -103,8 +100,6 @@ citation_aliases:
 > 引入 3T 框架后可以清晰看到：中国改革者在**转译（Translation）** 阶段将民主简化为平民/普及，在**转化（Transformation）** 阶段将实验方法重构为国家建设工具，这一演变链条完美展现了外来学术思想在跨国[[Knowledge Transfer\|知识转移]]中受制于接收国政治环境的客观规律（pp.622–623）。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 史料来源与研究设计（p.612）
 > | 模块 | 材料与处理方式 |
@@ -124,8 +119,6 @@ citation_aliases:
 > 论文使用的杜威讲演材料高度依赖中文口译与笔录整理（如胡适、蒋梦麟等人的现场翻译与后刊文本）。杜威原话在现场即经过了中国知识分子的第一层转译（Translation）。论文虽将这些记录视为杜威原意的代表，但客观上这些文本本身已包含了第一道本土化的解读与调整。
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证脉络图
 > ```mermaid
@@ -272,8 +265,6 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心研究发现
 > 1. **民主与渐进的悖论分离** [[John Dewey\|杜威]]原典中统一的民主目标与渐进方法，在缺乏民主的民国中国演变为二选一的冲突：追求民主需要激进变革，坚持渐进则需接受民主遥遥无期。
 > 2. **杜威思想的结构性碎片化** 杜威在华并非被整体接受，而是被拆解为民主、儿童中心、渐进实验、[[Scientific Attitude\|科学态度]]等碎片，分别服务于激进派、温和派与民族主义者。
@@ -288,8 +279,6 @@ citation_aliases:
 > - **2** （核心刊物） 1919–1925年《新教育》（[[Jiang Menglin\|蒋梦麟]]主编）与1925–1928年《新教育评论》（[[Tao Xingzhi\|陶行知]]主编）构成的代际与范式更替（pp.619–620）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 民主理想与渐进改革在民国语境中的悖论性分离
 > 虽然[[Democratic Education\|民主教育]]的理想与渐进式改革在[[John Dewey\|杜威]]的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。（p.611）
@@ -307,8 +296,6 @@ citation_aliases:
 > *Dewey could be used to support either radical or moderate positions, and both a new education stressing democratic education and one emphasising the scientific attitude. Dewey could not only be part of a framework promoting foreign ideals but also part of one promoting national development.*
 
 ---
-
-## 自述局限
 
 > [!warning] 作者自述的研究局限
 > - **碎片化概念隐含的未检前提** 碎片化（fragmentation）在逻辑上预设了碎片前存在一个完整整体。但论文未充分论证：在一个完全缺乏民主前提的社会中，完整接受[[John Dewey\|杜威]]是否在客观上具备任何可能性？如果整体概念本身即是不可能的空想，那么碎片化究竟是接受者的缺陷，还是跨国[[Knowledge Transfer\|知识转移]]的标准常态？（p.622）

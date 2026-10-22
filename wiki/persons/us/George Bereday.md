@@ -76,11 +76,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# George Bereday
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍波兰裔比较教育学家、法学家，哥伦比亚大学[[Normal School\|师范学院]]（Teachers College, Columbia University）比较教育学讲座教授，[[Comparative and International Education Society\|比较与国际教育学会]]（CIES）前身美国比较教育学会早期会长（1961–1962），学科旗舰期刊《比较教育评论》（*Comparative Education Review*, CER）创刊主编（1957–1968）。
@@ -107,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950年代 — [[Disciplinary Institutionalization|学科建制化]]与方法论自觉萌发** 回应学科初创期缺乏独立专业期刊与共同学术规范的危机，依托哥伦比亚大学和比较教育学会构建学术共同体交流基础设施；率先意识到学科正迈向反思自身操作工具的成熟期，呼吁将方法论探讨置于首要地位。
 >   - **代表著作** *Some Discussion of Methods in Comparative Education* (1957); *Comparative Education at Columbia University* (1960); CER 创刊发刊词与系列社论。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 7)]]; [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 65)]]
@@ -123,9 +117,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育学是一门立足于“教育的地理学视角”（geographical perspective of education）、融合[[Geisteswissenschaften|人文科学]]与社会科学工具的[[Comparative Education as a Cross-Sectional Area|交叉学科]]。学科不应再停留在直觉性的游记白描或主观价值偏好上，而必须遵循严密的经验归纳程序。区域研究（区域事实的系统描述与历史人文解释）是比较研究必不可少的基础，但真正的跨国比较研究必须通过横向标准并列，在同一[[Analytic Framework\|分析框架]]下开展综合分析（total analysis），从而揭示“所有教育体制据以构建的内在普遍力量”，最终推导出具有[[Scientific Explanation\|科学解释]]力的跨国普遍法则或结构类型学。
 
 > [!proc] 乔治·贝雷迪比较研究四步归纳程序
@@ -151,9 +143,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法论路径** 提出的描述-解释-并列-比较四步归纳法成为 20 世纪下半叶全球比较教育研究与研究生教学最通行的规范框架，搭建了古典历史主义向经验实证[[Paradigm\|范式]]过渡的支柱。
 > - **建制化与期刊路径** 创办并长期主持《比较教育评论》（CER），确立了严格的匿名同行评审制度；1964 年著作中对全球学者、院系与课程的绘制，为新兴学科奠定了可辨识的职业地图。
 > - **跨洲学术网络** 与英国的 Lauwerys 跨大西洋联合主持《世界教育年鉴》，联动拉美、东亚与欧洲学者，开创战后多元思想对话机制。
@@ -164,8 +154,6 @@ updated: 2026-10-22
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 马修系统定位贝雷迪作为历史学派与[[Scientific Paradigm\|科学范式]]之间关键桥梁的方法论贡献，提炼其四步法对内在普遍力量与跨国法则的探寻。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 考恩论贝雷迪对战后学科职业合法性的奠基与深层历史评传的缺位
 > 贝雷迪在其 1964 年经典著作中对各国学者及其大学与院系的出色记载，证实了比较教育学真实存在且拥有自己的历史。贝雷迪与劳韦里斯不仅跨越文化和大洲联结了思想与行动者，而且凭借其对自身所在机构、比较教育学会以及几代研究生的深远影响，成为学科发展中不可绕过的里程碑人物。然而，学界对贝雷迪的认知长期停留在传奇演讲魅力与表面声望上，至今缺少一部由严肃史学家撰写的深层学术评传。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7, 9)]]
@@ -194,8 +182,6 @@ updated: 2026-10-22
 > - **机构与组织** [[Comparative and International Education Society\|CIES]]（早期会长、创办《比较教育评论》并设立乔治·贝雷迪奖）、哥伦比亚大学师范学院。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

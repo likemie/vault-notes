@@ -50,11 +50,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Foundation North Māori and Pasifika Education Initiative
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > [[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（Māori and Pasifika Education Initiative, MPEI）是由新西兰最大慈善资助机构之一北部基金会（[[Foundation North]]，前 ASB 社区信托）于 2009 年正式启动的总额达 2,000 万新西兰元、为期 5 年的高介入度[[Venture Philanthropy|风险慈善]]（Venture Philanthropy）与[[Social Impact Investing|社会影响力投资]]战略计划。该项目旨在打破传统分散小额捐赠模式，通过引入商业管理学与因果量规，实现弱势族群教育成效的系统性飞跃。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xii–xiii, 61–64)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对新西兰长期存在的原住民与少数族裔[[Academic Achievement|学业成就]]鸿沟、早期辍学率高企等系统性不平等问题，试图通过资本集中投放与专业化管理介入探索解决之道。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 该倡议预设了一套典型的风险投资逻辑假说：通过将大额长期资本（2,000 万新西兰元）集中投放于少数精选项目，深度派驻外部管理咨询团队开展能力建设，并强制建立基于严密因果逻辑的“[[Theory of Change|变革理论]]”（Theory of Change）量规与阶梯式里程碑考核，即可有效破解弱势教育瓶颈并实现高额的社会效益回报。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64)]]
@@ -87,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2006–2008 — 战略酝酿与模式转型期** 北部基金会高层确立从传统被动救济向主动战略投资转型，引入华尔街与伦敦金融城的风险投资治理规则，研制 2,000 万新西兰元专项教育基金投放纲要。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xii)]]
 > - **2009–2010 — 第一阶段自下而上招募与试点启动** 面向奥克兰与北地发布招标公告，收到 82 份社区提案；经外部专家与信托委员会多轮尽职调查与严苛答辩，最终选定 7 个先导项目启动第一轮资助。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
@@ -96,8 +88,6 @@ updated: 2026-10-22
 > - **2014–2015 — 终期收官、组织衍生与治理反思** 2014 年设立新西兰社会影响力中心；2015 年评选出最后一个面向毛利年轻女性的领导力发展资助项目；学术界与审计机构展开独立复盘，揭示出外部强加量规导致的文化失调与公益资本沉淀问题。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xiii, 76–80)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与出资方（北部基金会）** 掌控 2,000 万新西兰元专款分配权与考核最终裁决权，实行董事会自上而下的里程碑审查。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 61)]]
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **双向文化摩擦与信息过滤** 一线社区工作者因疲于应付复杂的商业表格，往往通过选择性填报或策略性顺从抵御外部微观管理。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–80)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入规模** 2,000 万新西兰元专款预算；5 年期合同周期；外部管理咨询与第三方评估服务采购开销。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
@@ -131,8 +119,6 @@ updated: 2026-10-22
 > - **82** （社区提案） 第一阶段公开招募所吸引的基层提案总数，最终仅筛选资助 7 个项目。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

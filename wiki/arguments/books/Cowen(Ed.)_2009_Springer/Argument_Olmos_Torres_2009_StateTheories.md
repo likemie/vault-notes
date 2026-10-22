@@ -123,7 +123,6 @@ publication_place: "Dordrecht"
 publisher: "Springer"
 issuing_organization: ""
 ---
-# Argument_Olmos_Torres_2009_StateTheories
 
 ---
 
@@ -140,8 +139,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -155,8 +152,6 @@ issuing_organization: ""
 > 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受限国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融规训 ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -173,8 +168,6 @@ issuing_organization: ""
 > | **跨国统计与政策材料** | 世界银行教育部门政策文件、结构调整贷款协议文本、[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）/联合国拉丁美洲和加勒比经济委员会（United Nations Economic Commission for Latin America and the Caribbean, CEPAL）/联合国开发计划署（United Nations Development Programme, PNUD）历史联合统计报告。（pp. 81, 85–86） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -396,8 +389,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **教育扩张受制于资本积累与殖民遗产** 战后全球教育扩张不是世界文化均质趋同的产物，而是受制于接入世界体系的历史阶段与前殖民阶级遗产，外围国家普遍演化出双轨分选教育格局。（pp. 74–76）
 > 2. **教育政策天然具备固有政治性** 任何教育诊断均暗含特定的国家理论假定，学校教育是国家维系资本积累与政治合法性妥协的争鸣[[Champ|场域]]，技术中立修辞掩盖了阶级支配本质。（pp. 73–74, 77–78）
@@ -405,8 +396,6 @@ issuing_organization: ""
 > 4. **[[Financial-Intellectual Complex|金融-智识复合体]]通过市场化剥夺公民权** [[World Bank|世界银行]]操纵跨国智识与贷款复合体，强推私有化与分权化削减公共开支，唯有联合社会各阶层重构批判[[Praxis|实践哲学]]方能开辟解放路径。（pp. 80–81, 84–85）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Joel Samoff|萨莫夫]]论[[World Bank|世界银行]]的智识霸权
 > 世界银行是追求知识与专门技能跨国化的金融与智识复合体中的核心参与者，它利用受雇专家共同体，使研究与教育融资形成强力合流。世界银行在全球教育权力与决策网络中扮演着枢纽角色，通过长周期[[Categorical Funding|委托研究]]、巨额预算资助以及捍卫技术官僚工具理性，深刻形塑着发展中国家的教育政策与国际学术[[Discourse|话语]]。（pp. 80–81）
@@ -424,8 +413,6 @@ issuing_organization: ""
 > *Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and [[Praxis]], will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci Said, a "Philosophy of Praxis."*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述理论局限与经验边界
 > - **微观教学过程经验研究匮乏** 作者明确承认，关于国家国际化与全球化对微观层面的具体教育政策、教科书内容以及实际课堂课程编制的深层渗透，学界迄今仍极度缺乏系统的经验与理论实证研究。（p. 80）

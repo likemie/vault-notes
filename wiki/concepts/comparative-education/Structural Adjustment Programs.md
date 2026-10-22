@@ -75,11 +75,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Structural Adjustment Programs
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **结构调整方案（Structural Adjustment Programs, SAPs）** 是指[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）自 20 世纪 70 年代末及 80 年代债务危机以来，在[[Washington Consensus|华盛顿共识]]（Washington Consensus）指引下，向面临严重国际收支失衡与主权债务危机的全球南方国家提供贷款时，所强制捆绑的一整套以紧缩财政、市场[[Liberalization|自由化]]、去监管化和国家资产私有化为核心的宏观经济政策处方。在教育领域，结构调整方案将教育从普遍公民权利降格为私人消费品，通过强制要求受援国缩减教育公共预算、推行使用者付费（学杂费）、鼓励营利性私立学校竞争以及实施地方分权化甩脱国家包袱，深刻重构了外围国家的公共教育供给格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
@@ -100,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 宏观政策[[Paradigm|范式]]与教育治理逻辑辨析
 > | 维度 | 结构调整方案（SAPs） | 凯恩斯福利国家模式 | 发展主义[[Import Substitution Industrialisation\|进口替代]]模式（ISI） |
 > |------|---------------------|-------------------|--------------------------|
@@ -113,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **贷款交叉附加条件（Cross-[[Policy Conditionalities|Conditionalities]]）** 国际金融机构将教育领域的紧缩指标与宏观债务重组贷款直接挂钩，外围国家若不削减教育赤字和推行市场化，就无法获得展期信贷与外汇救助。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 > - **向学生收取学杂费（使用者付费）** 取消原有的公费免费政策，要求各级教育（特别是中等和高等教育）学生及家庭按“谁受益谁付费”原则自担成本，直接造成贫困劳工家庭子女学业中断与阶层分化。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
 > - **推行[[Educational Privatisation|教育私有化]]与教育券制度** 大力扶持营利性与非营利性私立学校，压缩公立学校编制与办学经费，通过发行教育券刺激校际生源竞争，加速教育分轨分选。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
@@ -181,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -200,8 +190,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 新自由主义市场效率论 vs 批判政治经济学主权侵蚀论
 > - **国际金融机构与新古典经济学立场（红方）** 坚信结构调整能够纠正发展中国家过去因国家过度补贴导致的财政赤字与低效垄断；声称通过使用者付费能够促使家长行使“消费者主权”，刺激学校提高办学效益。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
 > - **批判教育社会学与依附学派立场（蓝方）** 批判结构调整完全漠视外围国家的历史情境与阶级不平等现实，其本质是将教育推向商业化和营利化，使公立教育系统萎缩蜕变为服务底层的劣质收容所，摧毁了公民社会的民主公共基石。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 84–85)]]
@@ -214,8 +202,6 @@ updated: 2026-10-22
 > 结构调整方案主要发生在遭受重度外债危机且极度依赖国际多边信贷的第三世界外围政权；对于拥有强自主财政税收体系与外汇储备的主权核心大国，外部国际金融机构无法直接推行刚性结构调整附加条件。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

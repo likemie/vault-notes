@@ -42,8 +42,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# EU Key Competences for Lifelong Learning
-
 > [!info] 背景
 > 欧洲学校系统自 2000 年代初逐步转向能力本位模式。2006 年[[EU|欧盟]]已发布[[Lifelong Learning\|终身学习]][[21st Century Skills and Competencies Discourse\|关键能力]]建议，2018 年 5 月 22 日通过修订版 “Council Recommendation on Key Competences for Lifelong Learning”，为政策制定者和学校专业人员提供能力本位教学模式的共同框架([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.39]])。
 
@@ -59,9 +57,7 @@ updated: 2026-10-22
 > [!example] 实施情况
 > 该框架推动课程从知识和技能传授模型转向多功能、跨领域、多维能力发展模型。这要求重新思考课程和教学大纲、教学实践以及评价策略，尤其要评估学生能否把课堂学习应用到日常生活中([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.40-41]])。
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > Pellegrini & Vivanet 将该框架放入 [[Evidence-Based Reform\|证据本位改革]] 的欧洲挑战中：基础读写知识和技能已有较成熟的评估与项目证据，但多维能力更难设计有效干预和评价工具。能力评估必须满足公平、可靠、有效、以学习者为中心等原则([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.40-41]])。
 
 > [!info] 核心数据

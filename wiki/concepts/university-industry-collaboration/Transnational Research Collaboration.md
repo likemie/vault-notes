@@ -50,8 +50,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Transnational Research Collaboration in Higher Education
-
 > [!info] 定义
 > 跨国研究合作指来自不同国家的研究者、机构和资助方跨越国界共同开展研究活动的实践。[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 的分析焦点不在于合作的运作形式，而在于揭示驱动跨国研究合作的**多重理性如何在当代被融合进同一套[[Discourse|话语]]**——个体研究者的学术利益、机构的声誉与基础设施需求、国家的贸易与外交目标被整合为表面统一的合作议程([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
 

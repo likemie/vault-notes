@@ -73,11 +73,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Entrepreneurial University
-
 ---
-
-## 定义与核心内涵
 
 > [!def] 核心定义
 > **创业型大学（Entrepreneurial University）** 是指大学从传统与社会相隔离的象牙塔（Ivory Tower）模式转向主动介入区域与国家经济社会发展的学术组织变革[[Paradigm|范式]]（Etzkowitz et al., 2000）。其核心特征表现为大学通过适应性文化重塑、设立专业化中介组织载体（如[[Technology Transfer Office|技术转移办公室]]、创新孵化园区），以及建立兼容非传统产业资助与成果转化的激励机制，主动寻求与产业界、政府及公民社会的深度协同与价值共创。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
@@ -100,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析与范式演进
-
 > [!contrast-table] 创业型大学演进形态与相关组织模式对照
 > | 组织模式 | 核心使命与价值导向 | 组织架构与中介工具 | 知识产出与治理机制 |
 > |---|---|---|---|
@@ -111,8 +105,6 @@ updated: 2026-10-22
 > | **企业化大学（[[Corporate University]]）** | 专门服务于母公司员工技能内训与企业战略文化宣贯 | 企业内部人力资源与培训部主导，无独立学术法人地位 | 内部认证资质与员工实操技能包 |
 
 ---
-
-## 核心要素与支撑架构
 
 > [!feature] 创业型大学的四大微观组织要素
 > - **文化适应（Cultural Adaptation）** 在院系内部形成尊重并鼓励应用研究与社会参与的探究心智，破除将外部资助视为损害学术纯洁性的观念壁垒。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
@@ -192,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -205,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 演进历程与治理转型
-
 > [!dev-timeline] 创业型大学[[Paradigm|范式]]的历史演进
 > - **第一阶段（1980 年代）：[[Bayh-Dole Act of 1980|拜杜法案]]与[[Technology Transfer|技术转移]]觉醒** 美国《拜杜法案》（Bayh-Dole Act）允许大学拥有联邦资助研发的知识产权，促使欧美大学普遍设立[[Technology Transfer Office|技术转移办公室]]（TTO），开启了专利申请与技术许可的第一波浪潮。
 > - **第二阶段（1980s–1990s）：欧洲大陆对极端自由市场企业化大学的扬弃** 面对财政紧缩与高校扩招，欧洲社会出现呼吁大学全面走向自由市场竞争、自主收学费与资本市场融资的“企业家型大学”提案，但被荷兰等国政府与法团协商网络坚决否决，转而开创了维持公共财政保障并辅以“间接[[Steering at a Distance|远距离操纵]]”的欧陆折衷道路。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147–148)]]
@@ -214,8 +202,6 @@ updated: 2026-10-22
 > - **第四阶段（2015 年至今）：使命导向与公民型大学重塑** 伴随[[Mission-Oriented Innovation Policy|使命导向创新政策]]与联合国 [[UN Sustainable Development Goals|SDGs]] 推进，创业型大学转向应对社会挑战与创造[[Public Value|公共价值]]，注重通过活体实验室与开放科学服务包容性社会转型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
 
 ---
-
-## 争议焦点与局限反思
 
 > [!debates] 核心学术争议与张力
 >
@@ -238,8 +224,6 @@ updated: 2026-10-22
 > > - **公共价值反思派** 批评主流排名未能建立衡量大学在社区治理、社会公正与生态恢复等广义创业贡献上的评价工具，掩盖了深层公共福祉。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 创业型大学相关实证指标与制度案例证据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

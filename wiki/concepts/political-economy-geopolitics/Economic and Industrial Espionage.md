@@ -41,10 +41,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Economic and Industrial Espionage
-
-## 定义
-
 > [!def] 核心定义
 > 经济间谍（economic espionage）和工业间谍（industrial espionage）在实务中常混用，但一些学者作出了区分：工业间谍指企业为商业目的针对竞争对手进行的活动；经济间谍指由外国政府主导或代理、出于非纯粹商业目的在经济领域进行的间谍活动（[[Argument_Glitz_2020_AmEconRev\|Glitz & Meyersson, 2020, p.1055 fn.1]]）。在美国法律中，《经济间谍法》（Economic Espionage Act of 1996）将经济间谍定义为"以意图或明知该行为将使任何外国政府、外国机构或外国代理人受益的方式，盗窃或侵占商业秘密"。
 
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **间谍活动确实有效**[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] 对东德的大规模研究有力证明，国家支持的经济间谍活动有效缩小了东德与西德之间的工业技术差距，带来可观的经济回报([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.77]])。该[[Research Utilization\|研究利用]]斯塔西 SIRA 数据库 189,725 条情报记录和两德 16 个行业的 [[Total Factor Productivity\|TFP]] 数据，估计 1 个标准差额外情报流入使两德 log TFP 差距缩小 7.3 个百分点；无间谍情景下 1989 年东德 TFP 比率将低 13.3%；年度收益约 101 亿欧元，运营成本仅约 1,100 万欧元。效应主要由少数高质量情报驱动，且在接近技术前沿的行业最强——表明[[Absorptive Capacity\|吸收能力]]是间谍情报发挥作用的前提条件。[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020, pp.1056, 1078–1079, 1094–1099)]]
 
 ---
-
-## 实证发现
 
 > [!info] 核心数据
 > - 欧洲学术专利中 60%–81% 为工业公司所有；美国大学拥有 68.7% 的学术专利（Lissoni, 2012; 引自 Partaken, 2022, p.71）

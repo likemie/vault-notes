@@ -41,13 +41,9 @@ aliases:
   - 赫希曼非均衡增长理论
 ---
 
-# Unbalanced Growth Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 阐释后发国家或面临转型困境的经济体在资本、技术与行政决策能力严重受限的约束下，如何通过战略性重点突破启动持续的经济转型与技术积累。
 > - **理论问题** 驳斥早期发展经济学假设国家拥有充沛储蓄与全能规划能力以推行所有部门齐头并进的“均衡增长”（Balanced Growth）幻想，揭示资源受限环境下通过“制造失衡”诱发经济活力的真实动力学。
 > - **理论类型** 经济发展动力学与战略性产业政策理论。
@@ -58,8 +54,6 @@ aliases:
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 经济学家阿伯特·赫希曼（Albert Hirschman）于 1958 年在耶鲁大学出版社出版里程碑著作《经济发展战略》（*The Strategy of Economic Development*）。
 > - **争论焦点** 针对拉格纳·纳克斯（Ragnar Nurkse, 1953）与保罗·罗森斯坦-罗丹（Paul Rosenstein-Rodan, 1943）主张各工业部门按消费者需求比例同时投资的“均衡增长论”展开直接论战。
@@ -67,8 +61,6 @@ aliases:
 > - **使命政策跨界应用** [[Rainer Kattel|莱纳·卡特尔]]与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]指出，现代政府在应对复杂[[Grand Challenges|重大挑战]]时深陷[[Complexity Paradox|复杂性悖论]]（各部门条块分割）；非均衡增长理论证明，唯有通过设立具有统摄性的国家重大使命制造非均衡牵引，才能打破这种低水平协调僵局。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791)]]
 
 ---
-
-## 核心构件与作用机制
 
 > [!contrast-table] 均衡增长论与赫希曼非均衡增长论深度对比
 >
@@ -82,8 +74,6 @@ aliases:
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜非均衡张力是激发组织学习与打破行政惯性的倒逼动力
 > **解释** 均衡状态往往维系了既有的利益格局与低效例规；而在特定战略前沿制造非均衡短缺或超前需求，能够创造强烈的经济与政治信号，倒逼官僚科层与市场主体为了解决眼前瓶颈而必须开展跨部门协同与技术探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 
@@ -94,8 +84,6 @@ aliases:
 > **解释** 21 世纪的使命导向政策（如碳中和、深空探测、数字基础设施重构）并非重回传统计划经济，而是非均衡增长战略的高级形态——通过人为确立超越部门常规的战略使命，打破现代政策的[[Complexity Paradox|复杂性悖论]]，引领全社会[[Technological Trajectories|技术轨道]]朝向绿色包容转型。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791, 796–798)]]
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 评估国家重大产业或科技政策是陷入了“撒胡椒面式的低效均衡”，还是成功构建了“以使命为牵引的非均衡突破”。

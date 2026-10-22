@@ -50,11 +50,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Profession-Sensitive Conceptualisations of Research Use
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 专业敏感型[[Research Utilization\|研究使用]]（Profession-Sensitive Conceptualisations of Research Use）指一种立足教师专业实践特征与复杂知识库的分析[[Paradigm\|范式]]。该概念由 [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]作为第四代研究使用理论的核心提出。它反对将教师预设为外部科研成果的被动执行者或能力短缺客体，主张将研究使用理解为教师在具体的课堂与育人情境中，依托自身复合多元的知识经验，在专业伦理与价值规范的指引下，对外部科研证据、具体学情与教学内容进行主动权衡、取舍与动态整合（[[Knowledge Integration]]）的专业实践过程。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 7–8)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 专业敏感型框架与传统模型辨析
 > | 维度 | 专业敏感型[[Research Utilization\|研究使用]] | [[Technical Rationality\|技术理性]]照搬模型 | [[Empiricism\|经验主义]]手艺模型 |
 > |------|------------------|----------------|----------------|
@@ -88,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多源知识动态整合（[[Knowledge Integration]]）** 承认教师的知识结构是复合多元的（Shulman, 1987; Grimen, 2008）；科研证据必须与学科知识、实践经验、学生实际情况相互补充与权衡。（p. 8）
 > - **专业伦理与价值信念调节（Professional Norms and Values）** 强调教育工作具有强烈的育人属性（Eriksen, 2022）；教师是否采纳某项研究，深受其对学生的长远福祉、教育公平和关怀信念的直接影响。
 > - **尊重教师的专业能动性（[[Teacher Professional Agency]]）** 把教师看作教学情境中的关键决断者，承认其拥有根据具体学情判断在特定情境下何种教学最为适切的专业裁决权。（pp. 7–8）
@@ -133,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 教师[[Research Utilization\|研究使用]]态度与实际行为比较 | [[Survey Research\|调查研究]]普遍报告教师高度认可研究价值，但实际日常教学使用率持续处于极低水平 | — | 证明非使用往往源自情境复杂性与[[Knowledge Integration\|知识整合]]难度，而非教师主观抵触 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

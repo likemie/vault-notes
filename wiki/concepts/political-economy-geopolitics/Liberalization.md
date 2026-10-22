@@ -52,11 +52,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Liberalization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **自由化（Liberalization）** 指在现代资本主义与跨国治理中，原本受国家、[[Neocorporatism|法团主义]]工会或行业公约保护的集体社会安排，向“自由、自律、竞争性市场逻辑”系统性开放的长期制度与意识形态重构过程。在比较政治经济学视阈中，它表现为“有组织资本主义”的**去组织化（Disorganization）**——即集体约束的削弱、再分配连带责任的瓦解，以及社会与经济风险向个体家庭和劳动者身上的系统性转嫁（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 3–5]], 31–33）；在批判政策社会学视阈中，它表现为跨国组织蓄意推进的**意识形态工程（Ideological Project）**——通过将全球化本体化与物化为不可抗拒的外部自然实体，掩盖概念背后的“意义政治”（Politics of Meaning），将公共教育与社会福利强行重塑为服从于跨国资本增值与全球市场竞争的技术工具（Bourdieu, 2003; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 441]]）。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 市场改革概念辨析
 > | 维度 | 自由化（Liberalization） | 市场化（Marketization） | 去规制化（Deregulation） |
 > |:---|:---|:---|:---|
@@ -93,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **有组织资本主义的去组织化（Disorganization）** 二战后建立的国家干预、集中集体谈判与福利[[Neocorporatism|法团主义]]结构遭到系统性侵蚀，资本重新挣脱有益约束。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 4)]]
 > - **经济与社会风险的个体化转移（Privatization of Risk）** 福利保障责任由国家与雇主转移至个体雇员与家庭，集体风险分担机制走向萎缩。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 16–17)]]
 > - **波兰尼双重运动的非对称性（Asymmetric Double Movement）** 批判功能主义乐观派认为市场扩张必然自发迎来社会保护再平衡的幻想，指出当代自由化对社会肌体的侵蚀远快于反向保护制度的发明。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–5)]]
@@ -154,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -173,8 +163,6 @@ updated: 2026-10-22
 > - **2009 — 里兹维与林加德解构经合组织教育自由化的[[Discourse|话语]]霸权** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]剖析经合组织教育政策史，揭示全球化物化叙事如何掩蔽经济自由化的阶级利益偏好，实现跨国教育治理的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

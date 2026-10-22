@@ -71,11 +71,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Niklas Luhmann
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国社会学家，比勒费尔德大学社会学终身教授，[[Luhmann's Systems Theory\|社会系统理论]]与[[Radical Constructivism\|激进建构主义]]理论家，20 世纪后半叶最具原创性与体系性的宏大社会理论大师之一。
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献与问题意识 | 关联条目 |
 > |---|---|---|---|
@@ -116,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代社会是由多个在操作上封闭（Operatively closed）、认知上开放的 **[[Autopoiesis|自创生]]（Autopoietic）功能子系统**构成的分化网络。系统运作完全由持续再生产的**沟通事件（Communications）** 所维系，区别于将社会视作个体行动者总和的传统实体观。个体心理系统与社会沟通系统互为外部环境，二者不共享代码，无法透明观察或直接因果决定，仅能通过 **结构互动（[[Structural Coupling|Structural coupling]]）** 相互激发。教育系统由于承担着为不可预测的未来塑造主体的虚幻使命，其技术因果链条必然面临固有的**技术赤字**；为了缓解当下行动的不确定性并维持自指性再生产，系统必然通过 **[[Externalization|外化]]机制**在内部投射出“准外部参照点”作为行动的合法化调节观念。
 
 > [!citation-card] 观察的盲点与二阶观察
@@ -143,9 +135,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **社会学与哲学[[Epistemology\|认识论]]路径** 彻底终结[[René Descartes\|笛卡尔]]—[[Immanuel Kant\|康德]]式的主体哲学中心地位，开创以二阶控制论为基石的操作[[Constructivist Paradigm\|建构主义]]（Operative constructivism），深刻影响现代知识社会学与法社会学。
 > - **微观教学反思路径** 揭示“教不等于学”的认识论真相，促使教育者认识到可见的测验分数纯属社会沟通系统的代码产物，与学生内心深处的主观心理体验属于不同操作范畴，消解了[[Positivism\|实证主义]]教学工程论的虚妄幻想。
 > - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的 **[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
@@ -165,8 +155,6 @@ updated: 2026-10-22
 > - **同时代与后继应用学者** [[Steen Nepper Larsen|斯滕·内珀·拉森]]（Steen Nepper Larsen） — 动用卢曼盲点理论与系统不可[[Commensuration|通约]]论批判[[Positivism|实证主义]]可见学习范式。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -56,11 +56,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Process Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 过程知识（Process Knowledge）是指深植于熟练工程师、技师与实验科研人员身体经验之中，无法被文字、图纸、配方或专利完全编码的排障手感、即兴调优直觉与复杂工艺权衡经验。它与实体物理工具（如光刻机、反应釜）和显性规程（如工程图纸、标准操作规范）共同构成技术的三大支柱，是决定一项科学理论能否在物理实体世界中被稳定制造并持续迭代的[[21st Century Skills and Competencies Discourse|关键能力]]层。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, p. 47)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识形态的三维分类与特征辨析
 > | 比较维度 | 理论科学知识（[[Theoretical Knowledge]]） | 显性工程规程（Explicit Codified Knowledge） | 默会过程知识（Tacit Process Knowledge） |
 > |:---|:---|:---|:---|
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > | **流失风险** | 永久留存于人类知识库，几乎不流失 | 受产权保护，过期或解密后永久存在 | 随产线外迁与技师退休发生断崖式、不可逆流失 |
 
 ---
-
-## 核心要素
 
 > [!taxonomy] 技术的三大实体构成支柱
 > - **物理设备与工具（Hardware & Tools）** 光刻机、精密离子注入机、电子显微镜及工业母机等重资产硬件；具备资本的实体均可通过市场采购获得。
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术与政策争议
 >
 > > [!axis] 去制造化轻资产模式 vs. 实体[[Industrial Commons|产业公地]]维护
@@ -157,8 +147,6 @@ updated: 2026-10-22
 > > - **过程知识赋权论** 主张在顶尖科研机构中设立高级工程师与技师独立晋升通道，赋予现场解决复杂仪器与制造瓶颈的实践者同等学术荣誉与共同署名权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Industrial Commons|产业公地]]与制作参与宏观统计（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

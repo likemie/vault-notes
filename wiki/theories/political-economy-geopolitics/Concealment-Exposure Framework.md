@@ -34,11 +34,7 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Concealment-Exposure Framework
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 隐藏-暴露（concealment-exposure）框架源自 Nagel (1998) 对隐私和人性关系的[[Philosophical Analysis in Education\|哲学分析]]，[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 将其提升为[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）的核心分析工具：在个人层面，揭示与隐藏之间的边界及其控制是**我们人性最重要的属性之一**；在国家层面，隐藏（有意识地使某些知识不可获取）和暴露（在便利时刻披露特定知识以削弱对手）的组合运用构成 GPK 的核心[[Geopolitics|地缘政治]]操作([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.80]])。
 
 > [!quote|notitle]

@@ -52,11 +52,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Daniel Schugurensky
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔加拿大/美国著名比较教育学家与参与式民主学者，曾任加拿大多伦多大学安大略教育研究院（OISE/UT）教授，现任美国亚利桑那州立大学（Arizona State University）公共服务与社区发展学院教授。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1994 — *Global Economic Restructuring and University Change: The Case of Universidad de Buenos Aires***（博士论文）开创性论证了[[World Bank|世界银行]]与[[Business Roundtable|美国商业圆桌会]]在教育治理改革中的[[Selective Affinity|选择性亲和]]，以阿根廷布大为标本剖析了公立大学被迫转轨市场化创收的制度暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
 > - **2000 — *The Social and Political Context of Higher Education Restructuring*** 系统梳理新自由主义全球化下高等教育从“公共产品”向“知识商品”异化的跨国政治经济学机制。
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 舒古伦斯基的核心思想在于**揭露了跨国金融霸权与国内垄断资本在教育市场化重组中的合谋机制**。他敏锐地捕捉到，[[World Bank|世界银行]]在全球南方国家扮演的角色，在本质上是美国本土[[Business Roundtable|商业圆桌会]]的跨国镜像：两者均以提高经济效益和应对国家赤字为掩护，推崇技术官僚量化考核、使用者付费与营利性办学；其在拉美公立大学推行的“改革”，实质上是剥离大学深厚的人文[[Critical Thinking Disposition|批判精神]]与社会民主反思职能，迫使高深学府彻底退化为依附于跨国资本积累的技能代工所。
 
 > [!case] 世界银行[[Policy Conditionalities|贷款附加条件]]与布宜诺斯艾利斯大学重构

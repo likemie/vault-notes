@@ -59,11 +59,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Differential Item Functioning
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **题目功能差异（Differential Item Functioning, DIF）**（亦称项目功能差异或题目功能偏侧）是心理测量学、测验编制与大规模教育评估中用于识别测验题目潜在偏差（Item Bias）的核心统计技术。当来自不同人口统计学、文化或语言背景的被试群体（通常划分为焦点组 Focal Group 与参照组 Reference Group），在被测潜在特质能力水平完全相等的条件下，对某一道测验题目的答对概率或得分期望值仍存在统计学上的显著差异时，即判定该题存在题目功能差异。DIF 表明题目测量了目标[[Construct|构念]]之外的多余无关维度（Construct-Irrelevant Variance），是评价测验公平性、检验跨国测评[[Space of Equivalence|等值空间]]真实性及保障[[Cross-cultural Validity|跨文化效度]]的技术防线。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **关键概念辨析：题目影响（Impact）与题目偏差（DIF/Bias）**
 >   - **题目影响（Impact）** 两组人群在题目得分上的原始平均差异，反映了两组在所测目标[[Construct|构念]]整体能力分布上的真实差距。
@@ -99,13 +93,9 @@ updated: 2026-10-22
 
 ---
 
-## 统计检验原理与分类
-
 > [!taxonomy] 题目功能差异的核心类型
 > - **一致性 DIF（Uniform DIF）** 在所有能力水平 $\theta$ 上，参照组的答对概率均系统性高于（或低于）焦点组；在项目特征曲线（[[Intraclass Correlation Coefficient|ICC]]）上表现为两条曲线仅发生水平平移，彼此平行而不相交（主要由[[Item Analysis|题目难度]]参数 $b_i$ 的组间差异引起）。
 > - **非一致性 DIF（Non-uniform DIF）** 答对概率的优势方向随被试能力水平的变化而改变；在项目特征曲线上表现为两条曲线斜率不同且相互交叉（主要由题目区分度参数 $a_i$ 的组间差异引起）。
-
-### 量化方法模块与公式
 
 > [!formula-step] 公式步骤一　曼特尔-亨斯泽尔（Mantel-Haenszel）胜算比
 > $$\alpha_{\text{MH}} = \frac{\sum_{j=1}^K A_j D_j / N_j}{\sum_{j=1}^K B_j C_j / N_j}, \quad \Delta_{\text{MH}} = -2.35 \ln(\alpha_{\text{MH}})$$
@@ -131,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景与实证应用
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   1. **跨国测验的翻译与文化适应性审查** 在 [[PISA]]、[[TIMSS]] 等跨国评估中，检验源语言试题（英语/法语）翻译为数十种本土语言版本后，是否因语意多义性或文化习俗差异导致特定国家学生答题受损。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 >   - 参照组与焦点组在目标[[Construct|构念]]上存在极端巨大的真实能力鸿沟（Ability Distribution Overlap 极低）的数据集；匹配层中缺乏可比重叠样本会导致估计严重发散。
 
 ---
-
-## 局限性与批评
 
 > [!method-limits] 方法局限与风险
 > - **对匹配准则纯净度的依赖（污染效应）** 若使用包含待测题目的测验总分作为匹配标准，当测验中包含多道带有偏倚的题目时，匹配标准本身已被污染，必须采用多轮迭代纯化（Item Purification）程序逐步剔除偏倚题。
@@ -168,8 +154,6 @@ updated: 2026-10-22
 > | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | 论证 | 剖析跨国测评试题直接移植中遭遇的跨文化水土不服与测量效度危机的文献。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示国际评估项目如何通过心理测量技术过滤国家具体文化背景，将复杂的教育生活压缩为统一的可[[Commensuration|通约]]技术指标。

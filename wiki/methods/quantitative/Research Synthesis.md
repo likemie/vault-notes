@@ -73,11 +73,7 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Research Synthesis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 研究综合（Research Synthesis，亦称证据综合 Evidence Synthesis）是一个涵盖性方法家族与学术伞式术语，指运用系统、显式且可复现的方法，对针对特定[[Research Question|研究问题]]或公共政策议题的多项独立原始实证研究进行全面检索、方法学质量严格审查、信息提取与智力整合，旨在形成超越单一研究局限的高阶科学证据或决策咨询报告。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 视科学知识为累积性与情境性共存的产物；单个实证研究受限于样本[[Sampling Error|抽样误差]]、地域局限与测量噪声，唯有通过跨情境的系统综合方能辨析稳健机制；但统计聚合不能自动取代情境化理论反思。
 > - **研究者角色** 在检索策略构建、纳入与排除标准设定、方法学质量评级（Risk of Bias / Study Quality Appraisal）以及[[Heterogeneity|异质性]]解释中承担审慎的学术把关者角色。
@@ -111,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **界定问题与注册方案** 确立明确的 [[PICO Framework|PICO]]（对象、干预、对照、结果）框架，制定并公开[[Preregistration|预注册]]研究规程（Protocol），避免事后挑选结果。
 > 2. **全面系统检索文献** 检索多个跨学科电子数据库、学术会议论文集、学位论文库及政府政策报告，详细记录检索词式与筛选流程。
@@ -123,16 +115,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 当某一学术议题或政策干预积累了大量分散、相互矛盾甚至对立的独立实证研究，亟需对其因果[[Effect Size|效应量]]级、[[Heterogeneity|异质性]]来源及干预规律进行系统评估时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]]
 > - **谨慎使用** 原始研究在概念[[Operationalization|操作化]]、测量工具和理论[[Paradigm|范式]]上存在高度异质性时；若强行合并计算总体平均数，会掩盖学科、学段和文化情境的决定性差异。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 96–97)]]
 > - **不适合使用** 处于探索初期的新兴研究领域（原始研究数量极少或缺乏方法学规范）；企图绕过对[[Primary and Secondary Documents|初级文献]]设计缺陷的严格把关，将低质量调查与严谨实验机械混合以追求庞大数据量的粗放操作。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 94–96)]]
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **“粗糙输入导致荒谬输出”（Garbage In, Garbage Out, GIGO）** 统计模型无法纠正底层实证研究在抽样偏差、测量误差与因果识别上的根本缺陷；如果放弃对[[Primary and Secondary Documents|原始文献]]的质量筛选，汇聚出的庞大数据库只会生产具有假性精确感的误导性数字。
@@ -153,8 +141,6 @@ updated: 2026-10-22
 > | [[Weight of Evidence Framework]] | 质控工具 | 评估[[Primary and Secondary Documents\|初级文献]]方法学严谨性与主题相关性的系统框架，为研究综合的文献准入提供操作依据。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引国际循证[[Policy Network|政策网络]]（EVIPNet）对研究综合的规范定义，严肃审查[[John Hattie|哈蒂]]未审查原始研究质量所带来的理论与政策风险。

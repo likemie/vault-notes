@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# COVID-19 Disruption to Schooling
-
 > [!metax] [新冠疫情 · COVID](https://www.visiblelearningmetax.com/influences/view/covid)
 > 学校 › 学校类型
 >

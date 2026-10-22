@@ -47,11 +47,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Irish Survey of Student Engagement
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年由[[Higher Education Authority\|爱尔兰高等教育局]]（Higher Education Authority, [[Higher Education Act of 1965\|HEA]]）联合爱尔兰大学协会（IUA）与爱尔兰学生联盟（USI）共同设立。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > - **制度位置** 爱尔兰高等教育国家战略质量监测与院校绩效契约审核的重要数据支撑。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > ISSE（现称 StudentSurvey.ie）以全美 [[National Survey of Student Engagement\|NSSE]] 调查为蓝本，系统测度学生在高级学习（Higher-Order Learning）、[[Reflexivity\|反思性]]与整合性学习、批判性论据分析及量化推理方面的实践频率与深度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]

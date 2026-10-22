@@ -49,11 +49,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# NSF Broader Impacts Criterion
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 由[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）理事会（[[National Science Board]], NSB）于 1997 年正式设立；2010 年通过修订《项目申请与奖励政策及程序指南》（PAPPG），将其执行由“象征性倡导”转变为“刚性硬核约束”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 属于科学基金同行评议双核心指标之一（学术价值与更广泛的影响），是战后[[Social Contract of Science|科学社会契约]]中“公共责任”嵌入微观科研立项评价的核心制度杠杆。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 该准则要求每一项基础科学资助申请，必须在研究方案中明确阐述其研究成果如何超越纯学术出版物范畴，在促进学科交叉教学、扩大弱势族群科研参与、增进公众科学理解或满足国家战略福祉等方面产生切实的更[[Research Impact|广泛社会影响]]，并将其作为同行评议一票否决式的强制前置门槛。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1997年** [[National Science Board|国家科学委员会]]（NSB）正式确立“学术价值”（Intellectual Merit）与“更广泛的影响”（Broader Impacts）双准则框架。
 > - **2007年** 美国国会通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），立法敦促 [[National Science Foundation|NSF]] 强化对青年科研人员培训与 [[STEM Education|STEM]] 普及评估。
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > - **2025年** 在保守派行政令强化“黄金标准”与削减特定 [[Diversity, Equity, and Inclusion|DEI]] 项目的新政治情境下，“更广泛的影响”准则中关于包容性与社会公平的界定面临新一轮政治重估。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** [[National Science Board|国家科学委员会]]（NSB）、国家科学基金会（[[National Science Foundation|NSF]]）。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!tension]- 联盟结构与冲突
 >
 > | 维度 | 公共责任与社会问责倡导阵营 | 学术自主与纯理论探索阵营 |
@@ -120,8 +108,6 @@ updated: 2026-10-22
 > **关键分歧** 双方围绕前沿纯理论研究是否天然具有[[Public Value|公共价值]]，以及外部强制社会指标是否会破坏同行评议专业性展开博弈。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **投入指标** 科学家在科普外展、人才培养与公众参与上的时间与经费配置。
@@ -140,8 +126,6 @@ updated: 2026-10-22
 > - **<1% → ≥1/4** 2021–2024 年新的 NSF 资助中，聚焦多样性、公平和包容倡议的份额。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Magnet Schools
-
 > [!metax] [磁石学校 · Magnet schools](https://www.visiblelearningmetax.com/influences/view/magnet_schools)
 > 学校 › 学校类型
 >

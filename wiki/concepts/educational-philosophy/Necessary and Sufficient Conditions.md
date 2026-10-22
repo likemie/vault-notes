@@ -28,11 +28,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Necessary and Sufficient Conditions
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 必要条件（Necessary Condition）是特定结果发生所不可或缺的前提，遵循“无之必不然”的逻辑；充分条件（Sufficient Condition）是单独足以诱发该结果的条件，遵循“有之必然”的逻辑。在社会科学与教育研究的复杂情境中，单一因素通常既难以独立构成充分条件，也难以单独涵盖全部因果路径，更多是以必要与充分条件的特定构型（如复合充分条件或 INUS 条件）协同产生因果效力（Mackie, 1993; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|(Cohen et al., 2011, pp. 56–57)]]）。在政策演进分析中，安东尼·贝尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 256]]）指出，建立全员人口普查式测评（Census-based [[National Large-Scale Assessments|NLSA]]）是推行[[Test-Based Accountability|测试问责]]（TBA）制度的必要条件。
@@ -58,8 +54,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 因果条件类型的多维逻辑对比
 > | 条件类型 | 逻辑形式 | 在教育因果推断中的意义 | 解释边界与局限 |
 > |---|---|---|---|
@@ -69,8 +63,6 @@ updated: 2026-10-22
 > | **复合充分条件（INUS）** | 条件组合后有之必然 | 贴合复杂社会现实，揭示多因素联合作用机制 | 较难用常规单一变量实验单独剥离检验每个构件的因果份额 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **必要条件（Necessary Condition）** 效果发生不可缺少的前提，没有该条件则结果绝不发生；其核心功能在于确立底线边界与排除无效假说。
@@ -125,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **2019 — 政策工具理论中的制度必要条件拓展** 贝尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）将必要条件概念拓展至比较教育政策分析，论证全员普查统考对测试问责制的制度先决属性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -169,8 +157,6 @@ updated: 2026-10-22
 > 在复杂教育生态中，极难孤立确立绝对意义上的单一充分条件；若将某种统计显著的经验相关机械升级为“政策成功的必要条件”，容易在政策移植中引发削足适履的教条化干预。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

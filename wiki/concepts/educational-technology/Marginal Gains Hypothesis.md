@@ -52,12 +52,9 @@ created: '2026-09-05'
 updated: 2026-10-22
 ---
 
-# Marginal Gains Hypothesis
 （边际效益假说）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 边际效益假说（Marginal Gains [[Hypothesis]] in Educational Technology）是指在教育技术干预与数字化学习研究中，由于初始教育资源分布的不均衡，在信息通信技术基础设施匮乏（低 ICT 水平）或学生家庭/区域[[Socioeconomic Status|社会经济地位]]脆弱（低 SES 背景）的环境中引入新兴教育技术工具，往往比在资源已高度饱和的成熟环境中产生显著更大的相对促学增量和边际附加价值（Added VALUE）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 6, 17–18)]]
@@ -89,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **基线资源匮乏性（Baseline Scarcity）** 低 ICT 与低 [[Socioeconomic Status|SES]] 环境中，学生面临师资配比不足、个性化辅导缺失和数字教辅空白，导致其[[Academic Achievement\|学业表现]]长期受压抑。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **补偿性替代机制（Compensatory [[Scaffolding]]）** 生成式 AI 充当了个性化导师（Tutor）与练习同伴，以极低边际成本提供了以往只有精英阶层才能享有的全天候即时答疑与反馈。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 6, 18)]]
 > - **边际增益高敏感度（High Marginal Sensitivity）** 在近乎空白的数字化支持基础上，技术的单点突破便能迅速扫除初级学习障碍，驱动[[Effect Size\|效应量]]爆发式增长（$g^+ > 1.70$）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12–13, 18)]]
@@ -144,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,8 +153,6 @@ updated: 2026-10-22
 > - **2025 — 边际效益假说的系统实证确立** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 在严格满足[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）的方法学门槛下，同时从国家 ICT 与学生 [[Socioeconomic Status|SES]] 双重视角实证检验并确立了“边际效益假说”，指出 [[Generative Artificial Intelligence\|GenAI]] 是弥合高等教育数字鸿沟的战略性工具。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -181,8 +172,6 @@ updated: 2026-10-22
 > 边际效益假说的成立要求目标环境具备满足技术运作的最低物理基础设施底线（如基本网络与电力）；在完全缺乏硬件接入的极端恶劣环境中，该效应将因技术无法落地而归零。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 17–18)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

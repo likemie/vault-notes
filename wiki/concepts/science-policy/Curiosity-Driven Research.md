@@ -70,11 +70,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Curiosity-Driven Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究或蓝天研究，Blue Skies Research）** 指由研究者好奇心和求知欲驱动、自主设定研究议程的开放式探索，以贡献原创知识和扩展理论前沿为目标。教育研究中的蓝天研究强调问题、理论与议程的[[Open-Mindedness|开放性]]；科学资助讨论则进一步关注学术自治、同行评议，以及长周期和容忍失败的经费支持条件。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 31–37)]][[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–38)]]
@@ -96,8 +92,6 @@ updated: 2026-10-22
 > - **不等于 [[Use-Inspired Basic Research|应用启发的基础研究]]** — 后者立足[[Pasteur's Quadrant|巴斯德象限]]（如 [[National Science Foundation|NSF]] 未来半导体 FuSe 计划），自始至终兼顾前沿理论理解与工业场景应用；自由探索型研究立足玻尔象限（Bohr's Quadrant），只追求纯粹机理揭示而不谋求即时工业对应物。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 科学研究主要[[Paradigm|范式]]维度辨析
 > | 维度 | 自由探索型研究（Curiosity-Driven） | [[Use-Inspired Basic Research\|应用启发型基础研究]]（Use-Inspired） | [[Mission-Oriented Research\|任务导向型研究]]（Mission-Oriented） |
@@ -125,9 +119,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **内生认知好奇心驱动** 选题源于对自然界与人类社会未解机理的学术敏感度，而非政府指令、企业横向课题或短期[[Geopolitics|地缘政治]]动员。
 > - **开放的理论角色** 理论是接受探索、检验与修正的对象，研究的贡献包括扩展知识和理论前沿（Smith & Glass, 1987, p. 34; Plewis & Mason, 2005, p. 192）。
 > - **高度自主的探索空间** 科学家在[[Hypothesis|研究假设]]设定、技术路线调整与实验试错上享有充分自治，行政官僚不得任意[[Intervention Research|干预研究]]细节。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
@@ -187,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 报告 |
 > |:---|:---|:---|:---|
@@ -205,8 +195,6 @@ updated: 2026-10-22
 > - **2025–至今 — 契约退出与分散边缘化新现实** 在《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》等行政令重压下，国家绕过大学基础探索直接采购成熟技术，自由探索失去传统轴心地位，走向多轨分化中的分散生存轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

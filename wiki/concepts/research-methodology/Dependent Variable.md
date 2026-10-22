@@ -61,9 +61,6 @@ status: draft
 created: 2026-07-12
 updated: 2026-10-22
 ---
-# Dependent Variable
-
-## 定义
 
 > [!def] 因[[Variable\|变量]]
 > 因变量（dependent variable）是实验或[[Quantitative Research\|量化研究]]中的**输出变量**，即**结果变量（outcome variable）**。因变量的变化被假定为[[Independent Variable\|自变量]]的操纵或选择所导致，通过测量因变量在干预前后的变化来评估干预的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
@@ -87,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 因[[Variable\|变量]] vs [[Independent Variable\|自变量]]
 > | 维度 | 因变量 | [[Independent Variable\|自变量]] |
 > |---|---|---|
@@ -99,8 +94,6 @@ updated: 2026-10-22
 > | **示例** | 考试成绩、康复速度、阅读能力 | 教学方法、药物剂量、课程时长 |
 
 ---
-
-## 核心要素
 
 > [!feature] 因[[Variable\|变量]]的关键属性
 > - **可测量性** 因变量必须具备可被测量或观察的属性。不可直接测量的[[Construct\|构念]]需要通过[[Definition of Terms\|操作性定义]]转化为可测量的指标，如用体操测试代表体适能（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 330]]）。
@@ -132,16 +125,12 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **因变量构念效度与因果单向性** | 因变量需忠实反映理论构念，警惕评价指标混淆与自变量被因变量反向定义的因果倒置 | 实验设计、[[Ex Post Facto Research\|事后回溯研究]]与二阶[[Meta-analysis\|元分析]][[Causal Modeling\|因果建模]] | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]]; [[Argument_Rømer_2018_EPT\|Rømer (2018)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

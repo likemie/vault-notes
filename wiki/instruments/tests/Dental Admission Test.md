@@ -42,11 +42,7 @@ created: 2026-08-27
 updated: 2026-08-27
 ---
 
-# Dental Admission Test
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Dental Admission Test（DAT）
 > - **工具类型** 高利害牙医专业准入标准化心理与认知能力选拔测验（High-Stakes Dental Admissions Test）。
@@ -55,8 +51,6 @@ updated: 2026-08-27
 > - **实施方式** 计算机标准化机考（总时长约 4.5 小时，包含 4 大独立模块）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 知觉能力与空间创造表征能力（Perceptual Ability Test, PAT 模块）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -70,15 +64,11 @@ updated: 2026-08-27
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **PAT 空间心智模拟** 题目呈现复杂的平面展开图或穿孔折纸过程，要求考生在无草稿纸辅助的情况下完全在大脑中完成三维几何翻转、立体空间折叠与几何容积推演。
 > - **计分体系** 输出各分模块 1–30 分的标准量表分及学术平均分（AA）与知觉总分（PAT），全国平均分约为 19–20 分。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -88,8 +78,6 @@ updated: 2026-08-27
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | DAT 标准机考版 | [[OECD]] 报告综述高利害准入考试在测量非言语空间知觉与高阶操作潜能中的前沿应用 | 专业入学能力测试 | 证实 DAT 中的 PAT 模块展现出极高且独特的空间想象与微观解剖操作潜能[[Predictive Validity\|预测效度]] |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

@@ -123,8 +123,6 @@ created: 2026-06-17
 updated: 2026-10-20
 ---
 
-# Value Neutrality
-
 ---
 
 ## 定义

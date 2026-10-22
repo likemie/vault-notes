@@ -44,11 +44,7 @@ created: 2026-08-25
 updated: 2026-10-16
 ---
 
-# Corrected Covered Area
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 校正覆盖面积（Corrected Covered Area, CCA）是由 Pieper et al. (2014) 提出、用于在[[Umbrella Review\|伞状综述]]（Umbrella Review）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）中**定量评估多个已发表系统评价或元分析之间初级实证研究重叠程度的标准化统计指标**。该指标通过从总纳入频次中扣除[[Primary and Secondary Documents\|初级文献]]的基准计数值，消除了综述数量与研究总量本身对覆盖率的被动稀释或抬升效应，以 $0\%–100\%$ 的标准化比率精确测度[[Primary and Secondary Documents\|初级文献]]重复被纳入的冗余强度。[[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1373–1375)]]
@@ -59,8 +55,6 @@ updated: 2026-10-16
 > - **应用决策** 为研究者筛选、合并或剔除高重叠一阶元分析提供客观的数学门槛（通常以 $CCA > 10\%$ 作为不可接受的高重叠排除界限）。
 
 ---
-
-## 数学原理与计算公式
 
 > [!formula-step] 公式推导与[[Variable\|变量]]界定
 > 在包含 $c$ 项系统评价/[[Meta-analysis\|元分析]]、共涉及 $r$ 篇不重复初级研究的伞状文献集中：
@@ -81,8 +75,6 @@ updated: 2026-10-16
 
 ---
 
-## 解释区间与判定阈值
-
 > [!contrast-table] CCA 重叠程度四级判定准则（Pieper et al., 2014; Bracchiglione et al., 2022）
 > | CCA 数值区间 | 重叠程度定性分级 | 证据冗余与方法学风险 | 推荐处理策略与决策规程 |
 > |---|---|---|---|
@@ -92,8 +84,6 @@ updated: 2026-10-16
 > | **$CCA \ge 15\%$**（$\ge .15$） | **极高重叠（Very high overlap）** | 绝大部分[[Meta-analysis\|元分析]]共享相同的底层数据池，二阶综合退化为伪重复。 | 严禁直接进行合并计算；必须采用微观完全去重或借助 [[GROOVE]] 工具重构证据网络。 |
 
 ---
-
-## 方法论价值与防范偏差功能
 
 > [!warrant]- 为什么[[Meta-meta-analysis\|二阶元分析]]必须报告并控制 CCA
 > 1. **破除抽样独立性假定破产危机** 经典二阶固定/[[Random-Effects Model|随机效应]]合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）。无视重叠会导致相同的经典[[Study Population and Sample\|研究样本]]被赋予不成比例的双重甚至三重方差权重。

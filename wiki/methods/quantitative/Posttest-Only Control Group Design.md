@@ -37,9 +37,6 @@ status: draft
 created: 2026-07-13
 updated: 2026-10-22
 ---
-# Posttest-Only Control Group Design
-
-## 定义
 
 > [!def] 仅[[Pre-test and Post-test\|后测]]控制组设计
 > 仅后测控制组设计（Posttest-Only Control Group Design）是[[True Experimental Design\|真实验设计]]的变体：参与者通过[[Random Assignment\|随机分配]]分为实验组和控制组，**不进行前测**，仅实验组接受干预（X），两组均接受后测。因果效应通过比较两组后测均值来估计（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 320]]）。
@@ -49,8 +46,6 @@ updated: 2026-10-22
 > - **问题类型** 干预是否产生了因果效应？（排除[[Pre-test Sensitisation\|前测敏感化]]后的纯净估计）
 > - **[[Unit of Analysis\|分析单位]]** 个体参与者。
 > - **输出形式** 两组后测均值的比较。
-
-## 方法定位
 
 > [!method-position] 与前[[Pre-test and Post-test\|后测]]设计的关系
 > - **设计选择的情境** 当担心前测可能使受试者对干预敏感时（如前测让受试者猜到[[Research Purpose\|研究目的]]），取消前测是合理选择。当[[Random Assignment\|随机化]]已确保组间等价时，前测并非必需。
@@ -63,8 +58,6 @@ updated: 2026-10-22
 > - **分析方法** 独立样本 t 检验比较两组后测均值。
 > - **辅助技术** 随机数生成器。
 
-## 研究程序
-
 > [!design-notation] 仅[[Pre-test and Post-test\|后测]]控制组设计
 > 参与者[[Random Assignment\|随机分配]]至实验组和控制组，无前测，仅实验组接受干预，两组仅接受后测（p. 320）：
 >
@@ -73,8 +66,6 @@ updated: 2026-10-22
 
 > [!warrant]- 为什么取消前测？
 > 前测本身可能使受试者对实验[[Variable\|变量]]敏感（[[Pre-test Sensitisation\|前测敏感化]]），也可能让参与者猜到[[Research Purpose\|研究目的]]而改变行为。当随机化已确保组间等价、且担心前测污染时，取消前测是合理选择。代价是无法用前测分数验证随机化是否成功、无法测量个体层面的变化量，只能依赖组间后测差异推断因果。
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 担心[[Pre-test and Post-test\|前测]]产生敏感化效应时；前测在操作上不可能或不道德时（如一次性事件后的态度调查）；[[Random Assignment\|随机化]]可信且[[Sample Size Determination\|样本量]]足够大时。
@@ -92,8 +83,6 @@ updated: 2026-10-22
 > | [[Pretest-Posttest Control Group Design]] | 方法 | 互补设计——有[[Pre-test and Post-test\|前测]]时使用，担心前测时使用本设计 |
 > | [[Solomon Four-Group Design]] | 方法 | 综合方案——同时包含有前测和无前测组，可分离前测效应 |
 > | [[Random Assignment]] | 方法 | 唯一依赖——无前测时随机化的质量决定了设计的有效性 |
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch8)]] — 将仅[[Pre-test and Post-test\|后测]]控制组设计列为[[True Experimental Design\|真实验设计]]的四种基本类型之一。

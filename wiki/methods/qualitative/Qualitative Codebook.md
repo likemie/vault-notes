@@ -60,11 +60,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Qualitative Codebook
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Coding in Qualitative Research\|质性编码]]手册（Qualitative Codebook）** 是[[Qualitative Research\|质性研究]]与[[Content Analysis\|内容分析]]中用于系统记录、规范和组织编码规则的标准化参照工具。它不仅包含预设或[[Emergence\|涌现]]的编码标签（Code Label）清单，更通过[[Operationalization\|操作化]]定义、使用边界（何时使用与何时不使用）及典型经验引语样例，将抽象[[Construct\|构念]]转化为公开透明、可重复检验的分析规程（Guest et al., 2012；Mayring, 2004）。其核心目标在于消除主观编码歧义，在团队协作中最大化[[Qualitative Reliability\|质性信度]]并支撑纵深的[[Data Reduction\|数据缩减]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 211]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 563]]）。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Coding in Qualitative Research\|质性编码]]工具与相关记录形态辨析
 > | 维度 | 质性编码手册（Qualitative Codebook） | 编码清单（Code List / Nodes） | 分析备忘录（[[Memos]]） |
 > |---|---|---|---|
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > | **团队协作角色** | 消除编码歧义、实现编码员间一致性 | 共享软件项目节点库 | 记录研究者个体的主观[[Reflexivity\|反身性]]轨迹 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Coding in Qualitative Research\|质性编码]]手册的核心结构要素
 > - **编码标签（Code Label）** 简明凝练的文字标识（支持英文缩写与中文概念），充当文本片段的概念锚点（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 211]]）。
@@ -166,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -184,8 +174,6 @@ updated: 2026-10-22
 > - **2020s 至今 大语言模型驱动的形式化提示词工程阶段** [[Generative Artificial Intelligence\|生成式人工智能]]引入质性分析后，编码手册演变为直接驱动大语言模型（LLM）执行演绎赋码与链式推理的系统提示词协议（System Prompts），实现人机认知协同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, Ch. 30.6)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

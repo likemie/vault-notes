@@ -52,11 +52,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Severability of Politics and Pedagogy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 恶政与教学法可分性命题（Severability of Politics and Pedagogy）是比较教育[[Policy Borrowing|政策借用]]史与教育政治哲学中的经典[[Epistemology|认识论]]命题，由 19 世纪美国[[Common School Movement|公共学校运动]]领袖[[Calvin Stowe|卡尔文·斯托]]（Calvin E. Stowe）、[[Horace Mann|霍勒斯·曼]]（[[Horace Mann]]）与[[Henry Barnard|亨利·巴纳德]]（[[Henry Barnard]]）在借用普鲁士初等教育经验的论战中正式阐发。该命题主张：主权国家的政治统治体制与学校内部的微观教学法则在认识论上是“自然可分的（naturally separable）”。专制王权对学校的政治控制并不能抹杀基础学科有效认知规律的客观科学性；借用国完全能够在认识论与制度实践中剥离外来体制所附带的被动顺从意识形态，将高效率的教学方法与师范组织规程加以本土化重塑，转而服务于民主共和政体的公民塑造。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
@@ -86,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **心智机能的普遍共通性（Universality of Human Faculties）** 人类的认知结构与心智机能跨文化共通，识字、算术等认知科学规律独立于统治阶级的政治意志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 125)]]
 > - **去意识形态化筛选机制（De-ideologization Filter）** 借用者具备高度的理性反思能力，能够在引进外国制度时主动过滤君主专制或宗教灌输等异质毒素。
 > - **民主赋义与本土重组（Democratic Re-articulation）** 将外来高效教学机制（如公学学制、师范研习所）植入民主宪政土壤，使其转化为服务全民赋权与共和自决的工具。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 125–126)]]
@@ -130,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -146,8 +138,6 @@ updated: 2026-10-22
 > - **2009 — 学科反思中的[[Epistemology|认识论]]平反** 拉斯特等人在《国际比较教育手册》中为斯托与曼平反，指出老一代史学家脱离语境贬低早期借用者，实质上遮蔽了先驱们清醒的情境敏感度与精细的认识论辩驳模型。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 技术可分论 vs. 总体意识形态不可分论
 > - **技术可分论（蓝方）** 斯托、曼等借用先驱主张微观教学法与宏观政治意识形态可以精准分离，技术工具具备中立可移植性。

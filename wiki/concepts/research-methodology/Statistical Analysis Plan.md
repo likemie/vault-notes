@@ -69,11 +69,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Statistical Analysis Plan
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 统计分析计划（Statistical Analysis Plan，简称 SAP）指在实证试验实施、数据采集或双盲解密之前，由独立评估团队预先起草、经同行评审并公开发布的技术性刚性规范文件（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 51–52]]）。它详尽规定了主要因果结局的精确数学模型、协[[Variable\|变量]]纳入标准、多层集群[[Standard Error\|标准误]]校正规程、缺失数据处理算法、依从性分析（[[Intentionality|意向性]]治疗分析 [[Initial Teacher Training\|ITT]] 与[[Complier Average Causal Effect\|依从者平均因果效应]] CACE）以及辅助性敏感性检验范围。SAP 是将开放科学规范落到实处的关键法典，旨在彻底杜绝研究者在看到数据后挑选显著结果的数据钓鱼（Data Dredging）行为。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 试验设计与透明度规范层级对比
 > | 规范层次 | 试验研究方案 (Trial Protocol) | 统计分析计划 (SAP) | 临床与社会试验注册 (Registry Record) |
 > |---|---|---|---|
@@ -107,9 +101,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **主效应回归模型形式化（Primary Model Equation）** 用明确的数学公式锁定因果估计方程（例如：指定两级[[Hierarchical Linear Model\|分层线性模型]]、固定斜率与随机截距、[[Dependent Variable\|因变量]]标准化方式及 Hedges' $g$ 计算分母）。
 > - **协[[Variable\|变量]]前置刚性列表（Pre-specified Covariates）** 逐一明确纳入主模型的控制变量名称与测量来源（如强制纳入英国 NPD 统考基线[[Pre-test and Post-test\|前测]]成绩），严禁在看到回归结果后随意增删控制变量。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 > - **层级群聚与[[Standard Error\|标准误]]估计准则（Clustering Standard Errors）** 明确设定如何校正学校或班级层级的[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC），指定采用 Huber-White 聚类稳健标准误还是全贝叶斯[[Stratified Sampling\|分层抽样]]。
@@ -155,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -165,8 +155,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变与学术脉络
 > - **1990s — 国际人用药品技术要求协调会（ICH E9）确立规范** 国际医药监管机构发布 ICH E9《[[Clinical Trial\|临床试验]]的统计原则》，首次在法规层面上确立了必须在试验双盲揭开前锁定 SAP 的法定要求。
 > - **2000s — 医学向社会科学扩散受阻** 尽管流行病学与医学试验普及了 SAP，但社会科学与教育学界长期认为社会情境干预过于复杂，抗拒采用机械的先验计划，导致教育试验深陷“抽屉问题”与假阳性危机。
@@ -174,8 +162,6 @@ updated: 2026-10-22
 > - **2018 — 跨领域国际标准 [[CONSORT-SPI]] 与行业指南集成** 伴随 CONSORT-SPI（Montgomery et al., 2018）与《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的发布，SAP 正式从个别机构探索演化为全球复杂社会干预报告的黄金行业基准。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -192,8 +178,6 @@ updated: 2026-10-22
 > 统计分析计划专用于以因果假设检验为核心目的的定量实证研究（如 [[Randomised Controlled Trials\|RCT]] 与严谨 [[Quasi-Experimental Designs\|QED]]）。在以理论生成为目的的[[Qualitative Research\|质性研究]]、质性[[Ethnography\|民族志]]或探索性先导试验（Pilots）中不适用。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -61,11 +61,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Scale of Measurement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **测量尺度（Scale of Measurement，亦称测量量表）** 是[[Quantitative Research\|量化研究]]与心理测量学中将抽象[[Construct\|理论构念]]转化为实证可分析数据的数学规则与赋值层级。它规定了向受试者提供的反应选项属性，或研究者在观察测量参与者时所采集度量单位的数学逻辑（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]]）。测量尺度不仅决定了研究者可运用的统计分析模型边界，更在宏观教育政策与因果评估中决定了终结性结局指标的区分度、量程完整性与公信力。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
@@ -88,8 +84,6 @@ updated: 2026-10-22
 > - 不等于单纯的数字编码 — 名义尺度的数字（如 1=男，2=女）仅具有代号意义，不具备算术运算合法性。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 评价测量尺度的三种实证样态对比（基于 Edovald & Nevill, 2021, p. 54）
 > | 属性维度 | 全国高利害统考标准化连续尺度（NPD 成绩） | 商业标准化测验尺度 | 开发者自编非标准化测验（[[Developer-Made Measures\|Inherent Measures]]） |
@@ -167,8 +161,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!prop-table] 测量尺度类型与其统计学与心理计量特征对比
 > | 测量尺度分类 | 数学性质 | 典型实例 | 适用统计方法 | 现场主要风险 |
 > |---|---|---|---|---|
@@ -195,8 +187,6 @@ updated: 2026-10-22
 > | [[Predictive Validity]] | 效度准则 | 检验测量尺度能否准确预测个体未来长期[[Academic Achievement\|学业表现]]的关键指标。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022, p. 56)]] — 系统阐述名义、顺序、等距与比率四类测量尺度的定义、反应选项设计及其对统计分析模型选择的约束。

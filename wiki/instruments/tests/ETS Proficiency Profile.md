@@ -51,11 +51,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# ETS Proficiency Profile
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Educational Testing Service\|ETS]] Proficiency Profile（EPP / 原 MAPP）
 > - **工具类型** 标准化通识[[21st Century Skills and Competencies Discourse\|核心素养]]测评（Standardized [[General Education]] Assessment）。
@@ -64,8 +60,6 @@ updated: 2026-10-16
 > - **实施方式** 计算机机考或纸笔测试（标准版 2 小时，简缩版 40 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 通识[[21st Century Skills and Competencies Discourse\|核心素养]]与[[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -79,16 +73,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 基于人文、社会科学与自然科学真实文献节选的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 4 选 1 客观单项选择题。
 > - **计分与常模** 量表分范围为 400–500 分，提供 3 个熟练度水平等级（Proficiency Levels 1, 2, 3）与全美大学增值常模基准。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -98,8 +88,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | EPP / MAPP 标准版 | [[OECD]] 报告综述全美大规模标准化考试在高等教育中的演化与局限 | 通识核心技能测试 | 证实 EPP 虽具备优异的心理测量学[[Reliability\|信度]]与自动化评分优势，但在低利害问责中受制于学生动机不足与[[Construct\|构念]]代表性局限 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

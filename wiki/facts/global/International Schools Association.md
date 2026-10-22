@@ -41,11 +41,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# International Schools Association
-
 ---
-
-## 组织定位与成立背景
 
 > [!event-context] 组织档案
 > - **组织名称** [[International Schools\|国际学校]]协会（International Schools Association，ISA）。
@@ -57,8 +53,6 @@ updated: 2026-10-22
 
 ---
 
-## 从共同问题网络到课程项目
-
 > [!dev-timeline] ISA 在[[International Baccalaureate\|国际文凭]]倡议中的角色变化
 > - **1951 年　建立[[International Schools\|国际学校]]合作组织** [[International School of Geneva\|Ecolint]] 在战后再次发挥发起作用，参与建立 ISA，以帮助不断增加的国际学校处理共同问题。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 15–16)]]
 > - **1955 年　接收国际毕业会考呼吁** [[EU|欧洲共同体]]学校创办者范·豪特（Van Houtte）向当时设在 Ecolint 的 ISA 呼吁建立国际毕业会考。倡议获得更多教师与学校董事关注，仍缺少执行结构。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 17)]]
@@ -67,8 +61,6 @@ updated: 2026-10-22
 > - **1964 年　会员重点错位推动项目分离** ISA 多数会员更关注小学和初中，对高中毕业资格兴趣有限。协会年会决定另设组织继续 IB 项目，随后形成[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 19)]]
 
 ---
-
-## 组织功能与能力边界
 
 > [!contrast-table] ISA 能够完成与无法承担的工作
 > | 组织维度 | 已形成的能力 | 持续限制 |
@@ -85,8 +77,6 @@ updated: 2026-10-22
 > - **专门机构承接单一使命** 1964 年另设 ISES，使 IB 项目可以依法接收资金、建立办公室并集中承担课程与考试责任。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 18–20)]]
 
 ---
-
-## 影响与后果
 
 > [!finding-cards] 组织影响
 > - **议题转换** ISA 把国际毕业会考从单校设想转化为多个[[International Schools\|国际学校]]可以共同讨论的课程问题。

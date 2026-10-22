@@ -75,11 +75,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Federal Ministry of Education and Research
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 德国联邦教育与研究部（德语：Bundesministerium für [[Bildung]] und Forschung, 缩写为 BMBF）是德意志联邦共和国负责国家教育政策协调、科学研究资助、技术创新与职业教育培训的最高联邦行政主管部门。在德国宪法确立的文化主权在州（Kulturhoheit der Länder）原则下，BMBF 依托联邦与各州联合科学委员会（GWK）机制，通过竞争性专项拨款、国家重大攻坚计划（如 [[Qualitätsoffensive Lehrerbildung\|QLB]]）以及协同各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）联合创设国家学术实体（如 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]、[[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 国家报告联合体），扮演着推动国家教育科研创新与证据转化的核心制度引擎。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1955–1969 — 战后科技重建与早期设立** 1955 年设立联邦原子事务部，标志着联邦层面介入尖端科技研发资助；1962 年扩展为联邦科学研究部，重点恢复与壮大国家科研基础设施。
 > - **1969–1994 — 教育职能确立与部委分立** 1969 年德国修订《基本法》（Grundgesetz）赋予联邦在高等教育扩招与职业教育立法上的有限权力，分立设立联邦教育与科学部（BMBW）和联邦研究与技术部（BMFT）。
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、教师教育攻坚与循证中介孵化** 2010 年联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 在慕尼黑工业大学（TUM）正式创设[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）；依据 2013 年联邦-州行政协议（Bund-Länder-Vereinbarung, BLV）联合各州推出“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，总预算 5 亿欧元）；2017 年发布新一期《实证教育研究框架规划》（Rahmenprogramm empirische Bildungsforschung），首次将“创新研究、实施研究与转移研究”（Innovations-, Implementations- und Transferforschung）确立为国家专项资助重点；同年专项立项并出资孵化慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），确立德语区教育证据转化国家级基础设施。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 10, 12–13)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **行政领导层** 联邦教育与研究部部长（Bundesminister/in）、议会国务秘书与事务国务秘书组成的最高政策决策中枢。
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **实证教育研究框架规划与转移实施专项** 2017 年发布国家规划（Rahmenprogramm empirische Bildungsforschung, BMBF, 2017），专门确立“创新研究、实施研究与转移研究”（Innovations-, Implementations- und Transferforschung）专项资金，系统探索教育科研成果向学校实践与师训系统有效渗透的机制。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > - **重大教育质量工程** 主导实施“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，依据联邦-州行政协议注资 5 亿欧元，资助超 70 所高校、近百个改革项目），全面重塑师资培养全周期与实证证据融合。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 12–13)]]
@@ -160,16 +150,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **突破分权宪法束缚的协同治理[[Paradigm\|范式]]** 依托宪法第 91b 条修正案确立的联邦-州合作机制，在尊重地方教育自主权的同时，成功将全国性科研质量标准与证据驱动理念导入各州高等教育与师范体系。
 > - **制度化催生德语区[[Evidence-Based Education\|循证教育]]中介** 通过专项孵化 [[Clearing House Unterricht\|CHU]]，促成了德国顶尖高校教育心理学、学科教学论学者与一线实践界的结构性接轨，推动了 Kurzreviews 与在线进修学院等中介工具在全德推广。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–16)]]
 > - **职业教育与应用转化的现代转型** 强化了[[German Dual Education System\|双元制]]职业教育中的科技创新与数字技能研发，为应用型技术大学与职业学校师资提供持续专业化支撑。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

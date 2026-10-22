@@ -54,11 +54,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Tony Tether
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国（US），电气工程师、国防采办高级管理者；曾任美国国防部战略技术办公室主任、福特航空航天公司副总裁、科学应用国际公司（SAIC）副总裁、[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）局长（2001–2009）。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 科技管理哲学演变
 > - **1980–1990年代 — 工业承包商与系统集成[[Paradigm|范式]]** 深度认同大型工业联合体在复杂工程交付中的不可替代性，认为孤立的学术探索难以跨越由原型向军工装备转化的“[[Valley of Death|死亡之谷]]”。
 > - **2001–2009年 — 弥合鸿沟与严苛里程碑管理** 面对后冷战和反恐战争双重需求，主张科研资助必须严格以可验证的作战能力指标为导向，全面改造经典 [[DARPA Model]] 的采办架构。
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > **以终为始的系统级工程交付问责** 科技资助不仅要支持天马行空的科学构想，更必须设立明确、可测量且不讲情面的中期里程碑（Go/No-Go Milestones）；唯有将学术界的颠覆性点子与老牌军工巨头的工程系统集成能力硬性绑定，国家高风险投入才能真正转化为改变地缘战略平衡的实质生产力与防御优势。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1138)]]
 
 > [!citation-card] 弥合基础研究与作战能力鸿沟
@@ -111,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] 福克斯论瑟瑟任期内微观治理的连续性
 > 尽管托尼·瑟瑟对宏观采办条规、资金投向与项目分类进行了大刀阔斧的激进改组，并在学术界激起关于 [[DARPA]] 传统模式已死的强烈抗议，但实证证据表明，项目经理在微观层面所依赖的非正式[[Network Governance|网络治理]]机制跨越其任期完全稳定延续。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
 >
@@ -124,8 +114,6 @@ updated: 2026-10-22
 > *Tether shifted DARPA’s focus away from funding university-based research and towards classified projects that were closer to deployment... Computer science researchers at major universities complained that they were being frozen out of DARPA funding.*
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

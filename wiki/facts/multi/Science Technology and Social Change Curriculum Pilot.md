@@ -30,11 +30,7 @@ created: 2026-10-07
 updated: 2026-10-16
 ---
 
-# Science Technology and Social Change Curriculum Pilot
-
 ---
-
-## 项目背景与立项契机
 
 > [!program-context] 项目背景
 > - **时间与状态** 课程倡议于 1982 年提出；记述时已获[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization，IBO）许可开展实验，结束时间未报告。
@@ -44,8 +40,6 @@ updated: 2026-10-16
 
 ---
 
-## 方案设计与运行机制
-
 > [!policy-design] 课程与实施方案
 > - **项目目标** 科学、技术与社会变迁（Science, Technology and Social Change）作为[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）课程中的[[Terminal Courses|终结性课程]]方向的辅助层级选项，把学术学习与现实问题相联系。
 > - **覆盖对象** 巴林[[International Schools|国际学校]]（Bahrain International School）、科代卡纳尔学校（Kodaikanal）和东南亚[[United World Colleges|联合世界书院]]（United World College of South East Asia）及其参与教师。
@@ -54,15 +48,11 @@ updated: 2026-10-16
 
 ---
 
-## 推进历程与阶段演进
-
 > [!timeline] 试点推进
 > - **1982 年** 新的应用课程倡议提出，获得两家信托支持。
 > - **随后，具体年份未报告** 三所发起学校与中间技术开发组织（Intermediate Technology Development Group）、技术援助志愿者组织（Volunteers in Technical Assistance）、苏塞克斯与埃因霍温大学顾问连续开会。
 > - **实验准备阶段** 苏塞克斯大学科学研究小组主任迈克尔·布朗（Michael Brown）指导共同课程；巴林初步会议后，在科代卡纳尔安排三周在职培训。
 > - **培训网络扩大** 夏威夷洛阿学院、内罗毕圣玛丽学院与亚得里亚海[[United World Colleges|联合世界书院]]的教师也参加培训。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
-
-## 实施架构与角色分工
 
 > [!actor-grid] 跨校开发与实施支持
 > - **资金支持** 英国朗特里信托与印度塔塔信托提供较充分经费，区别于营养科学只获小额讨论支持的情况；具体金额未报告。
@@ -72,15 +62,11 @@ updated: 2026-10-16
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 已实现的过程产出
 > - **课程与培训配套形成** 共同课程获得三校试点许可，并实际组织了三周教师培训。
 > - **扩大实施仍属预期** 六至十所[[International Baccalaureate|国际文凭]]学校可能采用课程，被明确附以不确定性；没有报告六至十校已经实施，也没有报告学生效果。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 206)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 综合课程应在何时进入正式学习
 >

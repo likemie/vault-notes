@@ -50,11 +50,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# John E. Tilton
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名产业经济学家、资源与技术经济学者，曾任[[Brookings Institution|布鲁金斯学会]]研究员、哥伦比亚大学教授、科罗拉多矿业学院（Colorado School of Mines）经济与商业学系主任及杰出教授。
@@ -70,14 +66,10 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与学术发展
-
 > [!work-line] 代表性学术著作
 > - **1971 — *International Diffusion of Technology: The Case of Semiconductors* ([[Brookings Institution]])** 系统剖析 1950–1968 年间美、欧、日半导体工业的技术创新与市场结构演进，重点实证揭示国防部基于技术指标发包的采购政策如何使新进入者市场份额从 40% 跃升至 69%，重塑了美国半导体产业的竞争形态。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 
 ---
-
-## 核心思想
 
 > [!claim] 核心学术思想
 > 约翰·E·[[Peter Thiel|蒂尔]]顿（John E. Tilton）的核心洞见在于：传统大企业往往深陷成熟技术[[Paradigm|范式]]的资产与组织锁定（如老牌电子管巨头通用电气、RCA 与雷神迟缓对待晶体管革新）；战后美国联邦国防采购之所以能取得巨大成功，关键在于采购官员坚持根据严格的技术性能指标公开招标并强制要求第二货源（[[Second-Sourcing]]），而不是依据企业的历史声誉或规模发包，从而为高灵活性的新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]）提供了至关重要的初始市场订单，最终彻底打破了既有寡头垄断，孕育出具有全球[[Competitiveness|竞争力]]的[[Innovation Ecosystem|创新生态]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > *Government procurement played a major role in the initial growth of new firms... In 1957, the receiving tube firms accounted for 60% of the semiconductor market, with new non-tube firms holding 40%. By 1966, new firms had captured 69% of the market... Tilton (1971) concludes that the major contribution of defense procurement was aiding new non-tube firms.* [[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 
 ---
-
-## 影响路径与学术贡献
 
 > [!influence-path] 影响路径
 > - **产业经济学与科技政策奠基** [[Peter Thiel|蒂尔]]顿的布鲁金斯专著直接为[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）、[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]], 2011）等学者的实证研究提供了核心历史数据与分析模型。

@@ -69,13 +69,9 @@ created: 2026-05-18
 updated: 2026-10-22
 ---
 
-# Institutional Isomorphism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 处于同一组织[[Champ\|场域]]（organizational field）中的组织，在面对不确定性与外部制度压力时，为何在组织结构、行为策略与治理模式上表现出高度的同质化趋同现象。
 > - **理论问题** 回应组织为何在缺乏技术效率优势或市场竞争强制的情况下仍然趋同的经验谜题，解构传统[[Rational Action Theory\|理性选择理论]]与功能主义的效率[[Determinism\|决定论]]。
 > - **理论类型** 中层组织社会学理论、机制解释模型与制度[[Analytic Framework\|分析框架]]。
@@ -103,8 +99,6 @@ updated: 2026-10-22
 > | 仪式化脱耦（[[Cognitive Decoupling\|decoupling]]） | 机制 | 组织在形式上采纳同构结构以满足外部合法性，但在内部实际运作中与正式规则保持脱离。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜强制型同构源于资源依赖与政治权威施加的法定规制与压力
 > - **前提一** 组织依赖外部政治权威（如国家立法机关、教育行政部门）或垄断性资源提供者获取合法存续资质与核心资源。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 183)]]
@@ -155,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** [[Constructivist Paradigm\|社会建构主义]]，视组织结构为浸润在文化规范、符号仪式与制度环境中的社会产物，反对原子化[[Technical Rationality\|技术理性]][[Determinism\|决定论]]。
 > - **[[Epistemology\|认识论]]** 强调合法性解释优于效率解释，关注制度脚本如何在行动者潜意识中被自然化为[[Doxa\|不言自明]]的公理（Doxa）。
@@ -168,8 +160,6 @@ updated: 2026-10-22
 > - **作为批判视角** 揭示教育改革中形式化达标背后可能存在的“仪式化脱耦”与对弱势实践的遮蔽。
 
 ---
-
-## 制度同构与世界社会理论（World Society Theory）之辨析
 
 > [!contrast-table] 制度同构 vs. [[World Society Theory\|世界社会理论]]
 > | 维度 | 制度同构理论（DiMaggio & Powell） | 世界社会理论（Meyer, Ramirez / [[Stanford School\|斯坦福学派]]） |
@@ -195,8 +185,6 @@ updated: 2026-10-22
 > - **2022 — 跨国[[Corporate Education\|企业教育]]与教育政策深化** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] 揭示 MNCs 企业教育中的同构权威机制与[[Geopolitics|地缘政治]]不对称；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的制度同构与把关机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

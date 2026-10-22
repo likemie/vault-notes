@@ -50,11 +50,7 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# Scientific Misinformation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学虚假信息（Scientific Misinformation）是指在大众传媒、数字社交平台与公共[[Discourse|话语]]空间中传播的，在事实层面不准确、存在实质性误导或与当前同行评议科学共识相违背的信息内容。它不仅包括缺乏恶意动机的错误转述或过度简化，也涵盖带有明确政治、商业或意识形态操纵意图的虚假陈述，在公共卫生决策、疫苗接种、气候变化治理等关键领域对个体健康与现代社会运行造成深远危害。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学虚假信息与相关核心概念辨析
 > | 比较维度 | 科学虚假信息（Scientific Misinformation） | 恶意操纵虚假信息（Disinformation） | [[Scientific Uncertainty\|科学不确定性]]（Scientific Uncertainty） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **治理路径** | 提高公众[[Scientific Literacy\|证据素养]]、加强媒体核查、科研通稿诚信规范与算法透明审计 | 法律监管、平台封禁恶意虚假账号、揭露[[Conflict of Interest in Research\|利益冲突]]与资金链 | 坦诚透明沟通不确定性与证据边界，培育公众理解科学运作方式 |
 
 ---
-
-## 核心要素
 
 > [!feature] 科学虚假信息生成与扩散的四重驱动机制
 > - **算法推荐与注意力经济驱动** 商业社交媒体平台受点击率、用户黏性与广告营收驱动，其推荐算法往往优先放大具有情感冲击力、争议性与惊悚效果的内容，使得伪科学与阴谋论在传播速度与广度上显著压倒严谨平实的科学事实。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 科学虚假信息核心命题归纳
 > | 命题类别 | 核心指向 | 政策与实践含义 | 代表研究 |
 > |---|---|---|---|
@@ -155,16 +145,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 科学虚假信息演变历程
 > - **1985 年 — 单向普及与公众理解科学（PUS）早期** 1985 年英国皇家学会发布《公众理解科学》（Bodmer 报告），当时学界普遍认为公众误解科学是由于“知识匮乏”（[[Deficit Model of Science Communication\|赤字模型]]），治理焦点在于科学家单向传授正确事实。
 > - **2000 年代初 — 争议科技危机与专业新闻中介确立** 面对疯牛病（BSE）、转基因食品（GM）及三联疫苗（[[Mixed Methods Research\|MMR]]）引发的公众信任危机，学界意识到媒体报道对科学争论的巨大塑造力，英国于 2002 年创立[[Science Media Centre\|科学媒体中心]]（SMC），致力于为媒体提供快速权威证据。
 > - **2020 年代中至今 — 数字化算法、信息疫情与科研诚信融合** 面对社交媒体算法茧房、生成式 AI 冲击及后疫情时期的“信息疫情”（Infodemic），皇家学会《面向社会的科学》确立了将反虚假信息从单一的事后辟谣，转向涵盖平台数据审计、高校通稿规制、[[Solutions Journalism\|解决方案新闻]]倡导与科研诚信一体化建设的系统治理[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 58–64)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -176,8 +162,6 @@ updated: 2026-10-22
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, p. 60)]] | 英国代表性成年公众（PAS 2025 调查 / Ipsos 诚信指数） | 全国抽样调查 | 高校科学家社会信任度 | 87% 的受访公众高度信任高校科学家诚实开展研究（信任度持续 >80%） | 远超对传统媒体（~33%）及社交媒体信任 | 证实科学家群体依然拥有极其宝贵的公众信任底座，是破解虚假信息的基石 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 应对科学虚假信息的干预策略争议
 >

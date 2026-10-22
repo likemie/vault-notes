@@ -35,10 +35,6 @@ created: 2026-08-14
 updated: 2026-10-20
 ---
 
-# Double Hermeneutic
-
-## 定义
-
 > [!def] 核心定义
 > 双重诠释（Double Hermeneutic）是吉登斯（Giddens, 1976）提出的社会科学[[Epistemology\|认识论]]概念：由于[[Qualitative Research\|质性研究]]所获得的数据都包裹在社会事件之中，研究者对这些数据的报告与诠释构成一个双重诠释过程，即研究者诠释的正是参与者已经诠释过的世界，再以自己的语言把这种诠释转述给受众。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
@@ -53,8 +49,6 @@ updated: 2026-10-20
 > *Since the data obtained are all couched in "social events", reporting involves a double hermeneutic process (Giddens, 1976) by which the researcher interprets the data from participants who have already interpreted their world, and then relates them to the audience in his/her own words.*
 
 ---
-
-## 核心要素
 
 > [!feature] 双重诠释的构成
 > - **第一层诠释（参与者的诠释）** 参与者已经以自己的概念、意义与立场诠释过身处的情境，研究者面对的是这一层被诠释过的世界。
@@ -82,8 +76,6 @@ updated: 2026-10-20
 连续诠释使文字材料难以覆盖原始事件的全部活动。[[Reflexivity|反身性]]披露能指出解释的位置，却不能自动消除偏见；课堂权力分析因此还应保留善意教学与秩序维护的解释，并说明材料无法裁定的部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 双重诠释 vs 相关概念
 > | 维度 | 双重诠释 | [[Reflexivity\|反身性]] |

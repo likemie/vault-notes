@@ -36,10 +36,6 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Tyler Rationale
-
-## 定义
-
 > [!def] 核心定义
 > Tyler（1949）提出的课程开发四问框架，被认为是现代主义、[[Positivism\|实证主义]]课程观最具影响力的表达。其核心逻辑是：目的先行，经验服务目的，组织服务效率，评估服务验证——一个从目标到结果的线性、闭环控制系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 121–125)]]
 
@@ -53,8 +49,6 @@ updated: 2026-10-22
 > - 不适用于以[[Emergence\|涌现]]（emergence）和过程为导向的课程观——后者认为课程目标应在教学互动中生成而非预先确定。
 
 ---
-
-## 核心要素
 
 > [!quote] Tyler 的课程四问（Tyler, 1949）
 > 1. 学校应追求什么教育目的？（What educational purposes should the school seek to attain?）
@@ -72,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 围绕概念形成的命题
-
 > [!claim] 命题一：Tyler 原理是技术兴趣的课程表达
 > Tyler 原理与[[Jürgen Habermas\|哈贝马斯]]的技术兴趣（预测与控制）共振：将课程呈现为需要"交付"给被动接受者的商品，课程只是消费者社会中另一种商品，其中差异化的[[Cultural Capital\|文化资本]]不可避免。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 141–142)]]
 
@@ -81,8 +73,6 @@ updated: 2026-10-22
 > Doll（1993）批评 Tyler 原理代表了一个封闭的规划和实践系统，与教育的开放过程本质、后现代社会的开放与多样、以及[[Constructivist Paradigm\|建构主义]]心理学的进展这三者根本冲突。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, p. 133)]]
 
 ---
-
-## 争议与批评
 
 > [!critique] Doll（1993）的三重批判
 > - **教育是开放过程** 教育不是填充预定容器，而是创造尚未存在的可能性。Tyler 原理的"目的先行"逻辑预设教育结果可以且应该被预先确定。

@@ -74,11 +74,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Peer-Assisted Learning Strategies
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **同伴辅助学习策略（[[Peer-Supported Learning|peer-assisted learning]] Strategies, PALS）** 是由美国范德堡大学著名特殊教育与学习科学学者琳恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）团队于 1990 年代研发的结构化互惠同伴辅导模式，广泛覆盖学前至高中（K–12）阶段的早期阅读（PALS Reading）与数学（PALS Math）教学。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > - **核心问题导向** 解决传统课堂中后进生缺乏高频个别化反馈、全班教学难以兼顾差异化需求，以及干预响应模型（[[Response to Intervention]], RTI）中缺乏低成本、高保真度实证干预工具的痛点。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过建立班级内结构化、程序化的互惠同伴配对机制，使每名学生在担任辅导员（Coach）与学习者（Reader / Player）的双向互动中获得密集认知参与、即时纠错反馈与[[Metacognition\|元认知]]支架，从而在不增加师资成本的前提下大幅提升基础阅读拼读与数学解题效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
@@ -111,16 +105,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进与实证演进
 > - **1990s — 基础模型构建与先导试验期** Fuchs 夫妇团队针对小学读写与数学学习障碍研发最初的互惠辅导流程，在田纳西州学区开展小样本干[[Pilot Testing\|预测试]]，确立音素[[Decodification\|解码]]与互惠辅导规则。
 > - **2000–2010 — 跨学段拓展与多中心 [[Randomised Controlled Trials\|RCT]] 验证** 获得联邦 OSEP 与 [[Institute of Education Sciences\|IES]] 资助，拓展至学前班（Kindergarten PALS）与高中阶段；开展多项严格的整群随机对照试验（如 McMaster et al., 2005; Sáenz et al., 2005），证实对英语学习者与学困生的显著效果。
 > - **2015–至今 — [[Every Student Succeeds Act\|ESSA]] 循证分级与跨清算所审查分歧** 对接《每个学生都成功法案》（ESSA）[[Evidence Standards\|证据标准]]，被约翰斯·霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）和 [[Evidence for ESSA]] 评定为中等/强证据方案；同时成为国际循证中介机构间文献割裂与标准差异的典型研究案型。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **研发与培训团队（范德堡大学）** 提供标准化的学生练习手册、教师操作指南及结构化培训工作坊。
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > - **高密度反馈闭环** 通过 20–30 分钟的紧凑节律，使每位学童在单位时间内的口头表达与练习频次较传统讲授式课堂提升 5–10 倍。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系与清算中心审查维度
 > - **学业产出指标** 标准化阅读测验（拼读、字词识别、流畅度、段落理解）与标准化数学测验（概念理解、计算题、应用题）。
@@ -153,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议、局限与经验教训
-
 > [!debates] 核心争议（清算中心评级冲突与文献割裂）
 >
 > > [!axis] 文献池割裂与清算所评级冲突
@@ -171,8 +157,6 @@ updated: 2026-10-22
 > - **不适用于替代重度特教介入** PALS 适用于 Tier 1 全班教学与 Tier 2 轻中度干预，对于重度读写障碍学童（Tier 3），仍需特教专业教师开展一对一密集临床干预。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 核心实证研究与清算所评估数据快照
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>

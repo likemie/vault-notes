@@ -71,8 +71,6 @@ created: 2026-09-06
 updated: 2026-10-20
 ---
 
-# Horace Mann
-
 ---
 
 ## 简介
@@ -208,8 +206,6 @@ updated: 2026-10-20
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 将曼 1843 年赴欧考察界定为 19 世纪由主权国家特派官员垄断的危机驱动型借用典范，反衬当代多标度网络借用格局（pp. 341–344）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 克雷明论大众教育与共和政体之基石
 > 自由、大众教育与共和政体之间存在内在统一：一个国家不可能既无知又自由；普遍的大众教育是共和政府赖以稳固立足的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)

@@ -59,11 +59,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Institutional Conversion
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Historical Institutionalism|历史制度主义]]中解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心机制之一；指正式制度规则本身保持不变，但行动者通过主动利用规则内在的模糊性与裁量空间，对规则进行策略性重新部署（Strategic Redeployment），从而改变其实际执行方式，使既有制度服务于全新的目标、职能或政治群体。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 制度转换与相关渐进变迁机制辨析
 > | 机制类型 | 规则形式状态 | 核心驱动力量 | 制度裁量权与[[Veto Possibilities\|否决结构]] | 典型案例表征 |
 > |---|---|---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **[[Institutional Displacement\|制度置换]]**<br>（Displacement） | 旧规则被废除或边缘化 | 改革者直接挑战并引入全新替代体系 | 弱否决可能性 + 低执行裁量权 | 计划经济统购统销被双轨制与市场价格彻底替代 |
 
 ---
-
-## 核心要素
 
 > [!feature] 制度转换的核心特征与构成维度
 > - **正式规则文本的完全沿用（Textual Rule Continuity）** 宪法条款、法定规章或组织章程在字面上保持原样，未经任何正式修法或立宪废立程序。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
@@ -155,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -173,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-## 经验证据与典型案例
-
 > [!evidence-grid] 制度转换的代表性经验案例
 > - **德国企业理事会由工人抗争机构向工厂本土[[Competitiveness|竞争力]]伙伴的转换（企业治理转换典范）** 战后德国《企业宪政法》赋予企业理事会的共同决定权原本用于制衡雇主专权；但在全球化竞争压力下，企业理事会与管理层结成跨阶级同盟，共同签署“工厂本土保障协议”（Standortsicherungsvereinbarungen），通过自愿延长工时或削减浮动工资换取资方不裁员与继续投资承诺，使得这一传统劳工保护机构成功转换为协助企业推行微观成本重组的竞争力工具。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 27–28)]]
 > - **美国宪法州际贸易条款的跨时代司法重塑（宪法功能转换典范）** 美国宪法第 1 条第 8 款跨州贸易条款（Commerce Clause）文本两百年未改，但在新政时期被联邦最高法院重新部署为保障劳工集体谈判与建立最低工资的法理支柱；在 1960 年代民权运动中，进一步被转用为禁止私人旅馆和餐馆实行种族隔离的宪法利器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 21)]]
@@ -184,8 +172,6 @@ updated: 2026-10-22
 > - **教育质量监测工具向市场问责与改制惩戒的功能转换（教育治理工具转换典范）** 安东尼·维格等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 251, 253]]）考证表明，[[National Large-Scale Assessments|国家大规模评估]]（NLSA）最初在立法和行政规章中多以中立的“教学诊断”、“学情监测”与“校本支持”为法定宗旨；但在[[New Public Management|新公共管理]]改革推进中，在未修改测评成文规章的前提下，政策制定者策略性重新部署该工具，将其转用于家长[[School Choice|择校]]排位、[[Performance Pay|绩效工资]]挂钩与学校关停接管等强问责目标。在美国《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|NCLB]]）实践中，学业不达标学校的测验规程甚至被转用于撬动公立学校改制为特许学校（Charter Schools），展现了政策工具在成文规则未改之下的深层制度转换。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与边界辨析
 > 
@@ -199,8 +185,6 @@ updated: 2026-10-22
 > 制度转换的核心在于“规则文本不变 + 解释与执行重定向”；若行动者在既有规则之外新增了补充法条或行政机构，属于[[Institutional Layering|制度层叠]]；若新解释突破了基本法理共识并引发体制分裂，可能转化为公开的[[Institutional Displacement|制度置换]]冲突。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 制度转换机制的实证[[Documentary Analysis|文献分析]]
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

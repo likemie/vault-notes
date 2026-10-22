@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Summer School
-
 > [!metax] [暑期学校 · Summer school](https://www.visiblelearningmetax.com/influences/view/summer_school)
 > 学校 › 学校类型
 >

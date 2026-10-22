@@ -35,11 +35,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# University Inc
-
-## 内容
-
-> [!info|notitle]
+> [!info] 内容
 > University, Inc.: The Corporate Corruption of Higher Education 是 Jennifer Washburn 于 2005 年出版的著作（Basic Books）。该书系统批判了美国大学日益深化的企业化、市场化趋势，认为大学对产业资金的追求正在侵蚀学术研究的独特文化（p.10）。
 
 > [!quote|notitle]

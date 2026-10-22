@@ -69,8 +69,6 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Inquiry Cycle
-
 ---
 
 ## 理论概述
@@ -96,8 +94,6 @@ updated: 2026-10-22
 > *Inquiry learning often follows an inquiry cycle with a distinct number of phases (Pedaste et al., 2015). In each of these phases, the central activity can be initiated by the teacher or by the student, thus creating a continuum ranging from open inquiry to guided inquiry.*
 
 ---
-
-## 理论架构与核心要素
 
 > [!framework-table] 探究循环五大核心阶段解析
 > | 主阶段 | 次级子阶段 | 认知任务与操作目标 | 典型支架支持形式 |
@@ -168,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -178,8 +172,6 @@ updated: 2026-10-22
 > | **元认知反思与认识建构** | 贯穿始终的讨论与反思是破除机械操作、落实认识能动性的核心保障 | 科学论证活动、概念转变教学 | Chinn & Duncan; Pedaste et al. |
 
 ---
-
-## 理论演变与应用
 
 > [!dev-timeline] 理论演变
 > - **1910 年代 — [[John Dewey\|杜威]]五步思维法雏形** 约翰·杜威在《我们怎样思维》（How We Think）中提出[[Reflective Thinking\|反思性思维]]五步法（情境困惑、界定问题、提出假设、推理发展、检验假设），奠定探究阶段论思想源头。

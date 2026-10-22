@@ -38,11 +38,7 @@ created: 2026-07-03
 updated: 2026-10-20
 ---
 
-# New Professionalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 新专业主义（New Professionalism）是描述晚期现代高等教育体系重构的一个批判性概念。它指的是大学传统的、基于专业信任和学术伦理纽带的学术自律与职业承诺（professional commitment），被高度官僚化、标准化且强调外部绩效审计与问责的准契约关系（quasi-contractual relations）所系统性取代的制度现象（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 321–322]]）。
@@ -54,8 +50,6 @@ updated: 2026-10-20
 
 ---
 
-## 理论要素：学术契约化与审计控制
-
 > [!theory-components] 新专业主义的构成维度与管理主义控制
 > - **师生教学关系的去人格化**
 >   传统的[[Mentorship\|导师制]]和学术沟通被标准化课程手册（Course Books）和辅导记录单存档所规训。教学活动被强加了一套统一的流程和文档要求，[[Student-Teacher Relationship\|师生关系]]被转化为一种透明、 managed 且随时可接受外部监控与审计的契约关系（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 321]]）。
@@ -66,8 +60,6 @@ updated: 2026-10-20
 
 ---
 
-## 典型案例研究
-
 > [!case] 案例：英格兰大学治理模式的审计[[Shape-Shifting\|形变]]（[[Argument_Cowen_2009_CE\|Cowen, 2009b]]）
 > - **政策背景**
 >   自 1990 年代起，英国政府引入高等教育质量保障署（QAA）与[[Research Excellence Framework\|研究评估考核]]（RAE/REF），将大学的科研与教学完全置于精密的外部指标评估与 QR 拨款绑定之中。
@@ -75,8 +67,6 @@ updated: 2026-10-20
 >   英格兰大学为了在残酷的市场化竞争中生存，在内部广泛推行“新专业主义”。学校管理层对学者提出了一套极其细致的微观行为指标：在教学上，规定教师每小时辅导必须附带备忘录存档（[[Memos]] on file）；在科研上，博士论文在摘要前必须附带明确的“社会效益影响声明”（impact statement）。师生间原本基于[[Academic Freedom\|学术自由]]与专业伦理的承诺，被新专业主义的官僚绩效考核完全重定义为了准商品合同关系，导致了学术自主权的本质形变（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 320–322]]）。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 高等教育新专业主义与审计文化研究
 > - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 奠定“新专业主义”的高等教育研究基础，分析学术合同关系如何系统取代专业伦理，并侵蚀英国大学的[[Curiosity-Driven Research\|蓝天研究]]。

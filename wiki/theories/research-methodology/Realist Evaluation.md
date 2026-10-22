@@ -83,13 +83,9 @@ created: '2026-06-19'
 updated: 2026-10-22
 ---
 
-# Realist Evaluation
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 社会政策、教育干预及制度变革项目在复杂社会生态系统中的因果实现机制与成效演变。
 > - **理论问题** 批判[[Positivism|实证主义]]将评估等同于单纯测量干预是否有效的扁平化经验规律（休谟恒常相继因果观），回应“什么在什么情境中对谁有效，为什么，以及如何有效”的深层评估需求，以及破解政策变迁定性在激进与渐进之间的假性二元对立。
 > - **理论类型** 科学实在论评估理论、中层解释框架与前沿实验设计[[Paradigm|范式]]。
@@ -105,15 +101,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 英国社会学家[[Ray Pawson|雷·波森]]（Ray Pawson）与犯罪学家尼克·蒂利（Nick Tilley）于 1997 年出版著作 *Realistic Evaluation*，正式提出科学实在论评估理论与背景-机制-结果（Context-Mechanism-Outcome, CMO）[[Analytic Framework|分析框架]]。
 > - **原初问题** 20 世纪末循证政策与社会评估深受[[Positivism|实证主义]]休谟因果观主导，将评估等同于测量干预与产出的表观统计关联（回答“什么有效”），将干预实施过程视作黑箱，无法解释为何在示范点表现优异的项目在推广后大面积失效。
 > - **理论资源与材料** 理论深受[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）[[Critical Realism|批判实在论]]哲学的深层实在论（Depth Realism）与生成性因果观启发，汲取了犯罪预防、社区矫正与社会政策等开放系统的实证评估案例。
 > - **形成路径** 波森与蒂利从“干预方案本身不能直接创造结果，成效取决于受试者在特定背景中对资源的能动推理”这一核心洞见出发，提炼出 CMO 分析模型，奠定了科学实在论评估的基本[[Paradigm|范式]]。
-
-### 理论演进脉络
 
 > [!dev-timeline] 理论版本与扩展
 > - **1997 年 — Pawson & Tilley 创立理论奠基** 出版 *Realistic Evaluation*，正式提出生成性因果观与 C-M-O 核心[[Analytic Framework|分析框架]]。
@@ -139,8 +131,6 @@ updated: 2026-10-22
 > | 观察者位置与时间透镜（Observer Position & Timescale） | 分析维度 | 评估者身处的行政层级与所选取的历史观察跨度，决定了对政策变迁属性（激进、渐进或延续）的实质定性（[[Argument_VanDerHeijden_2011_Politics\|Van der Heijden, 2011, p. 10]]）。 |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一｜[[Causality|因果关系]]源于潜在机制在特定背景中的激活而非表观经验相继（生成性因果与 CMO 配置）
 > **解释** 科学实在论坚决批判休谟经验相继观与[[Positivism|实证主义]]将因果等同于表观统计相关性（X 导致 Y），主张因果关系在于客观实在内部蕴含的深层因果力量。在开放的社会与教育生态系统中，因果机制通常处于休眠或潜在状态，必须在适宜的具体情境（Context）中才会被激活并生成特定结果（Outcome），即 \(C + M \rightarrow O\)（Pawson & Tilley, 1997；[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 8]]；[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 165]]）。
@@ -192,8 +182,6 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-stance] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** 深度实在论（Depth Realism）。现实世界是分层、多维且复杂的；结构与因果机制真实存在，其因果力量独立于研究者的经验观察。
 > - **[[Epistemology|认识论]]** [[Interpretive Paradigm|反实证主义]][[Empiricism|经验主义]]。知识具有概念中介性；[[Causality|因果关系]]不等于表观统计相关，而是机制在开放生态中的生成性[[Emergence|涌现]]。
@@ -226,8 +214,6 @@ updated: 2026-10-22
 
 ---
 
-## 典型案例
-
 > [!case] 从黑箱因果走向现实主义试验：[[Education Endowment Foundation|EEF]] 复杂干预的多臂析因与机制深耕（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）
 > - **理论黑箱的实践挑战** 传统双臂[[Randomised Controlled Trials|随机对照试验]]仅能汇报最终因果[[Effect Size|效应量]]，当试验出现零效应时，决策者无法判断究竟是干预理论根本错误，还是基层在培训、沟通或技术操作上发生了实施走样（Craig et al., 2008）。
 > - **多臂[[Factorial Design|析因设计]]的机制突破** 为打开机制黑箱，英国教育捐赠基金会（EEF）积极推进现实主义试验设计：
@@ -244,8 +230,6 @@ updated: 2026-10-22
 > - **常见误用** 将实在论评估误解为排斥量化实验与统计控制；或者将 CMO 简化为孤立静态的分类表格，割裂了机制基于情境生成的动态因果链条；或者脱离观察者制度位置对政策变迁妄下绝对化的激进或渐进断言。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与方法张力
 > 
@@ -268,8 +252,6 @@ updated: 2026-10-22
 > > - **[[Argument_VanDerHeijden_2011_Politics|Van der Heijden（2011, p. 10）]]** 提出实在论政策评估的核心是“对谁而言、在何种情境下构成了何种变迁”，揭示出激进与渐进往往取决于评估者自身的制度位置与考察时间尺度，不存在脱离主体的绝对客观判词。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关研究与应用索引
 > - [[Argument_Wrigley_2018_BERJ|Wrigley, 2018]] — 运用实在论评估的因果机制观，深度解构了 [[Education Endowment Foundation|EEF]] 早期[[Teaching Assistant|教学助理]]与拼读项目因去情境化聚合导致的政策误导。

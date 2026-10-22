@@ -77,11 +77,7 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-# Epistemological Vigilance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology\|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production\|知识生产]]、信息接收与[[Man-Computer Symbiosis|人机协同]]交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method\|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与教育人工智能中，它体现为学习者抵御生成式算法误导、维持“[[Epistemic Friction\|认识论摩擦]]”以防范有害[[Cognitive Offloading\|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
@@ -113,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Epistemology\|认识论]]警觉在跨学科语境中的[[Construct\|构念]]辨析
 > | 比较维度 | 社会学反思方法论语境 | 认知与演化科学语境 | [[Generative Artificial Intelligence\|生成式 AI]] 与人机学习科学语境 |
 > |---|---|---|---|
@@ -126,9 +120,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **日常语言与常识前建构的持续解构** 警惕科学术语对生活日常词汇（如“领导力”、“改进”、“[[Effective Teaching\|有效教学]]”）的无反思套用，揭示这些概念在掩盖权力关系的同时制造的“科学感假象”。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, pp. 322–324)]]
 > - **内容评估维度（Content Evaluation）** 针对算法生成内容的似真性、因果机制完整性、片面性与语境适切性进行严谨检验，排查模型遗漏关键机制或虚构论据的缺陷。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 4–5)]]
 > - **二手[[Source Evaluation|信源评估]]维度（Source Evaluation）** 追问外部输出与算法推论背后的文献依据、权威共识与专业资质，辨识信息中介的利益动机与[[Reliability|可靠性]]。[[Argument_Han_Gutierez_2026_IJSE\|(Sperber et al., 2010; Han & Gutierez, 2026, p. 5)]]
@@ -184,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -203,8 +193,6 @@ updated: 2026-10-22
 > - **2026 — 科学教育与[[Man-Computer Symbiosis|人机协同]]解释实践** [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 将认识论警觉框架落地于初中科学人机协同解释课堂，提出“内容—信源—接收者”三维评估模型，实证揭示显性学科标准与反思提示语双轨支架如何驱动学生对 AI 多模态生成物展开持续审问与迭代修正。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -233,8 +221,6 @@ updated: 2026-10-22
 > - **高度依赖外部支架调节** 在教育情境中，孤立地要求学生自发保持警觉往往收效甚微，必须依赖课程活动系统中的显性评价规则与过程性反思规程作为制度性保障。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–12)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

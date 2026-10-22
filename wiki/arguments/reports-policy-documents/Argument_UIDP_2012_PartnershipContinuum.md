@@ -60,7 +60,6 @@ citation_aliases:
   - "Southerton et al., 2012"
   - "Southerton et al. (2012)"
 ---
-# Argument_UIDP_2012_PartnershipContinuum
 
 ---
 
@@ -83,9 +82,7 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
-> [!info|notitle]
+> [!info] 研究方法
 > - 类型：实践导向的框架开发报告，非学术实证研究
 > - 方法：基于 [[University Industry Demonstration Partnership\|UIDP]] 项目工作组的集体经验和多次讨论（电话会议、邮件交流、面对面会议）；在 UIDP 成员社区的多次展示和反馈中迭代完善
 > - 起点：工作组成员 Wayne Johnson 此前对[[University-Industry Collaboration\|产学合作]]形式的初步分类（Figure 1）提供了项目的出发点(p.4)
@@ -298,9 +295,7 @@ citation_aliases:
 
 ---
 
-#### 跨越五个领域的终极形态：多面关系
-
-> [!note|notitle]
+> [!note] 跨越五个领域的终极形态：多面关系
 > 当大学与企业的合作跨越了上述全部五个领域——而非仅集中在其中一两个——并且每个领域的互动都达到了相当的深度（通常为 Level 2 或 Level 3），合作关系就达到了报告所描述的终极形态：多面关系（Multi-Faceted Relationships）。
 
 多面关系的独特之处不在于合作规模——单个领域的 Level 3 合作（如一座冠名研究大楼）在金额上可能远超五个领域的组合——而在于**风险分散和相互增强**。当合作关系仅依赖于单一领域（例如唯一的赞助研究协议），一旦该领域出现波动（项目结束、研究人员离职、预算削减），整个合作关系就面临断裂。而当合作关系分布在五个领域时，一个领域的暂时困难可以由其他领域的关系维系——学生招聘仍在继续、设备共享仍在运作、咨询委员会仍在开会——合作关系的"韧性"远高于任何单一维度的合作。
@@ -353,9 +348,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "我们太经常地感觉到，个别大学和企业倾向于某一种特定的伙伴关系形式，并且有时对其他有价值的替代伙伴关系策略视而不见——也许是因为缺乏对这些替代形式的存在和他人成功实施的经验的意识。"（"Too often we felt that individual universities and companies were biased toward a particular preferred form of partnership and sometimes blinded to valuable alternative partnership strategies, perhaps out of a lack of awareness of their existence and successful implementation by others."）(p.5)
 
 > [!quote|notitle]

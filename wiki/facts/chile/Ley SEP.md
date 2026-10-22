@@ -50,11 +50,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Ley SEP
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2008 年由智利国民议会审议通过、中左翼巴切莱特政府颁布实施（第 20.248 号公法）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
@@ -63,8 +59,6 @@ updated: 2026-10-22
 > - **制度位置** 在维持新自由主义教育券体系基本盘的前提下，通过注入累进财政补偿并建立严格的[[Academic Achievement|学业表现]]达标协议，使国家从单纯的财政买单者转向具有深度规制权的监督者。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257–258)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 优先学校补贴法通过向接收低收入弱势群体的办学机构提供额外累进生均补贴，将国家财政资源倾斜与严格的 [[SIMCE]] 测验表现改善协议捆绑，对未达标学校施行资金托管与关停退出制裁。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
@@ -82,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2006 智利“企鹅革命”（Revolución Pingüina）爆发大规模中学生示威，抗议教育不公与市场化恶果，促使各党派联合组建总统顾问委员会启动修法动议。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 261)]]
 > - 2008 智利国会正式批准颁布《优先学校补贴法》（Ley 20.248），率先在学前班至小学四年级实施。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
@@ -91,8 +83,6 @@ updated: 2026-10-22
 > - 2015 补贴范围全面覆盖中等教育阶段，同时智利通过《包容性教育法》（Ley de Inclusión Escolar），彻底禁止所有接受 SEP 补贴的学校收取补缴学费与筛选学生。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与监管主体** 智利教育部（MINEDUC）与教育总督学署（Superintendencia de Educación），负责资金发放审核与合规巡查。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - **阶梯式硬性制裁** 连续四年被划入最低等级且未达到基础学业标准的学校，丧失自主支配教育资源的权利，直至由教育质量局撤销办学许可并予以关闭清退。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **财政资源重分配度** 优先处境学生获得的生均经常性经费提升幅度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
@@ -125,8 +113,6 @@ updated: 2026-10-22
 > - **4** 年连续低绩效未达标则触发强制关停或撤销许可机制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

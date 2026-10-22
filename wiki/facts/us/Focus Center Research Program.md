@@ -65,11 +65,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Focus Center Research Program
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **焦点研究中心计划（Focus Center Research Program, FCRP / FRC）** 是 1998 年由美国半导体行业协会（Semiconductor Industry Association, SIA）、[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）及 [[Sematech]] 联合发起设立，并委托[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）下属微电子先进研究联盟（MARCO）统筹运营的国家级长周期前竞争基础科研与工程高阶人才培养计划。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 > - **核心问题导向** 回应 1990 年代后期因冷战结束国防部微电子基础研发经费骤降，以及[[Corporate R&D Labs|企业中央实验室]]（如[[Bell Labs|贝尔实验室]]、IBM、GE）大幅收缩长周期基础科学研究引发的“国家半导体科学基石塌陷危机”，着力解决国家半导体技术路线图（NTRS/ITRS）10 至 15 年后的物理极限制约。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 122–123, 130)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 计划假设单纯依靠企业个体的短期应用研发或单一高校的离散探索无法攻克微电子底层物理极限，唯有通过产业界与国防部联合在大学设立聚焦特定技术断层（Design and Test, Interconnect, Materials & Structures, Circuits）的跨学科焦点中心，在完全开放发表与知识产权非独占共享环境下开展前竞争探索，才能维系国家微电子基础创新的领导力并保障高层次博士人才供给。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
@@ -112,16 +106,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1998–2002 — 首期启动与首批焦点中心建设** MARCO / [[Semiconductor Research Corporation|SRC]] 正式挂牌，在佐治亚理工学院与加州大学伯克利分校设立首批两个焦点中心（互连中心与千兆尺度系统设计中心），确立产学协同规程。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 > - **2003–2012 — 体系扩展与后 CMOS 新器件探索** 增设材料与结构、纳米技术及自旋电子学焦点中心，覆盖全美 30 余所[[Research Universities|研究型大学]]的数百名教授与上千名博士生。
 > - **2013–至今 — 演化为 STARnet、JUMP 与对接《[[CHIPS and Science Act|芯片法案]]》** 2013 年 FCRP 升级为半导体技术先进研究网络（STARnet），2018 年进一步演进为微电子联合大学计划（JUMP / [[Joint University Microelectronics Program 2.0|JUMP 2.0]]），并成为 2022 年《芯片与科学法案》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）大学研究网络的基础母体。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **战略指导与出资方（SIA, [[Sematech]], [[DARPA]]）** 联合规划战略需求，匹配公共与产业资助资金，提供长周期研发预算保障。
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > - **非独占免版税知识产权池** 所有受资助产出的专利归属大学，但所有参与出资的企业均享有非独占、不可撤销的免费使用权，有效化解了知识产权纠纷。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **学科前沿产出指标** 国际微电子顶会（IEDM, ISSCC, DAC）论文发表数、顶级学术期刊引用频次、颠覆性器件发明专利数。
@@ -154,8 +142,6 @@ updated: 2026-10-22
 > - **30+** （所） 深度协同参与的全美顶尖[[Research Universities|研究型大学]]网络。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

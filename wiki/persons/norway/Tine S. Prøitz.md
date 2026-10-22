@@ -71,11 +71,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Tine S. Prøitz
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 挪威教育科学家；东南挪威大学（University of South-Eastern Norway, USN）教育、人文与体育学院教育科学系正教授；北欧教育政策与实践[[Evaluation Research\|评估研究]]中心核心领军学者。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2005–2015 年 — 学习成果界定与课程标准政策博弈期** 审视全球[[New Public Management\|新公共管理]]下将“预期学习产出”作为教育质保核心工具的利弊，揭示国家宏观标准在地方学校落地时的重释与协商动态。
 >   - **代表著作** *Learning Outcomes as a Key Concept in Policy Reforms: A Comparative Perspective* (2014)。
@@ -115,9 +109,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 长期以来政策界将研究与实践的脱节简单描述为“需要被填补的鸿沟”，这一浅薄隐喻不仅无法解决问题，反而导致了强制抹平差异的同化迷思。大学研究者与中小学教师在思维语言、行动节奏与价值取向上天然不同，正是这种固有差异构成了彼此独特的专业价值。成熟的伙伴关系决不能强求教师成为兼职科学家，而是必须在持续平等的交流中构建拥有共同语言的“[[Third Space Discourse\|第三空间话语]]”（Third Space [[Discourse]]），在保障实践者主体权利的同时，由学者严格坚守学科严谨性以防范协作退化为纯事务性组织开发。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
 
 > [!citation-card] 超越鸿沟隐喻并构建第三空间话语
@@ -132,9 +124,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将后殖民与文化社会学中的“[[Third Space Discourse\|第三空间]]”理论开创性迁移至教育政策与 [[Research-Practice Partnership\|RPP]] 领域，打破了传统的线性知识输送模型与天真的同化模型。
 > - **方法路径** 开发了针对国家级大规模实践伙伴关系的质性[[Discourse|话语]]追踪与组织机制测绘方法，为衡量跨界协作生态成熟度提供了[[Operationalization\|操作化]]准则。
 > - **政策路径** 评估直接影响了瑞典政府关于将 ULF 试点从过渡期正式转为国家永久性教育法制基础设施的重大决议。
@@ -153,8 +143,6 @@ updated: 2026-10-22
 > - **学术机构** 东南挪威大学（University of South-Eastern Norway, USN） — 长期学术大本营与北欧政策[[Evaluation Research\|评估研究]]枢纽。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -76,11 +76,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Big Science
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **大科学（Big Science）** 是指二战及冷战时期兴起的一种由国家战略意志与安全需求主导的科研组织[[Paradigm|范式]]；其核心特征在于依赖巨额国家财政预算、大规模集中式层级化国家实验室、高度跨学科工程协同以及权威型科技主管挂帅，针对界定清晰的突破性物理与工程技术极限（如原子能利用、雷达开发与阿波罗登月）开展集中攻关。这一概念最早由橡树岭国家实验室长期主任阿尔温·温伯格（Alvin Weinberg, 1961, 1967）系统界定并反思，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）引入使命导向政策演进分析。进入 21 世纪，大科学从传统的单体物理巨型装置拓展为包含百亿亿次超算中心、闭环自主机器人实验室、中等规模[[Focused Research Organization|聚焦研究组织]]（FRO）与大规模前竞争产学研联合体的分布式超级创新基础设施。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 793–795)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 21–26, 61–63)]]
@@ -111,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 传统小科学、冷战大科学与智能时代大[[Scientific Paradigm|科学范式]]全方位对比
 >
 > | 治理维度 | 传统学术小科学（Little Science） | 冷战大科学（Cold War Big Science） | 智能时代大科学（AI-Era Big Science & FROs） |
@@ -124,8 +118,6 @@ updated: 2026-10-22
 > | **知识产权与产出** | 学术论文发表与专著出版。 | 国防保密专利与国家战略装备。 | 公共基座大模型、开放代码基准数据集与工业级可购买使能工具。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代大[[Scientific Paradigm|科学范式]]的四大组织支柱
 > - **超大规模公共财政与基础设施（Macro-Financial Mobilisation & Physical Infrastructure）** 集中配置数十亿美元财政资金，建设单体大学或企业无力承担的巨型实验装置（如同步辐射光源、散裂中子源、百亿亿次超算）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
@@ -198,8 +190,6 @@ updated: 2026-10-22
 > **中等规模工程科学、[[Focused Research Organization|聚焦研究组织]]与创世纪平台** 当代前沿突破日益发生在兼具[[Grand Theory|宏大理论]]雄心与现实重大应用的[[Pasteur's Quadrant|巴斯德象限]]。单体大学课题组受制于研究生轮转无法维持长期工程攻关团队，商业公司则因公共品属性缺乏独占动力，导致耗资数千万美元的中等规模工程科学（如[[Protein Data Bank|蛋白质数据库]]维护、高通量[[Mind Mapping|脑图]]谱绘制、开源科学 AI 模型训练）出现制度空白。大科学范式必须发生结构性扩展：一方面依托[[Focused Research Organization|聚焦研究组织]]（FRO）与 NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF X-Labs|X-Labs]] 建立全职工程团队攻克共性工程瓶颈；另一方面依托[[Genesis Mission|创世纪计划]]（Genesis Mission）将 17 所国家实验室算力与仪器整合成“美国科学与安全平台”（ASSP），并继承 [[EUV LLC]] 与 [[Human Genome Project|HGP]] 的前竞争联合体经验，将大科学从封闭武器研制升级为全社会可调用的公共技术底座。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21–26, 43–45, 61–63)]]
 
 ---
-
-## 概念演变与组织形态矩阵
 
 > [!dual-header] 表1　大科学演化谱系中不同科研组织形态的活动适配度矩阵（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 25]]）
 > | 活动类型 \ 机构形态 | [[Research Universities\|研究型大学]]（小科学） | 企业实验室 | 联邦国家实验室（传统大科学） | 新型聚焦研究组织（[[Focused Research Organization\|FRO]]） |

@@ -51,11 +51,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Post-Compulsory Education Project
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 发起背景** 1970–1975 年，由伦敦大学国王学院（King's College London）比较教育讲座教授[[Edmund King|埃德蒙·金]]（Edmund King）领衔主持，英国社会科学研究理事会（SSRC）资助。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 95)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 事件经过
 > - **1970–1971 — 研究框架设计与跨国指标构建** [[Edmund King|埃德蒙·金]]与团队成员（C. H. Moor, J. A. Mundy 等）制定统一的跨国比较维度，重点界定后义务教育的“三维结构”：学术型学术路径、全面技术/职业路径与边工作边培训的在职学徒路径。
 > - **1972–1973 — 五国多中心田野[[Fieldwork|实地调查]]** 深入英、法、德、意、瑞五国的数十所不同类型学校与培训中心，发放数千份学生与教师调查[[Questionnaire|问卷]]，并对教育行政官员、雇主代表及工会领袖进行[[In-depth Interview|深度访谈]]。
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > - **1975 — 第二阶段政策预见出版** 出版《后义务教育卷二：未来之路》（*Post-Compulsory Education II: The Way Ahead*, Sage Publications），提出改革西欧 16–19 岁阶段教育的综合性政策建议。
 
 ---
-
-## 核心发现与学术建树
 
 > [!feature] 核心学术发现
 > - **“新青年群体”的[[Heterogeneity|异质性]]与认同危机** 大量非传统学术背景家庭的青年进入后义务教育，传统精英学术体系与僵化的职业培训难以回应其多样化人生规划与社会认同需求。

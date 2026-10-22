@@ -25,8 +25,6 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Narrative Thought Types
-
 > [!info] 定义
 > Tarshis (1982) 提出，写作者应当意识到文本中不同尺度的叙事思想各有其特定功能和目的。他将叙事思想分为四种类型，形成一个从宏观到微观、从内容到导航的功能层级（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 

@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Pankaj Mishra
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 印度著名散文家、小说家、公共知识分子与文化批评家，皇家文学学会会员。
@@ -66,16 +62,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与批评视角
 > - **2012 — *From the Ruins of Empire*** 梳理梁启超、阿富汗尼、泰戈尔等非西方先驱思想家对西方帝国主义的批判与现代性求索。
 > - **2017 — *Age of Anger*** 借助[[Jean-Jacques Rousseau|卢梭]]对伏尔泰商战社会的批判，揭示全球现代化失衡与民粹愤怒的深层心理机制。
 > - **2021 — *Reorientations of [[Edward Said]]*** 剖析《[[Orientalism|东方主义]]》如何被西方高等教育吸纳并建制化，指出欧美学术界将后殖民批判演变为特定精英阶层的职业晋升工具，同时忽视了非西方本土历史中存在的等级支配[[Discourse|话语]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 90–93)]]
 
 ---
-
-## 学术评价与理论争议
 
 > [!critique] 批判视角的双重透视
 > - **双向批判的独立品格** 米什拉既不盲从西方中心主义现代化叙事，也不陷入狭隘的反西方原教旨主义或学术建制化套话；他对欧美大学后殖民“批评工业”的揭露，为重新评估20世纪后半叶人文批判思潮提供了来自非西方知识分子的冷静视角。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 90–93)]]

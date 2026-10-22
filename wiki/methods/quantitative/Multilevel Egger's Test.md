@@ -50,11 +50,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Multilevel Egger's Test
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Multilevel Egger's Test\|多水平艾格检验]]（Multilevel [[Egger Regression Test\|Egger's Test]]，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis\|二阶元分析]]）的[[Meta-analysis\|元分析]]中检验 **[[Small Study Effects\|小研究效应]]（Small-Study Effects）** 与[[Publication Bias\|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error\|标准误]]作为调节[[Variable\|变量]]纳入三水平[[Random-Effects Model\|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size\|效应量]]。
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位：解决的核心问题
-
 > [!contrast-table] 传统单水平 Egger 检验 vs [[Funnel Plot\|漏斗图]][[Trim and Fill Method\|剪补法]] vs 多水平 Egger 检验
 > | 比较维度 | 传统 Egger 检验（1997） | 漏斗图剪补法（Trim and Fill） | 多水平 Egger 检验（Rodgers & Pustejovsky, 2021） |
 > |---|---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心统计模型与数学公式
-
 > [!formula-set]- 多水平[[Egger Regression Test\|艾格检验]]与截距校正流程
 > ```mermaid
 > flowchart LR
@@ -100,8 +92,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-### 1. 多水平艾格回归模型公式
 
 > [!formula-step] 公式步骤　多水平艾格回归方程
 > $$z_{ij} = \beta_0 + \beta_{\text{SE}} \sqrt{V_{ij}} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
@@ -119,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-### 2. 假设检验与偏倚校正判定
-
 > [!formula-step] 公式步骤　偏倚判定与截距还原
 > $$\text{偏倚检验：} H_0: \beta_{\text{SE}} = 0 \quad \text{vs} \quad H_1: \beta_{\text{SE}} \neq 0$$
 > $$\text{校正后效应量：} r_{\text{adjusted}} = \tanh(\hat{\beta}_0) = \frac{\exp(2\hat{\beta}_0) - 1}{\exp(2\hat{\beta}_0) + 1}$$
@@ -130,8 +118,6 @@ updated: 2026-10-22
 > 2. **效应量校正** 截距 $\hat{\beta}_0$ 代表消除了抽样标准误影响后的渐近总体效应；通过逆双曲正切函数 $\tanh(\hat{\beta}_0)$ 还原为相关系数 $r_{\text{adjusted}}$（例如原始加权平均为 $r = 0.22$，偏倚校正后为 $r = 0.17$，95% CI $[0.11, 0.22]$）。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] R 语言环境（metafor 与 clubSandwich）实现多水平[[Egger Regression Test\|艾格检验]]
 > ```R
@@ -163,8 +149,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用判断
 > - **强烈推荐** 包含嵌套结构（多重结果测量、多亚组比较）的一阶[[Meta-analysis\|元分析]]，以及所有包含多个一阶元分析的[[Meta-meta-analysis\|二阶元分析]]项目。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]

@@ -56,11 +56,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-# Phenomenon-Based Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 现象本位学习（Phenomenon-based learning, PhBL）是一种以真实或抽象的现象为学习起点的跨学科教学取向。它要求学生围绕复杂现象调动不同学科的知识，同时保持学科自身的深度，不应简单取消学科边界。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教学取向辨析
 > | 维度 | PhBL（现象本位学习） | [[Problem-Based Learning\|PBL（问题导向学习）]] | 能力本位课程 |
 > |------|--------|----------------|----------------|
@@ -104,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **以现象为学习起点** 学习从可触摸或不可触摸的生活世界真实或抽象现象开始（如可持续生态、地方历史遗存等），引导学生追随人类好奇心的历史足迹建立连接。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 3–4]]
 > - **跨学科整合与学科深度协同** 反对学科的自我封闭，但强调每门科目具有其独特的理论结构与[[Ontology\|本体论]]深度，跨学科探索应当是学科深度的横向协同，而非学科逻辑的消解。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 3–5]]
 > - **生活世界与经验体验的嵌入性** 强调学习主题应直接关联学生的邻近环境，释放[[Reflexivity\|反思性]]主体能动性（Agency），使[[Knowledge Building Theory|知识建构]]基于活泼的日常经验。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -173,8 +163,6 @@ updated: 2026-10-22
 > - **2018年–2023年 — 教师教育中的可持续发展实验** 赫尔辛基大学运行 SveaSus（可持续世界遗产现象本位学习）项目，在芬兰堡（Suomenlinna）世界遗产地展开具身学习、艺术本位及多语教学的 PhBL 实证探究。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 1]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 政策与舆论之争
 > 

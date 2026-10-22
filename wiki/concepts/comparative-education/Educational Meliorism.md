@@ -101,8 +101,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Educational Meliorism
-
 ---
 
 ## 定义
@@ -324,8 +322,6 @@ updated: 2026-10-22
 > *Driven by meliorism and urgent pragmatism, international agencies act as applied experts who must transform complex scholarly ideas into actionable solutions within compressed delivery cycles, resulting in radical simplification and decontextualized universal recipes.*
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

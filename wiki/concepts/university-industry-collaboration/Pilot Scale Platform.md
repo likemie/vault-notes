@@ -92,11 +92,7 @@ created: 2026-06-05
 updated: 2026-10-22
 ---
 
-# Pilot Scale Platform
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **中试验证平台（Pilot Scale Platform / Pilot Line，亦称中试基地或中试制造平台）** 是介于大学与科研机构实验室原理验证（[[Technology Readiness Level|TRL]] 1–3）与工业界商业化规模量产（TRL 8–9）之间的关键共性技术基础设施。
@@ -129,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Research Translation|技术转化]]多阶段试验载体辨析
 > | 维度 | 概念验证中心（PoP） | 中试验证平台（Pilot Scale Platform） | 商业量产线（Commercial Line） |
 > |:---|:---|:---|:---|
@@ -142,9 +136,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **工业级接近真实环境的工艺试验线** 配备全套前沿工业母机与测试仪表，具备完整的全流程流片、原型加工与动力试车能力。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–39)]]
 > - **分布式 300mm 先进制程研发基线设施** 布局涵盖极紫外（EUV）光刻、前沿硅基 CMOS、先进三维封装（[[National Advanced Packaging Manufacturing Program|NAPMP]]）及宽禁带半导体在内的国家级中试基线网络，避免单一地点投资过度集中。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10)]]
 > - **中立客观的第三方评估与认证体系** 制定全行业通用的评估规范（如[[Cost of Ownership|所有权成本]] COO 模型、[[Statistical Process Control|统计过程控制]] SPC 标准），为下游用户采购提供无利益偏见的成熟度报告。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
@@ -185,10 +177,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] 中试平台核心命题归纳
 > | 命题类型 | 核心指向 | 代表学者 / 机构 | 实证情境 |
@@ -262,8 +250,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 中试平台演变历程
 > - **1970s — 日本[[Ministry of International Trade and Industry|通产省]]共同研究所中试线模式** 日本在[[VLSI Project|超大规模集成电路项目]]中设立联合研究所共同中试线，开创了竞争对手共用中间试验设施的先河。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 726)]]
 > - **1980s–1990s — [[Sematech]] 奥斯汀中试线与欧洲 IMEC 模式确立** Sematech 投资数亿美元建立全流程奥斯汀中试厂，确立了以设备成熟度认证（[[Cost of Ownership|COO]]/[[Statistical Process Control|SPC]]）为核心的现代中试平台[[Paradigm|范式]]；同期比利时 IMEC 发展为面向全球开放的独立微电子中试中介。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
@@ -273,8 +259,6 @@ updated: 2026-10-22
 > - **2026 年 — 共享试验场、微纳洁净室与 GMP 中试平台全面开放** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），推动能源部用户设施与 NNCI 开放准入、提供小时级计费共享洁净室与共建 GMP 级中试制造平台，构筑覆盖商业航天、微电子与生物医药的现代化国家深科技中试底座。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理张力
 >
@@ -291,8 +275,6 @@ updated: 2026-10-22
 > 中试平台并非万能灵药。[[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]的 GCA 光刻机倒闭案例表明，对于技术代差过大、高度依赖百亿美元级连续资本再投入的重资产严重断代领域，单纯依靠中试平台的参数改良与小批量测试无法弥补底层技术与规模订单的致命缺陷。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 中试平台关键实证结果
 >

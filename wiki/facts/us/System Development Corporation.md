@@ -53,11 +53,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# System Development Corporation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 系统开发公司（System Development Corporation，简称 SDC）于 1956/1957 年由兰德公司（RAND Corporation）系统研究部独立分拆设立，是全球历史上第一家专业软件工程机构与美国空军核心非营利国防承包商。该机构受托专门承担[[Semi-Automatic Ground Environment|半自动地面防空系统]]（Semi-Automatic Ground Environment, [[Sage]]）极其庞大的实时计算机软件编写与维护任务；在 1950 年代全美大学尚未设立任何计算机科学（CS）与软件工程专业的历史空白期，SDC 建立了世界上最早的软件工程系统培训流水线，为全美计算机工业培养并输送了第一代数以千计的专业程序员和系统分析师，被学界公认为战后美国软件与信息产业最重要的“人才母体”与“黄埔军校”。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 19)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 177–179)]]
@@ -70,16 +66,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1950年代中期 — 创设与 [[Sage]] 软件攻坚** 伴随 SAGE 防空计算机（AN/FSQ-7）研制，软件工作量急剧膨胀，兰德公司原有人力无法应对；1956/1957 年系统开发公司正式分拆独立，汇聚数百名数学家与工程师，编写出人类历史上首个由数十万行汇编代码构成的庞大实时操作系统。
 > - **1960年代 — 软件工程规范确立与全美人才外溢** 建立起严格的代码审查、模块化设计、回归测试与文档编写例规，开创了现代软件工程学科的雏形；同时开办高强度编程培训班，为全美培训了数千名程序员；随着 SAGE 项目进入平稳期，大批 SDC 资深骨干跳槽至 IBM、通用电气及新兴商用软件公司，直接孕育了美国商用软件产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 19)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 178)]]
 > - **1970年代–1980年代 — 商业化转型与兼并重组** 1969 年脱离空军专属承包商地位、改组为营利性软件公司，广泛参与联邦政府民用[[Informationalization|信息化]]与商业数据库开发；1980 年整体并入宝来公司（Burroughs），后随宝来与斯佩里合并成为优利系统（Unisys）的一部分。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（受托人董事会）** 由空军高级将领、兰德公司学者与顶级高校计算机先驱联合组成，负责统筹国家安全软件战略方向。
@@ -91,8 +83,6 @@ updated: 2026-10-22
 > - **大规模模块化协同编写** 将数十万行代码拆分为数十个独立功能模块，制定严格的接口标准（API 雏形）与中央主干合并规范。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Sage]] 空中防御实时操作系统与应用软件** 编写出人类首套支撑雷达自动追踪、拦截机引导与高炮指挥的超大规模实时多任务处理程序（包含数十万行汇编指令）。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 177–179)]]
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > *The SAGE program led to the creation of the System Development Corporation (SDC)... SDC trained thousands of programmers and systems analysts when no formal academic programs existed, providing a critical pool of human capital that subsequently diffused throughout the commercial computer and software industries.* [[Argument_Schnee_1978_RP|(Schnee, 1978, p. 19)]]
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
 > - **充当美国软件工业的“程序员大学”** SDC 在承担 [[Sage]] 软件开发过程中，扮演了全美最早也最具规模的程序员大学角色，为原本缺乏正规计算机高等教育的美国系统性培育了数百至数千名掌握复杂系统架构的先驱软件人才，构筑了战后全美软件工业的基石。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]

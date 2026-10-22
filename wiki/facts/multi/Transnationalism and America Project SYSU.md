@@ -35,8 +35,6 @@ created: '2026-05-16'
 updated: 2026-10-22
 ---
 
-# Transnationalism and America Project SYSU
-
 > [!info] 背景
 > "跨国主义与美国"（Transnationalism and America）项目由岭南基金会（Lingnan Foundation）资助，在中山大学（Sun Yat-sen University, SYSU）广州校区实施，为期三年。岭南基金会自 19 世纪末中山大学前身岭南学堂（Canton Christian College）创立以来即参与资助([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.10]])。
 

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Summarization Strategies
-
 > [!metax] [概括总结 · Summarizing](https://www.visiblelearningmetax.com/influences/view/summarizing)
 > 学生学习策略 › 学习策略
 >

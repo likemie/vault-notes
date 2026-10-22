@@ -47,11 +47,7 @@ created: '2026-05-19'
 updated: 2026-10-22
 ---
 
-# Online Self-Assessment
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 在线自评工具（Online Self-Assessments，简称 OSA，德语中也称 Online Study Choice Checks）是德国大学在过去二十年间广泛采用的一类数字化咨询工具，用于在潜在学生选择专业时提供自我评估和匹配建议。OSA 通常包含关于兴趣领域、先前经验和学习期望的[[Questionnaire\|问卷]]，以及认知技能测试([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.218]])。
 
 OSA 的设计目的不是筛选淘汰，而是通过促进"有根据的自我选择"（well-founded self-selection）来改善学生与专业之间的匹配(Thiele & Kauffeld, 2019a, p.275; [[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.223]])。在部分大学，完成 OSA 是可选步骤；在另一些大学，它是入学的先决条件([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.218]])。
@@ -100,9 +96,7 @@ OSA 的运作依赖三个相互衔接的数据过程([[Argument_Thompson_2022_Pr
 
 在 Deleuze（1992）所描述的[[Societies of Control|控制社会]]逻辑中，OSA 体现了从一次性考试向持续调制的转变：权力不再只在考试节点上施加，而是在入学之前就开始运作，对"问题学生"进行预判和预管理——这是一种先发制人的治理策略。传统规训中的"毕业"意味着从机构中被释放，而在控制社会中，调制永不终止([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222, 224]])。
 
-## 政策背景
-
-> [!info|notitle]
+> [!info] 政策背景
 > 2004 年，德国学术评议会（Wissenschaftsrat）发布《关于改革大学入学制度的建议》，推荐实施"以咨询为目的的性向评估程序"（aptitude assessment procedures for the purpose of counselling），在入学前改善学生入学资格与学习项目要求之间的匹配，降低大学辍学率(Wissenschaftsrat, 2004, p.6; [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.223]])。
 
 > [!quote|notitle]

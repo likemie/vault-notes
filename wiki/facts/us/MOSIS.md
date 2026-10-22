@@ -67,11 +67,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# MOSIS
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 金属氧化物半导体实现服务平台（Metal Oxide Semiconductor Implementation Service，简称 MOSIS）是 1981 年在[[DARPA|美国国防高级研究计划局]]（DARPA）资助下由南加州大学信息科学研究所（USC/[[Import Substitution Industrialisation|ISI]]）创立的公共微电子原型制造与流片共享服务机构。作为微电子领域的国家级新型创新基础设施，MOSIS 首次在全行业实现了集成电路“逻辑设计”与“物理制造”的彻底解耦，是全球半导体产业转向“无晶圆厂设计（Fabless）+ 晶圆代工（Foundry）”现代专业化分工体系的制度与技术策源地。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与服务演进历程
 > - **1978–1980 — 米德–康威革命与早期 MPC 试验** 米德与康威出版划时代著作《超大规模集成电路系统导论》，提出独立于具体晶圆代工厂工艺的“Lambda 可伸缩几何设计规则”；1979 年通过 [[ARPANET]] 开展首个多项目芯片（Multi-Project Chip, MPC79）远程流片试验，汇聚了全美十余所顶尖高校的 82 个芯片设计方案。
 > - **1981–1990 — [[DARPA]] 资助建制化与打破芯片制造瓶颈** DARPA 在战略计算倡议（SCI）中敏锐识别到物理流片是全美芯片架构创新的最大外部瓶颈，出资正式设立 MOSIS 并由丹尼·科恩（Danny Cohen）等主持；MOSIS 面向大学与初创企业提供免费或极低成本的流片拼版服务，直接培育了斯坦福大学（MIPS 架构）与加州大学伯克利分校（RISC 架构）微处理器革命，支撑了全美 100 多所大学的 [[VLSI Project|VLSI]] 实验教学。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
@@ -93,8 +87,6 @@ updated: 2026-10-22
 > - **2023 年 — [[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）全国 [[Multi-Project Wafer|MPW]] 与先进封装网络整合** 美国商务部在《国家半导体技术中心愿景与战略》（[[Argument_NIST_2023_NSTC|NIST, 2023]]）中将多项目晶圆与封装流片（MPW and Packaging Runs）确立为国家级核心中试项目，继承并升级了 MOSIS 开创的共享拼版模式。面对先进制程与 2.5D/3D [[Heterogeneous Integration|异构集成]]时代单次掩膜成本突破千万美元的门槛，NSTC 联合商业晶圆厂、大学产线与国家级中试设施建立全美聚合排期机制，并深度集成设计支持网关（DEG）提供云端 EDA 与预验证 IP 模块，实现从前端晶圆到后端先进封装测试载具（Test Vehicles）的全链条成本分摊。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15, 24–25)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理与协作网络
 > - **运营管理团队（USC/[[Import Substitution Industrialisation|ISI]]）** 负责接收全球网络提交的芯片版图文件、执行自动化几何与电气设计规则检查（DRC/[[Engineering Research Centers|ERC]]）并完成晶圆掩膜拼版（Wafer Mask Layout）。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **网络化敏捷提交流程（[[ARPANET]]/Internet Submission）** 开创了通过电子邮件远程提交 CIF/GDSII 芯片设计版图、数周内通过快递回寄封装测试样片的敏捷研发流程。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 颠覆性技术孵化与服务产出
 > - **微处理器架构突破的摇篮** 斯坦福大学约翰·轩尼诗（John Hennessy）团队的 MIPS 处理器原型、加州大学伯克利分校大卫·帕特森（David Patterson）团队的 RISC-I/II 处理器原型，均通过 MOSIS 获得首批流片验证，直接开创了现代精简指令集计算时代。
@@ -128,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 体系成效指标
 > - **资源与项目规模** 累计完成超过 60,000 个芯片设计项目的流片验证，支持了数万名全球芯片设计师的工程实践。
 > - **学术与[[Disciplinary Institutionalization|学科建制化]]** 支撑全美大学计算机科学与微电子学系从无到有建立起完备的 [[VLSI Project|VLSI]] 实验体系，促成了《计算机体系结构：[[Quantitative Research|量化研究]]方法》经典[[Paradigm|范式]]的建立。
@@ -146,8 +134,6 @@ updated: 2026-10-22
 > - **150+** （所） 在 MOSIS 与 [[DARPA]] 资助下开设计算机体系结构与 VLSI 芯片实训课程的美国大学数量。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 176, 183–184)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议与历史反思
 >

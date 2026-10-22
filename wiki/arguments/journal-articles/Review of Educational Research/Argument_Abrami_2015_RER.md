@@ -107,7 +107,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Abrami_2015_RER
 
 ---
 
@@ -124,8 +123,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -140,8 +137,6 @@ issuing_organization: ""
 > 德尔菲框架确立了目标能力的认知与倾向维度；Ennis 模式提供了课程架构维度的解释工具；而真实性教学、对话与导师制三维框架则直接切入微观教学过程，解释了情境锚点、互动论辩与[[Scaffolding\|认知脚手架]]如何共同促成批判性思维的发展与迁移。（pp. 281–288）
 
 ---
-
-### 核心变量与操作化编码表
 
 > [!index-table] 核心[[Variable\|变量]]操作化定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
@@ -159,8 +154,6 @@ issuing_organization: ""
 
 ---
 
-## 研究方法
-
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
@@ -177,8 +170,6 @@ issuing_organization: ""
 > | **扩展结果样本** | 学科特异性测验 $k = 97$；学业成就 $k = 140$；思维倾向 $k = 25$。（pp. 295–297） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -354,8 +345,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Critical Thinking\|批判性思维]]普遍可教且跨情境稳健** 基于 341 项高质量真实验与准实验的[[Meta-analysis\|元分析]]证实教学干预显著提升通用批判性思维技能（$g+ = 0.30$），且在小学、初中、高中、本科、成人及 [[STEM Education\|STEM]]/非 STEM 领域普遍稳健有效。（pp. 289–293）
 > 2. **[[Authentic Instruction\|真实性教学]]与对话构成核心教学支柱** 引入应用型[[Problem Solving\|问题解决]]/[[Role-playing\|角色扮演]]（$g+ = 0.34$）和师生/同伴研讨对话（$g+ = 0.32$）的教学显著优于对照组教学。（pp. 294–295）
@@ -372,8 +361,6 @@ issuing_organization: ""
 > - **$N = 434,819$** 经典[[Fail-Safe N\|失安全系数]]，证实元分析结论的高度稳健性。（p. 289）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Authentic Instruction\|真实性教学]]的[[John Dewey\|杜威]]渊源
 > 杜威（1907）指出，为了将观念用作思考（乃至[[Critical Thinking\|批判性思维]]）的工具，必须在对学生而言显得真实的具体问题情境中学习观念的意义。正如他尖锐指出的：“能够言之有物与不得不说点什么之间，存在着天壤之别。”（p. 287）

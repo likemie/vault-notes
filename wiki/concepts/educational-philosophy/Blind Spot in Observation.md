@@ -46,12 +46,9 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Blind Spot in Observation
 （观察盲点）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **观察盲点（Blind Spot / blinder Fleck）** 是[[Luhmann's Systems Theory|社会系统理论]]家[[Niklas Luhmann|尼克拉斯·卢曼]]（[[Niklas Luhmann]]）基于二阶控制论与区分逻辑（Spencer-Brown, 1969; von Foerster, 1981）确立的核心[[Epistemology|认识论]]概念：任何观察活动（Observation）本质上都是对某种二元区分（Distinction）的操作与指称；观察者在借助特定区分将焦点投向某一对象时，必然无法在同一时刻看见自身赖以进行观看的区分机制本身。视见的先决条件恰恰是建立了“看”与“不看”的界分，因而所有观察均以不可自见的盲点为构成性前提（Luhmann, 1997, 1998; [[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 10]]）。在教育哲学与政策研究中，该概念用于解构将实证指标绝对化的眼球中心主义与超积极可见性意识形态。
@@ -67,8 +64,6 @@ updated: 2026-10-22
 > *“Niklas Luhmann states that it is completely unrealistic for an individual to know what (s)he does not know. (...) he argues that the observer does not see himself while observing. Therefore, every observation is based on a blind spot. (...) ‘All self-observation is due to a blind spot. It is only possible insofar it cannot see itself seeing’.” (Luhmann, 1997, p. 39, p. 69; 1998, p. 81; cited in Larsen, 2019, p. 10)*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 一阶观察与二阶观察及盲点机制辨析
 > | 比较维度 | 一阶观察（First-Order Observation） | 二阶观察（Second-Order Observation） |
@@ -86,8 +81,6 @@ updated: 2026-10-22
 > - **不等于能够被技术迭代彻底终结的临时盲区** 任何试图通过技术叠加或巨型综合（[[Meta-meta-analysis|Mega-analysis]]）消除所有盲点的努力，只会制造更隐蔽的元盲点（Meta-blind spot），将特定技术视差包装为超越时空的绝对现实。
 
 ---
-
-## 核心要素
 
 > [!feature] 观察盲点的核心系统论构件
 > - **区分与指称的二元统一（Distinction & Indication）** 观察被严格定义为使用区分进行指称的操作（Spencer-Brown, 1969）。划分区隔的同时界定了“内部侧面”（指称域）与“外部侧面”（未指称域），未指称侧面作为观察的背景地带隐入黑暗。
@@ -146,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 观察盲点核心理论命题总览
 > | 命题类型 | 核心理论判定 | 认识论机制 | 代表学者与文献出处 |
 > |---|---|---|---|
@@ -164,8 +155,6 @@ updated: 2026-10-22
 > - **2019 — 教育哲学对实证可见性范式的解构** [[Steen Nepper Larsen|斯滕·内珀·拉森]]（[[Steen Nepper Larsen]]）在 [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 中系统引入卢曼的观察盲点理论，针对全球风行的“[[Visible Learning|可见的学习]]”范式开展批判，揭示[[Positivism|实证主义]]数据崇拜遗忘观察盲点所导致的“超积极可见性意识形态”。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

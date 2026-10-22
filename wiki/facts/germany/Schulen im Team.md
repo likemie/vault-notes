@@ -52,11 +52,7 @@ created: 2026-09-27
 updated: 2026-10-16
 ---
 
-# Schulen im Team
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > “团队中的学校——协同发展课堂教学”（德语全称：*Schulen im Team – Unterricht gemeinsam entwickeln*，简称 SiT）是德国墨卡托基金会（Stiftung Mercator）、北莱茵-威斯特法伦州学校与[[Further Education|继续教育]]部（Ministerium für Schule und Weiterbildung des Landes Nordrhein-Westfalen, MSW NRW）以及多特蒙德工业大学学校发展研究所（Institut für Schulentwicklungsforschung, IFS TU Dortmund；由 Wilfried Bos、Veronika Manitius、Nils van Holt 等主持）于 2007 年至 2015 年间在鲁尔[[Industrial District|工业区]]联合创设并实施的区域性跨校协同改革工程。该工程聚焦处于不利社会经济环境的薄弱学校（Schulen in herausfordernder Lage），首创以区域多校教研网络为载体的“自组织干预”模式，成为德语区学校网络发展与[[Knowledge Transfer|知识转移]]实证研究的标志性案例。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 11, 15; van Holt, 2014)]]
@@ -68,8 +64,6 @@ updated: 2026-10-16
 > - **核心治理痛点** 传统自上而下的行政督导与抽象测评数据回传无法直接激活基层教学（Demski, 2017），而各校在面对高移民比例与社会经济不利背景时普遍陷入单打独斗与专业孤立，亟需建立校际平等的专业支持生态。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 教育转移与教学改进不能依赖外部专家单向灌输标准处方，而必须依托结构化的跨校网络搭建“自组织干预”（selbstorganisierte Intervention）平台。通过赋予一线教师围绕自身教学痛点自主界定转移对象、协同开发教学方案并在跨校同侪观摩中相互印证的能动性，单体学校的[[Absorptive Capacity|组织吸收能力]]与微观教学效能才能获得可持续突破。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 11–12; van Holt, 2014)]]
@@ -93,8 +87,6 @@ updated: 2026-10-16
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2007–2011 年 — 第一期：鲁尔核心区跨校教学协同探索**
 >   在鲁尔区 8 个核心城市建立由初高中不同学轨组成的试点网络，系统探索德语、数学、英语及自然科学等学科的跨校备课与互相听评课机制，完成对“自组织干预”和网络生命周期的首期实证追踪（van Holt, 2014）。
@@ -105,8 +97,6 @@ updated: 2026-10-16
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **发起与战略资助** 墨卡托基金会（Stiftung Mercator）承担核心资金保障与[[Public-Private Partnership|公私伙伴关系]]统筹。
 > - **教育行政统筹与政策支持** 北威州学校与[[Further Education|继续教育]]部（MSW NRW）下发政策指引，协调地方督导部门，为参研教师核拨专项进修课时与差旅补贴。
@@ -114,8 +104,6 @@ updated: 2026-10-16
 > - **基层实践承载** 参与学校的教师教研团队与校领导团队，负责微观教学单元的校本试验、常态化听课评课与经验总结。
 
 ---
-
-## 转移科学贡献与核心实证发现
 
 > [!logic-map]- 跨校网络自组织转移与组织吸收因果机制
 > ```mermaid
@@ -139,8 +127,6 @@ updated: 2026-10-16
 >   在处境不利学校的复杂生态下，隐性[[Phronesis|实践智慧]]的显性化与跨校共享无法自发完成，必须依靠专业网络主持人的中介催化以及常态化的协同备课制度，构建安全的跨校专业信任[[Champ|场域]]。
 
 ---
-
-## 局限性与争论
 
 > [!warning] 项目局限与实践争论
 > - **项目资助撤出后的长效机制危机** 作为由私人基金会资助的大型工程，项目结项后部分学校因丧失外部课时支持与专业主持人调配，跨校网络交流频率明显下降，凸显出项目制干预在转入常态制度时的制度脆弱性。

@@ -44,8 +44,6 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Action Better Than Words
-
 > [!info] 定义
 > 行勝於言（Action Better Than Words / Facta non Verba）是[[Confucian Learning Tradition\|儒家学习传统]]的第四个文化主题，也是清华大学刻在主楼前广场上的[[University Motto\|校训]]。它表达了一个系统的文化立场：一个人的道德成就以行动——而非言语——为标准来评判。说话是一种严肃的道德行为，因为它将说话人承诺于他人期待中的相应行动([[Argument_Li_2012_Cambridge\|Li, 2012, pp.52-54]])。
 
@@ -53,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 分析了在儒家传统中言语为何需要如此谨慎的六个原因——不同类型的说话带来不同的道德责任([[Argument_Li_2012_Cambridge\|Li, 2012, p.53]])：
 
 | 说话类型 | 道德失范 |

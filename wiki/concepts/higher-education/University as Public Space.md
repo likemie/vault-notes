@@ -35,8 +35,6 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# University as Public Space
-
 ---
 
 > [!info] 定义

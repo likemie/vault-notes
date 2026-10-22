@@ -69,11 +69,7 @@ created: 2026-06-21
 updated: 2026-10-22
 ---
 
-# Sampling Error
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **抽样误差（Sampling Error）** 指从同一[[Study Population and Sample|目标总体]]中反复抽取样本时，样本统计量（如均值、比例、回归系数或标准化均数差[[Effect Size|效应量]]）围绕总体真实参数所产生的理论随机波动与离散程度。抽样误差并非操作疏失或实验失误的产物，而是由有限经验样本推断广义总体时固有的概率不确定性所致；其离散程度以[[Standard Error|标准误]]（Standard Error, SE）度量，受制于总体的变异性（$\sigma$ 或 $SD_{pop}$）与样本容量（$N$）。在现代[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]中，抽样误差被形式化界定为 **“研究内抽样方差”（Within-study sampling variance, $v_i$）**，与反映真实情境变异的 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）** 共同构成元分析双层方差分解的核心基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 149–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 抽样误差与相邻统计学概念多维辨析
 > | 比较维度 | 抽样误差（Sampling Error） | 抽样偏差（Sampling Bias） | 测量误差（Measurement Error） | 研究间异质性（Heterogeneity, $\tau^2$） |
 > |:---|:---|:---|:---|:---|
@@ -108,8 +102,6 @@ updated: 2026-10-22
 > | **[[Research Synthesis\|证据综合]]中的应对方案** | 按逆方差赋权（$w_i = 1/v_i$）实现最佳线性无偏估计 | [[Funnel Plot\|漏斗图]]检验、[[Fail-Safe N\|失安全数]]、[[Multilevel Egger's Test\|多水平艾格回归]]剪补 | 潜[[Variable\|变量]]结构方程模型（[[Causal Modeling\|SEM]]）、测量误差校正 | 采用[[Random-Effects Model\|随机效应模型]]并将 $\tau^2$ 纳入加权分母 |
 
 ---
-
-## 核心要素
 
 > [!feature] 抽样误差的数理支柱与运作要素
 > - **[[Central Limit Theorem|中心极限定理]]（Central Limit Theorem）** 若从任何总体中反复抽取等大规模的大样本，样本均值的理论分布趋向于正态分布，其均值等于总体真实均值，标准差即为均值[[Standard Error|标准误]]（Rose & Sullivan, 1993, p. 144）。即便总体本身呈偏态，25 例以上的样本通常即可生成满足渐近正态性的均值抽样分布（Hopkins et al., 1996, p. 159）。
@@ -173,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕抽样误差形成的理论命题总览
 > | 命题类型 | 核心主张 | 统计与方法论机制 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -185,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 抽样误差理论与方法演进
 > - **1733–1812 — 抽样分布与[[Central Limit Theorem|中心极限定理]]发端** 棣莫弗（De Moivre）与拉普拉斯（Laplace）推导正态近似，高斯确立最小二乘与高斯-马尔可夫方差最优理论，为抽样分布离散度提供数学工具。
 > - **1908 — 小样本抽样理论突破** 戈塞特（“Student”）发表 $t$ 分布，明确区分总体标准差 $\sigma$ 与小样本估算的[[Standard Error|标准误]]，确立小样本抽样误差的精准推断边界。
@@ -195,8 +183,6 @@ updated: 2026-10-22
 > - **2016 — 二级[[Research Synthesis|证据综合]]中抽样误差失效与除数事故的法医式审计** [[Christof Wecker|克里斯托夫·韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统证明两级元分析成立依赖于原始研究独立的充要条件；揭露 93% 文献重叠导致抽样误差被严重低估的假性精确机制，并实证诊断出将标准误代替标准差计算[[Effect Size|效应量]]导致数值暴增近十倍的重大计量事故。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -217,8 +203,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!index-table] 抽样误差度量、计算实例与计量事故审计表
 > | 案例 / 审计项目 | 样本规模与情境参数 | 计算公式与输入维度 | [[Theoretical Sampling\|理论抽样]]误差 / 输出数值 | 方法论定性与现实后果 |
 > |---|---|---|---|---|
@@ -230,8 +214,6 @@ updated: 2026-10-22
 > | **[[Meta-meta-analysis\|二阶元分析]] 93% 文献重叠模拟** | 哈蒂《[[Visible Learning\|可见的学习]]》网络学习主题所收录的[[Meta-analysis\|元分析]]集合 | 未建模正相关协方差 $\text{Cov}_{ji} > 0$ 直接按独立方差公式相加 | 二级合并[[Standard Error\|标准误]]被低估逾 **40%**，假阳性概率成倍膨胀 | 违背独立性假设制造了虚假统计精确性，使大量无效干预被包装为高效干预。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]] |
 
 ---
-
-## 关键引用
 
 > [!citation-card] 均值[[Standard Error|标准误]]的抽样变异性
 > 抽样分布的标准差是抽样误差的度量，称为均值的标准误（[[Causal Modeling|SEM]]）。抽样误差取决于总体的变异性和[[Sample Size Determination|样本量]]：总体变异性越小，抽样误差越小；样本量越大，抽样误差越小。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 150–151)]]

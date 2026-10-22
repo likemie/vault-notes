@@ -40,10 +40,6 @@ created: 2026-06-16
 updated: 2026-10-22
 ---
 
-# Participatory Research
-
-## 定义
-
 > [!def] 方法定义
 > 参与式研究（Participatory Research, PR）是与人和社区一起做研究（doing research with people and communities），而非对人或为人做研究（doing research to or for people）。其核心信念是：普通人完全有能力对自己的处境进行[[Reflexivity\|反思性]]和批判性分析。PR 是深刻民主的，所有参与者平等，致力于参与式民主而非代议制民主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 151–162)]]
 
@@ -60,8 +56,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 尊重居民的本土大众知识，而非专家研究者的"消毒过的"知识。知识与行动融合——"如果你真的想理解什么，试着改变它"（Lewin, 1946）。
 > - **研究者角色** 研究者是促进者（facilitators）、催化剂（catalysts）和变革推动者（change agents），而非支配或控制者。研究者分享其人性而非专家权威。
@@ -76,10 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
-### Tandon 的理想 PR 步骤
-
 > [!timeline-compact] Tandon（2005c: 30）的 PR 步骤序列（Figure 2.1）
 > - 社区识别自身问题
 > - 社区与研究者建立平等伙伴关系
@@ -89,8 +79,6 @@ updated: 2026-10-22
 > - 集体决定行动方案
 > - 实施行动并评估效果
 > - 反思并持续改进
-
-### Hall 的六条 PR 原则
 
 > [!principle] Hall（2005, pp. 17–19）的参与式研究原则
 > 1. **直接受益** 研究项目——过程和结果——可以立即和直接地造福社区，而非仅仅作为学术论文的基础。
@@ -102,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 资料与分析
-
 > [!method-stack] 资料与分析摘要
 > - **资料类型** 对话、大众戏剧（concientization）、社区普查数据、口述历史、集体叙事。
 > - **资料质量** 重视本土知识的有效性而非外部专家的验证标准；注意资料是否真正反映了社区的声音而非研究者的预判。
@@ -113,16 +99,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 被压迫和被边缘化社区的赋权和发展；社区驱动的教育改善项目；参与式课程开发。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 151–191)]]
 > - **谨慎使用** 需考虑权力精英的可能抵制——PR 挑战现有权力结构，参与者可能面临实质性风险（Brown and Tandon, 2005, p. 65）。研究者与社区成员之间的文化差异需被反思而非忽视。
 > - **不适合使用** 需要严格控制[[Variable\|变量]]以推断[[Causality\|因果关系]]的研究；社区内部权力分裂严重以至于无法形成集体行动的情境。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者与参与者之间可能被过度强调相似性而忽视差异（Brown, 2005b）；"参与"可能流于形式，实质控制权仍在研究者手中。
@@ -131,8 +113,6 @@ updated: 2026-10-22
 > - **补救方式** 在研究启动阶段明确约定目标、方法、决策权和成果归属；保持对"谁在控制"这一核心问题的持续审视（Pinto, 2000, p. 13）。
 
 ---
-
-## 相关理论与方法
 
 > [!frames-ref] 相关理论
 > - [[Critical Theory]] — 参与式研究是批判理论在社区赋权实践中的直接表达。
@@ -145,8 +125,6 @@ updated: 2026-10-22
 > | [[Mixed Methods Research\|混合方法研究]] | [[Pragmatic Paradigm\|实用主义]]亲缘 | PR 同样务实——如有必要，为了"实用效用"可以牺牲"严格控制"（Brown, 2005a: 92）。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 151–191)]] — 第2.4节以 PR 为例展示[[Critical Theory\|批判理论]]在社区赋权中的实践应用，包含 Tandon 的步骤序列和 Hall 的六项原则。

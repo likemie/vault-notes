@@ -41,8 +41,6 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# French-Speaking Belgium Education System
-
 > [!info] 背景
 > 法语比利时教育系统的现行结构源自 1988 年比利时第三次国家改革。该改革把几乎所有教育权限赋予荷语、法语和德语三个共同体，使法语共同体在义务教育组织上拥有较高自治权；但义务教育免费和 6 至 18 岁义务教育等联邦规则仍适用于整个比利时([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.169]])。
 

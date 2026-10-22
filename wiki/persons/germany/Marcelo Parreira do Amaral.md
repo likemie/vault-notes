@@ -46,7 +46,6 @@ status: draft
 created: '2026-05-07'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Marcelo Parreira do Amaral 是德国明斯特大学（University of Münster）教育学院教授，比较教育与高等教育研究者。他的研究聚焦于[[Global Education Industry\|全球教育产业]]（GEI）、[[Geopolitics of Knowledge\|知识地缘政治]]以及教育研究在欧洲经济想象中的嵌入方式。

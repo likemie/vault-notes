@@ -42,9 +42,6 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# Alternative Hypothesis
-
-## 定义
 
 > [!def] 备择假设（Alternative [[Hypothesis]]）
 > 备择假设是正式假设检验中预测[[Variable\|变量]]间存在显著关系的假设形式，通常写作 H₁。备择假设通常在[[Null Hypothesis\|零假设]]被拒绝时得到支持——即如果[[Null Hypothesis\|零假设]]不被支持，则备择假设被支持（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]）。
@@ -60,8 +57,6 @@ updated: 2026-10-22
 > - 不适用于纯粹的描述性研究和探索性[[Qualitative Research\|质性研究]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 备择假设 vs [[Null Hypothesis\|零假设]]
 > | 维度 | 备择假设（H₁） | [[Null Hypothesis\|零假设]]（H₀） |
@@ -87,8 +82,6 @@ updated: 2026-10-22
 >
 > *It is predicted that there is a positive relationship between height and weight, such that taller people are more likely to weigh more.*
 
-### 撰写规则
-
 > [!feature] 写好备择假设的关键规则
 > （[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）
 > - **指明[[Variable\|变量]]** 明确[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、中介变量或调节变量
@@ -97,8 +90,6 @@ updated: 2026-10-22
 > - **使用方向性量化词汇** affect, influence, predict, impact, determine, cause, relate
 
 ---
-
-## 写作范例
 
 > [!example] Moore (2000) 的方向性备择假设
 > 在以色列社会中宗教与世俗犹太和阿拉伯女性的性别认同研究中，提出了两条[[Directional and Non-directional Hypotheses\|方向性假设]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）：

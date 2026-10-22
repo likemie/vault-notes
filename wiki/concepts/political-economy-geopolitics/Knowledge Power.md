@@ -50,11 +50,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Knowledge Power
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识权力（Knowledge Power）指行动者通过动员科学技术知识与[[Tacit Knowledge|隐性知识]]，影响全球治理关系与制度语境，借由确立知识领导地位以提升国际[[Discourse|话语]]权与塑造国际秩序的能力。该概念由米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）在欧洲全球事务研究中正式界定，并在[[Geopolitics of Higher Education|高等教育地缘政治]]与[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）国际化战略分析中得到深化。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识权力与[[Knowledge Diplomacy|知识外交]]的理论对比
 > | 比较维度 | 知识权力（Knowledge Power） | [[Knowledge Diplomacy\|知识外交]]（Knowledge Diplomacy） |
 > |---|---|---|
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > | **代表案例呈现** | [[Asian Universities Alliance\|亚洲大学联盟]]（Asian Universities Alliance, AUA）的精英治理结构 | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（University Alliance of the Silk Road, UASR）的开放多边平台 |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识权力的构成要素
 > - **知识领导力诉求** 行动者将自身高等教育机构、前沿科研平台与优质教育资源转化为关键治理资源，旨在让国际伙伴认可其潜在或现实的知识引领地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
@@ -120,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 知识权力核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -129,8 +119,6 @@ updated: 2026-10-22
 > | **功能互补论** | 开放型外交与精英型权力协同，加速全球知识网络中心化 | 新兴大国[[Outward-Oriented Internationalization\|外向型高等教育国际化]]战略推进 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 概念发展脉络
 > - **2022 年 — 欧洲全球事务研究中的概念奠基**
@@ -141,8 +129,6 @@ updated: 2026-10-22
 >   刘伟（Wei Liu）等学者提炼出知识权力与知识外交在定义、进路与成效三维度的结构对照，指出知识权力将专业优势转化为超越对手的竞争工具，并以微观案例实证论证了从单向知识权力向互惠知识外交范式转变的必要性。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 
 ---
-
-## 争议与批评
 
 > [!critique] 理论局限与概念反思
 > - **二元分类的解释限度** 将跨国学术合作截然划分为地缘博弈取向的知识权力或利他互惠取向的[[Knowledge Diplomacy|知识外交]]，易割裂复杂的现实政策实践，遮蔽行动者在具体项目中的多元诉求与灵活调试。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]

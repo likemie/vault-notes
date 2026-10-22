@@ -56,11 +56,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Social Regime
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **社会规约（Social Regime）** 指在特定社会情境中受到普遍合法性认可、规定预期行为并排除不可欲行为的集体规则体系；其根本特质在于必须由独立于博弈参与者、具备合法强制力保障手段的第三方权威机构（Third-Party Enforcement）提供背书，将微观行动者的权利与义务上升为全社会共同体维护的法定或规范性预期（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 9–14]]）。在当代跨国治理与教育政策研究中，该概念被扩展用于分析由国家行政强制力背书的全球标准化绩效与问责规约（Komatsu & Rappleye, 2017; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 制度[[Ontology|本体论]][[Paradigm|范式]]辨析
 > | 维度 | 社会规约（[[Historical Institutionalism\|历史制度主义]]） | 博弈均衡（理性选择制度主义） | 认知脚本（社会学制度主义） |
 > |:---|:---|:---|:---|
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **第三方强制实施机构（Third-Party Enforcement）** 制度的有效性并不依赖个体自觉，而是必须有第三方（如法庭、劳工监察局、[[School Inspection|教育督导]]部门）以社会名义对违约行为进行仲裁与制裁（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, p. 11]]）。
 > - **结构性非对称分工（Rule Makers vs. Rule Takers）** 类似[[Max Weber|马克斯·韦伯]]的支配组织（*Herrschaftsverband*），规约内部始终存在制定/修改规则的有权者与被动承受/执行规则的遵从者之间的不对称博弈（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, p. 12]]）。
 > - **社会合法性与公共保护预期（Legitimacy & Public Expectations）** 规则被赋予公共正当性，使其成为受保护的社会权利，即便政策制定者更迭亦不能随意剥夺。
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -172,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 制度的本质是自发实施的博弈均衡还是具有强制性的政治秩序
@@ -189,8 +177,6 @@ updated: 2026-10-22
 > > - **批判制度学者（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出强推脱离情境的刚性规约必然招致基层策略性抵制，摧毁原本依靠专业互信维系的育人生态。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 制度作为第三方强制力背书的社会规约
 > 制度绝非自发实施的无摩擦博弈均衡，亦非主观共享的文化认知脚本；制度本质上是由具有合法暴力垄断权的第三方实施机构所背书的社会规约（social regimes）。由于制度承载着充满利益抵触的集体权威，其规则条文与微观践行之间始终存在不可消除的张力，服从永远是可变且充满博弈的。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]
@@ -209,8 +195,6 @@ updated: 2026-10-22
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引小松与拉普利（Komatsu & Rappleye, 2017）的全球政策规约命题，剖析跨国量化规约在国家行政背书下如何异化为基层教师的[[Performativity|表演性]]打卡。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念网络图
 >

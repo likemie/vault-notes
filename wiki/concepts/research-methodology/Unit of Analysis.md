@@ -134,11 +134,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Unit of Analysis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **分析单位（Unit of Analysis，又称分析单元）** 是指在经验研究设计、[[Coding in Qualitative Research|质性编码]]与[[Content Analysis|内容分析]]中，被观察、测量、描述和解释的基本实体、信息载体或文本片段。在[[Qualitative Research|质性研究]]与[[Content Analysis|内容分析]]中，分析单位界定了数据拆解切片、赋予编码与范畴聚合的最小操作基准与最大语境边界（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。分析单位的界定直接决定了研究结论的可推广范围、统计推论的聚合尺度以及理论命题的解释力度。
@@ -346,8 +342,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 分析单位核心理论命题总览
 > | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与文献出处 |
 > |---|---|---|---|
@@ -380,8 +374,6 @@ updated: 2026-10-22
 > - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，[[Meaningful Human Control|人在回路]]（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -441,8 +433,6 @@ updated: 2026-10-22
 > - **漠视缺席与沉默（Withholding Comment）** 仅把显性言说的实体算作分析单位，完全忽略被刻意压制的沉默与故意遗漏在整体结构中的关键权重。
 
 ---
-
-## 操作化指南
 
 > [!proc] 质性与[[Content Analysis|内容分析]]中确定分析单位的四步规程
 > 1. **宏观阶段：界定抽样单位与文献总体域** 依据[[Research Question|研究问题]]明确考察的文本边界（如特定政策公文集、全套教科书），明确[[Multi-phase Sampling|多阶段抽样]]的嵌套路径（如期号 ➔ 报道篇目）。

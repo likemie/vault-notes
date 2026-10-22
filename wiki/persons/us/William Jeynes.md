@@ -41,11 +41,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# William Jeynes
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国保守派教育学者、[[Meta-analysis\|元分析]]专家，同时为福音派传教士与“上帝之爱事工”（God's Love Ministries）创始人。曾任教于美国多所大学，并在共和党内拥有深厚的政策影响力，曾位列唐纳德·特朗普（Donald Trump）政府教育部长候选人名单中。
@@ -66,16 +62,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2000 — *A [[Meta-analysis]] of studies examining the effect of [[Whole Language]] instruction on the literacy of low-[[Socioeconomic Status|SES]] students***：评估全语言对低社会经济地位学童读写能力的影响，得出整体负面（d = -0.65）但纯全语言极其正面（d = 0.83）的非对称结论。([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145-146]])
 
 ---
 
-## 核心思想与争议
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想与争议
 > 杰尼斯主张，对于低[[Socioeconomic Status|社会经济地位]]的儿童，传统的基本阅读器（Basal Readers）和系统技能训练在整体上优于[[Whole Language\|全语言]]教学；但他同时承认，如果教师严格贯彻无技能切片、无机械操练的“纯粹全语言”教学，儿童将获得极高的阅读收益（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.146-147]]）。
 
 > [!concept-lens] 思想透镜
@@ -84,8 +76,6 @@ updated: 2026-10-22
 > - **研究影响** 其数据被[[John Hattie\|约翰·哈蒂]]直接整合进《VL》中，直接促成了对全语言“低效”的科学判决，但也因为数据质量与作者背景而饱受方法论专家的质疑。
 
 ---
-
-## 争议与评论
 
 > [!critique-method] 数据计算错误指控（克拉申的解构）
 > 斯蒂芬·克拉申（Stephen Krashen，2002）对杰尼斯的[[Meta-analysis\|元分析]]进行了细致复核，指出其中存在多处颠倒[[Effect Size\|效应量]]方向的严重计算错误。如果予以纠正：

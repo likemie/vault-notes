@@ -53,12 +53,9 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Axel Honneth
 （阿克塞尔·霍耐特）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代著名社会哲学家、[[Critical Theory|批判理论]]思想家，法兰克福学派第三代核心领军人物，法兰克福大学社会哲学讲座教授、哥伦比亚大学哲学系教授，曾长期担任法兰克福大学社会研究所（Institut für Sozialforschung, IfS）所长（2001–2018）。
@@ -85,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1992/1996 — *The Struggle for Recognition: The Moral Grammar of Social Conflicts*** 系统建构爱、权利与社会尊严三位一体的[[Recognition Theory|承认理论]]，奠定[[Critical Theory|批判理论]]第三代规范纲领。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 15)]]
 > - **2003 — *Redistribution or Recognition? A Philosophical Exchange* (with Nancy Fraser)** 捍卫一元承认论立场，论证经济分配不公本质上是社会劳动的文化价值承认遭遇扭曲的表现。
@@ -95,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 霍耐特主张将社会批判的规范基础重新锚定于主体间相互承认（Intersubjective Recognition）的道德体验之上：人类主体的完整性与自由能动性是在被他人认可的社会关系中逐渐生成的心理成就。人类的社会生存由三大承认维度构成——在情感亲密关系中获得“爱”以建立基本自信，在法律政治制度中获得“平等权利”以确立自尊，在社会劳动与文化共同体中获得“独特价值认可”以确立社会尊严。任何形式的蔑视（身体伤害、剥权、侮辱）都会破坏个体的自我关系，并成为引发社会抗争的心理动因。霍耐特坚持“承认先于认知”的存在论前提，强调任何只把人当作计算参数与调控客体的制度，都犯下了对原初承认的致命遗忘（物化）。
 
 > [!citation-card] 承认的[[Ontology|本体论]]先在性与自主能动性确立
@@ -113,8 +106,6 @@ updated: 2026-10-22
 > - **教育哲学与[[Critical Pedagogy|批判教育学]]应用** 尼尔森（[[Klaus Nielsen]]）等学者将承认理论引入教育社会[[Ontology|本体论]]，指出真正的[[Dialogue in Education|教育对话]]建立在相互承认基础之上；该理论为批判[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》将学生物化为刺激—反应控制终端提供了最深层的哲学批判武器。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
 ---
-
-## 争议与评价
 
 > [!debates] 学术争议与反思
 >
@@ -132,16 +123,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键引用
-
 > [!citation-card] 思想史诊断：霍耐特[[Recognition Theory|承认理论]]对[[John Hattie|哈蒂]][[Technical Rationality|技术理性]]的解构
 > 排除人类能动性与[[Intentionality|意向性]]在探讨人类学习与发展时具有深重的问题。德国哲学家霍耐特（Honneth, 1996, 2008）强调，承认个体的能动能动性与意向性对于其成长为自主参与者具有决定性意义；反之，若无法承认这种自主性与意向性，则会导致社会异化。哈蒂在追求技术理性的控制确定性时，恰恰抹杀了这种核心意向性。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 15)]]
 >
 > *Excluding human agency and intentionality is arguably problematic when addressing human learning and development. German philosopher Honneth (1996) stressed the importance of recognizing persons' agency and intentionality as crucial for their development as autonomous participants. Conversely, failing to acknowledge or recognize autonomy and intentionality could cause social alienation.*
 
 ---
-
-## 条目关联
 
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |

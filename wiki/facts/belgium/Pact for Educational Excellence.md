@@ -51,8 +51,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Pact for Educational Excellence
-
 > [!info] 背景
 > [[French-Speaking Belgium Education System\|法语比利时教育系统]]在 1988 年第三次国家改革后拥有较高教育自治权，但仍受部分联邦规则约束，例如义务教育免费以及 6 至 18 岁义务教育要求([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.169]])。[[PISA]] 2015/2018 显示，该系统在科学和阅读上低于 [[OECD]] 平均水平，数学接近平均水平，同时社会出身对成绩的影响很强且有加剧趋势([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.170]])。
 
@@ -75,9 +73,7 @@ updated: 2026-10-22
 
 工作组在 2017 年列出 425 个工具或项目，但只有 61 个曾由教育研究者测试，只有 13 个即总量约 3% 采用实验设计测试([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.175]])。由于严格按英美式证据层级会排除约 97% 的候选工具，改革团队转而建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、[[Case Study|案例研究]]、横断研究、相关或[[Longitudinal Study|纵向研究]]、实验和准[[Experimental Research|实验研究]]放在同一框架内，并为不同方法设置最低质量标准([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.175-178]])。
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > 从[[Evidence-Based Reform\|证据本位改革]]角度看，公约的明确进展在于：官方文本第一次承认需要按有效性对项目进行试点、验证和扩大；研究者、学科教学专家、教育当局与教师之间形成了互动过程；工作组识别了与课程和研究建议相匹配的潜在项目；不同方法类别的最低标准被共同讨论出来([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.182]])。
 
 > [!info] 核心数据

@@ -48,11 +48,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Transformative System Failures
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **变革性系统失灵（Transformative System Failures）** 是由 K. 马蒂亚斯·韦伯（K. Matthias Weber）与哈拉尔德·罗拉赫（Harald Rohracher）于 2012 年提出的创新政策分析概念，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被作为[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心正当性基础。它指既有[[Systems of Innovation|创新系统]]在应对气候变化、公共健康等重大社会挑战时，由于缺乏方向引导、需求表达受阻、政策协调断裂以及反思能力匮乏，导致整个社会–技术系统无法自发实现根本性转型的一组结构性制度失灵。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 三代创新政策的失灵诊断与干预[[Paradigm|范式]]对比
 > | 维度 | [[Market Failure\|市场失灵]]（第一代范式） | 结构性系统失灵（第二代范式） | 变革性系统失灵（第三代范式） |
 > |---|---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > | **代表文献** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber and Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 变革性系统失灵的四大核心维度
 > - **方向性失灵（[[Directionality of Innovation|directionality]] Failure）** 系统缺乏共享的集体转型愿景与明确的优先发展目标，研发投资与创新活动在多种竞争性技术路线中缺乏战略聚焦与[[Public Value|公共价值]]牵引。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 变革性系统失灵核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -163,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 创新政策失灵理论演变
 > - **1962 — [[Market Failure|市场失灵理论]]确立** 肯尼斯·阿罗（Kenneth Arrow）阐释研发活动的外部性与不确定性，确立第一代创新政策的补贴与知识产权逻辑。
 > - **1990s–2000s — 结构性系统失灵提出** [[Evolutionary Economics|演化经济学]]家提出国家[[Systems of Innovation|创新系统]]框架，聚焦组织间网络联系薄弱与制度基础设施不足等第二代失灵。
@@ -172,8 +160,6 @@ updated: 2026-10-22
 > - **2020 — 使命政策空间与动态路径整合** 万岑伯克等人将四大失灵融入问题–解决方案空间，提出通过差异化收敛路径克服特定系统失灵的治理策略。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–485)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

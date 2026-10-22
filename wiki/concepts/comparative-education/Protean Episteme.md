@@ -84,11 +84,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Protean Episteme
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **普罗透斯式认识体系（Protean Episteme）** 是由希腊裔比较教育史学家[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）借用古希腊神话中能够随心所欲变换形态的海神普罗透斯（Proteus）隐喻，界定比较教育学作为一门多学科交叉“[[Geisteswissenschaften|人文科学]]”（Human Science, *Vergleichende Erziehungswissenschaft*）的本质[[Epistemology|认识论]]特征。该概念指明：比较教育学在两百余年的历史演化中从来不是单一面向或单音调的知识体系，而是如同身披不同颜色认识论、方法论和意识形态丝线织就的各异装束，随着不同历史时代的智识思潮、研究风尚与文化诉求而持续变换其面貌、研究重点与论述代际。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
@@ -109,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 普罗透斯认识体系与相近学科观对比
 > | 比较维度 | 普罗透斯式认识体系 | 独断科学主义学科观（[[Scientism]]） | 辉格历史进化论（[[Whiggism]]） |
 > |---|---|---|---|
@@ -121,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **跨学科[[Geisteswissenschaften|人文科学]]属性（Epistemic Identity as Human Science）** 奠基于德语广义科学（*Wissenschaft*）与古典理知（*Episteme*）传统，抗拒将比较研究狭隘等同于[[Behaviorism|行为主义]]量化实证，坚持教育研究必须兼顾价值反思与深层文化理解。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 139)]]
 > - **汉斯式广义教育科学与精神科学溯源（Hansian Erziehungswissenschaft and Human Science [[ROOTS]]）** 普罗透斯式认识体系承继[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）对“教育科学（*Vergleichende Erziehungswissenschaft*）”的广义界定与欧陆[[Geisteswissenschaften|精神科学]]传统，将“科学”确立为跨学科、多视角的人文学术综合，坚决抗拒英语世界将科学降格为行为主义量化实证的狭隘专断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–141)]]
 > - **时代思潮与意识形态编织（Weaving of Cultural Strands and Ideological Fads）** 学科的方法论面貌与[[Research Topic|研究主题]]深刻折射出特定历史阶段的智识潮流（如启蒙理性、战后现代性工程、冷战对抗、全球化市场化）与统治阶级治理诉求。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]
@@ -197,8 +189,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -216,8 +206,6 @@ updated: 2026-10-22
 > - **2009 — 手册体系化升华** 在《比较教育学国际手册》第 10 章，卡扎米亚斯将普罗透斯认识体系升华为主导全书第一板块（学科创建与再造）历史反思的核心概念支柱，系统梳理四大代际并提出重振历史维度的理论宣言。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–157)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -237,8 +225,6 @@ updated: 2026-10-22
 > 普罗透斯式认识体系主要用于宏观学科史学编纂、[[Epistemology|认识论]]反思与方法论演变研究，不能直接作为微观具体教育问题或量化干预效果测量的[[Operationalization|操作化]]分析工具。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

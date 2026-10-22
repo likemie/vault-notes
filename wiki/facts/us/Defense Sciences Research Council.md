@@ -49,11 +49,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Defense Sciences Research Council
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **国防科学研究理事会（Defense Sciences Research Council, DSRC）** 是由美国[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）设立的常设前沿学术咨询与智力对接机构；该机构作为连接顶尖大学基础科学界与国家战略防务需求的“跨界中介”（[[Boundary Spanner]]），专门通过制度化的高强度[[Brainstorming|头脑风暴]]研讨，协助 DARPA 项目经理敏锐捕捉物理、材料、化学与工程科学最前沿的颠覆性萌芽。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1139)]]
@@ -66,16 +62,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1980年代 — 机制创立与拉霍亚夏季会议确立** 创立常态化制度，每年夏季在加州拉霍亚举行长达数周的闭门学术研讨会，将物理学与材料学学者直接暴露于国家战略物理极限难题前。
 > - **1990年代 — 纳米科技与先进半导体孵化** DSRC 成为美国碳纳米管、微机电系统（MEMS）、绝缘体上硅（SOI）与硅锗（SiGe）半导体[[Technological Trajectories|技术轨道]]的前瞻性孵化策源地。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1139–1141)]]
 > - **2000年代至今 — 保密转型与多学科综合拓展** 随反恐与大国地缘科技竞争演化，逐步拓展至量子计算、合成生物学与高超声速材料领域。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会成员（Council Members）** 由全美物理、化学、材料、微电子等领域享有崇高学术声望的顶尖大学讲席教授、[[National Academy of Sciences|美国国家科学院]]/国家工程院院士组成。
@@ -87,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产出矩阵
 > - **DSRC 年度夏季研讨综合报告（Summer Conference Summary Reports）** 详述国防科学关键技术前沿的研究现状、物理可行性边界与突破路径。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1139)]]
 > - **前瞻性科学专题研讨简报** 针对单原子晶体管、拓扑绝缘体、神经形态计算等超前课题的快速研判纪要。
@@ -99,8 +89,6 @@ updated: 2026-10-22
 > *Brings together a group of the country's leading scientists and engineers for an extended period, to permit them to apply their combined talents in studying and reviewing future research areas in defense sciences.*
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
 > - **破除学术知识壁垒与促进跨界连通** 顶尖高校学者通常倾向于封闭其专有知识（[[Star Scientists|star scientist]] 现象）；DSRC 提供了一个中立、高信任且高度跨学科的公共[[Champ|场域]]，强制促成了此前互不相识或存在竞争的高校顶尖科学家之间的思想碰撞与后续协作。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1142)]]

@@ -49,11 +49,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Nomadic Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 游牧教育（Nomadic Education）是指针对依托天然草场进行季节性转场放牧的游牧与半游牧群体（Pastoral Nomads）所展开的专门化教育供给与制度安排。该概念处于现代民族国家推进定居化同化工程与传统游牧社群维系生计自主性的持续博弈之中，既是国家抹平流动性、实现空间治理与税收行政整合的规训载体，又是游牧民积累现代[[Cultural Capital|文化资本]]、化解生态风险与破除外部依附的能动策略。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
@@ -83,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **国家的定居化同化工程（Sedentarization Campaigns）** 民族国家通常将强制性正规学校教育作为终结游牧生活、迫使牧民固定在划定聚落内的核心行政技术，从而实现税收建档与治安纳管。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 > - **家庭分散风险的保险策略（Livelihood Insurance Strategy）** 游牧家庭在生态退化与现代开发挤压草场的现实面前，策略性地安排个别子女接受正规教育，以此作为开辟非牧业就业渠道的家庭托底保障。
 > - **破除信息中介剥削的去依附逻辑（Elimination of Disempowering Dependency）** 借助掌握现代读写算能力，游牧社群力图摆脱在牲畜交易、土地权益谈判与政府文书往来中对外部定居中介的依附，增强自身在市场经济中的议价自主权。
@@ -136,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 文化存续与现代融合之争
@@ -167,8 +157,6 @@ updated: 2026-10-22
 > 游牧社群在不同国家所面临的政治生态截然不同；古吉拉特邦拉巴里人的“家庭保险”模式不能简单推广至中东贝都因人或东非马赛人等所有游牧群体，必须具体考察当地土地制度与生计选择的结构性约束。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

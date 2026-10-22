@@ -60,11 +60,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# Delors Report
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1996 年由[[UNESCO|联合国教科文组织]]（UNESCO）国际 21 世纪教育委员会正式发布，委员会主席为法国前经济财政部长、[[EU|欧洲共同体]]委员会前主席雅克·德洛尔（Jacques Delors）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - **制度定位** 承继 1972 年埃德加·富尔（Edgar Faure）主持编纂的《学会生存》（*Learning to Be*），构成 UNESCO 战后第二份关于全球教育未来发展的纲领性历史文献。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《德洛尔报告》（《教育——财富蕴藏其中》）确立了以“学会求知、学会做事、学会共处、学会生存”四大支柱为核心的人本主义教育愿景，主张教育必须将人作为发展的终极目的而非单纯的经济手段，以此抵御[[World Bank|世界银行]]新古典经济主义对全球教育政策的侵蚀。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
@@ -100,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革
-
 > [!timeline] 政策时间线
 > - **1993** [[UNESCO|联合国教科文组织]]总干事费德里科·马约尔（Federico Mayor）宣布成立国际 21 世纪教育委员会，委任雅克·德洛尔为主席，汇聚全球 15 位资深政治家、哲学家与教育学者展开全球巡回研讨。
 > - **1996** 委员会正式向 UNESCO 提交全本报告《教育——财富蕴藏其中》（*Learning: The Treasure Within*），确立[[Lifelong Learning|终身学习]]四大支柱架构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
@@ -109,8 +101,6 @@ updated: 2026-10-22
 > - **2005–2009** 批判比较教育学者（Jones & Coleman, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）从国际组织政治学与[[Discourse|话语]]流通视角深度解构该报告，揭示其背后 UNESCO 与[[World Bank|世界银行]]争夺[[Global Educational Discourse|全球教育话语]]主导权的[[Geopolitics|地缘政治]]逻辑。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 国际治理博弈与多方反应
 > - **[[UNESCO]]（发布方）** 成功依托德洛尔报告重建了其在国际思想界的道德权威（Moral and Normative Leadership），暂时遏制了机构声望跌落颓势。
@@ -120,16 +110,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与评价
-
 > [!impact-matrix] 政策效能与学术解构
 > - **全球教育观念重塑** 将“[[Lifelong Learning|终身教育]]”从单纯的成人补习或技能培训，升华为统摄个体毕生自我完善的宏观教育哲学，四大支柱被广泛奉为当代教育学常识。
 > - **对新自由主义经济主义的防线** 构成了 1990 年代全球范围内抵御[[Washington Consensus|华盛顿共识]]新自由主义[[Educational Privatisation|教育私有化]]、工具化狂潮的最重要官方多边思想阵地。
 > - **缺乏操作杠杆与纸上乌托邦局限** 由于 [[UNESCO]] 缺乏像[[World Bank|世界银行]]那样的数十亿美元信贷工具箱，报告倡导的崇高理想在面对发展中国家紧迫的财政赤字与债务危机时，往往难以落地为具体的行政操作方案，容易沦为空洞的政治修辞。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议
 >

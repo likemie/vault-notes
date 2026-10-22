@@ -59,11 +59,7 @@ created: 2026-10-07
 updated: 2026-10-15
 ---
 
-# End of History Thesis
-
 ---
-
-## 理论定位
 
 > [!theory-position] 理论坐标
 > - **解释对象** 人类政治制度演进方向、后冷战大国地缘均势变迁，以及意识形态终极形态的合法性基础。
@@ -75,8 +71,6 @@ updated: 2026-10-15
 > 冷战的结束不仅标志着特定战后历史时期的落幕，更标志着人类意识形态演进的终点（The End of History as such）；作为一种政治与经济体制，自由民主制（Liberal Democracy）已无可争议地成为人类政府的“最终形式”（Final Form of Human Government）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Fukuyama, 1989, 1992; Karp & Zamiska, 2025, pp. 31–32)]]
 
 ---
-
-## 理论来源与形成
 
 > [!theory-origin] 思想源流与建构路径
 > - **[[Georg Wilhelm Friedrich Hegel|黑格尔]]与科耶夫的历史哲学遗产** [[Francis Fukuyama|弗朗西斯·福山]]继承了[[Georg Wilhelm Friedrich Hegel|黑格尔]]（G. W. F. Hegel）关于历史是人类追求“获得承认的斗争”（Struggle for Recognition）以及亚历山大·科耶夫（Alexandre Kojève）关于普遍同质国家（Universal and Homogeneous State）的思辨论断，认为历史是有方向、有终点的理性和自由展开过程。
@@ -90,8 +84,6 @@ updated: 2026-10-15
 
 ---
 
-## 关键概念与理论构件
-
 > [!entry-map] 理论构件与功能索引
 > | 理论构件 | 构件类型 | 在理论中的核心功能 |
 > |:---|:---|:---|
@@ -102,8 +94,6 @@ updated: 2026-10-15
 > | **胜者谬误（[[Winner's Fallacy]]）** | 批判性衍生[[Construct\|构念]] | 揭示[[Francis Fukuyama\|福山]]理论给西方战略界带来的认知麻痹，误将阶段性历史优势当成无需捍卫的[[Perpetual Peace\|永久和平]]。 |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一　人类意识形态演进的终点是自由民主制
 > **解释** [[Francis Fukuyama|福山]]论证，君主制、法西斯主义与共产主义等替代性政治意识形态在 20 世纪的竞争中相继瓦解，自由民主制在理念层面已无根本性对手。人类历史并非漫无目的的循环，而是一部朝向自由、平等与民主治理的单向目的论进程。
@@ -122,8 +112,6 @@ updated: 2026-10-15
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 适用范围与分析目标
 > - **适用问题** 分析国际政治秩序演进、大国战略文化变迁、科技精英政治冷漠成因，以及自由主义制度移植的成败边界。
 > - **[[Unit of Analysis|分析单位]]** 国家战略决策层、国际秩序规范体系、科技产业工程师群体的意识形态与文化取向。
@@ -137,8 +125,6 @@ updated: 2026-10-15
 
 ---
 
-## 局限性与适用边界
-
 > [!boundary]- 理论边界与局限
 > - **目的论历史观的先验盲区** 将特定历史时期的政治胜利绝对化为普遍法则，无法解释 21 世纪威权体制借助尖端监控与人工智能技术展现出的超强动员力与技术韧性。
 > - **忽视暴力的底层议价功能** 脱离了[[Thomas Schelling|托马斯·谢林]][[Strategic Bargaining Theory|战略博弈论]]所揭示的常识——没有扎实的物理与软件伤害能力作为后盾，和平倡议将沦为空洞口号。
@@ -146,15 +132,11 @@ updated: 2026-10-15
 
 ---
 
-## 争议与批评
-
 > [!critique] 历史终结论遭遇的核心学术批判
 > - **现实主义批评（Mearsheimer / Schelling）** 进攻性现实主义学者指出，国际体系的无政府状态与大国对相对权力的争夺永不休止；将制度胜负寄托于意识形态终结论是极度危险的战略天真。
 > - **[[Technological Republic|技术共和国]]地缘批判（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）** 专著第 3 章明确指出，[[Francis Fukuyama|福山]]理论是后冷战西方世界观最主要的思想毒素之一，它催生了将和平视为自然常态的[[Winner's Fallacy|胜者谬误]]，导致西方在面对竞争对手前沿军工 AI 突破时一度陷入战略麻痹。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关论证索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3, pp. 31–36)]] — 系统批判[[Francis Fukuyama|福山]]历史终结论所制造的[[Winner's Fallacy|胜者谬误]]，重申 21 世纪大国外交与安全必须依托建立在软件之上的[[Hard Power|硬实力]]。

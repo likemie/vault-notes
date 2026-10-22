@@ -59,11 +59,8 @@ status: draft
 created: 2026-09-22
 updated: 2026-10-22
 ---
-# Practical Epistemology Analysis
 
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Practical Epistemology\|实践认识论]]分析（Practical Epistemological Analysis, PEA）是一种立足于维特根斯坦（Ludwig Wittgenstein）语言游戏理论与[[Pragmatic Paradigm\|实用主义]][[Epistemology\|认识论]]的质性微观[[Discourse Analysis\|话语分析]]方法。该方法由佩尔-奥洛夫·威克曼（Per-Olof Wickman, 2004）与莱夫·厄斯特曼（Leif Östman, 2014）创立，旨在通过微观考察课堂日常对话与操作性行动，追踪参与者如何就地（in situ）协商何者算作有效知识。PEA 将分析焦点从静态的心智信念转向动态的行动认识论，通过识别立足点（`Stand Fast`）、认知裂隙（`Gaps`）与关系建立（`Relations`），系统刻画学习者在面对反常或新现象时意义建构的具体推进轨迹。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
@@ -81,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 知识不是储存在大脑中的静态命题信念，而是在具体社群中通过言语、工具与行动被提出、使用与检验的实践成就。
 > - **研究者角色** 研究者采取“行动中的科学”（science-in-the-making）的[[Ethnography\|人种志]]观察立场，不预设绝对的规范性标准，而是关注参与者自身在互动中如何界定何者算作有效证据。
@@ -97,16 +92,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **确定微观互动事件** 选取师生或同伴围绕某一探究任务（如重力测量、振动规律、化学反应）展开的完整[[Discourse|话语]]片段。
 > 2. **进行多模态精细[[Transcription in Qualitative Research\|转录]]** 将口头言语、停顿、语调高低、身体手势、仪器操作与教具移动同步转录为对应行。
 > 3. **执行 PEA 核心四元编码** 逐句标定对话中的立足点（`Stand Fast`）、认知裂隙（`Gaps`）、建立关联（`Relations`）与情境碰撞（`Encounters`）。
 > 4. **绘制意义建构轨迹** 梳理学生如何通过建立新关联填补裂隙，或者旧有关联为何失效从而引发新的认知裂隙。
 > 5. **提炼教学互动机制** 分析教师介入话语（如元话语提示）或实物工具如何引导学生克服裂隙，形成结论性解释。
-
-### 质性分析程序
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -124,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] [[Practical Epistemology\|实践认识论]]分析的核心分析范畴
 > - **立足点（Stand Fast）** 
 >   在特定互动时刻被参与者理所当然接受、无需争论的基础概念与动作。它是所有意义建构的出发点与依托基石。
@@ -137,8 +126,6 @@ updated: 2026-10-22
 >   学习者与外部物质环境（实验仪器、样本、天球仪）或他人[[Discourse|话语]]发生直接互动，促使潜在假设显性化。
 
 ---
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 
@@ -153,8 +140,6 @@ updated: 2026-10-22
 >   - 测量孤立个体心智中跨情境的抽象认知阶段。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **[[Transcription in Qualitative Research\|转录]]与编码成本高昂** 微观多模态转录耗时巨大，通常仅能对数十分钟的关键课堂片段开展精细分析，[[Sample Size Determination\|样本量]]较为有限。
@@ -174,8 +159,6 @@ updated: 2026-10-22
 > | [[Views of Nature of Science Questionnaire]] | 互补工具 | [[Questionnaire\|问卷]]测量学生去情境化的显性[[Nature of Science\|科学本质]]信念，PEA 则捕捉学生在行动中就地展现的隐性实践认识论。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 综述并运用 PEA 框架分析中小学物理、工程与科学课堂中的[[Epistemic Practices\|认识论实践]]与意义建构。

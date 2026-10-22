@@ -29,10 +29,6 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Four Sprouts
-
-
-
 > [!info] 定义
 > "四端"（Four Sprouts / Four Beginnings）是[[Mencius\|孟子]]（约372-289 BCE）提出的性善论的核心概念。孟子认为，人与动物的根本区别在于人具有独特的道德天性，而这种天性表现为四种与生俱来的道德萌芽（germinations），需要通过后天学习与[[Self-Cultivation\|修身]]来充分实现([[Argument_Li_2012_Cambridge\|Li, 2012, pp.42-43]])。
 

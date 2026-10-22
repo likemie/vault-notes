@@ -66,11 +66,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Project-Based Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 项目式学习（Project-Based Learning，常简称为 PBL 或 PjBL）是一种以学生为中心、基于[[Constructivist Paradigm\|建构主义范式]]的探究型教学组织模式。学生在一段持续的时间内，围绕真实、复杂且具挑战性的驱动性问题（Driving Question），通过自主规划、深度协作、资源检索与持续探究，最终设计、生成并公开展示具有真实应用价值的物化制品或解决方案（Artifact / Public Product）。该模式将学科核心概念与能力的学习深度内嵌于制品开发与[[Problem Solving\|问题解决]]的全过程中。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 项目式学习与相近教学取向对比
 > | 维度 | 项目式学习（Project-Based Learning） | [[Problem-Based Learning\|问题导向学习（Problem-Based Learning）]] | [[Direct Instruction\|直接教学（Direct Instruction）]] |
 > |---|---|---|---|
@@ -104,8 +98,6 @@ updated: 2026-10-22
 > | **认知负荷风险** | 长周期项目规划失控、制品形式主义（Activity Mania） | 缺乏先备知识导致假说推导迷航 | 认知负荷低但易导致被动依赖与高阶迁移受阻 |
 
 ---
-
-## 核心要素
 
 > [!feature] 黄金标准项目式学习的核心要素
 > - **真实驱动性问题（Driving Question）** 聚焦现实生活或学科前沿的[[Open-Mindedness|开放性]]真实议题，为整个项目探究提供持续的目标牵引与认知挑战。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,16 +150,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 项目式学习的历史演进
 > - **1918 — 设计教学法奠基** 克伯屈（William H. Kilpatrick）发表经典论文《设计教学法》（*The Project Method*），将[[John Dewey\|杜威]]（John Dewey）的[[Pragmatic Paradigm\|实用主义]]教育哲学和“[[Learning by Doing\|从做中学]]”（Learning by Doing）理念具象化为以学生有目的活动为核心的教学形态。
 > - **1990s–2000s — 认知科学与[[Constructivist Paradigm\|建构主义]]重塑** 随着学习科学的发展，项目式学习被重新定义为强调核心[[Knowledge Building Theory|知识建构]]、深层探究和[[Metacognition\|元认知监控]]的高阶教学模式。巴克教育研究所（Buck Institute for Education / PBLWorks）系统确立了“黄金标准项目式学习”（Gold Standard PBL）框架。
 > - **2020s — 智能[[Technology Infusion\|技术整合]]与认知协同拓展** [[Generative Artificial Intelligence\|生成式人工智能]]与智能化[[Scaffolding\|脚手架]]深度融入项目式学习，智能工具转型为学习者的认知伙伴，大幅降低了原型迭代与信息综合的门槛，进一步释放了复杂探究的育人价值。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 项目式学习的核心学术争议
 >
@@ -189,8 +175,6 @@ updated: 2026-10-22
 > 项目式学习的有效落地高度依赖学生的[[Self-Regulated Learning\|自我调节学习]]（SRL）能力与教师的[[Scaffolding\|脚手架]]设计。如果缺乏清晰的阶段性反馈与认知引导，学生在复杂探究情境中极易出现迷航、认知超载或低质互动。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

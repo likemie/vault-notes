@@ -54,13 +54,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Intuition-Dependent Mode
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 直觉依赖模式（Intuition-Dependent Mode）是大学生组织大学生活的一种实践图式，其特征是：缺乏清晰刻意的生涯目标规划，对大学[[Champ\|场域]]规则和不同毕业出路的要求不甚了解，凭直觉和既往经验被动地应对大学中的选择，在浑然不觉中错失将大学资源转化为毕业出路优势的时机。该概念由[[Yajun Zheng\|郑雅君]]（2023）在对中国两所顶尖[[Research Universities|研究型大学]] 62 名毕业班学生的跟踪访谈中提出。
 
 > [!quote|notitle]

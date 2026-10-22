@@ -64,11 +64,7 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-# International Education Hubs
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > [[International Education\|国际教育]]枢纽（international education Hubs, IEHs）指一个国家或地区将自身建设并定位为教育、培训、[[Knowledge Production\|知识生产]]和创新活动中心的[[Geopolitics|地缘政治]]项目。IEHs 被视为跨境高等教育的最新发展，代表了"一种更广泛且更具战略性的行动者和活动配置，它建立在并包含了许多近期跨境高等教育的发展"（Knight, 2014a, p.84, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.43]]）。
 
 > [!quote|notitle]
@@ -166,9 +162,7 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 
 - 多个 IEHs 在过去十年间被创建，主要位于东亚和中东：香港（Mok & Bodycott, 2014）、阿拉伯联合酋长国（Halsey Fox & Al Shamisi, 2014; Erfurth, 2019）、新加坡（Sidhu et al., 2014; Erfurth, 2019）([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.44]])
 - IEHs 体现了地方到全球层面之间的相互关联——它们构成了全球性的[[Discourse|话语]]空间，同时又将特定国家/行动者的经济目标空间化，关系到其在全球[[Knowledge-Based Economy|知识经济]]中的参与和定位([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.45]])

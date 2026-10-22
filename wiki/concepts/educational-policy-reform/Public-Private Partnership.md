@@ -84,11 +84,7 @@ created: 2026-06-04
 updated: 2026-10-22
 ---
 
-# Public-Private Partnership
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 公私合作伙伴关系（Public-Private Partnership, PPP），指公共部门（政府机构）与私营部门（营利性商业公司、社会资本或非营利组织）之间建立的长期、制度化协作与契约化治理机制。该概念在当代治理中涵盖两大核心向度：在**公共教育治理与公共服务交付**中，表现为政府将校舍基建（私人融资倡议，PFI）、地方教育局运营、[[School Inspection|学校督导]]评估、教师在职进修及后勤配餐等公共职能向私营资本和跨国教育集团外包，推动了教育的[[Exogenous Privatisation|外生私有化]]并模糊了国家公共性边界；在**战略科技攻关与产业创新**中，表现为政府部门、产业界成熟企业与[[Research Universities|研究型大学]]联合资助、风险共担并协同执行前竞争共性技术攻关的多边三螺旋（[[Triple Helix]]）制度安排。Cardini (2006, pp. 393–395); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–234)]]
@@ -115,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 公私伙伴关系在教育治理与科技攻关两翼的[[Paradigm|范式]]辨析
 > | 考察维度 | 教育服务与治理型 PPP | 战略科技与产学研攻关型 PPP |
 > |---|---|---|
@@ -127,8 +121,6 @@ updated: 2026-10-22
 > | **经典实证载体** | 英国地方教育局外包（Cardini, 2006）、全球国际学校网络（[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b]]） | [[Semiconductor Research Corporation\|SRC]]、[[Sematech]]、[[National Semiconductor Technology Center\|NSTC]]-Natcast（[[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025]]） |
 
 ---
-
-## 核心要素
 
 > [!feature] 公私合作伙伴关系的四大核心要素
 > - **契约化服务外包与治理中介（Contractual Outsourcing & Governance Intermediation）** 政府依托特许协议与绩效合同，将原本由官僚体系直接承担的公共职能（基建、评估、培训）转包给私营部门，重构了政府与一线学校之间的直线行政链条。Cardini (2006)
@@ -182,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -194,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1980s — 战后产业危机与半导体公私联合体萌芽** 面对海外竞争冲击，美国微电子产业设立 [[Semiconductor Research Corporation|SRC]]（1982）与 [[Sematech]]（1987），[[DARPA]] 每年对等匹配 1 亿美元，奠定科技研发 PPP [[Paradigm|范式]]。
 > - **1990s — 英国[[New Public Management|新公共管理]]与私人融资倡议（PFI）兴起** 梅杰与布莱尔政府在公共部门广泛推行私人融资倡议（PFI）与公私伙伴关系，开启公立学校基建与后勤运营的商业外包浪潮。
@@ -204,8 +192,6 @@ updated: 2026-10-22
 > - **2020s — 国家法定[[Innovation Hub|创新中心]]与战略供应链重构** 美国颁布《[[CHIPS and Science Act|芯片与科学法案]]》，设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），确立第三代法定 PPP 模式。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理反思
 >
@@ -222,8 +208,6 @@ updated: 2026-10-22
 > > - **利益输送批评者** 质疑公共财政补贴最终被跨国芯片寡头通过排他性商业转化所独占。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨领域公私合作伙伴关系实证结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

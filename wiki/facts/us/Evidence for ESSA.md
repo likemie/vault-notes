@@ -72,11 +72,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Evidence for ESSA
-
 ---
-
-## 机构与平台定位
 
 > [!claim] 核心定位
 > **Evidence for [[Every Student Succeeds Act\|ESSA]]** 是由约翰斯·霍普金斯大学（Johns Hopkins University, JHU）教育研究与改革中心（Center for Research and Reform in Education, CRRE）在[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）领导下建立的公益性[[Evidence-Based Education\|循证教育]]决策支持与证据清算平台。该平台专为学校校长、学区总监与州教育官员设计，以《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA 2015）法定[[Evidence Standards\|证据标准]]为基准，对全美 K-12 阅读与数学教学方案进行快速严格审查、成本核算与直观可视化呈现。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与演变脉络
-
 > [!dev-timeline] 平台发展历程
 > - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** 美国国会通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全美学区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **2017 — Evidence for ESSA 平台正式上线** JHU CRRE 团队依托[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）三十年学术积累，正式推出 Evidence for ESSA 交互式平台，首期发布 K-12 阅读与数学经过严格审查的项目清单。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > - **2021–至今 — 持续扩展与常态化运营** 在斯莱文逝世后，CRRE 团队持续维持平台的常态化运营与学科扩展，进一步纳入中等教育与全校综合改革方案。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 19–21)]]
 
 ---
-
-## 治理架构与质评规程
 
 > [!actor-grid] 组织治理与执行矩阵
 > - **学术主持与质评团队** 由 JHU CRRE 专职研究员组成，执行标准化[[Qualitative Codebook\|编码手册]]与严格因果效度审查。
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > - **瓷砖卡片生成** 将通过审查的项目转化为直观的交互瓷砖卡片（Tile），展示受试人群、耗材成本与教师培训配套。
 
 ---
-
-## 方案设计与审查体系
 
 > [!feature] Evidence for [[Every Student Succeeds Act\|ESSA]] 五大方法学硬约束（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–26]]）
 > - **高质量独立标准化测量** 强制使用第三方成熟标准化测验，坚决排除研究者或[[Developer-Made Measures\|开发者自编测验]]，防止[[Effect Size\|效应量]]被夸大 50% 至 100%。
@@ -138,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 机制对比：Evidence for ESSA vs WWC
-
 > [!contrast-table] 平台运行机制与服务导向对比：Evidence for [[Every Student Succeeds Act\|ESSA]] vs 美国教育部 [[What Works Clearinghouse\|WWC]]
 > | 比较维度 | Evidence for ESSA（JHU CRRE） | [[What Works Clearinghouse\|What Works Clearinghouse]]（WWC / IES） |
 > |---|---|---|
@@ -151,16 +139,12 @@ updated: 2026-10-22
 
 ---
 
-## 典型案例与实证表现
-
 > [!case] 标杆项目在 Evidence for [[Every Student Succeeds Act\|ESSA]] 的评级表现
 > - [[Success for All]]（SFA）— 凭借多项独立大型多中心整群 [[Randomised Controlled Trials\|RCT]] 评估，在小学阅读全域稳居 **TIER 1 (Strong Evidence)**，详细列出每生每年耗材成本与全校教研辅导员配置需求。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - [[Open Court Reading]]（OCR）— 评为 **Tier 2 (Moderate Evidence)**，基于多项准[[Experimental Research\|实验研究]]数据，清晰标明其在基础自然拼读与词汇教学中的适用情境。
 > - 数字化个性化学习软件 — 多数商业自适应学习软件因缺乏 12 周以上独立标准化测验，被归入 Tier 4（未达标/评估中），推动出版商主动委托第三方开展大样本 RCT。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 学术争议
 >
@@ -171,8 +155,6 @@ updated: 2026-10-22
 > > - **平台辩护立场** 强调审查标准完全公开，执行严格的双盲复核编码程序；入选项目必须基于已发表的第三方独立 [[Randomised Controlled Trials\|RCT]] 数据，且该标准同样使大量未经检验的流行模式被公正排除。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>

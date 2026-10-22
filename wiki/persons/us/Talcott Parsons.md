@@ -43,11 +43,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Talcott Parsons
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Talcott Parsons（1902–1979），20 世纪美国社会学界最具统治力的理论家之一，哈佛大学社会学系长达二十余年的主导人物，[[Structural Functionalism|结构功能主义]]（Structural Functionalism）学派集大成者。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1930–1940年代 — 唯意志行动理论与欧洲古典整合** 批判[[Positivism|实证主义]]与功利主义，确立唯意志行动框架。
 >   - **代表著作** *The Structure of Social Action* (1937); *Essays in Sociological Theory* (1949)。
@@ -82,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 社会系统是一个由行动者、角色期望、制度规范与文化价值相互协调构成的自平衡有机体；在现代西方高度分工与竞争性的社会结构中，大量成年人因社会继承权的落空而在主观上陷入不可避免的不满意与受挫体验，这种普遍存在的不公正对待感被广泛用作安抚心理挫败与开脱个人失败责任的社会心理机制。（Parsons, 1947, 1951）
 
 ---

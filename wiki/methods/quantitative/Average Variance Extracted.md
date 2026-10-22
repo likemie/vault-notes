@@ -44,11 +44,7 @@ created: 2026-08-28
 updated: 2026-10-22
 ---
 
-# Average Variance Extracted
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **平均方差抽取量（Average Variance Extracted, AVE）** 是由 Claes Fornell 与 David F. Larcker 于 1981 年提出的量化心理测量学指标，用于在[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）与结构方程模型（[[Causal Modeling\|SEM]]）中衡量潜[[Variable\|变量]]所解释的观测指标方差相对于测量误差方差的平均比例。AVE 是确立测量工具[[Convergent and Discriminant Validity\|收敛效度]]（Convergent Validity）与区分效度（Discriminant Validity）的黄金判定标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–7)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 假定可观测题项的变异由潜[[Variable\|变量]]的“真变异”（共同性）与“测量误差”（特异变异与随机误差）共同构成，效度高低取决于真变异在总变异中的相对份额。
 > - **研究者角色** 在估计 [[Confirmatory Factor Analysis\|CFA]] 模型后，提取标准化因子载荷进行严谨的数学方差分解，而非依赖主观内容判断。
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > - **辅助技术** 极大似然估计（ML）、稳健极大似然估计（MLR）、`semTools` 自动化[[Reliability\|可靠性]]矩阵提取。
 
 ---
-
-## 数学原理与计算公式
 
 > [!formula-step] 公式步骤　平均方差抽取量（AVE）计算公式
 > $$\text{AVE} = \frac{\sum_{i=1}^{k} \lambda_i^2}{\sum_{i=1}^{k} \lambda_i^2 + \sum_{i=1}^{k} \theta_i}$$
@@ -108,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 区分效度检验：Fornell-Larcker 准则
-
 > [!formula-step] 公式步骤　Fornell-Larcker [[Convergent and Discriminant Validity\|区分效度]]判定
 > $$\text{AVE}_j > r_{jk}^2 \quad \Longleftrightarrow \quad \sqrt{\text{AVE}_j} > |r_{jk}| \quad (\forall k \neq j)$$
 >
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > > - 若对角线数值小于某一同行/同列的相关系数，表明两维度存在严重概念重叠，需考虑合并因子或重构量表。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] R 语言计算 AVE 与 CR 实现代码
 > ```R
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示四个维度 AVE 为 .50–.56，均达标且高于因子间决定系数，收敛与[[Convergent and Discriminant Validity|区分效度]]良好。

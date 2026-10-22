@@ -51,11 +51,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# National Education Policy Center
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **国家教育政策中心（[[National Education]] Policy Center, NEPC）** 是设于美国科罗拉多大学博尔德分校（University of Colorado Boulder）教育学院的非营利独立学术智库与[[Educational Brokerage Agency\|知识中介机构]]。中心致力于生成、综合与广泛传播严谨的、经过同行评议的高质量教育实证研究，首创将实证综述与专业律师示范法条深度整合的[[Legislative Policy Brief\|立法政策简报]][[Paradigm\|范式]]，直接为国家与各州立法机构提供具有法律可操作性的改革方案。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
@@ -68,16 +64,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1998–2009 — 前身奠基与商业智库报告审查起步** 针对 1990 年代末美国大量由意识形态基金会资助的低质政策白皮书充斥国会的现状，创办“三思而行”（Think Twice）项目，开创性地对商业智库发布的教育改革报告进行严格学术同行评议与方法学拆解。
 > - **2010–2018 — NEPC 正式成立与政策简报体系成熟** 整合 EPIC 与 EPRU，正式升格组建国家教育政策中心；系统推出主题政策简报（Policy Briefs）、法规解读及全国性教育评估报告，汇聚全美数百位跨学科顶级研究员（NEPC Fellows）。
 > - **2019–至今 — [[Legislative Policy Brief\|立法政策简报]]创制与法条化传播引领** 针对传统政策简报无法直接进入法案草案的困境，联合专业执业律师与资深法案起草员，正式确立立法政策简报（Legislative Policy Brief）文类标准，将实证结论直接转化为**法定示范条文（Model Statutory Language）**，成为全美教育立法智库的新标杆。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策领导层（Director & Steering Committee）** 由资深教育法学与政策领袖统筹，负责把控中心重大科研规划、资助独立性与学术道德准则。
@@ -86,8 +78,6 @@ updated: 2026-10-22
 > - **政策传播与媒体中介枢纽** 专设科学传播团队，负责将长篇学术综述精简为“一页纸诉求”与[[Legislative Policy Brief\|立法政策简报]]，直接对接国会常设委员会幕僚。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 45–46)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Legislative Policy Brief\|立法政策简报]]（Legislative Policy Brief）** NEPC 标志性转化工件，深度融合“核心实证[[Research Synthesis|研究综合]] ＋ 操作性政策诉求 ＋ 专业律师起草的法定示范条文”，直接为国会委员会法律顾问提供可剪贴吸收的现成法案草案。
@@ -102,16 +92,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **打通科学研究通往法案文本的“最后一公里”** 通过法定示范条文，NEPC 从根本上解决了立法幕僚“认可学者观点却无暇起草法条”的制度瓶颈，其起草的多部示范法规被各州议会直接吸纳进正式法案文本。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 > - **重塑公共政策[[Discourse|话语]]的科学审慎度** 通过 Think Twice 项目的持续监督，遏制了伪劣实证数据向立法中枢的渗透，迫使各智库提升报告编写的研究方法水准。
 > - **典[[Paradigm\|范式]]履行教育[[Educational Brokerage Agency\|知识经纪]]功能** 成为全美公认的连接大学前沿科研成果与宏观立法机构的顶级知识中介机构。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

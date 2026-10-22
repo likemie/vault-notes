@@ -40,8 +40,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# TUFF
-
 > [!info] 内容
 > 大学融资基金会（The University Financing Foundation, TUFF）是 1982 年在佐治亚州亚特兰大成立的 501(c)(3) 运营基金会，由佐治亚理工学院（Georgia Tech）校友创立，专门为大学[[Innovation Park\|研究园区]]和[[Innovation Hub\|创新中心]]提供开发、融资和[[Placemaking\|场所营造]]服务([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.123]])。
 

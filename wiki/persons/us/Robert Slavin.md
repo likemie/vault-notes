@@ -79,12 +79,9 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# Robert Slavin
 （罗伯特·斯拉文）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国约翰霍普金斯大学（Johns Hopkins University）教育研究与改革中心（CRRE）主任，教育心理学家，2018 年美国心理学会（APA）第 15 分会 **E. L. Thorndike 终身成就奖** 获得者。
@@ -106,8 +103,6 @@ updated: 2026-10-22
 > - **2021 — 逝世与学术遗产的延续** 2021 年 4 月逝世。逝世前与张志强、[[Tengteng Zhuang\|庄腾腾]]联合在 *ECNU Review of Education* 发表特刊论文（[[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021]]），系统回应华语学界对[[Positivism\|实证主义]]的质疑；其确立的严格基线等效与元分析准入规程，持续作为后续学者（如 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）评估前沿 AI 教育干预的核心方法基准。
 
 ---
-
-## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
 > - **1980–1990 年代 — [[Cooperative Learning\|合作学习]]与整体学校改革阶段**
@@ -136,9 +131,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > Slavin 的核心思想归结为教育改革的 **“循证累积[[Paradigm\|范式]]”** 教育要摆脱意识形态与未经检验的教学时尚钟摆，就必须像现代医学一样，建立在对**具体项目**（而非抽象原则）的**严谨实验比较（偏好[[Random Assignment\|随机分配]]与基线严格等价的准实验）** 基础之上；通过“大量验证项目、公信证据审查机构、法律与财政政策激励”三者合力，推动教育系统实现稳定、不可逆的持续进步。[[Argument_Slavin_2002_ER\|(Slavin, 2002)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019)]]; [[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021)]]
 
 > [!citation-card] 实验规模与不可逆教育进步
@@ -148,9 +141,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 提出并完善[[Evidence-Based Education\|证据本位教育]]改革理论，确立三条件框架与渐进累积改良模型。
 > - **方法路径** 制定了一阶与[[Meta-meta-analysis\|二阶元分析]]的方法学筛查规范（强制剔除 $d \ge 0.25$ 基线不平衡、每组[[Sample Size Determination\|样本量]]必须 $\ge 15$、排除开发者自制测验以防高估），这一规范被美国 [[What Works Clearinghouse\|WWC]] 及新一代教育技术实证学者严格继承。
 > - **政策路径** 直接促成了美国联邦两代教育法案（NCLB 2001 的“科学本位研究”要求与 ESSA 2015 的四级证据层级绑定），使数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦学校改善拨款必须依据实证等级投放。
@@ -172,8 +163,6 @@ updated: 2026-10-22
 > - **制度化机构** [[What Works Clearinghouse\|WWC]] / [[Best Evidence Encyclopedia\|BEE]] — Slavin 的理念是 WWC 建立的思想先导，其创办的 BEE 则成为与之竞争并互补的独立学术清算中心。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

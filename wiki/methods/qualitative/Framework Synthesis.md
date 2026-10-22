@@ -58,11 +58,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Framework Synthesis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 框架综合（Framework Synthesis）是[[Systematic Review\|系统综述]]中处理多样化实证证据的一种质性综合方法：研究者先基于既有理论或概念框架构建一个先验的"最佳拟合"[[Analytic Framework\|分析框架]]，再以该框架作为[[Open Coding|初始编码]]与数据组织的模板，在综合过程中允许新主题从数据中[[Emergence\|涌现]]并迭代修订框架（Brunton et al., 2020; Booth et al., 2022; Gough et al., 2017）。框架综合源于框架分析（Framework Analysis），后者最初用于分析研究数据以服务政策议题（Gale et al., 2013）。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 方法本身认识论上灵活，可配合[[Positivism\|实证主义]]也可配合[[Critical Realism\|批判实在论]]。批判实在论取向把表面可观察的模式解释为深层机制的结构化生成物，因而把分析注意力引向"支配[[Research Utilization\|研究使用]]的条件与机制"，而不是仅作屏障与促进因素频数统计（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.6]]）。
 > - **研究者角色** 研究者既是证据的组织者，也是理论的整合者：先验框架的选择本身承载理论判断，随后的配置式（configurative）分析也依赖研究团队的解释性协商。
@@ -96,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **提出问题与检索文献** 明确[[Research Question\|研究问题]]，制定纳入排除标准，在多个数据库执行系统检索。
 > 2. **构建初始框架** 综合既有理论或概念框架，形成先验的初始概念框架作为编码模板。
@@ -111,16 +103,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 当既有理论框架已较成熟、需要被经验证据检验或整合时；当纳入研究的设计与证据形态高度多样（定量、质性、混合）需要统一分析骨架时；当综述目的是推进概念化而非仅统计[[Effect Size\|效应量]]时（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.6]]）。
 > - **谨慎使用** 当先验框架本身缺乏概念清晰性或可[[Operationalization\|操作化]]定义时；当框架覆盖范围与研究领域明显不匹配时，需在综合中补充新主题。
 > - **不适合使用** 当[[Research Question\|研究问题]]要求统计合并效应量时（应改用[[Meta-analysis]]）；当没有任何可用先验理论、需要纯粹从数据生成主题时（应改用主题综合 [[Thematic Synthesis]] 等更开放的归纳方法）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 先验框架会敏化分析者注意系统性与关系性模式，可能使个体层面因素在配置式综合中相对不突出；团队的[[Theoretical Perspective\|理论取向]]不同，识别的机制可能被赋予不同权重（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.6]]）。
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > | [[Critical Realism\|批判实在论（Critical Realism）]] | [[Epistemology\|认识论]]支撑 | 批判实在论为识别深层治理机制的配置式分析提供认识论基础 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 以整合多层级[[Research Utilization\|研究使用]]框架为先验框架，综合 109 项实证研究并识别出信任、技能发展、可持续结构与关系四类跨层治理机制。

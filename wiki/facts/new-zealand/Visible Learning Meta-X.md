@@ -73,8 +73,6 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-## 项目背景与立项契机
-
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 随[[John Hattie|约翰·哈蒂]]（John Hattie）2009 年出版《[[Visible Learning|可见的学习]]》（*Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*）而建立，此后持续滚动更新，当前（2026 年）收录[[Meta-analysis|元分析]]总量已超过 2,100 项，处于常态化维护状态。
 > - **发起方与资助机制** 由哈蒂个人学术团队主持，依托其在澳大利亚墨尔本大学（University of Melbourne）与奥克兰大学（University of Auckland）的研究职位及相关商业实体（[[Corwin Press|Corwin]] 出版集团授权的 Visible Learning Plus 培训生态）共同维护。数据库建设无单一公共科研资助来源，融合学术团队劳动与商业授权模式。
@@ -86,8 +84,6 @@ updated: 2026-10-22
 > Visible Learning Meta-X 是[[Visible Learning|可见的学习]]框架的核心实证基础设施——世界上规模最大的教育元分析汇聚数据库，系统收录一阶元分析的综合效应量（$d$）、纳入研究篇数（$k$）与参与者总人数（$N$），使研究者得以在单一结构化数据集上开展[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）比较。
 
 ---
-
-## 数据库结构与内容
 
 > [!feature] 数据库核心特征
 > - **收录规模** 截至 2026 年，已收录超过 2,100 项涉及学生[[Academic Achievement|学业成就]]的教育一阶[[Meta-analysis|元分析]]，是目前同类研究基础设施中规模最大的。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 1–2)]]
@@ -103,8 +99,6 @@ updated: 2026-10-22
 > | **参与者总量** $N$ | 纳入定量合并分析的学生/被试总人数 | 若分散在多分表或亚组中需执行跨表累加；全文均未报告时编码为缺失值 |
 
 ---
-
-## 因素汇总口径与核算
 
 > [!index-table] 因素层汇总字段的计算口径
 > | 字段 | MetaX 计算方式 | 解读边界 |
@@ -150,8 +144,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | 学生 | 77 | 423 / 371 | <span class="mx-bar"><span class="b4"></span></span>0.18 | 0.16 | 0.20 | 0.44 | −0.74 ~ 1.28 | 24 |
 > | 家庭 | 24 | 146 / 134 | <span class="mx-bar"><span class="b4"></span></span>0.18 | 0.35 | 0.23 | 0.24 | −0.38 ~ 0.58 | 4 |
 > | 全部 | 440 | 2,720 / 2,478 | <span class="mx-bar"><span class="b7"></span></span>0.37 | 0.39 | 0.41 | 0.33 | −0.74 ~ 1.34 | 45 |
-
-### 各领域的子领域
 
 > [!metax-subdomain]- 教学策略 · 3 个子领域 · 70 个因素
 > | sub | n | dm | dw | rng | neg |
@@ -236,8 +228,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 
 全部 440 个因素按子领域列出，因素名链接到对应条目，同一条目可收录多个因素。
 
-#### 教学策略
-
 > [!metax-factors]- 学习意图 · 12 个因素
 > | fac | rate | ma | k | dw | rob |
 > | --- | --- | --- | --- | --- | --- |
@@ -320,8 +310,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Feedback\|反馈（自我层面）]] | ★☆☆☆ 微弱正向 | 2 | 103 | <span class="mx-bar"><span class="b3"></span></span>0.14 | ●●○○○ |
 > | [[Testing Monitoring Tools\|测验监测工具]] | ★☆☆☆ 微弱正向 | 1 | 14 | <span class="mx-bar"><span class="b2"></span></span>0.12 | ●●○○○ |
 
-#### 学生学习策略
-
 > [!metax-factors]- 元认知／自我调节学习 · 16 个因素
 > | fac | rate | ma | k | dw | rob |
 > | --- | --- | --- | --- | --- | --- |
@@ -403,8 +391,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Learning Styles\|按学习风格匹配教学]] | ★☆☆☆ 微弱正向 | 4 | 150 | <span class="mx-bar"><span class="b2"></span></span>0.11 | ●●●○○ |
 > | [[Student Control over Learning\|学生学习自主权]] | ★☆☆☆ 微弱正向 | 6 | 226 | <span class="mx-bar"><span class="b0"></span></span>0.02 | ●●●○○ |
 
-#### 课程
-
 > [!metax-factors]- 数学与科学 · 13 个因素
 > | fac | rate | ma | k | dw | rob |
 > | --- | --- | --- | --- | --- | --- |
@@ -480,8 +466,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Social-Emotional Learning\|社会情感学习]] | ★☆☆☆ 微弱正向 | 7 | 666 | <span class="mx-bar"><span class="b3"></span></span>0.14 | ●●●●○ |
 > | [[Juvenile Delinquent Programs\|青少年犯罪矫治项目]] | ★☆☆☆ 微弱正向 | 1 | 15 | <span class="mx-bar"><span class="b2"></span></span>0.12 | ●○○○○ |
 > | [[Diversity Courses\|多元文化课程]] | ★☆☆☆ 微弱正向 | 1 | 307 | <span class="mx-bar"><span class="b2"></span></span>0.09 | ●●○○○ |
-
-#### 技术、学校与校外策略
 
 > [!metax-factors]- 虚拟／增强现实 · 6 个因素
 > | fac | rate | ma | k | dw | rob |
@@ -592,8 +576,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Whole-School Improvement\|全校改进项目]] | ★☆☆☆ 微弱正向 | 3 | 117 | <span class="mx-bar"><span class="b3"></span></span>0.16 | ●●●○○ |
 > | [[Whole-School Improvement\|全校缩小成就差距]] | ★☆☆☆ 微弱正向 | 1 | 30 | <span class="mx-bar"><span class="b2"></span></span>0.11 | ●○○○○ |
 
-#### 教师
-
 > [!metax-factors]- 教师特质 · 15 个因素
 > | fac | rate | ma | k | dw | rob |
 > | --- | --- | --- | --- | --- | --- |
@@ -627,8 +609,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Teacher Professional Development Programs\|读写教学专业发展]] | ★☆☆☆ 微弱正向 | 2 | 26 | <span class="mx-bar"><span class="b4"></span></span>0.20 | ●○○○○ |
 > | [[Initial Teacher Training\|职前教师教育]] | ★☆☆☆ 微弱正向 | 7 | 177 | <span class="mx-bar"><span class="b2"></span></span>0.12 | ●●●○○ |
 > | [[Out-of-Field Teaching\|专业对口与非对口教学]] | ★☆☆☆ 微弱正向 | 1 | 65 | <span class="mx-bar"><span class="b1"></span></span>0.05 | ●●○○○ |
-
-#### 课堂
 
 > [!metax-factors]- 课堂氛围 · 10 个因素
 > | fac | rate | ma | k | dw | rob |
@@ -667,8 +647,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Tracking\|分轨／分流]] | ★☆☆☆ 微弱正向 | 15 | 594 | <span class="mx-bar"><span class="b2"></span></span>0.09 | ●●●○○ |
 > | [[Open Classroom Movement\|开放式与传统课堂]] | ★☆☆☆ 微弱正向 | 4 | 315 | <span class="mx-bar"><span class="b0"></span></span>0.02 | ●●○○○ |
 > | [[Multi-Grade Classes\|复式／混龄班级]] | ★☆☆☆ 微弱正向 | 2 | 18 | <span class="mx-bar"><span class="b0"></span></span>0.01 | ●●○○○ |
-
-#### 学校
 
 > [!metax-factors]- 领导 · 5 个因素
 > | fac | rate | ma | k | dw | rob |
@@ -720,8 +698,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Magnet Schools\|磁石学校]] | ★☆☆☆ 微弱正向 | 1 | 24 | <span class="mx-bar"><span class="b0"></span></span>0.01 | ●○○○○ |
 > | [[Summer Vacation Length\|暑假长度]] | ▼ 负向影响 | 1 | 39 | <span class="mx-bar neg"><span class="b2"></span></span>−0.09 | ●○○○○ |
 > | [[COVID-19 Disruption to Schooling\|新冠疫情]] | ▼ 负向影响 | 8 | 223 | <span class="mx-bar neg"><span class="b4"></span></span>−0.18 | ●●●○○ |
-
-#### 学生
 
 > [!metax-factors]- 先备知识与背景 · 13 个因素
 > | fac | rate | ma | k | dw | rob |
@@ -828,8 +804,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > | [[Dialect Use\|方言使用]] | ▼ 负向影响 | 1 | 19 | <span class="mx-bar neg"><span class="b12"></span></span>−0.61 | ●○○○○ |
 > | [[Autism Spectrum Disorder\|孤独症]] | ▼ 负向影响 | 1 | 36 | <span class="mx-bar neg"><span class="b15"></span></span>−0.74 | ●●○○○ |
 
-#### 家庭
-
 > [!metax-factors]- 家庭资源 · 6 个因素
 > | fac | rate | ma | k | dw | rob |
 > | --- | --- | --- | --- | --- | --- |
@@ -880,8 +854,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 
 ---
 
-## 推进历程与版本演进
-
 > [!dev-timeline] 数据库发展历程
 > - **2009 — 初版发布** [[John Hattie|哈蒂]]出版《[[Visible Learning|可见的学习]]》，首次系统汇聚 800+ 项[[Meta-analysis|元分析]]，确立 $d = 0.40$ 关节点基准，数据库以附录与工作文件形式伴随出版物发布。
 > - **2012 — 教师版扩展** 出版《教师可见的学习》（*Visible Learning for Teachers*），进一步扩充至 900+ 项元分析，强化教学实践导向。
@@ -889,8 +861,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > - **2024 至今 — [[Meta-meta-analysis|二阶元分析]]研究平台** Meta-X 数据库逐步成为国际研究团队开展二阶元分析与[[Automated Data Extraction|自动化数据提取]]方法学研究的标准测试平台，[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 即以其[[Random Sampling|随机抽样]]的 156 项元分析开展大语言模型（Large Language Models, LLMs）数据提取准确性评估。
 
 ---
-
-## 学术用途与典型应用
 
 > [!actor-grid] 主要使用群体与应用取向
 > - **教育政策与实务决策者** 利用数据库快速检索并定位特定教育干预的综合[[Effect Size|效应量]]证据，支持学校改进决策、资源分配与政策优先级排序。
@@ -902,8 +872,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > - **跨主题二阶综合研究** 研究者基于数据库开展主题聚焦的二阶元分析（如特定学科教学效果、弱势群体干预效能），汇聚跨元分析的[[Effect Size|效应量]]变异，检验调节[[Variable|变量]]与[[Publication Bias|发表偏倚]]。
 
 ---
-
-## 方法学争议与局限
 
 > [!debates] 核心争议与学术批判
 >
@@ -927,8 +895,6 @@ MetaX 现行分类扩展为 9 个领域、43 个子领域。下表用 2026 年 1
 > - **效应量口径[[Heterogeneity|异质性]]** 数据库汇聚来自不同方法学规范下编制的元分析，各研究在效应量计算模型（[[Fixed-Effect Model|固定效应]] vs [[Random-Effects Model|随机效应]]）、样本纳入标准和测量工具的选取上存在实质性差异，限制了跨主题直接比较的效度。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 均值稀释效应与缺乏淘汰机制批判
 > 自 2009 年以来，可见学习数据库大幅扩充，纳入研究从最初的 800 项激增至 2,100 余项，影响因素从 138 项膨胀至 350 余项。由于平均数计算的内在属性，向某类因素中追加新的 $d$ 值只会对其产生极其微弱的边际改变；新增的极具[[Paradigm|范式]]转变意义的研究，其权重并不比库中既有研究更高。加之数据库完全缺乏淘汰机制，陈旧研究即使已被学界推翻依然长期留存。这无法提炼深层真理，只是陈旧效应与新增效应永无休止的机械拼凑。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 27)]]

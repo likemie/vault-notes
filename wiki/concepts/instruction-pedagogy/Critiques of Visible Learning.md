@@ -200,14 +200,10 @@ created: 2026-05-21
 updated: 2026-10-22
 ---
 
-# Critiques of Visible Learning
-
 > [!tip] 知识网络与批评条目维护分流指引
 > 本条目定位为 [[Visible Learning]] 外部学理批评的系统全景枢纽，系统涵盖方法论假性精确、教学论空洞、教育哲学偏狭、可见性规训、新泰勒制监控与商业化扩张等六大批评脉络。在更新本条目时，必须注意与其他细分专用条目的分流与联动：宏观理论本体见 [[Visible Learning]]；商业化扩张与版税利益追踪见 [[Visible Learning Branding and Global Influences]]；哲学划界与[[Cargo Cult Science|货物崇拜科学]]深度批判见 [[Cargo Cult Science]]；[[Meta-analysis|元分析]]方法学争议见 [[Critique of Meta-analysis]] 与 [[Meta-analysis]]。子条目维护分流矩阵详见文末 [[#相关条目网络与维护指引|相关条目网络与维护指引]]。
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **对可见学习的批评（Critiques of [[Visible Learning]]）** 指围绕新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）及其《[[Visible Learning|可见的学习]]》体系所形成的跨学科、多维度学术批判网络。该批评谱系不仅质疑特定[[Effect Size|效应量]]数值的准确性或排名顺序，更从统计计量学、[[Didaktik|教学理论]]、教育哲学、可见性权力政治、劳动过程监控、政商利益网络与科学哲学划界等层面，系统解构该框架如何将复杂的教育活动压缩为可度量、可排序、可监控的技术指标，揭示其披着[[Positivism|实证主义]]外衣服务于新自由主义紧缩治理与商业变现的实质。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]; [[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]
@@ -237,7 +233,6 @@ updated: 2026-10-22
 > | **批评终局判定** | 在当前学术发表条件下不可行；数据复现率 <1%，不可作为决策依据 | 未找到教育有效性的普遍法则；以工具理性替代生命价值，造成观察视域的系统性盲区 | 充当新自由主义治理与跨国咨询资本推销廉价修补方案的意识形态武器 |
 
 ---
-## 核心要素
 
 > [!dimension] 可见学习外部学理批评的六大核心维度
 > - **方法论假性精确与统计无效性（Methodological Pseudo-Precision & Statistical Invalidity）**
@@ -824,7 +819,6 @@ updated: 2026-10-22
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] 以全库不足 1% 的数据复现率证实其彻底不可作为教育决策与政策制定的可靠依据。
 
 ---
-### 命题总览
 
 > [!contrast-table] 六大核心批评命题与学术谱系归纳
 > | 命题类型 | 核心理论判定 | 关键分析机制与工具 | 代表学者 |
@@ -837,7 +831,6 @@ updated: 2026-10-22
 > | **命题六：支持者的学理辩护反思与全景共识** | 理论辩护难以弥合封闭商业专营与机械落地的脱节，学界形成否定定论 | 解释社群二分法、认识论互补、鲁曼结构耦合、全库元科学不可复现定论 | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]]；[[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
-## 概念演变
 
 > [!dev-timeline] 对可见学习批评的四个演进阶段
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学[[Ivan Snook|伊万·斯努克]]（Ivan Snook）领衔的批判团队（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从[[Meta-meta-analysis|二阶元分析]]缺乏底层质控导致粗糙输入诱发荒谬输出（GIGO）、0.40 截断值主观武断（医学阿司匹林 $d=0.07$ 反例）、单一均值抹杀学段学科差异，以及援引[[Roy Nash|罗伊·纳什]]（Roy Nash）与 Richard Harker et al. 方差分解证实 70%–80% 差异取决于家庭背景等维度系统敲响警钟，严厉警示宏观数据被滥用为削减生均投入与转嫁问责的危险；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
@@ -880,11 +873,9 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
-批评文献通过严格的[[Primary and Secondary Documents|原始文献]]核对、统计重算与[[Metascience|元科学]]审计，提炼出一系列解构可见学习（[[Visible Learning]]）体系结论的实证检验指标：
-
 > [!ref-table] 关键批评文献实证核查与元科学复现审计数据汇总表
+> 批评文献通过严格的[[Primary and Secondary Documents|原始文献]]核对、统计重算与[[Metascience|元科学]]审计，提炼出一系列解构可见学习（[[Visible Learning]]）体系结论的实证检验指标：
+>
 >
 > | 审计研究 | 审计对象与样本 | 研究设计与方法 | 核心检验[[Variable\|变量]]／指标 | 原始统计检验结果 | 审计发现与显著性 | 学理结论与解释边界 |
 > |---|---|---|---|---|---|---|
@@ -927,8 +918,6 @@ updated: 2026-10-22
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — [[Preregistration|预注册]]全量[[Metascience|元科学]]系统审计，以 19% [[PICO Framework|PICO]] 合规率与不足 1% 的数据复现率在实证上彻底确立不可作为决策依据的定论。
 
 ---
-
-## 相关条目网络与维护指引
 
 > [!entry-map] Critiques of [[Visible Learning]] 知识网络与子条目维护分流矩阵
 > 本条目定位为 Visible Learning 外部学理批评的系统全景枢纽，系统涵盖方法论假性精确、教学论空洞、教育哲学偏狭、可见性规训、新泰勒制监控与商业化扩张等六大批评脉络。在更新相关批评知识时，**AI 助手与维护者必须依据下述分工矩阵进行分流维护，严禁将所有衍生细节堆砌在单一页面**，以保障学术 wiki 架构的专业深度与模块化独立性。

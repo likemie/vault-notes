@@ -61,11 +61,7 @@ created: 2026-08-03
 updated: 2026-10-22
 ---
 
-# Phronesis（实践明智 / 实践智慧）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **实践明智（Phronesis，亦译实践智慧或实践理性）** 源自古希腊哲学家[[Aristotle|亚里士多德]]的《尼各马可伦理学》（*Nicomachean Ethics*, 1140b），是指在具体、非结构化且充满不确定性的情境中，个体基于对“人类至善”（Human Flourishing / Eudaimonia）或系统最优目标的追求，审慎权衡多元冲突价值与复杂动态[[Variable|变量]]，进而做出正确理智判断与适切行动的高阶实践智慧。该概念超越了抽象普适的[[Theoretical Knowledge|理论知识]]（Episteme）与流水线式的技术制作技能（Techne），构成了[[Curriculum as Process|作为过程的课程]]、教师临床[[Professional Judgment|专业判断]]以及尖端实验制造排障的共同[[Epistemology|认识论]]基石。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 67–68)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47, 56)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Aristotle|亚里士多德]]知识三元结构与现代扩展
 > | 比较维度 | [[Praxis\|实践]]明智（Phronesis） | [[Theoretical Knowledge\|理论知识]]（Episteme） | 制作技术（Techne） | 算法自动化（Algorithm） |
 > |---|---|---|---|---|
@@ -105,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **高度情境适切性（Situational Attunement）** 实践智慧无法脱离微观现场而独立存在，解题者必须对具体教学课堂、临床诊室或制造车间的细微征兆与多约束边界保持敏锐感知。
 > - **价值导向与责任担当（Value Orientation / Telos）** 审议过程受长远道德善、人类繁荣或系统总体效能的目标牵引，绝非[[Value Neutrality|价值中立]]的工具理性算计。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
 > - **非算法即兴审议（Non-algorithmic Deliberation）** 无法通过机械套用现成操作手册或线性公式来替代决策，强调面对异常扰动时的临场调优与权衡取舍。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 68)]]
@@ -159,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -177,8 +167,6 @@ updated: 2026-10-22
 > - **2020s 至今 — 智能时代手艺传承与反纯算力迷思** 面对大语言模型与自动化系统的普及，科学哲学与科技政策学者重新发现 *Phronesis* 在实体工程排障、复杂实验仪器研制与人机共创中的独特价值，强调机器算法无法替代具身实践智慧。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议
 >

@@ -60,11 +60,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Programme for the International Assessment of Adult Competencies
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 国际成人能力评估项目（Programme for the International Assessment of Adult Competencies，PIAAC）是[[OECD\|经合组织]]（[[OECD]]）于 2011 年推出的大规模成人核心认知技能跨国评估工程；作为针对劳动年龄人口的“成人版 [[PISA]]”，旨在测定数字化[[Knowledge-Based Economy\|知识经济]]时代成年劳动力在读写、计算与自适应[[Problem Solving\|问题解决]]上的实际技能储备与配置效率。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对全球产业技术革命与老龄化社会带来的“技能折旧”与“技能错配”危机，破除仅凭传统学历文凭评估劳动者能力的制度盲区，将[[Human Capital Theory\|人力资本]]测量延伸至终身发展全生命周期。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > PIAAC 的核心假说认为：国家经济繁荣与社会凝聚力取决于劳动力所实际掌握并活化的“实际技能（Actual Skills）”，而非僵化的学历文凭；通过计算机自适应直接测验与丰富的背景调查，准确诊断技能赤字与利用不足，能够引导国家从单一学校教育投资转向全方位的终身技能生态治理。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -95,16 +89,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2011–2018 年 — 第一轮全球多批次基准测评** 2011–2012 年完成第一批 24 国实测（2013 年发布首份全球报告《技能展望》），2014–2015 年推进第二批 9 国测评，2017–2018 年推进第三批 5 国实测，建立首个全球成人[[21st Century Skills and Competencies Discourse\|核心素养]]微观数据库。
 > - **2018–2022 年 — 理论迭代与自适应能力重构** 总结第一轮经验，修订技能理论构架，将“技术丰富环境中的[[Problem Solving\|问题解决]]”拓展升级为面向数字化绿色转型的“自适应问题解决（Adaptive Problem Solving）”，并全面采用触屏平板数字化采集。
 > - **2022 年至今 — 第二轮跨国实施与技能折旧监测** 启动涵盖逾 30 个国家的第二轮评估，重点监测新冠公共卫生危机后成年人的数字化鸿沟、居家远程办公技能转型以及自动化人工智能冲击下的劳动力技能折旧态势。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[OECD]] 技能中心（Centre for Skills）及 PIAAC 战略管理委员会。
@@ -118,8 +108,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对计算机熟练度极低的成年受试者，智能切换至纸质基础模块测验，防止数字界面操作障碍污染基础识字能力的测度。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 各国成人[[Further Education\|继续教育]]与培训（CVET）参与率、国家公共技能培训预算占 GDP 比重。
@@ -135,8 +123,6 @@ updated: 2026-10-22
 > 涵盖近 40 个国家和经济体、累计入户测试超 250,000 名成年劳动者，建立全球最大成人认知微观公共数据集，成为测算现代[[Human Capital Theory\|人力资本]]贬值与增值的顶级金标准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

@@ -103,11 +103,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Scaffolding
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教学脚手架（Scaffolding）源于 Wood, Bruner, & Ross (1976) 在儿童[[Problem Solving\|问题解决]]辅导研究中的开创性界定，并植根于[[Lev Vygotsky\|维果茨基]]的[[Zone of Proximal Development\|最近发展区]]（ZPD）理论。它指教师、专家同伴或数字化与智能系统在学习者独自难以完成复杂任务时，所提供的具有针对性、自适应且随能力提升逐步撤除（渐隐，Fading）的临时性认知与结构支持。在科学探究与理科教学中，脚手架涵盖过程约束、状态提示、启发线索、概念模板、即时原理解释与操作反思等多种形态，通过分担表层信息检索与规则排错负荷，脚手架使学习者有限的[[Working Memory\|工作记忆]]能够集中于高阶因果推理与证据协调，最终促进外部支持内化为自主认知图式。在智能[[Man-Computer Symbiosis|人机协同]]与决策支持中，脚手架进一步拓展为提供可抗辩性支持与审议所有权的反思机制，校准批判性信任并防范[[Automation Bias|自动化偏差]]。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 3–5)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 4)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 3–4)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–24)]]
@@ -136,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教学脚手架 vs [[Direct Instruction\|直接讲授]] vs 盲目自由探究
 > | 比较维度 | 教学脚手架（Scaffolding） | 直接教学（Direct Instruction） | 盲目自由探究（Unguided Discovery） |
 > |---|---|---|---|
@@ -147,8 +141,6 @@ updated: 2026-10-22
 > | **时间动态特征** | 随能力提升系统性渐隐（Fading），推动自主迁移 | 教学流程通常固定不变，缺乏显性撤除机制 | 无结构可撤除，易陷入低效徘徊与无效摸索 |
 
 ---
-
-## 核心要素
 
 > [!feature] 教学脚手架的核心构成要素
 > - **诊断评估与 [[Zone of Proximal Development\|ZPD]] 定位（Diagnostic Assessment）** 实时诊断学习者的现有能力基线与理解断层，确保提供的支持既不滞后于已有经验，也不超出心智承受极限。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, p. 2)]]
@@ -238,8 +230,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -254,8 +244,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 脚手架概念的演变历程
 > - **1976 — 起源奠基阶段** David Wood, Jerome Bruner, & Gail Ross 首次提出“脚手架（Scaffolding）”概念隐喻，用以描述辅导者在儿童积木拼搭任务中控制超出儿童能力的要素、维持注意力并示范关键行动的互动过程。
 > - **1980s–1990s — [[Cognitive Apprenticeship\|认知学徒制]]与教学法推广** Allan Collins, John Seely Brown, & Susan Newman 将脚手架拓展为“示范—脚手架—渐隐”的认知[[Apprenticeship|学徒制]]三大支柱；学界正式将[[Lev Vygotsky\|维果茨基]]的[[Zone of Proximal Development\|最近发展区]]理论确立为脚手架的核心依托。
@@ -265,8 +253,6 @@ updated: 2026-10-22
 > - **2026 — 可抗辩性支持、认知安全与反驳型支架机制；Q-Tutor [[Virtue Epistemology|德性认识论]]框架下的[[Cognitive Deskilling|去技能化]]防范支架** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 拓展脚手架理论至安全关键人机决策领域，提出[[Defeater|反驳型击败者]]（Rebutting Defeaters）与反思机器（Reflection Machines）作为提供可抗辩性支持与审议所有权的认知安全脚手架，实现从单纯的"效率减负支架"向"批判性[[Trust Calibration|信任校准]]与防偏差支架"的深化。同年，[[Argument_Naeem_2026_Episteme|Naeem (2026)]] 从[[Virtue Epistemology|美德认识论]]责任论出发，提出以直接答案拦截规则与递进式提问序列为核心的提问型导师（Q-Tutor）架构，将脚手架的功能定位从"减负"拓展为"防止学习者被 AI 替代认知能力"的德性培育机制；其双模态架构（AI 主导[[Inquisitive Mode of Governance|探究模式]] → 学生主导练习模式）与渐隐原则形成了明确的理论呼应。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -292,8 +278,6 @@ updated: 2026-10-22
 > 教学脚手架依赖于对学习者现有状态的有效洞察与良性互动契约；当学习情境完全缺乏教师或自适应系统的有效监控、或者学习任务属于纯粹机械式记忆时，设计复杂的脚手架机制往往难以发挥预期的理论效益。此外，必须警惕多重支架同时施加带来的认知过载风险。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -337,8 +321,6 @@ updated: 2026-10-22
 > > | Pesco & Gagne (2017) | Scaffolding | 15 | NA | 28 | 0.61 |  |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学与干预案例
 > - **中学科学探究中的双轨提示与同行盲评支架** 在中学气候变化探究教学中，教师为学生提供[[Chain-of-Thought Prompting\|思维链]]（CoT）与[[Role-playing\|角色扮演]]提示模板（技术提示支架），引导 AI 分步呈现温室效应机理；随后教师组织小组开展多源文献比对，并进行组间匿名盲评与辩论（教学法支架），成功将学生的盲从心理引导至对模型输出的严密批判与证据检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]

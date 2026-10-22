@@ -47,11 +47,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Post-Normal Science
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **后常规科学（POST-Normal Science, PNS）** 是由科学哲学家西尔维奥·丰托维奇（Silvio Funtowicz）与杰罗姆·拉维茨（Jerome Ravetz）于 1993 年系统确立的科学治理与[[Epistemology\|认识论]]分析概念。该[[Paradigm\|范式]]专门指代这样一类极端的政策与科技决策情境：**系统事实高度不确定、社会价值充满争议、决策涉及的利益赌注极其高昂、且采取行动的紧迫性不容拖延（Facts uncertain, values in dispute, stakes high, and decisions urgent）**。在此类情境中，传统的实验室实证求真（常规科学）或封闭专家技术鉴定（专业咨询）不再足以单独解决问题，必须引入多元证据源与广泛公众审议。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 > | **典型现实议题** | 测量重力加速度、合成标准化学分子 | 设计大桥结构承重、常规临床手术方案 | 气候危机应对、流行病强制封控、[[Artificial General Intelligence\|通用人工智能]]（AGI）伦理规制 |
 
 ---
-
-## 核心要素
 
 > [!feature] 后常规问题的四大系统要素
 > - **系统性事实不确定性（High [[Scientific Uncertainty]]）** 科学模型受制于非线性复杂动态、[[Emergence\|涌现]]效应与测量极限，前沿顶尖学者之间亦存在不同假设前提与结论分歧，无法给出百分之百的绝对预测。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
@@ -133,8 +127,6 @@ updated: 2026-10-22
 > **坦诚呈现证据局限与解释未采纳理由是维系信任的根本** 要化解后常规科学难题陷入难以调和的僵局，国家科研与政策系统必须实现两项制度突破：其一，在发布立法与战略时强制附带通俗易懂的《科学证据陈述》（Scientific Evidence Statements），详尽标明[[Scientific Uncertainty\|科学不确定性]]的具体区间与假设边界；其二，科学界必须主动走出象牙塔，在技术萌芽阶段即组织包含广泛公众、受影响群体与政策决策者的前瞻公共对话（Public Dialogue），让公众在理解科学不确定性的前提下参与政策共同塑造。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
 
 ---
-
-## 政策与教育启示
 
 > [!policy-design] 对科学教育与政策评估的深远影响
 > - **重塑公众[[Scientific Literacy\|科学素养]]内涵** 科学教育不能停留在[[Rote Learning\|死记硬背]]既定公式与定理的“常态科学”思维，必须培养学生理解科学探究过程、数据不完备性以及应对后常规争论的[[Critical Thinking\|批判性思维]]与[[Data Literacy\|数据素养]]。

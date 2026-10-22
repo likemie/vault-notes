@@ -96,7 +96,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Duncan_2025_CI
 
 ---
 
@@ -113,8 +112,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -128,8 +125,6 @@ issuing_organization: ""
 > [[Epistemic Cognition\|认识论认知]]不是个体头脑中脱离情境的抽象信念，而是深植于具体学科知识与探究情境中的因果实践网络。拉维特·格兰·邓肯（Ravit Golan Duncan）与[[Clark A. Chinn\|克拉克·钦]]（[[Clark A. Chinn]]）指出，科学论证的本质是通过协调经验证据与理论模型来确证知识主张的认识实践。因此，评估论证不能停留于图尔敏式的外部部件清点，而必须深入考察论证者在挑选、权衡证据时诉诸了何种规范性评价标准（认识论理想），以及是否理解证据生成背后的因果方法论条件（可靠[[Epistemology\|认识论]]过程）。（pp. 206–208）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -146,8 +141,6 @@ issuing_organization: ""
 > | **论证任务材料** | 包含两类典型任务：（1）HIV遗传抗性任务，提供4项不同质量与直接性的证据，包括猫免疫缺陷病毒（Feline Immunodeficiency Virus, FIV）抗性、血库助理访谈、猿猴免疫缺陷病毒（Simian Immunodeficiency Virus, SIV）抗性、Paxton团队25名高危人群白细胞测试；（2）格陵兰食物网任务，提供旅馆老板在电台广播中依据住客无序登记记录的北极狐与三文鱼目击数量。（pp. 212–213, 216） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -425,8 +418,6 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **结构主义局限** 纯粹基于主张、数据、推理及反驳的句法分析，无法识别披着完备外衣的伪科学诡辩，气候变暖否定论与反疫苗言论在结构评分中均能斩获高分。（pp. 203–204）
 > 2. **[[Epistemic Ideals\|认识论理想]]的实际运作** 初中生在面对生物学复杂证据时，能够自发调动全域证据契合、多源收敛、推论直接性与决定性等认识论理想，对备选科学模型做出高水平裁决。（pp. 213–216）
@@ -435,8 +426,6 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 > 5. **元认识论教学旨趣** 科学教学应从灌输现成规则转向引导学生参与元认识论审议，通过协商建构公共认识标准，赋予学生平等的[[Epistemic Agency\|认识主体性]]与批判抗辩力。（pp. 222–223）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 结构主义论证分析的核心困境
 > 结构分析存在一个问题：尽管它们能够区分某些好论证与某些坏论证，但许多质量极差的论证在使用结构分析时却能被评为高水平。在当前充斥着错误信息与虚假信息的时代，结构复杂但[[Epistemology\|认识论]]上高度成问题的论证随处可见。帮助学生将对什么是好论证的理解从单纯的结构健全性拓展出去，具有重要的教育价值。（pp. 203, 204）
@@ -459,8 +448,6 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 > *We are making a somewhat similar argument in calling for a shift in instruction and assessment from a focus on structure of arguments to the epistemic substance of students’ reasoning (i.e., their understandings and negotiations of epistemic ideals and reliable processes)... engaging students in meta-epistemic discussions about which epistemic ideals and reliable processes are valued by their communities (both inside and outside the classroom) can provide a means to foster a more epistemically equitable learning environment.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与边界条件
 > - **实证证据的探索性与概念验证性质** 本文呈现的书面与口头[[Discourse Analysis\|话语分析]]旨在提供理论[[Analytic Framework\|分析框架]]的概念验证，样本来自特定教学干预项目（[[PRACCIS]]）的初中课堂，尚未在更广泛的学科学段或[[Business as Usual\|常态教学]]中建立大规模的[[Statistical Normalisation\|统计标准化]]评分常模。（pp. 211–212）

@@ -52,11 +52,7 @@ created: 2026-06-25
 updated: 2026-10-20
 ---
 
-# Research Proposal
-
 ---
-
-## 定义
 
 > [!def] 研究课题论证（Research Proposal）
 > 课题论证是将[[Research Question\|研究问题]]或[[Hypothesis\|研究假设]]转化为具体化研究目标的系统过程。课题不仅是一个研究题目，它还要体现[[Research Scope\|研究范围]]、[[Study Population and Sample\|研究样本]]、研究工具、研究内容与[[Research Purpose\|研究目的]]等。课题论证部分是研究写作的重要组成部分（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.2）。
@@ -72,8 +68,6 @@ updated: 2026-10-20
 
 根据不同的标准，教育研究课题可以划分为几种不同类型（[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015]], Ch.2）。
 
-### 基础研究与应用研究
-
 > [!contrast-table] 基础研究 vs 应用研究
 > | 维度 | 基础研究（Basic Research） | 应用研究（Applied Research） |
 > |---|---|---|
@@ -81,8 +75,6 @@ updated: 2026-10-20
 > | 特点 | 需要整合大量理论资料、占有大量时间、对思维研究能力要求甚高 | 具体化（将基础理论分解并联系实际目标）；实用化（以基础理论为指导，探讨新方法与途径并应用到实际工作中） |
 > | 示例 | 特殊教育课程的哲学社会基础研究 | 特殊教育课程的教材研究、教学法研究 |
 > | 关系 | 应用研究要以基础研究为指导；基础研究要进一步应用于实践才能检验其成果的科学性 | |
-
-### 质的研究与量的研究
 
 > [!contrast-table] [[Qualitative Research\|质的研究]] vs [[Quantitative Research\|量的研究]]
 > | 维度 | 质的研究（[[Qualitative Research]]） | 量的研究（[[Quantitative Research]]） |
@@ -95,8 +87,6 @@ updated: 2026-10-20
 
 > [!note] 质与量的结合
 > 现在大多数研究中，定量研究往往渗透定性研究，定性研究中也参与部分定量研究。二者往往是紧密结合的（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.2）。
-
-### 描述性研究与干预性研究
 
 > [!contrast-table] 描述性研究 vs [[Intervention Research\|干预性研究]]
 > | 维度 | 描述性研究（Descriptive Research） | 干预性研究（[[Intervention Research]]） |

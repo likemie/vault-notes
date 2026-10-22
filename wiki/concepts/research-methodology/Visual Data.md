@@ -39,10 +39,6 @@ created: 2026-08-05
 updated: 2026-10-22
 ---
 
-# Visual Data
-
-## 定义
-
 > [!def] 核心定义
 > 视觉数据（visual data）指教育研究者能够看到、观看或注视，并可作为研究材料的一切图像性资料，包括照片、影片、录像、电视、广告、图片、[[Artefact\|器物]]、美术品、地图、图画与漫画等。视觉数据不是中立的现实复制品，而是由图像生产、图像本身与图像受众三重维度构成的现实呈现（presentation of reality），需要被解读，且往往存在多重解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
@@ -55,8 +51,6 @@ updated: 2026-10-22
 > 视觉图像绝不是无辜的；它们包裹着层层意义与诠释，既是现实的呈现，又反过来被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 >
 > *Visual images are never innocent; they are wrapped up in many layers of meaning and interpretation. (Rose, 2007, p. 26)*
-
-## 核心要素
 
 > [!taxonomy] 视觉数据的四种类型（Prosser & Loxley, 2008）
 > | 类型 | 说明 |
@@ -80,8 +74,6 @@ updated: 2026-10-22
 > [!warning] 数据过载与[[Triangulation\|三角互证]]
 > 单幅图像或单个录像序列贮存大量信息，从而带来数据过载、选择性与可管理性问题。视觉数据很少独立成局，通常作为[[Triangulation\|三角互证]]数据中的一种元素，与其他文字、听觉、口头与观察数据并列使用。
 
-## 围绕概念形成的命题
-
 > [!concept-lens] 视觉图像的[[Epistemology\|认识论]]地位
 > 视觉图像能否如实反映现实，是贯穿该概念的核心张力：图像一方面具有记录真实的功能，另一方面又是被建构、被选择、被多重解读的。
 
@@ -90,8 +82,6 @@ updated: 2026-10-22
 
 > [!claim] Cohen, Manion and Morrison（2011）
 > **把图像视为[[Discourse|话语]]而非客观现实** 鉴于图像的选择性与时间绑定性质，更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而不是单一客观现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
-
-## 概念辨析
 
 > [!contrast-table] 视觉数据 vs 相近概念
 > | 维度 | [[Visual Data\|视觉数据]] | [[Document\|文献/文件]] | [[Observation Method\|观察数据]] |

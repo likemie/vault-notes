@@ -57,11 +57,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# ISRCTN
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 国际标准[[Randomised Controlled Trials\|随机对照试验]]编码（International Standard Randomised Controlled Trial Number，简称 ISRCTN）注册库是全球循证因果评估与临床科研领域的核心公共基础设施，由循证医学先驱伊恩·查尔默斯（Sir Iain Chalmers）于 2000 年倡议设立，由英国生物医学中心（BioMed Central / Springer Nature）负责运营管理。该平台作为世界卫生组织国际[[Clinical Trial\|临床试验]]注册平台（WHO ICTRP）认证的一级主注册机构，被英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等国际权威证据资助方确立为全量试验方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP）强制前置时间戳登记的法定基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对长期困扰实证研究的“抽屉效应”（File Drawer Problem）、假阳性虚报、事后篡改假设（HARKing）以及选择性汇报等严重的科学[[Reproducibility Crisis|可复现性危机]]。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过为每项干预试验在样本招募与数据收集之前赋予全球唯一的数字化编码，强制公开并锁定经同行评审的评估协议（Protocol）与[[Statistical Analysis Plan\|统计分析计划]]（SAP），使事后根据数据结果挑选显著指标或隐匿零结果的暗室操作无处遁形，从源头筑牢因果[[Chain of Evidence\|证据链]]条的客观纯洁性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
@@ -92,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 平台演进与社会科学扩散历程
 > - **2000 — 循证医学先驱倡导创设** 伊恩·查尔默斯联手 BioMed Central 成立 ISRCTN，旨在建立首个跨出版商、跨国界的[[Clinical Trial\|临床试验]]统一识别注册体系。
 > - **2005 — ICMJE 国际期刊准入强制令** 国际医学期刊编辑委员会宣布，未在 ISRCTN 或 ClinicalTrials.gov 等合格公共平台[[Preregistration\|预注册]]的临床试验将一律被国际权威医学期刊拒稿，确立了预注册的行业硬性门槛。
@@ -102,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **平台运行与质控方** BioMed Central 专业数据库编审团队 — 负责对全球提交的试验方案进行元数据格式合规审查、查重验证并生成编号。
 > - **循证资助与管理方** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等资助机构 — 在立项拨款协议中将 ISRCTN 登记确立为前置财务拔款前提，并派专人追踪登记履约。
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **终端公众与决策者** 基层学校校长、教育政策制定者与学术界同行 — 借助注册编号检索试验原始方案，交叉比对最终结题报告是否存在事后偏离。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心制度价值与防偏倚成效
 > - **彻底封堵选择性报告与抽屉效应** 实证数据显示，传统社会科学中正向显著结果发表率比零结果高出 40 个百分点（Franco et al., 2014）；而在强制绑定 ISRCTN [[Preregistration\|预注册]]的 [[Education Endowment Foundation\|EEF]] 试验中，实现了 100% 全量发表，零结果与微弱效应报告公开率领先全球。
@@ -125,8 +113,6 @@ updated: 2026-10-22
 > - 覆盖人群基底：支撑英格兰 14,000 余所学校次与 158 万名学童因果大数据的规范化核查。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

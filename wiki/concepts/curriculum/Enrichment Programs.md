@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Enrichment Programs
-
 > [!metax] [拓展充实项目 · Enrichment programs](https://www.visiblelearningmetax.com/influences/view/enrichment_programs)
 > 课程 › 资优生课程
 >

@@ -75,11 +75,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# Gert Biesta
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 荷兰当代著名教育哲学家，爱丁堡大学（University of Edinburgh）教育与体育学院教授，荷兰人文研究大学（University of Humanistic Studies）教育学讲席教授。
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990s–2003 — [[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]与[[John Dewey|杜威]]哲学重构** 与 Nicholas Burbules 合作深入开掘杜威哲学，批判传统表象主义认识论。
 >   - **代表著作** *Pragmatism and educational research* (with Burbules, 2003); *Derrida & Education* (co-edited, 2001).
@@ -126,9 +120,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比斯塔的学术核心在于捍卫教育的目的性与规范性：教育本质上是一项由目的与价值驱动的规范性实践（Teleological and Normative Practice），具有不可化约的伦理与政治维度。他指出教育系统同时服务于三重功能——**资格化（技能与知识传递）**、**社会化（融入既有文化与制度秩序）** 与**主体化（唤醒独立自主行动与批判思考的主体）**；片面追求量化成就的循证测评将教育窄化为单一的资格化指标，严重挤压了社会化与主体化的育人空间。面对将教学退化为算法式促进的“[[Learnification|学习化]]”潮流，他主张教育实践依赖于基于[[Phronesis|实践智慧]]（*[[Phronesis]]*）的情境判断，倡导接纳教育中不可消除的脆弱性与“美丽风险”。
 
 > [!citation-card] 论教育系统三维目的论框架
@@ -138,9 +130,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 构建教育目的三维[[Analytic Framework|分析框架]]与教育三重[[Deficiencies Model for an Introduction|缺陷模型]]，重塑了当代全球教育哲学反思[[Positivism|实证主义]]与绩效问责的理论语汇；提出[[Learnification|学习化]]批判，重申教师作为文化引导者与意义启迪者的崇高地位。
 > - **方法路径** 倡导基于开放、递归与符号系统的教育[[Ontology|本体论]]分析，论证教育涉及非[[Determinism|决定论]]复杂系统，推动研究界从孤立因果线性干预转向审视社会复杂性与情境意义生成。
 > - **政策与实践路径** 深刻影响了英国、荷兰、北欧等国教师教育体系与课程哲学重构，为一线教师抗拒官僚化数据考核、捍卫课堂[[Professional Judgment|专业判断力]]（[[Phronesis|实践智慧]]）提供了关键思想武器。
@@ -162,8 +152,6 @@ updated: 2026-10-22
 > - **国际学术共鸣同行** [[Thomas Aastrup Rømer|托马斯·罗默]]（丹麦教育哲学批判）、特里·里格利（英国批判教育学）、[[Robert Cowen|罗伯特·考恩]]（比较教育制度社会学）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -39,8 +39,6 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Fourth Generation University
-
 %% CONTENT_START: 以上为写作参考，以下为实际条目内容 %%
 
 > [!info] 定义

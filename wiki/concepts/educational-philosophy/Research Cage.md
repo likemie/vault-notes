@@ -62,11 +62,7 @@ created: '2026-10-18'
 updated: 2026-10-22
 ---
 
-# Research Cage
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究牢笼（Research Cage）** 是丹麦教育哲学家托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）在剖析[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）《[[Visible Learning|可见的学习]]》时铸造的批判性[[Epistemology|认识论]]概念。该概念揭示了由简陋评价理论所构筑的自足封闭实证系统：在该系统内部，作为核心[[Dependent Variable|因变量]]的“[[Academic Achievement|学业成就]]/学习结果”与充当[[Independent Variable|自变量]]的各类教学干预完全依照评价逻辑展开相互界定与循环互证；系统虽凭借术语间的同义反复展现出极高的统计[[Reliability|信度]]与[[Internal Consistency|内部一致性]]，却彻底斩断了与真实教育世界、客观事物及经验客体的实质连结，导致其[[Construct Validity|建构效度]]与外部环境对应性严重耗散（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）。
@@ -97,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]的循环界定** 评价理论所界定的狭隘“学习”，反向规约并限定了教学干预的内涵，使因果因[[Variable|变量]]体系蜕化为概念间的自我参照。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 6)]]
 > - **评价逻辑的先验支配** 回溯性目标审查逻辑凌驾于教育逻辑之上，将鲜活的生命成长与文化体验过滤为便于统计测度的数字残渣。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 4–5)]]
 > - **假性高[[Reliability|信度]]与[[External Validity|外部效度]]归零** 系统内部各环节严格自洽并产出漂亮的统计聚合效应，但因切断与实体世界的交互，失去了对真实教育过程的解释效力。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 6)]]
@@ -142,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -158,8 +150,6 @@ updated: 2026-10-22
 > - **当代 — 全球教育治理审视** 研究牢笼概念被广泛用于反思[[International Education|国际教育]]测评与数据密集型治理，成为批判算法问责与教育量化主义的重要理论武器。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

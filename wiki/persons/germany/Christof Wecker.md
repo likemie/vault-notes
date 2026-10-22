@@ -61,11 +61,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# Christof Wecker
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国[[Experiential Learning|经验教育]]研究与学科教学论（Empirische Unterrichtsforschung）权威学者，希尔德斯海姆大学（Universität Hildesheim）教授，曾任慕尼黑大学（LMU）与慕尼黑工业大学（TUM）研究员。
@@ -89,17 +85,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2016 — *Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties [[Visible Learning]]* （《教育科学杂志》ZfE）** 严格推导两级[[Fixed-Effect Model|固定效应模型]]等价性的充要数学公理，建立涵盖数据基础批判、内部批判与外部批判的三层次六步审查[[Paradigm|范式]]，提出解耦商业出版与中央标准化证据库方案。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
 > - **2017+ — 实证教学论与证据合成规范系列论著** 深入探讨科学论证中的支架教学（[[Scaffolding]]）、微观干预时长对[[Effect Size|效应量]]衰减的动力学规律，以及多水平[[Meta-analysis|元分析]]中非独立效应量的稳健估计方法。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 实证教育学与[[Evidence-Based Education|循证教育]]决策必须建立在无偏且严密的统计数学推导与正确的因果[[Ontology|本体论]]之上；任何缺乏精度加权、忽视文献重叠、混淆测度指标并抹平情境调节[[Variable|变量]]的宏观二阶[[Meta-meta-analysis|元综合]]，不仅无法带来累积性知识进步，反而会借由数字精确性的科学假象制造严重的政策与教学误导；必须将实证结果归档与商业学术期刊体制彻底解耦，由学术界共建共享全量开放的标准化证据[[Data Infrastructure|数据基础设施]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 
 > [!citation-card] 中央证据数据库建议
@@ -114,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法路径** 严格推导了[[Meta-meta-analysis|二阶元分析]]与一级全池合并等价的代数充要条件，确立了涵盖测度统一、精度加权、方差推算、去重核验、[[Inverse-Variance Weighting|逆方差加权]]与假设检验的二级[[Meta-analysis|元分析]]六步标准审查框架。
 > - **理论路径** 提出解构教育有效性排行的四大不可[[Commensuration|通约]]本体范畴（制度框架条件、个体心理特征、综合教学方案、微观设计变体），深刻批判了量化循证政策中的激进通约主义与[[Category Mistake|范畴错误]]。
 > - **制度路径** 率先倡导将实证数据存缴作为“适合列入学者出版物清单的学术成果”（Publikationslisten; Stanat, 2012）予以体制承认，从激励机制根源终结商业期刊引致的[[Publication Bias|发表偏倚]]与数据黑箱，为开放科学证据基础设施建设指明了方向。
@@ -133,8 +123,6 @@ updated: 2026-10-22
 > - **方法论理论渊源** [[Gene Glass|吉恩·格拉斯]]（Gene Glass）、[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）、Larry Hedges、Michael Borenstein — 继承经典统计[[Meta-analysis|元分析]]与[[Inverse-Variance Weighting|逆方差加权]]公理化体系，用以衡量宏观证据合成的有效性边界。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

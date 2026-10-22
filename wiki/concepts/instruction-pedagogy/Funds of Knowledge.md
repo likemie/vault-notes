@@ -49,11 +49,8 @@ status: draft
 created: 2026-09-22
 updated: 2026-10-22
 ---
-# Funds of Knowledge
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识资金（Funds of Knowledge, FoK）是指深植于家庭、社区日常生活与劳动实践中，在历史长河中积累、代际传递且对家庭生存与个体福祉不可或缺的战略性知识、技能与文化资源网络（如农业种植、汽修机械、民俗医药、手工艺与双语沟通）。由路易斯·莫尔（Luis C. Moll）、诺玛·冈萨雷斯（Norma González）与凯茜·阿曼蒂（Cathy Amanti, 1992, 2005）等人系统阐发，该概念旨在解构将少数族裔、移民及工人阶级家庭视为“认知贫乏”的文化亏空模型（[[Deficit Model of Science Communication\|deficit model]]），主张将学生从家庭生活世界带来的丰富实践经验转化为课堂学科探究的合法资产与[[Scaffolding\|认知支架]]。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 160)]]
@@ -70,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识资金与相关教育资本概念的辨析
 > | 维度 | 知识资金（Funds of Knowledge） | [[Cultural Capital\|文化资本]]（Cultural Capital） | 文化亏空模型（[[Deficit Model of Science Communication\|deficit model]]） |
 > |---|---|---|---|
@@ -81,8 +76,6 @@ updated: 2026-10-22
 > | **研究方法** | 教师参与式社区[[Ethnography\|人种志]]与家庭[[In-depth Interview\|深度访谈]] | 大样本社会学[[Questionnaire\|问卷调查]]与阶层流动统计 | 标准化认知测验与去情境的学业落差归因 |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识资金的核心构成维度
 > - **家庭劳动与生计智慧** 
@@ -126,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 知识资金核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -142,8 +133,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 科学教育[[Epistemology\|认识论]]与身份认同融合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 与 Varelas 等人将知识资金融入科学[[Epistemic Practices\|认识论实践]]与学术身份塑造研究，成为推进教育公平的核心理论基石。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 160)]]
 
 ---
-
-## 局限性与适用边界
 
 > [!warning] 适用局限
 > - **浪漫化与民俗化倾向的风险** 教师若缺乏深刻的人类学反思，容易将复杂的社区生存实践简化为肤浅的美食节展示或民族服装民俗表演，削弱概念的批判性力量。

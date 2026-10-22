@@ -35,8 +35,6 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Task Structure
-
 ---
 
 > [!def] 核心定义
@@ -49,8 +47,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析：良构任务与劣构任务特征对比
 > | 比较维度 | 良构任务（Well-Structured Task, WST） | 劣构任务（Ill-Structured Task, IST） |
 > |---|---|---|
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > | **认知与[[Epistemology\|认识论]]要求** | 强调信息提取、程序执行与确定性事实总结。（p.316） | 强调[[Reflexivity\|反思性]]判断、矛盾证据权衡、视角整合与不确定性容忍。（pp.316–317） |
 
 ---
-
-## 核心要素
 
 > [!feature] 任务结构维度的构成要素
 > - **结构表述清晰度（Structural Presentation）** 任务目标、文体规范及预期产出大纲的界定明确程度。
@@ -99,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -110,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -120,8 +110,6 @@ updated: 2026-10-22
 > | [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | 89名加拿大十年级中学生（基督教独立学校） | 平衡顺序组内对比设计（counterbalanced within-subject design；良构 vs 劣构癌症议题任务） | 任务结构（WST vs IST）、任务表现（量规评分+10题单选测验，满分100）、[[Reflexivity\|反思性]]判断得分（1–5分） | WST 均分 70.30（$SD = 17.61$），IST 均分 67.72（$SD = 17.93$）；两任务成绩相关 $r = .51$；认识论信念回归模型中，信念因子对 WST 无预测力（$R^2 = .04$），但对 IST 有显著预测力（$R^2 = .12$） | $t(88) = -1.38, p = .17$，效应量（effect size, ES）$ES = 0.15$（两任务成绩差异不显著）；WST 回归 $F(3,85) = 1.07, p = .37$；IST 回归 $F(3,85) = 3.80, p = .01$ | 任务均基于癌症主题，施测于同一班级，结果反映中等程度任务结构差异下的信念激活效应 |
 
 ---
-
-## 应用案例
 
 > [!example] 教学任务设计的经典实验案例（[[Argument_Lodewyk_2007_EducPsych\|Lodewyk, 2007]]）
 > - **良构任务案例：个人生活方式计划（Personal Lifestyle Plan）** 要求学生选择一种癌症，汇总其病因、症状、疗法及预防行为撰写结构化报告。任务前播放 20 分钟录像并完成工作表，提供预包装资料袋及细化评分量规。（p.316）

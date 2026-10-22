@@ -59,11 +59,7 @@ created: '2026-09-17'
 updated: 2026-10-22
 ---
 
-# Replication in Education Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育研究复现（Replication in Education Research）是指由独立研究团队在不同时间、地区、学区生态或学生群体中，严格依照原方案教学规程或概念逻辑重新实施并评估同一教育干预的方法学过程。其核心功能在于检验早期发现的真实性，剥离小样本聚类假阳性、开发者主观期望与特定单一学区的地方性微观生态干扰，确立干预方案在真实世界中的外部概化效度。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 26–27)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > *The solution to generalization is successful replication in a wide variety of settings. A recent initiative announced by the Institute of Education Sciences proposed the creation of a new funding stream to support studies of replications of successful programs.*
 
 ---
-
-## 核心要素
 
 > [!feature] 破解教育复现危机的四大方法学支柱
 > - **[[Evaluator Independence\|第三方独立评估]]（Evaluator Independence）** 彻底切断方案开发者与评估团队之间的利益关联，由无商业利益冲突的独立研究者[[Implementation and Process Evaluation\|实施评估]]，消除实验者期望效应与挑选性报告。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
@@ -122,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -132,8 +124,6 @@ updated: 2026-10-22
 > | **二阶数据提取复现** | 实施[[Random Assignment\|随机化]]逐项独立核查，检验[[Meta-analysis\|元分析]]汇聚数据库底层数据链的真实性与可复现性 | 二阶[[Meta-meta-analysis\|元综合]]、证据清理所与宏观循证排行榜审查 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 教育实证复现与早期评估偏差来源对比
 > | 方法学控制维度 | 早期非复现研究特征 | 现代严谨复现研究规范 | 对[[Effect Size\|效应量]]估计的影响 |

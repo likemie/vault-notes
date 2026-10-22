@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Collaborative Learning
-
 > [!metax] [协作学习 · Collaborative learning](https://www.visiblelearningmetax.com/influences/view/collaborative_learning)
 > 教学策略 › 教学方法
 >

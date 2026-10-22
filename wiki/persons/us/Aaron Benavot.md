@@ -58,11 +58,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Aaron Benavot
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名比较教育学家与教育社会学家，纽约州立大学奥尔巴尼分校（SUNY Albany）全球教育政策讲席教授，[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》（Global Education Monitoring Report, GEMR）前主任（2014–2017）。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980s–1990s — 大众学校知识的世界模型与课程同构** 借助跨国大规模历史数据，证明课程大纲是[[Cultural Models|世界文化模型]]的制度体现。
 >   - **代表著作** *School Knowledge for the Masses: World Models and National Primary Curricular Categories in the Twentieth Century* (1992, with J. W. Meyer & D. H. Kamens)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108, 118)]]
@@ -104,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球学校课程的演进是世界文化理性化神话扩散的核心晴雨表；然而，宏观官方课程大纲在形式上的高度同构，绝不意味着教室内教学实践的均质化。在[[Educational Decentralization|教育权力下放]]与[[School Autonomy|学校自主]]的全球政策潮流下，课程大纲的落实呈现出尖锐的“阶层化社会建构”——优势阶层学校利用自主权强化高阶数理与精英知识，而劣势学校则在补救教学中牺牲了[[21st Century Skills and Competencies Discourse|核心素养]]，导致宏观上的[[Institutional Isomorphism|制度同形]]在微观上转化为维系既有阶层不平等的合法化外衣。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 
 > [!citation-card] 贝纳沃特论课程趋同与本土学校分化
@@ -129,8 +121,6 @@ updated: 2026-10-22
 > - **学术对话同行** [[Robert Arnove|罗伯特·阿诺夫]]——阿诺夫将贝纳沃特的实证研究作为证明全球课程趋同与本土阶层分化共存的代表性经验文献。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

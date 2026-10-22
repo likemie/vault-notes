@@ -116,11 +116,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Network Governance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 网络治理（Network Governance，亦称网络化治理）指公共政策的议程设置、资源调配与服务交付不再单纯依赖单一的垂直韦伯式官僚科层（Hierarchy）或纯粹自发的私有市场价格机制（Market），而是由政府部门、商业咨询机构、慈善基金会、非营利组织与专业社群构成的横向交错、多边协商与互赖共生的网络所主导（Thompson, 1991; [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rambla_2022_Springer|Rambla, 2022, p. 172]]）。在当代批判教育政治经济学与演化创新政策视阈中，网络治理并不意味着民族国家治理权威的“空心化”（Hollowing out）退场，而是表现为国家治理形态的异层化（Heterarchical）重塑——国家演进为积极协调、立法特许、定向注资并缔造市场的[[Policy Brokerage|政策经纪人]]与制度担保人，或转型为通过去中心化探索网络引领跨部门协同攻坚的使命催化者。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
@@ -144,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 网络治理与科层治理、市场治理的理想型辨析
 > | 维度 | 网络治理（Network Governance） | 科层治理（Hierarchical Governance） | 市场治理（Market Governance） |
 > |---|---|---|---|
@@ -158,9 +152,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多元行动者互赖与公私跨界结盟（Interdependence & Multi-Actor Alliances）** 政策不再由单一政府行政部门闭门垄断，而是由跨国金融资本、商业战略咨询顾问、本土慈善信托、学术智库与公共官僚共同构筑治理同盟，各方在资金、专业信誉与法定资质上形成深度互赖。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 524]]
 > - **国家演进为异层市场缔造者与经纪人（The State as Heterarchical Market-Maker & Broker）** 国家并未退场或被空心化，而是转型为“市场缔造者”（Market-maker）与“元治理者”（Meta-governor）；国家主动运用立法修正案与公共财政定向注资，积极孵化并扶持私营中介组织承接公共职能。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 522–523]]
 > - **去中心化探索网络与[[Public Dynamic Capabilities|公共动态能力]]（Decentralized Exploratory Networks & Dynamic Capabilities）** 在科技创新与产业攻坚领域，网络治理展现为类似 [[DARPA]] 的去中心化探索网络，通过赋予项目经理高度[[Strategic Autonomy|战略自主]]权与组合容错空间，引领公私主体共同攻关。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
@@ -258,8 +250,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -327,8 +317,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 民主创新与敏捷协同论 vs 民主赤字与寡头合谋论
@@ -350,8 +338,6 @@ updated: 2026-10-22
 > > - **去中心化探索网络建构派** 主张公共机构（如 [[DARPA]]）必须建立内部高水平技术研判团队与自主项目经理队伍，以自身强大的动态能力统领去中心化的产学研协同攻坚网络。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 国际代表性网络治理实证结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

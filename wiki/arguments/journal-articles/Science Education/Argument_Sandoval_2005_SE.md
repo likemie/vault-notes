@@ -57,7 +57,6 @@ argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Science Education
 ---
-# Argument_Sandoval_2005_SE
 
 ---
 
@@ -74,8 +73,6 @@ journal: Science Education
 
 ---
 
-## 理论框架：两种认识论的脱节
-
 > [!tension-table] [[Epistemology\|认识论]]对象的区分
 > | 维度 | 形式认识论（[[Formal Epistemology]]） | 实践认识论（[[Practical Epistemology]]） |
 > |---|---|---|
@@ -89,8 +86,6 @@ journal: Science Education
 > 区分这两种认识论可以发现，传统的[[Nature of Science\|科学本质]]研究测量的是形式认识论，而探究教学干预的是实践认识论。如果不理解学生在自身探究中使用的实践认识论，就无法设计出能有效将实践经验转化为对形式科学深刻理解的教学路径。
 
 ---
-
-## 论证展开与案例分析
 
 > [!argument-steps] 核心论证展开
 > 对[[Nature of Science\|科学本质]]的[[Evaluation Research\|评估研究]]和科学探究实践的[[Intervention Research\|干预研究]]进行平行对比，揭示了当前科学教育中的[[Epistemological Break\|认识论断裂]]，并论证了转向[[Practical Epistemology\|实践认识论]]的必要性。
@@ -146,8 +141,6 @@ journal: Science Education
 > | **Smith et al. (2000)** | 6年级，持续6年的科学探究 | 在一位教师持续 6 年不断强调“显式认识论讨论”后，这批 6 年级学生展现出了惊人的复杂科学本质观，开始认识到科学是社会建构且暂时的。这是极其罕见的成功案例。 |
 
 ---
-
-## 结论与启示
 
 > [!conclusion] 论证总结
 > 单纯的科学探究活动不足以改变学生对正式[[Nature of Science\|科学本质]]的信念。要建立可靠的[[Epistemology\|认识论]]发展理论，必须转移研究重心：从仅仅依赖对“远端”专业科学的[[Questionnaire\|问卷调查]]，转向直接在探究情境中观察和干预学生的[[Practical Epistemology\|实践认识论]]。

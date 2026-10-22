@@ -41,11 +41,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Mixed Methods Question
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > [[Mixed Methods Research\|混合方法研究]]问题（mixed methods question）是混合方法研究中除量化问题或假设和质性问题之外的第三类问题，直接陈述研究者希望通过组合（整合）量化与质性数据学到什么([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.150]])。
 
 > [!quote|notitle]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 写作脚本
-
 > [!tip] [[Mixed Methods Research\|混合方法研究]]问题[[Research Writing Script\|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script\|写作脚本]]：
 >
@@ -95,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 写作范例
-
-> [!example|notitle]
+> [!example] 写作范例
 > Moseholm et al. (2017) 在健康科学领域的[[Mixed Methods Research\|混合方法研究]]中提供了出色的三部分目标陈述范例（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7）。他们研究非特异性症状患者诊断评估中与健康相关的生活质量变化：
 >
 > - 量化陈述：测量诊断评估过程中 HRQoL 的变化

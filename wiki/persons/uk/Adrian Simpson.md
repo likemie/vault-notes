@@ -56,7 +56,6 @@ status: draft
 created: '2026-05-01'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size\|效应量]]概念在[[Evidence-Based Education\|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.15]]; [[Argument_Simpson_2019_ERE\|Simpson, 2019, p.109]])。 > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence."
@@ -73,9 +72,7 @@ updated: 2026-10-22
 > - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a [[Category Mistake|Category Error]] in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
 > - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度（experimental clarity）** 而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。
 
-## 核心思想
-
-> [!info|notitle] 核心思想
+> [!info] 核心思想
 > Simpson 的[[Effect Size\|效应量]]批判在 2017–2019 年间经历了从技术论证到[[Epistemology\|认识论]]论证的演进，以下按时序呈现。
 
 

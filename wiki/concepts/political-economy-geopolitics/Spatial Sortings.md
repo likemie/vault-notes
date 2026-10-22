@@ -67,9 +67,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > 空间分选的运作可以从四个递进层面理解：从空间层面的包容-排斥双运动，到政策层面的投资与规划中介，再到主体层面的赢家-输家分化，最后到时间层面的锁定与自我强化——四层命题共同构成空间分选的完整机制链条。
 
 > [!line-a] 包容-排斥与中心-边缘的双重运动
@@ -117,11 +115,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-## 实证发现
-
-### 知识经济化与教育枢纽中的空间分选
-
-> [!finding-cards|notitle]
+> [!finding-cards] 知识经济化与教育枢纽中的空间分选
 > 1. **枢纽与边缘的分化** 增长潜力集中在 [[Knowledge-Based Economy\|KBE]] 的城市枢纽中，而枢纽之外地区因经济结构变迁经历相对衰退([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.30]])。
 > 2. **三次演变中的空间分选模式** 从晚期凯恩斯主义技术极化到智能性城市政策再到创业经济——每次演变都重新配置了空间赢家与输家的版图([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.29–30]])。
 > 3. **三个核心[[Research Problem\|研究议题]]** [[Argument_Moisio_2022_Springer\|Moisio (2022, pp.31–32)]] 确定了空间分选研究的三个方向：
@@ -135,9 +129,7 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 
 ---
 
-### 中国 EST 一体化中的空间分选：赢家-输家格局的量化证据
-
-> [!abstract|notitle]
+> [!abstract] 中国 EST 一体化中的空间分选：赢家-输家格局的量化证据
 > [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]]对中国 30 个省份 2001–2022 年教育-科技-人才（EST）一体化发展的耦合协调分析，为空间分选提供了一个完整的量化实证案例——它不仅记录了赢家-输家的空间分布，更通过 LISA 时空路径和[[LISA Spatiotemporal Transition\|空间转移矩阵]]量化了分选格局的自我强化机制。
 
 > [!line-a] EST 发展的东中西梯度分选
@@ -166,8 +158,6 @@ Moisio 论证[[Knowledge-Based Economization|知识经济化]]有能力将某些
 > | 子系统锁定排序 | 科技 $0.814$ > 教育 $0.767$ > 人才 $0.743$ | — |
 
 ---
-
-## 争议与批评
 
 > [!warning] 概念层面
 > - 空间分选的概念仍处于发展初期——Moisio 本人的章节更多是提出研究议程而非提供系统的经验验证。

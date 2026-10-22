@@ -51,13 +51,9 @@ created: 2026-08-31
 updated: 2026-10-22
 ---
 
-# Connectivism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 数字网络与人工智能时代知识呈现指数级爆炸、碎片化分布情境下，人类与技术网络协同[[Constructed Knowledge\|建构知识]]、识别模式与持续学习的机制。
 > - **理论问题** 传统[[Behaviorism|行为主义]]、认知主义和[[Constructivist Paradigm\|建构主义]]均将学习视为个体内部的心理或社会建构过程，难以充分解释储存于非人类技术介质中的知识流动与网络化学习。
 > - **理论类型** 数字时代学习理论、网络化[[Epistemology\|认识论]]模型与分布式教学设计框架。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > | **流通性（[[Flow]] & Currency）** | 准则 | 保持知识准确、即时更新并维持持续连接的能力是现代学习的核心目标（Knowing-where & Knowing-who 优于 Knowing-what）。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜知识分布于人际与非人类技术节点的网络化连接之中
 > - **前提一** 数字技术与大语言模型的崛起使知识的存储、处理与生成[[Externalization\|外化]]于人类肉身大脑。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 3)]]
@@ -115,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 知识由不断变化、自组织的节点网络构成；现实具有复杂性与动态流动性。
 > - **[[Epistemology\|认识论]]** 理解源于在不同网络概念间建立连接的能力；决策本身就是依据动态信息流调整行动的学习过程。
@@ -145,8 +137,6 @@ updated: 2026-10-22
 > - **2020 年代 生成式 AI 与[[Man-Computer Symbiosis|人机共生]]网络** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将连通主义应用于大语言模型研究，把 ChatGPT 定位为分布式认知网络中的关键连接中继与模式识别工具。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

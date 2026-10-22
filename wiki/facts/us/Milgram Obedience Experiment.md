@@ -50,11 +50,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Milgram Obedience Experiment
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > [[Stanley Milgram|米尔格拉姆]]服从实验是社会心理学史上最具震撼力与伦理争议的里程碑实证研究，它以无可辩驳的数据打破了战后西方社会自诩个人道德理性免疫于极权盲从的幻想，证实了普通人在程序性权威施压下极易陷入“代理态”并施加极端伤害，为解释极权浩劫与现代[[Bureaucracy|科层制]]的[[Banality of Evil|平庸之恶]]提供了微观心理学证据。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–135)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **制度伦理与实验环境** 实验实施于现代[[Institutional Review Board|机构审查委员会]]（IRB）成立之前的自由探索时代，采用了高强度的[[Deception in Research|研究欺骗]]设计（逼真的电击发生器配置了 30 个电压档位、指示灯与蜂鸣器，受试者在测试前甚至亲自接受一次真实的 45 伏微弱电击以确信装置真实有效）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–133)]]
 
 ---
-
-## 发展经过与实验交互
 
 > [!dev-timeline] 实验流程与冲突升级
 > - **电击程序与角色设定** 真实受试者担任教师，坐在电击生成器前；一旦隔壁房间的学生答错配对词汇，教师即被要求按下按钮施加递增电击（从 15 伏起步，每次增加 15 伏，最高达 450 伏“危险：极度严重电击”）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 133)]]
@@ -84,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键历史引述
-
 > [!citation-card] 50岁普通受试者与实验员在 180 伏电击时的对话记录
 > 受试者：我受不了了。我不想杀死里面那个人。你没听到他在惨叫吗？  
 > 实验员：正如我之前告诉你的，电击可能会痛苦，但并不危险。  
@@ -97,16 +89,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键科学、伦理与治理影响
 > 1. **揭示代理态心理机制与[[Banality of Evil|平庸之恶]]实证** [[Stanley Milgram|米尔格拉姆]]实验实证揭示了个体在层级系统中的“代理态”转换，与[[Hannah Arendt|汉娜·阿伦特]]（Hannah Arendt）关于艾希曼审判的“平庸之恶”哲学论断形成强烈互证。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
 > 2. **直接推动现代[[Institutional Review Board|机构审查委员会]]（IRB）制度确立** 实验给受试者带来的严重心理应激与欺骗争议，成为推动战后医学与行为科学伦理改革、出台《贝尔蒙报告》并确立严格[[Informed Consent|知情同意]]与伦理审查的标志性事件。
 > 3. **奠定高科技组织打破顺从文化的治理哲学** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]论证指出，管理者对顺从者的偏好是扼杀组织创新力的毒药；现代前沿科技企业必须通过制度化包容[[Constructive Disobedience|建设性不服从]]，培育敢于基于客观实战事实抵抗盲目权威的[[Engineering Mindset|工程思维]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 围绕服从实验的伦理与方法学争鸣
 >

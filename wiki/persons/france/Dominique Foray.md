@@ -67,11 +67,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Dominique Foray
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国当代著名经济学家、创新学学者，瑞士洛桑联邦理工学院（EPFL）创新与[[Knowledge-Based Economy|知识经济]]管理荣休教授，曾任[[CNRS|法国国家科学研究中心]]（[[CNRS]]）研究主任、巴黎第九大学教授，以及[[OECD|经济合作与发展组织]]（[[OECD]]）科技与工业司资深分析师及[[Centre for Educational Research and Innovation|教育研究与创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）核心学术顾问。
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990 年代初中期 — 学习型经济与知识微观机制奠基期** 批判传统新古典增长模型将知识视为外生公共品的假设，论证信息通信技术虽然极大加速了知识编码（[[Codification]]），但有效应用编码信息必须依赖高度本地化的默会技能。
 >   - **代表著作** 《[[Knowledge-Based Economy|知识经济]]中的就业与增长》（*Employment and Growth in the Knowledge-Based Economy*, OECD, 1996, 与 Lundvall 共同主编）。
@@ -112,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 在数字信息时代，信息与通信技术的普及使得形式化、符号化的编码知识（Codified Knowledge）能够以接近于零的边际成本进行瞬间全球传输与复制，其市场交换价值随之迅速稀释；与此形成鲜明对照的是，深植于行动主体身心经验之中、无法被完全文字化或算法化的[[Tacit Knowledge|默会知识]]（Tacit Knowledge）与程序性实践技能（[[Procedural Knowledge|knowing how]]），反而成为决定创新效率与经济增值的唯一稀缺要素。因此，现代国家与教育系统的首要任务不再是灌输静态的学科事实，而是将整个社会重塑为持续[[Lifelong Learning|终身学习]]、反思与动态重组默会能力的“学习型经济”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!citation-card] 福雷论编码知识的廉价化与默会能力的绝对稀缺性
@@ -124,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）、内森·罗森伯格（Nathan Rosenberg）共同奠定了现代[[Knowledge-Based Economy|知识经济]]学与[[National Innovation System|国家创新系统]]分析的欧洲[[Paradigm|范式]]。
 > - **方法路径** 开创了知识编码度与默会性维度的测量分类法，为评估国家与地区无形知识资产提供了分析工具。
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（[[OECD]]）自 1990 年代中期的教育与技能政策基调，促使国际组织全面转向“[[Lifelong Learning|终身学习]]”与“操作技能”；其倡导的智能专门化（Smart Specialisation）被[[EU|欧盟]]委员会确立为欧洲结构与投资基金（ESIF）的法定前置评估标准。
@@ -145,8 +135,6 @@ updated: 2026-10-22
 > - **机构平台** [[OECD]]、[[Centre for Educational Research and Innovation|CERI]]、[[EU|欧盟]]委员会、洛桑联邦理工学院（EPFL） — 长期参与国际决策咨询与前沿创新研究的枢纽平台。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

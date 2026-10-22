@@ -61,11 +61,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Rolland Paulston
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较教育学家、匹兹堡大学（University of Pittsburgh）国际与[[Development Education|发展教育]]杰出教授、1976 年[[Comparative and International Education Society\|比较与国际教育学会]]（CIES）会长。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作
 > - **1977 — *Social and Educational Change: Conceptual Frameworks*** 比较教育学史上引用率最高的经典文献之一，系统梳理功能均衡[[Paradigm|范式]]与多元冲突范式在社会变迁认知上的[[Epistemological Break|认识论断裂]]。
 > - **1980 — *Other Dreams, Other Schools: Folk Colleges in Social and Ethnic Movements*** 运用冲突与抗争视角考察[[Popular Education|民众教育]]和民族社会运动中的另类学校形态。
@@ -113,8 +107,6 @@ updated: 2026-10-22
 - 强调地图绘制不是为了宣告唯一的真理，而是为了提供一种促进各流派平等对话的视觉认知框架。该方法随后被广泛运用于解构教育[[Policy Mobility|政策流动]]、[[Discourse|话语]]空间争鸣与跨国治理图绘。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

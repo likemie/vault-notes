@@ -50,11 +50,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# New Pedagogies for Deep Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **深度学习新教学法（New Pedagogies for Deep Learning, NPDL）**，亦称**深度学习全球伙伴关系（NPDL Global）**，是指由加拿大教育学者[[Michael Fullan|迈克尔·富兰]]（[[Michael Fullan]]）等人在多伦多联合跨国科技企业（英特尔、微软、普罗米休斯）及[[OECD|经合组织]]（[[OECD]]）代表于 2012 年发起创立的专有教学法体系与跨国特许加盟网络。该倡议以 **6C [[21st Century Skills and Competencies Discourse|核心素养]]框架**与全系统变革工具套件为核心，声称通过重构学习环境与融入数字技术促进深度学习；在批判教育政策社会学视角下，它被定性为教育学者、跨国财团与[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）联手将公共教育大纲核心能力包装为排他性商业特许商标（Proprietary Brand），进而持续汲取国家公共教师研训预算的制度载体。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
@@ -86,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **6C [[21st Century Skills and Competencies Discourse|核心素养]]框架（6Cs Competencies）** 将深度学习界定为六项[[Operationalization|操作化]]能力：[[Creativity|创造力]]（Creativity）、[[Critical Thinking|批判性思维]]（Critical Thinking）、沟通（Communication）、协作（Collaboration）、品格（Character）与公民素养（Citizenship）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
 > - **四大教学实践支柱（Four Pedagogical Pillars）** 确立新型师生学习伙伴关系、重构物理与虚拟学习环境、充分运用数字技术以及开展解决现实难题的任务设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
 > - **全系统变革工具箱（Suite of Tools）** 提供标准化的“深度学习进展评价量表”（Rubrics）、协同学习设计协议以及学校集群自我测定指标。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
@@ -139,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -157,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 全球前沿系统变革 vs 偷换国家课标的商业特许
@@ -174,8 +164,6 @@ updated: 2026-10-22
 > 该模式必须依赖高度稳定的学校网络连接、充足的硬件生均配比以及持续的外部资金补贴，在基础设施薄弱或财政高度紧缩的基层学区不具备可持续推广性。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

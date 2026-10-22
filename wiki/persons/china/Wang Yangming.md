@@ -45,9 +45,6 @@ status: draft
 created: 2026-05-22
 updated: 2026-10-22
 ---
-# Wang Yangming
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 王阳明（Wang Yangming, 1472–1529），明代思想家，心学代表人物。在对[[Neo-Confucianism\|程朱理学]]主导地位提出挑战的同时，仍坚守儒家学习的根本目的——"学以[[Self-Cultivation\|修身]]"([[Argument_Li_2012_Cambridge\|Li, 2012, p.44]])。

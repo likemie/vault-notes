@@ -46,11 +46,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Robert Ennis
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育哲学家、逻辑学家，伊利诺伊大学厄巴纳-香槟分校（UIUC）教育政策与组织领导系荣休教授，美国[[Critical Thinking\|批判性思维]]运动的核心奠基人之一。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 > - **2021** 逝世，留下深远影响当代国际[[Higher-Order Thinking Skills\|高阶思维]]教学的学术遗产。
 
 ---
-
-## 主要著作与理论贡献
 
 > [!work-line] 主要代表作与理论贡献
 > - **1962 — *A Concept of [[Critical Thinking]]*** 在《Harvard Educational Review》发表早期奠基作，系统厘清了逻辑推理在批判性思维中的核心地位。

@@ -56,11 +56,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# Lisbon Strategy
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 里斯本战略（Lisbon Strategy）是[[EU|欧洲联盟]]（European Union, EU）于 2000 年 3 月里斯本欧洲理事会特别峰会上通过的十年经济社会发展战略，旨在使欧洲在 2010 年前成为“全球最具竞争力和活力的[[Knowledge-Based Economy|知识经济]]体”。在欧洲联盟条约严格限制超国家教育立法权的宪制约束下，该战略通过创设[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）并与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）形成深度数据共生，将教育正式确立为提升经济[[Competitiveness|竞争力]]的核心支柱，奠定了基于量化指标与跨国比较的[[Governing by Numbers|数字治理]]架构。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–24, 32–35)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **直接导火索 / 触发事件** 2000 年 3 月里斯本特别峰会正式通过决议，确立了欧洲迈向知识经济的总体战略目标，要求欧洲教育与培训系统适应知识社会的需求，并由此引入开放协调法以跨越超国家立法的权限壁垒。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–24)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
 > - **2000 — 战略确立与开放协调法（OMC）奠基**
@@ -89,16 +83,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 2000 年里斯本欧洲理事会结论
 > 联盟已确立一项新的战略目标：在未来十年内成为全球最具竞争力和活力的知识经济体，能够实现可持续经济增长，提供更多更好的就业机会以及更大的社会凝聚力……欧洲的教育与培训系统必须适应知识社会的需求以及提高就业水平与质量的需要。[[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]
 >
 > *The Union has today set itself a new strategic goal for the next decade: to become the most competitive and dynamic knowledge-based economy in the world capable of sustainable economic growth with more and better jobs and greater social cohesion … Europe’s education and training systems need to adapt both to the demands of the knowledge society and to the need for an improved level and quality of employment. (Lisbon European Council, 2000, Presidency Conclusions, §5, §25)*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **超国家改革倡导方** [[EU|欧盟委员会]]（教育与文化总司）与[[OECD|经合组织]] — 倡导打破行政壁垒，依托跨国量化数据与同行学习构建无边界的[[European Education Space|欧洲教育空间]]，通过去立法的软性协调规避条约主权限制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–24, 32–34)]]
@@ -119,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **治理网络重塑** 开创了去立法的开放协调机制，确立了欧盟与经合组织在教育政策设计与数据生产上的深度共生。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–34)]]
 > - **思想范式变迁** 推动欧洲教育哲学从传统的人文陶冶与国家公民认同塑造，系统性转向服务于国际[[Competitiveness|竞争力]]与终身学习的知识经济范式。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]
@@ -138,8 +126,6 @@ updated: 2026-10-22
 > - **3% GDP** 2002 年巴塞罗那峰会为里斯本战略设定的核心研发投入指标，要求公私研发支出总额在 2010 年前达到欧盟国内生产总值的 3%。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 186)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

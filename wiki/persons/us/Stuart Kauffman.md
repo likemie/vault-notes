@@ -47,11 +47,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Stuart Kauffman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国理论生物学家、复杂系统理论先驱、圣塔菲研究所（Santa Fe Institute）常驻学者与外聘教授、麦克阿瑟天才奖得主。
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1993 — *The Origins of Order: Self-Organization and Selection in Evolution*** 构建布尔网络模型与自催化集合论，确立自组织作为自然界秩序第二维度的核心地位。
 > - **1995 — *At Home in the Universe: The Search for the Laws of Self-Organization and Complexity*** 阐明复杂系统在混沌边缘（edge of chaos）自发[[Emergence\|涌现]]高阶秩序的机制，提出反控制命题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 47)]]
@@ -79,9 +73,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Complexity Theory\|复杂适应系统]]（[[Chinese Academy of Sciences|CAS]]）的高阶秩序既非源于先验的宇宙宏大设计（反目的论），亦非来自外部强加的行政命令与机械控制；高阶秩序是系统各组分在局部互动规则与自催化反馈中自发[[Emergence\|涌现]]的内生属性（“秩序是免费的，它取代了控制”）。在开放的教育与社会系统中，企图通过孤立[[Variable\|变量]]受控操纵或自上而下科层命令来达成预期结果的线性管理模式，必然在复杂互动的非线性反馈中遭遇破产。
 
 > [!citation-card] 考夫曼论复杂系统的自发秩序与反控制本质
@@ -91,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 颠覆了牛顿力学式的还原主义与[[Determinism\|决定论]]宇宙观，为教育学接纳[[Complexity Theory\|复杂性理论]]作为超越量化与质性二元对立的“新兴前沿[[Paradigm\|范式]]”奠定了科学哲学基石。
 > - **方法路径** 深刻挑战了以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为代表的“保持[[Variable\|变量]]恒常操纵”[[Positivism\|实证主义]]黄金标准，推动研究转向网络拓扑、自组织临界性与生态系统分析。
 > - **管理路径** 启发学校管理从“自上而下科层控制”转向“营造自组织微观生态”，赋能教师与学生的内生[[Creativity\|创造力]]。
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **方法论对立** [[Randomised Controlled Trials]] — 考夫曼的自组织[[Emergence\|涌现]]理论从本体论上瓦解了随机受控实验将开放系统强行切片孤立的假设。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

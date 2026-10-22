@@ -81,11 +81,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Securitization of Technology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **技术安全化（Securitization of Technology）** 指主权国家在[[Geopolitics|地缘政治]]博弈加剧与全球供应链重组背景下，打破科技领域的自由市场与中立学术认知[[Paradigm|范式]]，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存、主权和地缘安全的最高战略议程。在此逻辑下，国家运用出口管制、跨国投资审查、定向产业立法与有组织动员，将传统上相对独立的大学实验室、科研机构与跨国产业网络深度嵌入国家安全战略体系之中。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
@@ -214,8 +210,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -234,8 +228,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫科技战略转型与[[Research Universities|研究型大学]]制度重构** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）发布《科学：新黄金时代》报告并出台相关行政令，全面推行[[Research Security|科研安全]]合规审查与技术导向契约，推动研究型大学在基础研究引领、微电子多级人才培养、中试共置与跨校攻关联盟（[[Joint University Microelectronics Program 2.0|JUMP 2.0]]）中全面重塑自身职能。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–29)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理张力
 >
@@ -256,8 +248,6 @@ updated: 2026-10-22
 > - **跨国人才断流风险** 针对国际留学生与外籍学者的排他性壁垒，将直接冲击美国高校微电子等工程专业高度依赖留学生的脆弱生源结构（全美研究生中留学生占比高达 41%）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 25)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 关键实证观察与指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

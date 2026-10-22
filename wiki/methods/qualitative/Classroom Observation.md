@@ -86,11 +86,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Classroom Observation
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 教学观察（Classroom Observation，亦称课堂观察或课堂教学观察）指研究人员、督导员、教研员或同行教师以直接进入现场或观看课堂音视频的方式，依据预设的观察量规、编码系统或质性记录提纲，对发生在课堂时空中的师生言语与非言语互动、教学时间分配、任务组织方式以及学习文化生态进行系统注视、如实记录与价值评定的实证研究方法。该方法是揭示教学规律、评估教学效能与促进教师专业发展的核心技术基座。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–3)]]
@@ -111,8 +107,6 @@ updated: 2026-10-22
 > *"Classrooms are the black box of education systems... Measuring teaching practices directly and reliably is essential to diagnose instructional gaps and guide targeted professional development."*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 教学质量不能仅由师生静态资格或终结性试卷分数间接推知，微观教学过程本身即具有独立的[[Epistemic Value|认识论价值]]；通过科学抽样与锚定量规，动态复杂的课堂互动能够被可靠降维与客观测度。
@@ -182,16 +176,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 诊断真实课堂师生互动质量、识别不同背景群体的教学指导差异、为教师提供基于证据的个性化辅导（Coaching）、检验教学干预政策的落地忠实度。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–5)]]
 > - **谨慎使用** 单次单片段观察极易受教师发挥波动或[[Performativity|表演性]]教学（[[Hawthorne Effect]]）干扰，必须通过多日多片段重复抽样以平滑测量误差。
 > - **不适合使用** 脱离系统诊断而单纯用于高利害惩戒性解聘筛选；缺乏严格观察员认证考核的大规模行政督导往往导致评分严重失真。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **观察员认知偏误** 个人经验滤镜、[[Halo Effect|光环效应]]、首因效应、极端分回避及跨教师比照易严重破坏评分一致性。
@@ -212,8 +202,6 @@ updated: 2026-10-22
 > | [[Learning Crisis]] | 治理背景 | 促使全球教育治理聚焦教学观察以诊断教学效能的宏观问题起点。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制并验证开源标准化教学观察工具 Teach，确立双段独立观察与低推论时间快照加高推论行为评定的双轨技术架构。

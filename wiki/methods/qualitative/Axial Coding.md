@@ -62,11 +62,7 @@ created: 2026-09-08
 updated: 2026-10-16
 ---
 
-# Axial Coding
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **主轴编码（Axial Coding，又称轴心编码、枢轴编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的核心分析阶梯之一：在初级[[Open Coding\|开放编码]]将原始文本细化切片并确立概念属性与维度连续统之后，围绕一个轴心范畴（axis category）重新拼装和组织碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106；Flick, 2009, pp. 305–332；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 561–562]]）。主轴编码将开放编码生成的静态范畴转化为包含因果条件、情境脉络、中介条件、[[Central Phenomenon\|核心现象]]、行动互动策略与实质结果的动态关系模型，是通往[[Selective Coding\|选择性编码]]和提炼统摄性核心理论的决定性枢纽。
@@ -83,8 +79,6 @@ updated: 2026-10-16
 > *Axial coding is a set of procedures whereby data are put back together in new ways after open coding, by making connections between categories. This is done by utilizing a coding paradigm involving conditions, context, action/interactional strategies and consequences. (Strauss & Corbin, 1990, p. 96)*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 经验世界中的社会现象并非孤立离散的概念点，而是内嵌于具体情境、受制度与物质条件制约的行动互动网络；主轴编码主张知识的生成有赖于揭示现象内部的结构性与过程性因果关联。
@@ -155,10 +149,6 @@ updated: 2026-10-16
 
 ---
 
-## 研究程序
-
-### 质性方法模块
-
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
@@ -208,8 +198,6 @@ updated: 2026-10-16
 > - **大语言模型智能辅助与[[Meaningful Human Control|人在回路]]审校** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的上下文[[Causality\|因果推断]]与模式识别潜力，可依据少样本提示（Few-Shot Prompting）协助研究者从海量访谈中初筛潜在因果条件与行动策略；但模型不能替代实地体验，研究者须保留[[Reflexivity\|反身性]]主导权，严格遵循人在回路（HITL）准则，对模型建议的模型进行人工回溯校验。
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 经典理论与方法文献索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 详述主轴编码在[[Grounded Theory\|扎根理论]]编码阶梯中的枢纽定位，系统解析六要素[[Paradigm\|范式]]模型与儿童身体活动实证建模范例（Ch. 30）。

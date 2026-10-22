@@ -50,11 +50,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Henry Kissinger
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学家、外交家，哈佛大学教授，曾任美国第 56 任国务卿（1973–1977）与第 8 任国家安全事务助理（1969–1975），冷战时期现实主义地缘战略的核心架构师。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950–1960 年代 — 均势现实主义与核威慑战略奠基** 批判自由理想主义的空想性，系统发掘 19 世纪欧洲均势外交原则，探讨核武器时代的有限战争与战略威慑。
 >   - **代表著作** *Nuclear Weapons and Foreign Policy* (1957); *A World Restored: Metternich, Castlereagh and the Problems of Peace 1812–1822* (1957)。
@@ -96,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 基辛格主张国际和平绝非源于抽象道德说教或单方面善意，而是建立在各大国实力均衡与可信[[Hard Power|硬实力]]威慑的现实基石之上；在历史动力学上，他坚决反对将历史降格为盲目物质力量或社会结构的被动演进，强调具备崇高信念、深邃历史感与坚毅决断力的开拓型领袖，能够在历史的分岔口以坚强的意志打破环境束缚，开创前所未有的国家命运与文明格局。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
 
 > [!citation-card] 基辛格论领袖性格对历史环境的决定性突破
@@ -115,8 +107,6 @@ updated: 2026-10-22
 > - **跨国／跨领域传播** 思想广泛跨越外交学界延伸至商业战略、企业管理与防务科技产业，成为卡普等现代科技领袖重构[[Technological Republic|技术共和国]]的重要思想源泉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 197)]]
 
 ---
-
-## 历史评价
 
 > [!citation-card] 卡普与扎米斯卡论基辛格与领袖性格的历史裁决
 > 基辛格对[[Lee Kuan Yew|李光耀]]领导成就的精辟总结，不仅重新确立了卓越领袖在历史进程中的核心能动性，也给当代盲目迷信官僚程序与去英雄化后现代思潮敲响了警钟——没有开拓型领袖的魄力与担当，任何重大制度跃升与国家生存奇迹都无从谈起。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 197–198)]]
@@ -135,8 +125,6 @@ updated: 2026-10-22
 > - **任职机构** US Department of State — 担任第 56 任国务卿，领导美国外交官僚体系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

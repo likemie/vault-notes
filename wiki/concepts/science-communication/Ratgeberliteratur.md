@@ -60,8 +60,6 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Ratgeberliteratur
-
 ---
 
 ## 定义
@@ -87,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教师专业[[Source of Knowledge\|知识来源]]与媒介特征辨析
 > | 比较维度 | 教学指南文献（Ratgeberliteratur） | 学术期刊论文（Fachzeitschriften） | 二阶证据清算短评（[[Educational Evidence Clearinghouses\|Clearinghouse]] Reviews） | 社交媒体互动（Social Media / #[[Virtual Teacher Staffroom\|twlz]]） |
 > |---|---|---|---|---|
@@ -98,8 +94,6 @@ updated: 2026-10-22
 > | **迷思风险** | 极高（32%–40% 读物包含[[Learning Styles\|学习风格]]等伪科学） | 极低（主要聚焦于实证[[Falsification\|证伪]]与事实呈现） | 极低（设有专门的迷思识别与方法学筛查） | 较高（容易形成算法信息茧房与流行迷思共振） |
 
 ---
-
-## 核心要素
 
 > [!feature] 教学指南文献的传播机制与结构特征
 > - **实践操作的即时性与低认知负荷（Low Cognitive Load & High Applicability）** 采用非学术性、口语化叙述风格，配有大量流程图、表格与活动清单，直接满足教师在常态高负荷教学下的即时备课需求（Mönig, 2012）。
@@ -155,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -173,8 +165,6 @@ updated: 2026-10-22
 > - **2024–至今 — [[Educational Science Communication\|教育科学传播]][[Paradigm\|范式]]重构与学术主动占位** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）系统解构五大传播媒介，正式呼吁教育科学界终结对商业指南市场的消极旁观，倡导开发基于高质量[[Meta-analysis\|元分析]]的官方实践指南与二阶清算转化服务。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

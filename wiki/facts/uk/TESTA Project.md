@@ -40,11 +40,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# TESTA Project
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2009 年至今，发源于英国并辐射至澳、美、欧等 50 余所国际高等院校。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]
@@ -54,16 +50,12 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 事件经过
 > - **2009–2012 — 开展全课程评价普查与审计** 针对 50 余所大学的上百个本科专业开展跨学科评价体验普查（包含考核数量统计、评价[[Questionnaire\|问卷]]与[[Focus Group\|焦点小组]]）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 26)]]
 > - **2012 — 诊断出“过度考核（Hyper-Assessment）”体制病** 普查发现典型的 3 年制本科生需完成 60–80 项终结性大考，教师平均每学期批改数百份试卷而无暇提供质性反馈，迫使学生采取应试策略。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]
 > - **2013–至今 — 推广全程式整合评价方案** 协助数十所大学重构学位课程考核：将终结性大考减少 40%–60%，增加跨模块整合大项目（Integrative Capstones）并系统嵌入多轮形成性反馈。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 27)]]
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] 模块化过度考核的核心诊断
 > 密集的学分模块化导致期末终结性大考过度拥挤，教师疲于判卷无暇提供指导性评语，迫使学生采取应试策略，严重挤压了需要低利害试错与多轮迭代的[[Higher-Order Thinking Skills\|高阶思维]]成长。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]

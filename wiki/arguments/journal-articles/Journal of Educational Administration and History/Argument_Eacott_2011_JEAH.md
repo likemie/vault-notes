@@ -52,7 +52,6 @@ citation_aliases:
   - "Eacott, 2011"
   - "Eacott (2011)"
 ---
-# Argument_Eacott_2011_JEAH
 
 
 > [!question]
@@ -114,9 +113,7 @@ Eacott 提出(p.56-58)：
 - 技术技能仍然需要但应被"去中心化"，视为"对更关键的'教育'领导力事业的附属"(Lumby & English, 2009, p.112, p.58)
 
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 
 1. NSW 公立学校系统的校长培养方案体现了教育[[Champ|场域]]被经济和政治场域渗透的系统性削弱——"校长培养不过是当代国家对公共部门管理主义干预的一部分"(p.45)
 2. [[School Leadership|学校领导力]] [[Doxa]] 通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家改革的交付者"(p.45, 52)
@@ -129,9 +126,7 @@ Eacott 提出(p.56-58)：
 > - 2002-2006 年仅 2.3% 的 ARC Discovery 拨款流向教育领域，其中不到 5% 流向教育领导力研究，年均仅 USD 52,000(Mulford, 2007, p.56)
 
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “新南威尔士州公立学校系统对校长的培训，证明了学校教育[[Champ\|场域]]折射来自其他场域（特别是经济和政治场域）干预的力量正在减弱。”
 > ("The preparation of principals in the New South Wales public school system is evidence of the diminished strength of the [[Champ\|field]] of schooling to refract interference from other fields, particularly the economic and political fields.")(p.45)
 

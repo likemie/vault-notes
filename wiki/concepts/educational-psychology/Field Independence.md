@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Field Independence
-
 > [!metax] [场独立性 · Field independence](https://www.visiblelearningmetax.com/influences/view/field_independence)
 > 学生 › 先备知识与背景
 >

@@ -40,8 +40,6 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Pre-Experimental Designs
-
 > [!info] 定义
 > 前实验设计（Pre-Experimental Designs）是[[Experimental Research\|实验研究]]中[[Internal Validity\|内部效度]]最低的一类设计。这类[[Design-Based Research\|设计研究]]单一组并实施干预，不设对照组与实验组进行比较，或使用的比较组不等价（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 

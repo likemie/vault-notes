@@ -50,11 +50,7 @@ created: 2026-08-19
 updated: 2026-10-16
 ---
 
-# Global Certainty Scale
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 全局确定性量表
 > - **工具类型** 7 题自陈式[[Likert Scale\|李克特量表]]。
@@ -63,8 +59,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔或自陈[[Questionnaire\|问卷]]。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Certainty of Knowledge\|知识的确定性]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -75,14 +69,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 针对科学知识与科学研究属性的陈述句。
 > - **作答格式** 4 点[[Likert Scale\|李克特量表]]（1 = 完全不同意/totally disagree，2 = 比较不同意，3 = 比较同意，4 = 完全同意/totally agree）。
 > - **反向题与跳题** 第 1、2、3 题为反向计分题（强调科学理论的[[Falsification\|可证伪性]]与修正性）；建模时建议自由估计反向题之间的残差相关以控制方法效应。
-
-### 全局科学知识确定性
 
 > [!ref-table]- 题项（引自 Trautwein & Lüdtke, 2007, p. 355）
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -99,8 +89,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -109,8 +97,6 @@ updated: 2026-10-16
 > | [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] | 德文改编 7 题版 | 德国巴登-符腾堡州 90 所高级文理中学（Gymnasium）高三学生（T1 $N = 2854$）及两年后大学追踪样本（T2 $N = 1094$）。用于测量科学知识确定性信念，检验其对学业成绩的预测力及大学专业选择中的选择与社会化效应 | 内部一致性：T1 $\alpha = .75$；T2 $\alpha = .73$。结构方程模型中自由估计 3 道反向题残差相关后模型拟合优度良好（$\text{CFI}/\text{TLI} > .90, \text{RMSEA} < .05$） | T1 总体均值 $M = 1.86, SD = 0.48$；跨期稳定性路径系数 $b = .54$；显著负向预测毕业成绩（$\beta = -.15$） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

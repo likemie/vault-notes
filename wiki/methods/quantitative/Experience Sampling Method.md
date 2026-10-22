@@ -30,8 +30,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Experience Sampling Method
-
 > [!info] 定义
 > 经验取样法（Experience Sampling Method，简称 ESM）是 Csikszentmihalyi 及其同事在 1970 年代开发的一种实证研究方法。研究者给参与者配备一个寻呼机（beeper）和一本包含问题的小册子，寻呼机在一天和傍晚期间被编程为随机响起。每当寻呼机响起时，参与者被要求回答小册子中的问题，包括：在哪里、在做什么、正在感受什么情绪（正面和负面）、以及是否更想在别处或做别的事([[Argument_Li_2012_Cambridge\|Li, 2012, p.59]])。
 

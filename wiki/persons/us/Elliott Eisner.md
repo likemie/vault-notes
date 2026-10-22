@@ -59,11 +59,7 @@ created: "2026-10-16"
 updated: 2026-10-22
 ---
 
-# Elliott Eisner
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国斯坦福大学（Stanford University）教育学与艺术学荣休教授，美国教育研究协会（[[American Educational Research Association|AERA]]）前主席，当代西方课程理论、艺术教育与质性[[Evaluation Research|评价研究]]的奠基者之一。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1979 / 1994 — *The Educational Imagination: On the Design and Evaluation of School Programs*** 奠定其课程与评价理论大厦的经典专著，系统提出显性课程、[[Hidden Curriculum|隐性课程]]与虚无课程（Null Curriculum）的三维划分，提出教育批评框架。
 > - **1983 — *The Art and Craft of Teaching*** 论证教学是一门动态、非线性的艺术实践，批判狭隘[[Behaviorism|行为主义]]对课堂丰富人文可能性的粗暴剪裁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35)]]
@@ -96,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 艾斯纳认为，自然科学与工程技术之所以能够取得高度确定性的因果预测，前提在于其能在人工建造的封闭实验室中严密隔离外界环境干扰，通过单[[Variable|变量]]操纵得出确定法则。然而，教育发生在开放、充满[[Heterogeneity|异质性]]且富有历史文化脉络的真实生活世界中。在真实的课堂里，师生的个性、情感起伏、家庭背景与微观互动不仅不是应当被隔离排除的噪音变量，反而恰恰是育人过程的本体内核。强行在教育研究中照搬物理学实验室控制[[Paradigm|范式]]，必然会彻底摧毁教育的[[Ecological Validity|生态效度]]，导致生产出一堆看似精密实则丧失现实生命力的伪科学结论。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 > [!citation-card] 实验室控制范式对教育生态效度的摧毁
@@ -121,8 +113,6 @@ updated: 2026-10-22
 > - **当代呼应者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引其 1983 年经典文献，直击[[Meta-meta-analysis|二阶元分析]]还原论对教育[[Ecological Validity|生态效度]]的破坏。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -41,19 +41,13 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Founding of Atlantic College
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 1950 年代后期开始筹备，1962 年在南威尔士圣多纳特城堡开学。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 3–8)]]
 > - **关键主体** [[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）、劳伦斯·达瓦尔、[[Desmond Hoare\|德斯蒙德·霍尔]]、[[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）、罗伯特·布莱克本，以及来自工商、政治和教育界的筹备者与捐助者。
 > - **制度背景** 第二次世界大战后的欧洲和解需求，与各国中学课程、大学入学考试和资格承认制度之间的差异并存。
 > - **触发条件** 北约参谋学院使前敌国人员共同解决问题的经验，促使哈恩设想让不同国家青年在同一学校共同学习和服务。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 3)]]
-
-## 经过
 
 > [!dev-timeline] 事件经过
 > - **1957–1958 — 形成筹备网络** 哈恩与达瓦尔联合英国工商、政治和教育界人士，筹备委员会把寻找校长置于校址和资金之前；1958 年邀请[[Desmond Hoare\|德斯蒙德·霍尔]]担任创校校长。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 3–4)]]
@@ -68,13 +62,9 @@ updated: 2026-10-22
 > - **组织影响** 学校成为[[United World Colleges\|联合世界书院]]运动的首个机构模型，后续书院继续采用先选择创校领导、再建设机构的路径。
 > - **课程影响** 英国国家课程的狭窄、国家偏向、语言不平等和跨国录取障碍，推动学校从创办之初参与[[International Baccalaureate\|国际文凭]]的形成。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 9–13)]]
 
-## 争议与评论
-
 > [!tension] 男女同校争议
 > - **支持男女同校** [[Desmond Hoare\|德斯蒙德·霍尔]]、娜奥米·霍尔和多数教师根据早期办学经验，认为青年有能力在跨文化环境中理解彼此并建立适当关系。
 > - **反对男女同校** 部分治理成员担心不同文化传统中的男女会误读交往信号，甚至以辞职反对改变。最终的共同生活经验削弱了这一担忧。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 5–6)]]
-
-## 相关概念／政策
 
 > [!ref-table] 相关条目
 >

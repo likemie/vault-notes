@@ -34,11 +34,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Li (Propriety)
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 礼（li, 禮）是[[Confucius\|孔子]]阐述的四项超越特定关系的通用道德原则之一。它是一种"社会语法"（social grammar），涵盖从最高级别的祭祀仪式到最日常的人际互动（如赠送和接受礼物、赞美与被赞美、上菜用餐等）的全套行为规范([[Argument_Li_2012_Cambridge\|Li, 2012, pp.39-40]])。
 
 > [!quote|notitle]
@@ -46,9 +42,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **礼 ≠ 法律或规则** 礼与法律的根本区别在于：礼需要通过"使传统成为自己的"（making the tradition one's own）的过程来内化。它不是外在的强制性规则，而是通过个人化的过程成为行为者自身的表达([[Argument_Li_2012_Cambridge\|Li, 2012, p.40]])。
 
 > [!example|notitle]

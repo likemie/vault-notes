@@ -44,11 +44,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Jenny Ozga
-
 ---
-
-## 学者定位与学术画像
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名教育社会学家与政策分析学者，牛津大学教育学系社会政策荣休讲座教授（Professor of Sociology of Education），英国国家学术院院士（Fellow of the British Academy, FBA），欧洲教育研究协会（EERA）前执委。
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980–1990年代 — 教师专业劳动与批判政策研究阶段** 关注教师职业劳工过程与去专业化，呼吁超越实证主义官僚评估。
 >   - **代表著作** *Schoolwork: Approaches to the Labour Process of Teaching* (1988); *Policy Research in Educational Settings: Contested Terrain* (2000)。
@@ -80,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 在后官僚与新自由主义时代，教育研究与实证数据不再仅仅是独立于政府之外、为理性政策提供中立参考的外在知识输入（**知识告知政策，Knowledge Informing Policy**）；相反，研究知识本身已被深度吸纳并嵌入国家行政机器的日常运转之中，成为直接构筑统治合法性、塑造可度量主体与推行远程规训的治理内在机制（**知识构成政策，Knowledge Forming Policy**）。
 
 > [!feature] 奥兹加教育政策社会学的两大理论支柱
@@ -97,8 +89,6 @@ updated: 2026-10-22
 > - **瑞典学校督察局实证案例的理论透镜** 塞格霍尔姆等（[[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al., 2022]]）将奥兹加（Issakyan & Ozga, 2008; Ozga, 2011）的两分法作为全文核心理论框架之一，精准界定常规督导侧重“知识告知政策”的理性改革特征，而质量审计则属于典型的“知识构成政策”的深层政治建构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

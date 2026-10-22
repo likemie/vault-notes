@@ -82,11 +82,7 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Knowledge Transfer
-
 ---
-
-## 定义
 
 > [!warning] 术语歧义
 > “knowledge transfer”（知识转移）在当代社会科学与教育研究中存在三种截然不同的使用脉络：
@@ -116,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识转移的三大理论脉络多维比照
 > | 维度 | 脉络一：[[Geopolitics of Knowledge\|知识地缘政治]]（GPK） | 脉络二：[[University-Industry Collaboration\|产学合作]]与创新（UIC） | 脉络三：[[Knowledge Mobilisation\|知识动员]]第一代[[Paradigm\|范式]]（KMb） |
 > |---|---|---|---|
@@ -128,8 +122,6 @@ updated: 2026-10-22
 > | **代表文献与学者** | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]]; Cohen et al. (2002) | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识转移的多维核心要素
 > - **地缘转移的六大运动模态（Geopolitical Modalities）** 涵盖[[Forced Knowledge Transfer|强制知识转移]]（自上而下灌输）、经济与工业间谍（跨国技术窃取）、监视（Surveillance 大规模数据监控）、审查（Censorship 信息阻断）、[[Knowledge Sabotage|知识破坏]]（网络攻击）以及对等知识交换（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 75–84]]）。
@@ -217,8 +209,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -229,8 +219,6 @@ updated: 2026-10-22
 > | **隐性经验命题** | 阐明工程制造中隐性学问（Lore）依赖人员驻留、轮转科学家与校企联合导师制（FMA）实现双向渗透 | 尖端工科研究生培养、校企双导师制、工程驻留研发 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 知识转移的演变历程
 > - **古典与经院哲学根基** 希腊哲学善的理论经伪狄奥尼修斯与托马斯·阿奎那提炼为拉丁箴言 *omne bonum diffusum sui est*（一切善倾向于自我扩散），确立知识天然具有在人群中扩散的本体倾向；但古典等级制（[[Plato|柏拉图]]智者、儒家[[Junzi|君子]]）始终制约着转移的平权性（[[Argument_Partaken_2022_Springer|Partaken, 2022, p. 75]]）。
@@ -243,8 +231,6 @@ updated: 2026-10-22
 > - **2022 — [[Geopolitics of Knowledge|知识地缘政治]]（GPK）分析范式转换** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 系统提出将[[Critical Geopolitics|批判地缘政治]]的核心从“[[Knowledge Production|知识生产]]”转向“知识转移”，界定知识在运动中的六大控制模态。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -267,8 +253,6 @@ updated: 2026-10-22
 > > - **教育治理与学校改进学者（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）** 指出教育是高度非线性、深受价值与文化塑形的实践领域，机械借用医学转化类比会导致严重的成效缺失，无法解决深层的理论-实践鸿沟。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

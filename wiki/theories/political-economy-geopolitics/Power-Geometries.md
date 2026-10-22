@@ -50,11 +50,7 @@ created: '2026-05-13'
 updated: 2026-10-22
 ---
 
-# Power-Geometries
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 权力几何学（power-geometries）是 [[Doreen Massey]]（2005）空间理论的核心概念，指空间中的开放、封闭和互联不是中立的或自然的地理事实，而是通过社会关系被不平等地建构和分配的。Massey 的论证核心是：问题不在于抽象的空间形式本身，而在于"空间-时间的不断变化的权力几何学"——即谁控制着空间的开放与封闭，谁从跨境流动中获益，谁被固定在原地(Massey, 2005, pp. 93, 166, 171; [[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 12]])。
 
 > [!quote|notitle]

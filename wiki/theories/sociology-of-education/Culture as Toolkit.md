@@ -47,13 +47,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Culture as Toolkit
-
 ---
 
-## 核心主张
-
-> [!tip|notitle]
+> [!tip] 核心主张
 > 文化工具箱理论（Culture as Toolkit）由美国社会学家[[Ann Swidler]]（1986）在《美国社会学评论》（*ASR*）上提出，主张文化不仅是定义价值观和行动目的的意义系统，更是为行动者提供建构行动策略所需工具的技能库（repertoire）或工具箱（tool-kit）。人在具体社会情境下无需深思熟虑即可知道如何恰当地行事，因为他们已通过社会化过程内化了一组惯常使用的文化图式（schemas）。
 
 > [!quote|notitle]

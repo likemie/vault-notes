@@ -98,13 +98,9 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Quality Use of Research Evidence Framework
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如文献阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
 > - **理论问题** 突破传统供给驱动（Push）模式将研究使用窄化为单向学术推送的线性偏误，回应一线教育实践者缺乏甄别信心、被动采购外部方案、时间极度匮乏以及研究脱离教学现场的深层实践困境，建构由供给驱动向需求牵引（Pull）转型的系统解释框架。
 > - **理论类型** 跨层使能机制模型（Multi-level Enabling Framework）、中层[[Analytic Framework\|分析框架]]与规范性实践指引。
@@ -194,8 +190,6 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > | **系统级塑造（System Influences）** | 治理战略与资源保障（Governance & Resources） | 国家教育研究战略完备性；带薪脱产与代课师资补贴机制；学术考评激励导向 | 实践端硬性激励匮乏；脱产研讨往往因缺乏代课教师保障而无法落实 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Research Utilization\|研究使用]]的质量取决于适切证据与审慎实施的双核互构，而非有无二元统计或单纯来源数量
 > - **前提一** QURE 框架的核心内核是由适切研究证据与审慎参与及实施构成的双向互连构件；证据质量具有情境特异性，取决于具体教育问题、学校背景与使用意图，单纯方法学严谨不足以保障适切性。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 185–186)]]
@@ -294,8 +288,6 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将[[Research Utilization\|研究使用]]理解为嵌入复杂自适应教育系统（[[Complexity Theory\|complex adaptive systems]]）中的多层社会实践过程，个体行动受学校微观制度、[[Organizational Culture\|组织文化]]与宏观治理结构的深刻制约与赋权。
 > - **[[Epistemology\|认识论]]** 承认研究证据并非决策与实践的唯一裁决者，而是与教师[[Professional Judgment\|专业判断]]（[[Professional Judgment\|Professional Judgment]]）、[[Phronesis\|实践智慧]]（[[Phronesis\|Phronesis]]）及学校情境知识处于平等、互构地位的合法知识资源；证据的适切性取决于具体情境与用途。
@@ -339,8 +331,6 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > - **2026 — 作为先验透镜被独立系统综述采纳** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 以 QURE 为主先验框架进行跨国[[Framework Synthesis\|框架综合]]，实证映射各层级发现，证实既有研究的个体归因偏向，并将框架重构为跨层治理机制体系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

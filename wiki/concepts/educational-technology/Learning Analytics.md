@@ -74,11 +74,7 @@ created: 2026-05-08
 updated: 2026-10-20
 ---
 
-# Learning Analytics
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学习分析（Learning Analytics, LA）是指通过对学习者在数字化学习环境中生成的行为轨迹（点击流、停留时长、[[Homework\|作业]]提交、交互日志）及[[Academic Achievement\|学业表现]]数据进行系统性收集、测量、挖掘与建模，以理解、预测和优化学习过程及其发生环境的技术与教育治理实践。在现代高等教育中，学习分析已从单纯的在线学习行为追踪，进一步扩展为支撑跨学期[[Learning Gain\|学习增益]]（Learning Gain）测查与高阶认知素养评估的系统性数据工程。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 224)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–19)]]
@@ -95,8 +91,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习分析与相关技术治理[[Paradigm\|范式]]辨析
 > | 维度 | 学习分析 (Learning Analytics) | 传统标准化测验 (Standardized Testing) | 形成性课堂评价 ([[Formative Assessment]]) |
 > |---|---|---|---|
@@ -106,8 +100,6 @@ updated: 2026-10-20
 > | **潜在危机** | [[Data Behaviorism\|数据行为主义]]、构念代表性不足、主体规训 | 负向反拨诱发应试刷题、忽视能力生成 | 主观偏差、跨班级跨校[[Reliability\|信度]]难以标准化 |
 
 ---
-
-## 核心要素
 
 > [!feature] 学习分析的技术与治理核心构件
 > - **全息数据追踪与数字海洋（Digital Ocean）** 从传统教育评价的“数字荒漠”跃升为对学习过程细粒度数字痕迹（交互频率、测验耗时、视频回放、讨论区语义）的全面捕获。[[Argument_Thompson_2022_Promising_Student\|(Behrens & DiCerbo, 2014; Thompson et al., 2022, p. 224)]]
@@ -161,8 +153,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -173,8 +163,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学习分析发展演进历程
 > - **2000 年代中 — 教育数据挖掘（EDM）萌芽** 随着学习管理系统（LMS, 如 Moodle/Blackboard）普及，研究者开始运用关联规则、分类与聚类算法挖掘学生日志数据。
 > - **2011 年 — 学习分析（LA）概念正式确立** 首届国际学习分析与知识大会（LAK 2011）召开，正式将 LA 定义为聚焦人类学习理解与优化的[[Comparative Education as a Cross-Sectional Area|交叉学科]]，与偏重算法的 EDM 形成互补。
@@ -183,8 +171,6 @@ updated: 2026-10-20
 > - **2020 年代至今 — 生成式 AI 时代的多模态分析与高阶素养对齐** 面对大语言模型冲击，学习分析正转向多模态过程性证据整合，探索如何通过真实表现量规克服[[Multiple-Choice Questions\|选择题]]分析的[[Construct\|构念]]代表性不足。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -196,8 +182,6 @@ updated: 2026-10-20
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 学习分析与增益测查关键实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -208,8 +192,6 @@ updated: 2026-10-20
 > | Klinge et al. (2020)（引自 [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 243–244]]） | 数字健康与学习仪表盘实验参与者 | 质性追踪与用户情绪测量 | 仪表盘色彩符号的情感冲击力 | 即使专家已口头澄清结果无大碍，被仪表盘“红色”标示的参与者仍经历数周焦虑与行为自抑 | 证实仪表盘视觉符号具有压倒理性评估的强烈情感与行为[[Disciplina and Doctrina\|规训]]效应 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，系统评述 [[Higher Education Funding Council for England\|HEFCE]]、[[KoKoHs Program\|KoKoHs]]、[[TECO Project\|TECO]] 等大规模[[Learning Gain\|学习增益]]分析项目，指出机考分析技术在测查高阶素养时的[[Construct\|构念]]有效性挑战与政策杠杆。

@@ -29,9 +29,6 @@ status: draft
 created: 2026-06-22
 updated: 2026-07-11
 ---
-# Sponsor in Research
-
-## 定义
 
 > [!def] 核心定义
 > 研究担保人（sponsor）是研究群体内部提供准入、信息和支持的人物（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 207–208]]）。与[[Gatekeepers\|守门人]]不同——守门人通常在群体外部控制准入，而担保人是群体内部的成员，以自身的社会资本为研究者"担保"，帮助研究者融入群体并获得信任。
@@ -42,8 +39,6 @@ updated: 2026-07-11
 > - **边界** 担保人不同于付费的信息人（informant）——担保关系建立在信任和互惠之上，而非交易。担保人也不同于[[Gatekeepers\|守门人]]——守门人控制准入的门，担保人则带领研究者穿门而入。担保人不同于研究助理——担保人是群体的自然成员，而非研究者雇用的外部人员。
 
 ---
-
-## 核心要素
 
 > [!case] 经典案例：Whyte《街角社会》中的 Doc
 > [[William Foote Whyte]] (1993, 原版 1943) 在芝加哥的"街角社会"研究中，Doc 作为帮派核心人物担任了担保人角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 207–208]]）：

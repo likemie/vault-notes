@@ -57,11 +57,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Educational Multilateralism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育多边主义（Educational Multilateralism）是指由三个或三个以上民族国家在普遍行为原则（generalized principles of conduct）基础上，通过国际组织协调国家间教育政策、规则制定与资源分配的制度化机制。在比较教育政治经济学分析中，教育多边主义不仅是一种国际组织合作形式，更是全球权力格局与国际资本流动塑造主权国家教育发展路径的关键制度中介。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -91,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **普遍行为原则** 多边体制内的所有成员国在法理上遵循一套不因特定国家地位而异的规范框架与行为准则。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **弥散互惠性** 成员国不在单次交易中追求绝对对称的即时对等收益，而是在长期多边合作体系中共享制度红利与集体安全。
 > - **不可分割性** 多边制度所维护的公共品（如基础教育普及、[[Academic Freedom|学术自由]]或全球[[Knowledge Exchange|知识交流]]）在制度范围内具有共享属性。
@@ -140,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -157,8 +149,6 @@ updated: 2026-10-22
 > - **1995 年至今 — 贸易规制与[[Pluri-Scalar Governance|多标度治理]]** [[World Trade Organization|世界贸易组织]]（WTO）成立并推出《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS），教育多边主义拓展至跨国教育服务贸易[[Liberalization|自由化]]与知识产权监管领域。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力
 > - **新制度主义世界文化论（普适扩散立场）** 认为教育多边主义是现代启蒙理性与普世人权理念向全球扩散的有效载体，推动了全球范围内义务教育制度与公民权理念的[[Institutional Isomorphism|制度同形]]与理性建构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]

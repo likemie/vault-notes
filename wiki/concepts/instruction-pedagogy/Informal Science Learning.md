@@ -63,11 +63,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Informal Science Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 非正式科学学习（Informal Science Learning / Engagement）是指发生在正规学校课程与封闭教室之外的多[[Metascience|元科学]]学习、探索与文化互动形态。它涵盖科学探索中心、科技博物馆、动物园与植物园、科学节、社区科技工作坊、[[Citizen Science\|公民科学]]项目以及数字化科普平台，具有自愿性、情境性、兴趣驱动与全生命周期贯穿特征；其本质超越单纯的知识查漏补缺，是维系现代社会健康运行、促进公共福祉与民主协商的核心**社会与文化基础设施（Social and Cultural Infrastructure）**。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 42–43, 48)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 表：正规学校科学教育 vs 非正式科学学习系统特征对比表
 > | 比较维度 | 正规学校科学教育（Formal Science Education） | 非正式科学学习（Informal Science Engagement） |
 > |---|---|---|
@@ -97,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变与范式演进
-
 > [!dev-timeline] 40 年非正式科学参与的三次[[Paradigm\|范式]]跃迁
 > - **第一阶段（1980 年代中至 1990 年代）：单向知识普及与精英讲堂**
 >   以 1985 年英国皇家学会《公众理解科学》（Bodmer 报告）为代表，主要依托公共讲座、少儿科普读物与传统国家博物馆，核心目标在于向被动公众灌输基础科技知识，受众处于认知赤字地位。（p. 42）
@@ -108,8 +100,6 @@ updated: 2026-10-22
 >   面对气候危机、数字鸿沟与健康挑战，非正式参与全面转向双向对话、社区嵌入、地方根植与[[Citizen Science\|公民科学]]，其战略定位被正式重塑为与公共图书馆、城市绿地并列的不可或缺的社会文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 43, 48)]]
 
 ---
-
-## 核心理论维度与驱动机制
 
 > [!dimension] 机构开展非正式科学参与的五大核心驱动力矩阵
 > - **1. 促进福祉、好奇心与生活乐趣（Fostering Wellbeing, Curiosity & Enjoyment）**
@@ -169,8 +159,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 关键来源 / 代表文献 |
 > |---|---|---|---|
@@ -180,8 +168,6 @@ updated: 2026-10-22
 > | **战略产业启蒙与认知破障** | 破除深科技隐形壁垒，依托科技馆与创客空间拓展半导体人才池 | NISE 网络动手互动展示、超净室虚拟漫游与青年职业通路引导 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
 
 ---
-
-## 争议与批判反思
 
 > [!debates] 核心学术争议与张力
 >
@@ -200,8 +186,6 @@ updated: 2026-10-22
 > - **高校公共参与转向的挤出效应** 近年大学科研评估过度激励学者参与特定课题的[[Participatory Research\|参与式研究]]，导致通用型地方科学节与中小学外展讲座面临学者流失。（p. 49）
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 宏观参与率、区域经济与长期队列实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

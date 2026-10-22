@@ -188,11 +188,8 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-# John Hattie
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰教育统计学家，墨尔本大学教育研究所（Melbourne Graduate School of Education）荣休教授，曾任澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership]]，AITSL）主席，兼任澳大利亚[[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席。
@@ -237,8 +234,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1987–1996 — 早期心理测量与[[Meta-meta-analysis\|元综合]]探索阶段** 此阶段主要回应教育研究中孤立小样本实证缺乏宏观可比性与[[Walberg's Educational Productivity Model\|教育生产力模型]]实证检验的问题。
 >   - **代表著作** Fraser, Walberg, Welch, & Hattie (1987) *Syntheses of educational productivity research*；Hattie (1992) *Measuring the effects of schooling*；Hattie, Biggs, & Purdie (1996) *Effects of learning skills interventions on student learning*。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 41–42)]]
@@ -262,9 +257,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育教学的核心机制在于“使教对学生可见、使学对教师可见”。教师不应充当消极旁观的课堂“促进者”，而必须成为主动干预、高频反馈并以可见证据评估自身教学成效的“激活者”。通过以标准差为单位的[[Effect Size\|效应量]]关节点（$d=0.40$）建立证据排序坐标，能够穿透主观轶事与教学时尚，为学校改进提供实证标尺；然而证据应被视为明智[[Problem Solving\|问题解决]]的假设起点，不可直接视同刚性行动处方。
 
 > [!citation-card] 可见的教与学之本质
@@ -284,9 +277,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 撼动了 1970–1990 年代以学生为中心的[[Radical Constructivism\|激进建构主义]]教学浪漫主义，重新确立了[[Direct Instruction\|直接教学]]、显性教学与掌握学习在教学论中的正当性；推动将师生认知互动、[[Metacognition\|元认知监控]]与反馈循环整合为统一的课堂[[Effective Teaching\|有效教学]]模型；晚期提出的三阶段学习模型推动了[[Surface and Deep Learning\|表层学习]]到深层概念迁移的[[Epistemology\|认识论]]建构。
 > - **方法路径** 开创并普及了教育领域的大规模[[Meta-meta-analysis\|元综合]]方法论，将跨越数十年、涉及数千万样本的[[Heterogeneity\|异质性]]研究统一置于以标准差为基准的通用连续体（$d$ 指标）上；首创[[Effect Size\|效应量]]“关节点”（$d=0.40$）与影响气压计可视化工具，成为全球循证政策与智库证据工具箱（如英国 [[Education Endowment Foundation\|EEF]] Toolkit）的标准参考框架。
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards\|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4)]]
@@ -307,8 +298,6 @@ updated: 2026-10-22
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]] — 从[[Critical Theory|批判理论]]视角剖析 Hattie 理论核心的[[Positivism|实证主义]][[Technical Rationality|技术理性]]，揭示其流行实质在于化解晚期现代教育系统的[[Legitimation Crisis|合法化危机]]。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 奥尼尔等人论政策创业与公共/商业利益的无缝融合
 > Hattie 如今的全球社交网络方式可以被合理地描述为公共福利、非营利和营利性政策创业与倡导的无缝融合。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. viii–ix)]]
@@ -346,8 +335,6 @@ updated: 2026-10-22
 > - **依托机构与跨国[[Policy Network|政策网络]]** [[Visible Learning]]（核心学术成果体系）；[[Visible Learning Meta-X]]（底层元分析汇聚数据库）；[[Cognition Education]]（全球教师培训商业化特许运营商）；[[Australian Institute for Teaching and School Leadership|AITSL]]（担任董事会主席并推动嵌入国家专业标准）；[[Evidence for Learning]]（E4L 学校专家咨询委员会主席）；新西兰教育部（[[Assessment Tools for Teaching and Learning|asTTle]] 委托开发）；[[Education Endowment Foundation|EEF]]（英澳循证证据工具箱）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

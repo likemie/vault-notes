@@ -55,11 +55,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# New Zealand Initiative
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 新西兰倡议（The New Zealand Initiative, NZI）是新西兰首屈一指的亲市场（Pro-market）与自由意志主义公共政策智库，由大型私营企业财团出资设立，致力于通过政策研究、媒体公关与跨界精英网络，推动新自由主义经济改革、去规制化与公立[[Educational Privatisation|教育私有化]]进程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53, 70–71)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 宣称旨在通过维护市场经济、选择自由与健全制度，促进新西兰的长期繁荣；在教育领域主张引入市场竞争、扩大家长[[School Choice|择校]]权、推行绩效薪酬与特许办学。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1986–2011 年** **前身机构深耕与[[New Public Management|新公共管理]]奠基**
@@ -92,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **董事会与决策层** 由新西兰商界领袖与前跨国高管组成，包括主要商业银行、建筑巨头与大型律所合伙人。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
 > - **教育专责审议委员会** 设立由资深私立名校前校长、[[Grandes Ecoles|大学校]]董及特许学校试点委员会官方委员（如 John Taylor）组成的教育战略委员会，负责对接教育部官员与立法草案。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
@@ -106,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **政策研究报告与专著** 出版《世界一流教育？新西兰为何必须投资竞争》（*World Class Education?*）、《新西兰为何流失优秀教师？》等高影响力报告。
 > - **立法蓝本与政策简报** 为行动党（ACT）与国家党执政联盟起草特许学校合作合同范本与赞助者准入规程。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 > *The New Zealand Initiative occupies a unique spot in New Zealand debates. We are a business-backed research organisation but we are not a lobby group. As such, we bring a pro-market perspective to policy debates without pushing specific industries or companies’ interests.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资助财团网络规模** 汇集新西兰 50 余家前沿跨国金融、科技、农业与工业支柱企业作为全额资助会员。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
@@ -137,8 +125,6 @@ updated: 2026-10-22
 > - **10** （所） 国家党执政期间依据其政策理念首批批准试点的特许学校数量。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

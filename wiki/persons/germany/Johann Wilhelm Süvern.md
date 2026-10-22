@@ -55,11 +55,7 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Johann Wilhelm Süvern
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 普鲁士枢密顾问官（Geheimer Oberregierungsrat）、宗教与教育事务部学校司司长，德国新人文主义教育改革家与法制规划者。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1809–1818 — 新人文主义教化哲学的制度化奠基** 致力于将新人文主义全人教化（*[[Bildung]]*）理念从少数精英阶层向大众普及教育扩展，思考如何通过国家制度化力量对抗专制腐败，以公民心智与道德觉醒重构战败后的普鲁士民族国家生命力。
 >   - **代表成果** 普鲁士中等学校毕业资格会考规程（*Abitur* 制度改革草案）。
@@ -94,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Johann Wilhelm Süvern|聚芬]]确立了现代世俗国家统摄国民教育体系的法哲学纲领：教育既非宗教教会的私有教区附属物，亦非个人与家族的任意私权，而是关乎民族存亡与社会秩序的最高公共事务。国家必须在世俗主权下对各级各类学校行使不可侵犯的最高监督权（*Supreme Right of Supervision*），通过市镇自筹强制设校保障贫困阶层基本知识分配，通过省立公立[[Normal School\|师范学校]]垄断教师专业化执业资质与最低俸给，并在初等大众轨道（初小）与工商业中产轨道（市民学校）之间建立分层而协调的现代化制度骨架。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 26–29)]]
 
 > [!citation-card] 聚芬草案对国民初等教育终极宗旨的界定
@@ -106,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **德意志本土法制路径** 虽然 1819 年法案草案在国家层面未获国王正式签字成法，但其各项具体制度细则（如市镇公学经费分摊、省立师训规程、视导体制）直接成为普鲁士教育部各省行政规程的指导大纲，事实上完成了普鲁士全境初等国民教育与师资制度的规范化统一。
 > - **法国立法跨国转置路径** 1831 年法国哲学家[[Victor Cousin\|维克多·库森]]深入研究[[Johann Wilhelm Süvern|聚芬]]草案文本，以其为蓝本撰写《普鲁士公共教育现状报告》；该报告随后被七月王朝公共教育部部长[[François Guizot\|弗朗索瓦·基佐]]全盘吸收，使聚芬草案的四大支柱（国家最高监督、市镇强制设校、省立师范垄断、初等双轨层级）在法国《1833 年[[Guizot Law of 1833\|基佐法案]]》中实现实定法重构。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
 > - **跨大西洋[[Common School Movement\|公学运动]]动员** 聚芬所设计的国家世俗监督与专业化[[Normal School\|师范学校]]规程，通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的英译本以及斯托（Stowe, 1837）、曼（Mann, 1844）与巴纳德（Barnard, 1854, 1872）的欧洲考察文献传播至北美，成为美利坚公共学校运动反驳宗派割据、推动州立教育委员会立法与公立师范设立的核心域外实证依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
@@ -117,8 +107,6 @@ updated: 2026-10-22
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 详细考证聚芬草案作为 19 世纪欧陆国家现代化建制的核心枢纽地位，以及其如何通过库森报告驱动法国实定法移植并影响北美公学运动。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 布鲁尔论[[Johann Wilhelm Süvern|聚芬]] 1819 年草案的时代奠基性
 > 聚芬 1819 年草案是普鲁士教育从零散教区私塾彻底转向国家现代[[Comprehensive Education|综合教育]]体制的历史分水岭，其技术条款构成了[[Victor Cousin\|库森]]考察报告的核心精髓，并为欧美大西洋各国的公共教育立法提供了原型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 26–27)]]；引自 Brewer (1971:44)
@@ -145,8 +133,6 @@ updated: 2026-10-22
 > - **核心制度依托** 普鲁士 1819 年[[Comprehensive Education|综合教育]]法草案 — 聚芬毕生最重要的法制规划遗产。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

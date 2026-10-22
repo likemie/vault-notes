@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Massive Open Online Courses
-
 > [!metax] [慕课 · MOOCs](https://www.visiblelearningmetax.com/influences/view/moocs)
 > 技术、学校与校外策略 › 信息通信技术
 >

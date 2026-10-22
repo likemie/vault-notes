@@ -58,7 +58,6 @@ citation_aliases:
   - "Hattie, 2015a"
   - "Hattie (2015a)"
 ---
-# Argument_Hattie_2015_Paideia
 
 > [!info] [[Research Question\|研究问题]]
 > [[Visible Learning]] 已经从一本 2009 年出版的[[Research Synthesis|研究综合]]扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践[[Discourse|话语]]。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
@@ -122,9 +121,7 @@ citation_aliases:
 >
 > 这一段的核心防守策略是：Visible Learning 不是最终真理，而是一套可以被反驳、修正和本地检验的研究解释。它要求学校问更好的问题，而不是把研究综合当作免思考的命令。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > - [[Visible Learning]] 的中心不是“高[[Effect Size\|效应量]]清单”，而是教师和学校以证据持续评估自身影响的专业姿态(pp.11-13)。
 > - d = 0.40 是所有可见教育影响的平均参考点，可用于开启比较讨论，但必须结合年级、结果类型、实施条件和同类研究背景解释(pp.10-11, 17)。
 > - 教师影响的六个关键条件包括：理解自身角色是评价影响、与同事共同评价影响、清楚学生先前学习、开端明确[[Success Criteria\|成功标准]]、平衡表层与[[Surface and Deep Learning\|深层学习]]、提供适当挑战而不是满足于“尽力而为”(pp.12-13)。

@@ -119,11 +119,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Research Universities
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究型大学（Research Universities）** 是 19 世纪中叶以后在西方（尤其是美国）以德国洪堡大学[[Humboldtian Model of Higher Education|教学与科研相统一原则]]为制度母本、深度融合本土赠地学院社会服务传统而建立的现代高等教育核心组织[[Paradigm|范式]]。该类大学将 **[[Knowledge Production|知识生产]]（前沿基础与应用科学研究）** 与**高层次专门人才培养（尤其是博士生教育）** 深度熔铸为不可分割的核心职能，构成了现代国家科学技术[[Systems of Innovation|创新系统]]的战略中枢与基础知识供给源泉。二战后，研究型大学依托《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》确立的联邦资助契约走向繁荣；进入 21 世纪，在面对私人研发崛起、地缘科技竞争、行政合规膨胀与人工智能科研范式重构的挑战下，研究型大学正经历从资助机制、学术自治到产学研协同的深层变革。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–33)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–8, 15–20)]]
@@ -141,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 研究型大学与相邻高等教育机构形态辨析
 > | 比较维度 | 研究型大学（Research Universities） | 自由文理学院（Liberal Arts Colleges） | 应用科学大学（Universities of Applied Sciences） |
 > |---|---|---|---|
@@ -152,8 +146,6 @@ updated: 2026-10-22
 > | **组织特征** | 庞大科研实验室、高间接费用与大型重资产设施 | 精致小班教学、低师生比与无博士后梯队 | 产教融合实训基地、双师型教师团队与行业认证 |
 
 ---
-
-## 核心要素
 
 > [!feature] 维持现代研究型大学卓越地位的深层组织构件
 > - **去中心化的市场分层竞争格局** 公立与私立研究型大学享有高度办学自主权，在优质生源、顶尖讲席教授与竞争性科研资助中展开多维角逐。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]
@@ -262,8 +254,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -279,8 +269,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 现代研究型大学的演化轨迹
 > - **1862–1940 — 制度奠基与战前边缘期** 《[[Morrill Land-Grant Act of 1862|莫里尔赠地法案]]》奠定实用科研传统，约翰斯·霍普金斯大学（1876）开创美式研究型大学[[Paradigm|范式]]；但二战前全国科研由工业界主导，大学科研经费极其微薄且处于国家边缘。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]
 > - **1940–1970 — 战时动员与黄金繁荣期** 二战 [[Office of Scientific Research and Development|OSRD]] 动员证明大学战略价值；[[Science, The Endless Frontier 1945|布什报告]]推动成立 [[National Science Foundation|NSF]]，联邦科研预算指数级增长，研究型大学确立为国家科技体系核心，包揽全球绝大多数诺贝尔奖。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–37)]]
@@ -293,8 +281,6 @@ updated: 2026-10-22
 > - **2025–2026 — [[Gold Standard Science|黄金标准科学]]、[[Metascience|元科学]]改革与国家技术型契约** 白宫颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》与《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略报告，针对大学行政官僚膨胀、间接成本过高及[[Reproducibility Crisis|可重复性危机]]推行严厉治理；并通过[[Genesis Mission|创世纪计划]]推动大学与国家实验室及产业界形成新型协同网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 52–54, 61–63)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -329,8 +315,6 @@ updated: 2026-10-22
 > > - **虚构商品与协作阻断批判（[[Argument_Block_2008_PS|Block, 2008]]）** 政治社会学家指出，学术知识本质上是科学共同体开放共享的产物，过度产权化将其异化为虚构商品；大学[[Technology Transfer Office|技术转移办公室]]对专利版税的追逐不仅诱发科研机构间的法务壁垒与信息封锁，更造成跨界协同受阻。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -102,12 +102,9 @@ created: '2026-05-04'
 updated: 2026-10-20
 ---
 
-# Visible Learning Branding and Global Influences
 （[[Visible Learning|可见的学习]]品牌化与全球影响）
 
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 《[[Visible Learning|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理[[Discourse|话语]]与教研生态。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
@@ -190,8 +187,6 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 
 ---
 
-## 品牌争议与深层批判
-
 > [!debates] 核心学术争议与制度批判
 >
 > > [!axis] 新自由主义商业化与利益冲突疑云
@@ -215,8 +210,6 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 
 ---
 
-## 推进历程时间线
-
 > [!dev-timeline] 品牌化与全球推进历程
 > - **1999–2005 — 技术前身与数据奠基期** Hattie 受教育部资助主持开发 [[Assessment Tools for Teaching and Learning|asTTle]] 测试系统，奠定图表可视化呈现方式与形成性问责理论。
 > - **2006–2008 — 商标布局与机构筹备期** 奥克兰大学申请 VL 商标并创建实验室；Hattie 出任 [[Cognition Education|Multi Serve]]（后更名 Cognition Education）董事会董事。
@@ -227,8 +220,6 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **2024 至今 — 二阶数据库基础设施化与质量反思期** 底层数据库拓展为收录 2,100 余项[[Meta-analysis|元分析]]的 [[Visible Learning Meta-X]]；[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 实证评测揭示早期历史录入偏离，推动向[[Man-Computer Symbiosis|人机协同]]验证[[Paradigm|范式]]演进。
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Cognition Education]] 前首席执行官 Terry Bates 论商业化启动
 > [[John Hattie|约翰·哈蒂]]当时作为奥克兰大学学者兼 Cognition 董事会成员，主动找到公司，为其具有里程碑意义的[[Meta-analysis|元分析]]研究成果《[[Visible Learning|可见的学习]]》所衍生的新兴商业平台寻找新归宿……核心重点是将 VL 研究的关键原则转化为针对教师和[[School Leadership|学校领导]]者的分级专业学习课程，并将其模块化销售。作为回报，哈蒂从所有与 VL 相关的收入中获得版税。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 59, cited in Johnson & Janzen, 2023, p. 30)]]
@@ -246,8 +237,6 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > *In 2018, Corwin Press, a publishing powerhouse with estimated annual revenues of \$50 million, acquired Visible Learningplus from Cognition Education... Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies... It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores.*
 
 ---
-
-## 相关条目网络
 
 > [!entry-map] 品牌生态网络
 >

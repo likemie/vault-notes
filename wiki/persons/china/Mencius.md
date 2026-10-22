@@ -56,11 +56,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Mencius
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 战国时期儒家思想家，[[Confucius\|孔子]]学说的直接继承者，被后世尊为“亚圣”。
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献 | 关联条目 |
 > |------|------|----------|----------|
@@ -97,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 孟子在三个关键维度上深化了[[Confucius\|孔子]]的学说：第一，提出“性善论”，将[[Self-Cultivation\|修身]]建立在人类先天的道德感之上；第二，归纳“[[Four Sprouts\|四端]]说”（恻隐、羞恶、辞让、是非），论证道德卓越并非精英特权，而是“人人皆可为尧舜”；第三，主张“[[Junzi\|君子]]深造之以道，欲其自得之也”，强调个人自主努力的终极责任，并确立了“[[Take the World Upon Oneself\|以天下为己任]]”的社会[[Critical Thinking Disposition\|批判精神]][[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 42–46)]]。
 
 > [!citation-card] 关键表述：梁惠王问利与四端之说
@@ -118,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** — 性善论与[[Four Sprouts\|四端]]说为[[Confucian Learning Tradition\|儒家学习传统]]提供了哲学基石；“人人皆可为尧舜”使道德修养从贵族特权走向平民化[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 43)]]。
 > - **思想史路径** — “自得之”成为[[Neo-Confucianism\|宋明理学]]（如[[Zhu Xi\|朱熹]]、[[Wang Yangming\|王阳明]]）重新发现内在体验与心性修养的关键枢纽。
 > - **政策与课程路径** — 《孟子》被朱熹列入“四书”，主导[[Civil Service Examination\|科举]]考试逾六百年；当代中国《语文》必修教材将其选为“中华优秀传统文化”的[[Official Knowledge\|官方知识]]典范[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
@@ -139,8 +129,6 @@ updated: 2026-10-22
 > - **跨文化独立镜像** — [[Socrates\|苏格拉底]] — 均坚持独立教师身份，拒绝政治收编，以道德批评介入公共空间[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 45)]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

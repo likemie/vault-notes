@@ -87,11 +87,7 @@ created: 2026-08-03
 updated: 2026-10-22
 ---
 
-# Role-playing
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **角色扮演（Role-playing）** 是一种让参与者在“仿佛”（as-if）的具身、社交或技术中介情境中有意识地代入特定角色并开展交往互动的活动方式（Sellers, 2002, p. 498；Johnstone, 1979/1981）。
@@ -117,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析与方法定位
-
 > [!contrast-table] 角色扮演的四重维度与相近形式全景辨析
 > | 维度 | 传统教育/心理剧角色扮演 | 即兴演剧与[[Status Transactions\|地位交易]]技术 | 大模型角色扮演提示支架 | 结构化模拟与[[Classroom Debate\|课堂辩论]] |
 > |---|---|---|---|---|
@@ -129,8 +123,6 @@ updated: 2026-10-22
 > | **组织与认知功能**| 克服刻板偏见、增进同理心 | 破除[[Bureaucracy\|科层制]]束缚、赋能自适应突击 | 维持[[Epistemic Agency\|认识主体性]]、进阶评价立场 | 培养逻辑攻防与复杂系统因果认知 |
 
 ---
-
-## 核心操作程序与实施要点
 
 > [!proc] 角色扮演全流程实施四阶段规程
 > 1. **情境架构与角色卡设计（Framing & Role Prompts）**
@@ -148,8 +140,6 @@ updated: 2026-10-22
 >    - 在技术与组织实践中，将即兴角色扮演经验转化为自适应网络与任务导向的阴影层级（[[Shadow Hierarchy]]）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|(Cohen et al., 2011, Ch. 26)]]；[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–366)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–126)]]
 
 ---
-
-## 实证数据与实践案例
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]实证结果（教学干预）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -172,8 +162,6 @@ updated: 2026-10-22
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 28, 30)]] | 方法学审计：《[[Visible Learning\|可见的学习]]》对游戏与角色扮演元分析的综合偏差剖析 | 揭示将 Fisher (1992) 角色扮演中视角转换与冲动抑制等社会发展指标错误计入一般认知“学业成就”（$d = 0.74$），掩盖了角色扮演（$d = 1.48$）与想象游戏（$d = 0.28$）的实质差距 | 证实宏观量化综合极易发生[[Dependent Variable\|因变量]]范围漂移与范畴错位，警示不可用粗放的单一认知成就标签掩盖角色扮演在社会情绪与换位思考领域的特异性效能。 |
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用场景
 > - 探讨涉及多方利益冲突、价值伦理或公共政策等劣构争议议题；
@@ -210,8 +198,6 @@ updated: 2026-10-22
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法审计：揭示宏观[[Meta-meta-analysis\|元-元分析]]中将角色扮演的社会发展指标（换位思考、冲动抑制）错划为认知[[Academic Achievement\|学业成就]]的[[Dependent Variable\|因变量]]漂移缺陷。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Karp & Zamiska (2025, Ch. 11, pp. 122–126)]] — 将即兴演剧的角色解耦与[[Status Transactions|地位交易]]拓展至前沿软件工程组织，论证地位作为工具性手段在激发自适应创新中的核心效能。

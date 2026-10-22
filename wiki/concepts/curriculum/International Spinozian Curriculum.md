@@ -39,11 +39,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-# International Spinozian Curriculum
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 国际[[Baruch Spinoza\|斯宾诺莎]]主义课程（international Spinozian curriculum）是由大卫·R·科尔（Cole, D. R.）于 2005 年针对[[International Baccalaureate\|国际文凭]][[Theory of Knowledge\|知识论]]应试异化所提出的一种课程设计框架与教学主张。该主张认为应当摒弃心物二元对立和外部理性规训，将课堂视为无否定和矛盾的内在性平面。它以学生的想象力与[[Conatus\|欲力]]（[[Conatus]]）为学习动力，通过正视并组合课堂中的情感波动，引导学生共同审视[[Knowledge Power|知识权力]]边界，从而培育能在后现代知识社会中进行跨学科规则创新的自主认知者。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 214, 220)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -89,8 +83,6 @@ updated: 2026-10-22
 > - **2005 — 概念初创** 科尔发文批判[[Theory of Knowledge\|知识论]]的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]理性公民培训[[Paradigm\|范式]]，首次阐发国际[[Baruch Spinoza\|斯宾诺莎]]主义课程作为融合想象力与情感、聚焦权力与欲望探索的课程替代方案。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 214, 220)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 该课程模式由于缺乏明确的学科大纲与外在考核标准，在实际运作中极易因欲望流变和想象力的漫无目的而导致课堂方向感缺失。此外，容忍和转化情感上的马尔斯特罗姆式情感风暴对习惯于秩序和升学目标导向的传统学校教师而言极难执行。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 215, 217)]]

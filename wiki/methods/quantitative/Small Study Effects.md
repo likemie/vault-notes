@@ -56,11 +56,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Small Study Effects
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Small Study Effects\|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination\|样本量]]（即较大[[Standard Error\|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance\|统计显著性]]的[[Effect Size\|效应量]]。** 这一现象由 Sterne et al. (2000)、Sterne and Egger (2005) 以及 [[Argument_Runco_2026_CRJ\|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成[[Funnel Plot\|漏斗图]]（Funnel Plot）不对称的根本物理原因，其来源不仅包括文献[[Publication Bias\|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
@@ -81,8 +77,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 小研究效应 vs [[Publication Bias\|发表偏倚]] vs 方法学质量缺陷
 > | 比较维度 | 小研究效应（Small-Study Effects） | 发表偏倚（Publication Bias） | 方法学质量缺陷（Methodological Quality Defect） |
 > |---|---|---|---|
@@ -92,8 +86,6 @@ updated: 2026-10-16
 > | **[[Meta-meta-analysis\|二阶元分析]]表现** | 显著存在（$F = 15.7, p = .002$），校正后为 $r = 0.17$ | 经全面灰色[[Literature Search\|文献检索]]与博硕士论文纳入得到部分控制 | AMSTAR 高质量 vs 低质量调节不显著（$p = .34$） |
 
 ---
-
-## 核心产生机制
 
 > [!feature] 小研究效应的三大驱动机制
 > - **选择性发表机制（Selection Bias / [[Publication Bias]]）** 小样本研究由于统计功效低，只有当[[Effect Size\|效应量]]极大时才能达到统计显著门槛（$p < .05$）从而被期刊接收；较小效应的小样本研究沉没在“抽屉”中。
@@ -134,8 +126,6 @@ updated: 2026-10-16
 > **二阶截距偏倚校正** 在对 52 项[[Creativity\|创造力]]一阶元分析（164 个效应量）的二阶综合中，多水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]配合[[Robust Variance Estimation\|稳健方差估计]]（CHE + RVE）检验显示，标准误斜率项高度显著（$F(1, 10.9) = 15.7, p = .002$），确证了创造力文献库中显著存在小研究效应；经截距外推校正后，创造力全领域的真实无偏二阶效应量确立为 **$r = 0.17$**（95% [[Confidence Interval\|置信区间]] $[0.11, 0.22]$），为全领域各细分[[Construct\|构念]]提供了可靠的参照原点。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–6)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

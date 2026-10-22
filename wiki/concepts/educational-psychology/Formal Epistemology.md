@@ -32,11 +32,7 @@ created: 2026-08-19
 updated: 2026-10-16
 ---
 
-# Formal Epistemology
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 形式[[Epistemology\|认识论]]（Formal Epistemology）指学生对专业（形式）科学（professional/formal science）及其[[Knowledge Production\|知识生产]]方式所表达出的[[Epistemological Beliefs\|认识论信念]]。在科学教育研究中，它通常等同于传统的[[Nature of Science\|科学本质]]（Nature of Science）研究所测量的信念。Hogan 将其称为远端认识论（distal epistemology），以区别于学生对自己作为科学学习者的认识论信念。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 635)]]
@@ -50,8 +46,6 @@ updated: 2026-10-16
 > - 不等于 [[Practical Epistemology]]：形式认识论关注远端的专业科学，而实践认识论关注学生自身的知识构建实践。两者之所以脱节，是因为学生常常没有把学校科学（做实验、探究）与专业科学建立本质上的等价连接。
 
 ---
-
-## 核心表现与共识
 
 > [!feature] [[Epistemology\|认识论]]的四个共识主题
 > 尽管科学哲学家对细节存在争议，但科学教育界对学生应该掌握的最低限度形式认识论存在四个核心共识：

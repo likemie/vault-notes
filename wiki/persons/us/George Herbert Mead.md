@@ -63,11 +63,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# George Herbert Mead
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国[[Pragmatic Paradigm\|实用主义]]哲学家、社会心理学家、社会学家，芝加哥大学教授，美国古典实用主义哲学与社会学芝加哥学派（Chicago School of Sociology）的核心理论支柱。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1890s–1910s — 社会[[Behaviorism|行为主义]]与手势沟通阶段（Early Chicago Phase）** 批判华生机械行为主义，吸纳冯特手势心理学与詹姆斯机能主义，奠定符号互动微观机制。
 >   - **代表论著** 《社会意识的发生与意义》（1910）、《社会自我的机制》（1913）。
@@ -111,9 +105,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 米德主张，人类不仅生存于由驱力与生物本能支配的“自然世界”，更居住在由语言与象征符号赋予意义的“社会世界”之中。人类自我的本质并非生物遗传或孤立内省的产物，而是在微观人际互动中通过“扮演他人的角色”（taking the role of the other）持续协商与[[Reflexivity\|反思性]]建构的社会过程。[[Symbolic Interactionism\|符号互动论]]将微观人际“互动本身”确立为经验研究的基本单位，坚决摒弃将人视作机械被动有机体的[[Positivism\|实证主义]]假设，确立了行动者主动解释情境、赋予意义并能动建构社会现实的完整主体形象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]
 
 > [!feature] 符号互动论的三大基本公设（Woods, 1979）
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] Schaffar 与 Wolff 论米德心身统一与环境互动
 > 米德的[[Pragmatic Paradigm\|实用主义]]思想强调，人类心智与身体绝非割裂的实体，而是作为联合整体参与人际社会互动。心智与[[Reflexivity\|反思性]]自我正是在与物理和社会环境的共生适应过程中孕育生成的。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]
 >
@@ -149,9 +139,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 思想经赫伯特·布鲁默（Herbert Blumer）提炼为“[[Symbolic Interactionism\|符号互动论]]”学派，并启发了埃尔温·[[Michael Gove\|戈夫]]曼（[[Erving Goffman]]）的拟剧论（Dramaturgy）与霍华德·贝克尔（Howard S. Becker）的标签理论（Labeling Theory），成为社会学[[Interpretive Paradigm\|诠释范式]]最具活力的脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **方法路径** 为学校微观[[Ethnography\|民族志]]、师生课堂互动分析提供了观察互动的概念工具（定义情境、角色协调、协商过程），并为[[Grounded Theory\|扎根理论]]（Glaser & Strauss）与质性探究[[Paradigm\|范式]]提供了微观[[Epistemology\|认识论]]辩护。
 > - **跨领域与课程传播** 1990年代被芬兰教育学者转译为“[[Pragmatic Constructivism\|实用主义建构主义]]”，直接作为芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的核心课程与心理学基础。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
@@ -174,8 +162,6 @@ updated: 2026-10-22
 >   - **约翰·华生（John B. Watson）** 机械[[Behaviorism|行为主义]]创立者，米德批判其排除内在意识与主观意义的S-R机械公式，倡导兼顾主观象征的“社会行为主义”。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

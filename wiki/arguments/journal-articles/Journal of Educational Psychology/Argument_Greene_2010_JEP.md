@@ -73,7 +73,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Greene_2010_JEP
 
 ---
 
@@ -90,8 +89,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -102,8 +99,6 @@ issuing_organization: ""
 > 个体的认知本质反映在多维度的组合特征档案（profile）中。通过[[Factor Mixture Modeling\|因子混合模型]]寻找潜在的类群轮廓，可将离散的维度得分匹配回认识论与本体论认知模型假设的发展序列中，从而实现对整合理论的实证检验。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -117,8 +112,6 @@ issuing_organization: ""
 > | **调查样本** | 740名学生（127名初中生、173名高中生、305名本科生、135名研究生），女性占68%。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -288,8 +281,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **发现一** 数学与历史分开的领域特定 [[Confirmatory Factor Analysis|CFA]] 模型均显著优于相应的领域一般模型，支持[[Epistemology\|认识论]]与[[Ontology\|本体论]]认知具有[[Domain Specificity\|领域特殊性]]。（pp. 241–242）
 > 2. **发现二** [[Factor Mixture Modeling|FMM]] 得到六个潜在类别；12个“类别 × 领域”轮廓中8个符合现实主义、怀疑主义或理性主义的预设，4个不清晰，教条主义未被识别，故 EOCD 只获部分支持。（pp. 244–246）
@@ -302,8 +293,6 @@ issuing_organization: ""
 > - **8/12** 从6个类群在数学与历史双领域中提取出的12个信念轮廓中，共有8个直接印证了理论模型提出的先验阶段分类。（p. 245）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 理论整合的需求
 > Hofer 提出，个人[[Epistemology|认识论]]研究可能正走向对多种模型观念的整合：可识别的信念维度被组织成理论，以大致可预测的方向发展，在情境中被激活，并作为[[Epistemic Cognition|认识论认知]]而运作。（Hofer, 2001, p. 377）

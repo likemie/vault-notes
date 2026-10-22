@@ -56,11 +56,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# Education at a Glance
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 《教育概览》（Education at a Glance, EAG）是[[OECD|经济合作与发展组织]]（OECD）自 1992 年起出版的年度旗舰数据报告，被誉为全球教育系统量化比较的权威文献。该报告由[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络研发生产，系统呈现成员国与伙伴国在教育产出、财政人力投入、入学升学以及学校环境维度的数百项指标，标志着西方世界教育治理从二战后粗放的劳动力预测全面转向现代“[[Governing by Numbers|数字治理]]”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 4, 14)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **核心问题导向** 终结各国自说自话的封闭统计壁垒，将极度异质的学制、学历体系与预算口径统一转换为跨国可[[Commensuration|通约]]的[[Operationalization|操作化]]指标，以横向绩效比较为各国国内结构性改革施加舆论问责与转型动力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重假设之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间对话的首要语言代码。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -95,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1992–1994 — 探索诞生与体量扩张期** 1992 年首版发行仅 150 页，由于缺乏统一的大规模测评数据，主要聚焦于投入与参与度指标；1993 年第二版篇幅激增至 300 页，国际关注度急剧攀升。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 14)]]
 > - **1995–2001 — 双语分行与数据标准化期** 1995 年起英法版本独立成册发行（每册达 370 页）；随着 [[International Indicators of Education Systems|INES]] 收集网络日益制度化，数据缺失值显著降低，开始稳步吸收[[IEA|国际教育成就评价协会]]等外部评估成果。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
@@ -104,8 +96,6 @@ updated: 2026-10-22
 > - **2003–至今 — 比较规制深化与远处治理矩阵** EAG 与 PISA、IALS 等共同构筑了经合组织的比较规制机制，使政策建议无需额外辩护便被广泛接受为权威事实；同时衍生出《[[Education Policy Outlook|教育政策展望]]》与交互式数字平台（[[Education GPS]]），实现了对成员国教育决策的长期[[Policy Brokerage|政策中介]]与“[[Governing at a Distance|远处治理]]”。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（OECD 秘书处）** 由教育与技能司统筹监管，协同各成员国教育部制定年度指标选题、数据核定与报告发布战略。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 > - **周期性发布与危机动员** 每年秋季定期向全球发布年度综合报告与国别简报，制造媒体排列表关注与国内政策讨论。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 教育总支出占 GDP 比重、生均公共与私人支出、教育经费来源与转移支付结构。
@@ -139,8 +127,6 @@ updated: 2026-10-22
 > - **G20 / OECD** 数据覆盖全部 OECD 成员国与 G20 主要经济体。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

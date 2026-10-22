@@ -55,11 +55,8 @@ status: draft
 created: 2026-07-19
 updated: 2026-10-22
 ---
-# Emancipatory Action Research
 
 ---
-
-## 定义
 
 > [!def] 解放性[[Action Research\|行动研究]]（Emancipatory Action Research）
 > 解放性行动研究是[[Action Research\|行动研究]]中最激进的分支，以[[Jürgen Habermas\|尤尔根·哈贝马斯]]（[[Jürgen Habermas\|Jürgen Habermas]]）的[[Critical Theory\|批判理论]]为[[Epistemology\|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（雪莉·格伦迪（Shirley Grundy）, 1987, pp. 146–147）。其核心目的不仅是技术和实践改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（奥特伦·祖伯-斯凯里特（Ortrun Zuber-Skerritt）, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 272–280)]]
@@ -76,8 +73,6 @@ updated: 2026-10-22
 > *Emancipatory action research ... aims not only at technical and practical improvement and the participants' better understanding ... but also at changing the system itself or those conditions which impede desired improvement in the system/organization. ... There is no hierarchy, but open and 'symmetrical communication'.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 认识论基础植根于[[Critical Theory\|批判理论]]，以[[Jürgen Habermas\|哈贝马斯]]的知识构成性兴趣（knowledge-constitutive interests）中解放兴趣为核心——知识服务于自由、自主和社会正义，而非预测控制或诠释理解。
@@ -118,8 +113,6 @@ updated: 2026-10-22
 > 具有明确的政治议程，其政治性与教育性同样重要。格伦迪（Grundy, 1987, pp. 146–147）指出解放性行动研究旨在发展参与者对阻碍其自主与自由的**不合法的结构性**和**人际性约束**的理解——这些约束基于不合法的压制、支配和控制。当参与者发展出对这些约束的意识，他们开始从不自由和约束走向自由、自主和社会正义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 272–273)]]
 
 ---
-
-## 核心概念：实践（Praxis）
 
 > [!def] 实践（[[Praxis]]）
 > 实践（praxis）定义为通过反思赋予信息并以解放为目标的行动。它融合理论与实践于一个平等的社会秩序之中——[[Action Research\|行动研究]]设计以改善社会、走向更公正平等的政治议程为目的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 273)]]
@@ -180,14 +173,10 @@ updated: 2026-10-22
 
 ---
 
-## 解放性行动研究与反身性
-
 > [!info] [[Reflexivity\|反身性]]的构成性角色
 > 反身性是解放性[[Action Research\|行动研究]]的构成要素和[[Epistemology\|认识论]]基础（Hall, 1996, p. 29）。其[[Knowledge Building Theory|知识建构]]立场具有双重特征：(a) 数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位；(b) 所有参与者之间存在民主关系。反身性要求参与者-实践者-研究者将同样的批判审视应用于自己和他人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 294–295)]]
 
 ---
-
-## 解放性行动研究的障碍
 
 > [!warning] 祖伯-斯凯里特（Zuber-Skerritt, 1996b, p. 90）识别的四个主要障碍
 > - **单环学习而非双环学习** 只解决表层问题而不质疑前提假设，无法触及根本的结构性约束
@@ -219,9 +208,7 @@ updated: 2026-10-22
 > - **将自身的科学观特权化** 拒绝客观性标准却缺乏方法论[[Humility\|谦逊]]，以另一种[[Epistemology\|认识论]]霸权取代[[Positivism\|实证主义]]霸权
 > - **将批判理论的权威特权化** 以批判理论的权威压制其他[[Theoretical Perspective\|理论视角]]和方法论取向，形成新的知识垄断
 
-### 实践后果与可行性
-
-> [!critique|notitle] 实践后果与可行性
+> [!critique] 实践后果与可行性
 > - **削弱个体[[Teacher-as-Researcher\|教师即研究者]]** 偏袒自我批判的共同体，忽视了个体教师在课堂层面的能动性。[[Stephen Kemmis\|凯米斯]]与麦克塔格特（Kemmis & McTaggart, 1992, p. 152）自己也质疑为什么行动研究必须是群体过程
 > - **减少实践影响** 将行动研究局限于学术界的知识商品化，脱离改进实践的根本目的
 > - **促进服从** 通过对批判正统的盲从反而促进方法论服从，与解放的目标自相矛盾
@@ -245,8 +232,6 @@ updated: 2026-10-22
 > | [[Participatory Research]] | 方法 | 参与式研究的权力平等化和集体共享事业为解放性行动研究提供了方法论文本和实践基础。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research\|行动研究]]的三分类型学定位、祖伯-斯凯里特（Zuber-Skerritt）四步循环和金奇洛（Kincheloe）七步过程、[[Ideal Speech Situation\|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心文献。

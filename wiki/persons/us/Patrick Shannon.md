@@ -55,11 +55,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# Patrick Shannon
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代批判读写教育学者、宾夕法尼亚州立大学（Penn State University）教育学院荣休教授，批判读写教育学派代表人物。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1989 — *Broken Promises: Reading Instruction in Twentieth-Century America*** 揭示 20 世纪美国阅读教学如何被商业出版寡头通过“脚本化教材”剥夺教师[[Professional Judgment|专业判断力]]。
 > - **1991 — *Policy research in reading education*** 确立功能主义、解释沟通与批判政策分析的三分[[Paradigm|范式]]，被广泛引述为读写政策方法论基准。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 11)]]
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 识字与阅读教育从来不是中立的神经认知技术，而是一种负载着阶级、权力和意识形态利益的社会文化实践；将阅读教学还原为孤立、机械的技能切片训练，其深层政治经济意图在于服务于商业出版寡头的垄断利润与国家技术官僚的规训控制。教育者必须运用[[Critical Policy Analysis|批判性政策分析]]透视政策的深层偏向，在真实社区语境与丰富文学情境中恢复[[Teacher Professional Agency|教师专业自主权]]与儿童的批判性民主素养。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
 
 > [!citation-card] 抵制商业去专业化与维护教师能动性（Patrick Shannon, 1989）
@@ -111,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] 埃德蒙森论香农的政策三[[Paradigm|范式]]分类贡献（Jacqueline Edmondson, 2005）
 > 帕特里克·香农对阅读教育政策研究三大类型——政策导向型、沟通型与批判型——的开创性阐释，为我们提供了参与政策辩论的完整认知地图。缺席了[[Critical Policy Analysis|批判性政策研究]]，我们便无法洞察政策背后的历史附着、权力垄断与社会正义议题。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
 >
@@ -127,8 +117,6 @@ updated: 2026-10-22
 > - **依托学术学会** [[National Council of Teachers of English]] — 长期活跃并发布重要抗争倡议的教师专业学术团体。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

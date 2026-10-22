@@ -44,8 +44,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Forced Knowledge Transfer
-
 > [!info] 定义
 > 强制[[Knowledge Transfer\|知识转移]]是[[Geopolitics of Knowledge\|知识地缘政治]]（GPK）中[[Knowledge Transfer\|知识转移]]的一种模态：通过规定（prescription）、胁迫（coercion）和暴力（force）进行的自上而下知识灌输。教学与学习是知识转移的关键机制，但在 GPK 中，教学常常以权力持有者服务为导向，形成从压迫者的客观性向被压迫者的主体性自上而下流动的权力梯度([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.75–76]])。
 

@@ -41,11 +41,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Higher Education Funding Council for England
-
 ---
-
-## 背景
 
 > [!event-context] 机构创立与法律地位
 > - **成立时间 / 法律依据** 依据英国《1992年[[Further Education\|继续教育]]与[[Higher Education Act of 1965\|高等教育法]]案》（Further and Higher Education Act 1992）正式设立。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
@@ -54,8 +50,6 @@ updated: 2026-10-22
 > - **核心使命** 负责英格兰所有公立大学的教学与科研财政拨款，维护学术质量、促进教育公平与推动大学体制创新。
 
 ---
-
-## 核心职能与评价治理
 
 > [!feature] 核心业务与高阶能力资助行动
 > - **公共经费分配** 年均分配数十亿英镑的政府经常性教学拨款与科研卓越框架（REF）质量挂钩拨款（QR funding）。

@@ -48,11 +48,7 @@ created: '2026-05-22'
 updated: 2026-10-22
 ---
 
-# Paradox of the Chinese Learner
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > "[[Chinese Learner\|中国学习者]]悖论"（paradox of the Chinese learner）由 [[David Watkins]] 和 [[John Biggs]] 在《The Chinese Learner》（1996）中系统提出。悖论的基本形态是：从西方教育视角看，中国／东亚教育体系充斥着"不良教学实践"——教师中心、威权主义、学生被动服从、[[Rote Learning\|死记硬背]]、缺乏内在动机、只求应试；但这些学习者在国际评估中持续表现优异，形成了"低劣学习方式"与"持续高成就"之间的尖锐矛盾([[Argument_Li_2012_Cambridge\|Li, 2012, pp.82-83]])。
 
 > [!quote|notitle]
@@ -60,9 +56,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > ### 提出背景
 
 该悖论由一群在香港工作的澳大利亚、英国和瑞典研究者推动形成。他们直接观察到 [[Confucian Heritage Cultures|CHC]] 学习者和西方教师之间的碰撞，并将其系统化为一个学术研究议程([[Argument_Li_2012_Cambridge|Li, 2012, pp.83-84]])：

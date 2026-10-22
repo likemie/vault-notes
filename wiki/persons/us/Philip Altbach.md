@@ -62,11 +62,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Philip Altbach
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较教育学家、国际高等教育研究开创宗师，波士顿学院摩农讲席教授（J. Donald Monan, S.J. University Professor）兼国际高等教育中心（CIHE）创办主任；曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长、《比较教育评论》（*Comparative Education Review*, CER）主编（1978–1988）。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970s–1980s — 学术出版依附与第三世界高等教育** 深入剖析后殖民国家大学面临的结构性学术依附困境，揭示国际出版巨头与中心国学术规范对边缘国家的文化控制。
 >   - **代表著作** *Publishing in India: An Analysis of the Impasse* (1975); *Comparative Higher Education* (1977); *The Knowledge Context* (1987)。
@@ -108,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球高等教育与科学研究系统从根本上运作于一个高度等级化的“中心-边缘”（Center-Periphery）结构中：北美与西欧的核心大学垄断了学术资本、高水平实验室、顶尖国际期刊与知识合法化定义权；外围与半外围国家在语言（英语霸权）、教科书与学术标准上长期依附于核心国。健康均衡的全球学术生态决不能依赖核心国的单向知识倾销，必须承认多元[[Epistemology|认识论]]的合法性，打破任何单一教条[[Paradigm|范式]]对学术[[Knowledge Production|知识生产]]的垄断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 > [!citation-card] 阿特巴赫论比较教育学科范式多元化转向
@@ -119,8 +111,6 @@ updated: 2026-10-22
 > *The domination of such paradigms as structural functionalism was broken. It is significant that nothing has emerged to replace these ideas as the primary direction of the [[Champ|field]]. Rather, a variety of different perspectives have entered into comparative education research... In many respects, these developments mirror the situation in the social sciences generally (Altbach, 1991: 504).*
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -28,11 +28,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Elon Musk
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Elon Musk（1971– ），南非裔美国科技企业家、工程师与投资人，太空探索技术公司（SpaceX）创始人兼首席执行官/首席工程师、特斯拉公司（Tesla）首席执行官兼产品架构师、xAI 创始人。
@@ -41,9 +37,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 当国家公共部门在重大科技探索中后撤、大部分科技资本退向浅层消费软件时，企业家与工程师必须勇于承担[[Grand Theory|宏大叙事]]与资本风险，以第一性原理直面深空航天、清洁能源与具身智能等真正的物理世界工程挑战。（Musk; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）
 
 > [!citation-card] 卡普与扎米斯卡论马斯克对重大创新真空的填补

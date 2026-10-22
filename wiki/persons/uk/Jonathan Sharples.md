@@ -44,11 +44,7 @@ created: 2026-09-02
 updated: 2026-10-16
 ---
 
-# Jonathan Sharples
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育学者、[[Knowledge Mobilisation\|知识动员]]专家，伦敦大学学院教育学院（UCL Institute of Education）教授，英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）资深顾问。
@@ -62,8 +58,6 @@ updated: 2026-10-16
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与关键节点
 > - **2010s 前期** 担任英国有效证据联盟（Alliance for Useful Evidence）资深研究员，致力于跨公共服务领域的[[Knowledge Mobilisation\|知识动员]]理论建设。
 > - **2013** 发表奠基性报告《Evidence for the Frontline》，系统厘清了证据在专业一线实践中的定位与边界。
@@ -73,8 +67,6 @@ updated: 2026-10-16
 
 ---
 
-## 主要著作与思想
-
 > [!work-line] 代表著作
 > - **2013 — *Evidence for the Frontline*** 奠基性报告，提出著名的反对脚本化教学与整合外部证据观，成为国际 [[Evidence-Informed Practice\|EIP]] 研究的核心引证源。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
 > - **2017 — *Measuring Teachers’ [[Engagement in and with Research\|Research Engagement]]: Findings from a [[Pilot Testing\|pilot study]]* (with Nelson et al.)** 开发测查学校教师[[Research Utilization\|研究利用]]与参与程度的测量工具。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 132)]]
@@ -82,8 +74,6 @@ updated: 2026-10-16
 > - **2022 — *Evidence on evidence-informed policy and practice* (with Gough & Maidment)** 探讨[[Educational Brokerage Agency\|知识中介机构]]在需求、系统、理论、标准与评估上的自我循证五大支柱。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–162)]]
 
 ---
-
-## 相关概念与研究
 
 > [!evidence-grid-a] 相关索引
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 特刊核心引述 Sharples 的 [[Evidence-Informed Practice\|EIP]] 定义与中介思想。

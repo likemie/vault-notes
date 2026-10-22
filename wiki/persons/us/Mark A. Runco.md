@@ -48,11 +48,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Mark A. Runco
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国心理学家、[[Creativity\|创造力]]研究学者，曾任阿尔托大学（Aalto University）卓越教授、佐治亚大学（University of Georgia）等机构教授，《创造力研究期刊》（*Creativity Research Journal*）创刊主编。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1991 — *[[Divergent Thinking]]*** 奠定发散思维作为[[Creativity\|创造潜能]]核心[[Operationalization\|操作化]][[Construct\|构念]]的理论与实证基础。
 > - **1999 — *Encyclopedia of Creativity***（与 S. R. Pritzker 合编） 汇聚当代创造力理论与跨学科研究的大型工具书。
@@ -113,8 +107,6 @@ updated: 2026-10-22
 > - **机构** 历任加州州立大学富勒顿分校、乔治亚大学、阿尔托大学教授，《Creativity Research Journal》编辑部。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

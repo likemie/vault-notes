@@ -32,11 +32,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Instrument Constituencies
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 政策工具支持群体（Instrument Constituencies）指由政治与经济行动者构成的利益与专业共同体，其行动目标在于开发、维护和扩张某种特定的政策工具治理模式，并在深化该工具使用的过程中享有确定的既得利益。该概念由西蒙斯（Arno Simons）与福斯（Jan-Peter Voß）提出，后由贝兰德（Daniel Béland）与豪利特（Michael Howlett）拓展至政策制定过程分析；在教育政策研究中，韦尔热（Antoni Verger）等人运用该概念揭示了由国际组织、国家测评官僚、私营测评企业与智库所构成的支持同盟，如何驱动大规模标准化评估与问责工具在教育系统中实现单向度扩张并构筑制度锁定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251–252, 259–260)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政策工具支持群体与相近分析范畴辨析
 > | 维度 | 工具支持群体（Instrument Constituencies） | 倡导联盟（Advocacy Coalitions） | 认识共同体（Epistemic Communities） |
 > |---|---|---|---|
@@ -69,8 +63,6 @@ updated: 2026-10-22
 > | 主要构成 | 跨国测评公司、数据软件供应商、国家考试院所、政策咨询智库 | 政党代表、工会领袖、社会运动团体、行业利益协会 | 大学研究人员、学术学会、跨国技术顾问团 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **物质与商业利益绑定** 私营测评企业（如培生集团〔Pearson〕、澳大利亚教育研究理事会〔Australian Council for Educational Research, ACER〕等）通过承揽国家统考命题、阅卷平台运维及学校改进咨询服务，获得巨额公共财政采购合同，形成推动统考扩容的商业动能。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
@@ -115,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -131,8 +121,6 @@ updated: 2026-10-22
 > - **2019 — 教育治理与测评产业应用** 韦尔热等人将该分析框架应用于全球 158 篇教育治理文献的系统综述，揭示了全球教育改革中国家评估与商业外包所催生的新支持群体及其制度锁定后果。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251–252, 259–260)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

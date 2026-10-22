@@ -116,11 +116,7 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# Evidence Standards
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据标准（Evidence Standards）指[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs）、[[Educational Evidence Clearinghouses\|证据清算中心]]（Clearinghouses）及网络证据门户在收集、综合与传播研究成果时，用以判定研究设计是否具有方法学[[Reliability\|信度]]、推论是否具备情境相关性，以及能否就干预措施的有效性提出合法功效主张（Evidence Claims）的整套规范性准则与[[Operationalization\|操作化]]评价体系。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 153–156)]]
@@ -140,8 +136,6 @@ updated: 2026-10-22
 > - 不等于 证据分级（Hierarchy of Evidence） — 单纯的证据分级通常基于研究设计等级自上而下排序，而证据标准强调方法严谨度、质性情境适应性与报告透明度的多维适配。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 证据标准与相邻概念的辨析
 > | 维度 | 证据标准（Evidence Standards） | 证据分级金字塔（Hierarchy of Evidence） | 报告规范（Reporting Standards） |
@@ -167,8 +161,6 @@ updated: 2026-10-22
 > | **政策意图与代价** | 旨在包容早期创新探索并降低地方审查成本；代价是难以破除低效采购惯性 | 旨在保障公共财政的真实学业回报；代价是对学区科研检索与甄别能力要求极高 |
 
 ---
-
-## 核心要素
 
 > [!dimension] 证据标准的六大运作维度（Gough, 2021, pp. 155–156）
 > - **方法学准则** 界定做出某类证据主张所必需遵循的方法学最低门槛与设计规范。
@@ -302,8 +294,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -329,8 +319,6 @@ updated: 2026-10-22
 > - **2024 — 地方财政实证审计揭示法定单项门槛与全量证据评价断层** [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] 开展首项针对特大型城市学区 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦资金的逐笔细粒度实证审计，量化证实法定单项合格研究门槛（95%–99%）与四大证据库全量综合评价（49%–58%）之间的断崖式差距，指出单项法定标准在未能打破学区师资编制与商业采购惯性的同时，掩盖了教育科研在学段衔接、微观构件与情境迁移上的供给赤字。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174–178)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -376,11 +364,9 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
-国际证据门户在评估干预成效时所采纳的方法学标准呈现出显著的分化与失衡：
-
 > [!matrix-table]- 国际网络证据门户支持有效性证据主张的方法学标准（Gough & White, 2018; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 155]], Table 7.1）
+> 国际证据门户在评估干预成效时所采纳的方法学标准呈现出显著的分化与失衡：
+>
 > | 评价依据标准 | 干预项目类门户 | 干预策略类门户 | 门户总数 | 占比 |
 > |---|---|---|---|---|
 > | **[[Systematic Review\|系统综述]]** | 0 | 6 | 6 | 40.0% |

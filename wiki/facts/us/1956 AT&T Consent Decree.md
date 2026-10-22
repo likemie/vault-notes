@@ -44,11 +44,7 @@ created: 2026-10-03
 updated: 2026-10-16
 ---
 
-# 1956 AT&T Consent Decree
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1956 年 1 月由美国司法部（U.S. Department of Justice, DOJ）与美国电话电报公司（American Telephone and Telegraph Company, AT&T）及西电公司（Western Electric）在联邦地方法院签署达成。
@@ -57,8 +53,6 @@ updated: 2026-10-16
 > - **制度位置** 战后美国反垄断执法与科技政策交汇的里程碑案例，与同年末达成的 1956年IBM同意令 共同构成了战后美国信息技术产业去中心化结构的基础制度框架。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 161–163, 177)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 1956 年 AT&T 同意令通过剥离商业禁区与强制专利开放两大杠杆，禁止 AT&T 开展公共电信网络运营以外的任何商业性业务，并责令其以极低或零费率向所有申请者强制许可全部既有与未来专利，彻底瓦解了巨头在商用半导体领域的纵向封锁能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 162–163)]]
@@ -75,8 +69,6 @@ updated: 2026-10-16
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1947** [[Bell Labs|贝尔实验室]]研发团队成功发明点接触晶体管。
 > - **1949** 美国司法部正式对 AT&T 提起反垄断诉讼，要求拆分西电公司。
@@ -85,8 +77,6 @@ updated: 2026-10-16
 > - **1982–1984** 司法部与 AT&T 达成新的修改最终判决（Modified Final Judgment, MFJ），AT&T 遭实质性拆分，1956 年同意令被新协议取代。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 161–162)]]
 
 ---
-
-## 实施影响与产业后果
 
 > [!actor-grid] 产业生态重塑
 > - **新创专业半导体企业（Merchant Semiconductor Firms）** 德州仪器（Texas Instruments）、[[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）、通用晶体管（General Transistor）与全美大量初创企业以极低成本获取[[Bell Labs|贝尔实验室]]底层技术，开创了硅谷商用芯片产业的繁荣。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 162–165)]]
@@ -100,8 +90,6 @@ updated: 2026-10-16
 
 ---
 
-## 效果与评价
-
 > [!finding-cards] 政策效果评价
 > - **专业化供应商生态确立** 培育了全球最具活力的新创独立半导体企业群落，避免了新兴计算产业被传统电信巨头纵向锁定。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 160, 162–163)]]
 > - **[[General Purpose Technology|通用技术]]跨部门渗透提速** 晶体管与集成电路从军工和电信专用品，快速外溢至计算机、消费电子与工业控制等众多民用部门。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 168–171)]]
@@ -112,8 +100,6 @@ updated: 2026-10-16
 
 ---
 
-## 评价与学术争议
-
 > [!debates] 学术争议与理论对话
 >
 > > [!axis] 知识产权强保护论 vs. 强制许可与反垄断扩散论
@@ -123,8 +109,6 @@ updated: 2026-10-16
 > > - **反垄断开放扩散论（[[Argument_Mowery_2011_NBER|Mowery, 2011]]）** 指出 1956 年同意令通过强制专利许可与禁止业务扩张，既保留了贝尔实验室在规管垄断电信收入资助下的研发动力，又消除了阻碍外部中小企业创新的专利丛林，创造了动态效率最优的[[Innovation Ecosystem|创新生态]]。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 162–163, 184–186)]]
 
 ---
-
-## 相关概念／理论
 
 > [!entry-map] 相关概念与理论
 >

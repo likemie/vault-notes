@@ -27,10 +27,6 @@ created: 2026-10-07
 updated: 2026-10-16
 ---
 
-# Conversation Analysis
-
-## 定义
-
 > [!def] 会话组织与意义建构
 > 会话分析（Conversation Analysis）对会话如何生成、建构、运作，以及参与者如何在交谈情境中形成意义进行细致调查。在 [[Discourse Analysis|话语分析]] 的这一进路中，整体会话的顺序和互动细节得到保留，材料不会只被拆成跨情境的主题片段。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 
@@ -84,8 +80,6 @@ updated: 2026-10-16
 >
 > [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
 
-### 案例中的证据与解释
-
 > [!row-contrast] 课堂示例中的证据与可支持的判断
 > | 材料位置 | 互动细节 | 可支持的解释 | 判断边界 |
 > |---|---|---|---|
@@ -97,8 +91,6 @@ updated: 2026-10-16
 > [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
 
 ---
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 需要理解课堂问答、语言权利、群体活动或互动中权威关系的问题。

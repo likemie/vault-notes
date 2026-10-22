@@ -90,11 +90,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Policy Mobility
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **政策流动（Policy Mobility / Policy Mobilities）** 是指政策观念、模型、工具与治理技术如何在跨国、跨区域及公私混合网络中穿梭、解构、变异并在本地重新装配的动态过程。与经典政策转移或[[Policy Borrowing\|政策借用]]理论将政策视作可在真空物理空间中完整平移的既定“包裹”不同，政策流动强调政策在位移过程中不可避免地发生形态变异（mutation）与权力转译；其背后通常由跨国管理咨询公司、[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）组织与金融资本组成的[[Policy Network\|政策网络]]所驱动，依托“快速政策”（fast policy）机制穿透传统民族国家边界，并通过耐用物质材料与法律装置在目标[[Champ\|场域]]完成[[Recontextualization|再情境化]]（Peck & Theodore, 2015；Ball et al., 2017；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5–6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–525]]）。
@@ -121,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政策流动与相近分析[[Paradigm\|范式]]辨析
 > | 维度 | 政策流动（Policy Mobility） | [[Policy Borrowing\|政策借用（Policy Borrowing）]] | 政策转移（Policy Transfer） |
 > |---|---|---|---|
@@ -134,9 +128,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **突变与转译（Mutation and Translation）** 政策在跨界穿梭中始终伴随形式突变与功能再编码；在不断遭遇地方摩擦、政治阻力与利益再分配时，进入新[[Champ\|场域]]的政策演变为杂糅跨国模板与地方权宜考量的衍生装配体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5]]
 > - **关系拓扑与跨尺度流动（Relational Topologies and Trans-scalar Mobility）** [[Space of Flows\|流动空间]]由行动者之间的制度联结、重叠董事任职（[[Co-affiliation\|Co-affiliations]]）与资助网络界定，而非传统的物理距离；远隔重洋的跨国私市股权基金、华尔街投行与地方公立学校，在[[Topological Spatialisation\|拓扑空间]]中通过紧密的中介枢纽直接相连。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8]]
 > - **快速政策与中介经纪（Fast Policy and Intermediary Brokerage）** 政策由麦肯锡（McKinsey & Company）等跨国咨询巨头、[[Venture Philanthropy\|风险慈善]]基金会与智库打包为去情境化、即插即用的因果证据与商业评估量规，以超常规的行政速度在跨国体系间高速流通，剥夺公众民主审议时间。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]
@@ -226,8 +218,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -246,8 +236,6 @@ updated: 2026-10-22
 > - **2023 — 国家催化平台与风险慈善异层网络装配** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 进一步揭示政策流动中民族国家作为“催化平台”与“市场缔造者”的双重角色；展示跨国政策流动如何通过 [[Deductible Gift Recipient\|DGR1]] 免税特许管道与 [[Social Ventures Australia\|SVA]] 四层控股公司架构，将英美风险慈善与私营商业中介深度装配至公共教育体系，并导致财政资源逆向流动与[[School Autonomy\|学校自主权]]受制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -270,8 +258,6 @@ updated: 2026-10-22
 > 政策流动分析框架高度适用于具有明显跨国借鉴背景、公私混合资助、咨询公司深度介入及证据中介参与的新自由主义教育改革议题；当分析对象属于完全内生、高度受制于封闭传统宗教习俗或缺乏外部资本介入的微观地方教学规范变迁时，该框架的解释力较为有限。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨国教育政策流动案例、中介装配与物质载体对照（2011–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

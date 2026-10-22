@@ -70,11 +70,7 @@ created: '2026-05-04'
 updated: 2026-10-22
 ---
 
-# Steen Nepper Larsen
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦奥胡斯大学（Aarhus University）丹麦教育学院（Danish School of Education）教育哲学副教授，当代欧洲教育哲学批判[[Positivism|实证主义]]证据本位运动的代表学者。
@@ -99,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > | 年份 | 著作 | 核心贡献与问题意识 | 关联条目 |
 > |---|---|---|---|
@@ -113,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育本质上属于不可即时还原的存在性实践，而非可在当下直接测量与计算的商业化产品。任何声称能将学习全景“可见化”的[[Positivism|实证主义范式]]，其观看机制都必然受制于自身的认知盲点——狂热追求测量与[[Effect Size|效应量]]的研究者“无法看见自己所无法看见之物”。学习是具身大脑与社会文化环境深层纠缠的历时生成过程，必须以注重自主探索与主体自决的教育教化（[[Bildung]]）以及具身化与扩展辩证法，替代技术主义的短期效益崇拜。
 
 > [!citation-card] 观看中的盲视与[[Epistemology|认识论]]局限
@@ -135,9 +127,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进欧陆[[Critical Pedagogy|批判教育学]]与德国教化（[[Bildung]]）传统的现代复兴，为抵抗新自由主义[[Learnification|学习化]]趋势提供了结合神经科学哲学与[[Phenomenology|现象学]]的全新理论防线。
 > - **方法路径** 将[[Niklas Luhmann|卢曼]]的二阶[[Blind Spot in Observation|观察盲点]]理论与托马斯·富克斯（[[Thomas Fuchs]]）的生态大脑现象学引入教育研究，确立了对量化[[Meta-analysis|元分析]]与[[Positivism|实证主义]]评价框架进行方法论前提审查的哲学进路。
 > - **政策与公共论辩路径** 深度介入丹麦基础教育改革争论，在公共知识界力抗以[[Evidence-Based Education|循证教育]]与量化指标为导向的[[New Public Management|新公共管理]]改革，倡导捍卫北欧学校的民主与人文根基。
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > - **学术机构** 奥胡斯大学丹麦教育学院（Danish School of Education, Aarhus University） — 开展教育哲学与[[Critical Theory|批判理论]]研究的学术基地。
 
 ---
-
-## 争议与批评
 
 > [!warning] 未解问题与边界
 > - **学术论证风格的个人化取向** Larsen 本人明确指出其代表作属于“个人化哲学论文”（Personal essay），其批判进路立足于概念澄清与哲学思辨，未采用对[[John Hattie|哈蒂]]批评文献的全面计量综合，因而在经验证据层面保持了明确的理论侧重。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2–3)]]

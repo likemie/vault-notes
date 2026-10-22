@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Expectations
-
 > [!metax] [教师对学业成就的估计 · Teacher estimates of achievement](https://www.visiblelearningmetax.com/influences/view/teacher_estimates_of_achievement_)
 > 教师 › 教师特质
 >

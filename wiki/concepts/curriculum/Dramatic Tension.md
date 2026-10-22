@@ -28,11 +28,8 @@ status: draft
 created: 2026-08-04
 updated: 2026-10-22
 ---
-# Dramatic Tension
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 戏剧张力（dramatic tension）是所有戏剧按定义赖以推动行动前进的张力机制，成功的[[Role-playing\|角色扮演]]必须有戏剧张力来维持角色信念和对情境的投入，使参与者相信情境"仿佛是真的"（26.7，p. 15）。
@@ -48,8 +45,6 @@ updated: 2026-10-22
 > *By inserting low-level or insipid dramatic tension into a role-play, it can motivate participants, build investment in the fictional situation, and it "has the effect of making the most hackneyed situations spring into new focus and create new awareness" (Heathcote, 1991, p. 34).*
 
 ---
-
-## 核心要素
 
 > [!feature] 戏剧张力的构成要素
 > - **四种来源** 张力可能出现在：角色关系中；因必须完成的任务而产生；因不知道将要发生什么（惊喜和／或神秘）；或在探索参与者日常生活中不典型的行为方式时（Box 26.3 原则 5）

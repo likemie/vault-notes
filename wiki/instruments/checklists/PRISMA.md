@@ -88,11 +88,7 @@ created: 2026-08-25
 updated: 2026-10-17
 ---
 
-# PRISMA
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] PRISMA
 > - **工具类型** 方法学报告规范与透明度核查清单（Checklist）。
@@ -106,8 +102,6 @@ updated: 2026-10-17
 > *"The [[Literature Search]] and screening strictly adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement... through systematic identification, screening, eligibility, and inclusion phases."*
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]报告规范
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -123,8 +117,6 @@ updated: 2026-10-17
 > | **其他信息（Other Information）** | 3 | 报告[[Preregistration\|预注册]]平台编号、获取协议途径、资金资助角色、利益冲突声明及数据代码共享链接 | 报告项二元核查（已报告 / 未报告 / 不适用） |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 核查与报告规则
 > - **题项形式** 标准化方法学陈述核查条目（Checklist Items）。
@@ -167,8 +159,6 @@ updated: 2026-10-17
 > | **Item 26** | 利益冲突声明（Competing Interests） | 明确声明全体作者是否存在与本综述主题相关的财务或非财务利益冲突 | 切断利益绑定导致的学术倾向性偏倚 |
 > | **Item 27** | 数据与代码共享（Availability of Materials） | 说明原始提取数据矩阵、分析脚本代码及辅助材料的公开获取途径 | 落实完全开放科学与证据可计算复现 |
 
-### 四阶段文献流转程序
-
 > [!proc] PRISMA 四阶段标准流转程序
 > 1. **识别阶段（Identification）** 确定检索关键词布尔组合，跨中英文核心数据库检索并记录各库命中篇数，汇入文献管理软件完成自动与人工去重。
 > 2. **初筛阶段（Screening）** 由两位研究者独立阅读文献标题与摘要，根据预设标准剔除明显不相关的研究，记录剔除数量。
@@ -200,8 +190,6 @@ updated: 2026-10-17
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -216,8 +204,6 @@ updated: 2026-10-17
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | PRISMA 声明 | ERIC、Scopus 等数据库 1,617 篇初始记录至 34 篇纳入文献 | 教育[[Research Utilization\|研究使用]][[Critical Review\|批判性综述]]质控 | 结合 PRISMA 检索规范与多维概念分析，对教育研究使用实证文献进行全文本解构。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

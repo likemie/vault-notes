@@ -24,13 +24,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Faust
-
-
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 浮士德（Faust）是西方文化中追寻知识的核心隐喻人物，其故事围绕"浮士德式交易"（Faustian Bargain）展开：浮士德以灵魂为代价，与魔鬼交易，换取知识与力量。[[Argument_Li_2012_Cambridge\|Li (2012)]]将浮士德精神视为西方学习传统的基本组织隐喻，用以对照东亚儒家的[[Self-Cultivation\|修身]]学习传统([[Argument_Li_2012_Cambridge\|Li, 2012, p.15]])。
 
 浮士德的原型是16世纪初生活在欧洲的一位真实人物（Dr. Faustus），后经多部艺术作品加工，成为文化传奇([[Argument_Li_2012_Cambridge|Li, 2012, p.1]])。

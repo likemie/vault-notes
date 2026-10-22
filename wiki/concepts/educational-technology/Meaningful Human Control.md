@@ -67,12 +67,9 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Meaningful Human Control
 （有意义的人类控制 / MHC）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 有意义的人类控制（Meaningful Human Control, MHC）源自人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）伦理学、自主系统治理与[[Man-Computer Symbiosis|人机协同]]理论（Santoni de Sio & van den Hoven, 2018），指在人工智能与自动化决策支持系统深度介入的复杂任务或高风险决策中，**人类行动者绝非充当被动签字或机械确认的形式化外壳，而是保持对系统推理因果链的认知理解与主动追踪能力，主导关键证据权衡与分歧仲裁，并在出现异常、偏误或价值冲突时具备实质性的干预、否决与伦理问责权**。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 20, 24)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
@@ -99,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 四类人机决策与监督形态的机制对比
 > | 比较维度 | 完全自动化（Full Automation） | 形式化人在回路（Nominal HITL） | 方法学分歧仲裁（Methodological MHC） | 实质伦理与认识抗辩（Substantive MHC） |
 > |---|---|---|---|---|
@@ -111,8 +106,6 @@ updated: 2026-10-22
 > | **规范责任状态** | 算法黑箱导致责任主体悬空 | 责任不当转嫁给表面签字的操作者 | 科研团队承担清晰可审计的实质学术责任 | 人类操作者切实履行对生命尊严的道德受托义务 |
 
 ---
-
-## 核心要素与运作机制
 
 > [!feature] 有意义人类控制的核心构成要素与操作条件
 > - **追踪条件（[[Tracking]] Condition）** 决策系统的运行路径与输出结果，必须能够持续、敏感地追踪人类行动者的规范意图、价值目标以及物理世界的真实事实证据。[[Argument_Jansen_2026_EPR|(Santoni de Sio & van den Hoven, 2018; Jansen et al., 2026, p. 6)]]
@@ -202,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 有意义的人类控制核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -215,8 +206,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 有意义人类控制的概念演变脉络
 > - **2014–2015 年 — 国际人道法与自主武器治理发轫** 面对致命自主武器系统（LAWS）的伦理争议，“第36条（Article 36）”组织与学者正式提出“有意义的人类控制（MHC）”，主张不能将致命武力使用权完全托付给自动化算法（Horowitz & Scharre, 2015）。
 > - **2018 年 — 规范哲学与系统工程理论奠基** 菲利波·桑托尼·德西奥（Filippo Santoni de Sio）与耶罗恩·范登霍芬（Jeroen van den Hoven）系统提出追踪条件与响应条件，将 MHC 从单纯的军事政治口号转化为严格的哲学与工程设计理论。
@@ -225,8 +214,6 @@ updated: 2026-10-22
 > - **2026 年 — [[Automation Bias|强自动化偏差]]哲学批判与[[Epistemic Friction|认识论摩擦]]重构** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 深刻批判人在回路的“橡皮图章化”病理，阐明强自动化偏差对道德能动性的侵蚀，并提出基于反思机器与[[Defeater|击败者]]注入认识论摩擦的全新设计方案。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -248,8 +235,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 有意义人类控制相关实证基准与验证表现
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -268,8 +253,6 @@ updated: 2026-10-22
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 提出在生成式 AI 交互中必须建立结构化反思支架，防范无约束交互中操作者控制权的流失。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

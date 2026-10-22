@@ -59,11 +59,7 @@ created: 2026-06-23
 updated: 2026-10-22
 ---
 
-# Criterion-related Validity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Criterion-related Validity\|效标关联效度]]（Criterion-related Validity，亦称效标效度）指通过将某一特定测量工具的结果与另一个公认有效且独立的**外部效标（External Criterion）** 进行统计关联，以此确立该工具测量有效性的方法学体系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 179]]; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。其基本逻辑是：若新工具的得分能够高度吻合或准确预测公认有效的外部标准，则该工具的有效性与实践价值获得实证支持。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 效标关联效度与主要效度维度的辨析
 > | 维度 | 效标关联效度（Criterion-related Validity） | [[Construct Validity\|构念效度]]（Construct Validity） | [[Content Validity\|内容效度]]（Content Validity） |
 > |---|---|---|---|
@@ -95,8 +89,6 @@ updated: 2026-10-22
 > | **致命威胁** | **效标污染（Contamination）与效标缺失（Deficiency）** | [[Construct\|构念]]混淆、测量不相关变异 | 题项抽样代表性不足、内容覆盖偏差 |
 
 ---
-
-## 核心要素与两大形态
 
 > [!dimension] 效标关联效度的两大分支形态
 > - **[[Predictive Validity\|预测效度]]（Predictive Validity）**
@@ -148,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -165,8 +155,6 @@ updated: 2026-10-22
 > - **2020s — [[Meta-meta-analysis\|二阶元分析]]系统解构效标定位** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 运用二阶[[Meta-analysis\|元分析]]实证量化了[[Variable\|变量]]在作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）时的系统不对称性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -188,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- [[Meta-analysis\|元分析]]实证结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -199,8 +185,6 @@ updated: 2026-10-22
 > | 同上 | 潜能作为效标结果受前因预测（效标角色） | 52 项元分析 (164 ES) / 2609 项研究 / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.12$** $[0.05, 0.19]$ | 显著异质性 | 高，证实效标定义分歧导致关联偏低 |
 
 ---
-
-## 测量学应用与实践路径
 
 > [!implication]- 效标关联效度确立的四大操作原则
 > 1. **实施效标净化（Criterion Purification）** 严格识别并剥离效标测量中的系统性偏见（如评分者主观好恶、[[Socioeconomic Status|社会经济地位]]混杂），提升效标纯净度；

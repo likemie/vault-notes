@@ -71,11 +71,7 @@ created: '2026-06-08'
 updated: 2026-10-22
 ---
 
-# Umbrella Review
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 伞状综述（Umbrella Review，亦称综述之综述 Overview of Reviews 或概括性综述）是一种在证据金字塔顶端对特定主题下已有的多项独立[[Systematic Review|系统综述]]（Systematic Review）和[[Meta-analysis|元分析]]（Meta-analysis）进行系统检索、方法学质控、重叠审计与跨领域横向整合的宏观综合研究方法。Grant and Booth（2009）将其界定为整合多个既有综述证据的最高阶综合形态。与专注于数值加权平均的[[Meta-meta-analysis|二阶元分析]]不同，伞状综述更侧重以共同的方法论框架、统一的质控标准（如 [[AMSTAR]]、Campbell MECCIR 规范）和证据分级体系组织跨领域的证据全貌，为教育政策制定者与学校实践者提供高可用性、可比较的决策参考图景。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 45–47)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 秉承宏观循证综合视角，认为单一试验或孤立[[Meta-analysis|元分析]]因情境局限难以支撑广泛政策推论，必须通过多重综述的横向映射识别普遍规律与情境边界。然而，伞状综述高度依赖底层文献的[[Interpretive Validity|解释效度]]与[[Construct|构念]]一致性；若底层综述存在定义滑移，顶层综合将陷入虚假精确。
 > - **研究者角色** 从“一手数据分析者”转变为“二阶证据[[Gatekeepers|把关人]]与审计者”，核心任务在于确立纳入标准的同质性、辨析概念边界并核验底层[[Chain of Evidence|证据链]]的可溯源性。
@@ -109,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心研究规程
-
 > [!proc] 现代伞状综述五步标准规程
 > 1. **协议[[Preregistration|预注册]]与 [[PICO Framework|PICO]] 准入红线界定** 依据 Campbell MECCIR 规范公开发布研究方案，严格界定 PICO 四要素。明确排除对象偏离（如混入成人样本）、干预定义失真、对照条件模糊（混淆常规教学与活跃创新教学）以及结局指标错位的综述。
 > 2. **全库系统检索与文献去重筛选** 检索学术数据库与权威机构报告，遵循 [[PRISMA]] 四阶段流程图记录筛选过程；建立已纳入综述的初级实证文献全量索引矩阵，计算初级研究重复引用率。
@@ -119,8 +111,6 @@ updated: 2026-10-22
 > 5. **证据分级、重叠校正与实践转译** 采用证据确定性分级（如 GRADE 或 [[Education Endowment Foundation|EEF]] 挂锁评级），根据 [[Corrected Covered Area|CCA]] 热力图剔除严重冗余综述，将高确定性因果证据转化为实践者易懂的政策参数。
 
 ---
-
-## 与相关方法的关系辨析
 
 > [!contrast-table] 伞状综述与相近宏观综合方法的辨析
 > | 维度 | [[Umbrella Review\|伞状综述（Umbrella Review）]] | [[Meta-meta-analysis\|二阶元分析（Second-Order Meta-Analysis）]] | [[Systematic Review\|一阶系统综述（Systematic Review）]] |
@@ -131,8 +121,6 @@ updated: 2026-10-22
 > | **致命风险** | [[PICO Framework\|PICO]] [[Construct\|构念]]错位与“假性可比性”（跨领域苹果与橙子硬拼） | 文献重叠导致的假阳性膨胀与底层数据提取不可复现 | [[Publication Bias\|发表偏倚]]与初级研究方法学质量低下 |
 
 ---
-
-## 方法学局限与元科学前沿反思
 
 > [!warning] 核心批判维度导览
 > 1. **底层综述质量制约与偏倚逐级放大** 伞状综述的稳健性受限于底层综述的规范性。如果纳入的一阶综述存在公式计算混淆（如 SE 与 SD 混淆）、未加权平均或[[Publication Bias|发表偏倚]]遗漏，顶层汇总不仅无法消除这些缺陷，反而会将其固化为具有欺骗性的宏观结论（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）。
@@ -154,8 +142,6 @@ updated: 2026-10-22
 > | [[Visible Learning]] | 批判案例 | 因缺乏 PICO 把关与底层提取核验而遭遇全量[[Metascience\|元科学]]审计质疑的巨型二阶综合项目。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 阐述英国 [[Education Endowment Foundation|EEF]] 工具包如何整合一系列伞状综述，以共同方法论为教育决策提供可及的相对有效性证据与挂锁安全分级。

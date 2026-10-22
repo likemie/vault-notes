@@ -59,11 +59,7 @@ created: 2026-07-22
 updated: 2026-10-20
 ---
 
-# Transcription in Qualitative Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 转录（Transcription）是将口头访谈、[[Focus Group\|焦点小组]]研讨或人机交互有声思维（Think-Aloud Protocols）等口语遭遇转换为书面文本的过程。前缀 *trans* 表明状态或形式的根本性变化——转录本质上是一种**选择性转换（Selective Transformation）**，而非对原始场景的中性、客观复刻。它代表着从口语及人际交往规则系统，向书面语言和符号系统的不可逆跨越。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）介入的研究情境中，转录进一步拓展为结合屏幕录制交互日志与即时口语表达的多模态数据对齐过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Kvale, 1996; Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
@@ -74,8 +70,6 @@ updated: 2026-10-20
 > - **边界与[[Epistemic Responsibility\|认识论责任]]** 转录文本与原始经验情境之间存在固有的不透明性（Opaque Screen）。自动化转录工具的普及虽大幅提升了转录效率，但无法免除研究者对转录文本失真、语境断裂与算法虚构承担最终的[[Epistemic Responsibility\|认识论责任]]。
 
 ---
-
-## 核心要素
 
 > [!feature] 质性转录的多维信息记录范畴
 > - **言语内容（Verbatim Content）** 准确记录字面词汇、短语、重复表述与自我修正。
@@ -120,8 +114,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -130,8 +122,6 @@ updated: 2026-10-20
 > | **人机协同审查** | AI 转写极大提升效率，但研究者须对算法平滑与幻觉承担终极审验责任 | 人机交互有声思维追踪、智能时代[[Qualitative Research\|质性研究]] | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 
 ---
-
-## 转录实践与操作程序
 
 > [!cost-table]- 质性转录技术形态演进与成本效益对比
 > | 转录模式 | 技术机制与特征 | 核心优势 | 主要代价与风险 | [[Epistemology\|认识论]]控制要求 |
@@ -155,16 +145,12 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
 > [!tension] 逐字字面记录（Verbatim Fidelity） vs 语义可读性重构（Clean/Readable Transcription）
 > - **逐字保真派（[[Conversation Analysis]]）** 坚持记录每一个结巴、语气助词（“嗯”、“啊”）、呼吸声与毫秒级停顿，认为任何平滑都是对原始社会互动机制的破坏。
 > - **主题分析派（Thematic Analysis）** 主张适度清理不影响核心含义的语病与赘字，以提高文本可读性并聚焦于实质性观点。
 > - **折中规范** 严格区分研究性质：微观[[Discourse Analysis\|话语分析]]必须执行极致逐字转录，而宏观政策或主题提取研究可在明确说明的前提下进行规范化清理。
 
 ---
-
-## 应用案例
 
 > [!example] 实证研究中的典型转录应用
 > - **经典[[In-depth Interview\|深度访谈]]与[[Focus Group\|焦点小组]]转录（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011]]）**
@@ -177,8 +163,6 @@ updated: 2026-10-20
 >   在[[Qualitative Research|质性研究]]中体现了转录技术的双重应用：一方面，在跨国远程专家访谈中，研究者对原始录音转录文稿进行保持主旨忠实与精确前提下的适度删节和可读性编辑，并将文本回传受访专家审阅，达成规范的主题对话呈现；另一方面，在[[Classroom Observation|课堂观察]]技术中，研发移动应用采集课堂师生音频，在 3 秒内实现实时语音转录与自动分类编码，在对 7000 至 8000 名教师的实测中以客观文字数据破除了教师自估发言仅占 20%–30% 而实占 70%–80% 的知觉盲区。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] [[Qualitative Research\|质性研究]]与方法索引
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 在跨国远程学者访谈中运用兼顾忠实与可读性的质性转录清洗编辑技术，并引入 3 秒课堂语音即时转录移动应用以客观记录数据破除教师的知觉盲区。

@@ -53,11 +53,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# United Kingdom Metascience Unit
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **英国[[Metascience|元科学]]单元（United Kingdom Metascience Unit）** 是英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）与英国国家科研与创新署（UK Research and Innovation, UKRI）于 2024 年联合设立的全球首个国家级专门[[Metascience|元科学]]实验与评估机构。该机构的核心使命是将[[Scientific Method|科学方法]]反身应用于科学体制本身——通过对照实验、计量分析与数据公开，实证检验科研基金配置、同行评议与项目评审机制的实际效能，消除资助体系内部的摩擦与偏误。在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）《科学：新黄金时代》报告中，该单元被确立为现代国家克服科研机构[[Path Dependence|路径依赖]]、设立独立元科学评估中枢的全球制度范本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 9, 31–32)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 成立背景与发展历程
-
 > [!dev-timeline] 组织发展历程
 > - **2023 — 英国科研资助体制改革与[[Metascience|元科学]]倡议** 面对传统科研资助申请繁琐、同行评议趋向保守以及年轻学者负担过重的痛点，英国政府启动跨部门科技体制重组，正式提出设立专门的元科学研究中枢以驱动循证资助改革。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 9)]]
 > - **2024 — 英国元科学单元正式成立与首期实验启动** 单元正式挂牌运作，迅速联合顶尖科学学与计量学者，在 UKRI 各大研究理事会的实际基金分配流程中植入对照实验。
@@ -79,8 +73,6 @@ updated: 2026-10-22
 > - **2026 — 成为美欧科技政策改革的标杆参照（Kratsios / [[Office of Science and Technology Policy|OSTP]]）** 白宫 OSTP《科学：新黄金时代》报告将英国元科学单元的实战经验作为核心案例，正式建议美国各联邦科学机构仿效英国模式设立直属局长的独立元科学部门。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **联席指导委员会（Joint Steering Board）** 由 DSIT 决策官员、UKRI 高级主管与外部资深科学学领袖共同组成，保障单元具有超越个别学部利益的独立实验权。
@@ -93,16 +85,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 首年三大核心实验产出
 > - **分布式同行评议（Distributed Peer Review, DPR）** 突破传统少数资深学者组成的封闭评审小组模式，将评审权分散至更广泛的申请人与同行网络中，实证检验[[Wisdom of Crowds|群体智慧]]在稀释门阀把关偏误与降低行政成本上的效能。
 > - **部分[[Random Assignment|随机化]]抽签资助（Partial Randomization / Lotteries）** 在评分达到基础质量门槛（Fundable Threshold）的候选提案池中，引入部分随机抽签决定资助对象，以科学实验检验抽签机制是否能有效克服评审中的微弱方差噪音与对高风险非共识创新的系统性歧视。
 > - **评审判断一致性与[[Reliability|信度]]审计（[[Inter-Rater Reliability]] Testing）** 运用统计计量方法对不同评审专家在相同提案上的打分进行双盲交叉比对，量化揭示传统同行评议在评价颠覆性项目时极高的离散度与不稳定性，为推行“一票赞成金券制”提供量化依据。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 国际政策辐射
 > - **引领国家科研资助的“循证转向”** 终结了数百年来科研资助体制纯粹基于传统惯性与直觉运作的模式，确立了以因果实验优化科研制度的现代[[Paradigm|范式]]。
@@ -114,8 +102,6 @@ updated: 2026-10-22
 > *The UK Metascience Unit, established in 2024, evaluated distributed peer review, partial randomization, and reviewer consistency in its very first year. Federal agencies must follow suit by creating independent metascience units with the authority to test novel funding tools.*
 
 ---
-
-## 争议与制度反思
 
 > [!debates] 治理争议
 >

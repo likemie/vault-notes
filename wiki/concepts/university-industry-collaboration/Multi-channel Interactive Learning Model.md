@@ -39,8 +39,6 @@ created: 2026-06-09
 updated: 2026-10-22
 ---
 
-# Multi-channel Interactive Learning Model
-
 ---
 
 > [!info] 核心定义

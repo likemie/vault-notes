@@ -59,11 +59,7 @@ created: 2026-09-22
 updated: 2026-10-20
 ---
 
-# Authentic Science Practices
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 真实科学实践（Authentic Science Practices）是当代科学教育改革与学习科学的核心[[Paradigm|范式]]。它要求将学生置于主动的意义建构者（Sense-Makers）与科学实践者（Doers of Science）地位，在课堂中重构类似专业科学共同体的探索过程——包括提出真实驱动性问题、直面探究中的不确定性、自主设计调查、迭代构建因果解释模型、开展基于证据的论辩与协同评审，并在整个过程中行使[[Epistemic Agency|认识能动性]]，而非被动执行预设步骤以验证既定标准答案。（NRC, 2012; NGSS Lead States, 2013; Chinn & Malhotra, 2002; [[Argument_Zhang_2022_SE\|Zhang et al., 2022]]）
@@ -85,8 +81,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 真实科学实践 vs 传统学校实验 vs 纯自由探索
 > | 维度 | 真实科学实践（Authentic Science Practices） | 传统预设实验（Prefabricated Lab） | 纯自由放任探索（Unstructured Discovery） |
 > |---|---|---|---|
@@ -97,8 +91,6 @@ updated: 2026-10-20
 > | **教师角色** | 提供过程[[Scaffolding\|脚手架]]与反思催化者 | 步骤指挥官与标准答案判官 | 甩手旁观者 |
 
 ---
-
-## 核心要素
 
 > [!feature] 真实科学实践的核心特征
 > - **直面[[Scientific Uncertainty|科学不确定性]]（Grappling with Uncertainty）** 学生学会在复杂、模糊的现实情境中界定问题与辨析证据，避免将科学知识视为去脉络化的现成结论（Manz, 2015）。
@@ -162,8 +154,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -172,8 +162,6 @@ updated: 2026-10-20
 > | **命题三：多维整合维度** | 科学实践是话语、模型与社会评审的整体交织 | 建模教学与科学论辩课堂实践 | Ford and Forman (2006); Lehrer and Schauble (2006) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 真实科学实践概念的学术演变脉络
 > - **2002 — [[Epistemology|认识论]]批判与奠基** Chinn & Malhotra 发表经典论文《Authentic Inquiry in the Classroom》，正式确立真实科学探究与传统学校实验的认识论对比框架。
@@ -184,8 +172,6 @@ updated: 2026-10-20
 
 ---
 
-## 争议与反思
-
 > [!debates] 学术争议
 >
 > > [!axis] 真实探究与基础知识掌握：强调真实实践会削弱基础概念习得吗？
@@ -195,8 +181,6 @@ updated: 2026-10-20
 > > - **真实实践建构派（[[Argument_DeJong_2023_ERR|De Jong et al., 2023]]; [[Argument_Zhang_2022_SE|Zhang et al., 2022]]）** 证实辅以适切支架（如[[Reflective Structuration|反思性结构化]]）的真实科学实践，不仅不会降低知识掌握，反而能促成远超传统讲授的深层因果机制理解与迁移能力。
 
 ---
-
-## 论证索引
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 在小学五年级开展 7 个月人体系统探究，证实通过[[Reflective Structuration|反思性结构化]]与[[Opportunistic Collaboration|弹性协作]]能够有效落实学生的真实科学实践与[[Epistemic Agency|认识能动性]]。

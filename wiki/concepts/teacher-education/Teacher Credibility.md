@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Credibility
-
 > [!metax] [教师可信度 · Teacher credibility](https://www.visiblelearningmetax.com/influences/view/teacher_credibility)
 > 教师 › 教师特质
 >

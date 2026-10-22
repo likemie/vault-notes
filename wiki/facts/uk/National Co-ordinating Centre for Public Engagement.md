@@ -38,11 +38,7 @@ created: 2026-09-04
 updated: 2026-10-16
 ---
 
-# National Co-ordinating Centre for Public Engagement
-
 ---
-
-## 背景档案
 
 > [!policy-context] 机构背景档案
 > | 维度 | 要素特征 |
@@ -53,8 +49,6 @@ updated: 2026-10-16
 > | **制度位置** | 联结国家科研资助管理机构（UKRI）、大学高层领导、一线科研人员与社会多元公众的专业化战略枢纽 |
 
 ---
-
-## 核心工具与制度机制
 
 > [!theory-components] NCCPE 推动高校制度变革的两大旗舰机制
 > - **EDGE 机构文化评估工具（Assess Your Institutional Culture: Introducing the EDGE Tool）**
@@ -67,8 +61,6 @@ updated: 2026-10-16
 >   建立国家级高校公众参与能力资质评级体系（授予青铜、白银、黄金与白金水印），依据严格的独立专家[[External Auditor\|外部审计]]与全校师生及外部社区同行评议，为高校争取优质社会声誉、吸引慈善资助及证明其[[Social License to Operate\|社会运营许可]]（Licence to Operate）提供权威背书。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 98]]）
 
 ---
-
-## 评估与学术生态赋能
 
 > [!dimension] NCCPE 在国家科研评价与政策中的关键角色
 > - **科研卓越框架（REF）影响力案例深度分析**

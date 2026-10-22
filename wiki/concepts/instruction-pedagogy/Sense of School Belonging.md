@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Sense of School Belonging
-
 > [!metax] [归属感 · Belonging](https://www.visiblelearningmetax.com/influences/view/belonging)
 > 课堂 › 课堂氛围
 >

@@ -64,11 +64,7 @@ aliases:
   - 需求导向创新政策
 ---
 
-# Demand-side Innovation Policy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **需求侧创新政策（Demand-side Innovation Policy / 需求拉动型创新政策）** 是指公共部门通过利用公共采购促进创新（Public Procurement of Innovation, [[Patient and Public Involvement|PPI]]）、预商用采购（Pre-Commercial Procurement, PCP）、技术规制与能效标准设立、消费者补贴、前沿示范工程以及先导市场（Lead Markets）培育等一系列制度性工具，[[Assertiveness|主动表达]]、汇聚、创造并定向引导对前沿产品与服务的市场需求，从而在技术生命周期早期化解巨大的市场不确定性，加速创新成果商业化与系统扩散的公共政策总称（Edler & Georghiou, 2007）。在科技政策与[[Evolutionary Economics|演化经济学]]演进中，需求侧政策被视为打破传统仅重视供给端研发资助（R&D Push）单一路径的决定性制度杠杆。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）强调，从冷战时期美国军方采购奠定半导体产业基石，到 21 世纪应对气候挑战的绿色政府采购，需求侧创新政策始终是国家实现[[Tilting the Playing Field|倾斜竞争场地]]与[[Market Shaping and Creating|市场塑造]]与创造的核心物质基础。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
@@ -89,8 +85,6 @@ aliases:
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 供给侧创新政策 vs. 需求侧创新政策深度对比
 >
 > | 比较维度 | 供给侧创新政策（Supply-side Policy） | 需求侧创新政策（Demand-side Policy） |
@@ -102,8 +96,6 @@ aliases:
 > | **企业风险分担** | 降低企业研发过程的资金与要素沉没成本。 | 消除新技术进入市场后的商业化买单风险。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 需求侧创新政策的五大核心支柱
 > - **创新公共采购（Public Procurement of Innovation, [[Patient and Public Involvement|PPI]]）** 政府直接运用公共财政购买前沿创新产品，为新技术提供首台套应用场景与规模经济支撑。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
@@ -147,8 +139,6 @@ aliases:
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -167,8 +157,6 @@ aliases:
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 战略[[Market Shaping and Creating|市场创造]]论 vs. 市场扭曲与寻租风险论
@@ -184,8 +172,6 @@ aliases:
 > > - **结构异质论** 指出军工采购愿意为极致性能支付巨大溢价且国防部是单一终极买家；而能源电力是均质商品且面临分散的民用公用事业市场，需求侧政策必须配合碳定价、排放标准与电网强制入网规制方能生效。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 183–186)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 政府采购需求拉动集成电路产业演进的历史指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

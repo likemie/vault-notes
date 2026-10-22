@@ -63,10 +63,6 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-# Interaction Effect
-
-## 定义
-
 > [!def] 核心定义
 > 交互效应（Interaction Effect）指在多因子实验或观测研究中，一个[[Independent Variable\|自变量]]（或干预措施）对[[Dependent Variable\|因变量]]（或结果指标）的效应**依赖于**另一个自[[Variable\|变量]]或调节变量的水平——即两个或多个变量对结果的联合影响并非单项独立效应的线性简单相加，而是表现出条件依赖性与相互调节的非可加性关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 323–324]]）。在统计建模中，交互效应通过乘积项（Product Term）捕获；在[[Causality\|因果推断]]中，交互效应表征了因果[[Heterogeneity\|异质性]]（Causal [[Heterogeneity]]）。
 
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心机制与统计表征
-
 > [!feature] 交互效应的核心特征与表现形式
 > - **条件依赖性与非可加性** 单一干预的有效性并非绝对常数。在线性模型中，$Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \beta_3 (X_1 X_2) + \epsilon$，交互项系数 $\beta_3 \neq 0$ 即证实了联合效应偏离加和基准。
 > - **几何图示特征** 
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > - **统计检力瓶颈** 检验交互项（乘积项）所需的统计功效（Statistical Power）显著高于主效应检验；在小样本或测量误差较大的教育现场实验中，交互效应往往难以达到统计显著，需依托大样本[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）或[[Meta-analysis\|元分析]]（[[Meta-analysis\|Meta-analysis]]）中的亚组调节分析（Moderation Analysis）。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 交互效应、主效应与中介效应辨析
 > | 维度 | 主效应（Main Effect） | 交互效应（Interaction Effect / 调节） | 中介效应（Mediation Effect） |
@@ -123,8 +115,6 @@ updated: 2026-10-22
 - **即时测试 vs 延迟保持的交互（必要难度）** 在即时课[[Pre-test and Post-test|后测]]验中，直接讲授由于减少了学习过程中的尝试错误，往往表现出更高的即时正确率；但在数周后的延迟测验（Delayed Assessment）中，经历先期探究磨砺与错误辨析的学生表现出更具韧性的长期保持，直接讲授的优势随时间衰减，显现出时序与时间跨度的显著交互作用（Vitale, McBride, & Linn, 2016; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 9]]）。
 
 ---
-
-## 经典应用案例
 
 > [!case] 性别 × 年龄对数学学习动机的交互效应
 > 以性别和年龄为两个[[Independent Variable\|自变量]]研究数学学习动机时（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch16, Figure 16.3），男女之间的动机差异并非恒定不变，而是随年龄增长发生显著分化——在低年龄段男女动机基线差异极小，进入青春期后差异急剧扩大。如果研究者仅报告性别的主效应，会得出“男生与女生在数学动机上存在系统性差异”的笼统论断；但引入交互效应后则揭示出该结论仅在特定发展年龄段成立，避免了简单化概括（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 324]]）。

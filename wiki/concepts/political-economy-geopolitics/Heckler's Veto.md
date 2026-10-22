@@ -36,11 +36,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Heckler's Veto
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 起哄者否决（Heckler's Veto）是宪法学与言论自由法理中的关键概念，指政府、大学或机构管理当局以防范反对者、听众的敌对情绪、被冒犯感或潜在暴力威胁为由，提前取消、限制或事后惩罚具有争议的演讲者表达权利的行为机制。该机制实质上将公共表达的否决权让渡给了最具敌意或最易感受冒犯的抗议群体，从而颠倒了言论自由的宪法保护顺位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -104,8 +98,6 @@ updated: 2026-10-22
 > - **2010年代至今 — 大学取消文化与心理安全扩张** 概念延伸至当代[[Grandes Ecoles|大学校]]园与数字公共空间，用于剖析以微侵犯（Microaggression）、安全空间（Safe Space）和心理冒犯为由取消学者演讲与课程的“取消文化”（Cancel Culture）现象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–61)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

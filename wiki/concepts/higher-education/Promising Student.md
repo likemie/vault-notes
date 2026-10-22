@@ -46,11 +46,7 @@ created: '2026-05-19'
 updated: 2026-10-22
 ---
 
-# Promising Student
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > "有前景的学生"（promising student）是 Thompson、Schröder 和 Wrana（2022）在分析竞争性大学治理时提出的概念，指在高等教育的竞争性[[Geopolitics|地缘政治]]框架中被期望和建构的一种理想学生主体形态。'Promising' 有双重含义：既指"有前景的"（形容词），也暗示一种"承诺"（名词）——学生被赋予"将来会成功"的承诺，同时也被要求以当下的自我管理来兑现([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.221]])。
 
 这一概念的核心洞见是：有前景的学生不是因天赋而被"发现"的，而是通过自我评估和自我优化的治理技术——尤其是[[Online Self-Assessment|在线自评工具]]——被"呼唤"（addressed）出来的([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.221]])。
@@ -81,9 +77,7 @@ updated: 2026-10-22
 - **对"完美起点"的追求** 将理想学生形象内化为自我要求的标准（p.226）
 - **承担风险管理的责任** 将学业成功与否视为个人选择与自我管理的后果（p.226）
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > 有前景的学生这一概念依托于两个[[Theoretical Perspective\|理论视角]]：
 
 - **Foucault 的 [[Governmentality|治理术]]（governmentality）** 治理术关涉"行为的引导"（conduct of conduct）——不是通过强制，而是通过塑造主体的自我理解来引导行为。有前景的学生正是通过 [[Online Self-Assessment|OSA]] 等自我技术被引导为"企业家型的学术主体"（entrepreneurial academic subject）([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.226]])。

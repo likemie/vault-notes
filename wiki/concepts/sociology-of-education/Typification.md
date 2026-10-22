@@ -48,11 +48,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Typification
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **类型化（Typification）**，是由[[Phenomenology\|现象学]]社会学家[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）系统奠立的核心认知与社会互动机制（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 19）。舒茨指出，人类理解他人行为并不是直接透视他人不可直接通达的意识流，而是依赖于一套类似于[[Max Weber\|马克斯·韦伯]]“理想类型（ideal types）”的常识性[[Concept Mapping\|概念图]]式。这些概念图式源自行动者的日常生活经验、传记情境（biographical locations）以及代代传承的社会手头知识库（stock of knowledge at hand）。行动者正是通过类型化来对纷繁复杂的日常生活世界进行分类、赋义与秩序化重组，从而能够在不同的“多重实在（multiple realities）”之间自如穿梭并遵循各领域的互动游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 一阶常识类型化与二阶科学[[Construct\|理论构念]]的辨析
 > | 维度 | 行动者的一阶类型化（First-order Typifications） | 研究者的二阶模型化（Second-order Constructs） |
 > |---|---|---|
@@ -87,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **理想类型中介（Ideal-typical [[Construct\|constructs]]）** 行动者无法穷尽他人原生意识的全部细节，必须借助具有一定抽象度和共识性的“理想类型”来推断他人的意图与动机。
 > - **手头知识库的社会沉淀（Stock of Knowledge at Hand）** 类型化并非个体的纯粹主观臆造，而是社会历史传承的配方、常识格言与文化图式的积淀，个体在社会化进程中习得。
 > - **传记情境差异性（Biographical Locations）** 每一个体的物理位置、家庭出身、职业履历与历史经验构成了其独特的传记情境，决定了其手头类型化知识库的视角与重点。
@@ -145,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕类型化形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
@@ -163,8 +153,6 @@ updated: 2026-10-22
 > - **1970s 至今 — 教育社会学标签理论深化** 凯迪（Nell Keddie）、哈格里夫斯（David Hargreaves）等将类型化全面运用于[[Lesson Study\|课堂研究]]，揭示教师“理想学生”类型化如何隐秘催生教育不平等。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -185,8 +173,6 @@ updated: 2026-10-22
 > - **遮蔽物质利益冲突** 过度聚焦概念标签的语言认知博弈，易低估教育资源分配等硬性物质利益冲突的决定性力量。
 
 ---
-
-## 实证数据
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐述舒茨[[Phenomenology\|现象学]]社会学中的类型化、理想类型与传记情境；全书另述课堂标签建构、[[Qualitative Interview\|质性访谈]]编码与[[Ethnography\|民族志]]中的常识解释。

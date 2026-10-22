@@ -39,11 +39,7 @@ created: 2026-06-12
 updated: 2026-10-16
 ---
 
-# Coupling Coordination Model
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 耦合协调模型（Coupling Coordination Degree Model, CCDM）是一种基于系统论的多子系统协同发展水平测度方法。它先用耦合度 $C$ 衡量若干子系统发展水平之间的相互贴合程度，再用协调度 $D$ 将耦合强度与综合发展水平 $T$ 合成，用于判断系统是否处于高水平协同、低水平贴合或失调状态。该模型的核心用途不是识别因果机制，而是把多维指标体系压缩为可比较的综合评价结果。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 66-68)]]
@@ -60,8 +56,6 @@ updated: 2026-10-16
 > Original: Coupling refers to the extent of mutual influence and interaction among two or more subsystems, and it can also reflect the degree of constraint between different subsystems. The degree of coupling can measure the level of collaborative development between different subsystems.
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 耦合协调模型把复杂系统状态视为可通过指标体系近似测量的综合发展水平。它依赖[[Postpositivism\|后实证主义]]式的量化表示，但不等同于对系统因果机制的完整解释。
@@ -81,8 +75,6 @@ updated: 2026-10-16
 >   - LISA[[LISA Spatiotemporal Transition|时空转移]]
 
 ---
-
-## 研究程序
 
 > [!proc] 通用程序
 > 1. 确定需要评价的复杂系统及其子系统，例如教育、科技和人才。
@@ -173,8 +165,6 @@ updated: 2026-10-16
 
 ---
 
-## 资料与分析
-
 > [!method-panel] 数据、[[Variable\|变量]]与模型
 > | 环节 | 说明 |
 > |---|---|
@@ -220,16 +210,12 @@ updated: 2026-10-16
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 多个子系统都有稳定指标，研究目标是比较协同发展水平、空间分异或时间演变。教育-科技-人才、经济-环境-能源、城镇化-生态环境等综合评价问题都适合。
 > - **谨慎使用** 指标体系不稳定、权重依据不足、地区之间统计口径不一致、或研究者希望解释因果机制时，需要补充理论解释、稳健性检查或因果识别设计。
 > - **不适合使用** 不适合单独回答“哪个子系统导致另一个子系统变化”“某项政策是否提高协调度”或“空间高值是否由邻近地区溢出造成”等因果问题。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **耦合度陷阱** 当子系统均处于低发展水平时，$C$ 可能虚高，必须结合 $T$ 和 $D$ 综合判断。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 67)]]
@@ -240,8 +226,6 @@ updated: 2026-10-16
 > - **指标体系主观性** 模型的数学部分看似客观，但指标选择、正负向设定和缺失值处理都带有研究者判断。
 
 ---
-
-## 相关理论与方法
 
 > [!frames-ref] 相关理论
 > - [[Coupling Coordination Theory]] — 为模型提供系统论解释框架，将教育、科技、人才等对象理解为相互关联的子系统。
@@ -255,8 +239,6 @@ updated: 2026-10-16
 > | [[LISA Spatiotemporal Transition]] | 空间分析扩展。 | 分析局部空间关联类型转移，不直接构建综合指数。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用耦合协调模型测度中国 30 个省份教育-科技-人才一体化发展水平，并结合[[LISA Time Path\|LISA时空路径]]和LISA[[LISA Spatiotemporal Transition|时空转移]]分析时空格局演变。

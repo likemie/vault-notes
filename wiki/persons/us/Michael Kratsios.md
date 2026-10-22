@@ -69,11 +69,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Michael Kratsios
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代关键科技政策制定者与战略操盘手，曾任白宫总统副助理、美国第 4 任首席技术官（Chief Technology Officer, CTO）及国防部负责研究与工程的副部长（Acting Under Secretary of Defense for Research and Engineering）；2025 年出任[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（Office of Science and Technology Policy, OSTP）主任兼总统科学顾问。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与职涯发展
 > - **1986年** 出生于美国，后毕业于普林斯顿大学政治系，专攻前沿科技创新与[[Geopolitics|地缘政治]]博弈。
 > - **2010s 前期** 长期担任硅谷风险投资机构（Thiel Capital）幕僚长与投资总监，深入参与尖端人工智能与数字科技早期资本孵化。
@@ -98,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作与政策产出
 > - **2019 — *American [[Generative Artificial Intelligence|Artificial Intelligence]] Initiative*** 确立联邦优先投资、数据开放、监管松绑与国际规则制定的国家级 AI 四维推进[[Paradigm|范式]]。
 > - **2020 — *Industries of the Future*** 将人工智能、量子信息科学、5G 先进通信、先进制造和合成生物学确立为美国必须维持排他性优势的五大未来产业。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **2026年7月 — *Science: A New Golden Age*** 呈交总统的里程碑式国家科技体制重构报告。系统清算单向线性模型，提出重塑对人资助机制、将科学发现锚定于本土先进制造、重振学徒手艺与[[Process Knowledge|过程知识]]、在智能时代实现生成与核验同步扩大的四大政策支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–86)]]
 
 ---
-
-## 核心思想体系
 
 > [!claim] 政策哲学与改革主张
 > 克拉齐奥斯的政策哲学融合了新保守主义的技术现实主义与现代[[Metascience|元科学]]的机制设计思维，其核心思想由四大支柱构成：
@@ -142,8 +132,6 @@ updated: 2026-10-22
 > - **核心关联机构与文本** [[Office of Science and Technology Policy]]、[[Science A New Golden Age 2026]]、[[Science, The Endless Frontier 1945]]、[[Genesis Mission]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >

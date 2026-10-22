@@ -37,13 +37,9 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Curriculum Design Coherence Model
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 课程设计连贯性模型（Curriculum Design Coherence Model, CDCM）是 [[Basil Bernstein\|伯恩斯坦]]理论框架的演绎模型，由 McPhail (2023) 提出，基于[[Social Realism\|社会实在论]]的首要原则，将课程设计中概念知识和应用知识的区分及其必要连接加以[[Operationalization\|操作化]]。模型的目标是让课程设计与知识的[[Epistemology\|认识论]]结构（即层次性相互关联的抽象和可概括概念）对齐，从而实现深层设计连贯性（McPhail, 2023）。
 
 > [!quote|notitle]

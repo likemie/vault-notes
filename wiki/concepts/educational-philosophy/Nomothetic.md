@@ -37,10 +37,6 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-# Nomothetic
-
-## 定义
-
 > [!def] 核心定义
 > 通则式（nomothetic）是以发现普遍法则（universal laws）为目标的方法论取向。研究聚焦于分析选定因素之间的关系和规律性，以量化为主，涉及识别和定义元素、发现其关系如何被表达（Burrell & Morgan, 1979）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 
@@ -48,8 +44,6 @@ updated: 2026-10-22
 > - **含义** 追求可推广的普遍规律，把研究对象分解为可测量的因素并考察其间关系与规律性。
 > - **用途** 支撑[[Quantitative Research\|量化研究]]与规律性分析，服务于预测与通则化。
 > - **边界** 不以理解独特个体案例为目的，对个体差异与情境特殊性的解释力有限。
-
-## 概念辨析
 
 > [!contrast-table] 通则式 vs [[Idiographic\|个例式]]
 > | 维度 | 通则式（nomothetic） | [[Idiographic\|个例式]]（idiographic） |
@@ -62,8 +56,6 @@ updated: 2026-10-22
 > [!boundary]- 概念边界
 > - 不等于与质性的简单对立 — 通则式偏向量化，但并非所有[[Quantitative Research\|量化研究]]都追求普遍法则；两者是方法论的连续体而非截然二分。
 > - 不适用于 — 以独特个体案例的深度理解为核心目标的研究。
-
-## 核心要素
 
 > [!feature] 通则式的核心要素
 > - **追求普遍法则** 以可推广的规律与概括为目标，而非特定案例的细节。

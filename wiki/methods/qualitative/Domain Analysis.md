@@ -65,11 +65,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-# Domain Analysis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **领域分析（Domain Analysis，又称象征范畴分析）** 是质性数据分析与[[Content Analysis\|内容分析]]中将初级编码与离散文本片段系统归纳为上位象征范畴的结构化分析阶段。在方法论上，一个“领域”（Domain）是指包含若干其他子范畴的象征性上位范畴（Spradley, 1979, p. 100）。领域分析处于建立[[Unit of Analysis\|分析单位]]与基础编码之后、建立关系与理论推论之前的核心纽带位置。其核心旨趣在于通过发掘文化符号与经验概念之间的深层语义关系（Semantic Relationships），将高度分散的编码条目聚合成层级化、有条理的意义群组（Clusters）、主题（Themes）与模式（Patterns），从而在精简数据规模的同时，最大程度维护经验材料的情境扎根性（Context-groundedness），筑牢防止文本去情境化的组织屏障（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al., 2011, p. 440]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 566–567]]）。
@@ -184,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 领域分析核心理论命题总览
 > | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与文献出处 |
 > |---|---|---|---|
@@ -203,8 +197,6 @@ updated: 2026-10-22
 > - **2020s — 计算辅助与大模型[[Meaningful Human Control|人在回路]]演进** 随着 [[Qualitative Computer Software\|CAQDAS]] 知识图谱功能与[[Generative Artificial Intelligence\|生成式人工智能]]（LLM）的发展，基于语义向量嵌入（Embeddings）与无监督聚类辅助识别领域雏形成为新前沿；但研究者的[[Reflexivity\|反身性]]核查与文化语境审定仍是防范算法偏差的关键屏障。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -278,8 +270,6 @@ updated: 2026-10-22
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在质性数据分析七步框架中将领域分析确立为跨越孤立编码与理论推论的组织枢纽（Ch. 11），并在[[Content Analysis\|内容分析]]中系统整合 Spradley 的符号语义关系与多层归并规程（Ch. 30）。
 
 ---
-
-## 知识网络
 
 > [!rel-table] 关联知识实体
 > | 关联实体 | 实体类型 | 关联本质说明 | 文献出处 |

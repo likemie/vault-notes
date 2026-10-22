@@ -46,13 +46,9 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Biglan's Disciplinary Classification Scheme
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 高等教育学术学科在知识结构、[[Paradigm\|范式]]共识、学术文化、教学组织与认知图式上的系统性差异。
 > - **理论问题** 打破将所有大学学科视为均质整体的传统假设，构建能够解释不同学科教学、学习与[[Epistemology\|认识论]]特征的结构性分类坐标。
 > - **理论类型** 中层分类理论与结构[[Analytic Framework\|分析框架]]。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > | [[Disciplinary Socialization\|学科社会化]] | 机制 | 阐述不同学科象限的文化如何反向塑造学生的[[Epistemological Beliefs\|认识论信念]]。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜学科的[[Paradigm\|范式]]硬度决定了其教学对知识确定性的强调程度
 > - **前提一** 硬科学（物理、化学、工程）拥有高度统一的范式共识，知识组织呈现高度累积性与线性层级。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 351)]]
@@ -122,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 视学科为具有独特认知结构、学术[[Discourse|话语]]与交往规范的社会文化部落（Academic Tribes）。
 > - **方法含义** 要求在高等教育研究中避免“全校一刀切”的均质化样本设计，必须按学科维度进行分层或虚拟[[Variable\|变量]]建模。
@@ -140,8 +132,6 @@ updated: 2026-10-22
 > - **2007 — 纵向追踪验证** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 运用 Biglan 架构验证了 7 大学科门类的认识论自我选择与社会化机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

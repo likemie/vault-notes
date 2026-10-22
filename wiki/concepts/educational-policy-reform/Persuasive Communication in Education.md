@@ -51,11 +51,7 @@ created: 2026-09-02
 updated: 2026-10-22
 ---
 
-# Persuasive Communication in Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育中的说服性沟通策略（Persuasive Communication in Education）指商业出版机构、教育咨询公司、政策倡导者或创新推广者，为了促使学校、教育局与一线教师采纳特定教学方案或干预项目，所采用的一整套基于修辞框架、情感共鸣、权威背书与诱人承诺的传播说服技术。加拿大蒙特利尔大学学者 Nora Carrier（2017）在《Educational Research》特刊中指出，许多在学校中迅速扩散的“教育时尚”（educational fads，如脑科学神话、[[Learning Styles|学习风格]]理论等）之所以大获成功，往往不是因为其具备扎实的实证因果证据，而是因为其善于运用高度专业化的说服性沟通策略；这种现象对真实的[[Evidence-Informed Practice\|证据知情实践]]构成了严重干扰。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 说服性沟通策略 vs. 严谨[[Knowledge Mobilisation\|知识动员]] vs. [[Technical Rationality\|技术理性]]单向灌输
 > | 维度 | 教育中的说服性沟通策略 | 严谨学术知识动员（KMb） | 技术理性单向灌输（Technical Rationality） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **对学校的后果** | 滋生盲目跟风与教育时尚倦怠 | 培育持久的证据知情文化与探究能力 | 压抑[[Teacher Professional Agency\|教师专业能动性]]，导致系统合法化危机 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **危机感塑造与痛点放大（Problem Framing & Urgency Amplification）** 将普通教学挑战渲染为亟待解决的“时代危机”或“认知落后”，制造紧迫的焦虑感。
@@ -122,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -132,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 教育修辞与说服性传播研究脉络
 > - **1990s — 教育时尚（Educational Fads）现象批判** 学界开始系统反思中小学频繁经历的“[[Whole Language\|全语言]]教学法”、“左右脑学习法”等未经严谨检验的跟风潮。
 > - **2000s — [[Evidence-Based Education\|循证教育]]运动中的修辞反噬** 伴随循证运动，部分商业机构开始滥用“科学证明（Scientifically Proven）”标签作为新型营销说服策略。
@@ -141,8 +129,6 @@ updated: 2026-10-22
 > - **2020s — 生成式 AI 时代的修辞泛滥与分析素养升级** 随着 AI 教育产品激增，说服性沟通演化得更加隐蔽，推动教师[[Analytical Stance\|批判性分析立场]]成为数字时代的核心专业素养。
 
 ---
-
-## 争议与批评
 
 > [!warning] 现实危害与应对难点
 > - **造成学校有限资源的严重浪费** 采购华而不实的商业项目挤占了用于教师实质性专业发展的经费与时间。

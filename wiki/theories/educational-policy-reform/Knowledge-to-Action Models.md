@@ -69,13 +69,9 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Knowledge-to-Action Models
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 科学研究证据与公共政策/实践行动（Knowledge-to-Action，KTA）之间的转化机制，以及学术研究如何跨越[[Knowledge Production\|知识生产]]与政策决断之间的鸿沟。
 > - **理论问题** 回应循证公共政策中长期存在的“供给过剩与有效需求不足”悖论，即为何智库与高校产出了海量研究报告，政策制定者在实际决断中却极少实质性采纳学术证据。
 > - **理论类型** [[Paradigm\|范式]]演化模型、机制分类体系与系统生态学[[Analytic Framework\|分析框架]]。
@@ -103,8 +99,6 @@ updated: 2026-10-22
 > | [[Evidence Ecosystem\|证据生态系统]]（Evidence Eco-system） | 框架 | 第三代模型用于描述数据生成、中介平台、资金支持与政策规制的互联共生网络。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜从单向推送到双向协同的演进突破了传统知识供需二元分立
 > - **前提一** 第一代线性模型将知识视为孤立、现成的科学真理，假定只要改善信息包装与传播技巧，政策制定者便会依循理性原则自动采纳（Best & Holmes, 2010）。
@@ -147,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将政策决策视为复杂的非线性自适应系统，证据并非独立于制度环境的客观实体，而是嵌入在特定权力关系与程序流程中的意义载体。
 > - **[[Epistemology\|认识论]]** 强调知识的可操作性与情境偶联性，真正的知识转化发生在证据与特定制度[[Absorptive Capacity\|吸收能力]]相互交融的时刻。
@@ -185,8 +177,6 @@ updated: 2026-10-22
 > - **2024 — 全球教育治理与[[Policy Brokerage\|政策中介]]分析** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将该理论深度融入对 [[OECD]]、[[World Bank\|世界银行]]、[[Global Partnership for Education\|GPE]] 等国际组织政策中介演进的批判性审视。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

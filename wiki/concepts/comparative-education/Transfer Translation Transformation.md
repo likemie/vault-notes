@@ -102,11 +102,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Transfer Translation Transformation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen, 2009b）提出，是一个用来追踪教育思想、制度与实践在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting\|Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
@@ -141,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 3T 框架的三大核心阶段对比
 > | 维度 | 转移 (Transfer) | 转译 (Translation) | 转化 (Transformation) |
 > |------|----------------|-------------------|----------------------|
@@ -152,9 +146,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **转移 (Transfer) — 空间跨越与[[Discourse|话语]]抽离** 发生在“[[Space of Flows\|流动空间]]”中的物理或虚拟移动（Space-gate Moment）。理念常被抽离特定历史经验变成高可塑性的[[Floating Signifier\|漂浮能指]]，受国际关系[[Paradigm\|范式]]塑造。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 349)]]
 > - **转译 (Translation) — 国家政策重编与话语杂糅** 接受国行动者在官方政策与法律中重新编码外来思想（Chameleon Process）。政策制定者常用[[Governance by Spin\|舆论操控]]手段制造杂糅话语，受既有教育传统（如[[Encyclopaedism\|百科全书主义]]）过滤（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）。
 > - **转化 (Transformation) — 地方实践落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在本土化到“灭绝”的光谱上（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）。
@@ -248,8 +240,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -260,8 +250,6 @@ updated: 2026-10-22
 > | **自指性转译与程序性漏斗过滤** | 揭示政策转移依托系统内部转译建构准外部参照，并在政策周期中经历由宽到窄的政治漏斗过滤 | 全球教育治理、自指系统论、政策全流程追踪 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 545–547)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 概念演变与学术脉络
 > - **1990s–2000s — 转移主题的重新聚焦 (Pre-3T Era)** Schriewer (1990, 2000), Phillips (1993, 2004), Popkewitz (1998, 2005) 重新确立转移主题的重要性，超越传统二元借用研究。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 316–317]]）
@@ -275,8 +263,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 3T 阶段划分的线性感与现实重叠性
@@ -288,8 +274,6 @@ updated: 2026-10-22
 > 3T 框架不能被简化为寻找“转移失败原因”的因果诊断工具；它要求研究者同时具备跨国空间视野与深厚的本土历史权力敏锐度。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 258]]）
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

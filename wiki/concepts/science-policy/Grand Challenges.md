@@ -66,11 +66,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Grand Challenges
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **重大挑战（Grand Challenges, GCs / 社会重大挑战）** 是指超越单一学科、工业部门或主权国家边界，具有高度系统复杂性、跨期性与广泛社会技术影响的重大科技与现实难题（如气候变化、清洁能源、重大疾病、先进材料与自主智能等）。在科技创新政策理论中，重大挑战标志着全球研发政策从传统的“线性资助与孤立[[Market Failure|市场失灵]]修正”向第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]（MOIP）的[[Ontology|本体论]]跃迁。在现代科学政策与人工智能驱动的研发[[Paradigm|范式]]中，重大挑战更被[[Operationalization|操作化]]为一种 **“高杠杆问题表述”（High-Leverage Problem Formulation）** 与[[Pull Mechanisms for Innovation|拉动机制]]：通过设立明确的客观评测基准与开放竞争平台，将庞大无序的科学未知解空间转化为可攻克的阶段性技术阶梯。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 传统技术工程使命 vs. 21 世纪重大挑战与基准竞赛深度对比
 >
 > | 比较维度 | 传统技术工程使命（Cold War Moonshots） | 21 世纪重大社会挑战（Societal Grand Challenges） | AI 与前沿科学重大挑战（AI-Era Grand Challenges） |
@@ -110,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心特征与筛选标准
-
 > [!feature] 现代重大挑战的核心特征与严选三原则
 > - **高阶系统复杂性与跨学科渗透（Systemic Complexity & Cross-disciplinarity）** 涉及物理、生物、材料、计算与制度体系的深度交织，无法被割裂归入任何单一学科或行政部门。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 > - **[[Directionality of Innovation|创新方向性]]引导（Directionality）** 明确科技投入的长期战略意图，克服市场自发演化在长周期、高风险基础设施上的投资不足。
@@ -120,8 +112,6 @@ updated: 2026-10-22
 > - **客观可验证的基准指标（Objective & Verifiable Benchmarks）** 具有无可争议的测试真值与定量评估标准（如 [[Critical Assessment of Structure Prediction|CASP]] 盲测、分子结合亲和力测定），避免评审中的人情偏见与模糊定性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–44, 62)]]
 
 ---
-
-## 实施路径与解构机制
 
 > [!process]- 从重大挑战到技术突破的闭环解构链条
 > ```mermaid
@@ -162,8 +152,6 @@ updated: 2026-10-22
 > **基准盲测与高杠杆问题表述的催化效应** 科学资助的最大瓶颈往往不是资金规模，而是问题表述的模糊性与评审标准的偏狭；设立具有明确盲测真值的重大挑战（如 [[Critical Assessment of Structure Prediction|CASP]] 蛋白质结构预测竞赛与 [[DARPA]] 自动驾驶挑战赛），能够在不指定具体技术路径的前提下，最大化激发全球跨学科团队的算法创新与工程探索，并使革命性突破（如 AlphaFold）得以在客观基准上被瞬间公认，从而解锁整片下游科学发现与商业应用生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
 
 ---
-
-## 应用案例
 
 > [!finding-cards] 全球与联邦科学政策中的标志性重大挑战实践
 > - **[[Critical Assessment of Structure Prediction|CASP]] 蛋白质结构预测挑战（1994–至今）** 结构生物学领域的双盲基准挑战赛；通过持续提供未公开实验晶体结构作为盲测真值，建立了全行业公认的客观评分标准，最终在 2020 年 CASP14 上见证了 AlphaFold2 实现原子级精度的历史性突破，彻底攻克困扰生物学 50 年的重大挑战。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–44)]]

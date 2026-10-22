@@ -66,11 +66,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# James Mahoney
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学家与历史社会学家，西北大学（Northwestern University）菲茨杰拉德经济史讲席教授（Fitzgerald Professor of Economic History）以及政治学与社会学双聘教授，当代比较历史分析与[[Historical Institutionalism|历史制度主义]]核心领军学者。
@@ -99,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990年代末–2003 — [[Path Dependence|路径依赖]]因果机制与比较历史分析规范化** 聚焦发展政治学与政权演进，反思经典历史社会学因果链条模糊的缺陷，建立清晰形式化因果概念。
 >   - **代表著作** *The Legacies of Liberalism* (2001); *Comparative Historical Analysis in the Social Sciences* (2003, with D. Rueschemeyer); *Path Dependence in Historical Sociology* (2000)。
@@ -117,9 +111,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 制度本质上是具有非对称资源分配后果的权力工具，其稳定性并非源自技术效率的最优均衡，而是依赖持续的政治动员与利益协调；成文规则与实际执行之间存在不可消除的内生模糊性与裁量空间，使规则遵从成为充满微观博弈的动态[[Variable|变量]]；在宏观[[Veto Possibilities|否决可能性]]与制度裁量权的语境筛选下，微观行动者（[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]）通过边际累积驱动置换、层叠、漂移与转换四类演进模式，打破了将变迁局限于外生危机断裂的机械二元论（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 4–15, 28–31]]）。
 
 > [!citation-card] 规则遵从的动态博弈与内生模糊性
@@ -146,8 +138,6 @@ updated: 2026-10-22
 > - **学术论敌／批评者** 传统计量政治学者与新古典制度经济学者 — 质疑小样本比较历史分析与布尔代数集合论方法的经验稳健性，马奥尼通过建立严密的因果图式与机制追踪予以系统辩护。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论审视
 >

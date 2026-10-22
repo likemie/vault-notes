@@ -40,8 +40,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Descriptive Analysis
-
 > [!info] 定义
 > 描述性分析（Descriptive Analysis）是[[Quantitative Research\|量化研究]]数据分析的基础步骤，报告所有预测[[Variable\|变量]]和[[Dependent Variable\|结果变量]]的均值（means）、标准差（standard deviations）和得分范围（range of scores）。它提供数据的整体图景，为后续的推断统计检验奠定基础（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
@@ -54,9 +52,7 @@ updated: 2026-10-22
 > - 制定计划报告缺失数据的程度（如缺失百分比、缺失模式）。
 > - 制定缺失数据填补策略（如多重填补、全信息最大似然估计；Schafer & Graham, 2002; 引自 Creswell & Creswell, 2022, Ch8）。
 
-### 实验数据分析中的描述性分析
-
-> [!example|notitle]
+> [!example] 实验数据分析中的描述性分析
 > - 报告频率（frequencies）——如样本中男性和女性受试者各多少人。
 > - 报告均值和标准差——如样本平均年龄、族裔构成。
 > - 报告各组在主要结果变量上的均值和标准差——如实验组和控制组的倦怠症状均值及各自的标准差。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - 描述性分析只提供样本特征的总结，不能直接用于推断总体特征或检验假设。
 > - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和[[Standard Error\|标准误]]。
 > - 仅报告均值而不报告变异指标（如标准差或[[Standard Error\|标准误]]）可能导致对数据分布特征的误读。
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 方法案例
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 通过对美国 1950 至 2010 年代 [[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]] 联邦资助、博士授权机构数、在读时间、HHI 资助集中度指数、科研建筑面积及医学院债务等宏观统计数据展开长时段历史描述性分析，揭示战后科研体制扩张的结构性压力。

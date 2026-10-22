@@ -114,8 +114,6 @@ citation_aliases:
 
 ---
 
-## 论证结构
-
 > [!example] 核心论证
 > 论证可以拆解为"一个起点 → 两个前提 → 核心机制 → 一个延伸 → 前瞻判断"的逻辑链。起点是[[University-Industry Collaboration\|产学合作]]双方天然的目标差异，两个前提分别来自 IBM 自身经验和系统[[Literature Review\|文献综述]]，核心机制是六 R 框架如何实现动态校准，延伸则揭示[[Translational Research\|转化研究]]缺口和 T 型技能需求这两个新出现的结构性挑战，最后以前瞻判断收束。
 

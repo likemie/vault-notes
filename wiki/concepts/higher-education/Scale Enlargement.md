@@ -42,11 +42,7 @@ created: 2026-10-12
 updated: 2026-10-15
 ---
 
-# Scale Enlargement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 规模扩充（Scale Enlargement，荷文：*Schaalvergroting*），指在高等教育去规制化与公共治理转型背景下，政府通过设定政策激励与自愿协商机制，推动大量分散、微型、单科性院校跨越阵营与学科边界开展横向合并，重组为具备多学科综合架构与战略自律能力的规模化高等学府的制度变革过程。这一过程构成了基层院校承接整笔[[Block Grants|总额预算]]与践行[[Strategic Autonomy|战略自主]]治理能力的组织前提。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
@@ -63,8 +59,6 @@ updated: 2026-10-15
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 高校组织重构模式对比辨析
 > | 维度 | 行政指令式撤并（Coercive Merger） | 自由市场吞并（Market Acquisition） | 自组织网络规模扩充（Scale Enlargement） |
 > |---|---|---|---|
@@ -74,8 +68,6 @@ updated: 2026-10-15
 > | **与治理放权关系** | 强化中央集权控制 | 走向私有化与完全市场化 | 确立承接[[Steering at a Distance\|远距离操纵]]的组织载体 |
 
 ---
-
-## 核心要素
 
 > [!feature] 规模扩充的核心构成要素
 > - **临界治理规模（Critical Governance Mass）** 机构学生人数与预算规模达到能够独立设立战略规划、财务风控与人事管理等专业支撑架构的阈值。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 145)]]
@@ -118,8 +110,6 @@ updated: 2026-10-15
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -128,8 +118,6 @@ updated: 2026-10-15
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 规模扩充制度演进历程
 > - **1970 年代至 1980 年代初 — 单科院校林立与行政管制泥潭** 荷兰高等职业教育（HBO）长期受制于中等教育旧法，全境散布 350 所由教会和地方社团创办的单科微型学校，陷入细密条规管制与低行政效率。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 145)]]
 > - **1983 年至 1987 年 — 荷兰 HBO 自组织大兼并（Schaalvergroting）** 教育部宣布重组进程但不发强制命令；依托 [[HBO-Raad]] 协商网络，全荷 350 所学院跨越宗派界限自愿合并为 51 所大型多科性综合高等专业学院（Hogescholen）。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
@@ -137,8 +125,6 @@ updated: 2026-10-15
 > - **1990 年代至今 — 欧洲大陆及跨国高教合并浪潮** 荷兰规模扩充经验辐射至英国（多元技术学院并轨）、北欧及法国（大学联合体与大合并工程），规模化成为应对全球大学排行榜与[[Knowledge Production|知识生产]]创新的主流趋势。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -150,8 +136,6 @@ updated: 2026-10-15
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 规模扩充关键实证观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -160,8 +144,6 @@ updated: 2026-10-15
 > | [[Argument_Kickert_1995_Governance\|Kickert (1995, pp. 145–146)]] | 荷兰 1983–1987 年高等专业教育学院（HBO）自组织大兼并 | 院校数量压缩比、平均规模演变与紧缩消化 | 原有 350 所单科微型院校自主整合成 51 所多学科大型学院；半数以上综合学院在读规模突破 2500 人；在自愿合并中顺利消化了 9700 万荷盾的财政预算硬核削减 | 证实政府放弃强制划并、转向网络协商授权，不仅能彻底重塑全国高等教育组织格局，而且有效避免了严重的社会对抗 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 详实回顾荷兰高等专业教育大兼并历程，实证论证去中心化[[Policy Network|政策网络]]如何依托自组织协商推进系统级规模扩充与[[Strategic Autonomy|战略自主]]。

@@ -48,11 +48,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Organic Law on Education 2006
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年 5 月 3 日由西班牙议会正式通过，由萨帕特罗领导的西班牙工人社会党（Spanish Socialist Workers' Party，PSOE）政府主导颁布。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324, 328)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **制度位置** 废除包括 1990 年 [[Organic Law on the General Organization of the Education System 1990|LOGSE]] 与 2002 年 LOCE 在内的既有立法，成为 21 世纪初西班牙基础教育的统合性法律基座。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 重新确立 12 至 16 岁义务中等教育阶段不分流的单轨[[Comprehensive Education|综合教育原则]]，强化面向全体学生的包容性；向 17 个自治区进一步下放高达 45%–55% 的地方课程规划事权，并在公立教育与非公立教会[[Centros Concertados|协约学校]]之间维持法定妥协平衡。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–331)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2004** 社会党赢得西班牙大选后，立即通过王室法令暂停 2002 年 LOCE 的实施，启动新一轮法案起草。
 > - **2005** 西班牙政府向议会提交《教育组织法》草案，引发教会学校、保守党派与公民团体的大规模抗议与辩论。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 324)]]
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > - **2006–2013** 法律稳定实施七年，深度固化了 17 个自治区的教育割据格局，直至 2013 年人民党政府颁布《提高教育质量组织法》（LOMCE）进行修正。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 西班牙中央教育部与萨帕特罗内阁。
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **亲欧修辞掩盖改革迟滞** 立法前言频繁征引[[EU|欧盟]]教育空间与[[Lisbon Strategy|里斯本战略]][[Discourse|话语]]，但实质制度举措主要聚焦于政党利益分配与主权让渡，避开了最亟须的学术[[Competitiveness|竞争力]]改革。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 萨帕特罗政府与工人社会党，通过在教育法中向自治区让权换取少数派政府的议会执政联盟稳定。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 328)]]
@@ -135,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **地方分权指标** 自治区课程自由裁量权扩大至 45%–55%，17 个独立体系基本成型。
 > - **[[Academic Achievement|学业表现]]指标** 初中阶段学业失败率继续维持在 30% 以上的高位，未见实质改善。
@@ -153,8 +139,6 @@ updated: 2026-10-22
 > - **~30%** 义务中等教育阶段学生学业失败率
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

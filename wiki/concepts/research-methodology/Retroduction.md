@@ -56,11 +56,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Retroduction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **逆推溯因（Retroduction，亦称逆推溯因法或溯因推理）** 是[[Critical Realism|批判实在论]]（Critical Realism）哲学的核心[[Epistemology|认识论]]推理模式与[[Causality|因果推断]]策略。由英国哲学家[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar, 1975, 1979）系统奠定，并由地理与社会学方法论学者安德鲁·萨耶尔（Andrew Sayer, 1992）以及贝特·丹纳马克（Berth Danermark et al., 2002）推进为系统的社会科学研究方法。与自下而上的经验归纳（Induction）和自上而下的公理演绎（Deduction）不同，逆推溯因建立在批判实在论“经验界（The Empirical）、实际界（The Actual）与实在界（The Real）”分层[[Ontology|本体论]]基础之上。它以观察到的经验事件为起点，通过追问“该事件或现象得以发生，世界在深层本体上必须具备何种未直接呈现的因果结构与生成机制”，借助[[Counterfactual|反事实]]思考、思想实验与排除替代解释，反向重构潜藏于深层实在中的生成性因果机制。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 687)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 逆推溯因与经典科学推理模式辨析
 > | 维度 | 本概念（Retroduction） | 演绎推理（Deduction） | 归纳推理（Induction） | 假设溯因（Abduction） | 历史回溯推测（[[Retrodiction]]） |
 > |---|---|---|---|---|---|
@@ -93,8 +87,6 @@ updated: 2026-10-22
 > | **在社会研究中的功能** | 发现不可直接观测的生成性因果机制 | 检验形式化假设与实证假说成立与否 | 探索[[Variable\|变量]]之间的相关性与频率分布 | 形成[[Grounded Theory\|扎根理论]]范畴与初步理论概念框架 | 还原教育制度改革或历史事件时间轴演变 |
 
 ---
-
-## 核心要素
 
 > [!feature] 逆推溯因的五个实施阶段
 > - **第一阶段：具体现象的经验描述（Empirical Description）** 细致记录并勾勒待解释的研究现象或制度运作模式，厘清其在现实中的表现形态。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
@@ -141,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 逆推溯因核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > - **2023 年 — 批判教育政策[[Discourse|话语]]实证实操** 吴（Etienne Woo）将逆推溯因引入[[Geopolitics of Higher Education|高等教育地缘政治]]政策分析，示范了如何从部委文本反向推导国家治理模式的宏观生成机制。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 687)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

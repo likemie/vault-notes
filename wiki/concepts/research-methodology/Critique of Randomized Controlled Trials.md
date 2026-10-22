@@ -119,11 +119,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Critique of Randomized Controlled Trials
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Critique of Randomized Controlled Trials\|随机对照试验批判]]（Critique of [[Randomised Controlled Trials\|randomized controlled trials]] / RCT Critique）指围绕随机对照试验在教育学、社会政策与公共治理中被奉为证据“黄金标准”所形成的系统性反思与跨学科批评体系。该批判涵盖三个递进层面：一是**复杂性[[Epistemology\|认识论]]层面**，解构其控制[[Variable\|变量]]假设与机械还原论在动态自组织开放教育系统中的[[Ontology\|本体论]]悖论；二是**真实学校效度层面**，揭示主体间干扰（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）、未测量教师质量混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]与大规模实效衰减对内部与[[External Validity\|外部效度]]的破坏；三是**政策治理异化层面**，批判将医学试验教条化为[[Rationalized Myth\|合理化神话]]、跨国金融机构技术[[Screening Off\|屏蔽]]宏观政治经济结构，以及法定单项合格门槛所诱发的“合规假象”与科研供给侧结构性赤字（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]；[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp. 5–9]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 11–13]]）。
@@ -145,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 循证量化批判三部曲横向辨析
 > | 比较维度 | [[Critique of Randomized Controlled Trials\|随机对照试验批判]] | [[Critique of Meta-analysis\|元分析批判]] | [[Critique of Evidence-Based Education\|循证教育批判]] |
 > |:---|:---|:---|:---|
@@ -156,8 +150,6 @@ updated: 2026-10-22
 > | **典型代表学者** | Morrison; Berliner; Wiliam; Berk; Ginsberg | Eysenck; Glass; Higgins; Simpson | Biesta; Hammersley; Helgetun & Menter; Steiner-Khamsi |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Randomised Controlled Trials\|随机对照试验]]批判的三大维度
 > - **[[Ontology\|本体论]]与[[Complexity Theory\|复杂性理论]]解构** 揭示真实教育世界作为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）所具备的动态[[Emergence\|涌现]]、自组织与整体共生性，论证单向线性[[Independent Variable\|自变量]]控制假定（ceteris paribus）在开放社会生态中的逻辑悖论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–30)]]
@@ -238,8 +230,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 批判体系的三大命题与理论归纳
 > | 命题维度 | 核心批判主张 | 现实机制与效度漏洞 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -248,8 +238,6 @@ updated: 2026-10-22
 > | **命题三：治理制度异化** | 证据等级被权力体制吸纳为合规护符与结构性屏蔽 | 合理化神话与 PBEM；世行技术屏蔽；35.4% 跨机构冲突；法定单项门槛合规假象 | Helgetun & Menter; Steiner-Khamsi; Wadhwa; Ginsberg |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] [[Randomised Controlled Trials\|随机对照试验]]批判的历史演进
 > - **1980s–2000s — [[Ontology\|本体论]]觉醒与“难以完成的科学”界定** [[Complexity Theory\|复杂性理论]]与现实主义科学哲学发起[[Epistemology\|认识论]]反思；大卫·伯利纳（David Berliner）确立教育作为“难以完成的科学”命题；Ray Pawson（2006）解构封闭系统的人为幻觉。
@@ -281,8 +269,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议焦点
 >
 > > [!axis] 因果标准的[[Paradigm Wars\|范式之争]]：教条“黄金标准” vs [[Pragmatic Paradigm\|实用主义]]“铜标准” vs [[Critical Realism\|批判实在论]]机制解释
@@ -293,8 +279,6 @@ updated: 2026-10-22
 > > - **批判实在论与复杂性[[Paradigm\|范式]]（Ray Pawson, 2006; Gert Biesta, 2010; Keith Morrison, 2008）** 彻底反对还原论[[Pragmatism in China\|实验主义]]，强调教育因果推断必须转向开放系统生成性因果机制（Generative Causality），追问“什么干预在什么情境下对谁产生什么效果”。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Randomised Controlled Trials\|随机对照试验]]效度威胁、[[Effect Size\|效应量]]现实与证据治理异化关键实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -309,8 +293,6 @@ updated: 2026-10-22
 > | [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 引述 Ginsburg and Smith (2016) | 27 项被有效教育清算所（[[What Works Clearinghouse\|WWC]]）高评级的数学课程 RCT | 内部效度逐项威胁审计 | 开发者利益冲突、教学时间非均等、测量偏倚 | 26/27 项存在多重严重问题；单一威胁误差幅度已大于干预平均效应量 | 质性与计量混合威胁核查 | 揭示被权威认证的高等级 RCT 仍普遍充斥着损害内部效度的隐蔽漏洞。 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 核心研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 第 1 章与第 4 章系统阐释[[Complexity Theory\|复杂性理论]]对受控实验的四大解构、Kuhn 五大公理与[[Unit of Analysis\|分析单位]]向生态网络的转向，详述概率因果、[[Counterfactual\|反事实]]、[[Screening Off\|筛选隔离]]及真实课堂复杂性对 [[Randomised Controlled Trials\|RCT]] 的方法论挑战。

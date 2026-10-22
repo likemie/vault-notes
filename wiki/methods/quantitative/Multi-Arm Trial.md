@@ -72,11 +72,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Multi-Arm Trial
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **多臂试验（Multi-Arm Trial，亦称多臂[[Randomised Controlled Trials\|随机对照试验]] Multi-Arm RCT）** 是指在单一试验方案中包含**三个或更多平行实验组（实验臂，Arms）** 的高级实验设计架构。最经典的多臂形态是“多个互斥的处理组共享一个公共对照组”（Multi-Arm Single-Control Design，如 $K$ 个处理臂对比 1 个对照臂）。该设计通过在同一实验背景下同时检验多种竞争性干预策略、不同实施剂量或不同递送载体，不仅能大幅节省招募独立对照组的样本与财务成本，还能通过直接的头对头（Head-to-Head）比较确立最优实践方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > *“To open the black box of complex interventions, the EEF has funded multi-arm trials and factorial designs. In the Literacy Octopus trial (Lord et al., 2017), multiple arms tested distinct dissemination methods across 800 primary schools, providing clear causal evidence on the relative inefficacy of passive research communication.”*
 
 ---
-
-## 方法定位与概念辨析
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **效率与生态可比性** 相比于分别开展多个独立的双臂试验（Two-Arm Trials），多臂试验通过共享对照组（Shared Control），显著减少了所需的总体[[Sample Size Determination\|样本量]]；更重要的是，所有处理臂在完全相同的时间窗口、宏观政策背景与测验标尺下接受评估，彻底排除了跨试验历史时间偏误。
@@ -118,16 +112,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **定义干预臂与理论机制假设** 界定清晰的对照臂（通常为常态对照）以及各个处理臂的具体内容，确保各臂之间在操作定义上清晰分离。
 > 2. **优化[[Sample Size Determination\|样本量]]与组间分配比例** 依据最优配比准则（如 Dunnett 根号原则），适当增加共享对照组的分配比例以提升整体统计功效。
 > 3. **执行[[Random Assignment\|随机化]]分组** 采用区组分层随机化或整群随机化将受试者（或学校）分配至各个实验臂。
 > 4. **主效应与成对均值估计** 拟合[[Covariate Adjustment\|协变量调整]]回归方程，提取各个干预臂相对于对照组的点估计与未调整[[Standard Error\|标准误]]。
 > 5. **执行多重比较校正** 针对预先设定的关键假设检验，执行 Dunnett 校正或 FDR 控制，汇报校正后的 $p$ 值与[[Confidence Interval\|置信区间]]。
-
-### 量化分析模块
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** 包含 $K$ 个处理臂与 1 个对照臂的样本数据，总组数 $G = K + 1$。
@@ -194,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 评估多种具有竞争性的不同教学法、课程材料或师资培训模式（如[[Literacy Octopus\|识字八爪鱼试验]]对比 4 种传播手段）；
@@ -210,8 +198,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **样本招募负担与管理复杂度高** 多臂试验需要动员成倍的学校与受试者，且现场多套方案并行递送极易发生混淆与交叉污染。
 > - **对照组污染风险翻倍** 由于存在多个活跃的处理臂，对照组学校通过日常交流接触到某一试验臂教学法而发生常态基线提升的风险成倍增加。
@@ -219,8 +205,6 @@ updated: 2026-10-22
 > - **补救方式** 采用[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）预先锁定主对比；运用 Dunnett 针对性校正；强化[[Implementation Fidelity\|实施保真度]]监测。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -244,8 +228,6 @@ updated: 2026-10-22
 > | [[Intent-to-Treat Analysis]] | 分析准则 | 多臂试验评估各臂平均因果效应所遵循的标准意向性分析规程。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述了英国 [[Education Endowment Foundation\|EEF]] 通过多臂试验与[[Factorial Design\|析因设计]]打开复杂教育干预黑箱的演进历程，重点评述了“[[Literacy Octopus\|识字八爪鱼]]”多臂试验与 ABRA 在线阅读多臂试验的方法学价值。

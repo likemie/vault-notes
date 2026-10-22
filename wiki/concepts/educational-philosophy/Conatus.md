@@ -34,11 +34,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-# Conatus
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 欲力（conatus，常译为自我保存的努力、生机）是[[Baruch Spinoza\|斯宾诺莎]]主义哲学的核心概念，指实体或个体倾向于持续存在并保存自我（persist in being）的内在力量与挣扎。在教育哲学语境中，它被转译为一种指向学生内在无意识情感（unconscious affects）与主体欲望的[[Learner Autonomy\|自主学习]]驱动力。它主张真正的学习发生在内在情感变动之中，而非受到外部理性或社会契约的强制规训。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **2005 — 国际课程哲学重构** 科尔将欲力概念引入国际课程[[Theory of Knowledge\|知识论]]的批评与建构中，用作对抗[[Georg Wilhelm Friedrich Hegel\|黑格尔]]理性公民建构、释放学生内在主体欲望的哲学支点。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力
 > - **理性契约式公民培育（蓝方）** 认为情感需要被理性约束，以融入基于契约和法治的现代公民社会，这属于托马斯·霍布斯（Thomas Hobbes）、[[Georg Wilhelm Friedrich Hegel\|黑格尔]]的传统。（[[Argument_Cole_2005_JRIE\|Cole, 2005, pp. 218]], 221–222）

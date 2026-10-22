@@ -44,14 +44,10 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Australia in the Asian Century White Paper
-
 > [!info] 背景
 > 2012 年，澳大利亚政府发布了一份重要报告——通常称为"Henry Report"——指出 21 世纪很可能是一个"亚洲世纪"，澳大利亚人民和机构必须认识到这一事实对其未来繁荣的影响([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]])。该白皮书是在亚洲经济持续高速增长、全球经济和[[Geopolitics|地缘政治]]重心向亚洲转移的背景下制定的。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > 白皮书的核心主张是：亚洲的崛起不是威胁而是澳大利亚的机遇——"距离的暴政正在被邻近的前景所取代"（the tyranny of distance is being replaced by the prospects of proximity）（Henry, 2012, p.1, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]]）。
 
 > [!quote|notitle]

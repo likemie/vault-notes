@@ -38,8 +38,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Three Excellences
-
 > [!info] 背景
 > "三好学生"（Students with Three Excellences）是中国学校年度评选的模范学生荣誉制度。三好指的是：品德（moral conduct）、[[Academic Achievement\|学业成就]]（academic achievement）、艺术与体育成就（artistic and athletic achievement）。这一制度的核心理念来自[[Confucian Learning Tradition\|儒家学习传统]]——学习不仅是智识追求，也是品德和身体的全面发展([[Argument_Li_2012_Cambridge\|Li, 2012, pp.103–104]])。
 

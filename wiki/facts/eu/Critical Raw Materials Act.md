@@ -43,11 +43,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Critical Raw Materials Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2024 年 4 月 11 日由欧洲议会与[[EU|欧盟]]理事会正式通过条例（Regulation (EU) 2024/1252），建立确保关键原材料安全与可持续供应的框架法案。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4, 16)]]
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **制度位置** 与《[[European Chips Act|欧洲芯片法案]]》（European [[CHIPS and Science Act|CHIPS Act]]）和《净零工业法案》（Net-Zero Industry Act）构成欧盟追求[[Strategic Autonomy|战略自主]]的三大支柱性[[Modern Industrial Policy|现代产业政策]]。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《关键原材料法案》（Critical Raw Materials Act, CRMA）通过立法确立战略原材料清单与多元化基准，设定至 2030 年本土开采至少 10%、精炼加工至少 40%、回收利用至少 25% 的硬性指标，并限制单一第三方国家供给占比不超过 65%，旨在扭转欧洲在数字与能源转型基础矿产上的结构性脆弱性。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4, 16)]]
@@ -78,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2008 年** [[EU|欧盟]]委员会发布《原材料倡议》（Raw Materials Initiative），首次提出确立关键原材料清单。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 4)]]
 > - **2011–2023 年** 欧盟定期更新发布关键原材料清单（2011、2014、2017、2020、2023 年），但实证数据显示预警未转化为本土实际产能。
@@ -88,16 +80,12 @@ updated: 2026-10-22
 
 ---
 
-## 实施情况
-
 > [!actor-grid] 实施角色分工
 > - **[[EU|欧盟]]委员会** 遴选与认定“战略项目”（Strategic Projects），协调跨国联合采购，监督全欧关键矿产监测预警体系。
 > - **成员国政府** 依据法案设立单一联络窗口，简化采矿与精炼环境许可审批程序，动用本国财政实施定向援助。
 > - **工业界与矿业企业** 申报战略矿业与精炼项目，落实废弃物回收技术路线，配合完成跨国供应链风险压力测试。
 
 ---
-
-## 关键价值链环节对比
 
 > [!contrast-table] [[EU|欧盟]]数字价值链各环节主要依赖与制造优势对照（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）
 > | 生产阶段 | 欧盟核心依赖品类 | 欧盟本土优势环节 | 政策应对核心工具 |
@@ -108,8 +96,6 @@ updated: 2026-10-22
 > | **最终产品（Final Products）** | 计算机、高端通信终端设备 | 缺乏全球终端品牌，整体呈现贸易逆差 | [[CHIPS and Science Act\|芯片法案]]第一支柱与数字化倡议 |
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

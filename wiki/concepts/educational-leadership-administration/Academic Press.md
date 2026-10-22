@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Academic Press
-
 > [!metax] [学业压力导向 · Academic press](https://www.visiblelearningmetax.com/influences/view/academic_press)
 > 学校 › 领导
 >

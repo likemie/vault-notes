@@ -37,10 +37,6 @@ created: 2026-06-01
 updated: 2026-10-16
 ---
 
-# Emergent Design
-
-## 定义
-
 > [!def] 核心定义
 > [[Emergence\|涌现]]式设计（Emergent Design）是[[Qualitative Research\|质性研究]]的核心特征之一：研究过程是涌现的，意味着初始计划会在研究过程中演变。在研究者进入现场并开始收集数据后，研究的某些或全部阶段可能发生变化或转变（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.194）。在诠释/自然主义[[Paradigm\|范式]]中，Lincoln and Guba（1985, pp. 39–43）将其列为操作性公理之一：研究设计随时间涌现——抽样也随时间变化——先验理论被[[Grounded Theory\|扎根理论]]取代。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 404–405)]]
 
@@ -58,8 +54,6 @@ updated: 2026-10-16
 > - **涌现现实** 实际研究操作本质上是迭代和递归的——不同阶段之间存在前后往复运动，各元素在不同时间点以不同方式进入焦点并相互影响。阶段模型只是导航框架而非刚性处方。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 407–408)]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 量化固定设计 vs 质性[[Emergence\|涌现]]设计
 > | 维度 | [[Quantitative Research\|量化研究]] | [[Qualitative Research\|质性研究]] |

@@ -47,11 +47,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Civic Rituals
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 公民仪式（Civic Rituals）是指现代世俗国家为了在缺乏血缘与宗族纽带的大规模陌生人群体中建构政治认同、凝聚集体意志并维系跨阶层信任而设立的制度化国民装置。它涵盖公立教育系统的通识正典大纲、国民防卫服役、超越党派的[[Civic Religion|公民宗教]]立约、规范标准化的国家语言以及蓬勃自由的新闻论坛。在当代技术共和主义视阈下，这些传统公民装置的荒废导致陌生人之间的“想象亲密感”破裂，不仅使大众退缩至娱乐与体育亚文化，更导致科技精英退守封闭的“技术城邦”，构成西方民主政体抵御地缘威胁与内部撕裂的深层制度危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]
@@ -82,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **制造国家的四大制度化支柱（Four Pillars of Manufacturing a Nation）** 涵盖公立教育正典（传承共同历史叙事）、国民防卫服役（铸就共同牺牲记忆）、标准化共同语言（保障公共理性商谈）以及超越党派的[[Civic Religion|公民宗教]]立约。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 216)]]
 > - **陌生人间“想象亲密感”的维系纽带（Tether of Imagined Intimacy）** 在高度异质化的大型现代社会中，通过共有仪式使素不相识的公民产生深厚的横向同志情谊，为现代公共生活提供不可或缺的情感与道德粘合剂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
 > - **仪式废弃后的娱乐亚文化退缩（Retreat into Entertainment Subcultures）** 当国家撤出提供崇高公民意义的阵地时，公众共同体验退化为体育、明星、时尚与娱乐消费，导致政治共同体失去战略动员与抵御地缘渗透的免疫力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 217)]]
@@ -138,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +148,6 @@ updated: 2026-10-22
 > - **2025 — 科技共和国视阈下的重铸呼唤** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 警示纯娱乐亚文化无法应对地缘安全危机，呼吁在全社会恢复公民仪式以重铸[[Technological Republic|技术共和国]]（pp. 216–218）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

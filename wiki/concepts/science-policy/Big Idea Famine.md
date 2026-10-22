@@ -70,11 +70,7 @@ created: 2026-10-08
 updated: 2026-10-20
 ---
 
-# Big Idea Famine
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **大构想饥荒（Big Idea Famine / 科技野心衰退）** 是由麻省理工学院（Massachusetts Institute of Technology, MIT）媒体实验室联合创始人[[Nicholas Negroponte|尼古拉斯·尼葛洛庞帝]]（Nicholas Negroponte, 2018）等学者提出的科技[[Innovation Ecosystem|创新生态]]诊断[[Construct|构念]]，指当代科技创业界与工程师群体在短期商业资本套利、避险文化规训以及反国家建制思潮的共同塑造下，集体放弃需要长期攻坚的硬核科学发现、基础物理工程制造与重大国家战略挑战，转而将全社会最顶尖的智力与财务资源高度集中于点餐外卖、日用品分销、网约叫车、修图社交与屏幕广告推荐算法等浅层消费类应用（App）的系统性异化趋势。
@@ -125,8 +121,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析与层级谱系
-
 > [!contrast-table] 颠覆性硬核科学工程 vs [[Consumer Internet|消费互联网]]微观便利 vs [[Technological Pastiche|技术拼贴]]浅层衍生
 > | 比较维度 | 颠覆性硬核科学工程（[[Technological Republic\|技术共和国]]模式） | 消费互联网微观便利（大构想饥荒模式） | 技术拼贴浅层衍生（[[Technological Pastiche\|技术拼贴]]模式） |
 > |:---|:---|:---|:---|
@@ -146,8 +140,6 @@ updated: 2026-10-20
 > - **无生命商业拼贴与注意力套利** 换皮手游抽卡、塑料玩具线上炒作、滤镜社交与算法信息流广告
 
 ---
-
-## 核心要素与结构机制
 
 > [!factors] 诱发与维系大构想饥荒的核心结构要素
 > - **风险资本的短期避险与套利偏好** 风险投资基金倾向于投资研发周期短、用户增长直观、监管阻力小的消费软件，对重资产、高技术壁垒与研发周期漫长的硬核物理工程避之唯恐不及。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 47–49)]]
@@ -234,8 +226,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 大构想饥荒核心命题体系归纳
 > | 命题类型 | 核心理论断言 | 适用分析情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -245,8 +235,6 @@ updated: 2026-10-20
 > | **使命重塑与工程治理** | 克服饥荒必须以阿波罗大工程标尺与技术和平队制度重塑国家战略同盟 | 国家创新体系设计、国防现代化与公共治理改革 | Thiel (2011); Karp & Zamiska (2025, Ch04, Ch09) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 大构想饥荒的思想演进脉络
 > - **1970s — [[Counterculture Computing|反文化计算]]转型与国家共同体退潮** 个人计算机先驱拒绝为军事与政府机构服务，转向赋权个人的微型计算工具，为随后工程资源向微观消费领域的转移埋下文化种子。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–101)]]
@@ -260,8 +248,6 @@ updated: 2026-10-20
 > - **2025 — 卡普与扎米斯卡提出[[Technological Republic|技术共和国]]总成方案** 在《技术共和国》中倡导组建技术和平队，将[[Engineering Mindset|工程思维]]转化为重构公共治理与捍卫国家战略[[Hard Power|硬实力]]的根本制度财富。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 50–51)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -281,8 +267,6 @@ updated: 2026-10-20
 > 大构想饥荒[[Construct|构念]]专门针对科技资本与前沿智力向微观消费软件过度倾斜的结构性失衡；不得将其误用为否定中小微企业在民生服务领域进行的数字化效率改良与降本增效探索。
 
 ---
-
-## 领域应用与条目关联
 
 > [!entry-map] 大构想饥荒核心关联条目网络
 >
@@ -304,8 +288,6 @@ updated: 2026-10-20
 > | [[Alan Greenspan\|艾伦·格林斯潘]] | Person | 美联储前主席，非理性繁荣预警者，被重构为揭示资本市场无差别狂热的理论参照。 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 外部相关研究与经典文献索引
 > - **Negroponte (2018)** — *The Big Idea Famine*。系统论述硅谷风投模式与创业孵化机制如何反向侵蚀颠覆性科学发现，将工程头脑锁定于送餐与洗衣服等微观应用。

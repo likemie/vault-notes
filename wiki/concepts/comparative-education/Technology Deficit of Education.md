@@ -54,11 +54,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Technology Deficit of Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育的技术赤字（Technology Deficit of Education，德语：Technologiedefizit der Erziehung）是指教育系统在将资源投入转化为确定性育人成果时，缺乏如工程学或自然科学般确凿因果技术的结构性困境。该概念由德国社会学家[[Niklas Luhmann\|尼克拉斯·卢曼]]（Niklas Luhmann）与教育学者卡尔-埃伯哈德·舍尔（Karl-Eberhard Schorr）于 1979 年提出。技术本质上是将输入要素稳定转化为预期产出的因果装置，然而教育系统的核心因果链条——“在当下接受特定教育能增强受教育者未来应对复杂世界的能力”——具有根本的时间滞后性与偶联性，其成效只能在遥远的未来显现，在决策的当下完全无法通过实证手段予以确认。这种深层的[[Ontology\|本体论]]不确定性构成了教育公共决策的先天生态，迫使政策制定者依赖量化指标与[[Policy Brokerage\|政策中介]]机构提供的“可操作性行动方案”，以在当下管理对未来不可预测性的集体焦虑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539–540)]]
@@ -89,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **因果链条的时间滞后性（Temporal Lag of [[Causality]]）** 教育的核心价值在于促进个体的长远发展与未来社会适应，然而未来的社会情境与技术变革充满偶联性，导致当下的教育干预与长期的育人成效之间无法建立确定性的因果追溯。(Luhmann & Schorr, 1979)
 > - **生产函数的不可计算性（Non-computability of Educational Production Function）** 教学过程高度依赖师生互动与情境共创，任何标准化的投入（如生均经费、师生比、教材设备）都无法必然且等比例地兑现为均质的个体产出，打破了技术官僚对精确工程化规划的幻想。
 > - **对可操作证据的代偿性渴求（Compensatory Demand for Actionable Evidence）** 面对无法消除的未来风险，国家教育官僚系统产生强烈的控制欲，迫切需要外部专家与智库提供看似切实可行的行动处方，以将不可知的不确定性转化为可管理的技术风险。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,8 +143,6 @@ updated: 2026-10-22
 > - **2024 — 全球教育[[Policy Brokerage\|政策中介]]生态分析** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将该概念与歧义性、公共争议性并列，作为剖析信息过载时代国际组织政策中介霸权兴起的底层生态支柱。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -169,8 +159,6 @@ updated: 2026-10-22
 > 该概念解释的是政策制定者为何在宏观上面临无法消除的确定性焦虑，从而转向[[Policy Brokerage\|政策中介]]机构寻求量化工具支持；它不能直接作为微观教学拒绝采用有效循证教学策略或教育科研放弃因果实证探索的借口。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

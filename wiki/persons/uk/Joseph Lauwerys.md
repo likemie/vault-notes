@@ -62,11 +62,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Joseph Lauwerys
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家，伦敦大学教育学院（Institute of Education, University of London, IOE）首任比较教育教授（1947 年就职），[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）首任主席（1961–1967），[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）早期核心顾问。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1948–1970 — *The Year Book of Education / World Year Book of Education*** 与 [[Nicholas Hans]]、[[Brian Holmes]] 等共同主编，持续聚焦二战后全球教育哲学、道德教育、科学教育及高等教育改革，构建起国际比较教育的实证全景。
 > - **1958 — *Methoden der Vergleichenden Erziehungswissenschaft*** 提出著名的比较教育[[Navigation Metaphor in Comparative Education|航海隐喻]]，主张比较教育旨在为决策领航员提供备选战略方案而非直接干预决策。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education|教育对话]]能够克服狭隘的民族主义与国家竞争焦虑；在政策咨询定位上，他提出著名的比较教育[[Navigation Metaphor in Comparative Education|航海隐喻]]，强调比较教育研究者应当如航海图与领航员般为决策者提供多维备选路线与风险预警，而非越俎代庖操舵干涉具体政治决断；这种审慎的咨询立场与索尔·罗宾松深度介入国家立法规划的激进改革取向形成鲜明对照；在[[Epistemology|认识论]]上，他践行教育作为横断学科的综合特征，拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–96)]]
 
 > [!citation-card] 跨洲思想连接与学术肖像反思
@@ -126,8 +118,6 @@ updated: 2026-10-22
 > - **机构与组织** [[Comparative Education Society in Europe]]（CESE 创会主席）、[[UNESCO\|联合国教科文组织]]（UNESCO 资深顾问）、伦敦大学教育学院（IOE 讲座教授）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与反思
 >

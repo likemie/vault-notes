@@ -36,9 +36,6 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# American Society for Cultural Relations with Russia
-
-
 > [!info] 背景
 > 1917 年俄国十月革命后，美国拒绝承认布尔什维克领导的苏俄新政府，两国在此后十六年间无正式外交关系([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.102]])。但民间层面，美苏之间的文化交流并未中断——1924 年苏联成立了全联盟对外文化关系协会（VOKS），公开目标为"在苏联与外国文化和科学机构之间建立更密切的关系"([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.104]])。1927 年初，VOKS 派遣 Roman Weller 前往美国建立文化关系类的组织，ASCRR 随即在纽约成立([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.107–108]])。[[John Dewey]] 出任该协会副主席。
 

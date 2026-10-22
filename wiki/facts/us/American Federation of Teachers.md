@@ -50,11 +50,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# American Federation of Teachers
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 全美教师联盟（American Federation of Teachers, AFT）是美国第二大全国性教育劳工组织与专业协会，拥有逾 170 万名会员，横跨学前教育、公立中小学、高等教育教职员及医疗卫生公共雇员。作为美国劳工联合会-产业工会联合会（AFL-CIO）的重要成员，AFT 兼具追求劳工集体谈判权益与倡导公共教育专业卓越的双重使命。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7, 15)]]
@@ -67,8 +63,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1916–1960 年 — 创设奠基与早期劳工维权** 芝加哥建会后迅速融入全美劳工运动大潮，积极倡导改善公立学校恶劣教学条件，争取女性教师同工同酬，并在二战期间强力支持教师[[Academic Freedom|学术自由]]。
 > - **1960–1974 年 — 纽约大罢工与集体谈判制度确立** 在阿尔伯特·香克（Albert Shanker）领导下，纽约市联合教师工会（UFT，AFT 核心分会）发起震撼全美的罢工浪潮，成功开创了公立教职人员集体谈判的法定先河，促使 AFT 会员规模爆发式增长。
@@ -76,8 +70,6 @@ updated: 2026-10-22
 > - **2008 年–至今 — 兰迪·温加滕执掌期与当代课程治理参与** 在时任主席兰迪·温加滕（Randi Weingarten）领导下，AFT 深度介入全美[[Common Core State Standards|共同核心州立标准]]（CCSS）方案设计与审读，积极动员一线教师参与标准技术推敲，同时坚决抵制新自由主义过度依赖高利害统考解聘教师的做法。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15, 22–23)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（全国代表大会）** 每两年召开一次的全国会员代表大会，由基层分会选举的数千名代表组成，负责审议工会重大纲领与选举全国领导层。
@@ -91,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **专业学术期刊《美国教育家》（*American Educator*）** 面向公立中小学教职员工的权威季度期刊，高频刊登顶尖认知心理学、阅读科学与学科教学法专家的前沿研究，致力于架设学术证据与日常课堂的桥梁。
 > - **开源教学资源网络平台（Share My Lesson）** 全美最大的教师自主共享协作平台，由 AFT 投资维护，收录数百万份严格对标国家与各州标准的教学设计方案、测评工具与课堂活动资源。
@@ -104,8 +94,6 @@ updated: 2026-10-22
 > *Standards must be anchored in classroom realities. They cannot be built on [[Abstract]] theories alone; practicing educators who Teach students every day must be intimately involved in vetting every progression to ensure standards are both rigorous and workable.*[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **组织规模与代表性** 活跃会员超 170 万人，公立中小学教师与教辅人员占比逾 60%，构成美国教育公共政策不可逾越的把关阵营。
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - **2** （整日） 数学教师评审小组将标准物理贴墙、密集推敲[[Learning Progression|学习进阶]]可行性的专项工作坊时长。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 15)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

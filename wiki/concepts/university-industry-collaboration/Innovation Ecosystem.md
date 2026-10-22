@@ -132,11 +132,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Innovation Ecosystem
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **创新生态系统（Innovation Ecosystem）** 指由大学、科研机构、各梯队企业、专用设备与材料供应商、政府部门、创业投资及中介服务机构通过高频、多维的网络互动共同催化、转化与扩散创新的复合自组织系统。创新生态系统突破了单个组织内部研发或线性“科学推动”的简单框架，强调跨组织边界、跨产业链层级（如设计与代工的纵向解耦）以及跨地理区域的动态协同演化。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8–10)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]
@@ -167,8 +163,6 @@ updated: 2026-10-22
 > | **分析重点** | 微观治理机制、技术接口标准化、[[Absorptive Capacity\|吸收能力]]与生态韧性 | 宏观科技政策产出、R&D 强度与制度[[Path Dependence\|路径依赖]] | 产学政制度权力平衡与[[Intellectual Capital\|知识资本]]化演进 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心构成要素
 > - **锚点机构与多层次知识供给** [[Research Universities|研究型大学]]与国家实验室作为区域“锚点”（Anchors），提供前沿基础研究与跨学科颠覆性创意；同时由应用型学院与社区学院组成梯队化人才蓄水池。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 246–248)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8–10)]]
@@ -316,8 +310,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -343,8 +335,6 @@ updated: 2026-10-22
 > - **2026 — 多圈层协同网络与中试共置生态范式** [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 22–24)]] 结合美国半导体体系角色重构实践，系统提炼出涵盖城市锚点、区域跨校联盟（[[Joint University Microelectronics Program 2.0|JUMP 2.0]]）与国家分布式多极网络的空间拓扑，以及依托 [[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 产学洁净室共置打通 [[Technology Readiness Level|TRL]] 4–6 鸿沟的中试中转机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理张力
 >
@@ -383,8 +373,6 @@ updated: 2026-10-22
 > - **底层基础研究萎缩风险** 若创新生态过度沉迷于应用层面的敏捷产品迭代与商业变现，导致大型[[Corporate R&D Labs|企业中央实验室]]和公共财政退出长周期基础科学研究，将侵蚀未来颠覆性创新的根基。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 122–123, 129–131)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

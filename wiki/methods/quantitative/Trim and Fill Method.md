@@ -54,11 +54,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Trim and Fill Method
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > Trim and Fill Method（剪补法 / 剪除与填补法，由 Sue Duval 与 Richard Tweedie 于 2000 年提出）是一种用于诊断和校正[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]（及[[Small Study Effects\|小研究效应]]）的经典非参数迭代统计方法。该方法假设在无发表偏倚时，[[Funnel Plot\|漏斗图]]中的研究[[Effect Size\|效应量]]应围绕真实均值呈对称分布；当检出单侧漏斗图不对称时，该算法先迭代“剪除（Trim）”导致不对称的极端小样本研究以估计无偏的中心效应，随后在漏斗图对侧“填补（Fill）”相应数量的镜像虚拟研究，并重新拟合计算校正后的最终效应量与 95% [[Confidence Interval\|置信区间]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 认为[[Sampling Error\|抽样误差]]在[[Funnel Plot\|漏斗图]]中应当对称呈现，单侧截断是不完全发表机制的统计指纹。
 > - **研究者角色** 运用非参数秩次检验与对称性拟合，对证据库进行压力测试与保守校正。
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > - **辅助技术** 漏斗图绘制、与 [[Fail-Safe N]] 及 [[Multilevel Egger's Test]] 交叉检验
 
 ---
-
-## 研究程序与算法步骤
 
 > [!proc] 剪补法的标准三阶段算法操作规程
 > 1. **初始中心估计与排序** 计算当前所有研究的加权合并[[Effect Size\|效应量]]，计算各研究相对于均值的残差并按绝对值排序。
@@ -111,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 经典应用案例
-
 > [!example] [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] [[Cooperative Learning\|合作学习]][[Meta-meta-analysis\|二阶元分析]]偏倚检验
 > 在合作学习二阶[[Meta-analysis\|元分析]]中，作者综合运用剪补法对 23 个[[Effect Size\|效应量]]进行偏倚检验：
 > - **剪补检验结果** 剪补算法估计缺失研究数为 **$k_{\text{miss}} = 0$**（未识别到任何需剪除或填补的不对称研究）；
@@ -125,8 +115,6 @@ updated: 2026-10-22
 > - **结论推导** 与Egger 回归（$t(45) = 5.53, p < .001$）相互印证，提示存在轻微[[Publication Bias\|发表偏倚]]，但校正后 PBL 仍呈显著正效应。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, pp. 960–961)]]
 
 ---
-
-## 优缺点与方法局限
 
 > [!contrast-table] 剪补法的优势与局限对比
 > | 优势 (Strengths) | 局限 (Limitations) |

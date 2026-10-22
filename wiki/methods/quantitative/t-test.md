@@ -41,8 +41,6 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# t-test
-
 > [!info] 定义
 > t 检验（t-test）是一种比较两组均值的推断统计方法，使用 t 统计量。独立样本 t 检验（Independent Samples t-test）比较两个独立组的均值；配对样本 t 检验（Paired Samples t-test）比较同一组在两次测量中的均值。报告时应将 t 统计量以斜体呈现（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 

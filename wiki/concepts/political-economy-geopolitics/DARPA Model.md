@@ -62,11 +62,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# DARPA Model
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[DARPA]] 模式（DARPA Model）** 指以“防范国家技术突袭并主动制造技术突袭”为法定使命，通过去中心化、扁平化的组织架构，赋予具备深厚技术研判权的流动性项目经理（Program Managers, PMs）极大的立项自由裁量权，运用[[Broad Agency Announcement|广泛领域资助公告]]（BAA）、[[Heilmeier Catechism|海尔迈耶问卷]]（Heilmeier Catechism）与微观非正式[[Network Governance|网络治理]]机制，在前沿高风险硬科技领域主动识别、催化并引导战略[[Technological Trajectories|技术轨道]]的国家创新管理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 四大科研创新管理模式对比
 > | 比较维度 | [[DARPA]] 模式 | [[National Science Foundation\|NSF]] / 同行评议模式 | 传统科层产业政策（[[Ministry of International Trade and Industry\|MITI]] 模式） | [[Corporate Venture Capital\|企业风险投资]]（CVC）模式 |
 > |:---|:---|:---|:---|:---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | **项目考核机制** | [[Heilmeier Catechism\|海尔迈耶问卷]]、阶段里程碑考核、随时终止 | 年终进展报告、期刊论文发表计量 | 产量指标、产值规模与出口创汇 | 营收增长、用户增长、上市与并购 |
 
 ---
-
-## 核心支柱构件
 
 > [!feature] [[DARPA]] 模式四大制度支柱
 > - **支柱一：赋权且流动的项目经理（Empowered PMs with Term Limits）** 选拔处于学术与产业巅峰期的顶级学者或工程师担任 PM，赋予数千万美元完全独立的立项发包权；实行 3–5 年刚性轮换制度，防止官僚化与利益锁定。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变与全球扩散
-
 > [!dev-timeline] 演进与扩散历程
 > - **1958 — 危机诞生与黄金探索期** 应对斯普特尼克危机设立 [[DARPA|ARPA]]，催生 [[ARPANET]] 与计算机图形学。
 > - **1970s — 《[[Mansfield Amendment 1969|曼斯菲尔德修正案]]》与使命纪律化** 海尔迈耶确立评估准则，主导战术隐身技术（F-117）突破。
@@ -149,8 +139,6 @@ updated: 2026-10-22
 > - **2000s至今 — 全球 ARPA-like 机构大爆发** 模式被广泛复制到民用与国际领域：美国设立 [[ARPA-E]]（能源, 2009）、[[ARPA-H]]（医疗, 2022）、IARPA（情报, 2006）；英国设立 ARIA（2021）；德国设立 SPRIND（2019）；[[EU|欧盟]]设立欧洲创新理事会（EIC, 2021）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

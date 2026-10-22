@@ -60,11 +60,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Jacob Cohen
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名定量心理学家与统计学家，纽约大学（New York University）心理学荣休教授，行为科学[[Power Analysis|统计功效分析]]（Statistical Power Analysis）与[[Effect Size|效应量]]（Effect Size）测量运动的奠基人。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1969/1988 — *[[Power Analysis|statistical power analysis]] for the Behavioral Sciences*** 行为科学统计功效与[[Effect Size|效应量]]分析的圣经，系统阐释 Cohen's $d$ 的数学公式，提供不同实验设计下的[[Sample Size Determination|样本量]]估算速查表。
 > - **1990 — *Things I Have Learned (So Far)*** 反思心理学[[Quantitative Research|定量研究]]中的普遍谬误，强调少即是多（Less is more）、图形化呈现与对数据实质意义的尊重。
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Statistical Significance|统计显著性]]检验与[[Effect Size|效应量]]在[[Epistemology|认识论]]上回答完全不同的科学问题：显著性检验仅判断观测到的差异是否源于[[Sampling Error|抽样误差]]（是否拒绝[[Null Hypothesis|零假设]]），而[[Effect Size|效应量]]衡量现象或干预的实际大小与实质价值。科恩建构了标准化均值差指标 Cohen's $d$（采用两组总体方差齐性假设下的合并标准差作为除数），使不同测验与情境下的[[Variable|变量]]差异得以转换为以标准差为单位的通用尺度。科恩提出的经验分类（$0.2$ 为小，$0.5$ 为中，$0.8$ 为大）是在缺乏领域先验知识时的经验权宜之计，绝非跨领域通用的客观自然常数；将其教条化为教育干预优劣的机械分水岭，彻底违背了科恩的统计学初衷。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 43–45)]]
 
 > [!citation-card] 效应量经验参照的相对性与情境约束
@@ -131,8 +123,6 @@ updated: 2026-10-22
 > - **批判审视学者** 彼得·阿勒鲁普（Peter Allerup）、[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）、[[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart） — 揭示科恩谨慎的经验参照在教育政策传播中被异化为神话的机制，批判跨指标混同导致的方法学缺陷。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

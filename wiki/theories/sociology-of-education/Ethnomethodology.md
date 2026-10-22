@@ -24,16 +24,10 @@ created: 2026-06-13
 updated: 2026-09-22
 ---
 
-# Ethnomethodology
-
-## 定义与起源
-
 > [!def] 俗民方法学（Ethnomethodology）
 > 加芬克尔（Harold Garfinkel, 1967）创立的研究取向，其目标是"将实践活动、实践情境和实践的社会学推理作为经验研究的课题，并通过给予日常生活最普通的活动通常只给予非凡事件的关注，寻求将其作为自有权利的现象来研究"（Garfinkel, 1967: vii）（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 加芬克尔对社会世界的研究者提出了一个激进挑战：社会世界的研究者必须怀疑那个世界的实在性。因为未能以更加怀疑的态度看待人类行为，社会学家们创造了一个有序的社会实在——而与真实情况几乎无关（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
-
-## 两个核心概念
 
 > [!line-a] [[Indexicality\|索引性]]（Indexicality）
 > 行动和陈述与产生它们的社会语境相关联，其意义为参与者所共享但不一定被明确陈述。同样的词或行为在不同语境中可以意味着完全不同的事。

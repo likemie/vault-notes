@@ -64,11 +64,8 @@ status: active
 created: 2026-06-09
 updated: 2026-10-22
 ---
-# Learning Economy
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **学习经济（Learning Economy / 学习曲线效应）** 涵盖微观制造工程与宏观[[Systems of Innovation|创新系统]]的双重理论意涵：在微观与产业层面，指企业在生产过程中随着历史累计产量的持续扩张，工人和工程师通过实践积累操作经验、改进工艺良率与消除缺陷，从而驱动产品单位成本呈现规律性指数下降的动态生产率提升机制（典型如半导体产业累计产量每翻一番，单位制造成本下降 20%–30%）；在宏观与中观创新系统层面，指在全球化与技术加速变迁的环境中，经济体与企业的核心[[Competitiveness|竞争力]]越来越取决于持续学习、遗忘陈旧惯例和吸收新知识的动态能力，而非单纯依赖静态的自然资源禀赋或固定知识存量。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]；[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864, 引自 Caraça et al., 2009)]]
@@ -100,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习经济 vs. 规模经济 vs. [[Knowledge-Based Economy|知识经济]]
 > | 比较维度 | 微观学习经济（Learning Curve） | 静态规模经济（Economies of Scale） | 宏观学习型经济（Learning Economy） | 知识经济（Knowledge Economy） |
 > |:---|:---|:---|:---|:---|
@@ -111,8 +106,6 @@ updated: 2026-10-22
 > | **典型代表文献** | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) | 新古典微观企业理论 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Lundvall (1994) | OECD (1996); Romer (1990) |
 
 ---
-
-## 核心要素
 
 > [!feature] 学习经济的双层构成要素
 > - **累计生产经验与良率爬坡** 微观制造中技术工人和工艺工程师通过反复调试、消除硅片瑕疵与优化光刻流程，直接将累计制造经验转化为指数级成本下降。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]
@@ -183,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 学习经济相关命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -195,8 +186,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学习经济概念发展脉络
 > - **1962 — [[Learning by Doing|干中学]]（Learning by Doing）微观模型奠基** 肯尼斯·阿罗（Kenneth Arrow）发表经典论文，正式建立通过生产实践积累经验从而提高劳动生产率的内生增长机制。
 > - **1968–1978 — 经验曲线与高技术产业微观实证** 波士顿咨询集团（Boston Consulting Group, BCG）推广经验曲线模型；施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）结合美国微电子与计算机工业数据，确立了累计产量每翻一番成本下降 20%–30% 的半导体学习经济定律，并论证了政府采购托底在启动学习曲线中的制度功能。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
@@ -205,8 +194,6 @@ updated: 2026-10-22
 > - **2007–2009 — [[Multi-channel Interactive Learning Model|多通道互动学习模型]]与创新模式整合** 延森等（Jensen et al. 2007）区分 STI 与 DUI 创新模式；若昂·卡拉萨等学者提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为理解企业三类知识池互动与界面转换的宏观分析基石。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

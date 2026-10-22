@@ -63,11 +63,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Learning Crisis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学习危机（Learning Crisis，亦称全球学习危机）指在中低收入国家（Low- and Middle-Income Countries, LMICs）经历过去数十年适龄儿童基础教育入学率大幅提升后，数以亿计完成小学教育的儿童仍无法掌握最基本的文字阅读、规范书写与基础算术技能的全球系统性困境。该概念确立了“就学不等于学习”（Schooling does not guarantee learning）的核心论断，推动[[International Education|国际教育]]治理议程从单纯的物质硬件投入与入学名额扩张，转向以微观课堂师生互动质量与实质认知产出为核心的实证监测与制度问责。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–3)]]
@@ -205,12 +201,10 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
-在巴基斯坦旁遮普省大样本计量分析中，实证检验证实了穿透传统外在指标、以微观教学实践化解学业困境的效度。
-
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> 在巴基斯坦旁遮普省大样本计量分析中，实证检验证实了穿透传统外在指标、以微观教学实践化解学业困境的效度。
 >
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|

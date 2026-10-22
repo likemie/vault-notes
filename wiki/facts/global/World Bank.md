@@ -136,11 +136,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# World Bank
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。自 20 世纪 80 年代以来，世界银行取代[[UNESCO|联合国教科文组织]]成为全球教育政策的实质主导者，引领了以结构调整和财政紧缩为核心的“防卫性与规训性多边主义”（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；其依托庞大的信贷附加条件与技术[[Discourse|话语]]（[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），一方面演进为与[[OECD|经合组织]]（OECD）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断、固化国际分层与推行去政治化“[[Shadow State|影子国家]]”外包的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽。在组织运作机制上，世界银行兼具提供硬通货贷款的“资金银行”（Bank of Funds）与重塑政策议程的“理念银行”（Bank of Ideas）双重性；其依托发达出资国高信用评级在国际资本市场低息发债筹资、以保本微利向发展中国家转贷，本质上属于特定主权国家间构筑的“主权信用合作社”。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–112)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457, 472–473)]]
@@ -152,8 +148,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1944–1968** **砖瓦基建与[[UNESCO|教科文组织]]早期依附期**
@@ -204,8 +198,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 执行董事会）** 理事会为最高权力机构（各成员国财长或央行行长担任），25 名常驻华盛顿的执行董事组成董事会，按出资份额分配加权投票权（美国拥有唯一实质一票否决权），决定重大国别贷款与行业政策战略。
 > - **执行机构（行长 / 教育全球业务局）** 传统上由美国提名行长领导庞大官僚官制，下设教育全球业务局（Education Global Practice, EGP），配备数百名专职教育经济学家与任务团队负责人（TTL），直接主导国别教育贷款准备与政策对话。
@@ -242,8 +234,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
 > - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；[[Learning Crisis|学习贫困]]测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
@@ -261,8 +251,6 @@ updated: 2026-10-22
 > *Technically, they are not banks. They are more like credit cooperatives – where only members can borrow. Or, more precisely, credit cooperatives of participating countries... the whole idea of a "development bank" is little more than a market trick to allow poor countries to borrow money at rates that can be as low as half of what they could obtain on their own and with much shorter time to pay back... The credit worthiness of the big countries – the United States, Germany, Japan, the UK, and so on – permit the bank to have a "triple A" rating. This rating allows the bank to borrow at the lowest possible interest rate found anywhere in the world.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 年均教育信贷承诺额超 30–50 亿美元，是全球发展中国家最大的外部教育公共资助方；在华盛顿及全球驻外使团拥有数千名经济与技术专家。
@@ -288,8 +276,6 @@ updated: 2026-10-22
 > - **10,000+** （个） 1947 年以来世界银行发起的教育项目总数，总投资累计达 690 亿美元。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

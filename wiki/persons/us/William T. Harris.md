@@ -35,10 +35,6 @@ related_persons:
 updated: 2026-10-16
 ---
 
-# William T. Harris
-
-## 生平简介
-
 > [!abstract] 学者生平
 > **威廉·托里·哈里斯（William Torrey Harris，1835–1909）**，美国著名哲学家、教育家，圣路易斯[[Georg Wilhelm Friedrich Hegel|黑格尔]]主义运动（St. Louis Hegelianism）的核心领袖。早年创办并主编美国首份哲学期刊《思辨哲学杂志》（*Journal of Speculative Philosophy*），曾长期担任密苏里州圣路易斯学区总监（1868–1880），推动建立了美国最早的公立幼儿园系统；1889 至 1906 年出任第四任美国联邦教育总署署长（U.S. Commissioner of Education），深刻奠定了美国近代公立学校制度与教育统计体系的基础。
 

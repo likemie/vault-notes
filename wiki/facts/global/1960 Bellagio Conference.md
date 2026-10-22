@@ -57,11 +57,7 @@ created: '2026-09-12'
 updated: 2026-10-22
 ---
 
-# 1960 Bellagio Conference
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 1960 年贝拉吉奥会议（Bellagio Conference on Education and Economic Development）是二战后西方阵营首次将教育确立为国家经济增长关键生产性投资的里程碑峰会；会议促成了经济学界与多边国际组织的深度结盟，奠定了全球教育治理“[[Development Turn in Comparative Education\|发展转向]]”与战后跨国教育危机动员的历史始祖节点。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **1959–1960 — 危机酝酿与跨学科筹备**
 >   - 洛克菲勒基金会联合[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）理事会，选定贝拉吉奥作为秘密学术与[[Policy Brokerage\|政策中介]]孵化基地，邀请芝加哥大学舒尔茨等顶尖经济学家起草关于教育与经济生产力的基础[[Memos|研究备忘录]]。
@@ -86,16 +80,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 贝拉吉奥会议推动[[Human Capital Theory\|人力资本]]与教育扩张以驱动增长的学术定性
 > 20 世纪 60 年代，许多以美国为主导的关于教育危机的国际会议相继召开，例如 1960 年的贝拉吉奥会议，该会议呼吁各国政府采纳人力资本方法并扩张其教育体系以促进经济增长；随后是 1961 年在华盛顿特区举行的[[OECD\|经合组织]]经济增长与教育投资政策会议；以及 1967 年在弗吉尼亚州威廉斯堡举行的世界教育危机国际会议。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
 > *Many US-spearheaded international conferences on education crises were held in the 1960s, such as the Bellagio meetings in 1960, which called on governments to adopt a human capital approach and expand their educational systems to boost Growth; the [[1961 Policy Conference on Economic Growth and Investment in Education\|1961 OECD Policy Conference on Economic Growth and Investment in Education]] held in Washington D.C.; and the International Conference on the World Crisis in Education at Williamsburg, Virginia, in 1967 (Elfert and Ydesen 2023; see also Brehm 2023).*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 经济学家集团** 舒尔茨、德尼森、刘易斯 — 依托计量经济学与增长残差模型，力证教育投资具备极高的资本回报率，主张将教育部门彻底纳入国家经济发展规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -116,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 直接催生了[[OECD\|经合组织]]（OECD）成立初期的教育工作序列，奠定了 1961 年华盛顿会议、[[Mediterranean Regional Project\|地中海区域项目]]（MRP）以及[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP）的创设基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **思想[[Paradigm\|范式]]变迁** 彻底终结了“教育无关于经济”的传统教条，将[[Human Capital Theory\|人力资本理论]]从边陲异端推向全球主流，开创了现代教育经济学建制化研究的新纪元。
@@ -132,8 +120,6 @@ updated: 2026-10-22
 > 涵盖 30 余位欧美核心学者与高级幕僚参会，奠定了后续覆盖地中海 6 国试点 MRP 项目以及战后两万亿美元级全球教育扩张周期的理论范式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

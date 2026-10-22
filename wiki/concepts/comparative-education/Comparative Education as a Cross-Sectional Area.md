@@ -52,11 +52,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Comparative Education as a Cross-Sectional Area
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **比较教育作为交叉领域（Comparative Education as a Cross-Sectional Area / Querschnittsbereich）** 是指将比较教育界定为牢固依附于母体学科[[Allgemeine Pädagogik|普通教育学]]（德文：Allgemeine Pädagogik），同时向历史学、社会学与政治学等邻近学科全方位开放的横截面知识建制形态。该概念由德国比较教育学家[[Oskar Anweiler|奥斯卡·安维勒]]（Oskar Anweiler）于 1967 年提出，并在[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）2009 年的学科史考察中被确立为欧陆比较教育学调和规范育人关怀与跨学科实证解释力的核心建制[[Paradigm|范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 比较教育学科定位模式对比
 > | 维度 | 交叉领域模式（欧陆/德国） | 独立分支模式（英国） | 工具性测量模式（北美/[[IEA]]） |
 > |---|---|---|---|
@@ -90,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **母体学科根基** 始终将受教育者的教化、人的形成以及教育体系与社会的内在价值关联作为核心问题意识，避免沦为缺乏价值反思的纯工程技术。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 > - **历史学维度** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料文献考证与思想史诠释方法。
 > - **社会学维度** 引入社会结构、阶级分层、国家政治形态与全球资本流动的结构性分析视角，使比较分析具备扎实的经验解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
@@ -133,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -149,8 +139,6 @@ updated: 2026-10-22
 > - **1990s–至今 — 全球化挑战与二元模式消解** 随着全球教育治理、跨国大规模测评与[[Intercultural Education|跨文化教育]]的兴起，欧陆传统的“母体交叉领域”与英国传统的“独立系所分支”二元格局逐渐被多边网络与超学科协同所重组。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] [[Disciplinary Institutionalization|学科建制]]路径的理论争议
 >

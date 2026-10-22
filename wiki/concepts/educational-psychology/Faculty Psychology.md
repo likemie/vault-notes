@@ -56,8 +56,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Faculty Psychology
-
 ---
 
 ## 定义
@@ -160,8 +158,6 @@ updated: 2026-10-22
 > **心智训练奠定法兰西精英教育传统** 霍尔斯指出，库森基于官能心理学对中等教育课程的构想，深刻摆脱了单纯[[Pragmatic Paradigm\|实用主义]]功利诉求，将“心智训练”升华为衡量受教育者的终极文化尺度，塑造了主导法国乃至欧陆中等教育长达一个多世纪的精英主义课程[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 30)]]；引自 Halls (1965:2)
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

@@ -32,10 +32,6 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-# Online Research Ethics
-
-## 定义
-
 > [!def] 核心定义
 > 在线[[Research Ethics\|研究伦理]]指利用互联网和数字通信技术（电子邮件、聊天室、在线社区、社交媒体等）收集研究数据时特有的伦理原则和操作考量。由于线上环境缺乏面对面研究中的物理在场和身份确定性，传统的伦理概念（如[[Informed Consent\|知情同意]]、隐私、保密）需要重新审视和调整（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 105–108]]）。
 
@@ -45,8 +41,6 @@ updated: 2026-10-22
 > - **边界** 在线研究伦理不能替代通用的[[Research Ethics\|研究伦理]]原则——不伤害、知情同意、隐私保护等基本原则仍然适用，只是在在线环境中需要不同的实现方式。
 
 ---
-
-## 核心要素
 
 > [!feature] 在线研究的三个特殊挑战
 
@@ -60,8 +54,6 @@ Hudson and Bruckman (2005, p. 298) 提出了一个关键发现：公共在线环
 Lewis (2006) 描述了他花了五个月时间与在线联系人建立信任关系。他在接触参与者进行研究之前，先作为在线社区成员发展了与参与者的信任关系。这提示在线研究的伦理实践可能需要比面对面研究更长的前期投入（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, p. 107]]）。
 
 ---
-
-## 操作指南
 
 > [!frames-ref] 互联网研究者协会（AoIR）伦理指南
 > Ess & the Association of Internet Researchers (2002) 制定（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 107–108]]）：

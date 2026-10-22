@@ -30,11 +30,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# International Baccalaureate Applied Chemistry Course
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 为最后一次正式化学学习重新组织知识用途
 > [[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）应用化学课程由[[International School of Geneva|日内瓦国际学校]]开发，以基础原理与可选应用领域构成辅助层级课程。它是[[Terminal Courses|终结性课程]]的一次实际设计尝试，面向可能不再继续深造化学的学生，使科学知识与离校后的生活、社会及产业问题保持联系。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 203–204)]]
@@ -49,8 +45,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案设计与运行机制
-
 > [!policy-design] 共同核心与应用选择的组合
 > - **共同核心** 学习基本化学原理，使不同学校仍共享学科基础。
 > - **应用领域** 课程提供八个可选领域，由学校选取三个；选择主体是学校，不能写成每名学生独立选择三个领域。
@@ -64,16 +58,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!timeline] 从教师开发到常规采用
 > - **开发阶段，年份未报告** 安东尼设计共同核心与应用领域相结合的辅助层级化学课程。
 > - **采用阶段，年份未报告** [[International Baccalaureate|IBO]]将课程列为常规选项。
 > - **1985年** 已有应用化学考生记录，可与常规辅助层级化学的使用规模对照。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 教师、组织与学校的不同职责
 > - **教师开发** 安东尼承担课程设计，[[International School of Geneva|日内瓦国际学校]]提供校本开发场景。
@@ -97,8 +87,6 @@ updated: 2026-10-22
 > - **未提供的效果指标** 没有学生兴趣、知识迁移、长期学习或大学入学结果，也没有与常规课程的控制比较。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!boundary]- 常规采用的范围与数据含义
 > 常规课程地位不能直接说明所有学校采用，也不能推定考生全部来自[[International School of Geneva|日内瓦国际学校]]。八个应用领域仅有三个例子可核对，不补造完整课程清单；课程属于1987年出版的历史记述，未提供后续运行状态。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]

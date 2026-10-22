@@ -48,11 +48,7 @@ created: 2026-09-03
 updated: 2026-10-16
 ---
 
-# Evaluation of Potential for Creativity
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Evaluation of Potential for [[Creativity]] (EPOC / EPoC)
 > - **工具类型** 多维创造潜能表现测验系统（涵盖发散与聚合双过程的认知表现测验）。
@@ -61,8 +57,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔或计算机辅助测试（团体或个别施测，总测验时间约 30–40 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 双过程与跨领域[[Creativity\|创造潜能]]（$2 \times 2$ 测评矩阵）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -76,14 +70,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** [[Open-Mindedness|开放性]]故事文本创作情境与多元素几何刺激组合构图。
 > - **作答格式** 手写言语短文陈述与画笔几何构图。
 > - **反向题与跳题** 无反向题；严格按照发散探索（限时快速生成）与聚合整合（深度构想整合）阶段交替施测。
-
-### 核心任务模块与评定要点
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -97,8 +87,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -108,8 +96,6 @@ updated: 2026-10-16
 > | Barbot et al. (2016) | EPOC 标准版 | 青少年与青年样本（$N = 432$），检验创造潜能的领域一般性与领域特异性结构 | 内部一致性 $\alpha = 0.81 \sim 0.88$ | 证实发散探索与聚合整合在言语和图形领域呈现显著的[[Domain Specificity\|领域特异性]]方差分解 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

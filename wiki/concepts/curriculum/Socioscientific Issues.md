@@ -53,11 +53,8 @@ status: draft
 created: 2026-09-22
 updated: 2026-10-22
 ---
-# Socioscientific Issues
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 社会科学议题（Socioscientific Issues, SSI）是指深植于现代科学技术前沿、具有内在争议性与结构不良（ill-structured）特征，且与社会伦理、道德、经济、生态和政治考量紧密交织的现实公共议题（如转基因技术应用、气候变化治理、基因编辑伦理、核能开发等）。由特洛伊·[[Michael Sadler\|萨德勒]]（Troy D. Sadler, 2004, 2009）与达纳·蔡德勒（Dana L. Zeidler, 2014）系统阐述的 SSI 教学取向，主张将此类现实议题作为科学课程的情境载体，促使学生开展[[Informal Reasoning\|非形式推理]]（Informal Reasoning）、权衡多元利益视角并为政策立场进行论辩，从而培育面向现代民主公共生活的批判性[[Scientific Literacy\|科学素养]]。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]
@@ -74,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学教育三大教学取向的[[Epistemology\|认识论]]辨析
 > | 维度 | 科学探究（Science Inquiry） | [[Engineering Education\|工程教育]]（Engineering Education） | 社会科学议题（Socioscientific Issues, SSI） |
 > |---|---|---|---|
@@ -85,8 +80,6 @@ updated: 2026-10-22
 > | **转基因案例** | 转基因玉米在受控光照下生长是否显著更快？ | 如何改良玉米基因以契合特定抗旱与收割要求？ | 是否应该允许将实验室转基因玉米引入自然生态系统？ |
 
 ---
-
-## 核心要素
 
 > [!feature] 社会科学议题教学的核心构成要素
 > - **结构不良的争议情境** 
@@ -132,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 社会科学议题核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -148,8 +139,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 认识论实践与公民审议融合** 结合多学科[[Heterogeneity\|异质性]]与微观[[Discourse Analysis\|话语分析]]，SSI 成为培育批判性公共[[Scientific Literacy\|科学素养]]与民主决策能力的核心支柱。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157)]]
 
 ---
-
-## 局限性与适用边界
 
 > [!warning] 适用局限
 > - **议题选择对学生认知负荷的要求** 过于复杂的议题（如前沿纳米技术安全性）可能超出低年级学生的学科知识储备，导致讨论沦为无事实依据的纯立场宣泄。

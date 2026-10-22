@@ -31,13 +31,9 @@ created: 2026-06-12
 updated: 2026-10-22
 ---
 
-# Combined Weighting AHP-EWM
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > AHP-熵权法组合赋权（Combined Weighting AHP-EWM）是一种将主观赋权和客观赋权相结合的多指标权重确定方法。它分别采用层次分析法（Analytic Hierarchy Process, AHP）获取基于专家判断的主观权重，采用熵权法（Entropy Weight Method, EWM）获取基于数据变异程度的客观权重，再通过最小二乘决策（Least Square Decision, LSD）模型求解综合权重，使综合权重与两种来源权重的总偏差最小。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 66–67)]]
 
 > [!quote|notitle]
@@ -46,9 +42,7 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
-> [!abstract|notitle]
+> [!abstract] 研究程序
 > 组合赋权分为三个独立模块，各模块可独立执行，LSD模型作为最终的融合机制。
 
 > [!line-a] 模块一：层次分析法（AHP）——主观赋权
@@ -62,9 +56,7 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
-> [!success|notitle]
+> [!success] 适用场景
 > 适合构建综合评价指标体系时需要确定指标权重的场景，尤其当：
 > - 既有领域专家知识可用、又有充分数据支撑时
 > - 单一赋权方法（纯主观或纯客观）难以令人信服时

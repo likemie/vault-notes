@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Elaborative Interrogation
-
 > [!metax] [精细询问 · Elaborative interrogation](https://www.visiblelearningmetax.com/influences/view/elaborative_interrogation)
 > 学生学习策略 › 元认知／自我调节学习
 >

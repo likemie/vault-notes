@@ -54,11 +54,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Enforcement Discretion
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 解释与执行裁量权（Enforcement Discretion / Discretion in Interpretation and Enforcement）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的双维核心解释[[Variable|变量]]之一。该概念打破了将“规则遵从”（[[Strategic Compliance|compliance]]）视为外生常数或自动达成均衡的传统假设，将其确立为充满权力博弈的动态变量；特指成文规约由于认知局限、妥协起草与现实复杂性不可消除的内生模糊性（inherent ambiguity），在司法判例、行政执法与日常实践落实端所留给执行主体的变通解释与操作自由度。成文法条与实际落实之间的“软肋与缝隙”（soft spots and gaps）构成了渐进变迁[[Emergence|涌现]]的微观温床；其高低水平与宏观[[Veto Possibilities|政治否决阻力]]（Veto Possibilities）共同决定了[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]与[[Institutional Conversion|制度转换]]四种演进形态，并对变革行动者角色产生系统筛选效应（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 10–14, 18–22]]）。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 制度主义三大学派对“规则遵从与裁量权”的[[Ontology|本体论]]设定辨析
 > | 维度 | 历史制度主义（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change\|Mahoney & Thelen, 2009]]） | 理性选择制度主义（North, Ostrom） | 社会学制度主义（DiMaggio & Powell） |
 > |---|---|---|---|
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > | **变迁动力学** | 行动者利用裁量权撬动转换或放任漂移 | 外生参数变动打破原有均衡再造新合约 | 组织[[Champ\|场域]]内的规范性同构与模仿扩散 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心维度与机制特征
 > - **[[Rule Ambiguity|规则内生模糊性]]（Inherent Rule Ambiguity）** 成文法律永远无法预料未来所有情境；立法过程中各派势力的政治妥协往往故意制造原则性、抽象性表述以求法案通过，这直接将冲突推迟至日常执行与司法判例阶段（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 11–12]]）。
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 典型案例
-
 > [!case] 美国 1964 年《民权法》EEOC 条款的执法裁量扩张（Lieberman 案例）
 > 罗伯特·利伯曼（Robert Lieberman, 2006）考证表明，美国 1964 年《民权法》第七章设立平等就业机会委员会（EEOC）时，国会保守派为了削弱其规制力量，剥夺了该机构直接发布具有约束力的停火令（cease-and-desist orders）的权力。然而，民权官僚与进步律师敏锐利用了法律条文中关于“调查并消除歧视”的宽泛裁量空间，策略性绕过国会监督，通过行政指导与个案诉讼直接向联邦法院申请司法审查。法院在宽泛裁量权下作出一系列扩张性司法判例，将原本羸弱的协调机构逐步转用为推行肯定性行动（Affirmative Action）与规制企业雇佣的最强行政机器，展现了裁量缝隙如何将妥协弱法反向重构为强法（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 13–14]]）。
 
@@ -170,8 +158,6 @@ updated: 2026-10-22
 > 克里斯·豪厄尔（Chris Howell, 1992）的研究表明，法国 1982 年社会党政府出台《奥鲁改革》（Auroux Reforms），原本旨在赋予工会法定权利，强制雇主进行年度集体谈判。然而，法律条文留下了关于“企业内部协商程序”的高度自由裁量权；法国私营雇主作为[[Opportunists|机会主义行动者]]，并未公然违法抗命，而是充分利用这一执行裁量空间，将企业级谈判重定向为绕开全国性战斗工会联合会、直接推行灵活用工与削减福利的工具，使旨在赋权工会的法律反转为资方削弱工会团结的利器（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 27–28]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >
@@ -188,8 +174,6 @@ updated: 2026-10-22
 > > - **制度演化论者** 强调面对高度不确定与快速变迁的外部环境，裁量权赋予了制度在不经历剧烈动荡的前提下实现功能自我调适的生命力。
 
 ---
-
-## 理论基础
 
 > [!ref-table] 理论渊源与分析透镜
 > | [[Theoretical Perspective\|理论视角]] | 核心代表 | 理论关联与解释机制 |

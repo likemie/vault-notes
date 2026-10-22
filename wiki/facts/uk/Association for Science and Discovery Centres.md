@@ -39,11 +39,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Association for Science and Discovery Centres
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景与行业版图
 > - **组织性质与网络规模** 英国全国性慈善行业枢纽组织，代表全英超过 60 所主要的科学与探索中心（Science and Discovery Centres）、科技博物馆、环境科学场馆、动植物园及大学附属展馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 44–45)]]
@@ -59,8 +55,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心行动与战略倡议
-
 > [!claim] 核心行业倡导与政策赋权
 > ASDC 致力于打破非正式科学部门在政府部门划分中处于科技创新部（DSIT）、教育部（DfE）与文化体育部（DCMS）缝隙边缘化的困境，积极推动跨界政策认可、长期战略资助与财税激励平权。
 
@@ -73,8 +67,6 @@ updated: 2026-10-22
 >   协同英国皇家学会呼吁财政部修订税法，确保科学探索中心与科学节等非正式科学机构能够享受与国家美术馆、剧院及管弦乐团完全平等的剧场/展览税收减免（Theatre and Exhibition Tax Relief）政策，并在政府采购中全面落实 10% [[The Social Value Model\|社会价值模型]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]]
 
 ---
-
-## 地理分布与区域网络
 
 > [!dev-timeline] 英国科学探索中心网络的地理格局
 > - **伦敦与大都市圈枢纽** 伦敦科学博物馆（Science Museum）、弗朗西斯·克里克研究所（Francis Crick Institute）、伦敦自然历史博物馆（NHM）等；

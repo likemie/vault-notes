@@ -38,8 +38,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Jing (Refined Mastery)
-
 > [!info] 定义
 > 精（jing）是中国学习概念中勤奋／自勉（diligence/self-exertion）三阶段过程的**终极目标**——继熟（熟）和练（练习）之后，学习者达到的一种精炼、完美的掌握状态。Li 将其描述为"一种不适合清晰定义或表述的状态——因为只有最伟大的大师才能达到并展示这种状态"([[Argument_Li_2012_Cambridge\|Li, 2012, p.134]])。
 
@@ -63,9 +61,7 @@ updated: 2026-10-22
 
 ---
 
-## 庖丁解牛：精的典范
-
-> [!example|notitle]
+> [!example] 庖丁解牛：精的典范
 > Li 引用《[[Zhuangzi\|庄子]]》中庖丁解牛的故事作为精的最佳例证([[Argument_Li_2012_Cambridge\|Li, 2012, pp.134-136]])：
 
 > [!quote|notitle]
@@ -84,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 入道与出道：精的两阶段
-
-> [!note|notitle]
+> [!note] 入道与出道：精的两阶段
 > Wong（2004）提供了对中国学习方法论的进一步说明，Li 将其纳入精的[[Analytic Framework\|分析框架]]([[Argument_Li_2012_Cambridge\|Li, 2012, pp.131-132]])：
 
 | 阶段 | 名称 | 含义 |
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **精 vs 掌握（mastery）** 西方教育心理学中的 mastery 倾向于指对特定知识或技能的充分掌握——可以用考试分数或行为标准来衡量。精则不同——它不可量化，不是"及格线"意义上的掌握，而是一种**存在状态**——技能或知识已经内化为人的一部分，以至于运用时无需思考([[Argument_Li_2012_Cambridge\|Li, 2012, p.134]])。
 
 > [!example|notitle]

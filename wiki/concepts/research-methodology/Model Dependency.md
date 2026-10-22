@@ -68,11 +68,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Model Dependency
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 模型依赖性（Model Dependency，亦称模型敏感性或形式设定依赖）指在同一批经验观测数据上，由于统计分析者所选取的底层数学建模假定（如协[[Variable\|变量]]纳入规则、群聚结构校正方式、[[Fixed-Effect Model|固定效应]]与[[Random-Effects Model|随机效应]]设定）不同，导致干预因果[[Effect Size\|效应量]]的点估计值、[[Confidence Interval\|置信区间]]宽度及统计学显著性（$p$ 值）发生大幅漂移乃至定性翻转的现象（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 52]]）。该概念揭示了即便数据采集真实无欺，实证结论仍高度脆弱地依附于分析者主观模型设定的方法学困境（Xiao, Higgins, & Kasim, 2016）。
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 实证推断偏倚与不确定性来源对比
 > | 比较维度 | 模型依赖性 (Model Dependency) | [[Researcher Degrees of Freedom\|研究者自由度]] (Researcher Degrees of Freedom) | [[Sampling Error\|抽样误差]] (Sampling Error) |
 > |---|---|---|---|
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Covariate Adjustment\|协变量调整]]设定（Covariate Adjustment）** 模型是否纳入基线[[Pre-test and Post-test\|前测]]考分或受试者背景特征作为控制[[Variable\|变量]]。纳入高预测力前测可大幅吸收残差方差、提高估计精度，但若基线存在不平衡则可能扭曲估计斜率。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 > - **集群结构校正（Clustering Architecture）** 数据嵌套于班级或学校时，是否引入[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）校正。忽略层级嵌套的 [[Ordinary Least Squares\|OLS]] 模型会严重低估[[Standard Error\|标准误]]，导致虚假的[[Statistical Significance\|统计显著性]]；而多层模型（[[Hierarchical Linear Model\|MLM]]/HLM）或[[Generalized Estimating Equations\|广义估计方程]]（GEE）则会拉宽[[Confidence Interval\|置信区间]]。
 > - **效应结构假定（Fixed vs [[Random-Effects Model|Random Effects]]）** 究竟将群聚单元视为[[Fixed-Effect Model|固定效应]]（仅推论至参试学校）还是随机截距/随机斜率（推论至总体分布），直接决定了误差方差的分解方式。
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -170,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变与学术脉络
 > - **1980s — 勒默尔的极端界限分析（Extreme Bounds Analysis）** 经济学家爱德华·勒默尔（Edward Leamer, 1983）发表著名论文《让我们从计量经济学中除去欺瞒》（Let's Take the Con Out of Econometrics），首次系统形式化了“设定依赖性”（Specification Dependence），指出回归模型结果因控制[[Variable\|变量]]的微调而剧烈变动。
 > - **2000s — [[Hierarchical Linear Model\|多水平模型]]普及带来的分析分裂** 伴随分层线性模型（HLM）在教育学普及，传统 [[Ordinary Least Squares\|OLS]] 与多层模型之间的结果冲突频发，学界开始意识到忽视嵌套结构会导致严重的假阳性。
@@ -179,8 +167,6 @@ updated: 2026-10-22
 > - **2018–至今 — 统计分析指南（[[Statistical Analysis Plan\|SAP]]）时代确立** 《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）与 [[CONSORT-SPI]] 报告标准的全面融合，标志着[[International Education\|国际教育]]实证科学从允许自由探索模型，正式步入前置锁定分析模型的规约化时代。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -197,8 +183,6 @@ updated: 2026-10-22
 > 模型依赖性分析主要针对复杂的嵌套数据与现场准实验/随机试验。在单水平纯随机且基线完全平衡的简单物理或实验室实验中，模型设定的敏感性相对较低。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

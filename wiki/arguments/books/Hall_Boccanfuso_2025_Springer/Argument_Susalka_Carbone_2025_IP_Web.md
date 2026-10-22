@@ -52,7 +52,6 @@ citation_aliases:
   - "Susalka & Carbone, 2025"
   - "Susalka & Carbone (2025)"
 ---
-# Argument_Susalka_Carbone_2025_IP_Web
 
 ---
 
@@ -62,8 +61,6 @@ citation_aliases:
 > 由此产生一个实践层面的根本问题：如何在保护大学发表自由和避免 IP 负担的同时，满足企业对[[Freedom to Operate\|自由实施权]]和商业排他性的需求？化解这一矛盾的关键不在于某一方让步，而在于合同条款的精细化设计：通过明确界定前景 IP 与背景 IP、合理设计权利转让的层级结构，使 IP 从合作的绊脚石变为助推器。
 
 ---
-
-## 理论框架
 
 > [!note] 分析视角
 > 不采用严格的学术理论，而是基于[[University-Industry Collaboration\|产学合作]]实务中的制度分析视角。核心逻辑链为：**组织使命差异 → IP 利益的结构性冲突 → 合同条款的精细化设计来弥合冲突**。论证围绕三组概念展开：
@@ -221,8 +218,6 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 
 ---
 
-### 第六步：BIP 条款
-
 > [!warning] BIP 谈判的结构性困境
 > 与 FIP 相比，BIP 条款是产学协议中最激烈的谈判焦点。产业方的逻辑很直接：如果合作中产生了有价值的 FIP，必须有足够的 FTO 来利用它，而这可能需要访问大学的既有 IP。在极端情况下，企业甚至可能要求大学**赔偿其因第三方 IP 侵权造成的损失**。几乎没有大学会同意这一条款(p.280)。
 >
@@ -317,8 +312,6 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 
 ---
 
-### 第十步：内部沟通
-
 > [!warning] 谈判者与执行者的信息断裂
 > 产学合作的 IP 条款通常由大学的[[Technology Transfer Office\|技术转移办公室]]（[[Technology Transfer]] Office, TTO）、赞助项目办公室（Sponsored Programs Office, SPO）或法务办公室（Office of General Counsel, OGC）谈判。首席研究员（Principal Investigator, PI）通常深度参与工作范围和预算的制定，并可能与产业方的科学同行就技术细节保持密切沟通。但 IP 条款的谈判反而常常在 PI 的视野之外进行。当 PI 最终看到一份已签署的协议时，可能对其中的 IP 义务一无所知(pp.284–285)。
 >
@@ -338,8 +331,6 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 
 ---
 
-## 主要发现
-
 > [!success] 核心结论
 >
 > - **结构性冲突的根源在于组织使命差异** 大学以知识传播和发表为核心使命，产业以市场竞争优势和股东回报为核心目标。这一根本差异不可消除，只能通过制度设计来管理(pp.272–273)。
@@ -354,9 +345,7 @@ IP 条款还需规范三个重要的操作层面(pp.283–284)。
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "Intellectual property may be one of the most valuable outcomes of UI collaboration—and may often be the most complex and highly negotiated aspect."(p.272)
 
 > [!quote|notitle]

@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# The Right and the Good
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 正当与善（The Right and the Good）是政治哲学与伦理学中的基础概念对子：“正当”（The Right）指向规定个体基本权利、法律程序与分配正义的普遍规范与底线原则；“善”（The Good）则指向关于人生意义、德性卓越、[[Buen Vivir|美好生活]]（Good Life）与共同体终极价值的实质性构想。当代自由主义体制过度强调“正当优先于善”（The Priority of Right over Good），导致公共讨论与教育体系逐渐将一切对“善”的探索与价值决断驱逐出公共领域。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 80–82)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > *Justice is the skeleton: the good life is the flesh and blood.*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 正当（The Right）与 善（The Good）的维度对比
 > | 维度 | 正当（The Right / 正义） | 善（The Good / [[Buen Vivir\|美好生活]]） |
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > **包容一切异化为一无所信** [[Postmodernism|后现代主义]]对所有规范性主张的解构，虽然消除了排他性偏见，但也剥夺了社会做出道德与审美判断的基准；对所有事物的无条件包容，最终不可避免地滑向对任何崇高原则的一无所信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 73–74, 80–81)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

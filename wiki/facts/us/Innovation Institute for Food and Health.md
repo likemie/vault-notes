@@ -34,8 +34,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Innovation Institute for Food and Health
-
 > [!info] 概述
 > 食品与健康创新研究所（Innovation Institute for Food and Health, IIFH）于 2015 年由 Mars and UC Davis 共同建立，愿景是"让我们所爱的食物对全人类和地球更健康"（p.321）。IIFH 是 Mars and UC Davis 四十年合作从项目到网络再到平台三阶段演化中第三阶段的代表性产物，即制度化创新平台。
 

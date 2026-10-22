@@ -57,11 +57,7 @@ created: 2026-05-20
 updated: 2026-10-22
 ---
 
-# Gamification
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **游戏化（Gamification）** 指将积分、徽章、排行榜与即时正向反馈循环等游戏机制，系统应用于非游戏情境（如学校教育、组织管理、家庭育儿或公共政策培训）以激发用户参与、调节目标行为并维持交互黏性的设计策略（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, p. 236]]；引自 Zichermann & Cunningham, 2011）。在教育技术与算法治理视域下，游戏化植根于操作条件反射与[[Behaviorism|行为主义]]心理学逻辑，通过数字化代币奖励塑造可预测、可重复且具商业回报的交互体验（[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 236–237]]）。在全球教育治理层面，多边国际机构亦将游戏化与同行评审模块引入在线研修网络，构建高交互度的政策决策者培训系统（[[Argument_Zapp_2017_IJED|Zapp, 2017, p. 8]]）。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > | **内容地位** | 内容常被碎片化为完成刷分任务的载体 | 内容深度融入游戏世界观与解谜机制 | 内容作为师生对话与认知互动的中介 | 内容构成教学行动的理由与核心意义源泉 |
 
 ---
-
-## 核心要素
 
 > [!feature] 游戏化设计的五大核心机制与理论构件
 > - **外显代币与数值量化（Points & Numerical Scoring）** 将学生的学习动作转换为标准化数字指标，为原本不可[[Commensuration|通约]]的认知过程赋予统一的可计算分值，使交互行为呈现为连续的数据流。[[Argument_Jornitz_2022_Bildung_algorithmic|(Jornitz & Klinge, 2022, p. 236)]]
@@ -182,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用情境与解释对象 | 代表学者与文献 |
 > |---|---|---|---|
@@ -203,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 动机激发工具 vs [[Behaviorism|行为主义]]操纵装置
@@ -223,8 +213,6 @@ updated: 2026-10-22
 > 游戏化设计在低阶[[Procedural Skill|程序性技能]]演练、记忆事实检索与操作合规培训中具备较高的任务调动效能；在涉及概念重构、审美体悟、哲学沉思与长周期人格教化等需要直面认知顿挫与时间延宕的复杂教育场景中，游戏化机制具有明显的表层化局限与目标置换风险。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

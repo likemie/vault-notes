@@ -58,11 +58,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Statistical Normalisation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **统计正态化（Statistical Normalisation）** 在[[Evidence-Based Education\|循证教育]]改革、[[Randomised Controlled Trials\|随机对照实验]]与教育政策量化评估中，指一种以高斯正态分布（Gaussian Normal Distribution）为核心数理假设的[[Epistemology\|认识论]]倾向与政策治理机制。该机制将干预手段在样本群体中所取得的平均[[Effect Size\|效应量]]（Mean Effect Size）与集中趋势视为评判干预是否有效与值得推广的最高金标准；其在技术上将分布曲线两端的极端案例、[[Heterogeneity\|异质性]]个体与处于困境的边缘学生判定为可被滤除的统计学离群值（Outliers），在政治与行政上则包装为追求公共财政物有所值（Value for Money）与立即可用性的功利主义修辞，进而从制度层面剥夺了最脆弱弱势群体的受托权益与教师因材施教的专业伦理裁量权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
@@ -93,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **高斯均值霸权与集中趋势崇拜** 将[[Statistical Significance\|统计显著性]]与平均干预[[Effect Size\|效应量]]确立为衡量方案优劣的唯一权威尺度，将偏离中心趋势的复杂生态强行平滑化。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 225–226)]]
 > - **两极离群弱势群体的制度性抹杀** 在追求统计效力的模型计算中，正态分布两端的特异群体（如重度残障、极端贫困或双重少数族裔儿童）在数学上被直接忽略，导致其诉求在政策分配中彻底失声。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 226–227)]]
 > - **物有所值的功利主义治理修辞** 借用可用性与公共[[Return on Investment\|投资回报]]率（Value for money）等新自由主义修辞，将公共科研资金垄断性投向便于标准化产出的大规模因果实验。
@@ -157,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -175,8 +167,6 @@ updated: 2026-10-22
 > - **2022 年 — 批判性教育证据治理反思** 日本学者牧人友利田在 [[OECD]] 专题对话中，系统提炼并批判了教育证据治理中的统计正态化陷阱，呼吁在追求科学严谨的同时必须坚守捍卫弱势离群群体的专业受托伦理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -196,8 +186,6 @@ updated: 2026-10-22
 > 对统计正态化的批判旨在揭示均值霸权的伦理盲区，决不应被扭曲为否定量化统计科学的虚无主义或反智主义借口；科学的前途在于将高阶统计工具与严谨质性临床个案实现互补融合。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

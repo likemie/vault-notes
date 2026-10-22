@@ -52,11 +52,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Tom Schuller
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育学者与政策研究者，英国社会[[Chinese Academy of Sciences|科学院]]（Academy of Social Sciences, AcSS）院士，长期从事[[Lifelong Learning\|终身学习]]（Lifelong Learning）、社会资本与教育[[Epistemic Governance\|知识治理]]研究；2022年与 [[Tracey Burns]] 合著 [[OECD]] 章节时以独立研究者身份参与，依托英国学术共同体。
@@ -72,17 +68,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作（精选）
 > - **2007 — *Evidence in Education: Linking Research and Policy*（与 Burns 合编）** 奠定全球[[Educational Brokerage Agency\|教育中介机构]]比较研究的基准框架，确立 [[What Works Clearinghouse\|WWC]]、[[EPPI-Centre]]、BES 等早期六大标杆案例，将"连接研究与政策"的议题系统化为可测量的机构[[Typological Analysis\|类型学分析]]对象。
 > - **2022 — "History and Evolution of Brokerage Agencies in Education"（与 Burns 合著）** 通过 15 年纵向追踪，提出后真相时代教育[[Knowledge Mediation\|知识中介]]的系统性困境：证据向实践倾斜引发政策脱责、"证据知情"标签被商业挪用、政治预算短周期导致中介高夭折率。最终倡导通过跨国元中介协作建构累积性教育知识库。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 55–72)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > Schuller 的学术关注点在于[[Lifelong Learning\|终身学习]]与[[Epistemic Governance\|知识治理]]在制度层面的系统性连接。他与 Burns 共同确立的核心诊断是：教育[[Knowledge Mediation\|知识中介]]的存续危机根本上是政治与预算治理结构失灵的结果，而非学术质量问题；单一机构在缺乏跨国元协作的情况下，既无法建立具备广泛社会公认度的知识基础，也无法抵御政党轮替与商业利益的侵蚀。唯有通过"中介的中介"机制与二阶[[Systematic Review\|系统综述]]，才能完成从"学术证据孤岛"向"全球公认知识大厦"的跃升。
 
 > [!citation-card] Burns & Schuller 论中介机构夭折的政治根源
@@ -92,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将[[Lifelong Learning\|终身学习]]的广谱视野与中介机构的机构生态学分析相结合，使教育[[Epistemic Governance\|知识治理]]的讨论超越单一学段与单一国别局限，推动跨生命周期、跨制度语境的比较研究框架。
 > - **政策路径** 通过 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告与学术出版，为英国及欧洲教育政策界在"后真相时代"重新审视中介机构的制度定位与资助机制提供了重要理论依据。
 > - **跨国传播** 2007 年首次系统性梳理全球[[Educational Brokerage Agency\|教育中介机构]]的研究，直接影响了 2010 年代[[EU|欧盟]] EIPEE/[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络的建立以及多国政府对中介机构治理模式的反思。

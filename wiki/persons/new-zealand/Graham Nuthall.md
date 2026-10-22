@@ -46,12 +46,9 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Graham Nuthall
 （格雷厄姆·纳撒尔）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 新西兰坎特伯雷大学（University of Canterbury）教育学教授、实验教育心理学家，20 世纪下半叶国际课堂[[Ethnography|人种志]]与学习微观过程研究先驱。
@@ -68,16 +65,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2007 — *The Hidden Lives of Learners*** 汇集数十年课堂实证追踪成果，系统揭示独立于教师视线之外的学生半私人社交网络与私人思维世界，系统颠覆以教师为中心的课堂假象。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 课堂是由公共世界、半私人同伴世界与私人心智世界交织的三重生态系统；教师受注意力分配与生理观察极限约束，无法觉察课堂中绝大多数真实发生的心智加工与同伴微观互动，因而教学改进必须跨越单一依靠教师主观经验反思的局限，聚焦于学生实际经历的认知变化证据。
 
 > [!citation-card] [[John Hattie|哈蒂]]论纳撒尔课堂盲区发现对可见性概念的启发
@@ -87,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创微观课堂生态学分析[[Paradigm|范式]]，将教育心理学实验严谨性与[[Ethnography|人种志]]自然观察相结合，促使[[International Education|国际教育]]界重新审视[[Peer-Supported Learning|同伴文化]]与隐性心智加工。
 > - **方法路径** 首创多通道随身音频监听与[[Transcription in Qualitative Research|逐字转录]]技术，成为当代课堂互动分析与质性微观转录的重要前驱。
 > - **跨国／跨领域传播** 纳撒尔关于教师知觉盲区的量化发现被[[John Hattie|约翰·哈蒂]]（John Hattie）吸纳为《[[Visible Learning|可见的学习]]》底层理论依据，并进一步催生了移动端客观课堂监控与即时转录工具[[Visible Classroom]]的研制。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]

@@ -56,11 +56,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Scapegoat Mechanism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **替罪羊机制（Scapegoat Mechanism）** 指人类社会与组织系统在经历内部危机、制度性失能或道德失调时，通过将自身的过错、焦虑与深层矛盾投射转嫁给特定的牺牲性客体（Sacrificial Receptacle），并对其施加舆论声讨、合规清算或名誉放逐，从而在修辞与心理上仪式化卸除集体罪咎感、恢复表层秩序稳定的社会文化防御机制。在[[Kenneth Burke|肯尼斯·伯克]]（[[Kenneth Burke]]）与[[René Girard|勒内·吉拉尔]]（[[René Girard]]）的经典理论中，该机制是维系群体整合与化解模仿冲突的古老仪式；而在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的现代制度诊断中，替罪羊机制被进一步揭示为官僚体制掩盖战略无能的退行性病理——当系统无法交付重大战略成果时，平庸官僚往往退守“[[Procedural Piety|程序虔敬]]”，以严苛的微观道德审判将打破常规的功勋实干家（如[[Hyman Rickover|海曼·里科弗]]）献祭为替罪羊，导致公共部门陷入持续平庸与[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 替罪羊机制与相近概念辨析
 > | 维度 | 替罪羊机制（Scapegoat Mechanism） | 平庸之恶（[[Banality of Evil]]） | 模仿冲突（[[Mimetic Theory]]） | 官僚合规异化（[[Red Tape]]） |
 > |:---|:---|:---|:---|:---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **治理后果** | 掩盖体制深层缺陷，逆向淘汰敢于突破规章的实干精英 | 导致系统性非人道恶果或严重管理灾难 | 诱发全面秩序崩溃，最终触发全员暴力献祭 | 造成公共部门[[Innovation Desert\|创新荒漠]]与战略能力退化 |
 
 ---
-
-## 核心要素
 
 > [!feature] 替罪羊机制的运作要素
 > - **集体罪咎与认知失调（Collective Guilt & Dissonance）** 社会或组织遭遇结构性失败、制度惰性或重大战略危机时积累的广泛焦虑。
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 替罪羊机制的核心理论命题归纳
 > | 命题维度 | 核心理论指向 | 适用情境 | 代表学者与实践者 |
 > |:---|:---|:---|:---|
@@ -167,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 替罪羊机制的理论与历史演进
 > - **古代宗教起源 — 仪式化罪孽转嫁** 源于古代希伯来《利未记》中的阿撒泻勒之羊仪式，祭司将全民众人的罪过按手于山羊头上并驱逐至荒野，开创象征性净化原型。
 > - **1935 年 — 戏剧主义修辞学理论奠基** [[Kenneth Burke|肯尼斯·伯克]]在《持久与变迁》中从修辞学和戏剧主义视角系统阐述替罪羊机制，确立“献祭容器”与集体罪咎释负的核心分析[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > - **2025 年 — [[Technological Republic|技术共和国]]与[[Procedural Piety|程序虔敬]]批判** 卡普与扎米斯卡在《技术共和国》中将替罪羊机制作为诊断现代西方治理衰退的关键病理，呼吁重塑容忍复杂人性、以实战交付为最高准绳的[[Engineering Mindset|工程思维]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–189)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >
@@ -198,8 +184,6 @@ updated: 2026-10-22
 > 替罪羊机制适用于解释针对打破常规之实干者的非理性道德围剿；但不应被滥用于为真正的严重贪腐、背叛公共信托或重大违法犯罪行为进行脱罪辩护。健康的制度应当严格区分恶意违法与为攻克国家战略难关而产生的主动担责探索。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 替罪羊机制的历史案例与实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

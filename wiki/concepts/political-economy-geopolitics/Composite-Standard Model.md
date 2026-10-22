@@ -39,11 +39,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Composite-Standard Model
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Evolutionary Economics|演化经济学]]、科技政策与[[Path Dependence|路径依赖]]理论中用以解释复杂技术协议与大型制度系统连续性机制的核心模型；由政治学者泰勒·博阿斯（Taylor Boas, 2007）系统提出。该模型将复杂系统划分为底层的“核心复合标准”（Composite Standard，如互联网 TCP/IP 协议）与建构于其上的“外围简单标准序列”（Simple Standards，如电子邮件、网页浏览与文件传输协议）；核心标准为外围应用提供通用基础平台，外围应用的繁荣叠加（博阿斯称之为“厚度商”，Thickness Quotient）虽然在表面上呈现出活跃的图层累加，但由于外围构件必须依赖底层核心运作，这一过程不仅没有改变核心规则，反而呈指数级推高了全系统的迁移转换成本，将核心标准彻底锁死。（Boas, 2007; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 13]]）
@@ -64,8 +60,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 复合标准模型与相关概念辨析
 > | 维度 | 复合标准模型（Composite-Standard Model） | [[Institutional Layering\|制度层叠]]（Institutional Layering） | 简单[[Path Dependence\|路径依赖]]模型（Simple Increasing Returns） |
 > |---|---|---|---|
@@ -75,8 +69,6 @@ updated: 2026-10-22
 > | **代表文献** | Boas (2007); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | [[Kathleen Thelen\|Thelen (2004)]]; Mahoney and Thelen (2010) | David (1985); Arthur (1989) |
 
 ---
-
-## 核心要素
 
 > [!feature] 复合标准模型的核心构成要素
 > - **底层核心复合标准（Core Composite Standard）** 系统的基础底层协议或法定元规则（如网络 TCP/IP 协议、基础学科核心课程），具有高度抽象性与通用连接功能。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
@@ -120,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 复合标准模型核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -130,16 +120,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 复合标准模型概念演进
 > - **1985–1989 — 报酬递增与[[Path Dependence|技术锁定]]数学模型奠基** 保罗·戴维与布莱恩·阿瑟（David, 1985; Arthur, 1989）建立经典路径依赖[[Analytic Framework|分析框架]]。
 > - **2007 — 博阿斯正式建立复合标准模型** 泰勒·博阿斯发表经典论文，将互联网 TCP/IP 与应用层标准形式化为复合标准模型，提出厚度商概念。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
 > - **2011 — [[Jeroen van der Heijden|范德海登]]学术史反思与边界界定** 范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）通过系统文献考证，指出博阿斯将该模型与[[Institutional Layering|制度层叠]]相挂钩属于概念错置，确立其作为路径依赖与制度再生产典型[[Paradigm|范式]]的真实定位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 

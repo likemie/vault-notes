@@ -36,11 +36,7 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Co-location (University-Industry)
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 产学共同选址（co-location）指产业与大学人员在[[Grandes Ecoles|大学校]]园内的专用空间中共同开展研究活动的合作模式。[[University Industry Demonstration Partnership\|UIDP]]（2019）将其定义为"产业与大学人员在专用空间中有目的地结合，成本共担，进行积极的合作或独立研究，其战略意图是通过减少位于不同设施所带来的沟通和文化壁垒来促进思想交流"（p.317）。
 
 > [!quote|notitle]

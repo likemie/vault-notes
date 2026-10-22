@@ -83,11 +83,7 @@ created: "2026-08-26"
 updated: 2026-10-22
 ---
 
-# Practice-Based Evidence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 实践本位证据（Practice-Based Evidence, PBE）指教育实践者在真实教学现场生成的细粒度、情境化知识与微观过程数据。它区别于外部研究者在受控实验室或标准化测试中产出的去情境化结论，将一线教师确立为合法的证据生产主体；通过在具体教学情境中持续沉淀[[Phronesis\|实践智慧]]，形成性地支持教师专业学习、教学策略微调与学生学业成长。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]; [[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
@@ -114,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 实践本位证据（PBE） | 实验证据本位（[[Evidence-Based Education\|EBE]] / [[Randomised Controlled Trials\|RCT]]） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | 研究知情教学（[[Research-Informed Teaching Practice\|RITP]]） |
 > |---|---|---|---|---|
 > | **证据生产主体** | 一线教师、教研组、[[Snowball Sampling\|网络化]]改进共同体 | 专业学术研究者、智库、第三方评估机构 | 学校管理层、测试机构、行政督导部门 | 学术期刊作者、二次研究合成专家 |
@@ -130,8 +124,6 @@ updated: 2026-10-22
 > - **形成性支持 vs 终结性评判** 实验证据常用于证明方案最终是否有效，PBE 则贯穿教学微观过程，持续诊断学习卡点并迭代方案。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
-
-## 核心要素
 
 > [!feature] 实践本位证据的核心构成特征
 > - **细粒度情境相关性（Fine-Grained Contextuality）** 紧扣特定班级、学生群体与具体教学环节的真实动态，捕捉宏观[[Quantitative Research\|量化研究]]所抹杀的情境变异。
@@ -224,8 +216,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -247,8 +237,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 方法严谨性与普适推广性质疑
@@ -266,8 +254,6 @@ updated: 2026-10-22
 > - **探究时间与组织支持赤字** 生产高质量 PBE 需要制度化的教研时间、数据分析技能与中介支持；在沉重教学负担与考核压力下，探究易退化为形式化记录。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

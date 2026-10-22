@@ -75,11 +75,7 @@ status: active
 created: 2026-10-02
 ---
 
-# Donald Stokes
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学家、公共政策学者、科学与技术政策理论家；普林斯顿大学伍德罗·威尔逊公共与国际事务学院（Woodrow Wilson School of Public and International Affairs）院长（1974–1992）；曾任密歇根大学政治学教授、社会研究所（ISR）资深研究员及英国纳菲尔德学院访问学者。
@@ -107,8 +103,6 @@ created: 2026-10-02
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950s–1960s — 经验政治学与选民行为实证研究奠基期** 运用大规模调查抽样与统计方法分析公众政治心理与投票行为。
 >   - **代表著作** *The American Voter* (1960); *Elections and the Political Order* (1966)。
@@ -122,9 +116,7 @@ created: 2026-10-02
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（纯基础研究）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技[[Competitiveness|竞争力]]与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
 
 > [!citation-card] 樊春良论斯托克斯与冷战后科学契约的再协商
@@ -158,8 +150,6 @@ created: 2026-10-02
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 基础研究的战略庇护 vs 外部问责与管理主义引线
@@ -175,8 +165,6 @@ created: 2026-10-02
 > > - **科学政策学界辩护** 斯托克斯的支持者认为，帕斯德象限直面了华盛顿联邦科研预算分配的政治现实；在国会要求科研展现现实回报的政治压力下，该框架成功保护了基础研究免受彻底短视商业化的冲击，为战后美国学术界保全了从事重大战略问题前沿探索的预算空间。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关文献索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中吸收斯托克斯[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，从后工业政治经济学视角论证现代重大突破均发生在[[Use-Inspired Basic Research|应用启发的基础研究]]象限，为联邦跨部门公共研发网络主动介入[[Valley of Death|死亡之谷]]、开展概念验证与网络撮合确立了技术[[Epistemology|认识论]]基石。

@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Everyday Plebiscite
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **每日公民投票（Everyday Plebiscite，法文：*Un plébiscite de tous les jours*）**由法国思想家[[Ernest Renan|欧内斯特·勒南]]（[[Ernest Renan|Ernest Renan]]）于 1882 年在巴黎索邦大学著名演讲《什么是民族？》（*Qu'est-ce qu'une nation?*）中提出，是现代公民民族主义（Civic Nationalism）的基石概念。勒南主张，民族的实质是一种宏大的道德团结（a vast solidarity），由过去共同付出的牺牲记忆与当下明确表达的共同生活意愿所构成；民族的存在并非取决于血缘、语言、宗教或地理疆界的客观强加，而是依靠全体国民在精神上每天自愿进行的默示投票与持续确认。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 199)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 民族认同建构[[Paradigm|范式]]对比
 > | 比较维度 | 族裔血缘原生论 | 勒南每日公民投票论 | 后现代[[Cosmopolitanism\|世界主义]] / 去国家化 |
 > |---|---|---|---|
@@ -81,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **过去维度的共同牺牲（Shared Historical Sacrifices）** 共同体历史不仅是荣耀的记录，更是共同承受痛苦、危机与历史牺牲的精神沉淀；共同受难比共同胜利更能铸就深层纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Renan, 1882/2018; Karp & Zamiska, 2025, p. 199)]]
 > - **当下维度的自愿同意（Present Consent & Affirmation）** 成员对国家制度、法治原则与公共事业的日常自愿效忠与参与。
 > - **未来维度的共同愿景（Future Purpose）** 愿意为了子孙后代跨越千年的长远繁荣继续合作、共同承担战略防卫与建设重任。
@@ -124,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -140,8 +130,6 @@ updated: 2026-10-22
 > - **2025 — 科技[[Geopolitics|地缘政治]]与西方复兴** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中重提每日公投，作为克服西方去国家化倦怠与重建科技[[Hard Power|硬实力]]的核心思想基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–201)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 每日公投概念的实践性与规范性之争
 >

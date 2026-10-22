@@ -41,11 +41,7 @@ created: 2026-06-30
 updated: 2026-10-16
 ---
 
-# California Critical Thinking Disposition Inventory
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 加州[[Critical Thinking\|批判性思维]]倾向[[Questionnaire\|问卷]]
 > - **工具类型** 七十五题商业化自陈问卷。
@@ -54,8 +50,6 @@ updated: 2026-10-16
 > - **实施方式** 自陈。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -80,8 +74,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -92,8 +84,6 @@ updated: 2026-10-16
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | CCTDI 英文/多语版 | 作为人工智能教育应用一阶元分析中[[Critical Thinking\|批判性思维]]与[[Higher-Order Thinking Skills\|高阶思维技能]]的操作化测评工具 | 纳入高阶思维技能（HOTS）合成模型 | 证实 AI 赋能教学对高阶思维产出具有显著促进效应（$ES = .63$） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

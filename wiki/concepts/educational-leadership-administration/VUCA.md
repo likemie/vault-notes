@@ -29,8 +29,6 @@ created: 2026-05-21
 updated: 2026-10-22
 ---
 
-# VUCA
-
 > [!info] 定义
 > VUCA 是一个四维分析缩写，分别指**波动性（volatility）**、**不确定性（uncertainty）**、**复杂性（complexity）** 和**模糊性（ambiguity）**，由 Hughes（2018, p.xiv）引入教育领域讨论，用于描述 21 世纪教育面临的挑战环境([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.264]])。
 

@@ -82,11 +82,7 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# NSF I-Corps
-
 ---
-
-## 计划定位与宗旨
 
 > [!claim] 核心定位
 > [[National Science Foundation|美国国家科学基金会]]创新兵团（NSF Innovation Corps，简称 NSF I-Corps）是[[National Science Foundation|美国国家科学基金会]]（NSF）于 2011 年创设、旨在加速高校基础科学与工程研究向商业生产力转化的国家级旗舰创业转化与培育计划。I-Corps 打破了传统“只下拨科研经费而不过问商业可行性”的线性拨款逻辑，将硅谷精益创业（Lean Startup）方法论体系化引入学术界，依托“创业领队（研究生/博士后）+ 技术主管（教授/PI）+ 产业导师（经验企业家/投资人）”的三元团队架构与高强度“客户发现”（Customer Discovery）实训，帮助学术团队在极早期验证市场需求、识别产品与市场契合度（Product-Market Fit），从制度源头跨越科技成果转化的“[[Valley of Death|死亡之谷]]”。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与立法授权
-
 > [!dev-timeline] 计划演进历程
 > - **2011 — 计划创设与斯坦福精益试验** [[National Science Foundation|NSF]] 正式设立 I-Corps 试点计划，首批资助 21 支大学科研团队，将史蒂夫·布兰克（Steve Blank）的精益创业课程转化为标准联邦学者创业训练大纲，开创学术科研与商业验证紧密绑定的新型转化[[Paradigm|范式]]。
 > - **2012–2016 — 全国枢纽网络布局与部际跨界扩散** NSF 在全美高校设立首批 I-Corps 节点（Nodes）与站点（Sites）；其成功经验迅速引发联邦跨部门采纳，国立卫生研究院（[[National Institutes of Health|NIH]] I-Corps at NIH）、能源部（[[Department of Energy|DOE]] Energy I-Corps）及国防部（DoD I-Corps）相继引入该模式。
@@ -113,8 +107,6 @@ updated: 2026-10-22
 > - **2022–2024 — 《[[CHIPS and Science Act|芯片法案]]》赋能与 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会全域重构** 依据《[[CHIPS and Science Act|芯片与科学法案]]》，I-Corps 全面并入新成立的 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会，升级构建 10 大区域国家[[Innovation Hub|创新枢纽]]（National Innovation Network Hubs）；在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》统筹下，深度嵌入微电子、先进封装与量子计算早期初创孵化链条。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
 
 ---
-
-## 治理架构与运行网络
 
 > [!actor-grid] 组织运行体系
 > - **国家创新网络枢纽（I-Corps Hubs）** 区域中心大学联合体（如新英格兰枢纽、纽约枢纽、五大湖枢纽），负责统筹跨校师资培训、课程标准制定与全国队列选拔。
@@ -132,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心成效与转化阶梯
-
 > [!finding-cards] 核心成效与政策辐射
 > - **从技术供给推力向市场需求拉力[[Paradigm|范式]]转型** 彻底打破高校学者“手握锤子找钉子”的单向思维定势，迫使科研团队在投入巨额中试资金前准确识别真实工业痛点。
 > - **赋权青年学者并培育[[Academic Entrepreneurship|学术创业]]生力军** 将博士生与博士后推上商业化谈判第一线，培育了兼具学术深度与商业素养的双栖复合人才，改变了大学唯论文论的传统评价偏见。
@@ -148,8 +138,6 @@ updated: 2026-10-22
 > - **$50,000** [[National Science Foundation|NSF]] 向每支入选团队下拨的专用非稀释性客户发现与差旅实训资助金。
 
 ---
-
-## 争议、局限与深科技适配反思
 
 > [!debates] 核心争议交锋
 >

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Multi-Grade Classes
-
 > [!metax] [复式／混龄班级 · Multi-grade / age classes](https://www.visiblelearningmetax.com/influences/view/multi-grade~age_classes)
 > 课堂 › 班级构成
 >

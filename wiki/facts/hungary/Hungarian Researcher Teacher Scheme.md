@@ -50,11 +50,7 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# Hungarian Researcher Teacher Scheme
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年由匈牙利国家教育署（[[National Education]] Authority of Hungary / Oktatási Hivatal）依据国家公共教育法案正式出台并实施。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 91)]]
@@ -63,8 +59,6 @@ updated: 2026-10-22
 > - **制度位置** 匈牙利 2013 年国家教学职业生涯模型（Pedagogical Career Model）及其配套外部评价体系的核心制度构成。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 匈牙利研究型教师职级制度（Kutatótanár）确立了教师专业发展的多轨分流机制：在实习、一级、二级教师之上，为持有博士学位的优秀教师开辟专属的研究型教师职级；通过法定保障 5 年期可续科研规划、带薪科研工时与上调薪酬津贴，将教师在教育学或学科前沿的研究产出与面向全系统公共教育的成果辐射法定化。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 91–92)]]
@@ -88,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2013 匈牙利政府正式颁布并实施全新教师专业生涯模型与配套评价制度。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 91)]]
 > - 2014–2020 建立国家评审委员会并开展多轮在岗教师博士资质审核与研究规划答辩。
 > - 2021 全国有 35 名研究型教师与 1,337 名名师在岗运作，制度进入稳态运行阶段。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 92)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与评估中枢（匈牙利国家教育署）** 统一制定国家教学评价标准，组织外部督导专家组开展答辩评审与 5 年期科研成果终期考核。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 91–92)]]
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - **[[Research Topic\|研究主题]]包容** 选题既可聚焦所任教的学科专业内容（Subject matter），也可聚焦学科教学法与课堂教学机制（Teaching and pedagogy），其中教学法研究占据主流。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 92)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **入选与存量规模** 全国各学段成功晋升并维持研究型教师职级的人数。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 92)]]
@@ -129,8 +117,6 @@ updated: 2026-10-22
 > - **5** 科研规划推进周期（年，可续期，原文作 Five-year research programme, renewable）。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 92)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 核心争议
 >

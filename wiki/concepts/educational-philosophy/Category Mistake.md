@@ -63,11 +63,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# Category Mistake
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 范畴错误（Category Mistake），也称范畴谬误（Category Error），最初由牛津日常语言哲学家[[Gilbert Ryle|吉尔伯特·赖尔]]（Gilbert Ryle, 1949）在《心的概念》中提出，指将属于特定逻辑或[[Ontology|本体论]]范畴的事实、属性或概念，错误地归入另一范畴并按照后者的逻辑框架进行述谓与处理的思维谬误。在教育实证与[[Research Synthesis|证据综合]]方法论批判中，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人将其扩展为关键的方法论批判判据，特指将宏观制度条件、个体身心特质、长周期综合教学模式与短周期微观教学变体等对照基线与时间跨度完全不可比的异质教育因素，强行在单一[[Effect Size|效应量]]排行榜上进行并列、排序与替代性取舍的范畴[[Commensuration|通约]]失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 范畴错误与相近方法学概念辨析
 > | 维度 | 本概念：范畴错误（Category Mistake） | 统计[[Commensuration\|通约]]失范（Commensuration Failure） | [[Scale of Measurement\|测量尺度]]混淆（Scale [[Incommensurability]]） |
 > |---|---|---|---|
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | **纠偏方案** | 辨明实体本体阶次，转向结构互补与情境组合决策 | 承认多元不可约通的价值体系，恢复质性审议 | 严格执行[[Standard Error\|标准误]]与[[Effect Size\|效应量]]数学公式的规范标准化转换 |
 
 ---
-
-## 核心要素
 
 > [!feature] 范畴错误的核心机理构件
 > - **逻辑阶次混淆（Logical Type Confusion）** 赖尔以牛津大学参观者隐喻奠定基础：参观者看遍了学院、图书馆、实验室与运动场，却继续追问“大学在哪里”；把属于整体制度组织的“大学”与属于下属构件的“建筑实体”并列，即犯了范畴错误。
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -154,16 +144,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 范畴错误的概念演变
 > - **1949 — [[Gilbert Ryle|吉尔伯特·赖尔]]《心的概念》确立经典定义** 赖尔提出范畴错误概念，借牛津大学参观者隐喻与板球团队精神隐喻，系统解构[[René Descartes|笛卡尔]]心物二元论中的实体化倾向。
 > - **1970s–1980s — 科学哲学与社会[[Scientific Method|科学方法]]论引介** 科学哲学家将范畴错误用于批判逻辑[[Positivism|实证主义]]中的激进物理主义还原论，指出社会系统的结构性属性不能还原为个体心理属性的简单算术叠加。
 > - **2016 — [[Christof Wecker|克里斯托夫·韦克尔]]等人在[[Evidence-Based Education|循证教育]]学中提出德甲联赛隐喻** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 将范畴错误引入对 Hattie 《[[Visible Learning|可见的学习]]》的系统性方法学批判，确立教育影响因素的四大不可[[Commensuration|通约]]本体范畴，从[[Epistemology|认识论]]与因果哲学高度彻底解构了[[Meta-meta-analysis|二阶元分析]]单一有效性排行榜的合法性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -177,8 +163,6 @@ updated: 2026-10-22
 > - **同质本体范畴内部的因果比较仍具合法性** 范畴错误概念旨在否定跨越不同存在阶次、不同时间跨度与不同对照基准的强行并列，但肯定在同一本体范畴内部（例如在相同的学期跨度下比较不同[[Direct Instruction|直接教学]]变体与传统讲授）开展严格控制的[[Randomised Controlled Trials|随机对照实验]]与[[Meta-analysis|元分析]][[Causality|因果推断]]。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 范畴错误导致的实证数据不可比性对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

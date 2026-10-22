@@ -68,11 +68,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Metascience
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **元科学（Metascience）**，亦称**科学的科学（Science of Science）** 或“关于研究的研究”（Research on Research），是将实证[[Scientific Method|科学方法]]、量化评估与机制设计理论反身应用于科学事业自身运作规律的研究与治理领域。它系统审视科研选题、同行评议、资助规则、行政文书负担、项目经理自由裁量权以及科研组织形态的有效性，致力于通过严谨的对照实验（如资助机制的[[Random Assignment|随机化]]试验）与制度分析，减少科研行政摩擦、对齐激励机制并提升国家研发资本的整体配置效率。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 30–32)]]
@@ -152,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变与体制化历程
-
 > [!dev-timeline] 概念与制度演进
 > - **1960s–1980s — 科学计量学与科学学奠基（普赖斯学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与无形学院（Invisible Colleges）运作规律。
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
@@ -163,8 +157,6 @@ updated: 2026-10-22
 > - **2026 年 — 美国联邦元科学单元法定化与国家科技新政** 白宫科技政策办公室在《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中正式提出：要求全美所有联邦科研资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、DoD）均设立直属于局长的元科学单元，将资助对照实验确立为国家研发预算管理的法定优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32, 86)]]
 
 ---
-
-## 应用场景与实验设计菜单
 
 > [!example] 联邦元科学单元的标准实验菜单
 > - **国立卫生研究院（[[National Institutes of Health|NIH]]）金券与双盲评议实验** 随机抽取部分评审组引入单名专家“金券强推权”，并与常规共识评分组开展双盲对照，长程追踪两组受资助项目在未来 5–10 年的专利颠覆性指标与高被引表现。

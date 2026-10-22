@@ -51,11 +51,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# China Scholarship Council
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 国家留学基金管理委员会（China Scholarship Council, CSC）是中华人民共和国教育部直属的非营利性事业法人机构，承担统筹管理中国官方公派出国留学与来华留学基金的法定职责。通过优化配置中央财政专项经费与受托管理行业委培资金，资助高水平科研人才跨国深造与发展中国家工程技术骨干赴华研学，充当中国[[Knowledge Diplomacy|知识外交]]、[[Internationalization of Higher Education|高等教育国际化]]与国家对外开放战略的关键制度载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 692–693)]] [[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 秉持“支持留学、鼓励回国、来去自由、发挥作用”的工作方针，依法运营管理各类公派出国留学项目与来华留学奖学金项目，服务国家拔尖创新人才自主培养与大国外交大局。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1996–2006** **创设奠基与制度规范期**
@@ -95,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **领导机构（委员会与理事会）** 主管副部长兼任委员会主任，理事会吸纳外交部、科技部、财政部及重点大学负责人担任理事，统筹国家涉外人才流动大局。
 > - **执行机构（秘书处）** 设秘书长主持日常工作，下设欧亚处、美大处、亚非处、来华事务处、法律与综合业务处等专业科室，具体执行日常遴选与签约监督。
@@ -111,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **国家建设高水平大学公派研究生项目** 重点资助中国高水平[[Research Universities|研究型大学]]选派优秀博士生赴全球顶尖名校开展联合培养或全额攻读博士学位。
 > - **“丝绸之路”中国政府奖学金专项** 面向共建国家青年提供涵盖本科与研究生层次的定向资助，优先支持交通、水利、能源等支柱工程领域。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684)]]
@@ -125,8 +115,6 @@ updated: 2026-10-22
 > *According to state laws and foreign policies, the CSC manages national study abroad funds, organizes selection and overseas dispatch, and advances educational and scientific cooperation between China and other countries.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **年均公派选派规模** 年均选拔公派出国留学人员超过 3 万人，覆盖博士生、访问学者及高级研究学者。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 > - **21M** （元） 老挝国家电力公司与中资企业委托国家留学基金委全额管理的定向本科培养预算总额。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

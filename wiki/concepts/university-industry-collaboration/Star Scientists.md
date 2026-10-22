@@ -71,11 +71,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Star Scientists
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **明星科学家（Star Scientists）** 指在特定科学前沿、颠覆性技术起源期或国家重大战略工程中，凭借极其卓越的原创发现与系统把关能力而掌握**不可编码的隐性专有诀窍（Tacit [[Intellectual Capital]]）** 与崇高学术声誉的极少数顶尖领军学者。他们不仅是基础科学发现的源头，更是前沿技术向产业集群扩散的物理承载者；在国家战略与政治经济学视阈下，明星科学家构筑了国家最高决策层与前沿工程探索之间高度互信的核心纽带，是[[Technological Republic|技术共和国]]组织重大科技动员的领军中枢。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1141)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
@@ -102,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科技研发人员角色多维辨析
 > | 维度 | 明星科学家（Star Scientists） | 常规学术研究者（Academic PI） | 科技创业家（Technological Entrepreneur） |
 > |:---|:---|:---|:---|
@@ -113,8 +107,6 @@ updated: 2026-10-22
 > | **前沿转化与代际瓶颈** | 知识难以脱手、对外部产业缺乏信任；易造成青年学者独立滞后 | 成果缺乏工程可行性、陷入[[Activity Traps\|活动陷阱]] | 难以评估颠覆性物理底层风险 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心构成要素
 > - **自然[[Intellectual Capital|知识资本]]（Naturally Occurring Intellectual Capital）** 突破性发现在极早期高度依赖科学家个人的实验直觉、独特工艺技巧与非标准化配方，无法被文字完全表述。
@@ -188,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -199,8 +189,6 @@ updated: 2026-10-22
 > | **科学学代际反思** | 资助与声望过度集中易导致注意力锁定与青年学者独立滞后 | 逝世效应揭示守门阻碍；便携式独立奖学金打破依附 | Azoulay et al. (2019); [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 概念演进脉络
 > - **1834 — 科学专业化与术语起源（William Whewell）** 威廉·休厄尔首次提出“科学家”（Scientist）一词，标志着科学研究从贵族业余探究转向专业化建制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 5)]]

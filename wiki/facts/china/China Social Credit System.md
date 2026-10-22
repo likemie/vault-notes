@@ -39,8 +39,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# China Social Credit System
-
 ## 背景
 
 社会信用体系是中国政府利用大数据技术对公民行为进行永久性评估的系统。[[Argument_Partaken_2022_Springer|Partaken (2022)]] 将其定位为[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中监视模态的当代典范——国家通过大规模数据收集与分析，将监视从安全领域延伸至日常生活的全面治理([[Argument_Partaken_2022_Springer|Partaken, 2022, p.81]])。

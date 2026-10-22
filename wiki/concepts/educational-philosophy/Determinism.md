@@ -65,11 +65,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Determinism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **决定论（Determinism）** 是科学信仰四大基本假设之首，亦是社会科学主客观[[Analytic Framework|分析框架]]中关于“人性本质”的核心[[Ontology|本体论]]维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规则性而非反复无常，确立普适因果法则是经典科学实现对现象预测与控制（prediction and control）的终极基石。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 决定论的多维形态与方法论辨析
 > | 决定论形态 | 核心主张 | 对人性的预设 | 方法论机制与局限 |
 > |---|---|---|---|
@@ -105,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **因果前因可知性（Explicability via Antecedents）** 任何现象的发生绝非凭空孤立，其机制原则上均可追溯至先行情境与客观条件，能够被理性与实证研究所揭示。
 > - **宇宙运作规则性（Regularity without Caprice）** 假定自然与社会世界存在内在稳定的秩序，排斥不可捉摸的超自然力量或彻底不可知的盲目任性。
 > - **预测与控制旨趣（Prediction and Control）** 科学研究的根本驱动力在于从经验事实中抽象出因果法则，以此为教育干预、行为矫正与制度设计提供前瞻性控制依据。
@@ -171,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕决定论形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
@@ -191,8 +181,6 @@ updated: 2026-10-22
 > - **2005–2025 — [[Hedgehog and Fox Model|刺猬与狐狸模型]]与工程认识论升华** [[Philip Tetlock|泰特洛克]]通过长期实证证实刺猬决定论预测力的溃败；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将[[Engineering Mindset|工程思维]]确立为克服意识形态决定论、在云状现实中精准导航的现代治理认识论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

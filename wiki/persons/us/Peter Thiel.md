@@ -45,11 +45,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Peter Thiel
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Peter Thiel（1967– ），德裔美国风险投资家、政治思想家与企业家，PayPal 联合创始人，[[Palantir Technologies|Palantir]] 联合创始人兼董事长，Founders Fund 创始合伙人，《从0到1》（*Zero to One*）作者。
@@ -74,17 +70,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2011 — *The End of the Future*** 批判自 1970 年代以来的技术停滞假说，指出人类在物理、能源、材料与交通领域的重大创新停滞被局限于计算机比特世界的渐进消费应用所掩盖，确立以[[Apollo Program|阿波罗计划]]为代表的非连续激进跃升作为文明进步标尺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; cited in Karp & Zamiska, 2025, pp. 49–50)]]
 > - **2014 — *Zero to One: Notes on Startups, or How to Build the Future*** 区分“从 0 到 1 的垂直/密集型进步（技术跃升）”与“从 1 到 N 的水平/广泛型进步（全球化复制）”，提出突破性企业应追求通过实质技术壁垒建立[[Creativity|创造性]]垄断，而非在存量红海中低水平同质竞争。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 真正的技术进步在于从 0 到 1 的跨维度突破（创造此前从未存在的事物），而非在存量消费软件与商业模式上的边际微调；当代社会深陷[[Big Idea Famine|大构想饥荒]]，顶尖智力与资本过度流向浅层信息娱乐，必须重塑重大国家工程使命与物理世界硬科技雄心。（Thiel, 2011, 2014; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）
 
 > [!citation-card] 蒂尔论阿波罗登月计划作为进步标尺
@@ -99,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **产业投资路径** 通过 Founders Fund 投资 SpaceX、[[Palantir Technologies|Palantir]]、Anduril 等硬科技与国防科技企业，重构了硅谷与国家防务安全、深空探索之间的产业桥梁。
 > - **政治哲学与科技政策路径** 其大停滞批判与重振重大工程抱负深刻启发了卡普（[[Alexander Karp|Alex Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》中关于破除[[Big Idea Famine|大构想饥荒]]、再造[[Technological Republic|技术共和国]]的核心立论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 49–50)]]
 > - **教育与人才流动路径** 蒂尔奖学金打破了美国精英大学对青年智力的体制垄断，倡导顶尖技术人才投身底层工程突破而非安逸的学术与大厂螺丝钉岗位。
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引蒂尔关于阿波罗太空计划作为人类进步标尺的论断，批判硅谷软件工程师向消费级广告点击退缩引发的宏大科技野心丧失与大构想饥荒。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与公众争议
 >

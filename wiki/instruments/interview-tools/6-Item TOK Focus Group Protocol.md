@@ -45,11 +45,7 @@ created: 2026-08-17
 updated: 2026-10-16
 ---
 
-# 6-Item TOK Focus Group Protocol
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Theory of Knowledge\|知识论]][[Focus Group\|焦点小组]]六题协议
 > - **工具类型** 半结构化焦点小组协议，适用于知识论教师。
@@ -58,8 +54,6 @@ updated: 2026-10-16
 > - **实施方式** 研究者作为主持人，在专业发展工作坊或区域会议期间招募教师组成焦点小组，进行 1 小时的半结构化对话，全程录音并[[Transcription in Qualitative Research\|转录]]。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 教师对[[Theory of Knowledge\|知识论]]课程的深度感知
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -72,8 +66,6 @@ updated: 2026-10-16
 > | 对教师的影响 | 2 | 课程对[[Teacher Beliefs\|教师信念]]、意图、教学实践以及效能感（[[Self-Efficacy\|Self-efficacy]]）的反向塑造 | 定性编码 |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 开放式引导问题。
@@ -94,8 +86,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -104,8 +94,6 @@ updated: 2026-10-16
 > | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] | 英文原始版 | 33 名 [[Theory of Knowledge\|TOK]] 教师（13男，20女），在阿姆斯特丹、布里斯班和芝加哥的 [[International Baccalaureate\|IB]] 活动中组成[[Focus Group\|焦点小组]]。用于深入解释量化[[Questionnaire\|问卷]]的结果。 | — | 识别出教师热衷于讨论、连接现实世界与跨学科；同时面临评估主观性与课时边缘化的共同挑战。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

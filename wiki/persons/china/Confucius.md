@@ -73,11 +73,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Confucius
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国春秋时期思想家、教育家，儒家学派创始人，后世尊为“万世师表”。
@@ -100,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **十五志学至三十而立 — 确立修身志向** 学习古礼与乐舞，由外部社会规范内化为立身之本。
 >   - **代表著作** 编订《六经》（诗、书、[[Ritual Propriety|礼]]、乐、易、春秋），整理华夏古典人伦与制度文本。
@@ -117,9 +111,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 孔子思想的核心主张聚焦于回答“如何成为一个人与达成人性卓越”。他将学习的终极目的定义为[[Self-Cultivation|修身]]，以仁为最高道德境界，以[[Junzi|君子]]为[[Paradigm|范式]]人格；在学习动能上将[[Heart and Mind for Wanting to Learn|好學心]]置于纯粹认知之上，在社会实践中以礼、孝与[[Action Better Than Words|行勝於言]]为纽带，构成了独立于政治体制的持久文化传统。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 37–41, 52–55)]]
 
 > [!citation-card] 乐学动能与孝敬伦理
@@ -131,9 +123,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定[[Confucian Learning Tradition|儒家学习传统]]与东亚学习模型，塑造了集“[[Self-Cultivation|修身]]-好学-好德”于一体的人性论与学习哲学。[[Argument_Li_2012_Cambridge|(Li, 2012)]]
 > - **方法路径** 倡导“不愤不启，不悱不发”的启发式[[Dialogue in Education|对话教学]]（dialogic teaching），强调高阶思考与社会互动的契合。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 596)]]
 > - **政策与课程路径** [[Civil Service Examination|科举]]制与现代[[Gaokao|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“[[Zhonghua Minzu|中华民族]]传统文化”的代表，选入英语教材“英雄画廊”，并将《论语》塑造为正统[[Official Knowledge|官方知识]]与对外[[Soft Power|软实力]]符号。[[Argument_Yu_2024_CE|(Yu & Zhao, 2024, pp. 63, 67)]]
@@ -157,8 +147,6 @@ updated: 2026-10-22
 > - **对外公共外交载体** [[Confucius Institute|孔子学院]] — 当代以其命名建立的全球跨国语言推广机构。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 24–27, 30–32)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

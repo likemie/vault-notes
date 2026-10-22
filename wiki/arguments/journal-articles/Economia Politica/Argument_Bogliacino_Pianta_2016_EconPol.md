@@ -61,7 +61,6 @@ status: draft
 created: 2026-06-10
 updated: 2026-10-22
 ---
-# Argument_Bogliacino_Pianta_2016_EconPol
 
 ---
 > [!question]
@@ -73,7 +72,6 @@ updated: 2026-10-22
 > - **结论** Pavitt 的四类核心结构稳健成立；服务业可按相同逻辑归类；原"规模密集型"应修订为"规模与信息密集型"以纳入 ICT 维度
 
 ---
-## 理论框架
 
 > [!framework-table] 分析视角
 > | 理论工具 | 解释功能 |
@@ -82,7 +80,6 @@ updated: 2026-10-22
 > | **[[Evolutionary Economics\|演化经济学]]**<br>Nelson and Winter (1982) | 经济活动的多样性和[[Heterogeneity\|异质性]]是演化过程的核心特征，[[Technological Trajectories\|技术轨迹]]和累积性学习塑造产业差异 |
 
 ---
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -100,7 +97,6 @@ updated: 2026-10-22
 > | **分类转换** | 从 NACE Rev. 1 到 NACE Rev. 2 的匹配基于 Perani and Cirillo (2015) 和 Pianta et al. (2015) |
 
 ---
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -212,8 +208,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **Pavitt 四类结构稳健成立** 基于欧洲七国三轮 社区创新调查（[[Community Innovation Survey]]，CIS） 数据的主成分分析和回归分析确认，科学基础型、专业供应商型、规模（与信息）密集型、供应商主导型四个类别在不同国家和时间段持续有效（pp.165-175）
 > 2. **服务业可按相同逻辑归类** 通信和研发服务归入科学基础型，金融保险归入规模与信息密集型，批发零售和运输归入供应商主导型——服务业与制造业共享相同的创新模式分类逻辑（pp.160-165）
@@ -221,7 +215,6 @@ updated: 2026-10-22
 > 4. **分类法具有因果解释力** Pavitt 类别不仅在描述创新模式差异上有效，在解释创新如何转化为经济绩效（生产率、就业）上也具有显著的解释力（pp.170-175）
 
 ---
-## 关键引用
 
 > [!citation-card] 分类法的核心价值
 > [[Pavitt Taxonomy\|Pavitt 分类法]]的贡献在于能够将产业多样性纳入一个连贯的[[Analytic Framework\|分析框架]]，在不同产业组的创新来源、目标和结果之间建立起系统性的联系，使[[Heterogeneity\|异质性]]从"噪音"变成可分析的"信号"。（pp.155-156）

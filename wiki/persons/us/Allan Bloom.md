@@ -50,11 +50,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Allan Bloom
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名政治哲学家、古典学学者与文化批评家，列奥·施特劳斯（Leo Strauss）学派核心传人，芝加哥大学社会思想委员会（Committee on Social Thought）教授。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960–1970年代 — 古典政治哲学经典的翻译与阐发** 致力于恢复[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]等古代与近代经典文本的哲学原貌，批判现代[[Positivism|实证主义]]与[[Behaviorism|行为主义]]对崇高政治德性的矮化。
 >   - **代表著作** 柏拉图《理想国》译注本（1968）。
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 阿兰·布鲁姆强调，真正的哲学思考必须拒绝将某种暂时的现代政治制度盲目神圣化为不可逆转的历史终极形态。西方自由社会最大的内在危机并非来自外部贫困，而是来自内部道德自满与相对主义导致的灵魂空虚。现代大学以不加审视的“[[Open-Mindedness|开放性]]”为名，摧毁了学生对国家深层意义与公共抱负的情感体验，反向催生出系统性惩罚道德勇气、热衷语言巡查的空洞官僚文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 31)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 66–67)]]
 
 > [!citation-card] 开放性对国家深层意义体验的驱逐

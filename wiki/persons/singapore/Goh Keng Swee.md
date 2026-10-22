@@ -43,11 +43,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Goh Keng Swee
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 新加坡政治家、经济学家，建国副总理（1973–1984 年在任），曾兼任财政部长、国防部长与教育部长；被誉为新加坡经济与制度奇迹的“总建筑师”。
@@ -70,17 +66,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1979 — *Report on the Ministry of Education 1978* （教育部报告 / [[Goh Report|吴庆瑞报告]]）** 诊断新加坡多方言割裂与外语世俗教育脱离传统伦理的危机，确立双语教育与国家认同培育方针。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **1972 — *The Economics of Modernization and other essays*** 阐述发展中小国如何通过务实工业化政策与强国家能力克服地缘生存劣势。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 国家生存不仅依赖于经济繁荣与硬军事防卫，更依赖于公民对一套核心道德价值观与国家认同的深层承诺；在多族群移民社会中，单纯的世俗外语教育可能导致传统伦理根基断裂，必须通过强有力的国家语言与教育政策整合，构建抵御外部危机与维护共同体集体利益的文化屏障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
 > [!citation-card] 吴庆瑞论共同道德价值观与国家防卫意志
@@ -90,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **教育与语言政策路径** 奠定了新加坡数十年来实行的“英语作为工作语言 + 母语保留文化根基”的双语教育国策与能力分流体制。
 > - **国家能力建构** 为后发国家将产业政策、国防动员与公民伦理教育高度整合提供了经典的现代治理范例。
 > - **科技[[Geopolitics|地缘政治]]论证** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中高度赞扬吴庆瑞在价值观维系与国家威慑力构建上的远见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **任职机构** 新加坡财政部、新加坡国防部、新加坡教育部。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >

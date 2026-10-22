@@ -37,11 +37,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Student Attitude
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学生态度（Student Attitude）指学生对特定学科、学习方法或教育环境的总体感受与想法。技能与知识以外的情感类结果（如倾向、兴趣）归入此类。[[Problem-Based Learning\|问题本位学习]]（PBL）通过主动参与[[Problem Solving\|问题解决]]过程，培养对学科的积极态度、增强对科学主题的兴趣与热情。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 955–956, 963–964)]]
@@ -57,8 +53,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 态度的构成与驱动
 > - **对学科的态度** 对特定学科的兴趣与积极评价。
 > - **对学习方法的倾向** 对教学方式与学习活动的感受与倾向。
@@ -70,8 +64,6 @@ updated: 2026-10-22
 > 3. **态度巩固** 积极体验转化为持续的兴趣与投入。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 二阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

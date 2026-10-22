@@ -101,11 +101,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Construct Validity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Construct\|构念]]效度（Construct Validity）** 指实证研究中测量工具、实验操纵、质性分析范畴或制度评价体系在多大程度上真正表征并精确测量了理论所预设的抽象构念（Construct），以及所得实证证据能否充分支持研究者做出的理论解释与分类断言([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, pp. 176–177]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
@@ -129,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Construct|构念]]效度在不同研究情境中的形态对照
 > | 比较维度 | 心理测量与调查量表 | 实验干预操纵 | 质性经验范畴 | 宏观政策评价体系（清算中心） | 跨国大规模测评（如 [[PISA]]） |
 > |:---|:---|:---|:---|:---|:---|
@@ -140,8 +134,6 @@ updated: 2026-10-22
 > | **典型验证方式** | [[Confirmatory Factor Analysis\|验证性因子分析]]、[[Test-Retest Reliability\|重测信度]]、区分相关 | 操作性检查（[[Manipulation Check]]） | 成员核对（[[Member Checking]]）、[[Ethnography\|民族志]][[Rich and Thick Description\|深描]] | [[Multitrait-Multimethod Matrix\|MTMM]] 跨机构评级一致性与收敛性检验 | 跨文化等值性审查、教育本体论与情境效度批判分析 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Construct\|构念]]效度论证的六大核心支柱
 > - **理论构念表述（Construct Conceptualization）** 明确界定构念的内涵、外延、组成维度与排他性边界，处理理论共同体中的竞争性解释([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 176]])。
@@ -230,8 +222,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 构念效度核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -243,8 +233,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Construct|构念]]效度概念的历史演进
 > - **1957 — 效度女王地位确立** Jane Loevinger 发表经典文献，将构念效度确立为所有效度类型的核心与统摄框架，指出[[Content Validity|内容效度]]与[[Criterion-related Validity|效标效度]]最终都必须汇入构念解释之中。
 > - **1959 — [[Multitrait-Multimethod Matrix|MTMM]] 矩阵开创经验检验路径** Donald Campbell 与 Donald Fiske 提出多质多法（MTMM）分析矩阵，使构念效度从纯哲学概念转变为具备定量检验规程的实证方法。
@@ -255,8 +243,6 @@ updated: 2026-10-22
 
 ---
 
-## 在研究与评估中的操作
-
 > [!proc] 建立[[Construct\|构念]]效度论证的六步规程
 > 1. **严密界定构念** 说明理论定义、构成要素、排他性边界及潜在竞争解释。
 > 2. **细化[[Operationalization\|操作化]]映射** 建立双向细目表，将题项、任务或评价标准逐一映射至构念维度，识别遗漏与无关污染。
@@ -266,8 +252,6 @@ updated: 2026-10-22
 > 6. **动态迭代与再验证** 当工具被翻译、修改、缩减或应用于新情境时，重新启动构念效度验证分析([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 8]])。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -295,8 +279,6 @@ updated: 2026-10-22
 > - 构念效度是针对特定解释目的的“渐进累积程度”，不存在“非黑即白”的绝对有效，研究者必须结合具体决策场景权衡证据充分性。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Construct|构念]]效度核心实证研究数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

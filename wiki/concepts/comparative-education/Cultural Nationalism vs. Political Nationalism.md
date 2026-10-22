@@ -48,11 +48,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Cultural Nationalism vs. Political Nationalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **文化民族主义与政治民族主义（Cultural Nationalism vs. Political Nationalism）** 是指[[Isaac Kandel\|艾萨克·坎德尔]]在 20 世纪 30 至 40 年代直面欧洲极权主义扩张与世界大战危机时确立的比较教育政治哲学核心类型学区分。**政治民族主义**将国家抽象为主权目的本身与外在强权，依托国家官僚机器推行军国主义、侵略性排外狂热与教条化意识形态灌输，将学校完全降格为政权进行政治动员与控制臣民的工具；**文化民族主义**则植根于民族独特的语言文学、艺术遗产与伦理生活传统，以滋养个体内在整全人格（教化）与保障公民文化自由为旨归。坎德尔明确指出，唯有依靠文化民族主义对本国精神传统的深度自觉，人类才能建立起超越狭隘沙文主义、真正建立在彼此欣赏与尊重之上的良性国际主义秩序。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Herzog, 1960; Kazamias, 2009, p. 49, 引自 Kazamias, 2009b)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 文化民族主义与政治民族主义的维度辨析
 > | 维度 | 文化民族主义（Cultural Nationalism） | 政治民族主义（Political Nationalism） |
 > |---|---|---|
@@ -87,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **文化传统传承与健全人格陶冶（Cultural Heritage & [[Bildung]]）** 文化民族主义以民族文学、艺术、语言与哲学传统为精神养分，旨在促进个体的全面自由发展与道德完善。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 49)]]
 > - **意识形态垄断与极权政治动员（Ideological [[Hegemony]] & Mobilisation）** 政治民族主义确立“观念的专政或个人权力的专政”，将学校沦为推行政权教条、排斥异己言论与[[Academic Freedom\|学术自由]]的单向传声筒。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxv; Kazamias, 2009: 49, 引自 Kazamias, 2009b)]]
 > - **国际理解的有机文化基石（Organic Substratum for Internationalism）** 真正的跨国理解并非空中楼阁，唯有深入体认本民族精神传统的深层意涵，方能以平视和鉴赏的眼光理解他国教育理想的合理性。(Kandel, 1933: xxv)
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -157,8 +147,6 @@ updated: 2026-10-22
 > - **冷战至今 — 后冷战[[National Rejuvenation Narrative|民族复兴]]与全球本土化反思** 随着全球化浪潮与新民粹主义抬头，文化民族主义再次成为学者反思全球同质化与新排外主义张力的重要理论透镜。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

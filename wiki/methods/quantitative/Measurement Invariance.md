@@ -59,11 +59,7 @@ created: 2026-08-28
 updated: 2026-10-22
 ---
 
-# Measurement Invariance
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **测量等值性（Measurement Invariance, MI）**（亦称测量不变性、测量等同性或测量恒常性）是指在多组[[Confirmatory Factor Analysis\|验证性因子分析]]（Multigroup CFA, MG-CFA）中，通过对不同群体（如性别、年龄、文化、地域）或不同时间点的测量模型施加阶梯式参数等值约束，系统检验测量工具是否在所有被试子群体中衡量了完全相同心理[[Construct\|构念]]与[[Scale of Measurement\|测量尺度]]的统计方法。它是开展跨群体均值比较、结构方程路径对比与跨文化研究的前提性方法论门槛。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–8)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 建立在现代潜[[Variable\|变量]]测量理论之上：主张观测得分的跨组差异不仅受潜变量真实水平驱动，更可能受到题项表述偏倚、文化反应定势（Response Style）或测量参数[[Heterogeneity\|异质性]]的系统污染。
 > - **研究者角色** 研究者在开展任何跨组均值检验（如 $t$ 检验、[[Analysis of Variance\|ANOVA]]、[[Multivariate Analysis of Variance\|MANOVA]]）或跨组结构方程模型（[[Causal Modeling\|SEM]]）路径比较前，**必须先行确立测量等值性**；未经等值性检验的直接跨组比较在方法论上属于非法推论（Comparison Fallacy）。
@@ -94,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 四阶段等值阶梯与推论权限
-
 > [!contrast-table] 测量等值性的四阶递进模型与推论权限
 > | 等值阶梯 | 模型约束条件 | 心理测量学含义 | 解锁的统计推论权限 |
 > |---|---|---|---|
@@ -105,8 +97,6 @@ updated: 2026-10-22
 > | **4. 严格等值 / 残差等值<br>（Strict Invariance）** | 在强等值基础上，进一步约束各题项的测量残差与误差方差跨组相等（$\boldsymbol{\Theta}^{(1)} = \boldsymbol{\Theta}^{(2)}$）。 | 测量精度完全等值：测量误差在各组中完全均等。 | 允许直接使用量表简易加总分/均分进行跨群体 $t$ 检验或方差分析。 |
 
 ---
-
-## 数学原理与测量方程
 
 > [!formula-step] 公式步骤一　多组[[Confirmatory Factor Analysis\|验证性因子分析]]测量基本方程
 > $$\boldsymbol{x}_g = \boldsymbol{\tau}_g + \boldsymbol{\Lambda}_g \boldsymbol{\xi}_g + \boldsymbol{\delta}_g$$
@@ -136,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-## 检验流程与部分等值性策略
-
 > [!proc]- 测量等值性检验标准决策流
 > ```mermaid
 > flowchart TD
@@ -163,8 +151,6 @@ updated: 2026-10-22
 > 2. **推论权限限定** 若达到部分强等值（Partial Scalar Invariance），仍被允许开展跨组潜变量均值比较，但不可使用简易总分比较。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] R 语言 (`lavaan` + `semTools`) 多组 [[Confirmatory Factor Analysis\|CFA]] 测量等值性完整代码
 > ```R
@@ -201,8 +187,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 跨性别多组 [[Confirmatory Factor Analysis\|CFA]] 显示形态、弱、强与严格等值均满足 |Δ[[Model Fit Indices in SEM and CFA|CFI]]| ≤ .010，男女教师[[Research Literacy\|研究素养]]均值可以无偏比较。

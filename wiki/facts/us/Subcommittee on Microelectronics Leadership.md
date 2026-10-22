@@ -61,11 +61,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Subcommittee on Microelectronics Leadership
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **微电子领导力小组委员会（Subcommittee on Microelectronics Leadership, SML）** 是美国[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）国土与国家安全委员会下设的法定跨部委常设协调机构，旨在打破联邦部委行政壁垒，统一统筹协调全美微电子技术研发战略、重大中试基础设施投资、供应链安全与高科技人才培养生态。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10, 48)]]
@@ -78,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2021 年 — 法定创设与职权确立** 国会通过 NDAA 2021 第 9906 条，正式授权在 [[National Science and Technology Council|NSTC]] 框架下组建 SML，赋予其编制国家微电子研究五年战略的法定义务。（p. ii）
 > - **2022–2024 年 — 《[[CHIPS and Science Act|芯片法案]]》跨部门大协同** 伴随 2022 年《芯片与科学法案》通过，SML 承担起统筹商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）以及未获芯片法案专项增量资金机构（如 [[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、[[DARPA]] 常规项目）的顶层协同中枢功能。（pp. ii, 1–2, 9–10）
 > - **2024 年至今 — 国家战略发布与动态修订** 2024 年 3 月正式发布《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，并于 2025 年 4 月根据最新行政指令完成战略修订，持续开展全美微电子能力年度审查与跨部门技术路线图对齐。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 48)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **领导层与联席主席** 由白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）、商务部（DOC/NIST）、国防部（DOD）及能源部（[[Department of Energy|DOE]]）高级科技官员共同担任领导或联席职务。（pp. ii, 9–10）
@@ -102,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心成果与政策产出
 > - **《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》（National Strategy on Microelectronics Research）** 作为全美微电子领域的纲领性顶层规划，确立了前沿研究、基础设施、劳动力与转化生态四大支柱及二十余项重点行动。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. iv–v, 2)]]
 > - **全政府全技术栈协同框架（Whole-of-Government Stack Coordination）** 统一明确了从器件物理、材料合成到先进封装与算法系统的跨部委分工机制。（pp. 9–13）
@@ -115,8 +105,6 @@ updated: 2026-10-22
 > *The CHIPS for America Act directs the Subcommittee for Microelectronics Leadership to 'coordinate microelectronics related research, development, manufacturing, and supply chain security activities and budgets of Federal agencies and ensure such activities are consistent with' the strategy presented in this [[Document]].*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 统筹涵盖商务部 110 亿美元研发基金、国防部 20 亿美元共用体基金以及 [[National Science Foundation|NSF]]/[[Department of Energy|DOE]] 常设半导体预算，连接全美数十家顶级大学与国家实验室。（pp. 2, 21–28）
@@ -134,8 +122,6 @@ updated: 2026-10-22
 > - **8** （枢纽） 国防部在 SML 框架下推进的[[Microelectronics Commons|微电子共用体]]跨区域中试枢纽。（p. 2）
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -50,11 +50,7 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-# Gerald Grace
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育社会学学者，曾任新西兰惠灵顿维多利亚大学（Victoria University of Wellington）教育学系主任、英国伦敦大学教育学院（IOE）教育管理学讲座教授及天主教教育研究中心主任。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1978 — *Teachers, Ideology and Control: A Study in Urban Education*** 从批判社会学视角考察教师职业在资本主义城市危机与意识形态规训中的复杂处境。
 > - **1984 — *Education and the City: Theory, History and Contemporary Practice*** 整合历史学与空间社会学理论，分析城市教育不平等与国家干预策略。
@@ -90,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 大学及其学者在自由民主社会中承担独立的权力制衡职能，必须基于公正客观的研究向执政权力和意识形态说真话；坚决捍卫[[Academic Freedom|学术自由]]以抵御[[New Managerialism|新管理主义]]与财政原教旨主义的侵蚀，强调真正的社会良知必须直面社会阶级、贫困与结构性不平等，反对将复杂的教育成就差距化约为纯粹校内教学技巧的还原主义倾向。
 
 > [!citation-card] 学科技术批评与社会良知的规范界分
@@ -102,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 倡导批判性政策奖学金（Policy Scholarship），打破传统教育管理学过分偏向[[Technical Rationality|技术理性]]与效率指标的局限，为理解教育领导、道德伦理与公共使命提供理论框架。
 > - **法制与政策路径** 首创并将“[[Critic and Conscience of Society|社会的批评者与良知]]”写入新西兰成文法，成为全球[[Higher Education Act of 1965|高等教育法]]制中以成文法条确立大学防范国家干预、履行公共真理核查职能的典范案例。
 > - **学术批判路径** 在 2010 年新西兰大论战中树立规范标尺，指明去语境化的循证教学论在政治经济学层面的保守后果，推动学界反思实证[[Quantitative Research|量化研究]]与社会结构正义的深层关联。
@@ -122,8 +112,6 @@ updated: 2026-10-22
 > - **制度与立法成果** [[Critic and Conscience of Society]]（其创议的法定概念）；[[Learning for Life Report]]（采纳其良知条款的政府政策报告）；新西兰《1989 年教育法》（确立良知条款的成文法）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

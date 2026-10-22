@@ -41,11 +41,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# 1976 Hague Intergovernmental Conference on the International Baccalaureate
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间／地点** 1976 年 2 月，荷兰海牙。会议由荷兰教育部长召集，荷兰教育与科学大臣约斯·范凯梅纳德博士（Dr Jos van Kemenade）主持。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 94–96)]]
@@ -55,8 +51,6 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 从实验收尾到政府参与治理
 > - **1974 年 — [[UNESCO]] 决议打开政府协商渠道** 加拿大、埃及、英国与北爱尔兰、伊朗、瑞士、马耳他、摩洛哥、毛里求斯、墨西哥、尼日利亚、坦桑尼亚和多哥共同提出决议，约七十个代表团一致通过，要求总干事研究 UNESCO 支持 IB 课程发展的方式。该决议提供政治授权，却没有自动形成预算承诺。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 89–93)]]
 > - **1975 年 — 备用方案取代单一整合预期** UNESCO 整合前景转弱后，约翰·古尔马蒂（[[John Goormaghtigh]]）设计政府参与的替代结构，皮特·加[[Peter Thiel|蒂尔]]（Piet Gathier）推动荷兰政府召集会议。学校提高订阅费，先维持组织到政府可以作出决定的时点（pp. 93–94）。
@@ -65,8 +59,6 @@ updated: 2026-10-22
 > - **1978 年 2 月 15 日 — 混合治理结构落定** UNESCO 最终拒绝整合提案，但成员国支持没有随之消失。英国政府与英联邦秘书处在伦敦兰开斯特宫合办第二次会议，参会国家数超过海牙会议的两倍；IBO 保留瑞士法律身份和 UNESCO 咨商地位，支持国建立的[[International Baccalaureate\|国际文凭]]常设会议（Standing Conference for the International Baccalaureate）获得理事会三分之一席位的提名权。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 97)]]
 
 ---
-
-## 关键文件／声明
 
 > [!ref-table]- 主席提出的三项问题与会议答复
 >
@@ -97,8 +89,6 @@ updated: 2026-10-22
 > - **实验身份结束** 海牙会议没有完成预期的 UNESCO 整合，却使六年试验从有终点的教育项目转为需要长期治理、年度预算和国家协商的国际机构。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 94–97)]]
 
 ---
-
-## 争议与评论
 
 > [!tension] 国际组织整合与独立混合治理
 > - **[[UNESCO]] 整合方案（蓝方）** 由 UNESCO 人员单位承担研究和课程发展，可以把 IB 纳入已有政府间体系；独立瑞士基金会继续考试，有助于隔离考试申诉、舞弊指控等敏感业务。

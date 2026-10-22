@@ -77,11 +77,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-# Primary and Secondary Documents
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **一手文献（Primary [[Document]] / Primary Source，原始文献）** 在历史与[[Documentary Analysis\|文献研究]]中是由事件目击者或参与者作为直接记录而生产的原材料；在当代教育实证与循证研究中，特指直接报告研究设计、抽样、原始组别统计与未调整[[Effect Size\|效应量]]的原始学术期刊论文与独立评估报告。**二手文献（Secondary Document / Secondary Source，转译或改写文献）** 是通过对一手文献进行选择、分析、综合或通俗改写形成的阐述（如[[Systematic Review\|系统综述]]、证据摘要、清算所工具包等），为使用者提供进入特定领域的导航入口，但经过了中介作者的分析过滤。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 576–588)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 一手文献、二手改写文献与工程化工件多维辨析
 > | 维度 | 一手实证文献（Primary Documents） | 二手改写文献（Secondary Documents） | 工程化教学工件（Engineered [[Artefact\|artifacts]]） |
 > |---|---|---|---|
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > | **因果转化实效** | 教师直接研读易诱发实施致命变异 | 单向推送在严格 [[Randomised Controlled Trials\|RCT]] 中呈零效应 | 课堂观察证实显著提升[[Effective Teaching\|有效教学]]行为 |
 
 ---
-
-## 核心要素
 
 > [!feature] 历史与[[Documentary Analysis\|文献研究]]中的文献形态
 > - **书籍与专著** 专著（treatises）与教科书（自 1830 年代出现以来，不仅呈现知识，亦投射官方认可的价值观与意识形态）。
@@ -172,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕文献形态的核心命题归纳
 > | 命题维度 | 核心理论断言 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -183,8 +173,6 @@ updated: 2026-10-22
 > | **学科史实证转型** | 早期过度依赖二手文献撰写诠释论文，成熟期推动一手田野与调查大繁荣 | 比较教育学科史与方法论演化分析 | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
 
 ---
-
-## 争议与局限
 
 > [!debates] 学术争议
 >

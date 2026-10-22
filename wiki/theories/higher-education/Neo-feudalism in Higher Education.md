@@ -43,11 +43,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Neo-feudalism in Higher Education
-
-## 核心主张
-
-> [!tip|notitle]
+> [!tip] 核心主张
 > 高等教育新封建主义（Neo-feudalism in Higher Education）是 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]引入高等教育研究的[[Paradigm\|范式]]概念。其核心主张是：当代高等教育中正在进行的学术依附和忠诚关系的重新结构化，不仅产生了自由市场动力，更催生了新封建式的权力关系系统——学术等级通过忠诚与联盟、群体特权以及制度声望的公共展示得以维持，而非仅由市场交换逻辑驱动([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.798–799]])。
 
 这一概念借用了 Habermas（1962/1989）的"再封建化"（re-feudalization）概念——最初指媒体公司——并将其引入高等教育分析。在德国近期关于社会不平等的讨论中，再封建化和新封建主义概念已获得一定关注(Neckel, 2013; Zinn, 2015; [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.799]])。

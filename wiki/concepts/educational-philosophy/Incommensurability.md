@@ -73,11 +73,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Incommensurability
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 不可[[Commensuration\|通约]]性（Incommensurability）是[[Thomas Kuhn\|托马斯·库恩]]（[[Thomas Kuhn]]）[[Paradigm\|范式]]转换理论的核心[[Epistemology\|认识论]][[Construct\|构念]]，指不同[[Scientific Paradigm\|科学范式]]之间不存在中立、公认且跨范式有效的共同原则、评价标准或衡量尺度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Kuhn, 1962）。不可通约性意味着范式之间无法通过同一套外在逻辑标准判定高下优劣——采纳一种范式，不仅是选择某种具体研究工具，更是拥抱了一整套关于实在本质（[[Ontology\|本体论]]）、知识性质（[[Epistemology\|认识论]]）与人性假设的根本信念体系，因而研究者无法在同一认知时刻持有两套相互冲突的范式。
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 不可[[Commensuration\|通约]]性与相近概念辨析
 > | 维度 | 不可通约性（Incommensurability） | 不相容性（Incompatibility） | [[Paradigm\|范式]]通约性（Commensurability） |
 > |---|---|---|---|
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > | 典型表现 | 用[[Effect Size\|效应量]]评判[[Ethnography\|民族志]]犹如用尺子量水温 | “地球是平的”与“地球是圆的”逻辑互斥 | 比较两组回归模型的残差平方和与信息准则 |
 
 ---
-
-## 核心要素
 
 > [!feature] 不可[[Commensuration\|通约]]性的核心理论要素
 > - **概念意义的情境依存性（Context-dependency of Meaning）** [[Paradigm|范式]]转换改变了基本概念的内涵网络。同一术语（如“有效性”、“真理”、“重力”）在不同范式中锚定于截然不同的理论结构，不存在超范式的绝对语义中立区。
@@ -187,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕不可通约性展开的五大核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -210,8 +200,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与反思
 >
 > > [!axis] 不可[[Commensuration\|通约]]性是客观存在的[[Epistemology\|认识论]]断层，还是人为建构的[[Discourse|话语]]壁垒
@@ -230,8 +218,6 @@ updated: 2026-10-22
 > 不可通约性概念极易被滥用为学者拒斥跨学科对话、拒绝接受外在同行批评的学术避难所；若将其教条化，会导致研究共同体封闭自守，丧失在复杂现实问题面前协同解决危机的实践能力。而在统计综合层面，盲目将不可通约的参数混同相加，则会导致科学证据沦为伪精确的数字噪音。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Paradigm Wars\|范式战争]]与方法学演化的文献计量实证特征
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

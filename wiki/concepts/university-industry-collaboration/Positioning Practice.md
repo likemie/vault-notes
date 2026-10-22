@@ -40,11 +40,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Positioning Practice
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 定位实践（Positioning Practice）是 Angermuller 在 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]的一期 Higher Education 中阐述的[[Discourse|话语]]理论概念，源于其更早的学术[[Discourse Analysis\|话语分析]]研究（Angermuller, 2013）。其核心主张是：积极参与高等教育和研究始终是一种"定位实践"——行动者通过使用可用的社会范畴（职称、机构隶属、发表记录、学术头衔）来主张自己的位置并界定他人的归属([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.807–808]])。
 
 这一概念将学术交流从"信息传递"重新理解为**社会位置的持续协商**。每次学术会议发言、每篇论文的署名机构、每个职称标签——都不是中立的"事实陈述"，而是在话语中生产、确认或挑战学术等级的行动。一个学者说"我是 Harvard 的教授"——这不只是陈述一个事实，更是在使用制度化的地位范畴来定位自己在学术[[Champ|场域]]中的位置。

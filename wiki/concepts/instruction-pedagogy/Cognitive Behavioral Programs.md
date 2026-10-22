@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Cognitive Behavioral Programs
-
 > [!metax] [认知行为项目 · Cognitive behavioral programs](https://www.visiblelearningmetax.com/influences/view/cognitive_behavioral_programs)
 > 教学策略 › 教学方法
 >

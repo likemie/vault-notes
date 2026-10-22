@@ -60,11 +60,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Skill of Questioning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 提问技能（Skill of Questioning）是指认识主体在学习与求知过程中，能够清晰表达自身认知缺口、合逻辑地构建具有高阶认知价值的问题、并依据探究情境灵活调整问题焦点与层次的可习得智力技能。在教育[[Epistemology|认识论]]中，提问技能构成了智力技能（Intellectual Skills）的核心支柱，其可以通过刻意练习与外部支架训练掌握；但拥有提问技能并不等同于具备追求真理的理智品格，若缺乏对认知善品（Epistemic Goods）的内在热爱，提问技能可能被异化为诡辩或功利性应试工具。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 272–274)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 提问技能与相邻概念辨析
 > | 维度 | 提问技能 | [[Socratic Tutoring Style\|苏格拉底式提问教学]] | 提问型[[Epistemic Virtues and Vices\|理智美德]]（如好奇与惊异） |
 > |---|---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **习得方式** | 提示词[[Scaffolding\|脚手架]]、[[Paradigm\|范式]]模仿与程序性刻意训练 | 课堂师生问答互动与[[Dialogue in Education\|对话]]实践 | 情感唤起、范例熏陶与长期品格[[Habituation\|习惯化]] |
 
 ---
-
-## 核心要素与问题层级演化
 
 > [!feature] 提问技能的核心构成要素
 > - **问题生成意识** 学习者能够敏锐感知自身知识储备与外部现实之间的不一致，主动将未知的困惑转化为可探究的疑问。[[Argument_Naeem_2026_Episteme|Naeem (2026, p. 273)]]
@@ -154,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 提问技能核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -165,8 +155,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 提问技能的理论演进
 > - **古典时期 — [[Socrates|苏格拉底]][[Socratic Dialogue|产婆术]]** 将提问确立为破除虚假知识、引出真知的辩证法核心。
 > - **20 世纪末 — [[Critical Thinking|批判性思维]]与提问分类学** Elder and Paul (1998) 与 Dillon (1990) 系统建立批判性提问技能与课堂提问策略分类。
@@ -174,8 +162,6 @@ updated: 2026-10-22
 > - **2026 年 — [[Generative Artificial Intelligence|生成式人工智能]]交互重塑** Hadeel Naeem 提出提问导师架构，将提问技能作为抵抗生成式 AI [[Cognitive Deskilling|认知去技能化]]、培育理智美德的根本途径。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 269–286)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

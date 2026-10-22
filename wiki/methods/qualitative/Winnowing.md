@@ -32,8 +32,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Winnowing
-
 > [!info] 定义
 > 数据筛选（Winnowing）是质性数据分析中的核心概念：由于文本和图像数据极为密集和丰富，不可能将所有信息都用于一项[[Qualitative Research\|质性研究]]。因此，在数据分析中，研究者需要"筛选"数据（winnow the data），聚焦于部分数据而忽略其他部分（Guest et al., 2012; 引自 Creswell & Creswell, 2022, Ch9, p.206）。
 

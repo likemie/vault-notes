@@ -36,11 +36,8 @@ status: draft
 created: 2026-10-04
 updated: 2026-10-22
 ---
-# 1980 Ditchley Park United World Colleges Conference
 
 ---
-
-## 背景与历史成因
 
 > [!claim] 国际理解必须延伸到地方社会问题
 > 1980 年迪奇利公园会议是[[United World Colleges|联合世界书院]]（United World Colleges, UWC）重新界定服务使命的重要节点。会议保留跨文化理解、共同生活和挑战教育，同时要求服务回应地方社区真正需要，并把处境不利、饥饿和贫困纳入和平教育。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 168–170)]]
@@ -52,8 +49,6 @@ updated: 2026-10-22
 > - **直接任务** 全面检视 UWC 的哲学、活动、成员扩展和服务方向，并处理沃特福德卡姆拉巴转为正式成员的问题。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 125–126)]] [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 168–169)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!timeline] 会议形成的使命调整
 > - **重新界定国际理解** 目标陈述应强调人民之间的理解，而不只关注政府之间的关系。
@@ -74,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键决定与后续案例
-
 > [!case] 委内瑞拉农业教育项目体现了新的服务方向
 > 1978 年启动的西蒙·玻利瓦尔农业学院构想早于 1980 年会议，但与会议形成的使命取向一致。它把世界饥饿、热带农业、中小农场管理、跨国招生和地方技术服务连接起来，并在会议中被讨论为 [[United World Colleges|UWC]] 是否可以发展区域职业教育的案例。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 169–174)]]
 
@@ -83,8 +76,6 @@ updated: 2026-10-22
 > 会议要求尽快处理沃特福德卡姆拉巴的正式加入。随后 UWC 与[[International Baccalaureate|国际文凭组织]]协调十一月考试季和财政安排，使南半球学校能够采用共同课程，并于 1982 年完成正式纳入。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 125–126)]]
 
 ---
-
-## 历史后果与深远影响
 
 > [!finding-cards] 会议改变了 [[United World Colleges|UWC]] 判断扩展项目的方式
 > - **地方需要成为课程依据** 新书院应回应所在区域的社会与经济问题，不能机械复制大西洋学院。

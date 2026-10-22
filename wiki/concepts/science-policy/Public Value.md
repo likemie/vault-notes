@@ -96,11 +96,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Public Value
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **公共价值（Public Value）** 是指由公共部门、私营企业与公民社会组织在应对重大战略挑战与社会技术转型的全价值链中，通过共同投资、协同研发、制度创新与民主协商所共同创造的集体性经济、社会、生态与国家安全福祉。在创新经济学、公共行政学与当代国家战略语境下，它超越了新古典经济学将公共干预严格局限于提供非排他性与非竞争性“公共品”（Public Good）的狭隘边界，主张国家不仅是市场摩擦的消极修补者或私营资本的单向去风险者，更是系统性新市场的共同创造者；公共投资的合法性不仅来自促进经济增长，更取决于能否将公共技术能力实质交付于国防安全、公共卫生、教育改革等普遍利益领域，并通过[[Policy Conditionalities|制度化附加条件]]与护栏条款将公共资本转化为普惠共享的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
@@ -133,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 新古典公共品[[Paradigm|范式]]、使命型公共价值范式与国家战略[[Technological Republic|技术共和国]]实践的理论对照
 >
 > | 比较维度 | 新古典公共品范式（Public Good） | 使命型公共价值范式（[[Argument_Mazzucato_2018_ICC\|Mazzucato, 2018]]） | 技术共和国国家战略实践（[[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska, 2025]]） |
@@ -146,8 +140,6 @@ updated: 2026-10-22
 > | **核心危机诊断** | 市场扭曲与政府干预导致的寻租低效。 | 风险社会化与收益私人化的结构性失衡。 | 顶尖智力资本被消费主义俘获致公共部门成为[[Innovation Desert\|创新荒漠]]。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 公共价值创造的核心支柱
 >
@@ -244,8 +236,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -260,8 +250,6 @@ updated: 2026-10-22
 
 ---
 
-## 演进历程与治理转型
-
 > [!dev-timeline] 公共价值理论与政策实践的演进脉络
 >
 > - **第一阶段（1940s–1960s）：战时与冷战使命型公共价值奠基** 科学研究与开发局（[[Office of Scientific Research and Development|OSRD]]）与 [[DARPA]] 确立国家作为首要买家，将前沿物理与计算科学直接转化为雷达、青霉素、微芯片与 [[ARPANET]]，奠定现代计算与国家安全公共价值基座。
@@ -273,8 +261,6 @@ updated: 2026-10-22
 > - **第七阶段（2025 年）：[[Technological Republic|技术共和国]]模式与公共职能交付重构** 亚历克斯·卡普（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]警示公共部门[[Innovation Desert|创新荒漠]]与消费主义对工程[[Intellectual Capital|智力资本]]的侵蚀，主张以“国家使命+前沿技术”重塑政府核心职能的技术公共价值交付能力，防范现代民主制度的合法性危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
 
 ---
-
-## 典型案例
 
 > [!example] 案例一｜《芯片与科学法》（[[CHIPS and Science Act|CHIPS Act]]）中的公共价值护栏与社会契约条件
 > 美国商务部在实施《芯片与科学法》时确立了清晰的公共价值保护机制：对申请直接资助金额超过 1.5 亿美元的半导体企业，强制要求提供覆盖制造工人与产线建设工人的普惠托儿服务方案，以清除女性进入先进制造行业的结构性障碍；同时设立超额利润分成机制，要求商业化收益远超预期的企业向联邦财政返还部分增值利润，并严格禁止将补贴资金挪用于股票回购或发放股东股息，从制度层面防范了公共资源被金融化套利捕获。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
@@ -289,8 +275,6 @@ updated: 2026-10-22
 > 早期硅谷依托国防部（DoD）与中央情报局（CIA）的战略合同（如[[Fairchild Semiconductor|仙童半导体]]为 Corona 侦察卫星研制军用芯片、[[DARPA]] 资助利克莱德[[Man-Computer Symbiosis|人机共生]]与 [[ARPANET]]），直接催生了现代信息社会的全部基础设施公共价值。但在 1990 年代互联网商业化后，硅谷大批技术精英转向在线广告与消费娱乐应用，将国家防务与公共机构视为障碍；公共部门技术采购受困于官僚合规，沦为“[[Innovation Desert|创新荒漠]]”，导致国家在应对 21 世纪软件定义防务与公共治理挑战时面临严峻的公共价值交付能力短缺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议与张力
 >
@@ -319,8 +303,6 @@ updated: 2026-10-22
 > > - **批判教育社会学立场** 强调教育是人人共享的民主权利与文化公物；将教育公共价值完全依附于人力资本产出，不仅侵蚀了教育培养自由批判人格与社会平等的崇高使命，更将社会正义降格为服务于资本积累的残余物。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–452)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 实证研究与政策案例标杆数据（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

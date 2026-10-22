@@ -43,11 +43,7 @@ aliases:
   - Chalmers Ashby Johnson
 ---
 
-# Chalmers Johnson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 查默斯·阿什比·约翰逊（Chalmers Ashby Johnson，1931–2010），美国著名政治学家、东亚政治经济学权威与比较政治学巨匠；曾任加州大学伯克利分校政治学系主任与加州大学圣地亚哥分校杰出教授。
@@ -59,8 +55,6 @@ aliases:
 
 ---
 
-## 核心学术贡献与理论构件
-
 > [!feature] 约翰逊发展型国家理论的核心支柱
 > - **计划理性国家 vs. 规制型国家（Plan-rational State vs. Regulatory State）**
 >   - **规制型国家（如美国）** 关注市场竞争规则与反垄断规程的公平性，并不规定具体的产业结构与技术演进方向；
@@ -69,8 +63,6 @@ aliases:
 > - **行政指导与公私协同（Administrative Guidance & State-Business Cooperation）** 阐释了非强制性的“行政指导”（Gyōsei Shidō）如何通过审议会与[[Industry Affiliate Program|产业联盟]]实现国家目标与企业自主探索的有机结合，奠定了彼得·埃文斯（Peter Evans）[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy）的分析雏形。
 
 ---
-
-## 理论范式对比
 
 > [!contrast-table] 约翰逊国家类型学与治理模式对比
 >
@@ -82,8 +74,6 @@ aliases:
 > | **公私关系** | 警惕利益输送与公私串谋的防范性距离。 | 维持紧密互动沟通与协同协商的嵌入式网络。 |
 
 ---
-
-## 代表性著作
 
 > [!dimension] 代表性著作年表
 > - **1982** 《[[Ministry of International Trade and Industry|通产省]]与日本奇迹：产业政策的成长（1925–1975）》（*MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925–1975*. Stanford University Press）

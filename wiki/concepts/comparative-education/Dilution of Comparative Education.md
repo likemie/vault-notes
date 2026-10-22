@@ -50,11 +50,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Dilution of Comparative Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **比较教育的稀释（Dilution of Comparative Education）** 是指在全球化扩张与跨国教育治理热潮中，由于缺乏严格的理论与方法论训练，“人人都在比较并自称比较学者”（everybody compares and claims to be a comparativist），导致比较教育学丧失其独特的学科轮廓（specific contours）与[[Epistemology|认识论]]身份的退化现象。该概念由德国比较教育学家[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）于 2009 年系统提出，意在警示浅层经验对照、脱离文化脉络的指标罗列与政策工具主义对两百年比较教育学术根基的侵蚀。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 规范性比较教育研究 vs 泛化浅层比较实务
 > | 维度 | 规范性比较教育研究（Rigorous Discipline） | 泛化浅层比较实务（Diluted Practice） |
 > |---|---|---|
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **学科轮廓的消解侵蚀** 专业边界与知识规范被稀释，外界难以辨识比较教育作为独立学科的独特性与不可替代性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 > - **理论与方法论训练的普遍匮乏** 缺乏对单位分析（[[Unit of Analysis]]）、比较逻辑、概念对称性与[[Interpretive Validity|解释效度]]的系统学术锤炼。
 > - **[[Epistemology|认识论]]身份界定的停滞与遗忘** 放弃对“何为真正的比较”进行持续的哲学追问，被动接受外部[[Pragmatic Paradigm|实用主义]]与工具主义的议程设定。
@@ -110,8 +102,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 理论演进
 
 > [!dev-timeline] 学科边界与泛化危机的历史演进
 > - **19 世纪至 20 世纪初 — 学科奠基时期的轮廓确立** 朱利安、[[Michael Sadler|萨德勒]]、汉斯等先驱确立了以历史学、哲学与社会学为底色的规范传统，将比较教育建制为高门槛的学术志业。

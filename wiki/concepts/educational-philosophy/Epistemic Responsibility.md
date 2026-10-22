@@ -73,11 +73,7 @@ created: 2026-08-02
 updated: 2026-10-22
 ---
 
-# Epistemic Responsibility
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemic Responsibility|认识论责任]]（Epistemic Responsibility，亦作认知责任、集体认知责任、认识问责）指学习者与教育者在[[Knowledge Building Theory|知识建构]]、接收与转译过程中，主动审查知识合法性、权力立场、证据因果链以及集体认知进展的理性伦理义务。在[[Critical Pedagogy|批判教育学]]脉络中，它强调拒绝盲从既定意识形态教条；在[[Knowledge Building Theory|协作知识建构]]脉络中，它深化为**集体认知责任（Collective Cognitive Responsibility）**，即共同体成员不仅对个人理解负责，更对整个班级公共知识前沿的充实、知识缺口的填补与观点的持续改进承担实质责任；在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）[[Man-Computer Symbiosis|人机共生]]环境中，它特指学习者坚决守持对算法生成推论的多源求证权，拒绝将核心认识裁决盲目外包给算法。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 54, 57)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 360–366)]]
@@ -105,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Epistemology|认识论]]责任在三大教育情境下的表征辨析
 > | 维度 | [[Critical Pedagogy\|批判教育学]]传统（Freire） | [[Knowledge Building Theory\|协作知识建构]]传统（Scardamalia / Zhang） | [[Man-Computer Symbiosis\|人机共生]]探究传统（Wu et al.） |
 > |---|---|---|---|
@@ -117,9 +111,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **权力与假设质询（Critique of Power & Assumptions）** 拒绝将既有教材、专家定论或大模型输出视作中立无偏的绝对真理，主动追问知识背后的前提假设与立场倾向。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 57)]]
 > - **集体认知责任与公共知识贡献（Collective Cognitive Responsibility）** 共同体成员不将知识私有化或局限于个人得分，而是主动监控全班知识前沿，在[[Theory of Knowledge|知识论]]坛中跨组共享见解，自发填补集体认知缺口。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]
 > - **[[Humility|谦逊]]开放（Epistemic Openness & Humility）** 保持对反例、相左证据及自我认知局限的敏锐觉察，在理性论辩中愿意修正自身不成熟的假说。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54)]]
@@ -179,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -199,15 +189,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 认知负荷门槛 vs 普遍伦理规范
 > - **认知门槛论** 认为[[Epistemology|认识论]]责任要求学习者具备高超的[[Metacognition|元认知]]与专业知识底座，对低龄或基础薄弱学习者而言容易造成认知超载。
 > - **普遍伦理倡导（[[Argument_Darwish_2009_Queens|Darwish, 2009]]; [[Argument_Zhang_2022_SE|Zhang et al., 2022]]; [[Argument_Wu_2025_ER|Wu et al., 2025]]）** 强调认识论责任是一种基础性的认知态度与求真习惯，只要辅以适当的支架（如[[Theory of Knowledge|知识论]]坛视图、提示词引导与同伴评议），任何阶段的学习者都应当且能够建立起对自己与集体知识进展负责的审慎意识。
 
 ---
-
-## 应用案例
 
 > [!example] [[Epistemology|认识论]]责任在教学中的典型践行路径
 > - **五年级跨组协同弥补全班脑-眼机制认知缺口（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）**
@@ -216,8 +202,6 @@ updated: 2026-10-22
 >   在师范生利用生成式 AI 设计教育实证研究方案时，教学规程明确规定：学生不得直接采纳 ChatGPT 给出的统计方法建议，必须在最终报告中提供基于真实数据分布（如正态性与方差齐性检验）的一手核验证据，并公开向同伴辩护为何选择该方案，促使学生切实承担起[[Knowledge Building Theory|知识建构]]的认识论责任。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

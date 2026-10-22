@@ -60,12 +60,9 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-# Danish Public School Reform
 （丹麦 2014 年公立学校改革）
 
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2013 年 12 月丹麦议会（Folketing）多数派通过立法，2014 年 8 月新学年起在全国正式实施。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
@@ -74,8 +71,6 @@ updated: 2026-10-22
 > - **制度位置** 改革将全国课程体系与微观课堂教学重构为标准化目标达标制，直接受惠于[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》合成体系，并与削减教师劳动备课工时的市政财政紧缩法案强行绑定。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 丹麦公立学校改革确立了“确保教育系统中的每名学生学到尽可能多的知识”的效能宗旨，用将近 3,000 个以产出为导向的细分“学习目标”全面置换传统的科目育人目标，将[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作为重构全国基础教育的制度蓝本。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
@@ -93,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 政策发展脉络
 > - **2000s 初 — [[PISA]] 震荡与“圆桌教育学”终结** 丹麦在 PISA 初测表现平庸引起朝野震动，首相拉斯穆森 2003 年宣布转向严格的考核与绩效监督，为引入外部量化证据铺平道路。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 82)]]
 > - **2013 — 教师大停工与劳工立法干预（Lov 409）** 市镇协会（KL）与教师工会关于劳动协议谈判破裂，导致全国范围近 7 万名公立学校教师被停工（Lockout）；议会迅速出台 409 号法律强制介入，削减备课保护，为推行全日制教改强行扫清障碍。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
@@ -103,8 +96,6 @@ updated: 2026-10-22
 > - **2015 至今 — 合法化反弹、骨干教师流失与批判文集出版** 改革引发广泛学术反弹与基层抵抗，出版批判文集《[[Hattie på dansk]]》；学者诊断改革为行政系统防御[[Legitimation Crisis|合法化危机]]的技术理性掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 84–87)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 丹麦议会多数派、教育部（Undervisningsministeriet）。
@@ -119,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 政策主导联盟** 丹麦教育部、地方市镇协会（KL）与政界多数派——追求低成本提升国际测评排名，利用[[Technical Rationality|技术理性]]控制手段压制工会与财政预算争议。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **高权力 · 低利益 — 循证咨询机构与商业培训网络** [[Corwin Press|考文出版社]]（Corwin）、丹麦本地出版集团（如 Dafolo）及[[John Hattie|哈蒂]]团队——通过销售培训教材、认证项目与工作坊获取高额版税与服务费。
@@ -129,9 +118,7 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **政策合法性与公信力遭遇严重受挫** 改革未能在不增加投入的前提下有效提升学业水平，反而引发大批经验丰富的骨干教师辞职、学生转入私立学校（Friskoler），加剧了公立教育系统的离心倾向。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
 > - **学习概念异化为[[Learnification|学习化]]（Learnification）** 斯特恩·内珀·拉森（Steen Nepper Larsen, 2019）指出，改革将教育简化为以结果为中心的狭隘技术逻辑，教育的崇高目的被机械的测试指标所吞噬。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
 > - **国家[[Legitimation Crisis|合法化危机]]借[[Technical Rationality|技术理性]]转嫁** [[Klaus Nielsen|克劳斯·尼尔森]]与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）诊断指出：[[John Hattie|哈蒂]]框架风靡丹麦绝非由于其数据科学严谨，而是丹麦行政系统在遭遇 [[PISA]] 冲击与紧缩危机时，急切需要一套能许诺稳定产出成绩的科学说辞来向公众交差；哈蒂恰恰提供了一套将教学切片为可控环节的统一工具，被政府视作平息政治合法化危机的技术掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–87)]]
@@ -142,8 +129,6 @@ updated: 2026-10-22
 > - **2013 Lov 409** 议会强行通过以终止全国教师大停工并剥夺传统工时协议的干预法案编号。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

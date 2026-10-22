@@ -47,11 +47,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Golden Ticket Mechanism
-
 ---
-
-## 概念总览与核心界定
 
 > [!def] 核心界定
 > **金券评审机制（Golden Ticket Mechanism / Golden Ticket Review）** 是现代[[Metascience|元科学]]（Metascience）与科技资助机制设计领域的前沿非共识遴选工具。在传统同行评议中，资助决断高度依赖评审委员会的平均打分或多数共识，导致具有高度争议性、前沿异端性但蕴含颠覆性潜力的非共识提案常因个别评委的严厉质疑而被拉低总分淘汰。金券机制通过引入“单人不对称赋权”，赋予每位参与评审的资深科学家一张“金券”（Golden Ticket）；无论该项目在评审委员会中遭到多少反对意见或平均得分多低，只要有一位评审专家愿意押注并打出金券，该项目即自动获得全额立项资助。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–28)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > | **学术生态后果** | 导致均值回归与学术避险（[[Academic Risk Aversion]]），加剧文献平庸化 | 制度化保障颠覆性探索通道，打破常春藤名校人脉圈的共识垄断 |
 
 ---
-
-## 核心要素与规则架构
 
 > [!feature] 金券机制的三大核心规则要素
 > - **稀缺性与强约束（Scarcity Constraint）** 每位评委在每轮评审周期内仅拥有 1 张金券，迫使其只能在自己最具学术洞察和直觉信心的极致项目上使用，防止权力滥用。
@@ -112,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与典型案例
-
 > [!ref-table]- 金券机制与同行评议偏倚实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -124,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 金券机制核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
@@ -135,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变历程
-
 > [!dev-timeline] 金券机制在[[Metascience|元科学]]与政策中的演变脉络
 > - **2010s — 欧洲民间前沿基金会早期探索** 针对学术评审僵化，德国大众基金会与英国惠康基金会（Wellcome Trust）开始试点“高风险金券”与“摇号随机抽签资助”。
 > - **2020 — 新冠疫情期间的极速特权资助实验** [[Fast Grants]] 等民间敏捷资助将金券逻辑普遍化，允许单一决策者在 48 小时内核批高风险课题。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》建议联邦资助全面引入金券机制** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章系统将金券机制纳入联邦国家[[Portfolio-Based Research Funding|组合式科研资助]]工具箱，要求 [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]] 在青年科学家前沿项目中常设金券通道。
 
 ---
-
-## 争议与学术交锋
 
 > [!debates] 评审机制学术争鸣
 >

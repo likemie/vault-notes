@@ -69,11 +69,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Topological Spatialisation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 拓扑空间化（Topological Spatialisation），亦称拓扑空间（Topological Space）或拓扑治理（Topological Governance），是批判性政策社会学与教育空间理论用以超越传统欧几里得（Euclidean）领土尺度的新型空间构型概念。它将空间视为由异质节点在动态关系中通过拉伸（stretching）、折叠（folding）、连接（connectivity）与触达（[[Reach]]）持续编织的关系网络；在教育治理实践中，拓扑空间化重点揭示以标准化测试、绩效数据库和互操作协议为中介的[[Data Infrastructure\|教育数据基础设施]]，如何打破传统的地方—联邦州—国家—跨国嵌套科层等级，将远距离分散的课堂实践与中央[[Center of Calculation\|计算中心]]压缩折叠为即时可比、实时干预的紧密拓扑邻近关系（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 135–137]]；Allen, 2011; Ruppert, 2012）。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 拓扑空间与传统空间形态辨析
 > | 维度 | 本概念：拓扑空间（Topological Space） | 领土等级空间（Scalar / Territorial Space） | 均质[[Space of Flows\|流动空间]]（Global Space of Flows） |
 > |---|---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | **权力形态** | 依托[[Center of Calculation\|计算中心]]与数据基础设施的远距离微观规训 | 依靠宪政主权与科层命令权实施的自上而下控制 | 资本逻辑与无中心网络节点的弥散效应 |
 
 ---
-
-## 核心要素
 
 > [!feature] 拓扑空间化的关键机制构件
 > - **关系的密集触达（Intensities of [[Reach]] & Proximity）** 权力不再取决于物理驻留，而是取决于[[Data Infrastructure\|数据基础设施]]向微观教育[[Champ\|场域]]触达的深度与频次；通过标准化日常测试与在线题库平台，中央机构得以直接与一线教师互动（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136, 144]]）。
@@ -151,8 +143,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 拓扑空间概念的理论演变
 > - **2000 年代初 — 人文地理学的[[Relational Space\|关系空间]]转向** [[John Allen\|约翰·艾伦]]（John Allen, 2003, 2011）系统提出拓扑权力和空间理论，批判将权力等同于领土占有的传统地理学观点，强调权力的空间性在于连接与触达的密集度。
 > - **2010 年代初 — 数字社会学与数据库拓扑学** 伊芙琳·鲁珀特（Evelyn Ruppert, 2012）提出数据库的治理拓扑学（Governmental Topologies of Database Devices），论证人口普查与社会数据库如何重组现代国家的治理空间。
@@ -170,8 +158,6 @@ updated: 2026-10-22
 > - **2018 年 — 联邦制国家内部[[Data Infrastructure\|数据基础设施]]的拓扑重组** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将拓扑空间与[[Assemblage|装配理论]]结合，深入剖析德国在 PISA 震荡（[[PISA Shock]]）后建立 [[Institute for Educational Quality Improvement\|IQB]] 与跨州数据基础设施的过程，揭示去排名共识下潜藏的拓扑计算权力。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -186,8 +172,6 @@ updated: 2026-10-22
 > 拓扑空间化概念高度依赖于数字化基础设施、标准化测评工具与可[[Commensuration\|通约]]数据库的存在；在缺乏[[Informationalization\|信息化]]硬件支持、未推行量化产出监测或各行政主体完全相互封闭的低技术环境中，该概念的解释力将显著受限。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

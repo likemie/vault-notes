@@ -53,11 +53,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Knowledge and Innovation Exchange
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 知识与创新交流机制（Knowledge and Innovation Exchange，简称 KIX）是[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）与加拿大国际发展研究中心（International Development Research Centre，IDRC）联合发起的旗舰[[Knowledge Mediation\|知识中介]]与政策促进项目，旨在通过区域同侪交流与本土证据转化，提升发展中国家国家教育部门规划与政策落地的实证基础。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对海量跨国研究证据与政策实践严重脱节的“[[Research Utilization\|知识利用]]赤字”，改变以往国际组织仅在华盛顿或日内瓦总部被动储存报告的静态模式，主动打通全球证据下沉至国家教育决策部门的通道。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过设立下沉至全球南方各大区域的地缘化中介枢纽，将单向的全球研究推送转变为区域内平级国家间的横向同侪经验交流与适应性实证研究资助，以此化解信息过载与政策执行阻滞。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
@@ -86,16 +80,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2019–2020 — 机制创设与区域枢纽招标** [[Global Partnership for Education\|GPE]] 理事会批准设立 KIX，联合 IDRC 完成全球招标，确立四大区域枢纽：非洲西中部与印度洋枢纽、非洲东南部枢纽、拉丁美洲与加勒比枢纽、欧洲中东中亚与亚太枢纽。
 > - **2021–2023 — 枢纽常态化运转与议题开拓** 各区域枢纽汇聚 70 余国教育部核心决策团队，资助数十项聚焦女童教育、教师专业发展、早期识字与数据治理的跨国应用研究，成为各大多边机构对接南方国家的重要渠道。
 > - **2024–至今 — KIX 2.0 阶段与深度嵌入** 启动 KIX 2.0 拓展计划，进一步将[[Knowledge Mediation\|知识中介]]触角嵌入受援国教育部法定规划程序，以应对全球多边机构在[[Governing by Numbers\|数字治理]] 2.0 时代加剧的[[Policy Brokerage\|政策中介]]竞争。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **出资与总体治理方** [[Global Partnership for Education\|全球教育伙伴关系]]（[[Global Partnership for Education\|GPE]]）与 IDRC — 提供财政资助，把握全球战略优先事项，行使最高治理监督权。
@@ -110,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!indicators] 评估指标体系
 > - **网络覆盖与活跃度** 参与区域互学的教育部官员规模、多国联合政策简报产出数、跨国工作坊参与率。
 > - **[[Research Translation\|研究转化]]度** 经由 KIX 资助的应用研究被受援国《国家教育计划》（ESP）采纳引用的比例。
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > - **跨情境调适机制** 验证了相比全球普适处方，基于文化相近性与发展阶段相似性的区域同侪互学更易克服官僚阻力。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

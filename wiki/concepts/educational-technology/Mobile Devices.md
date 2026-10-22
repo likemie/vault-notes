@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Mobile Devices
-
 > [!metax] [移动设备 · Mobile devices](https://www.visiblelearningmetax.com/influences/view/mobile_devices)
 > 技术、学校与校外策略 › 移动／触屏
 >

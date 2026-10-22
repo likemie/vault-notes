@@ -118,11 +118,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# Effect Size
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 效应量（Effect Size）是量化干预措施效果或[[Variable|变量]]关联强度的标准化统计指标，最常用计算形式为干预组与对照组（或前[[Pre-test and Post-test|后测]]）结果均值差异除以合并标准差，旨在消除不同测验量表的原始单位差异，使不同研究的经验结果具备可比性。效应量是[[Meta-analysis|元分析]]的核心[[Unit of Analysis|分析单位]]，由 [[Gene Glass]]（1976）系统确立为跨研究证据合成的标准化工具，并在 [[John Hattie]] 的《[[Visible Learning|可见的学习]]》（2009）与英国[[Education Endowment Foundation|教育捐赠基金会]]的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》中，被广泛用于教育干预排位与循证政策决策。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 36–37)]]; [[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 118)]]
@@ -140,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 将经验证据视为可跨情境、跨测验量表相对度量的标准化数量关系；通过消除原始测量单位，追求实证干预效果在宏观层面的聚合与横向对比。
 > - **研究者角色** [[Quantitative Research|量化研究]]者在测验工具选取（研究者自编 vs 独立标准化统考）、对照条件设定（常规教学 vs 积极替代方案）、[[Covariate Adjustment|协变量调整]]以及设计类型抉择中具有高度裁量权，这些方法学判断直接塑造了效应量大小（[[Argument_Wolf_2020_JREE|Wolf et al., 2020]]; [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
@@ -153,8 +147,6 @@ updated: 2026-10-22
 > - **数据收集** 标准化学生[[Academic Achievement|学业成绩]]测验、自适应测评软件后台记录、[[Questionnaire|问卷调查]]、行政统考数据库。
 > - **分析方法** 标准化均值差估计、相关系数转换、胜算比对数变换、[[Inverse-Variance Weighting|逆方差加权]]平均。
 > - **辅助技术** 小样本无偏校正（Hedges' $J$ 因子）、基线等效性筛查、[[Covariate Adjustment|协变量校正]]、变差系数同质性诊断、[[EEF Padlock Security Rating|挂锁安全评级]]。
-
-### 历史演进与解释基准
 
 > [!dev-timeline] 效应量概念演变与基准框架演进
 > - **1964** — Benjamin Bloom 提出“两个标准差问题”，以标准差为单位探讨一对一辅导与班级教学的效果差距，奠定早期思想雏形（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 37]]）。
@@ -168,8 +160,6 @@ updated: 2026-10-22
 > - **2025** — Kalmendal et al. 完成[[Metascience|元科学]]质量审计，证实组间与组内设计估计不同总体参数，混杂独立组与重复测量及不同对照条件导致跨研究效应量丧失数学可比性（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
 
 ---
-
-## 研究程序
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 包含实验组与对照组（或前[[Pre-test and Post-test|后测]]）[[Sample Size Determination|样本量]]、均值、标准差（$n_1, n_2, M_1, M_2, SD_1, SD_2$）的实证数据集。
@@ -225,16 +215,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 评估因果实验干预对[[Academic Achievement|学业成就]]的相对改善幅度、为一阶[[Meta-analysis|元分析]]提供加权合并的标准化输入单元、在大规模 [[Randomised Controlled Trials|RCT]] 评估中对比不同干预方案的投入产出效能（[[Argument_Kraft_2023_ER|Kraft, 2023]]）。
 > - **谨慎使用** 跨不同研究设计（组间试验 vs 重复测量前[[Pre-test and Post-test|后测]]）的简单混装合并、使用开发者自编敏感测验的研究、以及未经[[Baseline Standardized Mean Difference|基线等效性]]校正的准实验数据（Slavin & Smith, 2009; [[Argument_Wolf_2020_JREE|Wolf et al., 2020]]）。
 > - **不适合使用** 无法量化的质性教育教化（[[Bildung]]）过程、长周期存在性生命体验转变（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]）；不适合脱离[[Sample Size Determination|样本量]]、干预成本与实施环境孤立进行行政化“绩效排行榜”[[Coding in Qualitative Research|贴标签]]。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 
@@ -250,8 +236,6 @@ updated: 2026-10-22
 >   1. **机械门槛谬误** 机械依据 $d = 0.40$ 筛选政策会误杀具有重大[[Public Value|公共价值]]的小效应量实践（如阿司匹林试验 $d = 0.07$ 每年净挽救千分之三十四生命；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）；
 >   2. **[[Epistemology|认识论]]与存在论范畴错误** 将学习简化为可见的即时效应量快照，混淆了短期测验表现与长周期终身心智成长，演化为[[Cognitive Capitalism|认知资本主义]]对教师与学生的数字规训（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 1–4, 10]]；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **补救方式** 采用[[EEF Padlock Security Rating|挂锁安全评级]]与效应量双轨呈现（[[Education Endowment Foundation|EEF]]）；采用因果 [[Randomised Controlled Trials|RCT]] 经验分布与失败频率作为政策解释基准（[[Argument_Kraft_2023_ER|Kraft, 2023]]）；选用高[[External Validity|外部效度]]、对接国家统考的标准化测验（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；严格执行[[Baseline Standardized Mean Difference|基线等效性]]筛查（$|d_{\text{baseline}}| \le 0.25$）。
-
-### 实证数据与元分析总体结果
 
 > [!effect-table]- 原始研究结果与干预效应量
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -289,8 +273,6 @@ updated: 2026-10-22
 > | [[EEF Teaching and Learning Toolkit]] | 政策工具 | 将效应量转换为“额外学习月数”并结合[[EEF Padlock Security Rating\|挂锁安全评级]]的循证决策工具。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。

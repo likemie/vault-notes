@@ -45,11 +45,7 @@ created: 2026-05-20
 updated: 2026-10-22
 ---
 
-# Preemptive Governance
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 先发制人治理（preemptive governance）指高等教育中一种在问题实际发生之前就通过数据分析和预测算法对潜在学生进行预判、标记和干预的治理逻辑。与传统的反应性治理——学生在学业中遇到困难→辅导员介入——不同，先发制人治理将治理窗口**提前至入学之前**[[Online Self-Assessment\|OSA]] 和 [[Learning Analytics\|学习分析]] 系统通过构建 [[Digital Self\|数字自我]] 和 [[Digital Optimum\|数字最优]]，在学生还未经受任何大学教育时就识别"高风险"个体并引导其进行自我优化([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.224–226]])。
 
 > [!quote|notitle]

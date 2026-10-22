@@ -82,8 +82,6 @@ created: 2026-07-25
 updated: 2026-10-20
 ---
 
-# Banking Model of Education
-
 ---
 
 ## 定义

@@ -54,11 +54,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Banality of Evil
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **平庸之恶（The Banality of Evil）** 是由德裔美籍思想家汉娜·[[Hannah Arendt|阿伦特]]（Hannah Arendt）在《艾希曼在耶路撒冷》（*Eichmann in Jerusalem*, 1963）中开创性提出的政治哲学与伦理学概念，指在高度专业化、层级化的现代[[Bureaucracy|科层制]]与规训体制中，极端的系统性灾难与道德罪恶往往并非由病态的狂热狂徒或恶魔所发动，而是由成千上万放弃独立批判反思、放弃个体良知判断、仅将“遵守程序与服从上级”奉为最高美德的普通人（即处于“无思状态”的体制齿轮）在日常事务中按部就班执行而成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
@@ -90,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **无思状态（Thoughtlessness）** 行动者放弃运用批判性反思审视自身行为后果的能力，完全依赖陈词滥调、官僚术语与既定规章指导行动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
 > - **责任让渡与代理态转换（Agentic Shift）** 个体在层级权威命令下，将自我视为执行他人意志的纯粹工具（代理态），将行为后果的道德终极责任完全转移给上级或组织架构。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 133–135)]]
 > - **语言规避与合规礼貌（Linguistic Camouflage）** 组织通过中性、官僚化甚至优雅的“茶会式语言”（如将屠杀称为“最终解决方案”、将致命电击称为“实验程序继续”）掩盖残酷伤害，阻断行动者的道德直觉警觉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 134–135)]]
@@ -154,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -174,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 历史人物真实性 vs 哲学概念有效性的[[Paradigm|范式]]争议
@@ -188,8 +178,6 @@ updated: 2026-10-22
 > 平庸之恶概念聚焦于制度与情境对个体批判思考能力的剥夺机制，但绝不能被误用为个人道德与法律免责的辩护词；在现代组织分析中，必须警惕管理层借“体制性平庸”推卸直接领导责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 关键实证与定性案例
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

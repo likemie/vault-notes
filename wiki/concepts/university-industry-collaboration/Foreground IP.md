@@ -32,11 +32,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Foreground IP
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 前景知识产权（Foreground IP, FIP）指在[[University-Industry Collaboration\|产学合作]]协议执行期间，由指定研究人员在履行协议工作范围（Scope of Work）的过程中发明或创作的知识产权。FIP 区别于[[Background IP\|背景知识产权]]（Background IP, BIP），后者是合作前各方独立开发的知识产权。FIP 的定义通常争议较小，因为其边界由工作范围、协议期限和参与人员明确界定（p.279）。
 
 > [!quote|notitle]
@@ -59,9 +55,7 @@ updated: 2026-10-22
 
 大学通常不会直接向企业转让 IP 所有权——部分原因是联邦资助法规禁止未经联邦机构明确许可的转让——因此最多提供独家许可（p.276）。
 
-## 权利转让
-
-> [!note|notitle]
+> [!note] 权利转让
 > 产业合作方对大学拥有的 FIP 通常获得以下权利层级（pp.281–282）：
 
 1. **自动获得** 非排他、免版税（Non-Exclusive Royalty-Free, NERF）的内部使用许可——企业可以制造和使用但不对外销售

@@ -53,11 +53,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Christopher Lubienski
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育领导与政策研究中心教授，曾任伊利诺伊大学厄巴纳-香槟分校（UIUC）教育政策教授。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **早期 — 教育市场化的实证批判** 对[[School Choice\|择校]]制度、特许学校（Charter Schools）与凭证制度（Voucher Programs）的[[Academic Achievement\|学业成绩]]效果进行严格实证检验，挑战新自由主义教育改革支持者的过度乐观主张。
 >   - **代表著作** *The Public School Advantage* (University of Chicago Press, 2014)（与 Sarah Lubienski 合著）——系统证明控制社经[[Variable\|变量]]后公立学校数学成绩优于私立学校。
@@ -94,8 +88,6 @@ updated: 2026-10-22
 >   - **关键概念** Information Silos、Transnational [[Policy Network\|policy networks]]、[[Policy Borrowing]]的意识形态性。
 
 ---
-
-## 核心思想
 
 > [!claim] 思想市场：[[Surplus of Evidence\|证据过剩]]时代的政策知识竞争
 > 卢宾斯基的核心论点是：教育政策领域存在一个充斥着相互竞争研究主张的"思想市场"。在这一市场中，供给侧（智库、顾问公司、国际组织）争相生产定制化证据产品，而需求侧（政治家、官员）则以意识形态偏好为购物篮，进行高度选择性的证据消费。这一市场逻辑导致"更多证据"非但未能提升政策理性，反而制造了"证据过剩"的认知混乱，并为各路中介机构提供了无限的合法化操作空间。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 537)]]

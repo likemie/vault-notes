@@ -46,11 +46,7 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-# Banal Imperialism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 平庸的帝国主义（Banal Imperialism）是当代[[Critical Geopolitics\|批判地缘政治]]与去殖民比较教育学派的核心概念。它指的是超国家评估机构（如 [[OECD]]）借助日常化、技术化、且看似客观中立的跨国学生评估数据（如 [[PISA]] 排名），将西方的教育效率与社会发展指标树立为普世标准，从而在潜移默化中巩固西方中心的[[Epistemology\|认识论]]规则，再生产对非西方社会的“他者化”（Othering）与文化规训的深层霸权机制。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
@@ -65,9 +61,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **数据作为规训权力（Performance Data as Disciplinary Power）** 利用可比性数据在全球构建起一个看不见的测评学校。国家为了避免在世界排名中被归类为“差生”，自愿实施结构性调整，形成了以科学名义实施的 **[[Governing at a Distance\|远处治理]]**。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 > - **数字霸权对世界秩序的重构（Breaching the World Order by Numbers）** 全球教育体系的优劣不再由主权国家的历史和文化决定，而是被简化为单一维度的数据指标。西方的“认识新帝国”由此通过垄断“标准定义权”而立于不败之地。(Silova & Auld, 2019)
 > - **[[Orientalism\|东方主义]]的他者化再生产（Reproduction of Orientalist Othering）** 利用跨国媒体和学术界，将高分非西方系统描绘为机械而机械的、缺乏[[Creativity\|创造力]]与民主精神的“教育地狱”，再次确认西方启蒙理性对全球灵魂的天然教化特权。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > **以数字重构世界秩序的日常霸权** 证明，新自由主义全球化下，西方霸权（**[[Re-Westernisation\|再西方化]]**）的维系主要不再依靠强权压迫，而是将 [[OECD]] 等机构重塑为“知识新帝国”来进行隐性治理。[[PISA]] 大数据的日常化生产与排位，构成了“平庸的帝国主义”的核心机制。它通过强迫各国将教育简化为单一维度的效率排名，不仅抽空了地方教育的本土智慧与文化遗产，还将追求排名的国家锁死在西方预设的“高绩效”轨道上，潜移默化地完成了西方主导世界秩序的[[Epistemology\|认识论]]再生产。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 发展脉络
 > - **2019 — 概念明确提出** Iveta Silova and Euan Auld 撰文 *'Banal' Imperialism and [[International Education]] Performance Data*，揭示了全球测评排名数据作为新帝国主义的日常化微观运作机制。(Silova & Auld, 2019)

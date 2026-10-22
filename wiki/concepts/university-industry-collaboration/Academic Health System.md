@@ -30,8 +30,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Academic Health System
-
 > [!info] 定义
 > 学术健康系统（Academic Health System, AHS）是一种以患者诊疗为首要优先、同时深度投入学术研究与产业创新的医疗组织形态。与传统[[Academic Medical Center\|学术医学中心]]（Academic Medical Center, AMC）不同，AHS 并非附属于大学的医学院加教学医院，而是一个兼具科研基础设施、临床网络和[[University-Industry Collaboration\|产学合作]]能力的独立组织实体（pp.179–180）。
 

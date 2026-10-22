@@ -146,11 +146,7 @@ created: 2026-05-10
 updated: 2026-10-22
 ---
 
-# Knowledge Production
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **知识生产（Knowledge Production）** 是指行动者在特定的[[Epistemology|认识论]][[Paradigm|范式]]、制度生态与交互关系中，对经验世界进行符号表征、实证检验并确立其真理性与合法性的社会化实践过程。该概念贯穿了宏观体制治理与微观教学建构两重互补的分析视阈：
@@ -180,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 宏观体制[[Champ|场域]]与微观课堂场域的知识生产特征对比
 > | 比较维度 | 宏观体制与[[Geopolitics\|地缘政治]]中的知识生产 | 微观课堂与学习科学中的知识生产 |
 > |:---|:---|:---|
@@ -194,9 +188,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **大学职能的研教合一（Research-Teaching Nexus）** 现代[[Research Universities|研究型大学]]确立了知识生产与传播兼备的双重使命，经由研究生院制度将前沿科学知识生产与青年学者[[Apprenticeship|学徒制]]培养深度绑定。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **同行评审竞争与分散资助机制** 美国战后科研体制确立了联邦基金（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]）直接面向学者个人竞争性下拨的模式，构成了推动基础科研高产出的制度动力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **成果知识产权与商业化归属博弈** 伴随《[[Bayh-Dole Act of 1980|拜杜法案]]》出台与[[Academic Capitalism|学术资本主义]]扩张，大学基础研究产出的大量专利法律所有权被工业资本捕获，改变了科研成果的公有属性。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
@@ -362,8 +354,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 知识生产全谱系命题归纳
 > | 谱系领域 | 命题类型 | 核心指向 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|:---|
@@ -382,8 +372,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 知识生产概念的谱系演化脉络
 > - **1810s–1870s — 现代[[Research Universities|研究型大学]]知识生产使命的确立** 柏林洪堡大学确立“研究与教学合一”信条；1876 年约翰斯·霍普金斯大学创立将这一[[Paradigm|范式]]引入美国，确立现代大学生产知识与传播知识并重的双重职能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **1945–1950s — 战后公共科研契约确立与基础研究蓄水池假说** 《[[Science, The Endless Frontier 1945|布什报告]]》确立联邦支持大学基础科研的公共品契约，提出基础科学如同全社会共享的知识蓄水池，为后续工业技术开发提供源头活水；[[National Science Foundation|NSF]] 创设确立同行评审竞争资助传统。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
@@ -401,8 +389,6 @@ updated: 2026-10-22
 > - **2026 — 战略产业中的“教育即标准”与中试共置模式** 卓泽林（[[Argument_Zhuo_2026_ICE|卓泽林, 2026, pp. 20–24]]）系统阐释战略半导体体系中大学知识生产的角色重构，揭示高校如何将开源技术方案（如 RISC-V）嵌入课程形成全球标准锁定，并依托 300 毫米晶圆中试线（SUNY Poly）打通工程转化断层。
 
 ---
-
-## 争议与批评
 
 > [!debates] 宏观与微观跨层学术争鸣
 >
@@ -451,8 +437,6 @@ updated: 2026-10-22
 > 宏观科技体制的知识生产模型不能机械套用于基础教育课堂，中小学生的新知生成旨在促发深层概念理解与审议态度，并不以发现前沿未知的客观物理定律为衡量标准。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 宏观与微观知识生产实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

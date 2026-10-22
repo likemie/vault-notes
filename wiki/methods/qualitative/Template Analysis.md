@@ -45,11 +45,8 @@ status: active
 created: '2026-07-22'
 updated: 2026-10-22
 ---
-# Template Analysis
 
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 模板分析（Template Analysis）是由 Nigel King et al. 提出并完善的一种[[Qualitative Content Analysis\|质性文本分析]]方法。其核心在于将归纳性的[[Open Coding|开放编码]]（[[Open Coding]]）与基于先验理论/文献概念的演绎性编码模板（A Priori Coding Template）有机结合，用于系统整理和分析大样本[[Qualitative Interview\|质性访谈]]或文档数据。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]
@@ -61,8 +58,6 @@ updated: 2026-10-22
 > - **输出形式** 层次化编码模板、主题节点树、理论要素映射表与跨案例对比图景。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 兼具[[Positivism\|实证主义]]的结构化严谨性与[[Constructivist Paradigm\|建构主义]]的语境丰富性，允许在先验理论导向下开展归纳性探究。
@@ -77,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 质性分析程序
 > 1. **[[Transcription in Qualitative Research\|转录]]与熟悉文本** 全文转录访谈录音，初读文本建立整体感知。
 > 2. **[[Open Coding|开放编码]]** 开展归纳性[[Open Coding\|开放编码]]（Open Coding），对原始文本段落赋予描述性节点。
@@ -87,8 +80,6 @@ updated: 2026-10-22
 > 5. **生成解释性主题** 系统剖析双系统的要素情境化、内部矛盾与扩展性改造路径。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]
 
 ---
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 拥有清晰先验理论框架（如[[Third Generation Activity Theory\|活动理论]]、制度理论），同时需要保留质性数据丰富语境与发现意外结果的实证研究。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]
@@ -104,8 +95,6 @@ updated: 2026-10-22
 > | [[Coding in Qualitative Research]] | 方法 | 模板分析属于结构化质性编码方法范畴。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 在 NVivo 11 中运用模板分析将[[Third Generation Activity Theory\|第三代活动理论]]六构件[[Operationalization\|操作化]]为[[Coding in Qualitative Research\|质性编码]]节点，剖析中国 4 所案例学校的改革机制。

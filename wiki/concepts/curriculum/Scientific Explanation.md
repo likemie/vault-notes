@@ -54,11 +54,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Scientific Explanation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Scientific Explanation|科学解释]]（Scientific Explanation，亦作科学解释建构）指在科学教育与科学探究中，学习者依据经验证据与[[Discipline-Based Theory|学科理论]]，为自然现象背后的为什么与如何发生建构因果机制模型与连贯阐述的[[Epistemic Practices|认识论实践]]。它不仅要求陈述客观现象的事实状态，更要求揭示驱动现象演变的不可见中介过程、因果链条与概念网络，是《下一代科学标准》（NGSS, 2013）与学习科学确立的核心科学认识论实践之一。[[Argument_Han_Gutierez_2026_IJSE|(Sandoval, 2005; de Andrade et al., 2019; Han & Gutierez, 2026, pp. 2–5)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–892, 905–907)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学解释与相近[[Epistemic Practices|认识论实践]]的辨析
 > | 维度 | 科学解释（Scientific Explanation） | 科学描述（Scientific Description） | 科学论证（Scientific Argumentation） | 科学预测（Scientific Prediction） |
 > |---|---|---|---|---|
@@ -92,17 +86,11 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-### 科学解释的评价标准体系
-
 > [!feature] 优质科学解释的四大评价标准（de Andrade et al., 2019）
 > - **相关性（Relevance）** 解释必须直接针对并回应所探讨的核心科学问题，聚焦核心因果主线，剔除无关背景信息的干扰。[[Argument_Han_Gutierez_2026_IJSE|(de Andrade et al., 2019; Han & Gutierez, 2026, p. 11)]]
 > - **因果叙事（Causal Story）** 解释必须完整呈现从原因到结果的连续因果链条，清晰阐明中介机制与物理／生物过程，避免出现跳跃或逻辑断裂。[[Argument_Han_Gutierez_2026_IJSE|(de Andrade et al., 2019; Han & Gutierez, 2026, pp. 11–13)]]
 > - **概念框架（Conceptual Framework）** 解释必须将孤立的特征与事实嵌入学科统一的概念网络与分类体系中，体现[[Discipline-Based Theory|学科理论]]的连贯性与系统性。[[Argument_Han_Gutierez_2026_IJSE|(de Andrade et al., 2019; Han & Gutierez, 2026, pp. 13–15)]]
 > - **适切表征水平（Appropriate Level of Representation）** 解释需根据解释目标选择适宜的微观/宏观或多模态符号表征（如箭头、解剖图标注、动态图示），准确传达机制本质。[[Argument_Han_Gutierez_2026_IJSE|(de Andrade et al., 2019; Han & Gutierez, 2026, pp. 16–18)]]
-
-### 科学解释的双维编码层级框架
 
 > [!feature] 科学理解与认知复杂度编码层级（[[Argument_Zhang_2022_SE|Zhang et al., 2022]], Table 3）
 > - **科学理解层级（Scientific Understanding Levels）**
@@ -174,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -194,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] CER 句法模板化 vs 实质因果机制表征
@@ -208,8 +192,6 @@ updated: 2026-10-22
 > 科学解释必须扎根于具体的学科经验事实与教材规范。若缺乏实验观察或权威文本的支撑，学生仅凭直觉套用评价标准，容易建构出看似逻辑自洽但违背真实科学规律的伪解释。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 22–24)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

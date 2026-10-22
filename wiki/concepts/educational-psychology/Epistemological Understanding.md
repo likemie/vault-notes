@@ -62,11 +62,7 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-# Epistemological Understanding
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology\|认识论]]理解（Epistemological Understanding）是指个体对知识本质的把握、对认知主客观维度的协调能力，以及对认识规范（[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠认识论过程]]）之合理性依据与边界条件的[[Metacognition\|元认知]]审视。在发展心理学中，它体现为从绝对论（[[Absolutist]]，客观主导）、多元论（[[Multiplist]]，主观主导）到评价论（[[Evaluativist]]，主客观协调）的演进；在学科探究实践中，它进一步深化为超越单纯操作规程的元认识论理解（Meta-epistemological Understanding），即理解探究准则为何有效及其适用的因果边界。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 207–208)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Epistemology\|认识论]]理解与相关构件辨析
 > | 维度 | [[Epistemological Understanding]]（认识论理解） | [[Epistemological Beliefs]]（认识论信念） | [[Epistemic Ideals]]（认识论理想） | 认知操作技能（Cognitive Skills） |
 > |---|---|---|---|---|
@@ -102,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **主客观双维协调机制（Coordination of Subjective and Objective Dimensions）** [[Epistemology\|认识论]]理解的核心演进轴线，在于个体如何协调外在现实的客观约束与人类心智生成知识的主观能动性。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]
 > - **三阶段发展序列（[[Absolutist]] $\rightarrow$ [[Multiplist]] $\rightarrow$ [[Evaluativist]]）** 从认为知识是客观确定且直接拷贝现实的绝对论，转向认为知识纯属个人主观意见的多元论，最终演化为主客观协调、依托标准评判优劣的评价论。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 314)]]
 > - **[[Domain Specificity\|领域特异性]]不对称渗透（Domain Specificity and Asymmetric Transition）** 认识论理解的发展并非全局同步的心智重构，而是受到具体[[Areas of Knowledge\|知识领域]]（个人品味、审美、价值观、社会事实、物理事实）本体属性的强烈制约，呈现显著的阶梯滞后。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 319)]]
@@ -161,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -180,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 发展阶段论与情境资源论的理论张力
 > - **宏观阶段发展论（蓝方）** 主张个体的[[Epistemology\|认识论]]理解遵循整体性的认知重构过程，能够跨情境展现出主客观协调的发展阶段特征。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000)]]
 > - **微观情境资源论（红方）** 强调个体的认识论理解并非固定阶段，而是由高度情境化的细粒度认识资源（[[Epistemic Resources]]）构成，在不同课堂线索和任务提示下会发生即时切换。
@@ -193,8 +181,6 @@ updated: 2026-10-22
 > - **实体概念知识对元认识论理解的强约束** 元认识论理解无法脱离具体学科领域的实体因果知识而孤立发挥作用；当个体缺乏领域基础概念时，极易退化为教条式的规则盲从或错误排斥有效证据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–222)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

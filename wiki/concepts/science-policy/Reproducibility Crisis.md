@@ -54,11 +54,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Reproducibility Crisis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 可重复性危机（Reproducibility Crisis，亦称复制危机或可复现性危机）是指 2010 年代初以来在心理学、癌症生物学、神经科学、实验经济学及社会科学等实证学科中集中爆发的系统性方法论困境——即大量经过严格同行评议并在顶级期刊发表的里程碑式实证研究，在第三方研究团队采用相同实验方案或独立代表性样本进行严格复现检验时无法重现预期结果。在科学学与科技政策视阈下，该危机暴露出学术界单一追求发表数量的锦标赛激励偏倚与生成—核验能力脱节，并在国家治理层面推动了以数据开源、方案[[Preregistration|预注册]]及“金标准科学（[[Gold Standard Science]]）”为核心的科研评价体制重塑。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18, 64–65)]]
@@ -93,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **出版偏倚与阳性结果崇拜（[[Publication Bias]]）** 期刊对[[Statistical Significance|统计显著性]]（$p < .05$）与突破性新奇结论的过度偏爱，迫使研究者雪藏阴性结果，严重扭曲文献生态。
 > - **研究自由度与统计操控（[[Researcher Degrees of Freedom]] & p-hacking）** 在数据清洗与模型设定中灵活调整[[Variable|变量]]、尝试多重亚组分析与剔除离群值，导致经验研究中充斥假阳性结论。
 > - **量化评价锦标赛与快发论文压力（Publish-or-Perish Culture）** 大学以影响因子和发表数量为核心的晋升体制，迫使学者追求论文周转率，牺牲了方案的鲁棒性与大样本验证。
@@ -148,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -166,8 +158,6 @@ updated: 2026-10-22
 > - **2025–至今 — 国家政策治理介入与[[Gold Standard Science|黄金标准科学]]确立** 美国政府签署《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，白宫 [[Office of Science and Technology Policy|OSTP]] 发布《科学：新黄金时代》报告，将可重复性治理与核验基础设施建设提升为国家科技政策的核心支柱，推动科研资助回归实证严谨性与客观卓越。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25, 64–65)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -189,8 +179,6 @@ updated: 2026-10-22
 > 可重复性概念主要适用于假设演绎型、受控实验或高度结构化的量化实证研究，不能机械推广至历史学、哲学或情境依赖性极高的深度质性研究中。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

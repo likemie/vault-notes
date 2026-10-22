@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Total War
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **总体战（Total War, 德语：*Der totale Krieg*）**指国家为了彻底摧毁敌方政治实体或生存意志，全面动员政治、军事、经济工业、科学技术与心理精神等一切社会资源的极限战争形态。该概念打破了传统战争中军事人员与非战斗平民、前线战阵与后方生产之间的伦理与物理界线，将敌国全体国民与工业基础设施视为直接合法的打击目标。在战略演进中，二战末期由总体战逻辑推向极致的大规模燃烧弹火攻与原子弹轰炸，直接促成了战后以相互保证毁灭为基石的核恐怖均势与大国[[Long Peace|长和平]]。([[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska, 2025, pp. 38–41]])
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 总体战 vs 有限战争 vs 软件世纪[[AI Deterrence|算法威慑]]
 > | 比较维度 | 20 世纪工业化总体战 | 冷战后有限战争 / 局部冲突 | 21 世纪软件世纪与 AI 威慑 |
 > |:---|:---|:---|:---|
@@ -83,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **平民与战斗员界限的消除** 将敌方后方劳动人口、产业工人与社会意志视为战争机器的有机组成部分，合法化无差别战略打击。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Ludendorff, 1935; cited in Karp & Zamiska, 2025, p. 39)]]
 > - **工业产能与科学技术的全面军工化** 动员全国工业生产线与顶尖学术界（如[[Manhattan Project|曼哈顿工程]]），将前沿基础科学直接转化为大规模杀伤武器。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–38)]]
 > - **以终极毁灭恐怖迫使敌方屈服** 从常规燃烧弹火攻（如东京大轰炸）到核裂变武器，依靠不可承受的物质与心理毁灭打破敌方作战意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Nobel, 1891; Frank, 2020; cited in Karp & Zamiska, 2025, pp. 38–40)]]
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 国际人道法对总体战手段的绝对禁止 vs 实战中战略威慑的现实张力
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > > - **[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]** 民主政体唯有在算法精度与自主软件技术上建立压倒性代差优势，方能在恪守伦理底线的同时确立有效威慑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(pp. 45–46)]]
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念网络图
 > - 核心关联：[[Long Peace]]、[[Bonsai Army]]、[[Hard Power]]、[[AI Deterrence]]

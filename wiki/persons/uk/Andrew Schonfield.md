@@ -44,11 +44,7 @@ aliases:
   - Andrew Akiba Schonfield
 ---
 
-# Andrew Schonfield
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 安德鲁·阿基巴·雄菲尔德爵士（Sir Andrew Akiba Schonfield，1917–1981），英国著名政治经济学家、比较制度主义学者与公共知识分子；曾任英国皇家国际事务研究所（Chatham House / Royal Institute of International Affairs）所长（1971–1977）与欧洲大学学院（European University Institute, EUI）经济学教授。
@@ -60,16 +56,12 @@ aliases:
 
 ---
 
-## 核心学术贡献与理论构件
-
 > [!feature] 雄菲尔德比较政治经济学的三大核心构件
 > - **法国[[Intentionality|意向性]]规划与现代化委员会模式（French Indicative Planning & [[French Modernisation Commissions|Modernisation Commissions]]）** 深入剖析由皮埃尔·马塞（Pierre Massé）和让·莫内（Jean Monnet）主导的法国计划署，阐明由技术专家官僚、产业领袖与工会代表组成的现代化委员会如何通过非强制性的共识协商与精准产业引导，践行“[[Picking the Willing|挑选意愿者]]”，成功引领战后法国重工业与高科技产业跃升。（pp. 793–794）
 > - **国家行政能力与英国规划溃败诊断（Administrative Capacity Deficits in Postwar UK）** 尖锐揭示英国在 1960–1970 年代经济规划的失败根源：缺乏具备高阶技术与工程背景的精英常任文官体系，规划权限被部门条块分割肢解，极易受短期政治周期与平庸产业利益集团俘获，导致“走走停停”（Stop-Go）的短视宏观政策。（pp. 796–797）
 > - **公私权力动态平衡与国家规划的伦理维度（Changing Balance of Public and Private Power）** 论证二战后西方资本主义的核心制度创新在于国家从被动的自由放任守夜人，转变为积极协调全[[Social Impact Investing|社会投资]]、控制系统性风险并提供长期信贷资本的战略主动型实体。
 
 ---
-
-## 国家能力比较矩阵
 
 > [!contrast-table] 雄菲尔德视野下的战后西欧国家干预模式比较
 >
@@ -80,8 +72,6 @@ aliases:
 > | **英国（短视行政与分散市场）** | 财政部短期紧缩主导；缺乏系统性产业协商平台。 | [[Polymath\|通才]]型文官为主，缺乏工程与产业规划专业技能，易被产业俘获。 | 经济规划沦为短期口号，引发 1960–70 年代产业去工业化危机。 |
 
 ---
-
-## 代表性著作
 
 > [!dimension] 代表性著作年表
 > - **1965/1966** 《现代资本主义：公私权力的演变》（*Modern Capitalism: The Changing Balance of Public and Private Power*. Oxford University Press）

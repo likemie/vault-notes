@@ -57,13 +57,10 @@ status: draft
 created: 2026-09-22
 updated: 2026-10-22
 ---
-# Family Resemblance Approach
 
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 科学的本质特征、多学科间的方法与[[Epistemology\|认识论]]多样性，以及[[Nature of Science\|科学本质]]（Nature of Science, NOS）在学校课程中的结构化表征。
 > - **理论问题** 回应传统科学本质“共识清单[[Paradigm\|范式]]”（如 Lederman 的七要素清单）将科学窄化为僵化、普适且同质的命题信条的局限，解决其无法解释物理、化学、地学与生物学之间深刻认识论差异的理论困境。
 > - **理论类型** 课程与教学论[[Analytic Framework\|分析框架]]、科学哲学认识论整合模型。
@@ -74,15 +71,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 居罗尔·伊尔齐克（Gürol Irzik）与罗伯特·诺拉（Robert Nola）于 2011 年在 *Science & Education* 期刊发表《A Family Resemblance Approach to the [[Nature of Science]] for Science Education》，系统提出 FRA 理论框架；西贝尔·埃尔杜兰（Sibel Erduran）与祖贝达·达格尔（Zoubeida Dagher）于 2014 年出版专著《Reconceptualizing the Nature of Science for Science Education》，将其全面扩展为科学课程与教学论模型。
 > - **原初问题** 20 世纪末科学教育界形成的以诺曼·莱德曼（Norman Lederman）为代表的“共识观”（Consensus NOS），因将科学本质简化为 7 条普遍信条（如暂定性、主观性、经验性等）而广受批评，被指责抹杀了具体学科的独特性，脱离了真实科研实践。
 > - **理论资源与材料** 引入维特根斯坦《哲学研究》（Philosophical Investigations）中的“家族相似性”（Family Resemblance）概念，并广泛吸纳科学史、科学哲学、科学社会学（HPS）对物理学、化学、地学和生物学实际运作规程的实证案例。
 > - **形成路径** 从维特根斯坦“各项活动通过网状重叠的相似性交织在一起”的隐喻出发，构建由四大认知范畴（活动、价值、方法论、产品）与社会系统构成的矩阵式结构，替代线性的清单式定义。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
 > - **2011 — 基础框架奠定** Irzik & Nola 确立由活动、价值、方法论和知识产品组成的四大认知-[[Epistemology\|认识论]][[Central Phenomenon\|核心范畴]]。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 152–153)]]
@@ -104,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜科学各分支通过网状重叠的家族相似性相连而非依赖同质本质
 > **解释** 科学并不存在一个所有分支必须共同具备的充要条件集合。物理学可能强调精确数学定律与受控实验，地质学依赖[[Retrodiction\|回溯推测]]与野外观测，化学依赖结构模型与定性规律，生物学强调概率机制。这些学科像一个大家族的成员一样，在面貌、体态与性格上彼此重叠相似，共同构成“科学”的家族。（Irzik & Nola, 2011; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018]]）
 >
@@ -117,8 +108,6 @@ updated: 2026-10-22
 > **应用实例** 在[[Socioscientific Issues\|社会科学议题]]（Socioscientific Issues, SSI）探讨中，学生在评估转基因作物安全性时，不仅考察其实验室生物学检测数据，还深入审阅该研究是否经过独立同行评议并公开利益冲突声明。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 用于分析科学课程标准、教材文本与课堂互动中对[[Nature of Science\|科学本质]]的表征广度与深度；指导教师设计体现[[Domain Specificity\|学科特异性]]的探究活动。
@@ -145,8 +134,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能仅凭 FRA 矩阵的完整性直接推导出学生科学[[Academic Achievement\|学业成绩]]的必然提高；需要配合微观[[Discourse|话语]]支架方能落地。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

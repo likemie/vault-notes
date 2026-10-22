@@ -44,11 +44,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Creative Deskilling
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Creativity|创造力]][[Cognitive Deskilling|去技能化]]（Creative Deskilling）是指学习者或创作者在面临[[Open-Mindedness|开放性]]问题、艺术创作或学术构思时，过度依赖[[Generative Artificial Intelligence|生成式人工智能]]系统（如大语言模型或图像生成模型）直接生成备选方案、草案或创意原型，从而剥夺了主体自身进行发散联想、直觉试错与概念融合的内在认知锻炼，导致个体内在创造力效能感下降、创造过程的内在探索愉悦感丧失以及集体层面创意多样性显著收缩同质化的现象。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 271–273)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - 不等于 [[Cognitive Deskilling|认知去技能化]] — 认知去技能化涵盖广泛的逻辑、计算与批判能力，创造力去技能化专门聚焦于突破常规联想与生成新颖有效价值的创造性维度。
 
 ---
-
-## 核心要素
 
 > [!feature] [[Creativity|创造力]][[Cognitive Deskilling|去技能化]]的核心维度与危害机制
 > - **构思主动权剥夺** 学习者不再经历从无到有的发散思考与灵感酝酿，直接以 AI 给出的预设框架作为思考锚点。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 271–272)]]
@@ -109,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 创造力去技能化命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -119,16 +111,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Creativity|创造力]][[Cognitive Deskilling|去技能化]]讨论的发展阶段
 > - **20 世纪末 — 计算创造力探索** Margaret Boden 确立创造力三维分类（组合型、探索型、转换型），探讨机器生成创意的理论可行性。
 > - **2023–2024 年 — 生成式 AI [[Emergence|涌现]]与同质化实证** 随着 Midjourney、ChatGPT 的普及，实证研究（如 Doshi & Hauser, 2024; Zhou & Lee, 2024）揭示 AI 辅助导致人类独创性下降与风格同质化。
 > - **2026 年 — 创造力[[Epistemic Virtues and Vices|理智美德]]与教育防御架构** Hadeel Naeem 提出将创造力界定为需要理智动机支持的德性品格，通过设计提问导师与个性化叙事机制抵御创造力去技能化。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 269–286)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -74,11 +74,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Christian Ydesen
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦历史学与比较教育学者，奥尔堡大学（Aalborg University）教育社会学与全球教育治理教授、牛津大学全球史研究中心高级研究学者。
@@ -102,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2011–2018 — 测验技术、心理测量与教育分流史** 关注心理测量与能力测试技术如何在 20 世纪上半叶作为行政分类与社会控制工具跨国流动。
 >   - **代表著作** *The [[Research in Schools Evaluation\|RISE]] of [[High-Stakes Testing]] in Denmark, 1920–1970* (Peter Lang, 2011)。
@@ -120,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球教育治理是由冷战地缘博弈、西方资本重组与国际组织自我赋权共同形塑的历史制度复合体。[[OECD\|经合组织]]与[[World Bank\|世界银行]]通过与欧美核心国家政商精英结盟，利用危机叙事与量化测试工具，系统蚕食了[[UNESCO\|联合国教科文组织]]的人文主义教育领导权；在当代[[Governing by Numbers\|数字治理]]阶段，国际组织通过充当[[Policy Brokerage\|政策中介]]，将[[Façade of Rationality\|数字作为理性表象的脚手架]]，以不可抗拒的“硬事实”构筑起深度侵蚀民族国家教育自主权的软性规制霸权。
 
 > [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的[[Historical Institutionalism|历史制度主义]]定性
@@ -132,9 +124,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了国际组织社会学与比较教育[[Historical Institutionalism|历史制度主义]]的融合，确立了“治理复合体”与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”在当代跨国政策分析中的核心分析地位。
 > - **方法路径** 倡导结合跨国多边机构内部未公开机密档案、口述历史访谈以及统计分类目录演化的跨国历史社会学方法。
 > - **政策路径** 成果被[[UNESCO\|联合国教科文组织]][[Global Education Monitoring Report\|全球教育监测报告]]（GEM Report）以及发展中[[State Educational Sovereignty\|国家教育主权]]维护联盟多次引述，为反思全球南方国家过度依赖西方外援指标提供了批判性镜鉴。
@@ -155,8 +145,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** [[OECD]] — 其[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）及指标部门的制度史构成 Ydesen 毕生研究的中心档案库。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

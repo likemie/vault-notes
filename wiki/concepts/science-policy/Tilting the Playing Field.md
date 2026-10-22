@@ -43,11 +43,7 @@ aliases:
   - 倾斜市场场地
 ---
 
-# Tilting the Playing Field
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **倾斜竞争场地（Tilting the Playing [[Champ|field]] / 倾斜竞技场）** 是指公共部门在科技创新与产业治理中，超越新古典经济学主张的“被动修补[[Market Failure|市场失灵]]、提供中性要素以平整竞争场地（Leveling the Playing Field）”的狭隘定位，主动通过定向战略采购、差异化税收规制、附加公共利益条件的研发资助以及长期[[Patient Capital|耐心资本]]支持，使市场竞争规则与商业投资预期系统性地向符合公共利益与重大社会目标的绿色、包容与高溢出性[[Technological Trajectories|技术轨道]]发生结构性倾斜（Mazzucato & Perez, 2015）。[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）在论述第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]时，将“倾斜场地”确立为国家进行[[Market Shaping and Creating|市场塑造]]与创造的关键行动准则，旨在通过重塑私人资本的未来利润预期来引导和撬动（Crowd in）广泛的[[Social Impact Investing|社会投资]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
@@ -68,8 +64,6 @@ aliases:
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 平整竞争场地 vs. 倾斜竞争场地深度对比
 >
 > | 比较维度 | 平整竞争场地（Leveling the Playing [[Champ\|field]]） | 倾斜竞争场地（Tilting the Playing Field） |
@@ -81,8 +75,6 @@ aliases:
 > | **对私人资本作用** | 避免干预私人决策，防范对私人投资的所谓“挤出”。 | 塑造未来确定性增长预期，积极撬动与引导私人资本。 |
 
 ---
-
-## 实施机制
 
 > [!process]- 倾斜竞争场地的政策杠杆协同机制
 > ```mermaid

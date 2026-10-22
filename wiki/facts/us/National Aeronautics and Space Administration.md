@@ -58,11 +58,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# National Aeronautics and Space Administration
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 美国国家航空航天局（National Aeronautics and Space Administration, NASA）是美国联邦政府负责民用航天规划、尖端航空工程研究以及空间与地球科学探索的独立行政机构。作为冷战时期美国[[Technological Republic|技术共和国]][[Big Science|大科学工程]]与国家战略动员的旗舰中枢，NASA 体现了国家最高政治领导层与顶尖科学家群体之间的高度战略互信，开创了超大规模跨学科前沿技术集成的国家研发[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1957–1958 — 危机应对与机构闪电创设** [[Sputnik Shock 1957|斯普特尼克冲击]]促使[[Dwight D. Eisenhower|艾森豪威尔]]总统与贝特、拉比等物理学巨擘迅速结盟，建立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）；国会于 1958 年 7 月通过立法，同年 10 月正式成立 NASA，开启国家级[[Big Science|大科学工程]]时代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 > - **1961–1972 — 冷战太空竞赛与阿波罗登月壮举** 肯尼迪总统确立登月国家战略目标，NASA 统领逾 40 万工程师与 2 万家工业企业实施[[Apollo Program|阿波罗计划]]，于 1969 年实现人类首次载人登月，奠定了美国在微电子、计算与航天领域的全球统治地位。
@@ -89,8 +83,6 @@ updated: 2026-10-22
 > - **2010s–至今 — 商业航天协同与阿尔忒弥斯重返月球** 面对国际地缘新格局与商业航天崛起，推行商业载人与商业货运公私伙伴机制，启动以阿尔忒弥斯计划为核心的载人登月与火星深空探索新战略。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **领导层（局长与副局长）** 由美国总统提名并经参议院确认的局长领导，直接对总统负责。
@@ -105,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **载人航天与月球/深空探索** [[Apollo Program|阿波罗计划]]（1969 登月）、航天飞机计划、国际空间站（ISS）及阿尔忒弥斯（Artemis）登月计划。
 > - **深空探测与空间天文望远镜** 哈勃空间望远镜（HST）、詹姆斯·韦布空间望远镜（JWST）、旅行者 1 号与 2 号、好奇号与毅力号火星漫游车。
@@ -115,16 +105,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **[[Technological Republic|技术共和国]][[Big Science|大科学工程]]典范** NASA 的建立与运行证明了国家将崇高地缘使命与顶尖科学探索无缝结合的组织效能，成为战后美国赢得科技冷战的标志性制度力量。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 > - **催生微电子与计算产业革命** 1960 年代阿波罗导航计算机（AGC）对硅芯片的海量刚性采购，直接摊薄了[[Fairchild Semiconductor|仙童半导体]]等企业的生产成本，使微芯片从军工专用跨入民用个人计算。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 3)]]
 > - **奠定现代系统工程方法论** 首创并普及了[[Technology Readiness Level|技术就绪度]]（TRL 1–9 级）划分体系与大型复杂项目风险管理规范，被全球科技界与产业界广泛奉为标准。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

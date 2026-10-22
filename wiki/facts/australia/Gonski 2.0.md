@@ -58,11 +58,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Gonski 2.0
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2018 年 3 月由澳大利亚联邦政府正式发布；由时任总理马尔科姆·特恩布尔（Malcolm Turnbull）委托商业法律顾问[[David Gonski\|戴维·冈斯基]]（David Gonski）担任审查委员会主席（Australian Government, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **制度位置** 衔接 2011 年《Gonski 1.0》拨款基准审查，直接作为后续各州与联邦签署《2018年全国学校改革协议》（National School Reform Agreement）及注资 5000 万澳元设立国家证据机构的法定依据；在此期间，[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）以其全资子公司[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L）的运行成效作为样板原型，向审查委员会递交专项建议书，系统推销国家级独立证据中介模式，其核心主张被第 23 条建议全面吸纳（COAG, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 531]]）。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《Gonski 2.0》审查报告将国家教育改革重心从“基于处境不利维度的财政资源再分配”根本性转移至“以学生个体每年至少取得一年成长增益（at least one year's growth each year）为导向的个性化卓越教学”；其最具制度突破性的第 23 条建议，正式要求联邦政府设立独立的国家级教育证据机构，统筹全国教育科研因果实证的生产、转化与课堂普及（Australian Government, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
@@ -90,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策审查与落地时间线
 > - **2017.07** 特恩布尔自由党联邦政府宣布设立“实现澳大利亚学校卓越教育审查委员会”，委任[[David Gonski\|戴维·冈斯基]]领衔（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 > - **2018.03** 委员会正式发布最终审查报告《通过成长实现成就》（Gonski 2.0），明确提出设立国家证据机构等 23 项建议。
@@ -100,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施情况
-
 > [!actor-grid] 实施角色分工
 > - **发起与主持主体** 联邦教育部与[[David Gonski\|戴维·冈斯基]]领衔的独立审查专家委员会。
 > - **联合出资主体** 澳大利亚联邦政府（注资 2500 万澳元）与各州/领地教育部（联合注资 2500 万澳元）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - **配套游说中介** [[Social Ventures Australia\|澳大利亚社会创投]]（SVA）及其子公司[[Evidence for Learning\|证据学习中心]]（E4L）— 提供方案原型与长期游说支撑，以 E4L 运行成效向审查委员会系统推销国家[[Educational Brokerage Agency\|证据经纪人]]模式（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 531]]）。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议交锋
 >

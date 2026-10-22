@@ -82,7 +82,6 @@ argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Journal of Curriculum Studies"
 ---
-# Argument_Terhart_2011_JCS
 
 ---
 
@@ -99,8 +98,6 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -113,8 +110,6 @@ journal: "Journal of Curriculum Studies"
 > 理论工具将针对《[[Visible Learning|可见的学习]]》的计量统计审计、文本概念细读与政治哲学批判连接起来。欧陆教学论揭示了其课程章节缺乏学科实质内容的学理盲区，福柯的权力视角揭示了其浪漫化教育乐观主义背后的监控本质，而稳定性与变异性假说则从科学哲学高度锁定了[[Meta-meta-analysis|二阶元分析]]作为循证政策工具的内在局限。（pp. 430–437）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -131,8 +126,6 @@ journal: "Journal of Curriculum Studies"
 > | **政策与机构样本** | 奥克兰大学可见学习实验室（Visible Learning Laboratories）、[[Assessment Tools for Teaching and Learning\|新西兰教育成就评估工具（Assessment Tools for Teaching and Learning, asTTle）]]、新西兰教育部政策咨询报告与相关学者批判文献（[[Argument_Snook_2010_NZJES\|Snook et al., 2010]]; Smythe, 2010）。（pp. 426, 434） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -151,9 +144,7 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-### 论证步骤一　二阶聚合消解经验情境且掩盖数据异质性
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　二阶聚合消解经验情境且掩盖数据异质性
 > [[Meta-meta-analysis|二阶元分析]]将已经高度汇总的[[Meta-analysis|元分析]]数据再次聚合，造成原始经验情境信息的系统性损耗；缺乏明确的纳入质控标准且过度依赖陈旧文献，导致其庞大数据库在方法学质量与时效性上呈现严重缺陷。（pp. 427–429, 436）
 
 #### 1. 层级累加导致信息损耗且缺乏质控标准
@@ -195,9 +186,7 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-### 论证步骤二　形式化教学理论抽空学科实质且潜藏全景规训
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　形式化教学理论抽空学科实质且潜藏全景规训
 > 哈蒂的形式化[[Didaktik|教学理论]]完全抽空了德国教学论与教化传统所关注的学科实质内容与课程正当性；其倡导的双向可见性与教师激活角色，在福柯视角下展现为将传统公开外显统治转化为内化自我监控的现代全景规训技术。（pp. 430–435）
 
 #### 1. 课程缺乏教化实质且双向可见性沦为微观监控
@@ -239,9 +228,7 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-### 论证步骤三　巨型综合金字塔终结圣杯神话并陷入双重困境
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　巨型综合金字塔终结圣杯神话并陷入双重困境
 > 二阶元分析试图以追求最高确定性的科学知识指导教育决策，却在[[Epistemology|认识论]]上同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说；哈蒂未曾获得终结教学争议的圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔。（pp. 435–437）
 
 #### 1. 循证决策面临常识逼近与结论过时的不可调和矛盾
@@ -265,8 +252,6 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **二阶聚合致使经验信息损耗与时效滞后** 跨研究重复聚合消解了原始经验情境与控制[[Variable|变量]]，且缺乏纳入质控标准并过度依赖陈旧文献，导致底层数据库质量异质。（pp. 428–429, 436）
 > 2. **形式化[[Didaktik|教学理论]]面临教化实质真空** 联想式借用波普尔[[Popper's Three Worlds Theory|三个世界理论]]，抽空了德语教学论与教化传统所关注的学科知识正当性与价值反思。（pp. 430–431）
@@ -281,8 +266,6 @@ journal: "Journal of Curriculum Studies"
 > - **8%–21%** 教师效能对学生[[Academic Achievement|学业成就]]变异的解释比例。（p. 432）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Ewald Terhart|特哈特]]论[[Meta-meta-analysis|二阶元分析]]的经验信息损失与货币比附批判
 > 通过反复累加，原始详尽的经验信息消失了。当然，可以通过不同渠道积累金钱并将不同货币汇聚在一起——但你能用来自不同项目、不同方法的研究结果做同样的事吗？如果你这样做，这仍然可靠吗——还是你累加得越多，证据的稳健性反而越发降低？（p. 436）
@@ -305,8 +288,6 @@ journal: "Journal of Curriculum Studies"
 > *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
 
 ---
-
-## 自述局限
 
 > [!warning] 研究性质与语境局限
 > - **长篇书评性质的方法依赖** 该项研究属于长篇理论批判书评，未开展独立的实证量化重新聚合，论证依托文本审读与方法学推演。（p. 426）

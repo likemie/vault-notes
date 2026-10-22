@@ -52,11 +52,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# PISA Response in Spain
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 西班牙对[[PISA|国际学生评估项目]]（PISA）的政策应对，构成了跨国测评在分权与极化政治体制中异化为责任推诿与改革僵局的典型案例。不同于德国借实证危机破除改革积压的建构性路径，西班牙在低迷的国际表现面前，陷入了中央与自治区互相甩锅、左右翼政党教条倾轧与推脱专业问责的恶性循环。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–331)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2001–2003 — 数据揭底与[[Plaintive Comparison|诉苦式比较]]初起** [[OECD]] 公布 [[PISA]] 2000 结果，西班牙成绩远逊于西欧主要经济体。社会各界将数据不佳轻率归咎于佛朗哥专制遗产与国家政治不成熟，滋生出自惭形秽却回避教学反思的“[[Plaintive Comparison|诉苦式比较]]”文化；人民党阿斯纳尔政府借数据起草 2002 年《教育质量组织法》（LOCE），试图恢复分流与高中会考。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325, 331)]]
 > - **2004–2006 — 政党轮替、法案推翻与分权推诿白热化** 2004 年社会党萨帕特罗政府上台，立即冻结 LOCE，并于 2006 年通过《[[Organic Law on Education 2006|教育组织法]]》（LOE）。PISA 2003 数据公布再度居末，中央教育部与 17 个自治区展开战术推诿：中央指责自治区落实不力且教育割据，自治区指责马德里中央拨款不足；两派均将国际排名作为互相攻击的政治弹药。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–328)]]
@@ -78,16 +72,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 标志性文件／历史声明：加里多论[[Plaintive Comparison|诉苦式比较]]与政治发展滞后论
 > 在西班牙，教育比较带有极其强烈的诉苦性质……其核心论调是将这种落后解释为该国过去与现在政治困境的结果；换言之，在西班牙，不发达的教育始终被视为不发达政治的产物。这构成了立法者承认自身落后于欧洲的虔诚借口。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 >
 > *In Spain educational comparisons are of a highly plaintive nature... In Spain, the underdeveloped education was and is the result of an underdeveloped politics... It is a pious way of admitting that Spain is beneath these countries.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **中央教育部与中左翼执政党（PSOE）** 坚持纯粹[[Comprehensive Education|综合教育]]理念与区域分权，指责批评者制造精英主义分流，强调教育公平但回避学业平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
@@ -108,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 频繁推倒重来，相继出台 LOCE 2002（被冻结废除）与 [[Organic Law on Education 2006|LOE]] 2006，陷入政党轮替的法案废立动荡。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 > - **思想[[Paradigm|范式]]变迁** 固化了“[[Plaintive Comparison|诉苦式比较]]”文化，将教育质量危机[[Externalization|外化]]为不可抗拒的政治宿命，阻滞了循证问责转型。
@@ -125,8 +113,6 @@ updated: 2026-10-22
 > - **<4%** （拔尖卓越率） 达到 PISA 5–6 级高阶水平学生不足 4%。
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

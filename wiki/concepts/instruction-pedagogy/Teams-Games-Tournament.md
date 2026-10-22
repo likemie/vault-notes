@@ -46,11 +46,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Teams-Games-Tournament
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > Teams-Games-Tournament（团队-游戏-竞赛法，TGT）是由 David DeVries 与 Keith Edwards 于 1973 年开发、后经 Robert Slavin（1978）系统整合进“学生团队学习（Student Team Learning，STL）”框架中的经典[[Cooperative Learning\|合作学习]]教学模式。其核心特征在于将组内合作与组间竞争有机融合，使用每周一次的“学术竞赛台游戏（Academic Tournament Games）”替代传统的闭卷纸笔测验；学生在[[Heterogeneity\|异质性]]（能力、性别多元）的原属小组内协同研讨并相互辅导，随后被分派至同质能力水平的竞赛桌与跨组同伴进行均等竞答，为原属小组赢取积分并获取团队表彰。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] TGT 与其他学生团队学习模式对比
 > | 维度 | 团队-游戏-竞赛法 (TGT) | 学生小组成就区分法 (STAD) | 传统课堂竞赛 (Traditional Competition) |
 > |---|---|---|---|
@@ -77,8 +71,6 @@ updated: 2026-10-22
 > | 适用内容 | 事实、词汇、公式等良构知识复习 | 概念理解与学科综合测试 | 甄别选拔性考试 |
 
 ---
-
-## 核心要素与教学规程
 
 > [!feature] TGT 的四大核心组成模块
 > - **全班授课（Class Presentation）** 教师讲授核心概念与新知识，明确学习目标与考查要点。
@@ -122,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -132,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] TGT 的发展演进
 > - **1973 — 约翰霍普金斯大学开创** David DeVries 与 Keith Edwards 在约翰霍普金斯大学社会组织研究中心首次设计出 Teams-Games-Tournament 原型，旨在通过[[Gamification\|游戏化]]小组学习改善种族融合与学业动机。
 > - **1978–1980s — Slavin 体系化与 STL 整合** [[Robert Slavin]] 将 TGT 与 STAD 整合为“学生团队学习（Student Team Learning）”理论框架，确立了动态升降桌规程（Bumping Procedures）并推向全美中小学。
@@ -141,15 +129,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!warning] 实施局限与注意要点
 > - **材料准备工作量极大** 教师需要为每周的竞赛准备大量的分级题卡与答案核对单，对教学资源要求较高。
 > - **知识类型局限** TGT 适宜考查有固定答案的明确知识，对批判性写作、发散创造或复杂辩论等开放产出的训练效果有限。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

@@ -63,11 +63,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# World Trade Organization
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 世界贸易组织（World Trade Organization, WTO）是当代统摄全球多边经贸规则与多边贸易谈判的核心政府间国际组织；1995 年取代关税与贸易总协定（General Agreement on Tariffs and Trade, GATT）成立后，通过《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS）将教育正式纳入具有强制法律约束力的国际贸易与跨境服务产业规程，成为建构无边界全球教育市场与重塑[[State Educational Sovereignty|国家教育主权]]的关键制度力量。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1947–1994 — GATT 货物贸易时代** 关税与贸易总协定长期聚焦于工业品与农产品的关税减让与货物贸易争端协调，教育、文化与卫生等公共领域被严格视为国家不可让渡的主权行政事务，排斥在多边商业协定管辖之外。
 > - **1995 — WTO 成立与服务贸易扩张** 世贸组织正式运行并实施 [[GATS and Trade in Education Services|GATS]]，确立了全球服务贸易分类标准（W/120），将高等教育、成人教育与其他教育服务明确列为第 5 类受国际贸易法规范的商业服务部门，开启教育服务商品化时代。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > - **2020 年代 — 地缘科技博弈与多边贸易规约边缘化** 随着中美高科技竞争加剧与供应链安全危机爆发，主要经济体绕过 WTO 多边规制，密集出台大规模单边产业补贴与出口管制；[[EU|欧盟]]在 2019 年前仍坚持诉诸 WTO 多边贸易解决方案，但此后被迫转向[[Strategic Autonomy|战略自主]]与防卫性产业政策，凸显 WTO 在规约尖端科技产业与单边补贴竞赛中的制度失灵与边缘化。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **部长级会议（Ministerial Conference）** WTO 最高权力机构，至少每两年召开一次，由所有成员国经贸部长组成，拥有对所有多边贸易协定的最高决策权与最终解释权。
@@ -107,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务与规约矩阵
 > - **多边服务贸易减让表体系** 汇编并监督 160 余个成员国在初等、中等、高等、成人及其他教育服务门类作出的自愿开放减让承诺表。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **贸易政策审议机制（TPRM）** 定期对各成员国（如美、欧、中、日等）的贸易与跨境服务管理法规实施[[Peer Debriefing|同行审议]]，审查是否存在隐性办学壁垒与资质歧视。
@@ -121,8 +111,6 @@ updated: 2026-10-22
 > *Recognizing the growing importance of trade in services for the growth and development of the world economy... Desiring to establish a multilateral framework of principles and rules for trade in services with a view to the expansion of such trade under conditions of transparency and progressive liberalization... (GATS Preamble, 1995)*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **规约网络规模** 覆盖全球 164 个成员国，全球教育服务跨境贸易年规模超过千亿美元。
@@ -138,8 +126,6 @@ updated: 2026-10-22
 > 成员国数量：164 个；全球贸易覆盖率：>98%；教育服务列入 [[GATS and Trade in Education Services|GATS]] 规约部门：第 5 大类（含高等教育、成人教育等 5 项子类）。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

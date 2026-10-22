@@ -34,11 +34,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# The Perception Census
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **学术主导与跨界合作方** 由苏塞克斯大学萨克勒意识科学中心主任、英国皇家学会会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 43)]]
@@ -46,8 +42,6 @@ updated: 2026-10-22
 > - **核心使命** 探索人类知觉与意识的知觉多样性（Perceptual Diversity），通过大规模科学实证数据揭示每个人看到的世界如何因大脑主动预测机制差异而截然不同。
 
 ---
-
-## 核心运作模式与科研创新
 
 > [!claim] 艺术科技融合的双向公众参与[[Paradigm\|范式]]
 > 该工程通过线下沉浸式造梦机器（Dreamachine）光频刺激体验与线上 10 大认知交互测试模块，将高度晦涩的计算神经科学转化为趣味互动，使公众在自我探索中直接贡献前沿科研数据。

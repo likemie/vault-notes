@@ -76,11 +76,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# National Semiconductor Technology Center
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **国家半导体技术中心（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）** 是依据美国《2022 年[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）授权设立、由商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）、国防部（Department of Defense, DOD）、能源部（[[Department of Energy|DOE]]）与国家科学基金会（[[National Science Foundation|NSF]]）联合指导，并由独立非营利实体国家先进技术与半导体合作体（[[Natcast|National Center for the Advancement of Semiconductor Technology]], Natcast）运营的国家级公私研发合作枢纽。作为 110 亿美元国家半导体研发计划的核心中枢，NSTC 汇聚全美工业界、顶尖[[Research Universities|研究型大学]]与国家实验室力量，旨在构建开放共享的[[Pilot Scale Platform|中试验证平台]]，攻克从“实验室到量产代工厂”（[[Translational Research|lab-to-fab]]）的产业化断层，加速前沿微电子技术从概念向规模化商业制造转化，全面保障国家安全与本土供应链韧性。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2, 8)]]
@@ -93,16 +89,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2020–2022 — 地缘科技博弈与《[[CHIPS and Science Act|芯片法案]]》立法授权** 面对美国全球半导体制造产能份额从 1990 年的 37% 骤降至 12% 的战略危机，国会两党于 2022 年 8 月通过《芯片与科学法案》，正式确立将设立 [[National Science and Technology Council|NSTC]] 作为国家半导体研发复兴的法定旗舰支柱。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]
 > - **2023 — 顶层战略白皮书发布与运营实体 [[Natcast]] 创设** 美国商务部与 NIST 发布《国家半导体技术中心愿景与战略》（*A Vision and Strategy for the NSTC*），确立三大目标、六大核心项目与分层治理体系；同年 11 月成立独立非营利组织 Natcast，受托作为 NSTC 的法定运营商。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 1–25)]]
 > - **2024–至今 — 启动旗舰设施建设与产学研网络全面铺开** 启动极紫外光刻（Extreme Ultraviolet Lithography, EUV）与 300 毫米先进基线中试设施选址，设立国家半导体劳动力卓越中心（Workforce Center of Excellence, WCoE），全面践行跨部门敏捷协调与公私共创的现代产业战略过程准则，成为统摄全美芯片跨界合作的第三代国家法定创新平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8, 14–15)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **部际联合指导与商务部监管** 由美国商务部（NIST CHIPS 研发办公室牵头）、国防部、能源部、国家科学基金会及白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）高级代表组成，把控国家战略导向并监督项目绩效。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23)]]
@@ -118,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵
 > - **300 毫米基线与先进封装中试设施（Prototyping & Packaging Facilities）** 建设涵盖先进基线互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）制程、EUV 光刻机时共享、Fab-to-Lab 切片测试与 2.5D/3D [[Heterogeneous Integration|异构集成]]的共享洁净室试验床。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–15)]]
 > - **[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]协同（NAPMP Coordination）** 与 NIST NAPMP 紧密联动，承接先进封装前沿技术的工程化验证与标准化芯粒接口落地。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 26)]]
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > *The NSTC is a critical national asset dedicated to bringing together government, industry, and academia to ensure the United States remains the indispensable world leader in semiconductor innovation, prototyping, and manufacturing.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资金与资本动员规模** 统筹运用 110 亿美元联邦研发专项资金，撬动地方政府与私营资本数百亿美元配套投资，成为美国历史上规模最宏大的定向产业科技投资计划。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 22–23)]]
@@ -155,8 +143,6 @@ updated: 2026-10-22
 > - **6** 核心业务板块（中试与先进封装线、NAPMP 协同、技术中心、设计网关 DEG、劳动力卓越中心 WCoE、创业投资基金）。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

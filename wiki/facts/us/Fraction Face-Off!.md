@@ -54,11 +54,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Fraction Face-Off!
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Fraction Face-Off!（分数对决）** 是由范德堡大学（Vanderbilt University）著名特殊教育与数学认知学者林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）研究团队研发、全美公立学校广泛采用的小学四年级数学分数专项干预项目；其核心使命是通过将数轴测量模型与动机竞赛深度融合，依托低成本的教学助教开展双人小组（1:2）密集补救，攻克阻碍弱势儿童向中等代数进阶的“分数鸿沟”。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **核心问题导向** 分数理解与运算能力是预测中学生代数成绩与高中毕业率的最强单项认知指标，然而传统课堂以“分披萨/分蛋糕（部分-整体模型）”为主的直观教学极易导致处境不利学生在反常分数（假分数、负数、无限循环小数）上产生系统性认知障碍。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 突破传统的单一几何切分隐喻，以“数轴测量模型（Number Line / Measurement Interpretation）”为统一核心表征，配合针对性的动机卡牌游戏与按步骤脚本化的助教指导，每周开展 3 次、每次 35 分钟的 1:2 双人小组微辅导，能在大样本现实学区中取得超额学业增益。Fuchs et al. (2016)
@@ -88,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Fraction Face-Off! 发展历程
 > - **2010–2013 — 认知模型开发与先导[[Efficacy Trial\|效力试验]]** 富克斯团队系统对比数轴模型与传统面积模型，完成 36 课时高度结构化辅导手册与助教培训指南编制。
 > - **2013–2016 — 大样本多中心[[Randomised Controlled Trials\|随机对照试验]]** 在数十所公立学校连续开展严格的多学区 RCT（Fuchs et al., 2016），证实助教主导的干预组在概念理解与统考应用题中均大幅超越[[Business as Usual\|常规对照组]]，[[Effect Size\|效应量]]高达 $+0.51$。
 > - **2016–至今 — 确立为全美数学 Tier 2 黄金金标准** 被美国教育部 [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 一致评定为初等数学强证据标杆方案，并被斯莱文纳入[[Response to Proven Instruction\|循证干预反应]]（RTPI）数学支持矩阵的核心支柱。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **方案研发与认证方（范德堡大学团队）** 研发全套干预材料包（脚本教案、数轴垫板、对决卡牌、练习册）并组织专业师训。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - **目标受益学生（四年级高危儿童）** 在持续 12 周的系统辅导中重建分数认知图式，达到年级基准线。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **初等数学领域的超高因果[[Effect Size\|效应量]]** 在包含两项独立[[Randomised Controlled Trials\|随机对照试验]]的[[Meta-analysis\|元分析]]综合评估中（Fuchs et al., 2016），Fraction Face-Off! 取得了平均 $+0.51$ 的巨大加权学业[[Effect Size\|效应量]]，在概念性分数测验与全美标准化数学成就考试中均表现出极强的因果增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

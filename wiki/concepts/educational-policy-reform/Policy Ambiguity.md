@@ -66,11 +66,7 @@ created: '2026-09-12'
 updated: 2026-10-22
 ---
 
-# Policy Ambiguity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **政策歧义性（Policy Ambiguity）** 是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量[[Surplus of Evidence\|证据过剩]]的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的[[Evidence-Based Policy-Making|循证决策]]，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑[[Discourse|话语]][[Scaffolding\|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政策决策认知维度的核心辨析
 > | 比较维度 | 本概念（政策歧义性 Policy Ambiguity） | [[Scientific Uncertainty\|认知不确定性]]（Scientific Uncertainty） | 政策文本模糊性（Policy Vagueness） |
 > |---|---|---|---|
@@ -105,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **不可调和的多元思考[[Paradigm\|范式]]** 政策主体针对同一教育事实（如[[Academic Achievement\|学业成绩]]分布不均）存在互不兼容的归因模型（如社会阶层固化论 vs 教师专业投入不足论 vs 课程标准落后论）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 > - **信息过载反噬机制** 在数字经济时代，海量研究成果呈指数级爆发，[[Surplus of Evidence\|证据过剩]]并未达成科学共识，反而使各利益集团都能轻松筛选出支持自身政治偏好的“定制证据”（Customised Evidence）。
 > - **裁量选择的制度强制性** 面对无法[[Commensuration\|通约]]的多重观念，政府无法以折衷方式兼顾所有主张，必须运用权力进行排他性的政策议程决断。
@@ -157,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -174,8 +164,6 @@ updated: 2026-10-22
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的[[Policy Brokerage\|政策中介]]整合** 施泰纳-哈姆西等（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）指出在[[Surplus of Evidence\|证据过剩]]的数字时代，政策中介凭借数字理性[[Scaffolding\|脚手架]]对政策歧义性进行定向转译与治理控制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -198,8 +186,6 @@ updated: 2026-10-22
 > 该概念专属于多重价值目标交织、权力分散的政治与社会系统；在中央高度集权、技术标准绝对统一或危机应急指挥等具有压倒性单一行动指令的决策情境中，歧义性会被行政权力瞬间压制，其分析效用受限。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

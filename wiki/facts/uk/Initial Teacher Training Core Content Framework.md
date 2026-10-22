@@ -53,11 +53,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Initial Teacher Training Core Content Framework
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2019 年 11 月由英国教育部（Department for Education, DfE）正式颁布，自 2020 年 9 月起作为英格兰所有[[Initial Teacher Training\|初始教师培训]]课程的强制性法定基准。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **制度位置** 直接承接 2015 年[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]的核心建议与 2016 年《卓越教育无处不在》白皮书要求，与《早期职业框架》（Early Career Framework, ECF）无缝衔接，构成英格兰新教师前三年职业生涯的连贯专业发展阶梯。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 框架确立了英格兰[[Initial Teacher Training\|初始教师培训]]的法定最低课程权利，将认知科学、[[Classroom Management\|课堂管理]]与学科教学的实证研究成果强制编纂为标准化的“了解理论（Learn that...）”与“掌握实践（Learn how to...）”双轨专业清单。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
@@ -85,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2015 年** — [[Carter Review of Initial Teacher Training\|卡特审查]]发布独立报告，明确建议中央政府制定全国统一的[[Initial Teacher Training\|初始教师培训]]核心课程框架。
 > - **2016 年** — 英国教育部发布《卓越教育无处不在》（*Educational Excellence Everywhere*）白皮书，正式采纳卡特审查建议。
@@ -96,8 +88,6 @@ updated: 2026-10-22
 > - **2024 年** — 英国教育部将 CCF 与 ECF 合并升级为统一的《初始教师培训与早期职业框架》（ITTECF）。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 英国教育部（DfE），负责框架制定、实证文献审核与法定标准颁布。
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **行政督导挂钩** [[Ofsted]] 开展拉网式专项督导检查，未严格按 CCF 循证清单组织教学的大学机构被判定为不合格并限期整改。
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 英国教育部（DfE）与 [[Ofsted]] — 掌握资质认证与督导生杀大权，将 CCF 作为推行中央远程控制与[[Output-Oriented Governance\|循证治理]]的核心抓手。
@@ -128,8 +116,6 @@ updated: 2026-10-22
 > - **工具主义倾向与反思空间挤压** 学员培训沦为对照清单的逐项打勾达标（tick-box exercise），忽视了教育情境的复杂性与批判反思能力的培养。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

@@ -49,11 +49,7 @@ created: 2026-06-21
 updated: 2026-10-22
 ---
 
-# Literature Search
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 文献检索（Literature Search）是[[Literature Review|文献综述]]的操作性环节，指运用系统策略从学术数据库、图书专著、学术会议与官方机构等多元渠道定位、筛选和获取与[[Research Topic|研究主题]]相关的已有文献的过程。它为文献综述的理论论证提供实证材料基础，本身侧重于技术性信息获取与质量甄别操作（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1]]）。在大规模[[Systematic Review|系统文献综述]]中，检索所设定的数据库类型与语种边界直接决定了后续综合证据的覆盖广度与代表性（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 252]]）。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 文献检索与文献综述的多维对比
 > | 维度 | 文献检索（Literature Search） | 文献综述（Literature Review） |
 > |---|---|---|
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > | **功能关系** | 作为综述的前置基础，为理论论证提供材料输入 | 指导检索的方向与边界，并将检索材料转化为证据支撑 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **系统检索流程七步法（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）** ① 确立并逐步收窄关键词；② 检索专业计算机数据库；③ 初步筛选定位候选文献；④ 快速浏览摘要并排除无关项；⑤ 绘制[[Literature Map|文献地图]]理清知识脉络；⑥ 撰写结构化文献摘要；⑦ 按主题或概念结构组织综述。
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -181,8 +171,6 @@ updated: 2026-10-22
 > - **2026 — 生成式 AI 代理与可执行代码沙盒检索** 迈克尔·克拉齐奥斯（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新范式，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学术分工向宏观战略综合转型。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -206,8 +194,6 @@ updated: 2026-10-22
 > 互联网学术文献良莠不齐，单纯的关键词检索无法保证纳入文献的内在因果效度；若文献检索仅局限于单一商业数据库，极易在地理区域与制度模式上引入发表偏倚。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -60,8 +60,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Esquisse d'un ouvrage sur l'éducation comparée
-
 ---
 
 ## 背景
@@ -118,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 文本产生、遗忘与重新发掘时间线
 > - **1816–1817** 《计划》在《教育学报》分期连载，并出版两卷本单行本（朱利安仅完成了前两个领域即初等与中等教育的完整[[Questionnaire\|问卷]]题项编制）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 15)]]
 > - **1817–1930s** 长期沉寂与历史遗忘：由于缺乏主权国家的行政财力支撑与常设机构承接，《计划》出版后在 19 世纪欧陆并未演化为大规模的实地调研项目，文献在图书馆书架上湮没了整整一个多世纪。（p. 11）
@@ -128,8 +124,6 @@ updated: 2026-10-22
 > - **1990s–2000s** 思想史回归：帕尔默（R. R. Palmer, 1993）与卡洛扬纳基、卡扎米亚斯（2009）等学者突破单纯实证主义视角，将其置于法国大革命、启蒙自由主义与欧洲“[[Geisteswissenschaften|精神科学]]”脉络中进行历史唯物主义与人文主义重估。（pp. 16–20）
 
 ---
-
-## 实施情况与方法学反思
 
 > [!pathways] 实施路径与历史受挫
 > - **瑞士 22 州作为首期试点的构想** 朱利安最初试图将[[Questionnaire\|问卷]]运用于瑞士 22 个州，旨在通过跨州教育比较促进各州取长补短，进而“培养一种泛瑞士的国民精神（national Helvetian mind）”，巩固瑞士的政治统一。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 14]]; Fraser, 1964:45–46）

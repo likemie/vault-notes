@@ -88,11 +88,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-# Student-Teacher Relationship
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **师生关系（Student-Teacher Relationship）** 指学生与教师在课堂教学、生活交往与制度化组织情境中所建构的互动联结质量，涵盖情感关照、学业支持、道德信任与指导性权威（[[Argument_Lekhal_2015_Paideia|(Lekhal et al., 2015, p. 80)]]; [[Argument_Li_2012_Cambridge|(Li, 2012, pp. 52–53)]]）。在实证教育研究与[[Didaktik|教学理论]]中，师生关系不仅是学生获得[[Academic Achievement|学业成就]]与社会情感发展的前提性心理生态，更在不同文化学习模型中承载着迥异的功能定位——在欧美传统中常被界定为促成学习目标的交互资源或环境条件，而在[[Confucian Learning Tradition|儒家学习传统]]中则被视为亲子关系的自然延伸与求知道德践行的独立核心支柱（[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 73, 1555–1581)]]）。
@@ -109,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 师生关系与相关人际及教学概念辨析
 > | 维度 | 师生关系（Student-Teacher Relationship） | [[Classroom Learning Culture\|课堂学习文化]]（Classroom Learning Culture） | 师生比（Student-Teacher Ratio） | [[Classroom Management\|课堂管理]]（Classroom Management） |
 > |---|---|---|---|---|
@@ -119,8 +113,6 @@ updated: 2026-10-22
 > | **典型局限** | 良好关系本身无法自动替代知识体系建构 | 掩盖微观个体在班级群体中的孤立体验 | 纯宏观数量指标，无法反映真实的课堂交往质量 | 过度强调控制可能挤压柔性对话与师生亲近 |
 
 ---
-
-## 核心要素
 
 > [!feature] 师生关系的核心要素
 > - **情感支持与无条件接纳** 学生深信自己被教师看见、尊重并获得持续关怀，为探索未知与承受学业挫折构筑坚实的心理安全基石。[[Argument_Lekhal_2015_Paideia|(Lekhal et al., 2015, p. 80)]]
@@ -180,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -191,8 +181,6 @@ updated: 2026-10-22
 > | **资本转化载体** | 师生关系通过文化惯习与物理空间制度化塑造大学融入与阶层轨迹 | 高等教育社会学、替代性学校空间规划 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -206,8 +194,6 @@ updated: 2026-10-22
 > > - **评价[[Paradigm|范式]]对教育交往本体的降维** [[Argument_Rømer_2018_EPT|Rømer (2018)]] 从[[Didaktik|欧陆教学论]]与教化传统出发，批判可见学习将师生关系降维为提升[[Effect Size|效应量]]的输入工具；在[[Pure Evaluation|纯粹评价]]逻辑下，教师退化为依据学生反馈调控自身效果的技术员，学生则被格式化为自我监控的操作员，致使师生间作为文化世代传承与主体间相遇的实质伦理纽带被技术指标全面消解。[[Argument_Rømer_2018_EPT|(Rømer, 2018, pp. 3–4, 6–8)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 师生关系实证研究与[[Effect Size|效应量]]快照
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

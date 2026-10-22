@@ -73,11 +73,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Sutton Trust
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 萨顿信托（The Sutton Trust）是英国顶尖的独立教育慈善基金会与实证政策智库，由[[Peter Lampl\|彼得·兰普尔爵士]]（Sir Peter Lampl）于 1997 年出资创立。机构以“打破低收入家庭学童出身背景与[[Academic Achievement\|学业成就]]之间的铁律绑定、提升全英社会流动性”为法定宗旨，开创了集社会学实证调查、处境不利学童拔尖干预、[[Evidence-Based Policy-Making|循证决策]]工具研发以及母体孵化为一体的现代[[Venture Philanthropy\|风险慈善]]与政策智库[[Paradigm\|范式]]（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]）。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与重大创举
-
 > [!dev-timeline] 组织发展与跨国演变历程
 > - **1997–2010 — 奠基创立与社会流动性议程开创期** 设立著名的“萨顿信托暑期学校”（Sutton Trust Summer Schools），开辟低收入学生入读牛津大学、剑桥大学等罗素大学集团名校的通道；发布一系列关于精英阶层教育背景、[[Grammar School\|文法学校]]选择性教育弊端及实习生无薪剥削的重磅调查报告，成为英国媒体与议会辩论最具影响力的实证源头之一。
 > - **2011 — 研发工具包原型与联合发起设立 [[Education Endowment Foundation\|EEF]]** 面对英国政府设立的“[[Pupil Premium\|学生津贴]]”（Pupil Premium）专项资金，萨顿信托出资委托杜伦大学学者研发编制了《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》初始原型与[[Abstract\|研究摘要]]（[[Argument_Higgins_2016_ROE\|Higgins, 2016, p. 46]]）；同年联合[[Impetus\|动力基金会]]（Impetus）参与竞标，成功获得英国教育部 1.25 亿英镑留本基金，发起设立了[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），[[Peter Lampl\|彼得·兰普尔]]出任 EEF 首任理事会主席（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]）。
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > - **2018–至今 — 跨国企业资本资助与[[Policy Network\|全球政策网络]]交织** 埃玛·罗威（Emma Rowe）对跨国政策网络的[[Ethnography\|民族志]]分析揭示，萨顿信托作为 EEF 的核心母体节点，深度汇聚了美洲银行、高盛集团、摩根大通、普华永道以及安理（Allen & Overy）、高伟绅（Clifford Chance）、富尔德（Freshfields）等顶级跨国商业律所资本；其资助网络与[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）存在多重[[Co-affiliation\|共同从属]]，推动循证证据工具向全球镜像机构平移（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与跨界企业网络
 > - **决策机构（受托人理事会）** 理事会（Board of Trustees）由创始人[[Peter Lampl\|彼得·兰普尔爵士]]亲自担任主席，成员汇聚来自教育界、学术界、司法界与商业投资界的资深领袖，维护政策倡导的独立性与公信力。
@@ -115,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **萨顿信托暑期学校（Sutton Trust Summer Schools）** 运行超过二十年的旗舰项目，每年资助数千名来自公立薄弱学校的优异高中生免学费入读牛津、剑桥等顶尖大学开展为期一周的高强度沉浸式学术集训，显著提升其申请顶级学府的成功率。
 > - **高端行业通路拓展项目（Pathways Programs）** 运作法律通路（Pathways to Law）、医学通路（Pathways to Medicine）、银行与金融通路（Pathways to Banking and Financial Services）以及工程与咨询通路等专项计划，为弱势背景学生提供跨国投行和律所的高阶带薪实习与一对一业界导师配对。
@@ -130,8 +120,6 @@ updated: 2026-10-22
 > *The Sutton Trust is a foundation which improves social mobility in the UK through evidence-based programmes, agenda-setting research and policy advocacy. Our vision is that every young person—regardless of who they are, where they grow up, or what their background is—has an equal chance to succeed in life.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **直接受益学生规模** 累计资助超过 50,000 名来自低收入与家庭第一代大学生的英国高中生通过暑期学校和职业通路项目获得深度学业支持。
@@ -150,8 +138,6 @@ updated: 2026-10-22
 > - **85%** 常规参考其联合冠名工具包制定弱势学童支持策略的英格兰公立中小学校长比例
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心学术与政策争议
 >

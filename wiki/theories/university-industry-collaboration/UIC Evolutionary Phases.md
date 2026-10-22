@@ -39,8 +39,6 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# UIC Evolutionary Phases
-
 ---
 
 > [!abstract] 核心主张

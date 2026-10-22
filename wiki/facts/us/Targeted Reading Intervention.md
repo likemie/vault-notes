@@ -52,11 +52,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Targeted Reading Intervention
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Targeted Reading Intervention（目标阅读干预，简称 TRI）** 是由北卡罗来纳大学教堂山分校（University of North Carolina at Chapel Hill）弗兰克·波特·格雷厄姆儿童发展研究所林恩·弗农-菲根斯（Lynne Vernon-Feagans）与史蒂夫·阿门杜姆（Steve Amendum）学术团队领衔研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期读写个别化干预与远程教师专业发展方案；其核心战略是首创**网络摄像头远程实时教研（Webcam Tele-Coaching）** 模式，旨在解决高贫困偏远乡村公立小学因地理隔离、经费匮乏而无法聘请校本专职阅读教练的结构性危机，帮助普通班级任课教师快速成长为精准早期诊断辅导专家。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克乡村贫困学校在教师专业发展中的“孤岛效应”，探索如何利用低成本网络技术打破时空限制，为一线乡村教师提供一对一即时专业支持。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 通过大学资深阅读专家依托网络摄像头和蓝牙耳机，对乡村普通班级教师在教室内实施的每日 15 分钟一对一学生辅导进行“实时耳语督导（Bug-in-Ear Coaching）”，不仅能让高危落后儿童在短时间内获得显著的学业增益，还能永久性提升该教师面向全班（Tier 1）的常规阅读教学效能，产生双重因果红利。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -89,16 +83,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] TRI 发展历程
 > - **2005–2011 — 远程督导原型研发与早期试验** Vernon-Feagans 团队在北卡乡村小学测试网络摄像头交互可行性，发表早期因果试验报告（Amendum, Vernon-Feagans, & Ginsberg, 2011），证实远程即时教练的教学干预依从度完全不亚于昂贵的现场面授。
 > - **2012–2018 — 多州乡村大规模整群[[Randomised Controlled Trials\|随机对照试验]]** 团队将干预拓展至美国中西部乡村学区，系统对比接受 TRI 培训教师班级与对照组班级学生的长期学业轨迹，证实了其对双语儿童与极度贫困儿童的强力拉动效应。
 > - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据方案与国家乡村振兴推广** 被斯莱文列为初等阅读 Tier 3 标志性强证据方案，成为全美乡村教育振兴与远程教师专业发展政策的核心示范案例。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **大学科研与督导团队（UNC Chapel Hill）** 派驻远程阅读督导专家，每周通过网络视频平台为乡村教师提供[[Individualised Instruction\|个性化教学]]诊断与实时督导反馈。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **受试受益学生（乡村 K–1 高危儿童）** 获得每日个性化精准[[Decodification\|解码]]训练，免于被贴上特殊教育标签。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **超大因果学业[[Effect Size\|效应量]]** 在两项独立大样本[[Randomised Controlled Trials\|随机对照试验]]中，接受 TRI 辅导的学生在 Woodcock-Johnson 词汇识别、假词攻克与全篇阅读理解测验上取得了平均 $+0.52$ 的极高因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

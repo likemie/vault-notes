@@ -34,11 +34,7 @@ created: '2026-05-12'
 updated: 2026-10-22
 ---
 
-# Double Spatiality of Universities
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 大学双重空间性（double spatiality of universities）是指大学同时扎根于具体的城市与国家，又通过学术流动和开放心智视野跨越边界的双重空间特征。这一特征贯穿了从北印度佛教寺院、中世纪伊斯兰宗教学校（madrasas）到欧洲大学的高等教育历史，至今仍是大学（部分）自主性和组织身份的基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])。
 
 > [!quote|notitle]

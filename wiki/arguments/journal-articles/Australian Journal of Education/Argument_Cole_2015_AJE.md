@@ -87,7 +87,6 @@ argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Australian Journal of Education"
 ---
-# Argument_Cole_2015_AJE
 
 ---
 
@@ -104,8 +103,6 @@ journal: "Australian Journal of Education"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -118,16 +115,12 @@ journal: "Australian Journal of Education"
 
 ---
 
-## 研究方法
-
 > [!method-panel] 整体研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **三阶段收敛式[[Mixed Methods Research\|混合方法]]设计**<br>Three-stage Convergent Mixed Methods Design | 三个阶段的量化和质性数据同时收集、分别分析、合并比较，以实现对 ToK 与[[Critical Thinking\|批判性思维]]关系的[[Triangulation\|三角验证]]（Creswell, 2012; Creswell & Plano-Clark, 2011）。ToK 教师问卷数据不进入当前论证范围 |
 
 ---
-
-### 阶段一　ToK 学生全国调查
 
 > [!method-panel] 阶段一设计
 > | 模块 | 材料与处理方式 |
@@ -145,8 +138,6 @@ journal: "Australian Journal of Education"
 > | **州分布** | QLD 423（$31.6\%$, 8 校）、NSW 363（$27.1\%$, 14 校）、VIC 263（$19.7\%$, 8 校）、SA 208（$15.5\%$, 7 校）、WA 36（$2.7\%$, 4 校）、ACT 34（$2.5\%$, 5 校）、TAS 11（$0.8\%$, 1 校） |
 
 ---
-
-### 阶段二　四校案例研究
 
 > [!method-panel] 阶段二设计
 > | 模块 | 材料与处理方式 |
@@ -180,8 +171,6 @@ journal: "Australian Journal of Education"
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -205,9 +194,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-### 论证步骤一　建立文献基础：显性批判性思维教学优于隐性融入
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一　建立文献基础：显性批判性思维教学优于隐性融入
 > 已有的[[Meta-analysis\|元分析]]证据和[[Randomised Controlled Trials\|随机对照实验]]一致表明：
 
 > [!evidence-grid-a] 显性教学的实证优势
@@ -224,9 +211,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-### 论证步骤二　阶段一证据：ToK 学生从 11 年级到 12 年级的批判性思维增长
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二　阶段一证据：ToK 学生从 11 年级到 12 年级的批判性思维增长
 > [[Critical Thinking Strategies Scale\|CTSS]] 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 的组间比较均显示 12 年级得分显著高于 11 年级，为 ToK 学习阶段与批判性思维技能之间的正向关系提供了初步证据。
 
 > [!chain-link] 证据到判断
@@ -269,9 +254,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-### 论证步骤三　阶段二证据：ToK 实施方式因学校文化和路径而显著分化
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三　阶段二证据：ToK 实施方式因学校文化和路径而显著分化
 > 四所 NSW 案例学校虽然都将批判性思维发展纳入学校使命，但在 ToK 的概念化、[[Operationalization\|操作化]]和实际教学质量上存在显著差异。学校 1 和 4 代表了高度结构化的全校跨学科整合（学校 1 和 4）到近乎随意的讨论式教学（学校 2）。这一发现揭示了一个关键命题：ToK 课程框架本身并不自动保证批判性思维的有效培养；学校文化、教师团队的经验结构以及学校赖以运作的知识传统，共同构成了决定 ToK 教学效果的关键调节[[Variable\|变量]]。
 
 ---
@@ -296,9 +279,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-### 论证步骤四　阶段三证据：DP 毕业生在大学学术和批判性思维上的全面优势
-
-> [!claim|lead] 步骤四主张
+> [!claim] 论证步骤四　阶段三证据：DP 毕业生在大学学术和批判性思维上的全面优势
 > 完成整个 DP 课程（含 ToK）的学生在进入大学时，[[Critical Thinking Disposition\|批判性思维倾向]]的七个维度均值均高于非 DP 毕业生，而且在三项大学学术准备指标（ATAR、[[Academic Self-Concept\|学术自我概念]]、预期大学成果）上均表现出统计显著的优势。原文没有报告批判性思维倾向组间差异的显著性检验。
 
 > [!contrast-table] 批判性思维倾向比较（[[California Critical Thinking Disposition Inventory\|CCTDI]] 七维度 + 总分）
@@ -329,8 +310,6 @@ journal: "Australian Journal of Education"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **ToK 学生在两年课程期间[[Critical Thinking\|批判性思维]]技能显著增长** 12 年级在 [[Critical Thinking Strategies Scale\|CTSS]] 14 项技能中的 11 项上显著高于 11 年级，且在 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 批判性思维分量表上同样表现出显著增长。效应最大的技能是"评估主张"（$p < .001$），三项未达显著的技能（基于证据得出结论、限制主张范围、呈现论证）可能代表了需要更长时间发展的高阶能力（pp. 254–255）
 > 2. **DP 毕业生的[[Critical Thinking Disposition\|批判性思维倾向]]均值和大学学术指标均高于非 DP 毕业生** DP 毕业生在 [[California Critical Thinking Disposition Inventory\|CCTDI]] 七个维度上的得分均值都更高（推理自信差异最大），但原文未报告显著性检验；ATAR（$+4.84$分）、[[Academic Self-Concept\|学术自我概念]]和预期大学成果则均显著更高（pp. 257–258）
@@ -353,8 +332,6 @@ journal: "Australian Journal of Education"
 
 ---
 
-## 关键引用
-
 > [!citation-card] ToK 的官方定义
 > ToK 是"一门关于[[Critical Thinking\|批判性思维]]和探究认识过程的课程，而非学习特定知识体系。它在 DP 中扮演特殊角色，为学生提供反思知识本质、在[[Areas of Knowledge\|知识领域]]之间建立联系、并意识到自身视角以及他们共享知识的不同群体的视角的机会"。（IBO, 2014, p. 1, 转引自 p. 248）
 >
@@ -376,8 +353,6 @@ journal: "Australian Journal of Education"
 > *"key to ToK's success . . . lies in the fact that the ToK subject is not subsidiary to any other subject, as it does not have learnt curriculum knowledge tied to its functioning; instead, ToK allows students to fully use and explore their knowledge through structured thinking exercises and cross-curricula activities."*
 
 ---
-
-## 自述局限
 
 > [!warning] 研究设计局限
 > - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme\|IB DP]] 课程（六门学科 + EE + [[Chinese Academy of Sciences|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp. 256–257）

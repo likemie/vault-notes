@@ -46,8 +46,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Ganz-Methode
-
 > [!info] 定义
 > Ganz-Methode（整体方法，Whole Approach）是 [[Dell Delambre]] 基于 [[Creative Tension of Sense]] 理论开发的实践方法论，旨在帮助个体、组织和社区在 [[Tense Society\|张力社会]] 中承载意义张力并做出整体决策。Ganz（德语"整体"）指对所有相关张力的同时识别和连接——但不等于"整全"（holistic），因为整体永远处于运动变化之中([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.112]])。
 >

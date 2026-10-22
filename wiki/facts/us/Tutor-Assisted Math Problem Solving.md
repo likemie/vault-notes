@@ -58,11 +58,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Tutor-Assisted Math Problem Solving
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Tutor-Assisted Math [[Problem Solving]]（助教辅助数学问题解决，简称 TAMPS）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）等知名特殊教育学者研发的小学三年级数学文字应用题 Tier 3 个别化干预方案；其核心目标是针对三年级在文字题理解与逻辑推理上面临严重障碍的高危儿童，由受训教学助教开展高度结构化的一对一认知基模策略辅导，阻断学困儿童在初等数学高阶认知任务上的学业失败。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克小学三年级学生面对文字应用题时常见的“认知超载”与“盲目抓数字相加减”顽疾，检验普通非专业教学助教是否具备足够教学效能来指导学生掌握复杂的深层认知表征转换。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 通过向教学助教提供显性脚本化教案，指导学困儿童系统识别合并（Combine）、比较（Compare）与变化（Change）三大核心语义基模，并运用代数符号将文字情境表征化为方程式，能够显著消除计算背景干扰，产生大幅超越常规补救教学的高额学业净增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -94,16 +88,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] TAMPS 发展历程
 > - **2008–2010 — 方案研发与严谨 [[Randomised Controlled Trials\|RCT]] 验证** 范德堡大学 Fuchs 团队（Fuchs et al., 2008）在公立小学开展整群随机对照试验，测得 1.42$ 的显著因果[[Effect Size\|效应量]]，论文发表于应用心理学与教育学权威期刊。
 > - **2010–2015 — 迭代演化为主题化[[Pirate Math\|海盗数学]]** 团队在 TAMPS 严谨基模策略基础上，引入海盗寻宝[[Gamification\|游戏化]]情境包装，发展出后续广泛知名的 Pirate Math 方案。
 > - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据经典案例** 在斯莱文桑代克奖演说论著与 [[Evidence for ESSA]] 库中被正式收录为初等数学 Tier 3 助教辅导高成效的典范实证。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **学术研发团队（范德堡大学 Fuchs 实验室）** 负责编制详尽的助教逐字脚本教案、基模图解表与诊断评价工具。
@@ -112,8 +102,6 @@ updated: 2026-10-22
 > - **目标干预对象（小学三年级文字题学困儿童）** 在一对一安全环境中习得系统解题策略，重塑数学[[Self-Efficacy\|自我效能感]]。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **卓越的标准化[[Problem Solving\|问题解决]][[Effect Size\|效应量]]** 在独立[[Randomised Controlled Trials\|随机对照试验]]中，接受辅导的学生在爱荷华基本技能测验（ITBS）应用题分测验与研究者独立标准化测验上取得了平均 1.42$ 的显著效应量，达到 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

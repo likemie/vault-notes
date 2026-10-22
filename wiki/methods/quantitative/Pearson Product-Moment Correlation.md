@@ -73,11 +73,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Pearson Product-Moment Correlation
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 皮尔逊积差相关（Pearson Product-Moment Correlation，简称 Pearson 相关），由[[Karl Pearson|卡尔·皮尔逊]]（[[Karl Pearson]]）基于[[Francis Galton|弗朗西斯·高尔顿]]的工作系统化推导提出，是一种测量两个连续[[Variable|变量]]之间双变量（bivariate）线性关联系数和关联方向的基础推断统计方法，使用统计量 $r$ 呈现。该统计量严格界定在 $[-1, +1]$ 区间内：正值指示两变量同步增减的正向共变，负值指示反向变动，零值指示不存在线性相关趋势（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** [[Positivism|实证主义]]与[[Postpositivism|后实证主义]]视角下对客观可观察量度之间共变规律的经验概括；将关联视为[[Variable|变量]]间协同波动的统计现象。
 > - **研究者角色** 客观分析者，负责检验数据分布形态、甄别离群异常值并依据统计效度规程客观呈现关联系数。
@@ -110,8 +104,6 @@ updated: 2026-10-22
 > - **辅助技术** 散点图可视化检验、Cook 距离与马氏距离异常值诊断、残差正态性检验。
 
 ---
-
-## 研究程序与数理规范
 
 > [!proc] 双[[Variable|变量]]相关分析通用程序
 > 1. 明确[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]的理论概念界定，确认二者均具备等距或等比测量属性。
@@ -132,8 +124,6 @@ updated: 2026-10-22
 > *来源：[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch8, Table 8.3)]]*
 
 ---
-
-## 数学原理与推导规程
 
 > [!formula-step] 公式步骤　皮尔逊积差相关系数定义方程
 > $$r = \frac{\sum_{i=1}^n (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum_{i=1}^n (X_i - \bar{X})^2 \sum_{i=1}^n (Y_i - \bar{Y})^2}} = \frac{s_{XY}}{s_X s_Y}$$
@@ -186,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法辨析与变体
-
 > [!contrast-table] 关联与均值度量方法多维辨析
 > | 维度 | [[Pearson Product-Moment Correlation\|Pearson 积差相关]] | Spearman 等级相关 | [[Multiple Regression\|多元线性回归]] | [[Effect Size\|Cohen's d]] |
 > |---|---|---|---|---|
@@ -198,8 +186,6 @@ updated: 2026-10-22
 > | **核心功能** | 评估两变量双向共变强度 | 评估基于排名的单调协同方向 | 评估控制协变量后的独立预测贡献 | 评估实验干预带来的因果或组间效应量 |
 
 ---
-
-## 方法学审计与算法崩溃警示
 
 > [!critique-method] 跨设计换算发散与方差解释度微弱风险
 > 皮埃尔-热罗姆·伯杰龙（[[Pierre-Jérôme Bergeron]]）与利桑·里瓦尔（Lysanne Rivard）针对《[[Visible Learning|可见的学习]]》展开的数理审查表明，将 Pearson 相关系数无约束地转换为 Cohen's $d$ 带来了严重的数理失真与算法崩溃现象（[[Argument_Bergeron_2017_MJE|Bergeron & Rivard, 2017, pp. 242–245]]）：
@@ -213,8 +199,6 @@ updated: 2026-10-22
 > - **自我报告成绩榜首失范** 在教育排行榜中常年位列榜首的学生自我报告成绩（Self-reported grades），其原始数据仅为学生自我预估成绩与真实期末成绩之间的双变量自相关；该数据反映的是学生对自己能力的评估准确性，缺乏实施自我预估组与未实施预估组之间的因果对照，将其换算为干预效应量并列入排行榜首位，构成了将预测一致性偷换为教学效能的逻辑谬误。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] 软件实现
 > - **推荐环境** R 语言与 Python 统计计算库。
@@ -254,8 +238,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景与局限性
-
 > [!method-fit] 适用判断
 > - **适合使用** 适用于检验两个连续[[Variable|变量]]之间是否存在线性关联结构；适用于在[[Survey Research|调查研究]]与横截面设计中评估变量共变方向与紧密度；适用于构建多元统计分析前的初始相关系数矩阵（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
 > - **谨慎使用** 当数据存在轻度偏态、含有潜在亚组[[Heterogeneity|异质性]]分布或处于跨研究[[Meta-analysis|元分析]]聚合场景时，必须执行变量分布转换（如 Fisher's $z$ 变换）并审慎检验[[Sample Size Determination|样本量]]加权机制（[[Argument_Runco_2026_CRJ|Runco et al., 2026, p. 5]]）。
@@ -280,8 +262,6 @@ updated: 2026-10-22
 > | [[Category Mistake\|范畴错误]] | 批判概念 | 指涉将非实验静态相关硬性包装为因果干预效应量的逻辑谬误。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 规范了量化设计中依据[[Variable|变量]]数目与分布形态选择 Pearson 相关的决策矩阵。

@@ -64,11 +64,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Grandes Écoles
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 法国大学校（Grandes Écoles，单数 Grande École）是法国高等教育中独立于大众化综合公立大学（Universités）的精英专业学院系统。其肇始于 18 世纪末法国大革命与拿破仑时期，以极其严苛的高中毕业会考（Baccalauréat）后预科班（Classes Préparatoires aux Grandes Écoles, CPGE）选拔统考（Concours）为门槛，专注于为国家行政官僚体系、工商业财团及国防工程培养高级技术专家、高级公务员与商业领袖（如巴黎综合理工学院 École Polytechnique、国立行政学院 ENA、巴黎高等[[Normal School|师范学院]] ENS、巴黎高等商学院 HEC 等）（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, p. 42]]）。在比较教育与历史社会学中，大学校不仅因与[[CNRS|法国国家科学研究中心]]（CNRS）和综合大学构成“三元分立”格局而成为高教制度分析的典型客体，更作为近代主权国家间双边[[Policy Borrowing|政策借用]]与制度模仿的经典原型（如巴西早期对法国大学校的制度模仿，Cowen & Figueiredo, 1992；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 法国高等教育三元格局与英美模式辨析
 > | 维度 | Grandes Écoles（法国大学校） | Universités（综合公立大学） | [[CNRS]]（国家科学研究中心） | Anglo-American [[Research Universities]]（英美研究型大学） |
 > |:---|:---|:---|:---|:---|
@@ -92,8 +86,6 @@ updated: 2026-10-22
 > | **治理瓶颈与评价** | 在以综合大学为单位的全球学术指标（如 [[Academic Ranking of World Universities\|ARWU]]）中处于劣势 | 辍学率高、资源紧缺、在劳动力市场竞争中遭受大学校毕业生的结构性挤压 | 研究员与青年人才脱节，基础前沿科学难以自然转化为教学溢出效应 | 商业化与高学费壁垒加剧不平等，过度依赖外部竞争性科研经费资助 |
 
 ---
-
-## 核心要素
 
 > [!feature] 法国大学校系统的关键制度要素
 > - **预科班高强度分流与竞试淘汰机制（CPGE & Concours）** 普通高中毕业生考取业士文凭后，拔尖学生进入为期两年的大学校预备班，接受高密度数理与人文强化训练；随后参加竞争极为残酷的全国竞试，录取率极低，构成了强烈的符号准入壁垒。
@@ -142,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +143,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变与[[Paradigm|范式]]转移
 > - **1794 年 — 法国大革命与专门技术官僚学院创办** 巴黎高等[[Normal School|师范学校]]（ENS）与巴黎综合理工学院（École Polytechnique）相继设立；革命政权旨在打破旧制度传统大学的神学与经院哲学腐朽气息，培养忠于共和国的实务工程师、军官与高级科学师资。
 > - **19 世纪初 — 拿破仑[[Imperial Universities|帝国大学]]与大学校特权确立** 拿破仑重组帝国大学（Université Impériale），将综合大学降格为授予学位的考试机构，而将大学校确立为培养国家最高行政与技术精英的顶峰序列，确立预科班高压纪律（[[Disciplina and Doctrina]]）与准军事化管理。
@@ -163,8 +151,6 @@ updated: 2026-10-22
 > - **2000 年代中叶至今 — [[Bologna Process|博洛尼亚进程]]、[[Global Universities Rankings|全球大学排名]]与兼并重组** 伴随欧洲高等教育区学位一体化推进以及软科[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）等跨国评估工具的指标施压，法国各大学校因单体规模狭小在跨国排名中极度边缘化；法国政府遂启动“卓越大学计划（IDEX）”，强力推动大学校与周边综合大学、CNRS 研究所联合组建大型松散大学联盟（如巴黎文理研究大学 PSL、巴黎-萨克雷大学），但在强烈的精英身份认同与制度[[Path Dependence|路径依赖]]下仍面临微观文化整合困境。
 
 ---
-
-## 争议与批评
 
 > [!debates] 政策争议与理论反思
 >
@@ -189,8 +175,6 @@ updated: 2026-10-22
 > *In France, the tripartite separation between the CNRS institutes, the Grandes Écoles, and the mass public universities has created a structural barrier to the integration of advanced research and graduate education. Top researchers in CNRS laboratories do not have teaching requirements, while top students in the Grandes Écoles are trained for professional and technocratic careers rather than Basic Research careers. This historical path dependence hinders France from replicating the Anglo-American research university model.*
 
 ---
-
-## 实证数据 / 制度测量
 
 > [!ref-table]- 法国高等教育三元结构关键制度参数与跨国对标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -224,8 +208,6 @@ updated: 2026-10-22
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 从跨国[[Transfer Space\|转移空间]]演进视角，论证主权国家间模仿大学校模式的双边借用与当代网络转移的断裂。 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 文献与论证索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008, p. 42)]] — [[CNRS]] 与大学校三元割裂阻碍科教统合并导致排名劣势。

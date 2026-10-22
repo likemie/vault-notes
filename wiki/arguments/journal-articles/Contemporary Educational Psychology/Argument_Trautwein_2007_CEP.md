@@ -107,7 +107,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Trautwein_2007_CEP
 
 ---
 
@@ -123,8 +122,6 @@ issuing_organization: ""
 > - **贡献** 首次基于大规模代表性两波纵向追踪数据，运用潜变量结构方程模型（Structural Equation Modeling，[[Causal Modeling\|SEM]]）确立了确定性信念对学业表现的独立净效应与中介机制，并从纵向因果面板上证实了学科专业分化中的“先验自我选择—后继学科社会化”复合发展机制。
 
 ---
-
-## 理论框架
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -193,8 +190,6 @@ issuing_organization: ""
 
 ---
 
-## 研究方法
-
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
@@ -211,8 +206,6 @@ issuing_organization: ""
 > | **专业分类分布** | 依据德国联邦统计局官方学科分类（Statistisches Bundesamt, 2001）与 [[Biglan's Disciplinary Classification Scheme\|Biglan 学科分类理论]]划分为七大主要学科门类：人文艺术（257 人，基准组）、数学与自然科学（241 人）、商科/经济（203 人）、工科/工程（142 人）、社会科学（88 人）、医学（84 人）、法学（79 人）。401 人就读其他学科、无法归类或未上大学。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -452,8 +445,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **确定性信念净负向预测高中毕业[[Academic Achievement\|学业成就]]** 在严格控制认知能力、家庭 [[Socioeconomic Status|SES]] 和[[Cultural Capital\|文化资本]]后，科学知识确定性信念对高中毕业总评成绩仍具有显著负向预测力（标准化路径系数 Standardized Path Coefficient $\beta = -0.15$），并部分中介了智力与文化资本的学业效应。（p.358）
 > 2. **大学专业选择存在显著的先验自我选择效应** 高中毕业生在选择未来专业时已表现出[[Epistemology\|认识论]]分化，未来攻读工科（未标准化回归系数 $b = 0.38$）、商科（$b = 0.33$）、自然科学（$b = 0.39$）和医学（$b = 0.38$）的学生其确定性信念显著高于人文艺术类学生。（p.360）
@@ -467,8 +458,6 @@ issuing_organization: ""
 > - **$R^2 = .41$** 结合 T1 初始信念、学科门类与背景特征后对 T2 确定性信念的整体方差解释率（判定系数 Coefficient of Determination $R^2$）。（p.360）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 确定性信念对学习的长期阻碍
 > 帮助学生建立关于人类知识的成熟信念系统，其本身就是一项重要的教育目标，同时也是提升[[Academic Achievement\|学业成就]]的重要途径。如果课堂或讲堂上使用的教学材料能够体现人类知识的暂时性与未定性，这一目标就更有可能实现。（p.362）
@@ -486,8 +475,6 @@ issuing_organization: ""
 > *In this context, it seems important for college and university teachers to make their students aware that knowledge—as a human construction—is never "certain," but rather the "temporary end-product" of scientific discourse.*
 
 ---
-
-## 自述局限
 
 > [!warning] 研究自述局限（p.364）
 > 1. **测量维度的局限性** 仅测量了[[Epistemological Beliefs\|认识论信念]]中关于“知识本质”的“确定性”单一维度，未涵盖认识论信念的其他维度（如知识结构、[[Source of Knowledge\|知识来源]]、辩护方式），且仅采用了领域一般性（Domain-General）测量，未能整合[[Domain Specificity\|领域特殊性]]（Domain-Specific）量表。

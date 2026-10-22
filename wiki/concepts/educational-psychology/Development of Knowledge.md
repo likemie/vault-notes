@@ -46,12 +46,9 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Development of Knowledge
 （知识的发展）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Development of Knowledge\|知识的发展]]（Development of Knowledge）是[[Epistemic Cognition\|认识论认知]]中关于“知识性质”（[[Epistemology\|nature of knowledge]]）维度的核心[[Construct\|构念]]，指个体认识到科学与人类知识并非一成不变的客观教条，而是随着新证据出现、理论[[Paradigm\|范式]]革新和共同体探究而处于持续演进、修正与动态建构之中的信念。在[[Meta-analysis\|元分析]]实证中，它是预测[[Academic Achievement\|学业成就]]效力最强、最稳健的单一[[Epistemology\|认识论]]构念。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, p. 1097)]]
@@ -66,8 +63,6 @@ updated: 2026-10-22
 > - 不等于 **[[Constructivist Paradigm\|建构主义]]（Constructivism）** — 建构主义强调学生“在个人头脑中主动加工建立心理表征的学习过程”；而知识的发展关注的是“客观学科知识在共同体中如何随历史演化和证据被修正”，两者不可混同。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 
 ---
-
-## 核心要素
 
 > [!feature] 知识发展信念的双极认知特征
 > 学习者在知识发展[[Construct\|构念]]上的取向呈现出层级鲜明的认知特征：
@@ -104,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -122,15 +115,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：知识发展是独立正向[[Construct\|构念]]还是确定性的反面？
 > - **单维连续体假设（蓝方）** 传统心理测量（如 Schommer 量表）常将知识发展直接作为确定知识（Certain Knowledge）的反向计分项，认为两者是同一认知维度的两极。
 > - **正交双构念假设（红方）** 当代实证数据（如 Conley et al., 2004；Greene et al., 2018）表明，否定[[Certainty of Knowledge\|知识的确定性]]并不必然等同于理解知识的演进机制；知识发展蕴含着对证据支持、理论重构的积极认知，应作为独立的单向高阶构念进行测量。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-analysis\|元分析]][[Construct\|构念]][[Effect Size\|效应量]]比较
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

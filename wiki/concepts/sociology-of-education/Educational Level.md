@@ -63,11 +63,7 @@ created: 2026-08-15
 updated: 2026-10-22
 ---
 
-# Educational Level
-
 ---
-
-## 概念与定义
 
 > [!def] 核心定义
 > 受教育水平（Educational Level / Educational Attainment）既是衡量个体在正规学校体系中累积学习时长或所达最高法定学历层次的人口学与统计学[[Variable|变量]]，也是现代国家教育建制中纵向层级分工（初等、中等、高等教育）的制度化阶梯。在微观认知发展视阈中，它表征个体认知复杂性与[[Epistemological Beliefs|认识论信念]]的成熟演化；在宏观政治经济学视阈中，它则是国家公共财政资源配置、阶级文凭分配与[[Dual School System|双轨学制]]分流的核心载体。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 382–383)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 受教育水平在不同理论[[Paradigm|范式]]中的功能辨析
 > | 维度 | 认知心理与发展学范式 | 传统[[Human Capital Theory\|人力资本理论]]范式 | 批判政治经济学范式 |
 > |---|---|---|---|
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | Schultz (1961); Becker (1964) | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] |
 
 ---
-
-## 核心维度与机制
 
 > [!feature] 受教育水平的三重分析维度
 > - **认知成熟维度（Cognitive-Epistemological）** 从中等教育步入高等教育阶段，学生面临知识争议与复杂探究环境，推动其个人[[Epistemological Beliefs|认识论信念]]脱离二元非黑即白的初阶状态，走向反思审慎的高阶批判思维。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 382–383)]]
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -163,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] [[Credential Inflation|文凭通胀]]与虚假繁荣 vs 真实生产力技能提升
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > 在将受教育水平作为量化[[Independent Variable|自变量]]时，研究者不可忽视教育层级背后存在的学校质量[[Heterogeneity|异质性]]；在高度分轨的双轨教育系统中，单纯以“文凭等级”或“受教育年限”为指标容易掩盖阶级资本对教育实质获益的巨大干预。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

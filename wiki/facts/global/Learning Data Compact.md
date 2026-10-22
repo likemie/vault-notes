@@ -52,11 +52,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Learning Data Compact
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 学习数据契约（Learning Data Compact，简称 LDC）是[[UNESCO\|联合国教科文组织]]统计研究所（UNESCO-[[UNESCO Institute for Statistics\|UIS]]）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与[[World Bank\|世界银行]]（World Bank）于 2021 年联合发起的高级别数据协同倡议，旨在构建全球一体化的学生学业测评数据采集与监测架构，为落实 2030 [[UN Sustainable Development Goals\|可持续发展目标]]（SDG 4）提供坚实的[[Data Infrastructure\|数据基础设施]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 全球超过三分之一的发展中国家完全缺乏可比的学业质量评估数据，导致针对“[[Learning Crisis|学习贫困]]”（Learning Poverty）与 SDG 4.1.1 关键指标的国际监测陷入巨大信息盲区。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过三大核心国际组织统筹资金、协调测验工具（如结合 [[Multiple Indicator Cluster Surveys\|MICS]]、PASEC、SACMEQ 及国家自主评估）并提供统一方法论技术规范，消除跨机构数据割裂，实现对全球南方所有学龄儿童学习成果的定期普查与跨国[[Commensuration\|通约]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
@@ -85,16 +79,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2021 — 巴黎与华盛顿联合倡议启动** 三大机构在联合国大会与全球教育峰会期间正式发布《学习数据契约》，宣布建立多边数据联合融资窗口。
 > - **2022–2023 — 工具整合与基线普查** 推动[[UNICEF\|联合国儿童基金会]] [[Multiple Indicator Cluster Surveys\|MICS]] 调查工具与[[UNESCO\|教科文组织]]基础指标对接，协助数十个非洲与拉美国家开展疫情后首次全国性学习损失基准测验。
 > - **2024–至今 — [[Governing by Numbers\|数字治理]]同盟与平台竞争** 契约成为多边组织在数字治理 2.0 时代抗衡其他排他性联盟（如英美与[[World Bank\|世行]]主导的 [[Building Evidence in Education\|BE2]]）并确立联合国体系数据合法性的战略堡垒。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **标准与指标协调方** [[UNESCO\|联合国教科文组织]]统计研究所（UNESCO-[[UNESCO Institute for Statistics\|UIS]]）— 负责 [[UN Sustainable Development Goals\|SDG 4]].1.1 全球指标托管与测验等值方法论核准。
@@ -109,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!indicators] 评估指标体系
 > - **数据缺口填补率** 拥有 2015 年以来至少一次学业测验数据的低收入国家占比。
 > - **工具[[Commensuration\|通约化]]程度** 成功实现与国际基准尺度对齐的本土测验工具数量。
@@ -122,8 +110,6 @@ updated: 2026-10-22
 > - **多边利基重组** 表面上实现了三大多边巨头的强强联合，但在实际执行中引发了关于指标解释权与贷款挂钩的内部争夺。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

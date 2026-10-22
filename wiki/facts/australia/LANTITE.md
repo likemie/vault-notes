@@ -38,11 +38,7 @@ created: 2026-06-06
 updated: 2026-10-20
 ---
 
-# LANTITE
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2016年正式开始全国实施，由澳大利亚联邦政府基于2015年[[Initial Teacher Training\|初始教师教育]]咨询小组（[[Teacher Education Ministerial Advisory Group\|TEMAG]]）报告《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）的政策建议推出。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
@@ -51,8 +47,6 @@ updated: 2026-10-20
 > - **制度位置** 由澳大利亚教育研究理事会 ([[Australian Council for Educational Research\|ACER]]) 负责测试开发与管理，是初始教师进入教学岗位前的强制性法定制约关卡。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > LANTITE 作为[[Initial Teacher Training\|初始教师教育]]项目的毕业门槛测试，强制要求所有职前教师在毕业前通过读写与算术能力统考，属于标准化的“守门机制”。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
@@ -65,8 +59,6 @@ updated: 2026-10-20
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2015 联邦政府 [[Teacher Education Ministerial Advisory Group\|TEMAG]] 报告明确建议引入全国统一的职前教师基本读写与算术测试。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 2016 LANTITE 正式在全国范围上线实施。
@@ -74,14 +66,10 @@ updated: 2026-10-20
 
 ---
 
-## 效果与评价
-
 > [!stat-cards]- 核心数据
 > - **A\$3.7M** LANTITE 统考每年为 [[Australian Council for Educational Research\|ACER]] 带来的估算营收，揭示了测试的存废与中介机构商业利益的深度绑定。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
-
-## 争议与评论
 
 > [!tension] 争议焦点
 > - **工具争议：中介机构的经济红利与守门性质** LANTITE 被批判政策社会学者描述为一种“守门机制”（gate-keeping mechanism）。同时，其承办机构 [[Australian Council for Educational Research\|ACER]] 作为非政府中介组织，通过收取考生高昂考试费获取了直接而庞大的经济利益。这种利益绑定导致政策在制度惯性下极难被撤销，偏离了政策原初的质量改进目标。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
@@ -89,8 +77,6 @@ updated: 2026-10-20
 > - **问责逻辑争议** 测试的强制推行构成了“[[What Works Movement\|什么有效运动]]”下惩罚性问责链条的起点，强化了用单一、脱离情境的量化考核结果来代表和决定教师专业素养的政策倾向。
 
 ---
-
-## 相关概念／政策
 
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |

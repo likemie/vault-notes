@@ -85,7 +85,6 @@ argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 ---
-# Argument_Mazzucato_2018_ICC
 
 ---
 
@@ -102,8 +101,6 @@ argument_related_color: "#dbeafe"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -116,8 +113,6 @@ argument_related_color: "#dbeafe"
 > 理论框架植根于[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统理论]]，将创新活动还原为充满内在不确定性、[[Path Dependence|路径依赖]]与累积性学习的动态探索过程。新古典[[Market Failure|市场失灵理论]]将市场视为天然最优的自发实体，导致公共政策被动局限于修补外部性、提供纯公共品或消除信息不对称；而市场塑造与共创理论揭示了市场本身是由公共与私人力量共同演化建构的制度景观。ROAR 框架在此基础上搭建起从宏观战略方向设置、中观探索型公共组织建设，到微观项目动态评估与公私利益结构重塑的完整逻辑桥梁。（pp. 806–810）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -134,8 +129,6 @@ argument_related_color: "#dbeafe"
 > | **材料情境** | 跨越发达经济体与新兴经济体在颠覆性技术突破、清洁能源、重磅生物医药及生态环保领域的真实政策试验与制度演进。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -156,9 +149,7 @@ argument_related_color: "#dbeafe"
 
 ---
 
-### 论证步骤一　新一代使命导向政策必须从冷战科技壮举转向应对复杂的重大社会难题
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　新一代使命导向政策必须从冷战科技壮举转向应对复杂的重大社会难题
 > 传统使命导向政策聚焦于在封闭系统内攻克既定、高度清晰的国防与航天工程技术指标；而新一代使命导向政策必须直面具有高度系统复杂性、[[Open-Mindedness|开放性]]与价值争议性的[[Wicked Problem|复杂社会难题]]，其核心任务在于驱动技术创新、制度安排与大众行为模式的协同变革。（pp. 804–805）
 
 #### 1. 现代使命政策的成败取决于技术在全社会的广泛扩散与制度协同而非封闭工程攻关
@@ -190,9 +181,7 @@ argument_related_color: "#dbeafe"
 
 ---
 
-### 论证步骤二　公共部门必须通过市场塑造引领创新方向并以挑选意愿者规避传统寻租弊端
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　公共部门必须通过市场塑造引领创新方向并以挑选意愿者规避传统寻租弊端
 > 使命导向政策要求公共部门彻底摆脱新古典经济学被动的弥补[[Market Failure|市场失灵]]框架，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；在政策实施机制上摒弃对特定企业直接补贴的挑选赢家旧模式，转向以解决重大社会挑战为靶向的[[Picking the Willing|挑选意愿者]]新逻辑。（pp. 805–807）
 
 #### 1. 以重大社会挑战为靶向挑选意愿者能够倒逼传统产业转型并规避企业游说俘获
@@ -228,9 +217,7 @@ argument_related_color: "#dbeafe"
 
 ---
 
-### 论证步骤三　使命实施需要探索型公共组织提供耐性资本并建立对等的风险收益分享契约
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　使命实施需要探索型公共组织提供耐性资本并建立对等的风险收益分享契约
 > 使命导向政策的实施必须依赖具备试错自主权与组合管理能力的去中心化探索型公共机构；同时必须彻底扭转风险社会化、收益私有化的分配失衡，构建公私对等的风险共担与收益共享机制。（pp. 807–810）
 
 #### 1. 具备试错自主权的公共机构与开发性银行是跨越创新周期的核心支撑
@@ -267,9 +254,7 @@ argument_related_color: "#dbeafe"
 
 ---
 
-### 论证步骤四　ROAR 治理框架与五大实施标准能够将宏大社会难题转化为自下而上的多元探索组合
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　ROAR 治理框架与五大实施标准能够将宏大社会难题转化为自下而上的多元探索组合
 > 使命导向政策的系统落地必须依托涵盖战略路径、组织能力、[[Dynamic Assessment|动态评估]]与收益分享的 ROAR 治理框架，并严格依据五大遴选标准将宏大的社会挑战拆解为跨部门、自下而上的多元探索项目组合。（pp. 809–812）
 
 #### 1. ROAR 框架重构了方向设定、组织学习、动态评估与回报分配的政策工具箱
@@ -316,8 +301,6 @@ argument_related_color: "#dbeafe"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Innovation Policy Paradigms|创新政策范式]]转移** 21世纪的创新政策必须从以纠正市场外部性为主的静态市场修复[[Paradigm|范式]]，转向以应对重大社会挑战为导向的动态[[Market Shaping and Creating|市场塑造与市场共创]]范式。（p. 804）
 > 2. **垂直干预逻辑革新** 摒弃针对单一行业容易滋生寻租腐败的挑选赢家传统做法，通过确立宏观战略使命并在全经济范围内[[Picking the Willing|挑选意愿者]]，有效激发跨部门协同与传统产业技术转型。（pp. 805–806）
@@ -335,8 +318,6 @@ argument_related_color: "#dbeafe"
 > - **535M / 465M** [[Department of Energy|美国能源部]]向索林德拉与特斯拉分别提供的政府担保贷款额度（美元）。（p. 809）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Directionality of Innovation|创新的方向性]]与重大社会挑战
 > 创新不仅有速率，更有其方向：21世纪正日益被应对重大社会、环境与经济挑战的需求所界定。这些有时被称为“[[Grand Challenges|重大挑战]]”，包括气候变化等环境威胁、人口健康福祉关切以及实现可持续与包容性增长的困境。这些问题属于“[[Wicked Problem|棘手问题]]”，因为它们具有复杂性、系统性、相互交织性与紧迫性，需要多元视角的共同洞察。（p. 803）
@@ -359,8 +340,6 @@ argument_related_color: "#dbeafe"
 > *If the public funds do act as public forms of VC, then there is reason to argue that the rewards should be proportional to the risks actually taken. In making its downstream investments, therefore, governments can learn from portfolio strategies of venture capitalists, structuring investments across a risk space so that lower-risk investments can help to cover the higher-risk ones. In other words, if the public sector is expected to compensate for the lack of private VC money going to early-stage innovation, it should at least be able to benefit from the wins, as private VC does.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述的理论与政策局限
 > - **复杂难题政策工具箱处于探索期** 虽然使命导向政策在冷战工程领域有丰富案例，但在应对不平等与可持续发展等[[Wicked Problem|复杂社会难题]]时，超越[[Market Failure|市场失灵]]的新型工具箱仍需实践检验。（pp. 804–805）

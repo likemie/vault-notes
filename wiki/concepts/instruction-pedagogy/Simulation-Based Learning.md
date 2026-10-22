@@ -45,11 +45,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Simulation-Based Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 模拟教学法（[[Computer Simulation\|simulation]]-Based Learning，亦称基于模拟的学习）是一种将学习者置身于高保真度（High-Fidelity）物理、虚拟或社会交互环境中的[[Authentic Instruction\|真实性教学]]策略。学习者在模拟真实世界复杂系统（如医学临床抢救、飞行控制、生态系统调节、管理沙盘）的过程中，自主操纵[[Variable\|变量]]、应对动态突发事件并承受决策后果，通过即时反馈与深入的“事后复盘”（Debriefing），将[[Theoretical Knowledge\|理论知识]]转化为[[Phronesis\|实践智慧]]与[[Critical Thinking\|批判性思维]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 287)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 模拟教学法与相近实践教学辨析
 > | 维度 | 模拟教学法（[[Computer Simulation\|simulation]]-Based Learning） | 真实临床/现场实习（Clinical Practicum） | 传统实验室验证实验（Traditional Lab） |
 > |---|---|---|---|
@@ -76,8 +70,6 @@ updated: 2026-10-22
 > | **认知过程** | 假设检验、动态监控与系统性纠偏 | 观察模仿与程序性执行 | 验证既有理论公式 |
 
 ---
-
-## 核心要素
 
 > [!feature] 模拟教学的四阶段闭环体系
 > - **导入准备（Briefing）** 阐明模拟场景背景、任务目标、操作规则与安全契约，建立心理安全感。
@@ -99,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：情境模拟对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 23$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.26$ $[0.09, 0.43]$ | $Q(22) = 80.03, p < .001, I^2 = 72.51\%$ | 纳入 23 项实验与准实验；跨学科医学、科学与工程情境模拟 |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 实施挑战与边界
 > - **“[[Gamification\|游戏化]]”误区** 若缺乏严密的复盘与理论对齐，学生可能将模拟当成纯粹的娱乐游戏，忽略深层认知反思。

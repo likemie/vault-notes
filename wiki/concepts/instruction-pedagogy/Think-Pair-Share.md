@@ -45,11 +45,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Think-Pair-Share
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > Think-Pair-Share（思考-配对-分享，[[Totally Pedagogised Society\|TPS]]）是由 Frank Lyman（1981）开发的一种多阶段、短周期的即时[[Cooperative Learning\|合作学习]]与[[Active Learning\|主动学习]]策略。该策略将课堂提问与交互过程结构化为三个相继阶段：首先让学生独立静思（Think），随后与相邻同伴结对讨论与相互解释（Pair），最后面向全班分享经过协商提炼的观点（Share），旨在最大化全体学生的课堂参与度、思考等待时间（Wait Time）与认知加工深度。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Totally Pedagogised Society\|TPS]] 与其他课堂互动模式对比
 > | 维度 | 思考-配对-分享 (TPS) | 传统师生问答 (IRE/IRF) | 自由同桌讨论 (Unstructured Pair Work) |
 > |---|---|---|---|
@@ -76,8 +70,6 @@ updated: 2026-10-22
 > | 课堂耗时与节奏 | 3–8 分钟，紧凑高效，易于掌控 | 极短，但难以检验全员理解 | 耗时难以预测，易演变为闲聊 |
 
 ---
-
-## 核心要素与教学规程
 
 > [!feature] [[Totally Pedagogised Society\|TPS]] 的三阶段标准规程
 > - **阶段一：思考（Think，1–2 分钟）** 教师提出一个具有适度挑战性的开放或概念性问题，要求全班绝对静默，每位学生独立思考、记录关键要点或草拟解题思路。
@@ -119,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -129,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Totally Pedagogised Society\|TPS]] 的发展演进
 > - **1981 — 策略提出与原型确立** Frank Lyman 在马里兰大学教师教育项目中首次提出 Think-Pair-Share 架构，旨在将 Rowe 关于课堂等待时间（Wait Time）的研究成果转化为可操作的教学工具。
 > - **1990s — Kagan [[Structured Teaching\|结构化教学]]法整合** Spencer Kagan 将 TPS 纳入其著名的“结构化[[Cooperative Learning\|合作学习]]（Cooperative Structures）”体系，衍生出 Think-Pair-Square（四人拼组）与 Write-Pair-Share 等变体。
@@ -138,15 +126,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!warning] 实施挑战与误区
 > - **跳过思考阶段直接讨论** 教师常因课堂时间紧张而压缩甚至省略第一阶段的独立思考时间，导致活动迅速退化为外向学生单方面主导的无序交谈。
 > - **问题设计过于浅显** 若教师提出的问题仅涉及事实回忆而非[[Open-Mindedness|开放性]]推论或概念辨析，[[Totally Pedagogised Society\|TPS]] 将失去同伴协商与认知冲突的价值。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

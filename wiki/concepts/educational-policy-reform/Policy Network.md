@@ -116,11 +116,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Policy Network
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 政策网络（Policy Network）指由政府行政机构、[[Knowledge Mediation\|知识中介]]组织、智库、科研院所、慈善基金会以及企业科技资本等多元公私行动者构成的网状治理结构。
@@ -152,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政策网络与相邻治理机制对比
 > | 维度 | 政策网络（Policy Network） | [[Bureaucracy\|官僚科层制]]（Bureaucracy） | 纯学术共同体（[[Epistemic Community]]） | 市场化咨询外包（Commercial Contracting） |
 > |---|---|---|---|---|
@@ -180,8 +174,6 @@ updated: 2026-10-22
 > - **生产依附偏误（Production Dependency Bias）** 决策网络习惯性依附于传统学术生产者（大学、公共研究机构），而在体制上系统性排斥专注于转译与传播的纯中介机构（智库、专业协会）（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 86]]）。
 > - **多重理性与去中心结构（Multi-rationality & Decentralised Topology）** 政策网络内的高度专业化使不同行动者拥有源于学科或职业共同体的异质规范与理性，无法被单一的层级总体理性统摄；由于网络缺乏绝对的层级中心，传统自上而下的行政协调失效，必须代之以非强制性行为激励与协商对话（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 149–150]]）。
 
-
-## 围绕概念形成的命题
 
 > [!logic-map]- 政策网络运行机制与病理逻辑
 > ```mermaid
@@ -297,8 +289,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -326,8 +316,6 @@ updated: 2026-10-22
 > - **2024 批判[[Network Analysis\|网络分析]]实证落地** [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] 运用政策网络分析方法解构澳大利亚[[Initial Teacher Training\|初始教师教育]]改革中的理念编排与公私利益合流。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 表一：[[OECD]] 各教育系统部委网络规模与互动强度分布（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 84–85]]）
 > 
@@ -380,8 +368,6 @@ updated: 2026-10-22
 > | **全球实证商标商业特许网络（[[Visible Learning]] 商业帝国）** | 奥克兰大学教授 [[John Hattie]]；新西兰最大 EMO [[Cognition Education\|认知教育集团]]；澳大利亚传媒科技公司 Ai-Media；跨国出版巨头 Corwin / Macmillan | 学者提供学术声誉与评估指标背书；[[Educational Management Organisation\|EMO]] 独家注册运营 “[[Visible Learning Branding and Global Influences\|Visible Learningplus]]” 商业商标；出版巨头垄断国际图书与数字化量规版权代理 | 在全球 35 个国家建立咨询、培训、评估工具与认证特许加盟网络；形成学者获取巨额个人版税（仅 Cognition 即支付 86.9 万新西兰元）与中介垄断国家采购的利益闭环（pp. 65–70） |
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与治理张力
 >

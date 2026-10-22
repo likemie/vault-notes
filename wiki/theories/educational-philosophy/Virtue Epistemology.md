@@ -74,13 +74,9 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Virtue Epistemology
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 认识主体的理智品格、认知能力、求真动机与探究行为对知识获取、深层理解达成及信念辩护的影响。
 > - **理论问题** 传统[[Epistemology\|认识论]]过于偏重命题信念本身的静态辩护与形式逻辑，忽视了探究者本人的理智特质、情感动力、探究规范与[[Epistemic Responsibility\|认识论责任]]。
 > - **理论类型** 规范[[Epistemological Theories\|认识论理论]]、认知哲学[[Paradigm|范式]]与教育认识论[[Analytic Framework\|分析框架]]。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论溯源与发展脉络
-
 > [!dev-timeline] 德性[[Epistemology|认识论]]的演进历程
 > - **古典源流 — 德性论与反思探究奠基** [[Aristotle\|亚里士多德]]在《尼各马可伦理学》中系统界定[[Epistemic Virtues and Vices|理智美德]]（如[[Phronesis|实践智慧]] Phronesis、直觉理性 Nous 与科学知识 Episteme）；[[John Dewey\|杜威]]将探究确立为主体主动克服怀疑、追求融贯理解的反思过程。
 > - **1980 年代 — 德性认识论转向肇始** Ernest Sosa 发表《德性认识论的漂流木》（The Raft and the Pyramid），首次正式引入“智识德性（Intellectual Virtue）”概念化解基础论与融贯论的百年争端，开创德性可靠论。
@@ -106,8 +100,6 @@ updated: 2026-10-22
 > - **2026 年 — 智能时代与[[Man-Computer Symbiosis|人机共生]]德性认识论** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 将德性责任论拓展至生成式 AI 交互与教育技术哲学，提出通过[[Socrates|苏格拉底]]式提问导师（Q-Tutor）与[[Intellectual Emotions|理智情感]]激发防范[[Cognitive Deskilling|去技能化]]，重塑人机分布式智能生态下的理智品格培育路径。
 
 ---
-
-## 核心构件与命题系统
 
 > [!theory-components] 德性[[Epistemology|认识论]]的核心构件
 > - **[[Epistemic Virtues and Vices|理智美德]]（Intellectual Virtues）**
@@ -168,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -178,8 +168,6 @@ updated: 2026-10-22
 > | **人机共生与去技能化防范** | AI 须定位于激发理智情感与训练探究技能的功能性支架，防范心智外包与去技能化 | 生成式 AI 教学整合、人机协同探究与数智教育伦理 | Alfano (2020); 同上 |
 
 ---
-
-## 理论阵营与学术争议
 
 > [!debates] 学术争议与阵营分化
 >
@@ -202,8 +190,6 @@ updated: 2026-10-22
 > > - **品格教育倡导者（Zagzebski, Baehr, Naeem）** 论证通过情境化[[Scaffolding|脚手架]]、情感激发与[[Socratic Dialogue|苏格拉底式对话]]反思，能够稳步培养主体的自反性[[Metacognition|元认知]]与持久美德特质。
 
 ---
-
-## 教育应用与人机协同
 
 > [!example] 典型实践应用场景
 > - **生成式 AI 中的[[Socrates|苏格拉底]]提问导师（Q-Tutor）** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 基于德性责任论构建了 Q-Tutor 系统，通过在底层设立“直接答案拦截规则”（拒绝直接给出结论）、实施封闭到开放的问题序列演进、提供[[Counterfactual|反事实]]“假若”设问及个性化叙事隐喻，促使学生在人机交互中经历认知挣扎，有效将 AI 转化为训练[[Skill of Questioning\|提问技能]]与培育[[Open-Mindedness|思想开放]]、[[Creativity\|创造力]]美德的功能性榜样。

@@ -50,11 +50,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Group Investigation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > Group Investigation（小组[[Survey Research\|调查法]] / 小组探究法，GI）是由以色列学者 Shlomo Sharan 与 Yael Sharan 于 1992 年系统建构的一种高度开放、以学生为中心的民主探究型[[Cooperative Learning\|合作学习]]教学模式。该方法植根于[[John Dewey\|约翰·杜威]]（John Dewey）的[[Democratic Education\|民主教育]]与经验探究哲学，强调将课堂重组为微型“探究共同体”；学生根据兴趣自主组建 2–6 人的异质小组，围绕核心主题自主选定子课题并设计调查方案，通过多源信息搜集、协作分析与观点综合，最终向全班汇报探究成果并接受多维评价。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 小组[[Survey Research\|调查法]]与其他合作模式对比
 > | 维度 | 小组调查法 (GI) | [[Jigsaw\|拼图法]] (Jigsaw) | 学生小组成就区分法 (STAD) |
 > |---|---|---|---|
@@ -81,8 +75,6 @@ updated: 2026-10-22
 > | 考核形式 | 综合报告、多媒体汇报与师生多元互评 | 全员独立闭卷综合测验 | 独立闭卷测验计算个人进步分 |
 
 ---
-
-## 核心要素与六阶段规程
 
 > [!feature] 小组[[Survey Research\|调查法]]的六步标准教学规程
 > - **第一阶段：确定主题与分组（Identifying the Topic and Organizing Groups）** 教师提出一个宏观多维的研究领域，全班通过[[Brainstorming\|头脑风暴]]提出子议题；学生根据个人兴趣加入特定子课题小组（2–6 人）。
@@ -119,16 +111,12 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **开放探究与高阶赋能** | 自主选题、多源调查与集体汇报极大激发批判探究与学科情感 | K-12 与高等教育跨学科/科学/社科探究 | Sharan and Sharan (1992); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 小组[[Survey Research\|调查法]]的发展演进
 > - **1970s — 理论萌芽与初步实验** Shlomo Sharan 与合作者在特拉维夫大学基于[[John Dewey\|杜威]]教育思想设计出初步的小组探究流程，用于促进多元文化背景学生的学术与社会融入。
@@ -137,15 +125,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!warning] 实施挑战
 > - **教学耗时较长** 六阶段完整探究通常需要 2–4 周的课时周期，对常规应试课时进度安排形成挑战。
 > - **容易出现任务失焦** 若学生缺乏前置信息检索与[[Problem Finding\|问题界定]]能力，小组容易陷入无目的浏览，需要教师充当强有力的过程支架。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

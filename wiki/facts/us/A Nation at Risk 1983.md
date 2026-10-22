@@ -78,11 +78,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# A Nation at Risk 1983
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 1983 年美国发布的《国家处于危险之中：教育改革势在必行》（*A Nation at Risk: The Imperative for Educational Reform*）标志着战后全球教育危机叙事与政策动员的第二次重大跃升；它通过激进的军事危机修辞将国内学校教育的平庸定性为威胁国家存亡的战争行为，打破了战后早期的渐进扩张叙事，将国际比较数据转化为推行国内改革的合法化工具，并直接驱动美国将跨国可比指标体系的开发委托给[[OECD\|经合组织]]，催生了全球教育“治数而治”的比较转向。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8–10)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -94,8 +90,6 @@ updated: 2026-10-22
 > - **直接导火索 / 触发事件** 传统[[Progressive Education\|进步主义教育]]在高中课程设置上的碎片化；学术能力评估测试（Scholastic Assessment Test，SAT）平均成绩自 1963 年至 1980 年遭遇长达近二十年的连续下滑；联邦教育部面临被里根政府裁撤的政治危机，教育部长 Bell 试图通过组建独立高级委员会凝聚全国改革共识以保全部门建制。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
 > - **1981–1983 — 委员会组建与危机修辞锻造** 说明从联邦教育部危机自救到发布震撼性冷战战争隐喻报告的过程。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 19)]]
@@ -112,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 标志性军事危机宣言
 > 如果一个不友好的外国势力试图将今天在美国存在的平庸教育表现强加于美国，我们很可能会将其视为一种战争行为。不仅如此，我们正在听任这种事情自发地发生。我们正在无条件地缴械投降。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 19)]]
 >
@@ -125,8 +117,6 @@ updated: 2026-10-22
 > *“Nevertheless, the crisis scenario received yet another significant boost in the 1980s with the publication of the Reagan administration’s A Nation at Risk report... The report prompted the United States to push for the development of international comparative indicators. Eventually, this task fell on the OECD, which created the International Educational Indicators project in the late 1980s, thus instituting a comparative turn in global education policy. Cross-national comparison was seen as the best engine for advancing educational quality.”*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 联邦保守联盟** 里根政府与国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance\|NCEE]]） — 将教育与国家经济[[Competitiveness|竞争力]]及冷战霸权深度绑定，以[[New Public Management\|新公共管理]]的[[Technical Rationality\|技术理性]]动员社会恐慌，诉求强化核心课程学术严谨度与卓越标准。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 10)]]
@@ -147,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 促成全美 45 个州大幅提高公立高中毕业学分与课程要求；促使美国联邦教育部得以在保守派裁撤风暴中幸存并扩权；直接孵化了[[OECD\|经合组织]] [[International Indicators of Education Systems\|INES]] 项目及后续 [[PISA]] 测评体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 10, 12)]]
 > - **思想[[Paradigm\|范式]]变迁** 彻底打破了战后早期的平等主义与社会补偿叙事，确立了“卓越”（Excellence）、标准、问责与以跨国数据为依据的[[Evidence-Based Education\|证据本位教育]]主导范式；实现了比较教育中的“比较转向”（Comparative Turn），将跨国横向比较确立为提升国家教育质量的最佳引擎。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -168,8 +156,6 @@ updated: 2026-10-22
 > - **30+** （成员国） INES 项目自 1988 年在 OECD 成立后迅速覆盖全部 30 余个发达经济体，演变为《[[Education at a Glance\|教育概览]]》与 PISA 帝国。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 10)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

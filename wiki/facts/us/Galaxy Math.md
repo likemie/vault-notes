@@ -58,11 +58,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Galaxy Math
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Galaxy Math（银河数学）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）等知名特殊教育学者研发的小学一年级数学 Tier 3 个别化干预方案；其核心目标是通过低成本教学助教实施一对一辅导并高度融合[[Man-Computer Symbiosis|人机协同]]的计算机化运算软件，帮助一年级数学困难严重的高危儿童克服加减法运算事实（Math Facts）提取障碍并建立扎实的基础算术自动化能力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解传统助教辅导中重复机械操练效率低下且易产生枯燥抵触的痛点，探索如何利用自适应人机交互软件分担高频事实提取训练，使助教精力更集中于概念点拨与情绪支持。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 将高保真教学助教的一对一概念教学与[[Gamification\|游戏化]]自适应计算机练习软件有机结合，每日对一年级学困儿童开展 30 分钟结构化干预，能够兼顾算理理解深度与基础运算提取速度，产生显著优于常规一对一补救的学业净收益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -93,16 +87,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Galaxy Math 发展历程
 > - **2010–2012 — 软件开发与人机整合试验** 范德堡大学团队开发 Galaxy 教学交互程序与配套助教操作手册，进行小规模可行性先导试验。
 > - **2013–2016 — 多学区大样本[[Randomised Controlled Trials\|随机对照试验]]** 富克斯等学者（Fuchs et al., 2013）在多所公立小学开展整群[[Random Assignment\|随机分配]]试验，严格验证[[Man-Computer Symbiosis|人机协同]]模式对基础数学流利度与广义运算测验的因果效应。
 > - **2017–至今 — 收录为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 在斯莱文桑代克奖演说论著与 [[Evidence for ESSA]] 平台中被正式列为小学一年级 Tier 3 助教 1:1 强证据方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **技术与课程研发方（范德堡大学 Fuchs 实验室）** 提供 Galaxy 自适应训练软件、助教脚本手册与学生进度追踪系统。
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **受试干预儿童（小学一年级数学极弱生）** 在极富吸引力的太空[[Gamification\|游戏化]]情境中克服畏难情绪，逐步实现事实提取的自动化。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的因果学业[[Effect Size\|效应量]]** 在严格独立[[Randomised Controlled Trials\|随机对照试验]]中，干预组在一年级标准化数学能力测验中取得平均 1.25$ 的显著因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

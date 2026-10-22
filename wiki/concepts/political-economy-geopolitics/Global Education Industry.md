@@ -63,11 +63,7 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-# Global Education Industry
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **全球教育产业（Global Education Industry, GEI）** 是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ\|场域]]，涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性（measurability）和绩效问责制（accountability）将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
@@ -93,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多重经济理性** 在经济化、市场化、私有化、商品化和金融化等多重理性交织中运作（Verger et al., 2016; Parreira do Amaral et al., 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。
 > - **独立的规则系统** 由自身的过程集合、规则系统和社会力量构成，作用于教育服务和商品的生产、供给和需求的生成中（Verger et al., 2016, p. 4, cited in）。
 > - **多样化的行动者网络** 包含跨国公司、慈善基金会、社会企业、数据经纪人以及私营教育提供者等，通过数字平台、行业联盟和复杂连结构成跨国政策影响网络（Parreira do Amaral & Thompson, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 43]]）。
@@ -171,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -190,8 +182,6 @@ updated: 2026-10-22
 > - **2010年代至今 — 在线教育寡头化与数据垄断** 以 K-12 阶段的 Google Classroom 等免费平台以及高等/企业教育中的 Skillsoft、LinkedIn Learning 为代表，IT 技术巨头通过知识产权限制、平台网络效应及跨业务协同作用（如 LinkedIn 利用其简历大数据指导课程开发）形成了高度集中的垄断市场，使教师逐步从“学习的设计者”沦为“算法的执行者”（[[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp. 191–193]]；[[Argument_Amos_2022_Springer\|Amos, 2022, p. 57]]）。
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：整体性教育 vs 技能原子化与绩效问责
 > - **整体性与存在性学习 (蓝方)** 源自[[Phenomenology\|现象学]]与德语区教化/教学论传统，主张学习是具身、情绪和实验性的，是人与生活世界进行存在性对话的整体旅程。教学应尊重学科知识的[[Ontology\|本体论]]深度，并围绕“[[Epochal Key Problems\|时代关键问题]]”（如生态危机、不平等）开展批判性、非目的性的主体间探究（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 4–7]]）。

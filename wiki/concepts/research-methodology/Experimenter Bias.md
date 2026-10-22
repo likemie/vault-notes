@@ -32,11 +32,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Experimenter Bias
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 实验者偏差（Experimenter Bias）是[[Experimental Research\|实验研究]]中的一种系统性偏差：当施测结果测量的实验者知道某受试者接受的是预期"最有益"或"最有效"的处理条件时，实验者可能在施测结果测量时表现出更积极、更有暗示性或更鼓励性的行为，从而人为放大该条件的处理效应（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote|notitle]

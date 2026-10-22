@@ -69,11 +69,7 @@ created: 2026-08-20
 updated: 2026-10-22
 ---
 
-# Three-Level Meta-Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 三层[[Meta-analysis\|元分析]]（Three-Level Meta-Analysis）是将[[Hierarchical Linear Model\|多层线性模型]]（Multilevel Linear Modeling）扩展应用于元分析的量化合成方法，专门用于解决单项原始研究报告多个相关[[Effect Size\|效应量]]时产生的统计依赖性（Statistical Dependence）问题。该方法将观察到的总变异解构为三个层级：第一层为效应量层面的[[Sampling Error\|抽样误差]]方差（Sampling Variance），第二层为同一研究内部不同效应量之间的研究内方差（Within-Study Variance），第三层为不同研究之间的[[Between-Study Variance\|研究间方差]]（Between-Study Variance）。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 视实证文献中的测量结果为包含多源误差与多层[[Heterogeneity\|异质性]]的抽样观察值，主张通过分层方差分解捕捉真实效应的结构性分布。
 > - **研究者角色** 在[[Effect Size\|效应量]]编码、[[Construct\|构念]]分类、调节[[Variable\|变量]]识别和协方差结构假定中行使理论与统计判断。
@@ -107,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. 确立[[Research Question\|研究问题]]与纳入排除标准，完成系统[[Literature Search\|文献检索]]与文献质量评价。
 > 2. 提取所有合格[[Effect Size\|效应量]]及[[Sample Size Determination\|样本量]]，将其统一转换为标准尺度（如 Pearson 相关系数 $r$ 进而转换为 Fisher\'s $z$ 值）。
@@ -116,8 +108,6 @@ updated: 2026-10-22
 > 4. 计算各层方差分量与[[Heterogeneity\|异质性]]比例指标（$I_{(1)}^2, I_{(2)}^2, I_{(3)}^2$），评估异质性来源。
 > 5. 引入类别或连续型调节变量构建混合效应多变量[[Meta-regression\|元回归]]模型，评估背景特征、测量工具与学段等因素的[[Interaction Effect\|调节效应]]。
 > 6. 执行[[Publication Bias\|发表偏倚]]检验（三层 Egger 检验与[[Funnel Plot\|漏斗图]]）与敏感性分析（逐一排除与异常值诊断），最后将 Fisher\'s $z$ 转换回原始指标进行解释与呈现。
-
-### 量化方法模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 嵌套数据结构（Nested Data），多个效应量 $i$ 嵌套于独立研究 $j$ 中。
@@ -161,16 +151,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 原始研究频繁报告多个相关结果指标、多个分量表[[Construct\|构念]]、不同时间点追踪数据或多个子样本时的量化[[Systematic Review\|系统综述]]。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
 > - **谨慎使用** 纳入研究数量较少（如 $k < 10$）时，Level 3 真实方差的估计可能缺乏统计功效或不稳定。
 > - **不适合使用** 每项研究仅报告严格单一独立[[Effect Size\|效应量]]的情形（此时退化为传统二层[[Random-Effects Model\|随机效应模型]]）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 原始研究层面的选择性报告偏倚、测量工具[[Reliability\|信度]]缺陷以及未观测到的混杂因素。
@@ -190,8 +176,6 @@ updated: 2026-10-22
 > | [[Meta-regression]] | 分析方法 | 三层混合效应模型通过元回归整合[[Fixed-Effect Model\|固定效应]]协变量。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 采用三层[[Meta-analysis\|元分析]]模型分析了嵌套在 18 项研究中的 512 个[[Effect Size\|效应量]]，妥善处理了单个研究同时报告多个[[Epistemology\|认识论]][[Construct\|构念]]与学习成果指标所造成的统计依赖性。

@@ -69,11 +69,7 @@ created: 2026-06-21
 updated: 2026-10-22
 ---
 
-# Sample Size Determination
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **样本量确定（Sample Size Determination）** 是指在实证研究设计阶段，研究者依据[[Research Purpose|研究目的]]、总体规模与[[Heterogeneity|异质性]]、期望统计功效（Power, $1-\beta$）、名义显著性水平（$\alpha$）、容许误差界线（[[Confidence Interval|margin of error]]）以及具体统计模型要求，科学测算并规划所需观测案例规模（学生个体、教师、学校或集群）的量化决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 143–145)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位与核心要素
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **统计功效平衡** 样本量确定本质上是在 I 型错误率（$\alpha$）与 II 型错误率（$\beta$）之间进行理性权衡，防范因样本过小导致统计检出力不足（Underpowered Studies），亦防范盲目超大样本使得微不足道的细微差异呈现伪显著。
 > - **代表性与规模辩证** 样本绝对规模并不天然等同于代表性。缺乏良好[[Sampling Frame|抽样框架]]的大样本（如对偏态子群的过度访问）无法克服选择偏差；反之，在分层良好的前提下，中小规模概率样本亦能提供稳健推断。
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > - **损耗与流失冗余** 针对[[Questionnaire|问卷]]无应答、长期追踪中的[[Attrition|样本流失]]，必须预先在理论样本量基础上增设 20%–50% 的安全冗余（Gorard, 2003）。
 
 ---
-
-## 样本量计算的经典公式与直觉
 
 > [!formula-step] 公式步骤一　有限总体均值估计样本量计算公式（Krejcie & Morgan 经典模型）
 > $$n = \frac{\chi^2 N P (1 - P)}{d^2 (N - 1) + \chi^2 P (1 - P)}$$
@@ -170,8 +162,6 @@ updated: 2026-10-22
 > | [[Visible Learning]] | 审计案例 | 伴随受试样本量错误率高达 72%、充斥人为虚报的典型宏观数据库案例。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 经典[[Quantitative Research|量化研究]]设计指南，系统论述样本量规划的多重制约、Krejcie-Morgan 公式及经验法则。

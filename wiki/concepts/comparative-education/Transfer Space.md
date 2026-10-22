@@ -55,11 +55,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Transfer Space
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 政策转移空间（Transfer Space）是指连接全球、区域与国家/地方等多元尺度，并容纳政策接收（reception）、抵制（resistance）、翻译（translation）与投射（projection）动态博弈的关系性分析[[Champ\|场域]]（Relational Analytical Arena）。该概念由公共政策与比较教育学者奥斯瓦尔多·波尔图·德奥利维拉（Osmany Porto de Oliveira）与塞西莉亚·奥索里奥·贡内特（Cecilia Osorio Gonnet）于 2023 年系统提出，并由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者深化。政策转移空间摒弃了将民族国家视为均质、孤立黑箱的传统假定，主张通过尺度（全球/国家/地方）、功能（咨询专家委员会、行政决策官僚、立法机构）以及公私属性对国家机器进行解构；它揭示出全球性议程与本土政策并非外在对立，而是在转移空间内部被本土政治行动者作为“拟似外部参考系”加以策略性动员，并在政策周期的不同阶段经历断裂式的筛选与政治过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 546–548)]]
@@ -90,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **主权国家的机构功能层析（Disaggregation of State Functions）** 国家并非铁板一块，转移空间精准区分了负责证据搜集与合法性包装的咨询系统（如政府任命的专家委员会）与手握法定裁量权的行政中枢（如教育部与内阁），揭示出两者在面对外部证据时的根本立场分野。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 547)]]
 > - **尺度交织的关系性网络（Relational Interdependence across Scales）** 全球性指标与国内政策辩论并非“外部推力”与“内部阻力”的对抗，而是相互卷入的共生关系；本土官员将国际测评建构为“外部客观力量”，恰恰是为了在国内政策博弈中获取合法性杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 > - **政策周期的多阶段断裂机制（Procedural [[Attrition]] along the Policy Cycle）** 证据在转移空间中呈现阶段性过滤：在议程设置阶段，外部指标被广泛借用以营造改革危机感；在行政法规颁布阶段，绝大部分外部文献遭遇断崖式剔除，仅保留符合政治意志的核心条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 全球化背景下国家主权是名存实亡还是策略性自主
@@ -170,8 +160,6 @@ updated: 2026-10-22
 > 转移空间分析高度依赖对一国内部精细政策档案、专家报告与正式法令的文本追踪比对；在缺乏透明政策咨询机制或威权集权体制下，咨询与行政的断裂过程可能难以获得公开的实证文献支持。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

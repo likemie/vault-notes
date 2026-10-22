@@ -52,12 +52,9 @@ created: 2026-07-25
 updated: 2026-10-22
 ---
 
-# High-Stakes Testing
 （高利害测验 / 高风险测验）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **高利害测验（High-Stakes Testing，又称高风险测验）** 是指测验分数或评估结果被直接赋予对受试者、教师、学校或区域教育系统产生重大制度性后果（选拔分流、毕业认证、教师绩效评价、办学经费分配乃至学校关闭问责）的评估情境（Harlen, 1994）。高利害测验的核心特征在于“诸多重大利益取决于测验结果”（much hinges on the test results）；当高利害压力系统性向下传导时，它不仅产生将未测内容淘汰出课堂的回冲效应（Backwash Effect），更迫使教学活动从开放探究矮化为标准化的套路训练，与[[Generative Artificial Intelligence|生成式人工智能]]的全流程代写合谋加剧学习者的[[Formative Epistemic Injustice|成长性认识不正义]]与[[Epistemic Malformation|认知畸变]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Ch24, 24.8 节)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 5–6)]]
@@ -69,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 评估[[Paradigm|范式]]与后果机制对比辨析
 > | 维度 | 高利害[[Placement, Formative, Diagnostic, and Summative Testing\|总结性测验]]（High-Stakes Testing） | [[Formative Assessment\|形成性评估]]（Formative Assessment） | 真实性表现评估（[[Authentic Assessment]]） |
 > |---|---|---|---|
@@ -81,8 +76,6 @@ updated: 2026-10-22
 > | **代表学者与文献** | Harlen (1994); Haladyna et al. (1991); [[Argument_Smith_2026_SPE\|Smith (2026)]] | Black and Wiliam (1998); Gipps (1994) | Wiggins (1990); Darling-Hammond (1995) |
 
 ---
-
-## 核心要素
 
 > [!feature] 高利害测验的核心特征与运作机制
 > - **结果依赖性（Consequential Dependence）** 测验分数直接决定个体与机构的生存空间——升学分流、教师薪酬评级、学校信誉与生源竞争，构成了压制实质教育目标的刚性外部驱动力。
@@ -153,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 高利害测验核心命题与机制总览
 > | 命题维度 | 核心论断 | 作用机制与病理后果 | 代表学者与文献 |
 > |---|---|---|---|
@@ -165,8 +156,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 高利害测验概念演变脉络
 > - **1980s–1990s — 问责制浪潮与伦理界定** 伴随欧美教育改革中的[[New Public Management|新公共管理]]与绩效问责，Harlen (1994) 与 Mehrens and Kaminski (1989) 正式提出高利害测验概念，建立九级准备方式伦理连续谱，确立推论失真与分数虚增的测量学批判。
 > - **1990s–2000s — 回冲效应与社会正义反思** Haladyna et al. (1991) 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 深入剖析高利害测验在学校层面的回冲效应，揭示其诱发课程严重窄化、应试技能崇拜以及对低表现学生的歧视性排除。
@@ -174,8 +163,6 @@ updated: 2026-10-22
 > - **2026 年 — 生成式 AI 时代的[[Epistemology|认识论]]批判与正义视阈** [[Argument_Smith_2026_SPE|Smith (2026)]] 在教育哲学视阈下重构高利害测验，指出高利害应试环境是驱使学生全面使用生成式 AI“私人厨师代劳”的系统性根源，论证高利害测验与算法技术的病理合谋是诱发[[Formative Epistemic Injustice|成长性认识不正义]]的关键推手。
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：“教到测验”（Teaching to the Test）的专业职责边界
 > - **失职论（红方）** 将教学收缩为测验要点剥夺了学生接受完整人文与科学教育的权利；分数虚增破坏了评价作为能力测量的[[Reliability|信度]]，是屈从于外部权力的失职行为。
@@ -199,8 +186,6 @@ updated: 2026-10-22
 > | [[Reliability\|信度]] | 概念 | 高利害测验引发的分数虚增与投机备考导致测验丧失了推论学生真实素养的内在信度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.8 节)]] |
 
 ---
-
-## 包含此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]] — 教材第 24 章系统梳理高利害测验的伦理连续谱（Mehrens & Kaminski, 1989）、Gipps 评价标准以及排除低表现学生的系统性弊端。

@@ -57,11 +57,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Kennisrotonde
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > Kennisrotonde（荷兰语"知识环岛"，英文 Knowledge Roundabout）是[[Netherlands Initiative for Education Research\|荷兰国家教育研究所]]（Netherlands Initiative for Education Research, NRO）于 2015 年设立的实践导向[[Knowledge Mediation\|知识中介]]门户，专为一线教师、学校管理者与教育专业工作者提供即需即用的荷兰语研究检索、通俗化摘要与定制问答服务，是国际上将研究证据转化为基层教育实践的代表性制度创新，被[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]列为"基层实践导向型"中介的标志性案例之一。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
@@ -74,16 +70,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2015 — 创设与初始服务上线** [[Netherlands Initiative for Education Research\|NRO]] 正式启动 Kennisrotonde 知识门户，提供荷兰语研究检索界面与通俗[[Abstract\|研究摘要]]数据库，面向一线实践者开放免费使用。
 > - **2016–2019 — 定制问答机制成熟化** 建立标志性的"知识环岛"问答（Q&A）机制：一线教师与学校可在线提交具体的教学实践困惑，由 NRO [[Categorical Funding\|委托研究]]人员在规定期限内进行[[Literature Search\|文献检索]]与综合分析，提供定制化的荷兰语通俗解答，发布于公开数据库供全网用户共享。被[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]在 [[OECD]] 报告中列为基层实践导向型中介的国际标杆案例。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 > - **2020–至今 — 数字化强化与受众拓展** 面向后疫情时代的在线教学转型，持续更新荷兰语教学实践证据库，扩充快速综述（Rapid Reviews）品类，并加强与荷兰各地学校改进网络的联动合作。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与服务流程
 > - **主管机构** [[Netherlands Initiative for Education Research\|荷兰国家教育研究所]]（NRO），受荷兰教育、文化与科学部监管与资助。
@@ -97,16 +89,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰成效
-
 > [!finding-cards] Kennisrotonde 核心贡献
 > - **解决语言壁垒** 荷兰语通俗化知识门户有效解决了一线教师因语言障碍无法获取英语学术研究的现实困境，大幅降低了[[Research Utilization\|研究利用]]的认知门槛。
 > - **定制问答模式的创新价值** 将被动的证据"推送"（Push）转变为由实践者需求驱动的主动"拉取"（Pull）机制，使[[Research Question\|研究问题]]与课堂实践真实需求高度对接；发布为公共知识库后，同类困惑教师均可直接受益。
 > - **作为国际中介模式创新的参照** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将 Kennisrotonde 与荷兰 [[Netherlands Initiative for Education Research\|NRO]] 知识门户并列列举，作为"目标受众向基层实践下沉的代表性中介机制"，与英国 [[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]及 [[Centre for the Use of Research and Evidence in Education\|CUREE]] 等并列，证明非 [[Randomised Controlled Trials\|RCT]] 文化导向的证据中介亦可实现高度的课堂采纳与专业影响。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 ---
-
-## 知识治理视阈下的学理意义
 
 > [!tension] 实践中介的制度优势与张力（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]]）
 > - **制度优势：语言适配与需求驱动** Kennisrotonde 以母语运作且完全响应实践者需求，使证据距离"实践可用性"大为缩短，是对"[[Research-Practice Gap\|研究-实践鸿沟]]"的直接制度响应。相比依托国际英语文献的大型清算中心（如 [[What Works Clearinghouse\|WWC]]），其本土语言优势与需求驱动机制使其能触达更广泛的基层教师群体。

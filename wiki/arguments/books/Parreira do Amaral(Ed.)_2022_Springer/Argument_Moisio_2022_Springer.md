@@ -197,9 +197,7 @@ Moisio 在结论中勾勒了知识经济化的当代演变和后果：
 Moisio 以对批判研究者的呼吁结束：(1) 不仅要审视 KBE 的空间组织，还要考察"知识工作者在这样一种经济形式之下和之中工作和生活的肉身表现和体验"；(2) 分析"日常国家性"（everyday statehood）——国家政策如何在日常层面控制和操纵公民和人力资本；(3) 将大学作为"知识经济化下的地缘政治场所"进行系统研究，需要"各种创新的[[Ethnography|民族志]]和其他方法"(pp.31–32)。
 
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 
 - [[Knowledge-Based Economization|知识经济化]]作为一种[[Geopolitics|地缘政治]]过程，通过"Hub and [[Flow]] 想象"将世界划分为核心枢纽与边缘区域，大型城市日益体现[[Competitiveness|国家竞争力]]和吸引力(pp.26–28)
 - Harvey 的[[Fixity-Motion Tension|固着-流动张力]]（fixity-motion tension）构成[[Knowledge-Based Economy|知识经济]]化的核心地缘政治悖论：国家和地方配置被创造出来以促进资本流动，但流动本身又不断动摇这些配置的稳定性(pp.27–28)

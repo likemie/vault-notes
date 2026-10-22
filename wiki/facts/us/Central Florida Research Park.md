@@ -34,8 +34,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Central Florida Research Park
-
 > [!info] 背景
 > 中佛罗里达研究园（Central Florida [[Innovation Park\|research park]], CFRP）位于佛罗里达州奥兰多（Orlando），毗邻中佛罗里达大学（University of Central Florida, UCF）主校区，于 1978 年通过与 UCF 合作建立([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.132]])。
 

@@ -35,8 +35,6 @@ created: '2026-05-10'
 updated: 2026-10-22
 ---
 
-# Areopagitica
-
 > [!info] 背景
 > 1644 年，英国诗人、学者 John Milton 向英国议会发表了《论出版自由》（*Areopagitica*）——一篇反对出版许可令 (Licensing Order of 1643) 的著名演说。该演说成为西方言论自由和反审查传统的奠基性文本。[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 在[[Geopolitics of Knowledge\|知识地缘政治]] (GPK) 的审查模态分析中援引 *Areopagitica* 作为规范性批判标准——以 Milton 提出的三重权利对照当代审查制度([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.81–82]])。
 

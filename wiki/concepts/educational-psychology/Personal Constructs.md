@@ -35,11 +35,8 @@ status: draft
 created: 2026-07-28
 updated: 2026-10-22
 ---
-# Personal Constructs
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 个人建构是个体用于概念化日常生活中各个方面的维度（dimensions）。它们是 [[Personal Construct Theory\|个人建构理论]] 中的基本[[Unit of Analysis\|分析单位]]——个体通过建构系统来预测事件、预演情境，并在行为之前进行心理模拟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
@@ -59,8 +56,6 @@ updated: 2026-10-22
 > - 不等于态度（attitude）——个人建构定义了个体看待对象的方式，而态度是对对象的评价倾向。个人建构是"透镜"，态度是"透过透镜看到的东西"。
 
 ---
-
-## 核心要素
 
 > [!feature] 个人建构的核心特征
 > - **双极性（Bipolarity）** 每个[[Construct\|构念]]本质上是双极的——可用两极形容词（好—坏）或两极短语（让我感到快乐—让我感到悲伤）来定义。这是 [[Repertory Grid Technique]] 的技术基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 5)]]
@@ -85,8 +80,6 @@ updated: 2026-10-22
 > - **1970s 至今 — 跨领域迁移** 个人建构从心理治疗领域迁移到教育、消费者研究、信息系统评估和组织行为学。同时，大多数应用研究以纯方法论方式使用构念，与 Kelly 理论的原初含义渐行渐远。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 17–18)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 引发与提供的根本分歧
 > - **引发[[Construct\|构念]]（尊重个体性推论）** 只有从受访者自身引发的个人建构才是其建构系统的有效表征。提供构念强加了研究者的框架，违背了个体性推论——而个体性推论正是该概念区别于通用分类系统的核心。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 7)]]

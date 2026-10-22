@@ -84,7 +84,6 @@ citation_aliases:
   - "Byrne & Clements, 2025"
   - "Byrne & Clements (2025)"
 ---
-# Argument_Byrne_2025_InnovationCenters
 
 > [!question]
 > [[Innovation Hub\|创新中心]]（Innovation Center）与[[Innovation Park\|研究园区]]（Research Park）在本章中交替使用，是[[University-Industry Collaboration\|产学合作]]的重要基础设施。建一栋楼、挂上"创新中心"的牌子，并不会自动催生一个充满活力的社区。
@@ -382,9 +381,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > **联邦资金与[[Innovation Hub\|创新中心]]增长的关联**
 > - 《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 CHIPS 法案共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(pp.137–138)。根据[[Brookings Institution|布鲁金斯学会]]的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
 > - 联邦政策与围绕大学的日益成熟的风险投资（venture capital）存在协同效应，共同推动了人们对商业化与[[Technology Transfer\|技术转移]]潜力的认知提升(p.137)
@@ -404,9 +401,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “如果研究园区或创新中心的最终目的是通过增加商业活动和创业精神来提高生活水平，那么大学和产业合作伙伴就可以利用这些方法做出针对特定地点的决策，以创建互惠互利和正向强化的生态系统。”
 > ("If the ultimate purpose of a research park or an innovation center is to raise the standard of living through increased commercial activity and entrepreneurship, then university and industry partners can draw from these approaches to make location-specific decisions to create mutually beneficial and positively reinforcing ecosystems.")(p.124)
 

@@ -109,8 +109,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -122,8 +120,6 @@ citation_aliases:
 > 批判实在论和实在论评估理论为解构 [[Evidence-Based Education\|EBE]] 提供了强大的 [[Epistemology\|认识论]]武器。通过这套理论，作者能指出教育是一个符号与递归（semiotic and recursive）的开放系统，人类意志和信念在其中具有因果效应（例如[[Aristotle\|亚里士多德]]（Aristotle）所说的“目的因”）。这打破了 [[Randomised Controlled Trials\|RCT]] 将教师和学生意志视为“干扰噪声”的实验室神话，论证了为什么去情境化的统计均值无法反映真实的因果机制。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -140,8 +136,6 @@ citation_aliases:
 > | **理论文献样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -267,8 +261,6 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **统计聚合的逐级失真机制** [[Randomised Controlled Trials\|RCT]] 在第一级的简化偏误，在第二级 [[Meta-analysis\|元分析]]中复合，并在第三级 [[Meta-meta-analysis\|元-元分析]]（如 [[John Hattie\|约翰·哈蒂]]的《VL》与 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》）的“速度表指针”排行榜修辞中被彻底隐藏，呈现“越聚合、越空洞”的态势。
 > 2. **“新起点”案例揭示糟糕[[Random Assignment\|随机分配]]的数据幻象** 经过匹配子集分析，干预组与对照组低分学生进步成绩几乎完全相同，所谓的 $+0.24$ 标准差（相当于 3 个月额外进步）仅是糟糕随机分配造成的[[Pre-test and Post-test\|前测]]失衡幻象 (p. 5)。
@@ -281,8 +273,6 @@ citation_aliases:
 > - **800 / 50,000** （800 与 50,000） 哈蒂的元-元分析研究所宣称囊括的元分析数量与 [[Curiosity-Driven Research\|蓝天研究]]数量，这种宏大聚合以剥离所有情境信息为代价。(p. 10)
 
 ---
-
-## 关键引用
 
 > [!citation-card] 教育项目的现实主义因果观
 > 社会项目……为受试者提供资源（物质的、社会的、认知的），而它们是否有效取决于这些个体的推理（Reasoning）。(p. 7)

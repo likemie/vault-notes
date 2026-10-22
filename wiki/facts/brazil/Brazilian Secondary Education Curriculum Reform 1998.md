@@ -43,8 +43,6 @@ created: 2026-06-09
 updated: 2026-10-22
 ---
 
-# Brazilian Secondary Education Curriculum Reform 1998
-
 ---
 
 > [!info] 背景

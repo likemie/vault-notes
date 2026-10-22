@@ -62,11 +62,7 @@ created: '2026-09-17'
 updated: 2026-10-16
 ---
 
-# Education Innovation and Research
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 教育创新与研究计划（Education Innovation and Research, EIR）是美国联邦教育部依据 2015 年《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）设立的全国性竞争性资助计划，旨在通过[[Tiered Evidence Grants\|分层证据资助机制]]（Tiered Evidence Grants）孵化、验证并向全国高贫困学区规模化推广具有严谨实证依据的创新教育方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -78,8 +74,6 @@ updated: 2026-10-16
 > - **核心问题导向** 彻底终结教育改革长期依赖商业营销与行政主观偏好的历史，将联邦研发资金刚性导向经过严格因果实验验证的教学方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > EIR 假设通过研发成熟度阶梯匹配资助规模与硬性绑定[[Evaluator Independence\|第三方独立评估]]，能够激励全美出版商、科研团队与教育科技企业主动开展严格实地试验，形成教育创新从原型开发到全国规模化的良性循环。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24, 29)]]
@@ -99,16 +93,12 @@ updated: 2026-10-16
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2009–2016 — 前身 i3 奠基与探索期** 联邦投资 14 亿美元资助 171 项创新项目，确立三层资助逻辑，但暴露出受资助者自聘评估、自编测验偏倚及复现率不足等初期问题。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24, 27)]]
 > - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案法定确立** 联邦国会通过 ESSA，正式将创新资助写入法律固定条款，正式定名为教育创新与研究项目（EIR），并与 ESSA 四级[[Evidence Standards\|证据标准]]紧密挂钩。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23, 25)]]
 > - **2017–至今 — 常态化运行与复现强化期** 强化[[Evaluator Independence\|第三方独立评估]]独立性防火墙，重点扶持小学数学、早期阅读、[[Social-Emotional Learning\|社会情感学习]]等领域具有全国规模化潜力的循证方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 美国联邦教育部初等与中等教育办公室，负责指南发布、专家盲审立项与合规监管。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -117,8 +107,6 @@ updated: 2026-10-16
 > - **受试与受益对象** 全美 K-12 公立学校师生，重点涵盖处境不利学生与高贫困 [[Title I of the Elementary and Secondary Education Act\|Title I]] 学区。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25–28)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **实证项目库跨越式增长** 借助 i3/EIR 与英国 [[Education Endowment Foundation\|EEF]] 的长期资助，符合严格因果标准的教育实证研究数量由 2003 年前每两年仅 0–2 项跃升至 2017 年后每两年逾 20 项，积累了约 100 个达到 [[Every Student Succeeds Act\|ESSA]] 强/中等[[Evidence Standards\|证据标准]]的学科方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–25)]]

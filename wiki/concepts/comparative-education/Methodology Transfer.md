@@ -44,11 +44,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Methodology Transfer
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **方法论转移（Methodology Transfer）** 指评估技术、实验设计规程、计量统计模型与科学验证规范跨越国界直接扩散并植入他国政策体系的过程。在[[Evidence-Based Policy-Making|循证决策]]（Evidence-Based Policy-Making, EBPM）与以结果为导向的公共治理推动下，[[Policy Borrowing|政策借用]]超越了价值理念与法律文本的表层扩散，延伸为对特定研究方法与量化评估[[Paradigm|范式]]的跨国采纳。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 342–344)]]
@@ -78,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Causality|因果推断]]技术规程** 确立[[Random Assignment|随机分配]]（Random Assignment）或[[Quasi-Experimental Designs|准实验设计]]作为干预成效的判定标准。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **专业评估机构载体** 跨国委托具备成熟实验实施经验的独立评估智库负责方案设计与质控。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **循证制度生态契合** 输入国行政体系具备对经验证据的刚性问责要求与先行试点机制。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
@@ -113,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -128,8 +120,6 @@ updated: 2026-10-22
 > - **2010s — 欧洲大陆的二次扩散** 荷兰、德国、丹麦和瑞士等国逐步借鉴英美[[Evidence-Based Policy-Making|循证政策制定]]与评估方法学模式 (Frey & Ledermann, 2010)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 344–345)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

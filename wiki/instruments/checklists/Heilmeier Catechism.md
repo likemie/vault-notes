@@ -60,11 +60,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Heilmeier Catechism
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 海尔迈耶[[Questionnaire|问卷]]（Heilmeier Catechism）
 > - **工具类型** 颠覆性前沿科技项目立项质询与组合评估核查清单（Checklist & Heuristic Evaluation）。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 测量构念与质询维度
-
 > [!construct-table] 颠覆性前沿项目可行性与战略价值
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | **中期阶段验收考核** | 1 | 设定可量化的阶段性成功“期中考试”指标 | 设立严苛的阶段性定性定量里程碑，不达标即果断断粮退出 |
 
 ---
-
-## 核心题项与准则细则
 
 > [!instrument-items] 经典海尔迈耶八问（The Heilmeier Questions）
 >
@@ -123,8 +115,6 @@ updated: 2026-10-22
 >    - 设立客观、可测量的物理原型检验指标与阶段里程碑（Milestones）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 
 ---
-
-## 治理效能与深远影响
 
 > [!finding-cards] 历史辐射与全球采纳
 > - **重塑 [[DARPA]] 使命管理纪律** 终结了 1960 年代对高校缺乏明确约束的开放撒钱模式，确立了“高风险探索必须匹配严苛里程碑考核”的现代治理文化。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]

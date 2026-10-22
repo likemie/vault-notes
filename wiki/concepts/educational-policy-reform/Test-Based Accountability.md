@@ -89,11 +89,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Test-Based Accountability
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 基于考试的问责制（Test-Based Accountability）指以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排。问责（Accountability）的核心在于角色承担者对其行为负责、接受审查，并在未满足标准时可能受到制裁（Kogan, 1986, p. 25）。在教育语境中，这一机制将学生考试成绩作为衡量教育质量的核心指标，是全球教育体系中的显著特征之一（Darling-Hammond, 2004）。
@@ -204,8 +200,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -226,8 +220,6 @@ updated: 2026-10-22
 > - **2020s 至今 — 跨文化借用与扩展性改造探索** 在面对 以学生为中心教育 等外来教学理念时，本土学校展现出重新[[Decodification\|解码]]考试问责与教学改革关系的调适能力，走向情境化理解。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598-603)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -259,8 +251,6 @@ updated: 2026-10-22
 > - **权力共享的结构性硬边界** 在统一考纲与刚性升学考试制度下，学生无法参与共决课程内容与评估方式([[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025, p. 599]])。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

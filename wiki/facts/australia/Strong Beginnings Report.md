@@ -52,11 +52,7 @@ created: 2026-06-06
 updated: 2026-10-16
 ---
 
-# Strong Beginnings Report
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2023年正式发布，由澳大利亚联邦教育部长杰森·克莱尔（Jason Clare）于2022年9月任命的教师教育专家小组（Teacher Education Expert Panel, TEEP）起草。[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3]])
@@ -65,8 +61,6 @@ updated: 2026-10-16
 > - **制度位置** 延续了2015年《行动方案》（[[Teacher Education Ministerial Advisory Group\|TEMAG]] Report）与2021年优质初始教师教育（QITE）审查报告（*[[Early Steps\|Next Steps]]*）的惩罚性问责逻辑，但首次将脑科学转向作为核心特征。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 政策将“大脑与学习”等核心内容强制列为全国教师教育的国家认证标准，要求所有课程在2025年底前完成改组，并通过绩效资金和取消认证机制进行严厉问责，以此确立标准化“什么有效”知识的霸权。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])
@@ -84,16 +78,12 @@ updated: 2026-10-16
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2022-09 教师教育专家小组正式成立。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3]])
 > - 2023 报告起草完成并向全国公布，提出14项政策建议。
 > - 2025（预计）核心内容强制嵌入全国所有 [[Initial Teacher Training\|ITE]] 项目认证中。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 6]])
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施主体与机制
 > - **发布主体** 澳大利亚联邦政府教育部、以马克·斯科特（Mark Scott）为主席的教师教育专家小组。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3]])
@@ -108,8 +98,6 @@ updated: 2026-10-16
 
 ---
 
-## 效果与评价
-
 > [!stat-cards]- 核心文本分析数据
 > - 200次：“证据”（evidence）一词在政策文本中出现的次数。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 197次：“认证”（accreditation）一词在政策文本中出现的次数。
@@ -118,8 +106,6 @@ updated: 2026-10-16
 
 ---
 
-## 争议与评论
-
 > [!tension] 争议焦点
 > - **目标争议：回避工作量危机** 政策名义上回应教师短缺危机，但对 [[Australian Institute for Teaching and School Leadership\|AITSL]] 调查中教师指出的最大流失原因——过重工作量保持沉默，反而病理化教师教育质量。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]])
 > - **工具争议：标准化与回应性教学冲突** 强制推行高度标准化的“脑科学”指令课程，与政策文本同时要求学生学习根据情境和文化提供“回应性教学”在逻辑和智识上是自我冲突的。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 6]])
@@ -127,8 +113,6 @@ updated: 2026-10-16
 > - **价值争议：生物[[Determinism\|决定论]]的优生学历史风险** 政策将大脑视为中性硬件进行生物简化主义处理，忽视了教育史上生物决定论和缺陷大脑话语往往与优生学、社会达尔文主义及隐性种族主义紧密交织的惨重历史教训。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 7–8]])
 
 ---
-
-## 相关概念／理论
 
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |

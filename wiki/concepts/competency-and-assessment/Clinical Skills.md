@@ -37,11 +37,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Clinical Skills
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 临床技能（Clinical Skills）指通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能。它要求学习者将[[Theoretical Knowledge\|理论知识]]转化为针对具体临床问题的判断与行动，促进更快更有效的临床决策，并支持长期技能保持。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 954–955)]]
@@ -57,8 +53,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 临床技能的构成
 > - **临床决策** 在多样临床情景中作出更快更有效的判断。（pp. 954–955）
 > - **临床能力与实践** 将[[Theoretical Knowledge\|理论知识]]转化为实际处置能力。
@@ -71,8 +65,6 @@ updated: 2026-10-22
 > 3. **巩固保持** 通过反复应用形成长期技能保持。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 二阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

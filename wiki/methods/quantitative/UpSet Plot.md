@@ -47,11 +47,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# UpSet Plot
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **集合交集图（UpSet Plot）** 是一种用于呈现复杂多集合数据相交结构的定量数据可视化技术，由亚历山大·莱克斯等（Lex et al., 2014）正式提出。该方法摒弃了传统韦恩图（Venn Diagram）依赖封闭几何形状相交的视觉隐喻，改用“矩阵点阵结合条形图”的直角坐标布局：顶部条形图量化指示各特定交集的元素频数（Intersection Size），底部点阵矩阵（Matrix Layout）以实心连接圆点清晰标识参与相交的集合子集，左侧水平条形图展示各单一集合的总体基数（Set Size）。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, p. 17)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > *"UpSet is a visualization technique designed to analyze sets and their intersections in data-rich domains. Instead of relying on geometric overlays of circles that fail beyond three or four sets, UpSet presents set intersections in a matrix layout paired with interactive bar charts for rigorous quantification."*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 将复杂分类体系理解为离散从属关系的布尔组合；主张通过精确的频数分解与可比较的[[René Descartes\|笛卡尔]]空间编码，还原高维交集数据的真实分布，破除几何图形面积失真对认知判断的误导。
@@ -88,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **构建二值会员矩阵（Binary Membership Matrix）** 将原始[[Data Transformation\|数据转换]]为 $N \times K$ 矩阵，行代表[[Unit of Analysis\|分析单元]]（如文献数据点），列代表 $K$ 个集合（如不同模型与人工编码员），单元格取值为 1（从属/正确/一致）或 0。
 > 2. **计算非重叠相交子集（Disjoint Intersections）** 将全样本严格划分为 $2^K$ 种互斥的组合状态，统计各状态下的频数规模。
 > 3. **布局矩阵与条形图组件** 纵向对应各独立集合，横向对应各交集模式；以连接线贯穿实心圆点表示多方相交。
 > 4. **排序与聚焦分析** 按交集频数降序排列，重点识别“完全共识子集”（所有集合相交）、“单方偏离子集”（仅一个集合独有）与“机器特异性子集”。
 > 5. **结合领域知识归因** 针对具有显著偏倚或聚集性的异常交集，下钻至原始个案或文献执行错误根因排查。
-
-### 量化可视化模块
 
 > [!method-stack] 图形构件与视觉编码
 > - **顶部条形图（Intersection Size Bar Chart）** 核心柱状图，高度精确对应每个交集组合包含的具体[[Sample Size Determination\|样本量]]，支持直观比较不同模式的相对优势。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 集合数量 $\ge 4$ 个的复杂重叠结构分析（如比较 5–10 组编码员、多种大语言模型与多项黄金标准的一致性交集）。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, p. 17)]]
@@ -132,8 +120,6 @@ updated: 2026-10-22
 >   - 连续型[[Variable\|变量]]之间的非线性关联或高维空间流形[[Cluster Analysis\|聚类分析]]。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **组合爆炸与长尾效应** 当集合数量 $K \ge 10$ 时，理论交集数量可达 $2^{10} = 1024$ 种；绝大多数交集频数为 0 或极小，需通过设置最小频数阈值（`min_size`）进行长尾截断，可能遗漏偶发关键个案。
@@ -153,8 +139,6 @@ updated: 2026-10-22
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | 关键论证 | 首次在二阶元分析大模型提取评测中运用 UpSet Plot 成功分离 7 组主体的完全一致与单方偏离模式。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 在《[[Visible Learning\|可见的学习]]》156 项一阶[[Meta-analysis\|元分析]]的大模型提取评测中绘制图 3，以 UpSet Plot 揭示 7 组编码主体在 468 个数据点上的全维交集分布，精准证实完全一致高达 59.8%，而既有数据库独有单方失误达 12.2%。

@@ -63,11 +63,7 @@ created: 2026-08-31
 updated: 2026-10-22
 ---
 
-# Self-Regulated Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 自我调节学习（Self-Regulated Learning, SRL）是指学习者在[[Metacognition\|元认知]]、动机和行为层面上主动参与自身学习过程的动态循环系统。学习者通过设定明确的学业目标、选择并实施适切的认知策略、持续监控任务进展与理解状态，并依据反馈对心智操作和外部行为做出适应性调整。在人工智能介入的学习环境中，自我调节学习是发挥“风险中和”功能、决定学生能够将技术作为[[Scaffolding\|认知脚手架]]批判性审视其输出，还是滑向被动顺从与[[Cognitive Offloading\|认知外包]]的核心调节机制。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 7)]]；[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
@@ -102,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **前瞻规划阶段（Forethought & Planning）** 包含学习目标制定、任务分析、战略性提示词设计与先验知识激活，预先设定人机交互的认知边界，防范漫无目的索取现成答案。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **表现与意志控制阶段（Performance & Volitional Control）** 运用自我监控、事实核查与多源[[Triangulation\|三角互证]]，持续审查人工智能生成内容的逻辑与准确性，中和认知盲从。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7)]]
 > - **自我反思与图式重构阶段（Self-Reflection & Adaptation）** 评估[[Man-Computer Symbiosis|人机协同]]成果、归因分析并调整后续交互策略，将深度探究经验整合到长时记忆图式中。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–8)]]；[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
@@ -169,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -188,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 特质化倾向 vs 情境动态过程
@@ -202,8 +192,6 @@ updated: 2026-10-22
 > > 依赖回顾性自陈问卷测量技术环境下的自我调节极易产生社会赞许性偏差与主观高估，必须结合人机交互日志与实际[[Academic Achievement\|学业表现]]进行[[Triangulation\|三角互证]]。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 4–5, 13)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

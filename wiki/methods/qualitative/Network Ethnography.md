@@ -63,11 +63,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Network Ethnography
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 网络[[Ethnography\|民族志]]（Network Ethnography）是由[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者系统发展的[[Qualitative Research\|质性研究]]方法，专门用于考察新自由主义与全球化背景下的[[Policy Mobility\|政策流动性]]（policy mobility）与[[Network Governance\|网络化治理]]（[[Network Governance]]）。该方法将传统民族志的深度沉浸、[[Reflexivity\|反身性]]与文本分析，与[[Network Analysis\|社会网络分析]]（Social Network Analysis, SNA）的关系追踪相结合，核心在于跟随（following）政策、人、思想、资金、技术与制度客体跨越公共与私营部门、国家与超国家边界的流动轨迹（Ball, 2016; Ball et al., 2017; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 4]]）。
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 采取批判性与关系性[[Constructivist Paradigm\|建构主义]]视角，视权力为异质网络装配生成的效应，而非预先固化的科层结构；高度关注公开表象与底层非正式运作之间的断裂。
 > - **研究者角色** 作为敏锐的侦查者与追踪者，保持批判[[Reflexivity\|反身性]]，穿透官方中立修辞与公关材料。
@@ -101,16 +95,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. 选定[[Policy Mobility\|政策流动]]起点或关键组织节点（如特定政策法案或中介机构）。
 > 2. 开展跨界全景式网络数据挖掘（官方登记库、监管记录、财务披露、网络数字痕迹）。
 > 3. 追踪人员穿梭、资金流转与制度文本互文关系，识别核心枢纽（hubs）与从属纽带（ties）。
 > 4. 绘制[[Policy Network\|政策网络]]关系拓扑图，标定重叠董事、双重资助与异质层级协调机制。
 > 5. 结合宏观政治经济结构与微观转译过程，撰写批判性[[Ethnography\|民族志]]叙事。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -128,16 +118,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适用于研究全球化与[[Network Governance\|网络化治理]]中的[[Educational Privatisation\|教育私有化]]、[[Venture Philanthropy\|风险慈善]]介入、[[Policy Borrowing\|政策借用]]与流动、新型智库与[[Educational Brokerage Agency\|证据中介机构]]运作机制。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 4–5]])
 > - **谨慎使用** 涉及商业保密、私人高管网络壁垒或政府信息公开豁免时，需结合多方间接证据，审慎评估网络全貌的局部性与片面性。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]])
 > - **不适合使用** 不适合用于测算微观教学干预[[Effect Size\|效应量]]或评估单一闭门课堂的日常教学行为。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 资料可及性限制（如初创企业免报审计、FOI 申请受阻导致网络部分节点处于隐蔽状态）、商业保密协议带来的信息截断。
@@ -157,8 +143,6 @@ updated: 2026-10-22
 > | [[Ethnography]] | 前置方法 | 提供[[Qualitative Observation\|田野观察]]、[[Reflexivity\|反身性]]与[[Rich and Thick Description\|厚描述]]的基础方法论训练。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 综合调取澳大利亚证券与投资委员会 17 份企业档案、慈善财务年报及信息公开公函，绘制澳大利亚国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）背后跨越十年的[[Venture Philanthropy\|风险慈善]]游说与跨国[[Policy Network\|政策网络]]。

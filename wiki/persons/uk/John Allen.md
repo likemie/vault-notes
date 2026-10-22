@@ -53,11 +53,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# John Allen
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国经济与人文地理学家，英国开放大学（The Open University）经济地理学荣休教授。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2003 — *Lost Geographies of Power*** 颠覆了传统的权力空间分布论，提出权力的空间形态并非均匀铺展，而是以集中、弥散、诱导或规训等不同模式在网络中差异化运作。
 > - **2010 — *Assemblages of State Power: Topological Shifts in the Organization of Government and Politics*（与 Allan Cochrane 合著）** 提出当代国家治理已从严格的行政层级转向由多元主体装配而成的拓扑网络，权力以关系触达重塑区域与地方治理。
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 空间并非独立于社会实践之外的客观物理舞台，而是由权力关系不断建构、拉伸与折叠的拓扑构型。传统以公里或国界测量的“远与近”不再反映权力的真实效能；通过[[Data Infrastructure\|数据基础设施]]、标准工具与象征符号的连接，处于遥远物理时空的行动者（如巴黎的 [[OECD]] 或柏林的 [[Institute for Educational Quality Improvement\|IQB]]）能够在微观基层空间中实现高度密集的即时在场与有效规训（Allen, 2011; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 137–138]]）。
 
 > [!citation-card] 拓扑临近性与空间的折叠

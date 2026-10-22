@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# James Madison
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国第四任总统（1809–1817 在位），开国元勋之一，政治哲学家与宪政理论家，被公认为“美国宪法之父”与“权利法案之父”。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作与文献
 > - **1787–1788 — 《联邦党人文集》（*The Federalist Papers*, 尤其是 No. 10 & No. 51）** 论证在广土众民的大共和国中如何利用分权、野心制约野心（"Ambition must be made to counteract ambition"）来化解派系冲突与暴民政治。
 > - **1787 — 《1787年制宪会议国会薪酬辩论记录》（*Writings of James Madison*, Vol. 3）** 提出公职自定报酬系道德不体面的断言，奠定了美国宪法第二十七修正案（1992 年最终批准：禁止议员自定当届生效薪酬）的思想雏形。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
@@ -84,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心思想
+> [!claim] 核心思想
 > 人类并非天使，因而政府必须兼具统治人民的能力与自我约束机制；对公共权力的防腐戒条必须与制度激励相审慎平衡，既要防止统治者以权自肥，又要警惕过度压低公职待遇导致权力退化为特定特权阶层的禁脔。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–182)]]
 
 > [!citation-card] 野心制衡野心与人性现实主义
@@ -95,8 +87,6 @@ updated: 2026-10-22
 > *If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary. In framing a government which is to be administered by men over men, the great difficulty lies in this: you must first enable the government to control the governed; and in the next place oblige it to control itself.*
 
 ---
-
-## 影响路径与现代对话
 
 > [!influence-path] 影响路径
 > - **宪政与制度设计路径** 确立的宪政分权与制衡机制成为全球现代民主宪制设计的典范标准。

@@ -55,11 +55,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# National Research and Resource Facility for Submicron Structures
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **国家亚微米结构研究与设施中心（National Research and Resource Facility for Submicron Structures, NRRFSS）** 是[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）于 1977 年在康奈尔大学（Cornell University）出资设立的首个国家级微细加工与微电子用户设施。中心开创了由联邦政府资助昂贵微细加工装备与洁净室、并向全美学术界与产业界科研人员开放租赁共享的运作模式，旨在打破高校无力单独承担尖端微电子装备沉没成本的瓶颈，推动大学前沿探索与工业界尖端制造工艺的深度融合。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1976–1977 — 制度企业家倡议与破冰设立** 康奈尔大学电气工程教授约瑟夫·鲍尔（Joseph Ballantyne）与查尔斯·李（Charles Lee）等早期提议，前[[Bell Labs|贝尔实验室]]研究员杰弗里·哈里斯（Jeffrey Harris）在 [[National Science Foundation|NSF]] 组织多次行业研讨会与论证，化解了来自英特尔与军方的质疑，最终促成 NSF 理事会正式立项资助康奈尔大学建立 NRRFSS。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
 > - **1978–1986 — 产学交融与卓越中心共建** 由爱德华·沃尔夫（Edward Wolf）出任中心主任，广泛开展工业界技术咨询、设备采购指导与人员驻留；1981 年建立[[Industry Affiliate Program|产业联盟计划]]（吸纳 37 家企业，每家年费 8,500 美元）；并在康奈尔校园协同设立 [[Semiconductor Research Corporation|SRC]] 微科学与技术卓越中心，沃尔夫等中心领袖出任 SRC 大学顾问委员会成员直接参与行业技术议程规划。1982 年[[National Science Board|国家科学委员会]]（NSB）批评其对外开放不足并威胁撤资，中心增设专门用户计划副主任，至 1986 年将外部用户比例大幅提升至 60%（其中 12% 为工业界用户），设施内 1/3 的科研课题获得工业界直接资助。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–293, 297)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 > - **1987–至今 — 向纳米制造与多学科网络演变** 1987 年更名为康奈尔纳米加工设施（Cornell Nanofabrication Facility, CNF），随后成为 NSF 国家纳米制造用户网络（National Nanofabrication Users Network, NNUN）以及 13 所高校组成的国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure]], NNCI）的核心节点，研究领域从纯半导体工艺成功拓宽至生物工程（如基因枪发明、酒庄微孔真菌生长研究）、微流控与材料科学。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–298)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **设施主任与工程管理团队** 由资深教授或工业界背景领袖出任主任，下设专职超净间工程师与设备技术保障团队，负责机台日常运维与用户工艺培训。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 292)]]
@@ -96,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务与旗舰贡献
 > - **微细加工机台共享服务** 开放分子束外延、深紫外与电子束光刻、离子刻蚀等昂贵微纳加工设备，支持全国数百个前沿课题研究。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 292)]]
 > - **[[Industry Affiliate Program|产业联盟计划]]** 至 1986 年吸纳 37 家企业（每家年付 8,500 美元），形成微型产学研发联盟网络。
@@ -106,16 +96,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **企业咨询与网络辐射** 累计为通用电气、休斯、加州理工学院等 40 余家知名企业与科研机构提供微细加工实验室建设与设备选型咨询。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 292)]]
 > - **会员规模** 1986 年拥有 37 家[[Industry Affiliate Program|产业联盟]]赞助企业，成为东海岸产学微电子协同枢纽。
 > - **全国纳米设施网络模板** 其模式成为 [[National Science Foundation|NSF]] 随后设立国家纳米制造用户网络和国家纳米技术协同基础设施的直接蓝本。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–298)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

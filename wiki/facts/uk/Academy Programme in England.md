@@ -45,11 +45,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Academy Programme in England
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 学院制度始于 2000 年代，但大规模扩张发生在 2010 年联合政府上台之后，由英国教育部（Department for Education, DfE）推动，并以[[The Importance of Teaching\|《教学的重要性》]]白皮书所确立的自我改进取向为依据。
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **制度位置** 学院化与[[Teaching Schools\|教学学校]]指定共同构成[[Self-Improving School System\|自我改进学校系统]]的组织基础;前者提供自主办学与规模化治理结构，后者提供专业发展与研究发展的横向网络。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 学院化把学校从地方教育当局的管理中释放出来，使其直接接受中央拨款并承担自主改进的责任;同时通过学院链与多学院信托把单个学校组织为规模化的办学集团，使校际互助与经验扩散具备组织载体。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
@@ -77,16 +71,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2010** 联合政府上台，学院化随自我改进取向大规模推进。
 > - **2015 年 3 月** 58% 的学院与自由学校已处于正式学院链中（House of Commons Education Select Committee 2015）。
 > - **2016 年初** 英格兰约有 5500 所学院，接近全部学校的四分之一。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 英国教育部，负责学院身份的批准、拨款安排与多学院信托的治理规则。
@@ -101,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **规模化治理结构已经成型** 多数转制学校进入正式学院链，说明学院链与多学院信托已成为英格兰学校治理的常规组织形式。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
 > - **参与不均构成结构性风险** 约四分之三的学校未采用学院身份，体系可能分化为转制与未转制两类，从而削弱自我改进取向所依赖的系统整体性。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120–121)]]
 > - **自主空间的[[Research Utilization\|证据使用]]效果不确定** 学院获得的自由并未自动转化为[[Evidence-Informed Practice\|证据知情实践]];除却围绕问责框架所看重的指标之外，这类制度并不利于证据知情实践的发展。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 121–122)]]
@@ -114,8 +102,6 @@ updated: 2026-10-22
 > - **3/4** 未采用学院身份的学校比例（约），存在形成两级体系的风险。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120–121)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

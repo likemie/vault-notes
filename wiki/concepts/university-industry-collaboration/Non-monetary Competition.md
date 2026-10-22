@@ -43,11 +43,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Non-monetary Competition
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 非货币竞争（Non-monetary Competition）指高等教育和学术领域中不以金钱为唯一交换媒介和[[Success Criteria\|成功标准]]的竞争形式。学术竞争围绕"符号商品"（symbolic goods）——如声望（prestige）、认可（recognition）和区隔（distinction）——展开，这些商品之所以具有价值，是因为学科共同体和更广泛的公众已将其视为代表独特专业知识和智力成就的标志([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.797–798]])。
 
 这一概念直接回应了[[Academic Capitalism|学术资本主义]]（[[Academic Capitalism]]）概念的一个核心局限：与常规价格型市场不同，学术界扩散的准市场和声望竞争并不依赖显性的货币供需机制。在许多情况下，学术机构并不以财务利润为导向，学术人员追求的不仅是经济报酬，更是同行认可和学科地位([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, p.797]])。

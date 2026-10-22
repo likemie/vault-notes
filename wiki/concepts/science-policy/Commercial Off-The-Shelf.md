@@ -49,11 +49,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Commercial Off-The-Shelf
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 商用现货（Commercial Off-The-Shelf, COTS；或称商业货架产品、现成商用技术）指无需经过政府或特定客户出资定制开发、已在公开商业市场上成熟流通并向一般公众或企业销售的硬件设备、材料与软件平台。在科技政策与防务采办语境中，COTS 采购[[Paradigm|范式]]代表了一种打破传统政府机构“自上而下定制设计—多层转包—漫长采购”垄断模式的制度创新，要求公共与防务部门优先采用私营商业市场通过竞争与快速迭代发展出的成熟技术，以较低的边际成本与更快的交付速度支持国家公共能力与战略安全。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 145–154)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政府采购与技术供给[[Paradigm|范式]]辨析
 > | 维度 | 商用现货采购（[[Commercial Off-The-Shelf\|COTS]]） | 传统防务定制采办（Custom Defense Procurement） |
 > |:---|:---|:---|
@@ -87,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **市场成熟度与公开发售性（Commercial Availability）** 硬件或软件已在公开商业市场上向非政府实体广泛销售或提供服务，具备经过真实市场验证的稳定性与可用性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 146–148)]]
 > - **综合价值导向取代成本审计（Value-oriented Procurement）** 采办决策依据产品能为一线任务带来的实际效能与生命周期价值，而非机械审计生产线内部的工时分摊与专有成本凭据。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–151)]]
 > - **开发者与使用者的紧密连接（Developer-User Intimacy）** 依托商用现货软件的敏捷特性，使前线士兵/分析师与算法工程师建立起直接且高频的沟通渠道，实现实战需求的即时响应。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 141–143)]]
@@ -142,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,8 +150,6 @@ updated: 2026-10-22
 > - **2020s — 软件与 AI 世纪的国防技术基石** COTS [[Paradigm|范式]]由传统硬件物资拓展至算法中枢、云原生与数字孪生系统，成为现代国家维护[[Hard Power|硬实力]]的核心采办机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

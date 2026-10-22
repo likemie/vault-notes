@@ -37,11 +37,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Educational Services Australia
-
 ---
-
-## 背景
 
 > [!event-context] 机构背景
 > - **时间 / 地点** 2010年由原“[[Australian Curriculum\|澳大利亚课程]]、评估与报告服务公司”等机构合并改组成立，总部位于澳大利亚墨尔本。
@@ -49,8 +45,6 @@ updated: 2026-10-22
 > - **制度背景** ESA是一家由澳大利亚州和领地教育部长及联邦教育部长共同拥有的非营利性、注册慈善性质的公共控股公司，定位于为全澳提供国家级共享教育技术、数字课程服务和系统性基础设施支撑。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
-
-## 经过
 
 > [!timeline] 机构活动与系统支撑
 > - 2010 正式成立，作为澳大利亚教育数据与基础设施的核心承载公司。
@@ -66,15 +60,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与评论
-
 > [!tension] 争议焦点
 > - **工具争议（利益冲突与权力集中的隐忧）** 政策社会学者指出，[[Australian Institute for Teaching and School Leadership\|AITSL]]、ACARA 与 [[Australian Education Research Organisation\|AERO]] 在名义上是各自独立的政策和证据机构，但它们在底层系统与行政服务上都由同一个“慈善中介”ESA 支撑，这事实上消解了机构间的权力制衡，大大增加了国家教育问责体系中的权力集聚和隐性利益冲突风险（([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])）。
 > - **“慈善”外衣下的治理商业化** 将关系国家命脉的教育监控与证据中介职能寄托在一只注册慈善公司（Charity）的底层技术系统上，一方面为[[Policy Network\|政策网络]]提供了规避公众直接监督的“公益防雨伞”，另一方面也反映了国家将教育公共事业外包给准市场化技术官僚机构的整体治理转向。
 
 ---
-
-## 相关概念／政策
 
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |

@@ -50,11 +50,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Teacher Knowledge Base
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教师知识库（Teacher Knowledge Base，又称教师知识基础）是指教师在从事专业教学与育人活动中所积累、掌握并运用的复合多元知识体系（Shulman, 1986, 1987; Grimen, 2008）。该概念由李·舒尔曼（Lee Shulman）奠定理论基石，强调教师知识远非单一学术学科知识的机械输出，而是由学科知识、学科教学知识（Pedagogical Content Knowledge, PCK）、课程认知、学习者特征、教育情境、一般教学法以及育人宗旨与价值观等七大维度交织而成的异质复合体。在[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]框架中，教师知识库被视为多源知识动态整合（[[Knowledge Integration]]）的核心载体，外部科研证据必须与教师既有的实践经验、具体学情和专业伦理在特定教学情境中进行平权协商与[[Reflexivity\|反思性]]裁决（Hermansen & Mausethagen, 2023；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教师知识库模型与传统[[Technical Rationality\|技术理性]]模型辨析
 > | 维度 | 复合多元教师知识库模型 | 技术理性应用模型（Applied Science Model） | 传统手艺学徒模型（Craft Model） |
 > |------|-----------------------|-----------------------------------------|-------------------------------|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **教师专业身份** | 拥有自主裁决权的专业反思者与课程设计师 | 外部科研成果的被动消费者与考核对象 | 捍卫经验自主权的传统手艺人 |
 
 ---
-
-## 核心要素
 
 > [!feature] 舒尔曼与格里门教师知识库的核心构成
 > - **学科教学知识（Pedagogical Content Knowledge, PCK）** 将特定学科内容以生动、适切的方式转化为学生易于理解和建构的专业知识形态（Shulman, 1986）。
@@ -136,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -154,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -164,8 +152,6 @@ updated: 2026-10-22
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 篇关于教育中[[Research Utilization\|研究使用]]的同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统检索 | 既有实证对微观[[Knowledge Integration\|知识整合]]过程的关注度 | 24 项实证研究中，仅 3 项（12.5%）包含微观课堂决策观察，其余均将知识使用简化为[[Questionnaire\|问卷]]打分 | — | 凸显既有实证研究严重缺乏对教师知识库在微观实践中动态整合过程的质性[[Rich and Thick Description\|深描]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

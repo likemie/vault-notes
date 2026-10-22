@@ -54,11 +54,7 @@ created: '2026-05-17'
 updated: 2026-10-22
 ---
 
-# Boarding Schools
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 寄宿学校（Boarding Schools，在原住民与殖民地政策语境中亦称 Residential Schools）指以学生全天候在校居住、集体生活管理与沉浸式社会化为核心组织特征的学校形态。它突破了传统走读学校仅规训日间课堂教学的时空界限，通过将学龄人口从原生家庭、地理聚落与部族社区中彻底物理剥离（Physical Dislocation），在高度受控的围墙封闭空间内，系统实施涵盖学术训练、行为仪式、日常作息乃至价值观重塑的全域教育干预。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 20)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 366–367)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变与范式演进
-
 > [!dev-timeline] 寄宿教育的历史演进脉络
 > - **中世纪起源：修道院与贵族寄养训育** 男孩被送往修道院和贵族府邸接受宗教典籍与骑士礼仪训育，奠定了脱离家庭、置身全封闭修会场所进行精神与肉体规训的原型。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 19)]]
 > - **殖民帝国扩张：母国文化灌输与殖民官员子弟培养** 殖民时期，英国高级政务官员、军官与富商普遍将子女送回本土寄宿学校，以纯正的欧洲礼仪、古典学识和大英帝国习惯塑造未来殖民统治精英；学校秉持高度同质化的帝国文化优越感。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 19–20)]]
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > - **当代国际化与商业化转型：文凭跳板与全球生源依赖** 战后殖民体系瓦解使西方传统寄宿学校面临财政生源危机，随后敏锐转向全球教育市场；英、澳、加私立寄宿学校大举招收来自中国等亚洲新兴富裕阶层的国际学生，演变为衔接世界顶尖高等学府的精英跳板。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 20–21)]]
 
 ---
-
-## 核心理论维度与实践支柱
 
 > [!dimension] 寄宿学校的三重分析维度
 > - **1. 物理隔离与全天候空间规训维度（Spatial Enclosure & Total Discipline）**
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 寄宿学校核心命题归纳
 > | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表文献 / 理论源流 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 > | **精英再生产与生源依赖** | 西方寄宿学校依托跨国文凭跳板定位，借由吸纳亚洲富裕生源维持财政预算 | 揭示全球高等教育准入竞争下，私立寄宿教育的商品化与文化同化底色 | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
 
 ---
-
-## 争议与批判反思
 
 > [!debates] 核心学术争议与理论反思
 >
@@ -171,8 +159,6 @@ updated: 2026-10-22
 > > - **教育社会学者** 警惕过度依赖单一国别生源将使学校极度易受国际[[Geopolitics|地缘政治]]、汇率波动与跨境政策收紧的冲击，危及机构财务的可持续性。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 21)]]
 
 ---
-
-## 实证调查与案例考证
 
 > [!effect-table]- 寄宿学校相关实证调查与质性案例考证
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>

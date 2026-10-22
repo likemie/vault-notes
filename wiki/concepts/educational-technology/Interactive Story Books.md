@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Interactive Story Books
-
 > [!metax] [互动故事书 · Interactive story books](https://www.visiblelearningmetax.com/influences/view/interactive_story_books)
 > 技术、学校与校外策略 › 学科信息技术
 >

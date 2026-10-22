@@ -74,11 +74,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Counterfactual
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 反事实（Counterfactual）是[[Causality\|因果推断]]中通过设想与构建“若假设的原因不存在，效果是否还会发生或呈现何种状态”来判定因果效应的核心推理机制：如果假设原因 $X$ 发生时产生结果 $Y(1)$，而在 $X$ 不发生的替代可能世界中结果为 $Y(0)$，则因果效应即定义为 $Y(1) - Y(0)$。由此提出的检验问题是：“如果那个假设的原因不存在，效果还会发生或还是原来的样子吗？”如果答案是否定的，方可确证 $X$ 对 $Y$ 具有实质促成作用（Mackie, 1993; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 55–56]]）。在实证教育研究中，反事实主要依托[[Random Assignment\|随机分配]]设立的控制组来构建无偏的反事实代理（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–23]]）。
@@ -100,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 反事实对照与相邻推论方式的辨析
 > | 维度 | 实验反事实对照（[[Randomised Controlled Trials\|RCTs]]） | 单组前[[Pre-test and Post-test\|后测]]对比（Pre-Post） | 观察性[[Covariate Adjustment\|协变量调整]]回归 | 思辨哲学思想实验 |
 > |---|---|---|---|---|
@@ -111,8 +105,6 @@ updated: 2026-10-22
 > | **教育政策适用性** | 为循证采购提供强因果依据（如 [[What Works Clearinghouse\|WWC]] 与 EEF） | 常见于教师日常叙事，但严禁作为法定循证依据 | 用于无法实施随机化的大规模普查与政策评估 | 用于构建概念模型与因果机制理论推导 |
 
 ---
-
-## 核心要素
 
 > [!feature] 反事实[[Causality\|因果推断]]的核心要素
 > - **假设原因识别（Hypothesized Cause）** 明确待检验的[[Independent Variable\|自变量]]或教学干预措施，界定干预的边界与[[Operationalization\|操作化]]内涵。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, p. 55)]]
@@ -186,8 +178,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -206,8 +196,6 @@ updated: 2026-10-22
 > - **2019 — 斯莱文推进整群生态反事实与规模化标准** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结三十年循证改革经验，强调全校改革必须在真实学校生态中进行[[Cluster Randomized Trials\|整群随机试验]]，以常规教学（[[Business as Usual\|BAU]]）为反事实基准，并结合 [[Hierarchical Linear Model\|HLM]] 纠正层级嵌套偏倚。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–27)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -230,8 +218,6 @@ updated: 2026-10-22
 
 ---
 
-## 典型案例
-
 > [!case] 冰面摔倒与反事实的多重因果边界
 > 如果人行道上没有结冰，我就不会滑倒摔断手臂——因此冰的存在是骨折的促成原因之一（通过了反事实检验）。然而，冰并不是导致骨折的充分原因：即使路面结冰，若当事人具备出色的平衡能力、视力良好、光线充足、穿着高抓地力防滑鞋且骨质健康，骨折也不会发生。该案例生动说明了反事实推理在多重因果交织网络中识别促成因素的有效性及其解释边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]
 
@@ -239,8 +225,6 @@ updated: 2026-10-22
 > 在全员成功（Success for All, SFA）全校综合改革项目的大规模实证评估中，研究团队将数十所处境不利小学整群[[Random Assignment\|随机分配]]为 SFA 实验组与 BAU 控制组。控制组学校继续沿用学区原有常规阅读教材与教法（作为真实的政策反事实）。在持续多年的追踪测试中，SFA 学校在独立标准化阅读测验上显著超越了 BAU 控制组，从而确证了结构化全校改革相对于日常分散教学的因果净增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

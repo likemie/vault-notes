@@ -71,11 +71,7 @@ created: 2026-07-19
 updated: 2026-10-22
 ---
 
-# Carlos Alberto Torres
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔[[Critical Pedagogy|批判教育学]]与教育政治社会学者，加州大学洛杉矶分校（UCLA）杰出教授，[[Paulo Freire|弗莱雷]]研究所（Paulo Freire Institute）创始主任。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1990 — *The Politics of Nonformal Education in Latin America*** 系统剖析拉美非正规教育中[[Neocorporatism|法团主义]]国家的权力控制逻辑与底层民众阶层的抵抗空间。
 > - **1992 — *[[Participatory Action Research]] and [[Popular Education]] in Latin America*** 明确确立参与式[[Action Research|行动研究]]（[[Participatory Action Research|PAR]]）的五大[[Epistemology|认识论]]与实践原则。
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > - **2011 — *In the Shadow of Neoliberalism: Thirty Years of Educational Reform in North America*** （与 [[Liliana Esther Olmos|奥尔莫斯]]等合编）深度剖析新自由主义对北美及拉美公共教育公平与民主公民身份的系统性侵蚀。
 
 ---
-
-## 核心思想
 
 > [!claim] 教育政策与改革根植于隐含的国家理论与资本积累矛盾
 > 托雷斯强调教育绝非技术中立的技能分配系统，而是国家履行资本积累与社会合法化双重功能的核心争鸣[[Champ|场域]]。在拉美等外围资本主义国家，依附性的国家机器（[[Conditioned State Theory|受限国家]]）受制于跨国垄断资本与本土统治集团结成的“[[Pact of Domination|支配同盟]]”，公共教育系统呈现出精英与底层割裂的双轨形态；[[State Corporatism|国家法团主义]]则通过成人扫盲与边际机会扩张推行[[Compensatory Legitimation|补偿性合法化]]以维系政权统治。全球化背景下新自由主义结构调整迫使公共教育退缩、推行使用者付费与私有化，实质上是以市场逻辑剥夺大众公民身份的阶级策略。
@@ -123,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 融合法兰克福学派[[Critical Theory|批判理论]]、葛兰西[[Hegemony|文化霸权]]学说与拉美[[Dependency Theory|依附论]]，构建起剖析[[Development Education|发展中国家教育]]政策与扩张困境的“[[Conditioned State Theory|受限国家]]”宏观政治社会学[[Analytic Framework|分析框架]]。
 > - **方法路径** 规范并推广[[Participatory Action Research|参与式行动研究]]（PAR）的政治导向与民众赋权原则，打破了将研究对象视作被动被测者的[[Positivism|实证主义]]主客二分传统。
 > - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义[[Educational Privatisation|教育私有化]][[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。

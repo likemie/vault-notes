@@ -75,11 +75,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# EPPI-Centre
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 政策与实践证据信息协调中心（Evidence for Policy and Practice Information and Co-ordinating Centre, EPPI-Centre）是 1995 年设于伦敦大学学院教育学院（UCL Institute of Education, IOE）的学术型证据中介旗舰机构，开创了教育与社会政策领域的[[Systematic Review\|系统综述]]（Systematic Review）方法论，并在[[OECD\|经合组织]]（OECD）十五年纵向追踪中被确立为少数抵御财政与政治周期冲击、实现长效存续的高校锚定型[[Knowledge Mediation\|知识中介]]典范([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 64]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1995 — 创设与方法奠基期** 在 UCL IOE 正式成立，以医学循证综合为[[Paradigm\|范式]]参照，开创适应教育与社会科学特性的[[Systematic Review\|系统综述]]规程，开发质性[[Research Synthesis|证据综合]]（Qualitative Evidence Synthesis）与主题综合方法([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
 > - **1999–2000 — 纳入国家循证政策基础设施** 英国工党政府大力推进“循证公共决策”（[[Evidence-Based Policy-Making|Evidence-Based Policy]]），出资设立国家证据中心网络，EPPI-Centre 正式确立为国家级[[Evidence-Based Education\|循证教育]]与社会关怀核心支撑平台([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 31]])。
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > - **2020s — 数字化基础设施与纵向存续标杆** 持续升级 EPPI-Reviewer 智能系统综述协作软件；在[[OECD\|经合组织]]回顾 2007 年确立的 6 家国际标杆中介机构时，EPPI-Centre 与美国 [[What Works Clearinghouse\|WWC]] 成为仅有的两家保持持续完全活跃的机构([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **学术决策与管理层** 设于 UCL 教育学院，由知名循证学者组成核心指导委员会，保障[[Research Problem\|研究议题]]的学术中立性与高度方法论自主权。
@@ -117,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵与技术产品
 > - **EPPI-Reviewer 智能[[Systematic Review\|系统综述]]软件平台** 自主研发的端到端综述管理系统，集成机器学习文献筛选、定性编码、[[Effect Size\|效应量]][[Meta-analysis\|元分析]]与报告生成功能，被坎贝尔协作网（[[Campbell Collaboration]]）及全球数千个研究机构广泛采购采用。
 > - **方法论专著与前沿审查指南** 连续发布《系统综述导论》（An Introduction to Systematic Reviews）等权威指南，奠定了国际跨学科系统综述的方法学教科书标准。
@@ -131,8 +121,6 @@ updated: 2026-10-22
 > *Of the six agencies tracked longitudinally from the OECD 2007 benchmark, only two remain fully active fifteen years later: the US What Works [[Educational Evidence Clearinghouses\|Clearinghouse]] (WWC) and the UK Evidence for Policy and Practice Information and Co-ordinating Centre (EPPI-Centre).*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **学术与方法论引领** 奠定了全球社会科学[[Systematic Review\|系统综述]]的黄金规程，开创的质性综合与主题综合方法被引用数万次。
@@ -152,8 +140,6 @@ updated: 2026-10-22
 >
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 学术争议与局限反思
 >

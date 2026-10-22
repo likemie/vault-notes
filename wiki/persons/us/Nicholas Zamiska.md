@@ -59,11 +59,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Nicholas Zamiska
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国法律学者、科技企业高管，耶鲁法学院法律博士（Juris Doctor, J.D.），[[Palantir Technologies|帕兰提尔科技公司]]（Palantir Technologies Inc.）企业事务主管兼首席执行官办公室法律顾问。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000s–2010s — 法律规制与公共调查阶段** 结合耶鲁法学训练与调查报道经验，剖析大型科层官僚系统的运行弊端与制度寻租。
 >   - **代表成果** 针对政府监管、公共采购与行政法治的实证分析。
@@ -105,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 私营部门与国家公共利益的割裂构成了当代西方科技治理的最大隐患。科技工程共同体必须走出狭隘的纯商业中立幻象，在法治与国家安全的框架下积极参与国防与公共安全建设；同时，国家必须通过厉行政府采购法治与推行组织去官僚化，破除既得利益集团的垄断壁垒，重塑公共机构的技术供给效能（pp. xiv–xvi, 139–155）。
 
 > [!feature] 采购法治与制度改革三大支柱
@@ -122,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进政府采购法、行政法治与国家安全科技政策的交叉融合，深化对公共部门“[[Innovation Desert|创新荒漠]]”制度成因的理论解释。
 > - **方法路径** 结合行政诉讼[[Chain of Evidence|证据链]]构建与工程组织实战案例，提供可操作的政府采购合规审查与反垄断司法救济路径。
 > - **政策路径** 推动美国联邦法院确立 [[Federal Acquisition Streamlining Act of 1994|FASA 1994]] 商用现成优先先例，实质性推动国防部《国防联邦采办条例补充规定》（DFARS）的执行机制改革。
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 论证采购法治、商用优先、[[Engineering Mindset|工程思维]]与行政去官僚化改革（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 科技法治视角论扎米斯卡的制度贡献
 > 扎米斯卡在科技政策与政府采购法领域展现出深刻的制度洞察力；他将严谨的耶鲁法学分析转化为打破五角大楼长达数十年的采办垄断的实际司法胜诉，为商业前沿科技进入国家核心防务开辟了关键的法治通道。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, Overview)]]
@@ -151,8 +139,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** [[Palantir Technologies]] 及 帕兰提尔防务政策与国际事务基金会 — 扎米斯卡担任高管、法律顾问与董事的核心机构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >

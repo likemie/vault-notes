@@ -69,11 +69,7 @@ created: 2026-08-23
 updated: 2026-10-16
 ---
 
-# AMSTAR
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] AMSTAR
 > - **工具类型** 系统评价与[[Meta-analysis\|元分析]]方法学质量评估规程（Methodological Quality Appraisal Rubric）。
@@ -82,8 +78,6 @@ updated: 2026-10-16
 > - **实施方式** 他评与双人独立编码，遇分歧通过协商达成一致。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Meta-analysis]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -99,14 +93,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 针对系统评价或[[Meta-analysis\|元分析]]报告规范的核查评价题。
 > - **作答格式** 二分类判定（满足得 1 分，未满足得 0 分）。
 > - **反向题与跳题** 无反向题；12 项得分取算术平均值作为总体质量得分（0 到 1 之间），阈值设定为达到 0.75（即至少满足 9 项标准）判定为高质量元分析。
-
-### 方法学质量评价准则
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -128,8 +118,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -141,8 +129,6 @@ updated: 2026-10-16
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | R-AMSTAR（修订版，Kung et al., 2010） | 评估 19 项人工智能教育应用一阶元分析的方法学质量（得分 29–36，均分 33.84，剔除 8C/8D 临床条目），作为二阶元分析的质量调节变量 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.87$ | 高质量组（$ES = .70$）与中等质量组（$ES = .60$）无显著差异（$Q_{bg}(1) = .62, p = .43$） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

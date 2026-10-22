@@ -56,11 +56,7 @@ created: '2026-06-06'
 updated: 2026-10-22
 ---
 
-# Epistemic Ascent
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology|认识论]]上升（Epistemic Ascent），在课程论与认知科学中亦称概念进阶（Conceptual Progression），指学习者在特定学科领域中从具体的经验表象与零散运算规则，向高度抽象、系统连贯的学科公理体系与高阶认识论结构逐步攀升的认知演进过程。该概念强调课程标准与教学设计必须超越碎片化知识点的堆砌，遵循学科概念生成的内在秩序，为学生掌握学科特有的认识方式（[[Ways of Knowing]]）提供清晰的阶梯支撑。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
@@ -91,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **具象向抽象的梯次跃升** 学习者从具体的生活经验感知和具象操作逐步发展为理解高度概括的符号系统与形式化公理。这一过程并非自然发生，必须依赖精心设计的课程阶梯。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023)]]
 > - **学科内生公理逻辑导引** 概念上升序列由学科自身的内在逻辑体系所规范。例如数学中由数感与四则运算向代数表达式、函数映射的延展，遵循严格的公理化演绎。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 > - **[[Knowledge-that and Know-how-to|知其然]]与知其所用的贯通** [[Epistemology|认识论]]上升要求将陈述性知识（[[Knowledge-that and Know-how-to|知其然]]）与程序性应用（[[Knowledge-that and Know-how-to|知其所用]]）深度连接，在抽象层次上指导复杂情境的[[Problem Solving|问题解决]]。
@@ -142,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 >
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用示例
-
 > [!case] 美国 [[Common Core State Standards|CCSS]] 数学标准的学科公理推演与 [[American Federation of Teachers|AFT]] 物理剪裁校准
 > 在研制全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准过程中，起草团队面临高年级数学严重缺乏实证因果研究的困境。编写者完全依赖数学学科公理体系进行严密的[[Epistemology|认识论]]上升推演，将代数、几何与函数概念依逻辑依存性纵向排列。随后，[[American Federation of Teachers|全美教师联盟]]（AFT）组织的一线教师团队通过物理剪切与墙面推敲，核实其梯度在真实课堂中的可行性，成功实现了概念进阶从学术推演向可操作教学阶梯的转化。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
 
@@ -169,8 +159,6 @@ updated: 2026-10-22
 > 考察表明，[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]在认识论上升方面虽有明确宣示，但由于[[Regulative and Instructional Discourse|规约性话语]]强力优先于教学性[[Discourse|话语]]，[[Big Ideas|大概念]]退化为宽泛的社会价值元陈述，没有与学科认识论结构对接，缺乏清晰的概念层次标记，导致课程设计陷入认识论混乱。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议交锋
 >

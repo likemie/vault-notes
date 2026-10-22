@@ -60,8 +60,6 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Academic Engagement
-
 ---
 
 > [!warning] 术语双重内涵辨析
@@ -71,10 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 维度一：学业投入（Student Academic Engagement）
-
-### 定义与核心逻辑
-
 > [!def] 学业投入定义
 > **学业投入（Student Academic Engagement）** 是[[Student Engagement|学生投入]]理论的核心支柱之一，指学生在大学期间向学术性教育活动投入的物理时间与心理能量——包括课程出勤、完成[[Homework|作业]]、与教师探讨学术前沿及遵守学术规范（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]的“大学过程”[[Analytic Framework|分析框架]]中，学业投入与[[Social Engagement|社会性投入]]并列构成大学投入过程的两大分析轴。
 
@@ -82,18 +76,12 @@ updated: 2026-10-22
 > - **过程 vs 结果** 学业投入是“行为与能量过程”，[[Academic Achievement|学业表现]]（GPA）是“制度性产出”。高投入不必然产生高 GPA，低投入也可能因选课策略获得高分，两者脱节揭示了深层的家庭资本与策略性习性差异。
 > - **量与质的双重性** 既包含时间长度与修课学分等量化维度，更包含专注程度、探究深度与策略方向等质性维度。
 
-### 围绕学业投入形成的命题与实证
-
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
 > **生活组织模式决定学业投入的阶层分化与功能取向** 郑雅君实证揭示了学业投入在两类典型大学生活组织模式中的系统性分异：
 > 1. **[[Goal-Controlled Mode|目标掌控模式]]（优势阶层主导）** 将学业投入高度“功能化”——学生根据绩点之于生涯目标（保研、出国或求职）的边际效用精准分配精力，精明运用选课策略管理 GPA；
 > 2. **[[Intuition-Dependent Mode|直觉依赖模式]]（弱势阶层多见）** 学业投入深陷“绩点无用论”认知偏差与高中“苦学惯性”的矛盾，对大学策略性刷分行为产生道德拒斥，导致高时间投入难以转化为高制度回报。
 
 ---
-
-## 维度二：产学学术参与（Academic Engagement with Industry）
-
-### 定义与与商业化的区别
 
 > [!def] 产学学术参与定义
 > **产学学术参与（Academic Engagement with Industry）** 指学术研究者（学者个人或课题组）以个人或团队身份与产业界开展的非排他性、广义知识协同活动，包括[[Sponsored Research Agreement|产业赞助研究]]、联合技术攻关、学术咨询（Consulting）、联合发表、[[Executive Education|高管培训]]、联合培养（实习/[[Apprenticeship|现代学徒制]]）及产研人才双向穿梭。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–218)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 42–43)]]
@@ -109,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-### 核心要素与当代制度创新
-
 > [!feature] 产学学术参与的核心运作支柱
 > - **企业侧学术参与团队（Academic Engagement Teams, AET）** 企业内部专职负责[[University-Industry Collaboration|产学合作]]的组织叠加层，通过中央预算、业务部门联合出资或企业基金会，架设学术探索与商业工程之间的认知桥梁。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–223)]]
 > - **产业博士与定向资助（Industrial PhD Fellowships）** 国家支持青年学者在顶尖企业实验室或国家实验室完成博士课题，以全额津贴保障直接解决产业关键工艺难题。
@@ -124,10 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 围绕概念形成的命题
-
-### 命题总览
-
 > [!contrast-table] 学术参与核心命题归纳
 > | 命题类型 | 核心指向 | 代表学者 / 机构 | 实证情境 |
 > |---|---|---|---|
@@ -138,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学术参与双重脉络演进历程
 > - **1980s–1990s — [[Student Engagement|学生投入]]理论与学业融入界定** Astin 提出[[Student Involvement|学生涉入]]理论，Tinto（1993）确立学业融入（Academic Integration），Kuh（1991）将学业投入[[Operationalization|操作化]]为具体学习行为指标。
 > - **2010s — 产学学术参与概念奠定** Perkmann et al.（2013）在《Research Policy》[[Systematic Review|系统综述]]中确立学术参与（Academic Engagement）与商业化（Commercialization）的二分法，奠定产学协同组织研究新[[Paradigm|范式]]。
@@ -148,8 +128,6 @@ updated: 2026-10-22
 > - **2026 年 — 产业博士、[[Activate Fellowship|Activate]] 创业科学家与晋升机制重塑** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动产业博士培养、推广 Activate 驻场科学家模式并打破终身教职晋升壁垒的国家科技人才战略。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

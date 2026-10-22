@@ -51,11 +51,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Seaborg Report 1960
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1960 年 11 月由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）正式发布，报告由诺贝尔化学奖得主、加利福尼亚大学伯克利分校校长格伦·西博格（Glenn T. Seaborg）领衔的主题专家小组起草完成。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **制度位置** 承接并重构了 1945 年范内瓦·布什（[[Vannevar Bush]]）的《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》，标志着美国科学政策议程从“二战战时体制善后”全面升级为“国家战略主导的大学科研能力系统性大扩张”。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–17)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《西博格报告》（Seaborg Report 1960）正式确立了“基础科学研究与研究生教育密不可分”的国家战略原则；主张联邦政府在未来 15 年内将全美具备世界一流科研实力的卓越中心（Centers of Excellence）数量由 15–20 所倍增至 30–40 所，要求联邦科研项目全面承担大学设施间接成本并允许直接列支教席薪酬，同时明确呼吁优先通过国家奖学金（Fellowships）而非项目助研用工（RAs）培养新一代青年科学家。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–17)]]
@@ -91,16 +85,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策演进关键节点
 > - **1957** 苏联斯普特尼克（[[Sputnik Shock 1957|Sputnik]]）卫星升空，美国[[Dwight D. Eisenhower|艾森豪威尔]]政府重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）。
 > - **1960** 格伦·西博格牵头完成并正式发布报告《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **1964–1966** 报告诉求全面落地：[[National Science Foundation|NSF]] 创设大学科学发展计划（USDP），启动间接费逐校协商政策；DOD 推出 Project THEMIS，[[National Aeronautics and Space Administration|NASA]] 设立 SUP，[[National Institutes of Health|NIH]] 设立 HSAA。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **政策发起与审计** [[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）统筹；[[National Science Foundation|美国国家科学基金会]]（NSF）与卫生福利部（HEW）负责具体执行落地。
@@ -114,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益（关键行动者）** 大学管理层（校董会、校长联合会 [[American Council on Education|ACE]]） — 极力推动联邦兜底薪资与全额报销间接费，利用扩容资金建设新校园。
 > - **高权力 · 低利益（联邦财政与拨款官僚）** 国会拨款委员会与联邦审计官 — 警惕大学财政失控，极力抵制长期无条件经常性拨款。
@@ -123,16 +111,12 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!finding-cards] 历史影响与体制塑造
 > - **美国科研版图的成功扩散** 成功打破了二战前后仅哈佛、哥伦比亚、芝加哥、加州理工等 10–15 所顶尖大学垄断联邦科研经费的格局，在全美数十个州孕育出新一代公立巨型[[Research Universities|研究型大学]]。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 4, 15)]]
 > - **大学—联邦资助契约的根本性逆转** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Stephan）指出，《西博格报告》是大学由“被动受助”转变为“主动倒逼联邦”的分水岭；大学借由此报告打通了间接成本逐校磋商与软钱薪资转嫁通道，奠定了后世商场模型与软钱模式的制度底座。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 11, 15–17, 37)]]
 > - **预警的落空与非预期体制异化** 报告中极富远见的警示——防止研究生被大型组织作为工具化剥削、防止缺乏托底的“二等公民”软钱教职蔓延——在后来的实践中基本被大学管理者抛诸脑后，最终不幸全面应验。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15, 17, 32–33)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

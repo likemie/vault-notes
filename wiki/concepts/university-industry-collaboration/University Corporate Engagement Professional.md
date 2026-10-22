@@ -34,11 +34,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# University Corporate Engagement Professional
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 大学企业参与专员（University Corporate Engagement Professional, UCEP）是在大学与企业合作的界面中充当中介和关系管理者的专业人员。他们深入了解学术格局、院系研究特点和大学的战略目标，负责连接双方利益相关者、识别一致利益，并引导和构建战略伙伴关系([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, pp.77–79]])。
 
 > [!quote|notitle]
@@ -56,9 +52,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **vs [[Boundary Spanner\|边界跨越者]]** 边界跨越者是更广泛的概念，指任何跨越组织边界、促进知识流动和关系建立的角色；UCEP 则是边界跨越者在[[University-Industry Collaboration\|产学合作]]领域的一种具体制度化形式，通常隶属于大学的企业关系办公室或科研副校长办公室。
 
 > [!example|notitle]

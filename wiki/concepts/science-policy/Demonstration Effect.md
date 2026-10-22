@@ -61,11 +61,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Demonstration Effect
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **示范效应（Demonstration Effect / 技术示范效应）** 是指政府公共部门或先导机构通过在具有高度可见性的重大公共工程、国防航天任务、市政安全或国家示范项目中实际部署、验证并稳定运行新兴复杂技术，或主权国家通过先导性政策试验展现显著量化实效，向外部潜在商业用户、产业决策者及跨国政策制定者直观展示系统可行性、性能优越性与运行[[Reliability|可靠性]]，从而降低技术采纳与[[Policy Borrowing|政策借用]]的认知门槛，消除信息不对称与体制避险惰性，加速技术扩散与制度创新的机制。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]; [[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 340–341)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 示范效应的多重视角与机制辨析
 > | 比较维度 | 科技政策技术示范效应（[[Argument_Schnee_1978_RP\|Schnee, 1978]]） | 公共治理先导示范效应（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska, 2025]]） | 跨国政策流动示范效应（[[Argument_Legrand_2012_PolStud\|Legrand, 2012]]） | 商业广告推广（Commercial Promotion） |
 > |:---|:---|:---|:---|:---|
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > | **典型案例** | [[Apollo Program\|阿波罗计划]]计算机控制展示、SAGE 防空指挥验证 | 新奥尔良警局利用 [[Palantir Technologies\|Palantir Gotham]] 遏制帮派暴力 | 英国新工党借用美国 TANF 方案与 ERA 示范项目 | 早期计算机制造企业的商用产品宣传册 |
 
 ---
-
-## 核心要素
 
 > [!feature] 示范效应的作用维度与构成要素
 > - **高可见性任务场景** 依托具有国家级关注度与社会影响力的重大工程、城市公共安全场景或全国性政策试点，确保应用成果能够广泛触达产业界、政府系统与公众视野。
@@ -174,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -186,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 示范效应概念发展历程
 > - **1949–1953 — 消费与国际发展经济学起源** 詹姆斯·杜森贝里（James Duesenberry, 1949）在相对收入假说中提出个体消费的示范效应；拉格纳·纳克斯（Ragnar Nurkse, 1953）将其扩展至国际经济学，揭示发展中国家居民对发达国家高消费模式的模仿倾向。
 > - **1978 — 科技政策与产业经济学中的技术示范效应** 施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）将示范效应引入科技创新与产业政策领域，系统阐明了政府空间与国防大项目如何通过公开运行计算机系统消除商界疑虑、推动民用工业技术采纳。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]
@@ -196,8 +184,6 @@ updated: 2026-10-22
 > - **2025 — 公共部门治理与跨越[[Innovation Desert|创新荒漠]]的先导示范机制** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中将示范效应深化为公共治理与反官僚避险的关键机制，强调以真实解决公共危机（如暴力干预、民生服务）的先导工程成果破除政治犬儒与奢侈信念，带动技术在公共体系中的全面扩散。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -215,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 示范效应在技术采纳、公共治理与跨国扩散中的实证对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -227,8 +211,6 @@ updated: 2026-10-22
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025)]] | 新奥尔良警局（NOPD）公共安全治理改革 | 历史制度与技术采办案例分析 | [[Palantir Technologies\|帕兰提尔]][[Predictive Policing\|预测性警务]]系统先导部署与谋杀率指标 | 针对帮派暴力前线部署，将谋杀率降至数十年最低点，以无可辩驳的生命拯救实效打破官僚避险 | 依赖高水准攻坚团队深度介入，全面铺开需要配套制度容错与采购规范变革 |
 
 ---
-
-## 条目关联
 
 > [!entry-map] 条目关联网络
 > | 关联条目 | 关系类型 | 核心说明 |

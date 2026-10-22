@@ -52,11 +52,7 @@ created: '2026-09-12'
 updated: 2026-10-22
 ---
 
-# Poverty Reduction Strategy Papers
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1999 年 9 月由[[World Bank\|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（IMF）发展委员会暨执委会联合正式确立并发布。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > - **制度位置** 构成了借贷国获取国际多边债务减免、受援国公共财政预算重组及教育部门五年规划的前置性刚性规制框架。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 减贫战略文件（PRSPs）是由借贷国政府名义上主导编制、实质严格遵循[[World Bank\|世界银行]]与 [[International Monetary Fund|IMF]] 规程的全国宏观中长期减贫路线图；它将教育领域的初等教育普及、女孩入学率、教师绩效问责等量化指标与多边资金解付深度挂钩，构成了世界银行凭借信贷资本实施管理主义-科学效率规制的核心载体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -84,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1999 [[World Bank\|世界银行]]与[[International Monetary Fund|国际货币基金组织]]正式引入 PRSP 框架，替代传统的结构调整计划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - 2002 [[Global Partnership for Education\|全球教育伙伴关系]]前身“全民教育快车道倡议”（EFA-FTI）要求受援国以 PRSP 为基础提交国家教育规划。
@@ -93,8 +85,6 @@ updated: 2026-10-22
 > - 2015 至今 PRSP 演变为对接[[UN Sustainable Development Goals\|联合国可持续发展目标]]（SDG 4）的跨部门国家综合融资框架。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** [[World Bank\|世界银行]]集团教育全球实践局、[[International Monetary Fund|国际货币基金组织]]执委会。
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **按指标进度分期解付** 资金严格分批拨付，受援国若未能按期完成特定指标（如消减教师薪资占财政比重、扩大合同制教师比例），世行有权扣留后续信贷。
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键掌控者** [[World Bank\|世界银行]]信贷官、借贷国财政部技术官僚 — 控制数十亿美元资金流转与国家宏观经济大权。
@@ -130,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 基础教育占公共财政预算比重（通常要求达 20% 左右）、官方发展援助落地率。
 > - **过程指标** 教育管理信息系统（EMIS）数据填报完整率、教师出勤率审计达标率。
@@ -146,8 +132,6 @@ updated: 2026-10-22
 > 全球累计超过 70 个低收入国家签署并实施了 PRSP 规划，撬动了数百亿美元的多边开发援助与债务免除，重塑了战后全球南方基础教育治理版图。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

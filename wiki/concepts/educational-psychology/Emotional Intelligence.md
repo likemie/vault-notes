@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Emotional Intelligence
-
 > [!metax] [情绪智力 · Emotional intelligence](https://www.visiblelearningmetax.com/influences/view/emotional_intelligence)
 > 学生 › 情绪
 >

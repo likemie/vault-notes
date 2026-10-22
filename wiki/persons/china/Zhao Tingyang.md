@@ -59,11 +59,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Zhao Tingyang
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国当代哲学家，中国社会[[Chinese Academy of Sciences|科学院]]哲学研究所研究员、学部委员。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2005–2011 — 天下[[Ontology|本体论]]建构与威斯特伐利亚主权超越**
 >   - **核心问题** 回应全球化进程中国际政治的零和博弈与联合国治理失灵困境，寻求超越主权国家边界的世界政治哲学。
@@ -109,9 +103,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 赵汀阳的思想以建构超越西方威斯特伐利亚民族国家主权的“[[Tianxia Heuristic|天下体系]]”为轴心，融通全球制度哲学、文明发生学与政治神学，形成了一套解释世界秩序与中华文明连续性的理论体系：
 > 
 > - **无外部的世界政治** 主张突破以民族国家主权为核心、将世界割裂为“我们”与“他们”排他性二元的传统秩序，将“世界”本身确立为最高的政治与[[Unit of Analysis|分析单位]]，致力于构建一个消解制度“外部性”的天下世界制度，先确立全人类的共同利益，再界定主权国家权益。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 106]]；[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024, pp. 1703–1704]])
@@ -147,9 +139,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **哲学与政治思想路径** 开启了当代中国学者将古典儒家天下思想系统转化为现代政治哲学[[Discourse|话语]]的热潮，引发关于普遍主义世界秩序、天下主义（[[Cosmopolitanism]]）与传统[[Tributary System|朝贡体系]]当代价值的大讨论。
 > - **高等教育学与[[Epistemic Governance|知识治理]]路径** 被西蒙·马金森（Simon Marginson）、杨锐（Yang Rui）与许心（Xu Xin）等学者转译为“[[Tianxia Heuristic|天下启发式]][[Analytic Framework|分析框架]]”（Tianxia Heuristic），用以阐释跨国高等教育中超越西方民族国家中心主义的关系性合作；周孟萱与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）进一步提炼出“以世界为中心的天下观”（world-centric tianxia），用以解析[[Belt and Road Initiative|一带一路]]跨国大学联盟中等级引领与平等互惠辩证共生的空间治理[[Ontology|本体论]]。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 > - **政策与官方[[Grand Theory|元叙事]]路径** 与官方提出的“[[Community of Shared Future for Mankind|构建人类命运共同体]]”及“[[National Rejuvenation Narrative|中华民族伟大复兴]]”的宏大叙事形成深层学理共振，为官方论证“中华文明具有和平基因”提供了极具世界主义色彩的哲学外衣。[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 106)]]
@@ -170,8 +160,6 @@ updated: 2026-10-22
 > - **学术与政策机构** 中国社会科学院哲学研究所 — 长期任职与从事学术研究的核心学术基地。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 

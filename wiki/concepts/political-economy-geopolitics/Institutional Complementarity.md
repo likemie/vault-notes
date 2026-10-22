@@ -47,11 +47,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Institutional Complementarity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **制度互补性（Institutional Complementarity）** 指一国经济体制中不同子领域的制度安排之间存在的协同增效关系，即某一制度（如劳资协调）的存在或运作能够显著提高另一制度（如特定技能培训或长期关系型融资）的边际运行回报（Marginal Return）；[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism, VoC）理论将其视为区分协调市场经济（CME）与自由市场经济（LME）的核心支柱，而[[Historical Institutionalism|历史制度主义]]渐进变迁学派则批判其将互补性视为“无外生激变便不可变动”的功能主义超稳定假设，主张将互补性重新理解为充满结构性松弛与内生杂糅的动态过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 制度互补性认知视界对比
 > | 维度 | 传统 [[Varieties of Capitalism\|VoC]] 视角（静态均衡） | 渐进变迁视角（动态演化） | 杂糅与层叠视角（局部重构） |
 > |:---|:---|:---|:---|
@@ -84,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **跨领域收益增益机制（Cross-Domain Marginal Efficiency）** 一项制度安排的存在能够降低其他制度的协调成本，使成套制度组合的整体绩效高于各孤立制度之和。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 5)]]
 > - **制度聚类与比较优势（Institutional Clustering）** 相互互补的制度自发集聚，引导企业专注于需要特定制度支撑的生产活动（如德国擅长渐进创新工程，美国擅长激进创新高科技）。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–5)]]
 > - **制度松弛与结构性摩擦（Institutional Slack）** 现实体制中的子系统并非无缝咬合，不同制度之间存在缓冲带与不协调空间，为行动者提供了试探新规则的回旋余地。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–21)]]
@@ -136,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -152,8 +142,6 @@ updated: 2026-10-22
 > - **2005 — [[Historical Institutionalism|历史制度主义]]的演化转向与批判重构** [[Wolfgang Streeck|施特雷克]]与希伦合编《制度变迁的超越》，系统反思互补性概念的功能主义偏误，开辟聚焦制度松弛、杂糅与渐进解构的新议程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

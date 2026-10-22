@@ -75,13 +75,9 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Knowledge Building Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 学习者共同体如何在协作互动与数字化网络工具支持下，像专业科学研究团队一样创造、发展与持续改进公共知识产品。
 > - **理论问题** 批判传统学校教育将教学降格为向个体头脑灌输现成信息的信道传递模式（Transmission Model）或仅关注个体心智转变的狭隘[[Constructivist Paradigm|建构主义]]，回应如何在基础教育课堂中培育适应知识社会的核心创新素养与[[Epistemic Agency|认识能动性]]。
 > - **理论类型** 整合教学法、社会[[Epistemology|认识论]]与学习环境设计的综合性学习科学理论与规范[[Analytic Framework|分析框架]]。
@@ -92,23 +88,17 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 玛琳·斯卡达马利亚（[[Marlene Scardamalia|Marlene Scardamalia]]）与[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter|Carl Bereiter]]）在 1990 年代初提出，里程碑文献包括 *Higher Order Knowledge Acquisition in Computer-Supported Collaborative Learning Environments* (1991)、*Computer Support for Knowledge-Building Communities* (1994) 及 *Knowledge Building: Theory, Pedagogy, and Technology* (2006)。
 > - **原初问题** 认知心理学研究发现，专家在写作和[[Problem Solving|复杂问题解决]]中展现出高度的知识转化（Knowledge Transforming）与[[Intentionality|意向性]]学习（Intentional Learning），而普通学生则陷入低阶的知识陈述（Knowledge Telling）；如何借助技术支持将专家团队的[[Creativity|创造性]][[Knowledge Production|知识生产]]机制普及至普通课堂成为核心问题。
 > - **理论资源与材料** 汲取波普尔的世界 3 概念（将观点作为可批判改进的客体）、[[Lev Vygotsky|维果茨基]]（Lev Vygotsky）的社会文化中介理论以及真实科学实验室的知识学研究。
 > - **形成路径** 从最初开发计算机支持的意向学习环境（Computer-Supported Intentional Learning Environment, CSILE）软件，到提炼 12 条知识建构教学设计原则，逐步发展为贯通[[Epistemology|认识论]]、教学法与技术环境的系统[[Paradigm|范式]]。
 
-### 12 条经典设计原则体系
-
 > [!concept-lens] 知识建构的 12 条设计原则架构
 > 斯卡达马利亚与贝莱特将知识建构[[Operationalization|操作化]]为 12 条相互交织的设计原则，涵盖观点、共同体与评估三大集群：
 > - **观点集群（Ideas Cluster）** 真实观点与真实问题（Real Ideas, Authentic Problems）、观点改进（Improvable Ideas）、观点多样性（Idea Diversity）、观点提升（[[Research in Schools Evaluation|RISE]] Above）。
 > - **共同体集群（Community Cluster）** [[Epistemic Agency|认识能动性]]（Epistemic Agency）、集体[[Epistemic Responsibility|认知责任]]（Collective Cognitive Responsibility）、知识建构[[Discourse|话语]]（Knowledge Building Discourse）、民主化知识（Democratizing Knowledge）、对称性知识推进（Symmetric Knowledge Advancement）、泛在知识建构（Pervasive Knowledge Building）。
 > - **手段与评估集群（Means & Assessment Cluster）** 建设性利用权威资源（Constructive Uses of Authoritative Sources）、嵌入性与转化性评估（Embedded, Concurrent, and Transformative Assessment）。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
 > - **1990s — CSILE 与意向性学习奠基** [[Marlene Scardamalia]] 与 [[Carl Bereiter]] 奠定概念基础，强调将学生观点转化为屏幕上的公共制品，促发分布式讨论。
@@ -133,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜观点是作为公共客体而存在的制品并受持续改进机制驱动
 > **解释** 知识建构理论坚信，知识不应被狭隘地理解为深藏于学习者大脑中的私密心理状态，而必须被表征为可供公共检验、辩驳与重塑的客观观点（波普尔的世界 3）。在知识建构课堂中，探究绝非寻找标准答案的单向终点，而是将任何初始想法视作具有局限性的暂定解释，驱动学习者通过寻找反例、协调矛盾数据与理论重构实现持续的观点改进。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, p. 892)]]
 >
@@ -151,8 +139,6 @@ updated: 2026-10-22
 > **应用实例** 五年级班级在探究人体系统时，从最初围绕 8 个直觉疑问（如瘀伤、骨折）展开讨论，随着概念碰撞自发衍生出眼睛成像、神经传导与反射弧等 12 个意向领域，并在学期末通过 16 篇我们知识之最（BOOK）反思笔记实现了跨系统[[Knowledge Integration|知识整合]]。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 评估课堂探究环境是否具备知识建构特质、诊断学习者协作[[Discourse|话语]]的认识深度、分析师生在探究中的权能分配与组织演进。
@@ -179,8 +165,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能单纯依据学生在数字平台上发帖数量的多寡直接等同于深层概念理解，必须结合[[Discourse|话语]]实质内容与认识复杂度进行深入[[Coding in Qualitative Research|质性编码]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

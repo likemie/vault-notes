@@ -40,10 +40,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Researcher as Key Instrument
-
-## 定义
-
 > [!def] 核心定义
 > 研究者作为关键工具（Researcher as Key Instrument）是[[Qualitative Research\|质性研究]]的核心公理之一：质性研究者自行收集数据——通过检查文件、观察行为或访谈参与者。他们可能使用协议（一种记录数据的工具），但收集信息和解释信息的是研究者本人。质性研究者不倾向于使用或依赖其他研究者开发的[[Questionnaire\|问卷]]或工具（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9）。Eisner（1991）最早明确提出这一概念：在质性/自然主义研究中，研究者生成而非检验假设，不知事先会看到什么、寻求什么。Lincoln and Guba（1985, p. 187）将研究者描述为"人即研究工具"（human instrument），其优势在于适应性、反应性、知识储备、处理敏感事务的能力、看到全貌的能力、以及澄清、概括和探索非典型反应的能力（pp.193–194）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 404, 408)]]
 
@@ -84,8 +80,6 @@ Lincoln and Guba（1985, pp. 193–194）系统阐述了人作为研究工具相
 > - **探索非典型反应的能力** 人能够识别并深入探究非典型或特异性的回应，这些往往是标准化工具所忽视的。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 量化工具 vs [[Qualitative Research\|质性研究]]者作为工具
 > | 维度 | [[Quantitative Research\|量化研究]] | [[Qualitative Research\|质性研究]] |

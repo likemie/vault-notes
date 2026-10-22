@@ -41,8 +41,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Social Museology
-
 > [!info] 定义
 > Social Museology（社会博物馆学，葡文：sociomuseologia）是博物馆学中一个以**社区参与和社会变革**为导向的分支。与传统博物馆学以建筑、藏品和专家策展为核心不同，社会博物馆学将博物馆重新定位为社区发展的工具——**社区居民成为博物馆实践的主角** 他们自己选择展品、自己讲述故事、自己决定什么记忆值得保存。博物馆的功能从"为公众策展"转向"由公众做博物馆"（Moutinho, 2007; Chagas, 2001, cited in [[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]]）。
 

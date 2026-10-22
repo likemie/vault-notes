@@ -120,11 +120,7 @@ created: 2026-05-19
 updated: 2026-10-22
 ---
 
-# Competitiveness
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **竞争力（Competitiveness，包含国家竞争力 National Competitiveness、产业技术竞争力、高等教育竞争力与劳动力竞争力）** 指驱动国家科技创新战略、大学治理变革与劳动力技能重塑的核心逻辑与[[Geopolitics|地缘政治]]装置（Geopolitical Apparatus）。
@@ -168,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 竞争力的治理构型辨析
 > | 比较维度 | 宏观国家战略与实体制造竞争力 | 组织治理与创始人溢价竞争力 | 中观大学机构声誉与科研竞争力 | 微观劳动力技能与学生学业竞争力 |
 > |:---|:---|:---|:---|:---|
@@ -179,8 +173,6 @@ updated: 2026-10-22
 > | **典型文献** | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, pp. 194–197)]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska (2025, pp. 209–212)]] | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] |
 
 ---
-
-## 核心要素与多层运行架构
 
 > [!feature] 竞争力逻辑的核心运作支柱
 > - **国家千年期战略决断与长程威慑意志（Thousand-Year Horizon & Deterrence Resolve）** 将国家存续置于数代人乃至千年尺度上审视，依托强有力的国家能力与共同文化认同铸造战略威慑力，克服短期功利与地缘松懈。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197, 204)]]
@@ -341,8 +333,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 竞争力核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -358,8 +348,6 @@ updated: 2026-10-22
 > | **跨国教育对标与政策重构** | 国家经济竞争力被建构为直接系于由国际标准衡量的教育质量；多边监测将全球竞争内化为国内教育改革元目标 | 跨国数据治理、经合组织 PISA 国际排名、新自由主义教育改革 | Brown et al. (1997); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 竞争力概念在科技与高教政策中的演进脉络
 > - **1945–1970s — 战后边疆契约与后发国家突围奠基** 范内瓦·布什确立线性科学模型；[[Lee Kuan Yew|李光耀]]在新加坡独立初期确立“面向千年期”的长程国家规划，通过重塑语言与[[Human Capital Theory|人力资本]]奠定突围基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]
@@ -401,8 +389,6 @@ updated: 2026-10-22
 > > - **批判公共价值派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 批评过度以国际竞争力指标审判教育，将公学系统异化为经济工具，消解了培育民主公民、批判反思与促进社会平等的深层公共价值。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 实证研究与治理指标记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

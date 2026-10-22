@@ -74,11 +74,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Andreas Schleicher
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国籍统计学家与[[International Education\|国际教育]]政策专家，[[OECD\|经合组织]]（[[OECD]]）教育与技能司司长（Director for Education and Skills）兼秘书长教育政策特别顾问。
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1999 — *Measuring Student Knowledge and Skills: A New Framework for Assessment*** 奠基性评估框架，确立 [[PISA]] 脱离学校课程教材记忆、转向测量 15 岁学生在现实情境中迁移与应用高阶知识能力的评价逻辑。
 > - **2014 — *PISA 2012 Results: What Makes Schools Successful*** 系统总结全球高绩效学校治理特征，提出[[School Autonomy\|学校自主权]]、专业协作文化与基于证据的自我诊断是卓越体系的核心驱动力。
@@ -111,9 +105,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 施莱歇尔秉持“无测量即无改进”的实证治理哲学。他坚信在全球化[[Knowledge-Based Economy\|知识经济]]时代，国家教育[[Competitiveness|竞争力]]不再由输入性的课时、经费或[[Rote Learning\|死记硬背]]的教学大纲所决定，而取决于学生面对未知未来情境时外推与创新运用知识的实际能力。他主张国际组织应扮演超越主权狭隘视野的“[[Policy Brokerage\|政策中介]]镜鉴”，通过严格标定的跨国横向比较（Peer Referencing），破除各国教育系统自我陶醉的传统神话，向决策者提供无可辩驳的实证硬事实，驱动公共教育体制向结果导向的高效问责生态演进。
 
 > [!citation-card] 跨国证据与教育体系自我超越
@@ -121,9 +113,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法路径** 将复杂[[Matrix Sampling|矩阵抽样]]、[[Item Response Theory\|项目反应理论]]（IRT）与多重填补技术标准化运用于跨国大规模教育测评，确立了全球学生素养量化测量的技术[[Paradigm\|范式]]。
 > - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家[[21st Century Skills and Competencies Discourse\|核心素养]]框架、设立中央评估督导机构并将教育治理逻辑彻底转向输出导向。
 > - **全球治理路径** 亲手缔造了[[OECD\|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage\|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
@@ -135,8 +125,6 @@ updated: 2026-10-22
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 批判施莱歇尔与经合组织在 2018 年哥本哈根会议提出的 21 世纪技能[[Discourse|话语]]，揭示其如何将教育简化为不可预测未来的适应性伺服工具，遮蔽了德意志教化传统的规范性自主追求。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 施泰纳-哈姆西等论 [[PISA]] 总设计师与全球知识枢纽
 > 比较教育政策研究往往局限于议程设定阶段，强调国际参照（尤其是对[[OECD\|经合组织]]知识产品及 PISA 衍生产品的参照）在唤醒问题意识、构建联盟与动员学校改革资金方面的积极作用。然而，大规模跨国测评的设计者所渴望施加的影响，绝不仅仅是在每隔几年发布成绩时制造公众舆论的欢呼或抗议。正如经合组织 PISA 总设计师施莱歇尔及其同事所指出：经合组织为数据与分析、经验交流、最佳实践共享以及公共政策建议和国际标准制定提供了一个独特的平台与知识枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
@@ -153,8 +141,6 @@ updated: 2026-10-22
 > - **批评者／论敌** [[Yong Zhao\|赵勇]] — 批评其过度推崇[[High-Stakes Testing\|高利害测验]]与威权文化中的学生自我归咎心理。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

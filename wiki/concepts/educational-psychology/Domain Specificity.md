@@ -84,11 +84,7 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Domain Specificity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 领域特异性（Domain Specificity，亦称领域特殊性或学科特异性）是指个体的认知结构、思维方式与[[Epistemological Beliefs\|认识论信念]]不具有跨情境的完全通用性（Domain Generality），而是高度依赖并内嵌于具体的[[Areas of Knowledge\|知识领域]]（如物理、数学与历史）或日常判断范畴（如审美、价值观与物理事实）中。个体在一个领域的认知发展水平与推理能力无法自动、平滑地直接推导或平移至另一领域。[[Argument_Greene_2010_JEP\|(Greene et al., 2010)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 领域特异性 vs 领域一般性核心维度对比
 > | 比较维度 | 领域特异性（Domain Specificity） | 领域一般性（Domain Generality） | 双层整合模型（Dual-Level Integration） |
 > |---|---|---|---|
@@ -117,8 +111,6 @@ updated: 2026-10-22
 > | **理论代表** | McPeck (1981, 1990); [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | [[Jean Piaget\|Piaget]] 发生认识论; 传统智力因子理论 | Ennis (1989); [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]; [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 
 ---
-
-## 核心要素与领域分类体系
 
 > [!logic-map]- 领域特殊性分类体系与认知构件关系
 > ```mermaid
@@ -218,8 +210,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 领域特异性核心命题体系
 > | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键文献 |
 > |---|---|---|---|
@@ -231,8 +221,6 @@ updated: 2026-10-22
 > | **特异性层级两极优势** | 微观主题特定与宏观通用干预显著优于中观学科干预，且实证研究存在严重的理工科倾斜 | 课程单元设计、认识论教学特异性定位 | Cartiff et al. |
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-analysis\|元分析]]实证数据（Abrami et al., 2015 · 学科领域与课程模式）
 > <span class="concept-ma-table-marker" aria-hidden="true"></span>

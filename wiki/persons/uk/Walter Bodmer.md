@@ -42,11 +42,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Walter Bodmer
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国人类遗传学家、牛津大学分子医学研究所教授、皇家学会会士（FRS）、医学[[Chinese Academy of Sciences|科学院]]院士（FMedSci）。
@@ -69,17 +65,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1985 — *The Public Understanding of Science*（Bodmer Report）** 系统论证科学渗透于现代社会的各领域，指出向公众传播科学是整个科学界的职责，确立科研基金捆绑科普支持的制度安排。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, pp. 4–5)]]
 > - **2026 — *Preface to Science for Society: How Society and Science Shape Each Other*** 回顾 1985 年报告以来的历史演进，指出在数字网络、人工智能与虚假信息时代，科学诚信、独立性与公众对话更具紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 科学并非少数专业科学家的专属领地，而是全人类文明的共同基石。科学界及其资助机构承担着向社会各阶层公开、透明分享科学知识的道德与职业责任。公众对科学证据与不确定性的理解不仅是理性公民决策的基础，更是现代国家经济繁荣与科技资助合法性的根本前提。
 
 > [!citation-card] 关键表述
@@ -102,8 +94,6 @@ updated: 2026-10-22
 > - **关联政策报告** [[Bodmer Report 1985]] — 瓦尔特·博德默尔主持撰写的核心制度文本。
 
 ---
-
-## 争议与批评
 
 > [!critique] 外部批评
 > - **[[Deficit Model of Science Communication\|赤字模型]]局限** 1985 年报告早期的实施路径曾受到社会学界批评，被认为过度依赖将公众视为被动知识接受者的[[Deficit Model of Science Communication\|赤字模型]]（Deficit Model）；2000 年后英国科学界进一步向强调平权对话的双向公众参与模式演进。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 10)]]

@@ -51,11 +51,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Swiss Coordination Centre for Research in Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 瑞士教育研究协调中心（德文：Schweizerische Koordinationsstelle für Bildungsforschung, SKBF；法文：Centre suisse de coordination pour la recherche en éducation, CSRE；英文：Swiss Coordination Centre for Research in Education）是瑞士联邦政府（Federal Government）与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合设立并共同出资维持的完全独立常设机构。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为联邦制国家解决跨行政辖区分权与多方利益相关者协同的标杆[[Paradigm\|范式]]，证明了中介机构如何通过跨辖区法定联合资助突破政党选举短周期的撕扯。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
@@ -68,16 +64,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1974 — 创设与奠基期** 依据联邦与各州联合协议正式创设于阿劳，初期聚焦于汇集全瑞士教育科研项目信息、编纂科研动态与协调跨州教育数据共享。
 > - **2000年代 — 瑞士教育报告（Bildungsbericht Schweiz）制度化** 随着国际大规模测评（[[PISA]]）的冲击，联邦与 EDK 委托 SKBF/CSRE 每四年编纂出版一次国家级《瑞士教育报告》（Swiss Education Report），系统整合基础教育、职业教育与高等教育全生命周期的实证研究与统计证据，成为国家教育监测的核心基石。
 > - **2010年代至今 — 数字化与跨国网络深度融入** 建立多语种教育研究数据库，深度参与 [[OECD]] [[Performance Indicators\|教育指标]]体系与欧洲[[Knowledge Mediation\|知识中介]]网络，持续为瑞士教育治理的[[Evidence-Based Policy-Making|循证决策]]提供兼具学术独立性与政策相关性的知识服务。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board / Vorstand）** 治理最高权力机构，由瑞士联邦代表、各州教育部门代表、大学与高等教育科研代表共同组成，确保决策兼顾国家政策需求与学术自治。
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > - **循证政策咨询与快速评估** 响应联邦与各州教育行政部门的特定咨询需求，提供基于综合证据的政策建议，同时保持研究结论不受特定行政长官意愿左右。
 
 ---
-
-## 知识治理视阈下的学理意义
 
 > [!finding-cards] SKBF / CSRE 的制度创新价值
 > - **联邦制跨辖区联合资助的稳定护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]强调，中介机构的高夭折率主要归因于短视的政治预算周期；而 SKBF/CSRE 由联邦与 26 州联席会议共同出资的制度设计，使任何单一政府换届或党派轮替均无法单方面撤资，形成了极其牢固的制度护城河。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])

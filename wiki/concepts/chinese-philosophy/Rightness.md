@@ -36,16 +36,12 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Rightness
-
 > [!info] 定义
 > 义（Rightness, righteousness, uprightness）是[[Confucius\|孔子]]所列四项超越特定关系的通用道德原则之一，其余三项为礼（[[Ritual Propriety\|propriety]]）、廉（integrity）和耻（[[Sense of Shame]]）。义的本义是"在特定情境中某一行为的适宜性"，但经延伸和生活传统的积淀，该词表意"坚守正确之事和人类社群中的正义感，尤其在个人面对私利诱惑时"([[Argument_Li_2012_Cambridge\|Li, 2012, p.39-40]])。
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Li 列举了违反义的具体事例([[Argument_Li_2012_Cambridge\|Li, 2012, p.40]])：
 > - 损人利己（"self-serving at the cost of others"）
 > - 承诺而不打算兑现，或直接违约

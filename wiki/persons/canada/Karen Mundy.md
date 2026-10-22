@@ -54,11 +54,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Karen Mundy
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大著名比较与[[International Education|国际教育]]学者，多伦多大学安大略教育研究院（OISE）国际与比较教育讲席教授，[[Global Partnership for Education|全球教育伙伴关系]]（Global Partnership for Education, GPE）前首席技术官（2014–2018）。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990s — 战后[[Educational Multilateralism|教育多边主义]]演化与机构霸权转移** 结合国际政治经济学体制理论，考察战后跨国教育合作形态的意识形态更替。
 >   - **代表著作** "Educational Multilateralism and World (Dis)order" (1998); "Educational Multilateralism in a Changing World Order: [[UNESCO]] and the limits of the possible" (1999)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
@@ -95,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[International Education|国际教育]]多边机制并非超然于[[Geopolitics|地缘政治]]的中立协调平台，而是被特定历史时期的国际经济权力格局深度塑造的意识形态竞技场。战后以[[UNESCO|联合国教科文组织]]为代表的再分配性人权承诺，在新自由主义和债务危机冲击下被[[World Bank|世界银行]]的规训性财政紧缩逻辑全面架空；而新兴的跨国公民社会网络虽然提供了自下而上抗争的契机，却时刻面临被多边官僚体系收编为去政治化承包商的结构性陷阱。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 
 > [!citation-card] 曼迪论多边主义意识形态的三阶段演化
@@ -120,8 +112,6 @@ updated: 2026-10-22
 > - **组织纽带** [[UNESCO]] 与 [[World Bank]]——作为其学术生涯长期对比考证的核心机构实体。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -40,18 +40,13 @@ status: draft
 created: 2026-05-25
 updated: 2026-10-22
 ---
-# Cheng Brothers
 
 
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 程颢（1032-1085）与程颐（1033-1107）是北宋时期的儒家思想家，[[Neo-Confucianism\|宋明理学]]（[[Neo-Confucianism]]）的开创者。二程在[[Confucian Learning Tradition\|儒家学习传统]]经历了近千年的边缘化之后，重新开启了孔孟的学习传统，将其推进到一个新的理论高度([[Argument_Li_2012_Cambridge\|Li, 2012, p.43]])。
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > 二程最核心的理论贡献是"天理"概念的引入。他们论证，[[Confucius\|孔子]]所倡导的"道"代表了"天理"（heavenly principle），这一原理贯穿宇宙万物，包括人的道德本性。遵循此道即是达到最高的道德原理([[Argument_Li_2012_Cambridge\|Li, 2012, p.43]])。
 
 > [!abstract|notitle]

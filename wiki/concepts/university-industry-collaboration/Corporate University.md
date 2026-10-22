@@ -35,8 +35,6 @@ created: '2026-05-18'
 updated: 2026-10-22
 ---
 
-# Corporate University
-
 ---
 
 > [!info] 定义

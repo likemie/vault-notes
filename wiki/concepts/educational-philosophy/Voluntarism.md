@@ -58,11 +58,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Voluntarism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **唯意志论（Voluntarism）**，亦称**唯意志主义**，是社会科学哲学主客观[[Analytic Framework\|分析框架]]中关于“人性本质（human nature）”的两大对立[[Ontology\|本体论]]公设之一（Burrell & Morgan, 1979, p. 8）。该假设坚决否定人类行为是外部环境刺激或内在生理驱力的被动机械反应，主张人类是自身行动的自主发起者（initiators of their own actions），具备自由意志（free will）、自我反思与[[Intentionality|意向性]][[Creativity\|创造力]]；人在能动地理解、赋予世界意义并与他人交互的过程中，积极地生产和改造其所处的社会环境，而非环境的被动适应物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 8)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 唯意志论与[[Determinism\|决定论]]的人性假定对比
 > | 比较维度 | 唯意志论（Voluntarism） | 决定论（Determinism） |
 > |---|---|---|
@@ -97,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **行动的自主发起性（Initiator of Action）** 确认个体具备打破既定因果链条的能动意志，行动是根据自我确立的目标与价值主动开展的实践。
 > - **自由意志与反思[[Creativity\|创造力]]（Free Will and Reflexive Creativity）** 人在行动过程中持续进行自我觉察与反思监控，具备根据情境反馈即兴调整策略的创造潜能。
 > - **社会环境的主体间构建（Production of Environments）** 学校规范、课堂纪律与[[Organizational Culture\|组织文化]]并非天然物理实体，而是行动者在日常交往互动中持续赋予意义、协商并再生产的产物。
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕唯意志论形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-22
 > - **1980s 至今 — 结构与能动性的辩证综合** [[Anthony Giddens\|安东尼·吉登斯]]（[[Anthony Giddens]]）的结构化理论与[[Pierre Bourdieu\|皮埃尔·布迪厄]]的[[Habitus|惯习]]理论尝试超越单纯唯意志论与单纯决定论的二元对立，揭示能动性在结构约束中的生产机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -193,8 +181,6 @@ updated: 2026-10-22
 > - **难以解释制度惯性与宏观变迁** 单纯聚焦微观主体的意图协商，往往对跨越代际的宏观制度惯性与阶级再生产缺乏足够的结构性解释力。
 
 ---
-
-## 实证数据
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 8, 16–17)]] — 界定唯意志论的人性[[Ontology\|本体论]]及其与[[Determinism\|决定论]]的对立；全书在[[Ethogenic Approach\|人因取向]]、[[Case Study\|个案研究]]与[[Action Research\|行动研究]]中展开其主体性逻辑。

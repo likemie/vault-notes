@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Planning and Prediction
-
 > [!metax] [计划与预测 · Planning and prediction](https://www.visiblelearningmetax.com/influences/view/planning_and_prediction)
 > 教学策略 › 学习意图
 >

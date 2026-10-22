@@ -91,11 +91,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# What Works Movement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **“什么有效”运动（What Works Movement）**，亦称**循证改革运动（[[Evidence-Based Reform]] Movement）**，发轫于 1990 年代末英美公共管理改革浪潮，是指主张将循证医学的[[Causality\|因果推断]]原则与实验[[Paradigm\|范式]]引入社会和教育政策领域，以[[Randomised Controlled Trials\|随机对照试验]]（RCT）和高质量[[Quasi-Experimental Designs\|准实验设计]]为黄金评估准则，系统识别并推广“已被科学实证证明真正有效”的干预方案，同时依托法定设立的[[Educational Brokerage Agency\|知识中介机构]]推动研究证据向政策问责、财政采购与教学实践转化的跨国治理运动（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–48]]；[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–4]]）。
@@ -117,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 英美澳三大循证中介机构治理架构对比
 > | 比较维度 | 英国 [[Education Endowment Foundation\|教育捐赠基金会]]（EEF） | 美国 [[What Works Clearinghouse\|什么样的有效清算所]]（WWC） | 澳大利亚 [[Australian Education Research Organisation\|教育研究组织]]（AERO） |
 > |:---|:---|:---|:---|
@@ -129,8 +123,6 @@ updated: 2026-10-22
 > | **与教师[[Professional Judgment\|专业判断]]关系** | 工具包作为“指导罗盘”，强调教师依据学校情境裁量；深入推进基层[[Research Schools Network\|研究学校网络]]。 | 早期与高利害问责直接挂钩，受到技术官僚化批评；近年逐步增强实践指导弹性。 | 深度介入职前教师教育与国家督导标准，面临侵蚀教师专业自主权的学术争鸣（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 4–6]]）。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 循证改革运动的四大运行支柱
 > 1. **严格因果证据等级制（Evidence Hierarchies）** 确立[[Counterfactual\|反事实]][[Causality\|因果推断]]为核心判准，将大样本现场 [[Randomised Controlled Trials\|RCT]] 与控制组基线等值的严格准实验置于证据层级顶端，贬抑缺乏因果对照的经验叙事（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 48]]）。
@@ -202,8 +194,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table] 跨国循证改革运动关键制度与实证参数对照表
 > | [[Output-Oriented Governance\|循证治理]]体系 | 核心政策机构 / 载体 | 动员规模与覆盖广度 | 核心实证参数与成效产出 | 方法学与制度特色 | 核心实证来源 |
 > |:---|:---|:---|:---|:---|:---|
@@ -212,8 +202,6 @@ updated: 2026-10-22
 > | **澳大利亚循证体系** | [[Australian Education Research Organisation\|AERO]] | 联动联邦与 8 个州/领地教育行政部门；覆盖全国公立学校与教师培养机构。 | 输出覆盖显性教学、[[Formative Assessment\|形成性评估]]等核心实践指南；驱动职前教师教育认证改革。 | 强调证据在国家标准中的[[Disciplina and Doctrina\|规训]]作用；受到学术界关于侵蚀[[Professional Judgment\|专业判断力]]的方法论争鸣。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]] |
 
 ---
-
-## 典型案例
 
 > [!case] 英国 [[What Works Network]] 的制度化扩展与 [[Education Endowment Foundation\|EEF]] 十年治理演进（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]；White, 2019）
 > - **制度化网络的全面建立** 2013 年，英国政府内阁办公厅正式设立涵盖 9 个独立有效中心的国家网络——什么样的有效网络（What Works Network，WWN），总计覆盖超过 **2,500 亿英镑**的公共支出，标志着英国成为全球首个将因果证据制度化嵌入国家公共治理中枢的国家。其中，教育捐赠基金会（EEF）被公认为该网络中最成熟、规模最大的旗舰实体（White, 2019；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]）。
@@ -235,8 +223,6 @@ updated: 2026-10-22
 > - **2020 年代 — 澳大利亚 [[Australian Education Research Organisation\|AERO]] 成立与全球扩散** 澳大利亚设立 AERO，发布《坚实起点报告》（Strong Beginnings Report 2023），循证改革运动加速向英联邦国家扩展。
 
 ---
-
-## 争议与批评
 
 > [!tension] 理论争议与[[Epistemology\|认识论]]批判
 > - **医学隐喻破产与简化主义倾向** 哲学家[[Gert Biesta\|格特·比斯塔]]（Gert Biesta）等学者批判将教育等同于临床医学的浅层类比。教育本质上是关于价值判断、文化建构与主体间互动的复杂实践，简单的“输入-输出”[[Causality\|因果推断]]抹杀了教育目的的多样性（Biesta, 2007, 2015）。

@@ -46,11 +46,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Education GPS
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > Education GPS（Global Policy Survey）是[[OECD\|经合组织]]推出的在线互动教育数据平台，将旗下[[PISA]]、[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]] 等核心测评数据集与《[[Education at a Glance\|教育概览]]》（EAG）结构性指标整合为单一可检索的政策比较门户；它是经合组织将"[[Soft Power by Hard Facts\|以硬事实施展软权力]]"（[[Soft Power by Hard Facts]]）数字化、可视化的核心基础设施，也是各国教育部官员最易触及的经合组织自我呈现窗口。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
@@ -63,8 +59,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案设计与运行机制
-
 > [!claim] 核心机制假说
 > Education GPS 的核心机制在于将来自多个大规模测评数据库的碎片化事实，整合为流畅的国别政策叙事推荐界面——用户只需点击国家图标，即可获得一份[[OECD\|经合组织]]预先打包好的"政策优先事项"摘要。这一设计将经合组织的知识诠释权深嵌于数字导航体验之中，使得用户在获得"数据"的同时也接受了经合组织对政策优先项的框架预设。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–544)]]
 
@@ -76,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心功能矩阵
 > - **国别概况（Country Profile）** 每个成员国和伙伴国均有对应的综合概况页，展示关键教育产出指标（如 [[PISA]] 成绩、成人识字率、公共教育支出）与政策优先事项摘要。
 > - **跨国比较工具** 支持用户自主选择最多 10 个国家、任意时间跨度与指标维度进行可视化图表导出，直接服务各国政策研究者与教育部分析团队。
@@ -85,8 +77,6 @@ updated: 2026-10-22
 > - **与 [[Education Policy Outlook\|EPO]] 数字联动** 作为《教育政策展望》的数字配套工具，为报告中的政策建议提供实时可交互的数据后台，使报告内容从印刷品延伸为常态化政策服务。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **可及性扩张** 将[[OECD\|经合组织]]教育数据从专业统计年鉴（需订阅或购买）转变为全球免费开放的数字服务，极大降低了中小国家教育部获取国际比较数据的成本。
@@ -97,8 +87,6 @@ updated: 2026-10-22
 > 覆盖经合组织 38 个成员国及逾 30 个伙伴经济体；接入多个百万级样本测评数据库；通过 gpseducation.oecd.org 免费对外开放；每年随 PISA、[[Teaching and Learning International Survey\|TALIS]] 等测评结果发布进行数据实时更新。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -72,7 +72,6 @@ issuing_organization: ""
 sources:
   - "[[sources/Velasco_2022_CSJ/Velasco_2022_CSJ|Velasco_2022_CSJ]]"
 ---
-# Argument_Velasco_2022_CSJ
 
 ---
 
@@ -89,8 +88,6 @@ sources:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -102,8 +99,6 @@ sources:
 > 宏观软实力理论与微观高教政策工具的结合，连接了国家大战略意图与具体办学实践。软实力与软权力的概念区分为理解自上而下的政策动员提供了分析视角；教育外交框架将大学办学纳入国家对外战略布局；权力转化困境理论则解释了高教资源投入与周边民意审慎反应之间的落差。（pp. 73–76, 85–86）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -120,8 +115,6 @@ sources:
 > | **区域案例情境** | 涵盖东盟 10 国的高等教育交流网络，重点剖析马来西亚、老挝、泰国与柬埔寨等国的海外校区合作与孔子学院实体办学实践。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -141,9 +134,7 @@ sources:
 
 ---
 
-### 论证步骤一　中国把软实力改造成国家主导的对外影响工具
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　中国把软实力改造成国家主导的对外影响工具
 > 中国在融入全球化的进程中重构了[[Joseph S. Nye Jr.|约瑟夫·奈]]的传统[[Soft Power|软实力]]理论，将软实力从被动的文化吸引转变为服务国家发展与对外大战略的行动工具，兼顾对内护卫文化主权与对外塑造国际[[Discourse|话语]]。（pp. 75–78）
 
 #### 1. 软实力既用于守护本土文化，也用于主动塑造外部秩序
@@ -213,9 +204,7 @@ sources:
 
 ---
 
-### 论证步骤二　大学科研竞争力的提升直接服务于国家外交战略
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　大学科研竞争力的提升直接服务于国家外交战略
 > 自 1990 年代以来的持续高教改革与[[Double First-Class Initiative|双一流建设]]极大释放了高校科研生产力，完成了从技术模仿向自主创新的转变，为国家将一流大学打造为服务对外战略的智识引擎提供了坚实基础。（pp. 79–83）
 
 #### 1. 长期高强度投入推动高校科研产出超越美国
@@ -269,9 +258,7 @@ sources:
 
 ---
 
-### 论证步骤三　教育外交依托三大支柱拓展东南亚，却被地缘领土争端阻滞
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　教育外交依托三大支柱拓展东南亚，却被地缘领土争端阻滞
 > 中国面向东南亚确立了以留学生招募、海外独立分校和孔子学院为核心的三大支柱，通过短期校友体验与长期精英社会化构建知华网络；然而这一软实力拓展受到南海领土主权争端与既有地缘安全焦虑的制约，显现出教育资源难以直接平息政治不信任的深层[[Power Conversion Dilemma|权力转化困境]]。（pp. 83–86）
 
 #### 1. 留学生、海外分校与孔子学院共同构筑了区域人脉网络
@@ -322,8 +309,6 @@ sources:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Soft Power|软实力]]概念的本土化战略重塑** 中国政策实践清晰区分了旨在防御性维护文化主权的软实力（ruan shili）与具备进取性对外塑造特征的软权力（ruan quanli），将软实力紧密绑定于国家综合国力与中国梦等顶层战略之中。（pp. 76–77）
 > 2. **高教[[Competitiveness|竞争力]]充当[[Educational Diplomacy|教育外交]]的制度基础** 依托[[Double First-Class Initiative|双一流建设]]的高强度财政投入与海外引才计划，中国科研产出总量在 2018 年超越美国，为中国大学在[[International Education|国际教育]]准市场上争夺外国生源提供了前所未有的学术声誉支撑。（pp. 80–82）
@@ -339,8 +324,6 @@ sources:
 > - **31** 截至 2021 年中国在东南亚地区设立并运营的孔子学院总数（所）。（p. 85）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Educational Diplomacy|教育外交]]的三大支柱与区域战略意图
 > 中国教育外交以三大支柱为支撑：扩大招收国际学生、设立[[International Branch Campus|海外分校]]与联合学位项目，以及铺设[[Confucius Institute|孔子学院]]网络。通过这套[[Soft Power|软实力]]组合拳，中国不仅在持续塑造区域和国际秩序，也试图借此化解周边邻国的不满与疑虑。（p. 71）
@@ -363,8 +346,6 @@ sources:
 > *By using education as an apparatus of influence in Southeast Asia, Chinese academic institutions have been positioned as a tool of diplomacy... However, their soft power efforts in the region are being undermined by ongoing territorial issues, and distrust of China is still pervasive among Southeast Asian populations which can be attributed to geopolitical insecurities and deep historical antagonisms.*
 
 ---
-
-## 自述局限
 
 > [!warning] 自述局限与未来方向
 > 局限与后续拓展方向体现在三个层面：其一，需要采用跨国比较调查方法，直接检验东南亚本土民众对中国[[Soft Power|软实力]]投射的主观社会感知差异；其二，需要将软实力分析更紧密地嵌入当前区域地缘安全博弈之中，系统审视南海主权争端作为持续性安全困境对外交合作的约束；其三，鉴于东南亚民间对外部大国意图抱持持续不安，亟须深入解构[[ASEAN|东盟]]社会中对华不信任的主流叙事[[Discourse|话语]]，为厘清中国与东盟关系的合作与冲突边界提供实证视角。（p. 86）

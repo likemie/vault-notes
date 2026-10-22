@@ -54,11 +54,7 @@ created: 2026-08-17
 updated: 2026-10-20
 ---
 
-# Exploratory Factor Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **探索性因子分析（Exploratory Factor Analysis, EFA）** 是一种用于识别多[[Variable\|变量]]数据底层结构的多元统计降维技术。它在未预先指定具体测量题项与潜在维度一一对应关系的探索性前提下，通过对一组观测[[Variable\|变量]]之间的协方差或相关矩阵进行分解，将原始变量分解为少数几个共同解释大部分协方差的**潜在公共因子（Common Factors）** 与各个变量特有的**独特性方差与测量误差（Unique Factors）**，从而揭示潜藏于可观测数据背后的理论[[Construct\|构念]]维度。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 24)]]
@@ -76,8 +72,6 @@ updated: 2026-10-20
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 假定人类复杂的心理特质、制度态度与组织行为并非孤立存在，而是受深层不可直接观测的潜在[[Construct\|构念]]（Latent Constructs）所驱动；观测指标是潜在构念在现实中的不完全投影并伴生测量误差。
 > - **研究者角色** 在因子提取方法（主轴因子 vs 最大似然）、因子的保留数目判定准则（Kaiser 准则、碎石图、平行分析）、旋转方式（正交 vs 斜交）以及最终维度的理论命名中，研究者兼具统计裁决者与理论阐释者的双重角色。
@@ -93,16 +87,12 @@ updated: 2026-10-20
 
 ---
 
-## 研究程序
-
 > [!proc] 通用操作程序
 > 1. **数据适用性诊断** 计算 KMO 抽样适度系数（要求 $\text{KMO} > 0.70$）与 Bartlett 球形检验（要求 $p < .05$），确保变量相关矩阵非恒等矩阵且变量间存在充足公共方差。
 > 2. **因子提取与维数决定** 运用主轴因子法或最大似然法提取因子，结合特征值大于 1（Kaiser 准则）、碎石图肘部拐点（Scree Plot Elbow）以及平行分析（Parallel Analysis），审慎确定保留的因子数目。
 > 3. **因子旋转以提升可解释性** 若理论上假设潜在维度相互独立，采用最大方差正交旋转（Varimax）；若各维度同属于广义态度或能力[[Construct\|构念]]且彼此相关，采用斜交旋转（如 Promax 算法），获得模式矩阵（Pattern Matrix）与结构矩阵（Structure Matrix）。
 > 4. **题项精简与载荷清洗** 根据预设准则逐步剔除不良题项：主载荷偏低（通常 $< 0.40$ 或 $< 0.35$）、跨载荷严重（在两个或多个因子上的载荷差绝对值 $< 0.15$）、或题项内容与所属因子缺乏理论相容性。
 > 5. **因子命名与[[Reliability\|信度]]检验** 依据高载荷题项的核心语义对提取出的公共因子赋予学术命名，并分别计算各分维度的[[Internal Consistency\|内部一致性信度]]（Cronbach's $\alpha$）。
-
-### 量化方法模块
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** 大样本横截面观测矩阵（$N \times P$），通常建议[[Sample Size Determination\|样本量]]与题项比至少为 $5:1$ 至 $10:1$，且绝对样本量 $N \ge 200$。
@@ -144,8 +134,6 @@ updated: 2026-10-20
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 编制新[[Questionnaire\|问卷]]量表并初步探查[[Construct\|理论构念]]的维度划分。
@@ -157,16 +145,12 @@ updated: 2026-10-20
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限与方法论风险
 > - **与主成分分析（PCA）的混淆误用** 统计软件（如 SPSS）常将 PCA 作为默认选项。PCA 是对[[Variable\|变量]]总方差进行全量无损旋转压缩，不区分公共方差与测量误差，容易虚高因子载荷并产生概念膨胀；建构心理或教育特质测量时必须选用真正的公共因子模型（如主轴因子法 PAF 或最大似然法 ML）。
 > - **旋转与维数判定的主观裁量性** 不同的因子保留准则（Kaiser 准则在变量多时容易高估因子数，碎石图带有主观肉眼判断偏差）和旋转方式可能产生不同的维度切分方案，依赖研究者的专业理论把关。
 > - **缺乏跨样本恒常性检验** EFA 生成的因子结构属于数据驱动结果，极易受特定样本特征扰动；规范研究通常要求在样本分割或收集全新独立样本后，执行 [[Confirmatory Factor Analysis\|CFA]] 结构验证与[[Measurement Invariance\|跨群体测量等值性]]（Measurement Invariance）检验。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 关键实证测量与因子结构
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -176,8 +160,6 @@ updated: 2026-10-20
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 24)]] | 奥地利施泰尔马克州普通公立义务教育学校校长（$N = 362$） | 主轴因子法（Principal Axis Factoring, PAF）结合斜交 Promax 旋转 | $\text{KMO} = 0.81$（良好）；Bartlett 球形检验 $p < .001$ | **从 22 项治理工具中提取出 5 个公共因子**（剔除 3 项低载荷题项）：<br>1. **学校督导与质量对话（Schulaufsicht / SQA）**（4 题）<br>2. **产出监控与循证规制（Evidenzbasierte Steuerung）**（5 题）<br>3. **治理资源追加与自主权（Ressourcen / Autonomie）**（3 题）<br>4. **校内协同与人事发展（Interne Kooperation）**（4 题）<br>5. **专业进修与跨校网络（Fortbildung / Netzwerke）**（3 题） | 累积方差解释率 $42.1\%$；各因子 Cronbach's $\alpha$ 介于 $0.60$ 至 $0.74$ | 提炼出指标标准化因子得分，作为后续 $k$ 均值聚类分析（Cluster Analysis）的直接输入特征，成功将校长分化为循证型、资源型与弱发展型三类群体 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 运用主轴因子分析结合 Promax 斜交旋转，在 $\text{KMO} = 0.81$ 支持下将奥地利校长对 22 项教育治理工具的态度降维提炼为 5 个核心政策维度（解释 42.1% 方差），并为后续[[Cluster Analysis\|聚类分析]]奠定了特征向量基础。

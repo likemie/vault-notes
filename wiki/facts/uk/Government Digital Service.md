@@ -45,11 +45,7 @@ aliases:
   - 英国政府数字服务中心
 ---
 
-# Government Digital Service
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 英国政府数字服务局（Government Digital Service, GDS）是英国政府于 2011 年设立于内阁办公厅（Cabinet Office）的公共数字化旗舰机构；其创设宗旨在于彻底破除传统公共部门对大型外部系统集成商与咨询寡头的长期依赖，将前沿软件工程、以人为本的服务设计（Service Design）与敏捷迭代能力重新内化于政府内部，通过打造统一的公共服务数字底座全面重构国家行政能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
@@ -61,16 +57,12 @@ aliases:
 
 ---
 
-## 治理机制与创新举措
-
 > [!feature] GDS 的三大核心机制与组织能力
 > - **内部技术专才与流动性跨职能团队（In-house Technical Capabilities & Liquid Teams）** 彻底打破将软件开发与数据治理全面外包的[[New Public Management|新公共管理]]（New Public Management, NPM）惯性，直接从科技前沿业界招募顶尖软件架构师、交互设计师、用户体验研究员与产品经理，组建扁平化、流动式的跨部门敏捷项目团队。（pp. 795–796）
 > - **以人为本的设计原则与敏捷实验（User-Centred Design Principles & Agile Prototyping）** 确立著名的《政府数字设计准则》（如“从用户需求出发”、“多做精简少做冗余”、“基于实证数据迭代”），运用原型快速试错、A/B 测试与持续用户反馈驱动系统演化。（p. 796）
 > - **数字支出审查与打破供应商锁定（Spend Controls & Breaking Vendor Lock-in）** 在内阁办公厅层面设立严格的 IT 采购支出审查机制，强制拆解跨部委长周期、巨额捆绑式 IT 合同，向中小型创新科技企业开放公共采购，终结外部寡头垄断。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 795)]]
 
 ---
-
-## 制度成效与理论意义
 
 > [!contrast-table] GDS [[Agile Governance|敏捷治理]]与传统 [[New Public Management|NPM]] 外包模式深度对比
 >

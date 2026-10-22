@@ -50,11 +50,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Rescaling
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 尺度重组（Rescaling，亦称空间尺度重构或国家尺度重组），是政治地理学（Brenner, 2004）与批判性教育政策研究（Robertson & Dale, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）的核心概念。它指在全球化、新自由主义转型与数字化监测扩张的驱动下，国家规约权力、政策功能与制度安排在跨国（Transnational）、国家（National）、次国家/联邦州（Subnational）以及地方/市镇（Local）等不同空间尺度之间所发生的质性重构、分层转移与再结网过程。该概念强调：空间尺度并非先验、固定、天然存在的地理容器，而是由社会行动者、制度博弈与技术媒介不断生产、协商与争夺的动态产物（Brenner, 2004; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–136]]）。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 尺度重组与相近空间治理概念辨析
 > | 维度 | 本概念：尺度重组（Rescaling） | 传统行政分权（Decentralization） | [[Topological Spatialisation\|拓扑空间化（Topological Spatialisation）]] |
 > |---|---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 > | **国家角色** | 国家作为多尺度调控的元治理中枢（Meta-governor）重新自我定位 | 国家将具体执行权剥离给下级政府 | 国家权力依托关系网络实现即时临近与远距离投射 |
 
 ---
-
-## 核心要素
 
 > [!feature] 尺度重组的核心机制维度
 > - **向上跨越（Upward Rescaling）** 民族国家将部分主权与测评标准制定权让渡或对齐于跨国组织（如 [[OECD]] 的 [[PISA]] 框架）（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 135]]）。
@@ -132,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -142,16 +132,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 尺度重组概念的理论演进
 > - **1990 年代末–2004 年 — 批判性城市与国家空间地理学奠基** 尼尔·布伦纳（Neil Brenner）在《新国家空间》（*New State Spaces*, 2004）中系统提出国家尺度重组理论，批判全球化导致国家终结的肤浅论断，提出国家空间性的多标量重构。
 > - **2000 年代中后期 — 引入批判性比较教育学** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan Robertson）与[[Roger Dale|罗杰·戴尔]]（Roger Dale）将尺度重组框架引入全球教育政策研究，提出“教育集合体”（Education Ensembles）与跨国空间治理。
 > - **2010 年代至今 — 数字化与拓扑学转向的融合** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）等学者将尺度重组与[[John Allen\|约翰·艾伦]]（John Allen）的[[Topological Spatialisation\|拓扑空间化]]理论有机融合，开创了通过[[Data Infrastructure\|数据基础设施]]分析政策尺度重构的微观技术视角。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

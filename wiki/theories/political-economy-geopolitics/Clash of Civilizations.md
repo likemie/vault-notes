@@ -56,13 +56,9 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Clash of Civilizations
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 冷战后全球政治冲突的根源、国际地缘联盟的重组机制，以及文化与宗教认同对国家行为的深层塑造。
 > - **理论问题** 回应冷战终结后[[Francis Fukuyama|弗朗西斯·福山]]等人的自由主义“[[End of History Thesis|历史终结论]]”与新自由主义全球化乐观主义的盲区，揭示意识形态对抗消失后文化差异的凸显。
 > - **理论类型** 宏观[[Geopolitics|地缘政治]]解释理论与文明比较[[Analytic Framework|分析框架]]。
@@ -73,15 +69,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 理论形成脉络
 > - **提出者与原始文本** 塞缪尔·P. [[Samuel P. Huntington|亨廷顿]]于 1993 年在《外交事务》（*Foreign Affairs*）发表论文《文明的冲突？》（*The Clash of Civilizations?*），后于 1996 年出版专著《文明的冲突与世界秩序的重建》（*The Clash of Civilizations and the Remaking of World Order*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; cited in Karp & Zamiska, 2025, p. 85)]]
 > - **原初问题** 苏联解体与东欧剧变后，两极冷战结构瓦解，南斯拉夫内战与高加索冲突等区域战争展现出强烈的族群与宗教撕裂特征，既有现实主义均势理论与自由主义全球化[[Paradigm|范式]]难以解释此类冲突。
 > - **理论资源与材料** 汲取斯宾格勒（Oswald Spengler）、汤因比（Arnold Toynbee）与布罗代尔（Fernand Braudel）的文明史观，结合英国学者威廉·华莱士（William Wallace）关于西欧中世纪基督教边界的历史考证（[[Huntington-Wallace Line|亨廷顿-华莱士线]]）。
 > - **形成路径** 亨廷顿通过将世界划分为主要文明板块，界定文明核心国与断层线国家，构建了冷战后大国博弈与区域冲突预测的地缘[[Analytic Framework|分析框架]]。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演变与论辩发展
 > - **1993年 — 假说提出** 亨廷顿发表《文明的冲突？》，界定 7 至 8 个主要文明板块，引入 1500 年西方基督教边界图（Huntington-Wallace Line）（p. 85）。
@@ -103,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜冷战后全球政治冲突的深层根源在于文明认同而非意识形态或经济利益
 > **解释** [[Samuel P. Huntington|亨廷顿]]主张，现代化并不等同于西方化。非西方社会在经济和军事实力增强的过程中，反而强化了对本土文明传统的文化[[Pride in Learning|自豪]]感（本土化复兴），进而挑战西方霸权。冷战时期由意识形态划定的阵营让位于由宗教、历史叙事和语言维系的文明纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Huntington, 1993; Karp & Zamiska, 2025, p. 85)]]
 >
@@ -121,8 +111,6 @@ updated: 2026-10-22
 > **应用实例** 当代高校在讨论西方文明帝国历史份额（如控制 74% 全球产出）时，往往因恐惧被扣上[[Orientalism|东方主义]]或文明冲突论的帽子而放弃探究其底层制度与科技动员成因。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 国际高等教育合作壁垒、跨国科技转化受阻、区域防务同盟凝聚力及国家战略认同的形成机制。
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > - **转化困难** 文明边界的经验划定具有主观性，易沦为自证预言的意识形态工具。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

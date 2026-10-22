@@ -59,11 +59,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# National Council of Teachers of English
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 全美英语教师委员会（National Council of Teachers of English, NCTE）是美国规模最大、历史最悠久的专业语文教育学术团体与教师专业组织。其法定使命在于通过推进语言与读写教学的严谨研究、倡导以学生为中心的全面素养教育，捍卫各学段英语教师的专业裁量权与[[Academic Freedom|学术自由]]；在联邦与州级教育立法中扮演基层公立学校教师的坚定利益代言者。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1911–1930s — 创设与进步主义语文教育奠基** 确立反抗僵化外部规约的办会传统，创办旗舰学术期刊《英语杂志》（*English Journal*）与《小学英语》（*Language Arts*），积极吸纳[[John Dewey|约翰·杜威]]（John Dewey）[[Progressive Education|进步主义教育]]哲学。
 > - **1960s–1980s — 读写过程运动与[[Constructivist Paradigm|建构主义]]繁荣** 成立大学写作与交流大会（CCCC），大力支持读写作为社会文化实践的研究，成为[[Whole Language|全语言]]运动（[[Whole Language]]）与儿童文学情境教学的最坚实支持阵地。
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **2001–至今 — 抵制高利害标准化测试与当代倡导** 在 [[No Child Left Behind Act 2001|NCLB]] 与 [[Every Student Succeeds Act|ESSA]] 时代，持续发布关于反思过度标准化考试、捍卫多元文化儿童读物与反思[[Generative Artificial Intelligence|生成式人工智能]]写作伦理的国家指导意见。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **执行执行委员会（Executive Committee）** 由会员民选产生的会长团队及各专业学段代表执掌，掌握组织学术发展与公共政策总方针。
@@ -99,8 +91,6 @@ updated: 2026-10-22
 > - **严谨的专业标准研制** 联合[[International Reading Association|国际阅读协会]]等机构共同制定并发布《英语语言文学学习标准》，强调听说读写与[[Critical Thinking|批判性思维]]的整体性。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与学术资产
 > - **权威学术期刊集群**
@@ -117,16 +107,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **捍卫教师专业自决权的国家旗帜** NCTE 始终坚持读写教学是一项复杂的艺术与专业实践，坚决反对将其退化为机械脚本化发音指令，成为美国[[Whole Language|全语言]]与[[Progressive Education|进步教育]]工作者的精神堡垒。
 > - **抗击新自由主义商业教材垄断** 在国会与出版寡头联合推行系统拼读霸权的历史进程中，NCTE 提供了关于阅读情境化与儿童文学价值的最权威学术反驳，减缓了联邦技术官僚对课程的全面同质化。
 > - **草根多元民主参与的典型参照** 展现了普通教育工作者联合起来通过宪法请愿权利对国家强权实施反制的组织力量。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

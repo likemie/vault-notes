@@ -47,11 +47,7 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# Model-Evidence-Link Matrix
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 模型-证据关联矩阵
 > - **工具类型** [[Scaffolding\|认知脚手架]]与论证评价工具。
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] [[Epistemic Ideals]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -80,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 呈现实证任务中的 2 个竞争性假说（如 HIV 模型 1 与模型 2）以及 4 项经验材料卡片。
 > - **作答格式** 关系连线结合文本论据解释。
 > - **判定规则** 学生不仅画出连线类别，更需在配套表格中用文字阐明"为什么该证据强有力地支持了模型 B 而削弱了模型 A"，为后续撰写完整书面论证奠定结构骨架。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 212–213)]]
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -99,8 +89,6 @@ updated: 2026-10-22
 > | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | MEL 矩阵（HIV 遗传抗性任务） | 美国新泽西州多元公立初中，第二队列学生，用于支架学生书面论证撰写 | — | 学生能够借助 MEL 支架产出包含模型辨别与证据关联说明的完整论辩短文；但缺乏对证据生成[[Reliable Epistemic Processes\|可靠过程]]的理解时，连线质量下降 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

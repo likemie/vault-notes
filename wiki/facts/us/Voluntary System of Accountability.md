@@ -45,11 +45,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Voluntary System of Accountability
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2007 年由美国公立与赠地大学协会（APLU）与美国州立大学与学院协会（AASCU）联合发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **制度位置** 高校主动发起以抵御联邦政府强制刚性问责干预的行业自律与透明化行动。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > VSA 建立“大学画像”（College Portrait）在线公共报告系统，要求成员高校从大一入学至大四毕业，运用经官方认证的三大标准化测验之一（[[Collegiate Learning Assessment\|CLA]]、[[Collegiate Assessment of Academic Proficiency\|CAAP]] 或 [[ETS Proficiency Profile\|MAPP]]）测算并向公众公开学生的[[Critical Thinking\|批判性思维]]与书面沟通增值指标。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
@@ -72,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策演进时间线
 > - 2006 联邦教育部《[[Spellings Report\|斯佩林斯报告]]》发布，高教问责危机爆发。
 > - 2007 APLU 与 AASCU 联合正式推出 VSA 与“大学画像”体系。
@@ -81,8 +73,6 @@ updated: 2026-10-22
 > - 2016 经历十年运行，统考模式遭遇严重瓶颈；AASCU 调查显示高校普遍转向校本真实性评分量规（如 VALUE 量规）与院系自主考核，VSA 统考机制逐步走向式微。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发起主体** APLU 与 AASCU（代表全美绝大多数公立大学系统）。

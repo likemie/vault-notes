@@ -38,14 +38,10 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Single-Subject Design
-
 > [!info] 定义
 > 单受试者设计（Single-Subject Design），亦称应用行为分析（Applied Behavioral Analysis）或单一个案实验设计，是一种量化[[Experimental Research\|实验研究]]设计。在时间维度上对单个个体或少数个体（Cooper et al., 2007; Neuman & McCormick, 1995）施加处理、撤销处理，观察行为变化，以判断处理是否产生了效果（Gast & Ledford, 2014）。
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > - 确定目标行为和可操作的测量指标。
 > - 在未施加处理的基线期反复测量目标行为。
 > - 引入处理（干预），持续测量行为变化。

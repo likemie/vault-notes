@@ -52,11 +52,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# Open Classroom Movement
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > **开放式课堂运动（Open Classroom Movement / 英国幼儿学校借用浪潮）** 是战后美国初等教育领域由本土合法性危机触发、以双边跨国经验借鉴为载体的大规模进步主义教学革新运动。该运动表明，即使在冷战大国竞争背景下，主权国家层面的[[Policy Borrowing|教育借用]]亦不局限于硬核理工科扩充，而是能够将外部制度样板深度挪用为打破国内教育官僚压抑与课程僵化的政治合法化武器。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **直接导火索 / 触发事件** 1957 年苏联发射首颗人造卫星（Sputnik Shock），将科技军备危机直接投射为美国初等教育体制的全面失败。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
 > - **1957–1965 — 危机反思与学者先驱考察**
@@ -85,16 +79,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献与历史声明
-
 > [!citation-card] 危机驱动下对英国幼儿学校的借用狂潮
 > 人造卫星危机被概念化为一场教育失败，美国学校因其压抑的天性与心智麻木而广受批评。一种‘解方’在英国幼儿学校中被‘找到’。费瑟斯通与韦伯等学者开创了这场运动，韦伯甚至在英国小学考察长达 18 个月。1969 年全美 20 个城市的联合考察团赴英考察，至 1971 年全美发表了逾 300 篇推介英国初等教育改革的专文；至 1972 年自由学校数量达到约 500 所。[[Argument_Beech_2009_GlobalGarden|(Ravitch, 1983, cited in Beech, 2009b, pp. 341–342)]]
 >
 > *The [[Sputnik Shock 1957|Sputnik]] crisis was conceptualised as an educational failure. American schools were criticised for their repressive nature and mindlessness (Ravitch, 1983). One solution was 'found' in the English infant schools ... in 1969, study teams from 20 American cities went to England, and in 1971 over 300 articles about the English primary reforms had been written in the USA ([[Argument_Beech_2009_GlobalGarden|Beech, 2009b: 341–342]]).*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 运动先锋** 费瑟斯通、韦伯与大学进步派教育学者 — 借助英国经验作为外在客观权威，批判公立学校流水线式工业化规训，倡导儿童中心与民主探究。
@@ -103,8 +93,6 @@ updated: 2026-10-22
 > - **受冲击的一线教师** 多数教师未曾接受自主探究教学培训，在失去教参大纲约束后陷入严重教学焦虑与[[Classroom Management|课堂管理]]混乱。
 
 ---
-
-## 历史后果与深远影响
 
 > [!indicators] 历史影响维度
 > - **教育空间建筑重构** 深刻推动了现代学校物理空间的重组，柔性隔断、活动角、地毯阅读区与多功能学习中心成为当代美国乃至全球小学的常规配置。

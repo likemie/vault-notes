@@ -54,11 +54,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Allgemeine Pädagogik
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统摄地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 欧陆[[Allgemeine Pädagogik|普通教育学]]与英美教育研究建制传统对比
 > | 维度 | 欧陆普通教育学传统（Allgemeine Pädagogik） | 英美教育研究传统（Educational Studies） |
 > |---|---|---|
@@ -93,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **母体学科统摄性（Mother-Discipline Function）** 作为教育学科群的元理论基石，确立教育科学的[[Central Phenomenon|核心范畴]]与逻辑自洽性，为比较教育、学校教育学与社会教育学提供共有母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 > - **教化价值内核（[[Bildung]] Core）** 始终将受教育者的全面精神觉醒与自主品格陶成置于首位，坚决抵御将人工具化为劳动力市场单一技能符号的危险。
 > - **规范反思能力（Normative [[Reflexivity]]）** 保持对教育现实与政治政策干预的审慎批判距离，不随世俗功利评价标准的波动而丧失学术自主性。
@@ -137,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -154,8 +144,6 @@ updated: 2026-10-22
 > - **21世纪初至今 — 抵抗新自由主义指标异化与全球趋同** 面对以跨国大规模评估与可测量[[Performance Indicators|绩效指标]]为代表的全球教育治理，当代学者重拾普通教育学母体传统，捍卫教育活动的不可度量性与伦理尊严。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学科[[Paradigm|范式]]与建制路径争议
 >

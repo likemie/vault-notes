@@ -83,11 +83,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Hierarchical Linear Model
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或[[Random-Effects Model|随机效应]]混合模型 Mixed-Effects Model）** 是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”假设。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算 **[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
@@ -104,8 +100,6 @@ updated: 2026-10-22
 > *“Cluster-level variation is ubiquitous in educational trials. Reanalyses by Xiao et al. (2016) showed that ignoring clustering in regression models inflates Type I errors. Hierarchical linear models partition variance across levels, providing accurate standard errors that reflect the true effective [[Sample Size Determination\|sample size]] of cluster randomised designs.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 承认社会与教育现实的生态学结构（Ecological Structure）。个体不是游离在真空中的原子，而是嵌入在特定组织与环境脉络中的主体；微观行为与宏观环境之间存在相互依赖与层级穿透。
@@ -130,16 +124,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **空模型估计与 [[Intraclass Correlation Coefficient\|ICC]] 测算（Null Model）** 不纳入任何[[Independent Variable\|预测变量]]，分解总方差为 Level 1 与 Level 2，计算组内相关系数 ICC。若 ICC 显著大于 0（如 $\ge 0.05$），证实必须采用多层分析。
 > 2. **[[Variable\|变量]]中心化处理（Centering Decision）** 依据理论假设决定自变量采用总均值中心化（便于控制宏观混杂）或组均值中心化（纯粹提取微观组内效应）。
 > 3. **拟合随机截距模型（Random Intercept Model）** 引入 Level 1 学生变量（如基线[[Pre-test and Post-test\|前测]]成绩）与 Level 2 学校变量（如干预组别），固定斜率，仅允许各校截距随机变动。
 > 4. **评估随机斜率与跨层级交互（Random Slope & Cross-level Interaction）** 检验干预效应是否在不同学校间存在显著[[Heterogeneity\|异质性]]；若存在，引入学校特征变量解释斜率异质性。
 > 5. **模型比较与残差诊断** 运用似然比检验（LRT）比较模型复杂度与拟合度，检查各层级残差的正态性与异常群聚点。
-
-### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含 $J$ 所学校（Level 2），第 $j$ 所学校包含 $n_j$ 名学生（Level 1），总[[Sample Size Determination\|样本量]] $N = \sum n_j$。
@@ -219,8 +209,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 以班级或学校为单位进行[[Random Assignment\|随机分配]]的[[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）；
@@ -236,8 +224,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **高层级[[Sample Size Determination\|样本量]]要求严苛** HLM 的统计功效主要取决于第二层集群数量（学校数 $J$），而非第一层个体数量（学生数 $N$）。即便每所学校测试数百名学生，若总共只有 10 所学校，模型估计组间方差的功效依然极低。
 > - **中心化策略敏感性** [[Variable\|变量]]采用总均值中心化（Grand-Mean Centering）还是组均值中心化（Group-Mean Centering）对截距含义和斜率解释具有根本影响；若中心化方式选用不当，极易将学校间的宏观结构效应与个体间的微观效应混为一谈。
@@ -245,8 +231,6 @@ updated: 2026-10-22
 > - **补救方式** 采用 Kenward-Roger 自由度调整改善小集群推断；在理论指引下审慎选择中心化方案；对于收敛困难的复杂高维模型，可转向贝叶斯 MCMC 估计（如 `brms` 或 `rstanarm`）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -272,8 +256,6 @@ updated: 2026-10-22
 > | [[Model Dependency]] | 风险现象 | 解释了为什么多层模型与 OLS、简单均值模型之间的选择会引发效应量与显著性剧烈漂移。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等对 17 项 [[Education Endowment Foundation\|EEF]] 试验做多层模型复算，证明 HLM 校正集群效应不可替代，推动《EEF 评估统计分析指南》（2018）出台。

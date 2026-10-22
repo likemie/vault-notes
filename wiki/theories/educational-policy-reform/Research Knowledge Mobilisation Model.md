@@ -52,13 +52,9 @@ created: '2026-09-12'
 updated: 2026-10-22
 ---
 
-# Research Knowledge Mobilisation Model
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 教育领域中研究证据如何在大学、学校、智库、媒体与政策部门之间流动、转化、重组与扩散的多维系统机制。
 > - **理论问题** 破除将知识流动视为“大学单向生产后交付学校使用”的线性[[Technical Rationality\|技术理性]]迷思，解释为何[[Knowledge Mediation\|知识中介]]与使用情境往往比单纯的生产情境更为庞大，以及宏观社会制度如何时刻形塑着知识吸收。
 > - **理论类型** 系统论中层[[Analytic Framework\|分析框架]]（Systems-Based Analytical Model）、功能主义知识流动拓扑模型。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > | 机制—障壁诊断比（Diagnostic Ratio） | 诊断构件 | 测度生产、中介与使用各界面促成机制与阻碍障壁的相对密度，评估系统真实运作优先级。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Knowledge Mobilisation\|知识动员]]是三大功能情境的系统重叠而非组织间的线性交付
 > - **前提一（拒绝机械实体论）** 传统观念将研究者与实践者固定于割裂的物理组织，预设单向传递逻辑（Levin, 2004）。
@@ -129,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 关系的、动态演化的系统本体论。[[Knowledge Mobilisation\|知识动员]]是多系统互动的生成物，不存在脱离社会情境的绝对纯粹学术孤岛。
 > - **[[Epistemology\|认识论]]** 语境主义与[[Pragmatic Paradigm\|实用主义]]认识论。知识的有效性与价值在跨越情境的转译与使用中得以确立。
@@ -159,8 +151,6 @@ updated: 2026-10-22
 > - **2022 — [[OECD\|经合组织]]知识动员模型类型学横向比照与实证拓展** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 Levin RKM 框架确立为主流知识动员四大基石之一，盛赞其凭借简洁优雅的“功能重叠”设计克服了传统组织的僵化分割；[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 进一步将其[[Operationalization\|操作化]]为跨国教育系统促成机制与阻碍障壁的实证诊断基准。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Dialect Use
-
 > [!metax] [方言使用 · Dialect use](https://www.visiblelearningmetax.com/influences/view/dialect_use)
 > 学生 › 生理因素
 >

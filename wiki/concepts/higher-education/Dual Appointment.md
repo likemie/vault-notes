@@ -46,11 +46,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Dual Appointment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **双重聘任制（Dual Appointment / Joint Appointment）** 是指现代[[Research Universities|研究型大学]]中，专任教师同时在传统的学科院系（Discipline-based Department）和跨学科多资源研究中心（MMURC）拥有正式人事聘任与岗位职责的矩阵式人事治理制度。该制度的核心底线规定：中心的研究人员必须在学科院系持有正式的终身教职或终身教职轨道（Tenured or Tenure-track）编制，不得脱离院系成为孤立的专职中心研究员。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
@@ -81,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **院系终身教职底线保障** 强制要求所有中心骨干教师在学科院系持有正规教职，确保教师始终扎根于学科人才培养一线。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
 > - **跨学科中心平台职责** 教师在中心内承担重大系统工程研发、企业联合攻关、共享设备管理及跨学科研究生联合指导。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 374)]]
 > - **考核与晋升权力不对称** 终身教职评定权牢固掌握在传统院系手中，中心主任缺乏直接晋升考核权，只能依托资金和仪器等软性激励维系合作。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 374)]]
@@ -127,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 核心争议
 >
 > > [!axis] 一份薪水承担两份全职工作（Double Load）与职业倦怠
@@ -155,8 +145,6 @@ updated: 2026-10-22
 > > 学科院系晋升委员会往往偏好单一学科第一作者纯理论论文，对教师在中心从事的多人协同系统工程、企业专利转化与跨学科教学缺乏足够的制度化认可。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

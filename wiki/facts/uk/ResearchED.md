@@ -57,11 +57,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# ResearchED
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2013 年发起于英国伦敦，后续发展为国际性的教育会议网络。
@@ -71,16 +67,12 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 事件经过
 > - **2013 — 创立与思想奠定** 教师 [[Theory of Mind|ToM]] Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“[[Learning Styles|学习风格]]”等假科学，提倡以 [[Randomised Controlled Trials\|RCT]] 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与实践鸿沟的草根运动([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
 > - **2015 — 官方背书与政治绑定** ResearchED 迅速得到英国保守党政府学校部长 Nick Gibb 的强力背书，Gibb 在主旨演讲中甚至声称 ResearchED 的存在归功于他的政策倡导，标志着该运动与政府教育改革议程的深度绑定。
 > - **2016–至今 — 国际扩张与草根诉求共振** ResearchED 在澳大利亚、新西兰、美国等国建立国际分支网络。其在英国的政策活动中，频繁将[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）发布的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）引为权威。正如 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 127)]] 所分析，该运动与[[Chartered College of Teaching\|英国特许教师学院]]（Chartered College of Teaching）的设立以及国际上“颠覆系统”（Flip the System）的呼声形成呼应，标志着全球范围内教师群体对自下而上掌握[[Research Utilization\|证据使用]]权的草根诉求不断扩散；但其在方法论层面仍频繁面临去情境化科学观的系统性批评。
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] [[Theory of Mind|ToM]] Bennett 的“[[Scientific Method\|科学方法]]”描述
 > “形成问题（如：声音在水中比在空气中传播更快吗？）→ 做出假设 → 做出预测 → 检验预测（收集证据看真实世界是否表现得与预测相同）→ 分析证据。”
@@ -105,8 +97,6 @@ updated: 2026-10-22
 > - **传输式教育模式的固化** 将研究简化为“开箱即用”的干预证据，在实质上配合了高利害问责制，固化了将知识单向输送给学生的“灌输式教育”。
 
 ---
-
-## 争议与评论
 
 > [!actor-grid] 评论视角
 > - **当事方 / 草根赋权视角** [[Theory of Mind|ToM]] Bennett 等倡导者与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 127)]] 指出，ResearchED 代表了教师社群内部自发增长的证据需求，旨在打破大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学证据赋能课堂教学。

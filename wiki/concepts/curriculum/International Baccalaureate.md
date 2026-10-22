@@ -85,11 +85,7 @@ created: 2026-05-17
 updated: 2026-10-20
 ---
 
-# International Baccalaureate
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 国际文凭（International Baccalaureate，IB）是一套跨国课程、资格与质量保障体系。它最初为跨国流动学生提供可被多国大学承认的高中毕业资格，后来发展为覆盖 3 至 19 岁学生的课程体系，包括小学项目（Primary Years Programme，PYP）、中学项目（Middle Years Programme，MYP）和大学预科项目（Diploma Programme，DP）。国际文凭组织（International Baccalaureate Organization，IBO）通过共同课程框架、学校授权、教师培训、内部与外部评价以及跨国治理维持标准。IB 因此既是一种课程设计，也是一套把学校、考试、大学承认和公共治理连接起来的制度安排。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–168, 178–187)]] [[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 27–31)]]
@@ -101,8 +97,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!row-contrast] IB、大学预科项目与 IBO 指向不同层次
 > | 名称 | 指向对象 | 核心功能 | 使用边界 |
 > |---|---|---|---|
@@ -111,8 +105,6 @@ updated: 2026-10-20
 > | **国际文凭组织（IBO）** | 负责课程、考试、授权和国际治理的组织 | 维护标准，组织考试，支持学校并协调政府、地区办公室和专业人员 | 组织本身不是课程；历史材料中的 IBO 与今日机构名称和治理结构也需按时期理解 |
 
 ---
-
-## 核心要素
 
 > [!feature] 课程体系通过四个相互依赖的要素运行
 > - **价值与学习者目标** IB [[IB Learner Profile|学习者培养目标]]把国际理解、探究、反思与责任等使命转化为可贯穿课程的学习者特征。[[Argument_Metli_2022_IJEdReform|(Metli & Akış, 2022, pp. 210–213)]]
@@ -264,8 +256,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!row-contrast] IB 的核心命题
 > | 命题类型 | 核心指向 | 条件与边界 | 代表研究 |
 > |---|---|---|---|
@@ -277,8 +267,6 @@ updated: 2026-10-20
 > | **积极平衡与国际性** | 支持覆盖不足地区，扩大文化参与 | 学校份额、理事席位和考试标准不能混为一谈 | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 207–209)]] |
 
 ---
-
-## 概念演变
 
 > [!phase] IB 从[[International Schools|国际学校]]方案发展为跨国公共教育服务
 >
@@ -312,8 +300,6 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
 > [!debates] 意识形态中立性争议
 >
 > > [!axis] 文化普适性与西方中心性
@@ -329,8 +315,6 @@ updated: 2026-10-20
 > 学生刚进入 TOK 时，可能因[[Knowledge Questions|知识问题]]的[[Open-Mindedness|开放性]]和反思要求而感到困惑。部分参与者把这种经历称为 TOK 冲击（TOK shock），并报告随着课程推进才逐渐理解其价值。该现象说明课程需要明确的学习支架，不能把初期困难自动解释为必要且有益的发展过程。[[Argument_Cole_2015_AJE|(Cole et al., 2015, p. 259)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 制度规模、课程采用与组织条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -366,10 +350,6 @@ updated: 2026-10-20
 
 ---
 
-## 应用案例
-
-### 课程采用的三条不同路径
-
 > [!case] 应用化学进入常规课程
 > [[International School of Geneva|日内瓦国际学校]]化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]，将共同基本原理与八个应用领域结合，学校须从中选择三个，原文举例包括重工业、农业与食品、化学与健康。IBO 将其纳入常规课程。课程把学科理解与应用联系起来，没有让地方选项取代共同原理；其考生规模见实证数据，采用成功不能等同于已证实教育效果优于常规化学。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
@@ -380,8 +360,6 @@ updated: 2026-10-20
 > 在营养科学推广经验之后，1982 年提出的科学、技术与社会变迁课程试点获得英国朗特里信托和印度塔塔信托较充足支持。巴林国际学校、印度科代卡纳尔学校及东南亚书院，与适宜技术和技术援助组织、萨塞克斯及埃因霍温大学顾问共同开发。IBO 授权共同课程试验，由萨塞克斯大学迈克尔·布朗（Michael Brown）指导；巴林预备会议后，在科代卡纳尔安排三周在职培训，夏威夷洛亚学院、内罗毕圣玛丽学校及亚得里亚海书院教师也参加。作者预期可能扩展到更多学校，但明确其成功尚不确定。因此这一案例说明实施支持已经改变，不构成扩散成效的最终证明。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：六年试验把课程、考试、行政与资格承认整合为常设国际资格（Ch. 4），沃特福德加入 [[United World Colleges|UWC]] 推动十一月考试季（Ch. 5），地方课程自主与教师培训使 IB 成为北美公立高中的改革工具（Ch. 6），政府参与、功能分权和核心课程评价又支撑第二个十年的成熟运行（Ch. 7）。

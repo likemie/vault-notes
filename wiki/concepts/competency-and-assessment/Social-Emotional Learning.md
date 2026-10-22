@@ -58,11 +58,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Social-Emotional Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 社会情感学习（Social-Emotional Learning，SEL）是个体在终身发展过程中，系统习得并协调应用自我意识、自我管理、社会意识、人际交往技能以及作出负责任决策所需的认知、情感、态度与行为素养的综合建构。在全球教育治理视阈下，SEL 已从早期的微观[[Counseling Effects|心理辅导]]转译为跨国多边组织开拓全新规制领域、争夺全球规范制定权与慈善资本的核心中介议题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
@@ -92,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **自我意识（Self-Awareness）** 准确识别自身情绪、思维倾向与价值信念，客观评估自身优势与局限的能力。
 > - **自我管理（Self-Management）** 在面对挫折、诱惑与高压情境时，有效调节自身情绪、管理冲动并确立韧性目标的能力。
 > - **社会意识（Social Awareness）** 理解并同理不同文化与社会背景他人的处境，展现慈悲心与共情倾向的能力。
@@ -140,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +148,6 @@ updated: 2026-10-22
 > - **2015 年至今 — [[OECD\|经合组织]]测评化与全球多边内卷** 经合组织（OECD）启动“社会与情感能力调查”（SSES），[[UNESCO\|教科文组织]]设立圣雄甘地和平与[[Sustainability Education\|可持续发展教育]]研究所（MGIEP）推广 SEL，使该概念全面卷入全球量化规制网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -180,8 +170,6 @@ updated: 2026-10-22
 > SEL 的成效高度依赖全校支持性文化与师生信任关系；若将其作为孤立的离散课程或单纯以测验分数进行高利害问责，将导致学生的策略性表演与虚伪伪装。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

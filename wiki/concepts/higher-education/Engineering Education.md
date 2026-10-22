@@ -92,11 +92,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Engineering Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **工程教育（Engineering Education）** 是以培养具备工程科学基础、跨学科系统设计能力、现场动手排障技艺、开源技术标准研发与复杂约束权衡思维的高阶工程科技人才为目标的专门教育[[Paradigm|范式]]。与以解释自然现象为旨归的纯科学探究不同，工程教育以“满足人类与社会实际需求、解决真实世界技术问题与维护国家战略技术能力”为导向，强调在材料性能、制造成本、安全规程、工艺良率与地缘安全等多重约束条件下，综合运用数学与科学原理开展系统设计、原型制造、产线调试、标准开源与三级人才迭代培养。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
@@ -136,9 +132,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多约束条件下的系统设计与原型迭代** 引导学生在材料限制、预算上限、功耗要求与安全标准之间开展复杂的权衡取舍（Trade-offs），经历“设计—建造—测试—失败—优化”的循环迭代。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 156–157)]]
 > - **跨学科知识融通与多领域工具集成** 破除机械、化工、电气等狭隘学科分立，要求学生掌握横跨软硬件的全局系统思维（Systems Thinking）、优化理论与集成工具。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 371)]]
 > - **动手实训与现场排障技艺（Hands-on Craft & [[Problem Solving|Troubleshooting]]）** 扭转理论建模与实体操作的割裂，将车间操作、钎焊装配、芯片流片与先进仪器维护深度内嵌为核心学分与评价维度。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53)]]
@@ -240,8 +234,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -266,8 +258,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 核心争议
 >
 > > [!axis] 纯理论学术严谨性 vs 动手实践应用技能的张力
@@ -289,8 +279,6 @@ updated: 2026-10-22
 > > - **[[Capability Approach|能力进路]]与互惠共生立场（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]）** 指出全额资助的定向工程学位培养实现了毕业生 100% 回流母国部委与合资企业一线，切实填补了长期存在的基础设施人才赤字，使受援国掌握自主运营与维护现代化工程的实质性能力，实现了正当产业利益与自主造血发展的共赢。（pp. 193–195）
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

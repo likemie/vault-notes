@@ -40,11 +40,7 @@ created: 2026-06-26
 updated: 2026-10-16
 ---
 
-# Parallel-Forms Reliability
-
 ---
-
-## 定义
 
 > [!def] 复本[[Reliability\|信度]]（Parallel-Forms Reliability）
 > 复本信度是使用相似测量工具所得测量结果的一致性程度——即使用同一测量目标的不同测量工具（如两套难度、结构和内容相当的平行[[Questionnaire\|问卷]]），对同一组受试者施测，所得结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。
@@ -55,8 +51,6 @@ updated: 2026-10-16
 > - **边界** 复本信度不同于[[Test-Retest Reliability\|重测信度]]——重测是同一工具跨时间，复本是不同工具跨形式。它要求不同测量工具在测试目标和结构上高度一致，否则计算缺乏科学性。
 
 ---
-
-## 核心要素
 
 > [!proc] 复本[[Reliability\|信度]]评估步骤
 > 1. **开发平行版本** 设计两套在测试目标、内容结构、难度水平和区分度上高度趋同的测量工具（如[[Questionnaire\|问卷]] A 卷与 B 卷）。
@@ -69,8 +63,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 复本[[Reliability\|信度]] vs [[Test-Retest Reliability\|重测信度]] vs [[Internal Consistency\|内部一致性]]
 > | 维度 | 复本信度 | [[Test-Retest Reliability\|重测信度]] | [[Internal Consistency\|内部一致性]] |
 > |---|---|---|---|
@@ -81,8 +73,6 @@ updated: 2026-10-16
 > | 计算方式 | Pearson 积矩相关系数 | Pearson 积矩相关系数 | Cronbach α、Spearman-Brown 等 |
 
 ---
-
-## 争议与批评
 
 > [!warning] 实践难点
 > - 开发真正等价的平行版本在操作上难度较高——两套工具需要在内容覆盖、难度分布、区分能力和测量目标上同时匹配。

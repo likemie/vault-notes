@@ -70,13 +70,9 @@ created: '2026-05-12'
 updated: 2026-10-22
 ---
 
-# World-Systems Theory
-
 ---
 
-## 核心主张
-
-> [!claim|lead] 核心主张
+> [!claim] 核心主张
 > **世界体系理论（World-Systems Theory，或称世界体系分析 World-Systems Analysis, WSA）** 由美国历史社会学家[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Immanuel Wallerstein）创立。该理论主张，现代世界中唯一真实的社会系统是以单一国际劳动分工为基础的资本主义世界经济体（Capitalist World-Economy）。该体系自 16 世纪欧洲发端，通过不平等交换形成了由欧美发达国家构成的“**中心**”（Core）、具备缓冲与转承功能的“**半边缘**”（Semi-periphery），以及主要由前殖民地构成的“**边缘**”（Periphery）三层结构。沃勒斯坦根本否定孤立封闭的“国家发展”假定，强调任何主权国家的制度演化都是全球资本主义总体性规律的函数；教育系统在历史上与现实中始终服务于这一等级化劳动分工与资本积累，国际援助与借贷规则本质上是维系跨国依附与阶级分层的制度化工具。
 
 > [!citation-card] 沃勒斯坦论资本主义世界经济体作为唯一真实[[Unit of Analysis|分析单位]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > *World-systems analysis not only expands macro analyses to take into [[Accounts|account]] the actions of educational agencies in a truly international system, but it enhances our understanding of the sources of change and conflict in the micro system of school and classroom... linking education policy initiatives to the workings of an international economic order helped explain why expansion and reform, in so many cases, have failed to effect structural change in education or society, and indeed, why externally induced educational innovation may contribute to perpetuation of existing stratification systems within and between countries.*
 
 ---
-
-## 理论框架
 
 > [!theory-core]- 核心架构：中心—半边缘—边缘的三层分工与长时段历史动力学
 > 世界体系理论打破了传统现代化理论将“传统”与“现代”对立的二元线性演进假定，构筑了三层空间结构与长时段历史[[Analytic Framework|分析框架]]：
@@ -118,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-## 演进历程与代表人物
-
 > [!dev-timeline] 理论演进与学术史
 > - **1974–1980 — [[Immanuel Wallerstein|沃勒斯坦]]创立宏观分析[[Paradigm|范式]]** 沃勒斯坦深入西非去殖民化实地考察后，出版四卷本巨著首卷《现代世界体系》（*The Modern World-System I*, 1974），将资本主义世界经济起源追溯至“漫长的 16 世纪”，奠定中心-半边缘-边缘宏观理论范式。
 > - **1980–1982 — [[Robert Arnove|阿诺夫]]引入比较教育学（第四阶段[[Discourse|话语]]的激进突破）** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 1980）发表纲领性论文《比较教育与世界体系分析》，率先将体系分析引入比较教育学；在比较教育学第四阶段话语（Discourse 4, 1970–1990）中，该理论成为颠覆[[Structural Functionalism|结构功能主义]]与[[Human Capital Theory|人力资本理论]]神话的核心基石（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 152–153]]）。
@@ -127,8 +119,6 @@ updated: 2026-10-22
 > - **2010s–至今 — 全球科学网络与[[Geopolitics of Higher Education|高等教育地缘政治]]反思** 世界体系理论被广泛应用于全球高等教育与[[Geopolitics of Knowledge|知识地缘政治]]研究（Olechnicka et al., 2019）；同时，以西蒙·马金森（Simon Marginson, 2025）为代表的学者批判其刚性空间假设与零和剩余偏见，推动多标度国家自主性研究。
 
 ---
-
-## 比较教育学应用
 
 > [!application] 比较教育学的理论突破与分析路径
 > - **打破技术功能主义与[[Value Neutrality|价值中立]]迷思** 实证功能主义将教育视作国家实现现代化的中立发动机；世界体系理论则揭示，教育扩张主要受跨国资本积累需求规约，边缘国家扩招往往伴随着严重的文凭贬值、过度教育与劳动力失业，固化了国际依附格局。
@@ -143,16 +133,12 @@ updated: 2026-10-22
 
 ---
 
-## 认识论立场与方法论定位
-
 > [!method-position] [[Epistemology|认识论]]立场与方法特征
 > - **超越[[Methodological Nationalism|方法论民族主义]]的宏观整体论** 坚持把世界经济体作为唯一具有实体性因果效力的[[Unit of Analysis|分析单位]]。拒绝把国家当作孤立自足的容器，主张国家内部的阶级关系和教育政策必须置于全球资本积累总体逻辑中理解。
 > - **长时段历史分析与系统规律的结合** 强调“所有严肃分析必须同时具有历史性与系统性”。要求研究者考察制度在数十年乃至数百年长周期中的起源与演化，弥合叙事史学的人文个殊性与结构社会学的普遍法则性。
 > - **“反思 19 世纪社会科学”（Unthinking 19th-Century Social Science）** 批评 19 世纪建立的现代学科壁垒（将经济学、政治学、社会学和历史学割裂开来），倡导将政治、经济、社会与文化重新熔铸为一炉的历史社会科学综合纲领。
 
 ---
-
-## 学术争议与批判反思
 
 > [!debates] 学术争议
 >
@@ -198,8 +184,6 @@ updated: 2026-10-22
 > | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\|证伪]]零和剩余假设，倡导国家尺度的相对自主性。 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 比较教育学权威代表作，全面梳理世界体系理论从 1980 年引入至今的演变，辩证结合宏观体系分析与微观人类学课堂田野。

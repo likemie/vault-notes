@@ -92,11 +92,7 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Experimental Research
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **实验研究（Experimental Research）** 是一种旨在确定某一特定处理或干预条件是否对[[Dependent Variable|结果变量]]产生因果效应的量化实证研究设计。其核心操作机制在于由研究者主动操纵[[Independent Variable|自变量]]（给予处理组特定干预、对照组不予处理或给予常规对照），通过[[Random Assignment|随机分配]]（Random Assignment）控制外生混淆[[Variable|变量]]，并通过比较各组在[[Dependent Variable|因变量]]上的测量差异来评估净因果效应（Keppel, 1991; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, 第 8 章]]）。
@@ -108,8 +104,6 @@ updated: 2026-10-22
 > - **输出形式** 处理组与对照组得分差异、主效应与[[Interaction Effect|交互效应]]检验统计量（$F$ 值、$t$ 值）、标准化[[Effect Size|效应量]]（Cohen's $d$、Hedges' $g$、$\eta^2$）及[[Confidence Interval|置信区间]]。
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 建立在[[Postpositivism|后实证主义]]（Postpositivism）与[[Determinism|决定论]]/还原论的科学哲学之上，假定客观物理与社会世界中存在可被分离、操纵与经验验证的因果规律（Campbell & Stanley, 1963）。
@@ -125,8 +119,6 @@ updated: 2026-10-22
 > - **辅助技术** [[Random Assignment|随机分配]]、功效分析与[[Sample Size Determination|样本量]]估算、掩饰故事（[[Cover Story]]）、盲法控制与公开[[Preregistration|预注册]]。
 
 ---
-
-## 研究程序
 
 > [!proc] 实验研究标准化操作流程
 > 1. **界定因果假设与[[Operationalization|操作化]][[Variable|变量]]** 明确[[Research Question|研究问题]]与因果假设，界定[[Independent Variable|自变量]]的处理水平、[[Dependent Variable|因变量]]的测量指标及潜在协变量。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]
@@ -160,16 +152,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适合用于评估明确的干预因果效应、验证认知与学习理论假设、测试新型数字教学软件或心理干预的净增益（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, 第 8 章]]）。
 > - **谨慎使用** 在真实学校与课堂中开展研究时，因行政阻力往往难以实现完全[[Random Assignment|随机分配]]，需退而采用[[Quasi-Experimental Designs|准实验设计]]并警惕选择偏差。
 > - **不适合使用** 不适合用于探索复杂的社会文化意义建构、宏观历史制度演进，以及因伦理限制无法人为施加伤害性操纵的议题（如贫困或心理虐待研究）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **[[Ecological Validity|生态效度]]欠缺** 实验室高度控制的情境往往抽离了复杂的人际互动与真实社会脉络，导致实验结论在自然生态中难以完全复刻。
@@ -193,8 +181,6 @@ updated: 2026-10-22
 > | [[Institutional Review Board\|机构审查委员会]] | 规约机构 | 对涉及人类受试者的实验方案进行事前前置审查的法定伦理治理机构。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 深入反思 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Stanley Milgram|米尔格拉姆]]权威服从实验如何运用严密控制与实验欺骗揭示从众本能与[[Banality of Evil|平庸之恶]]。

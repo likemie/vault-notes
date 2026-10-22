@@ -105,11 +105,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Scientific Method
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学方法（Scientific Method）传统上被界定为一套以系统观察、提出假设、隔离[[Variable|变量]]、受控实验检验以及逻辑推理为核心的经验探究程序，其关键特质在于操作程序的可公开复现性与结论的[[Falsification|可证伪性]]。在当代科学哲学、科学社会学与科学教育界，单一标准化的“机械五步法”神话已被消解，科学方法被重构为包含观察建模、历史推演与共同体辩护的多元化社会[[Epistemology|认识论]]实践；而在超国家教育治理中，比较转向被包装为政治决策的科学方法，赋予量化政策中枢无可置疑的客观主义声誉。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]
@@ -146,8 +142,6 @@ updated: 2026-10-22
 > | **主要风险或局限** | 容易被教条化为去情境的配方式实验步骤 | 剥夺人文价值与道德批判，异化为技术极权 | 难以自发自动转化为高阶专业[[Formal Epistemology\|形式认识论]] | 结论具有高度情境依存性，缺乏普遍因果法则 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **[[Determinism|决定论]]与经验性假设（Determinism & [[Empiricism]]）** 预设世界运转具有客观规律且由先行情境决定，一切有效知识的最终合法性均依赖于可检验的感官经验证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 112)]]
@@ -240,8 +234,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -267,8 +259,6 @@ updated: 2026-10-22
 > - **2026 — 科学学反身实验与“金标准科学”评价转向** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）推动科学方法从哲学争鸣走向制度化反身实验——将因果实验、数据透明与可复现性应用于革新科研基金分配本身，并确立基于学术卓越的“金标准科学”评价原则。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 
@@ -297,8 +287,6 @@ updated: 2026-10-22
 > 科学方法擅长揭示现象之间的经验相关与因果机制，但无法跨越逻辑上的“休谟鸿沟”（自然主义谬误）——绝不可能直接从“实然”（经验数据）推导出“应然”（教育伦理与政治正义）；若将教育政策的价值取向完全交由所谓“实证数据”裁决，必然滑向技术统治论与价值虚无主义。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

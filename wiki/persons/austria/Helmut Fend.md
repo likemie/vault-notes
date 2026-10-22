@@ -50,11 +50,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Helmut Fend
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利著名教育社会学家，瑞士苏黎世大学（Universität Zürich）教育科学荣休讲席教授，德语区学校系统理论与[[School Effectiveness\|学校效能]]研究泰斗。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 > - **2006** 自苏黎世大学荣休，同年出版集大成著作《学校新理论：理解教育系统之导论》（*Neue Theorie der Schule*），引入[[Recontextualization|再情境化]]与治理分析视角。
 
 ---
-
-## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展阶段
 > - **第一阶段：综合中学实证研究与社会化理论（1970 年代）** 运用严密的社会学量化调查，探讨不同中等学校类型对学生社会化、学业自我概念与平等机会的影响。代表作：《学校与社会化》（*Schule und Sozialisation*, 1974）。

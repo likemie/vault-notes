@@ -45,11 +45,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Mediterranean Society of Comparative Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 地中海比较教育学会（Mediterranean Society of Comparative Education, MESCE）是立足地中海盆地地缘文化板块的跨大洲区域性比较教育专业学术组织，[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（[[World Council of Comparative Education Societies|WCCES]]）正式成员学会。学会致力于突破以单一民族国家为封闭容器的传统比较[[Paradigm|范式]]，架设南欧、北非与中东之间跨越文明、宗教与经济发展鸿沟的学术对话桥梁。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2004 — 创设与地中海愿景提出** 庞帕尼尼与苏尔塔纳在意大利西西里岛卡塔尼亚联合南欧与北非比较教育学者正式组建 MESCE，起草学会章程并确立三年一届大会机制。
 > - **2005 — 卡塔尼亚首届学术年会** 召开主题为“地中海比较教育：问题与前景”的创始大会，正式获批接纳为 [[World Council of Comparative Education Societies|WCCES]] 正式团体会员。
@@ -71,8 +65,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 应对难民危机与后殖民反思** 面对“阿拉伯之春”与地中海难民迁徙危机，学会研究重心深化至流散社群受教育权、非正式学习、欧洲睦邻教育政策批评与去殖民化[[Knowledge Production|知识生产]]。
 
 ---
-
-## 核心学术特征与学科史意义
 
 > [!feature] 核心学术特征
 > - **以地缘文化板块突破单一国家容器** 地中海既非纯粹内海，亦非单一政治联盟，而是一个历史交织千年的复合生态圈。MESCE 将地中海确立为独立的比较教育宏观单元，有力瓦解了[[Methodological Nationalism|方法论民族主义]]（Methodological Nationalism）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]

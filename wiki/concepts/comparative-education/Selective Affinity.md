@@ -40,11 +40,8 @@ status: active
 created: '2026-07-22'
 updated: 2026-10-22
 ---
-# Selective Affinity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 选择性亲和（Selective Affinity / Wahlverwandtschaft）最初由歌德（Goethe）借用化学术语引入文学，后经[[Max Weber\|马克斯·韦伯]]（Max Weber）系统引入社会学。指两种原本独立的思想、信仰、制度要素或文化结构，在特定社会历史情境下，因内部逻辑与内在价值取向的高度契合而产生的“互惠吸引、自发结合与相互强化”机制。在比较教育与跨国[[Policy Borrowing\|政策借用]]研究中，该概念用于解释外来教育理念如何与本土文化传统产生深层共振，消解异己感并被成功[[Recontextualization\|再脉络化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 596, 602)]]
@@ -86,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -101,8 +96,6 @@ updated: 2026-10-22
 > - **2020 年代 — 比较教育与跨国[[Policy Borrowing\|政策借用]]应用** — 被深入引入比较教育领域，解释全球教学法改革在东亚等不同文化语境下与本土思想资源的互惠共振与[[Recontextualization\|再脉络化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 602)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 选择性亲和解释了理念层面的互惠共振，但无法自动消除制度硬约束；当外来理念涉及民主权力共享等维度时，依然会遭遇统一大纲与[[Gaokao\|高考]]的结构性硬边界[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 603)]]。

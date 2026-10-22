@@ -41,16 +41,12 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Parental Cognitive and Affective Socialization
-
 > [!info] 定义
 > Parental Cognitive and Affective Socialization 是 [[Argument_Li_2012_Cambridge|Li（2012）]]通过欧美与台湾母-子对话研究（[[Mother-Child Conversation]]）提出的概念，指父母在家庭日常交流中，依据各自文化传统，通过特定的认知框架和情感引导来塑造孩子学习信念的社会化过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.238]])。
 
 两种文化中的母亲都是"高度投入且技巧娴熟的家庭导师"——欧美母亲像[[Socrates|苏格拉底]]式的导师，引导孩子发现心智的伟大；台湾母亲像儒家式的导师，引导孩子修养[[Learning Virtues|学习美德]]([[Argument_Li_2012_Cambridge|Li, 2012, p.278–282]])。差异不在于是否存在社会化，而在于社会化的内容——即用什么框架认知学习、引导什么情感体验学习。
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 认知社会化（Cognitive Socialization）的双文化差异：
 
 **欧美母亲的认知社会化**聚焦于心智维度([[Argument_Li_2012_Cambridge|Li, 2012, p.248–259]])：

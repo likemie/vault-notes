@@ -69,11 +69,7 @@ created: 2026-05-11
 updated: 2026-10-22
 ---
 
-# Academic Ranking of World Universities
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 世界大学学术排名（Academic Ranking of World Universities, ARWU）是全球首个多国综合性大学量化排名系统，标志着高等教育机构评价从国家内部行政管理向全球跨境竞争[[Champ|场域]]的历史性拓展，奠定了以硬科学研究产出与极端精英奖项为核心基准的全球高等教育估值[[Paradigm|范式]]。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 130–131)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 > - **直接触发契机** 各国既有大学评价系统普遍局限于本国国界且深受主观声誉[[Questionnaire|问卷]]争议影响，缺乏基于公开可验证科研硬数据的跨国横向比较工具。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 130–131)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
 > - **2003 年 — 创制与首次发布**
@@ -100,16 +94,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] ARWU 纳入门槛与评选标准声明
 > 排名系统考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术成果的大学。此外，拥有大量被科学引文索引扩展版（SCIE）与社会科学引文索引（SSCI）收录成果的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 >
 > *The ranking considers every university that has any Nobel Laureates, Fields Medalists, Highly Cited Researchers, or papers published in Nature or Science. In addition, universities with a significant amount of papers indexed by Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) are also included.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **指标创制与量化评估倡导者** 上海交通大学研制团队与量化计量学界 — 坚持以透明、第三方可审计的文献计量与学术顶尖奖项打破传统高等教育声誉网络中的主观偏见与封闭黑箱。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 130–131)]]
@@ -131,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与治理同构** 催生全球高等教育治理的[[Academic Capitalism|学术资本主义]]与企业化转向，促使各国出台专项拔尖工程（如德国卓越大学计划、中国“双一流”建设、法国大学重组合并联盟）以对标指标。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 131–134)]]
 > - **科研评价与学科分化** 极大强化了自然科学与生命科学的资源倾斜度，导致人文社科研究与非英语本土学术成果在高校内部资源竞争中处于次级边缘地位。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–133)]]
@@ -151,8 +139,6 @@ updated: 2026-10-22
 > - **0** （席入围） 南欧国家（如西班牙）在榜单前列长期彻底缺席，暴露出均质[[Comprehensive Education|综合教育]]体制与地方保护壁垒掩盖下的实质科研赤字。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

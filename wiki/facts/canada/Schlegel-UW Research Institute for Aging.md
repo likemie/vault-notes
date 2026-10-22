@@ -38,8 +38,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Schlegel-UW Research Institute for Aging
-
 > [!info] 背景
 > Schlegel-UW 老龄化研究所（Schlegel-UW Research Institute for Aging，简称 RIA）是滑铁卢大学与 Schlegel Villages（安大略省最大的营利性退休生活网络）于 2005 年合作建立的大型跨学科[[University-Industry Collaboration\|产学合作]]研究机构。RIA 的总目标是"改变加拿大老龄化的方式"（changing the way we age in Canada），通过生成和动员新知识与新技术，应对老龄化在身体、社会、情感和心理层面的多维挑战([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, pp.251–252]])。
 

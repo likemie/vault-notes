@@ -67,13 +67,9 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Pluri-Scalar Governance
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 全球化时代教育公共领域在空间维度、权力主体与制度功能上的跨国重组机制，尤其是跨国服务贸易规则（如[[World Trade Organization|世贸组织]]《[[GATS and Trade in Education Services|服务贸易总协定]]》）以及跨国营利性教育服务财团对传统民族[[State Educational Sovereignty|国家教育权]]力的渗透与再领土化（Re-territorialization）过程。[[Argument_Arnove_2009_WorldSystems|(Robertson, Bonal, & Dale, 2002, cited in Arnove, 2009, pp. 110–111)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 > - **理论问题** 传统比较教育学长期将[[Unit of Analysis|分析单位]]锚定于民族国家容器，预设[[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）为主权国家间单向、双边的制度模仿（如 19 世纪巴西对法国大学校的模仿，Cowen & Figueiredo, 1992）；多标度治理框架旨在打破这一“[[Methodological Nationalism|方法论民族主义]]”（Methodological Nationalism）假定，揭示超国家经贸规约、多国私营教育财团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|诺德安达]]）与次国家行动者如何交织构成纵向穿透疆界的多标度网络，重组公共教育的治理权威（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）。
 > - **理论类型** 空间[[Educational Governance Framework|治理分析框架]]（Spatial Governance [[Analytic Framework]]）、批判政治经济学解释理论。
@@ -84,15 +80,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）、哈维尔·博纳尔（Xavier Bonal）与[[Roger Dale|罗杰·戴尔]]（Roger Dale）于 2002 年在《比较教育评论》（*Comparative Education Review*）发表奠基性专论《[[GATS and Trade in Education Services|GATS]] 与教育服务产业：标度政治与全球再领土化》（*GATS and the Education Service Industry: The Politics of Scale and Global Re-territorialization*）。
 > - **原初问题** 1995 年[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）成立并正式生效《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS），首次将教育明确界定为可跨国交易的商业服务部门；学界面临核心理论谜题：跨国贸易规则如何穿透国家主权边界？原本由国家统合的“公共教育”正在被分解重组为什么样的新形态？
 > - **理论资源与材料** 批判性吸纳了人文地理学关于标度生产（Production of Scale）与空间修复的理论（Harvey, 1989; Smith, 1992）、[[Bob Jessop|鲍勃·杰索普]]关于国家标度相对化（Relativisation of Scale）与去国家化（Destatisation）的策略关系分析，以及 WTO 乌拉圭回合谈判文本、GATS 服务部门分类表与各国教育服务开放承诺表。
 > - **形成路径** 打破传统的“自上而下 vs 自下而上”简单二分法，将教育治理活动分解为筹资、产权、供给、规约四个基本功能，并将治理实体由单一政府扩展为国家、市场、社区与家庭，从而构建起“标度 × 实体 × 活动”的三维立方体分析矩阵。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演变与扩展
 > - **1999 — [[Globally Structured Agenda for Education|全球结构化议程]]奠基** 罗杰·戴尔（Dale, 1999）提出全球结构化教育议程（GSAE），确立全球化通过强加、协调与渗透等非传统机制影响国家政策，奠定了超越国家容器的治理问题域。
@@ -114,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜超国家经贸规制通过多标度空间重组穿透并解构传统[[State Educational Sovereignty|国家教育主权]]
 > **解释** 传统民族国家的现代性神话在于将教育的经费筹措、产权所有、学校供给与质量监管完全统合于单一国家主权空间之内。[[World Trade Organization|WTO]] 与 [[GATS and Trade in Education Services|GATS]] 等超国家多标度机制彻底打破了这一封闭状态：通过界定跨境交付、境外消费、商业存在与自然人流动四种服务贸易模式，致力于消除教育服务流通的边境壁垒、推行学位证书跨国互认与教育商品化。这导致教育公共领域在产权、提供和监管活动上面临四分五裂的解构，原本完全由国家垄断的教育主权被重新分配给超国家仲裁机制与跨国私人市场。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
@@ -131,8 +121,6 @@ updated: 2026-10-22
 >
 > **应用实例** 牙买加等加勒比小国签署 GATS 协定后，由于本国缺乏具有国际竞争力的教育服务可以输出，反而导致国内高等教育与职业培训市场被跨国营利机构迅速占领；受制于 WTO 国民待遇与市场准入条款，牙买加政府无法通过定向财政补贴优先扶持本国脆弱的公立大学，深陷教育主权外流与公共预算恶化的双重困境。
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -141,8 +129,6 @@ updated: 2026-10-22
 > | **中心-边缘非对称鸿沟命题** | 超国家规约再生产中心-边缘依附，大国掌握战略杠杆而弱小国家丧失调控自主 | 发展中国家[[Structural Adjustment Programs\|结构调整]]、外债危机国[[Educational Privatisation\|教育私有化]]评估 | [[Robert Arnove\|Arnove]]; Wallerstein (1974) |
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 适合解释跨国经贸协定、国际多边机构贷款或跨国办学如何重塑特定国家与地区的教育公共政策格局。
@@ -158,8 +144,6 @@ updated: 2026-10-22
 > | **国家标度<br>National** | 中央政府、国家教育部、国家司法机关 | **规约（Regulation）**<br>**筹资（Funding）** | 制定外资办学准入条例、划定义务教育保护红线、向公立学校拨付财政转移支付 | 国家保留战略协调与主权监管权威，充当连接超国家规则与本土实践的枢纽；若国家放弃筹资责任，退缩为审计监督者。 |
 > | **次国家/地方标度<br>Subnational** | 省州政府、地方学区自治体、市立大学委员会 | **服务提供（Provision）**<br>**筹资（Funding）** | 地方学区引进外资特许学校（Charter Schools）、跨国企业参与本地职业教育供给 | 若地方政府因财政紧缩直接与跨国资本签约，绕过国家监管，表明次国家标度成为资本落地的主要承载空间。 |
 > | **跨实体/市场网络<br>Trans-institutional / Market** | 跨国营利性教育管理集团（如 [[GEMS Education\|GEMS]]、[[Nord Anglia Education\|诺德安达]] Nord Anglia）、非政府组织（NGOs）、社区与家庭 | **产权（Ownership）**<br>**提供（Provision）**<br>**咨询（Advisory）** | 跨国集团拥有并连锁运营多国私立学校（如 GEMS 在 7 国运营 65 所国际学校）、承接公共服务外包（如诺德安达承接英国学校督导与学区管理），并直接向多国政府提供政策咨询（[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b, p. 344]]） | 产权所有与服务提供大幅脱离公有体制，进入市场资本交换[[Champ\|场域]]，并反向输入超国家与国家政策议程。 |
-
-### 整体分析示例
 
 > [!exegesis]- 发展中国家高等教育跨境服务贸易准入分析
 > - **现象与问题** 某发展中国家在加入区域自贸协定后，大量外国营利性私立大学以合作办学名义涌入，造成本土公立大学生源流失与学费飞涨，政府面临主权侵蚀与教育不公的社会批评。
@@ -179,8 +163,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能单凭超国家协定的签署直接判定[[State Educational Sovereignty|国家教育主权]]已被架空，必须结合三维矩阵核查国家在筹资、产权与规约上的实际控制力。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

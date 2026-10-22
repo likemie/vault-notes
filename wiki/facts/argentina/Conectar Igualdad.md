@@ -35,8 +35,6 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Conectar Igualdad
-
 ---
 
 > [!info] 定义

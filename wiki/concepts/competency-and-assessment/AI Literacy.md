@@ -72,12 +72,9 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# AI Literacy
 （人工智能素养）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 人工智能素养（AI Literacy）是指个体理解人工智能（AI）的基本工作原理、能力边界、概率生成机制与社会伦理影响，能够在学习、工作与日常生活中负责任地使用智能工具，将其作为**放大（Amplify）人类认知与[[Creativity\|创造力]]** 的协同[[Scaffolding\|脚手架]]，并在算法生成的表面语义流畅性面前维持 **[[Epistemological Vigilance\|认识论警觉]]**，坚守不将独立思考与[[Critical Thinking\|批判性思维]]盲目外包（Outsource）的综合素养与行动胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–13)]]
@@ -104,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 人工智能素养与相关数字素养[[Construct\|构念]]对比
 > | 比较维度 | **人工智能素养（AI Literacy）** | **[[Computational Thinking\|计算思维]]（Computational Thinking）** | **[[Data Literacy\|数据素养]]（Data Literacy）** | **传统数字素养（Digital Literacy）** |
 > |---|---|---|---|---|
@@ -116,8 +111,6 @@ updated: 2026-10-22
 > | **核心育人目标** | 维护人类认知主体性，防止[[Higher-Order Thinking Skills\|高阶思维]]外包退化 | 培养基于计算逻辑的形式化[[Problem Solving\|问题解决]]胜任力 | 培养基于数据的实证决策与量化批判意识 | 具备适应数字化社会生活的基本数字工具操作力 |
 
 ---
-
-## 核心要素
 
 > [!feature] 人工智能素养的四维[[Construct\|构念]]框架（Ng et al., 2021; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026]]; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > - **技术认知与机制理解（Knowing & Understanding AI）** 把握大语言模型等算法的概率预测本质、训练数据集依赖性、生成幻觉（Hallucination）与黑箱特性，建立对智能系统能力的合理预期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
@@ -194,8 +187,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
@@ -206,8 +197,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **2000 年代初 — 计算机与信息素养（ICT Literacy）** 聚焦计算机基本硬件操作、办公软件使用与互联网信息检索技能。
 > - **2010 年代 — [[Computational Thinking\|计算思维]]与编程教育（Computational Thinking）** 强调逻辑抽象、算法分解、模式识别与代码编程能力的普及。
@@ -216,8 +205,6 @@ updated: 2026-10-22
 > - **2026 年 — [[Epistemic Practices\|认识论实践]]转向与[[Evaluative Judgement\|评价性判断]]融合** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 批判将人工智能素养简化为提示词操作或合规防弊的狭隘倾向，提出将其与学科[[Epistemic Ideals\|认识论标准]]、评价性判断及[[Feedback Literacy\|反馈素养]]深度整合，确立将模型输出作为探究对象、对最终结论承担实质责任的批判性素养[[Paradigm\|范式]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -244,8 +231,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -255,8 +240,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | AI 素养培训、[[Reflexivity\|反思性]]支架、过度依赖、批判与[[Creativity\|创造性思维]]共现 | 21 项研究确立显性 AI 素养培训与教学支架是实现高阶思维增益的前提；缺乏培训的学生在 20 项研究中表现出严重依赖与构想被动；SEM 检验表明被动工具调用显著负向预测批判反思（$\beta = -0.34$） | $p < .001$ | 证实 AI 素养与[[Scaffolding\|教学支架]]是决定人机交互走向思维协同增益还是认知侵蚀的核心调节变量 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学与干预案例
 > - **英国皇家学会跨学科 AI 与科学探究融合大纲（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026]]）**
@@ -272,8 +255,6 @@ updated: 2026-10-22
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 批判将人工智能素养窄化为操作技巧的工具论偏向，系统阐述将算法输出作为探究对象并融合[[Evaluative Judgement\|评价性判断]]与[[Feedback Literacy\|反馈素养]]的[[Epistemology\|认识论]]重构路径。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

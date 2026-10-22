@@ -56,11 +56,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-# Wolfgang Klafki
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国教育学家，马尔堡大学（University of Marburg）教授，德国批判建设性教学论（Critical-constructive [[Didaktik]]）和范畴教育学（Categorical [[Bildung]]）的领军人物。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950s–1960s — 经典教育论教学论与范畴教育学阶段（Bildungstheoretische [[Didaktik]]）**
 >   - **核心著作** *Das pädagogische Problem des Elementaren und die Theorie der kategorialen [[Bildung]]* (1957), *Studien zur Bildungstheorie und Didaktik* (1963).
@@ -103,9 +97,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育面对的是一个本质上不可预知且开放的未来（Open Future），政策制定者与教师无法预测未来学生所需要的具体知识。因此，教育绝不能矮化为对既有科学知识的狭窄传递，而必须围绕[[Epochal Key Problems|时代关键问题]]来规划课程，培养学生批判（Critique）、论证（Argumentation）与共情（Empathy）的能动性，使其在继承人类知识传统（[[Disciplina and Doctrina|disciplina]]）的同时，具备反思、质疑与变革现状（doctrina）的能力。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
 > [!citation-card] 知识的深入参与与批判性探究
@@ -115,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 通过提出“批判建设性教学论”，将[[Critical Theory|批判理论]]（Critical Theory）引入传统的德国[[Geisteswissenschaften|精神科学]]教学论，使教学论成为反思社会结构和个体解放的工具。此外，他发展了早期的能力/素养模型（由自我决定、共同决定和团结能力组成），在德语教育学中具有开拓性。
 > - **方法路径** 提供了一种在尊重学科体系完整性的同时进行跨学科整合的课程选择与教学规划分析标准。主持了著名的**马尔堡小学项目（Marburger Grundschulprojekt，1972年起）**，推动常识课（Sachunterricht）中整合性课程项目与[[Action Research|行动研究]]（Handlungsforschung）的开发。
 > - **政策路径** 在德国国内，深度参与了黑森州课程指南（Hessischen Richtlinien）和北莱茵-威斯特法伦州（NRW）教育委员会报告的起草；其课程思想也为芬兰的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）政策奠定了核心的哲学基础。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 6–7, 10]]
@@ -140,8 +130,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** [[OECD]] / [[PISA]] — 国际新自由主义治理的代表。其推行的“21 世纪技能”话语将复杂时代议题降格为孤立的可测性技能，造成[[Atomisation of Knowledge and Skills|知识与技能原子化]]（Atomisation of Skills），与 Klafki 主张的面向开放未来的整体性、价值性 Allgemeinbildung 传统形成正面冲突。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

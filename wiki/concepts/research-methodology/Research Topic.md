@@ -41,11 +41,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Research Topic
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 研究主题（research topic）是计划研究的主题或题材，用几个词或短语描述，如"教师教学""组织[[Creativity\|创造力]]"或"心理压力"。研究主题是研究要了解或探索的核心想法，也是后续[[Literature Review\|文献综述]]的出发点（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
@@ -135,11 +131,7 @@ updated: 2026-10-22
 
 ---
 
-## 围绕概念形成的命题
-
-### 原创性不等于贡献
-
-> [!claim|lead] 原创性不等于贡献
+> [!claim] 原创性不等于贡献
 > [[Research Contribution\|研究贡献]]不同于原创性：研究必须是原创的、重要的、非琐碎的、相关的、适时的、对更广泛受众有趣且能推进领域前进的。但仅凭原创数据和原创课题是不够的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
 两个反面案例可以说明这一区分：研究马达加斯加16岁学生使用某教科书的情况产生了原创数据，但无法帮助其他教育工作者；研究阿伯丁小学儿童的午餐时间偏好产生了原创数据，但无人在意。两个案例的共同诊断是：研究只产生了原创数据，仅此而已。研究需要超越这一点，选择一个重要的课题，真正为理解和实践做出重要贡献（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。

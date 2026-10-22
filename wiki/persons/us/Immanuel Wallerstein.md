@@ -60,11 +60,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Immanuel Wallerstein
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国历史社会学家、国际政治经济学家与新马克思主义理论家；曾任国际社会学学会（[[International Schools Association|ISA]]）主席（1994–1998）、纽约州立大学宾汉姆顿分校费尔南·布罗代尔经济、历史体系与文明研究中心主任，以及耶鲁大学资深高级研究学者。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960 年代 — 非洲实地考察与反思[[Developmentalism|发展主义]]** 深入西非考察去殖民化运动，发现边缘国家不发达的根源绝非技术或资本的内部暂时匮乏，而是长期卷入欧美中心国家主导的不等价贸易交换的结果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
 >   - **代表成果** 博士论文与非洲民族独立专著。
@@ -104,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代世界中唯一真正的社会系统是作为一个不可分割的整体运作的资本主义世界经济体。它建立在中心、半边缘与边缘的不平等国际分工与剩余价值流动之上；任何将民族国家视为自给自足独立实体的现代化研究均陷入了“[[Methodological Nationalism|方法论民族主义]]”的[[Epistemology|认识论]]盲区。教育体系在历史上和现实中始终服务于资本积累与劳动分工，国际援助机构的改革本质上是维系既有分层秩序的政治机制；唯有把握体系的长时段危机与自下而上的基层团结，才能实现教育与社会的真正正义。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106, 114–115)]]
 
 > [!citation-card] 资本主义世界经济体作为唯一自足[[Unit of Analysis|分析单位]]
@@ -116,9 +108,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 深刻影响了新马克思主义政治经济学、[[Dependency Theory|依附理论]]与发展社会学；在比较教育学中，[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980）将其系统引入，开辟了与[[Stanford School|斯坦福学派]]世界文化论正面对峙的“现实主义[[World-Systems Theory|世界体系分析]]”传统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
 > - **方法路径** 倡导“长时段历史分析”与跨国宏微观贯通，促使比较教育研究打破单一国家容器（[[Methodological Nationalism|方法论民族主义]]），将微观学校[[Ethnography|民族志]]与全球资本分工机制相结合。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 106–107)]]
 > - **政策与机构批判** 为解构[[World Bank|世界银行]]、[[International Monetary Fund|IMF]] 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器，揭示外部援助固化依附性分层的实质。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）跨国转向中，评述沃勒斯坦现代[[World-Systems Theory|世界体系理论]]为比较教育学打破功能主义现代化迷思提供了宏观结构基石，同时反思该阶段宏观批判与学科“[[Historical Amnesia|历史健忘症]]”并存的历史学悖论。
 
 ---
-
-## 历史评价
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论沃勒斯坦长时段动态历史观与体系维度
 > 沃勒斯坦的[[World-Systems Theory|世界体系分析]]为比较教育学者提供了同时把握历史情境个殊性与宏观普遍规律的关键工具；他通过考察漫长的 16 世纪资本主义世界经济起源，弥合了具体历史叙事与系统规律分析的深层裂隙。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
@@ -150,8 +138,6 @@ updated: 2026-10-22
 > - **学术论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — [[Stanford School|斯坦福学派]]新制度主义领袖，主张普世理性[[Cultural Models|文化模型]]自发趋同，被沃勒斯坦学派批评掩盖资本积累剥削与阶层不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

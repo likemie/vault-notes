@@ -56,11 +56,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Lee Kuan Yew
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 新加坡政治家、律师、建国总理（1959–1990 年在任），随后历任新加坡内阁资政与高级资政；亚洲乃至全球务实公共治理与国家能力建构的标志性领袖。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 治国思想演进历程
 > - **1965–1970年代 — 千年存续视野与多族群国家建构** 面对独立初期的地缘脆弱性与资源匮乏，确立以千年期时间尺度思考国家生存的执政意志；突破自由放任教条，在土地、住房与基础设施中强化国家能动性。
 >   - **代表文献** 1965 年酒商公会建国演说；1979 年双语教育改革指令。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
@@ -108,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 国家建构与文明存续无法依赖被动放任与价值虚无的[[Cosmopolitanism|世界主义]]，必须依托兼具千年期战略视野与决断力的卓越领导力；在制度上建立对标私营市场的务实激励，破除公职禁欲主义；在文化上果断塑造跨越族群割裂的共享语言与公民身份；在伦理上倡导兼顾家庭责任与国家忠诚的儒家[[Junzi|君子]]美德，为现代高科技共和国奠定坚实的制度与精神基业。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
 > [!citation-card] 千年视野下的国家生存意志
@@ -135,9 +127,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **公共管理与国家治理能力路径** 为全球公共部门薪酬改革与反腐治理提供了独树一帜的亚洲[[Paradigm|范式]]，打破了将低薪清廉视为理所当然的道德教条，证明市场化激励与精英治理可以高效融合。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **国家建构与[[Great Man Theory|伟人理论]]验证路径** [[Henry Kissinger|亨利·基辛格]]指出李光耀的执政为“究竟是客观环境还是领袖性格塑造历史”的古老争论画上了句号；成为卡普与扎米斯卡批判西方解构英雄主义与国家认同的核心历史参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–198)]]
 > - **[[Technological Republic|技术共和国]]文化与实质德性重构路径** 成为卡普与扎米斯卡反思西方形式[[Value Neutrality|价值中立]]（Rawlsian Neutrality）与空洞功利主义（Peter Singer）、呼吁重构实质文化特质与共有德性的关键思想参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–218)]]
@@ -146,8 +136,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 深度解析李光耀 1994 年文官薪酬白皮书（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Ch. 16]]）、千年战略视野与国家认同塑造（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Ch. 17]]），以及儒家[[Junzi|君子]]德性建构（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Ch. 18]]）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] [[Henry Kissinger|基辛格]]论李光耀对历史塑造的决定性贡献
 > 李光耀的领导为究竟是客观环境还是领袖性格塑造历史这一古老争论画上了句号；李光耀以非凡的远见与钢铁意志，将一个资源匮乏的脆弱岛屿铸就为第一世界国家。（p. 198）
@@ -163,8 +151,6 @@ updated: 2026-10-22
 > - **所属政党与政府机构** 人民行动党（People's Action Party, PAP）、新加坡内阁。
 
 ---
-
-## 争议与批评
 
 > [!debates] 围绕李光耀治国模式的理论争议
 >

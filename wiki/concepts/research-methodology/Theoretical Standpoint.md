@@ -42,11 +42,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Theoretical Standpoint
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 理论立场（theoretical standpoint）是[[Qualitative Research\|质性研究]]中运用理论的一种方式：研究者以某一[[Theoretical Perspective\|理论视角]]作为整体导向透镜（orienting lens），围绕性别、阶级、种族或其他边缘群体议题来塑造研究。这一视角成为变革性视角（transformative perspective），旨在带来改变、提升未被充分代表群体的声音、揭示个体隐藏的假设。它塑造所提出的问题，指导数据如何被收集和分析，并提供行动或变革的呼吁([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.65]])。
 
 > [!quote|notitle]
@@ -70,9 +66,7 @@ updated: 2026-10-22
 > [!tip] 理论基础
 > Rossman and Rallis (2012) 概括了质性探究中批判视角和后现代视角的核心主张：（1）研究本质涉及权力问题；（2）研究报告并非透明，而是由具有种族、性别、阶级和政治取向的个体所撰写；（3）种族、阶级和性别（以及性取向、身体状况、第一语言等）对理解经验至关重要；（4）历史上，传统研究压制了受压迫和边缘化群体的声音（p.91）。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **理论立场 vs [[Theoretical End Point\|理论终点]]** 理论立场在研究开始时引入，作为观察和解释的框架；理论终点在研究结束时生成，是从数据中归纳产生的理论或概括。前者是"用理论来看"，后者是"从数据中生成理论"。
 
 > [!example|notitle]

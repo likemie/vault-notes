@@ -58,11 +58,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Education Going Global
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育出海（Education Going Global，或称教育走出去、跨境教育出海）是指一国教育系统在国家战略统筹下，主动向境外延伸办学实体、输出课程与专业标准、构建跨国学术联盟，并以此支撑国家对外经贸合作与[[Geopolitics|地缘政治]]布局的体系化实践。在中国语境下，该概念主要表现为依托《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，推动[[Research Universities|研究型大学]]建设[[International Branch Campus|海外分校]]并联合攻关前沿科技、推动职业院校伴随大型工业基建出海开展技能培训，以及依托专项国家奖学金定向吸引沿线青年精英流动。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680, 684–687)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 > | **[[Geopolitics\|地缘政治]]功能** | 投射发展经验、争夺国际[[Discourse\|话语]]权与[[People-to-People Connectivity\|民心相通]] | 促进多元文化交流与世界公民素养 | 巩固英语核心圈的[[Hegemony\|文化霸权]]与经济收益 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **[[Research Universities|研究型大学]]尖端科技协同出海** [[Research Universities|研究型大学]]通过在海外建立实体分校（如厦门大学马来西亚分校）与跨国科研联合实验室，围绕高新技术领域开展协同攻关，服务国家科技战略。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685–686)]]
@@ -143,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,8 +152,6 @@ updated: 2026-10-22
 > - **2020年至今 — 地缘阵痛与调整阶段** 受到中美科技博弈加剧、西方学术安全审查收紧与[[Fudan University Budapest Campus|复旦大学布达佩斯分校事件]]等在地草根抵制的影响，教育出海转向防范主权与债务风险、注重本土民意受纳度的谨慎推进轨道。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -179,8 +169,6 @@ updated: 2026-10-22
 > 该概念高度植根于中国特色社会主义新型举国体制与发展型国家跨国合作[[Paradigm|范式]]，在解释缺乏强国家资助意愿、纯粹遵循自由市场与大学自治传统的西方跨国高教办学现象时解释力受限。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

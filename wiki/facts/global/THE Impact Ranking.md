@@ -34,17 +34,14 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# THE Impact Ranking
-
 ---
 
 > [!info] 背景
 > 在以往国际大学排名主要基于研究产出、声誉和教学指标的背景下，2019 年 Times Higher Education (THE) 推出了世界上首个以[[UN Sustainable Development Goals\|联合国可持续发展目标]] (SDGs) 为基础的全球大学影响力排名 (THE Impact Ranking)。这一排名的推出标志着大学评价逻辑的一个显著转向——从仅衡量学术卓越转向衡量大学对解决紧迫社会问题的贡献（Watermeyer, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.143]]）。此举与各国研究评估体系中对社会影响日益增长的重视趋势相呼应([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.146–147]])。
 
 ---
-## 政策文本摘要
 
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > THE Impact Ranking 的核心特征([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.147]])：
 > - 衡量大学对 17 项 [[UN Sustainable Development Goals\|SDGs]] 的贡献，涵盖性别平等、气候行动、可持续城市和社区等领域。
 > - 指标包括：大学的[[Academic Freedom\|学术自由]]政策、安全雇佣合同的使用、高级女性学术人员的比例等。

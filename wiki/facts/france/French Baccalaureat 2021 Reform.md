@@ -39,11 +39,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# French Baccalaureat 2021 Reform
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2018 年由法国国民教育部颁布法令，于 2021 年起在全法国高中毕业会考（Baccalauréat）中全面正式实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
@@ -52,8 +48,6 @@ updated: 2026-10-22
 > - **制度位置** 法国拿破仑时代创立会考制度以来最为深刻的一次现代化评价重构。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法国[[Gaokao\|高考]]改革打破“单一终结性考试决定命运”传统，确立平时过程性评价（40%）与期末统考（60%）双轨结构，并增设由考生自主选定跨学科课题、面对专家委员会现场答辩 20 分钟的标志性“大口试（Grand Oral）”。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
@@ -66,16 +60,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2018 法国国民教育部正式发布高中会考改革法案，启动高中课程方案与选科模式重构。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
 > - 2019–2020 开展大口试评分准则研制、考官培训与全法模拟测试。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
 > - 2021 新版 Baccalauréat 正式全面施测，首批数十万法国高中生完成 Grand Oral 现场答辩。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 法国国民教育部。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]

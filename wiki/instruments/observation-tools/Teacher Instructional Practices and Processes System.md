@@ -49,11 +49,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Teacher Instructional Practices and Processes System
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Teacher Instructional Practices and Processes System (TIPPS)
 > - **工具类型** 低资源与危机情境课堂外部[[Classroom Observation|教学观察]]量规（observation-tool）。
@@ -80,14 +76,10 @@ TIPPS 将复杂弱势情境下的教学互动解构为三大核心支柱领域�
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 19 项微观教学过程行为指标，配有低资源课堂（如简易棚屋、无电力设施）的专门情境描述符。
 > - **作答格式** 双轨打分制：同时记录特定行为发生的频次范围与质性表现等级（1 = 低效/未发生，3 = 典范）。
 > - **反向题与跳题** 无跳题；在严苛环境下若某类教具不存在，观察重点转向教师利用自然环境开展教学的替代能力。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] TIPPS 核心观察指标重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -112,8 +104,6 @@ TIPPS 将复杂弱势情境下的教学互动解构为三大核心支柱领域�
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | TIPPS 小学版 | 作为[[World Bank\|世行]] Teach 初始 43 要素筛选的国际代表性工具之一；林赛·布朗参与世行技术咨询 | 检验其在发展中国家跨文化情境下的适用性与观察员认知负荷 | TIPPS 强调的情感支持、消除性别偏见及低资源下启发思维的思路被深度整合进 Teach 框架；但其“频次+质量双重打分”导致本土观察员认知超载的实测教训促使世行转为单纯质量评定。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

@@ -78,7 +78,6 @@ citation_aliases:
   - "Pellegrini & Vivanet, 2021"
   - "Pellegrini & Vivanet (2021)"
 ---
-# Argument_Pellegrini_2021_ECNUROE
 
 > [!info] [[Research Question\|研究问题]]
 > 欧洲教育政策中，[[Research Utilization\|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives\|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 [[Every Student Succeeds Act\|ESSA]] 式[[Evidence Standards\|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform\|证据本位改革]]？(pp.25-28)
@@ -94,8 +93,6 @@ citation_aliases:
 > - 方法：政策文件分析与[[Literature Review\|文献综述]]。
 > - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education\|证据本位教育]]领域关于政策、实践和证据文化的文献(p.25)。
 > - 分析对象：[[EU|欧盟]]和 Eurydice 网络成员国中促进[[Research Utilization\|证据使用]]的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
-
-## 论证结构
 
 > [!example] 核心论证
 > 论证可以拆成“欧洲已有政策意向 → 证据基础设施正在成形 → 但政策落地被三类结构性问题卡住”的链条。
@@ -137,9 +134,7 @@ citation_aliases:
 13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果(pp.40-41)。
 14. 因此，[[Evidence-Based Reform|证据本位改革]] 若要进入欧洲能力本位课程，就必须同时解决课程目标重写、目标指标化、有效评价工具、教师培训和多语言资源共享问题(p.41)。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > 1. [[EU|欧盟]]从 2006 年起逐步把[[Research Utilization\|证据使用]]纳入教育和培训政策[[Discourse|话语]]，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线(p.26)。
 > 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation\|EEF]]、[[Strategic School Improvement Fund\|SSIF]] and TLIF 等机制体现了研究生成、[[Knowledge Mediation\|知识中介]]和政策资助之间的连接(pp.31-33)。

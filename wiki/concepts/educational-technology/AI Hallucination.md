@@ -82,12 +82,9 @@ created: 2026-09-02
 updated: 2026-10-22
 ---
 
-# AI Hallucination
 （AI 幻觉 / 大模型幻觉）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > AI 幻觉（AI Hallucination / Machine Hallucination）是指大语言模型（LLM）与[[Generative Artificial Intelligence\|生成式人工智能]]系统在生成文本、代码或多模态内容时，**输出在语法与语调上极具连贯性、说服力与权威感，但在客观事实上纯属虚构、缺乏真实证据支撑、编造学术文献或在逻辑上自相矛盾的内容现象**。其根源在于自回归深度神经网络基于统计概率预测下一词（Next-Token Prediction）的生成机制，而非基于对真实物理世界与逻辑真理的符号表征。[[Argument_Li_2026_CEAI\|(Ji et al., 2023; Li et al., 2026, pp. 2, 6, 11)]]
@@ -128,9 +125,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **事实性虚构（Factual Hallucination）** 捏造历史事件、科学原理、地理常识或统计数据（如杜撰不存在的化学反应方程式）。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
 > - **引用性虚构（Source & Reference Fabrication）** 捏造格式极其规范但完全不存在的学术论文作者、DOI、期刊名与卷期号（学术写作中最普遍的幻觉形态）。[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, p. 11)]]
 > - **逻辑推理断裂（Logical & Deductive Inconsistency）** 在长文本推导或数学证明中，前言不搭后语，每一步看似合理但整体推论存在致命逻辑跳跃。[[Argument_Li_2026_CEAI\|(Urhan et al., 2024; Li et al., 2026, p. 7)]]
@@ -202,8 +197,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -212,8 +205,6 @@ updated: 2026-10-22
 > | **教学转化与认识跃迁** | 结构化查错与异己智能定位将幻觉转化为倒逼批判性思维与评价论演进的认知靶子 | 科学写作探究、统计推论决策、人文学科批判性读写 | Archila et al.; Li et al.; Zhao et al.; [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]; [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 概念演变脉络
 > - **2010 年代末 — 计算机视觉与自然语言初现** 幻觉概念最早用于描述深度神经网络在图像生成中出现的无意义伪影（[[Artefact\|artifacts]]）及神经机器翻译中的凭空添词。
@@ -224,8 +215,6 @@ updated: 2026-10-22
 > - **2026 年 — [[Alien Intelligence|异己智能]]定位与批判性防御规程确立** [[Argument_Smith_2026_SPE\|Smith (2026)]] 揭示大模型自信输出事实谬误的幻觉特征，提出将 AI 概念化为缺乏人类具身生活经验的“异己智能”，通过独立事实核查规程与思维步骤全外显构建防范成长性认识伤害的教学防线。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -243,8 +232,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -259,8 +246,6 @@ updated: 2026-10-22
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 156 项教育元分析（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，468 个数据点） | 大模型提取准确性与金标准仲裁评测（Gemini 2.5 Pro、[[General Purpose Technology\|GPT]]-4.1、GPT-o3） | [[Automated Data Extraction\|自动化数据提取]]中的事实幻觉与信息遗漏 | 在 55 项原文缺失对应统计量的元分析中，三大前沿 LLM 仅产生 3–4 例事实性幻觉（与人类专家的 3–4 例完全持平）；而信息遗漏更为普遍（LLM 遗漏 21–36 例 vs 专家 12–31 例） | $\text{ICC} = 0.96–0.97$（模型 vs 金标准） | 证实前沿 LLM 在严格提示词下事实性幻觉发生率极低，误差主要由长文本信息遗漏与多表累加疏漏驱动 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学应用案例
 > - **科学论文写作中的“AI 幻觉红队对抗测试”（Archila et al., 2024; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**

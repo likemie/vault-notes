@@ -67,11 +67,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Comparative History of Comparative Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 比较教育学的比较史（Comparative History of Comparative Education）是指将比较[[Analytic Framework\|分析框架]]、多元区域脉络与批判史学反思引入比较教育学（Comparative Education, CE）学科自身演变历程的[[Paradigm\|研究范式]]。它主张超越单一国别或英美中心主义的线性起源神话，将学科的制度化历程、元[[Epistemology\|认识论假设]]（Meta-Epistemic Assumptions）、跨国学术网络与被遮蔽的历史主体（包括女性学者与非西方地区经验）置于动态的比较视野中展开考察，以此揭示学科[[Knowledge Production\|知识生产]]的社会建构本质与历史偶联性[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–9)]]。
@@ -102,8 +98,6 @@ updated: 2026-10-22
 > | **学术功能与局限** | 破除西方中心与男性垄断，提供多元批判反思视野；依赖深度档案挖掘，面临资源匮乏挑战 | 为初建学科争取院系席位、科研资助与青年学者职业归属感；严重遮蔽历史复杂性 | 维系学科共同体的内部凝聚力；易导致思想盲从并推迟对理论断裂处的审视 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素与研究议程
 > - **隐蔽历史与档案的可见化（Making Unseen Histories Visible）** 开掘沉睡于大学与学术机构地下室中的私人通信、口述史料与制度档案，使长期被边缘化的历史主体（特别是女性学者如安·德赖兰 [Ann Dryland] 与哈廷盖夫人 [Madame Hattinguais]）在学科史中获得显影。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7, 9)]]
@@ -175,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -195,8 +187,6 @@ updated: 2026-10-22
 > - **2010年代至今 — 多中心、跨国网络与去殖民史学的深化** 学界进一步发掘女性学者（如安·德赖兰、哈廷盖夫人）与非西方教育思想家的档案文献，推动学科史从孤立的“伟人功勋志”全面转向全球[[Knowledge Production\|知识生产]]社会学与多维历史比较。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

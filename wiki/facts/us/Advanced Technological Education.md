@@ -43,11 +43,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Advanced Technological Education
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 先进技术教育计划（Advanced Technological Education, ATE）是由美国国会通过《科学与先进技术法案》（Scientific and Advanced-Technology Act of 1992, P.L. 102-476）授权设立、由国家科学基金会（[[National Science Foundation]], NSF）主持的旗舰级职业技术教育资助项目。该计划将两制两年制社区学院（Community Colleges）与技术学院确立为战略性科技[[Human Capital Theory|人力资本]]培养的核心载体，重点资助面向微电子制造、半导体设备维护、纳米技术与精密工程的高技能技术工人（Technicians）与工艺技师培育。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
@@ -59,8 +55,6 @@ updated: 2026-10-22
 > - **核心问题导向** 扭转美国本土半导体制造晶圆厂一线操作技师、真空设备维护师与超净间装配工严重短缺的用工荒，打破传统大学四年制本科教育脱离生产线实际机台运维的制度脱节。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33, 35)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 先进技术教育计划的核心干预假说在于：通过促成社区学院、四年制大学、行业龙头企业与劳工工会之间的紧密产教联合，推行基于真实机台实操与数字化仿真的可堆叠证书（Stackable Credentials）与[[Apprenticeship|学徒制]]，能够以极高的时间效益将退役军人与非传统学习者转化为合格的晶圆制造技师。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
@@ -78,16 +72,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1992–2000 — 立法奠基与体系搭建期** 国会法案生效，[[National Science Foundation|NSF]] 首次打破只资助[[Research Universities|研究型大学]]的传统惯例，向社区学院开辟专项资助渠道，确立了先进制造、电子与生物技术三大优先资助领域。
 > - **2001–2020 — 纳米与微电子专项中心扩展期** 资助成立宾夕法尼亚州立大学纳米技术教育中心（CNEU）等国家级标杆中心，开发微电子与纳米制造证书（MNCP）课程，在全美数十所社区学院铺开洁净室短期密集实训。
 > - **2021–至今 — [[CHIPS and Science Act|芯片法案]]驱动的规模化跃升期** 紧密衔接《芯片与科学法案》对本土晶圆制造扩产的劳动力需求，白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》明确将 ATE 计划作为全美微电子技术工人培养的核心抓手，大力推行数字化[[Computer Simulation|虚拟仿真]]教学与跨区域学分互认。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33, 35)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **项目管理与出资方（[[National Science Foundation|NSF]]）** 负责[[Total War|总体战]]略规划、年度指南编制、同行评审组织与绩效追踪审计。
@@ -101,8 +91,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对先进制程晶圆厂对极端洁净度与自动化派工软件的高阶要求，动态引入“无晶圆”数字化仿真与虚拟现实（VR）机台运维课程。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 32)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** [[National Science Foundation|NSF]] 历年立项资助资金总额、工业界企业配比赞助资金与捐赠设备价值。
@@ -120,8 +108,6 @@ updated: 2026-10-22
 > - **1** （单学期） 宾州州立等标杆中心将零基础学员培养为合格微纳制造设备操作员的最快集训周期。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 33)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与治理反思
 >

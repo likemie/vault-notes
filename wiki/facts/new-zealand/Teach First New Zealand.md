@@ -62,11 +62,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Teach First New Zealand
-
 ---
-
-## 计划定位与核心宗旨
 
 > [!claim] 核心定位
 > 新西兰先行者教育（Teach First New Zealand Ako Mātātupu, TFNZ）是 2011 年成立的独立注册教育慈善信托，作为全球先行者网络（Teach for All, TFA）的新西兰本土化实体，面向高[[Academic Achievement|学业表现]]的顶尖大学毕业生与职业转变专业人士，推行为期两年的基于就业的初级教师教育（[[Initial Teacher Training|Initial Teacher Education]], ITE）与领导力培养方案，专向低[[Socioeconomic Status|社会经济地位]]的公立学校输送师资。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 10, 53)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > - **法定宗旨与[[Discourse|话语]]表述** 短期目标是在弱势中学空缺岗位上派驻高素质青年人才，提供为期两年的浸入式教学服务；长期目标是“在教育界及跨行业全领域培育致力于消除教育不平等的领袖网络”。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 53)]]
 
 ---
-
-## 历史沿革与组织演化
 
 > [!org-evolution] 组织发展历程
 > - **2010–2012 年** **海外资本引入与可行性[[Incubation|孵化期]]**
@@ -105,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 运作机制与治理网络
-
 > [!actor-grid] 治理团队与领导网络
 > - **执行领导层** 联合创始人兼首席执行官肖恩·萨顿（Shaun Sutton）曾在英国接受 Teach First 师训并在 TFA 总部实习；副总监杰伊·奥尔纳特（Jay Allnutt）为前伦敦教师及 Teach First 英国副总监；团队吸纳了跨国律所、猎头咨询与商业公关资深人士。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 54)]]
 > - **受托人理事会（Trustees）** 呈现致密的政商跨界特征：董事会主席德博拉·乔治（Deborah George）为奥克兰[[Grammar School|文法学校]]（Auckland [[Grammar School]]）招生总监兼 InZone 教育基金会董事；受托人戴维·格洛弗（David Glover）为麦肯广告前全球创意总监兼商业咨询董事长；受托人伯娜丁·维斯特（Bernadine Vester）为 [[COMET Auckland|COMET]] 前首席执行官兼中学教师协会前副主席。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
@@ -118,8 +110,6 @@ updated: 2026-10-22
 > - **边学边教与学位授予** 在两年的教学周期内，学员通过晚间和假期修读奥克兰大学教育学研究生文凭课程，考核合格后取得正式注册教师资格。
 
 ---
-
-## 资金来源与赞助网络矩阵
 
 > [!table] 表一：Teach First New Zealand 赞助同盟分层矩阵与关键出资方
 > | 赞助层级（毛利命名） | 赞助级别性质 | 核心出资机构与代表性商业资本 |
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > | **全职受雇员工数（Employees）** | 3 人 | 7 人 | 8 人 | 10 人 |
 
 ---
-
-## 批判反思与制度争议
 
 > [!debates] 核心学术批判与政策交锋
 >

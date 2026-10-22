@@ -104,11 +104,8 @@ status: draft
 created: 2026-09-08
 updated: 2026-10-16
 ---
-# Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30
 
 ---
-
-#### 概念地图
 
 > [!knowledge-map] 第30章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_30_Concept_Map.jpg)
@@ -704,8 +701,6 @@ updated: 2026-10-16
 > - **透明性与[[Audit Trail\|审计追踪]]（Audit Trail）** 为确保研究符合内容分析与质性推论的可重复性与透明度标准，研究者须系统记录所有交互记录，建立完整的分析审计追踪链条：详细载明所用模型版本、核心提示词设计、温度参数、迭代修改记录以及人工校正的比例与分歧裁决标准。
 
 ---
-
-## 关键引用
 
 > [!citation-card] Krippendorff 论[[Content Analysis\|内容分析]]的推论本质
 > 内容分析是一种从文本（或其他有意义材料）向其使用语境作出可重复且有效推论的研究技术。其分析程序必须具备公开性与透明性。（30.2, p. 563）

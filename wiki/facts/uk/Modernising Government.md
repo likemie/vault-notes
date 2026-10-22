@@ -46,11 +46,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Modernising Government
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1999 年 3 月由英国内阁府（Cabinet Office）以政府白皮书形式正式发布 (Cabinet Office, 1999a, Cm 4310)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
@@ -59,8 +55,6 @@ updated: 2026-10-22
 > - **制度位置** 新工党执政治理转型的纲领性顶层设计，直接指导出台了 1999 年内阁府《21世纪专业化政策制定》 (Cabinet Office, 1999b)、2001 年《优良政策制定》 (Cabinet Office, 2001) 以及 2003 年财政部《[[The Green Book|绿皮书]]》修订版 (Cabinet Office, 2003a) 与 2011 年《品红皮书》 (Cabinet Office, 2011)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 白皮书将以证据为基础的决策（[[Evidence-Based Policy-Making]], EBPM）与何者有效（What Works）确立为施政核心原则，要求政府系统收集与利用科学实证研究证据，强制重大公共政策在推行前进行清晰的设计、先行试点（Piloting）与成效评估。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
@@ -78,16 +72,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1997 新工党执政初期提出务实治理理念与何者有效施政口号 (Blair, 1997)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
 > - 1999 英国内阁府正式发布《现代化政府》白皮书 (Cabinet Office, 1999a)，确立循证政策转型。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - 2003 英国财政部依据白皮书原则全面改版《[[The Green Book|绿皮书]]》 (Cabinet Office, 2003a)，确立法定成本效益与证据审查规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 英国内阁府（Cabinet Office）。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **确立长效[[Output-Oriented Governance|循证治理]]传统** 奠定了英国跨党派长期推崇[[Evidence-Based Policy-Making|循证政策制定]]的行政生态，并反向扩散至欧洲大陆 (Frey & Ledermann, 2010)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 344–345)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

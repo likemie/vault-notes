@@ -37,11 +37,7 @@ created: 2026-07-01
 updated: 2026-10-22
 ---
 
-# Academic Self-Concept
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学术自我概念（academic self-concept）是个体对自己学术能力的整体感知和评价，反映学生在多大程度上认为自己是有能力的、成功的学习者（Marsh, 1992）。它与实际[[Academic Achievement\|学业成绩]]交互影响——成绩塑造自我概念，自我概念又反过来影响学习动机、投入和后续[[Academic Achievement\|学业表现]]（Byrne & Worth-Gavin, 1996）。
@@ -53,16 +49,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 学术自我概念的关键特征
 > - **主观性** ASC 反映的是学生对自身能力的感知，与实际成绩之间既相关又存在系统性的高估或低估偏差。
 > - **双向因果** ASC 与[[Academic Achievement\|学业成就]]之间存在互惠效应（reciprocal effects）——成绩影响自我概念，自我概念也影响后续成绩。
 > - **[[Domain Specificity\|领域特异性]]** 与一般自尊不同，ASC 通常聚焦于学术领域，且可进一步分化为学科特定的自我概念（如数学自我概念、语言自我概念）。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

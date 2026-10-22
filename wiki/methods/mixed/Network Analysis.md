@@ -82,11 +82,7 @@ created: 2026-07-22
 updated: 2026-10-22
 ---
 
-# Network Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。在微观教育研究中，它用于诊断课堂人际互动与分布式认知；而在教育政策社会学与政治经济学视阈中（Ball, 2012; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），网络分析进一步发展为解构跨界[[Policy Network|政策网络]]、连锁董事（Interlocking Directorates）兼职与隐性私有化资本渗透的核心分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 关系实在论（Relational Realism）。认为社会现实是由相互联系的纽带构成的系统，整体网络具有超越个体属性之和的[[Emergence|涌现]]特征（Emergent Properties），与[[Complexity Theory|复杂性理论]]及分布式认知理论深度契合。
 > - **研究者角色** 兼具客观测度与质性解释：量化提取网络拓扑结构指标，结合田野[[Discourse|话语]]与访谈解释连接背后的学术互助、观点改进或资源交换意图。
@@ -120,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用研究规程
 > 1. **界定[[Research Question|研究问题]]与网络边界** 明确分析对象为班级探究共同体、学校教研网络还是跨国[[Educational Brokerage Agency|知识中介机构]]网络，采用名录列表法（Roster）或自由提名滚雪球法确定网络边界。
 > 2. **确定关系形式与内容维度** 明确连接的实质内容：观点回应、同行建议寻求、资源共享、政策咨询或情感支持；界定有向（Directed）或无向（Undirected）、二元（0/1）或赋权（Weighted）连接。
@@ -134,8 +126,6 @@ updated: 2026-10-22
 > 2. **两模投影至单模连锁董事网络（One-Mode Projection）** 将二分矩阵通过布尔矩阵相乘（$A \times A^T$ 或 $A^T \times A$）投影为行动者之间的共同兼任网络或组织之间的跨界连锁董事连线（Interlocking Directorates）。
 > 3. **旋转门拓扑与中介度分析** 利用 Gephi 或 UCINET 运行 ForceAtlas2 或 Fruchterman-Reingold 算法进行拓扑聚类，计算关键行动者的中介中心度与度数，识别横跨公立、商业与慈善三界的“旋转门”核心中介枢纽（[[Boundary Spanner|Boundary Spanners]]）。
 > 4. **批判政策质性[[Triangulation|三角互证]]** 结合商业合同文本、政策游说简报与商标特许授权协议，对网络拓扑所揭示的[[Structural Holes|结构洞]]与核心同盟进行制度政治经济学[[Rich and Thick Description|深描]]。
-
-### 量化分析与核心测度公式
 
 > [!formula-step] 公式步骤一　点度中心度（Degree Centrality）
 > $$C_D(n_i) = d(n_i) = \sum_{j=1}^{g} x_{ij}$$
@@ -172,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-## 分析维度与操作矩阵
-
 > [!table] 表一：教育研究中社会网络分析的多尺度操作矩阵
 > | 分析尺度 | 微观层次（课堂与探究群体） | 中观层次（学校与区域教研集群） | 宏观层次（跨国中介与政策治理网络） |
 > |:---|:---|:---|:---|
@@ -186,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 
 >   - 测度计算机支持的协作学习（CSCL）与课堂[[Theory of Knowledge|知识论]]坛（KF）中学生的分布式认知网络与跨组互动密度；[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903)]]
@@ -199,8 +185,6 @@ updated: 2026-10-22
 > - **不适合使用** 纯粹关注个体心理认知属性而脱离人际互动的实验心理学研究；样本规模极小（小于 5 人）难以形成拓扑结构的情境。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与反思
 > - **边界界定偏差（Boundary Specification Problem）** 人为划定网络边界极易切断跨界连接，导致边缘节点被误判为结构性孤立。
@@ -226,8 +210,6 @@ updated: 2026-10-22
 > | [[Educational Brokerage Agency]] | 研究应用对象 | 网络分析用于解析多国教育中介机构之间的横向协作与知识流转。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 运用社会网络分析（SNA）测算 22 名五年级学生在 15 个[[Theory of Knowledge|知识论]]坛视图中的发帖与回应互动，量化验证[[Reflective Structuration|反思性结构化]]消除了孤立节点并促成高密度分布式认知网络。

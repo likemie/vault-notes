@@ -55,12 +55,9 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Robert Glaser
 （罗伯特·格拉泽）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家、教学设计理论家，匹兹堡大学杰出教授，匹兹堡大学学习研究与发展中心（Learning Research and Development Center, LRDC）创办人。
@@ -88,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1960 — *Teaching Machines and Programmed Learning: A Source Book*** 系统梳理操作性条件反射原理在自动教学设备与分步程序教材中的应用，奠定行为工程学基础。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 4)]]
 > - **1962 — *Training Research and Education*** 阐述教学系统设计模型，将教学划分为教学目标、起点行为、教学程序与表现评价四大相互衔接的闭合模块。
@@ -98,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 格拉泽主张将教育实践改造为一门具有严密技术规范的教学工程学：教学的本质是引导学习者从“起点状态（Entering Behavior）”定向迁移至预设的“终点目标（Terminal Objectives）”；通过将学习任务切分为可操作的微小认知步骤，并在每个步骤中引入针对偏差的矫正性反馈，教学系统能够实现对学习绩效的高效调控。这一设计[[Paradigm|范式]]将专业教学界定为选择最优技术手段以解决确定性问题的工程实践，深刻体现了[[Donald A. Schön|唐纳德·舍恩]]（[[Donald A. Schön]]）所批判的[[Technical Rationality|技术理性]]（Technical Rationality）[[Epistemology|认识论]]特征。
 
 > [!citation-card] 教学过程作为状态转化的控制工程
@@ -116,8 +109,6 @@ updated: 2026-10-22
 > - **当代实证综合回响** [[John Hattie|哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中构建的可见教学回路（教师设定清晰目标 $\to$ 学生展示行为 $\to$ 教师提供矫正反馈）直接沿袭了格拉泽的模型，将复杂多维的育人实践窄化为可测量、可操纵的输入—输出链条。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 5)]]
 
 ---
-
-## 争议与评价
 
 > [!debates] 学术争议与反思
 >
@@ -135,16 +126,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键引用
-
 > [!citation-card] 思想史考证：[[John Hattie|哈蒂]]对格拉泽[[Behaviorism|行为主义]]模型的依附
 > 勒默尔（Rømer, 2019）认为哈蒂的理论根基是[[Constructivist Paradigm|建构主义]]，并将其与冯·格拉瑟斯费尔德联系起来。然而仔细核查哈蒂（Hattie, 1987）的[[Primary and Secondary Documents|原始文献]]可以证实，他所指的实际上是行为主义心理学代表人物罗伯特·格拉泽（Robert Glaser）。哈蒂将格拉泽的模型作为理解学生学习的理论基础，从而确立了其[[Technical Rationality|技术理性]]的源头。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 4)]]
 >
 > *Rømer connects Hattie to Glasersfeld and [[Radical Constructivism]]. However, Hattie refers to Robert Glaser, a prominent figure in behavioral psychology. Hattie uses Glaser's model as a theoretical basis for student learning, solidifying his foundation in technical rationality.*
 
 ---
-
-## 条目关联
 
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |

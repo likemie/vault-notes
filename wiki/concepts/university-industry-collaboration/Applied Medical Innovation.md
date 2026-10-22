@@ -35,11 +35,7 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Applied Medical Innovation
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 医用创新（Applied Medical Innovation, AMI）定义为"整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新"（p.175）。与纯粹的基础科学研究或单纯的工程技术开发不同，AMI 以临床患者需求为起点，以改善患者预后或患者体验为终点，要求跨学科知识、跨机构协作和从实验室到临床的全链条翻译能力。
 
 > [!quote|notitle]

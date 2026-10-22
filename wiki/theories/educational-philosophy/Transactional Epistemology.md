@@ -52,8 +52,6 @@ updated: 2026-10-22
 >
 > > "If we take experimentation seriously in our understanding of what knowledge is and how we can get it, we have to give up the spectator view of knowledge... and rather have to concede that the knowledge we can gain through experimentation is knowledge about relationships and, more specifically, about relationships between (our) actions and (their) consequences." ([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 494]])
 
-## 理论内部结构
-
 > [!abstract] 对比：表象[[Epistemology\|认识论]] vs. 交易认识论
 > | 维度 | 表象认识论 | 交易认识论 |
 > |------|----------|----------|
@@ -87,8 +85,6 @@ updated: 2026-10-22
 > [!info] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** [[Pragmatic Paradigm\|实用主义]] —— 超越现实主义/[[Constructivist Paradigm\|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
 > - **常用方法**[[Philosophical Analysis in Education\|哲学分析]]、概念分析
-
-## 争议与批评
 
 > [!warning] 相对主义指控
 > 如果知识只是"行动-后果关系的记录"([[Argument_Biesta_2010_SPE\|Biesta, 2010, p. 495]])，那么是否任何知识都没有比其他知识更"真"？交易[[Epistemology\|认识论]]是否削弱了区分"好证据"和"坏证据"的基础？

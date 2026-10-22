@@ -63,11 +63,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Evidence-Based School Development
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **循证学校发展（Evidence-Based School Development / 德语：Evidenzbasierte Schulentwicklung）**，亦称循证学校管理（Evidence-Based School Management），是指德语区在 2000 年代“[[PISA]] 冲击”后，依据各州教育部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|Kultusministerkonferenz]], KMK）于 2006 年确立的《国家教育监测综合战略》（[[Gesamtstrategie zum Bildungsmonitoring]]）及[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（SQA）等治理框架发展起来的新型学校治理与质量提升[[Paradigm\|范式]]（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 134]]；[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019, pp. 19–20]]）。该范式打破传统依靠经验直觉与细碎投入规制的官僚管理体制，赋予学校更多的路径自主权，要求校长与教师系统采集并解读标准化学生能力比较测评（[[Vergleichsarbeiten]], VERA）、外部学校评估与[[School Inspection\|学校督导]]诊断报告、校内诊断测评数据等多源实证证据，形成“现状诊断 ➔ 目标协商 ➔ 循证干预 ➔ 成效反馈”的校本质量持续改进机制。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 德国循证学校发展与英美数据驱动决策（DDDM）多维对照
 > | 维度 | 德国循证学校发展（Evidenzbasierte Schulentwicklung） | 英美数据驱动决策（[[Data-Based Decision Making\|数据本位决策（DBDM）]]） |
 > |---|---|---|
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | **改进机制** | 教师团队专业研讨、教研组目标协议与校本课程调整 | 目标管理责任制、应试策略强化、外部督导干预 |
 
 ---
-
-## 核心要素
 
 > [!feature] 循证学校发展的四大要素支柱
 > - **多源实证数据基础（Empirical Data Foundation）** 包括全州标准化测试（[[Vergleichsarbeiten\|VERA]]）、[[School Inspection\|外部学校督导]]评估报告、校本形成性测评以及学生家庭背景调查数据，形成立体化的学校质量图谱。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 134)]]
@@ -158,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -169,16 +159,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变与[[Paradigm\|范式]]演进
 > - **2000 年代初 — [[PISA]] 震荡与国家监测战略奠基** 2000 年首次 PISA 测评成绩落后引发震荡，德国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）于 2006 年正式发布《国家教育监测综合战略》，确立由国家教育标准、跨州比较测试（[[Vergleichsarbeiten\|VERA]]）、学校外部督导与国家教育报告构成的四位一体实证监测网络，倡导以数据反馈赋能单校自主改进。
 > - **2010 年代初 — 实践转化瓶颈与组织中介反思** 伴随大规模测试普及，学术界发现“数据丰富却见解贫乏”成为普遍困境；实证研究（如 Dormann & Dedering, 2014）指出监测数据在缺乏微观组织支持时极易引发教师防御抵触，促使理论焦点转向校长的[[Data Literacy\|数据素养]]与校本协同文化中介。
 > - **2010 年代中叶至今 — 目标协定制度化与行动者认同分化** 奥地利等德语区国家推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung\|SQA]]），将循证学校发展制度化为校长与督导部门之间的目标与成效协定对话；实证研究揭示校长分化为循证型、资源型与弱发展型三种典型取向，证实循证学校发展取决于一线领导者的微观认知把关与工时结构重塑（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理张力
 >
@@ -201,8 +187,6 @@ updated: 2026-10-22
 > > - **教师同行认同支持者** 认为校长削减[[Direct Instruction\|直接教学]]会脱离一线课堂实际，割裂与教师的专业信任，损害同侪领导力的道德权威。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 关键实证测量与治理态度参数
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -37,11 +37,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Shame (Confucianism)
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 耻（sense of shame, chi）是[[Confucius\|孔子]]所列四项超越特定关系的通用道德原则中的最后一项——前三项是礼（[[Ritual Propriety\|propriety]]）、义（[[Rightness]]）和廉（integrity）。与其他三项以正面表述不同，耻是一个看似负面的概念——但"与西方对羞耻的纯粹负面性不同，孔子及其追随者极其强调羞耻在人生中的重要性和积极性"([[Argument_Li_2012_Cambridge\|Li, 2012, p.40]])。
 
 > [!quote|notitle]
@@ -63,9 +59,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **儒家耻 vs 西方羞耻** 在西方，羞耻通常被理解为一种纯粹的负面情绪——需要被克服或消除。在儒家传统中，耻是一种**积极的道德能力**——"没有羞耻感，就失去了自我纠正这一人类独特的能力"([[Argument_Li_2012_Cambridge\|Li, 2012, p.40]])。耻不是终点（"我感到羞耻，所以我躲起来"），而是起点（"我感到羞耻，所以我改正"）。
 
 > [!example|notitle]

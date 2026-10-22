@@ -53,11 +53,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# PISA Shock in Japan
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 日本 [[PISA]] 震荡（PISAショック, [[PISA Shock]] in Japan）特指 2004 年底[[OECD|经济合作与发展组织]]（OECD）公布第二届国际学生评估项目（PISA 2003）测试结果后在日本社会、教育学界与政界引爆的全国性危机论战与政策转向。不同于德国对体制和组织层面的震荡反思，日本的 PISA 震荡聚焦于**教育内容与学力[[Construct|构念]]** 本身，成为终结 1980 年代以来“宽松教育”（ゆとり教育, Yutori Education）、确立“扎实学力”（確かな学力, Robust Academic Proficiency）与实证改进机制的决定性历史节点。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2003–2004 — 数据发布与全国危机大辩论** 媒体将 2003 年结果与 2000 年结果进行密集对比，排位下滑引发战后最大规模的公众反思；文部科学省承认学生应用知识解决复杂情境问题的能力不足，正式确认终结宽松教育的收缩方针。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **2004–2007 — 引入 [[PISA]] 读解力与常态化国家统测** 2004 年文部科学省正式采纳“PISA 素养”（特别是 PISA 型读解力）作为国家教育目标，引入[[Higher-Order Thinking Skills|高阶思维]]与知识应用导向；2007 年时隔 43 年正式恢复面向全国小学六年级与初中三年级学生的“全国学力·学习状况调查”，题目全面对标 PISA 分层架构。
@@ -79,16 +73,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 标志性文件／历史声明：MEXT 确立扎实学力与新指导要领
 > 在 [[PISA]] 2003 结果的推动下，PISA 素养概念于 2004 年被正式纳入国家教育政策目标……PISA 素养引入了与以往理解不同的新学力概念，即涉及高阶知识和技能应用的扎实学力。日本基于此确立了兼顾基础知能、思维表达与[[Active Learning|主动学习]]态度的新课程大纲。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Ninomiya (2019)
 >
 > *Prompted by the PISA 2003 results, the concept of [[PISA Literacy]] was officially incorporated into [[National Education]] policy goals in 2004... bringing a new meaning distinct from past understanding, namely robust academic proficiency that involves the application of higher-order knowledge and skills.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革主导者 / 国家科层** 文部科学省（MEXT）与[[National Institute for Educational Policy Research|国立教育政策研究所]]（NIER） — 借 [[PISA]] 结果体面终结宽松教育路线，转向国家标准统测与扎实学力建设。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -109,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 恢复全国学力·学习状况调查，确立四年一度与常规年度抽样的国家评估机制。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **思想[[Paradigm|范式]]变迁** 实现学力观的历史性现代化重构，将真实生活情境中的提取、推断与反思确立为法定学力标准。
@@ -126,8 +114,6 @@ updated: 2026-10-22
 > - **≤5** （排位反弹） 历经调整，日本在后续 [[PISA]] 周期中各学科重返 [[OECD]] 前五名。
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

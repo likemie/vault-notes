@@ -41,11 +41,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Kim Schildkamp
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 荷兰特温特大学（Universiteit Twente）教师培训与专业发展研究所教育学教授，前[[International Schools\|国际学校]]效能与学校改进学会（ICSEI）主席。
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **2018–2022** 当选[[International Schools\|国际学校]]效能与改进学会（ICSEI）核心领导并出任主席，持续倡导[[Evidence-Based Education\|循证教育]]与数据知情实践在全球学校生态中的情境化落地。
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 主要著作与代表成果
 > - **2013 — *[[Data-Based Decision Making]] in Education: Challenges and Opportunities*** 与 Mei Kuin Lai 共同主编，系统梳理国际视野下教育数据利用的概念框架、制度挑战与组织支持条件。

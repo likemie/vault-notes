@@ -50,11 +50,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Kathryn Anderson-Levitt
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名教育人类学家、比较教育学者，密歇根大学迪尔伯恩分校人类学荣休教授，加州大学洛杉矶分校（UCLA）兼任教授。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990s — 课堂[[Ethnography|民族志]]与跨国阅读教学比较** 深入法国与美国小学，通过[[Rich and Thick Description|深描]]比较教师如何在微观互动中理解阅读教学。
 >   - **代表著作** "Behind closed doors: Teachers and the role of the state in France" (1996); "Teaching reading in France and the United States" (2001)。
@@ -90,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球化在教育中的发生绝非自上而下的同质化复制，而是一个不断被地方文化、国家传统与微观行动者“翻译”与“中介”的复杂过程。[[World Society Theory|世界文化理论]]所观察到的制度趋同，往往停留在国家政策文本与课程大纲的形式表象；一旦深入到真实的教室门后，教师受制于具体的[[Class Size|班额]]规模、物质资源与文化信念，始终在主动调整、抵制并重塑全球教育规范。研究者必须同时保持宏观跨国透镜与微观田野透镜的“双重视野”。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 
 > [!citation-card] 安德森-莱维特论双重视野分析[[Paradigm|范式]]

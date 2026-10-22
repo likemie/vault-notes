@@ -57,11 +57,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# International Summits on the Teaching Profession
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 国际教师职业峰会（International Summits on the Teaching Profession，ISTP）是 2011 年由美国教育部、[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）、[[American Federation of Teachers|美国教师联盟]]（American Federation of Teachers，AFT）、[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）与[[Education International\|国际教育协会]]（Education International，EI）联合创设的年度高层跨国峰会，系全球教育治理中唯一制度化保障民选教育部长与全国性教师工会领袖基于前沿实证研究开展闭门平等磋商的战略对话平台。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解长期困扰各国公共教育治理的劳资对抗死结与自上而下行政规训异化，防止重大教育改革因一线教师抵制而陷入执行泥潭，探索基于客观科研证据凝聚政策共识的治理新[[Paradigm\|范式]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 唯有当教育决策者将有组织的教师专业集体视作平等的改革设计伙伴，并在去政治化、充分保密与实证研究支撑的环境下共同审议现实难题，才能克服自上而下的政策执行断层，制定出真正改善学生学习成效与教师福祉的卓越制度体系。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212)]]
@@ -91,16 +85,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2011–2014 年 — 跨国协商机制创设与信任奠基期** 2011 年首届峰会由美国在纽约市主办，确立了部长与工会领袖同桌平等协商的历史性惯例；随后的新西兰峰会与荷兰阿姆斯特丹峰会围绕教师职前培养、评价标准与专业学习展开讨论，打破了传统政府间国际会议排斥劳工组织的壁垒。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **2015–2020 年 — 议题深化与实证反哺扩张期** 峰会先后由加拿大班夫、德国柏林、苏格兰爱丁堡、葡萄牙里斯本等地主办，讨论主题逐步从教师人事管理拓展至[[School Leadership\|学校领导力]]分配、教育公平、数字技术赋能与教师身心工作压力；促成将峰会成果反哺至 [[Teaching and Learning International Survey\|TALIS]] 2018 压力专属量表研制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 > - **2021 年至今 — 疫后[[Whole Person Education\|全人教育]]复原与跨国共同原则确立** 2021 年第 11 届峰会再次由美国主办，主题聚焦从历史汲取智慧、共创卓越与公平，深度研讨后疫情时代的学校社区重建、数字教学伦理与教师福祉，并联合发布 [[OECD]] 与 EI 关于有效与公平教育复兴的十大原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **东道国教育部** 承担年度峰会的会务承办、外事统筹与主会场保障，由东道国教育部长主持各阶段战略讨论。
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > - **数据共有与知情赋权** 彻底打破官方垄断大型跨国教育调查的旧制，制度化确立调查数据归政策制定者与教师专业组织共同所有的原则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 影响力指标维度
 > - **机制稳定性** 连续举办十余届，成为[[International Education\|国际教育]]界历史最悠久、参与规格最高的常设性部长-工会双边峰会。
@@ -133,8 +121,6 @@ updated: 2026-10-22
 > - **10** （原则） 2021 年峰会后经合组织与国际教育协会共同签署的跨国教育复原联合行动指南。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

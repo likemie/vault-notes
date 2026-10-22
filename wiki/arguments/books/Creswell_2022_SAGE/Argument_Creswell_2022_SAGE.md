@@ -230,7 +230,6 @@ citation_aliases:
   - "Creswell & Creswell, 2022"
   - "Creswell & Creswell (2022)"
 ---
-# Argument_Creswell_2022_SAGE
 
 ## 章节结构
 
@@ -1383,8 +1382,6 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/chapter-9-concept-map.jpg)
 
-#### 概览
-
 > [!abstract] 全章逻辑
 > 质性方法是全书三种研究路径方法论核心的最后一环。全章沿以下逻辑线推进：
 >
@@ -1686,8 +1683,6 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 将核心设计嵌入复杂程序的通用五步法：识别数据收集→绘制流程图→定位混合机会→判断整合方式（合并→聚敛式，连接→序列设计）→呈现双重图表。四种复杂设计的图示（图10.3–10.6）见各自方法条目。
 
 ---
-
-#### 设计选择与整合陈述
 
 > [!abstract] 表10.5：混合方法设计的意图与程序
 >

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Free School Meals
-
 > [!metax] [免费校餐 · Free School Meals](https://www.visiblelearningmetax.com/influences/view/free_school_meals)
 > 学校 › 学校类型
 >

@@ -71,12 +71,9 @@ created: 2026-09-02
 updated: 2026-10-22
 ---
 
-# Educational Affordances
 （教育技术可供性 / 可供性）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育技术可供性（Educational Affordances）是指技术工具或数字学习环境在特定的教学活动情境中，与学习者（及其已有认知能力、动机、素养）以及学习任务相互作用时所[[Emergence\|涌现]]出的、**可被学习者感知并实际支持特定认知加工、[[Knowledge Building Theory|知识建构]]、社会协作与[[Metacognition\|元认知监控]]的行动可能性与潜在功能使能属性**。[[Argument_Li_2026_CEAI\|(Kirschner et al., 2004; Bower, 2008; Li et al., 2026, pp. 2, 4–8)]]
@@ -97,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 可供性概念在不同理论视域下的演进与对比
 > | 演进阶段 / 视角 | 核心代表学者 | 概念定义重点 | 在教育与 AI 交互中的应用体现 |
 > |---|---|---|---|
@@ -108,8 +103,6 @@ updated: 2026-10-22
 > | **[[Generative Artificial Intelligence\|生成式 AI]] 双向可供性** | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 兼具“促进高阶思维发展（Affordance）”与“诱发心智惰性（Limitation）”的双向关系属性 | 既能提供视角转换与发散拓展，又可能诱发[[Cognitive Offloading\|认知外包]]与个人声音剥落 |
 
 ---
-
-## 核心要素
 
 > [!feature] 生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]发展的 10 大[[CORE Education|核心教育]]可供性维度（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > 
@@ -189,8 +182,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -201,8 +192,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1979 年 — 生态心理学创立** J. J. Gibson 首次提出 Affordance，界定环境为动物提供的行动潜能。
 > - **1988 年 — 人机交互设计转向** Donald Norman 将其引入人机交互领域，强调用户界面的“可感知可供性（Perceived Affordances）”。
@@ -210,8 +199,6 @@ updated: 2026-10-22
 > - **2026 年 — 生成式 AI 认知双重视角与社会[[Epistemology\|认识论]]深化** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将可供性拓展为“[[Higher-Order Thinking Skills\|高阶思维]]认知使能与风险规制”的双向[[Analytic Framework\|分析框架]]；[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 进一步从社会技术中介与社会认识论切入，揭示技术可供性如何重构知识确证劳动力分工并分流生产性依凭与有害依赖。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -226,8 +213,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -236,8 +221,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 全球 67 项高等教育实证研究（涵盖 2022–2025 年高校多学科样本） | [[Systematic Review\|系统综述]]与定性主题综合（PRISMA 2020 框架，MMAT 质量评估） | [[Generative Artificial Intelligence\|生成式 AI]] 认知可供性与限制维度（10 大支持主题 vs 10 大风险主题） | 提炼出 5 大[[Critical Thinking\|批判性思维]]可供性（[[Metacognition\|元认知监控]] n=27、论证建构 n=22 等）与 5 大[[Creativity\|创造性思维]]可供性（构想发散 n=31、篇章支架 n=24 等）；同时揭示构想惰性（n=20）、学术声音剥落（n=15）等核心限制 | 58 项研究（87%）MMAT 得分 $\ge 80\%$ | 确立生成式 AI 可供性的系统性分类学，证实结构化任务是实现可供性转化的关键前提 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学应用案例
 > - **基于 ADDIE 模型的[[Creativity\|创造性]]写作可供性[[Framework for Teaching|教学框架]]（Cake, 2025; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**

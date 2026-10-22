@@ -51,13 +51,9 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Disjointed Pluralism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 复杂立法机构、政权组织及公共治理架构在长期历史演进中的非一致性创新、结构杂合性与多目标张力。
 > - **理论问题** 批判理性选择制度主义将制度预设为单一意志下的协调一致理性蓝图，以及社会学制度主义先验假定制度系统具有高度内部连贯性；解释制度内部为何总是充满相互冲突的议事规则、重叠职能与彼此脱节的管理流程。
 > - **理论类型** 中层解释理论、[[Historical Institutionalism|历史制度主义理论]]与美国政治发展（American Political Development, APD）[[Analytic Framework|分析框架]]。
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > *Different interests emerge as particularly important in different eras, multiple interests typically shape each instance of institutional change, and specific institutions develop through an accumulation of innovations inspired by competing motives, which engenders a tense layering of new arrangements on top of pre-existing structures.*
 
 ---
-
-## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 美国政治学家埃里克·希克勒（[[Education Resources Information Center|ERIC]] Schickler）于 2001 年在普林斯顿大学出版社出版专著 *Disjointed [[Pluralism]]: Institutional Innovation and the Development of the US Congress*，正式创立脱节多元主义理论框架。
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > | 脱节杂合性（Disjointed Hybridity） | 状态 | 制度系统最终呈现出的内部缺乏统一逻辑、多重原则并存且局部彼此脱节的真实演化形态。 |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一｜制度发展源于竞争性多元利益在不同历史时期的累加妥协而非单一宏观蓝图
 > **解释** 制度不是由单一立法者或执政同盟依据完备理性一揽子设计完成的工程产物。在历史演进的长周期中，主导政治舞台的利益集团发生代际轮替，每一代行动者都试图改造制度以服务自身特定目标。由于体制内存在强烈的否决点阻力，各方只能达成次优的折中妥协，将各自的新主张边际性追加至系统之中，导致制度演变呈现为跨时代的动机沉淀。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
@@ -130,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 适合解释复杂政府部门、立法机关、大型大学组织或跨层级公共治理网络为何长期存在职能重叠、程序摩擦与目标自相矛盾。
 > - **分析对象与单位** 组织内部规程文本、跨历史阶段的立法修订案、委员会权力重构记录。
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > | **命题三：系统杂合度与适应性评估** | 内部脱节是否赋予了系统多重政策工具箱？当外部冲击到来时系统激活了哪些历史残留机制？ | 危机应对方案、应急管理组织演变、政策转换历史案例。 | 评估系统的真实弹性；防范将有害的单纯渎职推诿误判为有益的制度杂合韧性。 |
 
 ---
-
-## 典型案例
 
 > [!case] 美国国会立法委员会与议事规则的百年层叠演进（Schickler, 2001b; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）
 > - **理论困境与经验谜题** 传统国会研究学者长期争论国会究竟是由两党领袖牢固控制的党派集权[[Rainer Kattel|卡特尔]]，还是由资深议员把持的委员会独立分权领地。国会法案在实际运作中经常在议长强推与委员会阻挠之间反复拉锯。
@@ -166,8 +154,6 @@ updated: 2026-10-22
 > - **常见误用** 将脱节[[Pluralism|多元主义]]庸俗化为赞美官僚推诿与效率低下的借口；该理论旨在客观揭示多元政治妥协的结构必然性，而非为行政惰性作规范辩护。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 

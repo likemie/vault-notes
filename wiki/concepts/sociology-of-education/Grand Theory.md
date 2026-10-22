@@ -93,11 +93,7 @@ created: 2026-09-09
 updated: 2026-10-20
 ---
 
-# Grand Theory
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **宏大理论（Grand Theory，亦称宏大叙事 / 元叙述 Metanarrative）** 是一种旨在总揽并界定整个探究领域、历史进程或文明演进脉络的思辨性先验知识大厦。
@@ -131,8 +127,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 宏大理论、中层理论与[[Grounded Theory|扎根理论]]的方法论多维对照
 > | 比较维度 | 宏大理论（Grand Theory） | 中层理论（Middle-range Theory） | 扎根理论（Grounded Theory） |
 > |---|---|---|---|
@@ -143,8 +137,6 @@ updated: 2026-10-20
 > | **典型代表** | [[Talcott Parsons\|帕森斯]][[Structural Functionalism\|结构功能主义]]、[[Georg Wilhelm Friedrich Hegel\|黑格尔]]历史哲学、[[Francis Fukuyama\|福山]][[End of History Thesis\|历史终结论]]、西方文明正典宏大叙事 | 相对剥夺理论、参照群体理论、地位声望模型 | 课堂互动策略理论、教师职业倦怠演化模型 |
 
 ---
-
-## 核心要素
 
 > [!feature] 宏大理论与宏大叙事的核心属性
 > - **元叙述统领性（Metanarrative Dominance）** 宏大理论自命为跨越时空疆界的总揽式叙述，试图用单一概念逻辑统领整个社会系统的历史变迁与组织运作。
@@ -255,8 +247,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 宏大理论与宏大叙事七大核心命题归纳
 > | 命题类型 | 核心理论断言 | 适用分析情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -270,8 +260,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 宏大理论与宏大叙事的演进脉络
 > - **19 世纪中叶 — 历史哲学与古典社会学体系** [[Georg Wilhelm Friedrich Hegel|黑格尔]]历史哲学确立了理性精神单向演进的元叙述；孔德与斯宾塞等早期社会学者运用进化论思想构建解释人类社会全貌的宏大理论大厦。
 > - **1937–1951 — [[Structural Functionalism|结构功能主义]]的拜占庭式巅峰** [[Talcott Parsons|帕森斯]]发表《社会行动的结构》与《社会系统》，构建高度抽象、逻辑严密的四功能行动[[Paradigm|范式]]（AGIL），成为社会学领域宏大理论的代表形态。
@@ -281,8 +269,6 @@ updated: 2026-10-20
 > - **2010s 至今 — 地缘认知竞争与文明工程叙事重塑** 新兴大国将非西方现代化经验提炼为兼具主权发展与制度有效性的治理宏大叙事，并在跨国教育与对外合作中抗衡西方[[Discourse|话语]]垄断。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]；同时在技术政治与文明史领域，学术界反思后现代解构造成的历史虚无，主张重构以千年为尺度的共有历史文明叙事与重大工程愿景。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -311,8 +297,6 @@ updated: 2026-10-20
 > > - **批判解构与[[Pluralism|多元主义]]派（Appiah, 2018; Said, 1978）** 主张西方文明概念是 19 世纪晚期为了帝国扩张辩护而发明的后验神话，宏大叙事掩盖了历史的[[Heterogeneity|异质性]]与排他性压迫，必须予以彻底解构。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 宏大理论与宏大叙事核心文献索引
 > - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]]** 评述宏大理论作为思辨性元叙述在[[Epistemology|认识论]]建构与学科边界界定中的功能，及其在[[Scientific Method|经验科学]]检验中的贫瘠性与后现代转向下的合法性危机。

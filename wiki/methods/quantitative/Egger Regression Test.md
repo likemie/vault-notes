@@ -56,11 +56,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Egger Regression Test
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > Egger Regression Test（Egger 回归检验 / 艾格回归检验，由流行病学与医学统计学家 Matthias Egger 等人于 1997 年提出）是一种用于检验[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]与 **[[Small Study Effects\|小研究效应]]（Small-Study Effects）** 的经典参数化统计方法。该方法通过将各独立研究的“标准化[[Effect Size\|效应量]]（Standardized Effect Size, $Z_i = y_i / \text{SE}_i$）”对“估计精度（Precision, $1 / \text{SE}_i$）”进行加权最小二乘线性回归；若回归方程的**截距项（Intercept）显著偏离零（$p < .05$）**，则表明漏斗图存在显著的单侧不对称性，即小样本研究系统性地报告了相比大样本研究更夸大的效应量。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]; [[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, pp. 960–961)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 经典单水平 Egger 回归 vs 现代多水平 Multilevel Egger's Test
-
 > [!contrast-table] 经典单水平 Egger 回归与第三代多水平 Egger 检验的代际演进对比
 > | 比较维度 | 经典单水平 Egger 回归 (Egger et al., 1997) | 现代多水平 Egger 检验 ([[Multilevel Egger's Test\|Rodgers & Pustejovsky, 2021]]) |
 > |---|---|---|
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > | 偏倚校正效应量 | 仅输出偏倚检验显著性 $t$ 值，**不直接输出无偏真实效应量** | **截距项 $\beta_0$ 直接作为剔除样本量偏倚后的“无偏基准效应量”** |
 
 ---
-
-## 数学原理与判断标准
 
 > [!formula-step] 公式步骤　经典 Egger 线性回归方程
 > $$\frac{y_i}{\text{SE}_i} = a + b \left(\frac{1}{\text{SE}_i}\right) + \epsilon_i$$
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **$p < .05$ 且 $a > 0$** 截距显著为正，提示[[Small Study Effects\|小样本研究效应]]系统性偏大，**存在显著发表偏倚/小研究效应**。
 
 ---
-
-## 经典应用案例
 
 > [!example] [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] [[Cooperative Learning\|合作学习]][[Meta-meta-analysis\|二阶元分析]]
 > 在纳入 23 个[[Effect Size\|效应量]]的合作学习二阶[[Meta-analysis\|元分析]]中，作者运行经典 Egger 线性回归得出：

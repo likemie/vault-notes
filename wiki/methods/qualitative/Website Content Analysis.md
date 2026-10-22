@@ -46,8 +46,6 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Website Content Analysis
-
 > [!info] 定义
 网站[[Content Analysis|内容分析]]（Website Content Analysis）是一种系统收集和分析机构网站公开内容的研究方法，通过对网页文本、组织结构描述、职能说明和术语使用的系统审查，揭示组织如何对外呈现其结构、职能和战略定位。与一般的访谈或[[Questionnaire|问卷调查]]不同，网站分析利用的是组织**主动对外公开且经过内部审核**的内容——这些内容不仅反映组织的实际运作，也反映组织希望外界如何看待它（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.56]]）。
 

@@ -123,11 +123,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Evidence Ecosystem
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据生态系统（Evidence Ecosystem）指由教育研究者、政策制定者、[[School Leadership\|学校领导]]者、一线教师、中介机构（Brokerage Agencies）及资助主体共同构成的复杂自适应网络。在该系统中，研究证据的产生、综合评价、转译包装、传播流动与实践采纳不再是孤立的单向链条，而是通过多节点互动、自组织网络和非线性反馈回路协同演化的全系统生态；其健康运转高度依赖宏观治理从单纯的结果问责转向过程透明度与形成性自我监控。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]; [[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 144–145)]]
@@ -154,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!tension-table] 证据生态系统与传统知识传播[[Paradigm\|范式]]对照
 > | 比较维度 | 线性转移范式（Linear Transfer） | 关系网络范式（Relational Networks） | 证据生态系统范式（Evidence Ecosystem） |
 > |---|---|---|---|
@@ -175,8 +169,6 @@ updated: 2026-10-22
 > - **依附性传统型** 如芬兰国家教育评估中心（FINEEC）与[[Kunnskapssenter for utdanning\|挪威教育知识中心]]等，多依附于中央行政序列或大学母体，侧重于为部委决策提供专题监测支持与政策论证服务。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 81)]]
 
 ---
-
-## 核心要素
 
 > [!theory-components] 激活证据生态系统的复杂系统核心构件
 > - **证据与知识多元统筹（Evidence and Knowledge）** 承认研究证据仅是公共决策知识的一部分，必须与一线教师的实践[[Tacit Knowledge|默会知识]]、本土情境经验及公共政策价值展开有机融合。
@@ -378,8 +370,6 @@ updated: 2026-10-22
 ---
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -409,8 +399,6 @@ updated: 2026-10-22
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架阐明证据生态的系统使能支柱与过程监控治理转向** [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review\|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），将宏观系统影响（System Influences）解构为战略优先性确立、文化与基础设施专项资助、以及贯通全生态链条的形成性自我监控与反馈机制，主张宏观治理从下游结果审计转向决策过程本身的问责制、透明度与可争辩性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -453,8 +441,6 @@ updated: 2026-10-22
 > - **行政自陈数据的认知口径偏差** 现有跨国宏观证据多依赖教育部高级官员的自陈调查，受行政修辞与政策立场影响，可能与一线学校教师的真实生态体验存在差距。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 25–26)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

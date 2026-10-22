@@ -54,11 +54,7 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Ewald Terhart
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代教育学家、明斯特大学（University of Münster）教育学研究所荣休教授，德国普通教学论（Allgemeine [[Didaktik]]）与教师专业化研究的领军学者。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2003 — *Constructivism and teaching: a new [[Paradigm]] in general didactics?*** 探讨[[Constructivist Paradigm|建构主义]]作为心理学学习理论与具体课堂教学指导形式之间的范式张力。
 > - **2011 — *Has [[John Hattie]] really found the holy grail of research on teaching? An extended review of [[Visible Learning]]*** 提出[[Stability vs. Variability Dilemma|稳定性与变异性双重困境]]，全面解构[[Meta-meta-analysis|二阶元分析]]的经验信息损失与全景规训机制。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 特哈特明确主张教学的本质构成为学科知识正当性辩护、文化陶冶（[[Bildung]]）与动态师生交互交织的复杂专业实践，坚决反对脱离实质内容的抽象操作技术化倾向。任何试图通过粗放的统计二次[[Commensuration|通约]]（[[Commensuration]]）消除教育情境特殊性、以单一度量指针支配一线教师的“科学圣杯”，在[[Epistemology|认识论]]上均是脆弱的伪确定性表象。
 
 > [!citation-card] 特哈特论[[Meta-meta-analysis|二阶元分析]]信息流失与货币通约隐喻

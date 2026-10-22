@@ -51,11 +51,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Space of Places
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **地方空间（Space of Places）** 指社会互动形式在物理和体验上均附着于特定连续领土（Territorial Contiguity）的社会组织空间（Castells, 2000a；Giddens, 1990；[[Argument_Beech_2009_CE|Beech, 2009a, p. 349]]；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 354–355]]）。在传统与现代社会中，绝大多数普通人的日常生活、身份认同、劳动实践与情感归属仍然植根于地方空间之中。在教育领域，地方空间特指由具体的中小学、教室、师资培训机构（如[[Normal School|师范学校]]）以及师生面对面的身体共同在场构成的物理微观教学[[Champ|场域]]；其运转高度依赖历史积淀的制度[[Habitus|惯习]]、具体的物质资源约束以及日常教学行动的一致性逻辑。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 > - 不等于 抽象的“本土语境（Local Context）” — 地方空间特指具有物理空间性、建筑实体和身体在场实践的地理微观场域，不仅仅是文化维度的背景。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 地方空间 vs [[Space of Flows|流动空间]] vs 制度化国家空间
 > | 比较维度 | [[Space of Places\|地方空间（Space of Places）]] | [[Space of Flows\|流动空间（Space of Flows）]] | 制度化国家空间（National Policy Space） |
@@ -127,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -148,8 +140,6 @@ updated: 2026-10-22
 >   [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 将地方空间具体化为五位置模型中的“教育机构”（学校与[[Normal School|师范学院]]），系统检验全球处方在微观地方落地时的结构性实践脱节。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 

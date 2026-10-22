@@ -35,9 +35,6 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# John Dewey's 1928 Visit to the Soviet Union
-
-
 > [!info] 背景
 > 1917 年 12 月 6 日后，美国在威尔逊总统领导下决定不承认布尔什维克领导的苏俄新政府——原因包括苏俄拒绝偿还沙皇时代债务和没收美国资产。此后三任总统延续了这一不承认政策，直到 1933 年[[Franklin D. Roosevelt|罗斯福总统]]任内才正式承认苏联([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.102]])。在两国无正式外交关系的十六年间，美国民间人士持续访问和书写苏联——Dewey 的 1928 年访问是其中最具影响力的一次。
 
@@ -51,9 +48,7 @@ updated: 2026-10-22
 
 ---
 
-## 关键文件／声明
-
-> [!quote|notitle]
+> [!quote] 关键文件／声明
 > "We do not ask for any praise on your return home, nor are we afraid of any criticism you may have — we only ask that you tell people the facts and let them judge for themselves... We hope that your visit will help clear up the clouds of prejudice that have hung over our country for so long." — Kameneff, July 21, 1928 ([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp. 106–107]])
 > 
 > 我们不求你们回国后赞扬我们，也不怕你们批评——只请你们告诉人民事实，让他们自己判断……希望你们的访问有助于扫除长期遮蔽我国的偏见之云。

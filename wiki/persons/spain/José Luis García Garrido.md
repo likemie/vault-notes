@@ -42,11 +42,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# José Luis García Garrido
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 西班牙比较教育学家、教育政策学者，西班牙国家远程教育大学（National University of Distance Education, UNED）比较教育学荣休教授，曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, [[Comparative Education Society in Europe|CESE]]）主席（1988–1992）及西班牙国家教育质量与[[Evaluation Research|评估研究]]所（National Institute for Quality and Evaluation, INCE）主任。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1982 — *Sistemas educativos de hoy*** 早期比较教育代表作，奠定以政治形态与行政架构剖析当代主要国家教育体系的制度分析路径。
 > - **2004 — *La educación en Europa*** 系统梳理欧洲各国教育体系历史演进、趋同特征与多样性平衡，审视超国家协调对主权国家教育自主权的影响。
@@ -80,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 西班牙教育现代化的关键瓶颈在于内部政治行政制度的解耦与政策反复推倒重来，而非单纯的财政投入匮乏；面对欧洲趋同诉求，盲目复制地方分权与延长均质综合中学的做法不仅未能实现教育质量提升，反而导致行政机构极度臃肿、学业失败率居高不下以及高校[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–333)]]
 
 > [!citation-card] [[Plaintive Comparison|诉苦式比较]]与政治发展滞后论

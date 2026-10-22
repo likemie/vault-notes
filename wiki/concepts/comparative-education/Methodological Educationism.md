@@ -45,11 +45,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# Methodological Educationism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 方法论教育主义（Methodological Educationism）是指在教育研究和政策制定中，将广义的“教育”（education）无意识地简化或等同于正式的“学校教育”（schooling，即由国家和行政力量主导的正式学校体制、班级授课制与制度化课程体系）的还原论[[Epistemology\|认识论]]立场。这一概念主要由 [[Roger Dale]] 提出，用于批判传统研究忽视非正式学习、家庭与社群教育，以及过度依赖学校体制改革来解决深层社会问题的局限性。它常与[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）及[[Methodological Statism\|方法论国家中心主义]]（Methodological Statism）叠加运作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
@@ -77,9 +73,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **正式制度依赖（Formal Institutional Bias）** 将教育资源、教育评价与成效等同于学校大楼、标准化测试和学历证书等可被行政测量的可见制度属性。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 > - **技术性解决方案还原（Reduction to Technological Curricular Fixes）** 倾向于认为社会危机（如不平等、缺乏[[Competitiveness|竞争力]]）都可以通过对学校课程或测评指标的技术性修改来自动消除，遮蔽了阶级与[[Geopolitics|地缘政治]]结构性压迫。(Dale & Robertson, 2009)
 > - **边界排他性（Exclusionary Boundaries）** 在方法论设计上，将正式课堂之外的非正式关系、网络流转及多行动者互动视为研究的“杂音”而予以排除。
@@ -113,8 +107,6 @@ updated: 2026-10-22
 > - **2023 — 比较教育学科演进检视** Klerides 追溯比较教育史，指出[[Global Citizenship\|全球公民]]、人权与生态身份挑战了基于“方法论教育主义”定义的传统国民学校身份，倡导引入[[Relational Space\|关系空间]]以打破三者叠加对研究的禁锢。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

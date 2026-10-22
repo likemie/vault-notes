@@ -135,9 +135,6 @@ citation_aliases:
   - "Hall & Boccanfuso, 2025"
   - "Hall & Boccanfuso (2025)"
 ---
-# Argument_Hall(Ed.)_2025_Springer
-
-## 全书论点
 
 > [!question]
 > 大学与企业——两种治理模式、时间尺度和核心目标截然不同的组织——如何在各自保持制度特性的同时实现有效合作？本书的核心主张是：真正产生影响力的不是泛泛的产学"关系"（relationships），而是有目的的、对齐的"参与"（engagement）——一种在研究与学术、教育与学习、公共效益三个维度上，通过正式协议框架建立的深度合作。

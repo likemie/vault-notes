@@ -45,11 +45,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Education Reform Act 1988
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1988 年 7 月由英国议会正式通过，由玛格丽特·撒切尔（Margaret Thatcher）保守党政府主导制定并实施。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **制度位置** 战后英国自 1944 年教育法以来最彻底的立法重构，标志着以[[New Public Management|新公共管理]]（New Public Management, NPM）市场化为导向的规制型治理体系的确立。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 该法案通过统一确立国家课程大纲、实施关键学段全国标准化测评并公开发布学校成绩排位表，同时下放学校办学财权与推行公开[[School Choice|择校]]，构筑了国家远程监控与教育准市场相融合的治理新[[Paradigm|范式]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
@@ -77,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1987 保守党在大选中提出教育全面改革竞选宣言，起草法案文本。
 > - 1988 议会辩论并通过法案，7 月 29 日获王室御准正式颁布《1988年教育改革法》。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
@@ -86,8 +78,6 @@ updated: 2026-10-22
 > - 1992 设立英国教育标准局（[[Ofsted|Office for Standards in Education, Children's Services and Skills]], Ofsted），正式出版全国学校排位表。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **中央立法与规制主管** 英国教育部，直接掌控国家课程大纲与统考技术标准制定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > - **微观运作市场化** 赋予学校人事聘任与经费自主权，学校通过提高统考排位吸引生源以维持财政规模。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心改革者** 撒切尔政府内阁与新右派政治精英，将削弱工会与引入准市场机制作为核心施政议程。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
@@ -119,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **考试覆盖与参与度** 全国适龄儿童参加关键学段标准化统考的普及率。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 > - **[[School Choice|择校]]市场活跃度** 跨学区择校申请比例与私营化办学模式扩展度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
@@ -135,8 +121,6 @@ updated: 2026-10-22
 > - **1988** 法案正式通过确立英国新公共管理教育治理元年。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

@@ -63,11 +63,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Joint Practice Development
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 联合实践发展（Joint Practice Development, JPD）指由两名或多名教师、学校管理者及外部研究者，在真实课堂与学校情境中协同互动，共同分享、测试、实施、评估和改良专业教学实践的持续探究过程（Fielding et al., 2005; Sebba et al., 2012）。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 联合实践发展与传统实践转移[[Paradigm\|范式]]的多维辨析
 > | 维度 | 联合实践发展（JPD） | 优秀实践转移（Transfer of Good Practice） | 传统在职讲座培训（Traditional CPD） |
 > |---|---|---|---|
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > | **常见风险** | 耗费时间与精力，易因工作量过载或虚假合意变形 | 水土不服、机械照搬，极易蜕变为[[Activity Traps\|活动陷阱]] | 听时心动、回校不动，培训成效迅速衰减遗忘 |
 
 ---
-
-## 核心要素与典型操作载体
 
 > [!feature] 核心要素
 > - **真实课堂情境嵌入（Situated Classroom Context）** 协作活动以真实师生互动现场为基底，直接面对具体的学情痛点与教学挑战，确保方案在真实约束下接受检验。
@@ -119,8 +111,6 @@ updated: 2026-10-22
 > - **校际同侪网络互助（Cross-School Peer Review）** 如[[Research Learning Communities\|研究学习共同体]]（RLCs）中的跨校教师团队，围绕共享的实证议题跨校开展课堂联合观摩与联合实践开发。
 
 ---
-
-## 围绕概念形成的命题
 
 > [!claim] 命题总览
 > 联合实践发展否定了实践可被无损转移的[[Technical Rationality\|技术理性]]神话，将教学变革牢固锚定在基于真实课堂的教师协同探究之中；它既是[[Professional Learning Community\|专业学习共同体]]激活实证证据的操作杠杆，也是克服形式主义模仿、抵御[[Activity Traps\|活动陷阱]]的制度防火墙。
@@ -183,8 +173,6 @@ updated: 2026-10-22
 > - **2014–2018 — 证据知情学校与微观课堂转译整合** [[Chris Brown\|克里斯·布朗]]（Chris Brown）与[[Toby Greany\|托比·格里尼]]（Toby Greany）通过“[[Research Learning Communities\|研究学习共同体]]”（RLC）项目，将 JPD、[[Lesson Study\|课例研究]]与[[School Enquiry Cycle\|学校探究循环]]深度熔铸，确立 JPD 为一线学校实现研究证据微观转译、规避[[Activity Traps\|活动陷阱]]的[[Operationalization\|操作化]]中枢（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与现实张力
 >

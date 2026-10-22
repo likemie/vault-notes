@@ -48,11 +48,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Employment Retention and Advancement
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 英国就业与养老金部（Department for Work and Pensions, DWP）于 2003 至 2007 年实施的就业留任与晋升（Employment Retention and Advancement, ERA）示范项目，开创了英国社会政策史上最大规模的[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT），旨在检验职业咨询与留任财务补贴对低收入及长期失业群体维持稳定就业的实际成效。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对新政政策下受助者虽能实现初次就业但失业复发率高、岗位留存周期短、收入增长停滞的治理难题。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过将个体化职业发展咨询（Advancement Counselling）与留职现金奖励津贴（Retention Bonuses）相结合，能够激励弱势受助群体在获得工作后保持稳定在职状态并谋求薪资晋升。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
@@ -83,16 +77,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1999–2002 — 跨国借鉴与方案筹划期** 英国下议院社会保障特别委员会 (House of Commons Social Security Select Committee, 1998) 访美后建议开展地理区域实验；DWP 在残障人士新政评估遇阻后 (Prasad, 2002) 重新论证并立项 ERA 试验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 > - **2003–2007 — 随机实验现场运行期** 在全英重点行政区启动三组人群的[[Random Assignment|随机分配]]与跟踪干预，[[MDRC]] 提供全流程实地技术监督。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **2007–2011 — 跟踪评估与成果转化期** 发布多阶段实证评估报告，为后续劳动力市场规程与[[Output-Oriented Governance|循证治理]]提供详尽因果数据支撑。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 343–344)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 英国就业与养老金部（DWP），提供专项财政经费并负责行政协调。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 在实施中严格监控对照组受污染情况，确保实验[[Causality|因果推断]]纯洁性。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 财政留任补贴支出、顾问个案服务课时投入。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > 开展 3 轮独立随机对照测试，覆盖 NDLP、ND25+ 与在职低收入群体。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

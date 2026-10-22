@@ -37,7 +37,6 @@ status: draft
 created: '2026-05-04'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 认知心理学家，[[Executive Function\|执行功能]]（EF）统一性与多样性框架（Unity and Diversity Framework）的提出者。是最早开发出综合性执行功能多维模型的研究者之一([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.4]])。

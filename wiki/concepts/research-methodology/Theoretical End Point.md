@@ -37,11 +37,7 @@ created: 2026-05-31
 updated: 2026-10-16
 ---
 
-# Theoretical End Point
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 理论终点（theoretical end point）是[[Qualitative Research\|质性研究]]中运用理论的第三种方式：区别于演绎使用和[[Theoretical Standpoint\|理论立场]]，质性研究以理论模型、理论或概念模型作为研究终点。这是质性研究归纳过程的自然终点——从数据出发，上升到广泛主题，再归纳为一般化的模型或理论([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.66]]; Punch, 2014)。
 
 > [!quote|notitle]
@@ -69,9 +65,7 @@ updated: 2026-10-16
 > [!example|notitle]
 > Creswell and Brown (1992) 使用 33 次与学术部门主任的访谈数据，发展了关于系主任对学术绩效影响的扎根理论。理论部分作为文章的最后一节出现，其中呈现了归纳发展出的视觉模型和[[Directional and Non-directional Hypotheses\|方向性假设]]，并将参与者结果与其他研究及文献中的理论讨论进行了比较。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **理论终点 vs [[Theoretical Standpoint\|理论立场]]** 理论立场在开始时引入，塑造研究的方向和问题；理论终点在结束时出现，是研究的产出和贡献。前者是透镜，后者是发现。
 
 > [!example|notitle]

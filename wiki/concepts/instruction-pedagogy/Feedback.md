@@ -87,11 +87,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Feedback
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教学反馈（Feedback）** 指围绕学习者当前表现、理解状态和下一步行动所提供的信息交互回路。在教育学经典界定中，反馈是由代理人（教师、同伴、书籍、父母或个体自身经验）针对其表现或理解所提供的导向性信息（Hattie & Timperley, 2007, p. 82）。
@@ -116,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教学反馈与相近教学机制辨析
 > | 维度 | 教学反馈（Feedback） | 行为强化（Reinforcement） | 教师即时亲和力（Immediacy） | 成绩评分（Grading） |
 > |---|---|---|---|---|
@@ -127,8 +121,6 @@ updated: 2026-10-22
 > | **混淆风险** | 属于真正的教学反馈核心[[Construct\|构念]] | 常被粗放汇总为反馈，实为外在强化 | 属于人际沟通特质，非学业信息回路 | 单纯给分缺乏形成性指导信息 |
 
 ---
-
-## 核心要素与理论模型
 
 > [!feature] 形成性反馈的核心支柱与层级模型（Hattie & Timperley 框架）
 > - **明确前置目标（Feed Up）** 阐明学习目标与[[Success Criteria|成功标准]]，让学生知晓努力的靶向与评价准则。
@@ -183,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 教学反馈核心命题归纳
 > | 命题类型 | 核心判断 | 实践机制与情境边界 | 代表学者与文献 |
 > |---|---|---|---|
@@ -193,8 +183,6 @@ updated: 2026-10-22
 > | **构念纯度与实证质检** | 宏观反馈超级指标由异质现象拼贴而成，底层缺乏构念效度 | 排除外在奖励、[[Teacher Immediacy\|教师即时性]]与测验诊断提示，还原本真教学反馈 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力一：[[Scaffolding|认知脚手架]]信息 vs [[Behaviorism|行为主义]]刺激—反应纠错回路
 > - **形成性认知对话立场（蓝方）** 强调反馈是围绕目标、当前水平与未来行动展开的双向信息流，服务于深层概念理解与自我调节能力建构（Hattie & Timperley, 2007; [[Argument_Fredens_2015_Paideia|Fredens, 2015]]）。
@@ -215,8 +203,6 @@ updated: 2026-10-22
 > - **仪表盘色标预判专业裁量** [[Learning Analytics|学习分析]]仪表盘以红黄绿视觉警报粗暴界定学生状态，削弱了教师基于具体课堂情境的专业反思。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -395,8 +381,6 @@ updated: 2026-10-22
 
 ---
 
-## 领域应用
-
 > [!entry-map] 教学反馈网络结构
 > | 维度 | 关联条目 | 关系说明 |
 > |---|---|---|
@@ -409,8 +393,6 @@ updated: 2026-10-22
 > | **代表学者** | [[John Hattie]]；[[Dylan Wiliam]]；[[Thomas Aastrup Rømer]]；[[Axel Honneth]] | 哈蒂强调统计效应；威廉聚焦情境[[Heterogeneity\|异质性]]与负效应；罗默批判反馈倒置与集权监控；霍耐特提供主体[[Recognition Theory\|承认理论]] |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 核心研究索引
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 细读[[John Hattie|哈蒂]]反馈效应依赖的五大核心[[Meta-analysis|元分析]]（占样本 92.4%），实证揭示四项未测量反馈的[[Construct|构念]]混淆，并从[[Technical Rationality|技术理性]]与[[Axel Honneth|霍耐特]][[Recognition Theory|承认理论]]批判其[[Behaviorism|行为主义]]消解[[Intentionality|主体意向性]]的局限。

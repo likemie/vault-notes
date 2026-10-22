@@ -67,11 +67,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Cognitive Deskilling
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知去技能化（Cognitive Deskilling）是指学习者或专业人员将原本需要生物机体大脑执行的核心认知操作（如文本撰写、数学计算、逻辑推演、批判性质疑与[[Problem Solving|复杂问题解决]]）长期、不可逆或过度外包给外部计算工具（特别是大语言模型驱动的[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI；统称人工智能，Artificial Intelligence, AI）），导致主体自身内在的[[Working Memory|工作记忆]]调动、图式重构与程序性认知技能发生萎缩、钝化或发展停滞的现象。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270–272)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知去技能化与相关认知状态辨析
 > | 维度 | 认知去技能化 | 生产性[[Cognitive Offloading\|认知卸载]] | 认知超载 |
 > |---|---|---|---|
@@ -108,8 +102,6 @@ updated: 2026-10-22
 > | **应对机制** | 逆向[[Dialogue in Education\|对话]]启发、限制直接给答案与提问[[Scaffolding\|脚手架]] | 设定人机交互评价性控制权标准 | 优化教学设计与减少外在负荷 |
 
 ---
-
-## 核心要素与去技能化表现维度
 
 > [!feature] 认知去技能化的主要成因与表现机制
 > - **认知核心任务外包** 学习者将论文草拟、论据提取、概念整合等需要深度思考的过程直接交由 AI 完成，规避了必要的认知挣扎。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270–271)]]
@@ -167,8 +159,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 认知去技能化命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -179,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 认知去技能化的演进脉络
 > - **工业时代 — 劳动过程去技能化** 劳工社会学（如 Braverman）提出机器自动化将工匠的手工技能拆解剥离。
 > - **信息时代初 — 计算与记忆去技能化** 计算器与搜索引擎普及引发对学生心算能力与记忆力衰退的争论。
@@ -188,8 +176,6 @@ updated: 2026-10-22
 > - **[[Generative Artificial Intelligence|生成式人工智能]]时代 — 高阶认知去技能化与[[Epistemic Injustice|认识不正义]]转向** 随着大语言模型具备写作、编程与推理生成能力，学术界聚焦其对人类[[Critical Thinking|批判性思维]]与智力机能的去技能化风险（[[Argument_Naeem_2026_Episteme|Naeem, 2026]]）；进一步研究揭示，将提纲拟定与反思修改等[[Higher-Order Thinking Skills|高阶思维]]工序外包给 AI，在剥夺认知机能的同时构成了针对学习者的[[Formative Epistemic Injustice|成长性认识不正义]]（[[Argument_Smith_2026_SPE|Smith, 2026]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

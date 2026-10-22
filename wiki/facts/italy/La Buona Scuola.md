@@ -47,11 +47,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# La Buona Scuola
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015 年 7 月由意大利共和国议会审议通过、伦齐内阁签署颁布（第 107/2015 号公法）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > - **制度位置** 该法案是意大利二战以来覆盖面最广的教育综合治理立法，标志着管理主义与[[New Public Management|新公共管理]]理念在经历了长期的碎片化停滞后，首次在国家公法层面获得合法性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 258)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《好学校》法案确立了全国统一的质量评估体系，将外部测验机构评价与学校内部自我评估结合，赋予校长对教师绩效奖金分配与聘选的主导权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -79,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2001–2006 贝卢斯科尼中右翼政府启动校长自愿评估试点，遭遇一线校长与工会集体抵制，中左翼执政后于 2006 年叫停。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - 2008–2012 盖尔米尼部长重启绩效议程，2012 年在部分大区开展 VALES 增值模型与校长评估实验。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -89,8 +81,6 @@ updated: 2026-10-22
 > - 2019–至今 在后续执政联盟（五星运动与民主党）更迭中，针对校长的直接聘选权与绩效奖金独断权被逐步修订收紧，重新向教师校级评价委员会倾斜。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258, 260)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **中央设计与拨款方** 意大利教育部（MIUR），负责设立每年 2 亿欧元的教师绩效奖金池并制定基本实施细则。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -103,8 +93,6 @@ updated: 2026-10-22
 > - **重构校级权力结构** 设立由校长、三名教师代表、两名家长（高中设一名学生）及一名外部专家组成的“教师评价委员会”（Comitato per la Valutazione），由校长主持并拥有资源裁决最终决定权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **绩效奖金覆盖度** 各校获得年度卓越奖励的教师比例与平均金额。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -121,8 +109,6 @@ updated: 2026-10-22
 > - **15** 年左右该国在引入校长评估与管理主义问责中经历的试错与拉锯跨度（2001–2015）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

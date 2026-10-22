@@ -55,11 +55,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Post-structuralism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **后结构主义（Post-structuralism）** 是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过[[Performativity|表演性]][[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 结构主义、后结构主义与[[Postmodernism\|后现代主义]]的方法论辨析
 > | 维度 | 结构主义（Structuralism） | 后结构主义（Post-structuralism） | 后现代主义（Postmodernism） |
 > |---|---|---|---|
@@ -95,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **反[[Structural Functionalism|结构功能主义]]与能动性优先（Prominence of Individual Agency）** 坚决拒绝将社会和个体行为视为机械契合的封闭系统部件，批判将行为完全归结为阶级、地位和既定社会角色的结构[[Determinism\|决定论]]。
 > - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，而是异质且差异化的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
 > - **数据即[[Performativity|表演性]][[Discourse|话语]]与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，而是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
@@ -157,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕后结构主义形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
@@ -175,8 +165,6 @@ updated: 2026-10-22
 > - **2010s 至今 — [[Reflective Thinking\|反思性探究]]与[[Paradigm\|范式]]共生前沿** 贝姬·弗朗西斯（Francis, 2010）与 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] 系统将后结构主义确立为联结[[Interpretive Paradigm\|诠释范式]]、[[Complexity Theory\|复杂性理论]]与批判理论的关键纽带，强调四重视角网络与放弃[[Determinism\|决定论]]因果律。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -197,8 +185,6 @@ updated: 2026-10-22
 > - **话语[[Determinism\|决定论]]对物质实在的遮蔽** 将所有学校生活化约为话语表演，易低估宏观政治经济结构对学校教育资源的硬性物质约束。
 
 ---
-
-## 实证数据
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 28–29)]] — 阐发后结构主义在教育探究中的特征：反思[[Structural Functionalism|结构功能主义]]、视数据为文本[[Discourse|话语]]、解构意义特权；第 31–32 章另述[[Discourse Analysis\|话语分析]]的操作路径。

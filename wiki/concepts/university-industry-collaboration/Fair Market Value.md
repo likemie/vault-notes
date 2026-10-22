@@ -47,11 +47,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Fair Market Value
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **公平市场价值（Fair Market Value, FMV）** 是在信息对称、自愿且不受外部强制的独立交易双方之间进行资产、服务或货物转让时达成的公允基准价值。在**国际贸易与产业规制**领域，FMV 指反倾销调查与管理贸易协定中，依据生产商实际制造成本、合理管理销售费用与法定利润率核定的正常出口价格基准，用于防范低于成本掠夺性倾销并设定法定义务价格底线；[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–126)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 85)]] 在**生物医药[[University-Industry Collaboration|产学合作]]** 领域，FMV 指产业方在编制[[University-Industry Collaboration|产学合作]]与[[Clinical Trial|临床试验]]预算时，通过聚合全行业实际历史谈判数据确立的公允报销标准，旨在防范对医疗学术机构形成不当利益输送或合规违规。
@@ -83,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **生产成本法定重构（Constructed Value Components）** 国际贸易反倾销中计算 FMV 的法定构成，包括制造工序直接物料与人工成本、折旧摊销、一般管理与销售费用（SG&A，通常设定法定最低比例如 10%）以及法定最低利润率（通常为 8%）。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 125)]]
 > - **厂商特异性季度价格底线（Firm-Specific Quarterly Price Floors）** 监管当局（如美国商务部）对各被诉外国企业每季度更新一次最低允许售价，阻断任何低于核定成本的跨境报价。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 85)]]
 > - **行业实际谈判基准数据库（Negotiated Benchmark Databases）** [[University-Industry Collaboration|产学合作]]中依托 GrantPlan® 等第三方平台，聚合跨区域、跨阶段的历史真实合同谈判数据，作为公允支出上限依据。
@@ -139,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +148,6 @@ updated: 2026-10-22
 > - **2020 年代至今 — 全球产业重组与战略成本规制反思** Bown 与 Wang（2024）等学者在回顾美日半导体竞争史时，将 1980 年代基于 FMV 的价格干预作为传统产业政策扭曲市场的反面教训，促使当代政策制定者放弃单纯价格底线管制，转向直接投资补贴与多边出口管制等[[Modern Industrial Policy|现代产业政策]]复合工具。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 85–86)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -182,8 +172,6 @@ updated: 2026-10-22
 > - **首创前沿领域参照物匮乏** 针对首创新药（First-in-Class）或颠覆性前沿硬件研发，公开成交数据库缺乏可比交易参照物，机械套用 FMV 易严重低估研发真实边际成本。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

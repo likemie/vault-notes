@@ -63,7 +63,6 @@ citation_aliases:
   - "Jornitz & Klinge, 2022"
   - "Jornitz & Klinge (2022)"
 ---
-# Argument_Jornitz_2022_Bildung_algorithmic
 
 > [!question]
 > 数字学习技术——学习软件、教育 App、学习平台——并不是教育学上中立的工具。它们的开发者、编码者和设计者通过编程，将特定的学习主体假设和对"什么是学习"的理解写入产品之中。如果这些技术在 [[Global Education Industry\|全球教育产业]] 中大规模流通，它们不仅改变了教学的"效率"，更改变了教学**本身**——改变了教师与学生的关系、知识被呈现的方式、以及学习的终极目标。由此产生一个根本性的追问：算法技术是否以及如何系统性地排除了教育的核心目标——[[Bildung]]（人格陶成／教养）？
@@ -204,9 +203,7 @@ Masschelein and Ricken（2010, p.130）将 Bildung 拆解为三重关系，为�
 > - Bildung 的三大关系维度——自我关系、他者关系、世界关系——均在算法技术中被系统性地简化和窄化(p.246)
 > - 数字技术在全球范围内的传播构成"数字[[Geopolitics of Knowledge\|知识地缘政治]]"——标准化了全球的教学内容和教学方法，否认文化和课程的差异
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “对于此类系统而言，思考仅仅是一个干扰[[Variable\|变量]]，因为它会耗费时间。然而，对于受教育学指导的教育过程而言，思考才是应该在学校中培养的核心行动。”
 > ("For such systems, thinking is just an interfering [[Variable]] because it takes time. For an education process guided by pedagogy, however, thinking is the central action that should be cultivated in school.")(p.238)
 

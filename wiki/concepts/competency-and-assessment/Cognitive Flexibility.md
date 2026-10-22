@@ -70,11 +70,7 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# Cognitive Flexibility
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知灵活性（Cognitive Flexibility）是指个体根据变化的环境条件、任务约束与目标需求，在不同心智表征、概念范畴、注意规则或行动策略之间自适应切换，并抑制自动化思维定势以实现多路径[[Problem Solving\|问题解决]]的高阶认知与[[Executive Function\|执行功能]]。在认知神经科学与学习科学中，它与[[Working Memory\|工作记忆]]（[[Working Memory]]）和[[Inhibitory Control\|抑制控制]]（抑制控制）共同构成核心[[Executive Function\|执行功能]]的三大支柱；在[[Creativity\|创造力]]研究中，它被视为[[Divergent Thinking\|发散思维]]、远距离概念重组与突破功能固着的最核心底层心智能力。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2, 10)]]; [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; Diamond (2013); Spiro et al. (1988)
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知灵活性与核心[[Executive Function\|执行功能]]及[[Higher-Order Thinking Skills\|高阶思维]][[Construct\|构念]]辨析
 > | 比较维度 | **认知灵活性（Cognitive Flexibility）** | **[[Working Memory\|工作记忆]]（Working Memory）** | **[[Cognitive Inhibition\|抑制控制]]（Inhibitory Control）** | **[[Divergent Thinking\|发散思维]]（Divergent Thinking）** |
 > |---|---|---|---|---|
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > | **在干预训练中的角色** | **思维训练的核心塑造目标（$g = 0.762$）** | 基础容量限制（受容量瓶颈约束） | 过滤[[Automation Bias\|自动化偏见]]的看门人 | [[Creativity Training\|创造力干预]]的核心测量效标之一 |
 
 ---
-
-## 核心要素
 
 > [!feature] 认知灵活性的四大核心维度（Ionescu, 2012; Diamond, 2013）
 > 1. **视角转换（Perspective Taking / Reframing）** 跳出个人既有立场或常规物理尺度，从使用者、自然界、逆向因果或跨学科角度重新审视问题的能力。
@@ -170,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心理论断言 | 关键机制与调节[[Variable\|变量]] | 代表学者与实证依据 |
 > |---|---|---|---|
@@ -181,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 认知灵活性理论演进脉络
 > - **1980 年代　认知灵活性理论（CFT）创立** 斯皮罗等（Spiro et al., 1988）针对复杂领域高级学习提出 CFT，批判传统线性教学的过度简化偏见，提倡“非线性随机超文本访问”与多重视角重访。
 > - **1990 年代　认知心理学任务转换[[Paradigm\|范式]]成熟** Rogers and Monsell (1995) 与 Meiran (1996) 确立任务转换范式（[[Cognitive Shifting\|task switching]] Paradigm），量化了转换损耗（Switch Cost）的认知心理学与神经机制。
@@ -190,8 +178,6 @@ updated: 2026-10-22
 > - **2020 年代　[[Creativity\|创造力]][[Three-Level Meta-Analysis\|多层元分析]]与教育干预验证** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 实证确立聚焦认知灵活性的思维训练的高效能（$g = 0.762$），并与发散测量及技术型工具形成完整的干预生态。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与应用反思
 >
@@ -209,8 +195,6 @@ updated: 2026-10-22
 > 2. **重视与[[Inhibitory Control\|抑制控制]]的协同培养** 提升灵活性的首要前提是让学生具备抑制“自动化直觉反应”的能力，先学会“慢下来停顿”，再展开多向度检索。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -250,8 +234,6 @@ updated: 2026-10-22
 > | Ritter and Mostert (2017) | 荷兰高校跨学科设计工坊学生（$EG = 31 / CG = 31$） | 准实验前后测：**【干预变量】** 外显思维策略训练；**【结果变量】**[[Alternate Uses Test\|AUT]] 范畴转换数与 [[Remote Associates Test\|RAT]] 顿悟表现 | 策略训练促使学生从单一范畴内的连续联想跃升为多范畴间的自由跳跃（$p < .01$） | 证实启发式工具能直接激活认知灵活性的语义跨界重组机制 |
 
 ---
-
-## 教育应用与教学实践
 
 > [!implication]- 培养认知灵活性的四大教学支柱
 > 1. **开展“反转假设”与[[Lateral Thinking\|侧向思维]]谜题训练** 教学中定期引入具有误导性常规表象的难题，引导学生先列出所有“显然如此”的直觉假设，再强制将每一条假设反转，迫使思维脱离陈规；

@@ -27,18 +27,12 @@ created: 2026-10-07
 updated: 2026-10-07
 ---
 
-# Hidden Curriculum
-
-## 定义
-
 > [!def] 日常学校生活中的社会学习
 > 隐性课程（Hidden Curriculum）指学生在学校日常生活中学习的权力、权威、认可、拒绝、等待、群体成员身份、规则、常规与社会可接受行为。学会这些规则影响学生如何在学校生活中行动，即使它们没有以正式学科内容的方式呈现。Jackson (1968) 强调，适应隐性课程对在校表现的重要性可能不亚于正式课程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
 
 隐性课程可从课堂互动的具体安排辨认。谁能提问、谁必须等待、哪种回答会被表扬，都会传递关于课堂身份与行为边界的信息。
 
 ---
-
-## 核心要素
 
 > [!feature] 课堂中可以辨认的学习内容
 > - **权威与发言资格** 教师决定发言者、发言时间、话题和回答是否正确。
@@ -57,8 +51,6 @@ updated: 2026-10-07
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 课堂会话中的情境与观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -67,8 +59,6 @@ updated: 2026-10-07
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31\|(Cohen et al., 2011, §31.2)]] | Cummings (1985) 的幼儿课堂，共 27 名 5–6 岁儿童 | 课堂逐字稿的多层[[Conversation Analysis\|会话分析]] | 发言分配、回答评价、议程终止和规则提醒 | 全体儿童坐在地毯上，教师坐在椅上；逐字稿列出 105 行，教师直接点名互动的儿童为 Vicky、Luke、Ben、Paul、James、Olga；未给出全体参与频数 | — | 幼儿课堂示例；不能由未被点名推断其没有参与，也不能将文本中的权力解释作为唯一解释 |
 
 ---
-
-## 争议与批评
 
 > [!warning] 权力解释与专业职责的边界
 > 教师控制谈话可能维系权威，也可能在儿童人数较多时保障倾听与共同活动。逐字稿遗漏许多非言语行为，难以独自裁定学生是否厌倦、是否受压制及教师的真实动机。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]

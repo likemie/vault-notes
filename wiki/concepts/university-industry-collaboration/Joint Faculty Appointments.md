@@ -48,11 +48,7 @@ created: 2026-06-04
 updated: 2026-10-22
 ---
 
-# Joint Faculty Appointments
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 联合教职任命（Joint Faculty Appointments），亦称双重教职聘任或校企双重雇佣（Joint Faculty Employment），指顶尖学者或研究人员同时持有商业企业正式雇员与[[Research Universities|研究型大学]]专任教授双重法律身份、并在这两种体制角色间实现并行运作的新型[[University-Industry Collaboration|产学合作]]制度构型。与传统的单向[[Sponsored Research Agreement|赞助研究协议]]（SRA）或短期外部咨询协议不同，联合教职在雇佣关系层面实现组织间深度整合：学者在企业以雇员身份攻关具有高度商业保密性的专有工程难题，在大学以教授身份主持开放前沿科研、指导研究生并公开发表学术论文，从而在个体行动者层面架设起化解校企时间尺度与目标脱节的高带宽协同桥梁。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]; [[Argument_Ramming_2025_CorporateSupport|(UIDP, 2024, cited in Ramming, 2025, p. 230)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 产学人才与智力协作模式辨析
 > | 维度 | 联合教职任命（Joint Faculty） | [[Sponsored Research Agreement\|赞助研究协议]]（SRA） | 外部咨询协议（Consulting） | 客座访问教授（Visiting Faculty） |
 > |---|---|---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 > | **内部管理载体** | 企业业务部门 ＋ 中央 [[Academic Engagement Team\|AET]] 协调 | 中央 AET 或[[Technology Transfer Office\|技术转移办公室]]（TTO） | 业务工程团队直接管理 | 人力资源部门或研发实验室对接 |
 
 ---
-
-## 核心要素与运作机制
 
 > [!feature] 联合教职的四大组织支柱与运作机制
 > - **双重人格并行运作（Dual Persona Parallelism）** 研究者同时兼具企业雇员（面向商业损益、系统交付与专利保护）与大学教授（面向学术真理、公共发表与学生培育）两种人格；两种身份在周度工作节拍中交替或同步推进，成为穿透校企组织壁垒的活体通道。
@@ -147,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -157,16 +147,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1990s — 生物制药与临床医学领域的早期萌芽** 医学院教授兼任附属学术医疗中心医生与药企临床顾问的传统做法，为高科技跨界联合聘任提供了最初的雏形。
 > - **2010s — 人工智能与计算机科学领域的大规模制度化** 随着深度学习与生成式 AI 的爆发，硅谷科技巨头（如 Google、Meta、Microsoft、Amazon）大规模聘任顶尖计算机学者为“副总裁级杰出科学家”，开创大学留职 20%–50% 授课与企业研发并行的双栖聘用潮。
 > - **2020s — 规范化治理与 [[University Industry Demonstration Partnership|UIDP]] 行业标准确立** 美国大学与产业示范伙伴关系（UIDP）发布联合教职聘用指引白皮书，推动联合聘任从头部巨头的特异性个案谈判，转向具有完备知识产权隔离与利益冲突防范标准的常规合作工具。（UIDP, 2024; 引自 [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025, p. 230]]）
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理反思
 >
@@ -186,8 +172,6 @@ updated: 2026-10-22
 > 联合教职聘任机制高度依赖学者个体的自律协调能力与双方机构的成熟法务支持。在需要高度保密的国防武器研发、或理论与工程应用严重脱节的纯抽象基础数学领域，联合教职适用性较低；对于缺乏专职 [[Academic Engagement Team|AET]] 和成熟 [[Technology Transfer Office|TTO]] 治理经验的中小型企业与普通高校，极易演变为法律纠纷与人才流失风险。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨机构联合教职实证与实务分析对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

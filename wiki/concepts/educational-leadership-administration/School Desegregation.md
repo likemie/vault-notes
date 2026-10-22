@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# School Desegregation
-
 > [!metax] [种族融合 · Desegregation](https://www.visiblelearningmetax.com/influences/view/desegregation)
 > 学校 › 学校构成
 >

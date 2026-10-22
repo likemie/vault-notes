@@ -34,8 +34,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Product-Specific Research in University-Industry Consortia
-
 > [!info] 定义
 > 产品专项研究（Product-Specific Research）是产学联合体中与[[Precompetitive Research\|前竞争研究]]互补的第二层研究轨道。它由单个产业成员在联合体协议之外独立出资赞助，建立在所有成员都有权使用的前竞争知识之上，但涉及赞助企业自己的专有信息（如产品规格、生产工艺、客户数据）。其核心制度特征是：[[Foreground IP\|前景知识产权]]（Foreground Intellectual Property, FIP）归赞助企业所有，不与其他成员共享([[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al., 2025, pp.114–115]])。
 
@@ -53,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 两层轨道的衔接逻辑
-
-> [!note|notitle]
+> [!note] 两层轨道的衔接逻辑
 > [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]通过 [[Advanced Manufacturing Research Centre\|AMRC]] 的案例展示了前竞争轨道和产品专项轨道如何互补运作（pp.114–115, 117–118）：
 
 [[Precompetitive Research|前竞争研究]]用成员年费和政府拨款共同资助，所有成员平等使用研究成果。这一轨道的核心功能是消除竞争对手在同一张桌子上合作的最大障碍——没有人因为参与联合体而出让自己的竞争优势。

@@ -49,11 +49,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Greenfield vs Brownfield Innovation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 绿地创新与棕地创新（Greenfield vs Brownfield Innovation）是科技政策与[[Evolutionary Economics|演化经济学]]中用于解构新兴技术所面临的“系统嵌入环境与市场结构约束”的核心概念对。绿地创新（Greenfield Innovation）指技术进入的是一个没有庞大历史沉没资产、缺乏既有垄断规制网络且应用场景高度开放的全新空白生态（如冷战初期的半导体、电子计算机与互联网）；棕地创新（Brownfield Innovation）则指新技术必须强制嵌入到深嵌于巨额重资产投资、运行寿命长达 30–50 年、极度规避风险且受公用事业强监管的既有物理与组织存量系统之中（如现代集中式电网、交通运输燃料系统与大宗化石能源基础设施）。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–186)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 绿地创新与棕地创新的全维度对比
 > | 比较维度 | 绿地创新（Greenfield Innovation） | 棕地创新（Brownfield Innovation） |
 > |---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 > | **政策工具重心** | 先导研发合同 + 军品先导采购 + 反垄断专利开放 | 碳定价与强制排放标准 + 存量改造补贴 + 兆瓦级全系统示范工程 |
 
 ---
-
-## 核心要素
 
 > [!feature] 棕地创新的三大核心制约要素
 > - **大宗商品的同质性约束（Commodity Homogeneity）** 绿色低碳电力在终端物理性能上与火电毫无二致；若无人为碳定价或强制配额，消费者与企业不会仅因其绿色属性而支付商业溢价。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–185)]]
@@ -138,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 绿地与棕地创新核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -148,16 +138,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1980s–1990s — 产业经济学中的早期隐喻** 工业地理学与[[Evolutionary Economics|演化经济学]]学者借用建筑与制造业概念，区分全新设立的“绿地工厂”（Greenfield Plant）与依托老旧厂房改造的“棕地企业”（Brownfield Firm）。
 > - **2011 — Mowery 将其引入[[Big Science|大科学]]与能源科技政策比较** [[David C. Mowery|大卫·莫厄里]]在 NBER 专著《加速能源创新》中系统建构了绿地创新与棕地创新的[[Analytic Framework|理论分析框架]]，奠定了冷战信息技术政策与当代气候政策比较的学理分界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 184–186)]]
 > - **2018–至今 — 当代使命导向型政策（[[Mission-Oriented Innovation Policy|MOIP]]）的边界审思** [[Mariana Mazzucato]] 与 [[Rainer Kattel]] 等学者进一步将该概念融入三代使命政策演化框架，指出应对社会难题的第三代使命（如碳中和、医疗照护）普遍具有深刻的棕地与复杂社会系统嵌入属性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论与政策争议
 >
@@ -168,8 +154,6 @@ updated: 2026-10-22
 > > - **系统演化学派反驳** Mowery 与[[Evolutionary Economics|演化经济学]]者指出，即便度电成本下降，电网传输损耗、调峰储能配套、土地使用权审批、现有电厂退役债务及电网调度法律规程等庞大的制度与物理网络，依然会阻滞新技术的采纳，必须系统性重塑规制环境。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 185–186)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 信息技术与能源部门[[Systems of Innovation|创新系统]]结构对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

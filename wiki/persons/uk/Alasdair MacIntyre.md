@@ -47,11 +47,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Alasdair MacIntyre
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 苏格兰裔哲学家、当代美德伦理学复兴领袖，圣母大学哲学荣休教授，美国文理[[Chinese Academy of Sciences|科学院]]（American Academy of Arts and Sciences, AAA&S）院士。
@@ -73,17 +69,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1981 — *After Virtue: A Study in Moral Theory* （追寻美德）** 诊断启蒙道德方案的破产与现代社会的道德失语，主张回归[[Aristotle|亚里士多德]]主义与具体共同体传统中的美德实践。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 > - **1988 — *Whose Justice? Which Rationality?* （谁之正义？何种合理性？）** 批判启蒙理性的无立场普遍主义神话，论证伦理推理必须植根于具体历史传统。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Enlightenment|启蒙运动]]试图脱离具体目的论传统建立普遍道德规则的方案已彻底破产，导致现代社会沦为情感主义支配下的无休止价值争吵；那种以绝对包容为名解构一切实质善恶标准的“[[Pluralism|淹没性多元主义]]”最终会导致社会的道德虚无与瘫痪；人类唯有在拥有共享崇高目的、叙事统一性与内在卓越实践的真实共同体中，方能维系有意义的道德生活。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(MacIntyre, 2007; Karp & Zamiska, 2025, p. 201)]]
 
 > [!citation-card] 麦金太尔论抵制淹没性多元主义与重建道德共同体
@@ -93,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **道德哲学与政治理论路径** 成为当代美德伦理学复兴的奠基文献，与[[John Rawls|罗尔斯]]自由主义正义论展开长期学术对话。
 > - **社群主义与文化批评** 深刻启发了当代社群主义学者对契约主义、工具理性与后现代道德虚无的系统反思。
 > - **现代国家与[[Technological Republic|技术共和国]]伦理重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中引述麦金太尔，批判硅谷与西方社会的道德不可知论，主张确立明确的卓越德性追求。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **当代应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中借用其观点批判技术精英的道德虚无。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

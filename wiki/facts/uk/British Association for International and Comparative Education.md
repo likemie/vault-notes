@@ -48,11 +48,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# British Association for International and Comparative Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 英国国际与比较教育学会（British Association for International and Comparative Education, BAICE）是英国最高层级的国际与比较教育跨学科专业学术组织，[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（[[World Council of Comparative Education Societies|WCCES]]）正式成员学会。学会致力于推进[[International Education|国际教育]]、比较教育与全球南方[[Development Education|发展教育]]的研究、教学与政策实践，维护英国比较教育学者的专业身份认同，并在国家教育政策咨询与跨国学术网络中扮演核心枢纽角色。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1966–1979 — [[Comparative Education Society in Europe|CESE]] 英国分会设立与自主化孕育** 在[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）早期跨国精英会员模式下，约瑟夫·劳威斯（[[Joseph Lauwerys]]）与[[Brian Holmes|布莱恩·霍姆斯]]等在伦敦大学教育研究院设立了 CESE 英国分会（British Section of CESE），以应对国内日益增长的[[Disciplinary Institutionalization|学科建制]]与政策咨询需求。
 > - **1979–1997 — BCIES 独立建制与分流发展** 英国分会脱离 CESE 架构独立注册为英国[[Comparative and International Education Society|比较与国际教育学会]]（BCIES），重点对接英联邦国家学制研究与理论建设；同期，关注第三世界教育发展实务的学者成立了 BATROE。
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > - **2000s 至今 — 全球南方连结与批判[[Paradigm|范式]]深化** 学会主办的《Compare》期刊跃升为全球比较教育领域的顶级 Q1 核心期刊；学会持续资助亚非拉发展中国家学者参会交流，就[[Post-colonial Theory|后殖民理论]]、社会正义、去殖民化教育与全球治理展开前沿论辩。
 
 ---
-
-## 核心学术特征与学科史意义
 
 > [!feature] 核心学术特征
 > - **理论比较与发展实务的深度整合** 成功克服了传统比较教育重欧陆历史哲学玄思、轻实践行动的局限，将历史文化主义分析方法与面向非洲、亚洲等后殖民地区的具体教育援助工程有机嫁接。

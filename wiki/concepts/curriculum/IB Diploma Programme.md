@@ -56,11 +56,7 @@ created: 2026-07-01
 updated: 2026-10-22
 ---
 
-# IB Diploma Programme
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[International Baccalaureate\|国际文凭]]大学预科项目（International Baccalaureate Diploma Programme, IB DP）是IB 为 16–19 岁学生设计的两年制课程。学生需完成六个学科组的课程和三项核心要素——[[Theory of Knowledge\|知识论]]（ToK）、[[Extended Essay\|拓展论文]]（Extended Essay, EE）、创造—行动—服务（[[Creativity, Action, Service\|Creativity, Activity, Service]], [[Chinese Academy of Sciences|CAS]]）（[[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, pp.29–31]]）。
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **边界** IB DP 不等同于 IB 整体（IB 还包括 PYP and MYP）。DP 的批判性思维培养依赖 ToK 课程和全校实施方式的配合，课程框架本身不自动保证效果。IB [[IB Learner Profile\|学习者培养目标]]（IB Learner Profile）将探究者、思考者、风险承担者、反思者和创造者等角色作为培养方向，这些角色在 TOK 课程中通过[[Epistemology\|认识论]]训练得以具体实践，支撑[[Learner Autonomy\|学习者自主性]]的发展（[[Argument_Lakhani_2012_AKUIED\|Lakhani, 2012, pp.177–178]]）。
 
 ---
-
-## 核心要素
 
 > [!feature] 三项核心要素
 > - **[[Theory of Knowledge\|知识论]]（ToK）** 100 小时必修[[Epistemology\|认识论]]课程，是 DP 的跨学科核心。不教授固定内容，要求学生反思"我们如何知道我们所知道的"，形成关于知识本质的连贯观点（IBO, 2014）。TOK 与[[Extended Essay\|拓展论文]]合计最多贡献 3 分（满分 45），这一低权重设计旨在减轻内容考核压力，使课程不易退化为应试训练，同时留给教师在主题选择和方法上更多自由（[[Argument_Zemplen_2007_SciEduc\|Zemplén, 2007, p. 168]]）。首次 TOK 考试于 2001 年举行。
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **外部评估（2/3）** 学生在家完成 1200–1600 字的论文，从每年公布的十个题目中选择一个，约半数题目与 [[Nature of Science\|NOS]]、HPS 或 [[Socioscientific Issues\|SSI]] 直接相关
 
 ---
-
-## 实证数据
 
 > [!effect-table]- DP 毕业生 vs 非 DP 毕业生（[[Argument_Cole_2015_AJE\|Cole et al., 2015]]）
 > | 比较 | 结果[[Variable\|变量]] | n (DP/非DP) | Cohen's $d$（派生） | Hedges' $g$（派生） | [[School Effectiveness\|SE]] | 设计 |
@@ -102,8 +94,6 @@ updated: 2026-10-22
 ## 与科学科目的结构性张力
 
 DP 的独特设计——将[[Critical Thinking|批判性思维]]课程（[[Theory of Knowledge|TOK]]）作为独立核心要素，与六组传统科学和人文科目并行——在创造跨学科反思空间的同时，也催生了两种教育议程之间的深层冲突。[[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007)]]
-
-### 为何冲突是结构性的
 
 > [!info] TOK 在 DP 中的双重角色
 > TOK 被赋予了两个难以同时满足的任务：

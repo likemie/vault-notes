@@ -74,11 +74,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Nature of Science
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学本质（Nature of Science, NOS）是科学教育学、科学哲学与[[Epistemology\|认识论]]的核心交叉概念，指个体对科学作为一种独特[[Knowledge Production\|知识生产]]体系的[[Metacognition\|元认知]]理解——涵盖科学知识的认识论属性（如实证性、暂时性与可修正性）、科学共同体的[[Epistemic Practices\|认识论实践]]（如假设检验、异常数据排查与同行评议），以及科学活动与社会、历史及文化情境之间复杂的交互共生关系（Lederman, 1992; Lederman et al., 2002; McComas, 1998; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]）。理解科学本质被公认为培育公民[[Scientific Literacy\|科学素养]]（Scientific Literacy）的三大支柱之一，促使学习者从被动接受现成定理的知识消费者转变为具备理性审辨力的探究参与者。
@@ -100,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学本质与相关科学教育[[Construct\|构念]]的维度对比
 > | 比较维度 | 科学本质（Nature of Science） | [[Epistemic Cognition\|认识论认知（Epistemic Cognition）]] | [[Scientific Method\|科学方法（Scientific Method）]] | [[Scientific Literacy\|科学素养（Scientific Literacy）]] |
 > |---|---|---|---|---|
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > | **测评方式** | 科学本质观问卷（[[Views of Nature of Science Questionnaire\|VNOS]]）开放答卷与深访 | 任务出声思考协议、[[Source Evaluation\|信源评估]]测验、论证文本分析 | 实验操作评估、变量控制策略（CVS）测验 | [[PISA\|国际学生评估项目]]（PISA）科学素养测试、公民[[Questionnaire\|问卷]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 科学本质七大核心[[Epistemology\|认识论]]特征（Lederman et al., 2002）
 > - **实证性（Empirical Basis）** 科学断言最终必须植根于对自然界的系统观察、实验与数据证据，不可仅凭权威宣告、个人信仰或纯逻辑玄想确立真理性。
@@ -176,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -193,8 +183,6 @@ updated: 2026-10-22
 > - **2020s — 从陈述性共识转向情境化[[Epistemic Cognition\|认识论认知]]阶段** 学界反思静态共识原则的局限；[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在[[Meta-analysis\|元分析]]中明确划定科学本质（宏观观念）与认识论认知（任务情境中的动态认知过程）的[[Construct\|构念]]边界，排除单纯 NOS 研究以维护构念纯度，推动科学教育由讲授关于科学的哲学教条转向支持真实探究任务中的动态[[Epistemic Practices\|认知实践]]。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 480)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -215,8 +203,6 @@ updated: 2026-10-22
 > 科学本质概念提炼的是跨学科科学哲学的普遍认识论共识，不应被用作判定具体科学假说是否成立的操作性实证准则；若将其简化为[[Rote Learning\|死记硬背]]的哲学考点，反而会背离培育学生审慎[[Critical Thinking Disposition\|批判精神]]与科学探究素养的初衷。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

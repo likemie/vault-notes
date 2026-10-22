@@ -52,11 +52,7 @@ created: 2026-06-11
 updated: 2026-10-22
 ---
 
-# Tokyo Bay Area
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 东京湾区（Tokyo Bay Area，亦称产业湾区）是指位于日本关东地区、围绕东京湾展开的世界级产业与科技创新都市圈。该区域早前以京滨、京叶传统重化工业为主，经过多年转型升级形成以现代服务业为主导、高端精密制造业为支撑的复合型产业结构。东京湾区聚集了丰田、佳能、索尼等世界 500 强企业，以及东京大学、筑波大学等知名学府。依托自 20 世纪 60 年代实施的国家级“工业分散”战略、亚洲著名的[[Tsukuba Science City|筑波科学城]]国家级研发基地、企业主导的产官学联合培养、海外人才引进机制（如[[300,000 Foreign Students Plan|留学30万人计划]]）以及《[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]》（[[Technology Transfer Office|TLO]] 法），形成了独具特色的“工业 + 研发 + 政府”三位一体区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 世界三大典型湾区[[Innovation Ecosystem|创新生态]]模式对比
 > | 比较维度 | [[San Francisco Bay Area\|旧金山湾区]]（科技湾区） | [[New York Bay Area\|纽约湾区]]（金融湾区） | 东京湾区（产业湾区） |
 > |---|---|---|---|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | 张寒旭等 | 张寒旭等 |
 
 ---
-
-## 核心要素
 
 > [!feature] 东京湾区[[Innovation Ecosystem|创新生态系统]]的五大核心要素
 > - **国家战略主导的梯次工业分散机制（State-Led Industrial Dispersion Strategy）** 自 20 世纪 60 年代启动，通过统筹交通路网、环境保护、信息共享平台与行政体系改革，将制造生产环节有序分散至湾区外围，推动东京核心区聚焦总部经济、研发设计与高端生产性服务业。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
@@ -149,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 东京湾区[[Innovation Ecosystem|创新生态]]的历史演进历程
 > - **1960年代 — 工业分散战略启动与京滨京叶重组** 日本政府制定并实施“工业分散”战略，优化沿湾空间布局与基础设施建设，开启重化工业向现代精密制造的升级通道。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **1970–1980年代 — [[Tsukuba Science City|筑波科学城]]落成与制造业领跑全球** 国家级[[Tsukuba Science City|筑波科学城]]成型，日本汽车与半导体电子跨国企业崛起，东京湾区确立世界第一大产业湾区地位。
@@ -169,8 +157,6 @@ updated: 2026-10-22
 > - **2008年至今 — [[300,000 Foreign Students Plan|留学生30万人计划]]与全球协同创新** 启动[[300,000 Foreign Students Plan|留学30万人计划]]，强化基础科研与全英文国际化教育，向世界顶级“工业+研发+政府”综合性[[Innovation Hub|创新中心]]演进。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >
@@ -188,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 东京湾区[[Innovation Ecosystem|创新生态]]与产业发展实证考证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -198,8 +182,6 @@ updated: 2026-10-22
 > | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023, 第4章)]] | 东京湾区产业结构、产官学协同与[[Tsukuba Science City\|筑波科学城]]成效分析 | 跨国湾区比较研究与案例分析 | 产业基地地位、中介服务机构入驻率、科技人才计划 | 筑波科学城为亚洲著名科学城与世界第二大研发基地；筑波研究交流支援中心由茨城县、DBJ与76家民企共建，入驻约56%的中小型科技服务机构；实施[[300,000 Foreign Students Plan\|留学30万人计划]] | 官方统计与学术文献梳理 | 证实工业分散与产官学制度创新是维系产业湾区核心[[Competitiveness\|竞争力]]的支柱 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 系统剖析了东京湾区的“工业+研发+政府”模式，重点总结了工业分散战略、[[Tsukuba Science City|筑波科学城]]建设、[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]与[[300,000 Foreign Students Plan|留学30万人计划]]等实践经验。

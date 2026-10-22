@@ -55,11 +55,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Using Data Intervention
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **数据使用干预试验（Using Data Intervention）** 是由美国[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）资助、卡瓦卢佐等学者（Cavalluzzo et al., 2014）评估的大规模整群[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）。试验覆盖美国佛罗里达州 60 所公立小学，旨在评估以“基于数据决策”为核心的密集教师专业发展与技术协作援助，能否有效提升教师[[Data Literacy\|数据素养]]、改善微观课堂教学，并最终促进 4 年级与 5 年级学生的数学标准化统考[[Academic Achievement\|学业成就]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **核心问题导向** 循证改革普遍假定“数据驱动教学改进”是提升教育质量的基石；政策界认为只要向一线教师提供专业的数据分析培训并建立结构化教研协作机制，教师即可依据学情诊断精准优化教学，进而带动学生统考表现提升。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预与机制假设
 > 假定通过高强度的研讨培训与持续性的校本技术援助，系统培养教师解读学生测验数据、识别知识薄弱点并协同制定差异化教学计划的能力，能够消除教学盲目性，实现小学高年级数学统考成绩的显著增值。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
@@ -90,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施成效与实证发现
-
 > [!indicators] 评估指标体系
 > - **过程与依从性指标** 教师数据使用技能自测、数据利用态度[[Questionnaire\|问卷]]、跨教师协作频率量表以及项目[[Implementation Fidelity\|实施保真度]]记录。
 > - **终端学业客观结局** 佛罗里达州统考（Florida Comprehensive Assessment Test, FCAT）4 年级与 5 年级全州统一数学客观测试成绩。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **$ES = 0.02$** 全州统一数学考试的学生终端统考净效应量。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与因果机制断裂
 >

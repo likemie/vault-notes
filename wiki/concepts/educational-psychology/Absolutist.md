@@ -44,11 +44,7 @@ created: 2026-08-15
 updated: 2026-10-22
 ---
 
-# Absolutist
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 绝对论者（Absolutist）是 Kuhn et al.（1991, 2000）界定的基础[[Epistemology\|认识论]]立场。该立场的个体尚未实现主客体的分化，他们将知识视为源于外部物理现实的、绝对客观的事实，认为在面对冲突观点时必然只有一个正确答案，并且相信专家或权威确切掌握着真理。在[[Generative Artificial Intelligence\|生成式人工智能]]学习环境中，该立场表现为将大语言模型（Large Language Model, LLM）视为无所不知的确定性答案机，全盘接收机器输出而缺乏审问与核验动机。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 104)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–363)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > *Absolutist learners tend to accept GenAI outputs as direct, unquestionable facts, showing superficial [[Strategic Compliance|compliance]] without verifying evidence or engaging in critical reflection.*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 绝对论者与相近[[Epistemic Stances\|认识立场]]的跨情境对比
 > | 维度 | 本概念（绝对论者） | [[Multiplist\|多元论者]] | [[Evaluativist\|评价论者]] |
@@ -110,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -127,15 +119,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 权威真理崇拜 vs 算法输出顺从
 > - **经典[[Theoretical Perspective\|理论视角]]** 绝对论者主要崇拜教师、教科书与学科专家等传统权威。
 > - **智能时代异化** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–363)]] 指出，[[Generative Artificial Intelligence\|生成式人工智能]]的语言流畅性与即时响应极易形成一种新型的“算法拟真权威”，使即便具有一定批判意识的学生在复杂任务中也极易滑入绝对主义顺从。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 实证研究结果汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

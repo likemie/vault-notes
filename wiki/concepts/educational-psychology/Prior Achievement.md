@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Prior Achievement
-
 > [!metax] [先前学业成就 · Prior achievement](https://www.visiblelearningmetax.com/influences/view/prior_achievement)
 > 学生 › 先备知识与背景
 >

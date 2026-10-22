@@ -53,11 +53,7 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-# Evaluativist
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 评价论者（Evaluativist）是 Kuhn et al.（1991, 2000）界定的最高阶[[Epistemology\|认识论]]立场。该层级的个体既承认了知识的生成是由人类心智建构的、具有主观性和不确定性（接纳了多元论的主张），同时又重新整合了认知的客观维度。他们认为并非所有观点都同等有效，通过批判性的理性论辩和客观证据的检验，可以判断出某些主张比其他主张更具合理性或更接近真相。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）[[Man-Computer Symbiosis|人机共生]]学习环境中，评价主义立场表现为学习者将大语言模型（Large Language Model, LLM）视作共同探究的思维伙伴，主动协调大模型建议、学术文献、统计规则与现实约束等多源证据，对算法输出进行实质性质疑与批判性重构，从而实现高阶共享[[Epistemic Agency\|认识主体性]]。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > *Evaluativist learners treat GenAI outputs as testable epistemic objects, actively cross-validating model suggestions against literature, empirical data, and logical constraints to maintain epistemic agency.*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 评价论者与相近[[Epistemic Stances\|认识立场]]的跨情境对比
 > | 维度 | [[Absolutist\|绝对论者]] | [[Multiplist\|多元论者]] | 本概念（评价论者） |
@@ -131,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -149,15 +141,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 专家独占特权 vs [[Scaffolding\|教学支架]]下的普适可培育性
 > - **专家特权视角** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 认为评价论需要长期、高度专门化的学术与哲学训练，在普通受教育群体中达成率极低（仅约 13%）。
 > - **支架可塑视角** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] 指出，借助[[Generative Artificial Intelligence\|生成式人工智能]]提供的即时交互与教学侧双轨支架设计，能够在常规高等教育与[[Normal School\|师范教育]]中系统性激发学习者的评价主义[[Epistemic Stances\|认识立场]]，打破评价论仅属于极少数专家的固有壁垒。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 实证研究结果汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

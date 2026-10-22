@@ -52,11 +52,7 @@ created: '2026-09-12'
 updated: 2026-10-22
 ---
 
-# Promissory Legitimacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **期许性合法性（Promissory Legitimacy）** 是指国际组织和[[Policy Brokerage\|政策中介]]机构在缺乏强制行政管辖权与无法在当下实证检验教育因果效益的制度约束下，将其政策建议与规制权力的正当性建立在对“未来的危机叙事与避险允诺”之上的治理机制。由于教育的因果链条（今天的受教育提升个体未来应对不确定性的能力）只能在不可预测的未来进行回溯检验，治理机构通过将未来建构为当下脆弱现实的逻辑延伸，向主权国家推介“即可采取行动的循证研究”（Actionable Research Evidence），允诺只要当下采纳其量化指标与干预工具即可规避未来危机，从而在当下生产出管理不确定性的政治确定性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 治理合法性形态的比较辨析
 > | 比较维度 | 本概念（期许性合法性 Promissory Legitimacy） | 绩效合法性（Performance Legitimacy） | 程序/规范合法性（Input/Normative Legitimacy） |
 > |---|---|---|---|
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **未来危机的因果投射** [[Policy Brokerage\|政策中介]]机构通过构建“未来技能短缺”、“教育平庸导致经济衰退”等前瞻性负面情境，将未来界定为高风险[[Champ\|场域]]，迫使决策者产生不可承受之重的风险焦虑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **[[Technology Deficit of Education\|教育技术赤字]]的制度代偿** 认识到教育在当下无法验证未来产出的因果断裂，国际组织通过供给标准化指标，替代性地充当管理未来预期的技术支架。
 > - **即可行动的循证研究包装（Actionable Research Evidence）** 将庞杂学术研究提炼为简明、模块化、即插即用的政策工具箱，促使决策者相信只要启动具体操作即可掌控未来。
@@ -141,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > - **2024 — 整合进[[Governing by Numbers\|数字治理]] 2.0 [[Policy Brokerage\|政策中介]]框架** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）将期许性合法性与[[Policy Ambiguity\|决策歧义性]]、公共争议性并列，提炼为解释国际组织政策中介机制的三大生态基石之一。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -182,8 +170,6 @@ updated: 2026-10-22
 > 该概念高度依赖于研究对象所处领域的“时间递延性”与“因果模糊性”；在能够进行快速短期实验验证或具有严格刚性因果反馈的实操场景中，治理者无法依靠未来期许维系权威，概念解释力将显著衰减。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

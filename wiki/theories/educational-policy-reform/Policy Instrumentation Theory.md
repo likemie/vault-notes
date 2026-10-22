@@ -67,13 +67,9 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Policy Instrumentation Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 公共政策工具的选择、[[Operationalization|操作化]]、演化及其对国家治理结构与权力关系的自主重塑机制。
 > - **理论问题** 传统[[Policy Science in Comparative Education|政策科学]]与公共行政学往往将政策工具视作中立的、功能主义的技术操作手段，忽视了工具本身所承载的认知图式、权力不对称性以及制度惯性。政策工具化理论回应了[[Technical Rationality|技术理性]]遮蔽政治决断的理论困境。
 > - **理论类型** 政治社会学与[[Historical Institutionalism|历史制度主义]]交叉取向的中观解释理论与[[Analytic Framework|分析框架]]。
@@ -84,15 +80,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 法国政治社会学者皮埃尔·拉斯库姆（Pierre Lascoumes）与帕特里克·勒加莱斯（Patrick Le Galès）在 2004 年的法文著作《公共行动的工具》（*Gouverner par les instruments*）及其 2007 年的标志性英文专文中正式确立了这一理论。
 > - **原初问题** 欧洲国家治理从传统的命令—控制型统治转向规制型[[Network Governance|网络治理]]的过程中，大量指标、标准、审计与评价规程被当作[[Value Neutrality|价值中立]]的现代化技术广泛推广，既有政策工具分类学无法解释为何技术工具的采纳会实质性架空民主政治议程。
 > - **理论资源与材料** 理论汲取了福柯（Michel Foucault）的[[Governmentality|治理术]]（governmentality）与治理装置概念、[[Pierre Bourdieu|布迪厄]]（Pierre Bourdieu）的[[Champ|场域]]与资本理论，以及胡德（Christopher Hood）对行政工具资源的分类体系，同时融入了科学技术论（[[Science and Technology Studies|STS]]）对度量与量化基础设施政治性的洞见。
 > - **形成路径** 提出者通过考察税收、环境指标、城市契约与绩效审计等实证案例，将政策工具化（policy instrumentation）界定为政权将治理意图物质化与[[Operationalization|操作化]]的制度化过程，确立了工具的技术性、社会性与政治性三重统一属性。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
 > - **2007 — 政治社会学[[Analytic Framework|分析框架]]奠定** 皮埃尔·拉斯库姆与帕特里克·勒加莱斯系统阐明政策工具的制度属性，提出工具通过问题定义、行动者赋权与因果归因自主产出治理效果。(Lascoumes & Le Galès, 2007, pp. 1–21)
@@ -113,8 +105,6 @@ updated: 2026-10-22
 > | **政体行政传统（Politico-Administrative Regimes）** | 调节构件 | 各国历史上积淀形成的行政官僚文化与制度结构，中介并过滤全球流动的通用治理工具。[[Argument_Verger_2019_Discourse\|Verger et al. (2019, p. 250)]] |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一｜政策工具承载特定的认知图景与权力关系并产生独立于政策目标的制度效应
 > **解释** 拉斯库姆与勒加莱斯认为，政策工具具有鲜明的社会政治属性，其技术构造内部深深铭刻着对社会问题的特定再现方式与规范预设。工具通过规定何种信息具有合法性与测量边界，重塑公共议题的可见度，赋予掌握工具操作权的行动者以支配地位，进而形成独立于决策者最初意向的制度效应。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 250–251)]]
@@ -137,8 +127,6 @@ updated: 2026-10-22
 > **应用实例** 商业跨国出版集团（如培生集团）在获得国家大规模统考命题、阅卷与数据分析合同后，持续通过游说和课程配套开发推动测评频次增加与学段下沉，巩固了即便遭到[[Opt-Out Movement|退考运动]]抵制也无法轻易撼动的测评经济体系。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释公共政策工具的采纳、演变及其如何反向塑造国家治理结构与权力关系；诊断量化指标与规制技术何以架空政治议程。
@@ -165,8 +153,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能仅凭工具采纳的技术特征直接推断政策实施的微观终局；工具效果受制于基层行动者的微观能动性与转译策略。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

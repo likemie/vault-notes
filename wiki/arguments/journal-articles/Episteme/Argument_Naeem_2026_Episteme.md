@@ -92,7 +92,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Naeem_2026_Episteme
 
 ---
 
@@ -161,8 +160,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -199,9 +196,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一　生成式人工智能直接输出答案会剥夺认知挣扎，导致学生的思维机能与创造力发生双重去技能化
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　生成式人工智能直接输出答案会剥夺认知挣扎，导致学生的思维机能与创造力发生双重去技能化
 > 教育的根本目的在于锤炼学生生物机体固有的认知能力、传授智力技能并养成[[Epistemic Virtues and Vices|理智美德]]；不加节制地使用生成式 AI 直接获取答案会彻底绕过必要的认知挣扎，引发内生思维机能萎缩与集体创意同质化的双重[[Cognitive Deskilling|去技能化]]危机。（pp. 270–273）
 
 #### 1. 教育的核心在于发展学生自身的思维机能，外部技术若直接代劳答案便沦为让心智萎缩的拐杖
@@ -266,9 +261,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二　将人工智能改造为拦截直接答案的提问导师，能引导学生在追问中把新知识融入个人经验并实现深层理解
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　将人工智能改造为拦截直接答案的提问导师，能引导学生在追问中把新知识融入个人经验并实现深层理解
 > 人工智能绝不应被用作答案输出机，而必须重塑为严格拦截直接答案、以双模态交互训练提问技能的提问导师（Q-Tutor）；通过从事实检索向因果反思的问题序列演进，促使学生将新概念与独特个人生活经验深度交织，从而把握解释性关联并达成深层理解。（pp. 274–278）
 
 #### 1. 善于提问是驱动自主探究的核心技能，但现有的教育大模型和辅导系统大多只会直接给出答案
@@ -338,9 +331,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　借助心理治疗式对话赋予学生思想自主权，并通过兴趣故事唤起理智情感以培育理智美德
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　借助心理治疗式对话赋予学生思想自主权，并通过兴趣故事唤起理智情感以培育理智美德
 > 理智美德的养成要求操作性智力技能与对真理的内在热爱高度统一；Q-Tutor 必须摒弃[[Plato|柏拉图]][[Socrates|苏格拉底]][[Meno|回忆说]]的诱导式预设，转向心理治疗式的自主意义建构以确立学生的作者权；进一步依托贴合学生具体兴趣的拟人化叙事模式唤起好奇与着迷等[[Intellectual Emotions|理智情感]]，方能促使提问技能最终升华为思想开放与理智创造力等稳定的理智美德。（pp. 278–282）
 
 #### 1. 人机对话应借鉴心理治疗而非苏格拉底的预设引导，让学生在开放启发中确立对思想的自主作者权
@@ -424,8 +415,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心研究发现
 > 1. **直接答案交付引致内生思维机能与[[Creativity|创造力]]的双重[[Cognitive Deskilling|去技能化]]**（pp. 270–273）
 >    算法即时提供完整答案剥夺了学生调动[[Working Memory|工作记忆]]与推理的认知挣扎，遵循用进废退动力学致使大脑机能退化（钢琴家隐喻）；同时实证证明（Doshi & Hauser, 2024），过度依赖 AI 代劳构思显著压缩了群体创意多样性，引发普遍同质化。
@@ -439,8 +428,6 @@ issuing_organization: ""
 >    技能不等于美德，唯有出于对真理的热爱方能成就品格；依托匹配学生具体兴趣的拟人化故事模式（如蜘蛛织网案例）唤起好奇、着迷与惊异等理智情感（Brady, 2019），能有效将外在提问技能升华为持久的思想开放与理智创造力美德。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 教育[[Epistemology|认识论]]终极目标与生成式 AI 盲目依赖的规范性冲突
 > 教育的[[Epistemic Aims|认识论目标]]在于增强我们生物机体固有的认知能力，帮助我们习得关键的智力技能，并通过培育[[Open-Mindedness|思想开放]]、[[Creativity|创造力]]等[[Epistemic Virtues and Vices|理智美德]]来塑造具有健全品格的人。然而，尽管教育旨在向学生传授智力技能，对[[Generative Artificial Intelligence|生成式人工智能]]的盲目依赖却正在使他们[[Cognitive Deskilling|去技能化]]。（pp. 269–270）
@@ -463,8 +450,6 @@ issuing_organization: ""
 > *The Q-Tutor needs another mode – call it the storytelling mode. Say, it teaches students about intellectual virtues through stories and whimsical characters when students enter this mode. The Q-Tutor [[CREATES Project|CREATES]] countless exemplars of whimsical characters that model intellectual virtues, tailoring these to students’ interests... Teaching that matches students’ specific interests proves very effective in promoting intellectual emotions and consequently prepares them to acquire intellectual virtues.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文明确界定的理论边界、技术瓶颈与未来研究方向
 > - **人工智能模拟德性榜样的哲学[[Ontology|本体论]]争议（Footnote 16, p. 282）**

@@ -54,11 +54,7 @@ created: 2026-06-12
 updated: 2026-10-22
 ---
 
-# Informationalization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 信息化（Informationalization / Informationalisation），是指一种以知识和信息为核心生产要素、依托信息通信技术（Information and Communications Technology, ICT）与水平网络协同以质化优化生产要素组合与使用效率的新型发展模式（Mode of Development）。[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells, 1996/2010）在[[Informationalism|信息主义]]（Informationalism）与[[Network Society|网络社会]]理论中确立了该概念，指出与依赖重工业物质投入规模的工业化（Industrialization）相比，信息化的核心生产力源于知识的创造、处理、加工与自由传递。在公共政策与教育治理视阈中，信息化进一步引申为国家依托数字网络重组公共服务、将数字化基础设施与教学技术服务向外部科技企业及商业中介外包的制度变革过程。[[Argument_Chan_2015_Intersect|(Chan, 2015, pp. 2–3)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 47)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 工业化、通用信息化与教育治理信息化的多维对比
 > | 考察维度 | 传统工业化（Industrialization） | 通用经济信息化（Informationalization） | 教育治理信息化（Educational Informationalization） |
 > |:---|:---|:---|:---|
@@ -92,8 +86,6 @@ updated: 2026-10-22
 > | **经典实证案例** | 苏联前五个五年计划、19 世纪英国工业革命 | 硅谷微型计算机革命与全球互联网产业 | 新西兰马奈卡拉尼信托（[[Manaiakalani Education Trust\|MET]]）、CORE Education、在线测评系统（[[Assessment Tools for Teaching and Learning\|e-asTTle]]） |
 
 ---
-
-## 核心要素
 
 > [!feature] 信息化[[Paradigm|范式]]的四大核心维度
 > - **知识驱动的生产要素质化重组（Qualitative Factor Recombination）** 信息化的本质不在于机器数量的机械堆砌，而在于利用信息反馈回路实时优化资本、人力与时间的配置结构，形成自适应学习系统。[[Argument_Chan_2015_Intersect|(Chan, 2015, pp. 2–3)]]
@@ -137,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -148,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 信息化概念演变历程
 > - **1970 年代中期 — 概念萌芽与日美产业洞察** 日本与美国学者率先提出从工业社会向信息社会的跃迁，关注计算机作为新型生产工具对传统重工业流程的改造。
 > - **1980 年代 — PC 革命与体制分水岭** 个人计算机（PC）与局域网在西方商业市场普及，信息化正式从国防和巨型机科研外溢至民用经济；与此同时，中央集权体制因信息管控错失个人计算革命浪潮。
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > - **2010 年代 — 平台资本渗透、[[Venture Philanthropy|风险慈善]]与公共成本转嫁** 智能终端普及与云端技术爆发，教育信息化转向由跨国科技巨头（三星、谷歌、微软）与风险慈善基金会（[[NEXT Foundation]]）共同主导的公私混合治理生态（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术与政策争议
 >
@@ -176,8 +162,6 @@ updated: 2026-10-22
 > > - **教育主权批判视角** 揭示国家退居为被动买方，公共财政预算源源不断流向硬件供应商与专有软件公司；学校被锁定在特定商业生态圈中，学生与教师的日常学习数据沦为商业公司训练算法的数字资产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 47)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 基础教育信息化治理实态与成本分摊实证对照（基于新西兰案例）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

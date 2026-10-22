@@ -60,11 +60,7 @@ related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 ---
 
-# Lev Vygotsky
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 苏联心理学家、教育心理学家，文化-历史心理学（Cultural-Historical Psychology）奠基人，前帝俄与早期苏联心理学革新者。
@@ -87,8 +83,6 @@ related_arguments:
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1925 — *Psychology of Art*（《艺术心理学》）** 早期关于符号中介、审美反应与高级心理功能的探索起点。
 > - **1930 — *Mind in Society*（《社会中的心灵》，1978 英文汇编）** 阐述主体—中介工具—客体的第一代[[Third Generation Activity Theory\|活动理论]]中介三角，以及[[Zone of Proximal Development\|最近发展区]]（ZPD）与社会互动育人理论。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]
@@ -96,9 +90,7 @@ related_arguments:
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类高级心理功能并非直接产生于生物神经刺激，而是由社会文化符号、语言与工具（Mediating Tools）所中介；学习是一个嵌入在社会历史与人际互动中的合作过程，学校系统教育通过传授科学概念引导认知发展。
 
 > [!claim] 科学概念与自发概念的分化
@@ -117,9 +109,7 @@ related_arguments:
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 提出的第一代心理中介三角（Subject–Tool–Object）被 [[Yrjö Engeström\|Yrjö Engeström]]（1987, 2001）扩展为第二代与[[Third Generation Activity Theory\|第三代活动理论]]；科学/自发概念区分被 [[Michael Young]] 与 Graham McPhail 吸收为[[Social Realism\|社会实在论]]与[[Curriculum Design Coherence Model\|课程设计连贯性模型]]（CDCM）的核心[[Epistemology\|认识论]]工具。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]; [[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]
 > - **方法路径** [[Scaffolding\|认知支架]]理论成为家庭社会化与母子对话研究（MCC）中质性[[Discourse Analysis\|话语分析]]（[[Discourse]] Analysis）的核心理论锚点。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
 > - **政策与教学路径** 广泛影响了全局以学生为中心教育（[[Learner-Centred Education\|LCE]]）、[[Dialogue in Education|对话教学]]（Dialogic Teaching）与学科课程设计的编制。
@@ -140,8 +130,6 @@ related_arguments:
 > - **思想对话与文化亲和** [[Confucius]] — 维果茨基的社会认知中介论在东亚教育实践中与孔子启发式对话传统产生[[Selective Affinity\|选择性亲和]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -107,11 +107,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# CHIPS and Science Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2022 年 8 月 9 日由美国国会两党表决通过并由总统乔·拜登正式签署生效（公法第 117-167 号）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
@@ -126,8 +122,6 @@ updated: 2026-10-22
 > - **区域创新极化与大学产学断层** 传统联邦研发资源高度集中于东西两岸，中西部与内陆地区产业基础薄弱，面临 6.7 万名专业岗位缺口与基础研究向 [[Technology Readiness Level|TRL]] 4–6 中试转化断层，迫切需要通过国家级立法重塑[[Innovation Ecosystem|区域创新生态]]并重构[[Research Universities|研究型大学]]在国家半导体体系中的功能。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–138)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–22)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《芯片与科学法案》（CHIPS and Science Act）授权总计 2800 亿美元新资金，其中包含 527 亿美元直接资金用于半导体制造补贴与先进研发、25% 制造投资税收抵免，并在科学部分圈定二十项前沿技术清单，授权大幅扩充两大核心科学资助机构预算并设立[[Research Translation|技术转化]]部门，旨在重振美国本土半导体制造能力、重塑[[Research Universities|研究型大学]]研发育人功能并全面强化国家战略科技纵深。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
@@ -158,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策演进时间线
 > - **2022-08-09** 拜登总统正式签署《2022 年芯片与科学法案》（公法第 117-167 号）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
 > - **2022-12** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]宣布在亚利桑那州凤凰城投资 400 亿美元兴建前沿晶圆厂。
@@ -173,8 +165,6 @@ updated: 2026-10-22
 > - **2024-04** 台积电宣布进一步追加亚利桑那州投资至 650 亿美元以兴建三座尖端晶圆厂，获得美联邦政府 66 亿美元直接补助与至多 50 亿美元贷款支持。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国国会两党（立法授权）与美国总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
@@ -190,8 +180,6 @@ updated: 2026-10-22
 > - **高校微观学术动员与多级人才培养** 高水平研究型大学设立专门应对法案的跨学科工作专班（如德州农工大学半导体研究院），联合产业领军企业建立微证书、工程本科与跨学科拔尖博士三级培养梯队，并设立国家半导体劳动力卓越中心（WCoE）统筹全美技能标准。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–5)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 18–19)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心决策与执行者** 美国商务部、国防部、英特尔与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 掌控资金分配与先进制程重资产落地。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 100)]]
@@ -218,8 +206,6 @@ updated: 2026-10-22
 > **关键分歧** 是否应以巨大的纳税人成本和效率损失为代价，强行将高度[[Vertical Disintegration|纵向离散]]与全球分工的制造业拉回本土。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **投入指标** 527 亿美元直接资金、预估 240 亿美元税收抵免、吸引私人部门超 2000 亿美元配套建厂承诺。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]
@@ -248,8 +234,6 @@ updated: 2026-10-22
 > - **30%–50%** 美国本土建设和运营晶圆厂相比东亚（台湾/韩国）高出的额外成本溢价。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

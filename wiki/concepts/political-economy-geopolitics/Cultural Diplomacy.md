@@ -46,8 +46,6 @@ created: 2026-05-19
 updated: 2026-10-22
 ---
 
-# Cultural Diplomacy
-
 > [!info] 定义
 > 高等教育中的文化外交（Cultural Diplomacy）指国家利用高等教育机构——包括引入外国大学设立分校、建立精英教育合作伙伴、资助高端文化机构等——来提升国际形象、投射进步形象和扩大全球影响力的战略行为。与传统的军事或经济外交不同，文化外交通过"[[Soft Power\|软实力]]"（soft power, Nye, 2005）运作——不以强制或收买为手段，而是通过**吸引力**和**声誉关联**来影响他国精英和公众的认知([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.206–209]])。
 

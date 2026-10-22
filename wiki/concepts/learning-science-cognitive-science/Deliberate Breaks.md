@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Deliberate Breaks
-
 > [!metax] [有意休息 · Deliberate breaks](https://www.visiblelearningmetax.com/influences/view/deliberate_breaks)
 > 学生学习策略 › 学习策略
 >

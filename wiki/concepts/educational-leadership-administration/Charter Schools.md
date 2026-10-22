@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Charter Schools
-
 > [!metax] [特许学校 · Charter schools](https://www.visiblelearningmetax.com/influences/view/charter_schools)
 > 学校 › 学校类型
 >

@@ -46,11 +46,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Central Question
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > [[Qualitative Research\|质性研究]]的核心问题（central question）是询问[[Central Phenomenon\|核心现象]]的主要[[Open-Mindedness|开放性]]问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
 
 > [!quote|notitle]
@@ -94,8 +90,6 @@ Miles and Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitati
 - **[[Case Study|案例研究]]** 问题可包括对案例的描述以及研究案例中[[Emergence|涌现]]的主题
 
 ---
-
-## 写作脚本与范例
 
 > [!tip] 质性核心问题[[Research Writing Script\|写作脚本]]
 > Creswell & Creswell (2022, Ch7) 提供的[[Research Writing Script\|写作脚本]]：

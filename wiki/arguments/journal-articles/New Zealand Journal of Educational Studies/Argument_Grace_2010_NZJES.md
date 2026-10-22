@@ -63,7 +63,6 @@ argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
 ---
-# Argument_Grace_2010_NZJES
 
 ---
 
@@ -80,8 +79,6 @@ journal: New Zealand Journal of Educational Studies
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -95,8 +92,6 @@ journal: New Zealand Journal of Educational Studies
 > 格雷斯以制度思想史亲历者身份，将新西兰法律中的法定概念锚定于防范大学被政治与财政利益殖民的权力制衡本质；进而借助伯恩斯坦与纳什的结构社会学洞见，论证教育成就差异深刻依存于社会外部结构，超越了孤立的学校教学范畴。两重理论透镜相互咬合，确立了判定学者是否履行该角色的规范标准：[[Analytic Framework|分析框架]]中是否对形塑生活机会的社会经济结构保持敏感。（pp. 90–91）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -113,8 +108,6 @@ journal: New Zealand Journal of Educational Studies
 > | **社会学对照样本** | 伯恩斯坦 1970 年经典著作与纳什 2003 年《新西兰的社会阶级与教育》专著章节。（p. 91） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -302,8 +295,6 @@ journal: New Zealand Journal of Educational Studies
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **法定角色源于防范政治殖民** [[Critic and Conscience of Society|社会的批评者与良知]]作为法定概念，诞生于 1980 年代抵御政治意识形态与国家财政干预对大学独立性侵蚀的制度反思，其核心使命是基于系统学术研究向执政权力讲真话。（pp. 89–90）
 > 2. **学科内部批评与社会良知存在质的区隔** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中对评估与教学假设的批评属于正常的学科内部技术性工作，并未达成面向社会结构与公共政策制衡的良知角色标准。（p. 90）
@@ -312,8 +303,6 @@ journal: New Zealand Journal of Educational Studies
 > 5. **典范学者确立了批判学术的规范基准** [[Basil Bernstein|伯恩斯坦]]与[[Roy Nash|纳什]]的研究证明，真正的社会良知学者必须直面阶级与贫困等非学校因素，坚决破除教育万能论的政策神话。（p. 91）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 大学作为权力制衡者的法定原意
 > “大学与[[Academic Freedom|学术自由]]的终极合法性，在于大学应当成为社会的独立批评者，并在这一意义上成为社会的良知。”（p. 89）

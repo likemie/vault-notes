@@ -108,11 +108,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Heterogeneity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **异质性（Heterogeneity）** 指研究对象、样本特征、干预实施条件或研究结果之间超出随机[[Sampling Error|抽样误差]]预期的系统性变异与多样性。在[[Meta-analysis|元分析]]中，异质性特指各一级实证研究的[[Effect Size|效应量]]之间的真实离散程度，表明变异源于干预强度、人群特征或情境机制的实质差异（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 32]]）；在[[Mixed Methods Research|混合方法研究]]与[[Complexity Theory|复杂性理论]]视域下，异质性揭示了单一统计指标对多重视角与主观动因的遮蔽，强调教育现实充斥着[[Open-Mindedness|开放性]]、流动性与异质声音（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 23, 32]]）。
@@ -145,8 +141,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Glass (1976) | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 23)]]; Feilzer (2010) | Robinson (1950); Coe (2002) |
 
 ---
-
-## 核心要素
 
 > [!feature] 异质性的核心理论维度
 > - **[[Meta-analysis|元分析]]中的统计变异与调节探索** 通过 [[Cochran's Q Test|Q 检验]]与 $I^2$ 统计量判定真实变异占比；借助[[Forest Plot|森林图]]呈现效应离散分布；通过[[Moderator Analysis|调节变量分析]]探寻干预在不同学段、时长或实施条件下的差异效应。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 32)]]
@@ -284,8 +278,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕异质性形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者 |
 > |---|---|---|---|
@@ -316,8 +308,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 统计平差修正 vs 实在论深层还原
@@ -336,8 +326,6 @@ updated: 2026-10-22
 > 大型证据库中的统计异质性并不必然等同于教学实践的真实多样性，极易混入测量工具的系统性人工偏差（如对照组设计差异、范围限制导致的标准差分母虚假收窄、测试题项偏倚等）（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]）；同时，探索异质性不能退化为纯粹的事后数据挖掘（Data Dredging），必须以严格的理论框架与事前预注册假说为指导，防范过度细分导致的假阳性风险。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

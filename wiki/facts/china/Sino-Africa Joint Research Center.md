@@ -49,11 +49,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Sino-Africa Joint Research Center
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 中非联合研究中心（Sino-Africa Joint Research Center, SAJOREC）由[[Chinese Academy of Sciences|中国科学院]]（Chinese Academy of Sciences, CAS）与肯尼亚乔莫·肯雅塔农业与技术大学（Jomo Kenyatta University of Agriculture and Technology, JKUAT）在肯尼亚联合建设运行，是中国在非洲设立的首个综合性海外科研与研究生联合培养基地。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226–227)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1999–2012 — 学者自发考察与学术互信积淀期**
 >   [[Chinese Academy of Sciences|中国科学院]]植物分类学家与肯尼亚学者在东非大裂谷展开长期野外联合植物考察，积累了丰富的标本积累与学术协作默契。
@@ -77,8 +71,6 @@ updated: 2026-10-22
 >   中心被连续纳入[[Forum on China-Africa Cooperation|中非合作论坛]]高层行动承诺，为非洲定向培养百余名硕博研究生，并联合出版多卷本国家级学术巨著《肯尼亚植物志》（*Flora of Kenya*）。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226–227)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **联合指导委员会（Joint Steering Committee）** 由[[Chinese Academy of Sciences|中国科学院]]国际合作局与肯尼亚教育部、科技部高层代表共同组成，负责宏观发展规划与重大科研合作协议审定。
@@ -92,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **《肯尼亚植物志》（*Flora of Kenya*）编纂** 中肯学者联合编纂的权威生物分类学巨著，系统整理与记录了肯尼亚境内近七千种维管植物，填补了东非生物多样性本底调查的历史空白。
 > - **现代农业高产抗逆技术试验示范** 在肯尼亚试验基地成功试种并推广耐旱甜高粱、杂交水稻、旱稻及高产玉米品种，开展高产栽培农艺培训，助力东非农业减贫。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > *The 2015 Johannesburg FOCAC Summit supported the Sino-Africa Joint Research Center and provided 150 joint research grants for African masters and PhD students; the 2018 Beijing Summit further scaled up support for its collaborative work in biodiversity conservation and modern agriculture. This indicates that China-Africa educational cooperation has deepened from simple one-way mobility into the co-construction of permanent in situ scientific research platforms and collaborative networks.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **高层次本土科研人才培养规模** 非洲籍硕士与博士毕业人数、在读研究生规模以及参与科研攻关的青年学者人次。
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - **10+** （个） 机构科研合作网络常态化覆盖的东非与南部非洲国家数量。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

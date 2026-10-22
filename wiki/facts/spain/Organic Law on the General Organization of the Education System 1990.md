@@ -48,11 +48,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Organic Law on the General Organization of the Education System 1990
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1990 年 10 月由西班牙工人社会党（Spanish Socialist Workers' Party，PSOE）冈萨雷斯政府颁布，由教育科学大臣哈维尔·索拉纳（Javier Solana）主导推进。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323–324)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **制度位置** 废除 1970 年学制，创设 12 至 16 岁义务中等教育（Educación Secundaria Obligatoria，ESO），并将教育管理权全面下放给 17 个自治区，奠定现代西班牙基础教育的基本结构。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 将法定免费义务教育年限从 8 年延长至 10 年（覆盖 6 至 16 岁），在 12 至 16 岁初中学段强制实施统一步调且完全相同的综合课程；同时将教育行政与课程制定权大规模移交自治区，完成全面的[[Educational Decentralization|教育分权]]重组。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323–326, 330–331)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1987** 西班牙教育部发布《教育体制改革方案》（*Proyecto de Reforma del Sistema Educativo*），开启围绕综合制与分权的社会辩论。
 > - **1990** 10 月 3 日西班牙国家官方公报正式颁布《教育体制总体组织法》（Ley Orgánica 1/1990）。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 323)]]
@@ -91,8 +83,6 @@ updated: 2026-10-22
 > - **2006** LOGSE 核心学制框架被《[[Organic Law on Education 2006|教育组织法]]》（LOE）吸收与延续。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 西班牙中央教育部与冈萨雷斯内阁。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - **官僚机构急剧肥胖** 伴随分权推进，中央与 17 个自治区竞相扩张行政编制与管理层级，造成行政肥胖症并导致全国统一协调机制瘫痪。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–329)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 社会党左翼政治家与[[Constructivist Paradigm|建构主义]]教育学者，将延长[[Comprehensive Education|综合教育]]视为打破社会分层的意识形态支柱与反阶级再生产证明。
@@ -136,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入与普及指标** 16 岁学龄人口净入学率显著提升，基本实现初中阶段全纳普及。
 > - **学业效能指标** 初中阶段学业失败率居高不下，14 岁失败率达 25%，16 岁义务教育终点失败率达 33%（三分之一）。
@@ -156,8 +142,6 @@ updated: 2026-10-22
 > - **17** （个） 事实上的区域独立教育系统
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

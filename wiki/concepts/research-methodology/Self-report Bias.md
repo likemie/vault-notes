@@ -66,11 +66,7 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-# Self-report Bias
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **自报偏差（Self-report Bias，亦称自我报告偏差、自陈偏差）** 指受访者在自填[[Questionnaire\|问卷]]、量表评估或调查访谈中进行自我陈述时，因受社会期望效应、自我形象维护、记忆遗忘失真或语义理解不一致等心理与认知机制影响，导致测量所得数据系统性、有方向地偏离客观事实或实际行为的测量偏倚（Dale, 2006; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al., 2011d, p. 262]]）。在教育政策与循证研究中，自报偏差尤为突出地表现为决策官员或教师在问卷中对循证价值与专业投入的高度自陈认同，与其真实的实践采纳行为之间产生显著的虚假繁荣与知行断层（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 77, 93]]；[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, p. 8]]）。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 自报偏差与相关测量偏差概念辨析
 > | 维度 | 自报偏差（Self-report Bias） | 社会期望偏差（Social Desirability Bias） | 回忆偏差（Recall Bias） | 默许偏差（Acquiescence Bias） | [[Response Bias\|无回应偏差]]（Non-response Bias） |
 > |---|---|---|---|---|---|
@@ -108,8 +102,6 @@ updated: 2026-10-22
 > | **主要控制** | 多源[[Triangulation\|三角互证]]、客观指标核验、保证匿名 | 强制选择量表、中立化措辞、第三方评价 | 缩短回忆时间窗口、日志追踪法（EMA） | 正反题项平衡设计、语义区分量表 | 提高回应率策略、无回应缺失数据插补 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **三重直接偏差机制（Three Distortion Mechanisms）**
@@ -191,8 +183,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -209,8 +199,6 @@ updated: 2026-10-22
 > - **2020s — 宏观教育政策治理调查与循证实践反思** 伴随[[OECD\|经合组织]]（OECD）强化教育[[Research Impact\|研究影响力]]调查（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]），学者对仅依托部委自陈的大规模跨国数据集展开方法论反思，揭示部委自陈偏高与基层实践真空的断层，推动自报研究从个体心理测量迈向公共治理生态审视。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -231,8 +219,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -243,8 +229,6 @@ updated: 2026-10-22
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d)]] | 调查施测方法学多项实证综述（Dale, 2006; Fowler, 2009; Kenett, 2006） | 施测模式对比实验与题项情境测试 | 数据收集方式对[[Sensitive Questions\|敏感问题]]自报诚实度的影响 | [[Telephone Interview\|电话访谈]]倾向于比面对面访谈引发更多社会期望偏差；自填匿名问卷在药物与违规行为上自报诚实度显著高于访谈法 | — | 证实施测方式对自报偏差存在显著[[Interaction Effect\|调节效应]]；匿名自填有效降低社会赞许压力（p. 262） |
 
 ---
-
-## 缓解策略
 
 > [!tip] 减少自报偏差的多重设计与分析策略
 > - **严格的匿名与[[Confidentiality\|保密承诺]]（[[Anonymity in Research\|anonymity]] Assurance）** 明确告知受访者数据仅用于统计聚合分析，切断作答内容与个体人事考核的联结，最大限度降低社会赞许防备。

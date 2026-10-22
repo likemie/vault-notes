@@ -51,11 +51,7 @@ created: 2026-05-13
 updated: 2026-10-22
 ---
 
-# Theories of Policy Change
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 在公共政策语境中，政策[[Theory of Change\|变革理论]]（theory of policy change）指政策所承载的关于因果机制的叙事——即关于特定政策干预在何种情境中激活何种机制、从而产生何种效果的信念体系。此概念源自 Pawson（2006）的[[Realist Evaluation\|实在论评估]]（realist evaluation）框架，强调政策评估应揭示"什么在什么情境中对谁有效"（what works for whom in what circumstances）的因果机制，而非仅关注"是否有效"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165]])。
 >
 > 在政策实践中，变革理论常以简化的因果叙事形式出现，成为政策制定者论证政策合法性的知识工具。[[EU|欧盟]]委员会和欧盟理事会自 2000 年代以来通过传播此类因果叙事在教育、创新、就业等多个政策领域获得了影响力(Dale & Robertson, 2009; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166]])。

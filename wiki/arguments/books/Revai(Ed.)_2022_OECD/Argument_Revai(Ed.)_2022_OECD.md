@@ -108,11 +108,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Argument_Revai(Ed.)_2022_OECD
-
 ---
-
-## 编著定位
 
 > [!volume-profile] 编著档案
 > - **核心议题** 剖析教育系统为何长期面临教育研究生产与政策实践应用严重脱节的顽疾，系统梳理跨国[[Knowledge Mobilisation\|知识动员]]机制、中介机构演进、多主体[[Knowledge Co-production\|知识共创]]与[[Evidence Ecosystem\|证据生态系统]]构建。
@@ -121,8 +117,6 @@ updated: 2026-10-22
 > - **使用方式** 作为全书结构导航与全系统知识沉淀入口，统摄教育知识动员、[[Evidence-Informed Decision-Making\|证据知情决策]]与证据生态系统等核心议题的研究网络。
 
 ---
-
-## 编者问题与组织主张
 
 > [!question] 编者问题
 > 为什么在各国持续扩大教育研究投资并大范围提倡[[Evidence-Based Policy-Making|循证决策]]的背景下，教育研究依然难以在政策与课堂教学实践中得到系统化、规模化应用？究竟是何种机制、制度障碍与行动者互动模式决定了教育证据能否真正进入决策与实践？（pp.3, 11, 16）
@@ -138,8 +132,6 @@ updated: 2026-10-22
 > *Conceptually, knowledge mobilisation has moved away from linear research transmission to a systems approach. There is now substantive evidence showing that the linear strategy of making research findings accessible and disseminating them to practitioners and policy makers is necessary but not sufficient for research uptake. Rather, it is important to build relationships between different communities through partnerships and networks. But simply connecting people is not enough. Agents are embedded in complex systems, and the whole system needs to be activated to establish connections among its various parts.*
 
 ---
-
-## 全书结构与章节路线
 
 > [!volume-structure] 全书结构
 > - **Part I: Conceptual landscape and the evolution of the [[Champ\|field]]（Ch. 1–3）** [[Concept Mapping\|概念图]]景与领域演进。从历史视阈梳理证据知情政策与实践（EIPP）[[Discourse|话语]]变迁，辨析研究、证据与知识的边界，系统评述与比较主流[[Knowledge Mobilisation\|知识动员]]模型，考证[[Educational Brokerage Agency\|教育中介机构]]的发展脉络与体制困境。（pp.14–74）
@@ -178,8 +170,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 理论、方法与关键词
 
 > [!volume-tools] 理论与方法工具箱
 > - **[[Knowledge Mobilisation]]** 全书核心概念基石，涵盖从早期的线性转移（Push/Pull）向关系网络、知识到行动（KTA）及复杂系统论模型的深度演进。（pp.18–20, 33–54）
@@ -220,8 +210,6 @@ updated: 2026-10-22
 
 ---
 
-## 各章概览
-
 > [!chapter-index] 章节索引
 > - **Ch. 01 — The Changing Landscape of [[Research Utilization\|Research Use]] in Education** [[Argument_Revai_2022_ChangingLandscape]] — 梳理证据知情政策与实践[[Discourse|话语]]演进，界定研究、证据与知识概念边界，阐述从线性模型到复杂系统模型的[[Paradigm\|范式]]转型，并介绍 [[OECD]] 政策调查框架。
 > - **Ch. 02 — Louder than Words: Review and Comparative Analysis of [[Knowledge Mobilisation]] Models** [[Argument_Torres_2022_KMModels]] — 系统评述与比较主流知识动员模型（线性、关系、KTA、[[Research Knowledge Mobilisation Model\|RKM]]、[[Evidence Ecosystem\|证据生态系统]]），探讨系统复杂性与促成机制。
@@ -236,8 +224,6 @@ updated: 2026-10-22
 > - **Ch. 11 — Improving Research-Policy-Practice Engagement: Lessons Learnt and Ways Forward** Argument_Revai_2022_WaysForward — 整合全书研究发现与政策调查结果，提炼促进研-政-学深度协同的六大核心战略，描绘未来系统性治理蓝图。
 
 ---
-
-## 整体贡献与使用边界
 
 > [!volume-contribution] 整体贡献
 > - **[[Research Problem\|研究议题]]贡献** 将[[International Education\|国际教育]][[Research Utilization\|研究利用]]议程从“推广单向有效性干预（What Works）”推进至“探究促成机制本身的有效性与系统激活（What works in what works）”，确立了教育[[Knowledge Mobilisation\|知识动员]]在宏观教育治理中的核心地位。

@@ -71,11 +71,7 @@ doi: ""
 citation_aliases: []
 ---
 
-# Victorian HITS and Literacy Toolkit
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2017 年由澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）正式发布实施（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
@@ -84,8 +80,6 @@ citation_aliases: []
 > - **制度位置** 政策作为维多利亚州“教育之州”（Education State）学校改进核心议程的支柱性抓手，直接与教师专业绩效评估、校级发展规划及日常督导巡查深度绑定。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 维州 HITS 与读写教学工具包将[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》提炼为 10 项“高影响教学策略”（High Impact Teaching Strategies, HITS）以及阶梯式读写指南，以此作为全州公立中小学日常课堂督导与合规考核的硬性标准，将立体的教学育人活动退化为可管制的机械核查清单与外在[[Performativity|表演性]]数据产出（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
@@ -130,8 +124,6 @@ citation_aliases: []
 
 ---
 
-## 时间线
-
 > [!timeline] 政策发展时间线
 > - **2016年** 商业出版机构 [[Corwin Press|Corwin]]（拥有 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业品牌）出版《[[Visible Learning|可见的学习]]读写教学》（Fisher, Frey, & Hattie, 2016），为维州后续读写政策提供了实操蓝本（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **2017年** 维多利亚州教育部正式发布 10 项 HITS 指南与《读写教学工具包》，宣布全州公立中小学全面启动循证教学改进（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
@@ -140,8 +132,6 @@ citation_aliases: []
 > - **2023年** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）系统批判维州 HITS 政策，指出其代表了[[Neo-Taylorism|新泰勒主义]]全景监控与教育特许加盟化对[[Teacher Professional Agency|教师专业自主权]]的系统性侵蚀。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 维多利亚州教育部（DET Victoria），负责全州政策制定、资源开发与行政督导。
@@ -155,8 +145,6 @@ citation_aliases: []
 > - **读写教学中的技术主义收紧** 在每日固定开展的读写课（Literacy Hour）上，教师被硬性要求严格依照工具包指定的阅读实操步骤进行教学，过度强化单一[[Decodification|解码]]拼读法，排挤了儿童对阅读文本的整体性文化理解（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 149]]）。
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 维州教育部技术官僚** 将 HITS 视作展现政绩与回应公共问责的核心治理工具，强调政策的标准化与可控性。
@@ -181,8 +169,6 @@ citation_aliases: []
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 维多利亚州教育部拨付的工具包研发推广经费、教师全员通识培训人次。
 > - **过程指标** 教师日常备课中对 10 项策略的对标率、白板[[Learning Intentions|学习意图]]书写达标率、行政巡视覆盖率。
@@ -194,8 +180,6 @@ citation_aliases: []
 > - **育人关系的物化与特许加盟化** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）指出，HITS 的制度遗产在于将公立学校重塑为由外部清单统一管制的商业加盟店，教师蜕变为缺乏裁量权的操作技工，学生则沦为单纯生产测验分数的指标载体。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >
@@ -219,8 +203,6 @@ citation_aliases: []
 
 ---
 
-## 关键引用
-
 > [!citation-card] 奥康纳论维州政策采纳伪科学数据的草率与偏误
 > 维多利亚州教育部发布的《读写教学工具包》与高影响教学策略（HITS）明确宣称其最高级别的证据依据来自[[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见的学习]]》。然而，当对哈蒂[[Meta-analysis|元分析]]中关于[[Whole Language|全语言]]与语音教学的底层数据进行方法论细读时，可以发现其充满了严重的分类错误、非对称审查与选择性排除。政策制定者在缺乏独立统计核验与二次同行评审的情况下，草率地将存在严重算错的假科学数据奉为圭臬，直接扭曲了全州的早期识字教学实践，压制了阅读作为社会文化经验的丰富内涵。[[Argument_OConnor_2020_AJLL|(O'Connor, 2020, pp. 141, 149)]]
 >
@@ -232,8 +214,6 @@ citation_aliases: []
 > *In Australian districts where High Impact Teaching Strategies (HITS) based on Visible Learning have been implemented, teachers are forced into simplistic performative technical actions such as writing the topic of a class on the board before beginning a lesson. Teacher autonomy, enjoyment of the profession, and collegial professional development decrease (Lilley, 2022) as "evidence based best practices" replace the trust that once existed in their professional decision making. Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies.*
 
 ---
-
-## 相关概念／理论
 
 > [!entry-map] 政策关联图谱
 >

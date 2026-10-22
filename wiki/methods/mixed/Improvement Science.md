@@ -60,8 +60,6 @@ updated: 2026-10-22
 > - 近年来在美国，Carnegie Foundation for the Advancement of Teaching 推动了改进科学在教育中的系统应用（Bryk et al., 2015）
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 将改进科学定位为"什么有效"[[Paradigm\|范式]]的**主要替代方案**——两者各有弱点但高度互补
 
-## 核心要素
-
 > [!abstract] 关键原则
 > 1. **系统视角** 教育实践不是离散的干预而是互相关联的系统
 > 2. **关注变异性** 跨情境的差异不是噪音而是学习机会——揭示什么在什么条件下起作用
@@ -116,8 +114,6 @@ updated: 2026-10-22
 > - [[Spirals of Inquiry\|探究螺旋]]模型已通过新西兰和加拿大不列颠哥伦比亚省的实证研究获得支持（McGregor, 2013; Timperley, Parr, & Meisel, 2010）
 > - [[OECD]] (2015) 在 *Schooling Redesigned* 报告中正式推广探究螺旋作为支持创新学习系统规模化的方法
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 的论证主要是**概念性和方法论性的**——改进科学与实验科学的整合效果尚未经过大规模实证检验
-
-## 争议与批评
 
 > [!warning] 方法论碎片化的风险
 > 改进科学强调本地情境和持续改编，可能使跨情境知识积累变得更加困难。[[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 的整合方案——以[[Mechanism Experiments\|机制实验]]产生的共享"构建块"作为跨网络的学习媒介——试图直接回应此批评，但这一方案本身尚待实证检验。

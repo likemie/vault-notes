@@ -39,8 +39,6 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# Socratic Tutoring Style
-
 > [!info] 定义
 > [[Socrates\|苏格拉底]]式辅导是 [[Argument_Li_2012_Cambridge|Li（2012）]]基于欧裔美国（European-American）母子对话研究提出的一种家庭教育互动模式。在这种模式中，家长——尤其是母亲——以类似苏格拉底引导学童的方式，通过日常对话将儿童的学习信念引向心智能力、思维过程和积极情感的方向。
 
@@ -82,9 +80,8 @@ updated: 2026-10-22
 **成就情感——[[Pride in Learning|骄傲]]（pride）** 母亲引导儿童为自己的成就感到骄傲。不仅母亲表达骄傲，还明确要求儿童"你也应该为自己感到骄傲"。
 
 ---
-## 实证发现
 
-> [!success|notitle]
+> [!success] 实证发现
 > 序列分析显示，欧裔美国母子的对话围绕**心智活动（mental）** 和**积极情感（positive affect）** 两个主题展开，无论对话由哪一方发起、无论讨论的是好学习还是差学习([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 > [!info] 关键数据

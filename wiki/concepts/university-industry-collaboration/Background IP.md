@@ -31,8 +31,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Background IP
-
 > [!info] 定义
 > 背景知识产权（Background IP, BIP）指在[[University-Industry Collaboration\|产学合作]]协议生效之前，任何一方独立于该合作开发或控制的知识产权。BIP 区别于[[Foreground IP\|前景知识产权]]（Foreground IP, FIP），后者是在合作期间为履行工作范围而产生的 IP。BIP 条款是产学合作协议中最激烈的谈判焦点之一，因为产业方需要足够访问大学的 BIP 以确保对 FIP 的[[Freedom to Operate\|自由实施权]]（Freedom to Operate, FTO）（pp.275–276, 280）。
 

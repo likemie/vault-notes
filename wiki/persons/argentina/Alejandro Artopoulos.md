@@ -39,18 +39,13 @@ status: draft
 created: 2026-06-07
 updated: 2026-10-07
 ---
-# Alejandro Artopoulos
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Alejandro Artopoulos 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，与 Beech 合著了关于教育[[Discourse|话语]]跨空间流通的论文。他参与了阿根廷「[[Conectar Igualdad\|平等连接]]」项目（Conectar Igualdad）的三年期[[Ethnography\|民族志研究]]，使用[[Actor-Network Theory\|行动者网络理论]]分析课堂中的社会-物质[[Assemblage\|组装]]([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。
 
 ---
-
-## 核心思想
 
 > [!tip] [[Actor-Network Theory\|ANT]] 在教育研究中的应用
 > Artopoulos and Beech 一起探索了[[Actor-Network Theory\|行动者网络理论]]在教育研究中的应用。他们的工作展示了如何通过重建课堂的社会-物质[[Assemblage\|组装]]来揭示传统[[Analytic Framework\|分析框架]]难以察觉的权力关系。在 [[Conectar Igualdad\|PCI]] 的分析中，非人类行动者（如电脑、软件、电池、充电器、电源插座）被纳入[[Network Analysis\|网络分析]]，展示了这些物体如何在教育空间中施加权力([[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]])。

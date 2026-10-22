@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Web-Based Learning
-
 > [!metax] [网络学习 · Web-based learning](https://www.visiblelearningmetax.com/influences/view/web-based_learning)
 > 技术、学校与校外策略 › 远程／混合
 >

@@ -46,11 +46,7 @@ created: "2026-10-16"
 updated: 2026-10-22
 ---
 
-# Corwin Press
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 考文出版社（Corwin Press）是国际学术出版巨头世哲出版集团（[[Sage]] Publishing）旗下专注于 K–12 基础教育专业发展与教师培训的商业出版与咨询子公司；2018 年全资买断 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 全球专营知识产权，成为全球推销实证效能方案、销售标准化认证及跨国学区咨询合同的商业垄断运营实体。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 宣称致力于为全球教育工作者提供以研究为基础、切实可行的解决方案；实际运营高度依赖排他性商业品牌加盟模式。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1990–2000 年代** **专业教育书籍出版奠基期**
@@ -80,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **母公司控制（[[Sage]] Publishing）** 受世哲出版集团执行董事会战略指导，共享母公司的全球版权分销渠道与高校学术网络。
 > - **执行管理层（Corwin Leadership）** 设总裁、全球顾问培训副总裁及各区域合伙人团队，直接统辖数百名持证咨询师。
 > - **学术顾问与品牌代言** 聘请[[John Hattie|约翰·哈蒂]]担任首席学术顾问与全球品牌大使，维持学术名流与商业推销的紧密互动。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Visible Learning]] 认证系列** 面向个体教师设立 Visible Learning Certified Educator 认证资质，单人培训认证收费高达 2750 美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
@@ -98,8 +88,6 @@ updated: 2026-10-22
 > - **衍生图书与工具套装** 围绕气压计与十大策略衍生出版从 9.95 美元至 285 美元不等的成套白皮书、教学活页练习与管理核查手册。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
 > - **全球循证培训市场垄断** 将原本属于大学公共领域的[[Meta-meta-analysis|二阶元分析]]研究成果，成功改造为全球市场份额最大的商业化在职教师培训品牌之一。
@@ -113,8 +101,6 @@ updated: 2026-10-22
 > - **\$9.95–\$285 USD** 考文出版社发售的可见学习相关图书、工作手册及资源工具包售价区间。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -61,11 +61,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# World Development Indicators
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 世界发展指标库（World Development Indicators，WDI）是[[World Bank\|世界银行]]向全球各国政府、国际组织与学术研究者免费开放的综合性跨国发展统计数据库，也是世界银行在全球教育治理中推行教育回报率[[Paradigm\|范式]]与[[Human Capital Theory\|人力资本理论]]的核心数据中介工具，其[[Performance Indicators\|教育指标]]子集的历史性膨胀（1989 年 116 项 → 2018 年 1,600 项）清晰标示了世界银行对全球教育统计规制权的持续深化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > - **核心问题导向** 为世界银行设计教育贷款条件、开展[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（SABER）评估及发布《人力资本指数》（Human Capital Index，HCI）提供可比基准数据，也为全球学术界的[[Return on Investment\|教育投资回报率]]计量研究提供不可替代的原始数据来源。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > WDI 的核心机制在于将不可[[Commensuration\|通约]]的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank\|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制[[Discourse|话语]]权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -94,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1978–1988 年 — 统计汇编早期积累** [[World Bank\|世界银行]]内部统计部门开始系统整合全球发展数据，主要为内部研究与放贷决策服务，[[Performance Indicators\|教育指标]]仍属于宏观发展统计的附属模块。
 > - **1989 年 — 《世界发展指标》印刷年鉴正式发布** 作为《世界发展报告》的配套统计附件出版，教育统计数据首度以结构化跨国指标集形式公开发布，包含 116 项教育相关指标，标志着世界银行正式将教育统计纳入其发展规制工具链。
@@ -104,16 +96,12 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[World Bank\|世界银行]]集团（World Bank Group），由发展数据组（DECDG）主导维护。
 > - **数据供应伙伴** [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS）负责教育数据、[[OECD\|经合组织]]提供高收入国家部分指标、[[International Monetary Fund|IMF]] 提供宏观财政数据、[[International Labour Organization\|国际劳工组织]]（[[International Labour Organization\|ILO]]）提供劳动力市场数据。
 > - **受益与使用群体** 各国政府财政部与教育部决策者、世界银行内部经济学家、国际学术研究者、全球南方政策顾问与非政府组织倡导团体。
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **数据霸权** WDI 是全球学术文献（特别是发展经济学领域）引用频次最高的宏观数据来源，也是多边援助机构进行国别比较分析时的首选基准数据库。
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > 覆盖 217 个经济体；1,400 余项发展指标（其中[[Performance Indicators\|教育指标]]超 100 项）；历史数据追溯至 1960 年代；每年更新频次一次以上；在全球学术数据库引用量常年位居首位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -58,11 +58,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# Cohort Study
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 队列研究（Cohort Study，又称追踪研究或世代研究）是一种[[Longitudinal Study|纵向研究]]设计，追踪具有某种共同特征（队列，cohort）的特定群体在特定时间段内的历时变化。在人类生长与发展的队列研究中，在代表性总体样本上展开，能够独特地识别典型发展模式并揭示作用于这些样本的因果动态机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, p. 271)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > *In cohort studies of human growth and development, conducted on representative samples, typical patterns of development can be uniquely identified, revealing causal factors acting upon samples that are beyond the [[Reach]] of other research designs.*
 
 ---
-
-## 方法定位
 
 > [!method-position] 认识论与方法定位
 > - **知识观** 发展与历时动态视角；关注个体或组织随时间推移的内生变化、时序因果机制以及微观行动如何拟合为整个社会系统的属性变迁。
@@ -104,16 +98,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **明确队列定义与界定基线** 严格划定入组特征标准（如出生年份、入学时点、特定项目资助节点），建立包含背景信息的基线档案。
 > 2. **建立多轮次测量框架与时间节点** 依据发展规律设定观测频次与间隔，系统规划信息时效性窗口，避免非必要的信息重复收集。
 > 3. **实施追踪调查与样本损耗控制** 组织回访并记录追踪数据，设立激励机制维持受访者黏性，系统登记退出者并分析流失偏倚。
 > 4. **开展跨期工具校验与效应隔离** 评估测试工具的跨期一致性，严格隔离反复测量产生的控制效应（测量效应）与外部宏观事件干扰。
 > 5. **构建纵向分析模型与机制阐释** 绘制个体生长曲线或组织演变轨迹，将个体的变化属性拟合为社会系统的结构变迁，检验竞争性因果解释。
-
-### 量化方法模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 纵向多轮次追踪面板数据（平衡或非平衡面板）、时变与非时变多层嵌套数据。
@@ -131,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 考察儿童、青少年及成人的身心、学业与认知发展轨迹。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, p. 271)]]
@@ -149,8 +137,6 @@ updated: 2026-10-22
 > - **不适合使用** 要求短期内快速交付结论的研究；预算与执行团队高度不稳定的项目。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **耗时与高额经济成本** 数据积累跨越数年乃至数十年，研究周期长且维持跨期团队连续性难度大。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, p. 272)]]
@@ -173,8 +159,6 @@ updated: 2026-10-22
 > | [[Robert Arnove]] | 人物 | 在全球化教育治理研究中引入多阶段组织队列追踪，透视民间机构的长期博弈。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al. (2011)]] — 系统阐明队列研究作为[[Longitudinal Study|纵向研究]]设计的定义、核心要素、相对于横截面设计的六大优势（Douglas, 1976）以及样本死亡和控制效应等方法挑战。

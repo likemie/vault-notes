@@ -65,11 +65,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Erasmus Programme
-
 ---
-
-## 背景
 
 > [!program-context] 政策与历史背景
 > - **发起主体与出台时间** [[EU|欧洲共同体]]（European Community，欧盟前身）部长理事会于 1987 年 6 月正式通过决议设立，全称为“欧洲共同体大[[Student Mobility|学生流动]]行动方案”（European Community Action Scheme for the Mobility of University Students，缩写为 ERASMUS），项目名称同时致敬欧洲文艺复兴时期著名人文主义学者德西德里乌斯·伊拉斯谟（Desiderius Erasmus）。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > - **制度位置与功能定位** 伊拉斯谟计划是欧洲联盟历史上规模最大、持续时间最长且政治象征意义最为深远的高等教育跨国流动旗舰工程；它构成了后续[[Bologna Process|博洛尼亚进程]]（Bologna Process）的先行制度试验田，也是构建[[European Education Space|欧洲教育空间]]（European Education Space, EES）的核心制度基石。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ---
-
-## 项目设计
 
 > [!claim] 核心机制
 > 伊拉斯谟计划旨在通过为欧洲大学生提供为期 3 至 12 个月的跨国研修奖学金，并依托欧洲学分转换与累加系统（European Credit Transfer and Accumulation System, ECTS）实现校际学分无缝互认，打破主权民族国家的教育边界，将跨国流动性（[[Student Mobility|学生流动性]]）塑造为培育欧洲公民认同与适应去规制化劳动力市场的弹性就业胜任力（[[Employability]]-related Competencies）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
@@ -97,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 项目演进历程
 > - **1987 年 创立与首期启动** [[EU|欧洲共同体]]通过建立 ERASMUS 的决议，首年即吸引 3244 名来自 11 个成员国的大学生跨国研修。
 > - **1989 年 ECTS 试点推行** 欧盟委员会正式推出欧洲学分转换系统（ECTS）试点，为消除学生跨国流动中的学籍阻碍确立透明度工具。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **2014 年 升级为 Erasmus+** 欧盟启动 Erasmus+（2014–2020），总预算大幅增至 147 亿欧元，向全球非欧盟伙伴国开放更广阔的联合双学位与流动通道。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施治理结构
 > - **主导决策方** [[EU|欧洲联盟]]委员会教育、青年、体育与文化总司（DG EAC），负责制定战略指标、分配年度财政预算并发布项目实施指南。
@@ -122,8 +112,6 @@ updated: 2026-10-22
 > - **超国家辐射网络与衍生项目** 依托伊拉斯谟的成熟架构，欧盟相继孵化出针对非成员国高校的“[[TEMPUS|天普计划]]”（[[TEMPUS]]）以及面向全球高端硕士研究生的“伊拉斯谟世界计划”（Erasmus Mundus），形成以布鲁塞尔为枢纽的全球高等教育制度辐射网络。
 
 ---
-
-## 效果与评价
 
 > [!finding-cards] 历史成效与制度定性
 > - **塑造超国家欧洲认同与“伊拉斯谟世代”** 社会学考证普遍指出，伊拉斯谟计划成功催生了具有强烈超国家归属感的“伊拉斯谟世代”（Erasmus Generation）。跨国跨文化共同生活显著消解了狭隘的民族主义偏见，将流动的公民体验固化为对欧洲一体化的深层政治认同。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > | **欧洲认同感测量** | 欧盟委员会毕业生追踪调查（2014） | **83%** 的参与学生报告跨国研修后其“欧洲公民意识与认同”显著提升 | 证实物理流动对解构国家狭隘认同、构筑超国家[[Social Imaginary\|社会想象]]的政治功能 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 政策争议与理论批判
 >

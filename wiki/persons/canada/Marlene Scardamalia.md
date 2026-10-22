@@ -60,11 +60,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Marlene Scardamalia
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大皇家学会院士（FRSC）、多伦多大学安大略教育研究院（OISE）知识创新与技术中心（IKIT）主任、全球学习科学界领军学者。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与学术历程
 > - **1970 年代 — 写作心理学与认知发展研究** 早期聚焦儿童写作过程的认知负荷与[[Metacognition\|元认知监控]]机制，与 [[Carl Bereiter]] 合作提出知识陈述（Knowledge Telling）与知识转换（Knowledge Transforming）写作双模型。
 > - **1980 年代中叶 — 研发 CSILE 系统** 开创全球首个计算机支持的协作学习（CSCL）网络平台 CSILE，探索利用技术支持[[Intentionality|意向性]]学习共同体。
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 传统的学校教育过分局限于个体大脑内部的“知识习得与记忆再现”，使学生沦为执行固定教学程序的被动客体。真实的学习应当被重塑为类似专业科研社群的“[[Knowledge Building Theory|知识建构]]（Knowledge Building）”实践：学习者通过提出真实问题、构想可改进的观点（Improvable Ideas）、协同利用技术媒介开展思想论辩与升华（[[Research in Schools Evaluation\|RISE]] Above），并在该过程中完全享有对探究目标、方法与标准的[[Epistemic Agency\|认识能动性]]（Epistemic Agency）。
 
 > [!citation-card] 学习者从被动客体向认识主体跃迁

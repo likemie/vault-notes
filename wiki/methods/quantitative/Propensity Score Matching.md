@@ -61,11 +61,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Propensity Score Matching
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **倾向得分匹配（Propensity Score [[Matching]]，简称 PSM）** 是由保罗·罗森鲍姆与唐纳德·鲁宾（Rosenbaum & Rubin, 1983）奠定的经典准实验[[Causality\|因果推断]]方法。其核心思想是：利用处理前丰富且关键的可观测基线协[[Variable\|变量]]向量 $\mathbf{X}_i$，通过概率回归模型将个体面临的多维混杂特征压缩为一维的条件参与概率标量——**倾向得分（Propensity Score）** $e(\mathbf{X}_i) = \Pr(Z_i = 1 \mid \mathbf{X}_i)$；进而在处理组与对照组之间寻找倾向得分高度相近的个体进行配对（Matching），以此模拟[[Randomised Controlled Trials\|随机对照试验]]中两组基线特征期望相等的无偏状态，有效校正由于非随机选择产生的可观测选择偏误（Selection on Observables）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 > *“In 2019, the EEF opened the 'Researching School Choices' funding stream... exploiting naturally occurring policy changes and variations using longitudinal data from the National Pupil Database (NPD). [[Quasi-Experimental Designs]], including difference-in-differences and propensity score matching, enable rigorous evaluation where randomisation is not feasible.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 根植于[[Counterfactual\|反事实推理]]与鲁宾因果模型（Rubin Causal Model）。假定只要控制了影响处理选择与潜在线性产出的全部共同前置[[Variable\|变量]]，非实验组别间的因果反事实即可通过概率加权或相近距离配对加以重构。
@@ -109,16 +103,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **协[[Variable\|变量]]挑选与外生性审查** 广泛搜集在政策干预发生前已确定的基线变量（[[Pre-test and Post-test\|前测]]成绩、家庭经济背景、生源流动性等），严禁纳入受到干预结果反向污染的中介变量。
 > 2. **拟合倾向得分模型** 采用 Logit 或 Probit 回归估计个体参与政策的条件概率，输出每位个体的倾向得分 $\hat{e}(\mathbf{X}_i)$。
 > 3. **核查共同支撑集并实施配对** 绘制处理组与对照组的倾向得分概率密度分布图，剔除无重叠区域样本；依据研究目标选取合适匹配算法（如 1:1 无放回卡尺近邻匹配）。
 > 4. **匹配后协变量平衡性诊断** 逐项检验所有协变量在匹配前后的标准化均值差（Standardised Mean Difference, SMD）与方差比，确保所有协变量的绝对偏差降至 0.10（或 0.05）阈值以下。
 > 5. **估计平均处理效应并开展隐性偏误敏感性分析** 在配对样本集上计算平均处理效应（ATT）；利用 Rosenbaum Bounds 评估结果对潜在未观测混杂因素的抵御韧性。
-
-### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含处理组与大量未受干预候选池个体的横截面或基线面板数据。
@@ -170,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 拥有海量行政普查数据库，且能够采集到极丰富基线学生与学校特征的大规模评估项目（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）；
@@ -185,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **偏误来源**
 >   - **不可观测混杂偏差（Hidden Bias）** PSM 最大的方法学软肋：它仅能平衡纳入模型的“可观测”[[Variable\|变量]]，完全无法抵御未观测变量带来的内生选择性偏误。
@@ -196,8 +182,6 @@ updated: 2026-10-22
 > - **补救方式** 采用匹配[[Difference-in-Differences\|双重差分法]]（PSM-DID），将横向可观测匹配与纵向时间差分双重结合；运用 Rosenbaum Bounds 计算隐藏偏误临界值 $\Gamma$。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -228,8 +212,6 @@ updated: 2026-10-22
 > | [[Researching School Choices]] | 实践载体 | [[Education Endowment Foundation\|EEF]] 设立的依托 PSM 等准实验评估宏观学校办学选择的重大资助流。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用[[Difference-in-Differences\|双重差分法]]与倾向得分匹配评估学校宏观体制选择的因果成效。

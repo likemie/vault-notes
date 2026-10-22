@@ -59,11 +59,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Influences Across Cultures
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 跨文化影响（Influences Across Cultures）指在比较教育学学术史与实践演进中，系统考证与追踪不同国家、民族和文化之间在教育思想、教学法、制度规程与政策设计上的横向流动、跨界吸收与双向塑形过程。这一[[Paradigm|范式]]主张跳出孤立的国别制度描述，借鉴比较文学追踪母题与体裁在时空跨度中迁徙的探究理路，为十九世纪被战后[[Scientism|科学主义]]贬抑为功利性与赞美性的先驱描述研究平反，确立其作为现代[[Policy Borrowing|政策借用]]与转移理论基石的学术合法性。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 123–124)]]
@@ -100,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **时空双向谱系追踪（Time-Space Lineage [[Tracking]]）** 借鉴比较文学分析理路，在时间轴上考据理论[[Paradigm|范式]]演变，在空间轴上追踪核心制度与教学法在不同大洲与文明间的迁徙链条。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 123–124)]]
 > - **恶政与良教的自然可分性原则（Mann's Principle of Separability）** 针对意识形态阻抗确立的方法论原则：外国政体的专制役使与其教学认知技术在本质上是可分割的，民主社会完全能够汲取其高效率教学成果而不致受其政治顺从意识形态侵蚀。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 125)]]
 > - **多阶段制度化演进架构（Multi-Phase Policy Evolution）** 跨文化影响在现实政策落地中遵循“实地考察—社会共识凝聚—国家立法框架—学校制度落地”的完整程序链条。
@@ -181,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -199,8 +191,6 @@ updated: 2026-10-22
 > - **1990s 至今 — 学科遗产重估与[[Policy Borrowing|政策借用]]理论繁荣** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）公开为早期跨文化影响研究平反，确认其作为学科核心遗产的独特价值；同时，该传统与当代政策借用理论（Phillips & Ochs 四阶段模型）、本土转译理论（Steiner-Khamsi）深度融合，重新成为比较教育学最具生机的领域之一。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -223,8 +213,6 @@ updated: 2026-10-22
 > 跨文化影响概念侧重于宏观观念、法案与制度结构的长程流动，无法单独替代对微观课堂教学过程、学生认知互动机制的微观测量。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

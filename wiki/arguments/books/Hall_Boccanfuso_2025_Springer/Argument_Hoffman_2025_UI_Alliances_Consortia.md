@@ -71,7 +71,6 @@ citation_aliases:
   - "Hoffman et al., 2025"
   - "Hoffman et al. (2025)"
 ---
-# Argument_Hoffman_2025_UI_Alliances_Consortia
 
 > [!info] [[Research Question\|研究问题]]
 > [[University-Industry Collaboration\|产学合作]]最常见的起点是一家企业资助一个教授实验室的研究项目。但当合作从"一个实验室 + 一家企业"的单点互动，扩展到覆盖多个院系、跨越研究-教学-人才-设施的多维参与时，应该如何组织和管理？有哪些可用的组织模式，各自适用于什么条件？(pp.103–105)
@@ -270,9 +269,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - 产学联盟与联合体的组织化程度构成一个从轻量到重度的光谱：[[Industry Advisory Board\|IAB]]（纯对话，无资金，无协议）→ [[Industry Affiliate Program|CAP]]（会员费，投票决定研究，捐赠型或合同型）→ [[University-Based Research Center\|大学研究型中心]]（大学设定方向，政府共同资助，优先许可）→ [[Innovation Hub\|创新中心]]（多方大规模投资，治理结构，区域经济目标）(pp.108–113)
 > - 三种基础设施性要素贯穿所有四种模式：价值主张必须从企业角度"电梯演讲"长度讲清楚、[[Boundary Spanner\|关系经理]]必须有人对关系的存活负责、[[Master Agreement\|主协议]]覆盖 IP-赔偿-治理的完整法律框架并保持长期稳定(pp.105–108)
 > - [[Advanced Manufacturing Research Centre\|AMRC]] 验证的最关键原则是**找到产业的共同痛点**——联合体的技术主题应当扎根于多公司正在独立烧钱试图解决的共同问题，而非大学自身的强项。技术焦点要窄到足以让有限投资产生可见成果，但不能窄到只吸引一个行业细分(pp.113–117)
@@ -287,9 +284,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “也许最重大的挑战在于，当对关系至关重要的个体调换工作或岗位职责发生变化时，企业与大学之间合作互动的连续性和延续性。”
 > ("Perhaps the most significant challenge is the continuity and continuation of collaborative interactions between a company and university when the individuals who are key to the relationship switch to different jobs or different job descriptions.")(p.105)
 

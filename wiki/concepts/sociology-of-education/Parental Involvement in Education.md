@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Parental Involvement in Education
-
 > [!metax] [家长／成人辅导 · Parent / Adult tutoring](https://www.visiblelearningmetax.com/influences/view/parent~adult_tutoring)
 > 学生学习策略 › 学生学习观
 >

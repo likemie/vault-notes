@@ -68,11 +68,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# Investing in Innovation Program
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **创新投资项目（Investing in Innovation Fund, i3）** 由美国教育部创新与改进办公室（Office of Innovation and Improvement, OII）于 2009 年依据《美国复苏与再投资法案》（American Recovery and Reinvestment Act, ARRA）正式设立，是美国联邦政府为推动教育领域[[Evidence-Based Reform\|证据本位改革]]（Evidence-Based Reform, EBR）所开展的规模最大的分层资助计划，总计投入超过 14 亿美元用于扶持具备实证潜力的创新教育项目并实施严格的第三方独立效果评估。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破除长期以来联邦教育经费分配凭经验直觉、意识形态潮流或商业公关游说的粗放模式，力图建立由[[Counterfactual\|反事实]]因果证据（特别是 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT））驱动的理性公共资源配置[[Paradigm\|范式]]。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > i3 的核心机制设计是建立与干预方案已有实证成熟度严格挂钩的分层证据晋级管线（Tiered Evidence Pipeline），依据前期研究效度阶梯式确定资助规模，要求所有高额资助项目必须接受由第三方主导的高标准因果评估。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -109,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2009–2010 年 — 方案奠基与首轮启动** 奥巴马政府在 ARRA 经济刺激计划中注入 6.5 亿美元设立 i3 首期基金，教育部发布首轮招标指南，吸引全美近 1,700 份方案竞标，最终确立首批 49 个资助项目。
 > - **2011–2015 年 — 规模化推进与证据爆发期** i3 连续开展多轮分层拨款，推动“全员成功”（[[Success for All\|SFA]]）、[[Reading Recovery]] 等项目进入全国大规模 [[Randomised Controlled Trials\|RCT]] 试验，极大丰富了全美符合 [[What Works Clearinghouse\|WWC]] 认证的实证数据库。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
@@ -118,8 +110,6 @@ updated: 2026-10-22
 > - **2016 年至今 — 机制升级与 [[Education Innovation and Research\|EIR]] 接轨** 2016 年 i3 正式收官结项；2017 年起由性质相同、覆盖更广的教育创新与研究项目（EIR）全面接替，延续开发、早期阶段及中晚期规模化的分层资助架构。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **政策制定与资金管理方** 美国教育部创新与改进办公室（OII）统筹拨款发放与合同管理。
@@ -133,8 +123,6 @@ updated: 2026-10-22
 > - **强制第三方独立质控** 要求所有影响评估必须由外部评估团队设计并执行，杜绝开发者自评自赞带来的虚高效应。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入规模** 联邦财政出资逾 14 亿美元，撬动社会配比资金数亿美元。
@@ -152,8 +140,6 @@ updated: 2026-10-22
 > - **68%** （仅 68% 达标率） 在 19 项由 NCEE 重点支持的影响评估中，仅有 13 项（68%）达到 [[What Works Clearinghouse\|WWC]] 最高无保留证据标准，且 WWC 允许的流失率门槛高达 55%。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

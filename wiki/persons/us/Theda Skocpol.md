@@ -55,11 +55,7 @@ created: 2026-10-11
 updated: 2026-10-20
 ---
 
-# Theda Skocpol
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代比较历史社会学家与政治学家，哈佛大学政府学与社会学维克多·S·托马斯讲席教授（Victor S. Thomas Professor of Government and Sociology），美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士，曾任美国政治学会（APSA）主席与社会科学史学会（SSHA）主席，[[Historical Institutionalism|历史制度主义]]（Historical Institutionalism）奠基人之一。

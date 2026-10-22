@@ -53,13 +53,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Autopoiesis
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 生命系统与社会系统的自我指涉性（self-referentiality）、自我生产（self-production）与边界维系机制。
 > - **理论问题** 系统如何通过内部封闭的操作网络在开放且充满干扰的环境中维持连续性；面对全球趋同压力时，地方教育体制如何通过内部逻辑实现折射式采纳或变异抵制。
 > - **理论类型** 宏观系统理论、中层[[Analytic Framework\|分析框架]]、社会演化模型。
@@ -85,8 +81,6 @@ updated: 2026-10-22
 > | [[Reference Society\|参照社会]] | 概念 | [[Externalization\|外部化]]引介的参照对象，构成教育系统自我生成与折射话语的原料。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜生命系统是操作封闭与自我指涉的
 > - **前提一** 操作封闭性（Operational Closure）：自创生系统内部由其自身的组件和操作网络构成，外界干扰仅能触发（trigger）系统内部的变化，而不能直接决定其产出。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 61]])
@@ -127,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]** 将社会、制度和教育理解为由自创生沟通网络构成的封闭、自我再生产的动态系统。
 > - **认识论** 强调知识是系统自我指涉构建的产物，拒绝[[Objectivism\|客观主义]]的“输入-输出”机械因果律，倡导观察者视角的系统控制论（cybernetics）。
@@ -157,8 +149,6 @@ updated: 2026-10-22
 > - **2018 — [[Transition Design\|转型设计]]迁移** Escobar 将自创生与[[Emergence\|涌现]]引入 [[Wicked Problem|wicked problems]] 的去中心化地方联网治理。 (Escobar, 2018, 引自 [[Argument_Amos_2022_Springer\|Amos, 2022, p. 61]])
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

@@ -49,11 +49,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Build America, Buy America Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2021 年 11 月由美国国会通过并由总统拜登签署生效；作为《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（IIJA，公法第 117-58 号）第 IX 部门的法定核心组成部分。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 大幅强化并扩展了 1933 年《购买美国产品法》（Buy American Act）与 1982 年《地面运输援助法》中的 Buy America 条款，首次将采购要求从交通部门扩展到全口径联邦基建，并覆盖非铁类建筑材料与高技术制成品。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > **《以美国制造为荣法案》（Build America, Buy America Act, BABA）** 通过法律强制规定，任何使用联邦财政援助的基础设施项目，其所消耗的全部钢铁、制造品（Manufactured Products）以及非铁建筑材料（包括塑料、聚合物玻璃、木材与石膏板等）必须 100% 在美国本土生产与制造；以此作为现代产业战略中最具约束力的需求侧[[Market Shaping and Creating|市场塑造]]工具，驱动数千亿美元私营投资涌入本土先进制造业。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2021 年 11 月** 国会通过《[[Infrastructure Investment and Jobs Act|两党基础设施法案]]》（IIJA），BABA 作为该法核心条款正式颁布成为法律。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
 > - **2022 年 4 月** 白宫管理与预算办公室（OMB）发布全联邦实施 BABA 初始指南，成立“美国制造办公室”（Made in America Office）统一监督。
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > - **2023 年 8 月** OMB 发布最终统一联邦法规指南（2 CFR Part 184），明确制造品、建筑材料的严格分类与本土化认定标准。
 
 ---
-
-## 实施情况与典型案例
 
 > [!actor-grid] 实施角色分工
 > - **政策制定与监督中枢** 白宫管理与预算办公室（OMB）及下设的“美国制造办公室”，负责审定各部委的豁免申请与标准统一解释。
@@ -108,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 关键成效与辐射影响
-
-> [!finding-cards|notitle] 关键成效与辐射影响
+> [!finding-cards] 关键成效与辐射影响
 > 1. **万亿基建资金撬动庞大本土内生需求** BABA 将 [[Infrastructure Investment and Jobs Act|IIJA]] 授权的 1.2 万亿美元联邦基础设施资金转化为指定采购美国制造产品的刚性需求池，为本土重工业与清洁制造提供了长达十年的稳定市场预期。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–14)]]
 > 2. **推动先进装备制造向美国本土大规模迁移** 催生了电动汽车充电桩、清洁电网变压器、光伏支架及光纤宽带设备在全美各州的建厂潮，显著增强了关键基础设施供应链的国内自主性。
 > 3. **确立可追溯的绿色与本土制造标准** 促使联邦政府与行业协会建立起覆盖原材料冶炼、初加工到最终[[Assemblage|组装]]的全流程可追溯认证体系。
@@ -121,8 +109,6 @@ updated: 2026-10-22
 > - **55%** （成本门槛） 电动汽车充电桩等制造品在过渡期后必须达到的本土零部件成本最低比例。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---
-
-## 争议、挑战与反思
 
 > [!debates] 核心争议交锋
 >

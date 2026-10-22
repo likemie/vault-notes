@@ -44,8 +44,6 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Mind and Its Wonders
-
 > [!info] 定义
 > 心智及其惊奇（Mind and Its Wonders）是 Li 识别的西方学习传统第二主题——回答了"**什么在我们内部进行认知？**"（What in us does the knowing?）这一问题。西方传统将对知识的讨论聚焦于人类的认知能力本身——"人类的智识，心智，被理解为一种人类官能（faculty），后来在心理学中被称为能力（capacity），最近在神经科学中被称为大脑回路（brain circuitry）"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.26-27]])。
 

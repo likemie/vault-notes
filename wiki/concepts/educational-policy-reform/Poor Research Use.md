@@ -47,11 +47,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Poor Research Use
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **劣质[[Research Utilization\|研究使用]]（Poor Research Use）** 指在教育教学与学校管理决策中，脱离学生真实学习需求、缺乏对研究质量与情境适切性的批判性审思，且未在学校组织内部建立全员协同认同与所有权的病态证据利用样态。作为[[Quality Use of Research Evidence Framework\|高质量研究使用]]（Quality Use of Research Evidence）的反面形态，劣质研究使用并不等同于单纯未接触研究的非使用状态，而是表现为对外部学术证据的机械套用、功利追风、行政强加或证实偏见，最终不仅难以促进学生学业与福祉，反而诱发教职工的职业倦怠、抵触怨怼与学校的教学停滞。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 189–191)]]
@@ -134,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -152,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 劣质[[Research Utilization\|研究使用]]的根源归咎对立
 > - **科层专断论（蓝方）** 一线教师与教辅人员坚持认为，劣质使用根植于学校管理层脱离实际的发号施令与强推时髦，缺乏对一线专业自主与集体协商的尊重。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, Table 9.1, p. 190]]）
 > - **教师防卫论（红方）** 部分[[School Leadership\|学校领导]]者与管理层则主张，劣质使用在于教师群体长期固守舒适区、抱持封闭确证心态，即便学校搭建了协作平台仍缺乏放手尝试的求变意愿。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 191)]]
@@ -162,8 +154,6 @@ updated: 2026-10-22
 > - **个体素养归因之局限** 若单纯将劣质使用还原为个别教师或校长的“[[Research Literacy\|研究素养]]欠缺”，会掩盖宏观教育体制中排课过度拥挤、行政文书杂务过载以及缺乏代课师资保障等结构性制度阻碍。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 192–193)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

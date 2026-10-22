@@ -36,13 +36,9 @@ created: '2026-05-08'
 updated: 2026-10-22
 ---
 
-# Credential Inflation
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 文凭通货膨胀（Credential Inflation）是美国社会学家Randall Collins在《文凭社会》（*The Credential Society*, 1979）一书中提出的概念，描述当越来越多人持有大学文凭时，市场对教育水平的要求水涨船高，大学文凭作为一种交换职业地位的通货，其交换价值在市场上发生萎缩的现象。
 
 > [!quote|notitle]
@@ -81,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 
 > [!info] 核心数据
 > - 中国普通高等学校毕业生人数从 1999 年的 84.8 万升至 2018 年的 753.3 万，约为 1999 年的 8.8 倍（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引教育部数据）

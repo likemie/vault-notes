@@ -33,7 +33,6 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究方法论、学习结果测量（包括态度、倾向和抱负等非成就性指标）、"什么有效"议程的批判性评估。

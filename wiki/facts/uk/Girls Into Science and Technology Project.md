@@ -39,10 +39,6 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Girls Into Science and Technology (GIST) Project
-
-## 背景
-
 > [!event-context] GIST 项目档案
 > - **时间** 历时三年（1980年代中后期）。
 > - **地点** 英国一个地区的十所男女同校综合学校（comprehensive schools）。
@@ -52,8 +48,6 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!timeline] GIST 项目关键信息
 > - **设计与规模** 八所学校作为行动基础，两所作为对照组。涉及 2,000 名学生及其教师。项目被描述为同步整合[[Action Research\|行动研究]]（simultaneous-integrated action research），即整合行动和研究的同步推进。
 > - **女性主义取向** 项目组公开承认其女性主义导向，刻意寻求改变女孩的选修选择与职业抱负。研究者的政治立场公开透明——不声称研究中立性。
@@ -61,8 +55,6 @@ updated: 2026-10-22
 > - **产出**Whyte（1986）、Kelly（1986, 1989a, 1989b）和 Kelly and Smail（1986）分别记录了项目的方法论策略和实证发现。
 
 ---
-
-## 影响与评价
 
 > [!finding-cards] 方法论意义
 > 1. **政治承诺与方法论严格性可以并存** GIST 证明研究者可以同时是行动者和分析者，公开的政治立场不必然损害研究的严谨性。

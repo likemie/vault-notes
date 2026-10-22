@@ -44,11 +44,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Texas A&M Semiconductor Institute
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 得州农工半导体研究院（Texas A&M Semiconductor Institute）是德克萨斯农工大学系统（Texas A&M University System）为全面承接美国联邦政府《[[CHIPS and Science Act|芯片与科学法案]]》重大国家战略而于 2023 年设立的系统级常态化跨学科科研实体；该研究院作为全州半导体产学研政创新的战略中枢，全面统筹跨学科技术攻坚、拔尖工程科技人才培育与跨部门协同创新。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 4, 8–9)]]
@@ -61,16 +57,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2023年1月 — 战略专班应急响应** 得克萨斯农工[[Grandes Ecoles|大学校]]级科研领导层紧急组建由 8 位跨领域骨干专家构成的《[[CHIPS and Science Act|芯片与科学法案]]》战略专班（Task Force），在校内率先营造紧迫感并梳理 10 大前沿技术图谱，开启跨学科动员。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–4)]]
 > - **2023年8月 — 常态化实体挂牌创设** 得州农工大学系统正式批准设立半导体研究院（Semiconductor Institute），并作为主办方之一主导了大学系统级线下跨学科研修会议（第二期工作坊，覆盖系统内 7 所高校与基地）。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 4)]]
 > - **2023年10月 — 全州峰会主办与专班权责全面交接** 研究院作为法定实体主办首届得克萨斯半导体峰会（Texas Semiconductor Summit，第三期峰会，汇聚政产学研 242 位代表）；峰会结束后原战略专班平稳自我解散，所有跨学科数据库与产业联络网络全盘交由研究院常态化运营，完成从应急机制到常态化平台的制度化跃升。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 4–5, 8–9)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **领导团队与学术带头人** 由 David Staack、Sharmila Pathikonda、Henry Fadamiro 等跨学科领军学者与科研管理高层挂帅主持，直接对接校级与系统级科研副校长办公室。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 8–9)]]
@@ -92,8 +84,6 @@ updated: 2026-10-22
 > - **全州半导体[[Workforce Development|劳动力发展]]行动方案** 联动产业界伙伴为工程技术学生提供高额学费资助、企业研发实习与先进制造工艺实训。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2, 7)]]
 
 ---
-
-## 关键成效与辐射影响
 
 > [!finding-cards] 体系影响
 > - **学术组织模式创新** 树立了高水平[[Research Universities|研究型大学]]以“任务专班破局 ➔ 实体机构固化”有组织响应国家科技法案的组织变革典范。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–4)]]

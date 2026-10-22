@@ -55,11 +55,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# OPERA Classroom Observation Tool
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] OPERA [[Classroom Observation]] Tool
 > - **工具类型** 多模态课堂外部[[Classroom Observation|教学观察]]与[[Discourse|话语]][[Coding in Qualitative Research|质性编码]]工具（observation-tool）。
@@ -87,14 +83,10 @@ OPERA 工具体系将课堂互动解构为四大关联维度。
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 定时互动编码表格（Observation Grid）与录像深度[[Transcription in Qualitative Research|转录]]规程。
 > - **作答格式** 每隔固定时间间隔（如 1 分钟或 3 分钟）勾选主要活动形态，并同步记录教师提问与学生回应语句。
 > - **反向题与跳题** 无跳题；强调完整记录教学从开场导入到总结练习的全流程。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] OPERA 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -119,8 +111,6 @@ OPERA 工具体系将课堂互动解构为四大关联维度。
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | OPERA 基础版 | 作为[[World Bank\|世行]] Teach 初始要素筛选的国际前置工具之一 | 评估发展中国家大[[Class Size\|班额]][[Discourse Analysis\|话语分析]]工具的适用性 | 其关于大班额下巡视弱势学生、反馈精准度及避免合唱假性参与的洞见，被 Teach 转化为教学指导要素的重要指标。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

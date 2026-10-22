@@ -48,11 +48,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Communities of Practice
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 实践共同体（Communities of Practice, CoP）是学习科学与[[Situative Perspective|情境认知]]理论的核心概念，指由一群基于共同的事业追求、关切或热情而集聚的行动者，在持续的日常社会互动中共同开展实践、共享专业资源并提升行动效能的社会化自组织形态；该概念主张学习本质上是共同体实践参与的深化与专业身份认同的建构，而非抽象孤立信息的个体储存。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - 不等于行政科层课题组 — 行政组织依赖自上而下的权力命令与考核，实践共同体依赖同行间的自愿承诺、共同实践与知识互惠。
 
 ---
-
-## 核心要素
 
 > [!feature] 实践共同体的三大结构性支柱
 > - **共同事业领域（Domain）** 共同体赖以凝聚的共同身份与主题边界；成员对半导体等前沿领域的重大战略攻坚拥有共同的使命认同与价值承诺。
@@ -119,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -129,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 实践共同体概念演化
 > - **1991 — 起源与[[Apprenticeship|学徒制]]研究** 让·莱夫（Jean Lave）与艾蒂安·温格（Etienne Wenger）在 *Situated Learning* 中提出合法边缘性参与，以真实文化学徒制阐明实践共同体的原始生成机制。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
 > - **1998 — 理论体系化与三要素确立** 温格出版 *Communities of Practice: Learning, Meaning, and Identity*，系统确立“领域、社群、实践”三大构件与身份认同理论。
@@ -138,8 +128,6 @@ updated: 2026-10-22
 > - **2020s — 国家战略导向的高校跨学科攻关生态** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将其拓展至高水平[[Research Universities|研究型大学]]有组织科研领域，通过[[Design-Based Research|基于设计的研究]]（DBR）工作坊在半导体紧缺领域系统孵化跨院系实践共同体。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心理论交锋
 >
@@ -153,8 +141,6 @@ updated: 2026-10-22
 > > 批评早期理论将共同体描绘为过于田园牧歌式的和谐社群，忽视了行会元老对学徒的隐蔽剥削、学科[[Discourse|话语]]霸权以及对新[[Paradigm|范式]]的保守排斥。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 实践共同体在高校学者发展中的实证调查
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

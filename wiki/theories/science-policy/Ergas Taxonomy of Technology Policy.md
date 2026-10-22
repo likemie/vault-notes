@@ -58,13 +58,9 @@ aliases:
   - mission-oriented and diffusion-oriented technology policy
 ---
 
-# Ergas Taxonomy of Technology Policy
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 阐明不同工业化国家在科技研发投资、组织构架、产业政策工具与技能培训体系上的长期制度性差异及其对国家技术[[Competitiveness|竞争力]]的影响。
 > - **理论问题** 克服以往将国家科技政策视为同质化研发投入工具的简化倾向，揭示不同国家[[Systems of Innovation|创新系统]]在“追求激进技术突破”与“促进广泛技术扩散”之间的结构性分工。
 > - **理论类型** 比较制度分析与国家科技政策[[Typological Analysis|类型学理论]]。
@@ -75,8 +71,6 @@ aliases:
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 经济学家亨利·埃尔加斯（Henry Ergas）于 1987 年在[[OECD|经济合作与发展组织]]（OECD）及全美工程院国际研讨会论文集《技术与全球工业》（*Technology and Global Industry*）中发表奠基论文《技术政策至关重要吗？》（*Does technology policy matter?*）。
 > - **原初问题** 为何二战后美、英、法投入了巨额财政研发预算却在大量民用制造业领域被西德、日本及瑞士反超？不同技术政策传统如何塑造了各国的长期产业演进轨迹？
@@ -84,8 +78,6 @@ aliases:
 > - **演化拓展** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）于 2018 年将其重新引入使命导向政策演进理论，分析冷战[[Big Science|大科学]]攻关在不同国家的成败机制，并揭示[[New Public Management|新公共管理]]（NPM）改革如何侵蚀了这两类传统的底层行政能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794–796)]]
 
 ---
-
-## 核心构件与类型学对照
 
 > [!contrast-table] 埃尔加斯技术政策两大经典[[Paradigm|范式]]深度对照
 >
@@ -100,8 +92,6 @@ aliases:
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜使命导向与扩散导向代表了不同[[Systems of Innovation|创新系统]]的能力分工
 > **解释** 使命导向政策依靠国家集中国家级资源开展前沿[[Big Science|大科学]]攻关，旨在开辟全新的[[Technological Trajectories|技术轨道]]；扩散导向政策则通过强大的中等职业技能培训和[[Technology Transfer|技术转移]]中介网络，确保先进技术迅速在中小企业中扩散普及。两者各具比较优势，反映了不同[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism）体制下的[[Institutional Complementarity|制度互补性]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794)]]
 
@@ -112,8 +102,6 @@ aliases:
 > **解释** 应对气候危机与老龄化照护等第三代社会–技术重大挑战，既需要传统使命导向政策所具备的宏观战略方向指引（[[Directionality of Innovation|创新的方向性]]），又需要传统扩散导向政策所具备的广泛社会渗透、基层以人为本的服务设计与[[Agile Governance|敏捷试错]]机制。第三代使命政策正是埃尔加斯二分法在更高历史阶段的辩证综合。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 诊断一个国家或区域科技政策体系的底层传统（属于使命型还是扩散型），评估其政策工具组合与国家能力是否与当前科技战略诉求相匹配。

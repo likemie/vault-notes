@@ -52,11 +52,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Sematech Centers of Excellence
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **[[Sematech]] 大学卓越中心（Sematech Centers of Excellence, SCOE）** 是 1988 年由美国半导体制造技术战略联盟（Sematech）与[[Semiconductor Research Corporation|半导体研究公司]]（SRC）联合在全美重点[[Research Universities|研究型大学]]设立的[[University-Industry Collaboration|产学合作]]基础科研专项计划，旨在为半导体[[Industry Affiliate Program|产业联盟]]提供长周期的前沿工艺物理机理探索与高阶工程博士人才储备。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 解决产业联盟在聚焦 0.5 微米与 0.35 微米在役制造设备改良时，缺乏长远光学物理、等离子体动力学机理支撑以及高校微电子专业毕业生流失的结构性危机。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过建立“[[Industry Affiliate Program|产业联盟]]出资定向引导 + 专业非营利中介（[[Semiconductor Research Corporation|SRC]]）统筹评审 + 顶尖大学跨学科集群攻关”的三位一体产学机制，使企业联盟在不破坏大学开放科研自由的前提下，高效获得深层机理模型与定制化高端人才输送。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
@@ -86,16 +80,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1988–1990 — 网络设立与首批中心布局** [[Sematech]] 成立伊始即与 [[Semiconductor Research Corporation|SRC]] 签署战略合作协议，首批在 10 余所高校设立卓越中心，重点攻克 0.5 微米制造工艺相关的光学与等离子体基础理论。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 730)]]
 > - **1991–1995 — 纵向协同深化与路线图对接** 配合 Sematech 全面转向纵向供应链设备协同，卓越中心的课题全面对接 1992 年首版《国家半导体技术路线图》（NTRS），为应用材料、拉姆研究等设备商提供先导理论模型。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–735)]]
 > - **1996 以后 — 融入 SRC 全球研究协作与 [[Focus Center Research Program|FRC]] 体系** 随着 Sematech 逐步实现联邦公共资金主动断乳，大学卓越中心网络顺畅整合进入 SRC 的长期产学资助体系，演化为后来的焦点中心研究计划（FRC）。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **出资与需求发起方（[[Sematech]]）** 提供稳定资金支持，提出全行业中长期面临的关键物理瓶颈与共性技术痛点。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 730)]]
@@ -104,8 +94,6 @@ updated: 2026-10-22
 > - **最终受益群体** 联盟成员企业（获得优先技术报告与专属招聘权）与全美半导体工程学科（获得高额科研经费与顶尖实验装备支持）。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入规模** [[Sematech]] 累计通过 [[Semiconductor Research Corporation|SRC]] 转拨大学科研经费超过 **1 亿美元**。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 730)]]

@@ -66,11 +66,7 @@ aliases:
   - 敏捷工程治理
 ---
 
-# Agile Governance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **敏捷治理（Agile Governance / 敏捷公共管理与敏捷试错）** 是指将源自软件工程、以人为本服务设计（User-Centred Service Design）与[[Engineering Pragmatism|工程实用主义]]的敏捷迭代哲学跨界引入公共行政、国家防务与科技政策制定中的新型治理[[Paradigm|范式]]；其核心特征在于彻底打破传统[[New Public Management|新公共管理]]（New Public Management, NPM）所依赖的事前僵化规划、长周期线性推进与全面[[Externalization|外部化]]的“瀑布模型”（Waterfall Model），在公共部门内部构建敏捷软件工程与跨学科流动团队能力，通过短周期快速迭代、最小可行产品（Minimum Viable Product, MVP）测试、真实运行反馈、免责根因追溯以及[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）等实证工具，在持续的“小步快跑、试错修正与快速止损”中动态优化政策设计与公共系统交付。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将敏捷治理确立为支撑第三代使命导向政策与落实[[Lead-and-Learn Paradigm|引领与学习范式]]的核心行政操作方法论；[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）则进一步将敏捷工程试错升华为现代国家克服官僚教条主义与重塑[[Technological Republic|技术共和国]]的组织认知基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–167)]]
@@ -96,8 +92,6 @@ aliases:
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 传统 [[New Public Management|NPM]] 瀑布外包模式 vs. 现代敏捷治理模式深度对比
 >
 > | 比较维度 | 传统 NPM 瀑布外包模式（Waterfall） | 现代敏捷治理模式（Agile Governance） |
@@ -110,8 +104,6 @@ aliases:
 > | **代表实践机构** | 传统依赖大型系统集成商的各部委 IT 采办部门。 | 英国[[Government Digital Service\|政府数字服务局]]（GDS）、[[Palantir Technologies\|Palantir]] 与 DARPA 敏捷采办特区。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 敏捷治理的核心支柱要素
 > - **跨职能流动团队（Liquid Cross-Functional Teams）** 打破部委条块分割与固定岗位编制，根据具体使命任务灵活抽调技术、政策、法律与设计专家组成项目特区，任务完成后即刻重组。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
@@ -169,8 +161,6 @@ aliases:
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -187,8 +177,6 @@ aliases:
 > - **2025 — [[Technological Republic|技术共和国]]与防务国家安全中的[[Engineering Pragmatism|工程实用主义]]敏捷治理** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]将敏捷治理拓展至国家防务、战略算法与国家安全体系重塑，论证以运行代码和免责复盘为核心的工程[[Pragmatic Paradigm|实用主义]]是捍卫西方技术共和国的制度生命线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–167)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

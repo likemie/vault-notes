@@ -63,11 +63,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Third Space Discourse
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **第三空间[[Discourse|话语]]（Third Space Discourse）** 在教育[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）中，指大学科研学者与中小学一线教育工作者在跨界协作过程中形成的一种超越传统学院派学术理论话语（第一空间）与日常教学实用经验话语（第二空间）二元对立的全新公共沟通与意义建构体系。该机制强调明确承认、尊重并包容学术研究与临床教学天然存在的专业[[Heterogeneity\|异质性]]与价值取向差异，拒绝将彼此强行同化，通过常态化的微型研讨[[Champ\|场域]]与平等对话，实现知识需求的双向界定、学术概念的情境化重塑以及兼具科学严谨性与实践适切性的[[Knowledge Co-production\|知识共创]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
@@ -98,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **专业[[Heterogeneity\|异质性]]承认与非同化原则** 明确放弃将教师改造成兼职科学家或要求学者变成一线教员的天真企图，包容并利用彼此在价值、视角与节奏上的固有差异。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
 > - **概念情境化与共享[[Discourse|话语]]库** 通过反复推敲与双向翻译，将晦涩的[[Discipline-Based Theory\|学科理论]]概念转化为具备课堂实践解释力的分析工具，同时将一线教学痛点提炼为可测量的科学问题。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
 > - **常态化低门槛的微型研讨[[Champ\|场域]]** 拒绝高高在上的单向讲座，依托定期召开的小型工作坊（Seminars），确保研究前期选题、中期量表验证与后期应用全程处于平等对话之中。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
@@ -163,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -180,8 +172,6 @@ updated: 2026-10-22
 > - **2017–2022 年 — 教育科研与实践伙伴关系（[[Research-Practice Partnership\|RPP]]）建制化深化** 挪威学者[[Tine S. Prøitz\|蒂内·S·普勒茨]]基于瑞典 ULF 国家级大型试点评估，将第三空间话语确立为解释大学与学校超越鸿沟隐喻、实现知识双向生成的系统性治理理论。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–220)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -201,8 +191,6 @@ updated: 2026-10-22
 > 第三空间话语的生成极其脆弱，对地方学区的工时保障制度高度敏感；一旦教育行政部门收紧对教师备课研讨工时的财政补贴，微型工作坊便会因出勤率骤降而迅速解体。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

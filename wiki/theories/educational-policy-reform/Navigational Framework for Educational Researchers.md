@@ -70,13 +70,9 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Navigational Framework for Educational Researchers
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 教育学术研究成果如何有效介入并整合进国家宏观教育政策制定与法律改革进程。
 > - **理论问题** 传统[[Evidence-Based Education\|循证教育]]改革将[[Randomised Controlled Trials\|随机对照试验]]（RCT）奉为单一黄金标准，但在宏观立法中遭遇时间系统脱节、价值负荷与政治妥协等重重阻碍；学术界缺乏关于政策世界内在运行节律、国会委员会决策机制与精准介入时机的行动理论。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]、政策实践指引模型。
@@ -103,8 +99,6 @@ updated: 2026-10-22
 > | 国会科学研究员（Congressional Fellowships） | 制度工具 | 由 [[American Association for the Advancement of Science\|AAAS]] 与 [[American Educational Research Association\|AERA]] 资助的学者全职浸润机制，通过实践学习掌握政策世界的隐性知识与语言密码。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜证据在政策中的介入是递归非线性的多阶段过程，各阶段具有独特的过程驱动要素与行动机会窗口
 > - **前提一** 公共政策制定遵循包含[[Problem Finding\|问题界定]]、议程设置、政策制定、政策合法化、政策执行与政策评估的六阶段生命周期，且在前端四个阶段存在明确的介入机会。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 43)]]
@@ -173,8 +167,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 视政策世界为一个具有自身内在秩序、节奏飞快且由政治价值与制度规范维系的有机生态系统，排斥将政策过程视为被动接受科学灌输的静态容器。
 > - **[[Epistemology\|认识论]]** 秉持[[Pragmatic Paradigm\|实用主义]]政策现实主义立场；认为实证证据的有效性在政策[[Champ\|场域]]中由其政治相关性、时效性与价值契合度共同决定，单一实验因果净效应无法直接推导出宏观治理行动。
@@ -216,8 +208,6 @@ updated: 2026-10-22
 > - **2020 — 政策导航框架的正式提出** 塞佩尔（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]）发表奠基性论文，基于国会全职研究员经历提出教育研究者政策导航框架，确立四阶段行动模型、时间系统分析与法条化传播规范。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

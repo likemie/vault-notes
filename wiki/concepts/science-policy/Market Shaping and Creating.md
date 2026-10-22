@@ -85,11 +85,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Market Shaping and Creating
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **市场塑造与市场共创（Market Shaping and Creating）** 是指一种主张国家与公共机构不仅是被动的规则制定者或事后市场修复者（Market Fixer），而是积极承担早期极高技术与财务风险、通过设定公共议程、前沿研发投入、需求侧战略采购、规制重塑与[[Policy Conditionalities|制度化附加条件]]（Conditionalities）主动构筑并共同创造全新市场与技术形态的[[Innovation Policy Paradigms|创新政策范式]]。该[[Paradigm|范式]]突破了新古典经济学仅在外部性、公共品或信息不对称等[[Market Failure|市场失灵]]出现时才允许国家介入的静态边界，强调通过创造具有变革性的[[Public Value|公共价值]]（Public Value）与培育[[Public Dynamic Capabilities|公共动态能力]]，主动引领经济增长与社会技术转型方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
@@ -116,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 市场修复[[Paradigm|范式]]与市场塑造共创范式辨析
 > | 维度 | 市场修复范式（Market Fixing） | 市场塑造与共创范式（Market Shaping & Creating） |
 > |---|---|---|
@@ -130,8 +124,6 @@ updated: 2026-10-22
 > | **公私关系** | 简单的去风险（De-risking）与单向资金补贴。 | 风险共担、收益对等共享与嵌入附加条件（[[Policy Conditionalities\|Conditionalities]]）的社会契约伙伴关系。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 市场塑造与共创的核心要素与运行机制
 > - **方向性战略投资（Directional Strategic Investment）** 公共机构通过战略性[[Patient Capital|耐性资本]]（Patient Capital）向具有高度不确定性的前沿领域注资，拉动早期技术探索与基础科学突破。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–808)]]
@@ -198,8 +190,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 市场塑造与共创核心命题矩阵
 > | 命题类型 | 核心指向 | 克服的传统困境 | 代表研究 |
 > |:---|:---|:---|:---|
@@ -211,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 市场塑造概念演进历程
 > - **1920s–1950s — [[Market Failure|市场失灵]]与福利经济学确立** 庇古（Pigou）、萨缪尔森（Samuelson）与阿罗（Arrow）建立市场失灵理论，将公共干预严格限定于弥补外部性、提供公共品及信息不对称范畴。
 > - **1970s — 战后高科技市场创造与结构重塑实证奠基** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与[[John E. Tilton|蒂尔顿]]（Tilton, 1971）基于半导体与计算机产业的长时序研究，首次确立了联邦机构通过 100% 首发采购托底从无到有创造市场、释放微观[[Learning Economy|学习经济]]并扶植新进入者打破传统垄断的“市场创造与塑造”实证原型。
@@ -222,8 +210,6 @@ updated: 2026-10-22
 > - **2024 — 现代产业战略中的[[Policy Conditionalities|制度化附加条件]]与自适应契约治理** [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] 将市场塑造落地为现代产业战略的具体实施准则，实证阐明了美国三大法案如何通过 [[Build America, Buy America Act|BABA]] 本土采购拉动、技术中立税收激励与托儿/[[Apprenticeship|学徒制]]/利润分享等制度化附加条件，将市场塑造从理论倡导转化为具法律约束力的公私社会契约。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

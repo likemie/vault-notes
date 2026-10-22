@@ -63,11 +63,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Chin-Chung Tsai
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国台湾学习科学与教育技术学者，台湾师范大学学习科学跨国顶尖研究中心讲座教授、教育学院院长，国际权威期刊 *Computers & Education* 与 *International Journal of Science Education* 前主编/主编。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1996–2004 — 网络学习与科学[[Epistemological Beliefs\|认识论信念]]假说奠基阶段** 探索互联网作为认知与[[Metacognition\|元认知]]工具对学习者认识论信念的激活与反哺机制。
 >   - **代表著作** *Beyond Cognitive and Metacognitive Tools: The Role of the Learner’s Epistemological Beliefs in Learning with the Internet* (Tsai, 2004)。
@@ -108,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 数字与智能技术对学习的深层影响不仅取决于信息呈现与交互界面，更取决于技术中介与学习者[[Epistemic Cognition\|认识论认知]]的[[Interaction Effect\|交互作用]]。从互联网搜索到生成式大语言模型，学习者必须从被动顺从或单一怀疑转向情境化的[[Epistemic Stances\|适应性认识立场]]，在双轨[[Scaffolding\|教学支架]]的协同下行使[[Epistemic Agency\|认识能动性]]，实现[[Man-Computer Symbiosis|人机共生]]智力增益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 > [!citation-card] 网络学习与[[Epistemology\|认识论]]重塑假说
@@ -125,9 +117,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了从传统个体[[Epistemology\|认识论]]发展论向人机中介与情境化[[Epistemic Cognition\|认识论认知]]的转型，深化了对学习者在技术富集环境中[[Epistemic Agency\|认识能动性]]与[[Cognitive Offloading\|认知卸载]]机制的理论解释。
 > - **方法路径** 推动了认识[[Network Analysis\|网络分析]]（Epistemic Network Analysis, ENA）与多模态[[Learning Analytics\|学习分析]]在科学教育与在线协作中的实证落地，为测量复杂认识论互动提供了计算[[Paradigm\|范式]]。
 > - **实践路径** 指导了数字化探究工具开发、基于大模型的[[Dialogue in Education\|教育对话]][[AI Agent in Education\|智能体]]设计以及[[Man-Computer Symbiosis|人机协同]]课堂中双轨促学支架的研制。
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **机构／学术平台** 台湾师范大学学习科学跨国顶尖研究中心、国际期刊 *Computers & Education* — 长期作为核心学术领导者与国际对话平台组织者。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

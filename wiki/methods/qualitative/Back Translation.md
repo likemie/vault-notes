@@ -33,11 +33,8 @@ status: draft
 created: 2026-06-24
 updated: 2026-10-16
 ---
-# Back Translation
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 回译（Back translation）是跨文化研究中验证翻译工具效度的标准技术（Brislin, 1970; Vallerand et al., 1992; Banville et al., 2000; Cardinal et al., 2003）。其基本逻辑是：将原始语言版本翻译为目标语言后，交由**未见过原始版本**的第三方将译文回译为原始语言，然后比较两个原始语言版本——如果意义一致，译文可接受；如果不一致，译文需要修改。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 183–184)]]
@@ -48,8 +45,6 @@ updated: 2026-10-16
 > - **边界** 回译只保证**语言对等性（linguistic equivalence）**，不保证**文化对等性**——即使回译完美，同一工具在不同文化中仍可能测量不同的[[Construct\|构念]]（[[Cross-cultural Validity\|跨文化效度]]问题）。
 
 ---
-
-## 核心要素
 
 > [!proc] 回译的标准操作流程
 > 1. **原文 → 译文** 将原始语言版本（如英文[[Questionnaire\|问卷]]）翻译为目标语言（如中文）
@@ -85,8 +80,6 @@ updated: 2026-10-16
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 184–185)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 回译的局限
 > 回译只保障了语言对等性——它将原始语言作为"参照语言"，假设原始版本是意义的标准。但**去中心化（decentring）** 的观点认为，原始语言和译文语言应同等重要——在某些情况下，原始语言本身也可能需要修改以适应跨文化情境。此外，Aldridge and Fraser (2000) 指出目标语言中可能根本不存在对等的词汇，这迫使研究者在两种语言中都做出妥协。

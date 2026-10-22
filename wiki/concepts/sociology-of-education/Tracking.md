@@ -79,11 +79,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Tracking
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 分轨制（Tracking）指根据学生的学业能力评估、标准化测验成绩或既定职业取向，将其系统性分配至不同课程难度轨道（Tracks）、教学班组或不同类型中等学校的制度化组织实践。在宏观制度层面，跨国比较实证研究表明，学校体系的分层与早期分轨不仅未能促进卓越，反而加剧了社会经济阶层隔离，对教育公平（Equity）与学生的学习动机产生显著负面抑制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；OECD, 2013b）；在微观文化心理层面，分轨制深植于西方文化的“固定自我观”与天赋论假设，通过“适应学生已有特征”而非“通过教学发展学生”的组织逻辑，促使低轨学生在长期的认知降级中陷入自我实现的失败预言（[[Argument_Li_2012_Cambridge\|Li, 2012]]）。
@@ -173,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -184,8 +178,6 @@ updated: 2026-10-22
 > | **组织决策与准实验转向** | 能力分组触及学校核心组织刚性导致 RCT 招募失败，需转向利用自然变异的准实验设计（QEDs）开展因果评估 | 宏观学校组织决策因果推断、循证资助序列设计 | Edovald & Nevill; Roy et al. |
 
 ---
-
-## 跨文化视野与比较教育视角
 
 > [!case] 东亚教育对分轨的排斥与努力可变自我观
 > [[Jin Li\|李瑾]]（Jin Li）指出，尽管东亚中等教育存在激烈的高利害中考与[[Gaokao\|高考]]选拔，但东亚学校在日常组织中高度排斥校内永久性的“能力分轨制”（[[Argument_Li_2012_Cambridge\|Li, 2012, pp. 109–110]]）：
@@ -201,8 +193,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变与学术脉络
 > - **20 世纪初至中叶 — [[Structural Functionalism|结构功能主义]]与选拔效率论** 英国 1944 年《巴特勒法案》确立文法中学、现代中学与技术学校三部制，欧洲大陆全面普及基于学力考试的多轨中等教育；此时分轨被视作依据社会分工合理分配[[Human Capital Theory\|人力资本]]的“科学效率工具”。
 > - **1985 — 冲突论与批判教育社会学奠基** Jeannie Oakes 出版划时代著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
@@ -211,8 +201,6 @@ updated: 2026-10-22
 > - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation\|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials\|RCT]] 因学校拒绝[[Random Assignment\|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice\|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与制度博弈
 >
@@ -229,8 +217,6 @@ updated: 2026-10-22
 > > - **延迟分轨与全纳综合模式** 如北欧及波兰改革经验，主张将综合义务教育至少延续至 15–16 岁，通过推迟分流保障全体学生的共同知识基线与发展可能性。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 经典与因果评估实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

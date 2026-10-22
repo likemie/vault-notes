@@ -78,11 +78,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Emergence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 涌现（Emergence）是[[Complexity Theory|复杂性理论]]、质性[[Interpretive Paradigm|自然主义探究]]与当代前沿计算科学的核心[[Epistemology|认识论]]与[[Ontology|本体论]][[Construct|构念]]，指系统内部低阶组分依据相对简单的局部微观规则持续相互作用时，自发衍生出不可从孤立要素属性中直接预测的高阶复杂性、全局模式与全新系统结构的过程（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, p. 29]]；Davis & Sumara, 2005, p. 313）。涌现的系统具有“整体大于部分之和”的不可逆质变特征，彻底解构了将宏观系统向下还原为孤立原子化零件的机械还原论假定。在[[Qualitative Research|质性研究]]方法论中，涌现表现为理论从实地数据中扎根生发与研究设计的动态演进（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 404–405]]）；在当代[[Generative Artificial Intelligence|生成式人工智能]]领域，涌现专指超大规模人工神经网络在参数规模跨越临界阈值后，在高维隐空间中自发形成超越纯记忆统计的常识推理与概念具象化能力（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska, 2025, pp. 18–20]]）。
@@ -112,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 涌现与相近机制辨析
 > | 维度 | 涌现（Emergence） | 机械还原（Reductionism） | 集中控制（Centralized Control） |
 > |:---|:---|:---|:---|
@@ -123,8 +117,6 @@ updated: 2026-10-22
 > | **秩序来源** | 内部微观互动内生自发生成（“秩序是免费的 / 智能是涌现的”） | 孤立部件机械装配后的被动求和 | 外部中心权威自上而下强加与约束 |
 
 ---
-
-## 核心要素
 
 > [!feature] 涌现的核心理论要素
 > - **自发微观互动与自组织起源** 涌现具有内生的自组织起源，不存在中央总规划者或先验目的论指令，完全源于底层[[Heterogeneity|异质性]]要素之间的持续交互（Kauffman, 1995；Karp & Zamiska, 2025, p. 19）。
@@ -143,8 +135,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 经典案例与仿真模型
 
 > [!feature] 涌现的四大经典具象载体
 > - **热带雨林生态循环模型（Lewin, 1993）**
@@ -212,8 +202,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕涌现展开的五大核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -235,8 +223,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与反思
 >
 > > [!axis] [[Epistemology|认识论]]涌现与[[Ontology|本体论]]涌现的实在论之争
@@ -255,8 +241,6 @@ updated: 2026-10-22
 > 涌现概念不适用于研究具有明确线性因果链条、强封闭性、外部集中强力干涉或简单算术加和的现象；不能将所有难以解释的技术黑箱或社会现象笼统推脱给“涌现”，而应结合严格的局部动力学建模或扎根[[Rich and Thick Description|深描]]展开实质性解构。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 复杂系统与涌现现象的实证模拟与方法学指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

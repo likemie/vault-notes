@@ -58,11 +58,8 @@ status: draft
 created: 2026-05-08
 updated: 2026-10-22
 ---
-# Yajun Zheng
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 郑雅君，中国高等教育研究者，研究方向为高等教育社会学、教育公平与大学生发展。毕业于复旦大学高等教育研究所，师从熊庆年教授。其主要学术贡献在于对中国精英大学中大学生毕业出路分化的阶层机制进行了系统的[[Qualitative Research\|质性研究]]，原创性地提出了"[[Goal-Controlled Mode\|目标掌控模式]]"与"[[Intuition-Dependent Mode\|直觉依赖模式]]"两种大学生活组织图式的类型学框架([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
@@ -84,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration\|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital\|文化资本]]与习性理论）和文化社会学（韦伯价值理性、[[Ann Swidler]] [[Culture as Toolkit\|文化工具箱]]、[[Dual-Process Model of Culture in Action\|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework\|分析框架]]([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
 
 > [!quote|notitle]

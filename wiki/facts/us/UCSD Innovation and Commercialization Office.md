@@ -37,11 +37,7 @@ created: 2026-05-29
 updated: 2026-10-03
 ---
 
-# UCSD Innovation and Commercialization Office
-
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 加州大学圣地亚哥分校（University of California at San Diego, UCSD）的创新与商业化办公室在副校长 Paul Roben 的领导下，采用了一种与常规[[University-Industry Collaboration\|产学合作]]模式方向相反的做法([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025, p.150]])。
 
 > [!quote|notitle]
@@ -49,9 +45,7 @@ updated: 2026-10-03
 
 ---
 
-## 运作机制
-
-> [!abstract|notitle]
+> [!abstract] 运作机制
 > UCSD 模式的运作流程（p.150）：
 
 1. **确定垂直领域** UCSD [[Innovation Hub|创新中心]]确定一个感兴趣的垂直技术领域（如移动技术，Qualcomm 总部就在 UCSD 旁边）
@@ -63,9 +57,7 @@ updated: 2026-10-03
 
 ---
 
-## 与传统模式的关键差异
-
-> [!abstract|notitle]
+> [!abstract] 与传统模式的关键差异
 > "企业来找大学"的传统模式隐含前提是企业已经知道自己要什么，但突破性[[Nature of Innovation|创新的本质]]恰恰是"还不知道自己要什么"（p.150）。UCSD 模式翻转了这个前提：大学拥有深厚的研究积累和人才储备，需要产业告诉它五年后这个行业最大的机会在哪里、今天的痛点是什么、现有方案解决不了的最头疼的问题是什么。
 
 > [!success|notitle]

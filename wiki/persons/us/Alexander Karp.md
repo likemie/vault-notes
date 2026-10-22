@@ -77,11 +77,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Alexander Karp
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国科技企业家、社会理论学者，[[Palantir Technologies|帕兰提尔科技公司]]（Palantir Technologies Inc.）联合创始人兼首席执行官，德国法兰克福歌德大学社会理论博士。
@@ -107,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990s–2002 — 批判社会理论与法兰克福学派训练阶段** 深入研读社会学、政治哲学与[[Epistemology|认识论]]，在[[Jürgen Habermas|哈贝马斯]]指导下反思现代性、合理化与官僚异化问题。
 >   - **代表成果** 法兰克福大学博士学位论文（关于侵略性与社会理论中的生活世界）。
@@ -129,9 +123,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代西方民主政体的存续与地缘战略优势根本上依赖于前沿科技与国家防务的深度融合。科技企业必须走出狭隘的纯商业中立幻象与衍生性模仿，主动承担捍卫母国与民主制度的公共使命；同时，公共治理体系必须全面吸纳硅谷在软件实践中沉淀的[[Engineering Mindset|工程思维]]——以物理运行结果为唯一裁判、视现实为流动云团的“极致狐狸”概率认知、自底向上的边缘赋权与免责式多层根因复盘，彻底破除各领域的[[Innovation Desert|创新荒漠]]，以切实的技术供给效能重塑政权合法性（pp. 3–15, 109–167）。
 
 > [!feature] 工程组织与治理机制四大支柱
@@ -147,9 +139,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 融合法兰克福[[Critical Theory|批判理论]]、[[Pragmatic Paradigm|实用主义]]哲学与组织生态学，开创[[Technological Republic|技术共和国]]治理学说与工程[[Epistemology|认识论]]体系。
 > - **方法路径** 将[[Taiichi Ohno|大野耐一]][[Five Whys|五问法]]系统拓展至软件架构与跨部门组织诊断，推行无过错复盘与前线部署工程实践。
 > - **政策路径** 推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》在司法裁判中实质落地，倒逼美国国防部改革防务采购规程，向商业科技开放准入。
@@ -159,8 +149,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 系统论证技术共和国、[[Engineering Mindset|工程思维]]、[[Swarm Intelligence|群智能]]与认识论治理框架（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|Ch. 9]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|Ch. 10]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|Ch. 11]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Ch. 12]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|Ch. 13]], [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 战后防务科技史视角论卡普的战略定位
 > 亚历山大·卡普在硅谷普遍回避国家安全与[[Geopolitics|地缘政治]]的时代，旗帜鲜明地主张科技公司与西方民主政体的战略结盟；他将欧陆[[Critical Theory|批判理论]]的宏观视野与硅谷最硬核的工程实践相结合，成为推动防务采办改革与[[Technological Republic|技术共和国]]构想的关键思想者与实践者。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, Overview)]]
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** [[Palantir Technologies]] — 卡普长期领导的科技实体与理论实践基地。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与公共争议
 >

@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Hyman Rickover
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国海军上将、电气工程师，[[USS Nautilus Submarine Development|美国海军核动力推进计划]]的开创者与长期领导者，冷战时期美国国防科技与海军战略的核心奠基人之一。
@@ -72,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 工程领袖的首要天职在于交付关乎国家命运的实质成果，而非屈从于平庸自保的科层合规；追求完美的道德纯洁性与僵化程序往往会逆向淘汰真正具有开创能力的异类工程天才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–187)]]
 
 > [!citation-card] 打破科层体制与直面结果责任
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > - **任职机构与主导工程** [[USS Nautilus Submarine Development]] — 领导研制世界首艘核潜艇“鹦鹉螺号”；美国海军核动力局（Naval Reactors）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 官僚程序审查与战略成果辩护之争
 >

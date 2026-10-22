@@ -93,13 +93,9 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-# Neo-Taylorism
-
 ---
 
-## 核心定义
-
-> [!def|notitle] 核心定义
+> [!def] 核心定义
 > **新泰勒主义（Neo-Taylorism in Educational Administration）** 指弗雷德里克·温斯洛·泰勒（Frederick W. Taylor, 1911）的科学管理原理在当代教育治理与学校行政中的复兴。它以“寻找唯一最佳方法”（One Best Way）与“最大化投入回报”为核心驱动，借助[[Positivism|实证主义]]量化指标、[[Meta-analysis|元分析]][[Effect Size|效应量]]排行榜以及数字化监控工具，将充满情境复杂性与伦理交往的教育实践拆解为离散、可测算、可标准化的技术操作单元，对一线教师的专业劳动实施自上而下的绩效监控与规训控制。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
 在概念演进中，新泰勒主义构成了批判教育管理学解构当代[[Evidence-Based Education|循证教育]]狂热与量化问责霸权的关键分析范畴。
@@ -219,12 +215,10 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
-在教育行政与学校政策研究中，针对新泰勒主义的实证检验主要聚焦于其底层数据[[Construct|构念]]的[[Reliability|可靠性]]、教师受控负荷以及微观执行行为的量化测定。
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> 在教育行政与学校政策研究中，针对新泰勒主义的实证检验主要聚焦于其底层数据[[Construct|构念]]的[[Reliability|可靠性]]、教师受控负荷以及微观执行行为的量化测定。
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|

@@ -126,7 +126,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Li_2026_CEAI
 
 ---
 
@@ -154,8 +153,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -171,8 +168,6 @@ issuing_organization: ""
 > 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory\|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性与[[Illusion of Competence\|能力错觉]]面前维持“[[Epistemic Friction\|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同[[Scaffolding\|教学脚手架]]下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -248,8 +243,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -269,9 +262,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一　ChatGPT 对批判性思维具有双向调节效应：反思催化与心智惰性并存
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一　ChatGPT 对批判性思维具有双向调节效应：反思催化与心智惰性并存
 > ChatGPT 对大学生[[Critical Thinking\|批判性思维]]（[[Convergent Thinking\|收敛性认知加工]]）的影响呈现鲜明的双刃剑特征：在具备显性引导与反思规程的教学情境中，它能作为[[Metacognition\|元认知]]对话[[Scaffolding\|脚手架]]有效催化证据评估、论证深化与事实核查；但在缺乏教学支架的场景中，极易诱发严重的[[Cognitive Offloading\|认知卸载]]、思维怠惰与论证逻辑退化。
 
 > [!ref-table]- 表5：ChatGPT 对批判性思维影响的核心主题、情境与调节[[Variable\|变量]]（Key Themes on Critical Thinking）
@@ -312,9 +303,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二　ChatGPT 对创造性思维兼具构想激发与表达均质化的双重属性
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二　ChatGPT 对创造性思维兼具构想激发与表达均质化的双重属性
 > ChatGPT 对大学生[[Creativity\|创造性思维]]（[[Divergent Thinking\|发散性认知加工]]）的影响表现为“构想发散赋能”与“表达均质化压制”的复杂张力：它能显著降低创造焦虑、突破思维定势并提供跨学科连接支架；但全盘依赖或后期滥用则会稀释独特的个人学术声音、抑制深层探索迭代，并诱发早熟收敛。
 
 > [!ref-table]- 表6：ChatGPT 对创造性思维影响的核心主题、情境与调节变量（Key Themes on Creative Thinking）
@@ -355,9 +344,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　教学脚手架决定批判与创造性思维的三大共现演进轨迹
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三　教学脚手架决定批判与创造性思维的三大共现演进轨迹
 > 高等教育中批判性思维（收敛）与创造性思维（发散）的协同发展绝非技术引入后自发产生的生理副产物，而是受到课程教学结构、任务目标与评价规则的深度调节。实证文献中系统分化出三种截然不同的共现演进模型。
 
 > [!ref-table]- 表7：ChatGPT 整合学习中[[Higher-Order Thinking Skills\|高阶思维]]的三大认知共现模式（Co-occurrence Patterns in ChatGPT-Integrated Learning）
@@ -398,9 +385,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤四　重构生成式 AI 时代的教学干预规制与多源反馈生态
-
-> [!claim|lead] 步骤四主张
+> [!claim] 论证步骤四　重构生成式 AI 时代的教学干预规制与多源反馈生态
 > 为化解[[Generative Artificial Intelligence\|生成式人工智能]]整合中的认知卸载危机并释放其高阶思维潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的二元对立，依据[[Third Generation Activity Theory\|活动理论]]全面重组教学规制，构建涵盖六大干预维度的教学法生态。
 
 > [!feature] 促进高阶思维发展的六大教学干预规制（pp. 11–13）
@@ -430,8 +415,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **认知效应的情境依赖性** ChatGPT 对大学生思维的影响非技术固有，[[Structured Teaching\|结构化教学]]设计驱动认知增益，非结构化使用导致思维惰性。（pp. 1, 9–10）
 > 2. **[[Critical Thinking\|批判性思维]]的双刃剑机制** 显性反思支架激活[[Metacognition\|元认知]]监控与论证推理（27 项研究），缺乏引导则诱发严重[[Cognitive Offloading\|认知卸载]]与盲目盲从（21 项研究）。（pp. 6–7）
@@ -446,8 +429,6 @@ issuing_organization: ""
 > - **18** （项） 实现批判性与创造性思维双向协同增益的结构化实证案例。（p. 9）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 教学设计决定认知走向
 > 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于[[Framework for Teaching|教学框架]]、任务设计和[[Scaffolding\|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading\|认知卸载]]所引发。（pp. 1, 10）

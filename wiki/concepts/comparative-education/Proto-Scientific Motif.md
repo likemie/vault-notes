@@ -69,8 +69,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Proto-Scientific Motif
-
 ---
 
 ## 定义
@@ -171,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -188,8 +184,6 @@ updated: 2026-10-22
 > - **21世纪至今 — 历史学史重估与批判人文主义复兴** 卡扎米亚斯、卡洛扬纳基与克勒里德斯等学者重新肯定准科学母题中被实证派所剥离的[[Cosmopolitanism|世界主义]]、[[Perpetual Peace\|永久和平]]与全人教化伦理，将其确立为抵御新自由主义[[Performance Indicators\|绩效指标]]主义的宝贵思想源泉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 17–18)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

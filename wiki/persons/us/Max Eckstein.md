@@ -87,11 +87,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-# Max Eckstein
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍德裔/英裔比较教育学家，纽约城市大学皇后学院（Queens College, City University of New York, CUNY）教育学教授，美国[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1988–1989）。
@@ -120,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960年代 — 科学实证规程构建与学科起源编纂** 回应早期比较教育充斥主观描述和民族主义偏见的缺陷，主张以可操作[[Variable|变量]]和经验指标重新武装比较研究。
 >   - **代表著作** *Toward a Science of Comparative Education* (1969); *Scientific Investigations in Comparative Education* (1969). [[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
@@ -136,9 +130,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育学的发展历史体现了从直觉见闻走向系统实证科学的必然演化路径；研究者应当将经验社会[[Scientific Paradigm|科学范式]]引入教育分析，把国家间差异视为天然的准实验场，其方法论核心在于**用抽象的概念[[Variable|变量]]替代具体的国别系统名称**，通过严密的数据抽样、量化调查、假说设立与统计控制，寻求[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的函数共变规律；这种[[Positivism|实证主义]]探索不仅能有效清洗传统研究中的主观偏见与任意武断，而且为战后公共教育现代化改革提供了客观中立的决策基石。
 
 > [!citation-card] 卡扎米亚斯论哥大学派：以变量替代系统名称的核心方法论纲领
@@ -173,9 +165,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Positivism|实证主义范式]]推广** 与诺亚共同倡导的[[Scientific Paradigm|科学范式]]，深刻重塑了 1970–1980 年代北美及国际比较教育研究的主流取向，直接催化了大规模跨国教育测评（如 [[IEA]]）的理论与方法基础；
 > - **学科合法性建构** 其合作著作为后继学者提供了清晰、自信的学科起源图景，在二战后高等教育扩张期有效奠定了学科的建制地位；
 > - **学会组织领导** 长期活跃于 [[Comparative and International Education Society|CIES]] 核心领导层并出任会长，推动学会与国际测量组织及各大学术研究机构的跨界协同；
@@ -188,8 +178,6 @@ updated: 2026-10-22
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析埃克斯坦与诺亚在科学范式中建立的变量函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 考恩论比较教育学科起源叙事与学术合法性
 > 在专业层面，他们很早就解决了我作为学生时的困惑：哪里能找到一部比较教育学史？答案就在他们那本经典著作之中。在这里，该领域的起源以示范性的清晰度呈现出来，学术注释严谨翔实。这段历史赋予了我学术职业合法性。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
@@ -218,8 +206,6 @@ updated: 2026-10-22
 > - **机构与组织** [[Comparative and International Education Society|CIES]]（1988–1989 年会长）、纽约城市大学皇后学院、[[IEA|国际教育成就评价协会]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

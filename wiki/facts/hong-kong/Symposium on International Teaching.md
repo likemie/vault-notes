@@ -33,8 +33,6 @@ created: '2026-05-16'
 updated: 2026-10-22
 ---
 
-# Symposium on International Teaching
-
 > [!info] 背景
 > 进入 21 世纪后，[[International Education\|国际教育]]快速增长，[[Chinese Learner\|中国学习者]]在全球各级教育机构中的可见度显著提高。然而，大学研究者与中小学教师之间长期缺乏关于中国学习者的经验交流与对话——各自的认识局限于特定的专业圈层内([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.2]])。
 

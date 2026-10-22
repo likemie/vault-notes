@@ -59,8 +59,6 @@ updated: 2026-10-22
 > - 发展经济学家将随机化现场实验视为基于具体原则（来自经济理论或行为科学）实证检验干预的手段（Card, DellaVigna, & Malmendier, 2011）
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 提出将机制实验引入教育"什么有效"策略，作为从黑箱 RCT 转向"什么有效 2.0"的核心改革
 
-## 核心要素
-
 > [!abstract] 与黑箱 [[Randomised Controlled Trials\|RCT]] 的对比
 > | | 黑箱 RCT | 机制实验 |
 > |---|---|---|
@@ -106,8 +104,6 @@ updated: 2026-10-22
 > - 在教育中采用机制实验的系统性实证检验仍处于早期阶段——[[Argument_Peterson_2016_IJRME\|Peterson (2016)]] 主要提供方法论论证和操作框架，而非实证结果
 > - 发展经济学领域已积累相关证据（Card, DellaVigna, & Malmendier, 2011）
 > - 行为科学中 BCT 分类法（Michie et al., 2013）已获 250+ 引用，展示了"活性成分"分类在健康干预中的可行性
-
-## 争议与批评
 
 > [!warning] 机制定义的根本困难
 > **争议背景** 机制的统一定义在教育和社会科学中尚未达成共识。

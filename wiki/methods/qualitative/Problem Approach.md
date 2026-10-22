@@ -70,11 +70,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Problem Approach
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 比较教育学问题法（Problem Approach，又称[[Problem Solving|问题解决]]法）是由英国学者[[Brian Holmes|布赖恩·霍姆斯]]（[[Brian Holmes|Brian Holmes]]）在 1960 年代系统确立的规范性比较研究方法，代表了战后第三代际实证[[Scientism|科学主义]]运动（Discourse 3, 1960–1980）三大流派中的“伦敦学派”。该方法熔铸了[[Karl Popper|卡尔·波普尔]]（[[Karl Popper|Karl Popper]]）的批判理性主义（[[Critical Dualism|批判二元论]]、情境逻辑与可[[Falsification|证伪]]假说）与[[John Dewey|约翰·杜威]]（[[John Dewey|John Dewey]]）的[[Reflective Thinking|反思性思维]]理论，旨在通过甄选现实教育问题、形式化政策假说、系统审查文化规范与客观制度初始条件，并依托情境逻辑严密推导政策实施的预期与非意图后果，从而以理性概率预测指导前瞻性教育决策，实现对经验归纳实证学派与古典历史学派的批判性综合。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 63, 66–67)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 149–151)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 > *[[Hypothesis|hypotheses]], to be scientific, must be refutable... Social laws cannot be conceived as universal, unconditional generalizations; they are valid only under given initial conditions. The problem approach deduces the logical consequences of educational policies in specific context, predicting both intended outcomes and unintended consequences to guide rational policy intervention.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]定位
 > - **哲学前提** 假说-演绎主义（Hypothetico-Deductive Method）与[[Critical Dualism|批判二元论]]（Critical Dualism）。汲取相对论物理学启示，断言社会学法则的有效性严格依赖于其适用的初始情境条件，否定绝对超越时空的机械因果铁律，主张以可经验[[Falsification|证伪]]的情境权变性（Contingency）作为科学认知基石。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 62–63)]]
@@ -138,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 霍姆斯假说-演绎问题法五阶段操作流程
 > 1. **技术问题选择与定性剖析（Problem Selection）** 从现实教育危机与制度运行中精准甄别出政策行动者面临的技术性或体制性矛盾焦点。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 63)]]
 > 2. **政策方案假说化表述（[[Hypothesis]] Formulation）** 将可供选择的教育改革政策表述为明确、可经验[[Falsification|证伪]]的待检验假说陈述（教育政策本质上即为[[Problem Solving|问题解决]]的假说）。
@@ -170,16 +162,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用场景与条件
 > - **高度契合** 跨国教育[[Policy Borrowing|政策借用]]与移植的可行性论证；国家重大教育改革方案的事前评估与后果预测；教育体制与社会政治结构脱节的深层病理诊断。
 > - **资料条件** 目标国家拥有明确的制度政策文本、可资考察的历史文化档案以及基本的教育运行统计数据。
 > - **不宜使用** 脱离现实政策关切的纯书斋式观念考据；追求大样本无情境统计相关、企图建立普适跨国回归模型的宏观测算研究。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与应用挑战
 > - **社会预测可行性与自由意志悖论** 英国比较教育学者[[Edmund King|埃德蒙·金]]（[[Edmund King|Edmund King]], 1967）在方法论大论战中激烈批评指出，人类社会充满了不可预测的复杂性、历史偶然性与行动者的自由意志，将物理学式的预测视作比较教育学的划界标准是极度不切实际的[[Positivism|实证主义]]幻想；霍姆斯（Holmes, 1981, p. 79）反驳指出科学预测并非通灵预言，而是基于情境逻辑的概率推演，正如公共交通时刻表与人寿保险费率计算一样，是现代政策干预不可或缺的前提。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 63–64, 67)]]
@@ -211,8 +199,6 @@ updated: 2026-10-22
 > | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 梳理霍姆斯以科学预测为标尺对古典历史学派发起的实证围剿及其学科史影响。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 系统考证并评析[[Brian Holmes|布赖恩·霍姆斯]]的问题法在战后比较教育科学化运动中的理论建构、[[Epistemology|认识论]]争鸣及其对历史学派与[[Positivism|实证主义]]的折衷综合。

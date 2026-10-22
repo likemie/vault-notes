@@ -47,11 +47,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Important Projects of Common European Interest
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 欧洲共同利益重要项目（Important Projects of Common European Interest, IPCEI）是[[EU|欧洲联盟]]依据《欧洲联盟运行条约》（Treaty on the Functioning of the European Union, TFEU）第 107 条第 3 款第 b 项设立的跨国重大战略性产业扶持框架，通过对常规欧盟国家援助（State Aid）严格禁令的制度化豁免，允许成员国动用本国财政共同资助具有突破性技术创新、广泛泛欧外溢效应与高市场风险的先导性产业网络。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
@@ -63,8 +59,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对欧洲在全球半导体与数字价值链中的结构性萎缩（欧洲制造产能占全球份额不足 10% 且完全缺席尖端先进制程），弥补欧盟层面统一公共财政资源的严重赤字，同时防范成员国各自为政导致的零和补贴与单一市场恶性分裂。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4–5, 13–15)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说与机制
 > IPCEI 机制依托[[EU|欧盟]]委员会的“[[Orchestrator State|产业政策协调者]]”（Orchestrator）职能，以放宽国家援助审查为法律杠杆，激励分散的主权国家财政向具备跨国外部性的前沿研发与首度工业部署集中，并通过附带利润回缴（Claw-back）等软性附加条件维护公私利益对等。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
@@ -82,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] IPCEI 微电子机制推进历程
 > - **2014 年 — 制度基石奠定** [[EU|欧盟]]委员会发布首个 IPCEI 沟通准则（Communication on IPCEI），将 TFEU 第 107 条第 3 款第 b 项转化为制度化豁免国家援助审查的法律通道。
 > - **2018 年 — 首度切入微电子制造** 欧委会批准首个微电子领域 IPCEI，由法国、德国、意大利和英国联合出资，覆盖 29 家企业，标志着 IPCEI 工具从传统能源和交通基建向高科技先进制造业战略扩展。
@@ -91,8 +83,6 @@ updated: 2026-10-22
 > - **2023 年 6 月 — IPCEI ME/CT 正式落地** 欧委会依据新规正式批准微电子与通信技术欧洲共同利益重要项目（IPCEI ME/CT），涵盖 14 个成员国、81 亿欧元公共资助与 68 个关键子项目，成为《欧洲[[CHIPS and Science Act|芯片法案]]》第二支柱的核心实施载体。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 13)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **[[EU|欧洲联盟]]委员会（European Commission）** 作为“[[Orchestrator State|产业政策协调者]]”，负责对成员国联合提报的补贴方案进行反垄断与竞争中立审查，监督技术外溢承诺，确保项目符合“泛欧利益”。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - **事后超额收益追索管理** 建立跨国动态审计程序，由出资国税务与产业部门跟踪项目商业化后的财务报表，触发利润回缴条件时执行收缴。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入规模指标** 成员国已批准公共财政补贴总额（81 亿欧元）、预期撬动私营部门配套投资额（137 亿欧元）。
@@ -126,8 +114,6 @@ updated: 2026-10-22
 > - **180** （项） 项目所建立的跨国界产学研研发协作网络数量。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

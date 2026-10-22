@@ -82,11 +82,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Subjectivism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **主观主义（Subjectivism）** 是社会科学与教育研究的基本[[Epistemology\|认识论]]与方法论取向，在吉布森·伯勒尔与加雷斯·摩根（Gibson Burrell & Gareth Morgan）的社会学[[Analytic Framework\|分析框架]]中代表主观—客观维度的关键一极。该取向将社会世界视为主观意识与人际互动创造的产物，主张研究的核心使命在于理解个体如何创造、修正与解释其所置身的世界；关注独特的[[Idiographic\|个例式]]案例而非抽象的普适定律，强调相对主义的社会现实而非绝对主义的外部客观存在。在教育学与比较教育学史中，主观主义既构成了历史人文传统的阐释基石，也在战后经历了[[Positivism\|实证主义范式]]的系统清洗、批判理性主义的情境整合以及后现代思潮对多元真理体制的重新合法化。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 60–62, 68–69)]]
@@ -113,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 主观主义、实证[[Objectivism\|客观主义]]与批判理性主义辨析
 > | 比较维度 | 主观主义（Subjectivism） | 实证客观主义（Objectivism / [[Positivism]]） | 批判理性主义情境进路（[[Critical Dualism]]） |
 > |---|---|---|---|
@@ -125,8 +119,6 @@ updated: 2026-10-22
 > | **法则定位** | 否定超越时空的普遍规律，聚焦个案独特性与意义理解 | 探寻普遍恒常的制度规律或[[Variable\|变量]]间的函数共变关系 | 拒绝绝对律则，主张具有情境权变性（Contingency）的社会学法则 |
 
 ---
-
-## 核心要素
 
 > [!feature] 伯勒尔与摩根主观主义四维假设构架
 > - **[[Nominalism\|唯名论]][[Ontology\|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度并非自然实体，而是由人类行动者[[Co-invention|共同发明]]的社会实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
@@ -203,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -222,8 +212,6 @@ updated: 2026-10-22
 > - **1980 年代至今 — 后现代转向与主观主义范式合法化** 实证规划神话破产与量子力学不确定性转向促使后现代思潮崛起，[[Grand Theory\|宏大理论]]被解构，主观、质性与参与性方法获得等同的学术合法性，学科走向复数真理体制。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 68–69)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

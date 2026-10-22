@@ -46,11 +46,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Chinese Exceptionalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 中国例外论指一种主张中国在历史传统、文明形态、现代化道路与全球秩序构想上自具独特性且不适用西方普世发展[[Paradigm|范式]]的政治与学术构想。当代研究将其阐释为兼具大国卓越追求与道德善意展示的复合心智，在跨国高等教育与公共外交中表现为融合传统[[Tianxia Heuristic|天下观]]念与现代科学技术、发展经验的[[Pragmatic Paradigm|实用主义]]形态。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044, 1051)]]
@@ -80,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **文明[[Pride in Learning|自豪]]与[[Tianxia Heuristic|天下观]]传承** 依托儒家天下大同、和而不同与中华文明悠久底蕴，构建区别于西方现代性断裂的历史连续性认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 > - **当代治理与发展经验示范** 将快速工业化、脱贫攻坚、数字经济与基础设施建设经验转化为面向全球南方国家的治理知识输出。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1049, 1051)]]
 > - **科技创新与[[Hard Power|硬实力]]展演** 在顶尖高校优先扩招科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）专业国际留学生，以高新技术企业基地参访与前沿成果彰显大国卓越实力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1052)]]
@@ -131,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -148,8 +140,6 @@ updated: 2026-10-22
 > - **2025 年 — 高等教育[[Pragmatic Paradigm|实用主义]]例外论实证确立** 朱柯锦与杨锐将该概念引入比较高教实证分析，系统提炼出融通传统世界观与现代科学理性、以大学为主要展演舞台的实用主义中国例外论模型。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1054)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -168,8 +158,6 @@ updated: 2026-10-22
 > 该概念专用于分析中国官方与精英阶层的对外战略自我认知及政策修辞，不能将其直接等同于客观形成的区域权力结构，亦不能忽视非中国受访者在互动中的策略性功利应对。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1050)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

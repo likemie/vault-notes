@@ -72,7 +72,6 @@ citation_aliases:
   - "Wolf et al., 2025"
   - "Wolf et al. (2025)"
 ---
-# Argument_Wolf_2025_InternationalResearchCollab
 
 > [!question]
 > 国际产学（University-Industry, UI）研究合作的出版物数量在过去二十年显著增长，尤其是涉及三个及以上国家的合作(p.311)。然而跨国研究团队不仅面临一般[[University-Industry Collaboration\|产学合作]]中的目标分歧和知识产权障碍，还叠加了跨境特有的[[Geopolitics|地缘政治]]风险、法律框架冲突和文化沟通壁垒。这些额外复杂性的来源是什么？它们如何相互关联？是否存在可复制的成功模式？
@@ -254,9 +253,7 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - 国际 UI 合作的五重挑战（目标对齐、合作经验、知识产权、[[Geopolitics|地缘政治]]、文化沟通）呈现出从"要不要合作"到"能不能持续"的层层嵌套结构(pp.311–316)
 > - 共同选址作为空间策略，通过缩短物理距离同时降低沟通成本、增进文化理解和简化 IP 操作摩擦，系统性回应了五重挑战(pp.317–318)
 > - Mars and UC Davis 的合作序列展示了从问题驱动项目（AWD）到使命驱动网络（[[African Orphan Crops Consortium\|AOCC]]）再到制度化创新平台（[[Innovation Institute for Food and Health\|IIFH]]）的三阶段演化，每一阶段以前一阶段的信任积累为前提(pp.319–323)
@@ -270,9 +267,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "International research collaborations require time, clear communication, trust, and shared values."(p.309)
 
 > [!quote|notitle]

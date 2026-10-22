@@ -75,11 +75,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Open Court Reading
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **开放式阅读（Open Court Reading, OCR）** 是由 [[Sponsored Research Agreement\|SRA]]/McGraw-Hill 出版发行的美国学前至小学六年级（Pre-K–6）基础读写与语言艺术综合课程方案，覆盖全美成千上万所小学。在政策与学术脉络中，OCR 兼具双重典型意义：它既是 1990 年代末至 2000 年代初美国联邦通过《[[Reading Excellence Act\|卓越阅读法案]]》与《[[No Child Left Behind Act 2001\|NCLB]]》推行“科学基础研究”规制时商业资本与联邦技术官僚深度结盟的政策受益样本，也是当代[[Evidence-Based Education\|循证教育]]元评估中揭示三大清算中心“表面评级一致掩盖底层方法学剧烈冲突”的方法学透镜。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 22–23)]]; [[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8–9)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案设计与运行机制
-
 > [!claim] 核心教学干预机制
 > OCR 假定通过将阅读教学分解为高强度、高度系统化与去情境化的显性拼读训练（Explicit Phonics），并要求教师严格遵循预设脚本执行大课时量干预，即可绕过教师个体专业差异并机械性地生产出标准化学业产出。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 8–9)]]
 
@@ -105,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与制度化演进
-
 > [!dev-timeline] 发展与政策推进历程
 > - **1960s–1990 年代初 — 拼读课程奠基期** [[Sponsored Research Agreement|SRA]] 确立了以[[Direct Instruction|直接教学]]与代码强调（Code-Emphasis）为核心的读写教学体系，在全美阅读教学阵营中稳居保守派拼读阵营。
 > - **1997–1998 — 绑定《[[Reading Excellence Act|卓越阅读法案]]》跻身国家推荐名单** 随着众议院教育委员会推进《[[Reading Excellence Act]]》，麦格劳-希尔高层及相关游说力量推动法案采纳排他性的自然拼读与实验[[Paradigm|范式]]定义；OCR 顺理成章成为各地申领联邦拨款时的“合规教材”。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8)]]
@@ -115,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与政商网络
-
 > [!actor-grid] 利益相关方协同与次政府网络
 > - **商业出版巨头（[[Sponsored Research Agreement|SRA]]/McGraw-Hill）** 课程的产权所有者与发行方，通过资金捐赠、行业倡导组织（如全国正确阅读基金会 NRRF）与政治献金维持华盛顿立法影响力。
 > - **立法与政策幕僚（[[House Committee on Education and the Workforce]]）** 委员会资深幕僚（如罗伯特·斯威特）在国会与商业游说机构之间形成旋转门流动，确保法律条文为 OCR 量身定制准入门槛。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 8)]]
@@ -124,8 +114,6 @@ updated: 2026-10-22
 > - **基层执行教师（一线公立学校）** 被强制要求按秒执行教材脚本，原本作为知识转化与情境判断主体的[[Teacher Professional Agency|教师专业自主权]]被剥离，退化为被动的技术执行者。
 
 ---
-
-## 循证清算中心评级全景对比
 
 > [!contrast-table] [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[Best Evidence Encyclopedia\|BEE]] 对 Open Court Reading 的评级与审查机制对比（基于 Wadhwa et al., 2024）
 > | 审查维度 | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Blueprints for Healthy Youth Development\|Blueprints]] (科罗拉多大学) | [[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin) |
@@ -138,16 +126,12 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与效应量表现
-
 > [!stat-cards]- 核心实证研究数据快照
 > - **$+0.10$–$+0.19\text{ SD}$** Borman et al. (2008) 大型多中心集群 [[Randomised Controlled Trials\|RCT]]（涵盖多个学区与数十所小学）各清算中心估计的净[[Effect Size\|效应量]]区间，被 [[Best Evidence Encyclopedia\|BEE]] 定性为“适度效应”。
 > - **$+0.25\text{ SD}$** （门槛越界） Skindrud and Gersten (2006) 准[[Experimental Research|实验研究]]（[[Quasi-Experimental Designs\|QED]]）样本集中于加州薄弱学区，[[What Works Clearinghouse|WWC]] 自行实施集群偏倚校正后判定其越过实质重要性门槛，但 [[Blueprints for Healthy Youth Development|Blueprints]] 因未校正脱落与地域局限直接予以全盘剔除。
 > - **$ES = +0.13\text{ SD}$**（$p < 0.05$） BEE [[Meta-analysis\|元分析]]加权平均效应量，基于多项合格研究方差倒数加权合成，达到 BEE 中等[[Evidence Standards\|证据标准]]。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

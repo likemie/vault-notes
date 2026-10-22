@@ -69,11 +69,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Wolfgang Mitter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名比较教育学家，[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]）总监与所长（1972–1995），[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）会长（1981–1985），[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）会长（1991–1996）。
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展阶段
 > - **1970年代–1980年代 — 中等教育综合化改革与东西欧比较研究** 聚焦西欧综合中学改革阻力与苏联东欧社会主义教育体制的制度运行机制。
 >   - **代表著作** *Secondary School in the Light of [[Comprehensive Education]]* (1979); 与安维勒等学者的跨国课题。
@@ -116,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 欧洲比较教育学的百年演进由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动。比较教育不仅是国别制度的编年史，更是透视[[Knowledge Production|知识生产]]、政治权力和地缘变迁的批判制度社会学。米特主张，欧陆传统将比较教育定位为依附于[[Allgemeine Pädagogik|普通教育学]]但面向历史学与社会学的[[Comparative Education as a Cross-Sectional Area|交叉学科]]领域；在政策参与上，他恪守[[Navigation Metaphor in Comparative Education|航海隐喻]]，主张学者应作为罗盘与地图的提供者，审慎提示多重航线备选方案与潜在暗礁风险，坚决拒绝沦为替政治掌舵或为行政[[Performance Indicators|绩效指标]]背书的技术官僚工具。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 95–98)]]
 
 > [!citation-card] 欧洲统一性与多样性的永恒张力
@@ -133,9 +125,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **学科史编纂[[Paradigm|范式]]** 建立了一套结合制度地理学、专业学会社会学与理论范式演进的多维学科史[[Analytic Framework|分析框架]]，超越了单纯的思想人物传记与单一学派演进叙事。
 > - **冷战与转型教育史标杆** 与安维勒共同确立了西方对苏联东欧社会主义教育实证[[Documentary Analysis|文献分析]]的严谨标准，两德统一与剧变后被中东欧学者奉为客观学术参照。
 > - **跨国学会制度化运作** 在 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 长期维系跨国个人会员制与超政治中立原则，使专业学术学会免受冷战阵营对抗与国家行政权力的工具化操弄。
@@ -166,8 +156,6 @@ updated: 2026-10-22
 > - **机构领导** [[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]，所长）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE 会长）、世界比较教育学会联合会（WCCES 会长）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

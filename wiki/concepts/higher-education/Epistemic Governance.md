@@ -83,11 +83,7 @@ created: 2026-05-11
 updated: 2026-10-22
 ---
 
-# Epistemic Governance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识治理（Epistemic Governance）是指以观念、规范、专业知识与认知分类为基石的全球与跨国治理机制，与依靠强制制裁和行政规制的传统硬治理（Hard Governance）形成互补。该概念在跨国教育与全球治理研究中揭示了高等教育机构、智库与国际组织如何超越单纯的物质权力，通过生产科学证据、确立[[Discourse|话语]]标准、培养全球专家以及输出评估规程，在去中心化网络中行使知识权威，塑造“何谓合理政策与有效知识”的全球认知基准。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–147)]]; [[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 423)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
@@ -108,8 +104,6 @@ updated: 2026-10-22
 > - **不等于专家技术[[Bureaucracy|官僚制]]（Technocracy）** 技术官僚制预设专家替代民选决策者；知识治理强调知识、政治利益与治理制度的相互嵌入与层叠共生。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 知识治理与相近治理机制辨析
 > | 分析维度 | 知识治理（Epistemic Governance） | 硬治理（Hard Governance） | [[Policy Science in Comparative Education\|政策科学]]化（[[Scientization of Politics]]） | [[Governing at a Distance\|远处治理]]（Governing at a Distance） |
@@ -182,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -201,8 +193,6 @@ updated: 2026-10-22
 > - **2024 至今 — 后西方地缘转向与关系性多轨治理探索** 周孟芬与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）基于亚洲与丝路多边大学联盟经验，揭示非西方新兴大国如何依托天下关系性哲学，将开放[[Knowledge Diplomacy|知识外交]]与精英[[Knowledge Power|知识权力]]统一于多极化跨国治理实践。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

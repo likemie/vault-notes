@@ -51,11 +51,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Philip Tetlock
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大裔美国政治心理学家、决策科学家，宾夕法尼亚大学（University of Pennsylvania）阿嫩伯格整合知识讲席教授。
@@ -78,17 +74,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2005 — *Expert Political Judgment: How Good Is It? How Can We Know?*** 系统检验政治专家长期预测效能，运用[[Isaiah Berlin|以赛亚·柏林]]（[[Isaiah Berlin]]）的[[Hedgehog and Fox Model|刺猬与狐狸]]概念区分认知风格，发现狐狸型思考者的预测准确度显著优于刺猬型专家。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 162–164)]]
 > - **2015 — *Superforecasting: The Art and Science of Prediction*** （合著）阐述基于贝叶斯概率更新、多元视角整合与开放认知风格的精准预测方法体系。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类天生具有追求确定性与自洽[[Grand Theory|宏大理论]]的[[Determinism|决定论]]倾向，往往对容忍随机性与误差的概率思维产生抗拒；在政治与战略等具有动态复杂性的领域中，将现实视作如云朵般变化流动（Cloudlike）并随时依据新证据修正预判的“狐狸型”务实认知风格，其预测表现远胜于固守单一宏大体系的“刺猬型”教条主义。
 
 > [!citation-card] 泰特洛克论刺猬型专家的预测困境

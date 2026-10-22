@@ -48,11 +48,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Hu Shi
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国现代著名哲学家、文学家、学者、外交官，[[New Culture Movement\|新文化运动]]与[[May Fourth Movement\|五四运动]]的领袖之一，哥伦比亚大学毕业，师从[[John Dewey\|杜威]]。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.72–73]]）
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1917–1921年 — [[Pragmatic Paradigm\|实用主义]]引入与《新青年》启蒙阶段** 提出白话文主张，发表《[[Pragmatism in China\|实验主义]]》，将[[John Dewey\|杜威]]哲学极端化为反迷信武器。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.72]]）
 >   - **代表著作** 《文学改良刍议》（1917）、《中国哲学史大纲》（上卷 1919）、《实验主义》（1919）。
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 胡适将[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]转化为中国五四语境下的思想武器。其核心立场体现在三方面：将实用主义哲学极端化为纯粹的方法论；将“[[Pragmatism in China\|实验主义]]”作为扫除传统迷信与全面拥抱西方科学的武器；以及在清代古典考据学中寻得与现代[[Scientific Method\|科学方法]]平行的本土基底。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.72–73]]）
 
 - **[[Pragmatic Paradigm|实用主义]]作为方法论的极端化** 胡适将杜威“实用主义必须被看作一种方法”的主张进一步转变为“杜威从头到尾只把实用主义当作一种方法”，消解了其内部可能容纳的温和妥协空间。（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009, p.72]]）
@@ -107,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论与文化路径** 推动白话文运动，彻底重塑了现代汉语教育与文学创作规范。
 > - **方法路径** 普及“大胆假设，小心求证”，将[[Scientific Method\|科学方法]]引入中国人文与社会科学研究。
 > - **跨国转译与双刃剑效应** 作为[[John Dewey\|杜威]]在华首席翻译，其明星效应极大地放大了杜威思想的影响力，但其极端化转译也使[[Pragmatic Paradigm\|实用主义]]更容易遭到传统主义与马克思主义的双重攻击。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
@@ -126,8 +116,6 @@ updated: 2026-10-22
 > - **机构／运动** [[New Culture Movement]] — 领袖；[[May Fourth Movement]] — 思想倡导者；《新青年》 — 编辑。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

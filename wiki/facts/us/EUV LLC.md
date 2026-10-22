@@ -58,11 +58,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# EUV LLC
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 极紫外有限责任公司（Extreme Ultraviolet Limited Liability Company, EUV LLC）是由英特尔（Intel）、AMD、摩托罗拉（Motorola）等美国芯片领军企业与[[Department of Energy|美国能源部]]（Department of Energy, DOE）旗下国家实验室于 1997 年联合创立的前竞争共性技术研发联合体（[[Precompetitive Research|precompetitive]] R&D Consortium）。在科技政策理论中，EUV LLC 是[[Pasteur's Quadrant|巴斯德象限]]中动员国家顶尖实验室与行业龙头共担极限工程风险的经典案例，同时也是反思“基础研发与本土制造脱节导致战略红利外溢”的最深刻历史镜鉴。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 10, 43–45)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **核心使命与技术目标** 攻克将光刻光源波长由深紫外（193 纳米）直接跃迁至 13.5 纳米极紫外（Extreme Ultraviolet, EUV）波段所面临的等离子体物理、极紫外全反射光学与原子级涂层等全行业共性瓶颈，为延续摩尔定律至 32 纳米以下制程奠定工程可行性。
 
 ---
-
-## 成立背景与发展历程
 
 > [!dev-timeline] 组织发展历程
 > - **1980 年代末–1996 年 — 极紫外概念探索与物理原理验证** [[Bell Labs|贝尔实验室]]、能源部利弗莫尔实验室与伯克利实验室等学者开始探索 13.5 纳米软 X 射线在芯片投影光刻中的可行性；由于极紫外光在几乎所有已知物质（包括空气与透镜玻璃）中均会被剧烈吸收，传统折射透镜光学系统失效，研发面临巨大技术怀疑，被学术界视作“工程上近乎不可能”的方向。
@@ -89,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **产业指导委员会（Steering Committee）** 由英特尔、AMD 等成员企业首席技术官组成，以明确的半导体量产时间节点倒逼技术指标，严格控制项目进度。
 > - **能源部虚拟国家实验室（VNL）统筹矩阵** 打破单个国家实验室的机构藩篱，将桑迪亚的系统集成、利弗莫尔的精密涂层与伯克利的计量测试编织为单一虚拟攻坚实体。
@@ -103,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心技术突破矩阵
 > - **全球首台工程测试曝光机原型（ETS, 2001）** 成功集成激光产生等离子体光源（LPP）、反射式掩模版与超高真空光学腔体，实现全视场芯片图案曝光。
 > - **原子级精度多层布拉格反射镜技术** 利弗莫尔国家实验室开发出 40 层交替沉积极薄钼硅（Mo/Si）涂层，使 13.5 纳米极紫外光的反射率由几乎为零突破至接近 70% 的理论极限。
@@ -116,8 +106,6 @@ updated: 2026-10-22
 > *EUV LLC tackled plasma physics and precision optics that no single firm could manage... Yet policy allowed commercial leadership to be captured by a European firm. Scientific discovery without domestic manufacturing anchors means the strategic benefits will inevitably dissipate.*
 
 ---
-
-## 影响、成效与战略反思
 
 > [!finding-cards] 关键体系成效与深远影响
 > - **确立全球下一代先进制程物理底座** EUV LLC 攻克的技术构成了当今全球所有 7 纳米、5 纳米、3 纳米及更先进制程芯片制造的唯一底层光刻手段。

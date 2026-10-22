@@ -52,11 +52,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# PANDA
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 表现与评估报告（Performance and Assessment Reports，简称 PANDA）是英国教育标准局（[[Ofsted]]）与中央教育部联合研制运行的学校量化诊断与评估情报系统。该系统构成了英格兰表现主义教育治理在技术官僚层面的微观数据分析中枢。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 克服 1988 年《教育改革法》（[[Education Reform Act 1988]]）出台后原始考试排行榜忽视生源社会阶层差异的缺陷，为专业督导检查与学校改进提供情境化增值分析依据。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 将全国统一考试成绩与[[National Pupil Database|国家学生数据库]]（NPD）背景[[Variable|变量]]进行多维度解聚比对，生成具有统计算法校准的基准雷达报告，为现场视导提供明确预判参考并驱动校长依据数据重构教学安排。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
@@ -87,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1998–2002 — PANDA 确立与纸质报表分发** [[Ofsted]] 推出首版 PANDA 报告，终结了督学单纯依赖校访主观印象的巡查历史，确立数据先行的视导[[Paradigm|范式]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 > - **2003–2005 — 算法升级与情境化增值模型整合** 报告全面引入情境化增值（Contextual Value Added, CVA）复合统计模型，并与学生个人成就追踪系统（PAT）联网。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
 > - **2006–至今 — 数字化整合与复合指标延伸** PANDA 正式整合为 RAISEonline 在线交互平台；2010 年联合政府进一步在该数据网络上追加 6 岁语音筛查及英国学士学位（EBacc）[[Performance Indicators|绩效指标]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **数据总览与督导权威** 英国教育标准局（[[Ofsted]]），负责依据报告指标指派视导组并给出学校四级督导定级。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - **微观组织规训渗透** 校长将 PANDA 细分指标逐级分解至各年级组长与任课教师，推动教学进度、课堂测验与统考大纲的高度机械对齐。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **数据细分精细度** 报告支持按性别、族群、贫困程度（FSM）、特教需求等交叉切片分析的细分维度数。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
@@ -127,8 +115,6 @@ updated: 2026-10-22
 > - **2006** PANDA 与 PAT 追踪器正式整合为国家在线数据库平台 RAISEonline 的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 
 ---
-
-## 争议与制度反思
 
 > [!debates] 项目争议
 >

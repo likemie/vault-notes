@@ -32,8 +32,6 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Convergence Research
-
 > [!info] 定义
 > 融合研究（Convergence Research）指将 [[STEM Education\|STEM]]（科学、技术、工程和数学）学科与社会科学和人文学科（SSH）深度整合的研究模式。它区别于传统的多学科或跨学科研究——不是将不同学科的研究结果并列呈现，而是追求知识的深度融合（integration），以解决那些单一学科或学科简单组合无法有效应对的复杂社会技术挑战（[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp.14–15)]]）。
 
@@ -41,8 +39,6 @@ updated: 2026-10-22
 > - **[[STEM Education\|STEM]]-SSH 深度融合** 不是简单的学科合作，而是学科知识在概念、方法、[[Epistemology\|认识论]]层面的实质性整合
 > - **挑战驱动** 以解决社会、经济和技术创新挑战为目标组织研究，而非以学科逻辑组织
 > - **双轨并进** 需要在继续建设各学科坚实基础的同时，在学科之间建立有效的桥梁，在需要的地方实现思想和知识的融合
-
-## 典型案例
 
 > [!example] [[National Science Foundation\|NSF]] Future of Work at the Human Technology Frontier
 > 美国国家科学基金会（NSF）的"人类技术前沿的未来工作"项目是融合研究的典型案例。该研究在工作的未来、技术的未来和劳动者的未来三者的交汇处运作，需要来自广泛学科的不同类型专业知识、研究工具和技术（p.15）：

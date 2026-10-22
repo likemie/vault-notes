@@ -49,11 +49,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# National Education Evidence Base Inquiry
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2016 年 2 月由时任澳大利亚联邦财长斯科特·[[Keith Morrison\|莫里森]]（Scott Morrison MP）正式委托联邦生产力委员会（Productivity Commission）启动调查，最终报告于 2016 年底提交议会（Morrison, 2016；Australian Government Productivity Commission, 2016a）。
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 该审查构成了从国家最高经济审计机构层面论证设立国家教育证据机构合法性的基石文件，直接为 2017 年 [[Gonski 2.0]] 审查提供了先期蓝本与制度蓄水池（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 生产力委员会最终报告正式建言：澳大利亚各级政府应联合设立一个常设性、独立的国家级教育证据机构，全面汲取英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）和美国教育科学研究所（[[Institute of Education Sciences\|IES]]）的国际经验，负责统筹全国教育数据的接入与跨部门流通，并基于高质量实验证据合成“什么有效”的转化指南（Australian Government Productivity Commission, 2016a；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
@@ -80,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 审查推进历程
 > - **2016.02** 联邦财长斯科特·[[Keith Morrison\|莫里森]]正式向生产力委员会下达调查职权范围（Terms of Reference）；同期委任 [[Social Ventures Australia\|SVA]] 董事理查德·斯宾塞（Richard Spencer）出任生产力委员会主管社会政策专员（Australian Government, 2016；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
 > - **2016.06** 澳大利亚社会创投（SVA）向委员会递交一份长达 50 页的重磅游说意见书，极力推崇以其子公司 [[Evidence for Learning\|E4L]] 运行的英国 [[Education Endowment Foundation\|EEF]] 模式作为国家样板（SVA, 2016a）。
@@ -90,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益网络
-
 > [!actor-grid] 权力—利益与[[Policy Network\|政策网络]]分析
 > - **审查委托方（公权力）** 联邦财长斯科特·[[Keith Morrison\|莫里森]] — 主导委任专员并设定政策审查议程。
 > - **关键审查专员（[[Co-affiliation\|共同从属]]纽带）** 理查德·斯宾塞（Richard Spencer） — 兼具生产力委员会专员与 [[Social Ventures Australia\|SVA]] 董事双重身份，直接体现了政策网络精英的跨界多重从属（ASIC, 2021d；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
@@ -99,8 +89,6 @@ updated: 2026-10-22
 > - **最终制度成果** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO） — 落实审查建议的实体化归宿。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议交锋
 >

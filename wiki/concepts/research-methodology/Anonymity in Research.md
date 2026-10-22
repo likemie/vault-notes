@@ -34,10 +34,6 @@ created: 2026-06-18
 updated: 2026-10-22
 ---
 
-# Anonymity in Research
-
-## 定义
-
 > [!def] 核心定义
 > 研究匿名的本质是参与者提供的信息绝不应以任何方式揭示其身份（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 100]]）。当研究者或任何其他人无法从所提供的信息中识别参与者时，该参与者即被视为匿名的。例如，一份只包含编号而不包含姓名的[[Questionnaire\|问卷]]即确保了完全匿名。
 
@@ -47,8 +43,6 @@ updated: 2026-10-22
 > - **边界** 匿名不等于保密——匿名意味着研究者也不知道谁提供了信息，保密意味着研究者知道但承诺不公开。匿名在面对面访谈中不可能实现；在生活史研究中没有绝对保证。
 
 ---
-
-## 核心要素
 
 > [!feature] 匿名化的主要技术
 > Frankfort-Nachmias and Nachmias (1992) 列出的匿名化方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 100–101]]）：
@@ -77,8 +71,6 @@ updated: 2026-10-22
 > Clark（2006）提供了详细的匿名化指南；同时，有些参与者可能故意希望被识别（Prosser et al., 2008, p. 11）。
 
 ---
-
-## 争议与批评
 
 > [!warning] 匿名的绝对保证是不可能的
 > 多方面的批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 103–104]]）：

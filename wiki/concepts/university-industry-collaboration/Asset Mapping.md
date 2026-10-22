@@ -37,11 +37,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Asset Mapping
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 资产映射（Asset Mapping）在[[University-Industry Collaboration\|产学合作]]语境中，指系统地梳理和认识区域内各利益相关者（大学各部门、企业、政府机构、投资者、创业支持组织等）及其各自优势的实践方法。其实质是真实的关系建立（authentic relationship building）——创建一个强大而分散的合作伙伴网络，深入理解各方的优势、需求和优先事项([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.126]])。
 
 [[TUFF]] 将其列为[[Innovation Hub|创新中心]]建设的六项优先领域之一。资产映射的操作方式是与每个利益相关者坐下来对话，而非依赖填表格或[[Questionnaire|问卷调查]]——因为填表能收集数据，却无法建立信任。通过持续对话来建立理解和信任，资产映射成为后续所有产学合作活动的基础（p.126）。
@@ -51,9 +47,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > **召集与翻译的双重角色**[[Innovation Park\|研究园区]]在执行资产映射时扮演两个关键角色——召集者（convener），将不同利益相关者拉到一起，创造相互认识的场合；翻译者（translator），帮助学术界理解产业的语言和需求，同时帮助产业理解学术研究的性质和节奏（p.126）。
 
 > [!abstract|notitle]
@@ -70,9 +64,7 @@ updated: 2026-10-22
 
 ---
 
-## 相关案例
-
-> [!example|notitle]
+> [!example] 相关案例
 > **[[University City Science Center\|大学城科学中心]]（University City Science Center，费城）** 利用非营利结构创建了鼓励创业者关系发展的项目，提供培训和资源获取，同时聚焦费城本地的相对优势和资产。其最终也建立了物理空间，在市中心将创业者、学者和产业伙伴集中到一个聚会场所，进一步强化了关系密度（pp.126–127）。
 
 > [!example|notitle]

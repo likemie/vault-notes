@@ -79,11 +79,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# David C. Mowery
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名创新经济学家与科技政策学者，加州大学伯克利分校（University of California, Berkeley）哈斯商学院威廉·哈斯勒新企业发展讲席教授（William A. and Betty H. Hasler Chair in New Enterprise Development），美国国家经济研究局（National Bureau of Economic Research, NBER）研究员。
@@ -105,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1989 — *Technology and the Pursuit of Economic Growth*** 与内森·罗森伯格合著，系统探讨美国 20 世纪工业研发实验室的兴起、联邦科技政策演变与国家经济长期增长的内在制度纽带。
 > - **1994 — *[[Sematech]] and Collaborative Research: Lessons in the Design of High-Technology Consortia*** 与彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）合著发表于 *Journal of Policy Analysis and Management*，基于 25+ 场[[In-depth Interview|深度访谈]]与 11 项技术档案，系统解构 Sematech 治理演进，提出以纵向用户—供应商协同为核心的高技术研发联盟设计原则，并与日本 [[VLSI Project|超大规模集成电路项目]]（VLSI Project）及欧洲 欧洲信息技术研究战略计划（[[ESPRIT]]）展开深入跨国比较。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
@@ -119,9 +113,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想与理论命题
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想与理论命题
 > 技术创新与产业竞争优势的演进绝非自发孤立的市场均衡过程，也非线性的供给侧研发补贴所能单独决定，而是由公共研发投入、需求侧采购保障、反垄断竞争执法、开放知识产权环境以及纵向供应链协作共同织就的复合制度生态所塑造；产业政策与研发联盟的成败高度取决于能否有效克服下游竞争者之间的保密壁垒，转向赋能关键上游专用设备与材料生态。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]
 
 > [!proposition-chain] 国防支持与技术创新的生命周期演变命题（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）
@@ -142,9 +134,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论与历史分析路径** 深化了技术变迁经济学中关于需求侧政府采购、反垄断强制技术扩散与纵向供应链外部性的制度因果机制，修正了传统科技政策将焦点片面窄化为供给端直接研发补贴的线性视角。
 > - **方法与实证评估路径** 开创性地将企业工程项目档案、一手[[In-depth Interview|深度访谈]]与计量分析相结合，为微观产业组织与科技政策制定提供了高[[Reliability|信度]]的政策评估[[Paradigm|范式]]。
 > - **政策咨询与制度设计路径** 深度影响了美国国会、[[DARPA]]、美国商务部及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、[[Dual-Use Technology|军民两用技术]]溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
@@ -165,8 +155,6 @@ updated: 2026-10-22
 > - **关联研发事实与法案** [[Sematech]]、[[VLSI Project]]、[[ESPRIT]]、[[Bayh-Dole Act of 1980]] — 其经验研究与理论批判的核心实证载体。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论争鸣
 >

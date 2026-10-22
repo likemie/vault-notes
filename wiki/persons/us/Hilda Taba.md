@@ -35,11 +35,7 @@ created: 2026-07-26
 updated: 2026-10-22
 ---
 
-# Hilda Taba
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 爱沙尼亚裔美国教育家、课程理论家（1902–1967），旧金山州立大学教授。
@@ -47,8 +43,6 @@ updated: 2026-10-22
 > - **代表著作** *Curriculum Development: Theory and Practice* (1962)。
 
 ---
-
-## 主要思想与贡献
 
 > [!claim] 核心主张：课程发展的四个知识层次
 > Taba (1962) 提出课程设计中的四大知识层次（4 Levels of Knowledge），强调课程不可停留在具体事实的[[Rote Learning\|机械记忆]]，而必须通过结构化设计将具体事实上升为抽象主旨与思维技能。这一理论被 [[Argument_Darwish_2009_Queens|Darwish (2009, p. 21)]] 引述为 [[Theory of Knowledge\|TOK]] 课程筛选标准中“事实与主旨有效链接”的理论依据。

@@ -41,11 +41,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# BERA-RSA Inquiry into the Role of Research in Teacher Education
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2013–2014 年，英国。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 2)]]
@@ -55,15 +51,11 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 事件经过
 > - **2013–2014 — 联合调查与证据收集** [[British Educational Research Association\|BERA]] 与 RSA 组建高规格调查委员会，广泛听取中小学校长、教师、大学教育学院学者及政策制定者的实证证据与政策建议。
 > - **2014 — 发布最终报告** 正式发布题为 *Research and the Teaching Profession: Building the Capacity for a Self-Improving Education System* 的里程碑式最终报告。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 2, p. 16)]]
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] 教师[[Research Literacy\|研究素养]]与专业效能
 > 调查报告将教师研究素养定义为教师及学校管理者具备理解、评价与利用科研成果的能力，并明确将其界定为教师专业效能与专业身份认同的核心维度。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 2)]]

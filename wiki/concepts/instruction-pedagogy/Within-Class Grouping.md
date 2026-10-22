@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Within-Class Grouping
-
 > [!metax] [班内分组 · Within-class grouping](https://www.visiblelearningmetax.com/influences/view/within-class_grouping)
 > 课堂 › 班级构成
 >

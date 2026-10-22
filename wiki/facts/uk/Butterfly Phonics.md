@@ -49,11 +49,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Butterfly Phonics
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Butterfly Phonics（蝴蝶自然拼读）** 是由英国“真实教练”（Real Coaching）慈善教育机构创立、由杜伦大学（Durham University）学者受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立因果评估的小学升初中过渡期读写小组干预方案；其核心目标是在小学六年级（UK Year 6，约 10–11 岁）关键阶段对即将升入初中却依然存在严重语音[[Decodification\|解码]]缺陷的学生，由受训专任教师开展为期半年的高强度多感官拼读集训，防止学生因读写脱节在初中遭遇断崖式学业滑坡。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克传统拼读教学仅集中于小学低年级、导致升入高年级仍未掌握基础解码的学生被边缘化与污名化的政策盲区。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 由受训专业教师对 6 至 8 名高年级学生开展每周两次、每次两小时的多感官显性拼读补习，结合成套语音规则卡具与大龄适龄阅读材料，能够消除学生对拼读的心理抵触，在短时间内显著提升阅读流利度与理解力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -83,15 +77,11 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Butterfly Phonics 发展历程
 > - **2013–2015 — [[Education Endowment Foundation\|EEF]] 独立整群[[Randomised Controlled Trials\|随机对照试验]]** 杜伦大学梅里尔与卡西姆（Merrell & Kasim, 2015）团队对英格兰数十所学校开展评估，证实其对六年级学困生阅读年龄的显著因果推进。
 > - **2016–至今 — 跨国证据采纳与纳入 [[Every Student Succeeds Act\|ESSA]] 强证据** 被斯莱文团队纳入 Table 1，作为全美及国际高年级拼读补救领域的强证据典范。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **方案支持方（Real Coaching）** 派驻认证拼读培训师，对合作学校教师开展脱产密集进修。
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > - **受试学生（六年级落后学生）** 快速弥补拼读断层，重建自信以迎接初中升学。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的全国标准化因果[[Effect Size\|效应量]]** 在 [[Education Endowment Foundation\|EEF]] 独立评估中，干预组在全国标准化阅读测验上取得了平均 $+0.30$ 的因果效应量（相当于额外获得约 4 个月的学业进步），达 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

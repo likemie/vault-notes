@@ -44,11 +44,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Regulatory Ratchet
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 规制治理（Regulatory Governance）与[[Historical Institutionalism|历史制度主义]]分析中用以刻画规制工具与合规标准单向累积演化的核心概念；指在既有规制体系面对偶发危机、安全事故、公众问责压力或[[Market Failure|市场失灵]]时，政策制定者通过持续向体制顶端叠加更详尽的审查标准、自愿认证与合规审查细则，而极少废除或清理旧有规则，导致规制体系如单向棘轮般只紧不松、只增不减，最终演化出结构冗余、组织适应性丧失与规制不合理性的制度病理。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 规制棘轮与相关制度机制辨析
 > | 维度 | 规制棘轮（Regulatory Ratchet） | [[Institutional Layering\|制度层叠]]（Institutional Layering） | [[Institutional Drift\|制度漂移]]（Institutional Drift） |
 > |---|---|---|---|
@@ -80,8 +74,6 @@ updated: 2026-10-22
 > | **治理后果** | 合规成本激增、[[Red Tape\|繁文缛节]]与组织适应性僵化 | 边际积累引发长期质变或功能偏移 | 制度保护功能失效、名存实亡 |
 
 ---
-
-## 核心要素
 
 > [!feature] 规制棘轮的核心结构要素
 > - **危机响应式规则繁衍（Crisis-Driven Rule Proliferation）** 偶发性灾难、事故或公众舆论发酵迫使立法与行政机构迅速出台应对条例，将针对极端个案的防御要求普遍化为全行业法定标准。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 15)]]
@@ -131,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 规制棘轮核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -141,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 规制棘轮概念演进
 > - **1966 — 金融危机规制叠加发轫** 克利夫顿·克雷普斯（Clifton Kreps）系统考察 1929 年危机后银行体系被叠加厚重监管图层的现象，首次揭示危机驱动规则层叠的机制雏形。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **1982 — 规制治理学派正式命名** 尤金·巴达克与罗伯特·卡根（Eugene Bardach & Robert Kagan）出版专著《照章办事》，正式提炼出规制棘轮概念，系统剖析规则单向繁衍对公共治理合理性的侵蚀。
@@ -150,8 +138,6 @@ updated: 2026-10-22
 > - **2011 — 纳入[[Institutional Layering|制度层叠]][[Analytic Framework|分析框架]]** [[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）将规制棘轮确立为制度层叠三大历史演进支脉之一（Adding instruments），指出其是工具累加维度的典型病理形态。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 

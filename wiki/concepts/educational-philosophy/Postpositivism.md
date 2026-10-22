@@ -97,8 +97,6 @@ created: 2026-06-13
 updated: 2026-10-20
 ---
 
-# Postpositivism
-
 ---
 
 ## 定义
@@ -242,8 +240,6 @@ updated: 2026-10-20
 
 > [!claim] [[John W. Creswell\|Creswell, J. W.]] & [[J. David Creswell\|Creswell, J. D.]]
 > **后实证主义作为严谨量化与混合方法哲学底座的实践定位** 在现代社会与行为研究中，后实证主义构成了连接理论与量化测量的严谨世界观。它指导研究者将复杂问题还原为可检验的离散变量集，采用[[Quasi-Experimental Designs\|准实验设计]]（如时间序列、回归断点）应对现实非随机情境，并通过解释性或[[Exploratory Sequential Design\|探索性序列混合方法设计]]，将推测性假设检验与质性深度阐释深度融合，实现了经验严谨性与现实复杂性的统一。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 7–12)]]
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

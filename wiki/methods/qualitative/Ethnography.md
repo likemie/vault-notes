@@ -91,11 +91,7 @@ created: 2026-05-30
 updated: 2026-10-20
 ---
 
-# Ethnography
-
 ---
-
-## 方法定义与定位
 
 > [!def] 核心定义
 > 民族志（Ethnography）是一种源自人类学与社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整的文化群体（cultural group），系统考察其共享的行为模式、语言体系、价值信念与日常行动（Wolcott, 1994; Fetterman, 2010）。玛格丽特·勒孔特与朱迪思·普赖斯尔（Margaret D. LeCompte & Judith Preissle, 1993, p. 235）进一步将民族志界定为兼具**探究方法、探究结果与探究记录**的过程，旨在尽可能生动地重构所研究群体的文化全貌与生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 405–406]]）。
@@ -118,8 +114,6 @@ updated: 2026-10-20
 > | **生态真实度** | 极高；以非侵入式或参与式观察记录最自然的日常互动。 | 较低；访谈互动受制于人造提问情境与[[Interviewer Effects\|访谈者效应]]。 |
 
 ---
-
-## 认识论立场与核心特征
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识具有情境性、建构性与互为主体性。实在并非等待测量的刚性客观物，而是行动者在生活世界中通过日常互动共同赋予意义的产物；研究者必须通过共在与理解获取知识，而非通过距离与机械测量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 403–404]]）。
@@ -164,8 +158,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究设计与实施流程
-
 > [!proc] 民族志探究阶段与关键操作
 > 1. **确定文化群体与研究领域** 选定具有稳定文化互动的现场，建立初始研究兴趣。
 > 2. **管理准入与角色定位** 识别[[Gatekeepers|守门人]]，协商进入协议，逐步完成从“陌生人”到“被接纳者”的角色演进。
@@ -193,8 +185,6 @@ updated: 2026-10-20
 > 斯温（Swain, 2006）作为成年男性学者在小学开展课堂民族志。在学生发生争执或打架时，他无法完全隐匿自身的成年人身份，必须承担保护与控制职责。他刻意采取区别于学校教师的亲和风格，允许孩子们自由表达对权威的看法。这一案例深刻说明：**民族志数据收集并非客观录音，而是深嵌于研究者自身身体性、年龄与权力关系的社会互动产物**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, p. 430]]）。
 
 ---
-
-## 适用场景与方法局限
 
 > [!method-fit] 适用场景与判断
 > - **适合使用** 
@@ -224,8 +214,6 @@ updated: 2026-10-20
 
 ---
 
-## 方法变体与相近方法辨析
-
 > [!contrast-table] 民族志与相关质性设计辨析
 > | 维度 | 民族志（Ethnography） | [[Case Study\|案例研究]]（Case Study） | [[Grounded Theory\|扎根理论]]（Grounded Theory） |
 > |:-----|:----------------------|:----------------------|:---------------------------|
@@ -248,8 +236,6 @@ updated: 2026-10-20
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；评述第四阶段课堂民族志的多元兴起与[[Historical Amnesia\|学科历史健忘症]]的伴生。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011)]] — 经典教育研究方法教材，系统阐述民族志的[[Epistemology|认识论]]基础、12 阶段实施规程、实地进入角色演变及有效性判准。

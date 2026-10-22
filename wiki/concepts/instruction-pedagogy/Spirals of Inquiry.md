@@ -38,8 +38,6 @@ updated: 2026-10-22
 >
 > > "This approach involves teachers engaging in cycles of scanning to understand how students are experiencing their education; developing a focus for their inquiry and a 'hunch' about which of their actions could change the patterns they are seeing; looking at published evidence to inform their practice; taking action; and finally checking to see if the action is having the desired effect." ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306, summarizing Halbert & Kaser, 2014]])
 
-## 核心要素
-
 > [!abstract] 六阶段循环
 > 1. **扫描（Scanning）** 理解学生如何体验他们的教育
 > 2. **聚焦（Focusing）** 发展一个探究焦点

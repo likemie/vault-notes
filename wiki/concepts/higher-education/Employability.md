@@ -77,11 +77,7 @@ created: '2026-05-08'
 updated: 2026-10-22
 ---
 
-# Employability
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 就业能力（Employability，又称就业力）指劳动者（特别是高校毕业生）在劳动力市场中获取、维持和转换体面就业的综合潜能与资格[[Construct|构念]]。该概念最初指劳动者满足工作岗位基准要求的**绝对专业能力**（由知识、技术训练与资格证书决定）；但在高等教育大众化与[[Credential Inflation|文凭通胀]]背景下，它日益演变为建立在求职者群体内部相互比较与筛选之上的**相对排序位置**。求职者不仅需要持有学历凭证，还必须对个人经历、交往网络、品格气质乃至空间适应性进行战略性管理与展示，以争取稀缺优质岗位。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君，2023)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变与范式演进
-
 > [!dev-timeline] 概念演变历程
 > - **2003 年 相对就业力假说提出** 菲利普·布朗与彼得·赫斯基思（Phillip Brown & Peter Hesketh）在专著《人才的误管》（*The Mismanagement of Talent*）中指出，大众化高等教育彻底颠覆了[[Human Capital Theory|人力资本理论]]假定，就业力在本质上蜕变为求职队列中的相对排位游戏。
 > - **2004 年 [[Soft Power|软实力]]与印象管理转向** Brown & Hesketh 进一步论证雇主甄别逻辑从学历证书等“硬通货”全面扩展至个人品位、交往谈吐、实习经历等“软实力”，开启了求职者将自我作为商品进行品牌化管理的学术探讨。
@@ -109,8 +103,6 @@ updated: 2026-10-22
 > - **2023 年 中国精英大学[[Champ|场域]]应用与履历分层揭示** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将 Brown 的相对就业力与[[Economy of Experience|履历经济学]]框架引入中国研究，揭示名校文凭贬值下大学生如何通过[[Social Engagement|社会性投入]]争取排位优势，并证实家庭阶层资本在这一软性竞争中的再生产效应。
 
 ---
-
-## 核心理论维度与实践支柱
 
 > [!dimension] 就业能力[[Construct|构念]]的四重分析维度
 > - **1. 绝对能力维度（Absolute Employability）**
@@ -166,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 就业能力核心命题归纳
 > | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表文献 / 理论源流 |
 > |---|---|---|---|
@@ -176,8 +166,6 @@ updated: 2026-10-22
 > | **技能话语与远距治理** | 21 世纪素养将就业力建构为由雇主外部期望界定的自我企业家投资项目 | 批判教育工具化对全人发展的侵蚀，揭示外部规范向个体主观认同的渗透 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; Hampson and Junor (2009) |
 
 ---
-
-## 争议与批判反思
 
 > [!debates] 核心学术争议与理论张力
 >
@@ -197,8 +185,6 @@ updated: 2026-10-22
 > > - **计量经济学与认知科学家** Pellegrino and Hilton (2012) 指出，通用素养与成人职业成功之间缺乏[[Causality|因果推断]]证据支持；Finegold and Notabartolo (2010) 更指出，多数现代工作岗位在劳动组织设计上并不需要高阶通用素养，盲目投资个体通用能力在现实中常常无法产生薪酬与就业溢价。
 
 ---
-
-## 实证研究与案例考证
 
 > [!effect-table]- 就业能力相关实证调查与质性案例考证
 > <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>

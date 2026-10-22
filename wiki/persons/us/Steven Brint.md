@@ -50,11 +50,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Steven Brint
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名高等教育社会学家、组织社会学家与公共政策学者；加利福尼亚大学河滨分校（University of California, Riverside）社会学与公共政策杰出教授（Distinguished Professor），长期担任“学院与大学 2000 计划”（Colleges & Universities 2000 Project）主任。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 学术轨迹与关键节点
 > - **1970s–1980s** 获得哈佛大学社会学博士学位，专注于专业社会学与教育制度理论研究。
 > - **1990s** 出版经典著作《分裂的知识分子》（*In an Age of Experts*）与《发散的道路》（*Divergent Paths*），奠定在高等教育分层与职业教育制度变迁领域的权威地位。
@@ -79,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表性学术著作与核心主张
 > - **1989 — *The Divergent Paths: American Community Colleges***（与 Jerome Karabel 合著）揭示美国社区学院在“职业化分流”与“升学阶梯”双重使命之间的制度张力与社会分层机制。
 > - **1994 — *In an Age of Experts: The Changing Role of Professionals in Politics and Public Life*** 探讨专业人士群体从道德社会中介向技术官僚和市场[[Pragmatic Paradigm|实用主义]]的转变。
@@ -89,8 +81,6 @@ updated: 2026-10-22
 > - **2023 — 《美国“芯片与科学”法案启动对抗中国的产业政策》（*The US “CHIPS and Science” Act launches industrial policy as counter to China*）** 深入阐明美国打破四十年不直接干预市场的传统、由国家在法律中圈定重点前沿技术并扩大国家博士研究生奖学金以应对大国竞争的制度转向。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 
 ---
-
-## 理论与政策主张
 
 > [!quad-grid] 核心学术思想与分析维度
 > - **[[Research Universities|研究型大学]]作为双重引擎** 坚守研究型大学在基础前沿[[Knowledge Production|知识生产]]与青年科学家梯队培养上的核心枢纽价值，主张高等教育虽有缺陷，但依然是现代社会最具生命力的知识创新载体。

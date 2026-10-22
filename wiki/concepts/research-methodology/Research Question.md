@@ -51,11 +51,7 @@ created: 2026-05-31
 updated: 2026-10-20
 ---
 
-# Research Question
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究问题（Research Question）** 是经验研究设计中将[[Research Purpose|研究目的]]与[[Purpose Statement|目的陈述]]收窄为具体、可回答问题或预测结果的核心工具。它紧随研究目的之后，规定了研究者计划收集的数据类型、分析策略与探究边界，是连接宏观理论关切与微观实证检验的方法论枢纽。在量化、质性与[[Mixed Methods Research|混合方法研究]]中，研究问题的形式、[[Open-Mindedness|开放性]]及其与假设的关系呈现出显著的[[Paradigm|范式]]分化[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]。
@@ -77,8 +73,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Research Problem|研究议题]]、[[Purpose Statement|目的陈述]]、研究问题与假设的层级辨析
 > | 维度 | 研究议题（[[Research Problem]]） | [[Purpose Statement\|目的陈述]] | 研究问题（Research Question） | 假设（[[Hypothesis]]） |
 > |---|---|---|---|---|
@@ -88,8 +82,6 @@ updated: 2026-10-20
 > | **[[Operationalization\|操作化]]程度** | 宏观背景层面 | 中观设计层面 | 微观数据收集与分析导向 | 统计推论与显著性检验导向 |
 
 ---
-
-## 核心要素
 
 > [!feature] 研究问题的核心构成与明确化要素
 > - **[[Variable|变量]]关联性（Relational Focus）** 在解释性[[Quantitative Research|量化研究]]中，问题陈述至少包含两个[[Variable|变量]]，清晰界定[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]或预测变量之间的预期关联[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]。

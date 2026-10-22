@@ -55,11 +55,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# Realism in International Relations
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 现实主义（Realism，亦称马基雅维利传统 Machiavellian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的保守与权力竞争维度。它将主权领土国家视为国际政治的核心唯一行动者，认为国际社会本质上是一个没有中央权威、处于无政府状态下的自决与自助竞技场（self-help arena）。国家间政治被理解为争夺生存和优势的零和地缘权力博弈。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 关键理论构件对照表
 > | 维度 | Realism (现实主义) | [[Rationalism in International Relations\|Rationalism (理性主义)]] | [[Revolutionism\|Revolutionism (革命主义)]] |
 > |------|------------------|------------------------------------|------------------------|
@@ -90,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Pragmatic Paradigm\|实用主义]]工具性借用（Pragmatic [[Policy Borrowing\|Educational Borrowing]]）** 比较教育被定位为强国竞争的技术工具。通过识别国内教育“问题”，从其他“成功”的大国借鉴“方案”加以本土适应，以增强本国的工业、科技与地缘实力。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 419]])
 > - **“大国焦虑”引发的注意力转换（Great-Power Anxiety & Attention Shift）** 学科的研究议程直接受地缘实力失衡的危机感驱动。一旦核心霸权受到他国崛起（如苏联太空发射或日本工业技术）威胁，便会引发突发性注意力狂热，将目光投向那些“曾经被忽视的”国家（如对芬兰的[[Cohort Study\|追踪研究]]）。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419–420]])
 > - **文明化与发展工程的学科共谋（Colonial & Developmental Collusion）** 在殖民时期体现为向非西方世界输出本国学校系统以行使行政控制的“文明化使命”（mission civilisatrice）；在冷战后表现为通过对“落后/滞后”国家进行专家调研，为超级大国争夺第三世界新独立国家的地缘忠诚服务。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–421]])
@@ -129,16 +121,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 发展脉络
 > - **1830s–1910s — 大国崛起与工业竞赛借用** [[Victor Cousin]] 在 1831 年考察普鲁士，Sadler 应对德、美工业挑战 of 调研，确立了以“国家性格”与实用强国为旨归的比较借用传统。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419–420]])
 > - **1920s–1950s — 帝国扩张调查与 [[Sputnik Shock 1957\|Sputnik]] 危机** Monroe、Kandel 以及伦敦大学殖民教育部的调查技术为殖民控制服务；1957 年 Sputnik 冲击引爆冷战两翼对国防科技和教育效能的均势对峙。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420, 421]])
 > - **1960s–1980s — 冷战[[Development Turn in Comparative Education\|发展转向]]与单国专家化** 美苏在第三世界展开地缘效忠拉锯，大批“国别专家”和“技术顾问”受政府及多边组织委托，为国家安全战略开发单国[[Survey Research\|调查研究]]。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]])
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

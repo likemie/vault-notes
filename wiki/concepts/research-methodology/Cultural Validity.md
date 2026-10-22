@@ -45,11 +45,8 @@ status: draft
 created: 2026-06-23
 updated: 2026-10-22
 ---
-# Cultural Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 文化效度（Cultural validity）是 **"一项研究对将要进行研究的文化环境的恰当程度"（Joy, 2003, p. 1）**。与文化效度密切相关的是[[Cross-cultural Validity\|跨文化效度]]和[[Ecological Validity\|生态效度]]——但文化效度的独特之处在于：它适用于研究的**所有阶段**——规划、实施和传播——要求对参与者、文化和被研究的环境保持**敏感度（Morgan, 1999）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 186–187)]]
@@ -61,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 文化效度、[[Cross-cultural Validity|跨文化效度]]与[[Ecological Validity|生态效度]]的系统辨析
 > | 维度 | 文化效度（Cultural Validity） | 跨文化效度（[[Cross-cultural Validity\|Cross-cultural Validity]]） | 生态效度（[[Ecological Validity\|Ecological Validity]]） |
 > |---|---|---|---|
@@ -71,8 +66,6 @@ updated: 2026-10-22
 > | **典型威胁** | 符号暴力、文化滤镜盲目、概念强加与殖民化 | 语言翻译歧义、概念不对等、[[Construct\|构念]]加载差异与[[Response Bias\|回应偏差]] | 实验室人为环境失真、[[Hawthorne Effect\|霍桑效应]]、脱离生活世界 |
 
 ---
-
-## 核心要素
 
 > [!feature] 文化效度的关键实践维度
 > - **文化价值与态度尊重（Appreciation of Cultural Values）** 深刻理解目标文化对学术研究本身的态度，识别本土重要概念与生活习惯，避免以研究者自身文化先入为主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, p. 187)]]
@@ -121,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -130,8 +121,6 @@ updated: 2026-10-22
 > | **工具移植危机命题** | 忽视文化效度直接照搬现成工具必然诱发跨文化水土不服与测量妥协 | 国际大规模测评研制、高教学习成果评估与跨国工具借用 | Morgan & Shahjahan |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

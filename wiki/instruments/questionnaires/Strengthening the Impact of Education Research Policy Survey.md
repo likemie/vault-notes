@@ -72,11 +72,7 @@ created: 2026-09-13
 updated: 2026-10-16
 ---
 
-# Strengthening the Impact of Education Research Policy Survey
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Strengthening the Impact of Education Research Policy Survey
 > - **工具类型** 跨国系统级政策与证据生态综合调查[[Questionnaire\|问卷]]（System-level Policy Survey Questionnaire）。
@@ -92,8 +88,6 @@ updated: 2026-10-16
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] [[Evidence-Based Education\|循证教育]]系统研究动员与政策利用生态
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -108,8 +102,6 @@ updated: 2026-10-16
 > | **维度七：教育研究生产统筹协调与中介开放论述** | 8 题（7 机制 + 1 开放题） | 测度国家级教育研究生产的顶层设计与资助统筹，以及官方中介机构的法人属性与治理模式。 | 二值统筹标记（0/1 标记）、[[Qualitative Content Analysis\|质性文本分析]]与治理类型学编码 |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 涵盖矩阵式组织活跃度评定、部委日常征询频度标尺、政策制定利用频次、中介角色与机制存在性核查、[[Organizational Culture\|组织文化]][[Rating Scale\|态度量表]]、转化阻力位次排序及官方中介治理开放描述。
@@ -336,8 +328,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -362,8 +352,6 @@ updated: 2026-10-16
 > | **核心转化阻力排行** | 政策制定端 vs 实践一线阻力 | 政策端第 1 为“时间节奏脱节”，实践端第 1 为“研读时间与技能缺乏” | 结构性时间脱节与一线技能赤字构成双重主要障壁 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

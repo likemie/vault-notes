@@ -61,11 +61,7 @@ created: 2026-06-16
 updated: 2026-10-22
 ---
 
-# John Sweller
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚认知心理学家与教育心理学家，新南威尔士大学（University of New South Wales, UNSW）教育学院名誉教授。当代[[Cognitive Load Theory\|认知负荷理论]]与进化教育心理学的代表性开创者。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980–1990 年代 — 认知架构与样例效应奠基阶段** 聚焦人类解题过程中的认知资源配置，发现传统的手段—目的分析（Means-Ends Analysis）会耗尽[[Working Memory\|工作记忆]]并妨碍图式形成，进而确立以无目标效应（Goal-Free Effect）和工作样例效应（Worked Example Effect）为核心的早期认知负荷框架。
 >   - **代表著作** *Cognitive load during [[Problem Solving]]: Effects on learning* (1988); *Cognitive architecture and instructional design* (1998).
@@ -109,9 +103,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类认知架构的基本特征在于极其狭窄的[[Working Memory\|工作记忆]]（Working Memory）容量与近乎无限的长时记忆（Long-Term Memory）知识库。在学习全新信息时，人类缺乏长时记忆中的成熟图式支持，此时让学习者自主探索或探究，会迫使工作记忆在庞大的问题空间中盲目搜索与试误，诱发沉重的外在认知负荷，导致[[Surface and Deep Learning\|深层学习]]停滞。因此，最符合人类认知规律的教学[[Paradigm\|范式]]必然是由教师进行完全显性的示范、展示解题工作样例、开展高结构指导练习的[[Direct Instruction\|直接教学]]。
 
 > [!citation-card] 工作记忆受限与显性指导的必然性
@@ -126,9 +118,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了[[Cognitive Load Theory\|认知负荷理论]]，重塑了近四十年来当代认知科学对多媒体学习（如 [[Richard E. Mayer]] 的多媒体学习认知理论）、教学界面设计与复杂技能培训的理论解释框架。
 > - **方法路径** 推广了工作样例（Worked Examples）、无目标问题（Goal-Free Problems）及主观认知负荷量表等实验[[Paradigm\|范式]]，推动了实验微观控制方法在教学[[Design-Based Research\|设计研究]]中的普及。
 > - **政策路径** 其学术观点被英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）采纳并写入指导指南；被澳大利亚保守智库独立研究中心（CIS）包装为政策分析文本；并在澳大利亚《强劲开端》（[[Strong Beginnings Report]]）报告中被确立为[[Initial Teacher Training\|初始教师教育]]全国必修标准。
@@ -139,8 +129,6 @@ updated: 2026-10-22
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 针对 Zhang, Kirschner, Cobern, & Sweller (2022) 倡导的[[Direct Instruction\|直接教学]]绝对优越论展开全面批判，系统反驳其对[[Working Memory\|工作记忆]]瓶颈的片面阐释，证实辅以支架的[[Inquiry-Based Learning\|指导式探究]]在深层概念理解与长效保持上的实证优越性。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 学习科学与教学设计界对 Sweller 理论贡献的历史定性
 > Sweller 提出的[[Cognitive Load Theory\|认知负荷理论]]被公认为 20 世纪下半叶最具实证影响力的教学心理学理论之一，它首次将严密的认知架构参数系统引入微观教学程序的设计之中。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 1)]]
@@ -155,8 +143,6 @@ updated: 2026-10-22
 > - **机构与政策项目** 新南威尔士大学（UNSW）— 长期任职机构与荣休学术基地；[[Centre for Independent Studies]] — 合作保守智库，资助并出版其政策批判报告；[[Education Endowment Foundation]] — 推广机构，将其理论工具列入全球教学工具箱；[[Strong Beginnings Report]] — 澳大利亚联邦政策报告，将其著作列为全国[[Initial Teacher Training\|初始教师教育]]法定必修文献。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -46,11 +46,7 @@ created: 2026-07-26
 updated: 2026-10-20
 ---
 
-# Experiential Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 经验学习（Experiential Learning，亦称经验教育）关注经验及其重组如何促进理解与成长，是[[John Dewey|约翰·杜威]]（John Dewey）在《经验与教育》（*Experience and Education*, 1938）中系统阐发的教育哲学核心。杜威提出，一切真正的教育都来自于经验（*all genuine education comes about through experience*）[[Argument_Darwish_2009_Queens|(Dewey, 1963, p. 25; 引自 Darwish, 2009, p. 30)]]。然而，杜威并非无条件赞同所有经验，而是强调必须通过**连续性原则（Continuity）** 与 **[[Interaction Effect|交互作用]]原则（Interaction）** 来判定一项经验是促进后续生长或成长的[[Educative Experience|教育性经验]]（educative experience），还是阻碍并扭曲生长的反教育性经验（[[Mis-educative Experience]]）[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 31–32)]]。
@@ -62,17 +58,11 @@ updated: 2026-10-20
 
 ---
 
-## 核心要素
-
-### 经验判定的双重原则
-
 > [!feature] [[John Dewey|杜威]]经验教育的双重判定原则
 > - **连续性原则（Principle of Continuity）** 任何经验都会对未来的经验产生正向或负向的影响。有教育价值的经验应当为个体打开通往未来更深刻、更广阔经验的大门（促进生长）；而[[Mis-educative Experience|反教育经验]]则限制未来的选择 [[Argument_Darwish_2009_Queens|(Dewey, 1963, pp. 25–26, 47; Darwish, 2009, pp. 31–32)]]。
 > - **[[Interaction Effect|交互作用]]原则（Principle of Interaction）** 经验是个体的内部条件（心理倾向、先验知识、兴趣）与客观条件（物理环境、社区资源、历史与经济背景）相互作用的产物。教师的职责在于熟知社区条件并调控客观环境，使其与学生内部条件产生积极互动 [[Argument_Darwish_2009_Queens|Darwish (2009, pp. 32–33)]]。
 
 ---
-
-### 学术与社会实践的连接条件
 
 > [!feature] 第八章提出的课程整合要求
 > - **真实社会情境** 学生接触本地饮食、农村生计及技术发展问题，学术知识获得学校之外的用途。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]]
@@ -80,8 +70,6 @@ updated: 2026-10-20
 > - **教师与制度支持** 课程需要合格教师、在职培训及可用的科目位置，才能让这种联系进入常规教学。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 ---
-
-## 概念辨析
 
 > [!row-contrast] 活动、经验与课程整合处于不同层次
 > | 对象 | 关注的问题 | 解释边界 |
@@ -128,8 +116,6 @@ updated: 2026-10-20
 > [!claim] Peterson, A. D. C.
 > **教师能力、课程位置与资源共同约束采用** 营养科学受到其他学校关注，却未扩散为常规选项，作者判断缺少合格教师及培训是主要原因。大学专业入学要求还可能占用第六科，使相应学生无法选择创新课程。后续[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]试点把跨校开发和在职培训同步安排，说明实施支持需要成为课程开发的一部分；它的最终效果在本章仍未确定。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
-### 命题总览
-
 > [!row-contrast] 经验学习的四类判断
 > | 命题 | 主要依据 | 适用边界 |
 > |---|---|---|
@@ -142,8 +128,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!phase] 本条目材料中的两种问题取向
 >
 > - **[[John Dewey|杜威]]《经验与教育》（1938）　经验品质的哲学判定**
@@ -155,8 +139,6 @@ updated: 2026-10-20
 >   第八章明确提出把社会服务经验与学术课程结合，并讨论地方营养与农村问题导向的课程。两组材料可在问题层面互补；原文没有证实 Peterson 的方案直接源自杜威，不能据此建立师承或理论传承关系。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]]
 
 ---
-
-## 应用案例
 
 > [!case] 营养科学让周围社会成为学术学习情境
 > [[United World Colleges|联合世界书院]]（United World Colleges，UWC）的东南亚书院以当地饮食[[Fieldwork|田野调查]]联系营养科学与社会环境，并要求学生综合不同学科知识。Peterson 关注的是把与周围村落、贫困地区的接触纳入[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB），使学术内容和社会经验直接相连。课程在新加坡与墨西哥城继续作为内部第六科，马尼拉、雅加达与香港学校虽感兴趣却没有采用。学习设计与传播结果须分开记录。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
@@ -171,8 +153,6 @@ updated: 2026-10-20
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 已报告的课程采用与资源条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -183,8 +163,6 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
 > [!tension] 专业学科准备与问题导向的综合学习
 > - **延后综合学习的立场** 原文转述部分教育者主张先充分掌握各门学科，再开展跨学科课程，这往往会把综合学习推迟到研究生阶段。
 > - **Peterson 的回应** 多数学生不会进入研究生阶段，而学科边界本来也并非固定。保留高级学科训练，并提供可选的辅助层级问题导向课程，可以让更多学生获得知识应用与社会理解的机会。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–207)]]
@@ -194,9 +172,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -58,11 +58,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Congressional Earmarks
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **国会专项拨款（Congressional Earmarks，亦称 Academic Earmarks）** 是指美国国会众议院和参议院议员利用预算法案审议特权，在未经过联邦科研机构公开招标或同行评议竞争程序的情况下，直接在最终拨款法案中指令性列支、专门划拨给其本州或本选区特定高校或产学联合实体的定向科研资金（通常用于建设新建研究大楼、采购专用大型科研仪器或设立特定产业技术攻关中心）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 > | **核心制度功能** | 硬件设施分肥与隐蔽产业资本通道并存 | 维持基础科学前沿原创性与人才梯队 | 弥补早期技术开发[[Valley of Death\|死亡之谷]]并协调产业链 |
 
 ---
-
-## 核心要素
 
 > [!feature] 国会科研专项拨款的运行机理
 > - **立法通道寄生性** 专项拨款极少作为独立法案出现，而是由议员以修正案形式“搭便车”强行塞入体量庞大的年度综合拨款法案（Omnibus Appropriations Bills）中，在最后关头捆绑通过。
@@ -141,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与政策交锋
 >
 > > [!axis] 民主代表权与地缘均衡 vs 学术精英同行评议垄断
@@ -177,8 +167,6 @@ updated: 2026-10-22
 > > - **[[Argument_Block_2008_PS|Block (2008)]]** 论证指出，专项拨款在客观上构成了隐蔽[[Developmental Network State|发展型网络国家]]的非显性财政支柱；国会利用该机制设立的大量[[University-Industry Collaboration|产学合作]]中心紧扣产业现实技术痛点，有效克服了市场协调失灵，展现出不可忽视的生产性成效。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -45,10 +45,6 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-# Reactivity in Qualitative Research
-
-## 定义
-
 > [!def] 核心定义
 > 反应性是[[Qualitative Research\|质性研究]]中研究者的在场改变了被研究情境的现象——与[[Hawthorne Effect\|霍桑效应]]紧密关联。参与者可能试图回避、取悦、引导、否认或影响研究者，从而使其行为偏离自然状态。在质性研究中，反应性被视为不可完全消除的固有特征，而非可通过控制手段根除的"偏误"。应对方式是通过延长驻留时间、谨慎的自我呈现和高度[[Reflexivity\|反身性]]来管理，而非试图消除研究者效应。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 409, 442, 452)]]
 
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **情境扰动** 引入研究者作为局外人进入社会系统本身即是一种干预和侵入（Flick, 1998, p. 57），系统会产生"[[Educational Immunology\|免疫反应]]"。
 > - **期望效应** 参与者根据自己对[[Research Purpose\|研究目的]]的猜测调整行为——类似参与者的"猜测假设"（demand characteristics）。
 > - **时间衰减** 反应性通常随时间推移而下降——研究者在情境中驻留越久，参与者越可能回归自然行为。这是长期[[Fieldwork\|田野工作]]优于短期[[Qualitative Research\|质性研究]]的理由之一。
-
-## 管理策略
 
 > [!proc] 管理反应性的策略
 > 1. **长期驻留** 在情境中停留足够长时间——Spindler and Spindler（1992, p. 65）建议长到能看见事件重复发生而非仅一次，从而观察规律性。

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Grit
-
 > [!metax] [坚毅 · Grit](https://www.visiblelearningmetax.com/influences/view/grit)
 > 学生 › 毅力与自信
 >

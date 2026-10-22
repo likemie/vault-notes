@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# The Middle Americans
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > **中间美国人（The Middle Americans）** 是 1970 年 1 月美国《时代》（*Time*）周刊破例评选为 1969 年度风云人物（Man and Woman of the Year）的群体代称，特指生活在美国腹地、远离东西两岸大都市的传统工薪与中产阶层群体。这一历史定性标志着 1960 年代经历激进主义、越战冲突与民权运动剧烈震荡后，美国社会核心腹地与沿海激进派之间关于文化、阶级与国家身份认同大断层的全面制度化公开，构成了当代美国政治撕裂与硅谷反体制计算革命兴起的深层社会母体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–98)]]
@@ -63,8 +59,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 时代断层演化历程
 > - **1960s 中后期 — 时代剧震与社会极化** 越战升级引发全美广泛抗议，民权运动冲击传统建制秩序，嬉皮士反文化运动在西海岸崛起，传统腹地群体产生深刻的失去国家掌控感（Losing grip on the country）。
 > - **1969年11月 — 尼克松“沉默的大多数”演说** 尼克松总统向全美呼吁争取腹地沉默大众支持，政治上将国家划分为维护秩序的腹地中心与激进抗议的边缘。
@@ -73,16 +67,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献与历史宣告
-
 > [!citation-card] 《时代》周刊论中间美国人的焦虑与被边缘化
 > 在经历了 1960 年代的动荡——包括激进主义和对统治秩序的挑战之后，“中间美国人”——一个处于国家隐喻性腹地、远离海岸的群体——“担心他们开始失去对国家的掌控”。“其他人似乎正在接管——自由派、激进分子、反叛的年轻人，”该杂志写道。“没有人赞美他们；知识分子将他们的传统斥为平庸。”[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 97)]]
 >
 > *In January 1970, Time magazine named “the Middle Americans” as person of the year... After the convulsions of the 1960s, including the decade’s radicalism and challenge to the reigning order, “the Middle Americans,” a cohort in the metaphorical heartland of the country, far from its coasts, “feared that they were beginning to lose their grip on the country,” the magazine wrote. “Others seemed to be taking over—the liberals, the radicals, the defiant young,” Time continued. “No one celebrated them; intellectuals dismissed their lore as banality.”*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 时代大断层两大阵营对比
 > - **传统腹地阵营（中间美国人 / 沉默的大多数）** 依附于传统宗教信仰、家庭伦理、爱国主义与实体制造业；视抗议学生与反文化嬉皮士为破坏秩序的激进分子。
@@ -99,16 +89,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键历史后果
 > - **政治版图重构** 开启了持续半个世纪的美国当代文化政治大分裂，为尼克松南方战略与后来的保守主义回潮奠定了社会心理基础。
 > - **硅谷技术基因奠基** 迫使早期计算先驱与反战文化深度结合，确立了将个人微机视为抗衡国家集权之解放工具的[[Counterculture Computing|反文化计算]][[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 > - **国家战略脱嵌与消费主义异化** 伴随国家大叙事（“我们”）的解构，科技精英丧失了服务于公共使命的道义纽带，最终全面滑向唯利是图的[[Consumer Internet|消费互联网]]与[[Technological Agnosticism|技术不可知论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–102)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

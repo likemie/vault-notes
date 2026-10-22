@@ -42,11 +42,7 @@ created: 2026-08-06
 updated: 2026-10-16
 ---
 
-# Confidence Teaching TOK Scale
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Confidence Teaching [[Theory of Knowledge\|TOK]] ([[Classical Test Theory\|CTT]]) Scale
 > - **工具类型** 量表
@@ -55,8 +51,6 @@ updated: 2026-10-16
 > - **实施方式** 自陈
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Teacher Beliefs]], [[Self-Efficacy]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -71,14 +65,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** [[Knowledge Questions\|知识问题]]情境题，引导语类似于 ". . . in exploring knowledge questions related to..."。
 > - **作答格式** 4 点 Likert 等级（1 = 不自信，4 = 非常自信）。
 > - **反向题与跳题** —
-
-### 教学信心
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -99,8 +89,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -110,8 +98,6 @@ updated: 2026-10-16
 > | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] | 原始多语言版（英法西） | N=668 名任课教师；用于检验不同教龄和班级规模对教学信心的影响。 | 同上。 | 应对伦理学信心最高（M=3.60），应对本土知识系统信心最低（M=2.73）。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

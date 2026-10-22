@@ -36,8 +36,6 @@ created: 2026-08-13
 updated: 2026-10-22
 ---
 
-# Epistemological Theories
-
 ---
 
 > [!def] 核心定义
@@ -55,8 +53,6 @@ updated: 2026-10-22
 > - **1997 年 — 理论连贯性重构** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在批判 Schommer 模型的基础上，一方面剔除了“固定智力”、“快速学习”等非[[Epistemology\|认识论]]维度，提炼出四大核心共识维度；另一方面，引入了心理学中“个人理论”的视角，主张这些认识论维度并非相互独立，而是连贯互构的，从而正式提出了“认识论理论（epistemological theories）”[[Construct\|构念]]。
 
 ---
-
-## 核心要素
 
 > [!quad-grid] [[Epistemology\|认识论]]理论的四个核心维度
 > - **【知识的本质】[[Certainty of Knowledge\|知识的确定性]]（certainty of knowledge）**
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > 这种内在的强关联性证明了这些信念构成了一套连贯解释世界的“个人理论”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 117-118)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

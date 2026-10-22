@@ -50,11 +50,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Silicon Structures Project
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **硅结构计划（Silicon Structures Project, SSP）** 是加州理工学院（California Institute of Technology, Caltech）教授卡弗·米德（Carver Mead）于 1977 年发起设立的先驱性产学微电子研究中心。中心汇聚 IBM、施乐（Xerox）、宝来（Burroughs）、惠普（HP）、数字设备公司（DEC）、英特尔（Intel）与霍尼韦尔（Honeywell）等多家行业巨头共同资助，专注于攻关超大规模集成电路（[[VLSI Project|VLSI]]）自动化设计方法学与工具套件，开创了由企业缴纳年费并派遣全职科学家进驻大学参与长周期前瞻性研发的联合体微缩运作模式。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289–291)]]
@@ -67,15 +63,11 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1977–1980 — 创立与方法学突破** 卡弗·米德与施乐帕洛阿尔托研究中心（Xerox PARC）的林恩·康威（Lynn Conway）协同攻关，在计划支持下系统奠定了 Mead-Conway [[VLSI Project|VLSI]] 设计革命；吸引了全美 7 家计算与半导体巨头派员入驻，成为早期微电子产学协同的明星机构。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
 > - **1981–1984 — 规模限制与停滞消解** 由于计划完全依赖单一教授与极少数教师，企业派遣的工业研究员数量迅速超过大学教员规模，导致师资无法有效匹配工业界的差异化期望与管理开销；加之缺乏政府长效公共资金托底，该计划在 1980 年代中期逐步停滞并解体。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291, 296–297)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **学术带头人** 由卡弗·米德全面主持，统筹小规模跨系所教授与研究生团队。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 290)]]
@@ -88,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心成果与辐射影响
 > - **Mead-Conway [[VLSI Project|VLSI]] 设计方法学奠基** 推动将芯片物理版图与逻辑功能解耦，开创了无晶圆厂设计（Fabless）与代工制造分离的基础理念。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 290)]]
 > - **早期多厂商 EDA 算法原型** 联合出资开发针对数十万晶体管规模的早期电路仿真与版图自动生成软件工具。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > *One of the functions of a university is to do a fair bit longer look ahead than it's possible to do in a rapidly emerging and very competitive industry.*
 
 ---
-
-## 影响、成效与历史局限
 
 > [!indicators] 规模数据
 > - **7 家** 创始赞助企业（IBM、Xerox、Burroughs、HP、DEC、Intel、Honeywell）。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 290)]]

@@ -41,8 +41,6 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# Grade Retention in French-Speaking Belgium
-
 > [!info] 背景
 > 该页记录[[Grade Retention\|留级]]在法语比利时的具体制度案例。法语比利时长期把留级用于管理学生学习困难；Dachet and Baye 将其称为该系统很少从证据本位[[Paradigm\|范式]]中汲取改革灵感的最佳例子，因为自 1970 年代以来已有大量证据反对留级有效性，但这种实践在过去 20 年反而更加常见([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.165]])。
 
@@ -54,9 +52,7 @@ updated: 2026-10-22
 > [!abstract] 政策变化
 > [[Pact for Educational Excellence\|教育卓越公约]]并未完全禁止共同核心阶段的[[Grade Retention\|留级]]，而是提出到 2030 年把留级率降低 50%。Groupe central 的立场是，留级不能在共同核心中被完全禁止，但鉴于其无效性，应从规则变为例外([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.174]])。
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > Dachet and Baye 综合指出，关于[[Grade Retention\|留级]]的穷尽性和批判性[[Literature Review\|文献综述]]没有识别出正向平均效果；因此，对留级只提出 2030 年减半目标，被他们评价为改革力度不足([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.172, 174]])。
 
 > [!info] 核心数据

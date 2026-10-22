@@ -39,19 +39,13 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# International Baccalaureate North America
-
 ---
-
-## 北美本地筹资需求推动区域组织于 1975 年独立法人化
 
 > [!event-context] 制度背景
 > - **时间／地点** [[International Baccalaureate|国际文凭]]北美公司（International Baccalaureate North America，IBNA）1975 年在美国纽约注册，主要服务美国和加拿大。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 140–142)]]
 > - **关键主体** [[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）、北美学校与学区、大学招生主管、教育基金会、[[Fred Block|布洛克]]·卡鲁斯（Blouke Carus）、汤姆·哈戈特和[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）。
 > - **制度背景** 日内瓦总部缺少推广资金，北美基金会又不愿把资金交给无法保证用于本地区的外国组织；地方课程自主权同时为公立学校采用 IB 提供了可能。
 > - **触发条件** 若要让学校董事会和公立高中了解 IB，需要独立办公室、专职人员和持续推广经费。区域法人化使北美资金可留在本地区使用，同时保留国际课程与考试控制（pp. 140–143）。
-
-## IBNA 负责区域资源与学校服务，IBO 保留学术控制
 
 > [!row-contrast] 区域能力与国际控制的分工
 > | 模块 | IBNA 的职责 | [[International Baccalaureate\|IBO]] 日内瓦的职责 |
@@ -68,8 +62,6 @@ updated: 2026-10-22
 > [!feature] 董事会同时承担资源动员与制度转化
 > 董事会成员包括学校代表、大学招生负责人、企业和基金会人士。学校成员提供实施经验，高校成员处理承认与分班，企业及基金会成员则把课程目标翻译成资助者能够判断的区域公共利益。多方构成使 IBNA 不只是销售课程的办公室，而成为学校、大学、捐助者与日内瓦总部之间的中介。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 141–143)]]
 
-## IBNA 从本地推广机构发展为全球组织的收入来源
-
 > [!dev-timeline] 从法人化到规模扩张
 > - **1975 年　独立注册** IBNA 在纽约成为独立非营利法人，使北美捐助者能够限定资金用途，也使 [[International Baccalaureate|IBO]] 无需用有限全球经费承担区域推广。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 140–142)]]
 > - **1977 年　领导与办公室稳定** 卡鲁斯出任主席；尼科尔于 8 月接任执行主任，选择独立全职办公室，而非依附哈佛、联合国[[International Schools\|国际学校]]或大学理事会的兼职安排（pp. 142–144）。
@@ -77,8 +69,6 @@ updated: 2026-10-22
 > - **1981 年　区域关系危机公开化** 部分国际学校校长担心 IB 受美国利益主导，并误以为纽约办公室挤占全球资源。纽约校长会议把猜疑带入公开讨论；IBNA 董事会说明财务分工，随后与 IBO 管理委员会重新协商拨款。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
 > - **1980–1985 年　增长支持全球组织** 北美学校数量约增长 300%，同期世界其他地区约增长 33%。1984/85 年学校订阅已占 IBO 收入 51.5%，北美扩张成为全球组织财务可行性的重要来源（p. 147）。
 > - **1983–1984 年　从启动期受援者转为中央危机支持者** IBO 面临超过 500,000 瑞士法郎的预算赤字时，与财务已较宽裕的 IBNA 重谈分担条件，IBNA 另提供 30,000 美元特别拨款。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 185–186)]]
-
-## 启动资助承担前期成本，学校费用随规模增长接替
 
 > [!ref-table] IBNA 启动期主要资助来源与后续转换
 > | 资金来源 | 金额或形式 | 在发展中的作用 | 解释边界 |
@@ -100,8 +90,6 @@ updated: 2026-10-22
 
 > [!claim] 区域成功在 1983 年转化为对全球组织的财政责任
 > IBNA 早期需要本地法人身份来吸收限定用于北美的资金；当授权学校、订阅与考试收入成长后，它又成为 IBO 危机修复的内部资源。与中央重谈条件和 30,000 美元特别拨款显示，区域自主不只是保留本地收入，也需在区域成熟后分担全球共同成本。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 185–186)]]
-
-## 区域法人模式加速公立学校扩张，也产生费用分配与代表权张力
 
 > [!finding-cards] 制度后果
 > - **公立学校扩张** 区域推广帮助 IB 从少数[[International Schools\|国际学校]]进入美国和加拿大的公立高中，到 1984 年北美授权学校达到 126 所。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131, 149–152)]]

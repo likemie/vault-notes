@@ -41,8 +41,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Campbell and Stanley Notation System
-
 > [!info] 定义
 > Campbell and Stanley 符号系统（Campbell & Stanley Notation System）是 Campbell and Stanley (1963, p.6) 在其经典著作 Experimental and [[Quasi-Experimental Designs]] for Research 中提出的一套用于图示实验设计的标准化符号。该符号系统至今仍在[[Experimental Research\|实验研究]]方法论文献中广泛使用，Creswell & Creswell (2022, Ch8) 将其作为报告实验设计方案的推荐工具。
 

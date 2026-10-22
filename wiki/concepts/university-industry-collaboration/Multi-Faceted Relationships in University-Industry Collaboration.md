@@ -33,13 +33,9 @@ created: 2026-06-05
 updated: 2026-10-22
 ---
 
-# Multi-Faceted Relationships in University-Industry Collaboration
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 多面关系（Multi-Faceted Relationships）是 [[University Industry Demonstration Partnership\|UIDP]] 在 [[Partnership Continuum\|伙伴关系连续体]]（2012）中描述的[[University-Industry Collaboration\|产学合作]]最高形态：当大学与企业在学生导向参与、研究者互动、资源获取、专业中心与学院参与和经济发展**全部五个领域**同时建立了深度合作关系时，双方的合作就超越了任何单一维度的交易或项目，成为一种制度化的、全方位的战略联盟([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012, p.20]])。
 
 多面关系不是五个领域的简单加总——它的本质是**跨领域的协同效应** 学生招聘关系为联合研究提供了人才管道；联合研究产生的[[Research Translation|技术转化]]为经济发展领域的衍生企业；衍生企业的成功又反过来增强了大学在专业中心与学院领域对企业的吸引力。五个领域之间的正反馈循环使得多面关系的总价值大于各部分之和。

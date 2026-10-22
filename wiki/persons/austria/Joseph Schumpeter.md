@@ -48,11 +48,7 @@ aliases:
   - Joseph Alois Schumpeter
 ---
 
-# Joseph Schumpeter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 约瑟夫·阿洛伊斯·熊彼特（Joseph Alois Schumpeter，1883–1950），奥地利裔美籍经济学家、社会学家；20 世纪最具原创性与深远影响力的经济学巨匠之一，现代 **[[Evolutionary Economics|演化经济学]]** 与创新经济学（Innovation Economics）的奠基宗师。
@@ -63,8 +59,6 @@ aliases:
 > 资本主义经济的本质不是静态资源的边际最优分配，而是永不停息由“创新”驱动的动态突变过程。这种突变不断地从内部摧毁旧经济结构，同时创造全新的经济结构——这一“创造性破坏”（Creative Destruction）过程是资本主义赖以存在和演进的核心事实。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 
 ---
-
-## 核心学术贡献与思想构件
 
 > [!feature] 熊彼特经济学的四大核心理论构件
 > - **[[Creativity|创造性]]破坏（[[Creative Destruction]]）** 在《资本主义、社会主义与民主》（*Capitalism, Socialism and Democracy*, 1942）中提出，论证经济增长源于创新对既有市场结构与技术[[Paradigm|范式]]的革命性淘汰，而非静态价格竞争。
@@ -81,8 +75,6 @@ aliases:
 
 ---
 
-## 跨学科理论外溢与当代应用
-
 > [!contrast-table] 熊彼特思想在现代科技政策与治理理论中的映射
 >
 > | 理论领域 | 承接概念 / 理论工具 | 理论功能与跨学科转化 | 代表学者与文献 |
@@ -93,8 +85,6 @@ aliases:
 > | **[[Technological Trajectories\|技术轨道]]与范式** | [[Technological Trajectories\|技术轨道与技术范式]] | 阐明在[[Creativity\|创造性]]破坏过程中，产业如何沿着特定技术路径积累并在面临重大社会挑战时实现轨道重塑。 | Dosi (1982) |
 
 ---
-
-## 关键著作
 
 > [!dimension] 代表性著作年表
 > - **1911** 《经济发展理论》（*Theorie der wirtschaftlichen Entwicklung*）

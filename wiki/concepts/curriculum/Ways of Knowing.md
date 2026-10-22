@@ -68,8 +68,6 @@ created: 2026-07-26
 updated: 2026-10-22
 ---
 
-# Ways of Knowing
-
 ---
 
 ## 定义
@@ -96,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知方式与相近[[Epistemology\|认识论]][[Construct\|构念]]辨析
 > | 比较维度 | 认知方式（Ways of Knowing） | 认识论实践（[[Epistemic Practices]]） | 知识领域（[[Areas of Knowledge]]） | 传统科学方法（[[Scientific Method]]） |
 > |---|---|---|---|---|
@@ -107,8 +103,6 @@ updated: 2026-10-22
 > | **课程功能** | 提供追问知识形成来源的反思工具 | 引导学生深度参与学科真实探究文化 | 框定知识探究与课程大纲的具体领域 | 作为理科实验操作的标准[[Homework\|作业]]程序规范 |
 
 ---
-
-## 核心要素
 
 > [!taxonomy] 认知方式的双重视角与分类维度
 > - **课程[[Metacognition\|元认知]]分析视角（IB [[Theory of Knowledge\|知识论]]框架）** 指南界定了知者获取与审查知识的八大认知资源：
@@ -193,8 +187,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -212,8 +204,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 心理学实体 vs 课程分析[[Scaffolding\|脚手架]]
@@ -229,8 +219,6 @@ updated: 2026-10-22
 > 认知方式框架主要用于组织认识论审议与元认知反思，不能替代具体的学科专业知识与技术操作规程。脱离具体学科情境空谈认知方式，容易导致认识论探讨悬浮于抽象玄思之中。
 
 ---
-
-## 典型案例与应用场景
 
 > [!ref-table]- 认知方式在不同领域与课程中的应用表现
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

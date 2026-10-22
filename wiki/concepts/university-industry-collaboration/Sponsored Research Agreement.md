@@ -56,11 +56,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Sponsored Research Agreement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 赞助研究协议（Sponsored Research Agreement, SRA）是[[University-Industry Collaboration|产学合作]]中最为普遍且定制化程度最高的法定合同形式。企业通过从内部研发或战略预算中向大学划拨专款，资助特定教授或科研团队就明确的科研任务开展为期数月至数年的系统研究。其核心法律机制在于平衡大学的学术探索自由、成果发表权利与资助企业的商业竞争权益，标准范本通常明确约定项目工作范围、预算核算、[[Foreground IP|前景知识产权]]（FIP）归属、[[Background IP|背景知识产权]]（BIP）使用权、商业许可选择权以及学术成果发表前的限期评阅机制。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 275, 281–284)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 230–231)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 产学研发契约工具对比矩阵
 > | 契约工具类型 | 研发性质与目标 | 成果所有权（IP Ownership） | 企业商业转化权利 | 论文发表与公开规则 | 内部主导部门 |
 > |---|---|---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | **企业赠款（Gifts）** | 学者好奇心驱动的基础探索与学科建设 | 大学完全拥有，无权利附带 | 无任何优先商业转化权利 | 学者享有完全无限制的发表自由 | 大学发展与校友联络基金会 |
 
 ---
-
-## 核心条款与权利配置
 
 > [!feature] 核心法律与知识产权条款
 > - **[[Foreground IP|前景知识产权]]（FIP）的阶梯式配置** 在标准 SRA 中，研究期间产生的全新专利与软件著作权归大学所有；企业自动获得非排他、免版税（Non-Exclusive Royalty-Free, NERF）的内部商业前使用权（可自行制造、测试并用于内部生产流程，但不可对外直接销售），同时获得通常为期 6 个月的商业独家许可独占谈判选择权（Option Period）。若企业未在期限内行权，大学有权向第三方开放许可。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 281–282)]]
@@ -138,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > | **组织两阶段监护命题** | 中央 AET 早期全额孵化监护，成熟后交接业务线进行工程转化 | 大型跨国高科技企业处理前瞻基础研究与季度产品交付周期的冲突 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
 
 ---
-
-## 争议与实践局限
 
 > [!debates] 核心制度与商业化争议
 >
@@ -173,8 +161,6 @@ updated: 2026-10-22
 > - **出口管制与基础研究豁免** SRA 合同若对外国籍硕博研究生设置排他性知情权壁垒或对论文实施不可逆的发表封锁，将直接丧失美国政府的“基础研究豁免”（Fundamental Research Exclusion, FRE）保护，导致课题陷入高额合规审查风险。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 赞助研究在全美高校产学协同中的业务占比与创新方案分布
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

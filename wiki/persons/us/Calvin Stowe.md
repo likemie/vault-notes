@@ -55,8 +55,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Calvin Stowe
-
 ---
 
 ## 简介
@@ -77,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
-> [!note|notitle] 生平与职涯
+> [!note] 生平与职涯
 > 斯托的生平跨越了美国建国初期的共和教育奠基时代，其学术考察活动直接服务于合众国中西部公共教育建制的创生：
 
 > [!timeline] 生平与职涯
@@ -103,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!note|notitle] 核心思想
+> [!note] 核心思想
 > 斯托的思想代表了美国在 19 世纪前期处理外部教育经验时的典型逻辑：他既是一个坚定的清教道德人文主义者，也是一个务实的州立教育行政改良者。
 
 > [!claim] 核心主张
@@ -136,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] 奈特论[[Report on Elementary Public Instruction in Europe\|斯托报告]]的跨州政策动员
 > 斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国[[Common School Movement\|公学运动]]极具政策说服力的[[Discourse|话语]]武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
 >
@@ -160,9 +152,7 @@ updated: 2026-10-22
 
 ---
 
-## 关系网络
-
-> [!note|notitle] 关系网络
+> [!note] 关系网络
 > 斯托的跨国考察与政策主张紧密镶嵌在 19 世纪大西洋两岸的思想交流网络之中：
 
 > [!person-network] 关系网络
@@ -173,9 +163,7 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
-> [!note|notitle] 争议与批评
+> [!note] 争议与批评
 > 围绕斯托的思想取向与调查方法，学术史形成了鲜明的多重视角：
 
 > [!debates] 学术争议

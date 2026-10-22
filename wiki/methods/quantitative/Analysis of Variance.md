@@ -70,11 +70,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Analysis of Variance (ANOVA)
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 方差分析（Analysis of Variance, ANOVA）是一族用于检验三个或更多处理组（或两个及以上独立样本）在连续数值因[[Variable\|变量]]上的总体均值是否存在统计学显著差异的推断统计方法，由罗纳德·费希尔（Ronald Fisher）开创并以 $F$ 检验统计量为核心判定工具。其数学本质在于将总离差平方和（Total Sum of Squares, $SS_{\text{total}}$）正交分解为可由实验处理解释的“组间变异”（Between-group Variance / $SS_{\text{between}}$）与由随机误差造成的“组内变异”（Within-group Variance / $SS_{\text{within}}$），通过两类均方的比值 $F = MS_{\text{between}} / MS_{\text{within}}$ 检验各组总体均值相等的原假设。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 遵循经典参数统计的方差分解[[Paradigm\|范式]]，认为总体测量变异由“确定性系统变异（因子处理效应）”与“不可控随机误差”线性叠加而成；通过控制[[Type I and Type II Errors\|第一类错误]]率，在概率意义上判定处理因素的真实效力。
 > - **研究者角色** 研究者必须在前瞻设计阶段进行[[Sample Size Determination\|样本量]]估算与统计功效（Power）规划；在分析前严格诊断正态性（Normality）、方差齐性（Homoscedasticity）与独立性假设；在方差分析显著后审慎选择事后比较程序，并报告无偏[[Effect Size\|效应量]]以防过度夸大实验效果。
@@ -120,8 +114,6 @@ updated: 2026-10-22
 >   - 效应量计算：$\eta^2$、$\eta_p^2$、$\omega^2$（小样本无偏估计量）
 
 ---
-
-## 研究程序
 
 > [!proc] 通用检验程序
 > 1. **明确实验设计与[[Variable\|变量]]界定** 确定自[[Independent Variable\|自变量]]（因子及水平数 $k$）与[[Dependent Variable\|因变量]]（连续数值），设定显著性水平（通常 $\alpha = .05$）。
@@ -202,8 +194,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法变体与家族谱系
-
 > [!tension-table] 方差分析方法族（ANOVA Family）及相近推断统计方法辨析
 > | 方法名称 | [[Independent Variable\|自变量]]（因子）结构 | [[Dependent Variable\|因变量]]结构 | 控制[[Variable\|变量]]（协变量） | 核心解决问题 | 关键假设与局限 |
 > |---|---|---|---|---|---|
@@ -236,8 +226,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - [[Experimental Research\|实验研究]]与准实验中比较 3 组或更多组被试在连续数值[[Dependent Variable\|结果变量]]上的平均水平差异（如传统教学法 vs 翻转课堂 vs AI 辅助教学的[[Pre-test and Post-test\|后测]]均值对比）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
@@ -253,8 +241,6 @@ updated: 2026-10-22
 >   - 仅包含 2 个处理组的简单设计（直接使用独立样本 [[t-test]] 更为简便，两者数学等价）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **整体检验的模糊性** ANOVA 的 $F$ 检验仅为综合检验（Omnibus Test），显著结果仅说明各组均值不全相等，不能直接告知具体是哪些组之间存在差异，必须附加事后多重比较。
@@ -278,8 +264,6 @@ updated: 2026-10-22
 > | [[Metacognition]] | 调控机制 | 监控 ANOVA 假设前提（正态性、方差齐性）与效应量指标选择的关键高阶认知机能。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐释方差分析（ANOVA）、[[Analysis of Covariance\|协方差分析]]（ANCOVA）与[[Multivariate Analysis of Variance\|多元方差分析]]（MANOVA）作为[[Experimental Research\|实验研究]]设计中组间均值检验的核心推断统计工具。（Ch8）

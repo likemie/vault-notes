@@ -44,8 +44,6 @@ updated: 2026-10-22
 >
 > > "Another way that developers could potentially influence study results... is by influencing study design and data cleaning and analysis decisions to produce the most favorable study results possible." ([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429, citing Simmons, Nelson, & Simonsohn, 2011]])
 
-## 核心要素
-
 > [!abstract] Simmons et al. (2011) 识别的自由度类型
 > [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 429)]] 总结了 Simmons et al. 的框架：
 >

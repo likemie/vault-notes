@@ -57,11 +57,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Protocol for Language Arts Teaching Observation
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Protocol for Language Arts Teaching Observation ([[Plato]])
 > - **工具类型** [[Domain Specificity|学科特异性]]课堂外部[[Classroom Observation|教学观察]]与[[Coding in Qualitative Research|质性编码]]规程（observation-tool）。
@@ -89,14 +85,10 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 12 个学科观察维度，配有具体教学实例说明与低/中/高行为基准线。
 > - **作答格式** 4 点等级量规（1 = 几乎无证据，2 = 有限/表面证据，3 = 明确/充分证据，4 = 极强/典范证据）。
 > - **反向题与跳题** 无反向题；所有片段均须完整记录 12 个维度的证据并打分。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] [[Plato]] 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -121,8 +113,6 @@ updated: 2026-10-22
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | [[Plato]] 3.0 版 | 作为 Teach 初始 43 项要素建库来源之一；格罗斯曼本人参与[[World Bank\|世行]]技术咨询 | 检验其预测效度与精简可行性 | 其[[Scaffolding\|教学支架]]与出声思维示范维度被 Teach 深度借鉴吸收并融入教学指导领域。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

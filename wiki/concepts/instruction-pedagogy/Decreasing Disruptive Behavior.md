@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Decreasing Disruptive Behavior
-
 > [!metax] [减少扰乱行为 · Decreasing disruptive behavior](https://www.visiblelearningmetax.com/influences/view/decreasing_disruptive_behavior)
 > 课堂 › 课堂管理
 >

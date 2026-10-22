@@ -85,13 +85,9 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Third Generation Activity Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 集体活动系统（Activity System）、多系统相遇与互动、中介工具介入（如生成式 AI、跨国新教学法）、制度与系统内部矛盾（Contradictions）及扩展性组织改造机制（Expansive Transformation）。
 > - **理论问题** 如何超越个体主义认知还原论与机械技术[[Determinism\|决定论]]，从中观社会文化历史情境与系统结构性矛盾切入，解释制度变迁、教学改革、人机认知分工以及边界跨越（Boundary Crossing）现象？
 > - **理论类型** 文化历史活动理论[[Paradigm\|范式]]（Cultural-Historical Activity Theory, CHAT）、社会文化历史[[Constructivist Paradigm\|建构主义]]中层机制模型与[[Analytic Framework\|分析框架]]，涵盖专用于解构数字协同学习调节[[Variable\|变量]]的 AT-MCSCL [[Domain Analysis\|领域分析]]架构。
@@ -106,8 +102,6 @@ updated: 2026-10-22
 > *According to Cultural-Historical Activity Theory (CHAT), the introduction of an artifact inevitably disrupts the equilibrium among subjects, objects, mediating tools, rules, and division of labor within an activity system... expansive transformation occurs when contradictions are harnessed to reconstitute instructional rules and collaborative roles.*
 
 ---
-
-## 关键概念与理论构件
 
 > [!theory-components] 活动系统的核心构件与机制
 > - **主体（Subject）**
@@ -134,8 +128,6 @@ updated: 2026-10-22
 >   当共享客体确立后，活动系统要素发生的全面协同重组与文化升级，形成质变后的新实践形态。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 600–602)]]
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜心理中介三角与认知工具塑造命题（Vygotsky, 1978）
 > - **前提一** 人类的高级心理机能与实践活动并非简单的“刺激—反应（S-R）”直接联结，而是必然由社会文化创造的物质工具与符号系统（如语言、符号、数字技术）进行间接中介。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]
@@ -213,8 +205,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]与方法含义
 > - **[[Ontology\|本体论]]** 社会文化历史[[Constructivist Paradigm\|建构主义]]——人类心理机能、行动与组织实践均嵌入在历史生成的活动系统中，由[[Artefact\|人工制品]]与符号工具所中介，不存在脱离情境的抽象个体认知。
 > - **[[Epistemology\|认识论]]** 辩证唯物主义认识论——矛盾是发展的根本动力，知识是在主体改造客体、跨越边界与解决系统矛盾的实践（[[Praxis\|Praxis]]）中动态生成的。
@@ -238,8 +228,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用边界
-
 > [!theory-boundary] 理论适用边界
 > - **适合解释** 多主体协作、复杂组织变革、跨部门[[Policy Borrowing\|政策借用]]、新型智能技术深度整合引发的系统矛盾与生态转型。
 > - **谨慎使用** 用于微观瞬间的单次心理反应测试，或完全剥离社会互动与组织规则的孤立个体行为。
@@ -257,8 +245,6 @@ updated: 2026-10-22
 > - **2026 — 生成式 AI [[Man-Computer Symbiosis|人机协同]]与教学规制重构** Li et al. 将第三代活动理论应用于高等教育生成式 AI 整合研究，提出超越工具中心论的六大教学干预规制与人机认知分工模型。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–13)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

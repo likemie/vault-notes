@@ -46,11 +46,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# The Green Book
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 英国财政部（HM Treasury）于 1970 年代初创经济评估指南并历经多次重大修订，2003 年全面改版，最新法定现行文本为 2020 年修订并持续更新至 2026 年的《中央政府评估与评价：绿皮书》（*The Green Book: Central Government Guidance on Appraisal and Evaluation*）。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
@@ -59,8 +55,6 @@ updated: 2026-10-22
 > - **制度位置** 英国国家公共财政支出与重大政策立项的法定准则，与财政部《品红皮书》（*The Magenta Book*，聚焦政策评估分析方法）共同构成英国[[Evidence-Based Policy-Making|循证决策]]（Evidence-Based Policy-Making, EBPM）的行政规程双翼。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 绿皮书强制要求所有政府公共支出提议与政策方案必须建立在严谨、系统与客观的证据评估之上，明确规定义务性比选多种政策方案、量化社会整体成本与收益，并要求在政策论证中清晰识别并妥善处理科学与经济不确定性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 81, 87)]]
@@ -78,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1970s** 英国财政部建立最初的经济评估指南，服务于资本基础设施投资评估。
 > - **2003** 财政部全面改版绿皮书，正式引入社会[[Cost-Benefit Analysis|成本效益分析]]与全生命周期评估理念，并作为新工党政府推行[[Evidence-Based Policy-Making|循证决策]]（EBPM）与试点评估的法定行政规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
@@ -88,8 +80,6 @@ updated: 2026-10-22
 > - **2026** 英国皇家学会《科学为社会》报告明确呼吁，英国政府应依据绿皮书决策准则，强制政策文件同步附带通俗版《科学证据陈述》（Scientific Evidence Statements），详尽披露[[Scientific Uncertainty|科学不确定性]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 英国财政部（HM Treasury）。
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - **证据公开的制度性阻滞与选择性利用** 尽管规程要求详尽，但政府极少在最终政策文本旁同步公开支撑决策的完整科学依据，存在选择性采纳有利证据（cherry-picking）掩盖学术分歧的风险。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 86)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

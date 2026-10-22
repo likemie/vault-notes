@@ -92,13 +92,9 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Evolutionary Economics
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、[[Path Dependence|路径依赖]]与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–156)]]
 > - **理论问题** 回应并打破新古典经济学关于完全理性、代表性企业（Representative Agent）、边际最优化行为与静态市场均衡的刚性假设，揭示现实经济如何在极度不确定性与非线性互动中演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 > - **理论类型** 异端经济学理论体系、中观产业演进理论与宏观创新治理哲学。
@@ -108,8 +104,6 @@ updated: 2026-10-22
 > 经济系统本质上是一个充满多样性（Variety）、持续[[Heterogeneity|异质性]]（Heterogeneity）、路径依赖与累积性学习（Cumulative Learning）的动态演化复杂网络。市场绝非先验给定的自发均衡实体，而是由公共制度、企业策略与社会需求共同演化塑造的结果；公共政策的根本使命不是被动修补[[Market Failure|市场失灵]]，而是主动设定战略方向、培育公共探索与动态能力，推动治理从被动的“支持与衡量”向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]转变。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–156)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–790)]]
 
 ---
-
-## 理论来源与形成
 
 > [!theory-origin] 理论渊源与思想演进
 > - **理论先驱** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）对古典物质资本观的批判奠定了演化经济学关于无形[[Intellectual Capital|智力资本]]跨代积累与国家生产力思想的深层先声；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（[[Creative Destruction]]）理论奠定了创新作为资本主义动态引擎的核心地位；[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化假设；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
@@ -129,8 +123,6 @@ updated: 2026-10-22
 > - **2018 — 公共部门动态能力与引领学习范式** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] 突破传统私营企业能力局限，建立国家、政策与行政三层[[Public Dynamic Capabilities|公共部门动态能力]]矩阵，确立演化政策的[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
 ---
-
-## 核心构件与机制
 
 > [!theory-components] 演化经济学的核心理论构件
 > - **组织惯例（Organizational Routines）**
@@ -238,8 +230,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -252,8 +242,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论应用与操作化
-
 > [!feature] 演化经济学在创新与公共政策领域的关键[[Operationalization|操作化]]应用
 > - **中观产业分类与[[Heterogeneity|异质性]]测度** [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta (2016)]] 基于演化经济学对异质性的理论强调，利用多国制造业与服务业微观数据，通过主成分分析与计量回归验证了 [[Pavitt Taxonomy|Pavitt 分类法]]在解释技术创新投入与经济绩效转化上的稳健因果力。（pp. 170–175）
 > - **创新与就业动态机制分析** Bogliacino & Pianta（2010, 2011, 2013）基于演化框架区分了“技术[[Competitiveness|竞争力]]”（以产品创新开辟新市场、带动高质量就业）与“成本竞争力”（以流程创新压缩用工成本）两条异质演化路径。
@@ -264,8 +252,6 @@ updated: 2026-10-22
 > - **长波[[General Purpose Technology|通用技术]][[Paradigm|范式]]与制度调适评估** [[Argument_Freeman_1995_CJE|Freeman (1995)]] 与 Freeman and Perez（1988）将演化经济学操作化为分析工业革命中通用技术扩散与国家制度适配性的长波历史分析工具，为诊断技术超前与制度滞后之间的结构性矛盾提供指南。（pp. 17–19）
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

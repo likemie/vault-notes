@@ -49,11 +49,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Ton de Jong
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 荷兰特温特大学（University of Twente）教学技术与学习科学杰出讲席教授，欧洲[[Chinese Academy of Sciences|科学院]]院士（Member of Academia Europaea），国际学习科学学会（ISLS）会士与前理事会成员。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990 年代 — [[Computer Simulation\|计算机模拟]]探究与[[Discovery Learning\|发现学习]]机理奠基** 系统揭示学生在开放模拟中容易陷入的假设生成偏差与[[Variable\|变量]]控制混乱，确立单纯模拟不足以自发保证学习成效，必须提供[[Scaffolding\|认知支架]]。
 >   - **代表著作** *Scientific discovery learning with computer simulations of conceptual domains* (1998, 与 W. R. van Joolingen 合著).
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Inquiry-Based Learning\|探究式教学]]与[[Direct Instruction\|直接教学]]绝非水火不容的二元对立。无指导的[[Discovery Learning\|纯发现学习]]固然违背认知负荷规律，但剥夺了学生试错与[[Epistemic Agency\|认识能动性]]的纯直接灌输同样无法达成抗遗忘的深层理解。教学设计的最优路径是将精心设计的[[Scaffolding\|认知支架]]与虚拟微世界深度整合，让学生在有结构约束的环境中体验探索与挫折，并在最适宜的时机精准嵌入直接讲授，实现两种取向的功能互补与时序协同。
 
 > [!citation-card] 论探究教学与直接教学的功能互补性

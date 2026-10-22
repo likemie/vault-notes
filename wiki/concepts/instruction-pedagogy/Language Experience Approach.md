@@ -37,13 +37,9 @@ doi: ""
 citation_aliases: []
 ---
 
-# Language Experience Approach
-
 ---
 
-## 定义
-
-> [!def|notitle] 定义
+> [!def] 定义
 > 语言经验法（Language Experience Approach, LEA）是一种将儿童自身的口语经验与读写学习紧密结合的早期读写教学方法。该方法由 R. V. 艾伦（R. V. Allen, 1964）系统阐述，其核心是“将阅读和其他沟通技能在教学中整合在一起” (p.144)。
 
 > [!concept-lens] 概念透镜
@@ -52,8 +48,6 @@ citation_aliases: []
 > - **边界** 它侧重于读写能力的发生学基础，但在系统拼读规则传授与高阶独立阅读发展方面，其解释力与教学工具箱相对受限。
 
 ---
-
-## 核心要素
 
 > [!frames-ref] 语言经验法的四大发展连续体
 > 艾伦（Allen, 1964, p.59）从儿童学习的心理过程出发，将语言经验法的基本逻辑概括为四个层层递进的命题 (p.144)：
@@ -64,8 +58,6 @@ citation_aliases: []
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 语言经验法与[[Whole Language\|全语言]]的对比
 > | 对比维度 | 语言经验法 (LEA) | 全语言 (Whole Language) |
 > | :--- | :--- | :--- |
@@ -75,8 +67,6 @@ citation_aliases: []
 > | **与拼读的关系** | 主要通过儿童熟悉的口语词汇与书写符号建立字音关联。 | 坚决反对孤立拼读操练，支持情境化的音形融合教学 (p.148)。 |
 
 ---
-
-## 实证争议
 
 > [!critique-method] [[Meta-analysis\|元分析]]中的分类错误与时代错误（Anachronism）
 > 语言经验法在后期实证研究汇总中，多次被错误等同于[[Whole Language\|全语言]]，导致了证据库污染：

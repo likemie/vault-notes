@@ -39,11 +39,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Nam Pyo Suh
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍韩裔机械工程学家、设计理论学者、高等教育管理领袖；麻省理工学院（Massachusetts Institute of Technology, MIT）机械工程系长期任教并曾任系主任；1984–1988 年出任[[National Science Foundation|美国国家科学基金会]]（NSF）首任工程学助理主任（Assistant Director for Engineering）；后出任韩国科学技术院（Korea Advanced Institute of Science and Technology, KAIST）总长。
@@ -64,8 +60,6 @@ updated: 2026-10-22
 
 ---
 
-## 思想发展
-
 > [!thought-timeline] 思想发展与政策实践
 > - **1960s–1984 — 制造工程前沿与传统 PI 资助体制反思阶段** 在 MIT 从事先进制造与材料摩擦学研究，深刻体会到传统大学工程系所将机械、化工、材料人为割裂的弊端，认识到二战后形成的单 PI 自由探索资助模式无法有效应对现代工业复杂的系统级攻关。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 371)]]
 >   - **关键实践** 创设 MIT 制造与生产力实验室。
@@ -79,9 +73,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 传统大学[[Engineering Education|工程教育]]与学科划分长期停留在 19 世纪的碎片化形态，脱离了现代工业系统集成与多[[Variable|变量]]工程实践的真实需求；必须突破单一学术系所与单纯自由探索课题资助模式的局限，通过跨学科实体中心和产业协同网络，将基础研究的科学严谨性与工业前沿系统设计能力的培养有机结合。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 371)]]
 
 > [!citation-card] 布洛赫论徐南杓对突破传统工程系所旧思维的清醒共识
@@ -96,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **科技政策与资助机制** 在 [[National Science Foundation|NSF]] 任内推动确立 [[Engineering Research Centers|ERC]] 的多学科跨部门工程集成标准，直接促成了美国联邦工程科学资助从零散课题向重大中心制转型的制度落地。
 > - **[[Engineering Education|高等工程教育]]改革** 倡导将系统工程、制造工艺与前沿动手实践融入本科及研究生工科核心课程，深刻影响了全美工学院的培养模式设计。
 > - **跨国高教治理扩散** 执掌 KAIST 期间将美国产学协同与绩效问责机制移植至东亚高教生态，推动了亚洲顶尖理工大学的国际化重构。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 记录徐南杓作为学术界核心人物加盟 NSF、主掌工程学学部并推动 ERC 评审实施的政策史料，揭示其打破 19 世纪工程学科旧思维的制度贡献。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Bozeman & Boardman 论徐南杓在 [[Engineering Research Centers|ERC]] 创设中的学术桥梁功能
 > 徐南杓作为麻省理工学院知名工科学者加盟 [[National Science Foundation|NSF]] 领导层，为布洛赫的产学中心改革提供了不可或缺的学术合法性与专业公信力，成功化解了学术界对工业界出身主任试图将大学矮化为企业附庸的深层疑虑。

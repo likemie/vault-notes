@@ -53,11 +53,7 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Exogenous Privatisation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **外生私有化（Exogenous Privatisation）**，亦称**针对公立教育的私有化（Privatisation of Public Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指通过合同承包、[[Public-Private Partnership|公私伙伴关系]]（PPP）、特许学校（Charter Schools / Partnership Schools）以及向私营[[Educational Management Organisation|教育管理组织]]（EMO）采购核心业务，将原本由公共部门承担的校舍建设、课程开发、测验评价与日常教学交付全面向营利或非营利私营实体开放的制度过程。当代实证研究（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）进一步揭示，外生私有化已经从早期的后勤基建承包，演进为涵盖免税慈善信托控股营利实体的[[Dual-Entity Legal Structure|双层法人架构]]，并最终演变为跨界商业网络直接主导国家教育立法与政策议程设置的**政策制定权隐性私有化**。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 外生私有化的演进梯级：从边缘外包到政策主权转移
 > | 演进阶段 | 核心载体与制度形态 | 核心运作机制与法人架构 | 对公共性的侵蚀后果 |
 > |---|---|---|---|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **高级阶段：国家政策制定权隐性外包** | 特许学校（[[Partnership Schools Kura Hourua\|PSKH]]）立法、免税信托控股营利子公司（[[Dual-Entity Legal Structure\|双层法人]]） | 跨界精英网络（前官员、商业 EMO 高管、对冲基金）直接操刀法案起草与议程设置 | 代议制民主被[[Epoché\|悬置]]，商业实体通过双层架构合法豁免信息公开审查 |
 
 ---
-
-## 核心要素
 
 > [!feature] 外生私有化的五大制度支柱
 > - **公共税收定向转移与合同契约化** 国家改变直接办学角色，将经常性教育税收预算打包为巨额商业合同，向私营承包商与商业化 [[Educational Management Organisation|EMO]] 购买服务，将公共财政转化为私营企业的营运利润与高管薪酬。
@@ -159,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕外生私有化形成的命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 外生私有化的演化历程
 > - **1990 年代初 — 英国 PFI 与美国特许学校兴起** 英国梅杰政府推出私人融资倡议（PFI/[[Public-Private Partnership|PPP]]），开启学校校舍由商业财团出资建造并持有产权的先河；美国明尼苏达州通过全美首部特许学校法，允许公办公营向私营非营利或营利组织托管转型。
 > - **2000 年代初 — 跨国出版集团与商业 [[Educational Management Organisation|EMO]] 规模扩张** 爱迪生学校（Edison Schools）等大型教育管理组织在美英大量承接薄弱学区全校运营，资本市场教育概念股盛行；[[International Education|国际教育]]组织对商业资本渗透公立教育敲响警钟。
@@ -181,8 +169,6 @@ updated: 2026-10-22
 > - **2020 年代 — 全球数字技术垄断与跨国教育平台托管** 随着智慧校园与数字化转型推进，跨国科技巨头全面接管公立学校云端数据、课程流媒体与智能测评服务，外生私有化迈向数字基础设施依赖阶段。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -199,8 +185,6 @@ updated: 2026-10-22
 > > - **独立财务审计学者（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）** 揭露此类信托普遍通过双层架构控股全资商业公司，利用慈善捐赠合法抹平企业应纳税款，并依托私法壁垒阻挠官方信息审计，严重动摇了宪制代议民主的根基。
 
 ---
-
-## 应用案例
 
 > [!case] [[Cognition Education|认知教育]]（Cognition Education）的双层架构与资本扩张
 > 新西兰奥克兰[[Educational Management Organisation|教育管理组织]]认知教育（Cognition Education Ltd）原为公立[[Normal School|师范学院]]基金会分支，后被私营化改组为一家独立的商业有限责任公司，同时由免税的认知信托（Cognition Trust）全资控股。在 2008 至 2015 年间，该公司年营业额由 500 万新西兰元飙升至超 3,000 万新西兰元，其绝大部分收入直接来自新西兰教育部、阿布扎比及澳大利亚政府的公共教育服务与培训采购合同。财务审计表明，该公司每年向母体免税信托捐赠数百万元利润，使其实际应缴企业所得税连年归零；其高管薪酬与管理费用处于私法保护之下，拒绝接受公众信息公开法（OIA）审计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 76–85)]]

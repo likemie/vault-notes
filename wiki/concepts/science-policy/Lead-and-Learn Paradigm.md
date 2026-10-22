@@ -61,11 +61,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Lead-and-Learn Paradigm
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **引领与学习[[Paradigm|范式]]（Lead-and-Learn Paradigm / Lead-and-Learn Approach）** 是指一种旨在应对 21 世纪重大社会挑战的新型公共创新治理范式。该范式由雷纳·[[Rainer Kattel|卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统确立，旨在彻底替代自 1980 年代以来受[[New Public Management|新公共管理]]（New Public Management, NPM）主导的“支持并测量”（Support-and-Measure）范式。引领与学习范式主张：国家与公共部门不应局限于事后寻找[[Market Failure|市场失灵]]并运用孤立工具进行单点被动补贴（Support），更不能依赖狭隘的短期[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA）与量化控制指标进行机械考核（Measure）；相反，公共机构必须在宏观上展现战略前瞻性与政治决断力，主动开辟并塑造具有开放前景的新市场（Lead），同时在微观和中观上构建涵盖跨界实验、敏捷迭代、用户共创与制度化反思的组织学习机制（Learn）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 支持与测量[[Paradigm|范式]]与引领与学习范式深度对比
 >
 > | 比较维度 | 支持与测量范式（Support-and-Measure） | 引领与学习范式（Lead-and-Learn） |
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > | **组织团队构型** | 条块分割的终身科层制或将核心职能[[Externalization\|外部化]]外包给咨询公司。 | 跨职能流动团队、以人为本的服务设计人员与数字化敏捷实验特区。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 引领与学习[[Paradigm|范式]]的两大支柱与运行机制
 > - **战略引领支柱（Lead Pillar）**
@@ -157,8 +149,6 @@ updated: 2026-10-22
 > **第三代使命的专属治理范式** 在[[Three Generations of Mission-Oriented Policy|使命导向政策三代演进]]中，第一代追赶使命（骆驼形态）依赖科层规程，第二代冷战技术[[Big Science|大科学]]（狮子形态）依赖垂直权威实验室；而第三代使命（儿童形态）聚焦气候变化、老龄化与绿色转型等[[Wicked Problem|复杂社会难题]]，涉及多元利益群体与深层生活方式变革，唯有依托引领与学习范式，才能在去中心化网络中实现多方共创与敏捷适应。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796, 800)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 引领与学习范式核心命题矩阵
 > | 命题维度 | 核心主张 | 克服的传统陷阱 | 关键机制与支撑条件 |

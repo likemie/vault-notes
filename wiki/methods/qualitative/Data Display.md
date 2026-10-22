@@ -50,11 +50,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Data Display
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 数据展示（Data Display）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]的核心支柱，指以系统化、视觉化和压缩的方式组织信息，旨在[[Assemblage\|组装]]信息以支持推论得出与行动决策。人类[[Working Memory\|工作记忆]]在处理连续长篇非结构化文本时存在严苛的认知负荷瓶颈；数据展示通过矩阵（matrices）、表格（tables）、网络图（networks）和因果链等空间化[[Externalization\|外化]]工具，将分散于多份访谈、[[Field Notes\|田野笔记]]或观察记录中的核心证据并置呈现，使研究者能够一目了然地捕捉组间异同、时序结构与潜在规律。数据展示绝非孤立的图表呈现，必须依托多层评注系统（commentary）以完成质性意义转化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 数据展示 vs 连续叙述文本 vs 纯定量图表
 > | 维度 | 本概念（Data Display） | 连续叙述文本（Extended Narrative Text） | 纯定量图表（Quantitative Charts） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | 与推论的关系 | 作为分析工作台与评注载体，直接启发与验证命题 | 易使研究者迷失于细节汪洋，推论往往依赖直觉回忆 | 依据数理统计检验规则做出参数推论 |
 
 ---
-
-## 核心要素
 
 > [!feature] 质性数据展示的四大核心要素
 > - **二维矩阵与表格（Matrices and Tables）** 质性数据展示最基础也是最强大的形式。包含个案排序矩阵（case-ordered）、时间排序矩阵（time-ordered）、角色排序矩阵（role-ordered）和概念交叉矩阵（concept-ordered，如理科与文科学生在科学与音乐课程中的态度交叉呈现）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
@@ -138,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +145,6 @@ updated: 2026-10-22
 > - **2014 — 数字时代的质性可视化扩展** Miles、Huberman & Saldaña（2014）结合[[Qualitative Computer Software\|质性数据分析软件]]（CAQDAS）对数据展示进行现代化更新，探索了交互式网络图与多维动态矩阵的应用前景。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -31,8 +31,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# University of Waterloo Global Futures Framework
-
 > [!info] 背景
 > 全球未来框架（Global Futures Framework）是滑铁卢大学于 **2022 年**发布的跨学科战略框架，旨在通过跨学科方法加速大学的教育项目、研究和创新活动中的合作机会([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.244]])。
 

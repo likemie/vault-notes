@@ -50,11 +50,7 @@ created: 2026-10-18
 updated: 2026-10-22
 ---
 
-# Thomas Fuchs
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国身体[[Phenomenology|现象学]]家、精神病学家与哲学家，海德堡大学精神病学诊所哲学与精神病学研究部主任、卡尔·雅斯贝尔斯哲学与精神病学讲席教授（Karl Jaspers Chair）。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2006 — *Neuromythologien: Mutmaßungen über die Bewegkräfte der Hirnforschung*** 剖析神经科学狂热背后的哲学硬伤，指出试图通过脑成像图谱直接定位心智属于典型的[[Category Mistake|范畴错误]]。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 5)]]
 > - **2009 — *Das Gehirn—ein Beziehungsorgan: Eine phänomenologisch-ökologische Konzeption*** 首次系统确立大脑作为“关系器官”，在具身机体与环境、自我与他者之间扮演双向循环中介角色，突破了孤立中央处理器的传统假设。
@@ -88,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 将大脑界定为生命机体与世界进行双向生态中介的“关系器官”（Organ of Relations）。意识与学习根植于鲜活生命在真实环境中的具身行动（Embodied Action），无法直接还原为神经元微观突触的放电反应；试图以脑扫描和神经指标遥控教育与人类意义建构的努力，混淆了物理机制与存在体验。
 
 > [!citation-card] [[Ecology of the Brain|大脑作为关系器官]]与反抗神经还原论
@@ -100,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了 4E 认知科学（Embodied, Embedded, Enacted, Extended）与欧陆胡塞尔—梅洛-庞蒂身体[[Phenomenology|现象学]]的融合，为批判当代神经狂热（Neuro-hype）提供了严密的学理框架。
 > - **教育哲学路径** 成为斯蒂恩·内佩尔·拉森（[[Steen Nepper Larsen]]）等[[Critical Pedagogy|批判教育学]]家重构教学[[Ontology|本体论]]的基石，启发了“具身化—延展辩证法”，抵御将教学降维为脑测验指标的绩效主义改革。
 > - **主体间性研究** 与德耶格尔提出的[[Participatory Sense-Making|参与式意义建构]]（[[Participatory Sense-Making]]），深远改变了发展心理学、教育交往论与自闭症交互机制的解释[[Paradigm|范式]]。
@@ -119,8 +109,6 @@ updated: 2026-10-22
 > - **批判对象** 神经中心主义（Neurocentrism）与计算主义心智哲学 — 福克斯持续批判将人脑视为独立算法黑箱的[[Positivism|实证主义]]研究取向。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

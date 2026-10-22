@@ -63,11 +63,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Philip Foster
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英裔美籍比较教育学家、教育社会学家，芝加哥大学教育与社会学系教授兼比较教育研究中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]）副主任，后任纽约州立大学奥尔巴尼分校杰出教授；曾任美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）主席（1979–1980 年）。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 > - **2008 年** 逝世于美国，享年 81 岁。
 
 ---
-
-## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
 > - **1960 年代初 — 经验社会学宣示与历史学派清算阶段** 直面战后第三世界去殖民化独立浪潮，倡导比较教育学与传统人文学科彻底割裂，转向以社会学为核心的[[Scientific Method|经验科学]]。
@@ -167,8 +161,6 @@ updated: 2026-10-22
 > | **合法化借口批判命题** | 客观中立实证模型充当了冷战技术援助与国家五年计划的政治合法化工具 | 比较认识论反思、发展援助政策批评 | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 
 ---
-
-## 学术争议与方法论交锋
 
 > [!debates] 学术争议
 >

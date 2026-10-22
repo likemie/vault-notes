@@ -26,8 +26,6 @@ created: 2026-05-20
 updated: 2026-10-22
 ---
 
-# Self-Entrepreneur
-
 > [!info] 定义
 > 自我企业家（self-entrepreneur / entrepreneurial self）是 Bröckling（2015）在 Foucault [[Governmentality\|治理术]]理论脉络中提出的新自由主义主体性概念，指个体将自身视为一个需要持续投资、优化和营销的企业。这种主体性不以具体技能的掌握为核心，而是以**自我引导的模式（modes of self-conduct）**——即主体性本身——作为生产的来源（Reed, 2009, p.33, cit. by Zelinka, 2022, p.261）。
 

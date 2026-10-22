@@ -38,11 +38,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Establishing One's Will
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 立志（lizhi, establishing one's will）是 Li 在中国学习模型中识别的四种正面学习情感之一——确切地说，它兼具情感和目的双重属性。立志指学习者在青少年阶段（通常为中学时期）开始思索人生目的，形成清晰的个人愿景（志向 zhixiang 或抱负 baofu），从而找到具体的学习方向和投入精力的目标([[Argument_Li_2012_Cambridge\|Li, 2012, p.94]])。
 
 > [!quote|notitle]

@@ -91,7 +91,6 @@ status: draft
 created: 2026-07-22
 updated: 2026-10-22
 ---
-# Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21
 
 ---
 
@@ -101,7 +100,6 @@ updated: 2026-10-22
 
 
 
-#### 概念地图
 > [!knowledge-map] 第21章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_21_Concept_Map.jpg)
 
@@ -705,8 +703,6 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 
 ---
 
-#### 阶段六与七：验证与报告
-
 > [!chain-link] 验证须贯穿全部七阶段（Kvale（1996, p. 237））（p.454）
 > - **理论基础** 严谨，理论与研究问题之间有逻辑联系
 > - **研究设计** 所有方面健全严谨
@@ -1003,8 +999,6 @@ Parker and Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体
 > 可能需要：有人陪同、留下去向信息、携带手机、事先侦察周边环境、学习如何应对凶猛的狗（p.477）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] Kvale 论访谈的交互主体性
 > 访谈不是专门主观的，也不是专门客观的——它是主体间的（Laing（1967, p. 66））。访谈使参与者能够讨论他们对所生活的世界的解释，并表达他们从自身立场出发如何看待情境。由此看来，访谈不只是收集关于生活的数据，它本身就是生活的一部分，人际嵌入性贯穿始终。（第21章, p.409）

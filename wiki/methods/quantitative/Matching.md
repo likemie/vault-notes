@@ -50,8 +50,6 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-## 定义
-
 > [!def] 匹配的双重含义
 > 匹配（Matching）在教育研究方法论中有两种不同但互补的用途（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）：
 >
@@ -65,8 +63,6 @@ updated: 2026-10-22
 > - **[[Unit of Analysis\|分析单位]]** 个体参与者——通过配对使成员在匹配变量上相似。
 > - **输出形式** 匹配后的平衡检验、匹配样本的比较分析。
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]定位
 > - **知识观** 匹配隐含[[Counterfactual\|反事实]][[Causality\|因果推断]]立场：如果能找到在处理前协[[Variable\|变量]]分布相同的两组主体，则两组结果的差异可归因于处理本身。这要求"自然进行的等效于在给定一组协变量条件下的随机实验"([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.198]])。
 > - **与[[Random Assignment\|随机化]]的关系** 随机化在**全部变量**（已知和未知）上产生等价性；匹配只在**少数命名变量**上产生等价性。Smith (1991, p. 215) 明确指出：匹配在排除替代因果解释方面**远不如随机化（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 323]]）**。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > - **数据收集** 处理组和对照组的协变量数据 + [[Dependent Variable\|结果变量]]数据。
 > - **分析方法** [[Propensity Score Matching\|倾向得分匹配]]（PSM）、精确匹配、马氏距离匹配；匹配后通过标准化均值差（SMD）评估平衡。
 > - **辅助技术** 敏感性分析（Rosenbaum bounds）评估未观测混杂因素的影响。
-
-## 研究程序
 
 > [!proc] 观察性研究中的匹配步骤
 > 1. **确定匹配[[Variable\|变量]]** 选择用于匹配的协变量，关键操作原则是——匹配变量的选择**不参考[[Dependent Variable\|结果变量]]**。[[Argument_Berk_2011_EvalRev\|Berk (2011, p.198)]] 强调："匹配变量的集合在不参考结果变量的情况下确定。目标是使样本达到平衡，为此，结果变量可以被锁在保险箱里。"
@@ -99,8 +93,6 @@ updated: 2026-10-22
 
 > [!info] 资料与分析
 > 匹配后的数据分析需要在匹配样本（而非原始样本）上进行。关键分析步骤包括：检验匹配后两组在协[[Variable\|变量]]上的标准化均值差（SMD < 0.1 通常视为平衡良好）；在匹配样本上估计处理效应（平均处理效应 ATT 或 [[Advanced Technological Education|ATE]]）；通过 Rosenbaum 敏感性分析评估结果对未观测混杂的稳健性。[[Argument_Berk_2011_EvalRev\|Berk (2011, p. 198)]] 强调匹配过程中的[[Dependent Variable\|结果变量]]应"锁在保险箱里"——匹配变量的选择不得参考结果变量，以避免循环论证。
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - 当随机实验不可行、不道德或成本过高时，匹配提供了从观察数据中推断因果效应的替代方法
@@ -123,8 +115,6 @@ updated: 2026-10-22
 > | [[Covariate Adjustment]] | 方法 | 匹配和协[[Variable\|变量]]控制都试图处理第三变量问题；前者通过样本平衡，后者在模型中纳入协变量 |
 > | [[Matched Pairs Design]] | 方法 | 实验设计中的匹配——配对后随机分配，是匹配在真实验中的具体实现 |
 > | [[Non-intervention Research]] | 方法 | 匹配属于在非干预数据中改善因果推断的策略 |
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Berk_2011_EvalRev\|Berk (2011)]] — 将匹配推荐为[[Causal Modeling\|因果建模]]的替代方法，论证其更少依赖不可检验假设，更多受实证诊断约束。

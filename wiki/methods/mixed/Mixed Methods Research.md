@@ -105,11 +105,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Mixed Methods Research
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 混合方法研究（Mixed Methods Research, MMR）的核心特征是在同一项研究或探究同一底层现象的一系列研究中，系统收集、分析并整合量化与质性数据，以获取超越任一单一方法所能交付的额外洞见与更具解释力的结论。它被公认为继[[Quantitative Research\|量化研究]]与[[Qualitative Research\|质性研究]]之后的“第三次方法论运动”（the third methodological movement, Teddlie & Tashakkori, 2009）、“第三种[[Paradigm\|研究范式]]”（the third research paradigm, Johnson & Onwuegbuzie, 2004; Denscombe, 2008）与“第三条道路”（Gorard & Taylor, 2004）。
@@ -177,8 +173,6 @@ updated: 2026-10-22
 > - **至今** 在教育学、公共卫生、组织管理等领域成为复杂实证探究的主流[[Paradigm\|研究范式]]之一（Molina-Azorin & Fetters, 2022）。
 
 ---
-
-## 方法定位与哲学基础
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 以[[Pragmatic Paradigm\|实用主义]]（Pragmatism）为主要认识论支柱，主张实践驱动与有效即真理（Denscombe, 2008; Feilzer, 2010）；承认客观规律（单一物理实在）与主观建构（多重生活世界实在）兼备，破除形而上[[Ontology\|本体论]]二元绝对对立。
@@ -310,8 +304,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景与局限性
-
 > [!method-fit] 适用判断
 > - **适合使用** 适合需要同时探寻宏观统计分布规律与微观主体意义建构的复杂教育议题；适合单靠[[Questionnaire\|问卷]]无法解释异常值、单靠访谈无法推广研究结论的研究情境；高度适用于跨学科与[[Virtual World\|虚拟世界]]探究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, p. 380]]；[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 7]]）。
 > - **谨慎使用** 适合资源有限、周期紧迫的小型项目时应审慎采用；对于[[Epistemology\|认识论]]前提根本对立、无法在操作层实现逻辑互通的理论议题，应避免生硬拼接。
@@ -338,8 +330,6 @@ updated: 2026-10-22
 > | [[Qualitative Research]] | 替代方法 | 专注于自然情境[[Rich and Thick Description\|深描]]、主观意义建构与[[Phenomenology\|现象学]]理解的单一质性路径。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 28]] — 论述混合方法的[[Pragmatic Paradigm\|实用主义范式]]与设计类型；数据收集时序见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch. 7]]，[[Virtual World\|虚拟世界]]研究的应用见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Ch. 19]]。

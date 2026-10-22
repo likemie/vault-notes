@@ -67,11 +67,7 @@ created: 2026-05-04
 updated: 2026-10-16
 ---
 
-# Constructive Alignment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 建构性对齐（Constructive Alignment）是 Biggs 提出的课程与评价系统设计原则。“建构性”指学习者通过主动开展认知与实践活动[[Constructed Knowledge\|建构知识]]意义；“对齐”指教育者围绕预期理解，在课程目标（Intended Learning Outcomes, ILOs）、教学／学习活动（[[Teaching and Learning Activities\|teaching/learning activities]], TLAs）与评估任务（Assessment Tasks, ATs）之间建立内在一致的建构性闭环。[[OECD]] 报告进一步将其拓展为涵盖宏观国家资格框架、中观专业全课程架构与微观课堂真实性考核的多层级对齐工程。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–66)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8)]]
@@ -89,8 +85,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 建构性对齐与相邻概念辨析
 > | 维度 | 建构性对齐 (Constructive Alignment) | [[SOLO Taxonomy\|SOLO 分类法]] | [[Surface and Deep Learning\|表层与深层学习]] | [[Criterion-Referenced Test\|标准参照评估]] |
 > |---|---|---|---|---|
@@ -101,8 +95,6 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
 > [!theory-components] 建构性对齐的四大理论构件
 > - **学生主动建构意义（Constructive Aspect）** 学习质量取决于学生如何主动组织、应用、检验和批判知识；教师无法将理解直接灌输给学生，只能通过创设适切的任务情境激发相应心智活动。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]
 > - **用可观察的表现界定目标（Aligned ILOs）** 课程目标必须用具体的认知动词清晰表述（如“能提出假设并设计对照实验”、“能辨析相互冲突的论据”），而非模糊列出所要覆盖的知识点。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64–67)]]
@@ -110,10 +102,6 @@ updated: 2026-10-16
 > - **[[Criterion-Referenced Test\|标准参照]]的定性评价（Aligned ATs）** 考核任务必须直接要求学生在真实情境中展示目标表现，并依据公开的定性量规判断表现质量，彻底摒弃破坏对齐的常模曲线评分。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64–68)]]
 
 ---
-
-## 操作化框架与多层级架构
-
-### 经典三项设计决策与对齐网络
 
 > [!proc] 经典建构性对齐的三项设计决策
 > 1. **明确预期学习结果（ILOs）** 运用认知动词界定学生完成学业后应达到的理解质量与高阶能力。
@@ -229,8 +217,6 @@ updated: 2026-10-16
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -243,8 +229,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 建构性对齐理论演进五阶段
 > - **1993—1996 年：系统教学观与建构性对齐萌芽** Biggs 将学生学习、教学情境与评估理解为相互作用的非线性系统，1996 年正式提出“建构性对齐”概念。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, p. 64)]]
 > - **1999 年：微观课程操作框架完整化** Biggs 发表经典论文，整合[[Constructivist Paradigm\|建构主义]]、目标动词、[[Criterion-Referenced Test\|标准参照评估]]、[[SOLO Taxonomy\|SOLO]] 质量阶梯与[[Assessment Backwash\|评估反拨]]，奠定全球高等教育课程设计的理论基石。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–73)]]
@@ -253,8 +237,6 @@ updated: 2026-10-16
 > - **2020 年代至今：多层级治理与全课程[[Authentic Assessment\|真实性评价]]重塑** [[OECD]] 报告（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）反思模块化过度考核弊端，倡导通过 [[TESTA Project\|TESTA]] 全专业整合、VALUE 量规校准及国家资格框架联动，构建现代[[Higher-Order Thinking Skills\|高阶思维]]培养的多层级对齐生态。
 
 ---
-
-## 争议与批评
 
 > [!tension] 教学方法形式命名　⇄　实际对齐机制的实证检验
 > - **Biggs 的机制论证** PBL 能够使专业目标、[[Problem Solving\|问题解决]]活动和案例评估保持一致，因此是自上而下对齐的典型案例。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 70–72)]]
@@ -267,8 +249,6 @@ updated: 2026-10-16
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 高等教育对齐机制与[[Learning Gain\|学习增益]]实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -280,8 +260,6 @@ updated: 2026-10-16
 > | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, p. 88)]] | 全球教育[[Intervention Research\|干预研究]] | 元分析效应量整合 | 指向下一步改进的反馈 ([[Feedback]]) 效应 | $d = 0.73$ | 证实对齐的形成性反馈循环是推动深层学习的核心机制 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 建构性对齐理论的奠基性文献，系统阐明目标动词、活动选择、[[Criterion-Referenced Test\|标准参照评估]]、[[Assessment Backwash\|评估反拨]]及 PBL 与档案袋双路径。

@@ -39,7 +39,6 @@ status: draft
 created: '2026-05-01'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Julie Nelson 是英国 NFER 研究者。当前 vault 中最值得记录的，不是她的机构头衔本身，而是她在 [[Evidence-Informed Practice]] 的概念整合、测量工具开发和[[Research Utilization\|研究使用]]经验化方面的作用([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp.127–133]])。

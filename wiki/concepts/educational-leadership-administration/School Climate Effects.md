@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# School Climate Effects
-
 > [!metax] [学校氛围 · School climate effects](https://www.visiblelearningmetax.com/influences/view/school_climate_effects)
 > 学校 › 领导
 >

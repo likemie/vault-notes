@@ -56,11 +56,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Marcia C. Linn
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国加州大学伯克利分校（UC Berkeley）教育研究生院发展与认知科学荣休教授，美国国家教育[[Chinese Academy of Sciences|科学院]]（NAEd）院士，[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）会士，国际学习科学学会（ISLS）杰出贡献者。
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980–1990 年代 — 认知发展与[[Scaffolding\|脚手架]]探究雏形** 反思[[Jean Piaget\|皮亚杰]]形式运算阶段论，强调青少年的科学推理能力高度受情境表征与脚手架调节。
 >   - **代表著作** *Computers, Teachers, Peers: Science Learning in the City of the Future* (2000, 与 P. Hsi 合著).
@@ -97,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 学生并不是带着空白的大脑走进科学课堂的，他们对自然现象早已形成了一套丰富但碎片化的直觉观点。传统[[Direct Instruction\|直接教学]]企图用现成标准公式简单覆盖这些直觉，往往只产生僵化而脆弱的短期应试记忆；真正的[[Scientific Literacy\|科学素养]]培育必须依托“[[Knowledge Integration\|知识整合]]”（Knowledge Integration）流程——通过交互微世界让隐性规律可视化，引导学生主动呈现自身观念、对比冲突证据并修正心理模型，方能实现持久的概念转变。
 
 > [!citation-card] 论知识整合与技术增强探究的课堂实效

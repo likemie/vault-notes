@@ -38,11 +38,7 @@ created: 2026-08-01
 updated: 2026-10-22
 ---
 
-# Mis-educative Experience（反教育经验）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **反教育经验（Mis-[[Educative Experience]]）** 是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中提出的阻碍性经验概念。它指具有截断、停滞或扭曲未来经验生长品质与方向效果的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–31)]]
@@ -72,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **生长的截断性（Arresting Growth）** 经验削弱了个体应对未来新情境的灵活度与敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 > - **获取原则的恶性循环（Principle of Acquisition）** 自上而下的灌输无法引发内在难题，只能通过镇压身体活动维持秩序。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 35)]]
 > - **讲述病（[[Narration Sickness]]）** 符号与事实脱离现实语境，导致知识与生活的撕裂。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 44)]]
@@ -107,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -121,8 +113,6 @@ updated: 2026-10-22
 > - **2009 — 案例解构应用** Darwish 运用该概念解构工业时代学校机器对学生身体活动的镇压与纪律难题。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 34–35)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 识别反教育经验需要教育者具备对社区资源与儿童心理发展的深刻洞察；若缺少专业指导，自由放任的经验活动也可能演变为无理智挑战的消遣性反教育经验。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 31–32)]]

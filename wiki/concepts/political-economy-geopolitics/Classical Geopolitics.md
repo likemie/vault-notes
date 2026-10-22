@@ -66,11 +66,7 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-# Classical Geopolitics
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **古典[[Geopolitics|地缘政治]]（Classical Geopolitics，亦称传统地缘政治）** 是指以主权民族国家为基本[[Unit of Analysis|分析单元]]、聚焦硬性领土权力与势力范围划分的传统地缘政治[[Paradigm|范式]]。该范式涉及划定国家法定边界、将民族塑造为确定疆界、通过空间性强制技术构建国内秩序、依托军事技术控制陆海空关键战略空间，并为国家的领土与资源主张提供地理与历史合法性辩护。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 25–26)]]
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 古典[[Geopolitics|地缘政治]]与[[New Geopolitics|新地缘政治]]的[[Paradigm|范式]]对比
 > | 维度 | 古典地缘政治（Classical Geopolitics） | 新地缘政治（New Geopolitics） |
 > |------|--------------------------------------|------------------------------|
@@ -109,9 +103,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **空间实在论与领土容器观（Spatial Territorialism）** 将地理空间视作天然存在的客观容器与物理承载物，强调划定边界、占领战略通道（海峡、铁路走廊）与掠夺自然资源是维护国家安全的基石。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 25–26)]]
 > - **社会有机体与生存空间假定（Organic State Concept）** 承袭拉策尔等人的有机体隐喻，断定国家生命力依赖地理疆域的持续维持与空间延展，空间被天然设定为列强争霸的角力场。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4)]]
 > - **[[Hard Power|硬实力]]优先与军事安全导向（Hard Power Primacy）** 国家权力的根本通货体现为武装力量、战略要塞管控以及通过强制手段建立势力范围，文化与教育交流处于被动动员与从属地位。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 90–91)]]
@@ -173,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 分析焦点 | 代表学者 |
 > |---|---|---|---|
@@ -192,8 +182,6 @@ updated: 2026-10-22
 > - **1990s 至今 — 批判地缘转向、科技阵营化与[[South-South Cooperation|南南合作]]挑战** 知识社会学推动批判与[[Relational Space|关系性空间]]转向；但在现实政治中，大国竞争使古典领土势力划分在半导体与跨国高科产业链中死灰复燃，同时遭遇新兴大国倡导的南南互利共赢与文明互鉴合作[[Paradigm|范式]]的深层对冲。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]; [[Argument_King_2020_ECNUROE|(King, 2020, pp. 231–233)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

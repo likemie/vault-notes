@@ -67,11 +67,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Joel Samoff
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较教育学家、政治学学者与非洲发展研究权威，斯坦福大学非洲研究中心（Center for African Studies）兼任教授。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1990 — *Education and Social Transition in the Third World***（与[[Martin Carnoy|马丁·卡诺伊]]合著）剖析第三世界转型社会中革命政权如何运用学校制度重构意识形态统识，以及全球依附经济对教育改革的根本约束。[[Argument_Olmos_Torres_2009_StateTheories|(Carnoy & Samoff, 1990; Olmos & Torres, 2009, p. 75)]]
 > - **1990 — *More, Less, None? Human Resource Development: Responses to Economic Constraint*** 揭露[[World Bank|世界银行]]等金融机构推行所谓稳定化与[[Structural Adjustment Programs|结构调整方案]]时概念含糊不清、口径反复摇摆的政治本质。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 萨莫夫的核心思想在于**彻底揭露国际资本与技术官僚通过垄断[[Knowledge Production|知识生产]]实施的新型跨国统识**。他指出，以[[World Bank|世界银行]]为代表的国际金融组织绝非中立的资金借贷通道，而是一个高度一体化的[[Financial-Intellectual Complex|金融-智识复合体]]：它通过长期高薪聘用符合其意识形态的受雇专家，独尊新古典经济学的成本收益与生均收益率模型，将具有强烈阶级偏向的新自由主义紧缩处方包装为“客观唯一真理”，进而剥夺了全球南方国家自主定义教育发展优先级的制度主权。
 
 > [!citation-card] 世界银行放贷逻辑中技术官僚工具理性的铁板一块
@@ -128,9 +120,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 提出的[[Financial-Intellectual Complex|金融-智识复合体]]成为国际比较教育与全球教育治理领域不可或缺的核心[[Analytic Framework|分析框架]]，为解构全球教育[[Policy Borrowing|政策借用]]与规训提供了强有力的概念武器。
 > - **方法路径** 倡导深度制度[[Ethnography|民族志]]与援助政治经济学批判，追踪资助资金流向与政策研究[[Discourse|话语]]生产之间的因果链条，开创了对国际多边机构开展“[[Researching Up and Researching Down|向上研究]]”（Studying Up）的方法先河。
 > - **政策路径** 深度参与[[UNESCO|联合国教科文组织]]与非洲本土智库的政策反思，其学术成果直接推动了受援国对国际金融机构“附加条件”的合法性质疑与政策自主权争取。
@@ -149,8 +139,6 @@ updated: 2026-10-22
 > - **学科史编纂与评述者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] — 在学科反思中将卡诺伊与萨莫夫的转型国家研究定性为第四代批判宏观[[Paradigm|范式]]的经验代表。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -63,11 +63,7 @@ created: 2026-05-07
 updated: 2026-10-22
 ---
 
-# Jane Knight
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 简·奈特（Jane Knight），加拿大多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, University of Toronto）[[International Education|国际教育]]与比较高等教育学者。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990 年代–2000 年代中叶 — [[Internationalization of Higher Education|高等教育国际化]]界定与跨境[[GATS and Trade in Education Services|教育服务贸易]]** 致力于廓清国际化的概念边界，应对全球化浪潮中高等教育的多维转型与商业化挑战。
 >   - **代表著作** *Higher Education in Turmoil: The Changing World of Internationalization* (2008)。
@@ -105,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 跨境高等教育与科研合作不仅是经济创收与国家对外投射影响力的工具，更是以学术互动建立跨国互信、实现共同发展的独立领域；面对全球危机，国际社会必须跳出追求单向政治支配与利己主义的[[Soft Power|软实力]]思维，依托互信、互惠、透明与多元主体协同的[[Knowledge Diplomacy|知识外交]]机制，在相互依存的国际秩序中寻求共同利益交集。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–194)]]
 
 > [!citation-card] 简·奈特论知识外交的非零和互惠本质
@@ -122,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了[[Knowledge Diplomacy|知识外交]]概念体系，为国际高等教育研究提供了区别于国际关系现实主义权力博弈的规范性解释工具；其[[International Education Hubs|国际教育枢纽]]三类型学成为分析跨境高教空间集聚的基础模型。
 > - **方法路径** 建构了涵盖意图、行动者、原则、模式与活动的五要素[[Analytic Framework|分析框架]]，为质性多[[Case Study|案例研究]]与跨国政策比较提供了可[[Operationalization|操作化]]的判读维度。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 > - **政策路径** 其学术定义广泛进入[[OECD|经合组织]]（OECD）、[[UNESCO|联合国教科文组织]]（UNESCO）与各国高教主管部门政策文献，深刻影响了新加坡、马来西亚、阿联酋等国建设区域教育枢纽的战略规划。
@@ -145,8 +135,6 @@ updated: 2026-10-22
 > - **关联机构与网络** [[University Alliance of the Silk Road|丝绸之路大学联盟]]（[[University Alliance of the Silk Road|UASR]]） — 其[[Knowledge Diplomacy|知识外交]]框架被广泛用于审视该跨国多边大学网络及下属专业工程办学实践。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 189–190)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

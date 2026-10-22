@@ -64,11 +64,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Public Dynamic Capabilities
-
 ---
-
-## 定义与核心内涵
 
 > [!def] 核心定义
 > **公共部门动态能力（Public Sector Dynamic Capabilities / Public Dynamic Capabilities）** 是指公共机构（包括政府部门、国家战略资助机构、公立大学与科研管理部门）在直面高度技术与社会不确定性时，主动识别宏观战略转型方向、调动跨部门协同资源、开展敏捷实验与风险组合管理，并在持续试错中实现制度化吸收与组织学习（Institutional Learning）的系统性组织能力。该概念由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统提出，旨在打破[[New Public Management|新公共管理]]（New Public Management, NPM）将政府仅视为被动采购者与外包监管者的局限，确立公共部门作为创新第一推动者与[[Market Shaping and Creating|市场共创]]者的能力底座。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **宏观制度视阈** 将公共部门从新古典经济学防范腐败的静态科层控制，重塑为具备反思学习、能够主动开辟全新[[Technological Trajectories|技术轨道]]并创造[[Public Value|公共价值]]的企业型国家载体。
 
 ---
-
-## 概念辨析与维度对比
 
 > [!contrast-table] 传统科层/[[New Public Management|新公共管理]]能力观与使命导向公共动态能力观对比
 >
@@ -100,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题与机制分析
-
 > [!concept-proposition] 命题一｜公共部门动态能力是两种学术传统在[[Evolutionary Economics|演化经济学]]视阈下的理论综合
 > **解释** 既有研究长期存在两套割裂的传统：一是探讨企业在不确定环境中如何兼顾利用现有优势与探索未来机会的[[Joseph Schumpeter|熊彼特]]式双元动态能力传统（Teece & Pisano, 1994; March, 1991）；二是聚焦官僚功绩制与[[Embedded Autonomy|嵌入式自主性]]的韦伯式国家能力传统（Evans & Rauch, 1999; Johnson, 1982）。[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将二者综合为公共部门动态能力：动态能力是存在于国家、政策与行政各层级能力内部的技能与例规，而包含媒体、选民、利益集团与制度制衡在内的社会政治反馈机制构成了能力演进的选择环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
@@ -119,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 演进历程与治理转型
-
 > [!dev-timeline] 公共部门能力理论的演进阶段
 >
 > - **第一阶段（1997 年）：私营企业动态能力理论奠基** 戴维·蒂斯（David Teece）等提出动态能力理论（Dynamic Capabilities），强调私营企业在快速变化环境中感知、捕获并转化资产以维系竞争优势的能力。
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > - **第三阶段（2018 年至今）：使命导向公共部门动态能力确立** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]在《工业与企业变革》专刊中系统将动态能力引入公共治理，奠定涵盖国家合法性、政策协调与行政敏捷性的动态能力理论，并提出从“支持与衡量”转向[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 
 ---
-
-## 争议焦点与局限反思
 
 > [!debates] 核心学术争议与张力
 >

@@ -35,11 +35,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Cult of Optionality
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 选择权崇拜（Cult of Optionality）是指受过高等教育的当代精英青年与专业阶层将“保留选择权”（Preserving Optionality）与追求最大灵活性奉为首要生存法则，在学术研究、职业规划、政治参与乃至伦理道德生活中，系统性回避做出排他性的不可逆承诺（Irreversible Commitments）、避免树敌或亮明争议性立场的心态与行为机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–70)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **创新抑制命题** | 拒绝排他性承诺与风险承担阻碍颠覆性创新与心智成熟 | 青年创业、科研攻关、领导力培育 | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025)]] |
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 哈佛大学毕业生进入金融与咨询业的长期演变趋势
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

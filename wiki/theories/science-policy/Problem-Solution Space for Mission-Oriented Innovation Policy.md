@@ -58,13 +58,9 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Problem-Solution Space for Mission-Oriented Innovation Policy
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** [[Mission-Oriented Innovation Policy|使命导向创新政策]]（Mission-Oriented Innovation Policy, MIP）在应对复杂社会挑战时，如何识别社会问题与创新解决方案两端的特征错位，并通过差异化的政策路径推动两者走向合法化收敛。
 > - **理论问题** 回应既有使命政策文献过度预设问题共识明确且技术方案可行（即阿波罗登月式的工程确定性思维）、忽视重大社会系统转型中价值撕裂、部门管辖冲突与认知未知的理论盲区。
 > - **理论类型** 属于中观制度[[Analytic Framework|分析框架]]与政策过程理论（Policy Process Theory）。
@@ -75,15 +71,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 伊里斯·万岑伯克（Iris Wanzenböck）、约里·韦瑟林（Joeri H. Wesseling）、科恩·弗伦肯（Koen Frenken）、马尔科·赫克特（Marko P. Hekkert）与 K. 马蒂亚斯·韦伯（K. Matthias Weber）于 2020 年在期刊 *Science and Public Policy* 发表论文 *A framework for [[Mission-Oriented Innovation Policy]]: Alternative pathways through the problem–solution space*，首次系统构建该理论模型。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–489)]]
 > - **原初问题** 各国创新政策在转向气候变化、能源转型和公共卫生等[[Grand Challenges|重大挑战]]时，普遍遭遇公众抵触、社会合法性缺失与[[Path Dependence|技术锁定]]等制度瓶颈，学界缺乏能够诊断挑战属性并指导政策工具组合选择的系统[[Analytic Framework|分析框架]]。
 > - **理论资源与材料** 吸收了 Turnpenny et al.（2009）关于[[Wicked Problem|棘手问题]]三维度（争议性、复杂性、不确定性）的提炼，结合[[Systems of Innovation|创新系统]]中的[[Transformative System Failures|变革性系统失灵]]概念，并运用英国闭路电视监控（Closed-Circuit Television, CCTV）、公共场所禁烟规制以及荷兰陆上风电治理等案例进行比较论证。
 > - **形成路径** 将公共问题端与创新解决方案端分别做发散与收敛的二分处理，构建 $2 \times 2$ 象限空间，并在静态分类基础上引入时间演化与治理干预向量，推导出三条动态收敛路径。
-
-### 理论渊源与思想演进
 
 > [!thought-timeline] 使命导向创新政策理论的[[Paradigm|范式]]演进
 > - **经典工程使命范式（1960s–1980s）** 以阿波罗登月计划和[[Manhattan Project|曼哈顿工程]]为代表，预设目标共识高度统一、技术可行性清晰且政府作为单一采购方，聚焦自上而下的硬技术工程攻坚。
@@ -92,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 关键概念与理论构件
-
-> [!entry-map|notitle]
+> [!entry-map] 关键概念与理论构件
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -152,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜重大社会挑战的治理难度取决于问题与解决方案在争议性、复杂性与不确定性上的联合分布
 > **解释** 社会挑战不能被简单视作同质的技术攻坚任务。政策分析者必须独立评估[[Problem Finding|问题界定]]与解决方案在规范争议（利益与价值观冲突）、系统复杂性（跨领域多部门管辖交织）及[[Scientific Uncertainty|认知不确定性]]（科学证据与未来预测局限）三个维度上的发散程度。只有当两端均实现收敛（共识形成、结构清晰、证据充分）时，创新方案才能获得社会合法性并有效扩散。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–480)]]
 >
@@ -177,15 +165,11 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 某项国家或区域重大使命战略在推进过程中为何受阻？其所采用的政策工具组合是否与挑战在空间中的初始坐标及演化路径相适配？
 > - **分析对象与单位** 国家重大战略工程、跨部门创新专项、区域低碳试验区或重大科技基础设施的政策治理过程。
 > - **需要的材料** 政策文本与规划纲要、议会审议记录、民意调查数据、科技评估报告、行业准入法规、利益相关方访谈与多方协商协议。
 > - **解释目标** 精准诊断政策阻力究竟源于问题端价值伦理撕裂还是方案端[[Path Dependence|技术锁定]]，识别当前路径偏离并提出工具组合重构策略。
-
-### 分层维度与末级指标体系
 
 > [!theory-hierarchy] 分层维度与末级指标
 > - **D1｜社会问题端棘手性评估**
@@ -252,8 +236,6 @@ updated: 2026-10-22
 > | **治理路径匹配度判读**<br>[[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020, pp. 481–485)]] | 当前政策采取的工具组合是否符合其收敛路径特征？ | 专家委员会与立法（问题导向）、[[Regulatory Sandbox\|监管沙盒]]与采购（方案导向）、共治协议（混合演化）。 | 若在问题高度争议时强推单一技术采购，判定存在方向性失灵与合法性赤字。 |
 > | **反思性治理能力评估**<br>[[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020, pp. 485–487)]] | 政策体系是否具备动态反馈、小胜累积与防止路径锁定的纠偏机制？ | 阶段性评估制度、公民参与渠道、多元技术备选库、转向退出条款。 | 若缺乏纠偏通道且忽视替代方案，判定存在制度僵化与锁定风险。 |
 
-### 整体分析示例
-
 > [!exegesis]- 从理论到材料的一次完整政策诊断分析
 > - **现象与问题** 某国政府拟推行一项国家级“智慧交通与自动驾驶出行使命”，但政策出台后遭遇公众对数据隐私和路权挤占的强烈质疑，行业投资热潮与社会冷淡形成剧烈反差。
 > - **维度与材料**
@@ -274,8 +256,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 理论争议
 >
 > > [!axis] 路径时序的理想化与真实政治的非线性博弈
@@ -289,8 +269,6 @@ updated: 2026-10-22
 > > - **[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020, pp. 485–486)]]** 强调方案导向路径在现实中确实面临最高的合法性风险，因此更需要嵌入[[Reflexivity|反思性]]评估与[[Public Value|公共价值]]对齐机制，防止陷入[[Path Dependence|技术锁定]]。
 
 ---
-
-## 理论演进与应用研究
 
 > [!evidence-grid-a] 应用研究索引
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 原始提出文献，运用公共场所禁烟、闭路电视监控与荷兰陆上风电三大经典案例系统论证了二维空间框架与三条收敛路径的解释力。

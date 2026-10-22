@@ -67,11 +67,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Stephen P. Heyneman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名比较教育与[[International Education|国际教育]]政策学者，范德堡大学皮博迪教育学院荣休讲席教授，[[World Bank|世界银行]]教育与社会政策前资深首席专家（1976–1998），[[Comparative and International Education Society|比较与国际教育学会]]（CIES）前主席。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970s–1980s — [[School Effectiveness|学校效能]]与[[Development Education|发展中国家教育]]投入实证** 聚焦低收入国家教育供给的客观约束，主张增加学校物质资源配置。
 >   - **代表著作** "The effect of primary-school quality on [[Academic Achievement]] across twenty-nine high- and low-income countries" (1983, with W. Loxley)。
@@ -109,9 +103,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育的根本社会价值绝不能被简化为新古典经济学的生产函数或简单的个人收益率计量；[[World Bank|世界银行]]等国际金融机构在 20 世纪后半叶将经济学家的数学模型定为跨国贷款硬性指标，不仅抹杀了各国独特的历史、文化与政治情境，而且通过强行推行财政紧缩、用户付费与盲目削减高等教育投入，严重损害了发展中国家的长期制度建设能力与教育民主根基。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 > [!citation-card] 海尼曼论世界银行教育政策制定的历史问题
@@ -140,8 +132,6 @@ updated: 2026-10-22
 > - **机构渊源** [[World Bank]]——任职二十余年的核心机构，也是其后半生学术反思的主要客体。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

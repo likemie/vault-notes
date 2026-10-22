@@ -69,11 +69,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Efficacy Trial
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **效力试验（Efficacy Trial，或功效检验）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）阶梯式评估管线中的初阶因果验证设计。其核心目标在于检验：某项教育干预或教学法方案在**高度理想化、严格受控、且由方案研发者提供高频密集督导与资源支持**的特权条件下，“能否在统计学上产生预期的因果效应”（即回答“Can it work under ideal conditions?”）。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 > *“A smaller [[Study Population and Sample\|study sample]] allows for more intensive guidance, monitoring, and engagement by the intervention provider, thus maintaining control over the implementation process... Developers can directly deliver training and resolve classroom issues in real time.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 坚持[[Pragmatism in China\|实验主义]][[Counterfactual\|反事实]][[Causality\|因果推断]]。认为在探索全新教学法时，首要任务是排除现实杂音，在尽可能纯净的微观环境中证明“活性成分（Active Ingredients）”具备真正的因果效力。
@@ -120,16 +114,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **建立[[Theory of Change\|变革理论]]与提炼活性成分** 清晰界定干预方案的理论机制，对照 [[TIDieR]] 清单编制详尽的标准化教学材料、脚本与教研手册。
 > 2. **小范围招募与分层[[Random Assignment\|随机分配]]** 招募 20–40 所具有基本合作意愿的试点学校，在完成学生基线测验后，由独立评估团队执行随机分配。
 > 3. **研发专家亲自交付与高强度督导** 方案开发者直接承担教师培训面授课程，并深入教室提供现场听评课与即时纠偏，维持最大化的[[Implementation Fidelity\|实施保真度]]。
 > 4. **[[Blinding\|盲法]]终点测试与数据采集** 在学年结束时由评估团队派遣盲法施测员开展[[Pre-test and Post-test\|后测]]，收集学生学业与非认知数据。
 > 5. **估计理想状态[[Effect Size\|效应量]]与可行性准入判定** 拟合[[Covariate Adjustment\|协变量调整]]模型估计效应量；若达到 3 把挂锁以上且效应显著，方可准入晋级规模化[[Effectiveness Trial\|实效试验]]。
-
-### 量化分析模块
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** 学生嵌套于班级、学校的两层嵌套横截面前后测数据。
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 检验新近研发的创新教学法、学科软件或认知干预模型是否具有因果效力；
@@ -164,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **偏误来源**
 >   - **[[Hawthorne Effect\|霍桑效应]]与研发者狂热（[[Evaluator Independence\|developer bias]]）** 方案原作者的亲自下场往往带来极强的感染力与额外关注，使得即时效应中混合了不可复制的个人魅力与主观情绪提振。
@@ -174,8 +160,6 @@ updated: 2026-10-22
 > - **补救方式** 必须将效力试验定位为研发管线中的“中间阶梯”而非“终极结论”；强制要求后续开展大规模独立实效试验。
 
 ---
-
-## 典型应用案例
 
 > [!case] [[Thinking, Doing, Talking Science\|TDTS]] 科学教学效力试验（Hanley et al., 2015）
 > 在英国“思考、动手、对话科学”（TDTS）项目中，42 所小学的效力试验由牛津布鲁克斯大学原作者亲自提供 5 天面对面督导，五年级学生科学统考成绩显著提振 $+3$ 个月（$d = +0.22, p < .05$），弱势学生更达 $+8$ 个月（$d = +0.38$），以 4 把挂锁安全级别确立了卓越的因果效力。然而该项目在后续扩大至 205 所学校的[[Effectiveness Trial\|实效试验]]中效应降为零，成为证明效力试验不能替代实效试验的典型范例（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
@@ -194,8 +178,6 @@ updated: 2026-10-22
 > | [[EEF Padlock Security Rating]] | 评价标准 | 英国 [[Education Endowment Foundation\|EEF]] 评估效力试验数据安全等级的准入指标。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述英国 [[Education Endowment Foundation\|EEF]] 三级资助体系中效力试验向[[Effectiveness Trial\|实效试验]]演进的制度逻辑，反思大样本统计功效与[[Implementation Fidelity\|实施保真度]]的内在张力。

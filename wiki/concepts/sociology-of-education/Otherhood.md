@@ -36,12 +36,9 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Otherhood
-
 ---
-## 定义
 
-> [!info|notitle]
+> [!info] 定义
 > Otherhood 指组织为其他行动者（other actors）、非行动者实体（non-actor entities）和现代性原则（principles of modernity）行使代理权（agency）的社会过程（Meyer & Jepperson, 2000; Meyer, 2019; Zapp, 2020a）。该概念由 Meyer and Jepperson（2000）在分析现代社会中的能动者建构时提出，Zapp（2020a, 2022）将其系统应用于分析大学在全球治理中的角色。Otherhood 是 [[Organizational Actorhood]] 的一种特殊表现形式——组织的能动性不是指向自身利益，而是指向"他者"的利益和福祉。
 
 > [!quote|notitle]
@@ -75,9 +72,8 @@ updated: 2026-10-22
 - 2022 年 Zapp 在本文中将 otherhood 概念系统应用于大学，论证大学近乎理想型地代表了 otherhood 的全部三种形式——为其他行动者、非行动者实体和现代性原则行使代理权——并以此解释大学为何能在去中心化的全球治理中占据独特的"知识仲裁者"位置([[Argument_Zapp_2022_Springer|Zapp, 2022, p.149]])
 
 ---
-## 核心要素
 
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > Otherhood 在大学中表现为三种形式([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])：
 > - **为其他行动者（other actors）行使代理权** 大学为个体、组织和国家提供咨询、诊断和政策建议，帮助其改革生活、组织结构和政策，以变得更健康、更高效和更公正。"我帮别人做决策"——大学替政府做政策咨询、替国际组织撰写全球报告、替企业做研发。例：一所教育学院的教授为 [[UNESCO]] 撰写[[Global Education Monitoring Report\|全球教育监测报告]]，就是在替 UNESCO 这个"其他行动者"行使知识代理权
 > - **为非行动者实体（non-actor entities）行使代理权** 大学研究儿童、无组织的贫困者、难民、移民、特殊需要群体以及生态问题——这些实体无法在公共领域中为自己发声。社会不平等和环境保护是社会科学和自然科学的基础性议题，体现了科学作为赋权（empowerment）工具的角色。"我替不能说话的人和物发声"——大学研究亚马逊雨林砍伐是在替雨林和未来世代行使代理权；研究贫困对儿童学业的影响是在替无法进入政策议程的贫困儿童行使代理权
@@ -92,9 +88,8 @@ updated: 2026-10-22
 > - [[World Society Theory]] — otherhood 是世界社会理论的核心机制：由于世界社会缺乏传统的控制与权威机制，它本质上通过 otherhood 建构——即通过围绕进步与正义等宏大目标的[[Cultural Models\|文化模型]]扩散与模仿来运作（Meyer et al., 1997，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]]）
 
 ---
-## 实证发现
 
-> [!success|notitle]
+> [!success] 实证发现
 > - 在世界社会的去中心化和无定形配置中，大学和国际组织（IOs）找到了一个独特的位置（niche），因为它们提供并装备了客观知识的合法性与权威及其所填充的[[Cultural Models\|文化模型]]（Zapp, 2020b，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]]）
 > - Zapp (2017b) 发现公立大学是所有国际组织最频繁的研究合作者——平均 40,000 篇出版物由大学和 IO 研究者共同署名——这不仅是研究合作的数据，更是 otherhood 的量化证据：大学在替国际组织生产和认证知识([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.151]])
 > - Zapp (2020a) 对 1947–2019 年间 100+ 份 IO 全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考文献的大规模[[Literature Review\|文献综述]]——知识从大学流向全球治理，otherhood 是这条渠道的机制性名称

@@ -55,11 +55,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Education Policy Outlook
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 教育政策展望（Education Policy Outlook，EPO）是[[OECD\|经合组织]]于 2012 年推出的教育政策比较旗舰出版物，以两年为一个发布周期；它将[[PISA]]、[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]] 等[[International Large-Scale Assessments\|国际大规模评估]]数据与各国政策文件进行系统联动诠释，形成了兼具"硬事实基础"与"政策可操作性"的比较政策知识产品，是经合组织[[Policy Brokerage\|政策中介]]工具链中承担跨国政策借鉴与同侪学习职能的核心中介平台。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对各国政府面对海量改革选项、难以辨别哪些政策在跨国情境中真正有效的困境；通过综合[[PISA]]等测评数据与国别政策文档，提供可供直接"学习借鉴"（Lesson-Drawing）的跨国经验比较框架。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > EPO 的核心机制在于将[[OECD\|经合组织]]测评工具产生的"硬事实"数据系统诠释为国别政策成败的客观证据，再通过跨国横向对照（Outward-looking Cross-national Referencing）将排名靠前国家的政策经验转化为可移植的"政策处方"——这是经合组织以[[PISA]]排名激发"PISA 冲击"、随后通过 EPO 提供"问题诊断与处方建议"的完整规制链条的关键后半段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
@@ -88,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2012 年 — 首期发布：从测评数据到政策分析的跨越** 首版《教育政策展望 2012》出版，标志[[OECD\|经合组织]]正式将测评结果系统转化为跨国政策建议产品，弥补了《[[Education at a Glance\|教育概览]]》以指标展示为主、缺乏政策解读深度的功能空缺。
 > - **2014–2018 年 — 双年度机制成熟与国别简报推广** 相继出版 2014、2016、2018 各年度版本，逐步建立覆盖所有成员国的标准化国别政策概况卡片（Country Snapshot），并开发 [[Education GPS]] 互动在线平台。
 > - **2020–至今 — 危机与重建议题的紧急响应** 2020 年版（Shaping Responsive Education Systems）聚焦韧性与危机应对；2022 年版聚焦教师政策；疫情后发布专题政策快报，系统追踪各国疫情期间教育连续性与学习损失（Learning Loss）的政策回应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[OECD\|经合组织]]教育与技能局（OECD EDU），以成员国缴纳经常性会费为主要资金来源。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - **受众与传播** 各国教育部高级政策官员、国会教育委员会、国际学术研究者与媒体；通过 OECD iLibrary 免费对外开放全文。
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **政策借鉴影响** EPO 国别简报成为各国教育部在制定中期教育规划时的常用参照文件，尤其在发生"[[PISA]] 冲击"后，落后成员国政府官员频繁援引 EPO 的跨国改革案例作为国内改革合法化依据。
@@ -118,8 +106,6 @@ updated: 2026-10-22
 > 覆盖经合组织 38 个成员国及多个伙伴国；每两年发布一部 300–400 页旗舰报告及逾 40 份国别简报；配套 [[Education GPS]] 平台提供实时互动政策比较数据可视化；与[[PISA]]、[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]] 数据深度整合联动。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–544)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

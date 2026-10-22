@@ -64,12 +64,9 @@ created: 2026-10-17
 updated: 2026-10-21
 ---
 
-# Intentionality
 （主体意向性 / 意向性）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 意向性（Intentionality）发端于弗朗茨·布伦塔诺（Franz Brentano）与[[Edmund Husserl|埃德蒙德·胡塞尔]]（Edmund Husserl）的[[Phenomenology|现象学]]哲学，并由社会[[Ontology|本体论]]与批判心理学深化，指人类意识具有“总是指向某物（aboutness）”、主动寻求生命意义、赋予生活世界以价值表象并在主体间社会交往中建构自我的根本存在论特征。在教育哲学与[[Critical Pedagogy|批判教育学]]中，主体意向性断言学生与教师具有不可化约的个体生命史、主观能动性与价值关怀，学习活动的本质是主体在文化历史情境中对教育重要性与相关性的能动诠释与意义生成，有别于在外部环境刺激调控下被动做出行为修正的机械因果反应。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 13–15)]]
@@ -90,8 +87,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 意向性主体[[Paradigm|范式]]与[[Technical Rationality|技术理性]]客体范式的[[Ontology|本体论]]对质
 > | 维度 | 意向性主体范式（Intentional Agency） | 技术理性行为客体范式（Technical Rationality） |
 > |---|---|---|
@@ -102,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **意义追寻与情境诠释（Meaning-Making）** 学习者依据自身文化生活史，能动地理解学校教育对自身的真实价值，而非机械吸收知识碎片。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 14)]]
 > - **能动自决权（Agency & Autonomy）** 个体在教育过程中享有审视目标合理性、表达异议并参与规则建构的主体权利。
 > - **不可化约的个体独特性（Uniqueness）** 每个人具有不可复制的心理体验，无法被统一标准化为同质均值的正态分布点。
@@ -150,8 +143,6 @@ updated: 2026-10-21
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 主体意向性理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -159,8 +150,6 @@ updated: 2026-10-21
 > | **规范伦理基石** | 承认意向性是防范教育物化与社会异化的底线，教育必须依托主体间承认对话展开 | 批判教育哲学、教育社会[[Ontology\|本体论]]反思 | Honneth (1996); [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判
 >
@@ -177,8 +166,6 @@ updated: 2026-10-21
 > > - **人文解放论者** 强调缺乏意向性的熟练操作只是机械驯化；若教育摧毁了学生探求意义的内在火种，其培养出的只是冷漠服从流水线规训的现代工具人。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念关联网络
 > | 关联对象 | 关系性质 | 核心说明 |

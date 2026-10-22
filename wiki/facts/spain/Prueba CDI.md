@@ -44,11 +44,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Prueba CDI
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 不可或缺知识与技能测验（Prueba de Conocimientos y Destrezas Indispensables，简称 Prueba CDI）是西班牙马德里自治区主导建立的普查性全员外部学业考试。该测验是马德里大区在传统拿破仑行政架构内推行新自由主义市场化问责的核心制度工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > - **核心问题导向** 打破公立教育体系在常任文官教师保护下的平庸化格局，通过外部透明评估与[[School Choice|择校]]竞争逼迫学校提升学业效率。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255, 258)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过全员普查性外部统考建立可比的学业基准，向社会公开发布各校天梯榜单并取消就近入学学区限制，借由家长自由[[School Choice|择校]]带来的声誉压力驱动[[School Autonomy|学校自主]]优化教学质量。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -79,16 +73,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2005–2011 — 强人推行与激进市场化建立** 阿吉雷依托大区绝对议席优势设立 CDI 考试，在全国首推公立学校成绩总排行榜，确立单一学区制全面放开跨区[[School Choice|择校]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - **2012–2014 — 领导人去职与政策断裂退潮** 2012 年阿吉雷因政治丑闻与党内矛盾辞职，继任的冈萨雷斯（Ignacio González）同党政府迫于教师工会与家长持续抗议，随即宣布停止在官方渠道发布学校排位表并削减了测试年级。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
 > - **2015–至今 — 国家新法冲突与体系终结** 伴随国家《提高教育质量组织法》（LOMCE）的出台，独立的 Prueba CDI 被国家诊断性评估框架整合取代，标志着大区市场化孤岛试验的落幕。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 258–259)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **政治领导核心** 马德里大区主席埃斯佩兰萨·阿吉雷及其新自由主义幕僚团队，充当[[Policy Entrepreneur|政策企业家]]自上而下推进激进改革。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -101,8 +91,6 @@ updated: 2026-10-22
 > - **资源随生源流动** 在全区单一学区制下，排名落后学校生源严重流失并面临撤班减资，排名靠前学校则获得校舍扩建与重点倾斜。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **全区均分及校际差距** 公立学校、资助私校与独立私校在语文与数学统考中的平均表现。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -119,8 +107,6 @@ updated: 2026-10-22
 > - **2** 个接受 CDI 普查性统考的关键学段（小学 6 年级与初中 3 年级）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 争议与制度反思
 
 > [!debates] 项目争议
 >

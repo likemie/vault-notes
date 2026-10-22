@@ -46,11 +46,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# Policy Image
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 政策形象（Policy Image，亦称政策意象）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指特定公共政策议题在广大公众、大众传媒以及政治精英心目中的符号化表征、价值框架与综合认知建构。一个政策形象兼具经验实证信息（Empirical Information）与情感规范评价（Emotive/Normative Valences），决定了该议题是被界定为平稳运行且值得信赖的“专业自治领域”，还是被认知为失控破产、亟待外部宏观政治权力强势介入的“治理灾难”。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
@@ -71,9 +67,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **经验事实与量化指标支撑** 具有震撼力且易于传播的统计反差数据（如各州统考通过率与 [[National Assessment of Educational Progress|NAEP]] 成绩的悬殊断层），充当重塑形象的事实骨架。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 > - **两党普适性核心价值绑定** 将议题同国家经济安全、全球科技霸权、公平正义及劳动力技能优势等无争议的核心社会价值观深度缝合。
 > - **生动的象征符号与隐喻修辞** 提炼直击人心的符号化定性（如美国课程“宽一英里、深一英寸”以及各州为了达标“竞相向下沉沦”），制造全社会的危机共识。
@@ -114,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -130,8 +122,6 @@ updated: 2026-10-22
 > - **2013年 — 教育治理与证据利用生命周期扩展** 麦克唐纳与韦瑟福德将政策形象应用于跨州教育政策研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助跨国测评实证数据战略性重构政策形象以推动国家级改革。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术论战与理论边界
 >

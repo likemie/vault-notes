@@ -63,11 +63,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Jean Piaget
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 瑞士著名认知发展心理学家、哲学家，日内瓦学派创始人，发生[[Epistemology|认识论]]（[[Piaget's Theory of Cognitive Development|Genetic Epistemology]]）奠基人。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1920s–1935 — 儿童言语、思维与道德判断的临床探索** 在巴黎[[Alfred Binet|比奈]]实验室和日内瓦[[Jean-Jacques Rousseau|卢梭]]研究所开展临床访谈，探索儿童独特的认知逻辑。
 >   - **代表著作** *Le Langage et la pensée chez l'enfant* (1923); *Le Jugement et le raisonnement chez l'enfant* (1924); *Le Jugement moral chez l'enfant* (1932).
@@ -114,9 +108,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 皮亚杰断言知识是认知主体通过与物理和社会环境持续相互作用而积极建构的动态适应产物。儿童的智力发展表现为由低级向高级连续演进的认知平衡化过程：当外部经验挑战已有认知图式时，个体通过同化（将外部现实纳入既有图式）与顺应（应对环境扰动改造既有图式）达成认知再平衡，经历四个年龄依存且不可跳跃的发展阶段——感知运动阶段（0–2岁）、前运算阶段（2–7岁）、具体运算阶段（7–11岁）与形式运算阶段（11–16岁）。科学思维本质上是一个持续建构与重组的演进过程。
 
 > [!citation-card] 论知识作为主客交互动作的建构本质
@@ -131,9 +123,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 奠定现代认知发展心理学与[[Constructivist Paradigm|建构主义范式]]的理论基石，催生了[[Neo-Piagetian Theories|新皮亚杰理论]]（Neo-Piagetian Theories）以及关于认知平衡化动力机制的持续探索。
 > - **方法路径** 创立“临床访谈法”（Clinical Method），将开放观察、实物操作与启发式反诘融为一体，为质性儿童思维与概念建构研究树立了方法学范式。
 > - **政策与实践路径** 深刻重塑了全球学前教育与K-12课程设计，确立了发展适宜性实践（Developmentally Appropriate Practice, DAP）原则与以动手探究为中心的活动课程传统。
@@ -152,8 +142,6 @@ updated: 2026-10-22
 > - **后续理论扩展** [[Juan Pascual-Leone]]、[[Robbie Case]]、[[Kurt Fischer]] 等新皮亚杰主义者，引入[[Working Memory|工作记忆]]与信息加工容量修正阶段过渡理论。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -42,11 +42,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# National Natural Science Foundation of China
-
 ---
-
-## 机构定位与组织宗旨
 
 > [!claim] 核心定位
 > 国家自然科学基金委员会（National Natural Science Foundation of China, NSFC）是 1986 年由中国国务院批准设立的专门负责国家自然科学基础研究与应用基础研究资助管理的法定机构；该机构直接效仿[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）的运行体制，在中国科技界全面确立了“依托单位申请、独立专家同行评审、择优资助”的现代科学基金制，打破了计划经济时代自上而下行政指令性经费划拨的旧体制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **核心使命** 坚持“依靠专家、发扬民主、择优支持、公正合理”的十六字评审方针，促进基础研究多学科协调发展，发现与培养优秀青年科学技术人才。
 
 ---
-
-## 资助机制与组织架构
 
 > [!actor-grid] 核心资助矩阵与同行评议机制
 > - **全面实行同行评审制度**
@@ -73,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 跨国科技体制比较与历史意义
-
 > [!tension] 竞争性同行评议科学基金 vs 计划体制行政指令拨款
 > - **科技资源配置[[Paradigm|范式]]的根本转变**
 >   在 NSFC 成立前，中国科技预算高度依赖部委按行政编制切块下达，资金极易固化于既有体制内大型院所；NSFC 的设立将“项目导向与科学家个人学术水平”置于核心，为高校青年学者脱颖而出提供了极为关键的体制赛道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
@@ -82,8 +74,6 @@ updated: 2026-10-22
 >   NSFC 的开放申请机制有力推动了[[Chinese Academy of Sciences|中国科学院]]与教育部直属[[Research Universities|研究型大学]]在同一起跑线上展开学术质量竞争，极大激活了中国高水平大学的基础研究活力，推动中国科学论文发表与前沿探索在 20 世纪末至 21 世纪初迎来爆发式增长。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 关键成效与历史辐射
 > - **构筑中国基础研究资助体系的主渠道** 成为中国支撑原始创新、培育青年学者国家级学术声誉不可替代的基础性制度支柱。

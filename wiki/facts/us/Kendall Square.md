@@ -43,11 +43,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Kendall Square
-
-## 背景
-
-> [!info|notitle]
+> [!info] 背景
 > 肯德尔广场（Kendall Square）是位于马萨诸塞州剑桥市、麻省理工学院（MIT）周边的区域，历史上曾是工业制造区，20 世纪后期逐渐转型为全球密度最高的科技创新聚集地之一。其转型受益于 MIT 的研究溢出效应、剑桥市的分区政策调整，以及马萨诸塞州对生物技术和信息技术产业的持续投资([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.128]])。
 
 > [!info|notitle]
@@ -55,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
-> [!note|notitle]
+> [!note] 经过
 > 肯德尔广场的创新发展经历了以下关键节点：
 
 > [!note|notitle]
@@ -70,9 +64,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响与后果
-
-> [!success|notitle]
+> [!success] 影响与后果
 > 据 CIC 自身网站数据，经过近三十年发展（p.128）：
 > - CIC 已拥有超过 10,000 家客户组织
 > - 在全球举办超过 4,000 场活动
@@ -85,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 争议与评论
-
-> [!warning|notitle]
+> [!warning] 争议与评论
 > 上述关于 CIC 客户数量、活动场次和累计投资的数据来自 CIC 自身网站，并非独立的第三方评估([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025]])。这意味着数据可能存在选择性呈现或统计口径上的偏差——例如"客户组织"可能包括仅租用一天会议室的企业，"累计投资"可能包含已倒闭企业的历史融资。在引用这些数据时应注明其为运营方自报数据，审慎对待其准确性。
 
 > [!warning|notitle]

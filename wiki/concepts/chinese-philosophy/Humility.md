@@ -35,11 +35,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Humility in Learning
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 谦逊（humility）在东亚学习传统中被视为一种核心美德和内在力量。它不是低微的自我评价，而是一种使人能够正视自身不足、持续自省和寻求进步的品质。在儒家思想体系中，谦逊被构想为 [[Pride in Learning\|骄傲]]（自满）的对立面，而非西方语境中以羞耻（shame）为骄傲之反面的逻辑([[Argument_Li_2012_Cambridge\|Li, 2012, p.79]])。
 
 > [!quote|notitle]
@@ -55,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 谦逊在学习中的功能可以从三个层面理解：
 
 **1. 对"自满"的警戒**

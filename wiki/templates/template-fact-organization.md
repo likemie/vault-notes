@@ -22,11 +22,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 用一两句话概括该机构的法律性质（政府部门/国际组织/独立智库/大学联盟/学术学会/清算中心/基金会）、核心法定使命及在政策与学术生态中的独特功能。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -38,8 +34,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **核心宗旨与法定职责** 机构宣称的服务对象、中长期战略愿景及法定赋权范围。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 历史沿革与组织演变
 
 %% 阶段性节点少时用 [!timeline]；一般历史过程用 [!dev-timeline]；国际组织、政府机构等同时包含“组织阶段 + 阶段内里程碑”时使用 [!org-evolution]。 %%
 
@@ -63,8 +57,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 董事会）** 治理最高权力机构的构成、代表性（政府代表、学者、雇主、社会代表）与决策机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **执行机构（秘书处 / 管理层）** 总干事/执行总裁权责、常设业务部门与行政运行团队设置。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -78,8 +70,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 研制发布的循证审查规程、指标指南、资质认证标准或操作手册。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **数据库、证据库与监测平台** 建设维护的大型实证数据库、证据清算平台、指标监测系统。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -92,8 +82,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > *Original text or English translation.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 年预算总额、专业雇员数、会员覆盖国别数/机构数、合作网络规模。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -109,8 +97,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 机构雇员数、年预算支出、会员国家数、证据库收录条目数等核心可核查数字。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 争议、批评与反思
 
 %% 机构面临的学术、政治或公信力争议。分为方法垄断质疑、政治偏向与商业利益争议等维度。 %%
 

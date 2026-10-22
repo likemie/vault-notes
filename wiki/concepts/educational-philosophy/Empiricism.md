@@ -83,11 +83,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Empiricism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **经验主义（Empiricism）**，亦称**经验论**，是科学探究四大基本信仰假设之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 15）。该假设坚信一切可靠的知识在根本上只能来源于感官经验与实地观察（derive from experience）。在科学研究与工程实践中，经验主义意味着任何理论、假说或技术系统的可立足性（tenability），完全取决于支撑它的经验证据与实战运行结果；在此，“经验的（empirical）”被界定为通过直接观察、物理交互与实地体验可加以复核验证的事物（Barratt, 1971; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]），而“证据（evidence）”则是在概率与实效意义上对理论或假说提供确证支持的客观数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 15–16)]]
@@ -109,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 经验主义与理性主义的[[Epistemology|认识论]]全景辨析
 > | 比较维度 | 经验主义（Empiricism） | 理性主义（Rationalism） |
 > |---|---|---|
@@ -122,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **感官经验第一性（Primacy of Sensory Experience）** 坚信一切关于外部世界的可靠判断必须立足于可直接观察或间接测量的感觉经验材料。
 > - **证据的概率确认性（Probabilistic Confirmation）** 现代科学经验主义认识到经验证据无法提供绝对确定性，而是以概率统计的形式为假说提供支持度或[[Falsification|证伪]]检验。
 > - **Mouly [[Scientific Method|经验科学]]五步演进规程（Five Steps of Empirical Science）** 穆利（Mouly, 1978）系统提炼的实证演进阶梯：经验积累、分类整理、精密量化、关系发现、逼近真理。
@@ -213,8 +205,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕经验主义形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
@@ -235,8 +225,6 @@ updated: 2026-10-22
 > - **2025 年 — 软件工程与自适应组织的[[Scientific Method|经验科学]]重塑** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）将经验主义原则注入现代[[Technological Republic|技术共和国]]与软件工程哲学，在第 11 章中论证前沿软件开发本质是一门依赖实战观测与即兴演剧的经验观察性科学，重塑了面对不确定性世界的技术认知模式。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -54,11 +54,7 @@ created: 2026-10-02
 updated: 2026-10-20
 ---
 
-# Academic Risk Aversion
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学术避险主义（Academic Risk Aversion），亦称科研避险倾向，指在现代高度竞争的科研资助体系、量化绩效评估以及短聘考核压力约束下，科研人员、评审专家及科研资助机构系统性展现出的一种行为偏好：极力回避具有高度[[Epistemology|认识论]]不确定性、长周期和高失败率的开创性探索（Transformative Research），转而集中精力选择技术路径成熟、预期产出高度确定、能够迅速产出阶段性论文的渐进型研究（Incremental Research）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 31–32)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
@@ -80,8 +76,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学术避险主义与相关科研取向对照
 > | 维度 | 学术避险主义（Academic Risk Aversion） | 蓝天纯基础研究（[[Curiosity-Driven Research\|Blue Skies Research]]） | 任务导向型攻关（Mission-Oriented R&D） |
 > |---|---|---|---|
@@ -91,8 +85,6 @@ updated: 2026-10-20
 > | **失败容忍度** | 极低（资助中断往往直接导致实验室关停） | 极高（包容假说的[[Falsification\|证伪]]与探索弯路） | 中等（包容技术路线试错，但不允许目标流产） |
 
 ---
-
-## 核心要素
 
 > [!feature] 驱动学术避险机制的核心要素
 > - **评审指标的“可行性”优先（Doability [[Hegemony]]）** 资助评审委员会为了规避公共财政受托问责风险，将“方案几近必定成功”作为打分首要标准，迫使学者申报其实已经完成大半的研究。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
@@ -154,8 +146,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 学术避险主义核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 关键论证脉络 |
 > |---|---|---|---|
@@ -165,8 +155,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学术避险机制演进脉络
 > - **1945–1960s — 战后科学契约的冒险绿洲假定** 《[[Science, The Endless Frontier 1945|布什报告]]》确立国家财政无条件支持大学自由探索，预设大学是最少受到即时功利与短期成败考核制约的探索绿洲。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 5)]]
 > - **1970s–1980s — [[Soft-Money Faculty Model|软钱教职模式]]普及与资助竞争抬头** 战后高校大规模扩张后联邦经常性预算收紧，大学开始广泛采用软钱岗位与管理费扣取机制，学者个人生计与项目中标率深度绑定。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
@@ -174,8 +162,6 @@ updated: 2026-10-20
 > - **2010s 至今 — 科学经济学批判与新型资助机制探索** 科学经济学界系统批判商场化大学与学术避险主义，催生了霍华德·休斯医学研究所（HHMI）“资助人而非项目（people, not projects）”模式、[[National Institutes of Health|NIH]] 院长开拓者奖以及各种高风险高回报（High-Risk High-Reward）专项基金改革。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 32)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -193,8 +179,6 @@ updated: 2026-10-20
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 学术避险机制与同行评审实证观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -205,8 +189,6 @@ updated: 2026-10-20
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, pp. 28, 30)]] | 美国研究型大学医学院科研人员薪酬结构 | 软钱薪资依赖度 | 医学院教师 60%–80% 的个人基本工资依赖外部科研项目提成（软钱），科研中断直接导致个人降薪甚至失业 | 表明个人生计威胁是驱动学者采取极端避险策略的最强微观经济诱因 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 从资助率持续走低（[[National Science Foundation|NSF]] 总体 30%、青年博士 20%）与青年学者 2–3 年启动金耗尽压力切入，阐明科研人员主动选择“安全课题”以维持生存的避险逻辑及其导致的文献平庸化代价。

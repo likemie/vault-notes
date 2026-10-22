@@ -39,8 +39,6 @@ created: 2026-07-26
 updated: 2026-10-22
 ---
 
-# Reflective Thinking
-
 ---
 
 > [!def] 核心定义
@@ -52,8 +50,6 @@ updated: 2026-10-22
 > > - **边界** 反思性思维并非凭空的胡思乱想，它必须始于具体的“难题觉察”（felt difficulty），并通过实证观察或语境证据加以检验。
 
 ---
-
-## 核心要素
 
 > [!feature] [[John Dewey\|杜威]]的[[Reflexivity\|反思性]]思维五大步骤
 > 杜威认为，真正的反思性探究包含严格的心智运转程序：
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > - **1997 年 — 统合入[[Epistemological Theories\|认识论理论]]** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 在重构[[Epistemology\|认识论]]领域时，将反思思维的核心（即如何在[[Wicked Problem|劣构问题]]中为信念提供辩护）确立为[[Epistemological Theories\|认识论理论]]的四大核心维度之一（即“[[Justification for Knowing\|认知的辩护]]”维度）。
 
 ---
-
-## 争议与局限
 
 > [!warning] 适用局限：苛刻的教育门槛
 > - 真正的[[Reflexivity\|反思性]]思维极其罕见。[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 指出，达到 King & Kitchener 模型最高阶的“反思思维（阶段 6-7）”在普通人群甚至本科生中都极为少见。它几乎只出现在接受过高级研究生教育的个体中。这暗示着，作为一种高阶认知能力，它可能主要反映了西方精英学术训练的特有产物，未必能被视为所有人普遍的发展终点。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 102)]]

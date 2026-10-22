@@ -62,11 +62,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Alan Daly
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育学者、加利福尼亚大学圣迭戈分校（University of California, San Diego, UCSD）教育研究系杰出教授（Distinguished Professor）、前系主任。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2010 — *Social Network Theory and Educational Change* (Harvard Education Press)** 全面奠定教育社会网络理论的奠基之作，系统阐释了网络密度（Density）、中心度（Centrality）、[[Structural Holes\|结构洞]]（Structural holes）及信任关系如何调节教育政策落地与知识创新扩散。
 > - **2012 — *Mind the Gap: Organizational Learning and Improvement in an Underperforming Urban System* (with Kara S. Finnegan, *American Journal of Education*)** 运用[[Network Analysis\|社会网络分析]]检验高压问责制对薄弱学区内部专业知识共享的破坏机制，揭示行政问责压力往往加剧学校孤立与防御性心态。
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育组织变革与循证实践的成败并非取决于外部证据供给的技术性多寡，而取决于组织内部“关系网络”的连接质量与社会资本存量；教师采纳与运用研究证据，在本质上是一种基于人际信任的社会互动行为。
 
 > [!citation-card] 高利害问责对学校组织学习网络的撕裂效应

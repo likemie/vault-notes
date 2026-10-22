@@ -37,11 +37,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Concierge Service
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 礼宾服务（Concierge Service）在[[University-Industry Collaboration\|产学合作]]语境中，指大学为产业伙伴提供的一种**一站式导航服务**——产业方无需自行在大学的多个办公室和院系之间摸索，而是通过单一的对接窗口来表达需求，由该窗口负责协调大学内部各专业单位来完成对接（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp.59–60]]）。
 
 这个概念的灵感来自高端酒店的礼宾部（concierge）：客人不需要自己打电话找餐厅、订车、买演出票——只需告诉礼宾"我需要什么"，由礼宾来打通所有内部环节。大学语境中的礼宾服务遵循同样的逻辑：企业不需要知道大学的哪个办公室负责什么，只需要与一个了解大学内部运作的"礼宾"沟通。

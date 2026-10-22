@@ -72,11 +72,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Baseline Standardized Mean Difference
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 基线等效性标准化均数差（Baseline Standardized Mean Difference, Baseline SMD / $d_{\text{baseline}}$）是在实验与[[Quasi-Experimental Designs\|准实验设计]]以及循证[[Meta-analysis\|元分析]]中，用于定量度量干预前（[[Pre-test and Post-test\|前测]]）处理组与对照组在目标[[Variable\|变量]]或关键协变量上初始能力等价程度的标准化统计量。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 循证评价坚持“[[Causality\|因果推断]]的可比性依赖于[[Counterfactual\|反事实]]构造的无偏性”。在非[[Random Assignment\|随机分配]]的准实验情境下，若未严格证明组间起点等价，[[Pre-test and Post-test\|后测]]观察到的组间差异必然混杂了不可观测的初始能力和环境禀赋差异。
 > - **研究者角色** 研究者必须执行标准化的前端硬性门槛筛选，避免将研究者对初级研究的个人偏好引入文献池。
@@ -111,8 +105,6 @@ updated: 2026-10-22
 > - **上位[[Meta-analysis\|元分析]]功能** 充当元分析[[Literature Search\|文献检索]]与筛选流程中的核心方法学“防火墙”，抵御“垃圾进，垃圾出”效应。
 
 ---
-
-## 研究程序与核心公式
 
 > [!proc]- 基线标准化均值差计算与校正规程
 > ```mermaid
@@ -159,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 判定准则与统计学机理
-
 > [!contrast-table] WWC 5.0 与 Slavin (2009) 循证三级决策矩阵
 > | 基线差值绝对值区间 | 等效性裁定等级 | 初级研究要求与处理方式 | [[Meta-analysis\|元分析]]采纳决策 | 方法学原理与偏倚机制 |
 > |---|---|---|---|---|
@@ -175,8 +165,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - [[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]的文献筛选阶段，对实验与准实验初级研究实施前端质量准入审查。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 8)]]
@@ -189,8 +177,6 @@ updated: 2026-10-22
 >   - 分类结局[[Variable\|变量]]（如升学率、及格率）：应采用几率比（Odds Ratio）或风险比（Risk Ratio）评估基线等效。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **无法侦测未测量的潜在混杂** $d_{\text{baseline}}$ 只能衡量已纳入[[Pre-test and Post-test\|前测]]测验的[[Variable\|变量]]；两组如果在未测量的性格特质、家庭期望或教师教学风格上存在偏差，该指标无法识别。
@@ -212,8 +198,6 @@ updated: 2026-10-22
 > | [[Effect Size]] | 统计基础 | 为基线差异提供无量纲标准差度量尺度的统计方法家族。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 首次在高等教育生成式 AI [[Meta-analysis\|元分析]]中严格引入 $d < 0.25$ 基线等效门槛，实证证实该标准成功消除了准实验与[[Randomised Controlled Trials\|随机对照试验]]之间的系统性效应差异（$Q_B = 0.407, p = 0.523$），消解了过度乐观的效应膨胀。

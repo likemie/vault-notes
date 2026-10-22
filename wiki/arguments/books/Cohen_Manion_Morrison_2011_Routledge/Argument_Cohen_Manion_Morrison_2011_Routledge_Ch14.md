@@ -106,14 +106,9 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 ---
-# Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14
-
-## 概念地图
 
 > [!knowledge-map] 第14章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_14_Concept_Map.jpg)
-
-## 章节内容
 
 > [!logic-map]- [[Case Study\|个案研究]]方法的核心知识结构
 > ```mermaid
@@ -131,8 +126,6 @@ sources:
 个案研究是教育研究中重要且独特的数据来源，可以独立使用或补充其他数据。本章为研究者在个案研究的规划、实施和报告方面提供关键议题的概览（p.282）。阅读本章时可结合抽样（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|第8章]]）、自然主义与[[Ethnography|民族志研究]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|第11章]]）、观察（第24章）和访谈（第22章）等章节。
 
 ---
-
-### 14.1 什么是个案研究？
 
 > [!def] 个案研究的多元定义
 > 个案研究是经常被设计用于说明更一般原则的具体实例（Nisbet & Watt, 1984, p. 72），是行动中的实例的研究（Adelman et al., 1980），是对特殊事物的研究（Stake, 1995）。Creswell（1994, p. 12）将其定义为有界系统（bounded system）的单一实例，如一个孩子、一个派系、一个班级、一所学校或一个社区。Yin（2009, p. 18）则认为现象与情境之间的边界线是模糊的，个案研究是在情境中研究案例，将案例设置在其情境中至关重要。Verschuren（2003, p. 123）指出个案研究可以同时是二者：有时严格有界，有时边界不那么清晰，它本身就是模糊的（p. 282）。
@@ -434,8 +427,6 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 
 ---
 
-### 14.5 个案研究的种类示例
-
 > [!contrast-table] 个案研究者与实验者、调查者的区别
 > | | 实验者 | 调查者 | 个案研究者 |
 > |---|---|---|---|
@@ -671,8 +662,6 @@ Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须�
 > - **引人入胜的（engaging）**
 
 ---
-
-## 关键引用
 
 > [!citation-card] 整体大于部分之和
 > [[Case Study\|个案研究]]可以建立[[Causality\|因果关系]]（"如何"和"为什么"）；它们的一个优势是在真实情境中观察效应，认认到情境是原因和效应的有力决定因素，并且深度理解是公正对待案例所必需的。正如Nisbet & Watt（1984, p. 78）所言，整体大于部分之和。（第14章，p.282）

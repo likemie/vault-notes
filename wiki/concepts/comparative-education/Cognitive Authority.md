@@ -35,11 +35,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Cognitive Authority
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知权威（Cognitive Authority）是指国际组织或跨国专业机构在缺乏主权立法权与硬性法律强制制裁手段的前提下，凭借技术官僚的专业特长、去政治化的理性声誉、自主科研产出与标准化数据度量，被各主权国家和政策行动者公认为界定政策问题、解释现实因果关系并提供决策咨询的合法权威形态。该构念在跨国治理中包含两大代表性实践形态：其一是经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）依托国际学生评估项目（Programme for International Student Assessment, PISA）等数据生产与声誉评价引导国内政策的软治理模式（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, p. 270]]）；其二是世界银行（World Bank）依托实体科研建制、指标标准化与信贷干预传播重塑发展模型的知识银行模式（[[Argument_Zapp_2017_IJED|Zapp, 2017, pp. 2–5, 9–10]]）。
@@ -60,8 +56,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 治理权威形态与机制辨析
 > | 比较维度 | 认知权威（Cognitive Authority） | 主权行政权威（Sovereign Administrative Authority） | 道德权威（Moral Authority） |
 > |:---|:---|:---|:---|
@@ -71,8 +65,6 @@ updated: 2026-10-22
 > | **典型国际载体** | 经合组织（[[OECD]]）、世界银行（[[World Bank]]） | 国际法院（ICJ）、世界贸易组织（WTO）争端解决机构 | 国际红十字会（ICRC）、国际特赦组织、[[UNESCO]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **技术官僚与去政治化专业特长（Technocratic & Apolitical Expertise）** 国际组织通过组建专业分析师团队与专家网络，将争议性的政治问题转译为纯粹的技术测量与方法学规范，以此构筑不偏不倚的科学外观。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
@@ -131,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 > - **2018 — 认知权威与全球教育治理的经验结合** 丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（[[Kerstin Martens]]）将认知权威引入全球教育政策分析，揭示经合组织如何依托 PISA 测验所赋予的认知裁判权重构主权国家教育体系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -174,8 +162,6 @@ updated: 2026-10-22
 > 该构念适用于解释通过信息扩散、指标评价与同行审议运作的软治理场域；面对关乎国家根本主权安全、意识形态禁令或具有直接刚性利益冲突的政治议题，单纯的认知权威难以克服主权国家的政治抵制。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

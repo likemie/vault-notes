@@ -72,7 +72,6 @@ citation_aliases:
   - "Yu & Zhao, 2024"
   - "Yu & Zhao (2024)"
 ---
-# Argument_Yu_2024_CE
 
 ---
 
@@ -91,8 +90,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -105,8 +102,6 @@ citation_aliases:
 > 理论工具箱将“文本政治”与“主体经验”相连接：通过[[Official Knowledge\|官方知识]]概念拆解217册教科书的符号表征，揭示国家如何利用[[Hegemony\|文化霸权]]将儒家从一种历史流派升格为不容置疑的国家认同基石；随后引入中心—边缘与[[Sinicisation\|汉化]]理论，解释为何这种表征必然会对边缘族群构成符号暴力；最后通过批判性反思视角，阐明少数民族学生的拒斥并非简单的政治对抗，而是立足于不同生活世界观对主导文化进行的理性解构。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -123,8 +118,6 @@ citation_aliases:
 > | **地域与学科分布** | 西北高校24人，东南高校13人；男21人，女16人；人文社科21人，理工科16人。访谈以普通话进行，由研究者逐字[[Transcription in Qualitative Research\|转录]]并英译 (p. 66)。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -250,8 +243,6 @@ citation_aliases:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Discourse|话语]]垄断与符号等价化** 教科书将儒家传统塑造为“中华性”的唯一代名词，通过跨学科符号堆叠完成了“中华文化 = 儒家文化”的排他性[[Official Knowledge\|官方知识]]建构 (p. 67)。
 > 2. **隐秘等级与文明化教化** 教科书表面承认多民族存在，实则通过“非汉政权学习汉儒”的统一模板，将汉族置于“文明施教者”的高位，建构了中心—边缘的[[Cultural Hierarchy\|文化等级]]。
@@ -267,8 +258,6 @@ citation_aliases:
 > - **>50%** 的受访学生肯定儒学在个人私德修养层面的局部价值。
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Official Knowledge\|官方知识]]的[[Cultural Hierarchy\|文化等级]]效应
 > 对儒家传统的阐释构成了一种垄断性与主导性[[Discourse|话语]]，强化了不同文化群体之间的[[Cultural Hierarchy\|文化等级]] (p. 59)。
@@ -286,8 +275,6 @@ citation_aliases:
 > *The dominant official version of Confucianism, presenting it as the core of a monolithic Han culture to be revered and imitated by all lesser minzu, thus tends to stoke cultural division and alienation.*
 
 ---
-
-## 自述局限
 
 > [!warning] 政治环境恶化与[[Fieldwork\|田野研究]]收窄
 > - **国家政策走向逆多元化** 自2017年田野调查完成以来，中国的政治与教育轨迹显现出更强烈的国家主义、同化主义与汉人中心倾向 (Leibold & Dorjee 2023; Yan & Vickers 2023)。马克思主义正统的重新强化与对[[Academic Freedom\|学术自由]]的收紧，使教育向多元包容[[Paradigm\|范式]]转型的希望极其渺茫 (p. 71)。

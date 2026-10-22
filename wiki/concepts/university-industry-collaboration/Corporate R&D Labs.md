@@ -70,11 +70,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Corporate R&D Labs
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **企业中央研发实验室（Corporate Central R&D Labs）** 是指 20 世纪早中期由大型工业垄断或寡头企业建立的内部独立科研组织。其核心特征是在单一企业建制内涵盖从基础科学发现、底层制造工艺到终端商业产品开发的全链条科研活动，其基础研究的学术水准与学科宽度足以与顶尖[[Research Universities|研究型大学]]匹敌，并在长周期电信、微电子、计算与化学工业中奠定了现代技术基础设施。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 35–37)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 126–128)]]
@@ -106,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **全链条科研覆盖（Full-[[SPECTRUM]] Research Integration）** 打破基础研究与应用开发的人为割裂，在一个组织内部完整覆盖从底层机理探索、材料合成、设备研制到系统软件架构的全过程。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 35–37)]]
 > - **跨学科人才高密度集聚（Multidisciplinary Talent Concentration）** 物理学家、材料学家、机械工程师与数学家在同一物理园区内高频互动，具备系统攻克跨学科复杂技术瓶颈的独特能力。
 > - **[[Patient Capital|耐心资本]]与非竞争性资金支持（Patient Internal Capital）** 依托母公司电信特许垄断（如 AT&T）或主导市场地位（如 IBM、Xerox）的垄断租金，享受不受短期季度财报干扰的长期稳定资助。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 126–128)]]
@@ -181,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -203,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 敏捷去中心化创新 vs. 集成化能力赤字
@@ -223,8 +213,6 @@ updated: 2026-10-22
 > 建立企业中央实验室高度依赖超额垄断利润与稳定的非竞争性市场环境。在充分竞争或轻资产数字软件行业，强行复制重资产中央实验室模式极易导致研发与市场脱节、陷入沉没成本陷阱。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

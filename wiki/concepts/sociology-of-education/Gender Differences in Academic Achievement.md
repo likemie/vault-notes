@@ -65,12 +65,9 @@ created: 2026-05-06
 updated: 2026-10-22
 ---
 
-# Gender Differences in Academic Achievement
 （[[Academic Achievement|学业成就]]性别差异）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Academic Achievement\|学业成就]]性别差异（gender differences in academic achievement）是指在特定教育与学科情境中，男女学生在学业平均分、标准化测验、微观任务表现及认知信念上呈现出的系统性分化，以及这些分化与[[School Norm Adaptation\|学校规范适应]]、学习动机、[[Epistemological Beliefs\|认识论信念]]和性别角色社会化之间的深层关联。[[Argument_Lekhal_2015_Paideia\|(Lekhal et al., 2015, p. 76)]]; [[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 321-322)]]
@@ -122,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
@@ -133,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **早期阶段：校外家庭与生物学单因论** 传统研究将学业性别差距归因于先天脑神经差异或校外[[Socioeconomic Status|家庭社会经济背景]]的不可控影响。
 > - **中期演进：校内过程[[Variable\|变量]]与行为评价中介** 研究焦点转向学校可控因素，实证揭示课堂规范适应、[[Self-control\|自我控制]]与动机投入在成绩形成中的决定性中介作用。[[Argument_Lekhal_2015_Paideia\|(Lekhal et al., 2015)]]
@@ -142,16 +135,12 @@ updated: 2026-10-22
 
 ---
 
-## 争议与方法论反思
-
 > [!critique] 方法论反思与评价张力
 > - **评分来源带来的测量偏差** 教师评定成绩中的性别差异普遍显著大于客观标准化测验，提示教师主观评价可能受到女生较高行为顺从度的[[Halo Effect\|光环效应]]影响。
 > - **粗放生理分类对个体[[Heterogeneity\|异质性]]的遮蔽** 将男女学生作为同质群体对比，会掩盖群体内部在动机、心理性别特质与学科兴趣上的巨大异质性。
 > - **二阶汇总对经验现实的反常遮蔽** [[John Hattie\|约翰·哈蒂]]（John Hattie）在《[[Visible Learning\|可见的学习]]》中通过[[Meta-meta-analysis\|二阶元分析]]简单平均得出男孩[[Academic Achievement|学业表现]]优于女孩（$d=0.12$）的判定；皮埃尔-热罗姆·伯杰龙（[[Pierre-Jérôme Bergeron]]）与利桑·里瓦尔（Lysanne Rivard）指出该计算构成了典型的[[Inappropriate Baseline Comparisons|不当基线比较]]与总体混淆：当代欧美及绝大多数工业化国家的大规模经验数据（如 Legewie & DiPrete, 2012 以及加拿大魁北克官方统计）均证实女孩在阅读能力与各阶段综合学业成绩上普遍稳定领先男孩，男孩仅在部分数学测验子集保有微弱优势；将发表文献总数与现实影响因素总体混为一谈的无加权平均，制造了与社会学现实直接背离的人为假象。[[Argument_Bergeron_2017_MJE\|(Bergeron & Rivard, 2017, p. 242)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[Academic Achievement\|学业成就]]性别差异实证研究汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -255,8 +244,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!example] 典型研究与干预案例
 > - **中学科学双任务测评中的性别表现对比（[[Argument_Lodewyk_2007_EducPsych\|Lodewyk, 2007]]）**
 >   十年级科学实验中，女生在良构生活方式任务（$ES = .58$）与劣构癌症辩护任务（$ES = .44$）中均取得显著优势，展示出在规则执行与复杂价值权衡上的双重适应力。
@@ -264,8 +251,6 @@ updated: 2026-10-22
 >   针对男生在行为规范与持续努力上的劣势，开展[[Self-control\|自我控制]]训练与[[Growth Mindset|成长型思维]]辅导以缩小性别学业差距。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念网络图
 >

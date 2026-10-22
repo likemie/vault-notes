@@ -50,11 +50,7 @@ created: 2026-05-05
 updated: 2026-10-16
 ---
 
-# California Evidence Based Clearinghouse for Child Social and Economic Welfare
-
 ---
-
-## 概述
 
 > [!info] 机构定位与运营概况
 > **加利福尼亚儿童福利循证清算中心（California Evidence-Based [[Educational Evidence Clearinghouses\|Clearinghouse]] for Child Welfare, CEBC）** 是由加利福尼亚州社会服务部（CDSS）于 2006 年资助成立的公共部门证据清算中心，旨在为儿童福利系统、教育工作者与社区机构提供经过科学实证检验的干预项目数据库([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
@@ -62,8 +58,6 @@ updated: 2026-10-16
 > CEBC 覆盖儿童福利、心理健康、行为发展与教育干预等多领域。当前处于**活跃运营（Active）** 状态，官方网站为 [cebc4cw.org](https://www.cebc4cw.org)，持续维护包含数百项干预方案的“科学评级量表（Scientific [[Rating Scale]]）”。
 
 ---
-
-## 机构背景与资助体系
 
 > [!note] 发展背景与资助演进
 > CEBC 由加州政府直接拨款资助，由雷迪儿童医院（Rady Children's Hospital-San Diego）下属的儿童与家庭强化中心负责运营。
@@ -73,15 +67,11 @@ updated: 2026-10-16
 
 ---
 
-## 评级对象与项目纳入范围
-
 > [!feature] 评价范围与项目入库
 > - **样本贡献** 在 Wadhwa et al. 的教育项目池中，CEBC 贡献了 **11 个教育干预项目**（聚焦于涉入福利系统的儿童与青少年的学业促进项目）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **评估对象级别** 仅针对具备明确项目文档、操作手册与培训体系的**具名项目（Named Programs）** 实施整体评级，不为单项研究独立发布评级([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8, 13]])。
 
 ---
-
-## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
 > CEBC 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
@@ -91,8 +81,6 @@ updated: 2026-10-16
 > 3. **零[[Iatrogenic Effects in Education\|医源性伤害]]原则** 项目不得在任何测量维度上产生对儿童及其家庭的心理或行为有害后果([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 14]])。
 
 ---
-
-## 评级体系与最高准入门槛
 
 > [!contrast-table] CEBC 科学评级量表（1–5 级）与核心门槛
 > | 科学评级等级 | 核心准入条件与随访要求 |
@@ -105,15 +93,11 @@ updated: 2026-10-16
 
 ---
 
-## 生态定位与评级分歧案例
-
 > [!warning] 跨中心分歧与典型案例
 > CEBC 与 [[Blueprints for Healthy Youth Development\|Blueprints]] 构成了 12 个清算中心中最高门槛的第一梯队，其核心差异在于 CEBC 虽未强制要求外部[[Evaluator Independence\|独立评估者]]，但将 **12 个月（Level 1）与 6 个月（Level 2）干预后随访期** 设为刚性门槛：
 > - [[Success for All]]（SFA）— 在 CEBC 评级中获评 Level 2（Supported），其严谨的纵向[[Cohort Study\|追踪研究]]与多样本验证使其在跨界福利清算体系中获得高度肯定([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 23]])。
 
 ---
-
-## 相关概念／政策
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — CEBC 是多领域公共清算中心的典范，展示了儿童福利与教育政策的交叉证据治理。

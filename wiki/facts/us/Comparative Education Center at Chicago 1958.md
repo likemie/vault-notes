@@ -45,8 +45,6 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Comparative Education Center at Chicago 1958
-
 ---
 
 > [!info] 背景

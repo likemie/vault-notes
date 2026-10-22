@@ -64,11 +64,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# C. Arnold Anderson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名教育社会学家、比较教育学家，芝加哥大学教育系与社会学系教授，芝加哥大学比较教育研究中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]）创任主任（1958–1972 年），美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1963–1964 年）。
@@ -100,8 +96,6 @@ updated: 2026-10-22
 > - **1990 年** 逝世于美国加利福尼亚州。
 
 ---
-
-## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
 > - **1960 年代初 — [[Structural Functionalism|结构功能主义]]与方法论战书阶段** 确立实证社会学[[Paradigm|范式]]，主张以[[Variable|变量]]控制和跨国统计分析替代直觉历史叙事。
@@ -172,9 +166,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将[[Structural Functionalism|结构功能主义]]与实证社会学[[Paradigm\|范式]]深度植入英美比较教育学，瓦解了古典历史学派在战前的学术垄断。
 > - **方法路径** 倡导大规模跨国抽样、定量统计检验与跨国指标构建，直接启发了后来的[[IEA|国际教育成就评价协会]]（[[IEA]]）等大规模跨国实证调查项目。
 > - **政策路径** 与鲍曼等人开创的[[Development Education|发展教育]]研究，深度参与战后[[World Bank\|世界银行]]（World Bank）与美国国际开发署对第三世界国家的教育扩张与[[Human Capital Theory|人力资本]]规划。
@@ -185,8 +177,6 @@ updated: 2026-10-22
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 拉斯特等评安德森确立比较教育的社会科学学科规范
 > 战后早期[[Emergence|涌现]]出了一批优秀的比较教育学者，我们可以将他们与社会科学领域中更为传统的学科联系在一起，包括社会学领域的 C·阿诺德·安德森（C. Arnold Anderson）、[[Philip Foster\|菲利普·福斯特]]（Philip Foster），以及经济学领域的[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 123)]]
@@ -202,8 +192,6 @@ updated: 2026-10-22
 > - **学术史评价者** [[Val D. Rust\|瓦尔·D·拉斯特]]（Val D. Rust） — 考据安德森将常规社会科学规范引入学科的奠基地位。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

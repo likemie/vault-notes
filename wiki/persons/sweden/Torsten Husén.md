@@ -62,11 +62,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Torsten Husén
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 瑞典教育学家、心理学家、比较教育学者；斯德哥尔摩大学[[International Education\|国际教育]]研究所（IIE）荣誉教授；[[IEA\|国际教育成就评价协会]]（IEA）首任主席（1962–1978），国际教育[[Chinese Academy of Sciences|科学院]]（IAE）首任院长（1986–1998）；《国际教育百科全书》（*The International Encyclopedia of Education*）联合主编。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1967 — *International Study of Achievement in Mathematics: A Comparison of Twelve Countries***（跨国数学成就研究） [[IEA]] 奠基性两卷本文献，开创以世界各国为“教育自然实验室”的跨国大样本标准化成就测量体系。
 > - **1972 — *Social Background and Educational Career***（社会背景与教育生涯） 追踪实证数据探讨教育机会均等与社会分层，揭示家庭背景对[[Academic Achievement\|学业成就]]的持续制约。
@@ -102,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Torsten Husén|托斯滕·胡森]]的思想轨迹体现了战[[Postpositivism\|后实证主义]]测量向深层制度反思的历史转变。他主张，教育系统的制度理性不能仅维系在工具理性的心理测量与机械的人力需求规划之上；二战后西方社会对“通过教育扩张消除一切社会不平等与促进持续繁荣”的盲信，在实践中导致了教育规划的正义性与有效性双重破产，必须直面过度学校化带来的合法性危机以及不同[[Paradigm\|范式]]共存的必要性。
 
 > [!citation-card] 战后实证规划承诺在现实世界的破灭
@@ -121,8 +113,6 @@ updated: 2026-10-22
 > - **跨国／跨领域传播** 作为 [[IEA]] 长期领袖与《[[International Education\|国际教育]]百科全书》主编，搭建了连接欧美实证心理学与全球比较教育学的重要跨国合作网络。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 马修论胡森对战后实证神话的史学清算
 > 希腊比较教育学者迪米特里奥斯·马修（Dimitrios Mattheou）将胡森 1982 年的著作视作西方学术界对战后“[[Scientism\|科学主义]]比较教育神话”展开反思的标志性标尺，指出其论断准确概括了实证规划如何在外在治理失败中丧失了学术权威。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **机构节点** [[IEA]] — 长期担任首任主席（1962–1978），确立跨国成就评价制度形态。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

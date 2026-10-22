@@ -38,11 +38,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# United World Colleges Associated Schools Policy 1977
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间／发布主体** 1977 年 10 月，由[[United World Colleges\|联合世界书院]]（United World Colleges，UWC）国际董事会作出政策决定。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 124)]]
@@ -53,8 +49,6 @@ updated: 2026-10-22
 政策讨论受到新加坡经验直接影响。新加坡[[International Schools|国际学校]]先成为关联学校，数年后整校取得正式成员身份。支持扩大关联者希望以约十余所学校形成合作内圈，谨慎者则担心每个关联节点都需要访问、课程协调和行政支持，并预见关联学校很快会要求正式加入。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 123–124)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 国际董事会同意鼓励既有且符合条件的学校与 [[United World Colleges\|UWC]] 建立关联，但正式决定前必须先与现有联合世界书院保持一段适当长度的非正式联系。政策没有规定统一年限，把时间判断和最终资格保留给个案审议。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 124)]]
@@ -72,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 关联政策的形成与首轮检验
 > - **1970 年 10 月　新加坡形成关联先例** 新加坡[[International Schools\|国际学校]]以整校身份成为关联学校，[[United World Colleges\|UWC]] 通过人员、奖学金和国际联系进入既有学校。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 113–114)]]
 > - **1975 年 4 月　先例转为成员边界问题** 东南亚联合世界书院取得正式身份，证明关联学校可能迅速要求完整成员资格。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 116–117)]]
@@ -84,8 +76,6 @@ updated: 2026-10-22
 > - **1980 至 1982 年　关联转为正式成员** UWC 处理沃特福德的课程和财政障碍，1982 年签署正式加入协议，印证了关联可能成为晋级路径的早期担忧。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **国际董事会** 设定关联政策，审议候选学校的使命契合、共同成本及成员边界。
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **程序约束有限** 沃特福德的非正式联系期在蒙巴顿推动下提前结束，说明统一程序仍会受到个案价值和领导权威影响。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 124–125)]]
 
 ---
-
-## 争议与评论
 
 > [!tension-table] 是否扩大关联学校网络
 >

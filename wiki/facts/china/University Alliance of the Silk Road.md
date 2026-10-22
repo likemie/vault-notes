@@ -62,11 +62,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# University Alliance of the Silk Road
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 丝绸之路大学联盟（University Alliance of the Silk Road, UASR）是由西安交通大学于2015年倡议发起成立的非官方、[[Open-Mindedness|开放性]]跨国高等[[Educational Multilateralism|教育多边合作]]组织，旨在弘扬和平合作、开放包容、互学互鉴、互利共赢的丝路精神，搭建跨区域校际学术交流与人才联合培养平台。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]] 在外向型[[Internationalization of Higher Education|高等教育国际化]]格局中，该联盟展现出低门槛与去中心化特征，成为践行[[Knowledge Diplomacy|知识外交]]的代表性制度载体。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 促进沿线国家高水平大学在[[Student Mobility|学生流动]]、学者互访、课程学分互认、科技联合攻关以及政策智库研究领域的深度合作。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 683)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2015–2016** **创立与多边奠基期**
@@ -102,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（常务理事会与全体大会）** 最高审议机构为成员高校校长全体大会；常务理事会（Standing Executive Council）由作出重大贡献的创始高校及核心成员构成，负责重大会务决策。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
 > - **执行机构（常设秘书处）** 设于西安交通大学国际合作与交流处，承担日常联络协调、子联盟网络支撑与跨国青年交流会务组织。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
@@ -117,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **专业学科子联盟矩阵** 建立覆盖工、理、医、管、法等领域的11个跨国学科协同网络，成为高水平学科对接的实体工作平台。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1701–1702)]]
 > - **丝绸之路[[Grandes Ecoles|大学校]]长论坛** 形成常态化的高端政策研讨平台，定期发布多边合作共识宣言，协调区域高等教育合作议程。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 680)]]
@@ -131,8 +121,6 @@ updated: 2026-10-22
 > *The University Alliance of the Silk Road is dedicated to building an open and inclusive international higher education network, promoting mutual learning among civilizations and youth mobility.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **网络覆盖与跨洲规模** 正式成员165所，观察员19所，横跨欧、亚、非、美与大洋洲38个国家和地区。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
@@ -150,8 +138,6 @@ updated: 2026-10-22
 > - **150–237** 单届暑期国际研习营吸纳的成员高校青年[[Student Mobility|学生流动]]规模（人次）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1701)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

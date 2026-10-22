@@ -45,11 +45,7 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Ulrich Trautwein
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代教育心理学家、图宾根大学 Hector 教育科学与心理学研究所（Hector Research [[Institute of Education Sciences]] and Psychology）所长、原柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）核心研究员。
@@ -70,17 +66,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2004 — *Wege zur Hochschulreife in Baden-Württemberg ([[TOSCA]])*** 奠定巴登-符腾堡州文理中学转型与大学升学[[Cohort Study\|追踪研究]]的实证框架。[[Argument_Trautwein_2007_CEP\|(Köller, Watermann, Trautwein, & Lüdtke, 2004, 引自 Trautwein & Lüdtke, 2007)]]
 > - **2007 — *[[Epistemological Beliefs]], school achievement, and college major*** 运用潜[[Variable\|变量]]结构方程模型确立确定性信念对[[Academic Achievement\|学业成绩]]的净负向预测力及[[Disciplinary Socialization\|学科社会化]]机制。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 个体的[[Academic Achievement\|学业成就]]与长远学术发展不仅由一般认知智力决定，更深度取决于[[Epistemological Beliefs\|认识论信念]]、学业自我概念及[[Student Engagement\|学习投入]]等非认知心理特质；教育环境具有强烈的涵化功能，科学教育必须通过呈现知识的未定性与演进性，培养学生[[Reflexivity\|反思性]]批判思维。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 362–364)]]
 
 ---

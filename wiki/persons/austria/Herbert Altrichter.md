@@ -52,11 +52,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Herbert Altrichter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利教育学家，约翰·开普勒林茨大学（Johannes Kepler Universität Linz, JKU）教育学与教育心理学荣休讲席教授，德语区教育治理（[[Educational Governance Framework\|Bildungsgovernance]]）学派奠基人。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > - **2022** 自林茨大学荣休，继续活跃于欧洲教育治理与教师教育咨询领域。
 
 ---
-
-## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展阶段
 > - **第一阶段：[[Action Research\|行动研究]]与校本反思（1980–1990 年代）** 致力于将[[Qualitative Research\|质性研究]]方法与教师[[Reflexivity\|反思性]]实践相结合，强调一线教师是教育实践知识的生成者而非被动执行者。代表作：*Teachers Investigate Their Work: An introduction to the methods of action research*（Routledge, 1993）。

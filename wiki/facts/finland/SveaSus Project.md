@@ -46,11 +46,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-# SveaSus Project
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2018–2023年；主要学习与实践环境为邻近赫尔辛基的岛屿——**芬兰堡（Suomenlinna）世界遗产地**，这是一个具有丰富历史、空间与时间维度的真实物理[[Champ\|场域]]（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 4]]）。
@@ -59,8 +55,6 @@ updated: 2026-10-22
 > - **触发条件** 在面临气候变化、可持续性发展等全球性复杂时代危机（[[Epochal Key Problems]]）背景下，传统单一学科的知识讲授难以培养学生应对复杂未来的整体性素养，促成了这一集教学改革、艺术介入和学术研究为一体的综合性实验项目（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 6–7]]）。
 
 ---
-
-## 经过
 
 > [!dev-timeline] 事件经过
 > - **2018 — 项目启动与课程开设** SveaSus 项目在赫尔辛基大学教育科学学院正式立项并启动。面向学院全体学生开设选修课程，确立了教师、研究者、学生与艺术家的协同合作研究框架（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 1]]）。
@@ -71,8 +65,6 @@ updated: 2026-10-22
 > - **2023 — 项目收官与学术转化** 项目圆满结束，相关研究成果和实践经验被系统整理并向国际学术界输出，成为芬兰[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）在高等和教师教育领域最独特的实证案例之一（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 10–11]]）。
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] SveaSus 项目核心主张
 > SveaSus 项目将可持续性作为核心，[[Phenomenon-Based Learning\|现象本位学习]]作为教学方法，世界遗产地作为学习环境，构成了一个独特的教学与研究实验。
@@ -87,8 +79,6 @@ updated: 2026-10-22
 > - **知识影响** 提供了一个活生生的“[[Pragmatic Constructivism\|课程自我修正模型]]”（[[Pragmatic Constructivism]] 的具体体现），以跨学科整体性探究抵抗新自由主义全球教育治理下“知识和技能原子化”的异化倾向，捍卫了教学论中知识的“开放未来（Open future）”和“教学与更新（[[Disciplina and Doctrina\|doctrina]]）”的本质（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 5–8, 9–10]]）。
 
 ---
-
-## 争议与评论
 
 > [!actor-grid] 评论视角
 > - **政策与制度视角** 项目支持了[[Phenomenon-Based Learning\|现象本位学习]]抵御过度外部评估锁定的合理性。然而，在全球绩效和测量风暴中，该项目倡导的非目的论、体验性学习难以被现有的定量指标体系（如技能考核清单）所表征，在国家体制推广中存在制度兼容性困难（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。

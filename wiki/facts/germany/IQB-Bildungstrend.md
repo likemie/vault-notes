@@ -57,11 +57,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# IQB-Bildungstrend
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > [[Institute for Educational Quality Improvement\|IQB]] 教育趋势测评（IQB-Bildungstrend，早期亦称 Ländervergleich / 跨州比较研究）是德国依据各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]设立的全国代表性抽样达标测评项目。该项目由[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）全面统筹，用于系统监测德国 16 个联邦州的学生在多大程度上达到了国家统一制定的教育标准（Bildungsstandards）（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - **核心问题导向** 克服 2000 年 PISA 震荡后各州仅依赖国际测评排名的被动局面，建立德国本土自主可控的、对标国家教育标准的跨州达标度追踪工具（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 143]]）。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > [[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend 通过基于[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT）的常模标定与素养层级划分（Kompetenzstufen），将各州异质的教学大纲与学业产出转译为全国统一尺度的达标率（最低标准、基础标准、适切标准、卓越标准），形成透明的跨州学业镜像与政策反思依据（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
@@ -95,16 +89,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2000–2006 年 — [[PISA]] 各州扩展样本（PISA-E / PISA-BS）先行探索** 德国参与 PISA 后，[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 委托实证研究联盟增设大样本各州扩展测试，用于评估各州间的学业差距；这一阶段直接催生了统一国家标准的出台与 [[Institute for Educational Quality Improvement\|IQB]] 的成立。
 > - **2008–2012 年 — IQB-Ländervergleich 独立制度化** IQB 完全接管跨州标准测试，先后于 2009 年开展首轮 9 年级初中比较、2011 年开展首轮 4 年级小学比较，标志着德国国家自主测评体系的正式成型（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 143]]）。
 > - **2015 年至今 — 正式更名为 IQB-Bildungstrend 并深化纵向趋势监测** KMK 将该系列研究统一定名为“IQB 教育趋势”（IQB-Bildungstrend），重点转向跨轮次能力的长期升降趋势追踪（Trend Analyses），成为全德最具政治敏感度与政策影响力的质量晴雨表（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 144]]）。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **立项与政策主导方** [[Standing Conference of the Ministers of Education and Cultural Affairs\|德国各州教育与文化部长常设会议]]（KMK）负责审议测评周期、批准指标框架并接收最终国家报告。
@@ -125,16 +115,12 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 核心学术与政策影响
 > - **国家标准达成度的透明化刻画** 精确测定全德及各联邦州未能达到最低标准（Mindeststandard）的学生比例，打破了传统德国仅凭毕业证书互认而缺乏实际学业产出度量的黑箱。
 > - **社会背景与移民背景学业差距揭示** 持续监测移民一代、二代学生及低[[Socioeconomic Status|社会经济地位]]家庭子女在阅读与数学领域的达标鸿沟，为全德教育公平政策提供客观靶向。
 > - **反向穿透各州文化主权** 尽管德国法律严格禁止公开发布个别学校排名表，但 [[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend 输出的跨州达标排行榜对各州教育部构成了巨大的政治与公众舆论压力，实质性重塑了联邦多层级教育治理格局（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–145]]）。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

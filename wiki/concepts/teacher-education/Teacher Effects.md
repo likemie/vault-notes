@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Effects
-
 > [!metax] [教师效应 · Teacher effects](https://www.visiblelearningmetax.com/influences/view/teacher_effects)
 > 教师 › 教师特质
 >

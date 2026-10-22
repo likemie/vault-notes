@@ -67,11 +67,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# AI Agent in Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育智能体（[[Generative Artificial Intelligence\|Artificial Intelligence]] Agents in Education, AI Agent）是指在教学与学习环境中，能够感知学习者输入与状态、自主执行决策并提供自适应[[Scaffolding\|脚手架]]与即时反馈的人工智能计算系统。与静态教育数字资源不同，教育智能体能够根据学习者的认知水平、答题表现与交互轨迹动态调整教学步调与支架强度，在基础教育（Kindergarten through Twelfth Grade, K-12）中主要体现为[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics\|人工智能教育机器人]]（AI Educational Robotics）、[[Generative AI Agent in Education\|生成式智能体]]（[[Generative Artificial Intelligence\|Generative AI]] Agents）以及[[Conversational AI in Education|对话式智能体]]（[[Conversational AI in Education\|Conversational AI Agents]]）四种技术形态。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 1–3, 5)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教育智能体与传统教育软件及人类教师对比
 > | 维度 | 教育智能体（AI Agent） | 传统静态教育软件（Static EdTech） | 人类专业教师（Human Teacher） |
 > |---|---|---|---|
@@ -104,8 +98,6 @@ updated: 2026-10-22
 > | **个性化颗粒度** | 细粒度题项级反应跟踪与自适应推送 | 班级或大组统一步调 | 受精力与师生比限制，难以实现全天候即时微追踪 |
 
 ---
-
-## 核心要素
 
 > [!feature] 四类[[CORE Education|核心教育]]智能体技术形态（Istrate, 2025; [[Argument_Liu_2026_CHBR\|Liu et al., 2026]]）
 > - **[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）** 基于领域知识图谱、学生认知模型与教学决策算法，提供结构化分步解题引导与自适应规则提示的专用系统。在数学与理科程序性[[Problem Solving\|问题解决]]中展现出最强干预效能（$g = 0.540$）。
@@ -187,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 教育智能体核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -198,8 +188,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 教育智能体的发展演变脉络
 > - **1970年代至1980年代 规则型计算机辅助教学与早期[[Intelligent Tutoring Systems\|智能导师系统]]萌芽** 基于[[Behaviorism|行为主义]]与早期认知心理学，开发出 SCHOLAR、GUIDON 等基于产生式规则与专家系统的早期智能导师系统，实现单向规则分流。
 > - **1990年代至2000年代 认知模型成熟与贝叶斯知识追踪** Anderson et al. 开发认知导师（Cognitive Tutor），结合贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）与产生式规则，实现精细化的学生技能掌握度建模与步调自适应。
@@ -207,8 +195,6 @@ updated: 2026-10-22
 > - **2020年代 [[Generative AI Agent in Education\|生成式智能体]]与大模型驱动的自适应生态** 基于大语言模型与多模态架构的生成式智能体广泛[[Emergence\|涌现]]，具备开放式上下文理解、代码实时调试与自适应支架生成能力，并在全球基础教育中开展大规模准实验干预评估。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 1–3)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -223,8 +209,6 @@ updated: 2026-10-22
 > - **长期干预的可持续性挑战** 干预周期超过 3 个月的[[Study Population and Sample\|研究样本]]量较少且效应不稳定（$g = 0.650, p > .05$），长期使用中可能面临技术新奇[[Fade-out Effect\|效应消退]]、软硬件维护成本及学生持续投入度衰减等现实挑战。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 7, 13)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

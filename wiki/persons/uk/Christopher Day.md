@@ -36,7 +36,6 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Christopher Day，英国教育研究者，ISSPP（International Successful School Principalship Project）项目的创始人和领导者。该项目被 [[Argument_Møller_2017_EERJ|Møller (2017, p.379)]]称为"可能是迄今为止在西方国家进行的最全面的[[School Leadership\|学校领导力]]研究"，涵盖超过 20 个国家。

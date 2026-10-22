@@ -139,7 +139,6 @@ book_title: "International Handbook of Comparative Education"
 publication_place: "Dordrecht"
 publisher: "Springer"
 ---
-# Argument_Mitter_2009_Europe
 
 ---
 
@@ -156,8 +155,6 @@ publisher: "Springer"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -169,8 +166,6 @@ publisher: "Springer"
 > 作者以统一性与多样性的二分法作为贯穿全章的总透镜，将欧洲复杂的学术地理分布（英国、德国、法国、南欧、北欧与中东欧）与学会组织模式（跨国 [[Comparative Education Society in Europe|CESE]] 与各国国家学会）解释为统一性诉求与多样性现实的动态博弈；引入交叉领域概念，澄清欧陆比较教育学为何长期依附[[Allgemeine Pädagogik|普通教育学]]母体，又如何兼收实证社会学与历史解释学的跨学科工具；运用航海隐喻及其与激进改革论、国际测评工具论的对比，搭建起评价比较教育参与现实政策程度的理论光谱，使两个世纪的学科史不仅是一部人物与机构编年史，更成为一部透视[[Knowledge Production|知识生产]]、政治权力和地缘变迁的批判制度社会学。（pp.87–99）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -188,8 +183,6 @@ publisher: "Springer"
 > | **历史时空覆盖** | 覆盖 19 世纪拿破仑战争后、一战后、二战后冷战时期、两德统一与东欧剧变、世纪之交欧洲一体化深入推进全周期。（pp.87–98） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 欧洲比较教育学科演进全景结构
 > ```mermaid
@@ -382,8 +375,6 @@ publisher: "Springer"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 欧洲比较教育学科演进的核心学术发现
 > - **统一性与多样性的结构性主轴** 欧洲比较教育学的百年脉络本质上由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动，并在当代重构为普遍主义与文化[[Pluralism|多元主义]]的张力。（pp.87–88）
 > - **文化主义与历史传统的顽强主流地位** 欧洲比较教育始终未如北美一般全盘转向[[Behaviorism|行为主义]]与量化统计，以汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]、考恩、卡扎米亚斯与施里维尔为代表的文化-历史传统始终占据[[Discipline-Based Theory|学科理论]]高地，而大规模测评（[[IEA]]/[[PISA]]）长期游离于[[Disciplinary Institutionalization|学科建制]]之外。（pp.93–94）
@@ -391,8 +382,6 @@ publisher: "Springer"
 > - **跨文化融合与欧洲维度的务实转向** 比较教育正成功吸纳微观多民族整合的[[Intercultural Education|跨文化教育]]议程，并在[[EU|欧盟]]超国家治理背景下，从抽象欧洲统一哲学走向对欧洲教育政策与跨国实证数据的务实制度分析。（pp.97–98）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 历史深处的统一性与多样性二分法
 > 在欧洲这一区域视域中考察比较教育，必然会触及自中世纪早期以来便贯穿欧洲历史进程的基本结构原则——多样性与统一性的二分法。正是这一基本判断，决定了本章将该二分法作为贯穿全篇分析的核心主线。（p.87）

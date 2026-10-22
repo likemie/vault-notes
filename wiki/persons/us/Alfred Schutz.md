@@ -57,11 +57,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Alfred Schutz
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利裔美国哲学家、社会学家，[[Phenomenology\|现象学]]社会学（Phenomenological Sociology）与存在现象学（Existential Phenomenology）开山奠基人，曾执教于纽约新社会研究学院（New School for Social Research）。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1920s–1930s — [[Phenomenology\|现象学]]奠基与社会世界意义建构阶段（Vienna Phase）** 结合柏格森内时间意识与胡塞尔先验现象学，为[[Max Weber\|马克斯·韦伯]]的“主观意图”与“理解行动”提供微观[[Epistemology\|认识论]]奠基。
 >   - **代表著作** 《社会世界的意义构成》（*The Phenomenology of the Social World*, 1932）。
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 舒茨主张，社会现实绝非独立于人类行动者意识之外的客观物化实体，而是主体在日常“生活世界”中共同创造与经验的产物。社会世界本质上是一个由主观意义所浸润的“主体间性世界”。行动者借由[[Reflexivity\|反思性]]回溯赋予经验流以主观意义，依托传记位置所沉淀的“常识知识库”与“[[Typification\|类型化]]”图式理解他人行为；人类穿梭于包含日常生活、科学探究与艺术梦境的“多重实在”之间，各实在均遵循其特定的认知风格与情境规则。社会科学的任务并非强行套用自然科学的因果规律，而是基于行动者“第一序[[Construct\|构念]]”提炼出逻辑一致、主观充分的“第二序构念”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 
 > [!feature] 日常生活世界的意义建构机制
@@ -124,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 直接创立[[Phenomenology\|现象学]]社会学学派，其关于生活世界与常识知识库存的洞见，被彼得·伯格与托马斯·卢克曼发展为奠基性的《实在的社会构建》（*The Social Construction of Reality*, 1966），成为知识社会学的[[Paradigm\|范式]]标杆。
 > - **方法路径** 为[[Qualitative Research\|质性研究]]中的[[Interpretive Paradigm\|诠释范式]]确立了第一序[[Construct\|构念]]（参与者常识理解）与第二序构念（研究者科学概念）的[[Operationalization\|操作化]]桥梁，深刻启蒙了加芬克尔（[[Harold Garfinkel]]）的常人方法学，将日常[[Conversation Analysis|会话分析]]与破坏性实验推上微观探究前沿。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **教育研究应用** 为微观教育[[Ethnography\|民族志]]、课堂互动[[Discourse Analysis\|话语分析]]、教师实践知识（Practitioner Knowledge）与学生亚文化分类图式研究提供了直接的理论透镜。
@@ -148,8 +138,6 @@ updated: 2026-10-22
 >   - **[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）** [[Structural Functionalism|结构功能主义]]领袖，与舒茨就主观唯意志行动是否能在宏观系统框架中被客观化展开了长达两年的历史性通信论战。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

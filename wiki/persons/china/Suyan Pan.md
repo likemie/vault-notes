@@ -53,11 +53,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Suyan Pan
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国香港比较教育与高等教育学者，香港浸会大学教育部教授、博士生导师。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000 年代中后期 — 大学国际化与公民认同** 关注全球化背景下中国高校体制转型与青年学生的国家认同构建。
 >   - **代表著作** *University Autonomy, the State and Social Change in China* (2009).
@@ -93,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 当代中国的高等教育跨国输出与全球崛起深刻根植于古代[[Tributary System|朝贡体系]]的历史心智之中；大学在其中承担着不可替代的核心纽带功能，通过自主[[Knowledge Production|知识生产]]支撑国家卓越声誉，协同经贸外交促进区域联通，依托语言文化输出塑造友善形象，从而在周边构建多边非对称合作网络。[[Argument_Zhu_Yang_2025_HE|(Pan & Lo, 2018, 引自 Zhu & Yang, 2025, pp. 1044–1046)]]
 
 > [!citation-card] 大学作为新朝贡体系的连接纽带
@@ -105,9 +97,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 克服了西方传统现实主义与[[Soft Power|软实力]]二元[[Paradigm|范式]]的机械套用，为比较高等教育学界提供了极具解释力的非西方本土理论透镜。
 > - **实证与政策应用** 该框架被广泛应用于检验中外合作办学空间布局、[[Confucius Institute|孔子学院]]发展、[[Belt and Road Initiative|一带一路]]跨国大学联盟及区域留[[Student Mobility|学生流动]]的动力机制。
 > - **后续范式整合** 促使后继学者进一步将新朝贡微观实践透镜与宏观[[Tianxia Heuristic|天下启发式]]及[[Knowledge Diplomacy|知识外交]]相结合（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）。
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > - **对话与修正者** Zhu, K.、Yang, R. — 运用中柬实证案例检验并更新其理论框架的当代学者。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

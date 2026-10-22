@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Student Suspension and Expulsion
-
 > [!metax] [停学／开除 · Suspension / expelling students](https://www.visiblelearningmetax.com/influences/view/suspension~expelling_students)
 > 课堂 › 课堂管理
 >

@@ -95,7 +95,6 @@ citation_aliases:
   - "Skourdoumbis & Rowe, 2024"
   - "Skourdoumbis & Rowe (2024)"
 ---
-# Argument_Skourdoumbis_2024_AER
 
 ---
 
@@ -114,8 +113,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -126,8 +123,6 @@ citation_aliases:
 > 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology\|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字[[Discourse|话语]]风险），最后把视野从文本延伸至[[Policy Network\|政策网络]]，勾勒出[[Australian Education Research Organisation\|AERO]]、[[Australian Institute for Teaching and School Leadership\|AITSL]]、CIS等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 核心方法与说明 |
@@ -144,8 +139,6 @@ citation_aliases:
 > | **实证与满意度数据** | 2022年澳大利亚毕业生结果调查数据（GOS, 2023）；[[Australian Institute for Teaching and School Leadership\|AITSL]]教师工作量与流失率调查数据（AITSL, 2021）。 |
 
 ---
-
-## 论证结构
 
 > [!argument-map] 论证逻辑总览
 > 整体批判性论证沿着“问题表征 → 预设揭示 → 历史沉默 → 生产者追溯 → 利益嵌入 → 权力强化”的递进逻辑展开，逐步拆解神经科学强制入课政策的真实权力运作过程。
@@ -184,9 +177,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤一：教师短缺背景下“工作量危机”向“教学缺陷观”的政治置换
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一：教师短缺背景下“工作量危机”向“教学缺陷观”的政治置换
 > 政策将“教师流失与短缺”这一结构性劳动力市场危机，降维并重构为“教师培训质量不足与缺乏准备度”的问题。通过选择性使用和歪曲满意度调查数据，避开了对过度工作量这一流失主因的讨论，从而将责任转移至[[Initial Teacher Training\|初始教师教育]]（ITE）机构，为强制嵌入外部标准课程制造合法性。
 
 > [!contrast-table] 实际劳动力市场状况 vs. 《强劲开端》政策表征
@@ -202,9 +193,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤二：神经科学作为“价值中立”知识的生物简化主义偏误
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二：神经科学作为“价值中立”知识的生物简化主义偏误
 > 优先改革1强制将“大脑与学习”（脑科学）列为核心课程，预设该学说是客观、[[Value Neutrality\|价值中立]]且能解决教育痛点的“银弹”。然而，这种脑科学推理不仅完全排斥了社会文化与情境维度的教学法，而且极度简化了学习过程，直接违背了国际政策组织（如[[OECD\|经济合作与发展组织]]，Organisation for Economic Co-operation and Development, OECD）对脑科学过度科学化及被滥用风险的历史警示。
 
 > [!critique-logic] 生物学[[Determinism\|决定论]]与国际组织预警的冲突
@@ -220,9 +209,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤三：历史的沉默：神经推理与优生学、赤字话语的历史关联
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三：历史的沉默：神经推理与优生学、赤字话语的历史关联
 > 政策文本对脑科学在历史上曾作为“压迫性技术”和“伪科学缺陷叙事”的黑暗历史保持绝对沉默。这种“科学确定性”极易在现实课堂中演变为针对低[[Socioeconomic Status|社会经济地位]]（Socio-Economic Status, SES）或少数族裔学生的缺陷标签，将社会不平等生理学化与遗传学化。
 
 > [!case] 神经推理与生物决定论的历史压迫案例
@@ -236,9 +223,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤四：问题表征的生产者：AERO的未发表证据与跨国“循证”网络
-
-> [!claim|lead] 步骤四主张
+> [!claim] 论证步骤四：问题表征的生产者：AERO的未发表证据与跨国“循证”网络
 > 神经科学这一问题表征并非自发形成，而是由[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）这一[[Educational Brokerage Agency\|证据中介机构]]深度编排并直接起草的。AERO在改革中扮演了“自己出题、自己答题、自己判卷”的封闭角色，其背后潜藏着庞大的英澳跨国政策移动网络与惩罚性问责的制度偏好。
 
 > [!actor-grid] 循证政策移动的核心行动者与利益网络
@@ -252,9 +237,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤五：私人利益的隐形嵌入：保守智库（CIS）文献的强制消费
-
-> [!claim|lead] 步骤五主张
+> [!claim] 论证步骤五：私人利益的隐形嵌入：保守智库（CIS）文献的强制消费
 > 改革核心内容所指定的必读参考文献，直接嵌入了由右翼保守主义智库（如独立研究中心 CIS）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
 
 > [!line-a] 智库意识形态的文献伪装
@@ -268,9 +251,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤六：惩罚性问责的逻辑闭环：AITSL认证扩权与教育存在论转向
-
-> [!claim|lead] 步骤六主张
+> [!claim] 论证步骤六：惩罚性问责的逻辑闭环：AITSL认证扩权与教育存在论转向
 > 改革将认证机构 AITSL 的行政监控权力推向了新的高度。通过将强制课程、惩罚性资金划拨和毕业生合格标准绑定，建立起[[Performativity|表演性]]问责的逻辑闭环。这最终破坏了大学教师教育的[[Ontology\|本体论]]与存在论基础，从根本上消解了教学的专业性和灵活性。
 
 > [!proc] 惩罚性问责的制度死锁路径
@@ -281,8 +262,6 @@ citation_aliases:
 
 > [!conclusion] 教育存在论的跨国破坏与重构
 > 这一政策的终极危险在于，它积极破坏并推翻了大学教师教育基于人文主义的本体论、[[Axiology\|价值论]]和实践论（Biesta et al., 2015）。当教育从“关乎人际沟通与主动阐释的人类事件”被降维异化为“线性刺激、投入产出与度量监控的[[Causality\|因果关系]]”（cause-effect relationships）时，教学与学习的本质将被彻底消解（Mockler & Stacey, 2021），重蹈英格兰学校主导[[Apprenticeship|学徒制]]与认知教条结合的悲剧覆辙（Mutton et al., 2017）。
-
-## 主要发现
 
 > [!finding-cards] 核心发现
 > 1. **首次全国强制脑科学入课** 报告开创了澳大利亚教师教育政策史的先河，在全国范围内将“大脑与学习”（神经科学）强制列为所有[[Initial Teacher Training\|初始教师教育]]（ITE）的必修课程，成为核心内容的法定标准（p. 2）。
@@ -301,8 +280,6 @@ citation_aliases:
 > - **A\$3.7M** [[Australian Council for Educational Research\|ACER]] 从独家运营 职前教师准入测试（[[LANTITE]]）中获取的估算年均收益，揭示了循证政策背后的巨额市场化经济利益。（p. 10）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 神经科学的简化主义与压迫风险
 > 单一且狭隘地关注基于大脑的方法不仅是简化主义的，而且还可能产生压迫性的技术。（p. 2）
@@ -330,8 +307,6 @@ citation_aliases:
 > Whilst on the one hand neurosciences can 'inform education', on the other it 'runs the risk of creating an education system which is excessively scientific and highly conformist'.
 
 ---
-
-## 自述局限
 
 > [!warning] 作者的[[Theoretical Standpoint\|理论立场]]边界与政策外推
 > - **并非全盘否定科学研究**

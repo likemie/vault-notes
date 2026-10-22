@@ -46,11 +46,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Canadian Education Indicators Program
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 加拿大[[Performance Indicators|教育指标]]计划（Canadian Education Indicators Program, CEIP）是由加拿大教育部长理事会（Council of Ministers of Education, Canada, CMEC）与加拿大统计局（Statistics Canada）联合开展的国家级统计与评估工程，旨在跨越各省分权的宪制壁垒，建立一套可与国际基准直接对质的全国教育质量与产出监测系统。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **国际评估接入** 伴随 [[PISA]] 成为全球教育质量通用货币，CEIP 将 OECD 国际指标深度嵌入本国监测体系，构建了高度对接国际基准的内部评估机制。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > CEIP 通过吸纳与 [[OECD]] 报告同质的量化统计口径，建立统一的区域比较指标，特别是将基于 [[PISA]] 评估的“学生成就卓越度”（Student Achievement Excellence）作为衡量各省教育水平是否卓越以及政策是否奏效的核心证据。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1989–1996 — 方案论证与指标奠基期** CMEC 与加拿大统计局联合确立第一代[[Performance Indicators|教育指标]]集，主要聚焦人口学特征、经费投入与基本升学率统计。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **1996–2000 — 产出扩展与全国报告期** 首次发布系统性《加拿大教育指标报告》（Education Indicators in Canada），开始尝试引入学习结果量化评价。
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > - **2015 至今 — 泛加拿大教育指标套件（PCEIP）常态化运营** 形成涵盖早期幼儿教育、K-12 基础教育至高等教育与劳动力的综合全景监控套件（Pan-Canadian Education Indicators Program），持续为政策决策提供实证数据支撑。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 加拿大教育部长理事会（CMEC）统筹省际政治意愿，联邦政府通过统计局提供专项技术资金支持。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 当指标显示部分省份理科高阶比例不足或教师文科配比失衡时，推动省厅调整教师培养方案（如 2012 年延长师资认证时长）。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 各省生均公共教育经费支出、教师平均薪酬与生师比。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > - **5–6** （卓越度追踪） 周期性监测 PISA 5–6 级顶尖水平学生比例。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

@@ -69,11 +69,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Rote Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 死记硬背（Rote Learning，亦称机械学习、机械记忆 Rote Memorization）是指个体通过字面重复、机械背诵和算法式程序套用，将孤立的事实、公式或规程储存于记忆中，而不寻求建立深层逻辑联系、因果机制推论或[[Epistemology\|认识论]]确证的表层认知加工模式。在现代认知心理学与教育测量中，它被视为认知加工层级的低阶产物；而在跨文化比较研究中，它构成了探讨东亚学习者“记忆与理解”关系以及解释[[Paradox of the Chinese Learner\|中国学习者悖论]]的核心争议议题。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 136–139)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 机械记忆、有意义接受学习与探究式概念理解对比
 > | 维度 | 机械记忆（Rote Learning） | 有意义接受学习（Meaningful Learning） | 探究式概念理解（Inquiry Understanding） |
 > |---|---|---|---|
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > - **vs 精深掌握** 精深掌握是整个记忆-练习-反思链条的终点，标志着从基础模仿进阶至自主创造与融会贯通。
 
 ---
-
-## 核心要素
 
 > [!taxonomy] 机械记忆的构成维度与表征形态
 > - **字面精确性与算法依赖** 关注词句的字面完全吻合或计算公式的机械搬用，缺乏对符号背后概念本质的把握。
@@ -190,8 +182,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -211,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 表层机械死记 vs [[Familiarization\|熟悉化]]基础内化
@@ -227,8 +215,6 @@ updated: 2026-10-22
 > 脱离理解追求的纯粹机械死记硬背具有公认的认知危害：它导致[[Working Memory\|工作记忆]]被碎片化事实占据，极易引发迅速遗忘和跨情境迁移失败；同时在[[Epistemology\|认识论]]层面固化盲从权威答案的依赖心理，严重阻碍学习者行使[[Epistemic Agency\|认识能动性]]与开展独立科学探究。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Dependent Variable\|结果变量]]与测验类型调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

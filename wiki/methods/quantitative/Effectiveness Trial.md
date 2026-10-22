@@ -66,11 +66,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Effectiveness Trial
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **实效试验（Effectiveness Trial，或有效性检验）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）阶梯式评估管线中面向规模化政策推广的终极检验阶段。其核心目标在于评估：某项在前期[[Efficacy Trial\|效力试验]]中已被证实有效的干预方案，在**真实世界、缺乏外部特权督导、完全依赖常规在编师资与常规办学经费**的大规模推广条件下，“能否在日常学校实践中稳定产生统计学显著的净收益”（即回答“Does it work in routine educational practice at scale?”）。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > *“There are examples of [[Education Endowment Foundation\|EEF]] trials that have shown positive effects in the efficacy testing stage, which have not been replicated in the effectiveness testing stage. There is often a direct tension between high-quality implementation and the need for greater statistical power. A large [[Study Population and Sample\|study sample]] may require intervention providers to scale up faster than appropriate, risking the scale-up mechanism.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 坚持真实世界证据（Real-World Evidence）与政策经济学视角。认为只有在常规行政压力、师资变动与经费约束等真实摩擦下依然能产生增益的方案，才具备公共财政大规模资助的合理性。
@@ -129,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **前置[[Efficacy Trial\|效力试验]]与规模化审查** 确认方案在前期效力试验中已获得至少 3 把挂锁的稳健因果证据，并完成规模化扩展先导测试（Scale-up Pilots）。
 > 2. **跨区域大规模招募与独立[[Preregistration\|预注册]]** 招募 50–200 所公立中小学，在 [[ISRCTN]] 预注册试验方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP）。
@@ -138,16 +130,12 @@ updated: 2026-10-22
 > 4. **依托国家普查大数据的[[Blinding\|盲法]][[Pre-test and Post-test\|后测]]** 链接[[National Pupil Database\|国家学生数据库]]（NPD）直接提取法定考试成绩，将[[Attrition\|样本流失]]率稳健控制在最低警戒线。
 > 5. **双重因果估计与政策决策报告** 汇报第一标题意向治疗效应（[[Initial Teacher Training\|ITT]]），结合工具[[Variable\|变量]] [[Complier Average Causal Effect\|CACE]] 与 IPE 过程数据，向国家教育部与学校出具推广政策建议。
 
-### 量化分析模块
-
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含跨数十个学区、数百所学校的超大规模层级数据（$N > 5,000$ 学生）。
 > - **核心变量** 意向分配 $Z_j$、实际依从状态 $D_i$、统考产出 $Y_{ij}$、前测基线 $Y_{\text{pre}}$。
 > - **核心模型** 包含校内相关系数（[[Intraclass Correlation Coefficient\|ICC]]）校正的多水平 ITT 模型与 Wald CACE 模型。
 
 ---
-
-## 典型实证案例
 
 > [!case] [[Thinking, Doing, Talking Science\|TDTS]] 科学教学试验的规模化破灭（Kitmitto et al., 2018）
 > 在英国“思考、动手、对话科学”（TDTS）项目中，[[Efficacy Trial\|效力试验]]（42 所学校）曾取得 $+3$ 个月学业进展（$d = +0.22$）；然而当资助方急剧将规模扩大至全英 205 所学校的大规模实效试验时，由于培训转为中介级联模式且对照组常态科学教学基线普遍提升，最终全样本统考[[Effect Size\|效应量]]净值归零（$d = 0.00$）。实效试验明确指出该方案在大规模推广时缺乏额外成本效益，有效阻断了数百万公共财政资金在缺乏实效保障项目上的浪费（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
@@ -167,8 +155,6 @@ updated: 2026-10-22
 > | [[Intent-to-Treat Analysis]] | 分析准则 | 实效试验衡量真实推广价值所必须坚守的法定统计口径。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度反思全英大规模实效试验中高频出现的效应归零现象，提出在规模化进程中统筹管理统计功效诉求与[[Implementation Fidelity\|实施保真度]]稀释的制度框架。

@@ -58,11 +58,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Office of Scientific Research and Development
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 科学研究与开发办公室（Office of Scientific Research and Development, OSRD）是第二次世界大战期间直接隶属于美国总统执行办公室的最高科技动员中枢。其核心法定职能在于统筹军民科技力量并直接对外订立武器装备与军事医学研发合同，从根本上打破了联邦政府不资助大学科研的战前传统，确立了国家安全需求与大学前沿探索紧密结盟的现代科研[[Paradigm|范式]]，成为战后美国[[Technological Republic|技术共和国]]政产学研协同体制的制度原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
@@ -75,16 +71,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1940–1941 — 战前动员雏形与 NDRC 奠基** 1940 年 6 月罗斯福设立国家国防研究委员会（NDRC），由[[Vannevar Bush|万尼瓦尔·布什]]领衔；在欧洲战事急剧恶化背景下，布什联合科学界领袖推动行政重组，以打破陆海军传统官僚机构对武器研发的垄断与迟钝反应。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **1941–1944 — OSRD 正式升格与全方位战时攻关** 1941 年 6 月升格为 OSRD，布什出任主任，原 NDRC 改由哈佛[[Grandes Ecoles|大学校]]长科南特掌舵并作为武器研发核心下属部门，另一核心部门专司军事医学攻关；OSRD 拥有直接签订军用研发合同的法律授权，深度主导并设立[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（Rad Lab）攻坚微波雷达、芝加哥大学冶金实验室攻坚链式反应，并监管[[Manhattan Project|曼哈顿计划]]早期进程。1942年《科利尔》（*Collier's*）杂志向全美近三百万读者介绍布什及 OSRD 时，直称其为可能赢得战争的人，标志着科学家被置于国家生存与民主防卫的中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1944–1947 — 和平转型筹划与体制制度化** 1944 年 11 月，罗斯福在华盛顿特区致信布什，要求制定战后方案，确保战时被剧烈打乱正常科研轨迹的物理学家和工程师能够将智力重新投向民用科学进步与和平时期的国家建设。1945 年布什呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告；1947 年底 OSRD 撤销，其存续的在研医学合同被国立卫生研究院（[[National Institutes of Health|NIH]]）全盘接收，雷达与物理学合同被[[Office of Naval Research|海军研究办公室]]（ONR）等吸收，战时动员机制彻底制度化为和平时期的[[Pluralistic Federal Funding System|多元联邦资助体系]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策中枢（行政办公室与领导层）** 由主任[[Vannevar Bush|万尼瓦尔·布什]]统筹全盘，直接向[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报，拥有极高行政调配权与总统政治互信。
@@ -99,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心成果与战时攻关矩阵
 > - **MIT [[MIT Radiation Laboratory|辐射实验室]]与微波雷达** 设立麻省理工学院辐射实验室（Rad Lab），汇聚全美数百名顶尖物理学家，成功研制机载、舰载微波雷达系统并迅速列装盟军，在不列颠空战反潜与太平洋战场发挥决定性作用。
 > - **[[Manhattan Project|曼哈顿计划]]的科学孵化** OSRD 全面统筹早期原子核裂变可行性论证与芝加哥大学冶金实验室反应堆，并将新墨西哥州洛斯阿拉莫斯实验室的研发工作通过政府合同交由加利福尼亚大学（伯克利分校）全面主持。
@@ -113,8 +103,6 @@ updated: 2026-10-22
 > *In 1942, an article in Collier's introduced Vannevar Bush... describing Bush as 'the man who may win the war.' In November 1944, Roosevelt sent a letter to Vannevar Bush... The challenge was to ensure that the engineers and researchers who had directed their attention to the industry of war—and particularly the physicists, who as Bush noted had 'been thrown most violently off stride'—could shift their efforts back to civilian advances.*
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 关键成效与历史辐射
 > - **大学从研发边缘跃升为国家核心** 二战前全美大学研发仅占全国总额的 9% 且几无联邦常规资助；OSRD 的运作使决策层与公众深刻认识到高水平大学是国家生存与安全最不可替代的智力武器，大学由此彻底迈入[[National Innovation System|国家创新体系]]的中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30, 33–35)]]

@@ -34,11 +34,8 @@ status: draft
 created: 2026-10-04
 updated: 2026-10-22
 ---
-# 1985 United World Colleges International Council Meeting
 
 ---
-
-## 背景与历史成因
 
 > [!claim] 网络扩大后，使命必须延伸到离校后的持续行动
 > 1985 年[[United World Colleges|联合世界书院]]（United World Colleges, UWC）国际理事会会议确认，书院数量、国家委员会和校友规模的增长不足以自动实现国际理解。运动还需要稳定收入、扩大文化覆盖，并为校友提供持续联络、议题学习和行动渠道。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 187–189)]]
@@ -50,8 +47,6 @@ updated: 2026-10-22
 > - **核心议程** 重申长期目标、重新考虑资金来源、接触新的文化区域，并提高校友网络的组织能力和公众可见度。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 187–188)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!timeline] 三天会议的主要议题
 > - **长期目标与结构多样化** 会议要求在书院模式不断分化时继续说明共同使命。
@@ -70,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 网络规模与文化代表
-
 > [!ref-table] 1985 年可核查的网络数据
 > | 指标 | 数量 | 能够说明什么 | 解释边界 |
 > |---|---:|---|---|
@@ -84,8 +77,6 @@ updated: 2026-10-22
 > 彼得森怀疑法国[[International Baccalaureate|国际文凭]]参与下降及国家资格衔接困难可能影响 UWC 代表，但明确表示无法判断两者的实际因果程度。人数差异可以证明代表失衡，不能单独证明失衡原因。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 188)]]
 
 ---
-
-## 历史后果与深远影响
 
 > [!finding-cards] 会议把网络规模转化为四项治理任务
 > - **使命需要持续解释** 多样化书院和国家委员会必须共同说明运动为何存在。

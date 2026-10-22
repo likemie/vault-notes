@@ -55,11 +55,7 @@ created: 2026-06-01
 updated: 2026-10-19
 ---
 
-# CNRS
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 法国国家科学研究中心（Centre National de la Recherche Scientifique，简称 CNRS）是 1939 年成立的法国最高国家级公共科研机构，直属法国高等教育和科研部，也是欧洲规模最大的基础研究实体；其在法律上定性为科学技术公立机构（Établissement Public à Caractère Scientifique et Technologique, EPST），以全职终身制国家公务员（Fonctionnaires）专职从事前沿探索为核心基石，与英美以短期竞争性课题和大学驱动为主的科研治理体系形成鲜明的[[Institutional Displacement|制度替代]]路径。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, p. 809)]]
@@ -72,8 +68,6 @@ updated: 2026-10-19
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1939–1945 — 战时诞生与国立科学动员** 在物理学家让·佩兰（Jean Perrin）等先驱推动下设立，初创时期经历战时动员与维希政权时期的组织调整，奠定了国家统一调配前沿科研资源的行政法理基础。
 > - **1945–1980s — 战后黄金扩张与科研国家队成型** 戴高乐主义与国家指导主义（Dirigisme）将基础研究确立为大国复兴核心战略；设立自属实验室（Laboratoires Propres）与独立研究员序列（研究员 Chargé de recherche 与研究主任 Directeur de recherche），形成不承担本科教学、专职从事纯科学探索的“国家研究[[Chinese Academy of Sciences|科学院]]”架构，[[Emergence|涌现]]出众多诺贝尔奖与菲尔兹奖得主（包括皮埃尔·布尔迪厄在此荣膺 CNRS 金奖）。
@@ -81,8 +75,6 @@ updated: 2026-10-19
 > - **2000s–至今 — 跨国排名倒逼与卓越治理重构** 面对上海交通大学[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU 2005）中法国大学由于科研署名分散而显著落后的危机，法国政府推动卓越大学建设计划（IDEX）与院校重组（如索邦大学、巴黎-萨克雷大学联盟），倒逼 CNRS 深度融入区域性大学集群的学术署名体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会与管理层）** 设有理事会（Conseil d'administration）与执行长官（Président-directeur général, PDG），统筹战略政策、年度财政预算与重大设施规划。
@@ -95,8 +87,6 @@ updated: 2026-10-19
 > - **多通道[[Positioning Practice|定位实践]]库存** 为法国学者提供区别于传统大学终身教职（Tenure-track）和特许任教资格（Habilitation）的独特学术晋升通道（从副研究员晋升至主任研究员），构成了法国学术劳动力市场的核心制度库存。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵
 > - **全谱系基础前沿研究** 在数学、理论物理、粒子天文学、结构化学、脑认知科学（如让·尼科研究所的认知哲学团队）与人类学社会学领域保持全球领军地位。
@@ -111,8 +101,6 @@ updated: 2026-10-19
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **人力规模** 拥有全职固定雇员逾 32,000 人（其中专职全职研究人员超 11,000 人，工程技术与行政支持人员超 13,000 人）。
 > - **实体网络** 运营逾 1,100 个实体科研单元，其中绝大多数与法国高校及跨国机构联合设立。
@@ -124,8 +112,6 @@ updated: 2026-10-19
 > - **倒逼欧陆大学组织重构** 在[[Global Universities Rankings|全球大学排名]]与卓越竞争冲击下，CNRS 的实体共建机制成为催化法国高校联合组建超大型[[Research Universities|研究型大学]]（如萨克雷大学、索邦大学联盟）的核心纽带。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >
@@ -142,8 +128,6 @@ updated: 2026-10-19
 > > - **科研中心自主论** 强调 CNRS 作为国家独立实体的学术品牌与声誉不应沦为大学追求排名的附庸与统计工具。
 
 ---
-
-## 条目关联网络
 
 > [!entry-map] 关联网络
 >

@@ -56,11 +56,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Harold Garfinkel
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家，常人方法学（[[Ethnomethodology]]，亦译俗民方法学）创始人，曾长期担任加利福尼亚大学洛杉矶分校（UCLA）社会学系教授。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1940s–1950s — 批判规范[[Determinism\|决定论]]与常人方法奠基阶段（Harvard & Early UCLA Phase）** 反思[[Talcott Parsons|帕森斯]]的[[Structural Functionalism|结构功能主义]]规范内化假设，结合舒茨生活世界[[Phenomenology\|现象学]]，提出实践推理与“常人方法”构想。
 >   - **代表论文／著作** 博士论文《感知他人行动者的知觉与反应研究》（1952）、陪审团决策民族志调查（1954）。
@@ -105,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 加芬克尔对传统社会学秩序观发起根本性颠覆：社会秩序绝非外在于行动者的客观实体或预设法则，而是行动者在日常实践中运用常识技巧持续建构、维持并使之在理性上“可说明”（accountable）的实践成就。行动者绝非被动承受结构塑造的“文化笨蛋”（cultural dopes），而是主动解释情境的意义建构者。社会探究必须怀疑既定实在性，深入剖析日常生活的“惊人[[Indexicality\|索引性]]”（awesome indexicality）与[[Discourse|话语]]描述与情境互为因果的“[[Reflexivity\|反思性]]”（reflexivity），从参与者内部机制透视社会秩序的生成过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 
 > [!feature] 常人方法学的核心概念与操作机制
@@ -131,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] Burrell 与 Morgan 论常人方法学对社会成就的内部透视
 > 常人方法学关注人们如何理解自身的日常世界。更具体而言，它针对参与者在社会相遇中达成并维系互动的机制——他们所作的假设、所采用的惯例以及所采纳的实践。常人方法学因此寻求以其自身的[[Discourse|话语]]来理解社会成就；它致力于从内部去理解它们。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
 >
@@ -140,9 +130,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 颠覆了传统社会学的结构[[Determinism\|决定论]]，将社会学研究的重心从抽象宏观体系彻底转向行动者微观实践推理，开辟了社会建构论与日常生活研究的新[[Paradigm\|范式]]。
 > - **方法路径** 催生了哈维·萨克斯（Harvey Sacks）等人的微观[[Conversation Analysis|会话分析]]（Conversation Analysis），确立了逐字[[Transcription in Qualitative Research\|转录]]、交替轮次（Turn-taking）与修复机制（Repair）等微观实证方法标准。
 > - **教育研究应用** 为教育[[Ethnography\|民族志]]与课堂微观研究提供了强大的分析透镜（如著名的课堂“草莓事件”，Walker & Adelman, 1975），揭示了师生互动中默会[[Indexicality\|索引性]]规则如何决定课堂控制与学业成败。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
@@ -163,8 +151,6 @@ updated: 2026-10-22
 >   - **正统[[Positivism\|实证主义]]与量化社会学家** 加芬克尔批判其运用预设[[Questionnaire\|问卷]]与机械编码强加外在虚假秩序，忽视日常生活的原初丰富性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

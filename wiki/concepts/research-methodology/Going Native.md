@@ -56,11 +56,7 @@ created: 2026-07-24
 updated: 2026-10-22
 ---
 
-# Going Native
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Participant Observation|参与观察]]本土化（Going Native，亦称土著化或观察者角色迷失），在[[Qualitative Research|质性研究]]、人类学与[[Ethnography|民族志]][[Fieldwork|田野调查]]方法论中，是指参与观察者在长期深度的田野浸润过程中过度认同被研究群体，将研究对象的价值观、规范和行为模式完全内化为自身的信念，从而丧失学术客观性、分析性反思意识与批判距离，由“研究者”彻底蜕变为“群体成员”的[[Epistemology|认识论]]与方法论危机（Kawulich, 2005, p. 4；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）。它是观察者角色连续体中完全参与者（Complete Participant）的核心方法论风险，与完全脱离角色的推断危险构成参与观察的两极困境。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 > - 不等于 跨国商业或政策机构的东道国本地化（Local Agency / Localization） — 跨国企业（如培生集团 Pearson plc 在新西兰委托本地代理商 Edify Ltd 开展运营）或教育政策在本土环境中的落地适配，属于制度外包、商业代理或[[Policy Borrowing|政策借用]]的在地化（Localization），属于政治经济学与组织管理学范畴，绝非人类学方法论意义上的观察者角色迷失（Going Native）。
 
 ---
-
-## 核心机制与条件
 
 > [!feature] 本土化的演化路径与诱发机制
 > - **角色连续体与角色混淆（Role Continuum & Confusion）** 在戈尔德（Gold, 1958）提出的四种观察者角色（完全参与者、作为观察者的参与者、作为参与者的观察者、完全观察者）中，完全参与者因隐瞒研究身份并全天候介入生活，最易发生角色认同错位，产生难以自拔的心理同化。
@@ -131,8 +125,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 本土化（Going Native）核心命题归纳
 > | 命题类型 | 核心指向 | 诱发机制与情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -141,8 +133,6 @@ updated: 2026-10-22
 > | **边缘反思调控命题** | 依靠“边缘人”定位、反思笔记与定期抽离机制维持健康双重意识 | 长期民族志田野、高情感负荷社区、参与观察实务 | Hammersley and Atkinson (1983); Merriam (1998) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与反思
 >
@@ -164,8 +154,6 @@ updated: 2026-10-22
 > > - **概念混淆辨析** 在政策与跨国商业语境中，跨国出版与测试巨头（如培生集团 Pearson plc）在海外设立本地代理机构（如新西兰的 Edify Ltd）属于资本运营的东道国本地化代理与准市场扩张策略；这与[[Qualitative Research|质性研究]]中学者因情感同化丧失学术[[Analytical Stance|批判立场]]的“Going Native”属于完全不同的两个学术范畴，绝不能将商业组织本地化代理生搬硬套为质性方法论的“土著化”。
 
 ---
-
-## 实证与实务参照
 
 > [!ref-table]- 质性与跨文化田野中观察者角色与本土化防范对照表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

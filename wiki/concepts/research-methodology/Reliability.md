@@ -84,11 +84,8 @@ status: draft
 created: 2026-06-23
 updated: 2026-10-22
 ---
-# Reliability
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 信度（Reliability）指测量工具、数据收集与研究发现在跨越时间、工具和受访者群体时所展现的一致性（consistency）、可依赖性（dependability）与可复制性（replicability）。对于实证研究而言，信度要求在相似情境中对相似群体重复施测时能够发现相似的结果；在[[Quantitative Research|量化研究]]中体现为测量程序的稳定度与误差控制，在[[Qualitative Research|质性研究]]中则转化为对自然生活情境的忠实记录与多观察者解释的可依赖性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
@@ -109,8 +106,6 @@ updated: 2026-10-22
 > - 区别于纯粹统计指标：在质性研究中转化为可依赖性（Dependability）与情境忠实性，避免机械套用数值信度系数。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 信度 vs 效度
 > | 维度 | 信度（Reliability） | 效度（Validity） |
@@ -180,8 +175,6 @@ updated: 2026-10-22
 > | [[Split-Half Reliability\|折半信度]]（Split-Half） | 内部一致性 | 将测量项目分成对等两半所测结果的一致性。常用奇偶数分半，需满足两半在难度、区分度和测量目标上高度趋同。计算公式包括Spearman-Brown、Flanagan、Rulon、Kuder-Richardson、Cronbach α等。 |
 > | 评分者信度（Inter-Rater） | 等值性（评分者间） | 不同评定者使用相同工具所得结果的一致性，分为评分者间信度和评分者内信度。两名评分者可用Pearson或Kendall/Spearman等级相关系数。 |
 
-### 信度系数的评价标准
-
 > [!warning] 信度系数阈值
 > 信度系数多以相关系数表示。一般认为：低于0.65不可接受；0.65~0.70勉强可以接受；0.70~0.80可以接受；高于0.80完全接受。较为宽松的标准则以0.60为下限。如果信度系数低于0.65（严格）或0.60（宽松），就需要重新修订问卷或量表（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。
 
@@ -237,8 +230,6 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -247,8 +238,6 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 > | **质性编码规程命题** | 多分析者盲审与编码员间信度检验保障质性归纳客观性 | 跨案例质性分析、[[Narrative Research\|叙事研究]]与质性文本编码 | O'Connor and Joffe (2020); [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 信度概念与测量[[Paradigm|范式]]的演化脉络
 > - **1904 — [[Classical Test Theory|经典测验理论]]与量化信度奠基**
@@ -263,8 +252,6 @@ Denzin and Lincoln (1994) 认为质性研究中信度作为可复制性可通过
 >   奥康纳与约菲（O'Connor & Joffe, 2020）及刘伟等学者系统规范了质性研究中的编码员间信度操作规程，通过多名独立研究者交叉比对与盲审提高跨案例综合的客观性与透明度。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 信度学术争议与[[Epistemology|认识论]]交锋
 >

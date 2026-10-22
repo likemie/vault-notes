@@ -126,11 +126,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Creativity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 创造力（Creativity）是指个体、群体或组织在特定社会文化与任务情境中，综合调动认知加工、情绪动机与环境资源，生成兼具**新颖性（Novelty / Originality）** 与**适切性（Appropriateness / Usefulness）** 的想法、[[Problem Solving|问题解决]]方案、行为或产品的心理潜能与综合表现。在教育心理学中，创造力兼具预测个体发展与作为教育干预效标的双重属性；在科学学与国家[[Innovation Ecosystem|创新生态]]中，颠覆性科学创造力高度依赖个体早年认知的探索灵活性，并受制于学术资助与评价制度的激励结构；在技术哲学与创新社会学中，真正的开创性创造力（如巴斯奎特重新划定高雅艺术边界）必须与商业资本异化下的浅层[[Technological Pastiche|技术拼贴]]及无生命衍生品严格区分。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_Guo_2025_TSC|(Guo et al., 2025, pp. 1–3)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
@@ -174,9 +170,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **创造者（Person）** 探讨创造者的认知能力、人格特质（如经验[[Open-Mindedness|开放性]]、精神质）、动机状态（内在动机）与生命周期创造力峰值（20–30 岁早年黄金期）。
 > - **创造过程（Process）** 探讨[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]、顿悟、酝酿与收敛评估等内在认知加工阶段，以及 AI 假设生成与物理实验[[Falsification|证伪]]的协同。
 > - **创造产品（Product）** 探讨最终产出的作品、观念、专利、科学定律或技术原型在特定领域的颠覆性与实用价值。
@@ -305,8 +299,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -335,8 +327,6 @@ updated: 2026-10-22
 > - **2026 年 [[Man-Computer Symbiosis|人机协同]]、[[Cognitive Deskilling|去技能化]]防范与国家科研体制反思** [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 确立防范 AI 引发[[Creative Deskilling|创造力去技能化]]的[[Virtue Epistemology|美德认识论]]支架；[[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] 将科学创造力从心理学扩展至国家创新政策，揭示学术风险规避与共识评审对颠覆性探索的系统性压制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -387,8 +377,6 @@ updated: 2026-10-22
 > > - **敏捷演进派** 主张在不确定环境中，保留选择权与快速试错迭代（Pivot）是降低创新失败成本、提升生存概率的核心法则。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

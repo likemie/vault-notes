@@ -55,12 +55,9 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Epistemic Deference
 （[[Epistemology|认识论]]顺从 / 认知让渡）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology|认识论]]顺从（Epistemic Deference）是指认知主体在面对特定判断或决策任务时，**单凭某一主张来源于特定外部行动者（如人类专家、权威机构或自动化决策支持系统），便将该主张视为比自身判断更具权威性或可[[Reliability|信度]]，进而推翻、压制或停止自身独立审思与反常证据权衡的认识让渡行为**。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 10–12)]] 在[[Man-Computer Symbiosis|人机协同]]中，认识论顺从既可以是在面对高度复杂不可验任务时的工具理性策略（理性顺从），也可以在面对明确反常证据时异化为放弃自主能动性的病理化盲从（强[[Automation Bias|自动化偏差]]）。
@@ -82,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Epistemology|认识论]]顺从与相关认识状态对比
 > | 维度 | 认识论顺从（Epistemic Deference） | [[Epistemic Dependence\|认识依赖]]（Epistemic Dependence） | 证言信念（Testimonial Belief） | 批判性信任（Critical Trust） |
 > |---|---|---|---|---|
@@ -93,8 +88,6 @@ updated: 2026-10-22
 > | **伦理属性** | 在高风险情境中构成道德能动性放弃 | 知识社会协作的常态 | 知识传递的基本机制 | 负责任[[Man-Computer Symbiosis\|人机协同]]的规范理想 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Epistemology|认识论]]顺从的核心维度与诱发机制
 > - **权威让渡（Surrender of Epistemic Authority）** 认知主体在权衡证据时，将技术系统的提示赋予极高先验权重，压倒自身的感知与推论。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 10–11)]]
@@ -140,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 认识论顺从核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,16 +142,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Epistemology|认识论]]顺从的概念演变脉络
 > - **2010–2020 年 — 社会认识论中的专家与证言顺从** 哲学家在立场认识论、专家证言与认知不公研究中探讨个体向领域权威让渡判断的合理性与边界（Tilton & Toole, 2010; Palmira, 2020）。
 > - **2023–2024 年 — 算法治理中的行政顺从** 公共行政与法律学者在算法辅助审查研究中发现公务员对算法评分产生系统性顺从（Alon-Barkat & Busuioc, 2023; Zerilli et al., 2024）。
 > - **2026 年 — [[Automation Bias|强自动化偏差]]的哲学解构与道德代理权界定** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将认识论顺从确立为解释强自动化偏差的核心[[Construct|构念]]，系统剖析其对自主能动性与道德能动性的侵蚀，提出通过反思机器与[[Defeater|击败者]]重建可质询性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -178,8 +165,6 @@ updated: 2026-10-22
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 论证在[[Research Synthesis|证据综合]]中防止对大模型输出的形式化顺从，确立人类专家对分歧数据的最终裁决权。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

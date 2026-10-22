@@ -71,11 +71,7 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-# Fitness for Purpose
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **目的适配性（Fitness for Purpose）** 指研究规划中的方法论选择、统计推断解释以及实践中证据品质的判定，必须严格以其所拟达成的具体目的（Purposes）为根本依归。在研究设计层面，[[Research Purpose\|研究目的]]决定研究类型、问题表述、抽样策略、资料收集工具与伦理决策，研究设计没有先验的统一蓝图，而是由目的适配性全面支配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch. 6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch. 7, p. 118]]）；在循证政策与实践层面，目的适配性构成了界定“适切研究证据”（Appropriate Research Evidence）的实质准绳，主张证据的优劣不能由脱离情境的单一证据等级制（Hierarchy of Evidence）垄断，而须取决于方法学严谨性与具体教育议题、组织情境及行动主体的深度拟合（Nutley et al., 2013；[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 140–141]]）。
@@ -103,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 目的适配性 vs. 证据等级制 vs. 方法偏好工具主义
 > | 维度 | 目的适配性（Fitness for Purpose） | 证据等级制（Hierarchy of Evidence） | 方法偏好工具主义（Methodolatry） |
 > |---|---|---|---|
@@ -114,8 +108,6 @@ updated: 2026-10-22
 > | **实践决策导向** | 审慎调和有效性与情境适切性，依托[[Professional Judgment\|专业判断]] | 机械套用实验处方与[[Effect Size\|效应量]]排行榜（[[Technical Rationality\|技术理性]]） | 让研究设计迁就自身技术库存（“尾巴摇狗”） |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心维度构成
 > - **研究规划全流程支配（Research Planning Dominance）** 目的适配性贯穿研究规划全过程，包括定向决策（边界约束）、设计与方法论（选择具体战术）、数据分析（匹配分析类型）以及呈现与报告（满足受众诉求）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|(Cohen et al., 2011, Ch. 6, p. 91)]]
@@ -181,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -191,8 +181,6 @@ updated: 2026-10-22
 > | **证据适切治理命题** | 以目的适配性打破单一证据等级制，奠基高质量证据使用的适切证据评价 | 循证教育政策、QURE 框架、跨部门系统综述质评 | Nutley et al. (2013); Popay et al. (2006); [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 目的适配性的思想演进脉络
 > - **1985 — 统计推断与[[Critique of Effect Size\|效应量批判]]** 菲茨-吉本（Fitz-Gibbon, 1985）将目的适配性引入[[Evaluation Research\|评估研究]]，批判[[Statistical Significance\|统计显著性]]（$p < .05$）的专断性，倡导根据研究目的评估效应量实用价值。
@@ -203,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -214,8 +200,6 @@ updated: 2026-10-22
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch. 7, p. 118)]] | 经典社会科学与教育研究规划多案例集 | 典型情境-研究设计对应模式考证 | 三大典型[[Research Purpose\|研究目的]]与抽样及收集工具的拟合度 | 宏观全貌映射与抽样调查拟合度 100%；因果干预评估与实验/[[Action Research\|行动研究]]拟合度 100%；微观体验与[[Ethnography\|民族志]]拟合度 100% | 规范方法学案例实证 | 确立研究目的与方法设计的内在逻辑映射规律，[[Falsification\|证伪]]方法偏好工具主义 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

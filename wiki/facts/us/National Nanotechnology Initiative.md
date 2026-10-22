@@ -45,11 +45,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# National Nanotechnology Initiative
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 国家纳米技术倡议（National Nanotechnology Initiative, NNI）是由美国联邦政府于 2000 年启动，并由美国国会于 2003 年通过《21世纪纳米技术研发法案》（P.L. 108-153）正式法典化的跨部门重大战略科技计划。该倡议统筹协调 20 余个联邦部门与机构的纳米科学与工程研发，构建了覆盖全美的开放式纳米制造与表征用户设施网络，奠定了当代微纳尺度微电子制造与量子器件研发的物理硬件基座。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 12, 21–23)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对全球在微观物质操控与纳米制造领域的战略竞争，解决大学师生与中小微初创团队无力独立投资昂贵微纳洁净室与电子显微表征机台的结构性困境。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 国家纳米技术倡议的核心干预假说在于：通过政府全额投资与联合补贴，建立以大学与国家实验室为依托的全国性开放共享微纳制造用户设施网络，辅以专业驻场工程师指导，能够以极低边际成本激发颠覆性基础研究并加速前沿微电子与纳米原型向商业代工厂的转化。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
@@ -80,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2000–2003 — 倡议确立与法定授权期** 克林顿政府提出倡议构想，小布什总统于 2003 年正式签署《21世纪纳米技术研发法案》，确立了跨部门常态化预算编列与 [[National Science and Technology Council|NSTC]] 协调机制。
 > - **2004–2014 — 第一代国家网络建设期（NNIN）** [[National Science Foundation|NSF]] 资助成立国家纳米技术基础设施网络（NNIN），在全美 14 所大学建立首批开放共享洁净室，[[Department of Energy|DOE]] 陆续建成 5 大纳米科学研究中心（NSRC）。
@@ -89,8 +81,6 @@ updated: 2026-10-22
 > - **2024–至今 — 与[[CHIPS and Science Act|芯片法案]]全面对接期** NSTC 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中将 NNI 和 NNCI 确立为承接微电子从实验室到代工厂（[[Translational Research|lab-to-fab]]）[[Research Translation|技术转化]]的底层物质依托，与《芯片与科学法案》重大工程深度协同。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23, 38)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **战略决策与顶层协调机构** [[National Science and Technology Council|NSTC]] 纳米科学工程与技术小组委员会（NSET）与白宫国家纳米技术协调办公室（NNCO）。
@@ -104,8 +94,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对从实验室微纳结构向晶圆代工厂大规模生产的衔接断层，引入工业界咨询委员会定期修订设备配置与工艺兼容性准则。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21, 43)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 联邦年度纳米技术研发总预算执行率、重大微纳机台更新与洁净室升级资本投入。
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > - **13,000+** （名） 每年直接进入 NNCI 用户网络洁净室开展微纳技术与芯片实验的独立研究人员规模。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与治理反思
 >

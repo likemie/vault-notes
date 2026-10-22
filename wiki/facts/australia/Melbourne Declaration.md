@@ -39,11 +39,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Melbourne Declaration
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2008 年 12 月由澳大利亚联邦及各州/领地教育部长共同组成的教育、就业、培训与青年事务部长级理事会（MCEETYA）在墨尔本联合签署发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
@@ -52,8 +48,6 @@ updated: 2026-10-22
 > - **制度位置** 澳大利亚全国统一课程（[[Australian Curriculum]]）与澳大利亚资格框架（AQF）高阶能力描述的最高顶层政策指针。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《墨尔本宣言》确立了两大全澳教育核心目标：目标一促进公平与卓越；目标二确保所有年轻澳大利亚人成为成功的学习者、自信与富有[[Creativity\|创造力]]的个体，以及积极与知情的公民。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]

@@ -55,11 +55,7 @@ created: 2026-10-11
 updated: 2026-10-20
 ---
 
-# Jeroen van der Heijden
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **中文译名** 耶伦·范德海登（通常简称范德海登）
@@ -69,8 +65,6 @@ updated: 2026-10-20
 > - **学术贡献概述** 范德海登是国际规制治理与比较制度分析领域的领军学者。他系统考证了[[Historical Institutionalism|历史制度主义]]中[[Institutional Layering|制度层叠]]概念的六十年跨学科文献前史，提炼出机构增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化脉络；通过解构荷兰《住房法》建筑规制执行史，他将[[Ray Pawson|雷·波森]]的[[Realist Evaluation|实在论评估]]原理拓展至制度分析领域，提出“变迁定性取决于主体的制度位置与时间尺度”这一化解突变论与渐变论对立的经典[[Epistemology|认识论]]命题；同时，他撰写了《城市气候治理创新》（剑桥大学出版社, 2017）等多部专著，开创性地将比较制度机制应用于全球可持续发展与韧性城市治理研究。
 
 ---
-
-## 思想发展与学术脉络
 
 > [!academic-timeline] 生平与学术节点
 > - **2007 年 — 建筑规制执行追踪与[[Realist Evaluation|实在论评估]]发轫** 在代尔夫特理工大学完成博士论文并发表关于荷兰建筑规制执行困境的研究，提出运用实在论视角解构不同层级主体对规制变革性质的时空感知差异。(Van der Heijden et al., 2007)
@@ -86,8 +80,6 @@ updated: 2026-10-20
 
 ---
 
-## 核心理论主张与方法论贡献
-
 > [!claim] 核心理论贡献
 > 1. **[[Institutional Layering|制度层叠]]因果解释[[Variable|变量]]论** 针对突变论与渐变论在宏观层面陷入循环论证的学术死结，范德海登论证指出：只要将分析焦点集中在被附加的行动者（Actors Added）与政策工具（Instruments Added）这两个具象因果解释变量上，制度层叠[[Analytic Framework|分析框架]]便能打通宏观外生危机与微观日常妥协，成为弥合[[Punctuated Equilibrium Theory|间断均衡理论]]与渐进演进理论鸿沟的中观理论枢纽。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 16)]]
 > 2. **制度变迁性质的主体位置与时间尺度制约假说** 借鉴波森与蒂利（1997）的[[Realist Evaluation|实在论评估]]提问，提出“对谁而言、在何种情境下构成了何种变迁”。在荷兰住房法案例中，2003 年微观承包商感知为激进剧烈颠覆，1983 年以来的住房部谈判者定性为渐进政策妥协，1901 年以来的百年宏观法理演进则定性为边际延续。客观统一的变迁标尺并不存在，任何定性评估均受制于观察者的行政坐标与时间视重视角。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
@@ -100,16 +92,12 @@ updated: 2026-10-20
 
 ---
 
-## 学术网络与理论互动
-
 > [!network] 思想继承与跨学科对话
 > - **思想承接：[[Kathleen Thelen]]（凯瑟琳·希伦）** 范德海登全面继承了希伦关于内生[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心洞见，但同时通过系统史料考证指出希伦并非层叠概念的孤立起点，发掘出希克勒、贝利斯尔与克雷普斯等重要前史，并指出当代学者对希伦理论的不当稀释与泛化。
 > - **方法论汲取：[[Ray Pawson]]（雷·波森）** 范德海登将波森在社会评估领域开创的科学实在论框架跨学科迁移至公共政策与制度变迁分析，为化解[[Historical Institutionalism|历史制度主义]]内部关于变迁规模的假性二元对立提供了方法论透镜。
 > - **批判对话：Taylor Boas（泰勒·博阿斯）** 范德海登直接对质博阿斯的互联网[[Composite-Standard Model|复合标准模型]]，指出其虽借用层叠概念，机制实质却是外围厚度商加固底层核心的[[Path Dependence|路径依赖]]与制度再生产，由此厘清了[[Evolutionary Economics|演化经济学]]与历史制度主义的分析边界。
 
 ---
-
-## 代表性论著与实证研究
 
 > [!evidence-grid] 代表性学术论著
 > - **[[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]]** — *[[Institutional Layering]]: A Review of the Use of the Concept*, *Politics*, 31(1), 9–18. 梳理制度层叠 60 年学术史，提出行动者与工具解释[[Variable|变量]]。
@@ -118,8 +106,6 @@ updated: 2026-10-20
 > - **Van der Heijden (2010)** — *A Short History of Studying Incremental Institutional Change*, *Regulation & Governance*, 4(2), 230–243. 深入评估[[Historical Institutionalism|历史制度主义]]渐进变迁模型的[[Interpretive Validity|解释效度]]。
 
 ---
-
-## 关联研究与知识库索引
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]] — 范德海登在 *Politics* 发表的[[Institutional Layering|制度层叠]][[Critical Review|批判性综述]]，系统奠定制度层叠三大传统与实在论多维观察框架。

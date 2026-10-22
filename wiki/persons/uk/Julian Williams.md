@@ -32,7 +32,6 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 曼彻斯特大学（University of Manchester）教育研究者，研究方向为教育研究中的"[[Third Space Discourse\|第三空间]]"（third spaces）、研究-政策-实践的混合活动设计、替代性学习结果测量。

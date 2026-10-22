@@ -37,11 +37,7 @@ created: '2026-06-30'
 updated: 2026-10-22
 ---
 
-# Asymmetric Brain Circulation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **非对称人才循环（Asymmetric Brain Circulation）** 是指在一个国家或地区的科学系统中，高水平学者和科研人才的国际流动呈现出结构性失衡与非对等特征。具体表现为高端核心人才持续净流出至世界科学强国，而流入的引智人才在数量上虽能弥补流失，但在学术水平和研究质量上却主要局限于相对落后的地区，导致科学系统整体呈现学术[[Competitiveness|竞争力]]退化的风险。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 41]])
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 人才引进中“量化规模”与“质性效能”的冲突
@@ -105,8 +97,6 @@ updated: 2026-10-22
 > > - **质量导向（学术生态论）** 指出在缺乏与顶尖科学强国高端学者对等交流的情况下，仅靠区域性学者流入和短期访问指标注水，不仅无法提升本土研究质量，反而由于缺乏实质性长期协作，浪费了大量学术卓越资金。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 41–42]])
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

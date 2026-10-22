@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Artificial Intelligence in Education
-
 > [!metax] [人工智能 · Artificial Intelligence](https://www.visiblelearningmetax.com/influences/view/artificial_intelligence)
 > 技术、学校与校外策略 › 虚拟／增强现实
 >

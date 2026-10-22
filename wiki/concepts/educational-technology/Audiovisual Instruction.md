@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Audiovisual Instruction
-
 > [!metax] [视听教学方法 · Audio / visual methods](https://www.visiblelearningmetax.com/influences/view/audio~visual_methods)
 > 技术、学校与校外策略 › 其他信息技术
 >

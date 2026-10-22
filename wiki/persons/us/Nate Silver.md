@@ -39,11 +39,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Nate Silver
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国统计学家、民意分析专家、数据新闻作家，数据分析博客网站 FiveThirtyEight 创始人。
@@ -66,15 +62,11 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与核心洞察
 > - **2012 — *The Signal and the Noise*** 阐述贝叶斯概率推理在天气、金融、政治与疾病大流行等不确定系统中的预测逻辑。
 > - **2024 — *On the Edge: The Art of Risking Everything*** 深入考察博弈、量化金融与风险评估领域的理性心智特质，系统阐述[[Cognitive Decoupling|认知脱钩]]（Decoupling）在抵抗极化叙事与偏见诱导中的关键价值。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]
 
 ---
-
-## 学术与思想评价
 
 > [!critique] [[Epistemic Value|认识论价值]]与当代反思
 > - **抵御身份政治对科学理性的侵蚀** 银提出的[[Cognitive Decoupling|认知脱钩]]概念，直指当代文化界过度关注言说者身份而丧失对经验事实独立检验能力的认知弊病，倡导一种冷静、客观、就事论事的科学求真态度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 94–95)]]

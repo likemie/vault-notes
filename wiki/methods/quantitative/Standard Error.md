@@ -56,11 +56,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-# Standard Error
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 标准误（Standard Error, SE）是样本统计量（如均值、比例、回归系数、标准化均数差[[Effect Size|效应量]]）在理论[[Sampling Error|抽样分布]]上的标准差，度量样本估计值围绕总体真实参数的理论变异离散程度。它是[[Central Limit Theorem|中心极限定理]]的直接推论，量化了从样本推断总体时的[[Random Sampling|随机抽样]]不确定性幅度。SE 是构建[[Confidence Interval|置信区间]]（$CI = \text{点估计} \pm Z \times SE$）、执行假设检验以及[[Meta-analysis|元分析]][[Inverse-Variance Weighting|逆方差加权]]（$w = 1/SE^2$）的核心数理基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 150–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25–27)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** SE 度量的是从有限经验样本推断广义总体时固有的客观[[Random Sampling|随机抽样]]波动，体现了实证科学推断知识的概率性与渐近性。
 > - **研究者角色** 要求研究者根据具体数据结构（单样本均值、分类比例、独立双组实验设计或两级[[Meta-analysis|元分析]]）严密推导对应方差公式，严格防范将标准误与标准差（SD）混淆作为除数的计量事故。
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | **核心用途** | 构建参数 [[Confidence Interval\|置信区间]]、显著性检验、[[Inverse-Variance Weighting\|逆方差加权]] | 描述群体多样性、计算[[Effect Size\|效应量]]分母除数 | 评估抽样代表性与理论估计误差界限 | 评价回归方程模型拟合优度与预测带宽 |
 
 ---
-
-## 核心统计公式与计算步骤
 
 > [!formula-set]- 标准误的四维公式演进与应用谱系
 > ```mermaid
@@ -179,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-## 统计建模与质控规范
-
 > [!proc] 标准误在实证研究与[[Research Synthesis|证据综合]]中的四步质控规程
 > 1. **原始数据提取与除数严格核实** 审查[[Primary and Secondary Documents|初级文献]]报告的均值变异参数，严格区分 $\text{SD}$ 与 $\text{SE}$；若文献仅报告 $\text{SE}$，必须利用 $\text{SD} = \text{SE} \times \sqrt{n}$ 还原真实标准差后再行计算标准化[[Effect Size|效应量]]，杜绝除数混淆灾难。
 > 2. **独立效应量方差精确建模** 提取实验组与对照组精确[[Sample Size Determination|样本量]]（$n_E, n_C$），代入组间无偏方差公式计算抽样标准误 $\text{SE}_d$；对于小样本研究执行 Hedges 校正。
@@ -188,8 +178,6 @@ updated: 2026-10-22
 > 4. **依赖结构排查与稳健方差校正** 针对文献重叠与多重测量依赖，弃用传统独立性假设下的单层方差公式，采用[[Robust Variance Estimation|稳健方差估计]]（RVE / 三明治估计量）自动修正低估的标准误。
 
 ---
-
-## 典型案例研究：元分析审查中的标准误失范
 
 > [!case] 混淆标准差与标准误致[[Effect Size|效应量]]虚增十倍（Eisenstaedt 案例）
 > - **原始数据提取** Gijbels et al. (2005, p. 56) 纳入 Eisenstaedt et al. (1990) 单科成绩，对照组均值 $80.21$、标准误 $\text{SE} = 1.65$（$n = 107$），实验组均值 $66.53$、标准误 $\text{SE} = 2.74$。
@@ -210,8 +198,6 @@ updated: 2026-10-22
 > - **大样本惩罚后果** 这一武断设定导致大样本高精度研究的方差被人为拔高至 $0.018$，真实统计权重被残酷压缩达 7 倍，破坏了[[Inverse-Variance Weighting|逆方差加权]]的无偏最优性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
 
 ---
-
-## 软件实现工作流
 
 > [!software-impl] R 语言中的标准误计算与提取实现
 > ```R
@@ -237,8 +223,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法学局限与学术争议总览
-
 > [!warning] 标准误的统计局限与推断风险
 > 1. **大样本渐近正态依赖** 传统 SE 公式严重依赖[[Central Limit Theorem|中心极限定理]]与正态分布假设，在[[Sample Size Determination|样本量]]极小（$N < 30$）或分布严重偏态时估计严重失效。
 > 2. **数据依赖结构破坏** 一旦原始研究存在重叠或组内重复测量相关，传统独立性标准误公式会产生严重低估，虚假收窄[[Confidence Interval|置信区间]]。
@@ -262,8 +246,6 @@ updated: 2026-10-22
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 严格揭示元分析审查中混淆 SE 与 SD、硬造伪标准误及对标准误取均值的实证灾难。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统推导均值的标准误（[[Causal Modeling|SEM]]）与分类比例标准误的计算公式，确立[[Confidence Interval|置信区间]]构建与大样本边际收益递减准则。

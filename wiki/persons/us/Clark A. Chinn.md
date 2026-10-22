@@ -73,11 +73,7 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# Clark A. Chinn
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育心理学家与学习科学家，罗格斯大学（Rutgers University）教育研究生院教授，国际学习科学学会（International Society of the Learning Sciences, ISLS）重要学者，《教育心理学家》（*Educational Psychologist*）前主编。
@@ -102,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990–2000 年代 — 协作论证对话与指导探究奠基阶段** 聚焦课堂日常对话中的论辩与推理结构，反驳认知负荷派将探究教学贬低为无指导试错的观点，确立[[Scaffolding\|脚手架]]支持在探究中的核心地位。
 >   - **代表著作** *Collaborative reasoning: Language rich approaches to reading comprehension* (2001); *Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006)* (2007, 与 C. E. Hmelo-Silver & R. G. Duncan 合著).
@@ -120,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 真正的学习绝非被动吸收预制结论或机械执行探究步骤，而是学习者在富有社会互动支持的共同体中行使[[Epistemic Agency\|认识能动性]]，协调经验证据与替代性理论模型，并在元[[Epistemology\|认识论]]审议中达成[[Knowledge Building Theory|知识建构]]。科学教育的核心目标不仅在于掌握既定结论，更在于培育学生对什么是可靠证据生成过程、什么构成了良好解释标准的深刻认识论反思。
 
 > [!citation-card] 论科学探究教学的六大认识论要素
@@ -137,9 +129,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 彻底重塑了当代学习科学对[[Epistemic Cognition\|认识论认知]]（Epistemic Cognition）的理论定义，使 [[AIR Model of Epistemic Cognition\|AIR]] 模型成为国际学术界分析个体与集体知识评估的主流分析工具。
 > - **方法路径** 提出了超越图尔敏论证结构分析的[[Epistemology\|认识论]]实质评价[[Paradigm\|范式]]，建立了以观察条件、因果机制与证据可[[Reliability\|信度]]为核心的[[Coding in Qualitative Research\|质性编码]]与微观分析方法。
 > - **教学实践路径** 研发了覆盖初高中的 [[PRACCIS]] 课程体系，将模型建构、证据协调与元认识论审议深度整合进常规科学课堂。
@@ -152,8 +142,6 @@ updated: 2026-10-22
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]]的认识论认知理论，论证学习者关于知识、证据与确证的认知信念如何塑造其与生成式 AI 交互时的[[Epistemic Dependence\|认识依赖]]与[[Evaluative Judgement\|评价性判断]]。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 学习科学界对 Chinn 理论贡献的定性评价
 > Chinn 与合作者通过将当代[[Epistemology\|认识论]]哲学与真实科学课堂实践深度打通，成功带领教育心理学跨越了个体抽象信念的狭窄视角，将[[Epistemic Cognition\|认识论认知]]确立为当代学习科学最具活力的实践研究纲领之一。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–224)]]
@@ -168,8 +156,6 @@ updated: 2026-10-22
 > - **学术机构与重要项目** 罗格斯大学（Rutgers University）— 长期任教与研究基地；国际学习科学学会（ISLS）— 学术共同体核心依托；[[PRACCIS]] — 主持研发的国家级科学探究与概念转变项目。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

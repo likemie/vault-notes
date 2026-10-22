@@ -34,8 +34,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Reusability Paradox
-
 > [!info] 定义
 > 可重用性悖论最初由 Wiley 用于讨论学习对象：如果一个学习对象因为专门为某一情境设计而有效，它就难以在其他情境中复用；反过来，如果它被设计成能在很多情境中复用，它就不会特别适合任何一个具体情境([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.36]])。
 

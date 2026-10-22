@@ -55,11 +55,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Asian Universities Alliance
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 亚洲大学联盟（Asian Universities Alliance, AUA）是由清华大学于2017年发起成立的高水平[[Research Universities|研究型大学]]区域多边联合体，汇集亚洲13个国家和地区的15所旗舰[[Research Universities|研究型大学]]，旨在通过高门槛准入、精英学术网络与定向高强度科研资助，增强亚洲高等教育的区域自主性与全球[[Discourse|话语]]权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]] 在中国外向型[[Internationalization of Higher Education|高等教育国际化]]布局中，该联盟展现出鲜明的精英化与议程引领特征，成为行使[[Knowledge Power|知识权力]]的代表性制度载体。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1704)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 汇聚亚洲优势智力资源，通过学者奖励计划、联合科研资助、青年学者论坛与年度校长峰会，增进亚洲应对区域共同挑战的自主科研实力与全球规则制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2016–2017** **高端倡议与联盟创立期**
@@ -95,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（校长理事会 Board of Presidents）** 由全体15所成员高校校长共同组成，负责制定战略愿景、裁定项目设立、审议新成员加入并掌握最高决策权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
 > - **常设执行机构（秘书处 Secretariat）** 设于清华大学，负责执行理事会决议、管理各项学者与科研资助基金并统筹跨校联络协调。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **竞争性联合研究立项机制** 由清华大学首席研究员牵头联合至少一所成员高校专家共同申报，重点资助紧扣重大现实挑战的前沿科研课题。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵
 > - **AUA 学者奖励计划（Scholars Award Program）** 资助成员院校优秀学者赴伙伴高校开展为期 10 至 14 天的学术驻留研究与联合授课，年均资助规模达 29 至 60 人。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > *In today's world, working in solidarity with one another to harness the potential of technological and innovative advancements in education is essential for the achievement of AUA members' individual and shared goals.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **网络规模与代表性** 精确维持在 15 所顶尖大学，覆盖东亚、中亚、南亚、东南亚与中东 13 个国家和地区。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1700)]]
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **29–60** 学者奖励计划年均选派资助驻校交流学者规模（人）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -42,8 +42,6 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# Non-dilutive Funding
-
 > [!info] 定义
 > 非稀释性资助（Non-dilutive Funding）指不需要创始团队出让股权（equity）或所有权的资助形式。与之相对的是稀释性资金（dilutive funding）——如风险投资（Venture Capital, VC）和天使投资（Angel Investment）——投资方以资金换取公司股权，创始团队的持股比例因此被"稀释"（pp.144, 148）。
 
@@ -58,9 +56,7 @@ updated: 2026-10-22
 
 > **小企业专项资助计划**。[[SBIR and STTR Programs\|小企业创新研究计划]]（Small Business Innovation Research, SBIR）和小企业技术转移计划（Small Business Technology Transfer, STTR）专门面向小企业，但大学衍生企业在成立后可以申请。此外，NSF 的 [[NSF I-Corps\|I-Corps]] 项目提供创业培训和客户发现方面的支持性资金（p.149）。
 
-## 在衍生企业生命周期中的关键作用
-
-> [!success|notitle]
+> [!success] 在衍生企业生命周期中的关键作用
 > 非稀释性资助填补了[[University Spin-Out\|大学衍生企业]]生命周期中最脆弱的一段资金缺口（pp.144-146）：
 > - **在 VC 介入之前** 大学衍生企业的[[Technology Readiness Level\|技术就绪度]]（Technology Readiness Level, TRL）通常不足以满足[[Corporate Venture Capital\|企业风险投资]]（CVC）或传统 VC 的投资门槛（p.145）。非稀释性资助让衍生企业能够在不需要寻找外部投资者的情况下，将技术推进到足够成熟的阶段
 > - **保留所有权和控制权** 由于不需要出让股权，创始团队可以保留对公司的完全控制权，在时机成熟时以更有利的估值进行首轮股权融资

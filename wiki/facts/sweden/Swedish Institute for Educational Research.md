@@ -38,8 +38,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Swedish Institute for Educational Research
-
 > [!info] 背景
 > Swedish Institute for Educational Research 于 2015 年建立，是瑞典面向教育研究[[Research Utilization\|证据使用]]的机构([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.33]])。
 

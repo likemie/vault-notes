@@ -51,11 +51,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Defeater
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性假设的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski et al. 转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 削弱型击败者与反驳型击败者的机制与人机交互功能辨析
 > | 比较维度 | **削弱型击败者（Undercutting Defeater）** | **反驳型击败者（Rebutting Defeater）** |
 > |---|---|---|
@@ -89,8 +83,6 @@ updated: 2026-10-22
 > | **人机交互抗辩功能** | 促使操作者对系统建议的置信度降级，引发审慎重检 | 为操作者直接提供推翻系统建议并采纳替代方案的**实质证据支架** |
 
 ---
-
-## 核心构成要素
 
 > [!quad-grid] 击败者机制的核心维度
 > - **削弱型击败者（Undercutting）**
@@ -128,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -138,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 击败者概念的演变历程
 > - **1987 — [[Formal Epistemology|形式认识论]]与可撤销推理奠基** 约翰·[[Jackson Pollock|波洛克]]（John L. Pollock, 1987）在 *Cognitive Science* 发表经典论文，正式确立削弱型击败者（Undercutting）与反驳型击败者（Rebutting）的逻辑分类学，为非单调逻辑与知识确证理论奠定基础。
 > - **2000s–2010s — 论辩理论与人工智能知识表示** 击败者理论被广泛应用于人工智能论辩计算（Computational Argumentation）与证据图谱构建，形式化描述冲突命题之间的攻击与防御关系。
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > - **2026 — 认知安全防护与[[Automation Bias|自动化偏差]]防御架构** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将击败者机制与反思机器整合为抵御强[[Automation Bias|自动化偏差]]的认知安全防护架构，确立其在维护有意义人类控制与防范道德审思义务让渡中的核心规范价值。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

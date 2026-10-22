@@ -50,11 +50,7 @@ created: 2026-08-11
 updated: 2026-10-16
 ---
 
-# Concurrency of Learning in the Core Questionnaire
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Concurrency of Learning]] in the Core [[Questionnaire]]
 > - **工具类型** 问卷 / 量表
@@ -63,8 +59,6 @@ updated: 2026-10-16
 > - **实施方式** 自陈（由研究者设计并经过外部[[International Education\|国际教育]]专家审查）
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Concurrency of Learning]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -75,8 +69,6 @@ updated: 2026-10-16
 > | [[Open-Mindedness\|开放性]]反馈 | 3 | 并发学习的具体良好[[Praxis\|实践]]、遇到的挑战以及改进建议 | 文本分析 / 简答 |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 前 17 题为陈述句，后 3 题为简答问答。
@@ -107,8 +99,6 @@ updated: 2026-10-16
 > | 16 | Concurrency of learning supports the development of [[IB Learner Profile\|Learner Profile]] attributes at my school. | 同意程度 |
 > | 17 | My school evaluates how coherence in the core program is implemented. | 同意程度 |
 
-### 实践与挑战（简答题部分）
-
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
 >
@@ -120,8 +110,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -130,8 +118,6 @@ updated: 2026-10-16
 > | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] | 原始英文版 | N=40，包括来自土耳其连续与非连续 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师和学校管理者。用于探讨核心组件连贯性的实现现状。 | 经过熟悉 IB 事务的[[International Education\|国际教育]]专家审查[[Face Validity\|表面效度]]，使用[[Descriptive Analysis\|描述性统计分析]]定量部分。 | 大多数受访者认可核心连贯性对跨学科学习的价值，但在具体联结策略上呈现表面化；超过一半受访者认为核心组件在学校中实际上是孤立运行的（题项7）；学校在发现核心组件联系（题项10）及时间规划上面临显著挑战。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

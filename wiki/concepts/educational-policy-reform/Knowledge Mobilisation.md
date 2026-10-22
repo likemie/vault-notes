@@ -98,11 +98,7 @@ created: "2026-05-21"
 updated: 2026-10-22
 ---
 
-# Knowledge Mobilisation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识动员（Knowledge Mobilisation, KMb）指研究与数据融入或未能融入教育政策与实践的完整中介过程。知识动员本质上是研究者、决策者与实践者通过多方协作共同创造、翻译、重组并制度化应用知识的社会互动与迭代过程，旨在克服研究与实践脱节，培育使证据扎根生长的肥沃土壤。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127, 130)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 66–67)]]
@@ -129,9 +125,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 知识动员（Knowledge Mobilisation, KMb） | 线性[[Knowledge Transfer\|知识转移]]（Knowledge Transfer, KT） | [[Knowledge Mediation\|知识中介]]（Knowledge Brokering） | [[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP） |
 > |---|---|---|---|---|
 > | **核心隐喻** | 社会生态系统中的多方共创与迭代循环 | 管道式单向输送与技术交付（Pipeline） | 跨越边界的桥梁搭建与关系调解 | 决策者在复杂现场的四源审议整合 |
@@ -198,8 +192,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 核心要素
 
 > [!feature] 知识动员（KMb）的四类核心推进策略
 > - **沟通与传播（Communication and Dissemination）** 优化证据呈现的清晰度与可及性，破除学术晦涩[[Discourse|话语]]；帮助教育者辨识[[Persuasive Communication in Education\|说服性修辞]]与真实证据。
@@ -358,8 +350,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -389,8 +379,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 线性传播浪漫化 vs 复杂中介成本
@@ -408,8 +396,6 @@ updated: 2026-10-22
 > - **成效归因与度量复杂性** 知识动员对教学实践与学生成果的影响因果链条漫长，难以用简单的量化指标进行归因评估。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -43,11 +43,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Norwegian Agency for Quality Assurance in Education
-
 ---
-
-## 背景
 
 > [!event-context] 机构创立与法律地位
 > - **成立时间 / 法律依据** 2003 年依据挪威《大学与大学学院法案》（Act relating to Universities and University Colleges）正式创立。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **核心使命** 通过认证、周期性院校质量审计与实证监测，监督并推动挪威高等教育与高等职业教育的学术质量与国际[[Competitiveness|竞争力]]。
 
 ---
-
-## 核心职能与质量治理
 
 > [!feature] 核心业务与信息驱动治理
 > - **外部质量审计与机构认证** 遵循欧洲质保标准（[[European Standards and Guidelines\|ESG 2015]]），对所有挪威大学与专业学院实施周期性院校质量保障系统审计（Institutional Audits）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 7, 16)]]

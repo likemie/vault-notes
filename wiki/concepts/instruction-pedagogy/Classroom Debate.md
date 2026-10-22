@@ -41,11 +41,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Classroom Debate
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 课堂辩论（Classroom Debate）是一种具有高度结构化规则的[[Dialogue in Education\|对话教学]]策略。教师围绕具有争议性的真实议题分配正反双方立场，要求学生在明确的立论、交叉质询、反驳与总结陈词规则约束下，搜集实证证据、重构逻辑论证并接受对手质询，从而促进对复杂议题的多元理解与[[Critical Thinking\|批判性思维]]发展。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 课堂辩论与相近[[Dialogue in Education\|对话教学]]形式辨析
 > | 维度 | 课堂辩论（Classroom Debate） | [[Socratic Dialogue\|苏格拉底对话]] | 自由全班研讨 |
 > |---|---|---|---|
@@ -72,8 +66,6 @@ updated: 2026-10-22
 > | **典型产出** | 论证结构化能力与批判审证 | 概念精细重构与假设审查 | 知识面拓宽与参与感 |
 
 ---
-
-## 核心要素
 
 > [!feature] 课堂辩论的四阶段教学流程
 > - **议题界定与证据搜集** 教师设定具有平衡张力的争议性议题（如政策选择、伦理困境），学生分组检索支持与反驳证据。
@@ -108,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -118,8 +108,6 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：课堂辩论对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 8$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.32$ $[0.03, 0.61]$ | $Q(7) = 21.41, p = .003, I^2 = 67.31\%$ | 纳入实验与准实验；作为[[Dialogue in Education\|对话]]维度细分子策略检验 |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 教学实施风险
 > - **胜负心遮蔽求真动机** 学生可能为了赢得辩论而采取诡辩、断章取义或情感操纵，偏离[[Critical Thinking\|批判性思维]]的求真倾向。

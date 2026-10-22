@@ -48,11 +48,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Re-Westernisation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 再西方化（Re-Westernisation）是后殖民和去殖民批判（尤其是 Mignolo 的权力殖民矩阵学说）中的核心地缘概念。它指的是在领土非殖民化之后，西方国家（以美国为代表）在新自由主义全球化条件下，利用超国家组织、大数据与绩效评估技术，重新巩固、维护并延续西方[[Enlightenment\|启蒙运动]]以来的知识、制度、意识形态与[[Epistemology\|认识论]]主导权的空间规训过程。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–430]])
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > | **在比较教育中的表现** | 推广 [[PISA]] 测评、世界文化理性规范和[[Governing at a Distance\|远处治理]]技术。 | 利用国家机器构建本土文化[[Discourse\|话语]]，并在技术民族主义下重塑知识版图。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素 (本要素归纳自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
 > - **新帝国主义与[[Governing at a Distance\|远处治理]]（New Imperialism & Governing at a Distance）** 将全球治理重构为“新帝国主义”（Tikly, 2004），将 [[OECD]] 等机构重塑为“知识新帝国”（Klerides et al., 2014）与“更精巧的帝国”（Cowen, 2018），把教育从文明化[[Discourse|话语]]推向新殖民的“发展”[[Paradigm\|范式]]。
@@ -115,8 +109,6 @@ updated: 2026-10-22
 > - **2023 — 比较教育[[Discourse|话语]]的再西方化解构** Klerides 追溯比较教育史，指出[[Global Citizenship\|全球公民]]、人权与生态身份在表面上宣扬多元世界，实质上配合了新自由主义地缘霸权的“再西方化”扩张。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 429–430]])
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

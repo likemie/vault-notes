@@ -56,11 +56,7 @@ created: 2026-09-15
 updated: 2026-10-20
 ---
 
-# Gorard's Trustworthiness Sieve
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Gorard's [[Trustworthiness]] Sieve
 > - **工具类型** 方法学质评核查表与实证因果证据可[[Reliability\|信度]]评估分级规程。
@@ -69,8 +65,6 @@ updated: 2026-10-20
 > - **实施方式** 由评估专家对照原始研究报告，从左至右依次核查四个维度的客观特征，按非补偿性逐级下移规则裁定 0 至 4 级的综合序数等级。
 
 ---
-
-## 质评维度与等级划分
 
 > [!framework-table] 戈拉德研究可[[Reliability\|信度]]评估筛子（0–4 级标尺，基于 Gorard et al., 2020, Table 2）
 > | 评定等级 | 因果研究设计 | 样本规模 | 数据完整性 | 测量与数据质量 |
@@ -83,16 +77,12 @@ updated: 2026-10-20
 
 ---
 
-## 筛查规则与方法学原理
-
 > [!proc] 核心核查规程与操作机制
 > 1. **从左至右非补偿性逐级下移** 评估者从左侧第一列（研究设计）开始阅读，仅当下移至某一行能完全满足该列描述时，方可水平移至下一列（样本规模）；在后续列核查中，只能保持在当前行或继续向下移（绝不可回退上移）。任何单项维度的致命缺陷都将直接拉低整体评级，不存在维度间的优势互补。
 > 2. **拒绝人为机械阈值与统计功效假设** 戈拉德筛子明确反对预先设定绝对[[Sample Size Determination\|样本量]]切分点（如机械规定 400 人以上为大、20 人以下为小）或机械流失率阈值（如一律以 2% 为低、50% 为高）。评估者必须结合具体情境审查流失的均衡性与背后的机制动因（例如：对照组因未能接受干预而产生的愤懑退出，与实验组因反感干预而退出，其偏倚性质完全不同）。
 > 3. **彻底摒弃[[Null Hypothesis\|零假设]]显著性检验** 筛子拒绝将基于零假设显著性检验（Null [[Hypothesis]] Significance Testing, NHST）的统计功效计算作为样本充足性的标准。因为真实教育研究几乎无法达成全[[Random Sampling\|随机抽样]]假设，功效计算往往基于循环假设且极具误导性，质评核心在于直接审查实际每组样本规模、[[Effect Size\|效应量]]与数据缺失敏感性。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 601)]]
 
 ---
-
-## 政策应用与工具对比
 
 > [!contrast-table] 戈拉德筛子与 英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）[[EEF Padlock Security Rating\|挂锁安全评级]]的联系与区别
 > | 比较维度 | 戈拉德研究可[[Reliability\|信度]]筛子（Gorard's Sieve） | [[EEF Padlock Security Rating\|EEF 挂锁安全评级]]（EEF Padlock Rating） |
@@ -103,8 +93,6 @@ updated: 2026-10-20
 > | **适用范围** | 涵盖所有社会科学与公共政策领域的因果研究评估 | 专门针对英格兰 EEF 资助的现场干预试验（[[Randomised Controlled Trials\|RCT]] 为主）进行标准化审核 |
 
 ---
-
-## 使用该工具的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 以戈拉德可[[Reliability|信度]]筛子甄别 323 项文献，仅 33 项达到最低因果设计标准，高可信度研究寥寥无几，揭示证据利用领域的因果证据赤字。

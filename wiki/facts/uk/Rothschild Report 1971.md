@@ -43,11 +43,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Rothschild Report 1971
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间与发布主体** 1971 年 11 月由英国中央政策审查参谋部（Central Policy Review Staff, CPRS）负责人维克多·罗斯柴尔德勋爵（Lord Victor Rothschild）主持撰写，以内阁[[The Green Book\|绿皮书]]形式发布，题为《政府研究与发展框架》（*A Framework for Government Research and Development*, Cmnd 4814）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **制度位置** 英国战后国家科技政策史上具有分水岭意义的制度改革，彻底打破了由 1918 年《霍尔丹报告》（Haldane Report）确立的国家自主纯学术科研资助传统，奠定了英国公共科研管理走向市场化采购与委托代理的现代治理结构。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 报告提出了著名的“客户-承包商原则”（Customer-Contractor Principle），断言应用型研究与试验发展必须由具备明确实际需求的政府部门（客户）提出委托并出资，由科研机构或大学（承包商）承接执行，促使政府从科研的“自我供给者”全面转型为“智能采购者”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
@@ -75,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1971** 罗斯柴尔德勋爵提交并发布《政府研究与发展框架》白皮书。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
 > - **1972** 英国政府发布白皮书（Cmnd 5046）正式采纳罗斯柴尔德原则，开始向各部委划拨科研采购预算。
@@ -85,8 +77,6 @@ updated: 2026-10-22
 > - **2026** 英国皇家学会《科学为社会》报告回顾罗斯柴尔德报告以来的 50 年制度演进，指出市场化采购模式虽提升了多元性，但过度压缩了公共机构长期科研能力与基础设施的可持续性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 80, 82)]]
 
 ---
-
-## 实施情况与制度遗产
 
 > [!actor-grid] 实施角色分工
 > - **采购委托方（客户）** 中央政府各行政部委及其首席科学顾问，负责梳理决策痛点并向外部发包科研任务。

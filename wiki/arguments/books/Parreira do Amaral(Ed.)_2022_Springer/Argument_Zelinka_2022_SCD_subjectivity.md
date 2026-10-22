@@ -57,7 +57,6 @@ citation_aliases:
   - "Zelinka, 2022"
   - "Zelinka (2022)"
 ---
-# Argument_Zelinka_2022_SCD_subjectivity
 
 > [!question]
 > 新[[Geopolitics of Knowledge\|知识地缘政治]]（(new) [[Geopolitics]] of Knowledge）通过全球教育治理[[Discourse|话语]]生产了什么样的主体性（subjectivities）？这些主体性被呈现为"需要和可欲的"，其副作用是制造了哪些新的脆弱性？具体而言，该章以 21 世纪技能与素养话语（[[21st Century Skills and Competencies Discourse]]，以下简称 [[Single-Case Design\|SCD]]）为分析焦点，追问：SCD 如何塑造个体的自我引导模式，以及这种塑造过程的非对称性和排斥机制是什么(pp.251-252)。
@@ -148,9 +147,7 @@ SCD 将焦点从结构变革转向个体技能发展，主体有义务获取新�
 
 **Eurocentric frame**。尽管该章批评 SCD 的全球同质化和对区域差异的忽视，但其自身的理论资源（Foucault [[Governmentality|治理术]]、[[Discourse Analysis|话语分析]]）和分析视角主要来自欧洲学术传统，对非西方教育哲学和主体性概念的参照有限。
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
 > (“成为生产源泉的，不是主体获得的技能和能力，而是主体性，即基于期望能力的自我行为模式。”
 > ("It is not skills and competencies gained by subjects, but subjectivities, i.e. modes of self-conduct based on desired competencies, that become a source of production."))(Reed, 2009, p.33, cit. by, p.261)

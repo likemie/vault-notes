@@ -69,11 +69,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Scientific Uncertainty
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **科学不确定性（Scientific Uncertainty）** 指在科学探究、实证测量、理论建构与预测推论过程中，由于客观世界的随机复杂性、测量工具的精度局限、样本抽样的代表性波动、理论模型的抽象简化以及人类认知条件的局限，导致科研产出的证据、假说与结论无法达到完全必然性与绝对确定性的[[Epistemology\|认识论]]与方法论状态。它既包括可通过收集更多数据予以缩减的“认知不确定性（Epistemic Uncertainty）”，也涵盖现实世界内在的“随机不确定性（Aleatory Uncertainty）”。在现代科学哲学与循证实践中，不确定性被视为科学探索的内在属性与知识动态演进的前提，而非研究质量低劣的表征。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学不确定性核心维度与相近概念辨析
 > | 维度 | 认知不确定性（Epistemic Uncertainty） | 随机不确定性（Aleatory Uncertainty） | 激进不可知论 / 虚无怀疑论（Radical Skepticism） |
 > |---|---|---|---|
@@ -106,8 +100,6 @@ updated: 2026-10-22
 > | **应对与治理路径** | 资助多中心重复实验、大样本前瞻队列、[[Meta-analysis\|元分析]]证据合成 | 构建系统容错冗余、安全裕度设计、概率化风险预警 | 剖析其认知偏见，开展批判性[[Scientific Literacy\|科学素养]]与认识论教育 |
 
 ---
-
-## 核心要素
 
 > [!feature] 科学不确定性的多层来源构成
 > - **抽样与测量波动（Sampling & Measurement Variation）** 由于总体无穷或资源有限，任何实证研究均依赖局部样本与测量仪器，必然伴随[[Sampling Error\|抽样误差]]（Sampling Error）与仪器测量噪声。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
@@ -189,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 科学不确定性核心命题归纳
 > | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表文献 |
 > |---|---|---|---|
@@ -201,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 科学不确定性[[Epistemology\|认识论]]与方法论百年演变
 > - **17–19 世纪 — 机械[[Determinism\|决定论]]与绝对确定性崇拜** 从牛顿力学到拉普拉斯决定论，经典科学界普遍信奉自然界遵循完全确定的因果法则，测量误差被视为工具粗糙带来的暂存杂质，坚信科学终将提供确定无疑的真理全貌。
 > - **20 世纪初–中叶 — 概率推论与统计不确定性奠基** 量子力学确立海森堡不确定性原理；现代数理统计学（Fisher, Neyman, Pearson）建立假设检验、$p$ 值与[[Confidence Interval\|置信区间]]体系，将“不确定性”从主观盲区正式升格为可精密数学化表达的经验概率度量。
@@ -211,8 +199,6 @@ updated: 2026-10-22
 > - **2026 — 算法伪确定性批判与不确定性容忍度重塑** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示[[Generative Artificial Intelligence\|生成式人工智能]]以表面流畅统一的回答抹平学术证据内在不确定性的机制，指出过度依赖算法将严重削弱学生对不确定性的耐受力，提出技术界面与教学设计必须显性化呈现不确定性与对立解释，将认识不确定性转化为培育深层评价判断的探究支架。
 
 ---
-
-## 争议与批评
 
 > [!debates] 科学不确定性的社会与治理争议
 >
@@ -239,8 +225,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 科学不确定性沟通与受众认知实证数据表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -259,8 +243,6 @@ updated: 2026-10-22
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence\|生成式人工智能]]抹平科学不确定性所导致的认知过早闭合与容忍度退化危机，提出在人机交互界面中显性表征不确定性与备择解释的治理路径。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

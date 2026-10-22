@@ -59,11 +59,7 @@ created: 2026-09-27
 updated: 2026-10-20
 ---
 
-# NuBiL
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > “教师对教育研究成果的利用”（德语全称：*Nutzung von Bildungsforschung durch Lehrpersonen*，简称 NuBiL）是由德国明斯特大学（Johanna Otto, Kris-Stephen Besa）与汉堡大学／帕绍大学（Jan-Hendrik Hinzke）等学者团队于 2017 至 2021 年间联合主持开展的德语区实证研究专项。该项目聚焦在岗教师面对[[Output-Oriented Governance|循证治理]]与科研成果激增的现实，通过质性与量化混合调查，系统回答了“一线教师究竟出于何种目的、在何种情境下主动接触和查阅教育科研成果”这一微观利用机制问题。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 12; Otto et al., 2019)]]
@@ -74,8 +70,6 @@ updated: 2026-10-20
 > - **核心治理与实践痛点** 传统政策与中介平台（如各类 [[Educational Evidence Clearinghouses|Clearinghouse]]）普遍抱持“[[Technical Rationality|技术理性]]传导假定”，预设只要向教师提供客观科研结论，教师就会按部就班优化教学；然而实践中教师普遍显现出对抽象科研结论的冷漠与防御，政策界与研究界对教师真实主观利用心理长期处于认知黑箱状态。
 
 ---
-
-## 方案设计与研究发现
 
 > [!claim] 核心机制发现：自主反思驱动 vs 机械处方消费
 > NuBiL 项目实证[[Falsification|证伪]]了“教师使用研究是为了寻找标准化教学菜谱”（Rezeptwissen）的朴素假设。研究表明，教师对教育科学成果的主动探究，几乎全部源于应对微观教学危机、化解专业不确定性或寻求外部正当性辩护的“取向与反思知识”（Orientierungs- und Reflexionswissen）诉求。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 12; Otto et al., 2019)]]
@@ -92,8 +86,6 @@ updated: 2026-10-20
 >   - *对学院派脱离实际的固有防御偏见*：教师常将高校研究视为“象牙塔中不食人间烟火的理论说教”。
 
 ---
-
-## 对转移科学与中介平台的启示
 
 > [!finding-cards] [[Transfer Science|转移科学]]核心启示
 > - **中介平台必须从“结论推送”转向“诊断性问题切口”**

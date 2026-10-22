@@ -70,11 +70,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Dirk Van Damme
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 比利时比较教育学者、[[International Education\|国际教育]]政策专家。曾任比利时根特大学（Ghent University）教育科学教授、[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation, [[Centre for Educational Research and Innovation\|CERI]]）主任（2008–2021），现为波士顿课程再造中心（Center for Curriculum Redesign）高级研究员及教育咨询专家。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990–2005 — 比较高等教育、质量保障与全球化学术治理** 主要回应全球化冲击下欧洲高等教育文凭跨国互认、质量保障规程及公共财政问责。
 >   - **代表著作** *Higher Education in the Age of Globalisation: The need for a new regulatory framework for recognition and quality assurance* (2001)。
@@ -115,9 +109,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育研究目前处于产出数量激增但实际影响低效的严峻困境（dire state）；根源在于知识供给侧的质量赤字：理论根基脆弱且过度依附外部流行思潮、方法论上严重缺乏独立复现与外在评估（顶级期刊复现率仅 0.13%）、研究者普遍存在内幕偏误（评估者即干预开发者）以及政治行动主义倾向。摆脱困境的根本出路不在于让研究者迎合碎片化的即时实用诉求，而在于政府制定长期战略性增量资助规划投向蓝天基础研究，建立教育学自身的因果演绎理论体系与高标准同行评议自律机制，恪守实证研究的有效解释边界。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–206)]]
 
 > [!citation-card] 理论根基脆弱与概念借用之反思
@@ -137,9 +129,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Disciplinary Institutionalization|学科建制]]路径** 呼吁摆脱教育学从属于社会学或经济学的附庸地位，倡导建立教育科学自身严密的因果演绎体系与学术自律规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205)]]
 > - **政策反思路径** 告诫政策界戒除对循证有效性干预（What Works）的盲目万能崇拜，推动国际组织从单一工具推广转向深层科研生产生态治理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **跨国智库议程确立** 领导[[OECD\|经合组织]] [[Centre for Educational Research and Innovation\|CERI]] 确立强化教育[[Research Impact\|研究影响力]]专项跨国政策调查，成为 OECD 成员国诊断国家教育科研体系健康度的指标框架。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–203)]]
@@ -157,8 +147,6 @@ updated: 2026-10-22
 > - **依托机构** [[OECD]]、[[Centre for Educational Research and Innovation]] — 范达默引领跨国教育政策研究与知识生态治理的核心国际组织平台。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

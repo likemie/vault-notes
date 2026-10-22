@@ -76,11 +76,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Qualitative Interview
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 质性访谈（Qualitative Interview）是[[Qualitative Research|质性研究]]中研究者与参与者进行开放式对话以深入理解其主观经验、观点和意义建构的数据收集方法。其核心在于通过人际互动获取生活世界的声音，具有主体间性（intersubjective）与情境共建性。常见形式包括面对面访谈、[[Telephone Interview|电话访谈]]、[[Focus Group|焦点小组]]与在线网络访谈，使用非结构化或半结构化的开放式问题序列。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 199)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, p. 409)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** [[Interpretivism|诠释主义]]与[[Constructivist Paradigm|建构主义]]取向；认为知识是在研究者与受访者的言语互动中共同生产的，而非预先固化在受访者脑中等待被动提取。核心遵循[[Fitness for Purpose|适合目的]]原则：越追求标准化可比性，访谈越结构化；越追求捕捉复杂个体生活世界的独特性，访谈越开放和非结构化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, p. 414)]]
 > - **研究者角色** 研究者即测量工具本身；需要兼备深厚的主题知识储备与敏锐的人际沟通技巧，在访谈中建立融洽关系、反思权力不对称，并全程保持[[Reflexivity|反思性]]。
@@ -114,16 +108,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **明确[[Research Purpose|研究目的]]与主题化** 确定研究核心问题，概述理论基础，将一般探究目标转化为具体的[[Research Topic|研究主题]]（Kvale, 1996, p. 88）。
 > 2. **设计访谈方案与提纲** 编制[[Semi-structured Interview|半结构化访谈]]提纲，设定主要维度、内容性问题、引出性问题与追问探针。
 > 3. **进入现场与访谈实施** 获取[[Informed Consent|知情同意]]，建立信任关系，依循提纲开展互动对话，敏锐捕捉非语言线索与深层意义。
 > 4. **录音[[Transcription in Qualitative Research|转录]]与文本校验** 将口头互动完整转录为文本，细致记录语调、停顿与语气，并进行脱敏与保密处理。
 > 5. **[[Coding in Qualitative Research|质性编码]]与报告撰写** 运用归纳或演绎编码提炼[[Central Phenomenon|核心范畴]]与意义主题，撰写生动的[[Rich and Thick Description|深描]]叙事与理论阐释报告。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -149,16 +139,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 适合探索参与者的主观经验、意义建构与生活世界；调查复杂制度变革中行动者的动机、策略与情感反应；探究尚未建立成熟理论的新现象；以及为微观教育实践提供丰富厚实的情境描述。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, Ch. 21)]]
 > - **谨慎使用** 在层级森严或存在显著利益冲突的组织中，受访者可能出于防御心理提供策略性陈述；跨文化访谈中需防范语言误译与文化假定；极度创伤或敏感议题须有充分的心理与伦理保护机制。
 > - **不适合使用** 寻求大样本总体参数概率推论的研究；需要严格控制混杂[[Variable|变量]]以验证因果假设的实验设计；以及仅需标准化统计计[[Quantitative Research|量的研究]]问题。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** [[Interviewer Effects|访谈者效应]]（研究者语气、态度引发的[[Response Bias|回应偏差]]）、社会赞许倾向、受访者的选择性记忆与叙事重构。
@@ -181,8 +167,6 @@ updated: 2026-10-22
 > | [[Transcription in Qualitative Research]] | 后续处理 | 录音转录是将口语遭遇转化为可分析文本的选择性重构过程。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理质性[[Interview Protocol|访谈协议]]编制、追问技术、现场互动管理与录音[[Transcription in Qualitative Research|转录]]的核心操作规范。

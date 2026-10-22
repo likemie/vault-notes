@@ -86,7 +86,6 @@ issuing_organization: "National Institute of Standards and Technology, U.S. Depa
 publication_place: "Washington, D.C."
 publisher: "U.S. Department of Commerce"
 ---
-# Argument_NIST_2023_NSTC
 
 ---
 
@@ -103,8 +102,6 @@ publisher: "U.S. Department of Commerce"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 政策与创新分析工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -117,8 +114,6 @@ publisher: "U.S. Department of Commerce"
 > 报告依托创新链阶段演进理论与产业公共品逻辑，指出半导体技术演进面临极高资本密集度与设备准入门槛，单一企业或大学无法独立承担先进逻辑节点流片与 2.5D/3D 异构封装风险；唯有由国家出面搭建中立、开放且非排他的共性中试与设计支持平台，才能修复[[Market Failure|市场失灵]]并激发全美微电子创新活力。（pp. 6–10, 20–23）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 战略规划与政策设计方法
 > | 模块 | 材料与处理方式 |
@@ -135,8 +130,6 @@ publisher: "U.S. Department of Commerce"
 > | **学术与教育样本** | 涵盖顶尖[[Research Universities\|研究型大学]]工程院系、少数族裔服务机构（Minority-Serving Institutions, MSI）、地方社区技术学院与学徒制培训基地。（pp. 18–21） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -316,8 +309,6 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心政策发现
 > 1. **中试与设计双重门槛是微电子创新的致命堵点** 单片集成电路微缩成本高昂与 EDA 软件昂贵构成了压制大学与初创企业创新的首要制度壁垒。（pp. 6, 14–17）
 > 2. **跨部门创新流水线必须实现从基础到制造的顺畅衔接** [[National Science and Technology Council|NSTC]] 必须同国防部[[Microelectronics Commons|微电子共用体]]及先进封装计划紧密配合，形成分工协同的端到端技术中试转化通道。（pp. 8–11）
@@ -331,8 +322,6 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 > - **3–5 yr** 依据白宫 OMB 指南开展独立第三方专家评估的法定周期。（p. 23）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 芯片战略对国家经济与国家安全的决定意义
 > 很难想象有哪一个行业对我们国家的国家安全和经济安全比半导体行业更为重要。未来的几乎每一项创新，无论是更智能的交通运输还是更先进的医疗设备，无论是提高农业生产力还是应对气候风险，亦或是支撑我们国防能力的尖端技术，都将依赖于半导体技术。（p. 2）

@@ -49,11 +49,7 @@ created: 2026-09-18
 updated: 2026-10-20
 ---
 
-# Research-Rich Teaching Profession
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究充实型教学专业（Research-Rich Teaching Profession）** 指将教学职业从常规性、执行性的技术工匠，重塑为以系统探究、实证证据审议与[[Reflexivity\|反思性]]实践为特征的高阶专业形态（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 134]]）。该[[Construct\|构念]]源于澳大利亚学者西蒙·怀特（Simone White）领衔的澳大利亚教育研究协会（Australian Association for Research in Education, AARE）国家研究项目，主张教师不仅是教学技能的操作者，更是[[Research Literacy\|研究素养]]与[[Phronesis\|实践智慧]]的主体；通过重构职前教师教育课程、健全持续专业发展（Continuing Professional Development, CPD）制度，以及建构深度的大学-学区伙伴关系，促使教育科研成果内生化为教师日常教学决策、专业对话与专业身份认同的基石。
@@ -75,8 +71,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 研究充实型教学专业与相关专业发展[[Construct\|构念]]辨析
 > | 维度 | 研究充实型教学专业 | [[Teacher-as-Researcher\|教师即研究者]] | [[Research-Engaged School\|研究卷入学校]] |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-20
 > | **外部支持体系** | 国家教师专业标准、大学-学区协同机制 | 备课组互助、个别高校指导学者 | 校长循证领导力、校内时间分配与资源保障 |
 
 ---
-
-## 核心要素
 
 > [!feature] 研究充实型教学专业的三大支柱
 > - **探究性[[Professional Capital|专业资本]]（Inquiry-Oriented Professional Capital）** 教师不仅掌握学科教学法，更具备识别、评估、批判性审读学术研究报告的[[Research Literacy\|研究素养]]，能将外部证据与特定学情有效整合。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 134)]]

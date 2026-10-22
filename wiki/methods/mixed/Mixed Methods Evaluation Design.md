@@ -34,8 +34,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Mixed Methods Evaluation Design
-
 > [!info] 定义
 > [[Mixed Methods Research\|混合方法]]评价设计（Mixed Methods Evaluation Design）是一种复杂混合方法设计，将量化和质性数据以及它们的整合嵌入评价框架的各个步骤中。这一方法的意图是在一个研究过程中，使用量化和质性两种方法及其整合来支持项目的开发、调整和评价。通常用于项目评价（program evaluation），研究者使用量化和质性取向来支持项目、实验或政策的开发、调整和评估([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.248]])。
 
@@ -43,9 +41,7 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
-> [!abstract|notitle]
+> [!abstract] 研究程序
 > 典型的[[Mixed Methods Research\|混合方法]]评价流程包含五个阶段([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.248–249]])：
 >
 > **阶段一：需求评估（Needs Assessment）** — 质性为主

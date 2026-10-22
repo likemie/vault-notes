@@ -52,11 +52,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Service Delivery Indicators Classroom Observation Module
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Service Delivery Indicators (SDI) [[Classroom Observation]] Module
 > - **工具类型** 基础教育交付端突访外部[[Classroom Observation|教学观察]]与时间利用核查规程（observation-tool）。
@@ -84,14 +80,10 @@ SDI 观察模块主要解构为四大维度的基本服务交付指标。
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 结构化核查清单（Checklist）与离散时间记录表。
 > - **作答格式** 客观二元判定（是/否）、实测分钟数及学生课本比值统计。
 > - **反向题与跳题** 若教师不在教室内，后续课堂互动指标自动跳过并记为严重脱岗损失。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] SDI 课堂现场核查重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -116,8 +108,6 @@ SDI 观察模块主要解构为四大维度的基本服务交付指标。
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | SDI 教育综合版 | 作为 Teach 研发时梳理发展中国家代表性前置工具之一 | 评估服务交付指标对深层教学质量测量的承载力 | 指出 SDI 极好地暴露了宏观时间流失，但难以区分教得好的教师与机械照本宣科的教师，倒逼 Teach 转向高推论量规。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

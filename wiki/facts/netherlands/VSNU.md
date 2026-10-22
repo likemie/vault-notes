@@ -48,11 +48,7 @@ created: 2026-10-12
 updated: 2026-10-15
 ---
 
-# VSNU
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 荷兰大学联合会（VSNU，荷文：*Vereniging van Samenwerkende Nederlandse Universiteiten*，2021 年起更名为 Universiteiten van Nederland / UNL）是代表荷兰全部 14 所公立[[Research Universities|研究型大学]]的全国性峰值组织（Peak Association）与法定协商中枢。它在荷兰[[Neocorporatism|新法团主义]]高教治理网络中扮演着大学利益代言人、劳资集体谈判代表与全国同行学术质量巡视创制者的多重关键角色。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147, 150)]]
@@ -65,8 +61,6 @@ updated: 2026-10-15
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1985 — 联合会创立与法团协商转型** 伴随《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书发布，全荷公立大学联合重组成 VSNU，迅速确立为部委首要的[[Neocorporatism|法团主义]]对话伙伴。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 147)]]
 > - **1986–1989 — 主导预算紧缩自组织平衡与同行巡视创制** 在 1986 年“任务分配与集中”（TVC）操作中，VSNU 统筹各校自组织平衡各学科布局，平稳消化 10% 预算削减；同时首创全国学科同行外部巡视委员会（Visiting Committees）体系，接管国家教学与科研质量评估。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147, 150)]]
@@ -74,8 +68,6 @@ updated: 2026-10-15
 > - **2021 — 品牌升级与现代治理拓展** 正式更名为“荷兰大学联合会（Universiteiten van Nederland, UNL）”，聚焦开放科学、国际化战略及跨大学交叉科研平台共建。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **总理事会（Algemene Vergadering）** 由全体成员大学理事会主席组成最高决策机构，遵循协商一致与共识表决机制。
@@ -87,8 +79,6 @@ updated: 2026-10-15
 > - **独立同行巡视组织** 联合会按学科大类（法学、医学、物理学等）邀请国内外知名学者组成独立巡视组，每隔五年对全荷所有相关院系开展深入实地质评并公开报告。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 150)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵
 > - **全国学科同行质量巡视体系（Visiting Committees System）** 荷兰现代高教质量保障的母本，彻底取代教育部的事前行政审批，成为控制论负反馈回路的核心载体。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 150)]]
@@ -102,15 +92,11 @@ updated: 2026-10-15
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **化解激进改革阻力** 在 1980 年代大学财政严重恶化时期，VSNU 充当了国家与学者共同体之间的“吸震器”，避免了类似英国高教的大规模罢工与对抗。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 147–148)]]
 > - **筑牢事后质量自律防线** 证明大学学术共同体具备自下而上建立高公信力质量监督体系的能力，从实践上粉碎了“没有中央审批高教就会陷入平庸”的管制偏见。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 150, 156)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 组织争议焦点
 >
@@ -119,8 +105,6 @@ updated: 2026-10-15
 > > - **VSNU 辩护者** 主张唯有通过全国峰值组织的集中发声，大学才能在内阁财政部面前拥有匹敌的谈判砝码，避免高校在分散竞争中被个个击破。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证阐述 VSNU 在荷兰大学紧缩谈判与同行质量保障体系创制中的制度角色，剖析其作为[[Policy Network|政策网络]]核心节点的协商功能。

@@ -69,11 +69,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Social Ventures Australia
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 澳大利亚[[Social Impact Investing\|社会影响力投资]]市场的领军[[Venture Philanthropy\|风险慈善]]机构与智库咨询实体，旨在将风险投资与私募股权纪律、工具及支持模式引入社会创业与公共教育改革，充当连接跨国企业资本、大型基金会、国家决策层与一线学校的[[Policy Network\|政策网络]]中枢，推进[[Philanthrocapitalism\|慈善资本主义]]的异层治理与市场缔造实践（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–522]]）。
@@ -85,8 +81,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 宣称致力于消除社会不利处境、提升社会[[Return on Investment\|投资回报]]（Social Return on Investment, SROI），将风投和私募股权纪律植入社会与教育公益，通过提供商业咨询、构建证据量规与孵化中介实体统摄治理权力。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!index-table] 表一：SVA 推动的关键教育改革与中介实体创设历程（2002–2021）（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–525, 530–531]]）
 > | 年份 | 关键制度事件 | 核心主体与制度机制 |
@@ -109,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构与核心从属网络
 > - **决策机构（董事会与政商旋转门）** 董事会由跨国商业银行高管、麦肯锡顾问与大型基金会理事主导；前任董事及顾问频繁向官方关键决策委员会流动（如 Richard Spencer 出任生产力委员会专员，[[Michael Traill]] 出任总理内阁部[[Social Impact Investing\|社会影响力投资]]工作组成员，Lisa Paul 前联邦教育部次长同时兼任 SVA 与 [[Australian Schools Plus\|Schools Plus]] 董事，Belinda Hutchinson 担任 APS 董事兼悉尼[[Grandes Ecoles|大学校]]监）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7, 9]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **执行机构（SVA 咨询部与创投团队）** 运营年营业额达 1000 万澳元的收费商业咨询部门（SVA Consulting），直接向各级部委、公立学区与非营利机构提供战略规划，将企业管理模式深植于公共服务系统（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
@@ -124,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **全澳教育[[Educational Brokerage Agency\|证据经纪人]]原型（[[Evidence for Learning\|E4L]] 与工具包）** 设立全资子公司证据学习中心（E4L），全面本土化英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等学校系统试点，开辟了将量化 [[Randomised Controlled Trials\|RCT]] 与月度学习进展作为核心指标的评级体系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **公立学校筹款中介孵化（[[Australian Schools Plus\|Schools Plus]]）** 2013 年主导设立全澳首家面向公立学校的企业免税捐赠实体，游说联邦专门通过《2014年税收与养老金法律修正案（第5号措施）》赋予 [[Deductible Gift Recipient\|DGR1]] 资质并注入 500 万澳元启动资金（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
@@ -138,8 +128,6 @@ updated: 2026-10-22
 > “[[Michael Traill\|迈克尔·特雷尔]]是推动设立我们的核心推手，因为社会创投无法亲自开展这项业务，他们一直在寻找一个实体让人们可以通过它向学校捐款……我们非常亲密。”（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资本动员与资金杠杆** 管理资产规模逾 1.5 亿澳元，年均咨询创收近 1000 万澳元，成功撬动联邦与各州财政 5000 万澳元联合设立 [[Australian Education Research Organisation\|AERO]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5–6]]）。
@@ -157,8 +145,6 @@ updated: 2026-10-22
 > - **17** （官方档案） ASIC 付费提取的企业注册执照、章程与董事变更档案总数（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]]）。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

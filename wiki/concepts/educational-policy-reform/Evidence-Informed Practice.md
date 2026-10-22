@@ -126,11 +126,7 @@ created: "2026-05-01"
 updated: 2026-10-22
 ---
 
-# Evidence-Informed Practice
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment\|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation\|知识动员]]支撑，实现对适切研究证据的审慎参与与常态化实施。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–185)]]
@@ -159,9 +155,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 证据知情实践（EIP） | [[Evidence-Based Education\|证据本位教育]]（EBE） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） |
 > |---|---|---|---|---|
 > | **证据在决策中的地位** | 多元决策资源之一，情境化审议 | 核心决策驱动力，强调严格依从 | 实践改进的理论与规律依据 | 教学诊断与策略调整的量化依据 |
@@ -176,8 +170,6 @@ updated: 2026-10-22
 > - **证据合法性范畴** 突破单一[[Pragmatism in China\|实验主义]]对证据合法性的垄断，确立教育者在教学现场生成的[[Practice-Based Evidence\|实践本位证据]]（PBE）的正当地位。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 128–129)]]
 
 ---
-
-## 核心要素
 
 > [!dual-header] 证据知情实践（EIP）四源整合矩阵
 > | 整合维度 | 概念内涵与主要形态 | 在教育决策中的功能 | 缺失或单维主导的潜在风险 |
@@ -329,8 +321,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -364,8 +354,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] EIP 是否为弱化[[Evidence Standards\|证据标准]]的妥协折衷
@@ -397,8 +385,6 @@ updated: 2026-10-22
 > - **西方英语语境中心主义** 现有 EIP 理论与实证积累高度集中于英美加澳等国，在高度中央集权或资源匮乏的教育系统中，其制度适用性与中介机制仍有待检验。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

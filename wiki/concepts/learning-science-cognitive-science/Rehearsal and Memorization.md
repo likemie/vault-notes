@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Rehearsal and Memorization
-
 > [!metax] [复述与记忆 · Rehearsal and memorization](https://www.visiblelearningmetax.com/influences/view/rehearsal_and_memorization)
 > 学生学习策略 › 学习策略
 >

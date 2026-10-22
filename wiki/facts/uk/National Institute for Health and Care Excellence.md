@@ -60,11 +60,7 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# National Institute for Health and Care Excellence
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 英国国家卫生与临床优化研究所（National Institute for Health and Care Excellence, NICE）是英国依据法定授权设立的非部委公共机构（Non-Departmental Public Body, NDPB），隶属于英国卫生与社会保障部（DHSC）。作为全球卫生技术评估（HTA）的先驱与英国国家[[What Works Network\|有效性网络]]（What Works Network）的历史元祖，NICE 负责制定具有准法律效力的国家临床指南、设立新药与医疗技术准入的卫生经济学门槛；在宏观证据生态中，NICE 确立了依托集中化国家系统、享有法定强制采纳权、严格专注于[[Research Synthesis|证据综合]]与价值裁决的“紧凑聚焦与法定统筹[[Paradigm\|范式]]”（Focused & Integrated Remit），与教育领域中介的广泛下沉范式形成鲜明制度对照（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 147, 150]]）。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与职能演进
 > - **1999–2004 — 机制奠基与法定支付令确立** 创设初期全面确立卫生技术评估（Health Technology Assessment, HTA）独立审议机制。2002 年通过标志性法定修正案，明文确立“法定资助权”：英格兰 NHS 机构在法律上被强制要求在 NICE 发布肯定性技术评估建议后的三个月内，必须为患者全额资助并提供该项药物或疗法，确立了无可匹敌的行政穿透力。
 > - **2005–2011 — 公共卫生职能拓展与社会价值准则法典化** 2005 年正式合并英国健康发展署（Health Development Agency），职能由单纯个体临床诊疗拓展至控烟、肥胖、传染病防控等宏观公共卫生干预；同年正式发布《社会价值判断准则》（Social Value Judgements），公开确立指导成本效益裁决的伦理哲学框架。
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > - **2020–至今 — 真实世界证据与数字化卫生前沿** 面对罕见病基因疗法与人工智能医疗器械的激增，出台《真实世界证据框架》（Real-World Evidence Framework, 2022），探索在传统[[Randomised Controlled Trials\|随机对照试验]]（RCT）之外利用电子病历与患者登记系统开展动态效力评价。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **独立管理董事会（NICE Board）** 由非执行主席、非执行董事及执行领导层构成，负责制定战略方向、审定治理合规与资源分配，向议会与卫生大臣直接报告。
@@ -102,8 +94,6 @@ updated: 2026-10-22
 > - **法定传导与 NHS 准入咬合** 最终建议具有法定执行力，NHS 必须在 90 天内落实医保覆盖与临床推广，实现知识到制度落地的无缝咬合。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **技术评估推荐（Technology Appraisals, TAs）** 针对全球新上市创新药物与高精医疗技术开展强制性成本效用评价，出台“推荐使用”、“限制特定亚组使用”或“拒绝医保列名”的决定性法定裁决。
@@ -120,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **全球卫生技术评估引领先驱** 创立了国际公认的增量成本效果比（ICER）与 QALY 门槛决策框架，被加拿大 CADTH、澳大利亚 PBAC 等数十国国家级机构全面效仿。
 > - **NHS 临床支出把关中枢** 每年为价值数百亿英镑的 NHS 药物采购与疗法配置提供硬约束，避免纳税人资金流向低效或无效的商业噱头。
@@ -133,8 +121,6 @@ updated: 2026-10-22
 > - **确立现代国家有效性中介的制度参照** 在 2013 年英国创设[[What Works Network\|有效性网络]]时，NICE 的独立审议、透明标准与证据把关模式为教育（[[Education Endowment Foundation\|EEF]]）、早期干预（[[Early Intervention Foundation\|EIF]]）等各领域中介提供了最初的制度灵感与[[Paradigm\|范式]]原型。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

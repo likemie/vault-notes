@@ -73,8 +73,6 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Immanuel Kant
-
 ---
 
 ## 简介

@@ -60,11 +60,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# UNESCO Institute for Statistics
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > [[UNESCO\|联合国教科文组织]]统计研究所（UNESCO Institute for Statistics，UIS）是联合国系统内唯一专责教育、科学、文化与传播领域跨国可比统计数据生产的官方机构，为《2030 年可持续发展议程》第四项教育目标（[[UN Sustainable Development Goals\|SDG 4]]）的全球法定监测体系提供权威底层数据支撑，是[[Global Education Governing Complex\|全球教育治理复合体]]借以构建"[[Governing by Numbers\|数字治理]]"的关键[[Data Infrastructure\|数据基础设施]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
@@ -77,16 +73,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1999 年 — 响应 EFA 数据需求而成立** [[UNESCO\|联合国教科文组织]]大会批准设立 UIS，弥补[[International Education\|国际教育]]统计领域数据[[Reliability\|可靠性]]不足的系统性缺口；初期重点工作为在全球南方推行统一的行政统计数据收集模板。
 > - **2000–2015 年 — EFA 全球监测数据权威** 成为《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（EFA GMR，即后来的 [[Global Education Monitoring Report\|GEMR]]）不可替代的数据供应商；主导建立全球识字率、净入学率与学校完成率的标准化统计口径。
 > - **2015 年至今 — [[UN Sustainable Development Goals\|SDG 4]] 法定数据中枢** 《2030 年可持续发展议程》正式通过，UIS 被联合国统计委员会指定为 [[UN Sustainable Development Goals\|SDG 4]] 全部 11 项全球监测指标的法定托管数据机构（Custodian Agency），承担对各主权国数据的质量核查与全球汇总发布职责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构** 由[[UNESCO\|联合国教科文组织]]大会及其执行局总体监督；UIS 设有专项管理委员会（Governing Board），成员涵盖成员国统计主管部门代表与独立专家顾问。
@@ -100,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **统计标准体系** [[International Education\|国际教育]]标准分类法（ISCED）——全球各国可比教育数据的分类母体基准，自 1976 年首版至 2011 年修订，确保从学前至博士全学段的跨国数据可比性。
 > - **数据库与监测平台** UIS Databank（全球官方教育统计权威数据库）；[[UN Sustainable Development Goals\|SDG 4]] 监测指标时间序列库（覆盖近十项 SDG 4 全球监测指标）；全球教育流数据库（[[OECD]]/UIS 合作）。
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - **技术援助** 向撒哈拉以南非洲和小岛屿国家提供数据系统能力建设支持，帮助其完善行政教育统计收集机制。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **标准化影响** ISCED 成为[[World Bank\|世界银行]]、[[OECD]] 与各国政府教育统计的分类共同底座，消除了数十年来各国定义学段边界的混乱局面。
@@ -121,8 +109,6 @@ updated: 2026-10-22
 > 覆盖全球 200 余个国家和地区；维护 SDG 4 框架下逾 50 项全球监测指标；数据库开放时间序列可追溯至 1970 年代；每年为[[Global Education Monitoring Report\|GEMR]]等全球旗舰出版物提供数千个跨国可比数据点。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

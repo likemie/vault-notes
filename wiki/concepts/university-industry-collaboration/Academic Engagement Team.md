@@ -60,11 +60,7 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Academic Engagement Team
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是跨国企业内部以直接预算责任负责领导、设计与统筹管理大学合作的专业组织单位。AET 并非独立的实体业务部门，而是作为一种跨部门叠加层（overlay）构型嵌入在企业现有的科层网络之中（如设立在首席技术官 CTO 办公室、人力资源部或分散于各业务部门之内）。AET 成员兼具学术界科研规律洞察与商业运营战略敏锐度，扮演组织[[Polymath|通才]]（organizational polymath）角色，其核心职能是克服企业短期季度财务考核与大学多年学术探索之间的断层，将分散在高校的前沿科技与人才资源转化为支持企业长远发展的战略动力。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–218, 222–223)]]
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 实践者与企业内外相关主体的核心职能对比
 > | 分析维度 | AET 实践者（企业端协调者） | 业务部门（BU）利益相关者（承接方） | [[Technology Transfer Office\|大学技术转移办公室]]（TTO） | [[Academic Engagement\|产学学术参与]]（大学科研人员） |
 > |---|---|---|---|---|
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > | **价值兑现时间跨度** | 跨越数年至十年，依赖阶段性领先指标维系合法性 | 严格按季度和年度交付产品，考核即时盈利收益 | 专利申请至产业授权历经数年，依赖[[Technology Transfer\|技术转让]]收入 | 论文发表与学生毕业以 3–5 年为学术研究基准节拍 |
 
 ---
-
-## 核心要素
 
 > [!feature] AET 的五大组织构架与运作机制
 > - **叠加层组织构型（Overlay Configuration）** AET 并非自给自足的业务封闭体，而是嵌入并叠加在既有业务单元之上的跨部门网络；中央化 AET 靠近战略全局但远离产品现实，分布式 AET 紧密绑定具体业务但易忽视颠覆性赛道。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 222–223)]]
@@ -180,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] AET 核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -192,8 +182,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] AET 组织[[Paradigm|范式]]与企业产学治理的历史演化
 > - **1950s–1970s — 科学家自发联络与中央实验室全盛期** [[Bell Labs|贝尔实验室]]（Bell Labs）、施乐帕洛阿尔托研究中心（Xerox PARC）等巨型中央实验室主导前沿研究；企业科学家与高校教授保持自发、非正式学术交往，企业内部尚未形成专职的 AET 叠加层治理实体。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 217)]]
 > - **1980s–1990s — 分散式研究理事会与细分技术栈资助** 随着大企业内部按产品线分化，企业开始设立分立的学术理事会（如网络、存储、微架构理事会），由各领域资深工程师实行共识制审批小额赞助，偏好对既有技术栈的渐进式微调。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
@@ -201,8 +189,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 三轨转化体系完善与国家级公私战略协同** 产学价值由单一专利买断扩展为内部吸收、初创收购（[[Corporate Venture Capital|CVC]]）与开源生态共建（如 UC Berkeley RISELab 孕育 Spark/Ray）三轨并进；在宏观地缘战略与产业政策驱动下，AET 进一步融入[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）等大型[[Public-Private Partnership|公私合作伙伴关系]]（PPP）。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 231–233, 235–238)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] AET 治理与价值实现中的深层争议
 >
@@ -233,8 +219,6 @@ updated: 2026-10-22
 > - **学科领域偏向** 提炼的转化漏斗与协议工具主要针对工程科学与计算机体系结构，对基础人文学科或非技术类社会科学的[[University-Industry Collaboration|产学合作]]缺乏足够解释力。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 239)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- AET 资助结构、转化周期与宏观科技指标观测
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

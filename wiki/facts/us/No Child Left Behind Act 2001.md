@@ -108,11 +108,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# No Child Left Behind Act 2001
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2001 年由美国国会通过，乔治·沃克·布什（George W. Bush）总统于 2002 年 1 月签署颁布，是布什政府第一项重大国内立法倡议。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
@@ -122,8 +118,6 @@ updated: 2026-10-22
 > - **意识形态话语策略与宪制突破** 安东尼·韦尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 253–254]]）考证指出，美国基础教育长期受制于高度分权的宪制体系，联邦直接干预教育存在制度阻力；NCLB 的立法突破关键在于将新自由主义的市场选择诉求与弥合种族学业差距的民权话语（Civil Rights Discourse）进行策略性捆绑，使传统的右翼绩效问责获得了捍卫弱势群体的道德合法性，从而在两党跨党派支持下突破了分权传统。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > NCLB 强制要求各州建立统一学术标准与 3–8 年级全员年度测试问责体系，确立学年充分进展（[[Adequate Yearly Progress|AYP]]）阶梯制裁，并将全文 110 次提及的“[[Scientifically Based Research|科学本位研究]]”（SBR）作为联邦教育拨款与采购的法定准入门槛。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
@@ -150,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 政策时间线
 > - **2001** NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 [[Elementary and Secondary Education Act of 1965|ESEA]] 的重新授权法案。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
 > - **2002** 布什总统于 1 月正式签署生效。罗伯特·E·斯拉文（Robert E. Slavin）发表专题分析，指出 NCLB 法定“[[Scientifically Based Research|科学本位研究]]”概念界定缺乏[[Operationalization|操作化]]标准，任何教学项目都能寻得支持性文献，尚未产生实质性实践约束。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 16, 18–19)]]
@@ -161,8 +153,6 @@ updated: 2026-10-22
 > - **2015** 贝拉克·奥巴马（Barack Obama）总统签署《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015），正式替代 NCLB。ESSA 废除了严苛的联邦统一处罚机制，将过于笼统的“[[Scientifically Based Research|科学本位研究]]”重构为四级操作化证据层级。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 109)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与主导主体** 美国联邦教育部（ED），负责制定统一规章、审批各州实施计划并监督专项拨款拨付。
@@ -179,8 +169,6 @@ updated: 2026-10-22
 > - **商业测评产业的利益锁定与支持联盟形成** 韦尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 259–260]]）考证指出，NCLB 确立的全员标准化统考为私营测评与出版巨头创造了庞大的市场机会；以教育测试服务社（[[Educational Testing Service|ETS]]）、培生（Pearson）为代表的测评机构结成强大的支持工具联盟（Pro-instrument Constituencies），通过深度参与命题、技术外包与政策游说，将基于测验的问责规程锁定为不可逆转的制度常态。
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 美国联邦教育部（ED）与白宫决策层（掌握 ESEA 拨款中枢与豁免审批权，借民权话语推进联邦规制）、国会参众两院教育委员会领袖。
@@ -209,8 +197,6 @@ updated: 2026-10-22
 > **关键分歧** 双方核心分歧在于：教育质量改进应依赖刚性量化指标惩戒倒逼，还是依托支持性资源投入与专业自主发展；以及外部标准化测验是否能够无损表征复杂的人性化育人过程。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254, 260–261)]]; [[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **投入指标** 联邦 ESEA 专项拨款额度（增长 18%）、Title I 专项补偿资金、Reading First 与 CSR 专项资助规模。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
@@ -247,8 +233,6 @@ updated: 2026-10-22
 > - **80%–90% vs 25%–35%** 各州自定及格线达标率与 NAEP 真实熟练度之间的巨大统计落差。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

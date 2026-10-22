@@ -41,11 +41,7 @@ created: 2026-06-30
 updated: 2026-08-03
 ---
 
-# Critical Thinking Strategies Scale
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Critical Thinking\|批判性思维]]策略量表
 > - **工具类型** 十四题自陈量表，依据 Delphi Report 的批判性思维技能框架开发。
@@ -54,8 +50,6 @@ updated: 2026-08-03
 > - **实施方式** 自陈。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -68,14 +62,10 @@ updated: 2026-08-03
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 每题描述一种可能采取的[[Critical Thinking\|批判性思维]]行动。
 > - **作答格式** 七点 Likert 量表，1 表示不太可能，7 表示极有可能。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 252)]]
 > - **反向题与跳题** —
-
-### 批判性思维策略使用
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -99,8 +89,6 @@ updated: 2026-08-03
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -109,8 +97,6 @@ updated: 2026-08-03
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文十四题研究版 | 澳大利亚 47 所学校的 ToK 十一、十二年级学生，在线施测。题项分析 n = 1,262，总分分析 n = 1,242。用于比较两个年级的自报[[Critical Thinking\|批判性思维]]策略使用 | 当前样本 α = .96；依据 Delphi Report 开发并经 EFA 缩题；因子结构、载荷、拟合和独立样本验证 — | 十二年级总分高于十一年级，4.85 对 4.62，t(1240) = 3.04，p < .001。十四题中十一题差异显著 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

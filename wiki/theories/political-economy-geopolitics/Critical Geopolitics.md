@@ -73,9 +73,7 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** [[Geopolitics|地缘政治]]秩序如何通过政治想象、[[Discourse|话语]]实践和空间表述被持续建构和生产——而非仅通过领土控制和物质力量被给定。
 > - **理论问题** 回应[[Classical Geopolitics\|古典地缘政治]]将空间视为客观容器、将国家视为唯一行动者的双重预设：为什么看似客观的地缘政治事实实际上是话语和想象的产物？空间秩序如何通过命名、分类与治理等话语实践被不断生产与重组？
 > - **理论类型** [[Critical Theory\|批判理论]]／[[Constructivist Paradigm\|建构主义]][[Analytic Framework\|分析框架]]。[[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]]指出，在围绕"地缘政治是物质性还是观念性"和"是科学性还是实践性"两个[[Ontology\|本体论]]问题的当代争论中，批判地缘政治处于观念—科学端，是[[New Geopolitics\|新地缘政治]][[Paradigm\|范式]]的代表（pp. 11–12）。
@@ -90,8 +88,6 @@ updated: 2026-10-22
 > *Geopolitics, in this view, refers to the territorial, relational and discursive aspects of political imaginaries through which the world has become a global network of cities, regions, hubs or (free) economic zones that drive twenty-first century knowledge-intensive capitalist accumulation.*
 
 ---
-
-## 关键概念与理论构件
 
 > [!entry-map] 理论构件
 > | 构件 | 类型 | 在理论中的功能 |
@@ -139,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]** 空间不是天然实体，而是通过社会关系和[[Discourse|话语]]实践被关系性建构——空间是过程而非容器。
 > - **认识论** 关注政治想象、话语和分类的履行性力量——它们不仅"反映"现实，更主动"生产"现实。
@@ -179,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] 批评索引
 > - **[[Discourse|话语]]中心主义与物质权力分析的张力** 分析焦点集中在话语和象征层面，对物质权力结构（军事力量、领土控制、技术封锁）的直接分析能力较弱。在大国竞争回归的背景下，仅靠[[Discourse Analysis\|话语分析]]难以充分解释高等教育面临的安全化和脱钩等现实。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 > - **[[Geopolitics|地缘政治]]与地缘经济边界的模糊性** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]]坦承在[[Corporate Education\|企业教育]]领域无法确定[[Causality\|因果关系]]——是美国政府利用跨国公司强化地缘政治地位（地缘政治利用地缘经济），还是美国公司利用美国政府扩大市场份额（地缘经济利用地缘政治）？这种"谁在利用谁"的模糊性本身印证了批判地缘政治的核心主张（边界是话语建构的），但也暴露了其[[Operationalization\|操作化]]困难（pp. 193–196）。
@@ -188,9 +180,7 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究
 > - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]整合为新[[Geopolitics of Knowledge\|知识地缘政治]]框架
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进

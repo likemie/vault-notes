@@ -63,10 +63,6 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Knowledge Integration
-
-## 理论概述
-
 > [!def] 核心定义
 > 知识整合（Knowledge Integration, KI）是由学习科学学者玛西娅·琳（[[Marcia C. Linn]]）及其团队在加州大学伯克利分校历经三十年实证研究确立的科学教育[[Constructivist Paradigm\|建构主义]][[Didaktik\|教学理论]]与认知评价框架。该理论主张，学习者的初始认知并非缺乏知识的“白纸”，也不是充满必须被彻底连根拔除的孤立“迷思概念”（Misconceptions），而是由源于日常生活经验的多元、直觉性且往往相互冲突的想法片段构成的复合集合。科学学习的核心机制在于借助结构化情境与[[Scaffolding\|认知支架]]，引导学生经历**引出已有想法、增添规范新概念、发展证据评判标准、反思修正并整合认知网络**的动态重构过程，最终发展出连贯协调的科学因果理解（Linn, 2006; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 6, 9]]）。
 
@@ -135,8 +131,6 @@ updated: 2026-10-22
 > | Vitale et al. (2016) | 直接显性规则讲授 vs 引导式探究与知识整合练习 | 初中物理概念实验 | [[Direct Instruction\|直接讲授]]在即时测验中错误较少，但在数周后的延迟测验中出现显著遗忘；经历知识整合深层探索的学生在长效保持上表现显著占优 | 延迟测验[[Interaction Effect\|交互效应]]显著 | 实证验证了必要难度（Desirable Difficulties）效应与时序整合规律（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） |
 
 ---
-
-## 理论比较与演变
 
 > [!contrast-table] 知识整合 vs 经典概念转变理论
 > | 维度 | 经典概念转变理论（Posner et al., 1982） | 知识整合理论（Linn et al., 2006） |

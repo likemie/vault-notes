@@ -52,11 +52,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Taiichi Ohno
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 日本工业工程师、生产管理理论家，丰田汽车公司前副社长；被公认为“[[Lean Production|精益生产]]与[[Lean Production|丰田生产方式]]（[[Totally Pedagogised Society|TPS]]）之父”。
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1930s–1940s — 纺织与机械制造现场经验阶段**
 >   - **代表成果** 丰田自动织机防错机制（自働化 Jidoka）的工程化应用。
@@ -101,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 复杂系统的质量缺陷与运转故障必须深入到物理现场与[[Homework|作业]]流程的内在因果链条中进行排查，坚决拒绝将问题表面化、偶然化或简单归咎于操作者的个人疏忽。通过建立在深入观察基础上的“连续追问五次为什么”，组织能够穿透症状表象，直达设备设计、技术参数乃至深层激励机制的根本缺陷；唯有在宽容试错、鼓励主动暴露缺陷的免责文化中，系统才能实现内生性的持续迭代与抗脆弱进化（Ohno, 1978; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
 
 > [!feature] 大野耐一工程管理哲学四大支柱
@@ -114,17 +106,13 @@ updated: 2026-10-22
 
 ---
 
-### 案例与论证拆解
-
 > [!case] 案例：从丰田车间机床停转到现代防务软件交付延期
 > - **丰田经典机床停转五问法** 机床停转 ➔ 保险丝过载熔断 ➔ 轴承润滑不足 ➔ 润滑泵无法正常供油 ➔ 泵轴磨损产生间隙 ➔ 润滑泵进油口缺乏滤网导致金属碎屑进入。如果不追问五次，工人只会不断更换保险丝，故障将反复发作。
 > - **现代软件工程与组织诊断拓展** 在现代防务科技企业（如[[Palantir Technologies|帕兰提尔]]）中，卡普将大野耐一的五问法从机械故障扩展至软件延期与组织协同复盘：交付延期 ➔ 前线代码重构滞后 ➔ 现场反馈未及时同步 ➔ 项目主管试图掩盖问题 ➔ 绩效考核过度惩罚早期失败 ➔ 高管层传递了不切实际的时间压力。五问法最终穿透代码表象，直达公司考核机制与管理文化的根本缺陷（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 颠覆了传统泰勒制与福特制的大规模批量生产理论，开创了以敏捷拉动、现场观察与持续改善为核心的[[Lean Production|精益生产]]哲学。
 > - **方法路径** 确立了[[Five Whys|五问法]]作为全球质量工程、精益六西格玛与工业根因分析（RCA）的基准[[Operationalization|操作化]]工具。
 > - **跨领域拓展至软件工程与现代治理** 其精益理念直接催生了软件开发中的敏捷开发（Agile）、看板开发（Kanban）与站点[[Reliability|可靠性]]工程（Site Reliability Engineering, SRE）中的无指责复盘（Blameless Post-Mortem）；在《[[Technological Republic|技术共和国]]》中被确立为现代高科技组织抵御官僚化内耗与培育[[Engineering Mindset|工程思维]]的关键方法论（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
@@ -142,8 +130,6 @@ updated: 2026-10-22
 > - **核心机构与实体** 丰田汽车公司（Toyota Motor Corporation）、[[Palantir Technologies]]（全面制度化应用五问法开展组织复盘的代表科技企业）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与实践争议
 >

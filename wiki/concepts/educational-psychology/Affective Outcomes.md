@@ -68,11 +68,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Affective Outcomes
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > Affective Outcomes（情感产出 / 情感行为）是教育心理学与教学效果研究中指称学生在**情感领域可观测、可测量产出**的[[Operationalization\|操作化]][[Construct\|构念]]。依据 Krathwohl et al.（1964）的教育目标分类学，情感产出指由内在动机、信念与价值取向等深层心理特质衍生出的行为倾向与自我报告结果，包括[[Student Attitude\|学习态度]]（attitudes）、表现自信心（self-confidence）、学业与内在动机（academic & [[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]]）以及一般学习感知（learning perceptions）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 2–3)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 三类核心学习产出概念辨析
 > | 维度 | 情感产出 (Affective Outcomes) | [[Academic Achievement\|学业成就]] | [[Higher-Order Thinking Skills\|高阶思维技能]] |
 > |---|---|---|---|
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | 在教学中的角色 | 动力引擎与学习体验的情感支撑 | 显性学业达标与常规效标要求 | 知识社会所需的高阶迁移与创新素养 |
 
 ---
-
-## 核心要素
 
 > [!feature] 情感产出的核心构成维度
 > - **内在动机（[[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]]）** 学生对学习活动本身的好奇心、探索欲与自主满足感，是情感领域最核心的心理动力源泉。
@@ -145,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -165,8 +155,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] [[Construct\|构念]]测量与[[Heterogeneity\|异质性]]争议
 > - **测量工具异质与粒度粗放** 现有实证研究常将态度、动机、自信心等不同心理构念混合打包为宽泛的“情感行为”大类，测量工具多依赖自陈[[Questionnaire\|问卷]]，导致方法学异质性高（$I^2 = 93.70\%$），限制了对具体心理机制的细粒度解释。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 11)]]
 
@@ -174,8 +162,6 @@ updated: 2026-10-22
 > - **文化与地域偏倚** 现有[[Cooperative Learning\|合作学习]]情感产出的大规模[[Meta-analysis\|元分析]]数据多集中于特定国家（如土耳其与印尼），在跨文化推广至其他教育体制时需审慎评估文化规范对群体协作情感体验的调节影响。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

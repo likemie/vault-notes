@@ -33,8 +33,6 @@ created: '2026-05-17'
 updated: 2026-10-22
 ---
 
-# Education City Doha
-
 > [!info] 背景
 > 进入 21 世纪，西方大学开始大规模在海外建立分校。此前，大学通常与当地机构合作提供有限课程或进行师生交流，教师短期飞行授课([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.14]])。但近年来，美、澳、英、加等国大学开始在海外建设综合性分校，配备长期驻地的教学和行政人员([[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, p.15]])。
 

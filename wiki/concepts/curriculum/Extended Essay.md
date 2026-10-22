@@ -59,11 +59,7 @@ created: 2026-07-26
 updated: 2026-10-22
 ---
 
-# Extended Essay
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 拓展论文（Extended Essay，EE）是[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question\|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术论文。EE 与[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）共同把六学科课程扩展为自主探究、[[Epistemology\|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 18)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **独立但不孤立** EE 可以与 TOK 的证据审查及 CAS 的现实经验发生联系；跨组件联系需要学校主动安排，不能仅凭三项核心同时存在便自动形成。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–229)]]
 
 ---
-
-## 核心要素
 
 > [!feature] 从个人问题到文凭证据的六个要素
 > - **自主选题** 题目由学生选择，并与其所学学科或获准的研究领域相关，使研究方向不再完全由大纲和教师预先决定。
@@ -144,8 +138,6 @@ updated: 2026-10-22
 > [!claim] Metli, A. & Akış, D.
 > **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking\|批判性思维]]、独立思考、自我调节和[[Inquiry-Based Learning\|探究式学习]]联系起来。学生借此熟悉大学所需的研究与写作方法；与[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement\|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme\|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]。
 
-### 命题总览
-
 > [!contrast-table] EE 的四层课程作用
 > | 作用层次 | 起点 | 核心机制 | 主要结果 |
 > |---|---|---|---|
@@ -155,8 +147,6 @@ updated: 2026-10-22
 > | **发展层次** | 高中向大学过渡 | 长期任务管理与规范写作 | 提升研究准备度 |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 从个人深究要求到核心课程连接点
 > - **1960 年代后期　六学科之外增加个人研究** 六学科及深度选项提供通识与专门化的平衡，学生仍缺少自主提出问题并持续研究的正式空间。EE 由此成为所有文凭候选人的个人研究要求。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
@@ -168,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- EE 与核心课程连贯性的学校实践
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -178,8 +166,6 @@ updated: 2026-10-22
 > | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] | 土耳其 15 所国际文凭授权学校，[[Questionnaire\|问卷]] N=40；[[Focus Group\|焦点小组]] N=7 | [[Mixed Methods Research\|混合方法]]问卷、开放题与焦点小组 | 参与者普遍认可核心课程连贯性的价值，超过半数仍承认组件经常孤立运行；[[Theory of Knowledge\|TOK]] 至 EE 的证据审查迁移、[[Creativity, Action, Service\|CAS]] 与 EE 的问题和行动转化被识别为可行路径。 | 结果主要反映土耳其双轨课程和大学入学考试压力下的学校实施，不能直接推及所有地区。 |
 
 ---
-
-## 应用案例
 
 > [!case] 过度投入促成截止日期调整
 > 早期学生反馈同时显示价值与风险。许多学生认为 EE 最有助于适应大学学习；一些学生则深度投入自选题目，忽视其余课程并可能影响文凭考试。学校投诉促使 [[International Baccalaureate|IBO]] 把提交日期提前到全部课程结束前数月。调整没有削弱自主选题，而是用制度时间边界重新平衡个人研究和[[Concurrency of Learning\|并发学习]]。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
@@ -197,8 +183,6 @@ updated: 2026-10-22
 > 一项关于城市化如何影响安纳托利亚黄鼠种群的 EE，可以继续转化为 CAS 全球问题倡导。学生整理科学报告，向地方机构展示研究发现，并设计社区保护活动。研究提供行动所需的证据，行动又使论文问题进入具体环境。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, p. 229)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > - **投入程度差异** 早期成果既包括高度投入的研究，也包括只为满足要求而提交的平淡论文。正式要求能够创造机会，不能保证每名学生都形成个人热情。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]

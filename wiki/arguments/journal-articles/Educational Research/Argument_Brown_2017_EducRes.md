@@ -93,7 +93,6 @@ argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Research
 ---
-# Argument_Brown_2017_EducRes
 
 ---
 
@@ -110,8 +109,6 @@ journal: Educational Research
 > - **贡献** 首次系统对质两派的历史脉络、核心目标、实施难点、行动理论、实证效能与优劣结构，提出整合两界优势的 ESTI 八步探究循环与三大支撑机制，填补了证据知情实践在微观操作模型上的长期空白。（pp. 163–167）
 
 ---
-
-## 理论框架
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -150,8 +147,6 @@ journal: Educational Research
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -166,9 +161,7 @@ journal: Educational Research
 
 ---
 
-### 论证步骤一　审视双轨现实：DBDM 与 RITP 呈现各具实证成效却互为孤岛的平行格局
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　审视双轨现实：DBDM 与 RITP 呈现各具实证成效却互为孤岛的平行格局
 > 当代学校改进在实践中形成了 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 两大互不相通的活动领域：前者聚焦校内数据分析以促进问题诊断，后者借助外部学术文献指导教学干预，二者虽各自具备实证成效，但均未能达成全面的[[Evidence-Informed Practice\|证据知情实践]]。（pp. 155–163）
 
 #### 1. 财政紧缩与自下而上自我改进诉求催生学校三大核心能力挑战
@@ -222,9 +215,7 @@ RITP 的行动理论涵盖教师教学轨与学校领导轨两条平行主线，
 
 ---
 
-### 论证步骤二　解构镜像互补：DBDM 与 RITP 的优势与缺陷呈现高度对称的补偿结构
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　解构镜像互补：DBDM 与 RITP 的优势与缺陷呈现高度对称的补偿结构
 > DBDM 与 RITP 在[[Epistemology\|认识论]]功能与操作机制上呈现结构性镜像关系：DBDM 擅长基于校本痛点开展病因诊断但缺乏治疗良方，RITP 拥有丰富的成熟治疗方案却易陷入无靶向追逐热点或千校一面；两派的优势恰好能够填补对方的盲区。（pp. 163–165）
 
 #### 1. 历史、目标、实施、行动理论与成效的系统对照
@@ -264,9 +255,7 @@ RITP 的行动理论涵盖教师教学轨与学校领导轨两条平行主线，
 
 ---
 
-### 论证步骤三　构建统摄模型：ESTI 八步探究循环与三大支撑条件实现两界融通
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　构建统摄模型：ESTI 八步探究循环与三大支撑条件实现两界融通
 > 融通两界优势的必由之路在于建构系统的“证据知情学校与教师改进”（[[School Enquiry Cycle\|ESTI]]）模型：以八步[[Inquiry Cycle\|探究循环]]为操作骨架，以系统规程、双素养融合与协作意义建构为组织保障，推动教育改进迈向理性审验与本土创生。（pp. 165–168）
 
 #### 1. 证据知情学校与教师改进（ESTI）八步探究循环操作规程
@@ -309,8 +298,6 @@ ESTI 模型并非单纯的流程拼接，其平稳实施必须依托三项深层
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心理论判断
 > 1. **两派割裂阻碍整体性 [[Evidence-Informed Practice\|EIP]] 达成** [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 在[[International Education\|国际教育]]改革中长期作为两条互不交融的平行轨迹演进，导致学校在实践中要么陷于数据诊断而缺乏良方，要么盲目追逐学术热点而脱离校情。（pp. 155–156）
 > 2. **优劣势呈现高度对称的镜像互补** DBDM 的优势（立足真实需求、自主假设病因、生成校本方案）恰好能对冲 RITP 的短板（追逐热点、无因盲跳、千校一面）；而 RITP 的优势（提供验证策略、阐明作用机制、拥有转译工具）亦恰好能弥补 DBDM 的盲区（知病因却不知如何治疗）。（pp. 164–165）
@@ -324,8 +311,6 @@ ESTI 模型并非单纯的流程拼接，其平稳实施必须依托三项深层
 > - **8** ESTI 模型规范的标准化校本探究循环阶梯步数。（p. 166）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 布朗等人论两界割裂与结合诉求
 > 目前，[[Data-Based Decision Making\|基于数据的决策]]与[[Research-Informed Teaching Practice\|研究知情教学实践]]通常代表了两个截然不同且相互独立的活动领域：基于数据的决策往往不采用正式学术研究，而研究知情实践则将[[Research Utilization\|研究利用]]置于对校内数据的审视与分析之上。结果，它们通常无法达成学者们所设想的更为全面的[[Evidence-Informed Practice\|证据知情实践]]。然而，在本文中，我们论证两者在理论基础上存在天然的重叠；不仅如此，每种途径的优势似乎恰好能够镜像映射并弥补对方的不足。（p. 156）

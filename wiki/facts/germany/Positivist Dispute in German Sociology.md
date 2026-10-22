@@ -58,11 +58,7 @@ created: 2026-09-29
 updated: 2026-10-15
 ---
 
-# Positivist Dispute in German Sociology
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > **德国社会学[[Positivism|实证主义]]争论（德语：*Positivismusstreit in der deutschen Soziologie*）**是 20 世纪 60 年代西德社会科学界爆发的里程碑式方法论与[[Epistemology|认识论]]大论战。论战双方围绕社会科学的研究对象、真理标准、[[Value Neutrality|价值中立]]以及社会批判功能展开全面交锋。在比较教育学史上，[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，这场论战构成了 1960 至 1980 年代欧洲比较教育理论[[Paradigm|范式]]演更与认识论分化的根本动力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
@@ -76,8 +72,6 @@ updated: 2026-10-15
 
 ---
 
-## 核心认识论分歧
-
 > [!contrast-table] 蒂宾根论战的核心理论分歧对照
 > | 维度 | 批判理性主义 (Popper / Albert) | [[Critical Theory\|批判理论]] (Adorno / Habermas) |
 > | :--- | :--- | :--- |
@@ -88,8 +82,6 @@ updated: 2026-10-15
 
 ---
 
-## 对欧洲比较教育学的范式冲击
-
 > [!concept-lens] [[Positivism|实证主义]]争论在比较教育学科中的辐射效应
 > 米特（[[Wolfgang Mitter]]）在其学术史论断中指出，实证主义大争论以其跨国辐射力深刻重塑了欧洲比较教育学的理论地貌，具体表现为三大[[Paradigm|范式]]演进后果：
 > 1. **英国学派内部的[[Epistemology|认识论]]决裂与霍姆斯的“科学化”转向** 受波普尔思想与论战影响，伦敦大学教育学院（IOE）的[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）明确引入波普尔的[[Critical Dualism|批判二元论]]与假说验证模型，创立[[Problem Approach|问题解决法]]，对[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）与约瑟夫·劳威斯（[[Joseph Lauwerys]]）坚守的历史人文主义与文化主义传统发起了持续二十年的方法论革命。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
@@ -97,8 +89,6 @@ updated: 2026-10-15
 > 3. **“文化主义者”与“实证量化派”鸿沟的制度化加深** 争论促使坚守人文与历史质性传统的“文化主义学者”进一步反思自身底线；而主张大规模跨国经验测评的量化学者（如胡森与波斯尔思韦特主持的 [[IEA]]）则选择脱离传统的大学比较教育系科与学会网络独立发展，加剧了学科内部的人文阐释与实证测评之争。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
 
 ---
-
-## 发展历程与文献集成
 
 > [!dev-timeline] [[Positivism|实证主义]]论战的发展演进
 > - **1961-10 — 蒂宾根会议交锋** 波普尔在大会发表《社会科学的逻辑》（*The Logic of the Social Sciences*）提出 27 条命题；阿多诺作对应报告，指出孤立事实在脱离社会总体性时将丧失真实意义。

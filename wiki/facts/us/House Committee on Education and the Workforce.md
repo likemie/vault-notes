@@ -61,11 +61,7 @@ created: 2026-09-17
 updated: 2026-10-16
 ---
 
-# House Committee on Education and the Workforce
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **美国众议院教育与劳动力委员会（House Committee on Education and the Workforce）** 是美国国会众议院常设委员会（Standing Committee），对全美所有涉及联邦教育财政拨款、初等与中等教育、高等教育、学前启蒙、特殊教育及劳工权益的立法拥有排他性初审管辖权。作为联邦教育立法的政治中枢，该委员会不仅主导制定和重新授权国家教育基石法案，其常设专业幕僚（Committee Staff）更是筛选、吸纳与将学术实证证据转化为法定条文的制度化[[Gatekeepers\|守门人]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
@@ -78,8 +74,6 @@ updated: 2026-10-16
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1867–1964 — 奠基与战后教育联邦化前夕** 经历了从单一的教育咨询向实质性立法权的过渡，在二战后主导审议了著名的退伍军人权利法案（G.I. Bill）与《[[National Defense Education Act of 1958|国防教育法]]》（NDEA 1958），开启了联邦资金直接干预地方教育的先河。
 > - **1965–1996 — 伟大社会民权立法与大发展** 在林登·约翰逊总统“伟大社会”计划推动下，委员会主导起草并审议了奠定当代联邦教育治理格局的两大基石：《1965 年[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》（ESEA）和《[[Higher Education Act of 1965\|高等教育法]]》（HEA），确立了联邦支持贫困儿童受教育权的民权导向。
@@ -88,8 +82,6 @@ updated: 2026-10-16
 > - **2001–至今 — 循证问责与现代联邦再平衡** 主导了 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的剧烈两党辩论，将“科学基础研究”与高利害问责写入法典；并在 2015 年主导起草并全票通过《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA），实现了联邦强权与州级自主的再平衡。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–45)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **委员会领导层（Leadership）** 由多数党推选的委员会主席（Chair）与少数党首席议员（Ranking Member）共同执掌，负责排定立法日程、指定听证会议题并掌控法案表决节奏。
@@ -104,8 +96,6 @@ updated: 2026-10-16
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵
 > - **联邦教育重新授权法案（Reauthorization Bills）** 周期性重构并授权 [[Elementary and Secondary Education Act of 1965\|ESEA]]/[[Every Student Succeeds Act\|ESSA]]、IDEA、柏金斯职业教育法（Perkins CTE）等数百亿美元规模的联邦拨款法案。
 > - **委员会正式立法报告（Committee Reports）** 伴随每项法案出台的详尽解读文件，系统汇总两党辩论要点、实证证据支持来源与立法意图阐释，是未来联邦法院裁判与教育部制定规章的最高司法参照。
@@ -114,15 +104,11 @@ updated: 2026-10-16
 
 ---
 
-## 影响与学术利用机制
-
 > [!finding-cards] 学者介入与[[Research Utilization\|知识利用]]机制
 > - **委员会幕僚相较于议员个人办公室具有压倒性的研究接纳意愿** 正如 [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 与 Weiss (1989) 所强调，个人议员忙于选区事务与日常连任，对学术细节缺乏兴趣；而委员会幕僚常年专注于单一领域，不仅理解[[Causality\|因果推断]]方法，而且迫切需要实证数据为两党辩论提供弹药，是教育学者应首要对接的政策用户。
 > - **听证会专家证词作为实证进入法律条文的直通梯** 众议院教育委员会的听证记录在法律上具有至高无上的宣示效能。通过该平台，诸如学校纪律种族差距、阅读科学、学生资助公式等严谨学术发现得以被正式转化为具有约束力的联邦法案条款。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!critique] 争论与反思
 > - **高度极化党派博弈导致的立法瘫痪** 随着美国两党政治极化加剧，委员会日益成为文化战争（如批判性种族理论审查、跨性别学生权益、平权招生等议题）的交锋前沿，理性实证证据在激烈的党派争斗中常常遭遇意识形态挑拣或搁置。

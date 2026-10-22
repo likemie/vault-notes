@@ -31,11 +31,8 @@ status: draft
 created: 2026-06-23
 updated: 2026-10-16
 ---
-# Theoretical Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 理论效度（Theoretical validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity\|质性效度]]类型中的第三种，关注研究者带入研究的**理论建构**（包括被研究者的理论建构）能在多大程度上**解释**所研究的现象。理论在此被视为**解释**——理论效度是研究"解释现象的程度"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
@@ -47,16 +44,12 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
 > [!feature] 理论效度的核心特征
 > - **理论作为解释** 在 Maxwell 的框架中，理论不是从外部"应用"于数据的——理论**从数据中[[Emergence\|涌现]]** 并被用来解释数据。理论效度衡量的是这一解释过程的充分性。
 > - **多方[[Construct\|构念]]的整合** 与量化[[Construct Validity\|构念效度]]不同——后者预设研究者预先定义的构念——理论效度要求将**所有参与者**（包括被研究者）的构念纳入理论建构：被研究者如何理解和分类他们的世界？他们的"民间理论"（folk theories）是什么？这些如何与被研究者的学术理论相互作用？
 > - **解释力的判断标准** 一个具有高理论效度的解释应该能够：（a）连贯地解释数据中的主要模式；（b）包容变异性和例外而非忽视它们；（c）在参与者自身的理解中找到共鸣；（d）提供超越描述层面的洞察
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 理论效度 vs [[Construct Validity\|构念效度]]
 > | 维度 | 理论效度（Maxwell, 质性） | [[Construct Validity\|构念效度]]（Campbell & Fiske, 量化） |

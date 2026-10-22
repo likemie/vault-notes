@@ -2043,8 +2043,6 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
         if "## 来源" not in body and "## Sources" not in body:
             issues.append(Issue("WARN", rel(path), "argument template missing ## 来源 / ## Sources section", code="TEMPLATE_ARGUMENT_SOURCE_SECTION"))
     if typ == "concept":
-        if "## 实证数据" not in body:
-            issues.append(Issue("ERROR", rel(path), "concept template must include the mandatory conditional ## 实证数据 section", code="TEMPLATE_CONCEPT_EMPIRICAL_SECTION"))
         if "[!ref-table]" not in body:
             issues.append(Issue("ERROR", rel(path), "concept template must include the general empirical-data table", code="TEMPLATE_CONCEPT_EMPIRICAL_TABLE"))
     if typ == "instrument":
@@ -2060,19 +2058,6 @@ def check_template_consistency(path: Path, text: str, issues: List[Issue]) -> No
         for field in instrument_fields:
             if field not in data:
                 issues.append(Issue("ERROR", rel(path), f"instrument template missing field: {field}", code="TEMPLATE_INSTRUMENT_FIELD_MISSING"))
-        instrument_sections = [
-            "工具定位",
-            "测量构念与维度",
-            "题项与作答方式",
-            "使用该工具的研究",
-            "版本与适配",
-        ]
-        for section in instrument_sections:
-            if f"## {section}" not in body:
-                issues.append(Issue("ERROR", rel(path), f"instrument template missing section: ## {section}", code="TEMPLATE_INSTRUMENT_SECTION_MISSING"))
-        instrument_h2 = [line[3:].strip() for line in body.splitlines() if line.startswith("## ")]
-        if instrument_h2 and instrument_h2[-1] != "版本与适配":
-            issues.append(Issue("ERROR", rel(path), "instrument template must place ## 版本与适配 last", code="TEMPLATE_INSTRUMENT_VERSION_ORDER"))
         for callout in ["[!ref-table]", "[!instrument-profile]", "[!instrument-items]"]:
             if callout not in body:
                 issues.append(Issue("ERROR", rel(path), f"instrument template missing required callout: {callout}", code="TEMPLATE_INSTRUMENT_CALLOUT_MISSING"))

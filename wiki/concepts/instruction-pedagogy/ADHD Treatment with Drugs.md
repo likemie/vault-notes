@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# ADHD Treatment with Drugs
-
 > [!metax] [多动症药物治疗 · ADHD treatment with drugs](https://www.visiblelearningmetax.com/influences/view/adhd_treatment_with_drugs)
 > 课堂 › 课堂管理
 >

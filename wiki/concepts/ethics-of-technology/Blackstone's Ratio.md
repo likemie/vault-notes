@@ -39,11 +39,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Blackstone's Ratio
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[William Blackstone|布莱克斯通]]比率（Blackstone's Ratio）指 18 世纪英国法学家威廉·[[William Blackstone|布莱克斯通]]在《英国法释义》中提出的经典刑事法理准则——“宁可让十个有罪之人逃脱法网，也不可使一个无辜者遭受冤狱”（It is better that ten guilty persons escape than that one innocent suffer）；该原则确立了刑事司法对一类错误（[[Type I and Type II Errors|false positive]]，冤枉无辜）相比于二类错误（False Negative，漏网之鱼）的绝对不对称容忍阈值，构成了现代正当程序与疑罪从无理念的核心法理支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
@@ -59,8 +55,6 @@ updated: 2026-10-22
 > *In the eighteenth century, William Blackstone, one of England's greatest legal minds, went further, writing that it would be better to allow "ten guilty persons escape than that one innocent suffer"—a ratio that would come to structure debate about errors, permissible or otherwise, in criminal justice.*
 
 ---
-
-## 概念演变与思想谱系
 
 > [!dev-timeline] 刑事司法错误容忍思想谱系
 > - **1749 — 伏尔泰（Voltaire）** 在哲学小说《查第格》（*Zadig*）中提出：放走两个有罪之人，远好过惩罚一个清白无辜之人（比例 2:1）。
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > **克服未知恐惧与承担治理复杂性** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，布莱克斯通比率强调的是司法语境下的道德审慎，而非推卸公共治理责任的借口。当前部分机构因害怕面对新技术的潜在不确定性与复杂性，索性对严重暴力犯罪采取彻底不作为的冷漠态度；真正的法治与工程精神要求在严格贯彻防范误判机制的同时，积极运用先进软件化解城市枪患与暴力威胁。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

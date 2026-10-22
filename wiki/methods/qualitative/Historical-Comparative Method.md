@@ -125,11 +125,7 @@ created: 2026-09-06
 updated: 2026-10-20
 ---
 
-# Historical-Comparative Method
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **历史比较法（Historical-Comparative Method）** 是将**历史溯源诠释（Historical-Genetic Hermeneutics）** 与**跨国横向比较（Cross-National Comparison）** 有机融合的核心[[Qualitative Research|质性研究]]方法。该方法将各民族国家的教育与科技体制、国家治理能力或超国家组织的演化置于其生成发展的具体历史脉络中，通过系统考证政治、经济、文化、制度能力与地缘权力等结构性力量的长周期演进，揭示制度特征形成的深层因果机制；拒绝将当下制度现象抽离其时空母体进行孤立切片，其核心旨趣在于通过发掘历史档案、法令条款、政策白皮书与思想文本中的深层动因，解释体制与治理网络“何以成为当下形态”，并在此基础上归纳提炼可用于阐明其他同类制度演变的工作假设。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 39–40, 56–57)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–796)]]
@@ -146,8 +142,6 @@ updated: 2026-10-20
 > *As Crane Brinton has shown, it is quite possible to categorize or classify historical phenomena and compare them for the purpose of making generalizations. Although such generalizations may be of a limited rather than a universal nature, they may in turn be used as working hypotheses to be tested in other similar situations in order to illuminate them. In other words, from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalization and then use it in order to illuminate another particular event or form.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持广义科学观（*Wissenschaft* / *Episteme*），认为严谨系统的历史事实考据、因果归纳与哲学阐释同样生产可靠的客观学术知识，反对将科学狭隘等同于数理统计与[[Behaviorism|行为主义]]测量。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
@@ -173,8 +167,6 @@ updated: 2026-10-20
 > 3. **因素解构与内在因果推导** 将制度演变拆解为政治政体、宗教传统、经济转型与文化思想等多维结构力量。
 > 4. **跨国横向矩阵对照** 识别不同国家面对相似历史挑战时的制度应对方案异同。
 > 5. **提炼中程非普适[[Working Hypothesis|探索性假说]]** 形成兼具经验具体性与理论抽象性的解释命题并投射至新情境中反哺检验。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -279,8 +271,6 @@ updated: 2026-10-20
 > | [[Chris Freeman\|克里斯·弗里曼]] | 人物 | 演化经济学家；运用长周期两两历史比较法论证国家创新系统持续有效性的典范代表。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较考证英、德、美、日、苏及新兴工业体在教育体制、研发建制与[[Absorptive Capacity|吸收能力]]协同上的[[Heterogeneity|异质性]]路径，论证[[Systems of Innovation|创新系统]]的有效性。

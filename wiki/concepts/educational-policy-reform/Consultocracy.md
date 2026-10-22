@@ -59,11 +59,7 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
-# Consultocracy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **顾问统治（Consultocracy）** 是指在[[New Public Management\|新公共管理]]（New Public Management, NPM）与新自由主义国家转型语境下，以麦肯锡（McKinsey & Company）、波士顿咨询（BCG）、贝恩（Bain & Company）及普华永道、德勤等跨国私营战略咨询公司为核心的商业顾问力量，深度嵌入、塑造甚至实质垄断国家公共政策制定、组织流程再造与重大社会改革的非传统治理形态（Saint-Martin, 2000；Gunter et al., 2015）。在教育政策领域，顾问统治表现为政府将长远战略规划、因果评估标准与财政分配方案系统外包给私营咨询机构，以商业度量衡、[[Return on Investment\|投资回报率]]与绩效量规替代公共育人价值审议，引发传统公务员科层行政能力的萎缩与民主问责的制度性[[Epoché\|悬置]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522, 530)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 顾问统治与传统公共行政模式辨析
 > | 维度 | 顾问统治（Consultocracy） | 传统常任公务员[[Bureaucracy\|科层制]]（Bureaucracy） | 公共学术与民主协商机制（Democratic Deliberation） |
 > |---|---|---|---|
@@ -96,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **公共职能的系统性外包（Systemic Outsourcing of Policy Capacity）** 政策分析、战略审查与法案起草等核心主权职能被成批剥离给私营咨询公司，导致公务员科层失去内生研发与政策创新能力，形成不可逆的外部依赖。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 522)]]
 > - **管理主义[[Discourse|话语]]霸权（Managerialist Discourse [[Hegemony]]）** 将复杂的教育育人实践化约为“可交付成果”（Deliverables）、“关键[[Performance Indicators\|绩效指标]]”（KPIs）与“效率量规”，以商业逻辑规训公立学校与基层教师。
 > - **旋转门与[[Co-affiliation\|共同从属]]网络（Revolving Doors and Co-affiliation）** 咨询公司合伙人高频穿梭于政府内阁顾问、法定委员会主席、慈善基金会董事与跨国投行要职之间，构筑起排他性的非民选政策同盟。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 526–530)]]
@@ -147,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -167,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 专业效率赋能 vs [[Public Value|公共价值]]与制度能力流失
@@ -179,8 +167,6 @@ updated: 2026-10-22
 > 顾问统治概念主要适用于具有高度新自由主义市场化传统、公共预算大量开放外包采购且咨询寡头深度参与政策立法的国家与地区；在保持强国家主义传统、行政官僚内生研究能力完备且严禁商业机构干涉核心立法的体系中，该概念的解释力相对有限。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 顾问统治在公共治理与教育政策中的实证表现对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

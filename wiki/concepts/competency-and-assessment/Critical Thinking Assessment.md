@@ -98,11 +98,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Critical Thinking Assessment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Critical Thinking\|批判性思维]]测评是对个体在澄清问题、分析论证、评价证据、推导结论、说明理由与自我调节等[[Higher-Order Thinking Skills\|高阶认知技能]]以及求真、开放、探究与理性反思等情意倾向进行[[Operationalization\|操作化]]测定、实证表征与促学反馈的系统化评价过程。它涵盖心理测量学客观测试、主观自陈倾向调查、情境化表现任务与课程嵌入式真实性评分量规等多元技术路径，旨在诊断学生高级思维发展水平、衡量教育干预的纵向[[Learning Gain\|学习增益]]并检验课程教学与评价任务的[[Construct Validity\|构念效度]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 21–28)]] [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 4–5)]] [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31–35)]]
@@ -124,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Critical Thinking\|批判性思维]]主要测评技术路径辨析
 > | 测评路径类别 | 经典心理测量学客观测试 | 主观自陈倾向与策略量表 | 高等教育增值表现性测试 | 课程嵌入式真实性评分量规 |
 > |---|---|---|---|---|
@@ -138,8 +132,6 @@ updated: 2026-10-22
 > （根据 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 21–28)]] 与 [[Argument_Park_2026_TSC\|Park et al. (2026, pp. 4–5)]] 综合梳理）
 
 ---
-
-## 核心要素
 
 > [!feature] 测评[[Construct\|构念]]的[[Operationalization\|操作化]]维度
 > - **技能维度（Cognitive Skills）** 涵盖解释（Clarification）、分析（Analysis）、评价（Evaluation）、推论（Inference）、说明（Explanation）与自我调节（[[Self-control\|self-regulation]]）六大认知操作。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
@@ -202,8 +194,6 @@ updated: 2026-10-22
 > [!claim] Hughes, C.; Zemplén, G. Á.; Bergeron, L., & Rogers, C.
 > **构念覆盖不足、术语表演与主观评分困境** 对探究性课程（如 IB ToK）的构念审查显示，书面课程目标虽高调倡导批判性思维，但实际评估任务往往局限于[[Knowledge Questions\|知识问题]]讨论与反主张列举，未能系统覆盖批判性阅读、证据来源考据、假设检验、概率判断与决策解决，导致内部对齐不能等同于完整的[[Construct Validity\|构念效度]]。同时，当评分标准过度依赖特定分析词汇时，易诱发学生通过套用套话进行“术语表演”（Jargon Performance）；而在教学一线，缺乏绝对客观答案的主观思维评估始终是教师面临的最大实操痛点。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–43)]] [[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–174)]] [[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 18, 33)]]
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论断言 | 涉及核心机制与方法学工具 | 代表学者依据 |
 > |---|---|---|---|
@@ -214,8 +204,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Critical Thinking\|批判性思维]]测评的技术演进与[[Paradigm\|范式]]转向
 > - **1960–1980 年代　经典心理测量学客观测试主导** 以沃森-格拉瑟批判性思维评估（WGCTA, 1980）和康奈尔测试为代表，采用客观[[Multiple-Choice Questions\|多项选择题]]（MCQs）测量推理、前提识别与解释，确立了高[[Reliability\|信度]]与标准化常模范式。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 21)]]
 > - **1990 年代　德尔菲框架确立与倾向[[Questionnaire\|问卷]]兴起** APA 德尔菲共识报告（Facione, 1990）将[[Construct\|构念]]明确划分为认知技能与情意倾向双维度，催生了[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（CCTST, 1992）与[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 251–252)]]
@@ -223,8 +211,6 @@ updated: 2026-10-22
 > - **2010 年代至今　校本真实性量规崛起与[[Formative Assessment\|促学评价]]生态** 全美高校广泛转向 AAC&U VALUE 量规（Rhodes, 2009），欧洲推行 [[CALOHEE Project\|CALOHEE]] 参照框架（Wagenaar, 2018），批判性思维评价深度回归微观课堂，聚焦真实[[Task Structure\|劣构任务]]、纯质性描述评语与多轮形成性反馈迭代。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–34)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 测评方法学争议与[[Paradigm\|范式]]张力
 >

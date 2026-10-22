@@ -37,17 +37,14 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Community Innovation Survey
-
 ---
 
 > [!info] 背景
 > 社区创新调查（Community Innovation Survey，CIS）是由 Eurostat 与[[EU|欧盟]]成员国国家统计机构合作开展的企业创新调查，基于[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）的 Oslo Manual 方法论。CIS 是欧洲创新研究最核心的企业层面数据来源，覆盖产品创新、流程创新、研发支出、创新合作、创新目标以及创新障碍等多个维度[[Argument_Bogliacino_Pianta_2016_EconPol\|(Bogliacino & Pianta, 2016)]]。
 
 ---
-## 设计与方法
 
-> [!abstract|notitle]
+> [!abstract] 设计与方法
 > CIS 的设计遵循 Oslo Manual 标准，具有以下核心特征（pp.162-163）：
 > - **统一[[Questionnaire\|问卷]]** 所有参与国使用相同的问卷，确保跨国可比性
 > - **[[Stratified Sampling\|分层抽样]]** 按行业进行[[Stratified Sampling\|分层抽样]]，确保各产业的统计代表性

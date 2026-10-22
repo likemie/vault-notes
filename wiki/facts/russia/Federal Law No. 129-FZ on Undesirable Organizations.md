@@ -38,11 +38,7 @@ created: '2026-06-30'
 updated: 2026-10-22
 ---
 
-# Federal Law No. 129-FZ on Undesirable Organizations
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015年5月23日由俄罗斯联邦总统签署，国家杜马通过。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
@@ -51,8 +47,6 @@ updated: 2026-10-22
 > - **制度位置** 该法案进一步收紧了对非营利组织的监管，直接导致国际非政府学术组织、民间合作项目及跨国基金会在俄罗斯的运营被迫中止。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 44, 46]])
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 第129-FZ号法律授权总检察长办公室在与外交部协商后，可以直接宣布某些外国或国际非政府组织在俄罗斯境内为“不受欢迎的/非友好的”组织，取缔其一切境内分支与业务。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
@@ -65,16 +59,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2015** 5月签署第129-FZ号法案，建立“不受欢迎外国组织”名录与取缔制度。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
 > - **2016** 美俄“尤里卡”（EUREKA）联合项目与CRDF Global“基础研究与高等教育”计划受制裁影响，被迫终止或撤出。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
 > - **2021** 6月30日，长期资助青年人文社科学者的奥克斯福德俄罗斯基金（Oxford Russia Fund）被俄罗斯官方宣布为“非友好组织”并强制关停。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 俄罗斯联邦总统签署，国家杜马通过。

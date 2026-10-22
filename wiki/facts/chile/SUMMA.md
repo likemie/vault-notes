@@ -78,11 +78,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# SUMMA
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 拉美和加勒比教育研究与创新实验室（Laboratorio de Investigación e Innovación en Educación para América Latina y el Caribe，SUMMA）是由美洲开发银行（[[Inter-American Development Bank]]，IDB）联合拉美多国教育部于 2016 年共同发起成立、后依法注册为独立非营利法人的跨国教育实证中介与创新研发中枢。机构法定总部设于智利圣地亚哥，通过搭建跨国多中心[[Evidence Ecosystem\|证据生态系统]]，致力于将严谨因果实证转化为可操作的政策与教学方案，推动拉美和加勒比地区教育公平与社会正义。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2015–2016 — 区域倡议与多边创设期** 拉美 7 国教育部在美洲峰会提议构建区域创新中枢；美洲开发银行设立专项基金，委任经济学家哈维尔·冈萨雷斯（Javier González）出任总监兼联合创始人，正式启动 SUMMA 运作并在华盛顿特区完成多边启动。
 > - **2017 — 循证工具与创新地图发布** 在智利、乌拉圭、厄瓜多尔、墨西哥和哥伦比亚等国相继启动国家级工作网络；在厄瓜多尔基多发布《有效教育实践平台》（Plataforma de Prácticas Efectivas），在智利圣地亚哥上线《教育创新地图》（Mapa de Innovaciones）。
@@ -106,8 +100,6 @@ updated: 2026-10-22
 > - **2020–至今 — 多边枢纽深化与区域网络扩展** 联合[[UNESCO\|联合国教科文组织]]（UNESCO）发布拉美区域《[[Global Education Monitoring Report\|全球教育监测报告]]》（GEM Report LAC）；携手[[Global Partnership for Education\|全球教育伙伴关系]]（GPE）与加拿大 IDRC 建立 [[Knowledge and Innovation Exchange\|KIX]] LAC 枢纽；业务协同国家扩展至 21 国，成为全球南方规模最大的跨国教育证据中介实体。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **董事会（Directorio）** 治理最高权力机构，由来自拉美 10 国的权威学者、前教育部长及国际组织高级专家组成。智利前教育部课程与评估主任克里斯蒂安·考克斯（Cristián Cox）担任主席；哈佛大学教授埃米利亚娜·维加斯（Emiliana Vegas，曾任[[World Bank\|世界银行]]教育总监与美洲开发银行教育处长）、哥伦比亚安第斯大学教授恩里克·乔克斯（Enrique Chaux）、秘鲁 GRADE 主任圣地亚哥·奎托（Santiago Cueto）、厄瓜多尔前教育部长蒙塞拉特·克里默（Monserrat Creamer）、墨西哥前国家教育[[Evaluation Research\|评估研究]]所（INEE）所长西尔维亚·施梅尔克斯（Sylvia Schmelkes）、巴西世界银行前教育高级总监克劳迪娅·科斯汀（Claudia Costin）、巴拿马前副外长尼维亚·卡斯特雷隆（Nivia Castrellón）及执行总监哈维尔·冈萨雷斯（Javier González）出任董事。
@@ -120,8 +112,6 @@ updated: 2026-10-22
 > 3. **政策与实践端双向反馈（[[Policy Brokerage]] & Embedding）** 通过 CAPE 部长级联席会议与一线教师工作坊（如 PRISA 平台、La Voz Docente 调查），将评估发现直接嵌入各成员国教师培训大纲与国家教育拨款指南中。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **有效教育实践平台（Plataforma de Prácticas Educativas Efectivas）** 核心旗舰平台（[practicasefectivas.summaedu.org](https://practicasefectivas.summaedu.org/)），将英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》完整转译为西班牙语与葡萄牙语，结合拉美实证文献对 30 余项干预策略（如[[Metacognition\|元认知]]、形成性反馈、[[Peer-Supported Learning\|同伴互助]]、显性教学等）进行本土[[Effect Size\|效应量]]、成本效益与证据质量评级。
@@ -136,8 +126,6 @@ updated: 2026-10-22
 > *"Nuestra misión es impulsar la justicia social mediante la promoción del derecho a la educación, con especial atención hacia los grupos más desaventajados e históricamente excluidos de la sociedad. Buscamos aumentar la calidad, equidad e inclusión de los sistemas educativos de América Latina y el Caribe, apoyando la mejora de los procesos de toma de decisiones, tanto en las políticas estructurales como en las prácticas pedagógicas en las escuelas."*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **主权合作网络跨度** 常态化协同拉美和加勒比 21 个国家的教育部，成为南美、中美及加勒比区域间唯一的官方互信教育创新与证据中枢。
@@ -155,8 +143,6 @@ updated: 2026-10-22
 > - **1** 个覆盖拉美全境的独立证据与创新实验室法人实体
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

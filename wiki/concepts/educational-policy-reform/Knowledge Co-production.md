@@ -64,11 +64,7 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# Knowledge Co-production
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **知识共创（Knowledge Co-production）**，亦称知识合作生产，指学术研究者、一线教育实践者（教师、校长）与政策制定者在平等、互惠的协作关系中，共同参与[[Research Question\|研究问题]]确立、研究方案设计、现场数据收集、深度数据分析及实践转化全周期的制度化生产模式（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 90–92, 96]]；[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 23–24]]）。作为现代[[Evidence Ecosystem\|教育证据生态系统]]的根本性制度基石，知识共创从根本上超越了传统的单向线性“推-拉”（Push-Pull）知识供给模式，赋予一线实践者在知识创造中的主体地位，通过[[Convergence Research\|融合研究]]者的[[Interactional Expertise\|交互型专长]]与一线教师的[[Contributory Expertise\|贡献型专长]]，确保研究成果深度契合具体的教育情境与微观实践需求。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识共创与传统生产及中介模式对照
 > | 维度 | 知识共创（Knowledge Co-production） | 传统学术生产（Traditional Academic Production） | 线性[[Knowledge Mediation\|知识中介]]（Linear Knowledge Brokerage） |
 > |---|---|---|---|
@@ -102,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **议题共同界定权** 实践者与研究者在初期共同确立[[CORE Education|核心教育]]关切与痛点，严禁学者单方强加理论议程。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 90)]]
 > - **全周期实质介入** 跨界团队协同参与方案设计、过程监测、数据[[Decodification\|解码]]与结论提炼，破除阶段性隔离。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–91)]]
 > - **双向制度化激励** 同时为学术人员（认可社会影响力与实践转化）与一线教师（提供时间编制、考评晋升与薪资补贴）建立配套激励体制。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–92)]]
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -163,8 +153,6 @@ updated: 2026-10-22
 > | **治理与专长弥合命题** | 低利害治理与实践者探究制度是弥合专长鸿沟、实现知识共创的制度前提 | 教师专业标准重塑、校本探究机制与中介治理比较 | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 知识共创的实践张力与制度反思
 > 
@@ -181,8 +169,6 @@ updated: 2026-10-22
 > > - **现实反思** 指出一线教师普遍面临繁重的教学与行政负荷；若缺乏刚性代课编制与工时减免，强推科研共创易演变为转嫁给基层的沉重额外负担。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[OECD]] 跨国政策调查中各类主体在研究生产各阶段的参与覆盖系统数对比（$N = 37$ 教育系统）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

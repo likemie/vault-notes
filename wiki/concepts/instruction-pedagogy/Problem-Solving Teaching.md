@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Problem-Solving Teaching
-
 > [!metax] [问题解决教学 · Problem-solving teaching](https://www.visiblelearningmetax.com/influences/view/problem-solving_teaching)
 > 教学策略 › 教学方法
 >

@@ -81,7 +81,6 @@ status: draft
 created: 2026-05-03
 updated: 2026-10-20
 ---
-# Argument_Eacott_2017_SLM
 
 ---
 
@@ -100,8 +99,6 @@ updated: 2026-10-20
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -110,8 +107,6 @@ updated: 2026-10-20
 > | **管理修辞分类学**<br>[[Rational-Control Rhetoric\|理性/控制修辞 (Rational/Control Rhetoric)]] | 诊断教育系统在面临考试成绩（NAPLAN/[[PISA]]）慢性下滑时，如何出于规避衰退的本能，转向对确定性数据与标准方法的行政饥渴（p.415）。 |
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -129,8 +124,6 @@ updated: 2026-10-20
 > | **历史比较对象** | 20 世纪初弗雷德里克·泰勒的科学管理体系、20 世纪初以库伯利（Ellwood Cubberly）等为代表的美国教育行政学文献。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -215,8 +208,6 @@ updated: 2026-10-20
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **理性修辞的主导与[[School Leadership\|学校领导力]]的行政退化** 澳大利亚在面临 NAPLAN 和 [[PISA]] 成绩缓慢下滑时，行政系统出于规避衰退的理性恐慌，将改进窄化为寻找某种标准化、确定性的技术工具，[[John Hattie\|哈蒂]]的VL填补了管理者的“行政[[Discourse|话语]]饥渴”（p.415）。
 > 2. **哈蒂品牌商业帝国的建立与学校自我合规** 哈蒂自 2009 年起与 ACEL and [[Corwin Press|Corwin]] 出版公司结盟，将学术理论包装为高度排他性的商业培训品牌，导致大量学校为谋求合规而自我标识为“哈蒂学校”（p.419）。
@@ -228,8 +219,6 @@ updated: 2026-10-20
 > - **ES = 0.84** 罗宾逊元分析中“促进与参与教师的学习与发展”维度的效应量，是[[Instructional Leadership\|教学领导力]]影响学生成绩最高的维度。（p.417）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Cult of the Guru\|大师崇拜]]的悲剧性结论
 > 我认为，这种对个人崇拜的盲目接受和扩散是澳大利亚[[School Leadership\|学校领导力]]领域的一场悲剧。（p.413）
@@ -257,8 +246,6 @@ updated: 2026-10-20
 > Original: To subjectify oneself to a single figure is to elevate that individual to guru status. What the Australian school leadership community arguably needs is more rigorous and robust work and more significantly, dialogue and debate (to which Hattie is a part) not the blind adherence to a single guru.
 
 ---
-
-## 自述局限
 
 > [!warning] 批判边界与方法论定位
 > - **非针对[[John Hattie\|哈蒂]]的方法论技术评估** 明确声明，本文绝非对哈蒂个人或其分析质量的方法论技术质询（这些工作已由 Snook et al., 2009; Higgins & Simpson, 2011; Terhart, 2011 等人完成），而是专注于剖析“使大师崛起及其工作被广泛接受的社会与组织条件”（p.414）。

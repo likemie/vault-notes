@@ -59,11 +59,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Inverse-Variance Weighting
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 逆方差加权法（Inverse-Variance Weighting，IVW）是[[Meta-analysis\|元分析]]与统计综合中最基础、应用最广泛的最优线性加权方法。其核心原理是根据各个独立研究（或一阶元分析）所报告[[Effect Size\|效应量]]的抽样精度反比（即抽样方差的倒数）赋予统计权重。在[[Fixed-Effect Model\|固定效应模型]]下，权重为研究内方差的倒数；在[[Random-Effects Model|随机效应模型]]下，权重为研究内方差与[[Heterogeneity\|研究间异质性]]方差之和的倒数。根据高斯-马尔可夫定理（Gauss-Markov Theorem），逆方差加权能够使得合成效应量的方差达到理论最小值，从而获得最佳线性无偏估计（Best Linear Unbiased Estimator，BLUE）。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 26)]]; [[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 6)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 视各个实证研究的观测[[Effect Size\|效应量]]为带有抽样噪声的真实效应估计值，[[Sample Size Determination\|样本量]]越大、测量误差越小的研究包含越多的总体真实信息，理应获得更高的认识论与统计学权重。
 > - **研究者角色** 研究者必须严格检验各效应量的测度等价性（如统一转为 $d$ 或 Fisher's $z$），准确提取或推算抽样方差 $v_i$，并依据[[Heterogeneity\|异质性]]检验结果在[[Fixed-Effect Model|固定效应]]与[[Random-Effects Model|随机效应]]加权体系间作出审慎选择。
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > - **辅助技术** 效应量测度转换、[[Funnel Plot\|漏斗图]]与发表偏倚检验、敏感性分析、亚组调节检验。
 
 ---
-
-## 数学原理与计算程序
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** $k$ 个独立研究的[[Effect Size\|效应量]]向量 $\mathbf{y} = (y_1, y_2, \dots, y_k)^T$ 及其对应的抽样方差向量 $\mathbf{v} = (v_1, v_2, \dots, v_k)^T$。
@@ -191,8 +183,6 @@ updated: 2026-10-22
 
 ---
 
-## 软件实现
-
 > [!software-impl] 软件实现与代码范例
 > - **推荐软件与工具包** R 语言（`metafor`、`meta` 包）、Python（`statsmodels`）、Stata（`meta` 模块）、CMA（Comprehensive [[Meta-analysis]]）。
 > - **R 语言核心实现**
@@ -211,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 
 >   - 一阶[[Meta-analysis\|元分析]]中综合来自多个独立实验或调查的标准化[[Effect Size\|效应量]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 6)]]
@@ -224,8 +212,6 @@ updated: 2026-10-22
 >   - 缺乏基本[[Sample Size Determination\|样本量]]与方差信息、仅有定性结论的研究汇总。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **对大样本研究极端值敏感** 在[[Fixed-Effect Model\|固定效应模型]]下，超大样本研究会占据绝大多数权重，若该研究存在系统性测量偏误，将拉偏全局估计。
@@ -254,8 +240,6 @@ updated: 2026-10-22
 > | [[Meta-regression]] | 扩展方法 | 基于逆方差加权最小二乘法（WLS）检验调节[[Variable\|变量]]对[[Effect Size\|效应量]]的线性影响。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 从逆方差加权与固定/[[Random-Effects Model\|随机效应模型]]的数学基础出发，系统批判了 Hattie 在《[[Visible Learning\|可见的学习]]》中采用简单算术平均与错误加权的统计缺陷。

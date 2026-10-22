@@ -52,11 +52,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Committee for the Accreditation of Teacher Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 教师教育认证委员会（Committee for the Accreditation of Teacher Education, CATE）是 1984 年英国保守党政府设立的法定顾问与资质认证机构，受命与皇家督学署（Her Majesty's Inspectorate, HMI）密切合作，依据督导实证证据对全英教师培训机构进行强制性资格核准，开创了英格兰教师教育显性[[Output-Oriented Governance\|循证治理]]与国家集权监控的制度先河。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]；[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
@@ -69,16 +65,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1967–1983 — 学科基础扩张与政策酝酿** [[Initial Teacher Training\|初始教师教育]]中教育社会学、教育哲学等理论学科迅速扩张；但保守党政府批评其脱离课堂实际并具有政治激进色彩，1983 年白皮书《教学质量》明确提出设立国家认证机构。[[Argument_Ball_2008_SR\|(Ball, 2008, pp. 658–659)]]；[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **1984–1994 — 循证认证与标准集权化** CATE 依据通令 3/84（Circular 3/84）全面铺开资质认证，首创基于 HMI 督导证据的准入规程，强力压缩理论学科，确立技能与课堂能力本位。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **1994 至今 — 职能承接与[[New Public Management\|新公共管理]]演进** 1994 年英国通过《教育法案》设立[[Teacher Training Agency\|教师培训署]]（Teacher Training Agency, TTA），接替并扩充了 CATE 的职能，后演化为教师发展署（TDA）、国家教学与领导力学院（NCTL）并最终收归教育部直接管理。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策与顾问委员会** 由教育大臣直接任命的政务官、资深中小学校长、大学代表及雇主代表组成，直接向教育大臣负责。
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > - **循证审查规程** 审查不仅依据大学提交的教学大纲文本，更严格依据 HMI 的入校督导观察证据，对不达标机构下达整改或吊销认证。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **国家[[Initial Teacher Training\|初始教师培训]]认证规程** 建立首套贯穿全英的初始师资培训法定核准标准与准入流程。
@@ -105,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **制度渗透** 彻底终结了大学教育学系在教师培养大纲上的完全自治权，使国家标准成为不可违背的法律底线。
 > - **知识形态转型** 促使教师专业知识从以哲学、社会学为主的“基础学科”（Foundational Disciplines）向[[Classroom Management\|课堂管理]]、行为控制与技能达标的“能力本位”（Competence-Based）不可逆重构。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]
@@ -116,8 +104,6 @@ updated: 2026-10-22
 > - **压缩批判教育社会学空间** 导致[[New Sociology of Education\|新教育社会学]]等批判学科被逐出核心师训大纲，退缩至高阶选修学位或被重构为应用性评价工具。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

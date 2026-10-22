@@ -81,11 +81,8 @@ status: draft
 created: 2026-08-16
 updated: 2026-10-17
 ---
-# Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29
 
 ---
-
-#### 概念地图
 
 > [!knowledge-map] 第29章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_29_Concept_Map.jpg)
@@ -111,8 +108,6 @@ updated: 2026-10-17
 > - **证据是什么？** 内容为方法综述，引用 Bruner、Labov、Gibbs、Flick、Miles & Huberman、LeCompte & Preissle、Brenner、Hycner、Robson、Lincoln & Guba、Walford、Becker & Geer、Lofland、Lazarsfeld & Barton、Znaniecki、Bogdan & Biklen、Denzin 等。
 
 ---
-
-### 29.1 数据表格化
 
 > [!info] 数据出处的重要性
 > 质性数据组织与呈现的起点是记录数据的出处（provenance），即日期、语境、时间、参与者、研究者、地点等。记录出处可确定数据的情境与年代顺序，从而追踪情境如何浮现、演变、变化并导致其他情境，网络如何形成，以及因果如何建立。（29.1）
@@ -311,8 +306,6 @@ updated: 2026-10-17
 
 ---
 
-### 29.3 叙事与传记进路
-
 > [!info] 故事作为意义与思考的形式
 > 布鲁纳（Jerome Bruner, 1986）指出人类以故事文本（storied text）制造意义与思考，故事抓住人类处境、[[Intentionality|意向性]]与经验的生动性，呈现参与者的多重视角与生活现实，即主观景观（subjective landscapes）。故事以隐喻为起点并经由可验证数据转变成经验陈述；它们使熟悉之物变得陌生，从显而易见中解救出来（rescue it from obviousness），并要求读者填补空白，因而是一种互动媒介（pp. 14, 19, 24, 29）。（29.3）
 
@@ -366,8 +359,6 @@ updated: 2026-10-17
 > 叙事分析与传记数据能为情境增添现实感、真实性、人性、个性、情感、观点与价值的维度。通过讲述故事，叙事记述、案例研究或传记摆脱编码的限制与编码检索练习容易产生的脱体文本（disembodied text）风险；它把文本与内容保持在一起，保留人的完整性而非把人的碎片归入共同主题或编码，使演变中的情境、原因与结果能被追踪，使事件在展开过程中着火。叙事强大、人性化且整合，真正是质性的。（29.3）
 
 ---
-
-### 29.4 系统化分析进路
 
 > [!proc] Becker and Geer（1960）的系统化分析
 > 1. **比较群体** 同时并随时间比较不同群体。
@@ -558,8 +549,6 @@ updated: 2026-10-17
 > 质性数据可通过若干进路分析与呈现，应与下一章（内容分析与编码）结合阅读，二者相互补充。（29.5）
 
 ---
-
-## 关键引用
 
 > [!citation-card] Bruner 论故事作为意义与思考的形式
 > 人类以"故事文本"制造意义与思考，故事抓住人类处境、[[Intentionality|意向性]]与经验的生动性，呈现参与者的多重视角与生活现实（"主观景观"）。（29.3）

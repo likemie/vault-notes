@@ -47,11 +47,7 @@ created: 2026-07-04
 updated: 2026-10-22
 ---
 
-# Daniel Tröhler
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 瑞士教育历史与课程理论学者。曾任卢森堡大学教授，现为维也纳大学（University of Vienna）教育学教授。
@@ -67,9 +63,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育与课程改革在本质上是由民族国家建构、国内政治控制以及地缘利益竞争驱动的。国际间的“政策学习”并非中性的技术改进，而是源于无政府状态下国家为了维护自身权力与地位，对竞争对手所展开的“贪婪而好奇”的观察。比较教育的学术与政策流变史，实质上总是伴随着政治大国的意识形态输出与[[Discourse|话语]]征服。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]; [[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 334)]]
 
 > [!citation-card] 经典表述：国家竞争与贪婪学习
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > - **合作者 / 对话者** [[Eleftherios Klerides]] — 共同在[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）网络中展开关于历史现实主义和[[Educated Identity\|受教育身份]]的学术探讨。
 
 ---
-
-## 争议与批评
 
 > [!critique] 批评与应用索引
 > - [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] — 应用 Tröhler 的“国家利益驱动论”，解释了[[Liberal Studies\|香港通识教育科]]（Liberal Studies）的废除并非遵循全球课程科学，而是直接服从于国家安全和国族建构的政治竞争逻辑。(p. 483)

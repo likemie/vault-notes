@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Lucian Freud
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德裔英国具象画家，20世纪西方最重要的肖像画与具象艺术大师之一；精神分析学派创始人[[Sigmund Freud|西格蒙德·弗洛伊德]]（Sigmund Freud）之孙。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要作品与艺术发展
-
 > [!thought-timeline] 艺术发展
 > - **1940年代–1950年代 — 精密线条与超现实具象期** 早期作品多采用细致平滑的笔法，强调精确轮廓与冷凝神态。
 >   - **代表作品** 《带猫的女孩》（*Girl with a Kitten*, 1947）、《[[Francis Bacon|弗朗西斯·培根]]肖像》（*Portrait of Francis Bacon*, 1952）。
@@ -88,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 真正的洞察力源于对物理与客体现实的深长注视和对先入为主观念的[[Epoché|悬置]]；在观察世界时抵制将主观偏见或抽象理论强加于现实之上的冲动，才能触及事物最本真的物理与精神现实。
 
 > [!citation-card] 悬置主观评判的深度观察
@@ -100,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **现代艺术与具象美学** 确立了20世纪西方具象肖像绘画的高峰，有力驳斥了抽象浪潮席卷下“具象绘画已死”的虚无主义论调。
 > - **工程认知与[[Epistemology|认识论]]启示** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其“如实观察而不做评判”的凝视态度引入[[Engineering Mindset|工程思维]]的[[Epistemology|认识论]]讨论中，强调高水平工程师与治理者必须具备直面未加修饰之运行代码与物理现实的专注力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
 
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引入弗洛伊德具象凝视论证工程思维以客观观察和[[Epoché|悬置]]评判直面动态物理现实的认识论原则。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 盖福德论弗洛伊德的耐心凝视
 > 艺术评论家马丁·盖福德（Martin Gayford）指出，弗洛伊德通过长期耐心、细致的目光延续了西方深厚的具象艺术传统，使观者能够在不加粉饰的画布前直面生命的脆弱与真实。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 166)]]
@@ -126,8 +114,6 @@ updated: 2026-10-22
 > - **思想阐释者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 将其客观凝视与[[Epoché|悬置]]评判提炼为[[Technological Republic|技术共和国]]工程[[Epistemology|认识论]]的哲理镜鉴。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

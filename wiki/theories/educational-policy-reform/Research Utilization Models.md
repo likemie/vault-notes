@@ -85,13 +85,9 @@ created: 2026-08-29
 updated: 2026-10-22
 ---
 
-# Research Utilization Models
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 学术研究与实证证据如何被政策制定者、教育行政人员、[[School Leadership\|学校领导]]者与一线教师在不同情境下获取、解释、消化、转化、引用或策略性部署。
 > - **理论问题** 破除“研究产生 $\rightarrow$ 直接转化为政策或教学行动”的线性[[Technical Rationality\|技术理性]]迷思，解释为何高质量科研成果很少产生即刻的工具性应用，以及研究如何以非线性、扩散性与政治性的方式深层重构行动者的思维视界。
 > - **理论类型** 中层机制模型群与分析类型学（Typological Framework）。
@@ -119,8 +115,6 @@ updated: 2026-10-22
 > | [[Knowledge Mobilisation]] | 机制 | 促成研究成果跨越学术界与实践界边界流动、转化与共创的中间机制。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Research Utilization\|研究利用]]存在七种质性相异的机制模型并可归纳为四大过程[[Paradigm\|范式]]
 > - **前提一** 传统政策与管理学默认“线性技术模型”（[[Technical Rationality\|Technical-Rational Model]]），假设只要研究质量足够高、结论足够明确，决策者就会据此直接制定政策或调整教学行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|(Cohen et al., 2011, p. 43)]]
@@ -189,8 +183,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将社会实践、教育政策与教学过程理解为充斥着多元价值竞争、不确定性与微观互动的复杂社会系统，否定将实践简化为纯粹机械输入-输出工程的确定论本体观。
 > - **[[Epistemology\|认识论]]** 秉持多元认识论（Pluralist Epistemology），认为学术研究提供的命题性知识（[[Knowledge-that and Know-how-to\|propositional knowledge]]）并不天然高于实践者的情境性知识（Tacit & Contextual Knowledge），真正的有效利用是多元知识形态在情境中的重构与融合。
@@ -232,8 +224,6 @@ updated: 2026-10-22
 > - **2026 — 协作生态拓展** Hagevold et al. 在《Educational Research Review》发表综述，运用研究利用类型学剖析国际教师协作参与科研的深层整合与浅层合规机制（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

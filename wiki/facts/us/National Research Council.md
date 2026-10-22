@@ -59,11 +59,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# National Research Council
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）、国家工程院（NAE）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循美国国会法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审[[Research Synthesis|证据综合]]报告著称；在教育政策领域，NRC 既在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动初期系统审查全美基于标准的问责制实证文献并确立顶层科学合法性（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]），又在 2012 年里程碑报告《公共政策中的科学证据使用》中系统提炼出学者介入循证治理面临的结构性两难。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 汇聚全美最杰出的科学家、计量学家与教育学者，提供关于复杂社会政策、科学前沿与教育评估的客观综合证据，界定科学在民主决策中的合理边界。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1916–1970年代** **战时技术动员与跨学科制度化**
@@ -102,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **管理理事会（Governing Board）** 由[[National Academy of Sciences|美国国家科学院]]院长兼任主席、国家工程院院长或副院长兼任副主席，成员涵盖三大学术院代表，把控国家级咨询选题的政治与科学独立性。
 > - **行为与社会科学及教育学部（DBASSE）** 专设的教育与社会政策咨询中枢，下设测试与评估委员会（BOTA）及科学教育委员会，专门承接基础教育改革实证评价与证据综合。
@@ -117,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **《公共政策中的科学证据使用》（NRC, 2012）** 由普威特、施万特与斯特拉夫主编的里程碑报告，超越简单的证据供给与技术中介视角，系统揭示政策语境中科学证据的竞争性、政治性与修辞性特征，指出教育研究者面临被政策系统工具化收编并损害学术公信力的深层困境。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
 > - **《教育领导力蓝图》（Blueprint for Education Leadership, 2007）** 基于两次研讨会成果编制的高端政策简报，系统阐明统一而集中的国家标准是改善教育问责的必要前提。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
@@ -131,8 +121,6 @@ updated: 2026-10-22
 > *A National Research Council (NRC) report sharpened the issues and brought two important lines of research to the attention of the policy community.... One was research by Andrew Porter and his colleagues... A telling example was that a North Carolina student performing at the proficient level might be below the proficient level in South Carolina, with the possibility of having to attend a remedial class because South Carolina's proficiency standard was higher (National Research Council 2008, 23). [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **学术与知识生产** 每年汇集数千名顶级科学家参与数百个专家委员会，产出具有国际权威性的学科前沿进展与政策咨询报告。
@@ -151,8 +139,6 @@ updated: 2026-10-22
 > - **2012** 出版标志性公共政策科学证据使用报告的年份。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 654)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

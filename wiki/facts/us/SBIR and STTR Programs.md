@@ -73,11 +73,7 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# SBIR and STTR Programs
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 小企业创新研究（Small Business Innovation Research, SBIR）与小企业[[Technology Transfer|技术转移]]（Small Business Technology Transfer, STTR）计划是美国联邦政府通过国会立法设立的双轨制高技术创新扶持计划，旨在打破联邦研发预算由大型军工承包商与国家实验室垄断的格局，强制动员联邦主要科技部委划拨固定比例研发经费，直接注入具有商业化潜力的中小企业与[[University Spin-Out|大学衍生企业]]，充当连接前沿实验室科研与商业化市场的国家级[[Non-dilutive Funding|非稀释性资助]]枢纽。在政治社会学家[[Fred Block|弗雷德·布洛克]]（Fred Block）的分析中，SBIR 是美国[[Developmental Network State|发展型网络国家]]（DNS）履行“开辟多维窗口（Opening Windows）”职能的基石工具，使技术官员得以避开保守派对产业政策的意识形态阻挠，持续向自下而上的颠覆性早期创新注资。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 37)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 144–145)]]; [[Argument_Block_2008_PS|(Block, 2008, pp. 176–177, 189–191)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对 1970 年代末至 1980 年代初美国国家工业[[Competitiveness|竞争力]]危机，解决大学前沿基础研究成果难以跨越“实验室概念验证向商业化产品转化[[Valley of Death|死亡之谷]]”的体制瓶颈。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 369)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过强制各联邦机构提取法定研发预算份额、实施三阶段竞争性资助阶梯，并在申报中内置“客户声音”（Voice of the Customer）与产业协作门槛，能够在不稀释创始团队股权的前提下为[[University Spin-Out|大学衍生企业]]提供早期市场验证与高风险概念孵化资本；同时利用国防部与民用机构采购合同充当下游首发客户，协助早期硬科技创业跨越[[Valley of Death|死亡之谷]]。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 144, 149)]]; [[Argument_Block_2008_PS|(Block, 2008, pp. 189–191)]]
@@ -116,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1977–1982 — [[National Science Foundation|NSF]] 试点破冰与全联邦法定化** 1977 年 NSF 首创小企业应用研究资助试点；1982 年里根总统签署《小企业创新发展法》，将 1.25% 的法定提取比例推广至全美所有主要研发部委，开启联邦小企业创新资助制度化进程。
 > - **1980 年代 — 国家科技体制改革联动与产学网络演进** SBIR 与 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》、1984 年 NSF [[Engineering Research Centers|工程研究中心]]（ERC）计划紧密联动，共同构筑了美国应对国际[[Competitiveness|竞争力]]危机的“高校研发—知识产权赋权—中小企业孵化”国家创新闭环。在 NSF 工程学学部内部，SBIR 专项经费体量长期位居前列，与[[Engineering Education|工程教育]]与中心处（EEC）共同支撑全美工程转化支柱。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 369)]]
@@ -127,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **宏观政策与合规监督方** 美国小企业管理局（SBA），负责制定统一政策准则，管理全国 SBIR/STTR 数据库，向国会提交年度审查报告。
 > - **出资与技术需求发布方** DoD、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[National Science Foundation|NSF]]、[[National Aeronautics and Space Administration|NASA]] 等 11 个联邦机构，结合各自国家战略使命（如国防装备、重大疾病、清洁能源、前沿工程）发布年度课题指南与组织独立评审。
@@ -136,8 +126,6 @@ updated: 2026-10-22
 > - **学术研究与人才源头** [[Research Universities|研究型大学]]与国家实验室，作为 STTR 的法定合作方提供先导专利许可、高端实验仪器平台与跨学科研究生研发力量。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心成效与产学转化收益
 > 1. **全美硬科技初创的非稀释性生命线** 每年向数千家早期小企业注资超过 40 亿美元，在企业估值未成熟期提供了无需出让控制权或股权的关键资金，极大保护了科学家创始团队的创业积极性。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 144)]]
@@ -154,8 +142,6 @@ updated: 2026-10-22
 > - **11** 参与 SBIR 计划的联邦部门总数（涵盖国防部、HHS/[[National Institutes of Health|NIH]]、能源部、[[National Science Foundation|NSF]]、[[National Aeronautics and Space Administration|NASA]]、农业部等）。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与政策张力
 >

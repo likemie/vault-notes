@@ -77,11 +77,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Directorate for Technology, Innovation and Partnerships
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **技术、创新与伙伴关系理事会（Directorate for Technology, Innovation and Partnerships, TIP）** 是[[National Science Foundation|美国国家科学基金会]]（NSF）于 2022 年依据《[[CHIPS and Science Act|芯片与科学法案]]》正式创设的全新跨界业务理事会，也是 NSF 成立 30 余年来设立的首个新理事会。作为 NSF 加速科学成果产业落地的“国家级创新引擎”，TIP 专门致力于打破从前沿基础研究到现实应用的“[[Valley of Death|死亡之谷]]”，通过构建[[Public-Private Partnership|公私合作伙伴关系]]（Public-Private Partnerships, PPP）、布局[[NSF Regional Innovation Engines|区域创新引擎]]（NSF Regional Innovation Engines）、设立 X 实验室（直接赋权新型独立研究实体）以及开展“金券（Golden Tickets）”非共识资助试验，将联邦基础科学投入直接转化为国家经济繁荣、产业技术自主与国家安全优势。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2021 — 《无尽前沿法案》立法博弈与战略设计** 国会两党议员提出《无尽前沿法案》（Endless Frontier Act），主张在 [[National Science Foundation|NSF]] 内部重构应用[[Research Translation|技术转化]]职能，引发了科学界关于“保持纯基础研究”与“强化国家关键技术转化”的历史性大辩论。
 > - **2022 — TIP 理事会正式创设与《[[CHIPS and Science Act|芯片法案]]》立法锁定** 2022 年 3 月 NSF 主任正式宣布成立 TIP 理事会；同年 8 月总统签署《芯片与科学法案》，正式确立 TIP 的法定地位，并授权其在未来数年内动用数百亿美元推进国家技术转化生态建设。
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > - **2026 — 组织形态创新与[[Metascience|元科学]]资助试验（Kratsios / [[Office of Science and Technology Policy|OSTP]]）** 白宫科技政策办公室（OSTP）《科学：新黄金时代》报告重点推介 TIP 的前沿制度探索：设立 X 实验室直接资助传统高校外的独立科研机构（借鉴[[Focused Research Organization|聚焦研究组织]] FRO 模式）；试点单一评委破格资助的“金券（Golden Tickets）”机制；并与[[Metascience|元科学]]研究者合作开展资助体制的对照实验，成为联邦科研管理创新的先锋试验田。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **助理主任与理事会领导层（Assistant Director for TIP）** 由资深[[Research Translation|技术转化]]专家与学术领导者出任，直接向 [[National Science Foundation|NSF]] 主任汇报，统筹重大技术转化计划的设立与跨部门协调。
@@ -119,8 +111,6 @@ updated: 2026-10-22
 > - **全链条创业与人才培育支架** 将技术研发与商业[[General Education|通识教育]]紧密绑定，系统性培养兼具工程科研实力与创业精神的复合型发明家队伍。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[National Science Foundation|NSF]] [[NSF Regional Innovation Engines|区域创新引擎]]计划（NSF Regional Innovation Engines）** 投资数十亿美元在全美培育具有全球[[Competitiveness|竞争力]]的区域高科技[[Innovation Hub|创新中心]]，每个引擎资助周期长达 10 年、资助额最高达 1.6 亿美元。
@@ -138,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **科研资助[[Paradigm|范式]]的历史性转向** 终结了战后 [[National Science Foundation|NSF]] 仅资助“好奇心驱动纯基础科学”的单一线性范式，确立“自由好奇心驱动 ＋ 战略应用导向”双轮驱动的国家科技资助新体系。
 > - **公私研发合作机制的大规模制度化** 将原本分散、小规模的企业赞助与政府资助，整合为具有国家战略指向的持久公私协同制度载体。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]
@@ -151,8 +139,6 @@ updated: 2026-10-22
 > - **激活企业学术合作团队（[[Academic Engagement Team|AET]]）的公私对接** 成为成熟企业寻找高成熟度大学研发标的、以政府匹配资金放大研发杠杆的核心官方入口。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 233)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

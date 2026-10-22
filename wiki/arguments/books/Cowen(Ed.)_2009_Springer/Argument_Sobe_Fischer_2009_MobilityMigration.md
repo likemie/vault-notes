@@ -96,7 +96,6 @@ status: completed
 created: 2026-10-10
 updated: 2026-10-20
 ---
-# Argument_Sobe_Fischer_2009_MobilityMigration
 
 ---
 
@@ -113,8 +112,6 @@ updated: 2026-10-20
 
 ---
 
-## 理论框架
-
 > [!framework-table] 核心理论工具
 > | 理论工具 | 解释功能与理论贡献 |
 > |---|---|
@@ -127,8 +124,6 @@ updated: 2026-10-20
 > 这套理论工具将宏观的权力批判落实到具体的学校日常机制中：罗斯的[[Spatial Governmentality|空间治理术]]视角指明，现代学校并不是简单的教书场所，而是通过围墙、教室、固定作息与学籍管理，把儿童固定在特定区域内的规训技术；波普科维茨的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]则进一步指出，仅仅增加教育经费或降低学费并不能消除不平等，因为学校在制度观念中早已把特定群体的流动预设为不正常或有缺陷，这种文化偏见构成了更难以察觉的深层排斥。（pp. 360–361, 367–368）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 分析模块 | 材料来源与分析方法 |
@@ -149,8 +144,6 @@ updated: 2026-10-20
 > | **印度西部牧区** | 古吉拉特邦拉巴里（Rabari）游牧部族；[[Nomadic Education\|游牧教育]]中的定居化运动与基础读写教育[[Fieldwork\|田野调查]]。 | 国家将正规学校作为强制推进定居化（Sedentarization）的[[Disciplina and Doctrina\|规训]]工具；部族家庭主动让子嗣入学作为获取读写资本与分散生存风险的保险。（pp. 366–367） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -346,8 +339,6 @@ updated: 2026-10-20
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **欧美教育政策对[[Student Mobility|学生流动]]存在阶层化的道德双标** [[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]将高等教育跨境求学塑造为培育共同欧洲公民与职场[[Competitiveness|竞争力]]的制度资产，而美国基础教育问责制（[[No Child Left Behind Act 2001|NCLB]]）则将中小学中途转校贬斥为表征贫困缺陷与拖累学校业绩的[[Transiency|流动漂泊]]，反映出主体的社会阶层深刻决定了流动的道德评价。（pp. 361–364）
 > 2. **学校制度兼具物理领地圈禁与社会资格筛选的双重属性** 现代学校依据领地划界、统计制图与空间规则三维技术运作，既是通过围墙大门和作息规定将学龄人口固定在受控场所的物理容器，又是通过考核评定个体是否有资格进入更高阶社会阶层的筛选关卡。（pp. 360–361）
@@ -360,8 +351,6 @@ updated: 2026-10-20
 > - **60%** 美国中小学生学年中途转校中归因于家庭居住地址变迁的比例（Rumberger, 2003），反驳纯粹家庭病态化假设。（p. 363）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 空间转向与地理空间实践
 > 近年来，空间与空间性日益成为比较与[[International Education|国际教育]]研究的重要课题。通过将空间视为文化实践的领域，研究者能够清晰看清对流动的限制、对流动的诱导，以及深刻影响教育政策与学校实践实施、改革和争论的相关边界、流动与封闭。在历史与哲学思想中，欧洲[[Enlightenment|启蒙运动]]往往将时间置于空间之上，将不同地域的少数群体贬低为原始与亟待开化的低级发展阶段。（pp. 359–360）
@@ -384,8 +373,6 @@ updated: 2026-10-20
 > *Popkewitz and Lindblad (2000) recommend that we approach the issue of educational inclusion and exclusion as involving both a problematic of knowledge and an equity-participation problematic... To join these two problematics is a formidable analytic challenge; however, we propose that looking at the spatial practices within which and by which schools operate is one productive way to undertake such a project.*
 
 ---
-
-## 研究局限
 
 > [!warning] [[Research Scope|研究边界]]与局限
 > 1. **未纳入非自愿强迫迁移的专门讨论** 研究聚焦于伴随经济就业的自愿流动，未涵盖武装冲突、战争避难、难民营与跨国遣返等强迫迁移（Forced Migration）所涉及的复杂教育与心理重建问题。（pp. 364–365）

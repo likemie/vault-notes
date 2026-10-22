@@ -66,11 +66,7 @@ created: 2026-07-26
 updated: 2026-10-22
 ---
 
-# Alec Peterson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育家（1908–1988），牛津大学教育系主任、教授；[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）组织首任总干事（1968–1977）。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > - **1984–1987** 在巴林主持 TOK 教师培训，讨论伊斯兰语境中如何处理不同知识传统；随后以 *Schools Across Frontiers* 总结 IB 与 UWC 第二个十年的课程、治理、财政和资格承认问题。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 180–191)]]
 
 ---
-
-## 主要著作与思想
 
 > [!work-line] 主要著作与理念
 > - **1987 — *Schools Across Frontiers: The Story of the [[International Baccalaureate]] and the [[United World Colleges]]***
@@ -120,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
 > [!impact-path] 彼得森通过课程、资格、组织与著作四条路径产生影响
 > - **课程路径** 大西洋学院的课程实验 → 六学科、[[Theory of Knowledge|TOK]]、EE 与 [[Creativity, Action, Service|CASS]] 的组合 → [[IB Diploma Programme|IBDP]] 的共同课程结构。
 > - **资格路径** 试验学校和外部考试 → 大学承认谈判 → 跨国流动学生可用的大学入学凭证。
@@ -129,8 +121,6 @@ updated: 2026-10-22
 > - **叙事路径** 参与者回忆与制度批评 → 后续研究理解 IB 与 [[United World Colleges|UWC]] 创立逻辑的核心文本，也带来创立者视角偏差的核验任务。
 
 ---
-
-## 历史评价
 
 > [!phase] 他的角色从课程设计者变为制度建立者，再变为交接与反思者
 > - **设计阶段** 他把[[General Education|通识教育]]理念转化为学科广度、深度选项与核心组件的课程结构。
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!warning] 阅读彼得森时需要区分参与者证言、制度事实与规范判断
 > - **创立者中心风险** 他的著作大量基于亲历经验，容易突出领导者与关键谈判，而压缩教师、学生、地方学校和行政人员的分散贡献。
 > - **官方立场边界** 彼得森明确说明 *Schools Across Frontiers* 不是官方历史，他对 [[Creativity, Action, Service|CASS]] 强制性、分权、资格承认与政府责任的看法不必然得到 [[International Baccalaureate|IBO]] 或 [[United World Colleges|UWC]] 认可。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > - **术语时代差异** 彼得森讨论的 CASS 与后来 [[Chinese Academy of Sciences|CAS]] 的完成规则不完全相同，不能把 1980 年代的规范性争论直接当成当代制度说明。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 彼得森条目的主要知识节点
 > | 类别 | 条目 | 关联方式 |

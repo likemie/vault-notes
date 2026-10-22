@@ -61,11 +61,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Development Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **发展教育（Development Education）**，在比较与国际教育研究中常与“发展中国家教育研究”（Education in Developing Countries）或“国际发展教育”（International Development Education）互称，指聚焦亚洲、非洲、拉丁美洲等全球南方国家的教育体制建设、社会经济现代化、教育扩张、不平等治理以及双多边国际发展援助合作的专门学术研究与政策实务领域。二战后受去殖民化与冷战地缘博弈推动，该领域长期与偏向欧美历史哲学的传统理论比较教育学保持平行分流；后在[[Multilateral Development Bank|多边开发银行]]（以世界银行与[[Inter-American Development Bank|泛美开发银行]]为代表）的深度介入下，演进为依托专业技术官员与主权信贷的实务治理体系。发展教育的实务运作面临项目设计端敏捷吸收先进理念与执行端陷入繁琐审计泥潭、资金拨付考核与学生实质学业成效脱节的制度困境。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–457, 470–472)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 发展教育与理论比较教育学及国际教育的比较
 > | 比较维度 | 发展教育（Development Education） | 理论比较教育学（Comparative Education） | [[International Education\|国际教育]]（International Education） |
 > |:---|:---|:---|:---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **典型实践成果** | **初等普及教育贷款、职业培训基金、校舍基建与评价系统** | 经典国别研究专著、学科方法论体系、比较理论框架 | 国际课程标准、海外游学项目、[[Global Citizenship\|全球公民教育]]大纲 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **主权借贷契约与对等配套资金（Contractual Inertia & Counterpart Funding）** 多边银行要求借款国提供 30% 至 50% 的本土配套资金，并签署具有国际法效力的主权贷款契约，为发展中国家脆弱动荡的教育政策提供了抵御政界频繁更迭的“政策减震器”。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 458)]]
@@ -158,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕发展教育形成的核心命题归纳
 > | 命题类型 | 核心理论判定 | 适用情境与解释对象 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -169,8 +159,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 发展教育的范式与建制演进
 > - **1950s–1960s — 现代化范式与冷战外援发轫** 二战后伴随殖民体系瓦解，新独立国家建立现代学校体系的需求上升；在冷战格局与现代化理论驱动下，西方国家与联合国教科文组织开启对外教育技术援助，奠定以学校基础设施建设、识字率普及与工业技术工人培养为核心的发展教育早期范式。
 > - **1970s–1980s — 依附论批判与建制深度隔离** 依附理论学者揭示对外教育援助对全球边缘国家的结构性影响；在大学建制中，伦敦大学教育学院设立独立的发展中教育系，与传统比较教育学系长期分立；世界银行单方面终止与教科文组织的合作协定，以人力资本回报率测算主导发展教育的实务定义权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -179,8 +167,6 @@ updated: 2026-10-22
 > - **2015 至今 — 跨国测评下沉与国际组织利基竞逐** 经合组织（OECD）启动针对中低收入国家的[[PISA for Development|发展中国家版国际学生评估项目]]（PISA-D），将跨国标准化量化测评下沉至全球南方，通过硬事实软治理与多边开发银行的传统借贷治理展开制度竞逐。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 273)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 549–550)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术交锋
 >
@@ -219,8 +205,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 发展教育核心实证研究结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -242,8 +226,6 @@ updated: 2026-10-22
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 揭示经合组织通过 PISA-D 将标准化硬事实生产下沉至全球南方中低收入国家，重塑发展中国家教育治理范式。
 
 ---
-
-## 相关条目网络
 
 > [!entry-map] 发展教育知识网络与关联矩阵
 >

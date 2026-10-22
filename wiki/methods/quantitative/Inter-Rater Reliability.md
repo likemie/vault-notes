@@ -91,11 +91,7 @@ created: 2026-06-01
 updated: 2026-10-20
 ---
 
-# Inter-Rater Reliability
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一测量工具对相同研究对象进行独立评分或分类时，彼此评分之间达成一致的程度。它是信度作为**等值性（reliability as equivalence）** 的核心形式之一，如果多于一位研究者参与数据采集或编码，人类主观判断极易产生系统性误差与随机波动，必须通过信度检验确保所有研究者在数据记录与等级评定上具备高度的一致性与可互换性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
@@ -116,8 +112,6 @@ updated: 2026-10-20
 > *Inter-rater reliability in these studies is an important form of reliability to establish and refers to the degree to which different independent judges agree in their ratings.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** [[Positivism|实证主义]]与[[Postpositivism|后实证主义]]假定被观测的行为或属性存在客观可测的外在实在；人类观察员的主观感知易受个人偏好干扰，必须通过行为锚定描述符与[[Definition of Terms|操作性定义]]将主观评价外显化，数据才具备跨主体可[[Reliability|信度]]。
@@ -149,8 +143,6 @@ updated: 2026-10-20
 
 ---
 
-## 研究程序
-
 > [!proc] 评分者间[[Reliability|信度]]建立通用程序
 > 1. **明确测量维度与[[Operationalization|操作化]]定义** 编制详尽的观察手册或评分准则，提供清晰的行为锚定描述符、分级阈值与反向典型案例。
 > 2. **建立黄金标准专家评定库（Master Coding）** 由核心研制团队对基准视频或文本样本进行独立深读与团队协商，确立不可动摇的标准得分库。
@@ -160,8 +152,6 @@ updated: 2026-10-20
 > 6. **统计量估计与信度报告披露** 依据[[Variable|变量]][[Scale of Measurement|测量尺度]]选用适宜模型，完整披露点估计值、[[Confidence Interval|置信区间]]及[[Statistical Significance|统计显著性]]水平。
 
 在[[Quantitative Research|量化研究]][[Paradigm|范式]]下，评分者间信度的评估依托具体的统计计量模型与误差校正公式展开。
-
-### 量化观察与统计模型
 
 > [!formula-step] 公式步骤　简单一致性百分比（Percentage Agreement）
 > $$P_o = \frac{A}{A + D} \times 100\%$$

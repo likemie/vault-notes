@@ -60,11 +60,7 @@ created: 2026-07-25
 updated: 2026-10-22
 ---
 
-# Dialogue in Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育对话（Dialogue in Education）是[[Active Learning\|主动学习]]与探究性教学的核心中介。[[John Dewey\|杜威]]（John Dewey）将对话理解为在民主学习共同体中“共享经验的过程”；[[Paulo Freire\|弗莱雷]]（Paulo Freire）与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 则进一步将对话确立为一种解放性教学实践——通过平等对话，学习者从被动的知识接受者转变为“批判性共同探究者”（critical co-investigators），通过交流揭露并破除[[Banking Model of Education\|储蓄式教育]]的单向沉积，走向[[Conscientization\|批判意识觉醒]]与[[Critical Thinking\|批判性思维]]发展。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]] [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > *When dialogue takes place, learners are “no longer docile listeners” but “critical co-investigators”. (Freire, 2000, p. 81; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 9]])*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 对话教学与相近互动形态辨析
 > | 维度 | 教育对话（Dialogue） | 传统课堂问答（IRE 模式） | 自由闲聊（Casual Chatting） |
@@ -142,8 +136,6 @@ updated: 2026-10-22
 > **支架与规则决胜于放任漫谈** 实证数据表明，缺乏教师介入且无结构化支架的全班/结对漫谈效应极低（$g+ = 0.04–0.19$）；相反，当引入提问句干支架（学生提问 $g+ = 0.37$）、辩论规则约束（$g+ = 0.32$）或[[Socratic Dialogue\|苏格拉底对话]]质询流程（$g+ = 0.27$）时，同伴互动的认知增益显著提升，证明对话必须依托明确的[[Scaffolding\|认知脚手架]]才能避免流于表层。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

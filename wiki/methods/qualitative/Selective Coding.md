@@ -58,11 +58,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Selective Coding
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **选择性编码（Selective Coding，又称核心编码、选择式编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的终局分析阶梯：在初级[[Open Coding\|开放编码]]碎化切片与[[Axial Coding\|主轴编码]][[Paradigm\|范式]]关联的基础上，围绕统领全局的主要[[Story Line\|故事线]]，识别并确立统摄所有已建范畴的单一[[Central Phenomenon\|核心范畴]]（Core Category），系统厘清核心范畴与其他范畴在维度水平上的联结网络，并经由经验数据验证与空缺填补，最终构建出具有解释力与概念密度的实质性理论（Strauss & Corbin, 1990, pp. 116–117；Gibbs, 2007；Flick, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 561–562]]）。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 > *Creating the selective code requires: (a) a deep understanding of the main 'story line' (the descriptive overview of the main phenomenon being described and analysed, and its salient features); then moves to (b) creating the core category; then (c) relating categories at the level of the dimensions identified; then (d) validating those relations in terms of the data that gave [[Research in Schools Evaluation\|RISE]] to them; and then (e) filling in any gaps in categories to ensure the 'conceptual density' of the category. (Strauss & Corbin, 1990, pp. 116–117)*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 经验世界的多维现象能够被高度概括的理论命题所解释；选择性编码主张理论建构并非凭空推演，而是通过严密的抽象阶梯将深层经验规律收敛为具有高密度概念网络的理论模型。
@@ -164,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法论争议与应用张力
-
 > [!tension] [[Central Phenomenon\|核心范畴]]单一性 vs 经验多元复杂性的[[Paradigm\|范式]]张力
 > - **单一核心范畴取向（Strauss & Corbin）** 强调理论的凝练与收敛，坚持必须提炼出唯一的统摄性核心范畴，以便建构清晰有力的实质理论模型。
 > - **多元核心与[[Emergence\|涌现]]取向（Glaser）** 巴尼·格拉瑟（Barney Glaser）批评强行追求单一核心范畴容易导致分析者削足适履，人为压制数据中可能共存的多重核心议题，主张应顺应数据的自然涌现。
@@ -175,15 +167,11 @@ updated: 2026-10-22
 
 ---
 
-## 现代演进：CAQDAS 与生成式 AI 协同
-
 > [!pathways] 现代技术赋能选择性编码的两大路径
 > 1. **[[Qualitative Computer Software\|CAQDAS]] 网络视图与集成备忘录** 现代软件（如 NVivo、MAXQDA、ATLAS.ti）提供交互式概念网络画布。研究者可将主轴范畴节点导入视图，直观拖拽建立与[[Central Phenomenon\|核心范畴]]的定向联结，并通过撰写整合备忘录记录[[Story Line\|故事线]]的生成逻辑。
 > 2. **大语言模型[[Meaningful Human Control|人在回路]]（HITL）协同** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的跨文本综合与模式识别能力，能够协助研究者快速扫描庞大范畴群的潜在共性、拟定备选故事线雏形。但机器无法替代人类研究者的实地生活洞察，核心范畴的理论确立与经验回溯核验必须严格恪守人类研究者的主导地位与[[Reflexivity\|反身性]]审视。
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用判断
 > - **适合使用** 旨在从质性文本中生成解释性理论模型的[[Grounded Theory\|扎根理论]]研究；面对海量离散编码需要进行体系化收敛的中大型质性项目。

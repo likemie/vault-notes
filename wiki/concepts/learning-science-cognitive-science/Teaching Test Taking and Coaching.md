@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teaching Test Taking and Coaching
-
 > [!metax] [应试技巧训练 · Teaching test taking and coaching](https://www.visiblelearningmetax.com/influences/view/teaching_test_taking_and_coaching)
 > 学生学习策略 › 学习策略
 >

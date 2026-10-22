@@ -58,11 +58,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Industrial Commons
-
 ---
-
-## 概念总览与核心界定
 
 > [!def] 核心界定
 > **产业公地（Industrial Commons / Manufacturing Commons）**，又称“制造业公地”，是指在特定的地理区域与产业集群中，由数以千计的基础零部件供应商、精密切削与试制工坊、熟练工匠与现场排障工程师网络、通用研发测试基础设施，以及代际相传且无法完全编码的默会[[Process Knowledge|过程知识]]（Process Knowledge）共同构成的集体产业生态资产。产业公地强调前沿科学发现、高阶工程设计与底层实体制造之间存在不可分割的双向反馈回路；一旦实体制造大规模外流，该集体生态资产将发生不可逆的萎缩，最终导致原发国的原创设计能力退化与技术领导权外溢。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–56)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 > | **长远战略后果** | 研发失去现场问题来源，关键制造与工艺红利被外部承接 | 保持极高良率优化与设计迭代能力，牢固维系国家综合技术统治力 |
 
 ---
-
-## 核心要素与产业生态构件
 
 > [!feature] 产业公地的四大核心构件
 > - **密集的本地专业技术供应商网络（Dense Supplier Networks）** 数以千计的中小零部件加工商、特种化学品合成点与精密仪器维修工坊，能够提供小时级的极速打样与工装夹具即时调试。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 54)]]
@@ -125,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与典型案例
-
 > [!ref-table]- 产业公地实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -141,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 产业公地核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
@@ -152,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变历程
-
 > [!dev-timeline] 产业公地理论与政策概念演变脉络
 > - **1980s–1990s — 半导体制造技术联盟（[[Sematech]]）与早期公地探索** 针对日本半导体制造工艺赶超，全美 14 家芯片巨头与国防部组建 SEMATECH 前竞争联合体，开启共享工艺设备与制造基础设施的早期公地实践。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 > - **2009–2012 — 皮萨诺与施正式提出“制造业公地”理论** 哈佛商学院学者加里·皮萨诺（Gary Pisano）与施威利（Willy Shih）在《制造繁荣》（*Producing Prosperity*）中系统提出“制造业公地（Manufacturing Commons）”概念，警告研发外包给离岸工厂将永久性摧毁美国的创新能力。
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》将重振产业公地确立为国家战略支柱** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第四章系统重构产业公地，确立[[Process Knowledge|默会过程知识]]、工匠[[Apprenticeship|学徒制]]、[[Workforce Pell Grants 2025|劳动力佩尔助学金]]与民间建造文化为国家核心战略资产。
 
 ---
-
-## 争议与学术交锋
 
 > [!debates] 制造业与创新关系学术争鸣
 >

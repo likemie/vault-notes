@@ -61,11 +61,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Erica Fuchs
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国工程与公共政策学者，卡内基梅隆大学（Carnegie Mellon University, CMU）工程与公共政策系正教授；美国国家关键技术评估网络（National Network for Critical Technology Assessment, NNCTA）创始主任。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作与思想演进
 > - **2010 — *Rethinking the role of the state in technology development: [[DARPA]] and the case for [[Embedded Network Governance]]***（《重新审视国家在技术发展中的角色：DARPA 与嵌入型[[Network Governance|网络治理]]案例》） 基于对 DARPA 微系统技术办公室在硅锗（SiGe）、应变硅、3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连领域历经 16 年的纵向扎根[[Case Study|案例研究]]，系统梳理 DARPA 建局 50 年来跨越 6 个年代的使命演化，对比 1990 年代与 2000 年代[[Tony Tether|托尼·瑟瑟]]任期采办制度的激进重组，提出嵌入型[[Network Governance|网络治理]]概念，揭示项目经理（PMs）依托 5 项微观非正式制度重塑研发者社会网络以开辟战略[[Technological Trajectories|技术轨道]]，终结了学术界关于托尼·瑟瑟改革导致“DARPA已死”的争论。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1147)]]
 > - **2012 — *The impact of location on technology trajectories: Why silicon photonics failed to scale in the US*** 考察全球化生产转移对前沿硬件技术迭代轨迹的结构性制约，论证制造能力的地理分离如何削弱本土研发团队的设计–制造反馈闭环。
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 国家在科技创新中的角色既非新自由主义所主张的被动提供基础研究补贴与税收优惠的“自由市场守夜人”，亦非传统韦伯式发展型国家自上而下武断指定赢家的“科层挑选者”（Picking winners）；相反，国家能够通过具备顶尖技术判断力并深度嵌入专业共同体的公共代理人（如 [[DARPA]] 项目经理），主动调动机动性资金和立项特权重塑科学家与企业之间的社会关系网络，在不钦定单一技术赢家的前提下有力开辟国家关键[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135, 1144–1145)]]
 
 > [!theory-components] 福克斯技术治理理论的核心理论构件

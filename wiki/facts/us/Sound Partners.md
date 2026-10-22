@@ -53,11 +53,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Sound Partners
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Sound Partners（声音伙伴）** 是由华盛顿大学（University of Washington）帕特里夏·瓦达西（Patricia Vadasy）研究团队研发、全美公立学校广泛采纳的早期读写一对一辅导干预项目；其核心目标是通过为低成本的非专业师资（尤其是教学助教与校本辅导员）配备高度脚本化、基于拼读与音素意识的结构化教材，为幼儿园至小学一年级面临严重阅读困难的儿童提供高频、精准的一对一早期干预。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克早期个别化补救教学严重依赖昂贵专业阅读教师、导致普通公立学校因财政预算限制而无法普及一对一辅导的瓶颈。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 教学助教在接受 1–2 天系统化岗前操作培训并严格遵循高度脚本化拼读规程的前提下，开展每日 30 分钟的一对一辅导，其学业效益完全能够比肩高薪酬的专业认证阅读教师，从而在学校财政预算减半的前提下实现高危儿童一对一辅导的全员覆盖。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
@@ -87,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Sound Partners 发展历程
 > - **1997–2005 — 方案原型研发与早期[[Efficacy Trial\|效力检验]]** 华盛顿大学团队在华盛顿州开展小范围先导实验，确立脚本化拼读微课对初入小学弱势儿童音素意识的显著促进效应。
 > - **2006–2015 — 严格[[Randomised Controlled Trials\|随机对照试验]]与多中心复现** Vadasy 与 Sanders 等人在西雅图及其他多学区连续开展多项严格的大样本[[Randomised Controlled Trials\|随机对照试验]]（RCT），系统对比助教与认证教师辅导的产出差距，确立了助教辅导的稳健因果效能。
 > - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 随着《每一个学生成功法》（ESSA）出台，Sound Partners 被 [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 一致评定为最高等级的“强证据（Strong）”方案，并被斯莱文列为[[Response to Proven Instruction\|循证干预反应]]（RTPI）三层谱系中 Tier 3 密集个别辅导的标杆代表。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **研发与培训团队（华盛顿大学）** 编制标准化助教操作手册、拼读学具盒与录音示范教程，向学区提供认证培训。
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **受益对象（K–1 高危学生）** 接受每日个性化音素拼读补救，直至达到同龄常模并退出个别辅导。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著突破性的学业[[Effect Size\|效应量]]** 在 Vadasy and Sanders (2011) 等针对小学一年级高危弱势儿童的严格 [[Randomised Controlled Trials\|RCT]] 评估中，Sound Partners 取得了平均 $+0.43$ 的显著学业[[Effect Size\|效应量]]，在单词识别、语音[[Decodification\|解码]]与阅读流畅度上均超越[[Business as Usual\|常规对照组]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

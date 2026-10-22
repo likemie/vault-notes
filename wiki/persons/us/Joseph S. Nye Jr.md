@@ -45,11 +45,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Joseph S. Nye Jr.
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代国际关系理论家、政治学家与前政府官员，哈佛大学杰出服务教授（Harvard University Distinguished Service Professor），哈佛大学肯尼迪政府学院前院长。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970–1980年代 — 复合相互依存与跨国制度主义** 质疑传统现实主义将军事安全作为唯一最高优先级的假设，揭示跨国公司、国际组织与经济相互依赖对国家行为的深层塑造。
 >   - **代表著作** *Power and Interdependence: World Politics in Transition* (1977)。
@@ -93,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 约瑟夫·奈指出，国际政治中的权力不仅体现为强迫他人做其不愿做之事的“指挥性权力”（如军事打击与经济制裁），更体现为让对方主动认同并渴望你所追求目标的“同化性权力”——即[[Soft Power|软实力]]。软实力根植于一个国家的文化吸引力、政治价值观与外交政策合法性。在科技与[[Geopolitics|地缘政治]]竞争中，软实力构成行使权力的[[Necessary and Sufficient Conditions|必要条件]]而非充分条件；教育交流与语言推广作为建立社会纽带的重要支柱，旨在促使外国公众“想要你所期望之物”（want what you want），但其战略转化效能受到对象国本土安全审查与文化认同的结构性制约。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 228)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20, 72–75)]]
 
 > [!citation-card] 教育软实力的同化机制
@@ -105,9 +97,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了国际关系学界的非物质权力研究纲领，引发关于[[Cultural Diplomacy|文化外交]]、[[Knowledge Diplomacy|知识外交]]及量化规制（[[Soft Power by Hard Facts]]）的广泛学术探讨。
 > - **政策路径** 直接影响了美欧及新兴大国外交与公共外交战略编制，促使“国家品牌塑造”、“跨国教育交流”与“语言推广机构”成为大国外交政策的战略核心。
 > - **跨学科传播** 被比较教育学、全球治理与发展研究深度吸纳；如国际发展智库 AidData 在评估大国跨国影响力时，将教育援助项目、留学生全额奖学金、重点高校全英文课程与孔子学院网络全面纳入奈氏软实力的实证测量指标体系。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14, 20)]]
@@ -124,8 +114,6 @@ updated: 2026-10-22
 > - **理论应用者** 萨曼莎·卡斯特（Samantha Custer）等学者 — 在 [[AidData]] 全球公共外交实证研究中将软实力理论操作化为教育援助、奖学金供给与文化机构网络。[[Argument_Custer_2021_AidData|(Custer et al., 2021)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

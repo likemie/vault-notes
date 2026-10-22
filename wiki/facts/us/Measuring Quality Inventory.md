@@ -52,11 +52,7 @@ created: 2026-08-28
 updated: 2026-10-22
 ---
 
-# Measuring Quality Inventory
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **发布时间 / 研发团队** 2012 年由 Victor Borden 与 Brian Kernel 编撰，由美国机构研究协会（[[AIR Model of Epistemic Cognition\|AIR]]）、美国教育委员会（[[American Council on Education\|ACE]]）政策分析中心与全美学习成果[[Evaluation Research\|评估研究]]所（NILOA）联合发布。[[Argument_Bouckaert_2023_OECD\|(Borden & Kernel, 2012; Bouckaert, 2023, p. 29)]]
@@ -65,9 +61,7 @@ updated: 2026-10-22
 
 ---
 
-## 清单结构与核心发现
-
-> [!claim|lead] 核心发现
+> [!claim] 清单结构与核心发现
 > 质量测量工具清单对全球高等教育评价生态的实证盘点揭示了一个深刻的结构性失衡：传统学科知识与常模化读写[[Questionnaire\|问卷]]占据绝对统治地位，而针对高阶[[Creativity\|创造力]]的评价工具极度匮乏。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 29)]]
 
 > [!ref-table]- 清单收录的工具类别与高阶素养分布

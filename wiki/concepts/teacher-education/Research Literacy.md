@@ -88,11 +88,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Research Literacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **研究素养（Research Literacy）** 指专业人员（涵盖一线教师、学校管理者及公职政策制定者）以维护专业实践完整性与批判审议的方式，理解、评估、鉴别与整合多元方法论科研成果的能力与德性。研究素养不仅要求专业主体读懂学术文献与统计指标，更是一种在干预措施的“有效性”（what works）与具体情境的“适切性”（what is appropriate）之间进行自主权衡把关的专业实践德性（Eriksen, 2022；[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p. 4]]；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。在宏观[[Epistemic Governance\|知识治理]]视域下，研究素养更构成了抵御后真相算法操纵、辨识商业公关虚假包装，以及将[[Scientific Literacy\|科学素养]]捍卫为公民基本民主权利的制度基石（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。
@@ -133,8 +129,6 @@ updated: 2026-10-22
 > | **适用情境** | 教师审议教改方案、政策层审核大型拨款与公众参与理性审议 | 课程设计、教学法选择与评价改革全过程 | 具体的科研项目操作与数据统计计算任务 |
 
 ---
-
-## 核心要素
 
 > [!feature] 技艺模型下研究素养的三大德性与三种敏感度（Eriksen, 2022）
 > - **守护专业独立性（Integrity）** 坚守教育工作的育人初心与专业标准，依托对教学规律的深刻理解（体裁敏感度），避免教学沦为机械流水线。
@@ -241,8 +235,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -269,8 +261,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -285,8 +275,6 @@ updated: 2026-10-22
 > | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 英格兰、苏格兰与德国汉堡 9 位中小学与特教[[School Leadership\|学校领导]]者；49 份政策与中介文献 | 跨国比较[[Qualitative Research\|质性研究]]（[[Documentary Analysis\|文献分析]]＋[[Semi-structured Interview\|半结构化访谈]]） | 学校领导者研究素养现状、证据筛选策略与中介依赖感知 | 英格兰校长自陈多数领导者不了解研究方法与局限，重度依赖二手摘要与熟人网络跟风采购；苏格兰与德国依托法定[[Practitioner Enquiry\|实践者探究]]与同侪案例咨询有效支撑批判素养 | — | 揭示宏观市场化与中介过载环境对领导者研究素养发挥的阻滞，论证制度化探究对素养培育的支撑功能 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

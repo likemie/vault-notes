@@ -31,11 +31,8 @@ status: draft
 created: 2026-06-09
 updated: 2026-10-22
 ---
-# Chain-linked Model
 
 ---
-
-## 定义
 
 > [!info] 核心定义
 > 链式模型（chain-linked model）是 Kline and Rosenberg（1986）提出的创新过程概念模型，是对线性模型（基础科学 → 技术开发 → 经济增长）的最重要理论挑战。其核心洞见是：创新不是从研究开始的，而是从一个潜在市场用途的广泛想法开始，通过设计或原型转化为具体方案，经历一系列反馈循环最终回到用户需求。在此过程中，既有的经过验证的科学知识（K）可在任何阶段被调用，新的科学知识（R）可在需要时被创造。有时新科学可以催生激进应用（路径 D），有时科学反过来从创新中受益（路径 I 和 S）。[[Argument_Caraca_2009_TFSC\|(Caraça, Lundvall & Mendonça, 2009, pp. 863–864, 引自 Caraça et al., 2009)]]
@@ -68,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 三种创新模型的比较
 > | 维度 | [[Linear Model of Innovation\|线性模型]] | 链式模型 | [[Multi-channel Interactive Learning Model\|多通道互动学习模型]] |
 > |------|------------------|----------|------------------------------|
@@ -80,8 +75,6 @@ updated: 2026-10-22
 > | 组织维度 | 未涉及 | 未明确承认 | 微观与宏观双层环境 |
 
 ---
-
-## 争议与批评
 
 > [!warning] 三个理论局限
 > Caraça、Lundvall and Mendonça（2009）在肯定链式模型突破性贡献的同时，指出了三个需要进一步扩展的方向。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 864–865)]]

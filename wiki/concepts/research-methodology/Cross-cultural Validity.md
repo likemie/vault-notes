@@ -42,11 +42,8 @@ status: draft
 created: 2026-06-23
 updated: 2026-10-16
 ---
-# Cross-cultural Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 跨[[Cultural Validity\|文化效度]]（Cross-cultural validity）关注的是：在一种文化中开发、测试和验证的工具——能否在另一种文化或国家中有意义地使用？是否存在足够的文化相似性或"文化普遍性"（cultural universals）使同一工具能够有意义地应用于另一文化——同时又尊重每种文化的特殊性、独特性和敏感性？（Hilton & Skrutkowski, 2002; Sumathipala & Murray, 2006）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 179–186)]]
@@ -57,8 +54,6 @@ updated: 2026-10-16
 > - **边界** 跨文化效度不等同于翻译准确性——即使翻译完美，文化和情境差异仍可能使工具在不同文化中"测量不同的东西"。也不等同于[[Cultural Validity\|文化效度]]——后者更广泛地涵盖研究全过程对文化环境的适当性。
 
 ---
-
-## 核心要素
 
 > [!dimension] 跨文化研究的历史发展阶段（Matsumoto & Yoo, 2006）
 > - **第一阶段：粗略的跨文化比较**
@@ -72,8 +67,6 @@ updated: 2026-10-16
 
 ---
 
-## 跨文化效度的系统威胁
-
 > [!challenges] 跨[[Cultural Validity\|文化效度]]的主要威胁
 > - **未能将文化元素[[Operationalization\|操作化]]** 停留在抽象"文化"层面，未能转化为具体可研究的[[Variable\|变量]]
 > - **Emic/Etic 建构冲突** 采用谁的"文化"建构来操作化研究？研究者自身的还是参与者的？
@@ -84,8 +77,6 @@ updated: 2026-10-16
 > - **抽样局限** 许多跨文化[[Research Utilization\|研究使用]]大学生群体或单家公司——推广是有风险的
 
 ---
-
-## 保障技术：回译与七步法
 
 > [!proc] [[Back Translation\|回译]]（Back translation）的标准流程
 > 1. **原文 → 译文** 将原始语言版本（如英文[[Questionnaire\|问卷]]）翻译为目标语言（如中文）
@@ -110,8 +101,6 @@ updated: 2026-10-16
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 183–185)]]
 
 ---
-
-## 围绕概念形成的命题
 
 > [!claim] 跨文化数据是嵌套的，需要多水平建模
 > Matsumoto and Yoo (2006) 提示跨文化数据是**多层嵌套**的（nested）——个体嵌套于群体，群体嵌套于文化，文化嵌套于社会和生态。在单层次上分析跨文化数据（如仅比较两个国家的均值）忽略了这种嵌套结构——指向了**多水平建模（multilevel modelling）** 这一统计技术的必要性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 186)]]

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Physical Syndromes
-
 > [!metax] [身体综合征 · Physical syndromes](https://www.visiblelearningmetax.com/influences/view/physical_syndromes)
 > 学生 › 生理因素
 >

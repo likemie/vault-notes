@@ -53,11 +53,7 @@ created: 2026-06-11
 updated: 2026-10-22
 ---
 
-# San Francisco Bay Area
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 旧金山湾区（San Francisco Bay Area）是指位于美国加利福尼亚州北部、以旧金山湾为中心的大都市区域与全球顶尖的科技创新高地。该区域以硅谷（Silicon Valley）为高新技术产业核心，汇聚了斯坦福大学（Stanford University）与加利福尼亚大学伯克利分校（University of California, Berkeley）等顶尖学府及多个国家实验室。在制度层面，旧金山湾区凭借加州法律禁止劳动合同竞业禁止条款的制度红利、稠密的企业衍生网络（如[[Fairchild Semiconductor|仙童半导体]]衍生的半导体群落）、成熟的高校[[Technology Transfer|技术转移]]与孵化机制、多层次风险投资体系以及跨行政辖区的专业公共协调委员会，自下而上自发演化出高度灵活、容忍失败且协同紧密的区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]; [[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 世界三大典型湾区[[Innovation Ecosystem|创新生态]]模式对比
 > | 比较维度 | 旧金山湾区（科技湾区） | [[New York Bay Area\|纽约湾区]]（金融湾区） | [[Tokyo Bay Area\|东京湾区]]（产业湾区） |
 > |---|---|---|---|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]]; [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | 张寒旭等 | 张寒旭等 |
 
 ---
-
-## 核心要素
 
 > [!feature] 旧金山湾区[[Innovation Ecosystem|创新生态系统]]的四大核心要素
 > - **空间多极错位分工（Spatial Functional Specialization）** 旧金山市侧重金融资本、专业服务与生物制药；南湾圣何塞与硅谷专注于半导体、计算机硬件与软件技术；东湾奥克兰集聚现代重工业、高端制造与国际航运港口；北湾专注于特色农业与葡萄酒生态产业；半岛形成高品质居住与科研生活区。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 旧金山湾区[[Innovation Ecosystem|创新生态]]的历史演进历程
 > - **1950年代 — 产学研雏形与半导体萌芽** 斯坦福大学设立[[Stanford Research Park|斯坦福工业园]]；肖克利半导体实验室在山景城成立，“八叛逆”于 1957 年出走创立[[Fairchild Semiconductor|仙童半导体]]，拉开硅晶体管产业化序幕。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 182)]]
 > - **1960–1970年代 — 企业衍生潮与风险投资成型** 仙童技术骨干相继创立英特尔、超威半导体等衍生企业（Fairchildren），沙丘路（Sand Hill Road）风险投资机构密集设立，湾区空气质量管理区与旧金山湾区政府协会（ABAG）相继组建。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
@@ -170,8 +158,6 @@ updated: 2026-10-22
 > - **2000年代至今 — 移动互联、人工智能与科技金融重塑** 谷歌、Meta、特斯拉、OpenAI 等领军企业崛起，旧金山市区[[Emergence|涌现]]大批科技金融与软件初创企业，与南湾硅谷形成双核共振格局。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >
@@ -189,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 旧金山湾区[[Innovation Ecosystem|创新生态]]与产业发展实证考证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -200,8 +184,6 @@ updated: 2026-10-22
 > | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, pp. 180, 194)]] | 1957–1972 年旧金山湾区半导体企业史与产业演变 | [[Archival Research\|档案研究]]与口述历史 | 衍生企业数量、市场份额与降价幅度 | [[Fairchild Semiconductor\|仙童半导体]]在湾区直接或间接衍生出 30 余家高科技企业；1968 年占全美商用计算机 IC 市场 80% 份额；1963–1964 年晶体管降价 95%、集成电路降价 90% | 企业未公开备忘录与访谈记录 | 证实企业衍生网络与前瞻性降价是推动技术转变为[[General Purpose Technology\|通用目的技术]]的主动力 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 系统剖析了旧金山湾区的自组织创新体系、产学研协同、风险投资与跨辖区协调机制，并与[[New York Bay Area|纽约湾区]]和[[Tokyo Bay Area|东京湾区]]进行了横向对比。

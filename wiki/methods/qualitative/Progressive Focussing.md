@@ -38,10 +38,6 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-# Progressive Focussing
-
-## 定义
-
 > [!def] 核心定义
 > 逐步聚焦是 Parlett and Hamilton（1976）提出的[[Qualitative Research\|质性研究]]数据分析策略。研究者首先以广角镜头（wide angle lens）收集数据，随后通过筛选（sifting）、归类（sorting）、审视（reviewing）和反思（reflecting），逐步识别出情境中最显著的突出特征（salient features），并将这些特征作为后续聚焦的议程。整个过程如同漏斗过滤——从宽泛走向精炼。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 435)]]
 
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > - **1976 — 提出阶段** Parlett and Hamilton 在"作为启明的评估"（Evaluation as Illumination）[[Paradigm\|研究范式]]中提出逐步聚焦，用于应对改革项目的复杂性和质性数据的庞大量。
 > - **1980s — 被纳入[[Qualitative Research\|质性研究]]方法论** Miles and Huberman（1984）将逐步聚焦逻辑纳入其质性数据[[Analytic Framework\|分析框架]]，强调[[Data Reduction\|数据缩减]]和[[Data Display\|数据展示]]的重要性。
 > - **2000s — 与[[Longitudinal Study\|纵向研究]]结合** 在纵向质性研究中，逐步聚焦帮助研究者管理持续涌入的新数据，在跨截面分析（cross-sectional）和纵向[[Narrative Analysis\|叙事分析]]（longitudinal narrative）之间取得平衡。
-
-## 适用边界
 
 > [!boundary]- 概念边界
 > - 不等于 [[Theoretical Sampling]] — 逐步聚焦是数据分析和焦点收窄策略，不直接决定下一个受访者或案例的选取；理论抽样则是在数据分析后决定下一步去哪里收集数据。

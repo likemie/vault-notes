@@ -55,11 +55,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Lawrence H. Keeley
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国史前考古学家、人类学家，牛津大学博士，伊利诺伊大学芝加哥分校（University of Illinois at Chicago, UIC）人类学系资深教授。
@@ -83,17 +79,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1980 — *Experimental Determination of Stone Tool Uses: A Microwear Analysis*** 确立史前石器微痕分析的实验科学标准，奠定微观考古实证方法论。
 > - **1996 — *War Before Civilization: The Myth of the Peaceful Savage*** 综合考古发掘骨骼创伤数据与全球[[Ethnography|民族志]]记录，实证论证史前非国家社会战争伤亡率（按人口比例）远超 20 世纪现代工业国家，彻底终结了人类学界“部落社会天生和平、战争是文明与国家的产物”的浪漫神话。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Keeley, 1996; cited in Karp & Zamiska, 2025, p. 53)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类早期的前国家与前工业部落社会绝非[[Jean-Jacques Rousseau|卢梭]]式和平乐园，战争与有组织暴力在人类进化史上具有普遍性与高度破坏性。史前部落战争不仅频繁爆发，且在消灭战俘、屠杀妇孺及身体残损（如割喉、裂鼻、剧毒箭头）等残暴程度上往往超越了具有法律与道德规约的现代国家战争。将前现代社会或从属群体浪漫化为天然爱好和平的纯洁受害者，不仅是对人类学事实的背离，更构成了否定弱者复杂人性与施恶潜能的道德屈尊。
 
 > [!citation-card] 解构原始和平神话与揭示部落战争残暴性
@@ -110,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] 人类学和平神话的实证终结者
 > 劳伦斯·基利以严谨冷峻的考古数据剥下了人类学长期笼罩在原始社会之上的[[Jean-Jacques Rousseau|卢梭]]主义面纱，证明了有组织残暴并非现代文明的专利，而是深植于人类未受[[Social Regime|制度规约]]前的原始本能之中。([[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska, 2025, pp. 53–54]])
 >
@@ -119,16 +109,12 @@ updated: 2026-10-22
 
 ---
 
-## 关系网络
-
 > [!person-network] 学术与思想网络
 > - **学术盟友与继承者** [[Steven Pinker]]（平克在其暴力史著作中大量引用基利的数据实证文明对原始暴力的平抑）
 > - **思想对话与批判对象** [[Paulo Freire]]（弗莱雷主张被压迫者在历史上从未发起暴力，基利的人类学证据直接[[Falsification|证伪]]了此种原初纯洁论）
 > - **现代战略继承** [[Alexander Karp]]、[[Nicholas Zamiska]]、[[Remi Adekoya]]（在批判[[Moral Dualism|道德二元论]]与达沃斯[[Determinism|决定论]]时将其作为人性普遍脆弱性的基石证据）
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -139,8 +125,6 @@ updated: 2026-10-22
 > > - **基利与实证考古学者** 骨骼创伤、群体合葬坑与防御工事遗址等硬性考古发掘无可辩驳地证明，前国家部落因战争死亡的人口比例高达 10%–60%，远超 20 世纪包括两次世界大战在内的国家战争伤亡率（约 1%–2%）。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念与人物网络
 > - 核心关联：[[Moral Dualism]]、[[Total War]]、[[Long Peace]]、[[Hard Power]]

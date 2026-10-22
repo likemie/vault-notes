@@ -43,8 +43,6 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# MCC Discourse Analysis Examples
-
 ---
 
 > [!info] 概述

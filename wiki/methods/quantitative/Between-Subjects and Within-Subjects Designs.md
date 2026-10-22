@@ -37,11 +37,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Between-Subjects and Within-Subjects Designs
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 受试者间设计（Between-Subjects Design）和[[Repeated Measures Design\|受试者内设计]]（Within-Subjects Design）是[[Experimental Research\|实验研究]]中两种基本的受试者分配方式。在受试者间设计中，每位受试者只经历被操纵[[Variable\|变量]]的一个条件水平（Keppel & Wickens, 2003; Rosenthal & Rosnow, 1991）；在受试者内设计中，每位受试者经历被操纵变量的多个或全部条件水平。同时包含两类变量的设计称为混合设计（Mixed Design）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote|notitle]

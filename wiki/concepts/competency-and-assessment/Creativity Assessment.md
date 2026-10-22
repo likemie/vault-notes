@@ -112,11 +112,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Creativity Assessment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Creativity\|创造力]]测评（Creativity Assessment，亦称创造力测量）指对个体或群体在生成新颖且适切的想法、[[Problem Solving\|问题解决]]方案或实际产品时的心理潜能、认知加工过程、产出表现与行为特质进行[[Operationalization\|操作化]]测定与系统评价的过程。它涵盖[[Divergent Thinking\|发散思维]]心理测验、创造过程与[[Problem Finding\|问题发现]]任务、专家主观产品同感评定、日常创造性成就自陈[[Questionnaire\|问卷]]以及课程嵌入式真实性评分量规等多元技术[[Paradigm\|范式]]，旨在诊断创造潜能、衡量教育教学干预的[[Learning Gain\|学习增益]]并为跨学科创新人才培养提供循证依据。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–8)]] [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 4–5)]] [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 4–7)]] [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 23–28)]]
@@ -140,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Creativity\|创造力]]五大主要测评[[Paradigm\|范式]]与技术路径辨析
 > | 测评范式类别 | [[Divergent Thinking\|发散思维]]标准化测验 | 创造过程与[[Problem Finding\|问题发现]]任务 | 专家主观产品同感评定 | 创造性成就与自陈量表 | 课程嵌入式真实性评分量规 |
 > |---|---|---|---|---|---|
@@ -154,8 +148,6 @@ updated: 2026-10-22
 > （综合 [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]、[[Argument_Park_2026_TSC\|Park et al. (2026)]]、[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 与 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] 梳理）
 
 ---
-
-## 核心要素
 
 > [!feature] 4P 框架下的测评维度
 > - **创造者特质（Person）** 测量个体的经验[[Open-Mindedness|开放性]]人格、内在动机、[[Creativity\|创造性]][[Self-Efficacy\|自我效能]]（[[Creative Self-Efficacy\|CSE]]）以及情绪创造潜能（如 [[Emotional Creativity Inventory\|ECI]]），主要通过自陈量表实施。[[Argument_Park_2026_TSC\|(Park et al., 2026, Table 1)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
@@ -235,8 +227,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论断言 | 涉及核心机制与方法学工具 | 代表学者依据 |
 > |---|---|---|---|
@@ -248,8 +238,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Creativity\|创造力]]测评的技术演进与[[Paradigm\|范式]]转向
 > - **1950–1960 年代　[[Divergent Thinking\|发散思维]]标准化测验奠基** 吉尔福德（Guilford, 1950/1967）提出发散思维结构，托兰斯（Torrance, 1966/1974）研制[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT），确立了以流畅性、灵活性、独创性与精致性为核心的心理测量学标准化测验范式。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 > - **1980 年代　社会心理学与非言语测验兴起** 阿玛比尔（Amabile, 1982, 1983）提出[[Consensual Assessment Technique\|共识评估技术]]（CAT），确立真实创作的专家评判黄金标准；乌尔班与耶伦（Urban & Jellen, 1986）推出[[Test for Creative Thinking-Drawing Production\|创造性思维绘画测验]]（TCT-DP），开创非言语图形整体测评通道。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
@@ -258,8 +246,6 @@ updated: 2026-10-22
 > - **2025–2026 年　大规模[[Meta-analysis\|元分析]]确立测量[[Interaction Effect\|调节效应]]与敏感度谱系** [[Argument_Park_2026_TSC\|Park et al. (2026)]] 通过[[Three-Level Meta-Analysis\|三水平元分析]]量化了主客观测量类型组合的调节效应；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 通过[[Meta-meta-analysis\|二阶元分析]]确立了[[Predictive Validity\|预测效度]]不对称性；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 揭示了创造性思维（[[Alternate Uses Test\|AUT]]/ATTA）、图形创作（TCT-DP）与情绪自陈（ECI）等测量工具对教学干预的敏感度谱系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 测评方法学争议与[[Paradigm\|范式]]张力
 >
@@ -285,8 +271,6 @@ updated: 2026-10-22
 > - **高校微观考核中显性创造力标准的普遍匮乏** 欧美大规模高校普查显示，虽然政策与大纲高调倡导创造力，但绝大多数高校在微观课程考核中完全缺乏独立的显性创造力评价工具与评分量规，主要依赖教师模糊的隐性印象判断。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–29)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -327,8 +311,6 @@ updated: 2026-10-22
 > | [[Measuring Quality Inventory]] | 美国高教质量评价总库（[[AIR Model of Epistemic Cognition\|AIR]] / ACE / NILOA 联合收录 250+ 工具） | 收录测评工具、[[Questionnaire\|问卷]]与评估规程的构念覆盖度普查 | 250 余种高教评估工具中，针对批判性思维与通用学术技能的工具有数十种，而针对创造力测量的成熟工具极端匮乏 | 揭示了高等教育评价生态中创造力测量工具供给的严重结构性失衡 |
 
 ---
-
-## 教育应用与教学实践
 
 > [!implication]- 高等教育[[Creativity\|创造力]]评价体系建构四项关键原则
 > 1. **推进“潜能筛查 + 产品评价 + 真实量规”的多源复合测评** 摒弃单一依赖发散纸笔测验或自陈量表的片面做法，在大学入门阶段使用标准化简表（如 [[Abbreviated Torrance Test for Adults\|ATTA]] / [[Test for Creative Thinking-Drawing Production\|TCT-DP]]）进行基线诊断，在期末与毕业设计中运用专家共识技术（CAT）评定真实创新产品；

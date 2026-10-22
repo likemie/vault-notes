@@ -63,11 +63,7 @@ created: '2026-06-08'
 updated: 2026-10-22
 ---
 
-# Agendas of Attention
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **注意力议程（Agendas of Attention）** 指比较教育研究由于受到特定国际关系传统（现实主义、理性主义、[[Revolutionism\|革命主义]]）的影响，而在[[Knowledge Production\|知识生产]]中有选择地关注某些问题（在场）并排斥、遗忘另一些问题（缺席）的过滤与控制机制。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 416]])
@@ -97,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **在场（Presences）** 指在特定国关传统影响下，在比较教育研究中被高度强调、制度化显现并占据统治地位的主题（如现实主义下的民族国家、借用吸引与[[Reference Society\|参考社会]]；或理性主义下的[[Governing at a Distance\|远处治理]]与大数据评估）。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–425]])
 > - **缺席（Absences）** 指被学术[[Discourse|话语]]系统性[[Screening Off\|屏蔽]]、遗忘、排斥在研究视线之外的主题（如现实主义下被掩盖的殖民扩张暗面与权力不对称；或理性主义下被掩盖的[[OECD\|经合组织]]数据独裁与新自由主义资本统治）。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]])
 > - **[[Epistemology\|认识论]]混合（Intermixing of Epistemologies）** 三大传统的注意力议程不是割裂的，它们在比较教育的实际文本与历史演进中往往呈现出复杂的混合、妥协和交叉共存状态。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 431]])
@@ -158,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 注意力议程在三大传统下的在场与缺席
 > | 思想传统 | 核心概念 | 议程在场 (Presences) | 议程缺席 (Absences) | 典型研究/历史现象 |
 > |---|---|---|---|---|
@@ -169,16 +161,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 注意力议程概念的学理演变
 > - **2000 — 奠定全球阅读基础** [[Robert Cowen\|罗伯特·考恩]]提出“[[Readings of the Global\|阅读全球]]”理念，倡导将全球化教育视作多重文本，奠定了分析学术[[Discourse|话语]]选择性与多样性的前置理论基础。
 > - **2023 — 概念系统引入比较教育** [[Eleftherios Klerides\|克莱里德斯]]引入[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，系统阐述了“注意力议程”的在场与缺席机制，完成了对学科[[Knowledge Production\|知识生产]]底层[[Geopolitics|地缘政治]]预设的系统解构。
 > - **2023 至今 — 混合形态与新冷战反思** 学界开始运用该概念反思美乌对抗、美俄对抗下的新地缘危机，探索注意力议程在主权领土回归与核威胁背景下的重新分配。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 
@@ -192,8 +180,6 @@ updated: 2026-10-22
 > - **非西方帝国主义的[[Screening Off\|屏蔽]]** 该概念自身在强力反思西方[[Discourse|话语]]对非西方心智的殖民时，也选择性地将历史上和现实中“非西方帝国”的地缘扩张和殖民奴役列为了缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 典型研究与应用案例
 > - **冷战人造卫星（[[Sputnik Shock 1957\|Sputnik]]）冲击后的议程转换** 1957 年苏联成功发射首颗人造卫星触发了美国对自身科技教育落后的恐慌。这一现实主义的地缘生存与安全焦虑迅速主导了美国的注意力议程，促使联邦政府强力干预教育，并通过《[[National Defense Education Act of 1958|国防教育法]]》直接借用苏联的理工与外语重视。这一转变展示了地缘秩序危机如何瞬间改变学科的注意力在场。

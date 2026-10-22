@@ -43,11 +43,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Prototype Methods
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 原型方法（prototype methods）是一种以认知心理学的**原型理论（prototype theory）** 为基础、通过分析特定文化语言中的词汇来建构 **[[Cultural Models\|文化模型]]（cultural models）** 的混合研究方法。其核心假设是：人类对世界的理解很大程度上依赖于对物体、活动和经验的分类（categorization），而语言承载着这些类别——一个文化的语言包含了该文化成员共享的原型概念，可以通过系统分析这些语言材料来揭示文化层面的共享信念结构([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。
 
 Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国两种文化中"学习"（learning／學習）这个概念的文化原型**——不是测量个体差异，而是描绘文化成员共享的[[Concept Mapping|概念地图]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])。
@@ -59,11 +55,7 @@ Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国
 
 ---
 
-## 认识论立场
-
-### 主位视角（Emic Perspective）
-
-> [!abstract|notitle]
+> [!abstract] 主位视角（Emic Perspective）
 > 原型方法属于**主位视角（[[Emic and Etic\|emic perspective]]）** 研究——即从被研究文化**内部成员**的角度出发，让文化成员用自己的语言生成和定义概念，而非从外部研究者预设的理论框架出发（后者称为客位视角／etic perspective）。Li 明确将这一方法定位为对传统客位研究主导的补充([[Argument_Li_2012_Cambridge\|Li, 2012, pp.87-88]])。
 
 **主位 vs 客位的核心差异([[Argument_Li_2012_Cambridge|Li, 2012, pp.87-88]])**

@@ -65,11 +65,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Comparative Education Society in Europe
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 欧洲比较教育学会（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）于 1961 年在英国伦敦创设，是欧洲首个跨国综合性比较教育专业学术学会。学会明确确立了跨国个人会员制与超然非政治化的学术自主定位，是战后欧洲多边主义合作、中等教育民主化改革以及比较教育学科大学建制化的经典制度产物。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]；[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1961 — 伦敦大会创立与组织模式确立** 约瑟夫·劳威斯（[[Joseph Lauwerys]]，首任主席）与时任 [[UNESCO]] 教育研究所所长[[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）密切合作，联络西欧学者在伦敦大学教育研究院正式成立 CESE；大会明确否决了以民族国家为单元的联邦代表制，确立了跨国个人会员资格与学术自主原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]
 > - **1961–1972 — 劳威斯与罗宾逊任期及多边智囊网络深化** 劳威斯将国际理解、民主理想与科学人道主义植入学会信条，深度对接 UNESCO 战后重建使命；索尔·罗宾逊接任主席后，学会通过两年一度的双年会为欧洲综合中学改革（Comprehensive School Reform）提供系统的跨国比较论证，推动了学科在大学层面的教席独立。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > - **1990s–2000s — 冷战后中东欧重构与重返欧洲维度转向** 苏联解体与两德统一后，中东欧学者迅速实现学科重建并深度融入 CESE；从第 16 届哥本哈根双年会（1994）至第 22 届格拉纳达双年会（2006），学会见证了欧洲比较教育从早期的宏大形而上学哲学玄思，转向对[[EU|欧盟]]教育政策文本、[[European Qualifications Framework|欧洲资格框架]]（EQF）与跨国实证数据的严肃再分析。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 
 ---
-
-## 治理架构与学会网络
 
 > [!actor-grid] 学会治理机制
 > - **跨国个人会员制（Individual Membership）** CESE 自始至终拒绝按主权国家分配代表名额，坚持学者以个人学术身份申请入会，以此抵御冷战地缘对抗与各国政府的政治裹挟，捍卫学术探索的纯粹性与独立性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]
@@ -112,8 +104,6 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务与学术产出矩阵
 > - **两年一度的 CESE 跨国学术双年会（Biennial Conferences）** 学会的旗舰交流平台，汇聚全欧及跨大西洋核心学者，历届主题紧密呼应时代脉搏（如综合中学改革、[[Positivism|实证主义]]争论、全球化挑战与欧洲维度）。
 > - **旗舰学会论文集与专业出版物** 历届年会精选论文集（如 1994 哥本哈根、2006 格拉纳达文集）构成了欧洲比较教育[[Knowledge Production|知识生产]]与理论演进的重要文献档案。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
@@ -126,8 +116,6 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > *to promote international academic exchanges in the reform of European education, embedding the pacifist mission of international understanding into the structural template of European school systems.*
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学科专业身份确立与大学建制化** CESE 的成立标志着欧洲比较教育彻底告别 19 世纪个人业余考察状态，走向建制化与组织化；使学者拥有了跨越铁幕与国界的学术身份认同，奠定了战后欧洲比较教育[[Knowledge Production|知识生产]]共同体。

@@ -50,11 +50,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Carlota Perez
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 委内瑞拉/英国[[Evolutionary Economics|演化经济学]]家，曾任委内瑞拉工业部科技总监，后任萨塞克斯大学 SPRU 研究员、伦敦大学学院（UCL）创新与公共目的研究所名誉教授。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980s — [[Techno-economic Paradigm|技术-经济范式]]与制度滞后机制** 结合[[Joseph Schumpeter|熊彼特]]长波假说，指出重大技术变迁绝非仅发生在经济子系统内部，必然要求整个社会制度框架的重塑。
 >   - **代表著作** *Structural Change and Assimilation of New Technologies in the Economic and Social Systems* (1983)。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 重大技术革命的扩散是一场涉及技术经济子系统与社会制度子系统的动态博弈；激进技术创新的集群爆发必然导致与旧管理模式、法规与教育体系的深刻“结构失调”；技术[[Paradigm|范式]]能否成功转化为普遍繁荣，根本取决于国家能否主动开展广泛的组织创新与制度试错。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]
 
 > [!citation-card] 佩雷斯论技术范式与制度试错
@@ -103,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 成为新[[Joseph Schumpeter|熊彼特]][[Evolutionary Economics|演化经济学]]、长波创新理论及技术治理研究的核心基石学者之一。
 > - **政策路径** 其制度滞后与绿色技术[[Paradigm|范式]]转型理论被 [[OECD]]、[[EU|欧盟]]委员会及联合国贸发会议（UNCTAD）广泛采纳为产业与科技政策制定的理论参考。
 > - **教育研究启示** 揭示了职业技能培训与[[Engineering Education|工程教育]]若停留在旧产业范式中，将成为拖累国家经济转型的“制度惯性”来源，为理解教育体制改革与产业变革的同步性提供了长程历史视角。

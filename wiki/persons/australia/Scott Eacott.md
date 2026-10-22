@@ -67,11 +67,7 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-# Scott Eacott
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚新南威尔士大学（UNSW Sydney）教育学院教授，当代批判教育行政与领导力研究的领军学者。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2011–2015 — [[Pierre Bourdieu|布迪厄]]实践理论与社会[[Epistemology|认识论]]奠基期**
 >   - **阶段核心** 借用布迪厄反思社会学工具，从对具体校长培训政策的管理主义批评，上升至对教育行政领域[[Knowledge Production|知识生产]]社会条件（Social Epistemology）的元理论审辨。
@@ -116,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 斯科特·埃考特的核心思想由三重批判支柱构成：其一，在[[Epistemology|认识论]]上主张教育行政研究必须转向社会认识论，关注知识主张如何在特定的权力[[Champ|场域]]与制度安排中被制造、筛选与推销；其二，在教育治理上揭示当代引导学校改革的[[Effect Size|效应量]]崇拜与[[John Hattie|哈蒂]]体系本质上是工业时代“[[Neo-Taylorism\|新泰勒主义]]”与“[[Cult of the Guru\|大师崇拜]]”的复兴，是以确定性技术手段剥夺专业自主性的伪科学工程；其三，在学术实践上倡导以实质性“论证与反驳”取代各自立论的“[[Parallel Monologues\|平行独白]]”，通过关系取向超越对孤立实体与等级领导力的形而上学执念。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]
 
 > [!citation-card] 埃考特论可见学习的新泰勒主义同构性
@@ -133,9 +125,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 颠覆了传统教育行政学将领导力视作心理特质或功能管理工具的实体论[[Paradigm|范式]]，确立了关系取向组织理论与学术[[Knowledge Production|知识生产]]的社会[[Epistemology|认识论]]传统。
 > - **实务批判路径** 激发了一线教育工作者对科层持续数据生产与机械问责的警觉与反思，其论文发表后持续收到世界多国中小学校长分享[[Cult of the Guru|大师崇拜]]如何异化日常教学的个人叙事。
 > - **跨国与跨学科拓展路径** 其[[Neo-Taylorism|新泰勒主义]]批判框架被跨国学者深度接续与经验检验：俄罗斯学者（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）援引其批判转型体制中 79% 教师受困于数据造表增生的组织病理；北欧学者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）援引其结合舍恩[[Technical Rationality|技术理性]]说，深挖[[John Hattie|哈蒂]]反馈[[Meta-analysis|元分析]]数据底层，实证确证其[[Construct|构念]]混淆与新泰勒主义规训本质。
@@ -159,8 +149,6 @@ updated: 2026-10-22
 > - **制度批判对象** 澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）— 推动大师品牌国家标准化的官方科层机构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

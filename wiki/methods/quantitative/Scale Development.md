@@ -83,11 +83,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Scale Development
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **量表编制与心理计量验证（Scale Development & Psychometric Validation）** 是心理学、教育学及社会科学中，依据[[Classical Test Theory\|经典测量理论]]（Classical Test Theory, CTT）或[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT），将抽象、复杂且不可直接观测的[[Construct\|理论构念]]（如态度、信念、素养、动机、效能感等潜[[Variable\|变量]]）[[Operationalization\|操作化]]为一组标准化、可量化测度的指标题项，并通过多阶段独立样本实证检验确立其构念维度、[[Content Validity\|内容效度]]、[[Construct Validity\|结构效度]]、[[Reliability\|信度]]体系及跨群体[[Measurement Invariance\|测量等值性]]的系统方法论体系。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–6)]]
@@ -105,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 潜在特质（Latent Trait）虽不可直接观测，但可以通过一组具有[[Reflexivity\|反思性]]（Reflective）或形成性（Formative）的外显行为指标进行概率性、线性加权推断。
 > - **研究者角色** 研究者必须在[[Construct\|构念]]界定、题项编制、因子截断标准选择及模型误差协方差修正中保持高度的理论自觉与方法学反思，严禁陷入纯粹数据驱动的机械拟合。
@@ -120,8 +114,6 @@ updated: 2026-10-22
 > - **辅助技术** 期望极大化（EM）算法[[Imputation Methods\|缺失值插补]]、马氏距离多变量离群值筛查、Bootstrap 稳健[[Standard Error\|标准误]]估计、方差最大正交旋转（Varimax）与斜交旋转（Promax）。
 
 ---
-
-## 量表编制八步标准操作规程
 
 > [!proc] 量表编制与验证的标准全流程（DeVellis & Boateng 现代[[Paradigm\|范式]]）
 > 1. **[[Construct\|理论构念]]界定与维度划分** 深入检索文献，明确构念的理论内涵、子维度结构与适用边界条件。
@@ -237,8 +229,6 @@ updated: 2026-10-22
 
 ---
 
-## 软件实现与端到端代码规程
-
 > [!software-impl] R 语言端到端量表编制与心理计量分析全流程脚本
 > ```R
 > # 加载核心心理测量学与结构方程模型包
@@ -298,16 +288,12 @@ updated: 2026-10-22
 
 ---
 
-## 使用此方法的经典代表研究
-
 > [!evidence-grid] 使用量表编制方法论的经典实证代表作
 > - **《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》（RLS）** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] 严格遵循 DeVellis 现代[[Paradigm\|范式]]开发 20 题四维度量表，在样本 1（$N=310$）中通过 EFA 提取 4 因子（解释 $62.60\%$ 方差），在独立样本 2（$N=258$）中通过 [[Confirmatory Factor Analysis\|CFA]] 确立二阶因子结构，验证了各维度优良的 [[Average Variance Extracted\|AVE]]（$.50\sim.56$）、CR（$.75\sim.90$）及跨性别严格[[Measurement Invariance\|测量等值性]]，并运用 [[Multivariate Analysis of Variance\|MANOVA]] 证实了做研究与读期刊的双轨独立赋能机制。
 > - **《[[Confidence Teaching TOK Scale\|知识论教学信心量表]]》** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] 编制并验证包含 11 道题的教学信心量表，通过 EFA 确立单因子结构并解释 35.03% 方差，为评估跨学科[[Epistemology\|认识论]]教学效能感提供标准化工具。
 > - **《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）** [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] 编制并检验 13 题[[Questionnaire\|问卷]]，通过 CFA 在数学和历史领域检验[[Epistemological Beliefs\|认识论信念]]与[[Ontology\|本体论认知]]的维度结构及[[Domain Specificity\|领域特异性]]拟合度。
 
 ---
-
-## 方法学局限与学术争议
 
 > [!warning] 方法学局限与操作风险
 > 1. **样本割裂与过拟合风险** 严禁在同一数据集上既跑 EFA 又跑 [[Confirmatory Factor Analysis\|CFA]]；若未采集独立新样本进行跨样本确证，提炼出的因子结构极易受到特定样本随机噪声的污染（Sample Overfitting）。

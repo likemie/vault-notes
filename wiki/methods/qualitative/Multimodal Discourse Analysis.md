@@ -53,11 +53,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Multimodal Discourse Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Multimodal Discourse Analysis\|多模态话语分析]]（Multimodal [[Discourse Analysis]], MDA）是一种拓展传统语言学话语分析的[[Qualitative Research\|质性研究]]方法，**通过系统整合口头言语、书面文字、视觉图像、数字界面操作、手势以及空间布局等多模态符号资源，深入探究参与者在具体社会与技术情境中如何协同建构意义、协商权力并执行[[Epistemology\|认识论]]行动**。在当代数字化与人工智能教育研究中，它成为解析人机交互、多模态生成物评估与协同[[Knowledge Production\|知识生产]]的核心分析工具。[[Argument_Han_Gutierez_2026_IJSE\|(Feng, 2021; Yin & Zeng, 2025; Han & Gutierez, 2026, pp. 8–10)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 意义建构具有多模态性与具身情境性。语言不是唯一的意义载体，图像、界面点击、提示词迭代与手势共同构成了[[Epistemic Practices\|认识论实践]]的实在基础。
 > - **研究者角色** 研究者是多模态语料的细密观察者与转译者，需对非语言模态与语言模态之间的协同与张力保持高度敏感，并进行[[Reflexivity\|反思性]]审查。
@@ -90,10 +84,6 @@ updated: 2026-10-22
 > - **辅助技术** 多模态逐字转录软件、界面交互热力图、跨语言翻译核对
 
 ---
-
-## 研究程序
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -111,16 +101,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** [[Generative Artificial Intelligence\|生成式人工智能]]辅助学习、多模态数字化教学、科学探究课堂互动、[[Man-Computer Symbiosis|人机协同]][[Problem Solving\|问题解决]]与微观[[Epistemic Practices\|认识论实践]]研究。[[Argument_Han_Gutierez_2026_IJSE\|(Feng, 2021; Han & Gutierez, 2026, pp. 8–10)]]
 > - **谨慎使用** 仅有单一文本或单一音频而缺乏界面操作与视觉记录的研究；需在大规模样本中检验假设的[[Quantitative Research\|量化研究]]。
 > - **不适合使用** 脱离互动语境的标准化心理测量与纯粹宏观政策制度考证。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 多模态数据[[Transcription in Qualitative Research\|转录]]的过度简化偏误；多模态符号之间时间对齐（Synchronization）的技术误差；研究者对特定模态的过度诠释。
@@ -139,8 +125,6 @@ updated: 2026-10-22
 > | [[Triangulation]] | 验证技术 | 多模态分析依赖录像、生成物与访谈多数据源的三角互证以确立质性解释的可[[Reliability\|信度]] |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 依托四层多模态[[Discourse Analysis\|话语分析]]框架（宏观事件切分、中观评价编码、微观多模态互动解析、跨数据[[Triangulation\|三角互证]]），深度剖析初中生在利用 Canva 和 ChatGPT 协同建构[[Scientific Explanation\|科学解释]]时的口头言语、提示词迭代与图像修改实践，揭示[[Epistemological Vigilance\|认识论警觉]]的微观发生机制。

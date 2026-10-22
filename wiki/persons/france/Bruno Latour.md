@@ -62,11 +62,7 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Bruno Latour
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 布鲁诺·拉图尔（Bruno Latour, 1947–2022），法国著名哲学家、人类学家与科学社会学家，科学技术学（[[Science and Technology Studies\|STS]]）的领军人物，先后任教于巴黎矿业学院创新社会学中心（CSI）与巴黎政治学院（Sciences Po）。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1979–1987 — 实验室科学学与行动中的科学** 批判传统唯实论科学观，开创微观实验室[[Ethnography\|民族志]]。
 >   - **代表著作** *Laboratory Life* (1979); *Science in Action* (1987)。
@@ -110,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 社会并非先验存在的[[Independent Variable\|自变量]]或宏观实体，而是由人类与非人类行动者（法律、技术、仪器、文本）通过转译与关系物质性临时装配而成的网络效果；权力和知识的普遍性依靠“[[Center of Calculation\|计算中心]]”在远处汇聚“不变移动物”并辐射标准来实现，而非中心意志的自发扩散。（Latour, 1987, 2005; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
 
 > [!citation-card] 拉图尔论计算中心与从远处采取行动
@@ -127,9 +119,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 彻底重塑了科学技术学（[[Science and Technology Studies\|STS]]）、[[Posthumanism\|后人类主义]]哲学与地理学，其[[Assemblage|装配理论]]与广义对称性原则成为当代批判社会理论的核心[[Paradigm\|范式]]。
 > - **方法路径** 开创了追踪异质网络、跟随行动者（Follow the Actors）以及解构技术黑箱（Black-boxing）的[[Qualitative Research\|质性研究]]与[[Network Ethnography\|网络民族志]]传统。
 > - **教育政策与比较教育路径** 深刻启发了批判政策社会学：学者借用其“[[Center of Calculation\|计算中心]]”与“不变移动物”解构国际组织测评（[[PISA]]）与国家数据监测（[[Vergleichsarbeiten\|VERA]]）的[[Governing at a Distance\|远处治理]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Klerides_2023_CE\|Klerides, 2023]]）；借用其“互客体性”与耐用材料装配解构国家[[Educational Brokerage Agency\|证据中介机构]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）与数字课堂硬件规制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
@@ -152,8 +142,6 @@ updated: 2026-10-22
 > - **后世应用学者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）与埃玛·罗威（Emma Rowe）— 将拉图尔 ANT 与互客体性理论应用于比较教育与批判[[Policy Network\|政策网络]]分析。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -52,11 +52,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# Deschooling
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **去学校化思潮（Deschooling / Unschooling）** 是20世纪60至70年代在西方激进教育哲学与[[Critical Theory|批判理论]]中兴起的反制度化教育思潮。该思潮主张打破国家与制度化现代学校对教育的特权垄断，认为强制性学校体制异化了学习天性、制造了等级依附并沦为资本主义工厂式生产的规训工具；倡导以自由互助的学习网络（learning webs）、家庭教育（homeschooling）与扎根生活实践的自主社群替代由传统学科大纲和专职教师主导的官僚化班级授课体制。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230–232)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教学理念[[Paradigm|范式]]辨析
 > | 维度 | 去学校化思潮（Deschooling） | 传统教学论五支柱（Traditional Didactics） | 渐进新学校运动（New School Movement） |
 > |---|---|---|---|
@@ -88,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **反垄断与去机构化（Anti-Institutionalization）** 坚信现代学校是强制规训与文凭拜物教的生产车间，唯有将教育资源从官僚机构手中解放出来归还社会社群，才能恢复真实的学习自主权。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 > - **自然境脉化学习（Contextual & Natural Learning）** 强调知识最好的发生[[Champ|场域]]是“生活的深处（the thick of life）”，主张从实际生活问题、劳动与社区交往中自然习得技能，而非在封闭教室中被动接受抽象灌输。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
 > - **去专业化伙伴关系（Deprofessionalization of Teaching）** 弱化教师专职门槛与学科垄断地位，将教育者重塑为儿童自由发展的陪伴者、环境协调员或顾问，这一逻辑深刻渗透到当代反本质主义教学论中。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
@@ -134,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,8 +141,6 @@ updated: 2026-10-22
 > - **2010s–至今 — 数字时代变体与政策[[Discourse|话语]]共振** 在互联网微课、生成式AI与翻转课堂大潮中，去学校化思潮借由“学校终结论”与“教师调节者”话语回潮，成为反思当代循证量化治理及教师去专业化风险的重要理论透镜。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力（正面对立）
 > - **去学校化倡导者（Illich / Holt）** 学校是摧毁[[Creativity|创造力]]与强加阶层控制的牢笼，儿童唯有融入真实社会生活，在非[[Bureaucracy|科层制]]的自由网络中才能获得健全的心智发展。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]

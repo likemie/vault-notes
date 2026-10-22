@@ -72,11 +72,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Centre for the Use of Research and Evidence in Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > [[Evidence-Based Education\|循证教育]]研究与使用中心（Centre for the Use of Research and Evidence in Education, CUREE）是英国由菲莉帕·科丁利（Philippa Cordingley）于 1990 年代末领衔创设的独立专业[[Educational Brokerage Agency\|知识中介机构]]；在[[OECD\|经济合作与发展组织]]（OECD）2007 年对国际中介生态的梳理中，CUREE 被确立为国际上极少数从创立之初便“专门且排他性地聚焦于教师与微观教学实践”的先锋中介，开创了从抽象证据评级转向情境化教师专业学习与“研究路线图”（Research Route Maps）的转译[[Paradigm\|范式]]([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 34]])。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与中介演进历程
 > - **1990 年代末 — 创设与教师学习专注** 菲莉帕·科丁利组建 CUREE，在英国普遍聚焦宏观政策证据的时代，独树一帜地将工作重心锚定在“教师在职专业发展”（CPD）与课堂教学法上。
 > - **2003–2005 — 协作型 CPD [[Systematic Review\|系统综述]]奠基** 联合大学学者开展划时代的教师专业发展系统综述（Cordingley et al., 2003），实证证实“协作型同行专业学习（Collaborative CPD）”相较于传统的单向灌输培训，对改善学生学业与改变教师行为具有决定性优势。
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > - **2010 年代至今 — 研究路线图与国家教练框架深化** 研发“研究路线图”（Research Route Maps）交互工具，参与制定英国国家教学辅导与指导框架（National Coaching and Mentoring Framework），常态化通过 [curee.co.uk](http://www.curee.co.uk) 输出微观教学转译资源。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理与执行矩阵
 > - **首席学术领导层（Philippa Cordingley 团队）** 把握机构[[Knowledge Mobilisation\|知识动员]]理论前沿，统筹综述方法论与咨询项目设计。
@@ -115,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务与代表性成果
 > - **研究路线图（Research Route Maps）** 国际知名的交互式实践导引系统，将数百项关于[[Formative Assessment\|形成性评价]]、差异化教学与[[Peer Mentoring\|同伴指导]]的研究成果转化为可视化的微观教学路径图。
 > - **国家教学辅导与指导框架（National Coaching and Mentoring Framework）** 为全英教师培训建立标准化的同行辅导操作指引，推动循证反思成为教师日常专业习惯。
@@ -129,8 +119,6 @@ updated: 2026-10-22
 > *Contributions from The EPPI-Centre in the UK and New Zealand’s BES programme both mention it, although their focus skews heavily to policy... CUREE, for example, was one of the early centres that focused explicitly – and solely – on teachers and teaching.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **补足清算中心的“最后一公里”断层** 弥补了传统清算中心（如 [[What Works Clearinghouse\|WWC]]）仅提供宏观[[Effect Size\|效应量]]与达标评级、却无法指导教师微观课堂操作的致命脱节([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 34]])。
@@ -153,8 +141,6 @@ updated: 2026-10-22
 >
 
 ---
-
-## 争议与评论
 
 > [!debates] 学术争议与局限反思
 >

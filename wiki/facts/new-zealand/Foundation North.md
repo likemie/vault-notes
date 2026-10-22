@@ -54,11 +54,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# Foundation North
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心宗旨命题
 > 北方基金会（Foundation North，前身为 ASB 社区信托）定位为大洋洲资产体量最大的公共利益实体（Public Benefit Entity, [[Practice-Based Evidence|PBE]]）与永久性社区信托，宣称致力于通过代际资本保值增值支持区域社会与教育事业；在批判政策社会学视角下，它是新西兰传统大规模禀赋型慈善向现代战略[[Venture Philanthropy|风险慈善]]转型的核心样本，其强调资本长期留存的偏好与普遍主义公立福利供给形成显著制度反差。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 86–97)]]
@@ -71,16 +67,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!org-evolution] 组织沿革阶段
 > - **传统硬件基建资助期（1988–2005 年）** 依托庞大储蓄银行遗产，信托主要扮演被动出资者角色，重点资助奥克兰地区的公立学校教学楼、校舍修缮、社区体育场馆与医疗设施等硬件实体资产。
 > - **转向战略[[Venture Philanthropy|风险慈善]]（2006–2013 年）** 2006 年更名为 ASB 社区信托（ASB Community Trust），官方正式宣布调整资助战略，强调不仅资助“大楼外壳”，更要深度干预“大楼内部组织的制度运行效率”；2009 年启动耗资 2,000 万新西兰元的毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]），引入高要求量化考核与里程碑绩效管理。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 86–89)]]
 > - **品牌重塑与咨询子公司化（2014–2016 年）** 2014 年设立全资咨询子公司“新西兰社会影响力中心”（Centre for Social Impact NZ Ltd, CSI），将量化评估与风险慈善管理技术向其他基金会及政府输出；2015 年 4 月正式更名为北方基金会（Foundation North），总资产突破 12 亿新西兰元。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 86, 94)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 核心治理主体与角色网络
 > 北方基金会集团由母体信托与若干全资子公司构成，其治理成员兼具高度专业化与跨界[[Policy Network|政策网络]]特征。
@@ -95,8 +87,6 @@ updated: 2026-10-22
 > - **咨询输出与政策倡导** 依托社会影响力中心（CSI）承接政府与慈善业界的评估咨询项目，将[[Return on Investment|社会投资回报]]（Social Return on Investment, SROI）与经济投资回报（EROI）标准制度化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 88–95)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与旗舰产出
 > - **毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）** 设立 2,000 万纽币专项资金，分两期资助包括马奈卡拉尼信托（[[Manaiakalani Education Trust]]）、星径项目（Starpath Project）在内的重点公立教育试验项目。
@@ -124,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 制度化影响力指标
 > - **金融资产量级与区域支配力** 掌控逾 12 亿新西兰元的金融资产，其实际投资收益与资助投放规模在新西兰慈善界位居首位。
 > - **对政府公办政策的示范渗透** [[Foundation North Māori and Pasifika Education Initiative|MPEI]] 项目扶持的数字化教育模型（如马奈卡拉尼）直接吸引中央教育部关注并获政策采纳，成为向全国推广的范例。
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **76.7%** 该集团历年累计投资收益中未予发放、直接留存于账面用于资本再增殖的利润比例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 94)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

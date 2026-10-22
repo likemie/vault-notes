@@ -41,11 +41,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Nondirectional Language
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 非方向性语言（nondirectional language）是[[Qualitative Research\|质性研究]]中在表述[[Purpose Statement\|目的陈述]]和进行访谈时所使用的中立、不暗示结果方向的语言。它与 McCracken (1988) 提出的"非方向性法则"（law of nondirection）紧密相关——[[Qualitative Interview\|质性访谈]]者或目的陈述写作者必须让受访者自主描述自己的经验，应使用中立的词语，避免通过措辞暗示研究者期望的结果方向([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.126]])。
 
 > [!quote|notitle]
@@ -53,15 +49,11 @@ updated: 2026-10-22
 
 非方向性语言的核心原则是：研究者在表述研究意图和提出问题时，不预设"好"或"成功"的结果，而是让参与者的经验本身来定义意义。
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **方向性语言 vs 非方向性语言** 方向性语言暗示某种结果优于另一种（如"成功的自我表达""有益的干预效果"）；非方向性语言保持中立（如"自我表达经验""干预的效果"）。两者的区别不在于语法而在于预设——方向性语言已经为研究结果预先划定了"理想方向"。
 
 > [!example|notitle]
 > **非方向性语言 vs 中性语言（neutral language）** 两个术语在[[Qualitative Research\|质性研究]]方法论文献中常互换使用，但略有侧重。"非方向性"更强调避免引导受访者走向特定答案；"中性"更强调不加价值判断。在[[Purpose Statement\|目的陈述]]写作的语境中，两者指向同一实践原则。
-
-## 核心要素
 
 > [!abstract] 应避免的方向性词语
 

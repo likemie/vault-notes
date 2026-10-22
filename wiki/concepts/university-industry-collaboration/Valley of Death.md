@@ -86,11 +86,7 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Valley of Death
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **死亡之谷（Valley of Death）** 指技术创新与商业化过程中，从学术实验室的基础研究成果与原理验证阶段向规模化产业应用与市场扩散过渡时面临的关键断裂期。在此阶段，技术成果通常已突破概念验证（[[Technology Readiness Level|TRL]] 3），但尚未达到可吸引传统私人风险资本或产业伙伴进行大规模商业化投产的成熟度（TRL 7），致使大量极具潜力的前沿科技在学术界与产业界之间的制度缝隙中停滞甚至夭折。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8, 11)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
@@ -101,8 +97,6 @@ updated: 2026-10-22
 > - **宏观演化视阈** 表征私人风险资本（Venture Capital, VC）短生命周期与资本密集型实体创新长周期之间的结构性期限错配，揭示了公共财政在承担早期非对称风险与提供[[Patient Capital|耐心资本]]（Patient Capital）上的核心职能。
 
 ---
-
-## 核心特征
 
 > [!feature] 死亡之谷的三重结构性赤字
 >
@@ -120,10 +114,6 @@ updated: 2026-10-22
 > | **风险收益结构** | 财政单向去风险化（De-risking），资本收益由私营实体完全捕获。 | 风险与回报共担机制（黄金股、附条件贷款、公共采购回购），实现[[Public Value\|公共价值]]共享。 |
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] 死亡之谷跨越机制核心命题归纳
 > | 命题维度 | 核心指向 | 代表学者 / 机构 | 实证情境与实践载体 |
@@ -208,8 +198,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 技术商业化死亡之谷治理[[Paradigm|范式]]的演进
 >
 > - **第一阶段：线性转化与 [[Technology Transfer Office|TTO]] 垄断（1980 年代–1990 年代）** 伴随《[[Bayh-Dole Act of 1980|拜杜法案]]》（Bayh-Dole Act）实施，政策普遍假定基础研究完成后仅需依靠[[Technology Transfer|大学技术转移]]办公室（TTO）进行专利授权即可自然流入市场，忽视了 [[Technology Readiness Level|TRL]] 4 至 6 阶段的工程放大断层。
@@ -219,8 +207,6 @@ updated: 2026-10-22
 > - **第四阶段：国家战略统筹与全要素公共中试网络重构（2022 年至今）** 伴随《[[CHIPS and Science Act|芯片与科学法案]]》与关键技术主权竞争升级，美国设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与 [[National Advanced Packaging Manufacturing Program|NAPMP]]，大学依托 [[Albany NanoTech Complex|Albany NanoTech]] 300mm 产线与 MIT.nano 等共享[[Pilot Scale Platform|中试平台]]全面嵌入国家创新漏斗，通过云端 DEG 网关与测试样片从根本上根治微电子与硬科技死亡之谷。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 22–24)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–41)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–11)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 死亡之谷跨越机制的理论争议
 >
@@ -244,8 +230,6 @@ updated: 2026-10-22
 > 死亡之谷模型及其重资产中试解决方案主要适用于半导体芯片、生物医药、高端装备与先进材料等长研发周期、高资本密度的实体深科技领域；在软件算法、平台商业模式与[[Consumer Internet|消费互联网]]等轻资产、快速[[Agile Governance|敏捷试错]]的领域，该断裂机制并不显著。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 死亡之谷跨越机制关键实证结果
 >

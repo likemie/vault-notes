@@ -55,11 +55,7 @@ aliases:
   - 创新本体论特质
 ---
 
-# Nature of Innovation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **创新的本质（Nature of Innovation / 创新本质）** 是指科技变迁与社会经济系统中“创新”活动所固有的[[Ontology|本体论]]特征与演化规律。在[[Evolutionary Economics|演化经济学]]（Evolutionary Economics）与现代科技政策理论中，创新被界定为一种非线性的、充满根本不确定性的、具有[[Path Dependence|路径依赖]]与集体共创属性的复杂动态突变过程（Schumpeter, 1911; Nelson & Winter, 1982; Dosi, 1982）。它彻底打破了传统新古典经济学将创新视为“已知生产函数外生平移”或“静态研发要素线性转化”的机械假设。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）强调，唯有深刻把握创新的本质属性，公共部门才能摆脱将干预局限于修补[[Market Failure|市场失灵]]与微观合规评估的旧[[Paradigm|范式]]，转而构建具备[[Agile Governance|敏捷试错]]与反思学习能力的[[Public Dynamic Capabilities|公共部门动态能力]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–792)]]
@@ -76,8 +72,6 @@ aliases:
 
 ---
 
-## 核心本体论特征
-
 > [!feature] 创新的五大核心本质特征
 > - **根本不确定性（Fundamental / Knightian Uncertainty）** 创新不同于概率已知的一般商业风险（Risk），其技术演进结果、商业化场景与社会影响在事前完全无法被精确预判，试错与高失败率是必然的伴生现象。（pp. 792–793）
 > - **非线性与反馈演化（Non-linearity & Systemic [[Feedback]]）** 彻底推翻从基础科学到市场应用的线性模型；创新发生在研发、设计、制造、采购与用户使用多环节的持续逆向反馈与交互迭代中。
@@ -86,8 +80,6 @@ aliases:
 > - **价值非中性与方向性（[[Directionality of Innovation|directionality]] & Normative Openness）** 技术变革并非只有唯一的最优演进路径；创新不仅包含速率（How fast），更关乎价值选择与社会福祉方向（Where to）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]
 
 ---
-
-## 范式对比与治理意涵
 
 > [!contrast-table] 新古典静态观 vs. 演化创新本质观及其治理[[Paradigm|范式]]深度对比
 >

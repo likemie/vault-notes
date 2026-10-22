@@ -46,8 +46,6 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Third Mission
-
 > [!info] 定义
 > 第三使命（Third Mission）指大学在传统的教学（第一使命）和研究（第二使命）之外，日益被期待和制度化地承担的创新与经济发展角色。这一使命涵盖[[Knowledge Exchange\|知识交流]]、技术商业化、区域经济发展和[[University-Industry Collaboration\|产学合作]]等广泛活动(Ulrichsen, 2024; [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p.42]])。
 

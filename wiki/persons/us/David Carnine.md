@@ -56,11 +56,7 @@ created: "2026-10-16"
 updated: 2026-10-22
 ---
 
-# David Carnine
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国俄勒冈大学（University of Oregon）教育学荣休教授，[[Direct Instruction|直接教学]]法（Direct Instruction, DI）的代表性领军人物与[[Evidence-Based Education|循证教育]]倡导者。
@@ -82,17 +78,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2000 — *Why Education Experts Resist Effective Practices (And What It Would Take to Make Education More Like Medicine)*** 系统批判美国公立教育学院与教师工会对[[Behaviorism|行为主义]][[Effective Teaching|有效教学]]的抗拒，主张引入国家强制标准与医疗级干预清单，彻底打破教师自主[[Empiricism|经验主义]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
 > - **2004 — *[[Direct Instruction]] Reading* (Co-authored)** 直接教学法经典操作手册，详尽拆解音素意识、词汇[[Decodification|解码]]与流畅阅读的标准教学脚本与核查步骤。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 卡宁认为，教育实践长期落后于工业与医疗领域的根本原因，在于教育界过度迷信所谓的专业自主性，允许教师依靠未经严格科学检验的个人感觉、直觉和故事开展教学。他主张建立类似于美国食品药品监督管理局（FDA）的刚性证据准入机制，要求课堂教学必须严格对照经过实验证明的标准操作规程运行；教师的职责不是自由反思或主观创造，而是准确、忠实地执行被证实有效的结构化干预方案。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
 
 > [!citation-card] 将教学比附为外科手术的争议修辞
@@ -116,8 +108,6 @@ updated: 2026-10-22
 > - **学术批判者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]; [[Stephen Ball]] — 严厉批判其比附医学的虚妄性，揭示其贬低基层[[Teacher Professional Agency|教师专业自主权]]的去专业化后果。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

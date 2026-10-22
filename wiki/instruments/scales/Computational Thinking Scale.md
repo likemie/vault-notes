@@ -56,11 +56,7 @@ created: 2026-08-25
 updated: 2026-10-16
 ---
 
-# Computational Thinking Scale
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Computational Thinking]] Scale
 > - **工具类型** 29 题 5 点李克特自陈式心理[[Scale of Measurement\|测量量表]]（Self-Report Psychometric Scale）。
@@ -69,8 +65,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔或在线[[Questionnaire\|问卷]]自陈施测，作答耗时约 10–15 分钟。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Computational Thinking\|计算思维]]（Computational Thinking）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -85,16 +79,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 5 点[[Likert Scale\|李克特量表]]（1 = 完全不符合我，5 = 完全符合我）。
 > - **反向计分** [[Problem Solving\|问题解决]]维度中包含 6 道反向题项（如“当我遇到复杂的编程错误时，我会感到不知所措并放弃”），计分时需进行反向转换。
 > - **测量属性** 原始开发样本总量表[[Internal Consistency\|内部一致性]]系数达 Cronbach's $\alpha = .86$；探索性与[[Confirmatory Factor Analysis\|验证性因子分析]]证实五因子结构具备优秀的拟合优度与[[Construct Validity\|构念效度]]（Korkmaz et al., 2017）。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -104,8 +94,6 @@ updated: 2026-10-16
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | CTS 国际通用版 | 作为人工智能教育应用一阶元分析中[[Higher-Order Thinking Skills\|高阶思维技能]]的核心操作化测量工具之一 | 覆盖 29 项初级研究与 2,966 名学生样本 | 证实 AI 赋能教学显著提升计算思维与高阶认知产出（$ES = .63$，95% CI [.12, 1.14]） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

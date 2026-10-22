@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Goldfish Bowl Politics
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 金鱼缸政治（Goldfish Bowl Politics）是政治社会学与媒介政治学中的批判性概念，源于美国前总统理查德·尼克松（Richard Nixon）在 1952 年“[[Checkers Speech|跳棋演讲]]”（[[Checkers Speech]]）中关于公职人员注定“生活在金鱼缸中”的论断。该概念指现代媒介生态与审查机制对政治人物及公共管理者施加无孔不入、微观透明且极具道德评判性的私人生活与言行审视，彻底消除公共人物的私人空间，迫使其成为透明展品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–63)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -106,8 +100,6 @@ updated: 2026-10-22
 > - **2000年代至今 — 社交网络放大与管理精英空洞化** 数字化时代的全天候舆论显微镜使政治家与商业领袖全面转向公关合规与自我审查，实质性思想与真诚信念被视作巨大公关负债。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60–65)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

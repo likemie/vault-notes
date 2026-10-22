@@ -76,11 +76,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# Common Core State Standards
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2009 年由[[National Governors Association|全国州长协会]]（National Governors Association, NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）联合发起启动，2010 年 6 月正式联合发布标准终稿。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1, 8)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > - **制度位置** 绕开宪法第十修正案各州分权壁垒，吸纳 2001 年[[American Diploma Project|美国文凭项目]]（American Diploma Project, ADP）与 2008 年《迈向成功的基准》（*Benchmarking for Success*）报告，突破了 1990 年代自上而下国家标准改革失败后形成的各州分立[[Punctuated Equilibrium Theory|政策垄断]]，承接《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）失灵后的治理转型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 确立一套由各州自愿采纳、以实证研究为依据、对标国际先进水平的全国统一 K–12 学术内容标准，确保所有高中毕业生均具备升入大学或进入高技能劳动力市场所需的知识与思维技能。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1, 13)]]
@@ -108,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 共同核心标准演进脉络
 > - **2001 — 早期探索阶段** [[Achieve|阿奇夫]]（Achieve）联合教育信托（[[The Education Trust]]）与[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），启动多州学术标准对标与高等教育衔接试点。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **2007–2008 — 议程突破阶段** [[Hunt Institute|亨特研究所]]邀请[[National Research Council|美国国家科学研究委员会]]（National Research Council, NRC）举办专题研讨会，发布政策简报《教育领导力蓝图》；[[National Governors Association|NGA]]、[[Council of Chief State School Officers|CCSSO]] 与 Achieve 联合发布《迈向成功的基准》报告，正式确立研制跨州国际基准标准的共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
@@ -119,8 +111,6 @@ updated: 2026-10-22
 > - **2014–2016 — 高利害统考绑定与[[Opt-Out Movement|退考运动]]反弹** 伴随 CCSS 跨州统考（PARCC 与 Smarter Balanced）全面落地并与教师绩效考核绑定，纽约州等中产阶级学区爆发大规模罢考抗议（退考率超 20%），促使多个州退出测评联盟或重新修订标准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** [[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO），联合充当跨州自愿发起人与版权所有者。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
@@ -136,8 +126,6 @@ updated: 2026-10-22
 > - **跨州测评实施与草根退考抵抗** 伴随各州将 CCSS 内容嵌入 PARCC 和 Smarter Balanced 跨州统考并与高利害问责挂钩，纽约州等地中产家庭掀起大规模[[Opt-Out Movement|退考运动]]（Opt-Out Movement），草根反测验联盟成功选举退考家长进入学区教育董事会，倒逼学区与州政府改进测评设计并放宽问责制裁。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** [[National Governors Association|NGA]] 与 [[Council of Chief State School Officers|CCSSO]]（标准发起人与版权所有者）、[[Hunt Institute|亨特研究所]]（跨界组织动员中介）以及各州教育行政长官。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 20)]]
@@ -168,8 +156,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** [[Bill & Melinda Gates Foundation|盖茨基金会]]投入 8,900 万美元专项推进资金；联邦教育部设立 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）竞争性拨款作为外生激励。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17, 22)]]
 > - **过程指标** 标准草案征集超过 10,000 份公众与教师书面意见；29 人验证委员会经数轮审议后以 25 票赞成通过背书；全美各州委托开展逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–18, 23)]]
@@ -190,8 +176,6 @@ updated: 2026-10-22
 > - **>20%** 纽约州部分中产学区在 2015 年 CCSS 统考中达到的家长罢考率。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

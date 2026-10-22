@@ -49,11 +49,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Stanley Milgram
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会心理学家，曾任耶鲁大学心理学助理教授、哈佛大学社会关系系助理教授、纽约市立大学研究生中心心理学特聘教授。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作与标志性论文
 > - **1963 — *Behavioral Study of Obedience*** 在《变态与社会心理学期刊》发表耶鲁服从实验首批基准数据（65% 参与者施加 450 伏最大电击），震动全球心理学界与伦理学界。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 133)]]
 > - **1967 — *The Small World Problem*** 在《今日心理学》发表小世界现象研究，确立了社交网络中六度分离假说的实验基石。
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > - **1977 — *The Individual in a Social World: Essays and Experiments*** 汇集其在城市环境心理学、去个性化与社会网络动态领域的开创性论述。
 
 ---
-
-## 理论主张与核心贡献
 
 > [!claim] 核心学术主张
 > 在层级权威主导的情境中，个体的批判性道德判断极易在程序性催促下发生异化，个体将自身定位为执行他人意志的工具（代理态），从而以精致的礼貌掩盖对同类的伤害；唯有少数坚守自由意志与直面物理反馈者，方能在权威压迫下守住批判性抗命的底线。
@@ -112,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 学术争鸣与反思
-
 > [!debates] 围绕[[Milgram Obedience Experiment|米尔格拉姆实验]]的伦理与方法学争鸣
 >
 > > [!axis] [[Deception in Research|研究欺骗]]必要性 vs 受试者心理伦理保护
@@ -129,8 +119,6 @@ updated: 2026-10-22
 > > - **能动性与反抗哲学（[[Hannah Arendt]] / Karp & Zamiska）** 强调即便在最极端的权威威压下，依然存在坚决拒绝的抗命者；现代民主社会与创新组织必须通过制度设计培育抵御盲从的微观抗体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 135–136)]]
 
 ---
-
-## 关联网络与思想谱系
 
 > [!actor-grid] 学术传承与跨领域关联网络
 > - **导师与合作先驱** [[Solomon Asch|所罗门·阿施]]（[[Solomon Asch]]）——从阿施的视觉线段从众实验承继了同谋欺骗[[Paradigm|范式]]，并将其扩展至权威服从领域。

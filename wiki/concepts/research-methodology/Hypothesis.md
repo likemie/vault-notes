@@ -45,9 +45,6 @@ status: draft
 created: 2026-06-14
 updated: 2026-10-22
 ---
-# Hypothesis
-
-## 定义
 
 > [!def] 假设（Hypothesis）
 > Kerlinger（1970）将假设定义为两个或多个[[Variable\|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess），但不同于普通猜测，假设往往是大量研究、[[Reflexivity\|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch.7, pp.138–140]]）。
@@ -68,8 +65,6 @@ updated: 2026-10-22
 > *All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in. The conjecture is then exposed to criticism to find out whether or not that imagined world is anything like the real one.* (Medawar, 1972, p. 22)
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 假设 vs [[Research Question\|研究问题]]
 > | 维度 | 假设（Hypothesis） | [[Research Question\|研究问题]] |

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Teacher Well Being
-
 > [!metax] [教师幸福感 · Teacher well being](https://www.visiblelearningmetax.com/influences/view/teacher_well_being)
 > 教师 › 教师特质
 >

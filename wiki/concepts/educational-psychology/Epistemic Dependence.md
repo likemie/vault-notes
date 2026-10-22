@@ -64,11 +64,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Epistemic Dependence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **认识依赖（Epistemic Dependence）** 是指认知主体在开展与知识相关的核心活动（包括获取信息、接收解释、综合多源文献、评估学术质量、选择理论诠释、消解[[Scientific Uncertainty\|认知不确定性]]以及为知识主张提供辩护）时，对外部知识源、社会专家或技术系统所形成的信赖与依托关系。在人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）特别是[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与大语言模型（Large Language Model, LLM）介入教育的语境下，认识依赖本身并不构成教育上的失败，而应区分为两种根本形态：**生产性认识依赖（Productive Epistemic Reliance）** 能够在人机交互中激发深入对比、显化证据不确定性并拓展学习者的协作审议能力；**有害性认识依赖（Harmful Epistemic Dependence）** 则将不可替代的[[Evaluative Judgement\|评价性判断]]委托给算法黑箱，剥离中间认识动作，导致学习者丧失独立复现推理与批判质疑的能力。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–5)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 生产性认识依赖与有害性认识依赖的六维诊断辨析（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026, p. 4]]）
 > | 诊断维度 | 生产性认识依赖（Productive Epistemic Reliance） | 有害性认识依赖（Harmful Epistemic Dependence） |
 > |---|---|---|
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > | **认识多样性（Epistemic Plurality）** | 人机互动过程主动暴露学科争鸣、[[Heterogeneity\|异质性]]规范标准以及边缘群体的多重视角 | 系统将算法训练集中占统治地位的单一观点、强势语言与知识层级包装为中立、全面且普适的真理 |
 
 ---
-
-## 核心要素
 
 > [!feature] 认识依赖的核心特征与结构要素
 > - **协助形态分层** 区分仅处理格式与表层语料的工具性协助，与直接裁决内容有效性、论证说服力及伦理合规性的承载判断型协助。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 4)]]
@@ -181,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -192,8 +182,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1985 年 — 社会[[Epistemology\|认识论]]的现代奠基** [[John Hardwig\|约翰·哈德威格]]（John Hardwig）发表 *Epistemic Dependence*，指出伴随现代学科专门化与大规模科学实验的推进，人类知识必然高度依赖于同行专家与社会机构的证言与合作，奠定了社会认识依赖的哲学基石。
 > - **2001 年 — 专家信任与权威审订的认识论拓展** [[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman）系统探讨非专业受众如何评估竞争性专家主张的[[Reliability\|可靠性]]，将认识依赖推进至数字公域与分布式网络信任机制。
@@ -201,8 +189,6 @@ updated: 2026-10-22
 > - **2026 年 — 人工智能中介学习中的认识依赖系统界定** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 发表批判整合性综述，正式将认识依赖[[Construct\|构念]]引入人工智能教育学，建立区分生产性依赖与有害性依赖的六维诊断模型，并系统提出四条社会技术路径与以关系性[[Epistemic Agency\|认识主体性]]为核心的规范治理方案。
 
 ---
-
-## 典型案例
 
 > [!example] 典型教育应用与诊断案例
 > - **案例一：学术论文写作中的[[Evaluative Judgement\|评价性判断]]外包与可恢复性断裂（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026, pp. 5–6]]）**
@@ -213,8 +199,6 @@ updated: 2026-10-22
 >   某综合性大学在全校学习管理系统（Learning Management System, LMS）中统一部署商业大语言模型写作助手，将其设定为学生[[Homework\|作业]]提交前的默认润色与评分通道。系统设置了 AI 润色通过率，由于系统训练数据以主流白人中产阶级英语学术语料为主，系统自动将少数族裔与国际学生的文化隐喻、非母语修辞及地方性历史经验判定为低质量语言表述，并强制改写为标准套话。更为严苛的是，校方在学术规范条例中单向规定学生必须签署使用自负其责承诺书，对 AI 润色后的所有引用真实性负全部责任，而采购部门与厂商对算法黑箱免于任何审计与连带责任。这不仅压制了知识的多样性，更剥夺了边缘群体建立自我认知认同的发展机会，演变为体制化的[[Formative Epistemic Injustice|成长性认识不正义]]（[[Argument_Smith_2026_SPE|Smith, 2026]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

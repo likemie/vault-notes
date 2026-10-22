@@ -69,11 +69,7 @@ created: 2026-05-07
 updated: 2026-10-22
 ---
 
-# Michael Porter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 迈克尔·E·波特（Michael E. Porter），美国当代著名经济学与战略管理学者，哈佛商学院主教威廉·劳伦斯大学教授（Bishop William Lawrence University Professor）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 27)]]
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980–1985 — 企业竞争战略与产业组织[[Paradigm|范式]]** 将产业组织经济学的结构-行为-绩效（SCP）范式引入战略管理，探讨企业如何在给定的产业结构中获取超额利润。
 >   - **代表著作** *Competitive Strategy* (1980); *Competitive Advantage* (1985).
@@ -116,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 国家在全球经济中的真实竞争优势，绝非源自先天的初级生产要素禀赋（如廉价劳动力或自然资源），而是通过高度本土化的制度、教育、技术创新环境与激烈的国内竞争动态“创造并维系”起来的。国家[[National Competitive Advantage|钻石模型]]由四大互为支撑的支柱构成：高级生产要素（如高素质工科人才与数字基础设施）、严苛成熟的本土需求条件、高度协同的相关与支持性产业集群、以及充满活力的企业战略与国内同行竞争。在全球化加速演进的背景下，地理集中与本土创新母体不仅没有失效，反而变得更为关键。
 
 > [!citation-card] 全球化悖论：母国环境在全球竞争中的不可替代性
@@ -133,9 +125,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** [[National Competitive Advantage|钻石模型]]直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、[[Bengt-Åke Lundvall|伦德瓦尔]]）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
 > - **方法路径** 倡导基于微观企业[[Fieldwork|实地调查]]、跨国跨行业案例对比与产业链上下游关联测度的系统分析法，打破了宏观新古典增长模型脱离生产现场的抽象假设。
 > - **政策路径** 其集群理论被[[OECD|经济合作与发展组织]]（OECD）、[[EU|欧盟]]委员会及全球数十个主权国家采纳为产业政策指导纲领，引发了全球范围内建设高新产业园、科学城、创新走廊与国家冠军城市的浪潮。
@@ -146,8 +136,6 @@ updated: 2026-10-22
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Critical Geopolitics|批判地缘政治学]]视角解构波特《[[National Competitive Advantage|国家竞争优势]]》，揭示其如何将国家重塑为“枢纽与流动”竞争实体，为当代大学公司化与国家冠军城市政策提供合法性（pp. 26–27）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 弗里曼论波特：国家制度基础与产业集群不可替代
 > [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）高度评价迈克尔·波特对全球化神话的清醒批判：波特通过确证“全球化反而使母国更加重要”的悖论，为抵制激进新自由主义关于“无国界世界（Borderless World）”的虚妄幻想提供了坚实实证支持；波特强调的区域集聚与国家[[National Competitive Advantage|钻石模型]]，与[[National Innovation System|国家创新系统]]理论在本质上相得益彰。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
@@ -167,8 +155,6 @@ updated: 2026-10-22
 > - **政策承接机构** [[OECD|经济合作与发展组织]]（OECD）— 将波特的集群竞争框架转化为各成员国科技政策与区域创新政策的推荐标准。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -68,11 +68,7 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-# Lars Qvortrup
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦奥胡斯大学（Aarhus University）丹麦教育学院（DPU）教授、国家学校研究中心（National Centre for School Research）前主任。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980s–2005 — 传播学、超复杂社会与[[Niklas Luhmann|卢曼]]系统论奠基** 将[[Luhmann's Systems Theory|卢曼社会系统理论]]引入丹麦，研究复杂分化社会中的信息、知识与交往。
 >   - **代表著作** *Det hyperkomplekse samfund* (1998); *Det vidende samfund* (2001).
@@ -114,9 +108,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 克沃特鲁普立足于社会系统论与[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]，主张教学与学习体现为两个操作封闭系统之间的结构性联动，难以还原为线性的机械因果决定。他认为实证[[Meta-analysis|元分析]]与[[Effect Size|效应量]]的核心功能在于为教师提供智能探究假设，以超越机械的技术操作；教师的[[Professional Judgment|专业判断]]正是连接研究证据与情境行动的核心枢纽（The Missing Link）。同时，他倡导多元观察透镜立场，主张定量元分析与定性人文研究属于互为补充的观察视角，共同服务于理解教育复杂性。
 
 > [!citation-card] 论专业判断作为教学与学习的缺失环节
@@ -126,9 +118,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将[[Niklas Luhmann|卢曼]]系统论的“结构联结”（系统结构联结）概念深度引入[[Evidence-Based Education|循证教育]]辩护，克服了朴素[[Positivism|实证主义]]的机械[[Determinism|因果决定论]]；提出[[Dynamic Knowledge and Learning Model|动态知识与学习模型]]，为反思与扩展[[John Hattie|哈蒂]]学习结果（Learning Outcomes）[[Construct|构念]]提供了系统论框架。
 > - **方法路径** 倡导基于二阶控制论与系统观察论的“多透镜[[Epistemology|认识论]]”，主张不同研究方法代表不同的观察位置，为调和教育研究中的定性与定量方法论[[Paradigm Wars|范式之争]]提供了认识论方案。
 > - **政策与实践路径** 作为丹麦引入《[[Visible Learning|可见的学习]]》的关键学术推手，其撰写的导言与政策咨询报告直接影响了丹麦基础教育改革、教师专业发展项目与[[School Effectiveness|学校效能]]评估政策的推进。
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > - **丹麦论辩对手** [[Thomas Aastrup Rømer|托马斯·罗默]]（教育哲学五线批判对手）、斯滕·内珀·拉尔森（批判[[Epistemology|认识论]]论敌）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

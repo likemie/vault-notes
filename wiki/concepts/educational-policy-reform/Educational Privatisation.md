@@ -80,11 +80,7 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Educational Privatisation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、准市场竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化绝非中立的行政效率优化，而是新自由主义国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
@@ -106,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!taxonomy] 教育私有化的多维形态谱系
 > | 划分维度 | 核心机制 | 典型制度形式 | 理论功能与后果 |
 > |---|---|---|---|
@@ -117,8 +111,6 @@ updated: 2026-10-22
 > | **国际贸易与跨国化**<br>（Transnational Commodification） | 将教育服务纳入跨国自由贸易协定 | 《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）、全额留学生出口贸易、跨国教育集团扩张 | 瓦解[[State Educational Sovereignty\|国家教育主权]]，锁死发展中国家外围依附地位 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代教育私有化的四大支柱
 > - **公共财政撤资与成本转嫁机制** 国家大幅核减对公立教育的经常性拨款，通过推行使用者自费（User Fees）和生均拨款竞逐，迫使学校与家庭分担办学成本。
@@ -185,8 +177,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕教育私有化形成的命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -196,8 +186,6 @@ updated: 2026-10-22
 > | **国际化不可逆命题** | 国际留学生学费弥补财政缺口，将大学固化于商业营销与企业化逻辑中 | 高等教育全球化、盎格鲁-撒克逊高教出口国 | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 教育私有化的概念脉络与历史演进
 > - **1955 年 — 新自由主义教育券萌芽** 米尔顿·弗里德曼（Milton Friedman）发表《政府在教育中的作用》，提出以教育券（Vouchers）打破国家公立学校垄断，奠定教育私有化的理论先声。
@@ -210,8 +198,6 @@ updated: 2026-10-22
 > - **2022 年 — 高等教育跨国市场永久企业化理论整合** [[Fazal Rizvi|法扎尔·里兹维]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）系统阐述留学生学费吸纳与公立大学永久企业化的双向依赖机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -228,8 +214,6 @@ updated: 2026-10-22
 > > - **教育社会学者与教师工会（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]; [[Education International]]）** 指出外部资本进入伴随着严重的商业寻租、双层避税与信息公开豁免，不仅未减轻纳税人负担，反而导致国家核心政策主权被商业利益集团隐性俘获。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 表一：教育私有化跨国与区域实证全景
 >

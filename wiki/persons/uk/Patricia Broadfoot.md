@@ -55,11 +55,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Patricia Broadfoot
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、教育评价学者。布里斯托大学教育学荣休教授、前教育学院院长，曾任格罗斯特大学副校长（Vice-Chancellor, 2006–2010）；历任[[British Association for International and Comparative Education|英国国际与比较教育学会]]（BAICE）会长、《比较教育》（*Comparative Education*）主编；2006 年因在教育领域的卓越贡献获颁大英帝国司令勋章（CBE）。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970s–1980s — 评价社会学与跨国文化对照** 突破单纯心理测量学工具主义局限，将考试与评价视为深嵌于国家政治、社会阶层与文化传统中的社会控制工具。
 >   - **代表著作** *Assessment, Schools and Society* (1979); *Profiles and Records of Achievement* (1986)。
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育评价绝非[[Value Neutrality|价值中立]]的客观技术测量，而是深沉浸润于特定民族文化信念与制度契约之中的社会学实践；比较教育学若要摆脱北美计量经济实证模型的空洞化与短视化危机，就必须走出宏观统计数字的迷思，深入学校与课堂[[Champ|场域]]，确立以学习者主体经验、认知建构与心智发展为核心的“[[Learnology|微观学习学]]”（[[Learnology|Learnology]]），在情境与文化的深厚土壤中找回教育的人文价值。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 > [!citation-card] 布罗德富特论走向比较“学习学”

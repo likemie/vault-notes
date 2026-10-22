@@ -69,11 +69,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# Adequate Yearly Progress
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2001 年作为《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）核心条款经国会通过，2002 年 1 月由乔治·W·布什总统签署生效；由美国联邦教育部（ED）制定联邦规章并负责监督各州执行。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 > - **制度位置** 构成了 NCLB 整个[[Test-Based Accountability|基于测试的问责制]]（Test-Based Accountability）的法定执行引擎与核心测量标尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 充分学业进展（Adequate Yearly Progress, AYP）是联邦法律强制要求各州建立的量化年度[[Performance Indicators|绩效指标]]体系，规定各州必须通过年度标准化考试设定阶段性年度可衡量目标（Annual Measurable Objectives, AMOs），确保所有学生及各细分亚群至 2013–2014 学年全员达到 100% 熟练水平（Proficient），并对连续未达标学校施加阶梯式行政与财务制裁。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
@@ -110,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2001** 国会跨党派通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），AYP 正式确立为联邦法定义务。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
 > - **2002–2003** 各州教育厅提交本州 AYP 计算方案与年度可衡量目标（AMOs），在 3–8 年级全面铺开年度统考。
@@ -121,8 +113,6 @@ updated: 2026-10-22
 > - **2015** 国会两党联合通过《[[Every Student Succeeds Act|每个学生成功法]]》（[[Every Student Succeeds Act|ESSA]]），正式废除 AYP 统一联邦公式，将学校评价与干预自主权归还各州。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **联邦教育部（ED）** 制定 AYP 统筹指引，审批 50 州年度考核方案与豁免申请。
@@ -137,8 +127,6 @@ updated: 2026-10-22
 > - **[[Student Mobility|学生流动]]的病态化编码与未达标免责推诿** 在严苛的 AYP 达标考核高压下，学校管理者将学年中途转入或转出的流动学生（[[Student Mobility|学生流动性]]）在学校报告卡中标记为破坏教学秩序的“漂泊”（[[Transiency]]）。迈克尔·奥芬伯格（Michael Offenberg, 2004）针对费城公立学校的实证研究确证，学校管理层普遍将学生高流动率作为未能达成 AYP 的核心免责辩解借口（Mitigating Factor），进而诱发学校对频繁转校的贫困学生与流动学童产生制度性防御与冷漠排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **投入指标** Title I 补充教育服务（SES）专项预算、转学交通补贴经费支出。
@@ -169,8 +157,6 @@ updated: 2026-10-22
 > - **150–160** （年） 林恩（Linn, 2003）模型测算的全美数学达成 100% 达标实际所需统计时间。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 12)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

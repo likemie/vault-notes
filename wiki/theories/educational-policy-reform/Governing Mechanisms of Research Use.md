@@ -54,13 +54,9 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Governing Mechanisms of Research Use
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 学校中[[Research Utilization\|研究使用]]为何长期停滞于象征性或浅层[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]，以及什么条件能把它转化为深层的专业整合。
 > - **理论问题** 回应既有研究只识别研究使用的障碍与促成因素清单而缺少治理机制解释的缺口，回答什么机制维持这些持久障碍。
 > - **理论类型** 中层机制[[Analytic Framework\|分析框架]]，跨越社会生态系统层级的横切机制模型。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题与机制
-
 > [!proposition-chain] 核心命题一｜四类机制跨越个体、组织与系统层级持续运作，而非驻留于单一层级
 > - **前提一** 配置式分析发现若干主题反复出现在至少两个层级，并同时见于"框定与描述"与"屏障与促进因素"数据中，因而不被任何单一层级所包含（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, pp.8]], 15）。
 > - **前提二** 聚合式分析显示最持久的障碍与最有利的条件无法仅用层级专属因素解释（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, pp.17–18]]）。
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > 假设一所学校想让教师用阅读教学研究改进课堂。只提供[[Abstract\|研究摘要]]或下达必须按证据教学的指令（工具性强制）通常流于象征性套用；按治理机制框架，校方需要建立信任（让教师相信试错不会受罚）、组织可持续结构（固定教研时间讨论研究）、发展技能（培训检索与[[Evaluation Research\|评估研究]]）并维护关系（与研究者或学区建立伙伴关系），四者同时运转，研究才可能被整合进[[Professional Judgment\|专业判断]]而不是被简单照搬。
 
 ---
-
-## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** [[Research Utilization\|研究使用]]是嵌入复杂社会生态系统的多层社会过程，机制生成可观察模式。
@@ -151,8 +143,6 @@ updated: 2026-10-22
 > - **2026 — 机制框架提出** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]以整合这些框架的初始框架为先验透镜进行[[Framework Synthesis\|框架综合]]，配置式分析识别出信任、技能发展、可持续结构与关系四类跨层治理机制，并把初始框架修订为四机制框架。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

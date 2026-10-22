@@ -41,8 +41,6 @@ created: '2026-05-08'
 updated: 2026-10-22
 ---
 
-# Recommendation-Based Graduate Admission System
-
 ---
 
 > [!info] 背景

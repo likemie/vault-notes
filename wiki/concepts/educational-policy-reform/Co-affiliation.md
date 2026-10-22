@@ -71,11 +71,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Co-affiliation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **共同从属（Co-affiliation / 机构多重从属性）** 是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式[[Bureaucracy|科层制]]单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic homophily）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 共同从属与相近权力结构概念辨析
 > | 维度 | 共同从属（Co-affiliation） | 人事旋转门（Revolving Door） | 企业连锁董事（Interlocking Directorates） |
 > |---|---|---|---|
@@ -109,9 +103,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Multiplicity\|多重性]]与跨界任职（Multiplicity of Positions）** 核心政策行动者不局限于单一职业标签，而是以商界领袖、慈善信托人、[[Grandes Ecoles|大学校]]监、国家政策审查委员会主席等多重身份同步介入治理，将特定商业哲学无缝输入公共决策。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]
 > - **超流动性与权力的关系性生成（Hypermobility & Relational Power）** 异层治理网络呈现出一种持续重塑自我的“超流动性”；权力不再沿正式的韦伯式行政科层线条自上而下逐级下达，而是作为行动者跨界兼职与关系性共同从属的生成性效果而流动展现。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]
 > - **[[Epistemology\|认识论]]同质性（Epistemic Homophily）** 频繁重叠兼职的精英群体因共享麦肯锡咨询、跨国投行与私募股权职业背景，形成了高度一致的语言语系（如将教育科研称为“证据经纪”、将政策推进称为“买入”），视商业效率与量化审计为[[Doxa\|不言自明]]的公理。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–5]]
@@ -204,8 +196,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -224,8 +214,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 精英合谋私有化论 vs 跨界协同与社会影响力创新论
@@ -241,8 +229,6 @@ updated: 2026-10-22
 > 共同从属概念高度适用于市场化程度高、社会慈善捐赠体系发达、允许公私董事兼职的自由主义民主国家；在对官员跨界兼职实施绝对禁止、政商界限高度严苛的体制中，该概念的解释力受限。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 国际代表性教育治理共同从属案例与网络拓扑对照（2010–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -67,11 +67,7 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Epistemic Virtues and Vices
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 理智美德与理智恶习（Epistemic Virtues and Vices / Intellectual Virtues and Vices）是指认识主体在求知、探究与信念形成过程中，促进或阻碍其实现获取真理、增进知识与达成深层理解等[[Epistemic Aims|认识目标]]的稳定性格倾向与理智品格特质。典型的理智美德包括[[Open-Mindedness|思想开放]]、理智诚实、理智[[Humility|谦逊]]、理智勇气以及理智[[Creativity|创造力]]；典型的理智恶习则包括思想封闭、理智傲慢、理智怠惰、教条主义与诡辩倾向。在[[Virtue Epistemology|美德认识论]]责任论（Responsibilism）视角下，理智美德具有内在的双重结构：它不仅包含熟练操作特定认知程序的能力构件（智力技能），更必须包含对真理与理解等认知善品（Epistemic Goods）真诚热爱的动机成分。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, pp. 142, 156)]]; [[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 272–274)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 理智美德、理智恶习、智力技能与一般认知需求辨析
 > | 比较维度 | 理智美德（Intellectual Virtues） | 理智恶习（Epistemic Vices） | 智力技能（Intellectual Skills） | 一般认知需求（Need for Cognition） |
 > |---|---|---|---|---|
@@ -104,8 +98,6 @@ updated: 2026-10-22
 > | **可塑与习得途径** | 情感唤起（好奇/着迷）、榜样示范、[[Reflexivity\|反思性]]批判与长期品格[[Habituation\|习惯化]] | 算法过度外包、被动灌输与缺乏[[Epistemic Friction\|认识论摩擦]]的环境强化 | 提示词[[Scaffolding\|脚手架]]、[[Paradigm\|范式]]模仿与程序性刻意练习 | 早期智力刺激与认知兴趣养成 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素与结构构件
 > - **动机成分（Motivational Component）** 认识主体对真理、知识、认知连贯性与深层理解抱有真诚的内在热爱与追求欲望，是主动发起探究与持续克服困难的心智动力。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, p. 273)]]
@@ -165,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -184,8 +174,6 @@ updated: 2026-10-22
 > - **2026 年 — 人工智能时代品格[[Cognitive Deskilling|去技能化]]防范与重塑** [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 针对生成式 AI 引发的认知与[[Creative Deskilling|创造力去技能化]]危机，系统阐发理智美德的两成分模型，提出通过 Q-Tutor 双向交互与兴趣故事激发[[Intellectual Emotions|理智情感]]培育理智美德的新[[Paradigm|范式]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -208,8 +196,6 @@ updated: 2026-10-22
 > > - **德性论立场（Baehr, 2011）** 强调理智品格虽然在习得初期受情境影响，但成熟的理智美德具备跨越情境的内在自我调节与反思稳定性。
 
 ---
-
-## 应用案例
 
 > [!exegesis]- 蜘蛛创意织网叙事在培养小学生[[Creativity|创造力]]美德中的应用
 > 面对一位喜爱昆虫的小学生，Q-Tutor 启动故事模式讲述一只蜘蛛打破常规圆形网结构、独创出异形多维网成功摆脱天敌捕食的故事。学生由此产生强烈的着迷感与惊异感，不仅深刻理解了创造力打破思维定势的价值，更在随后的人机问答中主动尝试用非常规视角解决科学问题，实现了从外在故事激发向内在创造力美德的初步转化。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 281–282)]]

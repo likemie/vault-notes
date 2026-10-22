@@ -65,11 +65,7 @@ created: 2026-05-06
 updated: 2026-10-22
 ---
 
-# Jurgen Schriewer
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代最具国际影响力的比较教育学家之一、社会学系统理论家，柏林洪堡大学（Humboldt University of Berlin）哲学四院比较教育研究所创所所长、荣休讲座教授，曾任[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）主席（1996–2000）。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展阶段
 > - **1980年代–1990年代初 — 系统论方法论奠基与[[Externalization|外化]]概念提出** 将[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]理论应用于破除传统简单因果论，建立比较作为[[Epistemology|认识论]]反思工具的理论模型。
 >   - **代表著作** *The method of comparison and the need for externalization* (1990).
@@ -106,8 +100,6 @@ updated: 2026-10-22
 >   - **关键概念** 进化过程 vs. 语义建构、向传统的双向外化、文化脉络[[Rich and Thick Description|深描]]。
 
 ---
-
-## 核心理论与学术贡献
 
 > [!feature] 施里韦尔的三大理论支柱
 > - **向世界参照[[Externalization|外化]]（Externalisation to World References）** 施里韦尔彻底颠覆了“外部刺激—内部直接反应”的机械论模式。他指出，教育系统本质上是一个操作封闭、自我指涉的[[Autopoiesis|自创生]]系统；当系统内部面临难以调和的利益冲突或改革僵局时，决策者就会通过“外化”策略，将争议转化为向外部“国际标准”、“世界先进经验”或“全球大势”寻求超越性论证，以此在本土政治[[Champ|场域]]中确立改革合法性或压制反对意见。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 230)]]
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 施里韦尔核心理论命题归纳
 > | 命题类型 | 核心指向 | 代表理论透镜 | 关键文献 |
 > |---|---|---|---|
@@ -153,8 +143,6 @@ updated: 2026-10-22
 > | **命题二：学科理论自律** | 比较教育必须坚守母学科理论根基与历史文化阐释以维护认识论尊严 | 欧洲学科本体理论（Discipline-Based Theory） | [[Argument_Mitter_2009_Europe\|Mitter (2009)]]; Schriewer (1999) |
 
 ---
-
-## 论证索引
 
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 90, 93–94)]] — 详述施里韦尔在两德统一后执掌柏林洪堡大学比较教育研究所的学术史地位，系统阐释其结合[[Niklas Luhmann|卢曼]]系统论与[[World-Systems Theory|世界体系理论]]创立的[[Externalization|外化]][[Paradigm|范式]]，以及其作为欧洲文化主义与学科本体理论坚守者的标杆意义。

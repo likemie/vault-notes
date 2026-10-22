@@ -48,11 +48,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Begg and Mazumdar Rank Correlation
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > Begg and Mazumdar Rank Correlation（Begg 与 Mazumdar 秩相关检验，常简称为 Begg's Test）是由统计学家 Colin Begg 与 Madhuchhanda Mazumdar 于 1994 年提出的一种用于检验[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]（及[[Small Study Effects\|小研究效应]]）的经典非参数统计方法。该方法通过计算各独立研究的“标准化[[Effect Size\|效应量]]（Standardized Effect Sizes）”与其“抽样方差（Sampling Variances）”之间的 **Kendall's tau（$\tau$）等级相关系数**；若相关显著（$p < .05$），表明样本量较小（方差较大）的研究系统性地报告了更大的效应量，即存在发表偏倚导致的漏斗图不对称。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, pp. 960–961)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 基于非参数秩次原理，假定在无偏倚情况下[[Effect Size\|效应量]]的大小与其方差应彼此独立。
 > - **研究者角色** 评估证据库中是否存在由于非显著结果未发表而导致的小样本效应膨胀。
@@ -86,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 计算规程与数学原理
-
 > [!formula-step] 公式步骤　Begg 秩相关检验标准化与计算
 > 1. **计算标准化[[Effect Size\|效应量]]（Standardized Effect）**
 >    $$y_i^* = \frac{y_i - \bar{y}_{\text{fixed}}}{\sqrt{v_i - \frac{1}{\sum w_i}}}$$
@@ -101,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 经典应用案例
-
 > [!example] [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 高等教育[[Critical Thinking\|批判性思维]][[Meta-meta-analysis\|二阶元分析]][[Publication Bias\|发表偏倚]]互补诊断
 > 在探讨[[Problem-Based Learning\|问题本位学习]]对高等教育学生产出影响的二阶[[Meta-analysis\|元分析]]中，作者采用了四重互补偏倚检验：
 > - **Begg 秩相关结果** Kendall's $\tau = -0.01, Z = 0.12, p = .89$，未提示存在显著发表偏倚；
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **结论研判** Begg 秩相关与剪补法互补证实，即使在最保守校正下，干预对批判性思维的促进效应依然高度显著稳健。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, pp. 960–961)]]
 
 ---
-
-## 优缺点与与其他检验方法对比
 
 > [!contrast-table] Begg 秩相关与 Egger 回归对比
 > | 比较维度 | Begg 秩相关检验 (Begg & Mazumdar, 1994) | Egger 回归检验 ([[Multilevel Egger's Test\|Egger et al., 1997]]) |

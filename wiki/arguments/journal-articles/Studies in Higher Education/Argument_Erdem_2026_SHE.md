@@ -102,7 +102,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Erdem_2026_SHE
 
 ---
 
@@ -125,8 +124,6 @@ issuing_organization: ""
 > - **贡献** 首次在二阶统计层级定量综合 PBL 高等教育元分析，按结果类型分列效应，并系统分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
 
 ---
-
-## 理论框架
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -160,8 +157,6 @@ issuing_organization: ""
 > [!warrant]- 理论如何支撑论证
 > PBL 的建构主义机制（以问题为出发点、小组协作、自我导向学习）既解释了其对深层理解、临床推理与批判性思维的正向作用，也提示效应可能因实施情境、学科与结果类型而异。学习结果分类框架则为跨元分析合并[[Heterogeneity\|异质性]][[Effect Size\|效应量]]提供操作化基础，使按结果类型分列效应成为核心分析策略。（pp. 952–956）
 
-### 核心变量与操作化编码表
-
 > [!index-table] 学生[[Dependent Variable\|结果变量]]操作化定义、核心教学规程、典型测量工具与纳入案例
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
@@ -174,8 +169,6 @@ issuing_organization: ""
 > | **其他**<br>（Others） | 不足以独立成组的结果类型。 | **核心教学规程** 某结果类型效应量不足以独立成组（k < 3）（p. 959）；<br>**典型测量工具** 各元分析报告的零星结果；<br>**纳入案例** Sharma et al. (2023, 自信 d = 0.31) 等 4 个效应量，加权平均 d = 0.31。（pp. 959, 962） |
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计与[[Meta-meta-analysis\|二阶元分析]]流程
 > | 模块 | 材料与处理方式 |
@@ -279,8 +272,6 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Erdem_2026_SHE/figures/Erdem_2026_SHE_Fig1_Data_Flow_Diagram.jpg)
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -511,8 +502,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **PBL 在高等教育中对学生结果具有高总体效应** [[Meta-meta-analysis\|二阶元分析]]汇总 20 项一阶[[Meta-analysis\|元分析]]（469 项独立研究、47 个[[Effect Size\|效应量]]），调整后总体效应量为 $d = 0.60$（95% [[Confidence Interval\|置信区间]]为 $[0.49, 0.71]$），观测值为 $d = 0.68$，[[Publication Bias\|发表偏倚]]校正不改变结论方向。（pp. 960–961）
 > 2. **[[Clinical Skills\|临床技能]]与[[Student Satisfaction\|学生满意度]]效应最高，其余结果效应较高** 临床技能（$d = 1.06$）与学生满意度（$d = 1.10$）属很高，[[Theoretical Knowledge\|理论性知识]]（$d = 0.59$）、[[Critical Thinking\|批判性思维]]（$d = 0.56$）与态度（$d = 0.57$）属高。（pp. 961–962）
@@ -526,8 +515,6 @@ issuing_organization: ""
 > - **$k = 47$** 纳入分析的独立效应量（20 项元分析、469 项独立研究）。（pp. 957, 960）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 总体效应与调节[[Variable\|变量]]结论
 > 结论是，PBL 对学生结果具有显著且高的影响。平均[[Effect Size\|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、基础研究所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
@@ -545,8 +532,6 @@ issuing_organization: ""
 > *Evidence indicates that graduates of PBL curricula exhibit comparable or enhanced professional competencies relative to graduates from more conventional curricula... It can be concluded that PBL should be employed in higher education settings to facilitate enhanced theoretical knowledge acquisition, augmented clinical and critical thinking skills, and positive student attitudes and increased satisfaction.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与[[Research Scope\|研究边界]]（pp. 965–966）
 > - **仅比较 PBL 与传统教学模型** 未覆盖以网络工具、计算机、团队工作等富化的 PBL，也未与[[Project-Based Learning\|项目本位学习]]、案例本位学习等其他模式比较。

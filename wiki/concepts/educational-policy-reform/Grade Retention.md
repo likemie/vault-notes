@@ -39,8 +39,6 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# Grade Retention
-
 > [!info] 定义
 > Grade retention 指让学生重复一个已经就读过的年级，通常被学校系统用来处理学习困难或学业未达标问题。Dachet and Baye 在讨论法语比利时教育改革时将其界定为“让学生重复一年”的实践，并把它作为[[Evidence-Based Education\|证据本位教育]]在既有教育制度中难以落地的典型例子([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.165]])。
 
@@ -57,9 +55,7 @@ updated: 2026-10-22
 - 留级率可作为教育系统如何处理学生差异的指标。若某系统长期高留级，说明它更倾向于通过延长学生停留时间来处理学习困难，而不是通过课程、教学或支持系统改变来减少失败([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.165, 169]])。
 - 留级与公平问题相连，因为成绩低、[[Socioeconomic Status|社会经济地位]]不利和脆弱学生群体常常在同一系统中叠加出现；在法语比利时案例中，高留级率与强社会出身影响共同构成改革压力([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.165, 170]])。
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > Dachet and Baye 在综述法语比利时改革背景时指出，自 1970 年代以来已有大量证据反对留级有效性；多项穷尽性和批判性[[Literature Review\|文献综述]]没有识别出留级的正向平均效果([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 172, 174]])。
 
 > [!info] 核心数据

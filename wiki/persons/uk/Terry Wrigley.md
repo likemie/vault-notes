@@ -62,7 +62,6 @@ status: draft
 created: '2026-05-01'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Terry Wrigley 是英国诺桑比亚大学（Northumbria University）健康、社区与教育研究学院（School of Health, Community and Education Studies）教育研究者，曾任教于利兹大学和爱丁堡大学。他是**证据本位教学最系统的方法论批判者之一**，以运用[[Critical Realism\|批判实在论]]（critical realism）分析 [[Evidence-Based Education\|EBE]] 三层方法论缺陷（[[Randomised Controlled Trials\|RCT]] → [[Meta-analysis\|元分析]] → [[Meta-meta-analysis\|元-元分析]]）著称。
@@ -102,8 +101,6 @@ updated: 2026-10-22
 > - **Pawson 的[[Realist Evaluation\|实在论综合]]（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
 > - **文化-历史[[Third Generation Activity Theory\|活动理论]]（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism\|批判实在论]]结合，为教育研究提供更丰富的[[Ontology\|本体论]]框架
 > - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 [[Argument_Bainbridge_2022_ROE|Bainbridge et al.（2022, p.3）]]引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
-
-## 思想发展与影响
 
 > [!note-] 与既有 [[Evidence-Based Education\|EBE]] 批判者的互补
 > | 学者 | 批判层级 | 批判工具 |

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Middle School Interventions
-
 > [!metax] [初中干预 · Middle school interventions](https://www.visiblelearningmetax.com/influences/view/middle_school_interventions)
 > 学校 › 学校构成
 >

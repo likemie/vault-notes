@@ -56,11 +56,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Manaiakalani Education Trust
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 马奈卡拉尼教育信托（Manaiakalani Education Trust）是 2011 年在新西兰奥克兰设立的独立教育慈善信托，采用公私混合治理结构，旨在为弱势社区公立学校引入外部商业资本、高参与度慈善基金与数字化学习项目，是新西兰基础教育新自由主义现代化与[[Exogenous Privatisation|外生私有化]]的代表性案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **法定宗旨与使命表述** 明确致力于搜寻并联合外部利益相关者，为塔马基及全国弱势社区的毛利与太平洋岛民儿童和家庭提供数字化学习基础设施、智能硬件及教师技术增强型教学研修项目。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2008–2010 年** **公立学校集群探索期**
@@ -99,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（混合受托人理事会）** 治理最高机构由四名一线学校教育工作者受托人与四名非教育界资深人士受托人组成。理事会由时任奥克兰港口总监、资深企业董事帕特·斯内登（Pat Snedden）执掌，其同时在多家政府实体、住房开发信托与跨界[[Policy Network|政策网络]]中任职，体现了高度致密的政商学交叉治理网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 76)]]
 > - **资助同盟（[[Venture Philanthropy|风险慈善]]与跨国巨头）** 形成了由北部基金会（[[Foundation North]]）、[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation）两大战略型慈善财团，联合电信运营商（Spark）、硬件跨国企业（Samsung）构成的资助联盟，通过高参与度慈善投资（High-Engagement Philanthropy）直接介入项目战略设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
@@ -113,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵
 > - **塔马基数字学习集群（Tamaki Digital Learning Initiative）** 作为信托的立足之基，将奥克兰塔马基地区多所小学与中学整合为数字化学习试验区，推行全数字化的课程交互与[[Homework|作业]]管理。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 56)]]
 > - **全国外展项目（Manaiakalani Outreach）** 在[[NEXT Foundation|内克斯特基金会]]资助下设立的旗舰规模化项目，向奥克兰以外的罗托鲁瓦等地区输出数字化教育解决方案，建立跨区域的公立学校数字化互联联盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
@@ -126,8 +116,6 @@ updated: 2026-10-22
 > *The explicit purpose of which was to find external stakeholders to provide learning infrastructure and programmes to benefit children and families throughout the Tamaki community.*（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 27]]）
 
 ---
-
-## 批判反思与公共争议
 
 > [!debates] 核心批判与政策争议
 >

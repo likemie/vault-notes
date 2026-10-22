@@ -82,11 +82,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Research-Informed Teaching Practice
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 研究知情教学实践（Research-Informed Teaching Practice, RITP）指教育者以发表的学术研究成果（如同行评议论文、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]报告与循证工具包）为依据组织教学决策与课堂实践的专业取向。英国教育部（Department for Education, DfE）将其界定为“实践者专业智慧与最佳外部研究及评估证据的有机结合”（DfE, 2014）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 159–160)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 明确指出，“研究知情”（research-informed）根本不同于[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）：学术研究证据只是完整证据知情拼图（evidence-informed [[Jigsaw]]）中的一块关键碎片。RITP 必须与[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）、课堂形成性数据及教师[[Professional Judgment\|专业判断]]深度嵌合，才能克服学术证据脱离校本学情的悬浮风险。
@@ -108,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 研究知情教学实践 vs. [[Data-Based Decision Making\|基于数据的决策]] vs. [[Evidence-Informed Practice\|证据知情实践]]
 > | 比较维度 | 研究知情教学实践（RITP） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | [[Evidence-Informed Practice\|证据知情实践]]（EIP） |
 > |---|---|---|---|
@@ -120,8 +114,6 @@ updated: 2026-10-22
 > | **系统整合定位** | 证据拼图的关键板块，亟需与 DBDM 整合 | 证据拼图的关键板块，亟需与 RITP 整合 | 特刊倡导的终极多源整合与系统生态模型 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **研究证据的拼图定位（Piece of Evidence-Informed [[Jigsaw]]）** 确立学术研究是教学决策的重要输入但非唯一源泉，明确其必须与其他证据形态协同发力。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
@@ -200,8 +192,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -212,8 +202,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 研究知情教学实践的演化历程
 > - **1996 — 教学作为研究支撑专业** David Hargreaves 发表奠基性演讲，呼吁将教学重塑为由研究支撑的循证专业，引发国际学界对教育[[Research Utilization\|研究利用]]的广泛讨论。
 > - **2000s — [[Evidence-Based Education\|证据本位教育]]（EBE）与医学模式移植** 伴随欧美教育问责制和“什么有效”运动，强调以高等级实验因果证据直接指导课堂操作的“证据本位”或“研究本位”取向成为政策主流。
@@ -223,8 +211,6 @@ updated: 2026-10-22
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型横向审视** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 梳理教学端[[Research Utilization Models\|研究使用模型]]，强调教师并非被动接受学术结论，而是通过策略性、证实性或概念性对话将研究内化为专业思维方式。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -251,8 +237,6 @@ updated: 2026-10-22
 > - **流行教育创新的[[Persuasive Communication in Education\|说服性修辞]]陷阱** 缺乏严谨研究素养的学校和教师，容易被商业机构包装精美、修辞华丽但缺乏扎实证据的教育时尚所误导。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 131)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

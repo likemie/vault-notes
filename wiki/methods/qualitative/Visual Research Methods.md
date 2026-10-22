@@ -60,10 +60,6 @@ created: 2026-08-05
 updated: 2026-10-22
 ---
 
-# Visual Research Methods
-
-## 定义
-
 > [!def] 方法定义
 > 视觉研究方法（visual research methods）是利用照片、影片与录像、[[Artefact\|器物]]等[[Visual Data\|视觉媒体]]收集教育研究资料的方法家族，涉及图像的制作、图像本身与图像的受众三个环节。核心主张：视觉媒体不是中立的，必须处理图像的选择性、自身解读的[[Reflexivity\|反身性]]以及随之而来的[[Informed Consent\|知情同意]]与匿名化等伦理问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
@@ -78,8 +74,6 @@ updated: 2026-10-22
 >
 > *Visual media are not neutral; they give messages, deliberately or not, and we interpret them in many different ways. They are constructions of social events and perspectives, of power and power relations, of social relations and social difference.*
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 视觉图像是现实呈现而非客观复制，意义由生产、图像与受众共同建构，因此存在多重解读。
 > - **研究者角色** 图像制作者已决定纳入或排除什么、聚焦何处；图像解读者的背景、价值观与目的也塑造其解读，需保持[[Reflexivity\|反身性]]。
@@ -92,16 +86,12 @@ updated: 2026-10-22
 > - **分析方法** 编码、[[Content Analysis\|内容分析]]、[[Grounded Theory\|扎根理论]]式的图像—编码[[Constant Comparison\|不断比较]]、类型与文类识别、反复观看与第三方复核。
 > - **辅助技术** 固定或移动镜头、参与者自行拍摄、抽样与选择标准、[[Informed Consent\|知情同意]]与匿名化处理。
 
-## 研究程序
-
 > [!proc] 视觉研究的通用程序
 > 1. **明确[[Research Question\|研究问题]]与资料来源** 确定要研究什么问题、由谁制作或提供图像，涉及研究者、受访者、既有档案或再现。
 > 2. **选择图像** 可由研究者或参与者选取图像；若无现成图像则需指定选择标准，可基于目的抽样、分层[[Random Sampling\|随机抽样]]、代表性抽样等。
 > 3. **收集数据** 按媒体类型执行，照片拍摄或收集、录像记录、[[Artefact\|器物]]观察与检视；考虑自然／摆拍、固定／移动镜头等。
 > 4. **处理解读** 对图像与文本进行编码、[[Content Analysis\|内容分析]]、扎根式比较；反复观看录像并允许第三方核查；将[[Visual Data\|视觉数据]]纳入[[Triangulation\|三角互证]]。
 > 5. **伦理处理** 获得[[Informed Consent\|知情同意]]（含对拍摄与复制的许可）、匿名化或遮蔽识别特征、对[[Covert Research\|隐蔽研究]]与公开场所拍摄保持审慎。
-
-### 照片与静态图像
 
 > [!case] 照片在视觉研究中的使用方式
 > **拍摄主体** 照片可由研究者拍摄、由受访者应研究者之邀拍摄（研究者可提供相机），或由参与者携带对自己有意义的照片（如家庭照片）参加访谈。
@@ -112,8 +102,6 @@ updated: 2026-10-22
 >
 > **取样标准** 图像选择可来自参与者或研究者；可运用[[Stratified Sampling\|随机分层抽样]]、代表性抽样、[[Convenience Sampling\|便利抽样]]等，但图像稀缺时严格抽样不可行；选择标准应明确指定并加以辩护。
 
-### 影片与动态图像
-
 > [!case] 录像研究的使用要点
 > **捕捉能力** 录像捕捉音频无法记录的非言语数据，如面部表情、攻击性行为、儿童工作与游戏中的互动；适合记录演化中的情境与互动细节。
 >
@@ -123,8 +111,6 @@ updated: 2026-10-22
 >
 > **解读与[[Reflexivity\|反身性]]** 录像内容取决于镜头焦点、位置与剪辑，必须考虑图像的解读者（包括自己）如何受自身背景、价值观与目的影响。
 
-### 器物
-
 > [!case] 器物观察的要点
 > **观察方式** 器物可在原地（in situ）观察，其空间位置本身携带意义；可单独检视或组合检视，也可按类别分组分析。
 >
@@ -132,14 +118,10 @@ updated: 2026-10-22
 >
 > **激发作用** 器物可用于刺激讨论、瞥见过去或现在、重构与想象场景、唤起记忆；对儿童可运用玩偶、木偶等熟悉器物开展研究。
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 需要捕捉即时、短暂、高复杂度或难以用语言记录的情境与互动；需要了解物质环境与[[Organizational Culture\|组织文化]]的隐性信息；[[Participatory Research\|参与式研究]]中让参与者通过拍摄与讨论参与意义建构。
 > - **谨慎使用** 图像稀少难以抽样时；录像数据丰富但分析费时，需考虑时间成本；涉及儿童、公共场所与可识别个人时需格外注意伦理。
 > - **不适合使用** 希望获得可直接采信的单一客观事实时；无法妥善处理[[Informed Consent\|知情同意]]与匿名化问题时；只有少量、残缺或模糊图像却要支撑概括性结论时。
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **选择性偏误** 图像是制作者选择的结果，反映其议程与关注点而非完整真实；录像内容取决于镜头焦点、位置、角度与剪辑。
@@ -160,8 +142,6 @@ updated: 2026-10-22
 > | [[Informed Consent]] | 前置方法 | 视觉研究的伦理前提，其达成在图像情境中面临特殊困难。 |
 > | [[Audiovisual, Social Media, and Digital Materials]] | 相关方法 | [[Qualitative Research\|质性研究]]中对视听、社交媒体与数字材料的总体分类，与视觉研究方法部分重叠。 |
 > | [[Observation Method]] | 相关方法 | 视觉数据常作为观察数据的一种补充形式，与现场观察并列。 |
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]] — 教材系统阐述以照片、影片与[[Artefact\|器物]]收集数据的操作程序、选择标准与伦理要求，并介绍照片引谈与录像研究的典型案例。

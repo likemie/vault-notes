@@ -49,9 +49,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 毕业生特质（graduate attributes）在本科层次被广泛理解为"大学社群认同其学生在学期间应当发展的品质、技能和理解，这些特质将塑造他们对其专业和作为公民所能做出的贡献"（Bowden et al., 2000, p.3; 引自 Spronken-Smith et al., 2024, p.86）。它与[[Employability\|就业能力]]紧密相关，但涵盖更广——就业能力只是其中一个维度([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])。
 
 > [!info|notitle]

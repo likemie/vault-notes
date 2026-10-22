@@ -36,11 +36,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Practical Inquiry in Science Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学教育中的实践探究是指学生在教师与专业技术人员支持下，通过直接动手实验操作（Hands-on Practical Work）、长周期课题研究、野外生态考察以及与真实科研前沿连接，具身化体验科学[[Knowledge Production\|知识生成]]、检验与修正过程的教学模式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
@@ -51,8 +47,6 @@ updated: 2026-10-22
 > - **边界** 坚决区别于机械遵照讲义操作的“菜谱式验证”（Recipe Following），强调具有探究[[Open-Mindedness|开放性]]、[[Variable\|变量]]控制思考与[[Nature of Science\|科学本质]]反思的高质量实践。
 
 ---
-
-## 核心要素
 
 > [!feature] 实践探究的三大支撑支柱
 > - **课堂动手实验（Hands-on Laboratory Work）** 学生亲自操作仪器器材，在控制[[Variable\|变量]]中观察现象并采集原始数据。
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > **七年滑坡实证** [[UK Science Education Tracker\|英国科学教育追踪调查]]（SET 2016–2023）表明，英格兰初中高年级学生双周动手实验率从 44% 断崖式降至 26%；大纲超载、应试回忆导向与实验耗材经费短缺构成三重主要根源。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 动手实验频率监测数据（SET 2016–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

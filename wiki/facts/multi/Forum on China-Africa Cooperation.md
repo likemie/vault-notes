@@ -52,11 +52,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Forum on China-Africa Cooperation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 中非合作论坛（Forum on China–Africa Cooperation, FOCAC）是中国与非洲友好国家在平等互利基础上共同创设的集体对话与多边合作机制，旨在应对经济全球化挑战、促进共同发展与深化[[South-South Cooperation|南南合作]]，在[[International Education|国际教育]]与人力资源开发领域承担统领性政策制定与旗舰项目出资平台职能。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 坚持平等磋商、增进了解、扩大共识、加强友谊与促进合作，重点在减贫、卫生、农业、基础设施互联互通、教育与人力资源开发等领域提供系统性发展合作支撑。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–224)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2000–2009** **创设与机制探索期**
@@ -95,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策机构（峰会与部长级会议）** 最高议事与决策平台，每三年召开一届，在中国与非洲国家之间轮流举办，审议通过未来三年的行动计划与政治宣言。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 223, 226)]]
 > - **执行与统筹机构（中方后续行动委员会）** 由中国外交部、商务部牵头，教育部、科技部等数十个部委组成常设秘书处，负责协调规划并监督对非合作承诺实施。[[Argument_King_2020_ECNUROE|(King, 2020, p. 225)]]
@@ -109,8 +101,6 @@ updated: 2026-10-22
 > - **跨部门跨领域能力合作协同** 将教育与人力资源开发深度嵌入医疗卫生、农业技术、减贫战略、交通基建及产业投资之中，形成多维度的能力建设生态。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 223–224)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **中国政府专项奖学金与短期研修** 提供面向非洲各国的全额学位奖学金与为期2至3周的短期技术培训，构成了论坛历届行动计划的硬性支柱指标。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222, 224, 226)]]
@@ -125,8 +115,6 @@ updated: 2026-10-22
 > *China will provide 32,000 government scholarships to Africa, 40,000 training opportunities in China, train 200,000 local technical and vocational personnel, and establish an Institute of [[South-South Cooperation]] and Development...*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **高教与技能人员流动** 累计全额奖学金配额、短期专业研修人次与双向留[[Student Mobility|学生流动]]规模。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
@@ -145,8 +133,6 @@ updated: 2026-10-22
 > - **10** （所） 2018年北京峰会承诺在非洲建设的鲁班工坊数量。[[Argument_King_2020_ECNUROE|(King, 2020, p. 227)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

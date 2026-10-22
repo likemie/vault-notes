@@ -66,11 +66,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# Roy Bhaskar
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国哲学家，[[Critical Realism|批判实在论]]（Critical Realism）运动的创始人。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1978 — *A Realist Theory of Science*** 系统阐明先验实在论（Transcendental Realism），提出区分实在域、实际域与经验域的三层[[Ontology|本体论]]，论证深层因果机制独立于经验观察模式。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
 > - **1979 — *The Possibility of Naturalism: A Philosophical Critique of the Contemporary [[Geisteswissenschaften|Human Sciences]]*** 确立批判自然主义（Critical Naturalism），论证社会结构对个体能动性的[[Emergence|涌现]]权力与转换性社会行动模型（TMSA）。
@@ -102,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 世界是由多重层级构成的开放系统，真正的科学探索聚焦于解释引发事件发生的深层因果机制与结构性力量，揭示经验可感知现象背后的生成机制。社会结构具有[[Emergence|涌现]]特征和因果力量，先于个体存在并依赖人类实践活动予以再生产或转化。[[Critical Realism|批判实在论]]为超越休谟式[[Positivism|实证主义]]还原论与后现代相对主义确立坚实的[[Ontology|本体论]]支点，为社会与教育政策的批判性评估提供因果解释与价值批判依据。
 
 > [!citation-card] 三层本体论与生成机制
@@ -124,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 在科学哲学与社会理论界确立[[Critical Realism|批判实在论]]流派，启发社会学学者重建社会学因果分析与结构—能动性分析架构。
 > - **方法路径** 成为[[Ray Pawson|雷·波森]]（Ray Pawson）等人创立“[[Realist Evaluation|实在论评估]]”与“实在论综合”的哲学根基，为解构[[Randomised Controlled Trials|RCT]]与[[Meta-analysis|元分析]]提供[[Ontology|本体论]]支撑。
 > - **政策路径** 通过特里·里格利（[[Terry Wrigley]]）的批判研究进入教育政策辩论，成为批判新自由主义审计文化与“[[Governing by Numbers|以数字治理]]”政策的重要工具；在跨国高教政策领域，吴（[[Argument_Woo_2023_HEP|Woo, 2023]]）将其[[Explanatory Critique|解释性批判]]与[[Critical Discourse Analysis|批判话语分析]]结合，用于剖析国家地缘教育政策[[Discourse|话语]]的深层权力生成机制。
@@ -143,8 +133,6 @@ updated: 2026-10-22
 > - **后续应用** 埃迪·吴（Eddie Woo）— 将[[Explanatory Critique|解释性批判]]融入[[Critical Discourse Analysis|批判性政策话语分析]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

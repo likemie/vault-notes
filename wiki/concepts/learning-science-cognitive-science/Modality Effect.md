@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Modality Effect
-
 > [!metax] [通道效应 · Modality effect](https://www.visiblelearningmetax.com/influences/view/modality_effect)
 > 学生学习策略 › 学习策略
 >

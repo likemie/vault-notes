@@ -68,11 +68,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Elite Interview
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 精英访谈（Elite Interview）是[[Qualitative Research\|质性研究]]与[[Policy Science in Comparative Education\|政策科学]]中的专门化访谈方法（Aberbach & Rockman, 2002; Berry, 2002），指研究者针对在政治、行政、专业或学术组织中占据关键决策位置、拥有排他性内部准入资格的高层行动者（如政府高级官员、政策顾问、智库负责人、学术领袖）所进行的深度[[Qualitative Interview\|质性访谈]]。该方法旨在探究政策文本背后的权力博弈、幕后协商、议程设置与隐性决策逻辑。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > *Elite interviewing allows researchers to probe the [[Accounts]] of key actors with inside access to the policy process, unpacking the implicit rationales that cannot be observed from published texts alone.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 采取[[Constructivist Paradigm\|建构主义]]与[[Critical Realism\|批判实在论]]立场，将精英口述视作浸润了行动者主观立场、利益诉求与制度规范的解释性叙事，而非未经反思的纯粹客观史实。
@@ -109,16 +103,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **界定[[Research Question\|研究问题]]与精英范围** 明确政策变迁中的核心机制疑点，框定具有实质决策介入权的行动者群体。
 > 2. **样本招募与准入突破** 运用学术网络引荐与[[Snowball Sampling\|滚雪球抽样]]获取排他性高层准入，建立保密与伦理互信。
 > 3. **深度研读与提纲定制** 预先详查受访者的公开讲话、政策参与记录与学术背景，定制兼具[[Open-Mindedness|开放性]]与穿透力的[[Interview Protocol\|访谈提纲]]。
 > 4. **现场访谈与动态探询** 采用半结构化开放式提问，鼓励受访者展开阐述其[[Professional Judgment\|专业判断]]与非正式政治互动。
 > 5. **[[Coding in Qualitative Research\|质性编码]]与[[Triangulation\|三角互证]]** [[Transcription in Qualitative Research\|转录]]录音并实施匿名化处理，运用软件进行主题编码，并与同期政策文本严密对照验证。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -136,16 +126,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 探究不透明或高度政治化的政策决策过程、非正式权力网络运作、改革方案的深层出台背景及行动者对制度环境的微观感知。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **谨慎使用** 受访者处于政治风口或高度敏感的职业审查期时，易产生较强的防备心理与公关修辞，需配合严格的匿名协议与交叉质证。
 > - **不适合使用** 评估政策在全人群中的平均干预效果或测量大样本微观行为频率分布。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 准入偏误（难以接触最核心决策者）、事后理性化重构（受访者事后美化自身决策）、印象管理与政治修辞。
@@ -166,8 +152,6 @@ updated: 2026-10-22
 > | [[Qualitative Interview]] | 上位方法 | 精英访谈是质性[[In-depth Interview\|深度访谈]]在权力不对称场景下的专门化发展。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。

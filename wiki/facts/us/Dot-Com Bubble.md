@@ -47,11 +47,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Dot-Com Bubble
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 互联网泡沫（Dot-Com Bubble）是 20 世纪末伴随万维网民用化与早期电子商务崛起而爆发的全球性金融投机与创业狂潮，其特征是资本市场对先占领市场、再考虑盈利模式的狂热追捧以及向微观[[Consumer Internet|消费互联网]]的盲目倾斜。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的思想史批判中，该事件不仅是一场严重的金融风暴，更是西方科技界将海量工程智力与风险资本错误配置于浅层日常消费品零售、进而全面撤离国家安全战略与深层基础设施研发的历史拐点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–111)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **1995–1998 — 模式狂飙与资本入场** 网景（Netscape）上市拉开序幕，风险资本疯狂涌入；初创企业抛弃传统会计学原则，公开确立故意快速亏损以建立品牌的抢跑逻辑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 104)]]
 >   - 1996-12 艾伦·[[Alan Greenspan|格林斯潘]]（Alan Greenspan）在华盛顿发表演讲，首次发出市场出现非理性繁荣的警告。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > - **2000–2001 — 市场清算与大崩盘** 2000 年 3 月纳斯达克见顶后断崖式暴跌；2000 年底大批华尔街宠儿股价从高点暴跌超 99%；2001 年 2 月 eToys 股价跌至 9 美分并申请破产，整代[[Consumer Internet|消费互联网]]初创公司被扫荡殆尽。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 108–109)]]
 
 ---
-
-## 关键文献、法案与历史宣言
 
 > [!citation-card] 伦克论故意快速亏损以建立品牌
 > 我们是故意在快速亏钱，以此来建立我们的品牌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Jensen, 1998; cited in Karp & Zamiska, 2025, p. 104)]]
@@ -89,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 行动者阵营与社会力量博弈
-
 > [!actor-grid] 权力—立场矩阵
 > - **狂热创业者与风投联盟** 托比·伦克（Toby Lenk）、早期风投基金 — 鼓吹先占领市场、利润次之，并不惜代价颠覆传统零售巨头，将微观消除购物摩擦视为时代使命。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–105)]]
 > - **金融监管与审慎学者** 艾伦·[[Alan Greenspan|格林斯潘]]、哈佛商学院教授 D·奎恩·米尔斯（D. Quinn Mills） — 批评投资者对初创企业施加不切实际的激进要求，指出缺乏基本财务纪律的系统性风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 109–110)]]
 > - **被颠覆的传统零售实体** 玩具反斗城（Toys 'R' Us）、沃尔玛（Wal-Mart） — 起初被视为笨拙落后的旧经济体制，后在泡沫破裂中存活并整合线上业务。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 104–105)]]
 
 ---
-
-## 历史后果与深远影响
 
 > [!finding-cards] 关键历史后果
 > - **战略资源的重大错配** 资本与顶尖智力盲目涌向玩具、宠物用品与杂货分销，使得企业级软件、国防智能化与前沿科学计算被严重忽视（卡普与扎米斯卡将其定性为无差别的资本狂热）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 109–111)]]
@@ -110,8 +98,6 @@ updated: 2026-10-22
 > - **\$10B / 9¢ / >99.9%** （eToys 兴衰极值） 1999 年 IPO 市值冲上 100 亿美元，2001 年 2 月股价跌至 9 美分后破产清算，跌幅超 99.9%。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103, 108–109)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

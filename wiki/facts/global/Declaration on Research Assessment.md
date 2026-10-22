@@ -38,8 +38,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Declaration on Research Assessment
-
 > [!info] 定义
 > 旧金山科研评估宣言（San Francisco Declaration on Research Assessment，简称 **DORA**）是 2012 年在美国细胞生物学会（ASCB）年会期间由一组学术期刊编辑和出版者发起的国际倡议。宣言的核心主张是：在[[Evaluation Research\|评估研究]]者个人贡献时，应关注研究本身的质量和影响力，而非机械依赖发表该研究的期刊的影响因子（Journal Impact Factor）等文献计量指标。
 

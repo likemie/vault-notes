@@ -81,11 +81,8 @@ status: draft
 created: 2026-08-17
 updated: 2026-10-16
 ---
-# Argument_Peterson_1987_OpenCourt
 
 ---
-
-## 全书定位
 
 > [!monograph-profile] 专著档案
 > - **核心对象** 大西洋学院、[[United World Colleges|联合世界书院]]（United World Colleges，[[United World Colleges|UWC]]）与[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）如何从跨国教育理想发展为学校、课程、考试和资格承认制度。
@@ -94,8 +91,6 @@ updated: 2026-10-16
 > - **材料范围** 第1—8章的历史叙事与未来议题，止于1987年出版时所记录的制度状态。
 
 ---
-
-## 研究问题与核心主张
 
 > [!question] 跨国教育怎样成为持续开放的制度
 > 跨越国界的共同教育怎样从少数人的倡议，转化为能够招收多国学生、提供共同课程并获得各国大学承认的持久制度？制度建立之后，怎样继续维护全人发展、文化多样性与家庭可及性？
@@ -108,8 +103,6 @@ updated: 2026-10-16
 > - **收束判断** 成功运行和规模增长不能替代教育价值审查。[[Terminal Courses|终结性课程]]、教师支持、文化平衡、奖学金与公共资助，关系到制度能否持续服务其原有目标；战争预防效果仍需独立证据（第1—8章，pp. 1–217）。
 
 ---
-
-## 理论、概念与方法工具
 
 > [!monograph-tools] 贯穿全书的解释工具
 > - **[[International Education|国际教育]]与[[Whole Person Education|全人教育]]** 把跨文化共同生活、同情理解、社会服务及理解、改变和享受环境的能力作为课程与组织的审查尺度（第1、3、8章，pp. 1–13, 33–59, 193–207）。
@@ -126,8 +119,6 @@ updated: 2026-10-16
 > - **方法边界** 前言明确界定为个人记录，非官方历史。制度采纳、考试人数、学校规模和参与者解释可以说明运行条件，不能替代外部史料核验或独立的学习效果研究。
 
 ---
-
-## 全书论证地图
 
 > [!book-argument-map]- 学校共同体与课程资格的两条路径在扩展中汇合
 > ```mermaid
@@ -204,8 +195,6 @@ updated: 2026-10-16
 
 ---
 
-## 关键引用
-
 > [!citation-card] 从理念到行动
 > 相信一种理念，就不能只思考、谈论或写作，而必须行动。（第1章，p. 2）
 >
@@ -219,8 +208,6 @@ updated: 2026-10-16
 > *Exaggerated claims may well produce scepticism, but it should surely be scepticism about the claims, not about the objectives.*
 
 ---
-
-## 自述局限与使用边界
 
 > [!book-limits] 历史解释与教育效果的不同边界
 > - **个人记录的性质** 前言明确说明非官方历史，判断不必然代表两个机构的治理机关；回忆与参与者解释仍需外部史料核验。

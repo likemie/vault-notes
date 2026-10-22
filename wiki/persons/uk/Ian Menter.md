@@ -56,11 +56,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Ian Menter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代教师教育与教育政策学者，牛津大学教育系教师教育荣休教授（Professor Emeritus of Teacher Education），俄罗斯喀山联邦大学资深研究员。
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000s–2010s — 教师教育的新自由主义政策批判** 聚焦于英格兰教师教育政策的市场化、去大学化与分权化趋势，批判政府对大学教师教育机构的打压。
 >   - **代表著作** *Teacher education in 21st century England: A [[Case Study]] in neoliberal public policy* (2013)。
@@ -101,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 门特认为，教师专业化必须建立在扎实的[[Research Literacy\|研究素养]]与[[Reflective Thinking\|反思性探究]]基础之上，反对将教师简化为执行国家现成方案的技术交付工；在当代教育治理中，证据[[Discourse|话语]]已被制度化为一种主导性的“[[Rationalized Myth\|合理化神话]]”，政府表面上推崇科学证据与分散办学，实质上通过官方守门与适宜性筛选，推行基于政策意图的逆向证据制造以维系中央控制。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–95)]]
 
 > [!citation-card] 教师教育中的研究导向临床实践
@@ -118,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了教师教育政治学与新制度主义政策分析的交叉融合，深化了学界对教育[[Output-Oriented Governance\|循证治理]]异化机制的认知。
 > - **政策路径** 主导的 [[British Educational Research Association\|BERA]]-RSA 调查结论被英国议会委员会及工党、保守党政策顾问广泛引用；提出的临床实践理念直接影响了英国 2015 年《[[Carter Review of Initial Teacher Training\|卡特审查]]》等国家文件的起草。
 > - **跨国传播** 其教师教育模型在苏格兰、北爱尔兰、澳大利亚及欧洲大陆多国教师专业标准制定中产生广泛回响。
@@ -129,8 +119,6 @@ updated: 2026-10-22
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 结合英格兰 35 年历史与 20 位[[Elite Interview\|精英访谈]]，提出[[Evidence Era\|证据时代]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]概念框架。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 学界论教师专业发展学术领袖
 > 作为 [[British Educational Research Association\|BERA]] 前主席与牛津大学教师教育学科带头人，门特在过去数十年间始终坚守教师专业自主与研究导向培养的理论前沿，成为反思英国新自由主义教育改革不可或缺的批判之声。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 88)]]
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > - **机构平台** 牛津大学教育系 — 教师教育荣休教授。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

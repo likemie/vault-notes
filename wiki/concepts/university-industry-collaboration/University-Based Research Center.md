@@ -71,11 +71,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# University-Based Research Center
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 大学研究型中心（University-Based Research Center，亦作多用途多学科大学研究中心，Multipurpose, Multidiscipline University Research Center, MMURC）是指建立在大学内部、区别于传统单一学科系所实验室的一种新型学术组织[[Paradigm|范式]]；其以跨学科现实战略或产业工程问题为导向，依托政府、产业与大学多元资金池，实行多学者协同攻关与机构化协同治理。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 产学协同组织形态与实验室模式辨析
 > | 维度 | 大学研究型中心（MMURC） | 企业联盟计划（[[Industry Affiliate Program\|CAP]]） | 区域创新中心（[[Innovation Hub]]） | 单一 PI 课题组实验室 |
 > |---|---|---|---|---|
@@ -110,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **大学主导的议程设置与产业对齐** 大学先期设定核心攻关领域与战略技术路线，产业成员扮演评估者而非共同设计者角色，通过判断自身业务与大学技术方向的契合度决定是否出资加入。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 111)]]
 > - **政府引导与多元资金杠杆放大** 依靠联邦或地方政府的[[Seed Funding|种子资助]]作为公信力背书与启动杠杆，要求产业界会员费及大学、州政府提供[[Counterpart Funds|配套资金]]（在典型 [[Engineering Research Centers|NSF ERC]] 中，政府种子资金约占 30%，非联邦资金占 70%）。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]
 > - **跨学科、跨机构多校协同架构** 打破单一工程或自然科学学科边界，汇聚机械、化工、微电子、材料及计算机等复合团队；高阶中心往往跨越单一高校，形成通过[[Master Agreement|主协议]]维系的多校联合攻关体。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 367)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
@@ -169,8 +161,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 大学研究型中心核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -180,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 大学研究型中心制度演进
 > - **1970 年代末 — 重资产瓶颈与早期产学试点** 面对微细加工装备与洁净室成本激增以及日本 [[VLSI Project|VLSI]] 的竞争威胁，美国高校（如康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福 CIS）探索创立向全美开放的重资产中心；1978 年 [[National Science Foundation|NSF]] 创设 [[Industry-University Cooperative Research Centers|I/UCRC]] 试点产学协同。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 > - **1984 年 — [[Engineering Research Centers|ERC]] 设立与 MMURC 模式全面确立** 在[[Erich Bloch|埃里希·布洛赫]]与[[Nam Pyo Suh|徐南杓]]推动下，NSF 创立[[Engineering Research Centers|工程研究中心]]（ERC），正式标志着从单 PI 自由探索向多用途多学科大学研究中心（MMURC）的历史转型，开创合作协议与十年日落资助机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]
@@ -190,8 +178,6 @@ updated: 2026-10-22
 > - **2010 年代至今 — 国家制造创新网络与[[NSF Regional Innovation Engines|区域创新引擎]]** 美国商务部设立 [[Manufacturing USA]] 制造创新研究所网络；2022 年 NSF 增设 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会启动 [[NSF Regional Innovation Engines|区域创新引擎]]，大学研究型中心进一步升级为引领区域经济发展与国家供应链安全的战略[[Innovation Hub|创新枢纽]]。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与管理摩擦
 >
@@ -216,8 +202,6 @@ updated: 2026-10-22
 > - **全国性中心形态学与分类体系缺失** 尽管各级机构资助了数以千计的各类中心（仅 [[National Science Foundation|NSF]] 资助就超过 350 所），但管理学界至今缺乏统一的中心形态学与分类学（Morphology / Typology of centers），导致政策制定者与学术界无法精准研判全美中心的总量分布、功能重叠与结构性缺口。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

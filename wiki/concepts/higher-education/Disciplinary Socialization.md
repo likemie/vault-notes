@@ -43,11 +43,7 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Disciplinary Socialization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念[[Discourse|话语]]、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科并非单纯的知识信息载体，而是一种强有力的认知亚文化环境，持续重塑学生的认识论图式。[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 351–352)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学科认知分化的竞争性机制对比
 > | 维度 | 学科社会化假说（Socialization） | 自我选择假说（Self-Selection） |
 > |---|---|---|
@@ -79,8 +73,6 @@ updated: 2026-10-22
 > | **理论归属** | 认知涵化理论（Perry, 1970; Jehng et al., 1993） | 生命历程发展模型（Pulkkinen & Caspi, 2002） |
 
 ---
-
-## 核心要素
 
 > [!feature] 学科社会化的核心要素
 > - **学科[[Epistemology\|认识论]]文化的浸润** 不同学科在知识确定性、[[Paradigm\|范式]]共识与真理标准上存在本质差异（Biglan 学科分类），硬科学与工程强调公理标准，文社科强调多重视角解构。
@@ -115,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -131,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 自我选择与社会化的因果循环争议
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **宏观学科门类掩盖微观院系[[Heterogeneity\|异质性]]** 将工程或理科视为同质整体可能忽视具体院系或导师实验室微观微环境的差异。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

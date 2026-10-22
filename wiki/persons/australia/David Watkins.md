@@ -36,9 +36,6 @@ status: draft
 created: 2026-05-25
 updated: 2026-10-22
 ---
-# David Watkins
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** David Watkins 是澳大利亚教育心理学家，长期在香港从事跨文化学习研究。他是[[Paradox of the Chinese Learner]]这一核心问题的提出者和主要研究者之一，与 [[John Biggs]] 合作整合了关于中国／东亚学习者的实证研究，是[[Intercultural Education|跨文化教育]]心理学领域的重要人物([[Argument_Li_2012_Cambridge\|Li, 2012, p.73-74]])。
@@ -48,9 +45,7 @@ updated: 2026-10-22
 - Watkins, D. A., & [[John Biggs|Biggs, J.]] B. (Eds.) (1996). *The [[Chinese Learner]]: Cultural, Psychological, and Contextual Influences*. Comparative Education Research Centre. —— 提出[[Paradox of the Chinese Learner|中国学习者悖论]]，汇集实证研究记录 [[Confucian Heritage Cultures|CHC]] 学习者的基本信念和学习过程([[Argument_Li_2012_Cambridge|Li, 2012, p.73]])。
 - Watkins, D. A., & Biggs, J. B. (Eds.) (2001). *Teaching the Chinese Learner: Psychological and Pedagogical Perspectives*. Comparative Education Research Centre. —— 续篇，聚焦于面向中国学习者的教学，多数研究仍与学习密切相关([[Argument_Li_2012_Cambridge|Li, 2012, p.73-74]])。
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Watkins 与 [[John Biggs]] 的核心贡献在于，将长期困扰西方研究者的一个矛盾现象系统化为可研究的学术问题——即 **[[Paradox of the Chinese Learner\|中国学习者悖论]]** 中国／东亚教育系统在教学方法上看似落后（教师中心、灌输式、应试导向），但学生却在国际比较中反复取得优异成就。Watkins and Biggs 的立场是，这一悖论不能用西方既有理论框架来解释，而需要深入理解[[Confucian Heritage Cultures]] (CHC) 学习者的文化信念和学习过程([[Argument_Li_2012_Cambridge\|Li, 2012, p.73]])。
 
 > [!quote|notitle]

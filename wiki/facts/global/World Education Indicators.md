@@ -71,11 +71,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# World Education Indicators
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **世界[[Performance Indicators|教育指标]]（World Education Indicators, WEI）** 项目是[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、联合国教育、科学及文化组织统计研究所（[[UNESCO Institute for Statistics]], UIS）与[[World Bank|世界银行]]（World Bank）于 1997 年联合发起设立的大型跨国教育统计与指标合作工程，旨在将经合组织成熟的教育绩效指标方法拓展至转型经济体与中等收入国家，建立具有国际可比性的教育数据基准体系。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > - **核心问题导向** 伴随冷战结束与经济全球化加速，经合组织认识到仅在发达成员国内部协调政策已不足以维系整体经济[[Competitiveness|竞争力]]，必须建立对快速崛起的转型大国教育[[Human Capital Theory|人力资本]]储备与系统绩效的跨国量化监控基准；同时，转型国家在面临融入全球市场经济的压力时，亦存在获取国际公认指标技术以开展自身政策审视与吸引外部投资的制度性需求。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预与机制假说
 > 通过向转型经济体输出[[OECD|经合组织]]成熟的教育[[Performance Indicators|绩效指标]]技术与标准化统计模板，不仅能够在全球范围内建立横向可比的教育投入与产出数据基准，更能够借助“数字即政策”的量化网络，将发展中国家的教育目标引导至[[Knowledge-Based Economy|知识经济]]与[[Human Capital Theory|人力资本]]积累的轨道，实现跨越传统主权边界的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
@@ -106,16 +100,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1997–1999 年 — 跨机构联合倡议与首期数据基线建立** [[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]达成合作协议，正式启动 WEI 项目；首批遴选 11 个转型与发展中大国加入，确立指标[[Operationalization|操作化]]定义，并在经合组织《[[Education at a Glance|教育概览]]》方法框架指导下完成首期跨国统计基线数据汇总与试算。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **2000–2006 年 — 参与国扩展、专题报告发布与小学专项调查（WEI-SPS）** 参与国规模扩展至 19 个国家；联合项目组连续发布多部具有广泛影响力的跨国比较报告（如聚焦教育投入、教师队伍建设与中学教育普及）；2005–2006 年正式组织实施多国联合小学专项调查，深入微观学校层面测量办学条件与教育公平。
 > - **2007 年至今 — 方法论制度化沉淀与向 [[PISA]] 测评生态过渡** WEI 项目建立的统计架构与专业网络逐步沉淀为[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]的常态化全球教育监测基座；同时，WEI 的运作为中国、巴西等转型大国熟悉并接纳经合组织技术标准打下基础，为参与国后续直接加入国际学生评估项目（[[PISA]]）和经合组织国别政策审查铺设了通道。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **多边技术领航与标准输出方（[[OECD|经合组织]]）** 负责输出 [[International Indicators of Education Systems|INES]] 指标设计理念、数据收集工具与量化分析模型，派遣技术专家对参与国进行培训，主导指标报告的理论框架搭建。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
@@ -129,8 +119,6 @@ updated: 2026-10-22
 > - **定期政策审议与联合旗舰出版物** 坚持三方联合署名机制，出版系列跨国比较报告与国别概况简报，借助国际学术声誉对参与国国内教育资源分配产生柔性审议效应。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443, 447)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **教育投入与资源配置指标** 公共教育财政支出占 GDP 比例、教育支出占国家财政总支出比例、生均教育支出绝对额与相对国民收入水平。
@@ -148,8 +136,6 @@ updated: 2026-10-22
 > - **10+ yr** 项目作为独立跨国教育统计合作工程系统运行与发布专题报告的持续周期。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

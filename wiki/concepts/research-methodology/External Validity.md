@@ -88,11 +88,8 @@ status: active
 created: 2026-05-31
 updated: 2026-10-17
 ---
-# External Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 外部效度（External validity）指研究结果能够**推广（generalize）** 到更广泛总体、案例、情境、时间或环境的程度——即**可迁移性（transferability）**。在[[Experimental Research\|实验研究]]中，它衡量实验结果能否推广到[[Study Population and Sample\|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 168]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
@@ -114,8 +111,6 @@ updated: 2026-10-17
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 量化与[[Qualitative Research\|质性研究]]中的外部效度逻辑
 > | 维度 | [[Quantitative Research\|量化研究]] | 质性研究 |
 > |---|---|---|
@@ -128,8 +123,6 @@ updated: 2026-10-17
 Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境变量来推广是根本；对于另一派，对情境几乎无所言说的推广对人类行为几乎无有用之言（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, p. 168]]）。
 
 ---
-
-## 核心要素
 
 > [!feature] 外部效度的四大核心维度
 > - **人群推广性（Population Generalizability）** 研究结论能否从特定实验或调查样本推广到更广泛的[[Study Population and Sample\|目标总体]]。依赖[[Random Sampling\|随机抽样]]、无回应偏倚控制与样本代表性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, p. 169)]]
@@ -254,8 +247,6 @@ Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建�
 
 ---
 
-## 现实表现与应对策略
-
 > [!evidence-grid] 提升与保障外部效度的现实策略体系
 > - **试验工具独立化与国家数据库锚定** 针对过度贴合干预的自编测验严重虚增[[Effect Size\|效应量]]、破坏外部效度的问题（Cheung & Slavin, 2016），英国 [[Education Endowment Foundation\|EEF]] 确立严格规程：主要学业结果必须采用具备广泛外部效度、与国家关键考试（如普通中等教育证书（General Certificate of Secondary Education，GCSE））强相关的标准化独立测验，并直接对接[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）行政追踪（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。
 > - **规模化扩展试点阶梯（Scale-up Pilots）** 建立从[[Efficacy Trial\|效力试验]]（Efficacy）向[[Effectiveness Trial\|实效试验]]（Effectiveness）过渡的扩展试点机制，专门检验大规模项目在真实教育行政体系中的培训递送保真度、人员流动与组织支撑能力（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
@@ -264,8 +255,6 @@ Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建�
 > - **质性[[Rich and Thick Description\|厚描述]]与多场所研究** 通过典型[[Case Study\|案例研究]]（typical cases）展现深度生态机制；开展多场所研究（multi-site studies；Miles & Huberman, 1984）识别跨情境共性；提供详尽厚描述供读者与实践者自主评估可迁移性条件（Lincoln & Guba, 1985；Schofield, 1996）。
 
 ---
-
-## 争议与前沿
 
 > [!warning] [[Internal Validity\|内部效度]]与外部效度的权衡与统一
 > 传统实验科学假定内部效度与外部效度处于零和博弈关系——消除混淆的严密控制必然削弱外部生态性（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。然而在当代[[Evidence-Based Education\|循证教育]]与社会干预评估中，随着[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）和复杂系统理论的发展，研究者越来越强调两者不应割裂：单项研究内部因果确证必须与试验全过程的生态监测、对照组[[Business as Usual\|常态教学]][[Rich and Thick Description\|深描]]相结合，才能真正为宏观政策决策提供可信、可用、可推广的实践证据（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）。

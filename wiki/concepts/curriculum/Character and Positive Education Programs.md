@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Character and Positive Education Programs
-
 > [!metax] [品格／积极教育项目 · Character / positive programs](https://www.visiblelearningmetax.com/influences/view/character~positive_programs)
 > 课程 › 其他课程项目
 >

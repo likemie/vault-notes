@@ -53,11 +53,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Research in Schools Evaluation
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **英国学校研究评估项目（Research in Schools Evaluation, RISE）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助、英国国家社会研究中心（National Centre for Social Research, NatCen）作为[[Evaluator Independence\|第三方独立评估]]的大规模中学[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）。该试验旨在检验在普通中学内部设立专职“研究骨干”（Research Leads）推动证据转译的模式，能否有效改善教师教学实践并提升 10 年级与 11 年级学生在英国普通中等教育证书（General Certificate of Secondary Education, GCSE）统考中的客观[[Academic Achievement\|学业成绩]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **核心问题导向** 面对被动分发改写摘要在教学实践中的普遍失效，政策界试图探索通过校内弱人际中介培育专职骨干，依托校本教研管道将优质实证研究递送给一线教师。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预与机制假设
 > 假定通过在中学内部选拔并培训专职研究骨干，由其负责系统检索、筛选优质教育实证证据并向数学与英语教研组开展同行转译与教学指导，能够有效克服教师个体检索文献的时间与专业素养壁垒，进而转化为中考统考成绩的稳步增长。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 592)]]
@@ -88,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施成效与实证发现
-
 > [!indicators] 评估指标体系
 > - **投入与过程指标** 研究骨干参训出勤率、校内教研工作坊召开场次、骨干教师在岗留存率与人员流失率。
 > - **学业结局指标** 10 年级（第一年末）与 11 年级（第二年末，GCSE 全国统一考试）数学与英语客观标准化测试得分。
@@ -106,8 +98,6 @@ updated: 2026-10-22
 > - **$ES = 0.05$** 英语学科第一年末效应量，第二年末 $ES = 0.03$。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与组织脆弱性
 >

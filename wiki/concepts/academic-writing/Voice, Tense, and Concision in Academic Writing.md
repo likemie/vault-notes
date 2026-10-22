@@ -29,14 +29,10 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Voice, Tense, and Concision in Academic Writing
-
 > [!info] 定义
 > Franklin (1986) 三阶段写作模型的第三阶段是"打磨"（polish），聚焦句子和词语层面的语言选择。在这一层面，三项规范共同决定学术文本的可读性：主动语态的使用、动词时态的选择，以及多余词语（fat）的修剪。Wolcott (2009) 将这一层面的编辑技能概括为：删除被动语态改用主动语态、消除不必要词语（只保留核心词）、缩减修饰语（最多保留一个）、删除过度使用的短语、减少过量引用、斜体和括号注释（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
-## 主动语态
-
-> [!info|notitle]
+> [!info] 主动语态
 
 Ross-Larson (1982, p.29) 给出了最简洁的区分："如果主语执行动作，语态即为主动。如果主语被作用于，语态即为被动。"被动语态的形式标记是助动词变体，如 was、will be、have been、is being。
 
@@ -66,9 +62,7 @@ APA Publication Manual (2020) 对不同文本位置使用不同时态的指导�
 
 ---
 
-## 修剪多余词语（Fat）
-
-> [!info|notitle]
+> [!info] 修剪多余词语（Fat）
 > "Fat"指不必要传达意义的多余词语，需要通过多轮编辑和修改来修剪（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第4章）。
 
 常见多余词语的三种形式（Ross-Larson, 1982）：
@@ -87,9 +81,7 @@ APA Publication Manual (2020) 对不同文本位置使用不同时态的指导�
 
 ---
 
-## 推荐阅读期刊
-
-> [!abstract|notitle]
+> [!abstract] 推荐阅读期刊
 
 Creswell & Creswell (2022, 第4章) 建议通过阅读高水平期刊来培养学术写作的语感：
 

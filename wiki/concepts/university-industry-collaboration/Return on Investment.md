@@ -110,11 +110,7 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Return on Investment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer|技术转移]]、社会福祉）之间比例关系的复合[[Construct|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory|人力资本理论]]、[[World Bank|世界银行]]与[[OECD|经合组织]]工具化为设定跨国结构调整贷款的前置门槛与[[Governing at a Distance|远处治理]]指标，并将国家公共教育支出从福利国家的社会消费重构为衡量投入产出比与生产力收益的战略投资（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 541–542]]；[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 442, 449–450]]）；在中观[[Policy Network|政策网络]]与[[Venture Philanthropy|风险慈善]]层面，演化为[[Social Impact Investing|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为准市场竞标的[[Discourse|话语]]工具（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差异化预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]
@@ -138,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 投资回报在四大治理[[Champ\|场域]]中的理想型辨析
 > | 维度 | 宏观教育投资回报率（RORE） | 中观[[Social Impact Investing\|社会投资]]回报（SROI） | 微观[[University-Industry Collaboration\|产学合作]]投资回报（UIC ROI） | 传统商业财务投资回报（Financial ROI） |
 > |---|---|---|---|---|
@@ -150,8 +144,6 @@ updated: 2026-10-22
 > | **核心方法与工具** | 明瑟收入方程（Mincerian Equation）、跨国宏观大样本回归 | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、循证工具包、社会审计模型 | [[Counterfactual\|反事实]]分析、影响额外性测算、终端用户收益检验 | 净现值（NPV）、财务贴现现金流模型（DCF） |
 
 ---
-
-## 核心维度与测算架构
 
 > [!feature] 核心测算维度与指标构件
 > - **私人收益率 vs 社会收益率（Private vs Social RORE）** 私人收益率核算个体在扣除直接学杂费与机会成本后的税后工资折现增量；社会收益率则将纳税人承担的公共财政全额成本、税收增益以及正向外部性纳入综合分母，用于衡量国家层面的公共资源配置效率。[[World Bank|世界银行]]坚称教育投资社会收益率测算“经受了三十余年严谨审查的考验”（World Bank, 1995, pp. 20–21；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]），以此为据将教学有效性窄化为低成本教材教具（黑板、粉笔、教科书）与组织形式（小组合作）的成本效益核算，并导致教师薪资开支成为财政压减的主要靶子。
@@ -253,8 +245,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -265,8 +255,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1960–1974 — [[Human Capital Theory|人力资本理论]]奠基与明瑟收益率模型** 西奥多·舒尔茨（Theodore W. Schultz, 1961）与加里·贝克尔（Gary S. Becker, 1964）提出人力资本投资分析；雅各布·明瑟（Jacob Mincer, 1974）确立半对数收入方程，将[[Educational Level|受教育年限]]与工作经验转化为边际收益率，奠定了微观实证测算的标准模型。
 > - **1980–1990s — [[World Bank|世界银行]]放贷帝国与全球数据库霸权** 1980 年世行发布《教育部门政策文件》，高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）建立起跨越 139 个国家的全球教育收益率大样本库；世行借此推行“初等教育优先于高等教育”的放贷处方，将收益率测算转化为跨国技术官僚执法的核心依据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -276,8 +264,6 @@ updated: 2026-10-22
 > - **2020s — 批判政治经济学解构与终端用户中心论** 埃玛·罗威（Emma Rowe, 2022, 2023）系统解构 SROI 作为资本主义异层国家再分配与避税庇护的话语机制；[[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick and Jones (2025)]] 确立产学协同中 ROI 的“终端用户中心透镜”，强调技术以改善终端真实体验为最终底线。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与反思
 >
@@ -315,8 +301,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!stat-cards]- 核心规模数据
 > - **139** （国家） 普萨查罗普洛斯等人构建的[[World Bank\|世界银行]]教育回报率大样本库覆盖的全球主权国家总数。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
 > - **1,120** （估算） 跨越 60 年教育投资回报文献收录的独立收益率测算指标条目数。
@@ -353,8 +337,6 @@ updated: 2026-10-22
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 揭示世行如何以“经受三十年检验”为由辩护教育社会收益率测算，并将教育成效窄化为成本效益与压减教师开支。
 
 ---
-
-## 相关条目网络
 
 > [!entry-map] 投资回报知识网络与多维分流矩阵
 >

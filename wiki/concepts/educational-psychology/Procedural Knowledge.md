@@ -51,11 +51,7 @@ created: 2026-08-15
 updated: 2026-10-22
 ---
 
-# Procedural Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 程序性知识（Procedural Knowledge，通常对应“知道如何做”或“knowing how”）是指个体在心智中表征的关于执行特定动作序列、运用技能、遵循操作规程及运算算法的知识体系。在认知心理学与学习科学架构中，程序性知识以“条件-行动”的产生式规则（production rules）形式储存，经由反复练习从陈述性表征编译为自动化操作；而在[[Women's Ways of Knowing\|女性认知方式]]等[[Epistemology\|认识论]]发展模型中，程序性认知特指个体超越主观直觉、系统借助客观方法或共情规程进行证据确证与知识评估的高阶阶段。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - 与 **[[Procedural Skill\|程序性技能]]（Procedural Skill）** 的关系 — 程序性知识是心智层面的规则表征与操作方案，而程序性技能是该知识在物理动作或思维任务中外显化、自动化操作的表现形态。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 核心知识类型与[[Epistemology\|认识论]]阶段对比
 > | 比较维度 | 程序性知识（Procedural Knowledge） | 陈述性知识（Declarative Knowledge） | 概念性知识（Conceptual Knowledge） |
@@ -125,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -145,8 +137,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 程序熟练是否会产生认知僵化与负迁移
@@ -162,8 +152,6 @@ updated: 2026-10-22
 > > - **程序优先倡导者** 认为低龄学生抽象思维尚未发育成熟，先掌握固定程序能为后续概念领悟提供不可或缺的直觉[[Scaffolding\|脚手架]]。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Academic Achievement\|学业成就]]测量类型[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

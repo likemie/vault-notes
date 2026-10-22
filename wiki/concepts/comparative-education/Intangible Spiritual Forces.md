@@ -58,11 +58,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Intangible Spiritual Forces
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **无形精神力量（Intangible Spiritual Forces / Intangible, Impalpable, Spiritual Forces）** 是比较教育历史主义学派用以阐释国家教育体系内在生命力与情境不可移植性的终极[[Ontology\|本体论]]范畴，由英国比较教育先驱[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）在 1900 年吉尔福德演讲中首次明确阐发，并由[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）进一步体系化。该概念断言，任何成功的国家教育体系绝非纯粹的技术设计、校舍设施、法律条例或课程大纲的机械相加，而是维系于校外深层、不可捉摸、无法直接度量但客观存在的历史文化传统、民族伦理信仰与精神生命纽带；正是这些无形力量在现实中支撑着整个学校制度的运转，并决定着其最终的实践效能。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, pp. 41, 44–45)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 59–60)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 无形精神力量与相关分析范畴辨析
 > | 维度 | 无形精神力量（Intangible Spiritual Forces） | [[National Character\|国民性格]]（National Character） | 制度形式与统计指标（Forms & Statistics） |
 > |---|---|---|---|
@@ -101,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **校外情境的统摄性与支配律（Primacy of the Extra-School Matrix）** “校外的事情比校内的事情更为重要，并且支配与诠释着校内的一切”；无形精神力量构成了校内显性制度的根本解释母体。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, p. 44)]]
 > - **历史有机活体的不可分割性（Organic Wholeness of National Life）** 国民教育是数代人历史劳作与斗争沉淀的生命整体，任何剥离其精神土壤的制度要素抽离都会导致生命力的丧失。（Sadler, 1898, p. 246）
 > - **质性价值标准的不可量化性（Qualitative [[Incommensurability]]）** 支撑教育成功的精神力量与各国的伦理价值系统浑然一体，绝不可能被还原为通用的数理统计公式或标准化考试分数。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, p. 41)]]
@@ -170,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -189,8 +179,6 @@ updated: 2026-10-22
 > - **1990 年代至今 — 新制度主义与文化转向下的当代平反** 随着新制度主义社会学与后现代质性诠释学复兴，学者重新确认非正式制度、文化惯性与历史积淀对教育变革的深层制约。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -42,11 +42,7 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-# Deanna Kuhn
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国发展心理学家，哥伦比亚大学教育学院（Teachers College, Columbia University）心理学系教授。
@@ -55,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > Kuhn 认为，真正成熟的认知不仅是获得知识或解决问题，更在于掌握对知识进行[[Metacognition\|元认知]]反思和论辩的能力。她提出[[Epistemological Understanding\|认识论理解]]（即人们如何看待“知识是什么”以及“知识是如何被辩护的”）是[[Critical Thinking\|批判性思维]]发展的基础，其发展路径必须经历“客观绝对化”（绝对论）到“主观相对化”（多元论），最终达到“主客观协调”（评价论）的辩证过程。而且，这一发展不是一蹴而就的，而是高度依赖于具体的判断领域（如事实 vs. 价值）。
 
 > [!citation-card] 关键表述
@@ -67,9 +61,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** Kuhn 极大地推动了教育心理学界对[[Epistemological Beliefs\|认识论信念]]（epistemological beliefs/understanding）和论辩（argumentation）之间关系的理解。她的绝对论-多元论-评价论模型成为该领域的标准参考框架之一。
 > - **方法路径** 通过开发简洁的冲突观点选择任务，她将[[Epistemological Understanding\|认识论理解]]的测试从复杂的长时[[In-depth Interview\|深度访谈]]（如 King & Kitchener）简化为可跨领域、大规模施测的工具。
 

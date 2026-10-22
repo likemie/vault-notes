@@ -38,8 +38,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Tech Square at Georgia Tech
-
 > [!info] 内容
 > Tech Square（Technology Square）是佐治亚理工学院（Georgia Institute of Technology）于 1990 年代末在亚特兰大 Midtown 开发的[[University-Industry Collaboration\|产学合作]][[Innovation Park\|创新园区]]。最初位于校园传统边界之外、一片不受欢迎且物理上隔离的地块上([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.128–130]])。
 

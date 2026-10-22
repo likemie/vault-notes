@@ -86,12 +86,9 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Divergent Thinking
 （发散思维 / 发散性认知加工）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 发散思维（Divergent Thinking, DT）是指认知主体在面对[[Open-Mindedness|开放性]]问题、[[Task Structure\|劣构任务]]或不确定情境时，不局限于单一常规路径，而是从多角度、多方向生成多样化构想、潜在解决方案与非常规概念联结的认知探索与发散性生成过程。在心理测量学、学习科学与人工智能教育学中，发散思维常作为评估[[Creativity\|创造潜能]]（Creative Potential）与创造性思维（Creative Thinking）的核心[[Operationalization\|操作化]][[Construct\|构念]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 7)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–4)]]
@@ -117,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 发散思维 vs [[Convergent Thinking\|聚合思维]] vs 整体创造过程 vs AI 辅助发散
 > | 比较维度 | **发散思维（Divergent Thinking）** | **聚合思维（[[Convergent Thinking]]）** | **整体创造过程（Creative Process）** | **AI 辅助发散（AI-Assisted Divergence）** |
 > |---|---|---|---|---|
@@ -128,8 +123,6 @@ updated: 2026-10-22
 > | **外部工具促进效应** | **空间图形组织器（$g = 1.167$）**<br>高校训练干预（$g = 0.671$）<br>AI 构想拓展（$n = 31$ 项实证报告） | **空间图形组织器（$g = 0.680$）**<br>AI 论证与反思支架（$n = 27$ 项报告） | **二阶元分析基准效应（$r = 0.27$）**<br>CPS 创造性问题解决模型 | **双刃剑效应** 大幅提升发散广度，但易致 45% 学生早熟收敛 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素（评价维度）
 > - **流畅性（Fluency）** 在规定时间内生成有效构想与反应的总数量，反映认知检索速度与观念生成的通畅度。
@@ -215,8 +208,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
 > |---|---|---|---|
@@ -227,8 +218,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1950s — 吉尔福特提出智力结构模型** Guilford 正式区分发散思维与[[Convergent Thinking\|聚合思维]]，确立流畅性、灵活性与独创性等评估维度。
 > - **1960s–1970s — 托兰斯创造思维测验与标准化测评** Torrance 研发标准化纸笔与图形测验，发散思维成为全球[[Creativity Assessment\|创造力评估]]的主流指标。
@@ -237,8 +226,6 @@ updated: 2026-10-22
 > - **2026 年 — 生成式 AI 时代的发散重构与批判反思** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] [[Systematic Review\|系统综述]]确立生成式 AI 作为发散思维“低门槛构想放大器”与“早熟收敛风险源”的二元特征；[[Argument_Smith_2026_SPE\|Smith (2026)]] 进一步从批判社会[[Epistemology|认识论]]视角揭示 AI [[Brainstorming|头脑风暴]]的均质化与非具身局限，确立全盘外包发散对未成年求知者成长性认识正义的侵蚀机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -255,8 +242,6 @@ updated: 2026-10-22
 > > - **侵蚀论（Monib et al. / Li et al. / Zhao et al. / Smith）** 警示 AI 产出往往千篇一律、偏向常见套路，直接套用会抹平学生的个人独特思考，让构想过早定型；[[Meta-analysis\|元分析]]实证亦显示其对创造力的促进（$g = 0.444$）显著低于结构性[[Problem Solving\|问题解决]]与批判反思，反映出基于概率生成的内容天然不利于产生打破常规的独特创意。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 13–14)]] [[Argument_Smith_2026_SPE\|(Smith, 2026, p. 7)]] 结合 He et al. (2024) 进一步揭示，AI 辅助发散存在严重的构想均质化倾向，剥离了面对空白建立认知自信的挣扎过程，破坏了自我知识价值认同的育人功能。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -300,8 +285,6 @@ updated: 2026-10-22
 > | [[Argument_Smith_2026_SPE\|(Smith, 2026, p. 7)]]（引述 He et al., 2024） | 头脑风暴与创意生成团队 | 质性调查与[[Man-Computer Symbiosis\|人机协同]]行为追踪 | AI 辅助头脑风暴的构想特征与认知影响 | 团队普遍报告借助 AI 头脑风暴生成的发散构想趋向高度均质化（more homogenous），且担忧过度依赖会滋生思维惰性 | — | 证实生成式 AI 构想发散在真实协作中存在算法同质化与能动性消解瓶颈 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学应用案例
 > - **空间[[Mind Mapping\|思维导图]]驱动的放射状[[Brainstorming\|头脑风暴]]（[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al., 2026]]）**

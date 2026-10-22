@@ -52,11 +52,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Iatrogenic Effects in Education
-
 ---
-
-## 定义
 
 > [!def] 概念定义
 > **教育中的医源性伤害（Iatrogenic Effects in Education）**，借用自临床医学术语（意指由治疗行为本身引发的疾病或损伤），是指教育、心理辅导与青少年发展干预方案在设计初衷为“促进学业、预防辍学或纠正不良行为”的前提下，由于干预机制失调、同伴负向强化或结构性挤压，在实际实施后**反而导致受试者出现学业滑坡、心理创伤、反社会行为恶化或越轨升级的系统性负面因果效应**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]])。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > *Iatrogenic effects in educational and social programs denote unintended harmful consequences produced directly by the intervention. Rigorous clearinghouses mandate systematic screening for adverse treatment effects, particularly deviancy training in high-risk peer aggregations.*
 
 ---
-
-## 核心机制与典型表现形态
 
 > [!mechanism] 教育与青少年干预诱发医源性伤害的三大核心机制
 > 1. **越轨同伴传染与越轨训练（Deviancy Training / Peer Contagion）**（Dishion et al., 1999）
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > | **[[National Dropout Prevention Center\|NDPC]]** | **未明确排查规程** 主要基于方案呈报的正向成效材料进行评级。 | 缺乏独立的有害效应筛查与预警机制。 | 侧重基层方案的包容性展示。 |
 
 ---
-
-## 典型应用与反思案例
 
 > [!case] 剑桥-萨默维尔青少年干预的世纪警示（Cambridge-Somerville Youth Study）
 > - **长达 40 年的严密 [[Randomised Controlled Trials\|RCT]] 随访**（McCord, 1978） 针对处于犯罪风险青少年的综合干预（包含家访、辅导、暑期营地与医疗支持）。

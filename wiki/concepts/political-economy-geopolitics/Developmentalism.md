@@ -73,11 +73,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Developmentalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 发展主义（Developmentalism）是以国家引导、资本积累与全面现代化转型为导向的宏观政治经济学[[Paradigm|范式]]与意识形态[[Discourse|话语]]。在教育政策与比较教育研究中，它呈现为双重学术形态：其一是战后第三代比较教育中盛行的“工具性发展主义范式”（Instrumental-Developmental Paradigm），将教育视为开启国家现代化大门的通用密钥与[[Human Capital Theory|人力资本]]积累工具；其二是当代跨国[[Geopolitics of Higher Education|高等教育地缘政治]]中的“发展主义叙事”（Developmentalist Narrative），强调[[International Education|国际教育]]合作是通过多边非零和连接提供国际公共产品、促进对等互惠与共同繁荣的“[[Knowledge Diplomacy|知识外交]]”平台，构成了对传统现实主义零和权力竞争的理论替代。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698, 1702–1703)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
@@ -108,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **现代化与经济增长导向** 将社会生产力提升、基础设施建设与产业结构升级确立为国家治理的核心目标，推动教育资源与劳动力市场需求紧密绑定。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **技术官僚规划理性** 依赖由经济学与量化实证指标武装的技术官僚阶层，将教育规划、人力需求预测与课程开发作为普适中立的社会技术方案在跨国范围内移植。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **公共产品与非零和共赢** 在涉外合作中倡导正和收益，强调通过建立共享性科研设施、学术交流营地与专项留学生资助，共同应对气候、能源与公共卫生等跨国危机。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698)]]
@@ -169,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -187,8 +179,6 @@ updated: 2026-10-22
 > - **2010s–至今 — [[South-South Cooperation|南南合作]]与跨国高教中的多边发展主义叙事** 新兴国家在对外教育合作中重新激活发展主义叙事，以基础设施互联、多边大学联盟与公共产品供给为支柱，主张超越西方地缘对抗的零和逻辑，重塑[[Knowledge Diplomacy|知识外交]]格局。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698, 1703)]]
 
 ---
-
-## 核心张力与学术争议
 
 > [!tension] 核心张力｜[[Geopolitics|地缘政治]]权力竞争 vs 发展主义对等共赢
 > | 维度 | 地缘政治叙事（追求[[Knowledge Power\|知识权力]]） | 发展主义叙事（追求[[Knowledge Diplomacy\|知识外交]]） |

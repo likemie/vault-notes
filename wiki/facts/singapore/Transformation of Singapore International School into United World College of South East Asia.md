@@ -38,11 +38,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# Transformation of Singapore International School into United World College of South East Asia
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间／地点** 1970 至 1975 年，新加坡圣约翰学校（St John’s School）、樟宜皇家空军基地（Royal Air Force base at Changi）及其后形成的新加坡[[International Schools\|国际学校]]（Singapore International School）。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 110–117)]]
@@ -53,8 +49,6 @@ updated: 2026-10-22
 项目先后形成樟宜独立寄宿书院、圣约翰校内独立高中部和整校加入三种方案。每次转换都不是名称调整，而是对土地、资本、招生和治理条件的重新组合。最终接纳整所全龄国际学校，说明成员资格开始依据共同课程、领导人员、奖学金、服务活动和持续组织承诺综合判断。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 111–117)]]
 
 ---
-
-## 经过
 
 > [!dev-timeline] 从校园复制到整校加入
 > - **1970 年 3 月　圣约翰合作进入政府沟通** 蒙巴顿致函[[Lee Kuan Yew|李光耀]]，建议把圣约翰建设为服务东南亚的 [[United World Colleges\|UWC]]。李光耀说明校址已经交给英国欧洲协会（British European Association）筹建外籍社群[[International Schools\|国际学校]]，但同意研究合作。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 110–111)]]
@@ -69,8 +63,6 @@ updated: 2026-10-22
 > - **1975 年 4 月　正式成员身份确认** 温哥华岛国际理事会批准东南亚联合世界书院（United World College of South East Asia）加入。它与皮尔逊书院在同次会议取得正式地位。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 117)]]
 
 ---
-
-## 制度方案
 
 > [!contrast-table] 三种方案改变了成员判断对象
 > | 方案 | 组织形式 | 资源逻辑 | 失败或转向原因 |
@@ -95,8 +87,6 @@ updated: 2026-10-22
 > - **关联资格出现晋级预期** 新加坡由关联学校转为正式成员，使后来的关联学校可能把关联理解为加入前站，并直接影响1977年关联政策的谨慎设计。
 
 ---
-
-## 争议与评论
 
 > [!tension] 全龄[[International Schools\|国际学校]]能否成为正式 [[United World Colleges\|UWC]]
 > - **经典书院立场（蓝方）** 正式成员应由择优选拔的十六至十八岁青年组成紧密寄宿共同体，共同承担服务与探险。新加坡多数学生因家庭迁居入学并缴费，奖学金生只占少数。

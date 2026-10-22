@@ -68,7 +68,6 @@ citation_aliases:
   - "Schulte, 2009"
   - "Schulte (2009)"
 ---
-# Argument_Schulte_2009_EncuentrosEducacion
 
 > [!question]
 > 一个外国教育思想家的影响力，究竟是思想本身的力量所致，还是接受国的知识分子按照自身议程对其主动塑造的结果？具体而言：[[John Dewey\|杜威]]（John Dewey）在 1919 年访华后的九十年间，经历了从"朋友"到"魔鬼"再到"现代化旗帜"的剧烈身份转换。这一现象如何解释？它揭示了教育思想跨国转移中的什么规律？
@@ -78,9 +77,7 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
-> [!abstract|notitle]
+> [!abstract] 理论框架
 > 贯穿全文的核心分析概念是 **[[Recontextualization\|再脉络化]]（recontextualization）** 外国思想在进入接受国之后，不是被"正确理解"或"误读"的二元选择，而是接受者根据自身的集体经验、意识形态议程和个人网络，主动从原始思想中**选择性拾取**某些元素、**忽略或扭曲**另一些元素、再将其**重新嵌入**本土[[Discourse|话语]]结构的过程(pp.68–69)。
 
 > [!example] 为什么不是"误解"？
@@ -104,8 +101,6 @@ citation_aliases:
 
 ---
 
-## 论证结构
-
 > [!info] 步骤 1：起点观察："杜威在中国影响力最大"这个共识本身就值得追问
 > 论证从一个看似平淡的共识出发：中国研究者普遍认为，[[John Dewey\|杜威]]在中国的影响力是"例外的"（exceptional），不仅因为影响特别深，还因为有一种广泛的说法：杜威在中国的影响"比在任何其他地方都大，包括美国"（Zhou Ye 2005，引自 p.70）。
 
@@ -115,9 +110,7 @@ citation_aliases:
 
 ---
 
-### 步骤 2：提出核心机制：再脉络化，而非"误解"
-
-> [!abstract|notitle]
+> [!abstract] 步骤 2：提出核心机制：再脉络化，而非"误解"
 > 针对上述问题，分析提出一个关键区分：外国思想在本土的变形不应被框架化为"误解"（misunderstanding），而应理解为 **[[Recontextualization\|再脉络化]]（recontextualization）**。
 
 > 具体来说，这意味着[[John Dewey\|杜威]]的思想（无论是他本人亲自宣讲的、还是通过著作传播的）提供了一个"丰富的思想与意识形态储备库"（rich repertoire of ideas and ideologies，p.68），中国知识分子从中根据自身需要选择性地拾取和改造。这个过程不是对杜威的"背叛"，而是思想跨文化转移的常规机制。
@@ -278,9 +271,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “[[John Dewey\|杜威]]并不是简单地被‘误解’了，正如一位杜威思想研究者在阅读 1950 年代中国关于杜威的文章时可能直觉感受到的那样。相反，杜威——无论是他本人还是通过他的著作——提供了一个丰富的思想和意识形态储备库，中国知识分子热切地采纳或猛烈地拒绝这些思想，以此为他们关于未来中国应该是什么样子的论证提供动力。”
 > ("Dewey was not simply 'misunderstood,' as a researcher in Deweyan thought might intuitively perceive when reading, for instance, Chinese articles on Dewey from the 1950s. On the contrary, Dewey — both in person and through his writings — offered a rich repertoire of ideas and ideologies which Chinese intellectuals eagerly took up or vehementely rejected to fuel their arguments about what China should be like in the future.")(pp.68–69)
 

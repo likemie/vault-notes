@@ -49,13 +49,9 @@ created: 2026-05-09
 updated: 2026-10-22
 ---
 
-# Doxa
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Doxa 是 wiki-[[Pierre Bourdieu]] 社会理论的核心概念，指[[Champ\|场域]]中被行动者视为**理所当然、不言自明**的正统信念或"常识"。当行动者对世界的感知与世界的客观结构完美匹配时，社会秩序的任意性被**自然化**为"事情本身就是如此"——doxa 由此产生并维持（Bourdieu，引自 Wikipedia）。
 
 > [!quote|notitle]

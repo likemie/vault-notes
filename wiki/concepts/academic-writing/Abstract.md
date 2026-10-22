@@ -36,8 +36,6 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Abstract
-
 > [!info] 定义
 > 文献摘要（Abstract）是对研究文献的简要回顾（通常为一个短段落），总结文献的主要元素，使读者能够了解该文章或书籍的基本特征。在[[Literature Review\|文献综述]]过程中，研究者需要对可能多达数十甚至数百篇研究撰写摘要，因此需要一套系统的提取和总结方法([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
@@ -70,8 +68,6 @@ updated: 2026-10-22
 4. **论证缺陷**（如适用）：如果是方法论综述，指出推理、逻辑或论证力度上的缺陷
 
 ---
-
-## 示例
 
 > [!example] 方法论文章的摘要示例
 > Hirose and Creswell (2022) 一篇关于[[Mixed Methods Research\|混合方法]]质量标准的文章摘要展示了方法论摘要的典型构成：

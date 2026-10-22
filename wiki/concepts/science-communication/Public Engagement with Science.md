@@ -52,11 +52,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Public Engagement with Science
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 公众科学参与是指科学界、科研人员与多元公众之间进行的双向（Two-way）、对话驱动和参与式的互动形态，强调倾听公众关切、共同探讨科技的伦理与社会影响，并将科学传播确立为科研全生命周期（Research Lifecycle）的内在组成部分。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 8–10, 14)]]
@@ -121,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者/报告 |
 > |---|---|---|---|
@@ -141,8 +135,6 @@ updated: 2026-10-22
 > - **2026 — 纵向微观实证与高校体制内嵌** 依托 2006–2025 年科研人员全国追踪，揭示参与行为普及化（85%）与道德义务认同（83%），确立上游深度嵌入原则，推动 REF 2029 设立独立“参与与影响”维度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 94–101)]]
 
 ---
-
-## 实证数据
 
 > [!stat-cards]- 英国科研人员公众参与二十年纵向演进核心指标（2006 → 2015 → 2025）
 > - **74% → 78% → 85%** 英国理工科（[[STEM Education\|STEM]]）科研人员报告开展过公众参与活动的比例持续攀升，参与普及度达绝大多数。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 94]]）

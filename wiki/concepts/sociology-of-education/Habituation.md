@@ -45,11 +45,7 @@ created: 2026-07-24
 updated: 2026-10-20
 ---
 
-# Habituation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 习惯化（Habituation）跨越教育哲学与研究方法论两大领域：
@@ -80,8 +76,6 @@ updated: 2026-10-20
 
 ---
 
-### 2. 观察研究中的“习惯化”
-
 > [!feature] [[Observation Method\|观察研究]]中习惯化的操作要点
 > - **足够长的驻留时间（Sufficient Prolonged [[Presence]]）**
 >   研究者需在现场停留至参与者不再因“有人在观察我”而刻意调整行为 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|(Cohen et al., 2011, Ch. 23)]]。
@@ -91,8 +85,6 @@ updated: 2026-10-20
 >   相较于隐蔽观察（[[Covert Research\|covert observation]]），公开驻留下的习惯化在符合[[Informed Consent\|知情同意]]伦理规范的同时，最大限度降低了反应性偏差。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 习惯化在两大语境下的维度对比
 > | 维度 | 德性伦理与教育哲学（[[Aristotle\|亚里士多德]]） | [[Qualitative Observation\|质性观察]]研究方法论（Cohen et al.） |
@@ -111,8 +103,6 @@ updated: 2026-10-20
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 习惯化与进步主义/[[Critical Pedagogy\|批判教育学]]的冲突（习惯化 vs 批判能动性）
@@ -120,9 +110,7 @@ updated: 2026-10-20
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

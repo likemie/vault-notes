@@ -51,11 +51,7 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# François Guizot
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国七月王朝（1830–1848）公共教育部部长（1832–1837）、外交大臣、首相（1847–1848），著名立宪自由派历史学家与政治思想家。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1820s — 欧洲文明史学与立宪自由主义建构** 创立现代文明史观，系统论述欧洲文明的演进取决于个人自由与社会秩序的平衡，主张有教养的中产阶级（中庸理性阶层）是维系立宪宪政与抵御社会混乱的中流砥柱。
 >   - **代表著作** *Histoire générale de la civilisation en Europe*（《欧洲文明史》, 1828）。
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[François Guizot|基佐]]主张以“折衷自由主义（Eclectic Liberalism）”统摄现代国家教育治理：在政治上拒绝天主教教权的独占垄断与极端世俗激进主义，将基督教道德与世俗公权力视导有机熔铸为一体；在法权上确立国家对教育的最高视导主权，强制市镇设立公立初小、保障赤贫儿童免费入学，同时法定保护“教学自由（*la liberté d’enseignement*）”以包容私人力量；在制度上建立以各省公立[[Normal School\|师范学校]]为枢纽的师资培育垄断，并将初等公学垂直划分为面向平民大众的初等初小与面向中产工商业的初等高级[[Dual School System\|双轨学制]]，以实现社会秩序稳固与文明循序渐进。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–30)]]
 
 > [!citation-card] 基佐在 1833 年致全国小学教师通谕中的经典训勉
@@ -104,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **法国本土制度路径** [[Guizot Law of 1833\|基佐法案]]在全法掀起了史无前例的建校浪潮：数年内法国公立初等小学由两万余所激增至三万余所，公立[[Normal School\|师范学校]]覆盖绝大多数省份，首创全境专职皇家督学网（Inspecteurs primaires），彻底确立了法国国家初等教育的制度化根基。
 > - **欧陆比较[[Policy Borrowing\|政策借用]]典范** [[François Guizot|基佐]]借用[[Victor Cousin\|库森]]的研究网络，将普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]的《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》技术条款巧妙嫁接至法国七月王朝立宪政制之中，开创了 19 世纪欧陆自上而下将域外先进经验转置为本土实定法的制度移植经典[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
 > - **跨大西洋公学合法化示范** 基佐通过国家实定法建立初等公学与公立师范的巨大实绩，被英国《外国季刊评论》（*Foreign Quarterly Review*）与美国教育史学家评价为“无可辩驳的成功证明：普及国民初等教育绝非空想家的大脑幻象，而是如同维持陆军与海军一般必须由国家建立并维持的制度常态”，有力支撑了北美[[Common School Movement\|公学运动]]的立法游说。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 27–28)]]；引自 Knight (1930:116–119)
@@ -115,8 +105,6 @@ updated: 2026-10-22
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统剖析基佐如何依托库森的普鲁士报告，将德国君主制法案条款本土化重构为法国七月王朝大资产阶级立宪秩序的法典基石。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 霍尔斯论 1833 年[[Guizot Law of 1833\|基佐法案]]奠定法国现代国民教育体制
 > 基佐法案彻底结束了法国初等教育无序与教区垄断的旧时代，将国家最高主权视导与市镇义务结合，标志着现代法国国民教育体系的正式确立。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 28)]]；引自 Halls (1965:20)
@@ -142,8 +130,6 @@ updated: 2026-10-22
 > - **核心立法实践** 1833 年基佐法案 — 基佐政治与教育生涯最持久的制度丰碑。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

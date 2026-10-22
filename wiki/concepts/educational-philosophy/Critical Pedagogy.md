@@ -84,11 +84,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Critical Pedagogy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 批判教育学（Critical Pedagogy，亦作解放教育学）是一种将学校课程、知识传递与师生互动界定为文化政治[[Champ|场域]]的规范性教育哲学。它源于法兰克福学派[[Critical Theory|批判理论]]与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的解放实践，主张教育必须从学生的真实活经验出发，审视日常压迫与被沉默体验中蕴含的意识形态控制。在[[Theory of Knowledge|知识论]]层面，批判教育学坚决拒斥将学生视为空容器的[[Banking Model of Education|储蓄式教育]]（Banking Model of Education），倡导通过[[Problem-Posing Education|提问式教育]]（Problem-Posing Education）与反思实践（[[Praxis]]）唤醒批判意识（[[Conscientization|conscientização]]）；在当代数智技术背景下，它进一步拓展为抵抗算法全流程代劳的批判工具，致力于打破对[[Generative Artificial Intelligence|生成式人工智能]]的权威迷信，捍卫学生的[[Epistemic Agency|认识主体性]]与社会解放自主性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–148)]]; [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
@@ -120,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 批判教育学与[[Positivism|实证主义]]课程论及数字[[Banking Model of Education|储蓄式教育]]模式辨析
 > | 比较维度 | 实证主义 / [[Tyler Rationale\|泰勒原理]]课程论 | 经典批判教育学（Freire, 1972） | 数字储蓄式教育模式（[[Argument_Smith_2026_SPE\|Smith, 2026]]） |
 > |---|---|---|---|
@@ -133,9 +127,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **活经验作为教学起点（Lived Experience）** 教学必须扎根于学生真实的社会生活经历与压迫感官体验，拒绝将脱离具体情境的普适大纲强加于学生。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–147)]]
 > - **[[Conscientization|批判意识觉醒]]与反思实践（Conscientização & [[Praxis]]）** 引导学生看穿支配性意识形态对日常现实的遮蔽，将批判思考与改造世界的实际行动紧密联结，打破[[Culture of Silence|沉默文化]]（[[Culture of Silence|Culture of Silence]]）。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–10)]]
 > - **[[Problem-Posing Education|提问式教育]]取代[[Banking Model of Education|储蓄式教育]]模式（Problem-Posing vs. Banking）** 坚决废黜自上而下单向灌输的知识存款模式，建立师生平等的对话机制，在共同面对真实问题的生成性探究中[[Constructed Knowledge|建构知识]]。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
@@ -210,8 +202,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 批判教育学四大命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -230,8 +220,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 跨国教育发展模式与[[Education for All|全民教育]]（EFA）实证对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -240,8 +228,6 @@ updated: 2026-10-22
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, p. 134)]] | [[UNESCO\|联合国教科文组织]]《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（EFA 2006）亚非拉受援国与古巴 | 全民基础教育达标率与公有制教育投入 | 接受外部新自由主义[[Structural Adjustment Programs\|结构调整]]与市场化改革的发展中国家普遍未能达标；独立坚持公有制与人道主义国家动员的古巴实现卓越的全民初等教育普及率 | 古巴经验反映高度公有化动员的成效，但受其特殊政治经济体制约束，不可简单机械复制 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

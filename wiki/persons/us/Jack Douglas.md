@@ -60,11 +60,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Jack Douglas
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家，加利福尼亚大学圣迭戈分校（UCSD）社会学系荣休教授，日常生活社会学（Sociology of Everyday Life）与存在主义社会学（Existential Sociology）的创立者与领军学者。
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1967 — *The Social Meanings of Suicide*** 经典批判涂尔干[[Positivism\|实证主义]]，揭示社会事实本质上是行动者的分类定义与常识建构。
 > - **1970 — *Understanding Everyday Life: Toward the Reconstruction of Sociological Knowledge*** 系统倡导[[Phenomenology\|现象学]]、[[Symbolic Interactionism\|符号互动论]]与常人方法学对传统实证社会学大厦的知识重构。
@@ -94,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 社会学探究历史上存在两大不可[[Commensuration\|通约]]的基础[[Paradigm\|范式]]：[[Normative Paradigm\|规范范式]]（Normative Paradigm）假定人类行为完全由外在既定的、非人化的客观社会规则所支配，追求如同物理力学般的宏大理性大厦与普适规律；[[Interpretive Paradigm\|诠释范式]]（Interpretive Paradigm）则断定社会实在由行动者在具体流动情境中动态建构，人类行动源自自主赋予的未来意图与情境协商，规则本身仅仅是行动者事后用以解释合理性的[[Indexicality\|索引性]]修辞。研究者必须放弃将社会视为机械[[Determinism\|决定论]]客体的幻想，转向对生动微观日常生活的[[Rich and Thick Description\|深描]]。
 
 > [!citation-card] 道格拉斯论规范范式与诠释范式的本质分野
@@ -106,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Paradigm\|范式]]划界路径** 为当代教育研究方法论教科书（如 Cohen et al., 2011）提供了最清晰明澈的哲学划界标准，使学习者能够一眼洞穿[[Positivism\|实证主义]]与质性探究的[[Ontology\|本体论]]分歧。
 > - **批判性数据观** 启发教育研究者对标准化考试、出勤率、升学率等官方教育统计数据保持[[Reflexivity\|反思性]]警惕，促使研究深入考察这些数据背后的行政分类机制与利益博弈。
 > - **存在主义转向** 将个体的情感、焦虑、生存冲突与微观道德抉择引入社会学经验探究视野。
@@ -124,8 +114,6 @@ updated: 2026-10-22
 > - **[[Paradigm\|范式]]批判对象** [[Auguste Comte]] — 道格拉斯的[[Normative Paradigm\|规范范式]]精准概括了孔德以降实证主义企图用自然科学铁律统一社会世界的宏大野心。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

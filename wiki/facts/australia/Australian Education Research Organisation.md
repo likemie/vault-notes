@@ -80,11 +80,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Australian Education Research Organisation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 澳大利亚国家级教育[[Educational Brokerage Agency\|证据中介机构]]（Educational Brokerage Agency），对外呈现为各州与联邦教育部共同所有、超党派中立且服务于课堂实证转化的公共实体；监管法律底座实为依据联邦《2001年公司法》设立的担保有限公司，被赋予与慈善资本合作及向营利咨询分包的特许权力，构成全球[[Evidence-Based Education\|循证教育]]运动在 2020 年代最新拓展的代表性制度化载体（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2–5]]）。
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2002–2013 — [[Venture Philanthropy\|创投慈善]]萌芽与企业慈善立法期** 麦肯锡公司合伙人发起设立[[Social Ventures Australia\|澳大利亚社会创投]]（SVA），在企业慈善税收激励与公司法改革支持下将风投资本纪律引入社会公益领域。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]])
 > - **2014–2016 — 试验原型探索与政府调查游说期** SVA 联合英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及澳大利亚联邦银行设立[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L），本土化《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》；2016 年 SVA 董事 Richard Spencer 出任生产力委员会专员，促使委员会官方报告正式建议效仿英国 EEF 设立国家级独立证据机构。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]])
@@ -106,8 +100,6 @@ updated: 2026-10-22
 > - **2021–至今 — 公司法注册设立与高利害问责扩张期** 2021 年正式注册为担保有限公司；SVA 十年游说达成“终局”目标；委托[[Centre for Evidence and Implementation\|证据与实施中心]]（CEI）开展全国学校证据采纳桌面审查；2023 年首席执行官 Jenny Donovan 成为教师教育专家小组（Teacher Education Expert Panel, TEEP）成员，推动 AERO 起草的未发表[[Research Synthesis|证据综合]]报告成为全国[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）核心课程大纲与惩罚性问责的直接依据。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 9]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（董事会）** 设立由政府、商界与慈善界高管主导的专家董事会；首任主席莉萨·奥布莱恩（Lisa O'Brien，曾任 [[Social Ventures Australia\|SVA]] 董事），核心成员包括[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins，英国 [[Education Endowment Foundation\|EEF]] 首任 CEO、SVA 顾问）、罗杰·马西-格林（Roger Massy-Greene，SVA 长期捐赠人、力拓集团与美洲银行前高管、[[Australian Schools Plus\|Schools Plus]] 先驱者委员会成员）及莱斯利·洛布尔（Leslie Loble，保罗·拉姆齐基金会会士）。公司章程第 6 条与第 8 条明文规定董事选任必须具备与慈善界合作的资历。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 9–10]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 529–530]])
@@ -215,8 +207,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **全国[[Initial Teacher Training\|初始教师教育]]《强劲开端》核心课程大纲** 深度介入 2023 年联邦教师教育改革，以神经科学与[[Cognitive Load Theory\|认知负荷理论]]为基础确立核心大纲，成为全国大学教师教育办学认证的强制标准。
 > - **标准化证据量规体系（Evidence Rubrics）** 研制全澳统一的因果证据有效性分级标准，将因果实验设定为干预评估的首要金标准。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]])
@@ -229,8 +219,6 @@ updated: 2026-10-22
 > *The AERO Board highlighted a preference for authoritative national elaborations of core content. It argued that anything less would be insufficient to underpin consistent national understanding of these practices by accreditation panels and ITE program developers.* (Australian Government, 2023, p. 31)
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与资本规模** 获得联邦及各州政府 5000 万澳元联合财政资助，对接数以亿计的跨国[[Venture Philanthropy\|风险慈善]]基金会（BHP 基金会、[[Sutton Trust\|萨顿信托]]）与金融咨询资本。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7–8]])
@@ -248,8 +236,6 @@ updated: 2026-10-22
 > - **17** （档案） ASIC 官方出具的企业注册、董事变更与章程提取报告总数。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 11]])
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -64,8 +64,6 @@ updated: 2026-10-22
 > - **Cook (2002)** 的分析：考虑到 RCT 在教育中的可行性限制，Cook 建议聚焦于"治疗更短、需要很少或不需要教师培训……且学生是分配单位而非整个班级或学校"的干预——实际上将 RCT 限制于可直接交付给学生的商品化干预
 > - **2016** — Peterson 正式提出[[Mechanism Experiments\|机制实验]]作为黑箱 RCT 的替代，主张"什么有效 2.0"
 
-## 核心要素
-
 > [!abstract] 黑箱 [[Randomised Controlled Trials\|RCT]] 在教育中的四个特定限制
 > [[Argument_Peterson_2016_IJRME\|Peterson (2016, pp. 300–302)]] 系统性地总结了黑箱 RCT 在教育领域的四重限制：
 >

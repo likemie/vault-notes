@@ -73,11 +73,7 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Manufacturing USA
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **制造美国网络（Manufacturing USA，原国家制造创新网络 NNMI）** 是美国联邦政府通过[[Public-Private Partnership|公私伙伴关系]]（PPP）设立的国家级先进制造业研发与技术扩散基础设施网络。作为美国版的[[Research and Technology Organisation|研究与技术组织]]（RTO），Manufacturing USA 旨在对标德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]与英国弹射器网络（Catapult Centres），通过在特定关键使能技术领域设立跨部门制造创新研究所（Manufacturing Innovation Institutes, MIIs），将大学前沿基础研究与私营工业界的规模化生产无缝连接，系统跨越技术准备度（[[Technology Readiness Level|TRL]]）4–7 阶段的“[[Valley of Death|死亡之谷]]”，重建美国的[[Industrial Commons|制造业公地]]与供应链韧性。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 6–7, 33)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与使命升级历程
 > - **2012–2014 — 试点创立与《RAMI 法案》立法建制** 针对金融危机后美国制造业空心化与德国制造业强劲韧性的制度对比，奥巴马政府在俄亥俄州扬斯敦设立首个国家增材制造创新研究所（America Makes）；2014 年国会通过《振兴美国制造业与创新法案》（RAMI Act），正式授权设立国家制造创新网络（NNMI，后品牌重塑为 Manufacturing USA）。
 > - **2015–2021 — 跨部门网络扩张与前沿领域覆盖** 在商务部、国防部和能源部共同推进下，研究所数量稳步扩展至 16 家以上，广泛覆盖宽禁带半导体（PowerAmerica）、集成光子学（AIM Photonics）、先进复合材料（IACMI）、柔性混合电子（NextFlex）、生物制药制造（NIIMBL）及清洁能源智能制造（CESMII）。
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > - **2024 年 — 白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下的全链条公私协同** 白宫国家科学技术委员会（NSTC）将 Manufacturing USA 的制造创新研究所（MIIs）确立为国家微电子研发战略第四目标（Goal 4.1）的核心公私合作支柱之一，统筹协调 NSTC、NAPMP、[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）以及[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|SRC]]）[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心，强化中试制造工艺、数字孪生[[Computer Simulation|虚拟仿真]]与微电子技术工人[[Apprenticeship|学徒制]]技能认证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **先进制造国家计划办公室（AMNPO）** 设于商务部 NIST，由商务部、国防部、能源部、[[National Aeronautics and Space Administration|NASA]]、[[National Science Foundation|NSF]] 等多部门派员共组，负责全美研究所网络的跨部门战略统筹、年度国会报告与政策协同。
@@ -116,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰研究所矩阵
-
 > [!finding-cards] 代表性制造创新研究所（MIIs）业务矩阵
 > - **半导体与光电子中试枢纽**
 >   - **PowerAmerica（北卡州立大学牵头）** 攻坚碳化硅（SiC）与氮化镓（GaN）宽禁带功率半导体器件制造，加速电动汽车与电网能效革命。
@@ -132,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-## 国际比较与制度成效
-
 > [!contrast-table] 国家级[[Research and Technology Organisation|研究与技术组织]]（RTO）模式比较
 > | 比较维度 | 美国 Manufacturing USA 网络 | 德国[[Fraunhofer Society Model\|弗劳恩霍夫学会]]（Fraunhofer） | 英国弹射器网络（Catapult） |
 > |:---|:---|:---|:---|
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > | **核心制度优势** | 跨部门灵活性高、紧密对接区域产业集群与中小企业。 | 具有百亿美元级资产规模与长周期共性技术积累能力。 | 专注于国家战略产业转型与系统级[[Innovation Ecosystem\|创新生态]]培育。 |
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议与制度反思
 >

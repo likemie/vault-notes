@@ -68,11 +68,7 @@ created: '2026-09-14'
 updated: 2026-10-22
 ---
 
-# Weight of Evidence Framework
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 证据权重框架（Weight of Evidence Framework，简称 WoE）是由大卫·高夫（[[David Gough]]）于 2007 年提出的一套用于[[Systematic Review\|系统综述]]内部研究质量与相关性综合评价的[[Operationalization\|操作化]]方法。其核心前提是：在评价一项研究对特定综述问题的贡献价值时，既需考察研究本身的内在方法学严谨性（即独立于任何具体问题的研究质量），也必须审视该研究对当前综述特定问题的情境适切性（即该研究在多大程度上设计成可以回答本综述所关注的问题）。两个维度相互独立、分别裁决，最终综合加权成每项研究对综述结论的整体贡献力。这一框架根本上挑战了按研究设计类型划定单一等级的等级制传统，主张不存在独立于问题之外的"最优研究设计"（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 153–154]]）。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** WoE 框架采取方法适切性（[[Fitness for Purpose]]）的[[Pragmatic Paradigm\|实用主义]][[Epistemic Stances\|认识论立场]]，反对将[[Randomised Controlled Trials\|随机对照试验]]等特定研究设计奉为普遍最高标准的教条主义。在因果效力评估上认可[[Postpositivism\|后实证主义]]标准；在机制解释与情境意义研究上同样认可[[Interpretivism|解释主义]]和[[Critical Realism\|批判实在论]]的知识贡献。评价标准随综述问题性质而灵活调整。
 > - **研究者角色** 至少两名独立审阅者在每个维度上分别评分并协商一致，体现了批判性证据审查员的角色定位。框架要求评价者明确说明裁决依据，使裁决过程具备可审计性与可问责性。
@@ -105,8 +99,6 @@ updated: 2026-10-22
 > - **辅助技术** 结构化评价表格、[[Qualitative Codebook\|编码手册]]与团队协商备忘录；在 [[EPPI-Centre]] 系统综述软件（EPPI-Reviewer）中可嵌入结构化 WoE 评分模块。
 
 ---
-
-## 研究程序
 
 > [!proc] 通用程序
 > 1. 界定综述[[Research Question\|研究问题]]与[[Analytic Framework\|分析框架]]，形成评价准则。
@@ -126,16 +118,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **高度适合使用** 当[[Systematic Review\|系统综述]]纳入研究来自多种研究设计传统（量化、质性、[[Mixed Methods Research\|混合方法]]），无法套用单一等级制进行横向比较时；当综述问题对研究情境与人群匹配度要求较高时；当综述旨在提炼差异性证据贡献而非简单合并[[Effect Size\|效应量]]时。WoE 框架在 [[EPPI-Centre]] 的系统综述规程中长期作为标准评价工具使用，也被[[National Institute for Health and Care Excellence\|英国国家卫生与临床优化研究所]]（NICE）等机构采纳。（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 153–156]]）
 > - **谨慎使用** 当综述纳入研究设计高度同质（如仅纳入 [[Randomised Controlled Trials\|RCT]]，且使用 RoB 2 等专属工具已足够时），WoE 框架的附加价值相对有限；当评价团队规模较小（少于两人）时，评价者间[[Reliability\|信度]]难以保障。
 > - **不适合使用** 不宜单独作为综述结论的依据；不宜替代量化偏倚风险评估工具（如 [[AMSTAR]]、RoB 2）在其各自适用场景中的精细功能。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **主观性风险** 尽管分维度[[Operationalization\|操作化]]有助于提高透明度，但"综合裁决"（WoE-D）在实践中仍依赖评审者判断，尤其在[[Mixed Methods Research\|混合方法研究]]中各维度权衡具有相当弹性。
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > | [[David Gough]] | 创立者 | Gough（2007）奠基性地提出了 WoE 框架的完整概念体系与操作规程。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]** 在讨论国际网络证据门户的六大[[Operationalization\|操作化]][[Evidence Standards\|证据标准]]维度时，WoE 框架作为 [[EPPI-Centre]] [[Systematic Review\|系统综述]]规程的核心质量评价工具被援引，体现了研究质量与问题适切性双维权衡的方法学理念。（pp. 153–156）

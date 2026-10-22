@@ -64,12 +64,9 @@ created: 2026-10-17
 updated: 2026-10-21
 ---
 
-# Dynamic Assessment
 （动态评估）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 动态评估（Dynamic Assessment, DA）发端于[[Lev Vygotsky|维果茨基]]（Lev Vygotsky）的[[Zone of Proximal Development|最近发展区]]（ZPD）理论与鲁文·费厄斯坦（Reuven Feuerstein）的中介学习经验学说，指将教学干预与辅导深度嵌入测验过程的交互式评价[[Paradigm|范式]]。主考人在评估过程中主动介入，针对儿童遇到的困难提供结构化的分级提示（Graduated Prompts）、认知线索或策略示范，通过比较无辅助条件下的初始表现与有辅助条件下的达标水平，精准测量个体的认知可塑性（Cognitive Modifiability）与潜在发展空间，有别于仅测量既往习得知识水平的静态标准化统考。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
@@ -90,8 +87,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 动态评估与静态标准化测验及常规[[Formative Assessment|形成性评价]]的对比
 > | 维度 | 动态评估（Dynamic Assessment） | 传统静态测验（Static Testing） | 课堂形成性评价（Formative Assessment） |
 > |---|---|---|---|
@@ -102,9 +97,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Zone of Proximal Development|最近发展区]]导向（ZPD Orientation）** 聚焦于评估独立解决问题水平与在成人指导下所能达到水平之间的动态跨度。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 13)]]
 > - **主考人协助阶梯（Examiner Assistance）** 设定由弱至强的渐进线索序列：从一般性鼓励、格式调整，到关键策略提示、局部示范，直至完全演示。
 > - **认知可塑性量化（Cognitive Modifiability）** 通过“[[Pre-test and Post-test|后测]]得分减前测得分”或“[[Success Criteria|达成标准]]所需提示次数”，量化评估儿童的学习潜能。
@@ -152,8 +145,6 @@ updated: 2026-10-21
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 动态评估理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -162,12 +153,10 @@ updated: 2026-10-21
 
 ---
 
-## 实证数据
-
-大样本一阶[[Meta-analysis|元分析]]系统检验了动态评估中主考人辅助对特殊教育受试者表现的增益。
-
 > [!ma-table]- 一阶元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
+>
+> 大样本一阶[[Meta-analysis|元分析]]系统检验了动态评估中主考人辅助对特殊教育受试者表现的增益。
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
@@ -181,8 +170,6 @@ updated: 2026-10-21
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 哈蒂《[[Visible Learning\|可见的学习]]》反馈类目引用的 Swanson 研究 | 文献学对比与概念效度审查 | 动态评估[[Operationalization\|操作化]]界定与反馈概念对齐度 | 原文严格限定为测验情境线索提示（cues, hints, prompts），未涉及日常教学反馈 | 质性文献学考证确凿 | 揭示将动态测验潜能诊断移花接木为常态课堂教学反馈的[[Positivism\|实证主义]]拼贴错误 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判
 >
@@ -199,8 +186,6 @@ updated: 2026-10-21
 > > - **现实批评者（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 指出动态评估需要极高的人工一对一成本与专业心理学训练；在大[[Class Size|班额]]与繁重课时约束下，将其作为常规教学指令不仅脱离实际，更会导致证据引用的虚妄化。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 概念关联网络
 > | 关联对象 | 关系性质 | 核心说明 |

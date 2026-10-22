@@ -103,11 +103,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-# Critique of Meta-analysis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Meta-analysis\|元分析]]批判（Critique of Meta-analysis）指围绕元分析的方法论前提、证据库与操作程序、统计推断、聚合后的政策用途以及[[Epistemic Stances|认识论立场]]形成的批评体系。自 Eysenck (1978) 提出“垃圾进，垃圾出”以来，批评者追问的核心问题是：在什么条件下，把多项研究的[[Effect Size\|效应量]]合并成一个数字是有意义的？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
@@ -379,8 +375,6 @@ updated: 2026-10-22
 
 ---
 
-## 评估清单
-
 > [!warning] [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 的 11 点评估清单
 > [[Argument_Wiliam_2019_ERE\|Wiliam (2019, p. 11)]] 提出以下问题，用于判断一项[[Meta-analysis\|元分析]]是否值得认真对待：
 >
@@ -399,8 +393,6 @@ updated: 2026-10-22
 > > “如果所有这些问题的答案都是肯定的，或者至少元分析检验了这些问题（例如将它们作为效应的调节[[Variable|变量]]），那么元分析可能值得认真对待。然而，如果任何一个问题的答案是否定的，那么元分析不太可能与真实的教育情境有多大关联。”
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 核心文献索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch. 17)]] — 系统整理[[Meta-analysis|元分析]]批判的主要维度，涵盖 Wolf 的六项批评、可比性、[[Randomised Controlled Trials|RCT]] 的抽样与伦理问题及程序改进建议。

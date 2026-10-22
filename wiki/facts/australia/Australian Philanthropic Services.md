@@ -52,11 +52,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Australian Philanthropic Services
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **澳大利亚慈善服务社（Australian Philanthropic Services, APS）** 是[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）于 2012 年出资设立的非营利专业慈善管理服务机构，现为全澳规模最大的私人辅助基金（Private Ancillary Funds, PAFs）与公众辅助基金（Public Ancillary Funds, PuAFs）设立与运营平台。由著名商法与政策顾问[[David Gonski\|戴维·冈斯基]]（David Gonski）亲自担任创设董事长，在[[Policy Network\|政策网络]]中充当了连接高净值财富家族、企业避税慈善资本与[[Social Impact Investing\|社会影响力投资]]的核心制度管道（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
@@ -69,16 +65,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2012 — 创设与 [[Social Ventures Australia\|SVA]] 子公司奠基** SVA 联合商界顾问[[David Gonski\|戴维·冈斯基]]成立 APS，冈斯基出任董事会主席，SVA 创始人 [[Michael Traill]] 与悉尼[[Grandes Ecoles|大学校]]监 Belinda Hutchinson 共同进驻董事会，搭建起全澳顶级企业慈善运营团队（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
 > - **2012–2017 — SVA 旗下业务暴增与制度协同** 借由联邦《2001年公司法》与税收减免政策红利，APS 迅速成为全澳最大的 PAFs 托管机构；在此期间，其核心董事深度穿梭于联邦政府教育拨款审查委员会（Gonski 1.0 与 2.0）及生产力委员会之间（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7–9]]）。
 > - **2017–至今 — 名义剥离与隐蔽[[Policy Network\|政策网络]]协同** 根据 ACNC 报表披露，APS 于 2017 年在财务上与 SVA 解除直接母子持股并独立运营；然而官方 ASIC 监管档案显示其历史法人纽带与董事人选依然高度重合，继续充当澳洲[[Venture Philanthropy\|风险慈善]]网络的核心后台枢纽（ASIC, 2021c；SVA, 2017b；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 11]]）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与跨界[[Co-affiliation\|共同从属]]
 > - **董事会核心领导层**
@@ -90,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与战略定位
-
 > [!finding-cards] 核心业务矩阵
 > - **私人辅助基金（PAFs）全流程设立与管理** 帮助企业高管与富豪家族设立享受法定可抵税资格的永久性慈善基金，提供资产配置、审计合规与法定捐赠比例测算服务。
 > - **企业战略慈善与避税筹划通道** 协助跨国企业与本土商业寡头建立专项基金，合法享受联邦税盾（tax shelter）优惠，同时引导资金投向符合 [[Social Ventures Australia\|SVA]] 等社会创投议程的教育项目中。
 > - **[[Social Impact Investing\|影响力投资]]战略咨询** 链接旗下所管理的慈善信托资金与公立学校先锋项目（如 [[Australian Schools Plus\|Schools Plus]]），通过资本撬动推动公立学校办学模式变革。
 
 ---
-
-## 政策影响与网络争议
 
 > [!debates] 核心[[Policy Network\|政策网络]]与治理争议
 >

@@ -81,11 +81,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Clearing House Unterricht
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses\|教育证据清算中心]]与教育[[Educational Brokerage Agency\|知识中介机构]]（Seidel et al., 2017）。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath\|聚焦数学]]、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
@@ -99,16 +95,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展三部曲
 > - **2015/2016–2020 — 第一阶段：联邦项目孵化与标准确立期（[[Federal Ministry of Education and Research\|BMBF]] / [[Qualitätsoffensive Lehrerbildung\|QLB]] 资助）** 慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）团队在 BMBF 国家重大专项[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（QLB）框架下的“Teach@TUM”项目中立项研发；确立针对课堂教学实证研究的 11 步标准化检索、因果质量审查与通俗化转译规程；2017 年官方门户正式上线，推出首批德语简评（Kurzreviews）、配套评估表（Rating Sheets）与专题学术播客。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **2021–2023 — 第二阶段：大学建设运行与学院拓展期（TUM 实体化推进）** 慕尼黑工业大学社会科学与技术学院设立常设专职团队，将清算成果全面嵌入本校及合作大学的师范生培养方案；设立数字化教学培训学院（CHU-Academy），上线科学证据自学通识课与专题进阶模块；产品线扩展至[[Inquiry-Based Learning\|探究学习]]、协作教学、性别差异、[[Self-Regulated Learning\|自我调节学习]]、[[Gamification\|游戏化学习]]及数字媒体六大核心教学法谱系。
 > - **2023–2029 — 第三阶段：私人基金会接续资助与长效深化期（威廉·施特默基金会资助）** 在联邦 QLB 国家攻坚计划收官之际，平台成功对接长期深耕 MINT 教育的威廉·施特默基金会（Wilhelm Stemmer Stiftung），获得为期 6 年的刚性大额资助延期至 2029 年；创设[[Design-Based Research\|设计实验]]室（DesignLabs）开展沉浸式教学原型共创；与同设于 TUM 的[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）建立深度战略协同机制（CHU x ZIB），实现宏观国际测评与微观课堂有效性的结构融通。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **学术与项目主持** 由慕尼黑工业大学教育心理学讲席教授[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）与研究主管马克西米利安·克诺格勒（Maximilian Knogler）领衔，统筹学术标准研制与证据中介生态建设。
@@ -122,8 +114,6 @@ updated: 2026-10-22
 > - **需求导向与非线性反馈迭代** 常态化开展针对高校教师教育者与在岗教师的需求调查与效用评估，针对实践现场严峻的时间挤压与资源门槛，动态迭代短评与微课模块。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–16)]]
 
 ---
-
-## 核心业务与协同范式
 
 > [!feature] 核心中介业务与转译产品矩阵
 > - **研究简要评价（Kurzreviews）** 针对前沿教学[[Meta-analysis\|元分析]]提炼的德语通俗化评介，系统解构数字化教学、[[Inquiry-Based Learning\|探究式学习]]、[[Flipped Classrooms|翻转课堂]]、[[Gamification\|游戏化学习]]、[[Self-Regulated Learning\|自我调节学习]]等策略的因果[[Effect Size\|效应量]]、前提条件与教学建议，配套提供评分表（Rating Sheets）与材料下载。
@@ -151,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > 1. **用户群体的高度效用认可** 针对受访高校教师教育者的实证调查显示，平台在个人效用、自身教学实践适用性、知识深化以及备课时间减负等核心维度均获高度评价。
 > 2. **大学与跨机构教学集成** 平台开发的简评与培训模块被德国多所综合性大学教师教育学院深度嵌入至职前师范生研讨课与教师进修课程中。
@@ -165,8 +153,6 @@ updated: 2026-10-22
 > - **2029** 威廉·施特默基金会（Wilhelm Stemmer Stiftung）当前确立的战略资助保障期截止年份。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心制度反思与成效争议
 >

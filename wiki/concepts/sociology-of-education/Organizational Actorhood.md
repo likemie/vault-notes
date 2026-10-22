@@ -42,12 +42,9 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Organizational Actorhood
-
 ---
-## 定义
 
-> [!info|notitle]
+> [!info] 定义
 > 组织能动者身份（organizational actorhood）指组织在结构和行为上的扩展，将自主性（autonomy）、目标导向（goal-orientation）、问责性（accountability）和社会嵌入性（social embeddedness / citizenship）纳入其核心身份的过程（Bromley & Meyer, 2015, p.148）。这一概念最初由 Krücken 和 Meier（2006）在分析欧洲大学转型时提出，用以描述大学从传统公共行政中的"特定组织"（specific organizations）向具有自我定义目标、自主决策能力和对外问责机制的"完全组织"（complete organizations）的转变。
 
 > [!quote|notitle]
@@ -79,9 +76,8 @@ updated: 2026-10-22
 - 2015 年 Bromley & Meyer 在 *Hyper-Organization* 中将 actorhood 概念系统化，提出四维度模型——自主性、目标导向、问责性、社会嵌入性——并将其置于全球组织扩张的宏观背景下。这一模型将 actorhood 从一个描述性概念升级为具有分析力的理论框架，适用于大学、国际组织、NGO 等各类组织([[Argument_Zapp_2022_Springer|Zapp, 2022, p.148]])
 
 ---
-## 核心要素
 
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 根据 Bromley and Meyer (2015)，组织能动者身份包含四个核心维度([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.148]])：
 > - **自主性（autonomy）** 大学拥有独立的决策权，能够定义自身目标和战略方向。传统欧洲大学是政府行政系统的延伸——预算由教育部拨付、人事由政府任命、课程由国家规定。现代大学则像独立法人：自行设定战略规划、自主筹集经费、独立做出学术和人事决策。例：一所现代大学的校长可以制定"五年进入 THE 排名前 100"的战略目标，而不是等待教育部的年度指令
 > - **目标导向（goal-orientation）** 大学主动设定和追求可测量的目标，而非被动响应外部指令。这不同于传统的学术好奇驱动——大学管理者思考的是"我们的[[Research Impact\|研究影响力]]指标如何提升""我们的国际化程度是否达标"，而不是"教授们对什么感兴趣"。例：越来越多大学将[[Research Problem\|研究议题]]有意识地与 [[UN Sustainable Development Goals\|SDGs]] 对齐，这不是因为某个教授的好奇心，而是大学的组织性战略决策([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–151]])
@@ -100,9 +96,8 @@ updated: 2026-10-22
 > - [[Otherhood]] — otherhood 是能动者身份在大学语境中的特殊表现形式：大学作为"他者"为其他行动者和社会目标行使代理权（Meyer & Jepperson, 2000）
 
 ---
-## 实证发现
 
-> [!success|notitle]
+> [!success] 实证发现
 > - 对大学使命与愿景陈述、品牌营销和形式结构改革的分析显示，大学在寻求独特身份的同时，在全球范围内正在实质性地趋同于一种标准的组织形态——表面"求异"，实则"趋同"，这是组织能动者身份全球扩散的核心证据（Zapp et al., forthcoming，引自 Zapp, 2022, p.148）
 > - 大学-社会关系正变得更加渗透性（permeable），传统的"象牙塔"模式日益失去合法性。大学不再能仅以"追求真理"为由与社会保持距离——它被期待说明其研究如何惠及纳税人、如何应对气候变化、如何促进社会公正([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 > - 2005 年 Carnegie Foundation 引入社区参与分类（community engagement classification），标志着大学社会嵌入性在美国高等教育中的正式制度化（Driscoll, 2009，引自）

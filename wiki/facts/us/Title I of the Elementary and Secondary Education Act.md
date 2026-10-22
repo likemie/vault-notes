@@ -56,11 +56,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Title I of the Elementary and Secondary Education Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1965 年由林登·约翰逊（Lyndon B. Johnson）总统签署《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》设立，后续历经 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》与 2015 年《[[Every Student Succeeds Act\|每一个学生成功法]]（Every Student Succeeds Act, ESSA）》再授权，由美国联邦教育部（U.S. Department of Education）主导实施。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 162)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **制度位置** 属于美国联邦基础教育资助体量最大的专项拨款（[[Categorical Funding]]），年度资助规模达 140 亿至 165 亿美元以上，是联邦教育政策介入地方学区办学行为最核心的财政杠杆。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162, 164)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > Title I 通过公式化联邦专项拨款向高贫困率学校注入补充性教育资源，并在 [[Every Student Succeeds Act\|ESSA]] 再授权框架下要求地方学区将资金投向具备实证因果证据支持的教育实践与干预方案，以保障公共教育投资的学业回报与教育公平。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
@@ -88,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1965 年 约翰逊总统签署《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》，正式设立 Title I 专项补偿拨款。
 > - 2001 年 布什总统签署《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB），强化以标准化测验与[[Adequate Yearly Progress|适度年度进展]]（Adequate Yearly Progress, AYP）为导向的惩罚性行政问责。
@@ -97,8 +89,6 @@ updated: 2026-10-22
 > - 2017 年 2017–2018 学年全美学区开始正式执行 ESSA 证据要求。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 175)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与监管主体** 美国联邦教育部（负责规则制定与非强制性指南发布）及各州教育厅（负责审核学区 [[Every Student Succeeds Act\|ESSA]] 方案与拨款分配）。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 163–164)]]
@@ -112,8 +102,6 @@ updated: 2026-10-22
 > - **法律实施前后无显著转变** ESSA 法定证据要求在 2017–2018 学年正式落地后，学区投向循证实践的资金占比在三年跟踪期间保持基本平稳，并未产生实质性转向。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 175–177)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **投入指标** 年度 140 亿至 165 亿美元以上联邦拨款规模、大城市学区约 500–600 美元生均 Title I 专项增量资金、各州 7% 学校改进专项基金（Section 1003）。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162, 167)]]
@@ -136,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与评论
-
 > [!debates] 学术与政策争议
 >
 > > [!axis] 财政投入是否必然转化为学业产出
@@ -150,8 +136,6 @@ updated: 2026-10-22
 > > 地方学区 Title I 资金逾半数固化于专职干预教师与辅导员的人事薪酬，且商业学习软件供应商形成了长达数年的稳定采购惯性；面对外部立法变动，基层往往选择最低阻力的文牍合规，难以实现真正的资源重新配置。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 177–179)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- Title I 资金投资循证实践比例审计（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]）
 > <span class="fact-title-i-empirical-marker" aria-hidden="true"></span>

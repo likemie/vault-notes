@@ -53,11 +53,7 @@ created: 2026-09-02
 updated: 2026-10-16
 ---
 
-# Chris Brown
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国杜伦大学（Durham University）教育学教授，曾任华威大学（Warwick）与伦敦大学学院教育学院（UCL IoE）教授。
@@ -71,8 +67,6 @@ updated: 2026-10-16
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与关键节点
 > - **2010s 前期** 任教于 UCL 伦敦大学学院教育学院学习与领导力系，专注研究英格兰自主学校体系中的[[Research Utilization\|研究利用]]机制与[[Research Learning Communities\|研究学习共同体]]（RLC）实践。
 > - **2015** 主编出版经典著作《Leading the Use of Research & Evidence in Schools》，奠定其在循证[[School Leadership\|学校领导力]]领域的权威地位。
@@ -81,8 +75,6 @@ updated: 2026-10-16
 
 ---
 
-## 主要著作与思想
-
 > [!work-line] 代表著作
 > - **2015 — *Leading the Use of Research & Evidence in Schools*** 系统阐述[[School Leadership\|学校领导]]者如何构建支持研究证据利用的校本文化与中介基础设施。
 > - **2017 — *Combining the best of two worlds: a conceptual proposal for evidence-informed school improvement*** 与 [[Kim Schildkamp]] 和 Mireille D. Hubers 合作，系统论证 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的优劣互补性，提出“[[School Enquiry Cycle\|学校探究循环]]”（ESTI）八步模型。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–172)]]
@@ -90,8 +82,6 @@ updated: 2026-10-16
 > - **2018 — *The Evidence-Informed School System in England: Where Should School Leaders Be Focusing Their Efforts?*** 与 [[Toby Greany]] 合作，把[[Evidence-Informed Practice\|证据知情实践]]的[[Unit of Analysis\|分析单位]]由个体决策上移至学校组织，从文献中提炼能力、[[Research Utilization\|研究使用]]的文化常规、有效学习环境与支持性结构系统资源四类关键因素，并以英格兰 79 所小学 696 名实践者的基线调查指出学校在评价环节、反思教学假设与正式研讨论坛上准备最薄弱。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–126, 129–132)]]
 
 ---
-
-## 相关概念与研究
 
 > [!evidence-grid-a] 相关索引
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 整合 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的核心理论奠基论文。

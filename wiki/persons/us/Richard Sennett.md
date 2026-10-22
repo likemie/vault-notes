@@ -43,11 +43,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Richard Sennett
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名社会学家、历史学家，伦敦政治经济学院（London School of Economics, LSE）社会学荣休教授，纽约大学人文学教授，英国国家学术院院士（Fellow of the British Academy, FBA）。
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1977 — *The Fall of Public Man* （公共人的衰落）** 批判 19 世纪以来公共生活被私人亲密关系文化所侵蚀的社会心理机制。
 > - **1994 — *The Identity Myth* （身份神话）** 质疑建立在单一国民身份基础上的社会团结，主张探索无国族排他性的新型协作可能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -78,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 传统民族主义和强加的单一国家认同往往伴随着部落主义的排他与暴力风险，构成了“共享国家认同之恶”；现代多元社会应当摆脱对单一国家认同神话的依赖，通过开放的城市公共空间、日常交往仪式与多元协作技巧，探索超越国家主义边界的共同行动方式。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Sennett, 1994; Karp & Zamiska, 2025, p. 198)]]
 
 > [!citation-card] 桑内特论超越国家认同的共同行动
@@ -90,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **城市社会学与公共空间研究** 深刻影响了全球关于城市包容性、公共领域衰退与日常社会交往的理论探索。
 > - **多元文化主义与后国家协作** 为批判同质化民族主义、倡导多元异质群体的非暴力共存提供了社会学[[Analytic Framework|分析框架]]。
 > - **[[Geopolitics|地缘政治]]反思与批评** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中指出，桑内特将国家认同等同于“恶”的后国家左翼立场，直接导致现代西方缺乏捍卫公共善与自由政体的精神动员纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **当代批评者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 在《[[Technological Republic|技术共和国]]》中作为后国家左翼解构国家认同的典型代表。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -69,8 +69,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Henry Barnard
-
 ---
 
 ## 简介
@@ -156,8 +154,6 @@ updated: 2026-10-22
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立巴纳德在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的美洲核心坐标，剖析其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）描述性考察如何充当游说立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 霍姆斯论巴纳德教育百科全书成就
 > 巴纳德处理比较教育的方法在很大程度上是历史性与描述性的，其旨在编纂一部跨国教育百科全书的宏伟目标实质上已经圆满达成。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 33)]]；引自 Holmes (1965:14)

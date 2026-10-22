@@ -59,11 +59,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Industrial Advisory Committee
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **工业咨询委员会（Industrial Advisory Committee, IAC）** 是依据《2021 财年国防授权法案》第 9906(b) 条及《2022 年[[CHIPS and Science Act|芯片与科学法案]]》设立的美国商务部法定跨部门最高战略咨询机构。委员会代表半导体制造、芯片设计、EDA/IP、设备材料、[[Research Universities|研究型大学]]、国家实验室及工会等多方利益主体，向商务部长、[[National Science and Technology Council|白宫国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）及跨部门[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（[[Subcommittee on Microelectronics Leadership|SML]]）提供关于国家微电子研发战略、中试基础设施建设、工程劳动力体系与公私治理架构的权威建议。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 21, 24)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2, 48)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与立法授权
-
 > [!dev-timeline] 组织发展与立法推进脉络
 > - **2021 — 法定授权确立** 美国国会通过《2021 财年国防授权法案》第 99 编，明确要求商务部设立常设工业咨询委员会，负责评估国家半导体技术研发方向与产业需求。
 > - **2022 — 委员任命与机制建立** 《[[CHIPS and Science Act|芯片与科学法案]]》正式拨付 110 亿美元研发资金，商务部任命来自半导体制造巨头、无晶圆厂设计公司、EDA/IP 软件商、顶尖[[Research Universities|研究型大学]]、国家实验室及劳工组织的首批 24 位跨界委员。
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **2024 — 赋能[[National Strategy on Microelectronics Research|国家微电子研究战略]]与全栈协同** 深度参与白宫 [[National Science and Technology Council|NSTC]]《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》的修订与论证，就跨部门中试漏斗（NSTC/NAPMP/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）、开源 [[Process Design Kit|PDK]]/ADK 准入、工程劳动力微证书标准以及[[Hardware Security|硬件安全]]与防伪溯源向联邦政府提供全流程咨询输入。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2, 21–29, 48)]]
 
 ---
-
-## 治理架构与专门工作组
 
 > [!actor-grid] IAC 组织架构与专门工作委员会
 > - **研发基础设施与中试网络小组（R&D Facilities & Prototyping Subdeck）** 评估跨区域中试技术中心布局、300 毫米晶圆先进制程基线、极紫外光刻（EUV）机时分配规则以及与国防部微电子公有云（Commons）的衔接机制。
@@ -96,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心职能与重大政策建议
-
 > [!finding-cards] IAC 核心职能与重大政策贡献矩阵
 > - **奠定中立非营利运营商（[[Natcast]]）制度架构** 坚决主张[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）不能由政府部门直接微观行政管理，也不能由单一工业巨头主导垄断，力推由中立非营利实体独立受托运营，确立了公私共治与跨行业信任的制度基石。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 21)]]
 > - **倡导云端设计资产与工艺/[[Assemblage|组装]]套件开放** 推动将[[Process Design Kit|工艺设计套件]]（PDK）、组装设计套件（ADK）、EDA 工具共享及安全 IP 库纳入国家设计使能网关（DEG）公共品服务范畴，大幅降低高校与初创企业的流片试错成本。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 24–26)]]
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **平衡国家安全审查与开放[[Innovation Ecosystem|创新生态]]** 就受关注外国实体（FEOC）合规审查、敏感技术外溢防护与盟友科研合作机制向联邦政府提供务实操作指引，防范过度安全审查对学术交流的过度挤压。
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **政策转化率** IAC 关于 [[National Science and Technology Council|NSTC]] 治理模式、[[National Advanced Packaging Manufacturing Program|NAPMP]] 重点方向与劳动力微证书的核心建议全部被商务部政策与白宫国家战略吸纳采纳。
@@ -122,8 +110,6 @@ updated: 2026-10-22
 > - **4** （个） IAC 下设的常设专业工作小组（基础设施、劳动力、先进封装、知识产权）。
 
 ---
-
-## 争议、局限与治理挑战
 
 > [!debates] 核心争议交锋
 >

@@ -40,14 +40,10 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Analysis of Covariance
-
 > [!info] 定义
 > 协[[Analysis of Variance\|方差分析]]（Analysis of Covariance, ANCOVA）是 [[Analysis of Variance\|ANOVA]] 的扩展，在比较组间均值差异时控制一个或多个协[[Variable\|变量]]（covariates）的影响。它通过统计手段移除协变量对[[Dependent Variable\|因变量]]的效应后，比较调整后的组间均值（adjusted means），从而更精确地评估[[Independent Variable\|自变量]]对因变量的独立效应（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > Creswell & Creswell (2022, Ch8, Table 8.3) 提供的选择标准：
 > - [[Research Question\|研究问题]]性质：组间比较
 > - 自[[Variable\|变量]]数量：1 个或以上

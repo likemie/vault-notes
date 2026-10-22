@@ -66,11 +66,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Deficit Framing
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 赤字框架（Deficit Framing / Deficit Perspective，在教学与文化研究中常被称为赤字理论 Deficit Theorising 或赤字归因）指社会政策、教育改革与学术研究中，一种习惯性将问题根源归咎于行动主体（如教师、弱势学生或家庭文化）自身能力不足、素质欠缺或动机匮乏的[[Epistemology\|认识论]]预设与[[Discourse|话语]]模式。
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 赤字框架与优势/效能敏感型视角辨析
 > | 维度 | 赤字框架（Deficit Framing / Theorising） | 优势敏感型／专业效能视角（Asset-Based / Efficacy） | 纯客观结构制约视角 |
 > |---|---|---|---|
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > | **实践干预路径** | 机械式补救培训、惩罚性问责或降低考核标准 | 建立文化响应型教学、去私密化教研与数据驱动反思 | 增加专项经费补贴、改善硬件设施条件 |
 
 ---
-
-## 核心要素
 
 > [!feature] 赤字框架的核心表征要素
 > - **问题预设赤字化（Deficit Problem Formulation）** 从起点预先假定目标主体（教师或弱势学生）缺乏必要的知识、动力或[[Cultural Capital\|文化资本]]，预先否定其既有经验与潜能。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 4–5)]]
@@ -177,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -196,8 +186,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -209,8 +197,6 @@ updated: 2026-10-22
 > | Timperley (2004, 2005)；[[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 Decile 1（最低十分位 [[Socioeconomic Status\|SES]]）小学读写教师 | 校本评估干预与数据对照实验 | 教师归因信念与学生读写增益效应量 | 平行班级教师创设出 $d > 0.80$ 的读写净增益，击碎“家庭无支持即无法学会阅读”的普遍信念 | $d > 0.80$ | 证明“数据意外”能够有效瓦解防御性认知图式 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

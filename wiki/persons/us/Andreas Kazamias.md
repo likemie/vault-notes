@@ -87,11 +87,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Andreas Kazamias
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 希腊裔比较教育历史学家，威斯康星大学[[James Madison|麦迪逊]]分校教授，[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）荣誉会员，古典希腊人文主义教育哲学代表学者。
@@ -118,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950年代–1960年代 — 哈佛学统与战后方法论双重论战** 承继[[Robert Ulich\|乌利希]][[Paideia|古典教化]]（*[[Paideia]]*）思想史传统，作为战后新一代学者投身学科重构；既对历史传统内部的[[Whiggism\|辉格史观]]展开尖锐反思，又正面迎击实证学派对历史学的清洗。
 >   - **代表著作** *Some Old and New Approaches to Methodology in Comparative Education* (1961); *History, Science and Comparative Education: A Study in Methodology* (1963); *The Educated Man* (1965); *Tradition and Change in Education* (1965). [[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 52, 54–56)]]
@@ -137,9 +131,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 卡扎米亚斯坚持历史学与古典人文主义是比较教育学的生命线。在学科转型期，他扮演了反思者与捍卫者的双重角色：对内，他率先检讨历史学派混淆实然与应然的“[[Whiggism\|辉格史观]]”以及将制度差异轻率归咎于“[[National Character\|国民性格]]”的循环论证；对外，他直面战[[Postpositivism\|后实证主义]]对历史传统的清洗，揭露英语“科学”（Science）概念对经验量化与自然科学[[Paradigm\|范式]]的狭隘垄断，力倡德语广义科学（*Wissenschaft*）与古希腊理知（*Episteme*）传统，并援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）史学理论论证历史比较依托“非普适[[Working Hypothesis|探索性假说]]”建立中程解释理论的合法性。他坚信比较教育的本体根基在于对人的整全教化（*[[Paideia]]*）与人（*Anthropos*）的终极关怀。
 
 > [!citation-card] 广义科学观与[[Geisteswissenschaften|人文科学]]的[[Epistemology\|认识论]]合法性
@@ -167,9 +159,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 作为比较教育求同存异传统的代表人物，以历史与情境作为核心代码，抵制庸俗的[[Positivism\|实证主义]]与去语境化的量化指标崇拜。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 > - **方法路径** 强调严肃历史档案考掘与诠释学细读，为[[Historical-Comparative Method\|历史比较法]]提供[[Epistemology\|认识论]]正当性辩护，推动比较教育学者将宏观文明史、制度档案与微观行动者叙事紧密交织。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 9–10)]]
 > - **学科史编纂** 与考恩共同主编 2009 手册，开创了学科史批判反思板块，直接激发了对比较教育学自身传统发明与[[Geopolitics of Knowledge\|知识地缘政治]]的反省。
@@ -181,8 +171,6 @@ updated: 2026-10-22
 
 
 ---
-
-## 历史评价
 
 > [!citation-card] [[Robert Cowen\|罗伯特·考恩]]论历史诠释学命题与重写学科史
 > 艾略特与卡扎米亚斯的命题引发了一个悖论性的思考：正是未来决定了过去。虽然他们二人未曾直接如此言说，但这一可能性令人振奋。当代我们对自身历史的书写现在需要重访，在未来也必须反复重访。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 10)]]
@@ -211,8 +199,6 @@ updated: 2026-10-22
 > - **学术机构** [[Comparative Education Society in Europe]]（CESE 荣誉会员）、威斯康星大学[[James Madison|麦迪逊]]分校（长期教席）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与反思
 >

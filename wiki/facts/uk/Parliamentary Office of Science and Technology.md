@@ -43,11 +43,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Parliamentary Office of Science and Technology
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间与设立主体** 1989 年作为慈善信托机构由议员倡议创设，并于 2001 年被英国议会正式确立为下议院（House of Commons）与上议院（House of Lords）两院共管的常设议会内部法定机构。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **制度位置** 英国议会内部唯一专属的跨党派、中立同行评议科技评估中枢，是立法机构抗衡行政主导权与外部偏倚说客的核心证据防线。
 
 ---
-
-## 职能与核心产品
 
 > [!claim] 核心功能
 > 议会科学技术办公室独立于政府行政内阁与政党派系，旨在将最前沿、具争议且与立法高度相关的跨学科科学证据，转化为四页篇幅、通俗客观且经过匿名同行严谨评议的政策决策简报（POSTnotes），直接赋能议会辩论与法案审查。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > *POST provides independent, balanced and peer-reviewed analysis of public policy issues that have a basis in science and technology, ensuring that Parliament's scrutiny of complex national challenges is grounded in robust research.*
 
 ---
-
-## 时间线
 
 > [!timeline] 机构演进时间线
 > - **1989** 英国议会科学与技术办公室由议会全党派科技小组（ACOST）推动正式创立。
@@ -103,8 +95,6 @@ updated: 2026-10-22
 > 调查数据表明，英国议员虽然高度认同科学信息对立法工作的重要性，但在日常决策中严重依赖“具有潜在立场偏见的第三方中介”（如代表特定利益诉求的倡导智库），而极少例行化查阅真正客观、经严格同行评议的独立信源（如 POST 与国家学术院），给公共政策带来了潜在的偏见误导与证据扭曲风险。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 82)]]
 
 ---
-
-## 效果与评价
 
 > [!finding-cards] 效果与挑战
 > - **卓越的专业公信力与品牌美誉** POSTnotes 凭借短小精悍、高度客观与严格的同行评议，在学术界、国际议会组织与深度科技专责委员会中享有极高的学术声誉。

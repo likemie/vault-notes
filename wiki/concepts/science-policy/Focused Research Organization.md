@@ -51,11 +51,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Focused Research Organization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **聚焦研究组织（Focused Research Organization, FRO）** 是一种以解决特定前沿科学瓶颈、生产基础工具与开放平台为使命的时间有限型非营利科研组织。它通常获得 2000 万至 5000 万美元的集中资助，组建 10 至 30 人的全职职业工程师与科学家团队，采用严密的里程碑工程化管理模式，专注于生产任何单一大学课题组无法胜任且营利性企业不愿投资的公共品（如全脑突触图谱、非模式生物遗传工具包等），并在预设的 5 年周期或技术里程碑达成后立即解散（Sunset）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 23–25)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科研组织形态多维比较矩阵（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 23–25]]）
 > | 比较维度 | 聚焦研究组织（FRO） | 传统大学课题组（University PI Labs） | [[Corporate R&D Labs\|企业中央研发实验室]]（Corporate Labs） | 联邦国家实验室（National Labs） | [[DARPA]] 项目经理制（DARPA Model） |
 > |:---|:---|:---|:---|:---|:---|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **存续与解散机制** | **做完即散（Sunset）**，达成里程碑立即终止 | 随 PI 终身教职或退休长期延续 | 随企业战略与盈利状况重组或关停 | 默认永久运转，极难关停或缩减编制 | 机构本身延续，资助项目到期即停或转入军种 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心构成要素
 > - **明确的“[[Sunset Provisions|日落条款]]”与做完即散（Sunset Clause by Design）** 组织为解决一个界定清晰的技术里程碑而创设，设定硬性存续上限（通常为 5 年）。达成目标后即刻解散，彻底阻断机构自保、游说维权与编制膨胀的制度惯性。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 24)]]
@@ -147,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -158,16 +148,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演进脉络
 > - **2020 — 概念倡议与理论白皮书确立（Marblestone & Schoknecht）** 亚当·马布尔斯通（Adam Marblestone）等人在《Nature》及智库白皮书中首次正式提出“聚焦研究组织（FRO）”[[Construct|构念]]，倡导通过非营利初创模式解决科研公共品缺失问题。
 > - **2021–2024 — 慈善基金试点与实体机构落地（[[Convergence Research|convergent research]]）** 在慈善资本（如 Schmidt Futures 等）支持下，非营利孵化平台 Convergent Research 推动首批 FRO 实体落地，涵盖神经回路图谱（E11 Bio）、微生物遗传学工具包（Cultivarium）及超声脑机接口（Forest Neurotech）等。
 > - **2025–2026 — 联邦政策采纳与国家创新战略整合（Kratsios / [[Office of Science and Technology Policy|OSTP]]）** 白宫科技政策办公室（OSTP）发布《科学：新黄金时代》报告，将 FRO 确立为破除美国科研体系“中间地带真空”的标志性制度创新，并在 [[National Science Foundation|NSF TIP]] X 实验室与 [[DARPA|ARPA]]-H 转化项目中予以全面推广。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >
@@ -182,8 +168,6 @@ updated: 2026-10-22
 > > - **职业保障担忧派** 批评没有终身教职或稳定退休保障的组织形态难以吸引成家或资深的资深科学家。
 
 ---
-
-## 典型案例
 
 > [!example] 代表性 FRO 实践案例
 > - **E11 Bio（大脑神经突触回路图谱）** 致力于开发可规模化、高通量的单细胞单突触全脑回路测序工具流水线，为神经科学界提供前所未有的哺乳动物大脑微观连接公共数据集。

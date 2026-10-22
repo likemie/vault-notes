@@ -50,11 +50,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Soft Belief
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 软信念（Soft Belief）是政治哲学与技术[[Geopolitics|地缘政治学]]中的核心批判范畴，由[[Alexander Karp|亚历山大·卡普]]（Alexander C. Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas W. Zamiska）在《[[Technological Republic|技术共和国]]》（*The Technological Republic*, 2025）第二部（Part II: Soft Belief）中系统提出。该概念指当代西方精英阶层、大学管理层与科技界所盛行的一种无需承担任何个人或机构风险、流于公关话术、程序合规与道德表演的薄弱信念形态。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > | **典型主体** | 避险的高校管理者、高唱[[Effective Altruism\|有效利他主义]]的科技新贵 | [[Skokie Free Speech Case\|斯科基案]]中承受退会危机的内尔、坚守原则的创始人 | 政治冷漠的大众与投机主义操盘手 |
 
 ---
-
-## 核心要素
 
 > [!feature] 软信念的核心表现机制
 > - **零代价与避险优先** 始终将机构免责、声誉保全与职业晋升置于价值坚守之上，拒绝为任何具争议性的实质立场买单。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–60)]]
@@ -132,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -143,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1930 年代 — [[Cultural Relativism|文化相对主义]]奠基** 鲁斯·本尼迪克特在《文化模式》中主张所有文化一律同等有效，开启了学术界回避对生活方式进行实质价值审视的传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Benedict, 1934; Karp & Zamiska, 2025, p. 212)]]
 > - **1950 年代 — 科学道德迟钝警示** 列奥·施特劳斯警示将价值与事实截然二分的科学分析中立终将演变为无方向的文化虚无主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Strauss, 1959; Karp & Zamiska, 2025, pp. 214–215)]]
@@ -153,8 +143,6 @@ updated: 2026-10-22
 > - **2025 年 — 《[[Technological Republic|技术共和国]]》系统界定软信念范畴** 卡普与扎米斯卡出版《技术共和国》，以整部篇幅深度批判软信念，呼吁西方告别软信念、重铸[[Hard Belief|硬信念]]与技术共和国。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 围绕软信念与公共伦理的理论争议
 >

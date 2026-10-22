@@ -43,11 +43,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Steven Stahl
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国阅读教学研究者、教育心理学家，曾担任多所大学的阅读教育教授。他是 1980 至 1990 年代美国“阅读战争”（Reading Wars）中拼读教学与科学阅读研究阵营的关键学者之一。
@@ -68,17 +64,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1989 — *[[Whole Language]] and language experience approaches for beginning reading: A [[Quantitative Research]] synthesis***：首次将全语言与[[Language Experience Approach\|语言经验法]]合并（d = 0.09-0.17），得出其与传统基本阅读器相比无显著优势的结论。([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144]])
 > - **1994 — *The effects of whole-language instruction: An update and a reappraisal***：对全语言效果进行更新评估（d = 0.15），明确将语言经验法剔除出数据源。([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.145]])
 
 ---
 
-## 核心思想与争议
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想与争议
 > 斯塔尔主张，虽然[[Whole Language\|全语言]]和[[Language Experience Approach\|语言经验法]]在教育演进上存在继承关系，但它们在教学法操作和材料使用上存在显著差异；在实证评估中，不能将 1960 年代（全语言诞生前）的语言经验法研究结果直接套用到全语言的推论上（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144-145]]）。
 
 > [!concept-lens] 思想透镜
@@ -87,8 +79,6 @@ updated: 2026-10-22
 > - **研究影响** 其 1989 年包含混淆数据的[[Meta-analysis\|元分析]]被[[John Hattie\|约翰·哈蒂]]直接整合进《VL》中，导致哈蒂的全语言计算包含了严重的概念偏误。
 
 ---
-
-## 争议与评论
 
 > [!critique-method] 时代错误（Anachronism）与证据库污染
 > 斯塔尔在其 1989 年的[[Meta-analysis\|元分析]]中，将[[Language Experience Approach\|语言经验法]]与[[Whole Language\|全语言]]合并为“全语言/语言经验法”进行计算，导致全语言运动诞生前数十年的[[Behaviorism|行为主义]]早期[[Intervention Research\|干预研究]]（如布拉齐尔与特雷尔［Brazziel & Terrell, 1962］）被计入全语言的实证证据（[[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.144]]）。

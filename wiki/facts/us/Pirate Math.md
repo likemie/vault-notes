@@ -52,11 +52,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Pirate Math
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Pirate Math（海盗数学，及其延伸方案 Pirate Math Equation Quest）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与得克萨斯大学奥斯汀分校（University of Texas at Austin）萨拉·鲍威尔（Sarah R. Powell）等学者联合研发、全美广泛采纳的初等数学应用题一对一个别化干预方案；其核心目标是通过海盗寻宝的主题化情境与认知基模教学，帮助小学二至三年级面临严重数学学习困难的儿童掌握文字应用题的底层结构表征并建立初等代数方程求解能力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克小学中低年级学生在纯算术计算与文字叙述应用题之间的认知断层，破解传统教学中儿童仅凭表面字词（如看见“一共”就相加、看见“剩下”就相减）盲目猜算算式的顽固困境。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 通过显性指导学生识别文字应用题的内在语义结构基模，并结合海盗主题脚本将语义关系转化为含未知数的标准化代数算式（如 $a + b = c$ 或 $a - b = c$），由非专业教学助教实施一对一[[Structured Teaching\|结构化教学]]，能够显著改善高危儿童的问题表征与迁移能力，在标准化应用题测试上取得实质性学业增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -89,16 +83,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Pirate Math 发展历程
 > - **2008–2012 — 方案研发与基模先导试验** 范德堡大学 Fuchs 团队（Fuchs et al., 2008, 2010）针对小学二年级和三年级开展系列先导 [[Randomised Controlled Trials\|RCT]]，验证结合代数方程的基模教学法在消除应用题认知缺陷上的突破性成效。
 > - **2013–2018 — 助教实施效能验证与多中心复现** 团队由萨拉·鲍威尔（Sarah Powell）等学者主导推进，系统验证了低成本教学助教在无资深数学专业背景下，完全依照标准化操作脚本实施 Pirate Math 的高保真度与显著学业成效。
 > - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石与开放资源普及** 被斯莱文在桑代克奖演说中作为初等数学 Tier 3 助教个别辅导的旗舰案例列入[[Response to Proven Instruction\|循证干预反应]]（RTPI）框架，同时项目以开放科学模式公开发布全部教学材料与培训视频。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **方案研发与培训方（范德堡大学 / UT Austin）** 研发海盗主题学生工作手册、未知数代数卡具及助教操作手册，向各学区提供师资培训。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **干预受益儿童（小学三年级学困生）** 在安全接纳的环境中接受结构化辅导，逐步建立对应用题语义架构的主动建构与解题自信。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的标准化应用题学业[[Effect Size\|效应量]]** 在独立第三方大样本[[Randomised Controlled Trials\|随机对照试验]]中，接受 Pirate Math 辅导的学生在全国标准化数学[[Problem Solving Inventory\|问题解决测验]]（如 Iowa Test of Basic Skills, KeyMath）上取得了平均 $+0.37$ 的显著效应量，达到 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

@@ -49,11 +49,7 @@ created: '2026-05-06'
 updated: 2026-10-22
 ---
 
-# New Zealand National Standards
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2008 年末新西兰大选后，由国家党（National Party）领导的联合政府确立，新西兰教育部于 2009–2010 年正式组织实施。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 91)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 该政策强制推行全国统一标准，与 1989 年《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革确立的学校董事会高度自治传统产生深刻制度张力。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 92)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 政策确立新西兰 1–8 年级学生在阅读、写作与数学领域的全国统一进步与成就基准，依托教师综合[[Professional Judgment|专业判断]]（Overall Teacher Judgment, OTJ）评定学生表现，要求学校向家长定期汇报并向教育部提交年度学业汇总数据。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 92–93)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2008 年 11 月** 国家党领导的联合政府赢得大选，将推行国家标准作为首要教育立法议程。
 > - **2009 年 1 月** 《[[Visible Learning|可见的学习]]》登上新西兰主要媒体头版，[[John Hattie|约翰·哈蒂]]关于基于标准的评价言论引发公众与政策层高度关注。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 86)]]
@@ -92,8 +84,6 @@ updated: 2026-10-22
 > - **2017 年 12 月** 执政的工党联合政府正式废除国家标准，恢复以《新西兰国家课程》为核心的[[Formative Assessment|形成性评价]]体系。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 新西兰教育部与内阁教育委员会，主导标准制定与考核框架推行。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 92)]]
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > - **政策阻抗与课程窄化效应** 外部高风险问责引发教师群体抵制，部分学校出现压缩艺术与体育课时、集中精力应付读写测验的课程窄化倾向。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

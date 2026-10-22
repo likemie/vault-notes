@@ -45,11 +45,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# BioMedical Admissions Test
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] BioMedical Admissions Test（BMAT）
 > - **工具类型** 高利害医学与健康专业入学能力测验（High-Stakes Medical Admissions Test）。
@@ -58,8 +54,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔或机考测试（共 2 小时：Section 1 限时 60 分钟，Section 2 限时 30 分钟，Section 3 限时 30 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 思维技能与[[Critical Thinking\|批判性思维]]（Section 1 Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -73,15 +67,11 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **Section 1 [[Critical Thinking\|批判性思维]]题型设计** 采用日常、公共政策与科学争论材料，要求考生在 5 个选项中精确识别支持或削弱结论的前提条件。
 > - **计分体系** Section 1 与 Section 2 采用 Rasch 模型标定为 1.0（最低）至 9.0（最高）的标准分；Section 3 输出双重等级（如 4A）。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -91,8 +81,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | BMAT 经典版 | [[OECD]] 报告分析高风险选拔中将[[Critical Thinking\|批判性思维]]纳为核心模块的国际前沿做法 | 高利害专业选拔测验 | 证实 BMAT 第一模块（Thinking Skills）能有效预测医学生在临床决策与科研阶段的高阶思辨潜能 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

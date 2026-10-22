@@ -38,11 +38,7 @@ created: 2026-08-02
 updated: 2026-10-22
 ---
 
-# Narration Sickness（叙事病）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **叙事病（Narration Sickness）** 由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（*Pedagogy of the Oppressed*, 2000）中确立。它指教育过程中教师单向宣讲脱离学生生活现实与总体性矛盾的空洞词汇，导致知识被异化为静态存货、学习者被降格为被动存储容器的教学生态病理现象。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 45–46)]]
@@ -72,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **词汇异化（Verbal Alienation）** 宣讲内容脱离受教者切身生存现实（如强迫贫困农民抄写脱离现实的“伊娃看到了葡萄”）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
 > - **主客二分（Subject-Object Dichotomy）** 教师垄断绝对知识所有权，将学生判定为无知的“空白知者”。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 46)]]
 > - **机械存贮（Mechanical Depositing）** 衡量学习成功的标准被简化为存储容量与再现准确度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
@@ -104,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -118,8 +110,6 @@ updated: 2026-10-22
 > - **2009 — 课程批判应用** Darwish 引用叙事病解构传统学校教育对学生好奇心与批判思维的压制。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 叙事病概念专门针对否定受教者主体性、脱离现实的异化灌输，不适用于师生平等探究中必要的系统性背景知识讲解。

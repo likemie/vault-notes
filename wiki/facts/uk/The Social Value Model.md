@@ -41,11 +41,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# The Social Value Model
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间与发布主体** 由英国政府商业职能部（Government Commercial Function, GCF）与内阁办公室（Cabinet Office）于 2020 年以采购政策说明（Procurement Policy Note, PPN 06/20）形式首次发布，并于 2025 年通过《国家政府采购政策声明》（National Procurement Policy Statement）与《社会价值模型指南》（PPN 002 Guide）进行法定更新深化。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 69)]]
@@ -54,8 +50,6 @@ updated: 2026-10-22
 > - **制度位置** 政策基于英国《2012年公共服务（社会价值）法案》（Public Services (Social Value) Act 2012），将法案中的“软性考量”升级为具有明确量化指标与评分门槛的硬性采购准则。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 确立中央政府采购法定指导原则，**明确规定社会价值（Social VALUE）必须占最终评标阶段总可分配分数的至少 10% 权重**，并将打破机会壁垒、填补技能差距与支持边缘群体确立为战略考核维度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 69)]]
@@ -68,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施情况与跨界协同机制
-
 > [!actor-grid] 实施角色分工
 > - **中央采购与监管主体** 内阁办公室与各政府部门采购司，负责制定标准评分规程并监督合同落地。
 > - **承接合同的研发与商业企业** 承揽大型公共基建、医疗技术、数字化与工程项目的产业界承包商，负责规划并出资落地具体的社会价值项目。
@@ -80,8 +72,6 @@ updated: 2026-10-22
 > - **采购杠杆激活非正式科学基建生态** 政策有力打破了传统科技企业与校外科普场馆之间的壁垒；英国皇家学会明确建议，中央政府应将科普外展（Science Outreach）全面纳为展示社会价值的合规选项，引导企业通过定向采购注入资金，支撑面临财政生存危机的在地科技场馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
 
 ---
-
-## 政策影响与科研体系启示
 
 > [!finding-cards] 对科学与产业研发生态的深远影响
 > - **确立产业参与的制度化财税动力** 解决了商业企业参与公共科学沟通缺乏直接经济回报的痛点，使公众参与从传统的纯支出型企业社会责任（CSR）转变为直接关乎重大商业合同竞标胜负的核心胜任力。

@@ -64,11 +64,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Best Evidence Synthesis
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 最佳[[Research Synthesis|证据综合]]项目（Best Evidence Synthesis Iteration, BES）是新西兰教育部（Ministry of Education）自 2003 年起主导设立的部委嵌入型国家级[[Knowledge Mediation\|知识中介]]项目，旨在系统综合全球与本土关于优质教学、[[School Leadership\|学校领导力]]及教师专业学习的实证证据，直接服务于国家课程实施与多元文化学校教育改进([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 61–62]])。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破除分散、零碎的学术研究难以进入政府政策议程的隔阂，解决传统英美量化清算中心机械移植可能抹杀本土多元文化情境与原住民知识生态的制度缺陷。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过建立教育部内部直接嵌入式中介架构，向受托学术团队提供实证综合操作规程指导，并以高参与度协作迭代产出兼顾学术严谨性与实践可行性的综合报告与可视化案例，驱动全系统教学与领导力质效提升([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62]])。
@@ -99,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2003–2010 — 奠基与四大旗舰[[Systematic Review\|系统综述]]产出期** 新西兰教育部陆续委托并发布多卷划时代的 BES 迭代专著：
 >   - **优质教学综合（Alton-Lee, 2003）** 提炼出针对多元族裔学生的优质教学 10 项核心实证特征；
@@ -111,8 +103,6 @@ updated: 2026-10-22
 > - **2019–至今 — 存量[[Knowledge Mediation\|知识中介]]与常态化资源库维护** 官方终止了新系统综述的委托资助与研究者方法指导职能，项目全面转型为对既有丰富证据资产的数字化中介传播，通过在线知识门户继续向教育系统输出专业指南([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62, 64]])。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（新西兰教育部）** 直接提供财政资助、办公编制与行政协调保障，确保综述议题紧密对齐国家教育战略与《新西兰国家课程》（[[The New Zealand Curriculum]]）。
@@ -126,8 +116,6 @@ updated: 2026-10-22
 > - **多模态工具包下沉** 将长达数百页的学术巨著浓缩为“执行摘要”、“行动指南”与“课堂微视频”，构建多层次转译梯队。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心成效与学术贡献
 > - **开创部委嵌入式中介范例** 证实教育部内部设立专门研发单元能够极大缩短政策决策与学术证据的时空延迟，确保国家战略直接汲取全球实证智慧([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62]])。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 > - **15** 纵向生存轨迹中呈现“从方法论综述转向存量转译”的典型演变路径（年）([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与存续悖论
 >

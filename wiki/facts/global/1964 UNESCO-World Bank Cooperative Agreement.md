@@ -50,11 +50,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# 1964 UNESCO-World Bank Cooperative Agreement
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1964 年 6 月，由[[UNESCO\|联合国教科文组织]]（UNESCO）总干事勒内·马厄（René Maheu）与[[World Bank\|国际复兴开发银行]]（世界银行）行长乔治·[[Peter Woods\|伍兹]]（George Woods）分别在巴黎与华盛顿签署生效。
@@ -63,8 +59,6 @@ updated: 2026-10-22
 > - **制度位置** 战后国际组织多边合作史上的标志性契约，奠定了早期[[Educational Multilateralism|多边教育治理]]“教科文组织负责智力规划、世界银行负责项目放贷”的双寡头制度格局。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 协定明确规定由[[UNESCO\|联合国教科文组织]]设立专门的教育融资处（Educational Financing Division），为[[World Bank\|世界银行]]对借贷国开展的教育项目进行前期考察、项目识别与技术可行性论证，而世界银行则保留最终放贷否决权，以此实现联合国人文智库与华盛顿金融实体的制度性借道互补。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -80,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 协定演变与脱钩时间线
 > - **1962–1964 — 接触与协定签署** [[International Development Association|国际开发协会]]（IDA）于 1962 年向突尼斯发放首笔教育贷款；鉴于[[World Bank\|世行]]内部缺乏教育专家，双方于 1964 年签署正式合作协定，成立 [[UNESCO]]-World Bank 合作项目组。
 > - **1968–1975 — 麦克纳马拉时代与理念摩擦** 罗伯特·麦克纳马拉（Robert McNamara）入主世行，大力扩充内部专业研究力量，双方在基础教育人权 vs 劳动力市场回报率上的理念分歧急剧恶化。
 > - **1980 — 世行首份政策文件与全面决裂** 世界银行发布第一部《教育行业政策文件》（Education Sector Policy Paper 1980），以[[George Psacharopoulos\|萨卡罗普洛斯]]领导的[[Human Capital Theory\|人力资本]]计量数据库为底气，单方面宣布开展独立研究，彻底架空并废止了 1964 年合作协定。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542, 548)]]
 
 ---
-
-## 执行机制与组织博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **[[UNESCO\|联合国教科文组织]]（UNESCO）** 坚持人文主义教育观与人权保护，主张教育投资应服从于公民全面发展与文化传承，反感将教育狭隘还原为劳动生产率参数。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史影响与后果
-
 > [!indicators] 历史影响维度
 > - **[[World Bank\|世行]]借道入场并反客为主** 世界银行借助 [[UNESCO]] 铺设的国别专家网络顺利建立起对第三世界教育体系的准入权，随后迅速培育内部计量经济团队，反客为主地确立了全球教育援助的主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **全球教育治理[[Paradigm\|范式]]的根本转向** 协定的破裂标志着战后全球教育治理从 UNESCO 代表的人文主义、去商业化价值范式，彻底让位于世界银行主导的经济主义、量化指标与结构调整范式。
@@ -118,8 +106,6 @@ updated: 2026-10-22
 > - **回报率帝国的诞生** 摆脱 UNESCO 掣肘后，世行在 1980 年代全面铺开教育回报率数据库建设，奠定了以硬事实行使远程规制的权力基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

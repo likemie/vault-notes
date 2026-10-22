@@ -46,9 +46,6 @@ status: draft
 created: '2026-05-11'
 updated: 2026-10-22
 ---
-# Dell Delambre
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Dell Delambre 是巴西学者和实践者，任职于 WTS Sustainable Business & Coaching（位于里约热内卢）。其工作跨越商业教练、可持续发展、社区发展和[[Epistemology\|认识论]]研究，提出 [[Creative Tension of Sense]] 理论和 [[Ganz-Methode]] 方法论。他的研究根植于巴西里约热内卢的基层实践——包括贫民窟 (favela) 社区剧场、[[Social Museology\|社会博物馆学]] (social museology) 和 [[Ecomuseology\|生态博物馆学]]——试图在西方现代性认识论霸权之外构建替代性知识[[Paradigm\|范式]]([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105, 107, 109–110]])。 其思想对话对象涵盖 [[Walter Mignolo]]（[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]）、Enrique Dussel（超现代性）、Boaventura de Sousa Santos（南方认识论）、Enrique Leff（环境理性）和 Aníbal Quijano（殖民性权力）等拉丁美洲批判思想家。他将这些高度抽象的去殖民理论转化为具体的社区实践方法，是少数试图在批判和建构之间架桥的当代认识论学者之一。
@@ -61,9 +58,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Delambre 的核心思想围绕张力作为存在和知识的基本条件展开，详见 [[Creative Tension of Sense#核心主张]] 和 [[Creative Tension of Sense#核心命题]]。其思想特点可概括为四个立场：
 >
 > 1. **诊断** 现代性的封闭理性已耗竭——环境危机本质上是[[Ways of Knowing\|认知方式]]的危机，而非单纯的技术或政策失败([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.108–109]])
@@ -87,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 格言／关键表述
-
-> [!quote|notitle]
+> [!quote] 格言／关键表述
 > "How will the university participate in the solution, if they are the central part of the problem? One possibility is the reception of the tension of the new being born in the old." ([[Argument_Delambre_2022_Springer\|Delambre, 2022, p. 119]])
 > 
 > 如果大学是问题的核心部分，它们将如何参与解决方案？一种可能性是接纳新在旧内部诞生的张力。

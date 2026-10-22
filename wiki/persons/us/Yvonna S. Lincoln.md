@@ -40,9 +40,6 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# Yvonna S. Lincoln
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Yvonna S. Lincoln（1944–），美国教育研究方法论学者，德州农工大学荣休教授。Lincoln 与 [[Egon G. Guba]] 合著的 *[[Interpretive Paradigm\|naturalistic inquiry]]*（1985）是[[Qualitative Research\|质性研究]][[Paradigm\|范式]]发展史上的里程碑作品，系统阐述了自然主义探究的[[Epistemology\|认识论]]基础和操作程序。她还与 Norman K. Denzin 共同主编了多版 *Handbook of Qualitative Research*（[[Sage]]），该手册已成为质性研究方法领域的标准参考书。在 [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 的教材中，二人提出的模式理论被引为质性研究中理论作为研究终点的重要形式。
@@ -52,9 +49,7 @@ updated: 2026-10-22
 - Lincoln, Y. S., & [[Egon G. Guba|Guba, E. G.]] (1985). *[[Interpretive Paradigm|naturalistic inquiry]]*. [[Sage]]. — 系统建立自然主义探究[[Paradigm|范式]]，提出可信性四标准。
 - Lincoln, Y. S., & Guba, E. G. (2000). Paradigmatic controversies, contradictions, and emerging confluences. In N. K. Denzin & Y. S. Lincoln (Eds.), *Handbook of [[Qualitative Research]]* (2nd ed.). SAGE. — 对研究范式的系统梳理。
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Lincoln and Guba 的核心贡献在于为[[Qualitative Research\|质性研究]]建立独立于量化传统的可[[Reliability\|信度]]标准体系。在理论运用方面，他们提出模式理论（pattern theories）——自然主义研究中发展的解释不同于[[Quantitative Research\|量化研究]]的演绎形式，表现为相互关联的思想或部分连接为整体的模式([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.67]])。
 
 > [!quote|notitle]

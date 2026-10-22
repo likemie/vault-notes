@@ -58,11 +58,7 @@ created: 2026-09-22
 updated: 2026-10-20
 ---
 
-# Opportunistic Collaboration
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 弹性协作（Opportunistic Collaboration，亦称机会性协作、自组织协作或弹性分组）是[[Knowledge Building Theory|知识建构理论]]（Knowledge Building Theory）与学习科学中提出的一种高度动态的社会组织协作[[Paradigm|范式]]。它打破了传统课堂中由教师预先指定固定名单与脚本角色的[[Cooperative Learning|合作学习]]模式，允许学习者根据探究过程中不断[[Emergence|涌现]]的研究兴趣、认知盲区和知识线索，自发结成小组、跨组流动并动态重组团队。其核心旨在通过通透的小组边界与自组织协作，促进全班共同体的观点交融、集体[[Epistemic Responsibility|认知责任]]承担与深层概念理解。（Zhang et al., 2007, 2009; [[Argument_Zhang_2022_SE\|Zhang et al., 2022]]）
@@ -84,8 +80,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 弹性协作 vs 固定专家组 vs 固定互动组
 > | 维度 | 弹性协作（Opportunistic Collaboration） | 固定专家组（Fixed Specialized Groups） | 固定互动组（Interacting Groups） |
 > |---|---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-20
 > | **[[Epistemic Agency\|认识能动性]]** | 最高：学生自主决定何时组队、何处流动 | 较低：学生仅在预设任务框架内活动 | 中等：学生在预设结构下参与受控交流 |
 
 ---
-
-## 核心要素
 
 > [!feature] 弹性协作的核心机制
 > - **通透的小组边界（Permeable Boundaries）** 小组并非封闭壁垒，成员在深耕本组议题的同时，可随时向其他小组提供线索或寻求支持。
@@ -161,8 +153,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-20
 > | **命题三：知识创生维度** | 跨组意外相遇催生跨领域概念整合与理论突破 | [[Open-Mindedness\|开放性]]复杂探究与跨学科学习 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; Gloor (2006) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 弹性协作概念的学术演变脉络
 > - **2007–2009 — 概念提出与 3 年[[Design-Based Research|设计实验]]** [[Jianwei Zhang|张建伟]]等学者在多伦多四年级光学探究课堂中系统开展 3 年设计实验，首次明确提出“弹性协作（Opportunistic Collaboration）”模式，实证检验其在[[Knowledge Building Theory|知识建构]]中的优越性。(Zhang et al., 2007, 2009)
@@ -183,8 +171,6 @@ updated: 2026-10-20
 
 ---
 
-## 争议与反思
-
 > [!debates] 学术争议
 >
 > > [!axis] 组织秩序与认知负荷：自由流动会引发课堂失控吗？
@@ -194,8 +180,6 @@ updated: 2026-10-20
 > > - **自组织[[Knowledge Building Theory|知识建构]]派（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]; Scardamalia, 2002）** 论证只要辅以公共认知制品（意向领域海报、总结墙）与[[Reflective Structuration|反思性结构化]]支架，弹性协作不仅不会失控，反而能充分激发小学生的自我调控能力与内在学习动机。
 
 ---
-
-## 论证索引
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 详尽记录五年级 22 名学生在 7 个月人体系统探究中组建弹性小组（如眼睛小组）的历时演变，证实弹性协作促成了 81.25% 的完全[[Scientific Explanation|科学解释]]与高密分布式社会认知网络。

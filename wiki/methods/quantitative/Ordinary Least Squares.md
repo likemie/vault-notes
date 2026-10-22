@@ -78,11 +78,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Ordinary Least Squares
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **普通最小二乘法（Ordinary Least Squares，简称 OLS）** 是统计学、计量经济学与实证教育研究中最核心、应用最广泛的参数化线性回归估计方法。该方法以代数投影原理为基础，通过最小化样本观测值[[Dependent Variable\|因变量]]与模型线性预测值之间的残差平方和（Sum of Squared Residuals, SSR），求解使误差达到全局最小的回归参数向量 $\hat{\boldsymbol{\beta}}$。在满足高斯-马尔可夫定理（Gauss-Markov Theorem）的古典线性假定下，OLS 估计量是所有线性无偏估计量中方差最小的最佳线性无偏估计（Best Linear Unbiased Estimator, BLUE）。在[[Randomised Controlled Trials\|随机对照试验]]（RCT）中，引入基线[[Pre-test and Post-test\|前测]]的 OLS 模型（即[[Analysis of Covariance\|协方差分析]] ANCOVA 回归形式）能够大幅吸收个体基线能力变异，是[[Covariate Adjustment\|协变量调整]]的主流基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
@@ -99,8 +95,6 @@ updated: 2026-10-22
 > *“In education trials, [[Multiple Regression\|OLS regression]] controlling for prior attainment explains substantial outcome variance, reducing standard errors. However, Xiao et al. (2016) demonstrated that failing to [[Accounts\|account]] for school-level clustering in standard OLS inflates [[Type I and Type II Errors\|Type I error]] rates, highlighting the need for clustered standard errors or multilevel specifications.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 建立在条件期望函数（Conditional Expectation Function, CEF）线性逼近论之上。假定复杂的现实因果与关联模式可通过[[Independent Variable\|自变量]]的线性组合进行局部最优逼近；在[[Causality\|因果推断]]视角下，若满足条件独立性假定（CIA），回归系数可被赋予净因果边际贡献的解释。
@@ -125,16 +119,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **明确模型设定与[[Variable\|变量]]界定** 界定[[Dependent Variable\|因变量]] $Y$、核心[[Independent Variable\|自变量]] $T$（干预状态或政策暴露）以及控制协变量集合 $\mathbf{X}$。
 > 2. **探索性数据分析与共线性筛查** 绘制散点图与残差分布图，计算变量方差膨胀因子（VIF），确认不存在严重多重共线性（VIF $< 5$）。
 > 3. **参数求解与主效应估计** 基于解析闭式矩阵方程求解回归系数向量 $\hat{\boldsymbol{\beta}}$ 及判定系数 $R^2$。
 > 4. **残差诊断与假定检验** 检验残差正态性（Q-Q 图）、同方差性（Breusch-Pagan 检验）及线性函数设定误设检验（Ramsey RESET）。
 > 5. **稳健推断与[[Standard Error\|标准误]]校正** 若存在异方差则汇报 Huber-White 稳健标准误；若存在班级或学校嵌套，则采用群聚稳健标准误（CRSE）或转入[[Hierarchical Linear Model\|多层线性模型]]。
-
-### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含 $N$ 个独立观测个体和 $k$ 个解释变量的设计矩阵 $\mathbf{X}$（维度 $N \times (k+1)$）。
@@ -199,8 +189,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - [[Randomised Controlled Trials\|随机对照试验]]中控制基线[[Pre-test and Post-test\|前测]]成绩以提升统计功效的[[Covariate Adjustment\|协变量调整]]分析（[[Analysis of Covariance\|ANCOVA]]）；
@@ -215,8 +203,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **群聚数据[[Standard Error\|标准误]]严重低估** OLS 建立在各观测误差项独立同分布的严苛假定上。教育现场中学生嵌套于学校，同校学生的同质性导致误差项正自相关；直接套用传统 OLS 会将集群共有的变异错误记为独立自由度，导致标准误被大幅低估 30% 至 60%，制造大量虚假的[[Statistical Significance\|统计显著性]]（[[Type I and Type II Errors\|Type I error]]）。
 > - **极端值与杠杆点敏感性** 残差平方和的二次惩罚机制赋予远离拟合平面的极端离群点与高杠杆点过高的权重，单个异常点即可显著扭曲回归斜率。
@@ -224,8 +210,6 @@ updated: 2026-10-22
 > - **补救方式** 面对教育嵌套数据，应采用聚类稳健标准误（CRSE）或直接升级至[[Hierarchical Linear Model\|多层线性模型]]（HLM）；面对异常值，可辅以分位数回归（Quantile Regression）或稳健回归算法。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -250,8 +234,6 @@ updated: 2026-10-22
 > | [[Model Dependency]] | 风险现象 | 解释了为什么 OLS 与简单均值模型、多层模型之间的选择会引发[[Effect Size\|效应量]]漂移。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等用英格兰 NPD 数据复算 17 项试验：基线[[Pre-test and Post-test\|前测]] OLS 可提升功效，但忽略聚类会低估[[Standard Error\|标准误]]，并推动英国试验统计指南出台。

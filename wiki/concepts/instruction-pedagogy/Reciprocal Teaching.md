@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Reciprocal Teaching
-
 > [!metax] [交互式教学 · Reciprocal teaching](https://www.visiblelearningmetax.com/influences/view/reciprocal_teaching)
 > 教学策略 › 教学方法
 >

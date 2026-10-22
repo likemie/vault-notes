@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Philosophy in Schools
-
 > [!metax] [儿童哲学 · Philosophy in schools](https://www.visiblelearningmetax.com/influences/view/philosophy_in_schools)
 > 教学策略 › 教学方法
 >

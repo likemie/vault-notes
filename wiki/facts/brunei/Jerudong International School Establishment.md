@@ -33,8 +33,6 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Jerudong International School Establishment
-
 > [!info] 背景
 > 1990 年代中后期，[[Cognition Education\|Multi Serve]] 仍以新西兰学校支持服务为主，但公司开始寻找[[International Education\|国际教育]]培训与咨询机会，以降低对国内单一市场的依赖。([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.21, p.23-24]])
 >

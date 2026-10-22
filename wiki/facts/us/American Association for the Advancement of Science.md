@@ -64,11 +64,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# American Association for the Advancement of Science
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 美国科学促进会（American Association for the Advancement of Science, AAAS）是全球规模最大的综合性多学科科学学术学会（501(c)(3)），也是国际顶尖学术期刊《科学》（*Science*）的出版机构。学会拥有逾 12 万名跨学科科学家会员，致力于在所有科学分支中推进科学探索、捍卫[[Academic Freedom|学术自由]]，深度参与战后国家科学政策体制构建，并通过首创并主导运行半个世纪的科技政策研究员计划（Science & Technology Policy Fellowships, STPF），系统构建了将自然与社会科学家全职输送至美国国会两院与联邦决策中枢的制度化通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]; [[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 促进各学科科学家之间的深度交流与合作；提升全社会公共[[Scientific Literacy|科学素养]]与 [[STEM Education|STEM]] 教育质量；捍卫科学诚信与[[Evidence-Based Policy-Making|循证决策]]；通过科学外交促进全球可持续发展。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
 > - **1848–1900 — 奠基与《科学》杂志整合**
@@ -97,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Directors）与评议会（Council）** 由民选会长（通常由诺贝尔奖得主或学术宗师出任，如前 [[National Science Foundation|NSF]] 主任阿特金森）、候任会长及 24 个学部的选举代表组成，负责确立学会宏观学术方向与科学伦理标准。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 > - **首席执行官与管理团队** 由执行总裁统领，下设学术出版部、国际事务部、[[STEM Education|STEM]] 教育与人力资源部，以及科学政策项目办公室（Science Policy Programs）。
@@ -111,8 +103,6 @@ updated: 2026-10-22
 > - **国家科学政策独立研讨与冷战史学反思** 定期组织由原政府高官、高校领袖与科学政策史学家参与的高峰研讨会，系统剖析早期冷战对美国国家科学政策形成的影响、基础研究资助结构变迁及跨国体制比较。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 47)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵
 > - **《科学》（*Science*）顶尖期刊集群** 出版世界顶尖综合学术期刊《科学》（*Science*）及《科学·进展》（*Science Advances*）、《科学·转化医学》（*Science Translational Medicine*）等子刊，是全球前沿重大科研突破发表的绝对殿堂。
@@ -127,8 +117,6 @@ updated: 2026-10-22
 > *To advance science, engineering, and innovation throughout the world for the benefit of all people; to foster communication among scientists, engineers and the public; and to defend scientific freedom and responsibility.*
 
 ---
-
-## 影响与学术利用机制
 
 > [!indicators] 影响力维度与指标
 > - **会员与出版覆盖** 全球会员超过 12 万人，覆盖 91 个国家和地区；《科学》杂志每周全球读者逾百万人，是全球学术引文与公共媒体关注度最高的基础综合学刊之一。
@@ -150,8 +138,6 @@ updated: 2026-10-22
 > - **\$4.4B** AAAS 测算的 2006 财年联邦国土安全研发预算规模（较 2002 财年增长近两倍）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 42)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

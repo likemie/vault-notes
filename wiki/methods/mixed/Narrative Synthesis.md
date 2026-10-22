@@ -57,11 +57,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Narrative Synthesis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 叙事综合（Narrative Synthesis）是一种在[[Systematic Review\|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity\|异质性]]文献证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 136–138)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持[[Critical Realism\|批判实在论]]与[[Interpretivism|解释主义]]互补立场；认为社会与教育现实具有多层嵌套性与复杂情境性，经验现象不仅包含可测量的[[Effect Size\|效应量]]，更包含行动者的主观理解、情境互动与因果机制。
 > - **研究者角色** 研究者在综合过程中扮演积极的理论阐释者与[[Reflexivity\|反思性]]整合者，需要在不同[[Paradigm\|范式]]文献之间搭建对话桥梁，同时保持证据判别的自反性与透明度。
@@ -95,15 +89,11 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **发展理论与干预[[Logic Model\|逻辑模型]]** 明确干预措施如何运作、为何运作及预期的因果链路（Developing a theory of how the intervention works, why and for whom）。
 > 2. **开展初步综合** 通过逐项梳理、主题归纳、列表重组与初步归类，对各研究的原始发现形成结构化概要（Developing a preliminary synthesis of findings of included studies）。
 > 3. **探索研究内部与研究间关系** 识别不同研究结果间的共性模式、矛盾点、情境差异与调节中介机制（Exploring relationships in the data within and between studies）。
 > 4. **评估综合结论的稳健性与质量** 检验所纳研究的方法学严谨性、证据权重的可[[Reliability\|信度]]及潜在偏差对最终结论的影响（Assessing the robustness of the synthesis product）。
-
-### 混合方法模块
 
 > [!method-stack] 整合设计
 > - **设计类型** 汇聚型混合证据整合设计（Convergent Qualitative/Quantitative Synthesis Design）。
@@ -113,16 +103,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 纳入综述的研究在干预方案、研究设计、测量指标或人群特征上具有高度[[Heterogeneity\|异质性]]，导致无法进行统计[[Meta-analysis\|元分析]]；涉及跨学科、跨行业（如教育、医疗、社会工作）的复杂制度或机制研究。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 136–138)]]
 > - **谨慎使用** 文献仅有碎片化的定性观点且缺乏扎实的方法学记录，或[[Evaluation Research\|评价研究]]数量极少难以支撑跨研究比较。
 > - **不适合使用** 面对纯粹同质化的药物[[Clinical Trial\|临床试验]]或高度标准化的单一认知测验结果比较，此时应优先采用统计元分析。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者的主观选择偏倚（Confirmation Bias）、发表偏误（[[Publication Bias]]）及对不同[[Paradigm\|范式]]文献权重的赋权失衡。
@@ -142,8 +128,6 @@ updated: 2026-10-22
 > | [[Fitness for Purpose\|适切性]] | 概念标准 | 衡量证据类型与综合问题契合度的关键认识论基准。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 依据 Popay et al.（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity\|异质性]]文献，构建了 [[Quality Use of Research Evidence Framework\|QURE]] 框架。

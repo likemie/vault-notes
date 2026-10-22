@@ -44,11 +44,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Peter Sandiford
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英裔加拿大教育学家、教育心理学家，多伦多大学安大略教育学院（Ontario College of Education, University of Toronto）讲座教授，曾任教于哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）。
@@ -73,17 +69,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1918 — *Comparative Education: Studies of the Educational Systems of Six Modern Nations* (Editor & Contributor)** 全球首部通用比较教育教材，系统确立以国别为章、横向对比学制法令、师资行政与课程架构的标准化知识呈现体系。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 122)]]
 > - **1928 — *Educational Psychology: An Objective Study*** 倡导以客观实证与生物生理学规律解释学习过程，奠定北美实证教育心理学经典[[Paradigm|范式]]。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育学在大学课程体系中的合法性，建立在对各主权国家教育体系客观事实的系统、准确与标准化呈现之上。大学阶段的比较教育研究不应再满足于旅行者的零散见闻或带有强烈偏见的赞美与贬抑，而必须确立严谨的区域国别研究框架。通过系统考察美、德、英、法等现代大国在学制变迁、行政统筹与全民识字方面的经验成败，学生与学者方能辨析出各国教育体制如何由其独特的地理、历史与国家抱负所塑造，从而为本国教育政策改革提供宽广的跨国参照。
 
 > [!citation-card] 桑迪福德论国别教育比较对偏狭观念的克服
@@ -100,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] 贝雷迪论桑迪福德对比较教育大学制度化的奠基地位
 > [[George Bereday|乔治·贝雷迪]]在《比较教育评论》撰文考证，真正将比较教育转化为大学常规教学体制与学术发表阵地的标志性事件，正是 1918 年彼得·桑迪福德首部教材的问世；它将跨国教育材料从凌乱的政府报告升华为条理清晰的大学知识体系。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 122)]]
 
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > - **依托机构** 哥伦比亚大学[[Normal School|师范学院]]、多伦多大学安大略教育学院。
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用边界与国别并置局限
 > - 战后[[Scientific Paradigm|科学范式]]学者（如诺亚、埃克斯坦）曾批评桑迪福德开创的“国别教育（Education in ...）”教科书体例过于侧重国别制度的平行并列展示，本质上属于区域研究档案集锦，缺乏跨国横向假说检验与超越单一国家的理论通则抽象；但拉斯特等人指出，在大学[[Disciplinary Institutionalization|学科建制]]初期，正是这种详实严密的国别全景教材为后世一切高级比较分析奠定了坚实的经验事实地基。

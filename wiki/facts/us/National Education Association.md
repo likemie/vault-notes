@@ -69,11 +69,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# National Education Association
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > [[National Education Association\|全美教育协会]]（[[National Education]] Association, NEA）是美国历史最悠久、规模最大的公立学校教师专业组织与行业工会（代表逾 300 万公立中小学教师、高校教职工及教育支持专业人员），兼具教师劳工权益维护、联邦教育政策游说、专业教学标准研制与跨国循证共治多重职能。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 1)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1857–1960 年代 — 全国学术团体的创立与课程标准奠定** 1857 年创立后于 1870 年更名为全美教育协会（NEA）；早期主要由[[Grandes Ecoles|大学校]]长与学区督学主导，具有浓厚的精英学术学会色彩。1892 年设立著名的“十人委员会”（Committee of Ten），确立了全美中等教育以核心学术科目为基础的现代课程标准体系。
 > - **1960–2000 年代 — 劳工工会化转型与联邦教育立法攻坚** 1960 年代伴随公立雇员集体谈判权兴起，NEA 逐步从传统专业协会转型为具有强大集体谈判权与基层动员能力的现代劳工工会；1979 年通过强有力的两党游说推动卡特政府设立美国内阁级教育部（US Department of Education）；此后在《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]案》（ESEA）历次再授权中坚定捍卫公立学校财政拨款与教师编制。
@@ -98,8 +92,6 @@ updated: 2026-10-22
 >   - **抵制片面测试与主办第 11 届 ISTP 峰会（2015–2021）** 2015 年深度推动《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）通过，终结有缺陷的狭隘高利害统考惩罚机制；2021 年在华盛顿联合主办第 11 届 ISTP 峰会，围绕后疫情时代教育重建、教师身心福祉与[[Whole Person Education|全人教育]]达成全球共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 216)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **代表大会（Representative Assembly, RA）** 协会最高权力与决策机构，每年夏季举行，由全美各州地方分会普选产生的约 7000–9000 名教师代表组成，系全球规模最大的民主代议制决策会议，负责审决年度预算、重大决议与工会宪章修订。
@@ -114,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **国家课程标准研制中的专业审慎纠偏与可行性把关** 组织全美委员会认证一线名师深度介入国家课程标准（如 [[Common Core State Standards|CCSS]]）的编制与修改，通过多轮面对面会商与文本审读，以一线教师的专业审慎弥补学术因果实证的空白，确保国家方案具备课堂可操作性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15, 20)]]
 > - **21 世纪 4C 技能框架指南** 2012 年发布的《为全球社会培养 21 世纪学生：教育者 4C 指南》（*Preparing 21st Century Students for a Global Society: An Educator's Guide to the "Four Cs"*），系统确立了[[Critical Thinking|批判性思维]]与[[Problem Solving|问题解决]]、沟通、协作、[[Creativity|创造力]]与创新四大课堂教学转化指标。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
@@ -129,8 +119,6 @@ updated: 2026-10-22
 > *As the world becomes more interconnected, basic skills are no longer sufficient. Critical thinking and problem solving, communication, collaboration, and creativity and innovation (the "Four Cs") are essential competencies for students preparing for a global society.* (NEA, 2012; 引自 [[Argument_Park_2026_TSC|Park et al., 2026, p. 1]])
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **会员组织规模** 全美逾 300 万会员，覆盖学前、基础教育及高等教育，系全美最大单一劳工组织。
@@ -148,8 +136,6 @@ updated: 2026-10-22
 > - **50** （州） 覆盖全美所有州的联合分会网络。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

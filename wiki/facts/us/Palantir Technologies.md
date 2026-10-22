@@ -93,11 +93,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Palantir Technologies
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 帕兰提尔科技公司（Palantir Technologies Inc.）是美国领先的大数据集成、情报分析与防务人工智能软件企业，以开创[[Man-Computer Symbiosis|人机共生]]操作系统与深度服务西方国家安全战略著称，构成了现代[[Technological Republic|技术共和国]]中联结前沿科技创新与国家[[Hard Power|硬实力]]构建的标志性产业中枢。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025)]]
@@ -111,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2003–2008 — 初创奠基与防务情报突破** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel）、[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）等人共同创立企业；研发针对反恐反洗钱的 Gotham 平台。
 > - **2008–2016 — 阿富汗前线战火淬炼、市政警务探索与诉讼突围** 深入阿富汗战区（坎大哈与赫尔曼德省），直面简易爆炸装置（Improvised Explosive Device, IED）危机，前沿工程师与美军第82空降师情报官紧密协同迭代数据分析系统；在 2011 年硅谷沉迷于社交与[[Consumer Internet|消费互联网]]狂热之际逆流坚守防务；2012 年起与新奥尔良警察局合作，将战区级 Gotham 平台降维应用于城市[[Predictive Policing|预测性警务]]与涉枪暴力犯罪网络研判；2016 年依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（Federal Acquisition Streamlining Act of 1994, FASA）起诉美国陆军垄断性定制采购并大获全胜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–176)]]
@@ -120,8 +114,6 @@ updated: 2026-10-22
 > - **2018 至今 — 赢得防务记录项目与人工智能中枢** 击败雷神等传统军工巨头赢得陆军数十亿美元分布式通用地面系统（Distributed Common Ground System-Army, DCGS-A）采购合同，开创硅谷初创软件公司主导重大防务记录项目的先河；在谷歌因员工抗议退出[[Project Maven|梅文项目]]之际坚定接棒五角大楼核心算法工程；推出人工智能平台（[[Generative Artificial Intelligence|Artificial Intelligence]] Platform, AIP），成为全域联合指挥控制（Joint All-Domain Command and Control, JADC2）与现代无人系统协同算法的底层操作系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 41–55)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 153–154)]]
 
 ---
-
-## 治理架构与工程文化
 
 > [!actor-grid] 组织治理与微观架构
 > - **联合创始人与核心领导层** [[Alexander Karp|亚历山大·卡普]]担任首席执行官，[[Peter Thiel|彼得·蒂尔]]担任董事长，[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）主管企业事务与国家安全政策。
@@ -137,8 +129,6 @@ updated: 2026-10-22
 > - **[[Five Whys|五问法]]与免责根因复盘机制** 深度借鉴[[Taiichi Ohno|大野耐一]]（Taiichi Ohno）的根本原因分析法，开展数千次五问法复盘并形成详尽书面报告；抑制指责个人的冲动，将软件交付延期与系统失误深入追溯至预算削减、考核导向与高管人际互动等深层组织根源，培育宽容试错与主动暴露问题的心理安全文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 
 ---
-
-## 核心产品与业务矩阵
 
 > [!finding-cards] 核心技术平台矩阵
 > 1. **Palantir Gotham** 面向国防安全、反恐侦查与执法情报的全域数据融合与态势感知平台，支持从海量非结构化情报中实时识别威胁网络。
@@ -158,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键战略与文化影响
 > 1. **重塑国家安全技术联盟[[Paradigm|范式]]** 打破了硅谷主流科技巨头在冷战后与国家防务脱钩的虚无主义潮流，重新确立了前沿科技企业与自由民主国家战略安全共生的传统。
 > 2. **开创现代软件战争与[[AI Deterrence|算法威慑]]先河** 在乌克兰冲突与中东反恐中证明了软件算力、卫星遥感与[[Autonomous Drone Swarms|自主无人机蜂群]]融合的决定性杀伤效能，推动五角大楼将预算重心由传统重型动能硬件转向算法与软件中枢。
@@ -171,8 +159,6 @@ updated: 2026-10-22
 > - [[Argument_Cheng_2026_KeJiChuangXin|程楠等 (2026)]] — 梳理美国中央情报局 In-Q-Tel 战略风投机制对国防科技初创企业的孵化支撑。
 
 ---
-
-## 核心争议与批评
 
 > [!debates] 核心争议交锋
 >

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Appropriately Challenging Goals
-
 > [!metax] [适度挑战性目标 · Appropriately challenging goals](https://www.visiblelearningmetax.com/influences/view/appropriately_challenging_goals)
 > 教学策略 › 学习意图
 >

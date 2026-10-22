@@ -44,13 +44,9 @@ created: '2026-05-08'
 updated: 2026-10-22
 ---
 
-# Social Engagement
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 社会性投入（Social Engagement）是[[Student Engagement\|学生投入]]理论的两大核心维度之一，指学生向大学中人际互动、课外活动、职业探索和社会融入等方面的教育性实践活动投入的时间和精力——包括加入学生组织与社团、参与实习和志愿服务、与教师和同伴建立关系等（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在[[Yajun Zheng\|郑雅君]]（2023）的"大学过程"[[Analytic Framework\|分析框架]]中，社会性投入与[[Academic Engagement\|学业投入]]并列构成"投入过程"的两大分析轴。
 
 > [!quote|notitle]
@@ -90,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]第4章揭示社会性投入在两种大学生活组织模式中的系统性差异，且这一差异对毕业出路的影响可能超过[[Academic Engagement\|学业投入]]差异：
 > - **[[Goal-Controlled Mode\|目标掌控模式]]** 社会性投入被视为**自我探寻和职业锚定的核心机制**——学生通过实习、人际网络、课外活动探索职业方向、积累雇主看重的软技能（如钦凯的"演绎"能力），并发展出顺藤摸瓜型或试错型的职业探索路径
 > - **[[Intuition-Dependent Mode\|直觉依赖模式]]** 社会性投入**被习惯性忽略**——弱势学生在名校中面临"语言包"不适配（文化语码差距）、屡次社团面试失败后的"弃疗"、对社交的根本性疏离，导致出路决策高度被动

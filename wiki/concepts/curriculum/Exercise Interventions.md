@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Exercise Interventions
-
 > [!metax] [运动干预 · Exercise interventions](https://www.visiblelearningmetax.com/influences/view/exercise_interventions)
 > 课程 › 其他课程项目
 >

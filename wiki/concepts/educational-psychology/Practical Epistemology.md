@@ -61,8 +61,6 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Practical Epistemology
-
 ---
 
 ## 定义
@@ -89,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 实践[[Epistemology\|认识论]]与相近认识论[[Construct\|构念]]辨析
 > | 比较维度 | 实践认识论（Practical Epistemology） | [[Formal Epistemology\|形式认识论]]（Formal Epistemology） | [[Epistemic Practices\|认识论实践]]（Epistemic Practices） | 个人认识论（Personal Epistemology） |
 > |---|---|---|---|---|
@@ -104,8 +100,6 @@ updated: 2026-10-22
 ## 核心要素
 
 实践[[Epistemology|认识论]]涵盖认知维度的基本特征，以及在微观[[Discourse Analysis|话语分析]]中得以[[Operationalization|操作化]]的分析机理。
-
-### 核心认知特征
 
 > [!feature] 实践认识论的三大核心特征（[[Argument_Sandoval_2005_SE\|Sandoval, 2005, pp. 648–649]]）
 > - **隐性与情境嵌入性（Tacit & Situated）** 实践认识论通常是隐性的，学生往往无法用命题语言流利表述，而是直接投射在如何选择证据、何时终止探究等即时行动决策之中。
@@ -175,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -186,8 +178,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 实践[[Epistemology\|认识论]]概念演变
 > - **1990s — 个人认识论与信念发展研究** Perry、King & Kitchener 等学者开创个人认识论研究，将认识论视为相对稳定的阶段性心智模型，主要通过[[Questionnaire\|问卷]]和访谈测量。
 > - **2000 年 — 远端与近端认识论区分** Hogan (2000) 提出近端认识论概念；[[Argument_Sandoval_2005_SE\|Sandoval (2005)]] 正式系统阐发实践认识论（Practical Epistemology），明确将其与关于专业科学的[[Formal Epistemology\|形式认识论]]相对立。
@@ -195,8 +185,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 融入[[Epistemic Practices\|认识论实践]]与课堂元话语研究** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] 等学者将实践认识论与微观[[Ethnography\|人种志]]、科学实践四维行动模型及教师显性元话语结合，服务于促进包容性科学学习与培育[[Citizen Science\|公民科学]]素养。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议
 >
@@ -215,8 +203,6 @@ updated: 2026-10-22
 > 2. **微观 PEA 编码的高推论难度** 识别课堂话语中的立足点与意义裂隙高度依赖[[Transcription in Qualitative Research\|转录]]上下文与研究者的[[Reflexivity\|反身性]]解释，较难进行大规模量化标准化编码（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 149–150]]）。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 实践[[Epistemology\|认识论]]微观实证与[[Discourse Analysis\|话语分析]]研究（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

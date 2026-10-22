@@ -56,11 +56,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Cindy E. Hmelo-Silver
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国印第安纳大学布鲁明顿分校（Indiana University Bloomington）教育与认知科学杰出讲席教授（Distinguished Professor），学习科学研究中心主任，国际学习科学学会（ISLS）前主席与终身会士（ISLS Inaugural Fellow）。
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000 年代初 — 问题导向学习（PBL）理论集大成阶段** 系统解构 PBL 在激发内在动机、培养临床推理、[[Metacognition\|元认知监控]]与灵活[[Knowledge Building Theory|知识建构]]四个维度的运作机理，发表划时代权威综述。
 >   - **代表著作** *[[Problem-Based Learning]]: What and how do students learn?* (2004).
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 科学教育中的[[Problem Solving\|复杂问题解决]]绝非放任学生漫无目的地盲目试误，但更不能退化为剥夺学生能动思考的机械听讲。有效的学习环境必须依托多层次、自适应的[[Scaffolding\|认知脚手架]]（包含白板工具、[[Concept Mapping\|概念图]]、同伴协作规范与及时的微观讲授），将复杂的[[Wicked Problem|劣构问题]]空间结构化；通过“先让学生在有支持的环境中面对问题挑战并经历试错、随后由教师适时进行系统概念统整”的时序闭环，才能最大化落实深层理解与长效迁移。
 
 > [!citation-card] 论[[Inquiry-Based Learning\|探究式学习]]中脚手架支持的核心定位

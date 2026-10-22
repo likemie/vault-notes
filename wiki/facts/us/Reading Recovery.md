@@ -56,11 +56,7 @@ created: '2026-09-17'
 updated: 2026-10-22
 ---
 
-# Reading Recovery
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 阅读恢复方案（Reading Recovery）是由新西兰儿童心理学家玛丽·克莱（Marie Clay）于 1970 年代创立、并于 1984 年引入美国的经典早期阅读一对一短期干预项目，作为[[Response to Intervention\|干预反应模型]]（[[Response to Intervention\|RTI]]）中典型的 Tier 3 密集辅导方案，专为公立小学一年级阅读最困难的倒数 10%–20% 学生提供早期补救。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **核心问题导向** 阻断处境不利儿童由于早期阅读障碍导致的持续性学业失败，在儿童转入高成本特殊教育之前通过密集干预恢复其常规阅读轨迹。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 项目假设通过专业认证教师每日开展 30 分钟高保真度的一对一个别辅导，结合儿童自选阅读材料、动态观察记录（Running Records）与针对性拼读策略，能够使绝大多数原本需要转入特殊教育的落后儿童在半学年内重返年级平均阅读水平。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
@@ -90,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1970 年代 — 新西兰研发与理论成型期** 玛丽·克莱通过对儿童早期阅读行为的[[Qualitative Observation\|质性观察]]与临床测验，系统研发 Reading Recovery 干预规程。
 > - **1984–2009 — 北美扩散与跨国规模化期** 俄亥俄州立大学建立全美培训中心网络，广泛进入各州公立小学 [[Title I of the Elementary and Secondary Education Act\|Title I]] 辅导项目。
@@ -99,15 +91,11 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 核心实证结论
 > - **显著的即时因果效应** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 汇总的 4 项符合严格因果标准的[[Evaluation Research\|评估研究]]显示，Reading Recovery 平均[[Effect Size\|效应量]]达 $ES = +0.42$，在 [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 中均被评定为强证据（Strong）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **成本效益与普及瓶颈** 虽然教学效能卓越，但由于必须配备全职认证教师且师生比为 1:1，每生干预成本高达数千美元；[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）指出，由受训助教实施的脚本化辅导（如 [[Sound Partners]] $ES = +0.43$）能以不到一半的人力成本取得相当的阅读提升，为公立学校提供了更高性价比的替代选项。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 阅读恢复方案（Reading Recovery）关键实证数据汇总
 > | [[Evaluation Research\|评估研究]]来源 | 研究设计 | 样本规模 | 辅导形态与师资 | 测量工具 | 核心效应量（$） | [[Every Student Succeeds Act\|ESSA]] 证据等级 |

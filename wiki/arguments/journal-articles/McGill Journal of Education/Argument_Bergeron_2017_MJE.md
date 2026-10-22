@@ -74,7 +74,6 @@ argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: McGill Journal of Education
 ---
-# Argument_Bergeron_2017_MJE
 
 ---
 
@@ -91,8 +90,6 @@ journal: McGill Journal of Education
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -105,8 +102,6 @@ journal: McGill Journal of Education
 > 上述统计学理论工具共同构建了评判教育证据合成的方法论支架：Allison et al. (2016) 的分类直接锁定了哈蒂工作中最严重的计算错误与基线比较问题；McGraw & Wong 的数学公理直接[[Falsification|证伪]]了哈蒂报告的不可能概率；Borenstein et al. (2009) 的尺度要求揭示了公式混用与相关系数转换中的维度丢失；最后，Fisher 的统计哲学指明了教育学界单凭直觉处理海量数据所必然引发的认识论灾难，推导出全周期专业统计咨询的必要性。（pp. 239–245）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -123,8 +118,6 @@ journal: McGill Journal of Education
 > | **文本情境** | 《麦吉尔教育学刊》（McGill Journal of Education, MJE）论坛发表，因学术反响强烈由法文原版翻译为英文版发表。（p. 237） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -314,8 +307,6 @@ journal: McGill Journal of Education
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **初等概率计算崩溃** 常见语言[[Effect Size|效应量]]计算出现严重失误，汇报了不可能出现的负概率与超过 100% 的概率数值，暴露其缺乏基本的数理审查。（p. 239）
 > 2. **基线比较主观任意** 效应量的正负符号与量级完全受制于基线总体的选取，基线反转直接将[[Class Size|班级规模]]微弱正面效应逆转为有害效应、将贫困差距转化为全书最严重的负面损害。（pp. 240–242）
@@ -332,8 +323,6 @@ journal: McGill Journal of Education
 > - **$d \to \infty$** 对照组在零方差自相关条件下代入公式 (c) 产生的极限发散值。（pp. 243–244）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 审视[[Visible Learning|可见的学习]]的纸牌屋本质
 > 当以专业专家的眼光对《可见的学习》展开必要的深入审视时，所见全无坚固城堡的结构，唯有一座迅速崩塌的脆弱纸牌屋。

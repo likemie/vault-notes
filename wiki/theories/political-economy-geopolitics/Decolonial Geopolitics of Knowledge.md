@@ -82,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展脉络
-
 > [!note] 1990s–2000s 奠基期
 > - 1993 Enrique Dussel 发表 *Eurocentrism and Modernity*，批评后现代性对现代性的批判"必要但不充分"，指出欧洲内部批判不足以捕捉殖民差异（Dussel, 1993, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）
 > - 1999 Dussel 出版 *Postmodernidad y Transmodernidad*，发展"跨现代性"（transmodernity）概念作为超越后现代性的替代方案

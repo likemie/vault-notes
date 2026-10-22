@@ -36,14 +36,10 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# Alliance for Southern California Innovation
-
 > [!info] 背景
 > 南加州创新联盟（Alliance for Southern California Innovation，简称"the Alliance"）是 2017 年成立的非营利组织（p.141）。其目标是吸引和统一南加州多样化的人才、创意和视角，以优化区域创新者将突破性成果推向世界的条件。
 
-## 主要活动
-
-> [!abstract|notitle]
+> [!abstract] 主要活动
 > 联盟的项目聚焦于（p.141）：
 > - 发展和连接南加州多元化的创新社区
 > - 识别、培育高潜力初创企业并将其与领先的风险投资者匹配，以吸引新资本进入南加州

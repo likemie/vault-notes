@@ -61,11 +61,7 @@ created: 2026-06-26
 updated: 2026-10-22
 ---
 
-# Total Factor Productivity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **全要素生产率（Total Factor Productivity, TFP / 索洛残差）** 是宏观与产业经济学中衡量生产效率的核心指标，指在总产出增长中扣除资本存量与劳动投入等有形要素增长贡献后的剩余部分（Residual）。在柯布-[[Jack Douglas|道格拉斯]]（Cobb-Douglas）生产函数框架下，全要素生产率通常表述为索洛残差（Solow residual）：$\ln A_{jt} = \ln y_{jt} - \alpha_j \ln k_{jt}$（其中 $y_{jt}$ 为人均产出，$k_{jt}$ 为资本劳动比，$\alpha_j$ 为资本产出弹性）。它综合反映了前沿技术进步、工艺改进、组织管理创新、资源重置效率及[[Learning by Doing|干中学]]经验积累对经济增长的总体贡献。在跨国经济竞争与现代产业战略中，先进制造业由于其极高的研发密集度与跨行业外溢性，被公认为驱动全社会全要素生产率持续增长的战略引擎。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1075–1078)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 14–15)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 全要素生产率与主要生产率指标辨析
 > | 生产率维度 | [[Total Factor Productivity\|全要素生产率（TFP）]] | 劳动生产率（Labor Productivity） | 资本生产率（Capital Productivity） | 绿色全要素生产率（Green TFP） |
 > |:---|:---|:---|:---|:---|
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > | **政策应用重点** | 国家长期技术创新战略与产业升级评估。 | 工资协商、岗位技能培训与人均薪酬挂钩。 | 固定资产[[Return on Investment\|投资回报率]]与产能过剩预警。 | 双碳目标考核、环境规制与可持续转型评价。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 全要素生产率的核心核算要素与驱动构件
 > - **总产出度量（Gross Output & Value Added）** 使用行业总增加值（Value Added），并通过精细的行业平减指数转换为不变价格序列，剔除通货膨胀与名义价格波动干扰。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, p. 1076)]]
@@ -174,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 全要素生产率相关理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -193,8 +183,6 @@ updated: 2026-10-22
 > - **2020年代 — 现代产业战略与供给侧 TFP 重建** 伊丽莎白·雷诺兹（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）等学者将全要素生产率置于大国产业转型核心，强调通过国家[[Modern Industrial Policy|现代产业政策]]重塑先进制造产能、攻克核心供应链瓶颈，从供给侧恢复长期 TFP 增长动能。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -214,8 +202,6 @@ updated: 2026-10-22
 > TFP 作为高度综合的宏观统计指标，在面对极端非市场环境（如计划经济、受出口管制的战时经济）时，因价格严重失真与资本存量折旧缺乏市场锚定，测算容易出现系统性偏差；在评估新兴数字经济与绿色转型时，传统 TFP 无法自动计入数据资产与生态环境溢出。
 
 ---
-
-## 实证数据
 
 > [!stat-cards]- 两德行业 TFP 数据（[[Argument_Glitz_2020_AmEconRev|Glitz & Meyersson, 2020]]）
 > - **1.490** 两德对数 TFP 的非加权平均差距（1970–1989）。（p. 1077, Table 1）

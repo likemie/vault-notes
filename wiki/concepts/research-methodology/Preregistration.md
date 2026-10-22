@@ -87,11 +87,7 @@ created: '2026-05-02'
 updated: 2026-10-22
 ---
 
-# Preregistration
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 预注册（Preregistration）指在干预实施或数据收集分析开始前，公开登记并时间戳锁定研究设计、[[Sample Size Determination\|样本量]]规划、主要与次要结果测量以及[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）的制度化科研实践。在教育与公共政策评估中，预注册旨在遏制事后数据钓鱼（p-hacking）、结果选择性报告（selective reporting）、[[Publication Bias\|发表偏倚]]以及[[Researcher Degrees of Freedom\|研究者自由度]]，构筑[[Causality\|因果推断]]透明度与证据可[[Reliability\|信度]]的前置防线。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
@@ -119,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 预注册及相关开放科学规程的对比辨析
 > | 维度 | 常规科学预注册（如 OSF） | 教育评估注册（如 REES） | 国际临床与试验注册（如 [[ISRCTN]]） | 期刊注册报告（Registered Reports） |
 > |---|---|---|---|---|
@@ -130,8 +124,6 @@ updated: 2026-10-22
 > | **违规或偏离后果** | 主要依赖学术共同体的事后监督与声誉机制 | 偏离 SAP 会被 [[What Works Clearinghouse\|WWC]] 降级或标记为不符合标准 | 评估报告偏离原案会在系统核查中被标记，影响评级 | 偏离方案可能直接撤销发表资格，探索性分析需严格隔离 |
 
 ---
-
-## 核心要素
 
 > [!feature] 预注册的核心要素体系
 > - **研究设计与[[Random Assignment\|随机化]]方案** 明确界定实验设计（如[[Cluster Randomized Trials\|整群随机试验]]、阶梯楔形设计）、分配单位（学生、班级、学校）、随机化序列生成机制以及[[Sample Size Determination\|样本量]]与最小可测[[Effect Size\|效应量]]（MDES）规划。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, pp. 443–444)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
@@ -224,8 +216,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -235,8 +225,6 @@ updated: 2026-10-22
 > | **制度绑定与惩戒防线** | 预注册必须与独立评估人制度、合同隔离及证据安全评级扣分形成硬性约束联动 | 国家级证据中介、公共资助大规模评估与政策采纳 | Burgess et al. (2019); The EEF (2019c) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 概念演变历程
 > - **2000s — 医学与[[Clinical Trial\|临床试验]]登记起源** 面对制药行业严重的[[Publication Bias\|发表偏倚]]与选择性披露危机，国际医学界建立 ClinicalTrials.gov 与国际标准[[Randomised Controlled Trials\|随机对照试验]]编码（[[ISRCTN]]）机制，将试验注册确立为国际顶刊发表的前置法定要求。
@@ -248,8 +236,6 @@ updated: 2026-10-22
 > - **2025 — 预注册[[Paradigm|范式]]扩展至宏观[[Meta-meta-analysis|二阶元分析]]审计** 瑞典卡尔门达尔（Kalmendal）等学者在开放科学框架（Open Science Framework，OSF）上完成首个针对二阶元综合（《[[Visible Learning|可见的学习]]》）全量审计方案的预注册（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），将预注册规范由传统的“单一干预试验与一阶[[Meta-analysis|元分析]]”前沿拓展至“宏观证据清理与[[Metascience|元科学]]审计”，确立了三阶审计锁定的新标准。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -270,8 +256,6 @@ updated: 2026-10-22
 > - 预注册不能防止由于现场执行妥协带来的[[Internal Validity\|内部效度]]损失，例如严重的数据收集质量滑坡、学生大面积流失或测量工具本身的系统性偏倚。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 预注册与试验规范在教育干预评估中的实证表现与合规指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -65,11 +65,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Sage
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **圣人（Sage / Shengxian / 圣贤）** 是[[Confucian Learning Tradition|儒家学习传统]]与比较哲学中的终极理想人格，代表了人类道德卓越、普世[[Benevolence|仁爱]]与知行合一的最高境界。在[[Jin Li|李瑾]]（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 41–44]]）的阐释中，圣人超越了“士”与“[[Junzi|君子]]”的阶梯，指那些将同理心、关怀与仁德无差别地扩展至全人类的完人；其可达性在历史上经历了从先秦[[Confucius|孔子]]的“遥不可及”到[[Neo-Confucianism|宋明理学]]“人人皆可成圣”的平民化演变。而在现代比较政治与制度诊断中，亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）进一步将“圣人/神职人员”作为一种制度假设进行反思——指出若在公共治理中不切实际地假定公职人员皆为不求物质回报的道德圣人，反而会扭曲制度激励，构筑隐性[[Red Tape|繁文缛节]]并加剧治理阶层的寡头化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–47)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 圣人与相近德性及治理原型的辨析
 > | 维度 | 儒家圣人（Sage） | 儒家君子（[[Junzi\|Junzi]]） | [[Plato\|柏拉图]]哲学王（Philosopher King） | 现代专业技术官僚（Technocrat） |
 > |:---|:---|:---|:---|:---|
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > | **可达性与门槛** | 宋明后主张人人皆可成圣（平民化） | 经由系统教化与修身均可达到 | 极少数具备哲学天赋之精英专属性 | 依赖现代大学专业教育与公务员考试 |
 
 ---
-
-## 核心要素
 
 > [!feature] 圣人概念的核心要素
 > - **普世[[Benevolence|仁爱]]与天下关怀** 圣人的仁爱突破亲疏血缘的局限，无条件扩展至全人类与天下苍生（[[Take the World Upon Oneself|以天下为己任]]）。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
@@ -178,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 圣人概念的核心理论命题归纳
 > | 命题维度 | 核心理论指向 | 适用情境 | 代表学者与实践者 |
 > |:---|:---|:---|:---|
@@ -190,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 圣人概念的历史与跨文化演进
 > - **公元前 5 世纪 — 先秦德性奠基** [[Confucius|孔子]]确立尧、舜、禹、周公等历史圣人典范，以[[Benevolence|仁爱]]界定圣人境界，但自谦未达；[[Mencius|孟子]]提出“人皆可以为尧舜”，奠定普遍成圣的性善论潜能。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 42)]]
 > - **11 世纪 — 宋代理学“学以至圣”** [[Cheng Brothers|二程]]与[[Zhu Xi|朱熹]]将成圣从遥远图腾转化为系统[[Self-Cultivation|修身]]工夫，以《大学》[[The Great Learning|八条目]]规范格物、致知、诚意、正心、修齐治平的成圣通途。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 44–46)]]
@@ -201,8 +189,6 @@ updated: 2026-10-22
 > - **2025 年 — [[Technological Republic|技术共和国]]与制度激励反思** 卡普与扎米斯卡在《技术共和国》中系统批判西方政治将公职人员预设为圣人的虚伪禁欲主义，主张以[[Engineering Mindset|工程思维]]与利益对称重塑现代公共治理能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 179–189)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与哲学争议
 >
@@ -222,8 +208,6 @@ updated: 2026-10-22
 > 圣人概念在个体德性追求、精神成人与文化传统研究中具备深厚的感召力与解释力；但在设计现代公共政策、官僚薪酬体系与法律问责制度时，切忌直接以“圣人假设”替代制度性的监督、问责与权责对称机制。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 圣人概念相关文化学习词汇与现代治理实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

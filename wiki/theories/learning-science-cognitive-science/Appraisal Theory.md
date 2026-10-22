@@ -43,13 +43,9 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Appraisal Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 情绪的生成机制及其与认知的关系，以及文化对情绪体验的塑造。
 > - **理论问题** 情绪是纯粹的物理生理反应还是受认知中介的过程？文化如何以及在哪个阶段参与情绪的调节？
 > - **理论类型** 心理学机制模型与文化心理学[[Analytic Framework\|分析框架]]。
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > In order for us to experience any emotion, we use our mind to appraise the event to determine its relevance and importance to ourselves before our emotions are generated.
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 情绪生成的七阶段命题链
 > - **前提一：认知评估中介** 情绪过程起源于对事件的心理表征和分类（编码），即评估“这对我意味着什么”。([[Argument_Li_2012_Cambridge\|Li, 2012, p. 54]])
@@ -100,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键概念与理论构件
-
 > [!theory-components] 理论构件
 > - **评估 (Appraisal)** 理论的核心构件，指个体对事件之于自我的意义 and 重要性所做的认知评价过程。([[Argument_Li_2012_Cambridge\|Li, 2012, p. 54]])
 > - **事件编码 (Event Coding)** 将前因事件按文化所认可的类别进行归类的心理表征过程。
@@ -116,8 +108,6 @@ updated: 2026-10-22
 > - **不能直接推出的东西** 不能由相同的外部物理刺激直接推导或预测个体的最终情绪体验，必须引入其中介评估和文化背景。
 
 ---
-
-## 分析框架与使用方式
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 可用于研究少数族裔学生、跨文化学习者在学校环境中的[[Parental Cognitive and Affective Socialization\|情感社会化]]（Affective Socialization）过程。
@@ -138,8 +128,6 @@ updated: 2026-10-22
 > - **2012 — 教育研究应用 ([[Argument_Li_2012_Cambridge\|Li, 2012]])** Li 将该理论引入对中西家庭母子互动和[[Parental Cognitive and Affective Socialization\|情感社会化]]的对比分析中。
 
 ---
-
-## 争议与批评
 
 > [!tension] 争议焦点
 > - **认知与情绪的先后顺序** Zajonc 等学者批评认为，情感反应可以在不发生认知评估的情况下独立产生（即“情感在认知之先”）。

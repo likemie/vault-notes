@@ -45,11 +45,7 @@ created: 2026-08-26
 updated: 2026-10-16
 ---
 
-# Research Literacy Scale for Teachers
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 教师[[Research Literacy\|研究素养]]量表（Research Literacy Scale for Teachers, RLS）
 > - **工具类型** 自陈量表（5 级李克特等级量表）。
@@ -58,8 +54,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔或在线自陈[[Questionnaire\|问卷]]施测。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Research Literacy]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -72,8 +66,6 @@ updated: 2026-10-16
 > | **[[Research Utilization\|研究使用]]（Research use）** | 7 | 测量教师在日常备课、教学法改进与教育决策中运用科研成果的实际行为 | 5 级计分均值（1–5 分） |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 行为与信念自陈陈述句。
@@ -142,8 +134,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -167,8 +157,6 @@ updated: 2026-10-16
 > | **总量表** | 20 | 3.95 | 0.53 | .48–.72 | .94 | .95 | — | — |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

@@ -38,7 +38,6 @@ status: draft
 created: '2026-05-06'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Kimberly Ochs 是比较教育学者，与 [[David Phillips]] 合作开发了[[Policy Borrowing\|政策借用]]四阶段模型和[[Cross-National Attraction\|跨国吸引]]力结构性类型学——教育政策转移研究领域的基础性[[Analytic Framework\|分析框架]]。她的博士论文（牛津大学，2005）进一步深化了对政策借用与教育改革和创新之间关系的理论化。
@@ -53,8 +52,6 @@ updated: 2026-10-22
 > - Phillips, D. & Ochs, K. (2004a). Researching policy borrowing: some methodological problems in comparative education. *British Educational Research Journal*, 30(6), 773–784. — 反思政策借用研究方法论困境
 > - Phillips, D. & Ochs, K. (Eds.) (2004b). *Educational Policy Borrowing: historical perspectives*. Oxford: Symposium Books. — 政策借用历史案例汇编
 > - Ochs, K. (2005). *Educational Policy Borrowing and its Implications for Reform and Innovation*. Unpublished D.Phil dissertation, University of Oxford. — 深化政策借用理论，区分政策文本与政策[[Discourse|话语]]，提出四种"火花"动机分类
-
-## 核心思想
 
 > [!info] 政策文本与政策[[Discourse|话语]]的区分
 > Ochs 在 Ball (1994) 的基础上，对教育政策转移做出了重要区分([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 233, 227]])：

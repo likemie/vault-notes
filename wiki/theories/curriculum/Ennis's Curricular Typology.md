@@ -48,13 +48,9 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Ennis's Curricular Typology
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** [[Critical Thinking\|批判性思维]]教学在学校课程中的不同组织架构与实施路径。
 > - **理论问题** 批判性思维应如何与具体学科内容相结合？显性思维规则教学与学科情境浸入如何协同以实现最佳学习迁移？
 > - **理论类型** 中层课程分类与教学设计理论（Curricular Typology & Instructional Design Model）。
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > *Ennis (1989) proposed a typology of four approaches to teaching critical thinking: the general approach, the [[Infusion Approach]], the [[Immersion Approach]], and the mixed approach... distinguished by the explicitness of CT instruction and its relationship to subject-matter content.*
 
 ---
-
-## 关键概念与理论构件
 
 > [!logic-map]- [[Robert Ennis|恩尼斯]]课程教学四维进路拓扑结构
 > ```mermaid
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据汇总
-
 > [!ma-table]- [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] Ennis 课程模式[[Meta-analysis\|元分析]]检验矩阵
 > | 课程模式 | 核心设计特征 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 组间检验 $Q_b$ (df, $p$) | 理论解释与教学启示 |
 > |---|---|---|---|---|---|---|---|
@@ -146,8 +138,6 @@ updated: 2026-10-22
 > | **[[Immersion Approach\|学科沉浸模式]]（[[Presence\|immersion]]）** | 隐性渗透，不讲授通用思维规则 | 61 | **0.23** | 0.12 | 0.34 | | **效果最弱**；证明缺乏显性引导的“自发领悟”假设在统计上不成立。 |
 
 ---
-
-## 理论争议与边界反思
 
 > [!debates] 课程落地争议
 > - **课时挤压与师资负担之争** 混合模式虽然实证效果最佳，但对学校课时调配（需要单独设立思维课）与跨学科教师协同（学科教师必须掌握统一的思维术语）提出了极高要求。在基础教育实践中，[[Infusion Approach\|学科融入模式]]（Infusion）因其对课时体系改动最小、落地成本最低，常被作为大规模教学改革的首选折中方案。

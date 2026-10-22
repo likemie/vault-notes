@@ -44,11 +44,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Peter Facione
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育哲学家、认知测评专家，芝加哥洛约拉大学（Loyola University Chicago）前教务长、圣塔克拉拉大学（Santa Clara University）荣休教授，Insight Assessment 创始人。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > - **2000s–至今** 先后出任圣塔克拉拉大学文理学院院长、芝加哥洛约拉大学教务长，持续推动批判性思维在医学、军事、商业与基础教育课程中的制度化落地。
 
 ---
-
-## 主要著作与学术贡献
 
 > [!work-line] 主要代表作与测评工具
 > - **1990 — *[[Critical Thinking]]: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction (The Delphi Report)*** 美国哲学学会里程碑共识报告，系统奠定了六大技能与七大倾向的理论框架。

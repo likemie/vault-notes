@@ -57,11 +57,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Normative Paradigm
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **规范[[Paradigm\|范式]]（Normative Paradigm）**，亦称**规范模型（normative model）**，是由社会学家[[Jack Douglas\|道格拉斯]]（Jack Douglas, 1973）提出并由 Cohen et al.（2011, Ch. 1, pp. 17–18）在教育研究方法论中系统阐发的上位范式概念。该范式统摄了[[Positivism\|实证主义]]、[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]的核心取向，建立在两大基本导向假定之上：其一，人类行为在本质上受规则所统治（human behaviour is essentially rule-governed）；其二，人类行为应当采纳自然科学的方法进行[[Survey Research\|调查研究]]（investigated by the methods of natural science）。规范范式将社会视为独立于行动者的客观外在集合体，以“行为”（过去前因驱动的反应）为核心研究对象，致力于通过量化与经验实证程序构建普适的宏大理性大厦（rational edifice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 规范[[Paradigm\|范式]] vs [[Interpretive Paradigm\|诠释范式]]的方法论全景辨析
 > | 比较维度 | 规范范式（Normative Paradigm） | 诠释范式（Interpretive Paradigm） |
 > |---|---|---|
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **行为导向与过去[[Determinism\|决定论]]（Behaviour and Past Determinants）** 将人视为对环境刺激与内在驱力作出反应的客体，行为的原因深植于过去的先行条件之中，排斥主观自由意志与即兴偶发。
 > - **宏大理性大厦的建构（Universal Rational Edifice）** 坚信科学的最高追求在于建立一套覆盖全部社会现象的普遍定律体系，研究旨在不断扩展和证实这一高度抽象的理论大厦。
 > - **社会作为外在集体实在（Collectivity as External Reality）** 视社会、制度、学校与班级为客观存在的实体单元，主张宏观结构具有超越个体的独立法则与自足运作逻辑。
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕规范范式形成的理论命题总览
 > | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
@@ -174,8 +164,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 范式多元共生与后实证重构** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] 系统将规范范式与诠释范式作为教育研究哲学的双支柱坐标，并在[[Mixed Methods Research\|混合方法]]与[[Complexity Theory\|复杂性理论]]的交融中深化对其方法论适用边界的审视。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -196,8 +184,6 @@ updated: 2026-10-22
 > - **迷信[[Technical Rationality\|技术理性]]与抽象脱域** 沉迷于数学建模与复杂统计指标的自洽性，使研究者愈发远离教室与学校的日常生活真实世界，生成无益于教学改进的抽象空洞结论。
 
 ---
-
-## 实证数据
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 17–18)]] — 界定规范[[Paradigm\|范式]]的两大假定、行为与行动的[[Ontology\|本体论]]分野，并与[[Interpretive Paradigm\|诠释范式]]对照；全书展示其在调查与[[Experimental Research\|实验研究]]中的运用。

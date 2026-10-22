@@ -85,11 +85,7 @@ created: 2026-09-30
 updated: 2026-10-22
 ---
 
-# Interpretivism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **解释主义（Interpretivism）**，亦称**诠释主义**，是现代社会科学与教育研究中与[[Positivism|实证主义]]根本对立的核心哲学与[[Epistemology|认识论]]立场。解释主义主张人类社会世界绝非独立于人的意识而存在的客观物理实体，而是充满主观意图、象征符号与价值赋予的意义网络；探究的根本目的不在于寻找超越时空的因果普适规律（[[Nomothetic]] Laws）并施加技术控制，而在于通过领会（Verstehen）与深入当事人的参照框架，整体性地描述、重构与理解（[[Idiographic]] Understanding）行动者在具体历史与文化情境中所经验和建构的生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 14–17]]）。在比较教育学术史中，解释主义构成了早期历史叙事与解释性专论（interpretive essays）的认识论根基，并在 1970 年代作为打破[[Structural Functionalism|结构功能主义]]与实证现代化霸权的核心理论同盟，开启了学科多元化的新纪元（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128, 131–132]]）。
@@ -116,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 解释主义与[[Positivism|实证主义]]及[[Critical Theory|批判理论]]的[[Epistemology|认识论]]全景辨析
 > | 维度 | 解释主义（Interpretivism） | 实证主义（[[Positivism]]） | 批判理论（[[Critical Theory]]） |
 > |:-----|:---------------------------|:---------------------------|:--------------------------------|
@@ -128,8 +122,6 @@ updated: 2026-10-22
 > | **学科史轨迹** | 奠基于[[Wilhelm Dilthey\|狄尔泰]]与韦伯，支撑 19 世纪末比较教育传统，并在 1970 年代打破功能主义霸权 | 19 世纪启蒙改良发端，战后成为行为主义与现代化工程的霸权[[Paradigm\|范式]] | 1930 年代法兰克福学派奠基，1970 年代引入教育学，抗衡官僚[[Technical Rationality\|技术理性]] |
 
 ---
-
-## 核心构件与思想渊源
 
 > [!feature] 解释主义的四大思想支柱与理论构件
 > - **[[Geisteswissenschaften|精神科学]]与生命体验（[[Wilhelm Dilthey]]）**
@@ -154,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心理论命题
-
 > [!theory-proposition] 命题一｜人类社会实在具有内在的[[Intentionality|意向性]]与意义构成性，绝不可被还原为客观物理因果刺激
 > **解释** [[Wilhelm Dilthey|狄尔泰]]与韦伯指出，人类行动不同于物理世界的被动机械位移，它始终注入了行动者对未来的意图、期望、规范与自我理解。[[Positivism|实证主义]]试图建立人类行为的通用预测法则，实质上是对人类主体能动性与自由意志的抹杀。解释主义强调探究必须立足于主位视角（Emic），将行动者对现实的[[Thomas Theorem|情境定义]]视为解释行动逻辑的唯一出发点。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 15–18]]
 >
@@ -172,8 +162,6 @@ updated: 2026-10-22
 > **应用实例** 当代跨国教育评估（如 [[PISA]] 排行榜）极易诱使政策制定者产生“最佳实践即刻移植”的机械工程幻想；解释主义学者通过对[[Policy Borrowing|政策借用]]过程的本土人类学追踪，揭示出外来干预在地方语境中必然遭遇“[[Recontextualization|再情境化]]”与微观抗拒，捍卫了教育探索的本土独特性与文化主权。
 
 ---
-
-## 适用边界与学术争议
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 微观课堂生活、师生主观认同建构、教育政策在学校层面的[[Recontextualization|再情境化]]博弈、[[Intercultural Education|跨文化教育]]交流中的意义误读与文化冲突。

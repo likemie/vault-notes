@@ -47,11 +47,7 @@ related_arguments:
   - "[[Argument_Yu_2024_CE]]"
 ---
 
-# Symbolic Boundary
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 象征边界（Symbolic Boundary），由文化社会学家 Michèle Lamont 等人发展，指行动者通过赋予特定的行为、品味、生活方式与价值观以道德含义，在“我们”与“他们”之间划出的主观分类与区隔界限（Lamont & Molnár, 2002; Lamont et al., 2015, pp. 15341–15347）。象征边界的核心机制在于将差异**道德化**——群体之间的客观差异被转化为“正当 vs. 不正当”、“高尚 vs. 低劣”或“纯真 vs. 功利”的道德价值判断（Lamont et al., 2015）。
@@ -72,8 +68,6 @@ related_arguments:
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 象征边界与社会边界的分野
 > | 维度 | 象征边界（Symbolic Boundary） | 社会边界（Social Boundary） |
 > |:---|:---|:---|
@@ -85,9 +79,7 @@ related_arguments:
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **差异的道德化（Moralization of Differences）** — 将群体间原本客观的行为或品味差异升格为道德优劣判断（如“我们淳朴责任，他们功利套路”或“我们正统，他们边缘”）[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 169)]]。
 > - **边界的自然化（Naturalization of Boundaries）** — 通过日常习惯、[[Discourse|话语]]或制度化教育，将人为建构的边界伪装成“理所当然”的自然事实与社会常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 > - **排斥的正当化（Legitimation of Exclusion）** — 边界一旦成为道德事实，对异己的排斥便被合理化为“正当选择”，从而免除了行动者的道德罪恶感[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
@@ -144,8 +136,6 @@ related_arguments:
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 分析层次 | 核心机制 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -155,8 +145,6 @@ related_arguments:
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念史演变脉络
 > - **1984 年 — 阶级区隔理论基础** — Bourdieu 在《区隔》（*Distinction*）中提出[[Cultural Capital\|文化资本]]与趣味区隔，为象征边界提供了社会学雏形。
 > - **1992–2002 年 — 象征边界与社会边界框架建立** — Michèle Lamont 在 *Money, Morals, and Manners* (1992) 及 Lamont & Molnár (2002) 中明确提出“象征边界”概念，将道德边界与阶级/文化边界并列，并阐明象征边界硬化为社会边界的理论机制。
@@ -165,8 +153,6 @@ related_arguments:
 > - **2024 年 — 国家课程与[[Official Knowledge\|官方知识]]场域应用** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将象征边界从微观人际互动扩展至国家教科书（217 册）研究，分析[[Official Knowledge\|官方知识]]对“汉儒中华性”的符号边界自然化与少数民族的[[Reflexivity\|反思性]]回应[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论交锋
 >

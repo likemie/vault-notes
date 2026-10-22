@@ -43,11 +43,7 @@ related_arguments:
   - "[[Argument_Yu_2024_CE]]"
 ---
 
-# Cultural Disembedding
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 文化脱嵌（Cultural Disembedding），指个体或群体在进入或面对某一特定的主导文化[[Champ\|场域]]（如精英大学、国家学校课程或主流体制）时，因其原本内化的语言、习俗、信仰与生活习惯（习性）与该场域认定的“默认常识”或“官方正统”相脱节，从而产生的强烈疏离感、不适应与身份断裂（Bourdieu & Wacquant, 1992; Lamont et al., 2015; [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 115]]; [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p. 71]]）。
@@ -68,8 +64,6 @@ related_arguments:
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 微观阶层脱嵌与宏观国族课程脱嵌的分野
 > | 维度 | 微观阶层脱嵌（Zheng, 2023） | 宏观国族课程脱嵌（[[Argument_Yu_2024_CE\|Yu & Zhao, 2024]]） |
 > |:---|:---|:---|
@@ -81,9 +75,7 @@ related_arguments:
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **环境与[[Discourse|话语]]的陌生感** — 物理设施（导航、选课系统）或符号话语（《论语》核心论、精英谈吐）与原初经验剧烈脱节[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 116)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **文化语码转换屏障** — 缺乏将自身经验转化为[[Champ\|场域]]内“高尚/正确”话语的能力，从而倾向于沉默或边缘抱团[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 117)]]。
 > - **原初社群关系断裂** — 进入新场域后，与原初亲友在语言、关切与价值观上产生距离感[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 118)]]。
@@ -125,8 +117,6 @@ related_arguments:
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 场域层级 | 机制与后果 | 代表学者 |
 > |:---|:---|:---|:---|
@@ -135,8 +125,6 @@ related_arguments:
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念史演变脉络
 > - **1944 年 — 经济与社会脱嵌** — Karl Polanyi 在《大转型》中提出“脱嵌”（Disembedding），指经济脱离社会关系的约束。
 > - **1990 年 — 现代性脱嵌机制** — [[Anthony Giddens]] 在《现代性的后果》中指符号资本与专家系统将社会关系从本地情境中“脱嵌”。
@@ -144,8 +132,6 @@ related_arguments:
 > - **2024 年 — 宏观国家课程脱嵌** — [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将其扩展至国家课程分析，揭示汉儒中心主义[[Official Knowledge\|官方知识]]对少数民族学生造成的国族认同脱嵌[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论交锋
 >

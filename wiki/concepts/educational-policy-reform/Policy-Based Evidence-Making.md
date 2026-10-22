@@ -51,11 +51,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Policy-Based Evidence-Making
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 基于政策的证据制造（Policy-Based Evidence-Making, PBEM）是[[Critical Policy Analysis|批判性政策研究]]中的核心概念（Chung, 2016），指在公共政策制定与合法化过程中，决策者预先确立了政治意图、意识形态偏好与既定改革议程，随后通过有针对性地筛选、转译、裁剪甚至定制学术研究、经验数据与国际案例，反向构建支持该政策的[[Chain of Evidence\|证据链]]条。它构成了对传统[[Evidence-Based Policy-Making|循证政策制定]]规范性假设的根本逆转。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–94)]]
@@ -86,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **政治议程与立场先行** 执政者依据政党意识形态或市场化治理诉求确立改革底线（如削弱大学教师教育、推行校本分权），确立政策的不可逆方向。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **准入控制与官方守门** 政府部门充当[[Gatekeepers\|守门人]]，定向委任符合自身政策偏好的专家主持审查，并扶植官方认可的专业团体（如[[Chartered College of Teaching\|特许教学学院]]）以替代传统学术机构。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 93–94)]]
 > - **政策落地预期审查** 外部咨询者与中介主动适应政策如何落地的政治语境，对结论进行预先转译与合规包装，剔除违背官员预期的尖锐批判。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 94)]]
@@ -129,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -145,8 +137,6 @@ updated: 2026-10-22
 > - **2022 — 教育政策实证机制深化** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 结合新制度主义理论与英格兰教师教育改革 35 年历史（1983–2019），通过 20 位高层[[Elite Interview\|精英访谈]]实证揭示了英国教育部如何作为[[Gatekeepers\|守门人]]系统运作 PBEM，并分析了其导致的[[Epistemological Break\|认识论断裂]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

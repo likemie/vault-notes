@@ -55,12 +55,9 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Evaluative Judgement
 （评价性判断 / 评估判断力）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 评价性判断（Evaluative Judgement）是指**学习者理解何为良好工作的质量标准，并能够对自己以及他人的学术成果或实践表现做出审慎、明智评价决策的能力**。由乔安娜·戴（Joanna Tai）与戴维·鲍德（David Boud）等人于 2018 年系统界定，该[[Construct\|构念]]强调评价不仅是教师的单向外部打分，更是学习者在离开正规教育后持续开展[[Learner Autonomy\|自主学习]]与专业实践不可或缺的元能力。在[[Man-Computer Symbiosis|人机共生]]学习中，评价性判断被确立为不可让渡给人工智能算法的核心认识底线。Tai et al. (2018); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
@@ -83,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 评价性判断与相关[[Construct\|构念]]对比
 > | 比较维度 | **评价性判断（Evaluative Judgement）** | **自我评估（Self-assessment）** | **量规对照（Rubric [[Strategic Compliance\|compliance]]）** | **算法自动化评级（Automated Scoring）** |
 > |---|---|---|---|---|
@@ -94,8 +89,6 @@ updated: 2026-10-22
 > | **主体角色** | 独立负责的评判者与知识主张捍卫者 | 任务执行者与行为校正者 | 规则遵循者与合规操作者 | 机器评价结果的被动接收者 |
 
 ---
-
-## 核心要素
 
 > [!feature] 评价性判断的构成维度
 > - **质量概念的内部建构（Understanding Quality）** 深刻理解本学科或专业领域对于“卓越成果”的显性与隐性判准，形成多维度的质量心智表征。
@@ -151,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 评价性判断核心命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 评价性判断概念演变脉络
 > - **1980–1990 年代 — [[Formative Assessment\|形成性评价]]与学生参与萌芽** [[Michael Sadler\|萨德勒]]（Royce Sadler, 1989）提出划时代的形成性评价理论，指出学生要改进学习，必须具备关于良好成果的概念并能够将其与自身现状做对比。
 > - **2000–2010 年代 — 可持续评估（Sustainable Assessment）** 戴维·鲍德（David Boud, 2000）提出可持续评估理念，强调评估应当着眼于满足学生离开大学后的未来学习需求，为评价判断概念奠定理论基石。
@@ -171,8 +160,6 @@ updated: 2026-10-22
 > - **2026 年 — 智能时代[[Man-Computer Symbiosis|人机共生]]中的[[Epistemology\|认识论]]重塑** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 将评价性判断引入人工智能哲学与学习科学的前沿交叉，确立其为界定有害[[Epistemic Dependence\|认识依赖]]的核心诊断标尺，提出人机交互必须围绕“保护并培育学生的评价性判断”进行教学法与评价体系全方位重构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论与实践争议
 >
@@ -193,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 评价性判断实证研究表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -204,8 +189,6 @@ updated: 2026-10-22
 > | **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** | 人工智能中介的高等教育求知场景与[[Critical Review\|批判性综述]] | 协助形态（工具型 vs 承载型 vs 承载判断型）对评价性判断与认知依赖的影响 | 当协助形态上升为承载判断型时，学生评价性判断让渡率达临界点，导致中间推导动作剥离与可恢复性崩塌。 | 确立评价性判断为区分生产性人机协同与有害[[Epistemic Dependence\|认识依赖]]的关键实证[[Operationalization\|操作化]]指标。 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学实践案例
 > - **高等教育论文写作中的“多源对比与反思辩护日志”（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）**
@@ -219,8 +202,6 @@ updated: 2026-10-22
 > - Sadler (1989, 2014) — 探讨[[Formative Assessment\|形成性评价]]中质量内化概念与量规局限，为评价性判断提供深厚的评估哲学渊源。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

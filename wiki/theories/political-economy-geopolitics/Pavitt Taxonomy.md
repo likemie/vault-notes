@@ -41,8 +41,6 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Pavitt Taxonomy
-
 ---
 
 > [!abstract] 核心主张
@@ -68,9 +66,7 @@ updated: 2026-10-22
 > [!line-a] 供应商主导型（Supplier Dominated, SD）
 > 内部研发能力较弱，创新主要由设备和材料的供应商引入。创新多为流程改进而非产品创新。典型行业包括纺织、服装、食品和木材加工。企业以小企业为主。
 
-### 修订版 Pavitt 分类法（2016）
-
-> [!abstract|notitle]
+> [!abstract] 修订版 Pavitt 分类法（2016）
 > [[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]]基于对欧洲七个国家（德国、法国、意大利、荷兰、葡萄牙、西班牙、英国）和挪威的三轮社区创新调查（社区创新调查（[[Community Innovation Survey]]，CIS） 2、3、4）数据——整合为 Urbino 大学的[[Sectoral Innovation Database\|部门创新数据库]]（Sectoral Innovation Database, SID）——对 Pavitt 分类法进行了系统的实证检验和扩展。[[Research Utilization\|研究使用]]主成分分析和回归分析检验了替代性行业分组在创新来源、目标、投入和产出维度上的稳定性（pp.160-165）。
 
 > [!success] 修订版的主要贡献
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > - **扩展至服务业** 将服务行业按创新特征分配到各类别。通信、研发和计算机服务被归入科学基础型；房地产、设备租赁和其他商业活动归入专业供应商型；金融和保险服务因其大规模采用 ICT 设备被归入一个新的类别——**规模与信息密集型（Scale and Information Intensive, SII，替代原规模密集型）**；批发零售贸易和运输服务归入供应商主导型
 > - **整合 ICT 活动** ICT 相关行业因其对信息和数据处理的双重依赖，在修订版中被归入规模和信息技术密集型类别
 > - **提供 NACE Rev. 2 映射** 由于[[EU|欧盟]]行业分类在 2008 年从 NACE Rev. 1 转换为 NACE Rev. 2，修订版提供了新旧分类的行业对应关系（pp.160-165）
-
-### 修订版四个类别
 
 > [!info] 修订版 Pavitt 分类法（[[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino & Pianta, 2016]]）
 > | 类别 | 英文名称 | 核心特征 | 典型制造业 | 典型服务业 |
@@ -97,9 +91,8 @@ updated: 2026-10-22
 > - **技术[[Paradigm\|范式]]与技术轨迹（Dosi, 1982, 1988）**— 不同 Pavitt 类别对应不同的技术范式：科学基础型对应科学驱动范式，供应商主导型对应技术采用范式
 
 ---
-## 实证验证
 
-> [!success|notitle]
+> [!success] 实证验证
 > [[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]]使用 [[Sectoral Innovation Database\|SID]] 数据库对修订版分类法进行了多维度实证检验（pp.165-175）：
 > - **创新来源维度** 不同 Pavitt 类别在内部研发支出、外部知识获取和设备采购等创新投入上呈现显著差异
 > - **创新目标维度** 科学基础型以产品创新为主，规模与信息密集型以流程创新为主，专业供应商型在两者之间平衡

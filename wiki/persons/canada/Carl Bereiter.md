@@ -60,11 +60,7 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-# Carl Bereiter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大认知心理学家、教育理论家，多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE）荣誉退休教授，[[Knowledge Building Theory|知识建构理论]]与[[Theory of Knowledge|知识论]]坛（Knowledge Forum）联合奠基人。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960s–1970s — 早期[[Direct Instruction|直接教学]]与认知技能探索** 关注弱势儿童概念发展，探求通过高度聚焦的指令性教学提升儿童早期认知水平。
 >   - **代表著作** *Teaching Disadvantaged Children in the Preschool* (1966, with S. Engelmann)。
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 主观学习与客观[[Knowledge Building Theory|知识建构]]分属两个截然不同的[[Ontology|本体论]]范畴。主观学习属于世界二的心智状态改善与个体信念重组，而知识建构则属于世界三的公共精神产物生产与持续改良。真正的现代教育应当超越将学生心智视作待填充容器的传统意识理论，引导学生组成知识探究共同体，将理论、问题、解释与模型当作“概念[[Artefact|人工制品]]”（conceptual artifacts）展开持续的公开检验、理性批判与协同改进（Bereiter, 2002; [[Argument_Rømer_2018_EPT|Rømer, 2018, p. 10]]）。
 
 > [!citation-card] 贝莱特论知识建构超越个体主观学习
@@ -134,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与批判反思
 >
 > > [!axis] 世界三的科学命题化削减 vs 文化艺术客观实在（Rømer 之辩）
@@ -157,8 +147,6 @@ updated: 2026-10-22
 > > - **教学论学理反思（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 430–431]]）** 特哈特批评该立场与可见学习中同时极力推崇跨学科通用元认知策略的论调相互冲突，暴露出这种哲学嫁接缺乏严谨的[[Epistemology|认识论]]自洽性。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 人物关联网络
 >

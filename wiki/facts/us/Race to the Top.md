@@ -61,11 +61,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# Race to the Top
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 力争上游计划（Race to the Top, RTTT）是美国联邦政府在 2009 年经济大衰退背景下，由总统贝拉克·奥巴马（Barack Obama）与教育部长阿恩·邓肯（Arne Duncan）主导设立的总额达 43.5 亿美元的国家级竞争性教育资助工程。该计划打破了联邦向各州按人口公式划拨教育经费的历史传统，运用巨额竞争性财政奖励诱导各州启动系统性教育治理与学术标准变革。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 6, 16–17)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对美国长期以来各州学术标准割裂严重、中小学生在国际测评中表现平庸、各州为应付《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）考核竞相调低及格切分点（Race to the bottom）的体制危机，旨在为国家[[Knowledge-Based Economy|知识经济]]重塑高标准与问责生态。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 竞争性资助假说认为，传统的公式化拨款无法撼动地方利益集团的阻力与制度惰性；通过设立高额非均衡奖励池并明确严苛的准入条件，能够促使州级政治首脑打破立法僵局，迅速完成原本耗时数年的制度突破。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–18)]]
@@ -99,16 +93,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2009 — 竞赛方案公布与政治动员** 奥巴马政府在 ARRA 法案中确立 43.5 亿美元基金，11 月正式公布申请准则，明确优先奖励采纳通用标准的州，迅速在全美州长与地方立法机构中掀起备赛浪潮。
 > - **2010 — 第一轮与第二轮严苛评选** 第一轮申请中仅田纳西州（获 5 亿美元）与特拉华州（获 1 亿美元）脱颖而出；为争取第二轮总额 34 亿美元的重头戏，全美超过 35 个州在此期间紧急安排州教育委员会投票，以压倒性速度采纳 [[Common Core State Standards|CCSS]]；第二轮最终有纽约、佛罗里达、马萨诸塞、加利福尼亚等 10 州及特区胜出。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–18)]]
 > - **2011–2015 — 问责深化与多方抵制反弹** 资助范围扩展至“早期学习挑战赛”（10 亿美元）和针对基层学区的直属竞赛（4 亿美元）；奥巴马政府同步推出 [[Elementary and Secondary Education Act of 1965|ESEA]] 灵活性豁免，要求各州将学生统考成绩通过增值模型（VAM）与教师解聘考核绑定，引发[[National Education Association|全美教育协会]]（[[National Education Association|NEA]]）与[[American Federation of Teachers|美国教师联合会]]（AFT）的强烈反弹；伴随统考全面落地，纽约州等中产阶级学区爆发大规模罢考抗议（退考率超 20%）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–257, 261–262)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **联邦资助与裁决机构** 美国教育部设立专门的评审监督办公室，组织外部跨学科专家实施独立双盲评审，依据打分矩阵裁定拨款分配，并行使年度履约审计权。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
@@ -122,8 +112,6 @@ updated: 2026-10-22
 > - **基于测试的问责（[[Test-Based Accountability|TBA]]）向个体层面下沉** 韦尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, pp. 256–257]]）考证指出，RTTT 标志着美国测试问责体制的重大转向：从 [[No Child Left Behind Act 2001|NCLB]] 时代聚焦学校与学区层面的 [[Adequate Yearly Progress|AYP]] 达标惩罚，进一步细化下沉至对教师个体的量化评估，将学生统考成绩通过增值模型（VAM）与教师任免考核硬性绑定，引发全美教育界对于心理测量效度与劳动权益的激烈博弈。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 43.5 亿美元联邦国库现金拨付到位率；各州地方财政与慈善[[Counterpart Funds|配套资金]]撬动比例。
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **>20%** 纽约州部分中产学区在 RTTT 与 CCSS 统考压力下达到的家长罢考率。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

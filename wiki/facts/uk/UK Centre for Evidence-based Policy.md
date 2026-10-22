@@ -31,11 +31,7 @@ created: 2026-07-14
 updated: 2026-10-20
 ---
 
-# UK Centre for Evidence-based Policy
-
 ---
-
-## 背景
 
 > [!event-context] 机构创建与定位
 > - **时间** 1990 年代后期至 2000 年代
@@ -63,8 +59,6 @@ ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI
 作为 ESRC 在[[What Works Movement|循证政策运动]]中的制度布局，该中心代表了英国社会科学界对"什么有效"议程的制度化回应。与 [[EPPI-Centre]] 侧重于方法论开发和 CEM 中心侧重于学校评估数据不同，该中心的定位是将研究证据引入政策制定流程本身。其后续整合至 UKRI 体系的路径，也反映了英国研究资助体系从分散到集中的整体趋势。
 
 ---
-
-## 相关条目
 
 > [!ref-table] 关联索引
 > | 条目 | 关系 |

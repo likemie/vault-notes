@@ -59,11 +59,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Cooperative Research and Development Agreement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **合作研发协议（Cooperative Research and Development Agreement, CRADA）** 是美国科技政策与产学研合作体系中的经典法律与规制机制，由 1986 年《联邦[[Technology Transfer|技术转移]]法》（Federal Technology Transfer Act of 1986, FTTA）正式确立。CRADA 允许美国联邦政府机构直属的 700 余个国家实验室及联邦研究中心，在无需适用严格的《联邦采购条例》（Federal Acquisition Regulation, FAR）的前提下，与私营企业、非营利科研组织及[[Research Universities|研究型大学]]订立平等的合作协议。通过该协议，联邦实验室可贡献专有人员、实验场地、超级计算资源、前沿仪器与专有技术，合作方则提供资金、产业工艺或互补技术，共同攻关具有重大战略价值的前沿技术，并依法共享由此产生的知识产权与商业化收益。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–42)]]; [[Argument_Block_2008_PS|(Block, 2008, pp. 177, 180)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] CRADA vs 传统联邦采购合同 vs 纯学术资助对比
 > | 比较维度 | 合作研发协议（CRADA） | 传统联邦政府采购合同（FAR Contract） | 竞争性学术科研资助（Grant） |
 > |:---|:---|:---|:---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **核心政策目标** | 开放国家实验室[[Megascience Installations\|大科学装置]]，加速产业化转化 | 为政府特定公共职能采购货物与工程服务 | 支持基础科学自由探索与学科论文发表 |
 
 ---
-
-## 核心要素
 
 > [!feature] CRADA 机制的四大制度基石
 > - **商业机密保护豁免权（FOIA Protection）** 合作研发过程中产生的专有数据与技术机密，依法在最长 5 年内免于《信息自由法》（FOIA）的强制公开要求，切实打消私营企业对技术泄漏的顾虑。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
@@ -149,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] CRADA 核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] CRADA 法律与政策演变脉络
 > - **1980 — 《史蒂文森-怀德勒技术创新法》（Stevenson-Wydler Act）** 确立联邦实验室有义务将技术向地方政府与民间产业转移，但缺乏操作性协议工具。
 > - **1986 — 《联邦[[Technology Transfer|技术转移]]法》（FTTA）正式创立 CRADA** 授予联邦实验室主任直接与私营实体签订 CRADA 的法定权限，并确立商业机密豁免与发明人版税分成激励；布洛克（2008）指出该法构成了[[Developmental Network State|发展型网络国家]]打破国家实验室技术隔离的核心制度支柱。[[Argument_Block_2008_PS|(Block, 2008, p. 180)]]
@@ -171,8 +159,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫国家科技战略推行 30 天标准化绿色通道改革** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第三章将重塑 CRADA 列为打破国家实验室高墙、支撑本土先进制造业与[[Regulatory Sandbox|监管沙盒]]测试的关键政策科目。
 
 ---
-
-## 争议与批评
 
 > [!debates] 产研合作与公私边界学术争鸣
 >
@@ -195,8 +181,6 @@ updated: 2026-10-22
 > > - **开放创新活力派** 警告过度政治化审查会扼杀国家实验室对全球顶尖工程人才的吸引力，反而削弱本土[[Innovation Ecosystem|创新生态]]。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- CRADA 协议在全美科研转化中的实证数据与改革基准
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

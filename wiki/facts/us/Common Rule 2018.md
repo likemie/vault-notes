@@ -41,14 +41,10 @@ created: 2026-06-04
 updated: 2026-10-22
 ---
 
-# Common Rule 2018
-
 > [!info] 背景
 > Common Rule（正式名称为 Federal Policy for the Protection of Human Subjects）是美国联邦政府规范人类受试者研究的基础性法规，由卫生与公众服务部（Department of Health and Human Services, HHS）下属的人类研究保护办公室（Office for Human Research Protections, OHRP）发布。其最初版本于 1991 年由 15 个联邦部门共同采用，2018 年进行了重要修订（OHRP, 2018, cited in [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.265]]）。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > Common Rule 的核心要求包括两个相互关联的机制（p.265）：
 
 > 1. **[[Institutional Review Board\|机构审查委员会]]（[[Institutional Review Board\|IRB]]）审批** 所有涉及人类受试者的研究方案必须在研究开始前获得所在机构的 IRB 审查和批准。IRB [[Evaluation Research\|评估研究]]参与者的风险水平，决定审批、要求修改或拒绝方案

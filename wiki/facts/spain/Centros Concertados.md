@@ -49,11 +49,7 @@ created: 2026-10-12
 updated: 2026-10-22
 ---
 
-# Centros Concertados
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 制度渊源于 1970 年《[[General Act of Education of 1970|普通教育法]]》，并在 1985 年社会党政府颁布的《教育权组织法》（Ley Orgánica reguladora del Derecho a la Educación, LODE）中正式制度化确立为“协约协议”（régimen de conciertos）。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 西班牙基础教育双轨公共供给体系的法定基石之一，依据 1978 年宪法第 27 条所保障的“教育权”（derecho a la educación）与“办学自由”（libertad de enseñanza）双重原则建立。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 国家通过与非公立学校签订四年期公共资助协议（concierto educativo），由公共财政全额承担其教职工薪资与日常运营经费，换取其向公众提供免费义务教育、接受统一就近划片招生、遵守国家课程大纲及设立包含家长和教师的学校理事会（Consejo Escolar）。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1970 《[[General Act of Education of 1970|普通教育法]]》（LGE）首次设立国家向非公立学校发放生均津贴的法定机制。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
 > - 1978 西班牙宪法第 27 条确立保障受教育权与创办教育机构自由的宪制妥协。
@@ -90,8 +82,6 @@ updated: 2026-10-22
 > - 2006 《[[Organic Law on Education 2006|教育组织法]]》（LOE）进一步平衡公立与协约学校资源，要求公私协同均衡吸纳移民与弱势生源。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–330)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 中央教育部负责基本法制框架与全国拨款基准，17 个自治区教育厅负责具体协约审核与经费拨付。
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **跨国比较对照** 意大利即使私立学校规模很小，左翼政府亦立法确立公私学校完全平等的法定地位（parità）；而西班牙在私立规模超过三成的前提下，公私部门之间依然长期存在制度猜忌与内耗。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 传统中右翼政党（人民党 PP）与天主教办学协会，主张严格捍卫家长的教育选择权与协约学校资助配额。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
@@ -127,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **极低公共成本实现学额普及** 协约学校生均公共支出显著低于全公立直属学校，以较低财政支出支撑了 30% 以上的国民学位供给，缓解了国家财政重负。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
 > - **提供多元化教育生态与家长选择** 保障了不同信仰、文化倾向家庭对学校价值观的选择权利，保持了校园文化多样性。
 > - **加剧社会阶层分层与生源隔离争议** 尽管法律禁止收费，但校服费、课外活动费等自愿性捐款在部分协约学校形成了筛选机制，导致移民与弱势生源不成比例地集中在纯公立学校，引发公共教育公平性质疑。
@@ -141,8 +127,6 @@ updated: 2026-10-22
 > - **4 yr** （一审） 自治区教育当局对协约学校资质与资助协议的常规复审周期。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

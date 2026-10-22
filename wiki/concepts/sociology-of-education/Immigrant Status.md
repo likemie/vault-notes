@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Immigrant Status
-
 > [!metax] [移民身份 · Immigrant status](https://www.visiblelearningmetax.com/influences/view/immigrant_status)
 > 家庭 › 家庭资源
 >

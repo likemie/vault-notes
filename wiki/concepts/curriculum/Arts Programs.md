@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Arts Programs
-
 > [!metax] [艺术项目 · Arts programs](https://www.visiblelearningmetax.com/influences/view/arts_programs)
 > 课程 › 读写与艺术
 >

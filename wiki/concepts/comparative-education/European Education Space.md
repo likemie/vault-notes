@@ -76,11 +76,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# European Education Space
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **欧洲教育空间（European Education Space，EES）** 是指在超国家治理与欧洲一体化进程中，由[[EU|欧洲联盟]]（European Union，EU）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）通过跨国[[Data Infrastructure|数据基础设施]]、政策开放协调机制（[[Open Method of Coordination]]，OMC）、学分资格互认框架以及大规模跨国流动网络所共同构想、生产与维系的功能性治理空间与象征性社会空间。该空间不仅使欧洲各异质教育体系的跨国量化比较与政策趋同成为可能，更是塑造欧洲性（Europeanness）超国家公民认同与灵活[[Employability|就业能力]]的核心治理舞台；但在实践中，它也常被成员国作为化解内部改革合法性危机的修辞盾牌。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 362–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–322)]]
@@ -183,8 +179,6 @@ graph TD
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -203,8 +197,6 @@ graph TD
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 自愿一体化 vs 隐性新自由主义规训
@@ -220,8 +212,6 @@ graph TD
 > > - **现实主义与制度批判学者（[[José Luis García Garrido|García Garrido]]）** 强调欧洲教育维度的实质不过是成员国各自主权的总和。布鲁塞尔在核心权能上面临严格宪制边界；而后发成员国往往将欧洲教育空间当作立法前言中的修辞工具，在形式上对齐学制框架，实质上却利用主权壁垒保护地方主义与[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- [[International Large-Scale Assessments|国际大规模评估]]研究的欧洲区域集聚数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

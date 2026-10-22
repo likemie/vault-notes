@@ -70,7 +70,6 @@ citation_aliases:
   - "Thompson et al., 2022"
   - "Thompson et al. (2022)"
 ---
-# Argument_Thompson_2022_Promising_Student
 
 > [!question]
 > 在竞争性[[Geopolitics|地缘政治]]框架中，大学如何通过与数字化和数据化相关的治理技术来建构"[[Promising Student\|有前景的学生]]"（promising student）？本章聚焦[[Online Self-Assessment\|在线自评工具]]（OSAs）——一种在德国大学中广泛采用的数字化入学前咨询工具——分析它们如何作为主体化工具运作：如何在学生入学之前就对其进行"预判"和"预管理"，如何重新定义"好学生"的含义，以及这一过程如何服务于大学的竞争性地缘政治定位。
@@ -151,9 +150,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 - [[Digital Self|数字自我]]（digital self）与[[Digital Optimum|数字最优]]（digital optimum）之间的差异驱动算法治理，呼唤学生的风险管理和自我优化行为(p.226)
 - 当前发展存在三个根本限度：可预测的[[Paradigm|范式]]忽视教育的[[Open-Mindedness|开放性]]；个体化轨迹削弱学术公共空间；批判的实践——高等教育中重新打开思考和探索空间的能力——面临消解风险(p.227)
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “然而，‘[[Promising Student\|有前途的学生]]’的识别并非仅仅是寻找天生的才华。相反，这意味着要通过自我评价和自我优化，着眼于学生的潜在成功来对待他们。”
 > ("The identification of the '[[Promising Student]]' is not simply a matter of finding the naturally given talents, however. Rather, it means to address students with respect to their potential success through self-evaluation and self-optimization.")(p.221)
 

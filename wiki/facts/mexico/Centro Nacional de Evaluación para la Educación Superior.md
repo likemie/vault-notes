@@ -39,11 +39,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Centro Nacional de Evaluación para la Educación Superior
-
 ---
-
-## 背景
 
 > [!event-context] 机构创立与定位
 > - **成立时间 / 发起主体** 1994 年由墨西哥全国大学与高等教育机构协会（ANUIES）及墨西哥联邦公共教育部（SEP）倡议联合成立。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
@@ -52,8 +48,6 @@ updated: 2026-10-22
 > - **核心使命** 为全国各类学校、大学、企业与政府部门提供可靠、公正与科学的学业评价与职业资格考试服务。
 
 ---
-
-## 核心职能与全国统一测试系统
 
 > [!feature] 全国考试体系与通用思辨模块
 > - **全国入学选拔考试系列（EXANI）** 组织实施高中升大学（EXANI-II）与研究生准入（EXANI-III）全国统考；其中 EXANI-III 专设[[Generic Skills|通用认知技能]]模块，深入测查逻辑数学推理、分析性阅读、批判性论据辨析与书面沟通表达。

@@ -91,11 +91,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Research-Practice Partnership
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 研究-实践伙伴关系（Research-Practice Partnership, RPP）指研究者与实践组织（学校、学区、教育行政部门）之间长期、互惠的制度化协作安排：双方围绕一线真实面临的持久挑战，共同界定[[Research Question\|研究问题]]、协同开展[[Knowledge Production\|知识生产]]并情境化推进研究成果转化运用，旨在从[[Epistemology\|认识论]]与制度根源上弥合[[Research-Practice Gap\|研究-实践鸿沟]]并驱动全系统[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–132)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 19–22)]]
@@ -130,9 +126,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **长期互惠治理承诺** RPP 建立在超越具体课题周期的长期制度化契约之上，双方共同协商优先事项，共享研究所有权与成果权益。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 131)]]
 > - **[[Research Question\|研究问题]]联合建构** 摒弃学术界闭门造车的纯理论假设，从学校管理、课堂教学与区域治理的真实复杂困境中共同提炼研究问题。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 21–22)]]
 > - **[[Third Space Discourse\|第三空间]]对话机制（Third Space [[Discourse]]）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ\|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity\|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
@@ -204,8 +198,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -228,8 +220,6 @@ updated: 2026-10-22
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立其为组织基建与生态协同使能构件** 马克·里克森（[[Mark Rickinson]]）等系统梳理国际循证图景，将美国的 RPP（Coburn & Penuel, 2016）与英国的[[Research-Engaged School\|研究参与学校]]（Godfrey & Brown, 2019）、澳大利亚研究型教师职业体系并列为推动研究-实践联结的国际代表机制；在 QURE 框架中，RPP 不仅被界定为学校组织的基础架构（建立外部研究伙伴联结）与个体关系使能条件，更被作为构建复杂宏观证据生态系统的中枢网络（Boaz & Nutley, 2019; Farley-Ripple et al., 2018），推动其核心关注从“建立合作机制”向“深化适切证据与审慎实施的使用质量”升级。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
 
 ---
-
-## 争议与批评
 
 > [!tension-table] 协同[[Knowledge Production\|知识生产]]的核心张力对照
 > | 比较维度 | 现场行动逻辑（实践导向） | 学术科研逻辑（理论导向） |
@@ -269,8 +259,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] 案例一：[[Knowledge Network for Applied Education Research\|安大略应用教育研究知识网络]]（KNAER）的全系统[[Knowledge Mobilisation\|知识动员]]（加拿大）
 > KNAER 是一项由安大略省教育部资助、多伦多大学安大略教育研究院（OISE）与西安大略大学联合牵头的全系统倡议。该项目联合了全省学区教育局、教师工会、学术机构以及社区组织，通过多方利益相关者伙伴关系支持校本与区域研究活动。KNAER 的核心经验表明，单纯依靠研究发布无法弥合鸿沟，必须建立跨部门的专业支持团队与多层级合作基础设施，持续培养研究者与实践者的双向动员技能。（Campbell et al., 2017；引于 [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp. 130–131]]）
 
@@ -296,8 +284,6 @@ updated: 2026-10-22
 > | **维度五：建设多方长期协作的组织能力** | 参与各方在理念、人员与组织基建层面形成可持续的科研应用素养。 | 教师科研识读力与循证领导力提升；大学学者跨界协同技能增强。 | 摆脱对单一明星学者的个人依赖，沉淀持久的机构协作资本。 |
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

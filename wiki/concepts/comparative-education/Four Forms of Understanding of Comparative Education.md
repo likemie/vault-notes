@@ -46,8 +46,6 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Four Forms of Understanding of Comparative Education
-
 ---
 
 > [!info] 定义

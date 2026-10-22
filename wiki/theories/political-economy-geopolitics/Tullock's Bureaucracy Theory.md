@@ -55,8 +55,6 @@ updated: 2026-10-22
 >
 > > "The sovereign cannot gain a synoptic grasp of all the relevant information nor provide perfectly detailed instructions for all her subordinates." ([[Argument_Cowen_2019_ERE\|Cowen, 2019, p. 6, paraphrasing Tullock, 2005]])
 
-## 理论内部结构
-
 > [!abstract] 信息失真（Information Loss）
 > 无论向上汇报或向下传达，信息逐级必然因解读错误、时间精力限制被省略或扭曲。这是 Tullock 模型中**不可消解的结构特征**，不是管理技术可解决的。
 >
@@ -119,8 +117,6 @@ updated: 2026-10-22
 > [!info] 研究[[Paradigm\|范式]]
 > - **[[Epistemology\|认识论]]立场** 方法个体主义（[[Methodological Individualism]]）+ [[Bounded Rationality\|有限理性]]（bounded rationality）
 > - **所属传统** 公共选择理论（Public Choice）、奥地利经济学[[Knowledge Questions\|知识问题]]传统（Hayek, 1945）
-
-## 争议与批评
 
 > [!warning] 主权者隐喻的局限：真实政治系统中的分散决策
 > **争议背景** Tullock 的"sovereign"（主权者）是古典绝对统治者的简化模型——假设存在一个统一的决策中心，面临"如何控制下属"的问题。但在真实政治系统中，决策权分散于多个机构和层级，且受到法律、选举、利益集团和媒体的多重制约。

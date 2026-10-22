@@ -49,11 +49,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Erich Bloch
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国电气工程师、企业研发高管、联邦科技政策领导者，前国际商业机器公司（International Business Machines, IBM）副总裁兼系统制造部门高管，第八任[[National Science Foundation|美国国家科学基金会]]（NSF）主任（1984–1990）。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 思想发展
-
 > [!thought-timeline] 思想发展与政策实践
 > - **1952–1984 — 产业一线工程与跨学科技术攻坚阶段** 在 IBM 主持大型计算系统与微电子芯片工程制造，深刻体会到前沿工业技术攻坚天然交融多个学科，确立了对大学传统学术院系学科割裂体制的批判意识。
 >   - **关键实践** IBM Stretch 超算与 System/360 固态逻辑芯片工程研发。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–371)]]
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代工程与产业技术绝非孤立学科知识的机械拼接，而是基础科学与产业实际问题深度融合的系统工程；高等教育体系必须坚决破除 19 世纪遗留下来的狭隘系所行政壁垒，通过具有严苛期中问责与十年[[Sunset Provisions|日落条款]]的跨学科中心实体，强制促成学术界与产业界的战略互动，将大学前沿研发活力直接转化为国家工业[[Competitiveness|竞争力]]。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–374)]]
 
 > [!citation-card] 布洛赫论工程研究与基础科学的共生融合
@@ -123,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **组织模式路径** 确立了多用途、多学科大学研究中心（MMURC）作为现代[[Research Universities|研究型大学]]核心组织基底的合法性地位，重构了大学实验室与工业界的协作边界。
 > - **政策与机制路径** 引入了合作研究协议（Cooperative Research Agreements）、严格同行审核、优胜劣汰退出机制以及十年[[Sunset Provisions|日落条款]]（Sunset Provisions），为联邦重大科技资助确立了全新的治理典范。
 > - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、DoD、[[National Aeronautics and Space Administration|NASA]]）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
@@ -135,16 +125,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] Bozeman & Boardman 论布洛赫与大学产学研究革命
 > 布洛赫在 [[National Science Foundation|NSF]] 的六年任期不仅是工程学科地位提升的转折点，更是美国大学从传统象牙塔自由探索向多用途多学科大学研究中心（MMURC）产学协同[[Paradigm|范式]]转型的制度策源地。
 >
 > *Bloch's tenure at NSF catalyzed the university-industry research revolution and solidified the multidisciplinary research center as a core pillar of modern academic science.* [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366, 370)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >

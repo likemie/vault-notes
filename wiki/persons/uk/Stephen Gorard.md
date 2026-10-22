@@ -56,11 +56,7 @@ created: 2026-09-15
 updated: 2026-10-20
 ---
 
-# Stephen Gorard
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国杜伦大学教育学院（School of Education, Durham University）教育学与公共政策教授，杜伦大学证据教育中心（Durham University Evidence Centre for Education, DECE）主任。
@@ -74,8 +70,6 @@ updated: 2026-10-20
 
 ---
 
-## 核心学术贡献与思想脉络
-
 > [!thought-timeline] 核心方法学立场与学术主张
 > - **因果研究质评与可[[Reliability\|信度]]筛子** 戈拉德主张因果断言的可信度取决于研究设计的内在逻辑严密性，而非表面的统计包装。其研发的研究可信度筛子基于因果设计类型、比较组规模、数据缺失程度、测量工具独立性与标准化程度四个维度，采用非补偿性的逐级下移判定规则（Rating 0–4），杜绝依据统计功效计算预设机械切分点，构成了英国教育研究实证质评的核心基石。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 576–578)]]
 > - **终结[[Null Hypothesis\|零假设]]显著性检验（NHST）** 戈拉德长期批判社会科学中滥用 $t$ 检验、[[Analysis of Variance\|方差分析]]（Analysis of Variance, ANOVA）与 $p$ 值的现象。他指出真实教育实证数据极少能满足全[[Random Sampling\|随机抽样]]的数学假设，显著性检验既被普遍误解，也无法反映干预的实际效应规模与实质重要性；主张学术期刊全面停止发表 $p$ 值，强制报告基线与[[Pre-test and Post-test\|后测]]均值、标准差、[[Effect Size\|效应量]]及增值进展得分。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 584–585)]]
@@ -84,8 +78,6 @@ updated: 2026-10-20
 
 ---
 
-## 主要著作与代表成果
-
 > [!work-line] 代表性文献与关键成果
 > - **2020 — *What is the evidence on the best way to get evidence into use in education?*** 领衔完成对公共政策与教育领域证据转化应用有效性的系统[[Literature Review\|文献综述]]，提出两维度转化模型与[[Engineered Evidence\|工程化证据]]进路。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 570–610)]]
 > - **2018 — *Education Policy: Evidence of Equity and Effectiveness*** 系统阐述因果研究可[[Reliability\|信度]]评估架构与质评筛子（[[Gorard's Trustworthiness Sieve\|Gorard's Sieve]]）的[[Operationalization\|操作化]]技术规程。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 576)]]
@@ -93,8 +85,6 @@ updated: 2026-10-20
 > - **2016 — *An introduction to the design of evaluations*** 为英国[[Education Endowment Foundation\|教育捐赠基金会]]奠定现场试验因果设计、流失偏倚审计与评级规范的方法学著作。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 601)]]
 
 ---
-
-## 关联网络与学术争鸣
 
 > [!network-map] 学术网络与机构合作
 > - **合作学者** 长期与杜伦大学证据教育中心学者彭华西（Beng Huat See）、纳迪亚·西迪基（Nadia Siddiqui）紧密合作，共同开展大规模教育试验质评与二次分析。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 570)]]

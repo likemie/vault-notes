@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Career Interventions
-
 > [!metax] [生涯干预 · Career interventions](https://www.visiblelearningmetax.com/influences/view/career_interventions)
 > 课程 › 其他课程项目
 >

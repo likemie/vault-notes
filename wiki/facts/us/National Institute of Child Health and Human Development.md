@@ -63,11 +63,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# National Institute of Child Health and Human Development
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 国家儿童健康与人类发展研究所（National Institute of Child Health and Human Development, NICHD；后正式冠名为 Eunice Kennedy Shriver NICHD）是美国联邦卫生与公众服务部（HHS）下属国立卫生研究院（[[National Institutes of Health|NIH]]）的首要生物医学与行为发展研究机构。其核心法定使命在于资助并领导人类胚胎、儿童发育、认知过程及发展性障碍的医学与行为实证研究，并在 1990 年代跨界介入基础教育领域，成为联邦政府推行早期读写科研规制与因果[[Evidence Standards|证据标准]]的核心行政官僚中枢。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 7–9)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1962–1980s — 基础发展医学与神经生物学奠基** 早期专注于遗传学、新生儿重症救治与智力迟滞病理研究，奠定了生物医学实验对照与硬科学实证传统。
 > - **1985–1990s — 早期读写研究计划与[[Paradigm|范式]]扩张** 设立儿童发展与行为分支（Child Development and Behavior Branch, CDBB）。自 1980 年代中期起，在[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）领导下启动大规模长期追踪与脑功能成像研究，聚焦发育性阅读障碍（Dyslexia）与儿童[[Decodification|解码]]机制，迅速构建起全美最大的阅读认知心理学学术资助网络。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
@@ -89,8 +83,6 @@ updated: 2026-10-22
 > - **2008–至今 — 冠名重组与全生命周期健康回归** 2008 年国会立法更名为尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所，其教育政策职能逐步平移交接给教育部的[[Institute of Education Sciences|教育科学研究院]]（IES），研究所重新聚焦于发育遗传学、母婴健康与神经认知基础研究。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **所长办公室（Office of the Director）** 掌管研究所全面科研方向与财政预算分配，直接对 [[National Institutes of Health|NIH]] 院长及联邦卫生部长负责。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵与里程碑产出
 > - **国家早期阅读长期纵向追踪计划** 覆盖数万名高风险儿童的跨年代追踪实验，产出了奠定早期拼读必要性的大量认知心理学论文。
 > - **牵头组建并主持[[National Reading Panel|国家阅读委员会]]（NRP, 1997–2000）** 协同联邦教育部出资召集 14 人全国专家组，制定文献筛选因果标准，最终发布《教儿童阅读》里程碑报告。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
@@ -118,16 +108,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与辐射影响
 > - **医学实证证据层级在教育学界的全面确立** 成功将医学[[Clinical Trial|临床试验]]的循证等级制移植至联邦教育政策体系中，为后续 2002 年联邦教育科学保护法案与 [[Institute of Education Sciences|IES]]、[[What Works Clearinghouse|WWC]] 的创立确立了操作原型。
 > - **重塑数十亿美元公立教育预算分配** NICHD 确立的拼读实证基准使得联邦教育经费与采购清单紧密捆绑，直接决定了全美 50 州地方学区的基础教材采购方向。
 > - **[[Whole Language|全语言]]运动在主流政策中的边缘化** 借助国家级实证科研权威，彻底终结了全语言运动在联邦政策层面的合法性，将其定性为“未经科学检验的意识形态主张”。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -70,7 +70,6 @@ citation_aliases:
   - "Ryan, 2010"
   - "Ryan (2010)"
 ---
-# Argument_Ryan_2010_ChineseLearner
 
 > [!question]
 > 西方教育界对[[Chinese Learner\|中国学习者]]持有的刻板印象——既包括"缺陷型"（被动、[[Rote Learning\|死记硬背]]、缺乏批判思维）也包括"优势型"（勤奋、数学好、合作性强）——是否准确、有效？这些本质化的归类对身处[[Intercultural Education|跨文化教育]]环境中的学生和教师造成了什么影响？如何超越"大文化"解释框架，建立基于相互尊重和当代现实理解的跨文化[[Dialogue in Education\|教育对话]]？
@@ -299,9 +298,7 @@ Ryan (p.57)以 Hayhoe and Pan（2001, p.21）的"真正的对话——在愿意�
 
 > **整个论证的终点：** 我们需要的不再是比较"中西教育哪个更好"——这个问题本身就是在巩固二元对立。我们需要的是**一起追问"好的教育是什么样的"**——这是一个没有标准答案、需要跨文化合作才能接近的问题。
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > - 西方关于[[Chinese Learner\|中国学习者]]的文献长期以缺陷型描述为主，将中国学习者的特征定义为西方学术规范的"反面"(p.39)
 > - Ballard & Clanchy (1991, 1997) 虽明确警告刻板印象的危险，但西方学者选择性地放大其对中国学习者"缺陷"的描述——其著作在澳大利亚大学图书馆中被严重标注和折角的正是这些段落(p.41)
 > - 即便是所谓的"优势型"理论（如中国学习者勤奋、合作），同样构成本质化，对不符合该模型的学生造成压力；其根源可追溯至美国内战后移民时期的"模范少数族裔"建构(Murphy, 2005, 转引自 p.45)
@@ -315,9 +312,7 @@ Ryan (p.57)以 Hayhoe and Pan（2001, p.21）的"真正的对话——在愿意�
 > - 澳大利亚大学 24% 学生和中学 10% 学生为国际学生，主要来自中国及其他 [[Confucian Heritage Cultures\|CHC]] 国家(p.38)
 > - 中国有 55 个官方承认的少数民族文化，以及佛教、道教、基督教、伊斯兰教等多元宗教传统(p.47)
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “实际上，‘中国性（Chineseness）’是根据其偏离西方规范的程度来定义的，并且在主流（即西方）心理学中通常被认为是一种有趣的不同。”
 > ("Chineseness is in effect defined in terms of deviance from Western norms, and generally as being interestingly different within mainstream, that is Western, psychology.") — Watkins and Biggs (2001, p.4)，转引自 Ryan (p.40)
 

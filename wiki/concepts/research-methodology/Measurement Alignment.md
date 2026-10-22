@@ -55,12 +55,9 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Measurement Alignment
 （测量对齐）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Measurement Alignment\|测量对齐]]（Measurement Alignment）是指在教育与心理学实证研究中，[[Independent Variable\|自变量]]（如[[Epistemic Cognition\|认识论认知]]、动机、策略）的测量工具与[[Dependent Variable\|因变量]]（如[[Academic Achievement\|学业成就]]、任务表现）在“分析颗粒度（层次）”和“学科领域（情境）”两个维度上保持同构与严格匹配的方法论要求。当且仅当测量处于对齐状态时，实证数据才能真实反映认知[[Construct\|构念]]的潜在解释力。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, p. 1085)]]
@@ -75,8 +72,6 @@ updated: 2026-10-22
 > - 不等于 **[[Construct Validity\|构念效度]]** — 测量对齐是实现构念效度（特别是[[Predictive Validity\|预测效度]]与[[Ecological Validity\|生态效度]]）的关键前提条件，但单独的对齐并不能自动保证量表题目本身的结构效度。
 
 ---
-
-## 核心要素
 
 > [!taxonomy] 测量对齐的双重维度
 > [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 明确将测量对齐划分为两个独立且不可替代的子维度：
@@ -127,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -146,15 +139,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] 方法论反思
 > - **测量便利性与对齐成本的冲突** 严格实施领域和任务对齐意味着研究者不能直接复用通用的现成量表，而必须为每门学科、每项任务定制专属工具，大幅推高了测量研发成本与样本施测负担。
 > - **通用迁移能力的遮蔽风险** 过度强调微观情境对齐可能导致研究者忽视学生跨学科通用批判思维与[[Epistemology\|认识论]]美德的培养，陷入碎片化[[Situative Perspective\|情境主义]]的泥潭。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果：对齐效应比较
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

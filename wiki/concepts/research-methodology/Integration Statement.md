@@ -36,8 +36,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Integration Statement
-
 > [!info] 定义
 > 整合陈述（integration Statement）是[[Mixed Methods Research\|混合方法研究]]方案或报告中必须包含的陈述，明确说明整合量化与质性数据库的意图（intent）以及实施整合所依据的具体设计程序（procedures）。这一陈述是连接[[Research Question\|研究问题]]、设计选择和数据分析的核心纽带，应出现在研究的方法部分或引言部分([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.251]])。
 
@@ -45,9 +43,7 @@ updated: 2026-10-22
 
 ---
 
-## 写作脚本
-
-> [!tip|notitle]
+> [!tip] 写作脚本
 > 整合陈述的基本结构包含两个要素：整合的意图 + 整合的程序。不同设计类型对应不同的术语选择([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.251–252]])。
 
 **[[Convergent Design|聚敛式设计]]**
@@ -76,8 +72,6 @@ updated: 2026-10-22
 > - vs [[Mixed Methods Question]]：混合方法[[Research Question\|研究问题]]询问"整合将带来什么洞见"，整合陈述则说明"整合将如何操作"。两者共同构成混合方法研究的方法论说明。
 
 ---
-
-## 设计选择流程图
 
 > [!example] 图10.7：基于意图选择设计类型的流程图
 > ![](https://img.mylikemie.icu/books/Creswell_2022_SAGE/figures/Figure_10-7_Flowchart_for_Choosing_Design_by_Intent.jpg)

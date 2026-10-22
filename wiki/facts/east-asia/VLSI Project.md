@@ -77,11 +77,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# VLSI Project
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 日本超大规模集成电路项目（Very Large Scale Integration Project, VLSI Project）是 1976 年至 1980 年间由[[Ministry of International Trade and Industry|日本通商产业省]]（Ministry of International Trade and Industry, MITI）发起并主导的国家级高技术[[Precompetitive Research|前竞争研发]]联盟项目，旨在应对美国 IBM 推出“未来系统”（Future System, FS）及半导体先进制程领跑的严峻挑战，通过官产协同整合国内企业研发资源以避免重复研发投入，攻克微米级超大规模集成电路共性制造工艺与关键光刻装备瓶颈。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 84)]]; [[Argument_Block_2008_PS|(Block, 2008, pp. 171–172)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > - **核心问题导向** 消除日本半导体制造工艺落后于美国的技术代差，防范 IBM 在下一代计算机芯片领域的全面垄断，抢占动态随机存取内存（Dynamic Random-Access Memory, DRAM）微细加工主导权。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 依托中央联合实验室集中攻关共性前竞争基础与企业内部实验室分散开发专有产品工艺的双层双轨机制，既克服直接商业竞争对手之间的专有技术壁垒与保密顾虑，又实现了共性制造与装备技术的规模经济与[[Tacit Knowledge|隐性知识]]扩散。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
@@ -112,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1976–1977 — 联盟创立与联合研究所设立期**
 >   - [[Ministry of International Trade and Industry|MITI]] 协调五大直接竞争企业克服门户之见，组建 VLSI 技术研究组合；在东芝综合研究所内设立集中式的共同研究所，派驻百余名骨干工程师入驻。
@@ -123,8 +115,6 @@ updated: 2026-10-22
 >   - 1980 年项目结项，联合实验室解散，借调技术人员携带共性工艺诀窍回流母公司；日本企业迅速将 VLSI 成果导入 64K 与 256K DRAM 商业化量产，在 1980 年代中叶占据全球存储器市场 80% 以上的份额。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 736–738)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（[[Ministry of International Trade and Industry|MITI]] / 通产省）** 提供 40% 资金支持、制定中长期产业技术战略规划，充当跨企业信任与中立协调的制度担保人。
@@ -138,8 +128,6 @@ updated: 2026-10-22
 > - **快速回流转化机制** 结项后借调工程师全部回归母公司，直接主导各企业 64K/256K DRAM 生产线的建设与工艺调试。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 752)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入规模** 总预算 737 亿日元（约 3.5 亿美元），政府提供 40% 资助，百余名骨干工程师全职进驻。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 727)]]
@@ -157,8 +145,6 @@ updated: 2026-10-22
 > 8. **倒逼美国科技体制从大企业垄断走向[[Developmental Network State|发展型网络国家]]（DNS）** [[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）指出，日本 VLSI 项目对全美半导体制造业造成的严重冲击引发了深刻的经济与国家安全危机。美国并未盲目照搬日本设立中央集权式的产业统筹官僚机构，而是以此为契机在 1980 年代通过 1984 年《国家合作研究法》设立 [[Sematech]]、由 [[DARPA]] 资助设立 [[MOSIS]] 原型流片服务，并依托[[Bayh-Dole Act of 1980|拜杜法案]]与 [[SBIR and STTR Programs|SBIR]] 计划激活全美去中心化创新网络，最终在 1990 年代以微处理器架构革命与 Fabless-Foundry 专业化分工反超日本。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–172, 179, 181, 189)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 日本厂商历代 DRAM 全球市场最高份额演进（[[Argument_Macher_1998_CMR|Macher et al., 1998]], Table 1）
 >
@@ -180,8 +166,6 @@ updated: 2026-10-22
 > - **98%** 日本厂商在 4M DRAM 代际达到的全球最高市场份额。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与治理交锋
 >

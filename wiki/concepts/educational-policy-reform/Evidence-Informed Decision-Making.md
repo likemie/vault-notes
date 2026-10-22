@@ -53,11 +53,7 @@ created: '2026-09-12'
 updated: 2026-10-22
 ---
 
-# Evidence-Informed Decision-Making
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据知情决策（Evidence-Informed Decision-Making, EIDM）指决策者在规划、实施或调整公共政策、教育项目与专业服务前，系统咨询包括最佳可用研究证据在内的多元信息来源的专业审议过程（Langer et al., 2016; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 46–47]]）。与传统将证据利用视为单向信息传递或单一技术操作的视角不同，EIDM 框架的核心理论突破在于将证据利用确立为旨在**引发决策者行为改变（changing behaviour）** 的复杂社会心理与制度干预过程。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 证据知情决策（EIDM） vs. [[Data-Based Decision Making\|基于数据的决策]]（DBDM） vs. [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）
 > | 维度 | 证据知情决策（EIDM） | [[Data-Based Decision Making\|基于数据的决策]]（DBDM） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） |
 > |---|---|---|---|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **关键理论代表** | Langer et al. (2016); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] | Schildkamp et al. (2017) | Cain (2015); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 证据知情决策（EIDM）的核心构件体系（Langer et al., 2016）
 > - **四层干预层级（Levels of Intervention）** 涵盖个体决策者（Individual）、紧邻组织（Immediate Organisation）、广义组织系统（Wider Organisation）与国际治理网络（International）四大交互层级。
@@ -161,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -178,8 +168,6 @@ updated: 2026-10-22
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]比较中的理论定位** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 EIDM 确立为补充宏观动员模型理论盲区的前沿微观机制典范，强调其填补了决策端行动者微观因果转化机制的长期空白。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

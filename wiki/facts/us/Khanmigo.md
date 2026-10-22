@@ -47,11 +47,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Khanmigo
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > Khanmigo 是非营利教育组织可汗学院（Khan Academy）于 2023 年基于 OpenAI [[General Purpose Technology|GPT]]-4 大语言模型与检索增强生成（RAG）技术研发的教育专用人工智能导师（AI Tutor）与助教系统。其核心宗旨在于打破传统通用大模型“直接给出答案”的[[Cognitive Offloading\|认知卸载]]风险，通过严密内嵌[[Socrates\|苏格拉底]]式追问（[[Socratic Dialogue]]）与目标导向反馈，为全球学习者提供一对一的个性化自适应探究支架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **核心问题导向** 解决生成式 AI 介入教育时容易诱发的“不假思索获取答案”、“算法事实幻觉”与“人类[[Epistemic Agency\|认识主体性]]让渡”危机，探索符合教育伦理的[[Man-Computer Symbiosis|人机共生]]教学系统[[Paradigm\|范式]]。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > Khanmigo 的底层机制假说在于：通过在人机交互流程中强制嵌入过程导向行动（目标设定、进度监控、即时建设性反馈）与知识导向行动（迷思概念诊断、[[Socrates\|苏格拉底]]式引导、共同意义协商），促使学习者在保持[[Epistemic Agency\|认识能动性]]（Epistemic Agency）的前提下掌握复杂学科概念。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 359)]]
@@ -79,8 +73,6 @@ updated: 2026-10-22
 > *Khanmigo, powered by advanced [[Generative Artificial Intelligence\|GenAI]], incorporates pedagogical frameworks such as Socratic dialogue and uses techniques such as retrieval augmented generation (RAG) algorithms to deliver accurate and unbiased content... offering targeted support and personalized learning experiences.*
 
 ---
-
-## 实施成效与理论启示
 
 > [!finding-cards] 核心实证与理论启示
 > - **人机共享[[Epistemic Agency\|认识能动性]]的实体例证** 证实了生成式 AI 能够超越单纯的“信息检索机”或“答案生成器”，通过结构化促学规程成为承担过程监控与知识[[Scaffolding\|脚手架]]的共生学习伙伴。

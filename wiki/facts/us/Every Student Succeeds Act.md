@@ -82,11 +82,8 @@ status: stable
 created: 2026-09-16
 updated: 2026-10-22
 ---
-# Every Student Succeeds Act
 
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 签署主体** 美国国会于 2015 年 12 月两党压倒性高票通过（参议院 85:12，众议院 359:64），由贝拉克·奥巴马（Barack Obama）总统正式签署生效。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
@@ -95,8 +92,6 @@ updated: 2026-10-22
 > - **制度位置** 属于美国 1965 年《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的第七次全面重新授权。在宪法第十修正案确立的教育州权分权体制下，法案深刻吸取了 NCLB 诱发应试操练与集体舞弊的异化教训，标志着美国基础教育治理从僵化规制向发展型治理进路、从单一测试问责向证据分级激励的历史性跨越。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《每一个学生成功法》（Every Student Succeeds Act, ESSA 2015）在向各州下放问责评价自主权的同时，于联邦立法中确立了由四个层级构成的法定因果[[Evidence Standards\|证据标准]]，并将联邦与州 [[Title I of the Elementary and Secondary Education Act\|Title I]] 学校改进专项拨款与采纳高证据等级干预方案实施刚性绑定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23, 25)]]
@@ -138,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 政策推进历程
 > - **2015 年 12 月 — 国会两党通过与总统签署** 历经整整一届国会两会期（2 年以上）的长期立法博弈，参众两院以跨党派压倒性多数通过 ESSA，奥巴马总统签署生效，正式终结 [[No Child Left Behind Act 2001\|NCLB]] 规制型问责时代。法案漫长的再授权审议充分展现了宏观政策时间系统（[[Policymaking Chronosystem]]）的高可预期性与长周期特征。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41, 46)]]
 > - **2016 年 — 联邦证据指南出台** 联邦教育部发布 ESSA 循证规定非约束性实施指南，明确界定 TIER 1–4 的统计与设计门槛，确立 强效清算中心（[[What Works Clearinghouse]], WWC） 与 [[Evidence for ESSA]] 等平台作为国家证据判定中枢。
@@ -148,8 +141,6 @@ updated: 2026-10-22
 > - **2019 年至今 — 循证常态化治理与产业链成熟** 推动全美形成由大学智库、第三方评估机构、学区与课程出版商构成的[[Evidence-Based Education\|循证教育]]产业链，倒逼服务商主动开展大样本第三方[[Randomised Controlled Trials\|随机对照试验]]。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与统筹主体** 美国联邦教育部（ED）及所属[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES），负责制定政策实施指南与证据评级规范。
@@ -164,8 +155,6 @@ updated: 2026-10-22
 > - **基层微观合规中的单项研究依赖与采购惯性** 大型学区的实证审计表明，在政策执行中，学区倾向于采取文牍主义合规策略，仅凭单项合格研究为既有人事编制与商业供应商合同背书，使超过 95% 的资金在不重组既有支出的前提下轻松跨过法定红线。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174–177)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **投入指标** 联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 专项拨款落实规模（各州 7% 留存比例）、撬动的州级自有教育经费。
@@ -186,8 +175,6 @@ updated: 2026-10-22
 > - **49%–58%** 全量证据体综合评价下学区获稳定积极支持的资金比例。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 175)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

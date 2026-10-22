@@ -51,11 +51,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# National Survey of Student Engagement
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] National Survey of [[Student Engagement]]（NSSE）
 > - **工具类型** 全国性大学生有效学习投入与学业挑战自陈调查系统（National Student Engagement Survey Instrument）。
@@ -64,8 +60,6 @@ updated: 2026-10-16
 > - **实施方式** 年度在线标准化[[Questionnaire\|问卷]]施测，覆盖全美与加拿大逾 1,600 所四年制高等院校数百万本科生。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 有效教育实践与高阶认知投入（Engagement Indicators）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -79,15 +73,11 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **量表格式** 采用 4 点 Likert 频率评定（1-从不、2-偶尔、3-经常、4-非常频繁）与学业挑战等级。
 > - **诊断报告体系** 生成 10 项有效投入指标（Engagement Indicators）与 6 项高影响教育活动（High-Impact Practices, HIPs）对标常模报告。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -97,8 +87,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | NSSE 指标框架 | [[OECD]] 报告分析国家级学生调查作为高教质量监测信息工具的全球演进[[Paradigm\|范式]] | 全球[[Student Engagement\|学生投入]]基准调查 | 证实 NSSE 高级学习分量表为各国监测[[Higher-Order Thinking Skills\|高阶思维]]教学提供了最具代表性的实证工具母体 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

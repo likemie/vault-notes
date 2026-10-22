@@ -59,11 +59,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# World Council of Comparative Education Societies
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）是全球比较教育学界唯一的国际非政府伞状学术联合组织（NGO），享有[[UNESCO|联合国教科文组织]]（[[UNESCO]]）正式业务合作与咨商地位。其核心使命是联结各大洲与各国比较教育专业学会，抵御政治与意识形态霸权对教育研究的干预，推动全球学术平等对话、[[Discipline-Based Theory|学科理论]]反思与跨国教育合作。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1970–1976 — 奠基与国际制度化初创期** 在渥太华首届世界大会后，加拿大教育学者约瑟夫·卡茨（Joseph Katz）当选首任会长。联合会确立了多元学会平权架构，起草了宪章并确立与 [[UNESCO]] 的咨商伙伴关系。
 > - **1977–1983 — 欧洲学派领导与全球标准体系构建** 英国比较教育学家[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]，伦敦大学教育学院教授兼 [[Comparative Education Society in Europe|CESE]] 核心发起人）出任并连任两届 WCCES 主席。霍姆斯推动 WCCES 与 UNESCO、IBE 合作编制《[[International Education|国际教育]]系统指南》（*International Guide to Education Systems*, 1979），并在国际学会网络中普及以科学检验与政策预测为导向的[[Problem Approach|问题解决法]]。
@@ -87,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 治理架构与运作网络
 > - **决策机构（世界理事会执行委员会）** 由各成员学会推举的代表、会长（President）、副会长及秘书长组成，负责审议大会承办权、新成员学会资格审查及重大战略政策。
 > - **成员学会体系（Constituent Societies）** 包括区域性学会（如欧洲 [[Comparative Education Society in Europe|CESE]]、北欧 NOCIES、地中海 [[Mediterranean Society of Comparative Education|MESCE]]）与主权国家学会（如美国 [[Comparative and International Education Society|CIES]]、英国 [[British Association for International and Comparative Education|BAICE]]、德国 DGfE 比较教育分会、中国 CIES、日本 JCES 等数十个国家学会）。
@@ -96,8 +88,6 @@ updated: 2026-10-22
 > - **旗舰学术盛会** 每三年举办一届的世界比较教育大会，是全球比较教育研究者规模最大、覆盖议题最广的学术盛会。
 
 ---
-
-## 学术史意义与双重会员制辨析
 
 > [!concept-lens] 全球学术治理中的“双重会员制”与欧洲地位
 > [[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）在总结欧洲学术学会演变时专门指出，欧洲比较教育界在 WCCES 内部呈现出独特的“平行/双重会员制”（parallel membership）：

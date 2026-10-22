@@ -41,11 +41,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Technocognition
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 技术认知法（Technocognition）是一种将**认知科学（Cognitive Science）** 关于人类记忆、偏见防卫与信息加工的心理规律，与**技术架构设计（Design & Technology）**（如推荐算法、事实核查与交互提示）深度结合的跨学科治理方法。该范式由认知心理学家 Stephan Lewandowsky et al.（2017）提出，并在 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 反思后真相时代[[Educational Brokerage Agency\|教育中介机构]]角色的研究中被明确确立为应对算法茧房与科学公信力危机的根本治理进路。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]])
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 技术认知法 vs 传统证据供给与单纯技术审查
 > | 维度 | 技术认知法（Technocognition） | 传统证据供给模型（[[Deficit Model of Science Communication\|deficit model]]） | 单纯技术/行政审查（Algorithmic Censorship） |
 > |---|---|---|---|
@@ -74,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心机制与实施支柱
-
 > [!feature] 技术认知法的核心操作支柱（Lewandowsky et al., 2017; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）
 > - **算法事实核查（Algorithmic Fact Checkers）** 在社交网络与知识分发平台部署高响应事实核查机制，当涉及公共教育争议议题（如特定教学法成效、学力退化虚假归因）时，即时匹配权威实证综述并展示中立对比。
 > - **自动化预警提示（Disinformation Automatic Alerts）** 当用户接触被实证研究反复[[Falsification\|证伪]]的伪科学主张或夸大营销内容时，系统主动提供温和的认知提示，阻断错误信息在社交网络中的病毒式扩散。
@@ -83,8 +75,6 @@ updated: 2026-10-22
 > - **心理接种（Psychological Inoculation）** 依据认知心理学原理，在受众接触误导性陈述之前预先揭示其常见的操纵手法（如“挑樱桃式”指标拼凑、虚假因果归因），增强公众对虚假信息的免疫力。
 
 ---
-
-## 知识治理视阈下的学理意义
 
 > [!finding-cards] Burns & Schuller 引入该概念的理论贡献
 > - **告别古典理性主义预设** 2007 年 [[OECD]] 报告假定科学具有自明客观性，未利用仅仅是获取障碍；2022 年 Burns & Schuller 借助技术认知法，宣告了教育[[Epistemic Governance\|知识治理]]正式告别古典知识[[Deficit Model of Science Communication\|赤字模型]]，必须直面算法极化与后真相现实。

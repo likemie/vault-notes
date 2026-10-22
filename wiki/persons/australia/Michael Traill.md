@@ -54,11 +54,7 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
-# Michael Traill
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚风险投资家、[[Policy Entrepreneur\|政策企业家]]、商业银行家；[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）创会首席执行官（2002–2014）；[[Australian Schools Plus\|澳大利亚学校加计划]]（[[Australian Schools Plus\|Australian Schools Plus]]）首任董事长（2013–2018）；澳大利亚联邦总理与内阁部[[Social Impact Investing\|社会影响力投资]]工作组（Social Impact Investing Taskforce）主席（2019–2021）。
@@ -83,17 +79,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2014 — *Investing in Social Change*** 系统阐释以资本投资取代无偿赠款的[[Venture Philanthropy\|风险慈善]]理念，论证社会效益测度与[[Return on Investment\|投资回报率]]（[[Return on Investment\|ROI]]）对公共部门效能提升的必要性。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 526)]]
 > - **2016 — *Jumping Ship: From the World of Corporate Australia to the Heart of [[Social Impact Investing\|Social Investment]]*** 记录从麦格理银行投行家向全澳顶级风险慈善枢纽操盘手的角色转换；详细剖析 [[Social Ventures Australia\|SVA]] 多层控股法人设计、跨国募款网络、闭门政策协商及政商精英共生机制，成为教育政策社会学解构澳大利亚异层治理与[[Policy Network\|政策网络]]的第一手核心文献。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526, 533)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 特雷尔的核心理念是将私募股权投资与管理咨询的[[Technical Rationality\|技术理性]]、合同化问责与效益度量全面植入社会公共服务与教育领域。他主张非营利组织不应依赖传统道德施舍，而应遵循审慎投资原则，通过量化证据指标与严格绩效考核甄选高效益项目，推动国家财政由被动直接全额拨款向撬动私营资本共担风险的异层治理转型。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522)]]
 
 > [!citation-card] 商业投资视角下的非营利转型
@@ -107,15 +99,11 @@ updated: 2026-10-22
 
 ---
 
-## 争议与评价
-
 > [!warning] 学术批判与争议
 > - **民主问责的制度性[[Epoché\|悬置]]** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 指出，特雷尔作为非民选的商业精英，凭借与总理办公室高层的非公开人际网络直接介入国家[[CORE Education|核心教育]]立法，其主导的项目在竞标期间获得 1500 万澳元保密政府资助且免于公开披露，严重架空了民主代议制下的公共审议与选民监督（pp. 526–527）。
 > - **公共财富逆向输送与商业附庸化** 批判学者指出，特雷尔模式表面上动员了民间资本，实质上通过 [[Deductible Gift Recipient\|DGR1]] 减税特权使富裕阶层获得高额避税，同时使接受其赠款的弱势公立学校被迫屈从企业量规，剥夺了基层教育者的专业自主权（pp. 527–528）。
 
 ---
-
-## 相关条目与研究
 
 > [!entry-map] 关联条目
 > - 核心组织：[[Social Ventures Australia]]、[[Australian Schools Plus]]、[[Evidence for Learning]]、[[Australian Education Research Organisation]]

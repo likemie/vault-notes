@@ -44,11 +44,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Reciprocal Control Mechanism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 对等控制机制（Reciprocal Control Mechanism）是指国家向私营部门提供巨额财政补贴、税收抵免、信贷担保或市场准入保护等公共资源转让时，必须通过法定契约强制要求受助企业完成具体可测的战略目标与社会责任，从而建立权利与义务对称的双向规制机制。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - 不等于自由市场的商业采购契约 — 商业契约追求微观利润最大化；对等控制机制服务于宏观[[Strategic Autonomy|战略自主]]、国家安全、社会公平与[[Public Value|公共价值]]实现。
 
 ---
-
-## 核心要素
 
 > [!feature] 对等控制机制的三大核心要素
 > - **资源让渡的前置性（Resource Concession）** 国家提供私营市场机制无法自发生成的[[Patient Capital|耐心资本]]、建厂直接补贴、加速折旧税收优惠或特许经营权。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
@@ -111,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 对等控制机制的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -128,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 严苛对等约束 vs 产业国际[[Competitiveness|竞争力]]与投资意愿
@@ -139,8 +129,6 @@ updated: 2026-10-22
 > > - **比较政治经济学与[[Modern Industrial Policy|现代产业政策]]学者（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）** 坚决辩护称，缺乏对等控制的自由放任补贴只是把纳税人财富输送给跨国垄断巨头，对提升本土供应链韧性和增进公共福利毫无裨益。（pp. 14–15）
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 美欧半导体法案对等控制机制特征实证对照（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）
 >

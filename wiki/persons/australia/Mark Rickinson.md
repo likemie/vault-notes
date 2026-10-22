@@ -52,11 +52,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Mark Rickinson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚教育学者，莫[[Roy Nash|纳什]]大学（Monash University）教育学院教授，[[Monash Q Project\|莫纳什 Q 项目]]学术负责人。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2017 — *What Can Evidence-Use in Practice Learn from Evidence-Use in Policy?*** 跨界比较卫生、社会政策与教育领域[[Research Utilization\|证据使用]]，提炼实践端学习政策端证据治理的经验框架。
 > - **2020 — *[[Quality Use of Research Evidence Framework]]*** 正式提出 QURE 理论框架，界定核心要素、个体使能、组织使能与系统影响的四层结构。
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 研究证据不能自行发声，也不能取代专业[[Phronesis\|实践智慧]]；高质量[[Research Utilization\|证据使用]]本质上是在复杂教育系统中，由个体专业心智、组织制度保障与系统协同支持共同促成的对适切研究证据的审慎参与和实施。
 
 > [!citation-card] [[Quality Use of Research Evidence Framework\|高质量研究使用]]界定

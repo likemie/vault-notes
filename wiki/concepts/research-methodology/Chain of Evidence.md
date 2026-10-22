@@ -69,8 +69,6 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-# Chain of Evidence
-
 ---
 
 ## 定义
@@ -96,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 证据链与相关方法学[[Construct\|构念]]辨析
 > | 比较维度 | 证据链（Chain of Evidence） | [[Triangulation\|三角互证]]（Triangulation） | [[Audit Trail\|审计追踪]]（Audit Trail） | [[Toulmin's Argumentation Model\|图尔敏论证模型]]（Toulmin Model） |
 > |---|---|---|---|---|
@@ -106,8 +102,6 @@ updated: 2026-10-22
 > | **典型应用** | [[Case Study\|个案研究]]、地学回溯推测、跨学科实证论证 | [[Mixed Methods Research\|混合方法研究]]、质性[[Fieldwork\|实地调查]]验证 | [[Grounded Theory\|扎根理论]]、质性[[Ethnography\|人种志]]质量评估 | 科学论辩教学、辩论与[[Philosophical Analysis in Education\|哲学分析]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 证据链的核心构成要素
 > - **[[Research Question\|研究问题]]与设计起点（Research Question & Design）** 明确界定[[Research Scope\|研究范围]]与理论关切，确立证据搜集的目的导向与边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 289)]]
@@ -180,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -201,8 +193,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 线性追踪 vs 诠释学网络
@@ -218,8 +208,6 @@ updated: 2026-10-22
 > 证据链本身并不生产真理，它只确保了研究推理过程的可追溯性与可检验性。若底层原始数据存在系统性采样偏差或测量失真，再严密的证据链亦无法导出有效可靠的学术结论。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 证据链在不同学科与[[Paradigm\|研究范式]]中的实证应用对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -38,13 +38,9 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Social Realism
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 社会实在论（Social realism）是教育研究中的[[Epistemology\|认识论]]框架，强调学科知识的重要性。它认为知识是社会建构的，同时承认知识独立于知者存在且具有在世界中的效果。社会实在论主张为所有学生提供接触学科概念性[[Ways of Knowing\|认知方式]]的机会，同时认识到知识是社会建构的且会变化([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 
 > [!quote|notitle]

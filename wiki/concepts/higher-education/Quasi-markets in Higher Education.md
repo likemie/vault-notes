@@ -41,11 +41,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Quasi-markets in Higher Education
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 高等教育准市场（Quasi-markets in Higher Education）是 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]在分析高等教育新政治经济学时系统讨论的一种资源分配机制。它指政府通过标准化产出指标（如研究评估结果、引用数据、排名）来决定对高等院校和学术单位的拨款，制造了一种"看似市场、实为行政分配"的治理形态([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.801–802]])。
 
 与真正的市场不同，准市场中的"买方"（政府）不是根据价格和质量自由选择，而是根据一套预设的评估指标来决定资金流向。"卖方"（大学和学术单位）不是通过降低价格或提高效率来竞争，而是通过优化其在评估指标上的得分来争夺资源。由于评估指标本身就偏向已有资源优势的院校，准市场作为"[[Matthew Effect in Academia|制度化的马太效应]]"运作，资源向已经拥有资源的机构进一步集中（p.801）。

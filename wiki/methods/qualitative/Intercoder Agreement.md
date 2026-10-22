@@ -73,11 +73,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Intercoder Agreement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **编码者间一致性（Intercoder Agreement，又称编码者间[[Reliability\|信度]]、intercoder reliability）** 是[[Qualitative Research\|质性研究]]、[[Content Analysis\|内容分析]]与[[Meta-analysis\|元分析]]编码中评估分析质量与[[Measurement Invariance\|测量等值性]]的关键[[Reliability\|信度]]规程：指两名或多名独立编码者在面对相同的数据文本段落或文献特征时，依据预先设定的编码方案独立赋予相同或相近范畴代码的重叠程度（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 573–574]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9, p. 215]]）。

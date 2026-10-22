@@ -126,7 +126,6 @@ status: active
 created: 2026-05-05
 updated: 2026-10-22
 ---
-# Argument_Wadhwa_2024_RER
 
 ---
 
@@ -148,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -161,8 +158,6 @@ updated: 2026-10-22
 > 论文将清算中心视为教育政策生态中的“特质测量工具”：如果各个清算中心对同一项目的有效性评级能够高度收敛（[[Convergent and Discriminant Validity\|convergent validity]]），则表明学界与政策界对“何为循证”存在共识性操作定义；反之，若评级离散且最常发生极端冲突（1&3 完全不一致），则说明“基于证据”在[[Operationalization\|操作化]]层面缺乏一致意义。理论框架明确了“信度是效度的必要条件”这一逻辑底线，将实证测量的不一致性直接上升为对循证运动制度化实践的构念效度反思(pp. 4, 26–27)。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -181,8 +176,6 @@ updated: 2026-10-22
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -196,9 +189,7 @@ updated: 2026-10-22
 
 ---
 
-### 步骤一：清算中心景观与制度异质性
-
-> [!claim|lead] 步骤一主张
+> [!claim] 步骤一：清算中心景观与制度异质性
 > [[Educational Evidence Clearinghouses\|教育证据清算中心]]在组织使命、服务对象、资金支持和评估对象上展现出极大的制度[[Heterogeneity\|异质性]]，这种异质性从源头上决定了各中心制定评估规则的出发点与资源能力(pp. 6–8)。
 
 > [!chain-link] 机构筛选与排除边界
@@ -240,9 +231,7 @@ updated: 2026-10-22
 
 ---
 
-### 步骤二：因果推断方法论标准与单项研究质量
-
-> [!claim|lead] 步骤二主张
+> [!claim] 步骤二：因果推断方法论标准与单项研究质量
 > 所有清算中心均视[[Randomised Controlled Trials\|随机对照试验]]（RCT）为[[Causality\|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（流失、基线等值、分析层次、[[Intent-to-Treat Analysis\|意向治疗分析]] [Intention-to-Treat, [[Initial Teacher Training\|ITT]]] 与[[Complier Average Causal Effect\|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs\|准实验设计]]（QED）、[[Regression Discontinuity Design\|断点回归设计]]（RDD）和中断时间序列（[[Intelligent Tutoring Systems\|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
 
 > [!chain-link] 设计编码与实施细则
@@ -278,9 +267,7 @@ updated: 2026-10-22
 
 ---
 
-### 步骤三：高等级项目评级门槛与证据综合标准
-
-> [!claim|lead] 步骤三主张
+> [!claim] 步骤三：高等级项目评级门槛与证据综合标准
 > 当清算中心从单项研究质量评价迈向项目整体有效性综合评级时，其设定的最高证据门槛产生了本质分歧：部分中心要求极其严苛的独立外部复制与长期追踪，而另一些中心仅需单项具有[[Statistical Significance\|统计显著性]]的短期研究(pp. 11–15)。
 
 > [!chain-link] 综合标准微观对比
@@ -314,9 +301,7 @@ updated: 2026-10-22
 
 ---
 
-### 步骤四：项目评级一致性实证检验
-
-> [!claim|lead] 步骤四主张
+> [!claim] 步骤四：项目评级一致性实证检验
 > 在去重后的 1,359 个教育项目中，绝大多数（83.2%）仅获得单一清算中心的评价；而在获得多重评级的项目中，评级完全一致率仅约 30%，且一致性主要集中在“不推荐”，完全冲突（推荐 vs 不推荐）成为最主要的分歧形式(pp. 16–21)。
 
 > [!chain-link] 项目池构建与评级转换
@@ -393,9 +378,7 @@ updated: 2026-10-22
 
 ---
 
-### 步骤五：五大深度案例拆解与分歧归因
-
-> [!claim|lead] 步骤五主张
+> [!claim] 步骤五：五大深度案例拆解与分歧归因
 > 通过对五个知名成熟教育干预案例（[[Open Court Reading\|开放式阅读]] [OCR]、人人成功 [SFA]、[[Peer-Supported Learning\|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies\|PALS]]、[[Quantum Opportunity Program\|量子机会项目]] [[Quantum Opportunity Program\|QOP]] / EQOP]、[[Communities in Schools\|校内社区]] CIS）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入文献池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
 
 > [!chain-link] 案例一：开放式阅读（[[Open Court Reading]], OCR） —— 表面结论一致掩盖底层评估分歧
@@ -437,9 +420,7 @@ updated: 2026-10-22
 
 ---
 
-### 步骤六：分歧机制归因与构念效度审思
-
-> [!claim|lead] 步骤六主张
+> [!claim] 步骤六：分歧机制归因与构念效度审思
 > 四种潜在分歧机制中，“证据综合门槛差异”是导致清算中心评级不一致的最核心原因，“纳入研究池与检索时效差异”次之，而“评估结果域差异”与“项目变体混淆”属于较易通过使用者甄别克服的次要因素(pp. 26–27)。
 
 > [!factors] 四种分歧解释机制的解释力排序
@@ -465,8 +446,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **清算中心制度与方法标准高度异质** 12 个教育清算中心在使命领域、资金规模（[[What Works Clearinghouse\|WWC]] 获超 1 亿美元资助）和评估对象上高度分化；虽普遍推崇 [[Randomised Controlled Trials\|RCT]]，但在集群处理、流失模型、[[Quasi-Experimental Designs\|QED]] 采纳和综合门槛上缺乏统一标准(pp. 6–15)。
 > 2. **多重评级极度稀疏（仅 16.8%）** 1,359 个项目中 83.2% 仅由单一清算中心评级；仅有 16.8% 的项目拥有可供交叉验证的多重评级，且无任何项目被超过 5 个中心共同评估(p. 18)。
@@ -484,8 +463,6 @@ updated: 2026-10-22
 > - **>$100M** 美国教育部对 WWC 的累计资金支持总额(p. 8)
 
 ---
-
-## 关键引用
 
 > [!citation-card] 循证评级的政策愿景与现实差距
 > 识别“基于证据”的干预措施仍然更多地是一种政策愿景，而不是一种可靠的研究实践。(p. 3)

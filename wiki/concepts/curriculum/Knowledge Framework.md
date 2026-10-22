@@ -42,11 +42,7 @@ created: 2026-08-04
 updated: 2026-10-15
 ---
 
-# Knowledge Framework
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识框架是 [[Theory of Knowledge\|知识论]]课程中用于系统考察[[Areas of Knowledge\|知识领域]]的分析工具。2013 年指南从范围、动机与应用，专门术语与概念，[[Knowledge Production\|知识生产]]方法，关键历史发展，以及与个人知识的互动五个维度组织[[Domain Analysis\|领域分析]]，使学生能够使用共同维度比较不同知识传统。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]
@@ -65,8 +61,6 @@ updated: 2026-10-15
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] ToK 的三个分析层级
 > | 维度 | [[Areas of Knowledge\|知识领域]] | 知识框架 | [[Ways of Knowing\|认知方式]] |
 > |---|---|---|---|
@@ -76,8 +70,6 @@ updated: 2026-10-15
 > | **与[[Knowledge Questions\|知识问题]]的关系** | 提供问题发生的领域标准与材料 | 组织问题在领域内部和领域之间的展开 | 提供审查主张与观点的认识路径 |
 
 ---
-
-## 核心要素
 
 > [!framework-table] 五个分析维度
 > | 维度 | 分析重点 | 对[[Areas of Knowledge\|知识领域]]的考察方向 |
@@ -145,8 +137,6 @@ updated: 2026-10-15
 > [!claim] Hughes, C.
 > **框架与[[Construct\|构念]]覆盖** ToK 的目标和评分描述符强调知识领域联系、不同观点与知识问题，知识框架能够服务这些[[Epistemology\|认识论]]活动。评分要求较少覆盖批判性阅读、评价来源是否可信、假设检验、不确定性判断、[[Problem Solving\|问题解决]]和创造，因此框架的存在不能单独建立完整的[[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 |
 > |---|---|---|
@@ -158,8 +148,6 @@ updated: 2026-10-15
 
 ---
 
-## 争议与批评
-
 > [!critique-method] 使用风险
 > - **领域本质化** 以单一[[Ways of Knowing\|认知方式]]或方法概括整个领域，容易形成数学只依赖推理、艺术只依赖表达、科学只依赖[[Falsification\|证伪]]等简化判断。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 39)]]
 > - **维度清单化** 五个维度若被机械分割，概念、方法、历史与个人知识之间的互动会被压缩为表面覆盖。分类框架适合诊断覆盖范围，不宜充当机械清单。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34–35)]]
@@ -169,8 +157,6 @@ updated: 2026-10-15
 > Hughes 分析的是 2013 年 ToK 指南中的知识框架及其课程位置。指南文本能够说明预设分析结构，无法单独判断教师如何使用五个维度，也无法判断学生是否形成深入的领域理解。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31, 35–36)]]
 
 ---
-
-## 应用案例
 
 > [!evidence-grid] 课程分析中的应用
 > - **[[Areas of Knowledge\|知识领域]]比较** [[Argument_Hughes_2014_JRIE\|Hughes (2014, pp. 35–36)]] 记录 2013 年指南如何用五维框架组织学生对选定知识领域的考察。

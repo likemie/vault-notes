@@ -91,11 +91,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Intelligent Tutoring Systems
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 智能导师系统（Intelligent Tutoring Systems, ITS）是指利用人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）技术模拟人类优秀教师一对一辅导行为的计算机教学系统。该系统通过对学习者的实时解题步骤与认知状态展开细致追踪，在无需人类教师即时干预的情况下，自适应地推演学习者的认知阻碍、动态调整教学策略并提供即时、逐级的矫正反馈与线索[[Scaffolding\|脚手架]]。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 6–7)]]
@@ -123,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 数字化教学工具核心形态辨析
 > | 维度 | 智能导师系统（ITS） | 传统操练程序（Drill-and-Practice） | 超媒体信息系统（Hypermedia） | [[Generative AI Agent in Education\|生成式教育智能体]]（[[Generative Artificial Intelligence\|GenAI]] Agent） |
 > |---|---|---|---|---|
@@ -136,8 +130,6 @@ updated: 2026-10-22
 > | **典型局限** | 规则工程开发成本高，对[[Wicked Problem\|劣构问题]]适应性弱 | 无法引导深层概念理解，易引发机械厌烦 | 缺乏自适应导航易引发认知迷航与注意力分散 | 存在算法幻觉风险，解题步骤验证确定性不足 |
 
 ---
-
-## 核心要素与系统架构
 
 > [!feature] 智能导师系统四大经典构件与前沿架构
 > - **领域模型（Domain / Expert Model）** 储存学科的事实、概念、定理推导规则与多路径解题逻辑，代表领域专家的知识结构体系与正确解题空间。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
@@ -235,8 +227,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -246,8 +236,6 @@ updated: 2026-10-22
 > | **探究过程挖掘与人机双轨支架** | 突破良构解题局限，利用过程日志挖掘与教师看板构建人机协同双轨探究支架 | 虚拟实验室科学探究、变量控制策略习得与跨学期远迁移 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; Gobert et al. (2023) |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 智能导师系统的演进历程
 > - **1970年代 规则推理系统发轫** SCHOLAR 与 WHY 等早期系统探索利用语义网络进行[[Socrates\|苏格拉底]]式人机问答辅导，奠定计算机自适应问答雏形。
@@ -260,8 +248,6 @@ updated: 2026-10-22
 > - **2026 年 — Q-Tutor 提问型导师：对直接答案范式的教育哲学批判与逆向重构** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 从[[Virtue Epistemology|美德认识论]]（Virtue [[Epistemology]]）出发，对包括传统 ITS 在内的所有倾向于直接输出答案的智能辅导系统提出根本性批判：此类系统虽能逐步提示步骤，但在设计逻辑上仍以最终答案为终点，当学习者触达底层线索时等同于[[Cognitive Offloading|认知外包]]。Naeem 提出提问型导师（Question-Tutor, Q-Tutor）作为替代架构：系统通过内置直接答案拦截规则，彻底拒绝向学生输出任何形式的现成结论，转而以层层递进的封闭→开放提问序列引导学生独立[[Constructed Knowledge|建构知识]]，将 AI 的角色从答案传递者彻底转变为认知挣扎的催化者，以防范[[Cognitive Deskilling\|认知去技能化]]与[[Creativity|创造力]]萎缩。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 274–278)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -295,8 +281,6 @@ updated: 2026-10-22
 > - **对高阶情境化[[Task Structure\|劣构任务]]适应性有限** 当面对多解性课题、团队协作探究或真实世界复杂工程问题时，预设的解题树与概率模型难以胜任对非确定性思维进程的动态跟踪。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -344,8 +328,6 @@ updated: 2026-10-22
 > > | Wang et al. (2019) | Intelligent tutoring systems | 58 | 10,764 | 58 | 0.49 |  |
 
 ---
-
-## 领域应用
 
 > [!entry-map] 智能导师系统在基础教育与学科教学中的应用网络
 > | 学科或领域 | 典型教学场景 | 关键机制与支架形式 | 实证表现与代表研究 |

@@ -41,11 +41,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# Dual-Entity Legal Structure
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **双层法人架构（Dual-Entity Legal Structure）**，在教育政治经济学与非营利法研究中亦称**双层公司架构（Dual-Corporate Structure）** 或**慈善控股商业套利架构**，是指由顶层享有免税特权的非营利性“注册慈善信托”（Charitable Trust），全资控股底层一家或多家“营利性商业有限责任公司”（Commercial Company Limited by Shares）所形成的混合治理形态。[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）借此架构使商业子公司承接政府外包合同，再将利润以“慈善捐赠”名义免税转移至母体信托，从而合法规避企业所得税，并借助信托外壳规避《官方信息法》（OIA）的信息穿透公开。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 25–26, 47–53)]]
@@ -78,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **顶层免税信托母体（Parent Charitable Trust）** 在国家慈善部门注册，确立“促进教育”的法定公益宗旨，依法享有免征所得税地位并累积留存净资产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
 > - **底层全资商业子公司（Operating Commercial Subsidiary）** 设立独立的商业有限责任公司，以市场主体身份参与政府与学校商业采购招标。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
 > - **免税利润捐赠通道（Tax-exempt Internal Transfer）** 商业公司将扣除运营成本、高管津贴与顾问费后的账面营业利润，以“免税慈善捐赠”名义全额转移给母体信托，完全规避 28% 企业所得税。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 49)]]
@@ -128,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 自营筹资反哺公益 vs 侵蚀国家税基与公办教研
@@ -163,8 +153,6 @@ updated: 2026-10-22
 > 该概念高度依附于普通法系（Common Law）对慈善信托法人资格及商业投资行为的宽松规制环境，在实行严格非营利财产隔离与禁止商业控股的大陆法系国家中缺乏直接对应的制度外壳。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

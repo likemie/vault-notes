@@ -78,11 +78,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Teach Classroom Observation Tool
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Teach [[Classroom Observation]] Tool
 > - **工具类型** 课堂外部[[Structured Observation|结构化观察]]与[[Coding in Qualitative Research|质性编码]]规程（observation-tool）。

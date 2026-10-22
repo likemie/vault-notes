@@ -64,11 +64,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Humanistic Episteme
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义[[Geisteswissenschaften|人文科学]]（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 人本[[Epistemology\|认识论]]与[[Positivism\|实证主义]][[Technical Rationality\|技术理性]][[Paradigm\|范式]]的维度辨析
 > | 维度 | 人本认识论（Humanistic Episteme） | 实证主义技术理性范式（Positivist Technocratic Paradigm） |
 > |---|---|---|
@@ -103,9 +97,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **全人文化教化（[[Paideia]] / [[Bildung]]）本体** 超越职业培训与技能传授的狭隘功利算计，将教育理解为涵养伦理自觉、理性判断与文化认同的精神培育过程。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 > - **以人（Anthropos）为中心的价值取向（Anthropocentrism）** 坚决抵制将人异化为国家官僚机器或经济增长引擎的工具化倾向，坚守教育服务于人的全面自由发展的至高地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Nash, 1977; Kazamias, 2009: 52, 引自 Kazamias, 2009b)]]
 > - **跨越学科边界的广义科学观（Wissenschaft）** 视比较教育学为跨越人文学科与[[Scientific Method\|经验科学]]边界的综合智慧系统，与哲学、历史学和宗教学深度贯通。[[Argument_Kazamias_2009_ForgottenThemes\|(Hans, 1959: 299; Kazamias, 2009: 39, 引自 Kazamias, 2009b)]]
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -167,8 +157,6 @@ updated: 2026-10-22
 > - **2000 年代至今 — 跨国治理反思与全人教化的人本复兴** 随着[[OECD\|经合组织]]（OECD）与国际评估项目（[[PISA]]）引发全球“[[Governing by Numbers\|以数字治理]]（Governing by Numbers）”的同质化危机，卡扎米亚斯与考恩等学者重新激活人本认识论，倡导以“以人为中心”的历史人文视野反思当代教育异化。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009; Cowen, 2023, 引自 Kazamias, 2009b)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

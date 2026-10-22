@@ -86,11 +86,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# IEA
-
 ---
-
-## 背景
 
 > [!event-context] 机构与历史背景
 > - **时间 / 地点** 1958 年在[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）汉堡教育研究所会议上发起筹划，1967 年在比利时正式注册为独立国际学术非政府组织；现秘书处设在荷兰阿姆斯特丹与德国汉堡。
@@ -101,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 发展与测评演变脉络
 > - **1958–1960s 初 — 机构创立与探索性先导研究** 跨国学者在汉堡确立通过标准化[[Achievement and Aptitude Tests|成就测验]]开展跨国比较的设想；1959–1962 年实施 12 国先导测试（Pilot Twelve-Country Study），证实了跨语言与跨文化标准化量化测验的可行性。
 > - **1964–1967 — 首次国际数学研究（FIMS）确立跨国实证典范** 实施覆盖 12 个国家的首个正式大规模比较项目（First International Mathematics Study, FIMS），首次系统测定学校特征、家庭背景与数学学业产出之间的统计共变关系，成为战后第三代际实证[[Scientific Paradigm|科学范式]]的标杆。卡扎米亚斯指出，哥伦比亚大学学派的诺亚与埃克斯坦正是依托此类大规模跨国数据集与[[Multiple Regression|多元回归]]技术，将具体的国家名称消解为跨国[[Variable|变量]]（如家庭收入不平等程度、中央集权度），推动了比较教育向[[Scientific Method|经验科学]]的大转型。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
@@ -110,8 +104,6 @@ updated: 2026-10-22
 > - **1990s 至今 — 旗舰项目制度化与直面 [[PISA]] 竞争** 1995 年启动周期性“国际数学与科学[[Trend Study|趋势研究]]”（[[TIMSS]]），2001 年启动“[[PIRLS|国际阅读素养进展研究]]”（PIRLS），确立了以学校课程大纲为基准的国际常模；同时面临[[OECD|经济合作与发展组织]]（[[OECD]]）发起的 PISA（国际学生评估项目）在政策市场上的激烈竞争。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] 卡扎米亚斯论 IEA 作为“以[[Variable|变量]]替代系统”纲领的跨国实证依托
 > 卡扎米亚斯在梳理战后第三代际实证[[Scientism|科学主义]]运动时指出，以诺亚和埃克斯坦为代表的哥大学派致力于实现将“社会系统或可观察事实的名称替换为概念（变量）名称”的方法论雄心。为了检验关于社会不平等与教育产出的跨国通则，[[Positivism|实证主义]]学者迫切需要摆脱个别国家的制度白描，而 IEA 大规模跨国测试数据为这类[[Multiple Regression|多元回归]]与统计[[Causal Modeling|因果建模]]提供了前所未有的标准化经验依托。国家在此被简化为[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]的抽样容器，从而支撑了战后比较教育追求无时态普遍规律的量化革命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
@@ -137,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与评论
-
 > [!actor-grid] 评论视角
 > - **IEA 官方与测量学视角** 强调其评估紧扣参与国官方课程大纲（Intended, Implemented, and Achieved Curriculum），坚持学术非营利与专业测量标准，旨在通过实证调查辅助学校教学改进。
 > - **比较学科史与[[Epistemology|认识论]]批判视角** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）援引[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）对“方法论主义（[[Empiricism|Methodologism]]）”的批评指出，IEA 式的跨国测评将科学研究窄化为单一的数学建模与量化指标，切断了教育与价值、道德及历史土壤的联系；其实证模型在冷战时期深度扮演了国家五年计划、[[Human Capital Theory|人力资本]]规划与第三世界技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
@@ -151,8 +141,6 @@ updated: 2026-10-22
 > - **能力本位生活素养（红方）** OECD PISA 主张摆脱课程局限，测验学生在现实成人情境中迁移与应用知识的一般能力（Yield-oriented Literacy），展开全球市场化竞争。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
-
-## 相关概念／政策
 
 > [!entry-map] 核心关联网络
 > | 条目 | 类型 | 关系说明 |

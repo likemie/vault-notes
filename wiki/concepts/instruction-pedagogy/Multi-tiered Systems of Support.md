@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Multi-tiered Systems of Support
-
 > [!metax] [多层支持系统 · Multi-tiered systems of support](https://www.visiblelearningmetax.com/influences/view/multi-tiered_systems_of_support)
 > 教学策略 › 教学方法
 >

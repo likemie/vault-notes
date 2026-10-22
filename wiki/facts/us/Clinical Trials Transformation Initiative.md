@@ -34,8 +34,6 @@ created: 2026-06-03
 updated: 2026-10-22
 ---
 
-# Clinical Trials Transformation Initiative
-
 > [!info] 内容
 > [[Clinical Trial\|临床试验]]转型倡议（Clinical Trials Transformation Initiative, CTTI）于 2007 年由美国食品药品监督管理局（U.S. Food and Drug Administration, FDA）和杜克大学（Duke University）共同发起，是一个多利益相关方[[Public-Private Partnership|公私合作伙伴关系]]（multi-stakeholder public–private partnership）（p.210）。
 

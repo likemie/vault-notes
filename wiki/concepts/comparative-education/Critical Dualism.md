@@ -61,11 +61,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# Critical Dualism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 批判二元论（Critical Dualism）是由英国比较教育学家[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）借鉴[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的社会哲学所确立的方法论原则。该原则主张严格区分人为确立的规范法则或公约（normative laws or conventions）与超出个体意志控制的客观社会或机构运行规律（sociological laws），为比较教育分析提供双重制度与文化解构视界。霍姆斯指出，规范法则是人造且可被人类自主接受、废除或修改的价值信念，构成了学校运行的深层文化情境；而社会学法则则是描述机构客观功能的假说性陈述，具有严格的情境权变性（contingency）并必须接受经验[[Falsification\|证伪]]检验。通过二元切分，比较教育学得以在拒斥绝对超越时空的机械[[Determinism\|决定论]]的同时，摆脱纯粹主观[[Empiricism\|经验主义]]与相对主义的泥潭。[[Argument_Mattheou_2009_ScientificParadigm\|(Holmes, 1981; Mattheou, 2009, pp. 62–63)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!tension-table] 规范法则与社会学法则的二元[[Ontology\|本体论]]对照
 > | 比较维度 | 规范法则（Normative Laws） | 社会学法则（Sociological Laws） |
 > |---|---|---|
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > | **启发原型** | 古典人文学科、政治哲学经典与法学公约 | 相对论物理学（爱因斯坦）与机构社会学 |
 
 ---
-
-## 核心要素
 
 > [!feature] 批判二元论的四大分析构件（pp. 62–67）
 > - **规范模式的跨国[[Typification\|理想类型化]]（Normative Patterns）** 霍姆斯主张将人类历史上沉淀的深层哲学传统提炼为跨国理想类型（如[[Plato\|柏拉图]]主义精英教化、马克思主义全面发展、[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]][[Democratic Education\|民主教育]]），作为衡量特定国家教育目标与伦理追求的[[Criterion-Referenced Test\|标准参照]]系。
@@ -169,8 +161,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -180,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 批判二元论的知识谱系演进
 > - **1945 年 — 波普尔奠定批判理性主义哲学基石** [[Karl Popper\|卡尔·波普尔]]（Karl Popper）在《开放社会及其敌人》中系统阐述批判二元论，严格划清自然界客观规律与人类自设规范公约的界限，清算将道德价值还原为历史必然性的[[Determinism\|决定论]]历史主义。
 > - **1965 年 — 霍姆斯开辟比较教育[[Problem Approach\|问题法]]转化** 霍姆斯在《教育中的问题》（*Problems in Education*）中首次将批判二元论系统引入比较教育，建构由规范模式与机构背景组成的情境[[Analytic Framework\|分析框架]]，将教育政策重塑为可检验假说。
@@ -189,8 +177,6 @@ updated: 2026-10-22
 > - **2000 年代至今 — 学科史重估与现代性反思** [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] 等学者系统复盘批判二元论，指出其在[[Positivism\|实证主义]]狂飙突进的年代为历史人文传统守住了合法阵地，但在官方政策资助市场却因其哲学复杂性与揭示非意图后果的尖锐性而遭到技术官僚冷落。
 
 ---
-
-## 争议与批评
 
 > [!debates] 围绕批判二元论的方法论学术争鸣
 >

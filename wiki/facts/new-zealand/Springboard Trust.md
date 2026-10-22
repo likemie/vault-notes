@@ -44,11 +44,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# Springboard Trust
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 跳板信托（Springboard Trust）是一家总部设于奥克兰的专业教育慈善信托，开创了由私营跨国工商业界资深高管作为“能力伙伴”（Capacity Partners）一对一派驻辅导薄弱公立中小学校长制定三年商业战略规划的咨询式办学支持模式。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 致力于通过提升学校校长的企业化战略领导力与规划技能，改善公立学校管理效能，缩小弱势族裔与贫困学生的学业差距。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2007–2013 年** **模式创立与试点摸索**
@@ -80,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **董事会（Board of Trustees）** 创办人 Ian Narev 长期执掌董事会；董事主要来自顶级管理咨询公司、跨国投资银行、大型律所合伙人与资深企业高管。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
 > - **能力伙伴网络（Capacity Partners Pool）** 汇聚数百位来自私营部门的志愿高管，包括跨国银行行长、企业财务总监与咨询经理。
@@ -94,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **战略领导力项目（SLP）** 核心旗舰培训模块，涵盖环境扫描、愿景确立、关键阻碍诊断与年度行动计划编制。
 > - **战略实施项目（SIP）** 规划落地后的跟踪辅导，监督学校依照设定的商业里程碑推进日常行政与教学管理。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > *Springboard Trust provides business people as 'Capacity Partners' who work alongside principals to assist them to develop strategic plans for their school... connecting business expertise with education.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **校长受训覆盖面** 累计培训并辅导新西兰数百所公立中小学校长，特别在薄弱学区校长群体中拥有极高渗透率。
@@ -128,8 +116,6 @@ updated: 2026-10-22
 > - **1:1** 商业高管“能力伙伴”与公立学校校长的配对比例。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

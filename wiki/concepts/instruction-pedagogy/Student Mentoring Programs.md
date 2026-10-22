@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Student Mentoring Programs
-
 > [!metax] [导师指导 · Mentoring](https://www.visiblelearningmetax.com/influences/view/mentoring)
 > 教学策略 › 教学方法
 >

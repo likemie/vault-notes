@@ -32,11 +32,7 @@ created: '2026-05-12'
 updated: 2026-10-22
 ---
 
-# Social Charter
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 社会宪章（social charter）由 Meyer（1970）提出，指每所大学与社会之间一份不成文的约定：大学向社会"承诺"它的毕业生能获得什么样的社会地位。这份宪章不是写在招生简章或法律条文里的——但它真实地运作于社会认知之中，深刻地影响着学生的自我认同、雇主的选择偏好以及大学在社会分层中的位置([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.127–128]])。
 
 > [!quote|notitle]
@@ -80,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 与全球大学排名的关系
-
-> [!note|notitle]
+> [!note] 与全球大学排名的关系
 > [[Argument_Boyadjieva_2022_Springer\|Boyadjieva (2022)]]将社会宪章置于对 [[Global Universities Rankings\|全球大学排名]] 的系统批判中心。她的论证逻辑如下（pp.127–128, 132–136）：
 
 1. **排名只能测量"组织"维度的产出** 论文数、引用率、科研经费——这些都是大学作为"组织"的效率指标。

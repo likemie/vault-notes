@@ -40,11 +40,7 @@ aliases:
   - 政策复杂性悖论
 ---
 
-# Complexity Paradox
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）** 是指现代公共治理中所出现的一种结构性制度异化现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康危机、人口老龄化与绿色数字双转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、退守部门壁垒并陷入碎片化与条块分割。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统引入使命导向政策分析，用以解释为何旨在发挥跨部门宏观协调功能的创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
@@ -65,8 +61,6 @@ aliases:
 
 ---
 
-## 机制解析与制度异化
-
 > [!tension-table] 现代政策协调困境与复杂性悖论的生成机制
 >
 > | 制度维度 | 现实表现与异化机制 | 治理后果与理论推导 |
@@ -76,8 +70,6 @@ aliases:
 > | **核心职能[[Externalization\|外部化]]与[[Cognitive Deskilling\|去技能化]]** | 广泛将战略规划、数字化与技术评估外包给商业咨询机构，导致公共机构丧失跨部门整合的内部技术理解力。 | 部门间缺乏共享的专业[[Discourse\|话语]]与技术协调能力，进一步退守各自条块。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 复杂性悖论的三大核心构成要素
 > - **议题跨界交织性（Issue Interconnectedness）** 应对气候危机、产业脱碳与健康老龄化等[[Wicked Problem|棘手问题]]需要科技、财政、规制与产业政策的协同联动。（pp. 790–791）

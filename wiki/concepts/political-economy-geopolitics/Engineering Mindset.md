@@ -105,11 +105,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Engineering Mindset
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **工程思维（Engineering Mindset）** 是指在应对高度复杂、动态演化且充满生死与竞争压力的现实挑战时所形成的一套以实战结果为唯一检验标准、以系统敏捷迭代为演化路径、以跨职能去中心化协作为组织形态的文化[[Paradigm|范式]]。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的理论体系中，工程思维构成了连接制度诊断与微观机制重塑的枢纽概念：在 20 世纪末[[Dot-Com Bubble|互联网泡沫]]破裂的经济废墟之中，大量投机性商业模型被历史淘汰，但硅谷在工程实践中偶然摸索出的工程思维——一种全新的动员个体才华、打破层级束缚与直面物理现实的[[Organizational Culture|组织文化]]，成为了那个时代最持久、最具变革性的制度遗产；进一步地，工程思维主张打破公共部门自我麻痹的[[Procedural Piety|程序虔敬]]与合规条框，以实质战略成果交付和权责对称的激励机制，彻底消灭公共部门[[Innovation Desert|创新荒漠]]、重塑西方民主政体[[Hard Power|硬实力]]并重建[[Technological Republic|技术共和国]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 184–187)]]
@@ -156,9 +152,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **实战结果导向** 拒绝将论文、演示文稿与合规文件等同于实质成果，唯一评价标准是工程产物在真实物理世界与作战环境中的效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 > - **群体才华动员机制** 突破传统[[Bureaucracy|科层制]]对人才的机械分工，形成类似于[[Flocking Behavior|椋鸟群飞]]与[[Role-playing|即兴戏剧]]的高效自组织协同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **[[Edge Autonomy|边缘自治]]与一线授权** 将关键决断权下放给直接面对外部物理现实与代码的工程师，彻底废除中间管理层的信息中介与阻滞。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
@@ -291,8 +285,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与实践者 |
 > |---|---|---|---|
@@ -323,8 +315,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 实战结果导向与合规程序正义的潜在张力
@@ -343,8 +333,6 @@ updated: 2026-10-22
 > 工程思维强调高度的个人责任对称、反权威与[[Agile Governance|敏捷试错]]，适用于需要突破性解决复杂未知难题的实战领域；在追求高度标准化、零容错率或强调程序正义的传统公共事务中，需注意与现有宪政规则和程序正义的精细协调。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 支撑工程思维微观机制与[[Epistemology|认识论]]效能的关键实证研究
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

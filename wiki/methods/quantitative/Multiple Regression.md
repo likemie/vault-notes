@@ -45,14 +45,10 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Multiple Regression
-
 > [!info] 定义
 > 多[[Meta-regression\|元回归]]（Multiple Regression）是将 Pearson 相关扩展到两个或以上预测[[Variable\|变量]]（predictor variables）的推断统计方法。它用于评估多个[[Independent Variable\|预测变量]]（自变量）与一个[[Dependent Variable\|结果变量]]（因变量）之间的关系，提供整体模型拟合指标（R² 和 F 统计量）以及每个预测变量的相对贡献（b 系数和 t 统计量）。多元回归揭示了众多变量中哪一个变量对结果的相对预测力最强（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > Creswell & Creswell (2022, Ch8, Table 8.3) 提供的选择标准：
 > - [[Research Question\|研究问题]]性质：关联[[Variable\|变量]]（relate variables）
 > - [[Independent Variable\|自变量]]数量：2 个或以上
@@ -86,8 +82,6 @@ updated: 2026-10-22
 > - [[Independent Variable\|预测变量]]数量大而[[Sample Size Determination\|样本量]]小会导致过拟合（overfitting）——R² 被夸大且模型在新样本中表现差。
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 采用分层与多元线性回归分析，在控制学校导向（确定知识）后检验固定与快速学习能力（FQAL）及[[Simplicity of Knowledge\|简单知识]]（SK）对总体[[Academic Achievement\|学业成就]]、[[Task Structure\|良构与劣构任务]]表现及[[Reflexivity\|反思性]]判断的预测力。

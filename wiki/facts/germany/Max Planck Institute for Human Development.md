@@ -50,11 +50,7 @@ created: 2026-09-29
 updated: 2026-10-21
 ---
 
-# Max Planck Institute for Human Development
-
 ---
-
-## 机构概况
 
 > [!policy-context] 机构档案
 > - **成立时间 / 主管机构** 1963 年创立于西柏林，直属于德国顶尖基础科研学术联合体——[[Max Planck Society|马克斯·普朗克科学促进学会]]（Max-Planck-Gesellschaft, MPG）。
@@ -63,16 +59,12 @@ updated: 2026-10-21
 
 ---
 
-## 历史沿革与制度定位
-
 > [!timeline] 历史演进
 > - **1963 — 突破大学经院哲学的制度创立** 创立初期定名为“[[Max Planck|马克斯·普朗克]]教育研究所”（Institut für Bildungsforschung in der [[Max Planck Society|Max-Planck-Gesellschaft]]）。创立宗旨在于打破西德传统大学“讲座教授个人经院式思辨哲学”对教育研究的垄断，开创汇聚教育学、社会学、经济学、心理学与统计学的现代大型团队研究。
 > - **1960s末–1970s初 — 比较教育社会学实证转向与教改策源地** 在[[Saul B. Robinsohn|索尔·罗宾逊]]主持下，该所成为欧洲教育科学实证转向的核心动力源，开展大规模跨国经验比较研究，并深度参与德国教育委员会（Deutscher Bildungsrat）顶层改革政策研制。
 > - **1971 — 拓展人类终身发展视野与更名** 随着保罗·巴尔特斯（Paul B. Baltes）等发展心理学家的加入，研究所正式更名为“马克斯·普朗克人类发展研究所”（Max-Planck-Institut für Bildungsforschung），研究视界进一步拓展至贯穿全生命周期的人类认知、发展与社会化过程。
 
 ---
-
-## 代表性学术成就
 
 > [!feature] 《社会进程中的学校改革》跨国大课题
 > 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, p. 95]]）指出，MPIB 在欧洲比较教育史上最重大的学术里程碑，是[[Saul B. Robinsohn|索尔·罗宾逊]]主持开展的《社会进程中的学校改革》（*Schulreform im gesellschaftlichen Prozess*, 1970/1975）七国比较项目：
@@ -81,9 +73,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **[[Disciplinary Institutionalization|学科建制]]影响** 彻底改变了德语区教育科学的版图，促成了教育研究从传统的纯哲学“[[Geisteswissenschaften|精神科学]]教育学”向多学科[[Scientific Method|经验科学]]的[[Paradigm|范式]]跨越，与法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 形成了相得益彰的实证双核。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 > - **政策决策影响** 作为西德 1970 年代教育现代化的“智囊中枢”，直接主导起草了《教育结构计划》（Strukturplan），为联邦德国推行综合高中（Gesamtschule）实验与现代高等教育扩招提供了直接理论依据。
 > - **国际学术影响** 为战后德国学者深度参与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与跨国实证调查（如早期 [[IEA]] 项目）提供了坚实的实体依托与[[Data Infrastructure|数据基础设施]]。
@@ -92,8 +82,6 @@ updated: 2026-10-21
 > 德国[[International Education|国际教育]]研究所（舒尔策、米特）与柏林[[Max Planck|马克斯·普朗克]]教育研究所（罗宾逊、戈尔德施密特）先后设立教席与研究实体……[[Saul B. Robinsohn|索尔·罗宾逊]]在柏林马普所主持的《社会进程中的学校改革》项目可以被视作一项先驱性成就。与波鸿、法兰克福和马堡的同行课题不同，其理论视界明确立足于社会学立场，专注于比较社会因素对国家教育系统的结构性冲击。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 90, 95)]]
 
 ---
-
-## 条目关联
 
 > [!contrast-table] 关联脉络
 > | 关联维度 | 目标条目 | 关联说明 |

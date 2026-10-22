@@ -65,11 +65,7 @@ created: 2026-08-14
 updated: 2026-10-22
 ---
 
-# Source of Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识来源（Source of Knowledge）是构成个人[[Epistemological Theories\|认识论理论]]的基石维度之一，隶属于“认知的本质（Nature of Knowing）”范畴。它核心关注知识由何处产生以及驻留在何处：知识是存在于认知者外部、由全知全能的权威（如教师、教科书、学科专家）单向垄断并下达传递，还是认知者在与客观世界的批判性质询互动中，由主体主动参与建构和生成的产物。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识来源与相近[[Epistemology\|认识论]]维度的概念辨析
 > | 概念维度 | 核心探讨问题 | 早期阶段特征 | 成熟阶段特征 | 学业推理中的典型表现 |
 > |---|---|---|---|---|
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > | **知识结构简易性（[[Simplicity of Knowledge]]）** | 知识是孤立碎片还是相互交织的复杂网络？ | 知识由相互割裂的事实、孤立公式与静态定义碎片拼合而成 | 知识是由高度整合的理论概念、因果命题与系统网络有机交织 | 善于在复杂[[Task Structure\|劣构任务]]中寻找跨领域的潜在联结与深层规律 |
 
 ---
-
-## 核心要素
 
 > [!taxonomy] 知识来源的三维层级与表征形态
 > - **外部权威源（External Authority）**
@@ -144,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕知识来源形成的命题归纳
 > | 命题命名 | 核心理论指向 | 适用情境与机制功能 | 代表学者与文献 |
 > |---|---|---|---|
@@ -153,8 +143,6 @@ updated: 2026-10-22
 > | **信源评估教学规程机制** | 显性教授多文本来源评估规则能有效破解盲从依赖并带来突出学业提升 | 适用于数字时代网络冲突信息的跨文本阅读、论辩写作与概念理解 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 知识来源概念演进脉络
 > - **1970 年 — [[Perry's Scheme of Intellectual and Ethical Development\|佩里图式]]中的权威祛魅** 威廉·佩里（William Perry）针对大学生的认知发展研究提出，个体认知发展的核心是从权威知晓绝对真理（二元论）逐步转变为自我作为主动意义建构者的相对主义。
@@ -165,8 +153,6 @@ updated: 2026-10-22
 > - **2021 年 — [[Meta-analysis\|元分析]]证实信源评估干预的高因果红利** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在[[Epistemic Cognition\|认识论认知]]干预元分析中量化确立信源评估为成效最佳的干预框架之一，实证证实显性规程教学对[[Academic Achievement\|学业成就]]具有显著促进作用。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -185,8 +171,6 @@ updated: 2026-10-22
 > - **[[Generative Artificial Intelligence\|生成式人工智能]]与算法推荐对信源评估的认知挑战** 随着大语言模型与个性化推荐算法的普及，传统以单一文本出处、作者专业履历为核心的信源评估线索被严重遮蔽，这对未来知识来源维度的理论演进提出了全新课题。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Source Evaluation\|信源评估]]与[[Epistemology\|认识论]]干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

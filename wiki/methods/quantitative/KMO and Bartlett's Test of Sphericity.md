@@ -46,11 +46,7 @@ created: 2026-08-29
 updated: 2026-10-22
 ---
 
-# KMO and Bartlett's Test of Sphericity
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **KMO 抽样适宜性度量与巴特利特球形度检验（KMO and Bartlett's Test of Sphericity）** 是在执行[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）或主成分分析（PCA）之前，用于检验多[[Variable\|变量]]相关矩阵是否具备可因子化性（Factorability）的标准前置诊断规程。KMO 度量观测变量之间的偏相关程度是否足够低，以确保存在紧密的公共因子结构；Bartlett 球形度检验则从全局推断样本相关矩阵是否显著异于变量互不相关的单位矩阵（Identity Matrix）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 5)]]
@@ -62,10 +58,6 @@ updated: 2026-10-22
 > - **输出形式** KMO 全局系数与单题 MSA 系数（Measure of Sampling Adequacy，取值 0 到 1）、Bartlett 检验近似卡方值 $\chi^2$、自由度 $df$ 与 $p$ 显著性水平。
 
 ---
-
-## 核心指标与数学原理
-
-### 量化分析与公式推导
 
 > [!formula-step] 公式步骤一　KMO 抽样适宜性系数（Kaiser-Meyer-Olkin Measure）
 > $$\text{KMO} = \frac{\sum_{i \ne j} r_{ij}^2}{\sum_{i \ne j} r_{ij}^2 + \sum_{i \ne j} a_{ij}^2}$$
@@ -123,8 +115,6 @@ updated: 2026-10-22
 > | [[Scale Development]] | 宏观流程 | 在量表编制阶段二（结构探索）中作为首道准入检验门槛。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在样本 1（$N=310$）执行 EFA 前，检验并报告 KMO $= .92$ 且 Bartlett 球形检验达到极显著水平（$\chi^2 = 3450.21, p < .001$），确立因子分析的充分合法性。

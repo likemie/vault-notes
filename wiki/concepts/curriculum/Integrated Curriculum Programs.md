@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Integrated Curriculum Programs
-
 > [!metax] [整合课程 · Integrated curriculum programs](https://www.visiblelearningmetax.com/influences/view/integrated_curriculum_programs)
 > 课程 › 其他课程项目
 >

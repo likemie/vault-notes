@@ -35,11 +35,8 @@ status: draft
 created: 2026-10-04
 updated: 2026-10-22
 ---
-# International Baccalaureate Examinations Office
 
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 考试业务按工作性质集中，而非回到政治总部
 > [[International Baccalaureate|国际文凭]]考试办公室（International Baccalaureate Examinations Office）承担国际文凭组织（International Baccalaureate Organization, IBO）的考试行政。1984 年形成的巴斯办公室把先前分置于南安普敦和伦敦的业务集中到一个成本较低、交通便利并具有大学计算设施的地点。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 186–187)]]
@@ -52,8 +49,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 从业务外移到巴斯集中
 > - **1974 年 — 语言考试迁往南安普敦** 语言考试从日内瓦转移到南安普敦大学，开始利用英国大学的场地、服务和学术联系。
 > - **其后 — 其他考试迁往伦敦** 伦敦大学在伦敦区域办公室同楼提供空间，德里克·古尔登（Derek Goulden）统一领导考试业务，但南安普敦与伦敦之间仍然分置。
@@ -62,8 +57,6 @@ updated: 2026-10-22
 > - **1985 年 — 专业团队稳定运行** 办公室有 20 多名全职人员，并在装卷和答卷核对高峰期聘用四至五名兼职人员。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 186–187)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 考试行政的责任分工
 > - **[[International Baccalaureate|IBO]] 中央治理** 日内瓦保留政策、国际协调和组织治理，不直接承载全部劳动密集业务。
@@ -79,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与运行规模
-
 > [!finding-cards] 办公室提供的组织能力
 > - **集中考试行政** 结束语言考试与其他考试长期分置的状态。
 > - **材料处理** 常设团队负责日常考试业务，高峰期增员处理装卷和答卷核对。
@@ -92,8 +83,6 @@ updated: 2026-10-22
 > - **4–5** 名兼职人员在两个装卷和答卷核对高峰期加入。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 187)]]
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 巴斯集中带来的结构性变化
 > - **减少内部断裂** 统一中心取代南安普敦与伦敦之间的业务分置。

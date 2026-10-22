@@ -59,11 +59,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Research Strategies in Comparative Education
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 比较教育研究策略调查是由加州大学洛杉矶分校（UCLA）[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust|Val D. Rust]]）领衔的研究团队于 1990 年代末开展的标志性期刊计量元研究（Meta-research）。该调查通过对国际比较教育学界三大旗舰学术期刊数十年间发表的全部论文进行大规模[[Content Analysis|内容分析]]（Content Analysis），首次以无可辩驳的计量数据证实了学科已实质性告别缺乏规范方法的游记随笔与[[Primary and Secondary Documents|二手文献]]思辨，完成了向多元经验实证社会科学的根本转型，是学科史上被引用最广的方法论实证快照。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 130–131, 136 注 6)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 调查推进历程
 > - **1990年代中 — 研究设计与期刊全样本抽取** 确定以英美主流比较教育三大旗舰刊物——《比较教育评论》（*Comparative Education Review*, CER）、《比较教育》（*Comparative Education*, CE）以及《[[International Education|国际教育]]发展杂志》（*International Journal of Educational Development*, IJED）为分析对象，建立跨越三十余年的论文全息数据库。
 > - **1996–1998 — 编码开发与实证[[Content Analysis|内容分析]]** 制定涵盖研究设计类型、数据搜集手段（一手访谈、[[Ethnography|民族志]]、观察、[[Questionnaire|问卷]]、[[Primary and Secondary Documents|二手文献]]）、数据分析策略（定性解释、[[Descriptive Analysis|描述统计]]、高级推断统计）及母学科认同的严密类目体系，实施多轮双盲编码与评分者一致性校准。
@@ -86,16 +80,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 拉斯特论比较教育研究策略调查的核心发现
 > 尽管几十年前的数据收集研究策略基本局限于[[Literature Review|文献综述]]和历史资料，但随着时间的推移，它们急剧增加。所谓文献综述，我们指的是仅凭[[Primary and Secondary Documents|二手文献]]展开论证的研究，因此可被视为阐释性论文。而更为常规的社会科学进路，如访谈、[[Ethnography|民族志]]、[[Participant Observation|参与观察]]、[[Questionnaire|问卷调查]]以及其他类型的[[Fieldwork|田野研究]]，均呈现出极为显著的激增。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 130–131)]]
 >
 > *"Although data collection research strategies several decades ago were limited to literature reviews and historical data, they increased dramatically over time. By literature reviews, we mean studies that are argued on the basis of secondary literature and could therefore be seen as interpretive essays. The more conventional social science approaches, such as interviews, ethnographies, participation/observation, questionnaires, and other types of [[Champ|field]] research has increased dramatically (see Rust et al., 1999)."*
 
 ---
-
-## 历史后果与深远影响
 
 > [!finding-cards] 关键历史后果
 > - **破除纯思辨主导迷思** 证实缺乏明确研究方法与实证证据的哲学思辨/游记随笔论文在期刊中的比例发生断崖式下跌，从 1960 年代的过半数骤降至不足 20%，确立了经验[[Positivism|实证主义]]在学科期刊生产中的主导地位。
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **3** 大主导母学科被学者广泛认同（社会学、政治学与经济学）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 130–131)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!tension] [[Scientific Method|经验科学]]化的成熟标志 vs. 人文历史底色的消解忧虑
 > - **实证科学派（蓝方）** 欢呼调查结果证实了比较教育学历经数十年艰苦努力，终于彻底摆脱业余见闻与主观漫谈，成熟为一门具备现代社科严密研究设计与可验证[[Evidence Standards|证据标准]]的合法科学。

@@ -31,11 +31,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Intrinsic vs Extrinsic Motivation
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 内在动机（intrinsic motivation）指个体因活动本身带来的满足感而从事该活动，活动本身即是目的。外在动机（extrinsic motivation）指个体为了达成其他目的而从事活动，活动只是手段([[Argument_Li_2012_Cambridge\|Li, 2012, p.57]])。
 
 > [!example|notitle]

@@ -35,13 +35,9 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Cultural Defense Strategies
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 文化防御策略（cultural defense strategies）是 [[Argument_Li_2012_Cambridge|Li（2012）]]在分析文化学习模型为何能在全球化中持久时提出的一个[[Analytic Framework\|分析框架]]。当一种文化长期面临外来文化价值的冲击时，该文化会形成一套"有效的篱笆和策略"，使其能够"在接受不构成威胁的外来价值的同时，保留自身的核心价值"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.336-337]])。
 
 > [!abstract|notitle]
@@ -55,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > ### 策略一：直接拒绝（Direct Rejection）
 
 当外来思想与既有[[Cultural Models|文化模型]]完全不可[[Commensuration|通约]]（[[Incommensurability|incommensurable]]）时，文化会直接排斥。
@@ -83,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > ### 表层同化 ≠ 根本改变
 
 三种策略之上，Li 还做了一个更深刻的区分：即使外来思想被采纳了，采纳的性质也分两种。
@@ -103,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > ### 与 [[Enculturation]] 的关系
 
 文化防御策略是 [[Enculturation|濡化]] 的延伸机制。濡化解释了文化如何**正向传递**核心价值给下一代；文化防御策略解释了文化如何在**面对外来威胁时保护**这些核心价值。二者共同构成文化持久性的完整机制：濡化负责"建"，防御负责"守"。
@@ -119,9 +109,7 @@ Li 特别指出，防御策略本身也通过濡化传递给儿童——"这些�
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > **文革后的儒家价值观存续**。尽管文化大革命（1966–1976）试图系统性地消灭儒家传统，今天的中国儿童仍然学习儒家价值观。Li 的解释是：文革的政治力量虽然强大，但未能穿透家庭的日常社会化——父母仍然在每天的亲子互动中以[[Enculturation\|濡化]]方式传递[[Learning Virtues\|学习美德]]。文化防御策略的三种机制在此同时运作：家庭层面，许多儒家价值被直接保留（策略一——拒绝放弃）；社会层面，与儒家兼容的西方元素被吸收（策略二——如现代学校教育制度）；政治层面，马克思主义被大尺度采纳（策略三——但采纳后的实际运作仍受既有文化框架的塑造）([[Argument_Li_2012_Cambridge\|Li, 2012, pp.336-337]])。
 
 > [!success|notitle]

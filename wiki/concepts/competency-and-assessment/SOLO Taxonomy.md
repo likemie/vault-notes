@@ -57,11 +57,7 @@ created: 2026-07-28
 updated: 2026-10-22
 ---
 
-# SOLO Taxonomy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **可观察学习结果结构分类法（Structure of Observed Learning Outcomes, SOLO）** 是澳大利亚教育心理学家[[John Biggs|约翰·比格斯]]（John Biggs）与凯文·柯利斯（Kevin Collis）提出的学习结果与认知复杂性评估框架。该框架以学生在特定学习任务中所呈现回答或表现的内在结构复杂性来界定理解质量，依次划分为前结构、单点结构、多点结构、关联结构与拓展抽象五个层级。它既反映出相关信息从单一要点到多重要点的数量扩展，也揭示出从零散并列向结构整合、跨情境迁移与理论化的质性飞跃，构成了高等教育[[Constructive Alignment|建构性对齐]]与中小学[[Learning Progression|学业进阶]]设计的核心评价工具。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 66–67)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] SOLO 层次、课程学业等级与布鲁姆认知目标分类辨析
 > | 维度 | SOLO 分类法（SOLO Taxonomy） | 课程学业等级（Course Grades） | 布鲁姆认知目标分类（[[Bloom's Taxonomy]]） |
 > |---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | **实践关系** | 为定义课程等级提供深层认知结构基准 | 最终采纳的报告形式（如 A/B/C/D 或百分制） | 经典教育目标分类工具，易被误解为相互割裂的技能孤岛 |
 
 ---
-
-## 核心要素
 
 > [!taxonomy] SOLO 五层理解结构与表现动词
 > | 层次 | 结构特征 | 典型认知动词 |
@@ -164,8 +156,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -182,8 +172,6 @@ updated: 2026-10-22
 > - **2017 — 探究教学时机审视与程序错位批判** 克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）记录了[[John Hattie|哈蒂]]对 SOLO 进阶规律的[[Epistemology|认识论]]辩护，指出 90% 违规提前推行 PBL 的学校因缺乏表层知识基础而打乱了 SOLO 上升规律，确立了 SOLO 作为研判探究教学介入时机的批判性标尺。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

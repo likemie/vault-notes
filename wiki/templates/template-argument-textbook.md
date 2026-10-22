@@ -31,11 +31,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 总览
 
 %% 用一段话说明教材对象、读者、课程用途和全书主线。 %%
 
@@ -49,12 +45,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_Knowledge_Map.jpg)
 
 ---
-
-## 章节
-
-### 第<X>章 <章节标题>
-
-#### 概念地图
 
 > [!knowledge-map] 第X章　概念地图
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Concept_Map.jpg)

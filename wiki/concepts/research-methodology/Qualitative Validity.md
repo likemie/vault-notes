@@ -45,8 +45,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Qualitative Validity
-
 > [!info] 定义
 > 质性效度（Qualitative Validity）是指研究者通过采用特定程序来检查研究发现准确性的标准。它在[[Qualitative Research\|质性研究]]中的含义与[[Quantitative Research\|量化研究]]不同，也不是[[Reliability\|信度]]（考察稳定性）或推广度（将结果应用于新情境、人群或样本的[[External Validity\|外部效度]]）的对应物。质性文献中存在大量讨论效度的术语，如可信度（[[Trustworthiness]]）、真实性（authenticity）和可信性（credibility）（Creswell & Miller, 2000; Lincoln et al., 2011）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.213）。
 
@@ -71,8 +69,6 @@ Creswell & Creswell（2022, Ch9）推荐使用多种策略组合来增强研究�
 > - vs [[Qualitative Reliability\|质性信度]] — 效度检查准确性，[[Reliability\|信度]]检查一致性。
 
 ---
-
-## 质性数据分析中的效度
 
 > [!warning] 外部诉求点有限
 > 在质性数据分析中，除受访者验证（[[Member Checking]]）外，可诉诸的[[External Validity\|外部效度]]检验点往往有限；研究者纳入哪些数据与事件必然涉及个人选择，但这一选择必须对所研究现象公平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]

@@ -46,11 +46,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Legislative Policy Brief
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 立法政策简报（Legislative Policy Brief）指由[[National Education Policy Center\|国家教育政策中心]]（[[National Education]] Policy Center, NEPC）等专业智库与[[Educational Brokerage Agency\|知识中介机构]]倡导并采用的一种专业化科学传播文类。它将精炼的实证[[Research Synthesis|研究综合]]与明确的操作性政策诉求，与由执业律师依据实证结论量身起草的**法定示范条文（Model Statutory Language）** 深度结合，直接向立法机构、国会常设委员会专业幕僚及法案起草员展示如何将科学研究结论转化为具备法律效力与可操作性的法案法定语言。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学术论文、传统政策简报与立法政策简报的文类对比
 > | 维度 | 学术期刊论文（Journal Article） | 传统政策简报（Standard Policy Brief） | 立法政策简报（Legislative Policy Brief） |
 > |---|---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > | **篇幅与阅读负担** | 篇幅冗长（通常 8,000–12,000 词），阅读技术门槛极高 | 篇幅适中（通常 3–5 页），但缺乏法治落地工具 | 严格恪守国会山“一页纸传单”（One-Page Handout）与“少即是多”原则（Sorian & Baugh, 2002） |
 
 ---
-
-## 核心要素与撰写规范
 
 > [!feature] 立法政策简报的核心三要素
 > - **精炼的[[Research Synthesis|研究综合]]（Targeted Research Synthesis）** 剔除枝节与繁复统计细节，直击与当前立法议程直接相关的核心因果事实，重点回答“该干预对目标群体是否有效、在何种情境下有效”。
@@ -105,8 +97,6 @@ updated: 2026-10-22
 > - **诉求的艺术（The Art of the Ask）** 研究者必须掌握在与幕僚对话的 3 分钟窗口内，精准亮明身份、简述证据、出示示范法条文本并清晰提出立法请求的沟通技巧。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
 ---
-
-## 决策者吸纳研究证据的四维审视框架
 
 > [!contrast-table] 政策决策者吸纳研究证据的四维审视框架
 > | 考量维度 | 核心审视问题 | 对教育研究者的实践要求 |

@@ -60,11 +60,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Graphic Organizer
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 图形组织器（Graphic Organizer, GO）是指通过空间排布、几何节点与可视化拓扑连线提取并表征关键信息及其内部逻辑关联的视觉教学与[[Scaffolding\|认知脚手架]]（如[[Mind Mapping\|思维导图]]、[[Concept Mapping\|概念图]]、[[Argument Mapping\|论证图]]、流程图、文氏图等）。在认知学习理论中，图形组织器利用空间隐喻（Spatial Metaphors）将抽象语义与逻辑层级具象化，有效卸载学习者在信息识别、提取与记忆等低阶思维（Lower-Order Thinking, LOT）过程中的[[Working Memory\|工作记忆]]负担，进而将有限的心智资源重新配置并聚焦于[[Higher-Order Thinking Skills\|高阶思维]]（Higher-Order Thinking, HOT）的倾向激发、认知加工与技能迁移。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–3)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 常见图形组织器类型对比
 > | 比较维度 | [[Mind Mapping\|思维导图]]（Mind Map） | [[Argument Mapping\|论证图]]（Argument Map） | [[Concept Mapping\|概念图]]（Concept Map） |
 > |---|---|---|---|
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **空间隐喻表征（Spatial Metaphors）** 利用空间邻近性、包含关系与层级走向编码语义关联，借助大脑海马体与大脑皮层的空间感知通道实现长时记忆联结。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
 > - **核心信息筛选与提炼（Key Information Selection）** 剥离非关键细节与表层语言冗余，凸显核心概念节点与关键证据要素。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–2)]]
 > - **结构拓扑与层级组织（Structural Topology & Hierarchy）** 通过中心辐射、逻辑推论链或概念交叉网络，清晰呈现概念间的从属、因果、对立与协同关系。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
@@ -159,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -169,8 +159,6 @@ updated: 2026-10-22
 > | **发展适切性与元表征命题** | 外在工具收益在中学生阶段达到峰值，受诱人细节与自我脚手架双向约束 | 分学段差异化脚手架提供 | Lei, Ding & Chiu |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -190,8 +178,6 @@ updated: 2026-10-22
 > 图形组织器的促学成效高度依赖学习者的[[Meta-Representational Competence\|元表征能力]]与反思训练；若仅将其作为机械填空或[[Rote Learning\|死记硬背]]的板书替代品，则无法有效激活[[Higher-Order Thinking Skills\|高阶思维]]。此外，在缺乏长期追踪的情况下，其向远迁移问题情境的可持续保留效应仍有待检验。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 12–13)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

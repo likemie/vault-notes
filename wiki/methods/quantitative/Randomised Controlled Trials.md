@@ -186,10 +186,6 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Randomised Controlled Trials
-
-## 定义
-
 > [!def] 方法定义
 > 随机对照试验（Randomised Controlled Trials, RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组，隔离和控制自[[Variable|变量]]，操纵一个[[Independent Variable|自变量]]观察其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78, 81]]）。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]]）。
 
@@ -250,8 +246,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** RCT 隐含[[Empiricism\|经验主义]]和[[Positivism\|实证主义]]认识论：假设通过人为创造封闭系统（稳定干预以外的所有[[Variable\|变量]]），可以隔离单一干预的因果效应。这一假设在教育等开放系统中受到[[Critical Realism\|批判实在论]]的挑战——多重因果力量在开放系统中同时作用（相互矛盾或加强），人造封闭条件无法忠实反映真实教育情境中的[[Causal Processes\|因果过程]]（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 112–115]]）。
 > - **研究者角色** [[Random Assignment\|随机分配]]和变量控制旨在消除潜在混杂并追求客观中立，但其实验操作本身涉及对受试者的严格控制与变量操纵——“研究者是国王或女王，参与者是臣民”([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 78]])。
@@ -265,8 +259,6 @@ updated: 2026-10-22
 > - **辅助技术** [[Random Assignment\|随机分配]]、[[Blinding\|盲法]]（教育中常不可行）、[[Intent-to-Treat Analysis\|意向治疗分析]]、集群随机化、部分嵌套设计
 
 ---
-
-## 研究程序
 
 > [!proc] 通用操作步骤
 > 1. **明确[[Research Question\|研究问题]]与因果假设** 界定待评估干预措施、目标受众、对照条件（通常为[[Business as Usual\|照常教学]] Business as Usual）、主要与次要学业/行为产出指标。
@@ -309,8 +301,6 @@ updated: 2026-10-22
 > - **实现流程** 1. 制定并[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）；2. 设定随机种子运行分层/集群随机化；3. 录入基线与后测数据并检验样本损耗；4. 构建[[Covariate Adjustment\|协变量调整]]的意向治疗模型（ITT）并输出聚类稳健标准误；5. 估计 Hedges' g 效应量与 95% [[Confidence Interval\|置信区间]]。
 > - **报告标准** 遵循 CONSORT 声明与 [[What Works Clearinghouse\|WWC]] 审查标准，报告受试者流程图、基线等价性、总体与差异性损耗率、未调整与调整后均值、效应量、聚类稳健置信区间与精确 p 值。
 
-### 设计变体与拓展方案
-
 > [!method-stack] [[Cluster Randomized Trials\|集群随机试验]]（CRT）与精度改进
 > CRT 已成为教育 RCT 的标准实践，因为干预通常在班级或学校层面实施。Spybrook, Shi and Kelcey (2016) 比较了美国国家教育研究中心（National Center for Education Research，NCER）资助的早期 CRT 与近期 CRT，发现精度有所提高的证据（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。精度通过最小可检测[[Effect Size\|效应量]]（Minimum Detectable Effect Size，MDES）衡量——指在给定统计功效下可检测的最小效应量。该研究同时提供了两级和三级 CRT 的 MDES 计算公式，拓展了相关方法论工具。
 
@@ -342,16 +332,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 评估界定清晰、可标准化交付的教学干预、课程包、技术辅助工具或结构化辅导的因果效能；当[[Research Ethics\|研究伦理]]允许[[Random Assignment\|随机分配]]、[[Sample Size Determination\|样本量]]足以保证统计功效（MDES）、且能在班级或学校层面控制干预污染时（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54–56]]; [[Argument_Kraft_2023_ER\|Kraft, 2023, p. 185]]）。
 > - **谨慎使用** 复杂组织变革或系统性政策评估（如学区重组、教师编制改革、高中排课作息调整），极易遭遇学校拒斥导致招募流产或高流失率；存在强同伴互动与溢出效应的微观课堂（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）；从高度受控的小规模[[Efficacy Trial\|效力试验]]向[[Business as Usual\|常态教学]]推广的大规模[[Effectiveness Trial\|实效试验]]阶段（需防范[[Effect Size\|效应量]]断崖式衰减与[[Implementation Fidelity\|实施保真度]]稀释）（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p. 195]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 11–13]]）。
 > - **不适合使用** 探索性理论建构、深层意义诠释与质性文化生态研究；涉及剥夺基础受教育权益或已知救济措施的伦理禁区；宏观历史变迁、制度演化与政治经济结构性制约分析（如财政紧缩、种族隔离制度演变），将此类系统性问题强行降维为微观隔离[[Variable\|变量]]的 RCT 会造成严重的[[Epistemology\|认识论]][[Screening Off\|屏蔽]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 548]]）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与治理风险
 > - **偏误来源** 差异性[[Attrition\|样本流失]]偏差（Attrition Bias）、主体间干扰与溢出（[[Stable Unit Treatment Value Assumption\|SUTVA]] 违背）、对照组代偿性努力（亨利效应）与[[Business as Usual\|常态教学]][[Heterogeneity\|异质性]]基线、评估工具偏袒干预内容的测量偏倚（Ginsburg & Smith 12 威胁）。
@@ -409,8 +395,6 @@ updated: 2026-10-22
 > | [[Correlational Research]] | 前置方法 | 能够在大规模自然情境中探测变量关联并生成干预假设，但缺乏随机分配与因果隔离效力。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 考证第三代使命导向政策如何将 RCT、以人为本服务设计与敏捷原型迭代整合入公共治理试验网络，并强调必须打破[[New Public Management|新公共管理]]的静态“支持并测量”成本效益合规，转向动态的[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。

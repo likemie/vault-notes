@@ -42,8 +42,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Ecomuseology
-
 > [!info] 定义
 > Ecomuseology（生态博物馆学）是博物馆学中一个以**地域（territory）** 为核心概念的分支。其核心主张是：博物馆的边界不应由建筑墙体定义，而应由社区与自然环境、文化遗产和地域认同的**关系**来定义。生态博物馆（ecomuseum）是生态博物馆学的实践载体——一个以社区为主导、以地域为框架、以保护和阐释自然与文化遗产为目标的参与式机构（Chagas, 2001; Moutinho, 2007, cited in [[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]]）。
 

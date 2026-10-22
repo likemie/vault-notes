@@ -123,11 +123,7 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-# Professional Judgment
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 专业判断（Professional Judgment）指教师与教育决策者在开放、复杂的教育情境中，基于专业知识、伦理价值、教学法原则与情境洞察，权衡多元信息并做出审慎决策的核心能力。在微观教学中，专业判断是[[Evidence-Informed Practice|证据知情实践]]（EIP）与[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（QURE）的多源证据整合枢纽；在宏观政策研制中，当既有实证研究供给不足或结论受限时，专业判断充当联结学科逻辑演绎、一线教学可行性论证与同行互信背书的制度性基石。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 129, 132)]]; [[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–141)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 19)]]
@@ -144,9 +140,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 比较维度 | 专业判断（Professional Judgment） | 技术化执行（Technocratic Implementation） | 个人浪漫化直觉（Romanticized Intuition） |
 > |---|---|---|---|
 > | **证据角色** | 作为概率性资源，结合情境权衡与批判解读 | 作为绝对指令或标准操作规程，强调忠实依从 | 视为外来干扰，选择性忽视或排斥客观数据 |
@@ -160,8 +154,6 @@ updated: 2026-10-22
 > - **专业判断在 [[Evidence-Informed Practice\|EIP]] 中的位置** EIP 将专业判断置于决策的核心枢纽位置，统筹研究证据、系统层面数据与课堂数据，拒绝单维主导。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
-
-## 核心要素
 
 > [!feature] 专业判断的核心构成维度
 > - **认知与知识维度（Knowing Dimension）** 实践由研究知识提供信息。教师主动获取、理解并批判性评估相关的概率性研究证据，将其作为决策的重要外生知识源。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]
@@ -291,8 +283,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -324,8 +314,6 @@ updated: 2026-10-22
 > - **2026 — 专业能动性与多维整合范式** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] [[Systematic Review|系统综述]]指出，学校[[Research Utilization|研究使用]]正由被动的线性实施转向以[[Teacher Professional Agency|教师专业能动性]]为核心的整合。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -371,8 +359,6 @@ updated: 2026-10-22
 > - **组织与文化支持的强依赖性** 专业判断作为后天习得的专业素养，高度依赖学校信任文化、探究时间与[[Research Literacy|研究素养]]培训；缺乏组织支持时，孤立的教师判断容易出现偏差。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

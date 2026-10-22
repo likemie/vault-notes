@@ -55,11 +55,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Technologies of Exclusion
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 排除性技术（Technologies of Exclusion）是知识社会学与公共政策分析中用以刻画专业群体通过建构技术壁垒以维系权威垄断的概念；指[[Knowledge Production\|知识生产]]者与中介机构借助晦涩的专业术语、复杂的计量统计模型、不透明的测量算法以及排他性的证据等级划分，将未经专业训练的公众、常识性争鸣与[[Heterogeneity\|异质性]]本土经验排斥在政策合法性审议范畴之外的制度化规制技术。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -89,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Discourse|话语]]晦涩化与符号设卡（Linguistic Obfuscation）** 创造高度抽象的统计学与心理学专门词汇（如潜[[Variable\|变量]]、边际效应、项目反应参数），使得缺乏计量背景的一线教师与家长丧失对话资格。
 > - **证据等级的阶级化固化（Hierarchisation of Evidence）** 强制推行以 [[Randomised Controlled Trials\|RCTs]] 和大型计量回归为顶层的“证据金字塔”，将丰富的质性[[Fieldwork\|田野调查]]、教师本土实践叙事贬抑为“低级传闻证据”。
 > - **技术工具的黑箱化封装（Black-Box Modeling）** 将复杂的价值偏好深埋于复杂的加权算法、缺失值填补模型与成熟度量规之中，使外部学者无法对其先验假定展开有效审计。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -151,8 +143,6 @@ updated: 2026-10-22
 > - **2020 年代至今 — [[Governing by Numbers\|数字治理]] 2.0 与算法黑箱规制** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]将其发展为全球教育治理核心分析工具，剖析国际多边中介如何利用指标库黑箱压制本土民主争鸣。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -169,8 +159,6 @@ updated: 2026-10-22
 > 当公众对技术官僚的信任彻底崩塌时，过度坚固的排除性技术反而会激发强烈的反智主义政治反弹，诱发对国际组织及其量化数据的全盘民粹式拒绝。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

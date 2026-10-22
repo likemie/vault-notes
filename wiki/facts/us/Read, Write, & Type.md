@@ -53,11 +53,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Read, Write, & Type
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Read, Write, & Type（读写与打字，文献中亦写作 Read, Write, and Type!）** 是由美国会说话的手指软件公司（Talking Fingers）让妮特·赫隆（Jeannine Herron）研发、佛罗里达州立大学著名阅读心理学者约瑟夫·托格森（Joseph K. Torgesen）学术团队开展因果评估的小学一年级早期读写技术辅助小组干预方案；其核心目标是通过将 40 个英语音素与计算机键盘触控按键、语音合成及打字动画相结合，由专任教师指导高危学困儿童在 1:3 小组中开展多感官互动输入训练，实现音素[[Decodification\|解码]]与文字书写的自动化。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克部分手部精细动作发育迟缓的儿童因握笔困难而排斥书写、进而阻碍语音与字形绑定的生理认知障碍，借助键盘触控打字开辟多感官读写新通道。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 将键盘触键动作、即时发音语音反馈与视觉动画提示三位一体结合，由教师指导 3 名学生组成的小组开展交互式练习，能够消除书写生理负荷，加速大脑音-形-义自动化神经回路的建立，产生显著的学业增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -87,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Read, Write, & Type 发展历程
 > - **1995–2002 — 软件开发与人机交互先导测试** 赫隆团队将语音学理论与计算机人机工程学结合，在特教诊所测试打字对阅读障碍的辅助效应。
 > - **2003–2010 — 托格森团队严格 [[Randomised Controlled Trials\|RCT]] [[Efficacy Trial\|效力试验]]** 托格森等学者（Torgesen, Wagner, Rashotte, Herron, & Lindamood, 2010）在公立学校开展对照试验，证实其在教师小组指导下对一年级弱势儿童[[Decodification\|解码]]能力的显著因果提升。
 > - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据技术先驱** 被斯莱文列为初等阅读 Tier 2 教师小组辅导代表性强证据方案，成为[[Man-Computer Symbiosis|人机协同]]阅读干预的早期经典。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **技术软件研发方（Talking Fingers）** 提供交互式读写软件许可、键盘贴纸与教师后台进度追踪仪表板。
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **受试儿童（一年级高危学生）** 通过键盘冒险闯关游戏，克服对拼写书写的恐惧。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的标准化阅读因果[[Effect Size\|效应量]]** 在托格森团队主导的[[Randomised Controlled Trials\|随机对照试验]]中，接受辅导的学生在全国标准化阅读测验上测得平均 $+0.42$ 的因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

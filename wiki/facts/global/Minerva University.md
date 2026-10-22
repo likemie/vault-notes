@@ -57,8 +57,6 @@ Minerva University 是一所全球性的营利性高等教育机构，由前 Sna
 
 ---
 
-## 经过
-
 > [!note] 2010–2014 创立与启动
 > - 2010 年 9 月，Ben Nelson 在旧金山创立 Minerva Project，定位为以教育技术方案解决高等教育"所有主要弊病"的营利性初创公司（Thompson & Parreira do Amaral, 2022, p.2）
 > - 仅用四年获得 Benchmark Capital 2,500 万美元风险投资——Nelson 称其为"当时硅谷最受尊敬的投资公司"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.45–46]])

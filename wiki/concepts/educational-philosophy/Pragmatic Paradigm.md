@@ -97,11 +97,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Pragmatic Paradigm
-
 ---
-
-## 定义
 
 > [!def] 核心定义（从哲学层面到方法论层次的演进）
 > 实用主义[[Paradigm|范式]]（Pragmatic Paradigm）包含逻辑与历史递进的两个层次：
@@ -129,8 +125,6 @@ updated: 2026-10-22
 > - 不等于 [[Pragmatism in China]] — 本条目聚焦于实用主义从哲学层面到研究方法论的演进，而 Pragmatism in China 专指杜威实用主义哲学在中国历史上的传播与政治[[Recontextualization|再脉络化]]史。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 从哲学层面到方法论层次的比较
 > | 比较维度 | 哲学层面：古典哲学传统（Philosophical Pragmatism） | 方法论层次：研究方法论[[Paradigm\|范式]]（Methodological Pragmatism） |
@@ -279,8 +273,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|:---|
@@ -302,8 +294,6 @@ updated: 2026-10-22
 > - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

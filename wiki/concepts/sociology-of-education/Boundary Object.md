@@ -43,11 +43,7 @@ created: 2026-08-31
 updated: 2026-10-22
 ---
 
-# Boundary Object
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 边界对象（Boundary Object）是由科学社会学家 Susan Leigh Star 与 James R. Griesemer 于 1989 年提出的概念，指那些既具备足够的**情境可塑性（Plasticity）** 以适应不同群体或学科共同体的局部需求与约束，又具备足够的**结构鲁棒性（Robustness）** 以跨越边界维持共有身份认同的[[Artefact\|人工制品]]、符号工具、规范协议或数字化界面。在教育技术与高等教育研究中，[[Generative Artificial Intelligence\|生成式人工智能]]（如 ChatGPT）被概念化为一种高度灵活的数字化边界对象，既作为标准化学术规范的转化节点，又作为支持学生跨学科探索与个性化表达的连接中介（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 3, 11]]）。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 边界对象与相关跨界概念辨析
 > | 维度 | 边界对象（Boundary Object） | [[Boundary Spanner\|边界跨越者]]（Boundary Spanner） | 活动系统工具（[[Third Generation Activity Theory\|CHAT]] Mediating Artifact） |
 > |------|--------------------------|---------------------------------------------------|---------------------------------------|
@@ -78,8 +72,6 @@ updated: 2026-10-22
 > | **教育应用** | 大语言模型、跨学科课程指南、通用评分量规 | 跨学科教研员、校企合作协调人、学术导师 | 课堂[[Dialogue in Education\|对话]]中介、脚手架提示词、人机协同系统 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素（Star & Griesemer, 1989; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > - **诠释灵活性（Interpretive Flexibility）** 能够根据具体学科规范、语言要求与任务目标进行个性化调用与情境化重构。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 3, 11)]]
@@ -128,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -145,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 概念泛化与边界模糊
@@ -158,8 +146,6 @@ updated: 2026-10-22
 > > 边界对象可能隐藏技术开发者预设的文化与意识形态偏见，弱势群体的声音在与大模型交互时可能被主流算法[[Discourse|话语]]所同化或消解。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 13)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

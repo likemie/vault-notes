@@ -39,10 +39,6 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-# Louis Cohen
-
-## 简介
-
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育学者，教育研究方法领域的重要作者。
 > - **核心角色** 与 [[Lawrence Manion]]、[[Keith Morrison]] 合著《Research Methods in Education》（第七版，Routledge, 2011），该书系统覆盖[[Paradigm\|研究范式]]、研究设计、资料收集与分析方法。
@@ -53,9 +49,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育研究方法的选择应遵循[[Fitness for Purpose\|目的适配性]]原则（fitness for purpose），[[Research Question\|研究问题]]的性质决定方法论的取向，而非相反。这一立场贯穿教材始终，主张在量化、质性与[[Mixed Methods Research\|混合方法]]之间按[[Research Purpose\|研究目的]]做出灵活选择。
 
 ---

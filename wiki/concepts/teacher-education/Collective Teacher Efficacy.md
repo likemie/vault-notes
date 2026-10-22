@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Collective Teacher Efficacy
-
 > [!metax] [教师集体效能 · Collective teacher efficacy](https://www.visiblelearningmetax.com/influences/view/collective_teacher_efficacy)
 > 教师 › 教师特质
 >

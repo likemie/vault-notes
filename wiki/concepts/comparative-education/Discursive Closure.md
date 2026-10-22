@@ -62,11 +62,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# Discursive Closure
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **[[Discourse|话语]]闭合（Discursive Closure / [[Discursive Field|话语空间]]闭合）** 是批判政策社会学与跨国教育治理分析中的关键理论范畴。该概念指由多边国际组织（[[World Bank|世界银行]]、[[UNESCO|教科文组织]]、[[OECD|经合组织]]）、跨国咨询集团与民族国家内部依附性专家构成的权力网络，通过将高度复杂、多[[Paradigm|范式]]并存的学术讨论过度简化为一套去情境化、看似客观唯一的普世改革模型（如以分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与统一质检为支柱的[[Global Educational Discourse|全球教育话语]]），从而对教育系统的“危机属性”统一定义，并垄断“合法解方”的供给；该机制在[[Epistemology|认识论]]源头上系统性剔除并去合法化了任何背离该范式的替代性教育主张，致使发展中国家的政策制定者陷入“别无选择（There Is No Alternative, TINA）”的思维锁死，极度窄化了本土社会构想替代性政策可能性的思想空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349, 354–355)]]
@@ -91,8 +87,6 @@ updated: 2026-10-22
 > - 不等于单一霸权实体的独角戏 — 话语闭合必须依托由多边机构、国家官僚与本土学术买办共同构成的复合把关网络才能实现。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] [[Discourse|话语]]支配与政策趋同机制对比
 > | 维度 | 话语闭合（Discursive Closure） | 话语霸权（[[Hegemony]]） | 政策趋同（Policy Convergence） |
@@ -136,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -152,8 +144,6 @@ updated: 2026-10-22
 > - **2005–2009 — 比奇系统概念化** 比奇在博士论文与手册章节中正式提炼“[[Discursive Field|话语空间]]闭合”概念，深度剖析拉美[[Gatekeepers|把关人]]网络扼杀本土思想探索的微观机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 354–355)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

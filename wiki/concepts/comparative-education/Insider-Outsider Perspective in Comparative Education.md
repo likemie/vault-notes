@@ -80,11 +80,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Insider-Outsider Perspective in Comparative Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **比较教育中的内外视角（Insider-Outsider Perspective in Comparative Education）** 是指在跨国比较研究与超国家教育治理分析中，将深谙情境脉络的行动者（局内人，Insider）的内在[[Flow|沉浸体验]]，与外来观察者（局外人，Outsider）的审慎疏离视界进行辩证整合的[[Epistemology|认识论]]与方法论框架。该视角确立了两大核心互补向度：在**跨文化与跨国比较向度**上，本土研究者拥有深厚的[[Contextual Knowing|语境认知]]、语言精微把握与[[Tacit Knowledge|默会知识]]，但易受理所当然的本土前设遮蔽；外部研究者秉持陌生化疏离姿态（*Verfremdung*）与客观批判距离，善于质疑习以为常的[[Habitus|惯习]]，却面临概念不对称与文化误读风险（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 96–97]]）。在**超国家机构与组织治理向度**上，外部学术批评者易局限于公开政策文本分析，将国际金融机构抽象还原为推行新自由主义霸权的全能机器；而深具数十年一线管理经验的圈内实务官员，能够穿透意识形态迷思，揭示机构内部复杂的学术理论论战、[[Red Tape|繁文缛节]]与反腐审计造成的基层瘫痪，以及重投入轻产出的系统性失能（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 455–456, 462–464]]）。
@@ -112,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 比较教育内外视角的双重分析向度：文化-地理维度 vs. 制度-组织维度
 > | 比较维度 | 文化-地理视阈下的内外视角（[[Argument_Mitter_2009_Europe\|Mitter, 2009]]） | 制度-组织视阈下的内外视角（[[Argument_Castro_2009_MultilateralBanks\|Castro, 2009]]） | 辩证互补与视域融合路径 |
 > |:---|:---|:---|:---|
@@ -125,8 +119,6 @@ updated: 2026-10-22
 > | **代表性学术范例** | 欧洲与跨大洲比较学者在联合课题中的文化校准 | [[Claudio de Moura Castro\|卡斯特罗]]解构多边银行“优雅设计 vs 执行泥潭”的双重悖论 | 跨国学术界与国际组织离任专家的深度[[Reflexivity\|反思性]]对话 |
 
 ---
-
-## 核心要素
 
 > [!feature] 比较教育内外视角的核心构件分类学
 > - **本土语境深度浸润与[[Tacit Knowledge|默会知识]]（Contextual [[Presence|immersion]] & Tacit Knowledge）** 局内人对本土历史传统、非正式制度惯例、微观人际政治与语言细微语义拥有直觉式把握，能够准确破译冷冰冰的统计报表背后的实质逻辑。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
@@ -180,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕比较教育内外视角形成的核心命题归纳
 > | 命题类型 | 核心理论判定 | 适用情境与解释对象 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -189,8 +179,6 @@ updated: 2026-10-22
 > | **超国家机构制度反思命题** | 国际组织治理研究必须破除局外人纯文本推演的意识形态全能神话，深度吸纳圈内人对官僚摩擦与执行失能的实务解构。 | 多边开发银行借贷机制解构、国际组织决策黑箱与[[Policy Borrowing\|政策借用]]追踪。 | [[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 455–456, 462–464)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 比较教育内外视角的演变轨迹
 > - **19 世纪末至 20 世纪初 — 外来借光与观察者的游记勘察** 早期[[Policy Borrowing|教育借用]]先驱（如库赞、[[Michael Sadler|迈克尔·萨德勒]]）均以纯粹局外人身份考察外国学制，萨德勒率先提出“校外的事情比校内的事情更重要”，开启了对外国社会脉络与[[National Character|民族性格]]的整体探索，但研究带有鲜明的本国中心主义取向。
@@ -200,8 +188,6 @@ updated: 2026-10-22
 > - **2000s–至今 — [[Claudio de Moura Castro|卡斯特罗]]开创超国家国际组织治理的圈内人制度分析** 克劳迪奥·德·莫拉·卡斯特罗（2009）与[[Stephen P. Heyneman|斯蒂芬·海尼曼]]等学者，将内外视角从传统文化地理维度开创性地拓展至超国家金融与发展官僚机构内部，打破外部学者仅凭政策文本推导意识形态阴谋的传统，推动了[[International Education|国际教育]]治理研究的微观机制现实主义转向。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–456)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议交锋
 >

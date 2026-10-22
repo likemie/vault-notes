@@ -35,8 +35,6 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Hatch Act of 1887
-
 > [!info] 内容
 Hatch Act of 1887 是美国联邦立法，在 [[Morrill Land-Grant Act of 1862|Morrill Act]]（1862）建立的赠地大学体系中进一步设立了农业实验站（agricultural experiment stations），直接服务于农场和食品加工者（farms and food processors）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.51]]）。
 

@@ -58,11 +58,7 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Champ
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **场域（Champ / Field）** 是[[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）实践理论的核心概念，指一个由客观位置关系构成的相对自主的社会空间。在场域内部，行动者与机构依据特定的“游戏规则”（rules of the game），动用各自持有的经济、文化、社会及象征资本展开竞争与博弈，以争夺场域特有的权威、资源与规则界定权（Bourdieu, 1990; [[Argument_Eacott_2011_JEAH|Eacott, 2011, p. 48]]）。在教育社会学与比较教育中，场域概念既被用于剖析学校管理、高等教育分流及绩效问责中的微观权力运作（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 4–7]]），也被拓展用于解释超国家机构如何通过跨国流动、数据基础设施与可比指标共同编织出具有通约性的区域政策空间（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 24–25]]）。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 场域与相关社会学[[Construct|构念]]系统辨析
 > | 比较维度 | 场域（Champ） | 社会空间（Espace social） | 习性（[[Habitus]]） | 制度系统（System / Institution） |
 > |---|---|---|---|---|
@@ -95,8 +89,6 @@ updated: 2026-10-22
 > | **典型表征** | 精英大学场域、基础教育监测场域、超国家政策场域 | 整体社会阶层坐标图 | 面对选课、科研与社交的直觉应对倾向 | 学校行政体系、公务员考选系统 |
 
 ---
-
-## 核心要素
 
 > [!feature] 场域的核心构成维度
 > - **相对自主性（Relative Autonomy）** 场域拥有独立于外部力量（政治、经济）的专门价值标尺与折射能力。折射能力越强，外部指令越需被转译为场域内部逻辑方可运作（[[Argument_Eacott_2011_JEAH|Eacott, 2011, p. 48]]）。
@@ -162,8 +154,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕场域形成的理论命题归纳
 > | 命题类型 | 核心指向 | 理论机制与关键[[Variable\|变量]] | 代表学者与文献 |
 > |---|---|---|---|
@@ -183,8 +173,6 @@ updated: 2026-10-22
 > - **2010s–2020s — 教育治理与高等教育分流研究中的当代转向** 场域理论被广泛拓展至当代教育研究，一方面用于诊断全球绩效问责与[[New Public Management|新公共管理]]对教育行政场域自主性的侵蚀（[[Argument_Eacott_2011_JEAH|Eacott, 2011]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019]]），另一方面用于解构大学场域中阶层习性与学业出路的微观博弈（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -211,8 +199,6 @@ updated: 2026-10-22
 > 2. **防范经济资本机械隐喻** 场域中的“资本”与“投资”属于社会学象征性隐喻，不可等同于功利主义[[Rational Action Theory|理性选择理论]]中的货币成本收益核算。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

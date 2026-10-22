@@ -43,13 +43,9 @@ created: '2026-05-08'
 updated: 2026-10-22
 ---
 
-# Academic and Social Integration
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 学习／社交融入理论（Academic and Social integration Theory）由美国高等教育研究者Vincent Tinto（1993）在 *Leaving College*（第二版）中系统提出。该理论以人类学家 van Gennep 关于人生阶段过渡仪式（rites of passage）的理论为原型，假设即将步入大学的学生必须先经历"分离—转折—习得"三阶段，才能顺利融入大学环境并取得积极的教育成果。
 
 > [!quote|notitle]

@@ -43,11 +43,7 @@ created: 2026-09-17
 updated: 2026-10-16
 ---
 
-# Society for Research in Child Development
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **儿童发展研究学会（Society for Research in Child Development, SRCD）** 是全球规模最大、历史最悠久的跨学科儿童发展专业学术学会（501(c)(3)）。学会汇聚了来自全美及全球 50 多个国家的 5,500 余名发展心理学、儿科学、教育学、精神病学、神经科学及公共政策领域的顶级学者，致力于促进跨学科儿童科学研究，并通过前沿的敏捷科学传播机制将实证发现转化为国家儿童福祉与公共教育政策。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
@@ -60,16 +56,12 @@ updated: 2026-10-16
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1933–1960 — 奠基与多学科数据系统建立** 创办旗舰期刊《儿童发展》（*Child Development*）与《儿童发展研究专著》（*Monographs of the SRCD*），奠定了人类毕生发展与早期身体认知发育的测量基准。
 > - **1961–2000 — 深度参与国家早期干预立法** 深度介入 1960 年代联邦“开端计划”（Head Start）及《残疾人教育法》（IDEA）的前期论证与持续追踪，[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]等学会杰出领袖将生态系统模型深深注入国家儿童政策。
 > - **2001–至今 — 敏捷政策响应与全球多样性转型** 面对国会山极速流转的立法时间生态，设立专门的政策与科学传播办公室；针对突发社会危机创新性地设立[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]（RARS），成为全美学术学会敏捷对接宏观政策的标杆组织。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Governing Council）** 由全体会员选举的学会会长、候任会长、财务官及专业代表组成，统揽学术规程与公共声明准则。
@@ -82,8 +74,6 @@ updated: 2026-10-16
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵
 > - **全球顶尖学术期刊家族** 主编出版发展科学领域最高引期刊《儿童发展》（*Child Development*）、《儿童发展洞察》（*Child Development Perspectives*）以及《社会政策报告》（*Social Policy Report*）。
 > - **[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]产出** 针对全国性重大事件极速编制的科学声明与媒体通稿，直接成为国会听证质询的权威实证援引源泉。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
@@ -91,8 +81,6 @@ updated: 2026-10-16
 > - **社会政策简报（Social Policy Report, SPR）** 专门将复杂的发展神经科学与心理学前沿成果转译为面向立法决策者的一页纸政策建议。
 
 ---
-
-## 影响与学术利用机制
 
 > [!finding-cards] 敏捷机制对宏观政策转化的重塑
 > - **破解学术迟滞与政治紧迫的时间断层** 在 [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 的论述中，SRCD 的制度创新被高度赞誉为学术界对接国会山“立刻就是立刻”极端时间要求的典范。传统学术同行评议周期动辄耗费数月乃至数年，而 SRCD 的 [[Rapid Assessment and Response Strategy\|RARS]] 机制证明：专业学会完全有能力在坚守科学严谨底线的同时，构建出数日内完成实证聚合与定向发布的敏捷快反部队。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]

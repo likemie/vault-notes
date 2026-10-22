@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Kenneth Burke
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 20 世纪美国重要文艺理论家、修辞哲学家与社会思想家，非建制派独立学者，曾任教于本宁顿学院等机构。
@@ -76,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类作为符号使用与道德秩序建构的动物，必然在面对社会规范破损与内部紧张时产生深层罪咎感；为了维系秩序的表象，群体周期性地演化出将自身缺陷、失败与禁忌欲望转嫁给特定个体的驱邪与替罪冲动。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 188)]]
 
 > [!citation-card] [[Scapegoat Mechanism|替罪羊机制]]与集体罪咎卸载

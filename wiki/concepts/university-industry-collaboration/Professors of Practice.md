@@ -33,11 +33,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Professors of Practice
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 实践教授（Professors of Practice）是大学基于产业经验而非传统学术资质（如博士学位、学术发表记录）聘任的教师，通常为全职或兼职。其主要价值在于将产业界的实践知识、技术趋势和职业网络带入大学的教学和研究活动（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p.58]]）。
 
 在[[University-Industry Collaboration|产学合作]]的语境中，实践教授是产业向大学知识流动的重要渠道——与传统的学术教授不同，实践教授的知识基础来自产业实践而非学术研究，其聘任不依赖学术发表，而是依赖行业成就。
@@ -56,9 +52,7 @@ updated: 2026-10-22
 
 ---
 
-## 在产学人员流动中的角色
-
-> [!info|notitle]
+> [!info] 在产学人员流动中的角色
 > 2019 年 [[Oxford UIDP Summit 2019\|Oxford UIDP Summit]] 将实践教授和联合任命置于更广泛的人员流动性议题中。峰会呼吁增加大学和产业之间的人员流动，作为桥接学术界和产业界之间文化、动机和目标差距的重要机制。实践教授——尤其是联合任命——在医学、工程、法律和建筑等学科已较常见，但在其他学科仍少见([[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP, 2019, p.39]])。
 
 > [!example] Princeton-Google AI 实验室

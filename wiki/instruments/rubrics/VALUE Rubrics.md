@@ -56,11 +56,7 @@ created: 2026-08-26
 updated: 2026-10-16
 ---
 
-# VALUE Rubrics
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] AAC&U VALUE Rubrics（Valid Assessment of Learning in Undergraduate Education）
 > - **工具类型** [[Authentic Assessment\|表现性评价]]标准与质性评分量规套件（Performance Assessment Scoring Rubrics）。
@@ -74,8 +70,6 @@ updated: 2026-10-16
 > *The VALUE rubrics were developed by teams of faculty to assess student work across 16 essential learning outcomes... They provide a national framework to measure authentic student achievement without relying on standardized testing.*
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]量规维度
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -95,16 +89,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **评价载体** 学生在正常修课过程中完成的真实学术成果（Curriculum-Embedded Authentic Work），包括研究长文、毕业设计、实验分析报告、案例诊断书与艺术作品集。
 > - **作答格式** 开放式学术作品与实践产出，无预设标准答案。
 > - **评分与校准** 教师或经过校准培训的评审专家依据 4 级描述符打分：第 1 级为基准水平（Benchmark，通常对应大一新生起点），第 2–3 级为里程碑水平（Milestones），第 4 级为顶峰水平（Capstone，代表本科毕业优秀水平）。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -115,8 +105,6 @@ updated: 2026-10-16
 > | Hart Research Associates (2016) | VALUE Rubrics 全套 | 全美 325 所高等院校学术主管调查，考察本科生核心能力评价工具的普及率 | 院校采用率与评价实践分布 | 调查显示超过 40% 的受访院校正式采用或参考了 VALUE 量规评估学生通用能力，批判性思维与书面沟通量规使用最为广泛（引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023, p. 27]]） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

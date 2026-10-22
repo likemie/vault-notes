@@ -60,11 +60,7 @@ created: 2026-07-19
 updated: 2026-10-22
 ---
 
-# Avatar
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **化身（Avatar）** 是指在数字虚拟空间、计算机生成环境或人机交互系统中，代表人类参与者（用户端化身）或人工智能代理（教学端化身）的可视化、可配置数字拟人表征。在[[Qualitative Research\|质性研究]]与社会互动视域下，用户化身作为[[Projection Technique\|投射技术]]与身份实验载体，使个体能够将内在价值观[[Externalization\|外化]]并在安全匿名的理想沟通语境中展开民主审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19]]）；在智能学习技术与科学探究视域下，教学化身作为拟人化虚拟导师（Pedagogical Agent），通过动态视线追踪、提问引导与即时诊断，在无前置显性讲授的情境下有效激发学生的自主因果探究与概念构建（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 用户端化身、教学端[[AI Agent in Education\|智能体]]化身与游戏角色辨析
 > | 比较维度 | 用户端化身 (User Avatar) | 教学端化身 (Pedagogical Avatar) | 传统电子游戏角色 (Game Character) |
 > |---|---|---|---|
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] | Yannier et al. (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Gee (2003); Prensky (2001) |
 
 ---
-
-## 核心要素
 
 > [!feature] 化身在教育与研究中的核心功能
 > - **观点[[Externalization\|外化]]与自我投射（Self-Projection）** 学习者通过自制化身将内在潜意识观念、生活体验与价值取向转化为可视符号，借助[[Projection Technique\|投射技术]]规避直接质询带来的心理防御机制（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, p. 160]]）。
@@ -161,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境与实践机制 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-22
 > | **交互探究与概念生成** | 虚拟教学化身通过预测性提问与即时因果诊断实现无讲授概念自主探究 | 混合现实科学探究、物理实验操作、[[Computer Simulation\|虚拟仿真]]实验室 | Yannier et al. (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 9)]] |
 
 ---
-
-## 概念演变
 
 > [!phase] 化身[[Construct\|构念]]演进四大浪潮
 >
@@ -189,8 +177,6 @@ updated: 2026-10-22
 >   随着计算机视觉与智能代理发展，化身拓展为具备认知诊断能力的拟人化教学导师（Pedagogical Avatar），在混合现实与科学实验室中自适应提供提问支架，促进概念的主动发现（Yannier et al., 2020; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议
 >
@@ -209,8 +195,6 @@ updated: 2026-10-22
 > - **[[Informed Consent\|知情同意]]边界模糊** 当参与者以高度抽象或非人形态存在时，对其真实身份、年龄与知情同意能力的判定构成现代[[Research Ethics\|研究伦理]]的全新挑战。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

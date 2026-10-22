@@ -63,11 +63,7 @@ created: 2026-09-27
 updated: 2026-10-22
 ---
 
-# SINUS
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > “提高数理教学效率联合改革试验”（Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts, SINUS）是由德国[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（BLK）于 1998 年设立的国家级大型教学改革与转移试验项目。该项目直面德国在 1997 年第三次国际数学与科学研测（[[TIMSS]]）及后续 [[PISA]] 中暴露的理科素养低迷危机，依托基尔大学莱布尼茨科学与数学教育研究所（IPN）统筹学术研发，开创了通过跨校教师协作网络与校本模块化实践推动学科教学改进的新[[Paradigm|范式]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破除德国传统数理课堂中过度依赖孤立计算、缺乏认知激活、排斥错误探索以及各校教师闭门单打独斗的体制弊端，探索如何将前沿教学实证发现转化为广大中小学可吸收的[[Business as Usual|常态教学]]行为。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 教学质量的根本改进无法通过自上而下的行政命令或理论宣讲达成，而必须依靠结构化的“教学发展模块”为教师提供反思支架，并将单体学校嵌入跨校专业教研网络，使一线教师在平等的同侪共研与[[Recontextualization|本土重构]]中重塑专业信念与教学[[Habitus|惯习]]。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 11)]]
@@ -99,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1998–2003 — 方案论证与先导试验期（SINUS 原型）** 在全德各州的 180 所中学开展第一轮试点，研制 11 个教学模块并验证跨校协作网络机制，参与教师在题目设计与课堂师生互动上展现出显著积极转变。
 > - **2003–2007 — PISA 震荡应急响应与全域规模化扩散（SINUS-Transfer）** PISA 2000 发布引发德国舆论危机后，联邦与各州将 SINUS 确立为应对数理危机、推行产出导向教学的核心载体，BMBF 追加专项资金支持，数十个区域网络相继建立，数千所学校加入网络协作。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
@@ -108,8 +100,6 @@ updated: 2026-10-22
 > - **2010s 至今 — [[Transfer Science|转移科学]]的奠基性典范** SINUS 成为德语区教育科学界研究“模型试验向学校实践转移”的标杆案例，其在网络化扩散与教师协作方面的经验直接启发了后续[[Clearing House Unterricht|慕尼黑工业大学教学清算中心]]（CHU）、[[Forschungsmonitor Schule|学校研究监测平台]]（FMS）及全德教师教育改革专项（[[Qualitätsoffensive Lehrerbildung|QLB]]）的方案设计。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9–11)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层领导与资助方（BLK & BMBF & 各州教育部）** 负责宏观政策背书、跨州财政统筹与组织制度协调，确保项目享有合法的改革试验自主权与可持续经费。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 29–30)]]
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > - **校本选择与动态重构** 赋予单体学校自主选配 11 个模块中特定攻坚主题的权力，鼓励教师根据本校学情对教学设计进行自适应微调。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入与网络指标** 参与学校总数、跨校教研联合体（Set）密度、BMBF 与各州专项目标拨款落实率。
@@ -142,8 +130,6 @@ updated: 2026-10-22
 > - **16** 覆盖德意志联邦共和国全部 16 个联邦州的数理教学协作网络。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

@@ -50,11 +50,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Benevolence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > Ren（仁）是儒学的最高道德概念，指行动者通过终身修养达到的真诚、完整且合乎人性的道德境界；它超越孝、礼、义等单一德目，构成[[Confucian Learning Tradition|儒家学习传统]]与人格养成的终极目标。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
@@ -84,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **终身[[Self-Cultivation|修身]]实践（Never-ending Process）** 追求仁属于长期的生命修养历程，死而后已，贯穿行动者的全部生命周期。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
 > - **个体自主抉择（Self-chosen Path）** “为仁由己”，体现个体自觉自愿选择的生命道路与伦理志向。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
 > - **警觉的自我审视（Vigilant Self-watchfulness）** 怀抱敬畏与慎独精神，在日常言行举止与念头起伏中开展审视与反思。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]
@@ -124,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -140,8 +132,6 @@ updated: 2026-10-22
 > - **15–16 世纪 — 阳明心学倡导致良知与知行合一** [[Wang Yangming|王阳明]]强调仁源于个体本具之良知，主张破除支离知见，在事上磨炼中践行知行合一以达至仁之境。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 44)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > [[Confucius|孔子]]始终未确认任何具体弟子已经完全达到仁的境界，体现出仁作为理想道德极境的高阶性与超越性，但这也使该概念在现代实证研究或量化评估中面临边界界定与[[Operationalization|操作化]]测量难题。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 41)]]

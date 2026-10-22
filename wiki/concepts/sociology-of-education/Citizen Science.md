@@ -61,11 +61,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# Citizen Science
-
 ---
-
-## 定义与核心内涵
 
 > [!def] 核心定义
 > **公民科学（Citizen Science / Participatory Science）** 指非专业科研人员（普通公众、社区志愿者、中小学生及社会团体等）在专业科学家的[[Co-Design|协同设计]]与指导下，或由在地社区自主发起，自愿、直接参与科学研究全生命周期各环节（涵盖生态观测、数据采集、模式分类、算法标注、感知测试乃至研究议程共创与政策转化）的协作性科研与社会参与[[Paradigm|范式]]。它打破了传统实验室的封闭边界，兼具科学研究生产力倍增与公众[[Scientific Attitude|科学态度]]、[[Science Capital|科学资本]]及主体能动性培育的多维价值。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 43)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析与协作阶梯
-
 > [!contrast-table] 公民科学四大协作梯度对比表（Haklay, 2013; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026, pp. 43–44]]）
 >
 > | 参与层级 | 核心定义与公众角色 | 权力关系与参与深度 | 代表案例 |
@@ -89,8 +83,6 @@ updated: 2026-10-22
 > | **4. 社区自主型（Community-Led）** | 社区居民自主界定核心痛点并掌管项目经费，选聘学者提供技术顾问支持。 | 权力关系彻底反转，在地社区拥有最终立项与决策权。 | The Ideas Fund 社区自主科研基金 |
 
 ---
-
-## 核心理论维度与评估体系
 
 > [!feature] 公民科学的四大理论支柱（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026, pp. 43, 46]]）
 >
@@ -109,8 +101,6 @@ updated: 2026-10-22
 > | **长期队列试验级（Cohort Trial）** | UCL ASPIRES 追踪、布拉德福德出生队列 | 跨 10–20 年纵向队列跟踪、[[Science Capital\|科学资本]]测量与职业路径映射 | 揭示长期校外科学遭遇对个体科学认同与终身发展的深层机制 |
 
 ---
-
-## 核心命题与机制分析
 
 > [!concept-proposition] 命题一｜公民科学通过主体能动性重塑将公众从被动受众转化为[[Knowledge Co-production|知识共创]]者
 > **解释** 参与真实科学课题打破了科学研究的神秘感与精英独占性。通过让公众切身经历观察、记录、数据校验与证据推演，公民科学大幅增强了个体的科学自信心与社区环保行动力，将科普受众从被动的知识消费者重塑为积极的[[Knowledge Production|知识生产]]合作者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 46)]]
@@ -134,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-## 演进历程与治理转型
-
 > [!dev-timeline] 公民科学百年[[Paradigm|范式]]演变
 >
 > - **第一阶段（19 世纪至 20 世纪初）：业余博物学与天文学观测** 以业余观鸟、昆虫标本搜集及气象记录为主，主要由少数具备闲暇与经济基础的知识精英主导。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 > - **第四阶段（2020 年代至今）：使命导向共创、认知普查与社区主导科研** 将前沿神经认知科学、社区自主基金与[[Mission-Oriented Innovation Policy|使命导向创新政策]]深度融合（如造梦机器、[[The Perception Census|感知普查]]、The Ideas Fund 与[[EU|欧盟]]绿色转型公民议程），开创了以公众[[Epistemology|认识论]]重塑与国家重大使命社会共创为导向的第四代公民科学。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43–44)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
 
 ---
-
-## 争议焦点与局限反思
 
 > [!debates] 核心学术争议与张力
 >
@@ -168,8 +154,6 @@ updated: 2026-10-22
 > > - **政策建言** 英国皇家学会与创新政策学者呼吁为战略性公民科学网络设立多年期定向竞争专款（Ring-fenced Multi-year Funding），并系统建立参与式科研伦理规范与研究者培训体系。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 102)]]
 
 ---
-
-## 实证案例与政策矩阵
 
 > [!ref-table] 标志性公民科学项目实证成效对比表
 >

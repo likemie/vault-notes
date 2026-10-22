@@ -48,11 +48,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Funding Exit Mechanism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **资助退出机制 / 断乳机制（Funding Exit Mechanism / De-weaning）** 指在科技创新政策与公共前沿科研项目治理中，政府研发管理机构在某一新兴技术于大学实验室或联合体完成关键概念验证（[[Proof of Concept Programs|proof of concept]]）、并在商业市场或常规科学基金（如 [[National Science Foundation|NSF]]）中确立技术可[[Reliability|信度]]之后，**主动决断地停止专项公共拨款并退出项目资助**的制度化管理机制。该机制的核心宗旨在于消除受资助高校实验室与产业企业对国家财政的长期“依附性”（Dependency）与利益寻租套牢，强制倒逼科研成果向市场化自立或常规学术同行评议轨道过渡，从而使有限的国家战略性公共资源得以迅速回流并投入下一轮颠覆性未知前沿的孵化。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1143, 1146)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 适时断乳退出与被动终止资助的辨析
 > | 维度 | 资助断乳退出机制（De-weaning） | 失败淘汰机制（Go/No-Go Termination） | 常规科学基金周期结束（Project Expiration） |
 > |------|-----------------------------|-----------------------------------|---------------------------------------|
@@ -81,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **明确的断乳触发标志（Transition Indicators）** 外部私营巨头自筹资金设立量产线、常规科学基金（如 [[National Science Foundation|NSF]]）全面接盘，或学术界主流共识确立。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
 > - **防范学术与产业寻租依赖（Preventing Capture）** 坚决拒绝学术带头人或大企业将国家战略研发专项视为长期“维持性经费”的游说诉求。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1146)]]
 > - **公共资金向下一个前沿的敏捷重定向（Capital Re-allocation）** 断乳腾出的经费与项目经理编制立即投入更新一代物理[[Paradigm|范式]]的[[Seed Funding|早期种子资助]]（[[Seed Funding]]）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1143)]]

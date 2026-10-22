@@ -148,11 +148,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Technological Republic
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 技术共和国（Technological Republic）指国家战略力量、公共福利与民主制度合法性同前沿科技研发与工程实力深度绑定的政治经济体制形态。该形态强调国家战略导向与技术工程共同体之间的深度结盟与双向互信：国家通过前瞻性科研资助、重大战略工程与新型采购机制为前沿探索提供制度支撑；工程与科学共同体则将技术突破定向服务于国家安全、关键产业与公共治理福祉，以此维系地缘战略均势并捍卫民主事业本身的公信力。
@@ -218,9 +214,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **国家战略与科技研发的深度结盟（State-Science Strategic Alliance）** 国家直接承担早期高风险基础研究资助与重大任务采购，科技共同体将智力资源投入关乎国家安危与重大福祉的战略级项目。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–8)]]
 > - **以软件为中枢的现代[[Hard Power|硬实力]]与战略威慑（Software Hard Power & [[AI Deterrence]]）** 颠覆硬件主导的工业化思维，确立软件在全域感知、指挥协同与精准打击中的核心主导地位。以先进算法模型与自主致命软件为中枢的人工智能威慑替代原子时代的互保机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 > - **政权合法性与技术供给效能的内在绑定（Legitimacy Tied to Technological Delivery）** 依据社会理论学者[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的[[Legitimation Crisis|合法化危机]]理论，民主政体的政治公信力依赖于持续为公民提供安全、经济增长与高效公共服务；技术红利若无法转化为公共福利，将直接诱发政权合法性危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 8–11)]]
@@ -426,8 +420,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -458,8 +450,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 审美品味与实质美德主张 vs [[Cultural Relativism|文化相对主义]]与[[Value Neutrality|价值中立]]
@@ -481,8 +471,6 @@ updated: 2026-10-22
 > > - **技术共和国主权派（Bush / Oppenheimer / Karp & Zamiska）** 强调自由民主制度的生存依赖于强大的技术实力底座，逃避防卫责任将直接导致威权对手取得地缘非对称优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 经典实证研究与治理指标记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

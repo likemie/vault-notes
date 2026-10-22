@@ -49,11 +49,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Months of Progress
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **月度进步指标（Months of Progress）** 是由[[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins）团队为英国[[Sutton Trust\|萨顿信托]]（Sutton Trust）与[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）研发的派生计量转换指标。该指标通过将教育干预评估中的标准化[[Effect Size\|效应量]]（通常以基准 $d pprox 0.09 \sim 0.10$ 标准差对应“+1 个月的额外学业进展”）折算为直观的自然时间尺度，旨在向中小学校长与政策制定者通俗化阐明不同教学干预措施在一年内的相对投入产出效能。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 584)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 统计指标与转译衍生量辨析
 > | 维度 | 月度进步指标（Months of Progress） | 标准化效应量（Effect Size $d$ / $g$） | 原始统计量（Group Means & SD） |
 > |---|---|---|---|
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > | **方法学隐患** | 易掩盖原始数据失访、偏倚与质量差异 | 依赖样本同质性与方差池合并计算 | 无法跨异质测试工具进行直接综合比较 |
 
 ---
-
-## 核心机制与算法逻辑
 
 > [!feature] 核心要素
 > - **常模成长标定（Normative Growth Benchmark）** 假定一个学年包含约 9 至 10 个教学月；学生在常规无特殊干预教学下，一学年的自然认知成长量约为 1.0 个标准差（$SD pprox 1.0$），因此每 $0.1$ 个标准差的增益被折算为约“+1 个月的额外进展”。
@@ -122,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕月度进步指标的核心命题归纳
 > | 命题维度 | 核心批判指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -131,8 +121,6 @@ updated: 2026-10-22
 > | **统计透明性掩盖** | 批评通俗日常隐喻稀释了样本流失、不平衡性与真实离散分布 | 循证证据报告与政策采购评估规程 | [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] |
 
 ---
-
-## 争议与局限
 
 > [!debates] 学术争议
 >

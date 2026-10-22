@@ -51,11 +51,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Carl Rogers
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国心理学家，人本主义心理学泰斗，来访者中心治疗（Client-Centered Therapy）与以学生为中心教育（Person-Centered Education）创始人，曾任美国心理学会（APA）主席。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1942 — *Counseling and Psychotherapy: Newer Concepts in Practice*** 首次阐发非指导性咨询技术，打破专家权威式临床诊断垄断。
 > - **1951 — *Client-Centered Therapy: Its Current Practice, Implications and Theory*** 正式确立来访者中心[[Paradigm\|范式]]与“内部参照框架”核心概念。
@@ -85,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类是高度整合的有机生命体，内在蕴含着朝向自我实现与成长完善的“实现倾向”（Actualizing Tendency）。人类行为的决定性动力源于行动者当下体验到的“主观现象场”，而非外在客观物理刺激或环境条件反射。社会科学与教育研究若要理解真实的人类行动，就必须摈弃将人对象化为机械受控木偶的[[Positivism\|实证主义]]还原论，以同理共情深度介入行动者本人的“内部参照框架”，从当事人的眼睛打量生活世界。
 
 > [!citation-card] 罗杰斯论全人视角与行动者的内部参照框架
@@ -97,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **教育哲学路径** 彻底扭转了“以教师/教材为中心”的传统学科本位与[[Behaviorism|行为主义]]训练模式，确立了“以学习者为中心”（learner-centered）的[[Whole Person Education\|全人教育]]世界性思潮。
 > - **方法论路径** 为[[Qualitative Research\|质性研究]]、[[Phenomenology\|现象学]]访谈与教育自传探究提供了不可动摇的[[Ontology\|本体论]]辩护，确立了尊重被研究者主体性与知情权的人本伦理准则。
 > - **心理治疗路径** 开创了当代心理咨询三大主流支柱之一的来访者中心疗法，深刻渗透进现代社会工作、危机干预与医患沟通实践。
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > - **方法共鸣** [[Rom Harré]] — 呼应哈雷的“[[Anthropomorphic Model\|拟人化模型]]”，共同强调将人视作具备反思自我监控能力的真实人类。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

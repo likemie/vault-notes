@@ -48,11 +48,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Pause Giant AI Experiments Open Letter
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 《暂停巨型人工智能实验公开信》（*Pause Giant AI Experiments: An Open Letter*）是 2020 年代全球人工智能治理史上的标志性历史事件，集中反映了大语言模型（LLM）实现能力突破后全球知识界与科技界对失控性[[Artificial General Intelligence|通用人工智能]]（AGI）的深刻恐慌与政策分歧。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2023-03 — 倡议发布与全球呼吁** 未来生命研究所于 2023 年 3 月 22 日公开发布公开信，明确呼吁全球所有人工智能实验室立即暂停训练比 [[General Purpose Technology|GPT]]-4 更强大的人工智能系统至少 6 个月。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
 > - **2023-03–2023-04 — 舆论白热化与思想阵营剧烈分化** 公开信签署人数迅速突破 3.3 万；以[[Eliezer Yudkowsky|埃利泽·尤德考夫斯基]]为代表的极端对齐派在《时代》周刊发文认为 6 个月暂停远远不够、主张全面无限期关停；而以卡普与扎米斯卡为代表的科技战略派则撰文猛烈批判公开信是虚伪自私的逃避主义，指出单边暂停将严重损害西方民主国家的地缘战略均势。
@@ -74,16 +68,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 暂停巨型人工智能实验公开信核心宣言
 > 当代人工智能系统在一般任务上正在变得具有人类[[Competitiveness|竞争力]]，我们必须问自己：我们是否应该让机器用宣传和虚假信息充斥我们的信息渠道？我们是否应该将所有工作（包括令人满意的工作）自动化？我们是否应该开发非人类的心智，这些心智最终可能超越、胜过并取代我们？我们是否应该冒险失去对我们文明的控制？……因此，我们呼吁所有人工智能实验室立即暂停训练比 [[General Purpose Technology|GPT]]-4 更强大的人工智能系统至少 6 个月。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Future of Life Institute, 2023 via Karp & Zamiska, 2025, p. 25)]]
 >
 > *Contemporary AI systems are now becoming human-competitive at general tasks, and we must ask ourselves: Should we let machines flood our information channels with propaganda and untruth? Should we automate away all the jobs, including the fulfilling ones? Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us? Should we risk loss of control of our civilization?... Therefore, we call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **安全暂停倡导阵营** 未来生命研究所（FLI）、[[Eliezer Yudkowsky|埃利泽·尤德考夫斯基]]、约书亚·本吉奥等 — 主张 AI 存在不可逆的物种灭绝风险，呼吁通过全球强制叫停换取对齐技术窗口期。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
@@ -100,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键历史后果
 > - **公众安全意识剧烈觉醒** 将此前局限于小众理性主义社区的 AI 存在性风险与 [[Artificial General Intelligence|AGI]] 伦理大辩论彻底推向全球公共政治中心。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
 > - **大国地缘博弈现实检验** 揭示出全球技术竞赛中“囚徒困境”的严峻现实——在缺乏跨国实质互信与核查机制的前提下，单边政策叫停在现实[[Geopolitics|地缘政治]]中完全无法操作。
@@ -112,8 +100,6 @@ updated: 2026-10-22
 > - **6 mo** 公开信所倡议的全球暂停训练更强大 AI 系统的最低时间窗口。
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!citation-card] Karp & Zamiska论暂停研发呼吁的虚伪性与战略误导
 > 继续推进人工智能研发的风险从未如此显著，但叫停这些技术发展的建议是严重误导的。硅谷科技精英多年来将软件奉为人类唯一的救赎，如今却在关乎国家防务与医学革命的关键战略节点告诉我们必须暂停研究。我们绝不能因害怕锋利的工具可能被调转枪头对准自己而退缩不前，必须将注意力坚决转向构建决定本世纪大国平衡的下一代 AI 武器。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 26)]]

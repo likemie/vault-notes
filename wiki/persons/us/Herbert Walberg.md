@@ -59,12 +59,9 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Herbert Walberg
 （赫伯特·沃尔伯格）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名教育心理学家、[[Quantitative Research|量化研究]]综合先驱，芝加哥伊利诺伊大学教育学与心理学荣誉教授，斯坦福大学[[Herbert Hoover|胡佛]]研究所高级研究员，美国国家教育[[Chinese Academy of Sciences|科学院]]院士。
@@ -91,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1980 — *Classroom Reinforcement* (with R. S. Lysakowski)** 全面综合 39 项课堂行为强化实验，证实物质奖励、代币与口语表扬能够显著提高[[Academic Achievement|学业表现]]（$d = 1.17$）。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 10)]]
 > - **1982 — *Instructional Effects of Cues, Participation and Corrective [[Feedback]]* (with R. S. Lysakowski)** 综合 94 项实证研究，构建包含前置线索、互动参与与矫正性刺激的教学控制模型（$d = 0.97$）。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 11)]]
@@ -101,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 沃尔伯格坚持[[Positivism|实证主义]]计量经济学与行为科学相结合的教育生产力[[Paradigm|范式]]：学校教育可被建构为一个受明确生产函数规制的输入—产出系统；学生的[[Academic Achievement|学业成就]]与态度受三大类九项独立因素的共同作用（学生个体特质包含认知能力、年龄发育与动机；教学过程包含课程量、教学质性；环境条件包含家庭环境、同伴群体与校内微观生态）。沃尔伯格主张，教育政策的核心任务聚焦于依据量化[[Meta-analysis|元分析]]的科学[[Effect Size|效应量]]排名，优先配置具有最高生产率乘数的关键干预措施（如结构化线索强化与高针对性[[Feedback|教学反馈]]）。
 
 > [!citation-card] 教育生产力九因素理论假定
@@ -120,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与评价
-
 > [!debates] 学术争议与评价
 >
 > > [!axis] 机械因果生产函数 vs 教育生活世界复杂性
@@ -137,8 +128,6 @@ updated: 2026-10-22
 > > - **尼尔森等（2021a）的纠偏考证** 指出哈蒂正文一边声称奖励不属于反馈，统计上却把沃尔伯格高达 $1.17$ 与 $0.97$ 的强化数据直接塞进反馈大类，这种对沃尔伯格成果的裁切造成了实证大厦的虚假繁荣。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 人物与理论思想网络关联
 > | 关联对象 | 关系性质 | 核心说明 |

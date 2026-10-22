@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Social Deafness
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 社交失聪（Social Deafness，亦称社交钝感），是指科技创新者或前沿研发组织在关键演化节点上，对外部社会舆论的赞许或非难、同侪群体的从众压力以及世俗公认的规范指引所表现出的一种选择性抗拒与认知钝感。在[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）关于[[Engineering Mindset|工程思维]]的阐述中，社交失聪并非病理性的感知缺陷，而是一种极具生产性的自适应心理机制——它使工程师能够摆脱复杂的社交算计与人际逢迎，在面对大众不解与外界道德质疑时坚定地深耕颠覆性软件与实战系统开发。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 136–138)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 社交从众敏感模式 vs 社交失聪专注模式
 > | 比较维度 | 社交从众敏感型组织/个体 | 社交失聪专注型组织/个体（[[Engineering Mindset\|工程思维]]） |
 > |---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > | **创新产出类型** | 渐进式改良、迎合现有市场共识的平庸产品 | 颠覆性前沿软件、全新市场品类与范式更迭 |
 
 ---
-
-## 核心要素
 
 > [!feature] 社交失聪在初创工程组织中的三大核心功能
 > - **构筑认知防火墙（Cognitive Firewall）** 在产品探索的极早期，[[Screening Off|屏蔽]]外界质疑与短期舆论唱衰，为前沿架构的萌芽提供不受干扰的孵化空间。
@@ -139,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1920s 艺术与音乐史上的感官突围** 莫奈晚年白内障与贝多芬失聪案例展示了特定感官局限如何转化为重构视觉与听觉艺术维度的奇迹。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 137–138)]]
 > - **1951 [[Asch Conformity Experiment|阿施从众实验]]发现独立者样本** 阿施在线段实验中不仅发现了大量屈从者，更识别出在群体压力下从不动摇的独立者样本，为反从众心理研究提供了实证起点。([[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 130–132]], 138)
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > - **2025 理论升华与工程哲学确立** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中正式提出社交失聪概念，确立其在重塑西方技术[[Hard Power|硬实力]]中的微观心理支柱地位。
 
 ---
-
-## 争议与批评
 
 > [!debates] 围绕社交失聪的理论与伦理争议
 >
@@ -171,8 +157,6 @@ updated: 2026-10-22
 > > - **科技伦理与公共治理学者** 提醒过度脱离社会舆论可能削弱科技企业对算法偏见、监控隐私等外部伦理风险的自我反思能力。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 经典案例与质性实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

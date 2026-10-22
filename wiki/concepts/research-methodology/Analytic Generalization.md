@@ -32,9 +32,6 @@ status: draft
 created: 2026-07-11
 updated: 2026-10-22
 ---
-# Analytic Generalization
-
-## 定义
 
 > [!def] 核心定义
 > 分析性推广是[[Case Study\|个案研究]]中从案例到理论的推广逻辑。与统计推广（从样本推断总体参数）根本不同，分析性推广关注案例对理论扩展和检验的贡献——案例不是样本，而是理论与经验世界之间的逻辑桥梁。Yin（2009, p. 15）明确指出：个案研究选择分析性推广而非统计推广。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 288–289)]]
@@ -49,8 +46,6 @@ updated: 2026-10-22
 >
 > *To assume that generalization is only from sample to population/universe is simply incorrect, irrelevant, inappropriate and inapplicable in respect of case studies. Rather, case studies can help to generalize to a broader theory, in that the theory can be tested in one or more empirical cases and can be shown not to support rival, even if plausible, theories.* (Yin, 2009, pp. 38–39, 43)
 
-## 概念辨析
-
 > [!contrast-table] 统计推广 vs 分析性推广
 > | 维度 | 统计推广（Statistical Generalization） | 分析性推广（Analytic Generalization） |
 > |---|---|---|
@@ -60,8 +55,6 @@ updated: 2026-10-22
 > | 推广对象 | 总体参数 | 更广泛的理论——帮助理解其他类似案例、现象或情境 |
 > | 与实验的类比 | 调查统计 | 类似单次实验或准实验——理论可在一个或多个经验案例中检验 |
 > | 复制的含义 | 增大[[Sample Size Determination\|样本量]]以降低[[Sampling Error\|抽样误差]] | 通过多个案例的复制逻辑增强理论的[[External Validity\|可推广性]] |
-
-## 核心要素
 
 > [!feature] 分析性推广的运作机制
 > - **案例不是样本** [[Case Study\|个案研究]]的强度在于案例只代表它自己——其贡献在于能帮助理解其他案例，而非从样本推断总体

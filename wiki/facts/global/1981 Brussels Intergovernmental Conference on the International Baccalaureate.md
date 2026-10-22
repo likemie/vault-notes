@@ -35,11 +35,8 @@ status: draft
 created: 2026-10-04
 updated: 2026-10-22
 ---
-# 1981 Brussels Intergovernmental Conference on the International Baccalaureate
 
 ---
-
-## 背景与历史成因
 
 > [!claim] 政府参与从临时支持转为常设治理
 > 1981 年布鲁塞尔会议是[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization, IBO）公共身份制度化的关键节点。会议没有把 IBO 改造成政府间组织，而是以年度出资、理事席位和常设协调机构，把政府责任嵌入原有独立组织。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–162)]]
@@ -51,8 +48,6 @@ updated: 2026-10-22
 > - **直接任务** 审议十年发展计划，并决定政府如何持续参与 IBO 的财政和国际理事会。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–162)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!timeline] 从会议决定到治理轮换
 > - **1981 年 2 月** 会议原则批准十年发展计划，通过政府常设会议章程，并把该机构确立为 [[International Baccalaureate|IBO]] 国际理事会三个组成部分之一。
@@ -72,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键决定与公共服务定位
-
 > [!citation-card] 政府出资购买的是国际公共教育服务
 > [[John Goormaghtigh|约翰·戈尔马蒂赫]]（John Goormaghtigh）强调，[[International Baccalaureate|IBO]] 请求的不是对公益事业的捐赠，而是对一项已经证明自身价值的国际公共教育服务提供经费。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 162)]]
 >
@@ -82,8 +75,6 @@ updated: 2026-10-22
 这一表述为政府参与划定了边界。政府成为服务的共同资助者和治理参与者，但没有取得对课程、考试和行政的直接国家控制权。
 
 ---
-
-## 历史后果与深远影响
 
 > [!finding-cards] 会议留下的制度结果
 > - **常设政府渠道形成** 政府不再只在危机时召开临时会议，而是通过年度会议持续参与。

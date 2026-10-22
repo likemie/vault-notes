@@ -58,11 +58,7 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
-# Catalytic Philanthropy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **催化慈善（Catalytic Philanthropy）** 是指在现代[[Philanthrocapitalism\|慈善资本主义]]与[[Network Governance\|网络化治理]]演进中形成的一种高介入、高杠杆的策略性慈善运作[[Paradigm\|范式]]（Kramer, 2009；Reckhow, 2013）。与传统慈善侧重于资助具体的服务项目或填补贫困群体的生存赤字不同，催化慈善明确将自身定位于推动制度转型的“火种”与“催化剂”：它主张捐赠者不应止步于开出支票，而应综合动员诉讼游说、商业咨询、实证[[Knowledge Production\|知识生产]]与联盟装配等多元资源，促使跨国企业、公民社会与主权国家协同行动，从而撬动数十倍于慈善本金的公共财政资金，并将企业化治理准则与因果证据量规深植于国家[[CORE Education|核心教育]]政策之中。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 519–521)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 催化慈善与相近资助[[Paradigm\|范式]]辨析
 > | 维度 | 催化慈善（Catalytic Philanthropy） | 传统救济型慈善（Traditional Charity） | 国家公共教育拨款（Public Statutory Funding） |
 > |---|---|---|---|
@@ -95,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **撬动公共财政的放大器效应（Financial Catalysis and Co-funding）** 催化慈善的资金从不追求包揽全部成本，而是通过先期投入[[Seed Funding|种子基金]]，向政府施加政治压力，迫使公共财政提供多倍配资（[[Matching]] Funds），实现资本影响力的指数级放大。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526)]]
 > - **因果证据[[Discourse|话语]]垄断（Evidence Monopoly as Trojan Horse）** 将[[Randomised Controlled Trials\|随机对照试验]]（RCT）等特定因果实证工具包包装为“客观中立”的科学标尺，通过催化设立证据中介，迫使公立学校依据量规组织教学。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 530–531)]]
 > - **跨界网络动员能力（Orchestration of Heterogeneous Networks）** 捐赠者充当网络编排者（Network Orchestrator），联合智库、跨国咨询公司与高阶官僚协同游说，形成不可逆的改革势头。
@@ -143,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 社会创新催化引擎 vs 寡头特权架空民主
@@ -173,8 +161,6 @@ updated: 2026-10-22
 > 催化慈善高度依赖具有完善资本市场、充裕私人家族信托基金以及国家积极倡导政社公私合作的社会生态；在福利国家机制强大、公共财政对基础教育实行完全垄断托底且社会捐赠免税渠道严格受限的制度环境中，催化慈善很难形成实质性的杠杆效应。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 催化慈善在教育改革中的实证案例对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

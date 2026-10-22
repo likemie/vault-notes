@@ -57,11 +57,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Epistemological Coherence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全流程[[Epistemology\|认识论]]连贯性（Epistemological Coherence）是由[[Ian Menter\|伊恩·门特]]（Ian Menter）与约·赫尔盖通（Jo B. Helgetun）在[[Critique of Evidence-Based Education\|循证教育批判]]与政策[[Translational Research\|转化研究]]中提出的认识论规范概念（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）。该概念主张，一项研究证据要真正具备指导教育实践与政策的合法性，其严谨的科学逻辑必须完整贯穿从**问题概念化 $\rightarrow$ 经验观察 $\rightarrow$ 数据分析 $\rightarrow$ [[Policy Brokerage\|政策中介]]转译 $\rightarrow$ 课堂实践转化**的全链条；如果中间任何一个环节为了迎合政治落地偏好或经过口口相传而剥离了前置条件与样本语境，整个[[Chain of Evidence\|证据链]]条的认识论效度便会彻底崩溃，导致科学真知（$\text{episteme}$）退化为未经检验的意识形态教条（[[Doxa]]）甚至政策伪科学。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 88, 96)]]
@@ -92,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **逻辑链条的完整不间断性（Unbroken Chain of Logic）** 严密的因果推导与[[Epistemology\|认识论]]前提必须无缝贯通于问题定义、工具测量、实证分析、政策概括与一线操作五大阶段。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 88)]]
 > - **真知与意见的严格划界（Demarcation of Episteme from [[Doxa]]）** 坚持区分经过严谨同行评议、明确情境边界的科学真知（$\text{episteme}$）与在官僚体系和网络媒介中口口相传的流行意见或常识教条（doxa）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 > - **情境边界与[[Reflexivity\|反思性]]保真（Contextual Preservation）** 坚决拒绝将特定样本情境下的局部有效性粗暴抽象为普适法则，强调政策转译必须完整保留原始研究的边界条件与反思性警示。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 94–95)]]
@@ -146,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -163,8 +155,6 @@ updated: 2026-10-22
 > - **2022 年 — 全流程认识论连贯性概念成型** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 正式将“全流程认识论连贯性”确立为抵御[[Policy-Based Evidence-Making\|基于政策的证据制造]]与政策伪科学的核心规范，系统建构了连接生产、转译与落地的批判框架。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -109,11 +109,7 @@ created: 2026-05-20
 updated: 2026-10-22
 ---
 
-# 21st Century Skills and Competencies Discourse
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 21 世纪技能与素养[[Discourse|话语]]（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、[[EU|欧盟]]委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
@@ -130,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 核心素养及相关概念辨析
 > | 维度 | 21 世纪技能与素养话语 ([[Single-Case Design\|SCD]]) | [[Graduate Attributes\|毕业生特质]] | 传统学科知识体系 |
 > |---|---|---|---|
@@ -141,8 +135,6 @@ updated: 2026-10-22
 > | **潜在实践危机** | [[Floating Signifier\|漂浮能指]]运作、技能空心化、加剧不平等 | 机构修辞与院系落实脱节 | 事实[[Rote Learning\|死记硬背]]过载、缺乏横向可迁移性 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心[[Construct|构念]]：主导认知的“四 C 核心”与高阶心智能力
 > - **[[Critical Thinking|批判性思维]]（Critical Thinking）** 证据评估、逻辑推理、识别前提假设与辨析虚假信息的能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 4)]]
@@ -229,8 +221,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -243,8 +233,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Discourse|话语]]演变与跨国扩散六阶段
 > - **阶段零（历史-物质起源） — [[Post-Fordism|后福特主义]]生产组织转型** 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space\|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 353–355)]]
 > - **第一阶段（2000 年代初） — 美国国家框架主导** enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、协作、沟通）雏形，强调数字时代素养。
@@ -255,8 +243,6 @@ updated: 2026-10-22
 > - **第六阶段（2026 年） — 实体制造公地、排障手艺与自动化机器核验** 白宫科技政策办公室（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）战略报告将技能话语从纯认知与软件抽象拉回物理现实，强调在[[Man-Computer Symbiosis|人机共生]]时代，车间动手实训、仪器建造技艺、现场排障直觉与黄金标准机器自动化核验构成不可替代的高阶素养新支柱。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -271,8 +257,6 @@ updated: 2026-10-22
 > - **情境遮蔽** 全球普适框架无法响应欠发达地区因产业结构与后殖民语境产生的特殊生存与发展需求。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

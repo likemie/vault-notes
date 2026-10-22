@@ -72,11 +72,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Education for All
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《世界全民教育宣言：满足基本学习需求》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 > - **创新经济学视角的经验确证** 在经济发展与[[National Innovation System|国家创新系统]]（NIS）视阈下，基础教育普及是后发国家摆脱技术依附、构建[[Absorptive Capacity|吸收能力]]的必要基石。正如[[Chris Freeman|克里斯·弗里曼]]（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）考察东亚与拉美赶超分歧时指出的，全民基础教育的扎实普及与初高中高留存率，为韩国等东亚经济体向高等教育与工程技术领域输送充沛生源提供了不可或缺的底座；相比之下，基础教育滑坡与高辍学率直接导致拉美国家在中高层技术人才供给上陷入断层。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《世界全民教育宣言》确立了基础教育作为不可剥夺之基本人权的全球共识，主张突破传统正规学校系统的狭隘视野，致力于满足全体儿童、青年与成人的“基本学习需求”；同时确立了以[[UNESCO\|联合国教科文组织]]负责规范协调与指标统计、[[World Bank\|世界银行]]掌握放贷条件与财政执行的跨国多边治理架构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -105,8 +99,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1990** 泰国宗滴恩世界全民教育大会开幕，155 国代表一致通过《世界全民教育宣言：满足基本学习需求》与配套行动纲领。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]；本次大会实质由[[World Bank|世界银行]]强力主导，标志着全球教育理念领导权从[[UNESCO|联合国教科文组织]]向[[Multilateral Development Bank|多边开发银行]]发生历史性转移，开启了以标准化测试、统一教材、凭证制与[[Performance Pay|绩效工资]]为特征的技术治理时代。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 474)]]
 > - **2000** 塞内加尔达喀尔世界教育论坛召开，164 国政府通过《达喀尔行动纲领：全民教育——实现我们的集体承诺》，明确确立 2015 年前达成的六大定量发展目标。
@@ -114,8 +106,6 @@ updated: 2026-10-22
 > - **2015** 韩国仁川世界教育论坛召开，全民教育运动历经 25 年推进，正式并入联合国《[[UN Sustainable Development Goals|2030年可持续发展议程]]》，转化为第四项可持续发展目标（SDG 4）。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **多边协调与统计监测方** [[UNESCO|联合国教科文组织]]（UNESCO）掌握全球议程倡导权，下属统计研究所（[[UNESCO Institute for Statistics|UIS]]）统一制定跨国比较指标并发布《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR）。
@@ -131,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!tension]- 联盟结构与冲突
 >
 > | 维度 | 人文主义受教育权联盟 | 财政管理新自由主义联盟 |
@@ -145,8 +133,6 @@ updated: 2026-10-22
 > **关键分歧** 围绕全民教育究竟是国家必须无条件供给的公共福利，还是受制于财政效率与偿债能力的投资方案，两大阵营在整个 1990 年代至 2000 年代展开了长期的政策拉锯。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **投入指标** 全球双边与多边教育官方发展援助（ODA）从 1990 年代年均不足 50 亿美元增长至 2010 年代逾 130 亿美元。
@@ -163,8 +149,6 @@ updated: 2026-10-22
 > 覆盖全球 164 个签署国、设立 6 大量化全球目标、涉及数千亿美元跨国教育投资、促成全球失学儿童减少近 5,000 万人。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

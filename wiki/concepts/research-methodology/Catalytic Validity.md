@@ -35,11 +35,8 @@ status: draft
 created: 2026-06-23
 updated: 2026-10-16
 ---
-# Catalytic Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 催化效度（Catalytic validity）力求确保**研究导致行动**。在中性层面上，它与[[Participatory Research\|参与式研究]][[Paradigm\|范式]]相呼应——研究不应止于描述或解释，而应推动改变。但 Lather (1986, 1991) 和 Kincheloe and McLaren (1994) 赋予了它更强的政治性：催化效度的议程是**帮助参与者理解他们的世界，以便转变它**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 173–174)]]
@@ -50,8 +47,6 @@ updated: 2026-10-16
 > - **边界** 催化效度不适用于声称[[Value Neutrality\|价值中立]]的研究范式——追问一项描述性[[Survey Research\|调查研究]]是否"催化了变革"是其效度范畴之外的问题。催化效度本身带有明确的**政治议程**，不应被视为普适性的效度标准。
 
 ---
-
-## 核心要素
 
 > [!dimension] 催化效度的多重面向
 > - **赋权参与者（Empowerment）**
@@ -65,8 +60,6 @@ updated: 2026-10-16
 
 ---
 
-## 围绕概念形成的命题
-
 > [!claim] 催化效度重申了伦理在研究中的中心地位
 > 催化效度要求研究者审问自己的**忠诚（allegiances）**、**责任（responsibilities）** 和**自我利益（self-interestedness）（Burgess, 1989）**。它不仅关乎"如何做"研究，而且关乎 **"为谁"和"为何目的"** 做研究。催化效度将[[Research Ethics\|研究伦理]]从"不伤害"的消极底线提升到"积极赋权"的政治承诺。
 
@@ -74,8 +67,6 @@ updated: 2026-10-16
 > "如何辩护研究者应具有这样的意识形态意图——也许是一个未解决的问题——但不解决这一领域的问题就是通过遗漏和忽略来延续不平等。"催化效度将此悖论置于研究者面前：拒绝介入是一种政治选择，积极介入也是一种政治选择——两者都是价值负载的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 174)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 催化效度的争议核心
 > - **效度作为政治工具** 支持者认为催化效度使研究与其对社会的伦理责任保持一致。Lather 将其与 Freire 的"意识化"（[[Conscientization]]）概念相联系——研究应赋权参与者理解和转变他们被压迫的处境。

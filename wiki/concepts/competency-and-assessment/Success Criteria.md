@@ -47,11 +47,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Success Criteria
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 成功标准（Success Criteria，又称达成标准或表现成功标准）指伴随 [[Learning Intentions\|学习意图]] 向学生明确呈现的具体质性证据特征、逻辑构成要素与进阶评估阶梯。它界定了“学生做到何种程度即可被视为达成目标”，为学生在学习过程中开展自我调节、[[Peer Assessment|同伴互评]]以及教师提供针对性反馈提供清晰的[[Operationalization\|操作化]]证据参照（Clarke, Timperley, & Hattie, 2003；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 成功标准与传统[[Scoring Rubrics|评分量规]]辨析
 > | 维度 | 成功标准（Success Criteria） | 终结性评分量规（Summative Rubrics） | 表层任务清单（Task Checklist） |
 > |---|---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > | **学生能动性** | 主动用于自我诊断与同伴修改 | 被动接受教师裁判与等级结果 | 机械对照核对格式 |
 
 ---
-
-## 核心要素
 
 > [!feature] 成功标准的核心构成要素
 > - **阶段性进阶梯级（Progressive Milestones）** 针对长周期复杂单元，设立中间节点（如第 3 周过程标准）与终期目标标准，帮助学生建立循序渐进的掌握路径。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
@@ -99,8 +91,6 @@ updated: 2026-10-22
 > - **综合评估任务（Integrated Assessment Task）** 要求将孤立事实编织为严密的因果论证逻辑段落。
 
 ---
-
-## 典型案例
 
 > [!example] 毛利历史单元成功标准的分层架构（Clarke, Timperley, & Hattie, 2003；Hattie, 2005）
 > - **单元[[Learning Intentions\|学习意图]]** 理解形塑特定人群生存历史的关键事件的原因与后果。
@@ -138,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕成功标准的核心命题归纳
 > | 命题维度 | 核心理论观点 | 教学实践指向 | 代表文献 |
 > |---|---|---|---|
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > | **深层因果证据牵引** | 明确因果[[Chain of Evidence\|证据链]]要求的标准能抑制机械记忆，牵引高阶整合思维 | 将评分与评估关注点聚焦于因果论证的逻辑严密性 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Sadler (1989) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

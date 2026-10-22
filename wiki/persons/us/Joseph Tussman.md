@@ -43,11 +43,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Joseph Tussman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国哲学家、教育思想家，加州大学伯克利分校（UC Berkeley）哲学系主任、教授。
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960年代初 — 政治义务与民主公民教育** 探讨公民身份的哲学根基与政治责任。
 >   - **代表著作** *Obligation and the Body Politic* (1960)。
@@ -84,9 +78,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 图斯曼主张本科[[General Education|通识教育]]绝非零散选修知识的拼接，而是引导青年心智进入政治共同体生活的“成人礼”。然而在 1968 年的大论辩中，他敏锐指出，任何试图在庞大思想宝库中精选极少数篇目作为“西方正典”的努力，在技术层面上都带有不可避免的编辑武断性（如选[[Plato|柏拉图]]弃[[Aristotle|亚里士多德]]）。卡普与扎米斯卡指出，图斯曼所揭示的技术性篇目争议，在客观上加速了各高校教授会拆解正典必修课的进程，最终演化为国家历史认同断线的深刻危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 88)]]
 
 ---
@@ -97,8 +89,6 @@ updated: 2026-10-22
 > - **当代引述者** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中引述图斯曼质问，作为剖析[[Canon Wars|经典之争]]与[[General Education|通识教育]]解体逻辑的重要案例。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

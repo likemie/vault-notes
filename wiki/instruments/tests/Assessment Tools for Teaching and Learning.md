@@ -68,11 +68,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Assessment Tools for Teaching and Learning
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 教学与学习评估工具（asTTle）
 > - **工具类型** 标准化计算机辅助[[Formative Assessment|形成性评价]]与诊断测评系统。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] [[Learning Progression|学业进阶]]与学科核心能力
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -105,16 +99,12 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 客观[[Multiple-Choice Questions|多项选择题]]、封闭简答题与表现性写作任务混合。
 > - **作答格式** 计算机终端在线输入或纸笔作答后录入系统。
 > - **反向题与跳题** 系统根据 [[Item Response Theory|IRT]] 试题参数支持自适应测试抽题；在定制测试模式下，教师可根据教学单元选择特定能力水平（Levels 2–6）的题项组合。
 
 ---
-
-## 报告功能与应用机制
 
 > [!proc] asTTle 诊断与教学决策流程
 > 1. **目标设定与基线标定（Target Setting）** 教师录入或测试获取学生当前起点，系统根据全国常模和同类学校常模自动比对，促使教师与同伴研讨设定具有合理挑战性的增值目标。
@@ -130,15 +120,11 @@ updated: 2026-10-22
 
 ---
 
-## 信度与效度
-
 > [!fit-grid] 心理测量学品质与常模建构
 > - **全国大样本常模** 在研发与标定阶段覆盖新西兰 25,000 余名中小学生，确保了试题难度与区分度参数的稳健性（[[Argument_Hattie_2005_ACER|Hattie, 2005, p. 15]]）。
 > - **课程效度与文化适应性** 严格锚定新西兰国家课程（New Zealand Curriculum）各阶段表现描述符，包含面向毛利语学校的双语版本（asTTle Māori），消除少数族裔文化偏倚（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 17–18]]）。
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：形成性赋权工具 vs [[Panopticism|全景敞视]]行政监控
 > - **形成性赋权立场（蓝方）** 开发者与支持者认为 asTTle 彻底颠覆了基于测试的惩罚性外部问责；它将测评主权归还给教师，使教师能够即时获取精准的诊断证据，针对学生的认知台阶提供个性化反馈，并基于数据反思和调整自身的教学策略（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 11–21]]）。
@@ -164,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -178,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-## 版本与适配
-
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>
 >
@@ -190,8 +172,6 @@ updated: 2026-10-22
 > | asTTle Māori | 毛利语，新西兰 | 毛利语沉浸式学校（Kura Kaupapa Māori）师生 | 专用题库 | 融入毛利文化世界观（Te Ao Māori）与原住民语言表述，消除文化偏倚 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] |
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Ewald Terhart|特哈特]]论 asTTle 的行政监控功能与商业培训利益网络
 > [[John Hattie|哈蒂]]长期担任新西兰教育部的政策顾问，深度卷入了新西兰的教育政策斗争，他在教师[[Performance Pay|绩效工资]]方面的理念遭到了教师工会的强烈抵制……在这一背景下，哈蒂团队开发了名为“教学与学习评估工具”（asTTle）的软件程序……该软件遭到了[[Ivan Snook|斯努克]]等人以及史密斯（Smythe, 2010）的严厉批评，他们一致将该工具定性为针对学校推行行政监控的装置，且该工具与耗资不菲的商业化培训项目紧密捆绑。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 426, 434)]]

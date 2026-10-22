@@ -28,9 +28,8 @@ status: draft
 created: 2026-05-28
 updated: 2026-10-22
 ---
-## 定义
 
-> [!info|notitle]
+> [!info] 定义
 > T 型技能（T-shaped skills）是指同时具备两类能力的人才特质：纵向的"|"代表在某一学科领域内的深度[[Problem Solving\|问题解决能力]]（deep problem-solving skills in a home discipline）；横向的"—"代表跨学科的广泛沟通能力（broad communication skills across disciplines）（Donofrio & DeMarco, 2022, 转引自 [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer, 2025, p.96]]）。
 
 > [!quote|notitle]

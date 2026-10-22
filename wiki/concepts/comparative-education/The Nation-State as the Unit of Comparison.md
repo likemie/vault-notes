@@ -68,11 +68,7 @@ created: 2026-09-07
 updated: 2026-10-22
 ---
 
-# The Nation-State as the Unit of Comparison
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **民族国家作为比较单位（The Nation-State as the Unit of Comparison）** 是指跨国比较教育研究中将拥有法定主权管辖权、明确[[Geopolitics|地缘政治]]疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 47–48)]]
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 比较[[Unit of Analysis\|分析单位]]的演进与维度辨析
 > | 维度 | 民族国家单位（Nation-State Unit） | 多层级分析单位（Multilevel / Bray-Thomas Cube） | 全球跨国空间单位（Transnational / Spatial Unit） |
 > |---|---|---|---|
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **主权管辖与制度闭合性（Sovereign Territorial Closure）** 假定现代国家对其领土范围内的所有各级各类教育机构享有排他性的最高治理权，学校法案、督导体制与财政拨款构成高度制度化的统一体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
 > - **国家意志与学校形态同构律（State-School Isomorphism）** 假定“有什么样的国家，就有什么样的学校”，教育的指导思想、课程大纲与人才选拔标准直接折射国家政权的统治形态（民主政体或极权政体）。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48, 引自 Kazamias, 2009b)]]
 > - **[[Externalization\|外化]]表征与民族有机体假定（Organic Representation of National Life）** 将国民教育体系视同国家宪法或民族文学，是由历史斗争沉淀而成的活体有机体，生动表达着该民族的集体生命与文化特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Hans, 1949: 9–11; Kazamias, 2009: 40, 50, 引自 Kazamias, 2009b)]]
@@ -162,8 +154,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -179,8 +169,6 @@ updated: 2026-10-22
 > - **1990 年代至今 — 布雷-托马斯多层分析立方体与反思[[Methodological Nationalism\|方法论民族主义]]** 马克·布雷与 R. 默里·托马斯（Bray & Thomas, 1995）提出打破单一国家容器的多层级比较分析立方体；[[Roger Dale|罗杰·戴尔]]、考恩与诺沃亚等学者系统反思方法论民族主义，推动比较教育走向全球治理与超国家空间分析。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

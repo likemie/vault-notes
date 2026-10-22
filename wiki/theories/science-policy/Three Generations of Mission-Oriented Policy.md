@@ -68,13 +68,9 @@ aliases:
   - three generations of mission-oriented policies
 ---
 
-# Three Generations of Mission-Oriented Policy
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 阐释过去 150 年间国家如何通过设立重大战略使命引导科技创新与产业转型的历史变迁历程，以及各阶段所需的公共部门治理构架与组织能力。
 > - **理论问题** 克服以往创新政策史将使命政策狭隘局限于冷战时期军事航天工程（如阿波罗登月计划）的局限，揭示使命导向政策在制度动因、组织结构、参与主体与协调机制上的长期历史演变脉络。
 > - **理论类型** 历史演化解释理论与比较制度[[Analytic Framework|分析框架]]。
@@ -84,8 +80,6 @@ aliases:
 > [[Mission-Oriented Innovation Policy|使命导向创新政策]]经历了三次深刻的代际转型：第一代为 19 世纪末至 20 世纪初以国家追赶为核心的社会经济使命（以骆驼象征忍辱负重与长期牺牲）；第二代为 20 世纪中叶冷战与太空竞赛时期以国防和突破性技术攻关为核心的技术使命（以狮子象征雄心勃勃的主权权威与英雄式管理）；第三代为 21 世纪应对气候变化与老龄化等全球复杂难题的社会–技术使命（以儿童象征开放多元、[[Agile Governance|敏捷试错]]与[[Creativity|创造性]]实验）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–795)]]
 
 ---
-
-## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）于 2018 年在《工业与企业变革》（*Industrial and Corporate Change*）期刊论文《[[Mission-Oriented Innovation Policy|使命导向创新政策]]与[[Public Dynamic Capabilities|公共部门动态能力]]》（*Mission-oriented innovation policy and dynamic capabilities in the public sector*）中系统提出。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
@@ -107,8 +101,6 @@ aliases:
 > | 儿童阶段（第三代：社会–技术敏捷实验） | 阶段构件 | 以复杂棘手社会挑战为动因，依托多元异质主体、敏捷原型迭代与公众共创探索系统转型。 |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一｜第一代使命政策：以国家后发追赶为核心的社会经济奠基（骆驼形态）
 > **解释** 19 世纪末至 20 世纪初的早期发展型国家（如德国、日本以及二战后初期的法国计划署）将后发追赶确立为最高国家意志。受东方天命思想与西方国家理性（Reason of State）思想驱动，国家承担起忍辱负重、动员全社会资源的责任。组织上依托韦伯式精英功绩制文官官僚，通过持续革新组织构架与高层超凡魅力网络，奠定了现代[[Research Universities|研究型大学]]、中央银行及社会保险制度的基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
@@ -136,8 +128,6 @@ aliases:
 
 ---
 
-## 理论对比与分析框架
-
 > [!contrast-table] 三代使命政策核心治理特征深度对比
 >
 > | 治理维度 | 第一代：社会经济追赶（骆驼） | 第二代：[[Big Science\|大科学]]技术突破（狮子） | 第三代：社会–技术[[Grand Challenges\|重大挑战]]（儿童） |
@@ -150,8 +140,6 @@ aliases:
 > | **创新与学习模式** | 制度化引进、吸收改造与长周期基础能力积累。 | 目标明确的激进技术攻坚、突破式发明与自上而下外溢。 | 敏捷原型迭代、跨界知识混合、服务设计与全流程反思学习。 |
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 剖析特定国家或区域的重大科技创新战略属于哪一代使命模式，诊断其组织构架、政策工具与动态能力是否存在错位。

@@ -109,11 +109,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-# Reflexivity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **反身性（Reflexivity，又称反思性）** 是[[Qualitative Research|质性研究]]与诠释探究[[Paradigm|范式]]的核心方法论特征：研究者系统反思并批判性审视自身在研究中的角色、个人生活史、文化背景、理论前见与价值偏好如何潜在塑造研究的全部解释路径——包括[[Research Question|研究问题]]的界定、范畴与主题的提炼，以及赋予经验文本的意义（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 9]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1, 28]]）。在教育[[Action Research|行动研究]]与专业实践探究中，反身性进一步指实践者主动审视自身行动背后的默会假定、因果行动理论与权力关系，防范落入无因果检验的盲动陷阱（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 124]]）。在读写教育与人机文本共创中，反身性体现为作者对写作修改与语篇建构的[[Metacognition|元认知监控]]；在安全关键人机决策与智能协同系统中，反身性具体表现为主体依据外部经验证据动态修正自身判断的程序理性机能与道德审议义务，依托显性反思支架与[[Alien Intelligence|异己智能]]定位抵御强[[Automation Bias|自动化偏差]]与全流程代写导致的实践剥夺，是维系有意义人类控制的核心[[Epistemology|认识论]]防线。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 15–20)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 8–10)]]
@@ -140,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 质性探究反身性的多重视角与传统辨析
 > | 维度 | 舒茨式[[Phenomenology\|现象学]]传统 | 加芬克尔式[[Ethnomethodology\|俗民方法学]]传统 | 批判与[[Action Research\|行动研究]]传统 | 计算与[[Man-Computer Symbiosis\|人机协同]]分析传统 |
 > |---|---|---|---|---|
@@ -152,8 +146,6 @@ updated: 2026-10-22
 > | **代表学者与出处** | 舒茨（[[Alfred Schutz]]；Burrell & Morgan, 1979） | 加芬克尔（[[Harold Garfinkel]], 1967） | 霍尔与纽比（Hall, 1996; Newby, 2010）; [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 鲍格丹与比克连（Bogdan & Biklen, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Qualitative Research|质性研究]]与专业实践反身性的核心支柱
 > - **[[Researcher as Key Instrument|研究者作为关键工具]]与主体透镜** 研究者不可脱离社会世界，其个人生活传记、文化价值与学术训练构成了感知与解释经验文本的核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 409)]]
@@ -273,8 +265,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 质性探究反身性核心理论命题总览
 > | 命题类型 | 核心理论判定 | 认识论机制 | 代表学者与文献出处 |
 > |---|---|---|---|
@@ -298,8 +288,6 @@ updated: 2026-10-22
 > - **2026 — [[Man-Computer Symbiosis|人机协同]]、决策审议所有权与读写反身性防御规程** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 确立[[Man-Computer Symbiosis|人机共生]]中的算法影响反身性规约；[[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 实证揭示反思性提问提示语如何驱动中学生开展接收者认知监控；[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 揭示高风险决策回路中[[Automation Bias|强自动化偏差]]对程序反思性（信念修正机能）的破坏，提出反思机器与[[Defeater|反驳型击败者]]架构以恢复反思性卷入与审议所有权；[[Argument_Smith_2026_SPE|Smith (2026)]] 确立写作反身性阈限机制，提出利用反思性提问支架与[[Alien Intelligence|异己智能]]定位抵御生成式 AI 全流程代劳对学生反思性心智实践的剥夺。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -328,8 +316,6 @@ updated: 2026-10-22
 > > - **系统防御机制** 面对认知过载、首因效应、证实倾向与伪关联等偏误，研究者必须依托[[Negative Case Analysis|负面案例分析]]、多源[[Triangulation|三角互证]]与[[External Auditor|外部审计]]追踪构建制度化防线（Robson, 1993; Lincoln & Guba, 1985; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 541–542]]）。
 
 ---
-
-## 实证数据
 
 > [!stat-card]- 实践者反思性在循证探究环境中的实证落差（基于 Brown & Greany, 2018）
 > 

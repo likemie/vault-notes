@@ -40,11 +40,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Twenty First Century Science
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年由纳菲尔德基金会（Nuffield Foundation）、约克大学科学教育中心与牛津剑桥及 RSA 考试局（[[Open Court Reading\|OCR]]）联合推出并在英格兰推行。
@@ -53,8 +49,6 @@ updated: 2026-10-22
 > - **制度位置** 英国现代科学教育史上最具代表性的“公民[[Scientific Literacy\|科学素养]][[Paradigm\|范式]]”课程改革方案。
 
 ---
-
-## 课程设计与核心架构
 
 > [!claim] 课程核心设计
 > 采用“基础公民[[Scientific Literacy\|科学素养]]（Core Science）+ 进阶选修模块（Additional / Applied Science）”的分层双轨结构，将“科学如何运作”（How Science Works）置于与学科知识同等重要的基础地位。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
@@ -65,8 +59,6 @@ updated: 2026-10-22
 > - **真实情境模块（Context-based Modules）** 围绕空气污染、遗传基因、放射性与食品安全等真实社会科学争议（[[Socioscientific Issues\|Socio-Scientific Issues]]）组织探究。
 
 ---
-
-## 实施效果与历史评价
 
 > [!finding-cards] 实施成效与实证评价
 > - **广泛的学校采纳** 在推行巅峰期被英格兰约 60% 的中学采用作为 GCSE 科学核心教学大纲。

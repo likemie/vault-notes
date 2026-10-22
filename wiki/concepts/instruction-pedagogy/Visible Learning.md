@@ -183,14 +183,10 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-# Visible Learning
-
 > [!tip] 知识网络与子条目维护分流指引
 > 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽。关于商业化运作网络、全球政策采纳、学理批判与底层[[Meta-analysis|元分析]]数据库的专门子条目维护分流矩阵，详见文末 [[#相关条目网络与维护指引|相关条目网络与维护指引]]。在更新本条目时，必须根据内容主题同步分流维护 [[Visible Learning Branding and Global Influences]]、[[Critiques of Visible Learning]]、[[Visible Learning Meta-X]] 与 [[Cargo Cult Science]] 等关联条目。
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **可见的学习（Visible Learning, VL）** 是新西兰教育学者[[John Hattie\|约翰·哈蒂]]（John Hattie）开创的教育[[Research Synthesis|证据综合]]与学校改进框架。该框架通过对全球数百项[[Meta-analysis\|元分析]]（涵盖数万项原始研究与数千万学生样本）进行二阶[[Meta-meta-analysis\|元-元分析]]，以标准化[[Effect Size\|效应量]]（$d$）为尺度建立影响教育成就的比较性证据地图；确立平均效应量 $d=0.40$ 为干预“相对有效性”的关节点判准；并将教师界定为教育系统可控的核心因果枢纽（占成就变异的 30%），倡导通过使教师看清自身教学对学生学习的实际影响（Know thy impact）、使学生成为自身学习的主导者，实现教与学的双向可见。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–16)]]; [[Argument_McKnight_2020_Discourse\|(McKnight & Whitburn, 2020, p. 32)]]
@@ -342,8 +338,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -372,8 +366,6 @@ updated: 2026-10-22
 > - **2025–至今 — 全量[[Metascience|元科学]]审计与[[Chain of Evidence|证据链]]可[[Reliability|信度]]崩溃** 瑞典卡尔门达尔（Kalmendal）等学者开展首个[[Preregistration|预注册]]全库元科学质量评估（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对 322 个影响因素（1,369 篇一阶元分析）进行审查。结果揭示仅 19% 满足[[Research Question|研究问题]]纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]，全库数据提取复现率仅 0.66%（301 项中仅 2 项完全复现），44% 报告的效应量在原文中完全不存在，实证宣告了 VL 通用连续体与排行榜证据基础的崩溃。
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力一：评价性[[Professional Judgment|专业判断]] vs 机械教学法清单（[[Neo-Taylorism|新泰勒主义]]）
 > - **评价性专业判断立场（蓝方）** Hattie 与支持者强调 VL 倡导教师在具体课堂情境中扮演证据解释者，依据学生即时反馈动态调整教学（DIE 循环），防止将证据异化为静态操作指南。[[Argument_Hattie_2015_SOTLP|(Hattie, 2015b, p. 81)]]
@@ -415,8 +407,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -450,8 +440,6 @@ updated: 2026-10-22
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 428, 432–433)]] | 《可见的学习》全书 816 项元分析汇总数据与教师角色效应分类表 | 扩展书评文献审计与实证数据梳理 | 六大贡献领域合并效应量；教师作为激活者 vs 促进者效应量对比 | 六大领域平均效应量：教师 0.49、课程 0.45、教学 0.42、学生 0.40、家庭 0.31、学校 0.23；教师作为激活者平均 $d=0.60$，作为促进者平均 $d=0.17$ | — | 梳理哈蒂巨型综合的总体统计全貌，指出其教师激活效应实质为传统[[Direct Instruction\|直接教学]]的经验印证而非新发现，并揭示其底层数据时效多滞后于 1980–1990 年代 |
 
 ---
-
-## 相关条目网络与维护指引
 
 > [!entry-map] Visible Learning 知识网络与子条目维护分流矩阵
 > 本条目定位为 Visible Learning [[Construct|理论构念]]、教学论主张与核心实证模型的中心枢纽。当需扩充特定细分领域、商业化运作、国别政策采纳或学理批判深层机制的知识时，**AI 助手与维护者必须优先分流丰富或建立对应的专门子条目，严禁将所有衍生事实堆砌在母条目中**，以维持知识库的模块化清晰度。

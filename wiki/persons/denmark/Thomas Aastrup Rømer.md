@@ -78,11 +78,7 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-# Thomas Aastrup Rømer
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦奥胡斯大学（Aarhus University）丹麦教育学院（DPU）教育哲学副教授、哲学博士。
@@ -107,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000–2010 — 后现代[[Epistemology|认识论]]反思与[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]奠基** 此阶段主要回应后现代文化转向下学习与评价的关系，并借助实用主义重思民主社会的教育意义。
 >   - **代表著作** *Learning and assessment in [[Postmodernism|postmodern]] education* (2003); *Imagination and judgment: Intelligent transactions in a democratic context* (2012).
@@ -125,9 +119,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 罗默的思想立足于欧陆教化与教学论传统，以[[John Dewey|杜威]]、[[Immanuel Kant|康德]]、[[Hannah Arendt|阿伦特]]、波普尔与比斯塔的批判哲学为思想资源，主张教育本质上是面向不确定未来的生长、启迪与精神交往，坚决抵制将教育降格为技术控制与绩效测量的“评价主义”异化。他断言《[[Visible Learning|可见的学习]]》在学理上表征为简陋评价图式吞噬教育后吐出的残渣，缺乏作为独立教育学或学习理论的[[Epistemology|认识论]]基石；[[Positivism|实证主义]][[Meta-analysis|元分析]]将师生与文化中介构成的三元教学三角形解构为个体孤立的主观认知调节，构建了脱离教育现实的“[[Research Cage|研究牢笼]]”。
 
 > [!citation-card] 论评价理论吞噬教育本质与“研究牢笼”
@@ -137,9 +129,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 发展了教育哲学层面的“五线批判框架”，揭示[[Evidence-Based Education|循证教育]]运动底层隐含的[[Radical Constructivism|激进建构主义]]与[[Technical Rationality|技术理性]]预设，丰富了[[Didaktik|欧陆教学论]]与教化哲学的当代防御理论；提出[[Pure Evaluation|纯粹评价]]概念，为批判教育社会学与政策研究提供了重要的批判性分析工具。
 > - **方法路径** 倡导概念分析与思想史对勘的哲学研究方法（[[Philosophical Analysis in Education]]），示范了如何超越单纯统计计算与[[Effect Size|效应量]]复算的技术细节，直接从[[Epistemology|认识论]]前设、范畴错置（[[Category Mistake]]）与[[Variable|变量]][[Construct Validity|构念效度]]层面解构宏观实证综合。
 > - **政策与实践路径** 在丹麦及北欧国家掀起关于“[[John Hattie|哈蒂]]主义”与循证教育改革的全国性哲学大辩论，促使政策制定者、教师工会与一线教育者反思数据驱动教学对教师专业自主性与学生主体性的潜在侵蚀。
@@ -161,8 +151,6 @@ updated: 2026-10-22
 > - **国际批判同行** [[Ewald Terhart|埃瓦尔德·特哈特]]（德国教学论批判）、[[Dylan Wiliam|迪伦·威廉]]（反馈[[Construct|构念]]审视）、特里·里格利（方法论与社会正义批判）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

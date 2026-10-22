@@ -76,11 +76,7 @@ aliases:
   - 通商产业省
 ---
 
-# Ministry of International Trade and Industry
-
 ---
-
-## 机构定位与历史职能
 
 > [!claim] 核心定位
 > **日本通商产业省（Ministry of International Trade and Industry / MITI，简称通产省）** 是 1949 至 2001 年间日本中央政府统辖对外贸易、工业结构调整、科技研发攻坚与能源政策的核心超级部委（2001 年中央省厅重组后改组为经济产业省 [METI]）；作为政治学者[[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson, 1982）奠定“发展型国家”（Developmental State）理论的核心经验载体，MITI 依托高素质功绩制文官队伍与密集的政企协同网络，践行[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy），引领了二战后日本从废墟中实现钢铁、汽车、造船以及半导体微电子产业的全面奇迹追赶，是第一代使命导向政策（骆驼形态）中后发国家能力的经典[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
@@ -92,16 +88,12 @@ aliases:
 
 ---
 
-## 核心机制：产业合理化与产学研协同攻坚
-
 > [!feature] MITI 引领科技与产业追赶的三大政策支柱
 > - **外汇审批与关键技术引进审查（Foreign Exchange Control & Technology Licensing）** 在战后初期牢牢掌控稀缺外汇分配权，严格筛选并组织国内骨干企业联合引进西方最先进技术专利，杜绝国内企业重复引进与恶性削价竞争。（Johnson, 1982; p. 793）
 > - **产学官联合大型国家攻关项目（National Consortium Research Projects）** 设立工业技术院（AIST）统筹协调，最典型的如 1976–1979 年主导的“超大规模集成电路”（[[VLSI Project|VLSI]]）国家攻坚计划，强制促成富士通、日立、三菱、日本电气（NEC）和东芝五大竞争对手共享基础研发设施，一举使日本在 1980 年代登顶全球 DRAM 芯片市场霸主。（pp. 793, 796）
 > - **行政指导与审议会共商机制（Administrative Guidance & Deliberation Councils）** 通过非强制性的行政指导（Gyōsei Shidō）及各大产业审议会，常态化组织学者、银行家与行业领袖闭门协商产业长远愿景（Vision），实现深度的制度化社会嵌入。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
 
 ---
-
-## 制度成效与理论意义
 
 > [!contrast-table] MITI 发展型国家治理与英美[[New Public Management|新公共管理]]（NPM）模式对比
 >
@@ -135,8 +127,6 @@ aliases:
 > - **1986** [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]签署，要求日本保证外国芯片厂商在日市场份额不低于 20%，标志着追赶型使命政策高峰期终结。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 84–86)]]
 
 ---
-
-## 争议与反思
 
 > [!debates] 学术争议焦点
 >

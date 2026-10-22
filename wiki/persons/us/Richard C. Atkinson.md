@@ -55,11 +55,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Richard C. Atkinson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代认知心理学家、科学政策学者与高等教育战略领袖，[[National Academy of Sciences|美国国家科学院]]院士、医学[[Chinese Academy of Sciences|科学院]]院士与美国哲学会会士；曾任[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）主任（1977–1980）、加利福尼亚大学圣迭戈分校（UC San Diego）校长（1980–1995）以及加州大学总校第 17 任校长（1995–2003）。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作与政策文献
 > - **1968 — *Human Memory: A Proposed System and Its Control Processes***（with R. M. Shiffrin）提出将人类记忆划分为感觉记忆、短时记忆和长时记忆的三阶段理论模型，成为认知科学奠基之作。
 > - **1990 — *Supply and Demand for Scientists and Engineers: A National Crisis in the Making*** 预警美国科学与工程高层次拔尖创新人才供需结构失衡与国家科技人力资源战略危机。
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > - **2008 — *Research Universities: Core of the US Science and Technology System***（with W. A. Blanpied）从长时段历史比较与体制分析视角，系统重构美国研究型大学的崛起机制、国际竞争优势与避险平庸化等深层危机。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–48)]]
 
 ---
-
-## 核心思想
 
 > [!claim] [[Research Universities|研究型大学]]的去中心化竞争与制度共生
 > 阿特金森主张，美国研究型大学之所以能确立全球学术领军地位，核心在于其独特的“非中央集权式多元生态”与“分散竞争性同行评议契约”。研究型大学通过将拔尖人才培养与高难度前沿科研紧密共生于研究生院平台，既为国家经济与区域创新提供了源源不断的人才储备，又保持了面对联邦政治干预的高度自主性。然而，这一系统的繁荣高度依赖于同行评议的学术公信力；[[Congressional Earmarks|国会专项拨款]]（Earmarks）对择优评议的绕开，以及过度严酷竞争导致的科研避险与平庸化，构成了对战后科研契约最严重的内在威胁。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–32, 44–46)]]
@@ -113,8 +105,6 @@ updated: 2026-10-22
 > - **教育评价与招生改革路径** 推动美国大学入学测试摆脱对孤立词汇与机械刷题的考察，引导基础教育与高等教育评价走向强调[[Critical Thinking|批判性思维]]、写作能力与高级数学推理的综合考查轨道。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与制度反思
 >
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > 阿特金森指出，美国[[Research Universities|研究型大学]]的高度繁荣建立在二战后冷战红利与独特的非中央集权生态之上；这一模式对公立州立大学面临的州财政周期性削减、高层次理工科人才对国际留学生的高度依赖（留学生占比超 40%），以及女性学者职业晋升天花板等深层结构性瓶颈，尚未形成系统性解法。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 45–47)]]
 
 ---
-
-## 条目关联网络
 
 > [!entry-map] 关联网络
 >

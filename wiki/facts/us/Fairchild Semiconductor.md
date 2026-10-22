@@ -57,11 +57,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Fairchild Semiconductor
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 仙童半导体（Fairchild Semiconductor）是 1957 年诞生于美国加利福尼亚州[[San Francisco Bay Area|旧金山湾区]]的半导体旗舰先驱企业。作为冷战时期硅谷与国家安全军工需求深度融合的典型代表，该公司首创了平面工艺（Planar Process）、单片集成电路（Monolithic Integrated Circuit）、[[Dual In-Line Package|双列直插封装]]（Dual In-Line Package, DIP）以及[[Application Engineering|应用工程]]（Application Engineering）服务模式。其早期成长不仅直接依托中央情报局（Central Intelligence Agency, CIA）间谍侦察卫星与军工导弹合同，更推动硅微电子转化为[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT），为硅谷奠定了高科技风险投资与衍生创业（Fairchildren）生态基石。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–4)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1957–1960 — 军工与情报航电崛起与底层技术奠基** 专注于满足美国国防部、北美航空民兵洲际弹道导弹（Minuteman Missile）对极端耐高温与高[[Reliability|可靠性]]硅器件的严苛需求；同时自 1950 年代末起为美国中央情报局（CIA）的日冕（Corona）间谍侦察卫星研发制造机载光学与电子侦察设备。让·赫尔尼发明平面工艺，罗伯特·诺伊斯提出单片集成电路方案，军方采购成为微芯片技术的最早主要市场。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 182–184)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–4)]]
 > - **1960–1967 — 商业市场转向与大规模制造革命** 面对国防单一来源合同取消与价格重审，果断转向民用计算机与大众电子市场。引入大规模生产管理，实施前瞻性剧烈降价，建立[[Application Engineering|应用工程]]部，设立香港离岸[[Assemblage|组装]]厂（开启全球半导体封装向亚洲转移的先河），发明[[Dual In-Line Package|双列直插封装]]（DIP），在 1968 年拿下全美计算机集成电路市场约 80% 的份额，使早期个人计算设备的硬件基础成为可能。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 184–207)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 88)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–4)]]
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > - **1986–1987 — 富士通收购风波与国家安全审查里程碑** 1980 年代日美半导体竞争白热化之际，日本富士通公司（Fujitsu）于 1986 年达成协议拟收购仙童半导体 80% 股权；该交易引发美国国防部与商务部关于关键先进半导体技术外流的强烈恐慌，里根政府最终于 1987 年施压叫停该收购，直接催生了美国外国投资委员会（CFIUS）国家安全审查法制化进程。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 85)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **高层决策与母公司关系** 罗伯特·诺伊斯任执行副总裁兼总经理；母公司纽约仙童照相机与仪器公司提供初始资本与战略监督，但在股权激励与再投资上存在东西海岸管理文化冲突。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 182–184)]]
@@ -97,8 +89,6 @@ updated: 2026-10-22
 > - **全球分工与离岸[[Assemblage|组装]]路径** 加州本土负责硅片制造与扩散核心工艺，成品晶圆运往香港与东亚工厂进行劳动密集型切割、引线键合与塑封，再返销全球市场。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 201–203)]]
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心技术与产品矩阵
 > - **航天侦察与国防军用电子系统** 早期为中央情报局日冕（Corona）侦察卫星制造机载光学与电子侦察设备，为民兵洲际导弹研制超高[[Reliability|可靠性]]硅晶体管，开创了微电子技术在国家安全极端环境下的应用先河。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–4)]]
@@ -113,8 +103,6 @@ updated: 2026-10-22
 > *Indeed, Silicon Valley once stood at the center of American military production and national security. Fairchild Camera and Instrument Corporation, whose semiconductor division was founded in Mountain View, California, and made possible the first primitive personal computers, built reconnaissance equipment for spy satellites used by the Central Intelligence Agency... The first major market for microchips was the military.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **底层技术标准确立** 平面工艺与[[Dual In-Line Package|双列直插封装]]成为全球半导体制造业沿用数十年的底层工业规范。
@@ -133,8 +121,6 @@ updated: 2026-10-22
 > - **30+** 1959 至 1972 年间在[[San Francisco Bay Area|旧金山湾区]]直接或间接追溯至仙童半导体的衍生半导体企业总数。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

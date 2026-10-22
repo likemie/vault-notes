@@ -36,9 +36,6 @@ status: draft
 created: 2026-06-21
 updated: 2026-10-22
 ---
-# Directional and Non-directional Hypotheses
-
-## 定义
 
 > [!def] 方向性假设与非方向性假设
 > 方向性假设（directional [[Hypothesis]]）陈述两个条件或两组参与者之间差异或关系的种类或方向。非方向性假设（non-directional hypothesis）仅预测存在差异或关系，不陈述方向。统计上，方向性假设要求单尾检验，非方向性假设使用双尾检验（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.138–139]]）。
@@ -53,8 +50,6 @@ updated: 2026-10-22
 > - 方向上不可逆——一旦选定了方向性假设并据此设计了单尾检验，就不能在看到数据后再改为双尾检验
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 方向性假设 vs 非方向性假设
 > | 维度 | 方向性假设（Directional） | 非方向性假设（Non-directional） |

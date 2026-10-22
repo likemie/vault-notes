@@ -80,11 +80,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# EU Evidence-Informed Education Policy Initiatives
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2006 年起由[[EU|欧洲联盟]]委员会（European Commission）与欧洲联盟理事会（Council of the European Union）陆续发布系列政策结论与工作文件([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26, 28]])。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > - **制度位置与治理属性** 依据[[Subsidiarity Principle|辅助性原则]]（Subsidiarity Principle），教育主权归属于各成员国；因此欧盟层面的证据政策并非单一强制性法案，而是通过开放协调机制（[[Open Method of Coordination]], OMC）施加软治理（Soft Governance），提供非强制的指导指引、监测基准与跨国中介资助网络([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 28]])。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > [[EU|欧盟]]证据知情教育政策倡议是一套自 2006 年以来逐步成型的软法战略框架，通过培育全欧评价文化、资助欧洲教育证据知情政策与实践网络（EIPPEE）以及依托欧洲教育信息网（Eurydice）监测机制，倡导在承认多元[[Paradigm\|研究范式]]与国家制度[[Heterogeneity\|异质性]]的前提下，推进跨国教育证据的共建、转译与深度使用([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 67–68]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26–31]])。
@@ -114,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!dev-timeline] [[EU|欧盟]]证据知情政策演化历程
 > - **2006 — 评价文化与效率公平倡议** 欧洲理事会春季结论强调建立系统评价文化；发布《欧洲教育与培训体系的效率与公平》，强调提炼与传播最佳实证实践的重要性([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 28]])。
 > - **2007 — 确立[[Knowledge Mediation\|知识中介]]三维框架** 欧洲委员会发布标志性工作文件《迈向教育与培训中更多基于知识的政策与实践》，正式确立知识创造、知识应用与知识中介的三维分析[[Paradigm\|范式]]([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 29]])。
@@ -126,8 +118,6 @@ updated: 2026-10-22
 > - **2017 — Eurydice 全欧机制普查** 发布欧洲证据知情政策支持机制专项调查报告，揭示出各国官方中介组织在法律属性、资助稳定度与业务模式上的高度[[Heterogeneity\|异质性]]([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 31]])。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施架构与多层级分工
 > - **超国家统筹方（[[EU|欧盟]]委员会 / DG EAC）** 负责制定宏观政策导向、发起倡议文件并资助跨国联合研究与流动网络。
@@ -142,8 +132,6 @@ updated: 2026-10-22
 > 3. **国家行政孤岛与跨国协同断裂** 多数中介倡议依附于狭隘的本国行政预算，导致各国在中介标准上各自为战，跨欧洲层面的[[Knowledge Integration\|知识整合]]步履维艰。
 
 ---
-
-## 行动者与利益相关者
 
 > [!prop-table]- 关键行动者属性与跨国利益格局
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
@@ -165,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 影响力评价维度
 > - **制度共识形成** 成功在欧洲全境普及了“证据知情”（Evidence-Informed）的理念，将其确立为现代教育系统现代化的基础标尺。
 > - **跨国元中介网络沉淀** 奠定了欧洲首个横跨 23 国的[[Knowledge Mediation\|知识中介]]专业共同体，为[[OECD\|经合组织]]倡导的“中介的中介”提供了组织雏形。
@@ -183,8 +169,6 @@ updated: 2026-10-22
 > - **23 / 36** （23 国 36 家机构） 构成了 EIPPEE 跨国中介协作网络的最鼎盛规模([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 67]])
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议焦点
 >

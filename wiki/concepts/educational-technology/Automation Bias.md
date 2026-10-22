@@ -61,12 +61,9 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Automation Bias
 （自动化偏差 / 弱自动化偏差与强自动化偏差）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 自动化偏差（Automation Bias）是指人类操作者在[[Man-Computer Symbiosis|人机协同]]决策情境中，将自动化或人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）决策支持系统的提示（或其沉默）作为替代自主信息搜集与审思的启发式替代品，过度依赖系统线索而产生执行错误（Commission Errors）或遗漏错误（Omission Errors）的系统性决策倾向。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 2–5)]] 根据操作者对矛盾证据的接触与认知卷入程度，可进一步划分为两类形态：
@@ -90,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 自动化偏差、自动化自满与算法偏差对比
 > | 维度 | 弱自动化偏差 | 强自动化偏差 | 自动化自满（Complacency） | 算法偏差（Algorithmic Bias） |
 > |---|---|---|---|---|
@@ -101,8 +96,6 @@ updated: 2026-10-22
 > | **规范性伦理性质** | 应知而未注意的过失疏忽（Negligence） | 侵蚀自主能动性并放弃道德判断义务 | 角色职责层面的注意力失职 | 技术正义与算法公平缺陷 |
 
 ---
-
-## 核心要素与表现形态
 
 > [!feature] 自动化偏差的核心要素与表现形式
 > - **执行错误（Commission Errors）** 操作者直接遵循系统给出的错误指令或误报警报（False Alarms），即使现场存在其他指示系统错误的物理读数或环境线索。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, p. 4)]]
@@ -177,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 自动化偏差核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -189,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 自动化偏差的概念演变脉络
 > - **1992–1998 年 — 航空驾驶舱中的启发式偏误奠基** 凯瑟琳·莫西尔（Kathleen Mosier）等学者在飞行模拟实验中发现飞行员因盲从电子清单而关闭正常引擎，首次正式界定自动化偏差，并提出执行错误与遗漏错误的分类。
 > - **2000 年 — 认知吝啬假说与问责机制检验** 琳达·斯基特卡（Linda Skitka）等进一步将自动化偏差解释为人类为最小化心智努力而采取的认知启发策略，并检验了社会问责对缓解偏差的有限效果。
@@ -198,8 +187,6 @@ updated: 2026-10-22
 > - **2026 年 — 弱/强偏差哲学界定与伦理规范转向** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 提出弱自动化偏差与强自动化偏差的严格二元区分，确立过度信任—[[Epistemic Deference|认识论顺从]]解释模型，系统论证其对自主能动性与道德代理义务的侵蚀，并提出基于[[Epistemic Friction|认识论摩擦]]（反思机器与[[Defeater|击败者]]）的交互设计干预体系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -220,8 +207,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 自动化偏差相关实证基准与实验数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -241,8 +226,6 @@ updated: 2026-10-22
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 诊断大语言模型（Large Language Models, LLMs）无摩擦委派对中间认识动作与[[Evaluative Judgement|评价性判断]]的剥离危害。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

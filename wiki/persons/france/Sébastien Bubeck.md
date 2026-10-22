@@ -41,11 +41,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Sébastien Bubeck
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** [[Sébastien Bubeck|塞巴斯蒂安·布贝克]]（Sébastien Bubeck, 1985–）是法国计算机科学家、机器学习与人工智能理论研究者，曾长期担任微软研究院（Microsoft Research）副总裁及[[Artificial General Intelligence|通用人工智能]]基础研究团队主管，后加入 OpenAI。
@@ -69,16 +65,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心贡献与代表性测试设计
-
 > [!work-line] 代表性研究与核心测试
 > - **2023 — *[[Artificial General Intelligence|Sparks of Artificial General Intelligence]]: Early Experiments with [[General Purpose Technology|GPT]]-4*** 提出大模型在数学、编程、视觉、医学、法律及常识推理等不相关领域的通用[[Emergence|涌现]]能力，证明模型具备跨模态概念整合与世界模型表征。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 19–20)]]
 > - **物理常识堆叠测试（Physical Stacking Test）** 要求模型在无图像输入条件下，规划如何将一本书、九个鸡蛋、一台笔记本电脑、一个瓶子和一颗钉子以稳定方式叠放；GPT-4 成功提出在书上以 3×3 矩阵平铺 9 个鸡蛋、上方放置笔记本电脑的稳定方案，展现出卓越的空间常识。（p. 19）
 > - **独角兽绘图测试（Unicorn Drawing Test）** 要求纯文本大模型仅通过生成代码绘制独角兽，检验模型是否能在万亿维隐空间中理解“独角兽”的本质概念特征（角、四肢、鬃毛）并将其几何具象化。（pp. 19–20）
 
 ---
-
-## 关系网络与条目关联
 
 > [!person-network] 关系网络
 > - **学术合作团队** 微软研究院跨学科团队（Ronan Eldan, John Krumm, Yin Tat Lee, Yuanzhi Li 等）。

@@ -68,11 +68,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Embedded Network Governance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **嵌入型[[Network Governance|网络治理]]（Embedded Network Governance，亦称嵌入式网络治理）** 指公共部门的代理人凭借其深厚的技术专业认知与身处研发网络中央节点的结构性优势，通过识别前沿技术方向、播撒共同[[Research Topic|研究主题]]、组织跨机构攻关团队、搭建同行研讨机制与提供权威第三方背书，主动重塑科学家与企业之间的社会关系网络，从而在不自上而下挑选单一技术赢家的前提下引导国家关键[[Technological Trajectories|技术轨道]]的科技治理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 嵌入型[[Network Governance|网络治理]]与传统科技治理[[Paradigm|范式]]的理想型辨析
 > | 维度 | 嵌入型网络治理（Embedded Network Governance） | 自由市场与被动补贴（Market / Subsidies） | 科层挑选技术赢家（Developmental Bureaucratic State） | 消极中介联络（Neutral Brokerage / Liaison） |
 > |---|---|---|---|---|
@@ -109,9 +103,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **前瞻方向敏捷识别** 公共代理人常态化开展三重情报交互——与国防军事需求方对接应用边界、召集跨领域顶尖科学家（如通过[[Defense Sciences Research Council|国防科学研究理事会]]年会）[[Brainstorming|头脑风暴]]突破性概念、走访学术前沿与产业实验室捕捉隐性技术萌芽。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1139–1140)]]
 > - **共同主题播撒与多路径竞争** 代理人将离散的前沿思想提炼为具有战略意义的共性研发主题；针对重大工程瓶颈，不孤注一掷押宝单一方案，而是立项并行资助 3 至 6 个采取不同机理或体系架构的独立团队展开竞赛。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1141)]]
 > - **社群培育与强制同行知识流动** 克服[[Star Scientists|明星科学家]]或商业巨头习惯性封锁专有诀窍的倾向，强制要求所有受资助者定期参加闭门同侪研讨会，在[[Peer Pressure|同侪压力]]与切磋中促进知识在不同机构间横向流动。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1141–1142)]]
@@ -187,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -206,8 +196,6 @@ updated: 2026-10-22
 > - **2018–至今 — [[Mission-Oriented Innovation Policy|使命导向型创新政策]]与国家关键技术评估深化** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）进一步将该机制升华为“去中心化探索型公共网络”的核心动态能力；福克斯等学者随后将该[[Paradigm|范式]]运用于后摩尔时代半导体供应链韧性与国家关键技术评估战略。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -228,8 +216,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -238,8 +224,6 @@ updated: 2026-10-22
 > | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | [[DARPA]] 微系统技术办公室（MTO）1992–2008 年资助的 4 项半导体关键材料技术；涵盖 50 场半结构化[[In-depth Interview\|深度访谈]]（历任办公室主任、项目经理、高校学者、初创企业与五大微处理器巨头 Intel、AMD、IBM、HP、Sun 高管）、履历与专利计量比对以及跨阶段[[Qualitative Observation\|田野观察]] | 纵向扎根理论案例研究（Eisenhardt, 1989; Yin, 1989）、[[Triangulation\|三角互证]]法（Jick, 1979） | 资助模式（[[Broad Agency Announcement\|BAA]] vs 多阶段里程碑）；主承包商属性（高校 vs 产业巨头）；PM 微观治理制度（5 项子维度） | 证实 2001 年前资金主要投向大学，2001 年后主承包商全面转向老牌厂商（高校退为子承包商）；考核由宽泛探索转为 6 个月硬性里程碑；然而识别方向、播撒主题、同侪工作坊、第三方背书与适时断乳 5 项 PM 治理机制在跨越 16 年的两个历史时期完全稳定延续 | — | 解释边界局限于高技术微电子与光电子领域纵向追踪；揭示非正式制度对冲宏观政策波动的内在韧性 |
 
 ---
-
-## 应用案例
 
 > [!case] 案例一：超高性能片内纳米光子通信（UNIC）计划的平台整合（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）
 > 在 2000 年代[[Tony Tether|托尼·瑟瑟]]任期内，面对后摩尔定律时代微处理器芯片功耗与互连延迟瓶颈，[[DARPA]] MTO 启动了 UNIC 计划。项目经理要求由 Sun Microsystems 等老牌系统级系统巨头担任主承包商，将硅光初创企业（Luxtera、Kotura）与顶尖大学实验室（MIT、斯坦福、UCLA）整合成产学攻关联合体。通过设立第一阶段 9 个月硅纳米光子器件验证、第二阶段 2 年片内光网络验证与第三阶段 5.5 年 4400 万美元系统级芯片级光集成合同，项目经理强制跨越竞争对手组织边界开展半年度闭门技术切磋，最终成功推动 Sun Microsystems 实现单芯片集成光互连原型突破。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1144)]]

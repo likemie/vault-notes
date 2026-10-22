@@ -44,11 +44,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# NSF Supercomputer Centers
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 国家科学基金会超级[[Center of Calculation|计算中心]]计划（[[National Science Foundation|NSF]] Supercomputer Centers Program）是 20 世纪 80 年代 NSF 推进科研基础设施现代化的划时代重大专项，标志着联邦资助机制从传统的为学者个人课题购置分散中小型仪器，跨越式升级为国家级超大规模计算公共设施的集中建设与全美学者网络化共享服务。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案设计与运行机制
-
 > [!claim] 核心干预／机制假说
 > 通过在顶尖大学依托全国公开竞争选拔建立实体超级[[Center of Calculation|计算中心]]，并首创一套类似学术基金评审的“基于同行评议申请机器运行时间（Running Time）”机制，使任何大学的一线学者只要拥有优秀的科学假说，均能平等获取国家级尖端算力支持。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 
@@ -74,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与技术衍生
-
 > [!dev-timeline] 发展演进与技术外溢
 > - **1985–1986 — 全国竞标与五大中心设立** [[National Science Foundation|NSF]] 开展高规格全美公开选拔，最终在 5 所大学确立基地；首创基于同行评议分配运行机时的管理章程，彻底确立了科学公平性与唯优原则。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 > - **1986–1990 年代初 — 催生 NSFNET 与现代互联网骨干** 为让全美异地学者能顺畅远程接入五大中心，NSF 斥资构建了连接各中心的 NSFNET 高速主干网络；这套网络随后迅速取代了军用的 [[ARPANET]]，直接奠定了全球民用互联网（Internet）与 TCP/IP 协议普及的物理骨干。
@@ -83,8 +75,6 @@ updated: 2026-10-22
 > - **1993 — 高校研究生群体孕育 Mosaic 并引爆全球万维网** 在 NCSA 开放前沿的高校科研平台支持下，由伊利诺伊大学一组在读研究生（包括马克·安德森等）成功编写出全球首款免费图文交互网页浏览器 Mosaic；Mosaic 发布的短短一年内，互联网超文本传输协议（HTTP）流量出现指数级爆发，激增了整整 3,416 倍，直接点燃了 1990 年代中叶全球万维网（World Wide Web）的商业化繁荣。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 40–41)]]
 
 ---
-
-## 成效评估与核心影响
 
 > [!finding-cards] 关键成效与历史辐射
 > - **确立大型科研设施的同行评议开放[[Paradigm|范式]]** 超级[[Center of Calculation|计算中心]]不仅提供了算力，更在制度上树立了典范：昂贵且稀缺的国家公共科研设备无须由所在院校近亲独占，通过全国范围内的同行评议公平分配，能够以最高学术效率最大化释放科研生产力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]

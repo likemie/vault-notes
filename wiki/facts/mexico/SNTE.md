@@ -47,11 +47,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# SNTE
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 墨西哥全国教育工作者工会（Sindicato Nacional de Trabajadores de la Educación, SNTE）是拉丁美洲及美洲大陆会员规模最大（逾百万成员）的行业工会组织，在墨西哥现代政治中长期充当[[State Corporatism|国家法团主义]]（State [[Neocorporatism|Corporatism]]）制度架构的基石之一与官僚恩庇的核心中介。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
@@ -64,16 +60,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1943–1970 年代 — 法团统合与政党绑定** 确立为革命制度党（PRI）的劳工法团部门支柱；工会领导层直接参与国民议会席位分配与教育部官员任命，形成高度官僚化的“领袖世袭制”（caciquismo）。
 > - **1979–1989 年代 — 异议反抗与新霸权确立** 南部贫困州基层激进教师发起“全国教育工作者协调委员会”（CNTE）抗议运动；1989 年总统萨利纳斯罢黜原工会头目，扶植埃尔巴·埃丝特·戈尔迪略（Elba Esther Gordillo）掌权，工会转型为更具技术威权特征的跨党派政治掮客。
 > - **1990 年代至今 — 新自由主义妥协与结构挑战** 深度参与 1992 年教育现代化与分权化改革协议；在[[World Bank|世界银行]]与国家推行教师考评及[[Performance Pay|绩效工资]]时，工会既充当平息教师大罢工的减震器，又利用其强大的选票动员能力捍卫工会既得编制与经济特权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **全国执行委员会（CEN）** 工会最高行政常设领导机构，掌握全国人事调配、预算与政治动员指令。
@@ -86,16 +78,12 @@ updated: 2026-10-22
 
 ---
 
-## 在比较教育研究中的学术意义
-
 > [!citation-card] 托雷斯论 SNTE 在墨西哥[[State Corporatism|国家法团主义]]与教育政策形成中的核心角色
 > 在墨西哥等实行国家[[Neocorporatism|法团主义]]体制的国家，公立教育对于后革命政权的合法性建构以及维护国家统识起到了决定性作用。国家通过立法确立全国教育工作者工会（SNTE）对全体教师的垄断性代表权，将工会制度深度整合为政党恩庇的输送管道；这种法团主义结构深刻决定了教育政策的组织、实施与评估路径。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
 > *Drawing from the tradition of political corporatism, the notion of state corporatism from the political sociology of education has been employed to study the peculiar characteristics of political regimes in the region, in particular educational policy formation in Mexico... Education has played a fundamental role in the legitimation of the postrevolutionary state, and has contributed to state [[Hegemony]] in Mexico.*
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与社会争议
 >

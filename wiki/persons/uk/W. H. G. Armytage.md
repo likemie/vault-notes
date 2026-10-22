@@ -39,10 +39,6 @@ related_persons: []
 updated: 2026-10-22
 ---
 
-# W. H. G. Armytage
-
-## 生平简介
-
 > [!abstract] 学者生平
 > **沃尔特·哈里·格林·阿米蒂奇（Walter Harry Green Armytage，1915–1998）**，英国著名教育史学家、历史学家。曾长期担任谢菲尔德大学（University of Sheffield）教育学讲座教授与教育系主任。阿米蒂奇学术涉猎极其广博，横跨科技社会史、乌托邦思想史与跨国教育制度互动史。
 

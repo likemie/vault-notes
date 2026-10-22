@@ -46,11 +46,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Humboldtian Model of Higher Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 洪堡高等教育模式（Humboldtian Model of Higher Education）是普鲁士教育改革家威廉·冯·洪堡（Wilhelm von Humboldt）于 1809–1810 年主持创办柏林大学（今柏林洪堡大学）时确立的现代[[Research Universities|研究型大学]]办学理念与制度组织[[Paradigm|范式]]；该模式从根本上推翻了中世纪至 18 世纪欧洲大学仅作为“既有已知知识传播中介”的狭隘经院传统，首次在世界高等教育史上将**科学研究（[[Knowledge Production|知识生产]]）** 提升为大学教授的法定核心天职，并确立了**教学与科研相结合（Einheit von Lehre und Forschung）** 的不可分割性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–33)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心支柱原则
-
 > [!theory-components] 洪堡大学理念的三大核心支柱
 > - **教学与科研相统一（Einheit von Lehre und Forschung）**
 >   大学教授必须同时是前沿科学家，教学不应复述死板教材，而应引领学生观摩并亲自参与未知知识的探究过程；学生不再是被动听众，而是青年研究学徒。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 32)]]
@@ -73,8 +67,6 @@ updated: 2026-10-22
 >   大学应当与世俗政治功利和商业直接诉求保持审慎的距离，在非功利、中立的精神环境中展开沉浸式纯学术反思与真理探寻。
 
 ---
-
-## 制度演进与跨国移植路径
 
 > [!dev-timeline] 洪堡模式的历史演化与全球辐射
 > - **1810 — 柏林大学创办奠定制度母本** 洪堡将德国唯心主义哲学理想融入大学规划，首先在古典语言学、哲学与历史学等文科领域实行基于[[Primary and Secondary Documents|原始文献]]批判的研究型研讨班（Seminar）教学制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 32)]]

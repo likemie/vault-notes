@@ -56,13 +56,9 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Dynamic Sustainability Framework
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 循证干预措施在现实学校或社会组织落地后，为何随时间推移常遭遇成效衰退、形骸化或被彻底废弃，以及如何通过自适应调适维持长效机制。
 > - **理论问题** 颠覆传统实施科学将可持续性视为“静态方案维持度”的机械忠实度[[Paradigm\|范式]]，回应干预方案与复杂动态情境脱节的理论困境。
 > - **理论类型** 中层实施科学理论、自适应组织变革模型与动态系统[[Analytic Framework\|分析框架]]。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > | [[Implementation and Process Evaluation\|过程评价]] | 诊断方法 | 追踪组织日常运作中拟合度演进、反馈收集与循环改进的经验手段。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜实践现场与外部系统处于持续变迁之中，静态复制固定干预方案必然导致系统不相容与成效衰减
 > - **前提一** 学校、社区与宏观政策环境并非静态实验温室，师资流动、生源构成变化、政策考核更迭均使实践情境具有高度动态性。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
@@ -138,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将组织、制度与实践变革视作开放、非线性的[[Complexity Theory\|复杂适应系统]]（Complex Adaptive Systems），否定还原主义与确定性因果链。
 > - **[[Epistemology\|认识论]]** 秉持[[Pragmatic Paradigm\|实用主义]]与情境化认识论；认为证据知识的效力是条件性、脉络化的，知识价值在与具体行动情境的持续互动中得以生成与确证。
@@ -167,8 +159,6 @@ updated: 2026-10-22
 > - **2022 — 教育质量使用整合** [[Mark Rickinson]] 等人将 DSF 整合为 [[Quality Use of Research Evidence Framework\|QURE]] 框架的关键构件，确立了“适切调适”作为深思熟虑使用证据的核心评价维度。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 143–144)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

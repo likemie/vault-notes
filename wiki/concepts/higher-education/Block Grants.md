@@ -49,11 +49,7 @@ created: 2026-10-12
 updated: 2026-10-15
 ---
 
-# Block Grants
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 整笔拨款（Block Grants / Lump-sum Funding），又称总额预算或一揽子拨款，指中央政府或上级拨款机关向高等院校、学区或科研机构下达的、不限定微观支出细项用途的打包性财政补助。受资助机构在符合国家宏观法规与办学任务的前提下，享有将经费在教学、人员薪酬、设备采购与校舍维护之间自主统筹调配与跨年度结转的完全财务裁量权。它构成了现代公共部门去规制化以及[[Steering at a Distance|远距离操纵]]公共治理新[[Paradigm|范式]]的核心财政支柱。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 140, 146)]]
@@ -75,8 +71,6 @@ updated: 2026-10-15
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 高等教育财政资助模式对比辨析
 > | 维度 | 逐项细目拨款（Line-item） | 整笔总额拨款（Block Grants） | 绩效产出挂钩拨款（Performance Funding） |
 > |---|---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-15
 > | **治理[[Paradigm\|范式]]匹配** | 传统韦伯式[[Bureaucracy\|科层制]] | 政策网络协同与[[Steering at a Distance\|远距离操纵]] | 激进市场化[[New Public Management\|新公共管理]]（NPM） |
 
 ---
-
-## 核心要素
 
 > [!feature] 整笔拨款的核心构成要素
 > - **总额包干与非特定化（Lump-sum Allocation）** 资助资金以单一总额形式划拨，不捆绑具体的院系分配细则或科目支出定额，打破专款专用的刚性区隔。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
@@ -143,8 +135,6 @@ updated: 2026-10-15
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -154,8 +144,6 @@ updated: 2026-10-15
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 整笔拨款制度演进历程
 > - **1960 年代至 1970 年代 — 战后福利国家细目报销与规制膨胀** 随着大众化高等教育扩张，欧洲与北美普遍采用细密生均核算与按报销单据划拨模式，导致庞大的财务规程与[[Red Tape|官僚繁文缛节]]膨胀。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 > - **1985 年 — 荷兰 [[Higher Education Autonomy and Quality|HOAK]] 白皮书确立总额预算[[Paradigm|范式]]** 荷兰教育部在《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》白皮书中正式确立整笔拨款为间接治理的核心支柱，随后在高等专业教育改革与 1986 年法案中率先推行。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 146)]]
@@ -163,8 +151,6 @@ updated: 2026-10-15
 > - **2000 年代至今 — [[Performance Indicators|绩效指标]]叠加与有条件整笔拨款分化** 面对[[New Public Management|新公共管理]]冲击，纯粹投入型整笔拨款逐渐与毕业率、科研产出及外部契约挂钩，催生出“基础整笔预算 + 竞争性绩效指标”的复合调控模式。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议焦点
 >
@@ -179,8 +165,6 @@ updated: 2026-10-15
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 整笔拨款关键实证观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -190,8 +174,6 @@ updated: 2026-10-15
 > | [[Argument_Kickert_1995_Governance\|Kickert (1995, pp. 140, 146)]] | 荷兰 13 所公立[[Research Universities\|研究型大学]] 1992 年 [[Higher Education and Research Act 1992\|WHW]] 法案改革 | 宏观参数分配模型与微观科目调配自由 | 全面废除历史沿袭的《学术法令》微观编制限制，实行基于宏观基准算法的一揽子划拨，大学拥有跨学科调配与跨年结转预算的完整自主权 | 证实整笔拨款构成了欧洲大陆大学从国家行政下属执行机构走向现代自治实体的关键制度阶梯 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证剖析荷兰高教从细项报销转向总额预算的制度实践，系统论证整笔拨款作为[[Steering at a Distance|远距离操纵]]财政基石与危机吸收机制的有效性。

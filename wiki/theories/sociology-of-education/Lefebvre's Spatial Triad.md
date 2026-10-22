@@ -67,13 +67,9 @@ created: 2026-06-11
 updated: 2026-10-22
 ---
 
-# Lefebvre's Spatial Triad
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 物理空间、制度设计与社会实践之间的双向生产过程，特别是教育机构、受教育者与区域网络如何在空间中展开互动并反向重构空间。
 > - **理论问题** 批判欧洲[[Enlightenment|启蒙哲学]]将空间视作中性物理背景或从属于时间演化序列的静态假定，突破将民族国家与学校视作封闭地理容器的分析局限，阐明空间如何成为权力运作、制度规训与主体能动的媒介。
 > - **理论类型** 批判社会理论 / 空间社会学辩证[[Analytic Framework|分析框架]]。
@@ -84,15 +80,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 法国哲学家与社会学家亨利·列斐伏尔（Henri Lefebvre）于 1974 年出版法文原著《空间的生产》（*La production de l'espace*，1991 年由 Donald Nicholson-Smith 英译出版为 *The Production of Space*）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **原初问题** 传统西方哲学（如[[René Descartes|笛卡尔]]主义几何空间与[[Immanuel Kant|康德]]先验感性形式）将空间客体化为抽象中立的背景，而传统马克思主义历史唯物主义过度聚焦于时间演进与历史发展阶段，忽略了晚期资本主义城市化扩张与空间殖民化对社会关系再生产的决定性作用。
 > - **理论资源与材料** 列斐伏尔批判性吸收[[Georg Wilhelm Friedrich Hegel|黑格尔]]辩证法与马克思资本再生产理论，结合战后法国都市现代化扩张、郊区新城规划与日常生活异化批判，将马克思的物质生产概念扩展至空间维度的生产。
 > - **形成路径** 打破“物质空间”与“精神空间”的二元对立，引入“社会空间”概念，提出三位一体的空间三元辩证法（Spatial Triad），揭示空间如何在物理感知、概念构想与生活体验的张力中被持续生产与重构。
-
-### 后续修订与跨领域扩展
 
 > [!dev-timeline] 理论版本与跨领域扩展
 > - **1991 — 空间转向的跨学科确立** 列斐伏尔著作英译出版，爱德华·索亚（Edward Soja, 1996）将其引申为“[[Third Space Discourse|第三空间]]（Thirdspace）”理论，大卫·哈维（David Harvey）将其引入地理唯物主义批判，确立人文社会科学“空间转向（Spatial Turn）”的核心地位。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 359)]]
@@ -101,8 +93,6 @@ updated: 2026-10-22
 > - **2025 — 区域高等教育空间与[[Structural Holes|结构洞]]理论整合** 蔡永生等（Cai, Gao & Liu, 2025）将列斐伏尔空间三元辩证法与罗纳德·伯特（Ronald Burt, 2000）的[[Structural Holes|结构洞]]理论相融合，应用于[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]（GBA）高等教育研究，揭示关键节点高校教师如何在感知、构想与活生生空间中弥合网络断连，催生[[Innovation Ecosystem|区域创新生态]]。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025)]]
 
 ---
-
-## 关键概念与理论构件
 
 > [!entry-map] 空间三元辩证法核心构件
 >
@@ -141,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 适用于解释：教育机构如何通过空间规划与物理环境行使人口规训？政策[[Discourse|话语]]如何将流动性建构为合法美德或越轨缺陷？微观主体如何在结构性空间约束中开辟抗争与协作路径？
 > - **分析对象与单位** 涵盖微观校园建筑与教室桌椅空间、中观跨学区与区域创新空间（如 [[Guangdong-Hong Kong-Macau Greater Bay Area|GBA]]），以及宏观跨国教育空间（如欧洲高等教育区）。
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能仅指出某项教育现象具有“空间维度”就直接推导出现象产生的原因；空间是社会关系的载体与中介，必须结合具体的政治经济学权力机制与行动者动机方能形成严密因果解释。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

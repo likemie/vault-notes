@@ -52,11 +52,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Benedict Anderson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 爱尔兰裔美国政治学家、比较政治学者与东南亚研究权威，康奈尔大学阿伦·宾（Aaron L. Binenkorb）国际研究讲席教授。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1983 — *Imagined Communities: Reflections on the Origin and Spread of Nationalism*** 提出民族是由印刷资本主义与大众媒介所构筑的想象共同体，成为全球被引用最多的社科经典之一。关联条目：[[Imagined Community]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006)]]
 > - **1998 — *The Spectre of Comparisons: Nationalism, Southeast Asia, and the World*** 深入探讨东南亚比较政治中的民族主义幽灵与政治现代性转型。
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 民族并非自古天然存在的血缘实体，而是在宗教神授秩序解体与印刷资本主义兴起背景下被历史性建构出来的想象政治共同体；通过共享印刷语言与同时性媒介消费，数以百万计素未谋面的陌生人得以建立起深厚的横向同志情谊。卡普与扎米斯卡进一步将其引申为认知政治学命题：正是安德森界定的这种“想象链接”，帮助人类突破了[[Dunbar's Number|邓巴数]]（约 150 人）的面对面社交物理极限，成为组织现代复杂工程、前沿科学攻坚与国家防卫的决定性纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006, pp. 6–7)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 
 > [!citation-card] 民族作为有限且享有主权的政治想象
@@ -101,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政治学与比较教育路径** 深刻重塑了民族主义研究的[[Constructivist Paradigm|建构主义范式]]，启发了关于教科书、课程大纲与国家[[Official Knowledge|官方知识]]生产的全球批判性研究。
 > - **认知人类学与宏观组织路径** 为解释人类如何跨越[[Dunbar's Number|邓巴数]]认知上限（约 150 人）开展超大规模跨地域协作提供了核心文化分析工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **[[Technological Republic|技术共和国]][[Geopolitics|地缘政治]]路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
@@ -113,8 +103,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将安德森想象共同体与邓巴数结合，论述现代高科技攻坚的大规模协同基础及情感民族边界防卫。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 卡普与扎米斯卡论安德森的超大规模协作纽带洞见
 > 如果没有政治学家本尼迪克特·安德森所说的那些“想象链接”——那些将几乎永远不会直接相遇或相识的个体紧密联结在一起的纽带——现代的一切，从医学到城市再到人工智能，都将不可能实现。当代左翼的根本失误在于放弃了巡守“[[Imagined Community|情感民族]]”这一安德森式想象共同体的边界，留下了一个被商业消费主义与种姓财富所填补的真空。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191, 198)]]
@@ -131,8 +119,6 @@ updated: 2026-10-22
 > - **长期任职机构** 康奈尔大学政府系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 民族主义解释[[Paradigm Wars|范式之争]]
 >

@@ -52,11 +52,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Advance Market Commitments
-
 ---
-
-## 概念总览与核心界定
 
 > [!def] 核心界定
 > **高级市场承诺（Advance Market Commitments, [[Academic Medical Center|AMC]]）**，又称“预先市场承诺”或“前瞻性采购承诺”，是一种典型的创新[[Pull Mechanisms for Innovation|拉动机制]]（Pull Mechanism）。指政府、跨国发展机构或慈善基金会在具有重大公共利益但由于外部性强、早期市场需求不确定而导致私人投资严重不足的前沿技术领域（如罕见传染病疫苗、长时储能电池、直接空气碳捕集），预先签署具有法律约束力的采购协议，承诺一旦研发团队成功研制出满足预设技术指标与安全标准的产品，出资方将以保障价格（或按差额补贴方式）向其采购特定规模的最终产品。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29, 452)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 > | **核心适用场景** | 早期科学发现、机理探索与无法预设指标的研究 | 目标清晰、指标明确、急需跨越量产瓶颈的重大公共品 |
 
 ---
-
-## 核心要素与运作规程
 
 > [!feature] 高级市场承诺的四大运作支柱
 > - **清晰严格的技术性能基准（Objective Technical Specifications）** 预先公开发布可量化、可[[Falsification|证伪]]的最低产品性能标准（如有效性、稳定性、单价上限、不良反应率），确保验收过程免受主观人为干预。
@@ -109,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与典型案例
-
 > [!ref-table]- 高级市场承诺实践实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -125,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 高级市场承诺核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > | **工具适配** | **目标清晰工程攻关路线中立** | 适用于目标明确路径未知问题，允许多路线竞争并避免预先锁定错误赢家 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 29)]] |
 
 ---
-
-## 概念演变历程
 
 > [!dev-timeline] 高级市场承诺理论与政策概念演变脉络
 > - **2000 — 迈克尔·克雷默提出 [[Academic Medical Center|AMC]] 理论构想** 经济学家克雷默提出以预先市场承诺解决发展中国家急需疫苗研发不足的理论框架。
@@ -145,8 +133,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》确立 AMC 为国家拉动资助核心工具** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章系统将 AMC 纳入联邦国家[[Portfolio-Based Research Funding|组合式科研资助]]工具箱，指导新型能源、关键材料与颠覆性医疗突破。
 
 ---
-
-## 争议与学术交锋
 
 > [!debates] 研发资助机制学术争鸣
 >

@@ -33,11 +33,7 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# African Orphan Crops Consortium
-
-## 概述
-
-> [!info|notitle]
+> [!info] 概述
 > 非洲孤儿作物联盟（African Orphan Crops Consortium, AOCC）于 2011 年由 Mars、非洲联盟新伙伴关系计划（NEPAD）、世界自然基金会（WWF）和加州大学戴维斯分校（UC Davis）共同发起。其目标是通过改良 101 种被现代农业科学忽略的传统非洲粮食作物——即"孤儿作物"（orphan crops）——来消除非洲大陆的慢性饥饿和营养不良，打破营养不良的代际循环（pp.320–321）。
 
 > [!info] "孤儿作物"（Orphan Crops）的定义

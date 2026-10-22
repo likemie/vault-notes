@@ -34,11 +34,7 @@ created: 2026-07-02
 updated: 2026-10-22
 ---
 
-# National Education Policy 2009 Pakistan
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2009 年由巴基斯坦教育部（Ministry of Education, Government of Pakistan）发布（Ministry of Education, 2009, p. 11）。
@@ -47,8 +43,6 @@ updated: 2026-10-22
 > - **制度位置** 作为国家层面的教育政策文件，为课程改革和教学实践提供了方向性指引。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 巴基斯坦 2009 年国家教育政策的核心目标之一是"培养一个自力更生的个体，具备分析和原创思维的能力"（to develop a self-reliant individual, capable of analytical and original thinking）（Ministry of Education, 2009, p. 11）。
@@ -59,8 +53,6 @@ updated: 2026-10-22
 > *"to develop a self-reliant individual, capable of analytical and original thinking"*
 
 ---
-
-## 实施情况
 
 > [!warning] 政策与实践的落差
 > 尽管政策文本设定了培养自主思维个体的目标，但实际运作中的课程和普遍的学校实践未能实现这一目标（[[Argument_Lakhani_2012_AKUIED\|Lakhani, 2012, p.173]]）。为理解如何为自主性赋权创造空间，需要实证证据来理解已经包含[[Critical Thinking\|批判性思维]]成分的课程（如 IB 的[[Theory of Knowledge\|知识论]]）如何影响学习者的自主性。

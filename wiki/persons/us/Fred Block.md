@@ -67,11 +67,7 @@ created: 2026-10-12
 updated: 2026-10-22
 ---
 
-# Fred Block
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国经济社会学家、国家理论学者，加利福尼亚大学戴维斯分校（University of California, Davis）社会学系研究教授。长期从事卡尔·波兰尼（Karl Polanyi）思想、宏观政治经济学与国家创新政策研究。
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970s–1980s — 资本主义国家自主性与国际经济秩序** 探索资本主义国家相对于资产阶级阶级利益的“相对自主性”，反思布雷顿森林体系崩溃背后的[[Geopolitics|地缘政治]]经济逻辑。
 >   - **代表著作** *The [[ROOTS]] of International Economic Disorder* (1977); *Revising State Theory: Essays in Politics and Postindustrialism* (1987)。
@@ -112,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代美国的真正成功并非来自自由市场的无干预自发调节，而是源于冷战后悄然成型的去中心化“[[Developmental Network State|发展型网络国家]]”。由于两党政治逻辑与[[Market Fundamentalism|市场原教旨主义]]意识形态的束缚，这一国家机器不得不以隐形形态在暗中运作；唯有破除市场神话、克服知识商品化障碍，并将公帑投入与公众收益、劳工技能及民主问责有机绑定，国家创新能力才能真正服务于包容性繁荣。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172, 193–204)]]
 
 > [!citation-card] 隐藏在聚光灯下的国家创新机器
@@ -134,9 +126,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与克里斯托弗·安塞尔（Christopher Ansell）共同奠定[[Developmental Network State|发展型网络国家]]理论，为[[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）等学者实证发展“[[Embedded Network Governance|嵌入型网络治理]]”提供了奠基性分析架构。
 > - **方法路径** 倡导结合法规政策演进、联邦财政支出分类与行业创新奖项（如 R&D 100 大奖）追踪的制度政治经济学分析[[Paradigm|范式]]。
 > - **政策路径** 深刻启发了当代关于美国国家战略、[[CHIPS and Science Act|芯片法案]]及[[Inflation Reduction Act|通胀削减法案]]的公共讨论，为[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）的“创业型国家”（Entrepreneurial State）理论提供了先驱性证据支持。
@@ -158,8 +148,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** [[DARPA]]、[[SBIR and STTR Programs]]、[[Advanced Technology Program]]、[[Ministry of International Trade and Industry]] — 布洛克剖析美国网络型国家运行机制与东亚[[Bureaucracy|科层制]]对照的标志性机构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

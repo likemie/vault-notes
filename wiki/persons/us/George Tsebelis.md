@@ -54,11 +54,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# George Tsebelis
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍希腊裔比较政治学家，密歇根大学（University of Michigan）阿纳托尔·拉波波特政治学讲席教授（Anatol Rapoport Collegiate Professor of Political Science），美国文理[[Chinese Academy of Sciences|科学院]]（[[American Association for the Advancement of Science|AAAS]]）院士，当代理性选择制度主义与比较宪政分析代表人物。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980年代末–1990年代初 — 嵌套博弈与比较政[[Governmentality|治理性]]选择转向** 致力于破除[[Behaviorism|行为主义]]与[[Structural Functionalism|结构功能主义]]将政治行为简化为文化或社会学决定的倾向，建立形式博弈微观基础。
 >   - **代表著作** *Nested Games: Rational Choice in Comparative Politics* (1990)。
@@ -102,9 +96,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 任何政体中政策变迁的容易程度与政策结果的稳定性，并不取决于宏观制度标签（如总统制或联邦制），而是取决于体制中“否决玩家”的构型；维持现状阵营中否决玩家的数量越多、彼此意识形态距离越远、内部凝聚力越强，现状能够被替代的政治空间（胜集）就越狭窄，政策稳定性越高，体制面临外部环境变迁时也越僵硬。
 
 > [!citation-card] 制度性与党派性否决者的结构差异
@@ -114,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 否决玩家理论重构了现代比较政治学与实证政治经济学的制度分析[[Paradigm|范式]]；被[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）改造为[[Historical Institutionalism|历史制度主义]]中解释四类渐进变迁形态的宏观政治语境[[Independent Variable|自变量]]。
 > - **方法路径** 推动了空间投票模型与无差别曲线分析法在小样本比较政治与比较宪法学中的普及，使制度刚性测量走向形式化与量化。
 > - **政策路径** 广泛应用于跨国公共政策改革难易度评估、福利国家紧缩政策评估以及[[EU|欧盟]]机构条约改革谈判的战略预测。
@@ -132,8 +122,6 @@ updated: 2026-10-22
 > - **学术论敌与同行** [[Peter A. Hall]] — 理性选择制度主义与历史制度主义两大学派领军代表，就偏好内生性与历史时间性开展深层理论对话。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

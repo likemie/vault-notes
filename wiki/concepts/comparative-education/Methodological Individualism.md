@@ -51,11 +51,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Methodological Individualism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 方法论个体主义（Methodological Individualism）是一种在社会科学、哲学与教育研究中广泛应用的方法论与[[Epistemology\|认识论]]原则。该原则主张：一切宏观社会现象、集体结构、制度变迁与组织行为，在解释学和因果机制上必须且只能还原为个体行动者的意图、信念、动机、理性选择与微观互动来加以阐明（Weber, 1922; Schumpeter, 1908; Popper, 1945; Boudon, 1982）。在教育研究与[[Research Utilization\|研究使用]]领域，方法论个体主义表现为将复杂的循证实践简化为教师或校长的个人心理特质、态度打分、信息检索技能或个体理性选择（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 6–7]]）。
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 方法论个体主义与方法论整体主义辨析
 > | 维度 | 方法论个体主义（Methodological Individualism） | 方法论整体主义（Methodological Holism / Structuralism） | 生态关系系统取向（Relational / Ecological Approach） |
 > |------|----------------------------------------------|------------------------------------------------------|---------------------------------------------------|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 > | **潜在理论风险** | 易陷入[[Deficit Framing\|赤字框架]]、循环论证与去情境化的心理主义还原 | 易剥夺教师行动者的主体性，陷入结构[[Determinism\|决定论]]与宿命论 | 概念化与实证观测要求极高，[[Variable\|变量]]网络较为复杂 |
 
 ---
-
-## 核心要素
 
 > [!feature] 方法论个体主义的核心构件与教育研究映射
 > - **微观行动基底（Micro-Foundations）** 坚持对宏观社会现象的因果解释必须具有清晰的微观个体行为机制支撑，反对缺乏微观行动依据的宏观抽象飞跃（Elster, 1989; Boudon, 1982）。
@@ -131,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -161,8 +149,6 @@ updated: 2026-10-22
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 建议推论中的个体主义还原比例 | 绝大多数研究虽然在理论部分提及学校复杂性，但在政策建议中均退缩为针对教师个人的技能培训处方 | — | 表明方法论个体主义导致学术推论陷入技术主义还原 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

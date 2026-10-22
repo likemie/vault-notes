@@ -44,13 +44,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Dual-Process Model of Culture in Action
-
 ---
 
-## 核心主张
-
-> [!tip|notitle]
+> [!tip] 核心主张
 > 文化-行动双过程模型（Dual-Process Model of Culture in Action）由美国社会学家 Stephen Vaisey（2009）在《美国社会学刊》（*AJS*）上提出，旨在调和文化社会学中关于文化如何影响行动的经典争论——价值观驱动[[Paradigm\|范式]]（韦伯-Parsons 传统）与[[Culture as Toolkit\|文化工具箱]]范式（Swidler, 1986）。Vaisey 援引认知科学的双过程理论论证：两种范式并非互相排斥，而是在不同的意识层次发挥作用。
 
 > [!quote|notitle]

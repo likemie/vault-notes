@@ -53,11 +53,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Long-Term Public Utility
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 长期公共效用（Long-Term Public Utility）是[[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti）、托卢·奥杜莫苏（Tolu Odumosu）与李·文塞尔（Lee Vinsel）在批判战后科技政策时提出的国家公共研发资助最高准绳。该概念主张，联邦政府财政介入科研活动的正当性标准，应彻底从“项目立项时自述的研究动机是纯科学还是应用技术”，转向“该项研究是否在数十年的宏观时间尺度上服务于国家长远的公共战略福祉，并致力于化解阻碍[[Innovation Ecosystem|创新生态]]顺畅运转的底层瓶颈”。只要具备明确的长远公共效用，无论是近期输出表现为新规律（发现）还是新装备与制造工艺（发明），均享有平等的公共财政全额支持资格。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 长期公共效用与传统资助试金石的系统对照
 > | 比较维度 | 传统二分法试金石（Bush, 1945） | 长期公共效用准绳（[[Argument_Narayanamurti_2013_IST\|Narayanamurti et al., 2013]]） |
 > |:---|:---|:---|
@@ -91,9 +85,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **长周期时间尺度（Long Time Horizon）** 承认颠覆性创新从原型孕育到社会重塑往往需要 30 到 50 年的演化网络，资助必须建立在超越选举政治与短期商业考评的[[Patient Capital|耐心资本]]之上。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 > - **系统瓶颈疏通导向（Bottleneck-Clearing Orientation）** 政策干预的正当性取决于课题是否致力于攻克制约国家前沿学科与战略产业整体发展的底层技术堵点，而非课题表面的学科归属。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
 > - **产出形态的中立对称性（Neutrality to Output Form）** 破除对论文探索的高贵迷信与对工艺动手的文化偏见，将实验装备研制、极端材料提纯与抽象物理定律确立置于完全平等的公共资助位阶。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
@@ -135,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -152,8 +142,6 @@ updated: 2026-10-22
 > - **2016–至今 — [[Mission-Oriented Innovation Policy|任务导向型创新政策]]全球采纳** 长期公共效用思想深刻融入[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）的“使命导向型创新”（Mission-Oriented Innovation）以及美国《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act]]）等当代产业技术政策立法中。
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心争议交锋
 >

@@ -97,11 +97,7 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Survey Research
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 调查研究（Survey Research）是一种[[Quantitative Research\|量化研究]]设计，通过研究一个总体中的样本，提供关于该总体的趋势、态度或意见的量化或数值描述（Fowler, 2008）。调查是[[Quantitative Research\|量化研究]]中最常用的设计类型之一，包括使用[[Questionnaire\|问卷]]或结构化访谈进行数据收集，目的是从样本推广到总体。
 
 > [!method-scope] 方法范围
@@ -165,15 +161,11 @@ updated: 2026-10-22
 5. 确定用于检验主要推断性研究问题或假设的统计量和统计程序（如 R、SPSS），提供选择依据，说明统计假设。选择取决于研究问题性质（关联变量或比较组）、预测变量和结果变量的数量、协变量以及变量的测量类型（连续或分类）和分布特征（正态或非正态）（Rudestam & Newton, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 6. 以表格或图形呈现结果，并从统计检验中解释结果的含义。
 
-### 预注册与研究结果解释
-
-> [!note|notitle]
+> [!note] 预注册与研究结果解释
 > 若研究目标为正式假设检验（confirmatory），应在数据收集前在公共注册库中 **[[Preregistration\|预注册]]（Preregistration）** 研究计划和假设，以提高[[Quantitative Research\|量化研究]]的准确性和透明度（Nosek et al., 2018; 引自 Creswell & Creswell, 2022, Ch8）。常用注册库包括 Center for Open Science（https://www.cos.io）和 [[National Institutes of Health|NIH]] 的 ClinicalTrials.gov（https://www.clinicaltrials.gov）。
 
 > [!info|notitle]
 > 结果解释包括：报告结果如何回答研究问题或假设（APA, 2020 建议报告完整的描述统计、[[Statistical Significance\|统计显著性]]检验、[[Confidence Interval\|置信区间]]和[[Effect Size\|效应量]]）；将主要发现置于先前研究的语境中讨论；承认实践和研究意义；简要指出研究局限和替代性解释；最后以主要发现及其更广泛的科学和社会重要性收尾（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
-
-### 调查方法计划检查清单
 
 > [!abstract] 表8.1：设计调查方法计划的检查清单
 >
@@ -301,8 +293,6 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - 横截面设计难以建立[[Causality\|因果关系]]。
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 结合 [[Public Attitudes to Science|PAS 2025]]（N = 5,281）与科研人员调查评估公众科学信息渠道与信任；对 108 名议员的调查显示其多依赖智库，较少依赖议会科技办公室。

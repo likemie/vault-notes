@@ -149,11 +149,7 @@ created: 2026-06-30
 updated: 2026-10-22
 ---
 
-# Critical Thinking
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 批判性思维是以理由为依据、有目的且能够自我调节的反思判断。个体需要识别和分析论证，评价证据与信息来源，形成推论与解释，权衡相关理由后决定相信什么或采取何种行动。完整[[Construct\|构念]]还包括探究、开放、公正、智识[[Humility\|谦逊]]和自我纠正等倾向，以及使判断成立的领域知识和情境标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31–35)]]
@@ -171,8 +167,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 相近思维[[Construct\|构念]]
 > | 维度 | 批判性思维 | 纯形式推理 | [[Higher-Order Thinking Skills\|高阶思维]] | [[Creativity\|创造性]]思维与问题解决 |
 > |---|---|---|---|---|
@@ -182,8 +176,6 @@ updated: 2026-10-22
 > | **关系** | 广泛运用理性，并加入倾向、语境与判断 | 构成批判性思维的一项基础资源 | 与分析、评价和创造层级高度重叠 | 在 Halpern 框架中属于构念，在 Black 框架中位于边缘或外部 |
 
 ---
-
-## 核心要素
 
 > [!feature] 技能、倾向与条件
 > - **解释** 澄清经验、文本、数据和问题的意义，并用适当分类或表述呈现。
@@ -344,8 +336,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -359,8 +349,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 批判性思维概念的演变
 > - **古典传统至 20 世纪中期　理性判断与教育自主** [[Plato\|柏拉图]]和[[Aristotle\|亚里士多德]]传统开启以理由审查信念的教育理想，后续哲学家和教育思想家持续把理性、自主和自我纠正视为教育的重要成果。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 31)]]
 > - **1980 年代　反思判断成为定义核心** Siegel 将批判性思维与理性和理由权衡相连，Ennis and Weir 将其聚焦于决定相信什么或采取何种行动，使概念从宽泛教育理想转向可讨论的判断过程。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
@@ -371,8 +359,6 @@ updated: 2026-10-22
 > - **2019 年　全球微观[[Classroom Observation|课堂观察]]与[[Rote Learning|死记硬背]]打破** [[World Bank|世界银行]]发布《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），将批判性思维下沉为发展中国家初等教育课堂的核心评价要素（要素 6）；打破了将批判性思维视为仅属于高等教育或发达国家的精英偏见，在基础教育语境中将死记硬背（Rote Learning）与实质性[[Higher-Order Thinking Skills|高阶思维]]任务（Substantial Thinking Tasks）作出了严格的学科化行为锚定。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] [[Construct|构念]]边界与迁移争议
 >
@@ -413,8 +399,6 @@ updated: 2026-10-22
 > - 指南文本能够支持书面课程的构念审查，学生真实经历中的思维数量和质量还需[[Classroom Observation|课堂观察]]、表现任务与实施研究。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31, 35)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

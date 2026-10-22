@@ -86,7 +86,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: "International Baccalaureate Organization"
 ---
-# Argument_Bergeron_2015_TeachingTOK
 
 ---
 
@@ -103,8 +102,6 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-## 理论框架与文献基础
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -116,8 +113,6 @@ issuing_organization: "International Baccalaureate Organization"
 > 教师信念理论解释了知识论不仅作用于学生，更因其[[Open-Mindedness|开放性]]和跨学科特性成为强力专业发展途径的原因。衡量课程结果与[[International Baccalaureate\|国际文凭]]学习者特质的对齐程度，为判断这门无法通过标准化纸笔测验简单考核的课程确立了有效性基准。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 实施细节 |
@@ -136,8 +131,6 @@ issuing_organization: "International Baccalaureate Organization"
 > | **质性样本** | 在阿姆斯特丹、布里斯班和芝加哥举办的3场焦点小组，共33名教师参与（13男，20女），其教授知识论的经验横跨1至28年（p. 13）。 |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -181,9 +174,7 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-### 1. 课程认知（Perceptions of TOK）：目标、益处与挑战
-
-> [!claim|lead] 步骤一主张
+> [!claim] 1. 课程认知（Perceptions of TOK）：目标、益处与挑战
 > 知识论的核心目的不仅是学术上的批判性评估，更是打破学科壁垒和自我中心的主观偏见。其带给学生的最大益处体现在[[Open-Mindedness|思想开放]]和反思能力的跨情境迁移。然而，将这种隐性认知转变落实为显性量化的评分评估，构成了最大的实施挑战。
 
 > [!goal] 总体目的 建立认知意识
@@ -294,9 +285,7 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-### 2. 知识论对教师专业发展的影响（Impact on Teachers）
-
-> [!claim|lead] 步骤二主张
+> [!claim] 2. 知识论对教师专业发展的影响（Impact on Teachers）
 > 教授知识论深刻地重塑了任课群体的[[Epistemological Beliefs\|认识论信念]]与教学实践。它本身就是一项高价值的在职专业发展，推动了教师从“事实传递者”向“概念探究引导者”的哲学转变，尽管应对不同知识领域的信心存在显著梯次落差。
 
 > [!chain-link] 教学能力的提升与信心的领域落差
@@ -339,9 +328,7 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-### 3. 课程的实施与协作策略（TOK Implementation）
-
-> [!claim|lead] 步骤三主张
+> [!claim] 3. 课程的实施与协作策略（TOK Implementation）
 > 虽然课程实施在宏观上平稳，但微观上深受课时边缘化和跨学科背景耗时的阻碍。教师们并没有被动等待行政救援，而是通过极为活跃的跨学科团队协作，成功地从内部破解了这些实施壁垒。
 
 > [!challenges] 结构性实施壁垒
@@ -381,16 +368,12 @@ issuing_organization: "International Baccalaureate Organization"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心结论
 > 1. **双重赋能的认知枢纽** 课程不仅培养了具备多维视角、能包容争议的[[Global Citizenship\|全球公民]]，更作为一种强大的专业发展催化剂，将教师从单向传递者转变为结构化探究和跨学科连接的引导者。
 > 2. **评估工具与应试传统的摩擦** 面对主观性极强的[[Epistemology\|认识论]]探讨，现有评估资源无法为教师提供有效的形成性测量依据。这导致教师常常陷入不知如何向习惯于分数反馈的学生提供客观评价的困境。
 > 3. **以协作破解背景壁垒** 即使不具备所有[[Areas of Knowledge\|知识领域]]的全知背景，也遭遇了课时边缘化，教师们凭借极高的教学热情，通过跨学科协同排期和共享客座专长，构筑了化解系统性实施阻力的强效方案。
 
 ---
-
-## 自述局限
 
 > [!warning] 局限性说明
 > 本研究高度依赖于自我报告数据（self-reported data），可能受到社会期望（social desirability）偏差的干扰。尤其是自愿花费大量时间完成长[[Questionnaire\|问卷]]并参与[[Focus Group\|焦点小组]]的教师群体，可能代表了对[[Theory of Knowledge\|知识论]]最富有热情和态度的“精英子群体”，从而可能在一定程度上高估了全球整体的实施顺畅度和信心水平（p. 14）。

@@ -39,11 +39,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Power Analysis
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 统计功效分析（Power Analysis）是一种在研究规划阶段、正式招募受试者之前，用于估计检测特定[[Effect Size\|效应量]]所需最小[[Sample Size Determination\|样本量]]的统计方法（Kraemer & Blasey, 2016）。功效分析的目的是确保研究有足够的统计能力来检测[[Variable\|变量]]间真实存在的关系或组间差异，避免因样本不足而无法发现真实效应（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote|notitle]
@@ -51,9 +47,7 @@ updated: 2026-10-22
 >
 > 样本量的确定应基于你的分析计划和预期结果。
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > 功效分析的核心程序（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 明确分析计划——确定主要[[Hypothesis|研究假设]]和拟用的统计检验类型。

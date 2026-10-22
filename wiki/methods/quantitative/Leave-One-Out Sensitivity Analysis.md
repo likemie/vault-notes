@@ -54,11 +54,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Leave-One-Out Sensitivity Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 留一法敏感性分析（Leave-One-Out Sensitivity Analysis），又称逐一剔除敏感性检验或基于刀切法（Jackknife）的敏感性分析，是[[Meta-analysis\|元分析]]与统计建模中用于评估证据体系稳健性与识别极端异常值的核心诊断方法。该方法通过从包含 $k$ 项初级研究的数据集中每次依次剔除一项研究，利用剩余的 $k-1$ 项研究重新拟合加权模型并重新估计合并[[Effect Size\|效应量]]、95% [[Confidence Interval\|置信区间]]（95% Confidence Interval, 95% CI）与[[Heterogeneity\|异质性]]统计量（如 $\tau^2, I^2$），从而定量检验元分析的核心发现是否过度依赖于某单项大权重研究或极端异常样本。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 7–9)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持经验证据的审慎怀疑主义与压力测试原则，认为可信的科学综合结论不应被个别孤立研究的极端数据所绑架。
 > - **研究者角色** 通过系统性算法重抽样，对数据池施加单点扰动，客观记录[[Effect Size\|效应量]]的波动轨迹。
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > - **协同工具** 与[[Funnel Plot\|漏斗图]]（Funnel Plot）、Egger 回归、[[Trim and Fill Method\|剪补法]]（Trim and Fill Method）及[[Fail-Safe N\|失安全数]]（Fail-Safe N）协同构成偏倚与稳健性质控闭环
 
 ---
-
-## 核心统计原理与分析流程
 
 > [!proc]- 留一法敏感性分析循环迭代计算流程
 > ```mermaid
@@ -124,8 +116,6 @@ updated: 2026-10-22
 > 3. 若剔除某研究后异质性 $I_{(-i)}^2$ 出现断崖式下跌，该研究即为造成整体异质性的主要异源（Outlier）。
 
 ---
-
-## 软件实现工作流
 
 > [!software-impl] R（metafor）与 STATA 18 分析脚本对照
 > 
@@ -162,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法学优势与局限性
-
 > [!contrast-table] 留一法与传统敏感性分析方法对比
 > | 维度 | 留一法敏感性分析（Leave-One-Out） | 亚组敏感性分析（Subgroup Sensitivity） | [[Trim and Fill Method\|剪补法]]（Trim-and-Fill） |
 > |---|---|---|---|
@@ -178,8 +166,6 @@ updated: 2026-10-22
 > 3. **不能替代方法学质评** 留一法检验的是统计数值的抗扰动性，无法直接替代基于 Cochrane RoB 2 或 ROBINS-I 工具对[[Primary and Secondary Documents\|初级文献]][[Internal Validity\|内部效度]]与偏倚风险的实质审查。
 
 ---
-
-## 典型案例研究
 
 > [!case] 实证案例　[[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] · AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]留一法全集压力测试
 > 在关于 AI 智能体对 K-12 学生认知表现影响的元分析中（包含 34 项研究、73 个[[Effect Size\|效应量]]与 3,042 名学生），研究者为排除极端效应量主导结论的风险，在 DerSimonian-Laird [[Random-Effects Model\|随机效应模型]]下执行了完整的留一法敏感性分析：
@@ -201,8 +187,6 @@ updated: 2026-10-22
 > | [[Forest Plot]] | 可视化工具 | 留一法分析结果的标准展示形式（逐项排除森林图）。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在关于 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，对 73 个[[Effect Size\|效应量]]执行[[Random-Effects Model|随机效应]]留一法敏感性分析，证实汇总效应量严格稳定在 [0.242, 0.567] [[Confidence Interval\|置信区间]]内，确立了证据体系的高度抗扰动稳健性。

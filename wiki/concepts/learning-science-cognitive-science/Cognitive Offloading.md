@@ -80,11 +80,7 @@ created: 2026-08-31
 updated: 2026-10-22
 ---
 
-# Cognitive Offloading
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知卸载（Cognitive Offloading）是指个体利用物理行动或外部数字/智能工具改变任务的信息加工要求，将原本由内部心智（如[[Working Memory\|工作记忆]]维持、符号运算、长时记忆提取或结构性规划）承担的认知操作转移到外部媒介中执行的过程。在[[Generative Artificial Intelligence\|生成式人工智能]]介入的教育情境中，认知卸载表现出深刻的“双刃剑效应”：在[[Structured Teaching\|结构化教学]]支持下，它能够有效卸载低阶语法排错与初级素材检索等外在负荷，将心智资源释放至高阶概念推演与反思；但在缺乏教学约束或学生自主调节能力偏低的情境下，它极易演变为对算法输出的被动依赖与“知识外包（Knowledge Outsourcing）”，诱导学生绕过必要的认知挣扎，导致[[Metacognition\|元认知]]监控停摆与批判性审思能力的实质性退化。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 9–10)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 5–6, 14–16)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–361)]]
@@ -111,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知卸载与相近[[Man-Computer Symbiosis|人机协同]]概念辨析
 > | 维度 | 认知卸载（Cognitive Offloading） | [[Scaffolding\|教学支架]]（Scaffolding） | 认知依赖（Cognitive Dependency） | 捷径式学习（Shortcut Learning） |
 > |---|---|---|---|---|
@@ -122,8 +116,6 @@ updated: 2026-10-22
 > | **教育后果** | 结构化时释放资源；非结构化时导致思维浅层化 | 形成独立[[Higher-Order Thinking Skills\|高阶思维]]后支架功成身退 | 批判性质疑与自主元认知监控全面萎缩 | 代码排错直齐退化，概念理解发生实质性滑坡 |
 
 ---
-
-## 核心要素
 
 > [!feature] 认知卸载的核心调控要素
 > - **物理与智能卸载介质（Offloading Substrates）** 从传统的纸笔备忘、计算器到具备多轮对话与自主推演能力的生成式大语言模型，介质的交互智能程度决定了被卸载任务的认知层级与潜在风险。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
@@ -210,8 +202,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -231,8 +221,6 @@ updated: 2026-10-22
 > - **2026 年 — 延展心智规范判准重塑与中间认识动作剥落诊断** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 从社会[[Epistemology\|认识论]]与延展[[Theory of Mind\|心智理论]]出发重新界定认知卸载，提出卸载能否扩展主体性取决于学习者能否控制耦合、审计系统输入并独立恢复推理，并系统剖析了无摩擦委派如何压缩检索与综合等中间认识动作并剥夺[[Evaluative Judgement\|评价性判断]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -259,8 +247,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
@@ -278,8 +264,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | ChatGPT 整合中认知卸载、[[Metacognition\|元认知]]外包与思维表现频数 | 21 项（31.3%）报告过度依赖与认知惰性；12 项（17.9%）报告元认知监控卸载；4 项（6.0%）报告双重认知侵蚀；而在 18 项（26.9%）结构化设计中实现双重思维协同增益；SEM 检验被动调用行为负向预测批判反思（$\beta = -0.34$） | $p < .001$（SEM 回归路径显著性） | 质性频数分布与主题综合，证实认知卸载的双向分化高度依存于[[Scaffolding\|教学脚手架]]与元认知监控的存在与否。 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学与干预案例
 > - **中学科学探究中的[[Chain-of-Thought Prompting\|思维链提示]]与证据核验（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**

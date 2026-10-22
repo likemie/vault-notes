@@ -38,11 +38,7 @@ created: 2026-06-30
 updated: 2026-10-16
 ---
 
-# Academic Self-Concept General Scale
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 一般[[Academic Self-Concept\|学术自我概念]]量表
 > - **工具类型** 十题自陈量表。
@@ -51,8 +47,6 @@ updated: 2026-10-16
 > - **实施方式** 自陈。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Academic Self-Concept\|学术自我概念]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -69,8 +63,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -79,8 +71,6 @@ updated: 2026-10-16
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Marsh 1992 英文版 | 澳大利亚大学一年级学生，在线施测；DP 毕业生 n = 99，非 DP 毕业生 n = 283。作为难以跨学校标准化的实际成绩之代理指标 | 既有证据 α = .92；Byrne and Worth-Gavin (1996) 支持代理用途；当前样本信度、[[Construct Validity\|结构效度]]与测量不变性 — | DP 毕业生均值 6.25（0.96），非 DP 毕业生 5.75（1.02），t(380) = 4.24，p < .001 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

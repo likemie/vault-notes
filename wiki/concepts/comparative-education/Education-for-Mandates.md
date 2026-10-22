@@ -60,11 +60,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Education-for-Mandates
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 使命性教育嵌入（Education-for-Mandates，或称使命驱动型教育干预）是指在跨国公共政策与全球教育治理中，原本未被赋予专门教育政策法定管辖权（Direct Mandate）的非教育类国际组织、区域贸易集团或金融机构，通过将教育议题与自身核心的非教育法定使命——如经济增长、地缘和平、国际理解、可持续发展或[[Knowledge-Based Economy\|知识经济]]——进行策略性语义挂钩，从而为自身涉足教育政策制定、动员专项预算与推行跨国规制工具提供政治合法性与道义正当性的治理机制。该概念由克斯汀·马滕斯（[[Kerstin Martens]]）、丹尼斯·尼曼（Dennis Niemann）与迪尔克·克罗格曼（Dirk Krogmann）于 2024 年系统理论化，并被吉塔·施泰纳-哈姆西等学者用于解释冷战以来全球教育治理中经济与金融机构“反客为主”主导公共教育改革议程的深层制度动因。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–544)]]
@@ -95,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **五大外延性使命[[Discourse|话语]]类型（Thematic Line of Argumentation）** 跨界组织普遍将教育归口于五大[[Grand Theory\|元叙事]]：① 教育促进经济增长（Economic Growth）；② 教育维护地缘和平（Peace）；③ 教育增进国际理解（International Understanding）；④ 教育推动可持续发展（Sustainable Development）；⑤ 教育支撑全球[[Knowledge-Based Economy\|知识经济]]（Global Knowledge Economy）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **经济金融机构的压倒性渗透（Dominance of Economic Coordination IOs）** 经济合作类机构凭借雄厚的主权出资网络与财政贷款权力，在所有涉教育国际组织中占比高达 33.3%，构成跨界嵌入的主导力量。
 > - **组织生存与利基开辟逻辑（Organisational Survival & Niche Carving）** 冷战时期斯普特尼克危机等外部地缘震荡，迫使 [[Organisation for European Economic Co-operation\|OEEC]]/[[OECD]] 等传统经济组织寻找新的增长点，将教育界定为高精尖技术人员供给母体，借此实现官僚机构的自我续命与权能扩张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -139,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -157,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 教育多边治理的资源繁荣 vs 育人价值的工具化异化
@@ -174,8 +164,6 @@ updated: 2026-10-22
 > 该概念主要适用于解释国际多边组织、超国家机构以及大型跨国慈善资本的宏观政策修辞；在主权国家内部，教育部作为专门法定机构拥有天然管辖权，该概念的解释力相对间接。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

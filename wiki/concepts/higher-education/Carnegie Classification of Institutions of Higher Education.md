@@ -34,11 +34,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Carnegie Classification of Institutions of Higher Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 卡内基高等教育机构分类（Carnegie Classification of Institutions of Higher Education）是卡内基教学促进基金会（Carnegie Foundation for the Advancement of Teaching）于 1970 年开发并在后续数十年持续迭代的美国高校权威分类框架；该分类系统依据各高校的高层次学位授予数量（尤其是博士学位规模）、联邦与全口径科研经费支出以及学科分布等多维实证[[Variable|变量]]，对全美逾 4,300 所高等院校进行多层级功能分类，其中最具声誉的核心层级为“极高研究活动[[Research Universities|研究型大学]]”（RU/VH）与“高研究活动研究型大学”（RU/H）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 43–44)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > | **分类逻辑** | 基于学位层次与科研体量的多维群聚分类 | 单一综合加权得分的线性序数位次强行排序 | 依据政治意志划分的重点批次（如 985/211、[[Imperial Universities\|旧帝国大学]]） |
 
 ---
-
-## 核心要素与分层结构
 
 > [!taxonomy] 2006 年卡内基分类对全美高校的生态划分
 > - **全美高校总量底座** 2006 年卡内基分类涵盖全美 4,387 所高等教育机构（包括独立神学院、商学院、职业学院，其中 1,811 所为两年制社区学院）。

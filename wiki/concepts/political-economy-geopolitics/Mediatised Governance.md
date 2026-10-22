@@ -54,11 +54,7 @@ created: 2026-09-11
 updated: 2026-10-20
 ---
 
-# Mediatised Governance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 媒介化治理（mediatised governance）指在当代民主社会中，教育政策的议程设置、[[Problem Finding\|问题界定]]与正当性辩护深受大众媒体运作逻辑与政治传播规律塑造的治理形态。由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）等全球性学业测评数据在进入主权国家公共[[Champ\|场域]]时，并不直接引发基于证据的理性政策趋同，而是被本土政治行动者与自主性新闻媒体按照各自的规则与偏好进行选择性重构；双方通过相互交织的危机叙事与耸动排列表，将复杂的跨国数据转化为证明国内教育全面衰退并推行既定激进改革的政治资本。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 110–112, 125–126)]]
@@ -81,8 +77,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 媒介化治理与相近治理概念辨析
 > | 维度 | 媒介化治理（Mediatised Governance） | 全球教育治理（Global [[Educational Governance Framework\|Educational Governance]]） | 舆论操控治理（[[Governance by Spin]]） |
 > |---|---|---|---|
@@ -92,8 +86,6 @@ updated: 2026-10-20
 > | **政策审视状态** | **[[Policy Avoidance\|政策规避]]（Policy Avoidance）** 聚焦危机本身，对改革细则免于审查 | 依赖专家网络与同行审查，强化技术官僚方案审视 | 追求政策表面的中立化与稳定性，避免激化政治对抗 |
 
 ---
-
-## 核心要素
 
 > [!feature] 媒介化治理的四大核心要素
 > - **[[Media Logic\|媒介逻辑]]（Media Logic）** 新闻媒介固有的选择、加工与呈现原则（Altheide & Snow, 1979）。媒体高度偏好具有负面性、人情味、冲突性与迫近性的事件，倾向于将复杂社会现象压缩为具有[[Dramatic Tension\|戏剧张力]]的失败者故事或[[Falling Standards Template\|水平下降模板]]。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 111–112)]]
@@ -166,8 +158,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 媒介化治理核心理论命题总览
 > | 命题类型 | 核心理论指向 | 适用分析情境 | 代表学者 |
 > |---|---|---|---|
@@ -177,8 +167,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 媒介化治理理论谱系与演变
 > - **1979 年 — [[Media Logic\|媒介逻辑]]的提出** Altheide & Snow 出版《Media Logic》，首次系统阐述大众媒介并非透明容器，而是具有自身特定的组织机制、修辞语法与感知偏好，任何社会机构欲进入大众视野均须适应其生产逻辑。
 > - **1999–2014 年 — 政治媒介化理论体系化** Mazzoleni and Schulz (1999) 提出政治媒介化概念；Strömback & Esser (2014) 将其发展为现代民主国家转型的元进程理论框架，确立了媒介化区别于传统中介传播（mediation）的理论自主性。
@@ -186,8 +174,6 @@ updated: 2026-10-20
 > - **2018 年 — 媒介化全球教育治理批判性分析视角的提出** [[Paul Morris\|Paul Morris]] 与 Sue Grey 发表《[[PISA]]: multiple ‘truths’ and mediatised global governance》，正式将媒介化概念与全球教育治理及跨国比较教育深度融合，揭示了跨国数据、政治修辞与本土媒体合谋的治理机制，开拓了超越超国家[[Convergence Theory in Comparative Education\|趋同论]]的新批判研究路径。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论对话
 >
@@ -204,8 +190,6 @@ updated: 2026-10-20
 > > - **批判[[Analytical Stance\|分析立场]]** 指出政治精英的个性化媒介资本（如曾任资深记者的内阁大臣）能够精准操弄媒体生态，使得媒体在不自觉中充当了免除审查的合法化通道。
 
 ---
-
-## 应用案例
 
 > [!evidence-grid-a] 相关研究与实证案例
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 [[Michael Gove]] 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template\|水平下降模板]]与[[Policy Avoidance\|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay\|绩效工资]]改革的媒介化治理过程。

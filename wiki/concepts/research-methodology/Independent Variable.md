@@ -52,9 +52,6 @@ status: draft
 created: 2026-07-12
 updated: 2026-10-22
 ---
-# Independent Variable
-
-## 定义
 
 > [!def] 自[[Variable\|变量]]
 > 自变量（independent variable）是实验或[[Quantitative Research\|量化研究]]中的**输入变量**，被有意识地操纵、控制或选择，以观察其变化对[[Dependent Variable\|因变量]]（结果变量）产生的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
@@ -73,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 自[[Variable\|变量]] vs [[Dependent Variable\|因变量]]
 > | 维度 | 自变量 | [[Dependent Variable\|因变量]] |
 > |---|---|---|
@@ -85,8 +80,6 @@ updated: 2026-10-22
 > | **示例** | 教学方法、药物剂量、课程时长 | 考试成绩、康复速度、阅读能力 |
 
 ---
-
-## 核心要素
 
 > [!feature] 自[[Variable\|变量]]的关键属性
 > - **可操纵性** 在真实验中，研究者主动控制和改变自变量的水平（如施加或不施加干预）。在准实验和[[Ex Post Facto Research\|事后回溯研究]]中，自变量的水平自然存在，研究者通过选择具有不同特征的组别展开观察比较（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
@@ -116,16 +109,12 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **因果单向与实体独立** | 自变量必须具备独立于因变量的理论实体地位与操作边界，警惕循环自指 | 实验因果推断、元分析二阶综合与实证建模 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]]; [[Argument_Rømer_2018_EPT\|Rømer (2018)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

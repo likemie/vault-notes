@@ -55,8 +55,6 @@ updated: 2026-10-22
 >
 > > 例：在[[Seasonal Comparison\|季节性比较]]研究中，[[Socioeconomic Status|SES]] 认知技能差距在学校期间增长更慢（甚至缩小），而在暑假期间加速扩大。学校虽未在绝对意义上消除差距，但相对于没有学校的情况（暑假作为[[Counterfactual\|反事实]]），学校发挥了补偿作用——就像减肥项目虽未使参与者减重，但对照组增重 5 磅，因此项目仍有正面效果([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.6]])。
 
-## 理论内部结构
-
 > [!abstract] 折射的三个维度
 > 框架主张学校可能沿不同维度以不同方式塑造不平等([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.5]])：
 >
@@ -97,8 +95,6 @@ updated: 2026-10-22
 > - **[[Epistemology\|认识论]]立场** [[Postpositivism\|后实证主义]]——承认学校效应的[[Causality\|因果推断]]需要严格方法（[[Seasonal Comparison\|季节性比较]]作为自然实验），同时重视将学校效应置于更广泛的社会分层系统中进行情境化理解
 > - **核心方法论**[[Seasonal Comparison]] — 利用学年 vs 暑假的自然实验设计
 > - **与传统方法的区别** 反对仅通过统计控制家庭背景或预测[[Learning Gain\|学习增值]]来分离学校效应——这些方法系统性高估学校效应，因为大多数影响儿童学习的非学校特征在大规模调查中无法测量([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.3]])
-
-## 争议与批评
 
 > [!warning] 补偿性是否被夸大？
 > 框架自身承认的局限性([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.10]])：

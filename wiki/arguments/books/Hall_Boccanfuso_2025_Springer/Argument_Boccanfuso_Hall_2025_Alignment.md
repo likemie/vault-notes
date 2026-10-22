@@ -80,7 +80,6 @@ citation_aliases:
   - "Boccanfuso & Hall, 2025a"
   - "Boccanfuso & Hall (2025a)"
 ---
-# Argument_Boccanfuso_Hall_2025_Alignment
 
 > [!question]
 > 大学和企业是两种治理模式、文化传统和核心目标截然不同的组织，它们之间的合作如何可能？为什么有些[[University-Industry Collaboration\|产学合作]]取得了突破性成果，而大量合作谈判却无果而终？要回答这些问题，需要一个系统框架来理解产学合作（University-Industry Collaboration）的运作逻辑：合作的回报是什么、双方目标在何处对齐又在何处分歧、结构性的挑战从何而来，以及什么样的机制能够帮助双方克服障碍。
@@ -301,9 +300,7 @@ UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的�
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “当今的创新通常发生在’界面’处，即产业界和大学为了共同目标而相互合作的间隙空间。”
 > (“Innovation today often occurs at the ‘interface,’ the interstitial space where industry and universities work with each other toward common goals.”)(p.4)
 

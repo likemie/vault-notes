@@ -61,11 +61,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Explanatory Critique
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **解释性批判（Explanatory Critique）** 是[[Critical Realism|批判实在论]]（Critical Realism）哲学的基石性[[Epistemology|认识论]]概念与规范批判方法。由英国哲学家[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar, 1979, 1986）系统奠定，并经安德鲁·科利尔（Andrew Collier, 1994, 1999）与[[Critical Discourse Analysis|批判话语分析]]奠基人[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough, 2013）深化发展。它主张打破休谟式的“实然与应然（Is/Ought）”二元割裂以及传统[[Positivism|实证主义]]的“[[Value Neutrality|价值中立]]”教条；当社会科学研究通过揭示深层生成机制，成功阐明某种虚假信念、意识形态偏见或扭曲[[Discourse|话语]]是由特定的社会制度结构所系统性生产与维系时，这项科学因果解释本身在逻辑上必然通向对该错误信念及其背后支配性结构的否定性规范评价，从而为社会解放实践提供客观的批判理据。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 解释性批判与相关批判[[Epistemology|认识论]][[Paradigm|范式]]辨析
 > | 维度 | 本概念（Explanatory Critique） | [[Positivism\|实证主义]][[Value Neutrality\|价值中立]]（Value Neutrality） | 后现代解构主义（Deconstruction） | 经典法兰克福意识形态批判（[[Ideology Critique]]） |
 > |---|---|---|---|---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **在教育政策中的功能** | 穿透表层修辞，解构高教扩张的地缘因果机制 | 测量政策投入产出指标与有效性 | 解构政策词汇的修辞策略与意义不确定性 | 批判资本逻辑对公共教育机构的异化与侵蚀 |
 
 ---
-
-## 核心要素
 
 > [!feature] 解释性批判的四个逻辑推导阶梯
 > - **第一阶梯：指认虚假认知或功能失调（Cognitive Misrepresentation）** 实证识别出社会行动者或政策文本中普遍持有但与事实相悖的错误信念或片面表象。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
@@ -148,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 解释性批判核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -165,8 +155,6 @@ updated: 2026-10-22
 > - **2023 年 — 跨国高等教育政策实证实操** 吴（Etienne Woo）在《高等教育政策》发文，将解释性批判全面应用于剖析中国[[Belt and Road Initiative|一带一路]]跨国教育战略的制度成因与替代性全球治理秩序建构。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–682)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

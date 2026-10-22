@@ -121,11 +121,7 @@ created: 2026-07-01
 updated: 2026-10-22
 ---
 
-# Metacognition
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 元认知（Metacognition）指个体对自己认知过程的认知、意识与主动调节能力，最早由约翰·弗拉维尔（John Flavell, 1976, 1979）界定为“关于认知的认知（cognition about cognition）”。它主要包含元认知知识（对自身认知特征、任务属性与策略有效性的理解）和元认知调节（在前瞻规划、即时监控与事后评估中对思维过程的控制）。在学习科学与[[Higher-Order Thinking Skills\|高阶思维]]研究中，元认知构成了联结[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的枢纽机制；既在算法流畅性面前维持[[Epistemological Vigilance\|认识论警觉]]、防止盲目[[Cognitive Offloading\|认知外包]]，又在[[Creative Problem Solving\|创造性问题解决]]中主导认知定势的突破与启发式策略的深层内化。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 249)]]; [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10–13)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]
@@ -152,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 元认知与相关高阶认知成分系统辨析
 > | 比较维度 | **元认知（Metacognition）** | **认知加工（Cognition）** | **[[Critical Thinking\|批判性思维]]（Critical Thinking）** | **[[Self-Regulated Learning\|自我调节学习]]（SRL）** | **[[Creative Self-Efficacy\|创造性自我效能感]]（CSE）** |
 > |---|---|---|---|---|---|
@@ -163,8 +157,6 @@ updated: 2026-10-22
 > | **在[[Man-Computer Symbiosis\|人机协同]]中的角色** | 维持[[Epistemological Vigilance\|认识论警觉]]，抵抗算法流畅假象 | 借助 AI 提高打字、翻译与检索效率 | 核验 AI 生成文献与证据的真实性 | 规划人机协作分工并监控交互耗时 | 维持对自身原创能力的信心防线 |
 
 ---
-
-## 核心要素
 
 > [!feature] 元认知的核心构件
 > - **元认知知识（Metacognitive Knowledge）** 关于个体自身与他人的认知特质、任务属性与约束条件，以及何时何地采用何种启发式策略（如逆向思考、概念重组、类比迁移）的陈述性、程序性与条件性知识。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 249)]]
@@ -267,8 +259,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心理论断言 | 关键机制与调节[[Variable\|变量]] | 代表学者与实证依据 |
 > |---|---|---|---|
@@ -280,8 +270,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 元认知理论与实践应用演进脉络
 > - **1970 年代　概念奠基与双成分模型** 弗拉维尔（Flavell, 1976, 1979）正式提出元认知概念，区分为元认知知识与元认知体验/调节，奠定了人类心智自我监控的研究基石。
 > - **1990–2000 年代　[[Self-Regulated Learning\|自我调节学习]]整合与可教性实证** 宾特里奇（Pintrich, 2000, 2002）与齐默曼（Zimmerman）将元认知深度整合入自我调节学习（SRL）理论体系中，编制了 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 等工具，确立了元认知策略的高度可教性。
@@ -292,8 +280,6 @@ updated: 2026-10-22
 > - **2026 年　关系性[[Epistemic Agency\|认识主体性]]与生产性认识摩擦的元认知转向** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示无摩擦委派切除中间认识动作导致元认知监控瘫痪的社会技术路径，提出通过对抗性反思质询与生产性认识摩擦捍卫[[Evaluative Judgement\|评价性判断]]的主体掌控权。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与前沿分歧
 >
@@ -322,8 +308,6 @@ updated: 2026-10-22
 > 6. **推行以反思为导向的[[Formative Assessment|形成性评价]]** 采用档案袋评价（Portfolio）、多轮草图迭代展评与量规自评，引导学生从关注分数结果转向关注自身认知策略的有效性与优化空间。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

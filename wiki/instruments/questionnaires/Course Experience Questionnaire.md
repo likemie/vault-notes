@@ -50,11 +50,7 @@ created: 2026-08-27
 updated: 2026-10-20
 ---
 
-# Course Experience Questionnaire
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Course Experience [[Questionnaire]]（CEQ）
 > - **工具类型** 全国性大学课程体验与通用技能自陈调查问卷（Standardized Graduate Survey Instrument）。
@@ -63,8 +59,6 @@ updated: 2026-10-20
 > - **实施方式** 毕业生毕业 4–6 个月后在线自陈施测（5 点莱克特等级评定）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 课程教学体验与高阶通用技能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -79,16 +73,12 @@ updated: 2026-10-20
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 莱克特 5 点自陈量表题（从“1-强烈不同意”到“5-强烈同意”）。
 > - **反向计分题** 在适度工作量与适切评价维度中设置反向题以控制作答偏差。
 > - **通用技能核心题项样例** “本课程提升了我分析问题的主体能力”；“本课程磨炼了我批判性审视证据的习惯”。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -98,8 +88,6 @@ updated: 2026-10-20
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | CEQ 澳大利亚官方版 | [[OECD]] 报告分析国家级学生调查在高等教育质量监测中的应用[[Paradigm\|范式]] | 全国毕业生调查工具 | 指出 CEQ 是全球高等教育运用学生主观感知数据监测通用高阶技能获得的最成熟系统之一 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

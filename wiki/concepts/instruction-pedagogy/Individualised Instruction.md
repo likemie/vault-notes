@@ -86,11 +86,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Individualised Instruction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **个别化教学（Individualised Instruction）** 指教师根据学生在先验知识、学习节奏、认知风格及支持需求等方面的个体差异，在教学内容、推进速度、任务难度、支持方式或学习路径上作出针对性调整的微观教学组织过程。其核心实践命题体现为“教师如何在复杂差异面前精准搭设与动态调整[[Scaffolding|认知支架]]”（[[Argument_Laursen_2015_Paideia|Laursen, 2015, p. 38]]）。
@@ -111,8 +107,6 @@ updated: 2026-10-22
 > - **不等于孤立的单项技术[[Independent Variable|自变量]]** 在[[Meta-analysis|元分析]]统计中将个别化教学抽离出特定的教学情境与组织条件（如班级规模、师生比），会抹杀其在小班生态中发挥作用的因果交互机制。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 个别化教学与相关教学组织形式对比
 > | 比较维度 | 个别化教学（Individualised Instruction） | 结构化教学（[[Structured Teaching]]） | 显性直接教学（[[Direct Instruction]]） | 放任式个人自学（Individual Seatwork） |
@@ -169,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -180,8 +172,6 @@ updated: 2026-10-22
 > | **跨国处方流动命题** | 超国家机构将芬兰早期个别化辅导经验包装为化解学业差距的跨国借用处方 | 比较教育政策借用、欧盟同伴学习活动（PLA） | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, p. 33)]] |
 
 ---
-
-## 演进历程与代表性争论
 
 > [!dev-timeline] 概念演变历程
 > - **1960–1970 年代 — [[Programmed Instruction|程序教学]]与个别化教学系统（[[Problem Solving Inventory|PSI]]）兴起** [[B. F. Skinner|斯金纳]]的程序教学机与凯勒计划（Keller Plan）风行，试图通过标准小步子教材与自定步调考核实现完全个别化，因抽离了社会人际互动与师生对话而逐渐式微。
@@ -206,8 +196,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证研究与应用案例
-
 > [!case] 新西兰奥克兰 [[Picking Up the Pace|PACE 项目]]：小[[Class Size|班额]]与密集个别化读写教学的协同实验
 > 新西兰奥克兰南部处境不利学校推行的“步调提速”读写干预项目（Picking Up the Pace, PACE）为个别化教学与组织[[Variable|变量]]的交互提供了经典实证。项目初期，学校面临严重的毛利与太平洋岛裔低年级学生读写落后危机。面对“个别化教学收效甚微”的流行偏见，试点校董事会果断将一年级班级规模从 28 人压降至 15 人，确保专任教师能将全班分解为 5 个 3 人微型小组。在每天固定的读写板块中，教师轮流与各小组展开 10 至 15 分钟的密集个别化拼读与阅读指导，给予即时形成性纠错，其余小组在明确常规下开展配套练习。该项目显著提高了[[Academic Achievement|学业成绩]]，其实证核心结论表明：**个别化教学高度依赖特定组织生态，小班额与高强度教师专业发展是释放密集个别化教学效能的关键组织条件。**[[Argument_Snook_2009_NZJES|(Stewart, 2001, cited in Snook et al., 2009, pp. 102–103)]]
 
@@ -218,8 +206,6 @@ updated: 2026-10-22
 > [[Swedish National Agency for Education|瑞典国家教育署]]在 1990 年代末至 2000 年代初大力推广以“学生自主工作时间”（eget arbete）为特征的个别化改革。[[Classroom Observation|课堂观察]]与大规模追踪评估发现，学生将高达三分之一的在校时间用于独立做练习单、自填进度表；教师则将精力耗费于繁复的表格管理与纪律巡视，针对学科概念的系统讲授与深度提问急剧减少。该项实证评估最终证实，这种假性个别化导致瑞典在 [[PISA]] 国际测评中成绩连续下滑，特别是基础薄弱学生因缺乏教师系统示范而遭受重创，迫使瑞典教育界在 2010 年代重新回归强调教师主导、全班结构与个别辅导相结合的专业轨道。（Håkansson, 2015, pp. 586–595）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Ivan Snook|斯努克]]等人论小[[Class Size|班额]]与个别化教学的因果交互
 > 成功推行 PACE 读写项目的关键，在于校董会决定将低年级班额从 28 人坚决削减至 15 人。这项组织变革带来了惊人的成效，因为该教学方案必须以 3 人微型小组展开。当你需要对每个小组进行 10 到 15 分钟的高频深入辅导时，若没有助教支持，绝不可能在大班额中实施。小班额使教师能够更加从容、高频地与各个小组展开实质性的个别化交互。所谓教学技术的成功，实质上是教学法与小班额[[Variable|变量]]强力[[Interaction Effect|交互作用]]的直接产物。[[Argument_Snook_2009_NZJES|(Stewart, 2001, cited in Snook et al., 2009, pp. 102–103)]]
@@ -232,8 +218,6 @@ updated: 2026-10-22
 > *The core question of individualised instruction is not whether to let students work on their own, but how teachers organize support in the face of diverse student prerequisites.*
 
 ---
-
-## 条目关联
 
 > [!entry-map] 个别化教学相关条目关联矩阵
 >

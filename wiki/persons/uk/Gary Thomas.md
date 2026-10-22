@@ -39,12 +39,9 @@ status: draft
 created: '2026-05-01'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Gary Thomas 是英国伯明翰大学（University of Birmingham）教育与社会包容教授，以其对实验方法和 [[Randomised Controlled Trials\|RCT]] 在教育研究中的"黄金标准"地位的批判而知名。
-
-## 核心思想
 
 > [!info] "民间科学观"概念
 > Thomas (2012, p. 28) 提出了"民间科学观"（folk-view of science）这一关键概念——即 EBT 倡导者通过诉诸一种过分简化的、刻板的日常科学形象来获得修辞效果，但未能深入探讨科学的真正特征([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 111]])。

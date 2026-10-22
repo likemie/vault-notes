@@ -42,11 +42,7 @@ created: '2026-07-13'
 updated: 2026-10-22
 ---
 
-# Decolonial Paradox
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 去殖民化思维的悖论（Decolonial Paradox / Decolonial Thinking Paradox）是由比较教育学者爱德华·维克（Edward Vickers）基于哲学家奥卢费米·泰沃（Olúfẹ́mi Táíwò）的学说提炼而成的批判性概念。它指的是在非西方威权国家（如中国）与地方社会（如香港）的冲突中，西方去殖民主义（decoloniality）学者仅因法治、基本人权和特区独立宪制地位等制度起源于西方殖民历史，便否定其正当性，在客观上剥夺了本土居民（native agency）选择和保留这些保护性制度的自决权，从而沦为威权统治者行使主权决断与强力整肃的理论共犯（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp. 154–155]]）。
@@ -63,8 +59,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 去殖民悖论与传统反殖民及威权民族主义的区别
 > | 比较维度 | 去殖民悖论视角（Vickers / Táíwò） | 传统去殖民[[Discourse\|话语]]（如 Mignolo） | 威权去殖民修辞（如[[Jiang Shigong\|强世功]] / 官方） |
 > |---|---|---|---|
@@ -74,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **谱系迷恋（Obsession with Pedigree）** 将制度的正当性简单等同于其历史起源，凡是源自西方殖民时期的制度（如司法独立、课程探究）均被预设为“不纯洁”或“[[Hegemony\|文化霸权]]”（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.155]]）。
 > - **本土能动性剥夺（Erasure of Native Agency）** 忽视本地人对这些制度的主动选择与保护性使用，剥夺其作为历史能动主体的自决资格（Táíwò, 2022）。
 > - **学术犬儒与失语（Academic Cynicism and Silence）** 西方学者在“反西方现代化霸权”的学术政治正确下，对非西方国家的集权压迫选择视而不见，甚至将本地人的反抗污名化为“文化叛徒”（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.154–155]]）。
@@ -127,8 +119,6 @@ updated: 2026-10-22
 > - **2024 — 维克引入比较教育分析** Vickers 将泰沃的理论引入比较教育学界，剖析香港在国安法实施后课程改革中的去政治化与去专业化危机，首次提炼出“去殖民化思维的悖论”来解释盎格鲁学界在面对香港案例时的失语（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp. 154–155]]）。
 
 ---
-
-## 争议与评论
 
 > [!debates] 学术争议
 > 

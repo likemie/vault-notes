@@ -91,13 +91,9 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Dependency Theory
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 资本主义世界体系中中心国家与外围国家之间的不平等支配关系；第三世界国家教育系统内部的阶级双轨分割与文凭异化；高等教育中的学术依附与新殖民主义文化控制；全球化时代多边规训下的[[State Educational Sovereignty|国家教育主权]]侵蚀与[[Shadow State|影子国家]]现象。
 > - **理论问题** 坚决解构现代化理论与[[Human Capital Theory|人力资本理论]]将后发国家“欠发展”归咎于内部技术性“缺失”或管理不善的虚伪修辞；揭示全球教育不平等本质上是帝国主义剥削与资本主义积累矛盾的地缘产物。
 > - **理论类型** 宏观历史政治经济学[[Critical Theory|批判理论]]与比较教育社会学解释框架；构成战后比较教育第四代际“批判冲突与跨国宏观[[Paradigm|范式]]”（Discourse 4, 1970–1990）的核心支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
@@ -111,15 +107,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 20 世纪 60 年代拉美社会科学家（Raúl Prebisch, Celso Furtado, Andre Gunder Frank, Theotônio dos Santos, Fernando Henrique Cardoso）反思[[Import Substitution Industrialisation|进口替代工业化]]受阻与外债危机提出依附论；卡诺伊（Carnoy, 1974）出版《作为文化帝国主义的教育》（*Education as Cultural Imperialism*），首次将依附论系统引入比较教育。
 > - **原初问题** 为什么第三世界国家在二战后获得政治独立且经历大规模教育扩张后，不仅未能实现欧美式普遍繁荣，反而深陷严重的社会阶级极化、外债危机与对西方宗主国的技术依附？
 > - **理论资源与材料** 马克思列宁主义帝国主义论、拉加经委会（CEPAL）不等价交换理论、葛兰西[[Hegemony|文化霸权]]学说，以及对亚非拉殖民教育遗产的实地历史考察。
 > - **形成路径** 从最初批判宗主国与殖民地的“文化帝国主义”与“心灵奴役”，逐步深化至剖析外围依附性国家机器的运作机制，揭示跨国资本如何通过国际金融组织（如[[World Bank|世界银行]]）对受援国实施结构性规训与政策渗透。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
 > - **1974 — 学科文化帝国主义奠基** 卡诺伊（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
@@ -147,8 +139,6 @@ updated: 2026-10-22
 > | 文化帝国主义与心灵奴役 | 概念 | 指称西方通过教育标准、评估体系与意识形态输出，使边缘群体自觉认同并内化从属地位的软支配机制。 |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一｜拒绝现代化理论的内部“缺失”假定，教育欠发展是资本主义世界体系中心-边缘结构性支配的直接产物
 > **解释** 现代化理论与[[Human Capital Theory|人力资本理论]]将第三世界国家的落后视为管理能力不足、技术落后或财政匮乏的“发展缺失”，倡导通过照搬西方现代制度消除差距。依附理论彻底推翻此项假设，指出欠发展的本质是资本主义中心国家为了汲取剩余价值，在世界范围内强制确立的不平等劳动分工与[[Geopolitics|地缘政治]]从属。卡扎米亚斯指出，这一批判彻底打破了将学校视为[[Value Neutrality|价值中立]]育人机构的传统幻想。跨国援助机构推广的教育革新，实质上固化了既有的中心-边缘与国内阶层分层。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
@@ -178,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释后发国家教育改革中的结构性不平等、跨国[[Policy Borrowing|政策借用]]异化、[[Educational Privatisation|教育私有化]]冲击、全球南方大学学术边缘化以及非政府组织外包困境。
 > - **分析对象与单位** 资本主义世界体系与国际多边组织借贷条件；受援国中央与地方教育财政预算；公立与私立学校质量分流数据；高校[[Knowledge Production|知识生产]]制度与学术评价指标。
@@ -197,8 +185,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -215,8 +201,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能将所有发展中国家面临的教育管理低效或财政困境均简单归咎为外部帝国主义阴谋；必须结合本土历史文化制度与阶级结构开展具体分析。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

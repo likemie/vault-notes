@@ -39,13 +39,9 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Zawacki-Richter AI in Higher Education Framework
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 高等教育与广泛教学环境中人工智能技术的多维应用形态、功能层级与学生全生命周期支持机制。
 > - **理论问题** 回应人工智能教育应用（AIEd）研究长期存在的“重技术开发、轻教学法整合”、“概念泛化与应用边界模糊”等学科痛点。
 > - **理论类型** 系统分类理论与教学法[[Analytic Framework\|分析框架]]（Taxonomical & Pedagogical Analytical Framework）。
@@ -67,8 +63,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题与机制
-
 > [!claim] 命题一　学生全生命周期支持的三层服务架构
 > 人工智能在高等教育中的整合跨越院校管理服务、学术教学支持与学生发展服务三大纵深层面：
 > 1. **院校与管理支持层** 优化招生录取、排课规划与保留率预测；
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > > | **智能导学系统（[[Time Series Design\|ITS]]）** | 产生式规则系统、认知架构、[[Dialogue in Education\|对话]]大语言模型 | 步骤级即时纠错、[[Socrates\|苏格拉底]]式启发提问、拟真对话辅导 | Cognitive Tutor, ASSISTments, ChatGPT 教学助手 |
 
 ---
-
-## 方法论与实证应用价值
 
 > [!warrant]- 为什么宏观[[Meta-analysis\|元分析]]必须依托该框架
 > 1. **提供标准化的[[Independent Variable\|自变量]]编码体系** 在对繁复的一阶元分析进行二阶合成时，避免将不同技术简单打包为黑箱，提供了统一的[[Operationalization\|操作化]]分类准则。

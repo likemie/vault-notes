@@ -41,13 +41,9 @@ created: 2026-05-18
 updated: 2026-10-22
 ---
 
-# Corporate Education
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 企业教育（corporate education）是由企业为其雇员提供或资助的教育和培训活动。[[EU|欧盟]]将企业教育定义为"以获取新能力或发展和提升现有能力为首要目标、且至少部分由企业为其雇员提供资金支持的培训措施或活动"（EU, cited in Hartmann, 2022, p.180）。
 
 > [!quote|notitle]
@@ -85,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > - 所有受访的德国 MNCs 都尝试在海外分支建立[[Apprenticeship|学徒制]]（[[German Dual Education System\|双元制]]），但均遇到重大困难，表明 IVET 高度依赖国家层面的复杂非市场制度安排([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.185]])
 > - 超过 50% 的 MNCs 提供全球高潜力人才培训项目，管理培训的国际化程度最高
 > - 国际型 MNCs（高整合、低本地响应）倾向于提供高度标准化的学校型企业教育，以在整个公司内确保合规；这类公司总部多位于美国或其他[[Varieties of Capitalism|自由市场经济体]]（LMEs）([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.187–188]])

@@ -33,10 +33,6 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-# Making the Familiar Strange
-
-## 定义
-
 > [!def] 核心定义
 > "使熟悉变陌生"（Making the Familiar Strange）是 Delamont（1981）提出的[[Ethnography\|民族志研究]]策略，用于克服研究者（以及参与者）因过于靠近研究情境而忽视某些往往隐性方面的认知盲区。当研究者长期沉浸于一个熟悉的社会环境——如学校——时，容易将许多日常实践视为理所当然，从而无法识别其中蕴含的研究价值。该策略通过刻意改变观察视角来打破这种"熟悉性盲区"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 452)]]
 

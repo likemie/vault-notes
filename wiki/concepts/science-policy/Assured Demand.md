@@ -57,11 +57,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Assured Demand
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **确定性需求（Assured Demand / 保证性需求）** 是指公共部门通过法律合同、长期预算配额与具有约束力的前瞻性采购协议，为技术尚未完全成熟、早期单位成本极高的新兴颠覆性产品或工艺提供 100% 或大比例托底的初始市场，从而彻底消除企业在[[Research Translation|技术转化]]与产业化初期面临的商业化买单不确定性（Commercial Market Uncertainty）的政策与市场机制。该机制由[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）在考察战后美国半导体与计算机工业演进时正式确立，是[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]], 2011）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Mariana Mazzucato]], 2018）等学者剖析[[Demand-side Innovation Policy|需求侧创新政策]]与[[Market Shaping and Creating|市场塑造]]时倚重的核心微观动力学支柱。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 6–10)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 165–168)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 确定性需求机制与传统创新政策工具辨析
 > | 比较维度 | 确定性需求（Assured Demand） | 供给侧研发资助（R&D Push） | 普惠性税收优惠（Tax Credits） |
 > |:---|:---|:---|:---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **对市场格局的塑造** | 坚持技术指标择优发包，打破既有寡头垄断，培育敏捷新创企业。 | 资金往往向具有雄厚申报资质的老牌成熟大企业集中。 | 偏向具有稳定盈利记录的成熟企业。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 确定性需求拉动产业跃升的三大核心机制
 > - **首发市场全额兜底（100% First-Buyer Underwriting）** 在技术商业化元年，公共采购全额包揽产业总产值（如 1962 年美军包揽 100% 集成电路产值，1954 年军方包揽 100% 计算机市场），承担早期高昂试错溢价。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 确定性需求核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 确定性需求概念演进历程
 > - **1950s–1970s — 战后微电子与计算机工业实践原型** 美国国防部与 [[National Aeronautics and Space Administration|NASA]] 在晶体管、集成电路与大型机启动阶段实施 100% 采购托底，为概念确立提供历史土壤。
 > - **1978 年 — [[Jerome E. Schnee|施尼]]提出“保证需求”理论命题** 施尼（[[Argument_Schnee_1978_RP|Schnee, 1978]]）在《政府项目与高技术产业成长》中正式提炼“确定性需求（Assured Demand）”概念，系统定量分析其与[[Learning Economy|学习经济]]的微观结合。
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > - **2018 年 — 融入使命导向与[[Market Shaping and Creating|市场共创]]政策体系** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）将确定性采购作为市场塑造与共创[[Paradigm|范式]]的核心支柱，指导当代绿色脱碳公共采购实践。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -174,8 +160,6 @@ updated: 2026-10-22
 > 确定性需求政策的有效性高度依赖公共采购机构的专业技术鉴别能力与透明开放的发包程序；若采购指标脱离民用商业潜在需求（如超音速客机 SST 案例），或缺乏多厂商竞争机制，确定性采购可能退化为低效的财政黑洞。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 21–22)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 确定性需求拉动美国微电子产业演进的历史指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

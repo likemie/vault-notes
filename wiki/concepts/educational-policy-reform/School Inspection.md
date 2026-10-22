@@ -98,11 +98,7 @@ created: 2026-09-11
 updated: 2026-10-22
 ---
 
-# School Inspection
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学校督导（School Inspection）指由国家或地方政府法定授权的外部独立专门机构，依据预设的质量评估标准框架，通过现场进驻、推门听课、师生访谈、查阅档案与数据核验等综合手段，对中小学校的办学质量、教学效能、管理规范及法定合规状态开展系统审查、发布评级或诊断报告并触发相应行政响应的制度化外部评价机制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；[[Argument_Dedering_2009_EERJ\|Dedering, 2009]]）。在国际比较视野中，学校督导主要呈现三大治理[[Paradigm\|范式]]：一是英美体系下的**高利害惩罚性外部问责（Punitive External Accountability）**，强调单一等级评定、公开点名与强制托管转制；二是欧洲大陆（如德国各联邦州）模式下的**全域过程性质量诊断与支持（Diagnostic & Supportive School Monitoring）**，作为国家教育监测体系的核心支柱，通过对全量学校开展涵盖输入、过程与产出的全景视导，为单体薄弱学校改进与教育行政部门资源配置提供精准实证依据（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, pp. 485]], 494）；三是[[Output-Oriented Governance\|产出导向治理]]现代化演进出的**目标协定与对话协商型督导（Target-Agreement & Dialogical Inspection）**，以[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（Schulqualität Allgemeinbildung, SQA）为典型代表，督学由单向稽查者转向专业咨询伙伴，通过定期开展成效核算与目标协定对话（Bilanz- und Zielvereinbarungsgespräche），将国家质量标准转化为单校自主改进的发展合约（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019, pp. 19–20]]）。
@@ -256,8 +252,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -272,8 +266,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变与[[Paradigm|范式]]转移
 > - **19 世纪中叶 — 专业视导与国家顾问起源** 英国 1839 年设立女王督学（HMI），督学扮演国家与地方学校之间的温和顾问（Critical Friend），主要职责在于调查学校状况、提供专业建言并促进良好实践传播。
 > - **1980–1990 年代 — [[New Public Management|新公共管理]]与集中规制转向** 伴随撒切尔主义与新公共管理兴起，英国 1992 年设立独立于教育部的 [[Ofsted]]，欧洲各国相继成立中央督查署；督导职能从“同行指导”剧变为“量化审查、公开排列表与四级等级裁定”。
@@ -285,8 +277,6 @@ updated: 2026-10-22
 > - **2019 年至今 — 新治理工具成效缺失反思与[[Epistemology|认识论]]解构** 德语区学者系统揭示学校督导在单体学校层面陷入“成效缺失”（mangelnde Effekte）的治理现实，指出督导外部诊断向校内行动转化的非线性特质与“理论-实践问题”的历史重现，呼吁打破中层督导机构的研究空白并吸纳国际政策执行[[Complexity Theory|复杂性理论]]（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11–12]]）；同时，英国学者深入解构督导评级被异化为道德侧步的修辞机制（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]），推动各国反思单一等级制并呼吁重归诊断性与合作式同行支持。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理权衡
 >
@@ -321,8 +311,6 @@ updated: 2026-10-22
 > > - **公共问责异化论** 尖锐指出营利性企业承接督导必然面临商业利益与公共裁判标准的深层冲突；督导资质成为企业谋取海外咨询合同与创收的背书工具，危及教育治理的公正底线（Cardini, 2006；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 343–344]]）。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 关键实证测量与态度参数
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

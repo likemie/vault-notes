@@ -51,11 +51,7 @@ created: 2026-08-25
 updated: 2026-10-16
 ---
 
-# Watson-Glaser Critical Thinking Appraisal
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Watson-Glaser [[Critical Thinking]] Appraisal（WGCTA）
 > - **工具类型** 标准化能力测试（Standardized Cognitive Ability Test）。
@@ -64,8 +60,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔测试或计算机机考（限时或非限时施测），题项基于真实情境材料。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Abilities）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -80,16 +74,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 每个分测验提供若干由段落材料支撑的情境，后附若干待评判的陈述句。
 > - **作答格式** 客观[[Multiple-Choice Questions\|多项选择题]]（二选一、三选一或五选一）。
 > - **计分与常模** 各分测验得分求和生成[[Critical Thinking\|批判性思维]]总分，可转换为标准百分位等级（Percentile Ranks）或标准分。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -100,8 +90,6 @@ updated: 2026-10-16
 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | WGCTA 经典版 | 政策与评价实践综述，考察通用领域标准化批判性思维测验在高等教育评价中的应用与局限 | 领域通用批判性思维客观测验 | 指出 WGCTA 等标准化多项选择题虽具备高[[Reliability\|信度]]与常模可比性，但在测度开放生成性思考与真实学术情境中的推理表现时存在[[Construct\|构念]]代表性不足 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

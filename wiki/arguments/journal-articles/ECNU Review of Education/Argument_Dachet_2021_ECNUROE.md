@@ -66,7 +66,6 @@ citation_aliases:
   - "Dachet & Baye, 2021"
   - "Dachet & Baye (2021)"
 ---
-# Argument_Dachet_2021_ECNUROE
 
 > [!info] [[Research Question\|研究问题]]
 > 法语比利时这样一个过去很少鼓励证据本位[[Paradigm\|范式]]、[[Qualitative Research\|定性研究]]影响较强、教育系统又面临绩效与公平压力的地区，如何把[[Evidence-Based Education\|证据本位教育]]逐步嵌入一场正在进行的系统改革？这个问题的核心不是“EBE 是否应当被采纳”，而是“当本地缺少大量经过实验验证的项目时，[[Evidence-Based Reform\|证据本位改革]]还能以什么形式推进”(pp.165-166, 170-171)。
@@ -80,8 +79,6 @@ citation_aliases:
 > - 方法：叙事[[Case Study\|案例研究]]。研究以法语比利时正在进行的[[Pact for Educational Excellence\|教育卓越公约]]为案例，分析改革阶段以及作者所在研究中心在改革工作中的连续参与(p.164)。
 > - 资料来源：改革文本、工作组过程、教学工具/项目清单、结构性改革方案，以及作者团队参与 [[Evidence-Based Education\|EBE]] 报告、方法类型学和项目验证工作的过程材料(pp.170-181)。
 > - [[Analytic Framework\|分析框架]]：先把计划中的结构改革与可获得教育研究证据比较，再用 Slavin 的三项杠杆判断改革在多大程度上接近[[Evidence-Based Reform\|证据本位改革]](pp.171, 179-181)。
-
-## 论证结构
 
 > [!example] 核心论证
 > 论证可以拆成“压力来源 → 改革窗口 → 证据检验 → 本地约束 → 妥协性制度化”五步。
@@ -122,9 +119,7 @@ citation_aliases:
 
 因此，[[Pact for Educational Excellence|教育卓越公约]]不是一个已经成熟的证据本位改革，而是一个妥协性制度化过程：它把证据语言写进官方文本，建立项目验证的最低标准，推动研究者与实践者合作，并开始为实验评价提供法律和财政基础(pp.181-182)。
 
-## 主要发现
-
-> [!success|notitle] 主要发现
+> [!success] 主要发现
 > 1. 法语比利时[[Pact for Educational Excellence\|教育卓越公约]]正式把 [[Evidence-Based Education\|EBE]] 引入改革语言，2017 年官方建议承认本系统中 EBE 几乎不存在，并提出试点、验证、扩大有效项目(p.171)。
 > 2. 结构性改革与证据之间关系不均衡：共同核心延伸和教师培养延长有一定研究支持，能力本位、定向取向和学校日历改革证据较弱，降低[[Grade Retention\|留级]]目标则低于既有证据可能支持的改革力度(pp.171-174)。
 > 3. 本地教学工具/项目证据基础非常薄弱，425 个候选项目中只有 13 个采用实验设计测试，占约 3%(p.175)。

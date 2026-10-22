@@ -66,8 +66,6 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Discovery Learning
-
 ---
 
 ## 定义
@@ -175,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -223,8 +219,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -256,8 +250,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] 光的折射定律引导式发现设计（de Jong & Lazonder, 2014）
 > 在物理课堂中，教师并不直接给出斯涅尔折射定律公式 $n_1 \sin\theta_1 = n_2 \sin\theta_2$。而是让学生登录[[Computer Simulation\|计算机模拟]]虚拟实验室，通过鼠标拖动光束在空气、水和玻璃界面的入射角滑块。系统右侧提供数据表格支架，引导学生记录入射角与折射角并尝试计算两者的比值。当学生发现角度比并非定值时，系统弹出提示引导学生尝试计算正弦值之比 $\sin\theta_1 / \sin\theta_2$。学生在观察三组介质数据后自发发现正弦比恒定的规律。最后由教师进行规范数学证明与介质折射率定义。学生在此过程中既体验了科学家的发现兴奋，又在支架约束下高效建构了核心概念。
 
@@ -277,8 +269,6 @@ updated: 2026-10-22
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述援引 Alfieri et al. 164 项[[Meta-analysis\|元分析]]彻底澄清洗脱发现学习的纯发现污名。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri et al.（2011）的[[Meta-analysis\|元分析]]与 Mayer（2004），区分无指导与有指导发现，确立有支架的发现学习在概念建构上的优势。

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Student Depression
-
 > [!metax] [抑郁 · Depression](https://www.visiblelearningmetax.com/influences/view/depression)
 > 学生 › 情绪
 >

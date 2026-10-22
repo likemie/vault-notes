@@ -56,13 +56,9 @@ created: 2026-10-10
 updated: 2026-10-21
 ---
 
-# Two Problematics of Educational Inclusion and Exclusion
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 现代教育改革与政策治理中，“包容”（Inclusion）与“排斥”（Exclusion）如何在宏观制度结构与微观知识[[Discourse|话语]]双重层面上交织生成。
 > - **理论问题** 传统自由主义与[[Positivism|实证主义]]政策研究长期将“教育排斥”窄化为入学机会不足、资源短缺或社会代表性失衡，忽视了看似崇高和普惠的包容性改革政策，往往在其内部推理系统与分类规则中内生性地生产出对边缘人群的深层否定与文化排斥。
 > - **理论类型** 教育社会学[[Critical Theory|批判理论]]、社会[[Epistemology|认识论]]（Social Epistemology）[[Analytic Framework|分析框架]]。
@@ -159,8 +155,6 @@ graph TD
 4. **印度拉巴里游牧部族与定居[[Boarding Schools|寄宿学校]]** 在公平-参与层面，国家在边疆兴建公立[[Boarding Schools|寄宿学校]]以提供免费入学指标；但在知识问题式层面，国家将寄宿学校明确用作消解部族流动性、强推[[Sedentarism|定居主义]]（Sedentarization）的同化工具；拉巴里家庭则展现出反向能动性，策略性将单个儿子送入寄宿学校作为生计风险的“保险单”，用以对冲外部文字盘剥（Dyer, 2001; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 367]]）。
 
 ---
-
-## 方法论与学术价值
 
 > [!warrant]- 对比较教育学[[Paradigm|研究范式]]的批判性推动
 > 1. **超越“黑箱”式的政策评估** 警惕仅凭宏观统计报表（入学率、师生比）来宣告教育平等实现的浅层分析，敦促研究者深入课程知识、评价体系与师生互动的隐性分类图式；

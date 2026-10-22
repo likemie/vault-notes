@@ -64,8 +64,6 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Standing Conference of the Ministers of Education and Cultural Affairs
-
 ---
 
 ## 机构定位与宗旨

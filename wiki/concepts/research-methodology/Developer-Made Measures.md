@@ -68,11 +68,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Developer-Made Measures
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **开发者自编测验（Developer-Made Measures / Researcher-Made Measures）** 是指在教育干[[Pilot Testing\|预实验]]与教学效果评估中，由方案的研发者、商业出版机构或课题研究团队自行编制，未经过国家公信力认证与大规模独立标准化的[[Academic Achievement\|学业成就]]测量工具。实证研究与[[Systematic Review\|系统综述]]表明，这类测验通常高度贴合特定干预材料中的词汇表、特定解题套路或离散知识点，导致实验组表现出虚假的超额优势，平均将学业[[Effect Size\|效应量]]人为虚夸 50% 至 100%（例如将标准测验中真实的 $+0.20$ 膨胀至 $+0.50$ 以上）。在现代[[Evidence-Based Education\|循证教育]]治理中，强效清算中心（[[What Works Clearinghouse\|WWC]]）、[[Evidence for ESSA]] 以及英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等独立证据审查平台均已建立刚性质量准则，严格排除开发者自编测验作为确证性因果评级的合法依据，强制要求统一采用独立的第三方标准化测验或州统一统考数据。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 3–4, 10)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 测量工具类型与因果证据效度辨析
 > | 比较维度 | 开发者自编测验 (Developer-Made) | 独立标准化测验 (Standardized) | 州/国家统一学业统考 (State Assessments) |
 > |---|---|---|---|
@@ -105,8 +99,6 @@ updated: 2026-10-22
 > | **法定证据审查准入** | 完全排除（[[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]] 与 [[Education Endowment Foundation\|EEF]] 均不予采纳） | 完全接纳（作为法定强与中等证据的核心判据） | 完全接纳（最具外部政策说服力的宏观结局指标） |
 
 ---
-
-## 核心要素
 
 > [!feature] 自编测验偏误的产生机制与审查规程
 > - **内容过度对齐（Overalignment）** 自编测验题目往往直接抽样自实验教材的特定章节或训练例题；对照组学生即便掌握了同等学科能力，也会由于未接触特定词汇或表达形式而在测验中表现劣势。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 10)]]
@@ -152,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 开发者自编测验核心命题归纳
 > | 命题类型 | 核心理论指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,8 +152,6 @@ updated: 2026-10-22
 > | **构念敏感度命题** | 自编测验在高阶认知任务中具备常规考卷缺失的深层构念敏感度，避免了常规测验的测量钝化 | 复杂认知与认识论干预、深层概念转变与论证表现评估 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]测验工具类型[[Interaction Effect\|调节效应]]
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

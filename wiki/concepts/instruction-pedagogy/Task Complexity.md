@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Task Complexity
-
 > [!metax] [任务复杂度 · Task complexity](https://www.visiblelearningmetax.com/influences/view/task_complexity)
 > 教学策略 › 学习意图
 >

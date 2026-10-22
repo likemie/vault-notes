@@ -54,11 +54,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# ARPANET
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 阿帕网（Advanced Research Projects Agency Network, ARPANET）是由[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）于 1960 年代末出资建立的全球首个分布式分组交换计算机广域网络，是现代互联网与分布式协同计算的直接技术原型，亦是美国[[Technological Republic|技术共和国]]国家战略资助前沿科学突破的旗舰典范。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
@@ -70,8 +66,6 @@ updated: 2026-10-22
 > - **核心问题导向** 解决冷战核威胁与战时指挥通信脆弱性，实现跨地域异构大型主机之间的计算资源共享与鲁棒的分布式容灾通信。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 通过摆脱传统电信垄断机构的专有线路交换模式，采用基于无中心分布式分组交换（Packet Switching）与异构网关互联的技术路线，并将核心通信协议置于公共领域（Public Domain），以零许可壁垒的大规模先导网络催生高度竞争的软硬件生态。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–40)]]
@@ -89,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1960年代初–1968年 — 理论奠基与先导发包** 利克莱德提出[[Man-Computer Symbiosis|人机共生]]与分布式网络蓝图，伦纳德·克兰罗克与保罗·巴兰建立分组交换理论；1968 年底 [[DARPA]] 将首批接口信息处理机（IMP）研制合同授予麻省理工学院教授创立的新兴工程企业博尔特-贝拉内克-纽曼（BBN）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **1969年–1975年 — 原型联网与网络跨域扩散** 1969 年秋实现 UCLA 与 SRI 之间的首次数据包传输；随后网络以指数级速度接入斯坦福、哈佛、MIT 等名校与军工实验室，至 1975 年实现超过 100 处异构学术节点联网。
@@ -99,8 +91,6 @@ updated: 2026-10-22
 > - **1990年代至今 — 商业化浪潮与技术责任反思** 1990 年代互联网全面走向商业化与民用消费市场，虽然创造了巨大的数字经济繁荣，但也促使硅谷逐步脱离国家重大战略责任，暴露出消费主义与去国家化的深层张力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 2, 14–15)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[DARPA|国防高级研究计划局]]（DARPA），负责整体战略立项、研发经费全额注资与去中心化管理协调。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
@@ -117,8 +107,6 @@ updated: 2026-10-22
 > | **[[Innovation Ecosystem\|创新生态]]塑造** | 零许可壁垒促进软硬件厂商自由进入，催生全球性通用基础设施 | 难以在商业市场上形成具有全球[[Competitiveness\|竞争力]]的独立软件与网络产业集群 |
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **确立互联网非专利开放架构底座** 卡恩与瑟夫在 [[DARPA]] 资助下将 TCP/IP 规范公开且不申请专利，使这一开放标准成功击败了 IBM 的系统网络架构（[[Network Analysis|SNA]]）及数字设备公司（DEC）的 DECNET 等商业专有协议，确立了全球互联网开放标准基座。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 39)]]

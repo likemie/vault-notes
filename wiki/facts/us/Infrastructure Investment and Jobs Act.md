@@ -49,11 +49,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Infrastructure Investment and Jobs Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2021 年 11 月 15 日由美国总统乔·拜登（Joe Biden）签署生效（公法第 117-58 号）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > - **制度位置** 拜登政府现代美国产业战略（Modern American Industrial Strategy）的首个立法支柱，为后续《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act, [[International Reading Association|IRA]]）的先进制造业落地提供基础物理与数字网络支撑。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2, 11–13)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
 > **采购杠杆与基础设施现代化协同** 《基础设施投资与就业法案》（Infrastructure Investment and Jobs Act, IIJA，常称两党基础设施法案，Bipartisan Infrastructure Law, BIL）授权总计 1.2 万亿美元支出（含 5500 亿美元净新增联邦投资），在系统性更新道路、桥梁、公共交通、清洁水与电网基础设施的同时，通过纳入《建设美国、购买美国法》（[[Build America, Buy America Act]], BABA）及设立美国制造办公室（Made in America Office, MIAO）透明豁免机制，以公共采购为杠杆推动本土供应链重建。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
@@ -84,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2021-11-15** 拜登总统在白宫签署两党通过的《基础设施投资与就业法案》（Public Law 117-58）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **2022-04** 白宫管理与预算办公室（OMB）发布实施 [[Build America, Buy America Act|BABA]] 的初步指导原则，启动 MIAO 统一豁免审查平台。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
@@ -93,8 +85,6 @@ updated: 2026-10-22
 > - **2023–2024** 各州交通与水务部门全面推进项目招投标，数万个公路、桥梁、宽带与电网工程进入实质性施工。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国国会两党多数派与总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > - **动态豁免与持续调整** MIAO 设立在线透明公示系统，对市场暂无法稳定供应的物资发放有明确期限的豁免，并在豁免期内持续监测本土产能爬坡进度，形成需求牵引、适度缓冲与渐进本土化的治理机制。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 联邦交通部（DOT）、能源部（[[Department of Energy|DOE]]）、白宫美国制造办公室（MIAO）与各州交通运输局 — 掌控万亿美元级基建资金分配、项目立项审批与采购合规裁定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
@@ -138,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 1.2 万亿美元总预算（5500 亿美元净新增直接投资）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 11)]]
 > - **过程指标** [[Build America, Buy America Act|BABA]] 豁免申请与审查数量、公共工程招投标周期、本土供应链企业签约率。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
@@ -155,8 +141,6 @@ updated: 2026-10-22
 > - **55%** BABA 规定的制造产品中本土零部件成本占总产品成本的最低法定比例。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

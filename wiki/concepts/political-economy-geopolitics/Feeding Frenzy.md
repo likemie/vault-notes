@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Feeding Frenzy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 捕食狂欢（Feeding Frenzy）是政治传播学与媒介社会学中的经典概念，由政治学家拉里·J. 萨巴托（Larry J. Sabato）在《捕食狂欢：攻击性新闻业如何改变美国政治》（*Feeding Frenzy: How Attack Journalism Has Transformed American Politics*, 1991/1993）中系统提出。该概念借用鲨鱼群闻到血腥味后疯狂撕咬猎物的生物学意象，指现代大众媒体与新闻记者在面对公职候选人或政治人物的微观私人瑕疵、道德传闻或八卦丑闻时，所展开的群体性、全天候且极具毁灭性的围剿式报道狂欢。该机制实质上将公共政治报道的重心从对政策纲领与治理能力的严肃考察，转向对私人道德纯洁性的显微镜式审查。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–62)]]; (Sabato, 1993, p. 211)
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 捕食狂欢的三大运作机制
 > - **羊群效应与议程劫持** 一旦某家媒体曝出争议细节，其余主流媒体为防落后迅速跟进，导致严肃的政策讨论被完全挤出公众视线。
 > - **私德与公职能力的非理性等同** 媒体与受众预设“公共伟大等同于私人无瑕”，对公职人员数十年前的个人琐事施加无休止的道德审判。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–62)]]
@@ -89,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -104,8 +96,6 @@ updated: 2026-10-22
 > - **2020年代 — 社交网络放大与管理阶层空洞化** 卡普等学者指出，数字算法时代的全天候审判已不仅作用于政界，更蔓延至[[Grandes Ecoles|大学校]]长与企业高管，制造了普遍不敢承担原则代价的空洞管理层。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60–65)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

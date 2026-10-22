@@ -63,11 +63,7 @@ created: 2026-07-24
 updated: 2026-10-22
 ---
 
-# Item Response Theory
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 项目反应理论（Item Response Theory, IRT；又称潜在特质理论 Latent Trait Theory）是现代心理与教育测量学的核心量化建模方法体系。该方法假设个体的可观测测验反应由不可直接观测的潜在特质（Latent Traits, $\theta$）与测验题目的内在计量属性（难度、区分度、伪猜测率）共同决定的非线性数学概率函数所支配；其核心计量突破在于实现了**题目参数估计的样本无关性（Sample Invariance）** 与**受试者能力估计的测验题目无关性（Item Invariance）**，为跨时空测验等值、[[Computerized Adaptive Testing\|计算机自适应测验]]（Computerized Adaptive Testing, CAT）与大规模国家教育监测题库标定提供了根本方法学支撑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持潜在特质实在论与概率测量观，主张人类复杂的心理认知属性是连续的隐[[Variable\|变量]]，虽然不可直接肉眼观测，但能够通过概率数学模型从外显行为反应模式中精确反推。
 > - **研究者角色** 研究者需在测验编制前严格界定[[Construct\|构念]]维度，并在建模过程中对单维性、局部独立性与模型拟合度做出严谨的形式化检验与参数约束。
@@ -103,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序与模型算法
-
 > [!proc] IRT 标准实施程序
 > 1. **[[Construct\|构念]]界定与题库编制** 明确界定潜在特质内涵，编写覆盖不同认知层级的大规模候选试题池。
 > 2. **预试与基本假设检验** 施测大样本预试数据，运用探索性/[[Confirmatory Factor Analysis\|验证性因子分析]]检验**单维性假设（Unidimensionality）** 与**局部独立性假设（Local Independence）**。
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > 4. **项目拟合诊断与题库清洗** 剔除严重偏离特征曲线、存在作弊猜测干扰或具有群体偏倚（[[Differential Item Functioning|DIF]]）的不良题目，建立高质量标定题库。
 > 5. **量表链接与等值转换** 运用共同题或共同被试设计，将不同试卷或不同施测年份的参数统一转换到国家标准基准量尺上（如将均值标定为 500，标准差标定为 100）。
 > 6. **个体能力估计与信息函数输出** 基于最终题本计算被试能力值 $\theta$ 及对应能力点上的测验信息量，生成分级报告与自适应施测路径。
-
-### 量化模型与公式步骤
 
 > [!proc]- IRT 量化建模与自适应施测流程
 > ```mermaid
@@ -181,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景与实证应用
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   1. **国家与跨国大型教育监测（[[PISA]]、[[TIMSS]]、[[Vergleichsarbeiten\|VERA]]）** 不同国家或学生作答不同试卷模块（[[Matrix Sampling]]），依靠 IRT 共同题实现跨国横向与历时纵向绝对可[[Commensuration\|通约]]等值。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
@@ -195,8 +183,6 @@ updated: 2026-10-22
 >   - 日常几十名学生的班级期中随堂测验（CTT 百分制足以满足[[Feedback\|教学反馈]]需求）。
 
 ---
-
-## 局限性与批评
 
 > [!method-limits] 方法局限与风险
 > - **严苛的模型数学假设依赖** 单维性与局部独立性假设在真实复杂教学情境中常难以绝对满足；若题目间存在上下文阅读材料依赖或题组效应（Testlet Effects），会导致[[Standard Error\|标准误]]被严重低估。
@@ -221,8 +207,6 @@ updated: 2026-10-22
 > | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 剖析 IRT 在德国教育标准跨尺度[[Data Infrastructure\|数据基础设施]]中实现[[Governing at a Distance\|远处治理]]的文献。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011)]] — 系统阐释 IRT 基本原理、潜在特质假设、题目属性与样本独立性、Rasch 模型及 CAT 算法。

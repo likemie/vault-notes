@@ -35,18 +35,13 @@ status: draft
 created: 2026-06-07
 updated: 2026-10-22
 ---
-# Gilbert Ryle
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Gilbert Ryle (1900–1976) 是英国哲学家，以其 1946 年的会长演讲「[[Procedural Knowledge\|knowing how]] and Knowing That」闻名。该演讲提出了[[Knowledge-that and Know-how-to\|知其然]]与知其所用的经典区分，对[[Epistemology\|认识论]]和教育哲学产生了深远影响（Ryle, 1946, 引自 [[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]）。
 
 ---
-
-## 核心思想
 
 > [!tip] [[Knowledge-that and Know-how-to\|知其然]]与知其所用的区分
 > Ryle (1946) 区分了两种知识形式：知其然（knowledge-that）是关于某事是什么的命题性知识，知其所用（know-how-to）是关于如何做某事的应用性知识。这一区分成为[[Curriculum Design Coherence Model\|课程设计连贯性模型]]的理论基础之一（引自 McPhail et al., 2023）。

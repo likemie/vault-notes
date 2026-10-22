@@ -36,13 +36,9 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Self-Continuity, Self-Distinctness, and Self-Agency
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 自我连续性（self-continuity）、自我独特性（self-distinctness）和自我能动性（self-agency）是 Damon and Hart（1997）提出的 I-Self 的三个构成维度。这三个维度描述了人在发展自我理解时最核心的心理需要——我们是谁、为何独特、能做什么——也因此成为文化价值嵌入个体身份认同的主要通道。
 
 > [!abstract|notitle]
@@ -55,9 +51,7 @@ updated: 2026-10-22
 
 ---
 
-## 理论基础
-
-> [!tip|notitle]
+> [!tip] 理论基础
 > ### 与 I-Self / Me-Self 的关系
 
 这三个维度源自 William James（1892）对自我的两分法。James 将自我区分为 I-Self（主我，即认识者——进行识别、观察、判断、设定目标和采取行动的那一面）与 Me-Self（客我，即被认识的内容——自我描述和自我特征刻画）。用当代隐喻来说，I-Self 是作者或讲故事的人，Me-Self 是故事中的角色（Nakkula & Toshalis, 2006，转引自 [[Argument_Li_2012_Cambridge|Li, 2012, p.337]]）。
@@ -75,9 +69,7 @@ updated: 2026-10-22
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > **移民群体中的文化持久性**。研究反复证明，移民群体即使在多代之后仍然保留了母文化的基本价值观和学习信念。第三代和第四代日裔美国人仍然强烈认同勤奋和其他[[Learning Virtues\|学习美德]]，尽管在社交规范层面已经大量涵化（acculturated）（Schneider et al., 1994，转引自 [[Argument_Li_2012_Cambridge\|Li, 2012, p.335]]）。这一现象之所以可能，是因为文化价值观通过自我连续性、自我独特性和自我能动性嵌入了个体的身份认同——这些价值观定义了"我是谁、我来自哪里、我擅长什么"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.337-340]])。
 
 > [!success|notitle]

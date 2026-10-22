@@ -50,11 +50,7 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
-# Social Impact Investing
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **社会影响力投资（Social Impact Investing / Impact Investing）**，是指投资者将资本有意识地配置于能够产生明确可测量的积极社会与教育效益、同时获取一定财务本金回收或商业利润回报的投资[[Paradigm|范式]]（Nicholls et al., 2015）。它起源于华尔街与伦敦金融城对“双重底线”（Double Bottom Line，即兼顾商业回报与社会价值）的追求，将风险投资（Venture Capital）与私募股权的审慎尽职调查、高参与度管理介入及量规审计逻辑系统引入公共服务与社会政策领域。在教育政策实践中，影响力投资催生了两大典型运作模式：一是以**社会影响力债券（Social Impact Bonds, SIBs）** 与成果导向合同为核心的金融证券化模式，将学校[[Academic Achievement|学业表现]]或辍学率降幅直接与投资人分红挂钩；二是以**高参与度[[Venture Philanthropy|风险慈善]]（High-Engagement Venture Philanthropy）** 为核心的公益创投模式，通过严密里程碑考核与外部专业咨询强行重塑基层学校治理。批判学者指出，这一范式实质上构成了公共教育深层金融化与隐性私有化的关键杠杆。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520, 524, 526)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64, 76–80)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 投资与资助形态辨析
 > | 维度 | 社会影响力投资（Social Impact Investing） | 传统商业投资（Commercial Investing） | 传统无偿慈善赠款（Charitable Grants） | 公共财政直接拨款（Public Funding） |
 > |---|---|---|---|---|
@@ -94,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **私市股权与风投纪律导入（Private Equity & VC Disciplines）** 将严格的尽职调查（Due Diligence）、投资组合管理、流动性控制与退场机制系统引入公共教育与公益资助领域。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, p. 520)]]
 > - **高介入度管理与董事会渗透（High-Engagement Governance）** 投资机构不限于提供资金，而是派遣专业顾问入驻受助学校董事会，以“能力建设”为名重组学校组织架构与决策流程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–63)]]
 > - **成果量规与指标证券化（Metric Commodification & Securitisation）** 复杂的教育全人成长被简化为单一因果指标（如测试分数或出勤率提升），并将其直接折算为政府应向投资者支付的溢价分红基准。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, p. 524)]]
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -174,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 社会资本高效动员 vs 公共福利商业剥削
@@ -194,8 +182,6 @@ updated: 2026-10-22
 > 社会影响力投资必须依赖发育极其成熟的资本市场、具备量化审计能力的第三方专业评级中介以及愿意承担按成果买单的主权政府；在缺乏可靠因果量化指标、成果周期极长或公共财政禁止向私营资本支付溢价利息的法域中，该投资模式难以实际运转。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 社会影响力投资在教育与公共治理中的实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

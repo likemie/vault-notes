@@ -54,11 +54,7 @@ created: 2026-07-26
 updated: 2026-10-22
 ---
 
-# Creativity, Action, Service
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 创意、行动、服务（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的核心要素。它让学生在学科课程之外参与创意表达、身体活动和社区服务，并通过真实任务、持续参与与反思，把学术学习扩展为责任、协作和行动能力的发展。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18, 22)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 三个领域通过真实任务和反思形成整体
 > - **创意** 艺术、戏剧、音乐、写作和探索性设计等活动，重点是产生、修改和表达想法，而不只是观看成品。
 > - **行动** 身体锻炼、户外挑战、体育与救援，既可培养体能与坚持，也可要求学生在风险中协作并承担责任。
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > - **持续反思** 学生需要识别服务对象的需求、自己的动机与行动后果，不能只计算参与时数。
 
 ---
-
-## 制度形态与实施机制
 
 > [!claim] CASS 首先是一项保护时间的课程规章
 > IB 早期把该要求称为创造、审美与社会服务（Creative, Aesthetic and Social Service，CASS），其直接问题不是如何给活动评分，而是在大学录取竞争下，如何防止艺术、身体活动、直接经验和社会服务被学术备考完全挤出。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）要求每所报考学校保证学生每周有等值半天不被学术课表占用，用于创意、审美、活动或社会服务；具体组合由学校发展，[[United World Colleges\|联合世界书院]]等学校的投入超过这一最低线。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45–46)]]
@@ -124,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 从保护非学术时间到形成可记录的经验课程
 > - **1960 年代后期　先保护时间** [[International Baccalaureate|IBO]] 要求学校每周保留等值半天，避免艺术、身体活动、直接经验和社会服务被大学入学备考挤出。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 45–46)]]
 > - **1970 年代　学校开始地方化共同框架** 莫希[[International Schools|国际学校]]用自力更生连接医疗、农场和公共工程；Bellaire 高中则把学生自我组织作为责任与就业准备。
@@ -160,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证资料
-
 > [!ref-table]- 1984–1985 年 CASS 调查暴露了信息缺口和跨文化差异
 > | 观察 | 章内证据 | 可支持的判断 | 证据边界 |
 > |---|---|---|---|
@@ -174,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] 大西洋学院的海上救援把训练、协作与公共责任合并为一项真实任务
 > 1985 年 3 月一个星期六凌晨 3:30，一艘 30 英尺船只在阿伯塔湾外发出求救信号。大西洋学院的近岸救生艇组和海岸警卫组接到召集，两艘学院船只与巴里救生艇、灯塔管理机构船只、两艘渔船及直升机共同搜寻。四名落水船员被救起，其中两人由学院 B 艇救起。该案例的教育价值不在于危险本身，而在于学生必须把长期训练、团队纪律和对他人生命的责任用于真实紧急情境。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 184)]]
 
@@ -183,8 +169,6 @@ updated: 2026-10-22
 > 一名社会工作者向学生解释，在老人院、医院或处境不利儿童学校中，学生可能觉得聊天、下棋或玩桌游非常平常，对被探访者却可能是一周中最期待的时刻。这类服务要求学生放下对刺激与成就感的追求，学会站在对方角度判断价值，并克服与陌生人建立关系的不安。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 185)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > - **系统性实践脱节** 在国家课程、高利害大学入学考试和 [[IB Diploma Programme|IBDP]] 并行的学校中，课业压力、课表僵化、教师协作时间不足和反思机制单一，容易使 [[Chinese Academy of Sciences|CAS]] 退化为孤立任务，未能与学科教学、[[Theory of Knowledge|TOK]] 和 EE 形成连贯。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 221, 226)]]

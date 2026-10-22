@@ -67,13 +67,9 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Symbiotic Framework of Adaptive Epistemic Stances
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 学习者与[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）交互时的[[Epistemic Cognition\|认识论认知]]机制、[[Knowledge Building Theory|知识建构]]过程与人机权能分配模式。
 > - **理论问题** 生成式大模型输出的流畅性与打包性易导致学习者产生盲目顺从与[[Cognitive Offloading\|认知卸载]]，传统个体[[Epistemology\|认识论]]发展理论无法解释人机技术中介下[[Epistemic Agency\|认识能动性]]的重构与分化。
 > - **理论类型** 整合解释性机制与教学干预维度的学习科学理论框架。
@@ -84,15 +80,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 巫俊宇（Jiun-Yu Wu）、李元萱（Yuan-Hsuan Lee）、柴清生（Ching Sing Chai）与[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）于 2025 年在 *Educational Researcher* 发表专论 *Strengthening Human [[Epistemic Agency]] in the Symbiotic Learning Partnership With [[Generative Artificial Intelligence]]*。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 > - **原初问题** 生成式大模型（如 [[General Purpose Technology|GPT]]-4.5、Gemini 2.5、Claude 3.5）提供了高度整合且流畅的知识解答，弱化了学习者自主检索、筛选和[[Assemblage\|组装]]信息的必要性，引发了人类主体可能丧失认识能动性的普遍担忧。
 > - **理论资源与材料** 汲取 Tsai (2004) 关于网络学习[[Epistemology\|认识论]]的两大经典假说、[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 与 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 的[[Epistemic Stances\|认识论立场]]三阶段模型（绝对论、多元论、评价论）、Scardamalia (2002) 的集体认识责任理论，并结合大学生使用 ChatGPT 解决统计推论[[Homework\|作业]]的微观交互对[[Discourse|话语]]料。
 > - **形成路径** 将网络搜索引擎时代基于自主信息筛选的认识论模型，重塑为生成式大模型时代基于对话质询、批判检验与[[Man-Computer Symbiosis|人机共生]]的自适应认识立场框架，推导出两大修订核心命题。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
 > - **2004 年 — 网络学习认识论奠基假说** Tsai (2004) 提出学习者[[Epistemological Beliefs\|认识论信念]]调节网络教学获益，且网络教学反向塑造认识论信念，为技术富集环境下的认识论研究奠定基石。
@@ -112,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜不同[[Epistemic Stances\|认识立场]]的学习者在与[[Generative Artificial Intelligence\|生成式人工智能]]交互中获得差异化的认知增益（修订假说一）
 > **解释** 该命题由 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 对 Tsai (2004) 第一假说修订而成。生成式系统输出的是高度凝练的整体性答案。具有丰富先验知识且持评价论立场的学习者，能够主动对大模型提出的算法、模型与公式进行多源验证、上下文约束检验并开展多重视角辩护，获得深层理解增益；而先验知识匮乏且持绝对论立场的学习者，倾向于将大模型视为绝对权威或将教材讲义作为唯一标准，容易不加批判地直接接受模型输出或陷入盲信，导致认知处理停留在表层。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–364)]]
 >
@@ -125,8 +115,6 @@ updated: 2026-10-22
 > **应用实例** 教师要求学生将 ChatGPT 生成的学科方案与两篇同行评审实证期刊进行[[Chain of Evidence\|证据链]]交叉比对（教学支架），并指令大模型逐步展示推理依据与潜在反例（技术策略），引导学生从被动采信转变为主动评估证据强度。
 
 ---
-
-## 转化为分析框架
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 诊断学习者在[[Generative Artificial Intelligence\|生成式人工智能]]支持学习环境中的人机交互质量、[[Epistemic Stances\|认识论立场]]表现及主体权能维系状态。

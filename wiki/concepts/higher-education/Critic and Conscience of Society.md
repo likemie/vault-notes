@@ -55,11 +55,7 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-# Critic and Conscience of Society
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **社会的批评者与良知（Critic and Conscience of Society）** 指大学在自由民主社会中承担独立批判和公共良知使命的法定本质特征。该概念由英国教育社会学者[[Gerald Grace|杰拉尔德·格雷斯]]（Gerald Grace）于 1988 年提出，后被纳入加里·霍克（Gary Hawke）主持的《[[Learning for Life Report|为生活而学习报告]]》（*Learning for Life*, 1989 年 2 月），并最终写入新西兰《1989 年教育法》（*Education Act 1989*）第 162 条，成为界定大学法定特性的核心条款。其制度意图在于保障大学基于严谨、公正与客观的学术研究向执政权力讲真话（speak truth to power），充当抵御政党意识形态、[[New Managerialism|新管理主义]]与行政殖民的权力制衡机制。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 批评角色与知识分子形态辨析
 > | 维度 | 本概念（社会的批评者与良知） | 学术领域批评者（Critic in an Academic [[Champ\|Field]]） | 公共知识分子（Public Intellectual） |
 > |---|---|---|---|
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **法定制度特征（Statutory Mandate）** 确立为大学区别于一般培训机构与官僚科研所的法定本质特征，受高等教育立法与[[Academic Freedom|学术自由]]制度的刚性保护。[[Argument_Grace_2010_NZJES|(Grace, 2010, pp. 89–90)]]
 > - **权力制衡与讲真话（Speaking Truth to Power）** 在自由民主社会中承担制衡执政党派、国家行政力量与[[New Managerialism|新管理主义]]渗透的独立功能，揭露公共政策背后的意识形态偏见。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
 > - **公正实证与学术严谨基石（Rigorous Scholarship as Foundation）** 批评权威源于系统、公正、经得起检验的学术与实证研究，防止滑向缺乏学理依据的党派政治站队。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 89)]]
@@ -152,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-22
 > - **2017 — 领导力论辩中的反向援引** 哈蒂在回应[[Scott Eacott|斯科特·伊科特]]（Scott Eacott）的[[Cult of the Guru|大师崇拜]]批评时，援引该法定概念论证自身接纳同行公开争鸣与教学应用的行为，形成关于该概念实践[[Paradigm|范式]]的新一轮争鸣。[[Argument_Hattie_2017_SLM|(Hattie, 2017, pp. 427–428)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -70,11 +70,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Knowledge Mediation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识中介（Knowledge Mediation）指将证据生产者与使用者汇聚在一起、旨在促进两者产生实质联结与理解的有意识努力（Gough et al., 2011, p. 23; [[Argument_Torres_2022_KMModels|Torres, 2022b, p. 34]]）。在教育系统与循证政策生态中，知识中介不单纯等同于静态信息的分发，而是涵盖跨界连接、意义转译、信任撮合、需求诊断与长期协作机制维系等复合功能。它与“[[Knowledge Production|知识生产]]”和“知识使用”共同构成现代研究[[Knowledge Mobilisation|知识动员]]生态系统的三大基础构件（Levin, 2013; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 40–41]]）。
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识中介 vs. [[Policy Brokerage\|政策中介]] vs. [[Knowledge Mobilisation\|知识动员]]
 > | 维度 | 知识中介（Knowledge Mediation） | [[Policy Brokerage\|政策中介]]（Policy Brokerage） | [[Knowledge Mobilisation\|知识动员]]（Knowledge Mobilisation） |
 > |---|---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | **主要理论渊源** | Gough et al. (2011); Levin (2013) | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; Kingdon (1984) | Cooper (2014); Campbell et al. (2017); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识中介的核心功能构件
 > - **跨界沟通与转译（Cross-boundary Translation）** 将晦涩复杂的原始学术统计报告转译为一线教师和决策官员可理解、可操作的实践指南与概念透镜（[[Argument_Nelson_2017_EducRes|Nelson & Campbell, 2017, p. 130]]）。
@@ -189,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -211,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 中介者的“[[Value Neutrality|价值中立]]”与权力[[Gatekeepers|守门人]]争议
@@ -228,8 +216,6 @@ updated: 2026-10-22
 > > - **实证批判学者（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 12]]）** 指出制度化中介组织常面临双重脱节风险：一方面被大学科研指责缺乏严格的方法学严谨性与理论纵深，另一方面被中小学一线教师指责过于官僚化、脱离真实的日常教学情境，沦为封闭运作的行政科层缓冲带。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

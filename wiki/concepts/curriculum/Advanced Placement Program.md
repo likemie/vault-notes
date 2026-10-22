@@ -34,11 +34,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# Advanced Placement Program
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 大学先修课程项目（Advanced Placement Program，AP）是美国大学理事会（College Board）面向高中生提供的大学水平单科课程与外部考试体系。考试主要用于大学分班或学分，而非高中毕业或大学入学资格；学生可以选择自己擅长或感兴趣的科目参加。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 136, 139–140)]]
@@ -48,14 +44,10 @@ updated: 2026-10-22
 > - **用途** 为有能力的高中生提供学术挑战，并向大学证明可提前进入更高阶段学习。
 > - **边界** AP 是可按科选择的课程与考试组合，不等同于覆盖整个高中课程的共同文凭。
 
-## 概念演变
-
 > [!dev-timeline] 从提前升学压力到外部高级课程
 > - **1950 年代中期　项目形成** 福特基金会对优秀学生提前进入大学的讨论、[[Sputnik Shock 1957\|Sputnik]] 后的学术竞争焦虑，以及高中担心优秀学生提前离校，共同推动 AP 雏形确立。
 > - **1970 年　规模化实施** 约 55,000 名学生参加三小时 AP 考试，在高中阶段完成被界定为大学水平的学习。课程大纲比英国普通教育证书高级程度考试更少规定，但同样以外部课程和考试影响教学。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, Ch. 6, p. 136)]]
 > - **1970 年代后　成为 IB 的制度接口与竞争对象** AP 负责人早期进入[[International Baccalaureate\|国际文凭]]理事会，帮助 IB 获得北美承认；学校随后在扩展 AP 与引入 IB 之间比较单科挑战、完整课程、国际标准和实施成本。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, Ch. 6, pp. 136, 139–140)]]
-
-## 核心要素
 
 > [!feature] 制度要素
 > - **单科选择** 学生按兴趣、能力和学校开课情况选择一门或多门高级课程。
@@ -63,8 +55,6 @@ updated: 2026-10-22
 > - **大学分班** 成绩主要用于进入大学后的分班或学分认定，而不是替代完整高中毕业资格。
 > - **地方嵌入** 学校可把 AP 加入既有荣誉课程，不必重组全部高年级课程。
 > - **大学预备与公平干预载体** 在当代美国基础教育治理中，AP 课程与针对性应试辅导常被贫困率较高的高中作为弥合大学准备度差距（College Readiness）的核心工具，地方教育机构（LEA）广泛利用联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿性资金为低收入学生采购 AP 备考材料与针对性辅导服务。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 170)]]
-
-## 与国际文凭的关系
 
 > [!contrast-table] AP 与 IB 的课程单位
 > | 维度 | AP | [[International Baccalaureate\|IB]] |
@@ -80,8 +70,6 @@ updated: 2026-10-22
 > AP 允许学校从一门强势学科开始，学生也可以只参加一门考试，因此采用决定能够停留在学科或学生层面。IB 完整文凭则要求六个学科组、共同核心和两年进程同时运作；外语准备往往要向前延伸四年，数学及其他学科也需要低年级课程为文凭阶段铺路。两者都借助外部考试建立可比标准，但 AP 主要提高单科上限，IB 更可能推动学校纵向重排课程。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 139–140)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 北美规模与课程单位的比较
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

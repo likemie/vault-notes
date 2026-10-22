@@ -64,11 +64,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Difference-in-Differences
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **双重差分法（Difference-in-Differences，简称 DID）** 是计量经济学与实证教育政策研究中最核心的准实验因果识别方法之一。其基本思想是：在缺乏人为[[Random Assignment\|随机分配]]的情况下，利用外生政策冲击在时间维度与人群维度的自然差异，分别计算处理组在政策出台前后的纵向变动量，以及对照组在同期内的纵向变动量，进而通过**两次做差（差分的差分）** 剥离宏观时间趋势与固有群体差异，识别出政策本身的净因果效应（Net Causal Effect）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 > *“In 2019, the EEF opened the 'Researching School Choices' funding stream... exploiting naturally occurring policy changes and variations using longitudinal data from the National Pupil Database (NPD). Quasi-experimental designs, including difference-in-differences and propensity score [[Matching]], enable rigorous evaluation where randomisation is not feasible.”*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 遵循[[Counterfactual\|反事实]][[Causality\|因果推断]]框架。认为虽然非实验数据中存在不可忽视的遗漏[[Variable\|变量]]偏误，但只要未观测的混杂因素在时间维度上保持恒定（Time-Invariant Unobserved [[Heterogeneity]]），便可通过组间横向差异与组内时间纵向差异的代数正交消除偏误。
@@ -110,16 +104,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **界定政策冲击与组别边界** 明确政策发布的具体时间节点（或不同学校分批采纳的时间表），清晰界定受政策影响的处理组与未受影响的潜在对照组。
 > 2. **组建纵向长面板数据库** 链接政策出台前若干年（建议至少 3 期以上）与出台后的微观学业产出及学校控制[[Variable\|变量]]。
 > 3. **前置平行趋势检验（事前动态分析）** 运用事件研究法估计政策实施前各期的动态交互项，检验事前趋势是否在统计上不显著异于零。
 > 4. **拟合双向[[Fixed-Effect Model|固定效应]]双重差分模型** 纳入个体/学校固定效应与时间固定效应，加入时变协变量矩阵，估计政策净因果效应 $\beta_{\text{DID}}$。
 > 5. **稳健性与[[Heterogeneity\|异质性]]诊断** 执行安慰剂政策时间检验、伪处理组伪造检验，并针对多时期交错实施检查负权重与异质性处理效应偏误。
-
-### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 包含 $i$ 个个体（或学校）在 $t$ 个时间周期的平衡或非平衡面板数据。
@@ -174,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 宏观体制与办学机制变革（如英格兰学校转制为多学院信托 MAT、公立学校特许化改革）；
@@ -190,8 +178,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **偏误来源**
 >   - **时变未观测混杂（Time-Varying Confounders）** 若处理组在政策落地的同时遭遇了其他未被观测到的外部扶持或生源变动，DID 会将此额外冲击误判为政策效应。
@@ -201,8 +187,6 @@ updated: 2026-10-22
 > - **补救方式** 绘制事件研究动态路径图；采用最新的[[Heterogeneity\|异质性]]稳健估计量（如 Callaway & Sant'Anna 方法）；联合[[Propensity Score Matching\|倾向得分匹配]]构建匹配双重差分（PSM-DID）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -233,8 +217,6 @@ updated: 2026-10-22
 > | [[Researching School Choices]] | 实践载体 | [[Education Endowment Foundation\|EEF]] 设立的依托 DID 等准实验评估宏观学校办学决策的重大资助流。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用双重差分法与[[Propensity Score Matching\|倾向得分匹配]]评估学校宏观体制选择的因果成效。

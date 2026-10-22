@@ -50,11 +50,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Ernesto Schiefelbein
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 智利著名教育经济学家、教育统计测量权威与政策实践者，曾任智利教育部长、[[UNESCO|联合国教科文组织]]拉丁美洲及加勒比地区教育办事处（OREALC/UNESCO）主任。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1981 — *Desarrollo y Educación en América Latina: Síntesis General***（[[UNESCO]]/CEPAL/PNUD 联合报告核心起草人）首次系统汇总了 1960–1970 年代拉美中高等教育创世界纪录扩张与初等文盲长期停滞的宏观对比数据。[[Argument_Olmos_Torres_2009_StateTheories|(UNESCO/CEPAL/PNUD, 1981; Olmos & Torres, 2009, p. 81)]]
 > - **1998 — *Financing Education for Democracy in Latin America*** 系统提炼拉美四十年教育民主化演进的五大指标，并从公共财政角度探讨摆脱债务危机的出路。[[Argument_Olmos_Torres_2009_StateTheories|(Schiefelbein, 1998; Olmos & Torres, 2009, pp. 81–82)]]
@@ -87,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 席费尔拜因的核心思想在于**坚持以扎实可靠的宏观教育统计为基础，评估国家在履行教育民主承诺中的真实制度作为**。他充分肯定了拉美国家在战后数十年间通过普及学额、延长学制和消除法定阶级分轨所取得的客观历史进步；但与此同时，他的实证调查也清晰揭露：若缺乏持续充足的公共财政支持和针对弱势儿童的精准早期关照，单纯的学额扩张极易在资本积累放缓与外部债务紧缩中发生畸变，沦为高阶文凭繁荣与底层文盲并存的断裂结构。
 
 > [!citation-card] 拉美战后四十年教育民主化的五项客观成就

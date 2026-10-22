@@ -47,11 +47,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Prediction Interval
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Prediction Interval\|预测区间]]（Prediction Interval, PI）是指在[[Random-Effects Model\|随机效应模型]]（Random-Effects Model）的[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]中，**同时综合汇总[[Effect Size\|效应量]]的[[Standard Error\|标准误]]（[[Sampling Error\|抽样误差]]）与研究间真实[[Heterogeneity\|异质性]]方差（[[Between-Study Variance]], $\tau^2$）**，用以量化估计**在未来某个单一全新实证情境或特定研究总体中，真实[[Effect Size\|效应量]]落入该区间的预期概率范围（通常为 95%）** 的统计推断指标（Higgins et al., 2009; Borenstein et al., 2009, 2017; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 5, 8, 10]]）。
@@ -72,8 +68,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Confidence Interval\|置信区间]]（CI） vs 预测区间（PI）
 > | 比较维度 | 置信区间（Confidence Interval, CI） | 预测区间（Prediction Interval, PI） |
 > |---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-16
 > | **实证决策价值** | 回答“该干预平均而言在宏观上是否有效？” | 回答“如果我在我的特定学校实施该干预，效果预期有多大波动？” |
 
 ---
-
-## 核心统计模型与数学公式
 
 > [!formula-step] [[Random-Effects Model\|随机效应模型]] 95% 预测区间计算公式
 > $$\text{PI}_{95\%} = \hat{\mu} \pm t_{0.025, \, \text{df}} \sqrt{\operatorname{SE}(\hat{\mu})^2 + \hat{\tau}^2}$$
@@ -124,8 +116,6 @@ updated: 2026-10-16
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -133,8 +123,6 @@ updated: 2026-10-16
 > | **二阶宏观情境敏感性** | 宏观二阶元分析预测区间跨越 0，证实[[Creativity Training\|创造力干预]]效果对微观教学情境高度敏感 | 创造力教学实施、二阶[[Effect Size\|效应量]]解释 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Kraft (2020) |
 
 ---
-
-## 元分析实证案例表
 
 > [!ref-table] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] [[Creativity\|创造力]][[Meta-meta-analysis\|二阶元分析]]各亚组[[Confidence Interval\|置信区间]]与预测区间对照表
 >

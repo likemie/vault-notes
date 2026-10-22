@@ -42,11 +42,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Community College Strategic Anchoring
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **社区学院战略产业锚定模式（Community College Strategic Anchoring / Regional Skill Hub Model）** 是指将覆盖广泛大众的公立社区学院与地方高等教育网络，深度嵌合于国家战略性先进制造基地与区域高科技产业集群的发展路径；通过引入产业端先进制造设备捐赠、校企联合开发开放式模块化技术员课程，以及打通短期资格培训与学位教育的学分立交桥，将地方教育机构重塑为支撑国家[[Industrial Commons|产业公地]]与技术供应链的区域技能枢纽。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–55)]]
@@ -76,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **前沿制造设备共建共享** 战略制造企业直接向学院捐赠或低成本租借晶圆制造机台与生物反应器等实体硬件。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
 > - **区域学院联盟协同课程** 跨区域统筹多所社区学院联合开发开放式技术员模块化课程体系，破除单校孤立开发壁垒。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 55)]]
 > - **多方利益主体生态对齐** 地方政府激励、先锋科技企业投资与地方教育机构深度对齐，形成良性劳动力生态。
@@ -109,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -124,8 +116,6 @@ updated: 2026-10-22
 > - **2026 — 战略锚定与区域技能枢纽模式确立** 《科学：新黄金时代》总结俄亥俄与得克萨斯实践，正式将社区学院战略产业锚定作为国家[[Innovation Ecosystem|创新生态]]四大支柱之一。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 53–55)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

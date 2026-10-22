@@ -47,11 +47,7 @@ aliases:
   - Alvin Martin Weinberg
 ---
 
-# Alvin Weinberg
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿尔文·马丁·温伯格（Alvin Martin Weinberg，1915–2006），美国著名核物理学家、科学哲学家与国家科技政策先驱；[[Manhattan Project|曼哈顿计划]]（Manhattan Project）核心科学家，1955 至 1973 年担任美国橡树岭国家实验室（Oak Ridge National Laboratory, ORNL）主任长达 18 年，后任美国能源分析研究所首任所长。
@@ -63,8 +59,6 @@ aliases:
 
 ---
 
-## 核心学术思想与理论构件
-
 > [!feature] 温伯格科技政策思想的三大支柱
 > - **[[Big Science|大科学]]机构的组织特质与“使命漂移”困境（Mission [[Institutional Drift|drift]] in Big Science）** 在《大科学的思考》（1967）中指出，第二代使命机构（如核能与航天实验室）通常采取比大学更严格的垂直层级制以攻关特定技术难题；但在初始使命达成后，由于科研人员的职业惯性与学术偏好，组织往往退守于“无方向的基础科学研究”（Undirected Basic Research），从而失去与新兴社会难题（如环境污染、城市衰退）对接的敏感性与再配置能力。（pp. 794–795）
 > - **科学选择标准（Weinberg Criteria for Scientific Choice）** 在 1963/1964 年经典论文中提出国家资助科学的两大基准：
@@ -73,8 +67,6 @@ aliases:
 > - **技术解决手段与社会复杂性的张力（Technological Fix vs. Social Complexity）** 指出技术突破（如疫苗、避孕药、新能源技术）虽然能够以较低成本绕过复杂的政治社会博弈提供局部解法，但无法根本替代制度变革与社会系统重构。
 
 ---
-
-## 跨代际理论映射
 
 > [!contrast-table] 温伯格[[Big Science|大科学]]诊断在使命导向政策理论中的承接
 >
@@ -86,8 +78,6 @@ aliases:
 > | **解决边界** | 警惕过度依赖技术解决手段忽视社会制度。 | 强调技术创新必须与规制、标准及公众行为变革深度融合。 |
 
 ---
-
-## 代表性著作
 
 > [!dimension] 代表性著作年表
 > - **1967** 《[[Big Science|大科学]]的思考》（*Reflections on Big Science*. Oxford: Pergamon Press）

@@ -39,11 +39,8 @@ status: draft
 created: 2026-07-19
 updated: 2026-10-22
 ---
-# Stephen Kemmis
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚教育研究者，与 Carr、McTaggart 并列为[[Emancipatory Action Research\|批判性行动研究]]的核心理论家。
@@ -66,8 +63,6 @@ updated: 2026-10-22
 > | [[Critical Theory]] | 理论 | 与 Carr（1986）将哈贝马斯的知识构成性兴趣和[[Ideal Speech Situation\|理想言说情境]]系统应用于行动研究 |
 
 ---
-
-## 核心思想
 
 > [!claim] [[Action Research\|行动研究]]本质上是集体性批判实践
 > Kemmis 的核心主张贯穿三阶段：首先，行动研究不能退化为个体主义——合作性是批判动力的[[Necessary and Sufficient Conditions\|必要条件]]（Kemmis & McTaggart, 1992, p. 15）；其次，行动研究不仅是实践改进，更是对制度性约束的批判分析，旨在改变学校和社会结构（Kemmis, 1997, p. 177）；第三，行动研究存在多个学派，从"[[Reflexivity\|反思性]]实践"（Elliott, Schön）到"[[Emancipatory Action Research\|批判性行动研究]]"（Carr & Kemmis, 1986），两者在"赋权"的含义上有根本分歧——前者指向专业自主，后者指向社会民主。

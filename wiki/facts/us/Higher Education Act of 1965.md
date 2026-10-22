@@ -49,11 +49,7 @@ created: 2026-09-17
 updated: 2026-10-16
 ---
 
-# Higher Education Act of 1965
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1965 年 11 月 8 日由林登·约翰逊（Lyndon B. Johnson）总统在其母校西南得克萨斯州立[[Normal School\|师范学院]]签署生效（公法编号：P.L. 89-329），由美国第 89 届国会通过。
@@ -62,8 +58,6 @@ updated: 2026-10-16
 > - **制度位置与功能定性** 属于美国联邦高等教育治理的根本母法，与主管中小学基础教育的《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》并立为 1965 年联邦教育立法的两大基石支柱。在制度功能上，HEA 属于典型的“服务支出规制法案”（Service Statute）：其立法核心在于为受助高校和机构使用联邦公共资金提供教育服务划定合规边界；在后续再授权过程中，该法亦吸收了 1998 年《[[Reading Excellence Act|卓越阅读法]]》确立的“[[Scientifically Based Research|科学本位研究]]”模式，要求师资培训等受资助项目必须证明其采购方案符合严格实证假设检验。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法案确立了联邦政府在全美高等教育领域的资助与监管基座，创设了以佩尔助学金、联邦低息学生贷款、勤工助学及院校能力建设为核心的资助体系，以第四分编学生资助准入资格作为牵引高校办学合规与质量保障的核心法定杠杆。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
@@ -87,8 +81,6 @@ updated: 2026-10-16
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 母法演进与历次重大重新授权
 > - **1965** 约翰逊总统签署高等教育法（HEA, P.L. 89-329），确立第一至第七分编，启动联邦大学生财政资助时代。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 > - **1972** 国会通过教育法修正案（Education Amendments of 1972），对 HEA 实施里程碑式再授权，创设基础教育机会助学金（BEOG，后更名为佩尔助学金 Pell Grants），奠定了基于经济需求（Need-Based）的直接无偿助学金支柱；同法包含著名的 Title IX 反性别歧视条款。
@@ -98,8 +90,6 @@ updated: 2026-10-16
 > - **2010年代至今** 围绕 HEA 的下一次全面再授权，国会两党在大学问责制、大学可负担性（College Affordability Act）及债务减免机制上展开了旷日持久的博弈，历经多届国会两会期仍未达成妥协，充分印证了巨型法案立法审议长周期的制度特征。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与立法监督** 美国国会参议院卫生、教育、劳工与养老金委员会（HELP）与[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]（Education and the Workforce Committee）负责立法审议与再授权把关。
@@ -111,8 +101,6 @@ updated: 2026-10-16
 > - **从单纯规模扩张到可负担性与债务问责** 早期政策重在资金可及性，支持更多工薪阶层青年入学；随着学费持续飙升与全美学生债务危机凸显，政策博弈焦点全面转向毕业生就业收益、高校债务违约率及按偿付能力还款方案。
 
 ---
-
-## 评价与影响
 
 > [!summary] 制度地位与政策时间学启示
 > 1. **塑造美国高等教育大众化与多元化** HEA 彻底终结了美国高等教育专属于精英阶层的历史格局，数千万低收入家庭学子凭借佩尔助学金与联邦贷款得以完成学业，同时使黑人高校与发展中院校获得了长期稳定的联邦制度扶持。

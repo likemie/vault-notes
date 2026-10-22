@@ -30,11 +30,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# Virtual Documents
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 虚拟文献（virtual documents）指通过互联网以数字形式访问的[[Primary and Secondary Documents\|一手文献]]——即"一点鼠标即可获取"的历史或当代文献（Guardian, 2003）。它们是文献数字化和在线档案扩散的产物，在保持一手文献的内容特征的同时，改变了文献的物质载体和访问方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(pp. 11–12)]]
@@ -46,8 +42,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 虚拟文献的四个核心特征
 > - **数字可访问性（digital accessibility）** 研究者无需前往实体档案馆即可在线获取文献内容，大幅降低了[[Documentary Analysis\|文献研究]]的时间和旅行成本（Crook, 2000）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(p. 12)]]
 > - **研究价值（research VALUE）** 大多数虚拟文献对研究者具有实质价值，它们使原本难以接触的一手材料变得广泛可及，拓展了文献研究的范围和深度（Crook, 2000）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(p. 12)]]
@@ -55,8 +49,6 @@ updated: 2026-10-22
 > - **物质性的丧失（loss of materiality）** 许多历史学家并不完全信服数字文献的优点，指出它们失去了原始纸质文献的直接性和物质感。Schama（1999）反思道：屏幕上的扫描件与发黄的纸页在手的感觉，对历史理解而言可能是两种不同的认知体验。这一批评揭示了虚拟文献的一个根本局限——数字化再现无法完全传递[[Primary and Secondary Documents\|原始文献]]的物质、触觉和空间信息。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(p. 12)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 数字可及性与物质性的张力
 > - **数字化的便利（蓝方）** 虚拟文献使研究者能够迅速访问全球档案资源，大幅拓展了[[Documentary Analysis\|文献研究]]的可能性边界。大多数虚拟文献对研究有价值（Crook, 2000）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12\|(p. 12)]]

@@ -60,11 +60,7 @@ created: 2026-06-29
 updated: 2026-10-22
 ---
 
-# Knowledge Diplomacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识外交（Knowledge Diplomacy）由[[Jane Knight|简·奈特]]（Jane Knight）系统界定，指通过国际高等教育、科学研究与创新合作来建立、强化和维护国家间关系的外交理念与实践形态。其核心在于超越传统的[[Soft Power|软实力]]地缘博弈逻辑，依托互信、互惠与平等协商，构建非零和的多边合作机制，以跨国学术协同共同应对全球面临的重大生存危机与发展挑战。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]；[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 691–692)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1698)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 知识外交、[[Soft Power|软实力]]与[[Knowledge Power|知识权力]]的理论辨析
 > | 比较维度 | 知识外交（Knowledge Diplomacy） | [[Soft Power\|软实力]]（Soft Power） | [[Knowledge Power\|知识权力]]（Knowledge Power） |
 > |---|---|---|---|
@@ -96,8 +90,6 @@ updated: 2026-10-22
 > | **典型代表案例** | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（UASR） | 传统国家形象推广与单向留学生项目 | [[Asian Universities Alliance\|亚洲大学联盟]]（AUA） |
 
 ---
-
-## 核心要素
 
 > [!feature] 知识外交的核心构成要素
 > - **互信互惠的合作基础** 坚持双向平等的对话协商，摒弃自上而下的单向知识输出，在共同科研攻关与人才培养中积累跨国社会资本。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 知识外交核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -171,8 +161,6 @@ updated: 2026-10-22
 > | **产学协同共生论** | 长期经济诉求与多边基建公共产品共生，通过四方协同实现能力自主发展 | 一带一路能源与交通基建跨国定向工程教育合作项目 | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 知识外交的概念发展脉络
 > - **2019–2021 — 概念系统化奠基**
@@ -189,8 +177,6 @@ updated: 2026-10-22
 >   朱柯锦与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）结合中柬跨境高等教育实证，主张将强调平等学术自主与跨国知识共享的知识外交，与揭示地缘现实中微观功利互动的新朝贡[[Analytic Framework|分析框架]]以及构想宏观共生秩序的[[Tianxia Heuristic|天下启发式]]深度融合，以破除自上而下行政主导导致的协议虚置困境，全面透视大国跨国高教战略的演进图景。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1052, 1054)]]
 
 ---
-
-## 争议与批评
 
 > [!critique] 外部批评与理论反思
 > - **国家中心主义视角的残留** 知识外交虽然倡导非零和理念，但其[[Analytic Framework|分析框架]]仍难以完全摆脱主权国家中心论，对大学自身能动性与跨国学术共同体的独立权力关系刻画仍有不足。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]

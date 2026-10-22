@@ -93,11 +93,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Systematic Review
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 系统综述（Systematic Review）是[[Research Synthesis|研究综合]]（Research Synthesis）的一种严密规范形式：要求运用最小化偏差的技术、遵循预设的协议检索原始研究文献、制定明确的纳入与排除标准、设立公认的方法学严谨性门槛、界定[[Research Scope|研究范围]]、依托多研究者团队协同筛选以降低主观偏差，并采用透明一致的方法整合多项研究成果以提炼严谨审慎的推论与政策建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp. 384–385]]）。这些程序化特征使系统综述从根本上区别于选择标准模糊、容易产生主观偏倚的传统叙事综述。
@@ -118,8 +114,6 @@ updated: 2026-10-22
 > *Systematic reviews require the use of techniques to minimize bias, they follow protocols and criteria for searching for relevant primary, usually empirical, studies, their inclusion and exclusion, the standards for acceptable methodological rigour, their relevance to the topic in question, the scope of the studies included, team approaches to reviewing in order to reduce bias, the adoption of a consistent and clearly stated approach to combining information from across different studies, and the careful, relevant conclusions and recommendations drawn.*
 
 ---
-
-## 方法定位
 
 > [!method-position] 认识论与方法定位
 > - **知识观** [[Positivism|实证主义]]（Positivism）与[[Postpositivism|后实证主义]]为主轴，强调知识的可积累性与真理逼近；通过系统化规程消除研究者主观偏倚。但在纳入标准界定、质性概念提炼与情境调节[[Variable|变量]]解释中，亦高度融合[[Critical Realism|批判实在论]]（Critical Realism）与[[Interpretivism|解释主义]]视角。
@@ -144,16 +138,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **界定研究问题与拟定注册协议（Protocol）** 运用 [[PICO Framework|PICO]]（人群、干预、对照、产出）或 SPIDER 框架精准界定研究边界，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（OSF）公开[[Preregistration|预注册]]研究方案，锁定方法学设计以规避事后数据窥探。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 32)]]
 > 2. **系统与穷尽式文献检索** 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色文献与未发表报告以遏制[[Publication Bias|发表偏倚]]。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 43)]]
 > 3. **双人独立筛选与质量风险评估** 至少两位独立评审员基于标题/摘要开展初筛，随后获取全文进行二阶深筛，计算[[Intercoder Agreement|编码一致性]]系数（Cohen's Kappa）；随后运用公认评估工具针对选择偏倚、实施偏倚、测量偏倚与损耗偏倚进行方法学质量评级。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 38)]]
 > 4. **结构化数据提取与证据综合** 提取样本特征、干预剂量、控制条件、测量工具及[[Effect Size|效应量]]数据；依据研究问题的认识论属性，选择开展定量[[Meta-analysis|元分析]]统计合并，或开展[[Thematic Synthesis|质性主题综合]]与实在论机制提炼。
 > 5. **提炼结论、评估确定性与编制报告** 运用 GRADE 等工具对证据体的整体确定性进行分级判定，清晰指出方法学局限，严谨推导政策与实践启示，严格对照 [[PRISMA]] 检查清单撰写规范技术报告。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -172,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 
 >   - 当某一实证研究领域历经多年发展积累了海量[[Primary and Secondary Documents|原始文献]]，实证结论出现严重分歧甚至矛盾，亟需厘清全局证据图谱时；
@@ -187,8 +175,6 @@ updated: 2026-10-22
 >   - 研究宗旨在于生成全新微观田野洞见或建构纯思辨哲学理论体系，而非综合已有经验证据时。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源与“垃圾进，垃圾出”困境** 检索策略漏检未公开发表成果将直接引发严重的[[Publication Bias|发表偏倚]]；纳入标准过严会导致有价值的[[Ecological Validity|生态效度]]研究被机械剔除，标准过宽则引入低质量研究污染证据体。Eysenck 针对元分析提出的“垃圾进，垃圾出”（Garbage in, garbage out）批评对系统综述同样构成挑战。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 35, 38)]]
@@ -221,8 +207,6 @@ updated: 2026-10-22
 > | [[Quality Use of Research Evidence Framework]] | 理论 | 将系统综述定位为高质量证据生产与转译的核心技术基底。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统综述的方法论权威教材，详述研究问题制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。

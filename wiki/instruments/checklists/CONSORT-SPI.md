@@ -69,11 +69,7 @@ created: 2026-09-14
 updated: 2026-10-16
 ---
 
-# CONSORT-SPI
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] CONSORT-SPI
 > - **工具类型** 方法学报告规范与偏倚核查清单（Checklist）。
@@ -88,8 +84,6 @@ updated: 2026-10-16
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] 教育与社会复杂干预报告规范
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -103,8 +97,6 @@ updated: 2026-10-16
 > | **其他透明度信息（Other Information）** | 3 | 试验正式注册编号、完整方案获取途径与[[Conflict of Interest in Research\|利益冲突]]声明 | 报告项二元核查（报告 / 未报告 / 不适用） |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 核查与报告规则
 > - **题项形式** 标准化方法学陈述核查条目（Checklist Items）。
@@ -131,8 +123,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -141,8 +131,6 @@ updated: 2026-10-16
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | CONSORT-SPI (2018) | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）前八年开展的 150 余项学校[[Randomised Controlled Trials\|随机对照试验]]（覆盖 14,000 余所学校与 158 万名学生） | 评估机构规范性与透明度质控标准 | EEF 自 2013 年起强制要求所有资助项目采用基于 CONSORT 建立的方案与报告模板，并在 2018 年与 CONSORT-SPI 标准完全对接；所有试验必须在 ISRCTN [[Preregistration\|预注册]]并在官网公开 SAP；无论结果是否显著均 100% 全量公开，彻底消除学术[[Publication Bias\|发表偏倚]]。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

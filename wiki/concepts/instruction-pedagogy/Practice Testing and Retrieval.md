@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Practice Testing and Retrieval
-
 > [!metax] [测验效应 · Effects of testing](https://www.visiblelearningmetax.com/influences/view/effects_of_testing)
 > 教学策略 › 反馈
 >

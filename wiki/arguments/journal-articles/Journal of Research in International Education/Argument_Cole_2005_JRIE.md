@@ -68,7 +68,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Cole_2005_JRIE
 
 ---
 
@@ -85,8 +84,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -98,8 +95,6 @@ issuing_organization: ""
 > 理论将课堂这一经验场景从“单纯的知识传递”提升为“意识形态与[[Ontology\|本体论]]博弈的现场”。通过对比[[Georg Wilhelm Friedrich Hegel\|黑格尔]]的“辩证否定与超越”同[[Baruch Spinoza\|斯宾诺莎]]的“肯定与内在”，文章将学生在 [[Theory of Knowledge\|TOK]] 课上的抵触情绪从“违纪”重新定义为“情感政治”的运作，进而推导出以想象力为基轴的后现代教育改革路线。
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -120,9 +115,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一：传统 IB 知识论面临的黑格尔式困境
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一：传统 IB 知识论面临的黑格尔式困境
 > IB 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的异化，使反思课程沦为市场体制下的工具技能训练。
 
 > [!chain-link] 证据到判断
@@ -138,9 +131,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二：解构权威——斯宾诺莎的情感政治与欲力 (Conatus)
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二：解构权威——斯宾诺莎的情感政治与欲力 (Conatus)
 > [[Baruch Spinoza\|斯宾诺莎]]的物质一元论消解了理智与情感的二元对立，为教育提供了以“[[Conatus\|欲力]]（Conatus）”为核心的内在性平面。在此平面上，一切诸如焦虑与反叛等负面情绪不仅不是应该被取消的违纪行为，反而是被掩盖的“情感政治”，必须通过想象力进行表征和重构。
 
 > [!chain-link] 证据到判断
@@ -156,9 +147,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三：超越市民社会与社会契约——“国际斯宾诺莎课程”的群体政治与后现代转向
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三：超越市民社会与社会契约——“国际斯宾诺莎课程”的群体政治与后现代转向
 > 传统的黑格尔式教化通过“否定”原则，最终服务于将个体（通过剥夺其自然权利）整合进以“需求系统（市场经济）”为基础的市民社会与契约国家；而[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]拒斥这种社会契约论，主张将课堂的负面情绪转化为生产力，以纯粹内在的“群体力量（potentia multitudine）”和想象力作为跨学科创新的后现代[[Feeder Mechanism\|滋养机制]]。
 
 > [!chain-link] 证据到判断
@@ -180,8 +169,6 @@ issuing_organization: ""
 
 ---
 
-## 核心案例
-
 > [!case] [[Theory of Knowledge\|知识论]]课堂的突破性学习（Breakthrough Learning）时刻
 > **背景**
 > 在[[International Baccalaureate\|国际文凭]]（IB）体系中，学生面临六门内容繁重、高度学术化的学科。习惯了这些科目中“被动接收与高效复制”的动态关系后，优等生在初次接触探究导向的 TOK（知识论）课程时，普遍遭遇严重的认知壁垒。本案例基于阿根廷圣乔治北校的 TOK 课堂实况观察。（p.211）
@@ -199,8 +186,6 @@ issuing_organization: ""
 
 ---
 
-## 概念对比
-
 > [!contrast-table] 核心哲学[[Paradigm\|范式]]的教育对立
 > | 比较维度 | [[Georg Wilhelm Friedrich Hegel\|黑格尔]]式教化（Hegelian Bildung） | [[Baruch Spinoza\|斯宾诺莎]]式内在（Spinozian Immanence） |
 > |----------|----------------------------------|---------------------------------------|
@@ -211,8 +196,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **理性规训阻碍了真实的批判反思** [[Theory of Knowledge\|TOK]] 课程如果延续[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的外在理性设定，必然在应试压力下退化为形式化的词汇表演和知识灌输，导致反思流于表面。（pp.212–213, 221）
 > 2. **情感与欲望是智识生成的本源** 课堂的负面情绪（反叛、虚无主义）不应被单纯纪律压制。只有通过想象力直面和转化这些[[Conatus\|欲力]]（Conatus），才能催生真正的知识论突破。（pp.214, 222）
@@ -220,8 +203,6 @@ issuing_organization: ""
 > 4. **国际课程应走向基于群体力量的解放** [[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]拒绝将教育终点窄化为培养市场工具与国家契约公民，主张通过激发群体的互动潜能，成为新知识的[[Feeder Mechanism\|动态滋养机制]]。（pp.218, 222）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 突破性学习的发生条件
 > 突破性的 [[Theory of Knowledge\|TOK]] 学习发生于治理教育行为的规范性规则被打破，并对构成学习活动基础的假设开始进行建设性质疑之时。（p.212）

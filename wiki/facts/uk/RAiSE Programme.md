@@ -36,11 +36,7 @@ created: 2026-08-22
 updated: 2026-09-22
 ---
 
-# RAiSE Programme
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 由苏格兰教育署（Education Scotland）、伍德基金会（The Wood Foundation）、苏格兰政府及各参与地方当局（Local Authorities）联合设立。
@@ -49,8 +45,6 @@ updated: 2026-09-22
 > - **制度位置** 作为苏格兰提升基础教育 [[STEM Education\|STEM]] 参与度与弥合早期教育差距的国家示范性战略项目。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 通过在地方教育当局设立专职的“小学科学发展专员”（Primary Science Development Officers, PSDOs），为小学教师提供定制化、长周期的学科持续专业发展（CPD），构建区域教师研修网络，全面提升教师科学教学能力与学生早期科学抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
@@ -62,8 +56,6 @@ updated: 2026-09-22
 > - **协同治理** 建立政府、公益基金会与地方当局的公私协同伙伴机制，共同承担运营与资源支持。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 
 ---
-
-## 效果与评价
 
 > [!finding-cards] 实施成效与评价
 > - **教师教学信心与探究频率跃升** 官方独立评估（Education Scotland & The Wood Foundation, 2022）显示，项目显著打破了全科教师对科学教学的心理壁垒，使跨学科动手探究教学成为小学常态。

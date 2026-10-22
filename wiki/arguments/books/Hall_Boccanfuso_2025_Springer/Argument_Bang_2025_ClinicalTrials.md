@@ -77,8 +77,6 @@ citation_aliases:
 
 ---
 
-## 理论框架
-
 > [!abstract] [[Analytic Framework\|分析框架]]：[[Clinical Trial\|临床试验]]生命周期 × 产业方视角
 > 论证围绕[[Clinical Trial\|临床试验]]的完整生命周期展开——从临床前[[Translational Research\|转化研究]]到上市后监测（IV 期），但分析视角始终设在产业方一侧：在每个阶段，大学为试验贡献什么？产业方承担的成本和风险是什么？双方的制度摩擦在哪里产生？
 >
@@ -88,14 +86,10 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
 > [!info] 从业者经验综述
 > 全文为一线从业者的行业经验分析，不属于实证研究。Soo Bang 曾任 Pfizer、Celgene、Bristol Myers Squibb 高管，负责过[[Clinical Trial\|临床试验]]合同管理、外包、企业联盟和产品商业化，现任 K36 Therapeutics 战略与运营高级副总裁。论证基础来自其行业管理经验，辅以[[Clinical Trials Transformation Initiative\|临床试验转型倡议]]（Clinical Trials Transformation Initiative, CTTI）的公开项目报告和 IQVIA 研究所（IQVIA Institute for Human Data Science）的行业趋势数据。
 
 ---
-
-## 论证结构
 
 > [!example] 核心论证逻辑链
 > 论证从[[Clinical Trial\|临床试验]]的基本运作机制出发，逐步揭示学术机构与产业方之间的四组结构性张力（预算、速度、误解、利益冲突），再逐一回应以已被验证的改善路径（流程优化、[[Master Protocol\|主方案]]设计、技术工具、协作文化），最终指向临床试验现代化的未来方向。
@@ -364,8 +358,6 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 
 ---
 
-## 主要发现
-
 > [!success] 核心结论
 > - [[Clinical Trial\|临床试验]]是[[University-Industry Collaboration\|产学合作]]中资金规模最大的领域，但其运作依赖于大学和医学中心提供的庞大机构基础设施——研究管理、试验协调、数据管理、试验药房和 [[Institutional Review Board\|IRB]]——这些设施的成本最终反映在学术机构的管理费率和启动时间中(pp.201–202, 205–206)
 > - 产业方按[[Fair Market Value\|公平市场价值]]编制的预算与学术机构 20%–35% 的间接成本率之间存在结构性张力；国际基地的成本有时仅为美国[[Academic Medical Center\|学术医学中心]]的六分之一，构成持续的竞争压力(pp.205–206)
@@ -389,9 +381,7 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "Institutions that optimize these metrics can significantly improve study startup times and improve operations, making them more attractive to industry sponsors and CROs."(p.211)
 
 > [!quote|notitle]

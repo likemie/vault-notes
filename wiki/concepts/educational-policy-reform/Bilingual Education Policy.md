@@ -48,11 +48,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Bilingual Education Policy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **双语教育政策（Bilingual Education Policy）** 是指主权国家或地方政府通过法律、课程标准与考试制度，强制或引导各级学校系统同时采用两种语言作为教学媒介语（Medium of Instruction）与核心必修科目的公共政策[[Paradigm|范式]]。在比较教育与发展中国家建构中，该政策常承担双重战略任务：一方面确立通用的国际强势语言（如英语）以实现技术引进、行政效率与全球经济对接；另一方面推行族群母语教育以传承历史文化正典、稳固道德锚点并塑造统一的国家认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 新加坡双轨双语模式 vs 单语同化模式 vs 自由多元放任模式
 > | 维度 | 新加坡双轨双语模式（英语 + 母语） | 单语同化模式（以主流语言为唯一媒介） | 自由多元放任模式（地方方言自发演变） |
 > |---|---|---|---|
@@ -85,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **工具理性功能（英语主导）** 将英语作为各族群平等的行政中立工作语言与科学技术媒介，确保国家在全球贸易与科技竞争中的前沿地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 196–197)]]
 > - **文化防御功能（母语锚定）** 将母语作为传承儒家或东方传统道德、防范西方消费主义与虚浮风尚侵蚀的精神屏障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Goh, 1979; Karp & Zamiska, 2025, p. 196)]]
 > - **方言果断修剪** 依法果断以标准现代语言替代多达 12 种割裂的地域方言，消除社群内部的沟通壁垒与宗派区隔。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Lee, 1986; Karp & Zamiska, 2025, pp. 195–196)]]
@@ -131,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 决策者 |
 > |---|---|---|---|
@@ -149,8 +139,6 @@ updated: 2026-10-22
 > - **1960–2023 — 经济奇迹的实证印证** 新加坡人均 GDP 从 428 美元攀升至 84,734 美元，双语人才红利成为驱动高科技与国际金融的核心引擎。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(World Bank, 2023; Karp & Zamiska, 2025, p. 197)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

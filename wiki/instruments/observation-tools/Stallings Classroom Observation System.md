@@ -50,11 +50,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Stallings Classroom Observation System
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Stallings [[Classroom Observation]] System
 > - **工具类型** 课堂外部低推论[[Time Sampling|时间抽样]]与活动矩阵客观编码规程（observation-tool）。
@@ -82,14 +78,10 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 矩阵式快速勾选表（包括行为主体：教师/学生；活动形态：阅读/讲解/讨论/闲置；材料配置：教科书/黑板/科技/无材料）。
 > - **作答格式** 每次快照 15 秒扫视并在矩阵网格中即时打勾，课后汇总各类别占 10 次快照的百分比（如“[[Effective Teaching|有效教学]]时间达 65%”）。
 > - **反向题与跳题** 无跳题，必须严格按定时器完成 10 次快照记录。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] 斯托林斯系统快照编码重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -114,8 +106,6 @@ updated: 2026-10-22
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 世行标准化版 | 作为 Teach 研发的前置对比工具；评估发展中国家既有观察体系优缺点 | 分析其客观性与未能覆盖深层教学互动的局限 | 证实斯托林斯虽然客观度极高且便于培训，但其纯低推论设计只能记录“在做什么”而无法判断“教得好不好”（忽视思维启发与情感），直接催生了 Teach 的双轨整合方案。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

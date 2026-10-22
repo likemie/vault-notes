@@ -38,11 +38,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Digital Twin in Manufacturing
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 制造数字孪生（Digital Twin in Manufacturing，在半导体领域亦称为“虚拟晶圆厂”，Fab Virtualization）是指通过融合微观物理/化学反应机理、多物理场第一性原理计算与高通量实时原位计量（In-situ Metrology）数据，在数字计算空间内为实体制造装备、工艺流线乃至整座晶圆代工厂建立的全要素、高保真动态虚拟镜像系统。在先进半导体微电子制造中，数字孪生利用人工智能与高级预测分析模型实时吞吐全厂传感器数据，对次纳米尺度加工过程、缺陷形成机制与物理良率波动进行在线推演与闭环调优，从而在物理硬件投产或调整前实现制造工艺的快速迭代与收敛。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–20, 26)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > | **核心价值** | 压缩新工艺研发与良率爬坡周期，减少破坏性离线计量 | 维持成熟既有工艺产线的统计受控状态与稳定性 | 提升宏观工厂整体设备效率（OEE）与在制品（WIP）管理 |
 
 ---
-
-## 核心要素
 
 > [!feature] 半导体制造数字孪生的四大核心构成要素
 > - **高通量多模态原位计量传感（High-Throughput In-Situ Metrology）** 在光刻机、刻蚀机与薄膜沉积反应腔内直接部署光谱、电子发射与光学干涉传感器，在加工过程中实时捕捉原子层级形貌与等离子体辉光参数，取代耗时昂贵的离线切片破坏性检测。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 20)]]
@@ -119,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
@@ -137,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 原子尺度物理极限仿真逼真度 vs. 工业部署的高昂算力与数据壁垒
@@ -148,8 +138,6 @@ updated: 2026-10-22
 > > - **国家战略主推论（[[Argument_NSTC_2024_MicroelectronicsResearch|NSTC, 2024]]）** 坚决主张在国家微电子技术中心（[[National Science and Technology Council|NSTC]]）牵头下，通过制定标准数据脱敏接口，将高性能超算能力与第一性原理计算深度赋能先导试验线，这是避免数十亿美元物理机台过度磨损与试错浪费的必然战略选择。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 20, 26)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 半导体制造数字孪生与虚拟化研发规划实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

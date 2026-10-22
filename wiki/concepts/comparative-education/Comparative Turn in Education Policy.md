@@ -37,11 +37,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Comparative Turn in Education Policy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教育政策的比较转向（Comparative Turn in Education Policy）** 是指自 1980 年代末至 1990 年代初全球教育多边治理领域发生的深层认识论与规制范式转型。在经合组织（OECD）等核心机构主导下，国际教育政策监测全面放弃了此前依赖个案深度走访、立足历史文化脉络与主权国个别协商的个案定性审查传统（Idiographic Country Reviews），转变为依托标准化心理测量指标网络（如 INES、[[PISA]]、[[Teaching and Learning International Survey|TALIS]]）构建统一跨国可比等值空间、实施横向数据排位与联赛对标的法则化量化测评范式（Nomothetic Comparative Assessment）。这一转向使超国家机构得以凭借量化硬事实确立超越民族国家的认知权威，标志着全球教育治理步入以数字进行治理的实证化新时期。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–274)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > | **治理定位** | 经验交流论坛与自愿性咨询平台 | 全球教育标准的仲裁者与政策处方经纪中枢 |
 
 ---
-
-## 核心要素
 
 > [!feature] 比较转向的三大基石
 > - **跨国等值空间的数学拟制** 依托项目反应理论（IRT）与跨文化测验技术，将原本深嵌于各民族国家历史、语言与阶层传统中的课程育人过程，抽离为统一标尺上的连续潜变量分值，确立跨系统通约的合理性前提。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–273)]]
@@ -121,8 +115,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -138,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 文化生态抹杀与认识论暴力
@@ -152,8 +142,6 @@ updated: 2026-10-22
 > 比较转向的前提是参测系统具备基本相符的市场经济体制、正规化学校制度以及对纸笔或机考标准化测评的形式接纳；对于传统学徒制占主导或高度注重本土社区认同的教育形态，跨国量化比较指标存在显著的效度损耗与构念偏差。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 273–274)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

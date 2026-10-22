@@ -53,11 +53,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Critical Thinking Assessment Test
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Critical Thinking Assessment]] Test（CAT）
 > - **工具类型** 基于教师校准的真实情境表现性测验（Faculty-Scored Real-World Performance Assessment）。
@@ -66,8 +62,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔测试（限时 60 分钟），试卷由经过培训认证的高校跨学科任课教师团队依据精细评分量规进行集体盲评。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]与[[Creative Problem Solving\|创造性问题解决]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -81,16 +75,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 15 道基于现实生活案例（如公共卫生争议、广告宣传真实性、技术方案权衡）的开放简答题。
 > - **作答格式** 纯主观文本简答，严禁任何[[Multiple-Choice Questions\|选择题]]选项。
 > - **教师校准评分（Faculty Scoring Model）** 必须由院校 6–12 名跨学科教师参加标准化评分培训与一致性校准研讨（Calibration Workshop），双人独立盲审，分歧由第三人仲裁；总分 38 分。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -100,8 +90,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | CAT 标准版 | [[OECD]] 报告综述分析，作为将[[Creativity\|创造性思维]]显性内嵌于[[Critical Thinking Assessment\|批判性思维评估]]中的创新测评典范 | 跨学科表现性测试 | 证实 CAT 巧妙打破了批判与创造的二元割裂，依托高校任课教师参与评分的机制有效驱动了校内教学改进 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

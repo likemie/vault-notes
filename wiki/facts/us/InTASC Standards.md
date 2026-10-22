@@ -44,11 +44,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# InTASC Standards
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1987 年设立、2011/2013 年修订，由美国各[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）主持发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
@@ -57,8 +53,6 @@ updated: 2026-10-22
 > - **制度位置** 全美公立学校教师执业资格认证、师范专业认证（CAEP）与教师绩效评估的最高国家级参照基准。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > InTASC 标准第 5 条明确确立“应用内容促进[[Higher-Order Thinking Skills\|高阶思维]]”标准，要求教师必须能够设计支持学生主动探究、批判性审视与[[Creativity\|创造性]]解决真实问题的教学情境与评价支架。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]

@@ -65,11 +65,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# AERA Congressional Fellowship Program
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **[[American Educational Research Association\|AERA]]国会政策研究员计划（AERA Congressional Fellowship Program）** 是由美国教育研究学会（American Educational Research Association, AERA）依托[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）科技政策研究员（STPF）架构发起设立的高端政策实践培育项目。项目全额资助具备扎实因果实证训练的博士级教育科学学者，前往美国国会山开展为期一年的全职幕僚服务，旨在打破学术界与政策界的两社区壁垒，推动高质量科研证据实质性嵌入国家教育立法决策。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–41, 46–47)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 > - **核心问题导向** 直面美国教育领域学术界高质量科研供给激增与联邦立法决策严重脱节的“[[Research-Policy Gap\|研究-政策鸿沟]]”，解决实证学者缺乏对立法时间系统与政治[[Tacit Knowledge|隐性知识]]体察的制度性瓶颈。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40, 46)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 项目假定：教育学者对立法政策的疏离并非源于知识不足，而是由于置身象牙塔导致的制度文化隔阂与语言不通；通过为期一年的全职“在[[Learning by Doing|干中学]]”（learning while doing），学者能深刻掌握政策运作的[[Tacit Knowledge|隐性知识]]与时间系统，并将基于数据的严谨因果思维带入政治议事日程，从而实现科学证据与立法文本的有机咬合。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
@@ -100,16 +94,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2000s — 项目创立与教育科研公共参与拓展** [[American Educational Research Association\|AERA]] 响应全美关于“[[Evidence-Based Education\|循证教育]]”的立法诉求，依托 [[American Association for the Advancement of Science\|AAAS]] 建立常设专项资助通道，选拔首批教育心理学与课程教学学者进入国会两院委员会，标志着教育学术社群由被动游说向深度制度浸润的战略转向。
 > - **2010s — 深度嵌入《[[Every Student Succeeds Act\|每一个学生成功法案]]》立法周期** 项目重点派驻[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]及参议院 HELP 委员会，深度介入《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》（ESEA）重新授权博弈，促成科研人员直接参与 ESSA（2015）四级[[Evidence Standards\|证据标准]]条文的设计与协商。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41, 46)]]
 > - **2020s — 全域数据治理与跨学科科学传播[[Paradigm\|范式]]深化** 随着《[[Foundations for Evidence-Based Policymaking Act of 2018\|2018年循证决策基础法案]]》生效，研究员进一步深度参与联邦微观数据开放、校园心理健康危机响应及人工智能教育伦理立法的实务论证，推动跨学科[[Research Synthesis|证据综合]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43, 46–47)]]
 
 ---
-
-## 实施架构与多元辐射路径
 
 > [!actor-grid] 实施协同矩阵
 > - **专业学会资助方（[[American Educational Research Association\|AERA]]）** 负责面向全美教育学界的项目宣传、独立学术评选、专项津贴划拨及后续学术网络辐射。
@@ -127,16 +117,12 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 关键成效与辐射影响
 > - **破除两社区文化壁垒** 彻底消解了学者将政治决策视作“非理性反智”的刻板印象，使学者理解立法的价值妥协逻辑；同时消除立法幕僚对学术研究“不合时宜、充满免责声明”的防备心理。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 > - **推动科学证据的法条化嵌入** 研究员依托自身专业底蕴，协助国会法律顾问将复杂因果实证结论精准转化为具体的法定示范条文（Model Statutory Language），直接推动法案文本的技术升级。
 > - **构建国家教育政策高层次复合型人才库** 历经二十余年实践，项目为美国教育治理中枢培养了一大批兼具实证严谨性与政治智慧的学科带头人，构成了连接教育科学研究与国家宏观改革的关键桥梁。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

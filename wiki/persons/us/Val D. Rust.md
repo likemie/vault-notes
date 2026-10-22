@@ -70,11 +70,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Val D. Rust
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名比较教育学家与历史学家，加州大学洛杉矶分校（UCLA）教育与信息研究生院荣休教授；曾任[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）会长（1988–1989 年）。
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1967 — *German Interest in Foreign Education Since World War I*** 博士学位论文，系统梳理德国现代历史上对外部国家教育体制的借鉴与反思，奠定[[Influences Across Cultures|跨文化影响]]研究的实证史学基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1989 — *The Democratic Tradition and the Evolution of Schooling in Norway*** 追踪挪威十九世纪以来的民主政治传统与学校制度演进，提出[[Policy Borrowing|政策借用]]从发起调研、凝聚共识、法定架构到落地实施的四阶段模型。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 124)]]
@@ -117,9 +111,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **史学与跨文化考据路径** 平反 19 世纪跨文化制度借用传统的学术地位，批判战后行为实证派割裂学科历史的傲慢，构建了贯通两百年的比较学术史连续统。
 > - **理论[[Paradigm|范式]]多元化路径** 依托对《比较教育评论》（CER）半个世纪发表成果的大规模文献计量与 UCLA 调查，实证确立了涵盖 26 种范式的“[[Pluralism|健康多元主义]]”，抵制虚无主义的碎片化焦虑，捍卫学者的[[Academic Freedom|学术自由]]。
 > - **[[Policy Borrowing|政策借用]]模型路径** 基于挪威长程制度演进实证提炼出政策借用的四阶段模型，丰富了跨国制度移植与本土调适的动力学机制。
@@ -129,8 +121,6 @@ updated: 2026-10-22
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特及其团队为《比较教育学国际手册》撰写的奠基性学科史反思专章，系统总结两百年学科发端、方法演进与全球化批判前沿。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Rust, Johnstone, & Allaf 论比较教育学超越单一霸权正统的成熟心智
 > 比较教育学在战后半个世纪的演变证实，学科正在走向富有生命力的理论[[Pluralism|多元主义]]，而非陷入无序的碎片化。多元主义是学科打破 1950 年代至 1960 年代初窒息学术探索的一元教条正统的标志，它赋予学者根据丰富多样的现实自由选用理论工具的[[Academic Freedom|学术自由]]，是学科走向心智成熟的根本标志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 132)]]
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **全球学会与多边机构研究** 深度考察[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）的全球扩展；援引[[UNESCO|联合国教科文组织]] 2006 年《[[Education for All|全民教育]]》监测报告实证检验全球化结构调整对受援国的负面冲击与古巴主权动员典范。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

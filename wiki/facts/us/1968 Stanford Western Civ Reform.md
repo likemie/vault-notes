@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-16
 ---
 
-# 1968 Stanford Western Civ Reform
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > **1968年斯坦福[[Western Civilization Course|西方文明课]]程改革（1968 Stanford Western Civ Reform）** 指斯坦福大学在1968年11月由赫伯特·L·帕克（Herbert L. Packer）领导的十人委员会发布正式调查报告，决定废除自二战结束以来作为全校本科生统一必修通识核心的西方文明史（History of Western Civilization）课程的历史事件。该事件标志着美国顶尖精英大学从维护西方正典共识向多元化与自由选修机制撤退的标志性转折点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 87–88)]]
@@ -57,8 +53,6 @@ updated: 2026-10-16
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 改革推进与终结历程
 > - **1940年代末–1960年代中期 — 正典必修繁盛期** 斯坦福大学效仿哥伦比亚大学与芝加哥大学模式，建立西方文明史必修课程，精选[[Plato|柏拉图]]、[[Jean-Jacques Rousseau|卢梭]]、马克思、[[Hannah Arendt|阿伦特]]等思想名篇，作为所有新生的智识成人礼。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 87)]]
 > - **1968年11月 — 帕克委员会裁定已死或垂死** 委员会发布《斯坦福教育研究报告》（*The Study of Education at Stanford*），认定统一必修的西方文明导论课程模式已无法适应后二战时代的多样化现实，在全美高校中已处于已死或垂死（dead or dying）状态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 87–88)]]
@@ -66,16 +60,12 @@ updated: 2026-10-16
 
 ---
 
-## 关键文件与历史论断
-
 > [!citation-card] 斯坦福教育研究委员会报告结论
 > 这类仿照哥伦比亚大学与芝加哥大学模式建立的西方文明必修通识课程，在当今的高等教育体系中已经属于已死或垂死之物。二战后被重塑的世界与美国，使得大学继续依附于这一可能从未真正存在过的过去遗存显得格格不入。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 87–88)]]
 >
 > *The group concluded in its report that such courses... were "dead or dying." The dissonance between the convulsions of the decade and academia's desire to cling to what many believed was a vestige of a past that might never have existed had become too much.*
 
 ---
-
-## 历史意义与教育反思
 
 > [!critique] 从正典凝聚到气球断线的转折
 > 斯坦福废除[[Western Civilization Course|西方文明课]]，成为全美高校相继拆解核心正典体系的多米诺骨牌。正如历史学家所概括，当学生运动发起对必修要求的冲击时，遭遇的是早已准备好撤退的教授会。这一改革虽然赋予了学生更大的选课自由并吸纳了边缘群体视角，但也实质上标志着大学放弃了通过共有文本培育国家公民认同与公共理性的使命，开启了历史教育漂浮无根的断线气球时代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 87–88)]]

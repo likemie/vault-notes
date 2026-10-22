@@ -59,13 +59,9 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Good Governance of Evidence
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 公共政策与教育治理中证据利用的政治属性与制度机制，解释为何宣称追求“科学理性”的[[Evidence-Based Policy-Making|循证决策]]常常异化为技术官僚垄断或象征性装点。
 > - **理论问题** 回应[[What Works Movement\|循证政策运动]]将政策议题窄化为“何者有效”（What Works）的[[Positivism\|实证主义]]弊端，探究如何在承认政治竞争与多元价值合法性的前提下，建立规范化的证据治理体制。
 > - **理论类型** 规范性制度治理理论与中层政策[[Analytic Framework\|分析框架]]。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 > | 程序正当性与可争辩性 | 核心机制 | 确立各方利益相关者针对证据选择、适用界限与价值排序展开公开质询的法定制度。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜证据在公共政策与教育决策中的利用本质上属于政治与规范过程，无法通过纯粹的[[Technical Rationality\|技术官僚理性]]去政治化
 > - **前提一** 科学研究证据能够揭示某种干预或政策在特定条件下的经验效应，但无法直接裁决哪种社会目标、价值取向或资源分配更具正当性。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
@@ -147,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将公共决策视作制度规范、政治权力和社会价值交织的复杂社会建构过程，否认存在脱离社会情境与规范价值的纯粹中立政策客体。
 > - **[[Epistemology\|认识论]]** 秉持[[Critical Realism\|批判实在论]]与民主审议认识论；认为科学证据能够揭示现实因果倾向，但对证据的阐释、权衡与转化必须通过公共交往理性与主体间审议达成共识。
@@ -186,8 +178,6 @@ updated: 2026-10-22
 > - **2022 — 教育证据生态吸纳** [[Mark Rickinson]] 等人在探讨教育证据高质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]）时，将证据良好治理引入宏观系统影响维度，确立其在教育科研转化治理中的理论地位。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

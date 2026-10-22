@@ -55,11 +55,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Tina Seidel
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国当代教育心理学家，慕尼黑工业大学（Technical University of Munich, TUM）社会科学与技术学院教育心理学讲席教授（Friedl Schöller-Stiftungslehrstuhl für Unterrichts- und Hochschulforschung）。
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2007 — *Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling [[Meta-analysis]] Results* (with R. J. Shavelson)** 系统分析过去十年[[Effective Teaching\|有效教学]]元分析的理论构架与研究设计特征，揭示传统元分析因缺乏教学论支撑而导致的局限，提出教学有效性的成分整合模型。
 > - **2014 — *Modeling and Measuring the Professional Vision of Teacher Candidates* (with K. Stürmer)** 确立以视频为中介的教师专业知觉（Professional Vision）测量模型，揭示职前教师如何识别、解读并反思微观课堂互动。
@@ -94,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育研究与教学实践之间的鸿沟并非源于科研产出不足，而是学术理论的生产逻辑与课堂教学的情境逻辑存在结构性脱节；唯有以经过严格因果检验的高质量[[Meta-analysis\|元分析]]为证据源头，通过跨学科专家团队实施标准化的通俗二次转译，并将成果精准嵌入教师教育者的培养网络与双向反馈机制中，方能打破线性转移的迷思，使循证原则实质性内化为教师专业思维的有机组成部分。
 
 > [!citation-card] 教学证据中介的核心功能界定

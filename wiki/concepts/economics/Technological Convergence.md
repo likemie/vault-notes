@@ -49,11 +49,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Technological Convergence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 技术收敛（Technological Convergence / 工业技术汇聚）是技术经济学家内森·罗森伯格（Nathan Rosenberg）于 1963 年提出的经典概念，并在[[General Purpose Technology|通用目的技术]]（GPT）与产业演化研究中得到深化。该概念指在重大基础技术革命扩散过程中，原本在产品形态、终端用途与市场需求上彼此割裂的多元工业部门（如航天军工、计算机、民用广播电视、汽车机电与精密仪器），在底层生产制造技术、核心元器件工艺、系统设计逻辑以及工程技能体系上逐渐汇聚于相同的科学原理与通用技术界面的历史演进过程。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 208–209)]]
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 技术收敛与相关技术扩散机制对比
 > | 比较维度 | 技术收敛（Technological Convergence） | 技术专业化（Technological Specialization） | 媒介融合（Media / Product Convergence） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]]; Rosenberg (1963) | 传统工科文献 | 传播学与计算机文献 |
 
 ---
-
-## 核心要素
 
 > [!feature] 技术收敛机制的三大核心要素
 > - **底层工艺与制造基础设施的统一（Convergence of Manufacturing Processes）** 多元行业不再依赖各自定制的机械与电子元件，而是统一采纳以平面光刻、化学气相沉积与硅批处理为代表的微电子制造[[Paradigm|范式]]。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180, 195–203)]]
@@ -131,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -141,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 技术收敛理论的历史演进历程
 > - **1963年 — 机床工业技术收敛假说提出** 内森·罗森伯格在分析 19 世纪美国机械工业时首次提出“技术收敛”（Technological Convergence），指出机床技术使枪械、自行车、缝纫机制造等异质行业在机械加工方法上走向统一。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 180)]]
 > - **1960–1970年代 — 微电子与数字技术驱动的收敛** 硅平面工艺与集成电路的崛起，使罗森伯格的理论在电子信息产业中全面复现，跨行业技术基础由机械切削收敛为硅微电子芯片。
@@ -150,8 +138,6 @@ updated: 2026-10-22
 > - **2010年代至今 — 人工智能与数字孪生全领域收敛** 深度学习、大语言模型与云计算平台推动算力算法成为生物医药、自动驾驶、金融与材料科学等几乎所有工程学科的共同技术底座。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >
@@ -163,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 硅微电子技术收敛实证考证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -173,8 +157,6 @@ updated: 2026-10-22
 > | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, pp. 180, 194, 207)]] | 1960–1967 年全美微电子技术跨行业渗透实证考证 | 历史[[Archival Research\|档案研究]]与跨行业比较分析 | 跨行业采纳率、元器件价格降幅、市场份额 | 1968 年仙童占全美商用计算机 IC 市场 80% 份额；电视、收音机、汽车与仪器行业全面采纳统一的 [[Dual In-Line Package\|DIP]] 封装与逻辑电路系列 | 企业原始商业协议与行业数据 | 证实硅微电子促成了跨行业的底层技术工艺与技能收敛 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从[[Fairchild Semiconductor|仙童半导体]]企业史角度，实证检验了微电子技术如何通过制造革新、[[Application Engineering|应用工程]]和系统级封装促成全美工业部门的技术收敛。

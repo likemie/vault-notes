@@ -37,11 +37,7 @@ created: '2026-05-12'
 updated: 2026-10-22
 ---
 
-# Sovereign Internationalism
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 主权国际主义（sovereign internationalism）是 Sakwa（2023）提出的概念，指 1945 年《联合国宪章》建立的"宪章国际体系"（Charter International System）的核心理念：世界是一个多元空间，容忍文明差异和多元政治制度，尊重各国的内部政治事务不干涉原则，条件是各国遵守共同的宪章价值（如联合国公约）。这是二战结束后美国主导建立的国际秩序的最初设计理念([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
 
 > [!quote|notitle]

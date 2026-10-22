@@ -101,11 +101,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Scientific Literacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学素养（Scientific Literacy / Science Literacy）是指个体具有对[[Nature of Science|科学本质]]及其运作机制的充分理解，能够把握科学知识通过逐步降低不确定性而演进的动态过程，具备批判性评估多源证据质量及其可[[Reliability|信度]]的认知能力，并在日常生活、健康医疗、消费抉择、公共民主审议与科技政策制定中做出明智决策的核心公民与治理素养。它超越了传统对孤立科技事实与术语的[[Rote Learning|机械记忆]]，将科学本质理解、学科[[Epistemic Practices|认识论实践]]、数据与算法批判心智、实证可复现性（Reproducibility）意识以及捍卫基于客观学术卓越的“金标准科学（[[Gold Standard Science]]）”评价原则融为一体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]; [[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144, 161)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
@@ -139,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学素养与相近核心[[Construct|构念]]辨析表
 > | 比较维度 | [[Scientific Literacy\|科学素养（Scientific Literacy）]] | [[Science Capital\|科学资本（Science Capital）]] | [[Data Literacy\|数据素养（Data Literacy）]] | [[AI Literacy\|人工智能素养（AI Literacy）]] |
 > |---|---|---|---|---|
@@ -150,8 +144,6 @@ updated: 2026-10-22
 > | **主要政策场景** | 基础教育科学课程改革、公民素养监测、联邦科研评审去意识形态化 | 促进教育公平、打破边缘群体与女性科学参与壁垒 | 应对数字媒体统计误导、公共卫生与气候危机风险沟通 | 防范算法虚假信息扩散、规范智能检索与科研辅助使用 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代科学素养五大核心能力支柱（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society, 2026]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona, 2018]]; [[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）
 > - **理解科学运作机制与[[Nature of Science|科学本质]]（Understanding Scientific Processes & Nature of Science）** 掌握实证观察、假说检验、实验设计与同行评议如何共同确立和修正科学结论；深刻理解科学知识的经验性、暂定性与社会协商修正属性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 30)]]
@@ -266,8 +258,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境与实践机制 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -281,8 +271,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 科学素养构念演进脉络
 > - **1985 年 — Bodmer 报告确立普及基调与公众理解科学（PUS）传统** 英国皇家学会发布《公众理解科学》（Bodmer 报告），痛陈科学教育过度偏重事实识记的弊端，倡导 16 岁前义务教育全员普及科学素养，拉开了现代国家推动全民科学参与的序幕。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, pp. 4–5)]]
 > - **1998–2000 年 — 《[[Beyond 2000 Report|Beyond 2000]]》报告确立[[Citizen Science|公民科学]]素养新构念** 米勒与奥斯本（Millar & Osborne, 1998）发表里程碑报告，明确提出面向公民的科学素养（Science Literacy for Citizenship），强调理解证据性质、[[Scientific Explanation|科学解释]]模式与社会科技争议评估，彻底颠覆了以大学升学为唯一导向的学科中心主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
@@ -292,8 +280,6 @@ updated: 2026-10-22
 > - **2026 年至今 — 金标准科学转向与科研评价去意识形态化** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告与《恢复金标准科学行政令》（[[Restoring Gold Standard Science Executive Order]]）将科学素养拓展至国家宏观科研治理，强调实证可复现性（Replication）、数据开放与方法透明，坚决清除科研资助评审中的非科学意识形态筛选条件，重塑以学术卓越为核心的科学评价生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议与张力
 >
@@ -319,8 +305,6 @@ updated: 2026-10-22
 > 警惕将科学素养窄化为个人的孤立逻辑思维技巧。如果抽离了对科学建制运作（如科研资金利益冲突、学术出版商业化、过度营销与科研诚信规范）的系统认知，单纯具备一般逻辑能力的个体依然极易落入经过专业包装的利益集团虚假信息陷阱。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 科学素养实证测量与教育教学现状监测表（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

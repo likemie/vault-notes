@@ -43,11 +43,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Construct
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 构念（Construct，亦称理论构念）是[[Variable|变量]]在理论层面的抽象与一般化表达（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 130]]）。它是研究者为了理论解释、预测或[[Causality|因果推断]]而有意建构的理性概念实体，代表现实中不可直接感官观察的潜在状态或特质（如[[Academic Achievement|学业成就]]、学习动机、[[Self-Efficacy|自我效能感]]、认知负荷），必须通过明确的[[Operationalization|操作化]]转化为具有可测属性的外显变量，方能在实证研究中接受检验与二阶合成。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 53, 130)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 > | **典型示例** | 学业成就、自我效能感、家庭社会经济地位 | 测验总分、问卷题项得分、家庭月收入数值 | 学习效果、好学生、社会阶层 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **高度抽象性（Abstraction）** 构念位于具体测量之上，是对多组相关观测或变量共性进行理论提炼后的产物（如社会经济地位提炼了收入、受教育年限与职业声望）。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 130)]]
@@ -138,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +148,6 @@ updated: 2026-10-22
 > - **2020s — 证据库元科学审计与构念一致性门禁** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对《可见的学习》等证据综合展开预注册审计，确立了宏观循证研究中必须强制执行 PICO 四维构念同质性门禁的方法学规范。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -181,8 +171,6 @@ updated: 2026-10-22
 > 构念作为抽象概念实体，不能直接等同于单一量表总分；若缺乏严谨的因子结构与构念效度检验，以偏概全的指标代指极易引发构念低代表性与无关变异。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

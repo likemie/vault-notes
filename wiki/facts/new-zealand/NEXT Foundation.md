@@ -50,11 +50,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# NEXT Foundation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 内克斯特基金会（NEXT Foundation）是新西兰最大型的战略[[Venture Philanthropy|风险慈善]]基金会之一，由商业慈善家设立，其特征为采取“十年散尽本金”的高强度战略投资策略，追求在教育和环境领域资助与培育具有可量化评估成效的系统工程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–57)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 专注于面向教育卓越与生态保护的大规模催化性资助；在教育领域通过量化[[Return on Investment|社会投资回报]]率（[[Return on Investment|ROI]]），重点重塑[[School Leadership|学校领导力]]、数字化教学与教师准入体系。
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **2014 年** **创设与治理架构确立**
@@ -85,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **董事会（Board of Directors）** 前微软全球首席财务官兼通用汽车副董事长克里斯·利德尔（Chris Liddell）担任董事会主席；成员包括普华永道前高级合伙人、安永前合伙人等商界精英。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
 > - **高级执行团队（Executive Team）** 由新西兰最大本土风投 Direct Capital 联合创始人比尔·科莫德（Bill Kermode）出任首席执行官，前瑞士信贷第一波士顿投行家出任投资总监。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
@@ -98,8 +90,6 @@ updated: 2026-10-22
 > - **第三方因果评估锁定** 强制要求所有资助项目绑定大学（如奥克兰大学伍尔夫·费雪中心）或独立学术机构（NZCER）开展实证评估，为项目扩散提供实证数据支撑。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Springboard Trust|跳板信托]]战略领导力项目** 全额资助低阶学区公立校长接受麦肯锡商业咨询模式的战略规划辅导。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 56)]]
@@ -113,8 +103,6 @@ updated: 2026-10-22
 > *The $100 million investment programme is exclusively for project funding. The NEXT Foundation will not bear any [[Indirect Costs of Research|Overhead Costs]], including remuneration of the CEO... We build close relationships directly with the people running the organisations we fund and expect regular, quantitative and qualitative reporting.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资本规模与投放强度** 1 亿新西兰元本金在十年内高密度集中释放，年均资助强度远超多数传统中型慈善信托。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
@@ -131,8 +119,6 @@ updated: 2026-10-22
 > - **10 yr** 基金会确立的将全部资本散尽并发放完毕的激进存续周期。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

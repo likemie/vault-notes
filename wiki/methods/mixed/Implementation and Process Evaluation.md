@@ -86,11 +86,7 @@ created: 2026-09-14
 updated: 2026-10-20
 ---
 
-# Implementation and Process Evaluation
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **实施与过程评估（Implementation and Process Evaluation，IPE）**，亦称**过程评估**，是指在教育干预、公共卫生及社会政策的成效检验中，与量化结果评估（如 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT））并行实施的一种复杂[[Mixed Methods Evaluation Design\|混合方法评估设计]]。该方法通过系统收集质性与量化多源数据，深入追踪干预在现场的递送质量、保真度、参与者依从性、对照组常态活动以及情境与因果机制的中介作用，旨在打开干预成效的黑箱，准确解释干预项目为何有效、为何无效或在何种情境下有效([[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]])。在复杂教育生态与[[Research Utilization\|证据使用]]评估视域下，IPE 进一步拓展为对证据落地全流程、专业审议深度与组织使能条件的形成性诊断机制（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 145]]）。
@@ -113,8 +109,6 @@ updated: 2026-10-20
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 采取[[Realist Evaluation\|实在论评估]]（Realist Evaluation）或[[Pragmatic Paradigm\|实用主义]]取向，认为因果效应不是简单的输入-输出机械对应，而是由干预机制在特定情境下的触发所决定的产物（情境-机制-结果（Context-Mechanism-Outcome，CMO）构型）。
 > - **研究者角色** 评估者既是量化数据的客观统计分析者，又是深入课堂微观现场的[[Qualitative Observation\|质性观察]]者与访谈者，需要在保持独立性的同时敏锐捕捉现场变异。
@@ -128,8 +122,6 @@ updated: 2026-10-20
 > - **规范指引** 遵循英国医学研究理事会（Medical Research Council，[[Meta-Representational Competence\|MRC]]）复杂干预指南（Craig et al., 2008）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）IPE 评估指南（The EEF, 2019b）。
 
 ---
-
-## 研究程序
 
 > [!proc] 实施与过程评估（IPE）的四阶段标准操作规程
 > 1. **阶段一：前期[[Logic Model\|逻辑模型]]与核心活性成分界定（Pre-Trial Specification）**
@@ -148,8 +140,6 @@ updated: 2026-10-20
 
 ---
 
-## 核心评估维度与操作框架
-
 > [!framework-table] 实施与过程评估（IPE）的核心维度框架（基于 Humphrey et al., 2016 与 EEF, 2019b）
 > | 评估维度 | 核心核查内容 | 典型收集工具与数据形式 |
 > |---|---|---|
@@ -162,16 +152,12 @@ updated: 2026-10-20
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 涉及人际多层级复杂互动、[[Organizational Culture\|组织文化]]变革或教师教学法重构的教育与社会政策试验；需要同时回答干预在何种情境下有效以及如何发挥作用（Why and How）的重大政策决策评估；具有大规模推广意向并需建立标准化操作规范的项目（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）；以及旨在提升全校[[Research Utilization\|证据使用]]素养与优化[[Evidence Ecosystem\|证据生态系统]]的深层形成性诊断（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 145]]）。
 > - **谨慎使用** 试验周期极短、[[Sample Size Determination\|样本量]]极小且缺乏理论准备的探索性微型干预；学校行政与教学压力极其沉重、受试者面临高度评估疲劳与高流失风险的紧张[[Champ\|场域]]。
 > - **不适合使用** 仅用于项目验收或结项造势的事后质性拼凑；在缺乏明确因果假设对照或缺乏基础量化结果指标验证的情境下单列主观感受调查。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限与应对策略
 > - **受试者调研负担沉重** 在收集主学业测验数据之外增加高频度深入访谈、[[Classroom Observation|课堂观察]]与[[Questionnaire\|问卷]]，极易引发基层教师抵触情绪，甚至加剧试验[[Attrition\|样本流失]]。需通过优化工具设计、整合常规行政数据与无感痕迹监测减轻负担。
@@ -180,8 +166,6 @@ updated: 2026-10-20
 > - **主观偏倚与[[Hawthorne Effect\|霍桑效应]]** 观察人员的主观诠释偏差以及教师因被观察而产生的表现效应会干扰保真度评分。需通过预先培训校准编码[[Reliability\|信度]]、[[Evaluator Independence\|独立评估者]]进驻与多源数据[[Triangulation\|三角互证]]予以平抑。
 
 ---
-
-## 相关理论与方法
 
 > [!entry-map] 实施与过程评估的相关理论与方法网络
 > | 条目 | 类型 | 关系 |
@@ -196,8 +180,6 @@ updated: 2026-10-20
 > | [[Implementation Fidelity]] | 核心[[Construct\|构念]] | IPE 最核心的监测与评价构念，用以判断实践落地与原方案设计的一致性程度。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 回顾 [[Education Endowment Foundation\|EEF]] 在 [[Randomised Controlled Trials\|RCT]] 中规范实施与过程评估（IPE）的历程，从早期缺乏机制解释到发布 IPE 指南（2019），确立 [[TIDieR]] 等规范。

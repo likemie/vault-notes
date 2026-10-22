@@ -47,11 +47,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Civic Religion
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **公民宗教（Civic Religion，或 Civil Religion）** 指一种在现代多元世俗社会中，将国家的建国历史叙事、宪法政治原则、核心思想正典与共同伦理抱负升华而成的公共信仰与价值象征体系。该体系不依附于特定的排他性宗教宗派教义，而是作为凝聚跨越阶层、种族与地域分歧的公民身份纽带，为民主共和国的公共参与、制度信任与集体繁荣提供超越个人私利与狭隘市场功利的深层道德动力与合法性基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 公民宗教、宗派宗教与自由放任世俗主义的多维辨析
 > | 比较维度 | 传统宗派宗教（Organized Religion） | 世俗公民宗教（Civic Religion） | 自由放任消极世俗主义（Laissez-faire Secularism） |
 > |---|---|---|---|
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **历史叙事与正典文本（Historical Narratives & Canon）** 植根于深层历史经验的经典文本与建国历程，为国家事业赋予历史连续性与精神厚度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]
 > - **圣经原型世俗化投射（Secularized Archetypes）** 如[[Robert Bellah|罗伯特·贝拉]]所论，出埃及记、旷野历练、牺牲奉献与复活再生等深层隐喻为公共生活提供崇高道德参照。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 > - **宪政民主与公共善共识（Constitutional Covenant & Common Good）** 将法治、平等权利与理性论辩确立为不可动摇的政治承诺。
@@ -136,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +143,6 @@ updated: 2026-10-22
 > - **2025 — [[Technological Republic|技术共和国]]与西方复兴** 卡普与扎米斯卡在《技术共和国》中重提公民宗教，呼吁克服后现代去国家化倦怠，为战略科技与地缘[[Hard Power|硬实力]]重建精神底座。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 公民宗教的合法性与边界之争
 >

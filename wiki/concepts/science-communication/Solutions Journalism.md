@@ -42,11 +42,7 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# Solutions Journalism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **解决方案新闻（Solutions Journalism）** 指新闻从业者在系统揭示复杂社会、环境或科技危机的同时，聚焦于各方针对该问题所采取的应对路径、干预机制及其实际成效，并基于严谨经验证据对其有效性、局限性与潜在副作用展开深度批判与调查评估的专业新闻采编[[Paradigm\|范式]]。其宗旨不是鼓吹未经检验的[[Techno-Utopianism|技术乌托邦]]或宣扬英雄主义奇迹，而是通过展现理性的解决路径与行动希望，重塑受众的公共效能感，逆转现代社会普遍弥漫的“新闻回避（News Avoidance）”心理。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59–60)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 解决方案新闻与相近新闻传播形态辨析
 > | 维度 | 本概念（解决方案新闻） | 传统调查揭黑新闻（Investigative Exposure） | 机构正面宣传软文（[[Participatory Research\|PR]] / Feel-good Fluff） |
 > |---|---|---|---|
@@ -79,8 +73,6 @@ updated: 2026-10-22
 > | **对科学的呈现** | 呈现科学作为动态试错、持续迭代的[[Problem Solving\|问题解决]]工具 | 聚焦学术不端、伦理丑闻或科研经费[[Conflict of Interest in Research\|利益冲突]] | 将科研成果神化为不可置疑的终极技术奇迹 |
 
 ---
-
-## 核心要素
 
 > [!feature] 解决方案新闻四大操作支柱
 > - **问题应对（The Response）**
@@ -150,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 解决方案新闻核心命题归纳
 > | 命题类别 | 核心理论判定 | 适用情境与实践路径 | 代表文献 |
 > |---|---|---|---|
@@ -161,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 解决方案新闻[[Paradigm\|范式]]演化历程
 > - **1990 年代末 — 公共新闻学（Public Journalism）萌芽** 面对受众政治冷漠与新闻商业化，新闻学者开始反思传统冲突导向模式，呼吁新闻媒体协助公民参与解决社区实际问题。
 > - **2013 年 — 解决方案新闻网络（Solutions Journalism Network, SJN）创立** 明确提出解决方案新闻的四大支柱（应对、证据、局限、洞见），推动这一范式从自发探索走向专业化与体制化。
@@ -170,8 +158,6 @@ updated: 2026-10-22
 > - **2026 年 — 皇家学会《面向社会的科学》确立为国家级科学传播战略** 正式将解决方案新闻从行业倡议上升为连接科研界、大众传媒与公民社会的战略通道，倡导[[Science Journalism\|科学新闻]]以此重塑公众科技信任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59, 63)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 解决方案新闻核心行业争议
 >
@@ -190,8 +176,6 @@ updated: 2026-10-22
 > 解决方案新闻不适用于刚刚爆发的突发急性灾难或尚无任何探索应对尝试的未知危机；在此类情境下强行套用解决方案[[Paradigm\|范式]]，会导致脱离实际的空洞说教。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 解决方案新闻受众需求、心理效能与信息渴求实证数据表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

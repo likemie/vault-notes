@@ -54,11 +54,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Trust Calibration
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **人机信任校准（Trust Calibration，又称信任校准）** 指人类操作者或学习者对自动化与人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）系统赋予的主观信任水平（Trust），与系统在特定任务情境中的客观真实能力（Capabilities）及有效边界相吻合的动态适应状态。在工效学、认知心理学与人机交互领域，信任校准是决定[[Man-Computer Symbiosis|人机协同]]效能与安全性的核心[[Construct|构念]]；当信任水平超出系统实际能力时发生**过度信任（Overtrust）**，诱发盲目顺从与[[Automation Bias|强自动化偏差]]；当信任水平低于系统实际能力时发生**信任不足（Undertrust / Distrust）**，导致对正确建议的非理性拒绝与技术闲置。在哲学与社会[[Epistemology|认识论]]视角下，信任校准不仅是主观心理感受，更是关于信任分配是否具备客观充分理由的规范性确证机制。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–12)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 人机信任状态三元象限辨析
 > | 比较维度 | 信任不足 / 怀疑（Undertrust / Distrust） | **校准信任（Calibrated Trust）** | 过度信任（Overtrust / Strong Bias） |
 > |---|---|---|---|
@@ -91,8 +85,6 @@ updated: 2026-10-22
 > | **治理干预方向** | 提升系统可解释性与展示历史基线成功率 | 维持动态反馈与常态化双向协同 | 引入[[Epistemic Friction\|认识论摩擦]]、反思机器与[[Defeater\|反驳型击败者]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 人机信任校准的核心维度与机制
 > - **能力与边界感知（Capability & Boundary Awareness）** 操作者对系统算法架构、训练语料分布及适用情境极限的清晰认知，是实现精准信任校准的认知基石。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–10)]]
@@ -137,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -148,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 信任校准概念的演变历程
 > - **1980s–1990s — 工效学与自动化信任奠基** Bonnie Muir (1987) 首次将社会心理学信任理论引入人机系统，界定信任校准为操作者主观信任与机器客观[[Reliability|可靠性]]（Reliability）的吻合度。
 > - **2004 — 动态信任框架与适当依赖模型** John D. Lee and Katrina A. See (2004) 在 *Human Factors* 发表里程碑综述，构建“信息—信念—信任—依赖”动态回路，系统辨析过度信任（Overtrust）与信任不足（Distrust）的促发机制。
@@ -157,8 +145,6 @@ updated: 2026-10-22
 > - **2026 — 社会[[Epistemology|认识论]]转向与客观理由确证** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将信任校准从心理测量与行为工效学拓展至规范认识论，论证过度信任向[[Epistemic Deference|认识论顺从]]转化的因果路径，确立自信解耦机制，并提出利用[[Defeater|击败者]]与反思机器校准批判性信任的交互架构。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -178,8 +164,6 @@ updated: 2026-10-22
 > 信任校准依赖于系统行为的可观察性与任务环境反馈的及时性；在高度动态、信息极度不完全且无法事后快速检验真伪的黑天鹅极端情境中，人类往往难以在短时间内完成有效的信任校准。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 信任失调与[[Automation Bias|自动化偏差]]实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

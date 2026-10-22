@@ -47,11 +47,7 @@ aliases:
   - Organisation européenne pour la recherche nucléaire
 ---
 
-# CERN
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **欧洲核子研究组织（European Organization for Nuclear Research / CERN）** 是 1954 年由欧洲 12 国联合创设、总部设于瑞士日内瓦的全球顶级跨国[[Big Science|大科学]]基础研究机构；其核心使命是为全球粒子物理学界提供超越单国财政与工程极限的巨型科研基础设施（如大型强子对撞机 [Large Hadron Collider, LHC]），以探索物质基本组成与宇宙演化规律。在科技政策视阈中，CERN 不仅是纯基础科学探索的圣殿，更是依托独特的战略性公共采购与供应链技术学习机制在民用工业领域催生巨额外溢效应的典范机构。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
@@ -63,16 +59,12 @@ aliases:
 
 ---
 
-## 核心机制：战略性公共采购与供应链技术学习
-
 > [!feature] CERN 驱动技术外溢的三大采购与学习机制
 > - **严苛的高门槛技术规格定制（First-of-a-Kind Procurement Specifications）** CERN 的巨型实验装置往往需要市场上完全不存在的极端精密仪器（如极限超高真空阀门、耐极低温超导线圈与毫秒级高通量数据传感器），迫使参与投标的私营制造企业必须开展先导性联合研发。（Florio et al., 2018; p. 797）
 > - **深度交互式供应链技术学习（Interactive Supply Chain Learning）** CERN 物理学家与工程师并非仅仅“下订单”，而是在长达数年的供货周期中进驻供应商工厂，共同攻关材料配方与制造公差，实质上充当了私营企业的研发顾问与高级测试平台。（p. 797）
 > - **突破性技术的非受限民用扩散（Unconstrained Civil Diffusion）** CERN 采购协议通常不设置排他性军用保密限制，使得中标企业在攻坚中积累的前沿技术与工艺能力能够迅速移植至医疗影像（如正电子发射断层扫描 [Positron Emission Tomography, [[Punctuated Equilibrium Theory|PET]]]）、半导体光刻及高压电力传输等高端民用市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
 
 ---
-
-## 制度成效与理论意义
 
 > [!contrast-table] CERN [[Big Science|大科学]]采购模式与常规政府商业采购对比
 >

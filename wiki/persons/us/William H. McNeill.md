@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# William H. McNeill
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名历史学家、芝加哥大学罗伯特·A·米利肯历史学杰出服务讲席教授，曾任美国历史学会（AHA）主席。
@@ -73,16 +69,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与学术视野
 > - **1963 — *The [[Research in Schools Evaluation|RISE]] of the West*** 突破传统国别史孤立视角，从各大文明相互碰撞与技术文化扩散的宏观视野重构人类整体历史演进。
 > - **1976 — *Plagues and Peoples*** 开创环境史与疫病生态史跨学科先河，揭示传染病在[[Geopolitics|地缘政治]]与文明兴衰中的决定性机制。
 > - **1997 — *[[Western Civilization Course|Western Civ]] in World Politics: What We Mean by the West*** 阐明西方文明通识课程在多元移民社会中扮演的[[Civic Religion|公民宗教]]功能，批判全盘否定文化优劣判断的极端[[Cultural Relativism|文化相对主义]]倾向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85, 93)]]
 
 ---
-
-## 思想立场与学术评价
 
 > [!critique] 思想立场与当代反思
 > - **[[General Education|通识教育]]的公民凝聚功能** 麦克尼尔强调，正典通识教育不仅仅是传授历史事实，更是维系多元异质社会政治凝聚力、塑造共同公民身份不可或缺的精神器皿。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]

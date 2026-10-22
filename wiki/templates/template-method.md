@@ -18,11 +18,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 方法的核心定义、研究对象、适用问题、基本单位和典型输出，附 Argument citation。
@@ -40,8 +36,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 方法定位
-
 > [!method-position] 认识论与方法定位
 > - **知识观** 说明此方法如何理解知识、证据和可观察对象。
 > - **研究者角色** 质性方法说明研究者与对象的关系；量化方法说明变量、测量和模型选择中的研究者判断。
@@ -56,8 +50,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. 明确研究问题、对象、分析单位和适用边界。
 > 2. 说明资料来源、抽样、案例选择、变量或指标体系。
@@ -66,8 +58,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 5. 说明结果呈现方式，以及结果能支持何种结论。
 
 %% 下面按方法类型保留对应一个模块，其余删除。 %%
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -82,8 +72,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 2. 说明编码、主题生成、叙事重构、比较或解释框架。
 > 3. 说明备忘录、反身性记录、团队协商或软件使用。
 > 4. 说明三角互证、成员检查、同伴审阅、外部审计或厚描述。
-
-### 量化方法模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 横截面、时间序列、面板、嵌套数据、实验数据、空间数据或研究汇总数据。
@@ -111,8 +99,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **核心包或命令** 例如 `pandas`、`statsmodels`、`lme4`、`fixest`、`spdep`、`geopandas`、`sem`、`xtreg`。
 > - **实现流程** 按数据准备、模型估计、诊断检验、可视化和导出结果写可复现步骤。
 > - **报告标准** 报告估计值、置信区间、显著性、效应量、模型拟合、分类阈值、代码版本和软件版本。
-
-### 复杂模型模块
 
 > [!method-stack] 指标体系与数据口径
 > - **子系统或维度** 说明模型把对象拆成哪些子系统、维度或潜变量。
@@ -152,8 +138,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **模型假设** 说明时间不变性、空间独立性、线性、正态性、平衡样本等假设是否成立。
 > - **因果边界** 描述性模型、综合评价模型或空间格局模型不得直接推出因果关系。
 
-### 混合方法模块
-
 > [!method-stack] 整合设计
 > - **设计类型** convergent、explanatory sequential、exploratory sequential、embedded、case-study mixed methods 等。
 > - **先后顺序** 量化先行、质性先行、同步并行或嵌入式。
@@ -162,16 +146,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 说明适合回答的问题类型、资料条件和研究场景。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **谨慎使用** 说明需要额外条件、补充资料、诊断检验或理论支撑的场景。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **不适合使用** 说明不适合回答的问题类型，例如描述性方法不适合因果识别。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 样本偏误、测量误差、选择偏误、发表偏误、研究者解释偏误、模型设定偏误或空间自相关。
@@ -193,8 +173,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 只写与本方法有实质关系的条目，删除无内容的行。 %%
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 该研究如何使用此方法，只写一句话，不展开文献摘要。

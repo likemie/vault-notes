@@ -61,11 +61,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Mixed Methods Appraisal Tool
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Mixed Methods Appraisal Tool（MMAT）
 > - **工具类型** [[Mixed Methods Research\|混合方法]]评价工具（Mixed Methods Appraisal Tool, MMAT），批判性评价核查清单（checklist），用于[[Systematic Review\|系统综述]]的证据质量评估。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 > - **实施方式** 由受过训练的评价者（通常两人独立、双盲）逐条核对，再协商或由第三方裁定分歧；本研究采用评价者配对双盲方式。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 研究的方法学质量（按研究设计类别）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -91,16 +85,12 @@ updated: 2026-10-22
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 每个研究设计类型 5 条质量标准，另加 2 条适用于所有研究的通用筛选问题。
 > - **作答格式** 逐条判定符合与否（是／否／不确定），得分合计为 0–5 的质量分数。
 > - **反向题与跳题** 先回答通用筛选问题；若研究不属于任何可评价设计类型，则不作质量评分。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -111,8 +101,6 @@ updated: 2026-10-22
 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | MMAT 2018（Hong et al., 2018） | 对 67 项探讨 ChatGPT 认知影响的质性、量化与[[Mixed Methods Research\|混合方法]]实证研究进行独立双盲质量评估 | 双人独立双盲评价，初始一致性达 92%，协商达成完全共识；排除 2 项得分低于 60% 的低质量研究 | 总体得分 60%–100%，58 项（87%）达到 80% 及以上高严谨性标准，[[Ganz-Methode\|整体方法]]学质量稳健 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

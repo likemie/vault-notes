@@ -45,11 +45,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Danish Act on Transparency 2002
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2002 年由丹麦议会审议通过、自由党与保守党联合政府颁布，并在 2005 年通过教育部行政通令全面细化落实。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **制度位置** 政策作为丹麦[[New Public Management|新公共管理]]工具包的关键切口，试图在[[Neo-Weberian State|新韦伯主义]]地方分权体制内注入市场问责要素。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法案强制各级教育机构在公开渠道披露教学质量与评估结果信息，以赋权公众知情监督并引导家长教育选择。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -77,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2002 丹麦议会正式通过《教育透明度与公开性法案》（Lov om gennemsigtighed og åbenhed i uddannelserne）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 > - 2005 教育部颁布行政令明确学校网站披露指标细则，并开始在中央网站发布包含升学率与均分的非正式排名。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -87,8 +79,6 @@ updated: 2026-10-22
 > - 2012–至今 大众媒体与智库借由该法赋予的知情权获取底层数据，在报纸与网络平台常态化发布民间排位表，引发持续的治理争议。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **中央立法与监管** 丹麦教育部（Undervisningsministeriet），负责制定公开指标标准并监督学校执行。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -101,8 +91,6 @@ updated: 2026-10-22
 > - **官方排位撤出与民间替代** 在官方终止排位表编制后，规制工具积累的大量公开数据未被销毁，反倒为社会第三方的再挖掘创造了数据资源。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **学校信息披露履约率** 按规定在官网上线标准化透明度专区的学校比例。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
@@ -119,8 +107,6 @@ updated: 2026-10-22
 > - **2011** 中左翼执政联盟正式决定在国家层面废止官方学校排位表发布的年份。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

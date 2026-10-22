@@ -58,11 +58,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Wendy Espeland
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代社会学家，西北大学社会学系荣休教授；知识社会学、法律社会学与量化社会学（Sociology of Quantification）代表人物。
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990年代 — 制度理性与[[Commensuration\|通约化]]机制确立** 聚焦水资源冲突与官僚决策中的理性化神话，揭示技术官僚如何通过将异质价值折算为单一价格或分值来强行制造共识。
 >   - **代表著作** *The Struggle for Water: Politics, Rationality, and Identity in the American Southwest* (1998); *Commensuration as a Social Process* (1998, with M. L. Stevens)。转引自 [[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 225)]]
@@ -103,9 +97,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 量化并非对前存在现实的中立镜像反映，而是一种深刻重塑社会关系的干预技术。数字指标通过[[Commensuration\|通约化]]机制强行剔除情境细节与质性争议，使数字作为客观普适的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]；与此同时，数字的抽象性并未消除政治，反而激发了具有高度弹性的意识形态叙事，并诱发全系统的反应性焦虑与行为异化。
 
 > [!citation-card] 通约化作为抹除质性差异的社会过程
@@ -120,9 +112,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 极大地拓展了评价与[[Sociology of Valuation and Evaluation\|评估社会学]]（Sociology of Valuation and Evaluation）和科学知识社会学（SSK），与西奥多·波特（Theodore M. Porter）并列为当代量化社会学（Sociology of Quantification）的奠基学派。
 > - **方法路径** 倡导将定量度量指标本身作为质性社会学与制度[[Ethnography\|民族志]]的研究对象，开创了剖析排名算法、指标编制逻辑与行政填表行为的[[Reflexivity\|反身性]]研究方法。
 > - **政策路径** 深刻影响全球教育政策学、比较教育学与公共管理学界；其理论被广泛运用于解构 [[PISA]] 跨国排名、大学世界排名（THE, QS）以及国际组织[[Evidence-Based Policy-Making|循证决策]]中的数字修辞。
@@ -142,8 +132,6 @@ updated: 2026-10-22
 > - **理论对话者** [[Gita Steiner-Khamsi]] — 在比较教育治理与[[Policy Brokerage\|政策中介]]研究中吸收其“指标叙事”[[Construct\|构念]]，发展出“[[Façade of Rationality\|理性表象]]”批判[[Analytic Framework\|分析框架]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

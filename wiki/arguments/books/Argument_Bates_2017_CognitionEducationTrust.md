@@ -43,7 +43,6 @@ citation_aliases:
   - "Bates, 2017"
   - "Bates (2017)"
 ---
-# Argument_Bates_2017_CognitionEducationTrust
 
 > [!question]
 > 这部受委托撰写的组织史，如何把 [[Cognition Education]] 近三十年的业务扩张、市场波动、治理调整与公益安排，重新组织成一套关于“适应性（adaptability）”“韧性（resilience）”与“持续存在理由”的解释。(p.7-9, p.75-76)
@@ -102,9 +101,7 @@ citation_aliases:
 > - 第五章把公益从外围慈善提升为组织合法性的核心，这使全书始终能把商业扩张和教育公益讲成互相支撑的关系。(p.69-74)
 > - 因此，这部书最有分析价值的地方，不在于提供最完整的公司发展史，而在于揭示机构如何叙述和正当化自己的历史。(p.7-9)
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > 书名《达尔文雀》借用了演化生物学中的隐喻（原文：The title, Darwin’s Finch, is a metaphor drawn from evolutionary biology.）。(p.8)
 
 > [!quote|notitle]

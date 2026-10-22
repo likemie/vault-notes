@@ -74,12 +74,9 @@ created: 2026-10-17
 updated: 2026-10-22
 ---
 
-# Socioeconomic Status
 （社会经济地位）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **社会经济地位（Socioeconomic Status, SES）** 指个体或家庭在社会分层结构中所占据的相对位置与综合资源占有状况，通常通过父母[[Educational Level|受教育水平]]、职业声望以及家庭收入或物质资产等多维指标进行[[Operationalization|操作化]]测度。在教育实证研究中，社会经济地位被普遍证实为解释学生认知发展、[[Academic Achievement|学业成就]]与受教育机会变异的最强因果决定因素。然而，在以《[[Visible Learning|可见的学习]]》为代表的部分量化[[Meta-analysis|元分析]]综合中，研究者刻意将 SES 排除在课堂教学干预的调节[[Variable|变量]]之外，引发了关于“阶级盲教学思维（class-blind pedagogical thinking）”的学术批评。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 94)]]
@@ -101,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 社会经济地位与相近社会学资本[[Construct|构念]]辨析
 > | 维度 | 社会经济地位（SES） | [[Cultural Capital\|文化资本]] | 经济资本（Economic Capital） |
 > |---|---|---|---|
@@ -113,9 +108,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **父母[[Educational Level|受教育水平]]（Parental Education）** 家庭文化环境与教育期望的核心预测源，直接决定家庭语言互动质量与学业指导能力。
 > - **职业声望等级（Occupational Prestige）** 反映家庭在劳动力市场中的自主性与权力地位，通常采用国际通用的职业社会经济地位指数测算。
 > - **家庭财富与物质资源（Household Wealth & Income）** 提供稳定的学习空间、网络设备、辅导书籍与课外拓展机会的物理物质保障。
@@ -165,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕社会经济地位形成的命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -184,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 社会结构宿命论 vs 纯技术教学处方万能论
@@ -201,8 +190,6 @@ updated: 2026-10-22
 > > - **尼尔森等的方法学批判（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 论证任何教学举措（反馈、[[Homework|作业]]、小班化）在富裕阶层与贫困阶层中的作用机制完全不同；剔除 SES 调节变量直接摧毁了实证结论的[[Ecological Validity|生态效度]]。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 社会经济地位在宏观综合中的实证数据对照
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -265,8 +252,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键引用
-
 > [!citation-card] 阶级盲教学思维的技术主义本质
 > [[John Hattie|哈蒂]]将学生构想为一个均质无差别的群体，在这一前提下，具体的社会和文化生活条件变得完全无足轻重。这形成了一种阶级盲的教学思维（class-blind pedagogical thinking），其危险在于，它用看似科学的量化数据掩盖了社会阶层不平等的残酷现实。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 7)]]
 >
@@ -290,8 +275,6 @@ updated: 2026-10-22
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[OECD|经合组织]]数据确证家庭背景占据学业方差的绝对主导地位，反思新自由主义“学校抹平一切”的神话。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

@@ -48,11 +48,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# NAPLAN
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 澳大利亚全国读写与计算能力测评计划（National Assessment Program – Literacy and Numeracy，简称 NAPLAN）是澳大利亚首个跨越州际分权壁垒的全国性基础教育标准化全员普查测评，创设于 2008 年，标志着澳大利亚基础教育治理进入统一数据驱动与绩效监控的新阶段。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **核心问题导向** 克服长期以来各州独立测评标准不一、国家学业数据无法横向可比的碎片化格局，为联邦国家教育协议提供透明的绩效基线。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 259)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 依据国家共同能力量规对全体学生实施标准化测验，通过生成横跨四个学段的纵向连续能力量表，监测全国最低国家标准达成情况并为学校教育改进提供精细诊断。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
@@ -83,16 +77,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2008–2009 — 国家标准确立与首次开考** 终结各州孤立测评体制，全澳统一开展首届纸笔施测，确立跨学段十年级等级带基准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **2010–2017 — 数据公开与次国家治理武器化** 官方推出“我的学校”（[[My School Website]]）公开平台，引入相似学校指数开展同侪排名；各州教育厅随即出台与测验挂钩的行政督导机制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 > - **2018–至今 — 在线自适应转型与指标脱敏争论** 全面推进 NAPLAN 在线机考化（[[Computerized Adaptive Testing|Adaptive Testing]]），缩短出分周期，同时各州联合发起独立审查呼吁淡化排位竞争以降低师生焦虑。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层设计与规制机构** [[Australian Curriculum|澳大利亚课程]]、评估与报告局（ACARA），负责国家测试标准研发与统一数据发布。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **州级问责[[Assemblage|政策装配]]** 各州教育厅将 NAPLAN 均分与增值作为考核校长的量化指标，将低表现学校划入行政整改或指定督导支持名单，完成了从低利害向高利害的实质转化。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **国家最低标准达成率** 各年级达到法定最低能力等级带的学生百分比。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - **10** 个连续进阶的全国能力标准等级带（Bands）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
 
 ---
-
-## 争议与制度反思
 
 > [!debates] 项目争议
 >

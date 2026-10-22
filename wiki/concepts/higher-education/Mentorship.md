@@ -61,11 +61,7 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Mentorship
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 导师制（Mentorship）是一个系统的培育与发展过程，由更具专业技能、经验或学术声望的个体（导师，Mentor）作为榜样，通过个性化示范、指导、支架支持、赞助与陪伴，促进资历较浅者（受训者，Mentee）在专业学术、认知推理及社会情感层面的综合发展。在高等教育与科学研究中，导师制是学术社会化与学术谱系传承的核心机制；在教学干预中，它作为微观认知催化剂驱动[[Critical Thinking\|批判性思维]]的高阶跃升。[[Argument_Sandrone_2025_MEO\|(Sandrone, 2025, pp. 2–3)]] [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
@@ -82,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 导师制与相近指导形态辨析
 > | 维度 | 传统学术导师制（Faculty Mentorship） | 产学/工业界导师制（Industrial Mentorship） | [[Peer Mentoring\|同伴导师制（Peer Mentoring）]] | 行政督导 / 教师考评（Supervision） |
 > |---|---|---|---|---|
@@ -93,8 +87,6 @@ updated: 2026-10-22
 > | **认知过程** | 隐性思维外显化与长程社会化 | 前沿科学的情境化转化与工艺痛点输入 | 经验共情与低威胁讨论 | 依照标准量表进行绩效评估 |
 
 ---
-
-## 细分形态与下位策略索引
 
 > [!taxonomy] 导师制下位形态与分类架构
 > - **按指导主体与跨界属性划分**
@@ -118,8 +110,6 @@ updated: 2026-10-22
 > | **产学协同工业导师制** | 产业专家嵌入高校课题组提供测试环境、工程指导并打通直聘管道 | 年均支撑 1,500 名博士生培养并形成技术大会（TECHCON）直聘网络 | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 科学精英培养与学术社会化要素
 > - **学术谱系与累积优势（Mentorship Lineage）** 科学家的成功表现出极强的师承网络集聚效应。727 位科学诺贝尔奖获得者中有 696 位属于同一个学术家族树（Tol, 2024; [[Argument_Sandrone_2025_MEO\|Sandrone, 2025]]）；诺贝尔得主子网络跨越四代师承（Chariker et al., 2017）。
@@ -181,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组（教学认知干预）
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
@@ -203,8 +191,6 @@ updated: 2026-10-22
 > | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 245–246, 251)]] | 美国[[Semiconductor Research Corporation\|半导体研究公司]]（SRC）产学导师网络与 TECHCON 大会；质性深度访谈（$N=19$）与历年档案计量分析 | 年均在读受资助博士生、历史累计毕业生数、工业导师参与度与招聘转化 | 年均资助近 1,500 名博士生；累计输送 9,200+ 名高层次工程毕业生；TECHCON 形成企业高管现场直聘管道 | 证实产业导师制超越单纯科研辅导，是推动前沿科技知识情境化并构建产业高端工程劳动力蓄水池的核心制度载体 |
 
 ---
-
-## 争议与批评
 
 > [!critique-method] 制度性挑战与异化风险
 > - **诺贝尔演讲中的[[Mentorship Recognition\|导师致谢]]缺失** 科学界普遍存在对导师隐形劳动的忽视。[[Argument_Sandrone_2025_MEO\|Sandrone (2025)]] 发现[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲中仅 9.6% 提及导师，反映了科学奖励体系过度聚焦于“个人天才神话”而弱化培育性劳动的结构性偏见。

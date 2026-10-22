@@ -70,11 +70,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Research-Engaged School
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 研究参与学校（Research-Engaged School）指那些“以自觉的战略性、发展性取向，在全体教职工中系统培育[[Evidence-Informed Practice\|证据知情实践]]与文化”的学校组织形态。这一界定并不要求学校将每一个微观管理或教学决策都机械建立在学术证据之上（Godfrey, 2014a, 2014b），而是要求学校在组织制度层面具备调用证据的**意图（intent）**、**意愿（willingness）** 与**能力（capacity）**，并在日常工作中将证据转化为持续专业学习与教学改进的内生机制。在教育[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，研究参与学校被进一步确立为承载组织使能三大构件（榜样领导力、[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]、制度化基础架构）的微观实践基石，推动学校从“外部证据的机械被动消费者”跃升为“立足适切证据与审慎实施的自适应学习生态”。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 117–118)]]；[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
@@ -110,8 +106,6 @@ updated: 2026-10-22
 > | **核心关注问题** | 学校如何构建支持深度探究的制度环境与土壤 | 教师在课堂决策中如何审慎使用证据因材施教 | [[Knowledge Production\|知识生产]]者与使用者之间的中介转化效率如何 |
 
 ---
-
-## 核心要素
 
 > [!feature] 研究参与学校的四大判定特征
 > - **自觉的战略性与发展性规划** 学校并非偶然或被动应对外部检查，而是将研究参与明确写入学校战略发展规划，作为持续改进的内在引擎。
@@ -203,8 +197,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -226,8 +218,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 全员包容参与还是骨干精英攻关
@@ -247,8 +237,6 @@ updated: 2026-10-22
 > - **样本学段与自选偏差** 现有严谨实证数据多来自自愿参与干预的小学样本（如 [[Research Learning Communities\|RLC]] 项目学校），对资源匮乏学校或中等教育阶段的组织适用性仍需谨慎检验。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 132–133)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

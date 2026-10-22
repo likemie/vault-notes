@@ -654,7 +654,22 @@ def insert_module(body: str, module: str) -> str:
                 target = i
                 break
     if target is None:
-        return body.rstrip("\n") + "\n\n" + module
+        # No section headings (callout-only layout): place after the last
+        # top-level empirical table callout, else before the related-studies
+        # evidence callout, else at the end of the note.
+        starts = [i for i, l in enumerate(lines) if re.match(r"^> \[!(effect-table|ma-table|ref-table)\b", l)]
+        if starts:
+            j = starts[-1] + 1
+            while j < len(lines) and lines[j].startswith(">"):
+                j += 1
+            head = "".join(lines[:j]).rstrip("\n")
+            tail = "".join(lines[j:]).lstrip("\n")
+            return head + "\n\n" + module.rstrip("\n") + ("\n\n" + tail if tail else "\n")
+        rel = [i for i, l in enumerate(lines) if re.match(r"^> \[!(evidence-grid-a|evidence-grid)\b[^\]]*\][+-]? *相关研究", l)]
+        if rel:
+            target = rel[0]
+        else:
+            return body.rstrip("\n") + "\n\n" + module
     cut = target
     while cut > 0 and lines[cut - 1].strip() in {"", "---"}:
         cut -= 1

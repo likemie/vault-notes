@@ -37,12 +37,9 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# University Social Responsibility
-
 ---
-## 定义
 
-> [!info|notitle]
+> [!info] 定义
 > 大学社会责任（University Social Responsibility, USR）指大学对多元利益相关者和社会议题的制度化[[Open-Mindedness|开放性]]，是[[Organizational Actorhood\|组织能动者身份]]（[[Organizational Actorhood]]）中社会嵌入性（social embeddedness / citizenship）维度在大学语境中的具体表现（Ramirez, 2006; Bromley & Meyer, 2015; Sørensen et al., 2019）。USR 将长期仅在营利部门讨论的企业社会责任（CSR）概念延伸至高等教育机构，涵盖就业政策、校园建设、可持续发展管理、学生生活以及对全球议题（如气候变化、贫困、社会不平等等）的研究与教学贡献([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149, 152–153]])。
 
 > [!quote|notitle]
@@ -87,9 +84,8 @@ updated: 2026-10-22
 > - [[Otherhood]] — USR 实践是大学 otherhood 的制度化表达：大学的 USR 活动（如减碳、促进性别平等、扶贫研究）本质上是为非行动者实体和现代性原则行使代理权([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 
 ---
-## 实证发现
 
-> [!success|notitle]
+> [!success] 实证发现
 > - Corporate Register (2019) 和 Global Reporting Initiative (2019) 的可持续发展披露数据库共列出全球 200+ 所大学的 CSR 报告，涵盖公立和私立、知名和不知名大学，表明 USR 已成为跨越机构类型和声望等级的全球性趋势——不是少数精英大学的特权实践([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]])
 > - 大多数大学的 CSR 报告在过去 5 年内首次发布（Fig. 9.1），其增长曲线呈指数形态，暗示我们正处于 USR 制度化的"起飞期"——这一加速与 [[UN Sustainable Development Goals\|SDGs]]（2015）和 [[THE Impact Ranking]]（2019）的时间节点高度吻合([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.153]])
 > - 可持续发展已被部分学者视为大学的一种新型"[[Third Mission\|第三使命]]"（third mission）甚至"宏大挑战"（grand challenge），超越了传统的教学-研究-产业联系三使命框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.150]]）

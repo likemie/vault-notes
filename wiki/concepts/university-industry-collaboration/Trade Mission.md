@@ -32,11 +32,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Trade Mission in University-Industry Engagement
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 贸易代表团（trade mission）是政府组织的国际商务出访活动，通常由州长或同等级别官员带队，成员包括企业代表、政府官员和大学代表。大学参与贸易代表团的核心目的是：绕过常规中间环节，直接接触海外企业的决策者，展示大学的研究能力，并催化国际[[University-Industry Collaboration\|产学合作]]([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.76]])。
 
 > [!quote|notitle]

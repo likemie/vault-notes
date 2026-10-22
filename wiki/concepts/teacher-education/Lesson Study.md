@@ -66,11 +66,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Lesson Study
-
 ---
-
-## 定义
 
 > [!def] 概念定义
 > **课例研究（Lesson Study，源自日文“授業研究 / Jugyō Kenkyū”）** 是起源于日本、随后风靡国际教师教育界的协同校本专业发展与[[Action Research\|行动研究]][[Paradigm\|范式]]。其核心操作机制为：由任课教师团队围绕具体学科教学疑难或学生长远[[21st Century Skills and Competencies Discourse\|核心素养]]，共同经历“协同备课[[Design-Based Research\|设计研究]]课 $	o$ 一人执教且同伴聚焦个案学童进行细致观课 $	o$ 基于实证记录展开集体研讨反思 $	o$ 提炼微观教学法并修订教案再教”的循环探究过程。
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 课例研究 vs. 传统公开课听评 vs. 独立[[Action Research\|行动研究]] vs. 外部专家处方培训
 > | 维度 | 课例研究（Lesson Study / [[Joint Practice Development\|JPD]]） | 传统公开课听评 | 教师个人行动研究 | 外部专家处方培训 |
 > |---|---|---|---|---|
@@ -106,8 +100,6 @@ updated: 2026-10-22
 > | **运作机制** | [[Co-Design\|协同设计]]—试验—微调迭代闭环（JPD） | 单次展示—课后点评—活动终结 | 个人计划—行动—反思单兵闭环 | 集中讲授—各自回校自行摸索尝试 |
 
 ---
-
-## 核心要素
 
 > [!feature] 课例研究五阶段协同[[Inquiry Cycle\|探究循环]]
 > - **第一阶段：协同确立目标与教材深度解析（Formulating Goals & Curriculum Analysis）** 教师团队共同研读国家课程标准与学情痛点，确立长远全人育人愿景（如“培养勇于提出质疑的思考者”）与具体单元教学目标。
@@ -157,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -168,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 课例研究历史演变与国际传播脉络
 > - **1870s–1950s — 日本[[Normal School\|师范教育]]萌芽与制度化** 明治维新时期从西方引入师范学堂，结合本土寺子屋研讨传统发展出“公开授業”；战后成为日本各级公立学校不可动摇的法定义务教研体系（校内研修）。
 > - **1999 — 《教学差距》出版与全球引介狂潮** 斯蒂格勒与希伯特在 [[TIMSS]] 录像分析中系统总结课例研究，将其塑造为揭示东亚高[[Academic Achievement\|学业表现]]秘密的“灵丹妙药”，欧美各国掀起大规模模仿引进浪潮。
@@ -178,8 +166,6 @@ updated: 2026-10-22
 > - **2018 — [[Self-Improving School System\|SISS]] 视阈下 [[Joint Practice Development\|JPD]] 证据融通载体的定位重塑** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 在自我改进学校系统研究中，赋予课例研究以全新的循证定位：将其界定为联合实践发展（JPD）的典范机制，能够消除实践者自主探究与外部[[Research Utilization\|研究使用]]的鸿沟，为 [[Professional Learning Community\|PLC]] 提供了在课堂情境中协同“测试、实施与微调”外部循证方案的正式制度载体。
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力：深层[[Joint Practice Development\|联合实践开发]]（JPD 赋能） vs 缺乏支撑下的形式化空转与时间挤出
 > - **JPD 赋能立场（蓝方）** 强调课例研究是将抽象循证教学策略转化为课堂微观实践的最强操作载体，通过协同测试与微调赋予教师真正的专业主体性。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
@@ -201,8 +187,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 课例研究相关实证结果对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -212,8 +196,6 @@ updated: 2026-10-22
 > | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 英格兰 79 所小学（696 名教师与领导） | 横截面[[Questionnaire\|问卷调查]]与基线评估 | 课堂应用新方法（Q2）、分享信息正式论坛（Q13） | 86% 教师认为研究有助于在课堂应用新方法，但仅 61% 确认学校设有分享信息的正式论坛 | 描述性基线统计 | 揭示了一线教师强烈的课堂改课愿望与学校正式 [[Joint Practice Development\|JPD]] / 课例研讨载体匮乏之间的结构性矛盾 |
 
 ---
-
-## 应用案例
 
 > [!case] 案例：英国 Dudley 课例研究模式本土化探索
 > 在英国中小学本土化推广中，达德利（Pete Dudley, 2013）开发了强调跟踪“个案学童”（Case Pupils）的课例研究操作指南。三名教师组成课例小组，在集体备课后选择具有不同学习特质的 3 名学生作为聚焦点。在公开授课环节，观课教师不记录全班通识纪律，而是专职记录这 3 名学童在面对特定任务时的困惑表情、言语互动与解题步骤；课后反思会基于这些微观证据重构教案并由另一位教师在平行班执教。该模式为西方教师提供了结构化的微观学情观察工具，成为英格兰最广泛应用的课例[[Paradigm\|研究范式]]。
@@ -234,8 +216,6 @@ updated: 2026-10-22
 > | [[Education Endowment Foundation]] | 评估机构 | 资助开展全英课例研究大规模 [[Randomised Controlled Trials\|RCT]] 评估、打破流行教研神话的关键中介组织。 |
 
 ---
-
-## 包含此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation\|EEF]] 十年评估中课例研究大规模 [[Randomised Controlled Trials\|RCT]] 显现的零效应反思，剖析了教师主观满意度与客观学生学业产出脱节的深层机制。

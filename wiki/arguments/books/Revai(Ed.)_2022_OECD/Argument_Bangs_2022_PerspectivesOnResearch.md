@@ -137,7 +137,6 @@ status: completed
 created: 2026-09-14
 updated: 2026-10-22
 ---
-# Argument_Bangs_2022_PerspectivesOnResearch
 
 ---
 
@@ -172,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究方法
-
 > [!method-panel] 论辩设计与多元视角采纳
 > | 模块 | 材料与处理方式 |
 > |---|---|
@@ -193,8 +190,6 @@ updated: 2026-10-22
 > | **国家教师发展机构** | 牧人友利田（Makito Yurita）<br>日本国立教职员研修机构（National Institute for School Teachers and Staff Development, NITS）教授 | 深刻批判可用性与高性价比修辞对教育生态的扭曲，揭示[[Statistical Normalisation\|统计正态化]]抹杀离群弱势群体的制度暴力，捍卫专业伦理。（pp. 224–227） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 全章核心论证与多方论辩逻辑图
 > ```mermaid
@@ -235,9 +230,7 @@ updated: 2026-10-22
 
 ---
 
-### 论证步骤一　克服供给侧质量与理论赤字要求摆脱学科依附并以 SEER 卓越标准重构证据供给
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　克服供给侧质量与理论赤字要求摆脱学科依附并以 SEER 卓越标准重构证据供给
 > 教育系统无法转型为知识密集型系统的根源在于知识供给侧的质量与理论赤字；单纯扩张经费投入无法自发解决问题，必须在摆脱时髦意识形态框架与克服严峻[[Replication in Education Research\|复现危机]]的前提下，将证据评价标准从孤立的因果[[Internal Validity\|内部效度]]（单纯 [[Randomised Controlled Trials\|RCT]]）全面升级为涵盖构件明确、成本核算、通用测量、敏捷复现与教育公平的 SEER 循证卓越标准体系。（pp. 202–204, 206–209）
 
 #### 1. 教育研究深陷理论依附与复现赤字，摆脱供给侧危机亟需自主演绎经验科学建制
@@ -289,9 +282,7 @@ updated: 2026-10-22
 
 ---
 
-### 论证步骤二　弥合科研实践断层必须依靠教师工会制度化赋权和校本行动研究激活实践主体
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　弥合科研实践断层必须依靠教师工会制度化赋权和校本行动研究激活实践主体
 > 教育科研要走出供需脱节的泥潭，必须从根本上激活专业实践者的主体地位；拥有高工会密度的全球教师工会不仅能成为独立科研的委托人与倡导放大器，更能通过参与跨国调查[[Scale Development\|量表开发]]将真实的教学压力与教师领导力引入循证顶层设计；而在微观学校层面，唯有打破外来无反馈的单向榨取式调查，建立制度化的名师与研究型教师分工协同机制，才能将校本[[Action Research\|行动研究]]内化为学校的生存与持续创新机制。（pp. 209–213, 213–216）
 
 #### 1. 教师工会依托独立研究院与国际协商平台成为跨国科研生产的战略倡导者
@@ -353,9 +344,7 @@ updated: 2026-10-22
 
 ---
 
-### 论证步骤三　深化研-学伙伴关系依赖第三空间平等对话且必须以证据民主化打破高校资助垄断
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　深化研-学伙伴关系依赖第三空间平等对话且必须以证据民主化打破高校资助垄断
 > 弥合[[Research-Practice Gap\|研究与实践的鸿沟]]，绝不能靠抹平彼此固有差异的同化思维，而必须在明确承认各自分工与专业价值的基础上构建[[Third Space Discourse\|第三空间话语]]；同时，必须从源头直面高校科研的历史不公与榨取式科研弊端，推行[[Democratising Evidence\|证据民主化]]（democratising evidence），赋予一线教师与弱势社区共同设定科研议程的实质权力，并从根本上重塑慈善与政府基金会的资助规则。（pp. 216–220, 220–224）
 
 #### 1. 长效伙伴关系依托承认专业异质性的第三空间话语而非强行同化彼此
@@ -439,9 +428,7 @@ updated: 2026-10-22
 
 ---
 
-### 论证步骤四　警惕功利主义可用性与[[Statistical Normalisation|统计正态化]]对边缘群体的制度排斥，熔铸坚守受托伦理的协同治理蓝图
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　警惕功利主义可用性与[[Statistical Normalisation|统计正态化]]对边缘群体的制度排斥，熔铸坚守受托伦理的协同治理蓝图
 > 将立即可用性与公共财政高性价比作为评判教育科研价值的最高标尺，潜藏着严重的认识论偏差与政治伦理风险；高成本[[Experimental Research\|实验法]]主导下的[[Statistical Normalisation\|统计正态化]]不仅加速了教师专业性的[[Cognitive Deskilling|去技能化]]，更在制度上直接抹杀并排斥了处于正态分布两端的离群弱势群体。唯有将科学严谨性、民主协商性与专业受托伦理熔铸为一体，才能真正建构起支撑全系统的教育科研协同治理蓝图。（pp. 224–227, 227–231）
 
 #### 1. 功利主义可用性与[[Statistical Normalisation|统计正态化]]削弱教师专业判断并排斥弱势离群群体
@@ -487,8 +474,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 全章五大核心论证发现
 > 1. **教育科研供给侧质量赤字与学科依附是系统失效的深层瓶颈** 全球前 100 顶级教育期刊中复现研究仅占 0.13%，医疗与教育在[[Research Synthesis|研究综合]]论文产出上悬殊达 26:1；教育研究必须走出对外部学科与时髦价值体系的寄生借用，建立自主经验理论与严肃同行自律。（pp. 203–205）
 > 2. **SEER 体系确立了超越传统 [[Randomised Controlled Trials\|RCT]] 的新一代循证卓越标准** 强制实施干预构件拆解、真实成本核算（设专家服务台）、第三方通用工具测量（EdInstruments）、十万级用户数字平台快速试错以及面向教育公平的响应，彻底终结了混杂药丸袋式的黑箱评估。（pp. 206–209）
@@ -505,8 +490,6 @@ updated: 2026-10-22
 > - **25 / 150+** （高校 / 市镇） 瑞典 ULF 国家级科研-实践伙伴关系试点的系统覆盖广度。（p. 224）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Dirk Van Damme\|范达默]]论教育研究的[[Disciplinary Institutionalization|学科建制]]困境与研究者责任
 > 提升教育研究使教育系统转型为循证知识系统的道路是漫长而曲折的。在此期间，我们应当尊重政策制定者与实践者解决自身知识需求的方式。真正的挑战在于研究共同体自身，而不在于教师和政策制定者。（p. 206）
@@ -544,8 +527,6 @@ updated: 2026-10-22
 > *Allowing the lens of “applicability” to discern who the majority is, what a majority wants and needs, and the ways to make a functional majority drive research risks overlooking the realities and needs of minorities, the disenfranchised, and voices that do not align with the criteria of “applicability” in a given context. Therefore, it is important to acknowledge that efficiency-based quality in education research comes at a cost.*
 
 ---
-
-## 自述局限
 
 > [!warning] 原文自述局限与现实边界条件
 > - **专家观点的强情境性与主观立场限定**

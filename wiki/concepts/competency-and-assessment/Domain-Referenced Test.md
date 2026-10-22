@@ -27,11 +27,7 @@ created: 2026-08-01
 updated: 2026-10-22
 ---
 
-# Domain-Referenced Test
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 领域参照测验（domain-referenced test）先对待评估的内容全域作出详细规定，再从中抽取具有代表性的题目样本，根据学生在样本上的表现推断他们对整个领域的掌握程度。它由[[Criterion-Referenced Test\|标准参照测验]]发展而来，但更强调内容全域的边界和题目抽样的代表性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]
@@ -43,16 +39,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 从题目样本到内容全域
 > - **全域界定** 研究者需要说明领域包含哪些内容，并明确各部分的范围和权重。
 > - **代表性抽样** 题目样本必须公平代表整个领域；如果题目集中在某一部分，对整体掌握程度的推断就不可靠。
 > - **比例推断** 学生在题目样本上的答对比例被用来估计对内容全域的掌握比例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 与其他参照系的区别
 > | 维度 | 领域参照 | [[Criterion-Referenced Test\|标准参照]] | [[Norm-Referenced Test\|常模参照]] |
@@ -76,8 +68,6 @@ updated: 2026-10-22
 > - **1994 — 领域参照的扩展** Gipps (1994) 把领域参照视为[[Criterion-Referenced Test\|标准参照]]的延伸，进一步强调对内容全域作出详细规定，并通过代表性抽样支持从题目到全域的推断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]
 
 ---
-
-## 争议与批评
 
 > [!critique] 领域推断的脆弱性
 > - **抽样偏差** 题目如果集中在过易、过难或局部内容，由样本推断全域的结果就会失真。

@@ -84,11 +84,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Patient Capital
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **耐心资本（Patient Capital / Patient Finance）** 是指以长期价值创造、产业基础能力培育和重大社会技术转型为目标，具备跨越经济与技术周期（通常为 10 至 20 年）的长远投资视野、对高度技术与市场不确定性具有强耐受力，且不以短期流动性套利或快速股权退出为首要诉求的战略性金融资本。它主要由公共开发银行（Public Development Banks, PDBs）、国家战略投资基金、主权财富基金以及具有公共使命导向的研发资助机构供给，是支撑深度科技（Deep Tech）跨越[[Valley of Death|死亡之谷]]与推动三代使命政策演化的核心金融支柱。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
@@ -114,8 +110,6 @@ updated: 2026-10-22
 > - **不适用于 商业模式高度成熟的传统成熟产业** 主要适用于技术与市场双重不确定性极高、研发周期漫长且具有显著外部性的战略前沿与系统转型领域。
 
 ---
-
-## 概念辨析与特征维度
 
 > [!contrast-table] 耐心资本与短期私人风险投资（VC）的维度对照
 > | 比较维度 | 私人风险资本（Private Venture Capital, VC） | 国家/公共耐心资本（Patient Capital） |
@@ -215,8 +209,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -229,8 +221,6 @@ updated: 2026-10-22
 
 ---
 
-## 演进历程与制度变迁
-
 > [!dev-timeline] 耐心资本理论与实践演进
 > - **19 世纪末至 20 世纪初 — 第一阶段：后发追赶现代化与制度奠基（骆驼形态）** 德国国家工业信贷与[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）指导下的长期信贷，为现代[[Research Universities|研究型大学]]与重化工业基座注入跨周期资本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
 > - **1940s–1970s — 第二阶段：冷战[[Big Science|大科学]]与战后开发金融（狮子形态）** 美国[[Manhattan Project|曼哈顿工程]]、[[Apollo Program|阿波罗计划]]与 [[DARPA]]、[[National Institutes of Health|NIH]] 模式，通过巨额非商业研发预算和首台套采购承担极端技术不确定性；德国 [[KfW]] 支撑战后工业重建。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
@@ -240,8 +230,6 @@ updated: 2026-10-22
 > - **2024 — 国家战略科技混合耐心资本工具箱建制** 白宫发布《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，构建涵盖[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（[[AFVentures]]）、战略股权投资（[[National Science and Technology Council|NSTC]] 基金 / In-Q-Tel）与国家开发性债务融资（[[Loan Programs Office|LPO]]）的多层级耐心资本体系，保障硬科技从原型到规模制造的全周期生存。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 45–47)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 核心学术争议与张力
 >
@@ -274,8 +262,6 @@ updated: 2026-10-22
 > - **财政纪律与止损退出难度** 当战略使命探索遭遇不可逆的技术路线失败时，若缺乏刚性的阶段性里程碑考核，耐心资本容易异化为长期补贴低效企业的沉没成本黑洞。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

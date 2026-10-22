@@ -51,11 +51,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# University-Based Research Infrastructure
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 依托大学的科研基础设施（University-Based Research Infrastructure）是指以高水平[[Research Universities|研究型大学]]为空间依托和制度载体，在国家公共科技财政与重大战略任务支持下建立的大型尖端科学仪器集群、[[Comparative Education as a Cross-Sectional Area|交叉学科]]科研基地、[[Open-Mindedness|开放性]]计算网络以及配套的高级工程技术支撑体系。该概念强调大学科研平台兼具“[[Academic Freedom|学术自由]]探索”与“国家创新底座”的双重属性：二战后美国通过国防部、国家科学基金会等联邦机构对高校基础科研的长期高强度注资，构筑了世界领先的大学科研基础设施，它不仅保障了前沿理论突破，更为民用高科技工业的爆发式成长持续输送新创企业（Spinoffs）、通用协议标准以及掌握前沿工艺的高层次年轻科学家与工程人才。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31, 38, 41)]]
@@ -76,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **公共财政战略托底（Long-Term Public Financing）** 依赖联邦国防研发与基础科研基金的长周期、高强度支持，确保基础设施建设能够超越短期商业周期波动。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28–29)]]
 > - **科教融合与青年人才培养（Synergy of Research and Education）** 先进科研设施直接嵌入研究生与本科生培养链条，年轻学者在操作尖端实验平台中积累[[Tacit Knowledge|默会知识]]，成为未来技术外溢的载体。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31, 38, 42)]]
 > - **开放知识共享与网络协同（Open Sharing & Peer Collaboration）** 设施面向学术共同体开放，采用开放技术协议与同行评议分配规程，避免前沿科研工具被少数既得利益机构垄断。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]
@@ -120,8 +114,6 @@ updated: 2026-10-22
 > **科研预算短期化对大学底座的侵蚀** 2001 年 9/11 事件后联邦研发预算向反恐与国土安全的大规模重组，给依托大学的科研基础设施带来了深层体制风险。由于反恐研发强烈偏向于短期可交付的战术开发以及由卫生与公众服务部主导的生物医学反恐，联邦对国防基础与应用研究预算的削减超过 20%，导致大学在计算机科学、电气工程与物理学等领域的长期科研基础设施面临资金失血风险，这将在中长期内严重削弱全美由学术底座向民用经济释放颠覆性知识外溢的创新潜能。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 41–44)]]
 
 ---
-
-## 概念命题汇总
 
 > [!prop-table] 围绕依托大学的科研基础设施形成的代表性命题
 > | 命题陈述 | 核心机制 | 提出学者 | 实证支持情境 |

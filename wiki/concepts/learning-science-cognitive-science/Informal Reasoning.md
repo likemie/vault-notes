@@ -44,11 +44,8 @@ status: draft
 created: 2026-09-22
 updated: 2026-10-22
 ---
-# Informal Reasoning
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 非形式推理（Informal Reasoning）是指个体在面对现实生活中开放、复杂、结构不良（ill-structured）且不存在预设唯一演算法的问题情境时，基于不完备的信息与多元冲突的证据，开展主张生成、证据评估、价值权衡与抗辩反驳的动态认知与审议过程。由詹姆斯·沃斯（James F. Voss, 1989）与特洛伊·[[Michael Sadler\|萨德勒]]（Troy D. Sadler, 2004）等学者系统界定，非形式推理与纯粹形式逻辑推理（Formal Reasoning）在受控前提下的封闭必然演绎截然不同，它深度统合了理性认知、直觉感知与伦理道德关怀，是现代公民审议[[Socioscientific Issues\|社会科学议题]]（Socioscientific Issues, SSI）并做出明智决策的核心认知基石。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–155)]]
@@ -65,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 非形式推理与相关推理形式的[[Epistemology\|认识论]]辨析
 > | 维度 | 非形式推理（Informal Reasoning） | 形式逻辑推理（Formal Reasoning） | 实践推理（Practical Reasoning） |
 > |---|---|---|---|
@@ -76,8 +71,6 @@ updated: 2026-10-22
 > | **典型情境** | 审议转基因作物是否应获批商业化种植 | 证明勾股定理或推导三段论结论 | 调试机械引擎或制定日常出行规划 |
 
 ---
-
-## 核心要素
 
 > [!feature] 非形式推理的核心模式与构成维度
 > - **理性主导模式（Rationalistic Pattern）** 
@@ -121,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 非形式推理核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -137,8 +128,6 @@ updated: 2026-10-22
 > - **2010s 至今 — [[Practical Epistemology\|实践认识论]]与公民审议融合** Kelly & Licona 等人将非形式推理融入微观[[Discourse|话语]]协商与[[Epistemic Practices\|认识论实践]]框架，确立其作为公共[[Scientific Literacy\|科学素养]]核心支柱的学术地位。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157)]]
 
 ---
-
-## 局限性与适用边界
 
 > [!warning] 适用局限
 > - **确认偏误与认知捷径的干扰** 在高度情绪化的议题中，非形式推理容易受个体既有意识形态或偏见影响，滑向选择性采纳证据的动机性推理（Motivated Reasoning）。

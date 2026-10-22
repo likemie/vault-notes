@@ -42,11 +42,7 @@ created: 2026-09-03
 updated: 2026-10-16
 ---
 
-# Test for Creative Thinking-Drawing Production
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Test for [[Creativity\|creative thinking]]-Drawing Production (TCT-DP)
 > - **工具类型** 非言语图形创造力表现测验（整体性产品创作测验）。
@@ -55,8 +51,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔个别或团体施测（单张画纸，建议用时约 15 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 图形[[Creativity\|创造力]]与整体创造潜能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -72,14 +66,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 单面画纸，内含大正方形外框及 6 个特定位置的初始图形碎片（半圆、圆点、大直角、弧线、折线，以及方框外部的一个开放小方块）。
 > - **作答格式** 被试使用黑色铅笔在画纸上自由作画，被指导语告知“这是一幅未完成的图画，请尽情发挥想象力将其补充完成”。
 > - **反向题与跳题** 无反向题；不强调作画精美度，重点评定认知重组与构思独创性；总分满分为 72 分。
-
-### 测验刺激配置与核心计分准则
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -92,8 +82,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -103,8 +91,6 @@ updated: 2026-10-16
 > | Karwowski and Soszynski (2008) | TCT-DP Form A/B | 波兰高校学生（$N = 15$），结合创造性意象训练（TCI）检验创造力教学前后的绘画测验得分变化 | 复本重测信度 $r = 0.79$ | 结构化训练显著提升了大学生的 TCT-DP 总分及边界突破维度得分 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

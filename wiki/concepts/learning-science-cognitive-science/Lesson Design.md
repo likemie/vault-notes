@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Lesson Design
-
 > [!metax] [课堂设计 · Lesson design](https://www.visiblelearningmetax.com/influences/view/lesson_design)
 > 学生学习策略 › 学生导向干预
 >

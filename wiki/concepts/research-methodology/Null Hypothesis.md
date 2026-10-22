@@ -37,9 +37,6 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# Null Hypothesis
-
-## 定义
 
 > [!def] 零假设（Null [[Hypothesis]]）
 > 零假设是正式假设检验中的一种基本假设形式，预测在总体中[[Variable\|变量]]间不存在关系或组间不存在显著差异。其目的是通过陈述一个否定性预期来反驳理论，通常写作 H₀（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]）。
@@ -55,8 +52,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 零假设 vs [[Alternative Hypothesis\|备择假设]]
 > | 维度 | 零假设（H₀） | [[Alternative Hypothesis\|备择假设]]（H₁） |
 > |---|---|---|
@@ -66,8 +61,6 @@ updated: 2026-10-22
 > | 书写形式 | `H₀: ...` | `H₁: ...` |
 
 ---
-
-## 核心要素
 
 > [!feature] 零假设的核心特征
 > （[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch7；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]）

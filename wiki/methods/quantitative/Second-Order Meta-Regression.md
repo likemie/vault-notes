@@ -57,11 +57,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Second-Order Meta-Regression
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Second-Order Meta-Regression\|二阶元回归]]（Second-Order [[Meta-regression]]，亦称二阶调节分析或[[Meta-meta-analysis\|二阶元分析]]元回归 SOMA Meta-Regression）是在[[Meta-meta-analysis\|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）框架下，通过将宏观理论[[Construct\|构念]]属性、研究设计类型、方法学质量及抽样精度等特征作为调节[[Variable\|变量]]（Moderators），系统检验其对跨元分析汇总[[Effect Size\|效应量]]变异解释力的多水平统计建模方法（Schmidt & Oh, 2013; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 5–6]]）。与一阶[[Meta-regression\|元回归]]不同，二阶元回归必须在[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）与[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE）三明治估计量之上运行，以克服跨元分析文献重叠与多层集群依赖导致的自由度虚假膨胀与假阳性偏差。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > *Second-order meta-regressions were conducted using correlated and hierarchical effects models combined with robust variance estimation to examine the moderating roles of theoretical constructs, study design, and methodological quality...*
 
 ---
-
-## 数学原理：一阶元回归 vs 二阶元回归
 
 > [!concept-lens] 底层数学同构：广义加权[[Ordinary Least Squares\|最小二乘法]]（GLS）
 > 一阶[[Meta-regression\|元回归]]与二阶元回归在底层参数点估计上具有完全相同的数学形式，均属于广义加权最小二乘线性模型：
@@ -102,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心统计模型与数学公式
-
 > [!formula-set]- 二阶[[Meta-regression\|元回归]]统计建模与假设检验流程
 > ```mermaid
 > flowchart LR
@@ -115,8 +107,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-### 1. 三水平二阶元回归方程
 
 > [!formula-step] 公式步骤　三水平二阶元回归数学模型
 > $$z_{ij} = \beta_0 + \sum_{p=1}^P \beta_p X_{p,ij} + \zeta_{(3)j} + \zeta_{(2)ij} + \epsilon_{ij}$$
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > - $\epsilon_{ij}$：已知的主要研究[[Random Sampling\|随机抽样]]误差（Level 1）。
 
 ---
-
-### 2. 稳健方差估计与参数检验
 
 > [!formula-step] 公式步骤　GLS 估计与 [[Robust Variance Estimation\|RVE]] 协方差矩阵
 > $$\hat{\boldsymbol{\beta}} = \left( \mathbf{X}^T \mathbf{W} \mathbf{X} \right)^{-1} \mathbf{X}^T \mathbf{W} \mathbf{y}$$
@@ -160,8 +148,6 @@ updated: 2026-10-22
 > - 若检验统计量 $F$ 显著（$p < 0.05$），表明该宏观调节维度对效应量强度存在显著的系统性调制效应（例如 Runco et al., 2026 检验变量角色差异：$F(1, 10.9) = 15.7, p = .002$）。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-impl] R 语言环境（metafor 与 clubSandwich）实现二阶[[Meta-regression\|元回归]]
 > ```R
@@ -192,8 +178,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用判断
 > - **强烈推荐** [[Meta-meta-analysis\|二阶元分析]]项目中存在显著[[Heterogeneity\|异质性]]（$I^2 > 50\%$），需要系统比较不同[[Construct\|构念]]流派、研究设计或方法学质量的[[Interaction Effect\|调节效应]]时；

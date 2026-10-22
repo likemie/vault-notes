@@ -37,11 +37,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Niall Ferguson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名历史学家、斯坦福大学[[Herbert Hoover|胡佛]]研究所米尔班克家族高级研究员、哈佛大学欧洲研究中心高级研究员。
@@ -65,16 +61,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与学术视野
 > - **1998 — *The Pity of War*** 从经济成本、动员机制与战略误判视角重新审视第一次世界大战的历史必然性与偶然性。
 > - **2008 — *The Ascent of Money*** 阐述金融体系演进在推动人类现代文明进步与资本流动中的奠基性功能。
 > - **2011 — *Civilization: The West and the Rest*** 提出竞争、科学革命、法治与财产权、现代医学、消费社会和工作伦理六大制度要素，并以翔实经济统计数据展现16至20世纪西方帝国的全球主导地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 89, 93–94)]]
 
 ---
-
-## 学术评价与理论争议
 
 > [!critique] 经验实证与政治争议
 > - **对制度性繁荣驱动力的实证挖掘** 弗格森坚持以严谨的跨国量化经济史与制度史数据为基础，揭示法治、产权与金融机制如何造就了现代技术与经济繁荣。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 93–94)]]

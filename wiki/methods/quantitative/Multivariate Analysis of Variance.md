@@ -63,11 +63,7 @@ created: 2026-08-29
 updated: 2026-10-22
 ---
 
-# Multivariate Analysis of Variance
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（Multivariate Analysis of Variance, MANOVA）** 是一种拓展单变量[[Analysis of Variance\|方差分析]]（ANOVA）的多[[Metainferences\|元推断]]统计方法。它用于在一个或多个分类[[Independent Variable\|自变量]]（因子）的设计下，同时评估多个连续[[Dependent Variable\|因变量]]构成的向量均值在各组间是否存在显著差异。通过将多个相关因变量线性组合为一个或多个综合潜变量，MANOVA 能够在最大化组间变异与组内变异比率的同时，有效控制多重检验导致的族系一类错误率膨胀，并捕捉单个因变量无法单独显现的多维交互结构。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 315–317)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > *Multivariate analysis of variance (MANOVA) is an extension of ANOVA used when the researcher investigates the effect of one or more independent variables on two or more dependent variables. Rather than conducting multiple univariate ANOVAs, which inflate the familywise [[Type I and Type II Errors\|Type I error]] rate, MANOVA [[CREATES Project\|CREATES]] a linear combination of dependent variables to test for overall group differences.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持系统论与整体主义的量化认识论，认为复杂心理与教育现象（如学业素养、[[Epistemological Beliefs\|认识论信念]]、职业倦怠）是由多个相互关联的子维度共同表征的有机系统，单维度的孤立测量容易割裂[[Variable\|变量]]间的内在关联。
@@ -104,10 +98,6 @@ updated: 2026-10-22
 > - **辅助技术** Mardia 多元正态检验、Box's M 协方差同质性检验、Levene 方差齐性检验、多元偏 $\eta^2$ 计算。
 
 ---
-
-## 研究程序与数学原理
-
-### 量化分析与公式推导
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** $N$ 个观测样本，$k$ 个[[Independent Variable\|自变量]]处理组（或多因子交叉单元），每个被试包含 $p$ 个连续[[Dependent Variable\|因变量]]向量 $\mathbf{y}_{ij} = [y_{ij1}, y_{ij2}, \dots, y_{ijp}]^T$。
@@ -166,8 +156,6 @@ updated: 2026-10-22
 
 ---
 
-## 分析流程与决策路径
-
 > [!proc]- MANOVA 标准操作与事后检验全流程
 > ```mermaid
 > flowchart TD
@@ -211,8 +199,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景与对比
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   1. **多维度[[Construct\|构念]]评估** 当[[Dependent Variable\|因变量]]是同一心理构念（如[[Research Literacy\|研究素养]]的意识、态度、技能、使用）或学习成果的多个紧密关联子维度时。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 12)]]
@@ -226,8 +212,6 @@ updated: 2026-10-22
 >   - 单个单元格[[Sample Size Determination\|样本量]]小于因变量个数（自由度不足导致奇异矩阵崩溃）。
 
 ---
-
-## 局限性与风险防范
 
 > [!method-limits] 方法局限
 > - **偏误与稳健性风险**
@@ -250,8 +234,6 @@ updated: 2026-10-22
 > | [[Classical Test Theory]] | 测量理论 | 为多维度量表的[[Reliability\|信度]]与因变量相关结构提供心理测量学理论基础。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在教师[[Research Literacy\|研究素养]]研究中建立 2×2 MANOVA 模型，同时检验期刊追踪与亲身做研究对教师研究素养 4 个分维度的独立赋能主效应与[[Interaction Effect\|交互效应]]。

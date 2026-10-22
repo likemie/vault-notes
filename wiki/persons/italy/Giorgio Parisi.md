@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Giorgio Parisi
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 意大利理论物理学家、统计物理泰斗与复杂系统专家；罗马第一大学理论物理学名誉教授，法国[[Chinese Academy of Sciences|科学院]]、[[National Academy of Sciences|美国国家科学院]]外籍院士与意大利猞猁之眼国家科学院院长。
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **2021** 被授予诺贝尔物理学奖；出版面向大众的复杂系统通俗科学著作《随椋鸟飞行》（*In a Flight of Starlings: The Wonder of Complex Systems*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
 
 ---
-
-## 主要著作与思想发展
 
 > [!work-line] 代表性著作
 > - **1987 — *Spin Glass Theory and Beyond*** 复杂系统与自旋玻璃领域的权威教科书，确立了处理无序体系与非线性协同的数学[[Analytic Framework|分析框架]]。

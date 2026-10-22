@@ -58,11 +58,7 @@ created: 2026-07-25
 updated: 2026-10-20
 ---
 
-# Growth
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **生长（Growth，在批判[[Paradigm|范式]]中亦延伸为成长）** 是现代教育哲学中衡量受教育过程有效性的终极价值标尺。在[[John Dewey|杜威]]（John Dewey）的[[Pragmatic Paradigm|实用主义]]教育哲学中，“教育即生长”（Education is Growth）被确立为最高原理，特指儿童以自身经验为原点、在与自然及社会环境的持续沟通中实现经验的连续性重组与自我实现（Self-realization）。在[[Paulo Freire|弗莱雷]]（Paulo Freire）的[[Critical Pedagogy|批判教育学]]中，生长进一步拓展为冲破社会强加的“[[Culture of Silence|沉默文化]]”、唤醒批判意识，并以改造现实不公的解放性实践（[[Praxis]]）作为成长的最终归宿。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–8, 10, 31)]]
@@ -84,8 +80,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]“生长”、[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]“成长”与传统[[Positivism|实证主义]]“发展”系统辨析
 > | 比较维度 | 杜威实用主义：生长（Growth） | 弗莱雷批判[[Paradigm\|范式]]：成长（Growth / [[Praxis]]） | 传统实证主义：发展（Development） |
 > |---|---|---|---|
@@ -95,8 +89,6 @@ updated: 2026-10-20
 > | **批判矛头** | 反对学科科目本位与成人社会外在目的强加 | 反对[[Banking Model of Education\|储蓄式教育]]与压迫性社会结构 | 关注规范达标，缺乏对既有结构的反思批判 |
 
 ---
-
-## 核心要素
 
 > [!feature] 生长概念的核心构成要素
 > - **经验连续性原则（Principle of Continuity）** 每一项当下经验皆从过往经验中汲取养分，并深刻形塑后续经验的品质与走向；生长表现为经验连续不断的自我重组与深化。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 31)]]
@@ -162,8 +154,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕生长（Growth）形成的四大核心命题归纳
 > | 命题类型 | 核心理论判定 | 关键机制与分析维度 | 代表学者与文献 |
 > |---|---|---|---|
@@ -174,8 +164,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 生长（Growth）概念的历史演化脉络
 > - **1897–1916 — [[Pragmatic Paradigm|实用主义]]基础奠定阶段** [[John Dewey|杜威]]在《我的教育信条》（1897）与《民主主义与教育》（1916）中系统确立“教育即生长”原理，将受教育过程阐释为儿童经验在民主社区环境中的自主重组，坚决排斥外在目的论。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7, 31)]]
 > - **1938 — 经验准则深化阶段** 面对[[Progressive Education|进步教育]]运动流于放任的偏向，杜威出版《经验与教育》，提出经验连续性（Continuity）与[[Interaction Effect|交互作用]]（Interaction）两大准则，确立区分[[Educative Experience|教育性经验]]与[[Mis-educative Experience|反教育经验]]的分析标准。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 31–32)]]
@@ -183,8 +171,6 @@ updated: 2026-10-20
 > - **2009 至今 — [[Active Learning|主动学习]]三位一体整合模型** 达尔维什（[[Bob Darwish]]）在[[International Baccalaureate|国际文凭]]大学预科项目（[[IB Diploma Programme|IBDP]]）[[Epistemology|认识论]]课程研究中，将杜威的“持续生长”与弗莱雷的“横向对话”及“批判实践”整合为主动学习三位一体理论模型，实现了实用主义经验成长与批判解放行动的有机融通。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 82–84)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 生长内在自足性 vs 外在社会功利规范
 > - **立场 A（[[John Dewey|杜威]]自主生长派）** 坚信生长是生命活动的自然展开，教育的任务是提供适宜环境让个体潜能自主绽放，拒绝让学校沦为服务政治教条或经济工业流水线的工具组件。[[Argument_Darwish_2009_Queens|(Dewey, 1916; cited in Darwish, 2009, p. 7)]]
@@ -195,8 +181,6 @@ updated: 2026-10-20
 > - **认知觉察与变革行动脱节（肥胖症隐喻）** 单纯依靠[[Reflective Thinking|反思性思维]]重组经验，往往无法逾越知与行之间的深刻鸿沟；正如许多个体深知暴饮暴食危害却缺乏改变生活的行动意志，理智生长若未延伸为改造现实不公的解放性实践（[[Praxis]]），便无法促成实质性的社会正义。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 42–43)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 生长哲学与[[Active Learning|主动学习]]相关研究索引
 > - **[[Argument_Darwish_2009_Queens|Darwish (2009)]]** 系统比较[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]与[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]，揭示杜威生长概念在经验连续性与[[Interaction Effect|交互作用]]上的理论贡献，反思其忽视政治实践行动的局限，并构建融合持续生长、横向对话与解放实践的主动学习三位一体理论框架。

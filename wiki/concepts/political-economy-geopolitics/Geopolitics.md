@@ -77,11 +77,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Geopolitics
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 地缘政治（Geopolitics）是研究地理空间、权力运作与国际秩序构建相互关系的政治学与政治地理学核心概念及分析视角。在词源与演化谱系上，该概念由瑞典学者鲁道夫·契伦（Rudolf Kjellén）于 1899 年提出，涵盖处于物质—实践端的[[Classical Geopolitics|古典地缘政治]]（聚焦主权国家对领土、战略通道与资源的物理控制及[[Hard Power|硬实力]]博弈）以及处于观念—科学端的[[New Geopolitics|新地缘政治]]与[[Critical Geopolitics|批判地缘政治]]（聚焦空间的[[Discourse|话语]]建构、[[Knowledge Production|知识生产]]、制度规程与象征秩序）。在当代跨国高等教育治理与全球科技竞争中，地缘政治表现为国家借助学术体系、人才流动与知识联盟争夺全球空间治理主导权与制度性话语权的战略实践。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4, 11–13)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
@@ -114,8 +110,6 @@ updated: 2026-10-22
 > | **高等教育角色** | 归属于低政治的技术性事务，属国家附属工具 | 空间实践者，通过意义生产参与空间秩序塑造 | 战略前沿[[Champ\|场域]]，兼具[[Knowledge Diplomacy\|知识外交]]与知识权力双重功能 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **空间本体维度（Spatial [[Ontology]]）** 涵盖客观物质容器与流动社会建构的双重属性。地缘政治既分析具有物理边界的疆域、要塞通道与基础设施，也剖析由[[Discourse|话语]]、指标排名与学术规程构建的象征性[[Relational Space|关系空间]]。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 11–13)]]
@@ -175,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -193,8 +185,6 @@ updated: 2026-10-22
 > - **2016–至今 — 大国竞争回归、[[Securitization of Technology|科技安全化]]与理论自觉** 逆全球化浪潮、技术脱钩与地缘冲突重塑国际秩序，地缘政治研究走向自觉。[[Space Production|空间生产]]理论与[[Relational Space|关系性空间]]视角全面引入高教与知识研究，学术界关注[[Knowledge Production|知识生产]]、科技安全、跨境网络与多边治理中的复合地缘政治博弈。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 5–6, 12–13)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698)]]
 
 ---
-
-## 争议与批评
 
 > [!tension] 核心张力｜物质领土控制 vs [[Discursive Field|话语空间]]生产
 > | 维度 | 物质领土控制取向（古典实在论） | 话语[[Space Production\|空间生产]]取向（批判建构论） |
@@ -226,8 +216,6 @@ updated: 2026-10-22
 > 地缘政治分析视角高度适宜考察宏观国际战略博弈、跨国科技竞争、教育安全化政策以及国家[[Outward-Oriented Internationalization|外向型国际化]]布局；在解释微观层面的高校日常教学法变革、纯粹基础学科的内部逻辑演进以及去政治化的个体审美学习体验时，存在过度泛政治化与解释过度的理论风险。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

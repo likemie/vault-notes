@@ -62,11 +62,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Democratising Evidence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据民主化（Democratising Evidence）指将民主参与、协商与赋权原则系统应用于教育研究证据生产、解释、资助与利用全链条的制度主张与治理行动。该理念强调打破由学术研究者与科研资助机构单向主导的精英化研究模式，主张由政策制定者、一线教育者、青年学生以及历史上遭受排斥的边缘社区共同界定研究议程，确保研究成果服务于教育公平与社会福祉。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–222)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 证据生产[[Paradigm\|范式]]演进对照
 > | 比较维度 | 传统学术主导型生产 | 证据民主化协同共创 |
 > |---|---|---|
@@ -98,8 +92,6 @@ updated: 2026-10-22
 > | **激励评价** | 论文发表量、同行引用率、高额竞争性科研经费 | 实践政策改变、[[Organizational Culture\|组织文化]]提升与教育边缘群体处境改善 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心支柱
 > - **议程设定的多方协商机制** 终结研究者“代议制”假定，让边缘群体、学生与一线教师在立项初期享有平等的否决权与裁量权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
@@ -152,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -173,8 +163,6 @@ updated: 2026-10-22
 > - **2022 — 批判功利主义可用性与守护离群群体伦理** 牧人友利田（Makito Yurita）在同一论辩中对可用性修辞提出批判，指出追求高性价比易沦为主流政治工具，[[Statistical Normalisation\|统计正态化]]排斥正态分布两端的弱势群体，丰富了证据民主化的政治哲学与伦理反思维度。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -203,8 +191,6 @@ updated: 2026-10-22
 > - 在政治极化严重的社会环境中，研究议程的民主开放极易被强势游说利益集团绑架，削弱科学证据的客观公信力。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -102,11 +102,7 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-# New Public Management
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **新公共管理（New Public Management, NPM）** 是自 20 世纪 80 年代起席卷西方公共行政、教育系统与创新治理的宏观改革[[Paradigm|范式]]，主张将私营部门的企业管理逻辑、市场竞争机制、外包体系与投入产出核算全面引入公共部门。其核心特征包括确立量化绩效标准与基准测试、强化产出控制而非专业过程投入、推动公共机构供给竞争、建立严格的管理主义问责制，以及追求严格的性价比（Value for Money, VfM）。在科技与创新政策领域，NPM 将公共部门定位于被动的“支持与衡量”（Support-and-Measure）角色，过度依赖微观[[Cost-Benefit Analysis|成本收益分析]]与外部咨询外包，导致公共机构产生深层的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”（Frog View）。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]; [[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 89–91)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792, 797–798)]]
@@ -155,9 +151,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **绩效标准与量化测量** 将标准化测试成绩、基准测试与质量保证框架作为核心管理工具，形成贯穿全系统的[[Governing by Numbers|数字治理]]机制。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]
 > - **“良治”（Good Governance）修辞与治理目的的技术化置换** 依托[[OECD|经合组织]] 1995 年《转型中的治理》纲领，新公共管理以中立的“良治”修辞遮蔽其新自由主义意识形态转型，将教育治理的焦点从“教育目的与社会公平的政治哲学辩论”彻底置换为问责机制、质量保证、投入产出效率与国际基准对标等技术程序。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **产出控制与性价比核算** 以可量化的产出指标评价机构，将投入产出比（Value for Money, VfM）作为资源配置的核心前提。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, p. 90)]]
@@ -257,8 +251,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -280,8 +272,6 @@ updated: 2026-10-22
 > - **2019 — 政体行政传统中介与 NPM 市场化国家治理轨迹解构** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 基于 158 篇文献的系统综述，揭示了英美智等典型 NPM 市场化国家如何将数据密集型统考与择校竞争、绩效工资及刚性接管持续叠加，并通过外包测评服务催生商业利益同盟锁定治理体制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252–255, 259–260)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -326,8 +316,6 @@ updated: 2026-10-22
 > 新公共管理作为宏观治理[[Paradigm\|范式]]与[[Analytic Framework\|分析框架]]，其在不同国家福利体制（如北欧社会民主体制 vs 英美自由市场体制）与部门领域（如基础教育、高等教育与科技创新治理）中的落地形态存在显著的制度变异，不宜简单视作均质同构的单一实体。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 新公共管理机制在各领域治理中的实证效应对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

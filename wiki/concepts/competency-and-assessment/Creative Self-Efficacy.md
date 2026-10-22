@@ -81,11 +81,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Creative Self-Efficacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]（Creative Self-Efficacy, CSE，亦称创造效能感或创造信心）指个体对其成功完成创造性任务、生成新颖且适切的想法、克服不良结构难题阻碍并产出创新成果的能力所持有的主观信心与自我信念（Tierney & Farmer, 2002; Karwowski et al., 2013; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 3–4]]）。在教育心理学与创造力研究中，创造性自我效能感是连接个体[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现（Creative Performance）的关键外认知动力中介桥梁，深刻调控着学习者在遭遇认知僵局与试错挫折时的坚持性与探索策略。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]
@@ -109,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Creativity\|创造性]]自我信念四维[[Construct\|构念]]谱系辨析
 > | 维度 | [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]（CSE） | 一般自我效能感（General Self-Efficacy） | 创造性自我概念（Creative Self-Concept） | 创造性思维倾向（Creative [[Growth Mindset\|growth mindset]]） |
 > |---|---|---|---|---|
@@ -123,8 +117,6 @@ updated: 2026-10-22
 > （根据 Tierney & Farmer, 2002; Karwowski et al., 2013; [[Argument_Runco_2026_CRJ\|Runco et al., 2026]] 与 [[Argument_Park_2026_TSC\|Park et al., 2026]] 综合梳理）
 
 ---
-
-## 核心要素
 
 > [!feature] [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]的四大核心生成支柱（基于[[Albert Bandura\|班杜拉]]效能理论与[[Creativity Training\|创造力干预]]）
 > - **直接成功探索经验（Mastery Experiences）** 亲历从无到有生成新颖构想并成功解决[[Wicked Problem|劣构问题]]的经验；这是最核心、最稳固的效能感来源。在高校干预中，通过逐步递进的阶梯式任务建立“能够创新”的成效体验。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3)]]
@@ -205,8 +197,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论断言 | 关键机制与调节[[Variable\|变量]] | 代表学者与实证依据 |
 > |---|---|---|---|
@@ -217,8 +207,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]理论与测评演进
 > - **1977–1997 年　[[Albert Bandura\|班杜拉]]自我效能理论奠基** 班杜拉（Bandura, 1977, 1997）提出自我效能核心理论，确立掌握经验、替代经验、社会说服与生理调控四大效能信息源，指出效能信念在面临高不确定性与开放挑战中的核心动力功能。
 > - **2002 年　组织心理学正式界定 CSE [[Construct\|构念]]** [[Peter Thiel|蒂尔]]尼与法默（Tierney & Farmer, 2002）在《管理学会学报》（AMJ）发表奠基性论文，首次正式提出创造性自我效能感（Creative Self-Efficacy）构念并开发 6 题经典自陈量表。
@@ -227,8 +215,6 @@ updated: 2026-10-22
 > - **2025–2026 年　大规模元分析确立干预增益与方法学调节** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] [[Three-Level Meta-Analysis\|多层元分析]]揭示认知训练优于情绪训练、独立练习深思优于松散协作的干预机制；[[Argument_Park_2026_TSC\|Park et al. (2026)]] 量化了主观效能测量中的 [[Common Method Variance\|CMV]] 偏倚；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]确立全域外认知效应基准（$r = 0.14$）。
 
 ---
-
-## 争议与边界
 
 > [!debates] 学术争议与前沿分歧
 >
@@ -250,8 +236,6 @@ updated: 2026-10-22
 > 2. **警惕测验焦虑的抑制效应** 在具有强外部评价压力的考核情境下，测验焦虑会显著消耗[[Working Memory\|工作记忆]]，削弱高效能感带来的行为转化。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -295,8 +279,6 @@ updated: 2026-10-22
 > | Beghetto and Karwowski (2017) | 中小学与高校探究课堂微观观察 | 记录课堂教学中教师反馈与微观探究尝试（Micro-moments）对创造效能感的即时塑造 | 教师即时的非评价性接纳、允许低利害试错与引导性反思，能够即时引发学生创造效能感的阶跃式跃升 | 验证了微观课堂情境中社会说服与心理安全感的即时赋能机制 |
 
 ---
-
-## 教育应用与教学实践
 
 > [!implication]- 培养[[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]的四大教学实践支柱
 > 1. **设计阶梯递进的“掌握经验”探究支架** 避免一上来给学生布置难度过高、极易导致挫败的[[Open-Mindedness|开放性]]任务；采用“小步子快迭代”的项目制探究，让每名学生都能在具体环节体验到“我提出了一个有效新想法”的切实施证反馈；

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Testing Monitoring Tools
-
 > [!metax] [测验监测工具 · Testing monitoring tools](https://www.visiblelearningmetax.com/influences/view/testing_monitoring_tools)
 > 教学策略 › 反馈
 >

@@ -48,11 +48,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# International School of Geneva
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 日内瓦[[International Schools|国际学校]]（International School of Geneva，通称 Ecolint）为国际工作人员家庭提供跨国教育，并成为[[International Baccalaureate|国际文凭]]的主要发源地。学校通过教师合作、课程试验和组织空间，把[[Student Mobility|学生流动]]与升学困难转化为共同资格建设；其自身财政与双语治理限制又促使考试项目走向独立。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22)]]
@@ -71,10 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
-### 形成国际资格需求的校内问题
-
 > [!chain-link] 国家资格并行如何产生共同考试需求
 > - **升学出口分别绑定国家体系** 战间期的法国、英国、美国、德国和意大利侨民学校能够沿各自国家课程进入大学，跨国共同考试缺少现实需求。
 > - **大学录取竞争加剧** 1945 年后，高等教育扩大与入学竞争增强，学生必须按照目标大学所在国的课程和考试要求进行精确准备。
@@ -87,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-### 组织发展与国际文凭的形成
-
 > [!dev-timeline] Ecolint 从[[International Schools|国际学校]]先例发展为国际资格发源地
 > - **1924–1925 年　学校创办与首次资格倡议** 学校成立一年后，校长保罗·梅霍弗（Paul Meyhoffer）依董事会指示，向 17 位欧洲教育改革者发出国际成熟证书[[Questionnaire|问卷]]。没有保存下来的答复，也没有足够国际学校或[[Student Mobility|学生流动]]支撑实施，计划随即沉寂。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, p. 15)]]
 > - **1948–1955 年　战后国际学校网络重新提出需求** 国际意识学校会议于 1948 年要求 Ecolint 恢复倡议。学校随后参与建立[[International Schools Association|国际学校协会]]（International Schools Association，ISA），范·豪特又在 1955 年向 ISA 呼吁建立国际毕业会考。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–17)]]
@@ -98,8 +88,6 @@ updated: 2026-10-22
 > - **IB 与英国考试并行阶段　学生选择改变资格轨道** 学校一度同时开设 IB 与英国普通教育证书高级程度考试课程，以减少家庭承担新资格风险。随着选择 IB 的学生增加，英国考试轨道逐渐萎缩；最后坚持该轨道的主要是来自前英国属地的英联邦家庭，显示资格偏好仍受既有升学关系影响。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 27–28)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!contrast-table] Ecolint 对 IB 项目的支持与限制
 > | 维度 | 提供的能力 | 暴露的限制 |
@@ -114,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!feature] 教学与课程开发的三种连接
 > - **跨国升学准备** 学校曾让[[International Baccalaureate|国际文凭]]与英国考试并行，以便家庭在新资格尚未稳固时保留升学选择；随后学生选择变化推动课程轨道调整。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 27–28)]]
 > - **跨校课程研发** 社会研究、语言与学科教师把本校课堂经验转为跨校议程，学校提供会议、试验考试和学生参与环境。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 17–22, 27–31)]]
@@ -127,8 +113,6 @@ updated: 2026-10-22
 > 化学教师埃里克·安东尼（[[Education Resources Information Center|ERIC]] Antony）设计的[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]作为辅助层级选项，以基本原理作为共同核心，再提供八个应用领域，由[[School Choice|学校选择]]三个；原文举例包括重工业、农业与食品、化学与健康。选择权落在应用领域，学生仍需学习共同原理，因此课程既保留学科基础，也把知识联系到社会用途。IBO 随后把它列为常规课程选项。这是实际采用的课程，区别于同章仍在试验或尚未成立的项目。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 组织影响
 > - **问题定义** 四套国家课程并行把国际资格的必要性从理念判断转化为可观察的课表、师资与学生共同体问题。
@@ -144,8 +128,6 @@ updated: 2026-10-22
 > 应用化学是获得一定采用的课程。这组数据说明课程进入实际考试，不能证明学习成效优于常规化学，也不能推定 Ecolint 本校考生数量。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!case] 校长的家庭经历说明[[International Education|国际教育]]与地方归属可以并存
 > 早期 IB 阶段的校长勒内·勒热纳（René Lejeune）向 Peterson 解释其国际教育投入：祖父在 1870 年被征入法国军队，父亲在 1914 年进入德国军队，他本人在 1939 年又进入法国军队，但三代人的故乡都是阿尔萨斯。反复变化的是国家政治归属，对故乡的感情仍然存在。Peterson 用这一经历区分地方共同体的持久认同与国家提出的政治忠诚要求，说明国际教育可以与地方情感并存。该案例记录的是校长的个人理由及作者解释，不足以代表学校正式章程或全部学生的认同。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 196)]]

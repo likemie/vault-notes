@@ -74,11 +74,7 @@ created: 2026-05-16
 updated: 2026-10-22
 ---
 
-# Chinese Learner
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > "中国学习者"（Chinese learner）在学术文献中有两个相互关联但不完全重叠的用法：
 >
 > **1. 文化学习模型（cultural learning model）**[[Argument_Li_2012_Cambridge\|Li (2012)]] 从儒家知识传统和实证研究中提炼出的系统性学习者画像——学习指向**向内完善自我**（而非向外探究世界），以七种[[Learning Virtues\|学习美德]]为个人能动性，以[[Self-Cultivation\|修身]]为终身项目，以[[Take the World Upon Oneself\|以天下为己任]]为社会归属。这一用法描述的是**文化理想型（ideal type）**，而非任何个体学习者的描述([[Argument_Li_2012_Cambridge\|Li, 2012, pp.57-58]])。
@@ -106,9 +102,7 @@ updated: 2026-10-22
 > [!example] 与西方模型的根本差异
 > 西方 Learner 是一个**认识主体**——心智向外探究、掌握世界。中国 Learner 是一个**自我项目**——向内修炼品德、转化自我。一个问"我如何认识世界？"，一个问"我应成为什么样的人？"([[Argument_Li_2012_Cambridge\|Li, 2012, p.31]])。
 
-### 八层学习路径：从格物到平天下
-
-> [!abstract|notitle]
+> [!abstract] 八层学习路径：从格物到平天下
 > Li 将 [[Confucian Learning Tradition\|儒家学习传统]] 的学习路径组织为八个同心圆层次，由内向外扩展，表示从个人修身逐步延伸到天下关怀([[Argument_Li_2012_Cambridge\|Li, 2012, pp.46-47, Fig. 2.2]])：
 
 ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Figure_2-2_Chinese_Learner.png)
@@ -256,9 +250,7 @@ updated: 2026-10-22
 
 ---
 
-## 实证发现
-
-> [!success|notitle]
+> [!success] 实证发现
 > Li（2012, Ch3）综述了数十年跨文化比较研究的系统性实证证据。以下按研究发现组织：
 
 **归因模式：努力 vs 能力**。Stevenson and Stigler（1992）的十年跨国研究发现：美国儿童、家长和教师以**能力**解释[[Academic Achievement|学业成就]]，中国/东亚群体以**努力**解释。香港研究者进一步发现中国学生将努力视为跨时间、跨情境的稳定因素([[Argument_Li_2012_Cambridge|Li, 2012, pp.78-80]])。

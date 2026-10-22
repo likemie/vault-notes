@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Chronotype and Achievement
-
 > [!metax] [晨型与夜型 · Morning vs. evening](https://www.visiblelearningmetax.com/influences/view/morning_vs._evening)
 > 学生 › 情绪
 >

@@ -97,11 +97,7 @@ created: 2026-09-20
 updated: 2026-10-22
 ---
 
-# Inquiry-Based Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过假设提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
@@ -122,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 指导式探究学习、[[Direct Instruction\|直接教学]]与[[Discovery Learning\|纯发现学习]]的对比
 > | 维度 | 指导式探究学习（Guided Inquiry） | 直接教学（Direct Instruction） | 纯发现学习（Pure Discovery） |
 > |---|---|---|---|
@@ -134,9 +128,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **自主生成新知（Generating New Knowledge）** 学习者通过调查生成对其自身而言全新的概念理解，而非单纯验证教师事先讲授的定论。
 > - **高阶主动参与（Active Intellectual Work）** 学习者进行实质性的深层认知加工（包括精细化、[[Self Explanation|自我解释]]与[[Metacognition\|元认知监控]]），而非机械应答。
 > - **依托经验证据（Using Evidence）** 结论的推导必须严格扎根于物理实验、[[Computer Simulation\|虚拟仿真]]数据或信息文本等实证线索。
@@ -210,8 +202,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -230,8 +220,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 探究式教学与[[Direct Instruction\|直接教学]]之争（Inquiry vs. Direct Instruction Debate）
 > - **认知负荷派观点（蓝方）** 以 [[John Sweller]]、Paul A. Kirschner 与 Richard E. Clark 等学者为代表，依据[[Cognitive Load Theory\|认知负荷理论]]（Cognitive Load Theory, CLT），主张人类[[Working Memory\|工作记忆]]容量极其有限。在处理全新信息时，让学习者自主探索会迫使工作记忆陷入无效的盲目搜索与试误，造成沉重的外在认知负荷；因此，由教师进行完全显性的示范、提供充分工作样例的直接教学在任何阶段都具有压倒性优势。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
 > - **学习科学与探究派观点（红方）** 以 [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis\|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、[[Nature of Science\|科学本质]]认识、迁移能力与学习动机上全面超越单一直接讲授；真实课堂的最优[[Paradigm\|范式]]绝非二选一，而是将直接教学适时嵌入探究全周期中。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–6)]]
@@ -246,8 +234,6 @@ updated: 2026-10-22
 > 探究式教学的顺利实施对师资专业素养与教学环境设计提出了极高要求。若教师缺乏实时诊断学生推理困境的能力，或数字化平台缺乏自适应[[Scaffolding\|脚手架]]，探究活动极易退化为低效的形式主义或造成严重认知超载。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Self-Verbalization and Self-Questioning
-
 > [!metax] [自我言语化／自我提问 · Self-verbalization / self questioning](https://www.visiblelearningmetax.com/influences/view/self-verbalization~self_questioning)
 > 学生学习策略 › 元认知／自我调节学习
 >

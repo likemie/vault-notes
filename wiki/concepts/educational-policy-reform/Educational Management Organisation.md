@@ -59,11 +59,7 @@ created: '2026-05-04'
 updated: 2026-10-22
 ---
 
-# Educational Management Organisation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育管理组织（Educational Management Organisation, EMO）指深度参与公立学校教育政策制定、管理运营支持以及[[CORE Education|核心教育]]教学服务交付的私营部门实体，涵盖营利性（for-profit）与非营利性（not-for-profit）两种组织形态。
@@ -87,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 教育管理组织与相邻治理实体对比
 > | 维度 | 新西兰双层法人型 EMO | 美英连锁特许型 EMO | [[Venture Philanthropy\|风险慈善枢纽]] | 传统公立教育行政主管机构 |
 > |---|---|---|---|---|
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **双层混合法人架构（Two-tier Corporate Structure）** 组织顶端设立具有免税资质的慈善信托，名义上服务于教育公益目的；底层设立 100% 控股的营利性有限责任公司，专职参与市场化商业竞标与跨国商业拓展（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vi–vii, 65–68]]）。
 > - **税收冲抵与利润内循环机制（Tax-exempt Arbitrage & Retained Earnings）** 营利性子公司参与教育部高额采购合同获取可观营业利润，随后将大部分利润以慈善捐赠形式全额转移给母体信托，直接冲抵企业应纳税所得额使其纳税额归零；留存资金则由母体信托自主开展金融投资或海外商业并购（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 71–73]]）。
 > - **“固有慈善目的”免责抗辩（Inherent Charitable Purpose Doctrine）** 非营利母体将其全部有偿商业活动组合均解释为天然具有慈善公益性质，进而抗辩并免除从高额运营盈余中向社会公立学校进行实质慈善现金反哺的法定义务（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vii]]）。
@@ -188,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -209,8 +199,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 表一：新西兰代表性 EMO 财务收支、教育部合同依存度与公益反哺实态（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65–85]]）
 > 
 > | 组织名称 | 组织法律架构与全资控股关系 | 营业收入规模与变动趋势 | 教育部（MoE）合同依赖度 | 基层公立学校实质公益反哺 | 避税冲抵与法人监管特征 |
@@ -229,8 +217,6 @@ updated: 2026-10-22
 > | **私营补习与影子教育机构增长** | Kip McGrath, NumberWorks'nWords 等连锁机构迅速扩张 | 全球呈几何级数蔓延（Bray, 2007） | 完全依赖家庭私人自费购买，进一步拉大不同社会经济阶层间的教育结果不平等 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与治理张力
 >

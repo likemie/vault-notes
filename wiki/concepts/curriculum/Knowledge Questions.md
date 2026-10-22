@@ -52,11 +52,7 @@ created: 2026-08-04
 updated: 2026-10-22
 ---
 
-# Knowledge Questions
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识问题（Knowledge Questions，KQ）是[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）课程中关于知识本身的开放且一般化问题。它从具体知识主张或情境出发，追问知识如何形成、获得支持、受到限制或发生变化。问题可以涉及模型、因果、解释、反常、归纳、确定性、不确定性和信念，并由[[Ways of Knowing\|认知方式]]与[[Areas of Knowledge\|知识领域]]提供分析路径 [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 35–36)]]。在[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）的[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）中，它也作为跨学科反思和实践联动的枢纽 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] ToK 探究中的相邻对象
 > | 维度 | 知识主张 | 知识问题 | 真实情境 |
 > |---|---|---|---|
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > 2013 年指南区分关于世界的主张和关于知识本身的主张，后者构成 [[Theory of Knowledge\|TOK]] 分析的核心。论文可以从规定题目直接发展知识问题，展示则从特定真实情境中识别并探究知识问题。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36, 38–40)]]
 
 ---
-
-## 核心要素
 
 > [!feature] 知识问题的构成与运行
 > - **知识指向** 问题直接考察知识的形成、正当化、解释和限制，超越对单个事实答案的索取。
@@ -158,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique-method] 评估与实施风险
 > - **定义含混** 指南中的知识问题定义难以直接理解，概念掌握可能成为额外的评分门槛。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36, 39)]]
 > - **孤立运作的风险** 虽然 KQ 能够联通 [[Chinese Academy of Sciences|CAS]] 和 EE，但在实际教学中，如果学校层面缺乏协同备课时间或教师培训，KQ 经常沦为单纯应对 [[Theory of Knowledge\|TOK]] 考试的任务，无法发挥其跨领域的育人潜力。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 226)]]
@@ -167,8 +157,6 @@ updated: 2026-10-22
 > - **分析分布不均** 论文的分析质量描述符明确要求评价和推论，展示对真实情境连接的强调更强，两项任务呈现的[[Critical Thinking\|批判性思维]]要求并不均衡。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]
 
 ---
-
-## 应用案例
 
 > [!evidence-grid] 知识问题在评估与跨组件联动中的应用
 > - **规定题目论文** [[Argument_Hughes_2014_JRIE\|Hughes (2014, pp. 38–40)]] 展示知识问题如何组织跨学科论证，并成为论文聚焦程度与分析质量的主要评价对象。

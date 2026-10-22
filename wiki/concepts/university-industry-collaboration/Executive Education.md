@@ -39,13 +39,9 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Executive Education
-
 %% CONTENT_START: 以上为写作参考，以下为实际条目内容 %%
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 高管教育（Executive Education）是大学面向在职专业人士提供的非学位短期培训项目。与传统学位 education 不同，高管教育的学员通常拥有多年行业经验，带着具体的工作挑战和技能提升需求参加课程。其典型形式包括开放式招生（open enrollment，学员按席位付费、来自不同机构）和定制化项目（bespoke programs，为特定组织的需求量身设计）([[Argument_LernerLam_2025_TransdisciplinaryExecutiveEd\|Lerner-Lam et al., 2025, pp.155-157]])。
 
 > [!note|notitle]
@@ -61,9 +57,7 @@ updated: 2026-10-22
 
 ---
 
-## 传统运作模式
-
-> [!abstract|notitle]
+> [!abstract] 传统运作模式
 > 大学高管教育的典型运作方式是“学位项目映射”（degree program mapping）模式：从既有的硕士或专业学位课程中提取内容，将其压缩为短期培训模块（pp.155-156）。
 >
 > 该模式的几个基本特征：

@@ -64,11 +64,7 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Epistemic Aims
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology\|认识论]]目标（Epistemic Aims）是个体或共同体在探究、发现事物以及形成信念过程中所采纳的、指引具体认知活动并追求特定认识成就（epistemic achievements，如真理、深层因果理解或经验模型）的意图与目标。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 142)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–207)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认识目标与相近概念辨析
 > | 维度 | [[Epistemic Aims]]（认识论目标） | 一般成就目标（Achievement Goals） | [[Epistemic Ideals]]（认识论理想） |
 > |---|---|---|---|
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | 典型表征 | 探明病毒耐药机制、消除理论误解 | 获得课程绩点 A、在辩论赛中获胜 | 证据契合度、推论直接性、设计决定性 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心[[Epistemology\|认识论]]目标与成就类型
 > - **真理与避错（Truth and Error Avoidance）** 追求获取真实或高度接近真实的信念，表现为注重保守谨慎以规避错误的防御倾向，或承担试错成本以获取重大真理的探索倾向。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 143–144)]]
@@ -168,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -190,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：求真目标还是胜任功利目标？
 > - **[[Epistemology\|认识论]]纯粹论（蓝方）** 坚持认识目标必须直接锁定在获取真理、消除误解与因果机制理解等纯粹认识成就上，排除外部功利干扰。
 > - **[[Pragmatic Paradigm\|实用主义]]整合论（红方）** 指出在学校教育真实情境中，求真目标不可避免地与外部评价、[[Academic Achievement\|学业成绩]]及同伴认同等社会动机深度交织，难以孤立剥离。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
@@ -200,8 +188,6 @@ updated: 2026-10-22
 > - **教学任务预设导致目标变异缺失** 在多数结构化科学探究实验中，认识目标常由教材或教师直接硬性下达（如“在模型A与模型B之间进行裁决”），使得研究者难以独立观测学习者自发展开的目标设定与动态调整过程。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]任务目标对齐与成就类型[[Interaction Effect\|调节效应]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

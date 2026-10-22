@@ -50,11 +50,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Science and Technology Centers
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 科学技术中心（Science and Technology Centers, STC）是[[National Science Foundation|美国国家科学基金会]]（NSF）于 1987 年设立的旗舰级多学科基础科研资助计划，标志着以[[Engineering Research Centers|工程研究中心]]（ERC）为代表的多学科、多机构、实体中心资助模式（MMURC）正式从工程技术学科全面拓展至物理、化学、生物与计算机科学等纯基础自然科学领域。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对基础科学前沿日益复杂的跨学科[[Big Science|大科学]]挑战，克服传统单一学科院系与单一首席研究员（PI）自由探索模式在攻关重大复杂科学前沿时的组织碎片化壁垒。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过建立长期资助的跨学科实体科学中心，汇聚大学跨院系顶尖科学家团队并配备共享大型科研仪器，打破学科院系壁垒，推动重大基础科学问题攻关、高阶人才培养与多机构知识网络扩散。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 367, 369)]]
@@ -85,16 +79,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1987–1988 — 方案动议与顶层论证期** 在 [[Engineering Research Centers|ERC]] 取得显著成效后，[[National Academy of Sciences|美国国家科学院]]发布《科学技术中心：原则与指南》（*Science and Technology Centers: Principles and Guidelines*），为将中心资助模式推广至基础学科提供权威理论依据。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 377)]]
 > - **1989–1990 年代 — 首批落地与常态化运行** 1989 年首批 STC 竞标获批，广泛涉足超导材料、量子光学、认知科学与基因组计算等学科前沿，确立了与传统 PI 资助并行的[[Big Science|大科学]]中心轨道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 > - **2000 年代至今 — 综合伙伴关系与制度成熟** 计划更名为“科学技术中心：综合伙伴关系”（STC Integrative Partnerships），进一步强化跨校联合体、少数族裔科研参与及前沿技术商业化扩散。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与监管方** [[National Science Foundation|NSF]] 综合活动办公室（Office of Integrative Activities）及各专业学科科学学部，负责战略选题指南、同行评审与长效绩效追踪。
@@ -103,8 +93,6 @@ updated: 2026-10-22
 > - **跨学科青年学者与研究生** 依托中心多学科交叉环境开展前沿攻关，在导师组指导下获得系统科研训练。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 370)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心成效与产学双向收益
 > 1. **基础科研组织[[Paradigm|范式]]转型** 成功打破了传统自然科学领域个人 PI 单打独斗的科研局限，构建起能够承担大跨度基础科学难题攻坚的实体跨学科平台。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369)]]
@@ -116,8 +104,6 @@ updated: 2026-10-22
 > - **10** NSF 设定的中心最长资助年限（5 年初始期 + 5 年续约期），严格执行[[Sunset Provisions|日落条款]]。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 374)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与组织张力
 >

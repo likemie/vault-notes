@@ -52,11 +52,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# General Act of Education of 1970
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1970 年 8 月由西班牙弗朗哥政权颁布，由教育科学部长何塞·路易斯·比利亚尔·帕拉西（José Luis Villar Palasí）主导制定。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > - **制度位置** 终结了西班牙长达一个世纪的旧法案零星修补局面，是西班牙教育历史上首次以现代化、国际化与体系整合为导向的全面顶层立法，开创了西班牙教育融入欧洲潮流的制度起点。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 确立面向 6 至 14 岁儿童的八年制普及基本教育（Educación General Básica，EGB），打破初等教育的阶层终点属性，率先在南欧引入[[Comprehensive Education|综合教育原则]]（Comprehensive Principle）；在中等学段设立 3 年制统一多能高中（Bachillerato Unificado Polivalente，BUP）与职业技术培训（Formación Profesional，FP）；并将所有高等教育学段统摄于单一大学体制之下。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 322–323, 330–332)]]
@@ -85,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1969** 西班牙教育部发布白皮书《西班牙教育改革的基础》（*Bases para una política educativa*），确立接轨欧洲与[[UNESCO|联合国教科文组织]]国际标准的总体改革框架。
 > - **1970** 8 月西班牙议会正式通过并颁布《普通教育法与教育改革筹资法》（Ley 14/1970, General de Educación y Financiamiento de la Reforma Educativa）。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
@@ -94,8 +86,6 @@ updated: 2026-10-22
 > - **1990** 施行整整二十年后，被左翼政府颁布的《[[Organic Law on the General Organization of the Education System 1990|教育体制总体组织法]]》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）所取代。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 西班牙教育部与中央政府技术官僚派。
@@ -109,8 +99,6 @@ updated: 2026-10-22
 > - **现实财政妥协** 由于 1970 年代国际石油危机冲击与国家预算约束，义务教育年限被迫止步于八年（至 14 岁），未能一举达到英法等国推行的九至十年标准。
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 西班牙教育部技术官僚派（受[[OECD|经济合作与发展组织]]（OECD）与[[UNESCO|联合国教科文组织]]现代化[[Human Capital Theory|人力资本理论]]影响），主导顶层设计与教育立法。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
@@ -139,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 国家教育财政拨款占国民生产总值比例显著提升，兴建大规模 EGB 学校网络与初级职业培训中心。
 > - **过程指标** 6 至 14 岁入学率在 1970 年代末迅速逼近 100%，非公立[[Centros Concertados|协约学校]]承载约三分之一生源。
@@ -157,8 +143,6 @@ updated: 2026-10-22
 > - **20 yr** （稳定运行） 法案制度框架稳定维系二十年（1970–1990）
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

@@ -42,11 +42,7 @@ created: 2026-10-10
 updated: 2026-10-15
 ---
 
-# National Quantum Initiative
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 国家量子倡议（National Quantum Initiative, NQI）是由美国国会于 2018 年 12 月通过《国家量子倡议法案》（National Quantum Initiative Act, P.L. 115-368）正式法典化的跨部门重大战略科技计划。该倡议统筹协调能源部（[[Department of Energy|DOE]]）、国家科学基金会（[[National Science Foundation|NSF]]）与国家标准与技术研究院（NIST）等核心联邦科技机构，旨在加速量子计算、量子网络与量子传感等量子信息科学（Quantum Information Science, QIS）前沿探索，构建国家级[[Big Science|大科学]]设施集群与工业转化生态，维持美国在未来颠覆性计算与国家安全技术上的全球领导地位。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 10)]]
@@ -58,8 +54,6 @@ updated: 2026-10-15
 > - **核心问题导向** 应对全球在量子科学领域的激烈地缘科技竞争，打破传统学科孤岛与微纳制造壁垒，解决量子比特规模化扩展依赖的基础物理机理、超导与自旋芯片制造工艺、极低温界面电子学及精密计量标准的系统性瓶颈。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 16)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 国家量子倡议的核心干预假说在于：量子信息科学已从单一理论物理验证迈向极端微纳制造与工程系统集成的“科学仪器化”新阶段；仅靠分散的学术课题资助无法解决系统级工程难题，必须通过跨部门顶层统筹，依托[[Megascience Installations|大科学装置]]建立跨学科国家级研究中心，并与微电子和纳米制造基础设施紧密协同，才能在十年尺度内实现容错量子计算与量子网络实用化。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 22)]]
@@ -77,16 +71,12 @@ updated: 2026-10-15
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2018 — 国会立法与国家战略奠基** 《国家量子倡议法案》以全票通过签署生效，确立了 [[National Science Foundation|NSF]]、[[Department of Energy|DOE]] 与 NIST 三足鼎立的联邦协调分工格局，正式设立国家量子协调办公室（NQCO）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 10)]]
 > - **2019–2020 — 重大中心集群落地与平台构建期** 能源部正式遴选成立 5 大国家量子研究中心（Q-NEXT、C2QA、SQMS、QSC、Q-SAAS），NSF 启动首批量子跃迁挑战研究所并资助 Q-AMASE 平台，NIST 全面运作 [[Quasi-Experimental Designs|QED]]-C [[Industry Affiliate Program|产业联盟]]，形成了“基础物理—器件制造—产业标准”的完整推进骨架。
 > - **2021–至今 — 与微电子研发战略深度协同推进期** 白宫 [[National Science and Technology Council|NSTC]] 将 NQI 与《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》紧密链接，强调量子器件与微纳半导体物理、极低温电子学（Cryogenic Electronics）以及先进光子封装技术的全栈协同，将量子设施全面接入国家纳米与微电子共享设施网络。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 16, 22)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层统筹与政策协调** 白宫 [[National Science and Technology Council|NSTC]] 量子信息科学小组委员会（SCQIS）与国家量子协调办公室负责跨机构战略规划与外交多边合作。
@@ -100,8 +90,6 @@ updated: 2026-10-15
 > - **动态反馈与调整** 针对量子硬件向实用工程转化面临的机台与材料瓶颈，动态增设极低温 CMOS 驱动电路与专用装配套件课题。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 联邦年度研发预算到位率、各大中心科研仪器共享机时比。
@@ -117,8 +105,6 @@ updated: 2026-10-15
 > 倡议实施以来，联邦政府累计投入逾数十亿美元，支持建立 5 大能源部国家量子研究中心与多所 [[National Science Foundation|NSF]] 量子挑战研究所，汇聚全美数百所科研机构与企业参与。
 
 ---
-
-## 延伸议题与争议辨析
 
 > [!critique] 争鸣与反思
 > 在推动前沿突破的同时，战略界与学术界也围绕该倡议提出了深入思考：

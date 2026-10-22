@@ -32,8 +32,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Affect-Respect and Ought-Respect
-
 > [!info] 定义
 > Li 区分了两种不同类型的尊重。义务性尊重（ought-respect）是每个人基于政治、道德和法律考量都应获得的尊重，不与特定社会情境或关系挂钩。情感性尊重（affect-respect）则是在特定社会情境或关系中生成的一种情感——当个体真正认可、承认和仰慕他人的功绩、成就、道德品质或地位/角色/权力时产生([[Argument_Li_2012_Cambridge\|Li, 2012, p.71–72]])。
 

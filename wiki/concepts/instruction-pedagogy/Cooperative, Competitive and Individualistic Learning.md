@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Cooperative, Competitive and Individualistic Learning
-
 > [!metax] [竞争氛围 · Competitive climate](https://www.visiblelearningmetax.com/influences/view/competitive_climate)
 > 教学策略 › 教学方法
 >

@@ -63,11 +63,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Microelectronics Commons
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **微电子共用体（Microelectronics Commons）** 是依据美国《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）由国防部（Department of Defense, DOD）设立并统筹管理的 20 亿美元国家级微电子技术中试验证网络。该计划在全美遴选设立 8 个[[Innovation Hub|区域创新枢纽]]（Regional Innovation Hubs），旨在将顶尖大学实验室的颠覆性微电子概念验证（[[Technology Readiness Level|TRL]] 1–3）快速转化为可信的硬件原型（TRL 3–5），打通从实验室到晶圆代工厂（[[Translational Research|lab-to-fab]]）的军民两用转化鸿沟，并作为核心中试网络支撑《微电子研究国家战略》四大战略目标。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 21–23)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **核心问题导向** 解决美国国防关键微电子器件过度依赖海外代工供应链、国内大学前沿探索因缺乏可信中试流片渠道而无法快速转化为国防装备硬件的技术断层。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过在 6 大关键技术方向上部署区域共享中试试验线（Prototyping Facilities），为大学与初创企业提供低成本、高效率的早期芯片流片、开放[[Process Design Kit|工艺设计套件]]（PDK）与[[Heterogeneous Integration|异构集成]]通道，实现颠覆性[[Dual-Use Technology|军民两用技术]]向[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及商业规模化制造的无缝接力。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–24)]]
@@ -112,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2022 — 《[[CHIPS and Science Act|芯片法案]]》授权与顶层设计** 明确由国防部主导设立 20 亿美元微电子共用体计划，确立军民两用 [[Translational Research|lab-to-fab]] 创新走廊战略。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 8)]]
 > - **2023 — 8 大[[Innovation Hub|区域创新枢纽]]设立与部际协同确立** 商务部发布 [[National Science and Technology Council|NSTC]] 愿景战略，确立 NSTC、[[National Advanced Packaging Manufacturing Program|NAPMP]] 与 DOD Commons 的分工图谱（Figure 2 & Figure 3）；同年 9 月国防部正式拨款 2.38 亿美元启动 8 个区域枢纽运营。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
@@ -121,8 +113,6 @@ updated: 2026-10-22
 > - **2024–至今 — 原型攻关项目下达与中试产线贯通** 发布首批跨区域联合技术攻关指南，推动大学微纳实验室设备与工业级中试线的工艺参数接口打通。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **国防部（DOD）主管中枢** 负责下达国防战略微电子需求指南、评估区域枢纽运营成效并统筹军品采购接口。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 11)]]
@@ -136,8 +126,6 @@ updated: 2026-10-22
 > - **部际定期协调机制** 依托白宫 NSTC 微电子领导小组委员会（[[Subcommittee on Microelectronics Leadership|SML]]）与商务部 CHIPS 研发办公室、[[National Science Foundation|NSF TIP]] 理事会设立联合协调框架，避免资助重叠并确保原型顺畅转入 NSTC 放大。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 11, 26)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 4, 21)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **原型流片周期压缩** 将新型器件概念从实验室设计到完成首轮硬件流片测试的时间缩短至 6–12 个月以内。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10)]]
@@ -157,8 +145,6 @@ updated: 2026-10-22
 > - **\$238M** 2023 年 9 月首期下达给 8 个区域枢纽的启动资助资金。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议交锋
 >

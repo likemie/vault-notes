@@ -53,11 +53,7 @@ created: 2026-09-28
 updated: 2026-10-20
 ---
 
-# Office of Educational Research and Improvement
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **教育研究与改进办公室（Office of Educational Research and Improvement, OERI）** 是 1979 年至 2002 年间美国联邦教育部下辖的[[CORE Education|核心教育]]科研、数据统计与信息传播官方机构，统筹管理国家教育统计中心（NCES）、[[Education Resources Information Center|教育资源信息中心]]（ERIC）、区域教育实验室网络与国家研发中心，并在 2002 年资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），其职能于 2002 年底被新设立的独立法定科研机构——[[Institute of Education Sciences|教育科学研究院]]（IES）正式取代。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
@@ -70,8 +66,6 @@ updated: 2026-10-20
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与改革历程
 > - **1979–1980 — 机构创设与职能整合** 联邦教育部设立后，OERI 正式承接原国家教育研究所（NIE）的科研项目及全国教育统计中心的统计职责，建立起以助理部长为行政核心的集权式科研管理架构。
 > - **1980–1994 — 业务体系扩张与实验室网络确立** 逐步确立四大业务支柱：资助高校及非营利智库设立国家教育研发中心（National R&D Centers）、维持 10 所区域教育实验室（Regional Educational Laboratories, RELs）、建设运营[[Education Resources Information Center|教育资源信息中心]]（ERIC）网络，并定期发布国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）报告。
@@ -79,8 +73,6 @@ updated: 2026-10-20
 > - **2000–2002 — 资助设立 [[What Works Clearinghouse|WWC]] 与制度终结改组** 2000 年众议院议员迈克尔·卡斯尔（Michael Castle）提出 H.R. 4875 法案启动 OERI 重组。2002 年 8 月，OERI 出资 1850 万美元正式授予合同建立有效干预清算中心（[[What Works Clearinghouse|WWC]]）。同年 11 月，美国总统签署《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），正式废除 OERI 并撤销助理部长行政管理体系，全面改组设立具有高度科学独立性与同行评议机制的[[Institute of Education Sciences|教育科学研究院]]（IES）。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **行政领导核心** 由美国总统任命并经参议院确认的助理教育部长（Assistant Secretary）主持全面工作，直接对联邦教育部长负责。
@@ -94,8 +86,6 @@ updated: 2026-10-20
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵与代表性产出
 > - **[[What Works Clearinghouse|有效干预清算中心]]（WWC）创设** 2002 年 8 月投入 1850 万美元设立 WWC，委托独立评估机构梳理全美教育干预的因果证据，制定初版[[Study Design and Implementation Assessment Device|研究设计与实施评估规程]]（Study DIAD），开启全美官方证据清算新纪元。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 > - **国家教育统计与 [[National Assessment of Educational Progress|NAEP]] 测评** 长期维持对全美学区、高校与成人教育的数据追踪，主导发布被誉为“国家成绩单”的国家教育进展评估（National Assessment of Educational Progress, NAEP）。
@@ -103,8 +93,6 @@ updated: 2026-10-20
 > - **国家研发中心网络** 在全美重点大学资助设立多个国家级教育研究中心（如阅读、数学、学生学习与学校组织等领域）。
 
 ---
-
-## 影响与体系成效
 
 > [!finding-cards] 关键历史影响与制度成效
 > - **确立联邦教育科学研究的官方建制** 在长达 23 年的存续期内，OERI 将原本零散脆弱的联邦教育科研整合为由统计中心、文献数据库与区域实验室组成的制度化国家网络。
@@ -118,8 +106,6 @@ updated: 2026-10-20
 
 ---
 
-## 争议、批评与反思
-
 > [!tension] 政治行政干预与学术公信力赤字
 > 在 1990 年代至 2000 年代初的国会听证与学界反思中，OERI 屡遭立法界与主流科学界的激烈批评：
 > 1. **行政随意性与党派意识形态偏向** 国会资深幕僚与学者普遍指出，OERI 的项目资助往往被教育部行政官僚把持，缺乏如同国家科学基金会（[[National Science Foundation|NSF]]）或国立卫生研究院（[[National Institutes of Health|NIH]]）那般严密、公正且由专业共同体主导的同行盲审机制；
@@ -127,8 +113,6 @@ updated: 2026-10-20
 > 3. **改革诉求与向 [[Institute of Education Sciences|IES]] 的制度跨越** 正是由于对 OERI 行政体制的普遍失望，才促使国会议员迈克尔·卡斯尔与两党立法者下定决心通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）彻底取缔 OERI，改组设立局长享有 6 年固定法定任期、脱离短期政党政治干预的教育科学研究院（IES）。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 
 ---
-
-## 相关条目
 
 > [!entry-map] 机构关联网络
 > - **前身与后继机构** [[Institute of Education Sciences]]（后继独立科学机构，于 2002 年取代 OERI）。

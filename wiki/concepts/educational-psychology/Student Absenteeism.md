@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Student Absenteeism
-
 > [!metax] [缺勤 · Attendance (Lack of)](https://www.visiblelearningmetax.com/influences/view/attendance_(lack_of))
 > 学生 › 毅力与自信
 >

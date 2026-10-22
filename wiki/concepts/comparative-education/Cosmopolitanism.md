@@ -52,11 +52,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Cosmopolitanism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **世界主义（Cosmopolitanism）** 是一种主张所有人类在道德上均属于单一普遍共同体的规范政治与伦理哲学。它认为个体的最高道德责任应当跨越种族、地域与国界，将普世人权、人类尊严与全球正义置于对特定民族国家的政治忠诚之上。在教育研究中，它延伸为旨在培养学生全球视野与跨文化同理心的世界公民教育；在当代国家建构与地缘安全研究中，它构成了批判狭隘民族主义的理论支柱，同时也因可能消解本土共同体纽带、掏空公共认同与防卫意志而面临重大反思。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 198–201)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 核心[[Paradigm|范式]]辨析
 > | 维度 | 世界主义（Cosmopolitanism） | 爱国主义与公民民族主义 | 后现代解构主义 |
 > |---|---|---|---|
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **道德普遍主义** 主张所有人无论其出生地、种族或国籍，都享有同等内在道德价值与人权尊严。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 > - **跨国界道德责任** 认为个体的义务不仅限于地理熟人圈（超越[[Dunbar's Number|邓巴数]]与本地社群），必须延伸至远方陌生人与全人类。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **世界公民教育构想** 在课程与教学中强调多元文化理解、批判性理性反思以及克服本位狭隘偏见。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Nussbaum, 1994; Karp & Zamiska, 2025, p. 198)]]
@@ -138,8 +130,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +145,6 @@ updated: 2026-10-22
 > - **2025 — [[Technological Republic|技术共和国]]现实主义反思** 卡普与扎米斯卡揭示后国家世界主义在面对地缘专制威胁时的防卫意志瘫痪，呼吁在国家[[Hard Power|硬实力]]与共享神话中重构共同体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–204)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

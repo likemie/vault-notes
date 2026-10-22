@@ -44,10 +44,6 @@ related_persons:
   - "[[Val D. Rust]]"
 ---
 
-# Henry Giroux
-
-## 生平简介
-
 > [!abstract] 学者生平
 > **亨利·阿尔芒·吉鲁（Henry Armand Giroux，1943– ）**，美加著名[[Critical Pedagogy|批判教育学]]家、文化研究学者、公共知识分子，与[[Paulo Freire|保罗·弗莱雷]]（[[Paulo Freire]]）、彼得·麦克拉伦（Peter McLaren）等人同为批判教育学（[[Critical Pedagogy]]）学派的核心开创者与代表人物。曾任教于波士顿大学、迈阿密大学与宾夕法尼亚州立大学，现任加拿大麦克马斯特大学（McMaster University）英美文化研究讲座教授与公共利益奖学金主席。
 

@@ -36,11 +36,7 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-# Absolutist and Relativist Ethics in Research
-
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象**[[Research Ethics\|研究伦理]]判断的根本依据——伦理行为的标准是普遍的还是情境依赖的。
 > - **理论问题** 回应伦理判断中的"谁来裁定、依据什么裁定"问题——当研究者面临具体伦理困境时，可以诉诸什么标准？
 > - **理论类型** 元伦理立场——它们不提供具体的行为规则，而是规定伦理规则本身的性质和来源。
@@ -50,8 +46,6 @@ updated: 2026-10-22
 > [[Absolutist\|绝对主义立场]]认为清晰、固定的伦理原则应指导研究者工作，决定什么应当做和什么不应当做，不允许情境特殊性证成对原则的偏离。[[Multiplist\|相对主义立场]]认为不可能有绝对指导方针——情境决定行为，伦理考量应从正在进行的特定研究的性质中产生（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 92–93]]）。
 
 ---
-
-## 核心命题与机制
 
 > [!contrast-table] 绝对主义与相对主义的对比
 
@@ -73,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] Plummer 的双向批评
 > Plummer (1983) 在将[[Informed Consent\|知情同意]]原则应用于生活史研究时指出双方各有致命弱点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 93]]）：
 >
@@ -85,8 +77,6 @@ updated: 2026-10-22
 > Plummer (1983) 建议由专业机构制定的广泛指导方针，为研究者留下个人伦理选择的空间，是走出绝对主义-相对主义二元对立的方法。这一立场与[[Situated Ethics\|情境伦理]]（Simons & Usher, 2000）兼容：承认原则的重要性，但坚持它们必须在具体情境中被解释和应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 93]]）。
 
 ---
-
-## 适用边界
 
 > [!theory-boundary] 理论边界
 > - **适合** 用于分析研究者在具体伦理困境中的决策逻辑；理解不同伦理守则背后的哲学预设

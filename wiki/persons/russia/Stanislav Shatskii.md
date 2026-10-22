@@ -36,10 +36,7 @@ status: draft
 created: 2026-05-26
 updated: 2026-10-22
 ---
-# Stanislav Shatskii
 
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 斯坦尼斯拉夫·沙茨基（Stanislav Shatskii／Shatsky, 1878–1934），苏俄[[Progressive Education\|进步主义教育]]改革家。十月革命前已开始使用进步教育（progressive education）方法在俄国进行教育改革实验，革命后其创办的农村学校体系被认为是世界上最大的进步教育实验之一（Partlett 2011，引自 Ryabyy, 2024, p.103）。深受 [[John Dewey]] 教育思想影响，在 Dewey 1928 年访问苏联时与之会面并通信。
@@ -56,9 +53,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!abstract|notitle]
+> [!abstract] 核心思想
 > Shatskii 希望通过改革学校体系来逐步变革整个俄国的制度——即通过教育实验实现渐进的社会改造([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.103]])。这一思路与 Dewey 的渐进主义（gradualism）高度一致，也是他被拿来与 Dewey 比较的主要原因。
 
 他的教育实践以项目与活动课程为核心，强调从经验中学习（learning from experience），反对以背诵和[[Rote Learning|机械记忆]]为主的传统教学方式。

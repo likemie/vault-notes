@@ -86,11 +86,7 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Marc-Antoine Jullien
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国启蒙自由主义教育理论家、外交官、国民公会战地记者、百科全书编纂者与跨国社会活动家，跨越法国大革命恐怖统治至 1848 年二月革命的重要自由派知识分子。
@@ -116,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1789–1808 — 从雅各宾暴力工具论向启蒙教育预防论的根本转向** 亲历大革命恐怖统治与第一帝国战争动荡，从政治暴力幻想中抽离，将政治热忱转移至将公共教育确立为预防流血革命、促进社会理性进化的替代性途径。
 >   - **代表著作** 《关于教育的普遍论文》（*Essai général d'éducation*, 1808）、《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 20)]]
@@ -134,9 +128,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 朱利安主张教育是整个社会大厦的真正基石与道德重生的源泉。其思想统一于三大相互支撑的核心支柱：一是将教育学与比较教育学构建为类似于比较解剖学的准实证科学，通过客观搜集各国经验事实编制分析图表，科学诊断教育机体的健康与患病断层，为审慎的制度借用提供理性依据；二是确立教育预防论，坚持经验事实调查全面服从于服务全人道德教化与预防流血暴力革命的政治伦理目标；三是构筑跨国教育共同体与[[Perpetual Peace\|世界和平治理]]蓝图，超越 19 世纪狭隘民族主义与国家利己主义，设计由常设特别教育委员会、标准化[[Questionnaire\|问卷]]图表、示范[[Normal School\|师范学院]]与多语种通报组成的超国家治理网络，以比较文明与跨国教育协作荡涤旧时代的野蛮战争残余，追求全人类的持久和平共处。
 
 从雅各宾专政与拿破仑战争创伤中抽离后，朱利安痛切指出欧洲动乱根源于道德纽带解体与各国教育的破碎患病，由此在 1817 年《计划》中系统提出了前瞻性的超国家治理机制：
@@ -175,9 +167,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开启了比较教育学[[Positivism\|实证主义]]与[[Scientism\|科学主义]]传统先河；同时奠定了经验事实研究与全人伦理规范、国际和平关怀深度交织的欧陆[[Geisteswissenschaften|人文科学]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
 > - **方法路径** 首创了涵盖初等大众至中等古典等六大领域的结构化多题项[[Questionnaire\|问卷]]与横向比较观察表，为跨国[[Performance Indicators\|教育指标]]体系与大规模统计调查奠定了方法原型。
 > - **政策与超国家制度原型** 提议设立由国际学者组成的常设特别教育委员会、培育良师的示范[[Normal School\|师范学院]]以及多语种[[International Education\|国际教育]]公报，这些构想在 20 世纪国际教育局（IBE）和[[UNESCO\|联合国教科文组织]]（UNESCO）的组织架构与职能运作中得到了惊人的制度兑现。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 21–22)]]
@@ -191,8 +181,6 @@ updated: 2026-10-22
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 将朱利安等先驱的危机借用考察界定为主权国家专员垄断教育转移的古典基准，以此对照当代多元跨国网络行动者的兴起（pp. 341–344）。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Rust, Johnstone, & Allaf 论朱利安方案在学术史连续统中的基石地位
 > 朱利安在 1816–1817 年提出的比较教育方案，不仅开创了[[Questionnaire|问卷调查]]与事实分类分析图表，更奠定了考证[[Influences Across Cultures|跨文化影响]]的深厚学术根基。战[[Postpositivism|后实证主义]]者将其简单包装为实证科学的唯一萌芽、进而将十九世纪后继考察贬为业余故事，割裂了学科贯通古今的历史连续性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–124)]]
@@ -244,8 +232,6 @@ updated: 2026-10-22
 > - **现代跨国网络与[[Discourse|话语]]流通研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 将朱利安考察定性为 19 世纪国家特派官员垄断危机借用的经典历史基准，以此对照当代多元跨国行动者与[[Knowledge Bank|知识银行]]对教育转移的重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

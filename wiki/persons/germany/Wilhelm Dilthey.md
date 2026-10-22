@@ -54,11 +54,7 @@ created: 2026-09-29
 updated: 2026-10-15
 ---
 
-# Wilhelm Dilthey
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名哲学家、历史学家与教育理论家，柏林大学哲学讲座教授（接替洛采教席）；生命哲学（Lebensphilosophie）、现代解释学与德国[[Geisteswissenschaften|精神科学]]教育学（Geisteswissenschaftliche Pädagogik）的开山宗师。
@@ -75,8 +71,6 @@ updated: 2026-10-15
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 思想生平与学术建制
 > - **1833** 出生于普鲁士拿骚公国比布里希（Biebrich），早年在海德堡大学与柏林大学攻读神学、历史学与哲学，深受兰克（Leopold von Ranke）历史学派与施莱尔马赫（Friedrich Schleiermacher）解释学熏陶。
 > - **1864** 完成关于施莱尔马赫伦理学思想的教授资格论文，开启大学教职生涯。
@@ -89,16 +83,12 @@ updated: 2026-10-15
 
 ---
 
-## 主要著作与思想演进
-
 > [!work-line] 代表性著作与理论纲领
 > - **1883 — *Einleitung in die [[Geisteswissenschaften]]*（《精神科学引论》）** 划分自然科学与精神科学的本质分界。自然科学面对无生命的外部因果事实，采取因果假设与外在“说明”（Erklären）；精神科学面对人类历史文化精神创造，以生命内在体验（Erlebnis）、表现（Ausdruck）与阐释性“理解”（Verstehen）为中心，确立精神科学独立的[[Epistemology|认识论]]合法性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89)]]
 > - **1888 — *Über die Möglichkeit einer allgemeingültigen pädagogischen Wissenschaft*（《论一种普遍有效教育科学的可能性》）** 针对赫尔巴特学派抽象普遍主义的强力反思。狄尔泰论证，人类教育系统并非先验理性的演化产物，而是深嵌于特定历史时代、民族精神与社会生活脉络中的有机文化创造。不存在脱离历史时空的“普遍有效教育学”，教育学的核心任务是历史地理解特定时代的教育理想与实践结构。
 > - **1910 — *Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften*（《精神科学中历史世界的建构》）** 系统阐发“解释学循环”（Hermeneutic Circle），指出个体意义唯有在整体历史脉络中方能被领悟，而整体精神唯有通过具体历史文本与制度碎片方能被重构，为质性比较研究提供了认识论工具。
 
 ---
-
-## 在欧洲比较教育学中的先驱地位
 
 > [!concept-lens] 欧洲比较教育学的“狄尔泰—朱利安”双元张力
 > 米特（[[Wolfgang Mitter]]）在梳理欧洲两百年比较教育演进史时明确指出，19 世纪确立的学术先驱形成了鲜明的两极对照格局：
@@ -119,8 +109,6 @@ updated: 2026-10-15
 > ```
 
 ---
-
-## 学术关系与历史评价
 
 > [!actor-grid] 学术网络与跨学科关联
 > - **[[Geisteswissenschaften|精神科学]]教育学门徒** 诺尔（Herman Nohl）、斯普朗格（Eduard Spranger）、李特（Theodor Litt）——将狄尔泰的历史解释学直接转化落实在德国[[Allgemeine Pädagogik|普通教育学]]与师资培育建制中。

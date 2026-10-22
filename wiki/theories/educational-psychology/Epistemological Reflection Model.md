@@ -41,13 +41,9 @@ created: 2026-08-13
 updated: 2026-10-22
 ---
 
-# Epistemological Reflection Model
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 大学生对学习经验、知识本质以及认知过程的[[Epistemology\|认识论假设]]。
 > - **理论问题** 认识论发展中是否存在与性别相关的微观推理模式？如何弥合前人纯男性样本与纯女性样本研究结论之间的割裂？
 > - **理论类型** 纵向发展阶段与类型学混合模型。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题与机制
-
 > [!proposition-chain] 核心命题一｜[[Epistemology\|认识论]]经历了从依赖权威到自我建构的四阶纵向演变
 > - **前提一** 随着教育经验的增加，个体对权威的信任以及对[[Certainty of Knowledge\|知识的确定性]]的理解会发生松动。
 > - **推导**
@@ -87,8 +81,6 @@ updated: 2026-10-22
 >   - 在**过渡认知**阶段，女性偏向**人际模式（interpersonal pattern）**，关注分享观点和同伴联系；男性偏向**非人际模式（impersonal pattern）**，倾向于以逻辑辩论和挑战权威的方式来验证观点。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 98)]]
 
 ---
-
-## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]与认识论** 知识不是绝对的外部存在，而是在语境中基于证据建构的。

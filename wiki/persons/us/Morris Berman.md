@@ -39,11 +39,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Morris Berman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名文化史学家、社会哲学家、人文学者，曾任教于约翰斯·霍普金斯大学、罗格斯大学等高校。
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1981 — *The Reenchantment of the World*** 剖析[[René Descartes|笛卡尔]]-牛顿机械论世界观如何割裂人与自然的有机联系。
 > - **2000 — *The Twilight of American Culture*** 系统批判解构主义推向极端造成的认知混乱，呼吁在体制边缘保存人文学术的批判薪火。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 81)]]
@@ -75,14 +69,10 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 莫里斯·伯曼（Morris Berman）指出，解构主义揭示传统学术研究中的意识形态偏见与权力语境固然有其合理贡献，但若将解构推向极端、彻底否定客观真理与历史传统的存在，就会导致人类文明丧失航标，陷入相对主义与虚无主义的沼泽。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

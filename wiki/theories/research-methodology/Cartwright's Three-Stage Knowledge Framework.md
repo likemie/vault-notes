@@ -49,8 +49,6 @@ updated: 2026-10-22
 >
 > > "The primary purpose of an RCT is to make a judgement on effectiveness where the contribution of other circumstantial factors are unknown... Since an RCT is necessary, that knowledge of generalisability to different circumstances is likely to be absent."（Cartwright and Munro, 2010, 引自 [[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, p.10-11]]）
 
-## 理论内部结构
-
 > [!abstract] 阶段一：It-works-somewhere 主张
 > T（干预措施）在某种条件下对某人群引起 O（结果）（例如在研究人群 X 中，以方法 M 实施）。
 > - 这是 [[Randomised Controlled Trials\|RCT]] 能直接提供的唯一主张

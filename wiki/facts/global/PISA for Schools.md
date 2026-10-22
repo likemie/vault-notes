@@ -68,11 +68,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# PISA for Schools
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **学校版[[PISA|国际学生评估项目]]（PISA for Schools）（官方全称：基于 PISA 的学校测验，PISA-based Test for Schools, PBTS）** 是[[OECD|经济合作与发展组织]]（OECD）于 2012 年正式推出的校级评价与诊断工具，旨在将原本用于国家宏观系统级监测的 [[PISA]] 标尺直接下沉至单个学校层面，为参测学校出具直接对标全球各国家与经济体顶尖表现的定制化评估报告。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, pp. 422–424)]]; [[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 125–126)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > - **核心治理意图** 经合组织借助该工具直接穿透主权国家传统中央教育科层，在基层学校管理者中营建“直接对标国际卓越水准”的微观竞争动力，将经合组织的素养[[Construct|构念]]深植于日常办学实践之中。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 273)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 项目假定通过向单一学校提供与全球主要经济体绝对可比的学生阅读、数学与[[Scientific Literacy|科学素养]]量化数据，结合学校学习环境、[[Student-Teacher Relationship|师生关系]]与[[Socioeconomic Status|社会经济背景]][[Questionnaire|问卷]]诊断，能够激发[[School Leadership|学校领导力]]与专业发展动力，指导学校依据循证证据实施内部微观教学改进。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, pp. 422–423)]]
@@ -103,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2010–2014 — 概念论证与英美先导试验期**
 >   - [[OECD|经合组织]]启动校级测评可行性论证，获得美国慈善基金会（如巴尔基金会）的资助支持。
@@ -118,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **品牌与技术监管方** [[OECD]] 教育与技能司 — 掌控量表知识产权、审核试题库框架与设定跨国等值技术标准。
 > - **跨国技术与商业承包商** [[Educational Testing Service|ETS]]、培生集团（Pearson）、大洋洲测量机构等 — 负责数字施测平台技术运维、算法打分与多语种测试系统集成。
@@ -132,8 +122,6 @@ updated: 2026-10-22
 > - **绩效问责与商业焦虑内化** 学校管理层在获取落后差距诊断后，常在缺乏公共支持的情况下将压力传导给一线教师，引发微观教学实践中的应试化刷题偏向。[[Argument_Huang_2020_APJE|(Huang & Kan, 2020, pp. 423–424)]]
 
 ---
-
-## 成效评估与实证批评
 
 > [!indicators] 评估指标体系
 > - **校级均分与素养等级** 学校 15 岁学生在阅读、数学、科学上的 [[Item Response Theory|IRT]] 转换均分及在 6 个能力等级中的百分比分布。
@@ -165,8 +153,6 @@ updated: 2026-10-22
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | 论证 | 剖析[[School Autonomy\|学校自主]]直连国际数据库、推动微观基层自主对标的文献。 |
 
 ---
-
-## 使用此研究的文献
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Huang_2020_APJE|Huang and Kan (2020)]] — 深度解构[[OECD|经合组织]]如何通过学校版 [[PISA]] 穿透主权国家层级，将微观学校纳入去情境化的全球[[Commensuration|通约]][[Champ|场域]]，对基层管理与课程实施造成[[Epistemology|认识论]]规训。

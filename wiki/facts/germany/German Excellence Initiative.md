@@ -38,8 +38,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# German Excellence Initiative
-
 > [!info] 内容
 > 德国卓越倡议（Exzellenzinitiative）是 2005 年由德国联邦政府与州政府联合启动的高等教育资助计划，旨在通过竞争性评选向少数大学提供巨额额外资助，以提升德国大学在全球研究竞争中的地位。该计划经历了两个主要阶段：Excellence Initiative（2005–2017）和后续的 Excellence Strategy（自 2018 年起）([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.801–802]])。
 

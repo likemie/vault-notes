@@ -49,11 +49,7 @@ created: 2026-05-29
 updated: 2026-10-22
 ---
 
-# Corporate Venture Capital
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 企业风险投资（Corporate Venture Capital, CVC），指成熟企业通过内部设立或独立运作的投资基金对初创企业进行少数股权投资的协同创新机制。与单纯追求财务收益最大化的传统风险投资（Venture Capital, VC）不同，CVC 的核心特征在于投资决策中同时应用战略标准（Strategic Criteria）与财务标准（Financial Criteria）的双重底线：既考量被投初创企业能否为母公司带来前沿技术洞察、开拓新兴市场或强化主营业务护城河，又要求实现资本层面的[[Return on Investment|投资回报]]。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 145)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 232–233)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科技创新股权资本与产业资助机制辨析
 > | 维度 | 企业风险投资（CVC） | 传统独立风投（Institutional VC） | 企业战略投资（CorpDev M&A） | 大学概念验证与天使基金 |
 > |---|---|---|---|---|
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > | **对待[[University Spin-Out\|大学衍生企业]]** | 极少涉足早期轮次，存在阶段与能力错配 | 审慎评估团队商业背景，依赖辛迪加联合领投 | 待其成熟后进行收购整合，避免早期研发风险 | 重点孵化对象，提供首笔概念验证资金与导师 |
 
 ---
-
-## 核心要素与运作机制
 
 > [!feature] 核心要素
 > - **战略与财务双重评估标准（Dual-Hurdle Filter）** CVC 投资决策要求标的初创企业同时跨越两道门槛：既要具备清晰的商业盈利模型与高成长性，又要与母公司的业务布局形成技术互补或渠道协同；两个条件必须同时满足的概率显著低于单一维度，极大压缩了可投候选集。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 145)]]
@@ -149,8 +141,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -159,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1960–1980s — 探索期与大企业内部研发延伸** 杜邦（DuPont）、埃克森（Exxon）与施乐（Xerox）等工业巨头开始尝试利用自有资本设立小规模投资部门，直接参股外部高新技术企业，作为内部[[Bell Labs|贝尔实验室]]与企业研发中心（[[Corporate R&D Labs]]）的补充。
 > - **1990–2000s — 互联网浪潮与反颠覆战略反思** 互联网基础设施快速重塑商业形态，以微软、英特尔投资（Intel Capital）为代表的 CVC 迅速崛起；斯坦福大学 PageRank 因未被既有搜索巨头早期投资或收购而最终颠覆市场的案例，确立了 CVC 作为“外部初创与并购转化路径”的战略防御地位。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 232–233)]]
@@ -168,8 +156,6 @@ updated: 2026-10-22
 > - **2020s — 深度科技时代大学概念验证与 CVC 协同探索** 大学通过设立概念验证中心（PoC Centers）与[[Non-dilutive Funding|非稀释性资助]]计划，协助早期衍生企业跨越 [[Technology Readiness Level|TRL]] 3–5 级鸿沟，推动 CVC 从单纯的后期股权收割向早期产学协同生态延伸。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理反思
 >
@@ -189,8 +175,6 @@ updated: 2026-10-22
 > 企业风险投资（CVC）[[Paradigm|范式]]严格受制于“商业试点可行性”与“战略相关性”。对于尚处于实验室基础原理论证阶段（[[Technology Readiness Level|TRL]] 1–3）、缺乏明确产品形态、或商业转化周期远超常规基金生命周期（如基础材料科学、早期教育教学法改革）的高校学术创新，CVC 模式几乎无法发挥有效支持作用，必须依靠政府公共科研基金、大学非稀释性概念验证基金与战略慈善资本填补缺口。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 145–146)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 跨情境企业风险投资与产学转化实证结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

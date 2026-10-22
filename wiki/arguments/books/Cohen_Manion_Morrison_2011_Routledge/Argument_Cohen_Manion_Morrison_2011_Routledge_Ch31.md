@@ -60,7 +60,6 @@ status: draft
 created: 2026-10-07
 updated: 2026-10-17
 ---
-# Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31
 
 ## 总览
 
@@ -76,8 +75,6 @@ updated: 2026-10-17
 ## 章节
 
 ### 第31章　话语、会话、叙事与自传作为文本
-
-#### 概念地图
 
 > [!knowledge-map] 第31章　[[Concept Mapping|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_31_Concept_Map.jpg)
@@ -626,8 +623,6 @@ updated: 2026-10-17
 
 > [!conclusion] 丰富的文本允许多种解释，但每种解释都需要证据
 > 会话、叙事和自传以不同形式提供丰富、情境化的意义材料。意义受到叙述方式、文本选择与读者背景共同塑造，因而不存在唯一而最终确定的解释。解释仍须由文本细节支撑，并说明竞争性读法、被省略内容与情境限制。（§31.5）
-
-#### 关键引用
 
 > [!citation-card] 反身性披露并不消除偏见
 > 可以说明自己的可能偏见与解释，但这不必然阻止它们继续带有选择性和偏向。（第31章，§31.2）

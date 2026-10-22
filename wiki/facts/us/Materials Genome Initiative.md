@@ -44,11 +44,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Materials Genome Initiative
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 材料基因组计划（Materials Genome Initiative, MGI）是由美国[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）与白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）于 2011 年联合启动的跨部门国家重大科技倡议，旨在通过构建材料创新基础设施（Materials Innovation Infrastructure, MII），将尖端先进材料从实验室理论发现、工艺优化到工业规模化部署的研发周期与成本削减一半。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 21)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解传统材料科学依赖“纯试错经验”导致的漫长研发周期（通常长达 10–20 年），化解后摩尔时代微电子物理极限对新型宽禁带、二维半导体与铁电材料的迫切渴求。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 14)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 材料基因组计划的核心假说在于：通过深度融合第一性原理量子计算、高通量自动化合成与表征、以及开源材料数据库与机器学习算法，能够打破材料科学与系统工程之间的信息孤岛，实现前沿材料性能的精准计算预测与逆向按需设计。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 21)]]
@@ -79,16 +73,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2011–2014 — 框架确立与工具链奠基** 白宫正式发布《材料基因组计划白皮书》，明确计算工具、实验工具与数字数据三大支柱，各联邦部门开始部署材料项目（Materials Project）等公共计算数据库。
 > - **2014–2020 — 跨机构协同与数据网络扩展** [[National Science and Technology Council|NSTC]] 发布首份 MGI 战略计划，NIST 牵头建立材料数据管理联合体，高通量合成与基于机器学习的晶体结构预测全面融入国家实验室研发。
 > - **2021–至今 — 人工智能融合与微电子战略对接** NSTC 发布第二个十年战略计划，重点引入[[Generative Artificial Intelligence|生成式人工智能]]、自主实验室（Self-Driving Labs）与原子尺度原位表征，并与《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》深度对接，攻关碳化硅（SiC）、氮化镓（GaN）、氧化镓与金刚石等超宽禁带半导体材料。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 21)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **顶层领导与统筹协调机构** [[National Science and Technology Council|国家科学技术委员会]]材料基因组小组委员会与白宫科技政策办公室，负责跨部门战略制定与政策督导。
@@ -102,8 +92,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对从算法预测到晶圆厂实际生长工艺之间的断层，建立材料样品快速分发与中试线原位工艺验证通道。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 20, 24)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 联邦跨部门年度研发拨款规模、支持的高通量计算节点与自动化实验室数量。
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - **16** （个） 2024年深度整合材料基因组基础设施的微电子联邦部门与协同研究机构总数。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 21)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与治理反思
 >

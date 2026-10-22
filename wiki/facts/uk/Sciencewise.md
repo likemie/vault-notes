@@ -45,11 +45,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Sciencewise
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布主体** 英国科学、创新与技术部（DSIT）及英国研究与创新署（UK Research and Innovation, UKRI）
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > - **制度位置** 英国国家级科技政策公共对话（Public Dialogue）旗舰支撑平台，连接学术界前沿研究与公众民主审议
 
 ---
-
-## 运作机制与核心功能
 
 > [!claim] 核心机制
 > 英国科学智慧计划（Sciencewise）通过提供专项[[Counterpart Funds|配套资金]]、独立专业协调员网络以及标准化的协商方法论指引，支持政府部门和科研机构针对技术高争议、证据高不确定性的前沿科学议题开展深度公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
@@ -77,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 重大历史实践与社会伦理追问
-
 > [!timeline] 演化时间线
 > - **2004** 英国贸易工业部（DTI）正式设立 Sciencewise 计划，旨在吸取转基因作物公众抵制危机中的治理教训。
 > - **2012–2014** 组织全英针对“线粒体捐赠技术”（三亲婴儿）的公众对话，为英国在全球率先通过该技术立法提供核心社会伦理授权。
@@ -87,8 +79,6 @@ updated: 2026-10-22
 > - **2026** 英国皇家学会《科学为社会》第 16 项建议明确呼吁，必须动员 Sciencewise 等专业机构在国家科学总预算中划拨专门技能培训资源，常态化推行新兴技术公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
 
 ---
-
-## 效果与评价
 
 > [!finding-cards] 效果与启示
 > 1. **破解技术黑箱的[[Social License to Operate\|社会许可]]** 将公众关切前置到实验室研发初期，避免颠覆性技术在商业化成熟后引发强烈的社会抗拒。

@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Edge Autonomy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **边缘自治（Edge Autonomy）** 是指在复杂动态对抗环境中，组织架构打破传统的中心发令、层级转达与末端执行模式，将感知、评估与即时行动的自由度充分赋予处于物理与业务前沿边缘节点的组织治理机制。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化体系中，边缘自治被视作自然界超级生物（如蜂群、鸟群）与顶级科技工程组织抵抗官僚钙化、保持生死实战敏捷性的最根本法宝：处于外围的一线人员因直接面对复杂现实拥有最新、最具价值的情报，唯有赋予其无需层层报批的自主决断权，组织才能摆脱中间管理层的内耗与信息失真。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
@@ -79,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **前沿感知优先权** 最先感知到外部危机、客户真实痛点或环境变化的边缘个体享有最高的提案权与事实发言权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 120)]]
 > - **扁平无损传播链路** 侦察信息无需经过中间管理层的层层修饰、过滤或审查，直接在全组织范围内透明呈现并接受检验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
 > - **去中心化即兴响应** 允许一线实干人员根据突发状况即兴处置，无须事前获得上级行政指令。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
@@ -128,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -144,8 +136,6 @@ updated: 2026-10-22
 > - **2025 — 升华为国家工程与治理[[Paradigm|范式]]** 卡普与扎米斯卡将边缘自治提升为重塑美国[[Technological Republic|技术共和国]][[Hard Power|硬实力]]与[[Organizational Culture|组织文化]]的关键武器，主张彻底打破华盛顿与五角大楼的官僚阻滞。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

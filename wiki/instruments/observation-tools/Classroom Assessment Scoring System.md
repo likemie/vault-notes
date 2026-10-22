@@ -52,11 +52,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Classroom Assessment Scoring System
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Classroom Assessment Scoring System (CLASS)
 > - **工具类型** 课堂外部[[Classroom Observation|教学观察]]与师生互动质性评定规程（observation-tool）。
@@ -92,8 +88,6 @@ CLASS 将复杂的课堂师生互动解构为三大支柱领域与十个核心�
 > - **作答格式** 7 点李克特连续评定量规（1–2 分为低效水平，3–5 分为中等有效水平，6–7 分为高效水平）。
 > - **反向题与跳题** 仅“消极氛围”（Negative Climate）维度为负向计分；所有维度均须基于观察证据独立评定，严禁跳题。
 
-### 核心观察要素与行为重点
-
 > [!observation-focus] CLASS 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
@@ -117,8 +111,6 @@ CLASS 将复杂的课堂师生互动解构为三大支柱领域与十个核心�
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | CLASS K-3 / Upper | 作为[[World Bank\|世行]]开发 Teach 时的基础资源库之一；对比分析其要素预测力 | 检验其[[Predictive Validity\|预测效度]]与跨文化落地认知负荷 | 指出其维度较多且对发展中国家观察员培训门槛极高，但教学支持领域为 Teach 的[[Critical Thinking\|批判性思维]]要素提供了理论蓝本。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

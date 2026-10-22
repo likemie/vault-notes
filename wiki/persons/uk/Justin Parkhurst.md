@@ -48,11 +48,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Justin Parkhurst
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国政策学者、伦敦政治经济学院（LSE）卫生政策系全球卫生政策副教授、前 LSE 全球卫生倡议主席。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2017 — *The Politics of Evidence: From [[Evidence-Based Policy-Making|Evidence-based Policy]] to the [[Good Governance of Evidence]]* (Routledge)** 提出证据良好治理框架，系统批判[[What Works Movement\|循证政策运动]]的技术官僚主义与[[Positivism\|实证主义]]狭隘性，确立透明度、可争辩性与程序正当性三大制度支柱。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
 > - **2016 — *The use of evidence in public policy: An institutional approach* (Policy & Politics)** 与 Hawkins 合作，论证制度化规范对政策制定者证据选择偏好的结构性塑造机制。(Hawkins & Parkhurst, 2016)
@@ -83,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 帕克赫斯特坚决反对将循证政策简化为“寻找何者有效”的[[Technical Rationality\|技术理性]]模式，主张任何公共政策决策都是经验证据与规范性价值判断的复合体；评判证据利用质量的终极标尺不在于决策产出了何种既定结果，而在于决策体系是否构建起具备透明度、代表性与可争辩性质询通道的良好治理制度。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 
 > [!citation-card] 良好治理与技术理性的对立
@@ -95,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创了循证政策政治学（Politics of [[Evidence-Based Policy-Making|Evidence-Based Policy]]）与证据制度主义新[[Paradigm\|范式]]，打破了传统知识转化（[[Research Translation\|knowledge translation]]）单向线性链条的理论局限。
 > - **方法路径** 推动了针对证据咨询委员会、国家智库机制与政策审议档案的制度性审查方法，发展出系统评价政策证据质量的“程序审计”指标。
 > - **教育研究应用** 其治理思想被 [[Mark Rickinson]] 等学者深度融入教育证据质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]），成为界定教育生态系统使能环境（System Influences）与学校过程性问责的关键理论根基。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 汲取帕克赫斯特的良好治理学说，论证教育[[Research Utilization\|证据使用]]理论必须超越单纯的技术效力，深入探究教育制度与专业实践规律。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Rickinson et al. 论帕克赫斯特的学科奠基贡献
 > 贾斯汀·帕克赫斯特通过剖析政治学与公共管理的内在规律，有力论证了[[Good Governance of Evidence\|证据良好治理]]的制度必然性，为各实践领域打破狭隘的技术主义迷思提供了根本性的理论标杆。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
@@ -122,8 +110,6 @@ updated: 2026-10-22
 > - **制度分析合作者** Benjamin Hawkins — 共同发展证据利用的政策制度主义分析模型。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -35,11 +35,7 @@ created: 2026-06-26
 updated: 2026-10-16
 ---
 
-# Split-Half Reliability
-
 ---
-
-## 定义
 
 > [!def] 折半[[Reliability\|信度]]（Split-Half Reliability）
 > 折半信度是把测量项目分成对等两半所测结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。它是一种估计[[Internal Consistency\|内部一致性]]的方法，只需一次施测即可完成——将一份量表的条目按一定规则分为两半，分别计分，计算两半个分之间的相关，再通过校正公式推估整份量表的信度。
@@ -50,10 +46,6 @@ updated: 2026-10-16
 > - **边界** 折半信度不同于[[Test-Retest Reliability\|重测信度]]（跨时间）和[[Parallel-Forms Reliability\|复本信度]]（跨形式）。由于只涉及一次施测，它无法反映时间稳定性或工具等值性。
 
 ---
-
-## 核心要素
-
-### 分半方法
 
 > [!warning] 分半的两个条件
 > 折半[[Reliability\|信度]]的有效性依赖于两个条件（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）：
@@ -80,8 +72,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 折半[[Reliability\|信度]] vs [[Internal Consistency\|内部一致性]] vs [[Test-Retest Reliability\|重测信度]]
 > | 维度 | 折半信度 | [[Internal Consistency\|内部一致性（Cronbach α）]] | [[Test-Retest Reliability\|重测信度]] |
 > |---|---|---|---|
@@ -91,8 +81,6 @@ updated: 2026-10-16
 > | 与 α 的关系 | α 是"所有可能折半的平均" | — | — |
 
 ---
-
-## 争议与批评
 
 > [!warning] 局限性
 > - **分半方式敏感** 不同的分半方式（奇偶、随机、按内容）可能产生不同的折半[[Reliability\|信度]]估计值，结果的稳定性依赖于分半策略的选择。

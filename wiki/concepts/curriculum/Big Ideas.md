@@ -29,13 +29,9 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Big Ideas
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 大概念（Big Ideas）是课程设计中的核心概念或主题，用于组织学科知识并促进学生对学科本质的理解。在[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]（[[NZ Curriculum Refresh 2021-2026\|Te Mātaiaho]]）中，大概念被定义为每个学习领域中心的一组独特的大持久思想，所有学习者都能联系和接触([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 
 > [!quote|notitle]

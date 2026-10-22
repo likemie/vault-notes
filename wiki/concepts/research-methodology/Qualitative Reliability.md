@@ -33,8 +33,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Qualitative Reliability
-
 > [!info] 定义
 > 质性[[Reliability\|信度]]（Qualitative Reliability）指示研究者的方法在不同研究者和不同项目之间的一致性（Gibbs, 2007; 引自 Creswell & Creswell, 2022, Ch9, p.213）。它与量化信度（关注测量分数的稳定性）不同，关注的是研究程序的记录一致性和编码结果的稳定性。
 

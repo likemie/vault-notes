@@ -53,11 +53,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# European Chips Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2023 年 9 月 21 日正式生效（2023/1781 号规例），由欧洲议会与[[EU|欧盟]]理事会联合通过。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–12)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **制度位置** 该法案是欧盟重塑[[Strategic Autonomy|战略自主]]与推行[[Modern Industrial Policy|现代产业政策]]的核心支柱，与欧洲绿色协议、《[[Critical Raw Materials Act|关键原材料法案]]》（CRMA）及微电子 [[Important Projects of Common European Interest|IPCEI]] 共同构成欧洲经济安全战略的制度支柱。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3, 16)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《欧洲[[CHIPS and Science Act|芯片法案]]》（[[EU]] Chips Act）号称动员超过 430 亿欧元的公共与私人投资，通过组织跨国研发试验线、在第二支柱下放宽成员国对欧洲首创晶圆厂的国家援助审查限制，并建立危机期应急优先供应机制，力争在 2030 年前将欧洲在全球半导体制造中的市场份额翻一番提升至 20%，但其实质模式受制于超国家财政预算匮乏，欧委会退守为协调者并高度依赖成员国各自掏钱。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 98, 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–14)]]
@@ -94,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策演进时间线
 > - **2022-02-08** [[EU|欧盟]]委员会正式公布《欧洲[[CHIPS and Science Act|芯片法案]]》立法提案。
 > - **2023-04-18** 欧洲议会与欧盟理事会就法案核心条款达成最终政治妥协。
@@ -105,8 +97,6 @@ updated: 2026-10-22
 > - **2023-09-21** 《欧洲芯片法案》（2023/1781 号规例）正式生效。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 11)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** [[EU|欧盟]]理事会与欧洲议会。
@@ -120,8 +110,6 @@ updated: 2026-10-22
 > - **前沿试验线与区域联合体** 依托 IMEC 等科研枢纽建设亚 2nm 试验线向全欧开放；同时在第二支柱下由德法等财政大国出资，促成台积电与欧洲汽车芯片三巨头在萨克森州设立合资工厂，绑定本土下游需求。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 100)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键主导者** 德国经济部、法国工业部、[[EU|欧盟]]委员会、意法半导体与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 主导数十亿欧元直接资助方案落地与合资建厂选址。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10, 13)]]
@@ -150,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
 > [!indicators] 评价指标
 > - **投入指标** 430 亿欧元公共与私人总动员预测资金、[[EU|欧盟]]共同预算直接支持 33 亿欧元、14 国 [[Important Projects of Common European Interest|IPCEI ME/CT]] 承诺 81 亿欧元公共补贴。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–14)]]
 > - **过程指标** 首创晶圆厂国家援助批准时效、德累斯顿与克罗尔晶圆厂施工进度、跨国协同网络运转效率。
@@ -172,8 +158,6 @@ updated: 2026-10-22
 > - **>€10B** 台积电德累斯顿 ESMC 晶圆厂总投资规模（德国政府补贴约 50 亿欧元）。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

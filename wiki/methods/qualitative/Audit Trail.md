@@ -65,11 +65,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-# Audit Trail
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **审计追踪（Audit Trail）** 是[[Qualitative Research\|质性研究]]中系统记录研究全过程证据与分析决策链条的结构化程序。它通过完整保存和透明呈现从原始经验资料、中间编码缩减到最终理论命题的全部决策轨迹（decision trail），使独立审计者能够对研究开展外部检验，从而为[[Interpretive Paradigm\|自然主义探究]]确立[[Reliability\|可依赖性]]（dependability）与可确认性（confirmability）（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, pp. 162–163, 206]]；Golafshani, 2003, p. 601）。
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > - 不等于 实证主义的可重复性检验（Replication） — 审计追踪不追求不同研究者在脱离情境的条件下复现完全一致的数据结果，而是追求研究过程与解释生成逻辑的“可依赖性（Dependability）”与合理性。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] [[Qualitative Validity\|质性效度]]与可[[Reliability\|信度]]保障机制辨析
 > | 维度 | 审计追踪（Audit Trail） | [[Member Checking\|成员核查]] | [[Triangulation\|三角验证]] | [[Reflexivity\|反思日志]] |
@@ -179,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -197,8 +189,6 @@ updated: 2026-10-22
 > - **2020s 至今 — 生成式 AI 渗透与[[Meaningful Human Control|人在回路]]提示词审计** 随着大模型在[[Open Coding\|开放编码]]与文本缩减中的广泛应用，传统审计追踪拓展为兼顾提示词工程演变、参数配置、文本块引用行号回溯及人工复核裁决的“人在回路智能审计追踪（HITL Audit Trail）”。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -239,8 +229,6 @@ updated: 2026-10-22
 >    - 邀请未参与本项目的同行学者担任[[External Auditor\|外部审计者]]（[[External Auditor]]），依据指引对过程[[Reliability\|可依赖性]]与结果可确认性进行抽样复核并出具简短评议。
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 经典理论与实证文献索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 系统构建质性审计追踪的方法论框架，涵盖信效度体系中六大档案支柱的确立（Ch. 10）、个人[[In-depth Interview\|深度访谈]]中的决策日志与[[Transcription in Qualitative Research\|转录]]校对（Ch. 23），以及[[Content Analysis\|内容分析]] 11 步规程中[[Data Reduction\|数据缩减]]与[[Meaningful Human Control|人在回路]]的计算化审计追踪责任（Ch. 30）。

@@ -42,11 +42,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Infusion Approach
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学科融入模式（Infusion Approach，亦称[[Critical Thinking\|批判性思维]]融入法）是由 Robert Ennis (1989) 提出的批判性思维课程四分法中的核心支柱。它指在深入学习常规学科知识（如历史、生物、化学、文学）的过程中，**教师有意识地将通用的批判性思维原则、逻辑规则与评价标准（如假设识别、证据可[[Reliability\|信度]]评估、因果推论原则）直接向学生显性化讲授并示范**，引导学生在学科探究情境中深度应用这些思维规则。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 融入模式与相关课程模式对比
 > | 比较维度 | 学科融入模式（Infusion） | [[Immersion Approach\|学科沉浸模式（Immersion）]] | 显性混合模式（Mixed） | 独立通用模式（General） |
 > |---|---|---|---|---|
@@ -73,8 +67,6 @@ updated: 2026-10-22
 > | **[[Meta-analysis\|元分析]][[Effect Size\|效应量]]** | **$g+ = 0.29$** ($k = 152$) | **$g+ = 0.23$** ($k = 61$) | **$g+ = 0.38$** ($k = 84$) | **$g+ = 0.26$** ($k = 44$) |
 
 ---
-
-## 教学机制与操作闭环
 
 > [!logic-map]- 融入法[[Critical Thinking|批判性思维]]教学与学科深度融合机制
 > ```mermaid
@@ -91,8 +83,6 @@ updated: 2026-10-22
 > 4. **[[Metacognition\|元认知]]提炼与反思** 在课末引导学生跳出学科细节，总结该思维工具如何在其他学科或现实生活中进行迁移。
 
 ---
-
-## 实证表现
 
 > [!effect-table]- [[Meta-analysis\|元分析]]实证数据（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）
 > | 测量指标 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 实践启示 |

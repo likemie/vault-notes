@@ -66,11 +66,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Policy Science in Comparative Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **比较教育政策科学（Policy Science in Comparative Education）** 是比较教育学者[[Robert Cowen|罗伯特·考恩]]（Robert Cowen, 2023）所识别的学科四种长期并存的理解形式（Forms of Understanding）之一。该观点认为，比较教育可以且应当成为一门服务于公共决策的政策科学，其正当的[[Epistemology|认识论]]形式与基本功能在于向国家机器提供专业比较建议，协助政府在“关键决策时刻”（critical points of decision）应对治理危机。该取向在政治上公开寻求与自由民主国家权力的显性联盟，并在战后国家规划体制与国际援助中与经验[[Positivism|实证主义]]紧密共生。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]; [[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 比较教育四种理解形式的学理辨析
 > | 维度 | 本概念（政策科学） | 情境求同存异（Contextualism） | [[Convergence Theory in Comparative Education\|趋同理论]]（Convergence） | 结果效能测量（Outcomes / [[PISA]]） |
 > |---|---|---|---|---|
@@ -105,9 +99,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **[[Epistemology|认识论]]定位：学科即政策科学（Discipline as Policy Science）** 主张比较教育的合理存在形态在于面向实际政策问题，通过跨国比较分析提炼切实可行的改革方案。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
 > - **政治结盟：与国家权力的显性联盟（Alliance with Power）** 默认自由民主国家体制的善意与理性，将比较学者的智识生产与国家机器的治理议程深度绑定。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
 > - **决策时刻介入：关键节点的智囊咨询（Consultancy at Critical Points）** 强调在国家面临重大教育转折或体系危机的时刻，由比较专家提供危机化解策略与政策工具选择。[[Argument_Cowen_2023_CE|(Cowen, 2023, p. 333)]]
@@ -165,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -184,8 +174,6 @@ updated: 2026-10-22
 > - **2024 年 — 政策工具视角向跨国[[Epistemic Governance|知识治理]]与[[Geopolitics|地缘政治]]拓展** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 将政策科学中的制度工具设计视角引入全球高等教育与[[Knowledge Diplomacy|知识外交]]分析，展示了政策科学分析工具在透视新型跨国大学网络中的应用潜力。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1698)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

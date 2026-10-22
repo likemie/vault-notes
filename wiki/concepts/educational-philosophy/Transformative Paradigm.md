@@ -41,8 +41,6 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Transformative Paradigm
-
 > [!info] 定义
 > 变革主义[[Paradigm\|范式]]（Transformative Paradigm）是一种研究哲学立场，主张研究探究必须与政治和变革议程交织在一起，以在社会各个层面上对抗社会压迫（Mertens, 2010）。这一立场产生于 20 世纪 80 至 90 年代，由那些认为[[Postpositivism\|后实证主义]]的法律和理论结构无法适应社会中边缘化个体或权力、社会正义、歧视和压迫问题的研究者推动。
 

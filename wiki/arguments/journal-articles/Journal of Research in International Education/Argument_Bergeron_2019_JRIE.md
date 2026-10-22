@@ -76,7 +76,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Bergeron_2019_JRIE
 
 ---
 
@@ -93,8 +92,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!theory-position] 理论工具：[[Teacher Beliefs\|教师信念]] (Teacher Beliefs)
 > - **解释对象** 教师对教学、学习和知识本质的观念假设，及其与教学实践的双向交互关系。
 > - **理论问题** 教师对 [[Theory of Knowledge\|TOK]] 的看法如何影响其教学投入？教授高度[[Reflexivity\|反思性]]的 TOK 课程又如何重塑教师原有的教学信念？
@@ -105,8 +102,6 @@ issuing_organization: ""
 > 教师对[[Inquiry-Based Learning\|探究式教学]]的信念是影响其教学实践的最强预测因素 (Wilkins, 2008)。通过考察 TOK 教师的信念（对目标的认同、教学自信心等），可以理解这种极其依赖教师引导的[[Open-Mindedness|开放性]]课程在学校中的实际运行逻辑。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 解释性顺序设计 ([[Explanatory Sequential Design]])
 > 本研究采用[[Mixed Methods Research\|混合方法]]设计（量化先行，质性跟进），旨在用定性数据深入解释定量的统计模式：
@@ -215,8 +210,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现与结论
-
 > [!finding-cards] 核心发现摘要
 > 1. **成功的首要驱动力是兴趣** “教师兴趣”和“学生兴趣”是压倒性的成功因素，且课程的良性运转高度依赖教师的自愿投入。
 > 2. **课程价值在于[[Epistemology\|认识论]]觉醒** 促使学生反思[[Knowledge Building Theory|知识建构]]过程并建立跨学科连接，被公认为课程带来的最大红利。
@@ -229,8 +222,6 @@ issuing_organization: ""
 
 ---
 
-## 关键引用
-
 > [!voice] 关于教学理念的跨学科溢出
 > “我认为 [[Theory of Knowledge\|TOK]] 也发展了教学法。我知道我在课堂上使用的方法成长了多少……当我开始沉浸在 IB 理念中时，我发现了很多新事物。我发现它们是思考常规（thinking routines），一种结构化的探究方式。” (p. 179)
 > 
@@ -242,8 +233,6 @@ issuing_organization: ""
 > *"But also it’s connected with small things, like moving it into the morning and the schedule... But we needed to fight really hard to have it somewhere during the day..."*
 
 ---
-
-## 自述局限
 
 > [!warning] 方法论局限
 > - **样本自选偏误 (Self-selection Bias)** 选择回复[[Questionnaire\|问卷]]和参加[[Focus Group\|焦点小组]]的教师可能更具热情，未必能完全代表全球 IB 教师的平均样态。（p. 174）

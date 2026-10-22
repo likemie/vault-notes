@@ -65,11 +65,7 @@ created: 2026-08-26
 updated: 2026-10-22
 ---
 
-# Data-Based Decision Making
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 基于数据的决策（Data-Based Decision-Making, DBDM，亦常称“数据使用”）指教育者系统分析学校内部现存多元数据，将分析结果应用于革新教学、课程与[[School Effectiveness\|学校效能]]，并在实践中执行（如延续、调整或终止）具体干预措施的动态过程（Schildkamp & Kuiper, 2010; Lai & Schildkamp, 2013）。涵盖的数据类型包括输入数据（人口统计背景）、过程数据（[[Classroom Observation|课堂观察]]、师生互动）、情境数据（[[Organizational Culture\|组织文化]]、家长参与）以及结果数据（标准化测验、日常形成性测评、[[Academic Achievement\|学业成就]]与[[Grade Retention\|留级]]率）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 154–157)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 指出，DBDM 早期过度受行政问责驱动，当代已转向形成性改进取向，承认决策不能由数据单一主导，而应结合教师的默会经验与[[Professional Judgment\|专业判断]]；但 DBDM 与[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）长期平行割裂，亟需在整体性证据知情系统中加以整合。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 基于数据的决策 vs. [[Research-Informed Teaching Practice\|研究知情教学实践]] vs. [[Evidence-Informed Practice\|证据知情实践]]
 > | 比较维度 | 基于数据的决策（DBDM） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） | [[Evidence-Informed Practice\|证据知情实践]]（EIP） |
 > |---|---|---|---|
@@ -104,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **多维校本数据类型（Multi-Dimensional Data Types）** 涵盖学生背景与家庭[[Socioeconomic Status|社会经济地位]]等输入数据、[[Classroom Observation|课堂观察]]与师生互动等过程数据、[[Organizational Culture\|组织文化]]与资源条件等情境数据，以及测评成绩、及格率与[[Grade Retention\|留级]]率等结果数据。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 156–157)]]
 > - **五阶段动态行动循环（Five-Stage Action Cycle）** 遵循设定目标 ➔ 收集数据（围绕成因假设展开） ➔ 分析与质检（数据转化为信息并升华为知识） ➔ 落实改进举措 ➔ 成效评估，包含未达预期时回溯前序步骤的反馈回路。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]]
 > - **[[Data Team Intervention\|数据团队]]结构化支架（Data Team Intervention Scaffold）** 由 [[Kim Schildkamp]] 团队研发，每校遴选6至8名骨干教师与领导组建团队，在外部研究教练指导下遵循八步规程攻关真实学情难题，有效提升[[Data Literacy\|数据素养]]与协作技能。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 158)]]
@@ -165,8 +157,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -176,8 +166,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 基于数据决策的演化路径
 > - **2000s — 美国 [[No Child Left Behind Act 2001\|NCLB]] 法案驱动与高利害问责** 美国颁布《不让一个孩子掉队法案》（NCLB），DBDM 在强问责背景下兴起，早期过度聚焦终结性标准化考试成绩与行政达标监控。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]]
 > - **2010s — 形成性改进转向与[[Data Team Intervention\|数据团队]]模型确立** 国际学界反思数据单一问责弊端，主张数据使用应聚焦课堂教学革新；[[Kim Schildkamp]] 团队在荷兰开发八步数据团队（Data Team）干预模型，推动 DBDM 走向教师协作探究与形成性学情反馈。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 157–158)]]
@@ -185,8 +173,6 @@ updated: 2026-10-22
 > - **2020s — 复杂生态、算法审思与质性证据回归** 伴随对大数据与算法偏见的批判性审视，学界与实践界愈发强调将质性课堂证据、学生声音与教师[[Professional Judgment\|专业判断]]置于数据决策的核心枢纽。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -213,8 +199,6 @@ updated: 2026-10-22
 > - **技术理性异化与合规审计陷阱** 单独的数据驱动极易蜕变为对应付检查、填报报表的合规审计，削弱教育实践中不可量化的立德树人内涵与价值关怀。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 133)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

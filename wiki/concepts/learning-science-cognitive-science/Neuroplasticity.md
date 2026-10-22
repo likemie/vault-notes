@@ -62,11 +62,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Neuroplasticity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **神经可塑性（Neuroplasticity）**，亦称脑可塑性（Brain Plasticity）或突触可塑性（Synaptic Plasticity），指中枢神经系统在生命全程中受遗传程序、成熟发育与内外经验刺激的[[Interaction Effect|交互作用]]，持续改变解剖生理连接强度与功能组织架构的动态生物学机制。在认知神经科学与学习科学中，神经可塑性主要通过[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]与轴突[[Myelination|髓鞘化]]等递进与回归过程，构成了个体[[Executive Function|执行功能]]（EF）成熟与认知发展阶段演进的生理物质基础[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, pp. 6–7)]]；在教育哲学视域中，神经可塑性揭示了大脑作为开放、动态生成且具身嵌入的“中介器官”属性，为反思将学习简化为孤立可控物理回路或单一实证量化指标的还原论取向提供了关键[[Ontology|本体论]]判据[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 5–6)]]。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 突触可塑性三种类型的机制辨析
 > | 维度 | 经验独立可塑性（Experience-Independent） | 经验预期可塑性（Experience-Expectant） | 经验依赖可塑性（Experience-Dependent） |
 > |---|---|---|---|
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > | **教育意涵** | 确立物种特有的神经生理结构底线 | 强调适龄丰富环境对感知觉与语言基础能力的保障作用 | 为后天教学干预、深度技能练习与终身学习提供可塑性生理基础[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 6–7)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 神经可塑性的细胞构件与组织学特征
 > - **[[Synaptogenesis|突触发生]]（Synaptogenesis）** 中枢神经系统神经元之间创建新连接的生物学过程。该过程在儿童早期表现为突触的爆发性过度生成（Overproduction），为环境塑造提供充裕的神经连结储备，在性成熟期后生长速率逐步趋缓[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, p. 6)]]。
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -155,8 +145,6 @@ updated: 2026-10-22
 > | **具身存在论反思命题** | 天文级神经可塑性与具身中介属性决定了学习不可还原为可见、单向控制的技术快照 | 教育哲学、学习科学本体论批判、[[Visible Learning\|可见学习]]范式反思 | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 神经可塑性的理论演进
 > - **19世纪末至20世纪初 — 经典脑定位论与结构刚性假设** 神经解剖学界长期信奉成熟大脑结构不可更改的定型论，认为成人大脑损伤后神经回路无法再生。
@@ -167,8 +155,6 @@ updated: 2026-10-22
 > - **2019 — 具身[[Phenomenology|现象学]]与存在论批判反思** [[Argument_Larsen_2019_EducSci|Larsen (2019)]] 结合[[Thomas Fuchs|托马斯·福克斯]]生态脑理论，以 13 万亿动态突触的极度复杂性，批判将学习过程还原为可见神经技术操控的政策迷思。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -183,8 +169,6 @@ updated: 2026-10-22
 > - **警惕商业化神经包装** 市场上将普通认知练习冠以“大脑可塑性重塑”标签的做法缺乏严谨实证依据，教师与研究者须审慎辨析经验依赖可塑性的实际作用边界。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 神经可塑性关键生理指标与发展时间线数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

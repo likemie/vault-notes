@@ -82,7 +82,6 @@ citation_aliases:
   - "Yan & Morris, 2025"
   - "Yan & Morris (2025)"
 ---
-# Argument_Yan_2025_JCS
 
 ---
 
@@ -92,8 +91,6 @@ citation_aliases:
 > 此前的研究分别关注 LS 的创立(Deng, 2009)或废除(Vickers & Morris, 2022)，但从未将两者并置分析。并置的意义在于：创立阶段与废除阶段的政治气候截然不同，对比两个阶段可以揭示课程变革中哪些因素是持续的、哪些是突变的，以及全球化论述在其中扮演的角色到底是动因还是修辞。
 
 ---
-
-## 理论框架
 
 > [!abstract] 三层[[Analytic Framework\|分析框架]]
 > 分析以 Cuban 课程[[Theory of Change\|变革理论]]为起点，辅以 [[World Society Theory\|世界文化理论]] 和 [[Policy Borrowing\|政策借用]] 框架，并引入 Tröhler(2023)的国家利益驱动论作为废除阶段的核心解释。
@@ -110,8 +107,6 @@ citation_aliases:
 
 ---
 
-## 研究方法
-
 > [!info] [[Historical Document Analysis of Curriculum\|历史文献分析]]
 > - **方法**[[Historical Document Analysis of Curriculum\|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术文献进行系统分析
 > - **数据来源** 《[[General Education\|通识教育]]科课程及评估指引》(2007)、《[[Citizenship and Social Development\|公民与社会发展科]]课程及评估指引》(2021)、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 LS 的学术文献
@@ -119,8 +114,6 @@ citation_aliases:
 > - **时间跨度** 1997 年回归至 2021 年公民与社会发展科（CSD）实施，覆盖 LS 从酝酿到废除的全周期
 
 ---
-
-## 论证结构
 
 > [!example] 核心论证逻辑
 > LS 的历史被分为诞生(2009)与死亡(2021)两个阶段，逐一对比 Cuban 框架中各因素在两个阶段的表现。核心发现是：创立阶段以全球化论述为修辞、以国内问题为实质，公民社会广泛参与；废除阶段以国家安全为旗帜、以直接国家干预为手段，公民社会完全缺席。
@@ -304,8 +297,6 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 
 ---
 
-## 主要发现
-
 > [!success] 核心发现
 > 1. **全球化论述的[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory\|世界文化理论]] 的趋同假设。但港府引用全球论述的真正目的是"[[Externalization\|外部化]]"国内问题，这更符合 [[Policy Borrowing\|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因(p. 491)。
 >
@@ -325,8 +316,6 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 > - 2020 年 9 月课程检讨报告建议保留 LS，两个月后港府直接宣布废除
 
 ---
-
-## 关键引用
 
 > [!quote] Cuban 论课程变革的政治性
 > "课程政策涉及权力、控制、联盟、讨价还价和妥协，发生在管理学校的分权体系内外的群体之间。"
@@ -349,8 +338,6 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 > "If there were an intention to 'kill' LS, it would be more straightforward to abolish the subject. The purpose of revising the LS curriculum and renaming the subject is to rectify the problem of deviations in teaching and put the subject back on the right track."(EDB, 2021b, 引自 p. 489)
 
 ---
-
-## 自述局限
 
 > [!warning] 意图课程的分析边界
 > 分析限定在"意图课程"层面，即课程指引、政府政策文件和官方论述，不涉及 LS 在 400 多所香港中学的实际课堂教学和学生学习成果。一个未回答的关键问题是：LS 的课堂教学在多大程度上真正实现了其官方课程目标（批判思维、多角度分析）？[[Citizenship and Social Development\|CSD]] 自 2021 年实施以来的课堂实践同样是一片研究空白(pp. 490–491)。

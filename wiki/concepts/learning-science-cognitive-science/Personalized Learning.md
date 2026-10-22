@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Personalized Learning
-
 > [!metax] [个性化学习 · Personalized learning](https://www.visiblelearningmetax.com/influences/view/personalized_learning)
 > 学生学习策略 › 学生导向干预
 >

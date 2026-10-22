@@ -39,11 +39,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Seductive Details Effect
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 诱人细节效应（Seductive Details Effect）是指在教学文本、多媒体课件或图示材料中，加入虽然高度有趣、引人入胜但与核心教学目标和本质语义拓扑无关的细节信息（如装饰性插图、背景音效、生动趣闻或无关视觉动画），反而分散学习者的注意力资源、增加外在认知负荷，并最终显著损害对核心知识的深层理解与[[Higher-Order Thinking Skills\|高阶思维]]迁移的认知心理学现象。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 诱人细节 vs 核心图示表征 vs [[Scaffolding\|认知脚手架]]
 > | 比较维度 | 诱人细节（Seductive Details） | 核心图示表征（Core Visuals） | 认知脚手架（Cognitive Scaffolding） |
 > |---|---|---|---|
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > | **对促学效应的调节** | 负向干扰深层迁移，在小学生中干扰尤甚 | 正向促进深层理解与关系识别 | 显著提升发散与聚合推理表现 |
 
 ---
-
-## 核心机制
 
 > [!feature] 诱人细节的三重认知干扰机制
 > - **注意力分散机制（Distraction）** 鲜艳的插画、无关动画或趣闻优先抢占有限的感官注意通道，导致学习者忽视核心文本或拓扑连线。
@@ -107,8 +99,6 @@ updated: 2026-10-22
 > **学段发展与诱人细节敏感性** 在[[Graphic Organizer\|图形组织器]]促学效应的[[Meta-analysis\|元分析]]中，小学生[[Higher-Order Thinking Skills\|高阶思维]]获益（$g = 0.877$）显著低于中学生（$g = 1.113, W = 6.10, p = .014$）。这一现象的核心解释之一即为小学生在面对带有丰富图像与色彩的视觉图示时，难以抑制诱人细节效应的干扰，无法精准聚焦于节点间的语义逻辑连线；而中学生具备更强的主动过滤与图式抽象能力，能最大化榨取空间表征的认知红利。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]相关结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

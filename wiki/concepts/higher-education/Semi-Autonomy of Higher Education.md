@@ -46,11 +46,7 @@ created: '2026-05-13'
 updated: 2026-10-22
 ---
 
-# Semi-Autonomy of Higher Education
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 高等教育和科学的半自主性（semi-autonomy）源自 Gramsci（1971）的[[Hegemony\|霸权理论]]，指科学、教育和其他文化部门相对于国家和经济具有**部分自主性**——它们既被政治经济力量塑造，又能按照自身的[[Epistemology\|认识论]]逻辑和制度惯性自主演化。这种半自主性不是完全的独立（科学需要国家拨款，大学受制于法律和政策），也不是完全的被决定（科学有自己的同行评议标准，大学有自己的学术传统和知识逻辑）。[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]将这一概念引入[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用以解释"为什么高等教育的[[Geopolitics|地缘政治]]关系比国家间的政治、经济和军事关系更具合作性"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 11, 13–14]])。
 
 > [!quote|notitle]

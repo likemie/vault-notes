@@ -56,8 +56,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Johann Heinrich Pestalozzi
-
 ---
 
 ## 简介
@@ -91,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1770s–1798 — 平民社会救济与生产劳动教育阶段** 探索教育作为消除贫困与社会不平等的实践途径。
 >   - **代表著作** 《林哈德与葛笃德》（1781）、《隐士的黄昏》（1780）。
@@ -106,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育的本质不在于自上而下向儿童灌输抽象僵死的教条知识，而在于通过关爱与理解，促使儿童内心蕴藏的体力、智力与道德官能顺应自然秩序获得和谐舒展。一切认知均始于感官对具体事物的直接直观观察；唯有彻底扬弃依赖恐惧与皮鞭维持的粗暴体罚，以教师的人道关爱与内在求知欲引导儿童，学校才能成为唤醒人类尊严与造就健全公民的圣殿。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 18, 20)]]
 
 ---
@@ -123,8 +117,6 @@ updated: 2026-10-22
 > - **美洲[[Common School Movement\|公学运动]]与波士顿大论战的理论武器** [[Horace Mann\|霍勒斯·曼]]在 1844 年 《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》 与随后的 [[Boston Schoolmasters Controversy\|波士顿文法学校校长大论战]] 中，将普鲁士采纳的裴斯泰洛齐教学法作为降维打击本土加尔文传统体罚与[[Rote Learning\|死记硬背]]的合法化武器；斯托在 1837 年 《[[Report on Elementary Public Instruction in Europe\|斯托报告]]》 中亦极力向全美各州推崇这一人道教学法。（pp. 31–32）
 
 ---
-
-## 关系网络
 
 > [!person-network] 思想网络与学术关联
 > - **哲学思想渊源** [[Jean-Jacques Rousseau\|卢梭]] — 继承《爱弥儿》的自然主义与儿童中心思想，但克服了卢梭否定公共教育的偏颇，将其转化为可操作的学校实验。

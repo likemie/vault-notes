@@ -103,7 +103,6 @@ argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: "New Zealand Journal of Educational Studies"
 ---
-# Argument_Snook_2009_NZJES
 
 ---
 
@@ -120,8 +119,6 @@ journal: "New Zealand Journal of Educational Studies"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -133,8 +130,6 @@ journal: "New Zealand Journal of Educational Studies"
 > 实用主义[[Epistemology|认识论]]打破了依据[[Effect Size|效应量]]大小直接给教师开处方的技术主义倾向，确立了实证数据必须经由一线教师的[[Professional Judgment|专业判断]]、教育理念和具体课堂情境进行整合反思的界限（pp. 93, 104）。同时，教育社会学的方差分解研究为评判教师是最大影响[[Variable|变量]]的说法提供了客观标尺：当家庭与社会背景决定了绝大部分成绩差异时，如果脱离社会环境改善而一味要求学校单方面负责，在政策上就会产生严重的误导（pp. 98–99）。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -151,8 +146,6 @@ journal: "New Zealand Journal of Educational Studies"
 > | **对照实证文献** | 包括田纳西州 STAR 实验（Finn & Achilles, 1990）、伦敦班级规模研究（Blatchford, 2003）、得克萨斯小学资源实验（Murnane & Levy, 1996）、新西兰奥克兰 PACE 读写干预（Stewart, 2001; Ministry of Education）、英格兰学校成绩调查（Gray et al., 1986）、新西兰生源方差实证（Harker, 1995, 1996; Nash, 2004）、美国 25 年绩效工资评估（Murnane & Cohen, 1981）以及新西兰议会《[[The Scott Report\|斯科特报告]]》（1986）。（pp. 98–103） |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -172,9 +165,7 @@ journal: "New Zealand Journal of Educational Studies"
 
 ---
 
-### 论证步骤一　缺乏底层研究质量控制且抹平细分变量导致元分析结论失真
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　缺乏底层研究质量控制且抹平细分变量导致元分析结论失真
 > [[John Hattie|哈蒂]]在综合过程中公开声明不评估原始研究的设计质量，导致劣质研究混入数据库并被直接计算平均数；加之[[Publication Bias|发表偏倚]]、概念界定模糊以及笼统合并计算，使得得出的宏观[[Effect Size|效应量]]掩盖了教育活动的真实复杂性。（pp. 94–97）
 
 #### 1. 哈蒂承认多项研究限制却在具体分析中自相矛盾
@@ -234,9 +225,7 @@ journal: "New Zealand Journal of Educational Studies"
 
 ---
 
-### 论证步骤二　排除家庭背景并设定绝对效应量门槛导致学校效能归因错误
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　排除家庭背景并设定绝对效应量门槛导致学校效能归因错误
 > 哈蒂把解释力高达 70% 至 80% 的家庭背景与社会阶层变量排除在视域之外，从根本上弄错了学生成绩差异的归因方向；同时，把 0.40 硬性设定为有效与否的绝对门槛，不仅在统计学上站不住脚，更混淆了统计相关与[[Causality|因果关系]]的区别。（pp. 94–96, 98–100）
 
 #### 1. 忽略家庭与社会阶层影响导致过度夸大校内因素的作用
@@ -280,9 +269,7 @@ journal: "New Zealand Journal of Educational Studies"
 
 ---
 
-### 论证步骤三　脱离课堂教学情境的政策外推会损害学校教育与教师文化
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　脱离课堂教学情境的政策外推会损害学校教育与教师文化
 > 脱离具体的微观情境把宏观效应量直接用作公共政策工具，会带来负面的实践后果；以[[Class Size|班级规模]]和[[Performance Pay|绩效工资]]为例，实证研究证实减小班额的效果取决于是否配合教学方式变革，而绩效工资不仅缺乏实证支撑，更会从机制上破坏良好教学所必需的教师互信与容错文化。（pp. 100–104）
 
 #### 1. 缩减班级规模必须配合教学方式变革才能提高学生成绩
@@ -366,8 +353,6 @@ journal: "New Zealand Journal of Educational Studies"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Meta-meta-analysis|二阶元分析]]放弃输入质量审查导致结论失真** [[John Hattie|哈蒂]]未对纳入的 800 项[[Meta-analysis|元分析]]建立严谨的质量准入准出标准，导致劣质研究混入数据库；所依赖的发表文献受[[Publication Bias|发表偏倚]]侵蚀，且[[Variable|变量]]界定模糊引发概念混淆。（pp. 94–97）
 > 2. **排除校外阶层背景导致[[School Effectiveness|学校效能]]归因发生严重偏航** 家庭背景、贫困与社会阶层解释了 70% 至 80% 的学业校际差异，将非学校因素排除在视域之外极易导致决策者高估校内孤立干预的效力，并将系统性结构危机转嫁给一线教师。（pp. 94–95, 98–99）
@@ -384,8 +369,6 @@ journal: "New Zealand Journal of Educational Studies"
 > - **$300,000** 德克萨斯州 15 所极低分小学每年获得的专项追加经费，历经 5 年验证出单纯减员零成效而综合交互改革达成突破。（pp. 101–102）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[John Dewey|杜威]]论实证证据作为明智探究的假设而非行动规则
 > 实证证据绝不为我们提供行动的规则，而仅仅为我们进行明智的[[Problem Solving|问题解决]]提供了假设，并为我们探询教育的终极目的提供了假设。这要求研究知识必须与教师自身的信念、价值观和实践经验相整合，而不是作为技术教条直接套用。（pp. 93, 104）

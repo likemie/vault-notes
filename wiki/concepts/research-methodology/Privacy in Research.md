@@ -35,10 +35,6 @@ created: 2026-06-18
 updated: 2026-10-22
 ---
 
-# Privacy in Research
-
-## 定义
-
 > [!def] 核心定义
 > 研究中的隐私权延伸到所有与个人身体和精神状况、个人境况和社会关系相关的、尚未进入公共领域的信息。它赋予个人或集体自行决定何时何地、在什么境况下、以何种程度将个人态度、意见、习惯、怪癖、疑虑和恐惧传达给他人或保留的自由（Social Sciences and Humanities Research Council of Canada, 1981）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 99]]）。
 
@@ -54,8 +50,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
 > [!feature] 隐私的三个维度
 > Diener and Crandall (1978) 从三个视角考虑隐私（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 99–100]]）：
 
@@ -70,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 围绕概念形成的命题
-
 > [!claim] 隐私可以被自愿放弃
 > 研究参与者可以选择放弃隐私权，要么允许研究者接触敏感话题或场所，要么同意研究报告以姓名识别他们。后一种情况至少需要征求[[Informed Consent\|知情同意]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 100]]）。
 
@@ -79,8 +71,6 @@ updated: 2026-10-22
 > Lincoln (1990) 认为隐私保护有权者、再生产权力不平等。Howe and Moses (1999, p. 43) 举例说明隐私不应能掩盖不当行为，如"虐待性的教师……性别歧视的课程"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 102]]）。
 
 ---
-
-## 争议与批评
 
 > [!tension] 隐私 vs 公共利益
 > 道义论和德性伦理路径可能要求尊重隐私权，但功利主义、后果论路径可能论证如果符合公共利益，隐私可以被侵犯。研究者需要权衡：追求真相和追求信任可能相互冲突（Kelly, 1985, p. 147）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 102–104]]）。

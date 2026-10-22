@@ -46,14 +46,11 @@ status: draft
 created: '2026-05-01'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Norberto Bottani 是[[International Education\|国际教育]]指标开发史上的关键人物。拥有瑞士弗里堡大学（University of Fribourg）哲学系教育硕士学位，自 1976 年起在 [[OECD]] 以多种职务任职([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.5]])。
 
-## 核心思想
-
-> [!info|notitle] 核心思想
+> [!info] 核心思想
 > Bottani 的核心立场经历了从乐观到幻灭的显著转变([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.5]])：
 
 
@@ -82,8 +79,6 @@ updated: 2026-10-22
 > - Bottani, N. (1998). The OECD educational indicators: Purposes, limits and production processes. *Prospects*, 28(1), 61–75. — 阐述指标的协作风格和俱乐部效应
 > - Bottani, N. (2008). The oil level, the engine and the car: The stakes involved in assessing the quality of education on the basis of indicators. *Éducation et Société*, 18(2), 11–23. — 幻灭之作，系统批判[[Performance Indicators\|绩效指标]]霸权和对指标的误用
 
-## 思想发展与影响
-
 > [!note-] [[OECD]] 职业历程([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.5]])
 > - **1976–1983** OECD 早期工作，专注早期儿童教育
 > - **1983–1987** 领导 OECD 的教育、文化与语言[[Pluralism|多元主义]]项目（Education, Cultural and Linguistic Pluralism）
@@ -94,8 +89,6 @@ updated: 2026-10-22
 
 > [!note-] 影响
 > 作为 INES 负责人，Bottani 的[[Pragmatic Paradigm\|实用主义]]决策（放弃理论模型、采用灵活组织框架、强调协作和参与式方法）奠定了国际[[Performance Indicators\|教育指标]]体系的基础架构。他的后期批判为理解指标的 [[Performativity]] 和局限性提供了来自内部的第一手证据([[Argument_Gorur_2014_Discourse\|Gorur, 2014]])。
-
-## 争议与批评
 
 > [!warning] Bottani 自身立场的矛盾
 > Gorur 的论文暗示了 Bottani 立场中的一个张力：他既是 [[International Indicators of Education Systems\|INES]] 指标的缔造者和早期倡导者，又是后期最尖锐的批评者。这种转变本身就体现了 [[Science and Technology Studies\|STS]] 的核心发现——科学事实在制造过程中需要许多妥协，而这些妥协在成品中会被系统性地擦除(Derksen, 2000; [[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.5–6]])。

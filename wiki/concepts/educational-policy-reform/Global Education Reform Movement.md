@@ -89,11 +89,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-# Global Education Reform Movement
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的新自由主义学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
@@ -119,8 +115,6 @@ updated: 2026-10-22
 > | **相互关系** | 统领性批判框架，整合了管理学、测量学与政治经济学 | 为 GERM 引入企业管理模式提供了制度工具与技术合法性 | 构成 GERM 在学校日常微观运转中最具破坏力的[[Disciplina and Doctrina\|规训]]抓手 |
 
 ---
-
-## 核心要素
 
 > [!frames-ref] 萨尔伯格（Sahlberg, 2012）归纳的 GERM 五大核心支柱
 > 萨尔伯格（Sahlberg, 2012, p. 141）将全球教育改革运动的基本运作特征概括为五个紧密咬合的支柱：
@@ -201,8 +195,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -222,8 +214,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：工业效率宣称 vs 育人本质属性
 > - **工业效率与技术官僚立场（蓝方）** 倡导者主张标准化评估与量化[[Performance Indicators|绩效指标]]提供了跨地区、跨国界的可比基准，企业管理模式和合同驱动显著提升了财政资源的配置效率，市场竞争与优胜劣汰机制激发了学校改进的内在动力（Sahlberg, 2012）。
 > - **[[Critical Pedagogy|批判教育学]]与育人本体立场（红方）** 批评者指出教育是关涉社区认同、民主公民素养与深层师生情感交往的复杂人际实践，不可等同于工业制造；GERM 强行实施工业泰勒制监控，诱发严重的[[Performativity|表演性]]危机与教师职业倦怠，且将结构性不平等去政治化为个体教学技术问题（Sahlberg, 2012; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
@@ -237,8 +227,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -251,8 +239,6 @@ updated: 2026-10-22
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252–260)]] | 全球 158 篇涵盖经合组织与拉美中等收入国家的教育治理改革文献 | [[Systematic Review\|系统文献综述]]与国别分析表提取 | GERM 核心工具包（标准、外部统考与问责制）在不同行政传统下的采纳动力与制度化轨迹 | 证实全球同质化趋同并未出现，GERM 政策工具在不同行政传统下分化为市场化制裁、[[Neo-Weberian State\|新韦伯主义]]诊断基准与拿破仑科层拉锯三大异质轨迹；外包测评产业形成制度锁定 | 质性系统综述与[[Historical Institutionalism\|历史制度主义]]综合分析，无元分析统计合并 | 依托英文核心数据库索引文献，对非英语国家边缘实践覆盖有限 |
 
 ---
-
-## 应用案例
 
 > [!case] 新西兰：明日学校改制至[[Corwin Press|考文出版社]]商业专营
 > 新西兰 1989 年推行明日学校改制，将奥克兰教育局后勤行政部门私有化转变为[[Cognition Education|认知教育]]公司（[[Cognition Education]]）。[[John Hattie|哈蒂]]在担任该机构董事期间，将《[[Visible Learning|可见的学习]]》商业推广权独家授权成立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 品牌，按营收比例抽取高额版税；2018 年国际出版巨头世哲旗下考文出版社以估算 5000 万美元的年营业规模全资收购该品牌，完成了从公立服务改制到跨国资本专营的典型 GERM 变现循环（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
@@ -270,8 +256,6 @@ updated: 2026-10-22
 > 瑞士通过签署 [[HarmoS]] 协议建立全国统一的核心课程与表现标准，将义务教育统一延长为 11 年；加拿大在 [[Canadian Education Indicators Program|CEIP]] 中直接植入 PISA 评价标准；挪威设立国家质量评估系统。跨国测试直接重塑了多国基础教育评估基础设施（[[Argument_Li_2025_HSSC|Li et al., 2025]]; Bieber & Martens, 2011）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] GERM 的核心机制：标准化、问责与低风险路径
 > 自 1980 年代起，全球教育改革运动（GERM）在各国逐渐占据主导地位。它建立在五个核心支柱之上：课程与评估的标准化、对读写和算术等核心技能的偏狭关注、寻求达成目标的低风险路径、采用企业管理模式，以及基于测试的强力问责政策。这些举措将复杂的教育过程等同于工业制造，把学校视为企业，把教师视为流水线工人。(Sahlberg, 2012, p. 141)

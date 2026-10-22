@@ -81,11 +81,7 @@ created: 2026-10-06
 updated: 2026-10-22
 ---
 
-# Policy Conditionalities
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **政策附加条件（Policy Conditionalities / 制度化附加条件与护栏条款）** 指在公共财政资助或主权开发信贷中，资助方/放贷方为了确保特定政策目标达成、防范道德风险并重塑权利义务关系，向受资助企业或借款国政府设定的前置准入门槛、运营合规义务、体制重组约束与收益分享规则。该机制在当代公共治理中涵盖两大核心制度传统：一是**超国家多边开发金融传统**，表现为[[International Monetary Fund|国际货币基金组织]]（IMF）、[[World Bank|世界银行]]与区域开发银行在主权贷款中设立的宏观紧缩、机构重组与法规修订条件，其落地效能高度受制于借贷国内部政治可行性与领导意愿（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 464–467]]）；二是**现代主权国家产业战略传统**，表现为主权政府在提供芯片、绿色能源等巨额公共补贴时设立的[[Public Value|公共价值]]护栏，通过绑定[[Apprenticeship|注册学徒制]]、托儿福利、禁止股票回购、超额利润分享与地缘安全扩产限制，重塑国家与企业之间的社会契约（[[Argument_Reynolds_2024_JICT|Reynolds, 2024, pp. 4–6, 8–10]]）。
@@ -117,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政策附加条件的两大制度[[Paradigm|范式]]对照：超国家多边借贷附加条件 vs. 现代国家产业政策附加条件
 > | 比较维度 | 超国家多边信贷附加条件（MDB / [[International Monetary Fund\|IMF]] Lending） | 现代国家产业战略附加条件（Industrial Policy Guardrails） |
 > |:---|:---|:---|
@@ -147,8 +141,6 @@ updated: 2026-10-22
 > | **日常监督与干预权限** | 联邦商务部与国家标准与技术研究院拥有日常实地审查、分批发放资金、随时叫停拨付与强制追讨的法定权力。 | 欧委会日常缺乏微观规制手段；仅在官方正式认定进入严重供应链断裂危机时，才有权指令企业通报产能并优先满足欧洲本土订单，违者处以罚款。[[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 14–16)]] |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Modern Industrial Policy|现代产业政策]]附加条件的核心构件分类学
 > - **劳动力与社会包容附加条件（Workforce & Social Inclusion）** 强制要求受资助企业提交[[Workforce Development|劳动力发展计划]]，与工会[[Apprenticeship|注册学徒制]]及社区学院合作，并为一线工人与建筑工人提供可负担托儿保障（CHIPS 要求 >1.5 亿美元项目）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10)]]
@@ -249,8 +241,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 政策附加条件相关理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
@@ -269,8 +259,6 @@ updated: 2026-10-22
 > - **2021–2024 年 — 美国现代产业战略的法典化与[[Operationalization|操作化]]** 拜登政府在 [[Infrastructure Investment and Jobs Act|IIJA]]（[[Build America, Buy America Act|BABA]] 条款）、CHIPS（劳工/托儿/利润分享/地缘护栏）及 [[International Reading Association|IRA]]（[[Apprenticeship|学徒制]]与现行工资抵免）中全面落地附加条件机制，并将其延伸至 [[National Science and Technology Council|NSTC]] 研发联合体开放准入与非排他 IP 规约，使其成为 21 世纪国家产业战略治理的标准配置。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–6, 8–14)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 10–11)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -296,8 +284,6 @@ updated: 2026-10-22
 > 附加条件的高度有效性依赖于国家拥有具备强大财务分析与行业洞察力的专业执行机构（如[[Embedded Autonomy|嵌入式自主性]]团队）；在公共能力薄弱、信息不对称严重的行政环境下，附加条件易流于形式主义合规或因过于死板阻碍正常投资。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 政策附加条件在跨国主权借贷与现代产业战略中的实证矩阵
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

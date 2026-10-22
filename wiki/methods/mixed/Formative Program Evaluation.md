@@ -50,9 +50,7 @@ updated: 2026-10-22
 
 这使形成性评价特别接近[[Evidence-Informed Practice|证据知情实践]]：研究证据进入实践后，需要和地方目标、[[Professional Judgment|专业判断]]、实施条件及用户经验共同被解释。若评价只提供终点成绩结果，复杂改革中的中间变化很容易被遮蔽([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.121-123]])。
 
-## 研究程序
-
-> [!example|notitle]
+> [!example] 研究程序
 > [[Formative Assessment\|形成性评价]]通常先建立[[Logic Model\|逻辑模型]]，再围绕输入、即时输出、短期结果和长期结果收集多源数据，并在项目推进过程中持续反馈给利益相关者([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.115, 123-124]])。
 
 在 [[Students and Teachers Accessing Tomorrow]] 中，形成性评价使用教师[[Questionnaire|问卷]]、学生[[Focus Group|焦点小组]]、校长与教师访谈、课堂教师焦点小组、[[Classroom Observation|课堂观察]]、行为数据，以及英语语言艺术和数学成就数据。评价目的不是把 STAT 还原为单一因果效应，而是追踪教师准备、设备进入课堂、数字资源使用、学生参与、教学方式变化和成就结果之间的阶段性关系([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.115-118, 121-124]])。
@@ -66,9 +64,7 @@ updated: 2026-10-22
 
 适用场景包括[[Technology Infusion|技术融入]]、全校改进、课程与专业发展组合项目、跨部门合作项目等。此类改革往往需要先判断“项目是否按计划发生”，再判断“结果是否已经出现”；形成性评价可以帮助避免过早把项目成功只等同于标准化成就提升([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, pp.115, 121-123]])。
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > [[Formative Assessment\|形成性评价]]不等同于因果证明。[[Students and Teachers Accessing Tomorrow\|STAT]] 的多源形成性评价能显示项目实施进展、利益相关者反应和若干中间结果，但由于项目多组件、缺乏纯控制条件，并与学区其他课程项目混杂，无法证明 STAT 的单独因果效果([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.124]])。
 
 > [!warning|notitle]

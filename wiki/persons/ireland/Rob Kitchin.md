@@ -54,11 +54,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Rob Kitchin
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 爱尔兰人文地理学家与空间信息学者，梅努斯大学（Maynooth University）社会科学研究所（Maynooth University Social Sciences Institute, MUSSI）教授、欧洲研究理事会（[[Engineering Research Centers|ERC]]）高级研究员。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000–2010 — 代码空间与软件化日常批判** 探讨软件与代码如何隐秘地嵌入空间建构和日常生活，提出“代码/空间”（Code/Space）概念。
 >   - **代表著作** *Code/Space: Software and Everyday Life* (2011, 与 Martin Dodge 合著)。
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 基钦主张瓦解“数据客观真实”的技术[[Positivism\|实证主义]]神话，指出任何数据集、算法模型与监测仪表盘都不是对现实的中立反映，而是由[[Epistemology\|认识论假设]]、法律规范、财政资源、硬件设施与组织[[Habitus|惯习]]共同构成的“[[Data Infrastructure\|数据汇聚体]]”（Data [[Assemblage]]）；数据的生产与流转过程始终是一套被制造、被过滤、被治理的技术政治实践。
 
 > [!citation-card] 基钦论数据汇聚体的复合构成
@@ -110,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创“批判性数据研究”（Critical Data Studies），所提出的“[[Data Infrastructure\|数据汇聚体]]”成为批判社会学、数字人类学、教育政策与科学技术论（[[Science and Technology Studies\|STS]]）解构数字化基础设施的核心理论支柱。
 > - **方法路径** 倡导结合技术堆栈分析、法律政策文本考察与深层[[Ethnography\|民族志]]访谈的综合质性质询方法，示范了如何穿透界面表象进入软件代码与后台业务逻辑。
 > - **政策与教育治理路径** 为[[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）等学者解剖教育行政机关数字化学校监测提供了直接理论工具，推动了教育治理研究由单纯关注测验分数向审视底层数字基础设施的根本转变。
@@ -121,8 +111,6 @@ updated: 2026-10-22
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]] — 深度援引基钦的数据汇聚体理论，构建美德两州教育行政机关做数据微观张力的分析透镜。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 学界论基钦对批判性数据研究的奠基性贡献
 > 基钦敏锐地捕捉到了大数据浪潮背后的[[Epistemology\|认识论]]陷阱，通过建立严密的[[Data Infrastructure\|数据汇聚体]][[Analytic Framework\|分析框架]]，将关于数据的探讨从单纯的计算机科学与量化统计抽离出来，重置为当代批判社会理论与政治经济学的核心议程。
@@ -137,8 +125,6 @@ updated: 2026-10-22
 > - **思想受益与扩展者** [[Sigrid Hartong]] — 将基钦的[[Data Infrastructure\|数据汇聚体]]框架全面引入学校监测与教育行政基础设施分析。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

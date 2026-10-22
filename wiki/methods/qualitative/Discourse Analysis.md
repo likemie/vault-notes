@@ -95,11 +95,7 @@ created: 2026-07-22
 updated: 2026-10-22
 ---
 
-# Discourse Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > [[Discourse|话语]]分析（Discourse Analysis）探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对意义建构的强调表明了话语分析的**行动视角**——语言具有明确的施事功能与能动建构力量：传递信息、说服、指责、谴责、鼓励、建构[[Social Imaginary|社会想象]]及确立治理规训等。
@@ -126,8 +122,6 @@ updated: 2026-10-22
 > *...it is by defining the problems of an educational context and simultaneously offering the solutions to these problems that the model promoted by international agencies narrows the discursive space of possibilities in educational contexts to which it moves.*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 知识由语言在社会情境中建构，语言不只是透明的意义载体，其本身就是社会实在的构成部分。[[Discourse|话语]]分析的文本本身也是可被分析的话语。
@@ -157,8 +151,6 @@ updated: 2026-10-22
 > 5. **比较读法** 保留替代解释，审视文本选择与研究者投射，不把丰富语言的说服力当作唯一正确性的证明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.5)]]
 
 不同材料要求不同分析动作，详见 [[Conversation Analysis|会话分析]]（Conversation Analysis）、[[Narrative Analysis|叙事分析]]（Narrative Analysis）与 [[Autobiographical Analysis|自传分析]]（Autobiographical Analysis）。这些示范保留完整文本的主张，不意味着所有话语分析都排斥编码。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -209,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Field|话语空间]]排他性规制机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；剖析大国对外政策话语的深层地缘机制与意识形态框架（如运用费尔克拉夫三维模型解构“一带一路”教育行动文本；Woo, 2023）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
@@ -247,8 +237,6 @@ updated: 2026-10-22
 > | [[Ethogenic Approach]] | 方法论基础 | 两者共享对意义系统和参与者视角的关注。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用跨国多边政策[[Discourse|话语]]比较分析解构[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]与[[OECD|经合组织]]政策文本中的深层预设同构，揭示信息时代通用模型对受援国政策[[Discursive Field|话语空间]]的排他性收拢机制。

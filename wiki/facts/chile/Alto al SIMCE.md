@@ -43,11 +43,7 @@ created: 2026-10-21
 updated: 2026-10-21
 ---
 
-# Alto al SIMCE
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 智利“停止 [[SIMCE]]”运动（Alto al SIMCE）是拉美地区最具代表性的反对标准化考试与准市场教育问责的草根社会运动，标志着民间力量正面挑战皮诺切特军政府时期遗留的新自由主义教育规制装置。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -59,8 +55,6 @@ updated: 2026-10-21
 > - **直接导火索 / 触发事件** 智利教育部持续扩张 SIMCE 的测验科目与学段覆盖（从基础教育拓展至学前与高中各年级），并计划依据统考结果对表现处于后 20% 的学校施加更严苛的行政督导与关校威胁。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257, 261)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
 > - **2014 — 联盟发轫与社交媒体舆论战**
@@ -82,16 +76,12 @@ updated: 2026-10-21
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 智利停止 [[SIMCE]] 运动倡议立场
 > 在智利，一个名为“停止 SIMCE”的由学生、教师和批判学者组成的反测验联盟，借助社交媒体揭露了国家标准化评估（SIMCE）对学校教学和学校氛围的负面影响。该运动向教育部施压，促使其成立特别委员会审查 SIMCE，并成功推动了测验频次的削减。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 >
 > *In Chile, an anti-testing alliance called 'Alto al SIMCE' (Stop SIMCE) formed by students, teachers and critical scholars used social media to expose the negative effects of the national standardized assessment on school pedagogy and school climate. The campaign pressured the Ministry of Education to set up a special committee to review SIMCE and successfully obtained a reduction in the number of tests.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **运动推进阵营** [[Alto al SIMCE]] 联盟、智利教师工会（Colegio de Profesores）、中学生协同协调协调委员会（CONES）与大学学生联合会（CONFECH）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -108,16 +98,12 @@ updated: 2026-10-21
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键历史后果
 > - **政策让步与测验减负** 迫使教育部暂停小学低年级全员统考计划，将评估重心由高频普查阶段性调整为隔年抽样与多科轮替，降低了基层的即时测评负担。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **催生[[Firewall Effect|防火墙效应]]（[[Firewall Effect]]）** 韦尔热等人指出，运动虽成功逼退了更严苛的惩治规则，但官方通过调减测验科目与强调诊断价值平息了社会民怨，反向加固了 [[SIMCE]] 作为底层[[Data Infrastructure|数据基础设施]]的合法性，全员统考的核心框架依然稳固延续。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–263)]]
 > - **跨国南北抗争共振** 与美国中产家庭主导的[[Opt-Out Movement|退考运动]]遥相呼应，构成了全球南方教育运动抵抗规制型治理与技术主义控制的经典范本。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 学术争议
 >

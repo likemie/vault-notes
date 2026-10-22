@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Max Planck
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名理论物理学家、科学哲学家，柏林大学教授、威廉皇帝学会会长（后更名为[[Max Planck Society|马克斯·普朗克学会]]），近代物理学两大支柱之一（量子力学）的开创者。
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作与论文
 > - **1900 — *Ueber eine Verbesserung der Wienschen Spectralgleichung*** 提出黑体辐射量子公式。
 > - **1906 — *Vorlesungen über die Theorie der Wärmestrahlung*** 热辐射理论讲义，奠定量子统计基础。
@@ -80,14 +74,10 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 马克斯·普朗克（Max Planck）深刻洞察到，科学真理的演进并非纯粹依靠逻辑说服与实证辩驳，而深受科学共同体的代际更替与认知惯性制约。科学发现既需要极其严谨的数学与实验证明，又要求探索者在缺乏完全证据的前提下具备突破旧[[Paradigm|范式]]的信念与直觉。
 
 ---
-
-## 历史评价与理论延伸
 
 > [!citation-card] Karp & Zamiska 论科学实证与智识勇气的张力
 > 西方文明对科学实证的坚定信仰创造了技术繁荣，但这种对确凿证据的绝对执念在社会思想领域挤压了智识勇气——而智识勇气恰恰要求人们在缺乏完全证据的情况下依然敢于树立和坚守崇高信念。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 72–73)]]

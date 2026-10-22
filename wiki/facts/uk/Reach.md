@@ -52,11 +52,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Reach
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Reach（Reach 读写干预方案）** 是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）出资资助并委托英国财政研究所（IFS）等机构开展独立因果评估的小学升初中（Key Stage 2 至 Key Stage 3 衔接期）助教一对一强化方案；其核心目标是针对英格兰六至七年级（约 11–12 岁）在进入初中后面临严重阅读衰退危机的学困生，由受训教学助教实施高频密集的一对一个别化读写辅导，保障弱势儿童平稳适应中等教育课程。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克英国初中阶段学困生因阅读障碍而无法应对历史、地理、科学等分科教材繁重文本的现实困局。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 由经过系统针对性培训的教学助教对七年级落后新生实施每周多达数次、每次 30–45 分钟的一对一精读与词汇理解辅导，能够产生高达 $+0.40$ 以上的因果[[Effect Size\|效应量]]，显著消除初中入门阶段的学业适应不良。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -86,16 +80,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Reach 发展历程
 > - **2013–2015 — [[Education Endowment Foundation\|EEF]] [[Randomised Controlled Trials\|随机对照试验]]实施** 在多所英格兰中学设立助教辅导岗位，跟踪对照组与干预组整整一学年的[[Academic Achievement\|学业表现]]。
 > - **2016 — 标志性独立评估成果公布** 西比耶塔（Sibieta, 2016）发表 IFS 独立评估报告，证实干预组学生在标准化阅读测试上获得了平均 5 个月的额外净进步（[[Effect Size\|效应量]] $+0.42$）。
 > - **2017–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据方案** 被斯莱文列为初等与初中衔接期 Tier 3 助教辅导领域的代表性强证据方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **资助与评估方（[[Education Endowment Foundation\|EEF]] / IFS）** 提供科研经费支持与独立无偏见因果计量分析。
@@ -104,8 +94,6 @@ updated: 2026-10-22
 > - **受益对象（七年级落后新生）** 获得个性化阅读点拨，迅速适应初中学习。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的全国标准化阅读因果[[Effect Size\|效应量]]** 在独立 [[Randomised Controlled Trials\|RCT]] 中测得平均 $+0.42$ 的因果效应量（相当于额外多获得约 5 个月的学业进步），达 [[Every Student Succeeds Act\|ESSA]] 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

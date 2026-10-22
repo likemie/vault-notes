@@ -48,11 +48,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Early Steps
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Early Steps（早期起步，及其进阶版 Next Steps）** 是由阿巴拉契亚州立大学（Appalachian State University）著名读写教育学者达雷尔·莫里斯（Darrell Morris）等学者研发的小学一年级早期读写专业教师一对一密集救济方案；其核心目标是针对小学一年级在识字与语音[[Decodification\|解码]]上处于全校最底层的极高危学生，由经过严格培训的专业认证教师实施每日 30 分钟的高密度临床诊断性辅导，在学年末使学生脱离阅读衰退危机。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **核心问题导向** 针对当时全美广泛流行的 [[Reading Recovery]] 培训周期长、成本极高的痛点，探索一种更为精炼、强化显性拼读与听写操作的专业教师辅导替代方案。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 由认证教师结合精准的非正式阅读量表（IRI）诊断，对学困儿童开展每日 30 分钟集“熟读复盘、显性拼字、口述听写与新书带读”于一体的密集[[Individualised Instruction\|个别化教学]]，能够产生高达 $+0.80$ 以上的巨大因果学业增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -85,16 +79,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Early Steps 发展历程
 > - **1995–1999 — 教学规程研发与阿巴拉契亚学区先导试验** 莫里斯团队提炼出结构化拼写归类教学法，并确立四环节日常辅导流程。
 > - **2000 — 标志性对照评估成果发表** 莫里斯等学者（Morris, Tyner, & Perney, 2000）在《美国教育研究杂志》（AERJ）发表严格的因果评估报告，测得高达 $+0.86$ 的显著阅读[[Effect Size\|效应量]]。
 > - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 经典循证方案** 被斯莱文列为初等阅读 Tier 3 专业教师辅导领域的标志性代表方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **学术主持方（阿巴拉契亚州立大学）** 编制分级读本目录、词汇归类卡具及教师督导评估规程。
@@ -103,8 +93,6 @@ updated: 2026-10-22
 > - **目标受试儿童（一年级极度滞后学生）** 接受每日结构化个别干预，直至达到年级阅读中位数。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **高达 +0.86 的超常因果[[Effect Size\|效应量]]** 在严格因果实证评估中，接受 Early Steps 辅导的学生在独立阅读测试与字词[[Decodification\|解码]]测验上测得高达 $+0.86$ 的超常效应量，达 [[Every Student Succeeds Act\|ESSA]] Moderate 等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

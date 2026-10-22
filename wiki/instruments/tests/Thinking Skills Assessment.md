@@ -44,11 +44,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Thinking Skills Assessment
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Thinking Skills Assessment（TSA）
 > - **工具类型** 高利害大学本科入学思维能力选拔测验（High-Stakes Thinking Skills Admissions Test）。
@@ -57,8 +53,6 @@ updated: 2026-10-16
 > - **实施方式** 计算机机考或纸笔测试（共 120 分钟：Section 1 限时 90 分钟，Section 2 限时 30 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]与[[Problem Solving\|问题解决]]潜能
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -71,16 +65,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **Section 1 题项设计** 50 道 5 选 1 单选题，完全脱离特定学科背景知识，基于日常公共政策或科学常识材料。
 > - **Section 2 写作规则** 30 分钟从 4 个涉及哲学、社会政治或伦理议题中任选 1 题，书写不超过 2 页纸的紧凑论述。
 > - **计分体系** 采用 Rasch 项目反应模型将原始对题数转换为 0–100 的标定分数（平均分约为 60 分）。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -90,8 +80,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | TSA 牛津/剑桥版 | [[OECD]] 报告分析高利害选拔中将[[Critical Thinking\|批判性思维]]作为核心准入标准的国际模式 | 入学思维能力测验 | 证实 TSA 能够有效剥离考生家庭背景带来的事实知识积累偏误，高度预测本科阶段的学业创新潜能 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

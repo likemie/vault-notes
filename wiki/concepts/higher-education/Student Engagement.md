@@ -66,12 +66,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Student Engagement
 （学生投入）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学生投入（Student Engagement）是指学生在高等教育及各类教学环境中，向具备明确教育目的的课内外实践活动（Educationally Purposeful Activities）所投入的时间、精力和深层心智关注。该概念由美国学者乔治·库（George Kuh, 1991）系统奠定，指出投入是连接学校制度环境与学生发展成果的核心中介[[Variable\|变量]]。随着研究深化，学生投入从最初可观察的“行为性投入”拓展至“情感性投入”与“认知性投入”，并在当代研究中进一步延伸出区分资源配置的“方向性投入”以及[[Man-Computer Symbiosis|人机共生]]下的“认识性投入（Epistemic Engagement）”。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 112–115)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6)]]
@@ -95,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学生投入与相近[[Construct\|理论构念]]特征对比
 > | 比较维度 | 学生投入（Student Engagement, Kuh） | [[Student Involvement\|学生涉入]]（Student Involvement, Astin） | 学业与社会融入（Tinto） | 认识性投入（Epistemic Engagement, Du & Yuan） |
 > |---|---|---|---|---|
@@ -106,8 +101,6 @@ updated: 2026-10-22
 > | **教育责任** | 强调学生能动性与学校制度支持的双向责任 | 主要落脚于学生个体的心理能量分配 | 侧重大学社群文化的包容与吸纳机制 | 技术界面透明度设计与[[Reflexivity\|反思性]]教学规程 |
 
 ---
-
-## 核心要素
 
 > [!feature] 学生投入的现代多维架构
 > - **教育性实践活动（Educationally Purposeful Activities）** 投入所指向的载体，包括课程学习、师生学术研讨、学生组织治理、实习实践、志愿服务及同伴协作。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 113)]]
@@ -179,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 学生投入核心命题归纳
 > | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表文献 |
 > |---|---|---|---|
@@ -190,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学生投入概念的理论演变
 > - **1984 — [[Student Involvement\|学生涉入]]理论奠基** 亚历山大·阿斯汀（Alexander Astin）提出涉入理论，聚焦个体生理与心理能量的全面投入，为“投入—成效”研究奠定假说基石。
 > - **1991 — 学生投入理论系统化** 乔治·库（George Kuh）出版 *Involving Colleges*，将投入[[Operationalization\|操作化]]为具体教育性实践的时间与精力测量，并首次将院校制度支持纳入分析。
@@ -200,8 +189,6 @@ updated: 2026-10-22
 > - **2026 — 认识性投入与算法伪投入反思** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 揭示人工智能时代商业参与度指标的局限，区分表层情感/行为交互与深层认识性投入，推动概念向[[Epistemology\|认识论]]反思与[[Evaluative Judgement\|评价性判断]]拓展。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学生投入的核心理论争议
 >
@@ -224,8 +211,6 @@ updated: 2026-10-22
 > > - **认识论成熟立场（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）** 批评这种表层投入切除了学生面对复杂问题时所必需的“思维摩擦”；若缺乏实质性的证据权衡与深层评价，高交互频次仅仅是逃避深度思考的伪投入。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 学生投入的多维[[Operationalization\|操作化]]与实证指标（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -262,8 +247,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!example] 典型实践案例
 > - **高校目标掌控者与直觉依赖者的分流案例（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）**
 >   学生泽斌（[[Goal-Controlled Mode\|目标掌控模式]]）清醒意识到课堂学习仅占其大学精力的一部分，策略性地将大量时间定向投入到实习和职业网络拓展中，最终获得高满意度出路；而学生牛铭（[[Intuition-Dependent Mode\|直觉依赖模式]]）同样付出了大量时间参与学生会，但因缺乏明确的方向性组织，导致宝贵精力被事务性活动严重分散，毕业时陷入迷茫。
@@ -277,8 +260,6 @@ updated: 2026-10-22
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

@@ -35,11 +35,7 @@ created: '2026-05-12'
 updated: 2026-10-22
 ---
 
-# Radical Liberal Internationalism
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 激进自由国际主义（radical liberal internationalism）是 Sakwa（2023）提出的概念，指冷战后在美国取代 [[Sovereign Internationalism\|主权国际主义]] 的自由反多元立场。它基于美国例外论，不宽容非自由政权（尽管对美国盟友较为宽松），并以英美"基于规则的秩序"（rules-based order）的形态运作。这一秩序的拥护者假定自身在所有方面均具有优越性，以西方规范评估所有社会，并支持基于人道主义目标和政权更迭的干预策略([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])。
 
 > [!quote|notitle]

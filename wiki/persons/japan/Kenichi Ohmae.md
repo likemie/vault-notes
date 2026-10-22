@@ -38,11 +38,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Kenichi Ohmae
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 日本管理咨询顾问、战略学者、公共知识分子，曾任麦肯锡亚太区总裁兼董事总经理、加州大学洛杉矶分校公共政策学院教授。
@@ -65,9 +61,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 全球自由贸易、资本即时流动、信息网络以及跨国公司（TNCs）的全球无缝扩张，已经彻底瓦解了传统的国家地理边界与主权控制力；消费者与跨国资本成为世界舞台的真正主宰，由行政官僚控制的民族国家经济单位正在走向历史终结。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–16)]]
 
 > [!citation-card] 大前研一论全球互联经济对国家边界的消解
@@ -76,8 +70,6 @@ updated: 2026-10-22
 > *Traditional national borders have almost disappeared, with capital, corporations and consumers moving freely... pushing bureaucrats and politicians towards the status of declining industries.*
 
 ---
-
-## 影响、交锋与学术批评
 
 > [!tension] 核心学术交锋：无国界全球化 vs [[National Innovation System|国家创新系统]]不可替代论
 > - **大前研一立场（蓝方）** 全球化使技术、知识与资金跨国即时平滑流动，企业彻底脱离母国成为无国界主体，民族国家成为阻碍自由市场的夕阳架构。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–16)]]

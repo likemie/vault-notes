@@ -120,11 +120,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# National Innovation System
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **国家[[Systems of Innovation|创新系统]]（National Innovation System, NIS）** 指由一个国家内部公共与私营部门构成的制度网络，其组织活动、政策工具与多元主体相互作用共同发起、引进、改进与扩散新技术。该概念强调技术创新并非孤立实验室内的单向线性发明，而是深受一国国民教育培训体系、企业专业化研发建制、前竞争技术联合体、实体制造公地、产业链上下游互动网络、承接战略使命的[[Research Universities|研究型大学]]以及国家战略协调规制的共同规约，构成了理解跨国[[Technological Catch-up|技术赶超]]、无形知识积累与经济长期分化的基本[[Unit of Analysis|分析单位]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 54–56)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
@@ -164,9 +160,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **国家公共教育与工程人才培养网络** 涵盖全民基础教育、职业技术[[Apprenticeship|学徒制]]与[[Engineering Education|高等工程教育]]，决定全社会的[[Absorptive Capacity|吸收能力]]与技能熟练度底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–14)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–53)]]
 > - **企业内部专业化研发实验室与研产回路** 研发部门、现场工艺工程与市场反馈的紧密回路，将发明活动制度化为常规企业职能。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9, 11–13)]]
 > - **实体制造公地与工艺[[Process Knowledge|过程知识]]（[[Industrial Commons]]）** 密集的零部件供应商网络、熟练工程师与技师在产线现场沉淀的默会[[Process Knowledge|过程知识]]与[[Phronesis|实践智慧]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48, 54)]]
@@ -255,8 +249,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -282,8 +274,6 @@ updated: 2026-10-22
 > - **2026 — [[Securitization of Technology|技术安全化]]与[[Research Universities|研究型大学]]角色重构演进** 随着美国《[[CHIPS and Science Act|芯片与科学法案]]》落地，国家创新系统进一步演进为以技术安全化与国家主权为核心导向的战略科技力量网络，研究型大学依托开源标准界定、三级人才蓄水池与中试物理共置，成为统筹产教融合与前沿突破的组织中枢。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–24)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 2–5)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -319,8 +309,6 @@ updated: 2026-10-22
 > 概念假定分析对象具备基本完备的现代国家治理能力、法治规范和最低限度的工业基础；在治理结构溃败或完全依赖初级资源开采的经济体中，难以观测到完整的国家创新系统自演化过程。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

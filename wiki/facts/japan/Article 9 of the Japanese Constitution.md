@@ -40,11 +40,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Article 9 of the Japanese Constitution
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1946 年 11 月 3 日公布，1947 年 5 月 3 日施行；由驻日盟军最高司令官总司令部（General Headquarters, GHQ）主导草拟并经日本帝国议会审议通过。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
@@ -53,8 +49,6 @@ updated: 2026-10-22
 > - **制度位置** 《日本国宪法》第二章（放弃战争）唯一条款，构成了战后日本和平主义国策与专守防卫体制的最高法律基石。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 日本国民宣布永远放弃以国权发动的战争、武力威胁或武力行使作为解决国际争端的手段，并承诺不保持陆海空军及其他战争力量，不承认国家的交战权，确立了彻底的宪政去武力化原则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
@@ -77,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 1946-11-03 日本国宪法正式公布。
 > - 1947-05-03 和平宪法第九条正式生效施行。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 43)]]
@@ -87,8 +79,6 @@ updated: 2026-10-22
 > - 2025 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统反思第九条在软件世纪诱发的地缘安全失衡与 AI 现代化转型需求。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** GHQ 占领当局与战后日本帝国议会。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 43)]]
@@ -102,8 +92,6 @@ updated: 2026-10-22
 > - **向软件与无人化转型** 近年来逐步将防卫重点转向网络战、电子战与[[Autonomous Drone Swarms|自主无人机蜂群]]，以规避传统重装备修宪争议。
 
 ---
-
-## 核心张力
 
 > [!tension-table] 宪政绝对和平主义 vs 地缘安全实战威慑张力
 > | 比较维度 | 宪法第九条规范主义（战后和平主义模式） | 现代地缘威慑现实主义（软件与 AI 重构模式） |
@@ -120,8 +108,6 @@ updated: 2026-10-22
 > - **印太战略失衡风险** 卡普与扎米斯卡指出，面对具备强大[[Hard Power|硬实力]]与 AI 武器库的对手，亚洲最富裕民主国家的单方面去武力化正向潜在侵略者传递软弱信号，削弱了区域威慑体系的整体韧性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

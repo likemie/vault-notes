@@ -43,11 +43,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Francis Galton
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国维多利亚时代著名博学家、人类学家、探险家与统计学先驱，查尔斯·达尔文（Charles Darwin）的表弟，英国皇家学会会士。
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1860–1880年代 — 人类测量学与遗传统计开创** 尝试将严密的量化测量与统计工具引入人类心智能力与生理特征研究。
 >   - **代表著作** *Hereditary Genius* (1869); *Inquiries into Human Faculty and Its Development* (1883)。
@@ -81,9 +75,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 高尔顿在晚年通过家畜集市实验指出，当大量互不串通的独立个体对某一客观未知量进行分散估算时，个体的极端偏差与随机噪声会在群体汇聚过程中相互抵消，使得所有估计值的中位数或平均值表现出超越绝大多数个别专家的惊人精确度。高尔顿将这一现象视为民主判断可[[Reliability|信度]]（the [[Trustworthiness]] of a democratic judgment）的实证基石，并由此引发了关于集体智慧与群体预测能力的百年学术探讨。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
 
 > [!citation-card] 高尔顿论普利茅斯公牛估重实验与民主判断的可信度
@@ -99,8 +91,6 @@ updated: 2026-10-22
 > - **市场哲学与政治经济学批判** 21 世纪学者（如卡普与扎米斯卡）在肯定高尔顿经验发现的同时，反思盲目将“[[Wisdom of Crowds|群体智慧]]”等同于资本市场价格有效性所带来的消费主义脱嵌与投机风险。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–172)]]
 
 ---
-
-## 历史评价
 
 > [!citation-card] 苏罗威基论高尔顿实验对[[Wisdom of Crowds|群体智慧]]研究的开创性贡献
 > 高尔顿本想证明普通大众缺乏判断力，然而普利茅斯集市上 787 位普通人的集体智慧却以惊人的准确性反驳了他的先验成见，证明聚合分散信息能够产生卓越的集体洞察。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]; (Surowiecki, 2005)

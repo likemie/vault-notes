@@ -31,11 +31,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 编著定位
 
 > [!volume-profile] 编著档案
 > - **核心议题** 这本编著围绕什么共同问题、领域、对象或争议组织。
@@ -44,8 +40,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **使用方式** 说明本页用于导航章节 Argument、沉淀全书结构，还是作为某一研究主题的阅读入口。
 
 ---
-
-## 编者问题与组织主张
 
 > [!question] 编者问题
 > 直接陈述前言、导论或编者说明中的核心问题、选题边界和组织关切。不要只写“本书讨论……”。（p.X）
@@ -62,8 +56,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 全书结构与章节路线
-
 > [!volume-structure] 全书结构
 > - **Part I / Ch. X-Y — 部分标题** 说明该部分回应什么子问题、承担什么论证功能、与前后部分如何衔接。（p.X）
 > - **Part II / Ch. X-Y — 部分标题** 说明该部分如何推进、对比或转向。（p.X）
@@ -75,8 +67,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 结构图只显示全书组织逻辑，不替代各章概览。无扫描图时可改用 Mermaid flowchart。 %%
 
 ---
-
-## 理论、方法与关键词
 
 > [!volume-tools] 理论与方法工具箱
 > - **[[<理论名>]] / [[<概念名>]]** 说明该理论或概念在全书中的角色，是共同框架、部分章节工具，还是编者定位语言。（p.X）
@@ -105,8 +95,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 各章概览
-
 > [!chapter-index] 章节索引
 > - **Ch. <X> — <章节标题>** [[<Argument_章节作者_年份_关键词>]] — 一句话说明该章的问题、核心论点和在全书结构中的位置。
 > - **Ch. <Y> — <章节标题>** Argument_ChapterAuthor_Year_关键词 — 若尚未建 Argument，保留技术文件名候选并说明待处理。
@@ -114,8 +102,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 %% 各章概览只写导航性索引。章节的完整论证结构、方法、发现、引用和局限写入对应章节 Argument。 %%
 
 ---
-
-## 整体贡献与使用边界
 
 > [!volume-contribution] 整体贡献
 > - **研究议题贡献** 这本编著作为整体如何推进某个研究议题。

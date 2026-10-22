@@ -46,11 +46,7 @@ created: 2026-09-23
 updated: 2026-10-22
 ---
 
-# Miranda Fricker
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国哲学家、社会[[Epistemology|认识论]]泰斗，牛津大学哲学系教授、牛津大学基督圣体学院研究员，英国国家学术院院士（Fellow of the British Academy, FBA）。
@@ -78,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2007 — *[[Epistemic Injustice]]: Power and the Ethics of Knowing* (Oxford University Press)** 开创性奠基之作，系统区分证词不正义与诠释不正义，将权力运作引入分析[[Epistemology|认识论]]核心。Fricker (2007)
 > - **2013 — Epistemic justice as a condition of political freedom? (*Synthese*)** 探讨分配认识正义与政治自由的关系，阐明知识、教育与数字工具作为公共认识财富的分配逻辑。Fricker (2013)
 > - **2019 — *The Routledge Handbook of Social Epistemology* (Co-edited)** 汇聚当代社会认识论前沿成果，拓展认识论在政治、法学、医学与教育中的跨学科应用。
 
 ---
-
-## 核心理论与方法主张
 
 > [!feature] 弗里克的核心[[Epistemology|认识论]]主张
 > - **证词不正义与身份[[Reliability|信度]]赤字（Testimonial Injustice & Credibility Deficit）** 当听者在评价言说者的陈述时受到潜意识社会偏见影响，赋予其低于实际应得的信任评级，使边缘主体在[[Knowledge Exchange|知识交流]]中被系统性噤声。Fricker (2007)
@@ -96,8 +88,6 @@ updated: 2026-10-22
 > - **分配认识正义（Distributive Epistemic Justice）** 探讨教育资源、科研设施与信息工具等“认识财富”在全社会中的平等可及性。Fricker (2013); [[Argument_Smith_2026_SPE|Smith (2026, p. 2)]]
 
 ---
-
-## 理论演进与学术争鸣
 
 > [!debates] 学术争议
 >
@@ -108,8 +98,6 @@ updated: 2026-10-22
 > > - **教育学拓展派（Martin, 2018; Nikolaidis, 2021; [[Argument_Smith_2026_SPE|Smith, 2026]]）** 指出经典范式忽略了未成年学生作为“成长中的求知者”的心智发育过程。当技术全盘代劳被冠以“工具普惠”的分配平权时，弗里克框架易被误用并掩盖认知致残风险，必须引入[[Formative Epistemic Injustice|成长性认识不正义]]以捍卫发展权。[[Argument_Smith_2026_SPE|Smith (2026, pp. 3–5)]]
 
 ---
-
-## 当代回响与学术谱系
 
 > [!feature] 弗里克理论在智能时代的当代回响
 > - **人工智能伦理研究** 弗里克的框架被广泛应用于揭示算法数据偏倚对边缘社群的证词侵害，以及大语言模型对多元地方性知识的诠释抹杀。

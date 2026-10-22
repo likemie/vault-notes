@@ -80,11 +80,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Absorptive Capacity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **吸收能力（Absorptive Capacity）** 指组织识别外部新知识的价值、消化同化该知识并将其[[Creativity\|创造性]]应用于实践终端以实现既定目标的组织能力与系统特性（Cohen & Levinthal, 1990, p. 128）。在教育改革与[[Knowledge Mobilisation\|知识动员]]视域下，吸收能力不仅体现在个别教师的[[Research Literacy\|研究素养]]与甄别技能，更是一种扎根于微观学校组织生态的系统性学习条件，涵盖教师开放对话习惯、[[Professional Learning Community\|专业学习共同体]]（PLCs）架构、领导者躬身示范以及受制度保障的专有工时（Ross & Morrison, 2021；[[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 183–187, 193–195]]）。
@@ -110,8 +106,6 @@ updated: 2026-10-22
 > - **不等于 孤立的个体[[Research Literacy\|研究素养]]** 研究素养偏重教师个体的[[Literature Search\|文献检索]]与质量判断技能；吸收能力还依赖校级领导支持、互信文化与专有研讨时空等组织基础架构。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 吸收能力在不同实践领域中的跨界对照
 > | 分析维度 | 中小学循证教学改进 | K-12 学区评价[[Research Utilization\|证据使用]] | 产学研发合作创新 | 工业间谍与[[Technological Catch-up\|技术追赶]] |
@@ -189,8 +183,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -212,8 +204,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 清算平台供给扩张 vs 学校端吸收能力贫困
@@ -233,8 +223,6 @@ updated: 2026-10-22
 > - **无法完全消解利益与意识形态冲突** 即使组织具备良好吸收能力，在涉及核心办学理念或政治利益冲突时，利益相关者仍倾向于选择性解释复杂证据。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–123)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

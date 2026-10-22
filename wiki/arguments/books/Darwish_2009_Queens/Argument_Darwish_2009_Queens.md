@@ -113,25 +113,16 @@ related_persons:
   - "[[Hilda Taba]]"
   - "[[Henry Giroux]]"
 ---
-# Argument_Darwish_2009_Queens
 
 ## 总览
 
 关于[[Active Learning|主动学习]]的概念分析研究（Queen's University, 2009），系统解构了主动学习的[[Epistemology|认识论]]根基、历史演进与教学法张力。研究立足于哲学与概念分析，通过对西方教育思想史（[[Plato|柏拉图]]、[[Aristotle|亚里士多德]]、[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]等）及现代课程案例（[[International Baccalaureate|IBO]] 与 [[Theory of Knowledge|TOK]] 课程）的深入考察，揭示了主动学习绝非简单的教学技巧（如分组讨论或动手操作），而是一种关乎学习者主体地位、批判意识与社会实践的教育[[Paradigm|范式]]重构。
 
-## 章节
-
-### 第1章 引言（Introduction）
-
 > [!chapter-question]
 > 关于[[Active Learning\|主动学习]]的概念框架与历史演进，立足于[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]的教育哲学基石：
 
-#### 概念地图
-
 > [!knowledge-map] 第1章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch01_Concept_Map.jpg)
-
-#### 章节内容
 
 > [!chain-link] 第1章逻辑推导链条
 > - **古典教育哲学的继承与局限**
@@ -182,8 +173,6 @@ related_persons:
 
 ---
 
-#### 关键引用
-
 > [!citation-card] 关键引用：杜威关于经验与教育的论述
 > 教育不是为未来的生活做准备；教育就是生活本身。经验的连续重组是生长的核心。（p. 5; Dewey, 1938, p. 47）
 >
@@ -195,17 +184,11 @@ related_persons:
 > *Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other. (p. 7; Freire, 1970, p. 72)*
 
 
-### 第3章 约翰·杜威的教育哲学（John Dewey’s Philosophy of Education）
-
 > [!chapter-question]
 > 杜威如何通过解构传统教育与建立经验生长理论、[[Reflective Thinking\|反思性探究]]五步骤以及作为联合生活方式的民主，为主动学习奠定[[Epistemology\|认识论]]与教学法基础？他的理论在面对结构性社会压迫与实践变革行动时存在怎样的局限？
 
-#### 概念地图
-
 > [!knowledge-map] 第3章　概念地图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch03_Concept_Map.jpg)
-
-#### 章节内容
 
 > [!chain-link] 第3章逻辑推导链条
 > - **传统教育与[[Progressive Education\|进步教育]]的[[Paradigm\|范式]]分野**
@@ -271,8 +254,6 @@ related_persons:
 > - **经验的重构与重组**
 >   教育的本质是对经验的持续重构（reconstruction）与重组（reorganization），这不仅增加了经验的意义，也提高了指导后续经验方向的能力 (Dewey, 1961, pp. 82, 89; p. 33)。
 
-#### 架构图
-
 > [!knowledge-map] 图3.1：杜威经验重组与连续性/交互作用双原则架构图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch03_Dewey_Experience_Continuity_Interaction.jpg)
 
@@ -305,8 +286,6 @@ related_persons:
 > 社会不仅因沟通、因传播而继续存在，而且大可合理地说，社会即在沟通、传播中存在。在相互传递与共同分享的沟通活动中，原本分散的个体获得了共同的心灵与理解。(p. 39; Dewey, 1961; 引自 Axtell & Burnett, 1970)
 >
 > *Society not only continues to exist by transmission, by communication, but it may fairly be said to exist in transmission, in communication. (p. 39; Dewey, 1961)*
-
-#### 探究流程图
 
 > [!knowledge-map] 图3.2：反思性探究五步连续链条图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch03_Reflective_Thinking_5Steps_Flow.jpg)
@@ -430,17 +409,12 @@ related_persons:
 > | **社会现实假设** | 预设社会具备平等沟通与协商改良的前提条件 | 指出压迫社会中存在[[Culture of Silence\|沉默文化]]，必须通过政治介入打破沉默 (p. 7, p. 43) |
 
 ---
-### 第4章 保罗·弗莱雷的解放教育（Paulo Freire’s Emancipatory Education）
 
 > [!chapter-question]
 > 弗莱雷如何通过解构储蓄式教育的驯化机制与“[[Narration Sickness\|叙事病]]”、提出[[Problem-Posing Education\|提问式教育]]与“[[Generative Themes\|生成性主题]]”[[Decodification\|解码]]，将学习重新定义为打破沉默文化与实现批判意识觉醒（Conscientização）的实践（Praxis）？他的解放教育观在道德伦理与民主国家功能上与杜威存在哪些深层异同？
 
-#### 概念地图
-
 > [!knowledge-map] 第4章　概念地图
 > ![](https://img.mylikemie.icu/books/Darwish_2009_Queens/figures/Figure_Ch04_Concept_Map.jpg)
-
-#### 章节内容
 
 > [!chain-link] 第4章逻辑推导链条
 > - **储蓄式教育的“[[Narration Sickness\|叙事病]]”、空白知者与驯化逻辑**
@@ -594,8 +568,6 @@ related_persons:
 
 ### 主动学习：IBO and TOK 课程评估与理论整合
 
-#### 章节概述
-
 > [!chapter-arc] 主动学习评估与课程整合线索
 > 将杜威的[[Educative Experience\|教育性经验]]（Ch3）与弗莱雷的[[Problem-Posing Education\|提问式教育]]及实践（Ch4）作为双重理论标尺，对[[International Baccalaureate\|国际文凭组织]]（IBO）的哲学与《知识论》（TOK）课程指南展开全面的认识论评估。通过建立作为产物、作为过程与作为实践的三大课程范式，肯定了 TOK 课程在以认识者为中心和促进反思性探究上的过程模式成就，但同时指出了其缺乏真实社会变革行动（[[Praxis\|Praxis]]）的致命断层，最终提出了整合杜威与弗莱雷思想的主动学习三位一体模型 (pp. 64–84)。
 
@@ -664,8 +636,6 @@ related_persons:
 
 ---
 
-##### 深度实证案例与评估分析
-
 > [!case] 课例 5.1：TOK 道德伦理课堂（堕胎/死刑/种族议题）中的言语主义局限
 > 标准 TOK 课堂中围绕伦理与政治议题的典型教学过程 (pp. 73, 78–79; IBO, 2007)：
 > 
@@ -693,8 +663,6 @@ related_persons:
 >   将社区解放实践与社会行动纳入评估维度，才能真正从作为过程的课程跃升为[[Curriculum as Praxis\|作为实践的课程]] (p. 81, p. 84)。
 
 ---
-
-##### 对比与总结表格
 
 > [!tension-table] 表 5.1：三大课程范式（产物 vs 过程 vs 实践）与 TOK 课程定位深度对照表
 > | 维度 | [[Curriculum as Product\|作为产物的课程（Product）]] | [[Curriculum as Process\|作为过程的课程（Process）]] | [[Curriculum as Praxis\|作为实践的课程（Praxis）]] | IB TOK 课程的实际定位 |

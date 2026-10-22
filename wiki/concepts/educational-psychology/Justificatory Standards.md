@@ -65,11 +65,7 @@ created: 2026-08-18
 updated: 2026-10-22
 ---
 
-# Justificatory Standards
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 确证标准（Justificatory Standards）是个体或学术共同体在评价知识主张、理论解释或经验证据的充分性与合法性时所依据的细粒度评价准则（fine-grained criteria）。它既表现为个体心智中评估实证数据与逻辑理论的内部试探法，[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]] 也是特定学科社群在具体探究活动中动态协商、共同达成的社会实践规范。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 确证标准与相关[[Epistemology\|认识论]]构件辨析
 > | 维度 | [[Justificatory Standards]]（确证标准） | [[Epistemological Beliefs]]（认识论信念） | [[Reliable Epistemic Processes]]（可靠认识论过程） |
 > |---|---|---|---|
@@ -101,8 +95,6 @@ updated: 2026-10-22
 > | 典型表征 | 要求双盲对照、多源证据收敛、机制直接性 | 认为知识是复杂的、认为真理是相对的 | 实施随机双盲实验、规范抽样、系统观察 |
 
 ---
-
-## 核心要素
 
 > [!feature] 确证标准的核心维度与分类
 > - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源收敛印证。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
@@ -160,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -180,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 方法论推论危机：如何准确捕捉缄默的确证标准？
@@ -192,8 +180,6 @@ updated: 2026-10-22
 > - **学科专业规训与公民日常生活语境的脱节** 当前研究主要考察学生在高度[[Scaffolding\|脚手架]]化的学科环境（如实验室模拟）中表现出的专业确证标准。然而，当这些标准进入信息过载、虚假新闻与利益操纵并存的日常“公民生活（civic life）”时，学习者往往面临迁移断层。如何在[[Citizen Science\|公民科学]]教育中培养兼具专业审慎与日常可用性的校准确证标准，仍是重大未决课题。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

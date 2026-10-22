@@ -25,11 +25,7 @@ created: 2026-08-15
 updated: 2026-10-22
 ---
 
-# Independent Knowing
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 独立认知（Independent Knowing）是 Baxter Magolda (1992) 模型中的第三阶段。个体认为大多数知识都是不确定的，从而走向了极端的[[Pluralism|多元主义]]：认为每个人都有权保留自己的观点，且所有观点似乎都是同等有效的。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 99)]]

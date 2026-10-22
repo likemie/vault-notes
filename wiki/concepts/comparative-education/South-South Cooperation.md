@@ -61,11 +61,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# South-South Cooperation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 南南合作（South–South Cooperation, SSC）指全球南方（Global South）发展中国家之间在双边、区域或跨区域层面开展的资源、技术、智力与发展经验共享[[Paradigm|范式]]。在[[International Education|国际教育]]与人力资源开发领域，南南合作倡导平等互信、互利共赢与共同发展，摒弃传统南北发展援助中捐助国与受援国的不对称依附关系，主张通过双向人文交流、机构能力建设与发展路径互鉴，支持发展中国家自主探索契合本国国情的发展道路。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–223)]]
@@ -97,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **主权平等与互惠修辞** 文本表述普遍采用双方同意、共同商定等对称性语言，强调合作基于双方自主意愿与发展需求，维护受援国制度能动性。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222, 227)]]
 > - **发展经验互鉴** 合作超越单纯资金借贷，聚焦发展道路探索与政策经验分享，设立[[Institute of South-South Cooperation and Development|南南合作与发展学院]]等平台为发展中国家培养高层次治国理政人才。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224, 226)]]
 > - **全方位能力建设** 从单纯的基础教育建校转向高等教育联合培养、重大基建现场工程师培训及技术技能输出，实现教育与经济产业协同。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 223–224, 230)]]
@@ -169,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -192,8 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 互利平等修辞与地缘经济工具属性的辩证分歧
@@ -213,8 +203,6 @@ updated: 2026-10-22
 > 南南合作概念如果脱离具体的国别制度与执行机制分析，容易被泛化为抽象的政治外交修辞。文本层面的对等协商[[Discourse|话语]]无法掩盖出资方在资源配置上的单向主导性；将南南教育合作简单等同于完全对等的双向交流，将忽视微观办学与[[Technology Transfer|技术转移]]中的依附风险。（[[Argument_King_2020_ECNUROE|King, 2020, pp. 222]], 232）
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -48,11 +48,7 @@ related_arguments:
   - "[[Argument_Yu_2024_CE]]"
 ---
 
-# China Basic Education Curriculum Reform
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2001 年 6 月由中华人民共和国教育部（MOE）正式发布《基础教育课程改革纲要（试行）》[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 54)]]。
@@ -61,8 +57,6 @@ related_arguments:
 > - **制度位置** 21 世纪中国基础教育最具全局性与根本性的课程与教学改革框架，决定了后续二十年教材编写、考试评估与教师培训的方向。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《基础教育课程改革纲要（试行）》宣告了全国基础教育从“双基”知识传授向“[[Quality Education\|素质教育]]”与学生中心教学的根本转向，旨在构建开放、积极、互动的学习环境与更平等的[[Student-Teacher Relationship\|师生关系]][[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 54–55)]]。
@@ -80,8 +74,6 @@ related_arguments:
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2001** — 教育部发布《基础教育课程改革纲要（试行）》，全国基础教育课程与教学改革正式启动[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 54)]]。
 > - **2001–2007** — 各级学校逐步实施新课程和教学改革，试点从大城市全面向偏远地区扩展[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 55)]]。
@@ -90,8 +82,6 @@ related_arguments:
 > - **2007** — 开展中—加—澳跨国课程改革合作项目，推动国际化经验交流[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 53–54)]]。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与监管主体** 中华人民共和国教育部 — 制定纲要、审批课程标准与教科书。
@@ -107,8 +97,6 @@ related_arguments:
 
 ---
 
-## 行动者与利益相关者
-
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
@@ -118,8 +106,6 @@ related_arguments:
 > | **学生及家长** | 学习时间与精力投入 | 获得优质教育资源与通过[[Gaokao\|高考]]获得社会流动 | 分化 | 欢迎[[Quality Education\|素质教育]]，但担忧应试评价未变 |
 
 ---
-
-## 效果与评价
 
 > [!indicators] 评价指标
 > - **过程指标** 学生中心教学的覆盖率、师生互动质量、教师参与反思与研究的程度。
@@ -137,8 +123,6 @@ related_arguments:
 > - **8 / 600** （省 / 名） 参与 2007 内蒙古东胜学习与发展共同体年会的教师与学者[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010)]]。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

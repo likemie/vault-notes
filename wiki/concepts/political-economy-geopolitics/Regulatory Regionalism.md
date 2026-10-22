@@ -50,8 +50,6 @@ created: '2026-05-07'
 updated: 2026-10-22
 ---
 
-# Regulatory Regionalism
-
 > [!info] 定义
 > 监管型区域主义（Regulatory Regionalism）指超国家或国际组织通过监管机制（指标、标准、排名、评估框架）对区域内高等教育进行间接治理的模式。不同于传统的政府间主义（intergovernmentalism）——后者强调成员国对政策的主导控制——监管区域主义强调超国家机构通过规范性权力（normative power）而非直接指令来塑造成员国的教育政策和实践（Jayasuriya, 2010; Robertson, 2010; Thompson & Parreira do Amaral, 2022, p.11）。
 >

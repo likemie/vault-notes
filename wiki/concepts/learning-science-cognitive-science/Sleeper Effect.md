@@ -55,11 +55,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Sleeper Effect
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 沉睡者效应（Sleeper Effect，亦称延时发酵效应）是指在干预处理结束一段时间后，个体的认知增益、态度转变或行为改进不仅没有随时间衰减，反而随着心理结构的沉淀、内化与自主整合，在延时追踪测评中展现出比即时[[Pre-test and Post-test\|后测]]更为显著或翻倍放大的反直觉心理学现象。在教育心理学领域，深层[[Epistemic Ideals\|认识论标准]]的学习往往需要经历认知重构的“潜伏酝酿期”，使得延时后测成为捕捉深层概念转变与[[Higher-Order Thinking Skills\|高阶思维]]质变的关键窗口。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 490–493)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知增益的时间演变轨迹对比
 > | 比较维度 | 沉睡者效应（Sleeper Effect） | [[Fade-out Effect\|消退效应（Fade-out Effect）]] | 即时巩固保持（Standard Retention） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **评价警示** | 仅依赖即时[[Pre-test and Post-test\|后测]]会严重低估干预的长期育人价值 | 仅依赖即时后测会虚高评估干预的持久变革效力 | 需结合不同遗忘曲线周期设计多波次追踪点 |
 
 ---
-
-## 核心要素
 
 > [!feature] 延迟效应放大的三大内化机制
 > - **[[Epistemic Ideals\|认识论标准]]与心智模型的深层内化** 与浅层事实记忆不同，关于知识本质与证据确证的认知信念转变需要经历认知重构与同化过程。干预结束后，学习者在后续日常学习中持续将习得的[[Justificatory Standards\|确证标准]]运用于新情境，实现从外在指导策略向内在心智习惯的蜕变。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 492)]]
@@ -120,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -138,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] 方法学警惕
 > - **延时[[Pre-test and Post-test\|后测]][[Study Population and Sample\|研究样本]]量偏小** 尽管[[Meta-analysis\|元分析]]中延时后测展现出极高[[Effect Size\|效应量]]，但纳入延时追踪的研究数量较少（仅 5 项研究报告了延时数据），统计功效与潜在[[Sampling Error\|抽样误差]]仍需警惕。
 > - **即时后测反馈的潜在干扰** 在部分包含延时后测的研究中，被试在即时测验后可能接受到了成绩或答案反馈，这种额外反馈可能作为二次[[Scaffolding\|脚手架]]促进了延时测验表现，使得纯粹的“沉睡内化”效应受到方法学混淆。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 492)]]
@@ -148,8 +136,6 @@ updated: 2026-10-22
 > - **缺乏长期多波次追踪** 现有教育干预大多停留在干预结束后的即刻考核，严重缺乏跨越数学期乃至数年的多波次纵向追踪，导致学界对深层认知增益在数年后的终极保留轨迹知之甚少。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Pre-test and Post-test\|后测]]时间节点[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

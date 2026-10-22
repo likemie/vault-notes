@@ -72,11 +72,7 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-# Intent-to-Treat Analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **意向治疗分析（Intent-to-Treat Analysis，简称 [[Initial Teacher Training\|ITT]]）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）中最核心的因果效应估计方法。其基本准则是：所有参与试验的被试必须完全保留在其最初被[[Random Assignment\|随机分配]]的组别中进行统计分析，无论他们后续是否实际依从干预、是否中途退出、还是交叉接受了对照组措施。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 > *Such models usually offer intent-to-treat (ITT) estimates which is of great importance for policy and practice "as policymakers and administrators often have control only over the availability of an intervention, and not its uptake".*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 坚持[[Counterfactual\|反事实]]因果推理框架（Neyman-Rubin Causal Model）。认为[[Random Assignment\|随机分配]]是消除混杂偏差与确保两组在可观测与不可观测[[Variable\|变量]]上期望相等的唯一黄金标准；破坏最初分配组别将直接摧毁[[Causality\|因果推断]]的基础。
@@ -120,16 +114,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **确定全样本基线并实施[[Random Assignment\|随机分配]]** 严格锁定试验招募池所有被试的身份标识，在基线测验完成后由独立统计师实施随机双盲或单盲分配，生成不可篡改的初始组别名单。
 > 2. **全周期追踪与非依从/流失监测** 在干预推进过程中，独立于干预团队进行[[Implementation and Process Evaluation\|实施与过程评估]]（IPE），详实记录每位参与者的出勤率、系统登录日志、脱落时间与对照组污染事件。
 > 3. **执行全样本终点测试与数据补全** 无论学生或学校是否中途放弃干预，调查团队均必须全力动员其参加终点[[Pre-test and Post-test\|后测]]，尽可能将[[Attrition|样本流失]]率控制在最低警戒线以内。
 > 4. **构建意向治疗统计模型** 严格按照初始分配[[Variable\|变量]]编制哑变量指标，在控制基线协变量与嵌套集群效应的基础上估计主效应 $\beta_{\text{[[Initial Teacher Training\|ITT]]}}$。
 > 5. **敏感性分析与依从机制校正** 针对不可避免的样本流失开展流失偏误检验；若现场非依从率显著，进一步利用随机分配作为工具变量拟合 [[Complier Average Causal Effect\|CACE]] 模型，对照解释 ITT 估计值的稀释程度。
-
-### 量化分析模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 学生嵌套于班级、学校的层级嵌套实验数据，或多时期重复测量面板数据。
@@ -187,8 +177,6 @@ updated: 2026-10-22
 
 ---
 
-## 证据清算中心与制度化标准
-
 > [!summary-card] [[Educational Evidence Clearinghouses\|教育证据清算中心]]的 [[Initial Teacher Training\|ITT]] 规范化准入基准
 > 在国际主要[[Educational Evidence Clearinghouses\|教育证据清算中心]]的评估体系中，ITT 已从一项统计学方法演化为判定证据质量的显性准入门槛（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 9]]）：
 >
@@ -200,8 +188,6 @@ updated: 2026-10-22
 >    - 然而，若试验遭遇严重的随访流失（Attrition），即使遵循 ITT 统计口径，组间基线可比性亦可能荡然无存。为此 EEF 实施了严格的[[EEF Padlock Security Rating\|挂锁安全评级]]：将流失率作为核减挂锁数量的核心依据。全英试验通过专业招募与留存规程，使 85% 的试验将样本流失率控制在 30% 以内，稳健维持了 3 把挂锁以上的证据信用（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 49–51]]）。
 
 ---
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用**
@@ -216,8 +202,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性
-
 > [!method-limits] 方法局限
 > - **偏误来源**
 >   - **假阴性与稀释偏误（Dilution Bias）** 当许多受派学校并未真实开展干预活动时，由于 [[Initial Teacher Training\|ITT]] 机械地将未受干预样本的零产出混入处理组计算，会导致估计出的[[Effect Size\|效应量]]趋近于零，掩盖方案在真实落实时的有效性。
@@ -227,8 +211,6 @@ updated: 2026-10-22
 > - **补救方式** 建立“量化 ITT + 质性/量化 [[Implementation and Process Evaluation\|IPE]] 过程评估 + 工具[[Variable\|变量]] [[Complier Average Causal Effect\|CACE]]”三位一体的[[Triangulation\|三角互证]]链条（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -259,8 +241,6 @@ updated: 2026-10-22
 > | [[EEF Padlock Security Rating]] | 评价标准 | 联合监测 ITT 试验的[[Attrition\|样本流失]]与设计风险，确保因果推论的安全等级。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Pampaka_2016_IJRME\|Pampaka et al. (2016)]] — 系统论述了部分嵌套 [[Randomised Controlled Trials\|RCT]] 中集群效应与非依从性对 [[Initial Teacher Training\|ITT]] 估计统计推断的影响，阐明了 ITT 在反映政策可获得性与解释大规模推广困境中的核心价值。

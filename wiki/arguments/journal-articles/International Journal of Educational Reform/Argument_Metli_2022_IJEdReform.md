@@ -73,7 +73,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Metli_2022_IJEdReform
 
 ---
 
@@ -90,16 +89,12 @@ issuing_organization: ""
 
 ---
 
-## 研究方法
-
 > [!method-panel] [[Mixed Methods Research\|混合方法]]设计（Mixed Method Research）
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **[[Questionnaire\|问卷调查]]** | N=40，包含土耳其 15 所 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师及管理者。使用[[Concurrency of Learning in the Core Questionnaire\|并发学习问卷]]（Concurrency of Learning in the Core Questionnaire，CLCQ）收集人口统计数据，并通过[[Likert Scale\|李克特量表]]和开放式问题评估参与者对[[Concurrency of Learning\|并发学习]]的认知与[[Praxis\|实践]]情况。 |
 > | **[[Focus Group\|焦点小组]]** | N=7（5 名 DP 协调员，2 名管理者）。进行 40 分钟[[Semi-structured Interview\|半结构化访谈]]，探讨并发学习的定义、促进策略、重要性、跨组件链接实例及实施困境。 |
 > | **分析策略** | 使用主题内容分析法（Thematic Content Analysis）编码访谈和问卷简答题；采用[[Descriptive Analysis\|描述性统计分析]]定量问卷结果，以印证定性发现。 |
-
-### 测量工具复刻
 
 > [!seq-table] 焦点小组核心访谈大纲 (p. 223)
 > | 序号 | 题目 |
@@ -187,16 +182,12 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **普遍困境** 尽管教育者高度认同核心课程连贯性的价值，但具体的链接策略和最佳实践在学校中仍然非常有限和表面化。（p. 230）
 > 2. **促成条件** 促进[[Concurrency of Learning\|并发学习]]的有效机制包括：基于真实情境的反思实践、协同备课机制以及全校层面对 IB [[IB Learner Profile\|学习者培养目标]]的显性整合。（pp. 227–228）
 > 3. **制度呼吁** 解决并发学习的挑战需要结构性支持，建议 IB 官方与当地高等教育机构协调提升项目认可度，并在官方培训中增设关于“并发学习”的具体指导。同上
 
 ---
-
-## 自述局限与启示
 
 > [!warning] 自述局限
 > 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning\|并发学习]]的文献有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao\|高考]]压力）。

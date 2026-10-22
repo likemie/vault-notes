@@ -40,11 +40,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Ágnes Heller
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 匈牙利哲学家、[[Critical Theory|批判理论]]家，布达佩斯学派（Budapest School）核心成员，纽约新学院（The New School for Social Research）[[Hannah Arendt|汉娜·阿伦特]]哲学讲座教授。
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1970 — *Everyday Life*** 探讨日常生活作为人类生存、异化与伦理实践的基本维度。
 > - **1987 — *Beyond Justice*** 深入批判纯粹程序性正义的局限，论述道德卓越与[[Buen Vivir|美好生活]]在人类文明中的本体地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
@@ -78,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller）主张，人类生存的完满性绝不能仅由抽象的法律规则与程序正义来定义。正义是维持社会运转不可或缺的制度骨架，但赋予生活以真正意义与充实感的，是人们在具体历史与文化中对美德、审美、爱以及崇高之“善”的追求与体验。放弃对[[Buen Vivir|美好生活]]的道德决断，将导致现代社会在技术与物质繁荣中丧失精神内核。
 
 ---

@@ -53,11 +53,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Standards-based Classroom Observation Protocol for Egypt
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Standards-based [[Classroom Observation]] Protocol for Egypt (SCOPE)
 > - **工具类型** 区域性课堂外部[[Classroom Observation|教学观察]]与标准达成度量规（observation-tool）。
@@ -85,14 +81,10 @@ SCOPE 严格对应埃及国家教师专业标准，涵盖四大核心教学领�
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 结构化标准评价量规，配有埃及本土课堂教学典型案例描述。
 > - **作答格式** 4 级达成度标尺：未达标（Unsatisfactory）、接近达标（Developing）、达标（Competent）、典范卓越（Exemplary）。
 > - **反向题与跳题** 无反向题；所有核心指标必须基于听课纪实独立赋予评级。
-
-### 核心观察要素与行为重点
 
 > [!observation-focus] SCOPE 核心观察指标重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
@@ -117,8 +109,6 @@ SCOPE 严格对应埃及国家教师专业标准，涵盖四大核心教学领�
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | SCOPE 标准版 | 作为[[World Bank\|世行]] Teach 初始建库时纳入对比的国际观察工具之一 | 分析其跨文化指标迁移度与[[Reliability\|信度]]表现 | 其关于[[Classroom Management\|课堂管理]]常规、[[Formative Assessment\|形成性评估]]及消除偏见的指标设计被直接吸收进 Teach 的课堂文化与教学指导维度。 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

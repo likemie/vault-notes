@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Sleep Deprivation in Students
-
 > [!metax] [睡眠不足 · Lack of sleep](https://www.visiblelearningmetax.com/influences/view/lack_of_sleep)
 > 学生 › 生理因素
 >

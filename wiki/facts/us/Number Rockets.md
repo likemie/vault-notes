@@ -55,11 +55,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Number Rockets
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Number Rockets（数字火箭）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）学术团队领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学一年级早期数学小组干预方案；其核心目标是在小学一年级早期精准甄别数学学习困难高危儿童，通过受训辅导教师开展高结构化的小组显性教学，在[[Response to Intervention\|干预反应模型]]（RTI）的 Tier 2 防线阻断终身数学学习失能的形成。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克小学一年级学生在由非正式计数向正式算术过渡中因运算事实（Number Combinations）提取迟缓与概念混乱导致的学业脱轨，开创数学领域 RTI 早期预防实证[[Paradigm\|范式]]。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 通过受训教师对 2 至 3 名高危学生开展为期 17 周、每周 3 次、每次 40 分钟的显性结构化微课，将具象操作学具、数字分解组合与初等应用题基模紧密整合，能够显著提高儿童的数字敏感度与标准化运算技能，有效遏制特殊教育转介。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -93,16 +87,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Number Rockets 发展历程
 > - **2005–2009 — 标志性 [[Randomised Controlled Trials\|RCT]] [[Efficacy Trial\|效力试验]]发布** Fuchs et al. (2005) 在顶级特教与心理学期刊发表大规模整群 RCT 评估成果，证实该方案对一年级弱势儿童数学流利度与概念理解的因果净增益，奠定了全美数学 [[Response to Intervention\|RTI]] 的理论基石。
 > - **2010–2015 — 独立二次分析与长期追踪验证** 拉塞尔·格斯滕（Russell Gersten et al., 2015）等方法学者团队对方案数据开展独立复核与多层建模评估，进一步确立了其[[Effect Size\|效应量]]的稳健性与防范特殊教育转介的长期价值。
 > - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 在斯莱文桑代克奖演说中被正式列为初等数学 Tier 2 教师辅导领域唯一的强证据方案，并作为 RTI 辅导层级的核心界定案例。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25, 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **研发与培训方（范德堡大学）** 提供成套火箭主题学生工作纸、倒计时秒表、数位板及教师授课指南。
@@ -111,8 +101,6 @@ updated: 2026-10-22
 > - **受试学生（一年级数学高危儿童）** 接受持续 17 周的密集干预，直至学年末追平同龄常模。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **显著的标准化因果学业[[Effect Size\|效应量]]** 在大规模[[Randomised Controlled Trials\|随机对照试验]]中，接受 Number Rockets 辅导的学生在 Woodcock-Johnson 测验与标准化数学运算测试上取得了平均 $+0.34$ 的因果效应量，达 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

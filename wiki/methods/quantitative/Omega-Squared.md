@@ -51,11 +51,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Omega-Squared
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **欧米茄平方（Omega-Squared, $\omega^2$）** 是在单因素或多因素[[Analysis of Variance\|方差分析]]（Analysis of Variance, ANOVA）中用于度量分类[[Independent Variable\|自变量]]（自[[Variable\|变量]]处理或分组）解释连续[[Dependent Variable\|因变量]]总变异比例的总体[[Effect Size\|效应量]]估计量。由统计学家威廉·海斯（William L. Hays, 1963）系统提出，它通过从组间平方和中扣除由随机误差引起的变异，有效克服了传统样本决定系数 Eta-Squared（$\eta^2$）在小样本或多组设计中系统性高估总体效应的样本偏倚。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 27)]]
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 属于频率学派参数统计与[[Causality\|因果推断]][[Paradigm\|范式]]，主张不能仅依靠依赖于[[Sample Size Determination\|样本量]]的[[Statistical Significance\|统计显著性]]检验（$p$ 值），必须通过报告对总体效应的无偏点估计来界定经验差异的实质科学价值。
 > - **研究者角色** 研究者需检验[[Analysis of Variance\|方差分析]]的基本假设（正态性、方差齐性），在完全随机单因素、[[Factorial Design\|析因设计]]或[[Repeated Measures Design\|重复测量设计]]中选取对应形态的 $\omega^2$ 计算公式，并合理解释[[Effect Size\|效应量]]的理论与实践内涵。
@@ -91,8 +85,6 @@ updated: 2026-10-22
 >   - 效应量[[Confidence Interval\|置信区间]] Bootstrap 自助抽样法
 
 ---
-
-## 统计原理与数学推导
 
 > [!formula-step] 公式推导一　单因素[[Analysis of Variance\|方差分析]]中的 $\omega^2$ 解析式
 > 在经典的单因素完全随机方差分析中，样本平方和分解为：
@@ -121,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 启发式规则与决策标准
-
 > [!method-heuristics] [[Effect Size\|效应量]]大小判定标准与指标选取规则
 > - **科恩基准经验阈值（Jacob Cohen, 1988）**
 >   - $\omega^2 < 0.01$：微弱或可忽略效应（Trivial / Negligible）；
@@ -135,8 +125,6 @@ updated: 2026-10-22
 >   - 跨研究做[[Meta-analysis\|元分析]]汇总时，推荐使用 $\omega^2$，因其点估计具备更优的无偏性。
 
 ---
-
-## 软件实现与代码规程
 
 > [!software-code] R 语言与 Python 统计计算实现规程
 > ```R
@@ -163,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 典型案例
-
 > [!ref-table]- 教育治理实证研究中的 $\omega^2$ 应用标本
 >
 > | 研究文献 | 分析模型与[[Variable\|变量]] | $F$ 检验与样本量 | $\omega^2$ 统计结果 | 效应等级与实证解释 |
@@ -185,8 +171,6 @@ updated: 2026-10-22
 > | [[Cluster Analysis]] | Method | 在聚类分组后检验簇间分离度与下游[[Variable\|变量]]差异时的标准效应量配套工具。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 在单因素[[Analysis of Variance\|方差分析]]中报告 $\omega^2$ 作为无偏[[Effect Size\|效应量]]，检验三类治理态度聚类校长在学校发展活动与日常工时分配上的组间差异。

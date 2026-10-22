@@ -27,16 +27,12 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Terminal Courses
-
 ---
 
 > [!def] 核心定义
 > 终结性课程（Terminal Courses）面向学生在某一领域可能结束正式学习的阶段，以离校后的应用、理解和持续兴趣为主要设计依据。它与为后续专业学习积累知识的预备性课程（Preparatory Courses）具有不同功能。在[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的历史语境中，辅助层级（Subsidiary Level）课程被主张承担这一功能，而不只是压缩高级层级（Higher Level）课程的内容。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 202–204)]]
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 课程功能决定内容取舍
 > | 维度 | 终结性课程 | 预备性课程 |
@@ -47,8 +43,6 @@ updated: 2026-10-22
 > | 典型关系 | 为专门学习提供全人发展的平衡部分 | 为大学专业学习提供深度准备 |
 >
 > 数学和第二语言即使不成为大学专业，也可能继续作为工具使用，因此两种功能并非完全互斥。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 202–203)]]
-
-## 核心要素
 
 > [!feature] 终结性设计的三个审查问题
 > - **学生后续路径** 先判断课程主要服务继续专业学习，还是某领域最后一次正式学习；数学、第二语言仍可能保留工具用途。
@@ -81,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] 应用化学与营养科学提供两种终结性设计
 > **学科内部的应用选择** [[International School of Geneva|日内瓦国际学校]]开发的[[International Baccalaureate Applied Chemistry Course|国际文凭应用化学课程]]保留共同基础原理，再从八个应用领域中选学三个，包括重工业、农业与食品、化学与健康。设计改变的是学科知识的用途与组织方式，并保留共同核心；[[International Baccalaureate|国际文凭组织]]后来将其纳入常规课程。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 >
@@ -91,8 +83,6 @@ updated: 2026-10-22
 教师支持的具体制度安排见[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]课程试点，其中共同开发与在职培训回应了营养科学推广的困难。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 终结性改革相关课程的制度使用记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -103,8 +93,6 @@ updated: 2026-10-22
 > | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, p. 204)]] | 1985年辅助层级化学 | 应用化学121名考生，常规辅助化学748名考生 | 仅描述采用规模，未报告兴趣、迁移或长期学习效果 |
 
 ---
-
-## 争议与批评
 
 > [!warning] 课程槽位与大学录取构成制度约束
 > 欧洲部分院系要求两门科学或外语，学生因而把第六学科位置用于第二门科学或第三门语言，难以选择放在该组的创新课程。扩大应用课程还需要教师资格、培训、考试行政和大学承认配套，不能只增列课程名称。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]

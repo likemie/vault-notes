@@ -54,11 +54,7 @@ created: 2026-10-12
 updated: 2026-10-22
 ---
 
-# Pillarization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 柱状化（Pillarization；荷兰语：*Verzuiling*；亦称分立主义体制或区块化）是指荷兰等欧陆低地国家沿宗教宗派与意识形态界线形成的纵向社会组织与制度分割形态。社会被垂直划分为公立世俗（State/Neutral）、罗马天主教（Catholic）、正统新教（Protestant）以及非宗教中立（Secular Neutral）等若干相互平行的柱体（Pillars）；各柱体拥有完全独立的学校体系、政党、工会、报刊、广播电台、医疗诊所与社会福利机构。整个国家的政治与社会稳定依托各柱体顶层政治精英在国家内阁与议会层面的制度化妥协、权力分摊与利益均沾机制（Consociational Democracy）予以维系。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 142–144)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 柱状化与相邻社会治理形态的对比
 > | 比较维度 | 柱状化体制（Pillarization） | 自由[[Pluralism\|多元主义]]（Pluralism） | 阶级极化体制（Class Conflict） | 威权[[State Corporatism\|国家法团主义]]（State [[Neocorporatism\|Corporatism]]） |
 > |---|---|---|---|---|
@@ -98,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **四大平行柱体架构（Pillared Architecture）** 荷兰社会长期维系天主教、正统新教、公立世俗与中立四大阵营，各阵营自办涵盖从幼儿园到大学、从医院到电视台的独立全套社会服务体系。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 > - **宪法第 23 条教育自由权（Constitutional Freedom of Education）** 1917 年历史性和平妥协（Pacificatie van 1917）确立宪法第 23 条，赋予公民自主设立学校、自主管理学校、自主贯彻宗教与道德信念的绝对权利。
 > - **公私立财政完全均等原则（100% Financial Equality）** 无论是公立学校还是宗教私立学校，只要达到法定的生源规模与办学标准，其校舍建设、教学运营与教师薪酬均全额由国家公共财政平等予以保障。
@@ -188,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 柱状化核心理论命题归纳
 > | 命题维度 | 核心理论指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -199,8 +189,6 @@ updated: 2026-10-22
 > | **危机倒逼解柱转型命题** | 财政赤字与世俗化退潮打破宗派藩篱，驱动跨宗派大兼并与向负责任社会分权转型 | 1980 年代荷兰 HBO 大兼并、高教[[Steering at a Distance\|远距离操纵]] | [[Walter J. M. Kickert\|Kickert (1995, pp. 144–146)]] |
 
 ---
-
-## 历史演化阶段
 
 > [!dev-timeline] 柱体化与解柱化历史演进轨迹
 > - **1917 年 — 历史和平妥协与宪法第 23 条** 荷兰各政党达成历史性妥协（Pacificatie van 1917），左翼政党获得普遍普选权，宗教政党获得公私立学校 100% 财政完全均等保障，正式奠定柱状化国家宪制基石。
@@ -212,8 +200,6 @@ updated: 2026-10-22
 > - **1990s 至今 — 后柱体时代的[[Higher Education Act of 1965|高等教育法]]制化与新多元挑战** 1993 年《高等教育与科研法》（[[Higher Education and Research Act 1992|WHW]]）统一整合高等教育体系；荷兰教育虽然摆脱了传统基督教宗派束缚，但在穆斯林新移民学校设立与世俗化公民融合等新议题上，宪法第 23 条教育自由再次面临现代转型的深层审视。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >
@@ -236,8 +222,6 @@ updated: 2026-10-22
 > > - **政治制度惯性派** 揭示任何针对宪法第 23 条的修改都会破坏二战以来精心建立的政党合作平衡，基督教民主党等政治精英绝不允许打破此项制度底线。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 143)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 柱状化制度特征与解柱改革历史实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

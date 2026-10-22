@@ -43,11 +43,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Percy Williams Bridgman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 珀西·威廉斯·布里奇曼（Percy Williams Bridgman, 1882–1961）是美国实验物理学家、哈佛大学教授，1946 年诺贝尔物理学奖获得者，操作主义（Operationalism）科学哲学流派的开创者。
@@ -71,9 +67,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 科学的核心目标在于通过严密的操作与实验发现客观自然规律，科学活动本身位于道德与政治价值判断之外；科学家探索客观事实的纯粹性并不包含道德属性，因而不应将技术发明的外部政治或地缘使用后果强加为科研人员的原罪。
 
 > [!citation-card] 科学非道德论与现代硅谷工程师心态
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > *The scientist, in this frame, is not immoral but rather amoral, existing outside or perhaps before the point of moral inquiry. It is a view still held by many young engineers across Silicon Valley today. A generation of programmers remains ready to dedicate their working lives to sating the needs of capitalist culture, and to enrich itself, but declines to ask more fundamental questions about what ought to be built and for what purpose.*
 
 ---
-
-## 关系网络与历史影响
 
 > [!person-network] 关系网络
 > - **学生** [[J. Robert Oppenheimer]] — 在哈佛大学本科期间师从布里奇曼，受其严谨实验操作精神影响，但在[[Manhattan Project|曼哈顿工程]]核爆炸后走向了与布里奇曼截然不同的科学道德原罪反思。

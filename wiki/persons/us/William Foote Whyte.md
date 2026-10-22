@@ -42,10 +42,6 @@ created: 2026-08-16
 updated: 2026-10-22
 ---
 
-# William Foote Whyte
-
-## 简介
-
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家（1914–2000），以经典[[Ethnography\|民族志]]《街角社会》（*Street Corner Society*, 1943）闻名，是参与式[[Observation Method\|观察研究]]的先驱。
 > - **核心角色** 其[[Fieldwork\|田野工作]]与晚年反思为[[Reflexivity\|反身性]]在[[Qualitative Research\|质性研究]]中的地位提供经典论述，并推动[[Participatory Action Research\|参与式行动研究]]（PAR）。
@@ -59,9 +55,7 @@ updated: 2026-10-22
 > - **1943** 出版《街角社会》，基于对街头帮派的深入参与式观察。
 > - **1993** 在《街角社会》再版附录 A 中反思[[Fieldwork\|田野工作]]者的个人经验，探讨[[Reflexivity\|反身性]]、客观与主观的区分以及[[Participatory Action Research\|参与式行动研究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Fieldwork\|田野工作]]者的个人经验长期被学界遮蔽，研究者必须对自己诚实并把个人卷入纳入反思；[[Participatory Action Research\|参与式行动研究]]提供弥合研究者与所研究组织成员鸿沟的途径。选择研究对象依赖内隐或外显的理论，过程在很大程度上主观，但说明假设与方法后他人可以验证或挑战结论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 > [!influence-path] 影响路径

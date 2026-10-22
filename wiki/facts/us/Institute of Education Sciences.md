@@ -98,11 +98,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Institute of Education Sciences
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **美国教育科学研究院（Institute of Education Sciences, IES）** 是美国教育部下辖的核心官方科学与统计管理机构，依据《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002）组建，旨在通过资助与推行严格、客观、透明且具有实践行动力的因果实证研究与大规模教育统计，重塑全美教育决策的科学基石，促进学生[[Academic Achievement\|学业成就]]的实质改善。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–207, 209)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
@@ -115,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2002–2008 — 创设奠基与因果[[Evidence Standards\|证据标准]]确立** 成立初期确立以[[Internal Validity\|内部效度]]为基石的研究评价体系，创设[[What Works Clearinghouse\|有效干预清算中心]]（WWC），将[[Randomised Controlled Trials\|随机对照试验]]（RCT）确立为因果干预评估的黄金标准。2007 年，旗下 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 资助实施了全美首批跨校大规模阅读与数学教育软件随机对照试验（Dynarski et al., 2007），首次以国家级严谨实验确证了干预成效的高度情境敏感性与组织[[Heterogeneity\|异质性]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 > - **2008–2015 — 投资创新计划（i3）与分级证据资助模型成型** 依托《美国复苏与再投资法案》，IES 与联邦教育部推行投资创新计划（[[Investing in Innovation Program\|Investing in Innovation]], i3），开创性地将竞争性资助与前期实证证据等级（起步级、验证级、规模化级）深度绑定，资助了全美上百项大规模整校改革与课程整群 RCT 评估。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
@@ -124,8 +118,6 @@ updated: 2026-10-22
 > - **2018–至今 — SEER 循证卓越标准与全域数据治理转型** 在院长[[Mark Schneider\|马克·施奈德]]（Mark Schneider）领导下启动 SEER 卓越标准改革，从单纯强调因果内部效度转向九维治理生态；2019 年随《[[Foundations for Evidence-Based Policymaking Act of 2018\|2018年循证决策基础法案]]》（FEBPA）生效，IES 受托牵头编制联邦教育部跨部门系统化“学习议程”（Learning Agendas）与年度评价计划，协同设立评价官与首席数据官，推动国家教育实证体系由孤立实验项目向开放微观行政数据治理纵深演进。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策领导层（Director）** 由美国总统提名并经参议院确认的院长全面统筹，主持制定战略科研资助重点、规程标准与审查导向。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
@@ -168,8 +160,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **SEER 循证卓越标准体系** 针对传统实证研究痛点研制出台九大[[Operationalization\|操作化]]准则，重构国家教育实证研究的设计、评价与结项准则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 > - **[[What Works Clearinghouse\|有效干预清算中心]]（WWC）** 针对全球教育[[Intervention Research\|干预研究]]开展系统性方法学审查，依据严格[[Causality\|因果推断]]标准发布实践指南（Practice Guides）与干预效果报告。
@@ -196,8 +186,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 年度教育科研专属预算约 1.5 亿美元（USD 150 million）；统辖四大常设国家研究中心与区域教育实验室（Regional Educational Laboratories, REL）网络；资助项目覆盖全美数十万学生与教师群体。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206, 209)]]
 > - **学术与[[Knowledge Production\|知识生产]]** 建立全球公认的因果实证评级体系 [[What Works Clearinghouse\|WWC]]；推动全美教育实证研究复现率与[[Preregistration\|预注册]]制度化；建立 EdInstruments 工具库打破测量割裂；主持编制权威的[[National Assessment of Educational Progress|国家成绩单]] NAEP。
@@ -215,8 +203,6 @@ updated: 2026-10-22
 > - **100K+** 资助支持的数字学习平台所覆盖的用户规模，用于推进快速实验。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 208)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!tension-table] 因果研究优先与多元实用诉求之张力
 > | 维度 | IES 传统因果实证取向 | 批判与实践主义视角 |
@@ -251,8 +237,6 @@ updated: 2026-10-22
 > *Yet, far too many education interventions are exactly like the bag of pills – a collection of parts, many of which have never been clearly identified, let alone evaluated. IES has been pushing hard to get education researchers to identify the components of an intervention and then work to isolate the effects (and the costs) of each component.*
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>

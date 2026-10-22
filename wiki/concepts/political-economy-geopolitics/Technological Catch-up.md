@@ -46,11 +46,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Technological Catch-up
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **技术赶超（Technological Catch-up / Catching Up）** 指后发国家（Latecomer Economies）在面对先发工业大国已确立的绝对技术与商业优势时，通过国家层面的战略政策引导、有形与无形资本的制度化互依投资、先进生产装备逆向工程消化以及自主研发与工程人才体系的快速扩张，跨越既有技术代差、实现产业国际[[Competitiveness|竞争力]]大幅提升并重塑全球分工格局的非均衡动态跃迁过程。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8, 12–15, 20)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 国际经济发展[[Paradigm|范式]]的概念辨析
 > | 维度 | 本概念（技术赶超） | 新古典[[Convergence Theory in Comparative Education\|趋同论]]（Convergence） | [[Dependency Theory\|依附理论]]（Dependency Theory） |
 > |---|---|---|---|
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > | **历史经验证据** | 19 世纪德美超越英国、二战后日本与东亚四小龙 | 仅在极少数高度同质的发达经济体间局部发生 | 1980 年代拉美陷入失去的十年，印证依附风险 |
 
 ---
-
-## 核心要素
 
 > [!feature] 技术赶超成功的三大制度支柱
 > - **普及且高密度的工科高等教育体系** 充沛的高素质工程师与现场技术工人是吸收、操作与改进先进工业母机的决定性前提。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–14)]]
@@ -120,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 技术赶超核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -136,8 +126,6 @@ updated: 2026-10-22
 > - **1990s — [[Systems of Innovation|创新系统]]与技术[[Paradigm|范式]]融合** Freeman 与演化学者将赶超与微电子新技术范式的扩散相链接，使之成为指导发展中国家产业升级的经典理论工具。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–21)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 1980 年代技术赶超典型国家关键指标对比（韩国 vs 巴西）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

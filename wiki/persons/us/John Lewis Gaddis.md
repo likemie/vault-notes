@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# John Lewis Gaddis
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** John Lewis Gaddis（1941– ），美国著名历史学家、冷战史泰斗，耶鲁大学罗伯特·A. 洛维特历史学与海洋学讲席教授，大战略项目（Grand Strategy Program）联合创始人，普利策传记奖得主。
@@ -63,8 +59,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1970–1980年代 — 冷战起源与结构稳定机制** 探讨两极体系与核均势对战争爆发的抑制机制。
 >   - **代表著作** *The [[Long Peace]]: Inquiries into the History of the Cold War* (1987)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987, p. 245; Karp & Zamiska, 2025, p. 40)]]
@@ -80,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 二战后大国之间之所以维持了罕见的长期和平，并非由于人类道德水平的突飞猛进或国际法体系的自发成熟，而是依托于核武器毁灭性破坏力所构筑的不可逾越的威慑红线、美苏两极格局的结构性稳定性以及大国之间形成的危机管控机制。（Gaddis, 1987）
 
 > [!citation-card] 二战后大国[[Long Peace|长和平]]的历史定性
@@ -99,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史评价
-
 > [!citation-card] 卡普与扎米斯卡论加迪斯[[Long Peace|长和平]]命题的当代警示
 > 著名冷战史学家约翰·刘易斯·加迪斯将战后时期恰如其分地定性为‘长和平’；然而，这种持久和平带来的最大危险，正是让承平日久的后世误以为和平是不需要付出防卫代价的天然背景。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 40)]]
 >
@@ -115,8 +105,6 @@ updated: 2026-10-22
 > - **研究机构** 耶鲁大学国际安全研究项目（ISS）与大战略项目。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

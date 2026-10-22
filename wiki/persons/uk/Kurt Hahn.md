@@ -38,11 +38,7 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Kurt Hahn
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国犹太裔教育家，后归化英国；曾任萨勒姆学校校长，并在英国推动多项青年教育项目。
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **1932** 要求萨勒姆校友在希特勒与学校价值之间作出选择，随后被捕，并在英国首相拉姆齐·麦克唐纳干预后流亡英国。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
 > - **英国时期** 参与创办戈登斯敦学校、外展训练运动、爱丁堡公爵奖和[[United World Colleges\|联合世界书院]]，把教育愿景连续转化为机构行动。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 2)]]
 > - **1950 年代后期** 与劳伦斯·达瓦尔及英国工商、政治和教育界人士筹建跨国学校，推动[[Founding of Atlantic College\|大西洋学院创办]]。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 3–4)]]
-
-## 核心思想
 
 > [!claim] 从态度改变到行动改变
 > 民族与种族偏见、被动旁观以及体能、进取心、想象力、自律和同情心的衰退，不能只靠课堂说理纠正。不同文化的青年应共同参加需要技能、具有挑战并服务他人的真实活动，同时接受严格学习、团队领导和个人兴趣发展，使态度改变落实为行为改变。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 2–3)]]

@@ -57,11 +57,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Regional Innovation System
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 区域[[Systems of Innovation|创新系统]]（Regional Innovation System, RIS）指在特定的次国家（Sub-national）地理空间范围内，由地理上彼此邻近的企业、大学、科研院所、金融中介与地方公共治理机构构成的互动学习网络。该概念强调创新绩效高度取决于地理集聚带来的高频面对面接触、[[Tacit Knowledge|隐性知识]]溢出、熟练专业劳动力市场池以及深植于地方文化中的制度厚度（Institutional Thickness）与社会信任资本，构成了[[National Innovation System|国家创新系统]]在微观地理层面的实质承载底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
@@ -94,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **地理邻近性与空间集聚** 企业、供应商与科研机构在地理半径内的紧密聚集，大幅降低跨组织搜寻与沟通成本。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 > - **[[Tacit Knowledge|隐性知识]]面对面溢出与专业劳动力池** 行业绝招、工艺经验在本地咖啡馆、行业酒会与跨企业跳槽中低成本扩散，形成马歇尔式“行业秘密飘在空气中”的浓厚氛围。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 21)]]
 > - **地方制度厚度与社会信任资本** 地方行业公会、[[Technology Transfer|技术转移]]中介、信用联盟与地方政府形成的非正式合作惯例，提供抗风险与协同创新缓冲。
@@ -141,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -159,8 +151,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 智能专业化战略与政策制度化** [[EU|欧盟]]在“地平线 2020”及凝聚政策中强制推行“智能专业化研究与创新战略”（Smart Specialisation Strategies, S3），要求各成员国区域依据自身比较优势与区域创新系统特征构建差异化技术升级路线。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -184,8 +174,6 @@ updated: 2026-10-22
 > 概念适用于具备明确产业集聚特征、存在最低限度产学研互动网络和地方公共政策自主权的次国家空间单元；在产业空心化严重、缺乏基本高校科研设施或治理权高度集中无法进行在地政策实验的地区难以有效套用。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

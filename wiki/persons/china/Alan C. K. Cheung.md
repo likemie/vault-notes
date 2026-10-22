@@ -76,12 +76,9 @@ created: '2026-05-02'
 updated: 2026-10-22
 ---
 
-# Alan C. K. Cheung
 （张志强）
 
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 香港中文大学（The Chinese University of Hong Kong）教育学院教授、教育行政与政策学系系主任，前美国约翰霍普金斯大学（Johns Hopkins University）[[Evidence-Based Education\|证据本位教育]]改革中心（CRRE）资深研究员。
@@ -103,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2013–2021 — [[Evidence-Based Reform\|证据本位改革]]与大规模实验国际比较阶段**
 >   - **核心问题** 回应教育实证研究“信誉危机”与[[Causality\|因果推断]]不严密问题，推动[[Evidence-Based Education\|循证教育]]政策与大规模[[Randomised Controlled Trials\|随机对照试验]]的国际经验转化。
@@ -123,9 +118,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 张志强坚信教育政策与教学干预必须建立在“可复现、严控制、高透明”的实证科学基准之上。他反对脱离严格证据的教育时尚跟风与对新技术的盲目乐观崇拜；强调无论在传统课程改革还是前沿人工智能整合中，都必须运用严格的[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）、发表偏倚剪补校正与活动系统多维调节分析，以识别技术在不同社会阶层、数字化基线与权力文化中的真实增益边界，从而使循证教育真正服务于教育公平与深层心智发展。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025)]]
 
 > [!citation-card] 关键表述
@@ -135,9 +128,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进[[Third Generation Activity Theory\|活动理论]]（AT-MCSCL）在[[Man-Computer Symbiosis|人机协同]]学习中的[[Operationalization\|操作化]]；实证建构教育技术[[Marginal Gains Hypothesis\|边际效益假说]]，为技术赋能弱势群体的补偿机制提供理论依据。
 > - **方法路径** 将美国[[What Works Clearinghouse\|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）与 Slavin 学派的基线等效控制准则（$d < 0.25$）引入 AI 教育元分析，推动数据与分析代码完全开源，树立了高标准透明度与可复现性范式。
 > - **政策路径** 推动[[Evidence-Based Education\|循证教育]]决策理念在香港及大中华区政策制定中的渗透，主张将有限教育经费优先投向经高质量实证检验且具有高边际收益的数字化基建与干预项目。
@@ -158,8 +149,6 @@ updated: 2026-10-22
 > - **机构平台** [[Best Evidence Encyclopedia\|BEE]] / [[Best Evidence in Brief\|BEiB]] — 长期主导华语网络转化与维护工作。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

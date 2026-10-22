@@ -37,11 +37,7 @@ created: 2026-08-03
 updated: 2026-10-22
 ---
 
-# Curriculum as Process（作为过程的课程）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **作为过程的课程（Curriculum as Process）** 由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）确立，是反对技术控制产物模式的人文主义课程[[Paradigm\|范式]] (Stenhouse, 1975; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 65–67]])。该范式主张课程不应预设固定的行为结果，而应提供探究与对话的“过程原则”（procedural principles）。课程的本质是师生在具体探究中运用[[Phronesis\|实践明智]]（*Phronesis*）共同理解知识与价值的动态交互过程。
@@ -71,9 +67,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **过程原则（Procedural Principles）** 以如何探究与对话的标准取代预设行为目标。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 66)]]
 > - **[[Phronesis\|实践明智]]（Phronesis）** 依靠教师与学生在具体情境中的理智判断与审议能力。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
 > - **教师研究者化（Teacher as Researcher）** 教师作为研究者在课堂探究中与学生共同成长。同上
@@ -103,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -118,8 +110,6 @@ updated: 2026-10-22
 > - **2009 — [[Theory of Knowledge\|TOK]] 定位评价** 达维什将 IB TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 72–78)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 过程模式若缺乏社会政治维度的反思，容易停留在象牙塔内的“纯粹智力辩论”，无法转化为改变现实不公的行动。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 78–81)]]

@@ -59,11 +59,7 @@ created: 2026-06-09
 updated: 2026-10-22
 ---
 
-# Education International
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > [[International Education\|国际教育]]协会（Education International, EI）是全球最大的教师与教育工作者行业工会联合会，总部设于比利时布鲁塞尔，代表全球逾 3200 万名中小学教师与教育支持专业人员，以捍卫优质免费公共教育、维护教师专业权益与促进社会正义为法定核心使命，在[[Global Policy Space\|全球政策空间]]中构成连接草根教师群体、多边国际组织与各国政府的关键非政府治理枢纽。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 351–353)]]；[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
@@ -76,16 +72,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1993–2000 — 全球统一与反新自由主义旗帜确立** 冷战结束后正式合并建立，确立对[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）及新自由主义[[Educational Privatisation\|教育私有化]]浪潮的坚决抵制立场，将教育界定为不可买卖的基本人权与公共品。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]
 > - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与[[International Monetary Fund|国际货币基金组织]]（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的[[Discourse|话语]]权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 351–353)]]
 > - **2010–至今 — 科研自主建制与跨国循证共治突破** EI 深度推进研究证据与教师政策的融合，设立独立运作的[[International Education\|国际教育]]协会研究院（EI Research Institute）；成功争取在[[OECD\|经合组织]]核心理事会的常设观察员席位；2011 年联合发起[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），实现由抗争型工会向基于客观证据的高层战略协商伙伴转型。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–213, 216)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（World Congress）** 每四年召开一次世界代表大会，由全体成员工会代表投票审议全球政策优先方向并选举执行委员会。
@@ -100,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **《教师地位全球报告》（Global Report on the Status of Teachers）** 每三年定期发布全球旗舰调研报告，系统追踪全球数千万教师的身心健康、职业倦怠、工资福利与专业自主权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 213)]]
 > - **[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）战略治理机制** 联合东道国政府、[[OECD\|经合组织]]共同主办的年度高层政策峰会，成为全球唯一制度化实现政界高官与工会领袖基于实证证据平等对话的顶层设计。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > *For its part, EI’s engagement in the development of TALIS and PISA through TUAC has enabled it to contribute to the teacher policy aspects of those studies and to argue that their data and policy findings are as much the property of teachers and their organisations as they are of educational jurisdictions.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 覆盖全球 172 个国家和地区、401 个成员工会组织，代表逾 3200 万名教师与教育支持人员，工会密度高居全社会各经济部门首位。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209, 213)]]
@@ -133,8 +121,6 @@ updated: 2026-10-22
 > - **32M** 代表会员体量的下限（逾此数），即教师与教育从业人员（名，原文作 32 million）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 213)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

@@ -100,12 +100,9 @@ status: active
 created: 2026-08-17
 updated: 2026-10-22
 ---
-# Epistemic Cognition
 （[[Epistemology|认识论]]认知）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemic Cognition\|认识论认知]]是指个体在获取、理解、证成和运用知识时，对“知识本质”（知识是什么）和“认知过程”（如何获得知识）的潜在信念、标准与思维过程。它回答了学习者内心深处的终极问题：“我如何知道我所知道的是真的？”
@@ -126,8 +123,6 @@ updated: 2026-10-22
 > - 不等于 **无差别的怀疑主义** — 认识论认知构成了**建构性批判（Constructive Critique）** 的核心支撑，它引导学习者进行合理信任（[[Trust Calibration|Calibrated Trust]]），而非盲目抬杠或陷入认识论虚无主义。
 
 ---
-
-## 核心要素
 
 > [!taxonomy] [[Epistemology\|认识论]]认知的五大理论流派
 > 综合 [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的历史梳理与当代最新进展，认识论认知的理论演进可划分为五种代表性[[Paradigm\|范式]]：
@@ -217,8 +212,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -240,8 +233,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：知识与认知是如何存在的？
 > - **认知建构学说（蓝方）** 以 Piaget 发生[[Epistemology\|认识论]]为基础，视知识为个体为适应经验而建构的内部概念结构，认识论认知是头脑中的相对稳定的信念或特质。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 > - **[[Situative Perspective\|情境主义]]立场（红方）** 受 Vygotsky 影响，视知识为分布式的文化产物，认识论认知不再是脱域命题，而是特定共同体解决问题的“社会实践活动（social practices）”。
@@ -259,8 +250,6 @@ updated: 2026-10-22
 > - **内部推论黑箱** 情境派崇尚的纯外部[[Discourse Analysis\|话语分析]]虽保留了真实情境，却陷入了仅靠表面行为难以准确推断内部隐蔽机制的“推论危机（inference problem）”。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

@@ -36,11 +36,7 @@ created: 2026-06-09
 updated: 2026-10-21
 ---
 
-# Floating Signifier
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 漂浮能指（Floating Signifier）是指被剥离了具体历史时间和空间起源的符号或概念[[Discourse|话语]]。它失去了固定的具体所指对象，其沟通与传播效力恰恰来自其“空洞性”——即能在不同接收语境中被不同行动者进行差异化解读与重新编码的巨大弹性。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 353–355]])
@@ -61,8 +57,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 概念辨析：能指类型对比
 > | 维度 | 漂浮能指 (Floating Signifier) | 固定能指 (Fixed Signifier) |
 > | :--- | :--- | :--- |
@@ -72,9 +66,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **抽离历史经验（De-contextualisation）** 全球政策[[Discourse|话语]]被剥离了具体的起源时间、地理地点和特定的社会斗争脉络，被抽象为普适化的通用符号。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 354]])
 > - **可塑性与稳定性的双重结构（Malleability & Stability）** 话语的形式结构保持基本稳定以维系全球权威与品牌光环；但具体内涵高度可塑，以便与不同地缘语境整合。([[Argument_Beech_2009_CE\|Beech, 2009a, p. 353]])
 > - **多声部解读能力（Multivocality of Meanings）** 话语的传播价值在于“被用来说什么”而非“说了什么”。其价值不在于提供明确指令，而在于为不同利益主体提供各取所需的合法化说辞。
@@ -89,8 +81,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 漂浮能指概念演变脉络
 > - **符号学与精神分析起源**
 >   漂浮能指最初由 [[Claude Lévi-Strauss]] 在分析马塞尔·莫斯礼物理论时提出，后被 Jacques Lacan 引入精神分析领域，用于指代没有固定所指、可在能指链上滑动的符号。
@@ -100,8 +90,6 @@ updated: 2026-10-21
 >   [[Argument_Beech_2009_CE\|Beech (2009a)]] 首次将该概念引入比较教育分析，指出全球政策[[Discourse|话语]]（如“能力发展”和“尊重多样性”）正是通过在流动空间中转化为“漂浮能指”，才得以在全球范围内广泛流动 and 推广。([[Argument_Beech_2009_CE\|Beech, 2009a, pp. 353–355]])
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 漂浮能指在教育政策中的实证分析
 > - **能力[[Discourse|话语]]的漂浮与降落**

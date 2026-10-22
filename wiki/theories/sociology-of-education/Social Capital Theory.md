@@ -39,8 +39,6 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Social Capital Theory
-
 ---
 
 > [!abstract] 核心主张
@@ -52,9 +50,8 @@ updated: 2026-10-22
 - **先前经验如何转化为合作优势** 产业伙伴之间通过已有网络（如 IBEC R&D 小组）建立的熟悉度是胚胎期最关键的社会资本
 
 ---
-## 在产学合作中的应用
 
-> [!info|notitle]
+> [!info] 在产学合作中的应用
 > ODwyer et al.（2023）的研究揭示了社会资本在[[University-Industry Collaboration\|产学合作]]网络演化中的三个关键发现（pp.914-925）：
 
 > [!line-a] 信任的类型随阶段演化
@@ -75,7 +72,6 @@ updated: 2026-10-22
 > - **Nahapiet and Ghoshal（1998）** 将社会资本分为三个维度——结构维度（网络连接）、关系维度（信任和规范）、认知维度（共享愿景和语言）
 
 ---
-## 在全球教育政策与国际组织治理中的工具化收编
 
 > [!claim] 国际组织对社会资本的[[Economic Fundamentalism|经济基要主义]]重构
 > [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）结合帕特·汤姆森（Pat Thomson, 1999）的分析指出，20世纪90年代末[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织大力吸纳罗伯特·帕特南（Robert Putnam, 2000）的社会资本概念，源于三重政策冲动：其一，试图回应并修补[[Human Capital Theory|人力资本理论]]中极端个人主义所引发的社会撕裂；其二，认识到市场经济的持续成功客观上需要一定程度的社会凝聚力、稳定性与社会信任作为制度底座；其三，意识到公众日益将单纯的经济指标增长与实质性的个人福祉（well-being）相剥离。然而，在[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与“经济基要主义”的支配下，[[OECD]]并未借此恢复社会民主主义传统中的实质正义与民主共同体理想，而是将社会资本与社会凝聚力“剩余化”（residualize）为一种治理工具，仅用于管理经济边缘化、社会排斥与文化差异带来的摩擦，并把社会排斥狭隘地界定为未能融入[[Knowledge-Based Economy|知识经济]]的个体适应失败[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 450)]]。

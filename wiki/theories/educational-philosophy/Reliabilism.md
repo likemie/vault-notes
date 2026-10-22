@@ -43,13 +43,9 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Reliabilism
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 信念合理性（justification）的核心构成要素与判定机制。
 > - **理论问题** 传统[[Epistemology\|认识论]]（内部主义）要求主体必须能明确提供辩护理由，这导致了知识标准过高（如幼童或动物无法提供理由却拥有知识的悖论）。可靠主义（外部主义）回应了这一困境，主张即使主体无法明确提供理由，只要产生信念的[[Causal Processes\|因果过程]]本身是可靠的，该信念即得到确证。
 > - **理论类型** 规范理论（Normative theory）与[[Analytic Framework\|分析框架]]。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 > | [[Epistemological Naturalism]] | [[Paradigm\|范式]] | 可靠主义促成的宏观哲学转向，将认识论从纯粹的先验逻辑哲学转变为一门需要实证科学介入的[[Comparative Education as a Cross-Sectional Area\|交叉学科]]。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜确证依赖于客观过程的[[Reliability\|可靠性]]，而非内部反思的完备性
 > - **前提一** 传统[[Epistemology\|认识论]]要求认知主体必须知道自己是如何知道的（[[Metacognition\|元认知]]级别的显性辩护）。但人类大量成功的认知（如感知物体的颜色、依靠直觉的快速判断）根本无法提供严密的逻辑理由。
@@ -100,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 视认知活动为发生在自然界中的真实因果事件（causal events），社会群体的探究实践也是物质存在的活动系统。
 > - **[[Epistemology\|认识论]]** 外部主义立场。真理和确证不依赖于主体的主观透明度，而是依赖于产生信念的过程与世界实在状态之间的客观协同度。
@@ -126,8 +118,6 @@ updated: 2026-10-22
 > - **2011 — 教育研究应用** Chinn et al. 将可靠主义及其对“可靠产生过程”的关注，正式纳入教育心理学领域的[[Expanded Framework of Epistemic Cognition\|扩展的认识论认知框架]]中，作为第五大核心组件。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

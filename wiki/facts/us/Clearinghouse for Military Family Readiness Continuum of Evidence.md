@@ -47,11 +47,7 @@ created: 2026-05-05
 updated: 2026-10-16
 ---
 
-# Clearinghouse for Military Family Readiness Continuum of Evidence
-
 ---
-
-## 概述
 
 > [!info] 机构定位与运营概况
 > **军人家庭准备清算中心（[[Educational Evidence Clearinghouses\|Clearinghouse]] for Military Family Readiness, CMFR）** 是由美国国防部（DoD）、美国农业部国家食品与农业研究所（USDA/NIFA）与宾夕法尼亚州立大学联合发起设立的公共部门证据清算中心，旨在服务全美军人家庭、军属及随军子女的教育与身心发展需求([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
@@ -59,8 +55,6 @@ updated: 2026-10-16
 > CMFR 覆盖军人子女[[Academic Achievement\|学业表现]]、心理健康、家庭适应力与就业准备等领域。当前处于**活跃运营（Active）** 状态，官方平台为 [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)，持续维护“证据连续体（Continuum of Evidence）”数据库。
 
 ---
-
-## 机构背景与资助体系
 
 > [!note] 发展背景与资助演进
 > 鉴于美军官兵及其家属面临高频次跨州调防、海外部署与战斗创伤等特殊压力，随军子女在基础教育阶段普遍面临适应困难。
@@ -70,15 +64,11 @@ updated: 2026-10-16
 
 ---
 
-## 评级对象与项目纳入范围
-
 > [!feature] 评价范围与项目入库
 > - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，CMFR 贡献了 **166 个项目（属于[[Academic Achievement\|学业表现]]、学校氛围与就学准备主题）**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **评估对象级别** 仅针对具名干预项目进行整体评估与连续体分级。
 
 ---
-
-## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
 > CMFR 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=3, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
@@ -87,8 +77,6 @@ updated: 2026-10-16
 > 2. **准实验匹配控制** 对 QED 的[[Propensity Score Matching\|倾向得分匹配]]、基线协[[Variable\|变量]]平衡性制定了细致的审核规程。
 
 ---
-
-## 评级体系与最高准入门槛
 
 > [!contrast-table] CMFR 证据连续体评级等级
 > | 评级等级 | 核心准入条件与方法学门槛 |
@@ -100,14 +88,10 @@ updated: 2026-10-16
 
 ---
 
-## 生态定位与评级分歧案例
-
 > [!warning] 跨中心分歧与典型案例
 > - [[Success for All]]（SFA）与 [[Peer-Assisted Learning Strategies]]（PALS）— 在 CMFR 数据库中均被评为 **Effective** 或 **Promising**，作为国防部基地学校提升调防学生阅读与数学成绩的核心推荐方案([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 23–24]])。
 
 ---
-
-## 相关概念／政策
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — CMFR 代表了针对特殊群体（军人家庭及子女）设立的专业化证据清算中心。

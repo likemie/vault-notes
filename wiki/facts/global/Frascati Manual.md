@@ -43,11 +43,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Frascati Manual
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1963 年由[[OECD|经济合作与发展组织]]（OECD）科技政策专家组正式发布首版，弗里德里希等[[Evolutionary Economics|演化经济学]]者深度参与起草。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 9)]]
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **制度位置** 奠定了 OECD 科学技术指标体系（NESTI）的母体基石，后续衍生出衡量创新调查的《奥斯陆手册》（Oslo Manual）与专利统计的《专利手册》。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 《弗拉斯卡蒂手册》为研究与试验发展（R&D）活动建立了国际统一的[[Operationalization|操作化]]定义和统计调查规则，将全社会研发投入从宽泛的科技与教育支出中精准剥离，确立了 GERD/GNP（研发支出占国民生产总值比率）作为衡量国家科技强度的通用国际基准。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
@@ -70,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策与规范演变
 > - **1962** [[OECD]] 专家组在意大利弗拉斯卡蒂（Frascati）召开会议，起草并讨论《研究与试验发展调查拟议标准实务守则》。
 > - **1963** OECD 正式批准发布第一版《弗拉斯卡蒂手册》（Frascati Manual 1963）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 9)]]
@@ -80,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施情况
-
 > [!actor-grid] 实施主体与角色
 > - **发端与维护机构** [[OECD]] 科学技术与创新局（DSTI）及国家科技指标专家组，负责全球标准的持续修订。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 > - **执行与填报机构** 各国国家统计部门（如英国中央统计局、[[National Science Foundation|美国国家科学基金会]] NSF、日本总务省统计局等）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
@@ -89,8 +79,6 @@ updated: 2026-10-22
 > - **学术研究群体** 萨塞克斯大学科技政策研究所（SPRU）等创新经济学团队，利用该数据库开展跨国技术差距分析。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
 
 ---
-
-## 影响、评价与反思
 
 > [!finding-cards] 历史影响与两面性
 > - **确立全球科技投入通用语法** 终结了各国科技统计各自为政的混乱局面，使长期跨国技术比较与实证计量成为可能。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 9)]]

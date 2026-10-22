@@ -50,11 +50,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# PISA Governing Board
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > [[PISA]] 管理委员会（PISA Governing Board, PGB，前身为参测国委员会 Board of Participating Countries, BPC）是[[OECD|经济合作与发展组织]]（OECD）设立的负责统筹监管[[PISA|国际学生评估项目]]的最高政府间决策机构，代表各参与国教育部确立跨国测评的战略优先项并监督实施。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **核心宗旨与法定职责** 确定 PISA 每轮测评的政策优先目标与评估领域重点，审议并通过各领域测验框架，选聘并全程监管技术总承包商，批准指标体系与最终国际报告的发布。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 
 ---
-
-## 历史沿革与组织演变
 
 > [!org-evolution] 组织发展历程
 > - **1997–2004** **参测国委员会（BPC）创立与指标网络依托期**
@@ -85,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理架构与运行机制
-
 > [!actor-grid] 组织治理架构
 > - **决策中枢（PGB 代表大会）** 由全体参测国教育部任命的高级别政府代表与政策制定者组成，定期会商决定各轮测评的战略优先项。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 > - **执行协调机构（[[OECD|经合组织]]秘书处）** 由经合组织教育与技能司常设团队提供秘书处支持，负责日常行政协调、政策对话与成果发布统筹。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
@@ -99,16 +91,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心职责与治理产出
 > - **[[Test Production|测验生产]][[Total War|总体战]]略导向与框架审定** 审定发布三年一轮的 [[PISA]] 官方测评框架与技术规范标准。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
 > - **跨国承包财团聘任决议** 全程主持国际技术承包商招标，选拔顶尖心理测量机构负责试题研发与实施。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 > - **国际评估结果官方核准** 在每轮 PISA 数据公布前开展政府间最终审议，保障跨国比较结论的政策权威性。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **参与国政策绑定深度** 从 1997 年首批 30 余国扩展至覆盖全球 80 余个国家和经济体的主流教育行政体系。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
@@ -118,8 +106,6 @@ updated: 2026-10-22
 > - **实现技术逻辑与国家政治意志的深度缝合** PGB 的制度设计成功将主权国家教育高官转化为国际测评的共同所有者，使[[OECD|经合组织]]在缺乏主权约束力的情况下获得了调动各国内部政策的稳固合法性基础。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 198)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

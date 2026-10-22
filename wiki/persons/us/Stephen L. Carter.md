@@ -39,11 +39,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Stephen L. Carter
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国法学家、畅销书作家，耶鲁大学法学院威廉·纳尔逊·克伦威尔法学讲座教授（William Nelson Cromwell Professor of Law）。
@@ -67,8 +63,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1993 — *[[Culture of Disbelief|The Culture of Disbelief]]: How American Law and Politics Trivialize Religious Devotion*** 揭示美国法律与世俗精英如何通过中立[[Discourse|话语]]将宗教信念排挤出严肃公共讨论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 72)]]
 > - **1996 — *Integrity*** 深入探讨正直、诚实与承担道德代价在现代社会中的哲学意义。
@@ -76,9 +70,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 斯蒂芬·L. 卡特（Stephen L. Carter）主张，真正的[[Pluralism|多元主义]]与言论自由必须允许公民基于真诚的宗教与道德信念参与公共辩论。他坚决反对将一切道德主张强行折叠为冷冰冰的法条与技术合规，警示过度世俗化会导致公共生活丧失崇高的道德动力，最终使民主政体异化为平庸自利的竞技场。
 
 ---

@@ -52,11 +52,7 @@ created: 2026-05-05
 updated: 2026-10-20
 ---
 
-# Social Programs That Work
-
 ---
-
-## 概述
 
 > [!info] 机构定位与运营概况
 > **行之有效的社会项目（Social Programs That Work, SPTW）** 是由原循证政策联盟（Coalition for [[Evidence-Based Policy-Making|Evidence-Based Policy]]）设立、现由著名慈善基金会阿诺德风险创投（Arnold Ventures）维护的多领域非营利[[Educational Evidence Clearinghouses\|证据清算中心]]([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
@@ -64,8 +60,6 @@ updated: 2026-10-20
 > SPTW 覆盖基础与高等教育、劳动就业、身心健康、犯罪预防及社会福利等领域。当前处于**活跃在线 / 极高准入（Active / Selective）** 状态，官方平台为 [evidencebasedprograms.org](https://evidencebasedprograms.org)，以“宁缺毋滥、唯 [[Randomised Controlled Trials\|RCT]] 论”的极高准入门槛闻名。
 
 ---
-
-## 机构背景与资助体系
 
 > [!note] 发展背景与资助演进
 > SPTW 创立的初衷是解决美国社会政策中充斥着“伪科学评价”与“方法学妥协”的问题。
@@ -75,15 +69,11 @@ updated: 2026-10-20
 
 ---
 
-## 评级对象与项目纳入范围
-
 > [!feature] 评价范围与项目入库
 > - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，SPTW 仅收录了 **24 个项目**，是全库中收录规模最小、精选度最高的机构([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **全人群与跨界覆盖** 涵盖产前/早期儿童、K–12 学业促进、大学完成率提升、青年就业培训及贫困减缓干预。
 
 ---
-
-## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
 > SPTW 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，对 RCT 制定了极详尽的实施标准([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
@@ -95,8 +85,6 @@ updated: 2026-10-20
 
 ---
 
-## 评级体系与最高准入门槛
-
 > [!contrast-table] SPTW 评级层级与标准
 > | 评级等级 | 核心准入条件与证据门槛 |
 > |:---|:---|
@@ -106,15 +94,11 @@ updated: 2026-10-20
 
 ---
 
-## 生态定位与评级分歧案例
-
 > [!warning] 跨中心分歧与典型案例
 > SPTW 的极高门槛导致全美绝大多数声名显赫的教育干预被挡在门外：
 > - [[Communities in Schools]]（CIS）— 尽管在 [[National Dropout Prevention Center\|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials\|RCT]] 复制数据，未能进入 Top TIER 榜单([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
 
 ---
-
-## 相关概念／政策
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — SPTW 代表了循证政策领域将 [[Randomised Controlled Trials\|RCT]] 推向极致的精英化筛选[[Paradigm\|范式]]。

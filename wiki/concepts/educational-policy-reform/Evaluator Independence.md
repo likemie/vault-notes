@@ -81,11 +81,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Evaluator Independence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 评估者独立性（Evaluator Independence），亦称第三方独立评估准则，是指在教育、心理与社会干预的成效评估中，要求研究方案设计、现场实施监督、基线与结果数据采集、统计分析及最终评价报告撰写，必须由与项目开发者（Program Developers）、商业版权方或学术创立团队不存在直接经济利益、版权分成或学术隶属关系的独立研究机构主持完成的方法学治理准则。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
@@ -109,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 国际循证清算中心对评估者独立性的制度审查规则
 > | 清算中心 | 对独立评估者的制度要求 | 门槛未达标处理结果 | 制度取向定性 |
 > |:---|:---|:---|:---|
@@ -122,8 +116,6 @@ updated: 2026-10-22
 > | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|加利福尼亚儿童福利清算所]]（CEBC）** | **未设强制要求** 聚焦研究设计、同行评审与 12 个月随访期，不要求评估者与开发者完全隔离。 | 只要随访期达标即可授予 Well-Supported。 | **临床导向（重随访轻身份）** |
 
 ---
-
-## 核心要素
 
 > [!feature] 研发者自评导致[[Effect Size\|效应量]]系统性虚高的四大偏倚机制
 > - **定制化与自编测验偏好（[[Developer-Made Measures]]）** 开发者倾向于采用与自身课程大纲高度贴合的自编测验，导致表观效应量较独立统考夸大 50% 至 100%。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
@@ -189,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -208,8 +198,6 @@ updated: 2026-10-22
 > - **2015 年至今 — [[Every Student Succeeds Act\|ESSA]] 时代与清算中心标准分化** ESSA 四级[[Evidence Standards\|证据标准]]实施，全球清算中心在独立性审查上形成两极分化（[[Blueprints for Healthy Youth Development\|Blueprints]]/EEF 刚性约束 vs [[What Works Clearinghouse\|WWC]]/[[Best Evidence Encyclopedia\|BEE]] 技术包容）。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -231,8 +219,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -244,8 +230,6 @@ updated: 2026-10-22
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 CSR、i3/EIR 及 EEF 30 年干预评估项目库（涵盖 [[Success for All\|SFA]]、DI 等） | [[Best Evidence Synthesis\|最佳证据综合]]与多中心纵向评估复现性对比 | 独立第三方评估复现率与[[External Validity\|外部效度]] | 经历外部独立 RCT 检验（如 Borman et al. 2007）的项目在全美 1,000+ 所学校中展现出持续稳健的学业增益 | 多中心一致显著 | 确立了外部独立复制对打破研发者自评争议、确立终极循证公信力的决定性作用 |
 
 ---
-
-## 典型案例
 
 > [!case] 委托模式差异：英国 [[Education Endowment Foundation\|EEF]] 三方协议模式 vs 美国 [[Institute of Education Sciences\|IES]]/i3 模式（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）
 > - **美国 i3 模式的制度漏洞** 美国教育科学研究院（IES）[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（NCEE）支持的投资创新项目（i3）中，法律虽规定需进行独立评估，但在实践中由受资助者（开发者）自行遴选评估机构并在申报书中列名并管理资金拨付。这种财务依附关系使得独立评估机构往往受到开发者偏好的制约，易放弃实施难度高的大规模[[Randomised Controlled Trials\|随机对照试验]]（RCT）而转向[[Quasi-Experimental Designs\|准实验设计]]（QED）。

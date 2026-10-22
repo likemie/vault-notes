@@ -45,11 +45,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# Multiple Institution Attendance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **多机构就读（Multiple Institution Attendance）** 在美国高等教育研究与政策[[Discourse|话语]]中，特指大学生在攻读学士学位期间跨越两所或两所以上高等院校（如两年制社区学院与四年制[[Research Universities|研究型大学]]、跨州公立/私立大学）修读课程、累加学分或实施转学的就读形态。在美国高等教育问责与系统效率话语中，多机构就读常被问题化（problematized）为引发学分折损、延长求学年限并拉低学位完备率（Degree Completion）的“系统效率损耗因子”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 > - **不等于海外留学（Study Abroad）** 在美国，海外留学被官方话语命名为“国际交流”并赋予精英文化光环；而国内多机构就读则被剥离了社会救赎叙事，沦为冰冷的效率统计负担。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 高等教育流动模式对比
 > | 比较维度 | 多机构就读（Multiple Institution Attendance） | 欧洲[[Student Mobility\|跨国学生流动]]（[[Erasmus Programme\|ERASMUS]] Mobility） | 海外留学 / 国际交流（Study Abroad） |
@@ -117,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 多机构就读核心命题归纳
 > | 命题类型 | 核心论断 | 实践机制与政策影响 | 代表文献 |
 > |---|---|---|---|
@@ -126,8 +118,6 @@ updated: 2026-10-22
 > | **阶层救赎叙事断裂** | 富裕阶层海外交流被神圣化为领导力资本，国内底层跨校就读被贬为技术损耗 | 解构[[Internationalization of Higher Education\|高等教育国际化]]修辞背后的社会阶层再生产 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 政策争议与理论张力
 >

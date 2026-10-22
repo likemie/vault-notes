@@ -38,8 +38,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Top Institute for Evidence-Based Education Research
-
 > [!info] 背景
 > Top Institute for [[Evidence-Based Education]] Research（TIER）于 2008 年在荷兰建立，是一个跨大学研究机构，合作方包括 Maastricht University、University of Amsterdam and University of Groningen([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 

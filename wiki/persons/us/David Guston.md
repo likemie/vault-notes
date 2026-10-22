@@ -47,11 +47,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# David Guston
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代知名科学政策学与科学技术社会学（[[Science and Technology Studies|STS]]）学者，亚利桑那州立大学（Arizona State University, ASU）未来社会创新学院创立院长兼终身教授，[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1994 — *The Fragile Contract? University Science and the Federal Government*** 敏锐捕捉冷战终结后美国科学界与联邦政府在预算削减与间接成本丑闻下的信任裂痕，率先提出[[Social Contract of Science|科学社会契约]]再协商议题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 > - **2000 — *Between Politics and Science: Assuring the Integrity and Productivity of Research*** 系统构建国家对科学资助的两大治理委托：产出率（Productivity，通过[[Technology Transfer|技术转移]]机构保障）与诚[[Reliability|信度]]（Integrity，通过科研诚信办公室 ORI 保障），奠定科学契约的政治制度主义基础。
@@ -83,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 古斯顿主张将政府与科学共同体的关系解构为信息不对称条件下的委托—代理博弈。国家（委托人）无法直接监控实验室内部的科研操作细节，因此必须依靠同行评议自治以换取产出率，但又必须防范道德风险；二战后科学契约的稳固依赖于一系列专门制度（如同行评议、间接成本核销、科研诚信办公室）的缓冲与联结。后冷战以来科学契约的再协商与当代危机，本质上是国家作为委托人试图以严苛的行政审计与程序控制替代传统中介信任机制的过程。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1059)]]
 
 > [!citation-card] 委托—代理与边界缓冲机制
@@ -95,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 推进了科学技术社会学（[[Science and Technology Studies|STS]]）与公共管理学的交叉融合，将边界组织、负责任研究与创新（RRI）确立为全球科技治理的主流概念工具。
 > - **方法路径** 开创了运用委托—代理模型和制度主义工具解构科学资助体制的经验实证分析[[Paradigm|范式]]。
 > - **政策路径** 其关于科研诚信与产出率两难困境的[[Analytic Framework|分析框架]]，被广泛应用于[[National Science Foundation|美国国家科学基金会]]（NSF）、国立卫生研究院（[[National Institutes of Health|NIH]]）等机构的伦理治理与项目绩效评估制度设计中。
@@ -115,8 +105,6 @@ updated: 2026-10-22
 > - **机构／运动／项目** [[National Science Foundation|美国国家科学基金会]]（NSF） — 担任伦理与社会影响评审顾问专家。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

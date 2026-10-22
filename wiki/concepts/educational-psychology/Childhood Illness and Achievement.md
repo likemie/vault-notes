@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Childhood Illness and Achievement
-
 > [!metax] [疾病 · Illness](https://www.visiblelearningmetax.com/influences/view/illness)
 > 学生 › 生理因素
 >

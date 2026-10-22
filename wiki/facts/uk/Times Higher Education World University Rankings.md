@@ -69,11 +69,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Times Higher Education World University Rankings
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 泰晤士高等教育世界大学排名（Times Higher Education World [[Global Universities Rankings|University Rankings]], THE）是英国《泰晤士高等教育》杂志创制的多维度全球综合性大学评估与位次排序体系，与中国[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）及英国 QS 世界大学排名共同奠定了全球高等教育竞争格局与跨国量化排位的基准。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2004–2009 年 — 创制初兴与 THES-QS 合作阶段**
 >   - 2004 年《泰晤士高等教育增刊》（THES）联合[[International Education|国际教育]]咨询机构 QS 发布首版世界大学排行榜（THES-QS World [[Global Universities Rankings|University Rankings]]），赋予学术同行声誉调查高达 50% 的加权比重，开创了声誉主观调查与客观文献计量相结合的全球排名模型。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
@@ -98,16 +92,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] [[OECD]] 启动 [[OECD AHELO Project|AHELO]] 对商业排名的批判定性
 > 经合组织公开批评泰晤士高等教育世界大学排名与[[Academic Ranking of World Universities|世界大学学术排名]]过度偏向科研投入与既得声誉，扭曲了大学本质，唯有高等教育学习成果评估能够提供聚焦教学质量与[[Learning Gain|增值评价]]的中立科学数据。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, p. 199)]]
 >
 > *OECD officials criticized commercial university [[Global Universities Rankings|league tables]] (such as the Times Higher Education and Shanghai rankings) for focusing on research reputational factors and institutional wealth rather than assessing actual undergraduate teaching quality and student learning gains.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **排名创制与商业推手** 《泰晤士高等教育》媒体集团及引文数据库提供商（Elsevier/Clarivate） — 依托声誉[[Questionnaire|问卷]]与大数据分析垄断全球大学卓越度评价定义权，将学术符号资本直接转化为商业咨询收益。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 801–802)]]
@@ -128,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **全球学术资本分层** 极大地强化了全球高等教育领域的[[Matthew Effect in Academia|学术马太效应]]，推动高校在[[Non-monetary Competition|非货币竞争]]中以排名名次作为声望通货。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 > - **高等教育机构策略异化** 迫使各国大学设立专门的排名称职办公室，按照指标权重精准优化师生比、高引成果数量与国际合作网络，加速了高等教育的[[Academic Capitalism|学术资本主义]]转型。
@@ -141,8 +129,6 @@ updated: 2026-10-22
 > - **展现学生跨境流动与学术排名的结构性脱节** 西班牙在 THE 榜单表现不佳，却成为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最大留学生目的地，实证证明了学生的跨国选择深受地缘气候与生活体验支配，与排名的科研声誉指标显著脱节。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

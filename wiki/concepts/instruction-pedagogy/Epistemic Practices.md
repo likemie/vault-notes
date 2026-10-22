@@ -75,8 +75,6 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Epistemic Practices
-
 ---
 
 ## 定义
@@ -230,8 +228,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
@@ -243,8 +239,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Epistemology\|认识论]]实践概念演进脉络
 > - **1980s–1990s — 科学实践研究兴起** 科学社会学、人类学与微观[[Ethnography\|人种志]]（如 Latour, 1987; Bazerman, 1988; Knorr Cetina, 1999）开启对行动中的科学（science-in-the-making）的实证考察，揭示实验室[[Discourse|话语]]协商、文本修改与仪器中介的[[Knowledge Building Theory|知识建构]]机制。
 > - **1990s–2000s — 认识论转向进入科学教育** 科学教育学者（如 Duschl, 2008; [[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）批判传统教学只教概念结论的弊病，将科学实践概念引入[[Lesson Study\|课堂研究]]，开始区分[[Formal Epistemology\|形式认识论]]与探究行动中的[[Practical Epistemology\|实践认识论]]。
@@ -252,8 +246,6 @@ updated: 2026-10-22
 > - **2020s 至今 — 融入[[Man-Computer Symbiosis|人机协同]]审议与多元文化认知资源** 认识论实践研究进一步拓展至[[Learning Progression\|学习进阶]]、跨学科迁移、多元文化背景学生的知晓方式（[[Funds of Knowledge]]），以及在[[Generative Artificial Intelligence|生成式人工智能]]环境下以多模态数字制品为中介的人机协同认识论实践（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论张力
 >
@@ -276,8 +268,6 @@ updated: 2026-10-22
 > 3. **跨领域实践能力的迁移范围尚缺乏充分实证** 学生在某一学科获得的证据评估能力能否有效迁移到其他领域，目前实证证据仍较有限（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, p. 160]]）。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 课堂[[Epistemology\|认识论]]实践微观质性实证研究（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

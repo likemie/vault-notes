@@ -46,11 +46,7 @@ created: 2026-07-04
 updated: 2026-10-22
 ---
 
-# Otto Neurath
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利哲学家、社会学家和经济学家（1882–1945），维也纳学派（Vienna Circle）核心成员，活跃于两次世界大战之间的欧洲学术和政治舞台。
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1913 — *Die Verirrten des Cartesius und das Auxiliarmotiv*** 讨论[[René Descartes\|笛卡尔]]的"迷路者"比喻——在森林中迷路的人无法从"绝对确定"的起点出发，只能在行进中不断修正方向。这一比喻成为纽拉特反基础主义的标志。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, p. 183)]]
 > - **1973 — *[[Empiricism]] and Sociology***（遗著集，Cohen 主编） 汇集纽拉特在社会学、经济学和科学统一性方面的主要论文。
@@ -82,9 +76,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 科学不应假装是[[Value Neutrality\|价值无涉]]的（VALUE-free），因为它在事实上并非如此。好的科学是将人从教条主义中解放出来的力量，但坏的科学可以变成它声称要取代的东西。承认科学不被价值无涉的原则所驱动，反而允许一种更加丰富但仍然[[Positivism\|实证主义]]的科学哲学——不完全决定性（underdetermination）不是科学的弱点，而是其优点：它允许价值观在竞争理论之间发挥作用，从而使进步的社会行动成为可能。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 
 > [!citation-card] 纽拉特原则的核心意象
@@ -109,8 +101,6 @@ updated: 2026-10-22
 > - **机构／运动** 维也纳学派（Vienna Circle / Wiener Kreis）— 纽拉特是该学派最政治化、最关注社会科学应用的核心成员。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

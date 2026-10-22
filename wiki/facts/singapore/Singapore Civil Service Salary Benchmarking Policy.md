@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Singapore Civil Service Salary Benchmarking Policy
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1994 年 10 月至 11 月由新加坡政府向国会提交《竞争性薪酬确保廉洁高效政府》（*Competitive Salaries for Competent & Honest Government: Benchmarks for Ministers & Senior Public Officers*）白皮书，经议会充分辩论后正式确立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
@@ -51,8 +47,6 @@ updated: 2026-10-22
 > - **制度位置** 将以往零散的薪酬调整升级为制度化、透明化且与私营市场顶尖行业收入对标的法定公式，奠定新加坡现代文官制度的基石。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 确立公共治理薪酬的市场基准对标原则，将内阁部长与高级文官的基本薪资直接挂钩于私营部门最高收入专业群体（金融、法律、工程、会计、跨国企业高管）的收入中位数折算比例，辅以严苛廉洁问责与结果绩效考评，实现以一流报酬招募一流治理精英。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
@@ -70,16 +64,12 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1994-11** 新加坡国会通过薪酬白皮书，[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew|Lee Kuan Yew]]）在议会发表历史性辩论，阐明公职竞争性薪酬的必要性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **2007** 随着私营高管薪酬上涨，新加坡部长平均年薪依据挂钩机制调整至 126 万美元，引发国际社会对公职激励机制的深度讨论。
 > - **2012** 新加坡政府设立独立委员会调整基准公式，适度降低挂钩比例并强化国民经济包容性增长指标，进一步优化考核结构。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 新加坡国会与新加坡内阁，负责立法授权与白皮书薪酬基准制定。
@@ -93,8 +83,6 @@ updated: 2026-10-22
 
 ---
 
-## 行动者与利益相关者
-
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
@@ -103,8 +91,6 @@ updated: 2026-10-22
 > | 议会反对党与部分公众 | 舆论监督 / 选民诉求 | 担忧公职演变为高薪特权阶层，要求强化民生关联 | 质疑审慎 | 推动设立独立审查委员会，增加包容性增长考核指标 |
 
 ---
-
-## 政策成效与实证评估
 
 > [!indicators] 评估指标体系
 > - **政府清廉与效能指数** 常年位居透明国际（Transparency International）与[[World Bank|世界银行]]全球前列。
@@ -119,8 +105,6 @@ updated: 2026-10-22
 > 新加坡部长平均年薪于 2007 年达到 126 万美元；国家清廉指数连续数十年稳居全球前五、亚洲第一。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 
 ---
-
-## 政策争鸣与局限
 
 > [!debates] 公职市场化薪酬与公共道德之争
 >

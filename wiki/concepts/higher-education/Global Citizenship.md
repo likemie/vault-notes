@@ -62,11 +62,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Global Citizenship
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 全球公民（Global Citizenship，在教育研究中常延伸为全球公民教育 GCED）在教育语境中不是一个法定的主权身份概念，而是一个关于能力、品质与责任维度的[[Analytic Framework\|分析框架]]。它界定了使个体在全球互联的世界中有效行动、理解多元文化、践行社会正义并关注全球共同议题（如生态可持续性）的一组[[21st Century Skills and Competencies Discourse\|核心素养]]。这一概念挑战了基于[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）的传统国民身份认同。 (引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 87]] 与 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
@@ -94,9 +90,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > 以下是基于 O'Brien (2011) 的三素养框架与 Spronken-Smith (2018) 补充后形成的核心要素 (引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 87]])：
 > - **数字素养（Digital Literacy）** 通过于多元媒介和信息通信技术与全球多元受众有效沟通、在虚拟跨国团队中协作并管理专业数字形象的能力。
 > - **文化素养（Cultural Literacy）** 对自我文化假设保持高度[[Reflexivity\|反思性]]（Reflexivity），以同理心接近差异，并在多元视角交汇处保持开放的姿态。
@@ -142,8 +136,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -158,8 +150,6 @@ updated: 2026-10-22
 > - **2022–2024 — 高教[[Graduate Attributes\|毕业生特质]]检视** Wong et al. 揭示英国本科高教特质的表面化修辞，Spronken-Smith et al. 将全球公民明确列为博士特质七域分类的独立维度，并通过[[Mixed Methods Research\|混合方法]]对 PhD 毕业生的实证数据进行了赤字确诊。([[Argument_Wong_2022_HERD\|Wong et al., 2022, p. 1347]]; [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 98–99]])
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议 (本争议整理自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 96]])
 >
@@ -181,8 +171,6 @@ updated: 2026-10-22
 > 概念在实证操作时，容易面临高影响力体验（如国际外展、非官方组织志愿服务）在“一切时间服从论文科研”这一学术霸权文化面前的系统性边缘化。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 97]])
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -52,11 +52,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Abraham Maslow
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国心理学家，人本主义心理学（Humanistic Psychology）核心奠基人与领军人物，曾任美国心理学会（APA）主席，第三势力心理学（Third Force Psychology）旗手。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1954 — *Motivation and Personality*** 系统提炼科学探究九大功能，奠定人类动机层次与自我实现心理学基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
 > - **1962 — *Toward a Psychology of Being*** 提出高峰体验（peak experience）与存在价值（B-values），开辟健康心理学新[[Paradigm\|范式]]。
@@ -85,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 科学探索是人类完整心智、价值追求与[[Creativity\|创造性]]潜能的崇高表达，绝不可被教条主义地窄化为冰冷、机械的数据收集或去人格化的统计检验技术。真正的科学涵盖从问题探寻、假说生成、事实检验、理论建构、历史积累，到工具开发、管理决策、公众启蒙，直至对未知宇宙的审美惊叹与精神庆典九重有机功能。科学研究者必须重拾科学探索的人文温度与内在价值追求。
 
 > [!citation-card] 马斯洛论科学探究的九大多元功能与人文精神
@@ -97,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **科学哲学路径** 有力瓦解了逻辑[[Positivism\|实证主义]]对“[[Scientific Method\|科学方法]]”的狭隘垄断，为科学探究注入了[[Problem Finding\|问题发现]]（Problem Finding）、[[Creativity\|创造性]]假说与价值关怀的广阔视野。
 > - **教育研究路径** 深刻启发了教育研究者重新审视教育探究的目的：教育研究不仅是测量学生分数的手段，更是促进全人成长、理解人性尊严与释放创造潜能的人本实践。
 > - **心理学[[Paradigm\|范式]]路径** 开辟了第三势力心理学，直接推动积极心理学与人本主义教育学的蓬勃兴起。
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > - **[[Epistemology\|认识论]]先驱** [[John Dewey]] — 继承杜威关于探究作为[[Reflexivity\|反思性]]实践与人类经验生动延展的哲学洞见。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

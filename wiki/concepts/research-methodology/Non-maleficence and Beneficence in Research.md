@@ -32,10 +32,6 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-# Non-maleficence and Beneficence in Research
-
-## 定义
-
 > [!def] 不伤害（Non-maleficence）
 > 不伤害原则源于希波克拉底誓言中的 primum non nocere（首先，不伤害），在[[Research Ethics\|研究伦理]]中意味着研究不应对参与者在身体、心理、情感、职业或个人等任何层面造成损害。这是一条黄金法则：**参与者研究结束时的状况不得比研究开始时更差（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 89–91]]）**。
 
@@ -48,10 +44,6 @@ updated: 2026-10-22
 > - **边界** 这两个原则不可相互抵消——行善不能证成不伤害的违反。也就是说，研究的重大收益不能用来合理化对参与者的伤害。
 
 ---
-
-## 核心要素
-
-### 不伤害
 
 > [!feature] 不伤害的操作含义
 > Aronson and Carlsmith (1969) 最初表达了[[Research Ethics\|研究伦理]]中的核心张力：社会对自由科学探究以追求真理和知识的信念，与社会对个体尊严的信念之间的紧张。Social Sciences and Humanities Research Council of Canada (1981) 的立场是：对物理、心理、人道、财产和文化价值的风险必须给予比对知识潜在贡献更大的考量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 89]]）。
@@ -79,8 +71,6 @@ updated: 2026-10-22
 >
 > 一般原则：研究者应避免两个极端——放弃研究和无视参与者权利。参与者的福利应始终被放在首位，即使这意味着妥协研究的影响力。
 
-### 行善
-
 > [!finding-cards] 行善的收益分配问题
 > 行善的核心困境不在于是否应当产生收益，而在于**谁受益（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 90–91]]）**
 >
@@ -91,8 +81,6 @@ updated: 2026-10-22
 > 核心伦理问题是：这项研究将为参与者和更广泛的社区做什么，而不仅仅是为研究者做什么？
 
 ---
-
-## 围绕概念形成的命题
 
 > [!claim] 不伤害超越功利主义成本/收益分析
 > 不伤害原则超越了成本/收益比的功利主义计算——它关注的是避免对参与者造成道德伤害的义务，而非仅仅计算净收益。尽管如此，不同伦理立场可能得出不同结论：道义论可能坚持绝对的不伤害，而后果论可能允许小伤害换取大收益（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 89–90]]）。

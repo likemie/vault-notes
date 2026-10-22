@@ -49,11 +49,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Robert E. Stake
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育评估理论家与[[Qualitative Research|质性研究]]方法论学者，伊利诺伊大学厄巴纳-香槟分校（University of Illinois at Urbana-Champaign）荣休教授，教育质量中心（Center for Instructional Research and Curriculum Evaluation, CIRCE）前主任。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1975 — *Evaluating the Arts in Education: A Responsive Approach*** 提出回应性评估框架，将评估对象从目标达成度转向利益相关者的关切与经验，确立了诠释性教育评估的早期范本。
 > - **1995 — *The Art of [[Case Study]] Research*** 系统建构案例研究的"艺术性"方法论，提出[[Naturalistic Generalization|自然主义概括]]概念；[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]将 Stake 与殷（Robert K. Yin）并列为[[Case Study|案例研究]]两大权威来源，并频繁在案例研究章节引用。（p.67）
@@ -88,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > [[Quantitative Research|量化研究]]与[[Qualitative Research|质性研究]]代表两种根本不同的[[Epistemology|认识论]]取向：前者追求[[Variable|变量]]控制与因果解释，以便对总体做出统计推断；后者致力于深入理解情境中万物之间的复杂交织关系，以[[Naturalistic Generalization|自然主义概括]]取代统计概括，让读者自行完成从案例到自身情境的认知迁移。[[Case Study|案例研究]]的核心价值不在于可推广的抽象命题，而在于通过案例[[Rich and Thick Description|深描]]使读者"感同身受"地认识特定情境的独特性与复杂性。
 
 > [!citation-card] 量化研究者追求解释与控制，质性研究者追求理解复杂交织关系
@@ -105,9 +97,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法论路径** 其[[Case Study|案例研究]]艺术性方法论与罗伯特·殷（Robert K. Yin）的系统化案例研究路径共同构成质性社会科学中最主流的两种案例[[Paradigm|研究范式]]，广泛影响了教育学、政策研究、护理学、组织管理学的质性探究设计。
 > - **[[Epistemology|认识论]]路径** [[Naturalistic Generalization|自然主义概括]]概念重构了[[Qualitative Research|质性研究]]的"推广"逻辑，使案例研究从方法论上摆脱了量化推断的"代表性样本"要求，确立了诠释性案例[[Rich and Thick Description|深描]]的独立合法性。
 > - **比较教育学路径** [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]在梳理比较教育学方法论议题时直接引用 Stake (1995) 的经典界定，将其作为量化/质性两种研究取向根本差异的权威表述，影响了比较教育学对方法论[[Pluralism|多元主义]]的理论反思。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]

@@ -48,11 +48,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Asch Conformity Experiment
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 阿施从众实验是 20 世纪社会心理学极具里程碑意义的经典实证研究，它打破了二战后西方社会自诩个人理性免疫于集体非理性的盲目神话，揭示了群体一致性压力对个体感官证据与客观事实判断的惊人侵蚀力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–132)]]
@@ -64,8 +60,6 @@ updated: 2026-10-22
 > - **制度伦理环境** 实验开展于无现代[[Institutional Review Board|机构审查委员会]]（IRB）行政限制的自由探索时代，允许采用高强度的[[Deception in Research|研究欺骗]]设计。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 132)]]
 
 ---
-
-## 实验设计与推进历程
 
 > [!dev-timeline] 实验实施与观察过程
 > - **视觉线段刺激呈现** 实验员向 8 人小组出示标准卡片：左侧为 1 条基准线段（Standard Line），右侧为标有 1、2、3 号的三条对比线段，要求每位参与者依次公开口头指出哪一条对比线与基准线等长。
@@ -84,8 +78,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键历史引述
-
 > [!citation-card] 阿施论孤独受试者的心理煎熬
 > 孤立的研究对象可能在其一生中首次面临这样一种情境：一个群体全体一致地反驳了他自身感官所获得的证据。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 131)]]
 >
@@ -93,16 +85,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!finding-cards] 关键科学与组织影响
 > 1. **证实从众的跨文化普遍性** 哥伦比亚大学心理学家霍华德·格鲁伯（Howard Gruber）指出，阿施实验无可辩驳地证实盲从群体压力并非特定国度或专制社会的特例，而是深植于全人类基因的普遍弱点。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–137)]]
 > 2. **启发[[Milgram Obedience Experiment|米尔格拉姆服从实验]]** 阿施的同谋欺骗[[Paradigm|范式]]直接启发了其学生[[Stanley Milgram|斯坦利·米尔格拉姆]]开展更为激进的权威服从实验，开创了战后社会心理学的黄金时代。
 > 3. **奠定[[Engineering Mindset|工程思维]]的反从众微观根基** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]论证指出，群体从众虽利于原始部落生存，却对前沿科技创新具有毁灭性；硅谷与[[Palantir Technologies|帕兰提尔]]践行的[[Engineering Mindset|工程思维]]，其本质在于构建能制度化包容[[Constructive Disobedience|建设性不服从]]与[[Social Deafness|社交失聪]]的组织微观生态。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 围绕实验[[Paradigm|范式]]的理论争议
 >

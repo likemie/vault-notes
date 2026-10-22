@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Academic Anxiety
-
 > [!metax] [焦虑 · Anxiety](https://www.visiblelearningmetax.com/influences/view/anxiety)
 > 学生 › 情绪
 >

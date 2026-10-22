@@ -30,9 +30,6 @@ status: draft
 created: 2026-07-20
 updated: 2026-10-22
 ---
-# Semantic Differential
-
-## 定义
 
 > [!def] 语义差异量表（Semantic Differential）
 > 语义差异量表是[[Rating Scale\|评定量表]]的一种变体，将一个形容词放在量表的一端，其反义词放在另一端（如 useful ←→ useless）。受访者通过在量表上最能代表其感受的位置画圈或做标记来表达意见。该技术由 Osgood、Suci and Tannenbaum 于 1957 年开发（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 129–130]]）。
@@ -48,8 +45,6 @@ updated: 2026-10-22
 > *Osgood et al. (1957), the pioneers of this technique, suggest that semantic differential scales are useful in three contexts: evaluative (e.g. valuable–valueless, useful–useless, good–bad); potency (e.g. large–small, weak–strong, light–heavy); and activity (e.g. quick–slow; active–passive, dynamic–lethargic).*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 语义差异量表与[[Likert Scale\|李克特量表]]的对比
 > | 维度 | 语义差异量表 | [[Likert Scale\|李克特量表]] |
@@ -67,8 +62,6 @@ updated: 2026-10-22
 > - 共享[[Rating Scale\|评定量表]]的全部局限 — 包括类别间无等距假设、数字含义因人而异、左侧偏差等。
 
 ---
-
-## 核心要素
 
 > [!dimension] 语义差异量表的三个评估维度（Osgood et al., 1957）
 > - **评价性（Evaluative）**

@@ -56,11 +56,7 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-# Herbert A. Simon
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 赫伯特·A.西蒙（Herbert A. Simon, 1916–2001）是美国政治科学家、经济学家、认知心理学家与计算机科学家，卡内基梅隆大学（Carnegie Mellon University）教授，1978 年诺贝尔经济学奖与 1975 年图灵奖得主。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1940s–1950s — 组织行为与[[Bounded Rationality|有限理性]]奠基** 批判新古典经济学关于全知全能“经济人”与效用最大化的假设，提出人类在面对复杂环境时受制于注意力、记忆与计算能力，只能追求“令人满意的解”（Satisficing）而非“最优解”。
 >   - **代表著作** *Administrative Behavior* (1947); *Organizations* (1958, with James G. March)。
@@ -104,9 +98,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 人类决策者并非具备无限信息处理能力的完全理性经济人，而是在认知资源、信息不完整与时间匮乏多重约束下的[[Bounded Rationality|有限理性]]主体。在复杂实践系统中，行动者只能通过启发式搜索寻求满意解，并依赖环境反馈持续修正。人类认知与数字计算机在本质上均属于物理符号系统，能够通过符号操作模拟人类的高阶智力行为与逻辑推理。
 
 > [!citation-card] 有限理性与人类决策的满意原则
@@ -121,9 +113,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开创行为经济学与组织社会学，彻底动摇了古典完全竞争与理性选择[[Paradigm|范式]]；奠定了现代认知科学与信息加工心理学的理论范式。
 > - **方法与工程路径** 与纽厄尔共同确立符号 AI 的启发式搜索方法，成为早期专家系统与自动定理证明的核心技术基石。
 > - **教育与专业实践路径** 其[[Bounded Rationality|有限理性]]概念被当代教育学者（如 Qvortrup）引入[[Didaktik|教学理论]]，用于解释教学情境的高复杂度与教师[[Professional Judgment|专业判断]]的理性赤字，论证教学必须依赖形成性反馈与[[Reflexivity|反思性]]调整。
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 回顾西蒙在达特茅斯研讨会后对机器智力替代人类工作的著名预测，作为 20 世纪下半叶计算先驱早期技术自信与预言提前的历史透镜。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Karp & Zamiska论计算先驱的历史乐观与技术周期
 > 自 1956 年[[Dartmouth Summer Research Project on Artificial Intelligence|达特茅斯会议]]确立人工智能概念以来，以赫伯特·西蒙为代表的顶尖学者便做出了极其自信的预测。尽管这些预言在当时被证明是过早的，但它们反映了计算先驱对机器逻辑演进潜力的坚定信念，构成了现代[[Generative Artificial Intelligence|生成式人工智能]]爆发前漫长的认知蓄势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 25–26)]]
@@ -151,8 +139,6 @@ updated: 2026-10-22
 > - **关键历史会议** [[Dartmouth Summer Research Project on Artificial Intelligence]] — 1956 年历史性会议的核心参与者与早期成果展示者。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

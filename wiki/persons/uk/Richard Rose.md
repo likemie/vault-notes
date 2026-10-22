@@ -46,11 +46,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Richard Rose
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较政治学家（1933–2019），英国格拉斯哥斯特拉斯克莱德大学（University of Strathclyde）政治学荣誉教授，曾任英国政治研究学会主席（1976–1979）。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960–1970 年代 — 英国政党政治与选举行为比较** 早期研究聚焦英国选举制度、政党组织与政府行为，代表作《选举行为》（*Electoral Behavior*，1974）与《管理：英国的政治》（*Managing Presidential Objectives*）奠定比较政府学基础。
 >   - **关键概念** Comparative Government、Electoral Studies。
@@ -89,8 +83,6 @@ updated: 2026-10-22
 >   - **关键概念** Policy Failure in Transfer、Misfit in Lesson-Drawing、External Referencing。
 
 ---
-
-## 核心思想
 
 > [!claim] 经验汲取的类型学：从复制到启发
 > 罗斯系统区分了政策经验汲取的五种路径，揭示跨国政策移植并非单一同质过程而是存在从刚性到柔性的连续谱系：

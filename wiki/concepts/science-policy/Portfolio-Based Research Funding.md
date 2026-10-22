@@ -68,11 +68,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Portfolio-Based Research Funding
-
 ---
-
-## 概念总览与核心界定
 
 > [!def] 核心界定
 > **组合式科研资助（Portfolio-Based Research Funding / Portfolio Approach to Grantmaking）** 是指国家科技管理与研发资助机构打破基于学科面板和单一共识评审的增量拨款惯性，将公共科研经费视为包含异质风险轮廓、资助对象、组织实体与选拔机制的战略投资组合进行主动构建、动态调整与实证评估的科研治理[[Paradigm|范式]]。该框架要求资助机构承担“战略资本配置者”职能，系统协调高风险颠覆性探索与渐进式应用攻关，并在政策机制上实现从“单一项目申请评审”向“多工具、多主体组合配置”的根本转型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–32)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > | **基础与应用权衡** | 僵守线性模型，基础与开发预算机械割裂 | 依托[[Pasteur's Quadrant\|巴斯德象限]]，动态平衡双重驱动与纯好奇探索 |
 
 ---
-
-## 核心要素与运作维度
 
 > [!feature] 组合式科研资助的五大核心要素
 > - **多元化机制菜单（Mechanisms Menu Diversity）** 打破单一共识打分制，引入[[Heterogeneity|异质性]]选拔机制：赋予单名专家否决共识特权的“[[Golden Ticket Mechanism|金券机制]]”、支持长周期自由探索的“对人资助”（People-Not-Projects）、48 小时极速审批的“快速资助通道”（[[Fast Grants]]）、事后为成果买单的“[[Pull Mechanisms for Innovation|拉动机制]]”（悬赏奖金与[[Advance Market Commitments|高级市场承诺]] [[Academic Medical Center|AMC]]），以及赋予博士生自主权的“可携带奖学金”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–30)]]
@@ -137,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据与典型案例
-
 > [!ref-table]- 组合式科研资助实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -156,8 +148,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 组合式科研资助核心命题归纳
 > | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
@@ -166,8 +156,6 @@ updated: 2026-10-22
 > | **机制设计** | **多元选拔与[[Metascience\|元科学]]实验确证** | 引入金券、对人资助与[[Pull Mechanisms for Innovation\|拉动机制]]，依托元科学[[Randomised Controlled Trials\|随机对照实验]]实现机制自我纠错 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 
 ---
-
-## 概念演变历程
 
 > [!dev-timeline] 科研资助治理与组合[[Paradigm|范式]]的演变脉络
 > - **1945 — [[Science, The Endless Frontier 1945|布什报告]]奠定联邦公共资助基石与单向线性模式** 《[[Science, The Endless Frontier 1945|布什报告]]》确立政府出资基础科学以充实国家知识池的公共品契约，但预设了基础研究专属于大学、开发专属于企业的单向分工。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–3)]]
@@ -178,8 +166,6 @@ updated: 2026-10-22
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》确立国家组合式科研资助战略** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）主持起草报告，正式提出构建涵盖多元工具、新型组织（如 [[Focused Research Organization|FRO]]）、巴斯德象限与[[Metascience|元科学]] RCT 的国家组合式科研资助战略，并纳入 2028 财年预算强制合规科目。
 
 ---
-
-## 争议与学术交锋
 
 > [!debates] 资助治理学术争鸣
 >

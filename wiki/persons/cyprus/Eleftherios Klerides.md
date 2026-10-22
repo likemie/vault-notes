@@ -52,11 +52,7 @@ created: 2026-07-04
 updated: 2026-10-22
 ---
 
-# Eleftherios Klerides
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 塞浦路斯比较教育与教育史学者，塞浦路斯大学（University of Cyprus）副教授。曾任[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe，CESE）秘书长。
@@ -72,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育的[[Knowledge Production\|知识生产]]与议程设置在本质上是国际关系（International Relations，IR）变迁的函数。通过马丁·怀特（Martin Wight）的国际理论三大传统，可以清晰解构比较教育的三种历史形态：现实主义（教育作为国家生存与竞争的工具，驱动政策掠夺与评测竞争）、理性主义（教育作为促进国际规则、相互理解与治理合作的工具）和[[Revolutionism\|革命主义]]（教育作为挑战国家权力、追求人类全球正义与知识去殖民化的工具）。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 419–422)]]
 
 > [!citation-card] 经典表述：三大传统与学科重组
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > - **合作者** Stephen Carney — 共同担任 2018 塞浦路斯会议组织者，探讨教育全球化中的身份碎片化问题。
 
 ---
-
-## 争议与批评
 
 > [!warning] 未解问题与边界
 > - **宏观结构解释的简化风险** 尽管怀特的三大传统为解构比较[[Politicity of Education|教育的政治性]]提供了极强的解释力，但有学者指出，这种高度宏观的[[Geopolitics|地缘政治分析]]可能在一定程度上简化了国家内部微观政策行动者（如教师、课程设计者）在面对外部转移时的能动性与杂糅式创造。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 431)]]

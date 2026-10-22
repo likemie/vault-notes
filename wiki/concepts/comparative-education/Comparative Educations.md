@@ -62,11 +62,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Comparative Educations
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > “复数比较教育学”（Comparative Educations）是指 1970 年代中叶以降，伴随二战[[Postpositivism\|后实证主义]]“全包容[[Scientific Paradigm\|科学范式]]”（all-embracing scientific [[Paradigm]]）在政策治理现实、自然科学[[Epistemology\|认识论]]与跨学科学术思潮中的三重解体，比较教育学终结了由单一实证量化与功能主义垄断正统[[Discourse|话语]]的单数时代，演进为由多种理论流派、认识论传统与“真理体制”（regimes of truth）并存竞争的复数化、多极化学科格局。（Cowen, 2000; Altbach, 1991; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]）
@@ -95,8 +91,6 @@ updated: 2026-10-22
 > | **学科定位** | 承认多元真理体制（regimes of truth）与方法[[Pluralism\|多元主义]]的后实证学科常态。 | [[Positivism\|实证主义]]全盛期对“硬科学”属性与政策工具效用的单向度追求。 | 学科史研究中把握问题意识变迁与历史分期的解释透镜。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 单一全包容[[Paradigm\|范式]]衰落与复数化演进的三重机制
 > - **现实治理承诺的全面破灭** 实证科学规划与量化技术曾许诺带来社会公正、阶层流动、持续经济增长并消除不发达，但 1970 年代西方经济滞胀与第三世界危机的冷酷现实粉碎了这些保证，证明实证科学规划方案并非万无一失（Husén, 1982; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, p. 68]]）。
@@ -156,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -173,8 +165,6 @@ updated: 2026-10-22
 > - **21 世纪 — [[Spatial Sortings\|空间分化]]与双重延续** 一方面，政策治理领域以 [[IEA]] [[TIMSS]] 和 [[OECD]] [[PISA]] 为代表的跨国量化测评作为统治借口继续巩固；另一方面，学术共同体内部的复数真理体制与批判反思更加繁盛，确立了不可逆的复数性格局。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

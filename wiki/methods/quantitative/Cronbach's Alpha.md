@@ -56,11 +56,7 @@ created: 2026-08-29
 updated: 2026-10-22
 ---
 
-# Cronbach's Alpha
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **克隆巴赫 $\alpha$ 系数（Cronbach's Alpha）** 是[[Classical Test Theory\|经典测量理论]]（CTT）框架下评估多题项复合测量工具[[Internal Consistency\|内部一致性]][[Reliability\|信度]]（Internal Consistency Reliability）最通用的量化指标。它通过计算测验中所有可能折半[[Composite Reliability\|组合信度]]的均值，度量同一量表（或分量表）内各个题项在多大程度上共同测量同一个潜在[[Construct\|构念]]，从而估计由题项抽样变异所引起的测量误差比例。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 310–312)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 建立在[[Classical Test Theory\|经典测量理论]]的真分数模型（$X = T + E$）之上，假定观测分数的方差由真实方差与随机误差方差加和构成，[[Internal Consistency\|内部一致性]]反映真分数方差占总方差的比例。
 > - **研究者角色** 研究者需在计算 $\alpha$ 之前验证量表的单维性（Unidimensionality），并审慎评估题项数量对 $\alpha$ 值的机械膨胀效应。
@@ -93,10 +87,6 @@ updated: 2026-10-22
 > - **辅助技术** McDonald's $\omega$ 对比验证、[[Split-Half Reliability\|折半信度]]对比、删除题项后的 $\alpha$ 诊断。
 
 ---
-
-## 研究程序与数学原理
-
-### 量化分析与公式推导
 
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** $N$ 名被试在 $k$ 个题项上的作答矩阵（$N \times k$），总分 $X = \sum_{i=1}^k Y_i$。
@@ -133,8 +123,6 @@ updated: 2026-10-22
 
 ---
 
-## 分析流程与应用
-
 > [!proc]- 量表[[Reliability\|信度]]检验标准流程
 > ```mermaid
 > flowchart LR
@@ -162,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-## 局限性与现代替代
-
 > [!method-limits] 方法局限与现代心理测量学批判
 > - **本质 $\tau$-等值假设过于苛刻** 现实教育测评中，各题项在潜[[Variable\|变量]]上的因子载荷几乎不可能完全相等。当载荷不等（Congeneric Model）时，$\alpha$ 会**系统性低估真实[[Reliability\|信度]]（Underestimation）**。
 > - **题项数量膨胀虚假信度** $\alpha$ 对题项数 $k$ 极其敏感。一份包含 50 题的粗糙[[Questionnaire\|问卷]]可能因为题数众多而呈现 $\alpha > .90$，掩盖个别题项相关微弱的事实。
@@ -181,8 +167,6 @@ updated: 2026-10-22
 > | [[Classical Test Theory]] | 理论基础 | 提供真分数、误差方差与信度比率的数理公理体系。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在[[Research Literacy Scale for Teachers\|教师研究素养量表]]开发中，报告 20 题 RLS 总量表 Cronbach's $\alpha = .94$，4 个分维度 $\alpha$ 介于 $.83 \sim .90$，矫正题总相关介于 $.48 \sim .72$。

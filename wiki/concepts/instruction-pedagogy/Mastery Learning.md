@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Mastery Learning
-
 > [!metax] [掌握学习 · Mastery learning](https://www.visiblelearningmetax.com/influences/view/mastery_learning)
 > 教学策略 › 学习意图
 >

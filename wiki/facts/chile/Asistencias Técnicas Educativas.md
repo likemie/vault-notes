@@ -52,11 +52,7 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Asistencias Técnicas Educativas
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > [[Asistencias Técnicas Educativas|智利外部技术教育支持机构]]（Asistencias Técnicas Educativas, [[Advanced Technological Education|ATE]]）是[[New Public Management|新公共管理]]市场化体制下通过公共财政购买私立专业服务的典型制度设计，旨在通过引入外部多元专业机构协助薄弱学校制定与实施学校改进计划。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259–260)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **核心问题导向** 应对基础薄弱学校在面对国家教育质量测量体系（[[SIMCE]]）统考排位与问责评级时校内专业指导能力匮乏的困境。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256, 259)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 政策预设通过开放外部教育服务市场，学校管理者能够依据校本薄弱环节自主选聘具备专业资质的外部顾问团队，借助外包咨询与精准培训有效改善教学管理并达成国家绩效目标。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 259)]]
@@ -87,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2008–2011 — 市场初创与规模激增期** 随着 SEP 法律生效与专项资金下达，私立咨询公司、大学基金会与非营利组织大量涌入，全智利登记在册的 [[Advanced Technological Education|ATE]] 机构迅速突破千家，形成了高度竞争的学校改进买方市场。
 > - **2011–2015 — 质量规制与准入收紧期** 针对服务质量良莠不齐、合同虚高套现等乱象，智利教育部逐步建立针对 ATE 机构的服务成效认证与续期考核机制。
 > - **2015–至今 — 制度化共生与利益锁定** ATE 服务商与国家测评问责体制紧密嵌合，发展为常态化的教育治理利益相关主体，阻断了对过度测验问责政策的体制退出。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 259–260)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **智利教育部（MINEDUC）** 制定 [[Advanced Technological Education|ATE]] 准入资格标准，运营官方认证数据库，监督公帑专款专用。
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - **问责压力下的应急采购驱动** 学校在面临连续未达标即被关闭接管的强高利害威胁时，往往将 ATE 作为外包转嫁办学压力的应急手段。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 学校 SEP 资金中分配给外部 [[Advanced Technological Education|ATE]] 采购的预算比例。
@@ -128,8 +116,6 @@ updated: 2026-10-22
 > - **1000+** 智利教育部登记在册的[[Asistencias Técnicas Educativas|外部技术教育支持机构]]数量峰值。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

@@ -39,11 +39,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Rob Henderson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代社会学者、专栏作家、心理学研究者，剑桥大学实验心理学博士，耶鲁大学学士，曾服役于美国空军。
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2019 至今 — [[Luxury Belief|炫耀性信念]]与新[[Cultural Capital|文化资本]]阶层论** 结合托斯丹·凡勃伦（Thorstein Veblen）《有闲阶级论》与当代阶层分化现实，论证在物质消费品日益丰裕普及的时代，高阶层转而利用代价不对称的意识形态观念作为划分社会等级的新型象征资本。
 >   - **代表著作** " 'Luxury Beliefs' Are the Latest Status Symbol for Rich Americans" (2019); *Troubled: A Memoir of Foster Care, Family, and Social Class* (2024)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 177)]]
@@ -71,9 +65,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 罗伯·亨德森指出，随着工业制造使得名牌服饰等传统物质财富的排他性辨识度下降，受过高等教育的富裕阶层转向通过宣扬特定激进思想与文化立场来彰显自身教养与特权。这些“[[Luxury Belief|炫耀性信念]]”（如主张削减警察经费、抵制在治安中应用前沿软件或解构传统家庭结构）由特权阶层倡导，因为他们拥有雄厚的财富与社会资本足以对冲潜在风险；然而，当这些信念转化为公共政策时，其实际破坏性代价却几乎完全由缺乏安全屏障的底层贫困群体承担。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 
 > [!citation-card] 亨德森论炫耀性信念作为特权阶级的新型身份标签

@@ -41,11 +41,7 @@ created: 2026-06-01
 updated: 2026-10-16
 ---
 
-# Test-Retest Reliability
-
 ---
-
-## 定义
 
 > [!def] 重测[[Reliability\|信度]]（Test-Retest Reliability）
 > 重测信度是使用同一测量工具在不同时间重复测量结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。它回答的问题是：量表在重复施测间是否合理稳定？例如，一组受试者在时间点 1 完成 Perceived Stress Scale（PSS），一个月后再次完成同一量表——两次得分是否具有可比性？（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）
@@ -61,10 +57,6 @@ updated: 2026-10-16
 > *This form of reliability concerns whether the scale is reasonably stable over time with repeated administrations (e.g., is there a comparable score on the PSS taken by a group of participants at time 1 and then one month later?).*
 
 ---
-
-## 核心要素
-
-### 评估逻辑
 
 > [!proc] 重测[[Reliability\|信度]]评估四步骤
 > 1. **首次施测** 在时间点 1 对一组受试者施测目标量表
@@ -97,8 +89,6 @@ updated: 2026-10-16
 
 ---
 
-### 适用条件
-
 > [!info] 适用范围与注意事项
 > 重测信度一般适用于**事实性的[[Questionnaire\|问卷调查]]**，或不易受环境影响的**态度、意识等主观状况**。但它易受某些活动的影响，因此时间间隔不宜过长。选择适当的时间间隔需要基于对[[Construct\|构念]]稳定性的理论理解：间隔过短可能受记忆效应影响（受试者记住前次回答），间隔过长可能反映构念本身的真实变化而非测量不稳定（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）。
 
@@ -106,8 +96,6 @@ updated: 2026-10-16
 > Perceived Stress Scale（PSS; Cohen et al., 1983）在很多已发表报告中具有良好的[[Internal Consistency\|内部一致性]]（α = .84–.86），同时研究者也可以评估其重测信度——即 PSS 在间隔一个月后重复施测时是否产生稳定的知觉压力估计值。这一信息有助于判断 PSS 是适合评估长期压力水平（高重测信度）还是对近期事件更敏感（低重测信度）（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 重测[[Reliability\|信度]] vs [[Internal Consistency\|内部一致性]] vs [[Inter-Rater Reliability\|评分者间信度]]
 > | 维度 | 重测信度 | [[Internal Consistency\|内部一致性]] | [[Inter-Rater Reliability\|评分者间信度]] |
@@ -118,8 +106,6 @@ updated: 2026-10-16
 > | 计算方式 | Pearson 积矩相关系数 | Cronbach α、Spearman-Brown 等 | Pearson 或 Kendall/Spearman 等级相关系数 |
 
 ---
-
-## 争议与批评
 
 > [!warning] 注意事项
 > - **时间间隔的选择** 重测[[Reliability\|信度]]的高低取决于两次施测之间的时间间隔。间隔过短可能受记忆效应影响，间隔过长可能反映[[Construct\|构念]]本身的真实变化。常用适当间隔为两星期到一个月之间（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。

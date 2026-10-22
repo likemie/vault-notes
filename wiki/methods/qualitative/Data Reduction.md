@@ -58,11 +58,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Data Reduction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 数据缩减（Data Reduction）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]中与[[Data Display\|数据展示]]、结论得出/验证并行的三大核心分析流之一，指在整个研究生命周期中对质性[[Field Notes\|田野笔记]]、访谈[[Transcription in Qualitative Research\|转录]]稿或其他书面材料进行选择、聚焦、简化、抽象与转化的持续过程。质性数据体量庞大且具有非结构化特征，极易引发数据过载（data overload）危机；数据缩减并非在收集结束后才独立发生的机械删减，而是从研究设计阶段即已启动，并通过单位化（unitizing）、[[Open Coding\|开放编码]]、层级归并、备忘录撰写以及[[Data Display\|数据展示]]贯穿始终的质性提炼机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 数据缩减 vs 相关质性分析概念
 > | 维度 | 本概念（Data Reduction） | [[Winnowing\|数据筛选（Winnowing）]] | [[Coding in Qualitative Research\|质性编码（Coding）]] |
 > |---|---|---|---|
@@ -94,8 +88,6 @@ updated: 2026-10-22
 > | 方法论归属 | Miles & Huberman 交互分析流模型 | Creswell 质性分析螺旋进路 | [[Grounded Theory\|扎根理论]]与通用[[Qualitative Content Analysis\|质性内容分析]]基本技术 |
 
 ---
-
-## 核心要素
 
 > [!feature] 数据缩减的四大演进要素
 > - **前期预缩减（Anticipatory Reduction）** 在数据收集前即已自发启动，通过[[Research Question\|研究问题]]选定、概念框架确立、个案与抽样边界界定、[[Interview Protocol\|访谈提纲]]编制等先验决策，对潜在数据范围施加首次结构性缩减。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -163,8 +153,6 @@ updated: 2026-10-22
 > - **2011 — 教育研究多[[Meta-analysis\|元分析]]体系的整合** Cohen、Manion & Morrison 将数据缩减与矩阵展示、[[Content Analysis\|内容分析]]11步流程深度整合，以学校教育中的大量实证案例系统示范了质性数据缩减的[[Operationalization\|操作化]]路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

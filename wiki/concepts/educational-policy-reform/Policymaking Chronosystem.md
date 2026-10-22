@@ -54,11 +54,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Policymaking Chronosystem
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 政策制定时间系统（Policymaking Chronosystem）指由社会历史情境、重大关键突发事件与制度周期共同塑造的政策演进时间生态。该概念借用[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]（Urie Bronfenbrenner）与斯蒂芬·J·塞西（Stephen J. Ceci, 1994）在[[Ecological Systems Theory\|生态系统理论]]模型中提出的历时系统（chronosystem）构想，强调政策制定并非在无菌的真空环境中展开，而是处于由历史时机与文化空间交织作用的动态演变之中，政策的稳定性与变革性始终受到外部宏观事件的节律支配。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 政策制定时间系统 vs. 线性理性政策模型 vs. 多源流机会之窗
 > | 维度 | 政策制定时间系统（Policymaking Chronosystem） | 线性理性模型（Linear Rational Model） | 多源流机会之窗（[[Policy Window\|policy windows]]） |
 > |---|---|---|---|
@@ -92,8 +86,6 @@ updated: 2026-10-22
 > | **[[Academic Engagement\|学术参与]]逻辑** | 前置布局立法日历 ＋ 敏捷团队即刻响应突发索求 | 撰写详尽终结报告，等待决策层按部就班采纳 | 长期扮演[[Policy Entrepreneur\|政策企业家]]（Policy Entrepreneur）伺机推销 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **显著突发事件激活（Salient Event Activation）** 政策议程往往由极端社会事件（如桑迪胡克小学枪击惨案、卡特里娜飓风）瞬间点燃，打破原有常态议题排期，激发出公众与媒体要求立即行动的强大政治压力。
@@ -157,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论断言 | 解释机制 | 政策与实践意涵 | 代表学者 |
 > |---|---|---|---|---|
@@ -168,8 +158,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 时间系统概念在政策研究中的演化脉络
 > - **1994 — 生物生态学历时系统理论提出** [[Urie Bronfenbrenner\|布朗芬布伦纳]]与塞西（Bronfenbrenner & Ceci, 1994）在人类发展模型中确立历时系统（Chronosystem），阐明社会历史条件与生命历程突发事件对个体成长的决定性塑造。
 > - **1984 / 2003 — 政策议程多源流与机会之窗** 金登（Kingdon）提出[[Policy Window|政策之窗]]理论，揭示政策偶发性与政治时机对议程设置的驱动，为政策时间维度的非线性思考奠定基石。
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > - **2020 — 政策制定时间系统理论化确立** 塞佩尔（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]）正式将生物生态学时间系统引介至教育政策与[[Output-Oriented Governance\|循证治理]]领域，系统论证政策时间生态对证据利用的制约，提出兼顾法定重新授权与突发事件的[[Navigational Framework for Educational Researchers\|政策导航框架]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

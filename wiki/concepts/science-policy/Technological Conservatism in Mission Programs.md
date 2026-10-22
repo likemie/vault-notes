@@ -49,11 +49,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Technological Conservatism in Mission Programs
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **使命项目中的技术保守主义（Technological Conservatism in Mission Programs / 保守型选型与前沿加速悖论）** 是指在实施国家重大科技工程（如载人航天与重大战略防御工程）过程中，项目管理当局为规避灾难性系统故障与生命安全风险，在核心飞行或关键任务装备中严格坚持选用已充分验证其成熟度与高[[Reliability|可靠性]]的元器件（Conservative Component Selection），但整个工程任务在重量、体积、功耗与环境耐受度等方面的极端物理约束，又在客观上迫使外围工业界加速攻克最前沿元器件与制造工艺的组织行为与技术治理张力机制。该机制由[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）在剖析[[Apollo Program|阿波罗计划]]（Apollo Program）等重大空间项目的技术影响时系统提出。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–17)]]
@@ -76,8 +72,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 关键任务飞行选型与关联研制平台行为辨析
 > | 维度 | 关键飞行与核心执行系统（Flight Systems） | 关联研制平台与地面制导系统（R&D & Ground Guidance） |
 > |---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 > | **技术溢出机制** | 确立极端环境下的行业[[Demonstration Effect\|示范效应]]。 | 提供大规模研发合同与[[Assured Demand\|确定性需求]]拉动。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 技术保守性与前沿加速悖论的三大机制要素
 > - **灾难性风险规避与[[Reliability|可靠性]]锁定（Catastrophic Risk Aversion）** 载人航天与国家战略预警任务的超高风险属性，导致项目决策层对飞行航电系统实施严格的成熟技术白名单制度，防止早期未经充分老化的前沿器件引发灾难性系统瘫痪。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–15)]]
@@ -111,16 +103,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1960s — 阿波罗与冷战导弹工程实践** [[National Aeronautics and Space Administration|NASA]] 与美国空军在管理阿波罗与民兵导弹项目中形成系统的元器件高可靠筛选规程（MIL-STD）。
 > - **1978 年 — [[Jerome E. Schnee|施尼]]正式提出技术保守性与加速张力命题** 施尼（[[Argument_Schnee_1978_RP|Schnee, 1978]]）通过半导体器件在载人航天中的选型案例，系统理论化了该组织悖论。
 > - **2010s–至今 — 复杂系统与使命导向治理中的反思** [[Evolutionary Economics|演化经济学]]与科技政策学者将该悖论拓展至大型能源脱碳与深空探测工程，指导重大公共任务中的技术组合风险管理。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

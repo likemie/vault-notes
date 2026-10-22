@@ -45,11 +45,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Threshold Hypothesis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Threshold Hypothesis\|智力门槛假说]]（Threshold [[Hypothesis]]，亦称[[Creativity\|创造力]]门槛假说或智力-创造力门槛假说）是由吉尔福德（Guilford, 1967）与托兰斯（Torrance, 1974）提出并经后续实证检验的经典心理学假说。该假说主张**基础智力是创造力的必要非[[Necessary and Sufficient Conditions\|充分条件]]：** 在智商（Intelligence Quotient, IQ）低于某一临界门槛（传统经验设定为 $\text{IQ} \approx 120$）时，智力与[[Creativity\|创造力]]呈显著中高程度正相关；一旦智力跨越该门槛，智力水平对创造潜能的约束解除，两者的相关性显著减弱甚至趋近于零（Karwowski et al., 2021; Weiss & Steger, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 4, 8]]）。
@@ -70,8 +66,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 门槛假说 vs 线性[[Determinism\|决定论]] vs [[Necessary and Sufficient Conditions\|必要条件]]分析法
 > | 比较维度 | 智力门槛假说（Threshold [[Hypothesis]]） | 线性相关决定论（Linear Model） | 必要条件分析法（Necessary Condition Analysis, NCA） |
 > |---|---|---|---|
@@ -82,8 +76,6 @@ updated: 2026-10-16
 > | **教育选拔启示** | 达到基础智力门槛后，应重点考察动机与[[Divergent Thinking\|发散思维]] | 盲目按智商分数从高到低单向淘汰 | 智力作为底线门槛，综合评估外认知特质 |
 
 ---
-
-## 核心要素
 
 > [!feature] 门槛假说的三大核心表征
 > - **临界门槛参数（Threshold Point, $T$）** 认知资源对[[Divergent Thinking\|发散思维]]形成约束与解除约束的转折点，传统研究常定位在 $1.33$ 个标准差处（即 $\text{IQ} \approx 120$）。
@@ -123,8 +115,6 @@ updated: 2026-10-16
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -133,15 +123,11 @@ updated: 2026-10-16
 
 ---
 
-## 理论与实证争鸣
-
 > [!tension] 门槛存在性之争：分段断裂 vs 连续曲线 vs 测量伪差
 > - **支持门槛立场** Karwowski et al. (2016, 2021) 运用[[Necessary and Sufficient Conditions\|必要条件]]分析（NCA）和分段回归，在大样本数据库中验证了 $IQ \approx 115 \sim 120$ 处的斜率断裂，支持非线性门槛模型。
 > - **质疑门槛立场** Weiss and Steger (2021) 与 Kim (2005) 指出，部分研究中观察到的相关性减弱源于高智商群体的**分量表范围限制（[[Floor and Ceiling Effects\|range restriction]]）** 或测验天花板效应，认为两者在本质上是平滑的微弱连续正相关，而非刚性断裂。
 
 ---
-
-## 元分析实证整合
 
 > [!ma-table]- 智力与[[Creativity\|创造力]]关系及门槛假说相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

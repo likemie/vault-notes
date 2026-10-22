@@ -66,11 +66,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Jarl Bengtsson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 瑞典教育学者、[[OECD\|经合组织]]（OECD）资深高级国际公务员，[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）长达三十一年的核心项目主管与事实领袖（1971–2002）。
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1971–1979 — 北欧福利国家[[Paradigm\|范式]]与“循环教育”理想** 试图在冷战技术官僚规划之外建立以公民自我实现、工作-休闲交替与教育公平为导向的[[Lifelong Learning\|终身学习]]人文主义构想。
 >   - **代表著作** *Recurrent Education: A Strategy for Lifelong Learning* (OECD/CERI, 1973)。
@@ -116,9 +110,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 跨国教育治理的权威并不取决于强制性的国际法指令，而取决于国际组织能否建立起一套被成员国技术官僚广泛接受、具备高度[[Commensuration\|通约]]性与政治防御力的比较统计指标。通过将教育改革的[[Problem Finding\|问题界定]]权嵌入指标编制规程中，国际组织得以在看似纯粹的技术合作网络中重塑主权国家的教育发展优先序。正是指标的去语境化与客观科学外观，使数字成为支撑公共政策[[Façade of Rationality\|理性表象]]的强韧[[Scaffolding\|脚手架]]。
 
 > [!citation-card] 本特森论指标网络作为国际治理的核心工具
@@ -128,9 +120,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 实践并印证了政策工具社会学与[[Soft Power by Hard Facts\|以硬事实施展软权力]]的核心假设，为后续拉德卡·戈鲁尔（Radhika Gorur）与索蒂里亚·格雷克（Sotiria Grek）等学者开创[[Performance Indicators\|教育指标]][[Sociology of Measurement\|测量社会学]]提供了活生生的机构样本。
 > - **方法路径** 奠定了当代跨国教育指标矩阵与网络工作法（NES Networks），开创了跨国教育统计指标标准化定义（ISCED 体系在 [[OECD]] 的应用与延展）。
 > - **政策路径** 直接塑造了当代西方世界每逢教育改革必谈《[[Education at a Glance\|教育概览]]》指标与 [[PISA]] 排名的政治反射；将教育部门推向国家宏观[[Competitiveness|竞争力]]的战略核心。
@@ -150,8 +140,6 @@ updated: 2026-10-22
 > - **史学研究者** [[Christian Ydesen]] — 系统发掘本特森领导 CERI 历史档案的当代领衔学者。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

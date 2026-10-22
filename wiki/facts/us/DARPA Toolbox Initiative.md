@@ -39,11 +39,7 @@ created: 2026-10-10
 updated: 2026-10-22
 ---
 
-# DARPA Toolbox Initiative
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > [[DARPA]] 工具箱计划（DARPA Toolbox Initiative）是由美国国防高级研究计划局（Defense Advanced Research Projects Agency, DARPA）微系统技术办公室（MTO）于 2020 年 12 月正式启动的一项跨组织软件与知识产权获取制度创新框架。该倡议通过由政府出资与主流商业[[Electronic Design Automation|电子设计自动化]]（EDA）工具供应商及硅知识产权（IP）厂商达成全机构级统一许可协议，使受 DARPA 资助的高校、初创企业与非营利研究机构人员能够以零成本或极低管理成本直接调用世界顶级的商用芯片设计软件与经过硬件验证的 IP 核。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
@@ -55,8 +51,6 @@ updated: 2026-10-22
 > - **核心问题导向** 彻底解决传统芯片科研中每个课题组必须耗费数月甚至数年与商业巨头谈判昂贵软件授权协议（单席位年费达数十万美元）以及苛刻保密协议（NDA）的严重制度摩擦，消除阻碍前沿硬件探索的重资产软件门槛。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > [[DARPA]] 工具箱计划的核心干预假说在于：通过政府充当中介买方集中承担批量谈判与兜底担保成本，建立非机密标准化许可契约，能够消除小微学术团队与商业软件寡头之间的不对称博弈，使科研人员将 100% 的精力聚焦于芯片架构创新与算法实现，从而成倍缩短芯片研发迭代周期并降低试错成本。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
@@ -74,16 +68,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2020 — 框架发布与首批龙头入驻** [[DARPA]] 正式推出 Toolbox 框架，首期与 ARM、CEVA 等国际顶级 IP 供应商达成战略协议，允许科研人员直接获取免预付版税的商用微处理器核心与 DSP 设计库。
 > - **2021–2022 — EDA 工具全栈覆盖扩展** 成功引入新思科技（Synopsys）、铿腾电子（Cadence）与西门子 EDA（Siemens EDA），将工具箱范畴从纯 IP 扩展至全流程商业级微电子物理设计与仿真平台。
 > - **2023–至今 — 跨部门模式推广与国家战略采纳** 白宫与 [[National Science and Technology Council|NSTC]] 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中将 DARPA Toolbox 模式确立为全美民用微电子[[Innovation Ecosystem|创新生态]]向学术界普及 EDA 工具的最高优先级推广样板。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **规则制定与总谈判方** [[DARPA]] 微系统技术办公室（MTO），负责企业战略谈判、合同拟定与预算兜底保障。
@@ -97,8 +87,6 @@ updated: 2026-10-22
 > - **动态反馈与调整** 针对先进制程与[[Heterogeneous Integration|异构集成]]新兴需求，定期组织供需座谈会，敦促供应商将最新多物理场仿真模块追加纳入工具箱清单。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15, 24)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** [[DARPA]] 为框架协议支付的年度总采购成本折让比率。
@@ -122,8 +110,6 @@ updated: 2026-10-22
 >
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议与治理反思
 >

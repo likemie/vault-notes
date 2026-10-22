@@ -71,13 +71,9 @@ created: 2026-06-30
 updated: 2026-10-22
 ---
 
-# Explicit Critical Thinking Instruction
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 如何最有效地在各级教育中发展和培养学生的[[Critical Thinking\|批判性思维]]技能与倾向。
 > - **理论问题** 批判性思维应当作为独立课程显性教授，还是作为各学科内容的副产品隐性培养？这一争论涉及课程设计、教师培训和学生学习迁移等[[CORE Education|核心教育]]问题。
 > - **理论类型** 中层[[Didaktik\|教学理论]]（mid-level pedagogical theory），在认知心理学和教育实证研究的基础上，对教学路径的有效性做出可检验的预测。
@@ -99,8 +95,6 @@ updated: 2026-10-22
 > | 迁移（Transfer） | 机制 | 理论必须解释的关键过程，即在独立课程中学到的批判性思维技能能否以及如何迁移到具体学科和生活中 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜显性独立教学比隐性融入教学更能提升学生的[[Critical Thinking\|批判性思维]]技能
 > - **前提一** 批判性思维是一组可识别的、可教学的认知技能（澄清、分析、评估、推理、自我调节），不完全依赖于特定学科内容知识（Facione, 1990）。
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]** [[Critical Thinking\|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化习性的产物。
 > - **认识论** 本理论依赖教育心理学实证研究（实验、准实验、[[Meta-analysis\|元分析]]）的证据，将教学效果的[[Operationalization\|操作化]]定义为学生在标准化测量上的得分变化。
@@ -159,8 +151,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 理论争议
 >
 > > [!axis] 通用技能 vs [[Domain Specificity\|领域特异性]]（Generality vs Domain-Specificity）
@@ -177,8 +167,6 @@ updated: 2026-10-22
 > > - **[[Argument_Cole_2015_AJE\|Cole et al. (2015)]]** 的 ToK 研究发现，将 ToK 教学策略整合到全校各学科中的学校（学校 1），其批判性思维教学效果似乎更好。这暗示独立课程和跨学科融入的结合可能是解决迁移问题的方向。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究实证结果
 > <span class="theory-effect-table-marker" aria-hidden="true"></span>

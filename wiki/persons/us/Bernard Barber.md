@@ -55,11 +55,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Bernard Barber
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国哥伦比亚大学巴纳德学院社会学系终身教授、美国文理[[Chinese Academy of Sciences|科学院]]院士（[[American Association for the Advancement of Science|AAAS]] Fellow）、著名科学社会学家。师从罗伯特·默顿（Robert K. Merton）与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > - **2006** 逝世于美国纽约州，享年 88 岁。
 
 ---
-
-## 主要著作与学术建树
 
 > [!work-line] 代表著作
 > - **1952 — *Science and the Social Order*** 科学社会学开山之作，全面剖析了科学在现代民主社会中的社会控制、同行评议与价值关联。

@@ -68,13 +68,9 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Theory of Gradual Institutional Change
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 现代政治经济体制中正式制度在长期运行过程中所经历的细微、累积且缓慢的内生质变过程，及其对权力格局与实质性资源分配的重塑。
 > - **理论问题** 传统制度主义（理性选择、社会学与早期[[Historical Institutionalism|历史制度主义]]）将制度预设为自我强化的静态均衡，将制度变迁片面归结为外部危机冲击或间断均衡突变；缺乏解释常规历史时期制度如何通过微观内生博弈实现深层重塑的理论体系。
 > - **理论类型** 中观因果解释理论与比较[[Typological Analysis|类型学分析]]框架。
@@ -85,15 +81,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 该理论由两个里程碑阶段共同奠定：第一阶段由[[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）于 2005 年合编专著《超越延续性：发达政治经济体制中的制度变迁》（*Beyond Continuity: Institutional Change in Advanced Political Economies*）导论确立形态学基础；第二阶段由[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与希伦于 2009 年合编专著《解释制度变迁：模糊性、能动性与权力》（*Explaining Institutional Change: Ambiguity, Agency, and Power*）导论完成行动者[[Causal Modeling|因果建模]]。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 > - **原初问题** 为何西方发达国家的核心体制（如德国劳资共决与[[Apprenticeship|双元制学徒培训]]、法国国家干预与社会保障、美国养老与医疗体系）在没有经历外部战争、革命崩溃或宏观灾难的情况下，其治理职能与权力分配后果发生了实质性的根本逆转。
 > - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的支配组织学说、卡尔·波兰尼的双向运动理论、阿尔伯特·赫希曼的呼吁与退出模型、赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）与[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）关于制度承载权力偏向的界定、[[Paul Pierson|保罗·皮尔逊]]（Paul Pierson）的时间性与非预期后果理论、[[Jacob S. Hacker|雅各布·S·哈克]]（Jacob S. Hacker）的[[Institutional Drift|政策漂移]]说，以及[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis）的否决者理论。
 > - **形成路径** 首先将制度界定为依赖第三方强制力的社会规制体系，揭示规则设计与基层落实之间的结构性张力，建构过程（渐进/突发）与结果（延续/断裂）的二维属性矩阵，提炼五大渐进演进形态；随后引入微观行动者遵从博弈与否决点环境，形成完整的中观解释理论。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演进与学术扩展
 > - **2005 年 — 经验形态学奠基** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（Drift）、转换（[[Institutional Conversion|conversion]]）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大机制，揭示资本主义[[Liberalization|自由化]]如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
@@ -117,8 +109,6 @@ updated: 2026-10-22
 > | **变革行动者四分类**<br>Change Agents | 能动机制 | 提炼[[Insurrectionaries\|起义者]]、[[Subversives\|颠覆者]]、[[Symbionts\|共生者]]与[[Opportunists\|机会主义者]]四类策略角色，桥接结构与能动性。（pp. 22–31） |
 
 ---
-
-## 核心命题
 
 > [!theory-proposition] 命题一｜制度稳定性依赖持续政治动员，内生分配冲突构成变迁源泉
 > **解释** 制度绝非技术中立的协调工具或自发运转的静态均衡，而是承载不对称资源配置的权力分配体系。制度在创制之初就凝固了获益者与受损者的权力妥协；制度获益者必须在日常政治中持续投入动员资源以压制异议，制度稳定本质上是处于动态紧张中的平衡状态。权力对比的微小变动随时会打破这一平衡，为制度注入持续的内生变迁动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
@@ -159,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 转化为分析框架
-
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释某项正式制度为何在没有经历重大政权崩溃、战争或突发大危机的常态时期，其治理职能、执行效力与权力资源分配格局发生了根本性质变。
 > - **分析对象与单位** 国家成文法律、宪制规约、监管体系、社会福利与技能培训制度；[[Unit of Analysis|分析单位]]为中观制度安排及其嵌入的政治利益行动者网络。
@@ -186,8 +174,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能仅凭观察到外围规则增加就断言发生了[[Institutional Layering|制度分层]]（若外围仅充当加固护城河，实质属于制度再生产）；不能仅凭外部环境变动就断言发生了[[Institutional Drift|制度漂移]]（必须证明存在分配后果改变）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与边界辨析
 > 

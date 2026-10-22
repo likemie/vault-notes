@@ -84,12 +84,9 @@ created: 2026-07-02
 updated: 2026-10-22
 ---
 
-# Learner Autonomy
 （学习者自主性）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition\|元认知]]监控的能力与意愿。Holec（1988）最早将其奠基性地定义为“掌控自身学习的能力”（taking charge of one\x27s own learning）；Dam（1995）进一步补充了“准备度（Readiness）”维度——自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架解耦分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
@@ -116,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习者自主与相关教学组织模式对比
 > | 比较维度 | **学习者自主性（Learner Autonomy）** | **孤立自学（Isolated Self-Study）** | **[[Structured Teaching\|结构化教学]]（Structured Teaching）** | **放任式个别化（Unguided Individualisation）** |
 > |---|---|---|---|---|
@@ -127,8 +122,6 @@ updated: 2026-10-22
 > | **适用边界与风险** | 需前置培养[[Epistemology\|认识论]]自信，否则面临自由失效 | 缺乏校准机制，易产生理解偏差与倦怠 | 过度程序化易滑向刻板[[Direct Instruction\|直接教学]]，需动态调控 | 严重拉大阶层鸿沟，基础脆弱学生“表面自由、实际掉队” |
 
 ---
-
-## 核心要素
 
 > [!feature] 学习者自主性的四大核心支柱
 > - **内部反思与批判性判断（Internal Reflection & Critical Judgment）** 自主性表现为个体的信念与行为选择是“理性和知情反思”的结果（Carter et al., 2007, p. 323）。学习者拒绝盲从外部权威与算法输出，能够批判性审查自身假设并做出独立裁量。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 177)]]
@@ -186,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 学习者自主性三大理论命题比较
 > | 命题维度 | 核心论断 | 因果作用机制 | 代表文献与实证载体 |
 > |---|---|---|---|
@@ -197,8 +188,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 学习者自主性概念演进脉络
 > - **1970s–1980s — 欧洲成人与应用语言学奠基** 法国南锡大学 CRAPEL 中心（Holec, 1981）首次系统提出自主学习理论，旨在打破传统以教师为中心的语言灌输，确立学习者自我规划、执行与评估的主体地位。
 > - **1990s — 课堂反思、[[Metacognition\|元认知]]与社会相互依存转向** Little (1991) 与 Dam (1995) 丰富了自主性的理论内涵，阐明自主性是在内部反思、元认知自评与同伴对话互动中生成的“相互依存的自主”，拓展了早期个人主义孤独学习的狭隘视阈。
@@ -207,8 +196,6 @@ updated: 2026-10-22
 > - **2020s — 智能[[Technology Infusion\|技术整合]]与认识论自主（Epistemic Autonomy）** 伴随生成式 AI 普及，自主性研究转向探讨如何在算法便利诱惑下维持[[Epistemological Vigilance\|认识论警觉]]，防范[[Cognitive Offloading\|认知卸载]]，构建自适应专业特长（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -236,8 +223,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -249,8 +234,6 @@ updated: 2026-10-22
 > | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 瑞典本土与国际 43 项教学综述 | [[Comparative Meta-synthesis\|比较性元综合]]（Comparative [[Meta-meta-analysis\|meta-synthesis]]） | 课堂个人化自学比例、教师课堂领导力、[[PISA]] 学业产出 | 长期实证汇总表明：缺乏教师支架引导的激进自学使得课堂安静但思维浅表化，弱势群体掉队率显著攀升，全面颠覆了“去结构化等同于优质自主”的教条假设 | 跨国趋势高度一致 | 确立自主性必须在教师清晰结构与支架引领下渐进释放的方法学铁律 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学与干预案例
 > - **[[International Baccalaureate\|国际文凭]]（IB）[[Theory of Knowledge\|知识论]]课程对自主探究的培养机制（[[Argument_Lakhani_2012_AKUIED\|Lakhani, 2012]]）**

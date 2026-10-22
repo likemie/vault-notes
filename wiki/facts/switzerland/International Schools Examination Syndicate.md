@@ -48,11 +48,7 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# International Schools Examination Syndicate
-
 ---
-
-## 组织定位与成立背景
 
 > [!fact-profile] 组织档案
 > - **组织名称** [[International Schools\|国际学校]]考试辛迪加（International Schools Examination Syndicate，ISES）。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > - **资格项目需要跨年度责任主体** 国际考试必须持续收款、雇员、协调专家、保存规则并对学校和家庭兑现承诺。1964 年 ISA 年会因此决定另设具有瑞士法律地位的组织，让 IB 项目从学校和一般性协会中分离出来。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 17–20)]]
 
 ---
-
-## 形成与转型
 
 > [!phase] ISES 从教师项目到国际资格执行机构
 >
@@ -90,8 +84,6 @@ updated: 2026-10-22
 >   Alec Peterson 调整牛津和伯克利教学安排，获得近一年全职窗口；[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）与威廉·霍尔斯（W. D. Halls）继续完成课程、大纲、考试说明和样题。1966 年 12 月，Ecolint 提供房间设立第一间办公室，鲁思·邦纳（Ruth Bonner）担任行政助理，吕西特·东什（Lucette Donche）负责簿记。1967 年塞夫尔会议成为课程、考试、试验学校、承认与资金工作的共同期限，组织同年采用 IBO 名称。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–31)]]
 
 ---
-
-## 组织能力如何形成
 
 > [!stat-cards]- 三轮资助对应三个不同组织阶段
 > - **\$10,000** [[UNESCO]] 四笔小额合同的总额，主要支持教师会议和课程讨论。
@@ -121,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 治理与行动者网络
-
 > [!index-table] 早期组织能力来自不同角色的组合
 >
 > | 行动者 | 组织位置与资源 | 对 ISES 的具体贡献 |
@@ -147,8 +137,6 @@ updated: 2026-10-22
 > | **考试运行阶段** | 另设主考官委员会，由苏黎世大学地理学教授汉斯·伯施（Hans Boesch）自 1969 年起主持年度考试。 | 将课程与治理决策同具体考试责任分开，为年度命题、评分和标准维护建立专门机构。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21, 25–26)]] |
 
 ---
-
-## 从课程项目到资格制度
 
 > [!logic-map]- ISES 将分散资源组织成资格生产链
 > ```mermaid
@@ -176,8 +164,6 @@ updated: 2026-10-22
 > 4. **承诺可[[Reliability\|信度]]** 项目拥有理事会、办公室、合作机构和连续资金后，外部机构面对的是能够兑现试验承诺的责任主体。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19–31)]]
 
 ---
-
-## 名称、权力与叙事差异
 
 > [!term] Syndicate 的来源与法语歧义
 > ISES 名称中的 *Syndicate* 很可能借鉴剑桥普通教育证书（General Certificate of Education，GCE）考试机构 Cambridge Syndicate，显示英国考试制度对命名的影响。在英法双语组织中，这一选择并不理想，因为法语 *syndicat* 通常指工会。1967 年采用 [[International Baccalaureate|IBO]] 名称后，组织名称更直接指向所管理的[[International Baccalaureate\|国际文凭]]项目。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19, 23)]]

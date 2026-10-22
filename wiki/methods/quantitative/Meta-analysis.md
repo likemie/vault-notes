@@ -149,11 +149,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# Meta-analysis
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 元分析（Meta-analysis）是对分析的分析（the analysis of analyses），即对多项针对同一[[Research Question|研究问题]]的独立实证研究进行系统检索、方法学编码、[[Effect Size|效应量]]提取与加权统计合并的研究方法体系。该术语由 [[Gene Glass]] 于 1976 年在美国教育研究协会主席演说中首次提出（Glass, 1976），后由 Glass et al. (1981) 系统阐述其操作规范，Hedges and Olkin (1985) 奠定其统计理论基础。
@@ -173,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 承袭定量[[Empiricism|经验主义]]与循证[[Scientific Paradigm|科学范式]]，假定跨情境的独立实证研究共享潜在的因果真实效应或其概率分布，通过大样本[[Inverse-Variance Weighting|逆方差加权]]可消除[[Sampling Error|抽样误差]]、提炼普遍性规律。
 > - **研究者角色** 元分析者作为“二阶综合者”，在[[Literature Search|文献检索]]准入门槛（[[PICO Framework|PICO]] [[Construct|构念]]对齐）、[[Effect Size|效应量]]提取转换、固定/随机模型抉择及亚组[[Meta-regression|元回归]]设定中承担核心方法学判断。
@@ -187,8 +181,6 @@ updated: 2026-10-22
 > - **分析方法** 逆方差加权平均、[[Fixed-Effect Model|固定效应模型]]、[[Random-Effects Model|随机效应模型]]、多水平元分析（Three-Level Model）、稳健方差估计（RVE）、元回归分析（Meta-regression）。
 > - **辅助技术** Cochran's [[Cochran's Q Test|Q 检验]]、$I^2$ 统计量、[[Forest Plot|森林图]]、[[Funnel Plot|漏斗图]]、Egger 回归检验、[[Trim and Fill Method|剪补法]]（Trim & Fill）、[[Fail-Safe N|失安全数]]（Fail-Safe N）、[[Leave-One-Out Sensitivity Analysis|留一法敏感性分析]]。
 
-### 历史演进脉络
-
 > [!dev-timeline] 元分析的历史演进脉络
 > - **1904 — 跨研究合并的先声** [[Karl Pearson|Karl Pearson]] 在 *BMJ* 发表伤寒疫苗接种统计报告，计算并比较多组接种数据中的相关系数并取其平均，是合并多项研究结果的早期尝试 ([[Argument_Higgins_2016_ROE|Higgins, 2016]])。
 > - **1930s–1950s — 合并推断的统计基础** Fisher (1932) 提出合并独立 $p$ 值的方法；Cochran (1954) 提出检验多项研究结果同质性的 $Q$ 统计量。
@@ -199,8 +191,6 @@ updated: 2026-10-22
 > - **2010s–2020s — 教育证据的转译与再编码** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》中以额外学习月数（[[Months of Progress]]）转译元分析结果，并对工具包底层的初级研究逐项再编码，建立可持续更新的数据库，以便按研究特征拆解[[Heterogeneity|异质性]] ([[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]])。
 
 ---
-
-## 研究程序
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 纳入初级研究的[[Effect Size|效应量]]（$y_i$）与其对应抽样方差（$v_i$）构成的矩阵，配合研究特征协变量。
@@ -342,16 +332,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 对针对同一实质[[Research Question|研究问题]]的多项定量因果评估或[[Correlational Research|相关性研究]]进行系统[[Research Synthesis|证据综合]]、量化干预措施的平均[[Effect Size|效应量]]、检验[[Construct|理论构念]]与情境[[Variable|变量]]的[[Interaction Effect|调节效应]]（[[Argument_Higgins_2016_ROE|Higgins, 2016]]；[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）。
 > - **谨慎使用** 纳入文献存在高度测量工具[[Heterogeneity|异质性]]（自编 vs 标准化测验）、对照组条件差异巨大（活跃对照 vs [[Business as Usual|照常教学]]）、或底层文献高度重叠的二阶综合（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]；[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）。
 > - **不适合使用** [[Primary and Secondary Documents|原始文献]]数量稀少且质量低下（“垃圾进，垃圾出”；Eysenck, 1978; Slavin, 1984）、研究构念严重泛化不可[[Commensuration|通约]]、或企图以此直接取代对微观课堂教学机制的质性反思与个别化[[Professional Judgment|专业判断]]（[[Argument_Larsen_2019_EducSci|Larsen, 2019]]；[[Argument_Terhart_2011_JCS|Terhart, 2011]]）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > 1. **可比性（“苹果与橙子”）** 干预定义、测量工具、比较组与情境差异过大时，平均[[Effect Size|效应量]]缺乏明确含义 (Eysenck, 1978; [[Argument_Higgins_2016_ROE|Higgins, 2016]]; [[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]])。
@@ -404,8 +390,6 @@ updated: 2026-10-22
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 方法学批判 | 二阶聚合的信息损耗、时效滞后与[[Stability vs. Variability Dilemma\|稳定性/变异性]]双重困境；详见 [[Critique of Meta-analysis]]。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid] 研究案例索引
 > - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] — 剖析 Hillmayr et al. (2020) 针对中学数理教学数字化工具的元分析（$k = 92, g = 0.65$ [[Academic Achievement|学业成就]]，$g = 0.45$ 学科态度），详述清算中心如何以此类高因果[[Reliability|信度]]元分析为经验基底提炼结构化决策参数与六大工具分类，构建面向教师教育的循证中介转化[[Paradigm|范式]]。

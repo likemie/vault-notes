@@ -118,7 +118,6 @@ tags:
 sources:
   - "[[sources/Gorard_2020_ROE|Gorard_2020_ROE]]"
 ---
-# Argument_Gorard_2020_ROE
 
 ---
 
@@ -200,8 +199,6 @@ sources:
 > 3. **拒绝单一数据损耗截断线** 不设定机械的流失率百分比（如美国[[Effective Teaching\|有效教学]]清算所（[[What Works Clearinghouse]], WWC）5% 损耗截断规则）；重点审查损耗是否在实验组与对照组之间产生系统性不平衡，以及剩余样本是否发生质性变异。
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 全文核心论证推导链
 > ```mermaid
@@ -456,8 +453,6 @@ sources:
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心实证发现
 > 1. **因果实证积累极度匮乏** 检索捕获的 335 万条文献记录与 323 篇核心报告中，仅有 33 篇（10.2%）具备最低限度的[[Counterfactual\|反事实]]对照设计，而教育政策制定维度的因果研究为零。（pp. 576, 597）
 > 2. **被动分发与通俗改写全盘失效** 无论是开放获取期刊还是分发改写摘要工具包（如 [[Education Endowment Foundation\|EEF]] 工具包），在严格因果评估中均无法改变教师专业行为，亦完全无法提升学生的统考成绩。（pp. 586–588）
@@ -473,8 +468,6 @@ sources:
 > - **ES = 0.02** [[Using Data Intervention\|佛罗里达数据使用干预试验]]（Using Data）中学生数学统考成绩的因果增益净值。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 证据利用领域的因果知识赤字
 > 数十年来提高教育研究质量的呼吁推动了更可靠证据库的建立；然而，关于促成证据投入使用的最佳途径及其实际成效，依然缺乏可靠知识。二十年来关于教育政策与实践中有效干预的研究虽略有改善，但关于如何最好地部署这些发现的证据依然极其薄弱。（p. 570）
@@ -502,8 +495,6 @@ sources:
 > *Kansagra and Farley (2012) draw a distinction between evidence-based interventions in health which are implemented at an individual level — such as the prescription of Metformin for those diagnosed with diabetes, a treatment which requires initial and continuing actions by the patient, and those implemented at a ‘population’ level — such as the fluoridation of water to prevent dental caries. The latter have a lower cost per individual treated, and are more reliable than individual treatments.*
 
 ---
-
-## 研究局限与审思批评
 
 > [!warning] 研究方法学局限
 > - **海量[[Literature Search\|文献检索]]中的启发式截断风险** 面对 335 万条初检结果，检索规程采用在最后一条相关文献后连续浏览 5 页或 100 篇记录无新成果即终止的启发法规则。尽管商业搜索引擎排序算法的不透明性在理论上存在漏检边缘文献的可能，但基于海量覆盖面，潜在遗漏无法逆转因果证据普遍匮乏的核心结论。（p. 575）

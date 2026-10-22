@@ -36,10 +36,6 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-# Post-colonial Theory
-
-## 定义
-
 > [!def] 核心定义
 > 后殖民理论与[[Postmodernism\|后现代主义]]有亲缘性，处理后殖民社会的经验（通常通过电影、文学、文化研究、政治和社会科学）和殖民主义的文化遗产。它审视帝国主义、支配和压制的意识形态与[[Discourse|话语]]的后效——包括西方价值观的支配和非西方价值观的去合法化——及其对参与者日常生活经验的实质性影响（materiality）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 412–413)]]
 

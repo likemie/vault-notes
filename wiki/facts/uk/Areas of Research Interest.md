@@ -43,11 +43,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Areas of Research Interest
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布主体** [[Government Office for Science\|英国政府科学办公室]]（GO-Science）监督指导、各中央行政部委独立编制
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **制度位置** 落实 1971 年《[[Rothschild Report 1971\|罗斯柴尔德报告]]》“智能客户”原则的核心制度化抓手，连接国家行政决策与学术科研议程的官方通道
 
 ---
-
-## 组织架构与编制机制
 
 > [!claim] 核心机制
 > 重点研究领域清单（Areas of Research Interest, ARIs）是各行政部委公布其中长期政策研究需求的法定公开文档，由各部委首席科学顾问（CSAs）牵头编制，旨在使高校科研人员能够前瞻性地将课题设计、经费申请与国家公共利益深度对齐。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
@@ -70,16 +64,12 @@ updated: 2026-10-22
 
 ---
 
-## 对教育研究与高等教育治理的深远影响
-
 > [!feature] 塑造教育学与学术研究生态的三大维度
 > - **英国教育部重点研究领域清单（DfE ARIs）的标杆作用** 英国教育部常态化发布其核心政策问题清单（涵盖教师留任机制、早期儿童发展、职业技能培训及数字技术进课堂等），成为英国教育学界申请重大课题与规划政策影响力的黄金指引。
 > - **引导大学科研卓越框架（REF）影响力构建** 高校学者依托与特定部委 ARIs 的对齐，能够清晰证明其学术发现如何实质性改善了公共政策，为其构建高质量 REF 影响案例（Impact Case Studies）提供权威官方佐证。
 > - **赋能青年学者与博士生政策训练** 各大高校与资助机构利用 ARIs 设立政策实习生（Policy Internships）与议会学术研究员计划，推动早期科研人员直接参与真实世界政策证据的生产。
 
 ---
-
-## 演进历史与当前挑战
 
 > [!timeline] 演化时间线
 > - **1971** [[Rothschild Report 1971\|罗斯柴尔德报告]]提出政府应成为科研外包的“智能客户”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]

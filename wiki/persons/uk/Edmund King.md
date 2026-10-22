@@ -60,11 +60,7 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Edmund King
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名比较教育学家，伦敦大学国王学院（King's College London, KCL）比较教育学讲座教授与比较教育研究中心主任，[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）奠基人之一。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1950年代至1960年代初 — 跨国文化语境描摹与制度导论建构** 继承[[Michael Sadler\|萨德勒]]的历史人文传统，强调学校教育必须置于具体社会的民族文化生态中加以动态体察。
 >   - **代表著作** *Other Schools and Ours: The World's Systems Today* (1958); *World Perspectives in Education* (1962).
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 比较教育学本质上应当是一门服务于现代自由民主社会公共治理的[[Policy Science in Comparative Education\|政策科学]]（Policy Science）。学科的生命力既不在于脱离现实的纯书斋式历史考据，也不在于追逐无情境的抽象量化因果通则，而在于在国家面临重大体制改革与社会转型的关键决策时刻（Critical Points of Decision），为政策制定者提供明智、审慎的行动选项与跨国制度视野。与此同时，人类社会充斥着行动者的自由意志、道德反思与历史偶然性，比较教育绝不能沦为物理学式的机械预测工具，而必须深植于具体的生态与文化情境之中。
 
 > [!citation-card] 埃德蒙·金论人类自由意志与社会预测的不可行性
@@ -121,9 +113,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **[[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 推动英格兰比较教育从纯人文学科考据走向服务于现代公共治理的决策科学，为战后跨国教育咨询确立了操作框架。
 > - **反唯[[Scientism\|科学主义]][[Epistemology\|认识论]]屏障** 在战后英美[[Scientific Paradigm\|科学范式]]高歌猛进之际，他对物理学[[Determinism\|因果决定论]]与机械预测的清醒反驳，为后续质性、生态与情境化比较研究维系了宝贵的理论空间。
 > - **跨国学会建制化推动** 主持伦敦大学国王学院教研中心，作为[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）与英国学会（BCIES）的核心奠基人，推动了西欧比较教育学术网络的制度化形成。
@@ -135,8 +125,6 @@ updated: 2026-10-22
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 批判金在 1970 年代方法论大分裂中试图规训阿彻的学术霸权，并反思其政策科学立场与国家权力的危险结盟。
 
 ---
-
-## 历史评价
 
 > [!citation-card] [[Robert Cowen\|罗伯特·考恩]]论 1970 年代方法论断裂与规训惩罚的历史
 > 考恩指出，1970 年代初的方法论论战是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者的标签。一个标志性事件是金试图以权威姿态去规训玛格丽特·斯科特福德·阿彻（King, 1979; King & Archer, 1980）。这场公开的学术规训冲突，暴露了当时以金为代表的英格兰比较教育学界对结构社会学的完全排斥与共鸣缺乏。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
@@ -164,8 +152,6 @@ updated: 2026-10-22
 > - **机构与组织** 伦敦大学国王学院（讲座教授、中心主任）、[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE 奠基成员）、英国[[Comparative and International Education Society\|比较与国际教育学会]]（BCIES 领袖）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

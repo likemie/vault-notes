@@ -72,11 +72,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# International Institute for Educational Planning
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > [[UNESCO\|联合国教科文组织]]教育规划研究所（International Institute for Educational Planning，IIEP）是联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO，简称联合国教科文组织）于 1963 年在巴黎设立的半自主专门研发与高级官员培训机构。作为冷战时期西方大国与多边体系推行国家教育规划理性的制度化中枢，IIEP 致力于提升成员国（尤其是新独立发展中国家）设计、管理与评估国家教育系统的专业能力，构成了比较教育学实现“[[Development Turn in Comparative Education\|发展转向]]”与技术官僚规划的全球旗舰平台。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1958–1962 — 理论奠基与[[Geopolitics|地缘政治]]筹备** 芝加哥大学建立比较教育中心，推动教育经济学与比较研究深度融合；1961 年[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）改组为[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织），被定位为“经济北约”并启动地中海地区项目（[[Mediterranean Regional Project]]，MRP）；赫伯特·帕恩斯（Herbert Parnes, 1962）发布教育人力预测模型，为全球技术官僚规划奠定了方法论标准。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
 > - **1963–1970 — 机构创立与普世危机[[Discourse|话语]]确立** 1963 年 7 月 IIEP 正式建立，首任主任由前美国教育与文化助理国务卿[[Philip H. Coombs\|菲利普·库姆斯]]（Philip Coombs）担任；1967 年库姆斯牵头组织弗吉尼亚州威廉斯堡“世界教育危机国际会议”，并在 1968 年由 IIEP 正式出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*），将教育落后确立为跨国普世危机，开创了国际组织依托危机叙事拓展教育治理职能的经典[[Paradigm\|范式]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -99,8 +93,6 @@ updated: 2026-10-22
 > - **2000 年代至今 — 危机情境治理与数字化规划转型** 面对全球冲突、气候灾害与数字鸿沟，IIEP 重构其核心使命，将业务重点转移至受危机影响地区的韧性教育规划、教育反腐败与伦理平台（Ethics and Corruption in Education，ETICO）审计、以及利用地理信息系统（Geographic Information System，GIS）进行学校网络布局优化。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **IIEP 理事会（Governing Board）** 由 12 名国际杰出专家组成（包含经[[UNESCO\|联合国教科文组织]]总干事任命的学者、联合国主要专门机构代表及知名规划实践家），负责独立审定中长期战略重点与年度预算计划。
@@ -113,8 +105,6 @@ updated: 2026-10-22
 > - **前沿应用政策工具研发** 研制微观学校选址模型、教育财政模拟投影工具及教育管理信息系统（Education Management Information System，EMIS）诊断标准，赋能基层自主治理。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **普世危机叙事与理论经典** 库姆斯《世界教育危机》（1968）开辟了以系统论审视教育供需失衡的经典[[Analytic Framework\|分析框架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -134,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **专业官员培训规模** 累计为全球超过 160 个国家培训了逾 8,000 名教育部核心规划与统计主管。
 > - **国家规划编制渗透率** 深度主导或深度参与了非洲与拉丁美洲数十个后殖民国家首份独立国家教育发展规划的起草。
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > - **多边技术合作的分化** 伴随 1980 年世界银行独立另辟实证放贷门户，IIEP 守住了联合国系统基于教育人权与国家自主能力建设的伦理防线，在量化测评狂热中维系了系统生态规划的平衡。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

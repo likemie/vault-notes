@@ -44,13 +44,9 @@ created: 2026-06-06
 updated: 2026-10-22
 ---
 
-# Outcomes-based Education
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > [[Outcomes-based Education\|结果导向教育]]（Outcomes-based Education, OBE）是一种以学习结果为中心的课程设计[[Paradigm\|范式]]，强调可测量的学习成果而非知识内容本身。在过去三十年中，新西兰和许多国际管辖区的课程呈现出从明确的知识识别转向结果导向课程、通用能力和 21 世纪学习的趋势([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 
 > [!quote|notitle]

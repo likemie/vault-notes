@@ -43,11 +43,7 @@ created: 2026-09-04
 updated: 2026-10-22
 ---
 
-# Government Office for Science
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **设立时间与主管隶属** 2007 年由英国中央政府正式设立（前身为科技办公室 [[Office of Science and Technology Policy|Office of Science and Technology]], OST），由英国政府首席科学顾问（Government Chief Scientific Adviser, GCSA）直接领导，现行政隶属于科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）并向内阁办公室与首相直接报告。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > - **制度位置** 英国国家行政系统科学决策的最高统筹协调部门，是连接外部大学与研究市场、部委内部科学顾问网络、以及内阁危机应对中枢的枢纽支柱。
 
 ---
-
-## 核心职责与制度工具
 
 > [!claim] 核心功能
 > 政府科学办公室致力于确保英国政府的各项公共决策均能充分汲取最严谨的科学、工程与技术洞察，通过统筹管理全国部委首席科学顾问网络、发布长远前瞻预见报告，以及维护国家危机科研响应，为政府在复杂时代的科学治理提供制度化护栏。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
@@ -74,8 +68,6 @@ updated: 2026-10-22
 > *We ensure that government policies and decisions are informed by the best available scientific evidence and strategic long-term thinking, championing independent and robust scientific advice across all departments.*
 
 ---
-
-## 时间线
 
 > [!timeline] 机构演进时间线
 > - **1964** 英国设立最初的政府首席科学顾问（GCSA）职位。
@@ -96,8 +88,6 @@ updated: 2026-10-22
 > - **遴选机制的政治化警惕** 皇家学会明确警告，各部委在招聘与考核首席科学顾问时，绝不能采取迎合特定政治偏好的筛选标准，必须确保顾问队伍基于最高学术诚信公开遴选，并在必要时拥有向全社会公开发声的法定自由。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 84)]]
 
 ---
-
-## 效果与评价
 
 > [!finding-cards] 效果与启示
 > - **构建了全球公认的部委科学顾问标杆网络** 英国由 GO-Science 协调的部委 CSA 机制成为许多发达国家效仿的政府科技治理制度[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 82)]]

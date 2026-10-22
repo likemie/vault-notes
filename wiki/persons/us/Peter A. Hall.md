@@ -59,11 +59,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Peter A. Hall
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大与美国比较政治学家，哈佛大学（Harvard University）克虏伯欧洲研究讲席教授（Krupp Foundation Professor of European Studies），加拿大[[Institute for Advanced Study|高等研究院]]（CIFAR）成功社会项目联合主任，当代[[Historical Institutionalism|历史制度主义]]与比较政治经济学奠基人之一。
@@ -92,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980年代 — 国家自主性、制度结构与经济治理** 反思[[Pluralism|多元主义]]与早期马克思主义将国家视为社会利益被动反射的倾向，将中观制度结构确立为因果分析核心。
 >   - **代表著作** *Governing the Economy: The Politics of State Intervention in Britain and France* (1986)。
@@ -110,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 制度既非纯粹自发演进的技术有效均衡，亦非不可撼动的文化决定结构，而是承载权力偏向、内生分配冲突且高度依赖微观行动者战略协调的持久组织安排；要解释制度的长期连续性与渐进演化，必须将历史赋予的权力不对称性与微观行动者的战略偏好紧密咬合。
 
 > [!citation-card] [[Historical Institutionalism|历史制度主义]]与理性选择分析的融合路径
@@ -122,9 +114,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 霍尔对制度“权力分配属性”的界定直接启发了[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）的[[Theory of Gradual Institutional Change|渐进制度变迁理论]]；其“[[Varieties of Capitalism|资本主义多样性]]”框架统治了当代比较政治经济学二十余年。
 > - **方法路径** 倡导[[Process Tracing|过程追踪]]（Process Tracing）与比较历史制度分析，强调时间性、次序与关键历史遗产对因果机制的制约。
 > - **跨学科辐射** 其政策[[Paradigm|范式]]理论被公共政策学与社会学广泛吸收，三大学派分类成为政治学研究生核心方法论必读规范。
@@ -144,8 +134,6 @@ updated: 2026-10-22
 > - **学派对话同行** [[George Tsebelis]] — 霍尔在反思理性选择学派时对话的关键学者之一。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

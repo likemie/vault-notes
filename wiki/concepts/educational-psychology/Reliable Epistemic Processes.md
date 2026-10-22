@@ -66,11 +66,7 @@ created: 2026-09-10
 updated: 2026-10-22
 ---
 
-# Reliable Epistemic Processes
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 可靠[[Epistemology\|认识论]]过程（Reliable Epistemic Processes）是个体或科学共同体为了达成[[Epistemic Aims\|认识目标]]而采纳的、能够在特定因果条件下稳定产出真实知识与高质量认识产出的探究程序与[[Epistemic Practices\|认知实践]]流程。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202, 209)]]
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > - 不等于 抽象方法论公式：认识论过程的可靠性不是孤立抽象的教条，而是高度情境化且依附于具体物理环境与学科知识的（如双[[Blinding\|盲法]]在药物[[Clinical Trial\|临床试验]]中极度可靠，但在心理动力学心理治疗中因无法设置有效安慰剂而可能失效）。
 
 ---
-
-## 核心要素
 
 > [!feature] 科学实践中两类典型可靠过程及其条件
 > - **观察实践的可靠过程与条件（Observation Processes）** 包括在无遮挡和适宜距离下进行观察、将观察方案与研究对象的生物学生活史及习性严格对齐、观察者具备专业鉴别资质、在空间与时间跨度上保持系统记录、使用自动化或增强仪器拓展人类感官、采用防范偏差的[[Blinding\|盲法]]或评分员一致性检验。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 219)]]
@@ -160,8 +154,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -181,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!tension] 核心张力：机械规则清单还是因果条件弹性审视？
 > - **形式化规则主义（蓝方）** 将[[Scientific Method\|科学方法]]简化为脱离情境的刻板教条（如绝对化控制[[Variable\|变量]]法、机械化对照组），仅凭清单核对判断方法有无。
 > - **因果[[Reliabilism\|可靠主义]]（红方）** 强调过程的[[Reliability\|可靠性]]完全依附于研究对象与环境的因果约束条件，要求深入审视具体情境下方法是否真实阻断了偏差。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 207, 223–224)]]
@@ -194,8 +184,6 @@ updated: 2026-10-22
 > - **过程繁复性与教学适宜粒度的界定挑战** [[Authentic Science Practices|真实科学实践]]中可靠认识过程极为繁杂、领域依附且随前沿仪器演进而持续拓展，基础教育教学难以穷尽所有程序。如何在课堂有限课时内界定最适宜的教学目标粒度（appropriate grain-size）与进阶序列，仍是该框架在教学转化中的核心难题。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222, 224)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Framework for Teaching|教学框架]]对可靠[[Epistemology\|认识论]]过程的干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

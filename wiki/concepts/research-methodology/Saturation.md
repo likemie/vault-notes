@@ -34,11 +34,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Saturation
-
 ---
-
-## 定义
 
 > [!def] 理论饱和（Theoretical Saturation）
 > 饱和是[[Qualitative Research\|质性研究]]中确定[[Sample Size Determination\|样本量]]的概念标准：当收集新鲜数据不再引发新的洞见或揭示新的主题时，即类别或主题已达到饱和，此时可以停止收集数据。这一概念源自[[Grounded Theory\|扎根理论]]（Charmaz, 2006; 引自 Creswell & Creswell, 2022, Ch9, p. 198）。
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 饱和 vs 其他[[Sample Size Determination\|样本量确定]]方式
 > | 维度 | 饱和 | 预设样本量 | 统计功效 |
 > |---|---|---|---|
@@ -77,8 +71,6 @@ updated: 2026-10-22
 > | **操作困难** | 无法预先计划 | 可能过多或不足 | 需要效应量估计 |
 
 ---
-
-## 争议与批评
 
 > [!warning] 饱和的局限性
 > - **事后性** 研究者无法在研究开始前知道何时会达到饱和，这对研究计划撰写（如博士论文开题或资助申请）造成操作困难

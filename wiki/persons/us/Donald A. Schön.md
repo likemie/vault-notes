@@ -76,11 +76,7 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-# Donald A. Schön
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** [[Donald A. Schön|唐纳德·舍恩]]（Donald A. Schön, 1930–1997）是美国哲学家、组织[[Learnology|学习学]]者与麻省理工学院（MIT）城市研究与规划荣休教授；当代专业[[Epistemology|认识论]]与[[Reflexivity|反思性]]实践理论的奠基人。
@@ -107,8 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960s–1970s — 概念位移与组织学习阶段** 从[[Pragmatic Paradigm|实用主义]]哲学走向对制度变革与专业行为机制的经验探究。
 >   - **代表著作** 《理念的置换》（*Displacement of Concepts*, 1963）、《跨界反思》（*Beyond the Stable State*, 1971）、与 Argyris 合著《专业实践中的理论》（1974）。
@@ -125,9 +119,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 专业实践的本质在于面对混乱、独特与价值冲突的沼泽地情境时重构问题与持续探究的行动中反思，超越查阅既定科学定律以求解良构工程问题的手段-目的计算；将专业人员降格为执行外部科学处方的技术员不仅会导致实践失效，更会消解[[Professional Judgment|专业判断]]的自主生命力。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 81–82)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
 
 > [!info] [[Reflexivity|反思性]]实践的双层结构与专业判断
@@ -143,9 +135,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **教师专业[[Epistemology|认识论]]与教师教育重构（教育学核心路径）**
 >   舍恩的[[Reflexivity|反思性]]实践者概念彻底打破了“大学生产理论、一线机械套用”的自上而下输送模式，推动全球教师教育转向以“[[Action Research|行动研究]]”、“教育叙事”与“反思性教学案例分析”为支柱的新[[Paradigm|范式]]。
 > - **[[Professional Judgment|专业判断]]与双环决策整合（[[Critique of Evidence-Based Education|循证教育批判]]路径）**

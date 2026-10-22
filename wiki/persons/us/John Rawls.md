@@ -41,11 +41,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# John Rawls
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名哲学家、政治思想家，哈佛大学哲学系讲座教授（James Bryant Conant University Professor），20 世纪新自由主义与契约论政治哲学的奠基人。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1971 — *A Theory of Justice*** 构建原初状态与无知之幕，确立平等自由原则与差异原则。
 > - **1988 — *The Priority of Right and Ideas of the Good*** 系统论述正当形式对多元善观念的优先性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
@@ -80,14 +74,10 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 约翰·罗尔斯（John Rawls）主张，一个正义的民主社会必须确立“[[The Right and the Good|正当优先于善]]”的基本原则。国家与制度的基本框架应保持道德中立，优先保障公民平等的政治与个人自由（正当），而将对生命意义、精神追求与何为美德生活的定义（善）留给公民个体与社群自由探索。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

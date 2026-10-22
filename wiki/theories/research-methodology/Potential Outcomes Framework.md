@@ -49,8 +49,6 @@ updated: 2026-10-22
 > - **2000** — Judea Pearl 出版 *Causality: Models, Reasoning and Inference*，引入有向无环图（DAG）作为因果推断的补充形式化工具
 > - [[Argument_Berk_2011_EvalRev\|Berk (2011, p.193)]] 指出，尽管存在异议者（如 Dawid, 2000），源自 Neyman 论文的潜在结果公式已主导了因果推断的技术文献
 
-## 核心要素
-
 > [!abstract] 因果效应的定义与估计的区分
 > 潜在结果框架的核心贡献在于清楚地区分了因果效应的**定义**与因果效应的**估计**——此前两者常被混淆。如果因果效应没有被明确定义，正在估计什么也必然是不清楚的([[Argument_Berk_2011_EvalRev\|Berk, 2011, p.193]])。
 >

@@ -56,8 +56,6 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# Seventh Annual Report of the Massachusetts Board of Education
-
 ---
 
 ## 背景
@@ -102,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 报告产生与制度影响时间线
 > - **1843-05 至 1843-10** [[Horace Mann\|霍勒斯·曼]]新婚后自费赴欧洲考察初等教育体系，重点走访英国各工业城市与普鲁士各地学校。（Downs, 1974:88）
 > - **1844-01** 霍勒斯·曼正式向马萨诸塞州议会呈递《第七次年度报告》，旋即公开发行并在社会各界引发剧烈震动。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
@@ -112,8 +108,6 @@ updated: 2026-10-22
 > - **1846–1852** 报告促成马萨诸塞州全面巩固公立[[Normal School\|师范学校]]建制，增加公税教育投资，并在全美首开 1852 年强制义务就学立法之先河。
 
 ---
-
-## 实施情况与话语功能转化
 
 > [!actor-grid] 改革中介矩阵
 > - **倡导与转译核心** [[Horace Mann\|霍勒斯·曼]]与马萨诸塞州教育委员会——将外部实绩转化为政策倡导的说服资本。

@@ -135,11 +135,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Qualitative Research
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 质性研究（Qualitative Research）是一种以[[Interpretive Paradigm\|诠释范式]]与[[Constructivist Paradigm\|社会建构主义]]为[[Epistemology\|认识论]]根基，旨在探索和理解个体或群体赋予社会与人类问题之主观意义的探究路径（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 17]]）。研究过程在参与者身处的自然情境中展开，依托[[Researcher as Key Instrument\|研究者作为关键工具]]收集多重质性材料，遵循自下而上的归纳式与迭代式分析程序生成范畴与主题，并通过[[Rich and Thick Description\|深描]]展现情境复杂性。书面报告结构灵活生动，强调展现多元主体视角与研究者的[[Reflexivity\|反身性]]立场。
@@ -172,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 建立在诠释学、[[Phenomenology\|现象学]]与[[Constructivist Paradigm\|建构主义]]之上。社会实在并非外在于人的物理实体，而是行动者在日常生活情境中通过互动与语言持续共同建构的主体间现实；知识具有强烈的[[Indexicality\|语境依存性]]、[[Reflexivity\|反思性]]与局部性。
 > - **研究者角色** [[Researcher as Key Instrument\|研究者作为关键工具]]。研究者绝非[[Value Neutrality\|价值中立]]的冷酷旁观者，其自身的情感、文化背景与理论偏好构成了意义理解的前提。强调[[Reflexivity\|反身性]]审视，主动解构自身与参与者之间的权力关系，警惕“[[Backyard Research\|后院研究]]”（Backyard Research）带来的盲视风险。
@@ -204,8 +198,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用质性探究流程
 > 1. 确立探索性[[Research Question\|研究问题]]：明确以理解、解释或过程描述为主旨的核心议题，避免预设[[Alternative Hypothesis\|定向假设]]。
 > 2. 进入现场与建立关系：办理机构审查（[[Institutional Review Board\|IRB]]）与[[Informed Consent\|知情同意]]，取得[[Gatekeepers\|守门人]]（Gatekeeper）许可，与受访者建立信任关系（Rapport）。
@@ -214,8 +206,6 @@ updated: 2026-10-22
 > 5. 编码、提炼与主题生成：运用[[Winnowing\|数据筛选]]法则压缩冗余信息，通过[[Open Coding\|开放编码]]归并为[[Central Phenomenon\|核心范畴]]与解释性主题。
 > 6. [[Story Line\|故事线]]串联与理论建构：将各主题连接为连贯的[[Story Line\|故事线]]，或借助[[Analytic Framework\|分析框架]]提炼理论命题。
 > 7. 质量验证与叙事撰写：实施[[Triangulation\|三角互证]]与[[Member Checking\|成员核查]]，运用丰富密集描述撰写引人入胜的质性研究报告。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息说明 |
@@ -235,8 +225,6 @@ updated: 2026-10-22
 > 7. **多维呈现与叙事写作** 运用生动的叙事段落、矩阵表格与层次化概念模型直观呈现研究发现。
 
 ---
-
-## 质性数据收集类型矩阵
 
 > [!method-stack] 质性数据收集四大类型对比（改编自 Creswell & Creswell, 2022, Table 9.2）
 >
@@ -281,16 +269,12 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 旨在深入理解教育情境中师生的微观行动机智、探索未经充分理论化的复杂社会过程、揭示参与者多元冲突的主观世界，或在研究早期构建实地[[Grounded Theory\|扎根理论]]的情境。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 5]])。在政策研究领域，质性研究是开展“沟通性政策研究”（Communicative Policy Research）的基石，通过[[Interpretive Paradigm|自然主义探究]]与[[Discourse|话语]]诠释，深入揭示政策制定与执行过程中各方行动者的主观理解、利益协商黑箱及微观抵抗机制（Shannon, 1991; Roller & Long, 2001; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, pp. 11–12]]）。
 > - **谨慎使用** 涉及向宏观公共政策提出直接[[Recommendations for Practice\|实践建议]]（RFP）时；若建议暗含“改变 X 必然改善 Y”的因果干预逻辑，必须审慎说明其缺乏[[Counterfactual\|反事实]]因果控制的方法学边界。([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp. 6-7]])
 > - **不适合使用** 旨在精确检验全国总体参数、评估大规模标准化干预的平均处理净效应，或对普适性假说进行严格统计[[Falsification\|证伪]]的研究。
 
 ---
-
-## 局限性与批判反思
 
 > [!method-limits] 方法局限与宏观批判
 > - **推广性受限与情境绑定** 质性研究追求[[Analytic Generalization\|分析性推广]]与可转移性，其结论深度依存于具体田野的时空语境，无法直接外推至[[Heterogeneity\|异质性]]总体。
@@ -303,8 +287,6 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 >   - 经[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上的严正质证，2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视质性方法的条款，确立了“研究方法契合所提问题”的包容性科学标准，并在[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）的审查规程中促成了质性实施情境与调节[[Variable|变量]]编码模块的增设。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 10)]]
 
 ---
-
-## 与相近方法的辨析
 
 > [!method-stack] 质性研究与相近研究路径的界限
 > - **vs 观察/[[Correlational Research\|相关性研究]]** 两者皆不操纵[[Variable\|变量]]，但相关研究依赖数值统计与标准化测量，质性研究则以[[In-depth Interview\|深度访谈]]和情境文本为数据基础（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。
@@ -328,8 +310,6 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > | [[Reading Excellence Act]] | 政策事实 | 展现国家立法与专家委员会以实证科学之名系统性排斥质性研究的经典案例。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 系统评析质性[[Interpretive Paradigm\|诠释范式]]的发展渊源，揭示教室互动[[Rich and Thick Description\|深描]]超越机械行为量化的方法学意义。

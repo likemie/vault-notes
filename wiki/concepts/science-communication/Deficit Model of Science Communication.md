@@ -63,11 +63,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Deficit Model of Science Communication
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学传播赤字模型（Deficit Model of Science Communication）是指一种将受众预设为知识被动接受者的单向线性传播取向。该模型假定公众或专业实践者（如中小学教师）之所以对特定科学结论产生疑虑、抵触或未采纳循证方案，根本原因在于其缺乏足够的科学事实、统计素养与前沿认知（即认知赤字）；因此，科学界只需单向传递或通俗化转译科学证据，即可消除认知盲区、扭转态度并建立对科学的信任（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, p. 10]]；[[Argument_Besa_2024_UW\|Besa, 2024, pp. 252–254]]）。
@@ -94,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 科学传播[[Paradigm\|范式]]与教育[[Knowledge Transfer\|知识转移]]机制辨析
 > | 维度 | 科学传播赤字模型（Deficit Model） | 语境与[[Dialogue in Education\|对话]]模型（Contextual/Dialogic Model） | [[Public Engagement with Science\|公众科学参与]]（PES） | [[Educational Science Communication\|教育科学传播]]（ESC） |
 > |---|---|---|---|---|
@@ -107,9 +101,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **单向线性传递假设（One-way Linear Transmission Assumption）** 将科学传播与知识应用简化为单向流通链条（研究产出 $\rightarrow$ 通俗加工 $\rightarrow$ 终端采纳），假定只要通道通畅、语言浅显，科学事实便会自动转化为实践行动（[[Argument_Besa_2024_UW\|Besa, 2024, pp. 252–253]]）。
 > - **认知赤字与知识决定态度假设（Knowledge-Determines-Attitude [[Hypothesis]]）** 预设公众或专业人员对科学结论的怀疑、漠视或抗拒仅仅源于科学事实储备不足，忽视价值观、文化信仰、职业认同与体制约束的深层决定作用（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, p. 10]]）。
 > - **专家中心主义与不对称权力关系（Epistemic Asymmetry & Expert Centricity）** 确立科学家作为唯一真理裁决者的特权地位，贬低公众的常识性认知与一线教师的[[Phronesis\|实践智慧]]，将实践者的情境怀疑视为非理性阻抗（[[Argument_Besa_2024_UW\|Besa, 2024, p. 253]]）。
@@ -182,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -201,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 科学事实供给 vs 价值观与情境考量
@@ -219,8 +207,6 @@ updated: 2026-10-22
 > 批判赤字模型绝不等于滑向相对主义或否定实证证据的价值。在突发公共安全事件或基础科学概念界定等特定情境下，清晰、准确的事实发布仍是不可或缺的基础前置条件。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 检验单向信息推介（赤字假设）的大规模因果实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

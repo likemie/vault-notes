@@ -39,7 +39,6 @@ status: draft
 created: '2026-05-02'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 谢晨（Chen Xie），华东师范大学国际与比较教育研究所（Institute of International and Comparative Education, East China Normal University）研究员。研究方向为[[Evidence-Based Education\|证据本位教育]]改革、教育技术与数学[[Academic Achievement\|学业成就]]的比较研究([[Argument_Cheung_2021_ECNUROE\|Cheung & Xie, 2021, p.1]])。

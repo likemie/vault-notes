@@ -94,13 +94,9 @@ created: 2026-08-05
 updated: 2026-10-22
 ---
 
-# Organizational Culture
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 组织文化在不同层级上的生成机制与表征结构，特别是物质[[Artefact|器物]]、公开信奉价值与深层潜意识假设之间的动态关联。
 > - **理论问题** 解释组织内部可见显现与隐性深层规范的脱节，破解为何组织在物理符号（器物）与口头承诺（价值观）上积极拥抱变革，而在日常行为与决策中却深陷防备、怀疑与因循守旧（深层假设）；解释为何上层正式采办文化与程序重构往往与基层微观非正式制度发生结构性解耦；以及为何公共部门的官僚防御文化会阻绝前沿技术并催生[[Innovation Desert|创新荒漠]]。
 > - **理论类型** 中层[[Analytic Framework|分析框架]]与机制模型，广泛应用于教育社会学、学校组织改进、科技创新管理、[[Output-Oriented Governance|循证治理]]、国家能力与质性/[[Visual Research Methods|视觉研究方法]]论。
@@ -141,8 +137,6 @@ updated: 2026-10-22
 > | 智力傲慢与布道文化（Intellectual Arrogance & Missionary Culture） | 概念 | 国际技术官僚机构深层视自身为向落后边缘地带传授普世真理的布道者，将理论模型神圣化并排斥一线经验反馈的精英主义文化形态。[[Argument_Castro_2009_MultilateralBanks\|(Naím, 1994; Castro, 2009, pp. 459–460)]] |
 > | 在地[[Pragmatic Paradigm\|实用主义]]文化（Pragmatic Compromise Culture） | 概念 | 植根于本土文化血缘、强调协商调解与可行性妥协，注重项目落地而非教条纯洁性的区域开发机构文化形态。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 459–460)]] |
 
-### 理论构件与三层结构
-
 > [!dimension] 组织文化三层次解析架构（Schein, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）
 > - **第一层次：物质器物与制度显现（Artefacts & Structures）**
 >   - *微观学校情境* 行政办公室空间、地毯与奖杯、教师格子间格局、黑板与数字技术设备。
@@ -156,8 +150,6 @@ updated: 2026-10-22
 >   - *特征* 不可直接观察、极难被公开质疑，是驱动组织成员实际行为取向的最顽固力量。
 
 ---
-
-## 核心命题与机制
 
 > [!claim] 命题总览
 > 组织文化通过三层次的层层沉淀塑造行动者的感知与决策，理解教育机构与公共部门的创新阻力与[[Research Utilization|证据使用]]障碍，关键在于穿透表层[[Artefact|器物]]与口头承诺，识别深层假设中的信任赤字、官僚避险与防御机制。
@@ -241,8 +233,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemology|认识论]]立场
 > - **[[Ontology|本体论]]** 组织文化是客观存在、分层演化且具有强[[Path Dependence|路径依赖]]的社会认知结构；既有外在物理显现，更有深层的潜意识共同体信念。
 > - **认识论** [[Artefact|器物]]是宝贵的可观察经验材料，但器物必须与行动者的主观解释和深层制度规范相结合才能获得合法阐明，单凭器物存在推断效度风险。
@@ -274,8 +264,6 @@ updated: 2026-10-22
 > - **2025 — 国家能力与工程[[Organizational Culture Change|组织文化重塑]][[Technological Republic|技术共和国]]** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）将组织文化理论引入地缘战略与国家治理能力分析，揭示官僚防御文化对创新的制度性阻绝，提出吸纳使命驱动与实质成败问责的工程文化以消除[[Innovation Desert|创新荒漠]]；并在第 18 章结合实证金融与专利计量，阐明创始人审美品味、长程资产托管与全员股权所有权文化对突破性创新的决定性优势。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议与批评
 >

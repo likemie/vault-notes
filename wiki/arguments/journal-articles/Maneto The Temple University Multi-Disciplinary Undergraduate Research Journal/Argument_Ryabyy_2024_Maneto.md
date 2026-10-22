@@ -59,7 +59,6 @@ citation_aliases:
   - "Ryabyy, 2024"
   - "Ryabyy (2024)"
 ---
-# Argument_Ryabyy_2024_Maneto
 
 
 > [!info] [[Research Question\|研究问题]]

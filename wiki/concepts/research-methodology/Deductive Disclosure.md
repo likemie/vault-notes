@@ -28,9 +28,6 @@ status: draft
 created: 2026-06-22
 updated: 2026-07-11
 ---
-# Deductive Disclosure
-
-## 定义
 
 > [!def] 核心定义
 > 演绎披露（deductive disclosure）指读者可以通过重新组合和拼凑研究数据中的细节来识别个体（个人、学校、部门等），即使研究者没有直接披露姓名或其他直接标识符（Boruch & Cecil, 1979）。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即便不具名，他也将因这些特征的组合而被识别出来（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 212]]）。
@@ -42,8 +39,6 @@ updated: 2026-07-11
 
 ---
 
-## 核心要素
-
 > [!feature] 演绎披露的发生条件
 > - **信息唯一性** 某个特征组合在特定群体中是唯一的（如"50 岁男生物教师"）。
 > - **信息可重组性** 读者可以从报告中提取多个特征并组合。
@@ -51,8 +46,6 @@ updated: 2026-07-11
 > - **丰富描述的风险** [[Qualitative Research\|质性研究]]中的[[Rich and Thick Description\|厚描述]]（thick description）虽然增强了研究的可[[Reliability\|信度]]，但也增加了演绎披露的风险。
 
 ---
-
-## 应对策略
 
 > [!tip] 预防演绎披露的[[Recommendations for Practice\|实践建议]]
 > 研究者应在发表前审查研究报告中的描述性细节，确保即使读者试图重新组合细节以识别受访者，也无法做到（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 212]]）。具体做法包括：

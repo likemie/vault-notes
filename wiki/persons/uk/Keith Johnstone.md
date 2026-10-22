@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Keith Johnstone
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国戏剧导演、剧作家、演剧教育家，皇家宫廷剧院（Royal Court Theatre）前编剧与副导演，加拿大卡尔加里大学（University of Calgary）戏剧学名誉教授。
@@ -74,17 +70,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1979 — *Impro: Improvisation and the Theatre*** 奠基性著作，结合表演工作坊实操与人类心理学洞察，系统阐述自发性（Spontaneity）、故事叙述（Narrative Skills）、面具状态（Masks and Trance）以及至关重要的地位博弈与[[Status Transactions|地位交易]]（Status Transactions）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
 > - **1999 — *Impro for Storytellers*** 深化[[Role-playing|即兴戏剧]]的竞技规则与编剧技巧，探讨集体即兴创作中消除恐惧、拥抱失败与即时协作的实操机制。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > **地位是动态表演的工具而非固化先天的本质** 基思·约翰斯通指出，人类在任何面对面的微观交往中无时无刻不在进行“[[Status Transactions|地位交易]]”（Status Transactions）。每一个眼神接触的回避、头部的微扬或对话打断，都是协商相对权力位置的信号。关键在于，个人的真实地位与所扮演的地位必须明确剥离（Bifurcation of status you are and status you play）；地位本质上是一种工具性属性（Instrumental Attribute），应当被灵活借用以服务于具体情境目标的实现，而不应僵化为自我维系特权的制度枷锁。
 
 > [!citation-card] 约翰斯通论地位交易与微观人际博弈
@@ -99,9 +91,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **艺术与演剧学路径** 彻底重构了 20 世纪后期的[[Role-playing|即兴戏剧]]、喜剧创作与影视表演训练[[Paradigm|范式]]，促成了当代影视即兴喜剧文化的繁荣。
 > - **认知与心理学路径** 揭示了日常社交互动中无处不在的微观统治与服从信号，推动了人际沟通分析与社会互动心理学的发展。
 > - **科技与管理组织路径** 被硅谷先锋科技企业（如 [[Palantir Technologies|Palantir]]）引入作为工程师入职必读书目，成为培育反科层固化、注重实效、倡导心理弹性与即兴协作的[[Engineering Mindset|工程思维]][[Organizational Culture|组织文化]]基石。
@@ -110,8 +100,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]] — 卡普与扎米斯卡阐述帕兰提尔如何借助约翰斯通的[[Status Transactions|地位交易]]与即兴理论破除传统[[Bureaucracy|科层制]]固化，确立工具性地位观念与开放敏捷的初创工程文化。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 杜德克论约翰斯通对即兴理论的系统建构
 > 戏剧学者特蕾莎·罗宾斯·杜德克（Theresa Robbins Dudeck）在其传记研究中指出，基思·约翰斯通系统阐明了现代[[Role-playing|即兴戏剧]]赖以建立的核心理论体系与心理学法则，深刻影响了全球剧场艺术与自发表演教育。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, p. 122)]]

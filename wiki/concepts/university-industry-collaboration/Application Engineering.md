@@ -50,11 +50,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Application Engineering
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 应用工程（Application Engineering / Applications Engineering）是指高新技术基础元器件与材料供应商为了消除下游用户的技术吸收阻力、加速前沿[[General Purpose Technology|通用技术]]商业扩散而在组织内部设立的专业化技术中介与[[Knowledge Transfer|知识转移]]机制。应用工程团队通过将终端系统工程师（如计算机、消费电子、汽车等行业的系统设计人员）吸纳进企业内部，深入把握下游整机的功能与电路规范，并反向指导上游基础元器件的定义与定制；同时通过编制和免费发放详尽的《应用说明书》（Application Notes）、构建全功能示范系统原型（System Prototypes）以及提供现场联合调试，实质性充当了下游整机制造商的外部研发部门与[[Engineering Education|工程教育]]培训机构。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 189–194)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 应用工程与相关[[Technology Transfer|技术转移]]与服务模式对比
 > | 比较维度 | 应用工程（Application Engineering） | 传统技术支持（Customer Support） | 联合研发（Joint R&D） |
 > |---|---|---|---|
@@ -87,8 +81,6 @@ updated: 2026-10-22
 > | **代表文献** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | 传统工程文献 | 产学研合作文献 |
 
 ---
-
-## 核心要素
 
 > [!feature] 应用工程运行机制的四大核心要素
 > - **跨行业系统人才引育与知识内化（In-House System Expertise Aggregation）** 基础技术供应商主动从下游终端行业（如 IBM、通用电气、Philco 等整机厂商）招募资深系统与电路工程师，将外部终端应用知识吸纳进内部研发与市场营销体系中。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 190–191)]]
@@ -134,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -144,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 应用工程模式的历史演进历程
 > - **1950年代 — 军工规格主导阶段** 早期半导体企业主要依据美国军方采购规格生产高[[Reliability|可靠性]]利基元器件，缺乏面向民用整机系统的应用支持部门。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 182–184)]]
 > - **1960–1967年 — 仙童应用工程实验室开创期** 仙童设立独立的四大切换市场部门，建立应用工程实验室，开创编制免费《应用说明书》、打造参考设计样机与客户定制集成电路的现代应用工程[[Paradigm|范式]]。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 189–194)]]
@@ -153,8 +141,6 @@ updated: 2026-10-22
 > - **2000年代至今 — 软硬件协同与数字开源生态** 应用工程拓展至软硬件协同开发套件（SDK）、参考开发板、开源社区论坛与在线工程师慕课（MOOCs），成为数字时代技术生态构建的核心支柱。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >
@@ -166,8 +152,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 应用工程与技术扩散实证考证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -176,8 +160,6 @@ updated: 2026-10-22
 > | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, pp. 191, 194)]] | 1960–1967 年[[Fairchild Semiconductor\|仙童半导体]]应用工程实践与商业市场扩张 | [[Archival Research\|档案研究]]与企业口述史 | 应用说明书产出、元器件种类增长、电视与计算机行业采纳率 | 1960 年仅有 8 款军用晶体管，到 1964 年制造 130 款晶体管与上百款商用集成电路；应用说明书被全美电视巨头（GE、Zenith、Sylvania）及亚洲广播厂商全盘采纳 | 企业备忘录、产品目录与高管访谈 | 证实应用工程服务是推动下游行业跨越微电子技术鸿沟的决定性中介 |
 
 ---
-
-## 相关研究
 
 > [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 详细考证了[[Fairchild Semiconductor|仙童半导体]]应用工程部通过编制应用说明书、研制全晶体管电视样机与客户协同定制，实现硅微电子向[[General Purpose Technology|通用目的技术]]转型的微观历史。

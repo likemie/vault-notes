@@ -40,13 +40,9 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Quality Education
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 素质教育（suzhi jiaoyu / quality education）是中国 1990 年代后期提出的教育改革理念，其核心目标是替代以考试为中心的[[Examination-Oriented Education\|应试教育]]，转而以提升公民整体素质为教育目的。1997 年，国家教育委员会发布《关于积极推进中小学实施素质教育的若干意见》，标志着素质教育从地方实验上升为国家政策，在全国范围内正式推行（State Education Committee, 1997，引自 [[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025, p.589]]）。[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.91–92)]]在分析[[John Dewey\|杜威]]思想在当代中国的[[Recontextualization\|再脉络化]]时，记录了杜威被用作素质教育理论基础的特定方式。
 
 > [!quote|notitle]

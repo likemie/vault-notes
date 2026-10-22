@@ -168,11 +168,8 @@ status: draft
 created: 2026-06-16
 updated: 2026-10-20
 ---
-# Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01
 
 ---
-
-#### 概念地图
 
 > [!logic-map]- 方法论推导与[[Paradigm\|范式]]演进全景架构
 > ```mermaid
@@ -227,8 +224,6 @@ updated: 2026-10-20
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_1_Concept_Map.jpg)
 
 ---
-
-## 章节内容
 
 > [!abstract] 核心议题总览
 > - **哲学奠基与[[Paradigm\|范式]]分野（第1–3节）**
@@ -949,8 +944,6 @@ updated: 2026-10-20
 在方法论实践上，复杂性理论强力呼唤**案例研究、质性深度叙事、行动研究与参与式协作研究**。针对自组织的内在需求，复杂性理论高度推崇 **[[Teacher-as-Researcher|教师即研究者]]** 运动，倡导大学专业研究人员与一线教育实践者结成平等的共生伙伴网络，拥抱异质性与多样性，共同应对不确定教育世界的实践挑战。
 
 ---
-
-## 关键引用
 
 > [!citation-card] Burrell & Morgan 论主观–客观维度的四组假设推导
 > 社会科学的研究进路建立在关于社会世界本质与如何探究它的根本假设之上：关于现实本质的[[Ontology\|本体论假设]]衍生出关于知识获取方式的[[Epistemology\|认识论假设]]；这些假设进一步衍生出方法论考量，并最终决定具体的研究工具与数据收集手段。（pp. 145–147）

@@ -40,11 +40,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# PISA Literacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[PISA]] 素养（PISA literacy / PISA 型読解力）是日本在 2004 年 PISA 2003 结果公布后正式纳入国家教育政策目标的学术能力概念，指阅读和更广泛的课程知识，聚焦[[Problem Solving\|问题解决]]、知识应用、[[Creativity\|创造性]]工作和知识回忆等高阶能力（National Institute for Education Policy, 2019）。它为日本教育带来了与以往"学力"理解不同的新学力概念——即"扎实的学力"（robust academic proficiency），涉及高阶知识和技能的应用（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
@@ -58,8 +54,6 @@ updated: 2026-10-22
 > "PISA literacy brought a new concept of [[Academic Achievement]] to Japanese education with different meanings and achievements from the previous understanding of academic achievement."（Ninomiya, 2019，引自 [[Argument_Li_2025_HSSC\|Li et al., 2025]]）
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 与邻近概念的区别
 > | 维度 | [[PISA]]素养 | 宽松教育（Yutori Education） | PISA 测试框架 |
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > - **2008 — 新《国家学习课程》中的制度化** 日本 2008 年新《国家学习课程》保留了 1998 年课程中的"生存力"（生きる力）概念，但以 PISA素养导向的三要素重新定义学力（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 ---
-
-## 争议与批评
 
 > [!critique] [[PISA]] 素养是否能替代传统学力
 > - **支持立场** PISA素养为日本教育引入了适应[[Knowledge-Based Economy\|知识经济]]和全球化的新学术能力标准——[[Problem Solving\|问题解决]]和[[Creativity\|创造性]]工作等高阶能力是 21 世纪所必需的。

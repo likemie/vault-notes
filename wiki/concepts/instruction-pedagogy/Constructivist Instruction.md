@@ -94,11 +94,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-# Constructivist Instruction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验假设并修正心理表征而主动生成的产物，超越教师单向信息灌输的传统模式。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
@@ -115,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Constructivist Paradigm\|建构主义]]教学与相近教学[[Paradigm\|范式]]的系统辨析
 > | 维度 | 建构主义教学（Constructivist Instruction） | 直接教学（[[Direct Instruction]]） | 发现学习（[[Discovery Learning]]） | 基于问题的学习（[[Problem-Based Learning]]） |
 > |---|---|---|---|---|
@@ -127,8 +121,6 @@ updated: 2026-10-22
 > | **实证因果效应** | 常规教学 $d = 0.479$；指导式探究 $d = 0.808$ | Hattie 综合 $d \approx 0.60$ | 缺乏指导时多项[[Meta-analysis\|元分析]]效应微弱 | 认识干预 $d = 0.340$；高教二阶 $d = 0.60$ |
 
 ---
-
-## 核心要素
 
 > [!taxonomy] [[Constructivist Paradigm\|建构主义]]教学的三大理论流派与实践进路
 > - **[[Cognitive Constructivism\|认知建构主义]]教学进路（Cognitive Constructivist Approach）**
@@ -183,8 +175,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 围绕建构主义教学形成的命题归纳
 > | 命题命名 | 核心理论指向 | 教学设计与实践含义 | 代表学者与文献 |
 > |---|---|---|---|
@@ -193,8 +183,6 @@ updated: 2026-10-22
 > | **激活型认知领导命题** | 学习心理学的建构性在教学论上驱动教师的显性领导与激活 | 拒绝被动协助与放任探究，教师必须主动建构教学与学习模型 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] [[Constructivist Paradigm\|建构主义]]教学概念演进脉络
 > - **20 世纪早期至中期 — 理论萌芽与奠基** [[Jean Piaget\|皮亚杰]]的认知发展阶段论与[[Lev Vygotsky\|维果茨基]]的社会文化历史理论分别奠定了认知建构与社会互动的心理学基石。
@@ -207,8 +195,6 @@ updated: 2026-10-22
 > - **2021–2023 年 — 因果[[Meta-analysis\|元分析]]确立支架建构教学的高效能** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 与 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 通过大样本元分析量化证实，提供结构化指导与证据评估规则的建构式探究教学具有突出的学业与[[Epistemology\|认识论]]增益，彻底终结了将建构主义等同于放任式探索的理论误区。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术论争
 >
@@ -243,8 +229,6 @@ updated: 2026-10-22
 > *The results show that active, guided instruction, which formulates clear requirements to the students and supplies them continuously with [[Feedback]] about their progress and performance is more effective than unguided, facilitative, 'helping' teaching, which relies on inductive problem-solving processes and separate solutions etc. For Hattie, 'constructivism is a form of knowledge, but not a form of teaching, and the construction of conceptual knowledge should not be confused with the current fad of constructivism'. Learning is constructing corresponds a direct, active way of teaching. Construction fit with the teacher only in the following respect: he has to [[Construct]] his own model of teaching and a model of the student's learning. From constructivism it does not follow that a teacher can withdraw from his role—the opposite is the case.*
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Constructivist Paradigm\|建构主义]]教学与不同[[Framework for Teaching|教学框架]]因果效应对比
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

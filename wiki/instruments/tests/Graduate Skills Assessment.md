@@ -51,11 +51,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Graduate Skills Assessment
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Graduate Attributes\|graduate skills]] Assessment（GSA）
 > - **工具类型** 国家级大学毕业生通用素养能力测验（National Generic Graduate Skills Assessment）。
@@ -64,8 +60,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔测试或计算机机考（[[Multiple-Choice Questions\|多项选择题]] 2 小时 + 写作 1 小时）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]与通用毕业素养
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -79,16 +73,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 由情境阅读多选题与开放写作任务组合构成。
 > - **作答格式** 客观单选题 + 2 篇限时开放论述小论文。
 > - **计分与报告** 输出分领域能力等级与总百分位常模分数，生成学生个人能力诊断报告。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -98,8 +88,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | GSA 经典版 | [[OECD]] 报告分析高利害与国家级通用技能考试在大学评价中的应用模式 | 国家级毕业生通用技能测验 | 证实 GSA 是南半球探索国家级跨学科[[Higher-Order Thinking Skills\|高阶思维]]测量的开创性工程 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

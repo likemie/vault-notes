@@ -61,11 +61,7 @@ created: 2026-06-25
 updated: 2026-10-16
 ---
 
-# Flanders Interaction Analysis Categories
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 弗兰德斯语言互动分析分类体系（FIAC）
 > - **工具类型** 系统化定量[[Classroom Observation|课堂观察]]工具、行为类别观察系统（category observation system）。
@@ -80,8 +76,6 @@ updated: 2026-10-16
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] 课堂言语互动
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -93,8 +87,6 @@ updated: 2026-10-16
 > | 安静或混乱 | 1 | 停顿沉默或无法辨识的无序混乱(10) | 3 秒等距时间取样频次与矩阵单元累加 |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 观察与编码规程
 > - **题项形式** 10 项互斥的行为分类编码（代码 1–10）。
@@ -153,16 +145,12 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 > - **脱域处理摧毁情境[[Indexicality\|索引性]]** 语言的意义必须依赖于互动历史与[[Tacit Knowledge|默会知识]]；FIAC 强行将连续的话语切碎为脱离情境的 3 秒数字代号，导致研究者面对代码串产生“认知盲目”。
 > - **非言语沟通的完全盲视** FIAC 仅记录有声语言，对于眼神交流、微表情、手势姿态、肢体距离等在课堂互动中往往承担超过一半信息载荷的非言语系统缺乏任何捕捉能力。
 
-### 适用场景与边界
-
 > [!method-fit] 适用判断
 > - **适合使用** 大样本课堂教学模式的普查与横向风格对比；评估新手教师直接讲授与提问倾听的时间分配；检验宏观教学法干预（如[[Inquiry-Based Learning\|探究式教学]]改革）前后师生话语宏观比例的变化趋势。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch. 3)]]
 > - **谨慎使用** 包含大量非言语探究、小组自主研讨或多媒体混合互动的新型课堂（容易出现大面积编码 10 进而失真）。
 > - **不适合使用** 探究师生互动中的深层权力再生产、微观文化密语、突发危机化解机制；任何需要深入参与者主观意义与[[Indexicality\|索引性]]情境脉络的质性微观研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -173,8 +161,6 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 > | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch. 3)]] | 中文教材介绍版 | [[Classroom Observation\|课堂教学观察]]方法与教育研究方法教学 | 详细界定 10 个互斥类别的判定标准与 10×10 互动矩阵分析技术 | 提供师生[[Discourse\|话语]]比、I/D 比、积极与消极言语比等系列定量诊断公式 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

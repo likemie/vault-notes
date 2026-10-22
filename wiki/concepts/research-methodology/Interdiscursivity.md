@@ -54,11 +54,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Interdiscursivity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **互[[Discourse|话语]]性（Interdiscursivity，亦称互话语或跨话语性）** 是批判性[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, [[Critical Discourse Analysis|CDA]]）的核心分析概念，由英国语言学家[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough, 1992, 2003）在继承米哈伊尔·巴赫金（Mikhail Bakhtin）对话理论基础上系统提出。在费尔克拉夫的批判性话语分析三维分析模型中，互话语性特指在特定文本或话语事件中，不同体裁（Genres）、话语类型（Discourses）以及风格（Styles）之间的相互渗透、交叉组合与[[Heterogeneity|异质性]]杂糅。作为中介枢纽，它将微观层面的语言词汇与语法特征，同宏观层面的社会结构、意识形态霸权及[[Order of Discourse|话语秩序]]（Order of Discourse）紧密连接在一起，揭示文本生产与消费如何参与制度变迁与权力关系的再生产。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682, 684)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 互[[Discourse|话语]]性与关联分析概念辨析
 > | 分析维度 | 互话语性（Interdiscursivity） | 互文性（Intertextuality） | [[Recontextualization\|再情境化]]（Recontextualization） |
 > |---|---|---|---|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **政策解释功能** | 揭示国家如何借用多领域话语遮蔽政策矛盾并赋予行动正当性 | 追溯政策条文的直接来源文件与法规授权依据 | 阐明国际普遍主义理念落地本土时的形态异化 |
 
 ---
-
-## 核心要素
 
 > [!feature] 互[[Discourse|话语]]性的三大构成要素
 > - **体裁杂糅（Genres Mixture）** 特定文本同时调动行政规章、外交联合公报、商业投资协议与学术交流指南等多种制度规范，形成杂糅的新型体裁规范。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
@@ -146,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -163,8 +153,6 @@ updated: 2026-10-22
 > - **2023年 — 跨国高等教育战略研究深化** 伍国雄（[[Education Resources Information Center|Eric]] Woo）将互话语性引入中国[[Belt and Road Initiative|一带一路]]跨国高等教育政策文本群的深度解构，揭示外交、经济与教育三重视角的话语互穿机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–682, 684–687)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

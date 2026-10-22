@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Goal Commitment
-
 > [!metax] [目标承诺 · Goal commitment](https://www.visiblelearningmetax.com/influences/view/goal_commitment)
 > 教学策略 › 学习意图
 >

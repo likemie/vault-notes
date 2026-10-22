@@ -73,11 +73,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Educational Decentralization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教育分权（Educational Decentralization）**，广义指将原本由中央政府集中行使的教育决策、财政筹措、人事任免、课程设置与学校监管等权力，依法转移或下放给次级行政区划（如州、大区、省、自治区）、基层自治市镇或学校自治实体的制度安排，其传统意图在于增强民主参与度与行政响应效能（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–326]]）。在当代全球教育治理中，它呈现多重异化面貌：一方面被[[World Bank|世界银行]]、[[OECD|经合组织]]等建构为[[Global Educational Discourse|全球教育话语]]普遍模型之首，通过捆绑中央质量监控实现[[Governing at a Distance|远处治理]]（[[Steering at a Distance]]）并向地方转嫁财政兜底责任（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]]）；另一方面在新西兰“明日学校”等新自由主义改革中，权力下放（Devolution）被作为解构公共教育管理体制的特洛伊木马，将原公立教育局拆解为自负盈亏的商业公司，迫使学校在半开放市场上自费采购公共服务，沦为推动教育服务私有化与商业外包垄断的制度跳板（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 欧美主要[[State Educational Sovereignty|国家教育权]]力纵向配置模式矩阵
 > | 国家／案例 | 基础权力体制 | 权力转移重心 | 20 世纪中叶以来的关键调适轨迹 | 治理主要弊端与风险 |
 > |---|---|---|---|---|
@@ -112,8 +106,6 @@ updated: 2026-10-22
 > | 全球南方受援国（阿根廷、巴西） | 外部贷款驱动的去情境化分权 | 省州及基层公立学校 | 顺应世界银行五大支柱模型，将分权作为危机解方全盘移植，导致中央财政脱手而地方资源与专业培训严重断裂（[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b, pp. 348–349]], 354）。 | 微观教学失控、制度瘫痪与商业出版资本俘获。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 教育分权的核心制度要素
 > - **财权与事权下放（Fiscal & Administrative Devolution）** 地方政府或基层学校获得制定本地教育预算、新建校舍、调配教职人员以及决定学校设点的法定权力（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–326]]）。
@@ -182,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -202,8 +192,6 @@ updated: 2026-10-22
 > - **1990 年代末至今 — 反向集权回流与微观异化反思** 英美通过建立国家课程与强化联邦问责实施纠偏；德国在 [[PISA]] 冲击后反思州级割据；批判教育社会学与比较教育学者（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）系统揭示激进分权与虚假放权所导致的行政肥胖、国家教育空间解体与商业资本牟利危机。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -225,8 +213,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 跨国教育权力纵向配置与分权实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -238,8 +224,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] 新西兰：明日学校权力下放与教育服务中心私有化
 > 1989 年新西兰实施明日学校改制，以权力下放（Devolution）为名解散了原有的区域公立教育局，将公立管理职能转交给学校基层校董会，而原有教育局的后勤、人事与校车服务等则被改组为自负盈亏的私营教育服务中心（如 Multiserve，后更名为 [[Cognition Education]]）。学校必须在市场上自费购买这些服务，最终导致学者与商业机构结盟成立专营品牌，将原本属于公立范畴的教师培训全面转化为跨国资本的牟利网络（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 30]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 
@@ -250,8 +234,6 @@ updated: 2026-10-22
 > 20 世纪 90 年代，[[World Bank|世界银行]]等国际多边组织向阿根廷和巴西输出包含分权化与[[School Autonomy|学校自主权]]的通用教育改革方案。然而，由于缺乏配套的师资专业准备与财政支持，阿根廷公立学校教师在获得课程自主权后陷入巨大备课恐慌，集体翻抄商业教辅图书目录；巴西的分权化师训改革则诱发了跨层级行政体系的严重瘫痪（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 348–349]], 353–355）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 新西兰明日学校权力下放与公共服务企业化改制
 > 20 世纪 80 年代初，新西兰发生了一场大规模的新自由主义教育改革试验。1989 年，当地教育系统经历了一场‘权力下放’（Devolution），将公立教育委员会的某些职能转变为名为教育服务中心（ESCs）的私营公司。教育服务中心在半开放的市场体系中竞争，向学校提供其原有的公共服务。原奥克兰学校委员会的交通和薪酬部门变成了一家名为 Multiserve 的教育服务中心，后来更名为[[Cognition Education|认知教育]]公司。在利润动机的驱动下，教育服务中心多元化拓展其业务……[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]

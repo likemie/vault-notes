@@ -42,11 +42,7 @@ created: 2026-08-03
 updated: 2026-10-22
 ---
 
-# Curriculum as Praxis（作为实践的课程）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **作为实践的课程（Curriculum as [[Praxis]]）** 由雪莉·葛兰蒂（Shirley Grundy, 1987）结合保罗·[[Paulo Freire\|弗莱雷]]的[[Critical Pedagogy|解放教育学]]正式提出 (Grundy, 1987; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 68–71]])。该[[Paradigm\|范式]]是[[Curriculum as Process\|作为过程的课程]]的批判性深化：它主张行动不仅要由[[Phronesis\|实践明智]]所指导，更必须具备**对政治解放的显性承诺（commitment to emancipation）**。课程的核心目标是引导师生在共同探究中觉醒批判意识，并采取实质性变革行动（[[Praxis\|Praxis]]）解构不公正的社会结构。
@@ -76,9 +72,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **解放政治承诺（Commitment to Emancipation）** 明确将消除社会不公与[[Dehumanization\|非人性化]]作为课程使命。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 68)]]
 > - **集体实践行动（Collective [[Praxis]] Action）** 探究必须延伸至课堂之外的社区与社会变革实践。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 70)]]
 > - **文化协商（Cultural Negotiation）** 课程内容由师生在横向对话中共同协商构建。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 69)]]
@@ -108,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -122,8 +114,6 @@ updated: 2026-10-22
 > - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用实践范式指出了 IB TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 78–81)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > 在高度威权或保守政治环境中，要求学校课程直接开展对抗性社会行动可能面临极大的建制阻力。

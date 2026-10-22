@@ -38,14 +38,10 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Crotty's Four Levels of Research Design
-
 > [!info] 定义
 > Crotty (1998) 提出的四层研究设计框架，将研究设计中的关键决策组织为从最抽象到最具体的四个层次。自上而下依次是：[[Paradigm\|范式]]世界观（paradigm worldview）→ 理论透镜（[[Theoretical Standpoint\|theoretical lens]]）→ 方法论路径（methodological approach）→ 数据收集方法（methods of data collection）([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.71]])。
 
-## 四个层次
-
-> [!abstract|notitle]
+> [!abstract] 四个层次
 > **第一层：[[Paradigm\|范式]]世界观（Paradigm Worldview）**。最抽象的层次，涉及研究者的基本信念和价值观。世界观可能被显式陈述，也可能隐含在研究设计中。例如[[Postpositivism\|后实证主义]]、[[Constructivist Paradigm\|建构主义]]、[[Transformative Paradigm\|变革主义]]和[[Pragmatic Paradigm\|实用主义]]等。
 
 > [!abstract|notitle]

@@ -58,11 +58,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# National Pupil Database
-
 ---
-
-## 基础设施定位与宗旨
 
 > [!claim] 核心定位
 > 英格兰国家学生数据库（National Pupil Database，NPD）是由英国教育部（Department for Education，DfE）设立并统筹运营的国家级全样本行政微观人口数据库。该数据库整合了英格兰所有受公共财政资助的学校中 3 至 19 岁儿童与青少年的标准化统考成绩、出勤表现、人口统计特征及升学轨迹，构成了英国教育因果评估、循证改革研究及教育公平问责不可或缺的核心[[Data Infrastructure\|数据基础设施]]（FFT Education Datalab, 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 52–54]]）。
@@ -75,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 数据架构与核心模块
-
 > [!ref-table] NPD 核心数据模块与[[Variable\|变量]]构成
 > | 模块名称 | 英文名称 | 涵盖主要指标 | 在实证评估中的关键作用 |
 > |:---|:---|:---|:---|
@@ -85,8 +79,6 @@ updated: 2026-10-22
 > | **弱势与特教支持标记** | Disadvantage & SEND | 免费校餐资格（Free School Meals, FSM）、[[Pupil Premium\|学生津贴]]（Pupil Premium）标记及特殊教育需求与残障分类。 | 开展处境不利群体的[[Heterogeneity\|异质性]]子群体分析（Subgroup Analysis），评估学业差距缩窄幅度。 |
 
 ---
-
-## 在循证教育试验中的方法论支柱功能
 
 > [!feature] NPD 驱动的方法学革新
 > - **根治自编测验偏倚，确立坚实的[[External Validity\|外部效度]]** 传统教育试验常使用研发者自行编制的测验，因过度贴合干预内容而导致[[Effect Size\|效应量]]被虚假放大数倍（Cheung & Slavin, 2016）。英国[[Education Endowment Foundation\|教育捐赠基金会]]强制要求以 NPD 全国统考客观成绩作为主要结局指标，彻底剥离研发者自制量表的狭隘偏向，确保了试验结论的客观性与[[External Validity\|外部效度]]（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。

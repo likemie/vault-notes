@@ -54,11 +54,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Criterion Problem
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Criterion Problem\|效标问题]]（The Criterion Problem）是指在心理学、教育学与组织行为学研究中，**缺乏一个公认一致、客观无偏且能完整表征目标[[Construct\|理论构念]]的终极效标（Ultimate Criterion）**，导致研究者不得不使用各种存在效标污染（Criterion Contamination）与效标缺失（Criterion Deficiency）的代理指标，进而引发测量结果不一致、[[Construct Validity\|构念效度]]滑坡与实证[[Effect Size\|效应量]]人为稀释的经典心理测量学困境（Shapiro, 1970; Wolf, 1994; Paek & Runco, 2018; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 7–8]]）。
@@ -79,8 +75,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 终极效标 vs 实际效标 vs 中间效标
 > | 比较维度 | 终极效标（Ultimate Criterion） | 实际效标（Actual Criterion） | 中间代理效标（Intermediate Criterion） |
 > |---|---|---|---|
@@ -90,8 +84,6 @@ updated: 2026-10-16
 > | **[[Creativity\|创造力]]研究案例** | 个体终其一生的真实卓越创造贡献总量 | 自陈创造性成就[[Questionnaire\|问卷]]（CAQ）得分、[[Consensual Assessment Technique\|同感评估技术（CAT）]]专家评定产品质量 | [[Divergent Thinking\|非常规用途测验（AUT）]]的独创性即时打分 |
 
 ---
-
-## 核心要素
 
 > [!feature] 效标问题的三大结构性病理机制
 > - **效标缺失（Criterion Deficiency）** 实际效标未能完全涵盖终极[[Construct\|构念]]的全部关键维度（如用单一[[Divergent Thinking\|发散思维]]测验代替完整[[Creativity\|创造力]]，遗漏了[[Problem Finding\|问题发现]]与价值评估）。
@@ -140,8 +132,6 @@ updated: 2026-10-16
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -149,8 +139,6 @@ updated: 2026-10-16
 > | **复合效标矩阵** | 结合潜能认知测验、真实产品评定与自陈问卷是破解效标困境的唯一有效路径 | 心理测量工具开发、教育综合评价体系 | Wolf (1994); Amabile (1982) |
 
 ---
-
-## 理论与实证争鸣
 
 > [!tension] 行为结果效标 vs 认知过程效标之争
 > - **行为/产品效标学派** 坚持以现实世界中可见的[[Creativity\|创造性]]成果（如专利、出版物、同感评估作品）作为唯一具有[[Ecological Validity\|生态效度]]的硬效标。

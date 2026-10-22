@@ -49,11 +49,7 @@ created: 2026-08-29
 updated: 2026-10-22
 ---
 
-# Model Fit Indices in SEM and CFA
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **结构方程模型与[[Confirmatory Factor Analysis\|验证性因子分析]]拟合指数（Model Fit Indices in [[Causal Modeling\|SEM]] and CFA）** 是一套用于检验理论假设模型所蕴含的协方差矩阵 $\boldsymbol{\Sigma}(\boldsymbol{\theta})$ 与样本实际观测协方差矩阵 $\mathbf{S}$ 之间吻合程度（Goodness of Fit）的多维度量化评价体系。它弥补了传统[[Chi-Squared Test\|卡方拟合优度检验]]（$\chi^2$）对大样本过度敏感而必然拒绝正确模型的缺陷，为评估测量模型（CFA）与结构路径模型（SEM）的经验合法性提供客观决策标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
@@ -69,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心指标矩阵与判定阈值
-
 > [!contrast-table] 核心拟合指数全景对比与判定阈值
 > | 指标族群 | 指标名称（缩写） | 数学公式 / 核心定义 | 优秀标准 | 可接受标准 | 指标特征与核心注意事项 |
 > |:---|:---|:---|:---:|:---:|:---|
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > | **信息准则** | **赤池 / 贝叶斯准则**<br>$\text{AIC / BIC}$ | $-2\ln L + 2k \ / \ -2\ln L + k\ln N$ | — | 越小越好 | 用于**非嵌套模型（Non-nested Models）** 之间的相对优劣选拔。 |
 
 ---
-
-## 经典公式与数学原理
 
 > [!formula-step] 公式步骤一　RMSEA 渐进残差均方和平方根
 > $$\text{RMSEA} = \sqrt{\max\left(0, \frac{\chi^2 - df}{(N - 1)df}\right)}$$
@@ -105,8 +97,6 @@ updated: 2026-10-22
 > **结果怎么读** $\text{CFI} \in [0, 1]$。$\text{CFI} \ge 0.95$ 表明模型解释了基线模型中 $95\%$ 以上的非独立协方差变异，拟合优异。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
 
 ---
-
-## 判定准则与报告规范
 
 > [!method-position] Hu and Bentler (1999) 双指标组合判定规则
 > 传统仅依据单一指数（如 CFI $> .90$）容易导致过高的 II 类错误（接受错误模型）。Hu and Bentler (1999) 蒙特卡洛模拟推荐采用**双指标联合判定策略**
@@ -134,8 +124,6 @@ updated: 2026-10-22
 > | [[Scale Development]] | 宏观流程 | 在量表编制阶段三中作为确证因子模型与评价题项质量的把关指标。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在独立样本（N = 258）中比较三种因子模型的拟合指数，确立教师[[Research Literacy\|研究素养]]的二阶因子结构。

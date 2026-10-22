@@ -70,11 +70,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Chi-Squared Test
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 卡方检验（Chi-Squared Test, $\chi^2$ test）是一族基于卡方分布（$\chi^2$ distribution）对类别[[Variable\|变量]]（categorical variables）的频数数据进行推断统计的非参数假设检验方法。其核心机制在于比较实际观测频数（Observed Frequencies, $O$）与在原假设（[[Null Hypothesis\|零假设]] $H_0$）成立条件下的理论期望频数（Expected Frequencies, $E$），通过构建两者偏差平方加权和的 $\chi^2$ 统计量，评估观测分布与理论分布的偏离程度或检验两个类别变量之间是否存在统计学关联。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 卡方检验植根于频数统计与概率论视域，将分类现象视为离散状态的概率分布，通过比较经验观察频数与理论期望频数的偏离程度来判定分类[[Variable\|变量]]间的关联状态。
 > - **研究者角色** [[Quantitative Research\|量化研究]]者需在研究设计阶段严密界定分类变量的[[Scale of Measurement\|测量尺度]]（名义尺度 vs 顺序尺度），严格核验各单元格期望频数假设（通常要求 $E \ge 5$），并在模型输出显著后结合[[Effect Size\|效应量]]与残差进行实质解释，避免简单将统计显著等同于因果效应。
@@ -116,8 +110,6 @@ updated: 2026-10-22
 >   - 标准化残差分析（Standardized Pearson Residuals）
 
 ---
-
-## 研究程序
 
 > [!proc] 通用检验程序
 > 1. **明确[[Hypothesis\|研究假设]]与[[Variable\|变量]]尺度** 确定自[[Variable\|变量]]与[[Dependent Variable\|因变量]]是否均为名义分类尺度，提出原假设 $H_0$（两变量相互独立/观测分布符合理论比例）与[[Alternative Hypothesis\|备择假设]] $H_1$。
@@ -188,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法变体与相近方法辨析
-
 > [!tension-table] 分类与推断统计方法选择全景对比
 > | 方法名称 | 适用数据类型 | 样本设计与[[Unit of Analysis\|分析单位]] | 核心检验目的 | 关键假设与约束条件 | 替代/升级方案 |
 > |---|---|---|---|---|---|
@@ -235,8 +225,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - [[Survey Research\|调查研究]]中分析两个名义类别[[Variable\|变量]]之间的列联交叉表关联（如学科专业与职业选择、政策知晓度与参与意愿）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
@@ -251,8 +239,6 @@ updated: 2026-10-22
 >   - 配对或[[Repeated Measures Design\|重复测量设计]]（应使用 McNemar 检验或[[Generalized Estimating Equations\|广义估计方程]]）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **[[Sample Size Determination\|样本量]]极端敏感性** $\chi^2$ 值随总样本量 $N$ 的增加而线性放大；在大样本（如 $N > 5000$）下极微弱且无实质意义的微小差异也能产生极小 $p$ 值，必须强制补充报告 Cramér's $V$ [[Effect Size\|效应量]]。
@@ -276,8 +262,6 @@ updated: 2026-10-22
 > | [[Metacognition]] | 调控机制 | 在大模型误推卡方检验时激活[[Epistemic Friction\|认知摩擦]]与多源核验的核心监控中枢。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 阐明卡方检验在量化调查与实验设计中作为两类别[[Variable\|变量]]关联检验的标准统计程序。（Ch8）

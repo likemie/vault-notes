@@ -59,9 +59,7 @@ updated: 2026-10-22
 > - North Carolina Mooresville 学区的一对一笔记本项目与教学实践变化、社区互联网可及性提高、学生用电脑完成[[Homework\|家庭作业]]增加相关；短期成就没有提高，但中期数学成绩提高.13 SD。
 > - BCPS 的 [[Students and Teachers Accessing Tomorrow\|STAT]] 案例显示，技术融入在教师准备、设备进入课堂、数字资源使用、学生参与和学生中心教学方面有较一致积极进展，但英语语言艺术和数学成就证据并不明确([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.118-123]])。
 
-## 争议与批评
-
-> [!warning|notitle]
+> [!warning] 争议与批评
 > 技术融入的效果很难被严格隔离。学区范围改革往往没有纯粹控制组，技术应用也与教师专业发展、个性化学习、课程改革和领导变化交织在一起；即使发现结果改善，也难以判断究竟是哪一部分起了作用([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p.114]])。
 
 > [!warning|notitle]

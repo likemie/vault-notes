@@ -78,8 +78,6 @@ created: 2026-07-19
 updated: 2026-10-22
 ---
 
-# Computer Simulation
-
 ---
 
 ## 定义
@@ -193,8 +191,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -245,8 +241,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -290,8 +284,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!case] [[PhET Interactive Simulations\|PhET]] 交互式仿真平台中的“教学黄金点”实践（Moore & Perkins, 2018）
 > 科罗拉多大学研发的 PhET 交互式物理仿真库（如“单摆实验”、“电路搭建”、“光电效应”）在全球数千万课堂中广泛普及。在单摆探究中，学生可以随意调整摆线长度、摆锤质量、振幅角度，甚至切换地球、月球与木星重力场。系统不直接给出单摆周期公式 $T = 2\pi\sqrt{L/g}$，而是允许学生在毫秒级秒表与动态能量条形图反馈中自主探索。通过将不可见的动能与势能相互转化可视化，学生自主发现“摆锤质量对周期毫无影响”的反直觉规律，随后由教师进行公式推导，实现了技术微世界与课堂讲授的完美融合。
 
@@ -315,8 +307,6 @@ updated: 2026-10-22
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011)]] | 论证 | 权威方法论专著系统阐发计算机模拟的哲学基础、建模特征与[[Epistemology\|认识论]]局限。 |
 
 ---
-
-## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统梳理虚拟仿真文献，引用 Smetana and Bell (2012) 61 项综述与 d'Angelo et al. (2014) 59 项[[Meta-analysis\|元分析]]，确立配备[[Scaffolding\|认知支架]]与即时介入的计算机模拟探究在概念掌握与推理技能上的显著循证优势。

@@ -186,11 +186,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Educational Evidence Clearinghouses
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教育证据清算中心（Educational Evidence Clearinghouses, CH）** 是在[[Evidence-Based Education\|循证教育]]（EBE）与循证改革（[[Evidence-Based Reform\|EBR]]）中兴起的制度化[[Knowledge Mediation\|知识中介]]组织。狭义上特指通过设定科学因果[[Evidence Standards\|证据标准]]、系统审查评估教育干预效果，并面向公众和政策界发布具名项目“有效性评级（effectiveness ratings）”的专业评级实体平台([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 4–5]])；广义上则是指在教育[[Epistemic Governance\|知识治理]]生态中承担连接科学研究、政策制定与教学实践功能的教育证据中介与转化枢纽（[[Boundary Spanner\|Boundary Spanners]]），涵盖部委嵌入型政策智库、政府资助自治实体、独立慈善基金以及一线定制化咨询平台等多元制度形态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–64]])。
@@ -214,8 +210,6 @@ updated: 2026-10-22
 > - 不等于 [[Inclusive Evidence Validation Typology\|包容性证据验证类型学]] — 清算中心多预设高门槛的外部标准化认证；包容性验证类型学则是为早期本土创新工具设立阶梯式准入标准，防止因盲目照搬清算中心顶级门槛而扼杀实践探索([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp. 175–176]])。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 教育证据中介与相关概念辨析
 > | 比较维度 | 教育证据清算中心 (Clearinghouse) | [[Educational Brokerage Agency\|教育知识中介机构]] (Brokerage) | [[Evidence-Based Education\|循证教育]] (EBE) | [[Systematic Review\|系统综述]] / [[Meta-analysis\|元分析]] |
@@ -288,8 +282,6 @@ updated: 2026-10-22
 > | **法定证据分级与决策情境派** | 美国 [[Evidence for ESSA]]；<br>美国 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] | 严格对齐法定分层（如 ESSA 四级证据），开创“因果效度 × 实施成本 × 生源匹配”三维决策核验，推行 1 个月快速入库。 | 专为学区与基层学校合规采购设计，转译效率极高，直观呈现生源与成本，精准击穿选型决策盲区。 | 评级高度锚定特定国家法案分类框架，在缺乏类似分级立法的体制中迁移受限。 |
 
 ---
-
-### 3. 评级生成与治理循环逻辑图
 
 > [!logic-map]- 证据清算中心的[[Research Translation\|知识转译]]与生态治理架构图
 > ```mermaid
@@ -389,8 +381,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 教育证据清算中心核心命题总览
 > | 命题类型 | 核心理论指向 | 适用情境与政策场景 | 代表学者与核心依据 |
 > |:---|:---|:---|:---|
@@ -401,8 +391,6 @@ updated: 2026-10-22
 > | **存续悖论与元治理命题** | 机构存亡受制于 2–3 年政治预算周期错配，亟需推进元中介建构累积知识库 | 中介机构制度设计、长效财政机制、跨国元协调 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 教育证据清算中心与中介机构的制度化演进历程
 > - **2001 — [[No Child Left Behind Act 2001\|NCLB]] 法案确立科学研究要求** 美国《不让一个孩子掉队法案》（NCLB）将“[[Scientifically Based Research\|基于科学的研究]]”写入联邦法规，强制要求联邦教育拨款与实证因果证据挂钩，催生了政府级证据中介的需求([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])。
@@ -418,8 +406,6 @@ updated: 2026-10-22
 > - **2024 — 评级[[Convergent and Discriminant Validity\|收敛效度]]实证检验与元标准协调诉求** 学界首次完成 12 个教育清算中心全景比较，实证揭示多重评级一致性仅约 30.5% 与综合门槛断层，推动[[Evidence-Based Education\|循证教育]]界反思单一标签崇拜，呼吁建立跨平台元标准与穿透式审查体系([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -456,8 +442,6 @@ updated: 2026-10-22
 > - 结论主要适用于承担“项目有效性认证与评级”或“实践指南研发”的制度化中介机构，不直接等同于纯粹承担[[Literature Search\|文献检索]]、专业学会联络或学术出版的常规科研支持机构([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 28–29]])。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 教育证据清算中心与中介机构核心实证研究结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

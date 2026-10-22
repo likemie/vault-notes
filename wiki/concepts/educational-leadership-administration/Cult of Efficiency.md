@@ -39,8 +39,6 @@ created: 2026-06-09
 updated: 2026-10-22
 ---
 
-# Cult of Efficiency
-
 > [!info] 核心定义
 > 效率崇拜（Cult of Efficiency）是由美国教育行政历史学家雷蒙德·卡拉汉（Raymond Callahan）于 1962 年在其经典著作《教育与效率崇拜》（*Education and the Cult of Efficiency*）中提出的历史类比与组织社会学概念。该概念指 20 世纪前五十年美国公立教育系统盲目跟风引入弗雷德里克·温斯洛·泰勒（Frederick Winslow Taylor）的商业“科学管理”原则，以追求企业化的高效运营、成本控制和行政标准化作为学校改进的核心尺度，从而将民主、正义与人本等教育的本源价值边缘化，代之以狭隘的工商业控制理性的现象。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 413–414]])
 

@@ -31,8 +31,6 @@ created: 2026-05-21
 updated: 2026-10-22
 ---
 
-# Discursive Opportunity Structures
-
 > [!info] 定义
 > [[Discourse|话语]]性机会结构（discursive opportunity structures）是 Parreira do Amaral and Dale（2015）在教育轨迹治理研究中提出的分析概念，指话语如何"框定思维与行动的可能性"（frame the possibilities of thought and action），并由此调节全球高等教育中服务、职位和实践的可及性([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.253]])。
 

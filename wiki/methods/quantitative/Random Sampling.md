@@ -47,11 +47,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Random Sampling
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 随机抽样（Random Sampling），亦称概率抽样（Probability Sampling），指从明确界定的研究总体中，依据已知的非零概率（在简单随机抽样中为均等概率）抽取样本单元的方法论策略家族。核心目标是通过概率随机化机制消除抽样过程中的主观选择偏倚，使样本统计量能够以可计算的误差范围无偏推断总体参数，确立研究的外部效度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch8, pp. 143–145）。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 > *In probability sampling, each member of the population has an equal or known probability of selection. This randomness allows the researcher to make statistically valid inferences from the sample to the broader population.*
 
 ---
-
-## 方法定位
 
 > [!method-position] 认识论与方法定位
 > - **知识观** 依托大数定律（Law of Large Numbers）与中心极限定理（Central Limit Theorem），坚持经验知识的统计可推论性；主张通过规范的概率机制消除抽样偏倚，实现从样本到总体的科学推断。
@@ -92,16 +86,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **明确目标总体与编纂抽样框** 精确定义研究对象的范围与边界，获取或整理包含全体单位的完整[[Sampling Frame|抽样框]]名录。
 > 2. **确定概率抽样策略** 依据研究目标与总体分布结构，选择简单随机抽样、系统抽样、分层抽样、整群抽样或多阶混合设计。
 > 3. **计算目标样本量** 根据预设的置信水平（如 95%）、容许误差界限（Margin of Error）以及方差参数，结合有限总体修正公式测算理论样本量。
 > 4. **运行随机抽取程序** 设定算法随机种子，生成抽样随机数并导出入选名单，锁定抽样凭据以便审计核查。
 > 5. **追踪应答并执行加权校准** 统计实际问卷回收率与测试参与率，开展[[Response Bias|应答偏差]]分析，运用设计权重与事后分层权重修正估计量。
-
-### 量化方法模块
 
 > [!taxonomy] 概率抽样六种核心类型
 >
@@ -145,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 
 >   - 国家或国际层面的教育系统宏观监测（如 PISA、TIMSS、国家义务教育质量监测），通过代表性抽样识别区域与群体学业趋势；
@@ -159,8 +147,6 @@ updated: 2026-10-22
 >   - **微观高利害绩效问责** 当治理目标是对全量学校编制公开排位榜（League Tables）、挂钩校长撤职或实施教师绩效工资奖惩时，随机抽样评估在制度上完全无法适用；高利害市场问责必须依托覆盖全量主体的全员普查（Census-based NLSA），抽样评估由于未覆盖全部学校，在法律与操作层面均无法用于个体奖惩。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 263)]]
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **抽样框依赖与覆盖偏倚** 现实中极难构建绝对无缝的目标总体名册；边缘弱势人群（如流浪儿童、私立打工子弟学校）常被正规抽样框遗漏，导致结构性系统偏差。
@@ -182,8 +168,6 @@ updated: 2026-10-22
 > | [[Test-Based Accountability]] | 政策背景 | 考试问责强化驱动全员普查测评扩展，与抽样监测的低利害属性形成张力。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion and Morrison (2011, Ch8)]] — 系统介绍概率抽样的六大子类型、抽样框构建、样本量计算准则与偏倚风险控制。（pp. 143–155）

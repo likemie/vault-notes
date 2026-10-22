@@ -63,11 +63,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Open Coding
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **开放编码（Open Coding，又称开放式编码、初始编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的奠基性操作程序：指将原始经验文本（如访谈逐字稿、[[Field Notes\|田野笔记]]、档案材料）系统拆解切碎为细小的[[Unit of Analysis\|分析单位]]，并通过细致检验、持续比对、概念化提炼与归类，为文本片段赋予概念化标签或范畴代码的过程（Strauss & Corbin, 1990, ch. 5, pp. 61–72；Flick, 2009, pp. 307–310；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 560–561]]）。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 > *Coding is the process of breaking down segments of text data into smaller units... and then examining, comparing, conceptualizing and categorizing the data... Open coding generates categories and defines their properties (the characteristics of a category or phenomenon or its attributes) and dimensions (the location of a property along a given continuum). (Strauss & Corbin, 1990, pp. 61, 69)*
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 经验世界包含丰富的本土常识与生活意义；开放编码主张研究者应放下先验理论框架，以高度开放的姿态直接面向经验材料，让概念从文本深处响应性地[[Emergence\|涌现]]。
@@ -202,15 +196,11 @@ updated: 2026-10-22
 
 ---
 
-## 现代演进：CAQDAS 与生成式 AI 协同
-
 > [!pathways] 现代技术赋能开放编码的路径与[[Epistemology\|认识论]]准则
 > - **[[Qualitative Computer Software\|CAQDAS]] 自动化词频与节点标注** 计算机软件（如 NVivo、MAXQDA、ATLAS.ti）支持快速全文关键词检索、自动文本分段与树状节点初步归档，显著提升了大规模文本微观切片的管理效率。
 > - **大语言模型[[Meaningful Human Control|人在回路]]（HITL）协同初筛** 大语言模型具备强大的无偏语义扫描与候选概念归纳能力，能够辅助人类研究者识别高频共现主题并拟定备选属性维度。但大模型输出仅能作为启发性线索，所有概念的最终确立必须严格由人类研究者根据生活语境进行回溯核验。
 
 ---
-
-## 适用场景与局限性
 
 > [!method-fit] 适用判断
 > - **适合使用** 处于探索初期、缺乏现成理论框架的[[Qualitative Research\|质性研究]]；需要从微观言语细节中挖掘新概念、新维度的丰富文本资料。

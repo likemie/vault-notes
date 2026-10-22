@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Online and Digital Tools
-
 > [!metax] [在线与数字工具 · Online and digital tools](https://www.visiblelearningmetax.com/influences/view/online_and_digital_tools)
 > 技术、学校与校外策略 › 在线与数字
 >

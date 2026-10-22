@@ -88,7 +88,6 @@ argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Nordic Journal of Studies in Educational Policy"
 ---
-# Argument_Knudsen_2017_NordSTEP
 
 ---
 
@@ -105,8 +104,6 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -118,8 +115,6 @@ journal: "Nordic Journal of Studies in Educational Policy"
 > 科学技术研究（STS）的转译与施效视角，用于透视统计[[Meta-analysis|元分析]]如何被转化为标准化教师培训文本，追踪商业特许合同与脚本化技术如何在不同国家重塑课堂权力；波普尔的证伪主义与认知科学概念，则展现出实证量化哲学与规范教学模型之间的内在辩护逻辑，两者共同揭示出[[Technical Rationality|技术理性]]与本土文化碰撞的深层机理。（pp. 253–254, 258–260）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -137,8 +132,6 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -151,9 +144,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-### 论证步骤一　用商业特许合同与逐字脚本强制推行教学标准化
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　用商业特许合同与逐字脚本强制推行教学标准化
 > [[John Hattie|哈蒂]]借鉴商业特许经营模式，通过与 [[Cognition Education]] 签订法律合同设立 23 国授权网络，推行严格脚本化的工作坊并坚决禁止教师分享个人课堂轶事，将[[Implementation Fidelity|实施忠实度]]建立在集权化的技术规训之上。（pp. 254–255）
 
 #### 1. 照搬连锁店加盟模式控制全球培训质量
@@ -190,9 +181,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-### 论证步骤二　用大周期成功标准纠正碎片化教学目标
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　用大周期成功标准纠正碎片化教学目标
 > 面对丹麦以尼古拉·弗雷德里克·塞韦林·格隆维（Nikolai Frederik Severin Grundtvig）为代表的全人教养批判，哈蒂主动淡化循证标签以规避盲从指责，主张以贯穿 10 至 12 周的[[Success Criteria|成功标准]]整合表层与[[Surface and Deep Learning|深层学习]]，化解原子化目标对求知好奇心的侵蚀。（pp. 255–257）
 
 #### 1. 抛弃循证口号并退守到关注教学实际效果
@@ -224,9 +213,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-### 论证步骤三　借助客观监测破除盲区并遵循认知进阶规律
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　借助客观监测破除盲区并遵循认知进阶规律
 > 可见性通过客观[[Transcription in Qualitative Research|转录]]与编码技术破除教师无法察觉 80% 课堂互动的认知盲区，而学习被界定为依据可观察学习结果结构（[[SOLO Taxonomy|Structure of Observed Learning Outcomes]], SOLO）从表层认知向深层建构与迁移的进阶，指出[[Problem-Based Learning|基于问题的学习]]在此过程中的错位应用是导致其[[Effect Size|效应量]]低下的根源。（pp. 257–258）
 
 #### 1. 实时录音转录证实教师独占绝大部分课堂时间
@@ -259,9 +246,7 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-### 论证步骤四　以统计中立掩盖先验理论并换取全球实践数据
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　以统计中立掩盖先验理论并换取全球实践数据
 > 哈蒂以统计学家自居并声称置身于理论之外，借此构筑实证中立防护栏，但在回应丹麦引介者废弃理论的主张时[[Recognition Theory|承认理论]]是解释证据的先验透镜，其真正的学术动力在于依托商业网络回收全球海量实践数据。（pp. 258–260）
 
 #### 1. 承认理论决定证据解释并接受证伪检验
@@ -297,8 +282,6 @@ journal: "Nordic Journal of Studies in Educational Policy"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **特许专营与脚本规训确立跨国实施控制** 通过与 [[Cognition Education]] 建立严密的商业法律合同，[[John Hattie|哈蒂]]以五分之一的严苛通过率及完全脚本化的讲义推行培训，坚决禁止教师交流个人轶事，将[[Implementation Fidelity|实施忠实度]]建立在中央集权式的技术控制之上。（pp. 254–255）
 > 2. **修辞后退与长周期[[Success Criteria|成功标准]]重塑评价** 面对丹麦以格隆维传统为代表的批判，哈蒂主动淡化循证标签并退守至知晓你的影响；同时反思原子化[[Learning Intentions|学习意图]]的枯燥弊端，主张以贯穿 10 至 12 周的成功标准向学生具象化展现卓越。（pp. 256–257）
@@ -322,8 +305,6 @@ journal: "Nordic Journal of Studies in Educational Policy"
 > - **30** （天） 哈蒂每年为商业特许公司 Cognition Education 提供的差旅与宣讲时间。（p. 260）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[John Hattie|哈蒂]]论测量人员定位与商业培训的严格脚本化
 > 我本质上是做测量与统计的人，关于概念开发和项目落地的工作只是我顺带兼顾的业余爱好……整个培训都有标准化脚本，精确到一字一句。受训者完全察觉不到，而这恰是推行成功的秘诀。我们面向全球招聘培训师，通过率仅有五分之一。几乎每个教师都想站起来畅谈自己的个人经历、课堂轶事和带教感受。我们坚决禁止这种行为，因为一旦开了口子，就等于默许在场的每位教师都在那里高谈阔论各自的陈年旧事、主观成见与班上孩子。（p. 254）

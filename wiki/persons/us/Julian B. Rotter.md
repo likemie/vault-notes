@@ -38,9 +38,6 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# Julian B. Rotter
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Julian B. Rotter（1916–2014），美国心理学家，康涅狄格大学荣休教授。Rotter 是[[Social Learning Theory\|社会学习理论]]的主要奠基人之一，以提出[[Locus of Control\|控制点]]（locus of control）[[Construct\|构念]]和一般行为期望公式而闻名。他的工作构成了 Bandura 社会认知理论和 Weiner [[Attribution Theory\|归因理论]]的重要前置基础。
@@ -51,9 +48,7 @@ updated: 2026-10-22
 - Rotter, J. B. (1966). Generalized expectancies for internal versus external control of reinforcement. *Psychological Monographs: General and Applied*, 80(1), 1–28. — 提出[[Locus of Control|控制点]][[Construct|构念]]的开创性论文，区分内部控制点和外部控制点。
 - Rotter, J. B. (1975). Some problems and misconceptions related to the construct of internal versus external control of reinforcement. *Journal of Consulting and Clinical Psychology*, 43(1), 56–67. — 对控制点构念常见问题的澄清和进一步阐述。
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Rotter 的核心贡献包括两个方面。第一，他系统阐述了[[Social Learning Theory\|社会学习理论]]的四类[[Variable\|变量]]：行为 (behavior)、期望 (expectancies)、强化 (reinforcement) 和心理情境 (psychological situations)。第二，他提出了一般行为公式：特定心理情境中行为发生的潜力，是该行为将导致特定强化的期望与该强化价值的函数（Rotter, 1975, p.57; 引自 Creswell & Creswell, 2022, p.61）。公式中的期望[[Construct\|构念]]进一步被定义为内部[[Locus of Control\|控制点]]（个体相信强化是特定行为的函数）和外部控制点（结果被归因于运气、命运或有权力者）。[[Causality\|因果关系]]感知根据先前经验和情境复杂性在连续体上变化(Rotter, 1966; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.61]])。
 
 > [!quote|notitle]

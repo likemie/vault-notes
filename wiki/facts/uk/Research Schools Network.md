@@ -70,11 +70,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Research Schools Network
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 英国研究学校网络（Research Schools Network, RSN）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与约克大学[[Institute for Effective Education\|有效教育研究所]]（IEE）于 2016 年联合发起创设的全国性分布式校际中介组织网络。该网络通过在英格兰各区域竞争性遴选一批在循证实践方面成效显著的优秀中小学确立为“研究学校”，由其作为区域证据枢纽，向周边学校网络辐射基于实证证据的教师专业发展培训、工具包本地化转译与变革教练辅导，是[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]从“中央智库向分布式校际[[Communities of Practice|实践共同体]]规模化下沉”的代表性制度创新。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
@@ -87,16 +83,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2016 — 试点启动与标准奠基** [[Education Endowment Foundation\|EEF]] 联合 [[Institute for Effective Education\|IEE]] 启动试点项目，在全英格兰遴选首批 5 所具有深厚教学反思底蕴的公立学校挂牌为“研究学校”，制定统一的学校认证标准与同伴辅导操作规程。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **2017–2019 — 规模化扩张与机会区覆盖** 英国教育部将 RSN 纳入解决区域教育不平等的“机会区”（Opportunity Areas）国家战略，投入数百万英镑专项经费，将网络规模大幅扩展至英格兰黑石、布拉德福德等教育薄弱地区的近 40 所中小学，形成覆盖全英各区域的知识辐射网。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 118)]]
 > - **2020 年代至今 — 实施科学指南研发与业务深化** 研发标准化的《学校证据实施指南》（Putting Evidence to Work: A School's Guide to Implementation），确立“探索—准备—交付—维持”四阶段实施框架；围绕助教循证配置、早期阅读及数学教学法等专项模块开展区域跨校轮训，成为全球教育体系中规模最大、制度化程度最高的校际证据中介实体网络之一。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **全国协调中心（[[Education Endowment Foundation\|EEF]] / [[Institute for Effective Education\|IEE]] 核心团队）** 负责制定全国统一的研究学校资质认证规程、培训课程大纲、实施质量监测及第三方跨校影响评估。
@@ -117,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务矩阵与实施工具
 > - **全英校际教研与教练辐射** 每年面向英格兰数千所中小学校长与教研骨干提供跨校研修、入校辅导与同行评议服务。
 > - **《学校证据实施指南》及工具箱** 编制出版《Putting Evidence to Work: A School's Guide to Implementation》，配套提供学校自诊[[Questionnaire\|问卷]]、行动计划模板与成效监测工具。
@@ -130,8 +120,6 @@ updated: 2026-10-22
 > *There are also increasing efforts to scale up the level of intervention and coordinate between networks of schools, for example, in the EEF's Research Schools Network, launched in 2016.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 规模覆盖与网络指标
 > - **实体网络规模** 布局全英格兰近 40 所领头研究学校，下设数十个“研究学习网络”（Research Learning Networks, RLNs），培训并认证数百名教育证据带头人（ELEs）。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
@@ -147,8 +135,6 @@ updated: 2026-10-22
 > 覆盖英格兰近 40 所研究学校、设立数十个区域研究学习网络、培训认证数百名教育证据带头人（ELEs）、间接辐射英格兰数千所公立中小学校。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

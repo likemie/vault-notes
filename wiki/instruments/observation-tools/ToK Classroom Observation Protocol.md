@@ -48,11 +48,7 @@ created: 2026-07-01
 updated: 2026-10-16
 ---
 
-# ToK Classroom Observation Protocol
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] ToK 课堂[[Observation Protocol\|观察协议]]
 > - **工具类型** 半结构化[[Classroom Observation|课堂观察]]工具，以[[Field Notes\|田野笔记]]（[[Champ\|field]] notes）为记录形式。
@@ -61,8 +57,6 @@ updated: 2026-10-16
 > - **实施方式** 研究者进入课堂进行[[Non-participant Observation\|非参与式观察]]，以预设重点为指引记录田野笔记，不录音录像。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]教学实践
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -77,8 +71,6 @@ updated: 2026-10-16
 > | 情感维度 | 1 | 批判性思维相关的情感表现 | 田野笔记定性记录 |
 
 ---
-
-## 题项与作答方式
 
 > [!instrument-items] 作答规则
 > - **题项形式** 开放式观察重点，研究者据此在课堂中定向记录。
@@ -107,8 +99,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -117,8 +107,6 @@ updated: 2026-10-16
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 英文原始版 | 四所 NSW 学校，共 10 次 ToK 课堂观察。研究者四个月内定期返回，每次以观察重点为指引记录[[Field Notes\|田野笔记]] | — | 揭示四校在 ToK 实施上的显著差异；与访谈和文件分析[[Triangulation\|三角验证]]后识别出四种实施模式 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

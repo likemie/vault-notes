@@ -57,11 +57,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Cultural Relativism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 文化相对主义（Cultural Relativism）是指发端于 20 世纪文化人类学、并在战后广泛渗透至高等教育与人文社科的理论[[Paradigm|范式]]；其核心主张认为，人类所创造的一切文化模式与生活方式在存在论与[[Axiology|价值论]]上“共存且同等有效”，任何跨文化的优劣、审美与道德评判都被视作[[Hegemony|文化霸权]]或偏狭特权。在当代技术共和主义视阈下，该理论被批评为一种抹杀客观卓越标准的集体防御教条，不仅直接诱发了大学通识正典的解体，更导致社会丧失辨别卓越与平庸的意志，成为[[Technological Agnosticism|技术不可知论]]与文化虚无主义的深层哲学温床。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–207, 212–213)]]
@@ -92,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **文化模式等价性公理（Axiom of Equal Validity）** 宣称所有文明形态与组织习惯在规范上同等有效，抹杀某些文化机制（如硅谷早期[[Innovation Ecosystem|创新生态]]）能创造技术奇迹而另一些文化却平庸倒退的客观事实。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 206–207, 212)]]
 > - **对真善美规范决断的集体恐惧（Collective Fear of Pronouncement）** 社会因害怕被扣上排他或偏狭的帽子，不敢宣称真理、美、[[Buen Vivir|美好生活]]与正义，只能拥抱一种单薄空洞的集体认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 206–207)]]
 > - **地位争夺还原论的极端泛化（Overextended Status-Seeking Reductionism）** 将索尔斯坦·凡勃伦（Thorstein Veblen, 1899）对阶级特权符号的批判极端泛化，把一切审美偏好与卓越追求都贬低为单纯的“争夺社会地位行为”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, p. 206)]]
@@ -148,8 +142,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -166,8 +158,6 @@ updated: 2026-10-22
 > - **2025 — 科技共和国视阈下的哲学清算** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025)]] 深刻揭示文化相对主义如何导致社会辨别力萎缩、催生[[Technological Agnosticism|技术不可知论]]并削弱技术创新，呼吁恢复文化特质与[[Civic Rituals|公民仪式]]（pp. 205–218）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

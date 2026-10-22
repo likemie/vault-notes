@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# William Blackstone
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 18 世纪英国著名法学家、牛津大学首位英国法（Vinerian）讲座教授、最高民事法院法官、托利党下议院议员。
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1760年代 — 普通法的体系化与刑事法理学奠基** 将原本零散繁杂的普通法判例与不成文惯例整理为具有高度内在逻辑的理性体系，系统确立无罪推定与保护公民自由的程序底线。
 >   - **代表著作** *Commentaries on the Laws of England* (4 vols., 1765–1769)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
@@ -75,9 +69,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 威廉·布莱克斯通强调，国家刑罚权力的行使必须受到极其严格的程序约束与道德审慎。法律在惩治犯罪与保护无辜之间，必须赋予保护无辜以绝对的优先性。刑事司法绝非追求功利计算或粗糙妥协的领域；司法审判宁可承受让十个有罪者逍遥法外的制度代价，也绝不能让一个无辜者蒙冤受难。这一准则构成了现代法治国原则与疑罪从无精神的核心基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 174)]]
 
 > [!citation-card] 布莱克斯通论刑事司法的错误容忍比率

@@ -60,11 +60,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Engineering Pragmatism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 工程[[Pragmatic Paradigm|实用主义]]（Engineering Pragmatism）指在重大国家科技工程、国防科研与前沿算法研发中，以行动优先、立即可见实效与技术可行性攻关为导向的工程[[Praxis|实践哲学]]。该哲学强调“建造优先于形而上学清谈”，主张在直面现实物理与计算约束中解决关键技术瓶颈（如[[J. Robert Oppenheimer|奥本海默]]所言“看到技术精妙之物便直接去做”）；同时，它要求工程力量必须与国家战略使命及公共福祉深度绑定，警惕纯粹效用追求退化为回避终极道德责任的科学非道德论或狭隘的商业消费主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18, 26–28)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 工程[[Pragmatic Paradigm|实用主义]]与相关理念辨析
 > | 维度 | 工程实用主义（Engineering Pragmatism） | 哲学与方法论实用主义（[[Pragmatic Paradigm\|Pragmatic Paradigm]]） | 科学非道德论（[[Percy Williams Bridgman\|Amoralism]]） |
 > |:---|:---|:---|:---|
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > | **历史典范** | 二战[[Manhattan Project\|曼哈顿工程]]、洛斯阿拉莫斯实验室、防务 AI 部署 | [[John Dewey\|杜威]][[Progressive Education\|进步主义教育]]哲学、Creswell 混合方法框架 | 珀西·布里奇曼（Percy Williams Bridgman）物理学认识论 |
 
 ---
-
-## 核心要素
 
 > [!feature] 工程[[Pragmatic Paradigm|实用主义]]的核心要素
 > - **行动偏好与立即可见成效（Bias Toward Action & Immediate Results）** 偏爱对物理现实与计算系统的直接操作，追求方案在真实严苛环境中的立即可行性与落地效果（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 16–17]]）。
@@ -153,8 +145,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
 > |:---|:---|:---|:---|
@@ -172,8 +162,6 @@ updated: 2026-10-22
 > - **2020s — 人工智能时代的工程实用主义重构** [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] 批判科技精英在面对 [[Artificial General Intelligence|AGI]] 突破时的暂停研发逃避主义，主张重构以国家安全、实战交付与严密安全护栏为中枢的现代工程实用主义。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

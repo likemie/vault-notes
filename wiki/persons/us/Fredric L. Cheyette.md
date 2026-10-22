@@ -38,11 +38,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Fredric L. Cheyette
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国中世纪法国与欧洲法律史学家，阿默斯特学院（Amherst College）历史学教授。
@@ -66,15 +62,11 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与学术论文
 > - **1977 — *Beyond Western Civilization: Rebuilding the Survey*** 阐明[[Western Civilization Course|西方文明通识课]]的内在连贯性不足以支撑强制性必修要求，倡导从多元视角重构历史教学。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 87)]]
 > - **2004 — *Ermengard of Narbonne and the World of the Troubadours*** 系统重构中世纪法国南部政治、贵族法律争端与行吟诗人抒情诗文化生态。
 
 ---
-
-## 学术定位与历史意义
 
 > [!critique] 建制内部反叛的历史象征
 > - **学术建制精英的自我解构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）指出，切耶特接受了最正统的精英教育，研究领域极为保守专门，并非激进左翼运动者；正是这样一位典型的建制内学者公开发起挑战，表明美国高校人文学术建制已在内部形成拆解传统西方文明正典共识的压倒性合力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 86–87)]]

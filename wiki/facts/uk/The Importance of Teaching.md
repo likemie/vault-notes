@@ -64,11 +64,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# The Importance of Teaching
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 由英国教育部（Department for Education, DfE）于 2010 年 11 月正式发布，为保守党—自由民主党联合政府成立后推出的纲领性教育白皮书。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 > - **制度位置** 该白皮书是英格兰由“中央指令改进”转向[[Self-Improving School System\|自我改进学校系统]]（Self-Improving School System, SISS）的制度分水岭，也是英格兰教育治理从以督导数据为中心的“测量时代”迈向以学术文献与因果实验为标志的[[Evidence Era\|证据时代]]的历史转折点。它直接奠定了后续学院化扩张（Multi-Academy Trusts, MATs）、[[Teaching Schools\|教学学校]]指定、校本[[Initial Teacher Training\|初始教师培训]]（SCITT 与 School Direct）扩容以及 2011 年设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等一系列重大国家体制变革的法定基石。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 119–120)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 白皮书为[[Self-Improving School System\|自我改进学校系统]]确立了四项基本准则，将学校改进的第一责任彻底转移给学校与教师，依托横向校际网络与“从研究中学习”实现优质实践扩散，并将中央直接行政干预压缩至最低限度。其中第三项准则首次将运用研究证据确立为国家治理体系的核心机制，并开启了以密集学术引证和国际[[Policy Borrowing\|政策借用]]为修辞特征的[[Evidence Era\|证据时代]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 120)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
@@ -101,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **2010 年 11 月** 英国教育部正式颁布《教学的重要性》白皮书，确立[[Self-Improving School System\|自我改进学校系统]]四项核心准则，开启[[Evidence Era\|证据时代]]。
 > - **2011 年** 依据白皮书战略设想，英国设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），启动首批[[Teaching Schools\|教学学校]]（Teaching Schools）国家评审与指定。
@@ -110,8 +102,6 @@ updated: 2026-10-22
 > - **2016–2022 年** 实证评估反思期：[[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 揭示第三准则（从研究中学习）落地面临结构性阻碍并诱发[[Activity Traps\|活动陷阱]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 揭示白皮书开启的学术引证热潮演变为教育部把关下的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布与制度设计主体** 英国教育部（DfE），负责收缩中央指令、下放办学权责、制定底线标准，并为横向伙伴关系提供政策背书。
@@ -126,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **全系统治理[[Paradigm\|范式]]彻底重塑** 白皮书成功推动了英格兰基础教育体系由科层从属转向横向[[Network Governance\|网络化治理]]，[[Teaching Schools\|教学学校联盟]]与学院链成为学校专业发展的常态化中枢。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 120)]]
 > - **合法化修辞演进与[[Evidence Era\|证据时代]][[Rationalized Myth\|合理化神话]]** 白皮书通过在文本形式上系统模仿学术论文引文规范，将证据建构为主导性的合理化神话；然而由于缺乏[[Epistemology\|认识论]]审查并深陷适宜性逻辑，该政策并未促成完全客观的科学决策，反而在后续执行中滑向[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–94)]]
 > - **从研究中学习准则落地断裂** 基线实证调查显示，虽然教师对研究信息持高度积极态度（76% 认同其重要作用，86% 认为在课堂有用），但在将研究制度化为正式评价（67%）、分享论坛（61%）与底层假设审视（55%）方面严重滞后，白皮书倡导的循证自愈愿景缺乏稳固的校本组织支撑。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 129–132)]]
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **≈5,500** （学院改制） 截至 2016 年初英格兰脱离地方局改制为自主学院的总数。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 120)]]
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

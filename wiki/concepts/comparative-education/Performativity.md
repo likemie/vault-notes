@@ -78,11 +78,7 @@ created: 2026-06-09
 updated: 2026-10-22
 ---
 
-# Performativity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **表演性／操演性／绩效性（Performativity）** 最初是由法国哲学家[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以输入/输出效率为核心的后现代知识合法化与社会运作原则。在批判教育社会学与政策研究中，该概念经由英国教育学者[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]，2003）等人发展为一种**国家治理、问责与微观规训技术** 它通过运用对比、衡量、考核指标与外部审查奖惩，强迫教育机构与一线教师将自身价值转化为可度量、可[[Commensuration|通约]]的数字证据；为了在竞争性评价中生存，教师与学校被迫将大量精力投入到展示合规的表演中，导致教育实践蜕变为虚构与捏造（Fabrications），造成教师专业道德的空心化与[[Ontology|本体论]]不安全感（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]；Ball, 2003, pp. 215–217；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 治理表演性与临近概念的四维区隔
 > | 比较维度 | 治理与劳动表演性（Performativity in Governance & Labor） | 测量反应性（[[Performativity of Measurement]]） | 身份操演性（Performative Identity / Gender） | 科学管理控制（[[Neo-Taylorism]]） |
 > |---|---|---|---|---|
@@ -104,8 +98,6 @@ updated: 2026-10-22
 > | **典型表征** | 白板硬性打卡检查、督导前的表面材料包装秀。 | “为考试而教”（Washback 效应）、应试操纵。 | 课堂中师生多元性别与文化认同的仪式化再生产。 | 将教学比附为外科手术或高山救援的机械清单。 |
 
 ---
-
-## 核心机制与理论要素
 
 > [!logic-map]- 表演性治理的生成机制与实践异化路径
 > ```mermaid
@@ -161,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-## 命题总览
-
 > [!contrast-table] 表演性理论命题与学术谱系归纳
 > | 命题类型 | 核心理论判定 | 关键分析机制与工具 | 代表学者 |
 > |---|---|---|---|
@@ -174,8 +164,6 @@ updated: 2026-10-22
 
 ---
 
-## 典型应用案例
-
 > [!case] 澳大利亚维多利亚州：[[Victorian HITS and Literacy Toolkit|HITS]] 政策与课堂白板打卡异化
 > 维多利亚州教育部依据《[[Visible Learning|可见的学习]]》编制了高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求全州公立中小学严格对照执行。许多学校管理层为了应对区域绩效评估，出台了硬性规定：教师进教室第一件事必须在白板张贴标准化格式的学习目标，并向巡课视导人员出示对应的量化核查表。教师将此形容为把活生生的教学异化为舞台杂耍，一线教师被迫在形式主义表演与真实学生关怀之间疲于奔命（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
@@ -186,8 +174,6 @@ updated: 2026-10-22
 > 杰森·毕奇（[[Argument_Beech_2009_CE|Beech, 2009a]]）剖析了操演性如何主导国际组织的话语生产。为了在国际竞争中最大化政策成果的引用广度，[[OECD|经合组织]]（[[OECD]]）与[[World Bank|世界银行]]不再探讨具体的历史文化与社会制度，而是发明诸如[[Lifelong Learning|终身学习]]、基于能力的教育等高度抽象的话语。这些话语因其内涵空洞而能被任何国家的政客任意挪用，使国际[[Policy Mobility|政策流动]]蜕变为跨国话语的表演性循环。
 
 ---
-
-## 关键引用
 
 > [!citation-card] Lyotard 论绩效性原则与系统恐怖
 > 绩效性原则意味着输入与输出的逻辑，其终极目标是优化特定社会系统的表现。这一原则对社会关系的渗透带来某种程度的恐怖，可以用这句话来表达：要么可操作（即可[[Commensuration|通约]]），要么消失。（Lyotard, 1984, p. xxiv, 引自 [[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]）

@@ -44,11 +44,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-# Venue Shopping
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 制度场所转换（Venue Shopping，亦称政策场所搜寻）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指政策行动者在特定决策场所（如国会立法委员会或州议会）面临根深蒂固的既得利益阻碍与制度垄断（Policy Monopoly）时，策略性地脱离原有决策通道，搜寻并转移到对自身主张更具同情心、决策规则更具弹性或门槛更低的替代性制度场所（如司法诉讼、专业行政规制机构、横向政府间联合体或私人慈善资助网络），以此重构[[Policy Image|政策形象]]并打破制度僵局。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
@@ -69,9 +65,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **原有场所的制度僵局识别** 清醒认识到在传统立法场所有强大否决集团（如保守派反对联邦干预、地方学区捍卫自主权）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **替代性场所的筛选与定制** 挑选具备政治声望但无需经历复杂立法辩论的行政联合网络（如[[National Governors Association|全国州长协会]]与[[Council of Chief State School Officers|州首席教育官理事会]]）。
 > - **[[Policy Image|政策形象]]重塑的同步配合** 将原本被界定为“联邦集权削弱地方自治”的争议议题，重新包装为“各州自愿联合维护国家全球经济[[Competitiveness|竞争力]]与教育诚信”的卓越叙事。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
@@ -114,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -130,8 +122,6 @@ updated: 2026-10-22
 > - **2013年 — 教育联邦主义与横向治理应用** 麦克唐纳与韦瑟福德将该概念应用于美国跨州教育标准改革，展示了跨州横向行政组织与私人慈善基金如何作为新型场所突破宪政分权壁垒。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

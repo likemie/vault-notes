@@ -42,11 +42,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# NSF X-Labs
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > X 实验室（X-Labs）是[[National Science Foundation|美国国家科学基金会]][[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]启动的联邦项目，也是报告所认定的第一个明确资助传统学术机构之外独立研究组织的联邦计划。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 25]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 
 ---
 
-## 方案设计与资助机制
-
 > [!policy-design] 方案设计
 > - **项目目标** 让独立团队做出能打开新探究领域的平台技术，而不只是论文和数据集。
 > - **覆盖对象** 传统大学课题组之外的全职研究组织。
@@ -75,16 +69,12 @@ updated: 2026-10-22
 
 ---
 
-## 实施历程与关键产出
-
 > [!timeline] 已知节点
 > - **2026年7月之前** [[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]启动 X 实验室。同一理事会还在试点金券式评审，并与[[Metascience|元科学]]研究者合作试验同行评议的替代方案。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 21, 25, 27]]
 
 报告没有列出已经资助的团队名单或第一批里程碑结果。
 
 ---
-
-## 成效评估与影响
 
 > [!warning] 证据边界
 > 现有记述把 X 实验室定为制度原型。它还没有在这份报告里呈现产出、成本或与大学课题组的比较结果。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, p. 25]]

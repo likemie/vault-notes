@@ -42,11 +42,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Polymath
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 博学者（Polymath，亦称博学通才或通识学者）是指跨越多个异质学科领域、兼具深厚理论洞察力与务实工程解决能力，并能将科学技术探索有机融入公共事务与国家治理的学者与政治领袖形态。在 18–19 世纪，博学者无视人为学科区隔，构成了早期[[Technological Republic|技术共和国]]的探索基石；而在现代高度分工的学术体制下，学科壁垒加剧了专门化，致使代议政治中工程与技术人才严重匮乏。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 > *The innovators of the eighteenth and nineteenth centuries were often polymaths whose interests diverged wildly from the contemporary expectation that depth, as opposed to breadth, is the most effective means of contributing to a [[Champ|field]]. The term “scientist” itself was only coined in 1834, to describe Mary Somerville, a Scottish astronomer and mathematician; prior to that, the blending of pursuits across physics and the humanities, for instance, was so commonplace and natural that a more specialized word had not been needed.*
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 认知与人才培养[[Paradigm|范式]]辨析
 > | 比较维度 | [[Polymath\|博学通才（Polymath）]] | 专精技术官僚（Specialist Technocrat） | 传统人文学科文官（Humanities-Law Elite） |
@@ -104,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -114,8 +106,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 博学形态与科学建制化的演变历程
 > - **18 世纪–19 世纪初 — 自然哲学与博学者全盛期** [[Michael Fullan|富兰]]克林、杰斐逊与歌德代表了跨越文理的通才巅峰，知识总量适中鼓励跨学科整合。
 > - **1834 年 — “科学家”术语诞生与专业化开启** 威廉·休厄尔针对玛丽·萨默维尔的著作创造“科学家”一词，标志着科学从一般自然哲学中剥离并走向职业分工。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 6)]]
@@ -123,8 +113,6 @@ updated: 2026-10-22
 > - **2020s — 复杂系统与 AI 时代呼唤通识复兴** 面对人工智能跨学科冲击与重大公共治理危机，科技界与政策界重新反思通才在战略研判与[[Technological Republic|技术共和国]]重构中的核心价值。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

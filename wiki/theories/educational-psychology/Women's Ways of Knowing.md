@@ -33,19 +33,13 @@ created: 2026-08-13
 updated: 2026-10-22
 ---
 
-# Women's Ways of Knowing
-
 > [!theory-position] 理论定位
 > - **解释对象** 女性作为认知者（knowers）的[[Epistemology\|认识论]]发展。
 > - **理论问题** [[Source of Knowledge\|知识的来源]]为何？知识是由外部赋予还是内部建构？
 > - **理论类型** 基于[[Phenomenology\|现象学]]访谈的五视角认识论模型。
 > - **知识位置** 挑战了Perry基于男性样本构建的常模，提出了连结型认知等带有性别特征的认识论倾向。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 94)]]
 
-## 核心命题与机制
-
-### 基于声音隐喻的五个视角
-
-> [!proposition-chain|notitle]
+> [!proposition-chain] 基于声音隐喻的五个视角
 > 女性的[[Ways of Knowing\|认知方式]]可以围绕“声音（Voice）”的隐喻分为五种不同的[[Epistemology\|认识论]]视角。
 
 > [!chain-link|notitle]

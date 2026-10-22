@@ -40,19 +40,13 @@ created: 2026-09-03
 updated: 2026-10-22
 ---
 
-# 1981 New York IB Heads of School Conference
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间／地点** 1981 年 2 月，美国纽约，由联合国[[International Schools\|国际学校]]主办，是[[International Baccalaureate\|国际文凭]]校长年会首次在美洲举行。
 > - **关键主体** 国际文凭办公室、[[International Baccalaureate North America\|国际文凭北美公司]]、[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）、[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）、汤姆·哈戈特（[[Theory of Mind|ToM]] Hagoort）、[[Fred Block|布洛克]]·卡鲁斯（Blouke Carus）及来自各地区的学校校长。
 > - **制度背景** 国际文凭理事会重组后，三分之一成员由学校选举产生并代表学校；校长年会在日内瓦与其他国际城市间轮流举行，用于讨论共同问题和建立学校共同体。
 > - **触发条件** 北美学校增长、纽约办公室成本和区域法人独立，引发部分校长对课程美国化、资金失衡和 IBNA 分离主义的担忧。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
-
-## 经过
 
 > [!dev-timeline] 从私下猜疑到制度化处理
 > - **1979 年　早期警讯** 维也纳会议后，尼科尔获悉有人把 [[International Baccalaureate North America\|IBNA]] 描述为威胁 [[International Baccalaureate|IBO]] 未来的分离主义组织。
@@ -61,8 +55,6 @@ updated: 2026-10-22
 > - **专门会议　核对治理与财务** 哈戈特邀请质疑者与 IBNA 董事会举行专门会谈，误解经具体说明得到澄清。
 > - **1981 年稍后　共同管理** 卡鲁斯与哈戈特参加新成立的 IBO 管理委员会，在伦敦协商资源分配；IBNA 同年向 IBO 提供 20,000 瑞士法郎应对现金流危机。
 > - **1983 年　危机资助延续** IBO 面临更严重财务危机时，IBNA 再提供 30,000 美元。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
-
-## 争议与处理
 
 > [!tension] 区域增长与国际共同体
 > - **区域扩张威胁全球平衡（蓝方）** 北美办公室似乎拥有较高薪酬和快速增长，区域法人可能吸走全球资源、改变课程方向，甚至取得组织控制权。

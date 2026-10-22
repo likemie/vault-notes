@@ -53,7 +53,6 @@ status: draft
 created: 2026-06-11
 updated: 2026-10-22
 ---
-# Argument_Cai_Gao_Liu_2025_HE
 
 ---
 > [!question]
@@ -66,7 +65,6 @@ updated: 2026-10-22
 > - **产出** GBA 空间通过关键节点教师填补结构性空洞而获得"真实"存在
 
 ---
-## 理论框架
 
 > [!framework-table] 分析视角
 > | 理论工具 | 解释功能 |
@@ -75,7 +73,6 @@ updated: 2026-10-22
 > | **结构洞理论**<br>Burt (2000) | 社会网络中的断连位置为关键节点提供信息和控制的优势，解释教师如何桥接跨部门网络 |
 
 ---
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -85,7 +82,6 @@ updated: 2026-10-22
 > | **补充材料**<br>Supplementary Evidence | 政策文件（如《[[Guangdong-Hong Kong-Macau Greater Bay Area\|粤港澳大湾区]]发展规划纲要》）、投资统计和资助计划、机构基础设施信息 |
 
 ---
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -151,7 +147,6 @@ Burt 的结构洞理论为理解关键节点教师的角色提供了社会网络
 > Cai et al.（2025）的理论贡献在于提出关键节点教师的身份不是固定在预设角色中，而是处于持续的生成状态（state of becoming）。他们通过每一次跨境合作、每一次跨部门项目的完成为 GBA 空间增添新的关系维度。这一概念挑战了将空间使用者视为"被动接受者"的传统视角，也为空间研究和高等教育研究的[[Comparative Education as a Cross-Sectional Area|交叉领域]]提供了新的分析工具（pp.296-310）。
 
 ---
-## 主要发现
 
 > [!finding-cards] 核心发现
 > 1. **[[Guangdong-Hong Kong-Macau Greater Bay Area\|GBA]] 空间通过关系获得存在** GBA 高等教育空间不是通过政策文件"创建"的，而是通过关键节点教师在跨部门网络中构建的关系、路径和集群获得"真实"存在

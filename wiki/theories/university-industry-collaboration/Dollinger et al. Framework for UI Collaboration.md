@@ -33,8 +33,6 @@ created: 2026-06-02
 updated: 2026-10-22
 ---
 
-# Dollinger et al. Framework for UI Collaboration
-
 > [!tip] 核心主张
 > Dollinger et al.（2018）提出了一个用于理解和评估国际[[University-Industry Collaboration\|产学合作]]的三因素框架，将影响合作的因素归纳为三个维度：**环境因素（environmental）**、**技术因素（technical）** 和**管理因素（managerial）**。每个因素下又包含具体属性，如研发文化和更广泛的劳动力背景被归类为文化与劳动力属性（p.316）。
 
@@ -47,9 +45,7 @@ updated: 2026-10-22
 | **技术因素（Technical）** | 研发能力、技术基础设施、专业知识匹配度 | 合作双方的技术资源与能力 |
 | **管理因素（Managerial）** | 治理结构、沟通机制、信任建设、资源分配 | 合作的内部组织与运作方式 |
 
-## 应用价值
-
-> [!success|notitle]
+> [!success] 应用价值
 > 三个因素可用于评估和基准比较 UI 合作的进展。合作双方可以对照每个因素的具体属性，识别优势领域和薄弱环节（p.316）。
 
 > [!example] 图17.2：Dollinger et al. 国际[[University-Industry Collaboration\|产学合作]]框架

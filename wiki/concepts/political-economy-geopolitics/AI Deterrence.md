@@ -56,11 +56,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# AI Deterrence
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 人工智能威慑（[[Generative Artificial Intelligence|Artificial Intelligence]] Deterrence / Algorithmic Deterrence, AI Deterrence）指依托前沿人工智能（Artificial Intelligence, AI）大模型、自主无人系统蜂群、边缘战术推理算力与全域感知作战软件所构筑的新型国家战略威慑能力形态。
@@ -98,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心维度与范式对比
-
 > [!contrast-table] 核威慑时代与人工智能威慑时代的核心特征对比
 > | 比较维度 | 核威慑时代（Atomic Deterrence, 1945–2020s） | 人工智能威慑时代（AI Deterrence, 2020s–至今） |
 > |:---|:---|:---|
@@ -112,9 +106,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **软硬件主从关系的根本逆转（Software-Hardware Hierarchy Inversion）** 彻底打破将软件视作装备附件的传统工业定势，确立软件为战略态势感知、目标识别与火力调度的中枢神经，硬件战机与舰艇则成为可替换的执行末端。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 > - **极限压缩的传感器到射手杀伤链（Ultra-Compressed Sensor-to-Shooter Loop）** 依托多模态模型与边缘计算，将战场海量异构数据（卫星、雷达、无人机视频）在秒级内转化为战术杀伤指令，实现以快制慢的高维决策压制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–27)]]
 > - **非对称成本与分布式集群[[Emergence|涌现]]（Asymmetric Cost & Distributed [[Swarm Intelligence]]）** 运用由敏捷算法控制的大规模低成本[[Autonomous Drone Swarms|自主无人机蜂群]]，在实战中瓦解对手昂贵的传统重型武器平台，重构现代战争的成本交换比。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 45–47)]]
@@ -179,8 +171,6 @@ updated: 2026-10-22
 > **启动面向战场软件的新曼哈顿工程** 卡普与扎米斯卡揭示了严峻的财政错配现实：美国国防采办体系将数万亿美元固化在传统重型硬件项目中，而真正决定未来胜负的人工智能与软件研发预算占比仅约为 0.2%。[[Technological Republic|技术共和国]]必须彻底打破这种过时的采购惯性，设立专门针对前沿战场算法与军用大模型的国家工程机制，赋予顶尖软件工程师与军方联合攻坚的制度自主权，实现防务软件的敏捷开发与持续进化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 47–48, 52–54)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |

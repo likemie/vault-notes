@@ -67,7 +67,6 @@ citation_aliases:
   - "Boyadjieva, 2022"
   - "Boyadjieva (2022)"
 ---
-# Argument_Boyadjieva_2022_Springer
 
 > [!question]
 > 围绕 [[Global Universities Rankings\|全球大学排名]] 与高等教育使命的关系，这里追问一个看似矛盾的问题：既然各方都承认排名有严重缺陷，为什么它们的影响力仍然与日俱增？具体拆为三个子问题：（1）排名所推崇的"好大学"标准，与高等教育实际上承担的多元使命之间，到底有没有冲突？（2）如果冲突确实存在，它具体表现在哪些方面？（3）既然冲突这么深，大学能不能干脆不理排名、回归自己的使命？(pp.126, 137)
@@ -302,9 +301,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > > 你是一所地方教学型大学的校长。你决定："我们专注教学使命，不参与排名游戏。"但 ARWU 会从 Web of Science 上自动抓取你校教师发表的论文数据；THE 会向全球学者发放声誉[[Questionnaire\|问卷]]（你无法阻止有人提名你的大学）；QS 会从 Scopus 上拉取你校的引用数据。你的大学仍然会被排名——只是排得很低。一旦你"被排得很低"，学生、家长、媒体、政府就会注意到这个"低排名"，开始质疑你的质量。**不理排名，不等于不受排名影响**。
 
 
-### 第六步：结论——没有完美的排名，只能有多样化的排名
-
-> [!success|notitle]
+> [!success] 第六步：结论——没有完美的排名，只能有多样化的排名
 > 结论不是"打倒排名"，而是一个更务实的立场(pp.138–139)：
 >
 > **不存在完美的排名**，也**不存在任何单一排名能全面捕捉所有不同类型高校的使命和角色**。因为大学本身就是多样的——有研究型大学、教学型学院、应用科学大学、社区学院、在线大学……它们的使命完全不同，用同一把尺子量本身就是错误的。
@@ -334,9 +331,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > - 排名指标（引用、发表、项目、资助）已广泛嵌入高校内部的职称晋升和部门评估，成为系统内"通用货币"，解耦极其困难(p.138)
 
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “排名已成为高等教育地缘政治不可避免的结果与隐喻。因为它们主要测量基础研究和传播——在有限的领域且以传统的方式——它们为那些得益于数十甚至数百年来积累的公共和/私人财富与投资的精英大学和国家提供了竞争优势。它们反映了世界经济和全球科学的结构。”
 > ("rankings have become an inevitable outcome and metaphor for the geopolitics of HE. Because they predominantly measure basic research and dissemination — in limited fields and in a traditional way — they provide competitive advantage to elite universities and nations which benefit from accumulated public and/or private wealth and investment over decades if not centuries. They reflect the structure of the world economy and global science.")(Hazelkorn, 2018, p.10, p.126)
 

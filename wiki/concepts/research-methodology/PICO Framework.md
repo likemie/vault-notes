@@ -60,11 +60,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# PICO Framework
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **PICO 框架（PICO Framework）** 是循证实践、系统评价与[[Meta-analysis|元分析]]中用于解构和规范实证[[Research Question|研究问题]]、制定[[Literature Search|文献检索]]与纳入排除标准的结构化[[Analytic Framework|分析框架]]。该框架由四个核心要素构成：研究对象或人群（Population / Participants, P）、干预措施或暴露因素（Intervention / Exposure, I）、对照条件或比较基线（Comparison / Control, C）以及结果或结局指标（Outcome, O）；在需要限定实证方法设计时，常扩展纳入研究设计（Study Design, S）演化为 **PICOS 框架**。PICO 框架的根本功能在于确立[[Causality|因果推断]]与定量合成的边界同质性，防止异质研究被错误汇聚。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
@@ -88,8 +84,6 @@ updated: 2026-10-22
 > | **可比性保障** | 严格限定人群特征、对照基线与结局因变量口径 | 无统一口径，易混淆干预 vs 干预与干预 vs 常规对照 | 依赖单一实验控制与[[Covariate Adjustment\|协变量校正]] |
 
 ---
-
-## 核心要素
 
 > [!feature] PICO 四大核心要素与逻辑约束
 > - **研究人群与对象（Population / Participants, P）** 明确界定目标受试者的年龄、学段、认知发展阶段、临床或社会背景（如基础教育 K-12 学生 vs 大学成人或职场员工）。偏离目标人群会导致证据无法有效推广至实践情境。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
@@ -135,8 +129,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 关键实证来源 |
 > |---|---|---|---|
@@ -144,8 +136,6 @@ updated: 2026-10-22
 > | **对照基线异质性** | 严禁将替代干预对比效应量与常规对照效应量混合平均 | 教育干预效果评估与排名矩阵构建 | 活动对照组与[[Business as Usual\|常规对照组]]辨析（Kalmendal et al.） |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -162,8 +152,6 @@ updated: 2026-10-22
 > > - **规范检验论** 认为只要声称开展量化因果干预评估或[[Effect Size|效应量]]合并，就必须遵守 PICO 共同表达式的统计规范，否则无法保证推论有效性。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

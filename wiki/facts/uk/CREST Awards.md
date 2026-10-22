@@ -40,11 +40,7 @@ created: 2026-08-23
 updated: 2026-10-22
 ---
 
-# CREST Awards
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布主体与运营** 由英国科学协会（British Science Association, BSA）设立并长期运营，是英国最具影响力的[[Informal Science Learning\|非正式科学教育]]与探究认证体系。
@@ -53,8 +49,6 @@ updated: 2026-10-22
 > - **制度位置** 英国连接正规学校教育与课外真实科学工程实践的旗舰型认证基础设施。
 
 ---
-
-## 核心架构与分级机制
 
 > [!claim] 核心机制与层级设计
 > CREST Awards 采用递进式的四级探究认证体系，强调学生自主选题、[[Design-Based Research\|设计实验]]、控制[[Variable\|变量]]、分析数据并进行口头或书面成果答辩。
@@ -66,8 +60,6 @@ updated: 2026-10-22
 > - **Gold（高中阶段/A-level，16–19 岁）** 要求投入 70 小时以上开展长周期独立科研，通常与大学实验室或工业界导师深度合作，撰写专业科研报告。
 
 ---
-
-## 实证成效与社会公平赋权
 
 > [!finding-cards] 独立实证评估成效
 > - **大幅提升 [[STEM Education\|STEM]] 选修意愿** 英国权威经济学评估机构（Pro Bono Economics, 2016）对超过 20,000 名学生样本的匹配追踪表明，获得 CREST Silver 奖项的学生后续选修 STEM 领域 A-levels 的概率显著高于对照组。

@@ -51,11 +51,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Philip H. Coombs
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国经济学家、高级外交官、[[International Education\|国际教育]]规划学奠基人，冷战时期美国跨国[[Cultural Diplomacy\|文化外交]]与国际[[Educational Multilateralism|多边教育治理]]的核心架构师。
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1968 — *The World Education Crisis: A Systems Analysis*** 奠基之作，首次运用系统[[Analytic Framework\|分析框架]]剖析全球教育系统供给与现代经济技术需求之间的失调，将教育危机界定为跨越意识形态阵营的普遍现象。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1973 — *New Paths to Learning for Rural Children and Youth*** 与曼苏尔·艾哈迈德（Manzoor Ahmed）合著，率先突破正规学校教育的制度局限，系统论证发展中国家发展非正规教育与社区扫盲的必要性。
@@ -89,9 +83,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 库姆斯坚信教育是驱动现代经济增长与社会转型的基础战略投资，但各国的传统教育制度具有强烈的保守性与制度惯性；当快速增长的人口规模、急剧攀升的社会期望与飞速变迁的现代技术相碰撞，而教育资源投入面临边际递减时，必然爆发全球性的“系统性教育危机”。他主张唯有超越传统国家主义的零散修补，依靠跨国机构开展长期的、量化的系统规划与跨国合作，才能有效破除教育投入与产出之间的结构性失衡。
 
 > [!citation-card] 全球教育危机的系统失调本质
@@ -112,8 +104,6 @@ updated: 2026-10-22
 > - **批评者／论敌** 冷战时期苏联与东欧社会主义学者 — 批评其[[Cosmopolitanism|普世主义]]危机论掩盖了资本主义体制矛盾与阶级压迫。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 国际评价与冷战意识形态争端
 >

@@ -34,7 +34,6 @@ status: draft
 created: '2026-05-04'
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** [[Neo-Piagetian Theories\|新皮亚杰理论]]家，进一步发展了 Pascual-Leone 的双因素认知发展模型，提出四子域发展模型([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.3]])。

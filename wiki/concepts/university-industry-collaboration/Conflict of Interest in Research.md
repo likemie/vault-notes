@@ -33,11 +33,7 @@ created: 2026-06-04
 updated: 2026-10-16
 ---
 
-# Conflict of Interest in Research
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 研究利益冲突（Conflict of Interest in Research）指研究者个人或其所在机构因财务或其他利益关系，可能损害研究客观性、所指导学生的独立性或对大学的首要服务职责的情形。在[[University-Industry Collaboration\|产学合作]]中，利益冲突通常源于教师同时为大学和企业工作（如付费咨询），两者的利益边界可能发生交叉([[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, pp.266–267]])。
 
 > [!quote|notitle]
@@ -45,9 +41,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 
 利益冲突管理涉及以下六个维度的审查([[Argument_Hall_2025_EthicalLegalFrameworks|Hall, 2025, pp.266–267]])：
 
@@ -63,9 +57,7 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **个人利益冲突 vs 机构利益冲突（Institutional Conflict of Interest）** 前者关注研究者个人的财务或利益关系是否影响研究判断；后者关注大学作为整体机构是否因为能从研究结果中获利而产生偏见。例如，当大学拥有某项[[Clinical Trial\|临床试验]]所涉药品的基础知识产权时，大学可能允许在本校诊所进行早期 I 期试验，但禁止开展后期试验，或选择剥离其在该知识产权中的财务利益（p.267）。
 
 > [!example|notitle]
@@ -73,9 +65,7 @@ updated: 2026-10-16
 
 ---
 
-## 在产学合作中的作用
-
-> [!note|notitle]
+> [!note] 在产学合作中的作用
 > 利益冲突管理是[[University-Industry Collaboration\|产学合作]]协议谈判中的关键议题。当教师以个人身份接受企业付费咨询时，他们可以接受限制其发表权的保密条款——这与大学在机构层面坚持的[[Academic Freedom\|学术自由]]原则形成对比。然而，咨询关系仍须遵守大学的利益冲突政策，因此不能简单认为咨询是绕过大学政策的"自由区"（p.266）。
 
 > [!note|notitle]

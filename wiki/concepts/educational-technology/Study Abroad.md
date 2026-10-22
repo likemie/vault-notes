@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Study Abroad
-
 > [!metax] [出国留学 · Study abroad](https://www.visiblelearningmetax.com/influences/view/study_abroad)
 > 技术、学校与校外策略 › 校外
 >

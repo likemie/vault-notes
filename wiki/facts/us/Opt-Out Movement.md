@@ -54,11 +54,7 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-# Opt-Out Movement
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 退考运动（Opt-Out Movement）是 21 世纪初美国基础教育领域规模最大、影响最深远的草根抵制标准化问责社会抗争，标志着公众对量化考核治理[[Paradigm|范式]]的集体反弹。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260–262)]]
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2011–2013 — 萌芽与草根结网** 面对联邦政府对[[Learning Gain|增值评价]]的强推，家长与教育学者通过社交网络组建草根反测验联盟，普及利用法律授权行使学生退出统考的权利。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 > - **2014–2015 — 全面爆发与拒考峰值** 纽约州超过 20 万名学生集体递交退考声明，部分学区退考率超过 20%；多地形成家长走上街头游行与联合抵制统考的社会风潮。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -80,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 退考运动倡导声明
 > 退考家长与草根联盟公开声明，标准化测验无法真实衡量学生的复杂思维与[[Creativity|创造力]]，高利害考核导致学校课程严重剥离艺术、体育与人文体验；拒绝参与统考旨在保护儿童免受过度量化考核的伤害，捍卫公立教育的公共性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 >
 > *These social movements, which tend to be led by middle-class families, articulate a very sophisticated narrative regarding the non-desired educational effects of standardized testing, and are particularly skillful in managing social media and performing innovative collective actions.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **运动先锋与抵制主体** 中产阶层家长群体、草根反测验联盟与 [[FairTest]]，凭借社交媒体网络和高选民投票率形成强劲政治动员能力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
@@ -108,8 +98,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度调整与立法松绑** 推动多州削减考试科目与天数，叫停将学生考试成绩作为教师惩戒解聘依据的硬性规定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–262)]]
 > - **[[Firewall Effect|防火墙效应]]与量化基底稳固** 运动有效迫使官方剥离了高利害惩戒后果，但官方通过宣传优化测试技术与强调发展性诊断功能，反向加固了国家统考基础设施的正当性。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–263)]]
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - **200,000+** 纽约州单一学年公开递交拒考声明的学生总数估算。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 261)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

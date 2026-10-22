@@ -32,9 +32,6 @@ status: draft
 created: 2026-07-13
 updated: 2026-10-22
 ---
-# One-Group Pretest-Posttest Design
-
-## 定义
 
 > [!def] 单组前[[Pre-test and Post-test\|后测]]设计
 > 单组前后测设计（One-Group Pretest-Posttest Design）是最简单的[[Pre-Experimental Designs\|前实验设计]]：仅对**单一组**参与者进行前测（O₁）、施加干预（X）、再进行后测（O₂），将 O₁−O₂ 的差异归因于干预。该设计无控制组、无[[Random Assignment\|随机分配]]，Campbell and Stanley (1963) 将其列为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 326–327]]）。
@@ -44,8 +41,6 @@ updated: 2026-10-22
 > - **问题类型** 干预前后是否发生了变化？（不能严格回答"变化是否由干预导致"）
 > - **[[Unit of Analysis\|分析单位]]** 单组的前后测数据。
 > - **输出形式** 前后测均值比较，通常以配对 t 检验报告。
-
-## 方法定位
 
 > [!method-position] 在[[Pre-Experimental Designs\|前实验设计]]中的位置
 > - **为何是坏例子** 教育实验永远无法达到物理科学中的控制水平。一位物理学家加热金属棒可以自信地将膨胀归因于温度升高——因为她在实验室内排除了所有其他变异来源（Pilliner, 1973）。同样的控制程度在教育实验中永远无法达到：学生特征、教师特征、学校氛围、课堂组织、测量方式、学期内的上千件其他事件都可能影响前[[Pre-test and Post-test\|后测]]差异。
@@ -58,8 +53,6 @@ updated: 2026-10-22
 > - **分析方法** 配对 t 检验比较前后测均值。
 > - **辅助技术** 无——该设计的缺陷无法通过统计技术弥补。
 
-## 研究程序
-
 > [!design-notation] 单组前[[Pre-test and Post-test\|后测]]设计
 > 单一组接受前测、干预和后测，无控制组，无[[Random Assignment\|随机分配]]（pp. 326–327）：
 >
@@ -69,8 +62,6 @@ updated: 2026-10-22
 > 一位物理学家对金属棒加热，可以自信地将观察到的膨胀归因于温度升高，因为在实验室的范围内，她已**排除（即控制）了所有其他外部变异来源**（Pilliner, 1973）。
 >
 > 同样的控制程度在教育实验中**永远无法达到**。以一项为期十周的多元文化课程项目为例——即使后测显示对少数族裔的态度比前测更宽容，可能的影响因素绝不限于课程本身：学生特征、教师特征、学校氛围、课堂组织方式、课程材料的呈现方式、态度测量的方式，以及学期内校内外发生的上千件其他事件，都可能对观察到的态度差异产生影响（p. 327）。
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用** 初步探索性研究中资源和条件不足以实施真实验时；教学情境中的初步评估；作为更严格设计的预备阶段。
@@ -90,8 +81,6 @@ updated: 2026-10-22
 > | [[Pretest-Posttest Control Group Design]] | 方法 | 升级版——增加控制组和[[Random Assignment\|随机分配]]，[[Internal Validity\|内部效度]]质的提升 |
 > | [[Quasi-Experimental Designs]] | 方法 | 升级替代——增加控制组（即使非随机）即可显著改善 |
 > | [[Random Assignment]] | 方法 | 缺失的关键——该设计最根本的缺陷就是缺乏随机分配 |
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch8)]] — 将单组前[[Pre-test and Post-test\|后测]]设计列为[[Pre-Experimental Designs\|前实验设计]]的一种，[[Internal Validity\|内部效度]]最低。

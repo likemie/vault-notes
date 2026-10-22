@@ -45,11 +45,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Medical College Admission Test
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Medical College Admission Test（MCAT / CARS）
 > - **工具类型** 高利害医学院入学标准化能力测验（High-Stakes Medical School Admission Test）。
@@ -58,8 +54,6 @@ updated: 2026-10-16
 > - **实施方式** 计算机标准化机考（CARS 模块限时 90 分钟，包含 9 篇跨学科复杂长文）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]与跨学科思辨能力（CARS 模块）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -72,15 +66,11 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 9 篇涵盖哲学、伦理学、人类学、社会学与艺术批评的长篇复杂文章，每篇附带 5–7 道 4 选 1 单项[[Multiple-Choice Questions\|选择题]]（完全不依赖医学先验知识）。
 > - **计分规则** CARS 分数区间为 118（最低）至 132（最高），总分中位数设为 125。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -90,8 +80,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | MCAT 2015 新版 CARS 模块 | [[OECD]] 报告综述高利害准入考试在测量跨学科高级思辨能力中的应用典范 | 专业入学标准化测验 | 证实 CARS 模块能极其有效地区分考生的批判性文本解释与论证推理潜能，展现出高度的学业[[Predictive Validity\|预测效度]] |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

@@ -67,11 +67,7 @@ created: 2026-05-06
 updated: 2026-10-22
 ---
 
-# Externalization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 外化（Externalization，或称外部化、策略性外在化）是比较教育学与社会学系统论中用于解释跨国政策借鉴与[[Discourse|话语]]形成的核心分析概念。该概念由德国比较教育学者于尔根·施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）于 1990 年首次提出，并经[[Jeremy Rappleye|杰里米·拉普利]]（Jeremy Rappleye）及吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者深入拓展。外化是教育系统内部基于自身变迁中的问题构型与反思情境所实施的**认知过滤与意义投射过程**，不同于对国际环境或外国教育事实的客观中立描述。根据[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的系统论阐释，外化本质上是教育系统对“外部参照点的内部建构（Internal Construction of External Points of Reference）”；本土行动者将外部国家（如芬兰）或国际组织（如[[OECD|经合组织]]）建构为仿佛客观有效的准外部权威（Quasi-external Authority），其终极目的在于借助外部力量打破国内长期的政策博弈僵局，为争议性改革或维持现状提供免受攻击的正当性辩护。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 230)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]
@@ -101,8 +97,6 @@ updated: 2026-10-22
 > | **理论依托传统** | [[Niklas Luhmann\|卢曼]]社会学系统论与批判[[Discourse Analysis\|话语分析]] | 比较教育转移研究与[[Historical Institutionalism\|历史制度主义]] | 新制度主义社会学与[[World-Systems Theory\|世界体系理论]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **外部参照点的内部建构性（Internal Construction of External References）** 外部世界并不能直接穿透封闭的教育系统；外部政策经验必须经过本土系统的转译，被重构为契合本土[[Discourse|话语]]逻辑的“拟似外部参考系”，以此维系系统的内部认同并生产确定性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 546)]]
@@ -156,8 +150,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -178,8 +170,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 外化分析是否陷入了彻底的相对主义与修辞[[Determinism|决定论]]
@@ -192,8 +182,6 @@ updated: 2026-10-22
 > 研究者应当审慎区分不受个体意志支配的客观历史演进与行动者的外化修辞包装；外化分析必须建立在严谨的档案文本比对之上，准确区分出于专业探索的经验借鉴与出于政治解套目的的修辞性外化建构。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 230–232)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

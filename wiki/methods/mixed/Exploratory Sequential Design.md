@@ -48,11 +48,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Exploratory Sequential Design
-
 ---
-
-## 1. 定义与核心价值
 
 > [!info] 定义
 > 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关假设（第三阶段）。
@@ -78,8 +74,6 @@ updated: 2026-10-22
 - **阶段性产出** 研究分为明显的先后阶段（先理解再检验），每个阶段可相对独立地完成。
 
 ---
-
-## 3. 认识论立场
 
 > [!abstract] 从[[Interpretivism|解释主义]]转向[[Postpositivism\|后实证主义]]
 > 该设计体现了[[Epistemology\|认识论]]的转变：初始阶段采用解释主义/[[Constructivist Paradigm\|建构主义]]立场（通过深入探究捕捉参与者的意义建构），随后转向后[[Positivism\|实证主义]]立场（通过标准化测量在大样本中验证规律）。这种转换服务于[[Pragmatic Paradigm\|实用主义]]目标：将深度的质性洞见转化为可推广的量化证据。
@@ -149,8 +143,6 @@ updated: 2026-10-22
 > - **工具开发研究 (Instrument Development Studies)** 探索性序列设计是将此类研究正名化并嵌入[[Mixed Methods Research\|混合方法]]框架的标准方案。
 
 ---
-
-## 7. 使用此方法的研究
 
 > [!example] 案例：Enosh et al. (2015)
 > 首先通过[[Qualitative Interview\|质性访谈]]探索社会工作者遭受客户暴力的经历，基于发现开发了客户暴力[[Questionnaire\|问卷]]（CVQ），随后通过两种不同的调查程序应用并检验了该工具([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.138–139]])。

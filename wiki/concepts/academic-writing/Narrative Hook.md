@@ -27,8 +27,6 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Narrative Hook
-
 > [!info] 定义
 > 叙事钩子（Narrative Hook）是学术引言中用于吸引、抓住或"钩住"读者的开篇语句。它借用了英语写作（English composition）中的概念，指那些让读者产生阅读兴趣、进而继续阅读全文的最初几句话（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
 

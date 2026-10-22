@@ -56,11 +56,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Von Neumann Architecture
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 冯·诺依曼架构（Von Neumann Architecture），又称存储程序计算机体系结构（Stored-Program Computer Architecture），是数学家约翰·冯·诺依曼（John von Neumann）于 1945 年在《离散[[Variable|变量]]自动电子计算机报告书的第一份草案》（*First Draft of a Report on the EDVAC*）中系统阐述的通用电子数字计算机体系结构[[Paradigm|范式]]。其核心原则为“存储程序与程序控制”——将预先编制的计算程序指令与运算数据同等以二进制代码形式存放在统一的随机存取内部存储器中，由中央处理器顺序提取指令并自动译码执行；该架构在物理与逻辑上由运算器、控制器、存储器、输入设备和输出设备五大基本部件构成。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 经典计算机硬件体系结构[[Paradigm|范式]]对比
 > | 比较维度 | 冯·诺依曼架构（Von Neumann Architecture） | 哈佛架构（Harvard Architecture） | 专用硬线连线架构（Hardwired Architecture, 如 ENIAC 初版） |
 > |---|---|---|---|
@@ -92,8 +86,6 @@ updated: 2026-10-22
 > | **核心局限与瓶颈** | 存在总线争用与数据吞吐的“冯·诺依曼瓶颈” | 内存利用效率受限于预先固化的指令/数据比例 | 编程极其繁琐耗时，无法实现在线动态跳转与自修改 |
 
 ---
-
-## 核心要素
 
 > [!feature] 冯·诺依曼架构的五大硬件基石与运行机制
 > - **算术逻辑单元（Arithmetic Logic Unit, ALU）** 负责执行算术四则运算与布尔逻辑运算的核心部件。
@@ -154,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 冯·诺依曼架构核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
@@ -165,8 +155,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变历程
 > - **1945 — 《EDVAC 报告草案》确立理论模型** 冯·诺依曼在宾夕法尼亚大学摩尔电机工程学院总结 ENIAC 经验，系统提出存储程序与二进制五大部件架构。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 171)]]
 > - **1946–1951 — 普林斯顿 [[Institute for Advanced Study|IAS]] 计算机工程与全球派生** 陆军与 [[Office of Naval Research|ONR]] 资助普林斯顿高等研究院研制实体样机，公开分发蓝图，催生全美高校与工业界（IBM 701、MANIAC、ILLIAC 等）的克隆制造浪潮。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–174)]]
@@ -175,8 +163,6 @@ updated: 2026-10-22
 > - **2024 年至今 — “超越冯·诺依曼”的国家战略化推进** 美国[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中将类脑神经形态、存内计算、光子计算等非冯架构确立为国家战略级攻关重点，依托软硬件[[Co-Design|协同设计]]实现全栈重构。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 16–17)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与技术争议
 >
@@ -196,8 +182,6 @@ updated: 2026-10-22
 > 冯·诺依曼架构适用于以确定性逻辑判断、精确控制流和串行离散算法为特征的通用计算任务；对于大规模低精度并行矩阵运算、生物脉冲神经网络模拟及非确定性量子概率解算，传统冯·诺依曼架构面临显著的能效比与吞吐量约束。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 1945–1955年战后联邦资助早期计算机开发工程统计
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

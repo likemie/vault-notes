@@ -47,11 +47,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# Epistemic Malformation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认知畸变（Epistemic Malformation / 认识畸变）是指在教育教学实践或认知交往过程中，由于不当的教学指令、不公允的评价反馈或过度依赖技术外包代劳，导致发展中学习者在成为成熟求知者的形成期，其认知图式、探究品格与[[Reliability|信度]]自我认知遭受系统性扭曲、停滞或病理化异化，进而阻断其求知能力（Capacity as a Knower）健康发育的[[Epistemology|认识论]]损害。该概念由 A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）正式确立，并经斯宾塞·J·史密斯在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中拓展为解释[[Generative Artificial Intelligence|生成式人工智能]]全流程代写引发认知致残的核心病理学机制。（pp. 4–6）
@@ -73,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认知畸变与相近概念辨析
 > | 比较维度 | 认知塑造（Formation） | **认知畸变（Malformation）** | [[Cognitive Deskilling\|认知去技能化]]（Deskilling） |
 > |---|---|---|---|
@@ -84,8 +78,6 @@ updated: 2026-10-22
 > | **伦理属性** | 正向教育赋权与求知发展 | **构成典型的成长性[[Epistemic Injustice\|认识不正义]]之恶** | 劳动异化与技术批判维度的功能性退化 |
 
 ---
-
-## 核心要素
 
 > [!feature] 认知畸变的三维病理表征
 > - **[[Reliability|信度]]自我认知双向断裂（Distorted Credibility Conceptions）** 求知者对其真实知识与技能水平产生严重错觉。一方面表现为“[[Learned Helplessness|自加信度赤字]]”，面对空白困惑产生技术[[Learned Helplessness|习得性无助]]与自我贬抑；另一方面表现为“虚假信度通胀”，借助算法或特权反馈将工具表层产出误判为自身高超智慧。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5, 8–9)]]
@@ -128,8 +120,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 认知畸变核心命题梳理
 > | 命题维度 | 核心主张 | 现实表现场景 | 理论贡献者 |
 > |---|---|---|---|
@@ -138,15 +128,11 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 认知畸变概念的发展脉络
 > - **2021 年 — 教育哲学中病理机制的确立** A. C. Nikolaidis (2021) 首次将“认知畸变（Malformation）”确立为教育[[Epistemic Injustice|认识不正义]]的核心机制，明确指出成长性不正义的本质就是对求知者造成认知畸变，突破了以往仅关注成人间静态偏见传递的局限。
 > - **2026 年 — 数智时代技术致残与双向畸变[[Operationalization|操作化]]** Spencer J. [[Argument_Smith_2026_SPE|Smith (2026)]] 将该概念精准植入生成式 AI 与[[Computerization of Education|教育计算机化]]语境，通过私厨代劳隐喻，详细阐明了知识传递阻断、技能实践剥夺与[[Reliability|信度]]认知失真如何共同引发自加赤字与虚假通胀的双向畸变，并推导出了以“[[Alien Intelligence|异己智能]]”和“思维步骤外显”为支柱的教学防御规程。[[Argument_Smith_2026_SPE|Smith (2026, pp. 4–11)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术论争焦点
 >

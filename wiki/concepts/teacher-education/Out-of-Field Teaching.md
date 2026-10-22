@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Out-of-Field Teaching
-
 > [!metax] [专业对口与非对口教学 · In vs Out of field teaching](https://www.visiblelearningmetax.com/influences/view/in_vs_out_of_field_teaching)
 > 教师 › 教师教育
 >

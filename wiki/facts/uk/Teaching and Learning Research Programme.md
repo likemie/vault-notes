@@ -56,11 +56,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Teaching and Learning Research Programme
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 英国教与学研究计划（Teaching and Learning Research Programme, TLRP）是英国历史上规模最大的跨部门教育研发工程（2000–2011），由经济与社会研究委员会（Economic and Social Research Council, ESRC）统筹主导、联合多方出资设立，旨在通过多主体平等协作提升教育实证研究质量，重塑研究成果向政策与课堂教学转化的全系统机制。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 > - **历史与制度位置** 在英格兰近二十年循证政策演进史中，TLRP 被学术界界定为新工党政府（1997–2010）在“供给端”（Supply-side）实施的旗舰级“推力”（Push）干预工程，与国家教育研究论坛（NERF）、教师培训资源库等共同构成国家级学术实证供给矩阵。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 119)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 知识转化无法依靠传统的自上而下研究推送，唯有通过建立跨越研究、政策与实践界限的伙伴关系，让使用者从立项之初就全生命周期深度参与[[Knowledge Co-production\|知识共创]]，才能将高质量学术成果转化为广泛的专业实践变革。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
@@ -94,8 +88,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2000–2003 — 基础构建与第一期项目启动** 确立以“[[Effective Teaching\|有效教学]]”为主题的立项标准，推行用户参与准则，资助首批中小学课堂教学改进重点项目。
 > - **2004–2008 — 领域扩展与全系统深化** 扩展至高等教育、职业技术教育与职场工作场所学习，全面深化研究者与教师工会、学区管理层的跨界伙伴网络。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施架构与角色分工
-
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（ESRC / [[Higher Education Funding Council for England\|HEFCE]]）** 负责宏观战略制定、财政资源统筹与跨部门联络，确立用户参与作为课题资助与结项的强制性指标。
 > - **国家指导中心（TLRP Directors' Team）** 由安德鲁·波拉德（Andrew Pollard）等资深学者领衔，负责全英课题的学术质量监管、跨团队[[Research Synthesis|证据综合]]与全英[[Knowledge Mobilisation\|知识动员]]协调。
@@ -113,8 +103,6 @@ updated: 2026-10-22
 > - **政策与专业受众** 教育部分支机构、地方教育局及教师专业联合会，作为咨询专家和试验反馈者深度融入项目各环节。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **伙伴关系显著提高知识采纳意愿** 相比传统的被动文献分发，由研究者与一线教师结对共创的教学干预，在学校层面的落地依从度（Fidelity）与常态化保留率显著提高。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
@@ -127,8 +115,6 @@ updated: 2026-10-22
 > - **10** （国家原则） 终期综合凝练出的全英教与学循证实践指导原则。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

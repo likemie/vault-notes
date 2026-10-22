@@ -58,11 +58,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Contributory Expertise
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **贡献型专长（Contributory Expertise，亦称贡献专门知识、贡献专长）** 是专长社会学与[[Praxis|实践哲学]]中的基石概念，源于柯林斯（Harry Collins）与埃文斯（Robert Evans）的专长理论，后经埃亚尔（Gil Eyal）深化并引入公共政策与教育治理分析。该概念指行动者在具体实践[[Champ\|场域]]中，通过长期的经验浸润与受训反思所获得的[[Tacit Knowledge|默会知识]]、具身手艺（craft knowledge）与[[Phronesis\|实践智慧]]（实践智慧，phronesis）。具有贡献型专长的行动者能够直接克服现场的偶发性挑战与不确定性，“把事情做成”（get things done），其专业合法性直接根植于实践效能与情境化解决力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 专长形态辨析
 > | 维度 | 贡献型专长（[[Contributory Expertise]]） | 交互型专长（[[Interactional Expertise]]） | 泛在专长（Ubiquitous Expertise） |
 > |---|---|---|---|
@@ -95,9 +89,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **情境嵌入性** 深植于特定学校、班级、社区文化与[[Student-Teacher Relationship\|师生关系]]的动态脉络之中，难以简单剥离。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
 > - **默会具身性** 许多关键决策依赖长期直觉、行动中的反思（reflection-in-action）与身体化经验，无法完全编码为显性文本。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
 > - **偶发应对力** 善于在资源匮乏、多重目标冲突和时间紧迫的不确定条件下进行审慎权衡。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 20)]]
@@ -141,8 +133,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 贡献型专长核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -159,8 +149,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 实践经验的保守性 vs 科学证据的革新性
@@ -174,8 +162,6 @@ updated: 2026-10-22
 > - **过度防御可能演变为经验主义停滞** 当一线专业人员将贡献型专长作为拒绝一切外部实证检验的挡箭牌时，易导致学校丧失吸收前沿循证教学法的反思动力。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

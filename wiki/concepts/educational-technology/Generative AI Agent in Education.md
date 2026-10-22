@@ -58,11 +58,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Generative AI Agent in Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Generative Artificial Intelligence\|生成式人工智能]][[AI Agent in Education\|教育智能体]]（Generative Artificial Intelligence Agent in Education, GenAI Agent）是指以大语言模型（Large Language Models, LLM）及多模态生成模型为认知驱动中枢，具备环境情境感知、自主规划推理、动态知识检索与自适应内容生成能力的教育技术系统。不同于依赖预设决策树或静态规则的传统导师系统，生成式智能体能够理解学习者开放、非结构化的自然语言输入，并实时生成个性化解释、[[Socrates\|苏格拉底]]式追问、程序代码调试反馈与反思[[Scaffolding\|脚手架]]。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
@@ -78,8 +74,6 @@ updated: 2026-10-22
 > *Generative AI agents leverage large language models to deliver dynamic, multi-modal scaffolding in open-ended learning tasks, achieving substantial [[Learning Gain\|learning gains]] when constrained by structured instructional and reflection frameworks.*
 
 ---
-
-## 核心架构与促学机制
 
 > [!logic-map]- [[Generative Artificial Intelligence|生成式人工智能]][[AI Agent in Education|教育智能体]]核心架构与促学机制
 > ```mermaid
@@ -124,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 四类[[AI Agent in Education\|教育智能体]]技术形态对比
 > | 维度 | [[Intelligent Tutoring Systems\|智能导师系统（ITS）]] | [[Educational Robotics\|教育机器人（Robotics）]] | [[Conversational AI in Education\|对话式智能体（Conversational AI）]] | **生成式智能体（[[Generative Artificial Intelligence\|GenAI]] Agent）** |
 > |---|---|---|---|---|
@@ -136,8 +128,6 @@ updated: 2026-10-22
 > | **主要局限与风险** | 开发成本高昂、跨领域迁移困难 | 硬件维护成本高、长程部署受限 | 语义理解泛化度有限、难以深度推断 | **输出幻觉、过度依赖与[[Cognitive Offloading\|认知卸载]]风险** |
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

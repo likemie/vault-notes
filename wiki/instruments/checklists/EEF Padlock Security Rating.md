@@ -64,11 +64,7 @@ created: 2026-09-14
 updated: 2026-10-20
 ---
 
-# EEF Padlock Security Rating
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] [[Education Endowment Foundation\|EEF]] Padlock Security Rating
 > - **工具类型** 方法学质评核查表与证据安全性评级规程。
@@ -77,8 +73,6 @@ updated: 2026-10-20
 > - **实施方式** 由独立同行评议专家或评估管理团队对照试验[[Preregistration\|预注册]]方案、实施报告与[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）进行外部审核评定。
 
 ---
-
-## 质评维度与等级划分
 
 > [!framework-table] 挂锁等级评定阶梯（0–5 锁体系）
 > | 评级等级 | 安全性定性 | 核心核查标准与方法学要求 |
@@ -92,8 +86,6 @@ updated: 2026-10-20
 
 ---
 
-## 扣锁规则与效度威胁核查
-
 > [!proc] 核心扣锁指标与风险排查规程
 > 1. **设计类型初评** 只有实施质量合格的 [[Randomised Controlled Trials\|RCT]] 设计有资格获得最高 5 把锁起点；[[Quasi-Experimental Designs\|准实验设计]]（QED）无论样本规模多大，其初始最高评级通常不得超过 3 把锁。
 > 2. **[[Sample Size Determination\|样本量]]与统计功效核查** 审查试验的最小可测[[Effect Size\|效应量]]（MDES）。若样本量不足导致统计功效低于 80% 或 MDES 过大，直接扣减 1 把锁。
@@ -103,8 +95,6 @@ updated: 2026-10-20
 > 6. **保真度与污染核查** 若[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation，IPE）表明对照组大面积接触了类似干预或存在实施严重妥协，视偏倚威胁严重程度扣锁。
 
 ---
-
-## 政策应用与方法学争议
 
 > [!contrast-table] [[Education Endowment Foundation\|EEF]] 挂锁系统与美国 什么样的有效清算所（[[What Works Clearinghouse]]，WWC）评级系统的对比（基于 Edovald & Nevill, 2021）
 > | 比较维度 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级 | 美国 [[What Works Clearinghouse\|WWC]] 证据标准 |
@@ -120,8 +110,6 @@ updated: 2026-10-20
 > - **与不确定性表达的张力** 挂锁评级主要反映主要效应的内部安全性，但难以直观展现统计估计的精确度（[[Confidence Interval\|置信区间]]宽度）与情境适用性，在向实践者传递确定性与[[Scientific Uncertainty\|科学不确定性]]之间存在长期沟通平衡挑战。
 
 ---
-
-## 使用该工具的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述 [[Education Endowment Foundation\|EEF]] 挂锁评级的创设与演进：至 2019 年 95 项评估中 89% 为 [[Randomised Controlled Trials\|RCT]]、85% 获 3 把锁以上，并反思单一评级的局限。

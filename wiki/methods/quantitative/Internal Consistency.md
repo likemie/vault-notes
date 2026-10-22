@@ -50,11 +50,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Internal Consistency
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 内部一致性（Internal Consistency）是[[Reliability|信度]]在量化测量中的核心形式，衡量多项目量表中各条目（items）在单次测验中指向同一底层[[Construct|构念]]的统计同质性程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, pp. 202–204]]）。
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 属于[[Positivism|实证主义]]测量[[Paradigm|范式]]，预设潜在特质能够通过一组相互关联的经验题项进行抽样表征。
 > - **研究者角色** 测量工具的设计者与统计检验者，负责题项筛选、难度与区分度控制以及同质性判定。
@@ -88,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **明确潜在[[Construct|构念]]** 界定量表所欲测量的单一心理特质或行为倾向。
 > 2. **编制测验题项** 围绕构念[[Operationalization|操作化]]编写一组具有代表性的测量题项。
 > 3. **实施单次施测** 在目标样本群体中施测并收集原始作答数据。
 > 4. **评估内部一致性** 通过半分法或计算 Cronbach's $\alpha$ 检验题项同质性。
 > 5. **题项净化与修订** 排查低相关或降低量表总[[Reliability|信度]]的题项，优化工具结构。
-
-### 量化方法模块
 
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据结构** 单次截面作答矩阵（$N$ 名受试者 $\times$ $k$ 个题项）。
@@ -144,16 +134,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 多项目单维度[[Scale Development|量表编制]]、态度与心理特质测量工具[[Reliability|信度]]检验、单次施测[[Questionnaire|问卷]]的质量评估（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 > - **谨慎使用** 包含明显子维度的综合性多维量表，需按各个独立子维度分别计算内部一致性，不可盲目合并计算全量表 $\alpha$。
 > - **不适合使用** 速度测验（Speed Tests，未作答题目会导致一致性虚高）或动态追踪跨期稳定性的研究设计。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 题项数量膨胀效应。$\alpha$ 数值直接受题项数量 $k$ 影响，长量表即便各题项相关较弱亦可获得高 $\alpha$，易掩盖测量质量缺陷。
@@ -174,8 +160,6 @@ updated: 2026-10-22
 > | [[Inter-Rater Reliability]] | 互补方法 | 评估跨观察者评分一致性的信度形式。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011, Ch. 10)]] — 系统界定教育测量中的量化内部一致性、半分法推导与 $\alpha$ 解释标准。

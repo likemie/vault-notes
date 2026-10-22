@@ -70,7 +70,6 @@ argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Industry, Competition and Trade"
 ---
-# Argument_Reynolds_2024_JICT
 
 ---
 
@@ -87,8 +86,6 @@ journal: "Journal of Industry, Competition and Trade"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -100,8 +97,6 @@ journal: "Journal of Industry, Competition and Trade"
 > 理论工具箱将现代产业战略从传统的被动补贴与关税保护，推进为基于演化与制度视角的动态治理系统。引入[[Market Shaping and Creating|市场塑造]]理论与附加条件机制，阐明了为何公共资助可以且应当附加托儿服务、超额利润分享、[[Apprenticeship|学徒制]]与社区福利等社会责任条款，从而防范风险社会化而收益私有化的结构性失衡；借助[[Embedded Autonomy|嵌入式自主性]]视角，论证了七项过程准则与护栏条款如何构建防火墙，使公共部门在与企业紧密协作以克服信息不对称的同时，防止政策退化为特权企业的寻租工具。（pp. 4–5）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -119,8 +114,6 @@ journal: "Journal of Industry, Competition and Trade"
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -133,9 +126,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 ---
 
-### 论证步骤一　确立现代产业战略的过程准则以规避传统政策失灵与寻租风险
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　确立现代产业战略的过程准则以规避传统政策失灵与寻租风险
 > [[Modern Industrial Policy|现代产业政策]]的成败并不取决于抽象的产业选择，而在于能否建立以促成部门内竞争、撬动私人资本、推行投资组合与具备[[Learning by Doing|干中学]]弹性为核心的制度化过程治理机制。（pp. 3–5）
 
 #### 1. 产业政策有效性的核心在于促进部门内竞争而非扶植单一国家领军企业
@@ -161,9 +152,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 ---
 
-### 论证步骤二　三大立法支柱通过护栏条款与附加条件实现市场塑造与公共价值捆绑
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　三大立法支柱通过护栏条款与附加条件实现市场塑造与公共价值捆绑
 > 拜登政府通过《[[CHIPS and Science Act|芯片与科学法案]]》、《[[Inflation Reduction Act|通胀削减法案]]》及《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》，创新性地构建了以护栏条款限制企业寻租脱轨、以[[Policy Conditionalities|制度化附加条件]]引导[[Public Value|公共价值创造]]的复合治理架构。（pp. 5–13）
 
 #### 1. 《芯片与科学法案》通过资金池竞标与护栏条款兼顾产业安全和防范资本寻租
@@ -228,9 +217,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 ---
 
-### 论证步骤三　产业政策面临国家能力、要素瓶颈与结构性边界的现实约束
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　产业政策面临国家能力、要素瓶颈与结构性边界的现实约束
 > 现代产业战略的成功取决于公共部门自身的专业行政能力与跨层级协调效率；同时必须清醒认识到产业政策在重塑全球竞争格局、达成减排目标及解决深层社会不平等上的内在局限。（pp. 13–15）
 
 #### 1. 劳动力短缺、审批滞后、国家能力不足与外部贸易摩擦构成政策落地的主要现实瓶颈
@@ -272,8 +259,6 @@ journal: "Journal of Industry, Competition and Trade"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **过程治理机制决定产业战略成败** 21 世纪产业政策必须以促成部门内竞争、调动私人资本、采取投资组合进路、具备[[Learning by Doing|干中学]]调整弹性、确保透明度、实施里程碑评估及资金追回等七项过程准则为制度基石。（pp. 4–5）
 > 2. **[[Policy Conditionalities|护栏条款与附加条件]]实现[[Market Shaping and Creating|市场共创]]** 拜登政府立法将托儿服务、超额利润分享、回购限制、盛行工资及社区福利计划作为资助前提，开创了防范企业寻租并主动引导[[Public Value|公共价值创造]]的产业政策新模式。（pp. 5, 8–13）
@@ -288,8 +273,6 @@ journal: "Journal of Industry, Competition and Trade"
 > - **6%–11%** 《通胀削减法案》预计在既有趋势基础上进一步拉动的美国温室气体减排幅度。（p. 14）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 21世纪产业战略的核心在于如何实施
 > 尽管各界对拜登产业战略的内容（what）给予了极大关注，但对如何实施（how）的关注却相对不足。随着各项政策进入落地执行阶段，如何实施对于确保产业政策从理论成功转化为实践将变得更加关键。（p. 2）

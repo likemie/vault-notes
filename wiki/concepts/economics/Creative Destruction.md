@@ -43,11 +43,7 @@ created: 2026-10-05
 updated: 2026-10-22
 ---
 
-# Creative Destruction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Creativity|创造性]]破坏（Creative Destruction）是[[Evolutionary Economics|演化经济学]]与[[Joseph Schumpeter|熊彼特]]创新理论的核心概念，指企业与企业家通过引入根本性创新（激进产品、新工艺、新原材料、新组织方式与新市场），从资本主义系统内部不断摧毁陈旧的经济结构与既有[[Technological Trajectories|技术轨道]]，并持续创造全新生产函数与产业生态的内生产业突变过程；它不仅导致陈旧产业与生产线实物资产的迅速贬值，更引发既有劳动技能、职业分工乃至宏观社会规制结构的系统性震荡。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Creativity|创造性]]破坏与相关概念辨析
 > | 维度 | 创造性破坏（Creative Destruction） | 渐进式创新（Incremental Innovation） | 线性科技推动（Linear Science Push） |
 > |------|-----------------------------------|-----------------------------------|-----------------------------------|
@@ -79,9 +73,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **激进创新集群（Clusters of Radical Innovations）** [[Creativity|创造性]]破坏并非由孤立个别发明触发，而是由多项关键共性技术与组织创新在特定历史阶段形成的系统性群集所驱动。
 > - **落后轨道与资产淘汰（Obsolescence of Capital and Skills）** 新生产[[Paradigm|范式]]的崛起必然导致依赖旧技术的机器设备发生经济性贬值，传统工人的单一专业技能面临系统性淘汰风险。
 > - **制度滞后与结构失衡（Institutional Drag & Structural Mismatch）** 旧社会制度（旧教育体制、[[Apprenticeship|学徒培训]]模式、工会规章与专利法律）具有深厚的历史惯性，在面对激进新技术冲击时必然出现滞后与阻滞。
@@ -116,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -132,8 +122,6 @@ updated: 2026-10-22
 > - **1990s — [[National Innovation System|国家创新系统]]视角的调适与教育转型** [[Systems of Innovation|创新系统理论]]将教育体制改革、职业培训技能更新（如多工种轮岗与[[Lean Production|精益制造]]）纳入应对创造性破坏的核心制度政策工具。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

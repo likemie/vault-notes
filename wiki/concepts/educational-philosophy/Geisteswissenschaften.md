@@ -87,11 +87,7 @@ created: 2026-09-29
 updated: 2026-10-22
 ---
 
-# Geisteswissenschaften
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **精神科学（Geisteswissenschaften）**，又译人文科学（Human Sciences），是指以人类历史、社会、文化与精神创造物为研究对象的知识体系总称，由德国哲学家[[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）于 19 世纪末在《精神科学引论》（1883）中系统奠基。狄尔泰确立了精神科学与自然科学（Naturwissenschaften）之间的根本[[Epistemology|认识论]]划界：自然科学面对外在于人的物理客体，旨在通过因果假设与实证测量实现客观说明（*Erklären*）；精神科学面对人类自身生命体验（*Erlebnis*）及其历史精神客观化表达（*Ausdruck*），必须依托阐释学循环进行内在理解（*Verstehen*）。在教育学中，该传统孕育了以诺尔（Herman Nohl）、斯普朗格（Eduard Spranger）为代表的精神科学教育学，并构成了欧洲比较教育学以民族历史、文化形态与哲学理念为核心的古典母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89, 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
@@ -118,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 精神科学、自然科学与经验实证社会科学对比
 > | 维度 | 精神科学（Geisteswissenschaften） | 自然科学（Naturwissenschaften） | 经验实证社会科学（Positivist Social Science） |
 > |---|---|---|---|
@@ -132,9 +126,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **生命体验（Erlebnis）** 精神科学的原初基石。教育本质上是生动的生命交往与体验积淀，蕴含不可[[Commensuration|通约]]的个性化与情境性，超越了单纯外在技术传习的机械框架。
 > - **客观精神表达（Ausdruck）** 人类的内在生命体验通过语言、艺术、法律、哲学及各级学校教育制度等客观载体物化流传，成为可供检验的学术文献。
 > - **解释学理解（Verstehen）** 通过历史文献与文化脉络，从外在客观表达反溯其内在精神意图与时代动力，实现阐释者与历史文本的视域融合。
@@ -205,8 +197,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -225,8 +215,6 @@ updated: 2026-10-22
 > - **世纪之交 — [[Historical Amnesia|历史健忘症]]危机与精神科学传统重申** 面对量化测评指标（[[PISA]]）席卷与历史维度的严重流失，卡扎米亚斯与米特等学者呼吁找回精神科学的历史阐释灵魂，重构历史学与社会科学的理性综合。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

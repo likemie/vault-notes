@@ -51,11 +51,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Intensive Reading Remediation
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **Intensive Reading Remediation（密集阅读补救，文献中常称 Blachman 密集干预模型）** 是由雪城大学（Syracuse University）著名特殊教育与阅读障碍学者贝妮塔·布拉奇曼（Benita A. Blachman）领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学中低年级重度阅读困难专业教师一对一临床救济方案；其核心战略是针对小学二至三年级经过常规教学与早期初步辅导依然深陷严重阅读障碍（Dyslexia 边缘）的高危儿童，实施长达整整一学年、每日 50 分钟的高强度显性系统拼读救济。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -67,8 +63,6 @@ updated: 2026-10-22
 > - **核心问题导向** 攻克小学中年级重度阅读困难儿童面临的“发展停滞”顽疾，检验极高剂量的显性拼读教学是否能够逆转长期的严重阅读失能。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 由受过系统认知神经心理学与正字法训练的专业阅读教师，对二至三年级重度阅读落后儿童实施为期 8 个月、每日 50 分钟的一对一超大剂量显性系统教学，能够彻底重塑学生的单词[[Decodification\|解码]]回路，产生超大因果学业增益并长期维持。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -89,16 +83,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] Intensive Reading Remediation 发展历程
 > - **1998–2003 — 长期纵向[[Randomised Controlled Trials\|随机对照试验]]执行** 布拉奇曼团队在纽约州公立学校开展严密的前[[Pre-test and Post-test\|后测]]跟踪 RCT 试验，全程质控教师[[Implementation Fidelity\|实施保真度]]。
 > - **2004 — 里程碑成果发表** 布拉奇曼等学者（Blachman et al., 2004）在权威《教育心理学杂志》（JEP）发表成果，证实干预组不仅在结项时产生 $+0.85$ 的超大[[Effect Size\|效应量]]，且在一年后随访中依然稳固维持。
 > - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据标杆** 被斯莱文在桑代克奖演说中列为初等阅读 Tier 3 密集辅导最具说服力的强证据代表方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **科研中心（雪城大学）** 提供精准正字法音素训练教案、分级篇章库与录像督导量表。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - **受试儿童（二至三年级极度困难学生）** 经历系统性大脑字词认知重塑，重建对文字阅读的掌控感。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **高达 +0.85 的超大因果[[Effect Size\|效应量]]** 在大规模[[Randomised Controlled Trials\|随机对照试验]]中，接受密集干预的学生在 Woodcock 测验、单词识别测验（TOWRE）上取得了平均 $+0.85$ 的显著因果效应量，达 [[Every Student Succeeds Act\|ESSA]] 强证据最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

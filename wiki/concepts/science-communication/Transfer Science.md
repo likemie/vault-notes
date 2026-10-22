@@ -67,11 +67,7 @@ created: 2026-09-26
 updated: 2026-10-20
 ---
 
-# Transfer Science
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 转移科学（Transferwissenschaft）是将知识、研究证据与创新成果从学术生产端向政策、管理及教育实践端流动的条件、机制、界面与转化过程本身作为独立经验与理论反思对象的专门研究形态。在教育科学语境中，该概念要求教育学不仅作为产出证据的实体学科，更必须作为反省自身研究成果如何被理解、加工与制度化挪用的转移科学（Erziehungswissenschaft als Transferwissenschaft），系统厘清转移对象、行动者网络配置以及干预措施底层的因果作用假设。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 10–12]]
@@ -95,8 +91,6 @@ updated: 2026-10-20
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 转移科学与相近知识流动概念辨析
 > | 维度 | 转移科学（Transfer Science） | [[Knowledge Transfer\|知识转移]] | [[Transfer Translation Transformation\|3T 框架]] | [[Educational Science Communication\|教育科学传播]] |
 > |---|---|---|---|---|
@@ -106,8 +100,6 @@ updated: 2026-10-20
 > | **典型代表** | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | [[Argument_Torres_2022_KMModels\|Torres (2022b)]] | [[Argument_Cowen_2009_CE\|Cowen (2009b)]] | [[Argument_Besa_2024_UW\|Besa (2024)]] |
 
 ---
-
-## 核心要素
 
 > [!dimension] 转移科学（Transferwissenschaft）的三大核心分析维度
 > - **转移对象（Transfergegenstand）**
@@ -181,8 +173,6 @@ updated: 2026-10-20
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -192,8 +182,6 @@ updated: 2026-10-20
 
 ---
 
-## 发展脉络
-
 > [!dev-timeline] 转移科学演进历程
 > - **1980 年代 — 理论与实践冲突的传统哲学辩难** 德国教育学界在反思实证转向时，集中探讨教育科学中理论与实践的关系问题（Theorie-[[Praxis]]-Problem），奠定了教育学难以直接推演教学行动准则的[[Epistemology|认识论]]基础（Benner, 1980; Vogel, 1990）。
 > - **2000 年代初 — 语言学与传播学界转移科学的奠基** 德国语言学者格尔德·安托斯（Gerd Antos）与齐格弗里德·维希特（Siegfried Wichter）系统提出转移科学（Transferwissenschaft）纲领，探讨在信息爆炸与专家-外行分化时代知识流动的障碍、质量标准与反思机制（Antos, 2001; Antos & Weber, 2005; Wichter & Busch, 2006）。
@@ -201,8 +189,6 @@ updated: 2026-10-20
 > - **2010 年代末至今 — 教育科学作为转移科学的自觉与批判深化** 针对新治理工具在学校层面缺乏实质成效的现实危机，教育学者呼吁吸纳国际[[Knowledge Mediation|知识中介]]研究，将教育科学确立为研究转移全过程的转移科学，并建立本土化清算与监测体系（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]; Schreiner et al., 2019; [[Argument_Besa_2024_UW|Besa, 2024]]）。
 
 ---
-
-## 争议与批评
 
 > [!tension-table] 转移科学探讨中的核心学术争议
 > | 争议焦点 | 线性因果干预立场 | 复杂系统与转化立场 |
@@ -212,8 +198,6 @@ updated: 2026-10-20
 > | **中介平台职能** | 清算中心等机构主要负责将复杂的统计证据提炼为通俗简报 | 平台必须超越被动文本分发，转向参与式专业研讨与深层协同网络 |
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 转移科学与[[Knowledge Mobilisation|知识动员]]核心实证研究结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

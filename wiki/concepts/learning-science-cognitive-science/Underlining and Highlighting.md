@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Underlining and Highlighting
-
 > [!metax] [划线与高亮 · Underlining and highlighting](https://www.visiblelearningmetax.com/influences/view/underlining_and_highlighting)
 > 学生学习策略 › 学习策略
 >

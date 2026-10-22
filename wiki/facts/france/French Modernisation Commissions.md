@@ -47,11 +47,7 @@ aliases:
   - 法国战后指导性计划
 ---
 
-# French Modernisation Commissions
-
 ---
-
-## 机制定义与历史定位
 
 > [!claim] 核心定位
 > **法国现代化委员会（French Modernisation Commissions / Commissions de Modernisation）** 是 1946 年由让·莫内（Jean Monnet）主导创设于法国国家计划总署（Commissariat Général du Plan）内部的产业协同与战略协商机制；该机制打破了传统[[Bureaucracy|科层制]]部委各自为政的条块分割，将国家财政与技术高级文官、骨干工业企业家、技术专家及工会代表集中在专业委员会中，通过共同制定长周期**指导性计划（Indicative Planning）** 与推行[[Picking the Willing|挑选意愿者]]（Picking the willing）策略，引导全[[Social Impact Investing|社会投资]]聚焦于电力、钢铁、交通运输、核能及航空航天等战略基石领域，是二战后欧洲国家构建第一代与第二代使命导向政策规划能力的标志性制度创新。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–794)]]
@@ -63,16 +59,12 @@ aliases:
 
 ---
 
-## 核心机制：指导性计划与“挑选意愿者”
-
 > [!feature] 现代化委员会的三大核心运行机制
 > - **挑选进取意愿者共商蓝图（[[Picking the Willing]] Strategy）** 莫内清醒地认识到无法动员所有平庸企业，因此特意打破传统的行会代表制，亲自遴选最具进取心、最愿意拥抱技术革新的一线大型企业领袖与工程师进入各委员会，构建紧密的非正式信任网络。（Schonfield, 1966; pp. 793–794）
 > - **基于内生公共能力的闭门统筹（In-house Capacity over External Outsourcing）** 经济学家[[Andrew Schonfield|安德鲁·肖恩菲尔德]]（Andrew Schonfield, 1966）深刻指出，法国计划署的成功关键在于将规划与评估专长牢牢培育在公共机构内部，坚决不外包给外部独立委员会或商业顾问，从而维系了强大的行政连贯性与专业权威。（pp. 793–794）
 > - **信贷引导与公共采购精准配套（Targeted Credit Allocation & Procurement Pull）** 计划署与法国国有化银行体系及主要部委紧密咬合，凡是符合现代化委员会规划方向的重点项目均可获得低息国家信贷与政府优先采购保障，从而为大企业开辟确定性市场预期。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–794)]]
 
 ---
-
-## 历史成效与理论意义
 
 > [!contrast-table] 法国战后指导性计划与英国同时期产业规划对比
 >

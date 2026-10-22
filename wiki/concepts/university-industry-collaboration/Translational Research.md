@@ -74,11 +74,7 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# Translational Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **转化研究（Translational Research）** 指将学术实验室的基础科学发现与概念验证转化为可商业化产品、临床治疗方案或工业规模化制造的研究与工程化过渡过程。在生物医药领域，转化研究表现为从实验室台架到病床边（bench-to-bedside）的临床前验证；在半导体与硬科技制造领域，转化研究表现为从实验室到晶圆代工厂（lab-to-fab）的工艺参数匹配与中试放大，其核心功能在于消除早期原理样机向规模化生产跃迁时的工程风险，跨越技术商业化的[[Valley of Death|死亡之谷]]。[[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, pp. 202–203)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, pp. 95–96)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 6, 20–28)]]
@@ -119,8 +115,6 @@ updated: 2026-10-22
 > | **主要障碍** | 缺乏中试重资产设备、工程化硬化技能短缺、[[Valley of Death\|死亡之谷]] | 知识产权估值分歧、谈判交易成本高昂 | 缺乏底层科学机理支撑导致技术天花板 | 缺乏产业承接渠道导致成果停留在学术端 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心构成要素
 > - **专有实验与前沿物理模型** 大学在生命科学领域保有的专有细胞、类器官与动物模型，以及在微电子领域保有的后 CMOS、宽禁带与量子材料试验床，构成了转化研究的不可替代源头。[[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, p. 203)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–15)]]
@@ -212,8 +206,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 机构 |
 > |---|---|---|---|
@@ -230,8 +222,6 @@ updated: 2026-10-22
 > - **2022–至今 — 国家级中试基础设施网络与“从实验室到代工厂”（lab-to-fab）体系确立** 美国依据《[[CHIPS and Science Act|芯片与科学法案]]》设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、先进封装计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons），并通过白宫[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）发布《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，通过共享 300 毫米中试线、Fab-to-Lab 切片测试、开放 [[Process Design Kit|PDK]]/ADK 与云端设计网关，将转化研究制度化为国家[[Modern Industrial Policy|现代产业政策]]的核心基础设施。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–11, 14–20)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 20–28, 48)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与政策分歧
 >
@@ -251,8 +241,6 @@ updated: 2026-10-22
 > 转化研究模型在具备高资本密集度、长研发周期且标准工艺明确的领域（如微电子晶圆制造、生物医药[[Clinical Trial|临床试验]]）具有极强的解释与指导功能；但在以敏捷软件迭代、商业模式创新或低设备依赖型服务创新为主的轻资产领域，其重资产中试与工艺放大逻辑并不完全适用。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -88,11 +88,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-# Disciplina and Doctrina
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **Disciplina and Doctrina** 是西方教育史与知识社会学中用于界定知识传递与教育取向的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序、行为约束与正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑、调整与更新人类知识系统的动态实践（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策与循证批判中，这对概念被用于剖析以量化指标为导向的技术官僚控制如何压制教育的开放反思面向（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
@@ -123,9 +119,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **Disciplina 的静态存储与秩序维护** 扮演存放已发现知识场所的角色，将知识结构化为严密的科目，主要执行代际间的社会化与生产关系再生产职能（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
 > - **Doctrina 的动态生成与主体批判** 视知识为动态演化的体系，承认过去的知识无法完全涵盖未来的可能性，教学过程必须向学生的自主提问、道德反思与共同体建构开放。
 > - **绩效与循证时代的结构性失衡** 当代全球教育行业过度追求可测量结果与横向绩效评估，通过技能原子化技术与管理清单，强行将具备 doctrina 特质的探究活动塞入 disciplina 的流水线框架，严重损害了教育作为人格转变与民主反思的过程（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
@@ -234,8 +228,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -261,8 +253,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与批判反思
 >
 > > [!axis] 全球标准化测评规训（disciplina） vs 本土民主协商与教育目的[[Open-Mindedness|开放性]]（doctrina）
@@ -284,8 +274,6 @@ updated: 2026-10-22
 > > - **教师主体与学术天职捍卫立场** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）指出，这种将教师转化为持续生产汇报数据工具的“新行政全景敞视”（disciplina），使一线教师深陷“组织病理”式报表负担（如俄罗斯 79% 教师工作量剧增）；不仅剥夺了教师探索[[Individualised Instruction|个性化教学]]（doctrina）的时间，更严重削弱了教师的职业声望与天职认同，直接诱发师资流失危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238, 240–241)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 规训机制与教学实践的实证调查案例
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

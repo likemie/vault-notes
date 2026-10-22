@@ -64,11 +64,7 @@ created: 2026-10-15
 updated: 2026-10-22
 ---
 
-# Space of Flows
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **流动空间（Space of Flows）** 指由微电子电信与信息技术网络所支撑、“允许社会实践在无需领土毗连的条件下同时发生的物质安排”（Castells, 2000b, p. 19；[[Argument_Beech_2009_CE|Beech, 2009a, p. 349]]；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 350]]）。流动空间将社会实践从传统的地理“地方”中脱嵌（Dislocation of space from place），构成了[[Network Society|网络社会]]中主导性功能、资本流动与权力运作的物质基础；在跨国教育[[Champ|场域]]中，它体现为由国际组织（[[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]）、跨国咨询顾问、全球学术网络与智库构成的去领土化政策空间。
@@ -89,8 +85,6 @@ updated: 2026-10-22
 > - 不等于 赛博虚构空间 — 流动空间拥有极其坚硬的物质基石，包括高度集聚于全球城市的实体官僚中枢、金融中心与专属性精英服务设施。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 流动空间 vs [[Space of Places|地方空间]] vs [[Geopolitics|地缘政治]]空间
 > | 比较维度 | [[Space of Flows\|流动空间（Space of Flows）]] | [[Space of Places\|地方空间（Space of Places）]] | 地缘政治空间（Geopolitical Space） |
@@ -174,8 +168,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -196,8 +188,6 @@ updated: 2026-10-22
 >   [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] 与后续学者结合拓扑空间化（Topological Spatialisation）理论，进一步阐释流动空间中政策思想如何通过关系性连接瞬间“折叠”进国家与地方治理。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 > 

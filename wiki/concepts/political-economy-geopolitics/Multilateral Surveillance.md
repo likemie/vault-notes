@@ -52,11 +52,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Multilateral Surveillance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **多边监督（Multilateral Surveillance）** 指主权国家之间在多边国际组织（如[[OECD|经合组织]]、[[International Monetary Fund|国际货币基金组织]]与[[World Bank|世界银行]]）制度框架内，通过常态化的信息通报、跨国统计数据采集、国别政策审查与多边同行辩论，对各成员国政策制定与实施效果开展系统性监督、对标与评估的软法治理机制。根据科斯廷·马滕斯等学者（Kerstin Martens et al., 2004, p. 15）与经合组织官方治理报告（OECD, 1998），在国际组织缺乏对成员国进行强制立法的宪制权威与硬性借贷惩罚手段时，多边监督构成了国际组织实施有效规约的关键支柱；它通过建构政策透明度的制度预期，迫使成员国向国际共同体就其国内政策做出合理解释与正当性辩护，并接受同侪审议。在跨国教育政策演进中，多边监督逐步从战后初期的自愿质性审查，发展为依托跨国统一数据指标与联赛排名的量化监测体系，成为实现远处掌舵的基础制度通道。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440, 442, 446)]]
@@ -88,9 +84,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **制度化常态信息披露机制** 要求成员国定期上报本国教育、经济与社会发展统计数据，确立超越国内封闭行政的信息公开透明预期。（OECD, 1998）
 > - **对等交叉审议与政策辩护架构** 在常设专门委员会框架下，由其他成员国代表对受审国政策开展实质质询，迫使其提供理论依据与实证辩解。（Martens et al., 2004）
 > - **基于统一指标的跨国对标基准** 从个案分散的国别质性描述，演变为依靠统一分类学与标准化度量工具构建的全球比较监测网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
@@ -145,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,8 +154,6 @@ updated: 2026-10-22
 > - **2000s 至今 — 全球量化监测与远处掌舵成型** 在教育领域，多边监督与大规模跨国学业评估（如[[PISA]]）和指标工程（如[[International Indicators of Education Systems|INES]]、[[World Education Indicators|WEI]]）紧密结合，彻底转变为依靠公开联赛排行与持续数据监控的全球[[Governing by Numbers|数字治理]]架构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

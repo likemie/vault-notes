@@ -63,11 +63,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# British Educational Research Association
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 英国教育研究协会（British Educational Research Association, BERA）是英国教育研究领域的旗舰学术学会与法定注册慈善组织，致力于通过促进严谨教育科研的生产、传播与应用，维护[[Research Ethics\|研究伦理]]高标准，并在全社会与公共政策中捍卫教育研究的[[Public Value|公共价值]]。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 142)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1974–1989 — 学会创立与学术建制化** 1974 年在伯明翰正式成立，确立多学科包容性宗旨；1975 年创办旗舰会刊《英国教育研究杂志》（*British Educational Research Journal*, BERJ），奠定了英国教育科研自主评价的基础。
 > - **1992–2012 — 伦理标准确立与学术网络扩展** 1992 年首次发布具有里程碑意义的《教育[[Research Ethics\|研究伦理]]指南》（*Ethical Guidelines for Educational Research*），并历经 2004 年与 2011 年重大修订，确立了全英教育研究机构与大学[[Institutional Review Board\|伦理审查委员会]]（IRB）的基础规范；增设特别兴趣小组（SIGs）矩阵。
@@ -89,8 +83,6 @@ updated: 2026-10-22
 > - **2018–至今 — 伦理指南迭代与循证生态引领** 2018 年推出《教育研究伦理指南》第四版，扩展至数字环境、数据隐私与弱势儿童保护；积极参与全系统证据生态治理建设，成为 [[Quality Use of Research Evidence Framework\|QURE]] 等国际[[Research Utilization\|证据使用]]框架的核心倡导与实证来源。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 142)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 Council）** 由全体会员选举产生的主席（President）、副主席、财务官及民选理事组成，负责制定学会中长期战略规划与重大学术事务决议。
@@ -105,8 +97,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **教育[[Research Ethics\|研究伦理]]指南（Ethical Guidelines for Educational Research）** 历经四版修订，成为英国乃至[[International Education\|国际教育]]界被引用最广泛的研究伦理金标准，涵盖对研究参与者、学术共同体、教育赞助方及公众的多维责任。
 > - **BERA-RSA 教师教育调查（[[BERA-RSA Inquiry into the Role of Research in Teacher Education\|BERA-RSA Inquiry]]）** 奠定现代教师“以研究为导向的临床实践[[Paradigm\|范式]]”，明确教师的[[Research Literacy\|研究素养]]是学校教育系统自我完善的核心驱动力。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 142)]]
@@ -119,8 +109,6 @@ updated: 2026-10-22
 > *BERA is a member-led charity which aims to inform the development of educational policy and practice by promoting on a non-partisan basis the research, knowledge and evidence of the highest quality.*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **学术与[[Knowledge Production\|知识生产]]** 拥有数千名遍布全球的高校学者与一线教育研究者会员，五大期刊年下载量与引用频次位居国际同类刊物前列。
@@ -136,8 +124,6 @@ updated: 2026-10-22
 > 拥有逾 2,500 名活跃学术会员，设立 30 余个专门兴趣小组，年会年均接收学术论文报告千余篇，伦理指南被全球 50 余个国家的高校和学术机构采纳为教学与研究指导文件。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

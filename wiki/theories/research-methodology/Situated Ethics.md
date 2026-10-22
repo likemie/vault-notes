@@ -37,11 +37,7 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-# Situated Ethics
-
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 伦理原则在研究实践中的运作方式——为什么同一伦理原则（如[[Informed Consent\|知情同意]]）在不同研究情境中具有不同的含义和适用性。
 > - **理论问题** 回应伦理普遍主义（认为存在一套不变且有效适用于所有情境的一般原则）与伦理相对主义（认为伦理完全取决于个体良心）之间的经典争论。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]——不提供具体伦理守则，而是提供一种关于伦理判断如何被达成的元层次立场。
@@ -56,8 +52,6 @@ updated: 2026-10-22
 > 'while ethics has traditionally been seen as a set of general principles invariantly and validly applied to all situations, . . . on the contrary, ethical principles are mediated within different research practices and thus take on different significances in relation to those practices' (Simons & Usher, 2000, p. 1).
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 命题链
 
@@ -75,8 +69,6 @@ updated: 2026-10-22
 
 ---
 
-## 认识论与方法含义
-
 > [!theory-stance] [[Epistemology\|认识论]]与方法论含义
 > - **证据观** 伦理判断不以演绎方式从普遍原则推导，而应通过对具体研究情境的细致分析来产生。研究者需要关注特定情境中的权力关系、文化规范和参与者脆弱性
 > - **解释观** 伦理行为不应被评判为绝对的对或错，而应放在连续体上，评估其在具体情境中的可证成性
@@ -85,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用边界
-
 > [!theory-boundary] 理论边界
 > - **适合**[[Qualitative Research\|质性研究]]、[[Ethnography\|人种志]]、[[Action Research\|行动研究]]、[[Emergence\|涌现]]性研究设计；涉及脆弱群体或多文化情境的研究
 > - **谨慎** 需要研究者具有高度的伦理敏感性和反思能力；在缺乏经验的新手研究者中，可能退化为未经反思的随意决策
@@ -94,8 +84,6 @@ updated: 2026-10-22
 > - **常见误用** 将情境伦理等同于伦理相对主义或"怎么都行"；用情境特殊性为不伦理行为辩护而不提供严谨的证成
 
 ---
-
-## 与相关理论的关系
 
 > [!tension] 情境伦理与绝对主义、相对主义的关系
 > Plummer (1983) 指出绝对主义和相对主义各有弱点：绝对主义可能导致特权群体研究不足而弱势群体研究过度；相对主义则可能为不择手段的研究者敞开大门。情境伦理试图在二者之间开辟第三条道路：承认原则的重要性但坚持它们必须在具体情境中被解释和应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 93]]）。

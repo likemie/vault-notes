@@ -48,11 +48,7 @@ created: 2026-08-24
 updated: 2026-10-16
 ---
 
-# Creative Achievement Questionnaire
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] 自陈[[Creativity\|创造性]]成就[[Questionnaire\|问卷]]（CAQ）
 > - **工具类型** 终身创造性成就自陈问卷（Creative Achievement Inventory）。
@@ -66,8 +62,6 @@ updated: 2026-10-16
 > *The Creative Achievement Questionnaire provides an objective, domain-specific measure of real-world creative accomplishments across ten distinct domains of human endeavor.*
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Creativity\|创造性]]成就与成果表现
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -87,14 +81,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 每个领域包含 8 个按社会公认成就层级由低到高排列的陈述句（从“0 = 我在该领域没有受过任何训练”到“7 = 我的成就获得了全国性/国际性专业权威奖项认可”）。
 > - **作答格式** 被试针对自己在该领域曾经达成过的所有成就进行多项勾选。
 > - **计分规则** 采用非线性加权求和法，权重随成就公认度呈几何级数增加；可计算单个领域的分数，亦可计算跨 10 大领域的总成就指数。
-
-### 科学发现领域示例
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -110,8 +100,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -123,8 +111,6 @@ updated: 2026-10-16
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | — | 元分析中 Lu et al. (2023) 以 CAQ 作为主观创造力成就测量报告其与[[Critical Thinking\|批判性思维]]倾向的相关 | — | 采用主观创造力测量的相关显著更高（$Q_M(1) = 10.133, p = .002$） |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

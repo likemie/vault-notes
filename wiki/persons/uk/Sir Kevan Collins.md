@@ -65,11 +65,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Sir Kevan Collins
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育政策官员、前中小学教师与地方行政首长；曾任伦敦塔村区（Tower Hamlets）首席执行官，2011–2019 年担任英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）首任首席执行官，2021 年获英国政府委任为后疫情教育追赶专员（Education Recovery Commissioner）。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与关键职涯节点
 > - **1955** 出生于英格兰，早期在东伦敦基础教育学校执教，后进入地方教育行政当局（LEA），长期深耕内伦敦弱势学区教育改革。
 > - **1990s–2000s** 历任英格兰初等国家战略（Primary National Strategy）国家总监，主导全国读写与算术攻坚；随后出任伦敦贫困率最高的塔村区（Tower Hamlets）教育局长及行政长官（Chief Executive），凭借基于数据的精细化干预与资源倾斜，显著拉升该区公立学校学业产出。
@@ -97,8 +91,6 @@ updated: 2026-10-22
 > - **2021 — 出任英国教育追赶专员与辞职风波** 被首相鲍里斯·约翰逊（Boris Johnson）任命为全国教育追赶专员（[[Technological Catch-up|catch-up]] Tsar），提出耗资 150 亿英镑的全方位延长学时与个别化辅导复兴蓝图；后因财政部大幅削减预算至 14 亿英镑，毅然公开发表辞职信以抗议政府对弱势学童的不负责任，引发全英对教育财政紧缩的剧烈反思。
 
 ---
-
-## 核心政策思想与主张
 
 > [!work-line] 核心政策报告与主张
 > - **2018 — *[[Building a Global Evidence Ecosystem for Teaching]]*** 阐明如何通过跨国[[Knowledge Mediation\|知识中介]]、标准化因果证据量规以及跨界慈善资本支持，在全球范围内搭建连接科研与课堂实践的循证生态网络（EEF, 2018；Collins, 2018）。
@@ -114,16 +106,12 @@ updated: 2026-10-22
 
 ---
 
-## 关系网络
-
 > [!person-network] 关系网络与跨界拓扑
 > - **跨国流动与[[Co-affiliation\|共同从属]]实体** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）— 出任创设专家董事；英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）— 担任创设首席执行官（2011–2019）。
 > - **跨国慈善与商业资本伙伴** [[BHP Foundation\|必和必拓基金会]]（BHP Foundation）— 签署五年全球证据生态协议；[[Sutton Trust\|萨顿信托]]（The Sutton Trust）— 紧密共事的主管母体。
 > - **澳洲政商网络盟友** 莉萨·奥布莱恩（Lisa O'Brien，AERO 主席兼 [[Social Ventures Australia\|SVA]] 前董事）、罗杰·马西-格林（Roger Massy-Greene，AERO 董事兼 SVA 长期资助人）— 共同出任 AERO 首届董事会，构筑跨国[[Policy Network\|政策网络]]闭环（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >

@@ -70,11 +70,7 @@ created: 2026-07-22
 updated: 2026-10-22
 ---
 
-# Ethogenic Approach
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 人因取向（Ethogenic Approach，亦译民族发生学进路或行动生成法）是由英国哲学家与社会心理学家[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德（Paul Secord）等人于 1970 年代奠立的社会行为研究方法论。该方法植根于[[Interpretive Paradigm\|反实证主义]]的“[[Anthropomorphic Model\|人的科学]]（science of persons）”运动，确立了“拟人化模型（anthropomorphic model）”，强调“为了科学本身的目的，请把人当作真正的人类来对待”（Harré & Secord, 1972）。该进路将人类视为能够制定计划、自我监控并践行能动性的个人（person），专注于通过引发与分析[[Social Episodes\|社会片段]]（social episodes）中行动者伴随行动发出的言语陈述（[[Accounts]]），[[Decodification\|解码]]支配其行为的意图、信念以及情境性社会规则系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Cohen et al., 2011, Ch. 22, pp. 441–442)]]
@@ -100,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 知识在人际互动中生成于主体间，深深植根于行动者共享的文化符号与意义网络。社会现实并非独立于意识的因果铁律，而是由参与者的意图、信念和规则知晓共同构成的。
 > - **研究者角色** 研究者放弃凌驾于研究对象之上的“客观外在观察者”姿态，力求通过行动者的眼睛审视情境；正如 Harré（1978）所指出的，诗人和剧作家的活动而非物理学家的活动，为社会行为研究者提供了更优的模型。
@@ -116,16 +110,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. 明确研究情境并识别出核心[[Social Episodes\|社会片段]]的物理与社会边界。
 > 2. 运用半结构访谈或自由评述技术，引发当事人对特定片段的伴随陈述与事后说明。
 > 3. 整理与[[Transcription in Qualitative Research\|转录]]言语陈述，梳理行动者的目标意识、对情境的定义与策略性考量。
 > 4. 进行陈述分析，重构行动者的主观生活世界，提炼深层支配互动的规则与资源系统。
 > 5. 开展交叉核验与[[Member Tests\|成员核验]]，与参与者就分析性重构的忠实度展开协商确认。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -151,16 +141,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 探究行动者如何理解与建构其微观社会世界；研究教育情境中的师生互动仪式、突发冲突与默会规则；分析学生亚文化、同伴群体地位竞争与身份认同过程；需要深入行动者主观意向与多重意义的情境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Cohen et al., 2011, Ch. 22, pp. 441–442)]]
 > - **谨慎使用** 参与者处于强烈权力不对称或惩戒威胁的情境中（当事人极易提供迎合性或自我保护性的防卫陈述）；研究者对该亚文化群体的语言隐喻与传统缺乏基本共情与默会认知时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Cohen et al., 2011, Ch. 22, pp. 464–465)]]
 > - **不适合使用** 旨在进行宏观因果识别、大样本统计推断与可控实验预测的研究；仅关注外在肢体动作频率、物理间隔与离散行为指标的量化测量。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 参与者陈述的事后合理化修饰（post-hoc rationalization）与印象管理；行动本身的多重意义重叠且可能同时成立（Menzel, 1978）；研究者自身理论预设可能对本土陈述造成侵入性重构。
@@ -184,8 +170,6 @@ updated: 2026-10-22
 > | [[Qualitative Research]] | 上位方法 | 人因取向体现了质性诠释研究中人本主义与意义[[Rich and Thick Description\|深描]]的典型传统。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐发 [[Rom Harré|Harré]] 与 Secord 的[[Anthropomorphic Model\|拟人化模型]]，主张把人视为能反思的能动主体；人因取向五原则、[[Social Episodes\|社会片段]]与陈述分析程序见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Ch. 22]]。

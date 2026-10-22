@@ -59,11 +59,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Computational Thinking
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 计算思维（Computational Thinking, CT）由周以真（Jeannette M. Wing, 2006）界定为运用计算机科学的基础概念进行问题求解、系统设计以及人类行为理解等一系列心智活动与认知过程。它不仅是计算机从业者的专业技能，更是一种面向全体学习者的通用素养与认知工具箱，核心涵盖**问题分解（Decomposition）**、**模式识别（Pattern Recognition）**、**抽象表征（Abstraction）** 与**算法设计（Algorithm Design）** 四大心智操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > *Computational thinking encompasses the cognitive processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent.*
 
 ---
-
-## 核心维度与心智操作模型
 
 > [!logic-map]- 计算思维核心维度与[[Problem Solving|问题解决]]模型
 > ```mermaid
@@ -125,8 +119,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 计算思维与相关认知[[Construct\|构念]]辨析
 > | 维度 | **计算思维（Computational Thinking）** | [[Procedural Skill\|程序性技能（Procedural Skill）]] | [[Critical Thinking\|批判性思维（Critical Thinking）]] | [[Higher-Order Thinking Skills\|通用高阶思维（HOTS）]] |
 > |---|---|---|---|---|
@@ -136,8 +128,6 @@ updated: 2026-10-22
 > | **主要测评工具** | [[Computational Thinking Scale\|计算思维量表（CTS）]]、Bebras 测验 | 代码测试通过率、步骤得分、WCPM | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA 测验]]、CCTDI 量表 | 开放项目评审、质性表现量规 |
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

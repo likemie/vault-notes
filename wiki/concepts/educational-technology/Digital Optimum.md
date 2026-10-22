@@ -39,11 +39,7 @@ created: 2026-05-20
 updated: 2026-10-22
 ---
 
-# Digital Optimum
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 数字最优（digital optimum）是 [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, p.226)]]在分析 [[Online Self-Assessment\|OSA]] 的算法治理机制时提出的概念，指算法理性在持续优化和标准化评估过程中产生的"完美起点"（perfect start）理想形象。数字最优不是对某个真实学生的描述，而是一个算法生成的参照标准——它传递关于"理想学生"的具体期望，并构成个体被衡量和引导的基准。
 
 > [!quote|notitle]

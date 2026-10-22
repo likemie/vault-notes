@@ -65,11 +65,7 @@ created: 2026-09-09
 updated: 2026-10-22
 ---
 
-# Anthropomorphic Model
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **拟人化模型（Anthropomorphic Model）** 是[[Rom Harré\|罗姆·哈雷]]与保罗·塞科德（Rom Harré & Paul Secord, 1972）在批判传统实证心理学与[[Behaviorism|行为主义]]“机械木偶模型”时提出的方法论模型。该模型主张在社会探究中必须“把人当作真正的人类来对待”（treat people as if they were human beings），将行动者视为具备[[Reflexivity\|反思性]]自我监控、[[Intentionality|意向性]]赋意、能动选择与自我安排行动能力的自治主体，倡导通过分析特定情境中的社会事件（[[Social Episodes]]）与当事人的理由说明（[[Accounts]]）来[[Decodification\|解码]]人类行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 拟人化模型与[[Behaviorism|行为主义]]刺激—反应模型的[[Paradigm\|范式]]对立
 > | 比较维度 | 拟人化模型（Anthropomorphic Model） | 行为主义模型（Behaviouristic Model） |
 > |---|---|---|
@@ -103,8 +97,6 @@ updated: 2026-10-22
 > | **典型方法工具** | 事件分析法（[[Ethogenic Approach]]）、微观民族志 | [[Flanders Interaction Analysis Categories\|FIAC]] 机械预设分类编码、受控实验 |
 
 ---
-
-## 核心要素
 
 > [!feature] 拟人化模型的四大理论支柱
 > 1. **主体双向镜鉴性（Mutual Mirroring of Self and Other）**

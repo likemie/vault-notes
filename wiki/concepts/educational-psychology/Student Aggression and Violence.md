@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Student Aggression and Violence
-
 > [!metax] [攻击／暴力行为 · Aggression / violence](https://www.visiblelearningmetax.com/influences/view/aggression~violence)
 > 学生 › 情绪
 >

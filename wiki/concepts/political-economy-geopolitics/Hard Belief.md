@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Hard Belief
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 硬信念（Hard Belief）是政治哲学与技术[[Geopolitics|地缘政治学]]中的[[Central Phenomenon|核心范畴]]，由[[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》（*The Technological Republic*, 2025）中系统提出。该概念指一种具有超越个体自利与机构保全、愿意直面公众非议并切实承担现实法律、声誉或财务代价的真诚信念品格。硬信念的核心在于“信念的真实性由其付出的代价来检验”，它与当代西方精英文化中盛行的“[[Soft Belief|软信念]]”（Soft Belief）——即无需承担任何风险、流于公关话术、程序合规与道德表演的虚无主义姿态——形成根本对立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–60, 67–68)]]
@@ -75,8 +71,6 @@ updated: 2026-10-22
 > | **代表主体** | 阿里耶·内尔（[[Aryeh Neier]]）、保利·默里（[[Pauli Murray]]） | 2023 年国会听证会上的常春藤[[Grandes Ecoles\|大学校]]长群体 | 宣称“不作恶”却对重大国家防卫责任保持沉默的商业巨头 |
 
 ---
-
-## 核心要素
 
 > [!feature] 硬信念的四大构成维度
 > - **超越自利的价值锚定** 坚持追求超越个体生存、晋升或机构财政利益的宪法理想与共同体长远目标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–58)]]
@@ -108,8 +102,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -124,8 +116,6 @@ updated: 2026-10-22
 > - **2020年代 — 《[[Technological Republic|技术共和国]]》确立硬信念与软信念的核心对立** 卡普与扎米斯卡系统提出硬信念范畴，将其作为西方国家重振[[Hard Power|硬实力]]、赢得地缘技术竞争与克服心智空洞化危机的决定性精神支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–68)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

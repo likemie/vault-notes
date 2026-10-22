@@ -46,11 +46,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Thick Belonging
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **丰厚归属感（Thick Conception of Belonging，亦称丰厚共同体归属）** 指公民对政治共同体怀有关于国家过去、现在与未来的连贯历史叙事，深刻理解参与民主共和国建设的公共意义，并愿意为公共利益、宪政制度与国家安全承担实质防卫与奉献责任的政治认同形态。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 丰厚归属感与薄弱归属感及威权效忠的多维对照
 > | 比较维度 | 丰厚归属感（Thick Belonging） | 薄弱归属感（Thin Belonging） | 威权国家狂热效忠（Authoritarian Allegiance） |
 > |---|---|---|---|
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **历史文化基础** | 深植于大学正典[[General Education\|通识教育]]与历史求真理性 | 通识正典瓦解后的道德真空与价值相对主义 | 篡改历史、封闭信息与强制推行统编神话 |
 
 ---
-
-## 核心要素
 
 > [!feature] 丰厚归属感的四大核心支柱
 > - **连贯的历史叙事与文明锚桩（Coherent Historical Narrative）** 拥有将国家当前的政治制度与古希腊罗马、欧洲[[Enlightenment|启蒙运动]]及宪政传统相连接的文明历史纵深，使国家认同免于沦为漂浮在半空中的“断线气球”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84, 88)]]
@@ -132,8 +124,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论指向 | 关键机制 | 代表学者 |
 > |---|---|---|---|
@@ -141,8 +131,6 @@ updated: 2026-10-22
 > | **教育异化脱嵌命题** | 正典解构导致认同薄弱化，诱发科技精英[[Technological Agnosticism\|技术不可知论]]与政治脱嵌 | 大学道德真空；归属感降格为市场消费；回避防卫使命 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

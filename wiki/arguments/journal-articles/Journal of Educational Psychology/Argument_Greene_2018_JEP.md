@@ -108,7 +108,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Greene_2018_JEP
 
 ---
 
@@ -124,8 +123,6 @@ issuing_organization: ""
 > - **贡献** 为该领域提供了首个大规模基线数据，证实了领域特定（domain-specific）和情境对齐测量的优越性，并揭示了低年级学生同样具备高级认识论认知及其对成绩的影响力（效应量甚至高于大学生）。
 
 ---
-
-## 理论框架
 
 > [!quad-grid] [[Epistemic Cognition\|认识论认知]]（[[Epistemic Cognition]]）的四大类理论模型
 > - **发展模型 (Developmental Models)**
@@ -145,8 +142,6 @@ issuing_organization: ""
 > 论文通过梳理上述不同理论模型的发展轨迹，将这些模型及其包含的具体[[Construct\|构念]]（如确定性、简单性、权威、证成、目标等）作为[[Meta-analysis\|元分析]]的调节[[Variable\|变量]]（moderators），以此验证哪种理论概念化方式最能真实预测[[Academic Achievement\|学业成就]]，从而为未来量表的开发指明方向。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -173,8 +168,6 @@ issuing_organization: ""
 > | **效应量信息**<br>(Effect size information) | 1. 相关系数 (Correlation coefficient, 如 Pearson, Spearman, 或 beta)<br>2. p 值 (p-value)<br>3. 效应方向 (Effect direction) |
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -453,8 +446,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **基线相关确立** [[Epistemic Cognition\|认识论认知]]与[[Academic Achievement\|学业成绩]]存在小幅但有价值的正相关（$r = .162$），打破了长期以来因研究结果不一而产生的疑虑。（p.1096）
 > 2. **对齐（Alignment）法则** 当测量工具的特异性与其预测的成绩任务在颗粒度上严格匹配时，预测效力大幅提升。（p.1098）
@@ -468,8 +459,6 @@ issuing_organization: ""
 > - **b = .300** 量表信度对效应量的[[Meta-regression\|元回归]]系数（$p < .001$）。
 
 ---
-
-## 关键引用
 
 > [!citation-card] 对齐与高阶认知的教育启示
 > 此外，当[[Academic Achievement\|学业成就]]衡量的是概念性知识或论证，而不是陈述性或[[Procedural Knowledge\|程序性知识]]时，[[Effect Size\|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition\|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识实践、[[Epistemic Ideals\|认识理想]]和[[Reliable Epistemic Processes\|可靠过程]]来定制其测量工具。 (p. 1102)

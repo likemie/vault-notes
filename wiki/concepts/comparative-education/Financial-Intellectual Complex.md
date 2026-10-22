@@ -70,11 +70,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Financial-Intellectual Complex
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 金融-智识复合体（Financial-Intellectual Complex）是由[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）提出、用于批判以[[World Bank|世界银行]]（World Bank）为代表的多边金融机构在全球教育治理中所建构的跨国霸权体制。该机制将巨额教育贷款的资金流向与定向委托的[[Knowledge Production|知识生产]]紧密捆绑，依托雇佣专家共同体（community of experts for hire），将新古典教育经济学、[[Human Capital Theory|人力资本理论]]和厂商理论确立为普世正当的评估标准，进而借由结构调整贷款的[[Policy Conditionalities|政策附加条件]]重塑发展中国家的教育政策与[[Research Scope|研究边界]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 金融-智识复合体与传统学术研究共同体辨析
 > | 维度 | 金融-智识复合体（Financial-Intellectual Complex） | 独立学术研究共同体（Independent Academia） |
 > |---|---|---|
@@ -107,8 +101,6 @@ updated: 2026-10-22
 > | **学者的身份与从属** | 受雇专家共同体（Experts for Hire），依附于项目任务说明书 | 具有学术终身教职或职业自主权，向专业共同体和真理负责 |
 
 ---
-
-## 核心要素
 
 > [!feature] 复合体运作的核心支柱
 > - **受雇专家共同体（Community of Experts for Hire）** 凭借雄厚预算招募跨国顾问团队，排挤缺乏量化模型支持的本土学者，垄断政策建言渠道。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
@@ -163,8 +155,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -182,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 理论争议
 >
 > > [!axis] 技术中立的循证开发工具 vs. 资本驱动的知识新殖民体系
@@ -199,8 +187,6 @@ updated: 2026-10-22
 > > - **组织社会学批判者 (Samoff, 1992, 1993)** 反驳指出，无论内部工作论文如何多元，负责贷款业务的高级主管在实践中一律采取不可动摇的单一化市场方案，研究多元性仅起到合法化装饰作用。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

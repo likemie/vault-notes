@@ -70,11 +70,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Technological Agnosticism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 技术不可知论（Technological Agnosticism）是指当代软件工程师、科技创始人与全球化知识精英将技术开发与系统构建视为脱离宏观世界观与政治构想的纯粹创造活动，在面对国家安全、公共利益与伦理善恶等重大规范性议题时，刻意采取[[Value Neutrality|价值中立]]、程序合规与政治回避的意识形态倾向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–72)]]
@@ -116,9 +112,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **为了建造而建造的纯粹主义（Construction for Construction's Sake）** 将代码编写、系统扩容与平台扩张本身视为唯一的意义来源，拒绝探讨技术的终极政治意图与社会后果。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 71)]]
 > - **脱嵌于国家共同体的[[Cosmopolitanism|世界主义]]假象（Disembodied Cosmopolitanism）** 自诩为无国界的世界公民，认为自身财富与创新能力赋予了超越民族国家责任的特权。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–70)]]
 > - **通识正典断裂诱发的价值虚无（Civilizational Dis-anchoring）** 伴随大学人文学科对西方传统通识的拆解，科技精英在成长过程中丧失了理解国家制度与自由价值的文化锚定，导致国家历史沦为“断线气球”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 88, 95–96)]]
@@ -191,8 +185,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -202,8 +194,6 @@ updated: 2026-10-22
 > | **哲学庇护与虚无主义命题** | 形式中立与有效利他主义使不可知论滑向虚无，唯有实质美德能重铸价值锚桩 | 科技伦理[[Paradigm\|范式]]、全球主义与国家责任伦理 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska (2025, pp. 212–216)]]; Strauss (1959); [[John Rawls\|Rawls (2005)]] |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -223,8 +213,6 @@ updated: 2026-10-22
 > 技术不可知论的批判主要针对掌握社会命脉的数字平台与前沿 AI 巨头，并不意味着所有底层纯基础数学或基础算法研究必须直接附带政治宣誓。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 76–78)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 科技寡头全球市值与财富极度集中统计
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

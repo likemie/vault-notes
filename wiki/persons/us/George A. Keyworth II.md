@@ -45,11 +45,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# George A. Keyworth II
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国核物理学家、科技政策专家，罗纳德·里根（Ronald Reagan）政府总统科学顾问兼白宫科技政策办公室（[[Office of Science and Technology Policy]], OSTP）主任（1981–1985）。
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1981–1985 — 白宫科技政策与[[Competitiveness|国家竞争力]]重构期** 此阶段核心回应冷战时期美苏争霸与美日高科技贸易战的双重危机，主张打破大学纯理论探索与产业实际需求的脱节。
 >   - **代表文献** *Improving the U.S. Position in International Industrial Competitiveness* (1986)。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 377)]]
@@ -83,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 基础科学与工程技术是国家经济繁荣与工业国际[[Competitiveness|竞争力]]的命脉支撑；面对新兴工业强国在高科技制造业的严峻挑战，联邦政府不能继续袖手旁观，必须通过创新资助工具（如[[Engineering Research Centers|工程研究中心]]）打破大学学科象牙塔，将前沿跨学科科研与工业界痛点紧密结合。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 370–371)]]
 
 > [!citation-card] 凯沃思论 ERC 与重振美国工业竞争力
@@ -95,9 +87,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **政策路径** 作为里根政府核心科技幕僚，成功将“提升国家工业[[Competitiveness|竞争力]]”确立为 1980 年代联邦科学政策的主轴，直接促成了 [[National Science Foundation|NSF]] 战略重点向工程学与多学科中心的重大转型。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 371)]]
 > - **制度路径** 与布洛赫、[[Nam Pyo Suh|徐南杓]]形成政治合力，化解国会分立“国家工程基金会”的政治危机，为 [[Engineering Research Centers|ERC]] 制度在 NSF 内部的诞生保驾护航。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 371–372)]]
 > - **组织路径** 推动了大学研发中心从单一 PI 模式向多资源、多学科（MMURC）产学联合实体的制度化扩散。
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 详细记录了凯沃思在 1983 年 COSEPUP 研讨会后力挺 ERC 以及与布洛赫结盟推进科技资助改革的口述史料与制度背景。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 布洛赫论凯沃思的关键政治推手角色
 > [[Erich Bloch|埃里希·布洛赫]]在回顾 [[Engineering Research Centers|ERC]] 创设历程时高度评价凯沃思的作用：凯沃思在推动工程研究中心立项中发挥了举足轻重的作用；尽管他初期态度更为审慎（主张先搞 1 所试点，而布洛赫主张直接上马 12 所），但他在白宫内部顶住了预算紧缩压力，是该计划得以落地的关键政治盟友。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 370–371)]]
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > - **政策依托** [[Engineering Research Centers]] — 凯沃思在任期内强力推动并促成落地的标志性联邦产学中心计划。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术与政策争议
 >

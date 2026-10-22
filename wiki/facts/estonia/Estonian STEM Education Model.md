@@ -42,11 +42,7 @@ created: 2026-08-22
 updated: 2026-10-17
 ---
 
-# Estonian STEM Education Model
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 爱沙尼亚教育部与研究部自独立以来持续推进的基础教育课程体系改革。
@@ -56,9 +52,7 @@ updated: 2026-10-17
 
 ---
 
-## 模式核心与机制
-
-> [!claim|lead] 模式核心
+> [!claim] 模式核心与机制
 > 爱沙尼亚科学教育的成功关键在于：在宽广宏观的国家课程框架下，赋予教师充分的专业自主权（[[Teacher Professional Agency\|professional agency]]）与教学灵活性，鼓励结合本土情境与跨学科探究开展富有激发性的课堂教学。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 
 > [!policy-design] 治理与教学机制
@@ -67,8 +61,6 @@ updated: 2026-10-17
 > - **数字化与技术生态早期深度融合** 依托国家“虎跃计划”（Tiigrihüpe）早期全面普及编程、机器人与算法素养，使技术应用成为科学探究的天然组成部分。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 
 ---
-
-## 效果与国际影响
 
 > [!finding-cards] 国际评价与启示
 > - **卓越的 [[PISA]] 科学成就与教育公平** 爱沙尼亚在多次 [[OECD]] PISA 测评中均取得全欧洲第一的[[Scientific Literacy\|科学素养]]与数学成绩，且[[Socioeconomic Status|家庭社会经济背景]]对学业的不利影响为经合组织内最低之一，实现了学术卓越与普惠公平的高效统一。

@@ -104,7 +104,6 @@ issuing_organization: "Subcommittee on Microelectronics Leadership, National Sci
 publication_place: "Washington, D.C."
 publisher: "Executive Office of the President of the United States"
 ---
-# Argument_NSTC_2024_MicroelectronicsResearch
 
 ---
 
@@ -121,8 +120,6 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
@@ -135,8 +132,6 @@ publisher: "Executive Office of the President of the United States"
 > 现代产业政策与创新[[Ecological Systems Theory|生态系统理论]]为战略提出的全政府跨部门协同机制与共性中试基础设施建设提供了[[Analytic Framework|分析框架]]。先进芯片制造具有极高的研发强度，单次流片验证成本高达数千万美元，普通市场机制无法自发解决大学实验室前沿突破与工业量产之间的技术断层。通过引入转化研究模型与技术安全化视角，战略将国家支持重点精准放置在物理中试试验线、云端芯片设计工具、全生命周期[[Hardware Security|硬件安全]]验证与多层次工程人才培养上，进而建立起从科学原理到实体制造的顺畅转化通道。（pp. 1–3, 8–13, 20–28, 38–48）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -154,8 +149,6 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -172,9 +165,7 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-### 论证步骤一　面对物理极限与制造外包危机确立全技术栈跨部委协同战略
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　面对物理极限与制造外包危机确立全技术栈跨部委协同战略
 > 美国微电子产业面临本土制造产能严重萎缩与传统物理微缩收益放缓的双重挑战，必须打破单一部门分散资助格局，依托法定跨部委机制推行贯穿材料到系统的全技术栈跨部门协同。（pp. 1–3, 8–10）
 
 #### 1. 制造外包与物理微缩放缓阻断了传统技术升级路径
@@ -214,9 +205,7 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-### 论证步骤二　异构集成、全栈协同设计与硬件安全共同构成后摩尔时代技术主攻方向
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　异构集成、全栈协同设计与硬件安全共同构成后摩尔时代技术主攻方向
 > 战略第一目标（Goal 1）聚焦六大前沿科研领域，将研发重心确立为利用[[Heterogeneous Integration|三维异构集成]]突破单芯片物理极限、依靠全栈协同设计提高系统整体能效，并将[[Hardware Security|硬件安全]]作为系统内生要素贯穿始终。（pp. 10–20）
 
 #### 1. 宽禁带材料与非冯·诺依曼计算架构突破单芯片物理与能耗极限
@@ -250,9 +239,7 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-### 论证步骤三　联邦化开放中试与表征设施网络是跨越从实验室到代工厂中试断层的物质基础
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　联邦化开放中试与表征设施网络是跨越从实验室到代工厂中试断层的物质基础
 > 战略第二目标（Goal 2）旨在构建并贯通从微观材料制备到晶圆级中试加工的基础设施网络，通过开放设计工具与先进封装测试平台消除硬件创新的重资产准入门槛。（pp. 20–28）
 
 #### 1. 国家纳米技术设施网络与设计网关打破大学和小微企业的重资产壁垒
@@ -280,9 +267,7 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-### 论证步骤四　多层级工程教育与技能认证管道是解决半导体全谱系人才短缺的根本支撑
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　多层级工程教育与技能认证管道是解决半导体全谱系人才短缺的根本支撑
 > 战略第三目标（Goal 3）提出全谱系微电子人才开发方案，通过基础教育普及、非学位技能认证、[[Apprenticeship|学徒制]]与高层次科研训练，系统性缓解从一线产线技师到领军科学家的人力资源缺口。（pp. 29–37）
 
 #### 1. 从中小学科普启发到研究生前沿科研贯通全链条人才培养
@@ -309,9 +294,7 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-### 论证步骤五　公私合作联合体、共性路线图与创业扶持形成技术向产业转化的持续循环
-
-> [!claim|lead] 步骤五核心主张
+> [!claim] 论证步骤五　公私合作联合体、共性路线图与创业扶持形成技术向产业转化的持续循环
 > 战略第四目标（Goal 4）强调通过[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、产业共性技术路线图指引、产学研人员双向交流以及全周期创业扶持，加速科研成果向实体产业转化，形成技术演进与再投入的良性循环。（pp. 37–47）
 
 #### 1. 产学研联合体与产业技术路线图引导研发资金紧密对接实际需求

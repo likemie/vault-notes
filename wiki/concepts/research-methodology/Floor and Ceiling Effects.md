@@ -62,11 +62,7 @@ created: 2026-09-15
 updated: 2026-10-22
 ---
 
-# Floor and Ceiling Effects
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 天花板与地板效应（Floor and Ceiling Effects，亦称量程截断效应）指测评工具（考试、[[Questionnaire\|问卷]]、心理量表）因题项难度设置不合理或有效测量量程（Range）受限，导致受试群体得分严重偏态地堆积在量表最高端（天花板效应）或最低端（地板效应）的心理计量学缺陷（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。这种人为造成的方差收缩（Variance Restriction）抹平了受试者之间的真实能力差异，导致统计模型严重低估教学干预的真实因果[[Effect Size\|效应量]]，成为大规模教育试验频现“微弱效应”或“零效应”的关键技术根源之一。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 测量量程偏倚与有效性对比
 > | 考察维度 | 天花板效应 (Ceiling Effect) | 地板效应 (Floor Effect) | 理想等距高灵敏量表 |
 > |---|---|---|---|
@@ -100,9 +94,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **题项难度梯度失衡（[[Item Analysis\|item difficulty]] Imbalance）** 测验缺乏足够数量的高难度题项（导致天花板）或缺乏足够的基础台阶题（导致地板），题项难度未能覆盖受试总体的完整能力潜能。
 > - **方差人为收缩（Artificial Variance Truncation）** 由于两极数据被强行折叠至极值，样本实测方差远低于受试人群的潜在真实方差，违背多元统计分析的连续正态假定。
 > - **[[Effect Size\|效应量]]系统性衰减（Effect Size Attenuation）** 组间均值差因尺度边界而被人为缩减，使得原本具有实质教育意义的教学干预在数据报表上呈现为“无统计显著差异”（$d \approx 0.00$）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
@@ -147,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -157,8 +147,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变与学术脉络
 > - **1950s–1960s — [[Classical Test Theory\|经典测验理论]]（CTT）下的截断表征** 心理统计学界在研究智力测验与学业测验时首次定义 ceiling and floor effects，主要视其为常模代表性不足导致的偏态分布问题。
 > - **1970s–1980s — 题项反应理论（[[Item Response Theory\|IRT]]）与信息函数突破** 随着罗施模型（Rasch）与多参数 IRT 的兴起，学者通过检验测验信息函数（Test Information Function, TIF）的覆盖范围，从数学形式上精确形式化了量表在极端能力区间的测量误差激增。
@@ -166,8 +154,6 @@ updated: 2026-10-22
 > - **2014–至今 — 权威测量工具基准库的建立** [[Education Endowment Foundation\|EEF]] 等机构在遭遇 [[Catch Up Numeracy]] 等截断案例后，全面推行涵盖学科统考（NPD）与非认知测评（[[SPECTRUM]]）的准入审查，将量程广度与极端分布灵敏度确立为资助前置硬指标。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -184,8 +170,6 @@ updated: 2026-10-22
 > 在自适应测试（[[Computerized Adaptive Testing]], CAT）或具备高低水平自动分支跳转的现代多阶段测验中，天花板与地板效应可通过算法动态派发适宜难度题目得到极大缓解。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

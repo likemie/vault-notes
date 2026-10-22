@@ -33,7 +33,6 @@ status: draft
 created: 2026-05-28
 updated: 2026-10-22
 ---
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** Jim Spohrer 是美国计算机科学家和服务科学研究者。他在 IBM 工作期间担任全球大学项目（Global University Program）总监，提出了用于组织产学投资的六 R 框架（[[Six Rs of University-Industry Relations]]）。退休后担任 International Society of Service Innovation Professionals（ISSIP）董事会成员和 [[University Industry Demonstration Partnership]]（UIDP）高级研究员。
@@ -58,9 +57,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!tip|notitle]
+> [!tip] 核心思想
 > Spohrer 的核心贡献是为产学关系管理提供了一个可操作的分类和度量框架。六 R 框架将[[University-Industry Collaboration\|产学合作]]按功能分为 Research、Readiness、Recruiting、Revenue、Responsibility、Regions 六个领域，每个领域配有对应的量化度量指标，使产学投资组合的管理从依赖个人经验转变为可追踪、可比较、可随战略转型而重新校准的系统行为。这一框架的提出背景是 IBM 在 2000 年代和 2010 年代的两次战略转型——从全球整合企业到认知计算与混合云——每一次转型都要求对产学投资组合进行全面重新校准。
 
 > [!quote|notitle]
@@ -77,9 +74,7 @@ updated: 2026-10-22
 
 ---
 
-## 格言／关键表述
-
-> [!quote|notitle]
+> [!quote] 格言／关键表述
 > "AI will not replace service providers (e.g., industry researchers, academic faculty, etc.), but trusted service providers who use AI effectively and ethically will replace those who don't."（Rouse & Spohrer, 2018, 转引自 [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer, 2025, p.97]]）
 > 
 > AI 不会取代服务提供者（如产业研究人员、学术教职等），但那些能够有效且符合伦理地使用 AI 的值得信赖的服务提供者，将取代那些不这样做的人。

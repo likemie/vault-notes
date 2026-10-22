@@ -40,8 +40,6 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Innovation Park
-
 > [!info] 定义
 > 创新园区（Innovation Park / research park）是大学拥有或运营的、专为容纳产业合作伙伴和促进产学互动而建设的物理空间。它包括孵化器（面向早期初创企业）、研究园区（面向成熟企业的研发设施）和科技园区（面向多公司、多产业的创新集群）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp.58, 60]]）。
 

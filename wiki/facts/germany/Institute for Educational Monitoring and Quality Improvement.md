@@ -68,11 +68,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Institute for Educational Monitoring and Quality Improvement
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 汉堡教育监测与质量发展研究所（Institut für Bildungsmonitoring und Qualitätsentwicklung, IfBQ）是德国汉堡自由汉萨市主管教育评估、学校质量诊断与[[Data Infrastructure\|教育数据基础设施]]建设的法定专业研究机构。该机构直属于汉堡学校与职业教育局（Behörde für Schule und Berufsbildung, BSB），承担着将经验实证研究方法转化为州级宏观教育治理与微观学校改进工具的核心枢纽职能（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 2–3]]）。在德国联邦教育治理版图中，IfBQ 代表了一种以“低利害形成性监测”（Low-stakes formative monitoring）为核心特征的[[Output-Oriented Governance\|循证治理]]模式，与英美高利害惩罚性问责体制形成鲜明对照（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 12–14]]）。
@@ -85,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与职能演进
 > - **2006–2010 — 创设奠基与测评体系本土化** 依据 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 2006 年[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]正式创设，整合汉堡原有的分散评估机构。初期聚焦于研发契合汉堡[[Dual School System\|双轨制学制]]的 KERMIT（Kompetenzen ermitteln）全州统一能力诊断测试，确立从小学到高中的标准化测评基准。
 > - **2011–2018 — [[Data Infrastructure\|数据基础设施]]制度化与社会指数研发** 主导开发“汉堡社会指数”（Hamburger Sozialindex），依据全州普查家庭背景数据将全州学校划分为 1–6 级，奠定了补偿性教育资源精准配置的科学基石；同步上线面向校长的“学校一览表”（SchÜb）数字化概览系统，推动数据向[[School Autonomy|校本管理]]下沉（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
 > - **2019–至今 — 跨国比较视域下的形成性模式示范与深层协同** 在跨国教育治理研究中，IfBQ 被广泛确立为欧洲低利害形成性治理的典范（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）。该机构在坚持去排名、去高利害淘汰的前提下，与汉堡州立师训与学校发展研究所（Landesinstitut für Lehrerbildung und Schulentwicklung, LI）深度协同，为基层校长开展同侪案例会商（Kollegiale Fallberatung）提供客观实证支撑。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **主管机关与行政隶属** 直属于汉堡学校与职业教育局（BSB），在政策方向与经费预算上接受 BSB 领导，但保持独立开展科学测评与统计分析的技术自主权。
@@ -109,8 +101,6 @@ updated: 2026-10-22
 > - **目标协议与质量磋商（Ziel- und Leistungsvereinbarungen）** 协助 BSB 将测试诊断数据嵌入“目标与绩效协议”。当学校表现与统计基准存在显著差距时，督学以此为抓手与学校展开专业协商，订立针对性改进目标（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, p. 9]]）。
 
 ---
-
-## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **汉堡社会指数（Hamburger Sozialindex）**
@@ -131,8 +121,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与政策渗透
 > - **全州学校 100% 覆盖** IfBQ 的测评系统与社会指数算法全面覆盖汉堡全州数百所中小学，成为汉堡教育行政配置资源与评估质量不可或缺的基础基础设施。
 > - **再分配正义的制度化支撑** 通过社会指数 1–6 级的科学测算，汉堡市政府成功打破了“一刀切”财政拨款模式，使处于薄弱社区的学校获得多达 2–3 倍的编制倾斜与专项经费扶持。
@@ -144,8 +132,6 @@ updated: 2026-10-22
 > - **阻断商业化包装方案的盲目涌入** 在去高利害威胁的治理环境下，汉堡学校没有形成对商业化现成循证方案的狂热采购需求；校长对外部带有商业包装的研究结论保持清醒的去魅态度，注重将证据置于本土校情中审慎审视（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 12–13]]）。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

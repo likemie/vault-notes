@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Record Keeping
-
 > [!metax] [学习记录 · Record keeping](https://www.visiblelearningmetax.com/influences/view/record_keeping)
 > 学生学习策略 › 元认知／自我调节学习
 >

@@ -70,11 +70,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# Ray Pawson
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国社会学家与方法论学者，英国利兹大学（University of Leeds）社会学与社会政策学院社会研究方法论名誉教授，科学实在论方法论学派核心代表人物。
@@ -99,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980年代 — 实证社会学测量反思期** 反思定量社会学研究中概念与指标严重脱节的[[Empiricism|经验主义]]偏误，探索实在论科学哲学在经验研究中的[[Operationalization|操作化]]可能。
 >   - **代表著作** *A Measure for Measures: A Manifesto for Empirical Sociology* (1989)。
@@ -121,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 社会与教育干预项目绝非被动的物理“注射”过程，而是一个通过向行动者提供外部资源并激发其主观能动推理（Reasoning）来生成结果的复杂互动过程；评估的核心任务在于阐明“背景-机制-结果”（Context-Mechanism-Outcome, CMO）的配置规律，而非计算脱离情境的平均[[Effect Size|效应量]]。脱离主体位置与时间尺度的评估必然陷入假象，唯有置于具体时空情境中，因果机制与变迁性质方可被准确辨识。（Pawson & Tilley, 1997; Pawson, 2006; [[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 10]]）
 
 > [!citation-card] 能动推理与生成性因果假说
@@ -158,8 +150,6 @@ updated: 2026-10-22
 > - **制度分析拓展者** [[Jeroen van der Heijden]] — 将波森关于“何为变迁、对谁而言、在何种情境下”的实在论评估原理引入建筑规制与[[Institutional Layering|制度层叠]]文献，论证观察者位置与时间跨度对变迁性质的决定作用。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论交锋
 >

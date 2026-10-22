@@ -55,11 +55,7 @@ created: 2026-08-18
 updated: 2026-10-22
 ---
 
-# Alvin Goldman
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国哲学家，罗格斯大学（Rutgers University）哲学系名誉教授，当代外部主义[[Epistemology\|认识论]]、[[Epistemological Naturalism\|自然化认识论]]与社会认识论（Social Epistemology）的核心奠基领航者。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1960–1970 年代 — 因果[[Theory of Knowledge\|知识论]]与[[Goldman's Discrimination Theory of Knowledge\|辨识理论]]奠基阶段** 针对葛梯尔反例，提出知识依赖于信念与事实之间的因果联系，并进一步提炼出排他性辨识条件。
 >   - **代表著作** *A Causal Theory of Knowing* (1967); *Discrimination and Perceptual Knowledge* (1976).
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 知识的确证不取决于认知主体是否在内省意识中掌握完备的先验理由，而取决于产生该信念的[[Causal Processes\|因果过程]]（如知觉辨识、可靠记忆、严密科学推论或经过良好同行审查的制度通道）在客观世界中产生真信念的真实[[Reliability\|可靠性]]；在个体高度依赖他人专长的社会知识网络中，外行必须依托辩论证据、间接声誉、利益冲突审查及元专业资质等间接线索对专家权威实施理性校准。
 
 > [!citation-card] 论外行对专家证词与认识权威的理性[[Justificatory Standards\|确证标准]]

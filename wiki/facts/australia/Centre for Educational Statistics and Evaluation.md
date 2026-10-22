@@ -53,11 +53,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Centre for Educational Statistics and Evaluation
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **新南威尔士州教育统计与评估中心（Centre for Educational Statistics and Evaluation, [[Comparative Education Society in Europe\|CESE]] NSW）** 是澳大利亚新南威尔士州教育部（NSW Department of Education）于 2012 年设立的州属专门化教育实证数据与科研评估机构，系全澳首个在州级行政科层内部建立的综合性教育证据中介实体。该机构通过整合全州基础教育学业大数据、开展大规模干预评估及发布《最有效实践指南》（*What Works Best*），旨在为学校教学与政府政策提供客观数据基底，并在机制上充当了国家级证据经纪机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）创设的地方科层母本（Lewis & Hogan, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）。
@@ -70,16 +66,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2012–2015 — 创立与州级数据基建整合** 由珍妮·多诺万博士（Dr. Jenny Donovan）担任创设执行主任，系统整合全州学生学业评估、缺勤率与[[Socioeconomic Status|社会经济背景]]数据库，奠定全澳领先的州级教育行政大数据中台（Lewis & Hogan, 2019）。
 > - **2015–2020 — 《最有效实践》（What Works Best）标准输出与全州渗透** 推出全州公立学校学生与教师满意度综合监测项目“听我说”（*Tell Them From Me*），并持续发布与迭代《最有效实践：教师循证教学实践指南》，确立了涵盖显性教学、[[Formative Assessment\|形成性评估]]与[[Classroom Management\|课堂管理]]的八大循证基准。
 > - **2021 — 制度外溢与向国家机构（[[Australian Education Research Organisation\|AERO]]）输送核心班底** [[Comparative Education Society in Europe\|CESE]] NSW 的证据经纪模式被联邦政府《[[Gonski 2.0]]》审查报告吸收为国家模板；CESE 创设主任珍妮·多诺万正式被任命为国家级[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）的首任首席执行官，标志着地方行政证据中介正式向国家跨界网络跃升（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **领导层与行政归属** 隶属于新南威尔士州教育部教育与早期儿童副总干事管辖，由执行主任（Executive Director）直接领导。
@@ -90,16 +82,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 旗舰产品与业务矩阵
 > - **《最有效实践》（*What Works Best*）系列证据指南** 提炼全州大样本数据与国际[[Effective Teaching\|有效教学]]因果证据，制定了涵盖明确教学指导（Explicit Teaching）、有效反馈、[[Formative Assessment\|形成性评估]]与高期望的八大实证教学标准。
 > - **“听我说”（*Tell Them From Me*）综合调查系统** 每年覆盖全州数十万中小学生、教师与家长的标准化感知与心理健康追踪测评数据库。
 > - **改革项目因果影响评估报告** 对新州“本地决策”（Local Schools, Local Decisions）分权改革、乡村教育促进项目等实施独立的量化与质性评估。
 
 ---
-
-## 政策影响与批判性反思
 
 > [!debates] 学术评价与治理张力
 >

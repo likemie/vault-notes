@@ -27,11 +27,7 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# Servitisation of Manufacturing
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 制造业服务化（Servitisation of Manufacturing）指制造业企业从单纯销售产品转向提供围绕其核心产品的综合服务合同的商业模式变革。企业不再仅出售设备本身，而是将设备与销售、使用和维护等关键服务打包成合同出售，从而改变价值在产业链上的分配方式（Neely, 2007; [[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, p.4)]]）。
 
 > [!example] Rolls-Royce 经典案例

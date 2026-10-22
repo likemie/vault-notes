@@ -60,11 +60,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Robin Alexander
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代著名教育学家、比较教育学者、剑桥大学教育学院兼任教授、约克大学名誉教授、英国学术院院士（Fellow of the British Academy, FBA）。
@@ -91,8 +87,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与学术建树
-
 > [!work-line] 代表著作
 > - **1999 — *Learning from Comparing: New Directions in Comparative Educational Research* (Ed.)** 与[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot）及戴维·菲利普斯（[[David Phillips]]）合编，奠定英国学派微观比较方法论转向。
 > - **2000 — *Culture and Pedagogy: International Comparisons in Primary Education*** 跨国课堂教学研究的里程碑巨著，系统建构了解析课堂微观运作与宏观文化理念的多维理论矩阵。
@@ -111,8 +105,6 @@ updated: 2026-10-22
 通过跨国微观课堂对比，亚历山大敏锐发现多数英美课堂充斥着“教师提问-学生简答-教师评判”（IRE/IRF）的封闭式假对话。他汲取巴赫金对话哲学与维果茨基内化理论，创立[[Dialogue in Education|对话教学]]：主张教师应通过追问、探究、累积论证与观点交锋，促发学生高级认知与批判思维的发展。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

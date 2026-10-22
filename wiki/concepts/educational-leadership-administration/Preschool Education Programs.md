@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Preschool Education Programs
-
 > [!metax] [早期干预类型 · Early intervention types](https://www.visiblelearningmetax.com/influences/view/early_intervention_types)
 > 学校 › 学前干预
 >

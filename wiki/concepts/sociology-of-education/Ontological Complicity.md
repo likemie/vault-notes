@@ -38,11 +38,7 @@ created: 2026-06-10
 updated: 2026-10-16
 ---
 
-# Ontological Complicity
-
 ---
-
-## 定义
 
 > [!info] 核心定义
 > **[[Ontology\|本体论]]共谋（Ontological Complicity）** 是法国社会学家[[Pierre Bourdieu\|皮埃尔·布迪厄]]关系社会学中的一个核心概念，指行动者的[[Habitus|惯习]]（[[Habitus]]）与他们所处的社会[[Champ\|场域]]（field）之间一种深层的、具身性（embodied）和前[[Reflexivity\|反思性]]（pre-reflexive）的双向调整与相互契合关系。在这种共谋状态下，行动者在潜意识中将场域的既有规则和权力关系视为理所当然，从而在无意识中参与了社会场域现状与支配结构的再生产，增加了打破现状的阻力。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 414]])
@@ -57,8 +53,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 共谋与顺从的机制辨析
 > | 维度 | [[Ontology\|本体论]]共谋 (Ontological Complicity) | 理性共谋 (Rational Complicity) | 盲目顺从 (Blind Conformity) |
 > |------|--------|----------------|----------------|
@@ -68,9 +62,7 @@ updated: 2026-10-16
 
 ---
 
-## 核心命题
-
-> [!abstract|notitle]
+> [!abstract] 核心命题
 > [[Ontology\|本体论]]共谋确立了行动者对[[Champ\|场域]]秩序的前反思认可，从而转化为在教育场域中对特定“大师品牌”和管理框架的无意识维护与制度深锁。
 
 > [!logic-map]- 命题关系
@@ -92,15 +84,11 @@ updated: 2026-10-16
 
 ---
 
-## 理论语境
-
 > [!logic-map] 理论归属
 > - **[[Pierre Bourdieu\|布迪厄]]关系社会学** — [[Ontology\|本体论]]共谋是解释[[Champ\|场域]]再生产（reproduction）和象征暴力（symbolic violence）的微观认知基础。
 > - **关系社会学（Relational Sociology）** — [[Scott Eacott\|斯科特·伊科特]]将本体论共谋引入教育行政学，强调以“关系”而非“实体”视角分析[[School Leadership\|学校领导力]]的霸权网络，打破实体主义（substantialist）将个体或品牌孤立看待的盲区。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 414]])
 
 ---
-
-## 应用案例
 
 > [!evidence-grid-a] [[School Leadership\|学校领导力]]与[[Cult of the Guru\|大师崇拜]]
 > - **澳大利亚VL品牌深锁** — 澳大利亚学校领导力社群（如 ACEL）与 Hattie 品牌的共谋并非纯粹的商业强迫，而是行政人员追求确定性的[[Habitus|惯习]]与[[John Hattie\|哈蒂]]提供的数据账本契合的结果。这种前反思的契合使“Hattie 崇拜”内嵌于 [[Australian Institute for Teaching and School Leadership\|AITSL]] 的国家校长和教师专业标准中，形成极难撼动的霸权深锁。([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 414–415]])

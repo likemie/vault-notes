@@ -63,11 +63,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Interactional Ethnography
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 互动[[Ethnography|民族志]]（Interactional Ethnography, IE，亦作交互民族志、互动人种志）是一种融合微观[[Discourse Analysis|话语分析]]、常人方法学与历时[[Ethnography|民族志]]的[[Qualitative Research|质性研究]][[Paradigm|范式]]。它通过对特定社会共同体（如课堂、实验室或学术团队）进行长周期的浸润式实地观察、多模态音视频采集与[[Transcription in Qualitative Research|逐字转录]]，构建跨越时间跨度的事件地图（Event Mapping）与互文网络（Intertextual Web），系统追踪成员之间如何在微观言语互动、符号中介与行动协商中共同建构文化实践、[[Epistemology|认识论]]准则与组织化结构。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899–900)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 秉持社会建构论与情境认识论，视意义、知识与社会结构为行动者在特定历史文化情境中通过符号中介与言语互动共同协商生成的产物，而非孤立存在于个体头脑中的静态表征。
 > - **研究者角色** 研究者作为长周期[[Qualitative Observation|田野观察]]者与记录者，既需要深入现场捕捉未言明的情境细节，又必须保持理论敏锐性与[[Reflexivity|反身性]]（Reflexivity），避免将先验假设强加于受访者与行动者的[[Discourse|话语]]逻辑。
@@ -101,16 +95,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **进入田野与长周期系统记录** 深入研究[[Champ|场域]]进行全程参与或[[Non-participant Observation|非参与式观察]]，综合运用音视频设备和现场笔记，建立按时间编码的完整事件日志。
 > 2. **构建事件地图（Event Mapping）** 梳理田野全貌，依据时间与活动主题划分关键事件节点，标定各阶段的核心参与者、主题[[Discourse|话语]]与生成的[[Artefact|人工制品]]。
 > 3. **识别关键转折事件与典型案例（Telling Cases）** 筛选出推动共同体规范转型、认识框架重组或认知突破的关键事件，作为深入微观剖析的典型载体。
 > 4. **双向互文追踪与微观[[Discourse Analysis|话语分析]]** 针对选定事件进行[[Transcription in Qualitative Research|逐字转录]]，向前回溯该事件的历史根源（前序对话、既有制品），向后追踪其对后续实践的持续塑造，绘制互文网络（Intertextual Web）。
 > 5. **多源三角核验与[[Rich and Thick Description|厚描述]]产出** 将话语转录与课后访谈、数字平台日志相互印证，撰写情境化厚描述，提炼出具有理论解释力的动态机制。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
@@ -128,8 +118,6 @@ updated: 2026-10-22
 
 ---
 
-## 典型分析案例与追踪图版
-
 > [!example] 互动[[Ethnography|民族志]]在长周期科学探究中的实证应用（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）
 > 在针对五年级人体系统探究的研究中，研究者通过互动民族志方法记录了 7 个月内发生的全部 35 次教学事件，建立事件地图；针对“眼睛探究线索”展开长达 7 个月的双向互文追踪，从最初的大脑讨论、便利贴提炼，到[[Theory of Knowledge|知识论]]坛发帖、跨组流动研讨，再到 BOOK 视图综合，清晰重构了观点改进与弹性分组的微观演进机制。
 >
@@ -138,16 +126,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 探究微观教学互动如何孕育宏观文化准则、追踪长期合作探究中的认知与组织演进机制、揭示师生在复杂社会技术情境中如何行使能动性并重构实践规范。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899–900)]]
 > - **谨慎使用** 观察周期较短（如仅一两次课）、缺乏长期文化积淀或语料单一匮乏的情境；此种情况下难以建立稳固的历时互文链条。
 > - **不适合使用** 纯粹评估标准化测试前[[Pre-test and Post-test|后测]]干预效应、测定大规模人群[[Variable|变量]]分布或建立线性预测回归模型。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 观察者效应（[[Hawthorne Effect]]）、[[Transcription in Qualitative Research|转录]]与编码过程中的主观解释倾向、由于语料极其庞大导致对边缘事件的挂一漏万。
@@ -168,8 +152,6 @@ updated: 2026-10-22
 > | [[Network Analysis]] | 补充方法 | 量化测度互动密度与网络拓扑，与互动民族志的质性[[Rich and Thick Description\|深描]]形成[[Triangulation\|三角互证]]。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 运用互动[[Ethnography|民族志]]长周期追踪五年级科学课堂 7 个月的人体系统探究，通过事件地图与互文网络揭示学生如何协同构建意向领域与弹性小组。

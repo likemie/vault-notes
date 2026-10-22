@@ -48,11 +48,7 @@ created: 2026-08-27
 updated: 2026-10-16
 ---
 
-# Cornell Critical Thinking Test
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Cornell [[Critical Thinking]] Test（CCTT）
 > - **工具类型** 标准化能力测验（Standardized Multiple-Choice Cognitive Test）。
@@ -61,8 +57,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔测试或机考（限时 50 分钟），题项编排为连续连贯的故事或情境探究线索。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] [[Critical Thinking\|批判性思维]]（Critical Thinking Skills）
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -77,16 +71,12 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 三选一（A/B/C）客观单选题。
 > - **情境线索设计** Level X 采用“外星球探险考察队遭遇未知现象”的连贯情境；Level Z 采用更加抽象严谨的科学研究与社会争议情境。
 > - **计分方式** 每题正确计 1 分，答错或不答计 0 分；提供不同学段与年级的标准化百分位常模。
 
 ---
-
-## 使用该工具的研究
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -96,8 +86,6 @@ updated: 2026-10-16
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | CCTT Level Z | [[OECD]] 报告工具谱系分析，考察经典标准化选择题工具在高等教育[[Critical Thinking\|批判性思维]]测量中的应用与局限 | 经典客观测验 | 确立了 CCTT 在归纳推理、证据可[[Reliability\|信度]]与假设检验测量方面的标准化规范地位 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

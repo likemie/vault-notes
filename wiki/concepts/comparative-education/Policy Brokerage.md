@@ -73,11 +73,7 @@ created: 2026-09-11
 updated: 2026-10-22
 ---
 
-# Policy Brokerage
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ\|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向转译，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立[[Knowledge Mediation\|知识中介]]不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织、智库或政府扶植机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助或行政授权时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality\|理性表象]]施展软性政策规制或推动自上而下的政策落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
@@ -108,9 +104,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性[[Discourse|话语]]回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与规制手段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
@@ -186,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -208,8 +200,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 中立知识桥梁还是隐蔽政治议程载体
@@ -226,8 +216,6 @@ updated: 2026-10-22
 > 政策中介概念主要解释具备完备数据生产能力与跨国传播网络的超国家组织、大型智库及发达咨询实体；在缺乏成熟[[Data Infrastructure\|数据基础设施]]或高度封闭集权的政策体系中，其分析解释力可能受限。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 550)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -66,11 +66,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Tacit Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **默会知识（Tacit Knowledge）** 最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以编码、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -138,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -156,8 +150,6 @@ updated: 2026-10-22
 > - **2020年代 — 向全球[[Epistemic Governance|知识治理]]与地缘战略动员的扩展** [[Knowledge Diplomacy|知识外交]]与[[Geopolitics of Higher Education|高等教育地缘政治]]学者将隐性知识引入跨国[[Knowledge Power|知识权力]]分析，揭示国际知识网络与多边制度规范如何依托隐性文化交往和治理惯例进行跨国传播与非对称动员。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

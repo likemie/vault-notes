@@ -41,8 +41,6 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# New Education Movement
-
 > [!info] 背景
 > 1912 年中华民国成立后，1904 年由清政府以日本学制为蓝本建立的教育体系虽经修改但仍留存，教育改革者围绕重建教育制度展开了激烈争论。同时，[[New Culture Movement\|新文化运动]]以"民主"和"科学"为口号批判儒家传统，为新教育运动提供了文化与意识形态框架([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.612–614]])。
 
@@ -55,9 +53,7 @@ updated: 2026-10-22
 > - **1922–1923 年** — 1922 年学制改革与 1923 年课程改革成为新教育运动的具体成果([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.617–618]])。
 > - **1923 年后** — 运动转向温和路线，重心从"民主"转向"[[Scientific Attitude\|科学态度]]"。[[Tao Xingzhi\|陶行知]]创办的《新教育评论》（1925–1928）取代《新教育》（1919–1925），标志着[[Paradigm|范式]]转换([[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.619]])。
 
-## 核心张力
-
-> [!abstract|notitle]
+> [!abstract] 核心张力
 > 新教育运动内部存在两个核心阵营：
 
 > [!note] 激进派

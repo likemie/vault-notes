@@ -43,11 +43,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Erving Goffman
-
 ---
-
-## 简介
 
 > [!person-profile] 机构生活研究的概念与材料贡献
 > - **身份位置** 厄文·[[Michael Gove|戈夫]]曼（Erving Goffman）是微观社会学、[[Symbolic Interactionism|符号互动论]]与拟剧论的代表学者，在机构生活研究中提供[[Total Institution|全控机构]]及去人格化过程的概念资源。
@@ -56,17 +52,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1961 — *Asylums*** 列出[[Total Institution|全控机构]]的主要特征，并以精神病院储物叙事呈现私人空间与财物支配受限的生活条件；后续被引申为批判顶尖高校封闭式行政文化的概念工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 > - **1959 — *The Presentation of Self in Everyday Life*** 奠定拟剧论基础，分析社会互动中的前台、后台与印象管理。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch01)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 机构中的日常物品关系可以揭示身份与自主性的处境。衣物、钱、身份文件及日用品的取得被控制，私人储存又缺少安全性和可及性时，成员失去的不只是一处存放东西的地点，还包括对自我呈现与日常需要的部分支配。去人格化（Depersonalization）与人格贬损（Mortification）的分析必须连接制度安排和日常行动。封闭管理的机构形态往往切断与广泛社会的有机联系，在规训内部生活的同时削弱成员应对外部真实世界冲突的自主能力。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 
 ---
@@ -76,8 +68,6 @@ updated: 2026-10-22
 > - **理论传统** 深化了[[Symbolic Interactionism|符号互动论]]，为微观社会学[[Qualitative Observation|田野观察]]与日常互动分析提供了核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch01)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

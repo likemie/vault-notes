@@ -91,11 +91,7 @@ created: '2026-05-05'
 updated: 2026-10-22
 ---
 
-# Stephen Ball
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）政策社会学荣休教授。
@@ -114,8 +110,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1990 — *Politics and Policy Making in Education: Explorations in Policy Sociology*** 奠定批判性政策社会学分析架构，确立考察政策驱动力（Drivers）、推进工具（Instruments）与政治价值取向（Values）的三维分析视角，为解构国家宏观政策立项与实施提供分析工具。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 > - **1993 — *Education Markets, Choice and Social Class: The Market as a Class Strategy in the UK and the USA*** 奠定市场化批判[[Paradigm|范式]]，指出以市场逻辑替代国家保障是统治阶层削减公共开支并锁定优势的阶级策略。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993, cited in Olmos & Torres, 2009, pp. 79–80)]]
@@ -130,12 +124,8 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育政策是在多重复杂语境中不断生产与[[Recontextualization|再脉络化]]的[[Discourse|话语]]博弈[[Champ|场域]]。新自由主义治理通过审计社会与[[Governing by Numbers|以数字治理]]等绩效考核技术全面侵蚀公立教育，利用[[Evidence-Based Education|循证教育]]中[[Value Neutrality|价值中立]]的伪科学修辞规避深层价值审议，借助[[Performativity|表演性]]规训迫使教师不断自证合规，剥夺教师的专业反思与伦理判断力，最终将教育的民主陶冶宗旨降格为流水线式的生产效率控制。
-
-### 核心命题
 
 > [!claim] 政策驱动力—推进工具—价值三维分析视角（Drivers, Instruments, Values）
 > 鲍尔在政策社会学研究中提出，解构国家教育政策必须穿透表层修辞，同步考察激发政策立项的核心驱动力（Drivers）、推进政策落地的实践工具与治理手段（Instruments），以及贯穿其中的政治意识形态与价值取向（Values）。这一分析维度打破了传统[[Policy Science in Comparative Education|政策科学]]将政策视为理性技术方案的假设，将政策制定呈现为特定国家战略意图、权力网络与意识形态博弈的物质化载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
@@ -176,9 +166,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将福柯的政府[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟了批判性教育政策社会学研究传统；其提出的[[Performativity|表演性]]与内生/[[Exogenous Privatisation|外生私有化]]模型成为当代解构新自由主义教育改革的基础词汇。
 > - **方法路径** 推广[[Policy Network|政策网络]]拓扑学与社会网络地图绘制方法，为后继学者解构跨国教育商业化与[[Policy Entrepreneur|政策企业家]]的利益网络提供了有力工具。
 > - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]等学者直接继承其表演性批判，深入剖析 [[Visible Learning]] 与高影响力教学策略对一线教师的规训。
@@ -205,8 +193,6 @@ updated: 2026-10-22
 > - **批评对象／论敌** [[John Hattie]] — 视其为典型的跨国[[Policy Entrepreneur|政策创业者]]，利用[[Meta-meta-analysis|元-元分析]]数字排行推动教育的绩效化与商业化治理。
 
 ---
-
-## 争议与批评
 
 > [!tension] 争议焦点
 > - **争议对象** 鲍尔政策分析中的[[Post-structuralism|后结构主义]]倾向。

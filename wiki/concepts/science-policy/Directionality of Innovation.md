@@ -73,11 +73,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Directionality of Innovation
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **创新的方向性（Directionality of Innovation / Directionality）** 是指创新活动与技术变革不仅包含发生速率、研发投入规模与专利产出数量等量化维度，更包含指向何种社会目标、遵循何种价值规范的质性演进路径。这一概念强调经济增长与技术演化存在多条相互竞争的潜在轨道，市场自发力量无法保证技术必然流向增进公共福祉或保障国家战略安全的领域；公共政策的核心使命必须超越单纯维护市场中立的新古典视角，通过前瞻性战略与制度设计倾斜市场竞争环境（[[Tilting the Playing Field]]），主动引领创新流向绿色低碳、社会包容、供应链韧性与高质量发展的特定使命方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 > - **不适用于 缺乏宏观[[Public Value|公共价值]]诉求的孤立商业利润最大化** 仅适用于关涉重大公共利益、外部性、供应链安全及长远社会转型的宏观与中观政策领域。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 传统创新政策速率观与使命导向方向性观对比
 > | 比较维度 | 传统创新政策（聚焦创新速率与数量） | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]（聚焦创新方向性） | [[Securitization of Technology\|技术安全化]]导向（聚焦[[Strategic Autonomy\|战略自主]]与供应链安全） |
@@ -179,8 +173,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -198,8 +190,6 @@ updated: 2026-10-22
 > - **2022–2026 — [[Securitization of Technology|技术安全化]]与国家使命导向双重重塑** 面对大国地缘博弈与尖端半导体供应链危机，以美国《[[CHIPS and Science Act|芯片与科学法案]]》为代表的[[Modern Industrial Policy|现代产业政策]]将方向性进一步延伸至国家安全、主权掌控与本土制造闭环，推动创新政策进入兼顾绿色转型与技术安全化的新纪元。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–29)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与治理张力
 >
@@ -220,8 +210,6 @@ updated: 2026-10-22
 > - **公共部门能力短缺瓶颈** 落实方向性需要公共部门具备高超的“[[Market Shaping and Creating|市场塑造]]”与“引领学习”动态能力；若体制能力不足，极易退化为形式主义的行政指令。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 关键实证案例与政策指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

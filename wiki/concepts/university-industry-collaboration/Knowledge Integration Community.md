@@ -34,8 +34,6 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Knowledge Integration Community
-
 > [!info] 定义
 [[Knowledge Integration|知识整合]]共同体（Knowledge integration Community，简称 KIC）是 Acworth（2008）基于 Cambridge-MIT Institute 的经验提出的[[University-Industry Collaboration|产学合作]]组织模型。KIC 围绕科学或技术领域的"[[Grand Challenges|重大挑战]]"（grand challenges）组织产学合作，将教育、研究、产业和政府整合为一个多维度联盟（multidimensional alliance）（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.54]]）。
 

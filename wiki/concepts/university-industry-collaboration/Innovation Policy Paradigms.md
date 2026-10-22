@@ -76,11 +76,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Innovation Policy Paradigms
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms，或称创新政策三框架 Three Frames for Innovation Policy）是指学者（Schot & Steinmueller, 2018; Lindner et al., 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）识别出的、自第二次世界大战以来发达经济体科技创新政策所经历的三个核心演化阶段：**科学促增长（Frame 1: Science for Growth）**、**国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）** 与 **[[Transformative Change|变革转型]]／使命导向（Frame 3: Transformative Change & [[Mission-Oriented Innovation Policy|mission-oriented policy]]）**。每个范式代表了国家与公共部门对“创新如何发生”、“政策为何干预”以及“[[Public Value|公共价值]]如何实现”这三大根本问题的不同理论认知与制度回答。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–806)]]
@@ -100,8 +96,6 @@ updated: 2026-10-22
 > - **不意味着 现实政策工具的绝对割裂** 在现代国家创新治理中，三大范式的政策工具通常以混合架构（Hybrid Policy Mix）形式在[[National Innovation System|国家创新体系]]中共存运行。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 创新政策三大[[Paradigm|范式]]核心维度深度对照
 > | 比较维度 | 范式一：科学促增长（Frame 1） | 范式二：国家[[Systems of Innovation\|创新系统]]（Frame 2） | 范式三：[[Transformative Change\|变革转型]]与使命导向（Frame 3） |
@@ -124,8 +118,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 三大范式深度解构
 
 > [!feature] 创新政策三大[[Paradigm|范式]]核心逻辑与治理特征
 > - **范式一：科学促增长（Frame 1: Science for Growth）**
@@ -187,8 +179,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -199,8 +189,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 创新政策[[Paradigm|范式]]的历史演变脉络
 > - **1945 — 范式一确立：科学无尽前沿** 瓦内瓦尔·布什（[[Vannevar Bush]]）发布里程碑报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science: The Endless Frontier*），奠定政府资助基础研究以驱动长期繁荣的线性模型。
 > - **1980 — [[Bayh-Dole Act of 1980|拜杜法案]]与[[Technology Transfer|技术转移]]制度化** 美国出台《拜杜法案》（Bayh-Dole Act），允许大学拥有联邦资助成果的知识产权，拉开了全球高校专利化与技术转移的序幕。
@@ -210,8 +198,6 @@ updated: 2026-10-22
 > - **2020–2024 — 实践落地与全球试验** [[EU|欧盟]]全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）设立[[NSF Regional Innovation Engines|区域创新引擎]]；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

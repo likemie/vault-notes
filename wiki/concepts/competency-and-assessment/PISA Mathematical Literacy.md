@@ -50,11 +50,7 @@ created: 2026-10-21
 updated: 2026-10-21
 ---
 
-# PISA Mathematical Literacy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[PISA]] 数学素养（PISA Mathematical Literacy）是[[OECD|经济合作与发展组织]]（OECD）在国际学生评估项目（[[PISA]]）中确立的跨国测评[[Construct|构念]]，指个体在多样化现实生活情境中提出、运用、解释与评价数学，以及进行数理推理的能力。该构念摆脱了传统学科教学偏重抽象公式[[Rote Learning|死记硬背]]与纯符号算法操练的局限，确立了以“现实情境数学化建模”为核心的学力[[Paradigm|范式]]，考查 15 岁学生如何将无结构的实际问题转化为数学表征、运用数学概念规律进行分析求解，并在真实生活情境中检验数学推论的有效性与实践合理性。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
@@ -76,8 +72,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[PISA]] 数学素养与传统课程导向测验及 [[TIMSS]] 的区别
 > | 维度 | PISA 数学素养（Mathematical Literacy） | 传统课程期末与升学选拔考试 | TIMSS 国际数学与科学[[Trend Study\|趋势研究]] |
 > |---|---|---|---|
@@ -88,8 +82,6 @@ updated: 2026-10-21
 > | **工具使用文化** | 提倡合理使用科学计算器与数字化计算软件 | 多禁止使用计算器，偏重纸笔人工精确心算笔算 | 根据年级与国家政策有限允许使用基本计算器 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **数学化建模循环（The Modeling Cycle）** 构成评价动态操作的核心主干：① **表征与形式化（Formulate）** 从复杂杂乱的现实情境中识别数学结构、抽象[[Variable|变量]]并建立数学模型；② **运用与求解（Employ）** 应用数学概念、运算法则、图表转换与公理进行逻辑推理、计算与推导；③ **解释与评价（Interpret and Evaluate）** 将数学解反向置入原始现实背景中，检验其是否符合实际常识、边界条件与社会决策约束；④ **数理推理（Mathematical Reasoning）** 贯穿全过程的逻辑演绎、归纳、批判性质疑与策略选择（PISA 2022 进一步将其确立为最高位伞状支柱）。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]

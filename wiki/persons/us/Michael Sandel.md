@@ -52,11 +52,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Michael Sandel
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名政治哲学家、哈佛大学政府系政治哲学讲座教授，当代西方社群主义（Communitarianism）学派核心代表人物，美国文理[[Chinese Academy of Sciences|科学院]]院士。
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980年代 — [[John Rawls|罗尔斯]]批判与主体自我构成论** 解构自由主义将个体视为脱离社群历史、文化与情感依附的“抽象原子”假设，主张正义无法脱离具体的善观念与共同体认同。
 >   - **代表著作** *Liberalism and the Limits of Justice* (1982/1998)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]
@@ -101,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 迈克尔·桑德尔指出，自由主义试图在重大道德与精神争议中保持绝对中立的企图注定是一场幻觉。当现代社会因害怕争议而要求公民将道德和精神信念留在公共广场之外时，留下的真空绝不会保持中立，而是迅速被不受约束的[[Market Triumphalism|市场必胜论]]（Market Triumphalism）所填补；科技企业领导人普遍臣服于这种市场逻辑，任由商业变现与资本估值取代对企业社会价值的自主思考。重建充满生机的民主生活与[[Technological Republic|技术共和国]]，必须打破道德不可知论，勇于在公共广场开展具有实质道德共鸣与公共善抱负的哲学辩论。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 ---

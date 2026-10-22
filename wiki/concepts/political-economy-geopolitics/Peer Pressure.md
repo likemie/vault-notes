@@ -40,11 +40,7 @@ created: 2026-10-14
 updated: 2026-10-22
 ---
 
-# Peer Pressure
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **同行压力（Peer Pressure）** 在国际公共政策与全球治理领域，指主权国家面对由其他国家、专业同侪网络或多边国际组织构成的横向评估环境时，由于追求国际声誉资本、维护国家合法性形象以及规避国际排位羞辱而产生的遵从共同规范或推行国内改革的动力机制。在以经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的软法跨国治理网络中，同行压力与[[Multilateral Surveillance|多边监督]]构成了相辅相成的双重支柱：多边监督提供制度化的数据收集与常态化审查舞台，而同行压力则是激活国家政策调整心理与政治反应的动力学源泉。尤其在[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等跨国评估引入公开联赛排位榜单后，同行压力演变为直接触动成员国朝野声誉关注的制度性危机感，促使主权国家政府在未受任何外在硬法强迫的情况下，自发按照超国家机构设定的基准开展国内教育体制重构，成为实现远处掌舵的传导机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442, 447)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–273)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 同行压力与相关机制辨析
 > | 维度 | 本概念（同行压力） | [[Multilateral Surveillance\|多边监督]] | 财政条件附带机制（[[Policy Conditionalities\|Policy Conditionality]]） |
 > |---|---|---|---|
@@ -77,8 +71,6 @@ updated: 2026-10-22
 > | 成员国感知 | 面向国际先进水平的政治压力与尊严关注 | 按照既定议程合理解释本国政策的程序义务 | 获取急需资金所必须遵从的刚性条件 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素
 > - **国际声誉资本与合法性认同** 主权国家将自身在国际同侪群体中的先进地位视作核心国家利益，注重防范被判定为教育质量落后政体。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–271)]]
@@ -130,8 +122,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -149,8 +139,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 同侪互评建设性政策学习 vs 联赛排名恐慌诱发的政策借用与形式主义
@@ -163,8 +151,6 @@ updated: 2026-10-22
 > 同行压力机制的有效运转高度依赖于受测国家具备开放的公共舆论空间、敏锐的媒体生态以及对国际多边声誉的重视。在政治封闭、高度民族主义防御或拒绝西方标准化发展范式的政体中，外部排位与同侪审议往往难以激活国内政策调整动力，甚至可能诱发激烈的反弹与制度脱嵌。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 国际政策治理中同行压力实证研究结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

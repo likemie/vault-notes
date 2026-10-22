@@ -45,11 +45,7 @@ created: 2026-09-24
 updated: 2026-10-22
 ---
 
-# Christopher Martin
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大教育哲学家，不列颠哥伦比亚大学（奥肯那根校区）教育学院副教授，主要研究领域为教育哲学、高等教育政治理论、公共审议与认识正义。
@@ -69,17 +65,13 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2018 — *Should Deliberative Democratic Inclusion Be Extended to Children?*** 首次提出[[Formative Epistemic Injustice|成长性认识不正义]]，论证未成年人参与民主辩论与探究实践的制度性权利。
 > - **2022 — *The Right to Higher Education: A Political Theory*** 从政治自由主义出发，论证个体进入高等教育是行使自由自主与参与民主政治的基本权利。
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 教育不仅是传授既定知识技能与工具性职业准备的场所，更是一个培育个体行使交流与审议权利的根本育人[[Champ|场域]]。正义的教育制度必须保障未成年学习者在成为成熟求知者的形成期，享有亲身参与观点辩论、理由给付与证据权衡的真实实践权利；若学校安排剥夺了这种探究实践机会，即便未成年人尚未完全具备成人的认知权能，也构成了针对其作为潜在求知者的根本性[[Epistemology|认识论]]侵害——即[[Formative Epistemic Injustice|成长性认识不正义]]。
 
 > [!citation-card] 学校作为交往探究实践场域与成长性权利

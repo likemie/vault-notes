@@ -35,19 +35,13 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-# Cover Story
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 封面故事（Cover Story）是[[Experimental Research\|实验研究]]中向受试者提供的关于[[Research Purpose\|研究目的]]和程序的一个表面可信的解释，但这个解释可能不完全真实。研究者使用封面故事的目的是防止受试者知晓研究的真正目的或被操纵的[[Variable\|变量]]后，改变其自然行为或回答——这种知情后的行为改变会污染实验结果（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。
 
 > [!quote|notitle]
 > "A cover story is a plausible (but potentially untrue) explanation to research participants about the purpose of the study and study procedures."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 封面故事在实验方法计划中的使用（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 在方法计划的程序部分，研究者需撰写并描述将向受试者讲述的封面故事。

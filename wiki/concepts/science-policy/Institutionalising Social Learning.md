@@ -40,11 +40,7 @@ created: 2026-10-03
 updated: 2026-10-22
 ---
 
-# Institutionalising Social Learning
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **制度化社会学习（Institutionalising Social Learning）** 是由 R. L. 伊森（R. L. Ison）、K. B. 柯林斯（K. B. Collins）与 P. J. 沃利斯（P. J. Wallis）于 2015 年系统提出的治理理论与学习科学概念，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为破解[[Wicked Problem|棘手问题]]并推动使命导向政策走向收敛的核心机制。它指面对高度复杂、充斥价值争议与[[Scientific Uncertainty|认知不确定性]]的社会转型挑战时，治理体系超越单向的技术知识传递与专家封闭决策，通过在制度层面搭建包容政策制定者、科研人员、企业与公众的协作平台，借助共同愿景塑造（Collective Visioning）、[[Participatory Research|参与式研究]]与认知框架重构（Framing/Reframing），促使异质行动者在持续互动与试错中达成理解互信与行动收敛的集体学习过程。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481, 487)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 学习模式在范畴与机制上的对比
 > | 维度 | 制度化社会学习（Governance & Transitions） | [[Albert Bandura\|班杜拉]][[Social Learning Theory\|社会学习理论]]（Psychology） | 组织学习（Organizational Learning） |
 > |---|---|---|---|
@@ -76,8 +70,6 @@ updated: 2026-10-22
 > | **代表文献** | Ison et al. (2015); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] | Bandura (1977) | Argyris & Schön (1978); March (1991) |
 
 ---
-
-## 核心要素
 
 > [!feature] 制度化社会学习的核心支柱
 > - **包容性多方参与平台（Inclusive Stakeholder Engagement）** 将高校科研人员、政策制定者、企业、社区公众及非政府组织纳入平等的对话协商平台，建立跨界合作信任。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 477)]]
@@ -140,8 +132,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 制度化社会学习核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Social Learning Theory|社会学习理论]]在治理领域的演进
 > - **1977 — 心理学个体学习理论奠基** [[Albert Bandura|班杜拉]]提出社会学习理论，奠定行为观察与认知模仿的微观心理学基础。
 > - **2000s — 资源与环境治理中的社会学习兴起** 瓦赫宁根学派与国际生态治理学者将社会学习引入流域管理与气候适应，强调利益相关者共同学习。
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > - **2020 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]空间整合** 万岑伯克等人将制度化社会学习作为驱动问题–方案空间二维收敛的基石机制，实现学习科学与科技政策的深度交融。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481, 487)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

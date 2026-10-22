@@ -80,7 +80,6 @@ publication_place: "Chicago"
 publisher: "University of Chicago Press"
 issuing_organization: "National Bureau of Economic Research"
 ---
-# Argument_Mowery_2011_NBER
 
 ---
 
@@ -97,8 +96,6 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -110,8 +107,6 @@ issuing_organization: "National Bureau of Economic Research"
 > [[David C. Mowery|大卫·莫厄里]]（David C. Mowery）所构建的理论工具箱将国家宏观制度干预（研发拨款、国防采购、反垄断强制许可、大学学科资助）与微观产业组织动力学（新企业进入、跨企业技术流动、用户端组织再造）深度嵌合。通用目的技术概念为剖析硬件、软件与网络的层级演化提供了分析基座；需求侧政策理论解释了早期市场不确定性如何被公共采购化解；共同发明理论则阐明了技术从上游突破走向全社会生产率提升的微观中介机制。（pp.159–161, 184–186）
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -129,8 +124,6 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
@@ -147,9 +140,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-### 论证步骤一　反垄断同意令与国防先导采购协同催生了去中心化的商用半导体产业
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　反垄断同意令与国防先导采购协同催生了去中心化的商用半导体产业
 > 战后美国半导体产业之所以超越欧洲与日本形成高度竞争的专业化分工结构，并非源于单纯的研发资助，而是 [[1956 AT&T Consent Decree|1956年美国电话电报公司同意令]] 强制开放底层专利与国防采购充当创新竞赛奖金双重制度力量协同塑造的结果。（pp.161–171）
 
 #### 1. 反垄断诉讼威慑与 1956 年同意令打破技术垄断封锁
@@ -211,9 +202,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-### 论证步骤二　大学先锋研发、国防战略工程采购与反垄断规制奠定了计算机硬件与软件生态
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　大学先锋研发、国防战略工程采购与反垄断规制奠定了计算机硬件与软件生态
 > 与半导体产业不同，战后计算机硬件与软件产业深度依托大学先锋原型研发，并在国防超级工程采购（[[Semi-Automatic Ground Environment|半自动地面防空系统]] [Semi-Automatic Ground Environment, [[Sage]]]）与 [[1956 IBM Consent Decree|1956年国际商业机器公司同意令]] 的约束下，完成了从封闭专有租赁向开放多元分工体系的制度转型。（pp.171–183）
 
 #### 1. 大学先锋探索与开放式多元计算架构资助
@@ -297,9 +286,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-### 论证步骤三　高校学科建制化与用户端共同发明完成了通用技术范式的闭环
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　高校学科建制化与用户端共同发明完成了通用技术范式的闭环
 > 联邦科研投入推动了大学计算机科学[[Disciplinary Institutionalization|学科建制化]]与高层次人才供给，而标准化计算硬件与软件平台的大规模部署激活了下游用户端广泛的[[Co-invention|共同发明]]，共同奠定了美国信息技术产业的长期全球领导地位。（pp.183–185）
 
 #### 1. 联邦科研资助催生计算机科学学科建制化与人才蓄水池
@@ -319,9 +306,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-### 论证步骤四　冷战信息技术政策范式向气候变化与清洁能源研发迁移的结构性边界
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　冷战信息技术政策范式向气候变化与清洁能源研发迁移的结构性边界
 > 冷战时期信息技术政策所依赖的军用性能溢价、军民双向技术溢出及绿地产业生态在清洁能源领域完全缺失；应对气候变化研发必须直面大宗商品同质性与存量基础设施刚性，审慎构建以碳规制、稳定研发投入与大型基础设施试验为核心的政策组合。（pp.184–186）
 
 #### 1. 能源与信息技术产业的根本属性差异：[[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]]
@@ -354,8 +339,6 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **反垄断诉讼与同意令构成战后美国 IT 产业分散化竞争生态的制度根基** 1956年AT&T同意令 与 1956年IBM同意令 强制开放底层晶体管与计算机专利，直接促成了德州仪器、[[Fairchild Semiconductor|仙童半导体]]、小型机及独立软件供应商等专业化创新企业群的爆发。（pp.161–163, 177–180）
 > 2. **国防采购在技术生命周期早期充当了强效的创新竞赛奖金与先导首发用户** 军品采购承担了集成电路早期的全部市场规模并吸收了高昂试错溢价，推动制造成本急剧下降并越过商用扩散门槛；但随着民用市场规模超越军品，政府采购对技术演进轨迹的控制力显著衰减（如 COBOL 的成功与 Ada 的受挫）。（pp.163–168, 180–182）
@@ -369,8 +352,6 @@ issuing_organization: "National Bureau of Economic Research"
 > - **0 ➔ 150+** 1960 年至 1990 年代全美授予计算机科学博士学位的高校系所数量增长规模。（pp.183–184）
 
 ---
-
-## 关键引用
 
 > [!citation-card] 广义创新政策与反垄断规制对新兴企业进入的深远塑造
 > 历史回顾最显著的结论之一，是其他领域的公共政策对创新（尤其是采用新技术的创新型企业的进入与成长）具有深远影响。反垄断与知识产权政策在促进技术向竞争对手和新进入者广泛扩散方面发挥了核心作用，不仅催生了新的硬件与半导体厂商，也为独立软件产业创造了生存空间。（pp.160–161）

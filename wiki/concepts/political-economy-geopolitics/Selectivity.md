@@ -46,11 +46,7 @@ created: '2026-05-13'
 updated: 2026-10-22
 ---
 
-# Selectivity
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 在治理和政策分析中，选择性（selectivity）指政策工具和制度安排系统性地优先某些政策替代方案、同时使其他方案被边缘化的过程。此概念源自 Jessop（2007）的策略关系国家理论（strategic-relational approach）：政策工具并非中立的筛选器，而是嵌入特定的权力关系，使某些政策选择比其他选择在操作上更可行、在[[Discourse|话语]]上更"自然"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166, 174]])。
 >
 > Jessop 的关键洞见在于：选择性不是决策者有意的偏见或偏袒，而是政策工具本身的结构性特征。在自由主义经济秩序的框架下——即 Jessop 所描述的"[[EU|欧盟]]就业和经济政策的深层预设"——政策工具"不可避免地使决策者聚焦于某些议题而忽略其他"(Jessop, 2007; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166]])。

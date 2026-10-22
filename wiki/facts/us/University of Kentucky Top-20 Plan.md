@@ -33,8 +33,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# University of Kentucky Top-20 Plan
-
 > [!info] 背景
 > 肯塔基大学（University of Kentucky）是一所公立赠地大学（land-grant institution），成立于 1865 年，传统上提供农业、工程、采矿和通识文科教育。本世纪初，肯塔基州立法机构指令该大学在 2020 年前达到美国公立大学 Top-20 的排名目标([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.125–126]])。
 

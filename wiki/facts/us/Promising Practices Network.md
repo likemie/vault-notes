@@ -53,11 +53,7 @@ created: 2026-05-05
 updated: 2026-10-16
 ---
 
-# Promising Practices Network
-
 ---
-
-## 概述
 
 > [!info] 机构定位与运营概况
 > **前景广阔的实践网络（Promising Practices Network, PPN）** 是由美国著名智库兰德公司（RAND Corporation）于 1998 年设立的多领域非营利[[Educational Evidence Clearinghouses\|证据清算中心]]，致力于为决策者提供改善儿童与家庭福祉的循证干预项目清单([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
@@ -65,8 +61,6 @@ updated: 2026-10-16
 > PPN 覆盖社会与行为发展、身心健康、基础教育与经济福利等领域。当前处于**已终止运营并归档（Discontinued / Archived）** 状态：兰德公司于 2014 年 6 月结项停止更新，网站于 2019 年底正式下线，全部历史评级报告沉淀于兰德免费公开电子书 [TL145](https://www.rand.org/pubs/tools/TL145.html)。
 
 ---
-
-## 机构背景与资助体系
 
 > [!note] 发展背景与资助演进
 > PPN 由兰德公司儿童与政策倡议中心发起，受到威廉与弗洛拉·惠普尔基金会等多家慈善基金支持。
@@ -76,15 +70,11 @@ updated: 2026-10-16
 
 ---
 
-## 评级对象与项目纳入范围
-
 > [!feature] 评价范围与项目入库
 > - **评估对象级别** 仅针对具备完整实施文档与固定方案的**具名项目（Named Programs）** 开展评估([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 > - **儿童与家庭焦点** 纳入干预涵盖学前准备、早期阅读、课堂行为管理、家庭危机干预及青少年辍学预防等。
 
 ---
-
-## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
 > PPN 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=1, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
@@ -93,8 +83,6 @@ updated: 2026-10-16
 > 2. **[[Sample Size Determination\|样本量]]硬性门槛** 要求纳入研究的样本总量必须达到 **N > 100**，以确保统计检验力与估计稳定性。
 
 ---
-
-## 评级体系与最高准入门槛
 
 > [!contrast-table] PPN 核心评级等级与标准
 > | 评级等级 | 核心准入条件与方法学门槛 |
@@ -105,8 +93,6 @@ updated: 2026-10-16
 
 ---
 
-## 生态定位与评级分歧案例
-
 > [!warning] 跨中心分歧与典型案例
 > PPN 在早期教育清算生态中扮演了重要桥梁角色，其历史评级在后续 Wadhwa et al. 的多中心比较中被广泛引用：
 > - [[Open Court Reading]]（OCR）— PPN 评为 Promising，肯定其在早期识字率上的积极表现，但因部分研究[[Effect Size\|效应量]]波动未达 Proven 门槛([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 22]])。
@@ -114,8 +100,6 @@ updated: 2026-10-16
 > - [[Communities in Schools]]（CIS）— PPN 历史评级为 Promising，与 [[National Dropout Prevention Center\|NDPC]] 的最高推荐接近，但低于 [[Blueprints for Healthy Youth Development\|Blueprints]] 和 WWC 的否定结论([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
 
 ---
-
-## 相关概念／政策
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — PPN 代表了早期智库型多领域证据清算中心的运作形态。

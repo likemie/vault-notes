@@ -67,11 +67,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Thomas S. Popkewitz
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名比较教育学者、课程历史学家与社会[[Epistemology|认识论]]泰斗，威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）课程与教学系教授。
@@ -95,8 +91,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1980s — 教育[[Paradigm|研究范式]]与科学神话解构** 此阶段聚焦解构[[Positivism|实证主义]][[Scientific Method|科学方法]]论背后的权力逻辑。
 >   - **代表著作** *Paradigm and Ideology in Educational Research* (1984)。
@@ -113,9 +107,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 波普科维茨的核心思想在于**开创了教育研究的“社会[[Epistemology|认识论]]”，揭示现代教育改革所标榜的科学进步与全纳理念，实质上是一套制造规训与分类排斥的权力理性系统**。他指出，权力不仅体现为国家法律的硬性强制，更体现为关于“什么是合格教师”、“什么是[[Lifelong Learning|终身学习]]者”的[[Discourse|话语]]分类标准。像[[OECD|经合组织]]这样的跨国机构，正是通过制定去情境化的教师能力指标与评价框架，行使着无形的跨国[[Governmentality|治理术]]；这种所谓的改革话语看似旨在包容所有人，却在分类体系底层系统性地把弱势群体打上“不合格”烙印。
 
 > [!citation-card] 跨国组织在教师教育法规中的社会规训角色
@@ -138,8 +130,6 @@ updated: 2026-10-22
 > - **分析对象** [[OECD]] 与跨国政策治理网络 — 系统剖析其推行的国际大型评价与教师教育国际标准背后的隐性[[Governmentality|治理术]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

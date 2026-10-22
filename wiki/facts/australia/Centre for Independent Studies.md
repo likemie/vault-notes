@@ -40,11 +40,7 @@ created: 2026-06-06
 updated: 2026-10-15
 ---
 
-# Centre for Independent Studies
-
 ---
-
-## 背景
 
 > [!event-context] 机构背景
 > - **时间 / 地点** 1976年成立于悉尼，主要活跃于澳大利亚全国政策游说中。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
@@ -54,16 +50,12 @@ updated: 2026-10-15
 
 ---
 
-## 经过
-
 > [!timeline] 机构发展与关键活动
 > - 1976 成立，开始通过出版物、公共论坛和[[Policy Network\|政策网络]]，长期倡导自由市场与保守主义经济及社会政策大纲。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
 > - 2021 出资赞助并出版了教育心理学家 [[John Sweller]] 撰写的 Analysis Paper 24《为什么[[Inquiry-Based Learning\|探究式学习]]有害学生学习》，作为攻击[[Progressive Education\|进步主义教育]]大纲的游说手册。
 > - 2023 其资助出版的研究报告（Sweller, 2021）通过人事交叉通道（巴金汉的双重身份）被直接吸纳并强制嵌入联邦《强劲开端》报告附录D中，上升为法定[[Initial Teacher Training\|初始教师教育]]（ITE）认证核心课程的指定参考文献。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] 智库理念生产机制批判
 > “与美国智库不同，CIS 不仅推广他人提出的思想，还主动生产伪装成研究的出版物。”([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
@@ -72,15 +64,11 @@ updated: 2026-10-15
 
 ---
 
-## 影响与后果
-
 > [!finding-cards] 影响与政策成效
 > - **大纲指定文献的意识形态嵌入** 通过将 Sweller (2021) 确立为必读大纲参考文献，成功使保守智库资助的政策宣传册上升为全国大学生的法定强制消费品。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 9–10]])
 > - **“[[Policy Network\|理念编排]]”通道的打通** 通过将董事会成员 Buckingham 送入 [[Australian Institute for Teaching and School Leadership\|AITSL]] 作为董事，打通了从智库研发、政策游说、专家组撰写到国家合规审计的公私利益闭环。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
 ---
-
-## 争议与评论
 
 > [!actor-grid] 评论视角图
 > - **智库自我包装视角** 将自身定位为捍卫教育科学真理、反对教育学界“低效进步主义教学法”的科学推动者，致力于在学校和教师培训中确立“基于认知科学的高效教学”。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
@@ -92,8 +80,6 @@ updated: 2026-10-15
 > - **财务不透明与科学谎言** 作为一个不公开资金来源的利益游说集团，其出版的研究被政策呈现为普遍的“科学共识”而非意识形态倡议，涉嫌将私人理念强加为全国公共教师的准入门槛。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9, p. 11]])
 
 ---
-
-## 相关概念／政策
 
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |

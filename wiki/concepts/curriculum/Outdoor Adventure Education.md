@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Outdoor Adventure Education
-
 > [!metax] [户外／探险项目 · Outdoor / adventure programs](https://www.visiblelearningmetax.com/influences/view/outdoor~adventure_programs)
 > 课程 › 其他课程项目
 >

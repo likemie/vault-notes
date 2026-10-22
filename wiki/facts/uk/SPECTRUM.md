@@ -68,11 +68,7 @@ created: 2026-09-15
 updated: 2026-10-21
 ---
 
-# SPECTRUM
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托曼彻斯特大学研究团队开展的大规模系统文献审查与测量工具库建构工程，旨在系统梳理、评定并准入儿童与青少年非认知、心理韧性及社会情感技能的标准化测量工具，为高规范教育试验提供可信的测量学基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
@@ -85,8 +81,6 @@ updated: 2026-10-21
 > - **核心问题导向** 伴随 EEF 资助领域向学前教育与非认知领域（如[[Self-control\|自我控制]]、抗逆力）扩展，市场上非认知量表良莠不齐、心理测量学属性薄弱，严重威胁试验主要结局的[[Causality\|因果推断]]效度。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 通过建立严格的心理测量学筛选漏斗与循证准入目录，能够有效终结评估团队随意选取劣质非认知量表的混乱局面，大幅降低教育试验因测量工具失效导致的试错成本。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
@@ -108,8 +102,6 @@ updated: 2026-10-21
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2014 — 战略拓展与立项委托** [[Education Endowment Foundation\|EEF]] 正式将资助边界从单一学科认知考试拓展至非认知与学前领域，委托曼彻斯特大学迈克尔·威格斯沃思团队启动系统[[Literature Review\|文献综述]]。
 > - **2015–2016 — 心理测量学属性系统审查** 研发团队针对国际公开发表的数百种儿童非认知测评工具开展深度循证审查，逐项检验测量模型、常模代表性、[[Cross-cultural Validity\|跨文化效度]]与校园施测负担。
@@ -117,8 +109,6 @@ updated: 2026-10-21
 > - **2018–至今 — 制度化审查与协同演进** 成果直接融入 EEF 试验评估协议审查流程，成为评估团队设计干预结局指标时的指定参考[[Paradigm\|范式]]。
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 顶层规划资助标准，提出非认知测评的制度化需求并保障科研经费。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
@@ -128,8 +118,6 @@ updated: 2026-10-21
 
 ---
 
-## 成效评估与实证发现
-
 > [!finding-cards] 核心实证结论与制度价值
 > - **确立非认知测评的心理测量学准入红线** 终结了教育干预中随意采纳未经充分验证的自编[[Questionnaire\|问卷]]或商业量表的乱象，明确了只有具备坚实[[Construct Validity\|结构效度]]与[[Predictive Validity\|预测效度]]的工具方可作为 [[Randomised Controlled Trials\|RCT]] 主要结局指标。
 > - **前置防范数百万英镑的试错损失** 避免了因测量工具信效度缺陷（如严重的天花板/[[Floor and Ceiling Effects\|地板效应]]、对干预不敏感）而导致昂贵的大规模现场试验结果失效，节约了巨额公共财政资金。
@@ -137,9 +125,7 @@ updated: 2026-10-21
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **方法路径** 极大提升了非[[Cognition Education|认知教育]]干预试验的测量严谨性，将[[Construct Validity\|构念效度]]与测量[[Reliability\|信度]]审查制度化嵌入教育实证研究的设计阶段。
 > - **政策与机构治理** 推动 [[Education Endowment Foundation\|EEF]] 形成“认知学业测验”与“非认知心理量表”双轮驱动的标准化测量治理体系。
 > - **国际推广** 为美国 [[Institute of Education Sciences\|IES]]、澳大利亚 [[Evidence for Learning\|E4L]] 等国际证据机构在制定[[Social-Emotional Learning\|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性文献与分级指标。
@@ -148,8 +134,6 @@ updated: 2026-10-21
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结 EEF 前八年实践经验，将 SPECTRUM 工具库的建立作为证据资助机构前置防范测量效度危机、节约数百万英镑成本的标志性成果。
 
 ---
-
-## 争议与局限
 
 > [!critique] 外部批评与方法挑战
 > - **非认知[[Construct\|构念]]的情境敏感性与跨情境变异** 批评者指出，心理韧性与[[Self-control\|自我控制]]等构念受学校环境、家庭支持与社会阶层影响极大，标准化量表在常态课堂环境中的[[Ecological Validity\|生态效度]]依然面临挑战。

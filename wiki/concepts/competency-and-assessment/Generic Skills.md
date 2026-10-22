@@ -60,11 +60,7 @@ created: 2026-10-19
 updated: 2026-10-22
 ---
 
-# Generic Skills
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 通用技能（Generic Skills）是指超越单一具体学科课程内容与专业知识体系、具有高度情境可迁移性的综合性高阶认知素养与实践行为能力复合体。其核心通常聚焦于[[Critical Thinking|批判性思维]]、分析性推理、复杂现实[[Problem Solving|问题解决]]、论证决策以及有效沟通。在当代全球高等教育治理与评价改革中，通用技能被广泛用作衡量大学毕业生[[Human Capital Theory|人力资本]]存量、机构教学质量增益以及跨国可比学习成果的核心度量[[Construct|构念]]。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 21–26)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 > - **不等于[[21st Century Skills and Competencies Discourse|21世纪技能]][[Discourse|话语]]的宏大修辞** 21 世纪技能往往作为涵盖公民素养、数字技能等多维度的宏观政策宣示；通用技能则在教育测量学层面被严格[[Operationalization|操作化]]为具体的认知测评任务与评分量规。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 通用技能与相关能力[[Construct|构念]]的区别
 > | 能力构念 | 知识依存与情境性 | 核心测量载体 | 评价功能与制度导向 |
@@ -132,8 +126,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +145,6 @@ updated: 2026-10-22
 >   - 大规模低利害的脱离学科通用统考逐渐衰退，学界与政策界转向探索将[[Critical Thinking|批判性思维]]与[[Problem Solving|问题解决]]等通用技能有机嵌入具体专业课程教学与[[Formative Assessment|形成性评价]]（如 AAC&U 的 VALUE 量规与欧洲 [[CALOHEE Project|CALOHEE]] 项目）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

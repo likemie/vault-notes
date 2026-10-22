@@ -125,7 +125,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Runco_2026_CRJ
 
 ---
 
@@ -144,8 +143,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -156,8 +153,6 @@ issuing_organization: ""
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将多源异质的一阶[[Meta-analysis\|元分析]]纳入统一的输入、过程与输出概念框架。预测源与效标[[Variable\|变量]]的先验划分使得二阶分析能够检验创造力在不同测量位置上的结构性差异；二阶抽样误差理论则为跨越数十年不同测量[[Paradigm\|范式]]提供了统计可比性与聚合精度。（pp. 2–4）
-
-### 核心变量与调节因素操作化定义
 
 > [!index-table] 核心变量与调节因素[[Operationalization\|操作化]]定义与测量工具
 > | 变量与调节因素 | [[Construct\|理论构念]]与操作化定义 | 典型测量工具与代表案例 |
@@ -180,8 +175,6 @@ issuing_organization: ""
 
 ---
 
-## 研究方法
-
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
@@ -199,8 +192,6 @@ issuing_organization: ""
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -215,9 +206,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一 创造力二阶元分析的设计架构与方法学质量控制
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一 创造力二阶元分析的设计架构与方法学质量控制
 > [[Meta-meta-analysis\|二阶元分析]]在大样本水平上整合多重一阶[[Meta-analysis\|元分析]]，采用[[AMSTAR\|系统评价质量评估工具]]与多水平[[Robust Variance Estimation\|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity\|可推广性]]的[[Creativity\|创造力]][[Effect Size\|效应量]]基准。（pp. 2–5）
 
 > [!proc] 创造力二阶元分析研究程序
@@ -298,9 +287,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二 预测变量与效标变量的效应不对称性：[[Second-Order Meta-Regression|二阶元回归]]检验
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二 预测变量与效标变量的效应不对称性：[[Second-Order Meta-Regression|二阶元回归]]检验
 > 创造力作为[[Independent Variable\|预测变量]]时展现出中等偏大的稳定关联效应（$r = 0.29$），作为效标[[Dependent Variable\|结果变量]]时的关联效应较弱（$r = 0.12$）；[[Variable\|变量]]角色的不对称性构成了全领域唯一统计显著的异质性调节来源（$F(1, 16.3) = 9.43, p = .007$）。（pp. 2, 6–8）
 
 > [!stat-cards]- 一阶效应量强度分布基准（Kraft, 2020 百分位数标准）
@@ -366,9 +353,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三 测量类型与多维相关因素的调节机制：教育干预的显著效能
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三 测量类型与多维相关因素的调节机制：教育干预的显著效能
 > 在测量类型上，涵盖多维认知加工的综合创造过程（$r = 0.27$）展现出高于单一[[Divergent Thinking\|发散思维]]测验（$r = 0.14$）的关联；在相关因素中，教育项目与[[Creativity Training\|创造力训练]]干预（$r = 0.20$）与创造力关联最强，证实了创造力在教育情境中的高度可干预性。（pp. 6–8）
 
 > [!contrast-table] 综合创造过程测量 vs 单一发散思维测验
@@ -434,8 +419,6 @@ issuing_organization: ""
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **[[Independent Variable\|预测变量]]与[[Dependent Variable\|结果变量]]的不对称性** [[Creativity\|创造力]]作为自[[Variable\|变量]]预测外部结果时的二阶[[Effect Size\|效应量]]（$r = 0.29$）显著强于外部因素对创造力结果的预测（$r = 0.12, p = .007$），确立了创造力的强劲预测效能。（p. 2）
 > 2. **教育与教学干预具备最大关联** 在所有相关因素中，教育项目与专门认知训练干预与创造力的关联效应最高（$r = 0.20$），显著超越认知（$r = 0.12$）与外认知（$r = 0.14$）因素。（p. 6）
@@ -450,8 +433,6 @@ issuing_organization: ""
 > - **r = 0.20** 教育教学干预与创造力的二阶关联效应量。（p. 8）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Creativity\|创造力]]实证研究的双重核心问题
 > 超过 70 项[[Meta-analysis\|元分析]]曾以某种方式考察了创造力的影响，因此这里报告的[[Meta-meta-analysis\|二阶元分析]]为创造力是否重要这一问题提供了实证回答；另一部分纳入的数据在某种程度上考察了影响创造力的因素，在此创造力是结果或[[Dependent Variable\|因变量]]，因而能够为对创造力能做些什么提供实证回答。（pp. 3–4）

@@ -50,11 +50,7 @@ created: 2026-10-10
 updated: 2026-10-16
 ---
 
-# Natcast
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > **国家半导体技术推进中心（National Center for the Advancement of Semiconductor Technology, Natcast）** 是经美国商务部依据《[[CHIPS and Science Act|芯片与科学法案]]》选定并创建的独立中立非营利 501(c)(3) 机构，作为[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的法定专属运营商，承担统筹全国微电子前竞争共性研发、建设共享中试产线与维系多方[[Public-Private Partnership|公私伙伴关系]]的受托运营职责。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–25)]]
@@ -67,16 +63,12 @@ updated: 2026-10-16
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] Natcast 创设与业务演变历程
 > - **2022 — 政策蓝图与运营商模式论证** 《[[CHIPS and Science Act|芯片与科学法案]]》通过后，商务部与[[Industrial Advisory Committee|工业咨询委员会]]（IAC）综合评估 [[Sematech]]、比利时微电子研究中心（IMEC）与 [[Federally Funded Research and Development Centers|FFRDC]] 模式，决定设立新型专用非营利运营商。
 > - **2023 — 机构正式组建与法定委任** 商务部发布《[[National Semiconductor Technology Center|国家半导体技术中心]]战略愿景报告》，正式宣布设立 Natcast 作为 [[National Science and Technology Council|NSTC]] 运营实体，组建涵盖半导体工业高管、顶尖学者与国家实验室领袖的独立董事会与遴选委员会。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–23, 25)]]
 > - **2024–至今 — 中试网络落地与生态拓展** 全面启动首批跨区域共享中试技术中心布局规划，上线云端设计使能网关（DEG），并联合产业协会推行全美半导体微证书与技能标准体系。
 
 ---
-
-## 治理架构与三权制衡
 
 > [!actor-grid] Natcast 治理与制衡架构
 > - **出资与宏观监管（商务部 CHIPS 办公室）** 行使出资人监督权，把控国家战略导向、合规审计与国家安全护栏（防范外国关注实体 FEOC 技术渗透）。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–22)]]
@@ -86,8 +78,6 @@ updated: 2026-10-16
 
 ---
 
-## 核心业务与中试平台矩阵
-
 > [!feature] Natcast 核心运营业务与赋能中枢
 > - **跨区域实体中试技术中心网络** 统一建设和调度 300 毫米晶圆先进基线工艺试验线、极紫外光刻（EUV）机时及超越摩尔特色器件试验床。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–15)]]
 > - **云端设计使能网关（DEG）** 集中谈判并向会员提供高性价比的商业 EDA 工具、安全 IP 资源库及标准[[Process Design Kit|工艺设计套件]]（PDK）。
@@ -96,8 +86,6 @@ updated: 2026-10-16
 > - **[[National Science and Technology Council|NSTC]] 早期创投基金与孵化服务** 设立早期直投基金，为深科技硬件初创企业提供耐受性资本与市场化辅导。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 20)]]
 
 ---
-
-## 财务自生与长效运营机制
 
 > [!pathways] Natcast 长期财务自生模型与监督评估
 > - **多渠道收入造血组合** 在联邦初始拨款周期结束后，逐步依靠阶梯式会员年费、中试线机时使用费、设计网关服务费、IP 授权特许权使用费、投资基金退出收益及州政府配套维持长期自给自足。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 22–23)]]

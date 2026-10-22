@@ -75,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 干预效果的类型区分
-
 > [!warning] 三种效果量不可混为一谈
 > [[Argument_Higgins_2016_ROE\|Higgins (2016, p.44)]]指出，在[[Meta-analysis\|元分析]]中混合不同类型的效果量是有风险的：
 >

@@ -77,8 +77,6 @@ updated: 2026-10-22
 > - 在观察/[[Correlational Research\|相关性研究]]中，包含 RFP 的比例从 2000 年的 41%、2010 年的 46% 上升到 2020 年的 66%，显示非[[Intervention Research\|干预研究]]中实践建议的增长趋势仍在继续([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.6-7]])。
 > - 作者在限制性讨论中指出，有些论文在讨论部分给出明确 RFP，却在局限性部分承认方法不能支持因果结论、未来需要[[Experimental Research\|实验研究]]；这种错配显示出版过程可能鼓励作者在证据边界之外提供实践建议([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.9]])。
 
-## 争议与批评
-
 > [!warning] [[Non-intervention Research\|非干预研究]]能否提出实践建议
 > 争议核心在于：教育心理学研究既有改善实践的公共使命，又必须避免把非因果证据包装成因果行动建议。
 > - **谨慎或限制立场**Robinson et al. (2013) 曾主张，即使是经验研究，单项研究也不应轻易给出 RFP；[[Systematic Review\|系统综述]]和多项实验的累积证据更适合支撑实践建议([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.4]])。

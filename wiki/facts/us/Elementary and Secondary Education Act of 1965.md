@@ -57,11 +57,7 @@ created: 2026-09-17
 updated: 2026-10-16
 ---
 
-# Elementary and Secondary Education Act of 1965
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1965 年 4 月 11 日由林登·约翰逊（Lyndon B. Johnson）总统签署生效（公法编号：P.L. 89-10），由美国第 89 届国会通过。
@@ -70,8 +66,6 @@ updated: 2026-10-16
 > - **制度位置** 属于美国联邦基础教育体系的基石母法，与主管全美高等教育的《[[Higher Education Act of 1965\|高等教育法]]（Higher Education Act of 1965, HEA）》并立为 1965 年联邦教育法制改革的双子星。法案开创了联邦大规模介入 K-12 基础教育治理的历史纪元，是后续历次重大教育改革（如 [[No Child Left Behind Act 2001\|NCLB]] 与 [[Every Student Succeeds Act\|ESSA]]）的法律母体。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法案通过确立以第一条款为核心的联邦补偿性财政拨款杠杆，开创了联邦政府以专项经费捆绑教育高标准、证据要求与问责规约的治理模式，奠定了美国现代基础教育公平与实证政策介入的制度根基。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
@@ -93,8 +87,6 @@ updated: 2026-10-16
 
 ---
 
-## 时间线
-
 > [!dev-timeline] 母法演进与历次重大重新授权
 > - **1965** 约翰逊总统签署初等与中等教育法（ESEA, P.L. 89-10），确立第一条款等五大分编，奠定联邦补偿性财政支持框架。
 > - **1968–1994** 经历多次定期重新授权（Reauthorization），陆续扩充第七条款（双语教育）及第九条款；1994 年克林顿政府签署《改善美国学校法案》（IASA），首次将基于标准的改革理念引入 ESEA。
@@ -103,8 +95,6 @@ updated: 2026-10-16
 > - **2019** 特朗普总统签署《[[Foundations for Evidence-Based Policymaking Act of 2018\|2018年循证决策基础法案]]》，为跨部门安全调用和分析 ESEA 第一条款等国家级纵向教育行政微观数据确立全政府治理规范。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 联邦—州—学区三级实施体系
 > - **联邦规制与拨款层** 美国联邦教育部（U.S. Department of Education, ED）下设初等与中等教育办公室（OESE）与国家[[Institute of Education Sciences\|教育科学研究院]]（IES），负责编制拨款公式、审查州级实施方案、监管合规性并推动教育实证评估。
@@ -118,8 +108,6 @@ updated: 2026-10-16
 > - **分级证据与情境激励阶段（2015 至今）** [[Every Student Succeeds Act\|ESSA]] 转向发展型政策进路，设立四级证据阶梯，允许地方学区在严谨实验证据、准实验证据、相关证据与理论[[Logic Model\|逻辑模型]]之间根据本地需求灵活抉择。
 
 ---
-
-## 评价与影响
 
 > [!summary] 历史地位与政策启示
 > 1. **重塑美国联邦[[Educational Decentralization|教育分权]]格局** ESEA 成功打破了宪法第十修正案下联邦对地方教育“无从插手”的法权僵局，开创了通过财政杠杆引导国家教育方针的根本[[Paradigm\|范式]]，是联邦干预公立教育最核心的制度机制。

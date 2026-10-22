@@ -89,11 +89,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Random-Effects Model
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 随机效应模型（Random-Effects Model）是[[Meta-analysis|元分析]]中应对初级研究间实质性[[Heterogeneity|异质性]]的标准统计建模[[Paradigm|范式]]。与[[Fixed-Effect Model|固定效应模型]]假定单一恒定真值不同，随机效应模型假定各纳入研究的真实[[Effect Size|效应量]]本身并不相同，而是服从一个具有均值 $\mu$ 与方差 $\tau^2$ 的广义真实效应正态分布。模型将观测变异显式分解为两个独立层次：**“研究内抽样方差”（Within-study variance, $v_i$）** 与 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）**。通过将 $\tau^2$ 纳入[[Inverse-Variance Weighting|逆方差加权]]分母（$w_i^* = \frac{1}{v_i + \tau^2}$），模型实现了权重再平衡，并将统计推论拓展至包含未来研究的广义“超总体”（Super-population）。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
@@ -116,8 +112,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 承认人类社会与教育干预生态的复杂性与情境依赖性，将知识视作具有概率分布特征的广义因果空间，坚决摒弃“单一绝对真值”的机械教条。
 > - **研究者角色** 要求研究者不仅报告平均[[Effect Size|效应量]]，更必须全面呈现变异分布（[[Gene Glass]] 准则）；在解释政策效果时必须结合 95% [[Prediction Interval|预测区间]]评估干预失败或负效应风险。
@@ -136,8 +130,6 @@ updated: 2026-10-22
 > | **统计推断外推** | 面向未知的广义超总体（Super-population），具[[Internal and External Generalizability\|外部推广性]] | 严格局限于纳入的特定研究集合，不得向外盲目外推 |
 
 ---
-
-## 核心模型结构与数学公式
 
 > [!formula-set]- 随机效应两层变异分解与参数估计流程
 > ```mermaid
@@ -217,8 +209,6 @@ updated: 2026-10-22
 
 ---
 
-## 统计建模与质控规范
-
 > [!proc] 随机效应模型五步标准操作规程
 > 1. **[[Effect Size|效应量]]提取与[[Construct|构念]]核查** 提取各独立样本标准化效应量（优先选用 Hedges' $g$）并计算其抽样方差 $v_i$；严格审查对照组属性（活跃对照 vs 常规对照），确保干预定义具备可比性。
 > 2. **前置[[Heterogeneity|异质性]]量化检验** 计算 Cochran's $Q$ 统计量与 $I^2$ 指数；只要存在潜在真实变异或 $I^2 > 25\%$，默认采用随机效应模型。
@@ -227,8 +217,6 @@ updated: 2026-10-22
 > 5. **[[Publication Bias|发表偏倚]]诊断与敏感性检验** 绘制[[Funnel Plot|漏斗图]]，配合 Egger 线性回归与 Begg [[Begg and Mazumdar Rank Correlation|秩相关检验]][[Small Study Effects|小研究效应]]；运用[[Trim and Fill Method|剪补法]]（Trim and Fill）检验在填补潜在未发表研究后合并效应量与置信区间的稳定性。
 
 ---
-
-## 软件实现示例（R · metafor）
 
 > [!software-impl] R 语言随机效应模型完整工作流
 > ```R
@@ -275,8 +263,6 @@ updated: 2026-10-22
 > | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 方法辩护 | 回应 Snook et al. 批评，辩护元分析模型属性与质量控制的局部标注策略。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述随机效应模型的超总体推论哲学，指出其通过纳入[[Between-Study Variance|研究间方差]]真实反映了证据[[Heterogeneity|异质性]]。

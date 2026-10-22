@@ -37,8 +37,6 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Whole Sustainability
-
 > [!info] 定义
 > Whole Sustainability（整体可持续性）是 [[Dell Delambre]] 在 [[Creative Tension of Sense]] 理论中提出的可持续性概念，其核心主张是：**真正具有可持续性的项目必须纳入局部社区代表 [[Life Power\|生命力量]] 的一切要素——包括记忆、口述传统、艺术、精神性、人际关系和日常实践——以及其面临的内外部威胁([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109 脚注]])**。
 

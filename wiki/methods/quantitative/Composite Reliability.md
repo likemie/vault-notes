@@ -45,11 +45,7 @@ created: 2026-08-28
 updated: 2026-10-22
 ---
 
-# Composite Reliability
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **组合[[Reliability\|信度]]（Composite Reliability, CR）（在结构方程模型中亦称[[Construct\|构念]]信度）** 是由 Werts, Linn & Jöreskog（1974）以及 Raykov（1997）系统发展的现代心理测量学指标。它基于[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）中各题项的标准化因子载荷与误差方差，精确计算由一组观测指标线性组合而成的潜[[Variable\|变量]]的[[Internal Consistency\|内部一致性]]信度。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–7)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > *Composite reliability reflects the shared variance among the observed indicators of a latent construct. Unlike [[Cronbach's Alpha]], it does not assume tau-equivalence, providing a more precise and unbiased estimate of internal consistency.*
 
 ---
-
-## 方法定位与理论优势
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 承认不同测量题项对潜在[[Construct\|构念]]的贡献权重是**异质且不均等**的，高载荷题项对[[Reliability\|信度]]的贡献显著大于低载荷题项。
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > | **误差协方差处理** | 假定所有题项误差严格互不相关。 | 在扩展形式中可显式纳入误差协方差项进行精确计算。 |
 
 ---
-
-## 数学原理与计算公式
 
 > [!formula-step] 公式步骤　组合[[Reliability\|信度]]（CR）标准计算公式
 > $$\text{CR} = \frac{\left(\sum_{i=1}^{k} \lambda_i\right)^2}{\left(\sum_{i=1}^{k} \lambda_i\right)^2 + \sum_{i=1}^{k} \theta_i}$$
@@ -109,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 软件实现与代码规程
-
 > [!software-impl] R 语言计算组合[[Reliability\|信度]]（CR）代码
 > ```R
 > library(lavaan)
@@ -128,8 +118,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示量表四个维度的组合[[Reliability\|信度]]为 .75–.90，均超过 .70，[[Internal Consistency\|内部一致性]]良好。

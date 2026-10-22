@@ -63,11 +63,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# Building Evidence in Education
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 构建教育证据工作组（Building Evidence in Education Working Group，简称 BE2）是由主要双边援助署、[[Multilateral Development Bank|多边发展银行]]及联合国机构组成的高级别捐助国协同组织，旨在通过统一实证证据评估规程、协调科研资助标准与推行严格评估技术，主导[[International Education\|国际教育]]发展领域的循证政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
@@ -80,16 +76,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2012–2014 — 联盟创设与标准统一** [[World Bank\|世界银行]]联手英美双边发展机构正式组建 BE2，发布首版评估方法论指导框架，力推[[Randomised Controlled Trials\|随机对照试验]]（RCTs）作为教育干预有效性的核心基准。
 > - **2015–2020 — 扩容与指南体系建设** 吸收澳大利亚外交贸易部（DFAT）、[[UNICEF\|联合国儿童基金会]]（UNICEF）、[[UNESCO\|联合国教科文组织]]（UNESCO）等机构以观察员或轮值成员身份加入；联合国际影响评估倡议（3ie）等机构发布教育干预[[Cost-Benefit Analysis|成本效益分析]]标准指南。
 > - **2021–至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的同盟强化** 在全球证据供给过量与多边竞争加剧的背景下，BE2 进一步强化排他性协作网络，通过共同资助与证据准入白名单机制，巩固捐助方在[[International Education\|国际教育]][[Policy Brokerage\|政策中介]]中的[[Discourse|话语]]霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **三驾马车核心领导层** [[World Bank\|世界银行]]集团（World Bank Group）、英国外交联邦及发展事务部（FCDO）与美国国际开发署（USAID）— 长期掌控工作组核心议程设置权与资金导向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
@@ -103,8 +95,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **方法论评估规程** 发布《教育研究证据评估指南》（*Guidance Note on Assessing the Strength of Evidence in Education*），确立[[Causality\|因果推断]]实证研究的质量评级金字塔。
 > - **成本效益核算工具** 联合开发标准化的教育干预“每单位产出成本测算模板”，将识字率、算术达标率等量化产出折算为美元效益比。
@@ -114,8 +104,6 @@ updated: 2026-10-22
 > 发展中国家面临着严峻的财政约束，每一笔教育投入都必须建立在无可置疑的严格因果证据之上。工作组的使命是确立明确的标准，剔除缺乏严谨因果推断的研究，确保捐助方与受援国政府共同依靠经过实证检验的最佳方案来提高学习成果。(BE2, 2014)
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **资金调配杠杆** BE2 成员机构掌控着全球超过 60% 的官方双边与多边基础教育发展援助资金，其标准直接决定了巨额资金的投放去向。
@@ -127,8 +115,6 @@ updated: 2026-10-22
 > - **重构跨国[[Policy Brokerage\|政策中介]]** 改变了以往各机构各自为战的局面，形成高度协同的跨国捐助方联合战线，以硬事实筑起统一的政策干预战壕。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

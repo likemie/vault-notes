@@ -21,11 +21,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 一两句话概括项目的立项背景、发起与资助主体（教育部/国家科学基金/跨国组织/慈善基金会）、核心战略目标及覆盖规模。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -37,8 +33,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **核心问题导向** 项目回应的教育质量、公平危机、学业差距、高教创新瓶颈或国家战略需求。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 用一两句话陈述项目的核心干预假说：通过什么手段（小班化/素养测评/卓越拨款/人才特区）达成何种预期成效。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -56,8 +50,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 推进历程与阶段演进
-
 %% 节点少时用 [!timeline]；阶段性演变复杂时用 [!dev-timeline]- 分阶段呈现。 %%
 
 > [!dev-timeline] 项目推进历程
@@ -66,8 +58,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **YYYY–至今 — 终期结项与制度化沉淀** 说明终期追踪评估成果、政策转化、数据库公开或常态化制度保留机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 政策制定与资源保障部门的统筹监管职能。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -81,8 +71,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **动态反馈与调整** 在实施出现阻力或偏差时采取的微调、纠偏与保障补救措施。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 财政拨款落实额、师资配置到位率、技术平台支持度。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -98,8 +86,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 参与学校数、受试总人数、核心效应量 $d$、长期收益率或成本效益比数字。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

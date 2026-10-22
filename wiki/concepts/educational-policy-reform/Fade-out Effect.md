@@ -78,11 +78,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Fade-out Effect
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **效应衰退（Fade-out Effect）**，亦称**效应消退**、**干预后持续性衰减**或**规模化电压降（Voltage Drop）**，是指教育、心理与社会干预方案在干预当期或小范围受控状态下虽然展现出显著的即时正向效应（Immediate Post-test Gains），但随着时间推移、外部密集支持撤除，或从理想小规模试验推向全系统常规运行，该正向因果优势逐步萎缩、衰减甚至完全归零的普遍经验现象（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]；[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 28]]）。
@@ -105,8 +101,6 @@ updated: 2026-10-22
 > - 不等于[[Hawthorne Effect\|霍桑效应]]消退 霍桑效应消退仅涉及受试心理新奇感减退；效应衰退涵盖认知遗忘、对照组自发追赶及组织保真度稀释等多重机制。
 
 ---
-
-## 理论机制与微观生成动因
 
 > [!theory-foundation] 理论渊源
 > 效应衰退最早由美国学前干预长期追踪（如 Head Start 与 Perry Preschool 项目）确立，贝利等（Bailey et al., 2017）系统提出了三种微观生成机制；随后，世界卫生组织与 ExpandNet 规模化理论（WHO & ExpandNet, 2009）、英国 [[Education Endowment Foundation\|EEF]] 十年大规模试验反思（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）以及[[Robert Slavin\|罗伯特·斯拉文]]（Robert Slavin）的累积剂量理论（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）进一步揭示了时间衰退与规模化递送损耗的深层机制。
@@ -159,8 +153,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳与审查规则
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -171,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 效应衰退概念演进脉络
 > - **1960s–1970s — 美国补偿教育早期的认知衰退发现** 针对 Head Start 与学前干预的长期随访发现，儿童获得的智商与阅读提振在进入小学三年级后基本完全归零，学术界首次确立认知效应衰退概念。
 > - **1980s–1990s — 认知衰退与非认知潜伏长效的二重性发现** Perry 幼教追踪（Schweinhart et al., 2005）表明，虽然小学中段存在认知 Fade-out，但在成年后重新显现出犯罪率下降、高中毕业率上升的长远“[[Sleeper Effect\|沉睡效应]]”（Sleeper Effect）。
@@ -182,8 +172,6 @@ updated: 2026-10-22
 > - **2021 — [[Epistemology\|认识论]]干预中的延时效应翻倍与时长衰退解构** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对[[Epistemic Cognition\|认识论认知]]干预展开[[Meta-analysis\|元分析]]，实证发现延时[[Pre-test and Post-test\|后测]][[Effect Size\|效应量]]较即时后测翻倍（$d = 0.966$ vs. $d = 0.451$），揭示高阶认知习惯的内化沉淀机制能够抵御传统消退；同时证实全学期长周期干预由于教学浓度稀释与对照组自然成熟而产生的相对衰减现象。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -201,8 +189,6 @@ updated: 2026-10-22
 
 ---
 
-## 延缓与抵抗衰退的实践策略
-
 > [!contrast-table] 维持干预长效性的四大生态支柱
 > | 维持支柱 | 核心干预策略 | 实践机制 |
 > |---|---|---|
@@ -212,8 +198,6 @@ updated: 2026-10-22
 > | **重塑社会情感与家庭系统** | 改变家长的教养方式、提升学生的学术[[Self-Efficacy\|自我效能感]]与学业抱负。 | 即使特定具体知识点遗忘，内化的心理素养仍能提供长期的学业坚持性。 |
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]延时追踪与干预周期调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

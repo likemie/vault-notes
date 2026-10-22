@@ -52,10 +52,6 @@ created: 2026-06-16
 updated: 2026-10-22
 ---
 
-# Feminist Research
-
-## 定义
-
 > [!def] 方法定义
 > 女性主义研究是一种以[[Critical Theory\|批判理论]]为根基的研究方法论，其核心主张是：传统[[Positivism\|实证主义]]研究服务于既有的权力关系——赋权白人男性主导的研究共同体，而压制其他群体的声音。女性主义研究旨在用赋权（empowerment）、发声（voice）、解放（emancipation）、平等（equality）和代表（representation）的议程取而代之。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 205–224)]]
 
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 所谓客观、[[Value Neutrality\|价值中立]]的研究只是维护现有压迫现状的烟幕。研究者的个人经验是研究过程不可分割的组成部分，客观性声称是虚假的（Ezzy, 2002, p. 153）。
 > - **研究者角色** 研究者与参与者建立平等、互惠的关系——"与她们在一起并支持她们，而非观察她们"（De Laine, 2000, p. 16）。打破传统的研究者/参与者等级。
@@ -88,10 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
-### Usher 的七项原则
-
 > [!principle] Usher（1996）的女性主义研究原则
 > 1. 承认性别作为分析类别和组织类别的普遍影响。
 > 2. 解构对真理、客观性和中立性的传统承诺。
@@ -100,8 +90,6 @@ updated: 2026-10-22
 > 5. 女性主义研究的跨学科性质。
 > 6. 研究者和被研究者的共同参与。
 > 7. 解构理论/实践关系。
-
-### 女性主义研究方法论原则
 
 > [!proc] 女性主义研究方法论原则（Denzin, 1989; Mies, 1993; Haig, 1999; De Laine, 2000）
 > - 用量化[[Positivism\|实证主义]]客观研究替换为质性诠释[[Reflexivity\|反思性]][[Ethnography\|民族志研究]]——[[Quantitative Research\|量化研究]]中的客观性是服务于男性利益和议程的烟幕。
@@ -128,8 +116,6 @@ updated: 2026-10-22
 
 ---
 
-## 资料与分析
-
 > [!method-stack] 资料与分析摘要
 > - **资料类型** 个人证词、口述叙事、长访谈、引导式对话、自传体材料、敏感议题的[[In-depth Interview\|深度访谈]]。
 > - **资料质量** 女性主义研究质疑传统"rapport"（融洽关系）的概念——标准化的非互惠访谈关系利用了被访者（Oakley, 1981）。[[Informed Consent\|知情同意]]需在探索性访谈中持续重新协商（Duncombe and Jessop, 2002）。
@@ -139,16 +125,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 性别不平等研究、女性经验研究、教育中的性别差异与歧视分析、女性赋权项目评估。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 205–408)]]
 > - **谨慎使用** 研究者需反思自身与参与者之间的权力和身份差异——白人女性研究非白人女性时，亲近可能带来殖民风险（Gillies and Alldred, 2002, pp. 39–40）。亲密的友谊式研究关系可能同样具有剥削性（Stacey, 1988）。
 > - **不适合使用** 纯统计性的性别差异描述（但女性主义量化研究同样合法——Jayaratne, 1993; Oakley, 1998）。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者与被研究者之间的"拟态团结"（purported solidarity）可能是善意的女性主义者进行的欺诈（Thapar-Björkert and Henry, 2004）。将参与者政治化可能使她们更脆弱而非赋权——意识到约束但无法改变条件的处境可能实际上削弱力量（Gillies and Alldred, 2002, p. 45）。
@@ -157,8 +139,6 @@ updated: 2026-10-22
 > - **补救方式** 多元方法——量化与质性方法在女性主义研究中都有合法地位（Kelly, 1978; Jayaratne, 1993; Oakley, 1998）；持续反思研究者立场和身份差异。
 
 ---
-
-## 相关理论与方法
 
 > [!frames-ref] 相关理论
 > - [[Critical Theory]] — 女性主义研究是批判理论在性别维度上的延伸和深化。
@@ -171,8 +151,6 @@ updated: 2026-10-22
 > | [[Action Research\|行动研究]] | [[Praxis\|实践]]工具 | 女性主义行动研究（如 [[Girls Into Science and Technology Project\|GIST]] 项目）将性别意识融入行动和研究的整合中。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, pp. 205–408)]] — 第2.5节系统介绍了女性主义研究的理论原则、方法论原则、教学法应用和 [[Girls Into Science and Technology Project\|GIST]] 项目案例。

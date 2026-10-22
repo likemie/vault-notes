@@ -52,11 +52,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Educational Robotics
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 教育机器人（Educational Robotics / AI Educational Robotics）是指应用于教育教学情境中、具备物理实体具身（Physical Embodiment）或高度外显拟人化虚拟[[Avatar\|化身]]（Virtual Avatar）的人工智能交互系统。该系统整合了机器视觉、语音识别、自然语言处理与多模态感知技术，能够以同伴学习者（Peer Learner）、教学助手（[[Teaching Assistant]]）或陪伴导师（Companion Tutor）的社会性角色，与学生展开面对面的口语对话、手势示范与触觉协同操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3, 6)]]
@@ -87,16 +83,12 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素与功能架构
-
 > [!feature] 教育机器人三大交互支柱
 > 1. **具身动作示范（Physical Embodied Gestures）** 通过机械臂、头部转动与拟人化视线追踪（Gaze [[Tracking]]），引导儿童视觉注意力并示范书写、抓取或发音口型。
 > 2. **多模态情感激励（Multimodal Affective [[Scaffolding]]）** 识别儿童语音语调与面部表情变化，提供即时语音表扬、动作舞蹈激励与微表情反馈，缓解解题焦虑。
 > 3. **[[Gamification\|游戏化]]人机对战与协同探究（Gamified Human-Robot Collaboration）** 基于规则引擎开展算术卡牌对决、拼字闯关与迷宫导航，在游戏化机制（Gamification）中促进技能自动化。
 
 ---
-
-## 理论演进与发展脉络
 
 > [!timeline] 教育机器人的演进脉络
 > - **1980年代 结构主义与 LOGO 龟图机器人** 西摩·尔派特（Seymour Papert）开创[[Constructivist Paradigm\|建构主义]]机器人教育，通过物理海龟小车引导儿童学习编程与空间几何。
@@ -105,8 +97,6 @@ updated: 2026-10-22
 > - **2020年代 具身大模型与多模态生成式机器人** 结合端侧大模型与视觉语言动作（Vision-Language-Action, VLA）架构，教育机器人实现开放式多轮对话与自主情境感知。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

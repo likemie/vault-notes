@@ -37,16 +37,12 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# UK Knowledge Exchange Framework
-
 > [!info] 背景
 > 英国政府在 2010 年代中后期日益强调大学[[Knowledge Exchange\|知识交流]]对经济和社会的贡献。与此同时，虽然英国已拥有高等教育商业与社区互动调查（HEBCI）等系统层面的大学-产业互动数据集，但这些数据通常难以深入大学层面以下，且对特定伙伴关系选择和绩效评估的指导有限（[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp.25–26)]]）。
 
 在这一背景下，英国政府要求其大学资助机构 Research England 开发知识交流框架（Knowledge Exchange Framework, KEF）。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > KEF 的度量组件旨在提供两个层面的价值（pp.26–27）：
 > - 为高校（HEIs）提供一个关于其[[Knowledge Exchange\|知识交流]]活动（KE activities）的有用信息和数据来源，用于理解、基准化和改进自身绩效
 > - 为高校知识的用户和潜在用户提供另一个信息来源，可能增加潜在大学伙伴的可见度和优势，从而贡献于内部决策过程

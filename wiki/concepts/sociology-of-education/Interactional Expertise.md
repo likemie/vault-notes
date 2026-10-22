@@ -46,11 +46,7 @@ created: 2026-09-18
 updated: 2026-10-21
 ---
 
-# Interactional Expertise
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 交互型专长（Interactional Expertise）是科学知识社会学与专长社会学中的核心概念，最初由柯林斯（Harry Collins）与埃文斯（Robert Evans）在专长周期表理论中提出，后经埃亚尔（Gil Eyal）拓展至公共领域专长研究。该概念指行动者虽不具备在实践现场直接操作、解决偶发性情境问题的默会[[Contributory Expertise\|贡献型专长]]，但能够[[Refined Mastery\|精通]]该专业领域的语言、概念工具与论辩规则，从而足以与专业人员进行深入交流、转译研究发现、评估证据[[Reliability\|可靠性]]并向外部公众和政策制定者推广通用行动原则。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
@@ -71,8 +67,6 @@ updated: 2026-10-21
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 专长类型辨析
 > | 维度 | 本概念（[[Interactional Expertise]]） | [[Contributory Expertise\|贡献型专长（Contributory Expertise）]] |
 > |------|--------|----------------|
@@ -83,9 +77,7 @@ updated: 2026-10-21
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **专业语言精熟度** 能够无障碍掌握并运用特定学科或政策领域的概念术语、分析[[Paradigm\|范式]]与论证修辞。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
 > - **技术客观性取向** 倾向于将复杂社会现象还原为可独立测量的[[Variable\|变量]]与抽象原则，追求跨越情境的普适性结论。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
 > - **转译与中介功能** 在[[Knowledge Production\|知识生产]]方（学术研究）与知识消费方（政策制定与一线实践）之间搭建沟通桥梁。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 11–12)]]
@@ -129,8 +121,6 @@ updated: 2026-10-21
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 交互型专长核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -138,8 +128,6 @@ updated: 2026-10-21
 > | **治理生态与异化** | 市场化环境导致交互专长商品化与[[Performativity\|表演性]]应用 | [[Evidence-Based Education\|循证教育]]改革、问责制下的学校改进 | Kelly et al. |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -150,8 +138,6 @@ updated: 2026-10-21
 > > - **Biesta（2007）** 批判基于“有效做法”的[[Evidence-Based Education\|循证教育]]将价值判断与目的审议缩减为狭隘的技术手段选择，赋予交互专家过度的[[Discourse|话语]]统治权。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
 
 ---
-
-## 应用案例
 
 > [!example] 教育研究与治理中的应用
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 运用交互型专长与[[Contributory Expertise\|贡献型专长]]框架，对比英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的循证经验，揭示英格兰[[Educational Brokerage Agency\|教育中介机构]]与循证工具包泛滥背后技术客观性与一线实践具身智慧之间的深层断层。

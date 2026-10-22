@@ -56,16 +56,12 @@ created: 2026-05-13
 updated: 2026-10-22
 ---
 
-# Europe 2020 Strategy
-
 > [!info] 背景
 > Europe 2020 Strategy（欧洲 2020 战略）是[[EU|欧盟]] 2010–2020 年的十年战略规划，由欧盟委员会于 2010 年发布。它是 2001 年[[Lisbon Strategy\|里斯本议程]]（Lisbon Agenda）的延续，继承了后者"使欧盟成为世界上最具[[Competitiveness|竞争力]]和活力的[[Knowledge-Based Economy\|知识经济]]体"的远景目标([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.164, 168]])。
 >
 > 该战略的出台背景包括 2008 年全球金融危机后的财政紧缩环境，以及欧盟对自身在全球知识经济中竞争力下降的担忧。自 2001 年里斯本议程以来，欧盟的十年战略规划均以[[Performance Indicators\|绩效指标]]驱动的基准管理（benchmarking）为核心治理机制（p.164, 169）。
 
-## 政策文本摘要
-
-> [!abstract|notitle]
+> [!abstract] 政策文本摘要
 > Europe 2020 的核心框架由一句口号凝练：追求"智能、可持续与包容性增长"（[[Start Making a Reader Today]], sustainable and inclusive growth）。战略跨越五个相互关联的优先领域(European Commission, 2010; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])：
 >
 > - **就业** 提高劳动参与率
@@ -106,9 +102,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 > - **多层协调** 成员国和区域政府被鼓励建立来自政府、企业、非营利和公民社会的多元利益相关方网络。详见 [[Network Governance]] 中欧盟部分
 > - **财政杠杆** 欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong\|ESF]]）为培训和[[Welfare-to-Work|积极劳动力市场政策]]提供资金支持
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]]指出，Europe 2020 通过[[Performance Indicators\|绩效指标]]体系成功将"区域"建构为创新和教育政策的基本治理单元——任何公民都可以在地图上识别自身区域在创新和教育方面的排名位置（p.169–170）
 > - 战略所承载的[[Theory of Change\|变革理论]]——[[Innovation Ecosystem\|创新生态]]体系与教育培训体系协同演化产生互利增效——在[[Discourse|话语]]层面被自然化为[[Doxa\|不言自明]]的前提。但在实践中，这一理论面临显著的执行差距和区域[[Heterogeneity\|异质性]]挑战（p.174–175）
 

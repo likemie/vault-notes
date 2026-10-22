@@ -43,11 +43,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-# Innovation Models Evolution
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 创新模型演变（Innovation Models Evolution）指二十世纪以来人们对"创新到底怎么发生"这一核心问题的理解方式所经历的五次迭代。Tidd（2006）将这些演变概括为五代模型——从认为创新是单向线性过程（科学发现→产品），到认识到它是多行动者在制度环境中的集体学习活动。这一演变的核心意义在于：**对"创新如何发生"的理解方式，直接塑造了政策制定者、企业管理者和大学领导者管理创新的方式([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.27–29]])**。
 
 > 关键洞见是：这五种模型在现实中并非简单的代际替代，而是共存——不同行业、不同技术、不同创新阶段适用不同模型（[[Argument_Caraca_2009_TFSC\|Caraça et al., 2009]]）（p.29）。

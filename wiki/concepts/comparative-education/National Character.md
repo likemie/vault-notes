@@ -58,11 +58,7 @@ created: 2026-09-06
 updated: 2026-10-22
 ---
 
-# National Character
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 国民性格（National Character），又称国民性或民族性格，在经典比较教育学中被界定为**一个民族在思想、情感与行为上普遍持有并代代相传的性格倾向总和（Totality of Dispositions）**。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Vernon Mallinson|弗农·马林森]]（Vernon Mallinson）等学者主张，国家教育制度不仅是外在行政构造，更是国民性格的生动[[Externalization|外化]]与活体表达；在当代科技[[Geopolitics|地缘政治]]与政治哲学中，该[[Construct|构念]]进一步被重塑为超越狭隘血统与族裔身份的开放国家认同。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40–41)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 193–194)]]
@@ -89,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 经典学者对国民性格[[Construct|构念]]的理解辨析
 > | 学者 | 核心提法 | 解释重心 | 制度对应表现 |
 > |---|---|---|---|
@@ -102,8 +96,6 @@ updated: 2026-10-22
 > | **[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]]** | 超越族裔血缘的开放国民认同 | 共同公民叙事、抵抗消费主义与维系高科技共同体 | 维系[[Technological Republic\|技术共和国]]战略生存的大规模协作精神纽带 |
 
 ---
-
-## 核心要素
 
 > [!feature] 国民性格[[Construct|构念]]的四大支柱
 > - **历史积淀性（Historical Sedimentation）** 坚信国民性格并非凭空产生，而是民族在数百年乃至上千年的生存斗争、宗教演化与政治博弈中沉淀而成的集体精神结晶。
@@ -180,8 +172,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -200,8 +190,6 @@ updated: 2026-10-22
 > - **2025 — 科技[[Geopolitics|地缘政治]]与开放国民认同重构** 卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中重塑国民性格构念，主张构建超越狭隘血统的开放国民认同以抵抗消费主义原子化与地缘威胁。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 193–194)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

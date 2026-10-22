@@ -56,13 +56,9 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Situative Perspective
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 学习与认知在特定社会、文化、人际网络与物理情境中的具身参与实践（Participation in Social Practices）。
 > - **理论问题** 克服传统认知心理学（如信息加工理论）与狭隘[[Cognitive Constructivism|个体建构主义]]将“人与环境分离”的脱域（decontextualized）缺陷，纠正将知识视为大脑孤立记忆存储的机械还原论。
 > - **理论类型** 关系[[Ontology|本体论]][[Paradigm|范式]]与社会文化学习科学理论。
@@ -73,15 +69,11 @@ updated: 2026-10-22
 
 ---
 
-## 理论来源与形成
-
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 让·莱夫（Jean Lave）与艾蒂安·温格（Etienne Wenger）在 1991 年经典著作 *Situated Learning: Legitimate Peripheral Participation* 中正式确立情境学习模型，温格随后在 1998 年 *[[Communities of Practice]]* 中予以系统化。
 > - **原初问题** 传统学校教学常出现严重的知行脱节——学生在课堂上能背诵抽象定义，进入真实工作场所却无法解决复杂问题；人类学[[Fieldwork|田野调查]]揭示出学徒在行会中无需抽象讲授即可掌握高超手艺的谜题。
 > - **理论资源与材料** 汲取非洲裁缝学徒、尤卡坦助产士、海军舵手等真实文化[[Apprenticeship|学徒制]]的人类学实地观察，以及[[Lev Vygotsky|维果茨基]]关于社会中介与文化工具的论述。
 > - **形成路径** 从对传统课堂“去脉络化”教学的反思，提炼出“实践共同体（CoP）”、“合法边缘性参与（LPP）”与“身份认同建构（Identity Formation）”等核心概念。
-
-### 后续修订与扩展
 
 > [!dev-timeline] 理论演进与应用拓展
 > - **1990s — 情境认知革命与分布式认知交融** Greeno、Collins 等学习科学家将情境观引入教育设计，推动[[Cognitive Apprenticeship|认知学徒制]]（Cognitive Apprenticeship）与[[Anchored Instruction|锚定教学]]（Anchored Instruction）兴起。
@@ -102,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心命题
-
 > [!theory-proposition] 命题一｜认知不可剥离于其发生的物理与社会文化情境
 > **解释** 个体的思维方式是被其所处的物质中介（如实验仪器、数字仿真）、文化符号（如专业[[Discourse|话语]]）和互动结构（如研讨规则）深刻塑造的。脱离具体任务目标与共同体交往网络的标准化纸笔测量，无法反映主体在真实生态中的能力。学习的核心不是“获取静态知识”，而是“改变参与社会实践的方式”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 >
@@ -115,8 +105,6 @@ updated: 2026-10-22
 > **应用实例** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 发现，单次培训难以沉淀科研生产力，而三期逐级扩圈的工作坊成功开辟了一个合法边缘性参与空间，使原本从事基础物理或计算机算法的学者能够通过小组研讨切入半导体重大专项，参与学者申报国家项目的就绪度从校内 50% 跃升并稳定在 80%。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
 
 ---
-
-## 转化为分析框架
 
 > [!theory-framework] 情境主义[[Analytic Framework|分析框架]]
 >
@@ -135,8 +123,6 @@ updated: 2026-10-22
 > - **不能直接推出** 不能单纯依赖外部言语互动直接推断个体内心真实的认知信念；学生或学者有时可能为了顺应现场社交规则而产生合规言论（推论危机）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

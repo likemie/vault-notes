@@ -79,11 +79,7 @@ created: 2026-10-09
 updated: 2026-10-22
 ---
 
-# Joint University Microelectronics Program 2.0
-
 ---
-
-## 项目定位与宗旨
 
 > [!claim] 核心定位
 > **联合大学微电子 2.0 计划（Joint University Microelectronics Program 2.0, JUMP 2.0）** 是 2023 年 1 月由美国国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）共同发起设立的国家级高强度产学研前竞争协同科研计划。该计划以全美顶尖[[Research Universities|研究型大学]]为主导枢纽节点，联合数十家芯片设计、制造与系统领军企业，构建跨校、跨区域与跨学科的网络化攻坚集群，旨在攻克后摩尔时代微电子系统[[Heterogeneous Integration|异构集成]]、先进三维封装、认知传感、高能效存算与新型逻辑物理等颠覆性底层技术，构筑连接基础科学探索与产业规模转化的前竞争技术阶梯与拔尖工程人才蓄水池。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
@@ -96,8 +92,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与立项背景
-
 > [!dev-timeline] 组织发展与计划演变历程
 > - **1998–2012 — 早期奠基：[[Focus Center Research Program|焦点研究中心计划]]（FCRP）** [[Semiconductor Research Corporation|SRC]] 联合 SIA、[[DARPA]] 与 [[Sematech]] 设立微电子先进研究联盟（MARCO），启动[[Focus Center Research Program|焦点研究中心计划]]（FCRP），开创了“产业出资 + DARPA 对等匹配 + 多大学联合攻关”的 50:50 公私协同[[Paradigm|范式]]。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–253)]]
 > - **2013–2017 — 架构拓展：STARnet 时代** 推进半导体技术高级研究网络（STARnet），由 6 个跨校多学科中心组成，开始将研发重心从单纯 CMOS 晶体管物理微缩拓展至新型计算架构与材料系统。
@@ -105,8 +99,6 @@ updated: 2026-10-22
 > - **2023 年至今 — 全面升级：JUMP 2.0 与国家战略网络协同** 2023 年 1 月正式启动 JUMP 2.0，设立 7 个跨校研究中心；2024 年白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》明确将 JUMP 2.0 确立为国家级公私合作研发联盟（Goal 4.1）的高校核心支柱，与[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）、[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）与 [[Manufacturing USA]] 制造业研究所构成无缝衔接的国家创新矩阵。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 
 ---
-
-## 治理架构与实施机制
 
 > [!actor-grid] 组织协同矩阵
 > - **顶层发起与联合出资方（[[DARPA]] & [[Semiconductor Research Corporation|SRC]]）** DARPA 代表联邦战略与防务技术需求，SRC 代表半导体行业前竞争共性需求，双方共同设立联合指导委员会（Joint Advisory Board），统筹审定战略技术路线图与跨中心资源配置。
@@ -122,8 +114,6 @@ updated: 2026-10-22
 > - **TECHCON 与学术休假双向流动通道** 依托每年 TECHCON 大会实现受资助研究生与企业研发高管的无缝现场直聘；同时落实高校教师企业学术休假与产业导师驻校授课制度，打通体制壁垒。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 44–45)]]
 
 ---
-
-## 实施架构与七大跨校中心矩阵
 
 > [!finding-cards] JUMP 2.0 七大国家级跨校研究中心矩阵
 > - **CHIMES — 微电子系统[[Heterogeneous Integration|异构集成]]中心（宾夕法尼亚州立大学牵头）**
@@ -144,8 +134,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心成效与战略影响
-
 > [!indicators] 关键指标与建设规模
 > - **启动时间与运行周期** 2023 年 1 月正式立项推进，规划执行期 5 年（2023–2028）。
 > - **资助总规模** [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 联合撬动总预算超过 **2.5 亿美元**。
@@ -159,8 +147,6 @@ updated: 2026-10-22
 > - **持续输出国家级高精尖微电子工程人才** 依托高难度科研项目与产业导师共同指导，每年为美国微电子产业输送数百名兼具学术前沿视野与工业流片实操经验的博士与高端工程师。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
-
-## 争议、防务审查与治理反思
 
 > [!debates] 核心协同争议与治理挑战
 >

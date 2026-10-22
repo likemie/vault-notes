@@ -50,11 +50,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# ROOTS
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > **ROOTS（数学根基方案）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）本·克拉克（Ben Clarke）、克里斯蒂安·多布勒（Christian Doabler）、汉克·菲恩（Hank Fien）与斯科特·贝克（Scott K. Baker）等学者联合研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期初等数学小组干预项目；其核心目标是在小学一年级（部分向幼儿园延伸）早期筛查出面临严重数学困难的高危儿童，依托高度显性、系统化的核心数感与整数概念微课程，在 Tier 2 层级阻断早期学业差距的持续扩大。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **核心问题导向** 破解处境不利儿童因学前早期数感匮乏（计数不准、位值混淆、数字大小不敏感）而在进入正式算术学习时迅速掉队的顽疾，降低后续转介特殊教育的高昂成本。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预假说
 > 通过教学助教对 2 至 5 名高危学生组成的小组开展 50 节高度显性化（Explicit Instruction）的数感微课，围绕具象实物操作向抽象数学符号表征过渡，非专业助教能够以极高保真度产生统计学显著且稳健的学业增益，达到专业教师小组辅导的同等效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25, 28)]]
@@ -87,16 +81,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] ROOTS 发展历程
 > - **2012–2015 — 原型研发与第一轮整群[[Randomised Controlled Trials\|随机对照试验]]** 俄勒冈大学团队在俄勒冈州多学区开展首期大规模整群 RCT（Clarke et al., 2014），验证由助教实施 ROOTS 对弱势一年级儿童数学概念掌握的因果净增益。
 > - **2015–2018 — 多中心大规模复现与小组规模对比试验** 在波士顿等更多城市学校开展第二轮大规模独立 RCT 试验（Clarke et al., 2016; Doabler et al., 2016），系统比较 1:2 与 1:5 组规模对[[Implementation Fidelity\|实施保真度]]与[[Effect Size\|效应量]]的影响，确认两类规模均能产生稳健效益。
 > - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 在斯莱文桑代克奖演说中被正式列为初等数学 Tier 2 小组辅导代表性强证据方案，成为全美学区构建多层支持系统（MTSS）时的优先选型。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **资助与研究中心（[[Institute of Education Sciences\|IES]] / 俄勒冈大学 CTL）** 提供全套教学学具盒（十格阵、双色计数片、数字卡片）与助教培训光盘，监控研究设计与统计推断。
@@ -105,8 +95,6 @@ updated: 2026-10-22
 > - **目标受试儿童（一年级数学高危学生）** 接受每日结构化数感补救，为二年级正式多位数加减法奠定稳固基石。
 
 ---
-
-## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
 > - **稳健的标准化数学[[Effect Size\|效应量]]** 在两项覆盖数十所学校的大样本整群[[Randomised Controlled Trials\|随机对照试验]]中，接受 ROOTS 辅导的一年级学生在早期数学能力标准化测试（如 TEMA-3 测试）上取得了平均 $+0.24$ 的因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

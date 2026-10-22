@@ -53,11 +53,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Office of Naval Research
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 海军研究办公室（Office of Naval Research, ONR）是美国海军部于 1946 年创设的专业科研管理与资助机构，作为二战后美国多元化分布式资助机制（distributed pluralistic funding network）的前驱支柱，在国家科学基金会（[[National Science Foundation|NSF]]）五年立法博弈尚未落地的历史真空期，率先将“政府出资—科学自治—长期公共回报”的[[Social Contract of Science|科学社会契约]]原则落地于大学基础科学资助，开创了军种支持民事学术探索并推行项目主管负责制的先河。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
@@ -70,16 +66,12 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1946–1950 — 填补立法真空与多元分布式资助网络奠基** 在 [[National Science Foundation|NSF]] 历经五年政治博弈尚未成立期间，ONR 承担了全美大学近半数的联邦基础科学资助，挽救了一大批战后濒临断炊的物理与化学实验室；与随后组建的原子能委员会（AEC）及扩张后的国立卫生研究院（[[National Institutes of Health|NIH]]）共同构成了战后美国去中心化、多部门并行的分布式资助网络原型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1950–1970 年代 — 冷战黄金期与国防资助[[Paradigm|范式]]扩散** 随着苏联人造卫星危机爆发与科技政策“黄金十年”（1957–1967）到来，ONR 的项目主管自由裁量模式被陆军、空军及高级研究计划局（[[DARPA]]）广泛借鉴；该机构早期资助催生了激光器（查尔斯·汤斯团队）、回旋加速器及战后第一代电子计算机软硬件体系（哈佛 Mark II/III、MIT 旋风计算机、[[Institute for Advanced Study|普林斯顿高等研究院]]计算机等）的系统性突破。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 > - **1980 年代至今 — 聚焦颠覆性基础前沿与深海战略** 持续深耕自主无人系统、量子信息科学、合成生物学及深海极端环境探测，继续保持其作为美军前瞻科学探针的独特敏锐度。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（海军研究总监与科技委员会）** 由海军将领与首席科学家共同组成的领导班子，统筹战略性基础研究资金与海军长期作战需求。
@@ -93,8 +85,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 颠覆性技术策源矩阵
 > - **第一代通用电子计算机体系突破** 1945–1955 年间全额或联合资助研制了哈佛 Mark II（84 万美元）、Mark III（116 万美元）、麻省理工学院 Whirlwind（400–500 万美元）、普林斯顿 [[Institute for Advanced Study|IAS]] 计算机（65 万美元）、ERA 1101/1103 系列及 IBM NORC（250 万美元），直接确立了[[Von Neumann Architecture|存储程序计算机]]架构。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 172–173)]]
 > - **微波激射器与激光技术先驱** 对哥伦比亚大学查尔斯·汤斯（Charles Townes）微波激射器与激光理论提供关键早期资助，直接开辟了光纤通信与现代激光工业。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
@@ -106,8 +96,6 @@ updated: 2026-10-22
 > *Postwar federal support for university computer research was characterized by two crucial features: decentralized, multi-agency funding and a commitment to non-proprietary, open publication of research results. This contrasted sharply with the secrecy that surrounded British and Soviet military computing projects.* [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 173–174)]]
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 体系成效指标
 > - **科学突破密度** 资助学者中累计诞生 60 余位诺贝尔奖得主，开创了激光、核磁共振、现代超级计算与全球海洋学等核心学科领域。
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > - **60+** （位） 获得 ONR 资助的诺贝尔奖得主累计总数。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

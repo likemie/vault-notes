@@ -48,11 +48,7 @@ aliases:
   - 探索与利用双元平衡
 ---
 
-# Organizational Ambidexterity
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **组织双元性（Organizational Ambidexterity / 双元能力）** 是指组织在保障现有资源高效配置、既有优势维持与程序合规（即**利用 / Exploitation**）的同时，保持对外部前沿机遇的敏锐感知、承担高风险试错并开辟全新[[Technological Trajectories|技术轨道]]与商业/治理模式（即**探索 / Exploration**）的双重动态平衡能力。该概念最早由詹姆斯·马奇（James G. March, 1991）在组织学习理论中奠定基础，经查尔斯·奥赖利与迈克尔·图什曼（Charles O’Reilly & Michael Tushman, 2008）深化为企业动态能力的核心支柱，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）跨界引入公共管理与创新政策分析，作为阐释[[Public Dynamic Capabilities|公共部门动态能力]]如何在维持科层行政程序正义的同时培育敏捷探索特区的底层机制。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
@@ -73,8 +69,6 @@ aliases:
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 组织双元性中“利用”与“探索”的特征对比
 >
 > | 维度 | 利用（Exploitation） | 探索（Exploration） |
@@ -86,8 +80,6 @@ aliases:
 > | **在公共部门的表现** | 韦伯式常规行政审批、税收征管与法定服务交付。 | 设立类似 [[DARPA]] 或 [[Government Digital Service\|GDS]] 的敏捷创新特区开展社会实验。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 组织双元性的三大实现机制
 > - **结构性双元（Structural Ambidexterity）** 在组织内部建立物理或制度隔离的双元单元（例如将前沿研发或数字创新部门与传统业务部门独立开来，但由高层战略统摄）。（p. 796）

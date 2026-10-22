@@ -48,11 +48,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Alexander Dallas Bache
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国 19 世纪著名物理学家、大地测量学家与教育家，本杰明·[[Michael Fullan|富兰]]克林（Benjamin Franklin）的曾外孙，吉拉德孤儿学院（Girard College for Orphans）首任校长，美国海岸测绘局第二任局长，[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）创会首任院长。
@@ -78,16 +74,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **1839 — *[[Education in Europe|Report on Education in Europe]], to the Trustees of the Girard College for Orphans*** 系统呈现欧洲 278 所学校的办学章程、作息课程、财政收支与教师待遇，尤以对普鲁士国民初等学校与实科中学的精确测描著称。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 135)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 现代公共教育的发展必须立足于严密的经验观察与跨国科学对照。优秀的教育体制不能单凭空想或单一民族的狭隘摸索，而必须以世界范围内最具成效的制度实践为镜鉴。中央集权并不必然导致专制压迫，普鲁士国民学校在初等义务普及、师资专业化培训与实科技术技能传授方面展现出的严密组织性与科学效率，恰是美利坚共和国在重构地方公共教育与技术学校时最宝贵的技术参照。
 
 ---

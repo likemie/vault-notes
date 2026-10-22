@@ -55,7 +55,6 @@ citation_aliases:
   - "Slethaug, 2010"
   - "Slethaug (2010)"
 ---
-# Argument_Slethaug_2010_InternationalEducation
 
 > [!question]
 > Slethaug 要回答的核心问题是：[[International Education\|国际教育]]是如何在短短几十年间"在无人察觉的情况下"爆炸式增长的？在这一过程中，[[Chinese Learner\|中国学习者]]扮演了什么角色、受到了什么影响？
@@ -171,9 +170,7 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 
 整章的论证最终汇聚为一个判断：**国际教育和中国学习者的复杂性，需要大量进一步研究**——这正是全书九章的出发点。
 
-## 主要发现
-
-> [!success|notitle]
+> [!success] 主要发现
 > **[[International Schools\|国际学校]]的规模与转型**
 > - 国际学校从约 50 所(1964)增至约 3,000 所(2005)，学生约 200 万(pp.22–23)
 > - 学生构成去国家化：创始国学生比例从 70%(1960)降至 30%(2005)(p.24)
@@ -199,9 +196,7 @@ Slethaug 的最终论点落脚在中国学习者的复杂性上：来自中国�
 > - [[English Schools Foundation Hong Kong\|ESF]] 系统：40%–50% 本地香港华人学生(p.4，引自第 1 章前言概述部分)
 > - 国际学校年费（香港）：US$10,000–20,000(p.26)
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > “那些与民族国家公民的培养和局限于本地系统的消费者紧密相连，而忽视更大全球力量的教育系统，很可能会变得过时；而那些主动应对全球化新挑战的教育系统则更有可能蓬勃发展。”
 > ("Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive.")(Suárez-Orozco & Qin-Hilliard, 2004, p.23, 转, p.1)
 >

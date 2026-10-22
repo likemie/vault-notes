@@ -87,11 +87,7 @@ created: 2026-06-13
 updated: 2026-10-22
 ---
 
-# Paradigm
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 范式（Paradigm）由[[Thomas Kuhn|托马斯·库恩]]（Thomas Kuhn, 1962, p. 23）最初界定为“一种被接受的模型或模式”（an accepted model or pattern）。更具体而言，范式是一个科学或学术研究共同体所共享的一整套看待与研究现象的方式、基本世界观、对何谓合法科学知识的共识、原则集合以及典型的[[Problem Solving|问题解决]]方案；它规定了该共同体应当探讨何种问题以及如何展开有效探究（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1]]）。在比较教育等社会科学领域，范式进一步指涉特定历史时期主导[[Knowledge Production|知识生产]]的[[Epistemology|认识论]]框架与方法论传统（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 92–94]]）。
@@ -209,8 +205,6 @@ updated: 2026-10-22
 > **超国家治理范式从硬性条约法律转向软性量化数据治理** 格雷克论证，欧洲教育治理见证了从硬法指令向软治理范式的深刻转型：受欧盟条约[[Subsidiarity Principle|辅助性原则]]限制，布鲁塞尔无权制定强制性教育大纲或立法指令；欧盟因而转向开放协调法（OMC），通过资助 PISA 调查并大规模采信经合组织数据指标，建立以数据基准、排名对照与同伴压力为驱动的软性数字治理（[[Governing by Numbers|governing by numbers]]）范式。这一范式无需修改法律条约，仅凭量化比较的客观性权威，便在维系主权分权表象的同时达成了欧洲教育空间的深度政策趋同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 ---
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

@@ -42,11 +42,7 @@ created: 2026-05-30
 updated: 2026-10-22
 ---
 
-# Literature Review
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **文献综述（Literature Review）** 是对特定[[Research Topic|研究主题]]已有学术成果开展系统检索、批判性评估与综合建构的论证性写作规程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 25]]）。它向读者全面呈现与研究问题密切相关的既有知识图谱，将拟开展的探究深度置于更广阔的学术对话脉络之中；通过诊断已有文献的知识空白、方法瓶颈与学术争议，为明确后续[[Research Question|研究问题]]、选择合适方法与构建理论框架确立合法性基础与论证跳板（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch. 6, p. 112]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1, p. 18]]）。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 文献综述与相关研究方法构念横向辨析
 > | 比较维度 | 文献综述（Literature Review） | [[Literature Search\|文献检索]] | [[Systematic Review\|系统综述]]（SLR） | [[Abstract\|文献摘要]]（Abstract） |
 > |---|---|---|---|---|
@@ -80,8 +74,6 @@ updated: 2026-10-22
 > | **与当前研究关系** | 直接构成研究的问题来源与理论基础 | 服务于综述与论证的信息需求 | 可作为独立的研究成果或大尺度背景依据 | 属于阅读与文献整理的初级中间产物 |
 
 ---
-
-## 核心要素
 
 > [!feature] 文献综述的核心功能与任务维度
 > - **避免重复劳动与确立原创性（Avoiding Reinventing the Wheel）** 确保拟议研究不盲目复制已有发现，精准定位自身在领域学术坐标系中的增量价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 112)]]
@@ -177,8 +169,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 文献综述核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -195,8 +185,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 复杂治理领域的大尺度系统文献综述应用** 系统文献综述突破纯医学与实验局限，广泛应用于宏观教育治理与制度变迁研究。例如 [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 基于 158 篇实证文献开展系统综述，揭示全球教育问责工具在不同行政传统下的制度分层与轨迹分化，展现了规范综述规程在驾驭复杂跨国质性材料中的解释效能。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -218,8 +206,6 @@ updated: 2026-10-22
 > - **坚守一手初级文献核对** 尽量直接引用一手原始报告，审慎对待二手文献转述，杜绝未读原著即断章取义复制结论。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

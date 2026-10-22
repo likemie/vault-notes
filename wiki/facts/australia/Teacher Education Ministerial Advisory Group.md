@@ -41,11 +41,7 @@ created: 2026-06-06
 updated: 2026-10-16
 ---
 
-# Teacher Education Ministerial Advisory Group
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2014年由澳大利亚联邦政府（联邦教育部长）成立教师教育专家咨询小组（Teacher Education Ministerial Advisory Group, TEMAG），并于2015年发布最终审查报告。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3, 11]])
@@ -54,8 +50,6 @@ updated: 2026-10-16
 > - **制度位置** 标志着澳大利亚初始教师教育向基于国家标准审计、强制评估与绩效化标准转向的起点，直接催生了[[LANTITE]]等强制统考机制，并为2023年《强劲开端》报告的问责逻辑奠定了基础。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 政策通过发布《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）报告，建议引入全国统一的读写与算术统考、教学表现评估（TPA）以及更为严苛的[[Initial Teacher Training\|ITE]]项目国家认证程序，以强化教师教育的合规审计。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
@@ -71,8 +65,6 @@ updated: 2026-10-16
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - 2014 联邦教育部长宣布成立教师教育专家咨询小组（TEMAG），启动对全国[[Initial Teacher Training\|初始教师教育]]的系统审查。
 > - 2015 TEMAG发布最终报告《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
@@ -80,8 +72,6 @@ updated: 2026-10-16
 > - 2016后 [[Australian Institute for Teaching and School Leadership\|AITSL]]根据报告建议逐步推行更加严格的初始教师教育项目新认证程序。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施主体与机制
 > - **发布主体** 澳大利亚联邦政府（Department of Education）。
@@ -93,16 +83,12 @@ updated: 2026-10-16
 
 ---
 
-## 争议与评论
-
 > [!tension] 争议焦点
 > - **工具争议（守门机制的合理性与中介机构红利）** 学者指出[[LANTITE]]等测试被作为一种强力的“守门机制”（gate-keeping mechanism），其高昂的测试费用为独立运营机构[[Australian Council for Educational Research\|ACER]]带来了每年数百万澳元的商业性收益，但对提升教学实际效果的作用受到质疑（Barnes & Cross, 2021, p. 455）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **执行争议（教师教育者的边缘化与自主权剥夺）** 过度标准化和合规审计的增强，导致大学里的“教师教育者日益边缘化”（teacher educators marginalised），教学自主权被外部标准化测试和评估程序剥夺（Alexander & Bourke, 2021, p. 471）。
 > - **逻辑延续与转向** 2023年发布的《强劲开端》报告完全延续了TEMAG的标准化与惩罚性问责逻辑，并在此基础上将“大脑与学习”（脑科学与认知科学）列为法定制式的核心课程，代表了澳大利亚教师教育向更深层生物简化主义标准化的转向。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3, pp. 5–6]])
 
 ---
-
-## 相关概念／政策
 
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |

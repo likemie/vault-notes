@@ -81,11 +81,8 @@ status: draft
 created: 2026-05-31
 updated: 2026-10-22
 ---
-# Internal Validity
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **内部效度（Internal Validity，又称内在效度）** 衡量一项研究对某一特定事件、因果问题或数据集的解释**在多大程度上实际上能够为实证数据所严格支撑**。在[[Experimental Research\|实验研究]]中，它表征[[Causality\|因果推断]]的无偏性质量——即研究者能否确证被操纵的自[[Variable\|变量]]确实导致了[[Dependent Variable\|因变量]]的变化，而非混杂了未受控制的外部干扰。奥恩韦布兹与利奇（Onwuegbuzie & Leech, 2006b）进一步将其扩展界定为“在底层情境或群体内，实证解释与结论的真值、适用性、一致性、中立性与可信性”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 164)]]
@@ -112,8 +109,6 @@ updated: 2026-10-22
 > - **不等于 证据使用中的唯一决策依据** 在循证政策中，高内部效度（如实验室 [[Randomised Controlled Trials\|RCT]]）若脱离一线复杂学情与组织支持系统，依然无法达成高质量实践改进（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 内部效度的[[Paradigm\|范式]]演进与视角辨析
 > | 维度 | 量化实验中的内部效度 | 质性探究中的可信性（Credibility） | [[Quality Use of Research Evidence Framework\|QURE]] 框架中的适切证据严谨性 |
@@ -215,8 +210,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 内部效度理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
@@ -225,8 +218,6 @@ updated: 2026-10-22
 > | **适切证据协同命题** | 内部效度需与教育情境、涉众文化协同构成“适切研究证据”，打破等级制垄断 | 循证教育政策、[[Quality Use of Research Evidence Framework\|QURE]] 框架研制、复杂学校系统改进 | Nutley et al. (2013); Nelson et al. (2017); [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] |
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 内部效度的思想演进年表
 > - **1963 — 实验因果控制与威胁分类学奠基** 坎贝尔与斯坦利（Campbell & Stanley, 1963）系统提出内部效度概念，开创性归纳了历史、成熟、回归等经典威胁清单，确立了控制组与[[Random Assignment\|随机化]]的黄金准则。
@@ -239,8 +230,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 内部效度实证与方法学证据索引（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -250,8 +239,6 @@ updated: 2026-10-22
 > | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 8)]] | 经典社会科学与教育实验干预范例库 | [[Experimental Research\|实验研究]]程序[[Meta-analysis\|元分析]]考证 | 受试者、处理与程序三类共 10 种[[Threats to Internal Validity\|内部效度威胁]]的发生率 | [[Random Assignment\|随机化]]分配能控制 80% 以上的受试者初始偏差，但处理扩散与测量工具漂移仍需前置协议（如[[Preregistration\|预注册]]与[[Implementation Fidelity\|实施保真度]]打卡）约束 | 规范方法学案例实证 | 确立实验控制无法彻底消解生态交互，内部效度需与[[Implementation and Process Evaluation\|过程评估]]（IPE）协同保障 |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

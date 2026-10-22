@@ -39,11 +39,7 @@ created: 2026-06-06
 updated: 2026-10-16
 ---
 
-# Graduate Outcomes Survey
-
 ---
-
-## 背景
 
 > [!policy-context] 调查背景
 > - **发布时间 / 发布主体** 由澳大利亚政府委托的“学习与教学质量指标”（Quality Indicators for Learning and Teaching, QILT）独立研究机构每年调查并发布。
@@ -53,16 +49,12 @@ updated: 2026-10-16
 
 ---
 
-## 核心数据
-
 > [!stat-cards]- 2022年调查核心数据
 > - **75%** 在 2022 年发布的调查报告中，教师教育（Teacher Education）毕业生的整体[[Student Satisfaction\|学习满意度]]高达 75%（QILT, 2023），在各大主要高等教育专业中处于优秀区间。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 5]])
 
 职前教师毕业后的就业率以及起薪中位数保持在良好水平，直接表明大多数毕业生成功过渡进入学校体系。
 
 ---
-
-## 争议与评论
 
 > [!tension] 争议焦点
 > - **工具争议（政策文本的“选择性循证”与[[Discourse|话语]]操纵）**
@@ -72,8 +64,6 @@ updated: 2026-10-16
 > 学者批评，将 32% 的局部数据过度表征为“职前教师在大学接受的培训质量底下”且“没有做好 classroom ready 的准备”，在标准的量化实证研究中构成了“极弱的因果链条”，暴露了“[[What Works Movement\|什么有效运动]]”主导下的教育决策者在面对证据时往往只选取符合其特定意识形态和政策议程（如加强标准控制、排除探究教学）的部分。
 
 ---
-
-## 相关概念／政策
 
 > [!ref-table] 相关条目索引
 > | 条目 | 关系 | 来源 |

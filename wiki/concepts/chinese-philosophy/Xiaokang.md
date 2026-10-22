@@ -29,13 +29,9 @@ created: 2026-05-25
 updated: 2026-08-20
 ---
 
-# Xiaokang
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 小康（xiaokang）是中国儒家政治社会思想中一个千年之久的理想社会形态。字面含义为"小安康"——每个家庭拥有充足的食物、住所，以及安全与安宁的生活。这一理想不追求财富与奢华，而是追求生活的知足（contentment with life）([[Argument_Li_2012_Cambridge\|Li, 2012, p.349, note 31]])。
 
 > [!abstract|notitle]
@@ -45,9 +41,7 @@ updated: 2026-08-20
 
 ---
 
-## 当代政策应用
-
-> [!success|notitle]
+> [!success] 当代政策应用
 > 1982 年，中国政府将小康设为 13 亿人口的经济社会发展目标，并为其赋予了具体的经济指标——人均年收入 ¥800。经过数十年努力，这一目标已"令人惊讶地实现了"([[Argument_Li_2012_Cambridge\|Li, 2012, p.338, pp.349-350, note 31]])。
 
 > [!tip|notitle]
@@ -58,9 +52,7 @@ updated: 2026-08-20
 
 ---
 
-## 文化意义
-
-> [!abstract|notitle]
+> [!abstract] 文化意义
 > 在 Li 的全书论证中，小康是一个关键的文化持久性案例。它展示了：
 
 > [!note|notitle]

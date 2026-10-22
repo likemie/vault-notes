@@ -178,11 +178,7 @@ created: '2026-05-01'
 updated: 2026-10-22
 ---
 
-# Evidence-Based Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据本位教育（Evidence-Based Education, EBE，亦称循证教育）主张教育专业实践与公共政策制定必须以严格实证研究（尤其是[[Randomised Controlled Trials|随机对照试验]]与[[Systematic Review|系统综述]]）确立的因果有效性证据为核心基础。该运动受循证医学（Evidence-Based Medicine, EBM）启发而兴起，核心关注什么有效（what works）的经验识别；然而这一取向关于实验因果外推、知识去情境化、[[Professional Judgment|专业判断]]自主性以及教育价值正当性的基本假定，在国际学术界激发了持续而深刻的理论争鸣。[[Argument_Slavin_2002_ER|Slavin, 2002, p. 15]]; [[Argument_Biesta_2010_SPE|Biesta, 2010, p. 491]]; [[Argument_Terhart_2011_JCS|Terhart, 2011, p. 426]]
@@ -374,8 +370,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -417,8 +411,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - **2026年 — [[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]系统综述与专业能动性生态转向** 哈格沃德等（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al., 2026]]）对 109 项学校研究开展系统综述，揭示标准化 EBE 的象征性使用困境，倡导通过跨层机制培育专业能动性。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -468,10 +460,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 
 ---
 
-## 应用案例
-
-### 英国实践
-
 > [!case] 英国：[[Education Endowment Foundation|EEF]]、[[What Works Network]] 与草根运动演进
 > 英国通过 EEF 旗舰、What Works 协作网与 [[ResearchED]] 建立了全球最完备的证据中介生态，同时提供了关于方法论反思与政策收编的经典案例。
 
@@ -486,8 +474,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - **课堂[[Teaching Assistant|教学助理]]（TA）配置案例** 扁平[[Effect Size|效应量]]排行掩盖了教学助理被系统性不当替代使用的微观情境条件。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 系统复盘 EEF 十年循证改革：逾 200 项大规模学校现场 [[Randomised Controlled Trials|RCT]]、独立评估防火墙设立、[[Implementation and Process Evaluation|过程评估]]（IPE）与[[Realist Evaluation|现实主义试验]]生态转型。
 
-### 美国实践
-
 > [!case] 美国：联邦立法与有效工作清算所（[[What Works Clearinghouse|WWC]]）主导的制度化进程
 > 美国通过 [[No Child Left Behind Act 2001|NCLB]] 与 [[Every Student Succeeds Act|ESSA]] 联邦立法，将严格的实验因果识别与联邦教育财政拨款建立起深度的制度绑定。
 
@@ -499,8 +485,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[California Class Size Reduction 1996]] — 全州小班化改革中教师质量稀释成为关键混淆机制的政策反思案例。
 > - [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中证据解释受制于政治与经济多流交互的混战案例。
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 深度解析 ESSA 2015 四级[[Evidence Standards|证据标准]]的设计逻辑与实践成效。
-
-### 澳大利亚与新西兰实践
 
 > [!case] 澳大利亚与新西兰：[[Visible Learning]] 理念的政策嵌入与治理反思
 > 澳新两国通过国家课程重构与行政问责，将[[John Hattie|哈蒂]]可见学习与 EBE 逻辑深植于教育治理体系。
@@ -515,8 +499,6 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - [[Argument_Sarbiewska_2019_JSR|Sarbiewska (2019)]] — 记录 EBE 与可见学习理念在澳新两国的政策采纳轨迹与[[Paradigm|范式]]争鸣。
 > - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯与澳大利亚政策实践，批判循证教育将复杂教学化约为量化排名的制度陷阱与师资倦怠风险。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对澳新等国广泛奉为循证基石的可见学习底层证据开展[[Preregistration|预注册]]全量复核，揭示严重的实证虚脱。
-
-### 德国实践
 
 > [!case] 德国：从 [[PISA]] 震荡到[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]与[[Transfer Science|转移科学]]反思
 > 德国自 1990 年代末经历教育政策的实证转向，在建立国家级监测基础设施后，教育科学界对底层因果作用假设的贫困展开了深刻的转移科学反思。

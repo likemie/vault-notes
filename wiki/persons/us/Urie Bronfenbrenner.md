@@ -45,11 +45,7 @@ created: 2026-09-17
 updated: 2026-10-22
 ---
 
-# Urie Bronfenbrenner
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍俄裔著名发展心理学家、教育学家，康奈尔大学人类发展与心理学终身教授，美国艺术与[[Chinese Academy of Sciences|科学院]]院士。
@@ -74,8 +70,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表性学术论著
 > - **1970 — *Two Worlds of Childhood: U.S. and U.S.S.R.*** 通过对比美苏两国儿童社会化机制的跨文化田野调研，深刻揭示了同伴集体、学校制度与国家意识形态对儿童道德发展的制度化塑造功能。
 > - **1979 — *The Ecology of Human Development: Experiments by Nature and Design*** 确立现代人类发展生态学的划时代著作，尖锐批判传统实验室心理学是“在陌生情境中观察儿童对陌生人做出的奇异行为”，提出由微系统、中系统、外系统和宏系统构成的层级同心圆模型。
@@ -83,8 +77,6 @@ updated: 2026-10-22
 > - **2005 — *Making Human Beings Human: Bioecological Perspectives on Human Development*** 汇集其一生学术思想的集大成之作，深刻论述了在现代社会由于家庭脱节、社区瓦解与公共政策失灵导致的“人类抚育生态危机”。
 
 ---
-
-## 核心思想
 
 > [!claim] 核心学术主张
 > 人类的发展绝非孤立基因或去情境化心理机制的被动展开，而是发展中的个体与其所生活的、由低级到高级层层嵌套的多重环境系统（家庭、学校、同伴、邻里、制度政策、宏观文化与历史时钟）之间持续而复杂的双向互动演进过程。任何有效的教育改革与社会干预，都必须立足于修复与强化支撑个体成长的完整生态网络。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]

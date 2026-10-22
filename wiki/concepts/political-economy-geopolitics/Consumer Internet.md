@@ -64,11 +64,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Consumer Internet
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **消费互联网（Consumer Internet）** 是指 21 世纪初在全球范围内（尤其以美国硅谷为中心）确立主导地位的技术与商业形态，其核心特征是将海量风险资本、顶尖软件工程人才与算力资源全面倾斜于满足终端个人消费者的即时生活、娱乐、社交与便利性需求（如定向在线广告、图片与短视频分享、即时通讯、电商零售及外卖配送）。
@@ -105,8 +101,6 @@ updated: 2026-10-22
 > | **工程文化取向** | 敏捷试错、快速套现、[[Technological Pastiche\|技术拼贴]]与衍生性功能包装 | 极客精神、艺术与技术融合、追求改变世界的原创突破 | 任务驱动、攻坚克难、直面物理世界复杂性与实战检验 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素构成
 > - **注意力与广告驱动（Attention and Ad-Monetization Model）** 依赖免费产品与服务获取海量用户时间与行为隐私，通过高度复杂的推荐算法与广告引擎实现商业寻租变现。
@@ -192,8 +186,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 关键机制与依据 | 代表学者 |
 > |---|---|---|---|
@@ -204,8 +196,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 消费互联网的发展脉络
 > - **1970s–1980s 萌芽期：个人计算与反文化工具** 以个人电脑、排版软件和家用设备为主，强调个体心智的扩展与[[Creativity|创造力]]解放。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–101)]]
 > - **1990s 末 [[Dot-Com Bubble|互联网泡沫]]期：玩具与日用品分销狂潮** 以 eToys、Pets.com 为代表的初创企业推行“故意亏损抢占市场”模式，在泡沫中经历大繁荣与大崩盘，奠定了无差别消费投资[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–105)]]
@@ -213,8 +203,6 @@ updated: 2026-10-22
 > - **2020s 至今 地缘危机下的合法性反思与重构** 俄乌冲突、台海危机与大国 AI 军备竞赛爆发，引发对消费互联网过度挤占战略科技资源的严厉批判与“重构[[Technological Republic|技术共和国]]”的呼吁。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–6)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 110–111)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

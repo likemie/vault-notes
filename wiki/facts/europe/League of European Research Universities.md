@@ -34,8 +34,6 @@ created: 2026-06-10
 updated: 2026-10-22
 ---
 
-# League of European Research Universities
-
 ---
 
 > [!info] 背景
@@ -54,7 +52,6 @@ updated: 2026-10-22
 研究同时发现早期职业研究者对转向非学术工作存在抵触，导师提供的职业支持仍以学术职业为中心。总体而言，早期职业研究者常对非学术劳动力市场准备不足。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 37-38)]]
 
 ---
-## 核心建议
 
 > [!info] 六项变革愿景
 > 1. 大学和研究机构最高层承诺改善研究者职业吸引力

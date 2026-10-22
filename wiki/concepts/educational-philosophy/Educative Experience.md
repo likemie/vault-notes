@@ -40,11 +40,7 @@ created: 2026-08-01
 updated: 2026-10-22
 ---
 
-# Educative Experience（教育性经验）
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **教育性经验（Educative Experience）** 是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中确立的正向经验品质判定标准。它指能够丰富个体当下体验、并为个体打开通往未来更深刻与更广阔经验大门、从而促进连续生长的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–32)]]
@@ -74,9 +70,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **连续性（Continuity）** 现存经验吸收先前经验要素并提高未来经验的品质与能力。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 > - **[[Interaction Effect\|交互作用]]（Interaction）** 内部心理条件与外部社区/物理客观条件的调控交汇。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 32)]]
 > - **智性前瞻（Ends-in-view）** 探究过程包含预见后果与有意识的目标规划。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 34)]]
@@ -111,8 +105,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -125,8 +117,6 @@ updated: 2026-10-22
 > - **2009 — 批判分析应用** Darwish 将教育性经验作为评估 IB [[Theory of Knowledge\|TOK]] 课程与[[Active Learning\|主动学习]]三环节模型的[[Epistemology\|认识论]]基准。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 30–32)]]
 
 ---
-
-## 争议与批评
 
 > [!warning] 适用局限
 > [[John Dewey\|杜威]]的教育性经验理论预设了社会具备平权沟通与渐进改良的环境；在存在强社会阶层固化或结构性压迫时，单纯理智上的教育性经验无法自动转化为社会变革行动（[[Praxis]]）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 42–43)]]

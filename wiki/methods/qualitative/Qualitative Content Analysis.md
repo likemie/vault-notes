@@ -79,11 +79,7 @@ created: 2026-09-08
 updated: 2026-10-22
 ---
 
-# Qualitative Content Analysis
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **质性[[Content Analysis\|内容分析]]（Qualitative Content Analysis，简称 QCA，又称质性文本分析）** 是一种将定性诠释学的深度语境理解与经典内容分析的严密规则性相融合的实证文本分析方法。由德国心理学与教育学方法学家菲利普·迈林（Philipp Mayring, 2000, 2004, 2014）系统奠基。QCA 既反对传统量化内容分析将文本机械还原为脱离语境的孤立词频计数，亦摒弃无结构自由诠释缺乏程序透明度与[[Reliability\|信度]]校验的随意性；它将分析置于传播生成情境中，依托逐级抽象释义、编码指南（Coding agenda）与形成性复核（Formative reliability check），从经验材料中系统提炼出兼具理论严谨性与情境扎根性的范畴体系（Mayring, 2004, pp. 266–269；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 563, 567]]）。
@@ -104,8 +100,6 @@ updated: 2026-10-22
 > - 不等于 主题分析（Thematic Analysis） — 主题分析更具灵活性且通常不要求计算[[Intercoder Agreement\|编码者间信度]]；QCA 严格嵌入传播模型并要求执行形成性与总结性信度检验。
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 语言符号既承载显性字面信息，亦深植于说话者的心理诉求、权力关系与社会文化情境；文本的意义不是静态预存的物理实体，而是研究者在规则控制下与传播情境互动建构的解释性[[Construct\|构念]]。
@@ -207,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 质性内容分析核心理论命题总览
 > | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与文献出处 |
 > |---|---|---|---|
@@ -226,8 +218,6 @@ updated: 2026-10-22
 > - **2020s — 大模型时代的智能结构化 QCA 演进** 随着生成式大语言模型（LLM）的兴起，基于 Prompt 的初级释义转述与结构化横切成为可能；但形成性复核中的边界歧义判决、锚定样例裁定与理论反思，进一步强化了研究者[[Meaningful Human Control|人在回路]]（HITL）的主体把关责任。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -279,8 +269,6 @@ updated: 2026-10-22
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 以 Mayring 质性内容分析的归纳与演绎进路，对德国 4 州官员访谈、报道与公文系统编码，揭示 [[PISA]]、[[Vergleichsarbeiten\|VERA]] 与督导在科层实践中从象征利用走向常规运用（pp. 489–491）。
 
 ---
-
-## 知识网络
 
 > [!rel-table] 关联知识实体
 > | 关联实体 | 实体类型 | 关联本质说明 | 文献出处 |

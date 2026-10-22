@@ -71,7 +71,6 @@ citation_aliases:
   - "Beech & Artopoulos, 2015"
   - "Beech & Artopoulos (2015)"
 ---
-# Argument_Beech_2015_GSE
 
 ---
 
@@ -158,8 +157,6 @@ citation_aliases:
 
 ---
 
-### 关系性空间与 ANT 的替代方案
-
 > [!success] [[Relational Space\|关系性空间]]
 > 关系性空间概念意味着将空间理解为由社会行动者之间的关系所构成。网络不被包含在空间中，网络生产和塑造空间。空间是效果，不是容器。这一视角有助于超越全球/地方、宏观/微观等固定二元对立（[[Jason Beech]] & [[Alejandro, 引自 Larsen & Beech, 2014）。
 
@@ -228,9 +225,7 @@ citation_aliases:
 
 ---
 
-## 关键引用
-
-> [!quote|notitle]
+> [!quote] 关键引用
 > "Certain established vocabularies that are used to interpret the circulation of educational discourse and its transformation in different settings have significant limitations to capture the complexity inherent to new geographies of power/knowledge in education."
 >
 > 某些用来解释教育话语跨情境流通及其转化的既有词汇，在捕捉教育中新权力/知识地理所固有的复杂性方面存在显著局限。

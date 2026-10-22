@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Use of Calculators
-
 > [!metax] [使用计算器 · Use of calculators](https://www.visiblelearningmetax.com/influences/view/use_of_calculators)
 > 课程 › 数学与科学
 >

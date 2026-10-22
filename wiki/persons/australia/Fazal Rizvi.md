@@ -85,11 +85,7 @@ created: '2026-05-11'
 updated: 2026-10-22
 ---
 
-# Fazal Rizvi
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚与美国著名全球化与教育政策研究学者，墨尔本大学荣誉教授（Emeritus Professor），曾任美国伊利诺伊大学厄巴纳-香槟分校教育政策、组织与领导系教授及全球研究中心主任。
@@ -113,8 +109,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2001 — *The [[OECD]], Globalisation and Education Policy*（与 Henry, Lingard, Taylor 合著）** 首次系统解构经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）从战后协商平台演变为具有自主意识形态议程的跨国政策行动者的制度轨迹，奠定全球教育治理批判研究基石。
 > - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Bob Lingard]] 合著）** 系统对比经合组织 1960–1990 年社会民主妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）构筑[[Space of Equivalence|等值空间]]与教育正义被[[Economic Fundamentalism|经济基要主义]]残余化的理论机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
@@ -123,9 +117,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 里兹维的核心主张在于：当代教育政策转型与全球高等教育重构不能仅在民族国家封闭疆域内或孤立的技术效率层面被理解，而必须置于跨国[[Social Imaginary|社会想象]]、国际组织[[Discourse|话语]]霸权以及全球[[Geopolitics|地缘政治]]权力转移的多维透镜下审视。一方面，以[[OECD|经合组织]]为代表的跨国行动者依托[[New Growth Theory|内生新增长理论]]建构了排他性的“[[Knowledge-Based Economy|知识经济]]社会想象”，借由标准化测评数据制造跨国[[Space of Equivalence|等值空间]]，将公平与民主诉求降格为劳动力生产率的附庸；另一方面，亚洲的经济与政治崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge|知识地缘政治]]格局的“独立因果力量”，驱动国际化理性从传统的现代化援助向全额付费的出口创收市场理性深刻转变。
 
 > [!citation-card] 经合组织与知识经济的全球社会想象
@@ -146,9 +138,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与 [[Bob Lingard]] 共同奠定批判性全球教育政策研究的核心[[Paradigm|范式]]，提出[[Social Imaginary|社会想象]]分析进路与[[Governing by Numbers|数字治理]]批判框架；率先将[[Critical Geopolitics|批判地缘政治学]]引入高等教育与[[Geopolitics of Knowledge|知识地缘政治]]分析，开辟国际化双重理性研究前沿。
 > - **方法路径** 结合后殖民文化理论、批判政策[[Discourse Analysis|话语分析]]与多标度空间分析，打破[[Methodological Nationalism|方法论民族主义]]的局限，提供追踪国际学生跨国流动、教育政策本土转译与制度[[Discourse|话语]]杂糅的质性批判分析示范。
 > - **政策路径** 深刻剖析高等教育商业化出口与[[New Public Management|新公共管理]]合谋的技术机制，为揭露留学生高额学费依赖、抵制大学学术市场化以及保护一线公共教育价值提供了强有力的理论武器。
@@ -160,8 +150,6 @@ updated: 2026-10-22
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 援引里兹维等关于跨国政策行动者与话语网络的论述，探讨国际组织对比较教育学科[[Knowledge Production|知识生产]]的深层塑造。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 比较教育学界论里兹维对全球化政策社会学的开拓贡献
 > 里兹维与林加德的学术贡献在于，他们彻底超越了将全球化描绘为单一同质化外部力量的粗糙[[Determinism|决定论]]，而是深刻揭示出全球化如何作为一种文化与意识形态想象，在具体制度实践、跨国流动网络以及[[Geopolitics|地缘政治]]位移中被创造、流通与抵抗。他们的著作不仅为理解超国家教育霸权提供了精致的理论地图，更重新擦亮了[[Critical Theory|批判理论]]直面全球不平等的敏锐锋芒。
@@ -177,8 +165,6 @@ updated: 2026-10-22
 > - **分析机构／对象** [[OECD]]、[[PISA]]、[[International Education Hubs|国际教育枢纽]]、亚太跨国高校。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -39,11 +39,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Edward R. Murrow
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名广播电视新闻记者、战地记者，哥伦比亚广播公司（CBS）新闻部奠基人，美国公共外交事务官员。
@@ -68,8 +64,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要电视广播事件与演讲
 > - **1939–1945 — *This is London*** 奠定广播新闻的现场感、客观性与道德同理心。
 > - **1954 — *See It Now: A Report on Senator Joseph R. McCarthy*** 运用当事人原始录像拆解政治谎言，成为新闻媒介抗击政治狂热的经典案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 81–82)]]
@@ -77,14 +71,10 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 爱德华·R·默罗（Edward R. Murrow）主张，大众媒介不仅是传递事实的工具，更是守护民主宪政、对抗政治狂热与道德恐吓的公共防线。他强调民主的命运并非由外部宿命（“星宿”）决定，而取决于公众自身是否具备直面危机、拒绝沉默并勇于承担道德选择代价的公民勇气。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Karp & Zamiska 论默罗与公民责任觉醒
 > 默罗提醒全美公众，面对政治狂热与道德恐吓的横行，不能指望政客的道德自律，而必须依靠公众自身的觉醒与反抗；克服心智空洞化危机同样需要这种敢于迎向真理火焰的智识勇气。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 81–82)]]

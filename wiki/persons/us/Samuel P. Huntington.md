@@ -42,11 +42,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Samuel P. Huntington
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名政治学家、哈佛大学阿尔伯特·J·韦瑟黑德三世大学讲席教授，曾任哈佛国际与地区事务研究所所长、美国政治学会主席。
@@ -71,16 +67,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 代表著作与核心理论
 > - **1968 — *Political Order in Changing Societies*** 提出制度化水平与政治参与失衡导致政治衰败的经典理论，强调权威与政治秩序对经济发展的前提性价值。
 > - **1991 — *The Third Wave: Democratization in the Late Twentieth Century*** 系统梳理20世纪末全球民主化浪潮的动力机制与巩固挑战。
 > - **1993/1996 — *The [[Clash of Civilizations]]?*** 将全球划分为西方、中华、伊斯兰、东正教等各大文明板块，引用[[Huntington-Wallace Line|亨廷顿-华莱士线]]描绘欧洲文明断层，论证文化认同对国际关系的决定性塑造。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 ---
-
-## 学术评价与理论争议
 
 > [!critique] 学术影响与争议反思
 > - **文化[[Geopolitics|地缘政治]]的开创性透视** 突破了单纯基于经济利益或意识形态的传统国际关系[[Paradigm|范式]]，敏锐捕捉到全球化进程中古老文化与宗教认同的强势复兴。

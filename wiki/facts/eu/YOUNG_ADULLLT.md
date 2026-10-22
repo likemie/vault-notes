@@ -48,8 +48,6 @@ created: '2026-05-14'
 updated: 2026-10-22
 ---
 
-# YOUNG_ADULLLT
-
 > [!info] 背景
 > YOUNG_ADULLLT 是[[EU|欧盟]] Horizon 2020 框架资助的研究项目（Grant No 693167），旨在系统考察欧盟各成员国和区域的[[Lifelong Learning\|终身学习]]（lifelong learning）政策治理实践。该项目特别关注：终身学习政策在区域层面如何被治理、地方专业人员如何理解和实施这些政策、以及他们运作中依赖何种 [[Theories of Policy Change]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])。
 >

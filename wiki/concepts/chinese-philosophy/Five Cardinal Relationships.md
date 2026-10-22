@@ -38,11 +38,7 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Five Cardinal Relationships
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 五伦是[[Confucius\|孔子]]和后世儒家定义的五种基本人际关系，每种关系对应一个特定的道德德目。这些关系构成了一个人[[Self-Cultivation\|修身]]的社会[[Champ\|场域]]——一个人正是通过在这些关系中的实践而被塑造为特定类型的人([[Argument_Li_2012_Cambridge\|Li, 2012, pp.38-39]])。
 
 > [!quote|notitle]
@@ -50,9 +46,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 五种关系及对应德目([[Argument_Li_2012_Cambridge\|Li, 2012, pp.38-39]])：
 
 | 关系 | 英文 | 德目 | 英文 |
@@ -68,9 +62,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!example|notitle]
+> [!example] 概念辨析
 > **关系的相互性（mutuality）** 每种关系都不是单向的义务，而是双向的。如父子关系中，"无条件的爱和孝道是相互构成的。道德义务在于这种相互性之中"([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])。这意味着父母对子女的慈爱与子女对父母的孝敬是对等的道德义务，而非单方面的服从。
 
 > [!example|notitle]

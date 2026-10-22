@@ -34,11 +34,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Multi-University
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > Multi-university（多元大学，又称 multiversity）由加州大学前校长 Clark Kerr（2001）在 The Uses of the University 中提出，用以描述美国现代综合性大学——"广泛而扩张，以多元方式触及社区和社会，作为文化、教育、发现、创新乃至医疗保健的中心"（p.5）。与传统的单一使命大学不同，多元大学同时承担多重社会功能、服务多元利益相关者。
 
 > [!quote|notitle]
@@ -46,9 +42,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
-> [!note|notitle]
+> [!note] 概念演变
 > Clark Kerr 在 1963 年首次出版 The Uses of the University，基于他在加州大学伯克利分校和加州大学系统的领导经验，提出了 multiversity 概念以区别于传统的"大学"（university）理念。传统大学——如 John Henry Newman 在 The Idea of a University（1852）中描述的——以教学和学术共同体为核心使命；而 multiversity 则是一个同时服务教学、研究、公共服务、经济发展和医疗保健的多重使命机构（pp.5–7）。
 
 > [!note|notitle]

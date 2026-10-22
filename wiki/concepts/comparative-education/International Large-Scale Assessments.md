@@ -72,11 +72,7 @@ created: 2026-09-12
 updated: 2026-10-22
 ---
 
-# International Large-Scale Assessments
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 国际大规模评估（International Large-Scale Assessments，ILSAs）是跨国治理机构（如 [[OECD]]）或国际学术评价组织（如 [[IEA]]）跨越国界开展的周期性、标准化教育测评与[[Questionnaire\|问卷调查]][[Paradigm\|范式]]。它采用高级心理测量学算法（如[[Item Response Theory\|项目反应理论]]与[[Hierarchical Linear Model\|多层线性模型]]）与代表性[[Random Sampling\|概率抽样]]，测查特定学龄或成年受试者在[[21st Century Skills and Competencies Discourse\|核心素养]]上的相对表现，并将数字确立为国家与超国家中介机构之间的通用治理语言。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537, 541, 543)]]
@@ -106,9 +102,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **跨文化心理测量学等值性（Psychometric Equivalence）** 运用[[Item Response Theory\|项目反应理论]]（IRT）与微分项目功能（[[Differential Item Functioning|DIF]]）分析，确保同一试题在不同语言与文化情境中测量的潜在能力具有跨国数学等价性。
 > - **[[Matrix Sampling|矩阵抽样]]与旋转设计（Matrix Sampling Design）** 每个学生仅作答题库中的一部分测试模块，但通过群体聚合算法能够以极小的时间成本精准反推整个国家学生群体的综合素养全貌。
 > - **微观背景[[Questionnaire\|问卷]]的多维锚定（Contextual Questionnaires）** 同步采集学生家庭社会经济文化地位（ESCS）、教师教学策略及校长学校资源数据，为跨国多层线性回归（[[Hierarchical Linear Model\|HLM]]）提供解释[[Variable\|变量]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
@@ -152,8 +146,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -168,8 +160,6 @@ updated: 2026-10-22
 > - **2000 年至今 — 规制帝国与全生命周期扩张** 经合组织 [[PISA]] 确立全球统治地位，并向教师（[[Teaching and Learning International Survey\|TALIS]]）、成人（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）、高等教育（[[OECD AHELO Project\|AHELO]]）及全球南方（[[PISA for Development\|PISA-D]]）全面蔓延，构建了无孔不入的全球测评复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -191,8 +181,6 @@ updated: 2026-10-22
 > ILSAs 仅能测量特定横截面时点上的可编码认知技能；它既无法测量学校在品格、道德与公民责任维度的隐性培育价值，亦不能代替长周期的微观质性教育[[Ethnography\|人类学研究]]。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

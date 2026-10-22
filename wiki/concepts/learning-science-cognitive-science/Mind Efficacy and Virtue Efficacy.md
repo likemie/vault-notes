@@ -43,16 +43,12 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-# Mind Efficacy and Virtue Efficacy
-
 > [!info] 定义
 > Mind Efficacy and Virtue Efficacy 是 [[Argument_Li_2012_Cambridge|Li（2012）]]通过欧美与台湾母-子对话研究（[[Mother-Child Conversation]], MCC）识别的两种文化特有的学习因果归因模式。Mind Efficacy 指西方（欧美）母亲将学习成果的根本原因归于孩子的心智能力——智力、思维能力、理解力和心理过程。Virtue Efficacy 指东亚（台湾）母亲将学习成果的根本原因归于孩子的[[Learning Virtues\|学习美德]]——勤奋、坚持、专注、认真和[[Humility\|谦逊]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.248–265]])。
 
 这两种归因模式不仅仅是解释风格的不同，更反映了两大文化传统对学习本质的根本不同理解：西方继承[[Socrates|苏格拉底]]传统，认为学习的核心是心智的探索和发现；东亚继承儒家传统，认为学习的核心是道德的自我修养([[Argument_Li_2012_Cambridge|Li, 2012, p.278–282]])。
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 欧美母亲的 Mind Efficacy 归因模式：
 
 - **心智来源** 母亲在对话中引导孩子将学习行为与心智能力关联——"你知道这是聪明人做的事吗？""你和 Bob 在你们这个年纪是非常聪明的读者"([[Argument_Li_2012_Cambridge|Li, 2012, p.248–252]])。

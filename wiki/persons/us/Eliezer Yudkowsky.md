@@ -43,11 +43,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Eliezer Yudkowsky
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 埃利泽·尤德考夫斯基（Eliezer Yudkowsky, 1979– ）是美国决策论学者、人工智能对齐（AI Alignment）理论先驱，机器智能研究院（Machine Intelligence Research Institute, MIRI）联合创始人，理性主义社区 LessWrong 创始人。
@@ -70,8 +66,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000s — 友好 AI 与价值对齐概念奠基** 率先提出“友好人工智能”（Friendly AI）概念，指出超级智能的效用函数必须包含人类真实价值，否则即使微小的目标错位（如回形针最大化）也将毁灭宇宙。
 >   - **代表著作** *Creating Friendly AI* (2001); *Coherent Extrapolated Volition* (2004)。
@@ -86,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 超级人工智能的能力提升速度远远快于人类理解和控制其内部表征与动机的速度。在缺乏数学上可证明的强对齐机制的前提下，制造出具备递归自我改进能力的超智能系统，其工具性收敛（Instrumental Convergence）必然导致人类丧失对地球资源与生存环境的控制权，造成文明彻底毁灭。
 
 > [!citation-card] 全面关停前沿 AI 训练集群的政策主张
@@ -96,9 +88,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 开辟了 AI 存在性风险与技术对齐（Technical Alignment）这一独立学术研究领域，深刻影响了 OpenAI、Anthropic 等前沿机构对齐团队的研究纲领。
 > - **政策与风险度量路径** 推动了末日概率（P(doom)）这一概念在硅谷与华盛顿政策界的流行，使政府决策层严肃审视[[Artificial General Intelligence|通用人工智能]]失控的极端尾部风险。
 > - **争议与地缘战略交锋** 其主张的极端技术叫停立场，成为当代科技战略家（如 Karp & Zamiska）批判科技精英道德恐慌与逃避地缘防卫责任的核心论敌。
@@ -107,8 +97,6 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 评述尤德考夫斯基在 2023 年《时代》杂志中关于制造强 AI 将导致人类灭绝的极端警示，将其作为西方社会面对技术突破时滋生文明崩溃焦虑的代表。
 
 ---
-
-## 历史评价
 
 > [!citation-card] Karp & Zamiska论末日焦虑与技术暂停倡议
 > 伴随 [[General Purpose Technology|GPT]]-4 的公开发布，围绕技术失控的社会焦虑迅速攀升。人工智能危害的直言批评者埃利泽·尤德考夫斯基在《时代》杂志撰文警告，在当前条件下制造过于强大的 AI 将导致生物灭绝。这类言论将关于文明崩溃的讨论推向高潮，但呼吁暂停乃至放弃核心研发不仅无法消除风险，反而在地缘博弈中极具战略误导性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
@@ -123,8 +111,6 @@ updated: 2026-10-22
 > - **关键历史事件** [[Pause Giant AI Experiments Open Letter]] — 2023 年公开信的核心辩论参与者与更激进立场的提出者。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

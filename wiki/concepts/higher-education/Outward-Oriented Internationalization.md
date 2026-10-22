@@ -57,11 +57,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Outward-Oriented Internationalization
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 外向型[[Internationalization of Higher Education|高等教育国际化]]（Outward-Oriented Higher Education Internationalization）是由吴菡/吴林（Wu, 2019a, 2019b）提出、并在[[Geopolitics of Higher Education|高等教育地缘政治]]研究中得到广泛引用的[[Construct|理论构念]]。该概念特指新兴国家（尤其是中国）的高等教育国际化战略发生根本性[[Paradigm|范式]]转向：由改革开放初期至 2000 年代以“向西方先进模式取经、大规模选派公派留学生、引进海外原版课程与聘请外国专家”为主导的**内向型阶段（Inward-Oriented Phase）**，转向以“主动向海外输出高等教育机构与项目、提供高教对外发展援助、实施政府主导的大规模国际留学生吸纳工程”为特征的**外向型战略布局**。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
@@ -92,8 +88,6 @@ updated: 2026-10-22
 > | **典型代表形态** | [[University Alliance of the Silk Road\|丝路大学联盟]]、[[Asian Universities Alliance\|亚洲大学联盟]]、[[Confucius Institute\|孔子学院]] | 公派留美计划、引进麻省理工模式、原版教材引进 | 诺丁汉大学宁波校区、纽约大学阿布扎比分校 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心支柱矩阵
 > - **跨国教育机构与项目境外输出** 依托境内母体高水平大学在海外独立办学或建立联合学院，直接向东道国输出学位认证课程与专业教学方案。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]

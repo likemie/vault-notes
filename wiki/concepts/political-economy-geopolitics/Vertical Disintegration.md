@@ -62,11 +62,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Vertical Disintegration
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **纵向离散（Vertical Disintegration / 垂直专业化分工）** 指现代高科技产业中，原先高度整合在单一大型垄断企业（如[[Bell Labs|贝尔实验室]]、IBM、通用电气）内部的基础研发、核心工具开发、产品设计、工艺制造、封装测试及系统应用等全价值链环节，解构并分散给专业化的基础材料商、[[Electronic Design Automation|电子设计自动化]]（EDA）软件商、无晶圆厂设计公司（Fabless）、专业晶圆代工厂（Foundry）、精密设备制造商与外包封测（OSAT）企业等独立主体的产业组织形态。该形态通过技术接口标准化与模块化解耦大幅降低了进入门槛，赋予产业敏捷响应快速产品创新的适应力；但同时也造成跨环节协调失灵、长周期基础研究萎缩，并在全球化演进中形成了关键工序高度地理集中的单点咽喉依赖（Chokepoints），使单一国家试图建立全栈闭环“国家冠军”的传统产业政策彻底失效。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–90, 102)]]
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 纵向离散与纵向一体化的创新机制与治理对比
 > | 比较维度 | 纵向离散模式（Vertical Disintegration） | 传统纵向一体化模式（Vertical Integration, IDM） |
 > |:---|:---|:---|
@@ -100,8 +94,6 @@ updated: 2026-10-22
 > | **公共治理需求** | 依赖国家“[[Embedded Network Governance\|嵌入式网络治理]]”搭建测试平台，或依托多边产业联盟协作 | 依赖企业内部行政层级指挥与长期[[Corporate R&D Labs\|企业中央实验室]]研发预算自给 |
 
 ---
-
-## 核心要素
 
 > [!feature] 现代半导体纵向离散产业生态的六大核心环节与特征
 > - **基础原材料与高纯度化学品（Basic Materials）** 晶圆基板、多晶硅及专用光刻胶等高度依赖日本与德国等少数专业材料巨头。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 87)]]
@@ -179,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 纵向离散核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -198,8 +188,6 @@ updated: 2026-10-22
 > - **2020年代 — 全球化咽喉依赖与地缘重组** 查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）系统剖析了纵向离散在全球六大环节的极端地理集中与单点咽喉分布，论证了[[Modern Industrial Policy|现代产业政策]]在离散网络下对跨国联盟与多边管制的必然依赖。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–92, 102)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -219,8 +207,6 @@ updated: 2026-10-22
 > 纵向离散模式高度依赖稳定的全球多边规则与无摩擦的跨国贸易物流；一旦遭遇地缘政治冲突、单边技术出口管制或大流行等结构性冲击，其超长分工链条与单点咽喉将被迅速武器化，暴露出严重的系统脆弱性。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 纵向离散产业演进与全球细分工序格局
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

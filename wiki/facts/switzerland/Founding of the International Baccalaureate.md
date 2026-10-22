@@ -53,11 +53,7 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Founding of the International Baccalaureate
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 1924–1970 年，以瑞士日内瓦为组织中心，并通过威尔士大西洋学院、英国牛津、法国塞夫尔及多国学校和大学形成跨国试验网络。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–31)]]
@@ -66,8 +62,6 @@ updated: 2026-10-22
 > - **触发条件** [[International School of Geneva\|日内瓦国际学校]]高中物理课曾按瑞士毕业会考、英国高级程度考试、法国中学毕业会考和美国[[Advanced Placement Program\|大学先修课程]]分为四个小组。资源浪费、国家分隔和少数国籍学生缺少适合通道，使国际共同资格从理想转化为办学必需。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 16–17)]]
 
 ---
-
-## 创立者与角色分工
 
 > [!claim] IB 是集体创制的制度，而非单一人物的发明
 > 彼得森的叙述没有给出一位可以包揽“创立者”称号的人。IB 的形成横跨 1925 年的思想先声、1960 年代初的教师动员、独立组织建设、课程架构、考试技术、国际筹资和大学承认试验。因而，更准确的记录方式是按贡献性质区分共同创制者，并说明每个人的作用边界。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–31)]]
@@ -96,8 +90,6 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] [[International Baccalaureate\|国际文凭]]的起源与早期制度形成
 > - **1924–1925 — 日内瓦[[International Schools\|国际学校]]提出最早设想** [[International School of Geneva\|日内瓦国际学校]]于 1924 年为国际联盟雇员子女创办。1925 年，校长保罗·迈霍弗（Paul Meyhoffer）依治理委员会要求，向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，试探建立“国际毕业会考”（maturité internationale）的可能性。现存材料没有记录回复；当时国际学校和[[Student Mobility|跨国学生流动]]都很少，设想未进入实施，但[[General Education\|通识教育]]与专门化教育的关系已经成为核心问题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]
 >
@@ -123,8 +115,6 @@ updated: 2026-10-22
 > 5. **持续资金** 保证项目不会在学校和学生已经投入两年课程后中途崩溃。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 24)]]
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] 1925 年国际毕业会考[[Questionnaire\|问卷]]
 > 问卷向 17 位欧洲教育改革者征询建立国际毕业会考的意见。计划没有留下回复记录，但已提出通识与专门化教育之间的课程关系问题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]

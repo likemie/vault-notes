@@ -40,11 +40,7 @@ created: 2026-08-01
 updated: 2026-10-22
 ---
 
-# Laddering
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 阶梯法（laddering）是一种从给定[[Construct\|构念]]的偏好极点出发、通过反复追问"为什么"逐级追溯更高层上属构念的访谈技术。它源于 Hinkle（1965）将蕴含（implication）概念与组织推论相连：用蕴含替代预期，使不同构念的极点之间可以建立逻辑关系，一个构念蕴含另一个构念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011, pp. 8–9)]]
@@ -62,8 +58,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** [[Construct\|构念]]系统是个体化的层级网络，上属构念承载个体最看重的意义与价值；阶梯法通过访谈揭示这些层级。
 > - **研究者角色** 访谈者主动追问"为什么"并引导受访者选择偏好极点，但上属构念的内容完全来自受访者。
@@ -77,8 +71,6 @@ updated: 2026-10-22
 > - **辅助技术** 偏好极点识别；选择推论（Choice Corollary）作为理论依据。
 
 ---
-
-## 研究程序
 
 > [!proc] 阶梯法的操作流程
 > 1. **确定偏好极点** 请参与者指出给定[[Construct\|构念]]中哪个极点是其偏好的，与选择推论直接关联
@@ -95,16 +87,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 探索个体如何组织价值与意义层级，尤其是消费者从产品属性到消费者价值的阶梯认知（Reynolds & Gutman, 1988）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011, p. 9)]]
 > - **谨慎使用** 需要组间比较时，访谈形式的深度优势受限；[[Questionnaire\|问卷]]形式可能丢失层级深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011, p. 15)]]
 > - **不适合使用** 大规模标准化测量；需要严格逻辑蕴含或跨个体直接量化比较的场景。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 访谈者的追问方向可能引导受访者；偏好极点的选择带有主观性。
@@ -124,8 +112,6 @@ updated: 2026-10-22
 > | [[Personal Constructs]] | 概念 | 阶梯法操作的正是个人建构之间的蕴含层级。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 以 Crudge and Johnson（2007）分析搜索引擎[[Construct\|构念]]和 Voss et al.（2007）识别学生期望的讲师品质为例，说明阶梯法的用法；访谈得到的阶梯结构更复杂。

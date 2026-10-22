@@ -55,11 +55,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-# Authentic Instruction
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 真实性教学（Authentic Instruction，亦常体现为[[Anchored Instruction\|抛锚式教学]]）指通过向学习者呈现源自现实世界的真实问题、复杂案例或情境，激发其探究动机并在解决劣构、多步问题的过程中发展高阶认知能力的教学模式。该教学法强调知识不应脱离实际运用情境而被抽象灌输，而应作为解决具体实际矛盾的思想工具。在[[Critical Thinking\|批判性思维]]教学中，真实性教学涵盖应用型[[Problem Solving\|问题解决]]、[[Role-playing\|角色扮演]]、情境模拟演练与现实困境分析等核心策略。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
@@ -79,8 +75,6 @@ updated: 2026-10-22
 > - **不等于完全自由探究** 若缺乏教师的认知脚手架、问题引导与及时的反馈调节，劣构情境可能导致学生的认知过载与思维涣散。
 
 ---
-
-## 概念辨析
 
 > [!contrast-table] 真实性教学与相近教学模式辨析
 > | 维度 | 真实性教学（Authentic Instruction） | [[Problem-Based Learning\|问题本位学习（PBL）]] | 传统讲授式教学 |
@@ -113,8 +107,6 @@ updated: 2026-10-22
 > | **宏观情境抛锚范式**<br>（Anchored Instruction） | 基于嵌入式数据的多媒体故事开展连锁推理 | 经典范例 | — | [[Anchored Instruction]] |
 
 ---
-
-## 核心要素
 
 > [!feature] 真实性教学的核心维度构成
 > - **真实任务情境（Authentic Context）** 呈现反映现实世界复杂性与不确定性的任务，使问题具备内在探究价值而非单纯外在考试要求。
@@ -160,8 +152,6 @@ updated: 2026-10-22
 > - **2010 年代至今 — [[Critical Thinking\|批判性思维]]干预实证综合** Abrami et al. 将真实性/抛锚式教学提炼为批判性思维教学的三大[[Central Phenomenon\|核心范畴]]之一，通过大规模[[Meta-analysis\|元分析]]确立了其在实证干预中的关键地位。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

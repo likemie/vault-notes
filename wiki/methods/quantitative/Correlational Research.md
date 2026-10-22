@@ -100,11 +100,7 @@ created: 2026-05-05
 updated: 2026-10-22
 ---
 
-# Correlational Research
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统一归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
@@ -119,8 +115,6 @@ updated: 2026-10-22
 > 观察与相关性研究被明确界定为不操纵自变量且包含定量数据的非干预实证研究。这类研究能够在大规模自然教育情境中描摹变量间的真实分布与潜在关联模式，构成了因果假设生成的经验起点；但由于其缺乏将处理组与对照组完全隔绝的实验[[Counterfactual\|反事实]]设计，极易受到未观测混杂因素的污染，绝不能直接等同于因果干预依据。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 3–4)]]
 
 ---
-
-## 方法定位
 
 > [!concept-lens] 概念辨析：观察性研究（Observational Study）与相关性研究（Correlational Research）的范畴区隔
 > - **[[Causality\|因果推断]]维度的上位与下位关系**
@@ -144,16 +138,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. **界定理论假设与[[Variable\|变量]]关系** 基于已有理论或实地现象提出待验的变量关联假设，明确[[Independent Variable\|预测变量]]（自变量）、[[Dependent Variable\|效标变量]]（因变量）与潜在混杂变量。
 > 2. **样本抽取与测量工具选取** 确定[[Study Population and Sample\|目标总体]]并采用概率或[[Non-probability Sampling\|非概率抽样]]；选用具备良好信效度的量表、[[Questionnaire\|问卷]]或统一学业测验工具。
 > 3. **常态情境数据收集与清洗** 在不改变课堂与学校常规运作的前提下采集数据，筛查异常值、多重共线性与系统性缺失值。
 > 4. **统计建模与混杂因素控制** 依次进行双变量相关检验与纳入[[Pre-test and Post-test\|前测]]成绩、人口学特征协变量的[[Multiple Regression\|多元回归]]模型估计。
 > 5. **审慎解释关联与报告边界** 报告[[Effect Size\|效应量]]、判定系数与[[Confidence Interval\|置信区间]]，明确界定研究结论的非[[Causality\|因果性]]质与推广边界。
-
-### 量化方法模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 常见为单时间点的横截面截面数据，或具有时间跨度的面板追踪数据（Panel Data）。
@@ -212,8 +202,6 @@ updated: 2026-10-22
 
 ---
 
-## 审评标准与质量控制
-
 > [!eval-framework] 法定分级与审评准则对比
 > - **[[Every Student Succeeds Act\|ESSA]] Tier III（Promising Evidence，有希望证据）法定准则**
 >   - 根据 ESSA 联邦法案规定，合规的 Tier III 相关性研究必须是 **“设计良好且实施良好、具备统计控制选择偏误的相关研究（Well-designed and well-implemented correlational study with statistical controls for selection bias）”**。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 162)]]
@@ -224,8 +212,6 @@ updated: 2026-10-22
 >   - 因此在联邦循证政策生态中，相关性研究作为兜底性因果门槛，常在缺乏高级别实验干预[[Evidence Era\|证据时代]]替作为过渡性参考。
 
 ---
-
-## 适用场景
 
 > [!method-fit] 适用判断
 > - **适合使用**
@@ -239,8 +225,6 @@ updated: 2026-10-22
 >   - **严禁脱离控制变量进行简单二元关联定论**。
 
 ---
-
-## 局限性与方法学批判
 
 > [!method-limits] 内在方法局限
 > - **反向因果困境（Reverse [[Causality]]）** 相关关系具有对称性。例如在《[[Visible Learning\|可见的学习]]》（Visible Learning）争议中，高[[Academic Achievement\|学业成就]]与高自我概念高度相关，但相关性研究根本无法判定是“高自我概念促进了成绩”，还是“优异成绩塑造了自信心”。
@@ -284,8 +268,6 @@ updated: 2026-10-22
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]] | 方法学批判 | 系统揭示 $r=0.196$ 虚增为 $d=0.40$ 机制，以创造力与自报成绩为例批判因果混淆。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 系统解构将相关研究强行换算为均值差（$r \to d$）的数理漏洞，揭示 $r=0.196$ 虚增为 $d=0.40$ 的机制，并以[[Creativity|创造力]]横向相关与自报成绩自相关为例批判因果伪装（pp. 242, 245）。

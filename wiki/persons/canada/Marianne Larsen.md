@@ -54,11 +54,7 @@ created: 2026-10-01
 updated: 2026-10-22
 ---
 
-# Marianne Larsen
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大比较教育学家、历史社会学家。西安大略大学（Western University）教育学院全职教授，曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长（2016–2017）；在伦敦大学教育学院（IOE）获得哲学博士学位。
@@ -81,8 +77,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2000s — 学科史实证计量与福柯谱系学重构** 运用[[Content Analysis|内容分析法]]系统普查国际期刊论文，以铁证揭露实证量化[[Paradigm|范式]]对历史维度的清洗，力倡运用福柯谱系学激活历史思维。
 >   - **代表著作** *Reinventing the historical in comparative education: Bridging the gap through Foucault* (2001)。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 156)]]
@@ -99,9 +93,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 历史绝非被动储存于档案馆中的死寂事实，而是每时每刻都在塑造当下政策可能性与[[Discourse|话语]]边界的权力/知识[[Champ|场域]]；比较教育学若沦为现时性量化指标与[[Policy Borrowing|政策借用]]公关工具，就会在实质上蜕变为患上“[[Historical Amnesia|历史健忘症]]”的技术附庸。唯有借助历史批判谱系学与多元方法论，将历史维度的深层反思注入跨国比较之中，比较教育才能真正打破对新自由主义通用模型的迷信，发挥解构霸权与拓展社会公正的智识功能。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
 
 ---

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Foreign Languages
-
 > [!metax] [外语学习 · Foreign languages](https://www.visiblelearningmetax.com/influences/view/foreign_languages)
 > 课程 › 其他课程项目
 >

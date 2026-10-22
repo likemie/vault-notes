@@ -59,11 +59,7 @@ created: 2026-09-24
 updated: 2026-10-21
 ---
 
-# Reading Excellence Act
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 政策由美国国会于 1998 年 10 月通过并经克林顿总统签署生效，正式编号为第 105 届国会公法第 277 号（Public Law 105-277）。
@@ -72,8 +68,6 @@ updated: 2026-10-21
 > - **制度位置与功能定性** 政策在制度属性上属于典型的“服务支出规制法案”（Service Statute），其根本立法意图在于为各州与学区向外部机构或商业出版商购买教学培训与课程服务设立联邦公帑支出合规门槛；该法案确立的法定词汇与实证控制逻辑，在未引发广泛学术争鸣的情况下悄然通过，不仅直接派生了 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）中的阅读优先（Reading First）计划，更成为联邦成文法中以实验设计规制公共支出的标准模版。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 13)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 法案通过设立联邦竞争性专项补助基金，首次以联邦成文法形式对阅读概念及科学本位阅读研究做出排他性法定界定，将获取联邦经费的资格与采纳特定实证[[Paradigm|范式]]及语音拼读教学规程强制挂钩。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
@@ -98,8 +92,6 @@ updated: 2026-10-21
 
 ---
 
-## 时间线
-
 > [!timeline] 卓越阅读法案立法时间线
 > - 1997 年 10 月 [[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）正式提出众议院第 2614 号法案（H.R. 2614）。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 8)]]
 > - 1997 年 10 月 6 日 古德林议员在国会发表演说，全面引述[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]（NICHD）儿童发展与行为分支负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）的听证会证词，将语音拼读确立为立法基石。
@@ -109,8 +101,6 @@ updated: 2026-10-21
 > - 2001 年 法案确立的阅读与科研定义被原封不动平移进《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》中的阅读优先计划。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 13)]]
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国国会（立法颁布 P.L. 105-277，比尔·古德林领衔推进）。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 4)]]
@@ -124,8 +114,6 @@ updated: 2026-10-21
 > - **本土反思与合宪抵制** 宾夕法尼亚州等部分地方学区选择不予申请附带严苛教学规约的专项资金，以保护本土行之有效的多元读写课程；2001 年该法案的规制逻辑被全盘平移进 [[No Child Left Behind Act 2001|NCLB]] 阅读优先计划。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 13)]]
 
 ---
-
-## 行动者与利益相关者
 
 > [!actor-grid] 卓越阅读法案权力—利益矩阵（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, pp. 6–10]]）
 > - **高权力 · 高利益 — 关键行动者** 国会教育委员会核心领导层（比尔·古德林）与联邦官僚机构（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]），直接掌控立法程序与科研证据[[Discourse|话语]]霸权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
@@ -155,9 +143,7 @@ updated: 2026-10-21
 
 ---
 
-## 效果与评价
-
-> [!finding-cards|notitle] 效果与评价
+> [!finding-cards] 效果与评价
 > - **确立联邦直接规制教学法与科研标准的立法先例** 法案打破了美国宪政传统中联邦不干预课程的惯例，首次由联邦成文法直接对教学概念（阅读）与证据规范做出排他性法律界定。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **开创以方法学清单规制联邦服务支出的立法模版** 确立了面向服务提供者（Service Providers）的支出合规审查[[Paradigm|范式]]，要求受资助学区购买的方案必须符合严苛的实验因果实证假设检验；这种规制服务支出的立法技术随后被高密度复刻进 [[No Child Left Behind Act 2001|NCLB]]、IDEA 与 [[Higher Education Act of 1965|HEA]] 等联邦大宗教育拨款法案中。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - **奠定 2001 年 [[No Child Left Behind Act 2001|NCLB]] 阅读优先计划的制度蓝本** 法案确立的法定词汇与实证控制逻辑，在三年后被原封不动平移为全美基础教育的最高法定义务。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 13)]]
@@ -170,8 +156,6 @@ updated: 2026-10-21
 > - **4** （项） 法案确立的核心法定发展目标（K-3 阅读、科研规制、家庭扫盲、防误诊）。
 
 ---
-
-## 争议与评论
 
 > [!debates] 政策争议
 >

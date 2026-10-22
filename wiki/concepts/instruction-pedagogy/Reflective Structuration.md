@@ -60,11 +60,7 @@ created: 2026-09-22
 updated: 2026-10-22
 ---
 
-# Reflective Structuration
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Reflexivity|反思性]]结构化（Reflective Structuration，亦作反思性共同结构化、反思结构化）是指在协作[[Inquiry-Based Learning|探究学习]]环境中，共同体成员（学生与教师）在探究活动持续推进的过程中，基于对当前认知进展、突现问题与知识缺口的反思性监控，历时性地共同建构、调整与重组共享探究结构（包括探究方向、社会组织构型、实践流程与正当性价值）的社会与时间机制。该概念将[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）的结构化理论[[Creativity|创造性]]迁移至微观科学课堂，阐明结构不仅是外在强加的先验规则，更是由学习者在行使[[Epistemic Agency|认识能动性]]过程中动态生成并反过来中介后续深层探究的媒介。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 890, 893–894)]]
@@ -86,8 +82,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 探究教学组织模式的机制对比
 > | 维度 | [[Reflexivity\|反思性]]结构化（Reflective Structuration） | 传统脚本化协作（Scripted Collaboration） | 极简指导发现（Unassisted Discovery） |
 > |---|---|---|---|
@@ -99,17 +93,11 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-### 四维共享探究结构体系
-
 > [!feature] 四维共享探究结构维度
 > - **认识框架（Epistemic Framing）** 共同体界定探索什么（What to investigate），包括集体聚类提炼的大问题、意向领域（Wondering Areas）及核心因果解释目标。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 893, 898)]]
 > - **社会构型（Social Configurations）** 共同体界定谁与谁协作（Who connects with whom），打破固定小组壁垒，形成围绕具体问题动态组建与流转的[[Opportunistic Collaboration|弹性探究小组]]（Opportunistic Groups）。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 893–894)]]
 > - **实践框架（Pragmatic Framing）** 共同体界定如何开展探究（How to conduct inquiry），整合[[Theory of Knowledge|知识论]]坛（Knowledge Forum, KF）数字发帖、面对面[[Metacognition|元认知]]研讨、模型建构、权威文本研读及我们知识之最（Best of Our Knowledge, BOOK）视图综合。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 894, 902)]]
 > - **价值与原则（Values and Principles）** 共同体阐明为何如此运作（Why operate this way），依托观点改进、集体[[Epistemic Responsibility|认知责任]]、[[Epistemic Agency|认识能动性]]与对称性知识推进等[[Epistemology|认识论]]准则进行行动正当性辩护。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 894, 917)]]
-
-### 实施流程与双向循环
 
 > [!proc] [[Reflexivity|反思性]]结构化的四阶段实施循环
 > 1. **阶段一｜初始情境锚定与个体疑问激发** 教师设计[[Open-Mindedness|开放性]]体验活动，激活学生的好奇心与初始直觉，学生用便利贴记录原始疑问。
@@ -175,8 +163,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -194,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 开放生成性与教学计划进度的现实冲突
@@ -209,8 +193,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -219,8 +201,6 @@ updated: 2026-10-22
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学五年级（$n = 22$），历时 7 个月（2015.09–2016.04，每周 2 次，每次 40 分钟），人体系统探究 | [[Interactional Ethnography\|互动民族志]]、[[Discourse Analysis\|话语分析]]、[[Network Analysis\|社会网络分析]]（Social Network Analysis, SNA）与典型[[Case Study\|案例研究]] | 意向领域演进数量；BOOK 视图 16 篇反思笔记的问题类型与科学理解层级；KF 15 个视图的发帖互动；眼睛探究组历时轨迹 | 初始共建 8 个意向领域并随进展重构为 12 个领域；16 篇反思笔记中包含 30 个核心问题（解释寻求型 23 个 vs 事实寻求型 7 个；跨领域问题 15 个 vs 单领域问题 15 个）；综合观点科学性编码中 13 篇达完全科学水平（占比 81.25%），2 篇基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇为详细解释（占比 43.75%），2 篇简要解释，6 篇详细事实；KF 累计发帖超 500 篇，SNA 证实全班形成高密度互联网络 | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 详细质性与描述性质料，证实[[Reflexivity\|反思性]]结构化在长周期科学课堂中有效驱动了高水平因果解释与分布式社会连接 |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学案例与探究图景
 > - **五年级人体系统长周期探究（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）**

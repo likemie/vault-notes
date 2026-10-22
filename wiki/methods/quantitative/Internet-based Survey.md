@@ -55,10 +55,6 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-# Internet-based Survey
-
-## 定义
-
 > [!def] 方法定义
 > 互联网调查（Internet-based Survey）是通过互联网进行数据收集的调查方式。其形态从电子邮件发展为电子邮件附带[[Questionnaire\|问卷]]附件，再到电子邮件引导受访者访问网站，或直接使用网站。电子邮件调查往往比网站调查获得更高回应，但网站调查有触及更多参与者的潜力（p.290）。
 
@@ -76,8 +72,6 @@ updated: 2026-10-22
 > *Using the internet for the conduct of surveys is becoming commonplace in many branches of social science. Internet-based surveys have moved from being in the form of emails to emails-plus-attachments of the questionnaire itself, to emails directing potential respondents to a website, or simply to websites.* (p. 290)
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** [[Positivism\|实证主义]]取向，通过标准化在线工具收集可量化数据。
@@ -109,8 +103,6 @@ Dillman et al.（1998a, 1998b, 1999）提出的网站调查原则中，与纸笔
 > 分支指令（如"跳到第13题"）在网站调查中需特别注意以下发现：问题字数越多，正确执行分支指令的可能性越低；超过七个回答类别时读者可能犯错并忽略指令；将分支指令放在一系列回答框的最后一类旁边比放在前面更安全；首因效应导致受访者倾向于选择列表中较早的项目，因此对后期项目的分支指令做出错误行动；页面底部附近的指令更容易被忽略。这些发现对现代调查平台的逻辑跳转设计仍有参考价值。
 
 ---
-
-## 优势
 
 > [!strength] 互联网调查的核心优势
 > - **成本低、速度快** 数据可在受访者输入时自动处理，无需事后录入。成本优势在参与人数超过约 500 人时尤为显著（Watt, 1997）。
@@ -162,8 +154,6 @@ Reips (2002a)的两项核心策略至今仍是提高在线调查回应率的基�
 
 ---
 
-## 优势与局限
-
 > [!strength] 优势
 > - 成本低、速度快，数据自动处理。
 > - 可触及广泛和多样化的人群，不受地理限制。
@@ -181,16 +171,12 @@ Reips (2002a)的两项核心策略至今仍是提高在线调查回应率的基�
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 需要快速、低成本收集大规模数据的研究；受访者在地理上分散或难以接触；敏感话题（匿名性可提高回答真实性）；组织内部的"封闭总体"调查（员工、学生）；需要复杂跳转逻辑或自动数据整理的[[Questionnaire\|问卷]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d)]]
 > - **谨慎使用** [[Study Population and Sample\|目标总体]]中互联网接入率低的群体（如老年人、低收入群体）；需要严格[[Random Sampling\|概率抽样]]以确保总体代表性的研究；需要控制完成环境或验证受访者身份的场景。
 > - **不适合使用** 需要严格[[Causality\|因果推断]]且无法控制混淆[[Variable\|变量]]的[[Experimental Research\|实验研究]]；目标总体的[[Sampling Frame\|抽样框]]无法在线上构建的情境；需要深度质性数据且无法通过线上访谈实现的场景。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** 志愿者偏误（自我选择参与）；覆盖误差（并非每个人都有互联网接入）；无回应偏误（无回应者系统性不同于回应者）；社会期望偏误（即使匿名，在线环境仍可能存在）；自我报告偏误。
@@ -208,8 +194,6 @@ Reips (2002a)的两项核心策略至今仍是提高在线调查回应率的基�
 > | [[Pilot Testing]] | 辅助方法 | 在线工具的试测需特别关注跨平台兼容性和用户界面体验。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d)]] — 系统讨论了互联网调查的设计原则、技术问题、抽样挑战、伦理问题及提高回应率的策略（表 13.3）。

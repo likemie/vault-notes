@@ -51,13 +51,9 @@ created: 2026-05-08
 updated: 2026-10-22
 ---
 
-# Goal-Controlled Mode
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 目标掌控模式（Goal-Controlled Mode）是大学生组织大学生活的一种实践图式，其特征是：入学后尽早确立清晰的生涯方向与职业目标，有意识地了解大学制度规则和不同毕业出路的要求，据此有针对性地安排[[Academic Engagement\|学业投入]]与课外活动，将大学资源有效转化为毕业出路的竞争优势。该概念由[[Yajun Zheng\|郑雅君]]（2023）在对中国两所顶尖[[Research Universities|研究型大学]] 62 名毕业班学生的跟踪访谈中提出。
 
 > [!quote|notitle]

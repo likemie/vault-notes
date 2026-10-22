@@ -44,11 +44,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# CREATES Project
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2017–2020 年，覆盖荷兰、德国、英国等 6 所欧洲文理学院（Liberal Arts and Sciences Colleges）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 8)]]
@@ -58,16 +54,12 @@ updated: 2026-10-22
 
 ---
 
-## 经过
-
 > [!dev-timeline] 事件经过
 > - **2017 — 确立自主与共创学习框架** 联合欧洲跨学科拔尖人才培养实验区，提出“响应式、投入式与主动式高等教育（CREATES）”原则。
 > - **2018–2019 — 研发 4 大工具包（Toolkits）** 开发成套教师与学生工具包，涵盖自主课程设计、共创式评分量规（Co-creating Assessment Rubrics）、学生主导的学术研讨与多元同伴互评。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 8)]]
 > - **2020 — 全欧推广与教师研修** 在全欧文理学院与综合性大学开展工作坊，推广共创式评价[[Paradigm\|范式]]。
 
 ---
-
-## 关键文件／声明
 
 > [!citation-card] CREATES 评价共创宣言
 > 学业考核不应仅仅是教师单向度的裁判，而应当成为学生与教师共同设计评价标准、反思学习过程并激发[[Creativity\|创造性]]潜能的合作性探究过程。

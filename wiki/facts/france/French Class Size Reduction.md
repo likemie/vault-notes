@@ -37,8 +37,6 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# French Class Size Reduction
-
 > [!info] 背景
 > 2017 年，法国教育部在弱势地区缩小一、二年级[[Class Size\|班额]]，目标是减少富裕背景学生与贫困背景学生之间的[[Academic Achievement\|学业成就]]差距([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
@@ -51,9 +49,7 @@ updated: 2026-10-22
 > [!example] 实施情况
 > 政策实施需要大量新增教师。它是 Pellegrini & Vivanet 所说“部分基于证据”的案例：法国教育部在政策前查阅了 Bressoux 等 2003 年研究，该研究显示[[Class Size\|班额]]缩减对阅读和拼写有小幅正效应([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.27]])。
 
-## 效果与评价
-
-> [!success|notitle]
+> [!success] 效果与评价
 > 这一政策体现了政策制定者愿意使用证据的积极态度，但相关证据并不强。Bressoux 等后续研究显示[[Class Size\|班额]]对[[Academic Achievement\|学业成就]]的效果会随时间减弱；[[Campbell Collaboration]] 的[[Meta-analysis\|元分析]]显示，班额缩减对阅读有小但显著的正效应，对数学则为负且不显著([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27-28]])。
 
 > [!info] 核心数据

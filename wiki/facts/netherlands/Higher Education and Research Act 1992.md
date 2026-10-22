@@ -51,11 +51,7 @@ created: 2026-10-12
 updated: 2026-10-15
 ---
 
-# Higher Education and Research Act 1992
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1992 年由荷兰议会（States General of the Netherlands）正式通过，1993 年起全面实施。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
@@ -64,8 +60,6 @@ updated: 2026-10-15
 > - **制度位置** 承接 1985 年《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书的治理理念，并将 1986 年《高等专业教育法》大兼并试验成果升华为涵盖全高教系统的国家基本法，标志着[[Steering at a Distance|远距离操纵]]公共治理[[Paradigm|范式]]在法律维度的最终定型。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 136, 146)]]
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 1992 年《高等教育与科研法》（WHW）是荷兰高等教育的现代宪章；它废除了国家对大学的事前课程与编制审批，将[[Research Universities|研究型大学]]与应用科技大学统一置于宏观框架法下，法定确立了高校自治法人地位、整笔[[Block Grants|总额预算]]拨款、对话式发展规划（[[Higher Education and Research Plan|HOOP]]）与事后独立同行质量评估体系。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 146, 150)]]
@@ -83,8 +77,6 @@ updated: 2026-10-15
 
 ---
 
-## 时间线
-
 > [!timeline] 政策时间线
 > - **1985** 荷兰教育与科学部发布《[[Higher Education Autonomy and Quality|高等教育自主与质量]]》（HOAK）白皮书，首次提出废除《学术法令》并制定统一框架法的构想。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 135)]]
 > - **1986** 议会通过《高等专业教育法》（WHBO），率先在 HBO 领域开展自愿兼并与总额拨款试点。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 145)]]
@@ -93,8 +85,6 @@ updated: 2026-10-15
 > - **1993** WHW 法案正式生效施行，荷兰高教[[Steering at a Distance|远距离操纵]]体系全面法制化。
 
 ---
-
-## 实施情况
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 荷兰议会二院与一院，立法授权教育部行使宏观监督。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
@@ -109,16 +99,12 @@ updated: 2026-10-15
 
 ---
 
-## 影响与政策成效
-
 > [!finding-cards] 关键政策成效
 > - **消解二元法律壁垒** 打破了传统大学作为学术殿堂与高等专科学校作为中等职业附属机构的身份鸿沟，确立了荷兰现代“双轨并重”的高等教育体系。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 146)]]
 > - **行政规制大幅松绑** 清理了数以千计的审批规程，大学管理层得以自主设立跨学科研究所、调整教学大纲并按战略目标调配经费。
 > - **树立欧洲框架立法典范** WHW 法案被[[OECD|经济合作与发展组织]]（OECD）誉为大陆法系国家摆脱科层管制泥潭的最成功范本，深刻影响了北欧及德国各联邦州的高教立法改革。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 154)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 政策争议焦点
 >
@@ -127,8 +113,6 @@ updated: 2026-10-15
 > > - **基克特与政策起草者（[[Argument_Kickert_1995_Governance|Kickert, 1995]]）** 坚决驳斥这一质疑，指出 WHW 在法律上永久剥夺了教育部插手微观课程与编制的权力，将治理主体、客体、工具与目标彻底重构，是无可争辩的实质权力下放。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
 
 ---
-
-## 相关研究
 
 > [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 系统记录荷兰 1992 年 WHW 法案的起草背景与制度内核，实证论证统一框架法在确立高校自治与[[Steering at a Distance|远距离操纵]]中的里程碑意义。

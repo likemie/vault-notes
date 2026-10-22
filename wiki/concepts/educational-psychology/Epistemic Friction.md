@@ -77,12 +77,9 @@ created: 2026-09-02
 updated: 2026-10-22
 ---
 
-# Epistemic Friction
 （[[Epistemology|认识论]]摩擦 / 生产性认知摩擦）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology|认识论]]摩擦（Epistemic Friction）是指认知主体在面对挑战性证据、异质视角、认知失调或复杂决策情境时，所经历的**生产性智识阻力、[[Reflexivity|反思性]]张力与深层心智挣扎**。在社会认识论中，它被视为打破封闭信念体系与抵御认知傲慢的必要调节器；在学习科学与[[Man-Computer Symbiosis|人机协同]]决策中，它是迫使个体调用[[Working Memory|工作记忆]]、激活[[Metacognition|元认知监控]]、抵御算法盲从并校准批判性信任的核心认知与交互机制。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, pp. 2, 10–12)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 4, 20–25)]]
@@ -114,8 +111,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Epistemology|认识论]]摩擦与相关认知[[Construct|构念]]对比
 > | 比较维度 | 认识论摩擦（Epistemic Friction） | 外在认知负荷（Extraneous Load） | 认知冲突（Cognitive Conflict） | [[Illusion of Competence\|虚假能力错觉]]（Illusion of Competence） |
 > |---|---|---|---|---|
@@ -125,8 +120,6 @@ updated: 2026-10-22
 > | **干预与设计策略** | 嵌入反思机器、[[Defeater\|反驳型击败者]]与反思决策日志 | 优化界面布局、提供结构化模板剥离杂音 | 设置对立证据对比、组织[[Classroom Debate\|课堂辩论]]与同行评议 | 引入闭卷提取练习、提示词溯源与口头答辩 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Epistemology|认识论]]摩擦的核心构成维度与交互支柱
 > - **观点[[Heterogeneity|异质性]]与认识论张力（Heterogeneous Epistemic Tension）** 接触多元、彼此抵触的理论流派或实证反例，迫使认知主体跳出单一权威视角的舒适区。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–12)]]
@@ -212,8 +205,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 认识论摩擦核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -225,8 +216,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Epistemology|认识论]]摩擦的概念演变脉络
 > - **2013 年 — 社会认识论提出** 何塞·梅迪纳（José Medina）在 *The [[Epistemology of Resistance]]* 中首次系统界定“认识论摩擦”，强调边缘群体视角与异质观点对抗主导偏见时产生的生产性阻力。
 > - **2015–2020 年 — 学习科学与[[Cognitive Load Theory|认知负荷理论]]交叉** 学习科学学者将认识论摩擦引入探究性学习与概念转变研究，与比约克（Bjork）的“生产性困难（Desirable Difficulties）”及关联认知负荷（Germane Load）形成理论互通。
@@ -235,8 +224,6 @@ updated: 2026-10-22
 > - **2026 年 — 人机决策安全与批判性[[Trust Calibration|信任校准]]工具** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将认识论摩擦确立为打破强[[Automation Bias|自动化偏差]]与[[Epistemic Deference|认识论顺从]]的核心设计原则，提出基于反思机器与[[Defeater|反驳型击败者]]的交互设计体系。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -258,8 +245,6 @@ updated: 2026-10-22
 
 ---
 
-## 实证数据
-
 > [!ref-table]- [[Epistemology|认识论]]摩擦相关实证研究数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
@@ -269,8 +254,6 @@ updated: 2026-10-22
 > | [[Argument_Jovchevski_2026_PT\|Rosbach et al. (2025; cited in Jovchevski et al., 2026)]] | 28 名计算病理学医生 | AI 辅助肿瘤细胞占比（TCP）估算实验（时间压力条件） | 缺乏[[Defeater\|击败者]]摩擦时专家顺从错误 AI 建议（改对为错）的频数 | 560 次评估中发生 67 次冲突决策；缺乏反驳摩擦时有 38 次专家原本正确但顺从了错误系统提示 | 原文报告频数 | 证实缺乏界面反驳击败者摩擦时，高阶专业人士亦会发生[[Epistemic Deference\|认识论顺从]] |
 
 ---
-
-## 应用案例
 
 > [!example] 典型教学与交互设计应用案例
 > - **人机决策安全中的反思机器与[[Defeater|反驳型击败者]]（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）**
@@ -290,8 +273,6 @@ updated: 2026-10-22
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 在批判整合性综述中区分浪费性摩擦与生产性认识摩擦，论证无摩擦委派如何通过压缩中间认识动作剥夺学习者[[Evaluative Judgement|评价性判断]]的演练机会。
 
 ---
-
-## 条目关联
 
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |

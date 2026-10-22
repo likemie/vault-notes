@@ -80,11 +80,7 @@ created: 2026-10-12
 updated: 2026-10-22
 ---
 
-# Steering at a Distance
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 远距离操纵（Steering at a Distance；荷兰语：*sturen op afstand*）是 20 世纪 80 年代中叶由荷兰教育与科学部在高等教育治理改革中开创、并由欧陆公共行政学界系统化的现代公共治理[[Paradigm|范式]]。该模式标志着政府调控从依赖细密法律禁令、繁琐事前行政审批与输入条件管制的传统科层集权，转向以扩[[Grandes Ecoles|大学校]]组织办学自治为前提、将国家直接干预严格限定于宏观部门层级与事后产出质量评估、并依托统包经费拨款、双年度[[Higher Education and Research Plan|对话式规划]]与非强制激励的系统性间接治理架构。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135, 140)]]
@@ -111,8 +107,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!genealogy] 学术谱系考证与文献同义混用辨析
 > - **双轨并行生成与时代背景差异** 1985 年荷兰《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书创设荷兰语词汇 *sturen op afstand*，后由欧陆公共行政学者 Frans van Vught (1989) 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） (1995) 系统英译为 *Steering at a Distance*，旨在解决大学半自治专业网络中科层直接管制的失灵；几乎在同一时期，英国社会学家彼得·米勒与[[Nikolas Rose|尼古拉斯·罗斯]]（Miller & Rose, 1990, 1992）结合福柯[[Governmentality|治理术]]与拉图尔科学技术学（[[Actor-Network Theory]]），独立铸造了批判空间理论 *[[Governing at a Distance|远处治理]]*（Governing at a Distance）。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，各自回应不同理论问题。
 > - **当代文献中的功能性同义混用** 在当代[[Policy Science in Comparative Education|政策科学]]、教育社会学与公共治理研究中，由于两者均指涉现代国家从直接科层指挥（“划桨”）后撤为设定框架与问责评估（“掌舵”）的整体治理转向，许多文献常将两者作为功能性近义词（Functional Synonyms）互换使用。
@@ -128,8 +122,6 @@ updated: 2026-10-22
 > | **纠偏机制** | 事前逐项审核、发现违规即时叫停与行政通报 | 基于独立质评报告的事后有限干预与信息反馈 | 消费者货币选票淘汰与财政赤字破产清理 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素与运作机制
 > - **调控工具从强制转向说服（Coercion to Persuasion）** 废止指令性审批，代之以基于客观事实与数据论证的双向理性对话与正向行为激励。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 140)]]
@@ -206,8 +198,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -228,8 +218,6 @@ updated: 2026-10-22
 > - **2019 — 规制评估工具统驭多层碎片系统的远程调控实证确认** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 基于全球 158 篇实证文献，揭示标准、统考与问责工具如何作为现代国家在分权化背景下对多层碎片化教育系统实施远程调控（steering at a distance）的核心政策技术（pp. 248–249）。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与批判反思
 >
@@ -252,8 +240,6 @@ updated: 2026-10-22
 > 荷兰教育体系深嵌于由宗教宗派、工会与咨询团体组成的[[Neocorporatism|法团主义]]网络之中；教育系统长久以来宛如自我封闭的教育省，对外来工商业界与劳动力市场的诉求反应迟缓，使远距离操纵旨在构建的敏捷开放系统面临长期的制度文化阻力。[[Argument_Kickert_1995_Governance|(Kickert, 1995, p. 151)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

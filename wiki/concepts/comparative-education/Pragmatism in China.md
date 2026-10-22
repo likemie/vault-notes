@@ -52,11 +52,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-# Pragmatism in China
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > Pragmatism in China（[[Pragmatic Paradigm\|实用主义]]在中国）专指[[John Dewey\|杜威]]实用主义哲学在中国（晚清、民国及建国后）的传播、选择性采纳、制度转译与政治[[Recontextualization\|再脉络化]]历史。它并非对西方原典的忠实复制或被动引进，而是中国教育改革者与政治精英出于救国、制度重构与[[Discourse|话语]]重塑需求，将 Pragmatism 从一个完整的哲学体系拆解为服务于特定政治议程的话语工具。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.68–72]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.609–612]]）
@@ -85,9 +81,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **语义前史与“有用之学”压印** 继承17世纪实学“经世致用”传统，1864年李鸿章提出“所需非所学”，1913年黄炎培发表《学校教育采用[[Pragmatic Paradigm\|实用主义]]之商榷》。中文“用”字将 Pragmatism 整个体系压印为服务现实危机的“有用之学”（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.71]]）。
 > - **[[Hu Shi\|胡适]]的极端化转译与反迷信工具化** 胡适将[[John Dewey\|杜威]]“主要是一种方法”重构为“从头到尾只是一种方法”，消解了温和改革空间；并另选“实验主义”作为打倒迷信的唯一武器（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.72]]）。
 > - **[[Transfer Translation Transformation|3T 框架]]下的结构性拆解（1919–1928）** 经历 Cowen [[Transfer Translation Transformation\|3T 框架]]演进：**转移阶段**拥抱民主理想而忽略渐进方法；**转译阶段**在1922新学制中对民主实施去政治化折算并在1923课程中产生取消农业科的美式错位；**转化阶段**转向《新教育评论》下[[Tao Xingzhi\|陶行知]]与赵乃传倡导的[[Scientific Attitude\|科学态度]]与乡村教育（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–621]]）。
@@ -144,8 +138,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -161,8 +153,6 @@ updated: 2026-10-22
 > - **1949至今 — 建国后三重政治变形** 1950年代被政治批判为反动唯心主义 ➔ 1980年代通过陶行知恢复名誉 ➔ 1990年代至今重构为[[Quality Education\|素质教育]]理论资源与反新自由主义[[Discourse|话语]]盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

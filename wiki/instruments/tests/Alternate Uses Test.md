@@ -54,12 +54,9 @@ created: 2026-09-02
 updated: 2026-10-16
 ---
 
-# Alternate Uses Test
 （另类用途测验 / 非常规用途测验）
 
 ---
-
-## 工具定位
 
 > [!instrument-profile] Alternate Uses Test（AUT）
 > - **工具类型** 认知[[Divergent Thinking\|发散思维]]标准化测验（Divergent Thinking Cognitive Test）。
@@ -74,8 +71,6 @@ updated: 2026-10-16
 
 ---
 
-## 测量构念与维度
-
 > [!construct-table] [[Divergent Thinking]] 与 [[Creativity]]
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
 >
@@ -88,14 +83,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 呈现单一日常物品名称（如“砖块 Brick”、“回形针 Paperclip”、“废旧轮胎 Tire”、“报纸 Newspaper”）。
 > - **作答格式** 开放式文字列表；指导语明确要求：“请列出该物品尽可能多的不寻常、非常规用途。不要列出它的常规用途（如用砖盖房子），尽量写出新颖且切实可行的想法。”
 > - **时间限制与注意事项** 通常每个物品限时 2–3 分钟；排除无意义胡话或纯粹语义重复。
-
-### 典型任务题项
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -108,8 +99,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -121,8 +110,6 @@ updated: 2026-10-16
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 另类用途测验（AUT / GAU） | 大学生创造力干预多层元分析（纳入 Fink et al., 2015; Gu et al., 2023; Lewis & Lovatt, 2013; Onarheim & Friis-Olivarius, 2013; Oppezzo & Schwartz, 2014 等） | 发散性言语与思维客观测量 | 作为言语创造力（$g = 0.606$）与思维训练（$g = 0.762$）核心评估工具，证实训练显著提升大学生非常规用途生成流畅性与原创性 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

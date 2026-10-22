@@ -63,11 +63,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Sigrid Hartong
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国教育社会学与教育治理学者，汉堡联邦国防军大学／赫尔穆特·施密特大学（Helmut Schmidt University Hamburg）人文与社会科学学院教育科学与治理教授。
@@ -88,8 +84,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **2010–2015 — 标准化改革与联邦多级治理比较** 聚焦德国与[[International Education\|国际教育]]体系中的标准本位问责与跨州协调机制，分析国际大规模测评如何重塑国内教育决策议程。
 >   - **代表著作** *Standard-based Education Reform in Germany*。
@@ -106,9 +100,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 哈通主张将数字教育治理视作处于持续变动之中的社会-技术装配（Socio-Technical [[Assemblage]]），强调算法指标、软件架构与数据库业务规则并非客观中立的镜子，而是深嵌政治裁决、规范价值与权力配置的治理媒介；[[Technical Rationality\|技术理性]]承诺的自动化中立闭环在行政现实中必然坍缩为充满妥协与修补的即兴试凑过程，行动者必须在五维做数据张力中艰难权衡。
 
 > [!citation-card] 拓扑学重构与[[Data Infrastructure\|数据基础设施]]的治理权力
@@ -123,9 +115,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将[[Science and Technology Studies\|科学技术研究]]（STS）与批判性数据研究有效嫁接至教育治理研究，打破了长期以来将量化监测技术仅仅视为中立工具的[[Positivism\|实证主义]]局限，丰富了[[Data Infrastructure\|数据基础设施]]与[[Technical Rationality\|技术理性]]的社会学批判维度。
 > - **方法路径** 倡导深度结合组织架构分析、技术白皮书挖掘与多业务线半结构化[[Expert Interview\|专家访谈]]的质性经验进路，为研究复杂数字[[Bureaucracy|官僚制]]提供了极具启发性的做数据张力分析工具与可视化模型。
 > - **政策路径** 其实证研究成果向德国及欧洲教育行政决策者清晰揭示了高利害数据问责引发的防御性造假与信任侵蚀，为德国各州坚守低利害诊断问责、抵制粗暴学校排名榜提供了重要学术论证支撑。
@@ -142,8 +132,6 @@ updated: 2026-10-22
 > - **田野考察机构** [[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ）、[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）、[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） — 构成其揭开数据治理黑箱的核心经验考察对象。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

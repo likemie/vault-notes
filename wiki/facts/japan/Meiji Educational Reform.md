@@ -49,11 +49,7 @@ created: 2026-10-16
 updated: 2026-10-22
 ---
 
-# Meiji Educational Reform
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > **明治学制改革（Meiji Educational Reform / 1872年《学制》改革）** 是非西方世界在殖民危机与工业革命双重冲击下，由民族国家最高政治权力主导的“拼盘式（Eclectic）”跨国多源制度借用与近代教育创生的经典典范。该改革表明，面对生存危机，主权国家特派精英能够高度理性化地肢解西方不同强国的优势制度片段，在本土自上而下强行[[Assemblage|组装]]出全新的现代化[[Education for All|全民教育]]体制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
@@ -65,8 +61,6 @@ updated: 2026-10-22
 > - **直接导火索 / 触发事件** 1853 年美国佩里舰队“黑船来航”，以坚船利炮彻底击碎幕府国防幻象，使日本精英将西方科技优势深刻归因于其背后的现代国民教育体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
 
 ---
-
-## 发展经过与演变阶段
 
 > [!dev-timeline] 事件推进历程
 > - **1853–1868 — 危机觉醒与求知于世界**
@@ -83,16 +77,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献与历史声明
-
 > [!citation-card] 黑船冲击与西方教育的多国拼盘式借用
 > 当日本人面对暴露其技术落后的‘黑船’时，他们将教育视为西方霸权的‘秘密钥匙’。如果日本想同西方竞争，就必须借用西方教育。欧洲教育家被聘用直接管理在日机构，日本领袖与知识分子被派往欧美考察教育实践。其行政模型借鉴法国；男女同校的普通学校作为学制基本单元、[[Normal School|师范学校]]与职业农业[[Policy Borrowing|教育借用]]自美国；而德国大学则被作为创建[[Imperial Universities|帝国大学]]的样板。[[Argument_Beech_2009_GlobalGarden|(Passin, 1965; Tanaka, 2005, cited in Beech, 2009b, pp. 341–342)]]
 >
 > *When the Japanese were faced with the 'Black Ship', which revealed their technological underdevelopment, they saw education as one of the 'secret keys' of the power of the West (Passin, 1965). If Japan wanted to compete with the West it had to borrow Western education ... The administrative model was taken from France. Co-educational common schools ... normal schools and vocational education were transferred from the USA; and German Universities were taken as a model for creating the Imperial University (Tanaka, 2005; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b: 341]]).*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **明治维新维新官僚集团** 文部省与海归政治精英 — 将教育视为“富国强兵、殖产兴业”的核心杠杆，凭借国家政权强行粉碎封建藩篱。
@@ -101,8 +91,6 @@ updated: 2026-10-22
 > - **广大底层平民农户** 在 1870 年代初因沉重就学税赋与劳动力被剥夺爆发强烈抵制，焚烧数百所新式小学，迫使政府放缓分权与私费步伐。
 
 ---
-
-## 历史后果与深远影响
 
 > [!indicators] 历史影响维度
 > - **亚洲首个全民义务教育体系成型** 截至 20 世纪初，日本小学入学率飙升至 95% 以上，创造了非西方国家工业化与国民识字率跃升的世界奇迹。

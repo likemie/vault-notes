@@ -42,8 +42,6 @@ created: 2026-05-22
 updated: 2026-10-22
 ---
 
-# Take the World Upon Oneself
-
 > [!info] 定义
 > 以天下为己任（Take the World Upon Oneself）是[[Confucian Learning Tradition\|儒家学习传统]]中[[Self-Cultivation\|修身]]的公共面向——个人的道德完善不是终点，修身者必须承担起对家庭、社群、国家和天下的道德责任。[[Mencius\|孟子]]是第一个明确提出这一思想的儒家思想家，"以天下为己任"中的"己任"（weight）指一种不可推卸的责任([[Argument_Li_2012_Cambridge\|Li, 2012, pp.45-46]])。
 
@@ -51,9 +49,7 @@ de Bary 将其概括为："这与道德生活和行为中的意志主义相一�
 
 ---
 
-## 核心要素
-
-> [!abstract|notitle]
+> [!abstract] 核心要素
 > 1. **从[[Self-Cultivation\|修身]]出发的扩展** 以天下为己任不是独立于[[Self-Cultivation\|修身]]的单独追求——它从个人修身起点出发，逐步扩展到家庭（齐家）、国家（治国）和天下（平天下）([[Argument_Li_2012_Cambridge\|Li, 2012, pp.46-47]])
 > 2. **不可推卸的道德责任** "一个人从个体起点开始，逐渐扩展到人类生活的更大范围"——这不是选择，而是修身的必然外溢
 > 3. **道德高于政治权力**[[Junzi\|君子]]（道德力量）与君主（政治权力）的关系中，"前者拥有优越的道德力量，尽管缺乏政治或社会权力"——君子服务于君主不是为名利，而是确保君主行仁([[Argument_Li_2012_Cambridge\|Li, 2012, p.45]])

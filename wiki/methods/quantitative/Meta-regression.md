@@ -81,11 +81,7 @@ created: 2026-08-19
 updated: 2026-10-22
 ---
 
-# Meta-regression
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 元回归（Meta-regression）是在[[Meta-analysis\|元分析]]框架下，以各纳入初级研究的[[Effect Size\|效应量]]为[[Dependent Variable\|因变量]]、研究层面的特征（调节[[Variable\|变量]]）为[[Independent Variable\|自变量]]，通过加权回归分析检验调节变量对效应量[[Heterogeneity\|异质性]]解释力的统计方法体系。它将元分析的[[Interaction Effect\|调节效应]]检验从离散分类子组比较推广到连续数值变量及多元复合模型，依据各研究的抽样精度（抽样方差倒数）与研究间真实异质性方差进行广义[[Inverse-Variance Weighting\|逆方差加权]]估计。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, pp. 1098–1102)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 5–6, 10–11)]]
@@ -97,8 +93,6 @@ updated: 2026-10-22
 > - **输出形式** 回归截距 $\beta_0$、斜率系数 $\beta_j$、[[Standard Error\|标准误]]、95% [[Confidence Interval\|置信区间]]（CI）、模型整体检验量 $F$ 或 $Q_{\text{model}}$、残余异质性 $\tau^2_{\text{residual}}$ 及拟 $R^2$ 解释比例。
 
 ---
-
-## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** [[Positivism\|实证主义]]后设整合：将单项实证研究视为带有[[Sampling Error\|抽样误差]]与情境约束的数据点，通过跨研究的[[Multiple Regression\|多元回归]]建模提取超越单一情境的稳健调节规律。
@@ -117,16 +111,12 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
 > [!proc] 通用程序
 > 1. 明确理论假设：预设哪些连续型或分类型研究特征（如量表[[Reliability\|信度]]、人均 GDP、发表年份、干预时长）可能系统性[[Interaction Effect\|调节效应]]量大小。
 > 2. 系统检索与文献筛选，提取各研究的[[Effect Size\|效应量]]指标（如 Hedges' $g$、Pearson $r$、Fisher's $z$）及其抽样方差 $v_i$，并对调节[[Variable\|变量]]进行标准化编码。
 > 3. 计算合并效应与[[Heterogeneity\|异质性]]检验，评估总异质性 $Q_{\text{total}}$ 与[[Between-Study Variance\|研究间方差]] $\tau^2$ 是否显著，确立开展元回归的统计前提。
 > 4. 构建加权[[Random-Effects Model|随机效应]]元回归模型，估计截距 $\beta_0$、偏回归系数 $\beta_j$、[[Confidence Interval\|置信区间]]及模型解释方差比例 $R^2_{\text{analog}}$。
 > 5. 进行模型诊断：检验残余异质性 $Q_{\text{residual}}$、多重共线性、高杠杆异常点及[[Publication Bias\|发表偏倚]]影响。
-
-### 量化方法模块
 
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 研究层面汇总数据矩阵（每行代表一个独立效应量，列包含效应量点估计、抽样方差及若干协变量）。
@@ -205,16 +195,12 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用** 纳入[[Meta-analysis\|元分析]]的研究间存在显著[[Heterogeneity\|异质性]]（$I^2 > 25\%$ 或 $Q$ 检验 $p < .05$），且研究者希望在连续维度上检验假设的调节变量（如样本年龄、干预时长、国家人均 GDP、发表年份、量表信度）。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026)]]
 > - **谨慎使用** 纳入研究数量较少（$k < 10$）时模型自由度不足；调节变量间存在高度多重共线性时系数难以分离；探索性质的元回归需明确声明。
 > - **不适合使用** 旨在推断个体层面的微观因果中介机制；[[Primary and Secondary Documents\|原始文献]]中关键调节[[Variable\|变量]]大面积缺失且无法补齐。
 
 ---
-
-## 局限性
 
 > [!method-limits] 方法局限
 > - **偏误来源** [[Ecological Fallacy\|生态谬误]]（研究层面的[[Variable\|变量]]关联无法直接推导至学生个体）；混杂变量遗漏（由于 $k$ 有限无法同时控制所有潜在混杂因素）；[[Publication Bias\|发表偏倚]]与小样本效应干扰。
@@ -237,8 +223,6 @@ updated: 2026-10-22
 > | [[Reliability]] | 核心应用 | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 通过元回归证明了测量信度是决定效应量大小的底层方法学变量。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以[[Random-Effects Model|随机效应]]元回归检验国家人均 GDP、发表年份与样本性别比例对[[Graphic Organizer|图形组织器]]干预效应的调节作用。

@@ -51,11 +51,7 @@ created: "2026-10-16"
 updated: 2026-10-22
 ---
 
-# Pasi Sahlberg
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 芬兰国际知名教育学者、比较教育政策顾问，曾任芬兰教育部国际交流中心（CIMO）主任、哈佛大学教育研究生院客座教授、墨尔本大学教育学教授。
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2011 / 2015 / 2021 — *Finnish Lessons: What Can the World Learn from Educational Change in Finland?*** 系统阐明芬兰基础教育成功的核心制度支柱：高信任度的专业主义、平等与补偿教育投入、避免标准化统考，与英美 [[Global Education Reform Movement|GERM]] 路线形成鲜明对立。
 > - **2012 — *Global Education Reform Movement is Here!*** 正式发表论文确立 GERM 诊断框架，详细列出标准化、识字算术窄化、低风险测试向高风险问责异化、企业管理主义借用及家长[[School Choice|择校]]竞争等五大病理特征。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
@@ -86,9 +80,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 萨尔伯格论证，真正的教育卓越绝不可能通过强化外部监视、将教师异化为打卡技工或引入跨国资本贩卖速效处方来实现。卓越源自对公立教师群体的长期信任与严格的硕士级专业培养，源自倡导校际合作而非优胜劣汰的市场淘汰，源自对处境不利群体给予倾斜性全额财政保障。新自由主义主导的[[Global Education Reform Movement|全球教育改革运动]]（GERM）所推崇的指标竞赛，实质上是将公共教育重组为可供跨国咨询巨头（如世哲、考文）进行资本变现的特许服务市场。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 25)]]
 
 > [!citation-card] GERM 与新自由主义[[Knowledge Production|知识生产]]的合流
@@ -111,8 +103,6 @@ updated: 2026-10-22
 > - **研究应用者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 将萨尔伯格的 GERM 理论框架作为全文解构 [[Visible Learning]] 意识形态功能的第一基石。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -37,11 +37,7 @@ created: 2026-08-27
 updated: 2026-10-22
 ---
 
-# Exame Nacional de Desempenho dos Estudantes
-
 ---
-
-## 背景
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2004 年由巴西联邦教育部下属国家教育研究院（Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP）正式设立并实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
@@ -50,8 +46,6 @@ updated: 2026-10-22
 > - **制度位置** 作为巴西国家高等教育评估体系（SINAES）三大核心支柱之一（涵盖院校评估、专业评估与学生学业评估）。
 
 ---
-
-## 政策文本摘要
 
 > [!claim] 政策核心
 > 巴西政府依法对即将毕业的本科生实施强制性全国[[Academic Achievement\|学业成就]]测试（ENADE），考核通用核心形成素养（占 25%）与专业学科深度知识（占 75%），并将测试成绩直接与大学质量评级挂钩。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
@@ -63,8 +57,6 @@ updated: 2026-10-22
 > - **约束方式** 法律强制要求（学生必须参加方能获得学士学位证书），评估结果作为联邦政府对大学拨款与办学资格审核的重要依据。
 
 ---
-
-## 时间线
 
 > [!timeline] 政策时间线
 > - 2004 巴西通过《国家高等教育评估法案》（第 10.861 号法令），ENADE 取代原有的 Provão 考试正式诞生。

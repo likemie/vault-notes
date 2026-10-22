@@ -19,11 +19,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 用一两句话陈述该事件的历史性质、在教育史或政治经济格局中的定位及深远意义。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -36,8 +32,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 发展经过与演变阶段
-
 %% 节点少时用 [!timeline]；阶段性演变复杂时用 [!dev-timeline]- 分阶段呈现。 %%
 
 > [!dev-timeline] 事件推进历程
@@ -49,16 +43,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 标志性文件／历史声明
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 运动先锋** [[Person_or_Fact]] — 阶级基础、道德诉求与政治动员策略。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -79,8 +69,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 是否催生了全新的国家教育制度、公立法案或监督体制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **思想范式变迁** 对教育哲学思潮、课程知识合法性或学术研究转向的塑造。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -95,8 +83,6 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > 涉及学校规模、参与总人数、影响年代跨度、法案通过票数等关键历史量化事实。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

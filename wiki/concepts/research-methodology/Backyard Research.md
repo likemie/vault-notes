@@ -29,8 +29,6 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Backyard Research
-
 > [!info] 定义
 > 后院研究（Backyard Research）是 Glesne and Peshkin（1992）提出的概念，指[[Qualitative Research\|质性研究]]者研究自身所在的组织、朋友或直接工作环境的情境。这种研究往往导致研究者在信息披露能力上的妥协，并引发研究者与参与者之间权力不平衡的问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.195）。
 

@@ -109,7 +109,6 @@ argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Journal of Educational Psychology"
 ---
-# Argument_Cartiff_2021_JEP
 
 ---
 
@@ -128,8 +127,6 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-## 理论框架
-
 > [!framework-table] [[Epistemic Cognition\|认识论认知]]理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -142,8 +139,6 @@ journal: "Journal of Educational Psychology"
 > [!warrant]- 理论如何支撑论证
 > 理论模型表明，认识论干预发挥提分作用的核心机制在于引导学生打破朴素认知并建立严密的[[Justificatory Standards\|确证标准]]：当学生认识到知识并不是[[Rote Learning\|死记硬背]]的标准答案、而是基于证据推理的动态产物时，他们面对复杂的学术任务就会主动去寻找可靠论据、分析作者立场并反思对立观点；这种深层的认知加工策略能够直接带来高质量的概念理解与论证表现。
 
-### 核心变量与操作化编码表
-
 > [!coding-frame] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
@@ -155,8 +150,6 @@ journal: "Journal of Educational Psychology"
 > **图表解读** 本表系统界定了[[Meta-analysis\|元分析]]的变量操作化标准，将原本异质的认识论干预文献归入清晰的理论与操作维度，为后续检验因果效应及其[[Heterogeneity\|异质性]]来源提供了统一标尺。
 
 ---
-
-## 研究方法
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -214,8 +207,6 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-## 论证结构
-
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart TD
@@ -229,9 +220,7 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-### 论证步骤一　认识论认知干预能够有效改善学业成绩且因果效应达到中等强度
-
-> [!claim|lead] 步骤一核心主张
+> [!claim] 论证步骤一　认识论认知干预能够有效改善学业成绩且因果效应达到中等强度
 > [[Meta-analysis\|元分析]]合并结果证实，针对[[Epistemic Cognition\|认识论认知]]的教学干预能够带来显著且稳健的[[Academic Achievement\|学业成就]]提升，其平均效应达到中等偏上水平（[[Random-Effects Model\|随机效应模型]] $d = 0.509$），确立了认识论认知的因果改善作用。（p. 485）
 
 #### 1. 实验与准实验干预平均带来中等程度的学业表现提升
@@ -260,9 +249,7 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-### 论证步骤二　提供结构化指导与信源评估规则显著优于无支架的开放式探究
-
-> [!claim|lead] 步骤二核心主张
+> [!claim] 论证步骤二　提供结构化指导与信源评估规则显著优于无支架的开放式探究
 > 干预效果高度取决于具体的教学组织形式：明确讲授证据评估策略的[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）与[[Source Evaluation\|信源评估]]（$d = 0.800$）成效突出，而缺乏指导的自主[[Problem Solving\|问题解决]]（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱且不显著。（pp. 485–486, 492）
 
 #### 1. 讲授具体确证策略的指导式教学相比放任型问题解决和辩论更具优势
@@ -308,9 +295,7 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-### 论证步骤三　认识论干预深度促进高阶论证与概念转变而非底层机械记忆
-
-> [!claim|lead] 步骤三核心主张
+> [!claim] 论证步骤三　认识论干预深度促进高阶论证与概念转变而非底层机械记忆
 > 认识论干预对学业成就的提升具有鲜明的任务层次性：它能够大幅促进高阶论证表现（$d = 1.047$）与深层概念转变（$d = 0.557$），但对公式套用与[[Rote Learning\|机械记忆]]无效；同时因自编测验敏锐捕捉到了深层变化，呈现出未对齐测验效应反常偏高的方法学特征。（pp. 487–488）
 
 #### 1. 论证建构与深层概念测试对认识论提升最敏感而常规程序性任务完全脱节
@@ -381,9 +366,7 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-### 论证步骤四　短周期集中教学比长周期干预更易见效且具有延时内化红利
-
-> [!claim|lead] 步骤四核心主张
+> [!claim] 论证步骤四　短周期集中教学比长周期干预更易见效且具有延时内化红利
 > 实证数据推翻了教育干预历时越长越有效的经验直觉：短期与中期集中干预（$d = 0.615 \sim 0.925$）远优于全学期长周期干预（$d = 0.234, p > .05$）；进一步的交叉列联表明长期干预成效偏低很大程度上是由于选用了不敏感的期末统一考试；延时[[Pre-test and Post-test\|后测]]展现出效应翻倍（$d = 0.966$）的[[Sleeper Effect\|沉睡者效应]]（内化沉淀特征）。（pp. 487, 490–493）
 
 #### 1. 短期干预效果显著而全学期干预面临效应衰减与对照组追赶
@@ -441,9 +424,7 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-### 论证步骤五　中小学是认识论干预的黄金窗口期且常规学科教师完全能够胜任
-
-> [!claim|lead] 步骤五核心主张
+> [!claim] 论证步骤五　中小学是认识论干预的黄金窗口期且常规学科教师完全能够胜任
 > 元分析数据打破了低龄儿童缺乏抽象认识论思维的发育偏见，中小学学生的因果获益（$d = 0.606$）达到大学生的两倍（$d = 0.309$）；常规学科在职教师和计算机软件均能有效实施干预，且准实验与真实验效果高度一致，确立了其在真实大班课堂的可行性。（pp. 487, 490–493）
 
 #### 1. 中小学生尚未固化认知定势因而干预收益是大学生的两倍
@@ -500,8 +481,6 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-## 主要发现
-
 > [!finding-cards] 核心发现
 > 1. **因果改善效应确立** [[Epistemic Cognition\|认识论认知]]干预对[[Academic Achievement\|学业成就]]具有显著且达中等强度的因果促进作用（[[Random-Effects Model\|随机效应模型]] $d = 0.509$），超越常规教育干预基准并经受住了[[Publication Bias\|发表偏倚]]检验。（p. 485）
 > 2. **指导优于放任探索** 明确讲授评估规则的[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）与[[Source Evaluation\|信源评估]]（$d = 0.800$）成效最佳，缺乏支架的自主[[Problem Solving\|问题解决]]（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱。（p. 486）
@@ -518,8 +497,6 @@ journal: "Journal of Educational Psychology"
 > - **$d = 0.606 \text{ vs } 0.309$** K-12 中小学生与大学本科群体之间两倍的因果效应差距。（p. 491）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Epistemology\|认识论]]干预的因果效能与教育前景
 > 我们的分析表明，[[Epistemic Cognition\|认识论认知]]干预平均而言对[[Academic Achievement\|学业成就]]具有积极影响。此外，基于[[Source Evaluation\|信源评估]]和[[Inquiry-Based Learning\|指导式探究]]教学的认识论认知干预尤为具有前景。（p. 477）

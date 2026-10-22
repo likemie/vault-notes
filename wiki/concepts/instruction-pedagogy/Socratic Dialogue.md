@@ -71,11 +71,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-# Socratic Dialogue
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，而是通过界定核心术语、追问潜在前提假设、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代[[Man-Computer Symbiosis|人机协同]]与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] [[Dialogue in Education\|对话教学]]与传统讲授概念辨析
 > | 维度 | [[Socrates\|苏格拉底]]对话（Socratic Dialogue） | [[Socratic Elenchus\|苏格拉底驳诘法]]（Elenchus） | [[Banking Model of Education\|储蓄式灌输教学]] |
 > |---|---|---|---|
@@ -115,8 +109,6 @@ updated: 2026-10-22
 > | **主要应用[[Champ\|场域]]** | 中小学与大学探究式科学/人文课堂 | 哲学思辨与[[Epistemology\|认识论]]审查 | 传统讲授型大班课堂 |
 
 ---
-
-## 核心要素
 
 > [!feature] [[Socrates\|苏格拉底]]教学对话的四阶段探究进程
 > - **初始表述与概念界定** 引导学生就核心议题或观察到的现象提出初始解释，明确界定关键概念与[[Variable\|变量]]。
@@ -179,8 +171,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -191,8 +181,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] [[Socrates\|苏格拉底]]对话概念的演变
 > - **古典希腊时期 — 助产术与哲学思辩** [[Socrates\|苏格拉底]]在雅典城邦实践问答法，[[Plato\|柏拉图]]在《对话录》中将其记录为唤醒灵魂固有知识的理性助产术。
 > - **20 世纪中期 — 现代实践体系建构** Leonard Nelson 与 Gustav Heckmann 将苏格拉底问答改造为规范的小组研讨法，从具体生活经验出发归纳普遍原则。
@@ -201,8 +189,6 @@ updated: 2026-10-22
 > - **2026 — 智能决策系统中的苏格拉底反思机器与[[Epistemic Friction|认识论摩擦]]** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 提出将大语言模型配置为苏格拉底式追问[[AI Agent in Education|智能体]]（Reflection Machines），在人机决策关键节点发起不可预测的探究性追问，通过主动注入生产性[[Epistemic Friction|认识论摩擦]]抵御[[Automation Bias|自动化偏差]]与[[Epistemic Deference|认识论顺从]]，确立苏格拉底对话在现代人机认知安全防护中的核心架构价值。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -228,8 +214,6 @@ updated: 2026-10-22
 > 苏格拉底对话高度依赖提问者的专业素养与临场反应能力，且单次对话耗时较长；在需要迅速传授良构事实、安全操作规范或机械算理的教学情境中，[[Direct Instruction\|直接讲授]]通常具备更高的传递效率。
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

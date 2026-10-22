@@ -84,11 +84,7 @@ created: 2026-06-07
 updated: 2026-10-22
 ---
 
-# Bob Lingard
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 澳大利亚与英国著名教育政策社会学家，澳大利亚社会[[Chinese Academy of Sciences|科学院]]院士（Fellow of the Academy of the Social Sciences in Australia, FASSA）。曾任英国爱丁堡大学教育政策讲席教授（Chair of Education）、澳大利亚昆士兰大学教育学院教授，现为昆士兰大学荣誉教授。
@@ -112,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2001 — *The [[OECD]], Globalisation and Education Policy*（与 Henry, Rizvi, Taylor 合著）** 首次系统解构经合组织从二战后技术官僚协商平台演变为具有自主议程的跨国教育政策行动者的制度轨迹，奠定全球教育治理批判研究的基石。
 > - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Fazal Rizvi]] 合著）** 系统对比 1960–1990 年社会民主主义多元妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示 [[PISA]] 构筑[[Space of Equivalence|等值空间]]与社会公平被[[Economic Fundamentalism|经济基要主义]]残余化的深层机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
@@ -123,9 +117,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 林加德与里兹维等学者的核心主张在于：当代教育政策转型不仅是国家内部行政效率的改进，更是一场由超国家组织驱动的全球性治理[[Paradigm|范式]]与认知图式的历史性剧变。以[[OECD|经合组织]]为代表的国际机构将新自由主义全球化本体化为不可抗拒的外生规律，依托[[New Growth Theory|内生新增长理论]]确立排他性的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”，并通过 [[PISA]] 等标准化测试创造跨国[[Commensuration|通约]]的[[Space of Equivalence|等值空间]]，以“数字即政策”的技术官僚操作隐蔽复杂的政治价值争论，最终将教育从培育民主公民的公共物品降格为追求[[Return on Investment|投资回报率]]的公私混合商品。
 
 > [!citation-card] 经合组织从协商论坛向独立政策行动者的演变
@@ -146,9 +138,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 与 Rizvi 共同确立了教育政策社会学中的“[[Social Imaginary|社会想象]]”分析进路与“[[Governing by Numbers|数字治理]]”（governing by numbers）批判[[Paradigm|范式]]，深刻影响了批判政策社会学、比较教育学与量化社会学[[Comparative Education as a Cross-Sectional Area|交叉领域]]的理论议程。
 > - **方法路径** 倡导将批判政策[[Discourse Analysis|话语分析]]（[[Critical Discourse Analysis|CDA]]）与统计社会学（Desrosières, Rose）相结合，开创了解构跨国量化测评背后“[[Space of Equivalence|等值空间]]构建”与“[[Reliability|信度]]优先于效度”的方法论批判路径。
 > - **政策路径** 其对 [[PISA]]、澳大利亚全国识字算术统考（NAPLAN）及绩效问责体制的严谨学术批判，广泛启发了一线教师工会、进步政策智库与[[Critical Pedagogy|批判教育学]]者抵制过度标准化应试的公共行动。
@@ -160,8 +150,6 @@ updated: 2026-10-22
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 结合林加德关于[[Governing at a Distance|远处治理]]与数字政策的洞见，探讨经合组织如何通过[[Policy Brokerage|政策中介]]工具打包垄断国家行政立法过程。
 
 ---
-
-## 历史评价
 
 > [!citation-card] 比较教育学界论林加德对[[Policy Network|全球政策网络]]的[[Research Contribution|研究贡献]]
 > 林加德与里兹维的研究最为卓越的理论力量在于，他们从未落入简单的外因[[Determinism|决定论]]或国家消亡论，而是以深厚的经验洞察力和敏锐的批判眼光，揭示出全球治理网络如何通过数字、[[Discourse|话语]]和软法，在民族国家内部深刻重塑了教育的政治合法性与治理神经。他们的工作构成了当代理解超国家教育帝国不可逾越的经典路标。
@@ -176,8 +164,6 @@ updated: 2026-10-22
 > - **分析机构／对象** [[OECD]]、[[PISA]]、[[Centre for Educational Research and Innovation|CERI]] — 其长期解构与追踪的核心超国家行动者。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Programmed Instruction
-
 > [!metax] [程序教学 · Programmed instruction](https://www.visiblelearningmetax.com/influences/view/programmed_instruction)
 > 技术、学校与校外策略 › 其他信息技术
 >

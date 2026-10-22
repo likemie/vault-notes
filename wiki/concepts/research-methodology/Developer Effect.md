@@ -55,8 +55,6 @@ updated: 2026-10-22
 >
 > > "We find evidence of a 'developer effect,' where program evaluations carried out or commissioned by developers produced average effect sizes that were substantially larger than those identified in evaluations conducted by independent parties." ([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 428]])
 
-## 核心要素
-
 > [!abstract] [[Effect Size\|效应量]]差异
 > [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] 通过多元[[Meta-regression\|元回归]]模型（multivariate meta-regression）得出以下核心发现：
 >

@@ -68,11 +68,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# PISA Shock in Germany
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 德国 [[PISA]] 震荡（[[PISA Shock|PISA-Schock]] in Deutschland）特指 2001 年底[[OECD|经济合作与发展组织]]（OECD）公布首届国际学生评估项目（PISA 2000）测试结果后在德国爆发的全国性政治、社会与教育政策危机反应。该事件被广泛定性为战后德国教育政策史上的“决定性分水岭”，打破了自 1970 年代以来联邦各州在文化主权壁垒下形成的改革积压，驱动了德国教育治理从输入规制向产出监测的整体[[Paradigm|范式]]翻转。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 135–138)]]
@@ -85,8 +81,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2001–2002 — 震荡爆发与紧急政治动员** 2001 年 12 月主流媒体全面引爆“教育大国衰落”焦虑，德国媒体累计刊发报道达 687 个版面（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 29]]）；[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 迅速打破党派门户之见，于 2002 年通过“七大优先行动领域”，并设立情境化理科教学改进项目（[[SINUS]]、[[Chemie im Kontext|CHIK]] 与 [[Physik im Kontext|PIKO]]）直接对接测评框架。（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]；[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 136–138]]）
 > - **2003–2006 — 产出标准确立与[[Data Infrastructure|数据基础设施]]装配** 2003–2004 年颁布首批国家教育标准（NES）；2004 年在柏林洪堡大学创立[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]；2006 年 KMK 颁布《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》（Gesamtstrategie zum Bildungsmonitoring），建立三级联动监测体系。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
@@ -94,16 +88,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献、法案与历史宣言
-
 > [!citation-card] 标志性文件／历史声明：[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 七大行动领域与国家监测战略
 > [[PISA]] 构成了德国教育政策制定过程中决定性的分水岭。2001 年底 PISA 结果公布后，一套全方位的教育改革议程几乎在德国即刻出台，彻底改变了持续数十年的体制僵局。自 1970 年代以来，德国一直存在宏大教育改革积压，而 PISA 的外部压力彻底改变了这一局面。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Niemann et al. (2017, p. 175)
 >
 > *PISA was a decisive watershed in German education policymaking. Almost instantly after the PISA results were publicized in late 2001, a comprehensive reform agenda was put forward in Germany... a backlog of grand education reforms that had existed since the 1970s was fundamentally transformed by the external pressure of PISA.*
 
 ---
-
-## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 治理重构方** [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 各州教育部长与联邦教育与研究部（[[Federal Ministry of Education and Research|BMBF]]） — 借跨国评估危机打破各州宪制分权壁垒，建立全国统一产出标准。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 136–138)]]
@@ -124,8 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史后果与深远影响
-
 > [!indicators] 历史影响维度
 > - **制度创生与立法** 催生战后首个全国统一的《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》与国家教育标准（NES）。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
 > - **思想[[Paradigm|范式]]变迁** 彻底打破输入规制神话，确立面向真实情境应用的素养与[[Output-Oriented Governance|产出导向治理]]范式。
@@ -143,8 +131,6 @@ updated: 2026-10-22
 > - **20th** 德国在 PISA 2000 的 32 个受测国中阅读、数学与科学均位列第 20 位（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 29–30]]）。
 
 ---
-
-## 史学争鸣与多维评价
 
 > [!debates] 史学评价与当代争议
 >

@@ -72,11 +72,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Kathleen Thelen
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学家，麻省理工学院（Massachusetts Institute of Technology, MIT）福特政治学讲席教授，美国文理[[Chinese Academy of Sciences|科学院]]（American Academy of Arts and Sciences）院士，前美国政治学会（American Political Science Association, APSA）主席（2017–2018），当代[[Historical Institutionalism|历史制度主义]]与比较政治经济学领军学者。
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990年代 — [[Historical Institutionalism|历史制度主义]]流派奠基与劳工政治** 聚焦战后德国等西欧国家的劳工体系与协调资本主义，反思[[Behaviorism|行为主义]]与理性选择[[Paradigm|范式]]的去情境化偏误，确立制度中介[[Variable|变量]]地位。
 >   - **代表著作** *Structuring Politics: Historical Institutionalism in Comparative Analysis* (1992); *Union of Parts: Labor Politics in Postwar Germany* (1991)。
@@ -122,9 +116,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 制度绝非一经建立便处于刚性静止的均衡实体，其政策意图与现实运行之间必然存在持续的缝隙；制度是具有资源分配后果的权力工具，必须将遵从与规则解释确立为动态博弈[[Variable|变量]]；在面临强大否决点使得推倒重建不可行时，行动者通过在既有规则顶端积极叠加新规程、新工具与新载体（[[Institutional Layering|制度层叠]]），或利用裁量权改变规则实施目标（[[Institutional Conversion|制度转换]]），随历史时间推移逐步重塑原有规则地位与行为结构，从而在规避正面政治冲突的同时实现深刻的制度转型（Thelen, 2004; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 4–15]]；[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 11–12]]）。
 
 > [!citation-card] 制度作为权力分配工具与内生变迁动力
@@ -164,8 +156,6 @@ updated: 2026-10-22
 > - **理论对话者** 弗兰克·鲍姆加特纳与布莱恩·琼斯（Frank Baumgartner & Bryan Jones）— 其[[Punctuated Equilibrium Theory|间断均衡理论]]强调外生重大危机驱动的断裂，与希伦强调的内生渐变构成当代制度分析的两大核心对话阵营。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议与理论审视
 >

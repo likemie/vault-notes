@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Visible Learning Meta-X",
+      "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
+    },
+    {
+      "basename": "Family Structure and Achievement",
+      "path": "wiki/concepts/sociology-of-education/Family Structure and Achievement.md"
+    },
+    {
+      "basename": "Self-Efficacy",
+      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
       "basename": "template-fact-event",
       "path": "wiki/templates/template-fact-event.md"
     },
@@ -9,24 +25,12 @@
       "path": "wiki/templates/template-fact-policy.md"
     },
     {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
-    },
-    {
       "basename": "template-person",
       "path": "wiki/templates/template-person.md"
     },
     {
-      "basename": "Self-Efficacy",
-      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
-    },
-    {
       "basename": "template-argument-textbook",
       "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
-      "basename": "Visible Learning Meta-X",
-      "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
     },
     {
       "basename": "Culturally Sustaining Practices",
@@ -195,10 +199,6 @@
     {
       "basename": "Instrument Constituencies",
       "path": "wiki/concepts/educational-policy-reform/Instrument Constituencies.md"
-    },
-    {
-      "basename": "Rational Action Theory",
-      "path": "wiki/theories/sociology-of-education/Rational Action Theory.md"
     }
   ],
   "omittedPaths": [],

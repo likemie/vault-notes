@@ -91,11 +91,7 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Scientifically Based Research
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 科学本位研究（Scientifically Based Research, SBR）是 1998 年美国《[[Reading Excellence Act|卓越阅读法案]]》（Reading Excellence Act, REA）首次在联邦立法中界定、并由 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）与 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（Education Sciences Reform Act, ESRA）全面确立的联邦法定证据准入标准，指“采用严谨、系统和客观的程序以获取与教育活动和项目相关的可靠与有效知识的研究”；该标准明确将实验设计（特别是带有[[Random Assignment|随机分配]]的实验）和严格的[[Quasi-Experimental Designs|准实验设计]]奉为优先青睐的实证方法，作为联邦教育专项拨款申请、教学干预方案采购与学校绩效问责的强制前置条件。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]; [[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 109)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
@@ -117,8 +113,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 联邦证据准入概念演进与辨析
 > | 维度 | 科学本位研究（SBR） | 循证标准（Evidence-Based Standards） | [[Evidence-Based Reform\|证据本位改革]]（Evidence-Based Reform） |
 > |---|---|---|---|
@@ -135,9 +129,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **法定立法源流与术语演变（Statutory Lineage & Term Evolution）** 该标准的成文法表述源自 1998 年《[[Reading Excellence Act|卓越阅读法案]]》在国会参众两院的立法博弈：众议院初版曾试图推行更为狭隘的“可靠且可复制的研究”（Reliable, replicable research），后在参议院经专业组织游说与多方妥协，正式确立为“科学本位阅读研究”（Scientifically based reading research, SBRR），并为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植提供了标准法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **程序系统性与客观性（Rigorous & Objective Procedures）** 要求研究采用严密的经验证据收集与量化分析技术，确保研究结论具备可重复性与跨情境统计效度。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 > - **实验[[Causality\|因果推断]]偏好（Preference for Experimental Designs）** 在法典中明确确立了因果推断方法学等级，优先资助和采纳采用[[Random Assignment\|随机分配]]实验与[[Pre-test and Post-test\|前测]]对照准实验的方案。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
@@ -156,10 +148,6 @@ updated: 2026-10-22
 > ```
 
 ---
-
-## 围绕概念形成的命题
-
-### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -254,8 +242,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议与批判反思
 >
 > > [!axis] 方法学因果实证辩护与知识生态行政规训
@@ -277,8 +263,6 @@ updated: 2026-10-22
 > > - **学术共同体自主与方法契合立场（NRC, 2002; [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003]]）** 坚决反对将方法定义作为联邦强制法令，论证指出科学客观性与知识积累源于探究者共同体的持续审议与严格批判，国家科研机构应与学术领域协同确立质量原则，而非在法律中钦定狭隘方法。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–34)]]
 
 ---
-
-## 边界条件与适用范围
 
 > [!boundary]- 适用边界与制度条件
 > - **规制型法制土壤依赖** 该概念作为硬性法律准入门槛，仅适用于联邦及州政府拥有明确财政专项拨款转移支付与集中问责权力的治理情境；在高度地方分权、依靠专业行会自律的教育体制中无法直接推行。

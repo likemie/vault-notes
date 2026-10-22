@@ -116,7 +116,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-# Argument_Unal_2026_JECR
 
 ---
 
@@ -135,8 +134,6 @@ issuing_organization: ""
 
 ---
 
-## 理论框架
-
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
@@ -152,8 +149,6 @@ issuing_organization: ""
 > [[Bloom's Taxonomy\|布鲁姆教育目标分类学]]与五维高阶思维框架使本研究摆脱了将所有学生产出简单混同为单一成绩指标的粗放模式，将认知产出清晰区隔为基础事实掌握（[[Academic Achievement\|学业成就]]）与复杂探究能力（高阶思维），进而能够实证检验 AI 工具究竟是在取代人类低阶记忆还是真正赋能深层反思。在方法层面上，二阶元分析与 GROOVE 重叠矩阵构成了破除现有证据冲突的技术桥梁：现有 FOM 效应量离散的根源不仅在于实质教学情境差异，更在于文献重叠与质量参差；通过 CCA 矩阵剔除重叠率超过 10% 的冗余元分析，并引入 R-AMSTAR 质量评分与[[Publication Bias\|发表偏倚]]综合诊断，能够有效剥离方法学假象，提炼出真正反映 AI 教育干预效能的稳健证据（pp. 1365–1375）。
 
 ---
-
-### 核心变量与操作化编码表
 
 > [!index-table] 核心[[Variable\|变量]]操作化定义与编码规程（pp. 1370–1374）
 > | 变量维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
@@ -187,8 +182,6 @@ issuing_organization: ""
 
 ---
 
-## 研究方法
-
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
@@ -212,8 +205,6 @@ issuing_organization: ""
 
 ---
 
-### 纳入与排除标准对照表
-
 > [!contrast-table] Table 1. Inclusion and Exclusion Criteria（p. 1368）
 > | 维度 | 纳入标准（Inclusion Criteria） | 排除标准（Exclusion Criteria） |
 > |---|---|---|
@@ -227,8 +218,6 @@ issuing_organization: ""
 > **图表解读** 本标准体系在教学取向上严格区分了人工智能作为教学媒介（AI as medium）与作为学科教学内容（Teaching of AI），确保所有合成[[Effect Size\|效应量]]均代表学生在学科学习中借助 AI 获得的真实增益；在方法学上通过 10% 的 [[Corrected Covered Area\|CCA]] 覆盖率红线，彻底阻断了二阶[[Research Synthesis|证据综合]]中普遍存在的双重加权偏差。
 
 ---
-
-## 论证结构
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
@@ -246,9 +235,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤一　现有 FOM 证据分歧与检索筛选：二阶元分析的必要性与 PRISMA 流程
-
-> [!claim|lead] 步骤一主张
+> [!claim] 论证步骤一　现有 FOM 证据分歧与检索筛选：二阶元分析的必要性与 PRISMA 流程
 > 现有 AI 教育一阶[[Meta-analysis\|元分析]]由于[[Research Scope\|研究范围]]差异、学科聚焦局限及方法学决策不同，导致宏观[[Effect Size\|效应量]]在微弱正向（$ES = .32$）至极高正向（$ES = 1.36$）之间剧烈震荡；必须通过严密的 [[PRISMA]] 2020 流程进行系统检索与准入筛选，以建立高质量[[Meta-meta-analysis\|二阶元分析]]数据集（pp. 1367–1369）。
 
 > [!chain-link] 证据到判断
@@ -268,9 +255,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤二　初级研究重叠审计与质量评级：GROOVE/CCA 矩阵与 R-AMSTAR 检验
-
-> [!claim|lead] 步骤二主张
+> [!claim] 论证步骤二　初级研究重叠审计与质量评级：GROOVE/CCA 矩阵与 R-AMSTAR 检验
 > 文献重叠会导致初级[[Study Population and Sample\|研究样本]]被重复赋予加权方差，从而人为缩窄[[Confidence Interval\|置信区间]]并膨胀假阳性；必须采用 [[GROOVE]] [[Corrected Covered Area\|校正覆盖面积]]（CCA）矩阵剔除重叠率超过 10% 的元分析，并运用 R-[[AMSTAR]] 验证纳入数据集的方法学高质量属性（pp. 1370–1375）。
 
 > [!chain-link] 证据到判断
@@ -317,9 +302,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤三　总体效应合并与异质性检验：AI 对学生成果的中等正向效应
-
-> [!claim|lead] 步骤三主张
+> [!claim] 论证步骤三　总体效应合并与异质性检验：AI 对学生成果的中等正向效应
 > 在[[Random-Effects Model\|随机效应模型]]下，二阶元分析证实人工智能教育应用对学生的整体学习成果产生统计显著的中等程度正向效应（$ES = .67$，95% CI = [.55, .78]，SE = .06）；同时数据集呈现出高度统计[[Heterogeneity\|异质性]]（$I^2 = 84.78\%$），表明真实效应量因教学情境特征产生实质分化（p. 1375）。
 
 > [!chain-link] 证据到判断
@@ -346,9 +329,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤四　分类调节变量分析：教育阶段与学科领域的系统性制约机制
-
-> [!claim|lead] 步骤四主张
+> [!claim] 论证步骤四　分类调节变量分析：教育阶段与学科领域的系统性制约机制
 > AI 教育应用的干预效果受到教育阶段与学科领域的显著调节（$p < .05$）：K12 阶段的效应显著弱于高等教育与混合阶段，计算机科学领域的增益最为突出而数学领域最弱；与此同时，不同 AI 工具类型、学习成果类型及方法学质量等级之间未呈现显著差异（pp. 1376–1377）。
 
 > [!chain-link] 证据到判断
@@ -364,8 +345,6 @@ issuing_organization: ""
 > 2. **学科知识表征与认知机制匹配** 计算机科学（程序设计与算法）具有形式化语法结构和确定性的报错闭环，生成式 AI 代码助手能提供精准的语法纠错、代码解释与逻辑转译，直接移除了初学者的调试阻碍；语言学习依赖高频、低焦虑的语境互动，AI 聊天机器人能扮演耐心的拟真语伴；然而，数学学科涉及多步骤演绎推理、深层空间想象与高度抽象的概念建构（不仅要知其然，更要知其所以然；Young, 2017），当前 AI 往往停留于步骤代数套用或算式表面推导，缺乏启发式概念诊断与数学直觉引导能力（pp. 1380–1381）。
 
 ---
-
-### 分类调节变量分析详表
 
 > [!moderator-summary]- Table 4. Moderator Analysis of FOM Dataset（p. 1377）
 > | 调节[[Variable\|变量]]维度（Moderator） | 亚组类别（Subgroup） | 元分析数 $k$ | 效应量 $ES$ | 95% CI 下限（LL） | 95% CI 上限（UL） | 组间检验 $Q_{bg}$ | 自由度 df | $p$ 值 |
@@ -401,9 +380,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤五　连续调节变量元回归与数据集敏感性分析：研究规模与列表缺失检验
-
-> [!claim|lead] 步骤五主张
+> [!claim] 论证步骤五　连续调节变量元回归与数据集敏感性分析：研究规模与列表缺失检验
 > [[Second-Order Meta-Regression\|二阶元回归]]分析表明，学生样本规模与发表年份不能预测元分析效应量，但纳入的初级研究数量对效应量具有显著的正向预测力；敏感性分析进一步证实，纳入 3 项未提供初级研究清单的 FOM 不会改变二阶综合的稳健性（pp. 1377–1378）。
 
 > [!chain-link] 证据到判断
@@ -445,9 +422,7 @@ issuing_organization: ""
 
 ---
 
-### 论证步骤六　发表偏倚综合诊断与证据审慎性：Egger 显著性与右偏漏斗图解读
-
-> [!claim|lead] 步骤六主张
+> [!claim] 论证步骤六　发表偏倚综合诊断与证据审慎性：Egger 显著性与右偏漏斗图解读
 > 四项发表偏倚检验呈现不一致结果：Egger 回归显著提示存在[[Small Study Effects\|小研究效应]]与右偏倾向，但 Begg-Mazumdar 秩相关与[[Trim and Fill Method\|剪补法]]未检测出实质性偏倚；因此必须对二阶效应量保持审慎乐观的解读态度（pp. 1375–1376）。
 
 > [!chain-link] 证据到判断
@@ -463,8 +438,6 @@ issuing_organization: ""
 > ![](https://img.mylikemie.icu/sources/Unal_2026_JECR/figures/Unal_2026_JECR_Fig3_Funnel_Plot.jpg)
 
 ---
-
-## 主要发现
 
 > [!finding-cards] 核心发现
 > 1. **AI 教育应用产生中等程度显著正向效应** 综合 19 项一阶[[Meta-analysis\|元分析]]与 58,702 名学生的实证数据，二阶[[Random-Effects Model\|随机效应模型]]报告 AI 对学生学习成果的总体合并[[Effect Size\|效应量]]为 $ES = .67$（95% CI = [.55, .78], $p < .001$），全数据集呈现高度异质性（$I^2 = 84.78\%$）。（p. 1375）
@@ -483,8 +456,6 @@ issuing_organization: ""
 > - **19 FOM / 58,702** （ / 名学生） 纳入证据总规模（p. 1371）
 
 ---
-
-## 关键引用
 
 > [!citation-card] [[Meta-meta-analysis\|二阶元分析]]的核心定义与方法学定位
 > "二阶[[Meta-analysis\|元分析]]与一阶元分析类似，两者的主要区别在于数据来源：二阶元分析采用一阶元分析作为其初级数据，而一阶元分析则以独立实证研究为数据来源。"（p. 1367）

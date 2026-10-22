@@ -54,11 +54,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# Revolutionism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 革命主义（Revolutionism，亦称[[Immanuel Kant\|康德]]传统 Kantian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的变革性维度。与关注国家实力的现实主义和关注超国家制度的理性主义不同，革命主义将政治的终极现实置于个人与社会群体之间。它预设存在一个**普遍的人类共同体（universal human community）**，其终极实现要求打破传统的国家主权樊篱，“将国际社会硬化、界定并构建为一个世界国家（worldstate）或超国家”。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
@@ -78,8 +74,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 关键理论构件对照表
 > | 维度 | Revolutionism (革命主义) | [[Realism in International Relations\|Realism (现实主义)]] | [[Rationalism in International Relations\|Rationalism (理性主义)]] |
 > |------|------------------------|------------------|---------------------|
@@ -90,8 +84,6 @@ updated: 2026-10-22
 > | **终极状态** | 统一的普遍世界国家/多元共生世界。 | 无政府状态下的国家地缘对峙。 | 法律与条约约束的跨国治理社会。 |
 
 ---
-
-## 核心要素
 
 > [!feature] 核心要素 (本要素主要归纳自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 426–427]])
 > - **道德激情与传教 [[Praxis]]（Missionary Praxis）** 学术的主要使命不是解释世界，而是通过唤醒心智，解构不平等的压迫机制（如解构西方强加的“心智奴役”），协助边缘受压迫者打破旧秩序。
@@ -130,16 +122,12 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 发展脉络
 > - **16–18世纪 — 宗教与世俗的普遍秩序革命** 以16、17世纪宗教革命和18世纪法国大革命为开端，革命主义将消除苦难的激情投射于武力重建普遍道德社会。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 419]])
 > - **20世纪中叶 — 左右翼极权主义革命与[[Dependency Theory\|依附论]]萌芽** 极权革命表现了道德激情与强力专政的结合；到 1970 年代，该精神在比较教育领域转化为新马克思主义依附论与中心-边缘结构批判。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419, 426]])
 > - **2000s 至今 — 后殖民与去殖民比较教育转向** 革命主义超越了阶级斗争的单一[[Paradigm\|范式]]，将矛头直指[[Epistemic Coloniality\|认识论殖民性]]。它反对依附论提出社会主义作为替代普遍方案的倾向（认为其同样具有霸权性），转而追求与“西方地平线”的彻底脱钩，倡导多元共生的南南[[Knowledge Exchange\|知识交流]]。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 427]])
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

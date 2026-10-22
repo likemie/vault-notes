@@ -55,11 +55,7 @@ created: 2026-09-16
 updated: 2026-10-22
 ---
 
-# Evidence Era
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 证据时代（Evidence Era）是由[[Ian Menter\|伊恩·门特]]（Ian Menter）与约·赫尔盖通（Jo B. Helgetun）提出的教育政策治理[[Paradigm\|范式]]概念（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）。该概念指出，当代教育政策的合法化模式已经超越了[[Gert Biesta\|格特·比斯塔]]（Gert Biesta）所概括的以大规模量化测验与审计文化为特征的测量时代（Age of Measurement），演进为一种更加复杂的技术治理范式：政策制定者不仅依赖统计数据，更广泛借助学术规范式引文、国际经验参考（如芬兰与新加坡经验）、医学化临床类比以及对[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）的推崇，将证据构建为全[[Champ\|场域]]不可动摇的主导性[[Rationalized Myth\|合理化神话]]。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91)]]
@@ -90,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **学术规[[Paradigm\|范式]]引文普及** 政策白皮书与指导文件普遍采用类似学术论文的标准引文格式与参考文献列表，以此彰显政策依据的透明度与客观性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **[[Epistemology\|认识论]]实验层级确立** 在政策[[Discourse|话语]]中极度推崇以 [[Randomised Controlled Trials\|RCT]] 与系统评价为代表的因果实证研究，将医学临床范式作为教师教育改革的理想蓝图。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **去语境化国际参照** 广泛以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）高表现国家（如芬兰、新加坡）作为有效实践的合法性来源。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–92)]]
@@ -134,8 +128,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -150,8 +142,6 @@ updated: 2026-10-22
 > - **2010s 至今 — 证据时代（Evidence Era）的确立** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 提出证据时代概念，论证治理[[Paradigm\|范式]]从单一数据测量扩展为包含学术引文、[[Randomised Controlled Trials\|RCT]] 实验、医学临床与国际最佳实践的复合[[Evidence Network\|证据网络]]。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

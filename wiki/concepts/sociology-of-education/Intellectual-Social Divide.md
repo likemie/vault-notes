@@ -40,13 +40,9 @@ created: 2026-05-24
 updated: 2026-10-22
 ---
 
-# Intellectual-Social Divide
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 知性-社交二分（intellectual-social divide）是 [[Argument_Li_2012_Cambridge|Li (2012)]] 在分析西方 [[Nerd]] [[Peer-Supported Learning|同伴文化]]时识别的四重文化根源之一。这一假设的核心信念是：**理智追求与社交能力是相互排斥的**——如果一个人对学术学习有兴趣并投入努力，那么他一定缺乏社交能力；反之，社交能力强的人不会在学术上投入过多([[Argument_Li_2012_Cambridge\|Li, 2012, pp.91–92, 99]])。
 
 这一假设的运作逻辑是一个隐含的三段论：
@@ -73,9 +69,7 @@ updated: 2026-10-22
 
 ---
 
-## 在 nerd 同伴文化中的功能
-
-> [!warning|notitle]
+> [!warning] 在 nerd 同伴文化中的功能
 > 知性-社交二分是 [[Nerd]] 骚扰的**合理化装置([[Argument_Li_2012_Cambridge\|Li, 2012, p.99]])**。
 
 它的运作方式如下：

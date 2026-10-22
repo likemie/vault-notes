@@ -55,11 +55,7 @@ created: 2026-08-18
 updated: 2026-10-22
 ---
 
-# Integrative Pluralism
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 整合的[[Pluralism|多元主义]]（Integrative Pluralism）是一种旨在化解学科[[Paradigm Wars\|范式战争]]的元[[Theoretical Perspective\|理论视角]]。它承认复杂的现象（如认知）可以在多个聚合层级（levels of aggregation）上同时存在并被独立建模。它主张彻底放弃寻找单一的“大一统理论（grand unifying theory）”，转而承认各理论[[Paradigm\|范式]]在其特定层级上的合法性，并通过在不同层级模型之间建立“因果解释链条”来推进科学理解。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 480)]]
@@ -80,8 +76,6 @@ updated: 2026-10-22
 > | 还原论（Reductionism） | 概念 | 该理论所反对的立场，即认为高层级的现象最终都能被还原（reduce）并完全解释为低层级的物理或心理现象。 |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Epistemic Cognition\|认识论认知]]在三个不同聚合层级上呈现出截然不同且不可互相替代的运作规律。
 > - **前提一** 传统的认知[[Constructivist Paradigm\|建构主义]]只关注个体头脑，而[[Situative Perspective\|情境主义]]只关注社会互动。两者的[[Ontology\|本体论]]冲突源于它们观察的颗粒度（grain size）不同，而非谁对谁错。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
@@ -107,8 +101,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 拥抱多层级现实（Multi-layered Reality）。社会结构、小组互动与个体心智拥有各自独立的本体论地位，高层不能被粗暴还原为低层的叠加。
 > - **[[Epistemology\|认识论]]** 秉持多元论，但拒绝相对主义。认为只有结合多重局部的“解释说明（[[Accounts]]）”，才能逼近真相。
@@ -133,8 +125,6 @@ updated: 2026-10-22
 > - **2016 — [[Epistemic Cognition\|认识论认知]]领域的[[Paradigm\|范式]]奠基** [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] 正式将该理论引入认识论认知研究，将其作为终结该领域“方法论危机”和“发展轨迹合法性危机”的唯一出路。
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

@@ -51,11 +51,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Hacker Ethic
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **黑客伦理（Hacker Ethic）** 是指在 20 世纪 60 至 80 年代美国计算机与软件革命初期孕育形成的以反权威、去中心化、信息自由共享与技术至上为核心的文化价值规范。资深科技记者[[Steven Levy|史蒂文·利维]]（[[Steven Levy]]）在其 1984 年里程碑著作《黑客：计算机革命的英雄》（*Hackers: Heroes of the Computer Revolution*）中对该伦理进行了系统提炼，其核心原则包括：获取计算机的途径应当是不受限制的与完全开放的；所有信息都应当免费共享；打破对集权与官僚的信任并促进去中心化；以技能、代码和[[Creativity|创造力]]而非学历、种族或地位来评判个体；坚信计算机可以创造艺术与美好并从根本上改变世界。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的思想史诊断中，黑客伦理将一切大企业、政府与大学官僚体系定性为阻碍创新与压制人类探索冲动的缺陷系统（Flawed Systems），主张以严谨客观的代码规则取代政治与官僚阶层的专断意志；这一伦理在催生个人计算革命的同时，也切断了技术研发服务于国家战略与公共安全利益的传统责任纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 99–100)]]
@@ -84,8 +80,6 @@ updated: 2026-10-22
 > | **代表人物** | [[Steven Levy]]、[[Lee Felsenstein]]、早期黑客群体 | [[Vannevar Bush]]、[[J. Robert Oppenheimer]] | 当代硅谷消费科技巨头与跨国资本精英 |
 
 ---
-
-## 核心要素
 
 > [!feature] 利维提炼的黑客伦理六大支柱与缺陷系统批判
 > - **获取完全开放（Hands-On Imperative）** 接触计算机以及任何有助于理解世界运行机制的工具应当是完全不受限制的，必须消除一切行政审批与物理阻隔。
@@ -142,8 +136,6 @@ updated: 2026-10-22
 > - **2000s–至今 — [[Consumer Internet|消费互联网]]转型与黑客精神的商业异化** 黑客伦理被硅谷大型科技平台窄化为商业敏捷开发口号，实质退化为唯利是图的[[Consumer Internet|消费互联网]]与政治冷漠的[[Technological Agnosticism|技术不可知论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 102)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

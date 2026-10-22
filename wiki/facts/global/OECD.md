@@ -185,11 +185,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-# OECD
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的奠基者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]

@@ -24,8 +24,6 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
-# Tablets and Touch Devices in Learning
-
 > [!metax] [平板／触屏设备 · Ipads / Touch devices](https://www.visiblelearningmetax.com/influences/view/ipads~touch_devices)
 > 技术、学校与校外策略 › 移动／触屏
 >

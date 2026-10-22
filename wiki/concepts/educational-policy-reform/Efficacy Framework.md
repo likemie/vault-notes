@@ -54,11 +54,7 @@ created: '2026-10-16'
 updated: 2026-10-22
 ---
 
-# Efficacy Framework
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **实效性框架（Efficacy Framework）** 指跨国教育公司对自身研发与销售的教育产品（包括教材、自适应软件、测验工具与教师研训方案）建立的内部因果影响审计与认证机制，要求所有商业产品必须出具提升学生学习成效（Learning Outcomes）的可测量实证依据。该框架于 2013 年由培生集团（Pearson plc）在首席教育顾问[[Michael Barber|迈克尔·巴伯]]爵士（Sir [[Michael Barber]]）主导下创设，在政策社会学中被界定为跨国资本将循证理念工具化、垄断公共教育采购标准并构建排他性准入门槛的[[Discourse|话语]]治理工具。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 77–81)]]
@@ -90,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **预期成效界定（Intended Outcomes）** 商业产品在立项与研发初期必须以[[Operationalization|操作化]]指标定义学生[[Academic Achievement|学业成就]]增长幅度。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
 > - **因果实证证据基础（Evidence Base）** 要求方案设计必须引用经同行评议的高置[[Reliability|信度]]实证研究或内部对照实验数据支撑。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
 > - **[[Implementation Fidelity|实施保真度]]规划（Implementation Plan）** 提供详尽的教师标准化操作手册与配套培训，控制课堂教学偏差。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 79)]]
@@ -146,8 +140,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -162,8 +154,6 @@ updated: 2026-10-22
 > - **2014–2016 年 — 批判政策社会学实证解构** [[John O'Neill|约翰·奥尼尔]]与[[Stephen Ball|斯蒂芬·鲍尔]]等学者揭示其作为跨国商业准入门槛与廉价私立教育（PALF）游说工具的制度本质。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–81)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

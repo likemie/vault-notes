@@ -83,13 +83,9 @@ created: 2026-09-13
 updated: 2026-10-22
 ---
 
-# Theory of Change
-
 ---
 
-## 理论定位
-
-> [!theory-position|notitle] 理论定位
+> [!theory-position] 理论定位
 > - **解释对象** 一套具体的政策干预、教育项目或[[Knowledge Mobilisation\|知识动员]]举措，为何以及通过何种因果链条与内在机制能够产出预期的阶段性与最终结果。
 > - **理论问题** 破解教育干预与知识转化中常见的黑箱问题与一厢情愿假设，解释为什么单纯提供资源或传递信息往往无法自然引发实践变革。
 > - **理论类型** 中层机制解释模型与因果项目评价方法学框架。
@@ -120,8 +116,6 @@ updated: 2026-10-22
 > | [[Implementation and Process Evaluation\|实施与过程评估（IPE）因果核验]] | 方法 | 在干预推进全程对照变革理论检验各个传导环节的依从性与保真度，作为区分理论失败与实施失败的方法学支柱。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008; Edovald & Nevill, 2021, p. 53)]] |
 
 ---
-
-## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜单纯信息传播不足以引发实践变革，必须具备显性的因果链条论证
 > - **前提一** 传统[[Knowledge Mobilisation\|知识动员]]与中介机构往往预设信息赤字假设，认为只要将科研成果包装传播给教师或决策者即可促成[[Research Utilization\|研究利用]]。
@@ -205,8 +199,6 @@ updated: 2026-10-22
 
 ---
 
-## 理论立场与使用方式
-
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将教育改革与知识转化视为复杂社会系统中的非线性因果演进过程，否定机械工程论，肯定行动者的专业能动性与制度制约。
 > - **[[Epistemology\|认识论]]** 坚持现实主义解释（Realist Explanation）与机制论立场，主张干预评价不仅要回答“什么有效”，更要阐明“在何种情境下、通过何种机制对谁有效”。
@@ -247,8 +239,6 @@ updated: 2026-10-22
 > - **2014–2021 — 干预活性成分规范（[[TIDieR]]）与实施[[Implementation and Process Evaluation\|过程评估]]（IPE）因果闭环** Hoffmann et al. (2014) 提出干预描述与复制模板（TIDieR），[[Education Endowment Foundation\|EEF]] 将其制度化为所有资助项目编制 ToC 的准则，要求严格界定核心活性成分与刚柔边界；同时结合英国医学研究理事会复杂干预评估指南（Craig et al., 2008），以[[Mixed Methods Research\|混合方法]] IPE 检验 ToC 各环节假设，实现从理论假设到因果实证的闭环校验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–55)]]
 
 ---
-
-## 争议与批评
 
 > [!debates] 理论争议
 >

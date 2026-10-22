@@ -60,11 +60,7 @@ created: 2026-10-02
 updated: 2026-10-22
 ---
 
-# Federally Funded Research and Development Centers
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 联邦资助研究开发中心（Federally Funded Research and Development Centers, FFRDCs，俗称国家实验室体系）是由美国联邦政府部委全额资助、但依法[[Categorical Funding|委托研究]]型大学、私营工业企业或非营利性科研财团承担日常管理运营的特设科研机构体系，旨在为国家提供超越传统大学实验室与私人企业资本承载能力的长期、大型、高风险及战略性[[Big Science|大科学]]（Big Science）研发能力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
@@ -77,8 +73,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **1942–1947 — 战时起源与[[Manhattan Project|曼哈顿计划]]孵化** 曼哈顿计划期间，联邦政府打破自建军工基地的陈规，与加利福尼亚大学签署合同由其管理洛斯阿拉莫斯实验室（Los Alamos），与芝加哥大学签署合同管理冶金实验室（后为阿贡国家实验室），奠定了大学托管联邦战略实验室的原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 > - **1950–1970 年代 — 冷战[[Big Science|大科学]]扩张与功能分化** 原子能委员会（AEC）与国防部大规模扩建国家实验室网络；体系内逐步分化出两类核心形态：一类是以费米国家加速器实验室（Fermi National Accelerator Laboratory）和劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）为代表的“用户[[Megascience Installations|大科学装置]]型”，另一类是以洛斯阿拉莫斯、利弗莫尔（Livermore）和桑迪亚（Sandia）为代表的“核武与国家安全防御型”。
@@ -86,8 +80,6 @@ updated: 2026-10-22
 > - **2020 年代 — [[Modern Industrial Policy|现代产业政策]]下的制度评估与新型 [[Public-Private Partnership|PPP]] 衍生** 进入 2020 年代，随着《[[CHIPS and Science Act|芯片与科学法案]]》等重大产业战略的实施，美国政府在设计[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）等新型创新中枢时系统评估了 FFRDC 模式，吸纳其战略中立性与长期公共投资优势，同时针对产业中试敏捷度与知识产权弹性演化出独立非营利运营实体（[[Natcast]]）模式。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21–25)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **联邦出资与监管部门** 联邦能源部（[[Department of Energy|DOE]]）、国防部（DOD）、国家科学基金会（[[National Science Foundation|NSF]]）及[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）等，负责设定国家战略目标、拨付年度[[Block Grants|总额预算]]并监督合规安全。
@@ -101,8 +93,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与代表性基地矩阵
-
 > [!finding-cards] 代表性[[Big Science|大科学]]基地矩阵
 > - **高能物理与前沿粒子加速基地** 费米国家加速器实验室（芝加哥附近）、劳伦斯伯克利国家实验室等，建造并运行万亿电子伏特粒子加速器与同步辐射光源，奠定了战后美国在高能物理学领域的诺贝尔奖垄断地位。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–38)]]
 > - **全球顶尖天文与空间观测基地** 双子星天文台（Gemini Observatories，分别位于夏威夷莫纳克亚与智利帕穹山）等，由 [[National Science Foundation|NSF]] 出资委托大学联盟管理，为全球天文学家提供深空探索核心支撑。
@@ -110,16 +100,12 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!finding-cards] 关键成效与制度辐射
 > - **解决大学单一院系无法承担的[[Big Science|大科学]]瓶颈** 随着前沿物理学、射电天文学向极高能量与超高成本演进，单一大学即便依靠捐赠基金亦无力建造粒子对撞机或大型望远镜；FFRDC 模式实现了“国家举国出资建装置、大学自由流动共享”的制度平衡。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 > - **灵活避开联邦公务员编制桎梏** 委托大学或非营利财团运营使科研人员无需纳入联邦公务员行政编制，赋予其实验室在薪酬激励、全球引才、跨国学术交流方面极大的市场化与学术自治弹性。
 > - **冷战国家科技中枢向综合创新的外溢** FFRDC 体系孕育了高级超级计算网络、核医学影像、材料同步辐射探伤等关键民用共性技术，深度反哺了美国现代高新技术产业集群。
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议与制度演化
 >

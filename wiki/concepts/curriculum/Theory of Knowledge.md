@@ -108,11 +108,7 @@ created: 2026-06-30
 updated: 2026-10-16
 ---
 
-# Theory of Knowledge
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 知识论（Theory of Knowledge，TOK）是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）文凭项目（Diploma Programme，DP）的跨学科核心课程。课程至少安排 100 学时，以[[Knowledge Questions\|知识问题]]组织学生对认识过程的探究，要求学生比较不同[[Areas of Knowledge\|知识领域]]如何形成、支持和限制知识。TOK 以[[Critical Thinking\|批判性思维]]为课程主张，其实际内容同时具有鲜明的[[Epistemology\|认识论]]取向。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 30, 35–36)]]
@@ -127,8 +123,6 @@ updated: 2026-10-16
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] TOK、[[Epistemology\|认识论]]课程与通用[[Critical Thinking\|批判性思维]]课程
 > | 维度 | TOK | 一般认识论课程 | 通用批判性思维课程 |
 > |---|---|---|---|
@@ -141,8 +135,6 @@ updated: 2026-10-16
 该辨析把课程标签、内容组织和评估证据分开判断，同时承认认识论探究能够引发部分批判性思维活动。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 35–43)]]
 
 ---
-
-## 制度起源与最初课程形态
 
 > [!timeline] TOK 的创制谱系
 > - **1960 年　牛津先行草图** 牛津大学教育系报告 *Arts and Science Sides in the Sixth Form* 提出在专业课程之外设置一个每年不超过 60 小时的统整板块，讨论各学科的方法和限制，使学生把全部学习经验组成整体。[[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）后来认为，报告采用的 *methodology* 容易让课程被理解为方法论综述，*underlying [[Epistemology]]* 更接近其反思知识根据的目的。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 41–43)]]
@@ -196,8 +188,6 @@ updated: 2026-10-16
 > - **1987 年附录一** 课程已整理为语言与思想、逻辑严谨性、知识体系、价值判断、知识与真理五组主题，并明确规定至少 100 小时、两年实施、教师评价和外部调节；它是成熟版本，不应倒推为 1965 年原貌。制度起点见 [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 29–30)]]，早期课程形态见 [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]，成熟规范见 [[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Appendix 1, pp. 221–224)]]。
 
 ---
-
-## 核心要素
 
 > [!feature] TOK 的课程构成
 > - **跨学科核心** TOK 位于 DP 学科组之间，至少安排 100 学时，并与各学科相互参照、共享部分学习目标。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 35)]]
@@ -400,8 +390,6 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 
 ---
 
-### 命题总览
-
 > [!contrast-table] TOK 的核心命题
 > | 命题 | 核心机制 | 条件或边界 | 代表研究 |
 > |---|---|---|---|
@@ -411,8 +399,6 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > | **反向塑造与阻力** | 课程特性对[[Teacher Beliefs\|教师信念]]的影响及行政脱节 | 课程实施效果与学校管理研究 | [[Argument_Bergeron_2019_JRIE\|Bergeron and Rogers (2019)]] |
 
 ---
-
-## 概念演变
 
 > [!phase] TOK 的课程定位与结构演变
 >
@@ -453,8 +439,6 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 >   后续指南逐步引入认知者与知识核心主题、技术、语言、政治、宗教和本土社会等可选主题，并继续使用知识框架。校内知识展演取代原有口头展示，要求学生通过三个真实物件呈现知识问题，课程的真实情境取向进一步制度化。
 
 ---
-
-## 实证数据
 
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -509,8 +493,6 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > - **科学史与哲学** 通过纽拉特式反基础主义和科学史案例呈现科学知识的形成过程。
 > - **统一论证框架** 以[[Pragma-Dialectics\|语用辩证法]]连接不同学科的论证与评价。
 > - **社会参与** 从学生自身利益、处境和边界出发组织知识探究。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 182–188)]]
-
-### 反思性课程未必转化为实践解放
 
 > [!critique] 学习者与实践的批评
 > - **[[Empty Knower\|空无知者]]预设** 课程可能把学生当作等待理性框架塑造的[[Empty Knower\|空无知者]]，使哲学术语和应试规范压缩情感、[[Conatus\|欲力]]与创造空间。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212, 220)]]

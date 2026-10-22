@@ -36,8 +36,6 @@ created: 2026-05-28
 updated: 2026-10-22
 ---
 
-# University Industry Innovation Network
-
 > [!info] 定义
 > UIIN（University Industry Innovation Network）是一个国际性的产学创新网络组织，致力于推动大学与企业之间的创新合作。它通过出版研究出版物、举办专业活动和建立实践者社区来促进知识分享和网络建设。其旗舰出版物 University Industry Innovation Magazine（UIIM）定期围绕[[University-Industry Collaboration\|产学合作]]的核心议题出版专刊([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, pp.74, 78, 82]])。
 

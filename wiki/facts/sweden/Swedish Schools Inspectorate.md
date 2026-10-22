@@ -55,11 +55,7 @@ created: 2026-10-20
 updated: 2026-10-22
 ---
 
-# Swedish Schools Inspectorate
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 瑞典学校督察局（Swedish Schools Inspectorate；瑞典语 Skolinspektionen）是瑞典中央政府于 2008 年秋设立的国家[[School Inspection|学校督导]]机构，承接原属瑞典国家教育局（National Agency for Education, NAE）的督导职能。督察局负责对学前教育、义务教育、高中、成人教育与特殊学校开展外部督导，并以《教育法》中“科学依据与经验验证”（scientific grounds and proven experience）的要求为制度起点，把教育研究、研究者与[[Scientific Method|科学方法]]纳入督导流程。它因此成为观察[[Research Utilization|研究使用]]如何进入国家教育治理的关键中介。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–647)]]
@@ -72,8 +68,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展历程
 > - **2003 — [[School Inspection|学校督导]]重新引入** 在中断十余年后，瑞典政府委托 NAE 以六年一轮的方式恢复常规学校督导。NAE 自 1990 年代起还承担更广泛的教育评价、部分研究以及资助外部学者开展教育研究的职能；这些职能在 2000 年代被调整，研究不再属于 NAE 的委托范围。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **2008 —督察局成立并独立运作** 新的督导机构督察局于秋季开始运作，承接 NAE 的督导任务。作为新机构，督察局强调满足政府提高[[Academic Achievement|学业成绩]]、学科知识与等值性的要求，并重新设计督导流程。其起点之一是《教育法》对“科学依据与经验验证”的要求。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
@@ -82,8 +76,6 @@ updated: 2026-10-22
 > - **2013 以后 — 评估领域持续更新** 最初的评估领域与指标在此后多年不断变化，督察局持续在网页更新标准，并开发指导材料，帮助学校与办学机构遵守和调整。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 648)]]
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
 > - **局长与高层管理组** 高层管理组由局长（director general）、督导主任（director of inspections）、五名地区部门负责人，以及传播、内部支持、人事、法律等中央职能负责人组成。高层管理组深度参与常规督导评估领域的最终设计，持续提供反馈、评论并决定优先级。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646, 648)]]
@@ -102,8 +94,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心产品与业务矩阵
 > - **常规督导评估领域** 从成功学校研究中提炼约十个评估领域，覆盖成绩与目标达成、教育领导与发展、学习环境、学生权利等方向，并写入督导指令与学校指南。评估领域决定学校与办学机构必须展示什么，是督察局治理注意力的核心装置。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 645, 648)]]
 > - **质量审计知识综述** 汇集国内外研究、调查与评估结果，以及督察局自身经验，声称呈现某一问题领域的“当前知识状态”，并区分既有结果与分析。综述是审计判断与方法选择的知识基础。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 649)]]
@@ -116,8 +106,6 @@ updated: 2026-10-22
 > *In order to Ach&#105;eve Trustworth&#105;ness and reliable results, it is imperative that conventional and scientifically established methods are used. (Skolinspektionen, n.d.b, quoted in Segerholm et al., 2022, p. 646)*
 
 ---
-
-## 影响与体系成效
 
 > [!indicators] 影响力维度与指标
 > - **覆盖范围** 按三年一轮督导所有学前教育、小学与中学、成人教育与特殊学校，按比例覆盖各类办学机构。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
@@ -138,8 +126,6 @@ updated: 2026-10-22
 > 上述指标描述的是督察局的组织规模与制度安排，而非督导对学生成绩或学校改进的因果效果。塞格霍尔姆等人的研究是质性[[Case Study|个案研究]]，关注研究知识如何进入督导工作，不评估督导本身的净效应。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 645, 654–655)]]
 
 ---
-
-## 争议、批评与反思
 
 > [!debates] 核心争议交锋
 >

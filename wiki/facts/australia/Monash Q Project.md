@@ -74,11 +74,7 @@ created: 2026-09-14
 updated: 2026-10-22
 ---
 
-# Monash Q Project
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 莫[[Roy Nash|纳什]] Q 项目（The Monash Q Project）是由澳大利亚莫纳什大学（Monash University）与保罗·拉姆齐基金会（Paul Ramsay Foundation）合作开展的为期五年的旗舰重大研究计划（2019–2024），旨在系统理解并促进澳大利亚中小学对教育研究成果的高质量使用。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 183–184]]）
@@ -90,8 +86,6 @@ updated: 2026-10-22
 > - **核心问题导向** [[International Education\|国际教育]]界长期深陷何谓高质量证据的学术争辩，却极度匮乏关于何谓[[Quality Use of Research Evidence Framework\|高质量研究使用]]的实证探讨；学校虽有获取外部研究的渠道，却往往面临盲从流行、领导独断强加或缺乏时间的异化困境。
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > 项目确立了从跨领域概念建构到学校实证探索、再到支持工具落地的三阶段推进机制，核心假说在于通过明确使用质量标准并激活个体与组织使能条件，能够显著提升一线教师将研究证据转化为教学改善的效能。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 184–185]]）
@@ -109,16 +103,12 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域开展跨界 [[PRISMA]] [[Systematic Review\|系统综述]]与[[Narrative Synthesis\|叙事综合]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献），由 4 位研究员多轮交叉质评，并邀请包括 [[Centre for Evidence and Implementation]]（CEI）在内的跨部门专家网络研讨，确立[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE），奠定跨[[Discipline-Based Theory\|学科理论]]基石。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 133–158)]]
 > - **2020–2021 — 学校实证调查期** 开展两轮大规模标准化[[Questionnaire\|问卷调查]]（Survey 1 样本 492 人，聚焦认知与使用行为；Survey 2 样本 414 人，聚焦促成与阻碍因素）以及 27 场深入访谈（29 位教育工作者），深入剖析一线使用质量的实际表征与制度瓶颈。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 184, 199]]）
 > - **2022–2024 — 工具开发与系统辐射期** 与[[OECD\|经合组织]]（[[OECD]]）合作发布国际专著章节，面向全澳学校推广[[Research Utilization\|研究使用]]质量诊断量表与专业发展支持工具，推动系统层减负与政策支持。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 182–199]]）
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 保罗·拉姆齐基金会（Paul Ramsay Foundation）提供全额战略资助与治理监管。
@@ -132,8 +122,6 @@ updated: 2026-10-22
 > - **学校自测工具转化** 将学术研究发现转化为可操作的学校[[Research Utilization\|证据使用]]成熟度诊断工具与领导力支持指南。
 
 ---
-
-## 成效评估与实证发现
 
 > [!indicators] 评估指标体系
 > - **投入指标** 慈善基金全额资助规模、4 州跨系统学校协作网络建立、跨学科研究人员配置。
@@ -156,8 +144,6 @@ updated: 2026-10-22
 > - **68%** 认为学校内部提供[[Professional Learning Community\|专业学习共同体]]（PLCs）对常规使用研究至关重要的教师比例。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心局限与争议
 >

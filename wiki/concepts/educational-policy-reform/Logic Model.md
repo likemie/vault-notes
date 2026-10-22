@@ -63,9 +63,7 @@ W.K. Kellogg 基金会（2004）在其 Logic Model Development Guide 中对逻�
 > [!success] 适用场景
 > 逻辑模型适用于多组件教育项目，尤其适合[[Technology Infusion\|技术融入]]、全学区改革、学校改进和专业发展项目。此类项目的效果常不会直接表现为短期成绩提升，而是先表现为教师准备、课堂实践、资源使用和学生参与的变化([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.115, 121-123]])。
 
-## 局限性
-
-> [!warning|notitle]
+> [!warning] 局限性
 > 逻辑模型可以帮助组织证据，但不能自动解决价值冲突。[[Students and Teachers Accessing Tomorrow\|STAT]] 中，逻辑模型帮助利益相关者理解实施里程碑和阶段性结果，但当部分群体更重视标准化成就而非技术公平、数字公民或课堂参与时，同一组证据仍会产生分歧解释([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.122-123]])。
 
 > [!warning|notitle]

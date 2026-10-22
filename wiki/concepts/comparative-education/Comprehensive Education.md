@@ -45,11 +45,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Comprehensive Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **综合教育（Comprehensive Education）** 是指在义务教育或中等教育阶段，打破基于学力测试、学术倾向或社会出身过早划分学轨的体制，将所有适龄学生整合于统一的学校形态与共同基础课程之中，以促进社会阶层流动、延缓淘汰分选并保障公民教育权利为目标的教育制度组织原则。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330–331)]]
@@ -72,9 +68,7 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-> [!contrast-table|notitle] 概念辨析
+> [!contrast-table] 概念辨析
 > | 维度 | 综合教育（Comprehensive Education） | [[Tracking\|学力分轨（Tracking）]] | [[Dual School System\|双轨学制（Dual School System）]] |
 > |---|---|---|---|
 > | 分析对象 | 20 世纪民主化中等教育组织形态与一体化学校。 | 中等学校内部按学科成绩分配班级或课程的微观与中观分流机制。 | 19 世纪以阶层身份为基础的终点式平民学校与精英学术学校平行体系。 |
@@ -92,9 +86,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **制度性去分轨** 消除初等教育向中等教育过渡期的淘汰性升学考试，将初中阶段纳入普及一贯制体系。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 323, 330)]]
 > - **共同核心课程（Common Trunk）** 全体学生修习相同或高度重合的基础学术学科，避免过早进入职业技术分支。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **延时分流节点** 将学术与职业教育的正式分叉推迟至义务教育结束（如 16 岁）。
@@ -135,8 +127,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -153,8 +143,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 民主平权与反阶层再生产 vs 拔尖英才培养与学术平庸
@@ -166,8 +154,6 @@ updated: 2026-10-22
 > > - **适度多元修正论者** 14 岁之后青少年的资质与抱负已显著分化，欧洲先进经验表明必须引入技术、艺术与学术选修路径，因势利导才能降低抵触情绪。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 均质综合中学制的实证诊断指标与系统性后果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

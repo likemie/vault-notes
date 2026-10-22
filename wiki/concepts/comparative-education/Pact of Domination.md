@@ -40,11 +40,7 @@ created: 2026-09-28
 updated: 2026-10-22
 ---
 
-# Pact of Domination
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 支配同盟（Pact of Domination）是[[Dependency Theory|依附论]]国家学说与批判教育政治社会学中的核心[[Construct|构念]]，指外围资本主义国家中国内大地主阶级、买办金融-工业资产阶级与跨国垄断资本集团跨越派系分歧所结成的排他性权力同盟与统治契约；该同盟将国家机器异化为维护少数特权阶层利益的“代用国家（Surrogate State）”，使国家在本质上无法履行代表全体公民公意、推动实质教育公平与经济民主化的公共职能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
@@ -60,8 +56,6 @@ updated: 2026-10-22
 > *since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*
 
 ---
-
-## 核心机制
 
 > [!logic-map]- 支配同盟在教育政策中的运作机制
 > ```mermaid

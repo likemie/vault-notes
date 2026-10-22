@@ -83,11 +83,7 @@ created: 2026-08-17
 updated: 2026-10-22
 ---
 
-# Epistemic Stances
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 认识立场（Epistemic Stances）是指个体、专业共同体或国际政策组织对特定知识主张、信息来源或治理模型所持有的差异化承诺程度与[[Reflexivity|反思性]]态度，包括绝对确信、批判性怀疑、暂且接受、作为工作假设（[[Working Hypothesis]]）推演或视其为开放可能性。在学习科学[[Epistemic Cognition|认识论认知]]框架中，该概念取代了传统发展心理学关于“知识要么确定、要么相对”的单一静态发展阶段论；在宏观比较教育与全球治理视阈下，该概念被运用于解构跨国机构（如[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]）在意识形态竞争中对教育本质与发展规律所秉持的规范性认识前设[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]；在当代人工智能中介学习环境中，该概念进一步演进为学习者与生成式系统交互时的**适应性认识立场（Adaptive Epistemic Stances）**，即根据任务风险与系统[[Educational Affordances|可供性]]在工具性信赖、审慎核验与对抗性质疑之间动态切换的主体能力。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, p. 142)]]; [[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 3–4)]]
@@ -121,8 +117,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 认识立场在不同学习情境与治理[[Champ|场域]]中的多维对比
 > | 比较维度 | 传统科学教育认识立场 | 传统个人[[Epistemology\|认识论]]发展论 | 人工智能中介适应性认识立场 | 跨国机构全球治理认识立场 |
 > |---|---|---|---|---|
@@ -132,8 +126,6 @@ updated: 2026-10-22
 > | **规范目标** | 培养符合科学实践的理性审慎 | 从绝对权威崇拜走向[[Reflexivity\|反思性]]承诺 | 维系[[Epistemic Agency\|认识主体性]]与防范有害[[Epistemic Dependence\|认识依赖]] | 为超国家治理方案赋权合法化并重构受援国政策常识 |
 
 ---
-
-## 核心要素
 
 > [!feature] 认识立场的五大核心梯度、共生特征与机构维度
 > - **教条式确信（Dogmatic Certainty / 绝对论）** 将知识或 AI 输出视为不容置疑的既定真理，直接全盘接纳，诱发表面顺从与消极[[Cognitive Offloading|认知卸载]]。
@@ -209,8 +201,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -221,8 +211,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念演变
-
 > [!dev-timeline] 概念演变脉络
 > - **1970–1990 年代 — 确定性阶段论主导** 威廉·佩里（William G. Perry）、帕特里夏·金（Patricia King）与凯伦·基奇纳（Karen Kitchener）等学者将个人[[Epistemology|认识论]]视为由绝对主义（二元确定）向相对主义、再向[[Reflexivity|反思性]]承诺发展的单向阶梯。
 > - **2009 年 — 跨国政策[[Discourse|话语]]与机构认识论立场解构** [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 将认识论立场概念延伸至超国家治理领域，系统解构[[World Bank|世界银行]]（[[Human Capital Theory|人力资本]]投资）、[[UNESCO|联合国教科文组织]]（人文主义）与[[OECD|经合组织]]（混合新自由主义）的表层认识论对立及其深层治理方案同构。
@@ -230,8 +218,6 @@ updated: 2026-10-22
 > - **2025–2026 年 — 人工智能中介与自适应立场转向** [[Argument_Wu_2025_ER|Wu et al. (2025)]] 与 [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 将其引入[[Man-Computer Symbiosis|人机共生]]学习，确立“自适应认识立场”与双轨支架干预矩阵，作为防范有害[[Epistemic Dependence|认识依赖]]、维系关系性[[Epistemic Agency|认识主体性]]的核心机制。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -249,8 +235,6 @@ updated: 2026-10-22
 
 ---
 
-## 应用案例
-
 > [!example] 典型教学与交互案例
 > - **统计推论任务中的人机交互立场分化**
 >   在面对[[Likert Scale|李克特量表]]一致性检验的统计[[Homework|作业]]时，绝对论学生直接采信 ChatGPT 推荐的[[Chi-Squared Test|卡方检验]]并由讲义核对；多元论学生追问不同[[Effect Size|效应量]]公式的区别但不作取舍；评价论学生则针对数据尺度（顺序[[Variable|变量]]）与配对属性连续质询 ChatGPT，识别出麦克尼马尔检验的局限并结合同伴讨论最终选定斯皮尔曼相关。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 362–364)]]
@@ -266,8 +250,6 @@ updated: 2026-10-22
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 比较[[World Bank|世行]]、[[UNESCO|教科文组织]]与[[OECD|经合组织]]在[[Human Capital Theory|人力资本]]与人文主义上的[[Epistemology|认识论]]立场分歧，揭示其在信息时代设想与五大支柱治理处方上的深层同构。
 
 ---
-
-## 相关条目网络
 
 > [!entry-map] 认识立场知识网络与关联矩阵
 >

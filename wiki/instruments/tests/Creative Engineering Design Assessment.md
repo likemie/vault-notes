@@ -42,11 +42,7 @@ created: 2026-09-03
 updated: 2026-10-16
 ---
 
-# Creative Engineering Design Assessment
-
 ---
-
-## 工具定位
 
 > [!instrument-profile] Creative Engineering Design Assessment (CEDA)
 > - **工具类型** 领域特定性工程[[Creativity\|创造力]]表现测验（草图绘制与功能解释测验）。
@@ -55,8 +51,6 @@ updated: 2026-10-16
 > - **实施方式** 纸笔限时设计测验（团体或个别施测，总测验时间约 25–30 分钟）。
 
 ---
-
-## 测量构念与维度
 
 > [!construct-table] 工程设计[[Creativity\|创造力]]与[[Domain Specificity\|领域特异性]]发散表现
 > <span class="instrument-dimension-table-marker" aria-hidden="true"></span>
@@ -70,14 +64,10 @@ updated: 2026-10-16
 
 ---
 
-## 题项与作答方式
-
 > [!instrument-items] 作答规则
 > - **题项形式** 5 个设计情境问题，每个情境提供 3 组给定的三维几何形体（如圆柱体、球体、棱锥）或机械零部件图形线索。
 > - **作答格式** 被试需在限定时间内使用给定的形体组合绘制出具体的工程或生活实用产品草图，并在下方填写名称及具体功能说明。
 > - **反向题与跳题** 无反向题；各任务之间顺序施测；重点考察在物理约束下兼顾新颖性与工程可行性的能力。
-
-### 核心设计任务单元
 
 > [!ref-table]- 题项
 > <span class="instrument-item-table-marker" aria-hidden="true"></span>
@@ -89,8 +79,6 @@ updated: 2026-10-16
 
 ---
 
-## 使用该工具的研究
-
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
@@ -100,8 +88,6 @@ updated: 2026-10-16
 > | Morin et al. (2018) | CEDA 原始版 | 加拿大高校工程专业本科生（$N = 48$），评估基于问题解决的设计思维干预对设计独创性与可用性的影响 | 内部一致性 $\alpha = 0.84$ | 干预组在 CEDA 独创性与工程实用性维度得分显著高于对照组 |
 
 ---
-
-## 版本与适配
 
 > [!ref-table]- 版本索引
 > <span class="instrument-version-table-marker" aria-hidden="true"></span>

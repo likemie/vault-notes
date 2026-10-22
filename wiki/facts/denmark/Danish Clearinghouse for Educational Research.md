@@ -62,11 +62,7 @@ created: 2026-05-23
 updated: 2026-10-22
 ---
 
-# Danish Clearinghouse for Educational Research
-
 ---
-
-## 机构定位与宗旨
 
 > [!claim] 核心定位
 > 丹麦教育研究清算中心（Danish [[Educational Evidence Clearinghouses\|Clearinghouse]] for Educational Research, Danish Clearinghouse）是 2006 年由奥胡斯大学（Aarhus University）丹麦教育学院（DPU）与丹麦教育科学部合作设立的国家级[[Educational Brokerage Agency\|证据中介机构]]，是欧洲大陆较早建立的专业化[[Evidence-Based Education\|循证教育]]清算机构之一；在[[OECD\|经合组织]]（OECD）十五年纵向追踪中，被确立为因高度依赖短期行政采购合同而受制于政治与预算周期的典型夭折案例([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 64–65]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 历史沿革与组织演变
-
 > [!dev-timeline] 组织发展与兴衰历程
 > - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review\|系统综述]]技术标准与文献编码规程([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **2007 — 确立为 [[OECD]] 国际标杆样本** 经合组织在 2007 年标志性研究报告中将该中心列为全球 6 家核心中介机构之一，赞誉其在非英语国家推动[[Evidence-Based Policy-Making|循证决策]]的先驱探索([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])。
@@ -88,8 +82,6 @@ updated: 2026-10-22
 > - **2017 — 资助中断与彻底关停** 伴随丹麦政党轮替与新一届政府财政紧缩，教育科研资助重心发生重组；政府决定不再续签 2–3 年期的清算中心资助合同，该中心因缺乏独立捐赠基金与法定预算而被迫于 2017 年彻底关停（Closed in 2017）([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–65]])。
 
 ---
-
-## 治理架构与运行机制
 
 > [!actor-grid] 组织治理与协同矩阵
 > - **行政委托方（丹麦教育部）** 掌控短期项目合同的发包权与资金规模，按政府政策优先级确定年度重大综述采购主题。
@@ -104,8 +96,6 @@ updated: 2026-10-22
 
 ---
 
-## 核心业务与旗舰产出
-
 > [!finding-cards] 核心业务与学术贡献
 > - **丹麦母语教育[[Systematic Review\|系统综述]]文库** 建立起欧洲大陆首个完全以本土语言呈现的教育系统综述数据库，系统消除了英语霸权给非英语国家教师带来的循证认知鸿沟。
 > - **循证评估方法学培训** 为丹麦教育学研究生与青年研究者提供严格的系统综述技术规程训练，在北欧学界播下严谨实证因果研究的火种。
@@ -118,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 影响与体系成效
-
 > [!indicators] 影响力维度与指标
 > - **欧陆先驱示范** 在欧洲大陆率先落地[[Systematic Review\|系统综述]]机制，摆脱了长期以来对英美英语平台（如英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse\|WWC]]）的被动依赖([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **北欧政策渗透** 撰写的综述结论被丹麦议会辩论与教育部白皮书频繁征引，推动了北欧从意识形态争论向实证证据知情的[[Paradigm\|范式]]转型。
@@ -131,8 +119,6 @@ updated: 2026-10-22
 > - **0** （次） 关停前正式开展的长效成效与[[Return on Investment\|投资回报]]评估，证实了政治淘汰的非理性特征([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
 
 ---
-
-## 争议、批评与存续反思
 
 > [!debates] 核心制度争议
 >

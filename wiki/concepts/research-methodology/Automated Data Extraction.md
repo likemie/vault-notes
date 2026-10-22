@@ -57,12 +57,9 @@ created: 2026-09-18
 updated: 2026-10-22
 ---
 
-# Automated Data Extraction
 （自动化数据提取 / 自动化数据抽取）
 
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化文献全文（如 PDF 格式的期刊论文）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
@@ -83,8 +80,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 自动化数据提取的技术演进与人工提取对比
 > | 维度 | 传统人工双人提取 | 早期任务专用算法 | 大语言模型自动化提取 |
 > |---|---|---|---|
@@ -94,8 +89,6 @@ updated: 2026-10-22
 > | **主要误差来源** | 计算疏漏、注意力疲劳、标准理解漂移 | 规则覆盖不足、正则匹配失效、表头解析错误 | 亚组与总效应混淆、报告不一致时选择偏差、偶发遗漏 |
 
 ---
-
-## 核心要素与评估指标
 
 > [!feature] 自动化数据提取的核[[Flow\|心流]]程要素
 > - **提取提示词架构** 包含角色设定、精确代码簿定义、优先级规则与少样本示例，使模型牢牢锚定在文献原文。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 7–8)]]
@@ -151,8 +144,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 自动化数据提取命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -160,8 +151,6 @@ updated: 2026-10-22
 > | **误差结构命题** | 提取误差主要源于跨表计算累加与原始文献报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall and Wallace (2019) |
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >
@@ -178,8 +167,6 @@ updated: 2026-10-22
 > > - **开放科学批判（Demszky et al., 2023）** 呼吁推动完全开源且权重冻结的本地化模型测评，以保障长期学术可重复性。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 自动化数据提取实证准确性基准表（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]], 表 2）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

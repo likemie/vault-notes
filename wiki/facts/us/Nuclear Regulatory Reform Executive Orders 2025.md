@@ -48,11 +48,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Nuclear Regulatory Reform Executive Orders 2025
-
 ---
-
-## 背景与立项动因
 
 > [!policy-context] 政策背景与历史动因
 > - **发布时间 / 发布主体** 2025 年 5 月由美国总统签署发布四项核能监管改革行政令（Four Nuclear Energy Executive Orders），被科技政策界称为“一代人以来最全面的联邦核能监管[[Liberalization|自由化]]改革”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 > - **战略驱动力** 驱动此次改革的核心动力并非仅源于核能产业自身诉求，而是源于人工智能（AI）数据中心超大规模基荷电力需求、制造业回流以及清洁能源供应链自主可控的国家战略紧迫感。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 36)]]
 
 ---
-
-## 政策核心与方案设计
 
 > [!claim] 核心改革主张
 > 四项行政令旨在破除导致核反应堆建造不经济的审批时间壁垒，要求美国核管理委员会（Nuclear Regulatory Commission）在 18 个月内彻底修订现行规章，为新建造申请设定具有法律约束力的许可时间上限，为能源部或军方已测试反应堆建立加速通道，并在监管裁量中强制将核能对国家经济与安全的重大收益纳入法定权衡。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
@@ -77,8 +71,6 @@ updated: 2026-10-22
 
 ---
 
-## 实施机制与时间线
-
 > [!timeline] 政策推进与实施关键节点
 > - **第一任期** 推动并支持国会通过两党立法，开启核管理委员会现代化的早期机制探索。
 > - **2025 年 5 月** 总统正式签署四项核监管改革行政令，确立 18 个月修规倒计时。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
@@ -87,8 +79,6 @@ updated: 2026-10-22
 > - **2030 年目标期** 行政令规定启动全美 10 座新型大型反应堆的实际开工建造。
 
 ---
-
-## 理论定位与制度影响
 
 > [!finding-cards] 政策意义与治理启示
 > - **[[Permissionless Innovation|无许可创新]]在战略能源领域的落地** 该行政令是[[Permissionless Innovation|无许可创新]]（Permissionless Innovation）原则在能源基础设施维度的集中体现，旨在破除以防范假设性风险为名窒息战略生产力发展的过度规制。

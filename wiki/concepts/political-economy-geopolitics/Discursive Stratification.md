@@ -43,11 +43,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-# Discursive Stratification
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > [[Discourse|话语]]分层（Discursive Stratification）是 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]作为高等教育新政治经济学的两大分析路径之一提出的概念。它主张话语——包括文本、符号、数字和图像——积极参与建构社会不平等和等级秩序，而非简单地反映或再现社会实践、政治决策和经济机制([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.805]])。
 
 在这一视角下，高等教育中的社会变迁具有内在的符号性（inherently symbolic）。排名的激增、[[Performance Indicators|绩效指标]]的使用、以及学术地位和声望的测量，都为社会等级如何通过话语被生产、协商和固化提供了丰富的研究材料。政治和经济决策依赖于符号结构和意义体系——而这些结构和体系本身正是话语实践的产物([[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp.805–807]])。

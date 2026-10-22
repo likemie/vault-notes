@@ -58,11 +58,7 @@ tags:
   - metax
 ---
 
-# Learner-Centred Education
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、[[Dialogue in Education|对话教学]]和[[Critical Thinking\|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的本土化[[Recontextualization|再情境化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
@@ -95,9 +91,7 @@ tags:
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **内在动机激发** 教学设计旨在调动学生的内在学习兴趣与探究欲望，而非仅依赖外部奖惩与考分威逼。
 > - **经验与生活联结** 学习内容与学生的日常生活经验、先验知识和真实情境建立紧密联系。
 > - **课堂对话与合作** 课堂组织包含密集的师生对话、生生合作与小组讨论，形成社会化学习共同体。
@@ -131,8 +125,6 @@ tags:
 > ```
 
 ---
-
-## 围绕概念形成的命题
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -177,8 +169,6 @@ tags:
 
 ---
 
-## 争议与批评
-
 > [!debates] 学术争议
 >
 > > [!axis] 定义的模糊性与语境灵活性
@@ -200,8 +190,6 @@ tags:
 > > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 602–603)]]** 证明实用主义转向是 LCE 在高压考试环境中生存并发挥积极作用的必然选择。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

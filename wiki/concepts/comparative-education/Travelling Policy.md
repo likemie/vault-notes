@@ -52,11 +52,7 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-# Travelling Policy
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > 旅途政策（Travelling Policy，亦称旅途改革 travelling reforms）是全球化时代比较教育政策转移研究的核心概念。它指的是特定的教育改革方案（如“以学生为中心”的教学法或“能力本位”课程）脱离了其原有的社会和历史脉络，在跨国政策空间中进行多维循环，并在不同本土情境中被不断解构、转译（translation）和重新合法化的非线性流变过程。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])
@@ -71,8 +67,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
 > [!contrast-table] 关键转移机制对照表
 > | 维度 | Travelling Policy (旅途政策) | [[Policy Borrowing\|Policy Borrowing (政策借用)]] | [[Transfer Translation Transformation\|3T 框架 (Cowen)]] |
 > |------|----------------------------|-------------------------------------------------|----------------------------------------------------|
@@ -83,9 +77,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **去脉络化与[[Recontextualization\|再脉络化]]（Decontextualization & Recontextualization）** 政策模型从其源起国的制度性“土壤”剥离，被提炼为可复制的“最佳实践”[[Discourse|话语]]（去脉络），进入他国后又被注入当地的社会政治博弈中重新阐释（再脉络）。(引自 [[Argument_Beech_2009_CE\|Beech, 2009a]])
 > - **[[Policy Entrepreneur\|政策企业家]]与超国家网络的代理机制（Policy Entrepreneurs & Transnational Networks）** 政策不再单纯由国家官僚运作，而是由多边机构、NGO、政策企业家和跨国咨询公司等行动者组成的网络节点共同推销与扩散。
 > - **协调与标准化的结构性对齐（Harmonisation & Standardisation）** 在全球或区域空间（如欧洲高等教育区）通过柔性规训（[[Open Method of Coordination|OMC]]），迫使主权国家自愿使其国内指标与流动的全球标准对齐。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
@@ -113,8 +105,6 @@ updated: 2026-10-22
 > **外生政策的本土政治工具化** 阐明，在全球流动中旅行的教育政策，被接收国吸收的动力往往不是出于技术优化，而是本土政治行动者将其用作“外在合法化”（externalisation）的借口，以压制国内反对意见或换取外部资金援助（如[[World Bank\|世界银行]]贷款）。政策一旦落地，便会经历深度的本地化“ Indigenisation ”，与其宣称的全球统一效果产生严重的“实施偏差”（implementation gaps），呈现出混杂（hybridity）的非预期形态。([[Argument_Beech_2009_CE\|Beech, 2009a]])
 
 ---
-
-## 概念演变
 
 > [!dev-timeline] 发展脉络
 > - **2006 — 概念提出与空间解构** Jenny Ozga and Roger Jones 首次阐明 travelling policy，关注跨国新自由主义改革如何绕过国家机器通过[[Discourse|话语]]直接在地方学校网络中发生作用。

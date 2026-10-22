@@ -44,11 +44,7 @@ created: 2026-10-08
 updated: 2026-10-22
 ---
 
-# Microsoft IVAS Contract Protest
-
 ---
-
-## 背景与历史成因
 
 > [!claim] 核心定性
 > 微软 IVAS 军用合同抗议事件（Microsoft IVAS Contract Protest），是2018年底至2019年初微软公司因承接美国陆军“综合视觉增强系统”（Integrated Visual Augmentation System, IVAS）头显采办项目而在企业内部引爆的员工联名抵制运动。该事件与2018年谷歌 [[Project Maven|梅文项目]] 抗议相呼应，成为后冷战时期西方硅谷科技精英以个人道德纯洁性抵制国家防务合作、折射[[Winner's Fallacy|胜者谬误]]的典型历史案例。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
@@ -61,8 +57,6 @@ updated: 2026-10-22
 
 ---
 
-## 发展经过与演变阶段
-
 > [!dev-timeline] 事件推进历程
 > - **2018-11 — 赢得合同与立项曝光** 美国陆军正式授予微软4.8亿美元采办合同，计划采购超过10万套军用定制版全息透镜（HoloLens），用于构建融合夜视、热成像、战场态势感知与模拟实战训练的综合视觉增强系统（IVAS）。
 > - **2019-02 — 员工联名公开信爆发** 微软员工发起公开抗议信《我们不愿成为战争暴利者》（*We Won't Be War Profiteers*），递交至首席执行官萨提亚·纳德拉（Satya Nadella）与总裁布拉德·史密斯（Brad Smith），要求公司立即取消陆军合同并确立明确的武器研发道德红线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
@@ -71,8 +65,6 @@ updated: 2026-10-22
 
 ---
 
-## 关键文献与历史宣言
-
 > [!citation-card] 微软员工反对陆军合同公开信核心诉求
 > 我们入职不是为了研发武器，我们要求对自己工作的使用方式拥有发言权……向美军提供全息透镜技术将直接跨越杀戮界限，帮助军队将现实世界变成数字化的视频游戏。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
 >
@@ -80,16 +72,12 @@ updated: 2026-10-22
 
 ---
 
-## 行动者阵营与社会力量博弈
-
 > [!actor-grid] 权力—立场矩阵
 > - **抗议员工阵营** 微软基层工程师与活动家组织（Microsoft Workers 4 Good） — 主张科技中立与反战道德洁癖，拒绝将个人技术劳动转化为国家暴力机关的作战工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
 > - **企业高管与建制层** 萨提亚·纳德拉与布拉德·史密斯 — 主张自由民主体制下的民选政府与军人理应获得本国最强技术的支撑，试图在员工异议与企业公民防务责任之间维持平衡。
 > - **军方采办机构** 美国陆军跨职能团队 — 迫切需要引入商用前沿软硬件加速步兵装备现代化，以应对地缘对手在夜视与算法作战上的非对称威胁。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 30–33)]]
 
 ---
-
-## 历史后果与深远影响
 
 > [!indicators] 历史影响维度
 > - **防务与商业科技关系的重估** 表明硅谷大型消费科技平台内部存在深刻的政治文化分歧，单纯依赖传统科技巨头难以建立稳固敏捷的国家防务软件基础设施。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 33–35)]]

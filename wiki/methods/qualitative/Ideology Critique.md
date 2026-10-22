@@ -66,11 +66,7 @@ created: 2026-06-16
 updated: 2026-10-22
 ---
 
-# Ideology Critique
-
 ---
-
-## 定义
 
 > [!def] 方法定义
 > 意识形态批判（Ideology Critique）是[[Critical Theory|批判理论]]与[[Critical Pedagogy|批判教育学]]的核心[[Qualitative Research|质性研究]]方法论，通过反思实践系统揭示特定社会情境与教育制度中被压制的可普遍化利益（generalizable interests），暴露支配群体如何以“普遍利益”之名推进其部门利益，使参与者认识到自身处境的社会根源并推动实质性变革与解放。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 63–65)]] 在比较教育学的方法论谱系中，卡扎米亚斯（Kazamias, 1961）与拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）将“意识形态批判”与“[[Educational Meliorism|改良主义]]”、“严格[[Value Neutrality|价值中立]]”并列为学科探究的三大根本价值取向。
@@ -93,8 +89,6 @@ updated: 2026-10-22
 
 ---
 
-## 方法定位
-
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 拒斥[[Positivism|实证主义]]的“客观真理”神话。知识不可能脱离权力与利益而存在，声称绝对[[Value Neutrality|价值中立]]的[[Knowledge Production|知识生产]]在实效上往往沦为维系现状的保守意识形态工具；探究必须服务于人的解放。
 > - **研究者角色** 具有明确政治承诺的“有机知识分子”与批判反思者，而非冷漠中立的旁观裁判员；通过协同反思揭示参与者自身尚未察觉的隐蔽支配结构。
@@ -109,10 +103,6 @@ updated: 2026-10-22
 
 ---
 
-## 研究程序
-
-### 哈贝马斯的四阶段反思实践
-
 > [!proc] [[Jürgen Habermas|哈贝马斯]]意识形态批判四阶段（Habermas, 1972, p. 230）
 > 1. **阶段一：描述与诠释（Description and Interpretation）** 对现有情境进行诠释学分析，识别并理解行动者的日常生活现实，回应[[Interpretive Paradigm|诠释范式]]的理解取向。
 > 2. **阶段二：归因与利益分析（Reasons, Causes and Purposes）** 揭示造成现有不平等情境的深层历史动因与政治目的，系统解构各方既得利益与合法化修辞。哈贝马斯将此比作社会精神分析：将行动者被压抑、扭曲和支配的经验上升到自觉意识层面，一旦暴露即具解放潜能。
@@ -124,8 +114,6 @@ updated: 2026-10-22
 > 2. **释义（Inform）** 这意味着什么？（What does it mean?）揭示教学行为背后的隐性理念。
 > 3. **对抗（Confront）** 我如何变成这样的？（How did I come to be like this?）探究历史、权力与体制性因素如何规训了自身习惯。
 > 4. **重构（Reconstruct）** 我如何以不同方式做事？（How might I do things differently?）构想摆脱异化与支配的替代性实践方案。
-
-### 质性方法模块
 
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 规范与操作要求 |
@@ -143,8 +131,6 @@ updated: 2026-10-22
 
 ---
 
-## 适用场景
-
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 国家重大教育改革、新自由主义绩效问责与标准化课程政策的批判性解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 117–149)]]
@@ -156,8 +142,6 @@ updated: 2026-10-22
 >   - 纯粹技术性的教学干预因果效应测度、标准化量表[[Reliability|信度]]检验或不涉及权力与利益分歧的纯粹描述性统计。
 
 ---
-
-## 局限性与反思
 
 > [!method-limits] 方法局限与批判反思
 > - **主观偏误与双重标准风险** 研究者自身的意识形态前设容易使其在分析中预设结论，甚至以自身偏好的政治教条取代严谨的经验证据考察。
@@ -183,8 +167,6 @@ updated: 2026-10-22
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考证意识形态批判在战后比较教育打破功能主义垄断、迈向理论多元成熟期中的关键[[Paradigm\|范式]]定位。 |
 
 ---
-
-## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 以[[Jürgen Habermas|哈贝马斯]]三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。

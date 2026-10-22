@@ -37,11 +37,7 @@ created: '2026-05-12'
 updated: 2026-10-22
 ---
 
-# Multiplicity
-
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > 多重性（multiplicity）是 [[Doreen Massey]]（2005）空间理论中最重要的概念，指空间中"差异的共存"（the co-existence of difference）。空间是"共存[[Heterogeneity\|异质性]]"（co-existing heterogeneity）的领域，不同行动者的轨迹在此交汇，空间因此必然包含复数性。多重性是 Massey 开放[[Ontology\|本体论]]的直接推论：如果空间不是预先给定的容器而是关系性产物，那么它必然包含不可化约的复数性([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 5–6]])。
 
 > [!quote|notitle]

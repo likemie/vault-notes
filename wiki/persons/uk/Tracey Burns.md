@@ -58,11 +58,7 @@ created: '2026-09-13'
 updated: 2026-10-22
 ---
 
-# Tracey Burns
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国籍（加拿大裔）教育政策研究者，[[OECD\|经合组织]]（OECD）[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）资深政策分析师，2022年撰写本章时借调至美国国家教育与经济中心（National Center on Education and the Economy, [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）。
@@ -79,8 +75,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作（精选）
 > - **2007 — *Evidence in Education: Linking Research and Policy*（编著）** 首次对全球[[Educational Brokerage Agency\|教育中介机构]]进行系统性评估，提出证据与政策连接的组织架构，确立 [[What Works Clearinghouse\|WWC]]、[[EPPI-Centre]]、BES 等标杆案例，为后续 15 年[[Cohort Study\|追踪研究]]提供基线。
 > - **2016 — *Governing Education in a Complex World*（与 Köster 合编）** 将[[Complexity Theory\|复杂性理论]]引入教育[[Epistemic Governance\|知识治理]]，探索学习型教育系统的元治理设计。
@@ -88,9 +82,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > Burns 的核心论旨在于：教育[[Knowledge Mediation\|知识中介]]不能止步于向学校与教师提供[[Abstract\|研究摘要]]与工具包，必须在政策、实践与公众媒介三个层面同时发力；中介机构的高夭折率本质上是政治与预算治理失灵的体现，而非学术绩效不足；唯有建立跨机构、跨国别的元中介协作网络（"中介的中介"），并保持对循证医学技术化异化的警惕，才能建构真正具有社会公信力的累积性教育知识基石。
 
 > [!citation-card] Burns & Schuller 论建构累积性知识基石的系统要求
@@ -100,9 +92,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** 将[[Complexity Theory\|复杂性理论]]系统引入教育[[Epistemic Governance\|知识治理]]，推动学界从"研究生产-传播-采纳"的线性供给模型转向重视社会关系、系统反馈与情境适应的复杂系统视角。
 > - **政策路径** 通过 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告及国际政策咨询平台，直接影响[[EU|欧盟]]、英国、北欧及加拿大等国政府建立或评估本国[[Educational Brokerage Agency\|教育中介机构]]的政策决策；其 2007 年报告所确立的 6 家标杆中介机构成为[[International Education\|国际教育]]治理比较研究的共同参照。
 > - **跨国传播** 2022 年与 Schuller 合著章节成为[[Evidence-Based Education\|循证教育]]政策领域反思"技术官僚化"倾向与倡导"元中介协作"的重要理论资源，被后续 [[OECD]] 项目及各国[[Knowledge Mobilisation\|知识动员]]研究广泛引用。

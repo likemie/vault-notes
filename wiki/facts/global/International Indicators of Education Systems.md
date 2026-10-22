@@ -71,11 +71,7 @@ created: 2026-05-01
 updated: 2026-10-22
 ---
 
-# International Indicators of Education Systems
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 教育系统国际指标项目（International Indicators of Education Systems, INES）是[[OECD|经济合作与发展组织]]（OECD）于 1988 年设立的跨国[[Performance Indicators|教育指标]]开发网络。该项目由[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（CERI）孵化独立，由教育社会学家 [[Norberto Bottani]] 领导，旨在打破传统国家间统计壁垒，建立具备高度政策敏感度与跨国可比性的指标体系，构成了旗舰报告《[[Education at a Glance|教育概览]]》（EAG）的生产母体与[[PISA|国际学生评估项目]]（PISA）的方法论先驱。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 5, 8)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -87,8 +83,6 @@ updated: 2026-10-22
 > - **核心问题导向** 回应 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告所引爆的跨国教育质量恐慌。西方阵营急需确立能够横向衡量“卓越”与“落后”的客观国际标杆，彻底摆脱 1970 年代经合组织因概念混杂而流产的指标开发困境。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 10)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
 > INES 的核心运行假说认为：跨国教育治理无法依赖抽象的人道宣言或强制性的主权法令，而必须通过“[[Governing by Numbers|数字治理]]”将各国教育现实翻译为跨国通用的标准化数值；跨国横向比较能够构成促进国内教育变革的最强引擎，促使成员国在“警示指标”与[[Peer Pressure|同侪压力]]下自愿重组国家教育体制。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 6–8)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -110,8 +104,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!dev-timeline] 项目推进历程
 > - **1973–1987 — 前期孕育与概念试错期** 1973 年 OECD 发布《指导公共政策决策的教育指标体系》，但因理论模型过于繁复且缺乏可用数据而流产；1983 年美国《国家处在危险之中》重燃指标热情；1987 年华盛顿跨国专家会议正式达成共识，宣布国际基准比较已成为提升教育质量不可或缺的要素。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8, 10)]]
 > - **1988–1991 — INES 创立与大会建制探索期** 1988 年 INES 正式启动。1989 年奥地利塞默灵第一届全体大会编制出 160 项初始指标；1991 年瑞士卢加诺第二届全体大会经过白热化博弈，将指标压缩至约 50 项核心指标，并在政治决策者推动下决定将“学生[[Academic Achievement|学业成绩]]”纳入核心框架。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 11–12)]]
@@ -119,8 +111,6 @@ updated: 2026-10-22
 > - **2000–至今 — 政府间程序化、欧盟共生嵌入与巨型测评整合** 2000 年日本东京第四届大会后，INES 机制全面融入 OECD 教育司的常态化行政流水线；[[EU|欧洲联盟委员会]]在 INES 大会及其所有下属科学委员会中享有正式法定席位，实现双方决策网络的深度嵌合，成为支撑 PISA 与 [[Teaching and Learning International Survey|TALIS]] 等跨国巨型测试的底层[[Data Infrastructure|数据基础设施]]。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]; [[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 17)]]
 
 ---
-
-## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（美国教育部 NCES & OECD 秘书处）** 提供启动资金与跨国制度外壳，坚持将指标作为问责国家教育产出的工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -145,8 +135,6 @@ updated: 2026-10-22
 
 ---
 
-## 成效评估与实证发现
-
 > [!indicators] 评估指标体系
 > - **投入指标（Inputs）** 各国公共与私人教育支出占 GDP 比重、生均经费、师生比。
 > - **过程与环境指标（Processes）** 法定教学时间、教师薪资结构、[[School Autonomy|学校自主权]]配置。
@@ -163,8 +151,6 @@ updated: 2026-10-22
 > - **30+** 支撑《教育概览》连续发布超过 30 年的跨国年度数据。
 
 ---
-
-## 争议、局限与经验教训
 
 > [!debates] 核心争议
 >

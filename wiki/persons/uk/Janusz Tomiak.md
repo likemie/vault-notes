@@ -48,11 +48,7 @@ created: 2026-09-29
 updated: 2026-10-20
 ---
 
-# Janusz Tomiak
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 波兰裔英国著名比较教育学家、苏联与中东欧教育研究专家，伦敦大学教育研究院（Institute of Education, IOE）比较教育学系副教授（Reader）兼伦敦大学斯拉夫和东欧研究学院（School of Slavonic and East European Studies, SSEES）教授；[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative Education Society in Europe|CESE]]）核心理事。
@@ -69,8 +65,6 @@ updated: 2026-10-20
 
 ---
 
-## 生平与职涯
-
 > [!timeline] 生平与学术建制
 > - **1928** 出生于波兰西部，早年经历二战与纳粹占领的残酷动荡。
 > - **1940s 末** 二战结束后流亡定居英国，先后在伯明翰大学与伦敦大学攻读经济学、斯拉夫学与教育学，掌握俄语、波兰语、德语与英语等多语[[Documentary Analysis|文献研究]]能力。
@@ -82,16 +76,12 @@ updated: 2026-10-20
 
 ---
 
-## 主要著作与学术建树
-
 > [!work-line] 代表性学术著作
 > - **1972 — *The Soviet Union*（《苏联教育》，世界教育丛书）** 系统勾勒了自十月革命至勃列日涅夫时期苏联国民教育体系的组织结构、各级学校分流机制与马克思列宁主义教育学思想的落地形态。
 > - **1983 — *Soviet Education in the 1980s*（《1980年代的苏联教育》）** 深入分析停滞时期苏联教育在科技人才培养、普及十年制中等教育与意识形态规训之间面临的深层结构性矛盾。
 > - **1986 — *Western Perspectives on Soviet Education in the 1980s*（《西方视角下的1980年代苏联教育》）** 汇集英美法德一流专家的多学科研究成果，力图超越冷战宣传偏见，构建客观严密的苏联教育解释学框架。
 
 ---
-
-## 学术关系与历史评价
 
 > [!actor-grid] 学术网络与学术同行
 > - **伦敦大学文化主义学脉** [[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）、约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）——共同构成战后英国比较教育深厚的人文历史主义核心。

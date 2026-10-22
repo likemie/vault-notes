@@ -36,11 +36,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Sheila Rowan
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国实验物理学家、格拉斯哥大学引力研究所教授、皇家学会会士（FRS）、爱丁堡皇家学会会士（FRSE）、大英帝国司令勋章获得者（CBE）。
@@ -63,16 +59,12 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!work-line] 主要著作
 > - **2026 — *Foreword to Science for Society: How Society and Science Shape Each Other*** 阐述[[Informal Science Learning\|非正式科学教育]]设施（科学中心、博物馆、科技节）在培育公众科学兴趣中的关键角色，呼吁建立可持续的财政与制度支持机制。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, pp. 5–7)]]
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 科学参与不仅是实验室研究的外部衍生，更是维护科学研究“[[Social License to Operate\|社会许可]]”（Licence to Operate）与维系公众对公共科研投入政治承诺的必要基石。面对全球气候危机、生态危机和人工智能伦理挑战，必须打破科研人员在职业考评和时间精力分配上面临的制度藩篱，为跨界公众沟通提供专业培训与保护。
 
 ---

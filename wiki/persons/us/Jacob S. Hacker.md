@@ -52,11 +52,7 @@ created: 2026-10-11
 updated: 2026-10-22
 ---
 
-# Jacob S. Hacker
-
 ---
-
-## 简介
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较政治学家与公共政策学者，耶鲁大学（Yale University）斯坦利·雷索政治学讲席教授（Stanley B. Resor Professor of Political Science），耶鲁大学政策与社会研究所（ISPS）所长，当代美国福利国家政治与[[Historical Institutionalism|历史制度主义]]核心领军人物。
@@ -83,8 +79,6 @@ updated: 2026-10-22
 
 ---
 
-## 主要著作与思想发展
-
 > [!thought-timeline] 思想发展
 > - **1990年代末–2002 — 私人福利国家与[[Institutional Layering|制度层叠]]** 重新审视美国福利国家规模被严重低估的问题，解剖公私混合福利结构。
 >   - **代表著作** *The Divided Welfare State* (2002)。
@@ -101,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心思想
-
-> [!claim|lead] 核心主张
+> [!claim] 核心思想
 > 制度的深层重组并非必须依赖轰轰烈烈的立法修法大战；在拥有密集否决点的政治体制中，维持现状利益集团最隐蔽且最具杀伤力的政治策略，恰恰是动用否决权阻挠法律条文的适时更新，任由外部人口、通胀与市场风险的变化自动掏空制度保护内涵，实现“法条未改但效能彻底漂移”的实质变迁。
 
 > [!citation-card] [[Institutional Drift|政策漂移]]在政治攻防中的非对称优势
@@ -113,9 +105,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响路径
-
-> [!influence-path|notitle] 影响路径
+> [!influence-path] 影响路径
 > - **理论路径** [[Institutional Drift|制度漂移]]理论已成为[[Historical Institutionalism|历史制度主义]]与比较公共政策学的标配分析工具；其建构的双维矩阵被[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）直接确立为全书理论核心（Table 1.2）。
 > - **政策路径** 其对美国中产阶级经济不安全感与医疗医保漂移的实证研究，直接深刻启发了奥巴马医改（ACA）中“公共选择”（Public Option）方案的设计构想。
 > - **跨学科辐射** 漂移与风险转移概念被经济社会学、劳动法学与比较政治学广泛引申，用于解释零工经济扩张与劳动法保护失效。
@@ -133,8 +123,6 @@ updated: 2026-10-22
 > - **理论合作者与编著者** [[Wolfgang Streeck]] — 施特雷克与希伦主编《制度变迁的超越》（2005），收录哈克奠基性篇章并将[[Institutional Drift|政策漂移]]纳入形态学支柱。
 
 ---
-
-## 争议与批评
 
 > [!debates] 学术争议
 >

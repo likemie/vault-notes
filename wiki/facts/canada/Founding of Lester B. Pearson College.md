@@ -35,11 +35,7 @@ created: 2026-09-01
 updated: 2026-10-22
 ---
 
-# Founding of Lester B. Pearson College
-
 ---
-
-## 背景
 
 > [!event-context] 事件背景
 > - **时间／地点** 1970 至 1975 年，加拿大不列颠哥伦比亚省温哥华岛佩德湾（Pedder Bay）。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 109–122)]]
@@ -50,8 +46,6 @@ updated: 2026-10-22
 加拿大项目同时面对场地、治理、资本和升学资格问题。东部国家委员会仍要为大西洋学院选拔加拿大生并筹集奖学金，无法长期兼顾西海岸建设。加拿大又没有统一全国考试，新的国际书院必须在招生前确认共同课程能否获得大学承认。创校安排因此把全国选拔留在安大略，把建设与未来治理交给西部委员会，并提前以[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）解决跨国升学接口。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 118–120)]]
 
 ---
-
-## 经过
 
 > [!dev-timeline] 从等待军用校园到森林书院开幕
 > - **1970 年初　皇家路方案终止** 皇家路国防学院确认不会释放，乔治·[[Rob Kitchin\|基钦]]将军（General George Kitching）主张改为主动建设，结束对现成军用校园的依赖。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 109–110)]]
@@ -66,16 +60,12 @@ updated: 2026-10-22
 
 ---
 
-## 关键声明
-
 > [!citation-card] 百分之百奖学金入学目标
 > 书院不以富裕家庭子女为对象。目标是实现百分之百奖学金入学，即使实现这一目标极为困难，也不能放弃这一公共方向。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 121)]]
 >
 > *It is not a private school for the children of rich people. We are aiming for 100 percent scholarship enrolment. We realise that this is extremely difficult, but that is what we are aiming for.*
 
 ---
-
-## 制度设计
 
 > [!framework-table] 创校条件与解决机制
 > | 创校条件 | 主要缺口 | 制度安排 | 形成的能力 |
@@ -89,9 +79,7 @@ updated: 2026-10-22
 
 ---
 
-## 影响与后果
-
-> [!finding-cards|notitle] 影响与后果
+> [!finding-cards] 影响与后果
 > - **公共纪念进入经常预算** 国家纪念没有停留在冠名或建筑象征。联邦政府的资本支持改善贷款条件，每年四十名外国学生奖学金又把和平纪念转化为持续招生责任。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 121)]]
 > - **自治与国家支持并存** 政府没有接管书院行政，西部治理机构仍负责办学。公共资本和奖学金却使书院接近国家支持的国际公共教育。
 > - **主动建设替代现成校园复制** 佩德湾案例证明，新书院可以围绕教育关系规划空间，不必等待军用或历史建筑转用。
@@ -104,8 +92,6 @@ updated: 2026-10-22
 > - **40** 联邦奖学金每年资助的外国学生数量（名），接近每届入学人数的一半。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 119–121)]]
 
 ---
-
-## 争议与评论
 
 > [!tension] 百分之百奖学金的两种含义
 > - **人人获得奖学金（蓝方）** 每名学生取得某种金额的资助，家庭仍可能支付奖学金未覆盖的费用。

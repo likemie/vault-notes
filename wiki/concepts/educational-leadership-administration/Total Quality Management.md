@@ -64,11 +64,7 @@ created: 2026-10-04
 updated: 2026-10-22
 ---
 
-# Total Quality Management
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > **全面质量管理（Total Quality Management, TQM）** 是一种系统性的组织管理与质量提升[[Paradigm|范式]]，主张将质量视为贯穿组织所有部门与业务流程的整体属性。其核心特征包括：以客户与最终受益者（如学生与社会）的需求为导向、全体成员共同对质量负责、依托[[Statistical Process Control|统计过程控制]]与量化事实开展[[Evidence-Based Policy-Making|循证决策]]，并通过“计划-执行-检查-处理”（PDCA）循环推进持续改进（Continuous Improvement），从而消除组织流程变异与系统性缺陷。在高精技术制造中，TQM 结合全员生产维护（TPM）与跨专业工程诊断，将质量控制由传统的后端成品检验前移至制造全流程参数监控。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
@@ -99,9 +95,7 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素
-
-> [!feature|notitle] 核心要素
+> [!feature] 核心要素
 > - **全员参与与跨部门协同（Total Involvement and Cross-Functional Teams）** 打破部门壁垒，使从基层教职员工到高层管理者的所有人员都成为质量所有者与改进主体。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 > - **学习者与外部利益相关者导向（Customer and Learner Orientation）** 识别教育与服务的核心受众（学生、雇主、学术共同体、公众），将多样化需求转化为质量改进标准。
 > - **持续流程改进与 PDCA 循环（Continuous Process Improvement）** 通过“计划（Plan）- 执行（Do）- 检查（Check）- 处理（Act）”的四阶段循环，不断消除流程变异与低效环节。
@@ -168,8 +162,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -188,8 +180,6 @@ updated: 2026-10-22
 
 ---
 
-## 争议与批评
-
 > [!critique] 外部批评
 > - **“学生即产品/顾客”的隐喻异化** 批评者指出，教育过程具有深度的主体互动性，将学生简单物化为制造业中的“加工产品”或纯粹的“商业顾客”，会严重矮化师生之间充满启发、挑战与[[Critical Thinking|批判性思维]]的教育本体价值。
 > - **官僚合规主义与表格[[Red Tape|繁文缛节]]** 当 TQM 被行政官僚异化为大量的质量记录、评审表格和形式主义审核时，会大量挤占教师真正的教学与科研精力。
@@ -198,8 +188,6 @@ updated: 2026-10-22
 > TQM 预设工作流程具有明确的因果链条与可重复性；对于高度依赖灵感[[Emergence|涌现]]、个性化定制及前沿探索的教育场景，过度推行标准化流程会压制创新活力。
 
 ---
-
-## 实证数据
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

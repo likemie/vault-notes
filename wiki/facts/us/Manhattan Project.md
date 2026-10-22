@@ -72,11 +72,7 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
-# Manhattan Project
-
 ---
-
-## 项目背景与立项契机
 
 > [!claim] 项目定位
 > 曼哈顿工程（Manhattan Project）是二战期间美国政府由[[Michael Fullan|富兰]]克林·D. 罗斯福（[[Franklin D. Roosevelt]]）总统授权、[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领导的美国[[Office of Scientific Research and Development|科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]）统筹、陆军工兵部队与顶级科学家联合执行的绝密原子弹研制计划。该工程不仅直接加速了二战的终结，更确立了国家战略意志与顶尖科学共同体深度结盟的[[Technological Republic|技术共和国]]原型，构建了主导后半个世纪国际政治格局的原子威慑体系与[[Hard Power|硬实力]]基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
@@ -93,8 +89,6 @@ updated: 2026-10-22
 > *In August 1939, a group of scientists led by the Hungarian-born physicist Leo Szilard met with Albert Einstein at a cottage in Peconic, Long Island, to draft a letter to Roosevelt... The scientists urged the government to 'maintain an active interest' in the work and suggested a permanent liaison between the administration and physicists. The partnership bore fruit... The resulting alliance transformed the United States and gave it the decisive hard power needed to defeat fascism.*
 
 ---
-
-## 方案设计与运行机制
 
 > [!claim] 核心机制假说
 > 通过建立军政学产垂直一体化指挥中枢，将大学基础物理学探索与工业级工程制造并行推进（极端并联研发模式），能够以空前速度突破重大物理机理瓶颈并转化为实战武器。
@@ -114,8 +108,6 @@ updated: 2026-10-22
 
 ---
 
-## 推进历程与阶段演进
-
 > [!logic-map]- 曼哈顿工程推进与战后体制演进逻辑
 > ```mermaid
 > flowchart LR
@@ -134,8 +126,6 @@ updated: 2026-10-22
 > - **1945–1950 — 战后体制转化与和平延伸** 布什向杜鲁门总统提交《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》，倡导将战时公私科研协作延伸至和平时期，推动设立国家科学基金会（[[National Science Foundation|NSF]]），直接奠定美国战后国家科研体制。
 
 ---
-
-## 成效评估与历史遗产
 
 > [!finding-cards] 核心历史成效与时代遗产
 > - **确立[[Big Science|大科学]]与任务导向科研[[Paradigm|范式]]** 彻底终结了单打独斗的作坊式科研传统，开创了国家安全战略牵引、跨学科大规模并联协作的[[Mission-Oriented Research|任务导向型研究]]模式。

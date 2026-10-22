@@ -69,11 +69,7 @@ created: 2026-08-13
 updated: 2026-10-22
 ---
 
-# Epistemological Beliefs
-
 ---
-
-## 定义
 
 > [!def] 核心定义
 > [[Epistemology\|认识论]]信念（epistemological beliefs）是指个体对于“知识究竟是什么”（知识的本质）以及“人们如何获得知识”（认知的本质）所持有的潜在假设与信念。在教育心理学领域，它不仅是一组零散的观点，更构成了一种指导学习行为和动机的“个人理论”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 88-90)]]
@@ -102,8 +98,6 @@ updated: 2026-10-22
 > - **2025 年 — [[Generative Artificial Intelligence\|生成式人工智能]]与[[Man-Computer Symbiosis|人机共生]]认识理论升级** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论信念理论升级为人机共生自适应[[Epistemic Stances\|认识立场]]框架，揭示绝对主义、相对主义与评价主义认识论信念在与大语言模型交互中对[[Cognitive Offloading\|认知卸载]]性质的决定性分化作用。
 
 ---
-
-## 核心要素
 
 > [!quad-grid] [[Epistemological Theories\|认识论理论]]的四个核心维度
 > - **【知识的本质】[[Certainty of Knowledge\|知识的确定性]]（certainty of knowledge）**
@@ -180,8 +174,6 @@ updated: 2026-10-22
 
 ---
 
-### 命题总览
-
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -192,8 +184,6 @@ updated: 2026-10-22
 > | **技术中介双向重塑** | 认识论信念调节数字化与AI交互模式，而在双轨支架干预下可被技术环境逆向重塑 | 网络[[Inquiry-Based Learning\|探究学习]]、人机共生学习与大模型交互 | [[Chin-Chung Tsai\|Tsai (2004)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 
 ---
-
-## 实证数据
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]理论模型[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -216,8 +206,6 @@ updated: 2026-10-22
 > | [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立与独立教会学校，横截面与组内任务对比） | 52题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点李克特计分，提取 FQAL、SK、CK 三因子） | 确定知识（CK，控制学校宗教导向差异）、性别、任务顺序 | FQAL（$R^2 = .04, p < .001$）与 SK（$R^2 = .05, p < .001$）显著负向预测学生总体学业成就预估值（整体模型 $R^2 = .08$）；在学术任务中，SK 显著负向预测劣构任务总分（$R^2 = .06, p = .02$）及反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力（$R^2 = .002, p = .69$）；女生在 FQAL 与 CK 上的信念成熟度显著高于男生 |
 
 ---
-
-## 争议与批评
 
 > [!tension] 静态心智特质论 vs 技术中介动态重塑论
 > - **静态特质派（蓝方）** 倾向于将[[Epistemology\|认识论]]信念视为深植于个体内部的相对稳定的心理结构或特质，主张其演进需要长期的发展成熟或正规教育沉淀。

@@ -34,13 +34,9 @@ created: 2026-06-12
 updated: 2026-10-22
 ---
 
-# LISA Time Path
-
 ---
 
-## 定义
-
-> [!info|notitle]
+> [!info] 定义
 > LISA时空路径（LISA Time Path）是探索性时空数据分析（Exploratory Spatiotemporal Data Analysis, ESTDA）的核心方法之一。它将时间维度引入传统的LISA（局部空间自相关指标），追踪每个空间单元在Moran散点图上多年的移动轨迹，通过相对长度和弯曲度两个几何指标刻画局部空间关联格局的动态演化特征。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 
 > [!quote|notitle]
@@ -104,8 +100,6 @@ updated: 2026-10-22
 
 ---
 
-### 第五步：移动方向
-
 > [!line-a] 计算方式
 > 对每个单元计算起点到终点的向量 $\vec{v}_i = (z_{i,T} - z_{i,1}, Wz_{i,T} - Wz_{i,1})$，求其方向角 $\theta_i = \arctan2(\Delta Wz, \Delta z)$，$\theta_i \in [-180^\[[Cooperative Integrated Reading and Composition\|CIRC]], 180^\circ]$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 72)]]
 
@@ -115,8 +109,6 @@ updated: 2026-10-22
 > - $180^\circ$–$270^\circ$（即 $-180^\circ$–$-90^\circ$）：自身与邻居协同负向增长（双方均退步）
 
 ---
-
-## 资料与分析
 
 > [!info] 数据结构
 > 输入为面板数据，$n$ 个空间单元 $\times$ $T$ 个年份，含一个综合指标（如耦合协调度 $D$）和空间权重矩阵 $\mathbf{W}_{n \times n}$。权重矩阵的构造是决定 LISA 结果的"隐[[Variable\|变量]]"——不同的距离度量和经济因子会导致不同的邻居定义和 LISA 坐标。

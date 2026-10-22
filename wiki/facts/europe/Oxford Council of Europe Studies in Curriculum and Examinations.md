@@ -41,11 +41,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-# Oxford Council of Europe Studies in Curriculum and Examinations
-
 ---
-
-## 项目背景与定位
 
 > [!event-context] 项目档案
 > - **项目名称** 牛津—欧洲委员会课程与考试研究（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE）。
@@ -58,8 +54,6 @@ updated: 2026-10-22
 
 ---
 
-## 项目形成与进入国际文凭设计
-
 > [!dev-timeline] OCESCE 从比较研究发展为课程与考试资源
 > - **1960–1961 年　牛津课程改革研究形成问题基础** 牛津报告和三次会议集中讨论英国高中课程过度专门化与文理分裂，吸引 300 多名学校和大学教师参与。国内改革随后长期停留在讨论阶段。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21–22)]]
 > - **1960 年代初　牛津与欧洲委员会建立比较项目** 双方商定比较欧洲委员会成员国的高中课程与考试，Halls 负责实施，研究结果以 OCESCE 系列发布。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 22)]]
@@ -67,8 +61,6 @@ updated: 2026-10-22
 > - **1966–1967 年　研究网络转化为考试能力** Halls 准备考试性质说明和样题。牛津教育系的数学、语言、科学和历史教师教育专家掌握欧洲学科变化，后来成为早期考官，并为六年试验提供行政支持。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 30–31)]]
 
 ---
-
-## 对国际课程路线的作用
 
 > [!contrast-table] 比较研究支持的两种课程选择
 > | 课程路线 | 如何使用比较资料 | 可能结果 |
@@ -84,8 +76,6 @@ updated: 2026-10-22
 > - **真实试验** 比较研究资源最终服务于学校教学、试考和大学承认组成的[[Action Research\|行动研究]]。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21–31)]]
 
 ---
-
-## 影响与解释边界
 
 > [!finding-cards] 项目影响
 > - **知识基础** OCESCE 为国际课程设计提供成员国高中课程与考试的比较背景。
