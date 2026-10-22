@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -68,6 +68,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: draft
 created: 2026-06-08
@@ -93,6 +94,7 @@ updated: 2026-10-23
 > - **1964–1980 — [[World Bank|世行]]—[[UNESCO|教科文组织]]合作期与实证扩张** 1964 年世界银行与联合国教科文组织签署合作协议借道入场，IIEP 深度参与世界银行向第三世界提供基础设施贷款的前期规划与学校建筑设计；同时为亚非拉数十个新独立国家编制国家五年教育扩张规划。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
 > - **1980 年代 — 世行决裂与规划理性危机反思** 1980 年世界银行发布首份独立《教育部门政策文件》，依托自身建立的 1,120 项教育投资收益率数据库彻底与联合国教科文组织合作机制决裂，自立实证放贷门户；同时伴随全球经济滞胀与文凭贬值，战后机械人力预测承诺破灭，IIEP 陷入方法论反思，逐步放弃僵化中央规划，转向基础教育普及、弱势群体公平与分权化行政治理。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 548)]]
 > - **2000 年代至今 — 危机情境治理与数字化规划转型** 面对全球冲突、气候灾害与数字鸿沟，IIEP 重构其核心使命，将业务重点转移至受危机影响地区的韧性教育规划、教育反腐败与伦理平台（Ethics and Corruption in Education，ETICO）审计、以及利用地理信息系统（Geographic Information System，GIS）进行学校网络布局优化。
+> - **2025 — 全球证据采纳审议与本土实施断层反思** IIEP 发布《战略审议》（*Strategic Review*），尖锐揭示各国教育系统陷入“周期性宏观诊断结论高度雷同、初始改革建议从未得到有效贯彻”的执行断层困境；达喀尔非洲办事处（IIEP Dakar）发布第 6 号政策简报，揭示国际主流证据库对大样本随机对照试验的偏好严重边缘化了非洲本土具有高度适应性的创新实践，呼吁打破全球证据供给垄断并确立区域政策协调常设机制。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
 
 ---
 
@@ -111,6 +113,8 @@ updated: 2026-10-23
 > [!finding-cards] 核心产品与业务矩阵
 > - **普世危机叙事与理论经典** 库姆斯《世界教育危机》（1968）开辟了以系统论审视教育供需失衡的经典[[Analytic Framework|分析框架]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 > - **国家教育规划基础丛书** 连续出版百余种《教育规划基础》（*Fundamentals of Educational Planning*）权威专著，覆盖成本核算、课程资源分配、教师供需平衡等多维专题。
+> - **全球证据采纳战略审议报告（2025）** 审视全球证据利用实践，提出通过人际互动与系统共建强化国家和区域采纳能力的体制改革方案。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346)]]
+> - **非洲区域政策与研究鸿沟简报（IIEP Dakar, 2025）** 聚焦撒哈拉以南非洲弥合研究与政策鸿沟的实践，呈现本土草根倡议与外部制度约束的张力。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 348)]]
 > - **教育反腐败与伦理平台（ETICO）** 设立全球教育反腐与透明治理知识资源库，指导各国治理教育腐败、文凭造假与资源流失。
 > - **危机与应急规划指南** 研制涵盖流离失所儿童教育保护、冲突后学校重建与公共卫生危机下的韧性教育规划导则。
 
@@ -118,6 +122,11 @@ updated: 2026-10-23
 > 现代教育规划不仅是机械的资源计算技术，更是主权国家在面临人口暴增与急剧社会转型时不可或缺的动态适应系统；如果规划仅仅执迷于产出数字而忽略系统质量与结构平衡，盲目扩张的教育体制必然在全球范围内酿成深刻的生态危机。
 >
 > *Educational planning must be seen as more than a set of mechanical techniques; it is a dynamic, continuous process of rational adjustment to changing economic and social realities... without qualitative reform and balanced resource allocation, the rapid expansion of educational systems threatens to provoke a worldwide crisis.* (Coombs, 1968; 引自 [[Argument_Klerides_2023_CE|Klerides, 2023, p. 422]]; [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b, p. 542]])
+
+> [!citation-card] IIEP 论教育系统政策建议的仪式性重复与执行鸿沟
+> 许多教育系统常年接受周期性宏观诊断，历年诊断出的核心问题高度一致，直观表明最初所提出的实证政策建议在行政执行端遭遇了深刻搁置。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 348)]]
+>
+> *Education systems are often subjected to regular analyses that identify the same problems over the years . . . indicating that the initial recommendations have not been properly implemented.* (UNESCO IIEP, 2025, p. 2; cited in Campbell et al., 2026, p. 348)
 
 > [!citation-card] 马修论战后国家规划理性与技术官僚科学渴求
 > 战后国家深信依托严谨观察、实证假设检验与精确测量的社会[[Scientific Method|科学方法]]是确保公共政策效率的唯一可靠途径；数以百计的专家（包括比较教育学者）纷纷加入各国教育部以及[[UNESCO|联合国教科文组织]][[International Education|国际教育]]规划研究所等跨国机构，试图为国家五年计划编制科学蓝图。
@@ -158,6 +167,12 @@ updated: 2026-10-23
 > > 质询实证规划模型在实践中的失败与伦理责任转嫁。
 > >
 > > - **[[Paradigm|范式]]批判学者** [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] 尖锐指出，机械的人力规划模型本质上充当了政客和官僚推卸行政过失的“[[Social Science as Legitimation Alibi|合法化借口]]”；当 1970 年代经济滞胀与文凭贬值爆发时，技术官僚将失败归咎于外部[[Independent Variable|预测变量]]滞后，掩盖了深层阶级不平等与结构依附。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 68–69)]]
+>
+> > [!axis] 全球顶层实证供给 vs 全球南方本土实践需求
+> > 质询跨国机构主导的证据规程与技术诊断在非洲等全球南方地区的适应性与权力失衡。
+> >
+> > - **本土生态与批判视角** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 及 IIEP Dakar (2025) 指出，国际主流证据体系过分倚重大样本随机对照试验，将大量具有高适应性的非洲本土草根创新排斥在官方证据清单之外；同时，许多国家陷入“周期性接受外部诊断、核心问题年年雷同、实证建议从未落地”的官僚公文游戏，暴露出全球顶层实证供给与地方治理现实之间的结构性断裂。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
+> > - **IIEP 改革主张** IIEP 提倡将证据界定为人际协作与系统共建的产物，呼吁在受援国建立常设性政策审议与专业协作平台，通过确立区域自主权与一线实践者深度参与实现知识公平。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 346)]]
 
 ---
 
@@ -172,7 +187,8 @@ updated: 2026-10-23
 > | [[OECD]] | Fact (Organization) | 与 IIEP 共同构成二战后推动跨国教育规划与统计规制的西方“双翼”。 |
 > | [[Comparative Education Center at Chicago 1958]] | Fact (Organization) | 芝加哥学派学术阵地，为 IIEP 输送了大量人力资本实证研究与理论支持。 |
 > | [[Global Education Governing Complex]] | Concept | IIEP 早期深度介入的跨国公共机构与外部资金混合治理网络。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查实证确认 IIEP 在全球教育决策者认知度与经常调阅频次中均位列前 5。 |
-> | [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] | Argument | 梳理战后系列教育危机国际会议，论证库姆斯与 IIEP 开创普世教育危机叙事范式及世行合作决裂。 |
-> | [[Argument_Klerides_2023_CE|Klerides (2023)]] | Argument | 从冷战地缘政治三大范式切入，拆解 IIEP 作为国家利益与大国外交战略软实力延伸的制度成因。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] | Argument | 剖析 IIEP 所代表的战后国家规划理性，揭示量化实证模型沦为执政权力推卸责任的“合法化借口”。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查实证确认 IIEP 在全球教育决策者认知度与经常调阅频次中均位列前 5。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 梳理战后系列教育危机国际会议，论证库姆斯与 IIEP 开创普世教育危机叙事范式及世行合作决裂。 |
+> | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | Argument | 从冷战地缘政治三大范式切入，拆解 IIEP 作为国家利益与大国外交战略软实力延伸的制度成因。 |
+> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | Argument | 剖析 IIEP 所代表的战后国家规划理性，揭示量化实证模型沦为执政权力推卸责任的“合法化借口”。 |
+> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析 IIEP 2025 年战略审议与 IIEP Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。 |

@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 97
+fact_related_count: 99
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -120,6 +120,7 @@ related_facts:
   - "[[Chartered College of Teaching]]"
   - "[[World Education Reform Database]]"
   - "[[Business Roundtable]]"
+  - "[[Global Education Evidence Advisory Panel]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
@@ -131,6 +132,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -236,10 +238,10 @@ updated: 2026-10-23
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
+> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；联合[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）研制的“智能购买”（Smart Buys）成本效益分级清单；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 > - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；[[Learning Crisis|学习贫困]]测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542, 548)]]
 > - **旗舰项目、调查与测评** [[International Development Association|国际开发协会]]基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
-> - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024b, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
+> - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《2024 年世界银行年度报告》；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024b, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
 > [!citation-card] 世界银行教育自主政策研究的独立宣言
 > 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育文献与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b, p. 542]])
@@ -329,6 +331,12 @@ updated: 2026-10-23
 > > - **批判政治经济学与语篇[[Champ|场域]]视角（比奇与卡诺伊）** 比奇指出，截至 1995 年世行虽是南方国家最大单一外部教育资金源，其实际资金供给仅占发展中国家教育总开支的 0.5%；然而世行却通过 1996 年“[[Knowledge Bank|知识银行]]”转型，实现了“借入边际资金等于借入整套西方教育制度愿景”的超额治理效应。[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1999）进一步批评世行纯粹的成本效益模型：将黑板、粉笔与教材判定为最划算的投入，而将教师薪酬定性为削减办学成本的核心障碍，不仅压抑了教师队伍建设，更通过五大支柱模型（分权、自主、能力本位、评估等）全面贬低受援国本土的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 > > - **世界银行政策立场** 辩称 0.5% 的公共资金主要发挥战略性“催化剂”（catalytic）效能，旨在以有限外部资源激活更大规模的系统变革，同时知识银行旨在将经受全球实证检验的最佳实践组合与循证量规输送给缺乏独立研发能力的借贷国，防范公共教育资源在低效体制中被持续浪费。
 >
+> > [!axis] “智能购买”循证清算与技术理性赤字视角
+> > 质询世界银行通过 GEEAP 推行的成本效益清单与实证因果层级是否构成对受援国复杂实践生态的去情境化简化。
+> >
+> > - **批判学者（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 指出世行主导的实证话语将证据塑造成资源约束下的“智能购买”，高度倚重量化实验与因果评估模型；该技术理性框架将教育简化为具有明确价格标签的商品，在假定一线教师能力不足的赤字视角下开出标准处方，压抑了[[Teacher Professional Agency|教师专业能动性]]，并割裂了全球实证供给与地方实践生态。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
+> > - **世行循证倡导** 强调在受援国财政空间极度逼仄的背景下，依托前沿因果证据与成本效益核算能帮助发展中国家精准规避低效支出，确保资金优先投向经过严谨检验的高回报教学干预。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
+>
 > > [!citation-card] 卡诺伊与比奇论世行成本效益模型与知识银行的制度愿景借贷
 > > 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）与卡诺伊（Carnoy, 1999）指出，世界银行在 1995 年宣称其教育研究在广度与严谨性上无可匹敌，确立了成本效益分析与[[Return on Investment|投资回报率]]的最高统治地位。然而其贷款资金仅占南方国家教育总支出的 0.5%，转型为“知识银行”实质上迫使借款国在获得微量贷款的同时，必须成套借入西方设计的分权化、[[School Autonomy|学校自主权]]与能力本位等制度愿景；卡诺伊进一步揭示，在该模型下，教材与黑板被定为最划算教学物资，而教师薪酬却被视作削减成本的主要障碍。[[Argument_Beech_2009_GlobalGarden|(World Bank, 1995; Carnoy, 1999, cited in Beech, 2009b, pp. 345–347)]]
 > >
@@ -393,3 +401,5 @@ updated: 2026-10-23
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 实证反思世界银行结构调整方案与外债危机对拉美教育投入和产业研发的负面制度锁定。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 解构世界银行在拉美依托守门人垄断[[Discourse\|话语]]与制度愿景借贷的微观知识流动悖论。 |
 > | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | Argument | 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育认知治理中枢的三维机制。 |
+> | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 世界银行联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
+> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。 |

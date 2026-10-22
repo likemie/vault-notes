@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-fund
 headquarters: "纽约（美国）"
@@ -54,10 +54,12 @@ related_facts:
   - "[[PISA]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Building Evidence in Education]]"
+  - "[[Global Education Evidence Advisory Panel]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -81,7 +83,7 @@ updated: 2026-10-23
 > - **1946–1989 — 人道战后紧急救援与儿童基本生存保障期** 早期集中于救济口粮、疫苗接种与母婴卫生保健等生命救援；1960 年代起逐步意识到儿童心智发展与基础初等教育对阻断代际贫困的关键意义，开始资助农村小学初级卫生与女童识字培训。
 > - **1989–2000 — 《儿童权利公约》与[[Education for All|全民教育]]（EFA）联盟共建期** 1989 年联合国大会通过《儿童权利公约》（UNCRC），确立“以儿童最大利益为首要考量”法律原则；1990 年联合[[UNESCO|教科文组织]]、[[World Bank|世行]]在泰国宗迪恩联合发起《[[Education for All|全民教育]]》（EFA）全球倡议；1995 年正式研发实施[[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS），填补了全球南方底层家庭儿童福祉微观数据的空白（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b, p. 541]]）。在此期间，儿童基金会深度介入全球南方基础教育能力建设，在印度等地资助开创性的小学在职教师教育与女教师发展项目，探索通过微观教学主体增能落实儿童受教育权（Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
 > - **2000–2015 — 女童教育倡议与爱生学校模式全球推广期** 发起联合国女童教育倡议（UNGEI），推动撒哈拉以南非洲和南亚女童入学率跨越式提升；系统研发并推广“爱生学校”（Child-Friendly Schools, CFS）标准框架，倡导健康、安全、保护儿童免受暴力的人文教学环境。
-> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱与数据契约共治期** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟，同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
+> - **2015–至今 — [[Social-Emotional Learning|社会情感学习]]先驱、数据契约共治与全球证据咨询** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact|学习数据契约]]同盟；2020 年起联合世界银行、英国外交部（FCDO）与美国国际开发署（USAID）共同发起设立[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP），资助发布中低收入国家教育改革“智能购买”（Smart Buys）分级循证指引；同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
 ---
 
@@ -101,7 +103,7 @@ updated: 2026-10-23
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 《爱生学校框架手册》；《紧急情况下教育最低标准》（[[INEE]] 核心起草方）；《早期儿童全面发展（ECD）指标框架》；《[[Social-Emotional Learning|社会情感学习]]实施指南》。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 544)]]
 > - **数据库、证据库与监测平台** [[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS）全球微观数据库（涵盖 110 余国逾 300 次大型抽样普查）；儿童教育剥夺与辍学率监测平台。
-> - **旗舰项目、调查与测评** 联合国女童教育倡议（UNGEI）；“受教育不能等待”（Education Cannot Wait）紧急教育基金共建；与 [[UNESCO]]、[[World Bank|世行]]联合签署的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
+> - **旗舰项目、调查与测评** 联合国女童教育倡议（UNGEI）；“受教育不能等待”（Education Cannot Wait）紧急教育基金共建；与 [[UNESCO]]、[[World Bank|世行]]联合签署的[[Learning Data Compact|学习数据契约]]；联合设立[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）并推广“智能购买”分级成本效益指引。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 > - **教师专业增能与性别平等项目** 资助并设计面向发展中国家农村小学的在职教师培训计划，支持基层女教师专业能力建设与实践自主性（如印度北方邦女教师在职培训项目；Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
 > - **旗舰出版物与咨询成果** 《世界儿童状况》（The State of the World's Children，年度旗舰报告）；因诺琴蒂研究报告卡（Innocenti Report Card）；[[Learning Crisis|全球学习危机]]与儿童心理福祉评估简报。
 
@@ -147,6 +149,12 @@ updated: 2026-10-23
 > >
 > > - **比较教育[[Ethnography|民族志]]视角（Stacki, 1999, 2004; 引自 Arnove, 2009）** 指出儿童基金会资助的在职培训项目虽具进步意义，但本国层级官僚与学校管理层往往表现出系统性冷漠；项目的实际成效高度依赖基层一线女教师的微观主观能动性——女教师们巧妙借助国际机构培训赋予的知识权威，与本土家庭父权及学校男校长展开策略博弈，方能将跨国援助方案转化为真实的本土实践。（Stacki, 1999, 2004; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）
 > > - **机构治理回应** 承认单一外部项目无法瞬间瓦解深层父权结构，主张通过持续支持女性教育者专业社群与多层级协商，逐步开辟制度化增能空间。
+>
+> > [!axis] “智能购买”循证清算与人道人权使命的潜在张力
+> > 质询儿童基金会联合世行等机构推行 GEEAP 成本效益清单是否与其长期坚守的包容性人权与社会情感发展使命产生偏离。
+> >
+> > - **批判学者视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 指出 GEEAP 将全球干预措施归类为“智能购买”与低效投资，高度依赖因果实验与量化效应量比率，体现出显著的经济学与实证主义技术理性；这种框架将教育简化为去情境化的采购清单，容易将教师视为存在实施缺陷的客体，忽略了薄弱地区制度使能条件与微观文化土壤，与儿童基金会传统上对本土教师专业自主权和弱势儿童多维福祉的关照存在潜在张力。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
+> > - **儿童基金会循证合作立场** 强调在中低收入国家财政极度紧缩与疫情后学习危机叠加的背景下，多边协同提炼高性价比证据能防范稀缺教育资金流向低效项目，为保障处境最不利儿童享有经受严谨检验的高质量教育提供科学依据。
 
 > [!citation-card] 五大国际组织争夺私人慈善资本的竞争生态
 > 初步评估表明，教育领域的五大主要国际组织（[[Global Partnership for Education|GPE]]、经合组织、[[UNESCO|联合国教科文组织]]、联合国儿童基金会与世界银行）在过去几年中竞争日益加剧，部分原因在于这些国际组织现在还在争夺来自私人基金会（比尔及梅琳达·盖茨基金会、惠普基金会、万事达卡基金会、乐高基金会、博蒂克斯基金会等）的同一笔资金来源。随着经合组织 [[PISA]] 向非成员伙伴国扩张，这些国际组织现在很大程度上在同一批国家展开业务重叠的治理角逐。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 544)]]
@@ -168,3 +176,5 @@ updated: 2026-10-23
 > | [[Pluri-Scalar Governance]] | 理论 | 儿童基金会作为超国家行动者参与的多层级[[Educational Governance Framework\|教育治理理论]]。 |
 > | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 在全球 654 个证据平台网络测绘中将儿童基金会定位于核心层第 3 位，揭示其与多边国际组织主导中心网络的格局。 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析儿童基金会在五大国际组织生态中率先开辟社会情感学习议程及争夺私人慈善资本的竞争机制。 |
+> | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 联合国儿童基金会与世行等联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
+> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析 GEEAP 职责规程的话语修辞，批判其“智能购买”背后的技术理性与去情境化实证倾向。 |

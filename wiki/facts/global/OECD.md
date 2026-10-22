@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 148
+fact_related_count: 149
 fact_related_level: 14
 fact_related_stars: "💎💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -180,6 +180,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -290,7 +291,7 @@ updated: 2026-10-23
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning\|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
 > - **[[Policy Brokerage|政策中介]]与跨国经验横向借鉴** 以 PISA 基准测验为枢纽，打包同行评议、国别政策审查与教育全球定位系统（[[Education GPS]]）数字平台，系统推介高表现国家改革经验，为成员国提供定制化政策方案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]
 > - **科技创新指标与[[National Innovation System|国家创新系统]]评价体系（DSTI 业务线）** 依托经合组织科学、技术与创新司（Directorate for Science, Technology and Innovation, DSTI）及其下属科技政策委员会（CSTP），制定并持续修订《[[Frascati Manual|弗拉斯卡蒂手册]]》（研发统计）、《奥斯陆手册》（创新数据收集）与《专利统计手册》；发布两年度旗舰报告《OECD 科学、技术与工业记分牌》（*OECD Science, Technology and Industry Scoreboard*），构建包括研发强度、企业技术改造、高技术产业贸易以及国家[[Systems of Innovation|创新系统]]互动学习在内的多维评估指标。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
-> - **教育[[Epistemic Governance\|知识治理]]与[[Knowledge Mobilisation\|知识动员]]体系研发（[[Centre for Educational Research and Innovation\|CERI]] 业务线）** 依托教育研究与[[Innovation Hub\|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]
+> - **教育[[Epistemic Governance\|知识治理]]与[[Knowledge Mobilisation\|知识动员]]体系研发（[[Centre for Educational Research and Innovation\|CERI]] 业务线）** 依托教育研究与[[Innovation Hub\|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具；2024 年发布政策报告《大臣，是的，有证据》（*Yes Minister, Yes Evidence*），探讨促进教育政策证据利用的组织结构与公职人员方法技能；2025 年发布全球调查综合报告《有时人人都关心使用教育研究》（*Everybody Cares About Using Education Research Sometimes*），综合全球 288 家知识中介机构调研结果，绘制知识动员活动、制度障碍与自适应证据生态系统图景。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, p. 344)]]
 
 > [!citation-card] 《经济合作与发展组织公约》第一条（1960年）
 > 经合组织（OECD）的宗旨应为促进旨在实现以下目标的政策：
@@ -392,6 +393,12 @@ updated: 2026-10-23
 > >
 > > - **[[Technical Rationality|技术理性]]输出与地缘扩张批判（比奇、南威尔、琼斯与科尔曼）** 历史档案证实，经合组织的技术官僚规划远在 PISA 之前便已跨越欧美边界：1964 年 OECD 便与阿根廷国家发展委员会（CONADE）联合发布人力资源规划报告，凭借去情境化的社会技术确立其凌驾于受援国内部之上的客观科学专家地位（Southwell, 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。进入 1990 年代后，菲利普·琼斯与[[David Coleman|戴维·科尔曼]]（Jones & Coleman, 2005）指出，经合组织在北方发达国家的强势扩张构成了对联合国教科文组织传统权威的全面侵蚀与挤压，直接诱发了后者的领导权危机并逼出《[[Delors Report|德洛尔报告]]》反击；与此同时，OECD 协同世行深度参与“信息时代”五大支柱话语建构，其能力本位与质量评估框架在全球扩散中系统否定了后发国家的博雅知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 > > - **经合组织官方治理立场** 强调经合组织确立的是以同行评议、指标监测与趋势破译为核心的软性治理，致力于在经济效率与人类福祉之间维系适度平衡（Papadopoulos, 1994），旨在通过客观量化证据协助各主权国应对全球化与知识经济转型的挑战，以取代传统的指令性强制干预。
+>
+> > [!axis] 公务员实证素养包装 vs 官僚政治周期与使能制度瓶颈
+> > 质询经合组织近年倡导的政策制定者证据技能框架是否将系统性制度供给缺陷转嫁为个体能力赤字。
+> >
+> > - **批判学者视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 经合组织在 2024 年《Yes Minister, Yes Evidence》报告中详细列出政策制定者应掌握的证据技能清单，将循证政策短板归结为公务员队伍的方法论素养不足；然而行政人员普遍受制于碎片化的政治咨询周期和对立党派的舆论压力，将系统性制度供给不足替换为个体胜任力缺失，导致基层官员在缺乏时间保障和容错机制的情境下承受双重问责压力。同时，经合组织 2025 年针对全球 288 家中介机构的调查亦证实，现实中象征性利用往往压倒工具性利用，知识中介生态系统仍面临严重的资源匮乏与制度断裂。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
+> > - **经合组织官方治理立场** 强调系统文化建设与公职人员证据能力的双轮驱动，主张建立长效反馈机制与差异化传播方案，通过有机自适应的中介生态系统连接学术研究与政策制定。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–347)]]
 
 > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压
 > 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭示，1990 年代经合组织（OECD）凭借指标网络与政策审查在北方发达国家教育治理中的迅速崛起，对联合国教科文组织的传统领导地位构成了强烈侵蚀；教科文组织深感自身权威在北面遭遇经合组织的强力挤压，而在南面则遭遇世界银行雄厚信贷资本的蚕食，直接诱发了其深层合法性危机。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
@@ -456,3 +463,4 @@ updated: 2026-10-23
 > | [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] | Argument | 考证经合组织在跨国政策借用连续谱中扮演的协商性政策转移（Negotiated Transfer）与软法中介治理机制。 |
 > | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] | Argument | 解析经合组织如何依托 PISA 硬事实确立[[Cognitive Authority\|认知权威]]与[[Boundary Spanner\|知识经纪人]]角色，通过探究与调解双模重构主权国家内部权力格局。 |
 > | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] | Argument | 剖析经合组织推动的[[New Public Management\|新公共管理]]与测评问责工具在全球三大行政传统下的分层扩散与中介调节。 |
+> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析经合组织 2024 年《Yes Minister, Yes Evidence》与 2025 年中介机构调查报告，批判其个体技能包装对组织制度瓶颈的遮蔽。 |

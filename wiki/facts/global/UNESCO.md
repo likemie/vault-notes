@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 88
+fact_related_count: 89
 fact_related_level: 8
 fact_related_stars: "💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -118,6 +118,7 @@ related_arguments:
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -206,7 +207,7 @@ updated: 2026-10-23
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理建议书》（2021）；《[[Generative Artificial Intelligence|生成式人工智能]]在教育与研究中的应用指南》（2023）；《学生及教师人工智能能力框架》（2024）。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 > - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）；与[[OECD|经合组织]]、欧盟统计局共建的 UNESCO-OECD-Eurostat（UOE）联合数据集（构成跨国教育统计与欧盟教育指标报告 50% 至 60% 的基础数据源；[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）。
 > - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；第三世界区域教育技术规划大会（1956 年利马教育部长会议、1958 年华盛顿泛美大会；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 345]]）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]；资助[[International Schools|国际学校]]校本实验课程跨校交流（如[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广论证；Peterson, 1987, pp. 204–205）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
-> - **旗舰出版物与咨询成果** 1996 年里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*，提出四大支柱）；《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
+> - **旗舰出版物与咨询成果** 1996 年里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*，提出四大支柱）；《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；IIEP《战略审议》（*Strategic Review*, 2025）；IIEP Dakar 第 6 号政策简报（2025）；《全球水资源开发报告》与教育科学政策丛书。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
 > [!citation-card] 教科文组织与世界银行的制度[[Paradigm|范式]]分野
 > 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
@@ -283,6 +284,12 @@ updated: 2026-10-23
 > > - **地缘博弈与话语霸权解构（琼斯、科尔曼与比奇）** 菲利普·琼斯（Phillip Jones）与[[David Coleman|戴维·科尔曼]]（David Coleman, 2005）尖锐指出，1996 年《德洛尔报告》高调重申四大支柱，实质上是教科文组织在“北遭经合组织蚕食、南受世界银行挤压”的领导权危机中，为重塑自身政治合法性而发动的主动舆论反击。比奇进一步指出，教科文组织的人本主义哲学在深层结构上并未颠覆新自由主义治理：它与世行、经合组织共同预设了单一平面的“信息时代”，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型；该话语将受援国本土（如阿根廷与巴西）重视系统知识记忆与博雅学术积淀的百科全书式传统贬为落后低效，通过垄断问题与解方定义，在客观上收紧了借款国探索替代性道路的[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–349)]]
 > > - **教科文组织人文主义立场** 辩称无论外部地缘政治竞争如何残酷，《德洛尔报告》所确立的四大支柱坚守了人是发展的终极目的而非单纯经济手段的不可剥夺人权原则；在市场狂飙与工具理性泛滥的全球化浪潮中，机构的人道主义倡导为捍卫教育公共利益提供了不可替代的批判性反思视界。
 >
+> > [!axis] 全球顶层实证供给垄断 vs 全球南方本土实践生态与知识公平
+> > 探讨联合国教科文组织下属机构在反思全球证据霸权与确立本土审议权方面的制度努力与现实瓶颈。
+> >
+> > - **全球南方本土困境与批判视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 教科文组织达喀尔办事处（UNESCO IIEP Dakar, 2025）指出，全球顶层证据库对大样本随机对照试验的偏好造成了认知排斥，将大量非洲本土高适应性草根创新排除在官方证据清单之外；同时 IIEP (2025)《战略审议》尖锐揭示外部宏观诊断报告在受援国往往陷入年年雷同却从未落地的仪式性重复，暴露出全球证据供给与地方治理现实的深刻断层。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
+> > - **教科文组织知识公平倡导** 教科文组织及其规划机构主张将证据界定为人际协作与系统共建的产物，倡导在发展中国家搭建扎根本土的常设政策审议与专业协调机制，通过确立区域自主权与一线实践者深度参与实现知识公平。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 346)]]
+>
 > > [!citation-card] 琼斯与科尔曼论《德洛尔报告》作为教科文组织应对南北夹击的地缘政治反击
 > > 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭示，1996 年联合国教科文组织发布的里程碑式报告《学习：内在的财富》（德洛尔报告），实质上是该机构在领导权遭受严重危机时的直接产物。当时，教科文组织深感自身在全球教育治理中的威权正被迅速侵蚀——在北方发达国家面临经合组织（OECD）的步步进逼，在南方发展中国家则遭受资金实力雄厚的世界银行的全面挤压；德洛尔报告正是教科文组织为赢回政治合法性与公众声誉而发动的一场明确的公开反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
 > >
@@ -348,3 +355,4 @@ updated: 2026-10-23
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | Argument | 援引联合国教科文组织 2013/2014 年全球监测报告对全球学习危机的界定作为课堂观察手册动因。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 揭示《德洛尔报告》背后教科文组织与世行、经合组织共建全球话语的深层共谋及地缘反击。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 UNESCO-OECD-Eurostat（UOE）联合数据收集机制为欧洲与跨国教育治理指标提供的底层数据同源支撑。 |
+> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析 UNESCO IIEP 2025 年战略审议与 Dakar 政策简报，揭示跨国教育规划诊断的仪式性重复与全球南方证据鸿沟。 |
