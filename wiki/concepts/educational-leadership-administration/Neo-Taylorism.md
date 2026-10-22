@@ -93,8 +93,6 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
----
-
 > [!def] 核心定义
 > **新泰勒主义（Neo-Taylorism in Educational Administration）** 指弗雷德里克·温斯洛·泰勒（Frederick W. Taylor, 1911）的科学管理原理在当代教育治理与学校行政中的复兴。它以“寻找唯一最佳方法”（One Best Way）与“最大化投入回报”为核心驱动，借助[[Positivism|实证主义]]量化指标、[[Meta-analysis|元分析]][[Effect Size|效应量]]排行榜以及数字化监控工具，将充满情境复杂性与伦理交往的教育实践拆解为离散、可测算、可标准化的技术操作单元，对一线教师的专业劳动实施自上而下的绩效监控与规训控制。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
@@ -227,10 +225,6 @@ updated: 2026-10-22
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, pp. 28–30)]] | 澳大利亚维多利亚州教育部高影响力教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）政策文本与全州公立学校管理规程 | 政策文本[[Discourse Analysis\|话语分析]]与微观[[Disciplina and Doctrina\|规训]]技术制度审计 | HITS 考核与教师绩效评估（[[Australian Institute for Teaching and School Leadership\|AITSL]] 标准）绑定程度及操作性规定 | 10 项 HITS 强制嵌入全州学校考评，要求教师执行特定表面动作（如课前必须在白板写清[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]） | 制度政策定性审计 | 揭示新泰勒主义如何通过高浸润性的细微行为清单，对教师课堂劳动实施微观管理与[[Performativity\|表演性]]规制 |
 
 ---
-
-## 领域应用
-
-新泰勒主义在宏观政策、学校管理与日常教学规程中形成了多重具体实践形态。
 
 > [!area-map] 领域应用
 > - **[[School Leadership|学校领导力]]与校长角色重塑** 校长从关注课程哲学与师生福祉的教育引领者，退化为监督标准化操作清单落实、跟进全校测试数据仪表盘的“厂长式”行政执行官（[[Argument_Eacott_2011_JEAH|Eacott, 2011]]; [[Argument_Eacott_2017_SLM|Eacott, 2017]]）。

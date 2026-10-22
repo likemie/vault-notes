@@ -57,7 +57,6 @@ EEG 通过在头皮上放置电极，测量相邻神经元群落的同步电活�
 - EEG 可与 fMRI 或 PET 单独或联合使用，以关联认知功能表现与大脑特定区域([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 - 便携式 EEG 的发展使研究者能在更自然的场景中测试年幼儿童，克服了 fMRI 对年幼儿童研究的限制([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 
-## 相关研究
-
-- [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017]] — 综述中引用的多项[[Research Utilization|研究使用]] EEG 检验 EF 发展中的 [[Prefrontal Cortex|PFC]] 激活
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017]] — 综述中引用的多项[[Research Utilization|研究使用]] EEG 检验 EF 发展中的 [[Prefrontal Cortex|PFC]] 激活
 

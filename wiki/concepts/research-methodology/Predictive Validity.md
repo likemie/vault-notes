@@ -81,8 +81,6 @@ created: 2026-06-23
 updated: 2026-10-22
 ---
 
----
-
 ## 定义
 
 预测效度是衡量测量工具外部有效性与未来发展解释力的核心心理测量学指标。
@@ -293,10 +291,6 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-当前 vault 中围绕预测效度展开的核心实证文献索引如下。
-
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — 开展[[Meta-meta-analysis|二阶元分析]]，系统证实高阶潜能测验在作为[[Independent Variable|预测变量]]时具备中等偏强的预测效度（$r = 0.29$），并确立了[[Variable|变量]]角色的调节显著性。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详尽论述预测效度在教育考试、[[Gaokao|高考]]与选拔性评估中的测量学准则与效标约束条件。
@@ -304,11 +298,7 @@ updated: 2026-10-22
 
 ---
 
-## 条目关联
-
-预测效度与测验[[Reliability|信度]]、其他效度[[Construct|构念]]及应用工具之间的网状关系图谱如下。
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

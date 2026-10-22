@@ -65,6 +65,5 @@ updated: 2026-10-07
 
 ---
 
-## 相关研究
-
-- [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.2)]] 从 [[Conversation Analysis|会话分析]] 中的发言权、评价权和议程控制推导幼儿课堂的隐性课程解释，并并列保留秩序维护的读法。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.2)]] 从 [[Conversation Analysis|会话分析]] 中的发言权、评价权和议程控制推导幼儿课堂的隐性课程解释，并并列保留秩序维护的读法。

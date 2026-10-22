@@ -85,8 +85,6 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
----
-
 ## 定义
 
 最近发展区揭示了外部社会中介干预与个体心智机能演进之间的动态张力。
@@ -310,10 +308,6 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 
 ---
 
-## 相关研究
-
-本 vault 中关于最近发展区及其支架化拓展的核心文献索引如下。
-
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 将 AI [[AI Agent in Education|智能体]][[Operationalization|操作化]]为基础教育学生的外部[[Scaffolding|认知脚手架]]，论证其在最近发展区内自适应微提示对[[Procedural Skill|程序技能]]与[[Higher-Order Thinking Skills|高阶思维]]的赋能机制（pp. 2, 9–10）。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，依托微观行为协议为在职教师绘制实践画像，通过配套 Coach 规程在教师最近发展区内实施一对一针对性辅导。
@@ -324,11 +318,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 
 ---
 
-## 条目关联
-
-最近发展区与[[Cognitive Load Theory|认知负荷理论]]、[[Scaffolding|脚手架]]技术及教育评价工具的关系网络图谱如下。
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

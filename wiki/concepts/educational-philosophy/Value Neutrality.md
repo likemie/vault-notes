@@ -123,8 +123,6 @@ created: 2026-06-17
 updated: 2026-10-20
 ---
 
----
-
 ## 定义
 
 价值中立（Value Neutrality / Value Freedom / 德语：Wertfreiheit）是现代社会科学研究方法论中引发最激烈哲学交锋的规范原则之一，其核心在于如何界定经验事实与规范价值之间的[[Epistemology|认识论]]关系。
@@ -364,10 +362,6 @@ updated: 2026-10-20
 
 ---
 
-## 相关研究
-
-价值中立概念的演进在西方教育学术文献中积累了丰硕的论述。
-
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、[[Positivism|实证主义]]预设及其遭受的批判，剖析[[Reflexivity|反身性]]与价值负荷对客观中立神话的解构。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
@@ -384,11 +378,7 @@ updated: 2026-10-20
 
 ---
 
-## 领域应用
-
-价值中立在教育治理、评价工具与[[Epistemology|认识论]]思辨中占据着复杂的方法论位置。
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

@@ -59,8 +59,6 @@ created: 2026-09-26
 updated: 2026-10-15
 ---
 
----
-
 > [!claim] 核心定位
 > 德国各州立教育研训与质量机构（Landesinstitute und Qualitätseinrichtungen der Länder）是德意志联邦共和国 16 个联邦州教育文化部直属的公立中层专业治理实体。它们上承各州教育宏观法规与课程标准研制，下接基层中小学校内涵发展，统揽教师职后[[Further Education|继续教育]]（Lehrerfortbildung）、教学评估督导与实证研究[[Knowledge Mediation|知识中介]]转化，是联结学术研究与学校日常实践的核心制度枢纽。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 10–12]]
 
@@ -132,14 +130,14 @@ updated: 2026-10-15
 
 ---
 
-## 相关条目
-
-- [[Gesamtstrategie zum Bildungsmonitoring]] 德国国家教育监测[[Total War|总体战]]略，2015 年增设专章明确州立机构的[[Knowledge Transfer|知识转移]]法定职责。
-- [[Forschungsmonitor Schule]] 各州立研究所联合运营的跨区域教育实证研究中介与清算平台。
-- [[Transfer Science]] 转移科学，将州立机构作为中层行动者网络配置的关键分析实体。
+> [!entry-map] 相关条目
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Gesamtstrategie zum Bildungsmonitoring]] | 政策 | 德国国家教育监测[[Total War|总体战]]略，2015 年增设专章明确州立机构的[[Knowledge Transfer|知识转移]]法定职责。 |
+> | [[Forschungsmonitor Schule]] | 机构 | 各州立研究所联合运营的跨区域教育实证研究中介与清算平台。 |
+> | [[Transfer Science]] | 概念 | 转移科学，将州立机构作为中层行动者网络配置的关键分析实体。 |
 
 ---
 
-## 相关研究
-
-- [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 深入剖析德语区各州立研究所被政策赋予重任却遭遇实证研究严重忽视的治理悖论。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 深入剖析德语区各州立研究所被政策赋予重任却遭遇实证研究严重忽视的治理悖论。

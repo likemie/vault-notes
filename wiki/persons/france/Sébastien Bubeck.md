@@ -41,8 +41,6 @@ created: 2026-10-07
 updated: 2026-10-22
 ---
 
----
-
 > [!person-profile] 人物档案
 > - **身份位置** [[Sébastien Bubeck|塞巴斯蒂安·布贝克]]（Sébastien Bubeck, 1985–）是法国计算机科学家、机器学习与人工智能理论研究者，曾长期担任微软研究院（Microsoft Research）副总裁及[[Artificial General Intelligence|通用人工智能]]基础研究团队主管，后加入 OpenAI。
 > - **核心角色** 在现代前沿大模型评估与通用人工智能研究中承担先锋探索角色，通过对未对齐原始大模型的黑箱探索，提出“通用人工智能火花”概念，直接引发全球学术界与产业界关于机器意识与通用推理能力的广泛讨论。
@@ -76,7 +74,7 @@ updated: 2026-10-22
 > - **学术合作团队** 微软研究院跨学科团队（Ronan Eldan, John Krumm, Yin Tat Lee, Yuanzhi Li 等）。
 > - **时代对话者** [[Alexander Karp]]、[[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中引述其独角兽绘图与常识测试，论证人工智能对人类[[Creativity|创造力]]与语言垄断地位的根本性冲击。
 
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

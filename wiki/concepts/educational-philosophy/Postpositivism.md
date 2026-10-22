@@ -97,8 +97,6 @@ created: 2026-06-13
 updated: 2026-10-20
 ---
 
----
-
 ## 定义
 
 后[[Positivism|实证主义]]（Postpositivism）是 20 世纪中叶以来对经典实证主义（[[Positivism]]）绝对确定性、机械[[Determinism|决定论]]与幼稚实在论展开全面反思而确立的研究哲学立场。
@@ -291,10 +289,6 @@ updated: 2026-10-20
 
 ---
 
-## 相关研究
-
-后[[Positivism|实证主义]]构成了解构实证霸权、连接质性与量化路径以及重塑学科历史哲学的核心[[Epistemology|认识论]]枢纽。
-
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统复原从经典实证主义危机走向后实证主义、[[Postmodernism\|后现代主义]]与[[Complexity Theory\|复杂性理论]]的完整[[Paradigm\|范式]]谱系，深刻剖析后实证主义关于知识推测性、理论与价值负荷、多元实在论以及与诠释/质性取向亲和性的认识论内涵（Ch. 1）。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 剖析 1960 年代实证主义对历史学派的围剿，恢复 *Wissenschaft* 与 *Episteme* 的广义科学传统，借[[Crane Brinton\|布林顿]]为[[Historical-Comparative Method\|历史比较法]]确立科学合法性。
@@ -302,11 +296,7 @@ updated: 2026-10-20
 
 ---
 
-## 领域应用
-
-后[[Positivism|实证主义]]构成了当代社会与教育研究方法论体系中的枢纽[[Paradigm|范式]]。
-
-> [!entry-map|notitle]
+> [!entry-map] 领域应用
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|

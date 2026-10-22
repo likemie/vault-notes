@@ -138,10 +138,6 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
----
-
 ## 观察中的评定量表
 
 评定量表在[[Structured Observation|结构化观察]]中也有重要应用，与[[Questionnaire|问卷]]中的自填式评定量表不同，观察中的评定量表由观察者填写（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.2 节]]）。

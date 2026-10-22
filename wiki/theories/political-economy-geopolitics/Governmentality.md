@@ -77,8 +77,6 @@ created: 2026-05-20
 updated: 2026-10-22
 ---
 
----
-
 > [!theory-position] 理论定位
 > - **解释对象** 现代国家与非国家机制如何超越单纯的法律禁止与肉体强制，通过制度理性、专家知识与分类标准，将“人口”（Population）组织为可计算、可干预的对象，并引导个体实现自愿的“自我调节”（[[Self-control|self-regulation]]）。
 > - **理论问题** 传统法学与政治哲学将权力狭隘地等同于主权者的专制压迫或国家机器的垄断暴力，将自由视为治理的对立面；该理论旨在破解现代自由主义与新自由主义体制如何在“保障自由、尊重选择”的表象下，实现更为严密、深层的全景式社会控制。
@@ -131,7 +129,7 @@ graph TD
     O3 -.->|下位特化理论| SG["Spatial Governmentality<br>(Rose, 1999; Sobe & Fischer, 2009)"]
 ```
 
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
@@ -220,4 +218,3 @@ graph TD
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 运用[[Spatial Governmentality|空间治理术]]考察[[Student Mobility|学生流动]]政策中的两极道德话语及全球[[Migrant Education|流动儿童教育]]的空间排斥机制。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合治理术与政策社会学视角，实证剖析经合组织与欧盟如何通过“数字治理”（governing by numbers）构建欧洲教育空间，并揭示大规模测评将终身学习前置为受教育者自我规制技术的微观机制。
 
----

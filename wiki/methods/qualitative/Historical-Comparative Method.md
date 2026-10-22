@@ -125,8 +125,6 @@ created: 2026-09-06
 updated: 2026-10-20
 ---
 
----
-
 > [!def] 方法定义
 > **历史比较法（Historical-Comparative Method）** 是将**历史溯源诠释（Historical-Genetic Hermeneutics）** 与**跨国横向比较（Cross-National Comparison）** 有机融合的核心[[Qualitative Research|质性研究]]方法。该方法将各民族国家的教育与科技体制、国家治理能力或超国家组织的演化置于其生成发展的具体历史脉络中，通过系统考证政治、经济、文化、制度能力与地缘权力等结构性力量的长周期演进，揭示制度特征形成的深层因果机制；拒绝将当下制度现象抽离其时空母体进行孤立切片，其核心旨趣在于通过发掘历史档案、法令条款、政策白皮书与思想文本中的深层动因，解释体制与治理网络“何以成为当下形态”，并在此基础上归纳提炼可用于阐明其他同类制度演变的工作假设。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 39–40, 56–57)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–796)]]
 
@@ -244,7 +242,7 @@ updated: 2026-10-20
 
 历史比较法与[[Paradigm|研究范式]]、分析工具及哲学基础构成了紧密的共生网络。
 
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

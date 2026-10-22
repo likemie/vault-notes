@@ -70,8 +70,6 @@ created: "2026-06-08"
 updated: 2026-10-22
 ---
 
----
-
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名教育心理学家与量化统计学家，亚利桑那州立大学（Arizona State University）与科罗拉多大学博尔德分校（University of Colorado Boulder）荣休教授，曾任美国教育研究协会（[[American Educational Research Association|AERA]]）主席（1975–1976）。
 > - **核心角色** [[Meta-analysis|元分析]]（Meta-analysis）方法的奠基人与命名者；在现代社会科学与循证[[Policy Network|政策网络]]中，开创了通过标准化[[Effect Size|效应量]]（Glass's $\Delta$）综合海量独立实证研究的方法论传统。
@@ -186,10 +184,6 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-本 vault 中围绕吉恩·格拉斯的方法学思想、[[Meta-analysis|元分析]]应用与政策误读展开讨论的代表性文献如下。
-
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 详尽追溯元分析的起源，阐明格拉斯如何开创心理治疗效果的元分析并确立通用[[Effect Size|效应量]]尺度，同时引述其关于苹果与橙子辩护及图表警示的名言。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引用格拉斯与史密斯（1979）关于[[Class Size|班级规模]]从 40 人缩至 1 人提升 30 个百分位的原始实验曲线，揭露《[[Visible Learning|可见的学习]]》将[[Primary and Secondary Documents|原始文献]]篡改为 $d=0.09$ 的断章取义行径（pp. 32–33）。
@@ -199,11 +193,7 @@ updated: 2026-10-22
 
 ---
 
-## 条目关联
-
-吉恩·格拉斯在方法论、政策实证、批判反思网络中的关联图谱如下。
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 贡献说明 |
 > |:-----|:-----|:---------|:---------|

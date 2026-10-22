@@ -403,9 +403,7 @@ updated: 2026-10-22
 
 ---
 
-## 相关研究
-
-> [!evidence-grid-a|notitle] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 对[[John Hattie|哈蒂]]班级规模结论进行数理对偶审计，揭示小班 $d=+0.20$ 与大班 $d=-0.20$ 的参照基准颠倒效应，论证人为阈值（$d=0.40$）如何导致政策判定发生逻辑断裂（pp. 240–242）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 批判性重审可见学习底层逻辑，援引 Berger (1982) 确立班级规模非独立[[Unit of Analysis|分析单元]]属性，揭露排除 [[Socioeconomic Status|SES]] 调节[[Variable|变量]]所建构的阶级盲教学思维（pp. 5–7）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 通过词频统计（95 次提及）与格拉斯[[Primary and Secondary Documents|原始文献]]核查，系统揭露《[[Visible Learning|可见的学习]]》如何将班级规模效应矮化为新自由主义财政紧缩的实证挡箭牌（pp. 31–33）。
@@ -420,9 +418,7 @@ updated: 2026-10-22
 
 ---
 
-## 条目关联
-
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|

@@ -49,8 +49,6 @@ created: 2026-10-08
 updated: 2026-10-20
 ---
 
----
-
 > [!claim] 核心定位
 > “回形针行动”（Operation Paperclip，1945–1959）是第二次世界大战末期至冷战初期由美国联合情报目标局（Joint Intelligence Objectives Agency, JIOA）及陆海军情报部门联合策划并实施的绝密战略科技人才招募计划。该计划抢在苏联之前全面搜罗并转移德国核心科研人员、工程团队与尖端武器图纸，为战后美国确立洲际导弹、航空航天、合成燃料与现代国防科技[[Hard Power|硬实力]]霸权奠定了决定性技术基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 161)]]
 
@@ -106,7 +104,7 @@ updated: 2026-10-20
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 剖析回形针行动体现的不拘成见、放下虚荣与以[[Hard Power|硬实力]]为先的[[Engineering Pragmatism|工程实用主义]][[Epistemology|认识论]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14, p. 161]]）。
 
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|

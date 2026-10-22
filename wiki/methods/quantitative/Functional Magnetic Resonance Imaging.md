@@ -54,7 +54,6 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 - **vs [[Electroencephalography|EEG]]** — fMRI 空间分辨率优于时间分辨率；EEG 可测量毫秒级脑活动增量，时间分辨率更佳([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 - fMRI and [[Punctuated Equilibrium Theory|PET]] 均可单独使用或与 EEG 结合使用，以关联认知功能任务表现与特定脑区([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 
-## 相关研究
-
-- [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 综述中引用的多项[[Research Utilization|研究使用]] fMRI 检验 [[Prefrontal Cortex|PFC]] 在 EF 任务中的激活模式
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 综述中引用的多项[[Research Utilization|研究使用]] fMRI 检验 [[Prefrontal Cortex|PFC]] 在 EF 任务中的激活模式
 

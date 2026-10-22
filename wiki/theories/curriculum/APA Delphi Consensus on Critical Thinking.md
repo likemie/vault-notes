@@ -56,8 +56,6 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
----
-
 > [!theory-position] 理论定位
 > - **解释对象** [[Critical Thinking\|批判性思维]]（Critical Thinking）的本质内涵、核心构成要素、[[Operationalization\|操作化]]定义及其在教育评估中的通用标准。
 > - **理论问题** 回应 20 世纪 80 年代批判性思维领域派系林立、定义模糊、测量工具缺乏统一[[Construct Validity\|构念效度]]基准的学界困境。
@@ -104,7 +102,7 @@ updated: 2026-10-22
 >     end
 > ```
 
-> [!entry-map|notitle]
+> [!entry-map] 条目关联
 > | 构件名称 | 构件类型 | 在德尔菲共识框架中的功能 |
 > |---|---|---|
 > | **六大认知技能（Cognitive Skills）** | 技能维度 | 提供了[[Critical Thinking\|批判性思维]]的严密[[Operationalization\|操作化]]定义与测量判据，成为 CCTST、WGCTA 等标准化量表编制的理论母体。 |

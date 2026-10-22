@@ -82,8 +82,6 @@ created: 2026-07-25
 updated: 2026-10-20
 ---
 
----
-
 ## 定义
 
 储蓄式教育（Banking Model of Education，亦作储蓄概念/银行概念，Banking Concept of Education）是[[Critical Pedagogy|批判教育学]]奠基人[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）在《被压迫者教育学》（*Pedagogy of the Oppressed*）中确立的基石性批判范畴。
@@ -220,10 +218,6 @@ updated: 2026-10-20
 > > - **Smith** 论证直接享用算法代劳成果构成了高技术形态的数字储蓄式教育，必然诱发[[Cognitive Deskilling|认知去技能化]]。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 
 ---
-
-## 相关研究
-
-储蓄式教育在教育哲学、课程论、知识社会学与人工智能伦理学中形成了持续扩展的跨学科实证与理论谱系。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] 结合[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]哲学审查[[International Baccalaureate|国际文凭]]课程，系统解构储蓄式教育中“加仑事实”灌输与空容器假设对[[Active Learning|主动学习]]的侵害。

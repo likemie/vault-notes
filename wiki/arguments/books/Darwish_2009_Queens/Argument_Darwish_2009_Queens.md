@@ -113,7 +113,6 @@ related_persons:
   - "[[Hilda Taba]]"
   - "[[Henry Giroux]]"
 ---
-## 总览
 
 关于[[Active Learning|主动学习]]的概念分析研究（Queen's University, 2009），系统解构了主动学习的[[Epistemology|认识论]]根基、历史演进与教学法张力。研究立足于哲学与概念分析，通过对西方教育思想史（[[Plato|柏拉图]]、[[Aristotle|亚里士多德]]、[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]等）及现代课程案例（[[International Baccalaureate|IBO]] 与 [[Theory of Knowledge|TOK]] 课程）的深入考察，揭示了主动学习绝非简单的教学技巧（如分组讨论或动手操作），而是一种关乎学习者主体地位、批判意识与社会实践的教育[[Paradigm|范式]]重构。
 
@@ -181,7 +180,6 @@ related_persons:
 > 在储蓄式教育中，知识是那些自以为有知识的人赐予给那些被他们认定为一无所知的人的礼物。这种灌输压抑了学习者的批判意识。（p. 7; Freire, 1970, p. 72）
 >
 > *Knowledge emerges only through invention and re-invention, through the restless, impatient, continuing, hopeful inquiry human beings pursue in the world, with the world, and with each other. (p. 7; Freire, 1970, p. 72)*
-
 
 > [!chapter-question]
 > 杜威如何通过解构传统教育与建立经验生长理论、[[Reflective Thinking\|反思性探究]]五步骤以及作为联合生活方式的民主，为主动学习奠定[[Epistemology\|认识论]]与教学法基础？他的理论在面对结构性社会压迫与实践变革行动时存在怎样的局限？

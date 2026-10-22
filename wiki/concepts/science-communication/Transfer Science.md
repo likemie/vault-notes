@@ -67,8 +67,6 @@ created: 2026-09-26
 updated: 2026-10-20
 ---
 
----
-
 > [!def] 核心定义
 > 转移科学（Transferwissenschaft）是将知识、研究证据与创新成果从学术生产端向政策、管理及教育实践端流动的条件、机制、界面与转化过程本身作为独立经验与理论反思对象的专门研究形态。在教育科学语境中，该概念要求教育学不仅作为产出证据的实体学科，更必须作为反省自身研究成果如何被理解、加工与制度化挪用的转移科学（Erziehungswissenschaft als Transferwissenschaft），系统厘清转移对象、行动者网络配置以及干预措施底层的因果作用假设。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 10–12]]
 
@@ -210,8 +208,7 @@ updated: 2026-10-20
 
 ---
 
-## 相关研究
-
-- [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 检视德语区新治理工具的转移受挫现实，批判机械医学类比，倡导将教育科学确立为研究转移全过程的转移科学。
-- [[Argument_Besa_2024_UW|Besa (2024)]] 剖析德语区教师脱离实证研究的现实困境与[[Neuromyth|神经神话]]传播，系统对比五类科学传播形态的中介利弊。
-- [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] 评估[[Clearing House Unterricht|慕尼黑工业大学教学清算中心]]（CHU）以[[Meta-analysis|元分析]]为基底、面向教师教育骨干开展转译加工的实践效用。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 检视德语区新治理工具的转移受挫现实，批判机械医学类比，倡导将教育科学确立为研究转移全过程的转移科学。
+> - [[Argument_Besa_2024_UW|Besa (2024)]] 剖析德语区教师脱离实证研究的现实困境与[[Neuromyth|神经神话]]传播，系统对比五类科学传播形态的中介利弊。
+> - [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] 评估[[Clearing House Unterricht|慕尼黑工业大学教学清算中心]]（CHU）以[[Meta-analysis|元分析]]为基底、面向教师教育骨干开展转译加工的实践效用。

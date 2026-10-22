@@ -81,9 +81,8 @@ updated: 2026-10-22
 > [!warning] 争议与批评
 > 新儒学运动的兴起部分是对当时盛行的佛教与道教的回应。佛教主张彻底消除人欲以求觉悟，道教提倡顺应自然、避免人为奋斗——这两种取向都不为儒家所接受，因为儒家鼓励个体齐家、服务社群、承担更大的社会与道德责任([[Argument_Li_2012_Cambridge\|Li, 2012, p.61]])。
 
-## 相关研究
-
-- Li_2012_Cultural Foundations of Learning — 论证宋明理学构建了东亚学习传统中"[[Take the World Upon Oneself|以天下为己任]]"与"[[Learning Virtues|学习美德]]"的核心框架
+> [!evidence-grid-a] 相关研究索引
+> - Li_2012_Cultural Foundations of Learning — 论证宋明理学构建了东亚学习传统中"[[Take the World Upon Oneself|以天下为己任]]"与"[[Learning Virtues|学习美德]]"的核心框架
 
 ## 应用领域
 
