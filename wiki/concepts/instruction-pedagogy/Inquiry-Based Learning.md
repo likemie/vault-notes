@@ -279,13 +279,6 @@ updated: 2026-10-22
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 6)]]<br>（引述 Linn et al., 2014; Krajcik et al., 2014; Songer et al., 2009） | 涵盖全州与学区数万名学生的多年期课程改革项目（如基于网络的探究科学环境 [[Web-based Inquiry Science Environment\|WISE]]、全要素科学调查课程 IQWST） | 课程级长周期准实验与全州统考追踪 | 标准化科学统考成绩与概念理解表现 | 接受完整探究课程的学生在全州标准化科学统考中的及格率与高分率显著超越学区对照组 | 跨多年、跨学校大规模队列效应稳健 | 强力反驳了探究教学无法提升宏观标准化测验成绩的质疑，证实结构化探究课程的规模化优势 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] | 方法学审计：《[[Visible Learning\|可见的学习]]》对探究式教学元分析[[Standard Error\|标准误]]的计算审查 | [[Meta-meta-analysis\|二级元分析]]算法审计 | 汇总[[Standard Error\|标准误]]计算准确性 | 报告的标准误 $0.092$ 系两项一阶元分析标准误 $0.154$ 与 $0.030$ 的未加权简单算术均值 $(0.154+0.030)/2$ | 比高精度子研究误差虚假放大 3 倍以上 | 揭露二级综合严重违反样本聚合提高精度的公理，证实粗放平均对探究教学统计精度的扭曲 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
-> - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
-> - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
-
 > [!metax] [探究式教学 · Inquiry-based teaching](https://www.visiblelearningmetax.com/influences/view/inquiry-based_teaching)
 > 教学策略 › 教学方法
 >
@@ -308,3 +301,11 @@ updated: 2026-10-22
 > > | Kaçar et al. (2021) | Inquiry methods | 30 | NA | 30 | 1.15 |  |
 > > | Heindl (2019) | Inquiry methods in science | 13 | NA | 13 | 0.74 |  |
 > > | Antonio & Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
+> - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
+> - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。
+

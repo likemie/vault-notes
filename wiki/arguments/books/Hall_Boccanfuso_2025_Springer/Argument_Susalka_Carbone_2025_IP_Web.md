@@ -52,7 +52,6 @@ citation_aliases:
   - "Susalka & Carbone, 2025"
   - "Susalka & Carbone (2025)"
 ---
-
 ---
 
 > [!question] 核心关切

@@ -70,9 +70,8 @@ related_persons:
   - "[[George Kelly]]"
 status: draft
 created: 2026-07-28
-updated: 2026-10-16
+updated: 2026-10-22
 ---
-
 ---
 
 > [!knowledge-map] 第25章　[[Concept Mapping\|概念地图]]

@@ -88,7 +88,6 @@ argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Nordic Journal of Studies in Educational Policy"
 ---
-
 ---
 
 > [!question]

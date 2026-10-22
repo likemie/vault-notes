@@ -72,7 +72,6 @@ citation_aliases:
   - "Wolf et al., 2025"
   - "Wolf et al. (2025)"
 ---
-
 > [!question]
 > 国际产学（University-Industry, UI）研究合作的出版物数量在过去二十年显著增长，尤其是涉及三个及以上国家的合作(p.311)。然而跨国研究团队不仅面临一般[[University-Industry Collaboration\|产学合作]]中的目标分歧和知识产权障碍，还叠加了跨境特有的[[Geopolitics|地缘政治]]风险、法律框架冲突和文化沟通壁垒。这些额外复杂性的来源是什么？它们如何相互关联？是否存在可复制的成功模式？
 >

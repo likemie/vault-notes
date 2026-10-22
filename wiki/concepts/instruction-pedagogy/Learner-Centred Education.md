@@ -199,11 +199,6 @@ tags:
 > | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
 > | [[Argument_Wang_2025_CE\|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与文献 | 跨国比较分析与[[Policy Borrowing\|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂[[Praxis\|实践]] | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的转译形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability\|考试问责]]与教学改革的扩展性改造。
-
 > [!metax] [以学生为中心的教学 · Student-centered teaching](https://www.visiblelearningmetax.com/influences/view/student-centered_teaching)
 > 学生学习策略 › 学生导向干预
 >
@@ -221,3 +216,9 @@ tags:
 > > | Bernard et al. (2019) | Student centered vs. teacher centered approach | 299 | 43,175 | 365 | 0.44 |  |
 > > | Uyar & Doganay (2018) | Student centered teaching | 105 | NA | 120 | 1.14 |  |
 > > | Simsek & Ozaslan (2021) | Student centered teaching | 55 | NA | 55 | 1.00 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] — 运用[[Third Generation Activity Theory\|第三代活动理论]]分析中国 4 所案例学校在跨文化教师教育项目后，如何通过建立学校特定共享目标，将 LCE 重构为提升高阶考分与课堂效率的工具，实现[[Test-Based Accountability\|考试问责]]与教学改革的扩展性改造。
+

@@ -63,11 +63,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | Hedges' $g=0.497$（派生） | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 ASC 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。
-
 > [!metax] [积极自我概念 · Positive self-concept](https://www.visiblelearningmetax.com/influences/view/positive_self-concept)
 > 学生 › 自我
 >
@@ -92,3 +87,9 @@ updated: 2026-10-22
 > > | Gueyaud & Dassa (1998) | Self-concept | 108 | NA | 693 | 0.32 |  |
 > > | Suciati et al. (2020) | Self-concept | 28 | NA | 28 | 1.58 |  |
 > > | Ding et al. (2024) | Academic Self-concept | 68 | 37,113 | 68 | 1.02 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以 ASC 作为大学新生学术成果的代理测量，比较 DP 与非 DP 毕业生的学术自我概念差异。
+

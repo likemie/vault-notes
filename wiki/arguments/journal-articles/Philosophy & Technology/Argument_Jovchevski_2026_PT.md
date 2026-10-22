@@ -52,7 +52,7 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-10-17
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Jovchevski_2026_PT"
@@ -69,7 +69,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

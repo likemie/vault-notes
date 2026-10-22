@@ -53,7 +53,6 @@ status: draft
 created: 2026-06-11
 updated: 2026-10-22
 ---
-
 ---
 > [!question]
 > [[Guangdong-Hong Kong-Macau Greater Bay Area\|粤港澳大湾区]]高等教育是否已经产生了属于自己的空间？大学教师——特别是那些具有桥接学术、产业和政府网络经验的关键节点（key nodes）——如何感知、构想和活生生地体验 GBA 空间？已有研究主要从基础设施和政策文件层面分析 GBA，但"构想空间的主导地位对活生生空间中的人类能动性毫无公正"（Lefebvre, 1991, p. 54）。本研究聚焦于最未被充分研究的维度——**活生生空间（lived space）**。

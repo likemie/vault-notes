@@ -209,11 +209,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 整合任务在轨时间与高推论实践的 Teach [[Classroom Observation\|课堂观察]]得分（每增加 1 个标准差） | 学生跨期标准化测试成绩增值（增值模型） | 巴基斯坦旁遮普省公立小学大样本学生（控制校级聚类[[Standard Error\|标准误]]） | 控制[[Class Size\|班级规模]]、教师学科知识、教龄及学生家庭 SES | $\beta = 0.08\text{–}0.12$ SD | $p < .01$ | 证实包含在轨时间与深层互动的微观实践对学业增益具有统计显著的实质预测力；单独时间快照未单独报告脱离高推论的隔离效应量。 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立任务在轨时间的定格快照[[Operationalization|操作化]]规程，证实其作为基础支柱对学生学业增益的联合预测力。
-
 > [!metax] [任务时间 · Time-on-task](https://www.visiblelearningmetax.com/influences/view/time-on-task)
 > 学生学习策略 › 学习策略
 >
@@ -240,3 +235,9 @@ updated: 2026-10-22
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Shulruf et al. (2006) 与 Purdie & Hattie (1999) 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录。
 > > - ∑ **自动核算 · 剔除重复后** 元分析 11 项，研究数 327，加权平均效应量 0.50，未加权平均效应量 0.44（仅供参考，尚未经文献核实）。
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立任务在轨时间的定格快照[[Operationalization|操作化]]规程，证实其作为基础支柱对学生学业增益的联合预测力。
+

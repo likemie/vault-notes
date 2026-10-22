@@ -229,14 +229,6 @@ updated: 2026-10-22
 > | **一对一辅导：助教（Tier 3）** | [[Pirate Math]] | 3 年级 | 1 项 | $+0.37$ | 强证据（Strong） |
 > | **一对一辅导：助教（Tier 3）** | [[Tutor-Assisted Math Problem Solving]] | 3 年级 | 1 项 | $+0.42$ | 强证据（Strong） |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统诊断传统 RTI 的执行困境并提出 [[Response to Proven Instruction\|RTPI]] 循证干预反应方案及阅读与数学实证效果矩阵。
-> - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism\|因果决定论]]提供批判视角。
-> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 针对宏观证据库中 RTI 影响因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，揭示一阶[[Meta-analysis|元分析]]收录非学业测量（智商与行为）及大学生样本直接违背 [[PICO Framework|PICO]] 准入标准的问题。
-> - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助、证据审查与政策激励的三条件模型。
-
 > [!metax] [干预反应模式 · Response to Intervention](https://www.visiblelearningmetax.com/influences/view/response_to_intervention)
 > 教学策略 › 教学方法
 >
@@ -255,3 +247,12 @@ updated: 2026-10-22
 > > | Burns et al. (2005) | Response to Intervention programs | 25 | NA | 25 | 1.49 |  |
 > > | Wang et al. (2016) | Response to Intervention programs | 34 | 6,127 | 261 | 0.50 |  |
 > > | Stuebing et al. (2015) | Response to Intervention programs | 28 | NA | 39 | 0.30 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统诊断传统 RTI 的执行困境并提出 [[Response to Proven Instruction\|RTPI]] 循证干预反应方案及阅读与数学实证效果矩阵。
+> - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism\|因果决定论]]提供批判视角。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 针对宏观证据库中 RTI 影响因素开展[[Preregistration|预注册]][[Metascience|元科学]]审计，揭示一阶[[Meta-analysis|元分析]]收录非学业测量（智商与行为）及大学生样本直接违背 [[PICO Framework|PICO]] 准入标准的问题。
+> - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助、证据审查与政策激励的三条件模型。
+

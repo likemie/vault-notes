@@ -174,13 +174,6 @@ updated: 2026-10-22
 > - **2012 年 — 文化生态与社会符号学审视** [[Argument_Li_2012_Cambridge\|Li (2012)]] 揭示文化价值体系对求助意义的深层建构，对比了西方“自我威胁/能力暴露”与东方“[[Self-Cultivation\|修身]][[Humility\|谦逊]]/同学支持”的[[Cultural Models\|文化模型]]差异。
 > - **2025 年 — 生成式 AI 介入与人机求助心理学重塑** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] [[Meta-analysis\|元分析]]证实生成式 AI 显著降低高校求助焦虑（$g^+ = 0.617$）；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 进一步揭示低威胁人机求助如何帮助先验知识薄弱者克服求助恐惧，进而作为阶梯驱动学习者向评价论[[Epistemic Stances\|认识立场]]演进。
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 阐释求助恐惧对认识探索的阻碍，论证生成式 AI 的拟人化与无偏见特征如何提供低威胁求助环境，并结合[[Scaffolding\|教学支架]]促进自适应[[Epistemic Stances\|认识立场]]演进。（pp. 361–362）
-> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 基于大样本[[Meta-analysis\|元分析]]确证生成式 AI 对大学生[[Affective Outcomes\|情感动机]]的显著促进，揭示其消除传统高权力距离师生互动中提问求助焦虑的“权力壁垒破除机制”。（pp. 10–13, 16）
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较文化心理学奠基专著，深度剖析东方“同学文化”将同伴求助定义为[[Humility\|谦逊]]美德与西方[[Peer-Supported Learning|同伴文化]]将求助视作能力暴露的系统差异。（pp. 106–108, 2933–2935）
-
 > [!metax] [求助 · Help seeking](https://www.visiblelearningmetax.com/influences/view/help_seeking)
 > 学生学习策略 › 元认知／自我调节学习
 >
@@ -208,3 +201,11 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Hattie & Donoghue (2016) | Seeking help from peers | 21 | NA | 21 | 0.83 |  |
 > > | Brierley (2022) | Seeking help from peers in medical school | 21 | NA | 21 | 0.52 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 阐释求助恐惧对认识探索的阻碍，论证生成式 AI 的拟人化与无偏见特征如何提供低威胁求助环境，并结合[[Scaffolding\|教学支架]]促进自适应[[Epistemic Stances\|认识立场]]演进。（pp. 361–362）
+> - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — 基于大样本[[Meta-analysis\|元分析]]确证生成式 AI 对大学生[[Affective Outcomes\|情感动机]]的显著促进，揭示其消除传统高权力距离师生互动中提问求助焦虑的“权力壁垒破除机制”。（pp. 10–13, 16）
+> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较文化心理学奠基专著，深度剖析东方“同学文化”将同伴求助定义为[[Humility\|谦逊]]美德与西方[[Peer-Supported Learning|同伴文化]]将求助视作能力暴露的系统差异。（pp. 106–108, 2933–2935）
+

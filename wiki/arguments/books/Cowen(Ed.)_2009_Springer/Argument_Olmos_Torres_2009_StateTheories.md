@@ -106,7 +106,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
@@ -123,7 +123,6 @@ publication_place: "Dordrecht"
 publisher: "Springer"
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

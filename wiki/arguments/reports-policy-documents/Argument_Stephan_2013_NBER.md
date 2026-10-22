@@ -75,7 +75,6 @@ publication_place: "Cambridge, MA"
 publisher: "National Bureau of Economic Research"
 issuing_organization: "National Bureau of Economic Research"
 ---
-
 ---
 
 > [!question]

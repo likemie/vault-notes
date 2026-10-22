@@ -70,7 +70,6 @@ citation_aliases:
   - "Vickers, 2024"
   - "Vickers (2024)"
 ---
-
 ---
 
 > [!question]

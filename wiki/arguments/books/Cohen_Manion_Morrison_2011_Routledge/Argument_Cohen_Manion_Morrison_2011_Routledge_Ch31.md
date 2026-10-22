@@ -58,9 +58,8 @@ sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-17
+updated: 2026-10-22
 ---
-
 ## 总览
 
 完整文本保留谈话的先后顺序、故事的情境与个人经历的变化，为分段编码之外的质性分析提供路径。[[Discourse Analysis|话语分析]]依据具体语言证据解释社会行动与权力关系，同时要求审视文本选择与解释者自身的影响。（§§31.1–31.5）

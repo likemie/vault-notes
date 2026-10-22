@@ -44,7 +44,7 @@ sources:
   - "[[sources/Sandoval_2005_SE|Sandoval_2005_SE]]"
 status: draft
 created: 2026-08-19
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2005_SE"
@@ -57,7 +57,6 @@ argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Science Education
 ---
-
 ---
 
 > [!question]

@@ -70,7 +70,6 @@ argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Industry, Competition and Trade"
 ---
-
 ---
 
 > [!question]

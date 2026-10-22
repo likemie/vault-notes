@@ -80,7 +80,6 @@ citation_aliases:
   - "Parreira do Amaral & Thompson, 2022"
   - "Parreira do Amaral & Thompson (2022)"
 ---
-
 > [!question]
 > 在全球[[Knowledge-Based Economy\|知识经济]]时代，创新、科学能力和教育被视为全球经济竞争的关键驱动力，高等教育被重构为[[Knowledge Production\|知识生产]]、创新学习环境和[[Human Capital Theory\|人力资本]]的首要场所。编者提出，这些发展正在构成一种（新的）[[Geopolitics of Knowledge\|知识地缘政治]]（a [[New Geopolitics]] of knowledge）——其中创新、科学和教育成为个体、企业、地区和国家进行全球战略定位的关键特征(Thompson &, p.9)。
 

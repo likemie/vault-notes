@@ -211,12 +211,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | [[Generative Artificial Intelligence\|生成式人工智能]]干预下的学生[[Higher-Order Thinking Skills\|高阶思维]]培养（混合式学习亚组） | 22 / — | $g = 0.525$ [0.406, 0.644] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） | 亚组效应达中等水平且组内检验高度显著（$Z = 8.636, p < 0.001$）；三分类教学模式全模型组间差异虽未达统计显著，但混合式学习效果显著优于传统讲授式教学（$g = 0.396, p > 0.05$ 未达显著），展现出稳健的教学组织优势。 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，将混合式学习作为核心教学模式调节[[Variable\|变量]]（$k = 22, g = 0.525, p < 0.001$），实证确证了双轨探究环境在激发学生逻辑排错与反思评估中的稳健促学价值，促学效果显著超越传统讲授式课堂。
-> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将混合学习拓展为人机混合认知与关系性主体性协同的新[[Paradigm\|范式]]，论证线下面对面研讨在注入[[Epistemic Friction\|认知摩擦]]与防范算法依赖中的战略价值。
-
 > [!metax] [混合式学习 · Blended learning](https://www.visiblelearningmetax.com/influences/view/blended_learning)
 > 技术、学校与校外策略 › 远程／混合
 >
@@ -239,6 +233,12 @@ updated: 2026-10-22
 > > | Kazu et al. (2022) | Hybrid learning | 44 | NA | 45 | 1.03 |  |
 > > | Najafi & Heidari (2018) | Blended learning | 20 | 2,064 | 20 | 0.59 |  |
 > > | Oktarina et al. (2021) | Blended learning | 22 | NA | 22 | 0.44 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的[[Meta-analysis\|元分析]]中，将混合式学习作为核心教学模式调节[[Variable\|变量]]（$k = 22, g = 0.525, p < 0.001$），实证确证了双轨探究环境在激发学生逻辑排错与反思评估中的稳健促学价值，促学效果显著超越传统讲授式课堂。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 将混合学习拓展为人机混合认知与关系性主体性协同的新[[Paradigm\|范式]]，论证线下面对面研讨在注入[[Epistemic Friction\|认知摩擦]]与防范算法依赖中的战略价值。
 
 ---
 

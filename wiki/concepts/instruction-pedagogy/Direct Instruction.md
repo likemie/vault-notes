@@ -323,18 +323,6 @@ updated: 2026-10-22
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Oliver et al., 2021） | [[PISA\|国际学生评估项目]]（PISA）2015 跨国大规模数据（数十万学生） | 多层非线性多项式回归分析 | 教师直接指导与学生探究对科学成绩的[[Interaction Effect\|交互作用]] | 教师直接指导与探究活动呈显著倒 U 型交互增益；单一孤立的超高强度直接讲授呈现收益递减甚至负向关联 | 跨国分析高度一致 | 证明直接教学的最优效能取决于其与探究实践的动态结合（Sweet Spot） |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 29–30)]]<br>（审计 Haas, 2005 与 Hattie 数据库） | Haas (2005) 直接教学元分析（19 个效应量，$\text{SD} = 0.59$） | 统计审计与[[Inverse-Variance Weighting\|逆方差加权]]复核 | 二级元分析[[Standard Error\|标准误]]计算与权重分配 | Hattie 伪造标准误 $\text{SE} = 0.135$（$W = 54.9$），真实标准误 $\text{SE} = 0.092$（$W = 118.1$） | 权重被削减 53.5% | 揭示 Hattie 数据处理错误导致直接教学大样本高精度研究在总库中的权重被严重压低 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach\|学科融入模式]]在[[Critical Thinking\|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
-> - [[Argument_Zhao_2017_JEC\|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size\|效应量]]崇拜背后的生态代价。
-> - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美[[Positivism\|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm\|范式]]差异。
-> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 多水平[[Meta-analysis\|元分析]]证实显性直接教学在[[Creativity Training\|创造力干预]]中的关键效能。
-> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 比较[[Australian Curriculum\|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
-> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
-
 > [!metax] [直接教学 · Direct instruction](https://www.visiblelearningmetax.com/influences/view/direct_instruction)
 > 教学策略 › 教学方法
 >
@@ -353,3 +341,16 @@ updated: 2026-10-22
 > > | Coughlin (2011) | DI | 20 | NA | 95 | 0.66 |  |
 > > | Alsowat (2020) | Explicit instruction on ELL | 2,361 | 478,287 | 5,662 | 0.59 |  |
 > > | Mason & Otero (2021) | DI | 39 | NA | 39 | 0.79 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 评估独立直接教学与[[Infusion Approach\|学科融入模式]]在[[Critical Thinking\|批判性思维]]培养中的相对效应，揭示显性混合模式的最优性。
+> - [[Argument_Zhao_2017_JEC\|Zhao (2017)]] — 从教育副作用视角深度反思直接教学与 Hattie [[Effect Size\|效应量]]崇拜背后的生态代价。
+> - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美[[Positivism\|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm\|范式]]差异。
+> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 多水平[[Meta-analysis\|元分析]]证实显性直接教学在[[Creativity Training\|创造力干预]]中的关键效能。
+> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 比较[[Australian Curriculum\|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
+

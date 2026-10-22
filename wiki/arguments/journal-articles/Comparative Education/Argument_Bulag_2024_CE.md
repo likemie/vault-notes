@@ -47,7 +47,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-25
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bulag_2024_CE"
@@ -67,7 +67,6 @@ citation_aliases:
   - "Bulag, 2024"
   - "Bulag (2024)"
 ---
-
 ---
 
 > [!question] [[Research Question\|研究问题]]与主权管辖矛盾

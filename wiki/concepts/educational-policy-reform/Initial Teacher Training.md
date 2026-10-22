@@ -157,11 +157,6 @@ updated: 2026-10-22
 > [!critique] 外部批评
 > - **劳动力流失与生源危机** 碎片化的市场化培训路径并未解决英格兰严峻的教师招聘与早期流失危机，高压问责与清单考核反而加剧了入职焦虑。
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。
-
 > [!metax] [职前教师教育 · Initial teacher education programs](https://www.visiblelearningmetax.com/influences/view/initial_teacher_education_programs)
 > 教师 › 教师教育
 >
@@ -179,3 +174,9 @@ updated: 2026-10-22
 > > | Kelley & Camilli (2007) | Teacher education in early childhood | 32 | NA | 105 | 0.15 |  |
 > > | Dunst et al. (2019) | Teacher preparation program on student achievement | 6 | 1,047,391 | 21 | -0.04 |  |
 > > | Dunst et al. (2019) | Teacher degree on student achievement | 54 | 27,532 | 54 | 0.19 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。
+

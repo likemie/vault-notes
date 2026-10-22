@@ -167,11 +167,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432, Table 2)]]; Hattie (2009) | 7 项元分析 | 240 项研究 | 31,649 名学生与教师 | 0.75 | 极高显著促进效应 | 教师所有实践影响因素排位第二名，属于期望效应区（$d \ge 0.40$）最高梯队 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。
-
 > [!metax] [教师清晰度 · Teacher clarity](https://www.visiblelearningmetax.com/influences/view/teacher_clarity)
 > 教师 › 教师特质
 >
@@ -185,3 +180,9 @@ updated: 2026-10-22
 > > | Fendick (1990) | Teacher clarity on outcomes | 39 | NA | 100 | 0.75 |  |
 > > | Titsworth et al. (2015) | Teacher clarity on outcomes | 25 | 8,241 | 25 | 0.72 |  |
 > > | Titsworth et al. (2015) | Teacher clarity on outcomes | 37 | 6,612 | 114 | 1.04 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 在全面述评可见学习时归纳教师效能核心因素表，确立教师清晰度以 $d = 0.75$ 位列教师实践第二位。
+

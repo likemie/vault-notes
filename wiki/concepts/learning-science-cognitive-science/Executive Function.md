@@ -200,6 +200,19 @@ updated: 2026-10-22
 > | **[[Argument_Park_2026_TSC\|Park et al. (2026)]]** | 68 项独立实证研究涉及跨学段学生群体 | 效应量相关[[Meta-analysis\|元分析]]与调节效应检验 | [[Creativity\|创造力]]（发散）与[[Critical Thinking\|批判性思维]]（收敛）之关系 | • 总体加权相关系数 **$r = 0.38$**<br>• 共享抑制控制与任务灵活性方差贡献 | 95% CI [0.33, 0.43], $p < .001$ | 实证确认两者存在共享认知基础，但元分析未直接包含神经影像学并发扫描数据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]] |
 > | **Homer and Plass (2014)** | 科学虚拟仿真[[Inquiry-Based Learning\|探究学习]]实验 | [[Factorial Design\|析因实验]]设计（符号表征 vs 具象图标） | 视觉表征设计对不同执行功能负荷学生的干扰率 | 具象图标显著分散低抑制控制学生的注意力并增加外生负荷 | 组间差异显著 ($p < .05$) | 揭示知觉诱惑对认知控制的消耗，证实科学探究界面需要微观脚手架约束。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]] |
 
+> [!metax] [执行功能 · Executive functioning](https://www.visiblelearningmetax.com/influences/view/executive_functioning)
+> 学生 › 先备知识与背景
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 314 | 73,552 | 314 | 0.62 | 0.70 | ●●●●○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Pascual et al. (2019) | Executive functioning | 21 | 7,947 | 21 | 0.78 |  |
+> > | Spiegel et al. (2021) | Executive functioning | 293 | 65,605 | 293 | 0.61 |  |
+
 ---
 
 > [!entry-map] 领域应用
@@ -222,15 +235,3 @@ updated: 2026-10-22
 > - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]执行功能的涵盖性界定、三成分结构、学龄期发展轨迹及其对[[Academic Achievement\|学业成就]]与社会情绪发展的长期纵向预测力。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中证实[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]中度正相关（$r = 0.38$），并论证两者共享抑制控制、[[Cognitive Flexibility\|认知灵活性]]与[[Working Memory\|工作记忆]]等执行功能基础。
 
-> [!metax] [执行功能 · Executive functioning](https://www.visiblelearningmetax.com/influences/view/executive_functioning)
-> 学生 › 先备知识与背景
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 2 | 314 | 73,552 | 314 | 0.62 | 0.70 | ●●●●○ |
->
-> > [!metax-ma]- 2 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Pascual et al. (2019) | Executive functioning | 21 | 7,947 | 21 | 0.78 |  |
-> > | Spiegel et al. (2021) | Executive functioning | 293 | 65,605 | 293 | 0.61 |  |

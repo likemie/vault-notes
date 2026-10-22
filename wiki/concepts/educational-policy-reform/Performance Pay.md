@@ -260,15 +260,6 @@ updated: 2026-10-22
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 65 个参与 [[PISA]] 2012 的国家与经济体系统 | 跨国评估数据二次分析与政策[[Discourse\|话语]]解构 | 教师绩效工资（PRP）有无与学生 PISA 学业平均分 | 跨国全样本分析显示绩效工资与学生表现之间无统计相关；顶尖梯队（芬兰等）无绩效工资，中下游国家多有实施 | 不具有[[Statistical Significance\|统计显著性]] | 跨国截面数据证实宏观层面教师绩效工资对[[Academic Achievement\|学业成就]]无普适促进效应 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师绩效工资激励与辅导试验（[[Incentivised Pay and Coaching Trial\|ICR]]） | 教师/学校层级随机对照试验（[[Randomised Controlled Trials\|RCT]]） | 目标奖金资格[[Random Assignment\|随机化]]分配、学校与教师招募参与率 | 遭遇全英公立学校与教师工会系统性抵制，招募人数严重不达标，试验流产并被迫发布《关闭报告》 | 试验因招募流产未能完成主要结局效应量估算（未满足 [[Statistical Analysis Plan\|SAP]] 样本底线） | 严格 RCT 在发达国家公立学校教师薪酬领域的应用边界，证实该机制遭遇严重伦理与组织排斥 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 从 [[Visible Learning\|可见的学习]] [[Theoretical Perspective\|理论视角]]出发，系统批判绩效工资对学校休息室[[Peer-Supported Learning|同伴文化]]、容错反思与教学协作生态的破坏。
-> - [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] — 澄清其对于教师表现评价的学理立场，指出专业水平报酬探索的正当性，同时承认客观测量工具开发的极端复杂性。
-> - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 评析新西兰依据可见学习推行绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政化监控引发的政策争议，揭示技术官僚问责对教师专业文化的制度冲击。
-> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 深度解构英格兰 2013 年教师绩效工资改革，揭示政治精英如何动用媒介资本、利用“遗漏[[Discourse|话语]]”将 [[PISA]] 数据与上海案例逆向裁剪为推行国内争议政策的合法化修辞。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 剖析英格兰 [[Incentivised Pay and Coaching Trial\|ICR]] 教师绩效奖金随机试验因教师强烈伦理抗议与内在动机排斥而招募流产的典型案例，反思外部物质激励在公立校园落地的可行性边界。
-
 > [!metax] [教师绩效工资 · Teacher performance pay](https://www.visiblelearningmetax.com/influences/view/teacher_performance_pay)
 > 学校 › 学校资源
 >
@@ -281,3 +272,13 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Pham et al. (2021) | Merit pay on student performance | 37 | NA | 244 | 0.05 |  |
 > > | Fitzpatrick et al. (2024) | Merit pay bonus amount | 25 | NA | 25 | -0.12 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 从 [[Visible Learning\|可见的学习]] [[Theoretical Perspective\|理论视角]]出发，系统批判绩效工资对学校休息室[[Peer-Supported Learning|同伴文化]]、容错反思与教学协作生态的破坏。
+> - [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] — 澄清其对于教师表现评价的学理立场，指出专业水平报酬探索的正当性，同时承认客观测量工具开发的极端复杂性。
+> - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 评析新西兰依据可见学习推行绩效工资与 [[Assessment Tools for Teaching and Learning|asTTle]] 行政化监控引发的政策争议，揭示技术官僚问责对教师专业文化的制度冲击。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 深度解构英格兰 2013 年教师绩效工资改革，揭示政治精英如何动用媒介资本、利用“遗漏[[Discourse|话语]]”将 [[PISA]] 数据与上海案例逆向裁剪为推行国内争议政策的合法化修辞。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 剖析英格兰 [[Incentivised Pay and Coaching Trial\|ICR]] 教师绩效奖金随机试验因教师强烈伦理抗议与内在动机排斥而招募流产的典型案例，反思外部物质激励在公立校园落地的可行性边界。
+

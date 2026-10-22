@@ -222,14 +222,6 @@ updated: 2026-10-22
 > | | [[Operationalization]] | 方法支撑 | 将课堂管理抽象[[Construct\|构念]]解构为低推论时间快照与高推论行为锚定等级评分 |
 > | | [[Inter-Rater Reliability]] | 质量保障 | 多位观察员对课堂常规与行为管理实施标准化评定的一致性保障 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 基于[[Comparative Meta-synthesis|比较性元综合]]系统阐释宽课堂管理内涵，揭示其对弱势群体的补偿性功能及防范消极纪律惩戒[[Discourse|话语]]。
-> - [[Argument_WorldBank_2019_Teach|[[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]]] — 确立大规模[[Classroom Observation|课堂观察]]中在任务时间快照与积极行为预期的行为锚定评定规程，严禁体罚与语言羞辱。
-> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 结合丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）大规模实证调查，证实清晰一致的课堂管理是提升[[Academic Achievement|学业成绩]]的关键支撑。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立课堂管理为现实相关度最高的前 3 项核心教学实践之一（$M=4.75$），为破除超级证据库外围不可控因素干扰、聚焦微观课堂干预提供实证判据。
-
 > [!metax] [课堂管理 · Classroom management](https://www.visiblelearningmetax.com/influences/view/classroom_management)
 > 课堂 › 课堂管理
 >
@@ -246,3 +238,12 @@ updated: 2026-10-22
 > > | Patall et al. (2024) | Classroom management programs | 80 | NA | 80 | 0.11 |  |
 > > | Patall et al. (2024) | Classroom intervention studies | 31 | NA | 31 | 0.33 |  |
 > > | Duan et al. (2024) | Management self-efficacy on achievement | 87 | 480,000 | 189 | 0.82 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 基于[[Comparative Meta-synthesis|比较性元综合]]系统阐释宽课堂管理内涵，揭示其对弱势群体的补偿性功能及防范消极纪律惩戒[[Discourse|话语]]。
+> - [[Argument_WorldBank_2019_Teach|[[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]]] — 确立大规模[[Classroom Observation|课堂观察]]中在任务时间快照与积极行为预期的行为锚定评定规程，严禁体罚与语言羞辱。
+> - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 结合丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）大规模实证调查，证实清晰一致的课堂管理是提升[[Academic Achievement|学业成绩]]的关键支撑。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立课堂管理为现实相关度最高的前 3 项核心教学实践之一（$M=4.75$），为破除超级证据库外围不可控因素干扰、聚焦微观课堂干预提供实证判据。
+

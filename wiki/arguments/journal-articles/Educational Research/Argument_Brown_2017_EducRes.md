@@ -93,7 +93,6 @@ argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Research
 ---
-
 ---
 
 > [!question]

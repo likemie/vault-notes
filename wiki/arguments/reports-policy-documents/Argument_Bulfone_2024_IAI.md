@@ -74,7 +74,6 @@ tags:
   - european-union
   - united-states
 ---
-
 ---
 
 > [!question]

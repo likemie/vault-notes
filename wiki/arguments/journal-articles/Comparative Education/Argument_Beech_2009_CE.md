@@ -91,7 +91,6 @@ journal: Comparative Education
 book_title: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

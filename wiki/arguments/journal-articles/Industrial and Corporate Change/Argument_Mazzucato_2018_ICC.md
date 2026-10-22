@@ -73,7 +73,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mazzucato_2018_ICC"
@@ -85,7 +85,6 @@ argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 ---
-
 ---
 
 > [!question]

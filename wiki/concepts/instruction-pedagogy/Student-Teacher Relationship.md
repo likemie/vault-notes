@@ -210,6 +210,29 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 欧裔美国大学生 vs 中国大学生 | 自由联想、词汇归类与多维聚类树分析 | “学习”概念网络中的教师与师生关系归属集群 | 中国样本中“师生关系”占可取方式词汇总量的 11%，独立于“方法”与“资源”并在求知维度下聚类；欧美样本无独立师生关系集群（教师仅作为外部资源） | 聚类拓扑距离高度收敛 | 认知语言学与文化心理学设计；证实师生关系在中国心智模型中具有本体性的结构位置 |
 
+> [!metax] [师生关系 · Teacher-student relationships](https://www.visiblelearningmetax.com/influences/view/teacher-student_relationships)
+> 课堂 › 课堂氛围
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 8 | 789 | 7,107,506 | 1,980 | 0.58 | 0.50 | ●●●●● |
+>
+> > [!metax-ma]- 8 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Cornelius-White (2007) | Teacher-student relations on achievement | 229 | 355,325 | 1,450 | 0.72 |  |
+> > | Roorda et al. (2011) | Teacher-student relations on achievement | 99 | 165,926 | 168 | 0.53 |  |
+> > | Vandenbroucke et al. (2018) | Teacher-student interactions on Executive functioning | 23 | 19,906 | 23 | 0.18 |  |
+> > | Kincade et al. (2020) | Teacher-student programs on achievement | 21 | NA | 21 | 0.26 |  |
+> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
+> > | Emslander et al. (2023) | Teacher-student relations on achievement | 231 | 6,237,000 | 116 | 0.50 |  |
+> > | Lei, Wang, et al. (2022) | Teacher-student relations on achievement | 74 | 233,961 | 90 | 0.54 |  |
+> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
+>
+> > [!metax-errata] 2 条
+> > - ∑ **自动核算 · 疑似重复** Wang & Dong (2017) 在列表中重复出现。
+> > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，尚未经文献核实）。
+
 ---
 
 > [!evidence-grid-a] 相关研究索引
@@ -244,25 +267,3 @@ updated: 2026-10-22
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 论证 | 分析师生关系在可见学习模型中高回报定位的文献。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判评价[[Paradigm\|范式]]将师生关系降维为工具性自[[Variable\|变量]]的哲学论文。 |
 
-> [!metax] [师生关系 · Teacher-student relationships](https://www.visiblelearningmetax.com/influences/view/teacher-student_relationships)
-> 课堂 › 课堂氛围
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 8 | 789 | 7,107,506 | 1,980 | 0.58 | 0.50 | ●●●●● |
->
-> > [!metax-ma]- 8 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Cornelius-White (2007) | Teacher-student relations on achievement | 229 | 355,325 | 1,450 | 0.72 |  |
-> > | Roorda et al. (2011) | Teacher-student relations on achievement | 99 | 165,926 | 168 | 0.53 |  |
-> > | Vandenbroucke et al. (2018) | Teacher-student interactions on Executive functioning | 23 | 19,906 | 23 | 0.18 |  |
-> > | Kincade et al. (2020) | Teacher-student programs on achievement | 21 | NA | 21 | 0.26 |  |
-> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
-> > | Emslander et al. (2023) | Teacher-student relations on achievement | 231 | 6,237,000 | 116 | 0.50 |  |
-> > | Lei, Wang, et al. (2022) | Teacher-student relations on achievement | 74 | 233,961 | 90 | 0.54 |  |
-> > | Wang & Dong (2017) | Teacher-student relations on achievement | 56 | 47,694 | 56 | 0.65 | ∑ |
->
-> > [!metax-errata] 2 条
-> > - ∑ **自动核算 · 疑似重复** Wang & Dong (2017) 在列表中重复出现。
-> > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，尚未经文献核实）。

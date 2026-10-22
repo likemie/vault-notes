@@ -72,7 +72,6 @@ journal: Intersect
 book_title: ""
 issuing_organization: ""
 ---
-
 ---
 > [!question]
 > 为什么苏联在国家对科学和技术的热情高涨、拥有充足物质资源和大量科学家工程师的情况下，仍然在现代化进程中失败，并被1980年代的信息革命彻底甩在后面？

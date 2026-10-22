@@ -69,7 +69,6 @@ citation_aliases:
   - "Bolton & Hattie, 2017"
   - "Bolton & Hattie (2017)"
 ---
-
 ---
 
 > [!question] 脑与认知的平行发育关联性

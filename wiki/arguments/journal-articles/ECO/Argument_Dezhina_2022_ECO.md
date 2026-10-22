@@ -62,7 +62,6 @@ journal: "ECO"
 book_title: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

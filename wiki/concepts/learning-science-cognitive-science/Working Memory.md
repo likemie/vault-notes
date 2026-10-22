@@ -222,28 +222,6 @@ updated: 2026-10-22
 > | Kwon and Lawson (2000) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]) | 高中理科在校学生 | 控制实验与[[Multiple Regression\|多元回归]]分析 | [[Inhibitory Control\|抑制控制]]能力（Inhibitory Control）对方差解释率 | 解释了科学探究技能测验 29% 的方差；解释了概念理解增益 28% 的方差 | $p < .01$ | 实证确立抑制直觉干扰、保护工作记忆带宽是科学探究与概念转变取得成功的决定性认知机制 |
 > | Homer and Plass (2014) (同上引，p. 8) | 大学生与中学生化学模拟实验探究 | 虚拟微世界交互实验 | 抑制控制能力与概念远迁移成绩 | 抑制控制高分组在概念远迁移测试中成绩显著超越低分组 | 统计显著 | 证实抑制控制对维护工作记忆资源、促进复杂因果规则图式建构的迁移保障功能 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
-> - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 结合脑神经科学与可见学习理论，揭示缺乏指导导致的工作记忆过载（垃圾桶效应）与前额叶 10 分钟专注极限及默认网络修复价值。
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 辨析[[Direct Instruction\|直接教学]]与探究教学中的工作记忆机制，实证确证[[Scaffolding\|认知支架]]对卸载工作记忆负担以及[[Inhibitory Control\|抑制控制]]对保护工作记忆资源的核心功能。
-> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 提出人机中介学习中的[[Epistemic Dependence\|认识依赖]]与[[Cognitive Offloading\|认知卸载]][[Analytic Framework\|分析框架]]，阐明技术消除浪费性摩擦释放工作记忆资源与剥离生产性摩擦导致深层推理萎缩的深层机制。
-
----
-
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关联方向 | 说明 |
-> |:-----|:-----|:---------|:-----|
-> | [[Cognitive Load Theory]] | 理论 | 基础架构 | 提供内在负荷、外在负荷与相关负荷的理论解释框架。 |
-> | [[Executive Function]] | 概念 | 心理结构 | 工作记忆的信息[[Updating and Monitoring\|更新与监控]]构成执行功能三大核心支柱之一。 |
-> | [[Cognitive Offloading]] | 概念 | 负荷调节 | 借助外部物理或数字工具卸载工作记忆短期保持与计算负担。 |
-> | [[Epistemic Friction]] | 概念 | 认知阻力 | 生产性摩擦激活工作记忆中的反思比较并促成深层图式内化。 |
-> | [[Inquiry-Based Learning]] | 概念 | 教学情境 | 指导式探究通过支架分担工作记忆负荷，支撑高阶概念重构。 |
-> | [[Scaffolding]] | 概念 | 教学支架 | 外部支架通过接管表面操作，防止工作记忆出现过载崩溃。 |
-> | [[Direct Instruction]] | 概念 | 教学[[Paradigm\|范式]] | 直接教学主张通过全显性讲授将工作记忆外在负荷压制到最低。 |
-
 > [!metax] [工作记忆能力 · Working memory strength](https://www.visiblelearningmetax.com/influences/view/working_memory_strength)
 > 学生 › 先备知识与背景
 >
@@ -282,3 +260,26 @@ updated: 2026-10-22
 > > | Sala & Gobet (2019) | Working memory training | 41 | 2,375 | 393 | 0.13 |  |
 > > | Sala et al. (2019) | Working memory on reading & math (Cogmed) | 50 | 3,059 | 637 | 0.05 |  |
 > > | Bharadwaj et al. (2021) | Cogmed on achievement & executive functioning | 11 | NA | 11 | -0.10 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]] — [[Systematic Review\|系统综述]]幼儿[[Executive Function\|执行功能]]的发展轨迹，界定工作记忆[[Updating and Monitoring\|更新与监控]]成分的测量[[Paradigm\|范式]]（自排序、面孔任务）及其 3–4 组块容量界限。
+> - [[Argument_Fredens_2015_Paideia\|Fredens (2015)]] — 结合脑神经科学与可见学习理论，揭示缺乏指导导致的工作记忆过载（垃圾桶效应）与前额叶 10 分钟专注极限及默认网络修复价值。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 辨析[[Direct Instruction\|直接教学]]与探究教学中的工作记忆机制，实证确证[[Scaffolding\|认知支架]]对卸载工作记忆负担以及[[Inhibitory Control\|抑制控制]]对保护工作记忆资源的核心功能。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 提出人机中介学习中的[[Epistemic Dependence\|认识依赖]]与[[Cognitive Offloading\|认知卸载]][[Analytic Framework\|分析框架]]，阐明技术消除浪费性摩擦释放工作记忆资源与剥离生产性摩擦导致深层推理萎缩的深层机制。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 关联方向 | 说明 |
+> |:-----|:-----|:---------|:-----|
+> | [[Cognitive Load Theory]] | 理论 | 基础架构 | 提供内在负荷、外在负荷与相关负荷的理论解释框架。 |
+> | [[Executive Function]] | 概念 | 心理结构 | 工作记忆的信息[[Updating and Monitoring\|更新与监控]]构成执行功能三大核心支柱之一。 |
+> | [[Cognitive Offloading]] | 概念 | 负荷调节 | 借助外部物理或数字工具卸载工作记忆短期保持与计算负担。 |
+> | [[Epistemic Friction]] | 概念 | 认知阻力 | 生产性摩擦激活工作记忆中的反思比较并促成深层图式内化。 |
+> | [[Inquiry-Based Learning]] | 概念 | 教学情境 | 指导式探究通过支架分担工作记忆负荷，支撑高阶概念重构。 |
+> | [[Scaffolding]] | 概念 | 教学支架 | 外部支架通过接管表面操作，防止工作记忆出现过载崩溃。 |
+> | [[Direct Instruction]] | 概念 | 教学[[Paradigm\|范式]] | 直接教学主张通过全显性讲授将工作记忆外在负荷压制到最低。 |
+

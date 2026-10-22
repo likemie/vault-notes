@@ -256,6 +256,18 @@ updated: 2026-10-22
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 30–31)]] | 英格兰应对首届 [[OECD]] [[PISA]] 2000 测评结果的政策与媒体[[Champ\|场域]] | 政策社会学[[Discourse Analysis\|话语分析]]与[[Case Study\|案例研究]]（9 篇全国主要媒体头版及官方政策文件） | 测评排名对本土择校政策（School Choice）的政治确证与阶层差距讨论缺失 | 英格兰利用阅读第 7、数学第 8、科学第 4 的优异排位确证择校竞争与问责体制的正确性，强化既有政策惯性并回避严重阶层差距 | — | 质性政策社会学分析，揭示跨国排位如何成为维护国内择校体制的政治合法化工具 |
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 253–255)]] | 全球 158 篇教育治理改革文献（重点追踪智利、美国、英格兰、瑞典与挪威） | [[Systematic Review\|系统文献综述]]与国别比较分析 | 测验问责制（[[Test-Based Accountability\|TBA]]）与学校择校（School Choice）的政策联动及制度化轨迹 | 证实自由主义与 [[New Public Management\|NPM]] 政体将统考数据作为推进家长择校与学校市场化优胜劣汰的核心机制，而在北欧[[Neo-Weberian State\|新韦伯主义]]传统下（如挪威）则主动叫停排行榜以阻断择校竞争 | 质性系统综述与[[Historical Institutionalism\|历史制度主义]]综合分析 | 揭示择校机制与测验问责的政策偶联深度依赖国家既有行政传统 |
 
+> [!metax] [择校 · School choice](https://www.visiblelearningmetax.com/influences/view/school_choice)
+> 学校 › 学校构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 1 | 22 | 0 | 28 | 0.02 | 0.02 | ●○○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Jabbar et al. (2017) | School choice | 22 | NA | 28 | 0.02 |  |
+
 ---
 
 > [!evidence-grid-a] 相关研究索引
@@ -268,14 +280,3 @@ updated: 2026-10-22
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐释英格兰政策精英如何利用 PISA 2000 的优异排位为本土市场化择校竞争与高利害问责模式确立合法性，并借此掩盖严重的教育阶层差距（pp. 30–31）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献系统综述，系统剖析新公共管理市场化体制如何利用基于测验的问责制（TBA）撬动家长择校与生源竞争，并揭示不同行政传统对择校政策的分化折射效应。
 
-> [!metax] [择校 · School choice](https://www.visiblelearningmetax.com/influences/view/school_choice)
-> 学校 › 学校构成
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★☆☆☆ 微弱正向 | 1 | 22 | 0 | 28 | 0.02 | 0.02 | ●○○○○ |
->
-> > [!metax-ma]- 1 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Jabbar et al. (2017) | School choice | 22 | NA | 28 | 0.02 |  |

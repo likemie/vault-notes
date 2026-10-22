@@ -70,7 +70,6 @@ updated: 2026-10-22
 sources:
   - "[[sources/Kickert_1995_Governance/Kickert_1995_Governance|Kickert_1995_Governance]]"
 ---
-
 ---
 
 > [!question]

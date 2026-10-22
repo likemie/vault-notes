@@ -255,11 +255,6 @@ updated: 2026-10-22
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素 | 学习产出类型互补亚组：[[Higher-Order Thinking Skills\|高阶思维技能]] vs 学业成就 vs [[Affective Outcomes\|情感行为]] vs 综合产出 | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感）/ $E = 1$（综合） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$；综合 $ES = 1.25$ $[0.62, 1.88]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；组间差异未达显著，高阶思维赋能效应点估计最高 |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素 | 学科领域互补亚组：语言 vs 社会科 vs 自然科学 vs 数学 vs 体育 vs 混合学科 | $E = 1$（语言）/ $E = 1$（社科）/ $E = 3$（科学）/ $E = 6$（数学）/ $E = 1$（体育）/ $E = 11$（混合） | 语言 $ES = 2.04$ $[1.13, 2.95]$；社科 $ES = 0.96$ $[0.33, 1.59]$；科学 $ES = 0.92$ $[0.66, 1.17]$；数学 $ES = 0.70$ $[0.47, 0.93]$；体育 $ES = 0.05$ $[-1.44, 1.54]$；混合 $ES = 0.34$ $[0.07, 0.61]$ | $Q_b(5) = 20.16, \text{df} = 5, p < .01$ | 预设分析；组间差异高度显著，语言与社会科元分析较匮乏但效应极强，体育效应微弱且不显著 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项[[Meta-analysis\|元分析]]的[[Meta-meta-analysis\|二阶元分析]]显示合作学习对[[Academic Achievement\|学业成就]]（0.71）、[[Higher-Order Thinking Skills\|高阶思维]]（0.76）与情感（0.51）均有效，[[Jigsaw\|拼图法]]等技术与学科具调节作用。
-
 > [!metax] [合作学习 · Cooperative learning](https://www.visiblelearningmetax.com/influences/view/cooperative_learning)
 > 教学策略 › 教学方法
 >
@@ -308,3 +303,9 @@ updated: 2026-10-22
 > > | Ashrafzade et al. (2023) | Cooperative learning | 17 | NA | 17 | 0.89 |  |
 > > | Eslit (2023) | Cooperative learning | 28 | 4,137 | 28 | 0.47 |  |
 > > | Ridwan et al. (2022) | Cooperative learning | 22 | 1,249 | 22 | 0.89 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 综合 15 项[[Meta-analysis\|元分析]]的[[Meta-meta-analysis\|二阶元分析]]显示合作学习对[[Academic Achievement\|学业成就]]（0.71）、[[Higher-Order Thinking Skills\|高阶思维]]（0.76）与情感（0.51）均有效，[[Jigsaw\|拼图法]]等技术与学科具调节作用。
+

@@ -86,7 +86,6 @@ argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 ---
-
 ---
 
 > [!question]

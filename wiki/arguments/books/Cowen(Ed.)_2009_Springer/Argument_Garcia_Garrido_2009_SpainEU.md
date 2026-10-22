@@ -68,9 +68,8 @@ related_facts:
   - "[[Times Higher Education World University Rankings]]"
 status: completed
 created: 2026-10-11
-updated: 2026-10-20
+updated: 2026-10-22
 ---
-
 ---
 
 > [!question]

@@ -75,11 +75,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | k = 19 / N 未报告 | 标准化均差（SMD）；模型未报告 | d = 0.47 [0.39, 0.55] | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 将 SDL 作为PBL的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（d = 0.47）。
-
 > [!metax] [自主学习 · Self-directed learning](https://www.visiblelearningmetax.com/influences/view/self-directed_learning)
 > 学生学习策略 › 学生导向干预
 >
@@ -92,3 +87,9 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Ku et al. (2012) | Self-directed learning | 61 | NA | 70 | 0.67 |  |
 > > | Doo & Zhu (2022) | Self-directed learning in online environments | 43 | 34,601 | 153 | 0.51 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 将 SDL 作为PBL的核心机制：学生识别知识缺口后自导学习，并报告 PBL 对高等教育学生自我导向学习的中等正向效应（d = 0.47）。
+

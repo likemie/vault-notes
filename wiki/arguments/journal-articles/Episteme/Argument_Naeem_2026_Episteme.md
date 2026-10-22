@@ -75,7 +75,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Naeem_2026_Episteme"
@@ -92,7 +92,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

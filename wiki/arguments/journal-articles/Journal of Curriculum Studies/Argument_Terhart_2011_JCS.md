@@ -69,7 +69,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Terhart_2011_JCS"
@@ -82,7 +82,6 @@ argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Journal of Curriculum Studies"
 ---
-
 ---
 
 > [!question]

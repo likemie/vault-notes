@@ -97,9 +97,8 @@ related_persons:
   - "[[José Manuel Torres]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-22
 ---
-
 ---
 
 > [!question]

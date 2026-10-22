@@ -73,7 +73,6 @@ citation_aliases:
   - "McPhail et al., 2023"
   - "McPhail et al. (2023)"
 ---
-
 ---
 
 > [!question]

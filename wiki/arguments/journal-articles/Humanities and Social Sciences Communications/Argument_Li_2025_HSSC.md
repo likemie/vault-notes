@@ -94,7 +94,7 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-10-21
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
@@ -111,7 +111,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

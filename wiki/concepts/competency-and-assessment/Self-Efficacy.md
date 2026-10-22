@@ -254,16 +254,6 @@ flowchart LR
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, p. 27)]] | 欧洲教育治理体系与 [[OECD]] [[PISA]] 测评实践（英国、德国与芬兰） | 政策社会学与[[Comparative Case Study\|比较案例研究]]（专家[[In-depth Interview\|深度访谈]]与[[Documentary Analysis\|政策文献分析]]） | 学生非认知自我效能感、学习动机及自主规制策略指标 | 揭示 OECD 将自我效能感纳入跨国大规模测评的核心非认知维度，建立跨国度量标尺以衡量学生面向未来生活的胜任信念 | — | 质性政策社会学分析，揭示国际组织指标建构背后的治理机制 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inquiry-Based Learning\|探究式学习]]在培养学生科学自我效能感、[[Nature of Science\|科学本质观]]与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的独特育人机制，突破了将教学法成效窄化为单一事实概念测验的局限。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合课堂[[Discourse Analysis\|话语分析]]案例，阐释微观[[Epistemic Practices\|认识论实践]]参与和教师显性元[[Discourse|话语]]如何帮助多元文化背景下的边缘学生构建科学知者地位与学科自我效能感（pp. 146–147, 159）。
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 详细梳理了[[Albert Bandura\|班杜拉]]关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。
-> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 将自我效能感拓展至教师群体，通过跨国大样本调查证实教龄累积与复杂探究课程（如[[Theory of Knowledge\|知识论]]）的成功实施能够显著提升教师教学效能感。
-> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的[[Neuromyth|教育神经神话]]（如[[Learning Styles\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织（OECD）如何通过 PISA 将自我效能感制度化为跨国可比的非认知素养指标，将其作为衡量未来生活通用胜任力与自主规制学习能力的关键政策基准（p. 27）。
-
 > [!metax] [自我效能感 · Self-efficacy](https://www.visiblelearningmetax.com/influences/view/self-efficacy)
 > 学生 › 自我
 >
@@ -304,3 +294,14 @@ flowchart LR
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Klassen & Tze (2014) | Teacher self-efficacy and achievement | 12 | NA | 31 | 0.24 |  |
 > > | Kim & Seo (2018) | Teacher self-efficacy | 16 | 14,215 | 98 | 0.20 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inquiry-Based Learning\|探究式学习]]在培养学生科学自我效能感、[[Nature of Science\|科学本质观]]与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的独特育人机制，突破了将教学法成效窄化为单一事实概念测验的局限。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] — 结合课堂[[Discourse Analysis\|话语分析]]案例，阐释微观[[Epistemic Practices\|认识论实践]]参与和教师显性元[[Discourse|话语]]如何帮助多元文化背景下的边缘学生构建科学知者地位与学科自我效能感（pp. 146–147, 159）。
+> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 详细梳理了[[Albert Bandura\|班杜拉]]关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。
+> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 将自我效能感拓展至教师群体，通过跨国大样本调查证实教龄累积与复杂探究课程（如[[Theory of Knowledge\|知识论]]）的成功实施能够显著提升教师教学效能感。
+> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的[[Neuromyth|教育神经神话]]（如[[Learning Styles\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织（OECD）如何通过 PISA 将自我效能感制度化为跨国可比的非认知素养指标，将其作为衡量未来生活通用胜任力与自主规制学习能力的关键政策基准（p. 27）。
+

@@ -75,14 +75,13 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-01
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2025
 doi: ""
 citation_aliases:
   - "Yan & Morris, 2025"
   - "Yan & Morris (2025)"
 ---
-
 ---
 
 > [!question] 课程变革的政治逻辑

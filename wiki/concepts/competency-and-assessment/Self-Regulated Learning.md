@@ -207,12 +207,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 6–7)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 整合中自我调节学习赋能与缺失频数 | 17 项（25%）研究证实结构化提示工程显著激活 SRL；而在缺乏 SRL 提示时，12 项（18%）研究观察到[[Metacognition\|元认知]]监控严重脱节与依赖 | — | 质性主题证据，揭示 SRL 在智能技术环境中的高情境敏感性与支架依赖性 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis\|元分析]]显示自我调节学习能力显著调节生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的效应：高自律学生 g = 0.863，低自律学生仅 g = 0.284。
-> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为[[Man-Computer Symbiosis|人机协同]]中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。
-
 > [!metax] [自我调节策略 · Self-regulation strategies](https://www.visiblelearningmetax.com/influences/view/self-regulation_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >
@@ -251,3 +245,10 @@ updated: 2026-10-22
 > > | Hitt (2023) | Self-regulation interventions | 60 | NA | 60 | 0.46 |  |
 > > | Cheng et al. (2022) | Self-regulated strategies on on-line | 21 | 1,327 | 18 | 0.85 |  |
 > > | Kurucay et al. (2015) | Self-regulated learning | 18 | 11,750 | 18 | 0.11 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis\|元分析]]显示自我调节学习能力显著调节生成式 AI 对[[Higher-Order Thinking Skills\|高阶思维]]的效应：高自律学生 g = 0.863，低自律学生仅 g = 0.284。
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为[[Man-Computer Symbiosis|人机协同]]中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。
+

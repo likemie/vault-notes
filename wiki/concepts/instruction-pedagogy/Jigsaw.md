@@ -169,11 +169,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：拼图法亚组对多维学习产出的二阶综合干预效应 | $M = 4$；$E = 6$；$k = —$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.72$ $[0.40, 1.04]$ | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | 涵盖护理、健康科学、21世纪素养与基础教育，证实拼图法在中高等教育中的稳健高效益 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]将拼图法作为四类合作技术之一综合评估，合成[[Effect Size\|效应量]]为 ES = 0.72，纳入 6 个独立效应量。
-
 > [!metax] [拼图法 · Jigsaw method](https://www.visiblelearningmetax.com/influences/view/jigsaw_method)
 > 教学策略 › 教学方法
 >
@@ -187,3 +182,9 @@ updated: 2026-10-22
 > > | Batdi (2014) | Jigsaw on achievement | 37 | NA | 37 | 1.20 |  |
 > > | Drouet et al. (2023) | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |  |
 > > | Ozkan & Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]将拼图法作为四类合作技术之一综合评估，合成[[Effect Size\|效应量]]为 ES = 0.72，纳入 6 个独立效应量。
+

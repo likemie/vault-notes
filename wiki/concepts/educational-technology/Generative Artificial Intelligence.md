@@ -555,6 +555,18 @@ updated: 2026-10-22
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节[[Man-Computer Symbiosis\|人机协同]]科学课（植物生长与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
 > | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024, pp. 101–103)]] | 全球半导体供应链与先进制程计算芯片市场（2020–2024） | 产业组织实证与供应链分解 | 生成式 AI 对半导体需求的拉动及地缘出口管制影响 | 生成式 AI 爆发推高尖端芯片需求历史峰值，促成 2022 年美国全面切断中国先进算力硬件获取渠道 | — | 确立生成式 AI 作为全球半导体产业政策与大国技术竞争核心驱动力的宏观地位 |
 
+> [!metax] [ChatGPT · ChatGPT](https://www.visiblelearningmetax.com/influences/view/chatgpt)
+> 技术、学校与校外策略 › 移动／触屏
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 1 | 51 | 0 | 62 | 0.71 | 0.71 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Deng et al. (2025) | ChatGPT on academic performance | 51 | NA | 62 | 0.71 |  |
+
 ---
 
 ---
@@ -598,14 +610,3 @@ updated: 2026-10-22
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 从认识论与教育哲学出发，破除生成式 AI 作为计算器的工具隐喻，确立其在读写教育中代行全流程的私厨隐喻；揭示算法代写构思、提纲与修改对学习者认知能力造成的成长性认识侵害，并提出树立[[Alien Intelligence|异己智能]]批判意识与推行思维步骤全外显（Showing Steps）的双重教育防御方案。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释了支撑现代超大规模生成式 AI（如 ChatGPT）运行的高性能分布式计算与调度框架（Ray 与 Apache Spark）源于大学前竞争产学五年期联合实验室（[[Universal Parallel Computing Research Centers|UPCRC]]、AMPLab、RISELab）的技术外溢与开源转化路径。
 
-> [!metax] [ChatGPT · ChatGPT](https://www.visiblelearningmetax.com/influences/view/chatgpt)
-> 技术、学校与校外策略 › 移动／触屏
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 1 | 51 | 0 | 62 | 0.71 | 0.71 | ●●○○○ |
->
-> > [!metax-ma]- 1 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Deng et al. (2025) | ChatGPT on academic performance | 51 | NA | 62 | 0.71 |  |

@@ -73,7 +73,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

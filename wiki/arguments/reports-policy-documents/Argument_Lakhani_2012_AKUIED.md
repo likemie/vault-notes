@@ -71,7 +71,6 @@ status: draft
 created: 2026-07-02
 updated: 2026-10-22
 ---
-
 ---
 
 > [!question]

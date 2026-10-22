@@ -71,7 +71,6 @@ citation_aliases:
   - "Beech & Artopoulos, 2015"
   - "Beech & Artopoulos (2015)"
 ---
-
 ---
 
 > [!question]

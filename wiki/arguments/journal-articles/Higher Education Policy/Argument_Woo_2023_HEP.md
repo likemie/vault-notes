@@ -83,7 +83,7 @@ related_facts:
   - "[[Sino-Soviet Educational Cooperation]]"
 status: active
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Woo_2023_HEP"
@@ -98,7 +98,6 @@ journal: "Higher Education Policy"
 sources:
   - "[[sources/Woo_2023_HEP/Woo_2023_HEP|Woo_2023_HEP]]"
 ---
-
 ---
 
 > [!question]

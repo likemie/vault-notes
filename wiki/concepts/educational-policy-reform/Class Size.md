@@ -382,26 +382,6 @@ updated: 2026-10-22
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 俄罗斯联邦沃洛格达地区 1,120 名中小学教师 | 区域教师[[Questionnaire\|问卷调查]] | 学校资源配置、班额压力与教师负荷 | 45% 教师反映办学经费严重匮乏，79% 教师每周承受超 10 小时填报重负 | 描述性统计（[[Chi-Squared Test\|卡方检验]]显著） | 证实依凭元分析低效应排名缩减公立学校办学资源与维持大班额，会加剧教师流失与治理陷阱 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 丹麦与国际[[Evidence-Based Education\|循证教育]]文献反思 | 概念与方法学底层审计 | 班级规模[[Unit of Analysis\|分析单元]]有效性与 [[Socioeconomic Status\|SES]] 调节作用 | 确立 Berger (1982) 交互原则；指出哈蒂孤立 SES（$d=0.57$）且拒绝作为调节变量 | 质性理论与[[Epistemology\|认识论]]批判 | 论证班级规模无法作为独立分析单元，揭示阶级盲教学思维对教育不平等的技术掩饰 |
 
-> [!metax] [缩小班额 · Reducing class size](https://www.visiblelearningmetax.com/influences/view/reducing_class_size)
-> 课堂 › 班级构成
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★☆☆☆ 微弱正向 | 9 | 238 | 564,964 | 2,934 | 0.14 | 0.15 | ●●●●○ |
->
-> > [!metax-ma]- 9 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Glass & Smith (1979) | Class size | 77 | 520,899 | 725 | 0.09 |  |
-> > | McGiverin et al. (1989) | Class size | 10 | NA | 24 | 0.34 |  |
-> > | Goldstein et al. (2000) | Class size | 9 | 29,440 | 36 | 0.20 |  |
-> > | Bowne et al. (2017) | Class size in early childhood | 38 | NA | 328 | 0.31 |  |
-> > | Leuven & Oosterbeek (2018) | Reducing class size by 10 | 16 | NA | 16 | 0.10 |  |
-> > | Filges et al. (2018) | Class size | 6 | NA | 9 | 0.11 |  |
-> > | Shin & Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
-> > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
-> > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
-
 ---
 
 ## 应用案例
@@ -449,6 +429,26 @@ updated: 2026-10-22
 > 效应量的正负完全取决于比较的方向。哈蒂将小班与大班进行比较，得出效应量为 0.21，并据此宣称其影响较小。然而，若将比较设定为大班相对于小班，该效应量即为 -0.21，从而直接将大班归入哈蒂所谓具有‘逆向有害效应’的类别。由此可见，将某项干预判定为‘低效’还是‘有害’，往往取决于分析者人为选择的参照基准。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 240)]]
 >
 > *"The sign of an effect size depends entirely on the direction of comparison. Hattie sets class size as an effect size of 0.21 (comparing small to large classes) and declares it of low impact. However, if the comparison had been between large classes and small classes, the effect would be -0.21, putting large class size in the 'reverse effects' category... whether an intervention is seen as having low impact or being harmful depends on an arbitrary choice of baseline."*
+
+> [!metax] [缩小班额 · Reducing class size](https://www.visiblelearningmetax.com/influences/view/reducing_class_size)
+> 课堂 › 班级构成
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★☆☆☆ 微弱正向 | 9 | 238 | 564,964 | 2,934 | 0.14 | 0.15 | ●●●●○ |
+>
+> > [!metax-ma]- 9 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Glass & Smith (1979) | Class size | 77 | 520,899 | 725 | 0.09 |  |
+> > | McGiverin et al. (1989) | Class size | 10 | NA | 24 | 0.34 |  |
+> > | Goldstein et al. (2000) | Class size | 9 | 29,440 | 36 | 0.20 |  |
+> > | Bowne et al. (2017) | Class size in early childhood | 38 | NA | 328 | 0.31 |  |
+> > | Leuven & Oosterbeek (2018) | Reducing class size by 10 | 16 | NA | 16 | 0.10 |  |
+> > | Filges et al. (2018) | Class size | 6 | NA | 9 | 0.11 |  |
+> > | Shin & Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
+> > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
+> > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
 
 ---
 

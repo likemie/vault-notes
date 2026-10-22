@@ -470,6 +470,19 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对批判性思维（CT）影响的主题频数分布 | 促进维度：[[Metacognition\|元认知]]参与（27 项）、论证建构（22 项）、查错核验（19 项）、自我调节（17 项）、学科推理（15 项）；风险维度：过度依赖与心智惰性（21 项）、浅层参与（18 项）、论证退化（14 项）、元[[Cognitive Offloading\|认知卸载]]（12 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对批判性思维的促进高度依存于反思提示、结构化脚手架与 AI 素养 |
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | $N = 2$ 个微观典型案例（高中科学课堂） | [[Multimodal Discourse Analysis\|多模态话语分析]]与质性微观发生学追踪 | 人机协同[[Scientific Explanation\|科学解释]]中的[[Epistemological Vigilance\|认识论警觉]]表现与审验层级（自发 vs 支架驱动） | 揭示学生在无支架时易受 AI 流畅性误导，而在双轨支架支持下可开展多源[[Triangulation\|三角互证]]与事实溯源，实现批判性修正与认识论能动性发展 | — | 质性案例证据，深化了[[Man-Computer Symbiosis\|人机协同]]科学解释中批判性审验的微观机制与教学支持路径 |
 
+> [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
+> 学生 › 先备知识与背景
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 2 | 70 | 8,233 | 90 | 0.79 | 0.71 | ●●○○○ |
+>
+> > [!metax-ma]- 2 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Fong, Kim, et al. (2017) | Critical thinking | 23 | 8,233 | 23 | 0.49 |  |
+> > | Orhan (2022) | Critical thinking | 47 | NA | 67 | 0.93 |  |
+
 ---
 
 > [!evidence-grid-a] 相关研究索引
@@ -490,15 +503,3 @@ updated: 2026-10-22
 > - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性[[Scoring Rubrics|评分量规]]（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
 > - **初等教育微观[[Classroom Observation|课堂观察]]与批判性思维[[Operationalization|操作化]]** [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] 在中低收入国家课堂观察工具 Teach 中将批判性思维操作化为开放式追问、实质性思维任务与学生主动提问三大微观行为，建立了区分[[Rote Learning|死记硬背]]与深层[[Content Analysis|内容分析]]的学科教学锚点。
 
-> [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
-> 学生 › 先备知识与背景
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 2 | 70 | 8,233 | 90 | 0.79 | 0.71 | ●●○○○ |
->
-> > [!metax-ma]- 2 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Fong, Kim, et al. (2017) | Critical thinking | 23 | 8,233 | 23 | 0.49 |  |
-> > | Orhan (2022) | Critical thinking | 47 | NA | 67 | 0.93 |  |

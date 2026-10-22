@@ -117,7 +117,6 @@ status: draft
 created: 2026-06-16
 updated: 2026-10-22
 ---
-
 > [!logic-map]- 第2章总体论证结构
 > ```mermaid
 > flowchart LR

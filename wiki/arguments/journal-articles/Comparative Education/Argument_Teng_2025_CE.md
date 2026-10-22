@@ -80,7 +80,6 @@ citation_aliases:
 isbn: ""
 source_language: en
 ---
-
 ---
 
 > [!question]

@@ -264,6 +264,21 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Wigelsworth (2017) | 英国中小学与早期教育非学业素养测评文献库 | [[Systematic Review\|系统综述]]与测量工具数据库摸排 | 自我控制（Self-control）与韧性（Resilience）测评工具的心理测量学指标 | 现有非学业测量工具普遍缺乏高标准效度验证；[[Predictive Validity\|预测效度]]多呈中等；亟须编制统一标准化测量工具库 | — | 宏观系统综述，确证非认知素养评估中的心理测量学效度赤字与开发标准数据库的制度必要性 |
 
+> [!metax] [自我控制 · Self control](https://www.visiblelearningmetax.com/influences/view/self_control)
+> 学生 › 自我
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 4 | 126 | 89,853 | 157 | 0.66 | 0.62 | ●●●○○ |
+>
+> > [!metax-ma]- 4 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | de Ridder et al. (2018) | Self control | 5 | 1,546 | 5 | 0.77 |  |
+> > | Naso et al. (2011) | Effortful control | 58 | 8,394 | 89 | 0.68 |  |
+> > | Taylor (2012) | Relative autonomy | 6 | NA | 6 | 0.39 |  |
+> > | Nasvytiene & Lazdauskas (2021) | Effortful control | 57 | 79,913 | 57 | 0.65 |  |
+
 ---
 
 > [!evidence-grid-a] 相关研究索引
@@ -290,17 +305,3 @@ updated: 2026-10-22
 > | [[Education Endowment Foundation]] | 事实 | 资助与评价旗舰；将自我控制纳入非学业评价与工具箱策略的先锋机构。 |
 > | [[EEF Teaching and Learning Toolkit]] | 事实 | 落地转译载体；元认知与自控策略带来 $+7$ 个月额外学业增益的循证平台。 |
 
-> [!metax] [自我控制 · Self control](https://www.visiblelearningmetax.com/influences/view/self_control)
-> 学生 › 自我
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★★ 显著加速 | 4 | 126 | 89,853 | 157 | 0.66 | 0.62 | ●●●○○ |
->
-> > [!metax-ma]- 4 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | de Ridder et al. (2018) | Self control | 5 | 1,546 | 5 | 0.77 |  |
-> > | Naso et al. (2011) | Effortful control | 58 | 8,394 | 89 | 0.68 |  |
-> > | Taylor (2012) | Relative autonomy | 6 | NA | 6 | 0.39 |  |
-> > | Nasvytiene & Lazdauskas (2021) | Effortful control | 57 | 79,913 | 57 | 0.65 |  |

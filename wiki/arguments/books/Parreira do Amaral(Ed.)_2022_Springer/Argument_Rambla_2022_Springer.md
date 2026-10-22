@@ -79,14 +79,13 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2022
 doi: ""
 citation_aliases:
   - "Rambla, 2022"
   - "Rambla (2022)"
 ---
-
 > [!question] [[Research Question\|研究问题]]
 > [[EU|欧盟]]的 [[Innovation Union]] 与 [[EU Skills Agenda]] 两项旗舰政策如何通过"[[Performance Indicators\|绩效指标]]"这一特定政策工具，建构关于"区域"（regions）的教育与创新想象（imaginaries）？在这一建构过程中，绩效指标体系在哪些方面系统性地优先了某些政策议题，又使哪些议题被边缘化？(p.163–164)
 >

@@ -99,7 +99,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: 2026-10-17
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
@@ -116,7 +116,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

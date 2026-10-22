@@ -121,7 +121,6 @@ updated: 2026-10-22
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
-
 ---
 
 > [!question]

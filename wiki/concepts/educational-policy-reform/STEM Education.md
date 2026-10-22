@@ -270,15 +270,6 @@ updated: 2026-10-22
 > | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所年科研经费超 10 亿美元的[[Research Universities\|研究型大学]]；3 期半导体 STEM 学者工作坊 | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 参会规模拓展与跨学科[[Teacher Collaboration\|教师协作]]体验 | 参与规模由 81 人扩展至系统 142 人再到全州 242 人；线上组 60%、线下组 80%、混合组 75% 表达积极协作体验 | 质性开放问卷独立主题编码（$n=21, 11, 12$） | 单机构自陈式质性评估，呈现高校有组织应对国家 STEM 战略时学者团队的微观孵化动态 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | [[National Semiconductor Technology Center\|美国国家半导体技术中心]]（[[National Science and Technology Council\|NSTC]]）劳动力卓越中心（WCoE）生态规划 | 国家微电子产业战略与教育规划 | 全谱系人才通道、课程资源共享与全包式支持 | 建立覆盖 K-12 启蒙、社区学院微认证、本科洁净室实训与研究生全额资助的全美网络；向少数族裔服务机构（MSI）倾斜资源 | 官方战略蓝图与产业人才供需预测 | 确立国家级[[Pilot Scale Platform\|中试平台]]与全谱系 STEM 教育深度嵌入的政策范式 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm|范式]]。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 阐释探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
-> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《[[CHIPS and Science Act|芯片与科学法案]]》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。
-> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。
-> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 提出依托[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与劳动力卓越中心（WCoE），构建贯通 K-12 到硕博士的全谱系微电子 STEM 人才生态，通过共享 300mm 中试线与云端设计网关实现真实工程实训赋能。
-
 > [!metax] [STEM 项目 · STEM programs](https://www.visiblelearningmetax.com/influences/view/stem_programs)
 > 课程 › 数学与科学
 >
@@ -305,3 +296,13 @@ updated: 2026-10-22
 > > | Güder et al. (2022) | Stem on science processes | 43 | NA | 43 | 0.60 |  |
 > > | Srikoon et al. (2023) | STEM on achievement | 8 | NA | 8 | 0.91 |  |
 > > | Lu et al. (2021) | STEM on achievement | 31 | NA | 42 | 0.62 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm|范式]]。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 阐释探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
+> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《[[CHIPS and Science Act|芯片与科学法案]]》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 提出依托[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与劳动力卓越中心（WCoE），构建贯通 K-12 到硕博士的全谱系微电子 STEM 人才生态，通过共享 300mm 中试线与云端设计网关实现真实工程实训赋能。
+

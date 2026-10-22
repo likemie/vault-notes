@@ -72,7 +72,6 @@ issuing_organization: ""
 sources:
   - "[[sources/Velasco_2022_CSJ/Velasco_2022_CSJ|Velasco_2022_CSJ]]"
 ---
-
 ---
 
 > [!question]

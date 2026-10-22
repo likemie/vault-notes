@@ -84,7 +84,6 @@ book_title: "University-Industry Collaboration: Innovation at the Interface"
 publication_place: "Cham"
 publisher: "Springer"
 ---
-
 ---
 
 > [!question]

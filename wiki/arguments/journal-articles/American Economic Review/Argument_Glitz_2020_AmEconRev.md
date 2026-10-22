@@ -63,7 +63,6 @@ journal: "American Economic Review"
 book_title: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

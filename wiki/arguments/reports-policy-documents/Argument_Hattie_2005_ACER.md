@@ -85,7 +85,6 @@ related_arguments: []
 sources:
   - "[[sources/Hattie_2005_ACER/Hattie_2005_ACER|Hattie_2005_ACER]]"
 ---
-
 ---
 
 > [!question]

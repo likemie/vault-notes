@@ -70,7 +70,7 @@ sources:
 part_of:
 status: completed
 created: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Freeman_1995_CJE"
@@ -87,7 +87,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

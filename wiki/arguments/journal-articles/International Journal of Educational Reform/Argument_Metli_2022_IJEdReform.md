@@ -56,7 +56,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-06
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Metli_2022_IJEdReform"
@@ -73,7 +73,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

@@ -67,9 +67,8 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
-
 ---
 
 > [!claim] 核心主旨

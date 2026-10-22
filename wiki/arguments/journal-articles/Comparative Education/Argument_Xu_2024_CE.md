@@ -61,7 +61,6 @@ citation_aliases:
   - "Xu, 2024"
   - "Xu (2024)"
 ---
-
 ---
 
 > [!question]

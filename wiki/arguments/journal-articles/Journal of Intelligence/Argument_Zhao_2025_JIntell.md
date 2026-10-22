@@ -106,7 +106,6 @@ related_instruments:
   - "[[PRISMA]]"
 status: draft
 ---
-
 ---
 
 > [!question]

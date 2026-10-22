@@ -89,7 +89,6 @@ citation_aliases:
   - "Partaken, 2022"
   - "Partaken (2022)"
 ---
-
 > [!question]
 > [[Geopolitics of Knowledge\|知识地缘政治]]（GPK）的核心问题域是什么？Partaken 质疑后殖民研究将[[Knowledge Production\|知识生产]]（knowledge production）作为 GPK 主要分析视角的做法，提出 GPK 的真正核心是[[Knowledge Transfer\|知识转移]]（knowledge transfer）而非知识生产，并以当代中美紧张关系作为经验案例加以验证。
 

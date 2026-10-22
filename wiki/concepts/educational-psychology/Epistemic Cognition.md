@@ -284,17 +284,6 @@ updated: 2026-10-22
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 离群值缩尾至 2 SD | 漏斗图、剪补法（Trim-and-fill）、[[Fail-Safe N]] | 0.342 [0.155, 0.528] | 稳定 | [[Trim and Fill Method\|剪补法]]填补 6 项缺失研究后[[Effect Size\|效应量]]仍达中等偏小（d=0.342）；Classic Fail-safe N=2,752，Orwin's Fail-safe N=115 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 逐一排除敏感性分析（r 稳定在 0.177–0.203）；无绝对残差 \|z\| > 3.29 的离群值 | 三层 [[Egger Regression Test\|Egger 回归检验]]（斜率 = -1.007, p = 0.429；截距 = 0.257, p = 0.004）与漏斗图 | 0.191 | 稳定 | [[Funnel Plot\|漏斗图]]对称，未发现发表偏倚或小样本效应 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology\|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
-> - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology\|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism\|整合多元主义]]”主张。
-> - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis\|元分析]]，评估了认识论认知对[[Academic Achievement\|学业成就]]的预测效应，澄清了[[Reliability\|信度]]与对齐规则的核心地位。
-> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展首个元分析，证实认识论认知教学干预对学业成就具有中等因果促进效应（$d = 0.509$），并确立[[Inquiry-Based Learning\|指导式探究]]、[[Source Evaluation\|信源评估]]及短周期聚焦干预的相对优势。
-> - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 采用[[Three-Level Meta-Analysis\|三层元分析]]模型综合韩国中小学生 512 个[[Effect Size\|效应量]]，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与[[Construct\|构念]]维度的关键[[Interaction Effect\|调节效应]]。
-> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition\|AIR]] 认识论认知模型[[Operationalization\|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]对论证实质的决定机制。
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，揭示认识论认知在人机交互中的动态调节效应，论证[[Evaluativist\|评价主义认识立场]]对克服消极[[Cognitive Offloading\|认知卸载]]的关键价值，并提出技术与教学法双轨支架干预机制。
-
 > [!metax] [认识论认知训练 · Epistemic cognitive training](https://www.visiblelearningmetax.com/influences/view/epistemic_cognitive_training)
 > 教学策略 › 教学方法
 >
@@ -307,3 +296,15 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | Epistemic cognitive training | 28 | NA | 59 | 0.51 |  |
 > > | McMullin & Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 包含五个组件的扩展[[Epistemology\|认识论]]认知框架推动了研究向细粒度和情境化方向发展。
+> - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统梳理了该领域的四大理论断层（[[Ontology\|本体论]]、情境性、发展轨迹、方法论），并提出了打通个体、互动与系统层级的“[[Integrative Pluralism\|整合多元主义]]”主张。
+> - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 提供了一项大规模的[[Meta-analysis\|元分析]]，评估了认识论认知对[[Academic Achievement\|学业成就]]的预测效应，澄清了[[Reliability\|信度]]与对齐规则的核心地位。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展首个元分析，证实认识论认知教学干预对学业成就具有中等因果促进效应（$d = 0.509$），并确立[[Inquiry-Based Learning\|指导式探究]]、[[Source Evaluation\|信源评估]]及短周期聚焦干预的相对优势。
+> - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 采用[[Three-Level Meta-Analysis\|三层元分析]]模型综合韩国中小学生 512 个[[Effect Size\|效应量]]，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与[[Construct\|构念]]维度的关键[[Interaction Effect\|调节效应]]。
+> - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition\|AIR]] 认识论认知模型[[Operationalization\|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]对论证实质的决定机制。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，揭示认识论认知在人机交互中的动态调节效应，论证[[Evaluativist\|评价主义认识立场]]对克服消极[[Cognitive Offloading\|认知卸载]]的关键价值，并提出技术与教学法双轨支架干预机制。
+

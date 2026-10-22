@@ -230,13 +230,6 @@ updated: 2026-10-22
 > | [[Argument_Besa_2024_UW\|Besa (2024, p. 255)，引述 Krüger and Konrad (2022)]] | 德国图书市场（2019–2020 年） | 市场文献计量与[[Content Analysis\|内容分析]] | 教师实践指南出版物规模与作者构成 | 共有 410 部流通在售的教师实践指南，绝大多数由一线教师单方撰写 | 行业普查数据 | 揭示实践读物是神话传播的重要载体且鲜有科研人员深度参与 |
 > | [[Argument_Besa_2024_UW\|Besa (2024, p. 256)，引述 Götzfried et al. (2022)]] | 德国职前师范生 | [[Randomised Controlled Trials\|随机对照实验]]研究 | 播客语言风格与概念转变设计对纠正学习风格神话的效果 | 采用通俗日常语言并整合概念转变引导的播客，对学习风格神话的修正更有帮助；所引综述未给出具体组间统计 | — | 证实科学传播的受众适配语言是破除教师[[Neuromyth\|神经神话]]的关键调节变量 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Besa_2024_UW|Besa (2024)]] — 整合学习类型信念、实践指南与播客干预的研究，分析教师教育中的科学传播条件。
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Hattie|哈蒂]]对学习风格报告 $d = 0.41$ 却断然否定的反例，揭露[[Meta-meta-analysis|二阶元分析]]放弃底层研究质控并设定绝对门槛的深层矛盾。
-> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 记录英国 [[ResearchED]] 运动中一线教师对学习风格这一典型“教育时尚与神话”的自发抵制与严厉批驳。
-
 > [!metax] [学习风格与学业成就 · Correlating learning styles to achievement](https://www.visiblelearningmetax.com/influences/view/correlating_learning_styles_to_achievement)
 > 学生学习策略 › 学生导向干预
 >
@@ -275,3 +268,11 @@ updated: 2026-10-22
 > > | Kavale & Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
 > > | Phillips et al. (2016) | Reflection thinking styles on performance | 89 | 17,704 | 68 | 0.11 |  |
 > > | Peterson & Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Besa_2024_UW|Besa (2024)]] — 整合学习类型信念、实践指南与播客干预的研究，分析教师教育中的科学传播条件。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Hattie|哈蒂]]对学习风格报告 $d = 0.41$ 却断然否定的反例，揭露[[Meta-meta-analysis|二阶元分析]]放弃底层研究质控并设定绝对门槛的深层矛盾。
+> - [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] — 记录英国 [[ResearchED]] 运动中一线教师对学习风格这一典型“教育时尚与神话”的自发抵制与严厉批驳。
+

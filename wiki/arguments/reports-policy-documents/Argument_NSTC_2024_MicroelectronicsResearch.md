@@ -89,7 +89,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: report
 publication_type: report
 title: "Argument_NSTC_2024_MicroelectronicsResearch"
@@ -104,7 +104,6 @@ issuing_organization: "Subcommittee on Microelectronics Leadership, National Sci
 publication_place: "Washington, D.C."
 publisher: "Executive Office of the President of the United States"
 ---
-
 ---
 
 > [!question]

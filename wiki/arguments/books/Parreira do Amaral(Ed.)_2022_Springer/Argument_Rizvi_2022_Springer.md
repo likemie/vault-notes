@@ -84,7 +84,6 @@ citation_aliases:
   - "Rizvi, 2022"
   - "Rizvi (2022)"
 ---
-
 > [!question]
 > 亚洲的经济和政治崛起如何重塑了全球高等教育的架构？
 

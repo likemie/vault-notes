@@ -66,7 +66,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 **中文题名：**《[[Theory of Knowledge|知识论]]的宗旨、目标与评估标准：[[Critical Thinking|批判性思维]]描述符分析》
 
 ---

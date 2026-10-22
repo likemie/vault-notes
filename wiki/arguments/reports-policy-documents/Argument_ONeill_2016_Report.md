@@ -93,7 +93,6 @@ citation_aliases:
   - "O'Neill et al., 2016"
   - "O'Neill et al. (2016)"
 ---
-
 ---
 
 > [!question]

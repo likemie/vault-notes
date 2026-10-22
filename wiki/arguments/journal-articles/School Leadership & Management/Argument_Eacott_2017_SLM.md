@@ -79,9 +79,8 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-22
 ---
-
 ---
 
 > [!question] 核心关切与经验谜题

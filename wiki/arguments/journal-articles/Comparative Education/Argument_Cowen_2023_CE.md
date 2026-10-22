@@ -104,7 +104,6 @@ citation_aliases:
   - "Cowen, 2023"
   - "Cowen (2023)"
 ---
-
 ---
 
 > [!question]

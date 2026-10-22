@@ -72,7 +72,6 @@ citation_aliases:
   - "Yu & Zhao, 2024"
   - "Yu & Zhao (2024)"
 ---
-
 ---
 
 > [!question] 核心关切与经验谜题

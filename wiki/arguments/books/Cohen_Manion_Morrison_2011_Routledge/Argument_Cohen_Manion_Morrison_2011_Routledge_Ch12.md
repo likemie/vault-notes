@@ -75,9 +75,8 @@ related_facts:
   - "[[Schulen im Team]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-20
+updated: 2026-10-22
 ---
-
 ---
 
 > [!knowledge-map] 第12章 [[Concept Mapping\|概念地图]]

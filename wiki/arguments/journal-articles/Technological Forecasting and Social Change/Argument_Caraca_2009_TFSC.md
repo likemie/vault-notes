@@ -54,7 +54,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-09
-updated: 2026-10-19
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Caraca_2009_TFSC"
@@ -69,7 +69,6 @@ journal: Technological Forecasting and Social Change
 book_title: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question] 核心关切与经验谜题

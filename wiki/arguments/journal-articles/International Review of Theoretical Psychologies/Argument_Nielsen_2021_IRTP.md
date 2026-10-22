@@ -78,7 +78,6 @@ citation_aliases:
   - "Nielsen & Klitmøller, 2021b"
   - "Nielsen & Klitmøller (2021b)"
 ---
-
 ---
 
 > [!question]

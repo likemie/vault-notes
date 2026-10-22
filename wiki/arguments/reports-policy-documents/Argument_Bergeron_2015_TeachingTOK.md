@@ -69,7 +69,7 @@ sources:
 part_of: 
 status: active
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: report
 publication_type: report
 title: "Argument_Bergeron_2015_TeachingTOK"
@@ -86,7 +86,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: "International Baccalaureate Organization"
 ---
-
 ---
 
 > [!question] [[Research Question\|研究问题]]

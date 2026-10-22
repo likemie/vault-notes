@@ -86,7 +86,6 @@ issuing_organization: "National Institute of Standards and Technology, U.S. Depa
 publication_place: "Washington, D.C."
 publisher: "U.S. Department of Commerce"
 ---
-
 ---
 
 > [!question]

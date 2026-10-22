@@ -67,7 +67,6 @@ tags:
   - theme/workforce-development
   - source/journal-article
 ---
-
 ---
 
 > [!question]

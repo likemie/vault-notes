@@ -59,7 +59,6 @@ citation_aliases:
   - "Burrus & Patera, 2025"
   - "Burrus & Patera (2025)"
 ---
-
 > [!info] [[Research Question\|研究问题]]
 > 大学和企业之间存在根本性差异，涵盖非营利与营利的使命对立、自下而上与自上而下的决策冲突、开放分享与知识产权控制的文化张力。在此背景下，如何有意识地构建[[Strategic Partnership\|战略性产学伙伴关系]]，而不是停留在零散的一次性合作？(pp.73–74)
 >

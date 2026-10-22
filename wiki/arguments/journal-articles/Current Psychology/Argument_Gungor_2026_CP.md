@@ -99,7 +99,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Gungor_2026_CP"
@@ -116,7 +116,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

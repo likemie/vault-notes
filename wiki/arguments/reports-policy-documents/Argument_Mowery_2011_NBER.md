@@ -80,7 +80,6 @@ publication_place: "Chicago"
 publisher: "University of Chicago Press"
 issuing_organization: "National Bureau of Economic Research"
 ---
-
 ---
 
 > [!question]

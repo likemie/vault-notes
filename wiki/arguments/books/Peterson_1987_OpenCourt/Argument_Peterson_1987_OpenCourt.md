@@ -79,9 +79,8 @@ sources:
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-10-16
+updated: 2026-10-22
 ---
-
 ---
 
 > [!monograph-profile] 专著档案

@@ -90,7 +90,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-19
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Trautwein_2007_CEP"
@@ -107,7 +107,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

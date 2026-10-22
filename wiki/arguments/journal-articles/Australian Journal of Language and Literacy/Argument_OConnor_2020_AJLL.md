@@ -71,7 +71,6 @@ citation_aliases:
   - "O'Connor, 2020"
   - "O'Connor (2020)"
 ---
-
 ---
 
 > [!question] Question

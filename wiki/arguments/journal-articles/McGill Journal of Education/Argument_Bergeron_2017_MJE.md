@@ -74,7 +74,6 @@ argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: McGill Journal of Education
 ---
-
 ---
 
 > [!question]

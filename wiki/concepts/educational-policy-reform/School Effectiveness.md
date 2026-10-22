@@ -290,18 +290,6 @@ updated: 2026-10-22
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Gray et al. (1986) | 英国学校[[Academic Achievement\|学业成就]]与社会阶层方差分解 | 大规模纵向多水平[[Analysis of Variance\|方差分析]] | 学生家庭背景（[[Socioeconomic Status\|SES]]）与学校效能对学业成绩的解释方差比 | 学生背景（SES）解释学业方差高达 80%，学校净效能仅解释约 20% | 极显著且稳健 | 严格实证检验，证实校外社会结构对学业产出具有压倒性主导作用 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Harker (1995) | 新西兰全国小学多水平方差分析模型 | 全国抽样[[Hierarchical Linear Model\|多层线性模型]]（HLM） | 社会阶层生源背景与校际差异方差占比 | 学生背景占总学业方差 70%–80%，校际差异仅占 8%–10% | 极显著（$p < .001$） | 证实新西兰公立学校差异极其微弱，将学业差距归咎于学校效能属于严重误导 |
 
-> [!metax] [学校效应 · School effects](https://www.visiblelearningmetax.com/influences/view/school_effects)
-> 学校 › 领导
->
-> | rate | ma | k | n | m | d | du | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | ★★★☆ 加速 | 1 | 168 | 0 | 168 | 0.48 | 0.48 | ●●○○○ |
->
-> > [!metax-ma]- 1 项
-> > | ref | var | k | n | m | d | e |
-> > | --- | --- | --- | --- | --- | --- | --- |
-> > | Scheerens & Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
-
 ---
 
 > [!ref-table] 核心关联概念对比表
@@ -313,6 +301,18 @@ updated: 2026-10-22
 > | [[Performativity\|绩效性]] | 评价[[Epistemology\|认识论]]哲学 | [[Jean-François Lyotard\|利奥塔]]揭示的“以输入输出比优化为核心”的后现代合法化逻辑，是效能指标的底层动力。 |
 > | [[Policy Borrowing\|政策借用]] | 跨国转移形态 | 效能方案作为全球教育市场中最易流通的标准件，成为各国政客证明改革科学性的借调样板。 |
 > | [[Technical Rationality\|技术理性]] | 认识论合法化 | 多边机构与咨询资本将效能技术标榜为超越意识形态与文化脉络的中立科学工具。 |
+
+> [!metax] [学校效应 · School effects](https://www.visiblelearningmetax.com/influences/view/school_effects)
+> 学校 › 领导
+>
+> | rate | ma | k | n | m | d | du | rob |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★☆ 加速 | 1 | 168 | 0 | 168 | 0.48 | 0.48 | ●●○○○ |
+>
+> > [!metax-ma]- 1 项
+> > | ref | var | k | n | m | d | e |
+> > | --- | --- | --- | --- | --- | --- | --- |
+> > | Scheerens & Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
 
 ---
 

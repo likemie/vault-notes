@@ -72,7 +72,6 @@ argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Research Policy"
 ---
-
 ---
 
 > [!question]

@@ -79,7 +79,6 @@ citation_aliases:
   - "Wang & McLaughlin, 2025"
   - "Wang & McLaughlin (2025)"
 ---
-
 ---
 
 > [!question]

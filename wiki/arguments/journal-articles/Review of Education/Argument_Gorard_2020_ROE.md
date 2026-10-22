@@ -118,7 +118,6 @@ tags:
 sources:
   - "[[sources/Gorard_2020_ROE|Gorard_2020_ROE]]"
 ---
-
 ---
 
 > [!question]

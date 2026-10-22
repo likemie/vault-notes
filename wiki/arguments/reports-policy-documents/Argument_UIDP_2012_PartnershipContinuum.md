@@ -60,7 +60,6 @@ citation_aliases:
   - "Southerton et al., 2012"
   - "Southerton et al. (2012)"
 ---
-
 ---
 
 > [!question]

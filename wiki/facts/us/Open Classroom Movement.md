@@ -112,14 +112,6 @@ updated: 2026-10-22
 > | [[Unit of Analysis]] | 概念 | 分析单位，本案例展现了传统比较教育以主权国家双边关系为基准单位的特征。 |
 > | [[Jason Beech]] | 人物 | 现代解构者，以该案例对比当代超越主权国家的跨国营利性教育网络。 |
 
----
-
-> [!evidence-grid-a] 相关研究
->
-> | 研究 | 视角 / 核心发现 |
-> |:---|:---|
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 考察人造卫星危机后美国全面借用英国幼儿学校的案例，以此反衬当代全球化情境下跨国企业与多标度网络对教育[[Champ\|场域]]的重塑。 |
-
 > [!metax] [开放式与传统课堂 · Open vs. traditional classrooms](https://www.visiblelearningmetax.com/influences/view/open_vs._traditional_classrooms)
 > 课堂 › 班级构成
 >
@@ -134,3 +126,12 @@ updated: 2026-10-22
 > > | Madamba (1981) | Traditional vs. open classrooms on reading | 72 | NA | 72 | -0.03 |  |
 > > | Hetzel (1980) | Traditional vs. open classrooms | 45 | NA | 45 | -0.13 |  |
 > > | Giaconia & Hedges (1982) | Traditional vs. open classrooms | 153 | NA | 171 | 0.06 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究
+>
+> | 研究 | 视角 / 核心发现 |
+> |:---|:---|
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 考察人造卫星危机后美国全面借用英国幼儿学校的案例，以此反衬当代全球化情境下跨国企业与多标度网络对教育[[Champ\|场域]]的重塑。 |
+

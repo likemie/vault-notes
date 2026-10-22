@@ -67,9 +67,8 @@ related_methods:
   - "[[Fieldwork]]"
 status: draft
 created: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-22
 ---
-
 ---
 
 > [!claim] 核心主旨

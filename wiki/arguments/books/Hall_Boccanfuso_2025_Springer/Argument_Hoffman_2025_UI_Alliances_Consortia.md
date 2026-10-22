@@ -71,7 +71,6 @@ citation_aliases:
   - "Hoffman et al., 2025"
   - "Hoffman et al. (2025)"
 ---
-
 > [!info] [[Research Question\|研究问题]]
 > [[University-Industry Collaboration\|产学合作]]最常见的起点是一家企业资助一个教授实验室的研究项目。但当合作从"一个实验室 + 一家企业"的单点互动，扩展到覆盖多个院系、跨越研究-教学-人才-设施的多维参与时，应该如何组织和管理？有哪些可用的组织模式，各自适用于什么条件？(pp.103–105)
 >

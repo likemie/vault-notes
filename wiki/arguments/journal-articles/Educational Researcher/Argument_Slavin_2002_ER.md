@@ -59,7 +59,6 @@ journal: "Educational Researcher"
 book_title: ""
 issuing_organization: ""
 ---
-
 > [!info] [[Research Question\|研究问题]]
 > 教育研究能否通过采用证据本位政策——即依赖[[Random Assignment\|随机化]]和严格匹配实验来评估可复制的教育项目——实现类似医学和农业的渐进式、系统性改进？(p. 15)
 

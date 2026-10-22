@@ -352,19 +352,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（PRISMA 2020 框架） | [[Systematic Review\|系统综述]]与主题综合：显性反思支架为干预，**【结果变量】** 人机交互中的元认知监控与[[Cognitive Offloading\|认知外包]]状态 | 27 项研究证实反思支架能激活元认知监控；12 项研究报告缺乏支架时出现元认知监控外包；被动工具使用与批判反思负相关（$\beta = -0.34, p < .001$） | 确立显性元认知监控在[[Generative Artificial Intelligence\|生成式 AI]] 时代作为抵御表面流畅性与心智侵蚀的核心防御机制 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–365)]] | N=124 名研究生统计推论任务 | 质性交互语料与认知追踪：高阶元认知监控 vs 算法盲从 | Student C 凭借元认知监控实施 7 轮持续质询，成功识别 ChatGPT 建议中的 3 处关键统计假设违背，完成从[[Chi-Squared Test\|卡方检验]]到非参数相关的正确决策演进 | 实证证实人机[[Dialogue in Education\|对话]]中的多轮元认知质询是打破绝对论依从、实现评价论建构的关键操作机制 |
 
----
-
-> [!evidence-grid] 相关研究索引
-> - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances|认识立场]]框架，以 7 轮统计推论人机交互微观语料实证揭示元认知监控在抵御消极[[Cognitive Offloading|认知卸载]]与促成评价论进阶中的决定性作用。
-> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项[[Experimental Research|实验研究]]中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“[[Metacognitive Laziness|元认知惰性]]”与开展显性反思培训的紧迫性。
-> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills|高阶思维]]协同的核心纽带。
-> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 多层[[Meta-analysis|元分析]]揭示高校[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并在纳入的 Hargrove and Nietfeld (2015) 等研究基础上，揭示独立个体练习（$g = 0.682$）胜于小组协作（$g = 0.567$）促进策略内化的元认知机制。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，揭示大语言模型表面流畅性诱发元认知监控外包的危机，提出反思支架维系[[Epistemic Friction|认识论摩擦]]的实践规程。
-> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 系统界定人工智能中介学习中的[[Epistemic Dependence|认识依赖]]，阐明中间认识动作剥离对元认知监控的侵蚀机制，并提出对抗性反思质询与多源对比等显性元认知防御干预方案。
-> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 追踪实证研究证实 IB ToK [[Epistemology|认识论]]课程能够作为系统性的元认知训练，显著提升大学生的批判反思能力。
-> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]证实过程性元认知与[[Problem Finding|问题发现]]测量指标（$r = 0.27$）的效度显著优于单纯[[Divergent Thinking|发散思维]]测验（$r = 0.14$）。
-> - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性实证阐明元认知意识如何支撑学生的自主性发展与知情决策。
-
 > [!metax] [元认知策略 · Meta-cognition strategies](https://www.visiblelearningmetax.com/influences/view/meta-cognition_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >
@@ -397,3 +384,17 @@ updated: 2026-10-22
 > > | Liu (2010) | Metacognitive programs on writing | 11 | 768 | 11 | 0.77 |  |
 > > | Cheng et al. (2023) | Computational thinking | 21 | 1,327 | 21 | 0.85 |  |
 > > | Akpur (2024) | Metacognitive awareness | 36 | 10,463 | 36 | 0.82 |  |
+
+---
+
+> [!evidence-grid] 相关研究索引
+> - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances|认识立场]]框架，以 7 轮统计推论人机交互微观语料实证揭示元认知监控在抵御消极[[Cognitive Offloading|认知卸载]]与促成评价论进阶中的决定性作用。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — [[Meta-analysis|元分析]] 57 项[[Experimental Research|实验研究]]中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“[[Metacognitive Laziness|元认知惰性]]”与开展显性反思培训的紧迫性。
+> - [[Argument_Park_2026_TSC|Park et al. (2026)]] — [[Three-Level Meta-Analysis|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills|高阶思维]]协同的核心纽带。
+> - [[Argument_Guo_2025_TSC|Guo et al. (2025)]] — 多层[[Meta-analysis|元分析]]揭示高校[[Creativity Training|创造力干预]]总体增益（$g = 0.628$），并在纳入的 Hargrove and Nietfeld (2015) 等研究基础上，揭示独立个体练习（$g = 0.682$）胜于小组协作（$g = 0.567$）促进策略内化的元认知机制。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]] 67 项实证研究，揭示大语言模型表面流畅性诱发元认知监控外包的危机，提出反思支架维系[[Epistemic Friction|认识论摩擦]]的实践规程。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 系统界定人工智能中介学习中的[[Epistemic Dependence|认识依赖]]，阐明中间认识动作剥离对元认知监控的侵蚀机制，并提出对抗性反思质询与多源对比等显性元认知防御干预方案。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 追踪实证研究证实 IB ToK [[Epistemology|认识论]]课程能够作为系统性的元认知训练，显著提升大学生的批判反思能力。
+> - [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]证实过程性元认知与[[Problem Finding|问题发现]]测量指标（$r = 0.27$）的效度显著优于单纯[[Divergent Thinking|发散思维]]测验（$r = 0.14$）。
+> - [[Argument_Lakhani_2012_AKUIED|Lakhani (2012)]] — 质性实证阐明元认知意识如何支撑学生的自主性发展与知情决策。
+

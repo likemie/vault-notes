@@ -83,7 +83,6 @@ publication_place: ""
 publisher: "Springer"
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]

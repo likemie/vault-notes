@@ -89,9 +89,8 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-23
-updated: 2026-10-20
+updated: 2026-10-22
 ---
-
 ---
 
 > [!claim] 核心主旨

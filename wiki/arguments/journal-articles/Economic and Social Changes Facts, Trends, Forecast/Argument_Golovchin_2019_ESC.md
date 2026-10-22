@@ -81,7 +81,6 @@ citation_aliases:
   - "Golovchin, 2019"
   - "Golovchin (2019)"
 ---
-
 ---
 
 > [!question]

@@ -178,11 +178,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 544)]] | 全球 30 个涉教育政府间组织及私人基金会 | 历史制度主义与跨国[[Policy Network\|政策网络]]分析 | SEL 议题的多边机构采纳与资金竞争 | [[UNICEF]] 首创后 [[OECD]] 与 [[UNESCO]] 相继立项跟进；五大 IO 共同争夺盖茨、乐高、博蒂克斯等私人基金会赠款配额 | 全样本历史追踪 | 揭示 SEL 从边缘人道议题演变为全球多边机构制度竞争核心载体的生态演化 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[UNICEF\|联合国儿童基金会]]率先开辟社会情感学习新赛道，并引发[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]跨界跟进争夺全球规制权与私人资金的组织生态学案例。
-
 > [!metax] [社会情感学习 · Socio-emotional learning](https://www.visiblelearningmetax.com/influences/view/socio-emotional_learning)
 > 课程 › 其他课程项目
 >
@@ -200,3 +195,9 @@ updated: 2026-10-22
 > > | Corcoran et al. (2018) | Social-emotional learning interventions | 40 | 135,495 | 73 | 0.25 |  |
 > > | Shi & Cheung (2024) | SEL on academic performance | 12 | 83,233 | 59 | 0.13 |  |
 > > | Cipriano et al. (2023) | Social-emotional learning interventions | 424 | 575,361 | 2,049 | 0.11 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[UNICEF\|联合国儿童基金会]]率先开辟社会情感学习新赛道，并引发[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]跨界跟进争夺全球规制权与私人资金的组织生态学案例。
+

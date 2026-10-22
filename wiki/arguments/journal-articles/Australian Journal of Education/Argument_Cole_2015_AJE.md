@@ -74,7 +74,7 @@ related_instruments:
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-10-16
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
@@ -87,7 +87,6 @@ argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Australian Journal of Education"
 ---
-
 ---
 
 > [!question]

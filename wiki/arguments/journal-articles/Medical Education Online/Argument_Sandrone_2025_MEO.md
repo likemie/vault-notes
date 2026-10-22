@@ -48,7 +48,6 @@ citation_aliases:
   - "Sandrone, 2025"
   - "Sandrone (2025)"
 ---
-
 ---
 
 > [!question]

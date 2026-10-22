@@ -90,11 +90,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | [[Dialogue in Education\|对话]]式智能体（Conversational AI） | $k = 30$ / — | $g = 0.468$ $[0.008, 0.645]$ | $p < .05$ | 证据库中[[Sample Size Determination\|样本量]]最大（占总体[[Effect Size\|效应量]] 41%），在语言读写与口语互动中优势突出 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中系统检验了对话式智能体的大样本实证效能（$k = 30, g = 0.468$），确立了其在基础教育语言听说与交互式读写领域的统治性干预优势。
-
 > [!metax] [聊天机器人 · Chatbot](https://www.visiblelearningmetax.com/influences/view/chatbot)
 > 技术、学校与校外策略 › 移动／触屏
 >
@@ -109,3 +104,9 @@ updated: 2026-10-22
 > > | Lee & Hwang (2023) | Chatbots | 16 | NA | 58 | 0.69 |  |
 > > | Alemdag (2023) | Chatbots | 28 | NA | 31 | 0.48 |  |
 > > | Deng & Yu (2023) | Chatbox on achievement | 32 | 2,201 | 32 | 0.79 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中系统检验了对话式智能体的大样本实证效能（$k = 30, g = 0.468$），确立了其在基础教育语言听说与交互式读写领域的统治性干预优势。
+

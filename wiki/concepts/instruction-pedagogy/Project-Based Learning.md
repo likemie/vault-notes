@@ -183,11 +183,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | [[Generative Artificial Intelligence\|生成式人工智能]]干预下的学生[[Higher-Order Thinking Skills\|高阶思维]]培养（项目式学习亚组） | 31 / — | $g = 0.717$ [0.507, 0.928] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） | 亚组效应达中到大水平且高度显著（$Z = 6.674, p < 0.001$）；三分类教学模式整体组间检验未达显著，但项目式学习效应量明显高于传统讲授式教学；实证研究高度向探究设计倾斜。 |
 
----
-
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence\|生成式人工智能]]对[[Higher-Order Thinking Skills\|高阶思维]]影响的一阶[[Meta-analysis\|元分析]]中，将项目式学习作为核心教学模式调节[[Variable\|变量]]，检验发现其在各类教学形态中表现出最高的显著促进效应，并证实了 AI 作为认知伙伴在探究情境中的协同价值。
-
 > [!metax] [项目式学习 · Project-based learning](https://www.visiblelearningmetax.com/influences/view/project-based_learning)
 > 教学策略 › 教学方法
 >
@@ -204,3 +199,9 @@ updated: 2026-10-22
 > > | Rehman et al. (2024) | Project based learning | 70 | NA | 70 | 0.65 |  |
 > > | Badawi et al. (2023) | Blended project based learning | 11 | NA | 11 | 1.28 |  |
 > > | Wenlan & Jiao (2019) | Project based learning | 46 | 3,951 | 121 | 0.59 |  |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 在关于[[Generative Artificial Intelligence\|生成式人工智能]]对[[Higher-Order Thinking Skills\|高阶思维]]影响的一阶[[Meta-analysis\|元分析]]中，将项目式学习作为核心教学模式调节[[Variable\|变量]]，检验发现其在各类教学形态中表现出最高的显著促进效应，并证实了 AI 作为认知伙伴在探究情境中的协同价值。
+

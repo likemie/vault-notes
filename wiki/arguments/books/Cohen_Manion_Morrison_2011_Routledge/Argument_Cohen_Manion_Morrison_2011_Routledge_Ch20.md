@@ -84,7 +84,6 @@ status: draft
 created: 2026-07-20
 updated: 2026-10-22
 ---
-
 > [!knowledge-map] 第20章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_20_Concept_Map.jpg)
 

@@ -95,7 +95,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-10-20
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Du_Yuan_2026_AIS"
@@ -112,7 +112,6 @@ publication_place: ""
 publisher: ""
 issuing_organization: ""
 ---
-
 ---
 
 > [!question]
