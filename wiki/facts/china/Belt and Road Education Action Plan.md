@@ -53,6 +53,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: medium
 status: draft
 created: 2026-10-19
@@ -115,6 +116,7 @@ updated: 2026-10-22
 > - **部省协同与高校执行** 教育部与核心省份签署省部共建备忘录，高校设立境外独立校区（如厦门大学马来西亚分校）、发起跨国学术联盟（如[[University Alliance of the Silk Road|丝绸之路大学联盟]] UASR）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–683)]]
 > - **产教融合与高职出海** 依托《职教行动计划》推动高职院校协同央企建设海外鲁班工坊，定向输出工程技术专业标准。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
 > - **省市结对协同合作** 鼓励各省市依托历史渊源与地缘优势，与沿线国家建立友好省份与友好城市机制，拓宽民间与地方层面教育互助资源。[[Argument_King_2020_ECNUROE|(King, 2020, p. 231)]]
+> - **南亚中亚在地化弹性拓展** 针对中亚三语政策（国语、俄语、英语/汉语）推广全英文授课工程与医学项目；在阿富汗与巴基斯坦通过提供定向奖学金培育交通工程与医学人才；在土库曼斯坦等出境管制严格国家采用“在地离岸培训与属地学徒制”（如中石油阿姆河气田实训）；在乌兹别克斯坦遇孔院配额上限时采用校际智慧语言教室直接捐赠。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–28)]]
 
 ---
 
