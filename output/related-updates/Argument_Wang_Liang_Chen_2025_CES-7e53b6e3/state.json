@@ -360,7 +360,7 @@
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -408,7 +408,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T09:54:39.680797+00:00"
     }
   ]
 }

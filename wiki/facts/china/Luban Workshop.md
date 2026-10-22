@@ -9,7 +9,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-19
@@ -150,3 +151,11 @@ updated: 2026-10-22
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 梳理中非合作论坛第七届峰会鲁班工坊承诺及吉布提首站落地实证案例的文献。 |
 > | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证审视鲁班工坊在南亚与中亚的布局规模、跨国校企技术联盟网络及缓解基建用工争议功能的代表性文献。 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 分析海外职教工坊从单校点状合作向产业链线面平台及产教生态圈深化的制度逻辑与实践进路。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 剖析高职院校出海与鲁班工坊配套国家地缘战略的核心实证文献。
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 梳理中非合作论坛第七届峰会鲁班工坊承诺及吉布提首站落地实证案例的文献。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 实证审视鲁班工坊在南亚与中亚的布局规模、跨国校企技术联盟网络及缓解基建用工争议功能。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合泰国大城技术学院鲁班工坊等办学实践，分析海外职教工坊从单校点状合作向产业链线面平台及产教生态圈深化的制度逻辑与实践进路（pp. 288, 294–295）。

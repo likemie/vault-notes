@@ -13,9 +13,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "2013–至今"
 initiator_organization: "中华人民共和国推进“一带一路”建设工作领导小组、国家发展和改革委员会、外交部、商务部"
@@ -71,6 +71,7 @@ related_arguments:
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
 status: active
 created: 2026-10-19
@@ -151,8 +152,9 @@ updated: 2026-10-22
 > - **\$135K** AUA 设立的单项学者联合研究资助上限（美元）。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1702)]]
 > - **100%** 重点定向[[Engineering Education|工程教育]]项目国际留学生毕业后全员回流母国参与关键基建运营的履约率。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
 > - **80B m³** 中亚天然气管道 D 线全线贯通后预计向中国年输送天然气规模，占当时中国天然气进口总量的 40% 以上，依托定向培养的塔吉克斯坦本土技术梯队参与运维。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
-- **98,823 (20.08%)** （人） 2018 年在华[[ASEAN|东盟]]留学生总数达 98,823 人，占全华国际学生总数的 20.08%，较 2008 年增长近三倍，印证了倡议对周边区域生源流动的强大带动效应。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1042, 1050)]]
-- **2.36 倍** 2015 至 2019 年间中国对柬埔寨硬性基建直接援助（11.60 亿美元）相较于文教、社会与[[Comparative Education as a Cross-Sectional Area|交叉领域]]援助总额（4.92 亿美元）的倍数差距，揭示出一带一路高教与人文合作滞后于工程投资的结构性特征。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1053–1054)]]
+> - **98,823 (20.08%)** （人） 2018 年在华[[ASEAN|东盟]]留学生总数达 98,823 人，占全华国际学生总数的 20.08%，较 2008 年增长近三倍，印证了倡议对周边区域生源流动的强大带动效应。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1042, 1050)]]
+> - **2.36** （倍） 2015 至 2019 年间中国对柬埔寨硬性基建直接援助（11.60 亿美元）相较于文教、社会与[[Comparative Education as a Cross-Sectional Area|交叉领域]]援助总额（4.92 亿美元）的倍数差距，揭示出一带一路高教与人文合作滞后于工程投资的结构性特征。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1053–1054)]]
+> - **2.8%–9.7%** [[World Bank|世界银行]]测算共建一带一路交通基础设施建设对沿线经济体贸易增长的带动区间（全球贸易拉动 1.7%–6.2%），直接驱动了跨国基建运维与工程技术人才缺口。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 291)]]
 
 ---
 
@@ -192,6 +194,18 @@ updated: 2026-10-22
 > | [[Comparative Case Study]] | Method | 学界用于实证比较一带一路框架下[[Multi-University\|多元大学]]联盟治理异同的[[Qualitative Research\|质性研究]]方法。 |
 > | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 采用叙事[[Case Study\|案例研究]]系统评估中国行业特色高校在“一带一路”重点能源与交通工程中开展知识外交与四方协同定向培养的实证文献。 |
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 剖析[[Forum on China-Africa Cooperation\|中非合作论坛]]与“一带一路”教育行动深度交织及多边教育互联互通机制的实证文献。 |
-| [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 基于新朝贡与[[Tianxia Heuristic\|天下观]]视角实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力的代表性文献。 |
-| [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育与公共外交协同布局及精英/大众民意张力的代表性文献。 |
+> | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 基于新朝贡与[[Tianxia Heuristic\|天下观]]视角实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力的代表性文献。 |
+> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育与公共外交协同布局及精英/大众民意张力的代表性文献。 |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 结合区域自贸与全面战略伙伴关系大局，系统论述共建“一带一路”走廊下职业教育高水平开放的四级政策链条与产教生态协同路径（pp. 286–301）。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 探讨外向型高教国际化与国家地缘倡议协同演进的代表性研究。
+> - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较大众开放型（UASR）与精英排他型（AUA）跨国大学联盟的知识外交与知识权力机制。
+> - [[Argument_King_2020_ECNUROE|King (2020)]] — 剖析中非合作论坛与“一带一路”教育行动深度交织及多边教育互联互通机制。
+> - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 针对中亚天然气管道等重大基建工程开展政产学研四方协同工程人才定向培养的实证文献。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力。
+> - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育公共外交协同布局及精英/大众民意张力。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸与全面战略伙伴关系大局，系统论述共建“一带一路”走廊下职业教育高水平开放的四级政策链条与产教生态协同路径（pp. 286–301）。
 
