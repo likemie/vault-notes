@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Class Size",
+      "path": "wiki/concepts/educational-policy-reform/Class Size.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Effect Size Conversion",
+      "path": "wiki/methods/quantitative/Effect Size Conversion.md"
+    },
+    {
+      "basename": "Effect Size",
+      "path": "wiki/methods/quantitative/Effect Size.md"
+    },
+    {
       "basename": "Argument_Greene_2018_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "template-school",
       "path": "wiki/templates/template-school.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
-    },
-    {
-      "basename": "TEMPLATE-SPEC",
-      "path": "wiki/templates/TEMPLATE-SPEC.md"
-    },
-    {
-      "basename": "INVALSI",
-      "path": "wiki/facts/italy/INVALSI.md"
-    },
-    {
-      "basename": "template-fact-organization",
-      "path": "wiki/templates/template-fact-organization.md"
     }
   ],
   "omittedPaths": [],

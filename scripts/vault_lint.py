@@ -1379,6 +1379,20 @@ def check_old_references(path: Path, text: str, issues: List[Issue]) -> None:
             start = idx + len(pattern)
 
 
+def check_effect_tables(path: Path, text: str, issues: List[Issue]) -> None:
+    """新结构实证表格（含“效应值”列）：指标白名单、数值格式、效应条一致性。见 scripts/effect_table.py。"""
+    if "效应值" not in text:
+        return
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        from effect_table import lint_file
+    except Exception as e:  # pragma: no cover
+        issues.append(Issue("WARN", rel(path), f"effect_table.py unavailable: {e}", code="EFFECT_TABLE_TOOL"))
+        return
+    for q in lint_file(path, text):
+        issues.append(Issue(q.sev, rel(path), q.msg, line=q.line, code=q.code))
+
+
 def check_quartz_safety(path: Path, text: str, issues: List[Issue]) -> None:
     if is_schema_or_workflow_doc(path):
         return
@@ -3465,6 +3479,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
 
     check_old_references(path, text, issues)
     check_quartz_safety(path, text, issues)
+    check_effect_tables(path, text, issues)
     check_axis_callouts(path, text, issues)
     check_stat_card_titles(path, text, issues)
     check_markdown_misc(path, text, issues)

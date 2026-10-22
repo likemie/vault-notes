@@ -7,7 +7,7 @@
   "batches": [
     {
       "number": 1,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -83,11 +83,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T08:49:20.413073+00:00"
     },
     {
       "number": 2,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -173,7 +174,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T08:53:24.201974+00:00"
     },
     {
       "number": 3,
