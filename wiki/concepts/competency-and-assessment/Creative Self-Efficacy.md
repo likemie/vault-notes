@@ -258,7 +258,7 @@ updated: 2026-10-22
 > |  |  | 双客观表现测验 |  | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | — |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 教学组织形式 | 独立个体练习深思 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | — | 亚组差异显著 |
 > |  |  | 小组合作协作探究 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | — | — |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练核心方式 | 言语认知与思维策略 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 方式主效应极显著 |
+> |  | 训练核心方式 | 言语认知与思维策略 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 方式主效应极显著 |
 > |  |  | 思维 |  | N = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
 > |  |  | 情绪训练 |  | N = 2 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.066"><span class="b1"></span></span>−0.066 | — | — |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 构念范畴 | 认知与执行加工 | $r$ | E = 56 | <span class="mx-bar ef-bar conv" title="r 0.23 → d ≈ 0.47（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.23 | — | 组间差异显著（$p < .05$） |

@@ -205,15 +205,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预措施 | 生成式人工智能教学干预（问题解决亚组） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | [0.521, 0.970] | $Q_b = 4.961, df = 2, p = 0.084$（高阶思维三维度间异质性检验） |
->
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 干预措施** 效应量达中到大水平且高度显著（$Z = 6.507, p < 0.001$）；在问题解决（$0.745$）、批判性思维（$0.691$）与创造力（$0.444$）三大维度中位列第一，证实生成式 AI 与程序性逻辑推演具有极高契合度；但初级研究多以编程排错与情境任务评分为主。
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

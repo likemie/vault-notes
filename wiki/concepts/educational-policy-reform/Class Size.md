@@ -353,7 +353,6 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 结果领域 | 阅读（法语） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | $p < .05$ |
-> |  |  | 数学 |  | — | — | — | 未达显著 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

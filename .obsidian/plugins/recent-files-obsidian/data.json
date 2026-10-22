@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Class Size",
+      "path": "wiki/concepts/educational-policy-reform/Class Size.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md"
+    },
+    {
       "basename": "Academic Well-being and Interest in Learning",
       "path": "wiki/concepts/educational-psychology/Academic Well-being and Interest in Learning.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Argument_Wang_Liang_Chen_2025_CES",
       "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
-    },
-    {
-      "basename": "Class Size",
-      "path": "wiki/concepts/educational-policy-reform/Class Size.md"
     },
     {
       "basename": "Academic Achievement",
@@ -195,10 +199,6 @@
     {
       "basename": "Meta-meta-analysis",
       "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
-    },
-    {
-      "basename": "Meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-analysis.md"
     }
   ],
   "omittedPaths": [],

@@ -234,20 +234,16 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | Hedges' $g$ | k = 42 | <span class="mx-bar ef-bar" title="Hedges' g 0.391"><span class="b8"></span></span>0.391 | [0.197, 0.584] | $Q = 409.56, I^2 = 90.0\%, p < .001$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | 知识类认知结果（Knowledge-Based Outcomes） | Hedges' $g$ | k = 18 | <span class="mx-bar ef-bar" title="Hedges' g 0.344"><span class="b7"></span></span>0.344 | [0.040, 0.649] | $Q = 143.82, I^2 = 88.2\%, p = .026$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（认知结果分类） | 高阶思维技能（Higher-Order Thinking） | Hedges' $g$ | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.540"><span class="b11"></span></span>0.540 | [−0.036, 1.117] | $Q = 259.62, I^2 = 95.4\%, p = .066$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 智能导师系统（ITS） | Hedges' $g$ | k = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.540"><span class="b11"></span></span>0.540 | [0.241, 0.839] | 智能体类型间检验 $Q_B = 0.069, p = .793$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 人工智能教育机器人（Robotics） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.474"><span class="b9"></span></span>0.474 | [0.150, 0.799] | $p < .001$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 对话式智能体（Conversational AI） | Hedges' $g$ | k = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.468"><span class="b9"></span></span>0.468 | [0.008, 0.645] | $p < .05$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.421"><span class="b8"></span></span>0.421 | [0.198, 0.645] | $p < .001$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 高小学段（Upper-primary, 4~6年级） | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | [0.502, 1.253] | 学段间检验 $Q_B = 12.97, p = .005$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 低小学段（Lower-primary, 1~3年级） | Hedges' $g$ | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.237"><span class="b5"></span></span>0.237 | [0.044, 0.431] | $p < .05$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 初中阶段（Lower-secondary, 7~9年级） | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.195"><span class="b4"></span></span>0.195 | [0.012, 0.402] | $p < .05$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学段分类） | 高中学段（Upper-secondary, 10~12年级） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.037"><span class="b1"></span></span>0.037 | [−0.217, 0.290] | $p > .05$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 语言与读写（Language and Literacy） | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.830"><span class="b17"></span></span>0.830 | [0.384, 1.127] | 学科间检验 $Q_B = 7.61, p = .006$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 艺术与创造力（Arts and Creativity） | Hedges' $g$ | k = 4 | <span class="mx-bar ef-bar" title="Hedges' g 0.755"><span class="b15"></span></span>0.755 | [0.112, 1.548] | $p < .05$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 数学与技术（Mathematics and Technology） | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.230"><span class="b5"></span></span>0.230 | [0.067, 0.393] | $p < .01$ |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（学科分类） | 自然科学（Natural Science） | Hedges' $g$ | k = 11 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.065"><span class="b1"></span></span>−0.065 | [−0.454, 0.324] | $p > .05$ |
+> |  | 干预因素（认知结果分类） | 知识类认知结果（Knowledge-Based Outcomes） | Hedges' $g$ | k = 18 | <span class="mx-bar ef-bar" title="Hedges' g 0.344"><span class="b7"></span></span>0.344 | [0.040, 0.649] | $Q = 143.82, I^2 = 88.2\%, p = .026$ |
+> |  | 干预因素（智能体技术类型） | 人工智能教育机器人（Robotics） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.474"><span class="b9"></span></span>0.474 | [0.150, 0.799] | $p < .001$ |
+> |  | 干预因素（智能体技术类型） | 对话式智能体（Conversational AI） | Hedges' $g$ | k = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.468"><span class="b9"></span></span>0.468 | [0.008, 0.645] | $p < .05$ |
+> |  | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.421"><span class="b8"></span></span>0.421 | [0.198, 0.645] | $p < .001$ |
+> |  | 干预因素（学段分类） | 高小学段（Upper-primary, 4~6年级） | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | [0.502, 1.253] | 学段间检验 $Q_B = 12.97, p = .005$ |
+> |  | 干预因素（学段分类） | 低小学段（Lower-primary, 1~3年级） | Hedges' $g$ | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.237"><span class="b5"></span></span>0.237 | [0.044, 0.431] | $p < .05$ |
+> |  | 干预因素（学段分类） | 初中阶段（Lower-secondary, 7~9年级） | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.195"><span class="b4"></span></span>0.195 | [0.012, 0.402] | $p < .05$ |
+> |  | 干预因素（学科分类） | 语言与读写（Language and Literacy） | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.830"><span class="b17"></span></span>0.830 | [0.384, 1.127] | 学科间检验 $Q_B = 7.61, p = .006$ |
+> |  | 干预因素（学科分类） | 艺术与创造力（Arts and Creativity） | Hedges' $g$ | k = 4 | <span class="mx-bar ef-bar" title="Hedges' g 0.755"><span class="b15"></span></span>0.755 | [0.112, 1.548] | $p < .05$ |
+> |  | 干预因素（学科分类） | 数学与技术（Mathematics and Technology） | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.230"><span class="b5"></span></span>0.230 | [0.067, 0.393] | $p < .01$ |
 >
 > - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（认知结果分类）** 涵盖数学解题、编程、读写技能，效应高度稳定显著
 > - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（认知结果分类）** 概念与事实记忆，效应相对适度

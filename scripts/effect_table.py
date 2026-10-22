@@ -293,6 +293,47 @@ def nodata_rows(text: str) -> List[Tuple[int, str]]:
             i += 1
     return out
 
+_NSW = re.compile(r"未达显著|不显著|无显著|\bn\.?\s?s\.?(?![a-z])|\bns\b", re.I)
+_PV = re.compile(r"p\s*([<>=≤≥])\s*(0?\.\d+|1(?:\.0+)?)", re.I)
+_TEST = re.compile(r"Q|W\s*=|F\s*[(=]|χ|\\chi|组间|between", re.I)
+
+def not_significant(sig: str) -> bool:
+    """显著性栏是否表明不显著：有 p ≥ .05 或“不显著/n.s.”字样，且没有任何 p < .05。"""
+    s = sig.replace("$", "")
+    ps = _PV.findall(s)
+    if any((op in "<≤" and float(v) <= .05) or (op == "=" and float(v) < .05) for op, v in ps):
+        return False
+    if "显著" in s and not _NSW.search(s) and "边缘" not in s:
+        return False
+    return any(op in ">≥=" and float(v) >= .05 for op, v in ps) or bool(_NSW.search(s))
+
+def ns_subgroup_rows(text: str) -> List[Tuple[int, str]]:
+    """亚组表中不显著的行：该水平不显著，或所在调节变量组的组间检验不显著（整组）。"""
+    lines = text.split("\n"); out = []; i = 0
+    while i < len(lines):
+        if lines[i].startswith("> [!") and "concept-subgroup-table-marker" in "\n".join(lines[i:i + 3]):
+            j = i + 1
+            while j < len(lines) and lines[j].startswith(">"):
+                j += 1
+            rows = [k for k in range(i, j) if lines[k].startswith("> |")]
+            if len(rows) >= 3:
+                H = split_cells(lines[rows[0]])
+                cG = H.index("显著性或组间检验") if "显著性或组间检验" in H else None
+                cS = H.index("研究") if "研究" in H else None
+                cM = H.index("调节变量") if "调节变量" in H else None
+                group_ns = False
+                for r in rows[2:]:
+                    c = split_cells(lines[r])
+                    if cG is None or len(c) != len(H): continue
+                    if (cS is not None and c[cS]) or (cM is not None and c[cM]):
+                        group_ns = bool(_TEST.search(c[cG]) and not_significant(c[cG]))
+                    if group_ns or (not _TEST.search(c[cG]) and not_significant(c[cG])):
+                        out.append((r + 1, lines[r]))
+            i = j
+        else:
+            i += 1
+    return out
+
 def lint_file(path: Path, text: str, head_text: str = None) -> List[Problem]:
     """供 vault_lint.py 调用。head_text 为 HEAD 版本；已存在于 HEAD 的无数据行不报。"""
     p = str(path).replace("\\", "/")
@@ -306,6 +347,9 @@ def lint_file(path: Path, text: str, head_text: str = None) -> List[Problem]:
             probs.append(Problem("ERROR", ln, "EMPIRICAL_NO_DATA",
                 "实证表格只写有数据的结果：这一行的结果栏没有数值、比例、计数或统计量。"
                 "质性结论、政策文本归纳、仅有样本量的文字结论改写进正文或“相关研究”，或回原文补上数据"))
+        for ln, row in ns_subgroup_rows(text):
+            probs.append(Problem("ERROR", ln, "SUBGROUP_NOT_SIGNIFICANT",
+                "亚组表只写显著的结果：该水平不显著，或所在调节变量的组间检验不显著（整组删除），不写入表格"))
     return probs
 
 def iter_targets(args: List[str]) -> List[Path]:

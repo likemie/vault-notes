@@ -227,10 +227,10 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 思维维度 | 发散思维 | Hedges' $g$ | k = 12 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | — | $Q_b = 7.07, p < .01$ |
 > |  |  | 聚合思维 |  | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | — | — |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 组织器形态 | 思维导图 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | — | 成对 Wald 检验均 $p < .001$ |
+> |  | 组织器形态 | 思维导图 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | — | 成对 Wald 检验均 $p < .001$ |
 > |  |  | 论证图 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | — | — |
 > |  |  | 概念图 |  | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | — | — |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习阶段 | 中学生 | Hedges' $g$ | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | 组间差异显著（$p < .01$） |
+> |  | 学习阶段 | 中学生 | Hedges' $g$ | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | 组间差异显著（$p < .01$） |
 > |  |  | 大学生 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.730"><span class="b15"></span></span>0.730 | — | — |
 > |  |  | 小学生 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.620"><span class="b12"></span></span>0.620 | — | — |
 >

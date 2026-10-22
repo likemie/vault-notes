@@ -209,7 +209,7 @@ updated: 2026-10-22
 > | Sio and Ormerod (2009) | 孕育期活动 | 轻度无关认知任务 | Cohen's $d$ | k = 45 | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | 组间差异显著（$p < .01$） |
 > |  |  | 纯休息放空 |  | k = 38 | <span class="mx-bar ef-bar" title="Cohen's d 0.24"><span class="b5"></span></span>0.24 | — | — |
 > |  |  | 高负荷任务 |  | k = 34 | <span class="mx-bar ef-bar" title="Cohen's d 0.16"><span class="b3"></span></span>0.16 | — | — |
-> | Sio and Ormerod (2009) | 任务类型 | 创造性发散与顿悟难题 | Cohen's $d$ | k = 68 | <span class="mx-bar ef-bar" title="Cohen's d 0.43"><span class="b9"></span></span>0.43 | — | 组间差异极显著（$p < .001$） |
+> |  | 任务类型 | 创造性发散与顿悟难题 | Cohen's $d$ | k = 68 | <span class="mx-bar ef-bar" title="Cohen's d 0.43"><span class="b9"></span></span>0.43 | — | 组间差异极显著（$p < .001$） |
 > |  |  | 确定性逻辑推理与计算 |  | k = 49 | <span class="mx-bar ef-bar" title="Cohen's d 0.11"><span class="b2"></span></span>0.11 | — | — |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练时长 | < 2 个月 | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 组间差异显著（$p < .01$） |
 > |  |  | < 4 个月 |  | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.589"><span class="b12"></span></span>0.589 | — | — |

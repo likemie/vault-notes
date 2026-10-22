@@ -340,19 +340,11 @@ updated: 2026-10-22
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（认知维度构成） | 问题解决 | Hedges' $g$ | k=16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | [0.521, 0.970] | $Q = 4.961, df = 2, p = 0.084$ |
-> |  |  | 批判性思维 |  | k=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | [0.464, 0.918] | — |
-> |  |  | 创造力 |  | k=23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | [0.259, 0.629] | — |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量 | 0~8 周 | Hedges' $g$ | k=15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
 > |  |  | 8~16 周 |  | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
 > |  |  | >16 周 |  | k=13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预措施 | 高 SRL 能力组 | Hedges' $g$ | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  | 干预措施 | 高 SRL 能力组 | Hedges' $g$ | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
 > |  |  | 低 SRL 能力组 |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预措施 | K-12 基础教育 | Hedges' $g$ | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.857"><span class="b17"></span></span>0.857 | [0.542, 1.172] | $Q_b = 3.353, df = 1, p = 0.067$（边缘显著） |
-> |  |  | 高等教育阶段 |  | k = 46 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | [0.412, 0.667] | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预措施 | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$ |
-> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
-> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 9)]] | 结果变量（构念构成） | 高阶思维倾向（Dispositions） | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.945"><span class="b19"></span></span>0.945 | [0.670, 1.221] | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 10)]] | 结果变量（构念构成） | 高阶认知过程（Processes） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.912"><span class="b18"></span></span>0.912 | [0.631, 1.194] | 与技能差异 $W = 137.48, p < .001$；与倾向差异 $W = 0.39, p = .533$ |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 11)]] | 结果变量（构念构成） | 高阶思维技能结果（Skills） | Hedges' $g$ | k = 29 | <span class="mx-bar ef-bar" title="Hedges' g 0.560"><span class="b11"></span></span>0.560 | [0.411, 0.708] | 组间差异显著 |
@@ -365,10 +357,6 @@ updated: 2026-10-22
 > |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
 > |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |
 > |  |  | 综合合作 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | — |
-> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | AI 干预技术形态 | 编程助手/计算机科学 | ES | E = 2 | <span class="mx-bar ef-bar" title="ES 0.99"><span class="b20"></span></span>0.99 | [0.62, 1.35] | $Q_{bg}(4) = 3.03, \text{df} = 4, p = .55$ |
-> |  |  | 智能对话代理 |  | E = 4 | <span class="mx-bar ef-bar" title="ES 0.74"><span class="b15"></span></span>0.74 | [0.49, 0.98] | — |
-> |  |  | 综合多类型平台 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.66"><span class="b13"></span></span>0.66 | [0.53, 0.79] | — |
-> |  |  | 自动化评估工具 |  | E = 1 | <span class="mx-bar ef-bar" title="ES 0.39"><span class="b8"></span></span>0.39 | [−.19, 0.97] | — |
 >
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（认知维度构成）** 程序性问题解决与反思批判获益显著，独创性构想相对受限
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量** 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口

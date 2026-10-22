@@ -159,10 +159,9 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 论证表现（Argumentation） | Cohen's $d$ | k = 5, N = 477 | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | [0.481, 1.614] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 概念性知识（Conceptual） | Cohen's $d$ | k = 19, N = 2,455 | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | [0.323, 0.791] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 陈述性知识（Declarative） | Cohen's $d$ | k = 3, N = 261 | <span class="mx-bar ef-bar" title="Cohen's d 0.494"><span class="b10"></span></span>0.494 | [0.244, 0.743] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 程序性知识（Procedural） | Cohen's $d$ | k = 1, N = 100 | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | [−0.257, 0.537] | $Q_b = 8.940, df = 4, p = .063$ |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 一般常规知识测验 | Cohen's $d$ | k = 5, N = 1,529 | <span class="mx-bar ef-bar" title="Cohen's d 0.127"><span class="b3"></span></span>0.127 | [−0.383, 0.637] | — |
+> |  | 结果变量分类 | 概念性知识（Conceptual） | Cohen's $d$ | k = 19, N = 2,455 | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | [0.323, 0.791] | — |
+> |  | 结果变量分类 | 陈述性知识（Declarative） | Cohen's $d$ | k = 3, N = 261 | <span class="mx-bar ef-bar" title="Cohen's d 0.494"><span class="b10"></span></span>0.494 | [0.244, 0.743] | — |
+> |  | 结果变量分类 | 一般常规知识测验 | Cohen's $d$ | k = 5, N = 1,529 | <span class="mx-bar ef-bar" title="Cohen's d 0.127"><span class="b3"></span></span>0.127 | [−0.383, 0.637] | — |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量分类** 证据确证与论点整合产生大幅飞跃
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量分类** 敏锐检验概念转变与深层原理理解

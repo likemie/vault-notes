@@ -310,7 +310,6 @@ updated: 2026-10-22
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 智能导师系统（ITS） | Hedges' $g$ | k = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.540"><span class="b11"></span></span>0.540 | [0.241, 0.839] | 智能体类型间检验 $Q_B = 0.069, p = .793$ |
 > | Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 结果变量 | 学业成就 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.65"><span class="b13"></span></span>0.65 | — | 工具类型比较及教师培训调节检验显著（$p < .001$） |
 > |  |  | 学科态度 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.45"><span class="b9"></span></span>0.45 | — | — |
 > | Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 干预因素（自动化自适应指导） | 科学探究平台（WISE）NLP 自适应支架 | Hedges' $g$ | k = 41 | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | — | 与常规课堂指导对比显著 |

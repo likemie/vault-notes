@@ -431,27 +431,23 @@ updated: 2026-10-22
 > |  |  | 言语 |  | N = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | — | — |
 > |  |  | 问题解决 |  | N = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | — | — |
 > |  |  | 情绪 |  | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.397"><span class="b8"></span></span>0.397 | — | — |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预特征（训练周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） |
+> |  | 干预特征（训练周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） |
 > |  |  | < 4 个月 |  | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.642"><span class="b13"></span></span>0.642 | — | — |
 > |  |  | < 1 周 |  | N = 37 | <span class="mx-bar ef-bar" title="Hedges' g 0.576"><span class="b12"></span></span>0.576 | — | — |
 > |  |  | < 1 年 |  | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.233"><span class="b5"></span></span>0.233 | — | — |
 > |  |  | < 3 年 |  | N = 5 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.122"><span class="b2"></span></span>−0.122 | — | — |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预特征（训练方式） | 言语训练 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
+> |  | 干预特征（训练方式） | 言语训练 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
 > |  |  | 思维训练 |  | N = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
 > |  |  | 任务型 |  | N = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.685"><span class="b14"></span></span>0.685 | — | — |
 > |  |  | 技术型 |  | N = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
 > |  |  | 综合型 |  | N = 54 | <span class="mx-bar ef-bar" title="Hedges' g 0.513"><span class="b10"></span></span>0.513 | — | — |
 > |  |  | 情绪 |  | N = 2 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.066"><span class="b1"></span></span>−0.066 | — | — |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预特征（组织形式） | 独立个体练习 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | [0.501, 0.863] | $Z = 7.38\ (p < .001)$ |
+> |  | 干预特征（组织形式） | 独立个体练习 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | [0.501, 0.863] | $Z = 7.38\ (p < .001)$ |
 > |  |  | 小组协作 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | [0.462, 0.673] | — |
 > | Scott et al. (2004) | 干预内容 | 显式认知策略 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | — | $p < .01$ |
 > |  |  | 自由表达 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.35"><span class="b7"></span></span>0.35 | — | — |
 > | Sio and Ormerod (2009) | 酝酿期任务负荷 | 低认知负荷 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.43"><span class="b9"></span></span>0.43 | — | $p < .05$ |
 > |  |  | 高认知负荷 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | — | — |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 关联因素类型比较 | 教育教学干预 | $r$ | E = 21 | <span class="mx-bar ef-bar conv" title="r 0.20 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.20 | [0.10, 0.29] | $F(4, 15.6) = 0.95, p = .46$ |
-> |  |  | 外认知因素 |  | E = 47 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.06, 0.22] | — |
-> |  |  | 认知能力 |  | E = 34 | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.03, 0.20] | — |
-> |  |  | 人口学背景 |  | E = 50 | <span class="mx-bar ef-bar conv" title="r 0.05 → d ≈ 0.10（d = 2r / √(1 − r²)）"><span class="b2"></span></span>0.05 | [−0.07, 0.17] | — |
 >
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（子构念）** 发散认知与具象表征增益最强，情绪构念相对滞后
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预特征（训练周期）** 呈现倒 U 型时间曲线，中短期强化干预具备最优效能

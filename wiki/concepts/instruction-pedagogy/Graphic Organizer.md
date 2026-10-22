@@ -192,16 +192,16 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（组织器形态） | 思维导图（Mind Mapping） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | [0.704, 1.379] | $Q_b = 9.13, p < .05$；Wald 两两比较均 $p < .001$ |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（组织器形态） | 论证图（Argument Mapping） | Hedges' $g$ | k = 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | [0.469, 1.237] | 组间差异显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（组织器形态） | 概念图（Concept Mapping） | Hedges' $g$ | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | [0.403, 0.692] | 组间差异显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（结果变量类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$ |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（结果变量类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（结果构念层级） | 高阶思维倾向（Dispositions） | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.945"><span class="b19"></span></span>0.945 | [0.670, 1.221] | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（结果构念层级） | 高阶认知过程（Processes） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.912"><span class="b18"></span></span>0.912 | [0.631, 1.194] | 与技能差异 $W = 137.48, p < .001$；与倾向差异不显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（结果构念层级） | 高阶思维技能结果（Skills） | Hedges' $g$ | k = 29 | <span class="mx-bar ef-bar" title="Hedges' g 0.560"><span class="b11"></span></span>0.560 | [0.411, 0.708] | 组间差异显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（学习者学段） | 中学生 | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | [0.759, 1.467] | $Q_b = 6.61, p < .05$；两两比较均显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（学习者学段） | 小学生 | Hedges' $g$ | k = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | [0.303, 1.451] | 组间差异显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（学习者学段） | 大学生 | Hedges' $g$ | k = 49 | <span class="mx-bar ef-bar" title="Hedges' g 0.659"><span class="b13"></span></span>0.659 | [0.509, 0.808] | 组间差异显著 |
+> |  | 干预因素（组织器形态） | 论证图（Argument Mapping） | Hedges' $g$ | k = 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | [0.469, 1.237] | 组间差异显著 |
+> |  | 干预因素（组织器形态） | 概念图（Concept Mapping） | Hedges' $g$ | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | [0.403, 0.692] | 组间差异显著 |
+> |  | 干预因素（结果变量类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$ |
+> |  | 干预因素（结果变量类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
+> |  | 干预因素（结果构念层级） | 高阶思维倾向（Dispositions） | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.945"><span class="b19"></span></span>0.945 | [0.670, 1.221] | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ |
+> |  | 干预因素（结果构念层级） | 高阶认知过程（Processes） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.912"><span class="b18"></span></span>0.912 | [0.631, 1.194] | 与技能差异 $W = 137.48, p < .001$；与倾向差异不显著 |
+> |  | 干预因素（结果构念层级） | 高阶思维技能结果（Skills） | Hedges' $g$ | k = 29 | <span class="mx-bar ef-bar" title="Hedges' g 0.560"><span class="b11"></span></span>0.560 | [0.411, 0.708] | 组间差异显著 |
+> |  | 干预因素（学习者学段） | 中学生 | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | [0.759, 1.467] | $Q_b = 6.61, p < .05$；两两比较均显著 |
+> |  | 干预因素（学习者学段） | 小学生 | Hedges' $g$ | k = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | [0.303, 1.451] | 组间差异显著 |
+> |  | 干预因素（学习者学段） | 大学生 | Hedges' $g$ | k = 49 | <span class="mx-bar ef-bar" title="Hedges' g 0.659"><span class="b13"></span></span>0.659 | [0.509, 0.808] | 组间差异显著 |
 >
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（组织器形态）** 单一中心发散，认知开销最低，促学效应最强
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（组织器形态）** 逻辑结构清晰，支持批判性论辩与写作

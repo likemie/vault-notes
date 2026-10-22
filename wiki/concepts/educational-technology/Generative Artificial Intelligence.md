@@ -546,14 +546,11 @@ updated: 2026-10-22
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 对应亚组（学习产出 / 情境特征） | 问题解决 | Hedges' $g$ | k=16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | — | $Q = 4.961, p = 0.084$ |
-> |  |  | 批判性思维 |  | k=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | — | — |
-> |  |  | 创造力 |  | k=23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | — | — |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 实施周期 | 8–16 周 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | $Q_b = 9.106, p = .011$ |
 > |  |  | > 16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
 > |  | 自主调节学习（SRL） | 高 SRL |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | — | $Q_b = 40.962, p < .001$ |
 > |  |  | 低 SRL |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | — | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 学段 | K-12 基础教育 | Hedges' $g$ | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.857"><span class="b17"></span></span>0.857 | — | $Q_b = 8.125, p = .004$ |
+> |  | 学段 | K-12 基础教育 | Hedges' $g$ | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.857"><span class="b17"></span></span>0.857 | — | $Q_b = 8.125, p = .004$ |
 > |  |  | 高等教育 |  | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | — | — |
 > |  | 教学模式 | PBL 项目化探究 |  | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | $Q_b = 6.273, p = .043$ |
 > |  |  | 讲授式教学 |  | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | — |
@@ -562,7 +559,7 @@ updated: 2026-10-22
 > |  |  | 情感动机 |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | — | — |
 > |  |  | 高阶思维 |  | k=16 | <span class="mx-bar ef-bar" title="Hedges' g 0.580"><span class="b12"></span></span>0.580 | — | — |
 > |  |  | 元认知 |  | k=10 | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | — | — |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, p. 10)]] | 国家 ICT 水平 | 低 ICT | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 1.764"><span class="b28"></span></span>1.764 | — | $Q_B = 21.69, p < .001$ |
+> |  | 国家 ICT 水平 | 低 ICT | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 1.764"><span class="b28"></span></span>1.764 | — | $Q_B = 21.69, p < .001$ |
 > |  |  | 高 ICT |  | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.501"><span class="b10"></span></span>0.501 | — | — |
 > |  | 权力距离 | 高权力距离 |  | k = 73 | <span class="mx-bar ef-bar" title="Hedges' g 0.859"><span class="b17"></span></span>0.859 | — | $Q_B = 10.97, p = .001$ |
 > |  |  | 低权力距离 |  | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.236"><span class="b5"></span></span>0.236 | — | — |

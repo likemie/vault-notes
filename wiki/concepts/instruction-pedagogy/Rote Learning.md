@@ -223,14 +223,10 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 论证 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b(3) = 8.940, p < .05$ |
 > |  |  | 概念 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | — | — |
-> |  |  | 程序性 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | — | 不显著 |
-> |  |  | 常规 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.127"><span class="b3"></span></span>0.127 | — | 不显著 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 未对齐概念测验 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 7.986, p < .01$ |
-> |  |  | 教师自编常规统考 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.012"><span class="b0"></span></span>0.012 | — | 不显著 |
+> |  | 亚组 | 未对齐概念测验 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 7.986, p < .01$ |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 亚组 | 概念性 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .190 → d ≈ 0.39（d = 2r / √(1 − r²)）"><span class="b8"></span></span>.190 | — | 组间检验趋势显著 |
 > |  |  | 论证 |  | — | <span class="mx-bar ef-bar conv" title="r .154 → d ≈ 0.31（d = 2r / √(1 − r²)）"><span class="b6"></span></span>.154 | — | — |
 > |  |  | 陈述性 |  | — | <span class="mx-bar ef-bar conv" title="r .127 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>.127 | — | — |
-> |  |  | 程序性 |  | — | <span class="mx-bar ef-bar conv" title="r .077 → d ≈ 0.15（d = 2r / √(1 − r²)）"><span class="b3"></span></span>.077 | — | 不显著 |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 证实认识论认知干预对需要深层因果权衡的任务有效，对死记硬背和程序计算完全脱节
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 常规期末考试聚焦机械记忆与公式套用，导致认识论深层思维转变在传统考卷中出现假阴性

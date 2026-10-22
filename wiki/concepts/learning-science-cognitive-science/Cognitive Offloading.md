@@ -255,7 +255,7 @@ updated: 2026-10-22
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预时长 | 短期（0–8 周） | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | [0.272, 0.717] | $Q_b = 9.106, df = 2, p = .011$ |
 > |  |  | 中期（8–16 周） |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | [0.576, 0.943] | — |
 > |  |  | 长期（> 16 周） |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | [0.196, 0.549] | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 自我调节学习（SRL） | 高 SRL | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < .001$ |
+> |  | 自我调节学习（SRL） | 高 SRL | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < .001$ |
 > |  |  | 低 SRL |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
 >
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 干预时长** 长期干预（$>16$ 周）促学效应大幅回落，实证证实缺乏消退机制的长期技术使用诱发心理依赖与认知外包惯性；8–16 周为建设性卸载黄金平衡窗口。

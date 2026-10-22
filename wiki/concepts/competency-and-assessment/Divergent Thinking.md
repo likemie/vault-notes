@@ -258,23 +258,20 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$；两组差异极显著 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
+> |  | 结果变量（思维类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（训练方式） | 言语训练 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
 > |  |  | 思维训练 |  | N = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
 > |  |  | 技术型 |  | N = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（组织形式） | 独立个体练习 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | [0.501, 0.863] | $Z = 7.38\ (p < .001)$ |
+> |  | 结果变量（组织形式） | 独立个体练习 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | [0.501, 0.863] | $Z = 7.38\ (p < .001)$ |
 > |  |  | 小组协作 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | [0.462, 0.673] | — |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（干预周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 元回归解释 13.4% 组间方差 |
+> |  | 结果变量（干预周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 元回归解释 13.4% 组间方差 |
 > |  |  | < 1 周 |  | N = 37 | <span class="mx-bar ef-bar" title="Hedges' g 0.576"><span class="b12"></span></span>0.576 | — | — |
 > |  |  | < 3 年 |  | N = 5 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.122"><span class="b2"></span></span>−0.122 | — | — |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（干预时长） | 0~8 周 | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
 > |  |  | 8~16 周 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
 > |  |  | >16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
 > |  |  | 低 SRL 能力组 |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（教学模式） | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$；不显著 |
-> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
-> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
 >
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 结果变量（思维类型）** 空间分支辐射极大激发联想网络与独创构想
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 结果变量（思维类型）** 受确定性规则与形式逻辑约束

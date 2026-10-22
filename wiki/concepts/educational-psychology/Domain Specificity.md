@@ -251,11 +251,10 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预内容特异性 | 主题特定（Topic-specific） | Cohen's $d$ | k = 7, N = 826 | <span class="mx-bar ef-bar" title="Cohen's d 0.722"><span class="b14"></span></span>0.722 | [0.236, 1.207] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预内容特异性 | 领域通用（Domain-general） | Cohen's $d$ | k = 5, N = 879 | <span class="mx-bar ef-bar" title="Cohen's d 0.685"><span class="b14"></span></span>0.685 | [0.527, 0.844] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预内容特异性 | 领域特定（Domain-specific） | Cohen's $d$ | k = 16, N = 2,668 | <span class="mx-bar ef-bar" title="Cohen's d 0.360"><span class="b7"></span></span>0.360 | [0.124, 0.596] | $Q_b = 5.308, df = 2, p = .070$ |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验指标特异性 | 主题特定测验 | Cohen's $d$ | k = 12, N = 1,243 | <span class="mx-bar ef-bar" title="Cohen's d 0.696"><span class="b14"></span></span>0.696 | [0.383, 1.008] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验指标特异性 | 领域通用测验 | Cohen's $d$ | k = 3, N = 664 | <span class="mx-bar ef-bar" title="Cohen's d 0.715"><span class="b14"></span></span>0.715 | [0.388, 1.042] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验指标特异性 | 领域特定测验 | Cohen's $d$ | k = 15, N = 2,633 | <span class="mx-bar ef-bar" title="Cohen's d 0.277"><span class="b6"></span></span>0.277 | [0.048, 0.506] | $Q_b = 6.814, df = 2, p < .05$ |
+> |  | 干预内容特异性 | 领域通用（Domain-general） | Cohen's $d$ | k = 5, N = 879 | <span class="mx-bar ef-bar" title="Cohen's d 0.685"><span class="b14"></span></span>0.685 | [0.527, 0.844] | — |
+> |  | 测验指标特异性 | 主题特定测验 | Cohen's $d$ | k = 12, N = 1,243 | <span class="mx-bar ef-bar" title="Cohen's d 0.696"><span class="b14"></span></span>0.696 | [0.383, 1.008] | — |
+> |  | 测验指标特异性 | 领域通用测验 | Cohen's $d$ | k = 3, N = 664 | <span class="mx-bar ef-bar" title="Cohen's d 0.715"><span class="b14"></span></span>0.715 | [0.388, 1.042] | — |
+> |  | 测验指标特异性 | 领域特定测验 | Cohen's $d$ | k = 15, N = 2,633 | <span class="mx-bar ef-bar" title="Cohen's d 0.277"><span class="b6"></span></span>0.277 | [0.048, 0.506] | $Q_b = 6.814, df = 2, p < .05$ |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预内容特异性** 针对特定单元（如光合作用），直接对接微观探究
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预内容特异性** 跨学科[[Higher-Order Thinking Skills\|高阶思维]]，聚焦论证反思与[[Source Evaluation\|信源评估]]

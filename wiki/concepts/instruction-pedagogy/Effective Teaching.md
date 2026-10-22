@@ -341,16 +341,15 @@ updated: 2026-10-22
 > |  |  | 学生 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | — |
 > |  |  | 家庭 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
 > |  |  | 学校 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.23"><span class="b5"></span></span>0.23 | — | — |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | 教学干预策略模式 | 激活者（Activator） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.60"><span class="b12"></span></span>0.60 | — | $d_{\text{差异}} = +0.43$ |
+> |  | 教学干预策略模式 | 激活者（Activator） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.60"><span class="b12"></span></span>0.60 | — | $d_{\text{差异}} = +0.43$ |
 > |  |  | 促进者（Facilitator） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.17"><span class="b3"></span></span>0.17 | — | — |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b(5) = 17.491, p < .01$ |
 > |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
 > |  |  | 认知支架 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.663"><span class="b13"></span></span>0.663 | — | — |
 > |  |  | PBL |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
 > |  |  | 论证 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | — | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 中期（2~4 周） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.925"><span class="b18"></span></span>0.925 | — | $Q_b(3) = 8.863, p < .05$ |
+> |  | 亚组 | 中期（2~4 周） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.925"><span class="b18"></span></span>0.925 | — | $Q_b(3) = 8.863, p < .05$ |
 > |  |  | 短期（1 周内） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.615"><span class="b12"></span></span>0.615 | — | — |
-> |  |  | 长期（全学期） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.234"><span class="b5"></span></span>0.234 | — | 不显著 |
 >
 > - **[[Argument_Terhart_2011_JCS|Terhart (2011)]]（审计 Hattie, 2009） · 教学干预策略模式** 证实结构化、高反馈与主动指导的激活型教学显著优于低结构放任式促进型教学，量化印证了经典教学论常识
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 教师提供显性证据评估支架是有效教学的核心分水岭，放任式自主探究成效微弱

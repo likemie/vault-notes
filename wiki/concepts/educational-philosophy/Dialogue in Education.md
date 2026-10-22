@@ -152,7 +152,7 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 教师主导对话 | 教师全班讨论 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.42"><span class="b8"></span></span>0.42 | [0.20, 0.64] | 均 $p < .001$ 显著大于 0 |
 > |  |  | 教师小组讨论 |  | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 0.41"><span class="b8"></span></span>0.41 | [0.19, 0.63] | — |
 > |  |  | 教师提问 |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | [0.21, 0.56] | — |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 学生自主互动与特定对话 | 无教师小组讨论 | Hedges' $g$ | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.09, 0.43] | 均大于 0 |
+> |  | 学生自主互动与特定对话 | 无教师小组讨论 | Hedges' $g$ | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.09, 0.43] | 均大于 0 |
 > |  |  | 正式辩论 |  | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.03, 0.61] | — |
 > |  |  | 苏格拉底对话 |  | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.27"><span class="b5"></span></span>0.27 | [−0.01, 0.55] | — |
 > |  |  | 学生自主提问 |  | k = 4 | <span class="mx-bar ef-bar" title="Hedges' g 0.37"><span class="b7"></span></span>0.37 | [−0.02, 0.77] | — |

@@ -201,11 +201,7 @@ updated: 2026-10-22
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015, Table 9)]] | 研究设计 | [[True Experimental Design\|真实验设计]]（True Experiments） | Hedges' $g$ | 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | [0.05, 0.37] | $Q_b(1) = 0.15, p = .700$ |
-> |  |  | [[Quasi-Experimental Designs\|准实验设计]]（Quasi-Experiments） |  | 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.01, 0.51] | — |
-> |  | 出版类型 | 已发表文献（Published） |  | 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | [0.08, 0.50] | $Q_b(1) = 0.99, p = .320$ |
-> |  |  | 未发表文献（Unpublished） |  | 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.17"><span class="b3"></span></span>0.17 | [−0.05, 0.39] | — |
-> |  | 教学策略 | [[Mentorship\|导师制]]（Mentoring） |  | 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | [0.03, 0.73] | — |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015, Table 9)]] | 教学策略 | [[Mentorship\|导师制]]（Mentoring） |  | 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | [0.03, 0.73] | — |
 > |  |  | [[Authentic Instruction\|真实性教学]]（Authentic） |  | 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | [0.05, 0.53] | — |
 > |  |  | [[Dialogue in Education\|对话]]研讨（Dialogue） |  | 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.27"><span class="b5"></span></span>0.27 | [−0.01, 0.55] | — |
 >

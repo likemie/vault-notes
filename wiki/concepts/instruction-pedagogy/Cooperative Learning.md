@@ -299,10 +299,6 @@ updated: 2026-10-22
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学习产出类型互补亚组 | 高阶思维技能 | ES | E = 4 | <span class="mx-bar ef-bar" title="ES 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ |
-> |  |  | 学业成就 |  | E = 12 | <span class="mx-bar ef-bar" title="ES 0.71"><span class="b14"></span></span>0.71 | [0.52, 0.90] | — |
-> |  |  | 情感行为 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.51"><span class="b10"></span></span>0.51 | [0.17, 0.84] | — |
-> |  |  | 综合产出 |  | E = 1 | <span class="mx-bar ef-bar" title="ES 1.25"><span class="b25"></span></span>1.25 | [0.62, 1.88] | — |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学科领域互补亚组 | 语言 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.13, 2.95] | $Q_b(5) = 20.16, \text{df} = 5, p < .01$ |
 > |  |  | 社会科 |  | E = 1 | <span class="mx-bar ef-bar" title="ES 0.96"><span class="b19"></span></span>0.96 | [0.33, 1.59] | — |
 > |  |  | 自然科学 |  | E = 3 | <span class="mx-bar ef-bar" title="ES 0.92"><span class="b18"></span></span>0.92 | [0.66, 1.17] | — |

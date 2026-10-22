@@ -195,13 +195,10 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 17.491, p < .01$；预设 |
 > |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
-> |  |  | 论证教学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | — | 不显著 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预与测验对齐 | 未对齐测验 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 7.986, p < .01$；预设 |
+> |  | 干预与测验对齐 | 未对齐测验 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 7.986, p < .01$；预设 |
 > |  |  | 完全对齐测验 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.426"><span class="b9"></span></span>0.426 | — | — |
-> |  |  | 任课教师自编常规期末试 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.012"><span class="b0"></span></span>0.012 | — | 不显著 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 成就类型 | 论证表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b = 8.940, p < .05$；预设 |
+> |  | 成就类型 | 论证表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b = 8.940, p < .05$；预设 |
 > |  |  | 概念性知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | — | — |
-> |  |  | 程序性知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | — | 不显著 |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预教学框架** 显性讲授确证标准与信源评估规则是驱动效应差异的核心设计变量
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预与测验对齐** 学科期末常规统考无法测出确证标准的改变；高敏感度自编测验才能捕捉精准的认识论变化

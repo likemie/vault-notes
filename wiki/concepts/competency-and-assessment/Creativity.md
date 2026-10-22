@@ -395,36 +395,25 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双主观组合（创造力主观 × 批判性思维主观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | 同上 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力客观 × 批判性思维主观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.260 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.260 | — | 同上 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力主观 × 批判性思维客观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.195 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.195 | — | 同上 |
+> |  | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | 同上 |
+> |  | 关联构念 | 创造力客观 × 批判性思维主观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.260 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.260 | — | 同上 |
+> |  | 关联构念 | 创造力主观 × 批判性思维客观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.195 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.195 | — | 同上 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 创造性思维（Creative thinking） | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | [0.439, 0.903] | $Z = 5.675, p < .001$ |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 图形创造力（Graphic creativity） | Hedges' $g$ | N = 27 | <span class="mx-bar ef-bar" title="Hedges' g 0.644"><span class="b13"></span></span>0.644 | [0.439, 0.849] | $Z = 6.153, p < .001$ |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 词汇创造力（Words creativity） | Hedges' $g$ | N = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.641"><span class="b13"></span></span>0.641 | [0.339, 0.943] | $Z = 4.156, p < .001$ |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 言语创造力（Verbal creativity） | Hedges' $g$ | N = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | [0.407, 0.805] | $Z = 5.966, p < .001$ |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 问题解决（Problem-solving） | Hedges' $g$ | N = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | [0.316, 0.762] | $Z = 4.730, p < .001$ |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 情绪创造力（Emotional creativity） | Hedges' $g$ | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.397"><span class="b8"></span></span>0.397 | [0.208, 0.587] | $Z = 4.106, p < .001$ |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练周期 | < 2 个月（峰值窗口） | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | [0.647, 1.042] | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） |
-> |  |  | < 3 年 |  | — | <span class="mx-bar ef-bar neg" title="Hedges' g −0.122"><span class="b2"></span></span>−0.122 | — | 不显著 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（干预特征） | 言语训练 | Hedges' $g$ | N=15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
+> |  | 结果变量（创造力子构念） | 图形创造力（Graphic creativity） | Hedges' $g$ | N = 27 | <span class="mx-bar ef-bar" title="Hedges' g 0.644"><span class="b13"></span></span>0.644 | [0.439, 0.849] | $Z = 6.153, p < .001$ |
+> |  | 结果变量（创造力子构念） | 词汇创造力（Words creativity） | Hedges' $g$ | N = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.641"><span class="b13"></span></span>0.641 | [0.339, 0.943] | $Z = 4.156, p < .001$ |
+> |  | 结果变量（创造力子构念） | 言语创造力（Verbal creativity） | Hedges' $g$ | N = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | [0.407, 0.805] | $Z = 5.966, p < .001$ |
+> |  | 结果变量（创造力子构念） | 问题解决（Problem-solving） | Hedges' $g$ | N = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | [0.316, 0.762] | $Z = 4.730, p < .001$ |
+> |  | 结果变量（创造力子构念） | 情绪创造力（Emotional creativity） | Hedges' $g$ | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.397"><span class="b8"></span></span>0.397 | [0.208, 0.587] | $Z = 4.106, p < .001$ |
+> |  | 训练周期 | < 2 个月（峰值窗口） | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | [0.647, 1.042] | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） |
+> |  | 结果变量（干预特征） | 言语训练 | Hedges' $g$ | N=15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
 > |  |  | 思维训练 |  | N=13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（干预时长） | 0~8 周 | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
 > |  |  | 8~16 周 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
 > |  |  | >16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
 > |  |  | 低 SRL 能力组 |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（教学模式） | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$；不显著 |
-> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
-> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（高阶认知维度级差） | 问题解决 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | — | $Q = 4.961, df = 2, p = 0.084$ |
-> |  |  | 批判性思维 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | — | — |
-> |  |  | 创造力 |  | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | — | — |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 构念角色互补比较 | 预测变量 | $r$ | E = 84 | <span class="mx-bar ef-bar conv" title="r 0.29 → d ≈ 0.61（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.29 | [0.18, 0.41] | $F(1, 16.3) = 9.43, p = .007$ |
 > |  |  | 结果变量 |  | E = 80 | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.05, 0.19] | — |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 关联因素类型亚组 | 教育干预/项目 | $r$ | E = 21 | <span class="mx-bar ef-bar conv" title="r 0.20 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.20 | [0.10, 0.29] | $F(4, 15.6) = 0.95, p = .46$ |
-> |  |  | 外认知 |  | E = 47 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.06, 0.22] | — |
-> |  |  | 认知 |  | E = 34 | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.03, 0.20] | — |
-> |  |  | 背景特征 |  | E = 50 | <span class="mx-bar ef-bar conv" title="r 0.05 → d ≈ 0.10（d = 2r / √(1 − r²)）"><span class="b2"></span></span>0.05 | [−0.07, 0.17] | — |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ |
 > |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
 > |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |

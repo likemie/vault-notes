@@ -281,10 +281,7 @@ updated: 2026-10-22
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 初中 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .246 → d ≈ 0.51（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.246 | — | $Q_{between} = 15.111, p < .05$；预设 |
 > |  |  | 混合阶段 |  | — | <span class="mx-bar ef-bar conv" title="r .233 → d ≈ 0.48（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.233 | — | — |
 > |  |  | 大学 |  | — | <span class="mx-bar ef-bar conv" title="r .131 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>.131 | — | — |
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 成就类型 | 概念性知识 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .190 → d ≈ 0.39（d = 2r / √(1 − r²)）"><span class="b8"></span></span>.190 | — | $Q_{between} = 1.766, p > .05$；预设 |
-> |  |  | 论证 |  | — | <span class="mx-bar ef-bar conv" title="r .154 → d ≈ 0.31（d = 2r / √(1 − r²)）"><span class="b6"></span></span>.154 | — | — |
-> |  |  | 程序性知识 |  | — | <span class="mx-bar ef-bar conv" title="r .077 → d ≈ 0.15（d = 2r / √(1 − r²)）"><span class="b3"></span></span>.077 | — | 不显著 |
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 认识论构念 | 知识发展 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .274 → d ≈ 0.57（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.274 | — | $Q_{between} = 57.955, p < .001$；预设 |
+> |  | 认识论构念 | 知识发展 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .274 → d ≈ 0.57（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.274 | — | $Q_{between} = 57.955, p < .001$；预设 |
 > |  |  | 一般认识论认知 |  | — | <span class="mx-bar ef-bar conv" title="r .266 → d ≈ 0.55（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.266 | — | — |
 > |  |  | 多种证成 |  | — | <span class="mx-bar ef-bar conv" title="r .225 → d ≈ 0.46（d = 2r / √(1 − r²)）"><span class="b9"></span></span>.225 | — | — |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .808"><span class="b16"></span></span>.808 | — | $Q_{between} = 17.491, p < .01$；预设 |
@@ -293,16 +290,15 @@ updated: 2026-10-22
 > |  |  | 建构主义 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .479"><span class="b10"></span></span>.479 | — | — |
 > |  |  | PBL |  | — | <span class="mx-bar ef-bar" title="Cohen's d .340"><span class="b7"></span></span>.340 | — | — |
 > |  |  | 论证 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .134"><span class="b3"></span></span>.134 | — | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预时长 | 中期 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .925"><span class="b18"></span></span>.925 | — | $Q_{between} = 8.863, p < .05$；预设 |
+> |  | 干预时长 | 中期 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .925"><span class="b18"></span></span>.925 | — | $Q_{between} = 8.863, p < .05$；预设 |
 > |  |  | 单次 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .734"><span class="b15"></span></span>.734 | — | — |
 > |  |  | 短期 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .615"><span class="b12"></span></span>.615 | — | — |
-> |  |  | 全学期及以上 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .234"><span class="b5"></span></span>.234 | — | 不显著 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教育阶段 | K-12 中小学生 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .606"><span class="b12"></span></span>.606 | — | $Q_{between} = 9.071, p < .05$；预设 |
+> |  | 教育阶段 | K-12 中小学生 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .606"><span class="b12"></span></span>.606 | — | $Q_{between} = 9.071, p < .05$；预设 |
 > |  |  | 大学本科生 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .309"><span class="b6"></span></span>.309 | — | — |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 学段 | 小学 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.375 → d ≈ 0.81（d = 2r / √(1 − r²)）"><span class="b16"></span></span>0.375 | — | $F(2, 485) = 5.683, p = .003$；预设 |
 > |  |  | 初中 |  | — | <span class="mx-bar ef-bar conv" title="r 0.142 → d ≈ 0.29（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.142 | — | — |
 > |  |  | 高中 |  | — | <span class="mx-bar ef-bar conv" title="r 0.157 → d ≈ 0.32（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.157 | — | — |
-> | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 认识论认知构念 | 总体认识论认知 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.288 → d ≈ 0.60（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.288 | — | $F(7, 498) = 3.193, p = .002$；预设 |
+> |  | 认识论认知构念 | 总体认识论认知 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.288 → d ≈ 0.60（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.288 | — | $F(7, 498) = 3.193, p = .002$；预设 |
 > |  |  | 学习速度 |  | — | <span class="mx-bar ef-bar conv" title="r 0.207 → d ≈ 0.42（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.207 | — | — |
 > |  |  | 知识确证 |  | — | <span class="mx-bar ef-bar conv" title="r 0.187 → d ≈ 0.38（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.187 | — | — |
 > |  |  | 学习能力与知识来源 |  | — | <span class="mx-bar ef-bar conv" title="r 0.174 → d ≈ 0.35（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.174 | — | — |

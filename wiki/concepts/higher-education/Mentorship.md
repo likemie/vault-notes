@@ -176,13 +176,11 @@ updated: 2026-10-22
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 导师制独立维度 | 实验组强度 > 对照组 | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.39"><span class="b8"></span></span>0.39 | [0.23, 0.55] | $Q_b(1) = 2.58, p = .108$ |
-> |  |  | 两组无差异 |  | k = 238 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.20, 0.31] | — |
 > | 同上（Abrami et al.） | 策略组合梯度 | 单独导师制（M） | Hedges' $g$ | k = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.13"><span class="b3"></span></span>0.13 | — | A+D+M 显著优于 A+D（$z = 1.98, p = .024$） |
 > |  |  | 对话+导师制（D+M） |  | k = 18 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | — | — |
 > |  |  | 真实性+导师制（A+M） |  | k = 7 | <span class="mx-bar ef-bar" title="Hedges' g 0.37"><span class="b7"></span></span>0.37 | — | — |
 > |  |  | 真实性+对话+导师制（A+D+M） |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | — |
-> | 同上（Abrami et al.） | 思维倾向培养 | 导师制干预对批判性思维倾向的促进效应 | Hedges' $g$ | k = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | — | 显著大于 0 |
+> |  | 思维倾向培养 | 导师制干预对批判性思维倾向的促进效应 | Hedges' $g$ | k = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | — | 显著大于 0 |
 >
 > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 导师制独立维度** 独立作为干预维度时未达组间统计显著
 > - **同上（Abrami et al.） · 策略组合梯度** 证实导师制在复合情境中的催化协同功能

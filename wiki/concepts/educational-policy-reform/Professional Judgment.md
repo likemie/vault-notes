@@ -113,6 +113,7 @@ related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -120,7 +121,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---

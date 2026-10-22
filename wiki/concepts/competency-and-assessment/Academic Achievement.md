@@ -492,10 +492,6 @@ updated: 2026-10-22
 > |  |  | 助教 Tier 2 / Tier 3 辅导 | ES | — | <span class="mx-bar ef-bar range" title="ES +0.21–+0.86；取区间中点"><span class="b11"></span></span>+0.21–+0.86 | — | — |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 测量工具性质 | 标准化成就测验 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.13"><span class="b3"></span></span>0.13 | [−0.03, 0.28] | $Q_b(1) = 7.97, p = .005$ |
 > |  |  | 教师自编/课程期末考试 |  | k = 115 | <span class="mx-bar ef-bar" title="Hedges' g 0.37"><span class="b7"></span></span>0.37 | [0.29, 0.46] | — |
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 成就类型亚组 | 概念性知识 | $r$ | k = 25 | <span class="mx-bar ef-bar conv" title="r 0.190 → d ≈ 0.39（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.190 | [0.133, 0.245] | $Q_b = 1.766, p > .05$ |
-> |  |  | 论证 |  | k = 14 | <span class="mx-bar ef-bar conv" title="r 0.154 → d ≈ 0.31（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.154 | [0.088, 0.219] | — |
-> |  |  | 陈述性知识 |  | k = 101 | <span class="mx-bar ef-bar conv" title="r 0.127 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.127 | [0.093, 0.160] | — |
-> |  |  | 程序性知识 |  | k = 23 | <span class="mx-bar ef-bar conv" title="r 0.077 → d ≈ 0.15（d = 2r / √(1 − r²)）"><span class="b3"></span></span>0.077 | [−0.007, 0.160] | — |
 > | Greene et al.（测量方式亚组） | 测量方式亚组 | 标准化测试 | $r$ | k = 18 | <span class="mx-bar ef-bar conv" title="r 0.214 → d ≈ 0.44（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.214 | [0.148, 0.278] | $Q_b = 16.48, p < .001$ |
 > |  |  | 专门测验 |  | k = 74 | <span class="mx-bar ef-bar conv" title="r 0.177 → d ≈ 0.36（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.177 | [0.136, 0.217] | — |
 > |  |  | 参与者自报 GPA |  | k = 59 | <span class="mx-bar ef-bar conv" title="r 0.083 → d ≈ 0.17（d = 2r / √(1 − r²)）"><span class="b3"></span></span>0.083 | [0.043, 0.122] | — |
@@ -508,9 +504,6 @@ updated: 2026-10-22
 > |  |  | 官方 GPA |  | k = 1 | <span class="mx-bar ef-bar" title="Cohen's d 0.470"><span class="b9"></span></span>0.470 | [0.289, 0.651] | — |
 > |  |  | 标准化测验 |  | k = 4 | <span class="mx-bar ef-bar" title="Cohen's d 0.304"><span class="b6"></span></span>0.304 | [−0.208, 0.816] | — |
 > |  |  | 教师自编 |  | k = 5 | <span class="mx-bar ef-bar" title="Cohen's d 0.012"><span class="b0"></span></span>0.012 | [−0.449, 0.473] | — |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 产出类型互补比较 | 高阶思维技能 | ES | E = 4 | <span class="mx-bar ef-bar" title="ES 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ |
-> |  |  | 学业成就 |  | E = 12 | <span class="mx-bar ef-bar" title="ES 0.71"><span class="b14"></span></span>0.71 | [0.52, 0.90] | — |
-> |  |  | 情感行为 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.51"><span class="b10"></span></span>0.51 | [0.17, 0.84] | — |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 教育阶段互补比较 | K12 | ES | — | <span class="mx-bar ef-bar" title="ES 0.40"><span class="b8"></span></span>0.40 | [0.19, 0.62] | $Q_b(2) = 6.95, p < .05$ |
 > |  |  | K12 与高等教育混合 |  | k = 15 | <span class="mx-bar ef-bar" title="ES 0.73"><span class="b15"></span></span>0.73 | [0.62, 0.84] | — |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]] | 影响因素来源六大领域 | 教师 | Cohen's $d$ | M = 31, k = 2,225 | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | 未报告正式组间 $Q_b$ 检验 |

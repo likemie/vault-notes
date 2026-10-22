@@ -206,10 +206,9 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 考察维度与对比条件 | 延时后测 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.966"><span class="b19"></span></span>0.966 | [0.802, 1.131] | $Q_b(1) = 16.737, p < .001$ |
 > |  |  | 即时后测 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.451"><span class="b9"></span></span>0.451 | [0.264, 0.638] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 考察维度与对比条件 | 中期 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.925"><span class="b18"></span></span>0.925 | — | $Q_b(3) = 8.863, p < .05$ |
+> |  | 考察维度与对比条件 | 中期 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.925"><span class="b18"></span></span>0.925 | — | $Q_b(3) = 8.863, p < .05$ |
 > |  |  | 短期 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.615"><span class="b12"></span></span>0.615 | — | — |
 > |  |  | 单次 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.734"><span class="b15"></span></span>0.734 | — | — |
-> |  |  | 长期（全学期） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.234"><span class="b5"></span></span>0.234 | — | 不显著 |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 考察维度与对比条件** 认识论认知干预展现出罕见的反向翻倍效应，证实高阶思维习惯随时间具有内化沉淀优势
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 考察维度与对比条件** 长期干预效应消退源于教学浓度稀释、对照组常态追赶以及选用了不敏感的期末统一考试

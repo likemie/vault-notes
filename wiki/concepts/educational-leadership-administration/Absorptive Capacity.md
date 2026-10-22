@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_arguments:
   - "[[Argument_Cohen_2025_JTT]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -119,7 +120,7 @@ updated: 2026-10-22
 
 ## 核心要素
 
-跨领域研究表明，吸收能力并非单一技能，而是由认知基础、沟通架构、领导示范与资源保障构成的系统性网络。
+跨领域研究表明，吸收能力是由认知基础、沟通架构、领导示范与资源保障共同构成的系统性组织能力网络。
 
 > [!feature] 组织吸收能力的四维支撑支柱
 > - **认知基础与知识素养（Cognitive Base & Skillsets）** 组织内部成员对专业领域基础知识的理解存量，以及获取、评估并解读外部成果的专业能力。
@@ -159,7 +160,10 @@ updated: 2026-10-22
 > 批判将教育改进简化为学术成果单向分发的供给偏误，阐明学校吸收能力建设在破解实践落地困境中的决定性意义。
 
 > [!claim] Rickinson et al.; Torres
-> **组织使能与需求端吸收** 在基础教育循证改革中，单向学术成果推送（Push）假定教师能自动将论文转化为教学，这种线性假设遭遇了大面积失败。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与米格尔·托雷斯（Miguel Torres）等学者证实，中小学一线实践者普遍面临质量判断信心匮乏与检索困难等吸收短板，更遭遇压倒性的时间赤字挤压；唯有通过[[School Leadership\|学校领导]]者的躬身示范、制度化[[Professional Learning Community\|专业学习共同体]]（PLCs）以及刚性排程工时保障，才能实质提升学校的组织吸收能力，完成从被动接收到主动需求牵引（Pull）的[[Paradigm\|范式]]跃迁。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187, 191–195)]]；[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]
+> **组织使能与需求端吸收** 在基础教育循证改革中，单向学术成果推送（Push）假定教师能自动将学术研究发现转化为教学实践，这种线性假设遭遇了大面积失败。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与米格尔·托雷斯（Miguel Torres）等学者证实，中小学一线实践者普遍面临质量判断信心匮乏与检索困难等吸收短板，更遭遇压倒性的时间赤字挤压；唯有通过[[School Leadership\|学校领导]]者的躬身示范、制度化[[Professional Learning Community\|专业学习共同体]]（PLCs）以及刚性排程工时保障，才能实质提升学校的组织吸收能力，完成从被动接收到主动需求牵引（Pull）的实践模式转变。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187, 191–195)]]；[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]
+>
+> [!claim] Steiner-Khamsi et al.; McLean & Gargani
+> **系统财政与规划吸收能力制约微观实验规模化** 在公共教育政策全生命周期中，微观实验干预（如小型随机对照试验）即便证明了受控状态下的局部有效性，向庞大国家公立教育系统推广时仍普遍面临落地断裂。吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）等学者指出，由于缺乏针对中观政策规划、国家公立教育系统财政吸收能力（Fiscal Absorptive Capacity）、教师工作负荷以及基层行政协调的研究支持，实验干预在规模化（向上拓展与向外拓展）过程中往往因系统吸收能力不足而失效，凸显了系统级与组织级吸收能力在政策落地全周期中的刚性约束。[[Argument_Steiner-Khamsi_2024_UNESCO\|(Steiner-Khamsi et al., 2024a, pp. 17–18)]]
 
 ---
 
@@ -179,7 +183,7 @@ updated: 2026-10-22
 > 探讨教育系统微观组织的非均质特征，揭示单体学校微观生态与教师文化对外部创新吸收能力的深层决定机制。
 
 > [!claim] [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11–12)]]; van Holt (2014); Koch (2011)
-> **组织异质性与情境化重构土壤** 外部教育科学成果与教学改进方案向实践界的转移绝非自动发生的均质过程。德语区区域学校网络协同改进项目（如鲁尔区“组团办学”，德语：Schulen im Team；van Holt, 2014）与学校发展实证研究确证，单所学校的组织异质性（Heterogenität）对[[Knowledge Transfer|知识转移]]吸收能力具有深刻制约；外部学术成果与教研方案必须经历深度的校本情境化重构（Re-Kontextualisierung；Koch, 2011），并依托学校内部微观[[Organizational Culture|组织文化]]土壤与[[Reflexivity|反思性]]对话习惯，才能被真正消化吸纳。若忽视单体学校微观组织文化差异与吸收能力的现实短板，单纯依靠外部中介平台（如教学清算中心）自上而下推送标准化证据，极易遭遇被动抵制或符号化搁置，导致转移成效的系统性衰减。
+> **组织异质性与情境化重构土壤** 外部教育科学成果与教学改进方案向实践界的转移高度依赖接收端学校组织的异质土壤。德语区区域学校网络协同改进项目（如鲁尔区“组团办学”，德语：Schulen im Team；van Holt, 2014）与学校发展实证研究确证，单所学校的组织异质性（Heterogenität）对[[Knowledge Transfer|知识转移]]吸收能力具有深刻制约；外部学术成果与教研方案必须经历深度的校本情境化重构（Re-Kontextualisierung；Koch, 2011），并依托学校内部微观[[Organizational Culture|组织文化]]土壤与[[Reflexivity|反思性]]对话习惯，才能被真正消化吸纳。若忽视单体学校微观组织文化差异与吸收能力的现实短板，单纯依靠外部中介平台（如教学清算中心）自上而下推送标准化证据，极易遭遇被动抵制或符号化搁置，导致转移成效的系统性衰减。
 
 ---
 
@@ -187,7 +191,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知基础先决** | 外部知识转化取决于既有认知存量与内部开放沟通网络 | 组织学习、学区评价使用与技术追赶 | Cohen and Levinthal (1990); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] |
-> | **需求吸收使能** | 单向推送无法突破落地瓶颈，吸收能力依赖领导示范与排程工时 | 中小学[[Evidence-Informed Practice\|证据知情实践]]与[[Knowledge Mobilisation\|知识动员]]改革 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]; [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
+> | **需求吸收使能与规模化约束** | 单向推送无法突破落地瓶颈，系统推广受制于学校组织使能与公立系统财政吸收能力 | 中小学[[Evidence-Informed Practice\|证据知情实践]]、[[Knowledge Mobilisation\|知识动员]]改革与公共教育政策规模化 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]; [[Argument_Torres_2022_KMModels\|Torres (2022b)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] |
 > | **合作收益调节** | 吸收能力调节[[University-Industry Collaboration\|产学合作]]创新收益，并产生资助分配马太效应 | 产学研发合作与[[National Innovation System\|国家创新体系]]治理 | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] |
 > | **组织异质与文化土壤** | 创新转移受制于单校组织异质性与微观文化，依赖本土情境重构与吸收能力 | 区域学校协作网络、微观学校改进与[[Transfer Science\|知识转移科学]] | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; van Holt (2014) |
 
@@ -201,6 +205,7 @@ updated: 2026-10-22
 > - **2020 — 宏观经济与[[Technological Catch-up|技术追赶]]中的经验确证** 格利茨与迈尔森（[[Argument_Glitz_2020_AmEconRev\|Glitz & Meyersson, 2020]]）基于冷战时期东德工业间谍数据，证实只有接近西德技术前沿的行业才能有效消化科技情报，实证确立了认知距离对吸收能力的决定作用。[[Argument_Glitz_2020_AmEconRev\|(Glitz & Meyersson, 2020, p. 1096)]]
 > - **2021 — K-12 教育学区改革评价吸纳** 罗斯与[[Keith Morrison\|莫里森]]结合巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，将吸收能力引入教育行政与评价利用，揭示项目理解与开放沟通对评价证据转化的支撑。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]
 > - **2022 — [[Push and Pull Models of Knowledge Mobilisation\|知识动员推拉模型]]与学校使能生态** [[Monash Q Project\|莫纳什 Q 项目]]与 [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型将吸收能力确立为克服单向供给推送偏误的核心支柱，量化揭示时间赤字与领导示范对学校吸收能力的决定性影响。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187)]]
+> - **2024 — 公共教育政策全生命周期与中观系统吸收能力瓶颈** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al., 2024a, pp. 17–18]]）在联合国教科文组织全球教育研究利用报告中，揭示了微观实验干预向国家公立系统推广时的中观规划赤字，指出国家公立教育系统的财政吸收能力（Fiscal Absorptive Capacity）、教师工作负荷承受度与行政协调架构，是制约微观有效证据规模化落地的核心瓶颈。
 
 ---
 
@@ -209,7 +214,7 @@ updated: 2026-10-22
 > > [!axis] 清算平台供给扩张 vs 学校端吸收能力贫困
 > > 探讨各类证据清算机构迅猛发展背后忽视学校吸收能力的供给侧偏误。
 > >
-> > - **供给假设偏误** 预设只要将学术论文改写为通俗摘要并在数字化平台分发，一线实践者就会自发检索并阅读采纳。
+> > - **供给假设偏误** 预设只要将学术研究成果改写为通俗摘要并在数字化平台分发，一线实践者就会自发检索并阅读采纳。
 > > - **吸收土壤制约** 学校缺乏支持专业对话的探究文化、持续的专家陪伴与深层组织吸收能力，使得单纯平台层面的二次加工难以穿透微观实践屏障，在国际实证评估中普遍缺乏微观教学转化证据（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, pp. 10–12]]）。
 >
 > > [!axis] 事前可测量指标匮乏与概念套套逻辑
@@ -243,3 +248,4 @@ updated: 2026-10-22
 > - [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] — 基于东德工业间谍数据，实证检验认知距离对技术情报吸收同化效率的调节作用。
 > - [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] — 探讨产学研发合作中吸收能力的门槛与放大效应，揭示其对企业创新绩效的决定性调节机制。
 > - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] — 结合德语区学校改革与区域协作网络实证，阐明单校组织[[Heterogeneity|异质性]]与微观文化土壤对外部科学知识吸收能力的制约机制，反思清算中心供给模式的局限。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] — 依托 103 国问卷与全球 654 个证据中介平台普查，揭示政策全生命周期中微观实验向国家公立系统规模化推广时面临的财政与组织吸收能力瓶颈。

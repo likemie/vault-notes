@@ -176,11 +176,10 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | 指导式探究（Guided Inquiry） | Cohen's $d$ | k = 14, N = 2,139 | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | [0.457, 1.159] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | 信源评估（Source Evaluation） | Cohen's $d$ | k = 2, N = 182 | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | [0.625, 0.974] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | 认知与元认知支架 | Cohen's $d$ | k = 6, N = 855 | <span class="mx-bar ef-bar" title="Cohen's d 0.548"><span class="b11"></span></span>0.548 | [0.088, 1.008] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | 建构主义教学 | Cohen's $d$ | k = 2, N = 141 | <span class="mx-bar ef-bar" title="Cohen's d 0.515"><span class="b10"></span></span>0.515 | [0.155, 0.875] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | 基于问题的学习（PBL） | Cohen's $d$ | k = 2, N = 146 | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | [−0.547, 1.226] | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | 论证教学 | Cohen's $d$ | k = 2, N = 910 | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | [−0.490, 0.758] | $Q_b = 8.992, df = 5, p = .109$ |
+> |  | 教学干预模式 | 信源评估（Source Evaluation） | Cohen's $d$ | k = 2, N = 182 | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | [0.625, 0.974] | — |
+> |  | 教学干预模式 | 认知与元认知支架 | Cohen's $d$ | k = 6, N = 855 | <span class="mx-bar ef-bar" title="Cohen's d 0.548"><span class="b11"></span></span>0.548 | [0.088, 1.008] | — |
+> |  | 教学干预模式 | 建构主义教学 | Cohen's $d$ | k = 2, N = 141 | <span class="mx-bar ef-bar" title="Cohen's d 0.515"><span class="b10"></span></span>0.515 | [0.155, 0.875] | — |
+> |  | 教学干预模式 | 基于问题的学习（PBL） | Cohen's $d$ | k = 2, N = 146 | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | [−0.547, 1.226] | — |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 教学干预模式** 提供明确步骤指导与[[Variable\|变量]]控制支架
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 教学干预模式** 显性讲授信息源资质与可[[Reliability\|信度]]鉴别规则

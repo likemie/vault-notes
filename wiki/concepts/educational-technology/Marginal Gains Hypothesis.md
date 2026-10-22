@@ -186,11 +186,11 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 宏观技术环境调节 | 低 ICT 国家 | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 1.764"><span class="b28"></span></span>1.764 | [1.285, 2.243] | $Q_B = 21.691, p < 0.001$ |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 宏观技术环境调节 | 中 ICT 国家 | Hedges' $g$ | k = 60 | <span class="mx-bar ef-bar" title="Hedges' g 0.609"><span class="b12"></span></span>0.609 | [0.405, 0.814] | 同上 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 宏观技术环境调节 | 高 ICT 国家 | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.501"><span class="b10"></span></span>0.501 | [0.223, 0.779] | 同上 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 社会经济地位调节 | 低 SES 背景 | Hedges' $g$ | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 1.751"><span class="b28"></span></span>1.751 | [1.290, 2.212] | $Q_B = 23.819, p < 0.001$ |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 社会经济地位调节 | 中 SES 背景 | Hedges' $g$ | k = 58 | <span class="mx-bar ef-bar" title="Hedges' g 0.604"><span class="b12"></span></span>0.604 | [0.395, 0.814] | 同上 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 社会经济地位调节 | 高 SES 背景 | Hedges' $g$ | k = 18 | <span class="mx-bar ef-bar" title="Hedges' g 0.467"><span class="b9"></span></span>0.467 | [0.207, 0.726] | 同上 |
+> |  | 宏观技术环境调节 | 中 ICT 国家 | Hedges' $g$ | k = 60 | <span class="mx-bar ef-bar" title="Hedges' g 0.609"><span class="b12"></span></span>0.609 | [0.405, 0.814] | 同上 |
+> |  | 宏观技术环境调节 | 高 ICT 国家 | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.501"><span class="b10"></span></span>0.501 | [0.223, 0.779] | 同上 |
+> |  | 社会经济地位调节 | 低 SES 背景 | Hedges' $g$ | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 1.751"><span class="b28"></span></span>1.751 | [1.290, 2.212] | $Q_B = 23.819, p < 0.001$ |
+> |  | 社会经济地位调节 | 中 SES 背景 | Hedges' $g$ | k = 58 | <span class="mx-bar ef-bar" title="Hedges' g 0.604"><span class="b12"></span></span>0.604 | [0.395, 0.814] | 同上 |
+> |  | 社会经济地位调节 | 高 SES 背景 | Hedges' $g$ | k = 18 | <span class="mx-bar ef-bar" title="Hedges' g 0.467"><span class="b9"></span></span>0.467 | [0.207, 0.726] | 同上 |
 >
 > - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 宏观技术环境调节** 低 ICT 环境促学效应呈大效应量，高 ICT 环境呈中等效应，边际增益阶梯高度显著
 > - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 宏观技术环境调节** 居中效应

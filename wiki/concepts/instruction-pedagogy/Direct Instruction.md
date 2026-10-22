@@ -313,15 +313,6 @@ updated: 2026-10-22
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.14, 0.37] | Hedges' $g+$ / 随机效应模型 | $k = 44$ / $N = —$ | 干预措施：直接通用教学模式（General approach）对通用[[Critical Thinking\|批判性思维]]的影响 | $Q_b(3) = 4.10, p = .25$ | 独立于学科内容的通用思维直接讲授产生稳步正向增益，但低于显性混合模式（$g+ = 0.38$） |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.44"><span class="b9"></span></span>0.44 | [0.33, 0.55] | Hedges' $g+$ / 多水平元分析模型 | $k = 30$ / $N = —$ | 干预措施：显性直接指导策略（Explicit Instruction）对发散[[Creativity\|创造力]]的影响 | — | 在[[Creativity Training\|创造力干预]]中，包含显性示范的教学显著优于纯隐性探索活动 |
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预措施（直接通用教学） | 学科特异思维测验结果（Subject-specific tests） | Hedges' $g$ | k = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.74"><span class="b15"></span></span>0.74 | — | $Q_b(3) = 3.19, p = .363$ |
->
-> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 干预措施（直接通用教学）** 直接针对特定思维技能的示范教学在高度匹配的测验中表现出极高的近迁移效应
-
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

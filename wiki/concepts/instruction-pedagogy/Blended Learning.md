@@ -200,8 +200,6 @@ updated: 2026-10-22
 > [!warning] 适用局限
 > 混合式学习的成功落地需要稳定的网络软硬件基础设施、教师跨模态教学设计素养以及学生基础自律习惯的有力支撑；在设备匮乏或学生严重缺乏自主管理能力的低幼学段，强推复杂的混合式学习往往难以取得预期成效。
 
----
-
 > [!metax] [混合式学习 · Blended learning](https://www.visiblelearningmetax.com/influences/view/blended_learning)
 > 技术、学校与校外策略 › 远程／混合
 >
@@ -225,14 +223,7 @@ updated: 2026-10-22
 > > | Najafi & Heidari (2018) | Blended learning | 20 | 2,064 | 20 | 0.59 |  |
 > > | Oktarina et al. (2021) | Blended learning | 22 | NA | 22 | 0.44 |  |
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | 生成式人工智能干预下的学生高阶思维培养（混合式学习亚组） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | [0.406, 0.644] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） |
->
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 教学组织模式（干预环境）** 亚组效应达中等水平且组内检验高度显著（$Z = 8.636, p < 0.001$）；三分类教学模式全模型组间差异虽未达统计显著，但混合式学习效果显著优于传统讲授式教学（$g = 0.396, p > 0.05$ 未达显著），展现出稳健的教学组织优势。
+---
 
 ---
 

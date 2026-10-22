@@ -443,32 +443,18 @@ updated: 2026-10-22
 > |  |  | 对话（D） |  | k = 43 | <span class="mx-bar ef-bar" title="Hedges' g 0.23"><span class="b5"></span></span>0.23 | [0.07, 0.39] | — |
 > |  |  | 真实性+对话（A+D） |  | k = 45 | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.17, 0.47] | — |
 > |  |  | 真实性+对话+导师制（A+D+M） |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | — |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | Ennis 课程模式 | 直接教学 | Hedges' $g$ | k = 44 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | — | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ |
-> |  |  | 融入模式 |  | k = 152 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | — | — |
-> |  |  | 沉浸模式 |  | k = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.23"><span class="b5"></span></span>0.23 | — | — |
-> |  |  | 混合模式 |  | k = 84 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | [0.26, 0.51] | — |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（干预时长） | 0~8 周 | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
 > |  |  | 8~16 周 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
 > |  |  | >16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
 > |  |  | 低 SRL 能力组 |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（教学模式） | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$；不显著 |
-> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
-> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（高阶认知维度级差） | 问题解决 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | — | $Q = 4.961, df = 2, p = 0.084$ |
-> |  |  | 批判性思维 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | — | — |
-> |  |  | 创造力 |  | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | — | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果类型 | 论证表现 | Cohen's $d$ | k = 5 | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b(4) = 8.169, p = .086$ |
-> |  |  | 概念性知识 |  | k = 18 | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | — | — |
-> |  |  | 陈述性知识 |  | k = 10 | <span class="mx-bar ef-bar" title="Cohen's d 0.407"><span class="b8"></span></span>0.407 | — | — |
-> |  |  | 程序性知识 |  | k = 17 | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | — | — |
-> |  | 学段 | 小学 |  | k = 7 | <span class="mx-bar ef-bar" title="Cohen's d 0.584"><span class="b12"></span></span>0.584 | — | $Q_b(2) = 6.467, p < .05$ |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 学段 | 小学 |  | k = 7 | <span class="mx-bar ef-bar" title="Cohen's d 0.584"><span class="b12"></span></span>0.584 | — | $Q_b(2) = 6.467, p < .05$ |
 > |  |  | 中学 |  | k = 11 | <span class="mx-bar ef-bar" title="Cohen's d 0.534"><span class="b11"></span></span>0.534 | — | — |
 > |  |  | 大学 |  | k = 10 | <span class="mx-bar ef-bar" title="Cohen's d 0.288"><span class="b6"></span></span>0.288 | — | — |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双主观组合（创造力主观 × 批判性思维主观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | 同上 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力客观 × 批判性思维主观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.260 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.260 | — | 同上 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力主观 × 批判性思维客观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.195 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.195 | — | 同上 |
+> |  | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | 同上 |
+> |  | 关联构念 | 创造力客观 × 批判性思维主观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.260 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.260 | — | 同上 |
+> |  | 关联构念 | 创造力主观 × 批判性思维客观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.195 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.195 | — | 同上 |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ |
 > |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
 > |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |

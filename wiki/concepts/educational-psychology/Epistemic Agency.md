@@ -297,7 +297,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | [0.313, 1.302] | $Q_b(5) = 17.491, p < .01$ |
 > |  |  | 问题驱动学习 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
-> |  |  | 开放论证教学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | — | 不显著 |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 证实缺乏证据规程支架的所谓“自主能动”往往沦为表层盲动；结构化指导是保障认识能动性有效转化的先决条件
 

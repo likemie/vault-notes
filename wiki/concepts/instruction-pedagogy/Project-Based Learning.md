@@ -172,8 +172,6 @@ updated: 2026-10-22
 > [!warning] 实施局限与边界条件
 > 项目式学习的有效落地高度依赖学生的[[Self-Regulated Learning\|自我调节学习]]（SRL）能力与教师的[[Scaffolding\|脚手架]]设计。如果缺乏清晰的阶段性反馈与认知引导，学生在复杂探究情境中极易出现迷航、认知超载或低质互动。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 
----
-
 > [!metax] [项目式学习 · Project-based learning](https://www.visiblelearningmetax.com/influences/view/project-based_learning)
 > 教学策略 › 教学方法
 >
@@ -191,14 +189,7 @@ updated: 2026-10-22
 > > | Badawi et al. (2023) | Blended project based learning | 11 | NA | 11 | 1.28 |  |
 > > | Wenlan & Jiao (2019) | Project based learning | 46 | 3,951 | 121 | 0.59 |  |
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | 生成式人工智能干预下的学生高阶思维培养（项目式学习亚组） | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | [0.507, 0.928] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） |
->
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 教学组织模式（干预环境）** 亚组效应达中到大水平且高度显著（$Z = 6.674, p < 0.001$）；三分类教学模式整体组间检验未达显著，但项目式学习效应量明显高于传统讲授式教学；实证研究高度向探究设计倾斜。
+---
 
 ---
 

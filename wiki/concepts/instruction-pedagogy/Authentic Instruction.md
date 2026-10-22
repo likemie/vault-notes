@@ -169,10 +169,10 @@ updated: 2026-10-22
 > |  |  | 应用型问题解决 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.35"><span class="b7"></span></span>0.35 | [0.20, 0.49] | — |
 > |  |  | 情境模拟 |  | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.09, 0.43] | — |
 > |  |  | 两难困境分析 |  | k = 3 | <span class="mx-bar ef-bar" title="Hedges' g 0.11"><span class="b2"></span></span>0.11 | [−0.37, 0.58] | — |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 策略组合梯度 | 真实性教学（A） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.25"><span class="b5"></span></span>0.25 | [0.05, 0.46] | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ |
+> |  | 策略组合梯度 | 真实性教学（A） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.25"><span class="b5"></span></span>0.25 | [0.05, 0.46] | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ |
 > |  |  | 真实性+对话（A+D） |  | k = 45 | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.17, 0.47] | — |
 > |  |  | 真实性+对话+导师指导（A+D+M） |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | — |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 思维倾向培养 | 真实性教学干预对批判性思维倾向的促进效应 | Hedges' $g$ | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | — | 显著大于 0 |
+> |  | 思维倾向培养 | 真实性教学干预对批判性思维倾向的促进效应 | Hedges' $g$ | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | — | 显著大于 0 |
 >
 > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 具体教学子策略** 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size\|效应量]]最高
 > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 策略组合梯度** 三维组合展现最强协同增益

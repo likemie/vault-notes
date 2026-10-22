@@ -249,7 +249,7 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Nesbit and Adesope (2006) | 结果类型 | 保持 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.60"><span class="b12"></span></span>0.60 | [0.49, 0.71] | — |
 > |  |  | 迁移 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.46"><span class="b9"></span></span>0.46 | [0.33, 0.59] | — |
-> | Nesbit and Adesope (2006) | 学习活动方式 | 学习者自主构建概念图 | Cohen's $d$ | k = 32 | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | 组间差异显著（$p < .05$） |
+> |  | 学习活动方式 | 学习者自主构建概念图 | Cohen's $d$ | k = 32 | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | 组间差异显著（$p < .05$） |
 > |  |  | 学习教师预制概念图 |  | k = 23 | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | — |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 组织器形态 | 思维导图 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | — | 成对 Wald 检验 $p < .001$ |
 > |  |  | 论证图 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | — | — |

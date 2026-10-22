@@ -183,17 +183,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.51"><span class="b10"></span></span>0.51 | [0.17, 0.84] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 6$；$E = 6$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对情感行为（Affective Behaviors）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 情感行为包含态度、动机与自信心等异质测量，点估计为三类产出中最低；一阶研究集中于土耳其与印尼 |
 
-> [!ma-table]- 亚组与调节分析
-> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 产出类型互补比较 | 高阶思维技能 | ES | E = 4 | <span class="mx-bar ef-bar" title="ES 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ |
-> |  |  | 学业成就 |  | E = 12 | <span class="mx-bar ef-bar" title="ES 0.71"><span class="b14"></span></span>0.71 | [0.52, 0.90] | — |
-> |  |  | 情感行为 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.51"><span class="b10"></span></span>0.51 | [0.17, 0.84] | — |
->
-> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 产出类型互补比较** 预设分析；产出类型间差异未达统计显著，不能依据点估计断言有效性绝对优劣
-
 ---
 
 > [!evidence-grid-a] 相关研究索引
