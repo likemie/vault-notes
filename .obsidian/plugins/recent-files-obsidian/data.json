@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Double First-Class Initiative",
-      "path": "wiki/facts/china/Double First-Class Initiative.md"
-    },
-    {
       "basename": "Argument_Velasco_2022_CSJ",
       "path": "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
+    },
+    {
+      "basename": "Educational Diplomacy",
+      "path": "wiki/concepts/political-economy-geopolitics/Educational Diplomacy.md"
+    },
+    {
+      "basename": "Double First-Class Initiative",
+      "path": "wiki/facts/china/Double First-Class Initiative.md"
     },
     {
       "basename": "Visible Learning Meta-X",
@@ -195,10 +199,6 @@
     {
       "basename": "Sputnik Shock 1957",
       "path": "wiki/facts/us/Sputnik Shock 1957.md"
-    },
-    {
-      "basename": "Argument_Zhu_Yang_2025_HE",
-      "path": "wiki/arguments/journal-articles/Higher Education/Argument_Zhu_Yang_2025_HE.md"
     }
   ],
   "omittedPaths": [],

@@ -4,20 +4,21 @@ aliases:
   - 东南亚国家联盟
   - 东盟
   - Association of Southeast Asian Nations
-summary: "东南亚国家联盟（ASEAN）是涵盖东南亚十国的政府间区域合作组织，在区域高等教育治理、学生双向流动与地缘教育外交中发挥枢纽平台作用。"
+summary: "东南亚国家联盟（ASEAN）是涵盖东南亚十国的政府间区域合作组织，在区域高等教育治理、学生双向流动、境外合作办学与地缘教育外交中发挥枢纽平台作用。"
 type: fact
 subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental-organization
 headquarters: 雅加达（印度尼西亚）
 established: "1967"
 tags:
+  - fact/organization
   - education-governance
   - geopolitics
   - international-higher-education
@@ -33,6 +34,9 @@ related_concepts:
   - "[[Cultural Recognition]]"
   - "[[Soft Power]]"
   - "[[Discourse]]"
+  - "[[Educational Diplomacy]]"
+  - "[[International Branch Campus]]"
+  - "[[Power Conversion Dilemma]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Tributary System]]"
@@ -44,10 +48,12 @@ related_facts:
   - "[[EU]]"
   - "[[Royal University of Phnom Penh]]"
   - "[[Asian Infrastructure Investment Bank]]"
+  - "[[Confucius Institute]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high
-status: completed
+status: active
 created: 2026-10-20
 updated: 2026-10-22
 ---
@@ -55,11 +61,11 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心定位
-> 东南亚国家联盟（Association of Southeast Asian Nations, ASEAN，简称东盟）是东南亚十国建立的政府间区域一体化组织，通过加速区域经济增长、社会进步与文化发展，并在教育、科学与行政领域开展深度合作，成为亚太[[Geopolitics|地缘政治]]与高等教育区域治理的核心平台。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
+> 东南亚国家联盟（Association of Southeast Asian Nations, ASEAN，简称东盟）是东南亚十国建立的政府间区域一体化组织，通过加速区域经济增长、社会进步与文化发展，并在教育、科学与行政领域开展深度合作，成为亚太[[Geopolitics|地缘政治]]与高等教育区域治理的核心平台。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]; [[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 71)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1967年8月8日，印度尼西亚、马来西亚、菲律宾、新加坡与泰国五国外长在曼谷签署《曼谷宣言》（东盟宣言），旨在冷战阴影下促进东南亚和平、稳定与区域协作。
-> - **总部地点 / 业务辐射** 总部设于印度尼西亚雅加达，覆盖文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国与越南等十个成员国，并延伸至“东盟+3”（中日韩）及东亚峰会等对话伙伴机制。
+> - **成立时间 / 创设背景** 1967 年 8 月 8 日，印度尼西亚、马来西亚、菲律宾、新加坡与泰国五国外长在曼谷签署《曼谷宣言》（东盟宣言），旨在冷战阴影下促进东南亚和平、稳定与区域协作。
+> - **总部地点 / 业务辐射** 总部设于印度尼西亚雅加达，覆盖文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国与越南等十个成员国，并延伸至“东盟+3”（中日韩）及东亚峰会等多边对话机制。
 > - **法人属性与经费基础** 依据《东盟宪章》设立的政府间国际法实体，营运经费源自成员国法定分摊会费、东盟发展基金及多边对话伙伴的合作发展基金资助。
 > - **核心宗旨与法定职责** 维持并增进区域和平与稳定，构建涵盖“东盟政治安全共同体”、“东盟经济共同体”与“东盟社会文化共同体”的三大支柱体系；在社会文化支柱下推进教育互联互通、人力资源开发、跨国学分互认与青年流动。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
 
@@ -87,8 +93,9 @@ updated: 2026-10-22
 >   成为中国第一大贸易伙伴及“[[Belt and Road Initiative|一带一路]]”教育走廊的关键枢纽，深度融入大国高等教育地缘合作与人才培养网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 2, 10, 17)]]
 >
 >   - **2010** 首届中国—东盟教育部长圆桌会议通过《贵阳宣言》，正式启动“中国—东盟双十万[[Student Mobility|学生流动]]计划”。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
+>   - **2013–2021** 中国高水平大学在东盟多点布局实体办学（如厦门大学马来西亚分校、老挝苏州大学）与 31 所孔子学院合作网络，推动高教双向深度对接。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 >   - **2015** 正式宣布建成以政治安全、经济、社会文化为支柱的“东盟共同体”。
->   - **2018** 在华留学的东盟学生规模攀升至98,823人，占中国国际学生总数的20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
+>   - **2018** 在华留学的东盟学生规模攀升至 98,823 人，占中国国际学生总数的 20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
 
 ---
 
@@ -119,13 +126,20 @@ updated: 2026-10-22
 ---
 
 > [!indicators] 影响力维度与指标
-> - **跨国生源集聚规模** 2018年东盟在华留学生达到98,823人，占中国国际学生整体规模的20.08%，成为中国来华留学生最为重要的区域来源地之一。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
-> - **经贸与战略依托地位** 东盟发展成为中国第一大对外贸易伙伴，为区域高教地缘合作与人才本地化培养提供了现实动力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
-> - **双向制度互联互通** 催生了中柬中文大学、[[Royal University of Phnom Penh|金边皇家大学]]中国研究中心等一系列跨国高教办学项目与智库合作实体。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 11, 14)]]
+> - **跨国生源集聚规模** 2018 年东盟在华留学生达到 98,823 人，占中国国际学生整体规模的 20.08%，成为中国来华留学生最为重要的区域来源地。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]; [[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 83)]]
+> - **经贸与战略依托地位** 东盟发展成为中国第一大对外贸易伙伴，为区域高教地缘合作与人才本地化培养提供了持续动力。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
+> - **双向制度与实体互联互通** 催生了厦门大学马来西亚分校、老挝苏州大学、泰国曼谷商学院以及中柬中文大学等一系列跨国高教办学项目与智库合作实体。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 11, 14)]]; [[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **地缘教育走廊重构** 东盟国家由传统依赖欧美前宗主国留学体系，逐步转向依托中国政府奖学金及联合办学项目的多维教育互联网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 9, 10)]]
 > - **本土[[Human Capital Theory|人力资本]]支撑** 紧密衔接“[[Belt and Road Initiative|一带一路]]”倡议基础设施建设项目（如铁路、深水港、工业园区），为东盟发展中国家培养工程、物流与经贸专门技术人才。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 11, 12)]]
+> - **[[Educational Diplomacy|教育外交]]三大支柱成型** 中国在东盟区域逐步确立了依托留学生定向招募、境外独立分校与联合办学、以及深度嵌入大学建制的[[Confucius Institute|孔子学院]]网络三大实践支柱，拓展了多层次人文纽带。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–85)]]
+
+> [!stat-cards]- 核心规模数据
+> - **10** （个） 东南亚国家联盟正式成员国总数。
+> - **98,823** （人） 2018 年在华东盟留学生总数，占中国国际学生总数的 20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]; [[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 83)]]
+> - **31** （所） 截至 2021 年中国在东盟成员国设立并运营的孔子学院总数，深度嵌入在地大学建制。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]
+> - **3** （所） 中国在东盟重点设立并运营的境外实体独立校区与联合商学院（厦门大学马来西亚分校、老挝苏州大学、泰国曼谷商学院）。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 
 ---
 
@@ -136,6 +150,12 @@ updated: 2026-10-22
 > >
 > > - **批评视角（反方）** 学术界指出，外部大国对东盟欠发达成员国（如柬埔寨）的高等教育资助与办学扩张，可能形成新型的地缘学术依附与语言文化工具化倾向。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 7)]]
 > > - **组织立场（正方）** 东盟主张恪守“东盟中心地位”，强调多边平衡与[[South-South Cooperation|南南合作]]互利共赢原则，利用大国教育资源弥补本土高等教育基底脆弱性。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 2, 7)]]
+>
+> > [!axis] 教育外交软实力投射 vs 地缘领土主权安全焦虑
+> > 围绕外部大国在东盟高教投入带来的亲善吸引，同东南亚国家在领土争端与大国博弈中长期存在的地缘安全戒备之间的张力展开讨论。
+> >
+> > - **教育外交与民心相通论** 认为大规模留学生奖学金、境外独立校区与文化机构建设能够塑造良好的短期个人留学体验，并构建长周期的跨国精英合作网络，是夯实区域民间互信与多边合作的基础。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–85)]]
+> > - **[[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 85–86)]]** 揭示教育软实力投射在东盟面临的结构性转化阻滞：受制于南海领土主权争端引发的持续性安全戒备，以及对外部大国不对称经济影响力的深层疑虑，教育交流带来的好感度难以自发转化为普遍的高阶政治互信，呈现出教育软实力的[[Power Conversion Dilemma|权力转化困境]]。
 
 > [!citation-card] 关于东盟高等教育地缘依赖的学术讨论
 > 学者指出，外部大国在东盟区域的高等教育拓展不仅关乎经济一体化，更涉及复杂的[[Geopolitics|地缘政治]]博弈与文化认同塑造，受援国高校在承接外部资源时需保持学术自主与本土文化主体性。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 7)]]
@@ -150,12 +170,13 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Cultural Recognition]] | Concept | 审视大国在东盟开展教育合作与文化传播时的文化认同与相互尊重维度。 |
 > | [[Soft Power]] | Concept | 大国面向东盟开展教育外交与高教国际化辐射的核心理论框架。 |
+> | [[Educational Diplomacy]] | Concept | 中国面向东盟构建留学生招募、境外分校与孔子学院三大支柱的外交形态。 |
+> | [[International Branch Campus]] | Concept | 厦门大学与苏州大学等高校在东盟设立境外实体独立校区的办学实践。 |
+> | [[Power Conversion Dilemma]] | Concept | 揭示教育软实力好感在遭遇地缘领土争议时难以转化为政治信任的转化困境。 |
 > | [[Tributary System]] | Theory | 历史朝贡体系在当代东盟与中国地缘关系重塑中的历史[[Discourse\|话语]]参照。 |
 > | [[Belt and Road Initiative]] | Fact (Policy) | 推动中国与东盟基础设施互联互通与高等教育合作走廊的核心战略框架。 |
 > | [[Royal University of Phnom Penh]] | Fact (Organization) | 东盟重要成员国柬埔寨的国家旗舰大学，深度参与中国—东盟高教合作项目。 |
 > | [[Asian Infrastructure Investment Bank]] | Fact (Organization) | 为东盟区域基础设施互联互通提供多边金融支撑的关键金融实体。 |
-> | [[Rui Yang]] | Person | 长期研究中国与东盟跨国高等教育治理、[[Geopolitics\|地缘政治]]与文化传统的比较教育学者。 |
+> | [[Confucius Institute]] | Fact (Program) | 深度嵌入东盟十国大学建制、推广语言文化与学术交流的合作网络。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证分析东盟第一大贸易伙伴背景下中国在东盟（柬埔寨）的高等教育地缘拓展。 |
-
----
-
+> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统剖析面向东盟的教育外交三大支柱及地缘领土争端下的权力转化困境。 |
