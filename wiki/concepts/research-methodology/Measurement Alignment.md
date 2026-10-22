@@ -155,13 +155,6 @@ updated: 2026-10-22
 > | 同上 | <span class="mx-bar ef-bar conv" title="r 0.176 → d ≈ 0.36（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.176 | [0.140, 0.211] | r；随机效应 | — | 工具特异性层级与成绩指标对齐 | 颗粒度完全对齐 | 100 |
 > | 同上 | <span class="mx-bar ef-bar conv" title="r 0.130 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.130 | [0.088, 0.171] | r；随机效应 | — | 宏观[[Questionnaire\|问卷]]预测微观成绩导致关联弱化 | 颗粒度错配 | 63 |
 
-> [!ma-table]- 调节变量与亚组分析：学科领域表现
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 学科领域 | 亚组分析 | 科学（r=.199）和数学（r=.157）显著高于人文社科 | — | Q_between 显著 | 预设 | 规范明确的硬科学领域对齐收益最大 |
-
 > [!ma-table]- 亚组与调节分析：干预研究测验特异性对齐
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
@@ -169,8 +162,12 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验特异性 | 完全对齐（$N = 3{,}978$） | Cohen's $d$ | 23 | <span class="mx-bar ef-bar" title="Cohen's d 0.426"><span class="b9"></span></span>0.426 | [0.226, 0.627] | $Z = 4.169, p < .001$；组间 $Q_b = 7.986, df = 1, p < .01$ |
 > |  |  | 未对齐（$N = 474$） |  | 6 | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | [0.635, 0.981] | $Z = 9.159, p < .001$ |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 学科领域 | 科学 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .199 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>.199 | — | $Q_{between}$ 显著；预设 |
+> |  |  | 数学 |  | — | <span class="mx-bar ef-bar conv" title="r .157 → d ≈ 0.32（d = 2r / √(1 − r²)）"><span class="b6"></span></span>.157 | — | — |
 >
 > 完全对齐：多选用学校常规期末考或标准化测验，易受机械记忆题稀释；未对齐：采用针对具体主题的自编高阶论证测验，构念敏感度极高；组间：证实干预研究中测验敏感度可超越形式对齐主导效应量
+>
+> - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]] · 学科领域** 规范明确的硬科学领域对齐收益最大
 
 ---
 

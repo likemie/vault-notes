@@ -341,21 +341,20 @@ updated: 2026-10-22
 > |  |  | 学生 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | — |
 > |  |  | 家庭 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
 > |  |  | 学校 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.23"><span class="b5"></span></span>0.23 | — | — |
-
-> [!ma-table]- 二阶元分析教学角色亚组结果
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | 教学干预策略模式 | 激活者（Activator） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.60"><span class="b12"></span></span>0.60 | — | $d_{\text{差异}} = +0.43$ |
+> |  |  | 促进者（Facilitator） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.17"><span class="b3"></span></span>0.17 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b(5) = 17.491, p < .01$ |
+> |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
+> |  |  | 认知支架 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.663"><span class="b13"></span></span>0.663 | — | — |
+> |  |  | PBL |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
+> |  |  | 论证 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 中期（2~4 周） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.925"><span class="b18"></span></span>0.925 | — | $Q_b(3) = 8.863, p < .05$ |
+> |  |  | 短期（1 周内） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.615"><span class="b12"></span></span>0.615 | — | — |
+> |  |  | 长期（全学期） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.234"><span class="b5"></span></span>0.234 | — | 不显著 |
 >
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | 教学干预策略模式 | **激活者（Activator） vs 促进者（Facilitator）** 交互教学（$d=0.74$）、反馈（$d=0.73$）、师生关系（$d=0.72$）、元认知（$d=0.69$）、直接教学（$d=0.59$）、掌握学习（$d=0.58$）、目标设定（$d=0.56$） vs 模拟（$d=0.33$）、探究教学（$d=0.31$）、PBL（$d=0.15$）、归纳教学（$d=0.06$） | $M = 816$ 阶梯式子集 | 激活者平均 $d = 0.60$；促进者平均 $d = 0.17$ | $d_{\text{差异}} = +0.43$ | 证实结构化、高反馈与主动指导的激活型教学显著优于低结构放任式促进型教学，量化印证了经典教学论常识 |
-
-> [!ma-table]- 一阶[[Meta-analysis|元分析]]教学模式与干预特征调节结果
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 教学质量维度与干预特征 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 组间检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **教学组织形式** [[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]（显性激活） vs. 开放论证与 PBL（自主探索） | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$；信源评估 $d = 0.800$；认知支架 $d = 0.663$；PBL $d = 0.340$；论证 $d = 0.134$ | $Q_b(5) = 17.491, p < .01$ | 教师提供显性证据评估支架是有效教学的核心分水岭，放任式自主探究成效微弱 |
-> | 同上 | **实施时间浓度** 1 至 4 周高强度聚焦教学 vs. 全学期长期泛化实施 | 59 个效应量 / 4,373 | Cohen's $d$，随机效应模型 | 中期（2–4 周） $d = 0.925$；短期（1 周内） $d = 0.615$；长期（全学期） $d = 0.234$（不显著） | $Q_b(3) = 8.863, p < .05$ | 短周期集中教学保证了教学浓度与评价对齐，证实有效教学需防范长周期实施稀释 |
+> - **[[Argument_Terhart_2011_JCS|Terhart (2011)]]（审计 Hattie, 2009） · 教学干预策略模式** 证实结构化、高反馈与主动指导的激活型教学显著优于低结构放任式促进型教学，量化印证了经典教学论常识
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 教师提供显性证据评估支架是有效教学的核心分水岭，放任式自主探究成效微弱
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 短周期集中教学保证了教学浓度与评价对齐，证实有效教学需防范长周期实施稀释
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

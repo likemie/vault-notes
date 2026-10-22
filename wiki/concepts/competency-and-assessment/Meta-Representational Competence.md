@@ -101,12 +101,16 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]相关结果
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 对应调节[[Variable\|变量]] | 亚组与效应量 $g$ | 组间检验 $Q_b$ / $W$ | 理论机制解释 |
-> |---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习者学段对[[Higher-Order Thinking Skills\|高阶思维]]的调节 | 中学生（$g = 1.113$） vs 小学（$g = 0.877$） vs 大学（$g = 0.659$） | $Q_b = 6.61, p < .05$；两两成对 Wald 检验均极显著 | 中学生元表征能力成熟且正处于形式运算爆发期，促学效应达到峰值 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 亚组与效应量 g | 中学生 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | $Q_b = 6.61, p < .05$；两两成对 Wald 检验均极显著 |
+> |  |  | 小学 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | — | — |
+> |  |  | 大学 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.659"><span class="b13"></span></span>0.659 | — | — |
+>
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 亚组与效应量 g** 中学生元表征能力成熟且正处于形式运算爆发期，促学效应达到峰值
 
 ---
 

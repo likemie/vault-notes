@@ -377,18 +377,6 @@ updated: 2026-10-22
 > | DeRosa et al. (2007) | 见亚组表 | — | 标化均值差 $d$ / 随机效应模型 | $k = 39$ 项实验研究 / $N = 4,112$ | **干预因素** 电子[[Brainstorming\|头脑风暴]]（EBS）对比面对面头脑风暴 | 群体规模 $\ge 8$ 时优势显著 | 数字化协作平台有效消除生产力阻塞 |
 > | Rose and Lin (1984) | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | 标化均值差 $d$ / 随机效应模型 | $k = 46$ 项研究 | **干预因素** 普渡创造性思维方案（PCTP）训练效果 | 练习册结合音频效果最优 | 早期长程标准化方案 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组（[[Dependent Variable\|结果变量]][[Construct\|构念]]与实施条件） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预因素 | 结果变量（子构念）：创造性思维（$N = 24$） vs 图形（$N = 27$） vs 词汇（$N = 16$） vs 言语（$N = 23$） vs 问题解决（$N = 10$） vs 情绪（$N = 9$） | $N = 109$ | 思维 $g = 0.671$；图形 $g = 0.644$；词汇 $g = 0.641$；言语 $g = 0.606$；问题解决 $g = 0.539$；情绪 $g = 0.397$ | 构念间响应分化显著 | 发散认知与具象表征增益最强，情绪构念相对滞后 |
-> | 同上 | 干预因素 | 干预特征（训练周期）：$< 2$ 个月（$N = 30$） vs $< 1$ 周（$N = 37$） vs $< 4$ 个月（$N = 24$） vs $< 1$ 年（$N = 9$） vs $< 3$ 年（$N = 5$） | $N = 109$ | $< 2$ 个月 **$g = 0.844$**；$< 4$ 个月 $g = 0.642$；$< 1$ 周 $g = 0.576$；$< 1$ 年 $g = 0.233$；$< 3$ 年 $g = -0.122$ | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） | 呈现倒 U 型时间曲线，中短期强化干预具备最优效能 |
-> | 同上 | 干预因素 | 干预特征（训练方式）：言语训练（$N = 15$） vs 思维训练（$N = 13$） vs 任务型（$N = 5$） vs 技术型（$N = 20$） vs 综合型（$N = 54$） vs 情绪（$N = 2$） | $N = 109$ | 言语 **$g = 0.998$**；思维 **$g = 0.762$**；任务型 $g = 0.685$；技术型 $g = 0.552$；综合型 $g = 0.513$；情绪 $g = -0.066$ | 组间差异显著（$p < .001$） | 言语符号外化与元认知策略效能最优 |
-> | 同上 | 干预因素 | 干预特征（组织形式）：独立个体练习（$N = 48$） vs 小组协作（$N = 61$） | $N = 109$ | 独立 **$g = 0.682$** $[0.501, 0.863]$；小组 $g = 0.567$ $[0.462, 0.673]$ | $Z = 7.38\ (p < .001)$ | 个体深思有效规避群体评价顾虑与生产力阻塞 |
-> | Scott et al. (2004) | 干预因素 | 干预内容：显式认知策略 vs 自由表达 | $k = 70$ | 认知策略 **$d = 0.84$**；自由表达 $d = 0.35$ | $p < .01$ | 结构化教学显著优于放任型活动 |
-> | Sio and Ormerod (2009) | 干预因素 | 酝酿期任务负荷：低认知负荷 vs 高认知负荷 | $k = 117$ | 低负荷 **$d = 0.43$**；高负荷 $d = 0.15$ | $p < .05$ | 极端高负荷会阻碍无意识加工 |
-
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -408,13 +396,41 @@ updated: 2026-10-22
 > |  |  | 观念质量 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.38"><span class="b8"></span></span>0.38 | — | — |
 > | Rose and Lin (1984) | 测验类型 | 言语 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
 > |  |  | 图形 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.36"><span class="b7"></span></span>0.36 | — | — |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（子构念） | 创造性思维 | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | — | 构念间响应分化显著 |
+> |  |  | 图形 |  | N = 27 | <span class="mx-bar ef-bar" title="Hedges' g 0.644"><span class="b13"></span></span>0.644 | — | — |
+> |  |  | 词汇 |  | N = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.641"><span class="b13"></span></span>0.641 | — | — |
+> |  |  | 言语 |  | N = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | — | — |
+> |  |  | 问题解决 |  | N = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | — | — |
+> |  |  | 情绪 |  | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.397"><span class="b8"></span></span>0.397 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预特征（训练周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） |
+> |  |  | < 4 个月 |  | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.642"><span class="b13"></span></span>0.642 | — | — |
+> |  |  | < 1 周 |  | N = 37 | <span class="mx-bar ef-bar" title="Hedges' g 0.576"><span class="b12"></span></span>0.576 | — | — |
+> |  |  | < 1 年 |  | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.233"><span class="b5"></span></span>0.233 | — | — |
+> |  |  | < 3 年 |  | N = 5 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.122"><span class="b2"></span></span>−0.122 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预特征（训练方式） | 言语训练 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
+> |  |  | 思维训练 |  | N = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
+> |  |  | 任务型 |  | N = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.685"><span class="b14"></span></span>0.685 | — | — |
+> |  |  | 技术型 |  | N = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
+> |  |  | 综合型 |  | N = 54 | <span class="mx-bar ef-bar" title="Hedges' g 0.513"><span class="b10"></span></span>0.513 | — | — |
+> |  |  | 情绪 |  | N = 2 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.066"><span class="b1"></span></span>−0.066 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预特征（组织形式） | 独立个体练习 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | [0.501, 0.863] | $Z = 7.38\ (p < .001)$ |
+> |  |  | 小组协作 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | [0.462, 0.673] | — |
+> | Scott et al. (2004) | 干预内容 | 显式认知策略 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | — | $p < .01$ |
+> |  |  | 自由表达 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.35"><span class="b7"></span></span>0.35 | — | — |
+> | Sio and Ormerod (2009) | 酝酿期任务负荷 | 低认知负荷 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.43"><span class="b9"></span></span>0.43 | — | $p < .05$ |
+> |  |  | 高认知负荷 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | — | — |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 关联因素类型比较 | 教育教学干预 | $r$ | E = 21 | <span class="mx-bar ef-bar conv" title="r 0.20 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.20 | [0.10, 0.29] | $F(4, 15.6) = 0.95, p = .46$ |
+> |  |  | 外认知因素 |  | E = 47 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.06, 0.22] | — |
+> |  |  | 认知能力 |  | E = 34 | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.03, 0.20] | — |
+> |  |  | 人口学背景 |  | E = 50 | <span class="mx-bar ef-bar conv" title="r 0.05 → d ≈ 0.10（d = 2r / √(1 − r²)）"><span class="b2"></span></span>0.05 | [−0.07, 0.17] | — |
 >
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 干预因素 | 关联因素类型比较：教育教学干预 vs 外认知因素 vs 认知能力 vs 人口学背景 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 **$r = 0.20$** $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明确可塑性 |
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（子构念）** 发散认知与具象表征增益最强，情绪构念相对滞后
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预特征（训练周期）** 呈现倒 U 型时间曲线，中短期强化干预具备最优效能
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预特征（训练方式）** 言语符号外化与元认知策略效能最优
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预特征（组织形式）** 个体深思有效规避群体评价顾虑与生产力阻塞
+> - **Scott et al. (2004) · 干预内容** 结构化教学显著优于放任型活动
+> - **Sio and Ormerod (2009) · 酝酿期任务负荷** 极端高负荷会阻碍无意识加工
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 关联因素类型比较** 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明确可塑性
 
 > [!metax] [创造力项目 · Creativity programs](https://www.visiblelearningmetax.com/influences/view/creativity_programs)
 > 课程 › 其他课程项目

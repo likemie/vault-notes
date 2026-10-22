@@ -473,17 +473,6 @@ updated: 2026-10-22
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.326, 0.692] | Cohen's $d$ / [[Random-Effects Model\|随机效应模型]] | $k = 28$ / $N = 4,373$ | 结果变量：[[Epistemic Cognition\|认识论认知]]干预对学业成就的总体因果促进效应 | $Q = 370.964, p < .001, I^2 = 92.72\%$；离群值缩尾至 2 SD | 严格限定实验与准实验干预研究；涵盖 59 个效应量；剪补法校正后 $d = 0.342$ |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.633"><span class="b13"></span></span>0.633 | [0.418, 0.849] | Hedges' $g^+$ / [[Random-Effects Model\|随机效应模型]] | $k = 25$ / $N = —$ | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生学业成绩（Academic Achievement）的促学效应 | $Q(24) = 134.37, p < .001, I^2 = 82.14\%$；剪补法填补 9 项后调整为 $g^+_{\text{adj}} = 0.354$ | 严格限定前测基线等效（$d < 0.25$）；高校编程与医学等学科客观知识与测验表现；检出显著发表偏倚并经剪补校正 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]] | 测量工具性质：标准化[[Achievement and Aptitude Tests\|成就测验]] vs 教师自编/课程期末考试 | 标准化 $k = 25$ / 课程自编 $k = 115$ | 标准化 $g+ = 0.13$ $[-0.03, 0.28]$；自编 $g+ = 0.37$ $[0.29, 0.46]$ | $Q_b(1) = 7.97, p = .005$ | 预设分析；组间差异高度显著，与课程紧密贴合的成就测量获益更明显 |
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Dependent Variable\|结果变量]] | 成就类型亚组：概念性知识 vs 论证 vs 陈述性知识 vs [[Procedural Skill\|程序性知识]] | 概念 $k = 25$ / 论证 $k = 14$ / 陈述 $k = 101$ / 程序 $k = 23$ | 概念 $r = 0.190$ $[0.133, 0.245$]；论证 $r = 0.154$ $[0.088, 0.219]$；陈述 $r = 0.127$ $[0.093, 0.160]$；程序 $r = 0.077$ $[-0.007, 0.160]$ | $Q_b = 1.766, p > .05$ | 预设分析；组间未达显著，但高阶概念与论证点估计显著高于[[Rote Learning\|死记硬背]]类[[Procedural Knowledge\|程序知识]] |
-> | Greene et al.（测量方式亚组） | 结果[[Variable\|变量]] | 测量方式亚组：标准化测试 vs 专门测验 vs 参与者自报 GPA | 标准化 $k = 18$ / 专测 $k = 74$ / 自报 $k = 59$ | 标准化 $r = 0.214$ $[0.148, 0.278]$；专测 $r = 0.177$ $[0.136, 0.217]$；自报 $r = 0.083$ $[0.043, 0.122]$ | $Q_b = 16.48, p < .001$ | 预设分析；组间差异高度显著，脱离效标的自报成绩会严重低估理论关联 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量 | 成就类型亚组：论证 vs 概念性知识 vs 陈述性知识 vs 程序性知识 vs 一般知识 | 论证 $k = 5$ / 概念 $k = 19$ / 陈述 $k = 3$ / 程序 $k = 1$ / 一般 $k = 5$ | 论证 $d = 1.047$ $[0.481, 1.614]$；概念 $d = 0.557$ $[0.323, 0.791]$；陈述 $d = 0.494$ $[0.244, 0.743]$；程序 $d = 0.140$ $[-0.257, 0.537]$；一般 $d = 0.127$ $[-0.383, 0.637]$ | $Q_b(4) = 8.940, p > .05$（固定 $Q_b = 76.981, p < .001$） | 预设分析；高阶论证与概念理解效应量大幅领先于低阶机械记忆与套用 |
-> | Cartiff et al.（测验开发者亚组） | 结果变量 | 测验开发者亚组：研究者自编 vs 官方 GPA vs 标准化测验 vs 教师自编 | 自编 $k = 20$ / GPA $k = 1$ / 标准化 $k = 4$ / 教师 $k = 5$ | 自编 $d = 0.651$ $[0.456, 0.846]$；GPA $d = 0.470$ $[0.289, 0.651]$；标准化 $d = 0.304$ $[-0.208, 0.816]$；教师 $d = 0.012$ $[-0.449, 0.473]$ | $Q_b(3) = 7.271, p > .05$（固定 $Q_b = 96.466, p < .001$） | 预设分析；与干预内容紧密贴合的研究者自编测验效应显著，外部统考与常规教师测验未达显著 |
-
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -501,15 +490,44 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 方案类型 | 全班 Tier 1 方案 | ES | — | <span class="mx-bar ef-bar range" title="ES +0.10–+0.58；取区间中点"><span class="b7"></span></span>+0.10–+0.58 | — | — |
 > |  |  | 助教 Tier 2 / Tier 3 辅导 | ES | — | <span class="mx-bar ef-bar range" title="ES +0.21–+0.86；取区间中点"><span class="b11"></span></span>+0.21–+0.86 | — | — |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 测量工具性质 | 标准化成就测验 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.13"><span class="b3"></span></span>0.13 | [−0.03, 0.28] | $Q_b(1) = 7.97, p = .005$ |
+> |  |  | 教师自编/课程期末考试 |  | k = 115 | <span class="mx-bar ef-bar" title="Hedges' g 0.37"><span class="b7"></span></span>0.37 | [0.29, 0.46] | — |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 成就类型亚组 | 概念性知识 | $r$ | k = 25 | <span class="mx-bar ef-bar conv" title="r 0.190 → d ≈ 0.39（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.190 | [0.133, 0.245] | $Q_b = 1.766, p > .05$ |
+> |  |  | 论证 |  | k = 14 | <span class="mx-bar ef-bar conv" title="r 0.154 → d ≈ 0.31（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.154 | [0.088, 0.219] | — |
+> |  |  | 陈述性知识 |  | k = 101 | <span class="mx-bar ef-bar conv" title="r 0.127 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.127 | [0.093, 0.160] | — |
+> |  |  | 程序性知识 |  | k = 23 | <span class="mx-bar ef-bar conv" title="r 0.077 → d ≈ 0.15（d = 2r / √(1 − r²)）"><span class="b3"></span></span>0.077 | [−0.007, 0.160] | — |
+> | Greene et al.（测量方式亚组） | 测量方式亚组 | 标准化测试 | $r$ | k = 18 | <span class="mx-bar ef-bar conv" title="r 0.214 → d ≈ 0.44（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.214 | [0.148, 0.278] | $Q_b = 16.48, p < .001$ |
+> |  |  | 专门测验 |  | k = 74 | <span class="mx-bar ef-bar conv" title="r 0.177 → d ≈ 0.36（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.177 | [0.136, 0.217] | — |
+> |  |  | 参与者自报 GPA |  | k = 59 | <span class="mx-bar ef-bar conv" title="r 0.083 → d ≈ 0.17（d = 2r / √(1 − r²)）"><span class="b3"></span></span>0.083 | [0.043, 0.122] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 成就类型亚组 | 论证 | Cohen's $d$ | k = 5 | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | [0.481, 1.614] | $Q_b(4) = 8.940, p > .05$（固定 $Q_b = 76.981, p < .001$） |
+> |  |  | 概念性知识 |  | k = 19 | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | [0.323, 0.791] | — |
+> |  |  | 陈述性知识 |  | k = 3 | <span class="mx-bar ef-bar" title="Cohen's d 0.494"><span class="b10"></span></span>0.494 | [0.244, 0.743] | — |
+> |  |  | 程序性知识 |  | k = 1 | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | [−0.257, 0.537] | — |
+> |  |  | 一般知识 |  | k = 5 | <span class="mx-bar ef-bar" title="Cohen's d 0.127"><span class="b3"></span></span>0.127 | [−0.383, 0.637] | — |
+> | Cartiff et al.（测验开发者亚组） | 测验开发者亚组 | 研究者自编 | Cohen's $d$ | k = 20 | <span class="mx-bar ef-bar" title="Cohen's d 0.651"><span class="b13"></span></span>0.651 | [0.456, 0.846] | $Q_b(3) = 7.271, p > .05$（固定 $Q_b = 96.466, p < .001$） |
+> |  |  | 官方 GPA |  | k = 1 | <span class="mx-bar ef-bar" title="Cohen's d 0.470"><span class="b9"></span></span>0.470 | [0.289, 0.651] | — |
+> |  |  | 标准化测验 |  | k = 4 | <span class="mx-bar ef-bar" title="Cohen's d 0.304"><span class="b6"></span></span>0.304 | [−0.208, 0.816] | — |
+> |  |  | 教师自编 |  | k = 5 | <span class="mx-bar ef-bar" title="Cohen's d 0.012"><span class="b0"></span></span>0.012 | [−0.449, 0.473] | — |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 产出类型互补比较 | 高阶思维技能 | ES | E = 4 | <span class="mx-bar ef-bar" title="ES 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ |
+> |  |  | 学业成就 |  | E = 12 | <span class="mx-bar ef-bar" title="ES 0.71"><span class="b14"></span></span>0.71 | [0.52, 0.90] | — |
+> |  |  | 情感行为 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.51"><span class="b10"></span></span>0.51 | [0.17, 0.84] | — |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 教育阶段互补比较 | K12 | ES | — | <span class="mx-bar ef-bar" title="ES 0.40"><span class="b8"></span></span>0.40 | [0.19, 0.62] | $Q_b(2) = 6.95, p < .05$ |
+> |  |  | K12 与高等教育混合 |  | k = 15 | <span class="mx-bar ef-bar" title="ES 0.73"><span class="b15"></span></span>0.73 | [0.62, 0.84] | — |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]] | 影响因素来源六大领域 | 教师 | Cohen's $d$ | M = 31, k = 2,225 | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | 未报告正式组间 $Q_b$ 检验 |
+> |  |  | 课程 |  | M = 144, k = 7,102 | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
+> |  |  | 教学方式 |  | M = 365, k = 25,860 | <span class="mx-bar ef-bar" title="Cohen's d 0.42"><span class="b8"></span></span>0.42 | — | — |
+> |  |  | 学生 |  | M = 139, k = 11,101 | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | — |
+> |  |  | 家庭 |  | M = 36, k = 2,211 | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
+> |  |  | 学校 |  | M = 101, k = 4,150 | <span class="mx-bar ef-bar" title="Cohen's d 0.23"><span class="b5"></span></span>0.23 | — | — |
 >
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 产出类型互补比较：[[Higher-Order Thinking Skills\|高阶思维技能]] vs 学业成就 vs [[Affective Outcomes\|情感行为]] | $E = 4$（HOTS）/ $E = 12$（成就）/ $E = 6$（情感） | HOTS $ES = 0.76$ $[0.42, 1.11]$；成就 $ES = 0.71$ $[0.52, 0.90]$；情感 $ES = 0.51$ $[0.17, 0.84]$ | $Q_b(3) = 4.35, \text{df} = 3, p = .23$ | 预设分析；学业成就效应稳健居中，与高阶思维无显著差异 |
-> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量 | 教育阶段互补比较：K12 vs K12 与高等教育混合 | $k = 4$（K12）/ $k = 15$（混合） | K12 $ES = 0.40$ $[0.19, 0.62]$；混合 $ES = 0.73$ $[0.62, 0.84]$ | $Q_b(2) = 6.95, p < .05$ | 预设分析；K12 效应显著弱于混合阶段，可能与课程冲突、认知负荷及 AI 工具适配不足有关 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]] | 结果变量 | 影响因素来源六大领域：教师 vs 课程 vs 教学方式 vs 学生 vs 家庭 vs 学校 | 教师 $M = 31, k = 2,225$ / 课程 $M = 144, k = 7,102$ / 教学 $M = 365, k = 25,860$ / 学生 $M = 139, k = 11,101$ / 家庭 $M = 36, k = 2,211$ / 学校 $M = 101, k = 4,150$ | 教师 $d = 0.49$；课程 $d = 0.45$；教学 $d = 0.42$；学生 $d = 0.40$；家庭 $d = 0.31$；学校 $d = 0.23$ | 未报告正式组间 $Q_b$ 检验 | 仅依据点估计值排列，缺乏正式调节检验；教师维度包含实践与条件多重异质变量 |
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 测量工具性质** 预设分析；组间差异高度显著，与课程紧密贴合的成就测量获益更明显
+> - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]] · 成就类型亚组** 预设分析；组间未达显著，但高阶概念与论证点估计显著高于[[Rote Learning\|死记硬背]]类[[Procedural Knowledge\|程序知识]]
+> - **Greene et al.（测量方式亚组） · 测量方式亚组** 预设分析；组间差异高度显著，脱离效标的自报成绩会严重低估理论关联
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 成就类型亚组** 预设分析；高阶论证与概念理解效应量大幅领先于低阶机械记忆与套用
+> - **Cartiff et al.（测验开发者亚组） · 测验开发者亚组** 预设分析；与干预内容紧密贴合的研究者自编测验效应显著，外部统考与常规教师测验未达显著
+> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 产出类型互补比较** 预设分析；学业成就效应稳健居中，与高阶思维无显著差异
+> - **Ünal et al. (2026) · 教育阶段互补比较** 预设分析；K12 效应显著弱于混合阶段，可能与课程冲突、认知负荷及 AI 工具适配不足有关
+> - **[[Argument_Terhart_2011_JCS|Terhart (2011, p. 428)]] · 影响因素来源六大领域** 仅依据点估计值排列，缺乏正式调节检验；教师维度包含实践与条件多重异质变量
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

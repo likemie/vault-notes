@@ -88,12 +88,14 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论解释模型：检验真实情境、[[Dialogue in Education\|对话]]与导师指导的协同增益 | 真实性+对话+[[Mentorship\|导师制]]（A+D+M 复合干预） | $k = 19$ | $g+ = 0.57$ $[0.38, 0.77]$ | 显著优于单独真实性（$0.25$）、单独对话（$0.23$）及 A+D（$0.32$） | 证实情境示范、社会对话与导师[[Scaffolding\|脚手架]]三者协同的最优教学效能 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 亚组 | 真实性+对话+导师制（A+D+M 复合干预） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | 显著优于单独真实性（$0.25$）、单独对话（$0.23$）及 A+D（$0.32$） |
+>
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 亚组** 证实情境示范、社会对话与导师[[Scaffolding\|脚手架]]三者协同的最优教学效能
 
 ---
 

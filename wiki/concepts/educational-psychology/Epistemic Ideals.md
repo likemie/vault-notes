@@ -218,13 +218,21 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.334, 0.684] | Cohen's d；[[Random-Effects Model\|随机效应]] | I²=92.72% | [[Academic Achievement\|学业成就]]（认识论理想可教导性） | 28 / 4,373 | — |
 
-> [!ma-table]- 调节[[Variable\|变量]]与亚组分析
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件 | 条件效应 | 检验统计量 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预[[Framework for Teaching\|教学框架]] | 亚组分析 | 指导式探究（$d = 0.808$）与信源评估（$d = 0.800$）；显性讲授认识论理想的框架优于自由辩论 | PBL（$d = 0.340$）与论证教学（$d = 0.134$，不显著） | $Q_b = 17.491, p < .01$ | 预设 | 认识论理想只有经由显性指导才能内化并转化为学业提升 |
-> | 同上 | 成就类型 | 亚组分析 | 论证表现（$d = 1.047$）与概念性知识（$d = 0.557$）高度敏感 | 程序性知识（$d = 0.140$，不显著） | $Q_b = 8.940, p < .05$ | 预设 | 认识论理想的改变只在需要评估证据与推理质量的高阶任务中产生实质学业效益 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 17.491, p < .01$；预设 |
+> |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
+> |  |  | PBL |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
+> |  |  | 论证教学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | — | 不显著 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 成就类型 | 论证表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b = 8.940, p < .05$；预设 |
+> |  |  | 概念性知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | — | — |
+> |  |  | 程序性知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | — | 不显著 |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预教学框架** 认识论理想只有经由显性指导才能内化并转化为学业提升
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 成就类型** 认识论理想的改变只在需要评估证据与推理质量的高阶任务中产生实质学业效益
 
 ---
 

@@ -239,14 +239,6 @@ updated: 2026-10-22
 > | Mullen, Johnson and Salas (1991) | <span class="mx-bar ef-bar neg" title="Cohen's d −0.57"><span class="b11"></span></span>−0.57 | [−0.76, −0.38] | Cohen's $d$ / 随机效应模型 | $k = 25$ 项受控实验 / $N \approx 2,100$ | **【干预[[Variable\|变量]]】** 传统面对面口头头脑风暴群体相对于同等规模无交互名义群体的生产力对比 | 异质性显著，群体规模越大损失越严重 | 证实面对面口头头脑风暴存在显著的群体生产力损失，名义群体产出显著胜出 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 见亚组表 | — | Hedges' $g$ / 多层随机效应模型 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | **【干预组织形式调节】** [[Creativity Training\|创造力干预]]中独立练习形式与小组头脑风暴协作形式的效能对比 | 解释 8.9% 组间方差（$p < .05$） | 证实独立深思训练能规避生产阻塞与群体认知内耗，产生显著更高的净促学收益 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组（群体规模 / 组织形式） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Mullen, Johnson and Salas (1991) | 【干预变量·规模调节】 | 面对面群体规模：小规模 2–3 人（$d = -0.31$） vs 大规模 $\ge 6$ 人（$d = -0.75$） | 小规模 $k = 11$ / 大规模 $k = 14$ | 小规模 **$d = -0.31$**；大规模 **$d = -0.75$** | 组间差异极显著（$p < .001$） | 群体人数越多，等待发言的生产阻塞与注意力冲突呈指数级放大 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 【干预组织形式对比】 | 训练模式：个体独立练习（$g = 0.682$） vs 小组头脑风暴协作（$g = 0.567$） | 独立 $N=48$ / 小组 $N=61$ | 独立 **$g = 0.682$**；小组 **$g = 0.567$** | 差异显著（$p < .05$） | 确立独立个体深入反思在创造力策略内化过程中的优越性 |
-
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -261,6 +253,13 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 构思形式 | 独立构思 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | — | — |
 > |  |  | 小组构思 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | — | — |
+> | Mullen, Johnson and Salas (1991) | 面对面群体规模 | 小规模 2~3 人 | Cohen's $d$ | k = 11 | <span class="mx-bar ef-bar neg" title="Cohen's d −0.31"><span class="b6"></span></span>−0.31 | — | 组间差异极显著（$p < .001$） |
+> |  |  | 大规模 ≥ 6 人 |  | k = 14 | <span class="mx-bar ef-bar neg" title="Cohen's d −0.75"><span class="b15"></span></span>−0.75 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练模式 | 个体独立练习 | Hedges' $g$ | N=48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | — | 差异显著（$p < .05$） |
+> |  |  | 小组头脑风暴协作 |  | N=61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | — | — |
+>
+> - **Mullen, Johnson and Salas (1991) · 面对面群体规模** 群体人数越多，等待发言的生产阻塞与注意力冲突呈指数级放大
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练模式** 确立独立个体深入反思在创造力策略内化过程中的优越性
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

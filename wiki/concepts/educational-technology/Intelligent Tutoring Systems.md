@@ -291,14 +291,19 @@ updated: 2026-10-22
 > | Tasdelen and Bodemer (2025)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | $p < .05$ | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
 > | Khazanchi et al. (2025)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.05"><span class="b1"></span></span>0.05 | $p > .05$ | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | [[Quasi-Experimental Designs\|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 智能导师系统（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高 |
-> | Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 干预因素（数字化工具功能类型） | 辅导与智能辅导系统（Tutorials & ITS） | $k = 92$（总体） / — | 学业成就 $g = 0.65$；学科态度 $g = 0.45$ | 工具类型比较及教师培训调节检验显著（$p < .001$） | 中学数学与自然科学实验及准实验证据；ITS 显著优于超媒体（$g = 0.44$）与操练程序 |
-> | Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 干预因素（自动化自适应指导） | 科学探究平台（[[Web-based Inquiry Science Environment\|WISE]]）NLP 自适应支架 | $k = 41$ / — | $g = 0.34$ | 与常规课堂指导对比显著 | 针对学生开放式科学论证与因果解释文本的自动化批改与自适应提示 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 智能导师系统（ITS） | Hedges' $g$ | k = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.540"><span class="b11"></span></span>0.540 | [0.241, 0.839] | 智能体类型间检验 $Q_B = 0.069, p = .793$ |
+> | Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 结果变量 | 学业成就 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.65"><span class="b13"></span></span>0.65 | — | 工具类型比较及教师培训调节检验显著（$p < .001$） |
+> |  |  | 学科态度 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.45"><span class="b9"></span></span>0.45 | — | — |
+> | Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 干预因素（自动化自适应指导） | 科学探究平台（WISE）NLP 自适应支架 | Hedges' $g$ | k = 41 | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | — | 与常规课堂指导对比显著 |
+>
+> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高
+> - **Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] · 结果变量** 中学数学与自然科学实验及准实验证据；ITS 显著优于超媒体（$g = 0.44$）与操练程序
+> - **Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] · 干预因素（自动化自适应指导）** 针对学生开放式科学论证与因果解释文本的自动化批改与自适应提示
 
 > [!metax] [智能导学系统 · Intelligent tutoring systems](https://www.visiblelearningmetax.com/influences/view/intelligent_tutoring_systems)
 > 技术、学校与校外策略 › 辅导／多媒体

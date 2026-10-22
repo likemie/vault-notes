@@ -138,12 +138,14 @@ updated: 2026-10-22
 > | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar neg" title="Hedges' g −0.73"><span class="b15"></span></span>−0.73 | $p < .05$ | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | 准实验设计；缺乏教学法约束导致认知卸载与探究能力受挫 |
 > | Kohnke et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.35"><span class="b7"></span></span>0.35 | $p < .05$ | 生成式写作[[AI Agent in Education\|智能体]]递进提问 vs. 独立自由写作 | 英语议论文论证结构与逻辑严密性 | $N = 70$ | — | 准实验设计；苏格拉底式提问显著提升写作论证质量 |
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 依赖外部[[Scaffolding\|脚手架]]约束与提示词设计；未作支架约束时易导致效应高度分化 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.421"><span class="b8"></span></span>0.421 | [0.198, 0.645] | 智能体类型间检验 $Q_B = 0.069, p = .793$ |
+>
+> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 依赖外部[[Scaffolding\|脚手架]]约束与提示词设计；未作支架约束时易导致效应高度分化
 
 ---
 

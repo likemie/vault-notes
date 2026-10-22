@@ -91,12 +91,14 @@ updated: 2026-10-22
 > | Tasdelen and Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | $p < .05$ | 自适应分步微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题练习 | 小学数学长除法步骤解题表现 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | 准实验设计；基于认知负荷理论的分步提示加速算术程序自动化 |
 > | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.16"><span class="b3"></span></span>0.16 | $p < .05$ | 编程[[AI Agent in Education\|智能体]]语法纠错 vs. 传统教学 | 代码编写正确率与程序性调试表现 | $N = 78$ | — | 实验设计；即时微提示辅助良构代码规则内化 |
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程调试、外语口语流利度等程序性技能，[[Effect Size\|效应量]]最大且统计检验高度稳定显著 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 结果变量（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | Hedges' $g$ | k = 42 | <span class="mx-bar ef-bar" title="Hedges' g 0.391"><span class="b8"></span></span>0.391 | [0.197, 0.584] | $Q = 409.56, I^2 = 90.0\%, p < .001$ |
+>
+> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 结果变量（认知结果分类）** 涵盖数学解题、编程调试、外语口语流利度等程序性技能，[[Effect Size\|效应量]]最大且统计检验高度稳定显著
 
 ---
 

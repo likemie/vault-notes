@@ -95,12 +95,15 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]相关结果
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 涉及现象与调节维度 | 亚组与效应量 $g$ | 组间检验 $Q_b$ / $W$ | 理论机制解释 |
-> |---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习者学段对[[Graphic Organizer\|图形组织器]]促学效应的调节 | 大学生（$g = 0.659$） vs 中学生（$g = 1.113$） | $W = 63.77, p < .001$ | 大学生自我[[Scaffolding\|脚手架]]成熟，外在工具边际增益递减 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 亚组与效应量 g | 大学生 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.659"><span class="b13"></span></span>0.659 | — | $W = 63.77, p < .001$ |
+> |  |  | 中学生 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | — |
+>
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 亚组与效应量 g** 大学生自我[[Scaffolding\|脚手架]]成熟，外在工具边际增益递减
 
 ---
 

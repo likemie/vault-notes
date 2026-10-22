@@ -287,13 +287,18 @@ updated: 2026-10-22
 > | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | <span class="mx-bar ef-bar" title="Cohen's d 0.50"><span class="b10"></span></span>0.50 | [0.37, 0.63] | Cohen's $d$ / 随机效应模型 | $k = 72$ / $N = —$ | 干预因素：探究教学中的指导脚手架对比无指导探究 | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架提升半个标准差且不同形态功能等价 |
 > | Gerard et al. (2015) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]) | <span class="mx-bar ef-bar" title="SMD 0.34"><span class="b7"></span></span>0.34 | — | 标准化均值差 $ES$ | $k = 41$ ($E = 57$) / $N = —$ | 干预因素：技术增强科学探究中的自动化自适应脚手架 | — | 针对动态虚拟实验室与可视化探究环境，确证自适应智能脚手架相比静态指导的额外增益 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 外部认知脚手架（干预机制） | 支架持续时长亚组（8–16 周中期黄金窗口 vs >16 周长期未渐隐） | 31 / —<br>13 / — | 中期：$g = 0.759$ [0.576, 0.943]<br>长期：$g = 0.372$ [0.196, 0.549] | $Q_b = 9.106, df = 2, p = 0.011$ | 证实脚手架干预呈现明显的倒 U 型时间规律；长期不撤除外部技术支架将导致促学效应大幅腰斩，实证确证了系统性渐隐（Fading）对防范认知依赖的必要性。 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 外部图示脚手架（干预工具） | 学习者学段亚组（中学生外部支架需求 vs 大学生[[Self-Scaffolding\|自我支架]]内化） | 17 / —<br>49 / — | 中学生：$g = 1.113$ [0.932, 1.294]<br>大学生：$g = 0.659$ [0.551, 0.767] | $W = 63.77, df = 2, p < 0.001$ | 证实外部脚手架收益随认知成熟而边际递减；中学生正处形式运算成熟期获益最大，大学生具备自我脚手架使得外在支架呈现[[Fade-out Effect\|效应衰减]]。 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 支架持续时长 | 中期（8–16 周） | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | [0.576, 0.943] | $Q_b = 9.106, df = 2, p = .011$ |
+> |  |  | 长期（> 16 周，未渐隐） |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | [0.196, 0.549] | — |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习者学段 | 中学生 | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | [0.932, 1.294] | $W = 63.77, df = 2, p < .001$ |
+> |  |  | 大学生 |  | k = 49 | <span class="mx-bar ef-bar" title="Hedges' g 0.659"><span class="b13"></span></span>0.659 | [0.551, 0.767] | — |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 支架持续时长** 证实脚手架干预呈现明显的倒 U 型时间规律；长期不撤除外部技术支架将导致促学效应大幅腰斩，实证确证了系统性渐隐（Fading）对防范认知依赖的必要性。
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 学习者学段** 证实外部脚手架收益随认知成熟而边际递减；中学生正处形式运算成熟期获益最大，大学生具备自我脚手架使得外在支架呈现[[Fade-out Effect\|效应衰减]]。
 
 > [!metax] [支架与情境学习 · Scaffolding and situated learning](https://www.visiblelearningmetax.com/influences/view/scaffolding_and_situated_learning)
 > 教学策略 › 教学方法

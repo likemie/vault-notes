@@ -212,13 +212,16 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | Hedges' $g$；随机效应模型 | $k = 55$ / — | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对聚合思维（Convergent Thinking）的促进效应 | $I^2 = 83.6\%$；$Q_b = 7.07, p < .01$（对比发散思维） | 涵盖 55 项独立效应量，多采用演绎推理、逻辑论据识别与标准选择题测度 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果[[Variable\|变量]]（思维类型） | **[[Divergent Thinking\|发散思维]]（Divergent Thinking）** | $k = 14$ / — | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $Q_b = 7.07, p < .01$；两组差异极显著 | 空间辐射分支极大激活联想网络，促进效应最强 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | **聚合思维（Convergent Thinking）** | $k = 55$ / — | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | 组间差异显著 | 受形式逻辑与确定性规则约束，促进效应中等稳健 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$；两组差异极显著 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
+>
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 结果变量（思维类型）** 空间辐射分支极大激活联想网络，促进效应最强
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 结果变量（思维类型）** 受形式逻辑与确定性规则约束，促进效应中等稳健
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

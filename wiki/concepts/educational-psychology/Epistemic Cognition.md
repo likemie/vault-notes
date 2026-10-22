@@ -260,20 +260,47 @@ updated: 2026-10-22
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.326, 0.692] | Cohen's d；随机效应 | I²=92.72%，Q=370.964***；离群值缩尾至 2 SD | [[Academic Achievement\|学业成就]]（干预因果效应） | 28 / 4,373 | — |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.191 → d ≈ 0.39（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.191 | [0.119, 0.261] | r；三层多层随机效应（REML） | I²=92.46%（L2: 35.82%, τ²=0.015; L3: 56.64%, τ²=0.024）, Q=6004.06*** | 学习成果（认知、动机、自我调节） | 512 / 6,312 | — |
 
-> [!ma-table]- 调节[[Variable\|变量]]与亚组分析
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 亚组分析 | 初中（r=.246）和混合阶段（r=.233）较大，大学（r=.131）较小 | — | Q_between = 15.111 (p<.05) | 预设 | — |
-> | 同上 | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，[[Procedural Skill\|程序性知识]]（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
-> | 同上 | [[Epistemology\|认识论]][[Construct\|构念]] | 亚组分析 | 知识发展（r=.274）、一般认识论认知（r=.266）、多种证成（r=.225）较高 | — | Q_between = 57.955 (p<.001) | 预设 | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预[[Framework for Teaching\|教学框架]] | 亚组分析 | [[Inquiry-Based Learning\|指导式探究]]（d=.808）与[[Source Evaluation\|信源评估]]（d=.800）最高，支架（d=.663）与[[Constructivist Paradigm\|建构主义]]（d=.479）居中，PBL（d=.340）与论证（d=.134）较低 | — | Q_between = 17.491 (p<.01) | 预设 | 显性指导与证据评估策略能防范劣构探究中的认知超载 |
-> | 同上 | 干预时长 | 亚组分析 | 中期（d=.925）、单次（d=.734）与短期（d=.615）显著优于全学期及以上（d=.234，不显著） | — | Q_between = 8.863 (p<.05) | 预设 | 短期干预教学浓度高且测验更贴合；长周期干预存在效应衰退与常规教学稀释 |
-> | 同上 | 教育阶段 | 亚组分析 | K-12 中小学生（d=.606）显著高于大学本科生（d=.309） | — | Q_between = 9.071 (p<.05) | 预设 | 中小学生处于认识论可塑关键期；大学生已有信念相对固化 |
-> | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 学段（School level） | 亚组分析与多元[[Meta-regression\|元回归]] | 小学（r=0.375）显著高于初中（r=0.142）与高中（r=0.157） | — | F(2, 485) = 5.683, p = 0.003 | 预设 | 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用 |
-> | 同上 | 认识论认知构念（EC constructs） | 亚组分析与多元元回归 | 总体认识论认知（r=0.288）、学习速度（r=0.207）、知识确证（r=0.187）、学习能力与[[Source of Knowledge\|知识来源]]（r=0.174）较高，确定性（r=0.122）较低 | — | F(7, 498) = 3.193, p = 0.002 | 预设 | 学习本质（外围）与认识本质（核心）效应明显，[[Ontology\|本体论]]维度的知识本质与学习成果关联较弱 |
-> | 同上 | [[Domain Specificity\|领域特异性]]、[[Measurement Alignment\|测量对齐]]、量表极性、成果类型 | 多元元回归 | 均不显著（p > 0.05） | — | 领域特异性 p=0.126；对齐 p=0.277；量表极性 p=0.159；成果类型 p=0.828 | 预设 | 成果类型不显著反映东亚文化将学习视为自我修养与持续努力，高级认识论认知产生全域性促进 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 初中 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .246 → d ≈ 0.51（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.246 | — | $Q_{between} = 15.111, p < .05$；预设 |
+> |  |  | 混合阶段 |  | — | <span class="mx-bar ef-bar conv" title="r .233 → d ≈ 0.48（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.233 | — | — |
+> |  |  | 大学 |  | — | <span class="mx-bar ef-bar conv" title="r .131 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>.131 | — | — |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 成就类型 | 概念性知识 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .190 → d ≈ 0.39（d = 2r / √(1 − r²)）"><span class="b8"></span></span>.190 | — | $Q_{between} = 1.766, p > .05$；预设 |
+> |  |  | 论证 |  | — | <span class="mx-bar ef-bar conv" title="r .154 → d ≈ 0.31（d = 2r / √(1 − r²)）"><span class="b6"></span></span>.154 | — | — |
+> |  |  | 程序性知识 |  | — | <span class="mx-bar ef-bar conv" title="r .077 → d ≈ 0.15（d = 2r / √(1 − r²)）"><span class="b3"></span></span>.077 | — | 不显著 |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 认识论构念 | 知识发展 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .274 → d ≈ 0.57（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.274 | — | $Q_{between} = 57.955, p < .001$；预设 |
+> |  |  | 一般认识论认知 |  | — | <span class="mx-bar ef-bar conv" title="r .266 → d ≈ 0.55（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.266 | — | — |
+> |  |  | 多种证成 |  | — | <span class="mx-bar ef-bar conv" title="r .225 → d ≈ 0.46（d = 2r / √(1 − r²)）"><span class="b9"></span></span>.225 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .808"><span class="b16"></span></span>.808 | — | $Q_{between} = 17.491, p < .01$；预设 |
+> |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .800"><span class="b16"></span></span>.800 | — | — |
+> |  |  | 支架 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .663"><span class="b13"></span></span>.663 | — | — |
+> |  |  | 建构主义 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .479"><span class="b10"></span></span>.479 | — | — |
+> |  |  | PBL |  | — | <span class="mx-bar ef-bar" title="Cohen's d .340"><span class="b7"></span></span>.340 | — | — |
+> |  |  | 论证 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .134"><span class="b3"></span></span>.134 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预时长 | 中期 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .925"><span class="b18"></span></span>.925 | — | $Q_{between} = 8.863, p < .05$；预设 |
+> |  |  | 单次 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .734"><span class="b15"></span></span>.734 | — | — |
+> |  |  | 短期 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .615"><span class="b12"></span></span>.615 | — | — |
+> |  |  | 全学期及以上 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .234"><span class="b5"></span></span>.234 | — | 不显著 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教育阶段 | K-12 中小学生 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .606"><span class="b12"></span></span>.606 | — | $Q_{between} = 9.071, p < .05$；预设 |
+> |  |  | 大学本科生 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .309"><span class="b6"></span></span>.309 | — | — |
+> | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 学段 | 小学 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.375 → d ≈ 0.81（d = 2r / √(1 − r²)）"><span class="b16"></span></span>0.375 | — | $F(2, 485) = 5.683, p = .003$；预设 |
+> |  |  | 初中 |  | — | <span class="mx-bar ef-bar conv" title="r 0.142 → d ≈ 0.29（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.142 | — | — |
+> |  |  | 高中 |  | — | <span class="mx-bar ef-bar conv" title="r 0.157 → d ≈ 0.32（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.157 | — | — |
+> | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 认识论认知构念 | 总体认识论认知 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.288 → d ≈ 0.60（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.288 | — | $F(7, 498) = 3.193, p = .002$；预设 |
+> |  |  | 学习速度 |  | — | <span class="mx-bar ef-bar conv" title="r 0.207 → d ≈ 0.42（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.207 | — | — |
+> |  |  | 知识确证 |  | — | <span class="mx-bar ef-bar conv" title="r 0.187 → d ≈ 0.38（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.187 | — | — |
+> |  |  | 学习能力与知识来源 |  | — | <span class="mx-bar ef-bar conv" title="r 0.174 → d ≈ 0.35（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.174 | — | — |
+> |  |  | 确定性 |  | — | <span class="mx-bar ef-bar conv" title="r 0.122 → d ≈ 0.25（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.122 | — | — |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预教学框架** 显性指导与证据评估策略能防范劣构探究中的认知超载
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预时长** 短期干预教学浓度高且测验更贴合；长周期干预存在效应衰退与常规教学稀释
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 教育阶段** 中小学生处于认识论可塑关键期；大学生已有信念相对固化
+> - **[[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] · 学段** 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用
+> - **[[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] · 认识论认知构念** 学习本质（外围）与认识本质（核心）效应明显，[[Ontology\|本体论]]维度的知识本质与学习成果关联较弱
+> - **[[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] · 分析方式** 领域特异性、测量对齐、量表极性、成果类型均不显著（多元元回归 $p = 0.126 / 0.277 / 0.159 / 0.828$）；成果类型不显著反映东亚文化将学习视为自我修养与持续努力，高级认识论认知产生全域性促进
 
 > [!ma-table]- 稳健性与偏倚
 > <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>

@@ -137,13 +137,16 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Pre-test and Post-test\|后测]]时间节点[[Interaction Effect\|调节效应]]检验
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 调节[[Variable\|变量]]亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Dependent Variable\|结果变量]]时间调节项 | 即时后测（干预刚结束） | 26 / 4,191 | $d = 0.451$ [0.267, 0.635] | — | 即时考察深层认知变化，效应稳健但受制于内化时间窗口 |
-> | 同上 | 结果变量时间调节项 | 延时后测（干预结束后追踪） | 5 / 485 | $d = 0.966$ [0.802, 1.131] | $Q_b = 16.737, df = 1, p < .001$ | 效应达到即时测验两倍以上，且组内异质性极小（$I^2 = 23.979\%$） |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量时间调节项 | 即时后测（干预刚结束） | Cohen's $d$ | k = 26, N = 4,191 | <span class="mx-bar ef-bar" title="Cohen's d 0.451"><span class="b9"></span></span>0.451 | [0.267, 0.635] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量时间调节项 | 延时后测（干预结束后追踪） | Cohen's $d$ | k = 5, N = 485 | <span class="mx-bar ef-bar" title="Cohen's d 0.966"><span class="b19"></span></span>0.966 | [0.802, 1.131] | $Q_b = 16.737, df = 1, p < .001$ |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量时间调节项** 即时考察深层认知变化，效应稳健但受制于内化时间窗口
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量时间调节项** 效应达到即时测验两倍以上，且组内异质性极小（$I^2 = 23.979\%$）
 
 ---
 

@@ -290,12 +290,16 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]教学模式调节结果
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 认识能动权行使条件（教学模式） | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 组间检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Inquiry-Based Learning\|指导式探究]]（有支架行使能动权） vs. 开放论证与无指导 PBL（放任自流） | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$ $[0.313, 1.302]$；问题驱动学习 $d = 0.340$；开放论证教学 $d = 0.134$（不显著） | $Q_b(5) = 17.491, p < .01$ | 证实缺乏证据规程支架的所谓“自主能动”往往沦为表层盲动；结构化指导是保障认识能动性有效转化的先决条件 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | [0.313, 1.302] | $Q_b(5) = 17.491, p < .01$ |
+> |  |  | 问题驱动学习 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
+> |  |  | 开放论证教学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | — | 不显著 |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 证实缺乏证据规程支架的所谓“自主能动”往往沦为表层盲动；结构化指导是保障认识能动性有效转化的先决条件
 
 > [!ref-table]- 其他实证与理论框架检验结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -144,13 +144,21 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.23, 0.42] | Hedges' $g+$ / 随机效应模型 | $k = 114$（实验组高于对照组） / $N = —$ | 干预因素：对话教学对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $Q_b(1) = 4.53, p = .03$（对比无差异组 $g+=0.19, k=87$） | 严格纳入真实验与[[Quasi-Experimental Designs\|准实验设计]]；通用批判性思维标准化测试结果 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 教师主导对话：教师全班讨论 vs 教师小组讨论 vs 教师提问 | 全班讨论 $k = 16$；小组讨论 $k = 14$；教师提问 $k = 19$ | 全班讨论 $g+ = 0.42$ $[0.20, 0.64]$；小组讨论 $g+ = 0.41$ $[0.19, 0.63]$；教师提问 $g+ = 0.38$ $[0.21, 0.56]$ | 均 $p < .001$ 显著大于 0 | 教师直接引导和结构化推进能够最大程度激活认知反思 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 学生自主互动与特定对话：无教师小组讨论 vs 正式辩论 vs [[Socratic Dialogue\|苏格拉底对话]] vs 学生自主提问 | 无教师小组 $k = 24$；辩论 $k = 8$；苏格拉底 $k = 8$；学生提问 $k = 4$ | 无教师小组 $g+ = 0.26$ $[0.09, 0.43]$；辩论 $g+ = 0.32$ $[0.03, 0.61]$；苏格拉底 $g+ = 0.27$ $[-0.01, 0.55]$；学生提问 $g+ = 0.37$ $[-0.02, 0.77]$ | 均大于 0 | 结构化规则（辩论）或自主提问句干[[Scaffolding\|脚手架]]显著优于无组织的自由讨论 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 教师主导对话 | 教师全班讨论 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.42"><span class="b8"></span></span>0.42 | [0.20, 0.64] | 均 $p < .001$ 显著大于 0 |
+> |  |  | 教师小组讨论 |  | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 0.41"><span class="b8"></span></span>0.41 | [0.19, 0.63] | — |
+> |  |  | 教师提问 |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | [0.21, 0.56] | — |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 学生自主互动与特定对话 | 无教师小组讨论 | Hedges' $g$ | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.09, 0.43] | 均大于 0 |
+> |  |  | 正式辩论 |  | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.03, 0.61] | — |
+> |  |  | 苏格拉底对话 |  | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.27"><span class="b5"></span></span>0.27 | [−0.01, 0.55] | — |
+> |  |  | 学生自主提问 |  | k = 4 | <span class="mx-bar ef-bar" title="Hedges' g 0.37"><span class="b7"></span></span>0.37 | [−0.02, 0.77] | — |
+>
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 教师主导对话** 教师直接引导和结构化推进能够最大程度激活认知反思
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 学生自主互动与特定对话** 结构化规则（辩论）或自主提问句干[[Scaffolding\|脚手架]]显著优于无组织的自由讨论
 
 ---
 

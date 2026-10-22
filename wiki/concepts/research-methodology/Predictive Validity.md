@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-23
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
@@ -258,12 +258,15 @@ updated: 2026-10-20
 
 亚组与回归分析进一步证实了变量角色对效应强度的关键调节作用。
 
-> [!ma-table]- 调节变量与亚组分析
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节变量 | 分析方式 | 效应较大的条件或方向 | 条件效应或 β | 交互或回归检验 | 是否预设 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 变量角色（预测变量 vs 结果变量） | [[Second-Order Meta-Regression\|二阶元回归]] | 创造力作为预测变量效应显著高于作为结果变量 | $r = 0.29$ vs $r = 0.12$ ($\beta = 0.18$) | $F(1, 16.3) = 9.43, p = .007$ | 预设 | 全领域唯一显著调节变量，证实预测效度的稳健性 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 变量角色 | 预测变量 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.29 → d ≈ 0.61（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.29 | — | 二阶元回归 $\beta = 0.18$；$F(1, 16.3) = 9.43, p = .007$ |
+> |  |  | 结果变量 |  | — | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | — | — |
+>
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 变量角色** 全领域唯一显著调节变量，证实预测效度的稳健性
 
 除元分析数据外，大样本[[Cohort Study|追踪研究]]亦实证揭示了不同教师预测源对学生学业增益的跨期预测力差异。
 

@@ -107,12 +107,14 @@ updated: 2026-10-22
 > | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.24"><span class="b5"></span></span>0.24 | $p < .05$ | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | 实验设计；游戏化互动激发操作性技能练习动机 |
 > | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.17"><span class="b3"></span></span>0.17 | $p < .05$ | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 人工智能教育机器人（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 人工智能教育机器人（Robotics） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.474"><span class="b9"></span></span>0.474 | [0.150, 0.799] | $p < .001$ |
+>
+> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著
 
 > [!metax] [机器人教育 · Robotics](https://www.visiblelearningmetax.com/influences/view/robotics)
 > 技术、学校与校外策略 › 虚拟／增强现实

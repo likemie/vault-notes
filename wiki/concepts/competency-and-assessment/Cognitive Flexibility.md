@@ -204,13 +204,22 @@ updated: 2026-10-22
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | [0.386, 1.138] | Hedges' $g$ / 多层随机效应模型 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | **【干预[[Variable\|变量]]】** 聚焦于培养[[Cognitive Shifting\|认知灵活性]]与[[Divergent Thinking\|发散思维]]的思维训练干预对[[Creativity\|创造力]]表现的总体促学效应 | $SE = 0.191, Z = 3.987 (p < .001)$；异质性显著 | 证实针对认知灵活性的结构化练习能显著提升大学生的综合创造与问题解决表现 |
 > | Karr et al. (2018) | <span class="mx-bar ef-bar conv" title="r 0.36 → d ≈ 0.77（d = 2r / √(1 − r²)）"><span class="b15"></span></span>0.36 | [0.29, 0.43] | 皮尔逊相关 $r$ / 随机效应模型 | $k = 42$ 项实证研究 / $N = 8,920$ | **【关联/预测[[Construct\|构念]]】** 认知灵活性（作为核心[[Executive Function\|执行功能]]）与高阶认知及[[Academic Achievement\|学业成就]]表现的元分析关联 | 异质性中等 | 证实认知灵活性是预测个体在劣构环境中取得优异学业与[[Problem Solving\|问题解决]]表现的稳健心理构念 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组（训练类别 / 测查[[Paradigm\|范式]]） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 【干预变量·训练方式亚组】 | 干预方式：言语训练（$g = 0.998$） vs 思维灵活性训练（$g = 0.762$） vs 技术型训练（$g = 0.552$） | 言语 $N=11$ / 思维 $N=31$ / 技术 $N=20$ | 言语 $g = 0.998$；思维 **$g = 0.762$**；技术 $g = 0.552$ | 组间差异显著（$p < .01$） | 证实聚焦认知灵活性的思维训练效能稳居前列，显著优于单纯规则套用的技术型训练 |
-> | Karr et al. (2018) | 【测量工具调节】 | 测查范式：电脑化任务转换（Task-Switching，$r = 0.39$） vs 纸笔量表评定（$r = 0.22$） | 实验任务 $k = 28$ / 问卷 $k = 14$ | 实验任务 **$r = 0.39$**；问卷评定 $r = 0.22$ | 差异显著（$p < .01$） | 客观任务转换范式测量认知灵活性能更精准排除主观自陈中的方法变异污染 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预方式 | 言语训练 | Hedges' $g$ | N=11 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .01$） |
+> |  |  | 思维灵活性训练 |  | N=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
+> |  |  | 技术型训练 |  | N=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
+> | Karr et al. (2018) | 测查范式 | 电脑化任务转换（Task-Switching） | $r$ | k = 28 | <span class="mx-bar ef-bar conv" title="r 0.39 → d ≈ 0.85（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.39 | — | 差异显著（$p < .01$） |
+> |  |  | 纸笔量表评定 |  | k = 14 | <span class="mx-bar ef-bar conv" title="r 0.22 → d ≈ 0.45（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.22 | — | — |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 心理维度 | 认知加工能力（Cognitive） | $r$ | E = 26 | <span class="mx-bar ef-bar conv" title="r 0.23 → d ≈ 0.47（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.23 | — | 差异显著（$p < .05$） |
+> |  |  | 外认知心理特质（Extracognitive） |  | E = 34 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | — | — |
+>
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预方式** 证实聚焦认知灵活性的思维训练效能稳居前列，显著优于单纯规则套用的技术型训练
+> - **Karr et al. (2018) · 测查范式** 客观任务转换范式测量认知灵活性能更精准排除主观自陈中的方法变异污染
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 心理维度** 认知加工能力的预测效应量显著高于单纯的人格特质或情绪信念
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -218,13 +227,6 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.23 → d ≈ 0.47（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.23 | [0.12, 0.34] | 皮尔逊相关 $r$ / 多水平 CHE + RVE | $M = 52$ 项一阶元分析；认知加工 $E = 26$ | **【关联构念·认知加工维度】** 包含认知灵活性、[[Working Memory\|工作记忆]]与信息加工在内的认知能力对全域创造力的二阶综合关联 | 95% PI $[-0.27, 0.62]$ | 确立以认知灵活性为核心的认知加工网络构成了创造力最重要的底层基础之一 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 【构念维度比较】 | 心理维度：认知加工能力（Cognitive，$r = 0.23$） vs 外认知心理特质（Extracognitive，$r = 0.14$） | 认知 $E = 26$ / 外认知 $E = 34$ | 认知加工 **$r = 0.23$**；外认知特质 $r = 0.14$ | 差异显著（$p < .05$） | 认知加工能力的预测效应量显著高于单纯的人格特质或情绪信念 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

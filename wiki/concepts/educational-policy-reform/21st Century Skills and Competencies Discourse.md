@@ -272,12 +272,17 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对涵盖 21 世纪技能的高阶思维产出的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, 	au^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖 21 世纪技能、批判性思维与创造性思维，证实合作建构对高阶素养的高效力 |
 
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果[[Variable\|变量]] | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, 	ext{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，开放探究与结构化合作更能激发 21 世纪高阶素养 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, 	ext{df} = 3, p = .02$ |
+> |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
+> |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |
+> |  |  | 综合合作 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | — |
+>
+> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 合作学习教学技术** 预设分析；组间差异达统计显著，开放探究与结构化合作更能激发 21 世纪高阶素养
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

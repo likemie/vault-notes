@@ -153,16 +153,22 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Academic Achievement\|学业成就]]测量类型[[Interaction Effect\|调节效应]]检验
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 学业成就类型亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Dependent Variable\|结果变量]]分类 | 论证表现（Argumentation） | 5 / 477 | $d = 1.047$ [0.481, 1.614] | — | 证据确证与论点整合产生大幅飞跃 |
-> | 同上 | 结果[[Variable\|变量]]分类 | 概念性知识（Conceptual） | 19 / 2,455 | $d = 0.557$ [0.323, 0.791] | — | 敏锐检验概念转变与深层原理理解 |
-> | 同上 | 结果变量分类 | 陈述性知识（Declarative） | 3 / 261 | $d = 0.494$ [0.244, 0.743] | — | 涉及事实性命题与术语内化 |
-> | 同上 | 结果变量分类 | 程序性知识（Procedural） | 1 / 100 | $d = 0.140$ [-0.257, 0.537] | $Q_b = 8.940, df = 4, p = .063$ | 单纯规则执行与常规操作，效应未达统计显著 |
-> | 同上 | 结果变量分类 | 一般常规知识测验 | 5 / 1,529 | $d = 0.127$ [-0.383, 0.637] | — | 学校常规模拟题与小测验，效应未达统计显著 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 论证表现（Argumentation） | Cohen's $d$ | k = 5, N = 477 | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | [0.481, 1.614] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 概念性知识（Conceptual） | Cohen's $d$ | k = 19, N = 2,455 | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | [0.323, 0.791] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 陈述性知识（Declarative） | Cohen's $d$ | k = 3, N = 261 | <span class="mx-bar ef-bar" title="Cohen's d 0.494"><span class="b10"></span></span>0.494 | [0.244, 0.743] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 程序性知识（Procedural） | Cohen's $d$ | k = 1, N = 100 | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | [−0.257, 0.537] | $Q_b = 8.940, df = 4, p = .063$ |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 一般常规知识测验 | Cohen's $d$ | k = 5, N = 1,529 | <span class="mx-bar ef-bar" title="Cohen's d 0.127"><span class="b3"></span></span>0.127 | [−0.383, 0.637] | — |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量分类** 证据确证与论点整合产生大幅飞跃
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量分类** 敏锐检验概念转变与深层原理理解
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量分类** 涉及事实性命题与术语内化
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量分类** 单纯规则执行与常规操作，效应未达统计显著
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量分类** 学校常规模拟题与小测验，效应未达统计显著
 
 ---
 

@@ -160,14 +160,23 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | [0.24, 0.44] | Hedges' $g+$ / 随机效应模型 | $k = 96$（实验组高于对照组） / $N = —$ | 干预因素：真实性教学对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $Q_b(1) = 4.07, p = .044$（对比无差异组 $g+=0.22, k=118$） | 纳入真实验与高质准实验，采用标准化批判性思维测试作为结果测量 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 具体教学子策略：[[Role-playing\|角色扮演]] vs 应用型问题解决 vs [[Simulation-Based Learning\|情境模拟]] vs 两难困境分析 | 角色扮演 $k = 5$；应用解题 $k = 31$；情境模拟 $k = 23$；两难困境 $k = 3$ | 角色扮演 $g+ = 0.61$ $[0.24, 0.98]$；应用解题 $g+ = 0.35$ $[0.20, 0.49]$；情境模拟 $g+ = 0.26$ $[0.09, 0.43]$；两难困境 $g+ = 0.11$ $[-0.37, 0.58]$ | [[Role-playing\|角色扮演]]、应用解题与情境模拟均显著大于 0 | 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size\|效应量]]最高 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 策略组合梯度：真实性教学（A）vs 真实性+[[Dialogue in Education\|对话]]（A+D）vs 真实性+对话+导师指导（A+D+M） | A 单独 $k = 22$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维组合展现最强协同增益 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 思维倾向培养：真实性教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 8$ | $g+ = 0.29$ | 显著大于 0 | 解决真实[[Wicked Problem\|劣构问题]]有助于激发探究动机与审慎求真的思维倾向 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 具体教学子策略 | 角色扮演 | Hedges' $g$ | k = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.61"><span class="b12"></span></span>0.61 | [0.24, 0.98] | [[Role-playing\|角色扮演]]、应用解题与情境模拟均显著大于 0 |
+> |  |  | 应用型问题解决 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.35"><span class="b7"></span></span>0.35 | [0.20, 0.49] | — |
+> |  |  | 情境模拟 |  | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.09, 0.43] | — |
+> |  |  | 两难困境分析 |  | k = 3 | <span class="mx-bar ef-bar" title="Hedges' g 0.11"><span class="b2"></span></span>0.11 | [−0.37, 0.58] | — |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 策略组合梯度 | 真实性教学（A） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.25"><span class="b5"></span></span>0.25 | [0.05, 0.46] | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ |
+> |  |  | 真实性+对话（A+D） |  | k = 45 | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.17, 0.47] | — |
+> |  |  | 真实性+对话+导师指导（A+D+M） |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | — |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 思维倾向培养 | 真实性教学干预对批判性思维倾向的促进效应 | Hedges' $g$ | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | — | 显著大于 0 |
+>
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 具体教学子策略** 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size\|效应量]]最高
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 策略组合梯度** 三维组合展现最强协同增益
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 思维倾向培养** 解决真实[[Wicked Problem\|劣构问题]]有助于激发探究动机与审慎求真的思维倾向
 
 ---
 

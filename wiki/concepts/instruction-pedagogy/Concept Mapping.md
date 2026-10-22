@@ -210,14 +210,6 @@ updated: 2026-10-22
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | [0.403, 0.692] | Hedges' $g$ / 随机效应模型 | $k = 36$ 项实证研究 / $N = 2,410$ | **【干预变量】** 概念图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学效应 | 异质性显著，跨学科研究稳健有效 | 证实多中心命题网络对高阶思维具有中等程度的稳健促进，但受外在认知开销制约 |
 > | Nesbit and Adesope (2006) | 见亚组表 | — | Cohen's $d$ / 随机效应模型 | $k = 55$ 项实证研究 / $N = 5,818$ | **【干预[[Variable\|变量]]】** 概念图作为教学与学习策略对知识保持与深层理解迁移的元分析效应 | 跨学科领域稳健有效 | 证实无论是自制还是阅读概念图，均显著优于传统文本阅读与纯讲授教学 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组（活动方式 / 形态效能对比） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Nesbit and Adesope (2006) | 【干预变量·活动方式亚组】 | 学习活动方式：学习者自主构建概念图（$d = 0.64$） vs 学习教师预制概念图（$d = 0.47$） | 自主构建 $k = 32$ / 预制图 $k = 23$ | 自主构建 **$d = 0.64$**；学习预制图 **$d = 0.47$** | 组间差异显著（$p < .05$） | 证实主动参与概念节点筛选与命题连线建构比被动阅读图示带来更深的认知加工 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 【干预变量·形态效能级差】 | 组织器形态：[[Mind Mapping\|思维导图]]（$g = 1.041$） vs [[Argument Mapping\|论证图]]（$g = 0.798$） vs 概念图（$g = 0.548$） | 导图 $k = 16$ / 论证 $k = 20$ / 概念 $k = 36$ | 思维导图 $g = 1.041$；论证图 $g = 0.798$；概念图 **$g = 0.548$** | 成对 Wald 检验 $p < .001$ | 确立概念图因网状交叉连接与命题连接词规范产生额外认知开销，促学净效应略低于极简导图 |
-
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -232,13 +224,17 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Nesbit and Adesope (2006) | 结果类型 | 保持 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.60"><span class="b12"></span></span>0.60 | [0.49, 0.71] | — |
 > |  |  | 迁移 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.46"><span class="b9"></span></span>0.46 | [0.33, 0.59] | — |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+> | Nesbit and Adesope (2006) | 学习活动方式 | 学习者自主构建概念图 | Cohen's $d$ | k = 32 | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | 组间差异显著（$p < .05$） |
+> |  |  | 学习教师预制概念图 |  | k = 23 | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | — |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 组织器形态 | 思维导图 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | — | 成对 Wald 检验 $p < .001$ |
+> |  |  | 论证图 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | — | — |
+> |  |  | 概念图 |  | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | — | — |
+> | Nesbit and Adesope (2006) | 知识类型 | 概念性结构理解与知识整合 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.60"><span class="b12"></span></span>0.60 | — | 组间差异显著（$p < .01$） |
+> |  |  | 事实性定义机械记忆 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.35"><span class="b7"></span></span>0.35 | — | — |
 >
-> | 二阶元分析 | 当前概念角色 | 对应亚组（认知层次亚组） | 证据数 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Nesbit and Adesope (2006) | 【干预变量·认知层次】 | 知识类型：概念性结构理解与知识整合（$d = 0.60$） vs 事实性定义机械记忆（$d = 0.35$） | 概念理解 $k = 38$ / 事实记忆 $k = 17$ | 概念结构理解 **$d = 0.60$**；事实定义记忆 **$d = 0.35$** | 组间差异显著（$p < .01$） | 概念图的核心优势在于促进概念间关系的深层同化与整合，而非记忆孤立事实 |
+> - **Nesbit and Adesope (2006) · 学习活动方式** 证实主动参与概念节点筛选与命题连线建构比被动阅读图示带来更深的认知加工
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 组织器形态** 确立概念图因网状交叉连接与命题连接词规范产生额外认知开销，促学净效应略低于极简导图
+> - **Nesbit and Adesope (2006) · 知识类型** 概念图的核心优势在于促进概念间关系的深层同化与整合，而非记忆孤立事实
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

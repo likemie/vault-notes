@@ -247,13 +247,19 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 关键认知调节[[Variable\|变量]]（干预时长反映依赖演化） | 短期 0–8 周（1）<br>中期 8–16 周（2）<br>长期 >16 周（3） | 15 / —<br>31 / —<br>13 / — | $g = 0.494$ [0.272, 0.717]<br>$g = 0.759$ [0.576, 0.943]<br>$g = 0.372$ [0.196, 0.549] | $Q_b = 9.106, df = 2, p = 0.011$（组间差异显著） | 长期干预（$>16$ 周）促学效应大幅回落，实证证实缺乏消退机制的长期技术使用诱发心理依赖与认知外包惯性；8–16 周为建设性卸载黄金平衡窗口。 |
-> | 同上 | 关键认知调节变量（[[Self-Regulated Learning\|SRL]] 作为抗外包中和器） | 高自我调节学习组（1）<br>低自我调节学习组（2） | 31 / —<br>25 / — | $g = 0.863$ [0.679, 1.048]<br>$g = 0.284$ [0.188, 0.380] | $Q_b = 40.962, df = 1, p < 0.001$（组间差异极显著） | 低自律组由于全盘心智外包与缺乏甄别，增益极其微弱；高自律组依托元认知警觉实现高阶赋能，确立了 SRL 作为中和认知卸载负效应的核心屏障。 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预时长 | 短期（0–8 周） | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | [0.272, 0.717] | $Q_b = 9.106, df = 2, p = .011$ |
+> |  |  | 中期（8–16 周） |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | [0.576, 0.943] | — |
+> |  |  | 长期（> 16 周） |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | [0.196, 0.549] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 自我调节学习（SRL） | 高 SRL | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < .001$ |
+> |  |  | 低 SRL |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 干预时长** 长期干预（$>16$ 周）促学效应大幅回落，实证证实缺乏消退机制的长期技术使用诱发心理依赖与认知外包惯性；8–16 周为建设性卸载黄金平衡窗口。
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 自我调节学习（SRL）** 低自律组由于全盘心智外包与缺乏甄别，增益极其微弱；高自律组依托元认知警觉实现高阶赋能，确立了 SRL 作为中和认知卸载负效应的核心屏障。
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

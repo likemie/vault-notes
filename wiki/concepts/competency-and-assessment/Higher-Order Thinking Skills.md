@@ -335,24 +335,56 @@ updated: 2026-10-22
 > | Solissa et al. (2023) | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | [0.66, 1.03] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | 结果变量：拼图法对高阶思维（[[21st Century Skills and Competencies Discourse\|21世纪技能]]）的促进效应 | — | 跨学科跨学段综合干预，涵盖批判性、创造性与问题解决技能（引自 Güngör et al., 2026） |
 > | Dibek et al. (2025) | <span class="mx-bar ef-bar" title="Cohen's d 0.63"><span class="b13"></span></span>0.63 | [0.12, 1.14] | Cohen's $d$ / 随机效应模型 | $k = 29$ / $N = 2,966$ | 结果变量：人工智能教育应用对学生高阶思维技能（HOTS）的促进效应 | — | 涵盖计算思维量表（[[Computational Thinking Scale\|CTS]]）与批判性思维倾向（[[California Critical Thinking Disposition Inventory\|CCTDI]]）测量，跨学科多技术干预（引自 [[Argument_Unal_2026_JECR\|Ünal et al., 2026]]） |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（认知维度构成） | [[Problem Solving\|问题解决]]（$k=16$） vs [[Critical Thinking\|批判性思维]]（$k=20$） vs [[Creativity\|创造力]]（$k=23$） | $k = 59$ / — | 问题解决 $g = 0.745$ $[0.521, 0.970]$；批判性 $g = 0.691$ $[0.464, 0.918]$；创造力 $g = 0.444$ $[0.259, 0.629]$ | $Q = 4.961, df = 2, p = 0.084$ | 程序性问题解决与反思批判获益显著，独创性构想相对受限 |
-> | 同上 | 结果变量（调节变量：干预时长） | 0–8 周（$k=15$） vs 8–16 周（$k=31$） vs $>16$ 周（$k=13$） | $k = 59$ / — | 0–8 周 $g = 0.494$；8–16 周 $g = 0.759$；$>16$ 周 $g = 0.372$ | $Q_b = 9.106, df = 2, p = 0.011$ | 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口 |
-> | 同上 | 结果变量（调节变量：[[Self-Regulated Learning\|自我调节学习]]） | 高 [[Self-Regulated Learning\|SRL]] 能力组（$k=31$） vs 低 SRL 能力组（$k=25$） | $k = 56$ / — | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自我调节构成最显著分流门槛，高能动性学习者促学增益极其显著 |
-> | 同上 | 结果变量（调节变量：学段层次） | K-12 基础教育（$k = 13$） vs 高等教育阶段（$k = 46$） | $k = 59$ / — | K-12 $g = 0.857$ $[0.542, 1.172]$；高等教育 $g = 0.539$ $[0.412, 0.667]$ | $Q_b = 3.353, df = 1, p = 0.067$（边缘显著） | K-12 显性监管与任务约束更强，高等教育非结构化环境易导致代写套用 |
-> | 同上 | 结果变量（调节变量：教学模式） | 讲授式（$k = 6$） vs [[Project-Based Learning\|项目式学习]]（$k = 31$） vs 混合式（$k = 22$） | $k = 59$ / — | 讲授式 $g = 0.396$；项目式 $g = 0.717$；混合式 $g = 0.525$ | $Q_b = 2.918, df = 2, p = 0.232$ | 真实[[Task Structure\|劣构任务]]驱动的 PBL 展现出最显著的高阶思维促学成效 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 9)]] | 结果变量（[[Construct\|构念]]构成） | 高阶思维倾向（Dispositions） | $k = 20$ / — | $g = 0.945$ $[0.670, 1.221]$ | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ | 李克特量表测度，激发探究与反思心向 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 10)]] | 结果变量（构念构成） | 高阶认知过程（Processes） | $k = 22$ / — | $g = 0.912$ $[0.631, 1.194]$ | 与技能差异 $W = 137.48, p < .001$；与倾向差异 $W = 0.39, p = .533$ | 开放性写作与评分量规测度，直接反映思维加工质量 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 11)]] | 结果变量（构念构成） | 高阶思维技能结果（Skills） | $k = 29$ / — | $g = 0.560$ $[0.411, 0.708]$ | 组间差异显著 | 多项选择标准化测验测度，反映远端综合技能 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 12)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | $k = 14$ / — | $g = 1.167$ $[0.841, 1.493]$ | $Q_b = 7.07, p < .01$ | 生成性独创发散构想获益显著高于聚合逻辑 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 13)]] | 结果变量（思维类型） | [[Convergent Thinking\|聚合思维]]（Convergent Thinking） | $k = 55$ / — | $g = 0.680$ $[0.535, 0.825]$ | 组间差异显著 | 侧重逻辑批判与确定性推理 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 14)]] | 结果变量（干预形态） | [[Mind Mapping\|思维导图]]（Mind Mapping） | $k = 16$ / — | $g = 1.041$ $[0.704, 1.379]$ | $Q_b = 9.13, p < .05$；两两 Wald 均 $p < .001$ | 单一中心发散，认知负荷最低，促学效应最强 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 15)]] | 结果变量（干预形态） | [[Argument Mapping\|论证图]]（Argument Mapping） | $k = 12$ / — | $g = 0.798$ $[0.469, 1.237]$ | 组间差异显著 | 结构化逻辑推理与证据支持 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 16)]] | 结果变量（干预形态） | [[Concept Mapping\|概念图]]（Concept Mapping） | $k = 36$ / — | $g = 0.548$ $[0.403, 0.692]$ | 组间差异显著 | 复杂交叉网络表征易带来额外认知开销 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（认知维度构成） | 问题解决 | Hedges' $g$ | k=16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | [0.521, 0.970] | $Q = 4.961, df = 2, p = 0.084$ |
+> |  |  | 批判性思维 |  | k=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | [0.464, 0.918] | — |
+> |  |  | 创造力 |  | k=23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | [0.259, 0.629] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量 | 0~8 周 | Hedges' $g$ | k=15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
+> |  |  | 8~16 周 |  | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
+> |  |  | >16 周 |  | k=13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预措施 | 高 SRL 能力组 | Hedges' $g$ | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  |  | 低 SRL 能力组 |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预措施 | K-12 基础教育 | Hedges' $g$ | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.857"><span class="b17"></span></span>0.857 | [0.542, 1.172] | $Q_b = 3.353, df = 1, p = 0.067$（边缘显著） |
+> |  |  | 高等教育阶段 |  | k = 46 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | [0.412, 0.667] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预措施 | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$ |
+> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
+> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 9)]] | 结果变量（构念构成） | 高阶思维倾向（Dispositions） | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.945"><span class="b19"></span></span>0.945 | [0.670, 1.221] | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 10)]] | 结果变量（构念构成） | 高阶认知过程（Processes） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.912"><span class="b18"></span></span>0.912 | [0.631, 1.194] | 与技能差异 $W = 137.48, p < .001$；与倾向差异 $W = 0.39, p = .533$ |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 11)]] | 结果变量（构念构成） | 高阶思维技能结果（Skills） | Hedges' $g$ | k = 29 | <span class="mx-bar ef-bar" title="Hedges' g 0.560"><span class="b11"></span></span>0.560 | [0.411, 0.708] | 组间差异显著 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 12)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$ |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 13)]] | 结果变量（思维类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 14)]] | 结果变量（干预形态） | 思维导图（Mind Mapping） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | [0.704, 1.379] | $Q_b = 9.13, p < .05$；两两 Wald 均 $p < .001$ |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 15)]] | 结果变量（干预形态） | 论证图（Argument Mapping） | Hedges' $g$ | k = 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | [0.469, 1.237] | 组间差异显著 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026, p. 16)]] | 结果变量（干预形态） | 概念图（Concept Mapping） | Hedges' $g$ | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | [0.403, 0.692] | 组间差异显著 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ |
+> |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
+> |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |
+> |  |  | 综合合作 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | — |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | AI 干预技术形态 | 编程助手/计算机科学 | ES | E = 2 | <span class="mx-bar ef-bar" title="ES 0.99"><span class="b20"></span></span>0.99 | [0.62, 1.35] | $Q_{bg}(4) = 3.03, \text{df} = 4, p = .55$ |
+> |  |  | 智能对话代理 |  | E = 4 | <span class="mx-bar ef-bar" title="ES 0.74"><span class="b15"></span></span>0.74 | [0.49, 0.98] | — |
+> |  |  | 综合多类型平台 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.66"><span class="b13"></span></span>0.66 | [0.53, 0.79] | — |
+> |  |  | 自动化评估工具 |  | E = 1 | <span class="mx-bar ef-bar" title="ES 0.39"><span class="b8"></span></span>0.39 | [−.19, 0.97] | — |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（认知维度构成）** 程序性问题解决与反思批判获益显著，独创性构想相对受限
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量** 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 干预措施** 自我调节构成最显著分流门槛，高能动性学习者促学增益极其显著
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 干预措施** K-12 显性监管与任务约束更强，高等教育非结构化环境易导致代写套用
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 干预措施** 真实[[Task Structure\|劣构任务]]驱动的 PBL 展现出最显著的高阶思维促学成效
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 9)]] · 结果变量（构念构成）** 李克特量表测度，激发探究与反思心向
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 10)]] · 结果变量（构念构成）** 开放性写作与评分量规测度，直接反映思维加工质量
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 11)]] · 结果变量（构念构成）** 多项选择标准化测验测度，反映远端综合技能
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 12)]] · 结果变量（思维类型）** 生成性独创发散构想获益显著高于聚合逻辑
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 13)]] · 结果变量（思维类型）** 侧重逻辑批判与确定性推理
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 14)]] · 结果变量（干预形态）** 单一中心发散，认知负荷最低，促学效应最强
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 15)]] · 结果变量（干预形态）** 结构化逻辑推理与证据支持
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026, p. 16)]] · 结果变量（干预形态）** 复杂交叉网络表征易带来额外认知开销
+> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 合作学习教学技术** 预设分析；组间差异达统计显著，但 [[Cooperative Integrated Reading and Composition\|CIRC]] 仅由 1 项一阶元分析支撑，需警惕小证据规模偏差
+> - **Ünal et al. (2026) · AI 干预技术形态** 组间差异不显著，表明 AI 对高阶认知与学习产出的赋能跨越多种技术形态保持相对稳健，但编程与对话技术点估计最高
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -361,14 +393,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维技能（HOTS）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖批判性思维、创造性思维与21世纪技能，样本以印尼为主，全集异质性极高 |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | <span class="mx-bar ef-bar" title="SMD 0.63"><span class="b13"></span></span>0.63 | [0.12, 1.14] | 标准化均数差 $ES$（Hedges' $g$ / Cohen's $d$）/ 随机效应模型经典逆方差加权 | $M = 19$（总体）；$E = 1$（HOTS 专属亚组）；$k = 29$；$N = 2,966$（HOTS 亚组；全集 $N = 58,702$） | 结果变量：AI 教育应用对高阶思维技能的促进效应（1 项 FOM 专属亚组） | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | HOTS 专属亚组仅 1 项 FOM，置信区间较宽；全集跨学段与学科异质性高（$I^2 = 84.78\%$）；检索范围限 2020–2025 年英语发表文献 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]] | 合作学习教学技术：综合合作 vs [[Jigsaw\|拼图法]] vs 小组调查 vs CIRC 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达统计显著，但 [[Cooperative Integrated Reading and Composition\|CIRC]] 仅由 1 项一阶元分析支撑，需警惕小证据规模偏差 |
-> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量 | AI 干预技术形态：编程助手/计算机科学 vs 智能[[Dialogue in Education\|对话]]代理 vs 综合多类型平台 vs 自动化评估工具 | $E = 2$（编程助手）/ $E = 4$（对话代理）/ $E = 14$（综合平台）/ $E = 1$（评估工具） | 编程助手 $ES = 0.99$ $[0.62, 1.35]$；对话代理 $ES = 0.74$ $[0.49, 0.98]$；综合平台 $ES = 0.66$ $[0.53, 0.79]$；评估工具 $ES = 0.39$ $[-.19, 0.97]$ | $Q_{bg}(4) = 3.03, \text{df} = 4, p = .55$ | 组间差异不显著，表明 AI 对高阶认知与学习产出的赋能跨越多种技术形态保持相对稳健，但编程与对话技术点估计最高 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

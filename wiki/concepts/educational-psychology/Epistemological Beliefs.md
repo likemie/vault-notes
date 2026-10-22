@@ -185,17 +185,24 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]理论模型[[Interaction Effect\|调节效应]]检验
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 理论模型亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Kuhn 与 Barzilai 发展协调模型 | 5 / 396 | $d = 0.633$ [0.293, 0.973] | — | 聚焦多重视角论证与证据协调反思 |
-> | 同上 | 干预指导理论 | Hofer 与 Pintrich 多维信念模型 | 10 / 1,736 | $d = 0.625$ [0.251, 1.000] | — | 聚焦确定性、简单性、来源与辩护四维度 |
-> | 同上 | 干预指导理论 | Greene 与 Bråten 综合模型 | 4 / 557 | $d = 0.482$ [0.013, 0.951] | — | 整合[[Ontology\|本体论认知]]与多文本任务认知 |
-> | 同上 | 干预指导理论 | Hammer 情境资源模型 | 3 / 530 | $d = 0.482$ [-0.883, 1.846] | — | 关注微观认知资源，但效应[[Confidence Interval\|置信区间]]跨零 |
-> | 同上 | 干预指导理论 | Kitchener 反思判断模型 | 3 / 489 | $d = 0.391$ [0.093, 0.689] | — | 关注劣构问题的[[Reflexivity\|反思性]]判断层级 |
-> | 同上 | 干预指导理论 | Schommer 认知信念模型 | 3 / 665 | $d = 0.185$ [-0.124, 0.495] | $Q_b = 4.929, df = 5, p = .425$ | 混入固定能力与快速学习等特质，未达统计显著 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Kuhn 与 Barzilai 发展协调模型 | Cohen's $d$ | k = 5, N = 396 | <span class="mx-bar ef-bar" title="Cohen's d 0.633"><span class="b13"></span></span>0.633 | [0.293, 0.973] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Hofer 与 Pintrich 多维信念模型 | Cohen's $d$ | k = 10, N = 1,736 | <span class="mx-bar ef-bar" title="Cohen's d 0.625"><span class="b12"></span></span>0.625 | [0.251, 1.000] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Greene 与 Bråten 综合模型 | Cohen's $d$ | k = 4, N = 557 | <span class="mx-bar ef-bar" title="Cohen's d 0.482"><span class="b10"></span></span>0.482 | [0.013, 0.951] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Hammer 情境资源模型 | Cohen's $d$ | k = 3, N = 530 | <span class="mx-bar ef-bar" title="Cohen's d 0.482"><span class="b10"></span></span>0.482 | [−0.883, 1.846] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Kitchener 反思判断模型 | Cohen's $d$ | k = 3, N = 489 | <span class="mx-bar ef-bar" title="Cohen's d 0.391"><span class="b8"></span></span>0.391 | [0.093, 0.689] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Schommer 认知信念模型 | Cohen's $d$ | k = 3, N = 665 | <span class="mx-bar ef-bar" title="Cohen's d 0.185"><span class="b4"></span></span>0.185 | [−0.124, 0.495] | $Q_b = 4.929, df = 5, p = .425$ |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 聚焦多重视角论证与证据协调反思
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 聚焦确定性、简单性、来源与辩护四维度
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 整合[[Ontology\|本体论认知]]与多文本任务认知
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 关注微观认知资源，但效应[[Confidence Interval\|置信区间]]跨零
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 关注劣构问题的[[Reflexivity\|反思性]]判断层级
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 混入固定能力与快速学习等特质，未达统计显著
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

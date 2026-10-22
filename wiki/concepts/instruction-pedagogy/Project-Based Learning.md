@@ -176,12 +176,14 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | [[Generative Artificial Intelligence\|生成式人工智能]]干预下的学生[[Higher-Order Thinking Skills\|高阶思维]]培养（项目式学习亚组） | 31 / — | $g = 0.717$ [0.507, 0.928] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） | 亚组效应达中到大水平且高度显著（$Z = 6.674, p < 0.001$）；三分类教学模式整体组间检验未达显著，但项目式学习效应量明显高于传统讲授式教学；实证研究高度向探究设计倾斜。 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | 生成式人工智能干预下的学生高阶思维培养（项目式学习亚组） | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | [0.507, 0.928] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 教学组织模式（干预环境）** 亚组效应达中到大水平且高度显著（$Z = 6.674, p < 0.001$）；三分类教学模式整体组间检验未达显著，但项目式学习效应量明显高于传统讲授式教学；实证研究高度向探究设计倾斜。
 
 > [!metax] [项目式学习 · Project-based learning](https://www.visiblelearningmetax.com/influences/view/project-based_learning)
 > 教学策略 › 教学方法

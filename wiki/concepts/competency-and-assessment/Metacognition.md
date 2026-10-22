@@ -319,14 +319,24 @@ updated: 2026-10-22
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | [0.296, 0.470] | 皮尔逊相关 $r$ / 三水平随机效应模型 | $k = 51$ 项研究 / $N = 12,548$ | **【关联/共享机制】** [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享的元认知评价与调节中介关联 | $Q(50) = 1113.80, p < .001, I^2 = 95.24\%$；95% PI $[-0.14, 0.70]$ | 证实两类高阶思维具有中等稳健正相关，方案筛选与反思调节等元认知机能构成核心纽带 |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | [−0.495, 0.652] | Hedges' $g^+$ / 随机效应模型 | $k = 10$ 项实验研究 / $N = —$ | **【[[Dependent Variable\|结果变量]]】** 生成式 AI 对大学生元认知（Metacognition）及[[Self-Regulated Learning\|自我调节学习]]的干预效应 | $Q(9) = 151.76, p < .001, I^2 = 94.07\%$ | 元认知效应未达统计显著（$p = .789$），证实缺乏显性反思支架时生成式 AI 无法自发促进元认知，甚至可能诱发元认知惰性 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组（干预策略构成 / 组织形态 / 测量模式） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Dignath & Büttner (2008) | 【干预变量】策略构成比较 | 干预策略类型：结合元认知调控与认知策略（$d = 0.73$） vs 单纯讲授认知策略（$d = 0.42$） | 元认知结合 $k = 28$ / 单纯认知 $k = 20$ | 结合元认知 **$d = 0.73$**；单纯认知 $d = 0.42$ | 组间差异显著（$p < .01$） | 证实仅教学科解题技巧效果有限，嵌入元认知监控反思才能促成高阶迁移 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 【干预变量】策略内化组织形态 | 教学组织形态：独立个体练习深思（$N = 48$） vs 小组协作探究（$N = 61$） | $N = 109$ 效应量 | 独立深思 **$g = 0.682$**；小组协作 **$g = 0.567$** | 亚组差异显著 | 证实个体独立经历面对僵局、调用元认知监控调整策略的完整过程更利于策略内化 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 【关联[[Construct\|构念]]】测量模式调节 | 测评模式：双主观自陈（$r = 0.509$） vs 双客观表现测验（$r = 0.317$） | $k = 51$ / $N = 12,548$ | 双主观 **$r = 0.509$**；双客观 **$r = 0.317$** | $Q_M(1) = 6.524, p = .011$ | 证实双客观任务下仍维持稳健正相关，确证两类思维真实的共享元认知加工基础 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Dignath & Büttner (2008) | 干预策略类型 | 结合元认知调控与认知策略 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.73"><span class="b15"></span></span>0.73 | — | 组间差异显著（$p < .01$） |
+> |  |  | 单纯讲授认知策略 |  | k = 20 | <span class="mx-bar ef-bar" title="Cohen's d 0.42"><span class="b8"></span></span>0.42 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 教学组织形态 | 独立个体练习深思 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | — | 亚组差异显著 |
+> |  |  | 小组协作探究 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | — | — |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 测评模式 | 双主观自陈 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | $Q_M(1) = 6.524, p = .011$ |
+> |  |  | 双客观表现测验 |  | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | — |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 测查范式 | 创造过程测量（Process） | $r$ | E = 12 | <span class="mx-bar ef-bar conv" title="r 0.27 → d ≈ 0.56（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.27 | — | 组间差异显著（$p < .05$） |
+> |  |  | 发散思维测验（Divergent Thinking） |  | E = 34 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.05, 0.23] | — |
+>
+> - **Dignath & Büttner (2008) · 干预策略类型** 证实仅教学科解题技巧效果有限，嵌入元认知监控反思才能促成高阶迁移
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 教学组织形态** 证实个体独立经历面对僵局、调用元认知监控调整策略的完整过程更利于策略内化
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 测评模式** 证实双客观任务下仍维持稳健正相关，确证两类思维真实的共享元认知加工基础
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 测查范式** 测查深层反思与问题发现的元认知过程指标具有更高的效度捕获力
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -335,13 +345,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Hattie (2009) / Higgins et al. (2016) | <span class="mx-bar ef-bar" title="Cohen's d 0.69"><span class="b14"></span></span>0.69 | — | Cohen's $d$ / 随机效应综合 | 基于数万项实证的二阶元分析（[[Education Endowment Foundation\|EEF]] 证据库） | **【干预变量】** 元认知与自我调节策略教学（Metacognitive Strategies）在全域教学法中的二阶效应基准 | 高确定性证据，全域排名前列 | 确立元认知策略教学作为最具有成本效益的[[Higher-Order Thinking Skills\|高阶思维]]与学业干预[[Paradigm\|范式]]；注：约相当于额外 $+7$ 个月学习进展 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.27 → d ≈ 0.56（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.27 | [0.13, 0.41] | 皮尔逊相关 $r$ / 多水平 CHE + RVE | $M = 52$ 项一阶元分析；过程测量 $E = 12$ | **【测量范式/过程指标】** 包含元认知问题表征、监控与评估的创造过程测量二阶综合关联 | 95% PI $[-0.23, 0.64]$ | 过程性元认知测量与外部效标的关联系数显著高于单纯纸笔[[Divergent Thinking\|发散思维]]数量测验 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 【测量范式比较】元认知过程 vs 行为数量 | 测查范式：创造过程测量（Process，$r = 0.27$） vs 发散思维测验（Divergent Thinking，$r = 0.14$） | 过程测量 $E = 12$ / 发散测验 $E = 34$ | 过程测量 **$r = 0.27$**；发散测验 **$r = 0.14$** $[0.05, 0.23]$ | 组间差异显著（$p < .05$） | 测查深层反思与问题发现的元认知过程指标具有更高的效度捕获力 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

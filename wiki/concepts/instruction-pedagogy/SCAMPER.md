@@ -199,13 +199,22 @@ updated: 2026-10-22
 > | Scott, Leritz and Mumford (2004) | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.58, 0.78] | Cohen's $d$ / 固定与随机效应模型 | $k = 70$ 项干预研究 | **【干预[[Variable\|变量]]】** 包含 SCAMPER 在内的结构化观念生成启发式教学对[[Creativity\|创造力]]表现的总体促学效应 | 异质性中等，策略指导为最强有效预测因子 | 证实向学习者显性传授观念生成启发式操作算子能显著提升其创造表现 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | [0.314, 0.789] | Hedges' $g$ / 多层随机效应模型 | $N = 20$ 个效应量 / $k = 29$ 原生研究 | **【干预变量】** 以 SCAMPER、[[TRIZ]] 及形态分析为核心的技术型[[Creativity Training\|创造力训练]]对大学生的促学效应 | $SE = 0.121, Z = 4.550 (p < .001)$ | 确立外显启发式工具能提供具象认知锚点并产生中等稳健促学增益 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组（策略类型 / 训练方式） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Scott, Leritz and Mumford (2004) | 【干预变量·策略类型】 | 干预方式：显性观念生成算子策略教学（$d = 0.68$） vs 无策略纯发散练习（$d = 0.45$） | 策略教学 $k = 42$ / 纯练习 $k = 28$ | 算子策略教学 **$d = 0.68$**；纯练习 $d = 0.45$ | 组间差异显著（$p < .01$） | 证实仅提供发散机会效果较弱，必须提供如 SCAMPER 般的结构化思维算子支架 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 【干预变量·训练方式】 | 训练类别：言语训练（$g = 0.998$） vs 思维训练（$g = 0.762$） vs 技术型训练（$g = 0.552$） | 言语 $N=11$ / 思维 $N=31$ / 技术 $N=20$ | 言语 $g = 0.998$；思维 $g = 0.762$；技术型 **$g = 0.552$** | 亚组差异显著 | 技术型工具提供了明确的局部操作规范，但在缺乏宏观认知框架时远迁移相对滞后 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Scott, Leritz and Mumford (2004) | 干预方式 | 显性观念生成算子策略教学 | Cohen's $d$ | k = 42 | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | — | 组间差异显著（$p < .01$） |
+> |  |  | 无策略纯发散练习 |  | k = 28 | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练类别 | 言语训练 | Hedges' $g$ | N=11 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 亚组差异显著 |
+> |  |  | 思维训练 |  | N=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
+> |  |  | 技术型训练 |  | N=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
+> | Scott, Leritz and Mumford (2004) | 效标类型 | 发散思维观念流畅性 | Cohen's $d$ | k = 54 | <span class="mx-bar ef-bar" title="Cohen's d 0.72"><span class="b14"></span></span>0.72 | — | 差异显著（$p < .05$） |
+> |  |  | 复杂问题解决成果独创性 |  | k = 46 | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
+>
+> - **Scott, Leritz and Mumford (2004) · 干预方式** 证实仅提供发散机会效果较弱，必须提供如 SCAMPER 般的结构化思维算子支架
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练类别** 技术型工具提供了明确的局部操作规范，但在缺乏宏观认知框架时远迁移相对滞后
+> - **Scott, Leritz and Mumford (2004) · 效标类型** SCAMPER 在短周期内对观念产出数量与广度的提升最为立竿见影
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -213,13 +222,6 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Ma (2006) | <span class="mx-bar ef-bar range" title="Cohen's d 0.60–0.75；取区间中点"><span class="b14"></span></span>0.60–0.75 | — | Cohen's $d$ / 随机效应综合 | 涵盖数十项一阶元分析综合 | **【干预变量】** 创造力训练单项策略技术（Single Components）在全域干预中的二阶[[Effect Size\|效应量]] | 跨学段普遍显著 | 证实如 SCAMPER 般的单一启发式技法具有高度的教学普适性与独立促学价值 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Scott, Leritz and Mumford (2004) | 【干预变量·评价指标亚组】 | 效标类型：发散思维观念流畅性（$d = 0.72$） vs 复杂问题解决成果独创性（$d = 0.58$） | 流畅性 $k = 54$ / 独创性 $k = 46$ | 流畅性 **$d = 0.72$**；成果独创性 **$d = 0.58$** | 差异显著（$p < .05$） | SCAMPER 在短周期内对观念产出数量与广度的提升最为立竿见影 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

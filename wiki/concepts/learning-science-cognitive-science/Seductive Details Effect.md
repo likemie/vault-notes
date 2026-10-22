@@ -100,12 +100,15 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]相关结果
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 涉及现象与调节维度 | 亚组与效应量 $g$ | 组间检验 $Q_b$ / $W$ | 理论机制解释 |
-> |---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习者学段对[[Graphic Organizer\|图形组织器]]促学效应的调节 | 小学生（$g = 0.877$） vs 中学生（$g = 1.113$） | $W = 6.10, p = .014$ | 小学生[[Meta-Representational Competence\|元表征能力]]弱，更易受诱人细节干扰，中学生获益显著更高 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 亚组与效应量 g | 小学生 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | — | $W = 6.10, p = .014$ |
+> |  |  | 中学生 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | — |
+>
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 亚组与效应量 g** 小学生[[Meta-Representational Competence\|元表征能力]]弱，更易受诱人细节干扰，中学生获益显著更高
 
 ---
 

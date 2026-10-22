@@ -322,18 +322,20 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 在线替代性高中；N 未报告 | 受训团队管理教师与未经专门培训教师实施 Inventorium | — | 100% 保留与几乎全部不参与 | 未报告 | 作者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；作者同时经营并倡导该项目 |
 
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 M / E | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL） | [[Theoretical Knowledge\|理论性知识]] | E = 15 | .59 [.37, .81] | Q_b(6) = 14.65, p = .02 | [[Dependent Variable\|结果变量]]亚组；组间差异显著 |
-> | 同上 | | [[Clinical Skills\|临床技能]] | E = 8 | 1.06 [.75, 1.37] | | |
-> | 同上 | | [[Critical Thinking\|批判性思维]] | E = 6 | .56 [.24, .89] | | |
-> | 同上 | | [[Student Attitude\|学生态度]] | E = 7 | .57 [.26, .88] | | |
-> | 同上 | | [[Student Satisfaction\|学生满意度]] | E = 3 | 1.10 [.62, 1.59] | | |
-> | 同上 | | 综合 | E = 4 | .88 [.44, 1.33] | | |
-> | 同上 | | 其他 | E = 4 | .31 [−.08, .70] | | |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量 | 理论性知识 | Cohen's $d$ | E = 15 | <span class="mx-bar ef-bar" title="Cohen's d .59"><span class="b12"></span></span>.59 | [.37, .81] | Q_b(6) = 14.65, p = .02 |
+> |  |  | 临床技能 |  | E = 8 | <span class="mx-bar ef-bar" title="Cohen's d 1.06"><span class="b21"></span></span>1.06 | [.75, 1.37] | — |
+> |  |  | 批判性思维 |  | E = 6 | <span class="mx-bar ef-bar" title="Cohen's d .56"><span class="b11"></span></span>.56 | [.24, .89] | — |
+> |  |  | 学生态度 |  | E = 7 | <span class="mx-bar ef-bar" title="Cohen's d .57"><span class="b11"></span></span>.57 | [.26, .88] | — |
+> |  |  | 学生满意度 |  | E = 3 | <span class="mx-bar ef-bar" title="Cohen's d 1.10"><span class="b22"></span></span>1.10 | [.62, 1.59] | — |
+> |  |  | 综合 |  | E = 4 | <span class="mx-bar ef-bar" title="Cohen's d .88"><span class="b18"></span></span>.88 | [.44, 1.33] | — |
+> |  |  | 其他 |  | E = 4 | <span class="mx-bar ef-bar" title="Cohen's d .31"><span class="b6"></span></span>.31 | [−.08, .70] | — |
+>
+> - **[[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] · 结果变量** [[Dependent Variable\|结果变量]]亚组；组间差异显著
 
 > [!metax] [问题导向学习 · Problem-based learning](https://www.visiblelearningmetax.com/influences/view/problem-based_learning)
 > 教学策略 › 教学方法

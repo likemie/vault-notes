@@ -111,12 +111,14 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果与形态亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 组织器形态亚组 | $k$ | 效应量 $g$ 与 95% CI | [[Pairwise Wald Tests\|成对 Wald 检验]]对比 | 教学机制 |
-> |---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **论证图（Argument Mapping）** | 12 | $g = 0.798$, $[0.469, 1.237]$ | 显著高于概念图（$W = 13.98, p < .001$）；低于思维导图（$W = 11.23, p < .001$） | 结构化支撑主张—证据—反驳推导链条 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 组织器形态 | 论证图（Argument Mapping） | Hedges' $g$ | k = 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | [0.469, 1.237] | 显著高于概念图（$W = 13.98, p < .001$）；低于思维导图（$W = 11.23, p < .001$） |
+>
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 组织器形态** 结构化支撑主张—证据—反驳推导链条
 
 ---
 

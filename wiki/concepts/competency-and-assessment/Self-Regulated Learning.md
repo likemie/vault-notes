@@ -193,12 +193,15 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 11–12)]] | 调节[[Variable\|变量]]（学习者个体调节特征） | 高 SRL 能力组 vs 低 SRL 能力组（生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]） | 高 SRL $k=31$；低 SRL $k=25$（总 $k=56$） | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自主调节能力是决定生成式技术促学成效的核心个体分水岭；两组置信区间完全不重叠，确证低自律学习者极难单纯依靠工具获得高阶思维飞跃 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 11–12)]] | 亚组 | 高 SRL 能力组 | Hedges' $g$ | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  |  | 低 SRL 能力组（生成式 AI 促进高阶思维） |  | k=25（总 k=56） | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, pp. 11–12)]] · 亚组** 自主调节能力是决定生成式技术促学成效的核心个体分水岭；两组置信区间完全不重叠，确证低自律学习者极难单纯依靠工具获得高阶思维飞跃
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

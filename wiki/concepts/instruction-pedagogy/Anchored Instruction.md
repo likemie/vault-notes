@@ -84,12 +84,14 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 范例所属大类：[[Authentic Instruction\|真实性教学]]对[[Critical Thinking\|批判性思维]]的干预效应 | 真实性教学整体干预维度 | $k = 96$ | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$ | 纳入真实验与准实验；证实情境锚定与应用解题对[[Higher-Order Thinking Skills\|高阶思维]]的显著赋能 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 真实性教学整体干预维度 | Hedges' $g$ | k = 96 | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | [0.24, 0.44] | $Q_b(1) = 4.07, p = .044$ |
+>
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 结果变量** 纳入真实验与准实验；证实情境锚定与应用解题对[[Higher-Order Thinking Skills\|高阶思维]]的显著赋能
 
 ---
 

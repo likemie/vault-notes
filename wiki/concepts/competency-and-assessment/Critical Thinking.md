@@ -423,22 +423,58 @@ updated: 2026-10-22
 > | Huber and Kuncel (2016)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.59"><span class="b12"></span></span>0.59 | — | Cohen's $d$ / 随机效应模型 | $k = 71$ / $N = 10{,}751$ | 结果变量：大学生就读全周期批判性思维纵向增益 | — | 综合全美高校纵向追踪数据；大学四年能力增长幅度中等，跨校与跨专业异质性高 |
 > | Abrami et al. (2008)，引自同上 | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | [0.30, 0.38] | Cohen's $d$ / 随机效应模型 | $k = 117$ / $N = 20{,}698$ | 结果变量：[[Explicit Critical Thinking Instruction\|显性批判性思维教学]]干预的总体促进效应 | — | 涵盖各学段教学干预；明确设定高阶认知目标的显性教学显著优于[[Immersion Approach\|隐性渗透模式]] |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 教学干预策略：[[Authentic Instruction\|真实性教学]]（A）vs [[Dialogue in Education\|对话]]（D）vs 真实性+对话（A+D）vs 真实性+对话+[[Mentorship\|导师制]]（A+D+M） | A 单独 $k = 22$；D 单独 $k = 43$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；D $g+ = 0.23$ $[0.07, 0.39]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维复合策略显著最优，导师制发挥催化功能 |
-> | 同上 | 结果变量 | Ennis 课程模式：[[Direct Instruction\|直接教学]] vs 融入模式 vs 沉浸模式 vs 混合模式 | 直接教学 $k = 44$；融入 $k = 152$；沉浸 $k = 61$；混合 $k = 84$ | 直接 $g+ = 0.26$；融入 $g+ = 0.29$；沉浸 $g+ = 0.23$；混合 $g+ = 0.38$ $[0.26, 0.51]$ | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ | 混合模式效应量最高，各模式均显著大于 0 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果[[Variable\|变量]]（干预时长） | 0–8 周（$k = 15$） vs 8–16 周（$k = 31$） vs $>16$ 周（$k = 13$） | $k = 59$ / — | 0–8 周 $g = 0.494$；8–16 周 $g = 0.759$；$>16$ 周 $g = 0.372$ | $Q_b = 9.106, df = 2, p = 0.011$ | 呈现显著倒 U 型时间曲线，8–16 周为反思磨合与认知内化黄金窗口，超长周期易诱发心智惰性 |
-> | 同上 | 结果变量（[[Self-Regulated Learning\|自主调节学习]]） | 高 [[Self-Regulated Learning\|SRL]] 能力组（$k = 31$） vs 低 SRL 能力组（$k = 25$） | $k = 56$ / — | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自我调节构成最显著分流门槛，高自律学生能主动识破幻觉并进行批判抗辩，低自律易盲从 |
-> | 同上 | 结果变量（教学模式） | 讲授式（$k = 6$） vs [[Problem-Based Learning\|项目式学习]]（$k = 31$） vs 混合式（$k = 22$） | $k = 59$ / — | 讲授式 $g = 0.396$（不显著）；项目式 $g = 0.717$；混合式 $g = 0.525$ | $Q_b = 2.918, df = 2, p = 0.232$ | 探究式与人机对抗活动更能激活多源核验与[[Reflexivity\|反思性]]证据评估 |
-> | 同上 | 结果变量（高阶认知维度级差） | 问题解决（$k = 16$） vs [[Critical Thinking\|批判性思维]]（$k = 20$） vs [[Creativity\|创造力]]（$k = 23$） | $k = 59$ / — | 问题解决 $g = 0.745$；批判性 $g = 0.691$；创造力 $g = 0.444$ | $Q = 4.961, df = 2, p = 0.084$ | 批判性思维增益居中偏强，展现出在人机互动中辨别真伪、推敲观点对审思与求证意识的显著激发 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果[[Variable\|变量]]（高阶成就维度与学段） | 论证表现（$k = 5$） vs 概念性知识（$k = 18$） vs 陈述性知识（$k = 10$） vs 程序性知识（$k = 17$）；小学（$k = 7$） vs 中学（$k = 11$） vs 大学（$k = 10$） | $k = 59$ / $N = 4{,}373$ | 论证表现 $d = 1.047$；概念性 $d = 0.557$；陈述性 $d = 0.407$；程序性 $d = 0.140$；小学 $d = 0.584$；中学 $d = 0.534$；大学 $d = 0.288$ | 结果类型 $Q_b(4) = 8.169, p = .086$；学段 $Q_b(2) = 6.467, p < .05$ | 证实认识论认知干预对高阶批判性论证表现产生最大的因果促进效应，并破除发展论迷思确立基础教育黄金期（pp. 487–488） |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见原文图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
-> | 同上 | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
-> | 同上 | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
-> | 同上 | 关联构念 | 创造力主观 × 批判性思维客观组合 | — | $r = 0.195$ | 同上 | 混合组合相关最低 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 教学干预策略 | 真实性教学（A） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.25"><span class="b5"></span></span>0.25 | [0.05, 0.46] | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ |
+> |  |  | 对话（D） |  | k = 43 | <span class="mx-bar ef-bar" title="Hedges' g 0.23"><span class="b5"></span></span>0.23 | [0.07, 0.39] | — |
+> |  |  | 真实性+对话（A+D） |  | k = 45 | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.17, 0.47] | — |
+> |  |  | 真实性+对话+导师制（A+D+M） |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | — |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | Ennis 课程模式 | 直接教学 | Hedges' $g$ | k = 44 | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | — | $Q_b(3) = 4.10, \text{df} = 3, p = .25$ |
+> |  |  | 融入模式 |  | k = 152 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | — | — |
+> |  |  | 沉浸模式 |  | k = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.23"><span class="b5"></span></span>0.23 | — | — |
+> |  |  | 混合模式 |  | k = 84 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | [0.26, 0.51] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（干预时长） | 0~8 周 | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
+> |  |  | 8~16 周 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
+> |  |  | >16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  |  | 低 SRL 能力组 |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（教学模式） | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$；不显著 |
+> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
+> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（高阶认知维度级差） | 问题解决 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | — | $Q = 4.961, df = 2, p = 0.084$ |
+> |  |  | 批判性思维 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | — | — |
+> |  |  | 创造力 |  | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果类型 | 论证表现 | Cohen's $d$ | k = 5 | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b(4) = 8.169, p = .086$ |
+> |  |  | 概念性知识 |  | k = 18 | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | — | — |
+> |  |  | 陈述性知识 |  | k = 10 | <span class="mx-bar ef-bar" title="Cohen's d 0.407"><span class="b8"></span></span>0.407 | — | — |
+> |  |  | 程序性知识 |  | k = 17 | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | — | — |
+> |  | 学段 | 小学 |  | k = 7 | <span class="mx-bar ef-bar" title="Cohen's d 0.584"><span class="b12"></span></span>0.584 | — | $Q_b(2) = 6.467, p < .05$ |
+> |  |  | 中学 |  | k = 11 | <span class="mx-bar ef-bar" title="Cohen's d 0.534"><span class="b11"></span></span>0.534 | — | — |
+> |  |  | 大学 |  | k = 10 | <span class="mx-bar ef-bar" title="Cohen's d 0.288"><span class="b6"></span></span>0.288 | — | — |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双主观组合（创造力主观 × 批判性思维主观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | 同上 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力客观 × 批判性思维主观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.260 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.260 | — | 同上 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力主观 × 批判性思维客观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.195 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.195 | — | 同上 |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ |
+> |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
+> |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |
+> |  |  | 综合合作 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | — |
+>
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 教学干预策略** 三维复合策略显著最优，导师制发挥催化功能
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · Ennis 课程模式** 混合模式效应量最高，各模式均显著大于 0
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（干预时长）** 呈现显著倒 U 型时间曲线，8–16 周为反思磨合与认知内化黄金窗口，超长周期易诱发心智惰性
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（自主调节学习）** 自我调节构成最显著分流门槛，高自律学生能主动识破幻觉并进行批判抗辩，低自律易盲从
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（教学模式）** 探究式与人机对抗活动更能激活多源核验与[[Reflexivity\|反思性]]证据评估
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（高阶认知维度级差）** 批判性思维增益居中偏强，展现出在人机互动中辨别真伪、推敲观点对审思与求证意识的显著激发
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果类型** 证实认识论认知干预对高阶批判性论证表现产生最大的因果促进效应，并破除发展论迷思确立基础教育黄金期（pp. 487–488）
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 相关最高；逐组合样本量与 95% CI 未在正文报告，见原文图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 高于全部混合组合，支持表现型测量间存在真实认知重叠
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 混合组合相关居中
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 混合组合相关最低
+> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 合作学习教学技术** 预设分析；组间差异达显著，探究与深度协商技术对批判性思维的提升作用最深
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -447,13 +483,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维（含批判性思维）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 高阶思维亚组包含批判性思维与创造性思维研究，证实合作互动对批判性反思的高促进作用 |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | <span class="mx-bar ef-bar" title="SMD 0.56"><span class="b11"></span></span>0.56 | [0.24, 0.89] | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $M = 20$；$E = 6$（批判性思维亚组）；$k = 469$；$N = —$ | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对批判性思维的促进效应 | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 仅代表高等教育情境下 PBL 干预，不同学科专业间异质性极高 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；组间差异达显著，探究与深度协商技术对批判性思维的提升作用最深 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

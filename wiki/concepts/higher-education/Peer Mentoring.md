@@ -93,12 +93,14 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：[[Mentorship\|导师制]]在复合策略中的干预 | 导师指导（含同伴导师与教师导师）作为干预维度 | $k = 28$ | $g+ = 0.39$ $[0.23, 0.55]$ | 复合策略 A+D+M 达到 $g+ = 0.57$（$z = 1.98, p = .024$） | 证实导师作为认知催化剂的核心功能 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 导师指导（含同伴导师与教师导师）作为干预维度 | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.39"><span class="b8"></span></span>0.39 | [0.23, 0.55] | 复合策略 A+D+M 达到 $g+ = 0.57$（$z = 1.98, p = .024$） |
+>
+> - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 结果变量** 证实导师作为认知催化剂的核心功能
 
 ---
 

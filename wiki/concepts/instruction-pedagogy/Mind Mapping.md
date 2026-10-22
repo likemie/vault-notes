@@ -220,13 +220,23 @@ updated: 2026-10-22
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | [0.704, 1.379] | Hedges' $g$ / 随机效应模型 | $k = 16$ 项实证研究 / $N = 1,180$ | **【干预变量】** 思维导图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的总体促学效应 | 异质性显著；在所有组织器形态中[[Effect Size\|效应量]]高居第一 | 证实低结构开销与极简发散语法对高阶思维具有强效促进作用 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | [0.386, 1.138] | Hedges' $g$ / 多层随机效应模型 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | **【干预[[Variable\|变量]]】** 以思维导图、头脑风暴与侧向思维为核心载体的思维训练干预对[[Creativity\|创造力]]的促进 | 异质性显著；仅次于语言训练，显著优于情绪训练 | 证实思维导图等结构化思维工具能有效改善[[Cognitive Shifting\|认知灵活性]]与发散问题解决表现 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组（思维维度 / 工具形态对比） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 【干预变量·认知目标亚组】 | 思维维度：[[Divergent Thinking\|发散思维]]（$g = 1.167$） vs [[Convergent Thinking\|聚合思维]]（$g = 0.680$） | 发散 $k = 12$ / 聚合 $k = 15$ | 发散 **$g = 1.167$**；聚合 **$g = 0.680$** | $Q_b = 7.07, p < .01$ | 证实思维导图对发散思维的赋能显著超越对聚合逻辑推论的促进 |
-> | 同上 | 【干预变量·形态效能级差】 | 组织器形态：思维导图（ = 1.041$） vs [[Argument Mapping\|论证图]]（ = 0.798$） vs [[Concept Mapping\|概念图]]（ = 0.548$） | 导图  = 16$ / 论证  = 20$ / 概念  = 36$ | 思维导图 ** = 1.041*；论证图  = 0.798$；概念图  = 0.548$ | 成对 Wald 检验均达极显著（ < .001$） | 确立组织器结构开销越低对高阶思维生成的净增益越大 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 思维维度 | 发散思维 | Hedges' $g$ | k = 12 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | — | $Q_b = 7.07, p < .01$ |
+> |  |  | 聚合思维 |  | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | — | — |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 组织器形态 | 思维导图 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | — | 成对 Wald 检验均 $p < .001$ |
+> |  |  | 论证图 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | — | — |
+> |  |  | 概念图 |  | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | — | — |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 学习阶段 | 中学生 | Hedges' $g$ | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | 组间差异显著（$p < .01$） |
+> |  |  | 大学生 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.730"><span class="b15"></span></span>0.730 | — | — |
+> |  |  | 小学生 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.620"><span class="b12"></span></span>0.620 | — | — |
+>
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 思维维度** 证实思维导图对发散思维的赋能显著超越对聚合逻辑推论的促进
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 组织器形态** 确立组织器结构开销越低对高阶思维生成的净增益越大
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 学习阶段** 中学生具备形式运算与元表征能力且能抵抗诱人细节，获益最显著
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -234,13 +244,6 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Hattie (2009) / Nesbit and Adesope (2006) | <span class="mx-bar ef-bar range" title="Cohen's d 0.57–0.64；取区间中点"><span class="b12"></span></span>0.57–0.64 | — | Cohen's $d$ / 随机效应综合 | 基于数千项实证二阶综合 | **【干预变量】** 空间[[Graphic Organizer\|图形组织器]]（包含思维导图与概念图）在全域教学法中的二阶效应基准 | 跨学科学段高度稳健 | 确立视觉空间表征工具作为最具普适性的高效促学[[Scaffolding\|教学支架]] |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组（学段差异） | 证据数 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 【干预变量·学段亚组】 | 学习阶段：中学生（$g = 1.113$） vs 小学生（$g = 0.620$） vs 大学生（$g = 0.730$） | 中学 $k = 24$ / 小学 $k = 20$ / 大学 $k = 22$ | 中学生 **$g = 1.113$**；大学生 $g = 0.730$；小学生 $g = 0.620$ | 组间差异显著（$p < .01$） | 中学生具备形式运算与元表征能力且能抵抗诱人细节，获益最显著 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 >

@@ -190,12 +190,16 @@ updated: 2026-10-22
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | [0.386, 1.138] | Hedges' $g$ / 多层随机效应模型 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | **【干预[[Variable\|变量]]】** 包含侧向思维谜题与发散练习在内的思维训练对大学生[[Creativity\|创造力]]表现的总体促学效应 | $SE = 0.191, Z = 3.987 (p < .001)$；组间异质性显著 | 证实聚焦侧向思维与认知灵活性的结构化练习能强效促进综合创造表现 |
 > | Ding et al. (2014) | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | [0.41, 0.75] | Cohen's $d$ / 随机效应模型 | $k = 18$ 项实证干预 / $N \approx 1,850$ | **【干预变量】** [[Edward de Bono\|德·博诺]] CoRT 思维工具与侧向思维训练课程对学生认知技能发展的元分析综合 | 异质性中等 | 证实系统讲授德·博诺水平思考策略对批判性与发散性[[Problem Solving\|问题解决]]具有中等偏强促进 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组（训练流派对比） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 【干预变量·训练类型亚组】 | 训练类别：思维灵活性训练（$g = 0.762$） vs 技术型训练（$g = 0.552$） vs 情绪训练（$g = 0.443$） | 思维 $N=31$ / 技术 $N=20$ / 情绪 $N=11$ | 思维 **$g = 0.762$**；技术 $g = 0.552$；情绪 $g = 0.443$ | 组间差异显著（$p < .01$） | 证实以侧向重构为内核的思维训练效能显著超越单纯套用机械规则的技术型训练 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练类别 | 思维灵活性训练 | Hedges' $g$ | N=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | 组间差异显著（$p < .01$） |
+> |  |  | 技术型训练 |  | N=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
+> |  |  | 情绪训练 |  | N=11 | <span class="mx-bar ef-bar" title="Hedges' g 0.443"><span class="b9"></span></span>0.443 | — | — |
+>
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练类别** 证实以侧向重构为内核的思维训练效能显著超越单纯套用机械规则的技术型训练
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

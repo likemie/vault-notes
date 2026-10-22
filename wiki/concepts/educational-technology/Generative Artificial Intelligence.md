@@ -531,16 +531,37 @@ updated: 2026-10-22
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.609"><span class="b12"></span></span>0.609 | [0.485, 0.732] | Hedges' $g$；随机效应模型 | $k = 59$ / 29 项实验与准实验研究 | 干预因素（生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学总成效） | $Q = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；证实适度周期与高自主调节能力是释放促学潜能的关键 |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.421"><span class="b8"></span></span>0.421 | [0.198, 0.645] | Hedges' $g$；随机效应模型 | $k = 17$ / — | 干预因素（[[Generative AI Agent in Education\|生成式智能体]]促学总成效） | $Q = 143.76, I^2 = 88.87\%$ | 纳入中小学及高校实证；未作教学反思[[Scaffolding\|脚手架]]约束的研究易产生负向效应 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组（学习产出 / 情境特征） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 干预因素（高阶思维认知子维度） | 问题解决（$k=16$） vs 批判性思维（$k=20$） vs 创造力（$k=23$） | $k = 59$ / — | 问题解决 $g = 0.745$；批判性 $g = 0.691$；创造力 $g = 0.444$ | $Q = 4.961, p = 0.084$ | 程序化与[[Reflexivity\|反思性]]技能提升显著，开放发散性[[Creativity\|创造力]]提升相对受限 |
-> | 同上 | 干预因素（实施周期与主体特征） | 8–16 周（$k=31$） vs 0–8 周（$k=15$） vs $>16$ 周（$k=13$）；高 SRL（$k=31$） vs 低 SRL（$k=25$） | $k = 59$ / — | 8–16 周 $g = 0.759$ vs $>16$ 周 $0.372$；高 SRL $g = 0.863$ vs 低 SRL $0.284$ | 时长 $Q_b = 9.106, p = .011$；SRL $Q_b = 40.962, p < .001$ | 揭示时长倒 U 型规律（8–16周峰值）与自主调节学习能力的关键门槛与中和机制 |
-> | 同上 | 干预因素（学段层次与教学模式） | K-12 基础教育（$k=23$） vs 高等教育（$k=36$）；PBL 项目化探究（$k=15$） vs 讲授式教学（$k=21$） | $k = 59$ / — | K-12 $g = 0.857$ vs 高教 $0.539$；PBL $g = 0.717$ vs 讲授 $0.396$ | 学段 $Q_b = 8.125, p = .004$；教学 $Q_b = 6.273, p = .043$ | 基础教育阶段在适宜支架下获益更高；PBL 探究深度释放生成式技术促学潜能 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, p. 10)]] | 干预因素（结果分类） | 语言技能（$k=21$） vs 学业成绩（$k=25$） vs 情感动机（$k=25$） vs 高阶思维（$k=16$） vs 元认知（$k=10$） | $k = 97$ / $N = 5{,}389$ | 语言 $g^+ = 2.331$；成绩 $g^+ = 0.633$；动机 $g^+ = 0.617$；高阶思维 $g^+ = 0.580$；元认知 $g^+ = 0.078$ | $p < 0.001$ | 语言与学业产出获益显著，元认知未达统计显著（$p = 0.789$） |
-> | 同上 | 干预因素（情境与文化） | 国家 ICT 水平：低（$k=20$） vs 中（$k=60$） vs 高（$k=17$）；权力距离：高（$k=73$） vs 低（$k=24$） | $k = 97$ / $N = 5{,}389$ | 低 ICT $g^+ = 1.764$ vs 高 ICT $g^+ = 0.501$；高权力距离 $g^+ = 0.859$ vs 低权力距离 $g^+ = 0.236$ | ICT: $Q_B = 21.69, p < .001$；权力距离: $Q_B = 10.97, p = .001$ | 证实数字化薄弱情境的边际效益递增及高权力距离下的自主促学机制 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 对应亚组（学习产出 / 情境特征） | 问题解决 | Hedges' $g$ | k=16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | — | $Q = 4.961, p = 0.084$ |
+> |  |  | 批判性思维 |  | k=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | — | — |
+> |  |  | 创造力 |  | k=23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 实施周期 | 8–16 周 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | $Q_b = 9.106, p = .011$ |
+> |  |  | > 16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
+> |  | 自主调节学习（SRL） | 高 SRL |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | — | $Q_b = 40.962, p < .001$ |
+> |  |  | 低 SRL |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, p. 11)]] | 学段 | K-12 基础教育 | Hedges' $g$ | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.857"><span class="b17"></span></span>0.857 | — | $Q_b = 8.125, p = .004$ |
+> |  |  | 高等教育 |  | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | — | — |
+> |  | 教学模式 | PBL 项目化探究 |  | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | $Q_b = 6.273, p = .043$ |
+> |  |  | 讲授式教学 |  | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | — |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, p. 10)]] | 干预因素（结果分类） | 语言技能 | Hedges' $g$ | k=21 | <span class="mx-bar ef-bar" title="Hedges' g 2.331"><span class="b28"></span></span>2.331 | — | $p < 0.001$ |
+> |  |  | 学业成绩 |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.633"><span class="b13"></span></span>0.633 | — | — |
+> |  |  | 情感动机 |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | — | — |
+> |  |  | 高阶思维 |  | k=16 | <span class="mx-bar ef-bar" title="Hedges' g 0.580"><span class="b12"></span></span>0.580 | — | — |
+> |  |  | 元认知 |  | k=10 | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | — | — |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, p. 10)]] | 国家 ICT 水平 | 低 ICT | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 1.764"><span class="b28"></span></span>1.764 | — | $Q_B = 21.69, p < .001$ |
+> |  |  | 高 ICT |  | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 0.501"><span class="b10"></span></span>0.501 | — | — |
+> |  | 权力距离 | 高权力距离 |  | k = 73 | <span class="mx-bar ef-bar" title="Hedges' g 0.859"><span class="b17"></span></span>0.859 | — | $Q_B = 10.97, p = .001$ |
+> |  |  | 低权力距离 |  | k = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.236"><span class="b5"></span></span>0.236 | — | — |
+>
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, p. 11)]] · 对应亚组（学习产出 / 情境特征）** 程序化与[[Reflexivity\|反思性]]技能提升显著，开放发散性[[Creativity\|创造力]]提升相对受限
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, p. 11)]] · 实施周期** 揭示时长倒 U 型规律（8–16周峰值）与自主调节学习能力的关键门槛与中和机制
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, p. 11)]] · 学段** 基础教育阶段在适宜支架下获益更高；PBL 探究深度释放生成式技术促学潜能
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025, p. 10)]] · 干预因素（结果分类）** 语言与学业产出获益显著，元认知未达统计显著（$p = 0.789$）
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025, p. 10)]] · 国家 ICT 水平** 证实数字化薄弱情境的边际效益递增及高权力距离下的自主促学机制
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

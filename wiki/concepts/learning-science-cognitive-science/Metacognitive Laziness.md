@@ -183,16 +183,22 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | [−0.490, 0.647] | Hedges' $g^+$；随机效应模型 | $k = 10$ / $N = 918$ | [[Dependent Variable\|结果变量]]（[[Metacognition\|元认知]]能力产出，检验技术是否引发元认知停滞） | $Q = 142.116, p < 0.001$ | 仅纳入严格满足基线等效性（$d < 0.25$）的实验与准实验研究；效应量未达统计显著（$p = 0.789$），证实 GenAI 开放使用无法自发提升元认知 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果[[Variable\|变量]]维度比较 | [[Language Skills\|语言技能]] | $k = 21$ | $g^+ = 2.331$ [1.706, 2.956] | $Q_B = 152.551$, $p < 0.001$ | 各产出领域间呈现极显著分化，语言技能与学业成绩获得高强度增益，而元认知能力基本处于零效应区间 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Academic Achievement\|学业成绩]] | $k = 25$ | $g^+ = 0.633$ [0.472, 0.794] | 同上 | 表现出中到大效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Affective Outcomes\|情感动机状态]] | $k = 25$ | $g^+ = 0.617$ [0.435, 0.799] | 同上 | 表现出中到大效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Higher-Order Thinking Skills\|高阶思维能力]] | $k = 16$ | $g^+ = 0.580$ [0.380, 0.781] | 同上 | 表现出中到大效应 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Metacognition\|元认知能力]] | $k = 10$ | $g^+ = 0.078$ [-0.490, 0.647] | 同上 | 唯一未达显著水平（$p = 0.789$）的产出，有力支持元认知惰性假说 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | 语言技能 | Hedges' $g$ | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 2.331"><span class="b28"></span></span>2.331 | [1.706, 2.956] | $Q_B = 152.551$, $p < 0.001$ |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | 学业成绩 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.633"><span class="b13"></span></span>0.633 | [0.472, 0.794] | 同上 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | 情感动机状态 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | [0.435, 0.799] | 同上 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | 高阶思维能力 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.580"><span class="b12"></span></span>0.580 | [0.380, 0.781] | 同上 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | 元认知能力 | Hedges' $g$ | k = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | [−0.490, 0.647] | 同上 |
+>
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 结果变量维度比较** 各产出领域间呈现极显著分化，语言技能与学业成绩获得高强度增益，而元认知能力基本处于零效应区间
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 结果变量维度比较** 表现出中到大效应
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 结果变量维度比较** 表现出中到大效应
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 结果变量维度比较** 表现出中到大效应
+> - **[[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] · 结果变量维度比较** 唯一未达显著水平（$p = 0.789$）的产出，有力支持元认知惰性假说
 
 ---
 

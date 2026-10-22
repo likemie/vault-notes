@@ -199,13 +199,20 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]延时追踪与干预周期调节结果
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 考察维度与对比条件 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 组间差异检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **测试时间节点** 延时[[Pre-test and Post-test\|后测]] vs. 即时后测（抗衰退与内化反弹） | 5 项延时（485 人） vs. 54 项即时（3,888 人） | Cohen's $d$，随机效应模型 | 延时后测 $d = 0.966$ $[0.802, 1.131]$；即时后测 $d = 0.451$ $[0.264, 0.638]$ | $Q_b(1) = 16.737, p < .001$ | 认识论认知干预展现出罕见的反向翻倍效应，证实高阶思维习惯随时间具有内化沉淀优势 |
-> | 同上 | **干预实施周期** 短期与中期集中教学 vs. 全学期长期干预 | 59 个[[Effect Size\|效应量]] / 4,373 | Cohen's $d$，随机效应模型 | 中期 $d = 0.925$；短期 $d = 0.615$；单次 $d = 0.734$；长期（全学期） $d = 0.234$（不显著） | $Q_b(3) = 8.863, p < .05$ | 长期干预效应消退源于教学浓度稀释、对照组常态追赶以及选用了不敏感的期末统一考试 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 考察维度与对比条件 | 延时后测 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.966"><span class="b19"></span></span>0.966 | [0.802, 1.131] | $Q_b(1) = 16.737, p < .001$ |
+> |  |  | 即时后测 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.451"><span class="b9"></span></span>0.451 | [0.264, 0.638] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 考察维度与对比条件 | 中期 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.925"><span class="b18"></span></span>0.925 | — | $Q_b(3) = 8.863, p < .05$ |
+> |  |  | 短期 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.615"><span class="b12"></span></span>0.615 | — | — |
+> |  |  | 单次 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.734"><span class="b15"></span></span>0.734 | — | — |
+> |  |  | 长期（全学期） |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.234"><span class="b5"></span></span>0.234 | — | 不显著 |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 考察维度与对比条件** 认识论认知干预展现出罕见的反向翻倍效应，证实高阶思维习惯随时间具有内化沉淀优势
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 考察维度与对比条件** 长期干预效应消退源于教学浓度稀释、对照组常态追赶以及选用了不敏感的期末统一考试
 
 > [!ref-table]- 经典实证案例汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

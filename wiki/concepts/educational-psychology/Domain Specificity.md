@@ -245,17 +245,24 @@ updated: 2026-10-22
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | $N = 129$ 名跨年龄组样本 | 测量 5 个领域的[[Epistemological Understanding\|认识论理解]] | 跨领域的组合模式（Profile） | 有 83% 的个体呈现混合模式。例如，只有在物理和事实领域，多数个体才能找回评价论，而在价值观领域大比例停滞于多元论或绝对论。 | 跨领域反转规律极强 | 彻底排除了认知发展是领域一般性同步推进的假说。 |
 > | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | $N = 740$ | 领域特异性模型 vs 领域一般性模型拟合度对比 | 简单知识维度的[[Confirmatory Factor Analysis\|验证性因子分析]]模型拟合卡方值（CFA） | 领域特异性模型拟合更优；卡方差异 $\Delta\chi^2(10) = 245.56$ | $p < .001$ | 证明测量维度必须分学科独立构建，强有力支持领域特异性。 |
 
-> [!ma-table]- 一阶元分析特异性层级[[Interaction Effect\|调节效应]]检验
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 特异性层级亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预内容特异性 | 主题特定（Topic-specific） | 7 / 826 | $d = 0.722$ [0.236, 1.207] | — | 针对特定单元（如光合作用），直接对接微观探究 |
-> | 同上 | 干预内容特异性 | 领域通用（Domain-general） | 5 / 879 | $d = 0.685$ [0.527, 0.844] | — | 跨学科[[Higher-Order Thinking Skills\|高阶思维]]，聚焦论证反思与[[Source Evaluation\|信源评估]] |
-> | 同上 | 干预内容特异性 | 领域特定（Domain-specific） | 16 / 2,668 | $d = 0.360$ [0.124, 0.596] | $Q_b = 5.308, df = 2, p = .070$ | 中观学科门类干预，易被期末统考稀释 |
-> | 同上 | 测验指标特异性 | 主题特定测验 | 12 / 1,243 | $d = 0.696$ [0.383, 1.008] | — | 敏锐检验微观概念理解与具体论证 |
-> | 同上 | 测验指标特异性 | 领域通用测验 | 3 / 664 | $d = 0.715$ [0.388, 1.042] | — | 考查跨情境批判推理与学术素养 |
-> | 同上 | 测验指标特异性 | 领域特定测验 | 15 / 2,633 | $d = 0.277$ [0.048, 0.506] | $Q_b = 6.814, df = 2, p < .05$ | 组间差异显著，学科统考掩盖真实深层变化 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预内容特异性 | 主题特定（Topic-specific） | Cohen's $d$ | k = 7, N = 826 | <span class="mx-bar ef-bar" title="Cohen's d 0.722"><span class="b14"></span></span>0.722 | [0.236, 1.207] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预内容特异性 | 领域通用（Domain-general） | Cohen's $d$ | k = 5, N = 879 | <span class="mx-bar ef-bar" title="Cohen's d 0.685"><span class="b14"></span></span>0.685 | [0.527, 0.844] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预内容特异性 | 领域特定（Domain-specific） | Cohen's $d$ | k = 16, N = 2,668 | <span class="mx-bar ef-bar" title="Cohen's d 0.360"><span class="b7"></span></span>0.360 | [0.124, 0.596] | $Q_b = 5.308, df = 2, p = .070$ |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验指标特异性 | 主题特定测验 | Cohen's $d$ | k = 12, N = 1,243 | <span class="mx-bar ef-bar" title="Cohen's d 0.696"><span class="b14"></span></span>0.696 | [0.383, 1.008] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验指标特异性 | 领域通用测验 | Cohen's $d$ | k = 3, N = 664 | <span class="mx-bar ef-bar" title="Cohen's d 0.715"><span class="b14"></span></span>0.715 | [0.388, 1.042] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验指标特异性 | 领域特定测验 | Cohen's $d$ | k = 15, N = 2,633 | <span class="mx-bar ef-bar" title="Cohen's d 0.277"><span class="b6"></span></span>0.277 | [0.048, 0.506] | $Q_b = 6.814, df = 2, p < .05$ |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预内容特异性** 针对特定单元（如光合作用），直接对接微观探究
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预内容特异性** 跨学科[[Higher-Order Thinking Skills\|高阶思维]]，聚焦论证反思与[[Source Evaluation\|信源评估]]
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预内容特异性** 中观学科门类干预，易被期末统考稀释
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 测验指标特异性** 敏锐检验微观概念理解与具体论证
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 测验指标特异性** 考查跨情境批判推理与学术素养
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 测验指标特异性** 组间差异显著，学科统考掩盖真实深层变化
 
 ---
 

@@ -153,12 +153,15 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]测验工具类型[[Interaction Effect\|调节效应]]
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 调节[[Variable\|变量]]（[[Academic Achievement\|学业成就]]测量工具类型） | 研究者自编测验 vs 任课教师自编常规期末测验 | 自编测验 $k=20, N=2,429$；教师常规测验 $k=5, N=789$ | 自编测验 $d = 0.651$ $[0.456, 0.846]$；教师常规测验 $d = 0.012$ $[-0.449, 0.473]$ | $Q_b = 6.446, df = 1, p < .05$ | 证实自编测验对深层思维变化敏感，而教师常规考卷无法体现高阶认识论收益；同时单次至中期干预 100% 采用自编测验，存在与时长的混淆（pp. 487–488） |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 研究者自编测验 | Cohen's $d$ | k=20, N=2,429 | <span class="mx-bar ef-bar" title="Cohen's d 0.651"><span class="b13"></span></span>0.651 | [0.456, 0.846] | $Q_b = 6.446, df = 1, p < .05$ |
+> |  |  | 任课教师自编常规期末测验 |  | k=5, N=789 | <span class="mx-bar ef-bar" title="Cohen's d 0.012"><span class="b0"></span></span>0.012 | [−0.449, 0.473] | — |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 证实自编测验对深层思维变化敏感，而教师常规考卷无法体现高阶认识论收益；同时单次至中期干预 100% 采用自编测验，存在与时长的混淆（pp. 487–488）
 
 > [!contrast-table]- 证据审查平台对测量工具独立性的[[Operationalization\|操作化]]判定规程（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 3–4, 10]]）
 > | 证据审查机构 / 平台 | 测量工具准入标准 | 对开发者自编测验的处理政策 | 典型合规工具范例 | 质控效能与影响 |

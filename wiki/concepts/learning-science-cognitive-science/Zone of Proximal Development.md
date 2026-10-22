@@ -302,15 +302,11 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Kraft, Blazar and Hogan (2018); Popova et al. (2018) | 结果类型 | 教师教学实践 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | — |
 > |  |  | 学生标准化成绩 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.18"><span class="b4"></span></span>0.18 | — | — |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制构念（学段干预敏感度） | 高小学段（4~6 年级）ZPD 自适应支架 | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | [0.502, 1.253] | 学段间检验 $Q_B = 12.97, p = .005$ |
+>
+> - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 机制构念（学段干预敏感度）** 处于具体向形式运算过渡期，对 ZPD 自适应支架敏感度最高
 
 学段亚组分析显示出儿童思维发展过渡期对 ZPD 支架的高度敏感性。
-
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制构念（学段干预敏感度） | 高小学段（4–6 年级）ZPD 自适应支架 | $k = 28$ / — | **$g = 0.877$** $[0.502, 1.253]$ | 学段间检验 $Q_B = 12.97, p = .005$ | 处于具体向形式运算过渡期，对 ZPD 自适应支架敏感度最高 |
 
 ---
 

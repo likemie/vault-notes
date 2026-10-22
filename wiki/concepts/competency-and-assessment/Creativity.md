@@ -389,27 +389,66 @@ updated: 2026-10-22
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $k = 29$ (109 ES) / $N = —$ | [[Dependent Variable\|结果变量]]：[[Creativity Training\|创造力训练]]项目对大学生各维度创造力的综合提升 | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 29 项实证研究，创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）提升最显著 |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | [0.259, 0.629] | Hedges' $g$ / 随机效应模型 | $k = 23$ / 29 项研究中 23 个效应量 | [[Dependent Variable\|结果变量]]：生成式 AI 对学生创造性思维（Creativity）的干预效应 | $Z = 4.698, p < .001$ | 呈现中等偏小显著正效应；相较于问题解决与批判性思维，AI 对创造力直接提升相对有限，且短期易受套路化同质内容束缚 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联[[Construct\|构念]] | 双主观组合（创造力主观 × 批判性思维主观） | — | $r = 0.509$ | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 相关最高；逐组合样本量与 95% CI 未在正文报告，见原图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
-> | 同上 | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | — | $r = 0.317$ | 同上 | 高于全部混合组合，支持表现型测量间存在真实认知重叠 |
-> | 同上 | 关联构念 | 创造力客观 × 批判性思维主观组合 | — | $r = 0.260$ | 同上 | 混合组合相关居中 |
-> | 同上 | 关联构念 | 创造力主观 × 批判性思维客观组合 | — | $r = 0.195$ | 同上 | 混合组合相关最低 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果[[Variable\|变量]]（创造力子构念） | 创造性思维（Creative thinking） | $N = 24$ | $g = 0.671$ $[0.439, 0.903]$ | $Z = 5.675, p < .001$ | 发散认知策略增益最高 |
-> | 同上 | 结果变量（创造力子构念） | 图形创造力（Graphic creativity） | $N = 27$ | $g = 0.644$ $[0.439, 0.849]$ | $Z = 6.153, p < .001$ | 视觉空间重组与非言语表现提升显著 |
-> | 同上 | 结果变量（创造力子构念） | 词汇创造力（Words creativity） | $N = 16$ | $g = 0.641$ $[0.339, 0.943]$ | $Z = 4.156, p < .001$ | 语义远距离联想表现稳健 |
-> | 同上 | 结果变量（创造力子构念） | 言语创造力（Verbal creativity） | $N = 23$ | $g = 0.606$ $[0.407, 0.805]$ | $Z = 5.966, p < .001$ | 非常规用途生成流畅性改善明显 |
-> | 同上 | 结果变量（创造力子构念） | [[Problem Solving\|问题解决]]（Problem-solving） | $N = 10$ | $g = 0.539$ $[0.316, 0.762]$ | $Z = 4.730, p < .001$ | 不良结构情境应对能力提升 |
-> | 同上 | 结果变量（创造力子构念） | 情绪创造力（Emotional creativity） | $N = 9$ | $g = 0.397$ $[0.208, 0.587]$ | $Z = 4.106, p < .001$ | 非认知情绪构念响应相对偏低 |
-> | 同上 | 结果变量（干预特征） | 训练周期 $< 2$ 个月（峰值窗口） vs 其他周期 | $N = 30$ | $g = 0.844$ $[0.647, 1.042]$ | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） | 呈现倒 U 型时间曲线，$< 3$ 年周期不显著（$g = -0.122$） |
-> | 同上 | 结果变量（干预特征） | 言语训练（$N=15$） vs 思维训练（$N=13$） | $N = 28$ | 言语 $g = 0.998$；思维 $g = 0.762$ | 组间差异显著（$p < .001$） | 言语符号外化与元认知策略效能最优 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果[[Variable\|变量]]（干预时长） | 0–8 周（$k = 15$） vs 8–16 周（$k = 31$） vs $>16$ 周（$k = 13$） | $k = 59$ / — | 0–8 周 $g = 0.494$；8–16 周 $g = 0.759$；$>16$ 周 $g = 0.372$ | $Q_b = 9.106, df = 2, p = 0.011$ | 呈现显著倒 U 型时间曲线，8–16 周为最优干预窗口，超长周期易诱发[[Cognitive Offloading\|认知外包]]与探索怠惰 |
-> | 同上 | 结果变量（[[Self-Regulated Learning\|自主调节学习]]） | 高 [[Self-Regulated Learning\|SRL]] 能力组（$k = 31$） vs 低 SRL 能力组（$k = 25$） | $k = 56$ / — | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自我调节构成决定性分水岭，高能动性个体更能突破 AI 算法模板并进行深度创造重组 |
-> | 同上 | 结果变量（教学模式） | 讲授式（$k = 6$） vs [[Project-Based Learning\|项目式学习]]（$k = 31$） vs 混合式（$k = 22$） | $k = 59$ / — | 讲授式 $g = 0.396$（不显著）；项目式 $g = 0.717$；混合式 $g = 0.525$ | $Q_b = 2.918, df = 2, p = 0.232$ | 真实任务驱动的 PBL 更能激发人机协同[[Creative Problem Solving\|创造性问题解决]]潜能 |
-> | 同上 | 结果变量（高阶认知维度级差） | 问题解决（$k = 16$） vs [[Critical Thinking\|批判性思维]]（$k = 20$） vs 创造力（$k = 23$） | $k = 59$ / — | 问题解决 $g = 0.745$；批判性 $g = 0.691$；创造力 $g = 0.444$ | $Q = 4.961, df = 2, p = 0.084$ | 认知子维度差异接近显著；AI 容易输出千篇一律的常规套路，学生若直接套用则难以产生突破性新意，因而创造力维度的提升幅度相对受限 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双主观组合（创造力主观 × 批判性思维主观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | 批判性思维测量类型 $Q_M(1) = 5.234, p = .022$；创造力测量类型 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 双客观组合（创造力客观 × 批判性思维客观） | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | 同上 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力客观 × 批判性思维主观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.260 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.260 | — | 同上 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 创造力主观 × 批判性思维客观组合 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.195 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.195 | — | 同上 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 创造性思维（Creative thinking） | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | [0.439, 0.903] | $Z = 5.675, p < .001$ |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 图形创造力（Graphic creativity） | Hedges' $g$ | N = 27 | <span class="mx-bar ef-bar" title="Hedges' g 0.644"><span class="b13"></span></span>0.644 | [0.439, 0.849] | $Z = 6.153, p < .001$ |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 词汇创造力（Words creativity） | Hedges' $g$ | N = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.641"><span class="b13"></span></span>0.641 | [0.339, 0.943] | $Z = 4.156, p < .001$ |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 言语创造力（Verbal creativity） | Hedges' $g$ | N = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | [0.407, 0.805] | $Z = 5.966, p < .001$ |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 问题解决（Problem-solving） | Hedges' $g$ | N = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | [0.316, 0.762] | $Z = 4.730, p < .001$ |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（创造力子构念） | 情绪创造力（Emotional creativity） | Hedges' $g$ | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.397"><span class="b8"></span></span>0.397 | [0.208, 0.587] | $Z = 4.106, p < .001$ |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练周期 | < 2 个月（峰值窗口） | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | [0.647, 1.042] | 元回归解释 13.4% 组间方差（$\Delta\tau = 0.074$） |
+> |  |  | < 3 年 |  | — | <span class="mx-bar ef-bar neg" title="Hedges' g −0.122"><span class="b2"></span></span>−0.122 | — | 不显著 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（干预特征） | 言语训练 | Hedges' $g$ | N=15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
+> |  |  | 思维训练 |  | N=13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（干预时长） | 0~8 周 | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
+> |  |  | 8~16 周 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
+> |  |  | >16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  |  | 低 SRL 能力组 |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（教学模式） | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$；不显著 |
+> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
+> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（高阶认知维度级差） | 问题解决 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.745"><span class="b15"></span></span>0.745 | — | $Q = 4.961, df = 2, p = 0.084$ |
+> |  |  | 批判性思维 |  | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | — | — |
+> |  |  | 创造力 |  | k = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | — | — |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 构念角色互补比较 | 预测变量 | $r$ | E = 84 | <span class="mx-bar ef-bar conv" title="r 0.29 → d ≈ 0.61（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.29 | [0.18, 0.41] | $F(1, 16.3) = 9.43, p = .007$ |
+> |  |  | 结果变量 |  | E = 80 | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.05, 0.19] | — |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 关联因素类型亚组 | 教育干预/项目 | $r$ | E = 21 | <span class="mx-bar ef-bar conv" title="r 0.20 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.20 | [0.10, 0.29] | $F(4, 15.6) = 0.95, p = .46$ |
+> |  |  | 外认知 |  | E = 47 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.06, 0.22] | — |
+> |  |  | 认知 |  | E = 34 | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.03, 0.20] | — |
+> |  |  | 背景特征 |  | E = 50 | <span class="mx-bar ef-bar conv" title="r 0.05 → d ≈ 0.10（d = 2r / √(1 − r²)）"><span class="b2"></span></span>0.05 | [−0.07, 0.17] | — |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ |
+> |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
+> |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |
+> |  |  | 综合合作 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | — |
+>
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 相关最高；逐组合样本量与 95% CI 未在正文报告，见原图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 高于全部混合组合，支持表现型测量间存在真实认知重叠
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 混合组合相关居中
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 混合组合相关最低
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 发散认知策略增益最高
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 视觉空间重组与非言语表现提升显著
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 语义远距离联想表现稳健
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 非常规用途生成流畅性改善明显
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 不良结构情境应对能力提升
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 非认知情绪构念响应相对偏低
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练周期** 呈现倒 U 型时间曲线，$< 3$ 年周期不显著（$g = -0.122$）
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（干预特征）** 言语符号外化与元认知策略效能最优
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（干预时长）** 呈现显著倒 U 型时间曲线，8–16 周为最优干预窗口，超长周期易诱发[[Cognitive Offloading\|认知外包]]与探索怠惰
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（自主调节学习）** 自我调节构成决定性分水岭，高能动性个体更能突破 AI 算法模板并进行深度创造重组
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（教学模式）** 真实任务驱动的 PBL 更能激发人机协同[[Creative Problem Solving\|创造性问题解决]]潜能
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（高阶认知维度级差）** 认知子维度差异接近显著；AI 容易输出千篇一律的常规套路，学生若直接套用则难以产生突破性新意，因而创造力维度的提升幅度相对受限
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 构念角色互补比较** 预设分析；组间差异高度显著，创造力作为预测变量关联显著强于作为结果变量
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 关联因素类型亚组** 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明显可塑性
+> - **[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] · 合作学习教学技术** 预设分析；开放探究与结构化合作技术对创造性思维等高阶认知的激发最强
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -418,15 +457,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.17 → d ≈ 0.35（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.17 | [0.11, 0.22] | 皮尔逊 $r$ / 多水平相关分层效应（CHE）+ 稳健方差估计（RVE） | $M = 52$；$E = 164$；$k = 2609$；$N = 1,248,416$ | 综合角色：创造力全领域二阶基准关联（截距模型） | $Q(162) = 12494, p < .001$；95% PI $[-0.24, 0.53]$ | 包含预测与结果双向关系，极高异质性与显著小研究效应；预测区间跨零表明情境敏感性极强；注：小研究偏倚校正前 $r = 0.21$ |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对高阶认知（含创造性思维）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 高阶思维中包含创造性思维研究，证实异质同伴互动对创造性构想生成的显著赋能 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | [[Variable\|变量]]角色分类 | [[Construct\|构念]]角色互补比较：[[Independent Variable\|预测变量]] vs [[Dependent Variable\|结果变量]] | 预测变量 $E = 84$ / 结果变量 $E = 80$ | 预测变量 $r = 0.29$ $[0.18, 0.41]$；结果变量 $r = 0.12$ $[0.05, 0.19]$ | $F(1, 16.3) = 9.43, p = .007$ | 预设分析；组间差异高度显著，创造力作为预测变量关联显著强于作为结果变量 |
-> | 同上 | 结果变量 | 关联因素类型亚组：教育干预/项目 vs 外认知 vs 认知 vs 背景特征 | 干预 $E = 21$ / 外认知 $E = 47$ / 认知 $E = 34$ / 背景 $E = 50$ | 教育干预 $r = 0.20$ $[0.10, 0.29]$；外认知 $r = 0.14$ $[0.06, 0.22]$；认知 $r = 0.12$ $[0.03, 0.20]$；背景 $r = 0.05$ $[-0.07, 0.17]$ | $F(4, 15.6) = 0.95, p = .46$ | 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明显可塑性 |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量 | 合作学习教学技术：综合合作 vs 拼图法 vs 小组调查 vs [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | $E = 14$（综合）/ $E = 6$（拼图）/ $E = 2$（调查）/ $E = 1$（CIRC） | CIRC $ES = 2.04$ $[1.05, 3.03]$；调查法 $ES = 1.08$ $[0.50, 1.66]$；拼图法 $ES = 0.72$ $[0.40, 1.04]$；综合合作 $ES = 0.61$ $[0.40, 0.81]$ | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ | 预设分析；开放探究与结构化合作技术对创造性思维等高阶认知的激发最强 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

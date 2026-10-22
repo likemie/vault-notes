@@ -247,15 +247,29 @@ updated: 2026-10-22
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $k = 29$ 项实证研究 (109 ES) / $N = —$ | **干预目标与环境** 高校创造力系统干预对学生综合创造表现的总体[[Learning Gain\|学习增益]] | $Q(28) = 178.51, p < .001, I^2 = 84.31\%$ | 系统训练能显著提升大学生的创造表现与问题解决应对信心 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | [0.334, 0.435] | 皮尔逊 $r$ / 三水平随机效应模型 | $k = 51$ 项研究 / $N = 12,548$ | **关联[[Construct\|构念]]** 自陈[[Creativity Assessment\|创造力测量]]（含 CSE）与[[Higher-Order Thinking Skills\|高阶思维]]测量的综合相关 | $Q(50) = 485.45, p < .001, I^2 = 89.70\%$ | 测量类型构成决定相关强度的核心调节变量 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组（任务类型 / 组织形式 / 测量类型） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Haase et al. (2018) | 预测变量 | 结果任务类型：客观现实成果/产品（$r = 0.39$） vs 纯纸笔发散思维测验（$r = 0.26$） | 成果 $k = 34$ / 发散 $k = 21$ ($N = 6,842$) | 成果 **$r = 0.39$**；发散测验 **$r = 0.26$** $[0.19, 0.33]$ | 组间差异显著 | CSE 对复杂真实成果的驱动力显著高于简单纸笔发散测验 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 测量类型组合：双主观自陈（$r = 0.509$） vs 双客观表现测验（$r = 0.317$） | $k = 51$ / $N = 12,548$ | 双主观 **$r = 0.509$**；双客观 **$r = 0.317$** | $Q_M(1) = 10.133, p = .002$ | 证实自陈效能感[[Questionnaire\|问卷]]受到 [[Common Method Variance\|CMV]] 明显放大 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 干预组织形式 | 教学组织形式：独立个体练习深思（$N = 48$） vs 小组合作协作探究（$N = 61$） | $N = 109$ 效应量 | 独立练习 **$g = 0.682$**；小组协作 **$g = 0.567$** | 亚组差异显著 | 独立经历完整解题闭环更能建立稳固的个人效能感归因 |
-> | 同上 | 干预方式类别 | 训练核心方式：言语认知（$g = 0.998$）与思维策略（$g = 0.762$） vs 情绪训练（$g = -0.066$） | 言语 $N = 15$；思维 $N = 13$；情绪 $N = 2$ | 言语 $g = 0.998$；思维 $g = 0.762$；情绪 $g = -0.066$ | 方式主效应极显著 | 掌握经验与结构化认知是构建效能感的物质基础 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Haase et al. (2018) | 结果任务类型 | 客观现实成果/产品 | $r$ | k = 34 | <span class="mx-bar ef-bar conv" title="r 0.39 → d ≈ 0.85（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.39 | — | 组间差异显著 |
+> |  |  | 纯纸笔发散思维测验 |  | k = 21 (N = 6,842) | <span class="mx-bar ef-bar conv" title="r 0.26 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.26 | [0.19, 0.33] | — |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 测量类型组合 | 双主观自陈 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | $Q_M(1) = 10.133, p = .002$ |
+> |  |  | 双客观表现测验 |  | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 教学组织形式 | 独立个体练习深思 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | — | 亚组差异显著 |
+> |  |  | 小组合作协作探究 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练核心方式 | 言语认知与思维策略 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 方式主效应极显著 |
+> |  |  | 思维 |  | N = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
+> |  |  | 情绪训练 |  | N = 2 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.066"><span class="b1"></span></span>−0.066 | — | — |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 构念范畴 | 认知与执行加工 | $r$ | E = 56 | <span class="mx-bar ef-bar conv" title="r 0.23 → d ≈ 0.47（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.23 | — | 组间差异显著（$p < .05$） |
+> |  |  | 外认知心理特质与信念 |  | E = 38 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | — | — |
+> |  |  | 背景变量 |  | E = 18 | <span class="mx-bar ef-bar conv" title="r 0.08 → d ≈ 0.16（d = 2r / √(1 − r²)）"><span class="b3"></span></span>0.08 | — | — |
+>
+> - **Haase et al. (2018) · 结果任务类型** CSE 对复杂真实成果的驱动力显著高于简单纸笔发散测验
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 测量类型组合** 证实自陈效能感[[Questionnaire\|问卷]]受到 [[Common Method Variance\|CMV]] 明显放大
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 教学组织形式** 独立经历完整解题闭环更能建立稳固的个人效能感归因
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练核心方式** 掌握经验与结构化认知是构建效能感的物质基础
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 构念范畴** 外认知信念与认知技能形成互补的双轮驱动结构
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -263,13 +277,6 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.06, 0.22] | 皮尔逊 $r$ / 多水平 CHE + RVE | $M = 14$；$E = 38$；$k = 892$；$N = 412,890$ | **外认知构念大类** 包含创造性自我效能感、动机与人格特质的外认知因素总体效应 | 95% PI $[-0.24, 0.49]$ | 确立外认知动力信念在全域创造力二阶效应模型中的基础支柱地位 |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
->
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 构念类别比较 | 构念范畴：认知与执行加工（$r = 0.23$） vs 外认知心理特质与信念（$r = 0.14$） vs 背景变量（$r = 0.08$） | 认知 $E = 56$ / 外认知 $E = 38$ / 背景 $E = 18$ | 认知 $r = 0.23$；外认知 **$r = 0.14$**；背景 $r = 0.08$ | 组间差异显著（$p < .05$） | 外认知信念与认知技能形成互补的双轮驱动结构 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

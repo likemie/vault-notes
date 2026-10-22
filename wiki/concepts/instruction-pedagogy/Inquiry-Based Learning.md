@@ -245,15 +245,26 @@ updated: 2026-10-22
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 3)]]<br>（引述 Schwichow et al., 2016） | <span class="mx-bar ef-bar" title="Cohen's d 0.61"><span class="b12"></span></span>0.61 | — | Cohen's $d$，随机效应模型 | $k = 72$ / — | 干预措施：变量控制策略（CVS）教学中包含探究与指导的干预有效性 | — | 证实单纯提供动手操作不足以掌握科研逻辑，结合支架的探究才能确保技能内化 |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | [0.313, 1.302] | Cohen's $d$，[[Random-Effects Model\|随机效应模型]] | $k = 7$ / $N = 893$ | 干预措施：[[Epistemic Cognition\|认识论认知]]干预中指导式探究（Guided Inquiry）对学业成就的促进效应 | $Q(6) = 101.035, p < .001$；组间 $Q_b(5) = 17.491, p < .01$ | 元分析亚组检验；指导式探究效应显著高于无结构支架的问题导向学习（PBL, $d = 0.340$）与开放论证教学（$d = 0.134$） |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Alfieri et al., 2011） | 干预措施（指导式探究 vs. 纯发现） | 辅助式探究组对比显性教学（$d = 0.30$） vs. 无辅助纯发现组对比显性教学（$d = -0.38$） | $k = 164$ / — | 辅助式探究 $d = 0.30$；纯发现 $d = -0.38$ | 组间差异显著（$p < .001$） | 证实探究教学的有效性完全取决于是否提供认知支架，不可将纯发现与探究混为一谈 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Furtak et al., 2012） | 干预措施（不同指导强度的探究） | 教师主导的探究（Teacher-led） vs. 学生自主探究（Student-led） | $k = 37$ / — | 教师主导探究 $g = 0.40$；学生自主探究 $g = 0.25$ | 教师主导组效应显著高于全自主组 | 证实教师在探究过程中的显性引导与脚手架搭建能产生更高的教学效益 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） | 调节因素（不同学习结果维度的指导增益） | 探究技能与活动生成表现 vs. 概念知识掌握结果 | $k = 72$ / — | 技能与表现维度 $d = 0.66$；概念知识掌握维度 $d = 0.44$ | 两类结果均达中到大效应 | 证实支架不仅能直接帮助学生顺利完成实验活动，更能直接促进长时记忆中的概念理解 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预措施（[[Epistemology\|认识论]]干预教学框架对比） | 指导式探究（$d = 0.808$） vs. 认知支架（$d = 0.663$） vs. 问题驱动学习（$d = 0.340$） vs. 论证教学（$d = 0.134$） | $k = 7$（指导式探究） / $N = 893$ | 指导式探究 $d = 0.808$；PBL $d = 0.340$；论证 $d = 0.134$ | $Q_b(5) = 17.491, p < .01$ | 认识论认知干预中，显性讲授指导步骤与变量控制支架的探究设计显著优于缺乏支架的开放问题解决与论辩 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Alfieri et al., 2011） | 结果变量 | 辅助式探究组对比显性教学 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.30"><span class="b6"></span></span>0.30 | — | 组间差异显著（$p < .001$） |
+> |  |  | 无辅助纯发现组对比显性教学 |  | — | <span class="mx-bar ef-bar neg" title="Cohen's d −0.38"><span class="b8"></span></span>−0.38 | — | — |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Furtak et al., 2012） | 结果变量 | 教师主导的探究（Teacher-led） | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.40"><span class="b8"></span></span>0.40 | — | 教师主导组效应显著高于全自主组 |
+> |  |  | 学生自主探究（Student-led） |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.25"><span class="b5"></span></span>0.25 | — | — |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） | 干预措施 | 探究技能与活动生成表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.66"><span class="b13"></span></span>0.66 | — | 两类结果均达中到大效应 |
+> |  |  | 概念知识掌握结果 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.44"><span class="b9"></span></span>0.44 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量 | 指导式探究 | Cohen's $d$ | k = 7 | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b(5) = 17.491, p < .01$ |
+> |  |  | 认知支架 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.663"><span class="b13"></span></span>0.663 | — | — |
+> |  |  | 问题驱动学习 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
+> |  |  | 论证教学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.134"><span class="b3"></span></span>0.134 | — | — |
+>
+> - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023, p. 4)]]<br>（引述 Alfieri et al., 2011） · 结果变量** 证实探究教学的有效性完全取决于是否提供认知支架，不可将纯发现与探究混为一谈
+> - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Furtak et al., 2012） · 结果变量** 证实教师在探究过程中的显性引导与脚手架搭建能产生更高的教学效益
+> - **[[Argument_DeJong_2023_ERR|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） · 干预措施** 证实支架不仅能直接帮助学生顺利完成实验活动，更能直接促进长时记忆中的概念理解
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量** 认识论认知干预中，显性讲授指导步骤与变量控制支架的探究设计显著优于缺乏支架的开放问题解决与论辩
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

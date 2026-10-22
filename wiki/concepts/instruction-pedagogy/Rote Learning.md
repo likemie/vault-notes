@@ -216,14 +216,25 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Dependent Variable\|结果变量]]与测验类型调节结果
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节[[Variable\|变量]]与成就维度 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 显著性与组间检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **[[Academic Achievement\|学业成就]]类型** 论证表现 vs. 概念性知识 vs. [[Procedural Knowledge\|程序性知识]]（死记硬背算法） vs. 常规知识 | 59 个[[Effect Size\|效应量]] / 4,373 | Cohen's $d$，随机效应模型 | 论证 $d = 1.047$；概念 $d = 0.557$；程序性 $d = 0.140$（不显著）；常规 $d = 0.127$（不显著） | $Q_b(3) = 8.940, p < .05$ | 证实认识论认知干预对需要深层因果权衡的任务有效，对死记硬背和程序计算完全脱节 |
-> | 同上 | **测量工具属性** 未对齐自编概念测验 vs. 教师常规期末统考（重在死记硬背） | 59 个效应量 / 4,373 | Cohen's $d$，随机效应模型 | 未对齐概念测验 $d = 0.808$；教师自编常规统考 $d = 0.012$（不显著） | $Q_b = 7.986, p < .01$ | 常规期末考试聚焦机械记忆与公式套用，导致认识论深层思维转变在传统考卷中出现假阴性 |
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | **学业成就认知深度** 概念性知识 vs. 论证 vs. 陈述性知识 vs. 程序性知识 | 151 篇 / 55,418 | Pearson's $r$，随机效应模型 | 概念性 $r = .190$；论证 $r = .154$；陈述性 $r = .127$；程序性 $r = .077$（不显著） | 组间检验趋势显著 | 证实深层认知信念仅与需要高级概念重构的任务显著关联，与死记硬背算法脱节 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 论证 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b(3) = 8.940, p < .05$ |
+> |  |  | 概念 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | — | — |
+> |  |  | 程序性 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | — | 不显著 |
+> |  |  | 常规 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.127"><span class="b3"></span></span>0.127 | — | 不显著 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 未对齐概念测验 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 7.986, p < .01$ |
+> |  |  | 教师自编常规统考 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.012"><span class="b0"></span></span>0.012 | — | 不显著 |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 亚组 | 概念性 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .190 → d ≈ 0.39（d = 2r / √(1 − r²)）"><span class="b8"></span></span>.190 | — | 组间检验趋势显著 |
+> |  |  | 论证 |  | — | <span class="mx-bar ef-bar conv" title="r .154 → d ≈ 0.31（d = 2r / √(1 − r²)）"><span class="b6"></span></span>.154 | — | — |
+> |  |  | 陈述性 |  | — | <span class="mx-bar ef-bar conv" title="r .127 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>.127 | — | — |
+> |  |  | 程序性 |  | — | <span class="mx-bar ef-bar conv" title="r .077 → d ≈ 0.15（d = 2r / √(1 − r²)）"><span class="b3"></span></span>.077 | — | 不显著 |
+>
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 证实认识论认知干预对需要深层因果权衡的任务有效，对死记硬背和程序计算完全脱节
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 亚组** 常规期末考试聚焦机械记忆与公式套用，导致认识论深层思维转变在传统考卷中出现假阴性
+> - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]] · 亚组** 证实深层认知信念仅与需要高级概念重构的任务显著关联，与死记硬背算法脱节
 
 > [!ref-table]- 跨文化[[Phenomenology\|现象学]]与比较实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -193,15 +193,6 @@ updated: 2026-10-22
 > | Sio and Ormerod (2009) | <span class="mx-bar ef-bar range" title="Cohen's d 0.29–0.45；取区间中点"><span class="b7"></span></span>0.29–0.45 | [0.20, 0.49] | Cohen's $d$ / 随机效应模型 | $k = 117$ 个实验对比 / $N \approx 4,500$ | **【干预[[Variable\|变量]]】** 实验性插入孕育期间隔期对[[Creative Problem Solving\|创造性问题解决]]表现的总体因果促进效应 | 异质性显著，受任务类型与插入活动强烈调节 | 确立暂时离开问题并从事无关活动对后续[[Creativity\|创造性]]突破产生稳健正向促进 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 见亚组表 | — | Hedges' $g$ / 多层随机效应模型 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | **【干预周期调节】** [[Creativity Training\|创造力干预]]周期维度的倒 U 型调控效应（短中期集训留出充分孕育空间） | 解释 13.4% 组间方差（$p < .01$） | 证实高密度中短期干预结合后续生活实践孕育能取得最优成效，过长干预导致倦怠递减 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组（孕育活动类型 / 训练周期梯次） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Sio and Ormerod (2009) | 【干预变量·插入活动类型】 | 孕育期活动：轻度无关认知任务（$d = 0.40$） vs 纯休息放空（$d = 0.24$） vs 高负荷任务（$d = 0.16$） | 轻度 $k = 45$ / 休息 $k = 38$ / 高负荷 $k = 34$ | 轻度任务 **$d = 0.40$**；纯休息 $d = 0.24$；高负荷 $d = 0.16$ | 组间差异显著（$p < .01$） | 证实轻度任务最利于阻断有意识反刍并为无意识联想留存背景资源 |
-> | 同上 | 【干预变量·问题任务[[Paradigm\|范式]]】 | 任务类型：创造性发散与顿悟难题（$d = 0.43$） vs 确定性逻辑推理与计算（$d = 0.11$） | 顿悟发散 $k = 68$ / 逻辑计算 $k = 49$ | 顿悟发散 **$d = 0.43$**；逻辑计算 $d = 0.11$ | 组间差异极显著（$p < .001$） | 证实孕育效应特异性地赋能于包含心智定势障碍的非线性创造性任务 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 【干预周期阶梯对比】 | 训练时长：$< 2$ 个月（$g = 0.844$） vs $< 4$ 个月（$g = 0.589$） vs $> 1$ 年（$g = 0.366$） | $<2$月 $N=24$ / $<4$月 $N=24$ / $>1$年 $N=11$ | $<2$月 **$g = 0.844$**；$<4$月 $g = 0.589$；$>1$年 $g = 0.366$ | 组间差异显著（$p < .01$） | 印证长期机械演练缺乏自然孕育消化，短周期聚焦训练产生更高净收益 |
-
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -215,6 +206,18 @@ updated: 2026-10-22
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 孵化时长 | < 2 个月 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | [0.518, 1.171] | — |
+> | Sio and Ormerod (2009) | 孕育期活动 | 轻度无关认知任务 | Cohen's $d$ | k = 45 | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | 组间差异显著（$p < .01$） |
+> |  |  | 纯休息放空 |  | k = 38 | <span class="mx-bar ef-bar" title="Cohen's d 0.24"><span class="b5"></span></span>0.24 | — | — |
+> |  |  | 高负荷任务 |  | k = 34 | <span class="mx-bar ef-bar" title="Cohen's d 0.16"><span class="b3"></span></span>0.16 | — | — |
+> | Sio and Ormerod (2009) | 任务类型 | 创造性发散与顿悟难题 | Cohen's $d$ | k = 68 | <span class="mx-bar ef-bar" title="Cohen's d 0.43"><span class="b9"></span></span>0.43 | — | 组间差异极显著（$p < .001$） |
+> |  |  | 确定性逻辑推理与计算 |  | k = 49 | <span class="mx-bar ef-bar" title="Cohen's d 0.11"><span class="b2"></span></span>0.11 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练时长 | < 2 个月 | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 组间差异显著（$p < .01$） |
+> |  |  | < 4 个月 |  | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.589"><span class="b12"></span></span>0.589 | — | — |
+> |  |  | > 1 年 |  | N = 11 | <span class="mx-bar ef-bar" title="Hedges' g 0.366"><span class="b7"></span></span>0.366 | — | — |
+>
+> - **Sio and Ormerod (2009) · 孕育期活动** 证实轻度任务最利于阻断有意识反刍并为无意识联想留存背景资源
+> - **Sio and Ormerod (2009) · 任务类型** 证实孕育效应特异性地赋能于包含心智定势障碍的非线性创造性任务
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练时长** 印证长期机械演练缺乏自然孕育消化，短周期聚焦训练产生更高净收益
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

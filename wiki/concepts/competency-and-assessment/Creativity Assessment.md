@@ -281,14 +281,6 @@ updated: 2026-10-22
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $k = 29$ 项实证研究 (109 ES) / $N = —$ | **[[Dependent Variable\|结果变量]]** 多维创造力测量工具在高校干预下的综合[[Learning Gain\|学习增益]] | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 涵盖 14 国高校实验，不同测量构念对干预的敏感度存在显著分化 |
 > | Acar et al. (2020) | <span class="mx-bar ef-bar" title="Hedges' g 0.53"><span class="b11"></span></span>0.53 | — | Hedges' $g$ / 随机效应模型 | $k = 30$ 项实证研究 / $N = 3,369$ | **结果变量** 显式指导语对[[Divergent Thinking\|发散思维]]测验得分的即时提升 | TTCT 图形测验达 $g = 0.62$ | 任务呈现阶段的测评指导语直接操纵测验表现 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 当前概念角色 | 对应亚组（测量类型与构念维度） | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念 | 测量类型组合：双主观自陈（$r = 0.509$） vs 双客观表现（$r = 0.317$） vs 客观创造力×主观批判思维（$r = 0.260$） vs 主观创造力×客观批判思维（$r = 0.195$） | $k = 51$ / $N = 12,548$ | 双主观最高（$r = 0.509$），双客观中等（$r = 0.317$），混合最低 | 测量类型主效应 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ | 证实自陈测量受 [[Common Method Variance\|CMV]] 人为放大，而客观任务反映真实认知重叠 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果[[Variable\|变量]] | 测量构念维度：创造性思维测验（$N = 24$） vs 图形测验（$N = 27$） vs 词汇测验（$N = 16$） vs 言语测验（$N = 23$） vs 问题解决任务（$N = 10$） vs 情绪量表（$N = 9$） | $N = 109$ | 思维 $g = 0.671$；图形 $g = 0.644$；词汇 $g = 0.641$；言语 $g = 0.606$；问题解决 $g = 0.539$；情绪 $g = 0.397$ | 构念响应分化显著 | 发散思维（[[Alternate Uses Test\|AUT]]/[[Abbreviated Torrance Test for Adults\|ATTA]]）与图形创作（[[Test for Creative Thinking-Drawing Production\|TCT-DP]]）最敏感，情绪量表（[[Emotional Creativity Inventory\|ECI]]）响应滞后 |
-
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
@@ -303,13 +295,22 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 变量角色 | 预测变量 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.29 → d ≈ 0.61（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.29 | [0.18, 0.41] | — |
 > |  |  | 结果变量 |  | — | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.05, 0.19] | — |
-
-> [!ma-table]- 二阶元分析互补维度亚组
-> <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 测量类型组合 | 双主观自陈 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | 测量类型主效应 $Q_M(1) = 10.133, p = .002$；交互项 $Q_M(1) = 6.524, p = .011$ |
+> |  |  | 双客观表现 |  | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | — |
+> |  |  | 客观创造力×主观批判思维 |  | — | <span class="mx-bar ef-bar conv" title="r 0.260 → d ≈ 0.54（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.260 | — | — |
+> |  |  | 主观创造力×客观批判思维 |  | — | <span class="mx-bar ef-bar conv" title="r 0.195 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.195 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 测量构念维度 | 创造性思维测验 | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | — | 构念响应分化显著 |
+> |  |  | 图形测验 |  | N = 27 | <span class="mx-bar ef-bar" title="Hedges' g 0.644"><span class="b13"></span></span>0.644 | — | — |
+> |  |  | 词汇测验 |  | N = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.641"><span class="b13"></span></span>0.641 | — | — |
+> |  |  | 言语测验 |  | N = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | — | — |
+> |  |  | 问题解决任务 |  | N = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.539"><span class="b11"></span></span>0.539 | — | — |
+> |  |  | 情绪量表 |  | N = 9 | <span class="mx-bar ef-bar" title="Hedges' g 0.397"><span class="b8"></span></span>0.397 | — | — |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 测评工具构念范式 | 创造过程测量（Process，含问题发现与深层加工） | $r$ | E = 12 | <span class="mx-bar ef-bar conv" title="r 0.27 → d ≈ 0.56（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.27 | [0.13, 0.41] | 组间差异显著（$p < .05$） |
+> |  |  | 发散思维测验（Divergent Thinking） |  | E = 34 | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.05, 0.23] | — |
 >
-> | 二阶元分析 | 当前概念角色 | 对应亚组 | 证据数 $M$ / $E$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 结果变量 | 测评工具构念[[Paradigm\|范式]]：创造过程测量（Process，含[[Problem Finding\|问题发现]]与深层加工） vs 发散思维测验（Divergent Thinking） | 过程测量 $E = 12$ / 发散测验 $E = 34$ | 过程测量 **$r = 0.27$** $[0.13, 0.41]$；发散测验 $r = 0.14$ $[0.05, 0.23]$ | 组间差异显著（$p < .05$） | 过程测量与认知干预关联系数显著高于单纯的发散思维数量测验 |
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 测量类型组合** 证实自陈测量受 [[Common Method Variance\|CMV]] 人为放大，而客观任务反映真实认知重叠
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 测量构念维度** 发散思维（[[Alternate Uses Test\|AUT]]/[[Abbreviated Torrance Test for Adults\|ATTA]]）与图形创作（[[Test for Creative Thinking-Drawing Production\|TCT-DP]]）最敏感，情绪量表（[[Emotional Creativity Inventory\|ECI]]）响应滞后
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 测评工具构念范式** 过程测量与认知干预关联系数显著高于单纯的发散思维数量测验
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

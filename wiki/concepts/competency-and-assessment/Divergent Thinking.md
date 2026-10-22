@@ -252,19 +252,38 @@ updated: 2026-10-22
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | Hedges' $g$；随机效应模型 | $k = 14$ / — | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | [0.439, 0.903] | Hedges' $g$；多层随机效应模型 | $k = 29$ (24 ES) / — | **结果[[Variable\|变量]]** [[Creativity Training\|创造力训练]]项目对大学生发散思维与[[Creativity\|创造性思维]]（Creative thinking）的综合提升 | $Z = 5.675, p < .001$；全集 $Q(28) = 178.51, I^2 = 84.31\%$ | 涵盖 TTCT-F/V、ATTA 等经典任务，增益居所有构念子维度之首 |
 
-> [!ma-table]- 一阶元分析互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果[[Variable\|变量]]（思维类型） | **发散思维（Divergent Thinking）** | $k = 14$ / — | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $Q_b = 7.07, p < .01$；两组差异极显著 | 空间分支辐射极大激发联想网络与独创构想 |
-> | 同上 | 结果变量（思维类型） | **[[Convergent Thinking\|聚合思维]]（Convergent Thinking）** | $k = 55$ / — | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | 组间差异显著 | 受确定性规则与形式逻辑约束 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（训练方式） | 言语训练（$N = 15$） vs 思维训练（$N = 13$） vs 技术型（$N = 20$） | $N = 48$ | 言语 $g = 0.998$；思维 $g = 0.762$；技术型 $g = 0.552$ | 组间差异显著（$p < .001$） | 言语符号即时外化与启发式策略对发散任务赋能最强 |
-> | 同上 | 结果变量（组织形式） | 独立个体练习（$N = 48$） vs 小组协作（$N = 61$） | $N = 109$ | 独立 $g = 0.682$ $[0.501, 0.863]$；小组 $g = 0.567$ $[0.462, 0.673]$ | $Z = 7.38\ (p < .001)$ | 个体深思有效规避群体评价顾虑与生产力阻塞 |
-> | 同上 | 结果变量（干预周期） | $< 2$ 个月（$N = 30$） vs $< 1$ 周（$N = 37$） vs $< 3$ 年（$N = 5$） | $N = 72$ | $< 2$ 个月 $g = 0.844$；$< 1$ 周 $g = 0.576$；$< 3$ 年 $g = -0.122$ | 元回归解释 13.4% 组间方差 | 呈现倒 U 型时间曲线，中短期强化训练最具效能 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果[[Variable\|变量]]（干预时长） | 0–8 周（$k = 15$） vs 8–16 周（$k = 31$） vs $>16$ 周（$k = 13$） | $k = 59$ / — | 0–8 周 $g = 0.494$；8–16 周 $g = 0.759$；$>16$ 周 $g = 0.372$ | $Q_b = 9.106, df = 2, p = 0.011$ | 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口，长期缺乏支架易致思维怠惰 |
-> | 同上 | 结果变量（[[Self-Regulated Learning\|自主调节学习]]） | 高 [[Self-Regulated Learning\|SRL]] 能力组（$k = 31$） vs 低 SRL 能力组（$k = 25$） | $k = 56$ / — | 高 SRL $g = 0.863$ $[0.679, 1.048]$；低 SRL $g = 0.284$ $[0.188, 0.380]$ | $Q_b = 40.962, df = 1, p < 0.001$ | 自我调节构成决定性分水岭，高能动性学习者有效将 AI 转化为发散中介并防范认知外包 |
-> | 同上 | 结果变量（教学模式） | 讲授式（$k = 6$） vs [[Problem-Based Learning\|项目式学习]]（$k = 31$） vs 混合式（$k = 22$） | $k = 59$ / — | 讲授式 $g = 0.396$（不显著）；项目式 $g = 0.717$；混合式 $g = 0.525$ | $Q_b = 2.918, df = 2, p = 0.232$ | 真实任务驱动的项目式探究更能激发高阶发散与方案重组潜能 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$；两组差异极显著 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（训练方式） | 言语训练 | Hedges' $g$ | N = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 组间差异显著（$p < .001$） |
+> |  |  | 思维训练 |  | N = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
+> |  |  | 技术型 |  | N = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（组织形式） | 独立个体练习 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | [0.501, 0.863] | $Z = 7.38\ (p < .001)$ |
+> |  |  | 小组协作 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | [0.462, 0.673] | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（干预周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 元回归解释 13.4% 组间方差 |
+> |  |  | < 1 周 |  | N = 37 | <span class="mx-bar ef-bar" title="Hedges' g 0.576"><span class="b12"></span></span>0.576 | — | — |
+> |  |  | < 3 年 |  | N = 5 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.122"><span class="b2"></span></span>−0.122 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（干预时长） | 0~8 周 | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
+> |  |  | 8~16 周 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | — | — |
+> |  |  | >16 周 |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | — | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（自主调节学习） | 高 SRL 能力组 | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
+> |  |  | 低 SRL 能力组 |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（教学模式） | 讲授式 | Hedges' $g$ | k = 6 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | $Q_b = 2.918, df = 2, p = 0.232$；不显著 |
+> |  |  | 项目式学习 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.717"><span class="b14"></span></span>0.717 | — | — |
+> |  |  | 混合式 |  | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.525"><span class="b10"></span></span>0.525 | — | — |
+>
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 结果变量（思维类型）** 空间分支辐射极大激发联想网络与独创构想
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 结果变量（思维类型）** 受确定性规则与形式逻辑约束
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（训练方式）** 言语符号即时外化与启发式策略对发散任务赋能最强
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（组织形式）** 个体深思有效规避群体评价顾虑与生产力阻塞
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（干预周期）** 呈现倒 U 型时间曲线，中短期强化训练最具效能
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（干预时长）** 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口，长期缺乏支架易致思维怠惰
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（自主调节学习）** 自我调节构成决定性分水岭，高能动性学习者有效将 AI 转化为发散中介并防范认知外包
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（教学模式）** 真实任务驱动的项目式探究更能激发高阶发散与方案重组潜能
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

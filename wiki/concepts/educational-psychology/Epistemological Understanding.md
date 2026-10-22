@@ -182,12 +182,14 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
-> <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 预测/解释[[Variable\|变量]]（[[Independent Variable\|自变量]]） | 测量工具调节：[[Epistemological Understanding\|认识论理解]]量表（EUI） | $k = 5$ / $N = —$ | 共同相关系数尺度：**$r = .242$** $[.104, .371]$ | 问卷工具间效应差异显著（$p < .05$） | 证实聚焦认识论理解构念的测评工具对学业成就具有中等偏强的正向预测效力，显著高于传统泛化信念量表 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 测量工具调节 | 认识论理解量表（EUI） | $r$ | k = 5 | <span class="mx-bar ef-bar conv" title="r .242 → d ≈ 0.50（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.242 | [.104, .371] | 问卷工具间效应差异显著（$p < .05$） |
+>
+> - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]] · 测量工具调节** 证实聚焦认识论理解构念的测评工具对学业成就具有中等偏强的正向预测效力，显著高于传统泛化信念量表
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
