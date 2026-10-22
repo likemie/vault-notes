@@ -9739,6 +9739,16 @@
     ]
   },
   {
+    "title": "Corridors of Power",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Corridors of Power.md",
+    "aliases": [
+      "权力走廊",
+      "公共外交走廊",
+      "次国家外交走廊"
+    ]
+  },
+  {
     "title": "Cultural Diplomacy",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Cultural Diplomacy.md",
@@ -10624,6 +10634,17 @@
     ]
   },
   {
+    "title": "Power Conversion Dilemma",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Power Conversion Dilemma.md",
+    "aliases": [
+      "权力转化困境",
+      "软实力转化困境",
+      "公共外交转化困境",
+      "转化悖论"
+    ]
+  },
+  {
     "title": "Preemptive Governance",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Preemptive Governance.md",
@@ -10985,6 +11006,16 @@
       "策略性合规",
       "依从博弈",
       "compliance"
+    ]
+  },
+  {
+    "title": "Subnational Public Diplomacy Strategies",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Subnational Public Diplomacy Strategies.md",
+    "aliases": [
+      "次国家公共外交策略",
+      "汲取–微调–规避策略",
+      "Extract-Nudge-Avoid Strategy"
     ]
   },
   {
@@ -22336,6 +22367,17 @@
       "interrupted time series",
       "间断时间序列设计",
       "中断时间序列设计"
+    ]
+  },
+  {
+    "title": "Tracking Underreported Financial Flows",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Tracking Underreported Financial Flows.md",
+    "aliases": [
+      "未充分报告资金流追踪法",
+      "TUFF 方法",
+      "TUFF 数据搜集法",
+      "TUFF methodology"
     ]
   },
   {
@@ -36961,6 +37003,18 @@
     "aliases": [
       "美国文凭项目",
       "ADP"
+    ]
+  },
+  {
+    "title": "American Spaces",
+    "type": "fact",
+    "path": "wiki/facts/us/American Spaces.md",
+    "aliases": [
+      "美国空间",
+      "美国中心",
+      "美国角",
+      "American Centers",
+      "American Corners"
     ]
   },
   {

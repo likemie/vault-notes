@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "template-instrument",
+      "path": "wiki/templates/template-instrument.md"
+    },
+    {
       "basename": "VisibleLearning_MetaX_Full",
       "path": "wiki/MetaX/VisibleLearning_MetaX_Full.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "template-concept",
       "path": "wiki/templates/template-concept.md"
-    },
-    {
-      "basename": "template-instrument",
-      "path": "wiki/templates/template-instrument.md"
     },
     {
       "basename": "template-fact-program",
