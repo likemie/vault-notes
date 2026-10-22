@@ -204,6 +204,7 @@ updated: 2026-10-22
 > - **三代知识到行动演进模型（Best & Holmes, 2010）** 第一代关注线性单向的“知识推送”（Push model）；第二代强调生产者与使用者的关系型“[[Knowledge Co-production|协同生产]]”（Co-production）；第三代迈向“系统与程序路径”（Systems and procedural approach），拆解政策各阶段的证据利用能力与支持生态。
 > - **政策全生命周期阶段依随型证据利用模型（Stage-Contingent Utilization Model; [[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）** 破除线性[[Technical Rationality|技术理性]]转化假定，实证揭示研究在政策不同阶段扮演截然不同的功能形态：① **议程设置（Agenda Setting）**，概念性启发与象征性动员，利用跨国评估数据（如 [[TIMSS]]、[[National Assessment of Educational Progress|NAEP]]）将教育短板包装为关乎国家经济[[Competitiveness|竞争力]]的生存危机；② **方案研制（Policy Formulation）**，去政治化护盾与知识补位，研究证据提供政治避风港以抵御利益集团压力，在因果实证断层处由学科专家逻辑演绎与一线教师[[Professional Judgment|专业判断]]协同补位；③ **政策采纳（Policy Adoption）**，微观工具性比对与同行信任代理，依托交叉比对分析（Crosswalks）证明合规性，并通过多学科专家验证委员会的同行声誉完成[[Epistemology|认识论]]信任委托。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
 > - **研究证据质量使用（[[Quality Use of Research Evidence Framework|QURE]]）双核构件** 马克·里克森（[[Mark Rickinson]]）等基于跨四大实践领域 112 篇核心文献的[[Systematic Review|系统综述]]，打破侧重“证据生产质量”或二元采纳的局限，确立高质量使用的双核心构件：① **适切研究证据（Appropriate Research Evidence）**，要求研究证据兼具方法学严谨性与针对具体教育问题、现场情境脉络及预期用途的三维适配（Nutley et al., 2013）；② **审慎参与和实施（Thoughtful Engagement and Implementation）**，要求教育者克服证据自行发声的幻想（Coburn et al., 2009），能动地开展批判研读、集体审议与日常情境化整合（Sharples, 2013）。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 140–145)]]
+> - **三维证据利用路径与快慢车道模型（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a]]）** 针对全球教育政策、规划与实施中研究证据利用面临的双重反馈回路断裂，提出适切产品（Products，多语言指南与政策简报）、协同关系（Relationships，跨界网络与同行评议）与制度使能（Systems，法定规程前置审核与长效中介处室）三维转化路径；并以快慢车道模型阐释身处快车道的政策制定者（应对突发危机）与慢车道的研究者（同行评审周期）天然的节奏张力，确立中间车道政策中介与区域支持枢纽的制度桥梁功能。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 10–12, 28–30, 41–42)]]
 
 基础形态学确立了研究利用的分类基础与历史范式；然而，研究成果能否真正转化为实践效能，关键取决于微观一线专业人员的心理认知驱动与教学行为情境。
 
@@ -286,6 +287,9 @@ updated: 2026-10-22
 > [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
 > **阶段依随型功能分化与去政治化护盾机制** 政策全生命周期实证表明，研究证据的利用呈现清晰的阶段依随性（Stage-contingent）：在议程设置阶段主要发挥概念启发与象征动员功能（如利用 [[TIMSS]] 数据诊断课程“一英里宽、一英寸深”并关联经济危机）；在方案研制阶段，研究被用作抵御外部意识形态与利益集团施压的去政治化护盾（De-politicization shield），但面对实证研究的客观盲区，必须与学科专家逻辑演绎及一线教师[[Professional Judgment|专业判断]]深度协同；在政策采纳阶段，[[Research Translation|研究转化]]为微观交叉比对分析（Crosswalks）与同行信任代理，促成跨党派立法采纳。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
 
+> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
+> **双重反馈断裂与三维利用治理路径** 针对 103 国教育政策规划的实证审查表明，宏观政策层面的研究利用面临学术生产与决策实践之间、全球集中供给与本土情境需求之间的双重反馈回路断裂。决策官员身处快节奏政治应对中，普遍缺乏研读长篇技术报告的时间与技能；克服断裂要求超越单向产品推送，通过适切产品、协同关系与制度使能（法定前置审核与高校考评改革）三维联动，并依托区域支持枢纽重塑政策研究利用生态。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25, 41–42)]]
+
 ---
 
 ### 命题二　科研知识传播存在信息过载与单向推送无效性，必须转向基于行为科学的需求牵引与能力支持机制
@@ -359,7 +363,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性与去政治化护盾机制 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
+> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性、双重反馈断裂与三维治理路径 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
 > | **知识传播与行为机制** | 单向推送无法克服信息赤字，研究利用依赖基于能力、机会与动机的行为改变支撑 | 证据中介干预设计、教师研修与成果转化 | Caplan (1991); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]; Lord et al. (2017) |
 > | **组织治理与制度塑造** | 跨层治理机制协同影响学校证据使用，高利害问责诱发表演性合规而低利害生态支持反思探究 | 学校组织改进、问责督导制度评估与比较教育治理 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 > | **微观知行与多源整合** | 克服知行脱节需加强技能与阅读输入，教学决策本质是结合育人伦理的多源知识整合 | 教师专业发展、课堂教学决策与校本教研 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]; [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
@@ -380,6 +384,7 @@ updated: 2026-10-22
 > - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心文献，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
 > - **2011–2013 / 2022 — 政策组织内部的研究选择与文本化规程** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 依据 2011–2013 年[[Swedish Schools Inspectorate|瑞典学校督察局]]的访谈、会议观察与文件，[[Cohort Study|追踪研究]]知识如何被选择、转译为评估领域、写入知识综述并在报告定稿前被重写，把研究使用研究从“用了没有”推进到组织内部“谁选择、谁转译、谁删改”的流程分析。
+> - **2024 — 全球战略审查与三维证据利用路径** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 基于 103 国调查与 654 个平台测绘，诊断学术与政策、全球与本土之间的双重反馈回路断裂，确立产品型、关系型与系统型三维转化路径与区域支持枢纽治理架构。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年文献的赤字[[Discourse|话语]]，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代研究使用理论。
 > - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为[[Performativity|表演性]]辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
 
@@ -457,8 +462,9 @@ updated: 2026-10-22
 > | [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] | 29 个 [[OECD]] 国家/地区，37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与 6 国跟进[[Semi-structured Interview\|半结构化访谈]] | 研究利用促成机制普及率与核心阻碍障壁 | 机制均值政策 4.7 项 / 实践 4.9 项；互动项目（实践 86% / 政策 65%）、专项经费 70%、成果分发工具 60% vs 能力建设（政策 49% / 实践 39%）、全系统战略仅 22%；核心障壁前三位为研读时间缺乏、科研周期冲突与专门机制缺乏；科研委托（62%/49%）严重倒置于需求识别（51%/32%） | — | 揭示机制数量与障壁感知的非对称错配（“机制短缺”本质上是现有机制孤立碎片化）；实证确立供给驱动导致的研究生产与实践需求脱节（pp. 107–118） |
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Lord et al. (2017; Gough et al., 2022, p. 152)]] | 英格兰 800 余所公立小学、数千名五年级与六年级语文教师及数万名学童 | 大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（Multi-armed RCT，[[Education Endowment Foundation\|EEF]] “识字八爪鱼”试验），由英国国家教育研究基金会（NFER）独立实施 | 精编纸质手册、数字化通讯、专业期刊专栏、低交互网络资源库四类单向传播干预臂对小学毕业统考 Key Stage 2（KS2）阅读写作标准化成绩及教师教学行为的影响 | 经过严格意向性分析（ITT），四类单一信息传播策略在改善学童 KS2 识字成绩上均未达到统计学显著性（[[Effect Size\|效应量]]接近于 0）；教师课堂教学行为亦未见可识别的系统性转变 | 统计学不显著（p > 0.05，效应量接近于 0） | 大规模严谨因果多臂 RCT，确证单纯单向信息推送在改变教学行为与学业产出上的因果无效性，从实证上[[Falsification\|证伪]]了信息赤字假设 |
 > | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] | 卫生保健、社会关照、教育与公共政策四大实践领域 | 跨领域[[Systematic Review\|系统综述]]与叙事综合（PRISMA 规程） | 跨学科数据库检索检出与最终纳入篇数分布 | 初检 10,813 篇，查重后 10,634 篇，初筛剔除 9,837 篇，评估 797 篇全文，最终精选 112 篇核心文献（卫生 30 篇、社工 29 篇、教育 31 篇、政策 22 篇）撰写 6,000–12,000 词综述 | — | 首次跨领域系统检视使用质量文献，实证揭示各领域对使用质量显性定义的普遍匮乏，并确立[[Professional Judgment\|专业判断]]与系统动态性两大跨界共识（pp. 135–140） |
-> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]；常规督导与一次质量审计 | [[Case Study\|工具性个案研究]]，含两个嵌入式迷你个案；半结构化访谈与会议观察 | 研究知识进入督导流程的形态：研究选择、评估领域提炼、知识综述、参考组协商、报告重写 | 常规督导访谈 7 名高层管理组成员和 3 名督导/法律专家，从成功学校研究提炼约 10 个评估领域；质量审计访谈 2 名研究者、观察 2 次参考组会议，最终报告删除参考组讨论的课程解释 | 不适用（质性研究，不作统计推断） | 揭示研究使用是组织内部的选择与文本化链条，机构没有统一的选择政策，最终文本决定哪些知识进入治理（pp. 645–654） |
+> | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate|瑞典学校督察局]]；常规督导与一次质量审计 | [[Case Study|工具性个案研究]]，含两个嵌入式迷你个案；半结构化访谈与会议观察 | 研究知识进入督导流程的形态：研究选择、评估领域提炼、知识综述、参考组协商、报告重写 | 常规督导访谈 7 名高层管理组成员和 3 名督导/法律专家，从成功学校研究提炼约 10 个评估领域；质量审计访谈 2 名研究者、观察 2 次参考组会议，最终报告删除参考组讨论的课程解释 | 不适用（质性研究，不作统计推断） | 揭示研究使用是组织内部的选择与文本化链条，机构没有统一的选择政策，最终文本决定哪些知识进入治理（pp. 645–654） |
 > | 同上 | $N = 258$（读刊+做研究 $n=38$；不读刊+不做研究 $n=141$） | 双重支持组 vs 完全缺失组 | 教师研究使用（Research Use） | 双重支持组 $M=4.19 (SD=0.60)$；完全缺失组 $M=3.63 (SD=0.63)$ | $p < .01$ | 揭示双重行为支持下的显著梯级表现（使用均分突破 4.1） |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a, pp. 21–25)]] | 覆盖 103 国 898 名政策受访者的全球调查及 33 名关键知情人访谈 | 全球网络问卷调查与关键知情人访谈 | 证据平台网络连接、政策利用瓶颈与制度支持形态 | 识别出 654 个证据平台，54% 属国家级且与国际平台处于孤立状态（网络离散度 0.99，含 121 个完全孤立组件）；74% 平台未与任何中介网络链接；62% 部委官员报告缺乏解读技术性报告的时间与能力 | 全球五大区域覆盖 | 实证确立全球证据过剩与国家决策吸纳不足并存的结构性悖论，确立区域支持枢纽与产品-关系-系统三维治理路径必要性 |
 
 ---
 
