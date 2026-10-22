@@ -5,6 +5,14 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md"
     },
     {
+      "basename": "Every Student Succeeds Act",
+      "path": "wiki/facts/us/Every Student Succeeds Act.md"
+    },
+    {
+      "basename": "SUMMA",
+      "path": "wiki/facts/chile/SUMMA.md"
+    },
+    {
       "basename": "UN Sustainable Development Goals",
       "path": "wiki/facts/global/UN Sustainable Development Goals.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Geopolitics",
       "path": "wiki/concepts/political-economy-geopolitics/Geopolitics.md"
-    },
-    {
-      "basename": "Public Diplomacy",
-      "path": "wiki/concepts/political-economy-geopolitics/Public Diplomacy.md"
-    },
-    {
-      "basename": "Luban Workshop",
-      "path": "wiki/facts/china/Luban Workshop.md"
     }
   ],
   "omittedPaths": [],
