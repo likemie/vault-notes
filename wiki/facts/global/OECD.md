@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 147
+fact_related_count: 148
 fact_related_level: 14
 fact_related_stars: "💎💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"

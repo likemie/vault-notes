@@ -12,9 +12,9 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 5
-fact_related_level: 1
-fact_related_stars: "⭐"
-fact_related_color: "#dbeafe"
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: intergovernmental-steering-body
 headquarters: "Paris, France"
 established: "2021"
