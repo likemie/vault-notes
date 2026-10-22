@@ -5,11 +5,11 @@ aliases:
   - Lubienski, C.
   - C. Lubienski
   - Chris Lubienski
-summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育政策研究中心教授；以研究思想市场（Marketplace of Ideas）、教育政策中的智库角色与新自由主义教育改革（私立化、择校制度）闻名。其「思想市场」概念被 Steiner-Khamsi et al.（2024）引用，揭示证据过剩时代政策中介机构通过竞争性证据选择推销意识形态处方的政治生态。"
+summary: "美国教育政策学者，印第安纳大学布卢明顿分校教授，以研究思想市场、教育智库政治学与择校市场化闻名。其理论揭示政策中介机构在证据过剩环境下选择性包装实证以推销特定意识形态处方的运作机制。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Market Failure]]"
   - "[[Discourse]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -47,75 +48,88 @@ related_facts:
   - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育领导与政策研究中心教授，曾任伊利诺伊大学厄巴纳-香槟分校（UIUC）教育政策教授。
-> - **核心角色** 研究教育政策中的智库（Think Tanks）、[[Policy Brokerage\|政策中介]]机构与新自由主义改革（[[School Choice\|择校]]制度、私立化、课程市场化）的权威学者；以"思想市场"（Marketplace of Ideas）概念揭示过剩研究证据在意识形态竞争中的政治化利用。
-> - **代表贡献** 系统分析右翼教育智库如何在"思想市场"中选择性挑拣研究证据、绕过学术同行评审机制直接向政策制定者兜售处方；其研究深刻揭示了教育政策领域的"[[Surplus of Evidence\|证据过剩]]"与"信息孤岛"（Information Silos）现象，是 Steiner-Khamsi 论文直接援引的核心文献来源之一。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 537)]]
+> - **身份位置** 美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育领导与政策研究教授，教育评估与政策中心（CEEP）主任，曾任伊利诺伊大学厄巴纳-香槟分校教授。
+> - **核心角色** 教育政策智库、[[Policy Brokerage|政策中介]]网络与新自由主义教育改革（[[School Choice|择校]]制、私立化）的批判研究学者；以“思想市场”（Marketplace of Ideas）分析框架揭示[[Surplus of Evidence|证据过剩]]环境下中介机构的证据挑拣与包装机制。
+> - **代表贡献** 实证检验公私立学校学业表现以反思择校假设；系统解构右翼智库绕过同行评审直接向政客兜售定制方案的政治操作；其思想市场与中介分析成为全球教育治理剖析政策脱节的核心理论来源。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 537)]]
 
-> [!citation-card] 思想市场中的逆向选择：政策中介的意识形态性证据挑拣
-> 在日益拥挤的教育政策思想市场（Marketplace of Ideas）中，政治家与政策制定者并不寻找最优质的学术证据，而是如同逛超市一般，从货架上精准挑拣能够佐证其既定意识形态主张的研究结论，同时将不利研究斥为伪科学或政治偏见。证据过剩不仅未能净化政策决策，反而为各路中介机构提供了无限的合法化弹药。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 537)]]
+> [!citation-card] 思想市场中的逆向选择：政策中介的意识形态证据挑拣
+> 在日益拥挤的教育政策思想市场中，政治家与决策官员基于既定立场筛选证据，如同逛超市一般从货架上精准挑选契合意识形态主张的实证结论，并将不利研究归咎为方法偏差；海量证据供给直接为各路中介机构提供了定制化合法工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 537)]]
 >
-> *In the marketplace of ideas, political actors do not search for the best evidence but shop selectively, picking studies that confirm their predefined ideological positions while dismissing inconvenient findings as pseudo-science or bias. The surplus of evidence thus serves not to enlighten policy but to supply unlimited legitimating ammunition for competing intermediaries.*
+> *“In the marketplace of ideas, political actors do not search for the best evidence but shop selectively, picking studies that confirm their predefined ideological positions while dismissing inconvenient findings as pseudo-science or bias. The surplus of evidence thus serves not to enlighten policy but to supply unlimited legitimating ammunition for competing intermediaries.”*
 
 ---
 
 > [!timeline] 生平与职涯
-> - **学术成长期** 在美国接受教育研究领域的系统培训，早期研究聚焦教育市场化与[[School Choice\|择校]]政策的实证效果，逐渐转向对教育政策[[Knowledge Production\|知识生产]]政治学的批判性反思。
-> - **伊利诺伊大学时期** 担任 UIUC 教育政策系教授，建立教育智库与[[Policy Brokerage\|政策中介]]研究的系统研究议程；与 Sarah Lubienski 合作开展大规模的公立学校与私立学校[[Academic Achievement\|学业成绩]]比较研究。
-> - **2019 — 思想市场奠基文献** 发表《政策空间中的想法：教育政策中的智库与市场》（*The Idea of a Market in Education Policy*）系列研究，提出"教育思想市场"框架，系统揭示智库绕过学术同行评审直接渗透政策流程的机制。
-> - **印第安纳大学时期（至今）** 转至印第安纳大学布卢明顿分校担任教授，继续推进择校制度、私立化政策与政策[[Knowledge Mediation\|知识中介]]的跨国比较研究。
+> - **2001** 获密歇根州立大学教育政策博士学位，早期聚焦教育市场化与公私立学校效益比较。
+> - **2004–2016** 任教于伊利诺伊大学厄巴纳-香槟分校，建立教育智库与政策知识中介研究议程，与 Sarah Lubienski 开展大规模学业成绩实证检验。
+> - **2016–至今** 担任印第安纳大学布卢明顿分校教授，出任教育评估与政策中心主任，系统拓展思想市场、信息孤岛与跨国教育治理研究。
+> - **2019** 发表教育思想市场奠基性研究，系统揭示政策智库绕过学术同行评审直接影响决策的政治机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 537)]]
 
 ---
 
 > [!thought-timeline] 思想发展
-> - **早期 — 教育市场化的实证批判** 对[[School Choice\|择校]]制度、特许学校（Charter Schools）与凭证制度（Voucher Programs）的[[Academic Achievement\|学业成绩]]效果进行严格实证检验，挑战新自由主义教育改革支持者的过度乐观主张。
->   - **代表著作** *The Public School Advantage* (University of Chicago Press, 2014)（与 Sarah Lubienski 合著）——系统证明控制社经[[Variable\|变量]]后公立学校数学成绩优于私立学校。
->   - **关键概念** Charter Schools, Voucher Programs, Market-based Education Reform.
->   - **阶段转向** 从单纯的实证效果研究转向追问"为何明明效果不佳的教育改革仍能在政策市场中大行其道"。
-> - **中期 — 思想市场与教育智库政治学** 系统研究教育政策智库（Cato Institute, Heritage Foundation, [[Thomas B. Fordham Institute]] 等）如何生产、包装与推销契合意识形态目标的"研究证据"。
->   - **代表著作** "Advocacy Organizations and the Politics of Information in Education Policy" (*Peabody Journal of Education*, 2014); *Thinking for a Living: Think Tanks, the Policy Process, and the Case of Education Reform* (series articles, 2019)。
->   - **关键概念** Marketplace of Ideas、智库（Think Tanks）、Policy Advocacy Research、[[Surplus of Evidence]]中介化。
->   - **阶段转向** 建立对政策[[Knowledge Production\|知识生产]]政治经济学的系统批判框架，为 Steiner-Khamsi et al. 的"证据过剩"分析提供了重要经验基础。
-> - **近期 — 跨国[[Policy Borrowing\|政策借用]]中的智库网络与信息孤岛** 探索跨国右翼智库网络如何跨越国界协调传播意识形态政策处方，以及"信息孤岛"（Information Silos）如何加速极化政策环境中的知识碎片化。
->   - **关键概念** Information Silos、Transnational [[Policy Network\|policy networks]]、[[Policy Borrowing]]的意识形态性。
+> - **2001–2014 — 教育市场化的实证批判** 对[[School Choice|择校]]制度、特许学校与教育券的学业效益进行大规模量化检验，质疑市场化改革提高教育质量的假设。
+>   - **代表著作** *The Public School Advantage* (2014, 与 Sarah Lubienski 合著)。
+>   - **关键概念／方法** [[School Choice|择校]]制度、[[Academic Achievement|学业成绩]]、[[Variable|变量]]控制。
+>   - **阶段转向** 从微观层面的干预实效检验，转向追问未见实效的市场化政策何以在政治议程中持续扩张。
+> - **2014–2019 — 思想市场与教育智库政治学** 深入分析[[Thomas B. Fordham Institute|福特汉姆研究所]]等智库的知识生产逻辑，揭示中介组织如何生产与包装定制证据。
+>   - **代表著作** "The Idea of a Market in Education Policy" (2019)。
+>   - **关键概念／方法** 思想市场（Marketplace of Ideas）、[[Policy Brokerage|政策中介]]、[[Knowledge Production|知识生产]]。
+>   - **阶段转向** 建立政策知识生产与消费的政治经济学框架，阐明供给侧包装与需求侧挑拣的共谋机制。
+> - **2019–至今 — 证据过剩、中介网络与信息孤岛** 剖析数字时代海量研究涌现对治理生态的冲击，揭示政策受众圈层化与中介网络的双刃剑效应。
+>   - **代表著作** "Research Use in Education Policy" (2022, 与 H. Malin 合著)。
+>   - **关键概念／方法** [[Surplus of Evidence|证据过剩]]、信息孤岛（Information Silos）、[[Educational Brokerage Agency|知识中介网络]]。
+>   - **阶段转向** 将分析边界拓展至全球治理层面，揭示学术慢车道与官僚快车道之间的中介依赖与证据扭曲。
 
 ---
 
-> [!claim] 思想市场：[[Surplus of Evidence\|证据过剩]]时代的政策知识竞争
-> 卢宾斯基的核心论点是：教育政策领域存在一个充斥着相互竞争研究主张的"思想市场"。在这一市场中，供给侧（智库、顾问公司、国际组织）争相生产定制化证据产品，而需求侧（政治家、官员）则以意识形态偏好为购物篮，进行高度选择性的证据消费。这一市场逻辑导致"更多证据"非但未能提升政策理性，反而制造了"证据过剩"的认知混乱，并为各路中介机构提供了无限的合法化操作空间。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 537)]]
+> [!claim] 核心思想
+> 卢宾斯基主张教育政策领域实质上是一个充斥着证据产品竞争的“思想市场”。在这一市场中，政策中介机构（智库、咨询实体、基金会）凭借敏捷的包装手段入场填补学术生产与政府决策之间的制度鸿沟；然而，政策需求侧基于政治利益与意识形态进行选择性采纳，导致海量证据不仅未能实现理性治理，反而加剧了政策认知割裂与信息孤岛。
 
-> [!claim] 信息孤岛：证据竞争的认知基础设施危机
-> 卢宾斯基与 Malin（2022）进一步指出，数字化时代的证据过剩不仅制造海量信息，更在政策受众中催生彼此割裂、自我强化的"信息孤岛"（Information Silos）。政策行为者越来越倾向于只消费与自身既有立场相容的信息，使思想市场的逆向选择效应进一步加剧，国际组织的"客观权威"角色因此变得愈发关键——在孤岛林立的环境中，[[OECD]]、[[World Bank\|世界银行]]等机构凭借表面中立的统计权威，成为少数被多元利益相关者共同接受的信息仲裁者。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
+> [!citation-card] 知识中介包装实证的双刃剑效应
+> 在学术研究慢车道与政府决策快车道之间的制度鸿沟中，涌现出大量咨询公司、智库与基金会等中介网络。这些机构主动搜集、包装并推销实证材料以引导决策；但其往往推销标准化、简明化而缺乏情境适配性的方案，甚至选择性呈现契合资助方立场的数据，在降低官员检索成本的同时加剧了真伪甄别的认知负担。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14–15)]]
+>
+> *“In the huge chasm between academic production and political decision-making, intermediary networks have emerged... Intermediaries tend to push standardized, simplified interventions lacking contextual fit, or selectively present data favoring funders' commercial or political stances.”*
 
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 将政治经济学的"[[Market Failure|市场失灵]]"分析引入教育政策[[Knowledge Production\|知识生产]]领域，为比较教育批判政策研究提供了一套解释智库主导政策[[Discourse|话语]]的理论工具。
-> - **实证路径** 大规模公私立学校比较研究（《公立学校优势》）颠覆了新自由主义[[School Choice\|择校]]倡导者的核心实证主张，在美国教育政策辩论中引发持续反响。
-> - **国际传播** "思想市场"与"信息孤岛"概念被 Steiner-Khamsi、Martens、Ydesen 等欧洲比较教育学者引入全球教育治理分析，成为解释[[Surplus of Evidence\|证据过剩]]时代[[Policy Brokerage\|政策中介]]崛起的核心背景理论之一。
+> - **理论路径** 将“思想市场”与“信息孤岛”范式引入批判性政策研究，系统重塑了关于智库角色与[[Surplus of Evidence|证据过剩]]的理论认知。
+> - **实证路径** 通过大规模公私立学校效能实证研究颠覆新自由主义择校神话，为教育公平与公共教育价值提供量化支点。
+> - **政策路径** 促使国际组织与教育决策界重新审视外来政策文本与咨询报告背后的资助背景，推动建立防范利益冲突的审核机制。
+> - **跨国／跨领域传播** 其思想市场与中介分析被比较教育学者深度采纳，成为联合国教科文组织全球教育监测与政策循证审查的关键理论框架。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 援引思想市场与信息孤岛理论，剖析全球教育治理中政策中介利用证据过剩实施合法化包装。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 借鉴其中介机构填补政学鸿沟分析，指出咨询机构与智库在快速车道推销定制证据带来的认知负担与客观性扭曲。
 
 ---
 
 > [!person-network] 关系网络
-> - **理论对话** [[Gita Steiner-Khamsi]] — 直接援引 Lubienski（2019）关于"思想市场"的概念，用以分析全球教育治理中[[Policy Brokerage\|政策中介]]机构的意识形态性证据操作。
-> - **合著伙伴** Sarah Lubienski — 长期合著者，共同开展公私立学校实证比较研究。
-> - **合著伙伴** Husain Malin（2022）— 共同提出"信息孤岛"概念，分析数字时代知识碎片化对政策理性的侵蚀。
-> - **学术环境** 美国教育政策研究学会（[[American Educational Research Association\|AERA]]）、印第安纳大学教育政策研究中心（Center for Evaluation & Education Policy）。
+> - **理论对话** [[Gita Steiner-Khamsi]] — 直接援引 Lubienski 思想市场理论与中介双刃剑论述，用于构建全球教育政策循证治理框架。
+> - **合著伙伴** Sarah Lubienski — 长期合著者，共同开展大规模公私立学校学业表现量化检验。
+> - **合著伙伴** H. Malin — 合作提出“信息孤岛”概念，剖析数字时代证据过剩引发的认知割裂。
+> - **机构／运动／项目** [[Thomas B. Fordham Institute]] — Lubienski 重点实证解剖的保守派教育智库案例。
+> - **国际组织** [[OECD]] 与 [[World Bank|世界银行]] — 其研究指出在高度极化的信息孤岛环境中，此类国际组织凭借统计声誉充当少数公认的信息仲裁者。
 
 ---
 
-> [!entry-map] 相关条目网络
+> [!entry-map] 条目关联
 >
-> | 条目 | 类型 | 关系 |
+> | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Surplus of Evidence]] | 概念 | Lubienski（2019）关于"思想市场"的分析是 Steiner-Khamsi 提出[[Surplus of Evidence\|证据过剩]]概念的直接经验支柱。 |
-> | [[Policy Brokerage]] | 概念 | 卢宾斯基揭示的智库在思想市场中的竞争性证据打包，是[[Policy Brokerage\|政策中介]]在国内层面的典型行为图谱。 |
-> | [[Gita Steiner-Khamsi]] | 人物 | [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]] 直接引用 Lubienski 的思想市场与信息孤岛概念，用于构建证据过剩的全球政策生态分析。 |
+> | [[Surplus of Evidence]] | 概念 | 提出思想市场中各方选择性挑拣实证的机制，奠定了证据过剩理论的微观行为基础。 |
+> | [[Policy Brokerage]] | 概念 | 揭示智库与咨询公司在政学车道鸿沟中通过打包定制方案实施政策干预的操作图谱。 |
+> | [[Educational Brokerage Agency]] | 概念 | 指出中介机构推销去情境化方案对政策决策客观性造成的潜在扭曲。 |
+> | [[School Choice]] | 概念 | 开展大规模量化比较，实证挑战新自由主义择校制度提高学业成绩的理论预设。 |
+> | [[Gita Steiner-Khamsi]] | 人物 | 其关于思想市场与中介机构的分析被后者直接整合进联合国教科文组织政策循证战略审查。 |

@@ -207,6 +207,10 @@
     {
       "sentence": "The second broken feedback loop is between the global and local levels: global INPs keep producing a great number of studies with the expectation that local experts subsequently adopt them and locally adapt them to their country context.",
       "target": "wiki/concepts/instruction-pedagogy/Feedback.md"
+    },
+    {
+      "sentence": "case] 区域中介组织的桥梁运作：SUMMA、ESSA 与非洲证据网络（AEN）",
+      "target": "wiki/facts/us/Every Student Succeeds Act.md"
     }
   ]
 }
