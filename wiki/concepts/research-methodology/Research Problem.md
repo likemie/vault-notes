@@ -1,110 +1,145 @@
 ---
 title: Research Problem
-aliases: ["研究议题", "research problems"]
-summary: "学术研究中引导研究需求的难题或议题，区别于通过数据来回答的研究问题句（research questions），可来自个人经验、文献争论或政策讨论"
+aliases:
+  - 研究议题
+  - 研究难题
+  - research problems
+summary: "学术研究引言中引导探究需求的难题或现实议题，为全篇研究确立存在理由与合法性基石；严格区别于收集分析数据所回答的具体研究问题句，包含个人经验、学术争论与政策讨论三大来源，并在超国家循证治理中面临去政治化议程遮蔽的批判反思。"
 type: concept
 domain: "research-methodology"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
-tags: [method/research-process, source/textbook]
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
+tags:
+  - method/research-process
+  - theme/research-design
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
+  - "[[Technical Rationality]]"
+  - "[[Positivism]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
-related_persons: []
+related_persons:
+  - "[[John W. Creswell]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-confidence: medium
-status: draft
+  - "[[Argument_Campbell_2026_JPCC]]"
+confidence: high
+status: active
 created: 2026-05-31
-updated: 2026-10-15
+updated: 2026-10-23
 ---
-
-> [!info] 定义
-> [[Research Question\|研究问题]]（Research Problem）是引导研究需求的难题或议题（problem or issue that leads to the need for a study）。它是学术研究中引言部分的核心要素，为整个研究提供存在理由（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）。
-
-研究问题与研究问题句（research questions）不同：前者是一个难题或议题，后者是通过收集和分析数据来回答的具体问题。研究问题回答"为什么需要这项研究"，研究问题句回答"这项研究要探索或检验什么"。
-
-> [!quote|notitle]
-> "A research problem is the problem or issue that leads to the need for a study."（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], 第5章）
 
 ---
 
-## 研究问题的来源
+> [!def] Research Problem
+> **研究议题（Research Problem，亦称研究难题）** 指引导研究需求的实际困境、理论矛盾或现实争议（problem or issue that leads to the need for a study）。它是学术研究引言（Introduction）部分的核心要素，为整项探究提供存在理由（justification for the study）；其在逻辑层级上严格区别于通过收集与分析实证数据予以具体解答的[[Research Question|研究问题句]]（Research Questions），并在超国家政策治理中构成资源配置与地缘博弈的隐蔽场域。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 347)]]
 
-[[Research Question|研究问题]]可以来自多种途径（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
+> [!concept-lens] 概念透镜
+> - **含义** 指向激发研究动因、亟待解决的客观矛盾、知识空白或现实困境。
+> - **用途** 帮助研究者建立探究的合法性依据，确立研究选题对实践改进、理论争鸣或政策决策的贡献价值。
+> - **边界** 严格区别于通过数据分析回答的具体“研究问题句”（Research Questions）；亦区别于客观陈述的社会背景现象（Facts）。
 
-- **个人经验与职场经历** 研究者在个人生活或工作中遇到的实际困境
-- **文献中的争论** 学术文献中的争议往往揭示了研究空白、需要解决的对立观点或需要扩展的讨论
-- **政策讨论** 政府或高层决策者之间的政策辩论
+> [!citation-card] 克雷斯威尔论研究议题的本质
+> "研究议题是引导研究需求的难题或争议所在。"[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+>
+> *"A research problem is the problem or issue that leads to the need for a study."*
 
-> [!note|notitle]
-> 无论来源为何，研究者通常在单一研究中陈述多个研究问题。
-
----
-
-## 常见误区
-
-Creswell & Creswell（2022, 第5章）指出了陈述[[Research Question|研究问题]]时容易出现的几个问题：
-
-1. **混淆"现状"与"问题"** 研究者常常只描述文献中存在的现象，而非识别需要解决的真正问题。例如，引用青少年怀孕的普遍性数据只是在陈述事实；真正的问题可能是"学校在接纳怀孕青少年方面做得很差"。
-
-2. **研究问题不明确** 当作者没有清晰识别研究问题时，读者只能自己判断研究的重要性。如果一项研究开篇就没有明确的问题，读者可能会质疑其研究价值，甚至放弃阅读。
-
-3. **混淆研究问题与研究问题句** 研究问题是需要解决的难题或议题，研究问题句是可以用数据回答的具体问题。两者处于不同的层次。
-
-4. **引言承载了吸引读者继续阅读的责任** 模糊的问题陈述会让读者失去兴趣。
-
-> [!warning] 关键建议
-> 不要仅仅陈述关于某一情境的事实，而要深入思考背后存在的根本问题。问自己："我的研究需要解决什么问题？"或"什么难题影响了我开展这项研究的需要？"
+> [!boundary]- 概念边界
+> - 不等于 **[[Research Question|研究问题句]]（Research Questions）** — 研究议题回答“为什么需要这项研究”（存在理由），属于宏观层面的现实或理论难题；研究问题句回答“这项研究要具体探索或检验什么变量关系”，属于微观操作层面的数据求解指南。
+> - 不等于 **社会背景现象（Facts/Phenomena）** — 仅仅陈述某种客观状态或普遍发生的事实（如“某群体离婚率上升”）并不构成研究议题，唯有阐明该事实背后的矛盾、制度缺陷或有害后果（如“经济剥离对弱势群体的冲击机制未知”）才形成具有探究价值的议题。
+> - 不等于 **纯粹中立的技术选择** — 在宏观政策与跨国治理中，研究议题的界定与筛选深嵌于政治权衡与资助体系之中，直接体现了特定群体的利益取向。
 
 ---
 
-## 在不同研究路径中的呈现
-
-引言中呈现的[[Research Question|研究问题]]类型因研究路径而异（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
-
-- **[[Quantitative Research|量化研究]]** 问题通常源于理解哪些因素或[[Variable|变量]]影响某一结果。例如，面对员工裁员问题，研究者可能探究哪些因素影响企业缩小规模。量化引言通常以非个人视角、过去时态撰写，以传达客观性。
-- **[[Qualitative Research|质性研究]]** 问题通常通过探索某一概念或现象来理解。质性研究问题是探索性的，当变量、问题和理论尚不明确时使用。Morse（1991）指出质性研究问题的特征包括：概念因缺乏理论和先前研究而"不成熟"；现有理论可能不准确或不适用；需要探索和描述现象并发展理论；现象的本质可能不适合量化测量。
-- **[[Mixed Methods Research|混合方法研究]]** 引言可以采用量化或质性路径（或两者结合）。问题可能需要在量化层面理解变量关系，同时在质性层面深入探索主题。混合方法问题也可能指出：现有研究主要是量化或质性的，需要扩展路径以包含更多样化的方法论。
-
----
-
-## 研究问题示例
-
-Creswell & Creswell（2022, 第5章）提供了多个来自应用社会科学研究的典型[[Research Question|研究问题]]示例：
-
-> [!example|notitle]
-> - "学校没有多元文化指南，导致歧视现象"——需要审查招生标准
-> - "大学兼职教师面临经济困难"——需要更公平的薪酬体系
-> - "未被充分代表的学生被大学拒之门外"——需要审视招生标准
-> - "青少年吸烟率上升"——需要了解高中情境中的吸烟行为
-> - "已婚夫妇的高离婚率"——需要考察经济因素是否导致离婚
-
-这些示例的共同特征是：它们都指出了一个需要解决的**问题（problem）**，而非仅仅陈述一个**现象（fact）**。区分"现象"与"问题"是写好研究问题的关键。
+> [!contrast-table] 概念辨析
+> | 维度 | 研究议题（Research Problem） | [[Research Question\|研究问题句]]（Research Question） | 背景现象（Social Fact） |
+> |---|---|---|---|
+> | **逻辑层级** | 宏观定位层：确立研究价值与动因 | 操作实施层：指导数据收集与假设检验 | 经验观察层：描摹现实客观状态 |
+> | **回答核心** | 为什么必须开展这项研究？存在何种难题？ | 本研究具体探究或检验哪些变量与关系？ | 现实世界正在发生什么统计现象？ |
+> | **判定标准** | 是否具备现实危害性、理论空白或政策争议 | 是否具体、可检验、可通过经验数据求解 | 是否具备统计真实性与经验可观察性 |
+> | **在成果中的位置** | 引言开篇第一至二段，引出研究需求 | 引言末尾或方法论开端，引出设计框架 | 文献综述背景铺垫或现状罗列 |
 
 ---
 
-## 撰写研究问题的实践建议
+> [!feature] 核心要素
+> - **动因确立功能（Justification of Study）** 为全篇研究确立存在理由，说明若该难题未被解决将产生何种理论停滞或实践危害。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> - **多元来源基础（Diverse Origins）** 议题根植于个人职场经验、学术文献既有争论以及公共政策现实辩论三大源泉。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> - **范式情境依存（Methodological Orientation）** 在[[Quantitative Research|量化研究]]中源于检验影响特定结果的因果[[Variable|变量]]；在[[Qualitative Research|质性研究]]中聚焦探索理解理论不成熟的核心现象；在[[Mixed Methods Research|混合方法研究]]中着眼于融合多维证据以突破单一方法局限。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> - **议题政治性与资助偏向（Politicisation of Agenda Setting）** 超国家与国家治理系统中的议题遴选深受地缘政治诉求与资助分配机制制约，超越了单纯实证效能的考量。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 347)]]
 
-Creswell & Creswell（2022, 第5章）提供了以下操作建议：
-
-- 撰写能够激发读者兴趣、同时传达广泛受众可以理解的议题的开篇句
-- 避免在开篇句中使用引文（尤其是长引文），引文会增加解读的多种可能性，造成模糊的开端
-- 远离习语表达或陈词滥调
-- 考虑使用数字信息增强影响力
-- 清晰识别引导研究的[[Research Question|研究问题]]
-- 自我检查："是否有明确的句子传达了研究问题？"
-- 通过引用大量参考文献说明问题的重要性（建议第一页至少引用十几条参考文献）
-- 确保问题的框架与研究路径一致
-- 考虑并识别一个或多个引导研究需求的问题
+> [!logic-map]- 研究议题确立与转化路径
+> ```mermaid
+> flowchart TD
+>     A["实践困境 / 文献争鸣 / 政策辩论"] --> B["研究议题 (Research Problem)<br>界定亟待解决的核心难题"]
+>     B --> C["论证研究合法性 (Raison d'être)"]
+>     C --> D["解构为操作化研究问题句 (Research Questions)"]
+>     D --> E["量化变量检验 / 质性现象探究 / 混合方法验证"]
+> ```
 
 ---
 
+## 围绕概念形成的命题
+
+---
+
+### 命题一　研究议题是学术探究的合法性基石且在不同研究范式中展现分异的因果与探索导向
+
+> [!concept-lens] 探究合法性论证与方法论取向
+> 探讨研究议题如何为学术研究提供存在理由，以及不同方法论路径在表征议题时的根本差异。
+
+> [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
+> **合法性确立与方法论分异** 克雷斯威尔指出，研究议题是学术成果引言的灵魂，缺乏清晰议题陈述的成果将导致读者无法判定探究价值。研究议题与具体研究问题句处于不同层次：议题引导开展研究的必要性，而问题句指导数据收集。在量化进路中，议题通常聚焦于哪些因素或自变量影响某一特定结果，行文采用客观非人称视角；在质性进路中，议题则源于某一概念或现象在既有理论中的“不成熟”，侧重通过开放探索提炼质性理论；混合方法研究则依托议题整合定性与定量证据，克服单一方法的解释盲区。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+
+---
+
+### 命题二　循证治理中宣称纯粹证据掩盖了研究议题遴选背后的地缘政治诉求与资源分配博弈
+
+> [!concept-lens] 议题设定的去政治化修辞与权力遮蔽
+> 探讨超国家与国家治理机器如何将价值驱动的议题筛选包装为客观中立的技术决策。
+
+> [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
+> **议题遴选的去政治化假象与权力诉求** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）深入批判了以全球教育证据咨询小组（GEEAP）与世界银行等超国家机构推行的证据主义修辞。咨询机构宣称自身建议纯粹基于客观证据、不受任何利益左右，实质上构筑了一种去政治化假象；这种话语遮蔽了究竟“哪些问题能够被界定为值得资助的研究议题”背后深层的政治、意识形态与地缘诉求。资助方将特定量化实验与干预采购确立为优先研究议题，系统性排斥了关注本土深层结构不平等与制度历史根源的研究议题，将实质上的政治决断降维为去语境化的技术命题。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 347)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **方法论合法性命题** | 研究议题为探究提供存在理由，在量化因果与质性探索路径中呈现范式分异 | 学术成果设计、课题申报引言撰写、方法论设计 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
+> | **批判性政治社会学命题** | 宣称客观证据掩盖了研究议题遴选背后的地缘政治与资金分配权力诉求 | 超国家教育治理、循证政策议程设定、科研基金规划 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **20 世纪中叶 — 实证主义研究设计中的问题陈述规范化** 科学方法论将问题陈述（Problem Statement）作为严密研究程序的第一步，强调通过经验观察与理论推演提出明确假设。
+> - **1990s — 质性与混合方法视阈下的议题分类学** Morse (1991) 与克雷斯威尔系统界定质性研究中由于理论不成熟而引发的探索性研究议题，奠定量化、质性与混合设计的问题类型学。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> - **2022 — 研究议题与研究问题句的层级界分规范** 克雷斯威尔在《研究设计》第六版中进一步厘清研究议题（为什么研究）与研究问题句（收集何种数据解答）的逻辑界限，提出识别根本难题的操作建议。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> - **2026 — 超国家教育治理中议题设定的去政治化批判** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 揭示“纯粹基于证据”的独立性修辞遮蔽了研究议题确立与科研资金配置背后的地缘政治偏向，倡导对科研议程设定展开认识论反思（p. 347）。
+
+---
+
+> [!debates] 学术争议
+>
+> > [!axis] 客观中立发现还是社会政治建构
+> > 研究议题究竟是客观存在于文献或现实中等待被科学发现的空白，还是由资助机制、政治权力和学术场域共同建构的话语产物。
+> >
+> > - **技术理性取向** 强调研究议题源于文献综述中的知识空白（Gap）或现实效率瓶颈，通过文献检索即可客观识别。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> > - **批判政治社会学取向** 强调哪些难题能够被上升为研究议题并获得资助，深刻受制于地缘政治与统治合法性需求。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 347)]]
+
+> [!warning] 适用局限与撰写误区
+> - **混淆事实陈述与问题界定** 仅仅罗列关于某一情境的事实性统计数据并不等同于识别出需要解决的核心难题；缺乏对矛盾成因的追问将导致研究沦为无靶心的文献堆砌。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> - **混淆宏观议题与操作化问题句** 将宏观现实困境直接等同于微观数据求解问题，容易造成研究设计缺乏深度或无法落实具体变量测量。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, ch. 5)]]
+> - **议题设定的去情境化偏误** 在国际政策研究中盲目套用全球通行议题模板，容易忽视本土深层社会结构矛盾与教育现场真实需求。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 347)]]
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 经典研究设计专著，第 5 章系统界定研究议题（Research Problem）的内涵、来源、常见撰写误区及其在量化、质性与混合方法路径中的差异。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 批判超国家循证咨询小组将研究议题包装为去政治化技术选择的意识形态机制，揭示议题确立与资金分配背后的地缘政治诉求（p. 347）。

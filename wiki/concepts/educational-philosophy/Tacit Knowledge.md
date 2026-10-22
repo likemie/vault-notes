@@ -9,7 +9,7 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -60,10 +60,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -134,11 +135,22 @@ updated: 2026-10-22
 
 ---
 
+### 命题三　实证主义证据等级制排斥情境化实践默会知识并诱发认识论不公正
+
+> [!concept-lens] 循证治理中的认识论排斥与正义诉求
+> 超国家循证决策体系将因果识别与量化实验树立为最高准绳，割裂了深植于本土与教育一线的默会经验。
+
+> [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
+> **证据等级制对实践默会知识的边缘化与认识论正义** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、世界银行与教科文组织证据政策的批判分析指出，超国家机构标榜的客观中立证据体系，推行了以量化因果评估为首要准绳的认识等级，将严谨性狭隘等同于实验研究与元分析效应量。这一技术理性体系排斥了深嵌于具体历史与文化情境中的质性研究、实践默会知识与本土传统，将一线教师与本土社区的默会经验贬低为缺乏科学效度的非正规经验。研究者与决策团队之间的沟通断层根源在于全球知识供给与本土现实需求之间的认识论鸿沟，推进包容性证据生态必须倡导认识论正义，赋予教师实践智慧与社区默会知识合法地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **相对价值反转** | 信息技术普及导致编码知识贬值，默会学习能力转变为核心经济资产 | 知识经济演进与后工业劳动力市场变革 | Foray & Lundvall; Rizvi & Lingard |
 > | **具身实践获取** | 默会知识无法脱离身体与实践情境，必须依托浸润式经验习得 | 课堂教学法改革、职业教育与科研[[Apprenticeship\|学徒制]] | Polanyi; Nonaka |
+> | **认识论正义与去边缘化** | 批判实证主义证据等级制对实践与本土默会知识的排斥，主张确立认识论正义 | 超国家教育治理、全球循证决策、跨文化知识动员 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 
 ---
 
@@ -148,6 +160,7 @@ updated: 2026-10-22
 > - **1996 年 — 跨国政策与学习型经济融合** [[Dominique Foray|福雷]]与[[Bengt-Åke Lundvall|伦德瓦尔]]为[[OECD|经合组织]]撰写《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，将默会知识确立为国家构建“学习型经济”的战略要素，直接催生了经合组织的“全员[[Lifelong Learning|终身学习]]”政策框架。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **2000 年代至今 — 跨国素养测评与能力本位转向** 经合组织将默会技能的测量转化为[[PISA|国际学生评估项目]]（PISA）中脱离学科大纲的[[Problem Solving|问题解决能力]]与综合素养，推动全球课程体系的[[Pragmatic Paradigm|实用主义]]重构。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
 > - **2020年代 — 向全球[[Epistemic Governance|知识治理]]与地缘战略动员的扩展** [[Knowledge Diplomacy|知识外交]]与[[Geopolitics of Higher Education|高等教育地缘政治]]学者将隐性知识引入跨国[[Knowledge Power|知识权力]]分析，揭示国际知识网络与多边制度规范如何依托隐性文化交往和治理惯例进行跨国传播与非对称动员。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
+> - **2026 年 — 证据生态治理中实践默会知识的边缘化与认识论正义** [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] 揭示超国家循证治理将证据严谨性等同于量化实验与元分析，系统排斥一线教师的实践默会知识与本土传统；主张确立认识论正义，赋予社区与教师实践默会知识合法地位（pp. 347–350）。
 
 ---
 
@@ -171,5 +184,6 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] — 批判超国家机构以技术理性与因果评估特权化排斥一线实践默会知识的等级制，倡导承认教师与本土默会经验合法性的认识论正义（pp. 347–350）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]分析中，揭示非正式网络规范与制度性隐性知识在全球[[Knowledge Power|知识权力]]配置与跨国政策动员中的关键中介作用。
