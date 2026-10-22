@@ -22509,138 +22509,138 @@ body .callout.callout.callout:is([data-callout="quote"], [data-callout="cite"]):
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]):not(.is-collapsible) > .callout-title { display: none !important; }
 body .callout.callout.callout[data-callout="question"]:is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-content { margin-top: 0 !important; }
 
-/* ── 12 · Visible Learning MetaX 模块（2026-10-22） ───────────────────
-   [!metax] 总览 / [!metax-ma] 元分析明细 / [!metax-errata] 勘误。
-   眉标与表头文字全部由 CSS 生成：Markdown 中表头只写代号
-   （dom sub impact ma k n m d rob / ref var k n m d e），
-   因此“变量、元分析、效应量”等词不进入正文，也不会被补链。 */
+/* ── 12 · Visible Learning MetaX 模块（2026-10-22 v2 紧凑版） ─────────
+   [!metax] 总览 / [!metax-ma] 元分析 / [!metax-errata] 勘误（有勘误才出现）。
+   眉标与表头文字由 CSS 生成，Markdown 表头只写代号：
+   总览 rate ma k n m d rob；元分析 ref var k n m d e。 */
 .callout[data-callout="metax"] { --callout-color: 15, 118, 110; --callout-icon: lucide-bar-chart-3; }
 .callout[data-callout="metax-ma"] { --callout-color: 15, 118, 110; --callout-icon: lucide-list; }
 .callout[data-callout="metax-errata"] { --callout-color: 190, 112, 34; --callout-icon: lucide-alert-triangle; }
 
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) {
-  padding: 1rem 1.1rem 1.1rem !important;
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) {
+  padding: .8rem .95rem .85rem !important; font-size: .86em;
   background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
   border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
   border-radius: 10px !important; box-shadow: none !important;
 }
-body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) {
-  margin: .9rem 0 0 !important; padding: .75rem .9rem .85rem !important;
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::before, body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::after { display: none !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-ma"], [data-callout="metax-errata"]) {
+  margin: .7rem 0 0 !important; padding: .55rem .7rem .6rem !important; font-size: 1em;
   background: var(--ac-raised, var(--background-primary)) !important;
 }
-body .callout.callout.callout[data-callout="metax-errata"] {
-  border-left: 3px solid rgb(190, 112, 34) !important;
-}
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::before,
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"])::after { display: none !important; }
+body .callout.callout.callout[data-callout][data-callout="metax-errata"] { border-left: 3px solid rgb(190, 112, 34) !important; }
 
-/* 标题：眉标（短横 + 全大写小字）→ 衬线标题 */
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title {
-  padding: 0 !important; margin: 0 0 .7rem; background: none !important; border: 0 !important;
-  box-shadow: none !important; align-items: flex-start; gap: .5rem;
+/* 标题行：眉标 + 标题 */
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title {
+  padding: 0 !important; margin: 0 0 .25rem; background: none !important; border: 0 !important;
+  box-shadow: none !important; align-items: center; gap: .4rem; min-height: 0;
 }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]).is-collapsed > .callout-title { margin-bottom: 0; }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-icon { display: none; }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
-  font-family: var(--ac-serif, Georgia, serif); font-size: 1.1em; font-weight: 500; line-height: 1.45;
-  color: var(--text-normal) !important; letter-spacing: 0;
-}
-body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
-  font-family: var(--ac-mono, ui-monospace, monospace); font-size: .95em; font-variant-numeric: tabular-nums;
-}
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
-  display: block !important; width: max-content; margin: 0 0 .35rem !important; padding: 0 0 0 20px !important;
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]).is-collapsed > .callout-title { margin-bottom: 0; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-icon { display: none; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-fold { padding: 0 !important; opacity: .6; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
+  display: block !important; width: max-content; margin: 0 0 .2rem !important; padding: 0 0 0 16px !important;
   border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
-  background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 12px 2px no-repeat !important;
-  color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, sans-serif); font-size: .62rem !important;
-  font-weight: 650 !important; letter-spacing: .14em !important; line-height: 1.5; text-transform: uppercase; animation: none !important;
+  background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 10px 2px no-repeat !important;
+  color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, sans-serif); font-size: .6rem !important;
+  font-weight: 650 !important; letter-spacing: .14em !important; line-height: 1.4; text-transform: uppercase; animation: none !important;
 }
-body .callout.callout.callout[data-callout="metax"] > .callout-title .callout-title-inner::before { content: "Visible Learning MetaX" !important; }
-body .callout.callout.callout[data-callout="metax-ma"] > .callout-title .callout-title-inner::before { content: "Meta-analyses · 元分析明细" !important; }
-body .callout.callout.callout[data-callout="metax-errata"] > .callout-title .callout-title-inner::before { content: "Errata · 勘误" !important; }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-content {
-  padding: 0 !important; background: none !important; overflow-x: auto !important;
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner {
+  font-family: var(--ac-serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; line-height: 1.35; color: var(--text-normal) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner::before { content: "Visible Learning MetaX" !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner a { color: inherit !important; text-decoration: none !important; background-image: none !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner a:hover { color: rgb(var(--callout-color)) !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-title .callout-title-inner a.external-link { padding-right: 0 !important; background-image: none !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
+  font-family: var(--ac-sans, sans-serif); font-size: .72rem !important; font-weight: 500;
+  color: var(--ac-muted, var(--text-muted)) !important; line-height: 1.4;
+}
+body .callout.callout.callout[data-callout]:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
+  display: inline-block !important; margin: 0 .5rem 0 0 !important; vertical-align: baseline;
+}
+body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-title .callout-title-inner::before { content: "Meta-analyses · 元分析" !important; }
+body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-title .callout-title-inner::before { content: "Errata · 勘误" !important; }
+
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-content { padding: 0 !important; background: none !important; overflow-x: auto !important; }
+/* 领域 › 子领域 */
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content > p:first-child {
+  margin: 0 0 .55rem !important; font-size: .8rem; line-height: 1.4; color: var(--ac-muted, var(--text-muted));
 }
 
-/* 表格：纸面白底、仅横向分隔线、等宽数字 */
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content table {
-  width: 100% !important; min-width: 0 !important; margin: 0 !important; font-size: .88em;
-  border-collapse: collapse; background: var(--ac-raised, var(--background-primary)) !important;
+/* 表格：等宽数字、只留横线、紧凑行距；覆盖通用“≥6 列宽表”规则 */
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) {
+  width: 100% !important; min-width: 0 !important; max-width: 100% !important; margin: 0 !important;
+  font-size: .8rem; border-collapse: collapse; background: transparent !important; table-layout: auto !important;
 }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(th, td) {
-  padding: .45rem .65rem !important; border-left: 0 !important; border-right: 0 !important;
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) {
+  min-width: 0 !important; max-width: none !important; width: auto !important;
+  padding: .28rem .45rem !important; line-height: 1.4; vertical-align: top;
+  border-left: 0 !important; border-right: 0 !important; border-top: 0 !important;
   border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important;
-  vertical-align: top; line-height: 1.55; white-space: nowrap !important; min-width: 0 !important;
-  font-variant-numeric: tabular-nums;
+  white-space: nowrap !important; font-variant-numeric: tabular-nums; background: transparent !important;
 }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(th, td):is(:nth-child(1), :nth-child(2)) { white-space: normal !important; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content td:nth-child(3) { white-space: normal !important; min-width: 12em !important; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content td:nth-child(3) { white-space: nowrap !important; min-width: 0 !important; }
-body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:first-child { min-width: 11em !important; font-weight: 550; }
-body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:nth-child(2) { min-width: 10em !important; color: var(--ac-muted, var(--text-muted)); }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content td:nth-child(n+4) { text-align: right; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content td:nth-child(8),
-body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:nth-child(6) { font-weight: 650; color: var(--text-normal); }
-body .callout.callout.callout[data-callout="metax-ma"] > .callout-content td:nth-child(7) { color: rgb(190, 112, 34); text-align: center; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) tr:last-child td { border-bottom: 0 !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(n+2):nth-child(-n+6) { text-align: right; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { font-weight: 650; }
 
-/* 表头：隐藏 Markdown 代号，显示 CSS 标签 */
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content th {
-  font-size: 0 !important; color: transparent !important; background: none !important; text-align: left;
+/* 表头：隐藏代号，显示中文标签 */
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th {
+  font-size: 0 !important; color: transparent !important; padding-top: 0 !important; padding-bottom: .2rem !important;
   border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
 }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content th * { font-size: 0 !important; color: transparent !important; }
-body .callout.callout.callout:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content th::before {
-  font-size: .72rem; font-weight: 600; letter-spacing: .02em; color: var(--ac-muted, var(--text-muted));
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th * { font-size: 0 !important; color: transparent !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th::before {
+  display: block; font-size: .66rem; font-weight: 600; letter-spacing: .02em; color: var(--ac-muted, var(--text-muted));
 }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(1)::before { content: "领域"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(2)::before { content: "子领域"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(3)::before { content: "影响判定"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(4)::before { content: "元分析数"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(5)::before { content: "研究数"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(6)::before { content: "学生数"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(7)::before { content: "效应数"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(8)::before { content: "加权平均效应量"; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(9)::before { content: "稳健性"; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(1)::before { content: "文献"; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(2)::before { content: "变量"; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(3)::before { content: "研究数"; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(4)::before { content: "学生数"; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(5)::before { content: "效应数"; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(6)::before { content: "效应量"; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(7)::before { content: "勘误"; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(n+2):nth-child(-n+6)::before { text-align: right; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content > :is(table):has(th:nth-child(6)) th:nth-child(1)::before, body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content > .table-wrapper > :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "评级"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "评级"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "元分析"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "研究"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "学生"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "效应数"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "效应量 d"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { content: "稳健性"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "文献"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "变量"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "研究"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "学生"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "效应数"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "效应量 d"; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { content: "勘误"; text-align: center; }
+
+/* 总览：评级星（琥珀）与稳健性圆点（青绿） */
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { color: rgb(196, 140, 40); letter-spacing: .04em; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(7) { color: rgb(var(--callout-color)); letter-spacing: .06em; font-size: .72rem; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td { font-size: .86rem; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { font-size: .95rem; }
+
+/* 元分析表：文献与变量可换行 */
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:is(:nth-child(1), :nth-child(2)) { white-space: normal !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { min-width: 9em !important; font-weight: 550; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(2) { min-width: 8em !important; color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(6) { font-size: .8rem; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(7) { text-align: center; color: rgb(190, 112, 34); }
 
 /* 勘误列表 */
-body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul { margin: 0 !important; padding-left: 0 !important; }
-body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li {
-  list-style: none !important; padding: .4rem 0 !important; font-size: .9em; line-height: 1.65;
+body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul { margin: 0 !important; padding-left: 0 !important; }
+body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul > li {
+  list-style: none !important; padding: .3rem 0 !important; font-size: .8rem; line-height: 1.55;
   border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border));
 }
-body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li:last-child { border-bottom: 0; }
-body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li > strong { color: rgb(190, 112, 34); font-weight: 650; }
-/* 12b · MetaX 细化：计数并入眉标行；总览表紧凑、数字列右对齐 */
-body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
-  font-size: .72rem !important; color: var(--ac-muted, var(--text-muted)) !important; line-height: 1.5;
-}
-body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
-  display: inline-block !important; margin: 0 .55rem 0 0 !important; font-size: .62rem !important; vertical-align: baseline;
-}
-body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title { margin-bottom: .55rem; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content :is(th, td) { padding: .45rem .5rem !important; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content td:nth-child(3) { min-width: 9em !important; }
-body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(n+4)::before { display: block; text-align: right; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(n+3)::before { text-align: right; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content :is(td, th):nth-child(3) { text-align: right; }
-body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(7)::before { text-align: center; }
-/* 12c · 覆盖通用“≥6 列表格每格 min-width 6.5em”规则，让 MetaX 表按内容收窄 */
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td),
-body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) {
-  min-width: 0 !important; max-width: none !important; width: auto !important;
-}
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(3) { min-width: 9em !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { min-width: 11em !important; }
-body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(2) { min-width: 8em !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:is(:nth-child(1), :nth-child(2), :nth-child(3)),
-body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:is(:nth-child(1), :nth-child(2)) { white-space: normal !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { min-width: 6em !important; }
-body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)),
-body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) { width: 100% !important; min-width: 0 !important; }
+body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul > li:last-child { border-bottom: 0; }
+body .callout.callout.callout[data-callout][data-callout="metax-errata"] > .callout-content > ul > li > strong { color: rgb(190, 112, 34); font-weight: 650; }
+
+/* 12b · 嵌套表复位：总览列样式不下沉到元分析表；表头默认左对齐 */
+body .callout.callout.callout[data-callout]:is([data-callout="metax"], [data-callout="metax-ma"]) > .callout-content :is(table):has(th:nth-child(6)) th { text-align: left !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td { font-size: .8rem; letter-spacing: 0; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { color: var(--text-normal); }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(2) { text-align: left; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { text-align: left; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) :is(td, th):nth-child(n+3):nth-child(-n+6) { text-align: right; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(n+3):nth-child(-n+6)::before { text-align: right; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(7) { color: rgb(190, 112, 34); font-size: .8rem; letter-spacing: 0; text-align: center; }
+body .callout.callout.callout[data-callout][data-callout="metax"] .callout.callout[data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { text-align: center; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { text-align: left; }
+

@@ -116,6 +116,7 @@ metax/                       Visible Learning MetaX 数据（不进 wiki、不�
   metax.json                  studies（书目与匹配状态）+ influences（总览、明细行、挂载条目）
   errata.json                 单篇／整合勘误，须有来源
   audit.json                  metax_sync.py audit 输出的疑似数据错误线索（不是勘误）
+  zh.json                     因素名、领域、子领域、影响判定的中文译名与评级
 wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
@@ -270,11 +271,12 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 MetaX 数据只存在 `metax/`，条目中的 `## Visible Learning MetaX` 模块由 `scripts/metax_sync.py` 生成，不手写、不手改。
 
 - 位置：独立 H2，放在 `## 实证数据` 之后，不与实证数据混写；无 `## 实证数据` 的条目放在 `## 领域应用` / `## 相关研究` 之前。挂载模块的条目自动加 tag `metax`，卸载时自动移除。
-- 结构：`[!metax]` 总览（标题为 MetaX 原页链接，兼作模块标识）→ `[!metax-ma]-` 元分析明细（默认折叠）→ 有勘误时 `[!metax-errata]`。
-- 卡片只写 APA 短引用、变量与数字；篇名、期刊、完整作者只存 `metax.json`。眉标与表头中文由 CSS 生成，Markdown 表头只写代号（`dom sub impact ma k n m d rob` / `ref var k n m d e`）。
+- 结构：`[!metax]` 总览（标题为“中文名 · 英文名”的 MetaX 原页链接，兼作模块标识；下一行为领域 › 子领域）→ `[!metax-ma]-` 元分析列表（默认折叠）→ 仅在 `errata.json` 有该因素条目时出现 `[!metax-errata]`。
+- 卡片只写 APA 短引用、变量与数字；篇名、期刊、完整作者只存 `metax.json`。眉标与表头中文由 CSS 生成，Markdown 表头只写代号（`rate ma k n m d rob` / `ref var k n m d e`）。因素名、领域、子领域与影响判定按 `metax/zh.json` 译为中文；影响判定显示为评级星（★★★★ 显著加速 … ▼ 负向影响），稳健性显示为 ●○ 五点。
 - `[!metax*]` 整块不参与普通补链和 APA 引用补链。块内引用链接只由 `metax_sync.py` 写入：年份、第一作者姓氏与篇名（或 DOI）一致才链接；作者年份相同但篇名不同记为 `collision`，永不链接，并写入 `citation_ambiguous.json` 的 `external`。新入库的元分析 Argument 在下一次 `vault_index.py` 后自动链接到所有收录它的模块。
 - 挂载：`metax_sync.py map <influence_id> <条目路径>`；卸载：`unmap`；候选：`suggest`（因素名与条目 title/alias 完全一致）。一个条目可挂多个因素，按因素名排序叠放。
 - 勘误写入 `metax/errata.json`：`level` 为 `study`（单篇，明细行 e 列标 ①②…）或 `influence`（整合，总览对应数值旁标 ⚑）；字段 `influence`、`study`（S 编号）、`field`、`metax`、`corrected`、`type`、`source`（Argument 文件名）、`pages`、`note`。勘误须有来源；`audit` 的输出只是待核线索。
+- 自动核算：每次同步按列表重算元分析数、研究数、学生数、效应数与加权平均效应量（MetaX 总览为按研究数 k 加权的 d，已在 440 个因素上验证），并检查研究数、效应数与效应量完全相同的疑似重复行，以及学生数为各元分析样本量直接相加（NA 不计入、共享样本可能重复）的问题，总览学生数旁标 ∑；不符或重复时在勘误框以 `∑ 自动核算` 列出、在列表 e 列标 ∑。自动核算不写入 `errata.json`，数据改正后自动消失。
 - `vault_lint.py` 以 `METAX_STALE` 检查模块与匹配状态是否最新。
 
 ### tags

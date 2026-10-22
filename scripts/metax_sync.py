@@ -41,6 +41,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "metax"
 DATA_JSON = DATA_DIR / "metax.json"
 ERRATA_JSON = DATA_DIR / "errata.json"
+ZH_JSON = DATA_DIR / "zh.json"
 CITATION_FULL = ROOT / "citation/citation_full.json"
 WIKI_INDEX = ROOT / "wiki/index.json"
 
@@ -48,7 +49,7 @@ SECTION = "## Visible Learning MetaX"
 TAG = "metax"
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳"
 FLAG = "⚑"
-OVERVIEW_FIELDS = ["domain", "sub_domain", "impact", "ma", "k", "n", "m", "d", "rob"]
+OVERVIEW_FIELDS = ["impact", "ma", "k", "n", "m", "d", "rob"]
 ROW_FIELDS = ["var", "k", "n", "m", "d"]
 FIELD_LABELS = {
     "domain": "领域", "sub_domain": "子领域", "impact": "影响判定", "ma": "元分析数",
@@ -430,19 +431,108 @@ def fmt_value(field: str, value) -> str:
     return esc(value if value is not None else "NA")
 
 
+def zh_table() -> dict:
+    return load_json(ZH_JSON, {})
+
+
+def impact_cell(impact: str, zh: dict) -> str:
+    info = (zh.get("impact") or {}).get(impact)
+    if not info:
+        return esc(impact)
+    n = info.get("stars", 0)
+    if n < 0:
+        return f"▼ {info['label']}"
+    return "★" * n + "☆" * (4 - n) + f" {info['label']}"
+
+
+def rob_cell(rob) -> str:
+    if rob is None:
+        return "NA"
+    return "●" * rob + "○" * (5 - rob)
+
+
+AUTO = "∑"
+
+
+def weighted_d(rows: list[dict]):
+    """MetaX overview d = mean of row d weighted by k (verified on all 440 influences)."""
+    pairs = [(r["d"], r["k"]) for r in rows if r["d"] is not None and r["k"]]
+    total = sum(k for _, k in pairs)
+    return round(sum(d * k for d, k in pairs) / total, 2) if total else None
+
+
+def auto_checks(inf: dict, studies: dict, marked: set | None = None) -> list[str]:
+    """Recompute the overview from the rows; return errata lines for mismatches only."""
+    rows = inf["rows"]
+    out = []
+    if inf.get("ma") is not None and inf["ma"] != len(rows):
+        out.append(f"**自动核算 · 计数不符** 元分析数：总览 {inf['ma']}，列表实有 {len(rows)} 项。")
+    for f in ("k", "n", "m"):
+        total = sum(r[f] or 0 for r in rows)
+        if inf.get(f) is not None and total and inf[f] != total:
+            out.append(f"**自动核算 · 加总不符** {FIELD_LABELS[f]}：总览 {fmt_int(inf[f])}，列表合计 {fmt_int(total)}。")
+    reported = [r for r in rows if r["n"] is not None]
+    missing = len(rows) - len(reported)
+    if rows and not reported:
+        out.append("**自动核算 · 学生数** 各元分析均未报告样本量，总览的学生数"
+                   + (f"显示为 {fmt_int(inf['n'])}，不代表实际人数。" if inf.get("n") is not None else "缺失。"))
+    elif len(rows) > 1:
+        seg = f"总览 {fmt_int(inf.get('n'))} 为 {len(reported)} 项元分析样本量的直接相加"
+        if missing:
+            seg += f"，另 {missing} 项未报告（NA）未计入，可能偏低"
+        out.append(f"**自动核算 · 学生数** {seg}；直接相加未剔除不同元分析共享的原始研究样本，又可能重复计数，不宜视为独立学生总数。")
+    wd = weighted_d(rows)
+    if wd is not None and inf.get("d") is not None and abs(wd - inf["d"]) > 0.011:
+        out.append(f"**自动核算 · 效应量不符** 加权平均效应量：总览 {fmt_d(inf['d'])}，按研究数加权重算为 {fmt_d(wd)}。")
+    seen: dict[tuple, dict] = {}
+    dup_rows = []
+    for r in rows:
+        if r["k"] is None or r["d"] is None:
+            continue
+        key = (r["k"], r["m"], r["d"])
+        first = seen.get(key)
+        if first is None:
+            seen[key] = r
+            continue
+        same = first["study"] == r["study"]
+        a, b = studies[first["study"]]["apa"], studies[r["study"]]["apa"]
+        what = f"{a} 在列表中重复出现" if same else f"{a} 与 {b} 的研究数、效应数与效应量完全相同，疑为同一项元分析重复收录"
+        dup_rows.append(r)
+        if marked is not None:
+            marked.update({id(first), id(r)})
+        out.append(f"**自动核算 · 疑似重复** {what}。")
+    if dup_rows:
+        keep = [r for r in rows if r not in dup_rows]
+        k = sum(r["k"] or 0 for r in keep)
+        out.append(f"**自动核算 · 剔除重复后** 元分析 {len(keep)} 项，研究数 {fmt_int(k)}，加权平均效应量 {fmt_d(weighted_d(keep))}（仅供参考，未核原文）。")
+    return out
+
+
 def render_influence(iid: str, inf: dict, studies: dict, errata: list, args_meta: dict) -> str:
+    zh = zh_table()
     own = [e for e in errata if e.get("influence") == iid]
     inf_err = [e for e in own if e.get("level") == "influence"]
     study_err = [e for e in own if e.get("level") == "study"]
     flags = {e.get("field") for e in inf_err}
+    flag = lambda f, v: f"{v} {FLAG}" if f in flags else v
 
-    lines = [f"> [!metax] [{esc(inf['name'])}]({inf['url']})"]
-    lines.append("> | dom | sub | impact | ma | k | n | m | d | rob |")
-    lines.append("> | --- | --- | --- | --- | --- | --- | --- | --- | --- |")
-    cells = []
-    for f in OVERVIEW_FIELDS:
-        v = fmt_value(f, inf.get(f))
-        cells.append(f"{v} {FLAG}" if f in flags else v)
+    name_zh = (zh.get("influences") or {}).get(iid, "")
+    title = f"{name_zh} · {inf['name']}" if name_zh else inf["name"]
+    domain = (zh.get("domain") or {}).get(inf["domain"], inf["domain"])
+    sub = (zh.get("sub_domain") or {}).get(inf["sub_domain"], inf["sub_domain"])
+
+    lines = [f"> [!metax] [{esc(title)}]({inf['url']})"]
+    lines.append(f"> {flag('domain', esc(domain))} › {flag('sub_domain', esc(sub))}")
+    lines.append(">")
+    lines.append("> | rate | ma | k | n | m | d | rob |")
+    lines.append("> | --- | --- | --- | --- | --- | --- | --- |")
+    cells = [
+        flag("impact", impact_cell(inf.get("impact", ""), zh)),
+        flag("ma", fmt_int(inf.get("ma"))), flag("k", fmt_int(inf.get("k"))),
+        flag("n", fmt_int(inf.get("n"))) + (f" {AUTO}" if len(inf["rows"]) > 1 or not any(r["n"] is not None for r in inf["rows"]) else ""),
+        flag("m", fmt_int(inf.get("m"))),
+        flag("d", fmt_d(inf.get("d"))), flag("rob", rob_cell(inf.get("rob"))),
+    ]
     lines.append("> | " + " | ".join(cells) + " |")
 
     marks: dict[str, list[str]] = {}
@@ -452,13 +542,16 @@ def render_influence(iid: str, inf: dict, studies: dict, errata: list, args_meta
         marks.setdefault(e.get("study", ""), []).append(mark)
         numbered.append((mark, e))
 
+    marked: set = set()
+    auto = auto_checks(inf, studies, marked)
+
     lines.append(">")
-    lines.append(f"> > [!metax-ma]- {len(inf['rows'])}")
+    lines.append(f"> > [!metax-ma]- {len(inf['rows'])} 项")
     lines.append("> > | ref | var | k | n | m | d | e |")
     lines.append("> > | --- | --- | --- | --- | --- | --- | --- |")
     for r in inf["rows"]:
         st = studies[r["study"]]
-        e = "".join(marks.get(r["study"], []) + marks.get(st["apa"], []))
+        e = "".join(marks.get(r["study"], []) + marks.get(st["apa"], []) + ([AUTO] if id(r) in marked else []))
         lines.append(
             "> > | " + " | ".join([
                 cite_cell(st, args_meta), esc(r["var"]), fmt_int(r["k"]), fmt_int(r["n"]),
@@ -466,9 +559,13 @@ def render_influence(iid: str, inf: dict, studies: dict, errata: list, args_meta
             ]) + " |"
         )
 
-    if own:
+    # Errata appear only when there is something to report: sourced entries from
+    # metax/errata.json, or mismatches found by recomputing the overview.
+    if own or auto:
         lines.append(">")
-        lines.append(f"> > [!metax-errata] {len(own)}")
+        lines.append(f"> > [!metax-errata] {len(own) + len(auto)} 条")
+        for a in auto:
+            lines.append(f"> > - {AUTO} {a}")
         for e in inf_err:
             lines.append("> > - " + errata_line(FLAG, "整合", e, None, args_meta))
         for mark, e in numbered:

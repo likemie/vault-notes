@@ -248,12 +248,14 @@ updated: 2026-10-22
 
 ## Visible Learning MetaX
 
-> [!metax] [Feedback](https://www.visiblelearningmetax.com/influences/view/feedback)
-> | dom | sub | impact | ma | k | n | m | d | rob |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Teaching Strategies | Feedback | Potential to considerably accelerate | 10 | 1,116 | 14,049 | 3,433 | 0.50 | 5/5 |
+> [!metax] [反馈 · Feedback](https://www.visiblelearningmetax.com/influences/view/feedback)
+> 教学策略 › 反馈
 >
-> > [!metax-ma]- 10
+> | rate | ma | k | n | m | d | rob |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | ★★★★ 显著加速 | 10 | 1,116 | 14,049 ∑ | 3,433 | 0.50 | ●●●●● |
+>
+> > [!metax-ma]- 10 项
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Jeong-Hwa & Byung-gee (2019) | Feedback | 180 | NA | 1,393 | 0.59 |  |
@@ -266,6 +268,9 @@ updated: 2026-10-22
 > > | Lee & Bak (2018) | Feedback | 180 | NA | 991 | 0.59 |  |
 > > | Mertens et al. (2022) | Computer presented feedback | 77 | NA | 163 | 0.40 |  |
 > > | Gui et al. (2022) | Feedback in rich technology contexts | 61 | NA | 180 | 0.44 |  |
+>
+> > [!metax-errata] 1 条
+> > - ∑ **自动核算 · 学生数** 总览 14,049 为 3 项元分析样本量的直接相加，另 7 项未报告（NA）未计入，可能偏低；直接相加未剔除不同元分析共享的原始研究样本，又可能重复计数，不宜视为独立学生总数。
 
 ---
 

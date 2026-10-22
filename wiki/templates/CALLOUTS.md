@@ -48,7 +48,7 @@ updated: 2026-10-21
 
 ### 12 · Visible Learning MetaX 模块（2026-10-22）
 
-`[!metax]` 总览、`[!metax-ma]` 元分析明细、`[!metax-errata]` 勘误，均由 `scripts/metax_sync.py` 生成。眉标（VISIBLE LEARNING METAX / META-ANALYSES / ERRATA）和表头中文全部由 CSS `content` 生成，Markdown 表头只写代号，因此“变量、元分析、效应量”等词不进入正文。三者整块受 `wiki_linker.py` 保护，不参与补链。CSS 位置：`argument-callouts.css` 末尾 `12 · Visible Learning MetaX` 段。
+`[!metax]` 总览、`[!metax-ma]` 元分析明细、`[!metax-errata]` 勘误，均由 `scripts/metax_sync.py` 生成。眉标（VISIBLE LEARNING METAX / META-ANALYSES · 元分析 / ERRATA · 勘误）和表头中文全部由 CSS `content` 生成，Markdown 表头只写代号，因此“变量、元分析、效应量”等词不进入正文。三者整块受 `wiki_linker.py` 保护，不参与补链。CSS 位置：`argument-callouts.css` 末尾 `12 · Visible Learning MetaX` 段。
 
 ## 视觉系统 v3 · Prismatic study
 
