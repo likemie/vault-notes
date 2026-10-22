@@ -267,7 +267,6 @@ updated: 2026-10-22
 > | Xiao et al. (2016) 复算审计 | 杜伦大学对 EEF 早期 17 项已归档 RCT 的四模型复算研究 | 开放数据二次复算 | 简单均值、[[Covariate Adjustment\|协变量调整]]、HLM 与 GEE 四种模型的估计差异 | 统计分析模型设定导致效应量估计值大幅漂移 | 模型间差异具统计实质性 | 实证证明若不预先在 SAP 中刚性锁定模型与协变量，[[Researcher Degrees of Freedom\|研究者自由度]]极易扭曲结论 |
 > | EEF-NPD 开放档案库 | 英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对接试验微观数据库 | 纵向行政档案关联 | 完整关联行政大数据的预注册试验归档数量 | 105 项独立试验微观数据完整归档并对学界开放 | — | 为长期因果效应追踪与第三方复算提供了全球首个国家级教育微观数据库 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 i3 / [[Education Innovation and Research\|EIR]] 与英国 EEF 资助的数百项大规模现场试验 | 循证改革质量综述与方法学评估 | 预注册与质控标准对破除[[Replication in Education Research\|复现危机]]的作用 | 大样本预注册、独立评估与标准化测验结合彻底扭转了小样本自评导致的不复现困境 | 质实质控飞跃 | 确立预注册为联邦 [[Every Student Succeeds Act\|ESSA]] 分层证据体系的核心质控支柱 |
-> | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | 美国 [[Institute of Education Sciences\|IES]] 效能与有效性研究注册处（REES） | 政策分析与实证评述 | 预注册对缓解虚假结果与改善研究生态的作用 | 质性定性为无疑是积极的进步（undoubtedly a positive advancement；Gehlbach & Robinson, 2018） | — | 说明预注册已成为美国联邦教育因果评估治理的核心规范 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）全库 322 个影响因素（检索精读 1,369 篇一阶[[Meta-analysis\|元分析]]） | 预注册全量[[Metascience\|元科学]]审计与双独立编码 | OSF 方案预注册、[[PICO Framework\|PICO]] 纳入合规率与数据复现率 | 预先在 OSF 锁定审计方案；仅 19% 满足 PICO 关卡，301 项中仅 2 项（0.66%）数据提取完全可复现，44% 报告效应量查无出处 | 审计方案 100% 事前锁定并公开发表 | 证实预注册规程对于防止审查偏倚、开展高[[Reliability\|信度]]二阶证据审查的关键方法学价值 |
 
 ---

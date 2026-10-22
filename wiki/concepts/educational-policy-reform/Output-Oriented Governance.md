@@ -255,8 +255,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 28)]] | 奥地利施泰尔马克州 362 名公立义务教育学校校长 | 问卷调查与 $k$ 均值[[Cluster Analysis\|聚类分析]]（22 项治理工具评价） | 治理态度亚群分布比例 | [[Evidence-Based School Development\|循证学校发展]]型（27.5%）；资源驱动发展型（37.5%）；弱发展取向型（35.0%） | [[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）介于 0.09 至 0.41；资源类题项组间方差最高 | 针对奥地利中小学样本，揭示了真正认同产出导向与循证工具的校长仅占少数 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]]（引述 Demski, 2017） | 德语区中小学外部督导与全域统考实施监测样本 | 政策文本梳理与实证文献综合批判 | 新治理工具回传 vs 单体学校教学改进成效 | 实证文献确证外部督导报告与统考数据回传在单体学校层面遭遇广泛的成效缺失（mangelnde Effekte auf Einzelschulebene），未能自发撬动教学与学业提升 | 实证成效普遍停滞 | 确立新治理工具数据反馈与微观学校改进之间的非线性断裂，批判[[Technical Rationality\|技术理性]]线性传导假设 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16\|Karp & Zamiska (2025, pp. 181–183, 187)]] | 美国核海军工程推进与新加坡公务员制度实践 | 政治经济学与历史制度案例比较 | 治理激励与战略工程产出 | 新加坡通过市场化对标建立全球顶尖治理效能；里克弗突破程序[[Red Tape\|繁文缛节]]交付全球首艘核潜艇，但在微观报销清算中遭逆向淘汰 | 历史个案实证 | 确立了国家治理中以物理世界实质战功为最高裁判的产出导向必要性 |
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

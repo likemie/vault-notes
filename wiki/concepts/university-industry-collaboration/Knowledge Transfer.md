@@ -261,7 +261,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | 东德（冷战时期）与西德工业部门 | 历史档案计量分析与行业面板数据 | 国家支持的经济间谍活动与[[Total Factor Productivity\|全要素生产率]]差距 | 间谍获取的工业机密显著缩小了东德与西德之间的技术生产率差距 | $p < 0.01$ | 揭示非对等非法知识转移在地缘技术追赶中的真实效力 |
 > | Lissoni (2012) 与 Baig (2017)；引于 [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | 欧美大学学术专利（Lissoni）与全球网络安全攻击源（Baig） | 跨国数据库比较与流量监控统计 | 专利归属比例与跨国知识攻击源占比 | 欧洲 60%–81% 专利归工业公司所有；约 27%（重定向达 41%）攻击源自特定来源国 | — | 实证支持产学产权转移与网络空间[[Knowledge Sabotage\|知识破坏]]的地缘现实 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]] | 德语区各州全域测评（[[Vergleichsarbeiten\|VERA]]）与[[School Inspection\|外部学校督导]]（SI）反馈系统 | [[Literature Review\|文献综述]]与治理实证评估 | 监测数据回传向单体学校知识转移的微观改进成效 | 外部督导与统考数据回传在单体学校普遍缺乏显著的教学改善成效（mangelnde Effekte） | 质性综述确证 | 确证机械式数据回传无法自动转化为微观教学行动，[[Falsification\|证伪]]线性转移假设 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017, pp. 290–292, 297)]] | 加州理工学院 [[Silicon Structures Project\|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、通用电气（GE）与斯坦福 CIS | 历史档案与企业项目档案定性分析 | 轮转科学家机制、驻留工程师、FMA 联合指导小组 | GE 派驻工程师在 NRRFSS 驻留 1 年攻克 GaAs 器件工艺并回厂复制；斯坦福 CIS 依托 FMA 团队制完成博士生与企业导师深度联合研发 | 历史实证确证 | 证实高技术工程制造中隐性学问（Lore）高度依赖人员实体驻留与[[Mentorship\|导师制]]面对面传授 |
 
 ---

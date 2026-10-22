@@ -236,10 +236,6 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的文献与论述 | 历史再情境化追踪与[[Documentary Analysis\|文献分析]] | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再情境化 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦特定思想家在中国的接受史 |
-> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 阿根廷与巴西 1990 年代国家课程改革文件及教师教育者访谈 | 跨国比较分析与多层[[Discourse\|话语]]追踪 | 全球[[Floating Signifier\|漂浮能指]]、国家政策话语并置、教师地缘实践解读 | 全球层将能力抽象化，国家层将能力与学科并置，学校层根据贫困等地缘条件做出完全不同的现实解读 | 跨国质性比较 — | 揭示了全球—国家—实践三层再情境化断裂 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 1985–2002 年间三大国际组织政策文本与阿根廷、巴西两国国家课程大纲及师生访谈 | 跨国比较[[Discourse Analysis\|话语分析]]结合半结构化[[In-depth Interview\|深度访谈]] | [[Global Educational Discourse\|全球教育话语]]、五大支柱模型、[[Gatekeepers\|守门人]]网络、课程自主异化、实习制度拥堵 | 国际机构过度简化学术话语生产普遍模型；拉美多重精英重叠垄断封闭政策空间；落地学校引发阿根廷转抄商业教辅与巴西实习瘫痪等严重实践脱节 | 跨国比较质性追踪 — | 揭示了全球教育[[Champ\|场域]]五位置模型与再情境化断裂机制 |
-> | [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] | 新西兰 2021–2026 课程改革官方文件与学术评论 | 课程再情境化原则批判分析 | 双文化主义、地方化、道德原则与知识结构 | 课程文件通过三重原则重构话语秩序，但隐伏着[[Mātauranga Māori\|毛利知识体系]]与课程知识增长之间的[[Ontology\|本体论]]张力 | 文本批判分析 — | 属于国家官方再情境化场域的政策分析 |
 > | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]，结合[[Third Generation Activity Theory\|第三代活动理论]] | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]] 改革系统、共享目标[[Decodification\|解码]]与权力共享边界 | 谋求突破的学校成功将 LCE [[Pragmatic Paradigm\|实用主义]]地再情境化为攻克高阶考题或提升 45 分钟效率的工具，但受限于[[Gaokao\|高考]]大纲而排除了学生共决课程的权力维度 | 质性[[Transcription in Qualitative Research\|转录]]与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再情境化的机制与硬边界 |
 
 ---

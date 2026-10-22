@@ -275,11 +275,11 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | **关联[[Construct\|构念]]** 不同[[Creativity\|创造力]]测量工具与[[Critical Thinking\|批判性思维]]的综合相关 | $k = 51$ 项研究 / $N = 12,548$ | 皮尔逊相关 $r$ / 三水平随机效应模型 | **$r = 0.386$** $[0.334, 0.435]$ | $Q(50) = 485.45, p < .001, I^2 = 89.70\%$ | 创造力与批判性思维测量呈中等稳健正相关，测量类型构成核心调节变量 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **[[Dependent Variable\|结果变量]]** 多维创造力测量工具在高校干预下的综合[[Learning Gain\|学习增益]] | $k = 29$ 项实证研究 (109 ES) / $N = —$ | Hedges' $g$ / 多层随机效应模型 | **$g = 0.628$** $[0.446, 0.809]$ | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 涵盖 14 国高校实验，不同测量构念对干预的敏感度存在显著分化 |
-> | Acar et al. (2020) | **结果变量** 显式指导语对[[Divergent Thinking\|发散思维]]测验得分的即时提升 | $k = 30$ 项实证研究 / $N = 3,369$ | Hedges' $g$ / 随机效应模型 | **$g = 0.53$** | TTCT 图形测验达 $g = 0.62$ | 任务呈现阶段的测评指导语直接操纵测验表现 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | [0.334, 0.435] | 皮尔逊相关 $r$ / 三水平随机效应模型 | $k = 51$ 项研究 / $N = 12,548$ | **关联[[Construct\|构念]]** 不同[[Creativity\|创造力]]测量工具与[[Critical Thinking\|批判性思维]]的综合相关 | $Q(50) = 485.45, p < .001, I^2 = 89.70\%$ | 创造力与批判性思维测量呈中等稳健正相关，测量类型构成核心调节变量 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $k = 29$ 项实证研究 (109 ES) / $N = —$ | **[[Dependent Variable\|结果变量]]** 多维创造力测量工具在高校干预下的综合[[Learning Gain\|学习增益]] | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 涵盖 14 国高校实验，不同测量构念对干预的敏感度存在显著分化 |
+> | Acar et al. (2020) | <span class="mx-bar ef-bar" title="Hedges' g 0.53"><span class="b11"></span></span>0.53 | — | Hedges' $g$ / 随机效应模型 | $k = 30$ 项实证研究 / $N = 3,369$ | **结果变量** 显式指导语对[[Divergent Thinking\|发散思维]]测验得分的即时提升 | TTCT 图形测验达 $g = 0.62$ | 任务呈现阶段的测评指导语直接操纵测验表现 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

@@ -222,18 +222,18 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Alfieri et al. (2011)（纯发现分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 干预因素：无指导纯发现学习对比显性[[Direct Instruction\|直接讲授]] | $k = 108$ 项对比 | Cohen's $d$ / 随机效应 | $d = -0.38$（$95\%\ \text{CI}\ [-0.51, -0.25]$） | 统计显著负效应（$p < .001$） | 证实未提供任何支架的纯发现模式在知识习得效率上显著劣于显性直接讲授 |
-> | Alfieri et al. (2011b)（引导式发现分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 干预因素：增强型引导式发现学习对比显性讲授与传统教学 | $k = 65$ 项对比 | Cohen's $d$ / 随机效应 | $d = +0.30$（$95\%\ \text{CI}\ [0.17, 0.43]$） | 统计显著正效应（$p < .001$） | 证实配备认知支架与启发提示的引导式发现学习系统显著超越传统显性讲授 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Alfieri et al. (2011)（纯发现分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | <span class="mx-bar ef-bar neg" title="Cohen's d −0.38"><span class="b8"></span></span>−0.38 | [−0.51, −0.25] | Cohen's $d$ / 随机效应 | $k = 108$ 项对比 | 干预因素：无指导纯发现学习对比显性[[Direct Instruction\|直接讲授]] | 统计显著负效应（$p < .001$） | 证实未提供任何支架的纯发现模式在知识习得效率上显著劣于显性直接讲授 |
+> | Alfieri et al. (2011b)（引导式发现分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | <span class="mx-bar ef-bar" title="Cohen's d +0.30"><span class="b6"></span></span>+0.30 | [0.17, 0.43] | Cohen's $d$ / 随机效应 | $k = 65$ 项对比 | 干预因素：增强型引导式发现学习对比显性讲授与传统教学 | 统计显著正效应（$p < .001$） | 证实配备认知支架与启发提示的引导式发现学习系统显著超越传统显性讲授 |
 
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 显性直接讲授 vs 引导式发现探究（[[Control of Variables Strategy\|CVS]]） | 13 周延迟[[Pre-test and Post-test\|后测]]保持率 | 严格控制实验与长期追踪 | 直接教学组保持率 31%；引导式发现组保持率 78%–83% | — | 保持率差异显著（$p < .01$） | 证实经历试错发现所建构的认知策略具备极高的长期抗遗忘韧性 |
-> | Klahr and Nigam (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 直接讲授控制[[Variable\|变量]]规则 vs 发现学习 | 科学实验设计质量与近迁移表现 | 小学生科学课堂实验 | 直接讲授组短期掌握更快，发现组部分学生通过试错达成相同掌握水平 | — | 掌握后两组表现相当 | 证实两类教学路径均可通向精熟，但直接讲授短期速度更快，引导发现深层卷入度更高 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 严格控制实验与长期追踪 | 显性直接讲授 vs 引导式发现探究（[[Control of Variables Strategy\|CVS]]） | 13 周延迟[[Pre-test and Post-test\|后测]]保持率 | 直接教学组保持率 31%；引导式发现组保持率 78%–83% | 保持率差异显著（$p < .01$） | 证实经历试错发现所建构的认知策略具备极高的长期抗遗忘韧性 |
+> | Klahr and Nigam (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 小学生科学课堂实验 | 直接讲授控制[[Variable\|变量]]规则 vs 发现学习 | 科学实验设计质量与近迁移表现 | 直接讲授组短期掌握更快，发现组部分学生通过试错达成相同掌握水平 | 掌握后两组表现相当 | 证实两类教学路径均可通向精熟，但直接讲授短期速度更快，引导发现深层卷入度更高 |
 
 > [!metax] [发现式教学 · Discovery-based teaching](https://www.visiblelearningmetax.com/influences/view/discovery-based_teaching)
 > 教学策略 › 教学方法

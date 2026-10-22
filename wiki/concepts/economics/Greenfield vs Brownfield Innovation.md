@@ -155,13 +155,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 信息技术与能源部门[[Systems of Innovation|创新系统]]结构对比
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较领域 | 核心比较维度 | 关键特征发现（无[[Effect Size\|效应量]]） | 解释边界 |
-> |---|---|---|---|---|
-> | [[Argument_Mowery_2011_NBER\|Mowery (2011)]] | 战后信息技术 vs 当代清洁能源研发 | 产品属性、需求形态、存量网络与技术溢出 | IT 呈现绿地、高差异化、国防内生需求、双向溢出特征；能源呈现棕地、大宗商品同质性、政策外生驱动、军民严重脱节特征。 | 聚焦于美国战后制度演化与当代联邦研发体系的宏观比较。 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

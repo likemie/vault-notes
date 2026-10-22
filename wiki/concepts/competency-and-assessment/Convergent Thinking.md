@@ -208,9 +208,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对聚合思维（Convergent Thinking）的促进效应 | $k = 55$ / — | Hedges' $g$；随机效应模型 | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | $I^2 = 83.6\%$；$Q_b = 7.07, p < .01$（对比发散思维） | 涵盖 55 项独立效应量，多采用演绎推理、逻辑论据识别与标准选择题测度 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | Hedges' $g$；随机效应模型 | $k = 55$ / — | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对聚合思维（Convergent Thinking）的促进效应 | $I^2 = 83.6\%$；$Q_b = 7.07, p < .01$（对比发散思维） | 涵盖 55 项独立效应量，多采用演绎推理、逻辑论据识别与标准选择题测度 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -228,7 +228,6 @@ updated: 2026-10-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] | 全球 67 项高等教育实证研究（2022–2025） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | [[Metacognition\|元认知监控]]与[[Reflexivity\|反思性]]审思主题（Metacognitive Scrutiny） | 27 项实证研究报告结构化提示词促使学生对 AI 产出展开严密的元认知监控与对比分析 | 87% 研究 MMAT $\ge 80\%$ | 确立聚合反思是[[Generative Artificial Intelligence\|生成式 AI]] 赋能收敛性加工的首要机制 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] | 全球 67 项高等教育实证研究（2022–2025） | 系统综述与主题综合（PRISMA 2020 框架） | 论证结构与逻辑深化主题（Argumentation Structure） | 22 项实证研究证实利用 AI 充当辩难对手结合论证量规能显著拓宽收敛论据链条 | — | 证实辩证对抗任务对聚合论证严密性的显著促进 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] (引述 Strobl et al., 2024) | 德语高级 L2 学术写作课程 | 准实验教学干预与文本批注分析 | 双轨修改与批判性批注深度 | 经历三步反思规程的学生在逻辑连贯性与句式严密性得分上显著超越传统组 | $p < .05$ | 证实强制性反思批注能建立有效的认识论摩擦防线 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] (引述 Fan et al., 2025) | 大学本科生学术论文写作 | 语料库质性分析与逻辑链追踪 | 论证连贯性与推导完整性 | 全盘依赖 AI 的学生论文呈现“马赛克式”段落拼贴，段落间缺乏因果演绎推导链 | — | 证实无支架使用会导致收敛性演绎推理严重退化 |
 
 ---
 

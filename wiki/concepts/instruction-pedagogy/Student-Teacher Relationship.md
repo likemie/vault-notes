@@ -198,10 +198,10 @@ updated: 2026-10-22
 > [!effect-table]- 师生关系实证研究与[[Effect Size|效应量]]快照
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本规模 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | 挪威中小学男女生在师生关系评分上的组间差异（表 3） | 学生自评师生关系感知（8 项，1–4 分） | $N = 4{,}128$（男生 2,062，女生 2,066） | 男生 $3.29 (0.58)$；女生 $3.32 (0.57)$ | Cohen's $d = -0.05$ | $p = .166$（无显著性别差异） | 横断面多信息源调查；证实师生关系感知无显著性别鸿沟，但直接回归解释力弱于规范适应 |
-> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 《[[Visible Learning\|可见的学习]]》133 项正值效应量综合归类中师生关系的实测表现 | [[Academic Achievement\|学业成就]]跨研究增益 | 800+ 项一阶[[Meta-analysis\|元分析]]综合池 | 期望效应区（$d > 0.40$）典型代表 | Cohen's $d = 0.72$ | 宏观统计高度显著 | 二阶综合效应；证实良好师生关系是全库效应量最高的微观互动[[Variable\|变量]]之一 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本规模 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] | Cohen's $d$ | <span class="mx-bar ef-bar neg" title="Cohen's d −0.05"><span class="b1"></span></span>−0.05 | $p = .166$（无显著性别差异） | 挪威中小学男女生在师生关系评分上的组间差异（表 3） | 学生自评师生关系感知（8 项，1–4 分） | $N = 4{,}128$（男生 2,062，女生 2,066） | 男生 $3.29 (0.58)$；女生 $3.32 (0.57)$ | 横断面多信息源调查；证实师生关系感知无显著性别鸿沟，但直接回归解释力弱于规范适应 |
+> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.72"><span class="b14"></span></span>0.72 | 宏观统计高度显著 | 《[[Visible Learning\|可见的学习]]》133 项正值效应量综合归类中师生关系的实测表现 | [[Academic Achievement\|学业成就]]跨研究增益 | 800+ 项一阶[[Meta-analysis\|元分析]]综合池 | 期望效应区（$d > 0.40$）典型代表 | 二阶综合效应；证实良好师生关系是全库效应量最高的微观互动[[Variable\|变量]]之一 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

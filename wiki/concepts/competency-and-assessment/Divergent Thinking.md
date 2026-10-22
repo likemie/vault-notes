@@ -246,11 +246,11 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验统计量 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | **[[Dependent Variable\|结果变量]]** 生成式 AI 对学生创造力与发散思维（Creativity & Divergent Thinking）的干预效应 | $k = 23$ / — | Hedges' $g$；随机效应模型 | $g = 0.444$, $95\%\text{ CI} = [0.259, 0.629]$ | $Z = 4.698, p < .001$；全集 $Q(58) = 255.208, I^2 = 77.273\%$ | 涵盖 TTCT、多模态草图生成与开放方案构思测验；效应在三大高阶思维中位列末位，揭示算法给出的常见套路对打破常规新颖性的制约 |
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $k = 14$ / — | Hedges' $g$；随机效应模型 | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **结果[[Variable\|变量]]** [[Creativity Training\|创造力训练]]项目对大学生发散思维与[[Creativity\|创造性思维]]（Creative thinking）的综合提升 | $k = 29$ (24 ES) / — | Hedges' $g$；多层随机效应模型 | $g = 0.671$, $95\%\text{ CI} = [0.439, 0.903]$ | $Z = 5.675, p < .001$；全集 $Q(28) = 178.51, I^2 = 84.31\%$ | 涵盖 TTCT-F/V、ATTA 等经典任务，增益居所有构念子维度之首 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验统计量 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | [0.259, 0.629] | Hedges' $g$；随机效应模型 | $k = 23$ / — | **[[Dependent Variable\|结果变量]]** 生成式 AI 对学生创造力与发散思维（Creativity & Divergent Thinking）的干预效应 | $Z = 4.698, p < .001$；全集 $Q(58) = 255.208, I^2 = 77.273\%$ | 涵盖 TTCT、多模态草图生成与开放方案构思测验；效应在三大高阶思维中位列末位，揭示算法给出的常见套路对打破常规新颖性的制约 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | Hedges' $g$；随机效应模型 | $k = 14$ / — | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | [0.439, 0.903] | Hedges' $g$；多层随机效应模型 | $k = 29$ (24 ES) / — | **结果[[Variable\|变量]]** [[Creativity Training\|创造力训练]]项目对大学生发散思维与[[Creativity\|创造性思维]]（Creative thinking）的综合提升 | $Z = 5.675, p < .001$；全集 $Q(28) = 178.51, I^2 = 84.31\%$ | 涵盖 TTCT-F/V、ATTA 等经典任务，增益居所有构念子维度之首 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -269,10 +269,10 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 预测/相关变量：发散思维（DT）与[[Creativity\|创造力]]及相关指标的关系 | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $r = 0.14$ $[0.04, 0.24]$ | 95% PI $[-0.25, 0.50]$ | 经[[Publication Bias\|发表偏倚]]校正，证实发散思维具有稳健正相关但效应适中 |
-> | 同上 | 预测/相关变量：综合创造过程（含发散思维、[[Problem Finding\|问题发现]]、顿悟等） | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $r = 0.27$ $[0.10, 0.43]$ | 95% PI $[-0.17, 0.62]$ | 整体过程[[Effect Size\|效应量]]约为单一发散思维的 2 倍 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.04, 0.24] | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | 预测/相关变量：发散思维（DT）与[[Creativity\|创造力]]及相关指标的关系 | 95% PI $[-0.25, 0.50]$ | 经[[Publication Bias\|发表偏倚]]校正，证实发散思维具有稳健正相关但效应适中 |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.27 → d ≈ 0.56（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.27 | [0.10, 0.43] | Pearson $r$ / 多水平 CHE 协方差 + RVE 稳健方差估计 | $M = 52$；$E = 1$；$k = —$；$N = 1,240,000$ | 预测/相关变量：综合创造过程（含发散思维、[[Problem Finding\|问题发现]]、顿悟等） | 95% PI $[-0.17, 0.62]$ | 整体过程[[Effect Size\|效应量]]约为单一发散思维的 2 倍 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

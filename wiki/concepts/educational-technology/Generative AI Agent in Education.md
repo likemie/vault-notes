@@ -132,11 +132,11 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative Artificial Intelligence\|生成式 AI]] 辅导+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；证实显性教学支架能有效转化生成式 AI 潜能 |
-> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究能力受挫 |
-> | Kohnke et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 生成式写作[[AI Agent in Education\|智能体]]递进提问 vs. 独立自由写作 | 英语议论文论证结构与逻辑严密性 | $N = 70$ | — | Hedges' $g = 0.35$ | $p < .05$ | 准实验设计；苏格拉底式提问显著提升写作论证质量 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.40"><span class="b8"></span></span>0.40 | $p < .05$ | [[Generative Artificial Intelligence\|生成式 AI]] 辅导+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | 准实验设计；证实显性教学支架能有效转化生成式 AI 潜能 |
+> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar neg" title="Hedges' g −0.73"><span class="b15"></span></span>−0.73 | $p < .05$ | 开放无支架生成式 AI 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | 准实验设计；缺乏教学法约束导致认知卸载与探究能力受挫 |
+> | Kohnke et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.35"><span class="b7"></span></span>0.35 | $p < .05$ | 生成式写作[[AI Agent in Education\|智能体]]递进提问 vs. 独立自由写作 | 英语议论文论证结构与逻辑严密性 | $N = 70$ | — | 准实验设计；苏格拉底式提问显著提升写作论证质量 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

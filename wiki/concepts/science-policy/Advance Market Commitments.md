@@ -108,7 +108,6 @@ updated: 2026-10-22
 >
 > | 研究文献 | 样本与情境 | 资助设计与指标 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
-> | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 28–29)]] | 全球肺炎球菌疫苗试点 [[Academic Medical Center\|AMC]]（引自 Kremer et al., 2009–2020） | 15 亿美元多国政府与[[Bill & Melinda Gates Foundation\|盖茨基金会]]联合承诺 | 成功激励制药企业开发出适用于发展中国家毒株的疫苗，使数亿儿童受益并挽救数十万生命 | 实证检验了 AMC 在解决跨国公共卫生重大瓶颈上的巨大政策杠杆效能 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 29)]] | 私人航天亚轨道飞行悬赏（X-Prize）与清洁碳捕集 Frontier AMC | 1000 万美元奖金与近 10 亿美元碳移除预先采购承诺 | 1000 万美元私人悬赏拉动数亿美元商业研发；Frontier 基金撬动数十家新型碳捕集初创公司并推动成本下降 70% | 证实[[Pull Mechanisms for Innovation\|拉动机制]]在工程技术攻关中撬动社会资本的倍增效应 |
 
 > [!example] 典型制度实践案例

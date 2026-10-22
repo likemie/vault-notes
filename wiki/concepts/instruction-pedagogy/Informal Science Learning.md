@@ -196,7 +196,6 @@ updated: 2026-10-22
 > | **[[Dippy on Tour\|迪皮恐龙巡展评估]]** | 全英 8 个非首都区域场馆 | 观众客流、首次访客率、区域经济乘数 | 累计接待 **201 万**人次；欠发达地区首次访客率达 **84%**；创造 **3600 万英镑**文旅消费效益 | 证明国家级科学文化重资产下沉是打破地理与阶层排斥的最强引擎。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 51)]] |
 > | **[[Association for Science and Discovery Centres\|ASDC 行业监测]]** | 全英 60 多所主要科学中心 | 年度公众总接待量 | 每年服务逾 **2500 万**公众人次（含逾 **1000 万**儿童青少年） | 构成了英国最大规模的校外 STEM 学习与[[Science Capital\|科学资本]]培育网络。 |
 > | **UCL ASPIRES 纵向追踪** | 英国 10–19+ 岁青少年队列 | 科学资本构成与职业抱负路径 | 早期校内外多次积极科学遭遇对个体形成终身科学认同产生决定性影响 | 证实非正式学习具有终身累积效能，支持启动国家长期队列追踪。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]] |
-> | **NISE 网络半导体科普** | 全美科技馆与科学中心网络 | 芯片与微纳米科普互动项目覆盖面 | 依托动手探究展品与创客工坊，向数百万中小学生普及微电子制造与职业通路 | 将抽象深科技转化为沉浸式探究，拓展半导体工程劳动力源头储备。[[Argument_NSTC_2024_MicroelectronicsResearch\|(NSTC, 2024, pp. 34–35)]] |
 
 ---
 

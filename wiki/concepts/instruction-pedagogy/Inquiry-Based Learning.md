@@ -235,15 +235,6 @@ updated: 2026-10-22
 
 ---
 
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | [[Control of Variables Strategy\|变量控制策略]]教学：[[Direct Instruction\|直接教学]]组 vs. 直接教学+探究组 vs. 纯探究组 | 变量控制策略即时掌握率与 13 周延迟保持率 | 六年级学生 | 13 周延迟[[Pre-test and Post-test\|后测]]保持率：直接教学组 31%；直接+探究组 83%；纯探究组 78% | — | 组间差异显著（$p < .05$） | 受控纵向实验；证实脱离持续探究练习的单一直接讲授在长效保持上极脆弱 |
-> | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 变量控制策略掌握率与跨情境迁移成绩 | 小学三、四年级学生 | 即时后测与延迟迁移测试两组得分高度均等 | — | 组间差异无统计学显著性（等效） | 受控课堂实验；表明探究教学与直接教学在程序与概念掌握上均具同等有效性 |
-> | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 物理概念学习：学生自主设计与探究 vs. 教师直接讲授方案 | 深度概念理解与跨情境远迁移测验 | 小学高年级学生 | 自主设计探究组在解释性因果机制与迁移任务得分显著占优 | — | 显著高于直接讲授组 | 实验室受控实验；证实自主权衡[[Variable\|变量]]关系有助于深层认知表征的重构 |
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -271,13 +262,14 @@ updated: 2026-10-22
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Minner et al., 2010） | 138 项包含探究要素的实证研究（42 项严格受控比较研究） | [[Systematic Review\|系统综述]]与受控实验亚组分析 | 概念知识习得与探究饱和度 | 全样本中 51% 报告正向效应，仅 2% 为负向；42 项受控研究中 55% 证实高探究饱和度显著优于低探究，仅 1 项（2%）低探究占优 | 具有统计学显著性 | 跨越数十年理科实证研究，推翻了直接教学在概念知识上普遍优于探究的断言 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Smetana & Bell, 2012） | 61 项计算机模拟探究与讲授/实验对比研究 | 系统[[Literature Review\|文献综述]] | 科学理解与概念掌握 | 49 项研究（80%）表明计算机模拟探究组具有明显学业优势 | 定性实证梳理 | 强调计算机模拟必须配套高质量支持结构方能充分发挥探究效能 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Teig, 2022） | [[PISA\|国际学生评估项目]]（PISA）2015 与[[TIMSS\|国际数学与科学趋势研究]]（TIMSS）跨国大规模评估数据（数十万中学生） | 大规模横截面多层相关分析与非线性多项式回归 | 探究教学频次与科学[[Academic Achievement\|学业成绩]] | 探究活动频次与科学成绩呈显著倒 U 型曲线（Curvilinear）；探究与教师直接指导融合时增益最大 | 跨国跨数据库高度稳健 | 证明过度开放的高频探究或单一机械灌输均非最优，最佳效益来自直接指导与探究的有机结合 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 6)]]<br>（引述 Linn et al., 2014; Krajcik et al., 2014; Songer et al., 2009） | 涵盖全州与学区数万名学生的多年期课程改革项目（如基于网络的探究科学环境 [[Web-based Inquiry Science Environment\|WISE]]、全要素科学调查课程 IQWST） | 课程级长周期准实验与全州统考追踪 | 标准化科学统考成绩与概念理解表现 | 接受完整探究课程的学生在全州标准化科学统考中的及格率与高分率显著超越学区对照组 | 跨多年、跨学校大规模队列效应稳健 | 强力反驳了探究教学无法提升宏观标准化测验成绩的质疑，证实结构化探究课程的规模化优势 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] | 方法学审计：《[[Visible Learning\|可见的学习]]》对探究式教学元分析[[Standard Error\|标准误]]的计算审查 | [[Meta-meta-analysis\|二级元分析]]算法审计 | 汇总[[Standard Error\|标准误]]计算准确性 | 报告的标准误 $0.092$ 系两项一阶元分析标准误 $0.154$ 与 $0.030$ 的未加权简单算术均值 $(0.154+0.030)/2$ | 比高精度子研究误差虚假放大 3 倍以上 | 揭露二级综合严重违反样本聚合提高精度的公理，证实粗放平均对探究教学统计精度的扭曲 |
+> | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 变量控制策略掌握率与跨情境迁移成绩 | 即时后测与延迟迁移测试两组得分高度均等 | 组间差异无统计学显著性（等效） | 受控课堂实验；表明探究教学与直接教学在程序与概念掌握上均具同等有效性 |
+> | [[Argument_DeJong_2023_ERR\|Chase & Klahr (2017, cited in De Jong et al., 2023, p. 3)]] | 小学高年级学生 | 物理概念学习：学生自主设计与探究 vs. 教师直接讲授方案 | 深度概念理解与跨情境远迁移测验 | 自主设计探究组在解释性因果机制与迁移任务得分显著占优 | 显著高于直接讲授组 | 实验室受控实验；证实自主权衡[[Variable\|变量]]关系有助于深层认知表征的重构 |
 
 > [!metax] [探究式教学 · Inquiry-based teaching](https://www.visiblelearningmetax.com/influences/view/inquiry-based_teaching)
 > 教学策略 › 教学方法

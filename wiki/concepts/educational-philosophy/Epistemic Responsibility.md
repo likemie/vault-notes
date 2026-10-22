@@ -209,7 +209,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学 22 名五年级学生，7 个月人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]与[[Network Analysis\|社会网络分析]]（SNA） | [[Theory of Knowledge\|知识论]]坛 15 个视图发帖矩阵与跨组流动互联指标 | 全班累计发帖超 500 篇，SNA 密度图谱显示无孤立边缘节点，跨小组引用与协同发帖频繁；学生自发进行 4 轮以上弹性小组流动重组 | 质性与社会网络拓扑分析 | 证实集体认知责任在[[Reflective Structuration\|反思性结构化]]课堂中有效落地，构建起分布式社会认知网络 |
-> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] | [[Man-Computer Symbiosis\|人机共生]]学习环境（涵盖初等、中等与高等教育探究任务） | 理论建构与多案例对比分析 | [[Epistemic Stances\|认识立场]]分类与人机交互质量 | 承担[[Epistemology\|认识论]]责任的学习者展现高水平证据审问与主动验证，而卸载责任者产生消极[[Cognitive Offloading\|认知卸载]]与盲从 | 理论推论与案例验证支撑 | 确立人机共生中认识论责任对维系[[Epistemic Agency\|认识主体性]]的关键调节效能 |
 
 ---
 

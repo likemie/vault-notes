@@ -167,16 +167,16 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Fuad et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：CIRC 整合读写对语言阅读理解成就的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 2.04$ $[1.35, 2.74]$ | — | 印尼 K-12 阶段语言阅读准实验，[[Effect Size\|效应量]]极其突出显著 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Fuad et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 2.04"><span class="b28"></span></span>2.04 | [1.35, 2.74] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | 干预因素：CIRC 整合读写对语言阅读理解成就的干预效应 | — | 印尼 K-12 阶段语言阅读准实验，[[Effect Size\|效应量]]极其突出显著 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：CIRC 技术亚组对多维学习产出的二阶综合干预效应 | $M = 1$；$E = 1$；$k = 10$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 2.04$ $[1.05, 3.03]$ | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | 在所有[[Cooperative Learning\|合作学习]]具体技术模式中效应居全场第一，证实语言读写整合的极大赋能价值 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 1$；$E = 1$；$k = 10$；$N = —$ | 干预因素：CIRC 技术亚组对多维学习产出的二阶综合干预效应 | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | 在所有[[Cooperative Learning\|合作学习]]具体技术模式中效应居全场第一，证实语言读写整合的极大赋能价值 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

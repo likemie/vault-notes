@@ -186,13 +186,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 制度转换机制的实证[[Documentary Analysis|文献分析]]
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 核心机制与测量指标 | 关键实证发现与表现 | 解释边界 |
-> |---|---|---|---|---|---|
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 251, 253)]] | 全球 158 篇教育治理改革文献（重点追踪美国、智利与英国等） | [[Systematic Review\|系统文献综述]]与历时性政策分析 | 政策工具演进中的制度转换（Conversion）机制 | 证实评估工具在成文法律未变前提下发生功能转用，从最初的诊断支持转化为以特许改制、生源流失与行政惩戒为导向的强问责机制 | 质性系统综述与[[Historical Institutionalism\|历史制度主义]]综合分析 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

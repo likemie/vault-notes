@@ -192,7 +192,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 州中小学 906 名教育者（两轮标准化[[Questionnaire\|问卷]]）及 29 名访谈者 | 两轮李克特问卷调查与[[In-depth Interview\|深度访谈]]质性分析 | 供给端可及性障碍（检索困难）与需求端使能障壁（质量信心、时间赤字） | 64% 报告检索适切研究困难；44% 自陈缺乏判断质量信心；76% 遭遇日常时间赤字；61% 因转化耗时过长认为使用不划算；校内[[Professional Learning Community\|专业学习共同体]]显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 揭示了单向推送无法穿透实践端吸收瓶颈的现实困境，支持了向需求端使能倾斜的理论主张 |
-> | [[Argument_Torres_2022_KMModels\|Torres (2022b)]] | [[OECD]] 跨国教育系统[[Knowledge Mobilisation\|知识动员]]机制综述 | 跨国比较[[Literature Review\|文献综述]]与概念[[Framework Synthesis\|框架综合]] | 各国在 Push、Pull 与 Exchange 三类机制上的制度布局与政策失衡 | 绝大多数国家政策高度偏重 Push 端成果分发与数据库，Pull 端组织使能与中介机制严重匮乏 | — | 宏观政策层面的跨国制度映射，呈现供需机制结构性失衡的普遍性 |
 
 ---
 

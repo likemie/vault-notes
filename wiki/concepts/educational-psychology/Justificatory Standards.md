@@ -184,9 +184,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 证据确定性 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（因果干预效应） | 28 / 4,373 | Cohen's d；[[Random-Effects Model\|随机效应]] | 0.509 [0.326, 0.692] | I²=92.72%，Q=370.964*** | — |
+> | 元分析 | 效应值 | 95% CI | 效应指标与模型 | [[Heterogeneity\|异质性]] | [[Dependent Variable\|结果变量]] | k / N | 证据确定性 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.326, 0.692] | Cohen's d；[[Random-Effects Model\|随机效应]] | I²=92.72%，Q=370.964*** | [[Academic Achievement\|学业成就]]（因果干预效应） | 28 / 4,373 | — |
 
 > [!ma-table]- 调节[[Variable\|变量]]与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

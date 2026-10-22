@@ -103,9 +103,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：课堂辩论对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 8$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.32$ $[0.03, 0.61]$ | $Q(7) = 21.41, p = .003, I^2 = 67.31\%$ | 纳入实验与准实验；作为[[Dialogue in Education\|对话]]维度细分子策略检验 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.03, 0.61] | Hedges' $g+$ / 随机效应模型 | $k = 8$ / $N = —$ | 干预因素：课堂辩论对[[Critical Thinking\|批判性思维]]技能的促进效应 | $Q(7) = 21.41, p = .003, I^2 = 67.31\%$ | 纳入实验与准实验；作为[[Dialogue in Education\|对话]]维度细分子策略检验 |
 
 ---
 

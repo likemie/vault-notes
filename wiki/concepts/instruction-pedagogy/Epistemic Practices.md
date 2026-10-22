@@ -275,11 +275,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 144–145)]] | 高中物理课堂弹簧振子振动实验小组（Kelly et al., 2001 案例） | 微观交互[[Ethnography\|人种志]]与录像[[Transcription in Qualitative Research\|转录]]分析 | 具身动作、传感器波形图与猜想提出序列 | 学生通过手部模仿波形，将身体感觉与屏幕波峰对照以提出初始假说 | 质性[[Dialogue in Education\|对话]]序列分析 | 适用于仪器中介的高中物理探究情境 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 145–146)]] | 小学三年级太阳能集热与烹饪装置设计团队（Kelly & Brown, 2003 案例） | 课堂人种志与[[Discourse Analysis\|话语分析]] | 小组讨论、工程草图与面向小记者的汇报辩护 | 学生根据受众调整论证，用实测升温数据回应质疑并解释设计折中 | 质性[[Discourse\|话语]]功能分析 | 适用于设计驱动的小学[[Engineering Education\|工程教育]]情境 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, p. 146)]] | 大学本科地质学板块构造论文撰写（Takao & Kelly, 2003 案例） | 学术写作文本话语分析 | 认识论层级（Epistemic Level, EL）编码分布 | 优秀论文展现出从观测事实到中阶概括再到理论机制的清晰证据组织层级 | 认识论层级结构编码 | 适用于数据驱动的大学地球科学学术写作 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, pp. 146–147)]] | 小学三年级多元文化课堂物质状态探究（Reveles et al., 2004 案例） | 微观话语分析与师生互动转录 | 教师元话语（meta-discourse）与科学身份建构 | 教师通过显性点评引导学生调用前日温度数据，赋予边缘学生科学身份 | 质性言语行为分析 | 适用于强调包容性与身份认同的小学课堂 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, p. 150)]] | 小学阶段地球形状与重力机制探究（Lidar et al., 2010 案例） | [[Practical Epistemology\|实践认识论]]分析（PEA）话语编码 | 立足点（Stand Fast）、意义裂隙与关系搭建 | 儿童通过转动地球仪与地图修补理解裂隙，在行动中原生地界定有效观察 | [[Practical Epistemology Analysis\|PEA]] 话语互动编码 | 适用于具身教具支持的概念探究情境 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | $N = 8$ 名韩国初中二年级学生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与微观交互追踪（Canva / ChatGPT） | 人机协同建构[[Scientific Explanation\|科学解释]]中的四维认识论实践话轮与多模态图文修正 | 实证记录学生在人机协同中经历“提示词提出—多维审问评估—同伴沟通修改—教科书[[Triangulation\|三角互证]]合法化”的完整实践闭环，成功将 AI 输出转化为认识论探究资源 | 质性多模态序列编码与三角互证 | 适用于显性双轨支架支持下的初中[[Man-Computer Symbiosis\|人机协同]]科学探究情境 |
 
 ---
 

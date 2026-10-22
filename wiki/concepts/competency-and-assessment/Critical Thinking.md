@@ -411,17 +411,17 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Random-Effects Model\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
-> | 同上 | 结果变量：教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
-> | 同上 | 结果变量：教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对学生批判性思维技能的促进效应 | $k = 20$ / 29 项研究中 20 个效应量 | Hedges' $g$ / [[Random-Effects Model\|随机效应模型]] | $g = 0.691$ $[0.464, 0.918]$ | $Z = 5.973, p < .001$ | 综合 2022–2025 年实验证据，生成式 AI 辩论与提示脚手架显著促进论证评估与事实核验反思 |
-> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Jigsaw\|拼图法]]对护理临床批判性思维的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，拼图法结构化互动显著提升反思决策 |
-> | Siagian et al. (2023)，引自同上 | 结果变量：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼中小学数学教学情境，合作学习显著增强批判性解题能力 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中批判性思维与[[Creativity\|创造力]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
-> | Huber and Kuncel (2016)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 结果变量：大学生就读全周期批判性思维纵向增益 | $k = 71$ / $N = 10{,}751$ | Cohen's $d$ / 随机效应模型 | $d = 0.59$ | — | 综合全美高校纵向追踪数据；大学四年能力增长幅度中等，跨校与跨专业异质性高 |
-> | Abrami et al. (2008)，引自同上 | 结果变量：[[Explicit Critical Thinking Instruction\|显性批判性思维教学]]干预的总体促进效应 | $k = 117$ / $N = 20{,}698$ | Cohen's $d$ / 随机效应模型 | $d = 0.34$ $[0.30, 0.38]$ | — | 涵盖各学段教学干预；明确设定高阶认知目标的显性教学显著优于[[Immersion Approach\|隐性渗透模式]] |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.30"><span class="b6"></span></span>0.30 | [0.25, 0.34] | Hedges' $g+$ / [[Random-Effects Model\|随机效应模型]] | $k = 341$ / $N = —$ | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
+> | 同上 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.47, 0.68] | Hedges' $g+$ / 随机效应模型 | $k = 97$ / $N = —$ | 结果变量：教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
+> | 同上 | <span class="mx-bar ef-bar" title="Hedges' g 0.23"><span class="b5"></span></span>0.23 | [0.06, 0.40] | Hedges' $g+$ / 随机效应模型 | $k = 25$ / $N = —$ | 结果变量：教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.691"><span class="b14"></span></span>0.691 | [0.464, 0.918] | Hedges' $g$ / [[Random-Effects Model\|随机效应模型]] | $k = 20$ / 29 项研究中 20 个效应量 | [[Dependent Variable\|结果变量]]：生成式 AI 对学生批判性思维技能的促进效应 | $Z = 5.973, p < .001$ | 综合 2022–2025 年实验证据，生成式 AI 辩论与提示脚手架显著促进论证评估与事实核验反思 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.70"><span class="b14"></span></span>0.70 | [0.13, 1.26] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 结果变量：[[Jigsaw\|拼图法]]对护理临床批判性思维的促进效应 | — | 高等护理教育临床决策情境，拼图法结构化互动显著提升反思决策 |
+> | Siagian et al. (2023)，引自同上 | <span class="mx-bar ef-bar" title="Cohen's d 0.79"><span class="b16"></span></span>0.79 | [0.58, 1.00] | Cohen's $d$ / 随机效应模型 | $k = 35$ / $N = —$ | 结果变量：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | — | 印尼中小学数学教学情境，合作学习显著增强批判性解题能力 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | [0.296, 0.470] | $r$ / 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $k = 51$ / $N = 12{,}548$ | 关联构念：学生样本中批判性思维与[[Creativity\|创造力]]的总体相关 | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
+> | Huber and Kuncel (2016)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.59"><span class="b12"></span></span>0.59 | — | Cohen's $d$ / 随机效应模型 | $k = 71$ / $N = 10{,}751$ | 结果变量：大学生就读全周期批判性思维纵向增益 | — | 综合全美高校纵向追踪数据；大学四年能力增长幅度中等，跨校与跨专业异质性高 |
+> | Abrami et al. (2008)，引自同上 | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | [0.30, 0.38] | Cohen's $d$ / 随机效应模型 | $k = 117$ / $N = 20{,}698$ | 结果变量：[[Explicit Critical Thinking Instruction\|显性批判性思维教学]]干预的总体促进效应 | — | 涵盖各学段教学干预；明确设定高阶认知目标的显性教学显著优于[[Immersion Approach\|隐性渗透模式]] |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -443,10 +443,10 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维（含批判性思维）的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 高阶思维亚组包含批判性思维与创造性思维研究，证实合作互动对批判性反思的高促进作用 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对批判性思维的促进效应 | $M = 20$；$E = 6$（批判性思维亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $ES = 0.56$ $[0.24, 0.89]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 仅代表高等教育情境下 PBL 干预，不同学科专业间异质性极高 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维（含批判性思维）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 高阶思维亚组包含批判性思维与创造性思维研究，证实合作互动对批判性反思的高促进作用 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | <span class="mx-bar ef-bar" title="SMD 0.56"><span class="b11"></span></span>0.56 | [0.24, 0.89] | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $M = 20$；$E = 6$（批判性思维亚组）；$k = 469$；$N = —$ | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对批判性思维的促进效应 | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 仅代表高等教育情境下 PBL 干预，不同学科专业间异质性极高 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
@@ -468,7 +468,6 @@ updated: 2026-10-22
 > | EUA Trends (2018) 调查，引自同上 | $N = 303$ 所全欧大学（覆盖 43 国） | 宏观院校调查 | 预期学习成果与考核方式改革 | 76% 大学为所有课程设定预期成果，88% 大学据此调整了考核方式，但 66% 在考核对齐中遭遇制度阻碍 | — | 欧洲高等教育区大范围普查，揭示批判性思维教学与考核对齐的制度惯性 |
 > | [[CRITHINKEDU Project\|CRITHINKEDU]] (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度[[Qualitative Interview\|质性访谈]] | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性[[Critical Thinking Assessment\|批判性思维测评]]工具与教师评价素养的严重匮乏 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对批判性思维（CT）影响的主题频数分布 | 促进维度：[[Metacognition\|元认知]]参与（27 项）、论证建构（22 项）、查错核验（19 项）、自我调节（17 项）、学科推理（15 项）；风险维度：过度依赖与心智惰性（21 项）、浅层参与（18 项）、论证退化（14 项）、元[[Cognitive Offloading\|认知卸载]]（12 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对批判性思维的促进高度依存于反思提示、结构化脚手架与 AI 素养 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | $N = 2$ 个微观典型案例（高中科学课堂） | [[Multimodal Discourse Analysis\|多模态话语分析]]与质性微观发生学追踪 | 人机协同[[Scientific Explanation\|科学解释]]中的[[Epistemological Vigilance\|认识论警觉]]表现与审验层级（自发 vs 支架驱动） | 揭示学生在无支架时易受 AI 流畅性误导，而在双轨支架支持下可开展多源[[Triangulation\|三角互证]]与事实溯源，实现批判性修正与认识论能动性发展 | — | 质性案例证据，深化了[[Man-Computer Symbiosis\|人机协同]]科学解释中批判性审验的微观机制与教学支持路径 |
 
 > [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
 > 学生 › 先备知识与背景

@@ -294,19 +294,19 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架：PBL 对[[Academic Achievement\|学业成就]]与[[Epistemic Cognition\|认识论认知]]的因果干预效应 | 7 项研究 / 1,250；7 个效应 | Cohen's d；[[Random-Effects Model\|随机效应模型]] | d = 0.340 [−.080, .761] | Q(6) = 115.279, p < .001 | 作为独立干预模式效果未达统计显著（Z = 1.586, p = .113），证实劣构问题探究若缺乏显性程序支架则成效受限 |
-> | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学知识结果 | 11 项研究 / N 未报告；60 个效应 | Cohen's d；模型未报告 | d = 0.27；95% CI 未报告 | 未报告 | Blass 将其识别为[[Literature Review\|文献综述]] |
-> | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学教育情境；情境集中于专业高等教育 |
-> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的大学知识与技能结果 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 大学教育；结果类型需要细分 |
-> | [[Argument_Hattie_2015_SOTLP\|Smith (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 82 项研究 / N 未报告；121 个效应 | Cohen's d；模型未报告 | d = 0.31；95% CI 未报告 | 未报告 | 医学教育情境；难以直接迁移到学校科目 |
-> | [[Argument_Hattie_2015_SOTLP\|Newman (2004, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 12 项研究 / N 未报告；12 个效应 | Cohen's d；模型未报告 | d = −0.30；95% CI 未报告 | 未报告 | Blass 将其识别为探索性研究 |
-> | [[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的评估结果 | 40 项研究 / N 未报告；49 个效应 | Cohen's d；模型未报告 | d = 0.32；95% CI 未报告 | 未报告 | 评估方式影响结果解释 |
-> | [[Argument_Hattie_2015_SOTLP\|Walker & Leary (2008, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的跨学科结果 | 82 项研究 / N 未报告；201 个效应 | Cohen's d；模型未报告 | d = 0.13；95% CI 未报告 | 未报告 | 跨学科情境混合；教育阶段与学科异质 |
-> | [[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2009, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的[[Constructivist Paradigm\|建构主义]]医学知识 | 10 项研究 / N 未报告；90 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学知识结果 |
-> | [[Argument_Hattie_2015_SOTLP\|Leary et al. (2013, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的总体结果 | 94 项研究 / N 未报告；213 个效应 | Cohen's d；模型未报告 | d = 0.24；95% CI 未报告 | 未报告 | 综合情境未细分 |
-> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | 干预因素（PBL）的知识获取 | k / N 未报告 | Cohen's d；模型未报告 | d = −0.79；95% CI 未报告 | 未报告 | 知识获取结果不能代表全部 PBL 目标 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 | k / N |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | [−.080, .761] | Cohen's d；[[Random-Effects Model\|随机效应模型]] | 干预教学框架：PBL 对[[Academic Achievement\|学业成就]]与[[Epistemic Cognition\|认识论认知]]的因果干预效应 | Q(6) = 115.279, p < .001 | 作为独立干预模式效果未达统计显著（Z = 1.586, p = .113），证实劣构问题探究若缺乏显性程序支架则成效受限 | 7 项研究 / 1,250；7 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.27"><span class="b5"></span></span>0.27 | — | Cohen's d；模型未报告 | 干预因素（PBL）的医学知识结果 | 未报告 | Blass 将其识别为[[Literature Review\|文献综述]] | 11 项研究 / N 未报告；60 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.18"><span class="b4"></span></span>−0.18 | — | Cohen's d；模型未报告 | 干预因素（PBL）的医学结果 | 未报告 | 医学教育情境；情境集中于专业高等教育 | 8 项研究 / N 未报告；26 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.12"><span class="b2"></span></span>0.12 | — | Cohen's d；模型未报告 | 干预因素（PBL）的大学知识与技能结果 | 未报告 | 大学教育；结果类型需要细分 | 43 项研究 / N 未报告；35 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Smith (2003, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | Cohen's d；模型未报告 | 干预因素（PBL）的医学结果 | 未报告 | 医学教育情境；难以直接迁移到学校科目 | 82 项研究 / N 未报告；121 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Newman (2004, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.30"><span class="b6"></span></span>−0.30 | — | Cohen's d；模型未报告 | 干预因素（PBL）的医学结果 | 未报告 | Blass 将其识别为探索性研究 | 12 项研究 / N 未报告；12 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.32"><span class="b6"></span></span>0.32 | — | Cohen's d；模型未报告 | 干预因素（PBL）的评估结果 | 未报告 | 评估方式影响结果解释 | 40 项研究 / N 未报告；49 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Walker & Leary (2008, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.13"><span class="b3"></span></span>0.13 | — | Cohen's d；模型未报告 | 干预因素（PBL）的跨学科结果 | 未报告 | 跨学科情境混合；教育阶段与学科异质 | 82 项研究 / N 未报告；201 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Schmidt et al. (2009, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.18"><span class="b4"></span></span>−0.18 | — | Cohen's d；模型未报告 | 干预因素（PBL）的[[Constructivist Paradigm\|建构主义]]医学知识 | 未报告 | 医学知识结果 | 10 项研究 / N 未报告；90 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Leary et al. (2013, as cited in Hattie, 2015b, p. 85)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.24"><span class="b5"></span></span>0.24 | — | Cohen's d；模型未报告 | 干预因素（PBL）的总体结果 | 未报告 | 综合情境未细分 | 94 项研究 / N 未报告；213 个效应 |
+> | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.79"><span class="b16"></span></span>−0.79 | — | Cohen's d；模型未报告 | 干预因素（PBL）的知识获取 | 未报告 | 知识获取结果不能代表全部 PBL 目标 | k / N 未报告 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

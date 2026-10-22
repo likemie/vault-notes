@@ -288,7 +288,6 @@ updated: 2026-10-22
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | [[Multitrait-Multimethod Matrix\|MTMM]] 跨平台一致性检验 | 评级[[Convergent and Discriminant Validity\|收敛效度]] (Table 8) | 2-CH 评级对中完全一致率仅 **30.5%**（其中共同推荐 1&1 仅 1.2%）；**完全对立冲突 (1&3) 高达 35.4%** | 全样本去重配对核算 | 揭示清算中心“循证”构念[[Praxis\|实践]]效度有限 |
 > | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] | [[International Baccalaureate\|IB]] [[Theory of Knowledge\|知识论]] (ToK) 课程大纲与评估指南 | [[Content Analysis\|内容分析]]与构念映射 | [[Critical Thinking\|批判性思维]]构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、假设检验、[[Problem Solving\|问题解决]]等）均未进入评分标准 | 系统文本[[Coding in Qualitative Research\|质性编码]] | 揭示课程评估中内部对齐与构念不足呈现并存 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 测量学实验与调查设计案例 | 方法论论证与反例分析 | 构念对应性与方差分解 | 证明削铅笔测验与智力构念相关近乎为 0；数学测验中阅读负荷导致无关方差占比显著上升 | 测量学经典理论案例 | 阐明[[Operationalization\|操作化]]相容性与无关方差机制 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]]历届 [[PISA]] 测评框架、技术报告与政策文本 | 批判性政策社会学与测评技术剖析 | 跨国统计信度与等值空间建构对构念效度与[[Ontology\|本体论]]的剥离 | PISA 试题脱离国家课程标准，将跨国[[Reliability\|信度]]绝对优先于情境构念效度，[[Epoché\|悬置]]教育本体论多样性 | 概念批判与制度分析 | 揭示跨国[[Governing by Numbers\|数字治理]]中信度优先对构念效度的系统性挤压 |
 
 ---
 

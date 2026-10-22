@@ -166,22 +166,22 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：综合[[Cooperative Learning\|合作学习]]对数学学科态度的促进效应 | $k = 7$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.52$ $[-0.20, 1.24]$ | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
-> | Kyndt et al. (2013)，引自前述二阶合成 | 结果[[Variable\|变量]]：面对面合作学习对一般态度的促进效应 | $k = 19$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.15$ $[0.04, 0.26]$ | — | 多国混合学科与混合学段，效应显著但整体偏低且检出[[Publication Bias\|发表偏倚]] |
-> | Kyndt et al. (2013b)，引自前述二阶合成 | 结果变量：合作学习对土耳其等地区[[Student Attitude\|学生态度]]的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.18$ $[-0.05, 0.40]$ | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
-> | Liu and Lipowski (2021)，引自前述二阶合成 | 结果变量：合作学习对体育课内在动机的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.05$ $[-1.30, 1.41]$ | — | K-12 体育教育，置信区间极宽且检出发表偏倚 |
-> | Özkan & Çetinkaya-Uslusoy (2024)，引自前述二阶合成 | 结果变量：[[Jigsaw\|拼图法]]（Jigsaw）对护理学生专业态度的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 高等护理教育临床情境，角色互换显著增强专业认同 |
-> | Tanjung et al. (2022)，引自前述二阶合成 | 结果变量：小组[[Survey Research\|调查法]]对物理情感能力的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.26$ $[0.69, 1.88]$ | — | 印尼 10-11 年级物理课，探究合作对学科情感与效能感赋能突出 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量：生成式 AI 对大学生情感动机状态（AMS）的干预效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Random-Effects Model\|随机效应模型]] | $g^+ = 0.617$ $[0.311, 0.922]$ | $Q(24) = 277.08, p < .001, I^2 = 91.34\%$；剪补法未检出缺失研究 | 严格控制前测基线等效（$d < 0.25$）；包含学习兴趣、学习动机、自我效能感与技术接纳态度；结果稳健 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.52"><span class="b10"></span></span>0.52 | [−0.20, 1.24] | Cohen's $d$ / 随机效应模型 | $k = 7$ / $N = —$ | [[Dependent Variable\|结果变量]]：综合[[Cooperative Learning\|合作学习]]对数学学科态度的促进效应 | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
+> | Kyndt et al. (2013)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | [0.04, 0.26] | Cohen's $d$ / 随机效应模型 | $k = 19$ / $N = —$ | 结果[[Variable\|变量]]：面对面合作学习对一般态度的促进效应 | — | 多国混合学科与混合学段，效应显著但整体偏低且检出[[Publication Bias\|发表偏倚]] |
+> | Kyndt et al. (2013b)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 0.18"><span class="b4"></span></span>0.18 | [−0.05, 0.40] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 结果变量：合作学习对土耳其等地区[[Student Attitude\|学生态度]]的促进效应 | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
+> | Liu and Lipowski (2021)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 0.05"><span class="b1"></span></span>0.05 | [−1.30, 1.41] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 结果变量：合作学习对体育课内在动机的促进效应 | — | K-12 体育教育，置信区间极宽且检出发表偏倚 |
+> | Özkan & Çetinkaya-Uslusoy (2024)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 1.18"><span class="b24"></span></span>1.18 | [0.53, 1.84] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 结果变量：[[Jigsaw\|拼图法]]（Jigsaw）对护理学生专业态度的促进效应 | — | 高等护理教育临床情境，角色互换显著增强专业认同 |
+> | Tanjung et al. (2022)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 1.26"><span class="b25"></span></span>1.26 | [0.69, 1.88] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 结果变量：小组[[Survey Research\|调查法]]对物理情感能力的促进效应 | — | 印尼 10-11 年级物理课，探究合作对学科情感与效能感赋能突出 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | [0.311, 0.922] | Hedges' $g^+$ / [[Random-Effects Model\|随机效应模型]] | $k = 25$ / $N = —$ | 结果变量：生成式 AI 对大学生情感动机状态（AMS）的干预效应 | $Q(24) = 277.08, p < .001, I^2 = 91.34\%$；剪补法未检出缺失研究 | 严格控制前测基线等效（$d < 0.25$）；包含学习兴趣、学习动机、自我效能感与技术接纳态度；结果稳健 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对情感行为（Affective Behaviors）的干预效应 | $M = 6$；$E = 6$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.51$ $[0.17, 0.84]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 情感行为包含态度、动机与自信心等异质测量，点估计为三类产出中最低；一阶研究集中于土耳其与印尼 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.51"><span class="b10"></span></span>0.51 | [0.17, 0.84] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 6$；$E = 6$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对情感行为（Affective Behaviors）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 情感行为包含态度、动机与自信心等异质测量，点估计为三类产出中最低；一阶研究集中于土耳其与印尼 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

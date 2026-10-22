@@ -288,21 +288,13 @@ updated: 2026-10-22
 
 ---
 
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | [[Control of Variables Strategy\|变量控制策略]]教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 六年级学生 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | — | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
-> | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 小学三、四年级学生 | 即时与延迟测验两组得分高度均等（Equivalence） | — | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒[[Inquiry-Based Learning\|探究式学习]]的绝对优势 |
-
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预措施：直接通用教学模式（General approach）对通用[[Critical Thinking\|批判性思维]]的影响 | $k = 44$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.26$ $[0.14, 0.37]$ | $Q_b(3) = 4.10, p = .25$ | 独立于学科内容的通用思维直接讲授产生稳步正向增益，但低于显性混合模式（$g+ = 0.38$） |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 干预措施：显性直接指导策略（Explicit Instruction）对发散[[Creativity\|创造力]]的影响 | $k = 30$ / $N = —$ | Hedges' $g+$ / 多水平元分析模型 | $g+ = 0.44$ $[0.33, 0.55]$ | — | 在[[Creativity Training\|创造力干预]]中，包含显性示范的教学显著优于纯隐性探索活动 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.14, 0.37] | Hedges' $g+$ / 随机效应模型 | $k = 44$ / $N = —$ | 干预措施：直接通用教学模式（General approach）对通用[[Critical Thinking\|批判性思维]]的影响 | $Q_b(3) = 4.10, p = .25$ | 独立于学科内容的通用思维直接讲授产生稳步正向增益，但低于显性混合模式（$g+ = 0.38$） |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.44"><span class="b9"></span></span>0.44 | [0.33, 0.55] | Hedges' $g+$ / 多水平元分析模型 | $k = 30$ / $N = —$ | 干预措施：显性直接指导策略（Explicit Instruction）对发散[[Creativity\|创造力]]的影响 | — | 在[[Creativity Training\|创造力干预]]中，包含显性示范的教学显著优于纯隐性探索活动 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -322,6 +314,8 @@ updated: 2026-10-22
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写[[Intervention Research\|干预研究]]（非 STEM 领域） | 元分析与[[Critical Review\|批判性综述]]审查 | 直接教学对比常规或其他教学课程 | 直接教学在基础读写算技能上表现出正向效应，但对照组仅区分为常规课程而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Oliver et al., 2021） | [[PISA\|国际学生评估项目]]（PISA）2015 跨国大规模数据（数十万学生） | 多层非线性多项式回归分析 | 教师直接指导与学生探究对科学成绩的[[Interaction Effect\|交互作用]] | 教师直接指导与探究活动呈显著倒 U 型交互增益；单一孤立的超高强度直接讲授呈现收益递减甚至负向关联 | 跨国分析高度一致 | 证明直接教学的最优效能取决于其与探究实践的动态结合（Sweet Spot） |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 29–30)]]<br>（审计 Haas, 2005 与 Hattie 数据库） | Haas (2005) 直接教学元分析（19 个效应量，$\text{SD} = 0.59$） | 统计审计与[[Inverse-Variance Weighting\|逆方差加权]]复核 | 二级元分析[[Standard Error\|标准误]]计算与权重分配 | Hattie 伪造标准误 $\text{SE} = 0.135$（$W = 54.9$），真实标准误 $\text{SE} = 0.092$（$W = 118.1$） | 权重被削减 53.5% | 揭示 Hattie 数据处理错误导致直接教学大样本高精度研究在总库中的权重被严重压低 |
+> | [[Argument_DeJong_2023_ERR\|Dean & Kuhn (2007, cited in De Jong et al., 2023, p. 3)]] | 六年级学生 | [[Control of Variables Strategy\|变量控制策略]]教学：直接教学组 vs. 直接教学+探究组 vs. 纯探究组 | 13 周延迟保持测验成绩 | 直接教学组保持率 31%；直接+探究组保持率 83%；纯探究组保持率 78% | 组间差异显著（$p < .05$） | 纵向对比实验；证实直接教学若脱离自主探究练习，长效保持率发生显著退化 |
+> | [[Argument_DeJong_2023_ERR\|Strand-Cary & Klahr (2008, cited in De Jong et al., 2023, p. 3)]] | 小学三、四年级学生 | 变量控制策略教学：显性直接教学 vs. 探究式主动发现 | 即时掌握率与跨情境迁移测验 | 即时与延迟测验两组得分高度均等（Equivalence） | 差异无统计学显著性 | 受控实验；表明直接教学并未展现出压倒[[Inquiry-Based Learning\|探究式学习]]的绝对优势 |
 
 > [!metax] [直接教学 · Direct instruction](https://www.visiblelearningmetax.com/influences/view/direct_instruction)
 > 教学策略 › 教学方法

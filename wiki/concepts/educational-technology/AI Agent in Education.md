@@ -213,20 +213,20 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$ | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；对话式智能体实时发音重铸与情景交互 |
-> | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 交互式古诗词虚拟人物问答智能体 vs. 传统精读教学 | 语文古诗词意境理解与鉴赏表现 | $N = 80$ | — | Hedges' $g = 1.15$ | $p < .001$ | 准实验设计；多轮对话激发深度意境共鸣 |
-> | Feng and Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态实体机器人低龄促学效果突出 |
-> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative AI Agent in Education\|生成式 AI]]+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$ | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；生成式智能体必须依赖反思量规以赋能高阶思维 |
-> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 开放无支架[[Generative Artificial Intelligence\|生成式 AI]] 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | Hedges' $g = -0.73$ | $p < .05$ | 准实验设计；缺乏教学法约束导致认知卸载与探究阻碍 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 2.12"><span class="b28"></span></span>2.12 | $p < .001$ | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说练习 | 初中 EFL 英语口语阅读流利度（WCPM） | $N = 60$ | — | 准实验设计；对话式智能体实时发音重铸与情景交互 |
+> | Chen et al. (2024)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 1.15"><span class="b23"></span></span>1.15 | $p < .001$ | 交互式古诗词虚拟人物问答智能体 vs. 传统精读教学 | 语文古诗词意境理解与鉴赏表现 | $N = 80$ | — | 准实验设计；多轮对话激发深度意境共鸣 |
+> | Feng and Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | $p < .01$ | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解 | $N = 64$ | — | 准实验设计；具身多模态实体机器人低龄促学效果突出 |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.40"><span class="b8"></span></span>0.40 | $p < .05$ | [[Generative AI Agent in Education\|生成式 AI]]+显性反思量规 vs. 传统编程教学 | Python [[Computational Thinking\|计算思维]]与代码调试表现 | $N = 92$ | — | 准实验设计；生成式智能体必须依赖反思量规以赋能高阶思维 |
+> | Tong et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar neg" title="Hedges' g −0.73"><span class="b15"></span></span>−0.73 | $p < .05$ | 开放无支架[[Generative Artificial Intelligence\|生成式 AI]] 辅助 vs. 传统探究实验 | 中学物理探究推理与概念理解 | $N = 54$ | — | 准实验设计；缺乏教学法约束导致认知卸载与探究阻碍 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素：AI 智能体对 K-12 学生认知学习成果的总体促进效应 | $k = 73$ / $N = 3{,}042$（34 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.404$ $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$ | 仅纳入 2020–2025 年实验与准实验研究；67.65% 样本来自亚洲，未作个别研究偏倚风险工具质评 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.404"><span class="b8"></span></span>0.404 | [0.242, 0.567] | Hedges' $g$ / 随机效应模型 | $k = 73$ / $N = 3{,}042$（34 项独立研究） | 干预因素：AI 智能体对 K-12 学生认知学习成果的总体促进效应 | $Q(72) = 813.56, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$ | 仅纳入 2020–2025 年实验与准实验研究；67.65% 样本来自亚洲，未作个别研究偏倚风险工具质评 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

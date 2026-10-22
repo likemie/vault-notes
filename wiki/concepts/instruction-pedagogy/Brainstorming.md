@@ -250,9 +250,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Ma (2006) | **【干预变量】** 传授头脑风暴原则作为单项发散策略组件在全域[[Creativity\|创造力]]训练中的二阶[[Effect Size\|效应量]] | 涵盖数十项一阶元分析综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.68$** $[0.52, 0.84]$ | 跨学段普遍显著 | 证实系统掌握头脑风暴规程能显著增强个体在各领域的[[Divergent Thinking\|发散思维]]表现基准 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Ma (2006) | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.52, 0.84] | Cohen's $d$ / 随机效应综合 | 涵盖数十项一阶元分析综合 | **【干预变量】** 传授头脑风暴原则作为单项发散策略组件在全域[[Creativity\|创造力]]训练中的二阶[[Effect Size\|效应量]] | 跨学段普遍显著 | 证实系统掌握头脑风暴规程能显著增强个体在各领域的[[Divergent Thinking\|发散思维]]表现基准 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

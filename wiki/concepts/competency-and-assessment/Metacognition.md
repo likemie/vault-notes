@@ -312,12 +312,12 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Dignath & Büttner (2008) | **【干预[[Variable\|变量]]】** 元认知与自我调节策略教学对学生学习成效与认知技能的因果干预效应 | $k = 48$ 项干预研究 / $N = 7,450$ | Cohen's $d$ / 随机效应模型 | **$d = 0.69$** $[0.56, 0.82]$ | 异质性显著，元认知监控策略为关键有效成分 | 证实显性传授元认知规划与监控策略对[[Academic Achievement\|学业表现]]与思维技能具有中到大效应 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **【干预变量】** 探究教学中嵌入显性元认知支架对学生[[Epistemic Cognition\|认识论认知]]与高阶学业表现的促进 | $k = 19$ 项研究 (63 ES) / $N = 4,048$ | 皮尔逊相关 $r$ / 随机效应模型 | **$r = 0.198$** $[0.132, 0.264]$ | 跨学科研究异质性中等 | 证实提供显性元认知反思支架能直接改善学习者的[[Epistemology\|认识论]]监控水平与学业成就 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | **【关联/共享机制】** [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享的元认知评价与调节中介关联 | $k = 51$ 项研究 / $N = 12,548$ | 皮尔逊相关 $r$ / 三水平随机效应模型 | **$r = 0.386$** $[0.296, 0.470]$ | $Q(50) = 1113.80, p < .001, I^2 = 95.24\%$；95% PI $[-0.14, 0.70]$ | 证实两类高阶思维具有中等稳健正相关，方案筛选与反思调节等元认知机能构成核心纽带 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | **【[[Dependent Variable\|结果变量]]】** 生成式 AI 对大学生元认知（Metacognition）及[[Self-Regulated Learning\|自我调节学习]]的干预效应 | $k = 10$ 项实验研究 / $N = —$ | Hedges' $g^+$ / 随机效应模型 | **$g^+ = 0.078$** $[-0.495, 0.652]$ | $Q(9) = 151.76, p < .001, I^2 = 94.07\%$ | 元认知效应未达统计显著（$p = .789$），证实缺乏显性反思支架时生成式 AI 无法自发促进元认知，甚至可能诱发元认知惰性 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Dignath & Büttner (2008) | <span class="mx-bar ef-bar" title="Cohen's d 0.69"><span class="b14"></span></span>0.69 | [0.56, 0.82] | Cohen's $d$ / 随机效应模型 | $k = 48$ 项干预研究 / $N = 7,450$ | **【干预[[Variable\|变量]]】** 元认知与自我调节策略教学对学生学习成效与认知技能的因果干预效应 | 异质性显著，元认知监控策略为关键有效成分 | 证实显性传授元认知规划与监控策略对[[Academic Achievement\|学业表现]]与思维技能具有中到大效应 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar conv" title="r 0.198 → d ≈ 0.40（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.198 | [0.132, 0.264] | 皮尔逊相关 $r$ / 随机效应模型 | $k = 19$ 项研究 (63 ES) / $N = 4,048$ | **【干预变量】** 探究教学中嵌入显性元认知支架对学生[[Epistemic Cognition\|认识论认知]]与高阶学业表现的促进 | 跨学科研究异质性中等 | 证实提供显性元认知反思支架能直接改善学习者的[[Epistemology\|认识论]]监控水平与学业成就 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | [0.296, 0.470] | 皮尔逊相关 $r$ / 三水平随机效应模型 | $k = 51$ 项研究 / $N = 12,548$ | **【关联/共享机制】** [[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享的元认知评价与调节中介关联 | $Q(50) = 1113.80, p < .001, I^2 = 95.24\%$；95% PI $[-0.14, 0.70]$ | 证实两类高阶思维具有中等稳健正相关，方案筛选与反思调节等元认知机能构成核心纽带 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | [−0.495, 0.652] | Hedges' $g^+$ / 随机效应模型 | $k = 10$ 项实验研究 / $N = —$ | **【[[Dependent Variable\|结果变量]]】** 生成式 AI 对大学生元认知（Metacognition）及[[Self-Regulated Learning\|自我调节学习]]的干预效应 | $Q(9) = 151.76, p < .001, I^2 = 94.07\%$ | 元认知效应未达统计显著（$p = .789$），证实缺乏显性反思支架时生成式 AI 无法自发促进元认知，甚至可能诱发元认知惰性 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

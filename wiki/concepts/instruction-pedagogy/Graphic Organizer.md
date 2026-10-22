@@ -182,9 +182,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素** 检验图形组织器教学干预对学生[[Higher-Order Thinking Skills\|高阶思维]]（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$；随机效应模型（Random-effects） | $g = 0.778$, $95\%\text{ CI} = [0.649, 0.907]$ | $Q(71) = 485.49, p < .001$；$I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；主要为学生自主绘制干预；未发现发表偏倚（Egger $p = .070$；Fail-Safe $N = 7{,}183$） |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.778"><span class="b16"></span></span>0.778 | [0.649, 0.907] | Hedges' $g$；随机效应模型（Random-effects） | $k = 72$ / $N = 4{,}824$（66 项独立研究） | **干预因素** 检验图形组织器教学干预对学生[[Higher-Order Thinking Skills\|高阶思维]]（HOT）的总体促进效应 | $Q(71) = 485.49, p < .001$；$I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；主要为学生自主绘制干预；未发现发表偏倚（Egger $p = .070$；Fail-Safe $N = 7{,}183$） |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

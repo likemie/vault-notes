@@ -171,13 +171,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 544)]] | 全球 30 个涉教育政府间组织及私人基金会 | 历史制度主义与跨国[[Policy Network\|政策网络]]分析 | SEL 议题的多边机构采纳与资金竞争 | [[UNICEF]] 首创后 [[OECD]] 与 [[UNESCO]] 相继立项跟进；五大 IO 共同争夺盖茨、乐高、博蒂克斯等私人基金会赠款配额 | 全样本历史追踪 | 揭示 SEL 从边缘人道议题演变为全球多边机构制度竞争核心载体的生态演化 |
-
 > [!metax] [社会情感学习 · Socio-emotional learning](https://www.visiblelearningmetax.com/influences/view/socio-emotional_learning)
 > 课程 › 其他课程项目
 >

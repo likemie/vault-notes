@@ -221,14 +221,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 学习意图政策落地与教师实践实证案例
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 核心指标 | 原始发现与统计结果 | 解释边界 |
-> |---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] / Clarke et al. (2003) | 新西兰中小学历史与社会研究课堂学生群体 | 质性[[Classroom Observation\|课堂观察]]与干预前后认知图式对比 | 任务完成导向 vs 概念深度理解导向 | 在明确引入历史因果学习意图后，学生评判自身表现的依据从字数与卷面整洁度转向殖民冲击与人口变迁的因果推理，深层概念理解显著提升 | 证实了显性学习意图在破除形式化伪装、引导[[Higher-Order Thinking Skills\|高阶思维]]方面的积极认知效能 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] / Lilley (2022) | 澳大利亚维多利亚州全面推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 的公立学校教师群 | 政策[[Discourse Analysis\|话语分析]]与教师深度[[Qualitative Interview\|质性访谈]] | 白板板书合规要求、行政巡检（Learning Walks）、教师自主感与倦怠指数 | 教师被硬性要求在上课铃响前在白板上书写学习意图，巡视未达标直接扣分；受访教师普遍反映专业裁量权被剥夺，同行互信下降，滋生严重的表面[[Performativity\|表演性]]合规 | 揭示了当认知工具被官僚体系转化为强制打卡清单时对专业生态造成的破坏性后果 |
-
 ---
 
 > [!citation-card] [[John Hattie|哈蒂]]论学习意图与任务形式主义的脱节

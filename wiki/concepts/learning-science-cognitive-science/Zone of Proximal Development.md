@@ -291,9 +291,9 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > [!ma-table]- 一阶元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制[[Construct\|构念]]：自适应 AI [[AI Agent in Education\|智能体]]作为 ZPD 外部[[Scaffolding\|认知脚手架]]对 K-12 认知的总体促进效应 | $k = 73$ / $N = 3{,}042$ | Hedges' $g$ / 随机效应模型 | **$g = 0.404$** $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%$ | 证实自适应微提示在学习者 ZPD 内降低认知负荷并促进技能编译 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.404"><span class="b8"></span></span>0.404 | [0.242, 0.567] | Hedges' $g$ / 随机效应模型 | $k = 73$ / $N = 3{,}042$ | 机制[[Construct\|构念]]：自适应 AI [[AI Agent in Education\|智能体]]作为 ZPD 外部[[Scaffolding\|认知脚手架]]对 K-12 认知的总体促进效应 | $Q(72) = 813.56, p < .001, I^2 = 91.2\%$ | 证实自适应微提示在学习者 ZPD 内降低认知负荷并促进技能编译 |
 
 学段亚组分析显示出儿童思维发展过渡期对 ZPD 支架的高度敏感性。
 

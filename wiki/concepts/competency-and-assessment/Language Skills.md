@@ -150,9 +150,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生语言技能（Language Skills）的促学效应 | $k = 21$ / $N = —$ | Hedges' $g^+$ / 随机效应模型 | $g^+ = 2.331$ $[1.617, 3.044]$ | $Q(20) = 596.21, p < .001, I^2 = 96.65\%$；剪补法填补 4 项后调整为 $g^+_{\text{adj}} = 1.009$ $[0.177, 0.841]$ | 严格限定前测基线等效（$d < 0.25$）；聚焦二语/外语高等教育情境；存在极显著小研究效应与发表偏倚 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 2.331"><span class="b28"></span></span>2.331 | [1.617, 3.044] | Hedges' $g^+$ / 随机效应模型 | $k = 21$ / $N = —$ | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生语言技能（Language Skills）的促学效应 | $Q(20) = 596.21, p < .001, I^2 = 96.65\%$；剪补法填补 4 项后调整为 $g^+_{\text{adj}} = 1.009$ $[0.177, 0.841]$ | 严格限定前测基线等效（$d < 0.25$）；聚焦二语/外语高等教育情境；存在极显著小研究效应与发表偏倚 |
 
 ---
 

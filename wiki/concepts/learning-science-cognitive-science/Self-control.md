@@ -257,13 +257,6 @@ updated: 2026-10-22
 > | [[Argument_Creswell_2022_SAGE\|Kennett et al. (2008; Creswell & Creswell, 2022, pp. 69–70)]] | 习得性资源感对自我管理支持干预 | 自我控制能力（Rosenbaum SCS 量表）与日常应对策略 | 慢性疼痛患者与对照群体（解释性顺序[[Mixed Methods Research\|混合方法]]） | 干预后 SCS 评分显著提高，[[Qualitative Interview\|质性访谈]]证实个体发展出深层认知重构与行为自我管理技巧 | — | $p < .05$ | 解释性顺序混合方法研究，证实自我控制属于包含具体技能库的习得性资源感，可通过系统训练赋能 |
 > | [[Argument_Golovchin_2019_ESC\|Hattie (2009; Golovchin, 2019, p. 233)]] | 对课外干扰因素的自我控制干预 | 基础[[Academic Achievement\|学业成绩]]与课堂学习表现 | [[Meta-analysis\|元分析]]二阶综合（收录多项中小学实证干预） | 教学策略维度中最低效应值指标之一 |  = 0.04$ | — | [[Meta-meta-analysis\|二阶元分析]]均值，显示脱离教师[[Structured Teaching\|结构化教学]]支持与情境引导的孤立课外抗干扰自控对学业成绩的直接提升微乎其微 |
 
-> [!ref-table]- 其他实证结果（无效应量）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 54)]]; Wigelsworth (2017) | 英国中小学与早期教育非学业素养测评文献库 | [[Systematic Review\|系统综述]]与测量工具数据库摸排 | 自我控制（Self-control）与韧性（Resilience）测评工具的心理测量学指标 | 现有非学业测量工具普遍缺乏高标准效度验证；[[Predictive Validity\|预测效度]]多呈中等；亟须编制统一标准化测量工具库 | — | 宏观系统综述，确证非认知素养评估中的心理测量学效度赤字与开发标准数据库的制度必要性 |
-
 > [!metax] [自我控制 · Self control](https://www.visiblelearningmetax.com/influences/view/self_control)
 > 学生 › 自我
 >

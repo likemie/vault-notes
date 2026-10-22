@@ -146,13 +146,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] | 全美 [[Engineering Research Centers\|ERC]] 与 [[Science and Technology Centers\|STC]] 中心主任及跨学科专任教师访谈（N 涵盖数十所中心） | 深度[[Qualitative Interview\|质性访谈]]与治理机制分析 | 双重聘任负荷、院系晋升权力分配与协作动力 | 中心专任教师全部在院系拥有编制；中心主任一致报告缺乏晋升权力、仅能通过科研资金与设施提供柔性激励 | — | 深刻揭示了[[Research Universities\|研究型大学]]矩阵式人事安排中跨学科中心与传统学科院系之间的治理张力 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

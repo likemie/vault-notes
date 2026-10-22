@@ -281,7 +281,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计与实证发现 | 解释边界 |
 > |---|---|---|---|---|---|
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 澳大利亚维多利亚州公立中小学校教师群体（基于 Lilley, 2022 与 Wescott, 2022 实地调研） | 政策文本分析与批判性案例追踪 | 高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）政策落地、白板[[Learning Intentions\|学习意图]]强制书写、教师自主权与职业倦怠感 | 维州推行基于 VL 的 10 项 HITS 刚性指标后，管理层将白板打卡与教案格式列为强制考核项；实证访谈显示教师课堂灵活变通权大幅萎缩，同行信任度与执教热情显著下降，滋生严重的合规[[Performativity\|表演性]] | 揭示了在微观课堂推行技术规训清单所伴随的教师去专业化副作用，为规训挤占教学反思提供了政策田野证据 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD]] 成员国教育政策决策体系及媒体公开反应 | 跨国[[Comparative Policy Analysis\|比较政策分析]]与文件[[Discourse\|话语]]考古 | [[PISA]] 绩效排位联赛榜发布后的各国内部政策趋同现象与国家教育恐慌指数 | PISA 成绩公布后绝大多数成员国媒体与政府主要聚焦排名本身（[[Global Universities Rankings\|league tables]]），直接诱发诸如德国“PISA 震荡”等国家级政策重组；多国课程改革迅速转向对齐经合组织技能基准 | 证实了跨国等价空间与排位联赛榜作为远处规训装置的实际政策效力，展现了制度化规训对本土[[Democratic Education\|民主教育]]审议的挤压 |
 
 ---
 

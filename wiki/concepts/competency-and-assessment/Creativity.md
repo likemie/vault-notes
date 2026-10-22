@@ -381,13 +381,13 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：合作学习对数学创造性思维（[[Divergent Thinking\|发散思维]]与问题提出）的促进效应 | $k = 24$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.69$ $[0.42, 0.98]$ | — | 基础教育阶段准实验与全实验，采用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]等工具 |
-> | Solissa et al. (2023)，引自同上 | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]在促进创造性构想生成中的有效性 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中创造力与[[Critical Thinking\|批判性思维]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | [[Dependent Variable\|结果变量]]：[[Creativity Training\|创造力训练]]项目对大学生各维度创造力的综合提升 | $k = 29$ (109 ES) / $N = —$ | Hedges' $g$ / 多层随机效应模型 | $g = 0.628$ $[0.446, 0.809]$ | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 29 项实证研究，创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）提升最显著 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对学生创造性思维（Creativity）的干预效应 | $k = 23$ / 29 项研究中 23 个效应量 | Hedges' $g$ / 随机效应模型 | $g = 0.444$ $[0.259, 0.629]$ | $Z = 4.698, p < .001$ | 呈现中等偏小显著正效应；相较于问题解决与批判性思维，AI 对创造力直接提升相对有限，且短期易受套路化同质内容束缚 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Siagian et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.69"><span class="b14"></span></span>0.69 | [0.42, 0.98] | Cohen's $d$ / 随机效应模型 | $k = 24$ / $N = —$ | 结果变量：合作学习对数学创造性思维（[[Divergent Thinking\|发散思维]]与问题提出）的促进效应 | — | 基础教育阶段准实验与全实验，采用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]等工具 |
+> | Solissa et al. (2023)，引自同上 | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | [0.66, 1.03] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | 结果变量：拼图法对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]（含创造性思维）的促进效应 | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]在促进创造性构想生成中的有效性 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | [0.296, 0.470] | $r$ / 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $k = 51$ / $N = 12{,}548$ | 关联构念：学生样本中创造力与[[Critical Thinking\|批判性思维]]的总体相关 | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $k = 29$ (109 ES) / $N = —$ | [[Dependent Variable\|结果变量]]：[[Creativity Training\|创造力训练]]项目对大学生各维度创造力的综合提升 | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 29 项实证研究，创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）提升最显著 |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.444"><span class="b9"></span></span>0.444 | [0.259, 0.629] | Hedges' $g$ / 随机效应模型 | $k = 23$ / 29 项研究中 23 个效应量 | [[Dependent Variable\|结果变量]]：生成式 AI 对学生创造性思维（Creativity）的干预效应 | $Z = 4.698, p < .001$ | 呈现中等偏小显著正效应；相较于问题解决与批判性思维，AI 对创造力直接提升相对有限，且短期易受套路化同质内容束缚 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

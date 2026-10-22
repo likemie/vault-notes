@@ -162,10 +162,10 @@ updated: 2026-10-22
 > [!ma-table]- 问题发现与创造过程相关一阶与[[Meta-meta-analysis|二阶元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | [[Meta-analysis\|元分析]] | 测量指标与[[Construct\|构念]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | Abdulla et al. (2020) | 问题发现与[[Creativity\|创造性]]表现的关联 | 84 项[[Effect Size\|效应量]] | 皮尔逊 $r$ / 多水平随机效应 | **$r = 0.35$** $[0.29, 0.41]$ | 显著异质性 | 证实问题发现与创造力表现呈中等偏强正相关 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 涵盖问题发现的综合创造过程二阶效应 | 52 项元分析 (164 ES) / 1,248,416 人 | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.27$** $[0.10, 0.43]$ | 95% PI $[-0.17, 0.62]$ | 证实过程整合测量显著优于单一发散思维（$r = 0.14$） |
+> | [[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 解释边界 | 测量指标与[[Construct\|构念]] | k / N |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Abdulla et al. (2020) | <span class="mx-bar ef-bar conv" title="r 0.35 → d ≈ 0.75（d = 2r / √(1 − r²)）"><span class="b15"></span></span>0.35 | [0.29, 0.41] | 皮尔逊 $r$ / 多水平随机效应 | 显著异质性 | 证实问题发现与创造力表现呈中等偏强正相关 | 问题发现与[[Creativity\|创造性]]表现的关联 | 84 项[[Effect Size\|效应量]] |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.27 → d ≈ 0.56（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.27 | [0.10, 0.43] | 皮尔逊 $r$ / 多水平 CHE + RVE | 95% PI $[-0.17, 0.62]$ | 证实过程整合测量显著优于单一发散思维（$r = 0.14$） | 涵盖问题发现的综合创造过程二阶效应 | 52 项元分析 (164 ES) / 1,248,416 人 |
 
 ---
 

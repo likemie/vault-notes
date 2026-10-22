@@ -204,9 +204,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | [[Dependent Variable\|结果变量]]：指导[[Scaffolding\|脚手架]]对比无指导探究产生的学习增益 | $k = 72$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $d = 0.50$ [0.37, 0.63] | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架稳定带来半个标准差学习增益 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | <span class="mx-bar ef-bar" title="Cohen's d 0.50"><span class="b10"></span></span>0.50 | [0.37, 0.63] | Cohen's $d$ / 随机效应模型 | $k = 72$ / $N = —$ | [[Dependent Variable\|结果变量]]：指导[[Scaffolding\|脚手架]]对比无指导探究产生的学习增益 | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架稳定带来半个标准差学习增益 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

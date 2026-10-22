@@ -218,9 +218,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：[[Socrates\|苏格拉底]][[Dialogue in Education\|对话]]作为教学策略对[[Critical Thinking\|批判性思维]]技能的促进 | $k = 8$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.27$ $[-0.01, 0.55]$ | $Q(7) = 21.59, p = .003, I^2 = 67.58\%$ | 纳入实验与准[[Experimental Research\|实验研究]]；作为对话干预维度下的具体子策略进行独立检验 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.27"><span class="b5"></span></span>0.27 | [−0.01, 0.55] | Hedges' $g+$ / 随机效应模型 | $k = 8$ / $N = —$ | 干预因素：[[Socrates\|苏格拉底]][[Dialogue in Education\|对话]]作为教学策略对[[Critical Thinking\|批判性思维]]技能的促进 | $Q(7) = 21.59, p = .003, I^2 = 67.58\%$ | 纳入实验与准[[Experimental Research\|实验研究]]；作为对话干预维度下的具体子策略进行独立检验 |
 
 ---
 

@@ -257,7 +257,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 全球 1980–2016 年 1,017 项教育试验（Connolly et al., 2018） | 历史文献元调查 | 试验中包含实施与过程评估（IPE）的比例 | 38% | — | 说明早期教育试验极度缺乏保真度与过程数据，超过六成处于机制黑箱状态 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 针对小学高年级儿童哲学（P4C）的大规模效果试验（Kitmitto et al., 2018） | 大规模整群 [[Randomised Controlled Trials\|RCT]] | 大样本效果检验学业效应（对比小样本[[Efficacy Trial\|效力试验]]的 +2 个月进展） | 主效应未达统计学显著（零结果） | $p > 0.05$ | 实证证实由于培训师队伍过快扩张导致多层级培训稀释，课堂实施保真度崩溃直接抹平了干预效果 |
-> | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] | 巴尔的摩县公立学校未来数字学习（[[Students and Teachers Accessing Tomorrow\|STAT]]）改革（涵盖数十所公立学校） | [[Formative Program Evaluation\|形成性项目评价]] | 教师准备度、设备进课堂、数字资源使用与学生中心教学实施评分 | 实施保真度呈现系统性与显著性提升 | 各学区学校稳步推进 | 证实高保真度实施进展在学业测验不显著时仍可作为评价项目生命力的独立积极证据 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助试验中的实施与过程评估规范化推进（EEF, 2019b） | 机构治理追踪 | 资助试验中强制实施 IPE 与发表独立报告的比例 | 100% 试验整合 IPE；100% 报告全量公开发布 | — | 确立了将 [[TIDieR]] 活性成分界定、对照组常态活动调查与依从性测量深度融合的行业典范 |
 
 ---

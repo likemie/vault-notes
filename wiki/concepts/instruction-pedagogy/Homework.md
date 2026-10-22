@@ -300,7 +300,6 @@ updated: 2026-10-22
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（小学作业专题） | 英格兰及全球小学学段 | 循证综合元分析与试验追踪 | 小学课外作业与学业进展 | 平均增益仅相当于 $+1\sim 2$ 个月额外学业进展；成本极低但伴生挫败感风险 | [[EEF Padlock Security Rating\|证据安全性评级]]偏低（挂锁等级低） | 证实小学阶段家庭作业学业附加值微弱，不宜作为提分核心抓手 |
 > | [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]（中学作业专题） | 英格兰及全球中学学段 | 循证综合元分析与试验追踪 | 中学课外作业与学业进展 | 平均增益相当于 $+5$ 个月额外学业进展；短小、频繁、目标清晰并配有及时反馈的作业效果最佳 | 证据安全性为中等（3 挂锁） | 确立中学阶段高质量作业对学业深化的显著正向贡献 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | Hattie (2009) 纳入的 161 项作业实证研究 | [[Meta-meta-analysis\|元综合]]统计效应深度解构与概率换算 | 班级提分成功率、身高类比差异 | 仅 21% 的班级在引入作业后出现学业提升；效应量 $d = 0.29$ 仅相当于 180cm 与 182cm 身高差异；65% 正向，35% 中性/负向 | — | 深度揭露平均效应量在具体班级教学情境中的微弱真实效力与不确定性 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]] | 英格兰中小学教师日常教学实践 | 被试内微型试验试点（[[Teacher Choices]] strand） | 逐本逐页批改作业（Marking Books）vs 全班集中形成性反馈（Whole-Class [[Feedback]]） | 针对一线教师最关切的微观决策，旨在评估全班集中反馈在显著减轻教师工作负荷的同时能否维持或提升学生理解深度 | 探索性因果试验试点 | 推动因果评估向教师日常微观决策渗透，打破传统作业精细批改的工时内卷神话 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]（引述 Carboni, 2013） | 丹麦基础教育中小学与教育行政机构 | 政策个案审查与文献方法学质检 | 家庭作业总体均值（$d = 0.29$）引发的公共政策废除决策 | 丹麦多家教育机构依据哈蒂均值在全境中小学全面废除家庭作业；忽视高中（$d=0.64$）与小学（$d=0.15$）鸿沟以及学科与能力调节 | — | 证实将脱离情境的无调节二阶均值直接套用至公共教育治理，会导致对高年级[[Effective Teaching\|有效教学]]实践的一刀切误杀 |
 
 > [!metax] [家庭作业 · Homework](https://www.visiblelearningmetax.com/influences/view/homework)

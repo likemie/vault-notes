@@ -199,10 +199,10 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预[[Variable\|变量]]】** 聚焦于培养[[Cognitive Shifting\|认知灵活性]]与[[Divergent Thinking\|发散思维]]的思维训练干预对[[Creativity\|创造力]]表现的总体促学效应 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.762$** $[0.386, 1.138]$ | $SE = 0.191, Z = 3.987 (p < .001)$；异质性显著 | 证实针对认知灵活性的结构化练习能显著提升大学生的综合创造与问题解决表现 |
-> | Karr et al. (2018) | **【关联/预测[[Construct\|构念]]】** 认知灵活性（作为核心[[Executive Function\|执行功能]]）与高阶认知及[[Academic Achievement\|学业成就]]表现的元分析关联 | $k = 42$ 项实证研究 / $N = 8,920$ | 皮尔逊相关 $r$ / 随机效应模型 | **$r = 0.36$** $[0.29, 0.43]$ | 异质性中等 | 证实认知灵活性是预测个体在劣构环境中取得优异学业与[[Problem Solving\|问题解决]]表现的稳健心理构念 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | [0.386, 1.138] | Hedges' $g$ / 多层随机效应模型 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | **【干预[[Variable\|变量]]】** 聚焦于培养[[Cognitive Shifting\|认知灵活性]]与[[Divergent Thinking\|发散思维]]的思维训练干预对[[Creativity\|创造力]]表现的总体促学效应 | $SE = 0.191, Z = 3.987 (p < .001)$；异质性显著 | 证实针对认知灵活性的结构化练习能显著提升大学生的综合创造与问题解决表现 |
+> | Karr et al. (2018) | <span class="mx-bar ef-bar conv" title="r 0.36 → d ≈ 0.77（d = 2r / √(1 − r²)）"><span class="b15"></span></span>0.36 | [0.29, 0.43] | 皮尔逊相关 $r$ / 随机效应模型 | $k = 42$ 项实证研究 / $N = 8,920$ | **【关联/预测[[Construct\|构念]]】** 认知灵活性（作为核心[[Executive Function\|执行功能]]）与高阶认知及[[Academic Achievement\|学业成就]]表现的元分析关联 | 异质性中等 | 证实认知灵活性是预测个体在劣构环境中取得优异学业与[[Problem Solving\|问题解决]]表现的稳健心理构念 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -215,9 +215,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | **【关联构念·认知加工维度】** 包含认知灵活性、[[Working Memory\|工作记忆]]与信息加工在内的认知能力对全域创造力的二阶综合关联 | $M = 52$ 项一阶元分析；认知加工 $E = 26$ | 皮尔逊相关 $r$ / 多水平 CHE + RVE | **$r = 0.23$** $[0.12, 0.34]$ | 95% PI $[-0.27, 0.62]$ | 确立以认知灵活性为核心的认知加工网络构成了创造力最重要的底层基础之一 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.23 → d ≈ 0.47（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.23 | [0.12, 0.34] | 皮尔逊相关 $r$ / 多水平 CHE + RVE | $M = 52$ 项一阶元分析；认知加工 $E = 26$ | **【关联构念·认知加工维度】** 包含认知灵活性、[[Working Memory\|工作记忆]]与信息加工在内的认知能力对全域创造力的二阶综合关联 | 95% PI $[-0.27, 0.62]$ | 确立以认知灵活性为核心的认知加工网络构成了创造力最重要的底层基础之一 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

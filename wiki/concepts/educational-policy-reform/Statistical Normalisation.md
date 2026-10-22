@@ -187,13 +187,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | 跨国比较情境（美、日、欧及 [[Centre for Educational Research and Innovation\|OECD CERI]] 项目） | [[Epistemology\|认识论]]批判与政策文本分析 | 统计正态化对两极离群值的排斥、性价比修辞与教师专业[[Cognitive Deskilling\|去技能化]]风险 | 揭示以均值因果为导向的研究将正态分布两端弱势学生判定为可忽略离群值；指出[[New Public Management\|新公共管理]]物有所值话语压制少数群体诉求；阐明机械执行导致教师临床[[Phronesis\|实践智慧]]被侵蚀 | — | 该论断基于对量化实证教育政策哲学基础与治理逻辑的深度解构，为理解循证改革中的公平赤字提供了强有力的理论透镜。 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

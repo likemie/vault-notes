@@ -205,9 +205,9 @@ updated: 2026-10-22
 >
 > 在巴基斯坦旁遮普省公立小学大样本分析中，研究检验了包含任务在轨时间与高推论互动的综合得分对学业成果的[[Predictive Validity|预测效度]]。
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 整合任务在轨时间与高推论实践的 Teach [[Classroom Observation\|课堂观察]]得分（每增加 1 个标准差） | 学生跨期标准化测试成绩增值（增值模型） | 巴基斯坦旁遮普省公立小学大样本学生（控制校级聚类[[Standard Error\|标准误]]） | 控制[[Class Size\|班级规模]]、教师学科知识、教龄及学生家庭 SES | $\beta = 0.08\text{–}0.12$ SD | $p < .01$ | 证实包含在轨时间与深层互动的微观实践对学业增益具有统计显著的实质预测力；单独时间快照未单独报告脱离高推论的隔离效应量。 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | $\beta$ | <span class="mx-bar ef-bar conv range" title="β 0.08–0.12 → d ≈ 0.10（d ≈ β（结果变量已标准化）；仅当结果变量已标准化时近似）；取区间中点"><span class="b2"></span></span>0.08–0.12 | $p < .01$ | 整合任务在轨时间与高推论实践的 Teach [[Classroom Observation\|课堂观察]]得分（每增加 1 个标准差） | 学生跨期标准化测试成绩增值（增值模型） | 巴基斯坦旁遮普省公立小学大样本学生（控制校级聚类[[Standard Error\|标准误]]） | 控制[[Class Size\|班级规模]]、教师学科知识、教龄及学生家庭 SES | 证实包含在轨时间与深层互动的微观实践对学业增益具有统计显著的实质预测力；单独时间快照未单独报告脱离高推论的隔离效应量。 |
 
 > [!metax] [任务时间 · Time-on-task](https://www.visiblelearningmetax.com/influences/view/time-on-task)
 > 学生学习策略 › 学习策略

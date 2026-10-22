@@ -176,9 +176,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 情境调节假说检验（检验 ICT 与 [[Socioeconomic Status\|SES]] 调节下的边际增益规律） | $k = 57$ / $N = 5,389$ | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ [0.636, 0.972] | $Q = 1390.157, p < 0.001$ | 控制前测基线等效（$d < 0.25$）；宏观环境变量呈现出极显著调节，验证了假说的存在 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.804"><span class="b16"></span></span>0.804 | [0.636, 0.972] | Hedges' $g^+$；随机效应模型 | $k = 57$ / $N = 5,389$ | 情境调节假说检验（检验 ICT 与 [[Socioeconomic Status\|SES]] 调节下的边际增益规律） | $Q = 1390.157, p < 0.001$ | 控制前测基线等效（$d < 0.25$）；宏观环境变量呈现出极显著调节，验证了假说的存在 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

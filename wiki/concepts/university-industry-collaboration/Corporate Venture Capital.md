@@ -182,7 +182,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] | 美国[[Research Universities\|研究型大学]]初创衍生企业与产业资本对接案例 | 历时实务深度调查与多案例对比分析 | CVC 投资阶段分布、创始团队背景要求、[[Technology Readiness Level\|技术就绪度]]（TRL）试点门槛 | 种子前阶段（Pre-seed）获 CVC 投资案例极少；试点普遍要求 TRL 6–7，[[University Spin-Out\|大学衍生企业]]多停留在 TRL 3–5，导致早期融资成功率极低 | 产业实务经验归纳与案例剖析 | 适用于高校[[Technology Transfer\|技术转移]]与早期大学衍生企业融资情境；生物医药垂直孵化存在例外 |
-> | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | 高科技企业（Intel、Microsoft 等）产学协同与转化漏斗治理（涵盖斯坦福 Google PageRank 案例） | 历时产业实务反思与战略治理模式构建 | 转化三大路径（内部研发、外部初创与并购、开源生态）、颠覆性技术识别率 | 现有门户巨头因缺乏外部早期投资与许可机制而错失 PageRank，谷歌独立融资并彻底颠覆搜索格局 | 产业治理反思与历史案例实证 | 适用于技术快速迭代与面临非连续性颠覆的高科技研发密集型企业 |
 
 ---
 

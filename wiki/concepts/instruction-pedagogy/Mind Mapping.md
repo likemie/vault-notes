@@ -215,10 +215,10 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **【干预变量】** 思维导图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的总体促学效应 | $k = 16$ 项实证研究 / $N = 1,180$ | Hedges' $g$ / 随机效应模型 | **$g = 1.041$** $[0.704, 1.379]$ | 异质性显著；在所有组织器形态中[[Effect Size\|效应量]]高居第一 | 证实低结构开销与极简发散语法对高阶思维具有强效促进作用 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预[[Variable\|变量]]】** 以思维导图、头脑风暴与侧向思维为核心载体的思维训练干预对[[Creativity\|创造力]]的促进 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.762$** $[0.386, 1.138]$ | 异质性显著；仅次于语言训练，显著优于情绪训练 | 证实思维导图等结构化思维工具能有效改善[[Cognitive Shifting\|认知灵活性]]与发散问题解决表现 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | [0.704, 1.379] | Hedges' $g$ / 随机效应模型 | $k = 16$ 项实证研究 / $N = 1,180$ | **【干预变量】** 思维导图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的总体促学效应 | 异质性显著；在所有组织器形态中[[Effect Size\|效应量]]高居第一 | 证实低结构开销与极简发散语法对高阶思维具有强效促进作用 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | [0.386, 1.138] | Hedges' $g$ / 多层随机效应模型 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | **【干预[[Variable\|变量]]】** 以思维导图、头脑风暴与侧向思维为核心载体的思维训练干预对[[Creativity\|创造力]]的促进 | 异质性显著；仅次于语言训练，显著优于情绪训练 | 证实思维导图等结构化思维工具能有效改善[[Cognitive Shifting\|认知灵活性]]与发散问题解决表现 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -231,9 +231,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Hattie (2009) / Nesbit and Adesope (2006) | **【干预变量】** 空间[[Graphic Organizer\|图形组织器]]（包含思维导图与概念图）在全域教学法中的二阶效应基准 | 基于数千项实证二阶综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.57 \sim 0.64$** | 跨学科学段高度稳健 | 确立视觉空间表征工具作为最具普适性的高效促学[[Scaffolding\|教学支架]] |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Hattie (2009) / Nesbit and Adesope (2006) | <span class="mx-bar ef-bar range" title="Cohen's d 0.57–0.64；取区间中点"><span class="b12"></span></span>0.57–0.64 | — | Cohen's $d$ / 随机效应综合 | 基于数千项实证二阶综合 | **【干预变量】** 空间[[Graphic Organizer\|图形组织器]]（包含思维导图与概念图）在全域教学法中的二阶效应基准 | 跨学科学段高度稳健 | 确立视觉空间表征工具作为最具普适性的高效促学[[Scaffolding\|教学支架]] |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

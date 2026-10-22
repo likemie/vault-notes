@@ -124,13 +124,13 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-analysis\|元分析]][[Construct\|构念]][[Effect Size\|效应量]]比较
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Epistemology\|认识论]]构念 | k | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 相对地位 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 知识的发展 (Development of knowledge) | 18 | r；[[Random-Effects Model\|随机效应]] | 0.274 [0.180, 0.363] | 效应量最高（第 1 位） | 测量对科学与知识动态演化的理解 |
-> | 同上 | 知识的证成 (Justification of knowledge) | 26 | r；随机效应 | 0.228 [0.160, 0.294] | 高预测力（第 4 位） | 强调证据与规则评估 |
-> | 同上 | [[Simplicity of Knowledge\|简单知识]] (Simple knowledge) | 52 | r；随机效应 | 0.162 [0.113, 0.209] | 中等效应 | 关注知识的孤立 vs 关联结构 |
-> | 同上 | 确定知识 (Certain knowledge) | 78 | r；随机效应 | 0.136 [0.087, 0.184] | 相对偏低 | 仅测量对绝对不变性的排斥 |
-> | 同上 | 全知权威 (Omniscient authority) | 26 | r；随机效应 | 0.083 [0.024, 0.141] | 极低效应 | 粗糙自陈量表难以捕捉合理信任 |
+> | 元分析 | 效应值 | 95% CI | 效应指标与模型 | 解释边界 | [[Epistemology\|认识论]]构念 | k | 相对地位 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | <span class="mx-bar ef-bar conv" title="r 0.274 → d ≈ 0.57（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.274 | [0.180, 0.363] | r；[[Random-Effects Model\|随机效应]] | 测量对科学与知识动态演化的理解 | 知识的发展 (Development of knowledge) | 18 | 效应量最高（第 1 位） |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.228 → d ≈ 0.47（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.228 | [0.160, 0.294] | r；随机效应 | 强调证据与规则评估 | 知识的证成 (Justification of knowledge) | 26 | 高预测力（第 4 位） |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.162 → d ≈ 0.33（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.162 | [0.113, 0.209] | r；随机效应 | 关注知识的孤立 vs 关联结构 | [[Simplicity of Knowledge\|简单知识]] (Simple knowledge) | 52 | 中等效应 |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.136 → d ≈ 0.27（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.136 | [0.087, 0.184] | r；随机效应 | 仅测量对绝对不变性的排斥 | 确定知识 (Certain knowledge) | 78 | 相对偏低 |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.083 → d ≈ 0.17（d = 2r / √(1 − r²)）"><span class="b3"></span></span>0.083 | [0.024, 0.141] | r；随机效应 | 粗糙自陈量表难以捕捉合理信任 | 全知权威 (Omniscient authority) | 26 | 极低效应 |
 
 ---
 

@@ -261,16 +261,16 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity\|创造性]]与问题解决）的促进效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.84$ $[0.66, 1.03]$ | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]对 21 世纪多元核心素养的稳健赋能 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | [0.66, 1.03] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity\|创造性]]与问题解决）的促进效应 | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]对 21 世纪多元核心素养的稳健赋能 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对涵盖 21 世纪技能的高阶思维产出的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, 	au^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖 21 世纪技能、批判性思维与创造性思维，证实合作建构对高阶素养的高效力 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对涵盖 21 世纪技能的高阶思维产出的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, 	au^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖 21 世纪技能、批判性思维与创造性思维，证实合作建构对高阶素养的高效力 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
@@ -286,7 +286,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] / TESTA 项目 | 英国等 70 余所高校 100 多个本科专业 | 纵向全课程评价调查与追踪 | 模块化考核负荷与[[Learning Gain\|学习增益]] | 本科三年经历 60–80 项独立终结性考试；大一至大三[[Critical Thinking\|批判性思维]]增益微弱 | 描述性与跨校对比统计 | 揭示模块化碎片化考核（Hyper-Assessment）迫使学生采取应试[[Surface and Deep Learning\|表层学习]]，阻碍 21 世纪高阶素养养成 |
 > | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质自报感知 | 研究批判技能均值 4.4/5；团队合作 2.9/5，跨界沟通 3.7/5；环境素养 2.8/5（垫底） | 组间均值差异显著 | 揭示博士教育中高阶探究技能与社会协作及环境伦理的系统性断裂 |
-> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]]与[[Coding in Qualitative Research\|质性编码]] | 对能力课程标准的转译理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | — | 全球[[Floating Signifier\|漂浮能指]]在具体国家与教师实践转译中产生严重概念混乱 |
 > | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital\|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 [[Socioeconomic Status\|SES]] 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能[[Discourse\|话语]]宣称与应试刷题及课时削减之间的尖锐断裂 |
 
 ---

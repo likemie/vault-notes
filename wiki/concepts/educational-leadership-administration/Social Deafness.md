@@ -158,15 +158,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 经典案例与质性实证记录
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 案例与文献来源 | 历史情境与人物 | 考察维度 | 核心观察与实证表现 | 启示与边界 |
-> |---|---|---|---|---|
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, p. 137)]] | 克劳德·莫奈（1922，巴黎） | 生理视觉局限与艺术突围 | 晚年严重白内障使视力降至十分之一并产生色偏，促成《垂柳》中模糊物象边界的粗犷笔触，直接启发了后世抽象表现主义 | 证实感官局限能迫使艺术家摆脱写实摹写并开创新[[Paradigm\|范式]] |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, pp. 137–138)]] | 路德维希·凡·贝多芬（1801，维也纳） | 听觉失聪与声响宇宙重构 | 二十余岁失聪后转入秘密隐忍状态，完全依靠视觉乐谱书写构建出超越时代的革命性乐章 | 证实感知通道阻断迫使心智在更高阶的抽象符号中重塑宇宙 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp and Zamiska (2025, pp. 136–138)]] | [[Palantir Technologies\|帕兰提尔科技]]发展史（2003–2025） | 组织抗压与战略退出 | 在硅谷科技界普遍抵制国防军工合作的二十年间，团队主动[[Screening Off\|屏蔽]]外界非难，专注于前线作战软件迭代 | 证实社交失聪是构筑硬核技术护城河的决定性组织特质 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

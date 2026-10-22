@@ -404,12 +404,7 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 英格兰 79 所小学，696 名在职教职员工 | 基于四要素量表的横断面基线调查 | 校内知识动员正式与非正式渠道指标 | 82% 教师经常与同伴非正式讨论教学实践 vs 61% 缺乏正式跨团队分享论坛、52% 缺乏文献研读时间 | — | 实证揭示校内知识动员对非正式同伴网络的重度依赖与正式分享结构的制度性匮乏（pp. 129–131） |
 > | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻行为 | 调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道与偏好 | 教师主要从其他一线教师获取信息，实践[[Research Utilization\|证据使用]]远超原始学术研究 | — | 证实一线同行网络在证据流动中的决定性地位 |
-> | 同上 转述 Campbell et al. | 加拿大安大略省 [[Knowledge Network for Applied Education Research\|KNAER]] 知识动员网络 | 全系统[[Case Study\|案例研究]] | 动员初始阶段的主要能力障碍 | 证据生产者与使用者均普遍存在动员能力短板 | — | 提出优质产品、伙伴关系与全系统能力建设三位一体法则 |
-> | 同上 转述 CUREE (2011) | 英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] 教师专业发展[[Systematic Review\|系统综述]] | [[Systematic Review\|系统综述]] | 实践者深度参与研究的常态化程度 | 实践者参与研究日益普及并具潜在益处，但实现常态化依然进展缓慢 | — | 单[[Curiosity-Driven Research\|纯研究]]供给无法自发形成全行业循证文化 |
 > | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] | 涵盖 29 个 [[OECD]] 国家的 37 个国家或次国家级教育部 | 跨国政策[[Questionnaire\|问卷调查]]与深度访谈（6 国官员） | 知识动员机制、跨界协作促成条件与首要制度阻碍 | 绝大多数系统缺乏国家级统筹战略；同行学术评价体制被广泛报告为阻碍学者参与[[Knowledge Co-production\|知识共创]]的首要制度壁垒 | — | 反映教育部行政高层自陈认知，存在行政修辞与受访口径[[Heterogeneity\|异质性]] |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校研究使用实证研究 | 系统综述＋[[Framework Synthesis\|框架综合]] | 各类研究使用渠道的利用频率 | 正式学术期刊是实践者最少使用的渠道，人际网络与校本研修是主导渠道 | — | 提示知识动员的关键瓶颈在文献发表之后的中介转译 |
-> | [[Argument_Nordahl_2015_Paideia\|Nordahl (2015, pp. 66–67)]] | 挪威与丹麦 [[Visible Learning]] 学校改进项目 | 区域干预实证追踪 | 教师对外部研究的接受与转化方式 | 教师对证据的接纳必须嵌入结构化备课会与教研共同体的持续反思中 | — | 证实组织支持结构是知识动员转化的[[Necessary and Sufficient Conditions\|必要条件]] |
-> | [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025, p. 253)]] | 滑铁卢大学与 Schlegel Villages 退休社区网络 | 产学研案例研究 | 临床评估新技术的转化周期与实施率 | 脑血管健康检测新技术直接嵌入社区常规体适能评估，实现快速临床动员 | — | 共同选址与终端嵌入极大缩短知识动员转化链条 |
 
 ---
 

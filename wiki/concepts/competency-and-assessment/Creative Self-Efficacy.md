@@ -240,12 +240,12 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Haase et al. (2018) | **[[Independent Variable\|预测变量]]** [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]与创造性成果/成就关联 | $k = 34$ 项研究 / $N = 12,058$ | 皮尔逊 $r$ / 随机效应模型 | **$r = 0.39$** $[0.33, 0.45]$ | 存在显著异质性 | 证实 CSE 对创造性实体产品与现实表现具备中等偏强预测力 |
-> | Yodchai et al. (2022) | **预测[[Variable\|变量]]** 创造性自我效能感与组织/学业创新绩效关联 | $k = 28$ 项研究 / $N = 8,920$ | 皮尔逊 $r$ / 随机效应模型 | **$r = 0.44$** $[0.38, 0.50]$ | 教育与企业情境高度一致 | 跨情境验证了创新信心对创新产出的核心驱动价值 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **干预目标与环境** 高校创造力系统干预对学生综合创造表现的总体[[Learning Gain\|学习增益]] | $k = 29$ 项实证研究 (109 ES) / $N = —$ | Hedges' $g$ / 多层随机效应模型 | **$g = 0.628$** $[0.446, 0.809]$ | $Q(28) = 178.51, p < .001, I^2 = 84.31\%$ | 系统训练能显著提升大学生的创造表现与问题解决应对信心 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | **关联[[Construct\|构念]]** 自陈[[Creativity Assessment\|创造力测量]]（含 CSE）与[[Higher-Order Thinking Skills\|高阶思维]]测量的综合相关 | $k = 51$ 项研究 / $N = 12,548$ | 皮尔逊 $r$ / 三水平随机效应模型 | **$r = 0.386$** $[0.334, 0.435]$ | $Q(50) = 485.45, p < .001, I^2 = 89.70\%$ | 测量类型构成决定相关强度的核心调节变量 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Haase et al. (2018) | <span class="mx-bar ef-bar conv" title="r 0.39 → d ≈ 0.85（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.39 | [0.33, 0.45] | 皮尔逊 $r$ / 随机效应模型 | $k = 34$ 项研究 / $N = 12,058$ | **[[Independent Variable\|预测变量]]** [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]与创造性成果/成就关联 | 存在显著异质性 | 证实 CSE 对创造性实体产品与现实表现具备中等偏强预测力 |
+> | Yodchai et al. (2022) | <span class="mx-bar ef-bar conv" title="r 0.44 → d ≈ 0.98（d = 2r / √(1 − r²)）"><span class="b20"></span></span>0.44 | [0.38, 0.50] | 皮尔逊 $r$ / 随机效应模型 | $k = 28$ 项研究 / $N = 8,920$ | **预测[[Variable\|变量]]** 创造性自我效能感与组织/学业创新绩效关联 | 教育与企业情境高度一致 | 跨情境验证了创新信心对创新产出的核心驱动价值 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $k = 29$ 项实证研究 (109 ES) / $N = —$ | **干预目标与环境** 高校创造力系统干预对学生综合创造表现的总体[[Learning Gain\|学习增益]] | $Q(28) = 178.51, p < .001, I^2 = 84.31\%$ | 系统训练能显著提升大学生的创造表现与问题解决应对信心 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | [0.334, 0.435] | 皮尔逊 $r$ / 三水平随机效应模型 | $k = 51$ 项研究 / $N = 12,548$ | **关联[[Construct\|构念]]** 自陈[[Creativity Assessment\|创造力测量]]（含 CSE）与[[Higher-Order Thinking Skills\|高阶思维]]测量的综合相关 | $Q(50) = 485.45, p < .001, I^2 = 89.70\%$ | 测量类型构成决定相关强度的核心调节变量 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -260,9 +260,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | **外认知构念大类** 包含创造性自我效能感、动机与人格特质的外认知因素总体效应 | $M = 14$；$E = 38$；$k = 892$；$N = 412,890$ | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.14$** $[0.06, 0.22]$ | 95% PI $[-0.24, 0.49]$ | 确立外认知动力信念在全域创造力二阶效应模型中的基础支柱地位 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.06, 0.22] | 皮尔逊 $r$ / 多水平 CHE + RVE | $M = 14$；$E = 38$；$k = 892$；$N = 412,890$ | **外认知构念大类** 包含创造性自我效能感、动机与人格特质的外认知因素总体效应 | 95% PI $[-0.24, 0.49]$ | 确立外认知动力信念在全域创造力二阶效应模型中的基础支柱地位 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

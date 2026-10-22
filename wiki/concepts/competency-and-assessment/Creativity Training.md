@@ -392,9 +392,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | **干预因素** 教育教学干预与创造力的二阶基准关联（亚组模型） | $M = 52$；$E = 21$；$k = 2609$；$N = 1,248,416$ | 皮尔逊 $r$ / 多水平 CHE + RVE | **$r = 0.20$** $[0.10, 0.29]$ | 总体 95% PI $[-0.24, 0.53]$ | 在认知、外认知与人口学等所有外部因素中点估计最高，确立创造潜能的教育可塑性 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.20 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.20 | [0.10, 0.29] | 皮尔逊 $r$ / 多水平 CHE + RVE | $M = 52$；$E = 21$；$k = 2609$；$N = 1,248,416$ | **干预因素** 教育教学干预与创造力的二阶基准关联（亚组模型） | 总体 95% PI $[-0.24, 0.53]$ | 在认知、外认知与人口学等所有外部因素中点估计最高，确立创造潜能的教育可塑性 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

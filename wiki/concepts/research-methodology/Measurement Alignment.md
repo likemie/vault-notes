@@ -148,12 +148,12 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果：对齐效应比较
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节[[Variable\|变量]] | k | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 领域完全对齐 | 119 | r；[[Random-Effects Model\|随机效应]] | 0.179 [0.145, 0.211] | — | 测量情境与成绩学科严格一致 |
-> | 同上 | 领域错配 | 44 | r；随机效应 | 0.111 [0.075, 0.147] | — | 跨学科混合测量导致效应大幅衰减 |
-> | 同上 | 颗粒度完全对齐 | 100 | r；随机效应 | 0.176 [0.140, 0.211] | — | 工具特异性层级与成绩指标对齐 |
-> | 同上 | 颗粒度错配 | 63 | r；随机效应 | 0.130 [0.088, 0.171] | — | 宏观[[Questionnaire\|问卷]]预测微观成绩导致关联弱化 |
+> | 元分析 | 效应值 | 95% CI | 效应指标与模型 | [[Heterogeneity\|异质性]]与检验 | 解释边界 | 调节[[Variable\|变量]] | k |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | <span class="mx-bar ef-bar conv" title="r 0.179 → d ≈ 0.36（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.179 | [0.145, 0.211] | r；[[Random-Effects Model\|随机效应]] | — | 测量情境与成绩学科严格一致 | 领域完全对齐 | 119 |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.111 → d ≈ 0.22（d = 2r / √(1 − r²)）"><span class="b4"></span></span>0.111 | [0.075, 0.147] | r；随机效应 | — | 跨学科混合测量导致效应大幅衰减 | 领域错配 | 44 |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.176 → d ≈ 0.36（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.176 | [0.140, 0.211] | r；随机效应 | — | 工具特异性层级与成绩指标对齐 | 颗粒度完全对齐 | 100 |
+> | 同上 | <span class="mx-bar ef-bar conv" title="r 0.130 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.130 | [0.088, 0.171] | r；随机效应 | — | 宏观[[Questionnaire\|问卷]]预测微观成绩导致关联弱化 | 颗粒度错配 | 63 |
 
 > [!ma-table]- 调节变量与亚组分析：学科领域表现
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

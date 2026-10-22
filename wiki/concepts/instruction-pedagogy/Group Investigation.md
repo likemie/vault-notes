@@ -134,17 +134,17 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：小组[[Survey Research\|调查法]]对物理[[Academic Achievement\|学业成就]]的干预效应 | $k = 15$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.96$ $[0.74, 1.17]$ | — | 印尼 10-11 年级物理课准实验，探究合作对物理概念理解极佳 |
-> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：小组调查法对物理情感能力的干预效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.26$ $[0.69, 1.88]$ | — | 印尼 10-11 年级物理课，探究合作对物理效能感赋能突出 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.96"><span class="b19"></span></span>0.96 | [0.74, 1.17] | Cohen's $d$ / 随机效应模型 | $k = 15$ / $N = —$ | 干预因素：小组[[Survey Research\|调查法]]对物理[[Academic Achievement\|学业成就]]的干预效应 | — | 印尼 10-11 年级物理课准实验，探究合作对物理概念理解极佳 |
+> | Tanjung et al. (2022)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.26"><span class="b25"></span></span>1.26 | [0.69, 1.88] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 干预因素：小组调查法对物理情感能力的干预效应 | — | 印尼 10-11 年级物理课，探究合作对物理效能感赋能突出 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：小组调查法亚组对多维学习产出的二阶综合干预效应 | $M = 1$；$E = 2$；$k = —$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 1.08$ $[0.50, 1.66]$ | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | [[Effect Size\|效应量]]仅次于 CIRC，证实高度自主的社会探究对学习产出具有极高赋能价值 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 1$；$E = 2$；$k = —$；$N = —$ | 干预因素：小组调查法亚组对多维学习产出的二阶综合干预效应 | $Q_b(3) = 9.36, p = .02$（教学技术亚组检验） | [[Effect Size\|效应量]]仅次于 CIRC，证实高度自主的社会探究对学习产出具有极高赋能价值 |
 
 ---
 

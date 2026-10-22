@@ -215,9 +215,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶[[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 干预因素；二阶元分析综合学习风格干预对学生[[Academic Achievement\|学业成就]]的效应 | 汇总相关一阶元分析及底层研究（Hattie, 2008） | 标化均值差 $d$；二阶综合平均 | $d = 0.41$ | — | [[John Hattie\|哈蒂]]本人因其商业动机与证据薄弱予以驳斥；[[Ivan Snook\|斯努克]]等指出其揭示了未做质控的二阶综合与 0.40 门槛的内在荒谬性 |
+> | 二阶[[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | 标化均值差 $d$；二阶综合平均 | 汇总相关一阶元分析及底层研究（Hattie, 2008） | 干预因素；二阶元分析综合学习风格干预对学生[[Academic Achievement\|学业成就]]的效应 | — | [[John Hattie\|哈蒂]]本人因其商业动机与证据薄弱予以驳斥；[[Ivan Snook\|斯努克]]等指出其揭示了未做质控的二阶综合与 0.40 门槛的内在荒谬性 |
 
 ---
 

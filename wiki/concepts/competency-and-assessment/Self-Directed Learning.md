@@ -71,9 +71,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | k = 19 / N 未报告 | 标准化均差（SMD）；模型未报告 | d = 0.47 [0.39, 0.55] | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]] | 关键解释边界 | k / N |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | <span class="mx-bar ef-bar" title="SMD 0.47"><span class="b9"></span></span>0.47 | [0.39, 0.55] | 标准化均差（SMD）；模型未报告 | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 | k = 19 / N 未报告 |
 
 > [!metax] [自主学习 · Self-directed learning](https://www.visiblelearningmetax.com/influences/view/self-directed_learning)
 > 学生学习策略 › 学生导向干预

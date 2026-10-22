@@ -182,13 +182,6 @@ updated: 2026-10-22
 > | 同上 | 教学干预模式 | [[Problem-Based Learning\|基于问题的学习]]（PBL） | 2 / 146 | $d = 0.340$ [-0.547, 1.226] | — | 开放探究，[[Confidence Interval\|置信区间]]跨零未达显著 |
 > | 同上 | 教学干预模式 | 论证教学 | 2 / 910 | $d = 0.134$ [-0.490, 0.758] | $Q_b = 8.992, df = 5, p = .109$ | 纯粹论辩结构训练，效应未达统计显著 |
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026, pp. 5–22)]] | 韩国 8 名初中生（4 对配对），两节科学[[Man-Computer Symbiosis\|人机协同]]解释课 | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]] | 反思提问提示语驱动的二手信源评估 | 学生在反思提示语引导下主动追问 AI 生成断言背后的文献出处与教材共识支持，排查算法单向偏见 | 质性深度案例分析 | 证实显性提问支架能有效将中学生的信源评估技能迁移至生成式 AI 交互环境 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

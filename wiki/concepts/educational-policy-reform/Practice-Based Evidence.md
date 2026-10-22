@@ -261,10 +261,7 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻行为 | 调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道与偏好 | 教师压倒性地从其他一线教师获取信息，实践[[Research Utilization\|证据使用]]远超原始学术研究 | — | 证实一线同行网络在证据流动中的决定性地位 |
-> | 同上 转述 LaPointe-McEwan et al. | 协作探究网络中的教师证据使用 | [[Mixed Methods Research\|混合方法]]实证研究 | 各类证据来源的接纳与使用频率 | 实践来源证据的使用频率与信赖度显著高于原始学术研究 | — | 证实即使在主动推进证据使用的试验项目中，实践证据依然居主导 |
-> | 同上 转述 CUREE (2011) | 英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]] 教师专业发展[[Systematic Review\|系统综述]] | [[Systematic Review\|系统综述]] | 实践者深度参与研究的常态化程度 | 实践者参与研究日益普及并具潜在益处，但实现常态化依然进展缓慢 | — | 提示 PBE 的广泛应用需要制度化的文化保障 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–121]] | 学校教育产品与改革方案的决策者 | [[Questionnaire\|问卷调查]]与案例分析 | 决策信息渠道的信赖与采纳偏好 | 显著偏好同伴推荐与本地试点经验，而非纯粹学术研究证据 | — | 证实实践本位证据在重大教育采购决策中的支配性影响 |
-> | [[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]] 引述 Bryk et al. (2015) | 美国[[Snowball Sampling\|网络化]]改进共同体（NICs）发展性数学项目 | 系统性干预与持续改进追踪 | 教师跨情境学习与学生数学通过率 | 依靠微观实践数据小步迭代显著提升了社区学院数学改革成功率 | — | 验证 PBE 驱动的形成性改进模型在解决复杂教育问题中的效能 |
 
 ---
 

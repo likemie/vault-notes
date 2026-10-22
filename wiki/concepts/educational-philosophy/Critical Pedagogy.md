@@ -220,13 +220,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 跨国教育发展模式与[[Education for All|全民教育]]（EFA）实证对照
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
-> |---|---|---|---|---|
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, p. 134)]] | [[UNESCO\|联合国教科文组织]]《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（EFA 2006）亚非拉受援国与古巴 | 全民基础教育达标率与公有制教育投入 | 接受外部新自由主义[[Structural Adjustment Programs\|结构调整]]与市场化改革的发展中国家普遍未能达标；独立坚持公有制与人道主义国家动员的古巴实现卓越的全民初等教育普及率 | 古巴经验反映高度公有化动员的成效，但受其特殊政治经济体制约束，不可简单机械复制 |
-
 ---
 
 > [!debates] 学术争议

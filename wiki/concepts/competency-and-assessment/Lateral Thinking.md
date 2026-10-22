@@ -185,10 +185,10 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预[[Variable\|变量]]】** 包含侧向思维谜题与发散练习在内的思维训练对大学生[[Creativity\|创造力]]表现的总体促学效应 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.762$** $[0.386, 1.138]$ | $SE = 0.191, Z = 3.987 (p < .001)$；组间异质性显著 | 证实聚焦侧向思维与认知灵活性的结构化练习能强效促进综合创造表现 |
-> | Ding et al. (2014) | **【干预变量】** [[Edward de Bono\|德·博诺]] CoRT 思维工具与侧向思维训练课程对学生认知技能发展的元分析综合 | $k = 18$ 项实证干预 / $N \approx 1,850$ | Cohen's $d$ / 随机效应模型 | **$d = 0.58$** $[0.41, 0.75]$ | 异质性中等 | 证实系统讲授德·博诺水平思考策略对批判性与发散性[[Problem Solving\|问题解决]]具有中等偏强促进 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | [0.386, 1.138] | Hedges' $g$ / 多层随机效应模型 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | **【干预[[Variable\|变量]]】** 包含侧向思维谜题与发散练习在内的思维训练对大学生[[Creativity\|创造力]]表现的总体促学效应 | $SE = 0.191, Z = 3.987 (p < .001)$；组间异质性显著 | 证实聚焦侧向思维与认知灵活性的结构化练习能强效促进综合创造表现 |
+> | Ding et al. (2014) | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | [0.41, 0.75] | Cohen's $d$ / 随机效应模型 | $k = 18$ 项实证干预 / $N \approx 1,850$ | **【干预变量】** [[Edward de Bono\|德·博诺]] CoRT 思维工具与侧向思维训练课程对学生认知技能发展的元分析综合 | 异质性中等 | 证实系统讲授德·博诺水平思考策略对批判性与发散性[[Problem Solving\|问题解决]]具有中等偏强促进 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -200,9 +200,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Ma (2006) | **【干预变量】** [[Creativity Training\|创造性思维训练]]程序（Thinking Programs）在全域创造力干预中的二阶[[Effect Size\|效应量]] | 涵盖数十项一阶元分析综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.75$** $[0.60, 0.90]$ | 跨学段普遍显著 | 证实如侧向思维般的独立系统性思维教学项目具有极高的普适促学价值 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Ma (2006) | <span class="mx-bar ef-bar" title="Cohen's d 0.75"><span class="b15"></span></span>0.75 | [0.60, 0.90] | Cohen's $d$ / 随机效应综合 | 涵盖数十项一阶元分析综合 | **【干预变量】** [[Creativity Training\|创造性思维训练]]程序（Thinking Programs）在全域创造力干预中的二阶[[Effect Size\|效应量]] | 跨学段普遍显著 | 证实如侧向思维般的独立系统性思维教学项目具有极高的普适促学价值 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

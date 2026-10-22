@@ -119,10 +119,16 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究与[[Meta-analysis\|元分析]]实证数据
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Linn et al. (2006)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]） | WISE 平台探究单元（2–10 天） vs 常规传统理科课程（[[Business as Usual\|BAU]]） | 科学[[Academic Achievement\|学业成就]]测试（总体与各学科） | 逾 8,000 名初中生，跨越 6 门独立科学课程 | 探究队列总体表现显著优于常规队列，4 门课程优势显著 | — | $p < .05$ | 宏观两轮队列课程准实验；对照组为资深教师开展的熟练讲授，有力击败坚实常态基线 |
-> | Gerard, Matuk, McElhaney, & Linn (2015)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） | WISE 自动化自适应指导 vs 常规课堂指导 | 科学探究概念理解与因果论证能力 | 41 项实证研究，57 个独立效应量 | 自动化自适应指导组表现系统性优于常规组 | Hedges' $g = 0.34$ | 统计显著（$p < .05$） | 一阶元分析；证实通过算法针对学生论述提供即时针对性支架能够带来稳定附加收益 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Gerard, Matuk, McElhaney, & Linn (2015)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | 统计显著（$p < .05$） | WISE 自动化自适应指导 vs 常规课堂指导 | 科学探究概念理解与因果论证能力 | 41 项实证研究，57 个独立效应量 | 自动化自适应指导组表现系统性优于常规组 | 一阶元分析；证实通过算法针对学生论述提供即时针对性支架能够带来稳定附加收益 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Linn et al. (2006)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]） | 逾 8,000 名初中生，跨越 6 门独立科学课程 | WISE 平台探究单元（2–10 天） vs 常规传统理科课程（[[Business as Usual\|BAU]]） | 科学[[Academic Achievement\|学业成就]]测试（总体与各学科） | 探究队列总体表现显著优于常规队列，4 门课程优势显著 | $p < .05$ | 宏观两轮队列课程准实验；对照组为资深教师开展的熟练讲授，有力击败坚实常态基线 |
 
 ---
 

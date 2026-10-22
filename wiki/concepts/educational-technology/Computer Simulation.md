@@ -249,13 +249,13 @@ updated: 2026-10-22
 > | d'Angelo et al. (2014)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]） | 干预因素：基于计算机模拟的探究教学对比非模拟传统教学 | $k = 59$ / 128 个效应量 | 标准化平均差（SMD） | 模拟探究组显著优于非模拟组（$p < .05$） | 涵盖内容知识、推理技能与态度 | 证实模拟探究在科学知识习得与探究技能发展上具有全面跨领域的显著优势 |
 > | Smetana and Bell (2012)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 干预因素：配备支持结构的计算机模拟探究教学有效性[[Systematic Review\|系统综述]] | $k = 61$ 篇实证研究 | 优势率统计（Vote-counting） | 80% 研究证实模拟探究显著优于传统讲授 | 涵盖物理、化学、生物与地球科学 | 强调模拟必须配备引导问题或[[Scaffolding\|认知支架]]，缺乏支架的开放模拟成效大幅下滑 |
 
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Rieber, Tzeng, & Tribble (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） | 物理力学模拟中提供即时按需直接解释 vs 仅操作模拟 | 物理原理理解与迁移测试表现 | 大学物理探究实验 | 即时解释组显著超越无解释模拟组 | — | $p < .05$ | 实验研究；证实在模拟交互产生认知困惑时适时插入直接原理解释具备极高促学价值 |
-> | van der Graaf, Segers, & de Jong (2020)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8–9]]） | 虚拟实验室与说明文本并置呈现过程中的注视整合 | 科学实验设计质量与概念增益 | 中小学生眼动追踪实验 | 高文本-模拟整合注视组设计了更高质量的对照实验 | — | 过程指标显著相关 | 眼动与实验追踪；证实高质量模拟探究依赖于学生对文本解释与虚拟界面的深层视线整合 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Rieber, Tzeng, & Tribble (2004)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） | 大学物理探究实验 | 物理力学模拟中提供即时按需直接解释 vs 仅操作模拟 | 物理原理理解与迁移测试表现 | 即时解释组显著超越无解释模拟组 | $p < .05$ | 实验研究；证实在模拟交互产生认知困惑时适时插入直接原理解释具备极高促学价值 |
+> | van der Graaf, Segers, & de Jong (2020)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8–9]]） | 中小学生眼动追踪实验 | 虚拟实验室与说明文本并置呈现过程中的注视整合 | 科学实验设计质量与概念增益 | 高文本-模拟整合注视组设计了更高质量的对照实验 | 过程指标显著相关 | 眼动与实验追踪；证实高质量模拟探究依赖于学生对文本解释与虚拟界面的深层视线整合 |
 
 > [!metax] [模拟 · Simulations](https://www.visiblelearningmetax.com/influences/view/simulations)
 > 技术、学校与校外策略 › 游戏化

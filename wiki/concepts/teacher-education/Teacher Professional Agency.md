@@ -242,7 +242,6 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英国及欧洲多国中小学 [[STEM Education\|STEM]] 教师群体与 [[PISA]] 数据库 | 政策综合分析与国际比较 | 课程自由裁量权、师资留任率与[[Scientific Literacy\|科学素养]]水平 | 宽课程框架与自主教学设计是提升工作满意度与留任的最有效非物质激励；爱沙尼亚科学第一且公平度最高 | 国际大样本对比分析 | 宏观政策层面的系统归纳，证明宽大纲与教师赋权是解决师资荒的核心解方 |
-> | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 62 篇关于基础教育[[Research Utilization\|研究使用]]的实证研究文献 | [[Systematic Review\|系统综述]] | 制度性信任度、问责压力与教师能动性行使范围 | 问责系统普遍将专业裁量限制在狭小预设区间；[[Institutional Distrust\|制度性不信任]]是导致象征性研究使用的根本原因 | 质性与跨层机制综合 | 揭示了系统结构对个体能动性的压制，不能将研究使用不足归咎于教师个体赤字 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 澳大利亚维多利亚州中小学教师与 [[Victorian HITS and Literacy Toolkit\|HITS]] 政策文件 | [[Critical Policy Analysis\|批判性政策分析]]与案例调查 | HITS 清单考核、白板规范化检查与教师专业感受 | 强制要求课前白板书写[[Learning Intentions\|学习意图]]等指标导致一线教师出现普遍职业倦怠与形式主义合规表演 | 质性案例与政策文献追踪 | 确证了新泰勒制清单管理对教师专业自主性与[[Creativity\|创造力]]的破坏性后果 |
 > | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] | 全美参与《[[Reading Excellence Act\|卓越阅读法案]]》立法请愿的教师群体 | 政策博弈历史档案核查 | 签名教师人数与立法游说结果 | 逾 10 万名教师签署请愿书捍卫科研与教学自主权，但联邦法案依然强行确立排他性拼读规约 | 历史档案实录 | 揭示传统自由主义游说的局限性，论证教师专业能动性必须走向多阵线民主行动 |
 

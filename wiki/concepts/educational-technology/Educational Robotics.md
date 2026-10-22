@@ -101,11 +101,11 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Feng and Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解得分 | $N = 64$（干预 $n = 32$, 控制 $n = 32$） | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；具身多模态与拟人表情显著降低低龄儿童外语焦虑 |
-> | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | Hedges' $g = 0.24$ | $p < .05$ | 实验设计；游戏化互动激发操作性技能练习动机 |
-> | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | Hedges' $g = 0.17$ | $p < .05$ | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Feng and Wang (2023)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | $p < .01$ | 拟人表情双语伴读机器人 vs. 传统音频听读 | 小学低段英语口语与听力理解得分 | $N = 64$（干预 $n = 32$, 控制 $n = 32$） | — | 准实验设计；具身多模态与拟人表情显著降低低龄儿童外语焦虑 |
+> | Pareto et al. (2022)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.24"><span class="b5"></span></span>0.24 | $p < .05$ | 卡牌算术自适应对战机器人 vs. 纸笔算术卡片 | 小学低段速算准确率与四则运算熟练度 | $N = 72$ | — | 实验设计；游戏化互动激发操作性技能练习动机 |
+> | Zhexenova et al. (2020)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.17"><span class="b3"></span></span>0.17 | $p < .05$ | 仿人实体机器人示范纠错 vs. 教师板书示范 | 哈萨克语字母笔画书写与认读得分 | $N = 50$ | — | 准实验设计；实体机器人肢体示范辅助低幼语言动作技能习得 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

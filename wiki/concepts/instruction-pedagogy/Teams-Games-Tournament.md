@@ -138,16 +138,16 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | 综合合作学习研究池，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：TGT 作为经典结构化技术的综合[[Cooperative Learning\|合作学习]]对总体学习产出的促进效应 | $k = 14$（一阶汇总效应数） / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.61$ $[0.40, 0.81]$ | — | 在一阶元分析中广泛整合于综合合作学习类别中合并报告 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | 综合合作学习研究池，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | Cohen's $d$ / 随机效应模型 | $k = 14$（一阶汇总效应数） / $N = —$ | 干预因素：TGT 作为经典结构化技术的综合[[Cooperative Learning\|合作学习]]对总体学习产出的促进效应 | — | 在一阶元分析中广泛整合于综合合作学习类别中合并报告 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：涵盖 TGT 等结构化合作技术的合作学习对学生多维学习产出的综合干预效应 | $M = 15$；$E = 23$；$k = 403$；$N = —$ | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.55, 0.87]$ | $Q(22) = 349.48, p < .01, I^2 = 93.70\%$ | 宏观二阶证据证实结构化同伴学习对学业与态度的稳健中等促进价值 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.71"><span class="b14"></span></span>0.71 | [0.55, 0.87] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 15$；$E = 23$；$k = 403$；$N = —$ | 干预因素：涵盖 TGT 等结构化合作技术的合作学习对学生多维学习产出的综合干预效应 | $Q(22) = 349.48, p < .01, I^2 = 93.70\%$ | 宏观二阶证据证实结构化同伴学习对学业与态度的稳健中等促进价值 |
 
 ---
 

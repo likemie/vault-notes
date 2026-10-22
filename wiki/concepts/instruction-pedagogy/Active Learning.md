@@ -193,7 +193,6 @@ updated: 2026-10-22
 >
 > | 研究 / 综述 | 样本与情境 | 研究设计与方法 | 核心[[Variable\|变量]]与考察维度 | 主要统计结果与发现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Darwish_2009_Queens\|Darwish (2009)]] | [[Critical Pedagogy\|批判教育学]]与[[Pragmatic Paradigm\|实用主义]]课程哲学文献语料 | 理论建构与概念模型推导 | [[Critical Thinking\|批判性思维]]、[[Dialogue in Education\|对话]]与实践成长（[[Praxis]]） | 确立了主动学习由批判思维、民主对话与意识觉醒构成的三维交互课程模型 | 阐明了主动学习在民主社会与教育正义维度的理论内核 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预库（涵盖数十项 [[Randomised Controlled Trials\|RCT]]） | 政策演进分析与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象主动学习原则推广 vs 具体成套结构化方案 | 抽象原则在常态学校推广中极易衰减失效；而内嵌主动合作机制的具体方案（如 CIRC、SFA）取得 $ES = +0.20 \sim +0.41$ 的强效因果增益 | 确立了主动学习向具体循证课程转型的实践依据 |
 
 ---

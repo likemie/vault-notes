@@ -115,11 +115,17 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究实证数据
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Li, Gobert, & Dickler (2019)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 7]]） | Inq-[[Intelligent Tutoring Systems\|ITS]] 算法自适应支架 vs 无支架常规探究 | 探究技能（[[Control of Variables Strategy\|CVS]]）的长效跨情境远迁移 | 中学生科学虚拟实验追踪 | 自适应支架组在后续全新陌生科学探究任务中技能显著领先 | — | 迁移测验显著（$p < .01$） | 证实基于 EDM 算法的自适应支架不仅改善当前表现，更能促成跨学科的高阶思维迁移 |
-> | Gobert, Moussavi, Li, Sao Pedro, & Dickler (2018)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） | Inq-ITS 数字代理 Rex 实时数据解释支架介入 vs 对照 | 在线数据解读准确率与因果论证质量 | 初中物理与生命科学课堂 | 介入后学生在数据表格中辨析反直觉规律的正确率大幅跃升 | — | $p < .05$ | 课堂现场控制实验；确立教育数据挖掘驱动的即时微观脚手架对科学探究的精准促进 |
-> | Gobert, Sao Pedro, Raziuddin, & Baker (2013)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 9–10]]） | 基于底层日志文件的算法技能评估 vs 人类专家人工评分 | 学生[[Scientific Literacy\|科学探究素养]][[Construct Validity\|构念效度]]与预测力 | 数百名中学生实验操作日志数据 | 算法自动评分与资深科学教师专家评分的相关系数超过 0.85 | $r > 0.85$ | $p < .001$ | 算法效度标杆研究；确立了使用非侵入式日志分析替代传统纸笔测试的可行性 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Gobert, Sao Pedro, Raziuddin, & Baker (2013)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 9–10]]） | $r$ | <span class="mx-bar ef-bar conv bound" title="r &gt; 0.85 → d ≈ 3.23（d = 2r / √(1 − r²)）；下界/上界值"><span class="b28"></span></span>> 0.85 | $p < .001$ | 基于底层日志文件的算法技能评估 vs 人类专家人工评分 | 学生[[Scientific Literacy\|科学探究素养]][[Construct Validity\|构念效度]]与预测力 | 数百名中学生实验操作日志数据 | 算法自动评分与资深科学教师专家评分的相关系数超过 0.85 | 算法效度标杆研究；确立了使用非侵入式日志分析替代传统纸笔测试的可行性 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Li, Gobert, & Dickler (2019)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 7]]） | 中学生科学虚拟实验追踪 | Inq-[[Intelligent Tutoring Systems\|ITS]] 算法自适应支架 vs 无支架常规探究 | 探究技能（[[Control of Variables Strategy\|CVS]]）的长效跨情境远迁移 | 自适应支架组在后续全新陌生科学探究任务中技能显著领先 | 迁移测验显著（$p < .01$） | 证实基于 EDM 算法的自适应支架不仅改善当前表现，更能促成跨学科的高阶思维迁移 |
+> | Gobert, Moussavi, Li, Sao Pedro, & Dickler (2018)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） | 初中物理与生命科学课堂 | Inq-ITS 数字代理 Rex 实时数据解释支架介入 vs 对照 | 在线数据解读准确率与因果论证质量 | 介入后学生在数据表格中辨析反直觉规律的正确率大幅跃升 | $p < .05$ | 课堂现场控制实验；确立教育数据挖掘驱动的即时微观脚手架对科学探究的精准促进 |
 
 ---
 

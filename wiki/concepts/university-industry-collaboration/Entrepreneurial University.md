@@ -232,7 +232,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|
 > | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]] | 全美高水平[[Research Universities\|研究型大学]]创业组织转型样本（2020–2025） | 多案例比较与组织战略文本分析 | 文化适应程度、[[Technology Transfer Office\|TTO]] 激励兼容机制、跨学科中心配比 | 证实设立概念验证中心与引入[[Entrepreneur in Residence\|驻校企业家]]的高校，其教师参与产业研发意愿与衍生企业成立数提升超 40% | 侧重于美国顶尖研究型大学内部组织微观机制 |
 > | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] | 全美 12 所顶尖大学衍生初创企业追踪样本（[[Technology Readiness Level\|TRL]] 3–5 阶段） | 纵向[[Process Tracing\|过程追踪]]与企业生存分析 | PoC 基金规模、导师辅导频次、[[Valley of Death\|死亡之谷]]存活率 | 获得 1–10 万美元非稀释性 PoC 资助并配对 [[Education Innovation and Research\|EIR]] 导师的衍生企业，其后续轮次外部风投融通率提升近 3 倍 | 依赖自陈辅导记录与高选择性早期样本 |
-> | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] | 荷兰高等教育体制改革（1980 年代 13 所大学与政策档案） | 历史制度分析与政策过程追踪 | “企业家型大学”自由市场方案采纳度；办学拨款形式；学费与招生调控权 | 荷兰政府与议会正式否决了知名人士起草的大学自主收学费与资本市场借债的企业家型大学提案，确立总额拨款与间接操纵体制 | 证明欧洲福利国家制度传统对自由市场企业化高教模式的结构性约束 |
 
 ---
 

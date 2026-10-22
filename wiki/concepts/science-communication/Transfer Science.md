@@ -205,9 +205,7 @@ updated: 2026-10-20
 > | 研究 | 样本与情境 | 研究设计与模型 | [[Variable\|变量]]或核心指标 | 关键实证结果 | 不确定性与解释边界 |
 > |---|---|---|---|---|---|
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 12–13)]] | 德国联邦与 16 州联合教育改革项目 | 宏观政策档案分析与治理文献审查 | [[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（Qualitätsoffensive Lehrerbildung, QLB）资助规模 | 联合投入高达 **5 亿欧元（500 Mio. Euro）** 专项经费优化全德三阶段师资质量（联邦-州行政协议 BLV, 2013） | 官方财政协议统计，覆盖全德各高校师训改革 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] | [[International Education\|国际教育]]证据清算机构（挪威、丹麦、美国 [[What Works Clearinghouse\|What Works Clearinghouse, WWC]]、英国 [[EPPI-Centre\|EPPI-Centre]]） | 跨国中介机构长程政策比较与[[Literature Review\|文献综述]] | 清算中心既定转移目标达成度与有效性证据 | 国际学界关于清算机构能否达成预期转移目标的实证有效性证据**依然极度匮乏**（p. 10） | 针对机构设立初期与运行期成效跟踪评价 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 12)]]（引 Otto et al., 2019） | [[NuBiL]] 项目：中小学在岗教师样本 | 实证[[Questionnaire\|问卷调查]]与动机[[Typological Analysis\|类型分析]] | 教师使用教育科研成果的驱动动因 | 教师并非被动消费研究成果，其科研使用行为高度由解决微观教学困惑的自主反思动机驱动 | 德语区 NuBiL 项目一期阶段性实证调查 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 11)]]（引 van Holt, 2014） | [[Schulen im Team]] 鲁尔区区域学校网络项目 | 自组织干预[[Process Tracing\|过程追踪]]与质性案例分析 | 跨校网络创新扩散与实施[[Absorptive Capacity\|吸收能力]] | 外部研究成果转移必须依托校际自组织干预与持续共研，学校文化[[Heterogeneity\|异质性]]构成关键制约 | 针对特定工业转型期城市区域学校网络 |
 > | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 德国高校教师教育者与在岗研训主管（$N = 189$） | 问卷调查与教学中介效用评价 | [[Clearing House Unterricht\|教学清算中心（Clearing House Unterricht, CHU）]]使用效用评分（1–6 分） | 个人使用效用、自身教学适用性、专业知识拓展与时间精力减负均获 4–5 分高正面评价 | 教师教育者主观接受度与中介减负感知 |
 
 ---

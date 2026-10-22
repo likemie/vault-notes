@@ -282,10 +282,10 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | 干预因素：探究教学中的指导脚手架对比无指导探究 | $k = 72$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $d = 0.50$ [0.37, 0.63] | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架提升半个标准差且不同形态功能等价 |
-> | Gerard et al. (2015) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]) | 干预因素：技术增强科学探究中的自动化自适应脚手架 | $k = 41$ ($E = 57$) / $N = —$ | 标准化均值差 $ES$ | $ES = 0.34$ | — | 针对动态虚拟实验室与可视化探究环境，确证自适应智能脚手架相比静态指导的额外增益 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | <span class="mx-bar ef-bar" title="Cohen's d 0.50"><span class="b10"></span></span>0.50 | [0.37, 0.63] | Cohen's $d$ / 随机效应模型 | $k = 72$ / $N = —$ | 干预因素：探究教学中的指导脚手架对比无指导探究 | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架提升半个标准差且不同形态功能等价 |
+> | Gerard et al. (2015) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]) | <span class="mx-bar ef-bar" title="SMD 0.34"><span class="b7"></span></span>0.34 | — | 标准化均值差 $ES$ | $k = 41$ ($E = 57$) / $N = —$ | 干预因素：技术增强科学探究中的自动化自适应脚手架 | — | 针对动态虚拟实验室与可视化探究环境，确证自适应智能脚手架相比静态指导的额外增益 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -294,13 +294,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 外部认知脚手架（干预机制） | 支架持续时长亚组（8–16 周中期黄金窗口 vs >16 周长期未渐隐） | 31 / —<br>13 / — | 中期：$g = 0.759$ [0.576, 0.943]<br>长期：$g = 0.372$ [0.196, 0.549] | $Q_b = 9.106, df = 2, p = 0.011$ | 证实脚手架干预呈现明显的倒 U 型时间规律；长期不撤除外部技术支架将导致促学效应大幅腰斩，实证确证了系统性渐隐（Fading）对防范认知依赖的必要性。 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 外部图示脚手架（干预工具） | 学习者学段亚组（中学生外部支架需求 vs 大学生[[Self-Scaffolding\|自我支架]]内化） | 17 / —<br>49 / — | 中学生：$g = 1.113$ [0.932, 1.294]<br>大学生：$g = 0.659$ [0.551, 0.767] | $W = 63.77, df = 2, p < 0.001$ | 证实外部脚手架收益随认知成熟而边际递减；中学生正处形式运算成熟期获益最大，大学生具备自我脚手架使得外在支架呈现[[Fade-out Effect\|效应衰减]]。 |
-
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–366)]] | 中小学科学探究与大学跨学科探究 | 概念分析与质性案例追踪 | 双轨干预支架（技术提示+教学法）与[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）转变 | 质性证实单一技术提示易导致表面顺从；技术提示结合同伴评审与反思日志能够成功促成认识立场向评价主义演进 | — | 质性案例分析与理论框架，证实双轨支架对维系[[Epistemic Agency\|认识主体性]]与促进认识演进的充要性 |
 
 > [!metax] [支架与情境学习 · Scaffolding and situated learning](https://www.visiblelearningmetax.com/influences/view/scaffolding_and_situated_learning)
 > 教学策略 › 教学方法

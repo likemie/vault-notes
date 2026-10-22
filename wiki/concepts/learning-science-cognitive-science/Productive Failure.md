@@ -239,12 +239,18 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Vitale, McBride, & Linn (2016)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） | [[Direct Instruction\|直接讲授]]后练习 vs 前置探究试错与统整 | 即时课堂测验与延迟[[Pre-test and Post-test\|后测]]概念表现 | 中学科学课堂严格对照实验 | 即时测验直接讲授组错误率更低；延迟测验探究试错组显著占优 | — | 延迟测验显著（$p < .05$） | 证实直接讲授在即时表现上虚高，前置探究试错虽初期受挫但长效保持与深层理解显著更优 |
-> | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 显性规则直接讲授 vs 探究试错与内化（[[Control of Variables Strategy\|CVS]]） | 13 周后的长期保持率（延迟后测） | 实验与延迟追踪对比研究 | 直接讲授组保持率仅 31%；探究试错内化组保持率高达 78%–83% | — | 保持率差异显著（$p < .01$） | 证实经历试错冲突并自主领悟策略的学习者，其长周期抗遗忘能力与远迁移韧性远超直接背诵规则者 |
-> | Chin et al. (2019)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]） | 探究式先行解决问题 vs 传统直接教学 | 未来学习准备（PFL）测验成绩 | K-12 科学探究对照实验 | 探究组在面对全新未讲授的进阶科学任务时表现出显著更高的[[Learner Autonomy\|自主学习]]力 | — | 统计显著（$p < .05$） | 实证确立前置探究在激发未来学习准备（PFL）上的独特增益，超越了单纯直接教学的知识复制 |
-> | Kapur (2016)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） | 生产性失败（探索 ➔ 讲授） vs 传统教学（讲授 ➔ 练习） | 概念理解与远迁移应用 | 系列中学数学与物理 [[Randomised Controlled Trials\|RCT]] | 生产性失败组在深层概念测验与迁移题上全面显著优于传统直接讲授组 | 综合 $d \approx 0.40 \sim 0.60$ | 统计显著（$p < .05$） | 标杆性多阶段 RCT；确立探索前置结合显性讲授在概念深度与弹性上的系统优势 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Kapur (2016)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） | Cohen's $d$ | <span class="mx-bar ef-bar range" title="Cohen's d 0.40–0.60；取区间中点"><span class="b10"></span></span>0.40–0.60 | 统计显著（$p < .05$） | 生产性失败（探索 ➔ 讲授） vs 传统教学（讲授 ➔ 练习） | 概念理解与远迁移应用 | 系列中学数学与物理 [[Randomised Controlled Trials\|RCT]] | 生产性失败组在深层概念测验与迁移题上全面显著优于传统直接讲授组 | 标杆性多阶段 RCT；确立探索前置结合显性讲授在概念深度与弹性上的系统优势 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Vitale, McBride, & Linn (2016)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]） | 中学科学课堂严格对照实验 | [[Direct Instruction\|直接讲授]]后练习 vs 前置探究试错与统整 | 即时课堂测验与延迟[[Pre-test and Post-test\|后测]]概念表现 | 即时测验直接讲授组错误率更低；延迟测验探究试错组显著占优 | 延迟测验显著（$p < .05$） | 证实直接讲授在即时表现上虚高，前置探究试错虽初期受挫但长效保持与深层理解显著更优 |
+> | Dean and Kuhn (2007)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 实验与延迟追踪对比研究 | 显性规则直接讲授 vs 探究试错与内化（[[Control of Variables Strategy\|CVS]]） | 13 周后的长期保持率（延迟后测） | 直接讲授组保持率仅 31%；探究试错内化组保持率高达 78%–83% | 保持率差异显著（$p < .01$） | 证实经历试错冲突并自主领悟策略的学习者，其长周期抗遗忘能力与远迁移韧性远超直接背诵规则者 |
+> | Chin et al. (2019)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]） | K-12 科学探究对照实验 | 探究式先行解决问题 vs 传统直接教学 | 未来学习准备（PFL）测验成绩 | 探究组在面对全新未讲授的进阶科学任务时表现出显著更高的[[Learner Autonomy\|自主学习]]力 | 统计显著（$p < .05$） | 实证确立前置探究在激发未来学习准备（PFL）上的独特增益，超越了单纯直接教学的知识复制 |
 
 > [!metax] [有益失败（错误） · Productive failure (errors)](https://www.visiblelearningmetax.com/influences/view/productive_failure_(errors))
 > 教学策略 › 反馈

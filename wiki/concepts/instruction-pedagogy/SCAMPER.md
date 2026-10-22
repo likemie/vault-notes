@@ -194,10 +194,10 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Scott, Leritz and Mumford (2004) | **【干预[[Variable\|变量]]】** 包含 SCAMPER 在内的结构化观念生成启发式教学对[[Creativity\|创造力]]表现的总体促学效应 | $k = 70$ 项干预研究 | Cohen's $d$ / 固定与随机效应模型 | **$d = 0.68$** $[0.58, 0.78]$ | 异质性中等，策略指导为最强有效预测因子 | 证实向学习者显性传授观念生成启发式操作算子能显著提升其创造表现 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预变量】** 以 SCAMPER、[[TRIZ]] 及形态分析为核心的技术型[[Creativity Training\|创造力训练]]对大学生的促学效应 | $N = 20$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.552$** $[0.314, 0.789]$ | $SE = 0.121, Z = 4.550 (p < .001)$ | 确立外显启发式工具能提供具象认知锚点并产生中等稳健促学增益 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Scott, Leritz and Mumford (2004) | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.58, 0.78] | Cohen's $d$ / 固定与随机效应模型 | $k = 70$ 项干预研究 | **【干预[[Variable\|变量]]】** 包含 SCAMPER 在内的结构化观念生成启发式教学对[[Creativity\|创造力]]表现的总体促学效应 | 异质性中等，策略指导为最强有效预测因子 | 证实向学习者显性传授观念生成启发式操作算子能显著提升其创造表现 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | [0.314, 0.789] | Hedges' $g$ / 多层随机效应模型 | $N = 20$ 个效应量 / $k = 29$ 原生研究 | **【干预变量】** 以 SCAMPER、[[TRIZ]] 及形态分析为核心的技术型[[Creativity Training\|创造力训练]]对大学生的促学效应 | $SE = 0.121, Z = 4.550 (p < .001)$ | 确立外显启发式工具能提供具象认知锚点并产生中等稳健促学增益 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -210,9 +210,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Ma (2006) | **【干预变量】** 创造力训练单项策略技术（Single Components）在全域干预中的二阶[[Effect Size\|效应量]] | 涵盖数十项一阶元分析综合 | Cohen's $d$ / 随机效应综合 | **$d = 0.60 \sim 0.75$** | 跨学段普遍显著 | 证实如 SCAMPER 般的单一启发式技法具有高度的教学普适性与独立促学价值 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Ma (2006) | <span class="mx-bar ef-bar range" title="Cohen's d 0.60–0.75；取区间中点"><span class="b14"></span></span>0.60–0.75 | — | Cohen's $d$ / 随机效应综合 | 涵盖数十项一阶元分析综合 | **【干预变量】** 创造力训练单项策略技术（Single Components）在全域干预中的二阶[[Effect Size\|效应量]] | 跨学段普遍显著 | 证实如 SCAMPER 般的单一启发式技法具有高度的教学普适性与独立促学价值 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

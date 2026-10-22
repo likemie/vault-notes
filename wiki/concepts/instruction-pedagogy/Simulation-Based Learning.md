@@ -94,9 +94,9 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：情境模拟对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 23$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.26$ $[0.09, 0.43]$ | $Q(22) = 80.03, p < .001, I^2 = 72.51\%$ | 纳入 23 项实验与准实验；跨学科医学、科学与工程情境模拟 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.26"><span class="b5"></span></span>0.26 | [0.09, 0.43] | Hedges' $g+$ / 随机效应模型 | $k = 23$ / $N = —$ | 干预因素：情境模拟对[[Critical Thinking\|批判性思维]]技能的促进效应 | $Q(22) = 80.03, p < .001, I^2 = 72.51\%$ | 纳入 23 项实验与准实验；跨学科医学、科学与工程情境模拟 |
 
 ---
 

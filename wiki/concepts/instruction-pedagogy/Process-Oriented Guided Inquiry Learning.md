@@ -239,12 +239,12 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > | Walker and Warfa (2017)（课程通过优势比分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | 干预因素：POGIL 教学法对比传统常规讲授大班 | 涵盖多项对照实验 | 优势比（Odds Ratio, OR） | $\text{OR} > 1.0$（统计显著提升） | 挂科与退课率（DFW）显著压低（$p < .01$） | 标杆元分析；证实 POGIL 显著提升学生通过关键科学课程的概率，有效保障学业底线 |
 > | Walker and Warfa (2017b)（标准化考试成绩分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 3–4]]） | 干预因素：POGIL 对比传统[[Direct Instruction\|直接讲授]]的期末考试成绩 | 涵盖多所大学与高中理科 | 标准化平均差（SMD） | $g \approx 0.15 \sim 0.20$（微弱至中等正效应） | 异质性中等 | 证实期末分数提升相对温和，其核心制度性收益在于保底及格率与概念深度 |
 
-> [!effect-table]- 原始研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Joshi and Lau (2023)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | POGIL 教学模式 vs 传统讲授 | [[Surface and Deep Learning\|深层学习]]途径得分与长期概念表现 | 大学理科学生准[[Experimental Research\|实验研究]] | POGIL 组在深层学习方式与延迟测验上表现显著更优 | — | 统计显著（$p < .05$） | 准实验对照研究；确立 POGIL 在转变学习策略与促进长期抗遗忘上的因果增益 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Joshi and Lau (2023)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | 大学理科学生准[[Experimental Research\|实验研究]] | POGIL 教学模式 vs 传统讲授 | [[Surface and Deep Learning\|深层学习]]途径得分与长期概念表现 | POGIL 组在深层学习方式与延迟测验上表现显著更优 | 统计显著（$p < .05$） | 准实验对照研究；确立 POGIL 在转变学习策略与促进长期抗遗忘上的因果增益 |
 
 ---
 

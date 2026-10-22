@@ -82,7 +82,8 @@
               "title": "Argument_Wang_Liang_Chen_2025_CES"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,25 +289,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "d7b750b1933da6ff",
   "lastOpenFiles": [
+    "tmp/callout-design-backup-v4/rows.py",
+    "wiki/concepts/educational-policy-reform/Class Size.md",
+    "tmp/callout-design-backup-v4/deleted_rows.json",
+    "tmp/callout-design-backup-v4/do_delete.py",
+    "tmp/callout-design-backup-v4/nonquant_final.json",
+    "tmp/callout-design-backup-v4/nonquant_std.json",
+    "tmp/callout-design-backup-v4/nonquant2.json",
+    "tmp/callout-design-backup-v4/nonquant2.py",
+    "tmp/callout-design-backup-v4/nonquant.json",
+    "tmp/callout-design-backup-v4/__pycache__/mm.cpython-310.pyc",
+    "tmp/callout-design-backup-v4/__pycache__/migrate_effect2.cpython-310.pyc",
+    "tmp/callout-design-backup-v4/__pycache__",
+    "tmp/callout-design-backup-v4/ESC.before.md",
     "wiki/concepts/competency-and-assessment/Academic Achievement.md",
     "wiki/methods/quantitative/Effect Size Conversion.md",
     "tmp/callout-design-backup-v4/TEMPLATE-SPEC.before-effect.md",
     "tmp/callout-design-backup-v4/CALLOUTS.before-effect.md",
-    "scripts/__pycache__/effect_table.cpython-313.pyc",
-    "output/related-updates/Argument_Wang_Liang_Chen_2025_CES-7e53b6e3/batch-002/result.json",
     "wiki/methods/quantitative/Effect Size.md",
     "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md",
-    "scripts/__pycache__/effect_table.cpython-310.pyc",
-    "tmp/callout-design-backup-v4/vault_lint.before-effect.py",
-    "scripts/effect_table.py",
-    "tmp/callout-design-backup-v4/effect_table-r31.py",
-    "tmp/callout-design-backup-v4/gen-r31.py",
-    "tmp/callout-design-backup-v4/v41-r31.css",
-    "output/related-updates/Argument_Wang_Liang_Chen_2025_CES-7e53b6e3/batch-001/result.json",
     "output/related-updates/Argument_Wang_Liang_Chen_2025_CES-7e53b6e3/batch-005/prompt.md",
-    "output/related-updates/Argument_Wang_Liang_Chen_2025_CES-7e53b6e3/batch-005/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Liang_Chen_2025_CES-7e53b6e3/batch-006/prompt.md",
     "output/related-updates/Argument_Wang_Liang_Chen_2025_CES-7e53b6e3/batch-004/prompt.md",
     "output/related-updates/Argument_Wang_Liang_Chen_2025_CES-7e53b6e3/batch-003/prompt.md",
@@ -323,9 +327,6 @@
     "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md",
     "tmp/metax_sample.md",
     "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md",
-    "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
-    "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
-    "wiki/concepts/political-economy-geopolitics/Educational Diplomacy.md",
     "sources/Velasco_2022_CSJ/figures/Velasco_2022_CSJ_Fig4_Foreign_Students_in_China.png",
     "sources/Velasco_2022_CSJ/figures/Velasco_2022_CSJ_Fig3_Tertiary_Education_Expenditure.png",
     "sources/Velasco_2022_CSJ/figures/Velasco_2022_CSJ_Fig2_Scientific_Publication_Output.png",

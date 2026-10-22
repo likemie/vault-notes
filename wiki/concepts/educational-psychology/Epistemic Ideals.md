@@ -214,9 +214,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果（干预因果效应）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 证据确定性 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（认识论理想可教导性） | 28 / 4,373 | Cohen's d；[[Random-Effects Model\|随机效应]] | 0.509 [0.334, 0.684] | I²=92.72% | — |
+> | 元分析 | 效应值 | 95% CI | 效应指标与模型 | [[Heterogeneity\|异质性]] | [[Dependent Variable\|结果变量]] | k / N | 证据确定性 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.334, 0.684] | Cohen's d；[[Random-Effects Model\|随机效应]] | I²=92.72% | [[Academic Achievement\|学业成就]]（认识论理想可教导性） | 28 / 4,373 | — |
 
 > [!ma-table]- 调节[[Variable\|变量]]与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -225,14 +225,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预[[Framework for Teaching\|教学框架]] | 亚组分析 | 指导式探究（$d = 0.808$）与信源评估（$d = 0.800$）；显性讲授认识论理想的框架优于自由辩论 | PBL（$d = 0.340$）与论证教学（$d = 0.134$，不显著） | $Q_b = 17.491, p < .01$ | 预设 | 认识论理想只有经由显性指导才能内化并转化为学业提升 |
 > | 同上 | 成就类型 | 亚组分析 | 论证表现（$d = 1.047$）与概念性知识（$d = 0.557$）高度敏感 | 程序性知识（$d = 0.140$，不显著） | $Q_b = 8.940, p < .05$ | 预设 | 认识论理想的改变只在需要评估证据与推理质量的高阶任务中产生实质学业效益 |
-
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] | $N = 332$ 名七年级学生，来自美国东部 24 个初中科学课堂 | [[Qualitative Content Analysis\|质性文本分析]]与课堂[[Discourse Analysis\|话语分析]]（基于 PRACCIS 课程干预） | 书面论证与口头话语中[[Epistemology\|认识论]]理想（全证据契合、直接性、决定性、收敛性）的调用 | 质性展现：优秀学生自发调用全证据契合与多源收敛反驳弱证据；部分学生因缺乏同源性知识而机械排斥间接证据 | — | 质性概念验证；揭示了认识论理想与学科实体知识的纠缠，未建立大规模标准化评分常模 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | $N = 8$ 名初中生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与微观发生学追踪 | 显性[[Scientific Explanation\|科学解释]]标准（认识论理想）在审验 AI 文本与图解中的调用与修正表现 | 实证展现：学生依据因果叙事与概念框架标准，精准识别 AI 文本的事实堆砌并重构器官协同因果链，补齐真菌界分类并修正根毛动态吸水图 | — | 质性案例证据，证实显性学科认识论理想在[[Man-Computer Symbiosis\|人机协同]]解释中的支架功能 |
 
 ---
 

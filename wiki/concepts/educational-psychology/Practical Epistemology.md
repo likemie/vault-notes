@@ -209,8 +209,6 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] | 中小学科学探究软件（BGuILE / ExplanationConstructor）支持下的课堂 | 认知任务观察与学生探究产品[[Coding in Qualitative Research\|质性编码]] | 解释构建策略、证据调用类型、因果机制表述 | 学生在软件[[Scaffolding\|脚手架]]支持下能写出因果解释，但极少主动评估反常证据与竞争性假说 | 质性论据结构分析 | 适用于软件脚手架支持的课堂解释任务 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018, p. 150)]] | 小学儿童地球形状与重力机制概念探究（Lidar et al., 2010 案例） | [[Practical Epistemology Analysis\|PEA]] 话语编码与录像微观分析 | 立足点、意义裂隙、天球仪教具操作手势 | 儿童在遭遇重力方向困惑时，通过在地球仪上放置人偶搭建新关系以跨越裂隙 | 质性[[Discourse\|话语]]序列分析 | 适用于具身模型支持的微观概念探究情境 |
 > | [[Argument_Sandoval_2005_SE\|Sandoval (2005, p. 649)]] | 实施建设性科学课程的小学高年级学生（Smith et al., 2000 案例） | 准实验对照与临床访谈设计 | [[Formal Epistemology\|形式认识论]]信念[[Questionnaire\|问卷]]与探究策略表现 | 经历持续显性认识论反思的学生，在形式认识论与探究自主性上均显著优于对照组 | 准实验组间质性对比 | 证明显性反思对弥合形式与实践认识论具有决定性意义 |
 
 ---

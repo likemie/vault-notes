@@ -233,7 +233,6 @@ updated: 2026-10-22
 > | [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | 冷战时期东德工业部门与西方技术情报数据库 | 准实验计量经济分析与生产函数估计 | 工业间谍对东德部门[[Total Factor Productivity\|全要素生产率]]（TFP）的因果效应及技术差距调节 | 间谍情报对 TFP 增长的促进效应在初始与西德 TFP 差距较小的行业中最强，在落后行业中不显著 | 计量模型显著 | 强力实证支持了吸收能力假说：具备认知基础与技术存量的部门才能有效转化外部情报 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] | 巴尔的摩县公立学区 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革利益相关者 | [[Formative Program Evaluation\|形成性项目评价]]、问卷与案例分析 | [[Formative Assessment\|形成性评价]]证据对学区决策、持续实施及丑闻后改革延续的支撑 | 多方证实形成性反馈在学监辞职后仍支持了项目延续；项目理解与开放沟通促成了评价证据进入实践 | — | 质性证实学区层面的吸收能力在保障复杂教育改革延续中的关键功能 |
 > | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] | 产学研发合作（UICs）多国企业实证样本 | 跨国实证[[Literature Review\|文献综述]]与[[Meta-meta-analysis\|元综合]] | 吸收能力对企业从[[University-Industry Collaboration\|产学合作]]中获取创新绩效的[[Interaction Effect\|调节效应]] | 吸收能力薄弱的企业在正式合作中未能获得显著创新提升；高吸收力企业展现显著转化优势与资助偏向 | 综述多项计量研究结论 | 实证确立了吸收能力在产学合作创新转化中的门槛与调节效应 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]（引述 van Holt, 2014; Koch, 2011） | 德国鲁尔区区域学校协作网络项目（[[Schulen im Team]]）及多州学校发展样本 | 追踪评估、多案例[[Network Analysis\|网络分析]]与文献综合批判 | 学校组织[[Heterogeneity\|异质性]]与本土情境重构 vs 外部教研成果转移吸收能力 | 实证揭示单校组织异质性深刻制约外部教研方案的消化吸收；缺乏[[Reflexivity\|反思性]]校本对话与文化土壤支持的学校无法有效转化网络合作经验 | 质性与个案实证确证 | 确立学校组织异质性与微观文化对吸收能力的决定性制约，证实情境化重构是外部创新存活的前提 |
 
 ---
 

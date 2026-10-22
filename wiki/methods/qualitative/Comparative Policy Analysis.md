@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -65,6 +65,7 @@ related_arguments:
   - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
 status: completed
 created: 2026-10-06
@@ -178,5 +179,6 @@ updated: 2026-10-22
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 在英国新工党福利改革案例中，横向对比英国决策者对美、瑞、新、澳四国政策及评估方案的选择性筛选过程，揭示因果评估证据充沛性如何决定跨国借用的最终取舍。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 运用比较政策分析视角审视现存 254 个跨国职教合作平台的空间分布与专业结构数据，剖析主权规制差异对跨境教育合作成效的制度制约（pp. 294–295）。
 
 ---

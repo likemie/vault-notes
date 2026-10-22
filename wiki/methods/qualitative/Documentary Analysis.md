@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 64
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -71,6 +71,7 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
@@ -230,3 +231,4 @@ updated: 2026-10-22
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 28–32)]] — 结合经合组织官方白皮书、各国教育部政策报告与大众媒体报道篇幅统计（如德国 687 个版面 vs 芬兰 8 个版面），运用政策与媒体文献分析揭示跨国测评数据的媒介化传播与国内政策合法化辩护机制。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对世界银行历届教育部门政策战略与《世界发展报告》展开文献引文分析，揭示多边机构从行政声明向学术化认知治理的演变（pp. 7–8）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 79–86)]] — 结合中国高教改革法规、留学生统计年鉴与智库软实力指数开展政策文献与统计综合分析，解构教育外交的三大支柱与地缘政治转化制约。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸协定、中国—东盟战略伙伴关系愿景、国家全会决议及部区共建纪要等官方政策文献，系统梳理跨国职业教育开放的政策脉络与制度演进（pp. 286–288, 292–293）。

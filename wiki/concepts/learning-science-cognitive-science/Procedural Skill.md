@@ -84,12 +84,12 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说教学 | EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | Hedges' $g = 2.12$ | $p < .001$ | 准实验设计；语音即时纠错对初中生口语操作技能产生强效增益 |
-> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Generative Artificial Intelligence\|生成式 AI]] 辅导+反思量规 vs. 传统编程教学 | Python 编程代码调试与单元测试通过率 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | Hedges' $g = 0.40$ | $p < .05$ | 准实验设计；支架引导下的代码调试程序技能提升 |
-> | Tasdelen and Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 自适应分步微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题练习 | 小学数学长除法步骤解题表现 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步提示加速算术程序自动化 |
-> | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 编程[[AI Agent in Education\|智能体]]语法纠错 vs. 传统教学 | 代码编写正确率与程序性调试表现 | $N = 78$ | — | Hedges' $g = 0.16$ | $p < .05$ | 实验设计；即时微提示辅助良构代码规则内化 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Elmaadaway et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 2.12"><span class="b28"></span></span>2.12 | $p < .001$ | 智能语音[[Dialogue in Education\|对话]]机器人 vs. 常规听说教学 | EFL 英语口语阅读流利度（WCPM） | $N = 60$（干预 $n = 30$, 控制 $n = 30$） | — | 准实验设计；语音即时纠错对初中生口语操作技能产生强效增益 |
+> | Fang et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.40"><span class="b8"></span></span>0.40 | $p < .05$ | [[Generative Artificial Intelligence\|生成式 AI]] 辅导+反思量规 vs. 传统编程教学 | Python 编程代码调试与单元测试通过率 | $N = 92$（干预 $n = 46$, 控制 $n = 46$） | — | 准实验设计；支架引导下的代码调试程序技能提升 |
+> | Tasdelen and Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | $p < .05$ | 自适应分步微提示 [[Intelligent Tutoring Systems\|ITS]] vs. 常规解题练习 | 小学数学长除法步骤解题表现 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | 准实验设计；基于认知负荷理论的分步提示加速算术程序自动化 |
+> | Ye et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.16"><span class="b3"></span></span>0.16 | $p < .05$ | 编程[[AI Agent in Education\|智能体]]语法纠错 vs. 传统教学 | 代码编写正确率与程序性调试表现 | $N = 78$ | — | 实验设计；即时微提示辅助良构代码规则内化 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

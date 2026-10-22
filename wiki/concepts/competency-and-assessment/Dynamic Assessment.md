@@ -158,9 +158,9 @@ updated: 2026-10-21
 >
 > 大样本一阶[[Meta-analysis|元分析]]系统检验了动态评估中主考人辅助对特殊教育受试者表现的增益。
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Swanson and Lussier (2001) | 概念奠基：动态评估主考人分级辅助对学习障碍儿童测验表现的提升 | $k = 30$ / $N = 5,104$ | Cohen's $d$，加权平均 | $d = 1.12$ $[1.06, 1.18]$ | 亚组在提示直接性与训练时长上呈现异质性 | 属于测验情境下的认知潜能测量；主考人介入旨在测量潜能，被[[John Hattie\|哈蒂]]误并入[[Feedback\|教学反馈]] |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Swanson and Lussier (2001) | <span class="mx-bar ef-bar" title="Cohen's d 1.12"><span class="b22"></span></span>1.12 | [1.06, 1.18] | Cohen's $d$，加权平均 | $k = 30$ / $N = 5,104$ | 概念奠基：动态评估主考人分级辅助对学习障碍儿童测验表现的提升 | 亚组在提示直接性与训练时长上呈现异质性 | 属于测验情境下的认知潜能测量；主考人介入旨在测量潜能，被[[John Hattie\|哈蒂]]误并入[[Feedback\|教学反馈]] |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

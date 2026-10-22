@@ -255,8 +255,6 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与国际 25 年以上实践案例追踪 | 政策文献历史回顾与批判性综合 | 绩效工资尝试成败记录、测量工具开发状态 | 绝大多数实施尝试均告失败；1986 年《[[The Scott Report\|斯科特报告]]》建议设立的专业测量单位因技术复杂从未建成 | — | 历史文献定性考证，证明长期缺乏支持教学改善的有效证据 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 426, 434)]] | 新西兰基础教育改革与国家政策咨询情境 | 政策文献审读与制度社会学定性分析 | 教师绩效工资（PRP）倡导、[[Assessment Tools for Teaching and Learning\|asTTle]] 工具行政化与教师工会抗议 | 揭示以 asTTle 为行政工具推行绩效工资遭遇教师群体与工会强烈抗议与专业抵制；量化综合数据缺乏对宏观社会不平等的解释力 | 定性政策分析 | 证实发达国家公立体系中行政驱动的绩效工资改革极易引发工会对抗与教学异化危机 |
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 65 个参与 [[PISA]] 2012 的国家与经济体系统 | 跨国评估数据二次分析与政策[[Discourse\|话语]]解构 | 教师绩效工资（PRP）有无与学生 PISA 学业平均分 | 跨国全样本分析显示绩效工资与学生表现之间无统计相关；顶尖梯队（芬兰等）无绩效工资，中下游国家多有实施 | 不具有[[Statistical Significance\|统计显著性]] | 跨国截面数据证实宏观层面教师绩效工资对[[Academic Achievement\|学业成就]]无普适促进效应 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师绩效工资激励与辅导试验（[[Incentivised Pay and Coaching Trial\|ICR]]） | 教师/学校层级随机对照试验（[[Randomised Controlled Trials\|RCT]]） | 目标奖金资格[[Random Assignment\|随机化]]分配、学校与教师招募参与率 | 遭遇全英公立学校与教师工会系统性抵制，招募人数严重不达标，试验流产并被迫发布《关闭报告》 | 试验因招募流产未能完成主要结局效应量估算（未满足 [[Statistical Analysis Plan\|SAP]] 样本底线） | 严格 RCT 在发达国家公立学校教师薪酬领域的应用边界，证实该机制遭遇严重伦理与组织排斥 |
 

@@ -144,13 +144,6 @@ updated: 2026-10-22
 
 ---
 
-> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
-> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 英国大篷车吉普赛与旅行者中学生及儿童群体（转引自 Levinson & Sparkes, 2005; Derrington & Kendall, 2004） | 深度定性[[Ethnography\|民族志]]与追踪个案访谈 | 学校空间规约体验、身体受限感与中等教育过渡期保留率 | 发现高度结构化的空间区隔是学生产生抵触情绪的最主要诱因，且进入中等教育后因担忧文化同化与校园霸凌而出现显著的提前离校现象 | 深度[[Qualitative Research\|定性研究]]，无量化数值指标 | 揭示了微观物理空间组织引发的文化失调与中学过渡期学业断裂机制，不提供量化效应量或学业差距标准差数据 |
-
 ---
 
 > [!evidence-grid-a] 相关研究索引

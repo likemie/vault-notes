@@ -245,7 +245,6 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 161–162)]] 引 Brown, Daly and Liou (2016); Godfrey (2016) | 英格兰 43 所小学骨干教师与校领导团队 | 历时一学年、四次跨校工作坊的干预试验与[[Network Analysis\|社会网络分析]]（SNA） | [[Research Learning Communities\|RLC]] 模式对教师[[Research Utilization\|研究利用]]深度、专业自信及教学策略革新的影响 | 教师将研究与实践相融合的能力显著提高，学校由依赖浅层小妙招转向探究有效机制；但缺乏前置数据诊断的学校容易陷入追逐热门话题偏差 | 社会网络分析与追踪[[Questionnaire\|问卷]]显著改善 | 证实结构化研习协议对[[Research Translation\|研究转译]]的有效性；但对学生最终[[Academic Achievement\|学业成绩]]的直接因果影响仍需更大规模 [[Randomised Controlled Trials\|RCT]] 检验 |
 > | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 130)]] 引 Cooper et al. (2017) | 加拿大安大略省小学教师联合会（[[Elementary Teachers' Federation of Ontario\|ETFO]]）教师会员 | 针对课堂评估实践的大规模问卷调查与[[In-depth Interview\|深度访谈]] | 教师搜寻[[Effective Teaching\|有效教学]]信息时的主要渠道与证据信赖偏好 | 教师最首要的信息搜寻渠道为其他一线教师（同行网络）；对[[Practice-Based Evidence\|实践本位证据]]的信任与采纳频率显著高于原始学术论文 | — | 表明实践端对同行网络的天然依附，单向文献推送无法取代社会性人际转译 |
-> | [[Argument_Torres_2022_KMModels\|Torres (2022b, pp. 47–49)]] 引 Cain (2015) | 参与研究性专业发展项目的一线学科教师 | 课堂实地观察、访谈与教师反思日志质性分析 | 教师审阅学术研究文本时的认知交互模式与能动反应类型 | 教师对研究文本普遍展现出五类能动反应（忽略、证实、策略、概念、拒绝）；学术证据必须与个人信念及同行文化[[Dialogue in Education\|对话]]方能产生实质影响 | 质性文本主题分析 | 否定了机械被动的技术采纳假设，证实[[Teacher Professional Agency\|教师专业能动性]]在知识转译中的决定地位 |
 
 ---
 
