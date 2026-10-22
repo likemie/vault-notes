@@ -113,7 +113,6 @@ related_persons:
   - "[[Hilda Taba]]"
   - "[[Henry Giroux]]"
 ---
-
 关于[[Active Learning|主动学习]]的概念分析研究（Queen's University, 2009），系统解构了主动学习的[[Epistemology|认识论]]根基、历史演进与教学法张力。研究立足于哲学与概念分析，通过对西方教育思想史（[[Plato|柏拉图]]、[[Aristotle|亚里士多德]]、[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]等）及现代课程案例（[[International Baccalaureate|IBO]] 与 [[Theory of Knowledge|TOK]] 课程）的深入考察，揭示了主动学习绝非简单的教学技巧（如分组讨论或动手操作），而是一种关乎学习者主体地位、批判意识与社会实践的教育[[Paradigm|范式]]重构。
 
 > [!chapter-question]

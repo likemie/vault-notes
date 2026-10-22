@@ -47,12 +47,12 @@ wiki/arguments/books/<book-folder>/
 `template-argument-textbook.md` 固定保留：
 
 ```markdown
-## 总览
+> [!textbook-overview] 章节总览
 ## 章节
 ## 来源
 ```
 
-「总览」使用 `[!textbook-overview]` 表格和知识地图占位。表格保留三列：
+全书总览不写 `## 总览` 标题，直接用带标题的 `[!textbook-overview]` 表格和知识地图占位，放在 `## 章节` 之前。表格保留三列：
 
 ```markdown
 > [!textbook-overview] 章节总览

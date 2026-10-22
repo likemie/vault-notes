@@ -1379,6 +1379,27 @@ def check_old_references(path: Path, text: str, issues: List[Issue]) -> None:
             start = idx + len(pattern)
 
 
+RETIRED_SECTION_HEADINGS = {"相关研究", "领域应用", "总览", "实证数据", "条目关联", "相关条目"}
+
+
+def check_retired_headings(path: Path, text: str, issues: List[Issue]) -> None:
+    """这些章节标题已废止：内容由带标题的 callout 承担（相关研究索引 / 条目关联 / 章节总览 / 实证表格 marker）。
+    脚本不再依赖它们；只有 ``## 来源`` 仍是固定章节。"""
+    if is_schema_or_workflow_doc(path) or "/templates/" in rel(path):
+        return
+    in_fence = False
+    for n, line in enumerate(text.split("\n"), 1):
+        if line.startswith("```"):
+            in_fence = not in_fence
+        if in_fence or not line.startswith("## "):
+            continue
+        name = line[3:].strip()
+        if name in RETIRED_SECTION_HEADINGS:
+            issues.append(Issue("ERROR", rel(path),
+                f"已废止的章节标题 ## {name}：删去标题，把章节名写进下方 callout 标题（如 [!evidence-grid-a] 相关研究索引、[!entry-map] 条目关联），标题下的过渡句一并删除",
+                line=n, code="RETIRED_HEADING"))
+
+
 def check_effect_tables(path: Path, text: str, issues: List[Issue]) -> None:
     """实证表格：指标白名单、数值格式、效应条一致性；新增行必须有数据。见 scripts/effect_table.py。"""
     if "table-marker" not in text:
@@ -3484,6 +3505,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_old_references(path, text, issues)
     check_quartz_safety(path, text, issues)
     check_effect_tables(path, text, issues)
+    check_retired_headings(path, text, issues)
     check_axis_callouts(path, text, issues)
     check_stat_card_titles(path, text, issues)
     check_markdown_misc(path, text, issues)

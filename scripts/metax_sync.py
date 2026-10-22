@@ -638,8 +638,8 @@ def remove_module(body: str) -> str:
 
 def insert_module(body: str, module: str) -> str:
     """Place the callouts directly before the first empirical table callout (MetaX leads the
-    empirical-data group); otherwise at the end of ## 实证数据, before ## 领域应用 / ## 相关研究,
-    or at the end of the note."""
+    empirical-data group); otherwise after the last empirical callout, before the 相关研究索引
+    callout, or at the end of the note. Section headings are not used."""
     body = remove_module(body)
     lines = body.splitlines(keepends=True)
     # 实证数据组内 MetaX 排在最前：有实证表格时插在第一张实证表正前方
@@ -649,22 +649,10 @@ def insert_module(body: str, module: str) -> str:
             head = "".join(lines[:i]).rstrip("\n")
             tail = "".join(lines[i:])
             return head + "\n\n" + module.rstrip("\n") + "\n\n" + tail
-    h2 = [i for i, l in enumerate(lines) if l.startswith("## ")]
     target = None
-    for n, i in enumerate(h2):
-        if lines[i].strip() == "## 实证数据":
-            target = h2[n + 1] if n + 1 < len(h2) else None
-            if target is None:
-                break
-    if target is None and not any(lines[i].strip() == "## 实证数据" for i in h2):
-        for i in h2:
-            if lines[i].strip() in {"## 领域应用", "## 相关研究"}:
-                target = i
-                break
     if target is None:
-        # No section headings (callout-only layout): place after the last
-        # top-level empirical table callout, else before the related-studies
-        # evidence callout, else at the end of the note.
+        # Callout-only layout: after the last top-level empirical table callout,
+        # else before the related-studies evidence callout, else at the end.
         starts = [i for i, l in enumerate(lines) if re.match(r"^> \[!(effect-table|ma-table|ref-table)\b", l)]
         if starts:
             j = starts[-1] + 1

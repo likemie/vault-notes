@@ -434,17 +434,16 @@ def update_overview_block(block: list[str], chapters: list[Chapter]) -> tuple[li
 
 
 def insert_overview_block(lines: list[str], chapters: list[Chapter]) -> list[str]:
-    for i, line in enumerate(lines):
-        if line.strip() == "## 总览":
-            insert_at = i + 1
-            while insert_at < len(lines) and lines[insert_at].strip() == "":
-                insert_at += 1
-            while insert_at < len(lines) and not lines[insert_at].startswith("## "):
-                if lines[insert_at].startswith("> [!"):
-                    break
-                insert_at += 1
-            return lines[:insert_at] + ["", *default_overview_block(chapters)] + lines[insert_at:]
-    return lines + ["", "## 总览", "", *default_overview_block(chapters)]
+    """No ``## 总览`` heading: the titled ``[!textbook-overview]`` callout carries the section.
+    Insert it before ``## 章节`` (or ``## 来源``), else at the end of the note."""
+    for name in ("## 章节", "## 来源", "## Sources"):
+        for i, line in enumerate(lines):
+            if line.strip() == name:
+                cut = i
+                while cut > 0 and lines[cut - 1].strip() in {"", "---"}:
+                    cut -= 1
+                return lines[:cut] + ["", *default_overview_block(chapters), ""] + lines[cut:]
+    return lines + ["", *default_overview_block(chapters)]
 
 
 def discover_book_overviews() -> list[BookOverview]:

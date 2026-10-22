@@ -270,7 +270,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 MetaX 数据只存在 `metax/`，条目中的 MetaX 模块（一组 `[!metax]` callout）由 `scripts/metax_sync.py` 生成，不手写、不手改。
 
-- 位置：模块不设标题（避免全库出现同名标题），放在实证数据表格 callout（`[!effect-table]` / `[!ma-table]` / `[!ref-table]`）之后；没有实证表格时放在“相关研究”证据卡之前，否则放在正文末尾。挂载模块的条目自动加 tag `metax`，卸载时自动移除。
+- 位置：模块不设标题（避免全库出现同名标题），作为实证数据组的第一项，放在第一张实证表格 callout（`[!effect-table]` / `[!ma-table]` / `[!ref-table]`，以表内 marker 识别）正前方；没有实证表格时放在 `[!evidence-grid-a] 相关研究索引` 之前，否则放在正文末尾。不依赖任何章节标题。挂载模块的条目自动加 tag `metax`，卸载时自动移除。
 - 结构：`[!metax]` 总览（标题为“中文名 · 英文名”的 MetaX 原页链接，兼作模块标识；下一行为领域 › 子领域）→ `[!metax-ma]-` 元分析列表（默认折叠）→ 仅在 `errata.json` 有该因素条目时出现 `[!metax-errata]`。
 - 卡片只写 APA 短引用、变量与数字；篇名、期刊、完整作者只存 `metax.json`。眉标与表头中文由 CSS 生成，Markdown 表头只写代号（`rate ma k n m d du rob` / `ref var k n m d e`；`d` 为按研究数加权的平均效应量，即 MetaX 总览值；`du` 为未加权平均，即 MetaX 明细合计行的值）。因素名、领域、子领域与影响判定按 `metax/zh.json` 译为中文；影响判定显示为评级星（★★★★ 显著加速 … ▼ 负向影响），稳健性显示为 ●○ 五点。
 - `[!metax*]` 整块不参与普通补链和 APA 引用补链。块内引用链接只由 `metax_sync.py` 写入：年份、第一作者姓氏与篇名（或 DOI）一致才链接；作者年份相同但篇名不同记为 `collision`，永不链接，并写入 `citation_ambiguous.json` 的 `external`。新入库的元分析 Argument 在下一次 `vault_index.py` 后自动链接到所有收录它的模块。

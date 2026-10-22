@@ -523,7 +523,8 @@ updated: 2026-10-21
   - 亚组表每页一张：`> [!ma-table]- 亚组与调节分析` + `concept-subgroup-table-marker`，列为 `研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验`，同一研究只在首行写研究名、同一调节变量只在首行写变量名与指标，其余留空（留空即沿用上一行）。旧版 `concept-meta-moderator-table-marker` / `concept-second-order-role-subgroup-marker` 亚组表不再新建。
   - 有数据但不是效应量的结果（百分位提升、成功率、计票比例、检验统计量、测量效度相关）放进“其他实证结果（无效应量）”；没有任何数据的纯文字结论和词频、提及次数这类表层计数不写进实证表格。只有样本量、结果栏仍是文字的行同样不写（lint 拦截新增的无数据行）。
   - 写完运行 `python3 scripts/effect_table.py --write <文件>` 生成效应条（统一换算到 $d$ 尺度，只决定条长，单元格仍显示原始数值；换算值显示为斜纹，界值末端渐隐）；`vault_lint.py` 会检查指标、数值格式和效应条是否与数值一致。
-- **`|notitle`**：两种情况加 `|notitle`，只显示眉标：① 不写标题的组件（如 `> [!entry-map|notitle]`），避免 Obsidian 自动补出与眉标重复的类型名；② callout 标题与紧邻的上方章节标题相同（或只多“索引／矩阵／汇总”等字），如 `## 相关研究` 下的 `> [!evidence-grid-a|notitle] 相关研究索引`。提示类（info／note／warning 等）加 `|notitle` 时整行标题隐藏。同一章节下有多个 callout、各自标题区分内容时（如“主要著作”与“思想发展”），保留标题。
+- **废止的章节标题（2026-10-22）**：`## 相关研究`、`## 领域应用`、`## 总览`、`## 实证数据`、`## 条目关联`、`## 相关条目` 不再使用（lint `RETIRED_HEADING` 报错）。章节名写进 callout 标题：`[!evidence-grid-a] 相关研究索引`、`[!entry-map] 条目关联`、`[!area-map] 领域应用`、`[!textbook-overview] 章节总览`；实证表格由表内 marker 识别。脚本只依赖 `## 来源`。标题下不写“……如下”“与……紧密相连：”之类的引导句。
+- **`|notitle`**：callout 标题与紧邻的上方章节标题相同（或只多“索引／矩阵／汇总”等字）时加 `|notitle`，只显示眉标。`[!entry-map]`、`[!evidence-grid-a]` 一律写标题，不加 `|notitle`。提示类（info／note／warning 等）加 `|notitle` 时整行标题隐藏。同一章节下有多个 callout、各自标题区分内容时（如“主要著作”与“思想发展”），保留标题。
 - **折叠统一规则（2026-10-21）**：只有以下几类写 `-` 默认折叠，其余一律不加 `-` / `+`：
   - 解读类：`[!exegesis]-`、`[!implication]-`、`[!result-reading]-`
   - 推理与边界：`[!warrant]-`、`[!boundary]-`
