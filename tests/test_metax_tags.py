@@ -21,7 +21,7 @@ class MetaXTagTests(unittest.TestCase):
 
     def test_indentless_list_and_mixed_indent_failure(self):
         self.check_tags("tags:\n- theme/cross-cultural\n- level/k12", ["theme/cross-cultural", "level/k12", "metax"])
-        self.check_tags("tags:\n  - metax\n- theme/cross-cultural\n- level/k12", ["theme/cross-cultural", "level/k12", "metax"])
+        self.check_tags("tags:\n  - metax\n- theme/cross-cultural\n- level/k12", ["metax", "theme/cross-cultural", "level/k12"])
 
     def test_indented_comments_duplicates_and_removal(self):
         self.check_tags("tags:\n  # keep this comment\n  - theme/topic\n  - metax\n  - metax", ["theme/topic", "metax"])

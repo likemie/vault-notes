@@ -695,8 +695,9 @@ def set_tag(text: str, present: bool) -> str:
             # Keep quoted scalars intact, including commas within tag strings.
             tokens = re.findall(r"""(?:"(?:\\.|[^"\\])*"|'(?:''|[^'])*'|[^,])+""", flow[1])
             tags = [token.strip() for token in tokens if token.strip()]
-            tags = [tag for tag in tags if tag.strip("\"'") != TAG]
-            if present:
+            if not present:
+                tags = [tag for tag in tags if tag.strip("\"'") != TAG]
+            elif not any(tag.strip("\"'") == TAG for tag in tags):
                 tags.append(TAG)
             lines[start] = "tags: [" + ", ".join(tags) + "]" + flow[2]
         elif value and not value.startswith("#"):
@@ -709,15 +710,18 @@ def set_tag(text: str, present: bool) -> str:
             while end < len(lines) and re.match(r"^[ \t]*(?:- |#|$)", lines[end]):
                 end += 1
             items = []
+            has_tag = False
             for line in lines[start + 1:end]:
                 item = re.match(r"^[ \t]*- (.*)$", line)
                 if item:
                     if re.fullmatch(r"(?:metax|'metax'|\"metax\")(?:[ \t]+#.*)?", item[1].strip()):
-                        continue
+                        if not present or has_tag:
+                            continue
+                        has_tag = True
                     items.append("  - " + item[1])
                 else:
                     items.append(line)
-            if present:
+            if present and not has_tag:
                 items.append(f"  - {TAG}")
             header = lines[start] if any(re.match(r"^  - ", line) for line in items) else "tags: []"
             lines[start:end] = [header, *items]
