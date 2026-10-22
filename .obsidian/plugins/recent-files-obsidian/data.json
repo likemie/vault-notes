@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
+      "basename": "Metacognition",
+      "path": "wiki/concepts/competency-and-assessment/Metacognition.md"
     },
     {
       "basename": "Visible Learning Meta-X",
       "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "Argument_McDonnell_2013_AmJE",
+      "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AmJE.md"
+    },
+    {
+      "basename": "Conectar Igualdad",
+      "path": "wiki/facts/argentina/Conectar Igualdad.md"
+    },
+    {
+      "basename": "Acceleration Programs",
+      "path": "wiki/concepts/curriculum/Acceleration Programs.md"
+    },
+    {
+      "basename": "Locus of Control",
+      "path": "wiki/concepts/educational-psychology/Locus of Control.md"
     },
     {
       "basename": "Argument_Wang_Liang_Chen_2025_CES",
@@ -179,26 +199,6 @@
     {
       "basename": "template-fact-organization",
       "path": "wiki/templates/template-fact-organization.md"
-    },
-    {
-      "basename": "Champ",
-      "path": "wiki/concepts/sociology-of-education/Champ.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "Argument_Verger_2019_Discourse",
-      "path": "wiki/arguments/journal-articles/Discourse Studies in the Cultural Politics of Education/Argument_Verger_2019_Discourse.md"
-    },
-    {
-      "basename": "Alto al SIMCE",
-      "path": "wiki/facts/chile/Alto al SIMCE.md"
-    },
-    {
-      "basename": "Argument_Beech_2015_GSE",
-      "path": "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md"
     }
   ],
   "omittedPaths": [],
