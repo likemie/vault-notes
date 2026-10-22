@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -158,6 +158,7 @@ updated: 2026-10-22
 > - **跨位置流通的过度简化（Oversimplification across Positions）** 国际机构受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将原本充满学术争论的复杂理论删剪为便于技术操作与借贷捆绑的五大支柱标准化模型，并在输出外围国家时依托本土跨界[[Gatekeepers|守门人]]实现垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–353)]]
 > - **微观实践的[[Recontextualization|再情境化]][[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史[[Habitus|惯习]]的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”异化为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
 > - **地缘[[Knowledge Power|知识权力]]中的规范性话语建构（Discursive Power in Transnational Knowledge Governance）** 新兴大国在重构跨国教育与科研合作网络时，依托多边大学联盟、智库对话与联合平台输出以“[[South-South Cooperation|南南合作]]”、“[[Community of Shared Future for Mankind|命运共同体]]”与“非对齐互惠”为核心的规范性话语，对冲西方[[Cosmopolitanism|普世主义]]叙事，为新型多边知识秩序确立正当性基础与议程主导权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1701, 1703–1705)]]
+> - **修辞隐喻的话语规训与认知层级建构（Rhetorical Metaphors & Discursive Framing）** 国际多边机构借助“爵士乐队”、“智能购买”等修辞隐喻建构政策话语网络，将跨国量化综合证据确立为优先认知层级，并通过责任个体化叙事将政策执行受阻归咎于公职人员个人素养短板，完成远处治理与话语规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 346–348)]]
 
 ---
 
@@ -220,6 +221,7 @@ updated: 2026-10-22
 > - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的[[Recontextualization|再情境化]][[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何规训主体，话语被确立为制度性实践。
 > - **2000s–2010s — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争与跨国规范话语博弈** [[Discourse Analysis|话语分析]]进一步拓展至全球南方与地缘知识政治，剖析新兴大国如何依托多边高教联盟构建区别于西方新自由主义规范的替代性话语体系（如“[[South-South Cooperation|南南合作]]”与“互惠共赢”），以生产性/话语性[[Knowledge Power|知识权力]]争夺跨国[[Epistemic Governance|知识治理]]规则的制定权。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1705)]]
+> - **2026 — 超国家政策话语的修辞隐喻与认知等级解构** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 运用解释性政策分析（IPA）揭示经合组织、教科文组织与世界银行官方文本如何借助修辞隐喻建构证据文化，将量化实证普遍化为话语特权，同时将体制阻碍个体化为官员素养短板。
 
 ---
 
@@ -245,3 +247,4 @@ updated: 2026-10-22
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于[[Cultural Political Economy|文化政治经济学]]与三维[[Critical Discourse Analysis|批判话语分析]]框架，考察政策文本作为符号意义建构的运作机制，揭示中国跨境高等教育顶层设计中的跨文本性与[[Interdiscursivity|跨话语性]]实践。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合“[[Belt and Road Initiative|一带一路]]”多边大学联盟案例，剖析新兴大国如何通过倡导[[South-South Cooperation|南南合作]]与共享未来等规范性话语，在跨国高等教育治理中建构话语性[[Knowledge Power|知识权力]]（pp. 1700–1705）。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策话语分析方法比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本，揭示南南教育合作政策话语如何通过对等互惠修辞确立伙伴国主权能动性，并剖析双向话语承诺与单向资源供给之间的结构性张力（pp. 221–228）。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策分析（IPA）剖析经合组织、联合国教科文组织与世界银行官方文本中的超国家话语，揭示修辞隐喻如何建构认知等级与掩饰制度性障碍。

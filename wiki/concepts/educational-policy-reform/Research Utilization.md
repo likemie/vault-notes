@@ -294,6 +294,9 @@ updated: 2026-10-23
 > [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
 > **双重反馈断裂与三维利用治理路径** 针对 103 国教育政策规划的实证审查表明，宏观政策层面的研究利用面临学术生产与决策实践之间、全球集中供给与本土情境需求之间的[[Two Broken Feedback Loops|双重反馈回路断裂]]。决策官员身处快节奏政治应对中，普遍缺乏研读长篇技术报告的时间与技能；克服断裂要求超越单向产品推送，通过适切产品、协同关系与制度使能（法定前置审核与高校考评改革）三维联动，并依托区域支持枢纽重塑政策研究利用生态。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25, 41–42)]]
 
+> [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
+> **超国家话语隐喻、象征性利用与包容性生态重构** 基于对经合组织（OECD）、教科文组织（UNESCO）与世界银行（World Bank）6 份核心政策文本的解释性政策分析，超国家组织通过“爵士乐队”、“智能购买”等修辞隐喻塑造证据文化，将量化综合证据确立为优先认知层级；证据利用在行政实践中常异化为后置合法化的象征性辩护与仪式性重复（如 UNESCO IIEP 诊断建议的年复一年空转），且话语将政策转化阻碍个体化归咎于官员数据素养不足；真正的证据知情决策要求超越单向处方，确立涵盖宏观体制张力与认知正义的包容性证据生态模型。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
+
 ---
 
 ### 命题二　科研知识传播存在信息过载与单向推送无效性，必须转向基于行为科学的需求牵引与能力支持机制
@@ -367,7 +370,7 @@ updated: 2026-10-23
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性、双重反馈断裂与三维治理路径 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
+> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性、双重反馈断裂与三维治理路径 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 > | **知识传播与行为机制** | 单向推送无法克服信息赤字，研究利用依赖基于能力、机会与动机的行为改变支撑 | 证据中介干预设计、教师研修与成果转化 | Caplan (1991); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]; Lord et al. (2017) |
 > | **组织治理与制度塑造** | 跨层治理机制协同影响学校证据使用，高利害问责诱发表演性合规而低利害生态支持反思探究 | 学校组织改进、问责督导制度评估与比较教育治理 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 > | **微观知行与多源整合** | 克服知行脱节需加强技能与阅读输入，教学决策本质是结合育人伦理的多源知识整合 | 教师专业发展、课堂教学决策与校本教研 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]; [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
@@ -391,6 +394,7 @@ updated: 2026-10-23
 > - **2024 — 全球战略审查与三维证据利用路径** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 基于 103 国调查与 654 个平台测绘，诊断学术与政策、全球与本土之间的双重反馈回路断裂，确立产品型、关系型与系统型三维转化路径与区域支持枢纽治理架构。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年文献的赤字[[Discourse|话语]]，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代研究使用理论。
 > - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为[[Performativity|表演性]]辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
+> - **2026 — 超国家政策话语解构与包容性证据生态重塑** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 运用解释性政策分析（IPA）解构经合组织、教科文组织与世界银行官方文本，揭示修辞隐喻对证据文化的建构、量化实证的认识论特权与治理责任个体化倾向，提出整合微观修辞、宏观体制张力与本土认知正义的包容性证据生态理论框架。
 
 ---
 
@@ -425,6 +429,7 @@ updated: 2026-10-23
 > >
 > > - **技术专家与[[Evidence Standards|证据标准]]规训立场（Schneider, 2022）** 强调依托高阶因果证据库与标准化认证机制，严格规范循证干预的遴选与复制推广。
 > > - **证据民主化与实践者主权立场（Tseng, 2022; [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）** 批判外部研究者的采矿式数据索取与技术专家治理对一线专业自主权的侵蚀，主张通过 [[Research-Practice Partnership|RPP]] 共享[[Knowledge Production|知识生产]]权力，确立教师作为证据所有者而非被动消费者的主体地位。
+> > - **认知正义与多源包容立场（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 批判超国家组织将全球量化综合证据（如 GEEAP 智能购买清单）普遍主义化对地方实践情境的压制，主张在决策社群中为本土默会知识与边缘群体开辟审议空间，推进认识论正义。
 
 > [!tension] 核心张力：工具性处方套用 vs 专业[[Phronesis|实践智慧]]整合
 > - **外源处方执行立场（蓝方）** 主张教师应当严格依据高质量实证证据（如 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]处方）标准化重构教学流程，视偏差为忠实度不足。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 131)]]
@@ -469,6 +474,7 @@ updated: 2026-10-23
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]]；常规督导与一次质量审计 | [[Case Study\|工具性个案研究]]，含两个嵌入式迷你个案；半结构化访谈与会议观察 | 研究知识进入督导流程的形态：研究选择、评估领域提炼、知识综述、参考组协商、报告重写 | 常规督导访谈 7 名高层管理组成员和 3 名督导/法律专家，从成功学校研究提炼约 10 个评估领域；质量审计访谈 2 名研究者、观察 2 次参考组会议，最终报告删除参考组讨论的课程解释 | 不适用（[[Qualitative Research\|质性研究]]，不作统计推断） | 揭示研究使用是组织内部的选择与文本化链条，机构没有统一的选择政策，最终文本决定哪些知识进入治理（pp. 645–654） |
 > | 同上 | $N = 258$（读刊+做研究 $n=38$；不读刊+不做研究 $n=141$） | 双重支持组 vs 完全缺失组 | 教师研究使用（Research Use） | 双重支持组 $M=4.19 (SD=0.60)$；完全缺失组 $M=3.63 (SD=0.63)$ | $p < .01$ | 揭示双重行为支持下的显著梯级表现（使用均分突破 4.1） |
 > | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a, pp. 21–25)]] | 覆盖 103 国 898 名政策受访者的全球调查及 33 名[[Elite Interview\|关键知情人访谈]] | 全球网络问卷调查与关键知情人访谈 | 证据平台网络连接、政策利用瓶颈与制度支持形态 | 识别出 654 个证据平台，54% 属国家级且与国际平台处于孤立状态（网络离散度 0.99，含 121 个完全孤立组件）；74% 平台未与任何中介网络链接；62% 部委官员报告缺乏解读技术性报告的时间与能力 | 全球五大区域覆盖 | 实证确立全球[[Surplus of Evidence\|证据过剩]]与国家决策吸纳不足并存的结构性悖论，确立区域支持枢纽与产品-关系-系统三维治理路径必要性 |
+> | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | 经合组织（OECD）、联合国教科文组织（UNESCO）与世界银行（World Bank）2020–2025 年间 6 份核心政策文本 | [[Interpretive Policy Analysis\|解释性政策分析]]（IPA）与扎根主题编码 | 超国家证据使用话语建构、修辞隐喻与制度使能条件 | 识别出爵士乐队、智能购买等核心修辞隐喻；诊断出实证建议年复一年雷同的仪式性重复与执行鸿沟（如 UNESCO IIEP 2025, p. 2）；提出包含四重宏观张力的包容性证据生态模型 | — | 质性文本解释性分析，揭示超国家话语在建构认知等级与掩盖结构性缺陷中的运作机制（pp. 343–351） |
 
 ---
 
@@ -488,4 +494,5 @@ updated: 2026-10-23
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被[[Performativity|表演性]]利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为个案，追踪研究如何被选择、转译为常规督导评估领域，在质量审计中被协商并于定稿前被重写，揭示组织权力与规程文本化。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 针对[[UN Sustainable Development Goals|可持续发展目标]] 4 提出产品型、关系型与系统型三条证据利用变革路径，借助公共卫生对照揭示研究与决策、全球与本土之间的双重反馈回路断裂，并确立区域枢纽治理架构。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策分析（IPA）剖析经合组织、联合国教科文组织与世界银行官方政策文本，解构超国家证据使用话语的修辞隐喻、认知等级与个体化倾向，重构包容性证据生态模型。
 
