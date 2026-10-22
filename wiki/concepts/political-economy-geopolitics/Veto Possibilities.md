@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 否决可能性（Veto Possibilities）
 > **否决可能性（Veto Possibilities）** 指政治宏观体制赋予维持现状阵营阻挠、封杀正式法律修改或实质政策重组的结构化能力。该概念由[[James Mahoney|马奥尼]]与希伦吸收并扩展[[George Tsebelis|乔治·茨贝利斯]]（George Tsebelis）的否决玩家理论建构而成；不仅涵盖宪法与议会体制中否决玩家（Veto Players）的数量与制度性否决点（Veto Points）分布，更取决于这些行动者是否拥有维持现状的主观利益偏好，以及该否决权在特定政策领域的特异性，构成判定制度渐进变迁路径的宏观政治[[Independent Variable|自变量]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
 
 > [!concept-lens] 概念透镜

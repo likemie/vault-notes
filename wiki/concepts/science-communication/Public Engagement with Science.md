@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 公众科学参与（Public Engagement with Science）
 > 公众科学参与是指科学界、科研人员与多元公众之间进行的双向（Two-way）、对话驱动和参与式的互动形态，强调倾听公众关切、共同探讨科技的伦理与社会影响，并将科学传播确立为科研全生命周期（Research Lifecycle）的内在组成部分。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 8–10, 14)]]
 
 > [!concept-lens] 概念透镜

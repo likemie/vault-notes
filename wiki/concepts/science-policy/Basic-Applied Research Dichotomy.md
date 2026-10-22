@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 基础/应用研究二分法（Basic-Applied Research Dichotomy）
 > 基础/应用研究二分法（Basic/Applied Research Dichotomy）是二战后主导全球尤其是美国科技体制建设的核心分类[[Paradigm|范式]]。该范式以科研人员开展工作当下的**初始主观动机**为判据，将科研活动划分为追求纯粹客观规律认知的基础研究与满足现实功用目的的应用研究，预设二者存在不可逆的单向传导秩序：基础研究在自由探索中产出新科学定律，进而单向流入应用研究并转化为工业技术。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年报告[[Science, The Endless Frontier 1945]]中将此确立为国家科技体制基石，规定政府公共财政仅对[[Market Failure|市场失灵]]的纯基础研究承担资助义务，应用开发则交由私营市场。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 
 > [!concept-lens] 概念透镜

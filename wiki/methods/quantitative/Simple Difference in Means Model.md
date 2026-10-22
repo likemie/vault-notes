@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 简单均值差异模型（Simple Difference in Means Model）
 > **简单均值差异模型（Simple Difference in Means Model）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）与两组比较实验中最直观、最基础的[[Counterfactual\|反事实]]因果估计模型。在完全[[Random Assignment\|随机分配]]的前提下，该模型直接以处理组（Treatment Group）[[Pre-test and Post-test\|后测]]结果的样本均值减去对照组（Control Group）后测结果的样本均值，作为干预对[[Study Population and Sample\|目标总体]]的平均处理效应（Average Treatment Effect, [[Advanced Technological Education|ATE]]）的无偏点估计。模型不纳入任何基线协[[Variable\|变量]]（如学生前测成绩或家庭背景特征），完全依赖随机化机制在期望上抹平两组基线差异。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围

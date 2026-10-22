@@ -40,7 +40,7 @@ created: 2026-07-13
 updated: 2026-10-16
 ---
 
-> [!def] 前测与后测
+> [!def] 前测与后测（Pre-test and Post-test）
 > 前测（Pre-test）和后测（POST-test）是[[Experimental Research\|实验研究]]中两个关键的测量时间点：**前测**在干预开始前测量，用于建立基线、验证组间等价性；**后测**在干预结束后测量，用于评估干预对[[Dependent Variable\|因变量]]的效应。在[[Pretest-Posttest Control Group Design\|前后测控制组设计]]中，因果效应被量化为 (E₁−E₂) − (C₁−C₂)（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 314, 334–335]]）。
 
 > [!concept-lens] 前测与后测在[[Causality\|因果推断]]中的功能

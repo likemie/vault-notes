@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 多变量方差分析（Multivariate Analysis of Variance）
 > **多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（Multivariate Analysis of Variance, MANOVA）** 是一种拓展单变量[[Analysis of Variance\|方差分析]]（ANOVA）的多[[Metainferences\|元推断]]统计方法。它用于在一个或多个分类[[Independent Variable\|自变量]]（因子）的设计下，同时评估多个连续[[Dependent Variable\|因变量]]构成的向量均值在各组间是否存在显著差异。通过将多个相关因变量线性组合为一个或多个综合潜变量，MANOVA 能够在最大化组间变异与组内变异比率的同时，有效控制多重检验导致的族系一类错误率膨胀，并捕捉单个因变量无法单独显现的多维交互结构。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 315–317)]]
 
 > [!method-scope] 方法范围

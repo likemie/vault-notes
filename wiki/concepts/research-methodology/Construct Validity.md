@@ -103,7 +103,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 构念效度（Construct Validity）
 > **[[Construct\|构念]]效度（Construct Validity）** 指实证研究中测量工具、实验操纵、质性分析范畴或制度评价体系在多大程度上真正表征并精确测量了理论所预设的抽象构念（Construct），以及所得实证证据能否充分支持研究者做出的理论解释与分类断言([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, pp. 176–177]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
 >
 > 构念效度的判定不仅要求[[Operationalization\|操作化]]与理论定义相吻合，还要求通过**多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）** 检验[[Convergent and Discriminant Validity\|收敛效度]]与判别效度，主动搜寻可能[[Falsification\|证伪]]当前解释的反例，并系统防范**构念不足呈现（Construct Underrepresentation）** 与**构念无关方差（Construct-Irrelevant Variance）**([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 225]])。

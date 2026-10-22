@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 程序虔敬（Procedural Piety）
 > **程序虔敬（Procedural Piety）**，源自[[Alexander Karp|亚历山大·卡普]]（Alexander C. Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas W. Zamiska）在《[[Technological Republic|技术共和国]]》第 16 章《虔敬及其代价》（*Piety and Its Price*）中的核心论断，是指现代官僚体制与公共文化中将**行政程序合规、透明性公关与道德纯洁性表演**视作绝对神圣教条，进而压制、遮蔽和取代**物理世界实质战略产出**的制度与认知病理。该机制一方面将公职人员预设为无需物质激励的禁欲[[Sage|圣人]]以维持形式廉洁，导致公共部门人才贫困；另一方面借由微小的微观合规瑕疵对具备非凡开拓能力的实干领袖发起道德猎巫，通过[[Scapegoat Mechanism|替罪羊机制]]卸载体制深层的战略无能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 179–189)]]
 
 > [!concept-lens] 概念透镜

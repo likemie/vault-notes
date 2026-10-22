@@ -86,12 +86,12 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 外部效度（External Validity）
 > 外部效度（External validity）指研究结果能够**推广（generalize）** 到更广泛总体、案例、情境、时间或环境的程度——即**可迁移性（transferability）**。在[[Experimental Research\|实验研究]]中，它衡量实验结果能否推广到[[Study Population and Sample\|研究样本]]以外的其他人群、其他情境以及过去或未来的时间点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 168]]；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜

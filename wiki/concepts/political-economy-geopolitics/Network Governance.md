@@ -118,7 +118,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 网络治理（Network Governance）
 > 网络治理（Network Governance，亦称网络化治理）指公共政策的议程设置、资源调配与服务交付不再单纯依赖单一的垂直韦伯式官僚科层（Hierarchy）或纯粹自发的私有市场价格机制（Market），而是由政府部门、商业咨询机构、慈善基金会、非营利组织与专业社群构成的横向交错、多边协商与互赖共生的网络所主导（Thompson, 1991; [[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rambla_2022_Springer|Rambla, 2022, p. 172]]）。在当代批判教育政治经济学与演化创新政策视阈中，网络治理并不意味着民族国家治理权威的“空心化”（Hollowing out）退场，而是表现为国家治理形态的异层化（Heterarchical）重塑——国家演进为积极协调、立法特许、定向注资并缔造市场的[[Policy Brokerage|政策经纪人]]与制度担保人，或转型为通过去中心化探索网络引领跨部门协同攻坚的使命催化者。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!concept-lens] 概念透镜

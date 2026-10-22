@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 区域创新系统（Regional Innovation System）
 > 区域[[Systems of Innovation|创新系统]]（Regional Innovation System, RIS）指在特定的次国家（Sub-national）地理空间范围内，由地理上彼此邻近的企业、大学、科研院所、金融中介与地方公共治理机构构成的互动学习网络。该概念强调创新绩效高度取决于地理集聚带来的高频面对面接触、[[Tacit Knowledge|隐性知识]]溢出、熟练专业劳动力市场池以及深植于地方文化中的制度厚度（Institutional Thickness）与社会信任资本，构成了[[National Innovation System|国家创新系统]]在微观地理层面的实质承载底座。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]
 
 > [!concept-lens] 概念透镜

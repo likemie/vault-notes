@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识交流（Knowledge Exchange）
 > **知识交流（Knowledge Exchange, KE）** 指大学、公共研发机构与产业界、政府及更广泛社会主体之间，通过多渠道、正式与非正式机制进行知识、技能与专长双向互动的系统性过程。它不仅包含[[Technology Transfer|技术转移]]所聚焦的知识产权许可与衍生企业创设，更涵盖合同研究、人员双向流动、联合设施共用及非正式网络互动；[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 42–46)]] 在创新经济学与产业组织视角下，高频的知识交流构成了产业集群[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）的核心内生载体，对于复杂工程制造中的隐性诀窍（[[Tacit Knowledge]]）扩散具有不可替代的作用。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 82–83, 102–103)]]
 
 > [!concept-lens] 概念透镜

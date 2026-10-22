@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 数据缩减（Data Reduction）
 > 数据缩减（Data Reduction）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]中与[[Data Display\|数据展示]]、结论得出/验证并行的三大核心分析流之一，指在整个研究生命周期中对质性[[Field Notes\|田野笔记]]、访谈[[Transcription in Qualitative Research\|转录]]稿或其他书面材料进行选择、聚焦、简化、抽象与转化的持续过程。质性数据体量庞大且具有非结构化特征，极易引发数据过载（data overload）危机；数据缩减并非在收集结束后才独立发生的机械删减，而是从研究设计阶段即已启动，并通过单位化（unitizing）、[[Open Coding\|开放编码]]、层级归并、备忘录撰写以及[[Data Display\|数据展示]]贯穿始终的质性提炼机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
 
 > [!concept-lens] 概念透镜

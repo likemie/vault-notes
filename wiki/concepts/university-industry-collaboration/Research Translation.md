@@ -153,7 +153,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究转化（Research Translation）
 > **研究转化（Research Translation，在社会科学与教育学中亦称知识转译 Knowledge Translation）** 指将科学研究发现、理论假说和实验室成果转化为实际技术产品、教学干预方案、法定督导常模、国家重大战略[[Technological Trajectories|技术轨道]]、宏观公共政策条文、本土实体制造能力或国家安全与公共治理战略交付的多阶段跨界过渡系统。
 >
 > 该[[Construct|构念]]在当代跨学科[[Knowledge Mobilisation|知识动员]]与国家创新治理研究中包含七个互补的应用[[Champ|场域]]：

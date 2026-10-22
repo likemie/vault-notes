@@ -36,7 +36,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 核心定义
+> [!def] 回译（Back Translation）
 > 回译（Back translation）是跨文化研究中验证翻译工具效度的标准技术（Brislin, 1970; Vallerand et al., 1992; Banville et al., 2000; Cardinal et al., 2003）。其基本逻辑是：将原始语言版本翻译为目标语言后，交由**未见过原始版本**的第三方将译文回译为原始语言，然后比较两个原始语言版本——如果意义一致，译文可接受；如果不一致，译文需要修改。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 183–184)]]
 
 > [!concept-lens] 概念透镜

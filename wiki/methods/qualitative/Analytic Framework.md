@@ -108,7 +108,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 分析框架（Analytic Framework）
 > 分析框架（Analytic Framework）是在[[Qualitative Research|质性研究]]与比较制度分析中，运用已有文献中成熟的“分析传统”（analytic tradition）或理论预设作为解释结构，对田野资料、访谈文本、历史档案或跨国政策进行系统编码、维度拆解与因果解释的方法学路径。它超越参与者的日常经验叙述，为经验材料提供更具理论解释力和结构张力的分析支架。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
 
 > [!method-scope] 方法范围

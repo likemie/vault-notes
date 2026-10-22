@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 全盘教育化社会（Totally Pedagogised Society）
 > 全盘教育化社会（Totally Pedagogised Society，TPS）是教育社会学与[[Critical Pedagogy\|批判教育学]]核心概念，由 [[Basil Bernstein]] 于 2001 年提出。它指教育与教学关系（pedagogic relations）超越 19、20 世纪传统的学校与大学围墙边界，弥散并系统性嵌入至整个社会生活、家庭日常以及工作空间中的社会形态。[[Robert Cowen]] 将其引入比较教育前瞻分析中，用以批判性审视 21 世纪后期由先进技术与新社会监控模式主导的无缝控制网络。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 
 > [!concept-lens] 概念透镜

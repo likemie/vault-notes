@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 成对瓦尔德检验（Pairwise Wald Tests）
 > 成对 Wald 检验（Pairwise Wald Tests）是在[[Meta-analysis\|元分析]]分类[[Moderator Analysis\|调节变量分析]]中，用于检验三个或更多亚组之间两两成对[[Effect Size\|效应量]]估计值是否存在统计学显著差异的参数推断方法。在基于混合效应模型或[[Random-Effects Model\|随机效应模型]]的亚组分析中，当组间[[Heterogeneity\|异质性]]总检验（$Q_{between}$）表明存在实质性变异时，成对 Wald 检验通过对比成对亚组效应量差值与联合抽样[[Standard Error\|标准误]]的比率，构建服从自由度为 1 的卡方分布（$\chi^2$）统计量，从而精确判定具体哪些亚组之间存在真实且显著的效能级差。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 9–10)]]
 
 > [!method-scope] 方法范围

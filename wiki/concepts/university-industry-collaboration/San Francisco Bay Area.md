@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 旧金山湾区（San Francisco Bay Area）
 > 旧金山湾区（San Francisco Bay Area）是指位于美国加利福尼亚州北部、以旧金山湾为中心的大都市区域与全球顶尖的科技创新高地。该区域以硅谷（Silicon Valley）为高新技术产业核心，汇聚了斯坦福大学（Stanford University）与加利福尼亚大学伯克利分校（University of California, Berkeley）等顶尖学府及多个国家实验室。在制度层面，旧金山湾区凭借加州法律禁止劳动合同竞业禁止条款的制度红利、稠密的企业衍生网络（如[[Fairchild Semiconductor|仙童半导体]]衍生的半导体群落）、成熟的高校[[Technology Transfer|技术转移]]与孵化机制、多层次风险投资体系以及跨行政辖区的专业公共协调委员会，自下而上自发演化出高度灵活、容忍失败且协同紧密的区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]; [[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]
 
 > [!concept-lens] 概念透镜

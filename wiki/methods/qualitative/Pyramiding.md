@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 金字塔法（Pyramiding）
 > 金字塔法（pyramiding）是 Landfield（1971）开发的以单一个人为元素的[[Construct\|构念]]引发技术：从该人的一个特征出发，通过追问"还能告诉我什么"横向展开描述，而不是向上追溯蕴含关系。程序从 1 个元素产生 2 个构念极点、再产生 4 个、最终 8 个，形成金字塔结构。Landfield 将其视为纯质性工具，服务于心理治疗过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011, p. 9)]]
 
 > [!method-scope] 方法范围

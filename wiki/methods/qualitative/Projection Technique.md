@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 投射技术（Projection Technique）
 > 投射技术是一种让个体通过外部媒介投射自身观点、价值观、感受和身份的资料收集与探索技术。它存在两种主要实现形态：一是面向儿童和边缘群体的经典低技术版本（图片、玩偶、手偶、画画、场景照片等），通过间接方式让受访者在安全距离外表达内在世界；二是面向[[Virtual World\|虚拟世界]]研究的高技术版本，参与者通过[[Virtual World\|虚拟世界]]中的[[Avatar\|化身]]将内在世界[[Externalization\|外化]]，投射、分享和评论观点（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 459–460]]）。
 
 > [!method-scope] 方法范围

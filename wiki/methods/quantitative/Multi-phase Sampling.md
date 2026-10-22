@@ -35,7 +35,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 方法定义
+> [!def] 多阶段抽样（Multi-phase Sampling）
 > 多[[Stage Sampling\|阶段抽样]]（Multi-phase Sampling）是一种各阶段目的不同的[[Random Sampling\|概率抽样]]方法。与[[Stage Sampling\|阶段抽样]]全程贯穿单一统一目的不同，多阶段抽样在每个阶段基于不同标准选取样本——如第一阶段基于地理标准，第二阶段基于经济标准，第三阶段基于政治标准。每个阶段的样本总体都会随之变化。
 
 > [!method-scope] 方法范围

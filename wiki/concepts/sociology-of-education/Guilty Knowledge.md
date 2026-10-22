@@ -28,7 +28,7 @@ created: 2026-06-22
 updated: 2026-09-11
 ---
 
-> [!def] 核心定义
+> [!def] 有罪知识（Guilty Knowledge）
 > 有罪知识（guilty knowledge）指研究者在[[Sensitive Research\|敏感研究]]中，因接触越轨群体或秘密行为而持有的、可能给研究者和参与者双方带来个人与职业风险的知识（De Laine, 2000, p. 67）。这一概念与 Klockars (1979) 的"肮脏之手（dirty hands）"密切相关——研究者在知晓越轨行为或反态度时，自身也陷入了伦理困境（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 209]]）。
 
 > [!concept-lens] 概念透镜

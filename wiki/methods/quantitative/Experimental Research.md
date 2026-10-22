@@ -94,7 +94,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 实验研究（Experimental Research）
 > **实验研究（Experimental Research）** 是一种旨在确定某一特定处理或干预条件是否对[[Dependent Variable|结果变量]]产生因果效应的量化实证研究设计。其核心操作机制在于由研究者主动操纵[[Independent Variable|自变量]]（给予处理组特定干预、对照组不予处理或给予常规对照），通过[[Random Assignment|随机分配]]（Random Assignment）控制外生混淆[[Variable|变量]]，并通过比较各组在[[Dependent Variable|因变量]]上的测量差异来评估净因果效应（Keppel, 1991; [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, 第 8 章]]）。
 
 > [!method-scope] 方法范围

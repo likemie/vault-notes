@@ -43,7 +43,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-> [!def] 备择假设（Alternative [[Hypothesis]]）
+> [!def] 备择假设（Alternative Hypothesis）
 > 备择假设是正式假设检验中预测[[Variable\|变量]]间存在显著关系的假设形式，通常写作 H₁。备择假设通常在[[Null Hypothesis\|零假设]]被拒绝时得到支持——即如果[[Null Hypothesis\|零假设]]不被支持，则备择假设被支持（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]）。
 
 > [!concept-lens] 概念透镜

@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 共同方法变异（Common Method Variance）
 > 共同方法变异（Common Method Variance, CMV）是指由测量方法本身、而非所测[[Construct\|构念]]的真实差异造成的系统方差。当两个或多个构念使用同一种测量方法（尤其是同一份自陈[[Questionnaire\|问卷]]）获得数据时，测量方法共享的方法成分成为共同来源，使观察到的构念间相关被系统性放大，可能产生虚假或偏高的关系估计。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 9)]]
 
 > [!concept-lens] 概念透镜

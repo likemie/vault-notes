@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 东京湾区（Tokyo Bay Area）
 > 东京湾区（Tokyo Bay Area，亦称产业湾区）是指位于日本关东地区、围绕东京湾展开的世界级产业与科技创新都市圈。该区域早前以京滨、京叶传统重化工业为主，经过多年转型升级形成以现代服务业为主导、高端精密制造业为支撑的复合型产业结构。东京湾区聚集了丰田、佳能、索尼等世界 500 强企业，以及东京大学、筑波大学等知名学府。依托自 20 世纪 60 年代实施的国家级“工业分散”战略、亚洲著名的[[Tsukuba Science City|筑波科学城]]国家级研发基地、企业主导的产官学联合培养、海外人才引进机制（如[[300,000 Foreign Students Plan|留学30万人计划]]）以及《[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]》（[[Technology Transfer Office|TLO]] 法），形成了独具特色的“工业 + 研发 + 政府”三位一体区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!concept-lens] 概念透镜

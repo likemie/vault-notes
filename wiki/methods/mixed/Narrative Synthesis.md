@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 叙事综合（Narrative Synthesis）
 > 叙事综合（Narrative Synthesis）是一种在[[Systematic Review\|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity\|异质性]]文献证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 136–138)]]
 
 > [!method-scope] 方法范围

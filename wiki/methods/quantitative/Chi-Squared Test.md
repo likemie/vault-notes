@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 卡方检验（Chi-Squared Test）
 > 卡方检验（Chi-Squared Test, $\chi^2$ test）是一族基于卡方分布（$\chi^2$ distribution）对类别[[Variable\|变量]]（categorical variables）的频数数据进行推断统计的非参数假设检验方法。其核心机制在于比较实际观测频数（Observed Frequencies, $O$）与在原假设（[[Null Hypothesis\|零假设]] $H_0$）成立条件下的理论期望频数（Expected Frequencies, $E$），通过构建两者偏差平方加权和的 $\chi^2$ 统计量，评估观测分布与理论分布的偏离程度或检验两个类别变量之间是否存在统计学关联。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
 
 > [!method-scope] 方法范围

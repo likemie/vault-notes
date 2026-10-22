@@ -31,7 +31,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 核心定义
+> [!def] 追问提示（Probes）
 > 追问（Probes）是[[Qualitative Interview\|质性访谈]]中嵌入[[Interview Protocol\|访谈协议]]的提示语，用于提醒研究者要求受访者扩展、详细说明、增添细节、澄清或限定其回应。追问解决数据收集中的丰富性、深度、全面性和诚实性问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 433–435]]）。
 
 > [!concept-lens] 概念透镜

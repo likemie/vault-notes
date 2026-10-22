@@ -35,7 +35,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 聚焦访谈（Focused Interview）
 > 聚焦访谈（Focused Interview）由 Merton and Kendall（1946）发展，是位于[[Non-directive Interview\|非引导性访谈]]和结构化访谈之间的方法。其独特之处在于：被访谈者已知参与过特定情境（如看过电影、读过文章、参与过社会事件），研究者通过[[Content Analysis\|内容分析]]预先分析了该情境中认为重要的元素并形成假设，以此为基础构建访谈指南。实际访谈聚焦于被访者对该情境的主观经验，回应用于检验假设并发现未预期回应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 468–469]]）。
 
 > [!method-scope] 方法范围

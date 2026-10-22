@@ -67,12 +67,12 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 大构想饥荒（Big Idea Famine）
 > **大构想饥荒（Big Idea Famine / 科技野心衰退）** 是由麻省理工学院（Massachusetts Institute of Technology, MIT）媒体实验室联合创始人[[Nicholas Negroponte|尼古拉斯·尼葛洛庞帝]]（Nicholas Negroponte, 2018）等学者提出的科技[[Innovation Ecosystem|创新生态]]诊断[[Construct|构念]]，指当代科技创业界与工程师群体在短期商业资本套利、避险文化规训以及反国家建制思潮的共同塑造下，集体放弃需要长期攻坚的硬核科学发现、基础物理工程制造与重大国家战略挑战，转而将全社会最顶尖的智力与财务资源高度集中于点餐外卖、日用品分销、网约叫车、修图社交与屏幕广告推荐算法等浅层消费类应用（App）的系统性异化趋势。
 > 
 > 在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的系统批判中，大构想饥荒并非单纯的商业偏好，而是经历了深刻的思想史与社会学演化：从 1970 年代[[Counterculture Computing|反文化计算]]将国家定性为“缺陷系统”并解构国家共同体认同，到 1990 年代末以 eToys 为代表的[[Dot-Com Bubble|互联网泡沫]]推行故意快速亏损以抢占微观消费品分销渠道的无差别狂热，再到 2010 年代高等教育择优体制引发的[[Elite Overproduction|精英生产过剩]]——拥有名校文化资质却缺乏实质财富的年轻工程师，将工程才智内卷于开发[[Lifestyle Technology|生活方式科技]]以在屏幕上为自身及同温层模拟贵族仆役特权。大卫·[[David Graeber|格雷伯]]（[[David Graeber]]）尖锐指出，这种以数字通信协议表面重组为特征的[[Technological Pastiche|技术拼贴]]（Technological Pastiche）背叛了 20 世纪中叶关于飞行汽车、清洁核聚变与星际基地的物理世界承诺，使全社会在信息通信局部繁荣的表象下陷入宏观[[Total Factor Productivity|全要素生产率]]停滞与文明雄心衰退。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–50)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 97–102)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 103–111)]]

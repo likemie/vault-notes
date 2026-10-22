@@ -66,7 +66,7 @@ aliases:
 
 ---
 
-> [!def] 核心定义
+> [!def] 需求侧创新政策（Demand-side Innovation Policy）
 > **需求侧创新政策（Demand-side Innovation Policy / 需求拉动型创新政策）** 是指公共部门通过利用公共采购促进创新（Public Procurement of Innovation, [[Patient and Public Involvement|PPI]]）、预商用采购（Pre-Commercial Procurement, PCP）、技术规制与能效标准设立、消费者补贴、前沿示范工程以及先导市场（Lead Markets）培育等一系列制度性工具，[[Assertiveness|主动表达]]、汇聚、创造并定向引导对前沿产品与服务的市场需求，从而在技术生命周期早期化解巨大的市场不确定性，加速创新成果商业化与系统扩散的公共政策总称（Edler & Georghiou, 2007）。在科技政策与[[Evolutionary Economics|演化经济学]]演进中，需求侧政策被视为打破传统仅重视供给端研发资助（R&D Push）单一路径的决定性制度杠杆。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）强调，从冷战时期美国军方采购奠定半导体产业基石，到 21 世纪应对气候挑战的绿色政府采购，需求侧创新政策始终是国家实现[[Tilting the Playing Field|倾斜竞争场地]]与[[Market Shaping and Creating|市场塑造]]与创造的核心物质基础。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 
 > [!concept-lens] 概念透镜

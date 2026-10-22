@@ -42,10 +42,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-06-20
+updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 研究可行性（Research Practicability）
 > 研究可行性（research practicability）指研究在实际约束条件下是否可以完成的综合评估，是研究者想做什么与实际上能做什么之间的差距管理。许多新手研究者怀着无知的天真乐观（the innocence and optimism of ignorance），相信自己想做的一切都能做到——事实远非如此。在制定详细研究计划之前，必须先检查实际情况，否则计划可能因为无法获得准入而毫无意义（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
 > [!concept-lens] 概念透镜

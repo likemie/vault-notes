@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 技术拼贴（Technological Pastiche）
 > **技术拼贴（Technological Pastiche）** 是由著名人类学家[[David Graeber|大卫·格雷伯]]（[[David Graeber]]）在《飞行汽车的终结与利润率下降》（2012）中提出的批判性[[Construct|构念]]，并在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的科技大战略批判中被进一步深化。该概念指现代科技生态在遭遇基础科学突破放缓与宏大物理工程停滞后，将创新活动退化为对既有成熟技术、数字化内容与基础算法进行表面化的重新排列、派生组合与包装营销。技术拼贴制造出技术日新月异、高度繁荣的表象，实质上却是通过海量同质化的屏幕应用、游戏和社交网络来掩盖人类在深空探索、清洁能源、生物延寿及物理世界运输等硬核科技领域出现的历史性野心萎缩。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
 
 > [!concept-lens] 概念透镜

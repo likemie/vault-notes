@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 核心定义
+> [!def] 转录（Transcription in Qualitative Research）
 > 转录（Transcription）是将口头访谈、[[Focus Group\|焦点小组]]研讨或人机交互有声思维（Think-Aloud Protocols）等口语遭遇转换为书面文本的过程。前缀 *trans* 表明状态或形式的根本性变化——转录本质上是一种**选择性转换（Selective Transformation）**，而非对原始场景的中性、客观复刻。它代表着从口语及人际交往规则系统，向书面语言和符号系统的不可逆跨越。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）介入的研究情境中，转录进一步拓展为结合屏幕录制交互日志与即时口语表达的多模态数据对齐过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Kvale, 1996; Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
 
 > [!concept-lens] 方法透镜

@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学新闻（Science Journalism）
 > **科学新闻（Science Journalism）** 指专业新闻从业者及专业媒体机构面向大众公共领域，运用新闻学规范与批判性调查方法，对自然科学、工程技术与医学健康领域的科研进展、证据争议、方法局限及其政策与伦理影响所开展的独立采写、事实核查与情境化诠释实践。其根本功能在于穿透学术黑箱与术语壁垒，向公众提供兼具可读性与可[[Reliability\|信度]]的科学事实，维系民主社会理性协商的证据基石。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–58)]]
 
 > [!concept-lens] 概念透镜

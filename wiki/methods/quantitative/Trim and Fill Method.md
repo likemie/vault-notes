@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 剪补法（Trim and Fill Method）
 > Trim and Fill Method（剪补法 / 剪除与填补法，由 Sue Duval 与 Richard Tweedie 于 2000 年提出）是一种用于诊断和校正[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]（及[[Small Study Effects\|小研究效应]]）的经典非参数迭代统计方法。该方法假设在无发表偏倚时，[[Funnel Plot\|漏斗图]]中的研究[[Effect Size\|效应量]]应围绕真实均值呈对称分布；当检出单侧漏斗图不对称时，该算法先迭代“剪除（Trim）”导致不对称的极端小样本研究以估计无偏的中心效应，随后在漏斗图对侧“填补（Fill）”相应数量的镜像虚拟研究，并重新拟合计算校正后的最终效应量与 95% [[Confidence Interval\|置信区间]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]
 
 > [!method-scope] 方法范围

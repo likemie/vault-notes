@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 测量对齐（Measurement Alignment）
 > [[Measurement Alignment\|测量对齐]]（Measurement Alignment）是指在教育与心理学实证研究中，[[Independent Variable\|自变量]]（如[[Epistemic Cognition\|认识论认知]]、动机、策略）的测量工具与[[Dependent Variable\|因变量]]（如[[Academic Achievement\|学业成就]]、任务表现）在“分析颗粒度（层次）”和“学科领域（情境）”两个维度上保持同构与严格匹配的方法论要求。当且仅当测量处于对齐状态时，实证数据才能真实反映认知[[Construct\|构念]]的潜在解释力。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, p. 1085)]]
 
 > [!concept-lens] 概念透镜

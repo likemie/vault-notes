@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 胜者谬误（Winner's Fallacy）
 > 胜者谬误（Winner's Fallacy，亦称赢家谬误）指冷战结束以来，西方自由民主社会及其科技精英普遍滋生的一种集体战略自满与认知盲区。该思维将20世纪大国博弈的阶段性胜利错误地外推为人类意识形态演进的永久终结（Francis Fukuyama, 1989），将长期的和平红利、社会秩序与物质繁荣视作自然存在的背景常态，而遗忘了安全与繁荣根本上依托于国家持续构建的[[Hard Power|硬实力]]（Hard Power）与技术威慑。这种自满导致社会在文化与伦理层面解构了参与严肃[[Geopolitics|地缘政治]]博弈的意愿，甚至诱发科技界单方面拒绝为国家防务开发关键软件与军事技术的道德洁癖。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–35)]]
 
 > [!concept-lens] 概念透镜

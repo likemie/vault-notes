@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 断乳机制（Funding Exit Mechanism）
 > **资助退出机制 / 断乳机制（Funding Exit Mechanism / De-weaning）** 指在科技创新政策与公共前沿科研项目治理中，政府研发管理机构在某一新兴技术于大学实验室或联合体完成关键概念验证（[[Proof of Concept Programs|proof of concept]]）、并在商业市场或常规科学基金（如 [[National Science Foundation|NSF]]）中确立技术可[[Reliability|信度]]之后，**主动决断地停止专项公共拨款并退出项目资助**的制度化管理机制。该机制的核心宗旨在于消除受资助高校实验室与产业企业对国家财政的长期“依附性”（Dependency）与利益寻租套牢，强制倒逼科研成果向市场化自立或常规学术同行评议轨道过渡，从而使有限的国家战略性公共资源得以迅速回流并投入下一轮颠覆性未知前沿的孵化。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1143, 1146)]]
 
 > [!concept-lens] 概念透镜

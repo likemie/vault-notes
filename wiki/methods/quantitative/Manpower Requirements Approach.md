@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 人力需求预测法（Manpower Requirements Approach）
 > **人力需求预测法（Manpower Requirements Approach，MRA / 人力规划）** 是教育经济学与公共政策规划领域的一种宏观定量预测模型。该方法立足于[[Technical Rationality|技术官僚理性]]，假定国家或区域在未来特定时期的经济总产出目标与产业技术结构之间存在刚性的固定投入产出系数；通过将国民经济增长目标层层解构为行业产值、职业工种构成及对应的合格学历门槛，自上而下地计算出劳动力市场的技能缺口，并以此作为刚性约束指标反推国家各级各类教育系统（初等、中等、中职、高职与高等教育）的招生配额、专业结构与基建投资规模。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 > [!method-scope] 方法范围

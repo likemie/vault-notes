@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 流动漂泊（Transiency）
 > **流动漂泊（Transiency）** 在教育社会学与政策研究中特指学生在单一学年中途频繁跨校转学（mid-school year movement）的流动形态。在主流绩效问责与[[Sedentarism|定居主义]]政策[[Discourse|话语]]中，此类流动往往从技术性的“[[Student Mobility|学生流动]]（Mobility）”滑向带有严重病理学色彩的“漂泊（Transiency）”，被直接绑定于家庭贫困、失范与监护失调，并被学校管理者工具化为解释未能达成年度问责绩效目标的免责减分指标。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–364)]]
 
 > [!concept-lens] 概念透镜

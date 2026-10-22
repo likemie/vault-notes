@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 应用工程（Application Engineering）
 > 应用工程（Application Engineering / Applications Engineering）是指高新技术基础元器件与材料供应商为了消除下游用户的技术吸收阻力、加速前沿[[General Purpose Technology|通用技术]]商业扩散而在组织内部设立的专业化技术中介与[[Knowledge Transfer|知识转移]]机制。应用工程团队通过将终端系统工程师（如计算机、消费电子、汽车等行业的系统设计人员）吸纳进企业内部，深入把握下游整机的功能与电路规范，并反向指导上游基础元器件的定义与定制；同时通过编制和免费发放详尽的《应用说明书》（Application Notes）、构建全功能示范系统原型（System Prototypes）以及提供现场联合调试，实质性充当了下游整机制造商的外部研发部门与[[Engineering Education|工程教育]]培训机构。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 189–194)]]
 
 > [!concept-lens] 概念透镜

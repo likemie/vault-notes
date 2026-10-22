@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 制度层叠（Institutional Layering）
 > [[Historical Institutionalism|历史制度主义]]与公共政策分析中用以解释[[Theory of Gradual Institutional Change|渐进制度变迁]]（Incremental Institutional Change）的核心概念；指在维持既有制度总体稳定或保留核心制度框架的前提下，行动者通过向既有结构附加新规则、新政策工具、新组织机构或新行政程序，使其与旧制度并存共生，进而随着历史时间推移逐步重塑原有规则的行为导向、治理功能与制度地位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9, 11)]]
 
 > [!concept-lens] 概念透镜

@@ -45,7 +45,7 @@ related_arguments:
 
 ---
 
-> [!def] 核心定义
+> [!def] 文化脱嵌（Cultural Disembedding）
 > 文化脱嵌（Cultural Disembedding），指个体或群体在进入或面对某一特定的主导文化[[Champ\|场域]]（如精英大学、国家学校课程或主流体制）时，因其原本内化的语言、习俗、信仰与生活习惯（习性）与该场域认定的“默认常识”或“官方正统”相脱节，从而产生的强烈疏离感、不适应与身份断裂（Bourdieu & Wacquant, 1992; Lamont et al., 2015; [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 115]]; [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p. 71]]）。
 
 > [!concept-lens] 概念透镜

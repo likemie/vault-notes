@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 解释效度（Interpretive Validity）
 > **解释效度（Interpretive Validity）**，亦称**诠释效度**，原指在[[Qualitative Research|质性研究]]中准确捕捉情境与事件对**参与者/主体本身**的主观意义、解释框架、语言术语及行动意图的能力——即坚持从“内部人视角”（[[Emic and Etic|emic perspective]]）与受访者自身[[Discourse|话语]]理解现象（Maxwell, 1992；Blumenfeld-Jones, 1995）。在当代[[Metascience|元科学]]与[[Research Synthesis|证据综合]]方法学中，该概念被进一步延伸至统计与证据推论层面，指宏观综合结论、分类标签与排名体系在多大程度上能够真实保留并准确传达底层原始研究所操纵的干预实质、对照基线与测量属性，而非通过脱离情境的粗暴标签化强加外部解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–16)]]
 
 > [!concept-lens] 概念透镜

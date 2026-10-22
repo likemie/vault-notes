@@ -41,7 +41,7 @@ created: 2026-06-01
 updated: 2026-10-22
 ---
 
-> [!def] 所罗门四组设计
+> [!def] Solomon四组设计（Solomon Four-Group Design）
 > 所罗门四组设计（Solomon Four-Group Design）是一种[[True Experimental Design\|真实验设计]]，是 2 × 2 [[Factorial Design\|因子设计]]的特例。它将受试者[[Random Assignment\|随机分配]]到四个组中，通过操纵[[Pre-test and Post-test\|前测]]（有 vs 无）和处理（有 vs 无）两个因素，来评估前测本身是否会对处理效果产生干扰效应。全部四个组均接受后测（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）。
 
 > [!method-scope] 方法范围

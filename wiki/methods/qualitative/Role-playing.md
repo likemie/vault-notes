@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 角色扮演（Role-playing）
 > **角色扮演（Role-playing）** 是一种让参与者在“仿佛”（as-if）的具身、社交或技术中介情境中有意识地代入特定角色并开展交往互动的活动方式（Sellers, 2002, p. 498；Johnstone, 1979/1981）。
 > - **作为教学策略（Pedagogy）** 属于[[Authentic Instruction|真实性教学]]的核心子类，通过创设利益与价值冲突情境，促使学生代入特定社会或学术角色展开论辩与协商，强力激发换位思考并促进[[Critical Thinking|批判性思维]]（[[Argument_Abrami_2015_RER|Abrami et al., 2015, p. 287]]）。
 > - **作为[[Qualitative Research|质性研究]]方法（Research Method）** 一种质性资料收集手段，研究者通过观察、录像与记录参与者在虚构情境中的即兴互动，探索难以通过[[Questionnaire|问卷]]直接触及的深层内隐态度、价值取向与决策机制（Bolton & Heathcote, 1999, p. 57；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen et al., 2011, Ch. 26]]）。

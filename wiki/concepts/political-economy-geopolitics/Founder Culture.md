@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 创始人文化（Founder Culture）
 > 创始人文化（Founder Culture）指源自高科技创业与国家重大工程攻坚实践的组织治理与责任[[Paradigm|范式]]；其核心特征在于确立**权责对称**与**切身利益担当（Skin in the Game）**，要求机构领导者与决策者对组织在物理世界的最终治理实效（如建造战略重器、拯救生命、遏制犯罪与消除贫困）承担直接、长期且不可推卸的实质责任，反对[[Bureaucracy|官僚科层制]]中将程序合规、避险推责与微观道德表演置于治理成果之上的防卫型文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 14–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 178)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 181–183, 187–189)]]
 
 > [!concept-lens] 概念透镜

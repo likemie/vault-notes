@@ -28,7 +28,7 @@ created: 2026-06-22
 updated: 2026-09-11
 ---
 
-> [!def] 核心定义
+> [!def] 污名传染（Stigma Contagion）
 > 污名传染（stigma contagion）指研究敏感话题的研究者因[[Research Topic\|研究主题]]本身而被社会污名波及的现象——研究者与正在被研究的人共享同一种污名（Lee, 1993, p. 9）。这是[[Sensitive Research\|敏感研究]]中敏感性来源的一种，特别影响那些研究被社会歧视群体的研究者（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 200]]）。
 
 > [!concept-lens] 概念透镜

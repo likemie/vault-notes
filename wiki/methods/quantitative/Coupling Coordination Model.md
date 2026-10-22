@@ -41,7 +41,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 方法定义
+> [!def] 耦合协调模型（Coupling Coordination Model）
 > 耦合协调模型（Coupling Coordination Degree Model, CCDM）是一种基于系统论的多子系统协同发展水平测度方法。它先用耦合度 $C$ 衡量若干子系统发展水平之间的相互贴合程度，再用协调度 $D$ 将耦合强度与综合发展水平 $T$ 合成，用于判断系统是否处于高水平协同、低水平贴合或失调状态。该模型的核心用途不是识别因果机制，而是把多维指标体系压缩为可比较的综合评价结果。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, pp. 66-68)]]
 
 > [!method-scope] 方法范围

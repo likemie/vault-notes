@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学习数据化（Datafication of Learning）
 > **学习数据化（Datafication of Learning）** 是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其转译为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字编码、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!concept-lens] 概念透镜

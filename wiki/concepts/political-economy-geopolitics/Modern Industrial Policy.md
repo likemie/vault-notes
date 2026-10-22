@@ -91,7 +91,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 现代产业政策（Modern Industrial Policy）
 > **现代产业政策（Modern Industrial Policy / New Industrial Policy）** 指 21 世纪以来主要工业经济体在高科技战略领域（特别是半导体、人工智能与绿色技术）所采取的政府干预形态。与 20 世纪下半叶以纠正[[Market Failure|市场失灵]]（如[[Agglomeration Externalities|集聚外部性]]、[[Learning by Doing|干中学]]效应）、扶持本土产业实现赶超与追求经济效率为核心目的的传统产业政策不同，现代产业政策深度嵌入于大国战略博弈与[[Geopolitics|地缘政治]]竞争之中，将供应链安全、地理多元化分散（去风险）、遏制对手获取先进制程技术以及维护国家安全确立为首要政策目标。其政策工具箱突破了单纯的研发资助与生产补贴，演化为包含巨额资本补贴、前置研发支持、跨国投资安全审查、单边与多边技术出口管制、盟友间友岸外包（Friendshoring）及战略原材料反制的多维复合治理网络。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 101–103)]]
 
 > [!concept-lens] 概念透镜

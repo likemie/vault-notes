@@ -36,7 +36,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 研究上与研究下（Researching Up and Researching Down）
 > 研究上（researching up / studying up）指研究者将研究焦点指向有权者——那些处于关键位置、精英机构中、拥有决策权和资源控制权的人群。研究下（researching down / studying down）指研究者将焦点指向无权者或弱势群体——那些社会地位较低、资源较少、更容易被接触的人群。Lee (1993, p. 8) 指出社会科学存在系统性倾向于研究下而非研究上的结构性不对称（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 201]], 215–226）。
 
 > [!concept-lens] 概念透镜

@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 华盛顿共识（Washington Consensus）
 > **华盛顿共识（Washington Consensus）** 最初由经济学家约翰·威廉姆森（John Williamson）于 1989 年提出，用以概括当时常驻美国华盛顿特区的三大核心机构——[[World Bank|世界银行]]（World Bank）、[[International Monetary Fund|国际货币基金组织]]（IMF）以及美国财政部（US Treasury）——在指导拉丁美洲等发展中国家摆脱债务危机、遏制恶性通货膨胀与重启经济增长时所达成的十项基础政策主张。这些主张的核心聚焦于维持财政收支平衡、控制通胀、重构公共开支优先级、推行广泛税基与适度税率、利率汇率市场化、开放贸易与外国直接投资、推行国有企业私有化、消除市场行政管制以及确立产权保护法治。在随后的跨国政策扩散中，这一概念在批判政治经济学界与国际机构放贷实践中经历了显著的意识形态泛化与衍生演进；在教育与社会部门借贷中，华盛顿共识被微观[[Operationalization|操作化]]为一套以量化考核、成本效益控制、绩效激励与市场竞争为导向的政策治理框架。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 459–460)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 
 > [!concept-lens] 概念透镜

@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 共生者（Symbionts）
 > 共生者（Symbionts）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型特指自身繁荣与私利高度依附于非自身设计的既有制度（追求制度维系），但在日常博弈中违背既定规则安排的主体。共生者包含两大相映成趣的理论亚型：其一为**寄生型共生者（Parasitic Symbionts）**，在强[[Veto Possibilities|否决可能性]]与高解释[[Enforcement Discretion|执行裁量权]]下繁荣，遵守规则表面字面但违背制度实质精神，大肆利用执法漏洞违规套利并阻挠规则更新修补，主导驱动[[Institutional Drift|制度漂移]]，过度套利可能引发“骗子悲剧”；其二为**互利型共生者（Mutualistic Symbionts）**，违背规则字面以维持制度实质精神，不仅不破坏体制，反而扩大支持同盟、增强制度稳健性（Robustness）或促进[[Institutional Conversion|制度转换]]。共生者是制度捍卫者的天然盟友，但其狭隘私利常促发奇特的政治同盟（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 24–25, 28, 31]]）。
 
 > [!concept-lens] 概念透镜

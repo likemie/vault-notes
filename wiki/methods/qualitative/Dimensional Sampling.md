@@ -30,7 +30,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 方法定义
+> [!def] 维度抽样（Dimensional Sampling）
 > 维度抽样（Dimensional Sampling）是[[Quota Sampling\|配额抽样]]的进一步细化。它识别总体中感兴趣的各种因素（维度），构建多维表格，确保每个交叉格至少有一名受访者，从而获取涵盖所有因素组合的样本。
 
 > [!method-scope] 方法范围

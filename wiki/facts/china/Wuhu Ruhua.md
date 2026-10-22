@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 五胡入华（Wuhu Ruhua）
 > **五胡入华（Wuhu Ruhua / Entrance of the Five Barbarians）** 是由中国学者与政治人物[[Pan Yue\|潘岳]] (Pan Yue) 提出并极力推广的修正主义历史叙事概念。该学说将魏晋南北朝时期传统的“五胡乱华”（Uprising of the Five Barbarians，指北方少数民族的入侵与杀戮）重新定义为“五胡入华”——通过用“入”（进入／融合）替换“乱”（混乱／侵略），将北方非汉族群的军事侵入与被迫[[Sinicisation\|汉化]]重新框定为由于仰慕汉文化而做出的“主动向心融入”与“自愿文化放弃”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 107–108]])
 
 > [!concept-lens] 概念透镜

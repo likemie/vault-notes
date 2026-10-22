@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 边界对象（Boundary Object）
 > 边界对象（Boundary Object）是由科学社会学家 Susan Leigh Star 与 James R. Griesemer 于 1989 年提出的概念，指那些既具备足够的**情境可塑性（Plasticity）** 以适应不同群体或学科共同体的局部需求与约束，又具备足够的**结构鲁棒性（Robustness）** 以跨越边界维持共有身份认同的[[Artefact\|人工制品]]、符号工具、规范协议或数字化界面。在教育技术与高等教育研究中，[[Generative Artificial Intelligence\|生成式人工智能]]（如 ChatGPT）被概念化为一种高度灵活的数字化边界对象，既作为标准化学术规范的转化节点，又作为支持学生跨学科探索与个性化表达的连接中介（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 3, 11]]）。
 
 > [!concept-lens] 概念透镜

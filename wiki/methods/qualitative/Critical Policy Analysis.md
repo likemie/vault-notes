@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 批判性政策分析（Critical Policy Analysis）
 > 批判性政策分析（Critical Policy Analysis, CPA；亦称批判性政策研究 Critical Policy Study）是一种植根于批判社会理论的质性教育政策研究方法与反思[[Paradigm|范式]]。它将公共政策视作特定阶层或权力精英将其关于“理想社会”的权威愿景转化为法律制度与日常实践的历史性建构，聚焦追问“政策究竟提供了什么、剥夺了什么”（what policies offer and what they deny），致力于系统解构政策文本中的意识形态[[Discourse|话语]]、特权同盟利益输送与规训控制，从而为受政策压制的边缘群体与一线教育者重夺民主参与能动性提供分析支架。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–13)]]
 
 > [!method-scope] 方法范围

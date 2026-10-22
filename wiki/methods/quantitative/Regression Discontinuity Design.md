@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 断点回归设计（Regression Discontinuity Design）
 > **断点回归设计（Regression Discontinuity Design, RDD）** 最早由 Donald L. Thistlethwaite 与 Donald T. Campbell 于 1960 年创立，是指依据某个连续**驱动[[Variable\|变量]]（Running Variable / Forcing Variable）** 在预设**截断阈值（Cut-off Point）** 处的分配规则，将受试对象严格或概率性划分为干预组与对照组，进而在阈值邻域内识别干预因果效应的准实验方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 320–324]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
 > 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]]假设（Local Randomization Assumption）** 之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。

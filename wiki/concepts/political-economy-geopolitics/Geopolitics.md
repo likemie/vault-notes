@@ -79,7 +79,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 地缘政治（Geopolitics）
 > 地缘政治（Geopolitics）是研究地理空间、权力运作与国际秩序构建相互关系的政治学与政治地理学核心概念及分析视角。在词源与演化谱系上，该概念由瑞典学者鲁道夫·契伦（Rudolf Kjellén）于 1899 年提出，涵盖处于物质—实践端的[[Classical Geopolitics|古典地缘政治]]（聚焦主权国家对领土、战略通道与资源的物理控制及[[Hard Power|硬实力]]博弈）以及处于观念—科学端的[[New Geopolitics|新地缘政治]]与[[Critical Geopolitics|批判地缘政治]]（聚焦空间的[[Discourse|话语]]建构、[[Knowledge Production|知识生产]]、制度规程与象征秩序）。在当代跨国高等教育治理与全球科技竞争中，地缘政治表现为国家借助学术体系、人才流动与知识联盟争夺全球空间治理主导权与制度性话语权的战略实践。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4, 11–13)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 
 > [!concept-lens] 概念透镜

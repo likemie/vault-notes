@@ -38,7 +38,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 逐步聚焦（Progressive Focussing）
 > 逐步聚焦是 Parlett and Hamilton（1976）提出的[[Qualitative Research\|质性研究]]数据分析策略。研究者首先以广角镜头（wide angle lens）收集数据，随后通过筛选（sifting）、归类（sorting）、审视（reviewing）和反思（reflecting），逐步识别出情境中最显著的突出特征（salient features），并将这些特征作为后续聚焦的议程。整个过程如同漏斗过滤——从宽泛走向精炼。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 435)]]
 
 > [!concept-lens] 概念透镜

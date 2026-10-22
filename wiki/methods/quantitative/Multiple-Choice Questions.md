@@ -62,7 +62,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 方法定义
+> [!def] 多项选择题（Multiple-Choice Questions）
 > 多项选择题（Multiple-Choice Questions, MCQ），亦称选择反应型试题（Selected-Response Items），是教育测量与心理学评估中最广泛应用的客观化量化题型。试题由呈现问题情境的“题干（[[STEM Education\|STEM]]）”和包含一个正确答案（Key）与若干干扰项（Distractors）的“选项集（Options）”构成；被试只需在预设选项中识别并选出正确答案。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 23–25)]]
 
 > [!method-scope] 方法范围

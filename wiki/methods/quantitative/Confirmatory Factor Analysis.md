@@ -48,7 +48,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 方法定义
+> [!def] 验证性因子分析（Confirmatory Factor Analysis）
 > 验证性因子分析（Confirmatory Factor Analysis, CFA）是一种用来测试研究者预先设定的潜[[Variable\|变量]]（因子）结构是否与实际收集到的数据相契合的统计方法。与[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）不同，CFA 要求研究者在分析前就明确指定哪些外显指标（观测变量）对应哪些潜在因子。
 
 > [!method-scope] 方法范围

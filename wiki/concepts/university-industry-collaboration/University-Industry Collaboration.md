@@ -125,7 +125,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 产学合作（University-Industry Collaboration）
 > 产学合作（University-Industry Collaboration, UIC；又称产学参与 University-Industry Engagement）是指大学与产业企业之间在正式制度与协议框架下建立的有目的、目标对齐的协同参与关系。它超越了零散的非正式人际交往，贯穿基础科学发现、技术原型开发、试验测试直到商业化落地的全链条界面，涵盖“研究与学术”、“教育与学习”以及“公共效益”三大核心回报维度。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 4–5)]]
 
 > [!concept-lens] 概念透镜

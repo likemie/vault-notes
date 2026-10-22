@@ -44,7 +44,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 方法定义
+> [!def] 基于主体的建模（Agent-based Modelling）
 > 基于主体的建模（agent-based modelling, ABM）是一种模拟或促进具有能动性（agentic，即自由选择、自主、有意图、有目的的）个体在行动者网络中行动和互动的方法论。个体的行动和互动对整个系统产生一系列效应（Bonabeau, 2002）。ABM 的核心特征是：复杂的宏观层面行为从微观层面主体的互动中[[Emergence\|涌现]]，新模式不可还原为初始条件——新整体大于部分之和（Martin, 2011, Ch. 19）。
 
 > [!method-scope] 方法范围

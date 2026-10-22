@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 精英访谈（Elite Interview）
 > 精英访谈（Elite Interview）是[[Qualitative Research\|质性研究]]与[[Policy Science in Comparative Education\|政策科学]]中的专门化访谈方法（Aberbach & Rockman, 2002; Berry, 2002），指研究者针对在政治、行政、专业或学术组织中占据关键决策位置、拥有排他性内部准入资格的高层行动者（如政府高级官员、政策顾问、智库负责人、学术领袖）所进行的深度[[Qualitative Interview\|质性访谈]]。该方法旨在探究政策文本背后的权力博弈、幕后协商、议程设置与隐性决策逻辑。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 
 > [!method-scope] 方法范围

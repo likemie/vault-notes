@@ -97,7 +97,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 深度访谈（In-depth Interview）
 > 深度访谈（In-depth Interview）是[[Qualitative Interview|质性访谈]]中最核心的变体，通过与受访者进行持续、深入的对话，理解其对自身经验与行动意义的主观建构。该方法的操作核心是[[Epoché|悬置]]，即研究者暂时搁置自身的知识体系和前见，进入受访者的日常语境理解其行动意义（杨善华 & 孙飞宇, 2005; Arksey & Knight, 1999）。
 
 > [!method-scope] 方法范围

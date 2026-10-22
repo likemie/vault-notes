@@ -95,7 +95,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 系统综述（Systematic Review）
 > 系统综述（Systematic Review）是[[Research Synthesis|研究综合]]（Research Synthesis）的一种严密规范形式：要求运用最小化偏差的技术、遵循预设的协议检索原始研究文献、制定明确的纳入与排除标准、设立公认的方法学严谨性门槛、界定[[Research Scope|研究范围]]、依托多研究者团队协同筛选以降低主观偏差，并采用透明一致的方法整合多项研究成果以提炼严谨审慎的推论与政策建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp. 384–385]]）。这些程序化特征使系统综述从根本上区别于选择标准模糊、容易产生主观偏倚的传统叙事综述。
 >
 > 系统综述通常作为定量[[Meta-analysis|元分析]]的前置基石：先通过系统综述穷尽检索并筛选出符合方法学标准的初级研究，再对这些研究的[[Effect Size|效应量]]开展统计合并。但系统综述本身亦可独立于元分析存在——当纳入研究的质性或[[Heterogeneity|异质性]]特征无法量化合并时，系统综述仍能提供高度结构化的证据图谱。

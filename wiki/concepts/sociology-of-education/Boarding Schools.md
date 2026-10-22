@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 寄宿学校（Boarding Schools）
 > 寄宿学校（Boarding Schools，在原住民与殖民地政策语境中亦称 Residential Schools）指以学生全天候在校居住、集体生活管理与沉浸式社会化为核心组织特征的学校形态。它突破了传统走读学校仅规训日间课堂教学的时空界限，通过将学龄人口从原生家庭、地理聚落与部族社区中彻底物理剥离（Physical Dislocation），在高度受控的围墙封闭空间内，系统实施涵盖学术训练、行为仪式、日常作息乃至价值观重塑的全域教育干预。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 20)]]; [[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361, 366–367)]]
 
 > [!concept-lens] 概念透镜

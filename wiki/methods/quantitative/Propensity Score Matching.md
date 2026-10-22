@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 倾向得分匹配（Propensity Score Matching）
 > **倾向得分匹配（Propensity Score [[Matching]]，简称 PSM）** 是由保罗·罗森鲍姆与唐纳德·鲁宾（Rosenbaum & Rubin, 1983）奠定的经典准实验[[Causality\|因果推断]]方法。其核心思想是：利用处理前丰富且关键的可观测基线协[[Variable\|变量]]向量 $\mathbf{X}_i$，通过概率回归模型将个体面临的多维混杂特征压缩为一维的条件参与概率标量——**倾向得分（Propensity Score）** $e(\mathbf{X}_i) = \Pr(Z_i = 1 \mid \mathbf{X}_i)$；进而在处理组与对照组之间寻找倾向得分高度相近的个体进行配对（Matching），以此模拟[[Randomised Controlled Trials\|随机对照试验]]中两组基线特征期望相等的无偏状态，有效校正由于非随机选择产生的可观测选择偏误（Selection on Observables）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 > [!method-scope] 方法范围

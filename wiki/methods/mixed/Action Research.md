@@ -93,7 +93,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 行动研究（Action Research）
 > 行动研究（Action Research）是研究者与实践者平等合作，在真实的社会或教育情境中，通过“计划—行动—观察—反思”的螺旋迭代循环解决实际问题的一种[[Paradigm\|研究范式]]。其根本旨趣在于改进实践效能与促进实践者专业成长，而非建构抽象理论体系。[[Kurt Lewin\|库尔特·勒温]]（Kurt Lewin, 1946）最早将其界定为将研究者与实践者的比较优势相结合以解决现实问题的方法；后经发展成为涵盖技术性、实践性与解放性多重取向的方法论体系。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
 
 > [!method-scope] 方法范围

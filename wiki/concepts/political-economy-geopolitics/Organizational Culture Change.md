@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 组织文化变革（Organizational Culture Change）
 > **[[Organizational Culture|组织文化]]变革（Organizational Culture Change）** 是指组织为了应对外部环境剧变、技术[[Paradigm|范式]]转移或生存性战略危机，对其底层共享的基本假设、核心价值观念、制度规范与日常行为模式所展开的系统性重构过程。在埃德加·沙因（Edgar Schein）等经典组织社会学家的理论中，组织文化变革涉及从表层[[Artefact|人工制品]]向潜意识基本信念的深层攻坚；而在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的战略论述中，组织文化变革被提升为重构西方民主政体[[Hard Power|硬实力]]与[[Technological Republic|技术共和国]]的决定性引擎：仅仅依靠研发算法或采购硬件无法从根本上克服国家的创新困境，必须在公共部门、国防机构与大型研发体系中发起一场深刻的组织文化变革——彻底摒弃追求免责自保的[[Bureaucracy|科层官僚制]]合规文化，全面转向以实战结果为唯一裁判、赋予一线[[Edge Autonomy|边缘自治]]权与拥抱[[Swarm Intelligence|群智能]]协同的[[Engineering Mindset|工程思维]]文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
 
 > [!concept-lens] 概念透镜

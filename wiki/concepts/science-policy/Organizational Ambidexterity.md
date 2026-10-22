@@ -50,7 +50,7 @@ aliases:
 
 ---
 
-> [!def] 核心定义
+> [!def] 组织双元性（Organizational Ambidexterity）
 > **组织双元性（Organizational Ambidexterity / 双元能力）** 是指组织在保障现有资源高效配置、既有优势维持与程序合规（即**利用 / Exploitation**）的同时，保持对外部前沿机遇的敏锐感知、承担高风险试错并开辟全新[[Technological Trajectories|技术轨道]]与商业/治理模式（即**探索 / Exploration**）的双重动态平衡能力。该概念最早由詹姆斯·马奇（James G. March, 1991）在组织学习理论中奠定基础，经查尔斯·奥赖利与迈克尔·图什曼（Charles O’Reilly & Michael Tushman, 2008）深化为企业动态能力的核心支柱，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）跨界引入公共管理与创新政策分析，作为阐释[[Public Dynamic Capabilities|公共部门动态能力]]如何在维持科层行政程序正义的同时培育敏捷探索特区的底层机制。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 > [!concept-lens] 概念透镜

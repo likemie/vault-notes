@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 规则践行（Rule Enactment）
 > **规则践行（Rule Enactment）** 指行动者在具体社会与经济情境中理解、解释、推行、抵制或变通制度规范的动态实践过程；[[Historical Institutionalism|历史制度主义]]强调，形式条文的**规则设计（Rule Design）** 与基层实际的**规则践行**之间始终存在不可消除的结构性脱节（Gap），这一脱节并非纯粹的技术执行失误，而是各方利益主体展开持续政治博弈与微观重塑的根本制度空间。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
 
 > [!concept-lens] 概念透镜

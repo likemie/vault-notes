@@ -145,7 +145,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 元-元分析（Meta-meta-analysis）
 > [[Meta-meta-analysis\|元-元分析]]（Meta-[[Meta-analysis]]，在现代统计学中亦称二阶元分析 Second-Order Meta-Analysis, SOMA，早期文献称 Mega-analysis 或 Meta-synthesis）指在更高统计层级上对多个已发表[[Meta-analysis\|元分析]]（Meta-analysis）结果进行系统检索、方法学质控与定量合成的方法体系。与一阶元分析综合原始主要研究不同，二阶元分析以一阶元分析提取的汇总[[Effect Size\|效应量]]（及其背后的[[Sampling Error\|抽样误差]]结构）为[[Unit of Analysis\|分析单位]]，旨在估计宏观领域效应量基准、比较不同[[Construct\|理论构念]]与干预维度的相对有效性，并识别全领域效应[[Heterogeneity\|异质性]]的深层来源。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 2)]]
 
 > [!method-scope] 方法范围

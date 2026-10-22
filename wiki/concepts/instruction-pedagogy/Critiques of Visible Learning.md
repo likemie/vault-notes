@@ -205,7 +205,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 可见的学习批评（Critiques of Visible Learning）
 > **对可见学习的批评（Critiques of [[Visible Learning]]）** 指围绕新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）及其《[[Visible Learning|可见的学习]]》体系所形成的跨学科、多维度学术批判网络。该批评谱系不仅质疑特定[[Effect Size|效应量]]数值的准确性或排名顺序，更从统计计量学、[[Didaktik|教学理论]]、教育哲学、可见性权力政治、劳动过程监控、政商利益网络与科学哲学划界等层面，系统解构该框架如何将复杂的教育活动压缩为可度量、可排序、可监控的技术指标，揭示其披着[[Positivism|实证主义]]外衣服务于新自由主义紧缩治理与商业变现的实质。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]; [[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]
 
 > [!concept-lens] 概念透镜

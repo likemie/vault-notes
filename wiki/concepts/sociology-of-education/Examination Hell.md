@@ -43,7 +43,7 @@ updated: 2026-09-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 考试地狱（Examination Hell）
 > 考试地狱（Examination Hell，日本称“受験地獄”）最初由日本学者用于描述高强度、高风险升学考试竞争所营造的社会和教育压力。在社会学和比较教育学中，它指代东亚[[Confucian Heritage Cultures\|儒家文化圈]]中以客观考分为单一驱动的教育选拔机制。它既是应对亲缘道德与公共规则冲突的功能性公平方案，也是使外来移植学制发生功能性转化的强大重力场（[[Argument_Li_2012_Cambridge\|Li, 2012, p. 75]]; [[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 323]]）。
 
 > [!concept-lens] 概念透镜

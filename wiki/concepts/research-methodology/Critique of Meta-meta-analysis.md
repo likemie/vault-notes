@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 元-元分析批判（Critique of Meta-meta-analysis）
 > [[Critique of Meta-meta-analysis\|元-元分析批判]]（Critique of [[Meta-meta-analysis]]）指教育学、统计学与科学哲学界对将多个已发表[[Meta-analysis\|元分析]]结果在更高层级进行二次聚合（如 *[[Visible Learning]]* 与政策联盟表）所提出的系统性反思与方法论质疑。批判核心集中于：二级聚合脱离了因果机制、将试验灵敏度误读为教育有效性、低质量一阶研究导致的偏倚逐级放大、以及以脱离情境的简单排名驱动公共政策决策的合法性危机。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, p. 15)]]; [[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 11)]]
 
 > [!concept-lens] 概念透镜

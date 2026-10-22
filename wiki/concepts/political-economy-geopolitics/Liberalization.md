@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 自由化（Liberalization）
 > **自由化（Liberalization）** 指在现代资本主义与跨国治理中，原本受国家、[[Neocorporatism|法团主义]]工会或行业公约保护的集体社会安排，向“自由、自律、竞争性市场逻辑”系统性开放的长期制度与意识形态重构过程。在比较政治经济学视阈中，它表现为“有组织资本主义”的**去组织化（Disorganization）**——即集体约束的削弱、再分配连带责任的瓦解，以及社会与经济风险向个体家庭和劳动者身上的系统性转嫁（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 3–5]], 31–33）；在批判政策社会学视阈中，它表现为跨国组织蓄意推进的**意识形态工程（Ideological Project）**——通过将全球化本体化与物化为不可抗拒的外部自然实体，掩盖概念背后的“意义政治”（Politics of Meaning），将公共教育与社会福利强行重塑为服从于跨国资本增值与全球市场竞争的技术工具（Bourdieu, 2003; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 441]]）。
 
 > [!concept-lens] 概念透镜

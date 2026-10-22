@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 转化研究（Translational Research）
 > **转化研究（Translational Research）** 指将学术实验室的基础科学发现与概念验证转化为可商业化产品、临床治疗方案或工业规模化制造的研究与工程化过渡过程。在生物医药领域，转化研究表现为从实验室台架到病床边（bench-to-bedside）的临床前验证；在半导体与硬科技制造领域，转化研究表现为从实验室到晶圆代工厂（lab-to-fab）的工艺参数匹配与中试放大，其核心功能在于消除早期原理样机向规模化生产跃迁时的工程风险，跨越技术商业化的[[Valley of Death|死亡之谷]]。[[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, pp. 202–203)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, pp. 95–96)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 6, 20–28)]]
 
 > [!concept-lens] 概念透镜

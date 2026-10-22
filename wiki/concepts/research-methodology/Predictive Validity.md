@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 预测效度是衡量测量工具外部有效性与未来发展解释力的核心心理测量学指标。
 
-> [!def] 核心定义
+> [!def] 预测效度（Predictive Validity）
 > 预测效度（Predictive Validity）是[[Criterion-related Validity|效标关联效度]]的一种核心形式，指某一测量工具在当前时间点获取的得分在多大程度上能够准确预测受试者在**未来某一时间点**所展现的外部效标行为、[[Academic Achievement|学业表现]]或实际成果。其核心判定标准在于**时间间隔（Time Interval）** 的存在，即预测源测量（Predictor）在时间上显著先于效标测量（Criterion）。在教育实证研究中，它既涵盖标准化选拔测验或高阶认知潜能对长期发展成就的跨期推断，也涵盖标准化[[Classroom Observation|课堂观察]]工具得分对学生未来学业增益的计量经济学预测。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]; [[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 12)]]
 
 从测验开发者与政策制定者的双重视角审视，预测效度提供了评估工具实用价值的核心准绳。

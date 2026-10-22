@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 异构集成（Heterogeneous Integration）
 > **异构集成（Heterogeneous Integration, HI）** 指将由不同半导体材料、不同制造工艺节点以及不同功能特质分别加工制造而成的独立单元（如先进互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）逻辑核心、射频前端、硅光子光互连模块、高带宽存储器及模拟器件），通过先进高密度封装基板、微凸点互连、硅通孔（Through-Silicon Via, TSV）或无凸点混合键合等三维堆叠技术（3D Heterogeneous Integration, 3DHI），整合为单个系统级封装或微系统的工程技术与制造[[Paradigm|范式]]。该技术摆脱了对传统单片二维晶体管物理尺寸微缩（摩尔定律）的单一依赖，通过模块化芯粒（Chiplets）协同实现系统层面的算力密度跃升、互连延迟压缩与能效最优化。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2–3, 10, 17–18)]]
 
 > [!concept-lens] 概念透镜

@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 方法定义
+> [!def] 探索性因子分析（Exploratory Factor Analysis）
 > **探索性因子分析（Exploratory Factor Analysis, EFA）** 是一种用于识别多[[Variable\|变量]]数据底层结构的多元统计降维技术。它在未预先指定具体测量题项与潜在维度一一对应关系的探索性前提下，通过对一组观测[[Variable\|变量]]之间的协方差或相关矩阵进行分解，将原始变量分解为少数几个共同解释大部分协方差的**潜在公共因子（Common Factors）** 与各个变量特有的**独特性方差与测量误差（Unique Factors）**，从而揭示潜藏于可观测数据背后的理论[[Construct\|构念]]维度。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 24)]]
 
 > [!method-scope] 方法范围

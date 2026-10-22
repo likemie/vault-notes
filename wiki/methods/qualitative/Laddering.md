@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 阶梯法（Laddering）
 > 阶梯法（laddering）是一种从给定[[Construct\|构念]]的偏好极点出发、通过反复追问"为什么"逐级追溯更高层上属构念的访谈技术。它源于 Hinkle（1965）将蕴含（implication）概念与组织推论相连：用蕴含替代预期，使不同构念的极点之间可以建立逻辑关系，一个构念蕴含另一个构念。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011, pp. 8–9)]]
 
 > [!method-scope] 方法范围

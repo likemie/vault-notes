@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 似真值（Plausible Values）
 > **似真值（Plausible Values, PV）** 是大规模教育评估（如[[PISA|国际学生评估项目]]，[[PISA]]；美国国家教育进展评估，[[National Assessment of Educational Progress|NAEP]]）中用于宏观群体特征估计的贝叶斯多重插补统计技术。在大规模评估采用[[Matrix Sampling|矩阵抽样]]设计时，每位受试者仅作答题库中的一部分题项，导致单人能力水平的极大似然估计或后验期望估计（EAP）伴随极大的测量误差。似真值技术通过将被试的客观试题作答反应与详尽的背景调查[[Questionnaire|问卷]][[Variable|变量]]（如家庭[[Socioeconomic Status|社会经济地位]]、学校特征、学习动机）联合建模，计算每名被试后验潜在能力分布，并从中独立抽取若干组（通常为 5 到 10 个）拟随机数值。这组数值代表了被试在给定作答表现与背景特征下可能具有的能力水平取样，用于在群体层面开展无偏的均值、方差、分位数及[[Multiple Regression|多元回归]]参数推断。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
 
 > [!method-scope] 方法范围

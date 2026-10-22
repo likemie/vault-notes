@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 全球教育产业（Global Education Industry）
 > **全球教育产业（Global Education Industry, GEI）** 是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ\|场域]]，涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性（measurability）和绩效问责制（accountability）将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 > [!concept-lens] 概念透镜

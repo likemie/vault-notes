@@ -22,7 +22,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 新质生产力（New Quality Productive Forces）
 > 新质生产力（New Quality Productive Forces）是指以创新为主导、以高科技、高效能、高质量为特征，由技术革命性突破、生产要素创新性配置与产业深度转型升级催生的先进生产力质态。该概念深化了马克思主义生产力理论，以[[Total Factor Productivity|全要素生产率]]大幅提升为核心标志；在教育与人力资源开发领域，它要求打破传统的单一工种技能培训惯性，转向培育兼具前沿数字化技术应用能力与现场工艺革新素养的高技能复合型人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 286, 300)]]
 
 > [!concept-lens] 概念透镜

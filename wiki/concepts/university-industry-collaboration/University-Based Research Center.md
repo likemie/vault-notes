@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 大学研究型中心（University-Based Research Center）
 > 大学研究型中心（University-Based Research Center，亦作多用途多学科大学研究中心，Multipurpose, Multidiscipline University Research Center, MMURC）是指建立在大学内部、区别于传统单一学科系所实验室的一种新型学术组织[[Paradigm|范式]]；其以跨学科现实战略或产业工程问题为导向，依托政府、产业与大学多元资金池，实行多学者协同攻关与机构化协同治理。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 111–112)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]
 
 > [!concept-lens] 概念透镜

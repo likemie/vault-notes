@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 制造数字孪生（Digital Twin in Manufacturing）
 > 制造数字孪生（Digital Twin in Manufacturing，在半导体领域亦称为“虚拟晶圆厂”，Fab Virtualization）是指通过融合微观物理/化学反应机理、多物理场第一性原理计算与高通量实时原位计量（In-situ Metrology）数据，在数字计算空间内为实体制造装备、工艺流线乃至整座晶圆代工厂建立的全要素、高保真动态虚拟镜像系统。在先进半导体微电子制造中，数字孪生利用人工智能与高级预测分析模型实时吞吐全厂传感器数据，对次纳米尺度加工过程、缺陷形成机制与物理良率波动进行在线推演与闭环调优，从而在物理硬件投产或调整前实现制造工艺的快速迭代与收敛。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 19–20, 26)]]
 
 > [!concept-lens] 概念透镜

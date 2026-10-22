@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 大科学（Big Science）
 > **大科学（Big Science）** 是指二战及冷战时期兴起的一种由国家战略意志与安全需求主导的科研组织[[Paradigm|范式]]；其核心特征在于依赖巨额国家财政预算、大规模集中式层级化国家实验室、高度跨学科工程协同以及权威型科技主管挂帅，针对界定清晰的突破性物理与工程技术极限（如原子能利用、雷达开发与阿波罗登月）开展集中攻关。这一概念最早由橡树岭国家实验室长期主任阿尔温·温伯格（Alvin Weinberg, 1961, 1967）系统界定并反思，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）引入使命导向政策演进分析。进入 21 世纪，大科学从传统的单体物理巨型装置拓展为包含百亿亿次超算中心、闭环自主机器人实验室、中等规模[[Focused Research Organization|聚焦研究组织]]（FRO）与大规模前竞争产学研联合体的分布式超级创新基础设施。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 793–795)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–6, 21–26, 61–63)]]
 
 > [!concept-lens] 概念透镜

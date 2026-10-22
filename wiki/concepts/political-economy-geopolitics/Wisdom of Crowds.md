@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 群体智慧（Wisdom of Crowds）
 > 群体智慧（Wisdom of Crowds）指当大量具备多元背景且保持认知独立的个体，对某一复杂或不确定性事实进行分散估计或预测时，将所有个体的离散判断进行统计汇聚（如取中位数或均值）所得到的整体结论，其准确度往往显著优于绝大多数独立专家甚至顶尖专家的集体智能现象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
 
 > [!concept-lens] 概念透镜

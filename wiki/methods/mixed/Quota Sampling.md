@@ -34,7 +34,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 方法定义
+> [!def] 配额抽样（Quota Sampling）
 > 配额抽样（Quota Sampling）是[[Non-probability Sampling\|非概率抽样]]中对应[[Stratified Sampling\|分层抽样]]的方法，力求按总体中的比例代表显著特征（层，strata）。与分层抽样的关键区别在于：层内个体的选择不是随机的，而是由研究者根据可得性和配额要求进行。
 
 > [!method-scope] 方法范围

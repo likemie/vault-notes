@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 等值空间（Space of Equivalence）
 > **等值空间（Space of Equivalence）** 由法国统计社会学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）提出，指统计度量通过制度化创设统一分类编码、基准刻度与公分母，在异质社会实体、机构与实践之间建立起可相互[[Commensuration|通约]]的均质化度量空间。在跨国教育治理中，以[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）为代表的量化测评通过自建脱离具体课程情境的[[Scale of Measurement|测量尺度]]，构筑起全球教育成效的等值空间，以统计[[Reliability|信度]]置换情境[[Construct Validity|构念效度]]并[[Epoché|悬置]]教育[[Ontology|本体论]]，使主观的政治决策转化为无可辩驳的技术中立数据，支撑超国家组织对主权国家的远处掌舵。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
 
 > [!concept-lens] 概念透镜

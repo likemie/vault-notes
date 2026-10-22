@@ -33,7 +33,7 @@ created: 2026-07-21
 updated: 2026-10-22
 ---
 
-> [!def] 排序题
+> [!def] 排序题（Ranking Questions）
 > 排序题（Ranking Questions）要求受访者在选项之间进行**比较**并确定优先级。与[[Rating Scale\|评定量表]]中各题项独立评分不同，排序中受访者必须考虑其他[[Variable\|变量]]，因为他们被要求判断相对价值、权重或重要性。排序题操作在**零和模型**上：提高一项的排位意味着另一项下降（Ovadia, 2004, p. 406）。受访者被要求将编号放入方框中以表示优先级（1 = 最高，2 = 第二高，以此类推）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 123–127]]）。
 
 > [!concept-lens] 概念透镜

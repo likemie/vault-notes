@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心界定
+> [!def] 组合式科研资助（Portfolio-Based Research Funding）
 > **组合式科研资助（Portfolio-Based Research Funding / Portfolio Approach to Grantmaking）** 是指国家科技管理与研发资助机构打破基于学科面板和单一共识评审的增量拨款惯性，将公共科研经费视为包含异质风险轮廓、资助对象、组织实体与选拔机制的战略投资组合进行主动构建、动态调整与实证评估的科研治理[[Paradigm|范式]]。该框架要求资助机构承担“战略资本配置者”职能，系统协调高风险颠覆性探索与渐进式应用攻关，并在政策机制上实现从“单一项目申请评审”向“多工具、多主体组合配置”的根本转型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–32)]]
 
 > [!concept-lens] 概念透镜

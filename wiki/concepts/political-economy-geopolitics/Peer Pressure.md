@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 同行压力（Peer Pressure）
 > **同行压力（Peer Pressure）** 在国际公共政策与全球治理领域，指主权国家面对由其他国家、专业同侪网络或多边国际组织构成的横向评估环境时，由于追求国际声誉资本、维护国家合法性形象以及规避国际排位羞辱而产生的遵从共同规范或推行国内改革的动力机制。在以经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的软法跨国治理网络中，同行压力与[[Multilateral Surveillance|多边监督]]构成了相辅相成的双重支柱：多边监督提供制度化的数据收集与常态化审查舞台，而同行压力则是激活国家政策调整心理与政治反应的动力学源泉。尤其在[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等跨国评估引入公开联赛排位榜单后，同行压力演变为直接触动成员国朝野声誉关注的制度性危机感，促使主权国家政府在未受任何外在硬法强迫的情况下，自发按照超国家机构设定的基准开展国内教育体制重构，成为实现远处掌舵的传导机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442, 447)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–273)]]
 
 > [!concept-lens] 概念透镜

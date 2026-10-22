@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 协调型国家（Orchestrator State）
 > 协调型国家（Orchestrator State，或产业政策协调者）是指在缺乏直接财政权的多层级治理政体中，超国家执行机构不直接掌握中央财政直接投资工具，而是通过为成员国国家援助提供法规豁免、搭线撮合跨国公私研发联合体以及协调跨部门监管框架，来间接引导产业发展的国家干预模式。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 > [!concept-lens] 概念透镜

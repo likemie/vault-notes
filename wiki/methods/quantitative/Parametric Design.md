@@ -37,7 +37,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-> [!def] 参数设计
+> [!def] 参数设计（Parametric Design）
 > 参数设计（Parametric Design）是[[True Experimental Design\|真实验设计]]的变体：参与者被[[Random Assignment\|随机分配]]到[[Independent Variable\|自变量]]水平固定的组别中，以绘制干预对不同取值区间的**差异效应曲线**。与将所有能力水平的参与者混在一个实验组中相比，参数设计更敏感——可以知道**哪一组受影响最大、哪一组最小**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 324]]）。
 
 > [!method-scope] 方法范围

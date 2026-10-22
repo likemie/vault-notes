@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 嵌入式自主性（Embedded Autonomy）
 > **嵌入式自主性（Embedded Autonomy）** 是由社会学家彼得·埃文斯（Peter Evans, 1995）提出的发展型国家能力与政治经济学核心概念；它指一种高度有效的国家治理结构形态：一方面，国家科层体系依托严格的功绩制招募、专业技术专长与崇高公共使命感，具备超脱于狭隘特殊利益集团寻租与政治俘获的**科层自主性（Bureaucratic Autonomy）**；另一方面，国家并非孤立于社会之外闭门造车，而是通过制度化的正式与非正式渠道，与产业界领袖、科学家团队及社会行动者保持密集、畅通且高度互信的信息沟通与网络联结（即**社会嵌入性 / Embeddedness**）。在[[Evolutionary Economics|演化经济学]]与现代产业战略中，嵌入式自主性被公认为解释政府如何精准掌握产业前沿痛点、同跨国巨头展开专业化谈判并坚决捍卫[[Public Value|公共价值]]与护栏约束的核心制度支柱。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793, 796–797)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
 
 > [!concept-lens] 概念透镜

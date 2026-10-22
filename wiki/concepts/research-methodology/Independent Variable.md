@@ -53,7 +53,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-> [!def] 自[[Variable\|变量]]
+> [!def] 自变量（Independent Variable）
 > 自变量（independent variable）是实验或[[Quantitative Research\|量化研究]]中的**输入变量**，被有意识地操纵、控制或选择，以观察其变化对[[Dependent Variable\|因变量]]（结果变量）产生的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 
 在真实验中，自变量被主动操纵（manipulated），例如施加一种新的教学方法、给予不同剂量的干预。在[[Ex Post Facto Research|事后回溯研究]]中，自变量已经自然发生，研究者只能根据既有条件进行观测选择，无法主动操纵，但分析逻辑保持一致：考察自变量的不同水平或取值如何与因变量的变化相关联。

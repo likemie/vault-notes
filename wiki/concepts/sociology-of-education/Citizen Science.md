@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 公民科学（Citizen Science）
 > **公民科学（Citizen Science / Participatory Science）** 指非专业科研人员（普通公众、社区志愿者、中小学生及社会团体等）在专业科学家的[[Co-Design|协同设计]]与指导下，或由在地社区自主发起，自愿、直接参与科学研究全生命周期各环节（涵盖生态观测、数据采集、模式分类、算法标注、感知测试乃至研究议程共创与政策转化）的协作性科研与社会参与[[Paradigm|范式]]。它打破了传统实验室的封闭边界，兼具科学研究生产力倍增与公众[[Scientific Attitude|科学态度]]、[[Science Capital|科学资本]]及主体能动性培育的多维价值。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 43)]]
 
 > [!concept-lens] 概念透镜

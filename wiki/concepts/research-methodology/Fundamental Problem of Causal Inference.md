@@ -29,10 +29,10 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 霍兰德因果推断基本问题（Fundamental Problem of Causal Inference）
 > Holland（1986, p. 947）提出的[[Causality\|因果推断]]基本问题（fundamental problem of causal inference）是指：**同一个人不能同时处于接受干预和不接受干预的状态**。因此，因果效应——即同一人在接受干预与未接受干预时的结果差异——在个体层面**永远无法被观察**。研究者只能在群体层面比较处理组和对照组的平均值，用群体平均差异来推断因果效应。
 
 > [!concept-lens] 概念透镜

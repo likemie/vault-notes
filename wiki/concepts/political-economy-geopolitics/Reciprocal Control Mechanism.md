@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 对等控制机制（Reciprocal Control Mechanism）
 > 对等控制机制（Reciprocal Control Mechanism）是指国家向私营部门提供巨额财政补贴、税收抵免、信贷担保或市场准入保护等公共资源转让时，必须通过法定契约强制要求受助企业完成具体可测的战略目标与社会责任，从而建立权利与义务对称的双向规制机制。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
 
 > [!concept-lens] 概念透镜

@@ -39,7 +39,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-> [!def] 顺序效应
+> [!def] 顺序效应（Order Effects）
 > 顺序效应（Order Effects）是[[Repeated Measures Design\|重复测量设计]]中的核心威胁——指因干预或实验条件的**呈现顺序**而非干预本身导致的结果差异。当同一组参与者接受多种实验条件时，先接受的条件可能影响后续条件的表现，使得比较结果不仅反映条件本身的效应，还包含了顺序带来的混淆（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 325–326]]）。
 
 > [!concept-lens] 顺序效应在效度威胁中的位置

@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 网络民族志（Network Ethnography）
 > 网络[[Ethnography\|民族志]]（Network Ethnography）是由[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者系统发展的[[Qualitative Research\|质性研究]]方法，专门用于考察新自由主义与全球化背景下的[[Policy Mobility\|政策流动性]]（policy mobility）与[[Network Governance\|网络化治理]]（[[Network Governance]]）。该方法将传统民族志的深度沉浸、[[Reflexivity\|反身性]]与文本分析，与[[Network Analysis\|社会网络分析]]（Social Network Analysis, SNA）的关系追踪相结合，核心在于跟随（following）政策、人、思想、资金、技术与制度客体跨越公共与私营部门、国家与超国家边界的流动轨迹（Ball, 2016; Ball et al., 2017; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 4]]）。
 
 > [!method-scope] 方法范围

@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知情同意（Informed Consent）
 > 知情同意（Informed Consent）是[[Research Ethics|研究伦理]]的基本程序：研究者在收集数据之前，向潜在参与者明确告知研究目的、程序、潜在风险、预期收益及退出权利，参与者在完全自愿、充分理解的基础上自主决定是否签署同意文件。爱德华·迪纳与拉里·克兰德尔（Edward Diener & Larry Crandall, 1978, p. 57）将其界定为个体在获知可能影响其决定的完整事实后自主选择是否参与调查的制度化程序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 77–79)]]
 
 > [!concept-lens] 概念透镜

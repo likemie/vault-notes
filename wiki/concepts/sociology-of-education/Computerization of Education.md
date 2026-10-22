@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 教育计算机化（Computerization of Education）
 > 教育计算机化（Computerization of Education），特别是读写教育的计算机化（Computerization of Literacy Education），是指在教育问责制、课程标准化与[[High-Stakes Testing|高利害测验]]的系统性压力下，学校教育实践逐步将培养目标异化为与计算机算力优势相重合的“信息处理（Information-Processing）”与“模式识别（Pattern Recognition）”技能，从而全面边缘化和驱逐人类心智中不可替代的“主观阐释（Interpretation）”、“批判理解（Understanding）”与道德价值探索的历史演进过程。在智能求知时代，该概念揭示了[[Generative Artificial Intelligence|生成式人工智能]]之所以能迅速接管学生思维，其制度根源在于现行教育体系早已被计算机化模式所驯化。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5–6)]]
 
 > [!concept-lens] 概念透镜

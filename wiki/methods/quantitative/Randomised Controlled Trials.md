@@ -186,7 +186,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-> [!def] 方法定义
+> [!def] 随机对照试验（Randomised Controlled Trials）
 > 随机对照试验（Randomised Controlled Trials, RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组，隔离和控制自[[Variable|变量]]，操纵一个[[Independent Variable|自变量]]观察其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78, 81]]）。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]]）。
 
 > [!method-scope] 方法范围

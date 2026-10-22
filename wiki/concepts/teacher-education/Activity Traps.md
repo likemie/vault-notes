@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 活动陷阱（Activity Traps）
 > 活动陷阱（Activity Traps）指在[[Professional Learning Community\|专业学习共同体]]（Professional Learning Community, PLC）活动中，实践者没有真正投入探究，而是径直转向解决方案的活动形态（Katz & Dack 2013）。其判定关键不在于教师是否在活动，而在于活动是否包含对成因的探究;一旦跳过成因分析，协作活动本身就会成为遮蔽问题的形式。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130–131)]]
 
 > [!concept-lens] 概念透镜

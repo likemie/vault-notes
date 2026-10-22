@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 整合的多元主义（Integrative Pluralism）
 > 整合的[[Pluralism|多元主义]]（Integrative Pluralism）是一种旨在化解学科[[Paradigm Wars\|范式战争]]的元[[Theoretical Perspective\|理论视角]]。它承认复杂的现象（如认知）可以在多个聚合层级（levels of aggregation）上同时存在并被独立建模。它主张彻底放弃寻找单一的“大一统理论（grand unifying theory）”，转而承认各理论[[Paradigm\|范式]]在其特定层级上的合法性，并通过在不同层级模型之间建立“因果解释链条”来推进科学理解。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 480)]]
 
 > [!citation-card] 关键表述

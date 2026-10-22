@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 敏感问题（Sensitive Questions）
 > 敏感问题处理（Sensitive Questions Design）是指在[[Questionnaire|问卷]]设计与调查实施过程中，针对涉及受访者私密、具威胁性或承载社会评价压力的题项，系统采用语言缓冲、语境弱化、提问时机调节及替代测量规程的方法学技术。其核心目标在于防范受访者因防御心理产生的系统性测量偏差——尤其是针对社会不期望行为的“低报”（Under-reporting）与针对社会期望行为的“过度报告”（Over-reporting）。该方法强调敏感性与威胁性必须通过受访者的主观感知视角（through the eyes of respondents）进行界定与控制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20, pp. 153–156)]]
 
 > [!method-scope] 方法范围

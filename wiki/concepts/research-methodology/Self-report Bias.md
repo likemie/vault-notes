@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 自报偏差（Self-report Bias）
 > **自报偏差（Self-report Bias，亦称自我报告偏差、自陈偏差）** 指受访者在自填[[Questionnaire\|问卷]]、量表评估或调查访谈中进行自我陈述时，因受社会期望效应、自我形象维护、记忆遗忘失真或语义理解不一致等心理与认知机制影响，导致测量所得数据系统性、有方向地偏离客观事实或实际行为的测量偏倚（Dale, 2006; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al., 2011d, p. 262]]）。在教育政策与循证研究中，自报偏差尤为突出地表现为决策官员或教师在问卷中对循证价值与专业投入的高度自陈认同，与其真实的实践采纳行为之间产生显著的虚假繁荣与知行断层（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 77, 93]]；[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, p. 8]]）。
 
 > [!concept-lens] 概念透镜

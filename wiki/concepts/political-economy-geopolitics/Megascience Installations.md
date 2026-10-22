@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 大科学装置（Megascience Installations）
 > **[[Big Science|大科学]]装置（Megascience Installations / Megascience Facilities，亦称大型科研基础设施）** 是指在基础科学前沿与关键使能技术领域（如高能物理粒子对撞机、受控核聚变装置、同步辐射光源、散裂中子源及国家级微纳制造基础设施）建设的独特、高度复杂且造价极其昂贵的大型综合科研基础设施。
 >
 > 此类装置是获取常规实验室无法企及的极端物理参数（如极高能级、超短脉冲、超强磁场）与微观表征分辨率的唯一手段。在传统上，大科学装置主要依托广泛的国际多边合作进行共同资助与要素共享；[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–48)]]

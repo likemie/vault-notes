@@ -58,7 +58,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 核心定义
+> [!def] 小研究效应（Small Study Effects）
 > [[Small Study Effects\|小研究效应]]（Small-Study Effects，亦称小样本研究效应）是指在[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]中观察到的一种经验现象：**较小[[Sample Size Determination\|样本量]]（即较大[[Standard Error\|标准误]]）的研究倾向于系统性报告比大样本研究更大、更具[[Statistical Significance\|统计显著性]]的[[Effect Size\|效应量]]。** 这一现象由 Sterne et al. (2000)、Sterne and Egger (2005) 以及 [[Argument_Runco_2026_CRJ\|Runco et al. (2026, pp. 5–6)]] 等研究记录。小研究效应是造成[[Funnel Plot\|漏斗图]]（Funnel Plot）不对称的根本物理原因，其来源不仅包括文献[[Publication Bias\|发表偏倚]]（Publication Bias），还涵盖小样本研究方法学控制不严、干预实施强度差异以及特定亚组人群选择偏差。
 
 > [!concept-lens] 概念透镜

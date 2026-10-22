@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学术医学中心（Academic Medical Center）
 > **学术医学中心（Academic Medical Center, AMC）** 指由大学医学院、联合聘任的大学临床教师以及合作教学医院共同构成的综合性医学教育与科研实体。其本质在于维系 **“学术-临床（Academic-Clinical）”二元结构**，将大学层面的基础医学研究、前沿转化探索与教学医院的患者临床诊疗深度交织。在产学研合作视阈下，AMC 既是生物医药产业开展前沿[[Clinical Trial|临床试验]]、验证专有生物模型（如类器官、基因修饰动物模型）的核心执行载体，也是因多重串行审查、高管理费率而面临显著效率竞争的复杂机构。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, p. 179)]]; [[Argument_Bang_2025_ClinicalTrials|(Bang, 2025, pp. 201, 203)]]
 
 > [!concept-lens] 概念透镜

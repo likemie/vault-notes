@@ -84,7 +84,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 内部效度（Internal Validity）
 > **内部效度（Internal Validity，又称内在效度）** 衡量一项研究对某一特定事件、因果问题或数据集的解释**在多大程度上实际上能够为实证数据所严格支撑**。在[[Experimental Research\|实验研究]]中，它表征[[Causality\|因果推断]]的无偏性质量——即研究者能否确证被操纵的自[[Variable\|变量]]确实导致了[[Dependent Variable\|因变量]]的变化，而非混杂了未受控制的外部干扰。奥恩韦布兹与利奇（Onwuegbuzie & Leech, 2006b）进一步将其扩展界定为“在底层情境或群体内，实证解释与结论的真值、适用性、一致性、中立性与可信性”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 164)]]
 
 > [!citation-card] Creswell 对[[Threats to Internal Validity\|内部效度威胁]]的定义

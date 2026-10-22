@@ -56,7 +56,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 方法定义
+> [!def] 思维链提示（Chain-of-Thought Prompting）
 > 思维链提示（Chain-of-Thought Prompting, CoT）是一种通过在提示词（Prompts）中显式引入分步骤中间推理轨迹（Step-by-Step Reasoning Trajectories），引导大语言模型（Large Language Models, LLMs）将复杂、多步骤的认知推理任务分解为连贯推理序列的提示工程方法。在教育与[[Man-Computer Symbiosis|人机协同]]学习视域下，CoT 不仅是提升算法在数学、统计学与逻辑推理准确率的技术工具，更是将模型黑盒式的直接答案输出转化为外显化、可观察、可模仿的认识[[Scaffolding\|脚手架]]（Cognitive Scaffolding）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 2–4)]]
 
 > [!method-scope] 方法范围

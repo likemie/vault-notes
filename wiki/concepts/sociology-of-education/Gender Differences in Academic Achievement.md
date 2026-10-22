@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 学业成就性别差异（Gender Differences in Academic Achievement）
 > [[Academic Achievement\|学业成就]]性别差异（gender differences in academic achievement）是指在特定教育与学科情境中，男女学生在学业平均分、标准化测验、微观任务表现及认知信念上呈现出的系统性分化，以及这些分化与[[School Norm Adaptation\|学校规范适应]]、学习动机、[[Epistemological Beliefs\|认识论信念]]和性别角色社会化之间的深层关联。[[Argument_Lekhal_2015_Paideia\|(Lekhal et al., 2015, p. 76)]]; [[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 321-322)]]
 
 > [!concept-lens] 概念透镜

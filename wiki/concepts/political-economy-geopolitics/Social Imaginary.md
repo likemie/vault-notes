@@ -103,7 +103,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 社会想象（Social Imaginary）
 > **社会想象（Social Imaginary）** 最初由哲学家查尔斯·泰勒（Charles Taylor）系统阐发，并经人类学家阿尔君·阿帕杜莱（Arjun Appadurai）与教育政策社会学者[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）拓展至全球化与比较教育研究。它指普通民众及政策行动者想象自身社会存在、自身与他人如何契合、群体互动如何展开，以及背后所承载的深层规范性观念与意象图景（Taylor, 2004, p. 21）。在批判性全球教育政策社会学中，社会想象是由跨国[[Policy Network|政策网络]]与国际组织（如[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD））生产和扩散的一套相互重叠交织的[[Discourse|话语]]体系；它兼具描述性与规范性，将非结构化、偶发的经验事实与集体情感焦虑相融合，依托跨国指标与统计技术将其固化为关于教育目的、国家[[Competitiveness|竞争力]]与制度改革的“[[Doxa|不言自明]]的政策常识”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–446)]]
 
 > [!concept-lens] 概念透镜

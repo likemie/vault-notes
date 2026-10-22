@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 统计过程控制（Statistical Process Control）
 > **统计过程控制（Statistical Process Control, SPC）** 是一种运用统计学原理对生产制造、组织运营或教育服务等连续过程进行实时监测、变异诊断与质量受控状态评估的量化方法。其核心在于利用时序抽样数据绘制控制图（Control Charts），依据正态分布与随机波动规律设立上下控制界限（$\pm 3\sigma$），在过程发生系统性漂移或异常扰动时发出早期预警，从而实现由“事后检验筛选”向“事前预防与过程稳态控制”的根本转变。在半导体高精制造中，SPC 通过全流程在线参数监控消除工艺偏差，直接驱动缺陷密度压降与良率爬坡。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
 
 > [!method-scope] 方法范围

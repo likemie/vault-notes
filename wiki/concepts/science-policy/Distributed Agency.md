@@ -57,7 +57,7 @@ aliases:
 
 ---
 
-> [!def] 核心定义
+> [!def] 分布式主体（Distributed Agency）
 > **分布式主体（Distributed Agency / 分布式能动性）** 是指重大科技创新、[[Technological Trajectories|技术轨道]]跃迁与复杂社会转型中的能动性、知识存量与决策权力，并非集中于单一的“英雄式企业家”（Heroic Entrepreneur）或全能的“中央指令型政府”（Central Command State），而是分散分布于由政府各级部门、[[Research Universities|研究型大学]]、跨国大企业、科技初创公司、多边国际组织、大型慈善基金会、草根社会运动以及终端公民用户共同构成的多元异质行动者网络之中（Garud & Karnøe, 2003）。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将这一概念作为划分第二代与第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心分水岭，用以阐明 21 世纪应对气候危机、公共健康与老龄化照护等跨界棘手难题时，公共政策为何必须依托分布式主体实现多方共创与自发探索。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 > [!concept-lens] 概念透镜

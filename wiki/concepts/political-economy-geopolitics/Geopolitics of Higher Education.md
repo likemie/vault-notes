@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 高等教育地缘政治（Geopolitics of Higher Education）
 > 高等教育[[Geopolitics|地缘政治]]（Geopolitics of Higher Education）是一种将高等教育理解为一类地缘政治行动者或地缘政治[[Champ\|场域]]的分析视角。它致力于探讨高等教育的地缘政治意义，考察其如何被动或主动地参与到全球地缘政治空间和秩序的生产与再生产之中。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜

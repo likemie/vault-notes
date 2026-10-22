@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 测量等值性（Measurement Invariance）
 > **测量等值性（Measurement Invariance, MI）**（亦称测量不变性、测量等同性或测量恒常性）是指在多组[[Confirmatory Factor Analysis\|验证性因子分析]]（Multigroup CFA, MG-CFA）中，通过对不同群体（如性别、年龄、文化、地域）或不同时间点的测量模型施加阶梯式参数等值约束，系统检验测量工具是否在所有被试子群体中衡量了完全相同心理[[Construct\|构念]]与[[Scale of Measurement\|测量尺度]]的统计方法。它是开展跨群体均值比较、结构方程路径对比与跨文化研究的前提性方法论门槛。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–8)]]
 
 > [!method-scope] 方法范围

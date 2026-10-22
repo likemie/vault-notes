@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 生态效度（Ecological Validity）
 > **生态效度（Ecological Validity）** 要求将研究场所（如学校、大学、具体社区与班级）的**具体特征**全面纳入研究考量，而不是简单通过调查、访谈、观察和[[Questionnaire|问卷]]来复现政策的修辞（rhetoric of policies），即假设政策以预定意图或有权群体所宣称的方式被实施（Brock-Utne, 1996, pp. 617–618）。生态效度追问的是：研究所描述的因果机制与教育现象，在多大程度上真实反映了其在**自然发生情境**中的样貌？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 187–188)]]
 
 > [!concept-lens] 概念透镜

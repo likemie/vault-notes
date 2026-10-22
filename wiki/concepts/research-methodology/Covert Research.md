@@ -35,7 +35,7 @@ created: 2026-06-18
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 隐蔽研究（Covert Research）
 > 隐蔽或秘密研究指研究者在特定研究场所度过较长时间，隐瞒自己是研究者的事实并假装扮演其他角色的研究方式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 113–114]]）。隐蔽研究是欺骗的一种形式，但区别于实验欺骗——它涉及研究者身份的持续隐藏而非信息的单次隐瞒。
 
 > [!concept-lens] 概念透镜

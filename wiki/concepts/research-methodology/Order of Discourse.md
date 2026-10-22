@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 话语秩序（Order of Discourse）
 > **[[Discourse|话语]]秩序（Order of Discourse，亦称话语规序）** 是批判性[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, [[Critical Discourse Analysis|CDA]]）的核心宏观理论范畴，源自法国哲学家米歇尔·福柯（Michel Foucault, 1970）的就职演讲《话语的秩序》（*L'ordre du discours*），并由英国语言学家[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough, 1989, 1995, 2003）在三维话语模型中推进为系统的社会学分析工具。话语秩序特指特定社会机构、领域或整个社会网络中，各类话语实践（Discursive Practices）的总和及其结构化的相互关联模式。它涵盖了体裁（Genres）、话语类型（Discourses）与语态风格（Styles）在社会空间中的相对稳定配置；当外部权力结构发生转变时，不同领域间话语秩序的边界松动、重组与相互殖民，构成了观察制度变迁与霸权争夺的结构性指针。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 684)]]
 
 > [!concept-lens] 概念透镜

@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 证据链（Chain of Evidence）是研究方法论与科学论证中的核心质量保障原则，指在研究报告或学术论辩中建立一条从初始问题、数据来源、收集情境、中间推断直至最终结论之间清晰、透明且可双向追溯的完整逻辑路径。
 
-> [!def] 核心定义
+> [!def] 证据链（Chain of Evidence）
 > 证据链要求研究者提供严密的证据线索，使得外部审查者能够无缝进行双向核验：既能从[[Research Question\|研究问题]]顺向追踪到具体设计、工具、原始数据与推论结论；也能从最终结论逆向回溯至支持该结论的具体经验数据及其产生的微观情境条件（时间、地点、主体互动）。证据链赋予研究结论以坚实的可[[Reliability\|信度]]、[[Reliability\|信度]]与效度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 289)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146, 156)]]
 
 > [!concept-lens] 概念透镜

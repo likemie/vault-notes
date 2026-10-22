@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究间方差（Between-Study Variance）
 > **研究间方差（Between-Study Variance，记为 $\tau^2$ 或 $\text{Tau}^2$）** 是[[Random-Effects Model|随机效应]][[Meta-analysis|元分析]]模型中的核心统计参数。它衡量的是各项初级研究背后的“真实[[Effect Size|效应量]]”（True Effect Sizes）分布的方差，代表了[[Sampling Error|抽样误差]]（Sampling Error, $v_i$）之外、由不同研究人群特征、干预实施强度、测量工具与情境条件等实质性差异所引起的跨研究变异总量。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 38–39)]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围

@@ -48,7 +48,7 @@ related_arguments:
 
 ---
 
-> [!def] 核心定义
+> [!def] 文化等级（Cultural Hierarchy）
 > 文化等级（Cultural Hierarchy），指支配群体利用文化权威与制度化手段，将其特定的文化视角、价值观与生活方式合法化为社会“正统”或“普遍”标准，同时将边缘或少数群体的文化降格为“次等”、“落后”或“局部”的符号支配与不平等再生产机制[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]。在教育[[Champ\|场域]]中，文化等级常隐蔽地通过[[Official Knowledge\|官方知识]]与课程筛选加以巩固。
 
 > [!concept-lens] 概念透镜

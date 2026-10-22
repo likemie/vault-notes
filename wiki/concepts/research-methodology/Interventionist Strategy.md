@@ -36,10 +36,10 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 干预主义策略（Interventionist Strategy）
 > 干预主义策略（interventionist strategy）是研究原因之效果（effects of causes）的核心策略：施加一项干预，目的有两种可能——检验假设的因果影响或因果模型，或者利用已知的因果效应来产生预期效果。干预主义策略通过操纵[[Variable\|变量]]来观察其对效果产生的差异，属于前向[[Causality\|因果推断]]（从原因到效果）。非干预本身也可以是原因——不浇水导致植物死亡，即什么都不做也可以是一个原因。
 
 > [!concept-lens] 概念透镜

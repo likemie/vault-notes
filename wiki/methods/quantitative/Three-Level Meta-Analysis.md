@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 三层元分析（Three-Level Meta-Analysis）
 > 三层[[Meta-analysis\|元分析]]（Three-Level Meta-Analysis）是将[[Hierarchical Linear Model\|多层线性模型]]（Multilevel Linear Modeling）扩展应用于元分析的量化合成方法，专门用于解决单项原始研究报告多个相关[[Effect Size\|效应量]]时产生的统计依赖性（Statistical Dependence）问题。该方法将观察到的总变异解构为三个层级：第一层为效应量层面的[[Sampling Error\|抽样误差]]方差（Sampling Variance），第二层为同一研究内部不同效应量之间的研究内方差（Within-Study Variance），第三层为不同研究之间的[[Between-Study Variance\|研究间方差]]（Between-Study Variance）。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
 
 > [!method-scope] 方法范围

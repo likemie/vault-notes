@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 目的适配性（Fitness for Purpose）
 > **目的适配性（Fitness for Purpose）** 指研究规划中的方法论选择、统计推断解释以及实践中证据品质的判定，必须严格以其所拟达成的具体目的（Purposes）为根本依归。在研究设计层面，[[Research Purpose\|研究目的]]决定研究类型、问题表述、抽样策略、资料收集工具与伦理决策，研究设计没有先验的统一蓝图，而是由目的适配性全面支配（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch. 6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch. 7, p. 118]]）；在循证政策与实践层面，目的适配性构成了界定“适切研究证据”（Appropriate Research Evidence）的实质准绳，主张证据的优劣不能由脱离情境的单一证据等级制（Hierarchy of Evidence）垄断，而须取决于方法学严谨性与具体教育议题、组织情境及行动主体的深度拟合（Nutley et al., 2013；[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 140–141]]）。
 
 > [!concept-lens] 概念透镜

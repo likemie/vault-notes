@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 商用现货（Commercial Off-The-Shelf）
 > 商用现货（Commercial Off-The-Shelf, COTS；或称商业货架产品、现成商用技术）指无需经过政府或特定客户出资定制开发、已在公开商业市场上成熟流通并向一般公众或企业销售的硬件设备、材料与软件平台。在科技政策与防务采办语境中，COTS 采购[[Paradigm|范式]]代表了一种打破传统政府机构“自上而下定制设计—多层转包—漫长采购”垄断模式的制度创新，要求公共与防务部门优先采用私营商业市场通过竞争与快速迭代发展出的成熟技术，以较低的边际成本与更快的交付速度支持国家公共能力与战略安全。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 145–154)]]
 
 > [!concept-lens] 概念透镜

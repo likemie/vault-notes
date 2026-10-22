@@ -111,7 +111,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识经济（Knowledge-Based Economy）
 > 知识经济（Knowledge-Based Economy, KBE）指一种实际存在的资本积累与社会生产形态，其中知识、创新、学习、高等教育、研发、技术以及[[Higher-Order Thinking Skills|高阶思维技能]]（特别是[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]）是价值创造、财富提取以及国家、城市和区域间[[Geopolitics|地缘政治]]与经济竞争的绝对核心要素。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]
 
 > [!concept-lens] 概念透镜

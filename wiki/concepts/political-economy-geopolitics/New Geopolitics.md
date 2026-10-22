@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 新地缘政治（New Geopolitics）
 > 新[[Geopolitics|地缘政治]]（New Geopolitics）是20世纪90年代以来以[[Critical Geopolitics\|批判地缘政治]]（Critical Geopolitics）为代表的一系列地缘政治理论的统称。它采取[[Constructivist Paradigm\|建构主义]]立场，与处于物质—实践端的[[Classical Geopolitics\|传统地缘政治]]形成[[Ontology\|本体论]]上的根本差异：空间不是政治活动的客观背景，而是经由命名、叙述、分类及治理等[[Discourse|话语]]实践不断生产与重组的社会政治产物；权力不再主要体现为军事力量或对领土的直接控制，而是表现为通过[[Knowledge Production\|知识生产]]、话语建构、规范制定与日常治理实现的空间秩序塑造能力。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 11–12)]]
 
 > [!concept-lens] 概念透镜

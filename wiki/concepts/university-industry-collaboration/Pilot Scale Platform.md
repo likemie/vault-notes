@@ -94,7 +94,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 中试平台（Pilot Scale Platform）
 > **中试验证平台（Pilot Scale Platform / Pilot Line，亦称中试基地或中试制造平台）** 是介于大学与科研机构实验室原理验证（[[Technology Readiness Level|TRL]] 1–3）与工业界商业化规模量产（TRL 8–9）之间的关键共性技术基础设施。
 >
 > 中试平台提供高度接近真实工业生产环境的中间试验线、专用设备测试床、共享微纳洁净室与药品生产质量管理规范（GMP）级工艺放大环境，旨在验证新技术的可重复性、制造公差、环境适应性、平均无故障工作时间（MTBF）及[[Cost of Ownership|所有权成本]]（COO），从而系统性消除技术成果产业化落地过程中的高额试错风险，跨越深科技（Deep-Tech）转化中的“[[Valley of Death|死亡之谷]]”。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–41)]]

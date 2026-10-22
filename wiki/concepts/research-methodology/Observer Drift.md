@@ -31,7 +31,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 观察者漂移（Observer Drift）
 > 观察者漂移（Observer [[Institutional Drift|drift]]）是观察者在长时间观察过程中逐渐改变评分标准和判断尺度的倾向（Cooper & Schindler, 2001, p. 380）。随着时间推移，同一观察者可能对相同行为给出不同的评分或编码，导致数据的[[Reliability\|信度]]下降（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 > [!concept-lens] 概念透镜

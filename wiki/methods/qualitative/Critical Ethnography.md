@@ -42,7 +42,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-> [!def] 方法定义
+> [!def] 批判民族志（Critical Ethnography）
 > 批判[[Ethnography\|民族志]]（Critical Ethnography）是将权力、不平等和解放作为核心关切的批判[[Qualitative Research\|质性研究]]方法，以改变而非仅仅描述社会现实为目标。该方法将民族志探究从"发现和描述"推进到"质疑和改变"，使研究成为揭露压迫并赋权被研究群体的行动主义实践。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 446–451)]]
 
 > [!method-scope] 方法范围

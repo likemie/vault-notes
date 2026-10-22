@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 质性计算机软件（Qualitative Computer Software）
 > 质性计算机软件（Qualitative Computer Software），通常称为计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是指用于辅助[[Qualitative Research\|质性研究]]中组织、排序、存储、检索和分析文本、音频与图像数据库的专用程序与智能分析系统（Guest et al., 2012; 引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 206]]）。传统 CAQDAS（如 NVivo、MAXQDA、ATLAS.ti、Dedoose 等）的核心逻辑是“标记与检索”（code-and-retrieve），主要承担机械性管理与关系数据库支持，本身并不进行自动化的理论诠释；随着[[Generative Artificial Intelligence\|生成式人工智能]]与大语言模型（LLM）的发展，计算工具进一步演进为具备语义理解、概念初筛与交互式探索能力的认知协同系统，但质性研究中对经验脉络的主观赋意与效度核验责任始终由人类研究者承担。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 537, 576)]]
 
 > [!method-scope] 方法范围

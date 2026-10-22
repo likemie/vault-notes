@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 文献检索（Literature Search）
 > 文献检索（Literature Search）是[[Literature Review|文献综述]]的操作性环节，指运用系统策略从学术数据库、图书专著、学术会议与官方机构等多元渠道定位、筛选和获取与[[Research Topic|研究主题]]相关的已有文献的过程。它为文献综述的理论论证提供实证材料基础，本身侧重于技术性信息获取与质量甄别操作（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1]]）。在大规模[[Systematic Review|系统文献综述]]中，检索所设定的数据库类型与语种边界直接决定了后续综合证据的覆盖广度与代表性（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 252]]）。
 
 > [!concept-lens] 概念透镜

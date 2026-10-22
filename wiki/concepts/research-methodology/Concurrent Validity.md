@@ -29,12 +29,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 共时效度（Concurrent Validity）
 > 共时效度（Concurrent validity）是[[Criterion-related Validity\|效标关联效度]]的一种形式：使用一种工具收集的数据必须与**同时**使用另一种工具收集的数据**高度相关**。共时效度的核心特征是**不存在时间要素**——两种工具在同一时间窗口内施测，一致性的证明不需要等待未来结果的出现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 179)]]
 
 > [!concept-lens] 概念透镜

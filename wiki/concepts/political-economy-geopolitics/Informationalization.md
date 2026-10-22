@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 信息化（Informationalization）
 > 信息化（Informationalization / Informationalisation），是指一种以知识和信息为核心生产要素、依托信息通信技术（Information and Communications Technology, ICT）与水平网络协同以质化优化生产要素组合与使用效率的新型发展模式（Mode of Development）。[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells, 1996/2010）在[[Informationalism|信息主义]]（Informationalism）与[[Network Society|网络社会]]理论中确立了该概念，指出与依赖重工业物质投入规模的工业化（Industrialization）相比，信息化的核心生产力源于知识的创造、处理、加工与自由传递。在公共政策与教育治理视阈中，信息化进一步引申为国家依托数字网络重组公共服务、将数字化基础设施与教学技术服务向外部科技企业及商业中介外包的制度变革过程。[[Argument_Chan_2015_Intersect|(Chan, 2015, pp. 2–3)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 47)]]
 
 > [!concept-lens] 概念透镜

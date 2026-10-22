@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 合作研发协议（Cooperative Research and Development Agreement）
 > **合作研发协议（Cooperative Research and Development Agreement, CRADA）** 是美国科技政策与产学研合作体系中的经典法律与规制机制，由 1986 年《联邦[[Technology Transfer|技术转移]]法》（Federal Technology Transfer Act of 1986, FTTA）正式确立。CRADA 允许美国联邦政府机构直属的 700 余个国家实验室及联邦研究中心，在无需适用严格的《联邦采购条例》（Federal Acquisition Regulation, FAR）的前提下，与私营企业、非营利科研组织及[[Research Universities|研究型大学]]订立平等的合作协议。通过该协议，联邦实验室可贡献专有人员、实验场地、超级计算资源、前沿仪器与专有技术，合作方则提供资金、产业工艺或互补技术，共同攻关具有重大战略价值的前沿技术，并依法共享由此产生的知识产权与商业化收益。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–42)]]; [[Argument_Block_2008_PS|(Block, 2008, pp. 177, 180)]]
 
 > [!concept-lens] 概念透镜

@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识合作常态化（Normalization through Knowledge Cooperation）
 > 知识合作常态化（Normalization through Knowledge Cooperation，或称网络中心性常态化 Normalization of Network Centrality）是由周孟萱（Meng-Hsuan Chou）与托尔加·德米尔约尔（Tolga Demiryol）在解析中国外向型高等教育多边联盟战略时提出的[[Construct|理论构念]]。该概念指新兴国家摆脱传统中心-外围依附地位，通过构建并织密跨国多对多大学合作网络，使其在实体物质层面（高校的全天候在场）与理念[[Discourse|话语]]层面（以世界为中心的治理模式认同）成为全球[[Knowledge Production|知识生产]]版图中不可或缺的日常中心枢纽的过程。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 
 > [!concept-lens] 概念透镜

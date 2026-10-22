@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 机会主义者（Opportunists）
 > 机会主义者（Opportunists）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过解耦行动者的长期制度维系目标与短期策略遵从行为确立，特指对制度存续持模糊偏好（既不积极维护亦不主动寻求废除）、在日常行动中采取模糊遵从（视收益与风险相机抉择）的博弈主体。机会主义者不愿承担公开对抗掌权者的高昂政治成本，但在弱否决阻力与高[[Enforcement Discretion|规则裁量权]]的制度情境下，会敏锐利用法律条文的内生模糊性将既有规则重新部署（redeploy）用于全新目标，成为驱动[[Institutional Conversion|制度转换]]的关键主体；而在常规政治中，其不作为构成体制维持现状的惰性盟友，在抗争越过临界规模时则通过集体倒戈触发级联变革（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 26–31]]）。
 
 > [!concept-lens] 概念透镜

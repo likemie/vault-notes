@@ -67,7 +67,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-> [!def] 因子设计
+> [!def] 因子设计（Factorial Design）
 > **因子设计（Factorial Design，亦称析因设计）** 是[[Experimental Research\|实验研究]]中同时操纵两个或多个[[Independent Variable\|自变量]]（因子），以检验每个自[[Variable\|变量]]的独立主效应（Main Effects）以及自变量之间[[Interaction Effect\|交互效应]]（Interaction Effects）的高级实验设计类型（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）。其命名基于因子数量与水平数——例如 $2 \times 2$ 因子设计表示两个自变量各包含两个水平，形成 4 种正交的处理组合。
 >
 > 因子设计在组织结构上通常表现为一种特化的[[Multi-Arm Trial\|多臂试验]]（Multi-Arm Trial），但其核心方法学本质在于揭示**条件性[[Causality\|因果关系]]**——即某一自变量的干预效应是否依赖于另一自变量（或环境背景）的特定水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 323–324]]）。在第二代[[Evidence-Based Education\|循证教育]]与[[Realist Evaluation\|现实主义试验]]中，析因设计与多臂试验构成了打破复杂干预“因果黑箱”的核心方法学利器，使得研究者能够系统解构多组分方案，分别及组合检验干预组件的离散效能与协同机制（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）。

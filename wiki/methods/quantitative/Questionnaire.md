@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 问卷（Questionnaire）
 > 问卷（Questionnaire）是一种通过结构化、标准化或半结构化的题项序列系统收集受访者信息、态度、信念与行为数据的量化与[[Survey Research|调查研究]]工具。它能够提供结构化、通常是数字化的数据，可无需研究者在场施测，支持从描述性统计到高级多元统计分析的多种研究需求。问卷始终是对受访者生活的侵入，必须在研究设计伊始兼顾技术严谨性与伦理考量。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20, pp. 105–106)]]
 
 > [!method-scope] 方法范围

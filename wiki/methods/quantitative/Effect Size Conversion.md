@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 效应量转换（Effect Size Conversion）
 > [[Effect Size Conversion\|效应量转换]]（[[Effect Size]] [[Institutional Conversion|conversion]]）指在[[Meta-analysis\|元分析]]（Meta-analysis）与定量证据合成中，运用数学统计模型将来自不同研究设计、测量工具与数据类型（如实验组对照组均值差、相关系数、独立样本 $t$ 检验、二分[[Variable\|变量]]联列表等）的原始统计量，统一转换为可比较的标准化[[Effect Size\|效应量]]指标（如[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$、标准化均值差 $d$ 或 $g$）的系统化计算程序与数学推导体系。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 
 > [!method-scope] 方法范围

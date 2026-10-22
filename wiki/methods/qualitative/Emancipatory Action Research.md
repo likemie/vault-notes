@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 解放性[[Action Research\|行动研究]]（Emancipatory Action Research）
+> [!def] 解放性行动研究（Emancipatory Action Research）
 > 解放性行动研究是[[Action Research\|行动研究]]中最激进的分支，以[[Jürgen Habermas\|尤尔根·哈贝马斯]]（[[Jürgen Habermas\|Jürgen Habermas]]）的[[Critical Theory\|批判理论]]为[[Epistemology\|认识论]]基础，旨在发展参与者对阻碍其自主与自由的制度性和人际性约束的理解，帮助参与者从束缚走向自由、自主和社会正义（雪莉·格伦迪（Shirley Grundy）, 1987, pp. 146–147）。其核心目的不仅是技术和实践改进，还包括改变系统本身或阻碍系统改进的条件，没有层级，只有开放和对称沟通（奥特伦·祖伯-斯凯里特（Ortrun Zuber-Skerritt）, 1996a, p. 5）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 272–280)]]
 
 > [!method-scope] 方法范围

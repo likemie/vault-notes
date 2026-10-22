@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学自给自足（Scientific Autarky）
 > 科学自给自足（Scientific Autarky）是指在科学与技术领域追求自主自足、降低对外部研究资源（包括科研资金、高水平学者、尖端设备等）和跨国合作依赖的政策导向与战略模式。该导向旨在维护国家的技术与科研主权，但往往会由于国际学术交流受限和竞争性资金减少，而带来科研人员流动性弱化、学术管理僵化及学术[[Competitiveness|竞争力]]下降等潜在风险 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, pp. 35–37)]]。
 
 > [!concept-lens] 概念透镜

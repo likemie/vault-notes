@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 操作化（Operationalization）
 > 操作化意味着**指定一套可以被测量、处理或操纵的操作或行为**。其核心是将一般[[Research Purpose|研究目的]]转化为具体、可回答的问题或可检验的假设，使抽象概念走向经验具体（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7, p. 126]]）。
 
 > [!concept-lens] 概念透镜

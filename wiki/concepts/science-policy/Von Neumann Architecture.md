@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 冯·诺依曼体系结构（Von Neumann Architecture）
 > 冯·诺依曼架构（Von Neumann Architecture），又称存储程序计算机体系结构（Stored-Program Computer Architecture），是数学家约翰·冯·诺依曼（John von Neumann）于 1945 年在《离散[[Variable|变量]]自动电子计算机报告书的第一份草案》（*First Draft of a Report on the EDVAC*）中系统阐述的通用电子数字计算机体系结构[[Paradigm|范式]]。其核心原则为“存储程序与程序控制”——将预先编制的计算程序指令与运算数据同等以二进制代码形式存放在统一的随机存取内部存储器中，由中央处理器顺序提取指令并自动译码执行；该架构在物理与逻辑上由运算器、控制器、存储器、输入设备和输出设备五大基本部件构成。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 
 > [!concept-lens] 概念透镜

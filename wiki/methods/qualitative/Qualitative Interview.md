@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 质性访谈（Qualitative Interview）
 > 质性访谈（Qualitative Interview）是[[Qualitative Research|质性研究]]中研究者与参与者进行开放式对话以深入理解其主观经验、观点和意义建构的数据收集方法。其核心在于通过人际互动获取生活世界的声音，具有主体间性（intersubjective）与情境共建性。常见形式包括面对面访谈、[[Telephone Interview|电话访谈]]、[[Focus Group|焦点小组]]与在线网络访谈，使用非结构化或半结构化的开放式问题序列。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 199)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, p. 409)]]
 
 > [!method-scope] 方法范围

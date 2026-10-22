@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 参与观察本土化（Going Native）
 > [[Participant Observation|参与观察]]本土化（Going Native，亦称土著化或观察者角色迷失），在[[Qualitative Research|质性研究]]、人类学与[[Ethnography|民族志]][[Fieldwork|田野调查]]方法论中，是指参与观察者在长期深度的田野浸润过程中过度认同被研究群体，将研究对象的价值观、规范和行为模式完全内化为自身的信念，从而丧失学术客观性、分析性反思意识与批判距离，由“研究者”彻底蜕变为“群体成员”的[[Epistemology|认识论]]与方法论危机（Kawulich, 2005, p. 4；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.6 节]]）。它是观察者角色连续体中完全参与者（Complete Participant）的核心方法论风险，与完全脱离角色的推断危险构成参与观察的两极困境。
 
 > [!concept-lens] 概念透镜

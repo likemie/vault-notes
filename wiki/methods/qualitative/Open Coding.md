@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 开放编码（Open Coding）
 > **开放编码（Open Coding，又称开放式编码、初始编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的奠基性操作程序：指将原始经验文本（如访谈逐字稿、[[Field Notes\|田野笔记]]、档案材料）系统拆解切碎为细小的[[Unit of Analysis\|分析单位]]，并通过细致检验、持续比对、概念化提炼与归类，为文本片段赋予概念化标签或范畴代码的过程（Strauss & Corbin, 1990, ch. 5, pp. 61–72；Flick, 2009, pp. 307–310；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 560–561]]）。
 >
 > 开放编码的核心目的不仅在于为经验文本贴上描述性标签，更在于发掘潜在的**范畴（Categories）**，并系统界定这些范畴的内部**属性（Properties）** 以及属性在连续统上的**维度（Dimensions）**，为后续的[[Axial Coding\|主轴编码]]与[[Selective Coding\|选择性编码]]奠定坚实的操作基底。

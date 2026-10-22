@@ -39,7 +39,7 @@ created: 2026-08-05
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 视觉数据（Visual Data）
 > 视觉数据（visual data）指教育研究者能够看到、观看或注视，并可作为研究材料的一切图像性资料，包括照片、影片、录像、电视、广告、图片、[[Artefact\|器物]]、美术品、地图、图画与漫画等。视觉数据不是中立的现实复制品，而是由图像生产、图像本身与图像受众三重维度构成的现实呈现（presentation of reality），需要被解读，且往往存在多重解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
 > [!concept-lens] 概念透镜

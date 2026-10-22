@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究安全（Research Security）
 > 研究安全（Research Security）指大学、科研机构与资助部门为保护学术研究活动、敏感技术成果、知识产权以及科研人员，免受外国政府不当干预、经济间谍活动以及未授权[[Knowledge Transfer|知识转移]]威胁而建立的一整套制度性风险防范与合规治理框架。它不仅涵盖针对技术系统的安全防护，更聚焦跨国与跨机构科研伙伴关系中的人为与结构性风险，核心在于在开放科学、[[Academic Freedom|学术自由]]与国家安全防线之间寻求动态平衡。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 
 > [!concept-lens] 概念透镜

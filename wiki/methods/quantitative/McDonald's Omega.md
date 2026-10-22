@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 麦克唐纳系数（McDonald's Omega）
 > **麦克唐纳 $\omega$ 系数（McDonald's Omega）** 是现代心理计量学与结构方程模型中基于同类测验模型（Congeneric Test Model）估计测量工具[[Internal Consistency\|内部一致性]][[Reliability\|信度]]的核心统计量。由 Roderick McDonald（1999）系统提出，它通过显式纳入每个题项在潜[[Variable\|变量]]上的非等同**因子载荷（Factor Loadings）** 与**测量残差方差（Error Variances）**，消除了经典 Cronbach's $\alpha$ 强求本质 $\tau$-等值（等载荷）所带来的系统性信度低估偏差。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 11)]]
 
 > [!method-scope] 方法范围

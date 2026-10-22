@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 意识形态批判（Ideology Critique）
 > 意识形态批判（Ideology Critique）是[[Critical Theory|批判理论]]与[[Critical Pedagogy|批判教育学]]的核心[[Qualitative Research|质性研究]]方法论，通过反思实践系统揭示特定社会情境与教育制度中被压制的可普遍化利益（generalizable interests），暴露支配群体如何以“普遍利益”之名推进其部门利益，使参与者认识到自身处境的社会根源并推动实质性变革与解放。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 63–65)]] 在比较教育学的方法论谱系中，卡扎米亚斯（Kazamias, 1961）与拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）将“意识形态批判”与“[[Educational Meliorism|改良主义]]”、“严格[[Value Neutrality|价值中立]]”并列为学科探究的三大根本价值取向。
 
 > [!method-scope] 方法范围

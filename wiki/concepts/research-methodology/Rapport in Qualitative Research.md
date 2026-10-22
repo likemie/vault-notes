@@ -31,7 +31,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 质性研究中的融洽关系（Rapport in Qualitative Research）
 > 融洽关系（rapport）是质性[[Fieldwork\|田野研究]]中研究者与参与者之间建立的信任、相互理解和合作的工作关系。它不是一个有或无的二元状态，也不是可以一次性达成的静态成就——融洽关系的性质、程度和类型随时间、人和事件的演变而持续变化，需要不断协商和重新协商。融洽关系的有无直接影响数据收集质量、抽样决策和研究设计的推进。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 428–430)]]
 
 > [!concept-lens] 概念透镜

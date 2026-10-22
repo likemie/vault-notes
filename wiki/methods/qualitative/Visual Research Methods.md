@@ -60,7 +60,7 @@ created: 2026-08-05
 updated: 2026-10-22
 ---
 
-> [!def] 方法定义
+> [!def] 视觉研究方法（Visual Research Methods）
 > 视觉研究方法（visual research methods）是利用照片、影片与录像、[[Artefact\|器物]]等[[Visual Data\|视觉媒体]]收集教育研究资料的方法家族，涉及图像的制作、图像本身与图像的受众三个环节。核心主张：视觉媒体不是中立的，必须处理图像的选择性、自身解读的[[Reflexivity\|反身性]]以及随之而来的[[Informed Consent\|知情同意]]与匿名化等伦理问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 
 > [!method-scope] 方法范围

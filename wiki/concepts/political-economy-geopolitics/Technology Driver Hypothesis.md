@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 技术驱动产品假设（Technology Driver Hypothesis）
 > **技术驱动产品假设（Technology Driver [[Hypothesis]]）** 是 20 世纪 80 年代全球半导体产业界、政策分析家与科技经济学家普遍持有的主导性信条。该假设断言：具有规整电路拓扑和超大生产通量的大宗标准化动态随机存取内存（Dynamic Random-Access Memory, DRAM），是全行业研发微米/亚微米级微细加工工艺、调试前沿光刻装备以及积累晶圆制造良率经验所**不可或缺的唯一技术驱动载体（Technology Driver）**。依据该假设，任何放弃或失去 DRAM 规模量产制造能力的国家或企业，其在微处理器、逻辑芯片及尖端设备制造上的前沿工艺能力必将不可逆转地走向崩溃。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 114–118)]]
 
 > [!concept-lens] 概念透镜

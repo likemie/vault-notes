@@ -41,7 +41,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 方法定义
+> [!def] 关键事件法（Critical Incidents）
 > 关键事件法（Critical Incident Technique）由 Flanagan（1949）提出，后被 Wragg（1994）发展为教育研究中的关键事件观察方法。关键事件是"对观察者而言似乎比其他事件更有趣的事件，因此值得比其他事件更详细地记录；它们具有重要的洞察可供提供"（Wragg, 1994, p. 64）。这些事件通常是非例行但极具揭示性的，可能典型地或鲜明地阐明被观察者行为、态度或情境的某一重要特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.5 节]]）。
 
 > [!method-scope] 方法范围

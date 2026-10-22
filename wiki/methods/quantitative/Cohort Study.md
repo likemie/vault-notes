@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 队列研究（Cohort Study）
 > 队列研究（Cohort Study，又称追踪研究或世代研究）是一种[[Longitudinal Study|纵向研究]]设计，追踪具有某种共同特征（队列，cohort）的特定群体在特定时间段内的历时变化。在人类生长与发展的队列研究中，在代表性总体样本上展开，能够独特地识别典型发展模式并揭示作用于这些样本的因果动态机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, p. 271)]]
 
 > [!method-scope] 方法范围

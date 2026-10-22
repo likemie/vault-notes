@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 制度转换（Institutional Conversion）
 > [[Historical Institutionalism|历史制度主义]]中解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心机制之一；指正式制度规则本身保持不变，但行动者通过主动利用规则内在的模糊性与裁量空间，对规则进行策略性重新部署（Strategic Redeployment），从而改变其实际执行方式，使既有制度服务于全新的目标、职能或政治群体。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17–18)]]
 
 > [!concept-lens] 概念透镜

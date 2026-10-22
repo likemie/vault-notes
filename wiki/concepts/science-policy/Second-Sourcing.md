@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 第二货源采购机制（Second-Sourcing）
 > 第二货源采购机制（Second-Sourcing）是冷战时期美国军方（特别是空军与海军军械部门）在先导高科技装备与微电子器件采购合同中强制推行的规制条款：要求中标的主承包商（Prime Contractor）必须与至少一家具备生产能力的独立竞争对手（第二货源供应商）签署[[Technology Transfer|技术转让]]与全面交叉许可协议，向其无保留移交产品的设计图纸、光刻掩膜、材料配方与制造工艺诀窍（Process Know-how），以确保军方在战时或主供应商产能中断时拥有完全兼容的备份供货渠道。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
 
 > [!concept-lens] 概念透镜

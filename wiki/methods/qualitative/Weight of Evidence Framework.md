@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 证据权重框架（Weight of Evidence Framework）
 > 证据权重框架（Weight of Evidence Framework，简称 WoE）是由大卫·高夫（[[David Gough]]）于 2007 年提出的一套用于[[Systematic Review\|系统综述]]内部研究质量与相关性综合评价的[[Operationalization\|操作化]]方法。其核心前提是：在评价一项研究对特定综述问题的贡献价值时，既需考察研究本身的内在方法学严谨性（即独立于任何具体问题的研究质量），也必须审视该研究对当前综述特定问题的情境适切性（即该研究在多大程度上设计成可以回答本综述所关注的问题）。两个维度相互独立、分别裁决，最终综合加权成每项研究对综述结论的整体贡献力。这一框架根本上挑战了按研究设计类型划定单一等级的等级制传统，主张不存在独立于问题之外的"最优研究设计"（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 153–154]]）。
 
 > [!method-scope] 方法范围

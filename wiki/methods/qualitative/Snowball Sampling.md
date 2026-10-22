@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 滚雪球抽样（Snowball Sampling）
 > 滚雪球抽样（Snowball Sampling），亦称链式转介法（chain-referral methods），是[[Non-probability Sampling\|非概率抽样]]的一种具体形式。研究者首先识别少数具备所需特征的个体（种子），利用其社会网络与人际联系逐层识别并招募更多合格受访者，后者进一步提供转介，导致样本规模如滚雪球般层层扩大。该方法本质上是社会性的，高度依赖人际信任与强关系网络。
 
 > [!method-scope] 方法范围

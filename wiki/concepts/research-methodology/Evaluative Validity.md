@@ -34,12 +34,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 评价效度（Evaluative Validity）
 > 评价效度（Evaluative validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity\|质性效度]]类型中的第五种，指对被研究对象采取**评价性、判断性立场**——而非仅仅描述、解释或阐释——的效度。它明确承认：研究者的**价值判断**可以（且在批判取向研究中应当）是研究效度的组成部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
 
 > [!concept-lens] 概念透镜

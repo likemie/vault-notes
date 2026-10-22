@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 国家简化（State Simplification）
 > 国家简化（State Simplification）是政治学家与人类学家詹姆斯·C·斯科特（[[James C. Scott]], 1998）提出的核心概念，指现代国家官僚机器为了对复杂庞大的社会现实实施自上而下的统领、赋税与行政控制，通过绘制地图、制定人口普查、统一量度单位及创立标准化问责指标等技术，将极其复杂、生动多元且情境嵌入的社会生活和地方性实践，暴力裁切并重构为整齐划一、可度量、可横向比较的分类客体。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653; Scott, 1998)]]
 
 > [!concept-lens] 概念透镜

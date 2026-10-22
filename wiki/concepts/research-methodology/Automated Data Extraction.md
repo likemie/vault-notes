@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 自动化数据提取（Automated Data Extraction）
 > 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化文献全文（如 PDF 格式的期刊论文）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜

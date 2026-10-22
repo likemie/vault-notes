@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 逆方差加权法（Inverse-Variance Weighting）
 > 逆方差加权法（Inverse-Variance Weighting，IVW）是[[Meta-analysis\|元分析]]与统计综合中最基础、应用最广泛的最优线性加权方法。其核心原理是根据各个独立研究（或一阶元分析）所报告[[Effect Size\|效应量]]的抽样精度反比（即抽样方差的倒数）赋予统计权重。在[[Fixed-Effect Model\|固定效应模型]]下，权重为研究内方差的倒数；在[[Random-Effects Model|随机效应模型]]下，权重为研究内方差与[[Heterogeneity\|研究间异质性]]方差之和的倒数。根据高斯-马尔可夫定理（Gauss-Markov Theorem），逆方差加权能够使得合成效应量的方差达到理论最小值，从而获得最佳线性无偏估计（Best Linear Unbiased Estimator，BLUE）。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 26)]]; [[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 6)]]
 
 > [!method-scope] 方法范围

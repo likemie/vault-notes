@@ -46,7 +46,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 核心定义
+> [!def] 校正覆盖面积（Corrected Covered Area）
 > 校正覆盖面积（Corrected Covered Area, CCA）是由 Pieper et al. (2014) 提出、用于在[[Umbrella Review\|伞状综述]]（Umbrella Review）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order [[Meta-analysis]], SOMA）中**定量评估多个已发表系统评价或元分析之间初级实证研究重叠程度的标准化统计指标**。该指标通过从总纳入频次中扣除[[Primary and Secondary Documents\|初级文献]]的基准计数值，消除了综述数量与研究总量本身对覆盖率的被动稀释或抬升效应，以 $0\%–100\%$ 的标准化比率精确测度[[Primary and Secondary Documents\|初级文献]]重复被纳入的冗余强度。[[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1373–1375)]]
 
 > [!concept-lens] 概念透镜

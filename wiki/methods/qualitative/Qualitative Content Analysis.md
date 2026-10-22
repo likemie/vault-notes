@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 质性内容分析（Qualitative Content Analysis）
 > **质性[[Content Analysis\|内容分析]]（Qualitative Content Analysis，简称 QCA，又称质性文本分析）** 是一种将定性诠释学的深度语境理解与经典内容分析的严密规则性相融合的实证文本分析方法。由德国心理学与教育学方法学家菲利普·迈林（Philipp Mayring, 2000, 2004, 2014）系统奠基。QCA 既反对传统量化内容分析将文本机械还原为脱离语境的孤立词频计数，亦摒弃无结构自由诠释缺乏程序透明度与[[Reliability\|信度]]校验的随意性；它将分析置于传播生成情境中，依托逐级抽象释义、编码指南（Coding agenda）与形成性复核（Formative reliability check），从经验材料中系统提炼出兼具理论严谨性与情境扎根性的范畴体系（Mayring, 2004, pp. 266–269；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 563, 567]]）。
 
 > [!concept-lens] 概念透镜

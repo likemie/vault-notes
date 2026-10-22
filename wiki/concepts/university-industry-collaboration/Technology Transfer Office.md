@@ -71,7 +71,7 @@ created: 2026-06-03
 
 ---
 
-> [!def] 核心定义
+> [!def] 技术转移办公室（Technology Transfer Office）
 > [[Technology Transfer|技术转移]]办公室（Technology Transfer Office，简称 TTO；部分高校称技术许可办公室，Technology Licensing Office，简称 TLO），是[[Research Universities|研究型大学]]内部负责知识产权（Intellectual Property, IP）商业化与成果转化运营的专业职能机构。其核心职责包括审查职务发明披露、评估科研成果的可专利性与市场潜力、主导专利申请与维护、谈判知识产权许可协议，以及协助学者创办[[University Spin-Out|大学衍生企业]]；作为 1980 年美国《[[Bayh-Dole Act of 1980|拜杜法案]]》将联邦资助发明所有权下放给高校后的直接组织产物，TTO 构成了现代[[University-Industry Collaboration|产学合作]]与大学[[Third Mission|第三使命]]的核心组织枢纽。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]; [[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 54, 60–63)]]
 
 > [!concept-lens] 概念透镜

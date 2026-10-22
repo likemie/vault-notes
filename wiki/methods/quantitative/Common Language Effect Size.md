@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 普通语言效应量（Common Language Effect Size）
 > **普通语言[[Effect Size|效应量]]（Common Language Effect Size, CLES）**，又称超越概率（Probability of Superiority, PS），指将两组连续型[[Variable|变量]]分布的标准化均值差（如 Cohen's $d$）映射为直观二项发生概率的标准化统计量。它度量从处理组（实验组）中随机抽取的一名受试者，其得分高于从对照组中随机抽取的一名受试者的客观概率。该方法旨在消除无量纲标准化指标的技术抽象性，为教育实践者与政策制定者提供通俗直观的概率解释。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, p. 239)]]
 
 > [!method-scope] 方法范围

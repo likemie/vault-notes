@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 漏斗图（Funnel Plot）
 > 漏斗图（Funnel Plot）是由 Light and Pillemer (1984) 提出并在[[Meta-analysis\|元分析]]中被广泛采用的标准化可视化诊断工具。它以各项初级研究的[[Effect Size\|效应量]]点估计值为横轴，以研究精度的倒数测度（通常为[[Standard Error\|标准误]] $SE$，且纵轴采用倒置刻度，即顶部为小标准误/大样本、底部为大标准误/小样本）为纵轴。在无[[Publication Bias\|发表偏倚]]且效应同质的理想假定下，大样本研究向真实效应量集中于顶部窄角区，小样本研究受[[Sampling Error\|抽样误差]]影响在底部呈宽幅离散，整体散点分布呈现一个对称的“倒置漏斗”形态。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 38, 48)]]
 
 > [!concept-lens] 概念透镜

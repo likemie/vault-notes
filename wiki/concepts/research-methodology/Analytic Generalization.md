@@ -33,7 +33,7 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 分析性推广（Analytic Generalization）
 > 分析性推广是[[Case Study\|个案研究]]中从案例到理论的推广逻辑。与统计推广（从样本推断总体参数）根本不同，分析性推广关注案例对理论扩展和检验的贡献——案例不是样本，而是理论与经验世界之间的逻辑桥梁。Yin（2009, p. 15）明确指出：个案研究选择分析性推广而非统计推广。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 288–289)]]
 
 > [!concept-lens] 概念透镜

@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 访谈协议（Interview Protocol）
 > 访谈协议（Interview Protocol）是[[Qualitative Interview\|质性访谈]]中用于提问和记录回答的结构化指南，通常为一到两页。它将研究目标[[Operationalization\|操作化]]为对受访者友好的问题序列，在所有访谈中一致使用，确保数据收集的系统性和可比性。问题总数建议在五到十个之间，问题之间留有空间供访谈者记录简短笔记和引语（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9, p.203）。
 
 > [!method-scope] 方法范围

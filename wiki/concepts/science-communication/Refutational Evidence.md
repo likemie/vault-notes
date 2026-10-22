@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 反驳性证据（德文：widerlegende Evidenz；英文：Refutational Evidence / Refuting Evidence）是指旨在通过严谨实证研究设计，明确否定、推翻或[[Falsification|证伪]]一线教师既有经验直觉、传统教学常规或流行[[Neuromyth|教育神经神话]]（如[[Learning Styles|学习风格]]分类施教假说）的科研证据。
 
-> [!def] 核心定义
+> [!def] 反驳性证据（Refutational Evidence）
 > 反驳性证据（Refutational Evidence）构成教育科学研究向实践界传播过程中的关键证据形态。其核心功能在于通过[[Causality\|因果推断]]与统计检验，揭示某些被教师群体广泛信奉的教学策略并不具备预期的学业促进效果乃至具有潜在危害。然而，德国学者鲍尔与科拉尔（Bauer & Kollar, 2023）及贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）指出，若科学传播仅单向抛出反驳性结论而缺乏具有操作性的替代方案，将直接冲击教师的专业自尊，激发强烈的心理防御（*Abwehrhaltungen*），导致教师对科研成果产生整体性的情绪抵触与认知疏离。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 254)]]
 
 > [!concept-lens] 概念透镜

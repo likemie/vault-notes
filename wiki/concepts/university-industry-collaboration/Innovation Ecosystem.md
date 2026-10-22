@@ -134,7 +134,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 创新生态系统（Innovation Ecosystem）
 > **创新生态系统（Innovation Ecosystem）** 指由大学、科研机构、各梯队企业、专用设备与材料供应商、政府部门、创业投资及中介服务机构通过高频、多维的网络互动共同催化、转化与扩散创新的复合自组织系统。创新生态系统突破了单个组织内部研发或线性“科学推动”的简单框架，强调跨组织边界、跨产业链层级（如设计与代工的纵向解耦）以及跨地理区域的动态协同演化。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8–10)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]
 
 > [!concept-lens] 概念透镜

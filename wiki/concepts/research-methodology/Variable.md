@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 变量（Variable）
 > **变量（Variable）** 指个体、组织或系统在不同观察单位之间发生取值变动且可被测量或观察的特征、维度或属性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 54]]）。在科学研究中，变量是构想[[Construct|理论构念]]、提出经验假设与检验因果机制的基本[[Operationalization|操作化]]载体。在比较社会科学与比较教育学中，变量构成了跨系统假设检验的核心枢纽——通过将定性、异质的国别制度经验分解为具有可比尺度的分析维度，使跨国规律识别成为可能（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 148–149]]）。
 
 > [!concept-lens] 概念透镜

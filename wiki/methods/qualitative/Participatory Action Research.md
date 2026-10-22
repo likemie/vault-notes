@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 参与式[[Action Research\|行动研究]]（Participatory Action Research, PAR）
+> [!def] 参与式行动研究（Participatory Action Research）
 > 参与式行动研究是[[Action Research\|行动研究]]的一个分支，以集体参与和民主方式运作，旨在赋权参与者、改变不平等的权力关系，并追求社会正义和解放。它不仅是研究方法，更是政治活动——人们为自己、通过自己、与自己一起行动和研究（Grundy, 1987, p. 142）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 270–272)]]
 
 > [!method-scope] 方法范围

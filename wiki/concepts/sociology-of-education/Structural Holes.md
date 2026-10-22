@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 结构洞（Structural Holes）
 > 结构洞（Structural Holes）指社会网络拓扑结构中**不同子群体或行动者之间缺乏直接联结的隔离与断裂状态**。在经典社会网络理论中，占据结构洞位置的行动者（结构洞经纪人）凭借连接互不连通网络节点的拓扑优势，获得非冗余的信息流与控制权；而在前沿公共创新治理与[[Space Production|空间生产]]理论中，该概念被进一步拓展为行动者主动消除网络断裂、重构技术[[Innovation Ecosystem|创新生态]]与跨区域制度协同的能动实践。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 2–3)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
 
 > [!concept-lens] 概念透镜

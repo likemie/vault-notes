@@ -47,10 +47,10 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 研究目的（Research Purpose）
 > 研究目的（research purposes）是研究者对研究预期交付什么的明确陈述——研究完成后哪些在研究开始前不知道的知识将被获得。它回答的核心问题是：研究的产出（deliverables）是什么？研究要做什么？研究要找出什么？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）
 
 > [!concept-lens] 概念透镜

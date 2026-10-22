@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 器物（Artefact）
 > 器物与人工制品（artefact / artifact）在当代社会与教育探究中包含双重方法论维度：（1）**物质文化与[[Discourse|话语]]实践实体**，指在田野与组织空间中客观存在的有形物体（如教室陈设、桌椅布局、教材教具、展示展板、儿童玩具、服装、数字界面与[[Generative Artificial Intelligence\|生成式人工智能]]工具等），它们作为视觉与物质数据，直观投射制度文化、权力关系与深层意识形态；（2）**方法论人为产物（Methodological Artefact）**，指在实证或[[Experimental Research\|实验研究]]中，并非研究对象自身的客观规律，而是由于测量工具偏倚、研究者效应或特定情境诱导（如[[Role-playing\|角色扮演]]中的社会期望）所催生的“虚假因果假象”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 531]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 189]]
 
 > [!concept-lens] 概念透镜

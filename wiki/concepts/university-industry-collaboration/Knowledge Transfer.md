@@ -92,7 +92,7 @@ updated: 2026-10-22
 >
 > 三种脉络共享“知识在主体或[[Champ|场域]]间移动”的基本意象，但在理论传统（[[Critical Geopolitics|批判地缘政治]] vs. [[Systems of Innovation|创新系统理论]] vs. 循证知识治理）、分析层次（国家全球地缘 vs. 大学产业组织 vs. 政策实践转化）与价值预设上截然不同。
 
-> [!def] 核心定义
+> [!def] 知识转移（Knowledge Transfer）
 > 知识转移（Knowledge Transfer, KT）指知识客体跨越个体、组织、部门或国家边界，进入传递、吸收、转化、规训或商业化应用的流动过程。在[[Geopolitics|地缘政治]]视域下，它是知识在非对称权力结构中被强制灌输、监视、审查或窃取的运动机制（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 74–75]]）；在产学合作视域下，它是大学通过正式契约与非正式交往向工业界辐射学术成果的制度化通道（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p. 55]]）；在循证政策视域下，它是将综合研究证据依据目标受众进行标准化包装与定向交付的战略传播流程（[[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 37–38]]）。
 
 > [!concept-lens] 概念透镜

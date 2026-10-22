@@ -50,7 +50,7 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-> [!def] 匹配的双重含义
+> [!def] 匹配法（Matching）
 > 匹配（Matching）在教育研究方法论中有两种不同但互补的用途（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）：
 >
 > **作为实验设计技术** 在真实验的[[Matched Pairs Design\|配对设计]]中，先在关键[[Variable\|变量]]上配对参与者，再[[Random Assignment\|随机分配]]每对成员至实验组和控制组——随机化发生在配对层面。在准实验中，匹配是增强组间可比性的主要手段。

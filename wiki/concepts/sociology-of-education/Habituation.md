@@ -47,7 +47,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 核心定义
+> [!def] 习惯化（Habituation）
 > 习惯化（Habituation）跨越教育哲学与研究方法论两大领域：
 > 1. **教育哲学与德性伦理** 指[[Aristotle\|亚里士多德]]在《尼各马可伦理学》中提出的德性习得机制——人类通过反复施行正义、克制与勇敢的行为来养成道德习惯 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 4)]]。
 > 2. **[[Observation Method\|观察研究]]方法论** 指在[[Qualitative Observation\|质性观察]]中，研究者通过在研究情境中停留足够长时间，使被观察者逐渐适应其在场并恢复自然行为的降噪策略 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|(Cohen et al., 2011, Ch. 23)]]。

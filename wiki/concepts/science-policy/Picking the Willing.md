@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 挑选意愿者（Picking the Willing）
 > **挑选意愿者（Picking the Willing）** 是指在[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 [[Paradigm|范式]]）中，公共部门彻底摒弃传统垂直产业政策针对特定单一部门（如钢铁、造船）或个别企业进行排他性直接补贴的“挑选赢家”（Picking Winners）旧模式，转而在宏观战略层面确立必须转型的重大社会挑战方向（如碳中和、无塑海洋、健康老龄化），并在全经济范围内跨行业、跨所有制、跨学科地遴选并资助所有愿意为实现该使命而开展研发与系统技术改造的组织的治理机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 
 > [!concept-lens] 概念透镜

@@ -68,7 +68,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 概念定义
+> [!def] 教师即研究者（Teacher-as-Researcher）
 > **教师即研究者（Teacher-as-Researcher）** 是由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）倡导并由当代[[Reflexivity\|反思性]]实践理论与[[Complexity Theory\|复杂性理论]]深化的教育研究运动。其核心主张在于彻底打破外部学术专家垄断[[Knowledge Production\|知识生产]]的科层壁垒，将教师从被动接受外部理论的“消费者”或被量化测量的“被研究对象”，转变为系统审视与探究自身教育教学行动的“实践知识生产者”。在麦克尼夫（Jean McNiff, 2002）的界定中，该进路属于**实践者本位研究（Practitioner-Based Research）**——传统实证探究是研究者对他人展开研究，而教师即研究者则是行动者围绕自身实践开展的自觉探究。
 
 > [!concept-scope] 概念范围

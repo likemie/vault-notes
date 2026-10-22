@@ -41,7 +41,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 方法定义
+> [!def] 因子混合模型（Factor Mixture Modeling）
 > 因子混合模型（Factor Mixture Modeling, FMM）结合了因子分析降维测量的优势与潜在类别/剖面分析探究[[Heterogeneity\|异质性]]的功能。它利用个体在多个连续的潜在因子（潜[[Variable\|变量]]）上的表现特征，将其划分至具备不同特征轮廓（profile）的未知类群中。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 239)]]
 
 > [!method-scope] 方法范围

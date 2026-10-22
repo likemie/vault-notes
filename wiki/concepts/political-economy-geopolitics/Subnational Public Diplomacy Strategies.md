@@ -24,7 +24,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 次国家公共外交策略（Subnational Public Diplomacy Strategies）
 > 次国家公共外交策略（Subnational Public Diplomacy Strategies）是由 AidData 基于 2000–2017 年南亚与中亚 13 国次国家外交投入数据，运用层次聚类分析（Hierarchical Cluster Analysis）提炼出的三大对外公共外交战略范式，即汲取型（Extract）、微调型（Nudge）与规避型（Avoid）策略。该分类框架揭示了大国如何依据对象国地缘安全风险、双边政治互信程度以及关键资源诉求，在资金贷款、教育援助、语言推广和高层互访之间进行差异化工具组合。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 11–13)]]
 
 > [!concept-lens] 概念透镜

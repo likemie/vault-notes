@@ -53,7 +53,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 方法定义
+> [!def] 结构化观察（Structured Observation）
 > 结构化观察是一种高度系统化的观察方法，研究者预先知道要寻找什么（预设性观察，pre-ordinate），事先制定互斥且全面的观察类别，在固定时间间隔内以标准编码方式记录目标行为的发生或不发生。观察者采取被动、非侵入性角色，仅记录所研究因素的发生情况，将观察结果填入观察计划表（[[Observation Protocol|observation schedule]]）。结构化观察生成数值数据，便于跨环境比较以及计算频率、模式和趋势。它是假设验证性的，与非结构化观察的假设生成性形成对照（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1–23.2 节]]）。
 
 > [!method-scope] 方法范围

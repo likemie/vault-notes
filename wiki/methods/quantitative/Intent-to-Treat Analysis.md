@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 意向治疗分析（Intent-to-Treat Analysis）
 > **意向治疗分析（Intent-to-Treat Analysis，简称 [[Initial Teacher Training\|ITT]]）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）中最核心的因果效应估计方法。其基本准则是：所有参与试验的被试必须完全保留在其最初被[[Random Assignment\|随机分配]]的组别中进行统计分析，无论他们后续是否实际依从干预、是否中途退出、还是交叉接受了对照组措施。
 >
 > ITT 估计的核心属性在于：它测量的不是“干预实际接受（treatment uptake）”的技术性潜能，而是“干预可获得性或政策提供（treatment availability or offer）”对总体目标人群产生的净因果效应（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, p. 233]]）。

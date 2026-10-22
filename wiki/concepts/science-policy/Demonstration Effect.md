@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 示范效应（Demonstration Effect）
 > **示范效应（Demonstration Effect / 技术示范效应）** 是指政府公共部门或先导机构通过在具有高度可见性的重大公共工程、国防航天任务、市政安全或国家示范项目中实际部署、验证并稳定运行新兴复杂技术，或主权国家通过先导性政策试验展现显著量化实效，向外部潜在商业用户、产业决策者及跨国政策制定者直观展示系统可行性、性能优越性与运行[[Reliability|可靠性]]，从而降低技术采纳与[[Policy Borrowing|政策借用]]的认知门槛，消除信息不对称与体制避险惰性，加速技术扩散与制度创新的机制。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–178)]]; [[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 340–341)]]
 
 > [!concept-lens] 概念透镜

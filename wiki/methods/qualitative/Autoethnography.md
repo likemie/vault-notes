@@ -40,7 +40,7 @@ created: 2026-06-24
 updated: 2026-10-20
 ---
 
-> [!def] 方法定义
+> [!def] 自我民族志（Autoethnography）
 > 自我[[Ethnography\|民族志]]是民族志的新兴分支。研究者编撰关于自己生活或情境的个人化、主观性叙事，内容包括感受、情绪反应、能动性行为（agentic behaviour）和受约束的行为，即那些在开展他者民族志时也会出现的元素。该方法与带着[[Reflexivity\|反思性]]转向的自传（autobiography with a reflexive turn）相关联，将研究者自身经验转化为可供学术分析的文化文本。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 453)]]
 
 > [!method-scope] 方法范围

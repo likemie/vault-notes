@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 同行审议（Peer Debriefing）
 > 同行汇报（Peer Debriefing），又称同行审议，是[[Qualitative Research\|质性研究]]中用以增强研究可信性（Credibility）与[[Qualitative Validity\|质性效度]]（Qualitative Validity）的核心操作策略。该方法通过将质性分析过程、初级编码、[[Chain of Evidence\|证据链]]条与工作假设暴露于无利害关系的同行面前，展开类似交叉质询（Cross-examination）的深入研讨，系统检验分析的诚实性与客观性、排查先验偏见与解释盲点，并明确后续分析与资料收集的迭代方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 167)]]; [[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch9, p. 213)]]
 
 > [!method-scope] 方法范围

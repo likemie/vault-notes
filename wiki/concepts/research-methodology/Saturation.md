@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理论饱和（Theoretical Saturation）
+> [!def] 数据饱和（Saturation）
 > 饱和是[[Qualitative Research\|质性研究]]中确定[[Sample Size Determination\|样本量]]的概念标准：当收集新鲜数据不再引发新的洞见或揭示新的主题时，即类别或主题已达到饱和，此时可以停止收集数据。这一概念源自[[Grounded Theory\|扎根理论]]（Charmaz, 2006; 引自 Creswell & Creswell, 2022, Ch9, p. 198）。
 
 > [!concept-lens] 概念透镜

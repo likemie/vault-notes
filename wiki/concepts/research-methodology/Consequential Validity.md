@@ -44,7 +44,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 结果效度（Consequential Validity）
 > Lather（1991）提出的效度概念，主张研究者不仅应关注研究的实施过程和数据分析本身，还应关注研究的**政治后果**——研究是否带来了改变和改善。研究是一项带有政治议程的政治活动，其变革性、赋权性和解放性潜力是评判研究质量的关键标准。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 384–386)]]
 
 > [!concept-lens] 概念透镜

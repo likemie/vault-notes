@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 教育中的哲学分析（Philosophical Analysis in Education）
 > 教育中的哲学分析是一种规范性与概念性研究方法，通过对教育政策、实践及经验实证背后的概念前提、[[Epistemology|认识论]]假设和价值诉求进行系统剖析与逻辑重构，揭示其内在张力、盲区与未被言明的后果（[[Argument_Biesta_2010_SPE|Biesta, 2010, pp. 491–493]]）。
 
 > [!method-scope] 方法范围

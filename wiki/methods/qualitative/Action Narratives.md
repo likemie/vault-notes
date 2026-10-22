@@ -33,7 +33,7 @@ created: 2026-06-18
 updated: 2026-10-16
 ---
 
-> [!def] 核心定义
+> [!def] 行动叙事（Action Narratives）
 > 行动叙事（action narratives）是研究[[Causality\|因果性]]的质性路径，通过行动者自身对动机、意志、理由、理解和情境的**叙事**来揭示[[Causal Processes\|因果过程]]如何运作。与之相对的是只依赖统计和[[Variable\|变量]]模型的输入-输出因果观——后者能确定因果的"是什么"（what），但不能确定"如何"（how）。行动叙事进入情境中行动者的头脑，揭示多重因果路径。
 
 > [!concept-lens] 概念透镜

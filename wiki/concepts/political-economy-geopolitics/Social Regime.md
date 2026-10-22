@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 社会规约（Social Regime）
 > **社会规约（Social Regime）** 指在特定社会情境中受到普遍合法性认可、规定预期行为并排除不可欲行为的集体规则体系；其根本特质在于必须由独立于博弈参与者、具备合法强制力保障手段的第三方权威机构（Third-Party Enforcement）提供背书，将微观行动者的权利与义务上升为全社会共同体维护的法定或规范性预期（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 9–14]]）。在当代跨国治理与教育政策研究中，该概念被扩展用于分析由国家行政强制力背书的全球标准化绩效与问责规约（Komatsu & Rappleye, 2017; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 
 > [!concept-lens] 概念透镜

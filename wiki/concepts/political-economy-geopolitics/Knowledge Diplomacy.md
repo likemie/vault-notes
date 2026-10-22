@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 知识外交（Knowledge Diplomacy）
 > 知识外交（Knowledge Diplomacy）由[[Jane Knight|简·奈特]]（Jane Knight）系统界定，指通过国际高等教育、科学研究与创新合作来建立、强化和维护国家间关系的外交理念与实践形态。其核心在于超越传统的[[Soft Power|软实力]]地缘博弈逻辑，依托互信、互惠与平等协商，构建非零和的多边合作机制，以跨国学术协同共同应对全球面临的重大生存危机与发展挑战。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]；[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 691–692)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1698)]]
 
 > [!concept-lens] 概念透镜

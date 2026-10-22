@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 规则模糊性（Rule Ambiguity）
 > **规则内生模糊性（Rule Ambiguity）** 指成文法律、法规与正式组织章程在词义表述、适用范围及现实执行中内生具有且不可消除的抽象性、原则性与解释缝隙。[[Historical Institutionalism|历史制度主义]]认为，模糊性并非立法技术不成熟所导致的暂时瑕疵，而是人类认知局限、政治妥协起草以及立法与日常执法组织分离的必然物理属性；这一属性从根本上打破了规则遵从的确定性，为微观行动者在日常政治中展开策略性重新解释与重定向提供了持续的微观[[Champ|场域]]。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–14)]]
 
 > [!concept-lens] 概念透镜

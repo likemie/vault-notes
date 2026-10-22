@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 数据基础设施（Data Infrastructure）
 > 数据基础设施（Data Infrastructure），在批判性数据研究中常被界定为数据汇聚体（Data [[Assemblage]]），指围绕教育数据的去情境化与[[Recontextualization|再情境化]]过程所动态装配的技术、政治、社会与经济网络（Kitchin, 2014; Williamson, 2017）。它是由采集摄取、质检校验、算法建模、数据库存储、可视化呈现与政策报告等偶发性、关系性的物质[[Discourse|话语]]实践持续建构的社会-技术系统，不同于中立客观或静态不变的信息仓储，其核心功能在于将分散微观的学校活动转化为具备行动导向的治理知识。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 2–3)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 > [!concept-lens] 概念透镜

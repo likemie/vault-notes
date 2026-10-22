@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 多臂试验（Multi-Arm Trial）
 > **多臂试验（Multi-Arm Trial，亦称多臂[[Randomised Controlled Trials\|随机对照试验]] Multi-Arm RCT）** 是指在单一试验方案中包含**三个或更多平行实验组（实验臂，Arms）** 的高级实验设计架构。最经典的多臂形态是“多个互斥的处理组共享一个公共对照组”（Multi-Arm Single-Control Design，如 $K$ 个处理臂对比 1 个对照臂）。该设计通过在同一实验背景下同时检验多种竞争性干预策略、不同实施剂量或不同递送载体，不仅能大幅节省招募独立对照组的样本与财务成本，还能通过直接的头对头（Head-to-Head）比较确立最优实践方案。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!method-scope] 方法范围

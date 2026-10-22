@@ -121,7 +121,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 随机对照试验批判（Critique of Randomized Controlled Trials）
 > [[Critique of Randomized Controlled Trials\|随机对照试验批判]]（Critique of [[Randomised Controlled Trials\|randomized controlled trials]] / RCT Critique）指围绕随机对照试验在教育学、社会政策与公共治理中被奉为证据“黄金标准”所形成的系统性反思与跨学科批评体系。该批判涵盖三个递进层面：一是**复杂性[[Epistemology\|认识论]]层面**，解构其控制[[Variable\|变量]]假设与机械还原论在动态自组织开放教育系统中的[[Ontology\|本体论]]悖论；二是**真实学校效度层面**，揭示主体间干扰（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）、未测量教师质量混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]与大规模实效衰减对内部与[[External Validity\|外部效度]]的破坏；三是**政策治理异化层面**，批判将医学试验教条化为[[Rationalized Myth\|合理化神话]]、跨国金融机构技术[[Screening Off\|屏蔽]]宏观政治经济结构，以及法定单项合格门槛所诱发的“合规假象”与科研供给侧结构性赤字（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]；[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp. 5–9]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 11–13]]）。
 
 > [!concept-lens] 概念透镜
@@ -220,7 +220,7 @@ updated: 2026-10-22
 > **临床医学隐喻、合理化神话与依策造据（[[Policy-Based Evidence-Making\|PBEM]]）** 官方政策[[Discourse|话语]]借用临床医学试验的科学光环塑造合理化神话，将 RCT 宣称为非政治性的绝对客观真理，为其激进市场化改革确立无可置辩的合法性。然而从[[Problem Finding\|问题界定]]、统计建模直至政策应用的[[Epistemological Coherence\|全流程认识论连贯性]]在实践中彻底断裂，[[Policy Network\|政策网络]]按部长先定政治偏好（Landing Preferences）逆向采选和资助特定实验，使[[Evidence-Based Policy-Making|循证决策]]异化为掩饰意识形态的“依策造据”（PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 17–24)]]
 
 > [!claim] Steiner-Khamsi, G. et al. (2024)
-> **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行结构调整与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–548)]]
+> **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行结构调整与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 544–548)]]
 
 > [!claim] Wadhwa, G. et al. (2024)
 > **宏观政策认证割裂与跨机构评级冲突的“RCT 悖论”** 尽管全美各清算中心均推崇 RCT，但实证检视 12 个中心 1,359 项研究发现：基于 RCT 的多中心交叉评级中，完全对立冲突率（Recommended vs Not Recommended）高达 35.4%，一致率仅 30.5%。分歧根源不在于微观单项 RCT 内部效度，而在于跨[[Research Synthesis|研究综合]]标准（是否要求独立外部复制、长期[[Fade-out Effect\|持续效果]]等）的制度割裂。单项 RCT 内部效度达标绝非宏观政策认证的[[Necessary and Sufficient Conditions\|充分条件]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 18–20, 26–27)]]
@@ -263,7 +263,7 @@ updated: 2026-10-22
 >
 >   - 2022 — Ronald Helgetun 与 Ian Menter（2022）实证解剖英格兰教师改革中的医学隐喻，提出全流程[[Epistemological Break\|认识论断裂]]与“依策造据”（[[Policy-Based Evidence-Making\|PBEM]]）。
 >   - 2023 — Matthew [[Argument_Kraft_2023_ER|Kraft (2023)]]发布 3,426 项 RCT 效应量分布基准，打破“0.40 铰链点”神话，确立 0.10 的低位现实。
->   - 2024 — Gita [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]揭露[[World Bank\|世界银行]]微观实验技术利基对宏观政治经济危机的“屏蔽”效应。
+>   - 2024 — Gita [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]揭露[[World Bank\|世界银行]]微观实验技术利基对宏观政治经济危机的“屏蔽”效应。
 >   - 2024 — Geetanjali [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]]实证检验 12 家清算中心 1,359 项研究，揭示跨机构评级冲突率达 35.4% 的“RCT 悖论”。
 >   - 2024 — Rick [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]]基于全美 15 学区 138 项受资助干预审计，量化揭示 [[Every Student Succeeds Act\|ESSA]] 单项 RCT 合格门槛诱发“合规假象”，直指供给侧学段断层与微观构件黑箱。
 
@@ -300,6 +300,6 @@ updated: 2026-10-22
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 揭示田纳西 STAR 实验[[Random Assignment\|随机化]]被家长转组与数据缺失破坏的机制，指出未测量教师质量的颠覆性混淆。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 英国 [[Education Endowment Foundation\|EEF]] 独立评估人机制与十年制度演进，剖析效力向[[Effectiveness Trial\|实效试验]]的[[Fade-out Effect\|效应衰减]]与[[School Choice\|学校选择]]新设计。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 实证解剖英格兰[[Evidence Era\|证据时代]]临床医学 RCT 的[[Rationalized Myth\|合理化神话]]、[[Epistemological Coherence\|全流程认识论连贯性]]断裂及“依策造据”（[[Policy-Based Evidence-Making\|PBEM]]）。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[World Bank\|世界银行]]将 RCT 打造为[[Policy Brokerage\|政策中介]]利基与微观技术[[Variable\|变量]]隔离对宏观政治经济结构的“屏蔽”效应。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] — 揭示[[World Bank\|世界银行]]将 RCT 打造为[[Policy Brokerage\|政策中介]]利基与微观技术[[Variable\|变量]]隔离对宏观政治经济结构的“屏蔽”效应。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 全景检验 12 个清算中心揭示基于 RCT 的跨机构评级冲突率达 35.4% 的“RCT 悖论”。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 15 个学区实证审计量化揭示 [[Every Student Succeeds Act\|ESSA]] Tier I 法定单项门槛下的“合规假象”、学段科研供给赤字与微观构件黑箱。

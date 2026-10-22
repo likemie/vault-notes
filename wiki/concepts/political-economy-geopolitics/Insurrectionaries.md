@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 起义者（Insurrectionaries）
 > 起义者（Insurrectionaries）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过解耦行动者的长期制度维系目标与短期策略遵从行为确立，特指长期目标明确寻求废除或推翻既有制度（不追求制度维系）、短期在日常博弈中采取公开违规与公然抵制策略（不遵守规则）的政治主体。在守旧阵营缺乏强力否决点且规则边界刚性清晰（弱[[Veto Possibilities|否决可能性]] + 低解释[[Enforcement Discretion|执行裁量权]]）的制度情境下，起义者主导驱动外生或双轨排他性新体系的建立，成为推动[[Institutional Displacement|制度置换]]的核心力量；在联盟政治中，起义者绝不与制度支持者结盟，必须在体制挑战者阵营中寻求广泛联合，并致力于向摇摆的[[Opportunists|机会主义者]]传递不可逆变革信号以触发级联突破（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24, 28, 30–31]]）。
 
 > [!concept-lens] 概念透镜

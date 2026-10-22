@@ -63,7 +63,7 @@ created: 2026-08-22
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 赤字模型（Deficit Model of Science Communication）
 > 科学传播赤字模型（Deficit Model of Science Communication）是指一种将受众预设为知识被动接受者的单向线性传播取向。该模型假定公众或专业实践者（如中小学教师）之所以对特定科学结论产生疑虑、抵触或未采纳循证方案，根本原因在于其缺乏足够的科学事实、统计素养与前沿认知（即认知赤字）；因此，科学界只需单向传递或通俗化转译科学证据，即可消除认知盲区、扭转态度并建立对科学的信任（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, p. 10]]；[[Argument_Besa_2024_UW\|Besa, 2024, pp. 252–254]]）。
 
 > [!concept-lens] 概念透镜

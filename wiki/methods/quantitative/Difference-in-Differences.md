@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 双重差分法（Difference-in-Differences）
 > **双重差分法（Difference-in-Differences，简称 DID）** 是计量经济学与实证教育政策研究中最核心的准实验因果识别方法之一。其基本思想是：在缺乏人为[[Random Assignment\|随机分配]]的情况下，利用外生政策冲击在时间维度与人群维度的自然差异，分别计算处理组在政策出台前后的纵向变动量，以及对照组在同期内的纵向变动量，进而通过**两次做差（差分的差分）** 剥离宏观时间趋势与固有群体差异，识别出政策本身的净因果效应（Net Causal Effect）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 > [!method-scope] 方法范围

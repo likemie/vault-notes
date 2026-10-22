@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 制度互补性（Institutional Complementarity）
 > **制度互补性（Institutional Complementarity）** 指一国经济体制中不同子领域的制度安排之间存在的协同增效关系，即某一制度（如劳资协调）的存在或运作能够显著提高另一制度（如特定技能培训或长期关系型融资）的边际运行回报（Marginal Return）；[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism, VoC）理论将其视为区分协调市场经济（CME）与自由市场经济（LME）的核心支柱，而[[Historical Institutionalism|历史制度主义]]渐进变迁学派则批判其将互补性视为“无外生激变便不可变动”的功能主义超稳定假设，主张将互补性重新理解为充满结构性松弛与内生杂糅的动态过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
 
 > [!concept-lens] 概念透镜

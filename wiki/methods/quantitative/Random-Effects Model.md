@@ -91,7 +91,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 随机效应模型（Random-Effects Model）
 > 随机效应模型（Random-Effects Model）是[[Meta-analysis|元分析]]中应对初级研究间实质性[[Heterogeneity|异质性]]的标准统计建模[[Paradigm|范式]]。与[[Fixed-Effect Model|固定效应模型]]假定单一恒定真值不同，随机效应模型假定各纳入研究的真实[[Effect Size|效应量]]本身并不相同，而是服从一个具有均值 $\mu$ 与方差 $\tau^2$ 的广义真实效应正态分布。模型将观测变异显式分解为两个独立层次：**“研究内抽样方差”（Within-study variance, $v_i$）** 与 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）**。通过将 $\tau^2$ 纳入[[Inverse-Variance Weighting|逆方差加权]]分母（$w_i^* = \frac{1}{v_i + \tau^2}$），模型实现了权重再平衡，并将统计推论拓展至包含未来研究的广义“超总体”（Super-population）。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围

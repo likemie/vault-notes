@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 定居殖民主义（Settler Colonialism）
 > 定居殖民主义（Settler Colonialism）是一种特殊的殖民主义形式。其核心特征在于，定居者并非旨在剥削土著居民的劳动力，而是遵循“消除的逻辑”（logic of elimination），通过系统性侵占土地并以定居者人口替代土著居民，实现对土著政治、文化与肉体存在的结构性消除。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 99]]) 这一概念最早由帕特里克·沃尔夫（Patrick Wolfe, 2006）系统化提出。
 
 > [!concept-lens] 概念透镜

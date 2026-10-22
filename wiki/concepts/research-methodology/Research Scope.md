@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究范围（Research Scope）
 > 研究范围（Research Scope）指研究课题的边界设定——界定研究将覆盖什么、不覆盖什么。范围管理的核心原则是窄而深而非宽而浅：一项研究应保持狭窄和有限的范围，以实现可管理性（Manageability）和严谨性（Rigour）。俗话说“吃大象的最佳方式是一次一口”（The best way to eat an elephant is one bite at a time）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, pp. 92–93)]]
 
 > [!concept-lens] 概念透镜

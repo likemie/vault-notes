@@ -33,7 +33,7 @@ created: 2026-06-18
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 研究保密（Confidentiality）
 > 保密是保护参与者隐私权的基本方式：研究者承诺不以任何可能识别个体或使个体可被追踪的方式披露参与者信息。这意味着虽然研究者知道谁提供了信息或能从所给信息中识别参与者，但他们绝不将这种关联公之于众；共享秘密的边界将受到保护（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 101–102]]）。
 
 > [!concept-lens] 概念透镜

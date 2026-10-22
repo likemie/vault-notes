@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 类型化（Typification）
 > **类型化（Typification）**，是由[[Phenomenology\|现象学]]社会学家[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）系统奠立的核心认知与社会互动机制（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 19）。舒茨指出，人类理解他人行为并不是直接透视他人不可直接通达的意识流，而是依赖于一套类似于[[Max Weber\|马克斯·韦伯]]“理想类型（ideal types）”的常识性[[Concept Mapping\|概念图]]式。这些概念图式源自行动者的日常生活经验、传记情境（biographical locations）以及代代传承的社会手头知识库（stock of knowledge at hand）。行动者正是通过类型化来对纷繁复杂的日常生活世界进行分类、赋义与秩序化重组，从而能够在不同的“多重实在（multiple realities）”之间自如穿梭并遵循各领域的互动游戏规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
 
 > [!concept-lens] 概念透镜

@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 智力资本（Intellectual Capital）
 > **智力资本（Intellectual Capital，早期亦译为精神资本 Mental Capital）** 指全人类历代积累的科学发现、技术发明、工艺改良与劳动实践经验所构成的无形知识总量与社会化认知能力；它不仅体现为个体的脑力与技术素养，更沉淀于国家的技术教育建制、工业制造传统、组织学习网络与顶尖工程人才池之中，是决定一国有形物质[[Return on Investment|投资回报率]]、长期生产力繁荣与国家战略安全能力的实质根基。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–13)]]
 
 > [!concept-lens] 概念透镜

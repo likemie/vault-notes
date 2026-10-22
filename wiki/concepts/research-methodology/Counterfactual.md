@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 反事实（Counterfactual）
 > 反事实（Counterfactual）是[[Causality\|因果推断]]中通过设想与构建“若假设的原因不存在，效果是否还会发生或呈现何种状态”来判定因果效应的核心推理机制：如果假设原因 $X$ 发生时产生结果 $Y(1)$，而在 $X$ 不发生的替代可能世界中结果为 $Y(0)$，则因果效应即定义为 $Y(1) - Y(0)$。由此提出的检验问题是：“如果那个假设的原因不存在，效果还会发生或还是原来的样子吗？”如果答案是否定的，方可确证 $X$ 对 $Y$ 具有实质促成作用（Mackie, 1993; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 55–56]]）。在实证教育研究中，反事实主要依托[[Random Assignment\|随机分配]]设立的控制组来构建无偏的反事实代理（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–23]]）。
 
 > [!concept-lens] 概念透镜

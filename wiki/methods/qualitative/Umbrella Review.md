@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 伞状综述（Umbrella Review）
 > 伞状综述（Umbrella Review，亦称综述之综述 Overview of Reviews 或概括性综述）是一种在证据金字塔顶端对特定主题下已有的多项独立[[Systematic Review|系统综述]]（Systematic Review）和[[Meta-analysis|元分析]]（Meta-analysis）进行系统检索、方法学质控、重叠审计与跨领域横向整合的宏观综合研究方法。Grant and Booth（2009）将其界定为整合多个既有综述证据的最高阶综合形态。与专注于数值加权平均的[[Meta-meta-analysis|二阶元分析]]不同，伞状综述更侧重以共同的方法论框架、统一的质控标准（如 [[AMSTAR]]、Campbell MECCIR 规范）和证据分级体系组织跨领域的证据全貌，为教育政策制定者与学校实践者提供高可用性、可比较的决策参考图景。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 45–47)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
 
 > [!method-scope] 方法范围

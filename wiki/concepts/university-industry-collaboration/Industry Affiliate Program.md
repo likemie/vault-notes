@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 产业联盟计划（Industry Affiliate Program）
 > 产业联盟计划（Industry Affiliate Program，亦称企业会员计划，Corporate Affiliate Program, CAP）是[[Research Universities|研究型大学]]为产业界设立的**会员制（Membership-based）** 长效合作机制。企业通过按年度向大学缴纳固定会费，获取对特定院系或跨学科科研社区的“通用入场券”与优先联络通道，包括前沿技术交流简报、学生人才提前对接、联合研讨活动及优先了解最新学术发现的权利；大学则借此聚合多元产业资金池，在不让渡排他性专利控制权的前提下维持与多家企业的稳定协同关系。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 64–65)]]; [[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 109–110)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]
 
 > [!concept-lens] 概念透镜

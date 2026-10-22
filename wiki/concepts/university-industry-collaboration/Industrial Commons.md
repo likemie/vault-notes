@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心界定
+> [!def] 产业公地（Industrial Commons）
 > **产业公地（Industrial Commons / Manufacturing Commons）**，又称“制造业公地”，是指在特定的地理区域与产业集群中，由数以千计的基础零部件供应商、精密切削与试制工坊、熟练工匠与现场排障工程师网络、通用研发测试基础设施，以及代际相传且无法完全编码的默会[[Process Knowledge|过程知识]]（Process Knowledge）共同构成的集体产业生态资产。产业公地强调前沿科学发现、高阶工程设计与底层实体制造之间存在不可分割的双向反馈回路；一旦实体制造大规模外流，该集体生态资产将发生不可逆的萎缩，最终导致原发国的原创设计能力退化与技术领导权外溢。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–56)]]
 
 > [!concept-lens] 概念透镜

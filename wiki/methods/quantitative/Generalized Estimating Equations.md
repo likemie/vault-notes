@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 广义估计方程（Generalized Estimating Equations）
 > **广义估计方程（Generalized Estimating Equations，简称 GEE）** 是由生物统计学家孔英·梁（Kung-Yee Liang）与斯科特·泽格（Scott L. Zeger）于 1986 年开创的一种用于处理纵向重复测量（Longitudinal Data）与群聚分层数据（Clustered Data）的半参数化回归估计方法。GEE 是广义线性模型（GLM）在非独立相关数据领域的扩展，其核心特征是**群体平均模型（Population-Averaged / Marginal Model）**。该方法不假定[[Dependent Variable\|因变量]]的完全联合概率分布，仅指定结果[[Variable\|变量]]的边际均值与方差函数，并引入一个“工作相关矩阵”（Working Correlation Matrix）来近似组内相关结构；即便该工作相关结构被错误设定，GEE 依托 Huber-White 三明治经验方差估计量，依然能够保证大样本下回归参数的一致性与[[Standard Error\|标准误]]的渐进有效性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围

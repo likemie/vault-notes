@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ## 定义
 
-> [!def] 方法定义
+> [!def] 内容效度指数（Content Validity Index）
 > **[[Content Validity\|内容效度]]指数（Content Validity Index, CVI）** 是在[[Scale Development\|量表编制]]、[[Questionnaire\|问卷]]设计及测验开发初期，由 Lynn（1986）与 Polit and Beck（2006）系统规范的量化心理测量学工具。它通过组织领域同行与测量学者对初始题池中的各题项进行标准化等级评定，将专家的定性[[Professional Judgment\|专业判断]]转化为严谨的量化指标，分为**题项级内容效度指数（Item-level CVI, I-CVI）** 与 **量表级内容效度指数（Scale-level CVI, S-CVI）**；在测量学中常与 Lawshe（1975）提出的**内容效度比率（Content Validity Ratio, CVR）** 结合使用。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–5)]]
 
 > [!method-scope] 方法范围

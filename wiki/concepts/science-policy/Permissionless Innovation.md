@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 无许可创新（Permissionless Innovation）
 > **无许可创新（Permissionless Innovation）**，亦称“无许可试验”或政策语境中的**自由去建造（Freedom to Build）**，是一种主张在保持对最终结果和安全底线严格问责的前提下，允许发明家与建造者自由试验、快速失败并敏捷迭代，而不必在技术研发的每一个微观步骤中预先申请繁复行政许可的规制哲学与科技政策立场。它坚决反对因防范尚未证实的假设性风险而采取“默认拒绝或无休止审查”的预防原则（Precautionary Principle），强调在监管决策中必须对“不行动与技术延宕的代价”进行显性计量。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–37)]]
 
 > [!concept-lens] 概念透镜

@@ -49,7 +49,7 @@ related_arguments:
 
 ---
 
-> [!def] 核心定义
+> [!def] 象征边界（Symbolic Boundary）
 > 象征边界（Symbolic Boundary），由文化社会学家 Michèle Lamont 等人发展，指行动者通过赋予特定的行为、品味、生活方式与价值观以道德含义，在“我们”与“他们”之间划出的主观分类与区隔界限（Lamont & Molnár, 2002; Lamont et al., 2015, pp. 15341–15347）。象征边界的核心机制在于将差异**道德化**——群体之间的客观差异被转化为“正当 vs. 不正当”、“高尚 vs. 低劣”或“纯真 vs. 功利”的道德价值判断（Lamont et al., 2015）。
 
 > [!concept-lens] 概念透镜

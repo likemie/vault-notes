@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 市场失灵（Market Failure）
 > **市场失灵（Market Failure / 市场失灵理论）** 是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想假设，导致资源配置无法自发达到帕累托最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81–83, 102)]]
 
 > [!concept-lens] 概念透镜

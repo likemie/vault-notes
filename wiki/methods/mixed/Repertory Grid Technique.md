@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 角色建构库测验（Repertory Grid Technique）
 > Repertory grid 是元素（被评价对象）与[[Construct\|构念]]（评价维度）之间关系的系统表征。它通过引发个体用于理解世界的维度（构念）并收集其对特定对象（元素）在这些维度上的评分，同时产生质性数据（构念标签）和量化数据（评分矩阵），使得元素间关系和构念间关系均可被分析。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 5–6)]]
 
 > [!method-scope] 方法范围

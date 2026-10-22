@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 解决方案新闻（Solutions Journalism）
 > **解决方案新闻（Solutions Journalism）** 指新闻从业者在系统揭示复杂社会、环境或科技危机的同时，聚焦于各方针对该问题所采取的应对路径、干预机制及其实际成效，并基于严谨经验证据对其有效性、局限性与潜在副作用展开深度批判与调查评估的专业新闻采编[[Paradigm\|范式]]。其宗旨不是鼓吹未经检验的[[Techno-Utopianism|技术乌托邦]]或宣扬英雄主义奇迹，而是通过展现理性的解决路径与行动希望，重塑受众的公共效能感，逆转现代社会普遍弥漫的“新闻回避（News Avoidance）”心理。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59–60)]]
 
 > [!concept-lens] 概念透镜

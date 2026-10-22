@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] Bartik工具变量（Shift-Share Instrument）
 > Shift-Share Instrument（份额转移工具[[Variable\|变量]]，也称 Bartik Instrument）利用初始时期的截面分布（share）与总时间序列变化（shift）的交互构造预测值，作为内生解释变量的工具变量。其识别假设是初始份额分布是前定的，不受后续时期策略性行为的影响，因此由初始份额和总体变化交互产生的变异是外生的。
 
 > [!method-scope] 方法范围

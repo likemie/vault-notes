@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 构念（Construct）
 > 构念（Construct，亦称理论构念）是[[Variable|变量]]在理论层面的抽象与一般化表达（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 130]]）。它是研究者为了理论解释、预测或[[Causality|因果推断]]而有意建构的理性概念实体，代表现实中不可直接感官观察的潜在状态或特质（如[[Academic Achievement|学业成就]]、学习动机、[[Self-Efficacy|自我效能感]]、认知负荷），必须通过明确的[[Operationalization|操作化]]转化为具有可测属性的外显变量，方能在实证研究中接受检验与二阶合成。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 53, 130)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
 
 > [!concept-lens] 概念透镜

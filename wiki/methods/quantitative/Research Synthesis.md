@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 研究综合（Research Synthesis）
 > 研究综合（Research Synthesis，亦称证据综合 Evidence Synthesis）是一个涵盖性方法家族与学术伞式术语，指运用系统、显式且可复现的方法，对针对特定[[Research Question|研究问题]]或公共政策议题的多项独立原始实证研究进行全面检索、方法学质量严格审查、信息提取与智力整合，旨在形成超越单一研究局限的高阶科学证据或决策咨询报告。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]]
 
 > [!method-scope] 方法范围

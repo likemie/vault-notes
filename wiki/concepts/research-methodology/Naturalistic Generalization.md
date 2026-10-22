@@ -36,7 +36,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 自然主义概括（Naturalistic Generalization）
 > 自然主义概括（naturalistic generalization）是 Stake（1995）在[[Case Study\|案例研究]]方法论中提出的概念。研究者在基于案例数据形成命题性概括（propositional generalization）之外，还加入了自己的个人经验，这一融合产物就是自然主义概括（p.86; 引自 Creswell & Creswell, 2022, p.67）。在更广泛的[[Qualitative Research\|质性研究]]方法论中，自然主义概括指一种不由研究者通过统计抽样完成、而由**读者**通过将案例的[[Rich and Thick Description\|厚描述]]与自身情境进行对照来完成的认知推广过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 444–446)]]
 
 > [!concept-lens] 概念透镜

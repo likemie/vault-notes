@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 实践认识论分析（Practical Epistemology Analysis）
 > [[Practical Epistemology\|实践认识论]]分析（Practical Epistemological Analysis, PEA）是一种立足于维特根斯坦（Ludwig Wittgenstein）语言游戏理论与[[Pragmatic Paradigm\|实用主义]][[Epistemology\|认识论]]的质性微观[[Discourse Analysis\|话语分析]]方法。该方法由佩尔-奥洛夫·威克曼（Per-Olof Wickman, 2004）与莱夫·厄斯特曼（Leif Östman, 2014）创立，旨在通过微观考察课堂日常对话与操作性行动，追踪参与者如何就地（in situ）协商何者算作有效知识。PEA 将分析焦点从静态的心智信念转向动态的行动认识论，通过识别立足点（`Stand Fast`）、认知裂隙（`Gaps`）与关系建立（`Relations`），系统刻画学习者在面对反常或新现象时意义建构的具体推进轨迹。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 > [!method-scope] 方法范围

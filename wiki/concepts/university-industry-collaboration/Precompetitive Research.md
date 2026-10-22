@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 前竞争研究（Precompetitive Research）
 > 前竞争研究（Precompetitive Research）是指处于早期探索与共性开发阶段、产出的知识产权（Intellectual Property, IP）尚不具备直接商业化形态的研究与试验开发活动。在[[University-Industry Collaboration|产学合作]]与高技术产业研发联盟（R&D Consortia）语境中，该概念用于划定竞争对手之间可以合法开展技术共享与联合攻关的制度安全区，使合作方共享共性技术开发成本与风险，同时将专有产品设计与商业竞争保留在各自企业内部。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
 
 > [!concept-lens] 概念透镜

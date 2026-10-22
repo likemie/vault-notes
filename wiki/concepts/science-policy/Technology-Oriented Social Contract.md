@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 技术型社会契约（Technology-Oriented Social Contract）
 > 技术型社会契约（Technology-Oriented Social Contract）指国家与科研技术系统之间形成的一种以国家地缘竞争、产业全面复兴与绝对安全优势为首要诉求的新型制度性关系形态。其核心特征在于彻底打破以科学[[Knowledge Production|知识生产]]为基础的认知权威作为资助合法性起点的传统假定，转向以关键战略技术能力的快速获取、工程化部署与行政可验证性为导向；国家科技治理逻辑由此展现出从以科学为中心的认知契约向以能力为中心的技术契约的根本性结构漂移。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1063)]]
 
 > [!concept-lens] 概念透镜

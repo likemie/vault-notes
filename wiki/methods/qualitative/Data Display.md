@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 数据展示（Data Display）
 > 数据展示（Data Display）是 Miles & Huberman 质性数据[[Analytic Framework\|分析框架]]的核心支柱，指以系统化、视觉化和压缩的方式组织信息，旨在[[Assemblage\|组装]]信息以支持推论得出与行动决策。人类[[Working Memory\|工作记忆]]在处理连续长篇非结构化文本时存在严苛的认知负荷瓶颈；数据展示通过矩阵（matrices）、表格（tables）、网络图（networks）和因果链等空间化[[Externalization\|外化]]工具，将分散于多份访谈、[[Field Notes\|田野笔记]]或观察记录中的核心证据并置呈现，使研究者能够一目了然地捕捉组间异同、时序结构与潜在规律。数据展示绝非孤立的图表呈现，必须依托多层评注系统（commentary）以完成质性意义转化。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
 
 > [!concept-lens] 概念透镜

@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 联合实践发展（Joint Practice Development）
 > 联合实践发展（Joint Practice Development, JPD）指由两名或多名教师、学校管理者及外部研究者，在真实课堂与学校情境中协同互动，共同分享、测试、实施、评估和改良专业教学实践的持续探究过程（Fielding et al., 2005; Sebba et al., 2012）。
 >
 > 在英格兰[[Self-Improving School System\|自我改进学校系统]]与[[Evidence-Informed Practice\|证据知情实践]]脉络中，JPD 被确立为超越传统单向“优秀实践转移”（Transfer of Good Practice）的决定性机制[[Paradigm\|范式]]：它否认实践经验可以脱离具体教学情境被静态打包与机械复制，主张任何外生研究证据或优质策略的转化落地，都必须依托教师之间的相互信赖、双向观察与课堂微观调试（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 122, 125]]）。

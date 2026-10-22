@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 永续盘存法（Perpetual Inventory Method）
 > 永续盘存法（Perpetual Inventory Method, PIM）是通过投资流量数据递推估算资本存量的标准方法。其核心方程为 $K_{jt} = I_{jt} + (1-\delta) K_{j,t-1}$，其中 $K_{jt}$ 为资本存量，$I_{jt}$ 为固定资本投资，$\delta$ 为折旧率。初始资本存量通常通过稳态公式 $K_{j0} = I_{j0} / (g_j + \delta)$ 估算，其中 $g_j$ 为投资序列的平均几何增长率。
 
 > [!method-scope] 方法范围

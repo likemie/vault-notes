@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 领域分析（Domain Analysis）
 > **领域分析（Domain Analysis，又称象征范畴分析）** 是质性数据分析与[[Content Analysis\|内容分析]]中将初级编码与离散文本片段系统归纳为上位象征范畴的结构化分析阶段。在方法论上，一个“领域”（Domain）是指包含若干其他子范畴的象征性上位范畴（Spradley, 1979, p. 100）。领域分析处于建立[[Unit of Analysis\|分析单位]]与基础编码之后、建立关系与理论推论之前的核心纽带位置。其核心旨趣在于通过发掘文化符号与经验概念之间的深层语义关系（Semantic Relationships），将高度分散的编码条目聚合成层级化、有条理的意义群组（Clusters）、主题（Themes）与模式（Patterns），从而在精简数据规模的同时，最大程度维护经验材料的情境扎根性（Context-groundedness），筑牢防止文本去情境化的组织屏障（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al., 2011, p. 440]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 566–567]]）。
 
 > [!concept-lens] 概念透镜

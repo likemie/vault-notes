@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 人因取向（Ethogenic Approach）
 > 人因取向（Ethogenic Approach，亦译民族发生学进路或行动生成法）是由英国哲学家与社会心理学家[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德（Paul Secord）等人于 1970 年代奠立的社会行为研究方法论。该方法植根于[[Interpretive Paradigm\|反实证主义]]的“[[Anthropomorphic Model\|人的科学]]（science of persons）”运动，确立了“拟人化模型（anthropomorphic model）”，强调“为了科学本身的目的，请把人当作真正的人类来对待”（Harré & Secord, 1972）。该进路将人类视为能够制定计划、自我监控并践行能动性的个人（person），专注于通过引发与分析[[Social Episodes\|社会片段]]（social episodes）中行动者伴随行动发出的言语陈述（[[Accounts]]），[[Decodification\|解码]]支配其行为的意图、信念以及情境性社会规则系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Cohen et al., 2011, Ch. 22, pp. 441–442)]]
 
 > [!term] 词源与概念溯源

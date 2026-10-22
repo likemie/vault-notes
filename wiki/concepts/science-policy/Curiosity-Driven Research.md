@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 自由探索型研究（Curiosity-Driven Research）
 > **自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究或蓝天研究，Blue Skies Research）** 指由研究者好奇心和求知欲驱动、自主设定研究议程的开放式探索，以贡献原创知识和扩展理论前沿为目标。教育研究中的蓝天研究强调问题、理论与议程的[[Open-Mindedness|开放性]]；科学资助讨论则进一步关注学术自治、同行评议，以及长周期和容忍失败的经费支持条件。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 31–37)]][[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–38)]]
 
 > [!concept-lens] 概念透镜

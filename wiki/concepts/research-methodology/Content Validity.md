@@ -30,12 +30,12 @@ related_methods:
   - "[[Internal Consistency]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 内容效度（Content Validity）
 > 内容效度（Content validity）要求测量工具必须显示它**公平且全面地覆盖**了它声称要覆盖的领域或项目（Carmines & Zeller, 1979, p. 20）。它关乎的是**覆盖（coverage）** 和**代表性（representativeness）**，而非回应模式或分数——内容是事先确定的，效度取决于工具是否充分抽样了该内容领域。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 175–176)]]
 
 > [!concept-lens] 概念透镜

@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 互动民族志（Interactional Ethnography）
 > 互动[[Ethnography|民族志]]（Interactional Ethnography, IE，亦作交互民族志、互动人种志）是一种融合微观[[Discourse Analysis|话语分析]]、常人方法学与历时[[Ethnography|民族志]]的[[Qualitative Research|质性研究]][[Paradigm|范式]]。它通过对特定社会共同体（如课堂、实验室或学术团队）进行长周期的浸润式实地观察、多模态音视频采集与[[Transcription in Qualitative Research|逐字转录]]，构建跨越时间跨度的事件地图（Event Mapping）与互文网络（Intertextual Web），系统追踪成员之间如何在微观言语互动、符号中介与行动协商中共同建构文化实践、[[Epistemology|认识论]]准则与组织化结构。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899–900)]]
 
 > [!method-scope] 方法范围

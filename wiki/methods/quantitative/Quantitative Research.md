@@ -118,7 +118,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 量化研究（Quantitative Research）
 > 量化研究（Quantitative Research）是一种以[[Positivism\|实证主义]]与[[Postpositivism\|后实证主义]]为哲学基石，通过将概念[[Operationalization\|操作化]]为离散[[Variable\|变量]]、采用标准化工具收集数值数据，并运用数学统计模型进行理论检验、群体比较与[[Causality\|因果推断]]的演绎式探究路径（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 5]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 113]]）。其核心机制在于通过严谨的研究设计控制混杂偏差与[[Counterfactual\|反事实]]替代解释，在数理逻辑上确立变量之间的统计关联与[[Causality\|因果关系]]，并追求研究发现的[[External Validity\|可推广性]]与可复制性。最终书面报告具有严格固定的演绎结构（引言、[[Literature Review\|文献综述]]、方法、结果与讨论）。
 
 > [!method-scope] 方法范围

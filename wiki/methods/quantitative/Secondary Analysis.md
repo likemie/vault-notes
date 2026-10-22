@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 二手分析（Secondary Analysis）
 > **二手分析（Secondary Analysis，又称二次分析）** 是指对已有数据集、官方行政记录或跨国大规模评估数据库进行的进一步挖掘与重新分析，以不同于原始调查的解释视角、理论假设或比较框架推进对现实规律的理解（Hakim, 1982）。在比较教育与[[Policy Science in Comparative Education|政策科学]]中，研究者通过对国际组织（如[[OECD|经合组织]] [[PISA]]、[[EU|欧盟]] Eurydice 数据库）及国家官方普查与学业评估数据展开二手分析，能够绕过高昂的一手调研成本，系统透视教育政策执行偏差、跨国趋同假象与弱势群体学业抗拒机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–333)]]
 
 > [!method-scope] 方法范围

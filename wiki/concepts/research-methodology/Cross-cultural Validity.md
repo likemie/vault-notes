@@ -40,12 +40,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 跨文化效度（Cross-cultural Validity）
 > 跨[[Cultural Validity\|文化效度]]（Cross-cultural validity）关注的是：在一种文化中开发、测试和验证的工具——能否在另一种文化或国家中有意义地使用？是否存在足够的文化相似性或"文化普遍性"（cultural universals）使同一工具能够有意义地应用于另一文化——同时又尊重每种文化的特殊性、独特性和敏感性？（Hilton & Skrutkowski, 2002; Sumathipala & Murray, 2006）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 179–186)]]
 
 > [!concept-lens] 概念透镜

@@ -38,7 +38,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-> [!def] ABAB 设计
+> [!def] ABAB设计（ABAB Design）
 > ABAB 设计（ABAB Design，亦称撤回设计或逆转设计）是单一案研究的核心实验格式，由 Kazdin (1982) 系统阐述。它通过四个阶段的交替——基线（A₁）、干预（B₁）、撤除（A₂）、再引入（B₂）——来建立个体层面的[[Causality\|因果推断]]。每个阶段内进行多次重复观测，行为变化与干预的引入和撤除精确对应时，干预效应得到有力确认（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 328–330]]）。
 
 > [!method-scope] 方法范围

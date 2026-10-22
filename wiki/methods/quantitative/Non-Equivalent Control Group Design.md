@@ -39,7 +39,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-> [!def] 非等价控制组设计
+> [!def] 非等价控制组设计（Non-Equivalent Control Group Design）
 > 非等价控制组设计（Non-Equivalent Control Group Design）是最常用的[[Quasi-Experimental Designs\|准实验设计]]之一，其关键特征是实验组与控制组**未通过[[Random Assignment\|随机化]]实现等价**——因此在设计图中用虚线分隔两组（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 
 Campbell and Stanley (1963) 符号表示为：

@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 国家竞争优势（National Competitive Advantage）
 > **国家竞争优势（National Competitive Advantage）** 是由[[Michael Porter|迈克尔·波特]]（Michael Porter, 1990）在《国家竞争优势》（*The Competitive Advantage of Nations*）中提出的战略管理与经济地理学核心概念。该理论主张：一国在特定高端产业中的全球竞争优势并非源于先天禀赋的宏观生产要素（如廉价劳动力或自然资源），而是通过高度本地化的生产、制度与创新过程被“创造与维持”的——国家独特的制度环境、产业集群、有效国内竞争与苛刻的本土需求深刻决定了产业生产率的持续提升能力。波特提出了著名的全球化悖论：“虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要”。在当代[[Geopolitics|地缘政治]]与现代产业战略语境下，国家竞争优势不仅被批判性地理学家解析为推动[[Knowledge-Based Economization|知识经济化]]与区域[[Spatial Sortings|空间分化]]的“地缘政治想象”，更成为指导大国动用直接补贴、公共采购与护栏机制主动重构战略供应链与科技主权的政策基石。(Porter, 1990; 引自 [[Argument_Moisio_2022_Springer|Moisio, 2022, pp. 26–27]]); [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 6)]]
 
 > [!concept-lens] 概念透镜

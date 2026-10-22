@@ -84,7 +84,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 网络分析（Network Analysis）
 > 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。在微观教育研究中，它用于诊断课堂人际互动与分布式认知；而在教育政策社会学与政治经济学视阈中（Ball, 2012; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），网络分析进一步发展为解构跨界[[Policy Network|政策网络]]、连锁董事（Interlocking Directorates）兼职与隐性私有化资本渗透的核心分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
 
 > [!method-scope] 方法范围

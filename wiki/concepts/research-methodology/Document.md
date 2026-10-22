@@ -27,12 +27,12 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] Document
 > 文献（document）是对一个事件或过程的记录。这类记录可以由个人或群体生产，形式极为多样。[[Documentary Analysis\|文献研究]]（documentary research）通常使用由他人事先生产、而非研究者在研究过程中自行制作的文献，以此区别于通过访谈记录或[[Questionnaire\|问卷]]收集的研究者自产资料（pp.12–13）。
 
 > [!concept-lens] 概念透镜

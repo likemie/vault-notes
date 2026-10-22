@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 施密特式主权（Schmittian Sovereignty）
 > 施米特式主权（Schmittian Sovereignty）源自德国政治法学家卡尔·施米特（Carl Schmitt）在 1922 年《政治神学》中提出的主权学说。其核心命题是：“主权者是决定例外状态（state of exception）的人”。它主张主权的终极本质不在于日常法治状态下的规范性立法，而在于危机时刻宣布紧急状态、[[Epoché\|悬置]]宪法和法律，并创设超法律决策的绝对决断权（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.155]]）。
 
 > [!concept-lens] 概念透镜

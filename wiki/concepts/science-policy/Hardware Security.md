@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 硬件安全（Hardware Security）
 > **硬件安全（Hardware Security / Hardware Integrity and Security）** 指涵盖微电子器件与集成电路全生命周期（涵盖材料选型、逻辑综合、物理版图、晶圆流片、先进封装、测试筛选直至终端部署与废弃）的系统性安全防御技术、架构规范与工程方法。其核心目标在于防范外部敌对势力或非可信供应链引入的恶意硬件木马、物理侧信道攻击（Side-Channel Attacks）、故障注入攻击、逆向工程与假冒伪劣芯片，并在芯片内部构建硬件信任根（Hardware Root of Trust）、零信任物理认证机制以及抗物理探测的加密防线，确保国家关键基础设施与国防微电子系统的[[Trustworthiness|可信赖性]]（Trust and Assurance）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 13, 18–19)]]
 
 > [!concept-lens] 概念透镜

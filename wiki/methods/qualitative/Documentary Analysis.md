@@ -99,7 +99,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 文献分析（Documentary Analysis）
 > 文献分析（documentary analysis）是对文献进行系统评估和解释的研究方法。文献需要经过分析与阐释才能形成证据。核心任务包括验证真实性（authenticity）、评估[[Reliability|可靠性]]（reliability）、确定意义（meaning）及其语境（context），并选择[[Theoretical Perspective|理论视角]]组织解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(Cohen et al., 2011, Ch. 12, pp. 17–22)]]
 
 > [!method-scope] 方法范围

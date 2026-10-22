@@ -48,12 +48,12 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 研究问题（Research Question）
 > **研究问题（Research Question）** 是经验研究设计中将[[Research Purpose|研究目的]]与[[Purpose Statement|目的陈述]]收窄为具体、可回答问题或预测结果的核心工具。它紧随研究目的之后，规定了研究者计划收集的数据类型、分析策略与探究边界，是连接宏观理论关切与微观实证检验的方法论枢纽。在量化、质性与[[Mixed Methods Research|混合方法研究]]中，研究问题的形式、[[Open-Mindedness|开放性]]及其与假设的关系呈现出显著的[[Paradigm|范式]]分化[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]。
 
 > [!concept-lens] 概念透镜

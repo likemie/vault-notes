@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心界定
+> [!def] 动态研究笔记本（Dynamic Research Notebook）
 > **动态研究笔记本（Dynamic Research Notebook / Executable Computational Research Notebook）** 是现代科学交流基础设施与开放[[Scientific Paradigm|科学范式]]演进中的核心知识发布载体。该概念针对源自 17 世纪印刷时代的静态 PDF 学术期刊论文无法承载现代数据密集型与 AI 科学的根本弊端而提出。动态研究笔记本不再将科研成果固化为孤立的静态图表与文字段落，而是将**全量原始实验数据流**、**清洗与统计分析代码**、**容器化环境依赖（如 Docker 镜像或 Conda 环境配置）**，以及**交互式可视化仪表盘**完全封装为一个可在任何云端或本地算力节点上一键运行、动态复现与实时审计的交互式可执行文档。在当代科学政策与[[Metascience|元科学]]视阈下，动态研究笔记本被确立为终结学术造假、化解[[Reproducibility Crisis|可重复性危机]]并支撑 AI 智能代理自动验证与知识重组的下一代科学交流新基准。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]
 
 > [!concept-lens] 概念透镜

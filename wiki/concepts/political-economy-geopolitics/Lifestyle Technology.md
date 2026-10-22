@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 生活方式技术（Lifestyle Technology）
 > **生活方式科技（Lifestyle Technology）** 是指 2010 年代以来伴随智能手机与移动互联网全面普及而形成的一套技术研发与产品创新[[Paradigm|范式]]，其核心特征是将顶尖软件工程资源、算法算力与风险资本，高度集中于消除具备可支配收入的高学历城市阶层的微观生活摩擦与日常琐事（如即时网约叫车、餐食与日用品外卖配送、修图与图片社交、短租民宿预订）。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的分析中，生活方式科技代表了[[Consumer Internet|消费互联网]]极盛时期的病理形态：受制于[[Elite Overproduction|精英生产过剩]]，拥有名校资质却缺乏家族财富的年轻工程师阶层，将全部才智用于编写为自身及同侪模拟拥有专属私人管家、专车司机与厨师助理的“贵族便利幻觉”，从而造成了社会对深层物理工程、国家防务算法与核心生产率工具的严重忽视与[[Big Idea Famine|大构想饥荒]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
 
 > [!concept-lens] 概念透镜

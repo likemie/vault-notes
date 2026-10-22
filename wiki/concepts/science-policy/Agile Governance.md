@@ -68,7 +68,7 @@ aliases:
 
 ---
 
-> [!def] 核心定义
+> [!def] 敏捷治理（Agile Governance）
 > **敏捷治理（Agile Governance / 敏捷公共管理与敏捷试错）** 是指将源自软件工程、以人为本服务设计（User-Centred Service Design）与[[Engineering Pragmatism|工程实用主义]]的敏捷迭代哲学跨界引入公共行政、国家防务与科技政策制定中的新型治理[[Paradigm|范式]]；其核心特征在于彻底打破传统[[New Public Management|新公共管理]]（New Public Management, NPM）所依赖的事前僵化规划、长周期线性推进与全面[[Externalization|外部化]]的“瀑布模型”（Waterfall Model），在公共部门内部构建敏捷软件工程与跨学科流动团队能力，通过短周期快速迭代、最小可行产品（Minimum Viable Product, MVP）测试、真实运行反馈、免责根因追溯以及[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）等实证工具，在持续的“小步快跑、试错修正与快速止损”中动态优化政策设计与公共系统交付。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将敏捷治理确立为支撑第三代使命导向政策与落实[[Lead-and-Learn Paradigm|引领与学习范式]]的核心行政操作方法论；[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）则进一步将敏捷工程试错升华为现代国家克服官僚教条主义与重塑[[Technological Republic|技术共和国]]的组织认知基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–167)]]
 
 > [!concept-lens] 概念透镜

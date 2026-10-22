@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 纵向离散（Vertical Disintegration）
 > **纵向离散（Vertical Disintegration / 垂直专业化分工）** 指现代高科技产业中，原先高度整合在单一大型垄断企业（如[[Bell Labs|贝尔实验室]]、IBM、通用电气）内部的基础研发、核心工具开发、产品设计、工艺制造、封装测试及系统应用等全价值链环节，解构并分散给专业化的基础材料商、[[Electronic Design Automation|电子设计自动化]]（EDA）软件商、无晶圆厂设计公司（Fabless）、专业晶圆代工厂（Foundry）、精密设备制造商与外包封测（OSAT）企业等独立主体的产业组织形态。该形态通过技术接口标准化与模块化解耦大幅降低了进入门槛，赋予产业敏捷响应快速产品创新的适应力；但同时也造成跨环节协调失灵、长周期基础研究萎缩，并在全球化演进中形成了关键工序高度地理集中的单点咽喉依赖（Chokepoints），使单一国家试图建立全栈闭环“国家冠军”的传统产业政策彻底失效。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–90, 102)]]
 
 > [!concept-lens] 概念透镜

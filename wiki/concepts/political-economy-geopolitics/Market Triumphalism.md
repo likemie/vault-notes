@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 市场必胜论（Market Triumphalism）
 > 市场必胜论（Market Triumphalism）指 20 世纪末冷战结束以来在西方社会占据统治地位的政治经济学思潮；该思潮主张公共[[Discourse|话语]]应当保持绝对的道德中立，要求公民在进入公共广场时放下实质性的道德与精神信念，进而使市场交换与价格机制从单纯配置资源的经济工具演变为裁决社会价值与塑造公共生活的终极裁判。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 171–173)]]
 
 > [!concept-lens] 概念透镜

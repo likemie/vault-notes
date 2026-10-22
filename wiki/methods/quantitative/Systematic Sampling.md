@@ -31,7 +31,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 方法定义
+> [!def] 系统抽样（Systematic Sampling）
 > 系统抽样（Systematic Sampling）是[[Random Sampling\|简单随机抽样]]的变体，以系统而非随机方式从总体名单中选取受试者。从随机起点开始，按固定频率间隔依次选取，直至达到所需[[Sample Size Determination\|样本量]]。频率间隔 $f = N / sn$（$N$ 为总体人数，$sn$ 为所需样本人数）。
 
 > [!method-scope] 方法范围

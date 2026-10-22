@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心界定
+> [!def] 金券机制（Golden Ticket Mechanism）
 > **金券评审机制（Golden Ticket Mechanism / Golden Ticket Review）** 是现代[[Metascience|元科学]]（Metascience）与科技资助机制设计领域的前沿非共识遴选工具。在传统同行评议中，资助决断高度依赖评审委员会的平均打分或多数共识，导致具有高度争议性、前沿异端性但蕴含颠覆性潜力的非共识提案常因个别评委的严厉质疑而被拉低总分淘汰。金券机制通过引入“单人不对称赋权”，赋予每位参与评审的资深科学家一张“金券”（Golden Ticket）；无论该项目在评审委员会中遭到多少反对意见或平均得分多低，只要有一位评审专家愿意押注并打出金券，该项目即自动获得全额立项资助。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 27–28)]]
 
 > [!concept-lens] 概念透镜

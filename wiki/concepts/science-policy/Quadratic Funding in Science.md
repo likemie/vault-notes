@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 科学二次方资助（Quadratic Funding in Science）
 > **科学领域的二次方配比资助机制（Quadratic Funding in Science / Quadratic Research Funding）** 是指源自机制设计（Mechanism Design）与公共品融资理论的一种算法化科研经费配置模式。该机制设立中央匹配资金池，项目的最终获资助总额不仅取决于收到的捐助总金额，更与“赞助人数的平方根之和的平方”（即 $(\sum_{i} \sqrt{c_i})^2$）成正比，从而赋予获得大量基层研究人员、青年学者及跨学科探索者小额背书的课题极高的配比乘数，系统性纠正少数权威评审专家垄断经费把关权所导致的风险规避偏倚。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 30, 87)]]
 
 > [!concept-lens] 概念透镜

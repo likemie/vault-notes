@@ -52,7 +52,7 @@ created: 2026-06-16
 updated: 2026-10-22
 ---
 
-> [!def] 方法定义
+> [!def] 女性主义研究（Feminist Research）
 > 女性主义研究是一种以[[Critical Theory\|批判理论]]为根基的研究方法论，其核心主张是：传统[[Positivism\|实证主义]]研究服务于既有的权力关系——赋权白人男性主导的研究共同体，而压制其他群体的声音。女性主义研究旨在用赋权（empowerment）、发声（voice）、解放（emancipation）、平等（equality）和代表（representation）的议程取而代之。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 205–224)]]
 
 > [!method-scope] 方法范围

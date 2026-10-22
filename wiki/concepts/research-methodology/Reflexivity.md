@@ -111,7 +111,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 反身性（Reflexivity）
 > **反身性（Reflexivity，又称反思性）** 是[[Qualitative Research|质性研究]]与诠释探究[[Paradigm|范式]]的核心方法论特征：研究者系统反思并批判性审视自身在研究中的角色、个人生活史、文化背景、理论前见与价值偏好如何潜在塑造研究的全部解释路径——包括[[Research Question|研究问题]]的界定、范畴与主题的提炼，以及赋予经验文本的意义（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 9]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, Ch. 1, 28]]）。在教育[[Action Research|行动研究]]与专业实践探究中，反身性进一步指实践者主动审视自身行动背后的默会假定、因果行动理论与权力关系，防范落入无因果检验的盲动陷阱（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018, p. 124]]）。在读写教育与人机文本共创中，反身性体现为作者对写作修改与语篇建构的[[Metacognition|元认知监控]]；在安全关键人机决策与智能协同系统中，反身性具体表现为主体依据外部经验证据动态修正自身判断的程序理性机能与道德审议义务，依托显性反思支架与[[Alien Intelligence|异己智能]]定位抵御强[[Automation Bias|自动化偏差]]与全流程代写导致的实践剥夺，是维系有意义人类控制的核心[[Epistemology|认识论]]防线。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 15–20)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 8–10)]]
 
 > [!concept-lens] 概念透镜

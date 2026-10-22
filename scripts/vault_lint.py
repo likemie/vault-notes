@@ -1382,6 +1382,51 @@ def check_old_references(path: Path, text: str, issues: List[Issue]) -> None:
 RETIRED_SECTION_HEADINGS = {"相关研究", "领域应用", "总览", "实证数据", "条目关联", "相关条目"}
 
 
+def expected_def_title(fm: Dict[str, Any]) -> Optional[str]:
+    """主定义标题：中文名（English title）。中文名取 aliases 中第一个含汉字的别名；没有则只写 title。"""
+    title = str(fm.get("title") or "").strip()
+    if not title:
+        return None
+    aliases = fm.get("aliases") or []
+    if isinstance(aliases, str):
+        aliases = [aliases]
+    zh = next((str(a).strip() for a in aliases if re.search(r"[\u4e00-\u9fff]", str(a))), None)
+    if zh and not re.search(r"[\u4e00-\u9fff]", title):
+        return f"{zh}（{title}）"
+    return title
+
+
+def check_def_title(path: Path, text: str, issues: List[Issue]) -> None:
+    """正文第一个 callout 是 [!def] 时，它是条目的主定义，标题统一写条目名称。"""
+    if is_schema_or_workflow_doc(path) or "/templates/" in rel(path) or yaml is None:
+        return
+    m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
+    if not m:
+        return
+    try:
+        fm = yaml.load(m.group(1), Loader=FAST_SAFE_LOADER) or {}
+    except Exception:
+        return
+    if not isinstance(fm, dict) or str(fm.get("type") or "") in {"argument", "person"}:
+        return
+    body = text[m.end():]
+    cm = re.search(r"^> \[!([^\]|]+)[^\]]*\][+-]?(.*)$", body, re.M)
+    if cm and cm.group(1) != "def":
+        # 主定义前有其他 callout 时，只认标题仍为通用占位（核心定义等）的第一个 [!def]
+        dm = re.search(r"^> \[!(def)[^\]]*\][+-]?(.*)$", body, re.M)
+        cm = dm if dm and dm.group(2).strip() in {"核心定义", "方法定义", "核心界定", "概念定义", "定义", ""} else None
+    if not cm or cm.group(1) != "def":
+        return
+    nxt = re.search(r"^> \[!([^\]|]+)", body[cm.end():], re.M)
+    if nxt and nxt.group(1) == "def" and "\n## " not in body[cm.end():cm.end() + nxt.start()] and nxt.start() < 1500:
+        return  # 并列定义（如 不伤害 / 行善）各自写术语名
+    want = expected_def_title(fm)
+    if want and cm.group(2).strip() != want:
+        issues.append(Issue("ERROR", rel(path),
+            f"主定义 callout 标题应为条目名称：> [!def] {want}（现为“{cm.group(2).strip()}”）",
+            line=text[:m.end() + cm.start()].count("\n") + 1, code="DEF_TITLE"))
+
+
 def check_retired_headings(path: Path, text: str, issues: List[Issue]) -> None:
     """这些章节标题已废止：内容由带标题的 callout 承担（相关研究索引 / 条目关联 / 章节总览 / 实证表格 marker）。
     脚本不再依赖它们；只有 ``## 来源`` 仍是固定章节。"""
@@ -3506,6 +3551,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_quartz_safety(path, text, issues)
     check_effect_tables(path, text, issues)
     check_retired_headings(path, text, issues)
+    check_def_title(path, text, issues)
     check_axis_callouts(path, text, issues)
     check_stat_card_titles(path, text, issues)
     check_markdown_misc(path, text, issues)

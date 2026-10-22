@@ -51,12 +51,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
 
-> [!def] 核心定义
+> [!def] 效标问题（Criterion Problem）
 > [[Criterion Problem\|效标问题]]（The Criterion Problem）是指在心理学、教育学与组织行为学研究中，**缺乏一个公认一致、客观无偏且能完整表征目标[[Construct\|理论构念]]的终极效标（Ultimate Criterion）**，导致研究者不得不使用各种存在效标污染（Criterion Contamination）与效标缺失（Criterion Deficiency）的代理指标，进而引发测量结果不一致、[[Construct Validity\|构念效度]]滑坡与实证[[Effect Size\|效应量]]人为稀释的经典心理测量学困境（Shapiro, 1970; Wolf, 1994; Paek & Runco, 2018; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 7–8]]）。
 
 > [!concept-lens] 概念透镜

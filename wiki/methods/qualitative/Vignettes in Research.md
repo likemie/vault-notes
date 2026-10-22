@@ -29,7 +29,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 情境短文法（Vignettes in Research）
 > Vignettes 是"对一个人或社会情境的简短描述，其中精确引用被认为对受访者决策或判断过程最重要的因素"（Lee, 1993, p. 79）。在[[Sensitive Research\|敏感研究]]中，vignettes 被用作一种间接提问技术——通过将注意力从参与者的个人敏感性转移到外部对象（案例或情境）上，降低威胁感并促进更诚实的回答（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 227]]）。
 
 > [!method-position] 方法[[Epistemology\|认识论]]定位

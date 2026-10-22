@@ -112,7 +112,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 投资回报（Return on Investment）
 > 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer|技术转移]]、社会福祉）之间比例关系的复合[[Construct|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory|人力资本理论]]、[[World Bank|世界银行]]与[[OECD|经合组织]]工具化为设定跨国结构调整贷款的前置门槛与[[Governing at a Distance|远处治理]]指标，并将国家公共教育支出从福利国家的社会消费重构为衡量投入产出比与生产力收益的战略投资（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 541–542]]；[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 442, 449–450]]）；在中观[[Policy Network|政策网络]]与[[Venture Philanthropy|风险慈善]]层面，演化为[[Social Impact Investing|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为准市场竞标的[[Discourse|话语]]工具（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差异化预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]
 
 > [!concept-lens] 概念透镜

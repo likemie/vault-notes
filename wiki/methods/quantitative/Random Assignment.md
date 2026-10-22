@@ -96,7 +96,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 随机分配（Random Assignment）
 > 随机分配（Random Assignment，亦称随机分组或随机化）是[[Experimental Research|实验研究]]中将受试对象按已知且非零的概率均等原则分派至不同实验处理条件（如干预组与对照组）的核心技术。其核心功能在于使各组受试对象在所有已知与未知的基线特征上达到期望等价，从而消除选择偏误（Selection Bias），为确立[[Causality|因果推断]]（Causal Inference）与估计干预净效应奠定最强[[Internal Validity|内部效度]]基石。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 8)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch. 16, p. 313)]]
 
 > [!method-scope] 方法范围

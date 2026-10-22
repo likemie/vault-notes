@@ -45,7 +45,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 质性研究中的反应性（Reactivity in Qualitative Research）
 > 反应性是[[Qualitative Research\|质性研究]]中研究者的在场改变了被研究情境的现象——与[[Hawthorne Effect\|霍桑效应]]紧密关联。参与者可能试图回避、取悦、引导、否认或影响研究者，从而使其行为偏离自然状态。在质性研究中，反应性被视为不可完全消除的固有特征，而非可通过控制手段根除的"偏误"。应对方式是通过延长驻留时间、谨慎的自我呈现和高度[[Reflexivity\|反身性]]来管理，而非试图消除研究者效应。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 409, 442, 452)]]
 
 > [!concept-lens] 概念透镜

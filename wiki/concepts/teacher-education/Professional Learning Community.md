@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 专业学习共同体（Professional Learning Community）
 > **专业学习共同体（Professional Learning Community, PLC）** 指学校内部教育者（涵盖专任教师、[[School Leadership\|学校领导]]者与教学辅助人员）以持续改善所有学生的学业发展与身心福祉为共享愿景，基于互信文化与合作探究机制，对日常教学实践与学术科研证据展开系统审思、批判研读与集体实践的制度化协同组织形态（DuFour, 2004; Stoll et al., 2006; Vescio et al., 2008）。在[[Evidence-Informed Practice\|证据知情实践]]与高质量研究[[Research Utilization\|证据使用]]（[[Quality Use of Research Evidence Framework\|QURE]]）视域下，PLC 不仅是教师同侪互助的社会网络，更是使一线教育工作者免受科层行政事务碎片化挤压、为深思熟虑研读转化外部适切证据提供专有时空保障的实践庇护所，以及承载证据“共同审议”（shared deliberation）与多层使能构件发生交汇的微观组织中枢。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 141–144)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 188, 191–192)]]; [[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 18–19)]]
 
 > [!concept-lens] 概念透镜

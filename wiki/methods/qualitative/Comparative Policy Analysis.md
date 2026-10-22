@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 比较政策分析（Comparative Policy Analysis）
 > **比较政策分析（Comparative Policy Analysis）** 是公共政策学、比较政治经济学（Comparative Political Economy，[[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与规训机制的质性与制度研究方法。该方法通过将特定辖区的政策演进置于跨国或多层级坐标系下，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，揭示制度背景与宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；通过跨国政策话语的平行对质，解构不同政体如何对社会现象进行道德编码与问题化（Problematization），暴露制度文本背后的空间规训逻辑（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）；并通过跨国制度横向对照诊断后发国家激进照搬政策原则时脱离审慎调适共识所诱发的结构性病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–331]]）。
 
 > [!method-scope] 方法范围

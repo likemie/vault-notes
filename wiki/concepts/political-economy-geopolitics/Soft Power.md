@@ -85,8 +85,8 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
-> 软实力（Soft Power，亦称软权力），是由[[Joseph S. Nye Jr.|约瑟夫·奈]]（Joseph S. Nye）在冷战终结前后围绕美国是否走向相对衰落的学术与政策论辩中系统提出的核心概念，指一个行为体以吸引（Attraction）和说服而非强制（Coercion，如军事行动）或收买（Inducement，如经济制裁与金援附带条件）来塑造他者偏好与行为目标的能力。软实力依托文化吸引力、政治价值观的感召力以及被普遍视为具有合法性（Legitimacy）的对外政策运转。在当代全球教育治理与跨国比较中，这一机制被深化为“[[Soft Power by Hard Facts|以硬事实施展软权力]]”（Soft Power by Hard Facts）：国际组织借助量化统计、可比指标与跨国测评排名，在缺乏硬性法律强制管辖权的前提下对主权国家教育体系施加深远的规范引导与政策重构。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
+> [!def] 软实力（Soft Power）
+> 软实力（Soft Power，亦称软权力），是由[[Joseph S. Nye Jr.|约瑟夫·奈]]（Joseph S. Nye）在冷战终结前后围绕美国是否走向相对衰落的学术与政策论辩中系统提出的核心概念，指一个行为体以吸引（Attraction）和说服而非强制（Coercion，如军事行动）或收买（Inducement，如经济制裁与金援附带条件）来塑造他者偏好与行为目标的能力。软实力依托文化吸引力、政治价值观的感召力以及被普遍视为具有合法性（Legitimacy）的对外政策运转。在当代全球教育治理与跨国比较中，这一机制被深化为“[[Soft Power by Hard Facts|以硬事实施展软权力]]”（Soft Power by Hard Facts）：国际组织借助量化统计、可比指标与跨国测评排名，在缺乏硬性法律强制管辖权的前提下对主权国家教育体系施加深远的规范引导与政策重构。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于军事威慑与经济收买等[[Hard Power|硬实力]]形态，软实力聚焦意识形态、价值规范、文化制度与知识[[Discourse|话语]]的非强制性吸纳与同化功能。
@@ -99,7 +99,7 @@ updated: 2026-10-22
 > *Soft power is the ability to get what you want through attraction rather than coercion or payments. It arises from the attractiveness of a country's culture, political ideals, and policies. When your policies are seen as legitimate in the eyes of others, your soft power is enhanced.*
 
 > [!citation-card] 跨国治理中以硬事实施展软权力
-> 国际组织在缺乏法律制裁手段的情境下，依托量化指标与跨国排名构筑起强大的规制权威。通过向主权国家提供看似客观严密的‘硬事实’，国际组织成功将自身打造成不可或缺的[[Policy Brokerage|政策中介]]，施展着引导全球教育改革话语的‘软权力’。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 538)]]
+> 国际组织在缺乏法律制裁手段的情境下，依托量化指标与跨国排名构筑起强大的规制权威。通过向主权国家提供看似客观严密的‘硬事实’，国际组织成功将自身打造成不可或缺的[[Policy Brokerage|政策中介]]，施展着引导全球教育改革话语的‘软权力’。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 538)]]
 >
 > *International organisations exercise 'soft power by hard facts' by utilizing quantified comparative data and [[Performance Indicators]] to steer national policy agendas in the absence of coercive legal authority.*
 
@@ -135,7 +135,7 @@ updated: 2026-10-22
 > - **国际议程设置与规范合法性（Agenda-Setting & Normative Legitimacy）** 奈强调，在全球化与高度媒介化的信息时代，使自身的治理准则被公认为普遍真理、将自身的战略关切上升为跨国制度议程的能力，构成了当代大国软实力的最高表现形式。
 > - **探究与调解的双重运作模式** 国际治理体系中软实力的行使依托两种相辅相成的实践路径：探究模式通过客观指标与普查监测搜集跨国信息，建立不可撼动的认知权威；调解模式在此认知基座上提供政策工具与咨询建议，促成主权国家的自愿趋同。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
 > - **高等教育跨国流动的三重传导路径** 在全球[[Geopolitics of Higher Education|高等教育地缘政治]]中，国家通过三种机制投射软实力：一是通过特色课程体系与学术标准引导国际留学生形成对本国发展道路的认同；二是通过科研合作与[[Discourse|话语]]输出建立国际社会对本国制度价值的信任；三是将教育伙伴关系无缝融入对外战略与经济合作走廊。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
-> - **超国家组织“[[Soft Power by Hard Facts|以硬事实施展软权力]]”机制** 国际组织（如 [[OECD]] 与[[World Bank|世界银行]]）虽然没有立法管辖权和主权执法权，但通过常态化发布跨国比较数据（如 [[PISA]]、[[International Indicators of Education Systems|INES]]）将各国教育系统纳入统一[[Epistemic Community|认知共同体]]。量化数据提供了客观中立的科学表象，诱发各国内部围绕国际排名产生深层政治焦虑，从而以“软治理”方式推动国家层面的法定教育变革。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
+> - **超国家组织“[[Soft Power by Hard Facts|以硬事实施展软权力]]”机制** 国际组织（如 [[OECD]] 与[[World Bank|世界银行]]）虽然没有立法管辖权和主权执法权，但通过常态化发布跨国比较数据（如 [[PISA]]、[[International Indicators of Education Systems|INES]]）将各国教育系统纳入统一[[Epistemic Community|认知共同体]]。量化数据提供了客观中立的科学表象，诱发各国内部围绕国际排名产生深层政治焦虑，从而以“软治理”方式推动国家层面的法定教育变革。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
 > - **经济资源依托与软实力的寄生性** 高等教育软实力的持续辐射高度依赖施展国宏观经济实力与外援补贴的物质支撑；当软实力投射缺乏深层文化与制度认同，主要依靠国家奖学金和就业红利等外部功利诱因拉动时，其在受纳国的实际扎根呈现出显著的工具依附性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 > [!logic-map]- 软权力 in 教育治理中的运作机制流程图
@@ -175,7 +175,7 @@ updated: 2026-10-22
 > 剖析缺乏主权强制力的国际组织如何借助指标、统计与跨国测评将“硬事实”转化为形塑全球政策的隐蔽软权力。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] 等 & [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
-> **硬事实包裹下的软治理权威** 国际组织在缺乏主权强制力的约束下，通过探究模式输出跨国比较数据与设立绩效指标，确立了无可争议的认知权威；随后借助调解模式推介最佳实践模板，巧妙规避了直接干预国家主权的指控。量化“硬事实”所赋予的[[Façade of Rationality|理性外衣]]，使国际组织得以用较低政治成本引导国家教育政策走向标准化与同质化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
+> **硬事实包裹下的软治理权威** 国际组织在缺乏主权强制力的约束下，通过探究模式输出跨国比较数据与设立绩效指标，确立了无可争议的认知权威；随后借助调解模式推介最佳实践模板，巧妙规避了直接干预国家主权的指控。量化“硬事实”所赋予的[[Façade of Rationality|理性外衣]]，使国际组织得以用较低政治成本引导国家教育政策走向标准化与同质化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
 
 ---
 
@@ -228,7 +228,7 @@ updated: 2026-10-22
 > - **2004–2005 — 概念体系的精细化与三要素确立** 奈出版专著《软实力：在世界政治中获得成功的途径》，确立了软实力的三大核心支柱：文化（在他者眼中具备吸引力）、政治价值观（在国内外得到坚守）与对外政策（被视作合法且具备道德权威）。
 > - **2010年代 — [[Geopolitics of Higher Education|高等教育地缘政治]]应用与[[Knowledge Diplomacy|知识外交]]的反思** 随着全球学生跨国流动激增与[[Confucius|孔子]]学院、富布赖特项目展开全球竞争，学者们将软实力框架全面引入国际高等教育。[[Jane Knight|简·奈特]]（Jane Knight, 2021）等学者随后批评软实力的零和民族国家中心主义倾向，倡导转向多维共赢的“知识外交”。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 > - **2011–2018 — 超国家治理软权力的双重模式：探究与调解** 比较教育与国际关系学者（Bieber & Martens, 2011; [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）揭示国际组织施展软权力的两阶段机制：经合组织通过探究模式（数据搜集与指标定义）确立认知权威，随后通过调解模式（同行互评与最佳实践推介）渗透国家决策，在德国与日本等国成功推动重大国内教育改革。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–278)]]
-> - **2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 提出数字治理 2.0 框架，揭示经合组织与世界银行如何以量化指标为硬事实行使跨国软权力，将客观数据作为政策中介工具实现远处规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
+> - **2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 提出数字治理 2.0 框架，揭示经合组织与世界银行如何以量化指标为硬事实行使跨国软权力，将客观数据作为政策中介工具实现远处规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
 > - **2022 — 高等教育作为对外影响工具的体系化投射** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察中国对东南亚的高等教育外交，确立了留学生扩招（校友效应与准外交中介）、境外办学分校与孔子学院三大支柱，揭示软实力投射与南海领土争端等地缘政治张力的共存困境。
 > - **2023 — [[South-South Cooperation|南南合作]]与[[Education Going Global|高教出海]]的经济依附解构** [[Argument_Woo_2023_HEP|Woo (2023)]] 将[[Critical Discourse Analysis|批判性话语分析]]引入[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示非西方新兴大国在高等教育软实力投射中对经济[[Hard Power|硬实力]]诱因的深度寄生，拓展了软实力在外围国家落地面临的脆弱性与民意反弹机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 > - **2025 — 战略现实主义与算法时代的反思** 科技[[Geopolitics|地缘政治]]研究（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025]]）重新审视软[[Hard Power|硬实力]]的辩证关系，指出在 21 世纪大国博弈中，仅靠道义吸引力的软实力无法自发维持自由民主秩序，软实力必须与以代码和算法为核心的[[Hard Power|硬实力]]深度嵌套，重构[[Technological Republic|技术共和国]]的战略威慑。
@@ -254,7 +254,7 @@ updated: 2026-10-22
 > > 传统软实力理论预设主权国家为唯一施展主体，难以解释现代跨国机构的治理权力。
 > >
 > > - **传统软实力学者（Nye）** 聚焦于白宫或主权政府如何通过公关与文化基金会投射国际形象。
-> > - **全球治理与比较教育学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 揭示像 [[OECD]]、[[World Bank|世行]]这样的非主权组织，凭借跨国数据生产与[[Policy Brokerage|政策中介]]，已成为在全球范围内调动软权力的独立制度巨头。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–546)]]
+> > - **全球治理与比较教育学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b]]）** 揭示像 [[OECD]]、[[World Bank|世行]]这样的非主权组织，凭借跨国数据生产与[[Policy Brokerage|政策中介]]，已成为在全球范围内调动软权力的独立制度巨头。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543–546)]]
 
 > [!warning] 适用局限与边界
 > 软实力指数与排名的[[Performativity|表演性]]异化：当前全球大量商业机构开发了“全球软实力指数”等评估榜单，部分国家通过定向资金投入与形象公关“购买”软实力位次，导致软实力操作逐渐脱离了民众自发的真诚吸引与尊重，滑向虚幻的指标操弄与象征性表演。
@@ -268,7 +268,7 @@ updated: 2026-10-22
 > |---|---|---|---|---|
 > | **德意志联邦共和国教育治理转型** | 经合组织（OECD）：PISA 测试与探究/调解模式 | PISA 2000 德国阅读排第 21 位（484 分，低于均值 500 分）；主流媒体以 687 个版面聚焦报道 | 冲破联邦州文化主权否决点，联邦设立 40 亿欧元 IZBB 专项基金推行全日制学校并设立国家计算中心 IQB | [[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018)]] |
 > | **日本学力低下论争与课程改革** | 经合组织（OECD）：PISA 排名与数据权威 | PISA 2003 日本阅读位次自第 8 位滑落至第 14 位，数学自第 1 位跌至第 6 位 | 日本中央教育行政部门借助国际排名下滑借题发挥，废止“宽裕教育”大纲并压制教师工会阻力 | [[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018)]] |
-> | **全球南方多边教育借用** | 世界银行与经合组织：SABER 工具箱与跨国指标 | 覆盖全球 100 余个低收入与中等收入国家的教育投入与师资绩效基准数据库 | 主权国家在无硬性贷款附加条件要求下，自愿依照国际常模对齐本国师资认证标准 | [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]] |
+> | **全球南方多边教育借用** | 世界银行与经合组织：SABER 工具箱与跨国指标 | 覆盖全球 100 余个低收入与中等收入国家的教育投入与师资绩效基准数据库 | 主权国家在无硬性贷款附加条件要求下，自愿依照国际常模对齐本国师资认证标准 | [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b)]] |
 > | **“一带一路”沿线高等教育合作** | 中国政府奖学金与校企涉外联合办学 | 沿线留学生中超过 60% 依赖中国国家或省部级专项奖学金资助；学业选择高度集中于经贸工程应用学科 | 软实力吸引力受宏观经济增长预期与就业红利强绑定，在当地草根社会面临可持续认同考验 | [[Argument_Woo_2023_HEP\|(Woo, 2023)]] |
 > | **中柬跨境高等教育联合示范** | 综合性大学跨国分校与澜湄科技交流工坊 | 柬埔寨受援高校工程学科建设中中方师资与实验室设备占比逾 70% | 超越单向文化同化，在共建经贸走廊中实现科技卓越展演与国家发展治理经验的互构认同 | [[Argument_Zhu_Yang_2025_HE\|(Zhu & Yang, 2025)]] |
 > | **南亚与中亚教育公共外交** | 中国官方：251 项教育援助、35.8 万个奖学金名额、65 所孔子机构、高校全英文授课 | 52% 人文触点集聚于 16 个核心城市；86% 精英不会汉语但 64% 出于经贸就业意愿期望提升 | 创造实用技能红利但未能转化为深层政治互信，在地缘军事摩擦与族群政治敏感面前极为脆弱 | [[Argument_Custer_2021_AidData\|(Custer et al., 2021)]] |
@@ -278,7 +278,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统界定经合组织软权力施展的“探究模式”与“调解模式”，以德日两国教育政策改革为例，实证剖析国际组织如何借助客观数据事实突破国内制度否决点。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，深度解构经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，实现[[Policy Brokerage|政策中介]]与远处规制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，深度解构经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，实现[[Policy Brokerage|政策中介]]与远处规制。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统检视[[Geopolitics|地缘政治]]视域下跨境高等教育的软实力理论演化，批判其民族国家中心主义与零和博弈局限，提出[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]转型。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于[[Cultural Political Economy|文化政治经济学]]与[[Critical Discourse Analysis|批判话语分析]]，实证解构中国“[[Belt and Road Initiative|一带一路]]”高等[[Education Going Global|教育出海]]的软实力投射机制，揭示其对经济硬实力诱因的依附性及其在地缘博弈中的结构脆弱性。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 论证 [[PISA]] 跨国学业测评如何充当[[OECD|经合组织]]软治理的核心工具，通过确立国际[[Reference Society|模范社会]]实现超国家教育政策趋同。

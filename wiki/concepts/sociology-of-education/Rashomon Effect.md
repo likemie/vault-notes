@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 罗生门效应（Rashomon Effect）
 > 罗生门效应（Rashomon Effect）指同一事件、现象或数据集被不同的行动者以**矛盾且互不兼容的因果叙事**加以陈述和诠释，且在缺乏绝对外部裁判标准的情境下呈现出“多重真实（multiple truths）”的现象。该术语由人类学家、法学家与社会科学研究者（Roth & Mehta, 2002）从黑泽明 1950 年的电影《罗生门》中引申而来，最初用于破除[[Qualitative Research\|质性研究]]中单一客观因果链的假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 72–73]]），后被比较教育与政策学者拓展至分析大规模量化评估中数据高度可塑性所引发的政治解构与合法化博弈（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 111–112]]）。
 
 > [!concept-lens] 概念透镜

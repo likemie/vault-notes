@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 技术赶超（Technological Catch-up）
 > **技术赶超（Technological Catch-up / Catching Up）** 指后发国家（Latecomer Economies）在面对先发工业大国已确立的绝对技术与商业优势时，通过国家层面的战略政策引导、有形与无形资本的制度化互依投资、先进生产装备逆向工程消化以及自主研发与工程人才体系的快速扩张，跨越既有技术代差、实现产业国际[[Competitiveness|竞争力]]大幅提升并重塑全球分工格局的非均衡动态跃迁过程。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8, 12–15, 20)]]
 
 > [!concept-lens] 概念透镜

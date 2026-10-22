@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法定义
+> [!def] 相关与层级效应模型（Correlated and Hierarchical Effects Model）
 > [[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE）是一种专门用于在[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）中同时处理**相关效应（Correlated Effects，同一项研究或同一被试报告的多个相关测量）** 与**层级效应（Hierarchical Effects，[[Effect Size\|效应量]]嵌套于不同原始研究或一阶元分析集群中）** 的三水平统计工作模型（Working Model）（Pustejovsky & Tipton, 2022; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 5]]）。CHE 通过构建块对角协方差工作矩阵并分解三层方差分量，为加权估计提供最优化统计效率。
 
 > [!method-scope] 方法范围

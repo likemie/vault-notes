@@ -35,7 +35,7 @@ created: 2026-06-18
 updated: 2026-10-22
 ---
 
-> [!def] 核心定义
+> [!def] 研究隐私（Privacy in Research）
 > 研究中的隐私权延伸到所有与个人身体和精神状况、个人境况和社会关系相关的、尚未进入公共领域的信息。它赋予个人或集体自行决定何时何地、在什么境况下、以何种程度将个人态度、意见、习惯、怪癖、疑虑和恐惧传达给他人或保留的自由（Social Sciences and Humanities Research Council of Canada, 1981）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 99]]）。
 
 > [!concept-lens] 概念透镜

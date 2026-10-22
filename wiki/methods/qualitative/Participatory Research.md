@@ -40,7 +40,7 @@ created: 2026-06-16
 updated: 2026-10-22
 ---
 
-> [!def] 方法定义
+> [!def] 参与式研究（Participatory Research）
 > 参与式研究（Participatory Research, PR）是与人和社区一起做研究（doing research with people and communities），而非对人或为人做研究（doing research to or for people）。其核心信念是：普通人完全有能力对自己的处境进行[[Reflexivity\|反思性]]和批判性分析。PR 是深刻民主的，所有参与者平等，致力于参与式民主而非代议制民主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 151–162)]]
 
 > [!method-scope] 方法范围

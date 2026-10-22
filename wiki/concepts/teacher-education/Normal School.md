@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 师范学校（Normal School）是指专门用于培养初等国民公立学校教师的专业性教育机构。“师范（normal）”一词源自拉丁语 *norma*（木工矩尺、模范、规范），旨在通过统一的国家教学法规程、道德示范与临床操练，为现代公共教育体系铸造具有标准化执教能力的师资队伍。
 
-> [!def] 核心定义
+> [!def] 师范学校（Normal School）
 > 师范学校是 18 至 19 世纪在欧洲大陆发端、并经由跨大西洋借用与全球南方扩散而建制化的教师职前培养专门机构。它以世俗[[State Educational Sovereignty\|国家教育权]]为依托，打破传统教区慈善施舍与私人[[Apprenticeship|学徒制]]的随意性，通过垄断教师资格准入、传授感官直观教学法（直观教学）与温和人道纪律，使教育学原则转化为可操作、可复制的学校日常教学规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]；[[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015, pp. 48–50)]]
 
 > [!concept-lens] 概念透镜

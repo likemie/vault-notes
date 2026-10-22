@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 核心定义
+> [!def] 受教育水平（Educational Level）
 > 受教育水平（Educational Level / Educational Attainment）既是衡量个体在正规学校体系中累积学习时长或所达最高法定学历层次的人口学与统计学[[Variable|变量]]，也是现代国家教育建制中纵向层级分工（初等、中等、高等教育）的制度化阶梯。在微观认知发展视阈中，它表征个体认知复杂性与[[Epistemological Beliefs|认识论信念]]的成熟演化；在宏观政治经济学视阈中，它则是国家公共财政资源配置、阶级文凭分配与[[Dual School System|双轨学制]]分流的核心载体。[[Argument_Greene_2010_JEP|(Greene et al., 2010, pp. 382–383)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 
 > [!concept-lens] 概念透镜
