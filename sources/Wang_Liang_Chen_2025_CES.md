@@ -1,6 +1,7 @@
 ---
 citation: "Wang, Y., Liang, C., & Chen, Y. (2025). High-level open cooperation in vocational education: Purpose, criteria and pathways—Observations on Chinese-ASEAN cooperation in vocational education. Chinese Education & Society, 58(5–6), 286–302."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 processed_date: 2026-10-22
 ---
 

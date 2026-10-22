@@ -337,8 +337,8 @@ updated: 2026-10-22
 > > - **复杂系统情境论（Berger, 1982; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 班级规模本身无法作为独立分析单元；人数减少必须与教师教学[[Paradigm|范式]]转型、[[Individualised Instruction|个别化指导]]及社会背景交互方能起效，脱离教学调适直接断言班额无效属于严重的归因偏误。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
 
 > [!critique] 外部批评与政策异化
-> - **分析单元混淆与反向选择假象** 许多学校策略性地将学业落后生编入小班，造成观察数据中“小班成绩反而更差”的反向选择假象；约翰逊与简森指出，[[John Hattie|哈蒂]]从格拉斯元分析中提取出非原作者认定的 $d = 0.09$，反映出元分析二次引述中的语境漂移现象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–33)]]
-> - **政府财政紧缩的选择性修辞** 新西兰财政部简报（[[Treasury Briefing on Student-Teacher Ratios]]）曾援引哈蒂“教师质量是最大校内影响变量”的论断，提议提高生师比以腾挪财政资金。奥尼尔尖锐指出该建议犯下多重[[Material Fallacies|实质谬误]]：故意忽略哈蒂原文关于“增加班级规模是灾难性糟糕政策”的警告，并且掩盖了新西兰生师比本已显著高于 [[OECD]] 均值的事实。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
+> - **分析单元混淆与反向选择假象** 许多学校策略性地将学业落后生编入小班，造成观察数据中“小班成绩反而更差”的反向选择假象；约翰逊与简森指出，[[John Hattie|哈蒂]]从格拉斯元分析中提取出非原研究认定的 $d = 0.09$，反映出元分析二次引述中的语境漂移现象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–33)]]
+> - **政府财政紧缩的选择性修辞** 新西兰财政部简报（[[Treasury Briefing on Student-Teacher Ratios]]）曾援引哈蒂“教师质量是最大校内影响变量”的论断，提议提高生师比以腾挪财政资金。奥尼尔尖锐指出该建议犯下多重[[Material Fallacies|实质谬误]]：故意忽略哈蒂关于“增加班级规模是灾难性糟糕政策”的警告，并且掩盖了新西兰生师比本已显著高于 [[OECD]] 均值的事实。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
 > - **[[Socioeconomic Status|阶级盲教学思维]]的技术遮蔽** 尼尔森与克利特默勒强调，哈蒂将社会阶层变量排除在[[Moderator Analysis|调节效应分析]]之外，构建了一套假定所有学生均质化的纯技术方案，在客观上掩盖了贫困儿童在结构性劣势下的真实学习困难。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]
 
 > [!warning] 适用局限
@@ -351,26 +351,34 @@ updated: 2026-10-22
 >
 > 大样本随机实验、一阶[[Meta-analysis|元分析]]、二阶综合与跨国计量经济学模型为评估班级规模效应提供了多维经验数据。
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 田纳西州 STAR 项目：小班（13–17 人） vs 常规模范大班（22–25 人） | 标准化读写与数学测验 | 79 所学校，逾 6,000 名学生长期追踪 | 小班各科平均得分持续高于大班 | $d = 0.62\text{–}0.66$ | 极显著（$p < .001$） | 严格[[Random Assignment\|随机分配]]实验；优势在低年级与少数族裔中最为强劲 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Phillips et al. (2001) | 奥克兰 [[Picking Up the Pace\|PACE 项目]]：班额由 28 人减半至 15 人并实施 3 人微组阅读辅导 | 低年级阅读与读写能力评测 | 奥克兰南区处境不利小学低段群体 | 辅导组学生阅读进步速度达到常规对比组两倍以上 | — | 显著高增益 | 班额腰斩使教师得以实施每日 10–15 分钟高频精准辅导，属于小班与教学法协同干预 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Murnane and Levy (1996) | 德州 15 所贫困小学对比：每年追加 30 万美元用于缩班与配套教学改革 | 德克萨斯州学业评估（TAAS）达标率 | 德州 15 所贫困小学 / 5 年追踪 | 2 所同步革新教学与社区支持的学校达标率大幅提升；13 所仅单纯缩减人数学校无变化 | — | 极具组间分化显著性 | 单纯缩减班额无效；唯有缩班与教学模式革新、健康与社区支持深度整合方能成功 |
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 法国弱势学校班额减半改革（优先教育网 REP+ 由 24 人降至 12 人） | 标准化法语与数学统考成绩 | 法国优先教育网一、二年级群体 | 实验组阅读略高于常规班，数学无差异 | $d \approx 0.08$（阅读） | 阅读微弱显著（$p < .05$），数学未达显著 | 全国性政策推广；合格师资与校舍物理条件制约显著稀释了政策预期收益 |
+> | 研究 | [[Effect Size\|效应指标]] | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | Cohen's $d$ | 0.62–0.66 | 极显著（$p < .001$） | 田纳西州 STAR 项目：小班（13–17 人） vs 常规模范大班（22–25 人） | 标准化读写与数学测验 | 79 所学校，逾 6,000 名学生长期追踪 | 小班各科平均得分持续高于大班 | 严格[[Random Assignment\|随机分配]]实验；优势在低年级与少数族裔中最为强劲 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Phillips et al. (2001) | — | — | 显著高增益 | 奥克兰 [[Picking Up the Pace\|PACE 项目]]：班额由 28 人减半至 15 人并实施 3 人微组阅读辅导 | 低年级阅读与读写能力评测 | 奥克兰南区处境不利小学低段群体 | 辅导组学生阅读进步速度达到常规对比组两倍以上 | 班额腰斩使教师得以实施每日 10–15 分钟高频精准辅导，属于小班与教学法协同干预 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Murnane and Levy (1996) | — | — | 极具组间分化显著性 | 德州 15 所贫困小学对比：每年追加 30 万美元用于缩班与配套教学改革 | 德克萨斯州学业评估（TAAS）达标率 | 德州 15 所贫困小学 / 5 年追踪 | 2 所同步革新教学与社区支持的学校达标率大幅提升；13 所仅单纯缩减人数学校无变化 | 单纯缩减班额无效；唯有缩班与教学模式革新、健康与社区支持深度整合方能成功 |
+> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | Cohen's $d$ | 见亚组表 | 阅读微弱显著（$p < .05$），数学未达显著 | 法国弱势学校班额减半改革（优先教育网 REP+ 由 24 人降至 12 人） | 标准化法语与数学统考成绩 | 法国优先教育网一、二年级群体 | 实验组阅读略高于常规班，数学无差异 | 全国性政策推广；合格师资与校舍物理条件制约显著稀释了政策预期收益 |
 
 > [!ma-table]- 一阶元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Glass and Smith (1978)]] | 干预因素：班级规模缩减对全学科学生[[Academic Achievement\|学业成就]]的回归合成 | $k = 77$ / $N \approx 900,000$（725 次比较） | 百分位成就差与连续回归拟合 | 负相关非线性曲线；40 人减至 1 人提升逾 30 个百分位点 | 实验控制充分的研究斜率陡峭，控制不佳的研究斜率趋平 | 早期元分析未报告现代随机效应异质性统计量；哈蒂二次引用时仅截取平缓局部并误读为 $d=0.09$ |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Glass and Smith (1978)]] | — | — | 百分位成就差与连续回归拟合（未报告标准化效应量） | $k = 77$ / $N \approx 900,000$（725 次比较） | 干预因素：班级规模缩减对全学科学生[[Academic Achievement\|学业成就]]的回归合成；结果为负相关非线性曲线，40 人减至 1 人提升逾 30 个百分位点 | 实验控制充分的研究斜率陡峭，控制不佳的研究斜率趋平 | 早期元分析未报告现代随机效应异质性统计量；哈蒂二次引用时仅截取平缓局部并误读为 $d=0.09$ |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 0.21 | — | Cohen's $d$，二阶简单算术平均 | $M = 3\text{–}14$ / $E = 108$ / — / — | 干预因素：[[John Hattie\|哈蒂]]（Hattie, 2009）综合缩减班级规模对中小学生学业成就的二阶效应（位列第 108 位） | 未报告预测区间与模型异质性检验 | 机械平均抹平了高质量实验（STAR）与劣质研究的差异；排除了社会阶层调节变量（SES $d=0.57$），形成阶级盲技术偏见 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 干预因素：[[John Hattie\|哈蒂]]（Hattie, 2009）综合缩减班级规模对中小学生学业成就的二阶效应 | $M = 3\text{–}14$ / $E = 108$ / — / — | Cohen's $d$，二阶简单算术平均 | $d = 0.21$（位列第 108 位） | 未报告预测区间与模型异质性检验 | 机械平均抹平了高质量实验（STAR）与劣质研究的差异；排除了社会阶层调节变量（SES $d=0.57$），形成阶级盲技术偏见 |
+> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 结果领域 | 阅读（法语） | — | 0.08 | — | $p < .05$ |
+> |  |  | 数学 | — | — | — | 未达显著 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
