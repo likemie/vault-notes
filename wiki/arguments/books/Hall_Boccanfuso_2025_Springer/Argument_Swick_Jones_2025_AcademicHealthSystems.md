@@ -40,20 +40,21 @@ related_persons:
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[Achieve]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025|Ch10_Swick_Jones_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-06-02
-updated: 2026-10-22
+updated: 2026-10-23
 subtype: book-chapter
 publication_type: book
 title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 25
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -360,7 +361,7 @@ citation_aliases:
 > 产学伙伴关系是穿越这些重重挑战的唯一路径。
 
 > [!quote|notitle]
-> "For every partnership we enter, we must ask ourselves: What does 'values alignment' mean? What counter currents are pulling us away from alignment, and how can we reconcile those forces to realign our goals, balance the model, and achieve innovation together?"(pp.190–191)
+> "For every partnership we enter, we must ask ourselves: What does 'values alignment' mean? What counter currents are pulling us away from alignment, and how can we reconcile those forces to realign our goals, balance the model, and [[Achieve|achieve]] innovation together?"(pp.190–191)
 >
 > 对于我们进入的每一个伙伴关系，我们必须问自己：这里的价值对齐意味着什么？什么反向潮流正在将我们拉离对齐？我们如何调和这些力量以重新对齐目标、平衡模型并共同实现创新？
 

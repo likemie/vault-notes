@@ -8,7 +8,7 @@ summary: "与参与者进行开放式对话以理解其主观经验和意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 50
+method_related_count: 51
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[In-depth Interview]]"
   - "[[Narrative Analysis]]"
+  - "[[Interpretive Policy Analysis]]"
   - "[[Content Analysis]]"
   - "[[Interview Protocol]]"
   - "[[Pilot Testing]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Case Study|案例研究]]、[[Ethnography|民族志]]、[[Grounded Theory|扎根理论]]、[[Phenomenology|现象学]]研究、[[Narrative Research|叙事探究]]。
 > - **数据收集** 面对面[[Semi-structured Interview|半结构化访谈]]、[[In-depth Interview|深度访谈]]、[[Focus Group|焦点小组]]、[[Telephone Interview|电话访谈]]、网络与电子邮件访谈。
-> - **分析方法** 主题分析（Thematic Analysis）、扎根理论三级编码、[[Narrative Analysis|叙事分析]]、解释现象学分析（IPA）、定性[[Content Analysis|内容分析]]。
+> - **分析方法** 主题分析（Thematic Analysis）、扎根理论三级编码、[[Narrative Analysis|叙事分析]]、解释现象学分析（[[Interpretive Policy Analysis|IPA]]）、定性[[Content Analysis|内容分析]]。
 > - **辅助技术** [[Interview Protocol|访谈提纲]]、追问技术、[[Pilot Testing|预测试]]、录音设备、[[Transcription in Qualitative Research|转录]]规程、反思性备忘录与编码协同。
 
 ---

@@ -6403,6 +6403,20 @@
     ]
   },
   {
+    "title": "Policy Fellowships and Placements",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Fellowships and Placements.md",
+    "aliases": [
+      "政策研修员与学者驻政轮岗机制",
+      "政策研修与学者驻政",
+      "政策研修员制度",
+      "Policy Fellowships",
+      "Policy Placements",
+      "Scholar-Policymaker Pairing",
+      "学者驻政与轮岗机制"
+    ]
+  },
+  {
     "title": "Policy Framing",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Policy Framing.md",
@@ -6920,6 +6934,18 @@
       "第三空间对话",
       "Third Space",
       "第三空间"
+    ]
+  },
+  {
+    "title": "Three Pathways of Research Utilization",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Three Pathways of Research Utilization.md",
+    "aliases": [
+      "三维研究利用路径",
+      "研究证据利用三维路径",
+      "Three Pathways to Effective URE",
+      "线性关系型与系统型研究利用路径",
+      "Three Pathways Framework"
     ]
   },
   {
@@ -21303,6 +21329,19 @@
     ]
   },
   {
+    "title": "Two-Mode Network Analysis",
+    "type": "method",
+    "path": "wiki/methods/mixed/Two-Mode Network Analysis.md",
+    "aliases": [
+      "两模网络分析",
+      "二部网络分析",
+      "二部从属网络分析",
+      "Bipartite Affiliation Network Analysis",
+      "Two-Mode Social Network Analysis",
+      "2-Mode SNA"
+    ]
+  },
+  {
     "title": "Account Gathering",
     "type": "method",
     "path": "wiki/methods/qualitative/Account Gathering.md",
@@ -21992,6 +22031,15 @@
       "编码者间信度",
       "intercoder reliability",
       "编码一致性"
+    ]
+  },
+  {
+    "title": "Interpretive Policy Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Interpretive Policy Analysis.md",
+    "aliases": [
+      "解释性政策分析",
+      "IPA"
     ]
   },
   {

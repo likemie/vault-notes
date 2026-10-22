@@ -24,6 +24,7 @@ related_concepts:
   - "[[Responsible Conduct of Research]]"
   - "[[Technology Transfer Office]]"
   - "[[Operationalization]]"
+  - "[[Strategic Compliance]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -41,14 +42,14 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 status: draft
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-23
 subtype: book-chapter
 publication_type: book
 title: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_key: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -261,7 +262,7 @@ citation_aliases:
 > "Formal UI engagements—those executed through signed agreements between organizations—seldom begin without prior informal relationships."(p.260)
 
 > [!quote|notitle]
-> "No one person has sufficient insight to answer all five questions. Communication inside each organization—including performers, contracting officers, compliance officers, technology transfer officers, and senior leadership—is crucial."(p.263)
+> "No one person has sufficient insight to answer all five questions. Communication inside each organization—including performers, contracting officers, [[Strategic Compliance|compliance]] officers, technology transfer officers, and senior leadership—is crucial."(p.263)
 
 > [!quote|notitle]
 > "Quality control is much less systematic in universities than in industry, owing to a culture that values creative independence, along with a shortage of institutional controls and infrastructure supporting the conduct of research."(p.266)

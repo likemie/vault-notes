@@ -167,3 +167,4 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|试题研发]]早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341–343)]] — 分析经合组织、联合国教科文组织与世界银行顾问小组等超国家守门机构如何依托认知共同体界定证据层级与合法动员机制。

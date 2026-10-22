@@ -466,3 +466,4 @@ updated: 2026-10-22
 > - [[Argument_Torres_2022_KMModels\|Torres, P. (2022)]] — 系统横向比较跨领域主流与前沿[[Knowledge Mobilisation\|知识动员]]模型，揭示证据生态的双层嵌套演化规律与下一代自适应生态治理路径。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出基于证据生态系统的中介机构自我循证框架，论证既有生态需求摸排与外部高利害问责制度咬合的战略必要性，系统批判官方治理模型遗漏外层系统的结构性盲区，并依据多臂因果实证阐明扎根行为改变科学的理论路径。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald, T., & Nevill, C. (2021)]] — 系统评析英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）十年来在因果评估、数据归档共享、证据转译与全国[[Research Schools Network\|研究学校网络]]中的生态运作，揭示[[Implementation Fidelity\|实施保真度]]与规模化生态扩展的深层张力。
+> - [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] — 运用解释性政策分析剖析经合组织报告中关于证据生态系统的话语建构，指出理想化生态修辞掩盖了反馈回路断裂与认识论不平等的制度现实。

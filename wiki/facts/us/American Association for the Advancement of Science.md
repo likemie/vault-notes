@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: academic-society
 headquarters: "Washington, D.C., USA"
@@ -25,6 +25,7 @@ tags:
   - theme/knowledge-mobilisation
 related_concepts:
   - "[[Academic Freedom]]"
+  - "[[Policy Fellowships and Placements]]"
   - "[[Scientific Literacy]]"
   - "[[STEM Education]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -40,7 +41,8 @@ related_concepts:
 related_theories:
   - "[[Two-Communities Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
-related_methods: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Richard C. Atkinson]]"
@@ -61,13 +63,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国科学促进会（American Association for the Advancement of Science, AAAS）是全球规模最大的综合性多学科科学学术学会（501(c)(3)），也是国际顶尖学术期刊《科学》（*Science*）的出版机构。学会拥有逾 12 万名跨学科科学家会员，致力于在所有科学分支中推进科学探索、捍卫[[Academic Freedom|学术自由]]，深度参与战后国家科学政策体制构建，并通过首创并主导运行半个世纪的科技政策研究员计划（Science & Technology Policy Fellowships, STPF），系统构建了将自然与社会科学家全职输送至美国国会两院与联邦决策中枢的制度化通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]; [[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
+> 美国科学促进会（American Association for the Advancement of Science, AAAS）是全球规模最大的综合性多学科科学学术学会（501(c)(3)），也是国际顶尖学术期刊《科学》（*Science*）的出版机构。学会拥有逾 12 万名跨学科科学家会员，致力于在所有科学分支中推进科学探索、捍卫[[Academic Freedom|学术自由]]，深度参与战后国家科学政策体制构建，并通过首创并主导运行半个世纪的科技政策研究员计划（Science & Technology [[Policy Fellowships and Placements|Policy Fellowships]], STPF），系统构建了将自然与社会科学家全职输送至美国国会两院与联邦决策中枢的制度化通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]; [[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创立于 1848 年（美国宾夕法尼亚州费城），旨在建立一个跨越地理阻隔、涵盖所有自然与应用学科的全国性科学联合会，推动科学研究的国家建制化。
@@ -121,7 +123,7 @@ updated: 2026-10-22
 > [!indicators] 影响力维度与指标
 > - **会员与出版覆盖** 全球会员超过 12 万人，覆盖 91 个国家和地区；《科学》杂志每周全球读者逾百万人，是全球学术引文与公共媒体关注度最高的基础综合学刊之一。
 > - **政策输送规模** STPF 累计向美国国会两院委员会、白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）、国务院、[[National Science Foundation|NSF]] 及能源部等机构输送超 4,000 名博士级专业学者。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 46)]]
-> - **预算监测权威度** 其年度报告与历史序列被国会听证会、白宫及顶尖科学计量学学者（如 Fabrizio & Mowery, 2005）作为考证联邦战后科研财政变迁的核心权威依据。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 28)]]
+> - **预算监测权威度** 其年度报告与历史序列被国会听证会、白宫及顶尖[[Bibliometric Analysis|科学计量学]]学者（如 Fabrizio & Mowery, 2005）作为考证联邦战后科研财政变迁的核心权威依据。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 28)]]
 > - **跨学科教育标准渗透** Project 2061 编制的[[Scientific Literacy|科学素养]]基准直接融入了美国《国家科学教育标准》（NSES）与《下一代科学标准》（NGSS）的顶层设计。
 
 > [!finding-cards] 关键成效与辐射影响

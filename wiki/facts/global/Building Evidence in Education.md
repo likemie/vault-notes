@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Cost-Benefit Analysis]]"
+  - "[[Interpretive Policy Analysis]]"
   - "[[Qualitative Research]]"
 related_instruments: []
 related_persons: []
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -86,7 +87,7 @@ updated: 2026-10-22
 > [!actor-grid] 组织治理架构
 > - **三驾马车核心领导层** [[World Bank\|世界银行]]集团（World Bank Group）、英国外交联邦及发展事务部（FCDO）与美国国际开发署（USAID）— 长期掌控工作组核心议程设置权与资金导向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 > - **轮值多边合作方** 包括 [[UNICEF]]、[[UNESCO]] 等联合国系统机构，实行轮值席位机制，参与特定专题指南的联合审议。
-> - **技术专家与循证网络** 紧密链接阿卜杜勒·拉蒂夫·贾米尔贫困行动实验室（J-PAL）、创新贫困行动组织（IPA）等顶尖实证评估智库。
+> - **技术专家与循证网络** 紧密链接阿卜杜勒·拉蒂夫·贾米尔贫困行动实验室（J-PAL）、创新贫困行动组织（[[Interpretive Policy Analysis|IPA]]）等顶尖实证评估智库。
 
 > [!pathways] 业务运行机制
 > - **[[Evidence Standards\|证据标准]]设定** 制定《评估教育证据严谨性与相关性指南》，明确排除缺乏[[Causality\|因果推断]]设计的描述性或质性调研报告。

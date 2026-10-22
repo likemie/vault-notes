@@ -7,7 +7,7 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 66
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -48,12 +48,13 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Epistemic Governance]]"
   - "[[Fast and Slow Lanes Model]]"
+  - "[[Three Pathways of Research Utilization]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Policy Brokerage]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Knowledge Production]]"
   - "[[Policy Network]]"
   - "[[Cultural Validity]]"
-  - "[[Output-Oriented Governance]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Absorptive Capacity]]"
   - "[[Normal School]]"
@@ -65,6 +66,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Phronesis]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Policy Fellowships and Placements]]"
   - "[[Transfer Science]]"
   - "[[Research Translation]]"
   - "[[Knowledge Co-production]]"
@@ -78,7 +80,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Elite Interview]]"
   - "[[Survey Research]]"
-  - "[[Network Analysis]]"
+  - "[[Two-Mode Network Analysis]]"
   - "[[Comparative Case Study]]"
   - "[[Bibliometric Analysis]]"
   - "[[Systematic Review]]"
@@ -135,12 +137,13 @@ updated: 2026-10-23
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Research Utilization\|研究证据利用（Research Utilization）]]** | 阐明学术知识向公共决策转化的多元路径，涵盖工具性采纳、概念性启发与象征性辩护，确立证据使用在政策生命周期不同阶段的功能演变。 |
+> | **[[Three Pathways of Research Utilization\|研究证据利用三维路径]]** | 基于三代知识转化理论，系统确立产品型线性转化、关系型协同网络与系统型使能制度三大共存互补路径，指导跨国组织和国家部委的[[Output-Oriented Governance\|循证治理]]布局。 |
 > | **[[Surplus of Evidence\|证据过剩（Surplus of Evidence）]]** | 揭示海量数据爆炸并未自动消除政策盲区，反而加剧决策官员认知负荷与信息过载，导致策略性选秀与政学断裂。 |
 > | **[[Policy Brokerage\|政策中介与知识经纪（Policy Brokerage）]]** | 阐明在科学与政治两大子系统之间，中介机构对研究材料进行提炼、包装、认证与合法化代言的核心治理功能。 |
 > | **[[Two-Communities Theory\|两社区理论]] 与 [[Fast and Slow Lanes Model\|快慢车道模型]]** | 解释学术界（慢车道）与决策界（快车道）在激励机制、时间节奏、语言体系与价值取向上的结构性异质性。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具箱将[[Evidence-Based Policy-Making|循证决策]]从朴素的事实发现即政策执行幻想中剥离。[[Two-Communities Theory|两社区理论]]与[[Fast and Slow Lanes Model|快慢车道模型]]阐释了研究者与决策者天然的节奏冲突：政策制定者身处应对公众压力与紧急危机的快车道，而[[Knowledge Production|知识生产]]者处于深耕同行评审的慢车道，促使处于中间车道的[[Policy Brokerage|政策中介]]成为不可或缺的转译者。然而，正如[[Surplus of Evidence|证据过剩]]理论所揭示，中介机构制造的大量自上而下政策简报进一步加剧了信息超载，并未解决本土官员在规划与学校实施层面的实操困境。必须依托[[Research Utilization|研究利用]]的三维框架，将注意力从单向产品供给转向长期协同关系与制度化激励环境。
+> 理论工具箱将[[Evidence-Based Policy-Making|循证决策]]从朴素的事实发现即政策执行幻想中剥离。[[Two-Communities Theory|两社区理论]]与[[Fast and Slow Lanes Model|快慢车道模型]]阐释了研究者与决策者天然的节奏冲突：政策制定者身处应对公众压力与紧急危机的快车道，而[[Knowledge Production|知识生产]]者处于深耕同行评审的慢车道，促使处于中间车道的[[Policy Brokerage|政策中介]]成为不可或缺的转译者。然而，正如[[Surplus of Evidence|证据过剩]]理论所揭示，中介机构制造的大量自上而下政策简报进一步加剧了信息超载，并未解决本土官员在规划与学校实施层面的实操困境。必须依托[[Three Pathways of Research Utilization|研究证据利用三维路径]]框架，将注意力从单向产品供给转向长期协同关系与制度化激励环境。
 
 ---
 
@@ -149,7 +152,7 @@ updated: 2026-10-23
 > |---|---|
 > | **全球问卷调查**<br>[[Survey Research\|Survey Research]] | 采用多语种在线问卷调查，在联合国六种官方语言（阿拉伯语、中文、英语、法语、俄语、西班牙语）下收集 898 名全球受访者对现有证据平台使用习惯与 SDG 4 目标支撑度的评估（pp. 18–20）。 |
 > | **关键知情人访谈**<br>Semi-structured Interview | 组织 14 场专题会议对 33 位跨国教育政策决策者、国际组织官员（来自 [[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）、美国国际开发署（United States Agency for International Development, USAID））、区域网络负责人与基金会代表展开深度访谈（pp. 19–20）。 |
-> | **证据咨询二部网络分析**<br>[[Network Analysis\|Two-Mode Network Analysis]] | 提取问卷第三题（Q3）中受访者实际经常调阅的机构实体，构建“受访者—被查阅证据源”两模二部网络（Bipartite Affiliation Network），通过度中心度（Degree Centrality）、网络密度（Network Density）与连通分量分解（Component Analysis）测绘全球教育证据利用的拓扑结构（pp. 22–24, 60–61）。该网络刻画受访者的实际咨询行为，独立于第四章基于引文数据的共被引分析。 |
+> | **证据咨询二部网络分析**<br>[[Two-Mode Network Analysis\|Two-Mode Network Analysis]] | 提取问卷第三题（Q3）中受访者实际经常调阅的机构实体，构建“受访者—被查阅证据源”两模二部网络（Bipartite Affiliation Network），通过度中心度（Degree Centrality）、网络密度（Network Density）与连通分量分解（Component Analysis）测绘全球教育证据利用的拓扑结构（pp. 22–24, 60–61）。该网络刻画受访者的实际咨询行为，独立于第四章基于引文数据的共被引分析。 |
 > | **对照案例比较**<br>[[Comparative Case Study\|Comparative Case Study]] | 选取全球公共卫生领域作为对照部门，考察循证医学与卫生[[Policy Network\|政策网络]]在处理证据层级、跨国转化与多利益相关者协调中的长效治理经验（pp. 28–29）。 |
 > | **文献计量与共被引网络**<br>[[Bibliometric Analysis\|Bibliometric Analysis]] | 检索 Web of Science 数据库中关于教育（1,825篇）与公共卫生（1,660篇）政策证据利用的[[Systematic Review\|系统综述]]文献，测算年均复合增长率、高被引文献分布并绘制共被引拓扑网络（pp. 29–32, 64–65）。 |
 
@@ -368,7 +371,7 @@ updated: 2026-10-23
 > |---|---|---|
 > | 倡导长期、可预测的稳定资金支持，促进研究人员、决策者与受影响群体共同生产适切证据（p. 38）。 | 联合国教科文组织全球教育合作机制、研究与教育资助方、证据供需各方 | 全球合作机制明确三维投资使命，设立长期专属资金流（p. 38）。 |
 > | 搭建横向贯通与纵向连接的跨层级协调空间，全方位提升各层级证据生产与转化能力（p. 38）。 | 联合国教科文组织全球教育合作机制 | 在国家与区域层面组织专业培训、学术研讨与同行经验互鉴（p. 38）。 |
-> | 打破多数中介组织仅单向面对学者或官员的局限，打造深度融合的政学协作机制（p. 38）。 | 资助机构、高等院校、公共行政管理部门 | 设立区域教育政策研修员与轮岗实习制度，推行学者与官员配对方案（p. 38）。 |
+> | 打破多数中介组织仅单向面对学者或官员的局限，打造深度融合的政学协作机制（p. 38）。 | 资助机构、高等院校、公共行政管理部门 | 设立区域教育政策研修员与轮岗实习制度，推行学者与官员配对方案（[[Policy Fellowships and Placements\|Policy Fellowships and Placements]]）（p. 38）。 |
 > | 构筑制度化使能环境，对开展跨界合作的学者与决策者给予实质性评价激励（p. 38）。 | 资助机构、高等院校、公共行政管理部门 | 设立 SDG 4 政策影响力学术专项奖，资助跨国政策制定者进入全球顶尖大学驻访（p. 38）。 |
 > | 大力投资政策相关实证合成能力，在证据分发的同时紧密跟进关系网络与系统支持（p. 38）。 | 研究资助机构与慈善基金会 | 依托大学与研究机构联合组建 SDG 4 证据中心（Evidence for SDG4 Centres）（p. 38）。 |
 > | 敦促教育学者拓宽分析视野，深度融合公共政策理论与知识[[Transfer Science\|转化科学]]（p. 38）。 | 教育科学研究界 | 组建跨学科知识转化课题群，主动吸纳政治学与公共管理学实证框架（p. 38）。 |
@@ -385,7 +388,7 @@ updated: 2026-10-23
 ### 论证步骤三　推进政策循证必须同步抓实合作关系与制度激励，依托区域枢纽落地
 
 > [!claim] 步骤三核心主张
-> 解决双重脱节问题不能继续依靠自上而下单向发放政策简报，必须同时在成果适切性、政学互信关系以及法律与人事激励制度三个维度协同发力；并且应当充分信任并授权现有的成熟区域组织充当支撑枢纽，搭建自下而上反馈需求与自上而下输送资源的双向通道（pp. 39–50）。
+> 解决双重脱节问题不能继续依靠自上而下单向发放政策简报，必须同时在成果适切性、政学互信关系以及法律与人事激励制度三个维度协同发力（[[Three Pathways of Research Utilization|研究证据利用三维路径]]）；并且应当充分信任并授权现有的成熟区域组织充当支撑枢纽，搭建自下而上反馈需求与自上而下输送资源的双向通道（pp. 39–50）。
 
 #### 1. 单向印发简报难以推动改革，必须同步培育政学互信与制度约束
 
@@ -397,8 +400,8 @@ updated: 2026-10-23
 > | **产品型路径** | **5.1.1 [[Knowledge Co-production\|协同生产]]与分发适切成果** | 研制契合本土与未受充分服务目标的政策简报、事实清单与干预效果摘要；搭建在线开放数据库与交互平台；撰写学者博客与可视化政策图谱（p. 41）。 |
 > | | **5.1.2 建立正式机构证据咨询渠道** | 设立法定咨询委员会与常设听证程序；设立议会研究处及政府内部证据咨询服务机构，规范官方咨询机制（p. 41）。 |
 > | | **5.1.3 畅通学术成果获取途径** | 推行政府委托课题全流程科研支持；落实开放获取（Open Access）与科研信息公开，破除学术获取壁垒（p. 41）。 |
-> | **关系型路径** | **5.1.4 提升决策官员的循证技能** | 面向决策者开展证据评估研修班、政策研修驻访与沉浸式研习活动，培养政策官员对实证材料的甄别能力（p. 42）。 |
-> | | **5.1.5 强化科研人员的政策互动素养** | 设立政府借调交流岗、政策转译培训及支持政策参与的科研服务，提升学者对话决策者的敏锐度（p. 42）。 |
+> | **关系型路径** | **5.1.4 提升决策官员的循证技能** | 面向决策者开展证据评估研修班、[[Policy Fellowships and Placements\|政策研修驻访与沉浸式研习活动]]（Policy Fellowships or Placements），培养政策官员对实证材料的甄别能力（p. 42）。 |
+> | | **5.1.5 强化科研人员的政策互动素养** | 设立[[Policy Fellowships and Placements\|政府借调交流岗与学者驻政机制]]、政策转译培训及支持政策参与的科研服务，提升学者对话决策者的敏锐度（p. 42）。 |
 > | | **5.1.6 构筑持久政学伙伴关系** | 搭建长期[[Knowledge Exchange\|知识交流]]网络与学术官僚联合体；推动政府、民间组织、高校与基金会联合教学研讨，培育深度人际信任（p. 42）。 |
 > | **系统型路径** | **5.1.7 培育循证治理的制度领导力** | 开办证据领导力专项培训；面向各级行政与学术系统开展循证价值公共倡导，增强系统支持意愿（p. 42）。 |
 > | | **5.1.8 确立实质性奖惩与问责机制** | 确立正向激励（胡萝卜：期刊与资助方评奖、高校晋升承认政策咨询影响）；设定硬性约束（大棒：教育法案起草与财政预算审查设立实证前置门槛）（p. 42）。 |
