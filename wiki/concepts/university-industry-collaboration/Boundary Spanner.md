@@ -110,16 +110,17 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!def] Boundary Spanner
-> **边界跨越者（Boundary Spanner，亦称跨界中介者或[[Educational Brokerage Agency\|知识经纪]]人 Knowledge Broker）** 指在异质组织、专业社群或制度系统之间承担连接、沟通与协调职能的专业行动者或中介机构。他们具备理解不同系统语言、文化与运行逻辑的双重能力，致力于打破部门隔阂、降低交易成本、化解制度摩擦并培育多边信任。在[[University-Industry Collaboration\|产学合作]]中，边界跨越者负责在学术探索与商业应用之间架设桥梁（Jonsson et al., 2015; [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p. 54]]）；在基础教育[[Knowledge Mobilisation\|知识动员]]中承担学术成果与学校实践的双向转译（[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp. 127–131]]）；而在宏观公共政策与全球教育治理中，边界跨越者特指在科学研究界与政治决策界两社区之间致力于转移、转译与推介研究事实、将证据打包为政策方案的跨界中介机构与专业人员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> **边界跨越者（Boundary Spanner，亦称跨界中介者或[[Educational Brokerage Agency\|知识经纪]]人 Knowledge Broker）** 指在异质组织、专业社群或制度系统之间承担连接、沟通与协调职能的专业行动者或中介机构。他们具备理解不同系统语言、文化与运行逻辑的双重能力，致力于打破部门隔阂、降低交易成本、化解制度摩擦并培育多边信任。在[[University-Industry Collaboration\|产学合作]]中，边界跨越者负责在学术探索与商业应用之间架设桥梁（Jonsson et al., 2015; [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p. 54]]）；在基础教育[[Knowledge Mobilisation\|知识动员]]中承担学术成果与学校实践的双向转译（[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp. 127–131]]）；而在宏观公共政策与全球教育治理中，边界跨越者特指在科学研究界与政治决策界两社区之间致力于转移、转译与推介研究事实、将证据打包为政策方案的跨界中介机构与专业人员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 聚焦异质系统间认知鸿沟的弥合、利益诉求的对齐、合作流程的编排以及关系型社会资本的长期维系。
@@ -127,7 +128,7 @@ updated: 2026-10-22
 > - **边界限定** 边界跨越者指具有主观能动性的人类行动者、专业团队或专门中介组织；它不同于作为静态中介工具的[[Boundary Object\|边界对象]]（Boundary Object），也不同于纯粹提供流程指引的[[Concierge Service\|礼宾服务]]（Concierge Service）模式。
 
 > [!citation-card] 全球教育治理中的跨界中介者与公信力两难
-> 致力于在科学与政治两社区之间转移、转译或推送研究、真理与事实以沟通两界的个体或组织，被称为知识经纪人、中介机构或边界跨越者。在教育政策中，中介者深陷公信力两难：一方面，政府倾向于信赖深谙官僚机构内部运作以提供务实建议的内部专家；另一方面，最可信的专家却是独立于官僚体系之外的学者。鲜少有行动者能同时跨越两个空间，这促成了证据金字塔与特定国际组织权威的确立。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> 致力于在科学与政治两社区之间转移、转译或推送研究、真理与事实以沟通两界的个体或组织，被称为知识经纪人、中介机构或边界跨越者。在教育政策中，中介者深陷公信力两难：一方面，政府倾向于信赖深谙官僚机构内部运作以提供务实建议的内部专家；另一方面，最可信的专家却是独立于官僚体系之外的学者。鲜少有行动者能同时跨越两个空间，这促成了证据金字塔与特定国际组织权威的确立。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
 >
 > *The individuals or organisations dedicated to transferring, translating, or ‘pushing’ research, truth, or facts onto political decision-makers – that is, bridging the two communities – are called brokers, intermediaries, or boundary spanners... A dilemma complicates the issue. On the one hand, governments would like to rely on experts with insider knowledge who are sufficiently familiar with the [[Bureaucracy]] to provide valuable and realistic advice regarding complex matters. On the other hand, the most credible experts are independent experts, preferably academics working outside the bureaucracy (see Boswell 2017).*
 
