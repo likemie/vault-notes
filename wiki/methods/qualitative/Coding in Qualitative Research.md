@@ -104,7 +104,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 质性编码（Coding in Qualitative Research）
+> [!def] Coding in Qualitative Research
 > 质性编码（Coding）是将经验数据（访谈录音逐字稿、[[Qualitative Observation\|田野观察]]笔记、历史档案、政策公文、视听影像等多模态资料）系统拆解切片，并为表达相同意涵、指涉同一现象或体现特定属性的文本片段赋予概念化标签或范畴代码的分析规程（Kerlinger, 1970；Strauss & Corbin, 1990；Miles & Huberman, 1994；Gibbs, 2007；Flick, 2009；Rossman & Rallis, 2012；Creswell & Creswell, 2022）。编码不仅充当类似书籍索引系统的高效数据检索机制，支持海量材料的经济化[[Data Reduction\|数据缩减]]，更是构建概念数据网络、在经验事实与解释性理论之间架设桥梁的核心分析基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 559–560)]]
 
 > [!method-scope] 方法范围

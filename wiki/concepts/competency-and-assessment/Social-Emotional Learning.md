@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 社会情感学习（Social-Emotional Learning）
+> [!def] Social-Emotional Learning
 > 社会情感学习（Social-Emotional Learning，SEL）是个体在终身发展过程中，系统习得并协调应用自我意识、自我管理、社会意识、人际交往技能以及作出负责任决策所需的认知、情感、态度与行为素养的综合建构。在全球教育治理视阈下，SEL 已从早期的微观[[Counseling Effects|心理辅导]]转译为跨国多边组织开拓全新规制领域、争夺全球规范制定权与慈善资本的核心中介议题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 544)]]
 
 > [!concept-lens] 概念透镜

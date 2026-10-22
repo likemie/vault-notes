@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 机构审查委员会（Institutional Review Board）
+> [!def] Institutional Review Board
 > **机构审查委员会（Institutional Review Board, IRB）**，亦称机构伦理委员会或[[Research Ethics|研究伦理]]委员会，是设立在大学、科研院所、医疗中心及产业研发机构内部的专门伦理治理机构。其法定职能依据美国《联邦通用规范》（[[Common Rule 2018|Common Rule]]）及各国受试者保护法规，在实证研究开展数据收集之前，独立审查涉及人类受试者的研究方案、[[Informed Consent|知情同意]]文件及风险规避措施，确保研究符合伦理正当性（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, 第 4 章]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|Cohen et al., 2011, pp. 116–129]]）。在[[University-Industry Collaboration|产学合作]]与[[Clinical Trial|临床试验]]中，IRB 既是保障受试者福祉的伦理[[Gatekeepers|守门人]]，也是直接决定试验启动速度与合规成本的关键制度节点（[[Argument_Bang_2025_ClinicalTrials|Bang, 2025, pp. 206–211]]）。
 
 > [!concept-lens] 概念透镜

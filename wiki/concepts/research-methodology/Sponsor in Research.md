@@ -30,7 +30,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 研究担保人（Sponsor in Research）
+> [!def] Sponsor in Research
 > 研究担保人（sponsor）是研究群体内部提供准入、信息和支持的人物（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 207–208]]）。与[[Gatekeepers\|守门人]]不同——守门人通常在群体外部控制准入，而担保人是群体内部的成员，以自身的社会资本为研究者"担保"，帮助研究者融入群体并获得信任。
 
 > [!concept-lens] 概念透镜

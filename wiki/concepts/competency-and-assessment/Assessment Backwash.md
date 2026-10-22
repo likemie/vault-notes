@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 评估反拨（Assessment Backwash）
+> [!def] Assessment Backwash
 > 评估反拨（assessment backwash）指评估任务、评分规则、成绩权重和结果用途提前进入教学与学习决策，进而改变实际课程的机制。考试虽然位于课程末端，师生却会在课程进行中推断什么表现能够得分，并据此选择内容、活动和时间投入。课程目标与获分条件一致时，备考可以强化目标学习；两者错位时，容易计分的表现会逐渐取代课程原本重视的理解。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 68–69)]]；[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 50–57)]]
 
 > [!concept-lens] 概念的三个核心问题

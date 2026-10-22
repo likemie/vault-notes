@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 档案研究（Archival Research）
+> [!def] Archival Research
 > 档案研究（archival research）是在档案馆和记录办公室中，通过系统访问、筛查和分析以组织化格式存储的[[Primary and Secondary Documents\|原始文献]]来获取历史证据的研究方法。档案是有组织地积累的知识存储库，在许多意义上构成了现代社会的制度记忆。档案研究区别于一般的[[Documentary Analysis|文献研究]]，在于它涉及对未公开发表的、按文件编号组织的官方或机构记录的深度查阅，而非仅依靠已出版或数字化的材料（pp.14–17）。
 
 > [!method-scope] 方法范围

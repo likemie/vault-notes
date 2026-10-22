@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 建构性对齐（Constructive Alignment）
+> [!def] Constructive Alignment
 > 建构性对齐（Constructive Alignment）是 Biggs 提出的课程与评价系统设计原则。“建构性”指学习者通过主动开展认知与实践活动[[Constructed Knowledge\|建构知识]]意义；“对齐”指教育者围绕预期理解，在课程目标（Intended Learning Outcomes, ILOs）、教学／学习活动（[[Teaching and Learning Activities\|teaching/learning activities]], TLAs）与评估任务（Assessment Tasks, ATs）之间建立内在一致的建构性闭环。[[OECD]] 报告进一步将其拓展为涵盖宏观国家资格框架、中观专业全课程架构与微观课堂真实性考核的多层级对齐工程。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–66)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8)]]
 
 > [!concept-lens] 概念透镜

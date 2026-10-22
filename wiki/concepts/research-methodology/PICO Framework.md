@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 受试者-干预-对照-结局（PICO Framework）
+> [!def] PICO Framework
 > **PICO 框架（PICO Framework）** 是循证实践、系统评价与[[Meta-analysis|元分析]]中用于解构和规范实证[[Research Question|研究问题]]、制定[[Literature Search|文献检索]]与纳入排除标准的结构化[[Analytic Framework|分析框架]]。该框架由四个核心要素构成：研究对象或人群（Population / Participants, P）、干预措施或暴露因素（Intervention / Exposure, I）、对照条件或比较基线（Comparison / Control, C）以及结果或结局指标（Outcome, O）；在需要限定实证方法设计时，常扩展纳入研究设计（Study Design, S）演化为 **PICOS 框架**。PICO 框架的根本功能在于确立[[Causality|因果推断]]与定量合成的边界同质性，防止异质研究被错误汇聚。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
 
 > [!concept-lens] 概念透镜

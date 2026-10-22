@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 组合信度（Composite Reliability）
+> [!def] Composite Reliability
 > **组合[[Reliability\|信度]]（Composite Reliability, CR）（在结构方程模型中亦称[[Construct\|构念]]信度）** 是由 Werts, Linn & Jöreskog（1974）以及 Raykov（1997）系统发展的现代心理测量学指标。它基于[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）中各题项的标准化因子载荷与误差方差，精确计算由一组观测指标线性组合而成的潜[[Variable\|变量]]的[[Internal Consistency\|内部一致性]]信度。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–7)]]
 
 > [!method-scope] 方法范围

@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 去西方化（De-Westernisation）
+> [!def] De-Westernisation
 > 去西方化（De-Westernisation）是去殖民理论（尤其是 Mignolo 的权力殖民矩阵学说）中的核心概念。它指的是非西方新兴国家（以中国的崛起为典型代表）借助经济实力、技术自主与民族国家主权[[Discourse|话语]]，在国际秩序中挑战西方的[[Geopolitics|地缘政治]]霸权，力图从西方（如美国）手中夺取对世界秩序与发展主导权的政治空间运动。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 
 > [!concept-lens] 概念透镜

@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 计算思维（Computational Thinking）
+> [!def] Computational Thinking
 > 计算思维（Computational Thinking, CT）由周以真（Jeannette M. Wing, 2006）界定为运用计算机科学的基础概念进行问题求解、系统设计以及人类行为理解等一系列心智活动与认知过程。它不仅是计算机从业者的专业技能，更是一种面向全体学习者的通用素养与认知工具箱，核心涵盖**问题分解（Decomposition）**、**模式识别（Pattern Recognition）**、**抽象表征（Abstraction）** 与**算法设计（Algorithm Design）** 四大心智操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜

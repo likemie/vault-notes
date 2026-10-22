@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 内容分析（Content Analysis）
+> [!def] Content Analysis
 > 内容分析（Content Analysis）是通过严密的规则与程序对书面文本、口头[[Transcription in Qualitative Research\|转录]]、视听符号及各类传播材料进行系统拆解、范畴分类、编码统计与意义诠释的研究方法。克劳斯·克里彭多夫（Klaus Krippendorff）将其权威界定为“从文本（或其他有意义的材料）向其使用语境作出可重复且有效推论的研究技术”。菲利普·迈林（Philipp Mayring）进一步强调其本质是对书面材料内容进行严格检验、分析与验证的一套受规则主导的严密程序。内容分析深度融合了质性意义阐释与量化计数分析，核心推论任务涵盖向文本生成的前因、文本内部特征以及文本对受众的效应作出推导。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 563–564)]]
 
 > [!method-scope] 方法范围

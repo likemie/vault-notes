@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识权力（Knowledge Power）
+> [!def] Knowledge Power
 > 知识权力（Knowledge Power）指行动者通过动员科学技术知识与[[Tacit Knowledge|隐性知识]]，影响全球治理关系与制度语境，借由确立知识领导地位以提升国际[[Discourse|话语]]权与塑造国际秩序的能力。该概念由米切尔·杨（Mitchell Young）与宝琳·拉维内（Pauline Ravinet）在欧洲全球事务研究中正式界定，并在[[Geopolitics of Higher Education|高等教育地缘政治]]与[[Belt and Road Initiative|一带一路倡议]]（Belt and Road Initiative, BRI）国际化战略分析中得到深化。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1697)]]
 
 > [!concept-lens] 概念透镜

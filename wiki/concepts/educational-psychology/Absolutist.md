@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 绝对论者（Absolutist）
+> [!def] Absolutist
 > 绝对论者（Absolutist）是 Kuhn et al.（1991, 2000）界定的基础[[Epistemology\|认识论]]立场。该立场的个体尚未实现主客体的分化，他们将知识视为源于外部物理现实的、绝对客观的事实，认为在面对冲突观点时必然只有一个正确答案，并且相信专家或权威确切掌握着真理。在[[Generative Artificial Intelligence\|生成式人工智能]]学习环境中，该立场表现为将大语言模型（Large Language Model, LLM）视为无所不知的确定性答案机，全盘接收机器输出而缺乏审问与核验动机。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 104)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–363)]]
 
 > [!concept-lens] 概念透镜

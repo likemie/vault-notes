@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 参考社会（Reference Society）
+> [!def] Reference Society
 > 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或[[Discourse|话语]]合法化之理想典范的他国或地区社会。概念植根于施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受[[Geopolitics|地缘政治]]关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 540, 545)]]
 
 > [!concept-lens] 概念透镜

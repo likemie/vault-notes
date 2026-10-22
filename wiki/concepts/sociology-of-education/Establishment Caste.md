@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 统治集团种姓化（Establishment Caste）
+> [!def] Establishment Caste
 > 统治集团种姓化（Establishment Caste / Degeneration of Aristocracy into Caste）是由社会学家[[E. Digby Baltzell|E. 迪格比·巴尔策尔]]（E. Digby Baltzell）提出的政治社会学概念，指任何共和国赖以维系领导力的精英集团（Aristocracy of Talent），如果丧失了向全社会优秀人才开放的流通机制，就会不可避免地蜕变为以血缘、文凭、圈子或同质意识形态为壁垒的封闭“种姓”（Caste）；在这种状态下，集团成员将绝大部分精力用于守护职权附属的特权与利益，而非推进公共组织与国家的目标。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 78–79)]]
 
 > [!concept-lens] 概念透镜

@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 质性编码手册（Qualitative Codebook）
+> [!def] Qualitative Codebook
 > **[[Coding in Qualitative Research\|质性编码]]手册（Qualitative Codebook）** 是[[Qualitative Research\|质性研究]]与[[Content Analysis\|内容分析]]中用于系统记录、规范和组织编码规则的标准化参照工具。它不仅包含预设或[[Emergence\|涌现]]的编码标签（Code Label）清单，更通过[[Operationalization\|操作化]]定义、使用边界（何时使用与何时不使用）及典型经验引语样例，将抽象[[Construct\|构念]]转化为公开透明、可重复检验的分析规程（Guest et al., 2012；Mayring, 2004）。其核心目标在于消除主观编码歧义，在团队协作中最大化[[Qualitative Reliability\|质性信度]]并支撑纵深的[[Data Reduction\|数据缩减]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 211]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 563]]）。
 
 > [!concept-lens] 概念透镜

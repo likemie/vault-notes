@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 内部一致性（Internal Consistency）
+> [!def] Internal Consistency
 > 内部一致性（Internal Consistency）是[[Reliability|信度]]在量化测量中的核心形式，衡量多项目量表中各条目（items）在单次测验中指向同一底层[[Construct|构念]]的统计同质性程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al., 2011, Ch. 10, pp. 202–204]]）。
 
 > [!method-scope] 方法范围

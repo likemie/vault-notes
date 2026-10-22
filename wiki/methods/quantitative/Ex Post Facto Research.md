@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 事后回溯研究（Ex Post Facto Research）
+> [!def] Ex Post Facto Research
 > 事后回溯研究（ex POST facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的因果因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable\|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable\|自变量]]（IV），然后通过假设、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，[[Causality\|因果推断]]属于概率性因果关系的范畴（p.304）。
 
 > [!method-scope] 方法范围

@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 心理化（Psychologisation）
+> [!def] Psychologisation
 > 心理化（psychologisation）是一种威权治理策略。当社会性冲突或青年群体政治能动性诉求无法被吸纳到官方制度框架时，政权通过课内控制与课外引导，将结构性矛盾和政治不满重新定义、翻译和矮化为个体的心理调试不良与情绪健康问题，从而解构集体行动的正当性（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]]）。
 
 > [!concept-lens] 概念透镜

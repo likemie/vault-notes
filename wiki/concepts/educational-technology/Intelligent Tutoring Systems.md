@@ -91,7 +91,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-> [!def] 智能导师系统（Intelligent Tutoring Systems）
+> [!def] Intelligent Tutoring Systems
 > 智能导师系统（Intelligent Tutoring Systems, ITS）是指利用人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）技术模拟人类优秀教师一对一辅导行为的计算机教学系统。该系统通过对学习者的实时解题步骤与认知状态展开细致追踪，在无需人类教师即时干预的情况下，自适应地推演学习者的认知阻碍、动态调整教学策略并提供即时、逐级的矫正反馈与线索[[Scaffolding\|脚手架]]。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 6–7)]]
 
 > [!concept-lens] 概念透镜

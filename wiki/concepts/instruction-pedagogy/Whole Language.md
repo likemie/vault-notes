@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 全语言（Whole Language）
+> [!def] Whole Language
 > 全语言（Whole Language）是一种关于儿童语言习得与读写教学的教学哲学、[[Epistemology|认识论]]与教育运动。它主张语言学习必须在真实（authentic）、完整的交际语境中整体进行，教学重心在于儿童对意义的主动建构，坚决反对将读写能力机械拆解为脱离语境的孤立子技能序列（如无情境拼读规则、孤立字词表与填鸭式练习册）进行[[Rote Learning|死记硬背]]。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 143–144)]]
 
 > [!concept-lens] 概念透镜

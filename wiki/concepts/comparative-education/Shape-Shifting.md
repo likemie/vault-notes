@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 形变（Shape-Shifting）
+> [!def] Shape-Shifting
 > 形变（Shape-Shifting）是指教育制度、思想、政策或实践在跨越空间、[[Champ|场域]]结构或制度边界流动时，受制于本土权力拓扑、历史制度积淀与微观实践土壤而必然发生的深层结构重组与形态变异。其核心原理是“移动即变形”（As it moves, it morphs）——任何教育构件在跨空间转移时绝不可能保持物理原貌，而是在接受语境中经历一系列不可逆的转译、杂糅与质性偏离。([[Argument_Cowen_2009_CE|Cowen, 2009b, p. 315]])
 
 > [!concept-lens] 概念透镜

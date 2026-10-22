@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 测验生产（Test Production）
+> [!def] Test Production
 > 测验生产（Test Production）指跨国组织研制、建构与校验大规模国际学生评价工具的早期制度化过程，涵盖评价框架界定、技术团队招标、试题编写规程确立以及试测反馈等环节。它不仅是心理测量学意义上的技术设计，更是跨国组织在缺乏强制立法权的前提下，通过专业威权与行政网络塑造[[Global Educational Discourse|全球教育话语]]、固定核心能力内涵并向主权国家转移评价制度微观实践的政治治理过程。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 193–195)]]
 
 > [!concept-lens] 概念透镜

@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 关系性空间（Relational Space）
+> [!def] Relational Space
 > 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology\|本体论]][[Paradigm\|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络拓扑构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在跨国教育政策、批判[[Policy Network\|政策网络]]与社会-物质装配（[[Assemblage]]）视阈中，该范式不仅打破了传统“全球与地方”、“国家与国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b, p. 540]]）；更进一步指出，关系性空间不仅是主观人际互动，而且依赖于税法豁免法条、公司法人注册与证据量规等“耐用客体”（durable materials）的持续装配，从而在传统国家科层管辖之外构筑起具有排他性与支配性的异层治理拓扑。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522)]]
 
 > [!concept-lens] 概念透镜

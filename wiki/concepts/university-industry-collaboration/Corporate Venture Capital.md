@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 企业风险投资（Corporate Venture Capital）
+> [!def] Corporate Venture Capital
 > 企业风险投资（Corporate Venture Capital, CVC），指成熟企业通过内部设立或独立运作的投资基金对初创企业进行少数股权投资的协同创新机制。与单纯追求财务收益最大化的传统风险投资（Venture Capital, VC）不同，CVC 的核心特征在于投资决策中同时应用战略标准（Strategic Criteria）与财务标准（Financial Criteria）的双重底线：既考量被投初创企业能否为母公司带来前沿技术洞察、开拓新兴市场或强化主营业务护城河，又要求实现资本层面的[[Return on Investment|投资回报]]。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 145)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 232–233)]]
 
 > [!concept-lens] 概念透镜

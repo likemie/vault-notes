@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 意向性（Intentionality）
+> [!def] Intentionality
 > 意向性（Intentionality）发端于弗朗茨·布伦塔诺（Franz Brentano）与[[Edmund Husserl|埃德蒙德·胡塞尔]]（Edmund Husserl）的[[Phenomenology|现象学]]哲学，并由社会[[Ontology|本体论]]与批判心理学深化，指人类意识具有“总是指向某物（aboutness）”、主动寻求生命意义、赋予生活世界以价值表象并在主体间社会交往中建构自我的根本存在论特征。在教育哲学与[[Critical Pedagogy|批判教育学]]中，主体意向性断言学生与教师具有不可化约的个体生命史、主观能动性与价值关怀，学习活动的本质是主体在文化历史情境中对教育重要性与相关性的能动诠释与意义生成，有别于在外部环境刺激调控下被动做出行为修正的机械因果反应。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 13–15)]]
 
 > [!concept-lens] 概念透镜

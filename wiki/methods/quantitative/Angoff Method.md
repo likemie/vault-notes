@@ -37,7 +37,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 安戈夫方法（Angoff Method）
+> [!def] Angoff Method
 > Angoff 方法（Angoff, 1971）是一种[[Criterion-Referenced Test\|标准参照测验]]中确定切分分数（cut-off score）的程序。每位评判者独立估计"最低可接受水平者"（minimally acceptable persons）在每个二分计分项目上答对的**比例**，将所有项目的这些比例加总，即为该评判者认为的最低可接受分数。多位评判者的分数取均值（或其他汇总方式）作为最终的切分分数。
 
 > [!method-scope] 方法范围

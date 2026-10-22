@@ -77,7 +77,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 专家访谈（Expert Interview）
+> [!def] Expert Interview
 > **专家访谈法（Expert Interview，德语：Experteninterview）** 是一种在经验社会研究与政策分析中广泛应用的[[Qualitative Interview\|质性访谈]]方法。由德国知识社会学家米夏埃尔·莫伊瑟（Michael Meuser）与乌尔里克·纳格尔（Ulrike Nagel, 2003）系统奠基。该方法将受访者界定为在特定组织、科层机构或功能系统（如教育部、质保机构、[[School Inspection\|学校督导]]部门）中拥有专门职能特权、信息获取优势与实践操作责任的专家行动者，区别于呈现个体私人经历或心理状态的普通被试。专家访谈旨在获取受访者在实际履职过程中积累形成的内部制度知识、程序逻辑与决策情境，从而重构复杂社会系统与政策运作的深层机制。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 489–490)]]
 
 > [!method-scope] 方法范围

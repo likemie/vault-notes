@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 社会运营许可（Social License to Operate）
+> [!def] Social License to Operate
 > 社会运营许可（Social Licence to Operate, SLO），在高等教育治理与学术制度语境中，特指高等院校与科研机构在国家行政审批和法律章程所赋予的法定办学执照（Legal Charter）之外，由周边驻地社区、纳税人、产业界、政策决策者及广大社会公众基于对其[[Public Value|公共价值]]、伦理实践及社会贡献的认同，而自发赋予并持续维持的非正式、不成文的动态社会信任与道德合法性契约。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 102)]]
 
 > [!concept-lens] 概念透镜

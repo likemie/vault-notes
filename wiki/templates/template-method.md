@@ -20,7 +20,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-> [!def] 中文名（English Title）
+> [!def] English Title
 > 方法的核心定义、研究对象、适用问题、基本单位和典型输出，附 Argument citation。
 
 > [!method-scope] 方法范围

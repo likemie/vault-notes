@@ -127,7 +127,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 守门人（Gatekeepers）
+> [!def] Gatekeepers
 > **田野准入把关人（Research [[Fieldwork]] Gatekeepers）** 指在社会与教育[[Qualitative Research\|质性研究]]现场中，拥有正式行政管辖权或非正式权威、控制研究者进入田野场所（Access）及维持现场在场（Re-access）的关键权力节点（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 9, p. 199]]）。获得把关人的明确许可是研究者开展[[Fieldwork\|田野工作]]、进行[[Classroom Observation|课堂观察]]、查阅机构档案或访谈参与者的前置制度门槛；把关人有权批准、无条件拒绝或设置约束性准入条件，并直接引导田野工作者的观察视线乃至实施现场监督（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 205–208]]；Hammersley & Atkinson, 1983, p. 65）。
 
 > [!concept-lens] 概念透镜

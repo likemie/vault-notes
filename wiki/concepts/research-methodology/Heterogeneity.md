@@ -110,7 +110,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 异质性（Heterogeneity）
+> [!def] Heterogeneity
 > **异质性（Heterogeneity）** 指研究对象、样本特征、干预实施条件或研究结果之间超出随机[[Sampling Error|抽样误差]]预期的系统性变异与多样性。在[[Meta-analysis|元分析]]中，异质性特指各一级实证研究的[[Effect Size|效应量]]之间的真实离散程度，表明变异源于干预强度、人群特征或情境机制的实质差异（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 32]]）；在[[Mixed Methods Research|混合方法研究]]与[[Complexity Theory|复杂性理论]]视域下，异质性揭示了单一统计指标对多重视角与主观动因的遮蔽，强调教育现实充斥着[[Open-Mindedness|开放性]]、流动性与异质声音（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 23, 32]]）。
 
 > [!concept-lens] 概念透镜

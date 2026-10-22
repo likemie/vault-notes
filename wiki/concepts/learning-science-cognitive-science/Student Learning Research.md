@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学生学习研究（Student Learning Research）
+> [!def] Student Learning Research
 > 学生学习研究（student learning research）是以学生在学校和大学等正式教育情境中如何处理具体学习任务为对象的研究传统。它把分析重点从建立脱离情境的普遍学习理论，转向学生如何理解任务、选择学习活动并形成不同质量的学习结果，由此为教学改进提供更直接的理论资源。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 59–60)]]
 
 > [!concept-lens] 概念透镜

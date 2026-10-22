@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 参数测验与非参数测验（Parametric and Non-parametric Tests）
+> [!def] Parametric and Non-parametric Tests
 > 参数测验（parametric tests）是经过大规模代表性样本标准化、假设分数在总体中呈正态分布的测验，通常为商业出版测验，支持将子群体结果与全国总体比较。非参数测验（non-parametric tests）对总体分布不做或少做假设，针对特定具体人群（如一个班级、一个年级组）设计，通常由教师或研究者自编，是课堂教师的常规工具。
 
 > [!concept-lens] 概念透镜

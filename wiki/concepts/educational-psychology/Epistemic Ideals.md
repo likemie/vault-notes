@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论理想（Epistemic Ideals）
+> [!def] Epistemic Ideals
 > [[Epistemology\|认识论]]理想（Epistemic Ideals）是个体或共同体在评价科学模型、理论解释、论证方案以及证据本身等认识产出（epistemic products）时所秉持的规范性标准与质量评价准则。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 202)]]
 
 > [!concept-lens] 概念透镜

@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 虚拟世界（Virtual World）
+> [!def] Virtual World
 > 虚拟世界是基于计算机的模拟环境，参与者以[[Avatar\|化身]]的形式加入在线社区并彼此互动。虚拟世界通常是持续性的，即使用户离线，世界仍继续存在和发展，对个体用户可能产生后续影响。与纯[[Computer Simulation\|计算机模拟]]不同，虚拟世界中的参与者具有能动性，世界本身从参与者的互动中[[Emergence\|涌现]]，而非由预设的数学模型完全决定。这里关注的虚拟世界是由参与者创建、世界从参与者互动中涌现的类型，有时被称为合成世界（Castronova, 2005）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19]]）。
 
 > [!concept-lens] 概念透镜

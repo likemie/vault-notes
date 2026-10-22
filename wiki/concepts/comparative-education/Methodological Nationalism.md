@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法论民族主义（Methodological Nationalism）
+> [!def] Methodological Nationalism
 > **方法论民族主义（Methodological Nationalism）** 是指在社会科学和比较教育研究中，未经反思地将民族国家作为划分社会空间与分析现象的默认/天然边界，从而把所有变化都理解为国家与国家之间横向地理差异的[[Epistemology\|认识论]]预设（Wimmer & Glick Schiller, 2002; Dale, 2005; [[Argument_Beech_2009_CE\|Beech, 2009a]]；[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b]]）。这一信念预设了“国家即社会”，并将世界性现象视为由国家内部生成，系统性地遮蔽了全球系统的独立存在和跨国[[Space of Flows|流动空间]]。
 
 > [!concept-lens] 概念透镜

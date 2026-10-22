@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 软信念（Soft Belief）
+> [!def] Soft Belief
 > 软信念（Soft Belief）是政治哲学与技术[[Geopolitics|地缘政治学]]中的核心批判范畴，由[[Alexander Karp|亚历山大·卡普]]（Alexander C. Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas W. Zamiska）在《[[Technological Republic|技术共和国]]》（*The Technological Republic*, 2025）第二部（Part II: Soft Belief）中系统提出。该概念指当代西方精英阶层、大学管理层与科技界所盛行的一种无需承担任何个人或机构风险、流于公关话术、程序合规与道德表演的薄弱信念形态。
 >
 > 软信念的核心特征在于“脱离现实代价的道德廉价感”：持有者倾向于在毫无实质风险的议题上高调表态，但在面临真实的社会争议、法律惩罚或地缘防卫责任时迅速退缩至形式中立与程序避险。卡普与扎米斯卡指出，软信念在当代催生了[[Technological Agnosticism|技术不可知论]]与政治冷漠，成为削弱西方[[Hard Power|硬实力]]与制度自信的深层文化根源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–68)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–218)]]

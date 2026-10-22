@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 观察法（Observation Method）
+> [!def] Observation Method
 > 观察不止是看。它是系统地看、系统地记录人、事件、行为、环境、物品和常规（Marshall & Rossman, 1995; Simpson & Tuson, 2003, p. 2）。观察的独特优势在于研究者有机会从自然发生的社会情境中收集鲜活数据，直接看现场发生的事，而非依赖二手陈述。这种以即时意识或直接认知作为主要研究方式的进路，有可能产生比间接或推断方法更有效、更真实的数据（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。观察法在教育研究中处于基础、核心的地位——运用观察法对研究对象的言语、行为等外显表现进行描述和记录，形成观察数据，再运用各种分析方法解释现象或获得较深入的理解（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.3）。
 
 > [!method-scope] 方法范围

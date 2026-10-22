@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教师流动（Teacher Mobility）
+> [!def] Teacher Mobility
 > 教师流动（Teacher Mobility）是指专任教师在不同学校、学区、地域乃至国家教育行政管辖范围之间的空间位移与任教岗位转换行为。在比较教育与教师政策研究中，该概念折射出深层的制度建构与[[Discourse|话语]]分歧：在欧洲一体化语境下，教师跨国跨校流动被视为消除边境阻隔、强化欧洲教育维度与促进专业素养生长的理想政策诉求（Policy Desideratum）；而在美国基础教育语境下，教师流动则多通过师资流失（[[Attrition]]）与教育公平视角被问题化，聚焦于高资质骨干教师由于待遇、安全与考评压力逃离城市薄弱与高比例少数族裔学校，进而加剧校际资源分化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 > [!concept-lens] 概念透镜

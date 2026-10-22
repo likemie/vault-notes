@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 研究-政策鸿沟（Research-Policy Gap）
+> [!def] Research-Policy Gap
 > 研究-政策鸿沟（Research-Policy Gap），又称研究与政策的鸿沟（research-policy divide），指教育与公共政策领域中，科学学术研究的生产与政府官方政策制定之间的结构性脱节与系统性失调。它不仅表现为决策官员在政策制定中对高质量实证研究证据的低吸收与有限利用，更深层地植根于学术界与政治官僚系统在时间节律、制度激励、[[Epistemology\|认识论]][[Paradigm\|范式]]与核心关切上的根本差异。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 103–106)]]
 
 > [!concept-lens] 概念透镜

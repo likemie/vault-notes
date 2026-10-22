@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 经济基要主义（Economic Fundamentalism）
+> [!def] Economic Fundamentalism
 > **经济基要主义（Economic Fundamentalism）** 由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思内核。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
 > [!concept-lens] 概念透镜

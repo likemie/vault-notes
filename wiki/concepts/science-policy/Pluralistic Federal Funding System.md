@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 多元联邦资助体系（Pluralistic Federal Funding System）
+> [!def] Pluralistic Federal Funding System
 > 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科纯基础研究的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 AEC、国立卫生研究院 [[National Institutes of Health|NIH]]、[[National Aeronautics and Space Administration|国家航空航天局]] NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 > [!concept-lens] 概念透镜

@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 政策歧义性（Policy Ambiguity）
+> [!def] Policy Ambiguity
 > **政策歧义性（Policy Ambiguity）** 是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量[[Surplus of Evidence\|证据过剩]]的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的[[Evidence-Based Policy-Making|循证决策]]，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑[[Discourse|话语]][[Scaffolding\|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜

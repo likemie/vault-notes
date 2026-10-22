@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 中国例外论（Chinese Exceptionalism）
+> [!def] Chinese Exceptionalism
 > 中国例外论指一种主张中国在历史传统、文明形态、现代化道路与全球秩序构想上自具独特性且不适用西方普世发展[[Paradigm|范式]]的政治与学术构想。当代研究将其阐释为兼具大国卓越追求与道德善意展示的复合心智，在跨国高等教育与公共外交中表现为融合传统[[Tianxia Heuristic|天下观]]念与现代科学技术、发展经验的[[Pragmatic Paradigm|实用主义]]形态。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044, 1051)]]
 
 > [!concept-lens] 概念透镜

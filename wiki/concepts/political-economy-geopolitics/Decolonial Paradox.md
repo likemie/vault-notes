@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 去殖民悖论（Decolonial Paradox）
+> [!def] Decolonial Paradox
 > 去殖民化思维的悖论（Decolonial Paradox / Decolonial Thinking Paradox）是由比较教育学者爱德华·维克（Edward Vickers）基于哲学家奥卢费米·泰沃（Olúfẹ́mi Táíwò）的学说提炼而成的批判性概念。它指的是在非西方威权国家（如中国）与地方社会（如香港）的冲突中，西方去殖民主义（decoloniality）学者仅因法治、基本人权和特区独立宪制地位等制度起源于西方殖民历史，便否定其正当性，在客观上剥夺了本土居民（native agency）选择和保留这些保护性制度的自决权，从而沦为威权统治者行使主权决断与强力整肃的理论共犯（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp. 154–155]]）。
 
 > [!concept-lens] 概念透镜

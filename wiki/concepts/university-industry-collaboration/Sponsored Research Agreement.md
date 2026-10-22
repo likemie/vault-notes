@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 赞助研究协议（Sponsored Research Agreement）
+> [!def] Sponsored Research Agreement
 > 赞助研究协议（Sponsored Research Agreement, SRA）是[[University-Industry Collaboration|产学合作]]中最为普遍且定制化程度最高的法定合同形式。企业通过从内部研发或战略预算中向大学划拨专款，资助特定教授或科研团队就明确的科研任务开展为期数月至数年的系统研究。其核心法律机制在于平衡大学的学术探索自由、成果发表权利与资助企业的商业竞争权益，标准范本通常明确约定项目工作范围、预算核算、[[Foreground IP|前景知识产权]]（FIP）归属、[[Background IP|背景知识产权]]（BIP）使用权、商业许可选择权以及学术成果发表前的限期评阅机制。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 275, 281–284)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 230–231)]]
 
 > [!concept-lens] 概念透镜

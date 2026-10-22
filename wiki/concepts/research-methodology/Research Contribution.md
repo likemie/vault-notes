@@ -34,7 +34,7 @@ created: 2026-06-20
 updated: 2026-10-22
 ---
 
-> [!def] 研究贡献（Research Contribution）
+> [!def] Research Contribution
 > 研究贡献（research contribution）指一项研究对已有知识体系的推进程度，涵盖概念、理论、实质和方法论四个维度。研究贡献不同于研究原创性（originality）：原创数据是[[Necessary and Sufficient Conditions\|必要条件]]，但仅凭原创数据不足以构成贡献——研究必须能推动领域前进，以至于没有这项研究，该领域将更加贫乏（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
 
 > [!concept-lens] 概念透镜

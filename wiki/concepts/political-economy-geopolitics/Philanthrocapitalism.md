@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 慈善资本主义（Philanthrocapitalism）
+> [!def] Philanthrocapitalism
 > 慈善资本主义（Philanthrocapitalism）是21世纪初兴起的一种将商业资本运行逻辑、市场化纪律与企业家精神全面植入公共事业与社会治理的宏观制度[[Paradigm\|范式]]与意识形态（Bishop & Green, 2008）。该范式主张资本主义能够“天然具有慈善属性”，通过引入风险投资、量化绩效考核与社会[[Return on Investment\|投资回报]]率评估，将社会问题转化为可投资与创新的试验场；在公共教育领域，慈善资本主义从根本上改变了国家财政再分配的传统形态与[[Policy Mobility\|政策流动]]机制，使国家公共资源通过税收减免、特许拨款和外包合同大幅流向非民选的私营中介机构与顾问网络（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 518, 521–522]]）。
 
 > [!concept-lens] 概念透镜

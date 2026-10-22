@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 君子（Junzi）
+> [!def] Junzi
 > **君子（Junzi）** 在儒家传统中是指仅次于[[Sage|圣人]]的理想人格，代表那些终身致力于追求仁并在[[Self-Cultivation|修身]]历程中取得显著成就的典范人物（exemplary person）。在文化心理学视阈下，君子能以优雅、尊严与美感自如履行多重社会角色，并自发关怀他人；在现代政治哲学与国家治理视阈下，君子被[[Lee Kuan Yew|李光耀]]与卡普等学者阐述为维系社会团结、抵御[[Geopolitics|地缘政治]]脆弱性的实质性道德锚点（孝子、忠夫、慈父、益友、尽责公民），构成了超越[[John Rawls|约翰·罗尔斯]]（John Rawls）空洞形式程序中立的文化信念基石。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–42)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 215–216)]]
 
 > [!concept-lens] 概念透镜

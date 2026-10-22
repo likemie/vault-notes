@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 群智能（Swarm Intelligence）
+> [!def] Swarm Intelligence
 > **群体智能（Swarm Intelligence）** 是指由大规模去中心化的异质或同质个体通过局部信息交换与间接协同，在整体层面自发[[Emergence|涌现]]出超越单个个体认知容量的复杂决策、环境自适应与协同行动能力的自组织[[Paradigm|范式]]。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的工程文化论证中，群体智能超越了传统生物学范畴，被提炼为对抗大型科层官僚僵化、实现高敏捷复杂系统开发的组织哲学：成功的工程团队应当如[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）观测的蜜蜂蜂群与[[Giorgio Parisi|乔治·帕里西]]（[[Giorgio Parisi]]）观测的椋鸟群一般，将决策权充分赋予处于外部环境边缘的侦察者与实干者，实现无中心中介指令的即兴协同与动态共识构建。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 119–121)]]
 
 > [!concept-lens] 概念透镜

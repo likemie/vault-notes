@@ -137,7 +137,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 质性研究（Qualitative Research）
+> [!def] Qualitative Research
 > 质性研究（Qualitative Research）是一种以[[Interpretive Paradigm\|诠释范式]]与[[Constructivist Paradigm\|社会建构主义]]为[[Epistemology\|认识论]]根基，旨在探索和理解个体或群体赋予社会与人类问题之主观意义的探究路径（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 17]]）。研究过程在参与者身处的自然情境中展开，依托[[Researcher as Key Instrument\|研究者作为关键工具]]收集多重质性材料，遵循自下而上的归纳式与迭代式分析程序生成范畴与主题，并通过[[Rich and Thick Description\|深描]]展现情境复杂性。书面报告结构灵活生动，强调展现多元主体视角与研究者的[[Reflexivity\|反身性]]立场。
 >
 > 在方法分类谱系中，质性研究属于不操纵自[[Variable\|变量]]的[[Non-intervention Research\|非干预研究]]，依靠访谈文本、现场观察、历史档案与视听图像等质性材料开展探究，与基于量化观测的观察/[[Correlational Research\|相关性研究]]及受控实验设计形成根本性分野（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。

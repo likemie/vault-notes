@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 自由教育（Liberal Education）
+> [!def] Liberal Education
 > 自由教育（Liberal Education，亦常译为博雅教育或文雅教育）源自古希腊罗马“自由艺术（*artes liberales*）”并在 19 世纪英国维多利亚时代被阐发为一套成熟的精英教育与课程哲学。以纽曼（John Henry Newman）、1864 年克拉伦登委员会（Clarendon Commission）报告以及[[Matthew Arnold\|马修·阿诺德]]（Matthew Arnold, 1869）为代表，自由教育坚信：追求自由与真理的智识探究本身即为其目的（knowledge as its own end），教育不应屈从于狭隘的职业技能操练或短期商业功利；通过古典语言、古希腊罗马历史、文学与哲学逻辑的纯粹磨砺，配合公学与古老大学的寄宿社团生活，全面塑造具有优雅风度、批判洞察力、高尚道德自律以及深厚公共服务担当的“绅士（[[Junzi\|gentleman]]）”统治阶层。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 38–39)]]
 
 > [!concept-lens] 概念透镜

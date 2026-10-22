@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 企业中央研发实验室（Corporate R&D Labs）
+> [!def] Corporate R&D Labs
 > **企业中央研发实验室（Corporate Central R&D Labs）** 是指 20 世纪早中期由大型工业垄断或寡头企业建立的内部独立科研组织。其核心特征是在单一企业建制内涵盖从基础科学发现、底层制造工艺到终端商业产品开发的全链条科研活动，其基础研究的学术水准与学科宽度足以与顶尖[[Research Universities|研究型大学]]匹敌，并在长周期电信、微电子、计算与化学工业中奠定了现代技术基础设施。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 35–37)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 126–128)]]
 
 > [!concept-lens] 概念透镜

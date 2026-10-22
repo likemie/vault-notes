@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 参与式学术（Engaged Scholarship）
+> [!def] Engaged Scholarship
 > **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）** 指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并转译应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也不在于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
 
 > [!concept-lens] 概念透镜

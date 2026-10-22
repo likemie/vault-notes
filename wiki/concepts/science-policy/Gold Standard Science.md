@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 黄金标准科学（Gold Standard Science）
+> [!def] Gold Standard Science
 > **黄金标准科学（Gold Standard Science / Machine-Verifiable Gold Standard Research）** 是现代[[Metascience|元科学]]、人工智能哲学与科技治理体系中的核心[[Epistemology|认识论]]与质量规制标准。该标准针对既有学术出版中普遍存在的[[Reproducibility Crisis|可重复性危机]]，以及生成式 AI 时代低成本论文与算法模型指数级爆发所引发的虚假知识泛滥而提出。黄金标准科学确立了四大不可妥协的硬性准则：**原始数据全量机器可读开源**、**分析代码在隔离沙盒中全自动一键复现**、**数学理论的形式化机器定理证明（Formal Verification）**，以及**强制性阴性/[[Falsification|证伪]]结果公开**。其核心主张在于：在算力大幅压低假说生成成本的同时，国家科研体系必须同步等规模扩建机器核验基础设施，确立“未经机器独立复现者不构成科学事实”的新[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–67)]]
 
 > [!concept-lens] 概念透镜

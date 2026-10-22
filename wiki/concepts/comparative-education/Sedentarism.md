@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 定居主义（Sedentarism）
+> [!def] Sedentarism
 > 定居主义（Sedentarism，亦称定居中心主义）是指现代社会科学、民族国家建构与公共政策中普遍存在的一种隐性[[Epistemology|认识论假设]]与治理意识形态。它将固定地域内的定居、扎根与空间稳定性预设为人类文明、社会秩序与理性主体的自然基准（Normative Baseline）；反之，将空间位移、游牧迁徙、中途转学或大篷车漫游等流动状态视作无根、不守秩序、病态或缺乏教化的偏离行为。在现代教育体系中，定居主义直接形塑了学校作为空间围栏的组织形式，并为国家推行强制定居同化与流动人口排斥提供了道德与制度正当性。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–364)]]
 
 > [!concept-lens] 概念透镜

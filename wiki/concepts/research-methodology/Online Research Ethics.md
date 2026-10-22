@@ -32,7 +32,7 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-> [!def] 电子研究伦理（Online Research Ethics）
+> [!def] Online Research Ethics
 > 在线[[Research Ethics\|研究伦理]]指利用互联网和数字通信技术（电子邮件、聊天室、在线社区、社交媒体等）收集研究数据时特有的伦理原则和操作考量。由于线上环境缺乏面对面研究中的物理在场和身份确定性，传统的伦理概念（如[[Informed Consent\|知情同意]]、隐私、保密）需要重新审视和调整（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 105–108]]）。
 
 > [!concept-lens] 概念透镜

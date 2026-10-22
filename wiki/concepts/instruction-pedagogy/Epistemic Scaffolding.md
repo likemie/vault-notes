@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论支架（Epistemic Scaffolding）
+> [!def] Epistemic Scaffolding
 > [[Epistemic Scaffolding\|认识论支架]]（Epistemic [[Scaffolding]]，亦作认识性支架）指在教学与探究环境中，**通过使学科底层的[[Epistemology\|认识论]]结构、评价准则与[[Justificatory Standards\|辩护标准]]显性化，引导学习者如何评估知识、检验论据、协调认知冲突并参与学科规范实践的教学支持机制**。区别于仅提供操作步骤的程序性支架或提供领域事实的概念性支架，认识论支架聚焦于“知识何以确证”以及“如何像科学家一样思考与评价”。[[Argument_Han_Gutierez_2026_IJSE\|(Lin & Puntambekar, 2019; Han & Gutierez, 2026, pp. 4–6)]]
 
 > [!concept-lens] 概念透镜

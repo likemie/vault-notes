@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国际资格承认（International Qualification Recognition）
+> [!def] International Qualification Recognition
 > 国际资格承认（international qualification recognition）是一个教育资格跨越原发机构或国家边界后，被大学、政府、专业机构或用人制度接受为入学、参加选拔、分班、课程豁免或任职依据的过程。承认不是证书自身固定携带的属性，而是由接受主体针对特定用途、申请人类别、学校来源和时间范围作出的制度判断。[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）六年试验显示，同一文凭可以在一个国家作为中学离校资格、在另一体系用于大学直接入学、在美国主要用于分班或免修，却仍不满足法国公共任职对国家会考的要求。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–78)]]
 
 > [!concept-lens] 概念透镜

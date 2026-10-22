@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 民族国家作为比较单位（The Nation-State as the Unit of Comparison）
+> [!def] The Nation-State as the Unit of Comparison
 > **民族国家作为比较单位（The Nation-State as the Unit of Comparison）** 是指跨国比较教育研究中将拥有法定主权管辖权、明确[[Geopolitics|地缘政治]]疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 47–48)]]
 
 > [!concept-lens] 概念透镜

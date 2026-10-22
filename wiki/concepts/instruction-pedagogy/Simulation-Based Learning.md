@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 模拟教学法（Simulation-Based Learning）
+> [!def] Simulation-Based Learning
 > 模拟教学法（[[Computer Simulation\|simulation]]-Based Learning，亦称基于模拟的学习）是一种将学习者置身于高保真度（High-Fidelity）物理、虚拟或社会交互环境中的[[Authentic Instruction\|真实性教学]]策略。学习者在模拟真实世界复杂系统（如医学临床抢救、飞行控制、生态系统调节、管理沙盘）的过程中，自主操纵[[Variable\|变量]]、应对动态突发事件并承受决策后果，通过即时反馈与深入的“事后复盘”（Debriefing），将[[Theoretical Knowledge\|理论知识]]转化为[[Phronesis\|实践智慧]]与[[Critical Thinking\|批判性思维]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 287)]]
 
 > [!concept-lens] 概念透镜

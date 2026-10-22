@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 文献综述（Literature Review）
+> [!def] Literature Review
 > **文献综述（Literature Review）** 是对特定[[Research Topic|研究主题]]已有学术成果开展系统检索、批判性评估与综合建构的论证性写作规程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 25]]）。它向读者全面呈现与研究问题密切相关的既有知识图谱，将拟开展的探究深度置于更广阔的学术对话脉络之中；通过诊断已有文献的知识空白、方法瓶颈与学术争议，为明确后续[[Research Question|研究问题]]、选择合适方法与构建理论框架确立合法性基础与论证跳板（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch. 6, p. 112]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1, p. 18]]）。
 
 > [!concept-lens] 概念透镜

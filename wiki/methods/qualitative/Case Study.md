@@ -122,7 +122,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 个案研究（Case Study）
+> [!def] Case Study
 > 个案研究（Case Study）是一种在真实自然情境中对受时空限定的系统（bounded system）展开全面、深入考察的[[Qualitative Research|质性研究]]设计（Stake, 1995; Yin, 2009, 2014）。案例可以是个体、群体、组织、项目、事件或决策过程。研究者依托多元资料来源，通过[[Process Tracing|过程追踪]]与机制分析揭示现象本身的复杂性或检验宏观理论问题。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 1, Ch. 9)]]; [[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 6)]]
 
 > [!method-scope] 方法范围

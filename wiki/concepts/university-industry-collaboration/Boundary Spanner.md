@@ -118,7 +118,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 边界跨越者（Boundary Spanner）
+> [!def] Boundary Spanner
 > **边界跨越者（Boundary Spanner，亦称跨界中介者或[[Educational Brokerage Agency\|知识经纪]]人 Knowledge Broker）** 指在异质组织、专业社群或制度系统之间承担连接、沟通与协调职能的专业行动者或中介机构。他们具备理解不同系统语言、文化与运行逻辑的双重能力，致力于打破部门隔阂、降低交易成本、化解制度摩擦并培育多边信任。在[[University-Industry Collaboration\|产学合作]]中，边界跨越者负责在学术探索与商业应用之间架设桥梁（Jonsson et al., 2015; [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p. 54]]）；在基础教育[[Knowledge Mobilisation\|知识动员]]中承担学术成果与学校实践的双向转译（[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp. 127–131]]）；而在宏观公共政策与全球教育治理中，边界跨越者特指在科学研究界与政治决策界两社区之间致力于转移、转译与推介研究事实、将证据打包为政策方案的跨界中介机构与专业人员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜

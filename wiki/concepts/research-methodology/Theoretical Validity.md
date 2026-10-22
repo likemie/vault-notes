@@ -34,7 +34,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理论效度（Theoretical Validity）
+> [!def] Theoretical Validity
 > 理论效度（Theoretical validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity\|质性效度]]类型中的第三种，关注研究者带入研究的**理论建构**（包括被研究者的理论建构）能在多大程度上**解释**所研究的现象。理论在此被视为**解释**——理论效度是研究"解释现象的程度"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
 
 > [!concept-lens] 概念透镜

@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育科学传播（Educational Science Communication）
+> [!def] Educational Science Communication
 > 教育科学传播（Educational Science Communication / 德语：Wissenschaftskommunikation in der Bildungsforschung）是指将教育科学与实证教育研究的发现、理论、模型与方法，面向教育实践者（职前与在岗教师、教师教育者、学校管理者）、教育行政决策层以及社会公众进行系统阐释、通俗转译与双向互动的专门科学传播形态。其核心目标是超越将教师预设为被动接收者的自上而下单向线性[[Knowledge Transfer\|知识转移]]模式，构建多媒介、非线性、递归且受众适配的专业对话生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–254)]]
 
 > [!concept-lens] 概念透镜

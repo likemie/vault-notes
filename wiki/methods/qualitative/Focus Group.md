@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 焦点小组（Focus Group）
+> [!def] Focus Group
 > 焦点小组（Focus Group）是一种[[Group Interview\|群体访谈]]形式，但不是访谈者和群体之间来回问答意义上的——而是依赖小组内部围绕研究者提供的话题展开互动和讨论，产出**集体而非个体**观点（Morgan, 1988, p. 9）。参与者相互交流而非与访谈者交流，因此参与者的议程而非研究者的议程可以占主导。数据从群体的互动中[[Emergence\|涌现]]。焦点小组是有意安排的情境，将特定选择的、通常之前互不相识的人群聚集在一起讨论特定主题或话题（Hydén & Büllow, 2003），群体的互动导致数据和结果（Smithson, 2000）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 464–467]]）。
 
 > [!method-scope] 方法范围

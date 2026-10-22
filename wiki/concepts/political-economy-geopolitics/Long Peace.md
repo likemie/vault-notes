@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 长和平（Long Peace）
+> [!def] Long Peace
 > **长和平（Long Peace / 冷战长和平）** 是著名冷战史学家[[John Lewis Gaddis|约翰·刘易斯·加迪斯]]（John Lewis Gaddis）于 1987 年提出的国际关系核心概念，指自 1945 年第二次世界大战结束以来，世界主要大国之间长达近一个世纪未曾爆发直接全面军事冲突的稳定历史时期。加迪斯指出，这段相对稳定的时期构成了近代世界史上大国关系持续最久的和平纪录。认知科学家[[Steven Pinker|斯蒂芬·平克]]（Steven Pinker）实证证实二战后全球战阵死亡率呈历史性大幅退潮。卡普与扎米斯卡（2025）深刻指出，长和平的维系绝非依赖于道德承诺或市场一体化，而是建立在原子弹恐怖破坏力与美国绝对军事优势所铸就的战略威慑之上；一旦这种威慑被和平自满所侵蚀，战后安全秩序将迅速崩塌。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Pinker, 2011; Karp & Zamiska, 2025, pp. 39–41)]]
 
 > [!concept-lens] 概念透镜

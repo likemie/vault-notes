@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 实效性框架（Efficacy Framework）
+> [!def] Efficacy Framework
 > **实效性框架（Efficacy Framework）** 指跨国教育公司对自身研发与销售的教育产品（包括教材、自适应软件、测验工具与教师研训方案）建立的内部因果影响审计与认证机制，要求所有商业产品必须出具提升学生学习成效（Learning Outcomes）的可测量实证依据。该框架于 2013 年由培生集团（Pearson plc）在首席教育顾问[[Michael Barber|迈克尔·巴伯]]爵士（Sir [[Michael Barber]]）主导下创设，在政策社会学中被界定为跨国资本将循证理念工具化、垄断公共教育采购标准并构建排他性准入门槛的[[Discourse|话语]]治理工具。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 77–81)]]
 
 > [!concept-lens] 概念透镜

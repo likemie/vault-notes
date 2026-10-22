@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 多机构就读（Multiple Institution Attendance）
+> [!def] Multiple Institution Attendance
 > **多机构就读（Multiple Institution Attendance）** 在美国高等教育研究与政策[[Discourse|话语]]中，特指大学生在攻读学士学位期间跨越两所或两所以上高等院校（如两年制社区学院与四年制[[Research Universities|研究型大学]]、跨州公立/私立大学）修读课程、累加学分或实施转学的就读形态。在美国高等教育问责与系统效率话语中，多机构就读常被问题化（problematized）为引发学分折损、延长求学年限并拉低学位完备率（Degree Completion）的“系统效率损耗因子”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 > [!concept-lens] 概念透镜

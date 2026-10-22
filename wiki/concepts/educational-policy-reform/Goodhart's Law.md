@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 古德哈特定律（Goodhart's Law）
+> [!def] Goodhart's Law
 > **古德哈特定律（Goodhart's Law）** 是治理科学、文献计量学与教育[[Sociology of Valuation and Evaluation|评估社会学]]中的核心经验定律。其经典表述为：**“当一个量化测度被选定作为政策控制与利益分配的目标时，该测度就会立即失去其原有的有效信息价值。”** 在科研资助、大学治理与教育政策中，该定律揭示了当论文发表篇数（Paper Counts）、期刊影响因子（Impact Factor）、大学排名位次或标准化测验均分等可量化代理指标被绑定于教职晋升、经费拨款与学校考核时，行动者必然展开策略性博弈与指标刷量（Metric Gaming），最终导致指标数值虚高而实质性原始创新与深层教育质量遭受系统性侵蚀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜

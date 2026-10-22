@@ -28,7 +28,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-> [!def] 顺应性评估（Conformative Evaluation）
+> [!def] Conformative Evaluation
 > 顺应性评估（conformative evaluation）是 Stronach and Morris（1994）提出的概念，描述在高度政治化的委托评估环境中，评估日益倾向于顺应和确认委托方议程的异化形态——评估不再是独立判断，而是成为对项目目标的确认性支持。
 
 > [!concept-lens] 概念透镜

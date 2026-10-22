@@ -35,7 +35,7 @@ created: 2026-07-20
 updated: 2026-10-22
 ---
 
-> [!def] 封面信（Covering Letter）
+> [!def] Covering Letter
 > 封面信是伴随[[Questionnaire\|问卷]]寄送的说明信件，其目的是说明[[Research Purpose\|研究目的]]、传达研究重要性、保证保密性并鼓励受访者回复。封面信是邮寄问卷调查中影响回应率的关键因素之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 170–173]]）。
 
 > [!concept-lens] 概念透镜

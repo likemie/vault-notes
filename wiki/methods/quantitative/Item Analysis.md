@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 题目分析（Item Analysis）
+> [!def] Item Analysis
 > 题目分析（item analysis）是在测验编制和[[Pilot Testing\|预测试]]阶段对每个测验题目进行的统计分析，目的是确保：（1）题目如预期般运作（[[Criterion-Referenced Test\|标准参照]]题目合理覆盖领域和标准，常模参照题目展示区分度）；（2）题目难度适当；（3）测验可靠（排除不必要的干扰信息和无关线索）（Gronlund & Linn, 1990; Millman & Greene, 1993）。题目分析的理论基础是[[Item Response Theory\|项目反应理论]]（IRT）。
 
 > [!concept-lens] 概念透镜

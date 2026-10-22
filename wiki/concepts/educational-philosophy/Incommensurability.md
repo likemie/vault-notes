@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 不可通约性（Incommensurability）
+> [!def] Incommensurability
 > 不可[[Commensuration\|通约]]性（Incommensurability）是[[Thomas Kuhn\|托马斯·库恩]]（[[Thomas Kuhn]]）[[Paradigm\|范式]]转换理论的核心[[Epistemology\|认识论]][[Construct\|构念]]，指不同[[Scientific Paradigm\|科学范式]]之间不存在中立、公认且跨范式有效的共同原则、评价标准或衡量尺度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Kuhn, 1962）。不可通约性意味着范式之间无法通过同一套外在逻辑标准判定高下优劣——采纳一种范式，不仅是选择某种具体研究工具，更是拥抱了一整套关于实在本质（[[Ontology\|本体论]]）、知识性质（[[Epistemology\|认识论]]）与人性假设的根本信念体系，因而研究者无法在同一认知时刻持有两套相互冲突的范式。
 
 > [!concept-lens] 概念透镜

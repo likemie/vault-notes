@@ -53,7 +53,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-> [!def] 真实验设计（True Experimental Design）
+> [!def] True Experimental Design
 > 真实验设计（True [[Experimental Research\|experimental design]]）是[[Internal Validity\|内部效度]]最高的实验设计类别，必须具备以下**全部八个特征**，缺少任何一个即降级为准实验：一个或多个控制组；一个或多个实验组；[[Random Assignment\|随机分配]]至各组；[[Pre-test and Post-test\|前测]]以保证等价；后测以观察[[Dependent Variable\|因变量]]效应；对实验组施加干预；隔离、控制和操纵[[Independent Variable\|自变量]]；控制组与实验组不相互污染（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 317]]）。
 
 > [!method-scope] 方法范围

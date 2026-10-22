@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 制度耗竭（Institutional Exhaustion）
+> [!def] Institutional Exhaustion
 > 制度耗竭（Institutional Exhaustion）指在缺乏外部突发政治或经济剧烈冲击的情境下，正式规制安排由于其日常常规运转长期消耗自身的外部支撑资源，或因规则过度泛化导致边际收益递减，最终在时间累积中走向内生萎缩、逐步瓦解乃至彻底消亡的[[Theory of Gradual Institutional Change|渐进制度变迁]]过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, p. 31)]]
 
 > [!concept-lens] 概念透镜

@@ -92,7 +92,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国际学生评估项目学术反思（Critique of PISA）
+> [!def] Critique of PISA
 > **对 [[PISA]] 的批判（Critique of PISA）** 是对[[OECD|经济合作与发展组织]]（OECD）国际学生评估项目（[[PISA]]）及其全球治理模式开展的系统性学理反思与跨学科解构体系。该批判涵盖批判教育社会学、比较教育学科史、教育政治经济学与心理测量学等多维视角，核心聚焦于：揭示其“未来技能”[[Construct|构念]]缺乏前瞻实证效度且经济增长预测模型存在逻辑断裂；解构其单一西方中心主义假设与狭隘经济主义对教育多元目的的扭曲；实证揭示高分与学生兴趣、幸福感及创业信心的负相关悖论；批判其将高绩效归因于自我谴责从而美化威权教育与掩盖社会不平等；指出标准化测试强行虚构跨国[[Space of Equivalence|等值空间]]而以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]与[[Ontology|本体论]]多样性；抨击“数字即政策”将复杂的政治决断黑箱化并促使教育退化为劳动力市场排位竞争的[[Positional Good|位置性商品]]；谴责去情境化的跨国排名对比较教育历史诠释传统的侵蚀；并解构其数据在各国政治博弈与大众媒介中沦为危机虚构与责任推诿的工具。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–99)]]; [[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–452)]]
 
 > [!concept-lens] 概念透镜

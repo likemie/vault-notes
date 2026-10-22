@@ -29,7 +29,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 诱导性问题（Leading Questions）
+> [!def] Leading Questions
 > 诱导性问题（Leading question）是对受访者做出假设或"把话放进受访者嘴里"的问题——即问题本身影响了回答的方向，有时是不合法的。Morrison (1993, pp. 66–7) 给出了经典示例："你什么时候停止向校长投诉了？"——该问题假设受访者曾经是频繁投诉者；"你对新数学方案有多满意？"——假设了对方案的某种满意度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 209–210)]]
 
 > [!concept-lens] 概念透镜

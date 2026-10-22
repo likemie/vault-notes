@@ -35,7 +35,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 自观（Self-spectator）
+> [!def] Self-spectator
 > 自观（self-spectator）是戏剧教育中由 Dorothy Heathcote（1991）提出的核心概念，指参与者在扮演角色的同时能够观察自己的表现——他们既是角色本身，也是角色的批判观众。自观使参与者不至于被角色完全"吞噬"，从而保持了从经验中学习和反思的能力（Heathcote, 1991; Bolton and Heathcote, 1999）。
 
 > [!concept-lens] 概念透镜

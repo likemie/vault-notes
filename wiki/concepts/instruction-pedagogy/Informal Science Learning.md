@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 非正式科学学习（Informal Science Learning）
+> [!def] Informal Science Learning
 > 非正式科学学习（Informal Science Learning / Engagement）是指发生在正规学校课程与封闭教室之外的多[[Metascience|元科学]]学习、探索与文化互动形态。它涵盖科学探索中心、科技博物馆、动物园与植物园、科学节、社区科技工作坊、[[Citizen Science\|公民科学]]项目以及数字化科普平台，具有自愿性、情境性、兴趣驱动与全生命周期贯穿特征；其本质超越单纯的知识查漏补缺，是维系现代社会健康运行、促进公共福祉与民主协商的核心**社会与文化基础设施（Social and Cultural Infrastructure）**。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 42–43, 48)]]
 
 > [!concept-lens] 概念透镜

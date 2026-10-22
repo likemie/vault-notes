@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 第一类错误（Type I and Type II Errors）
+> [!def] Type I and Type II Errors
 > 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis\|零假设]]；**第二类错误**指接受了实际上不为真的零假设。Mitchell and Jolley (1988, p. 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者（convicting an innocent person）**，第二类错误相当于**放过有罪者（finding a guilty person innocent）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
 
 > [!concept-lens] 概念透镜

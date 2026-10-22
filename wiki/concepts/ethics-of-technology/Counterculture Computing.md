@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 反文化计算（Counterculture Computing）
+> [!def] Counterculture Computing
 > **反文化计算（Counterculture Computing）** 是指 20 世纪 60 年代末至 70 年代在美国西海岸孕育兴起的一种将嬉皮士反文化运动、新公社主义思潮与个人计算技术研发深度结合的科技发展[[Paradigm|范式]]。该范式主张将原本被国防部、情报机构及大型跨国公司垄断的大型机算力去中心化为个人可掌控的微型设备与软件工具，坚信计算技术的本质不是充当国家行使暴力的杠杆，而是赋权个体心智、实现精神解放与瓦解中央集权官僚体制的革命性力量。正如《[[Whole Earth Catalog|全球概览]]》（[[Whole Earth Catalog]]）联合创办人[[Stewart Brand|斯图尔特·布兰德]]（[[Stewart Brand]]）所指出的，“反文化对中央集权的蔑视，不仅为去中心化互联网、也为整个个人计算机革命提供了哲学基石”。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的分析中，反文化计算彻底逆转了[[Vannevar Bush|万尼瓦尔·布什]]（[[Vannevar Bush]]）与J·罗伯特·[[J. Robert Oppenheimer|奥本海默]]（[[J. Robert Oppenheimer]]）确立的科技服务于国家大战略的传统，使个人与消费者成为硅谷产业关注的核心，最终铺平了向[[Consumer Internet|消费互联网]]与[[Technological Agnosticism|技术不可知论]]演进的道路。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 
 > [!concept-lens] 概念透镜

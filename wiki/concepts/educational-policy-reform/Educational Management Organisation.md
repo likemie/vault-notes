@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育管理组织（Educational Management Organisation）
+> [!def] Educational Management Organisation
 > 教育管理组织（Educational Management Organisation, EMO）指深度参与公立学校教育政策制定、管理运营支持以及[[CORE Education|核心教育]]教学服务交付的私营部门实体，涵盖营利性（for-profit）与非营利性（not-for-profit）两种组织形态。
 > 
 > 在国际比较语境中，EMO 主要指受政府委托托管或直接运营一所及多所公立学校（如特许学校连锁或学院信托连锁），全面承担人员配备、课程设置与教学管理的第三方机构。而在新西兰特定制度土壤中，EMO 演变出独特的 **[[Dual-Entity Legal Structure|双层法人架构]]（Two-tier Corporate Structure）** 顶层为免税的慈善信托（Charitable Trust），底层为全资拥有的营利性有限责任公司（Limited Liability Company）。这些实体不仅垄断公共部门服务外包合同，更深度介入国家政策文本起草与教育议程设置，在公共利益外衣下展开商业资本积累与制度套利（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vi–vii, 19–20]]）。

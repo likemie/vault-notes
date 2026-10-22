@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 政策形象（Policy Image）
+> [!def] Policy Image
 > 政策形象（Policy Image，亦称政策意象）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指特定公共政策议题在广大公众、大众传媒以及政治精英心目中的符号化表征、价值框架与综合认知建构。一个政策形象兼具经验实证信息（Empirical Information）与情感规范评价（Emotive/Normative Valences），决定了该议题是被界定为平稳运行且值得信赖的“专业自治领域”，还是被认知为失控破产、亟待外部宏观政治权力强势介入的“治理灾难”。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!concept-lens] 概念透镜

@@ -26,7 +26,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 绝对认知（Absolute Knowing）
+> [!def] Absolute Knowing
 > 绝对认知（Absolute Knowing）是 Baxter Magolda (1992) 的[[Epistemological Reflection Model\|认识论反思模型]]中的起点。个体认为知识是绝对的、确定的，且完全掌握在教师或权威手中；学习的任务就是获取这些确切答案。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 99)]]
 
 > [!concept-lens] 概念透镜

@@ -187,6 +187,10 @@
     {
       "sentence": "全球公共卫生领域在统筹、管理与转化研究证据方面的长期经验，能够为全球教育循证治理提供何种制度镜鉴？",
       "target": "wiki/concepts/educational-policy-reform/Output-Oriented Governance.md"
+    },
+    {
+      "sentence": "解释学术界（慢车道）与决策界（快车道）在激励机制、时间节奏、语言体系与价值取向上的结构性异质性。",
+      "target": "wiki/concepts/research-methodology/Heterogeneity.md"
     }
   ]
 }

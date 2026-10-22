@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 演绎理性（Deductive Rationality）
+> [!def] Deductive Rationality
 > 演绎理性（Deductive Rationality）是比较教育与高等教育批判概念，由 [[Robert Cowen]] 于 2005 年提出。它指当代大学管理主义中自上而下的行政命令与绩效[[Discourse|话语]]体系，具体表现为“压缩的政策话语和控制话语”（compressed policy-words, words of control）。这类话语通过高压且高频的量化管理和绩效衡量，直接定义“什么是好的知识”，把学术思考异化为功绩机器上的螺丝钉，使大学依附于经济利益并退化为纯粹的企业。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
 
 > [!concept-lens] 概念透镜

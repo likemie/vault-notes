@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创业型大学（Entrepreneurial University）
+> [!def] Entrepreneurial University
 > **创业型大学（Entrepreneurial University）** 是指大学从传统与社会相隔离的象牙塔（Ivory Tower）模式转向主动介入区域与国家经济社会发展的学术组织变革[[Paradigm|范式]]（Etzkowitz et al., 2000）。其核心特征表现为大学通过适应性文化重塑、设立专业化中介组织载体（如[[Technology Transfer Office|技术转移办公室]]、创新孵化园区），以及建立兼容非传统产业资助与成果转化的激励机制，主动寻求与产业界、政府及公民社会的深度协同与价值共创。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 52)]]
 
 > [!concept-lens] 概念透镜

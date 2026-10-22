@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 不当基线比较（Inappropriate Baseline Comparisons）
+> [!def] Inappropriate Baseline Comparisons
 > **不当基线比较（Inappropriate Baseline Comparisons，亦称基准比较偏误）** 是指在[[Experimental Research|实验研究]]、[[Meta-analysis|元分析]]（Meta-analysis）与二阶综合中，由于未清晰界定、主观操纵或混淆对照基线总体，从而导致[[Effect Size|效应量]]（Effect Size, ES）正负方向、数值量级与实质因果定性产生系统性扭曲的统计方法偏误。阿利森等（Allison et al., 2016, p. 27）在《自然》（*Nature*）杂志上将其与“元分析计算失误”并列为当代科学[[Reproducibility Crisis|可重复性危机]]（Reproducibility Crisis）中的三大统计死穴之一；伯杰龙与里瓦尔（Bergeron & Rivard）进一步证实，在宏观教育[[Research Synthesis|证据综合]]中，脱离对等[[Counterfactual|反事实]]参照系的单向基线设定，会诱发政策推荐结论的根本性颠倒。[[Argument_Bergeron_2017_MJE|(Bergeron & Rivard, 2017, pp. 240–242)]]
 
 > [!method-scope] 方法范围

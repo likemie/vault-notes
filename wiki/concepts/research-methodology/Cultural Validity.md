@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 文化效度（Cultural Validity）
+> [!def] Cultural Validity
 > 文化效度（Cultural validity）是 **"一项研究对将要进行研究的文化环境的恰当程度"（Joy, 2003, p. 1）**。与文化效度密切相关的是[[Cross-cultural Validity\|跨文化效度]]和[[Ecological Validity\|生态效度]]——但文化效度的独特之处在于：它适用于研究的**所有阶段**——规划、实施和传播——要求对参与者、文化和被研究的环境保持**敏感度（Morgan, 1999）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 186–187)]]
 
 > [!quote] Morgan (2005, p. 1) 的文化效度定义

@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ## 定义
 
-> [!def] 认知复杂性指数（Cognitive Complexity Index）
+> [!def] Cognitive Complexity Index
 > 认知复杂性/简单性指数（cognitive complexity/simplicity index）是 Bieri（1955）提出的、用于测量个体认知结构中[[Construct\|构念]]分化程度的指标。它通过构念之间的平均相关系数衡量：平均相关高表示各构念以相似方式关联元素，个体以相对单一的维度看待世界（认知简单）；平均相关低表示构念彼此分化，个体以多维视角理解世界（认知复杂）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(Cohen et al., 2011, p. 10)]]
 
 > [!concept-lens] 概念透镜

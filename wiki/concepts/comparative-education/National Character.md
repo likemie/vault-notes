@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国民性（National Character）
+> [!def] National Character
 > 国民性格（National Character），又称国民性或民族性格，在经典比较教育学中被界定为**一个民族在思想、情感与行为上普遍持有并代代相传的性格倾向总和（Totality of Dispositions）**。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Vernon Mallinson|弗农·马林森]]（Vernon Mallinson）等学者主张，国家教育制度不仅是外在行政构造，更是国民性格的生动[[Externalization|外化]]与活体表达；在当代科技[[Geopolitics|地缘政治]]与政治哲学中，该[[Construct|构念]]进一步被重塑为超越狭隘血统与族裔身份的开放国家认同。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40–41)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 193–194)]]
 
 > [!concept-lens] 概念透镜

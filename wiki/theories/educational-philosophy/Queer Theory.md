@@ -32,7 +32,7 @@ created: 2026-06-17
 updated: 2026-10-22
 ---
 
-> [!def] 酷儿理论（Queer Theory）
+> [!def] Queer Theory
 > 酷儿理论建立在但超越女性主义理论和同性恋研究，探讨身份的社会建构、性行为的特权化或否认、越轨行为以及涉及这些建构的分类与意识形态。它拒绝将个人简单归类，主张尊重其个体性和独特性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, p. 414)]]
 
 > [!citation-card] Halperin 的关键定义

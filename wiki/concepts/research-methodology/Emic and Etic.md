@@ -50,7 +50,7 @@ created: 2026-05-25
 updated: 2026-10-22
 ---
 
-> [!def] 主位与客位（Emic and Etic）
+> [!def] Emic and Etic
 > Emic（主位）视角是从被研究者内部出发的视角，旨在理解文化内部成员自身的概念、意义与结构。Etic（客位）视角则是从外部观察者或研究者出发的视角，使用研究者自带的范畴和理论框架进行分析与比较。跨文化研究要真正实现文化间的理解，必须同时纳入两种视角（[[Argument_Li_2012_Cambridge\|Li, 2012, p.77]]）。在教育研究的质性方法论中，这对概念由 LeCompte and Preissle（1993, p. 45）从语言学类比出发阐明：主位进路取音位学（phonemic）类比，关注捕捉参与者赋予情境的主观意义；客位进路取语音学（phonetic）类比，意在识别和理解研究者的客观建构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 405)]]
 
 > [!citation-card] LeCompte & Preissle 的经典定义

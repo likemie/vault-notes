@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学习经济（Learning Economy）
+> [!def] Learning Economy
 > **学习经济（Learning Economy / 学习曲线效应）** 涵盖微观制造工程与宏观[[Systems of Innovation|创新系统]]的双重理论意涵：在微观与产业层面，指企业在生产过程中随着历史累计产量的持续扩张，工人和工程师通过实践积累操作经验、改进工艺良率与消除缺陷，从而驱动产品单位成本呈现规律性指数下降的动态生产率提升机制（典型如半导体产业累计产量每翻一番，单位制造成本下降 20%–30%）；在宏观与中观创新系统层面，指在全球化与技术加速变迁的环境中，经济体与企业的核心[[Competitiveness|竞争力]]越来越取决于持续学习、遗忘陈旧惯例和吸收新知识的动态能力，而非单纯依赖静态的自然资源禀赋或固定知识存量。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 7)]]；[[Argument_Caraca_2009_TFSC|(Caraça, Lundvall & Mendonça, 2009, p. 864, 引自 Caraça et al., 2009)]]
 
 > [!concept-lens] 概念透镜

@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 外化（Externalization）
+> [!def] Externalization
 > 外化（Externalization，或称外部化、策略性外在化）是比较教育学与社会学系统论中用于解释跨国政策借鉴与[[Discourse|话语]]形成的核心分析概念。该概念由德国比较教育学者于尔根·施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）于 1990 年首次提出，并经[[Jeremy Rappleye|杰里米·拉普利]]（Jeremy Rappleye）及吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者深入拓展。外化是教育系统内部基于自身变迁中的问题构型与反思情境所实施的**认知过滤与意义投射过程**，不同于对国际环境或外国教育事实的客观中立描述。根据[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的系统论阐释，外化本质上是教育系统对“外部参照点的内部建构（Internal Construction of External Points of Reference）”；本土行动者将外部国家（如芬兰）或国际组织（如[[OECD|经合组织]]）建构为仿佛客观有效的准外部权威（Quasi-external Authority），其终极目的在于借助外部力量打破国内长期的政策博弈僵局，为争议性改革或维持现状提供免受攻击的正当性辩护。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 230)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 546)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]
 
 > [!concept-lens] 概念透镜

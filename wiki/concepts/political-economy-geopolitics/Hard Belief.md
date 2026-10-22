@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 硬信念（Hard Belief）
+> [!def] Hard Belief
 > 硬信念（Hard Belief）是政治哲学与技术[[Geopolitics|地缘政治学]]中的[[Central Phenomenon|核心范畴]]，由[[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）在《[[Technological Republic|技术共和国]]》（*The Technological Republic*, 2025）中系统提出。该概念指一种具有超越个体自利与机构保全、愿意直面公众非议并切实承担现实法律、声誉或财务代价的真诚信念品格。硬信念的核心在于“信念的真实性由其付出的代价来检验”，它与当代西方精英文化中盛行的“[[Soft Belief|软信念]]”（Soft Belief）——即无需承担任何风险、流于公关话术、程序合规与道德表演的虚无主义姿态——形成根本对立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 57–60, 67–68)]]
 
 > [!concept-lens] 概念透镜

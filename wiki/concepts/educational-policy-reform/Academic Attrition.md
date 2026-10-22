@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学业流失（Academic Attrition）
+> [!def] Academic Attrition
 > 学业流失（Academic [[Attrition]]），亦称**学生流失（Student Attrition）** 或**学业脱落**，是指注册在读的学生在完成法定学段、达到毕业标准或获取既定学位之前，非自愿（如遭学校停课、开除劝退或行政推挤）或自愿（如因学业挫败、经济压力、家庭变故或心理脱嵌主动辍学）过早离开正规教育系统并中断学业的实质性教育现象。该指标是衡量教育系统公平性、学生留存率（Student Retention）以及制度包容性的关键逆向评价指标。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 13–15)]]
 
 > [!concept-lens] 概念透镜

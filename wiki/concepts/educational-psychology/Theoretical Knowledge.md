@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理论性知识（Theoretical Knowledge）
+> [!def] Theoretical Knowledge
 > 理论性知识（Theoretical Knowledge）指对支撑学科的基本概念、原理与理论的理解。[[Problem-Based Learning\|问题本位学习]]（PBL）鼓励学生通过分析真实世界问题主动参与并理解信息，从而更深入有效地掌握理论概念。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 954–955, 963)]]
 
 > [!concept-lens] 概念透镜

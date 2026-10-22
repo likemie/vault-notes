@@ -37,7 +37,7 @@ created: 2026-06-18
 updated: 2026-10-22
 ---
 
-> [!def] 研究准入（Access and Acceptance in Research）
+> [!def] Access and Acceptance in Research
 > 研究准入与接纳指研究者在进入研究场所（学校、机构、社区）之前，通过正式和非正式渠道获得官方许可和参与者接纳的过程。这是研究者展示其作为严肃研究者的资质并建立自身伦理立场的关键阶段（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 84–87]]）。
 
 > [!concept-lens] 概念透镜

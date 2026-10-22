@@ -37,7 +37,7 @@ created: 2026-07-01
 updated: 2026-10-22
 ---
 
-> [!def] 学术自我概念（Academic Self-Concept）
+> [!def] Academic Self-Concept
 > 学术自我概念（academic self-concept）是个体对自己学术能力的整体感知和评价，反映学生在多大程度上认为自己是有能力的、成功的学习者（Marsh, 1992）。它与实际[[Academic Achievement\|学业成绩]]交互影响——成绩塑造自我概念，自我概念又反过来影响学习动机、投入和后续[[Academic Achievement\|学业表现]]（Byrne & Worth-Gavin, 1996）。
 
 > [!concept-lens] 概念透镜

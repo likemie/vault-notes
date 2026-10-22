@@ -96,7 +96,7 @@ updated: 2026-10-22
 
 概念首先需要区分其教育目的与能够由课程制度直接规定的条件。
 
-> [!def] 国际教育（International Education）
+> [!def] International Education
 > 国际教育（International Education）是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多种思维方式为目的的教育计划，也指全球化条件下学生与[[Teacher Mobility|教师流动]]、课程跨境采用、[[International Schools|国际学校]]、[[International Branch Campus|海外分校]]、跨国评价和教育市场形成的制度现象；当代进一步拓展出由发展型国家通过全额资助推动南南产能与地缘走廊建设的战略性治理形态。前者强调教育要改变怎样的人与关系，后者强调教育活动如何越过国家管辖、进入全球网络与地缘战略协作。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]]; [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–5, 19–31)]]; [[Argument_Woo_2023_HEP|Woo (2023, pp. 688–692)]]
 
 > [!concept-lens] 概念透镜

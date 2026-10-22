@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 技术乌托邦主义（Techno-Utopianism）
+> [!def] Techno-Utopianism
 > 技术乌托邦主义（Techno-Utopianism）是指一种坚信技术创新自身具备超越性力量、能够绕过传统政治制度与社会结构约束而自发实现人类解放与福利最大化的意识形态[[Paradigm|范式]]。在当代科技产业特别是硅谷的发展中，该理念将技术进步等同于人类文明进步，同时将国家公权力视作阻碍效率与创新的冗余负担，最终退化为将个体视为系统中待操纵原子的狭隘功利主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. xiv, 9–10)]]
 
 > [!concept-lens] 概念透镜

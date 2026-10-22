@@ -54,7 +54,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-> [!def] 纵向研究（Longitudinal Study）
+> [!def] Longitudinal Study
 > 纵向研究（Longitudinal Study）是在一段延长时间内收集数据的[[Survey Research\|调查研究]]设计。短期调查可能持续数周或数月；长期研究可以跨越多年。"发展性"（developmental）一词常用于专门处理人类生长方面的纵向研究。纵向研究使研究者能够分析社会现象的持续时间（Ruspini, 2002, p. 24），突出一个或多个[[Variable\|变量]]或参与者在时间上的相似性、差异和变化（个体内和个体间），识别长期（"潜伏"，sleeper）效应，并通过稳定特征（如性别）或可变特征（如收入）解释变化。
 
 > [!method-scope] 方法范围

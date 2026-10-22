@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 置信区间（Confidence Interval）
+> [!def] Confidence Interval
 > 置信区间（Confidence Interval, CI）是统计推断中围绕参数点估计值所构建的可能取值区间，用于表征估计精度的统计不确定性。一个 $100(1-\alpha)\%$（通常为 95%）的置信区间意味着：若在相同条件下从同一总体中进行无限次独立重复抽样并依照相同数学程序构建区间，理论上将有 $100(1-\alpha)\%$ 的区间包含真实的总体未明参数。置信区间由估计值、临界值（如 $Z$ 或 $t$ 分位数，由置信水平决定）与[[Standard Error|标准误]]三者共同确定。在抽样设计中，CI 作为边际误差（Margin of Error）约束所需[[Sample Size Determination|样本量]]；在实验报告与[[Meta-analysis|元分析]]中，CI 呈现[[Effect Size|效应量]]的不确定性边界，并作为防范假阳性与点估计虚假排名的核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 147–148)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
 
 > [!method-scope] 方法范围

@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育私有化（Educational Privatisation）
+> [!def] Educational Privatisation
 > **教育私有化（Educational Privatisation）** 指公共教育的资源供给、经费筹措、日常管理、教学交付乃至政策制定权，由国家公共行政系统向私营营利实体、非营利组织、准市场竞争机制或商业逻辑转移的结构性变革过程。批判政治经济学与教育社会学（Ball, 1993; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，当代教育私有化绝非中立的行政效率优化，而是新自由主义国家以市场逻辑瓦解教育公共性、卸载财政保障责任并巩固社会优势阶层排他性利益的**阶级策略**。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）进一步构建了双维[[Analytic Framework|分析框架]]，将其划分为公立体系内部企业化改组的 **[[Endogenous Privatisation|内生私有化]]** 与公共服务及立法议程外部承包的 **[[Exogenous Privatisation|外生私有化]]**。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 
 > [!concept-lens] 概念透镜

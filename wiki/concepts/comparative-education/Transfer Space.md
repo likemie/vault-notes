@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 政策转移空间（Transfer Space）
+> [!def] Transfer Space
 > 政策转移空间（Transfer Space）是指连接全球、区域与国家/地方等多元尺度，并容纳政策接收（reception）、抵制（resistance）、翻译（translation）与投射（projection）动态博弈的关系性分析[[Champ\|场域]]（Relational Analytical Arena）。该概念由公共政策与比较教育学者奥斯瓦尔多·波尔图·德奥利维拉（Osmany Porto de Oliveira）与塞西莉亚·奥索里奥·贡内特（Cecilia Osorio Gonnet）于 2023 年系统提出，并由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者深化。政策转移空间摒弃了将民族国家视为均质、孤立黑箱的传统假定，主张通过尺度（全球/国家/地方）、功能（咨询专家委员会、行政决策官僚、立法机构）以及公私属性对国家机器进行解构；它揭示出全球性议程与本土政策并非外在对立，而是在转移空间内部被本土政治行动者作为“拟似外部参考系”加以策略性动员，并在政策周期的不同阶段经历断裂式的筛选与政治过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 540, 546–548)]]
 
 > [!concept-lens] 概念透镜

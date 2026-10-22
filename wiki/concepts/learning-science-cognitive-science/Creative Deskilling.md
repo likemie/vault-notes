@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创造力去技能化（Creative Deskilling）
+> [!def] Creative Deskilling
 > [[Creativity|创造力]][[Cognitive Deskilling|去技能化]]（Creative Deskilling）是指学习者或创作者在面临[[Open-Mindedness|开放性]]问题、艺术创作或学术构思时，过度依赖[[Generative Artificial Intelligence|生成式人工智能]]系统（如大语言模型或图像生成模型）直接生成备选方案、草案或创意原型，从而剥夺了主体自身进行发散联想、直觉试错与概念融合的内在认知锻炼，导致个体内在创造力效能感下降、创造过程的内在探索愉悦感丧失以及集体层面创意多样性显著收缩同质化的现象。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 271–273)]]
 
 > [!concept-lens] 概念透镜

@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 程序性技能（Procedural Skill）
+> [!def] Procedural Skill
 > 程序性技能（Procedural Skill / [[Procedural Knowledge]]）是指个体关于“如何做”（How-to）的知识与操作能力系统，表现为在特定问题情境中准确应用产生式规则（Production Rules）、执行标准化计算与操作序列，以及熟练、自动化地解决良构问题的心理动作能力。在认知心理学与[[Bloom's Taxonomy\|布鲁姆教育目标分类学]]中，它涵盖解题技巧、计算机编程代码撰写、口语朗读流利度与四则运算操作等。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 5–7)]]
 
 > [!concept-lens] 概念透镜

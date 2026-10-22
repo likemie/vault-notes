@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育性经验（Educative Experience）
+> [!def] Educative Experience
 > **教育性经验（Educative Experience）** 是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中确立的正向经验品质判定标准。它指能够丰富个体当下体验、并为个体打开通往未来更深刻与更广阔经验大门、从而促进连续生长的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–32)]]
 
 > [!concept-lens] 概念透镜

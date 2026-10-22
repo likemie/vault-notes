@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 元推论（Metainferences）
+> [!def] Metainferences
 > 元推论（Metainferences）是[[Mixed Methods Research\|混合方法研究]]中的关键术语。当研究者在[[Joint Display\|联合展示]]表格或图表中检视量化与质性数据的并排比较后，会得出关于两种数据库组合所产生洞见的结论——研究者先分别得出量化推论（quantitative inferences）和质性推论（qualitative inferences），然后基于两种数据库的组合，得出**超越单一数据类型**的额外推论（即元推论）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 234)]]
 
 > [!concept-lens] 概念透镜

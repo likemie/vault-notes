@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 固定效应模型（Fixed-Effect Model）
+> [!def] Fixed-Effect Model
 > 固定效应模型（Fixed-Effect Model）是[[Meta-analysis|元分析]]与[[Research Synthesis|证据综合]]中最基础的统计加权合成模型。该模型建立在强同质性假定之上：假定所有纳入分析的独立初级研究都在估计同一个唯一且恒定不变的总体真实[[Effect Size|效应量]] $\theta$，观测到的跨研究效应量变异完全源于受试者随机[[Sampling Error|抽样误差]]（Sampling Error）。在此假设下，模型通过[[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting, IVW）以各研究抽样方差的倒数赋权（$w_i = 1/v_i$），实现合成估计量方差的最小化。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围

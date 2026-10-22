@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 信源评估（Source Evaluation）
+> [!def] Source Evaluation
 > 信源评估（Source Evaluation，在阅读研究中常称为 Sourcing 或 Sourcing Heuristic）是指学习者在面对单一或多重文本（特别是存在观点冲突的数字化信息与[[Generative Artificial Intelligence|生成式人工智能]]输出）时，超越表层陈述内容，主动识别、审验并评价信息提供者的专业资质、机构背景、出版动机、潜在利益冲突以及背后证据支撑力度的系统性认知规程与[[Framework for Teaching|教学框架]]。在教学实践中，通过[[Direct Instruction\|直接讲授]]信源甄别准则与提供[[Reflexivity|反思性]]提问提示，能够有效帮助学生破解网络虚假信息与算法权威盲从，实现高质量的跨文本整合与论证建构。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]; [[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, p. 5)]]
 
 > [!concept-lens] 概念透镜

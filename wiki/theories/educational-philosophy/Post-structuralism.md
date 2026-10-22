@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 后结构主义（Post-structuralism）
+> [!def] Post-structuralism
 > **后结构主义（Post-structuralism）** 是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过[[Performativity|表演性]][[Discourse|话语]]建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
 
 > [!concept-lens] 概念透镜

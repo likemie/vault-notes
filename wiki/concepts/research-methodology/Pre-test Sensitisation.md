@@ -31,7 +31,7 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-> [!def] 预试敏感化（Pre-test Sensitisation）
+> [!def] Pre-test Sensitisation
 > 预试敏感化（Pre-test Sensitisation），也称面板条件化（Panel Conditioning）或样本内时间偏倚（Time-in-sample Bias），指在纵向或重复测量研究中，前一轮的数据收集本身改变了参与者的认知或行为，使得后续轮次记录的变化是调查"制造"的而非自然发生的（Ruspini, 2002, p. 73）。Dooley (2001, p. 120)将其定义为首次访谈引发在第二次访谈中被记录的变化——首次访谈可能建立了一个在第二次访谈中被记录的自我实现预言。
 
 > [!concept-lens] 概念透镜

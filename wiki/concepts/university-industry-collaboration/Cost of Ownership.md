@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 所有权成本（Cost of Ownership）
+> [!def] Cost of Ownership
 > **所有权成本（Cost of Ownership, COO）** 是指在装备或技术系统的整个生命周期内，为获得、运营、维护该设备并生产单位合格产出物所分摊的全部直接与间接经济成本之和。与仅关注购置标价的传统核算不同，COO 模型将初始固定投资、可变运行维护费用、设备[[Reliability|可靠性]]/利用率损失以及材料与良率缺陷损失统一转化为“单位合格产出成本”（Cost per Good Unit），成为衡量先进制造装备生命周期真实经济价值与产业[[Competitiveness|竞争力]]的权威基准。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
 
 > [!concept-lens] 概念透镜

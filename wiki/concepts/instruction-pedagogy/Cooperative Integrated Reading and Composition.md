@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 合作整合阅读与写作（Cooperative Integrated Reading and Composition）
+> [!def] Cooperative Integrated Reading and Composition
 > 合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）是由 [[Robert Slavin]]、Robert Stevens 与 [[Nancy Madden]] 于 1987 年在约翰霍普金斯大学系统开发的一种针对中小学语言与读写教育的综合性[[Cooperative Learning\|合作学习]]教学模式。该模式将教师主导的显性阅读理解策略精讲与[[Heterogeneity\|异质性]]同伴协作深度融合，通过配对朗读、生字词汇协商、故事语法图解、同伴审阅修改及读写一体化迁移，构建语言输入与输出高频互动的教学流程。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 
 > [!concept-lens] 概念透镜

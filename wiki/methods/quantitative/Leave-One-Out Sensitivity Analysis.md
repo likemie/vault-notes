@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 留一法敏感性分析（Leave-One-Out Sensitivity Analysis）
+> [!def] Leave-One-Out Sensitivity Analysis
 > 留一法敏感性分析（Leave-One-Out Sensitivity Analysis），又称逐一剔除敏感性检验或基于刀切法（Jackknife）的敏感性分析，是[[Meta-analysis\|元分析]]与统计建模中用于评估证据体系稳健性与识别极端异常值的核心诊断方法。该方法通过从包含 $k$ 项初级研究的数据集中每次依次剔除一项研究，利用剩余的 $k-1$ 项研究重新拟合加权模型并重新估计合并[[Effect Size\|效应量]]、95% [[Confidence Interval\|置信区间]]（95% Confidence Interval, 95% CI）与[[Heterogeneity\|异质性]]统计量（如 $\tau^2, I^2$），从而定量检验元分析的核心发现是否过度依赖于某单项大权重研究或极端异常样本。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 7–9)]]
 
 > [!method-scope] 方法范围

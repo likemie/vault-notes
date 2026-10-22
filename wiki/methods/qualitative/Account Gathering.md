@@ -33,7 +33,7 @@ created: 2026-07-22
 updated: 2026-10-22
 ---
 
-> [!def] 陈述收集（Account Gathering）
+> [!def] Account Gathering
 > 陈述收集（[[Accounts\|account]] gathering）是 Brown and Sime（1977, 1981）发展的**陈述引发和记录的操作框架**。该方法将陈述收集分解为四个核心要素——信息提供者、陈述收集情境、陈述转化和研究者陈述——并为每个要素规定了相应的控制程序，以确保陈述的真实性、准确性和可解释性。
 
 > [!method-scope] 方法范围

@@ -115,7 +115,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据本位改革（Evidence-Based Reform）
+> [!def] Evidence-Based Reform
 > **证据本位改革（Evidence-Based Reform, EBR）** 是[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）于 2002 年提出并持续倡导的宏观教育政策治理框架。该框架主张教育者与决策者将**关于有效性的严格实证研究证据**作为选择、采购与资助具体教育项目、教材和教学实践的核心法定标准。其证据基础特指来自对照[[Experimental Research\|实验研究]]（将使用干预项目的实验组与采用常规方法的对照组进行[[Academic Achievement\|学业成就]]对比，理想上采用[[Random Assignment\|随机分配]]）的严谨因果推论结果。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 22)]]
 
 > [!concept-lens] 概念透镜

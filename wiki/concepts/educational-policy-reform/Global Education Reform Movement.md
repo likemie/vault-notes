@@ -91,7 +91,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 全球教育改革运动（Global Education Reform Movement）
+> [!def] Global Education Reform Movement
 > 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的新自由主义学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!concept-lens] 概念透镜

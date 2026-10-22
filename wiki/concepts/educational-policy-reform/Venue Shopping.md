@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 制度场所转换（Venue Shopping）
+> [!def] Venue Shopping
 > 制度场所转换（Venue Shopping，亦称政策场所搜寻）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指政策行动者在特定决策场所（如国会立法委员会或州议会）面临根深蒂固的既得利益阻碍与制度垄断（Policy Monopoly）时，策略性地脱离原有决策通道，搜寻并转移到对自身主张更具同情心、决策规则更具弹性或门槛更低的替代性制度场所（如司法诉讼、专业行政规制机构、横向政府间联合体或私人慈善资助网络），以此重构[[Policy Image|政策形象]]并打破制度僵局。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!concept-lens] 概念透镜

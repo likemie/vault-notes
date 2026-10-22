@@ -26,7 +26,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 积极倾听（Active Listening）
+> [!def] Active Listening
 > 积极倾听（Active Listening）是访谈中访谈者通过非语言和语言反馈来表明专注、理解并鼓励受访者继续深入表达的技术。它区别于被动聆听——积极倾听要求访谈者有意识地控制自己的非语言表达（面部表情、身体姿势、眼神接触）和语言回应（反映、澄清、总结），以营造安全、接纳的访谈环境（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 438–443]]）。
 
 > [!concept-lens] 概念透镜

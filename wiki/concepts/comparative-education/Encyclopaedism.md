@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 百科全书主义（Encyclopaedism）
+> [!def] Encyclopaedism
 > 百科全书主义（Encyclopaedism）是一种以广泛覆盖既定知识为[[General Education\|通识教育]]标准的课程[[Paradigm\|范式]]。知识按离散学科分类，课程通过增加科目和内容扩大覆盖范围，教师传递事实与预先组织的解释，考试要求学生准确复现。它既指一种知识观，也指由多科目课程、短课时、记忆性教学和内容型考试相互强化的制度形态。[[Argument_Beech_2009_CE\|Beech (2009a, pp. 347–348, 354–356)]]；[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 38–39, 43–44)]]
 
 > [!concept-lens] 知识观、课程形态与分析用途

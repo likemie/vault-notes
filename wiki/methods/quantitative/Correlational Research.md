@@ -102,7 +102,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 相关性研究（Correlational Research）
+> [!def] Correlational Research
 > **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统一归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!method-scope] 方法范围

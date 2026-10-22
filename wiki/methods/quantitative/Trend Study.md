@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 趋势研究（Trend Study）
+> [!def] Trend Study
 > 趋势研究（Trend Study，又称趋势分析或重复横截面研究）是指在不同时间点从同一总体中抽取不同样本，持续追踪相同因素或变量随时间变化规律的纵向研究设计（Keeves, 1997a; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|Cohen et al., 2011, pp. 267–269]]）。与追踪固定个体的面板研究不同，趋势研究聚焦于聚合层面的因素演进与模式识别，常用于教育成就监测、学术产出趋势预测与政策干预的长时段效果评估。
 
 > [!method-scope] 方法范围

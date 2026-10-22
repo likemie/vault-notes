@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 矩阵抽样（Matrix Sampling）
+> [!def] Matrix Sampling
 > **矩阵抽样（Matrix Sampling）（在试验设计中常体现为平衡不完全区组设计，Balanced Incomplete Block Design, BIBD；亦称多重矩阵抽样，Multiple Matrix Sampling）** 是大规模教育监测与心理测量中结合题库抽样与受试者抽样的试卷编配方法。该方法将待测领域的全部题目划分为若干预设题簇或测试模块（Blocks / Clusters），再依据平衡组合规则将这些模块组合为多套相互重叠且难度均衡的测试卷本（Test Booklets），随机或螺旋式分配给被试作答。其核心特征在于每位受试者仅作答整个测验题库中的一小部分题目，但通过聚合全体受试者的作答反应与重叠锚题网络，能够推断宏观群体在整个领域[[Construct|构念]]上的能力分布参数与题库全域参数。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
 
 > [!method-scope] 方法范围

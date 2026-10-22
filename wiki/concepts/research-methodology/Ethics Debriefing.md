@@ -34,7 +34,7 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-> [!def] 伦理事后说明（Ethics Debriefing）
+> [!def] Ethics Debriefing
 > Ethics debriefing 是在涉及欺骗的研究结束或研究阶段结束后，向参与者解释研究真实目的、说明所使用欺骗的原因并帮助参与者处理研究经历的程序。它是抵消欺骗研究负面效果的主要方式（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 112–113]]）。
 
 > [!concept-lens] 概念透镜

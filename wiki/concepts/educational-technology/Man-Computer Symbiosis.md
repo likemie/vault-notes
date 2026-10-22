@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 人机共生（Man-Computer Symbiosis）
+> [!def] Man-Computer Symbiosis
 > 人机共生（Man-Computer Symbiosis）指由美国实验心理学家与计算机先驱[[J. C. R. Licklider|约瑟夫·利克莱德]]（J. C. R. Licklider）于 1960 年系统奠定的计算[[Paradigm|范式]]。该理念主张人类大脑与电子计算机器应结成实时交互、紧密耦合的共生协同体：计算机负责执行繁重的数据存储、高速检索与精密数值算法，人类则专注于提出假设、模式识别、价值判断与战略性决策，从而在双向对话中成倍放大人类思维的洞察力与[[Problem Solving|问题解决能力]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 
 > [!concept-lens] 概念透镜

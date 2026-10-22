@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 全球教育治理复合体（Global Education Governing Complex）
+> [!def] Global Education Governing Complex
 > 全球教育治理复合体（Global Education Governing Complex）是指由五大核心国际组织——[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）、[[World Bank\|世界银行]]（World Bank）、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO，简称联合国教科文组织）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）与[[Global Partnership for Education\|全球教育伙伴关系]]（Global Partnership for Education，GPE）为中枢，深度整合了主权国家资本、跨国教育商业企业与私人慈善基金会的多元跨国[[Network Governance\|网络治理]]形态。该复合体打破了传统民族国家对公共教育政策的专属垄断，将可量化、可比较与可标准化的知识深度工具化与武器化，依靠设定国际目标、基准测验、跨国排名与[[Policy Brokerage\|政策中介]]等“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”的间接治理技术，在缺乏法律强制制裁权的前提下跨尺度重塑全球与国家教育改革议程并实施远距离绩效问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
 
 > [!concept-lens] 概念透镜

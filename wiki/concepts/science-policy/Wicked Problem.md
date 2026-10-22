@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 棘手问题（Wicked Problem）
+> [!def] Wicked Problem
 > **棘手问题（Wicked Problem / 复杂社会难题）** 最初由霍斯特·里特尔（Horst W. J. Rittel）与梅尔文·韦伯（Melvin M. Webber）于 1973 年提出，指一类缺乏明确定义、没有标准求解算法、且无法通过线性规划或传统理性模型彻底解决的复杂社会政策难题。与有明确边界和既定解法的驯服问题（Tame Problem）不同，棘手问题深嵌于高度互动的社会–技术与制度网络之中，具有高度的价值争议性（Contestation）、结构复杂性（Complexity）和[[Scientific Uncertainty|认知不确定性]]（Uncertainty）。在现代公共政策中，棘手议题极易引发行政机构退守部门壁垒的[[Complexity Paradox|复杂性悖论]]，要求公共治理超越冷战时期封闭的[[Big Science|大科学]]攻关模式，转向以[[Distributed Agency|分布式主体]]共创、[[Agile Governance|敏捷试错]]与反思学习为特征的“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 
 > [!concept-lens] 概念透镜

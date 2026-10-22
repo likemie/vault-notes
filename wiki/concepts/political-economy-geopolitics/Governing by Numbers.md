@@ -77,7 +77,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 数字治理（Governing by Numbers）
+> [!def] Governing by Numbers
 > 数字治理（Governing by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 奠基，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]进一步提出“数字治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
 
 > [!concept-lens] 概念透镜

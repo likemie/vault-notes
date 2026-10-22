@@ -60,7 +60,7 @@ created: 2026-08-25
 updated: 2026-10-22
 ---
 
-> [!def] 概念图（Concept Mapping）
+> [!def] Concept Mapping
 > 概念图（Concept Mapping）是指由约瑟夫·诺瓦克（Joseph Novak）基于奥苏贝尔（David Ausubel）有意义学习理论开发的高结构化空间语义网络表征与评价工具。概念图由置于方框或圆圈中的概念节点（Concept Nodes）、指示方向的连接线（Directed Links）、标明概念间语义关系的命题连接词（Linking Words / Phrases）以及跨越不同知识分支的横向交叉连接（Cross-links）构成。两个概念节点与连接词共同构成一个完整可验证真伪的命题（Proposition），用于系统外显化复杂领域知识的层级包含结构与深层网状语义模型。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–10)]]; Novak and Gowin (1984)
 
 > [!concept-lens] 概念透镜

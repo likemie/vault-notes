@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 参与式意义建构（Participatory Sense-Making）
+> [!def] Participatory Sense-Making
 > 参与式意义建构（Participatory Sense-Making，亦称生成主体间性，Enactive Intersubjectivity）由身体[[Phenomenology|现象学]]家[[Thomas Fuchs|托马斯·福克斯]]（[[Thomas Fuchs]]）与认知哲学家汉娜·德耶格尔（Hanne De Jaegher）于 2009 年共同提出。该理论立足 4E 具身认知科学（Embodied, Embedded, Enacted, Extended）与身体现象学，主张人类主体间的沟通、理解与意义创生源于具身行动者在面对面的实时社会交互中，通过身体动作、目光、声调与姿态的动力学协调与相互具身（Mutual Incorporation），共同生成、维系并调节意义的自组织[[Emergence|涌现]]过程，突破了彼此孤立大脑内部的心智计算模型。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]
 
 > [!concept-lens] 概念透镜

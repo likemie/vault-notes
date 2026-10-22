@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育神经科学（Educational Neuroscience）
+> [!def] Educational Neuroscience
 > 教育神经科学（Educational Neuroscience，又称“基于脑的教育”或“脑科学教育”）是将神经科学发现应用于教育实践的跨学科领域。它涵盖了神经生物学、认知神经科学、行为神经科学、认知心理学等多个[[Comparative Education as a Cross-Sectional Area|交叉学科]]，主张通过探明大脑的学习机制来为教育实践提供科学指导。
 
 > [!concept-lens] 跨学科视角

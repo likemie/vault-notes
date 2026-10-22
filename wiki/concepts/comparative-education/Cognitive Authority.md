@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认知权威（Cognitive Authority）
+> [!def] Cognitive Authority
 > 认知权威（Cognitive Authority）是指国际组织或跨国专业机构在缺乏主权立法权与硬性法律强制制裁手段的前提下，凭借技术官僚的专业特长、去政治化的理性声誉、自主科研产出与标准化数据度量，被各主权国家和政策行动者公认为界定政策问题、解释现实因果关系并提供决策咨询的合法权威形态。该构念在跨国治理中包含两大代表性实践形态：其一是经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD）依托国际学生评估项目（Programme for International Student Assessment, PISA）等数据生产与声誉评价引导国内政策的软治理模式（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, p. 270]]）；其二是世界银行（World Bank）依托实体科研建制、指标标准化与信贷干预传播重塑发展模型的知识银行模式（[[Argument_Zapp_2017_IJED|Zapp, 2017, pp. 2–5, 9–10]]）。
 
 > [!concept-lens] 概念透镜

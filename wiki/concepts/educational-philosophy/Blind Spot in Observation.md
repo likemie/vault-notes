@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 观察盲点（Blind Spot in Observation）
+> [!def] Blind Spot in Observation
 > **观察盲点（Blind Spot / blinder Fleck）** 是[[Luhmann's Systems Theory|社会系统理论]]家[[Niklas Luhmann|尼克拉斯·卢曼]]（[[Niklas Luhmann]]）基于二阶控制论与区分逻辑（Spencer-Brown, 1969; von Foerster, 1981）确立的核心[[Epistemology|认识论]]概念：任何观察活动（Observation）本质上都是对某种二元区分（Distinction）的操作与指称；观察者在借助特定区分将焦点投向某一对象时，必然无法在同一时刻看见自身赖以进行观看的区分机制本身。视见的先决条件恰恰是建立了“看”与“不看”的界分，因而所有观察均以不可自见的盲点为构成性前提（Luhmann, 1997, 1998; [[Argument_Larsen_2019_EducSci|Larsen, 2019, p. 10]]）。在教育哲学与政策研究中，该概念用于解构将实证指标绝对化的眼球中心主义与超积极可见性意识形态。
 
 > [!concept-lens] 概念透镜

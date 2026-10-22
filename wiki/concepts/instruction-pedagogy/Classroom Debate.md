@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 课堂辩论（Classroom Debate）
+> [!def] Classroom Debate
 > 课堂辩论（Classroom Debate）是一种具有高度结构化规则的[[Dialogue in Education\|对话教学]]策略。教师围绕具有争议性的真实议题分配正反双方立场，要求学生在明确的立论、交叉质询、反驳与总结陈词规则约束下，搜集实证证据、重构逻辑论证并接受对手质询，从而促进对复杂议题的多元理解与[[Critical Thinking\|批判性思维]]发展。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
 
 > [!concept-lens] 概念透镜

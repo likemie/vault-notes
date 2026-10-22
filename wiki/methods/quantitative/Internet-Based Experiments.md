@@ -49,7 +49,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-> [!def] 网络实验（Internet-Based Experiments）
+> [!def] Internet-Based Experiments
 > 网络实验（Internet-Based Experiments）是通过互联网远程进行的[[Experimental Research\|实验研究]]，利用网页、电子邮件或聊天室等平台向参与者呈现刺激材料和收集反应数据（Reips, 2002a, 2002b; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 
 > [!method-scope] 方法范围

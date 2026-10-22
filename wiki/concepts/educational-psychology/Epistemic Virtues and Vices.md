@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论美德与恶习（Epistemic Virtues and Vices）
+> [!def] Epistemic Virtues and Vices
 > 理智美德与理智恶习（Epistemic Virtues and Vices / Intellectual Virtues and Vices）是指认识主体在求知、探究与信念形成过程中，促进或阻碍其实现获取真理、增进知识与达成深层理解等[[Epistemic Aims|认识目标]]的稳定性格倾向与理智品格特质。典型的理智美德包括[[Open-Mindedness|思想开放]]、理智诚实、理智[[Humility|谦逊]]、理智勇气以及理智[[Creativity|创造力]]；典型的理智恶习则包括思想封闭、理智傲慢、理智怠惰、教条主义与诡辩倾向。在[[Virtue Epistemology|美德认识论]]责任论（Responsibilism）视角下，理智美德具有内在的双重结构：它不仅包含熟练操作特定认知程序的能力构件（智力技能），更必须包含对真理与理解等认知善品（Epistemic Goods）真诚热爱的动机成分。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, pp. 142, 156)]]; [[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 272–274)]]
 
 > [!concept-lens] 概念透镜

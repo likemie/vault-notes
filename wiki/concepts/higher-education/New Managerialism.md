@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育新管理主义（New Managerialism）
+> [!def] New Managerialism
 > 新管理主义（New Managerialism）是指伴随新自由主义公共部门改革，将私营企业的市场竞争逻辑、企业化科层管控、绩效量化指标与契约化问责体系全盘移植到教育机构（特别是高等教育系统）中的治理模式。该模式将大学与中小学重塑为自负盈亏的法人实体，将学者与教师重构为绩效合约的执行雇员，将学生定位为教育消费者。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 
 > [!concept-lens] 概念透镜

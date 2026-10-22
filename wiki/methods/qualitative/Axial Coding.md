@@ -64,7 +64,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 主轴编码（Axial Coding）
+> [!def] Axial Coding
 > **主轴编码（Axial Coding，又称轴心编码、枢轴编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的核心分析阶梯之一：在初级[[Open Coding\|开放编码]]将原始文本细化切片并确立概念属性与维度连续统之后，围绕一个轴心范畴（axis category）重新拼装和组织碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106；Flick, 2009, pp. 305–332；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 561–562]]）。主轴编码将开放编码生成的静态范畴转化为包含因果条件、情境脉络、中介条件、[[Central Phenomenon\|核心现象]]、行动互动策略与实质结果的动态关系模型，是通往[[Selective Coding\|选择性编码]]和提炼统摄性核心理论的决定性枢纽。
 
 > [!method-scope] 方法范围

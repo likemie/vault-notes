@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 新专业主义（New Professionalism）
+> [!def] New Professionalism
 > 新专业主义（New Professionalism）是描述晚期现代高等教育体系重构的一个批判性概念。它指的是大学传统的、基于专业信任和学术伦理纽带的学术自律与职业承诺（professional commitment），被高度官僚化、标准化且强调外部绩效审计与问责的准契约关系（quasi-contractual relations）所系统性取代的制度现象（[[Argument_Cowen_2009_CE\|Cowen, 2009b, pp. 321–322]]）。
 
 > [!concept-lens] 概念透镜

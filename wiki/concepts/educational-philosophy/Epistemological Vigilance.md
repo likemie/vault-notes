@@ -79,7 +79,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论警觉（Epistemological Vigilance）
+> [!def] Epistemological Vigilance
 > [[Epistemology\|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production\|知识生产]]、信息接收与[[Man-Computer Symbiosis|人机协同]]交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method\|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与教育人工智能中，它体现为学习者抵御生成式算法误导、维持“[[Epistemic Friction\|认识论摩擦]]”以防范有害[[Cognitive Offloading\|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜

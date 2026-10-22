@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 生存境遇编码（Codification）
+> [!def] Codification
 > **编码（Codification）** 在保罗·[[Paulo Freire\|弗莱雷]][[Critical Pedagogy\|批判教育学]]中是指一种将日常生存现实符号化、对象化的中介教学手段。文化调查小组在提取出[[Generative Themes\|生成性主题]]后，会将受压迫者切身经历的社会矛盾（如水资源匮乏、低薪劳动、住房恶劣）绘制或拍摄为视觉幻灯片、照片、漫画或简短文本编码。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 53 注脚61)]]
 
 > [!concept-lens] 概念透镜

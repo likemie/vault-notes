@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 综联学（Synectics）
+> [!def] Synectics
 > 综联学（Synectics），中文学术界又常译为提喻法、分合法或戈登技术，是由美国[[Creativity\|创造力]]学者威廉·J·J·戈登（William J. J. Gordon, 1961）与乔治·普林斯（George M. Prince, 1970）共同创立的系统性创造力激发理论与[[Structured Teaching\|结构化教学]]法。其词源来自希腊语 *synectikos*，原意为“将看似无关的异质元素联结在一起”。该方法主张创造力的本质在于非理性情感隐喻与理性逻辑建构的动态整合，确立了“**使陌生变得熟悉（Make the strange familiar）**”与“**使熟悉变得陌生（Make the familiar strange）**”两大[[Metacognition\|元认知]]对偶原则，并通过直接类比（Direct Analogy）、拟人类比（Personal Analogy）、象征类比（Symbolic Analogy / Compressed Conflict）与幻想类比（Fantasy Analogy）四大外显操作支架，强迫认知系统跨越知识范畴边界建立深层隐喻桥梁。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]; Gordon (1961); Prince (1970)
 
 > [!concept-lens] 概念透镜

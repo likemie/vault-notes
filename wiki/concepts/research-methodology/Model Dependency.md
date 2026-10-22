@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 模型依赖性（Model Dependency）
+> [!def] Model Dependency
 > 模型依赖性（Model Dependency，亦称模型敏感性或形式设定依赖）指在同一批经验观测数据上，由于统计分析者所选取的底层数学建模假定（如协[[Variable\|变量]]纳入规则、群聚结构校正方式、[[Fixed-Effect Model|固定效应]]与[[Random-Effects Model|随机效应]]设定）不同，导致干预因果[[Effect Size\|效应量]]的点估计值、[[Confidence Interval\|置信区间]]宽度及统计学显著性（$p$ 值）发生大幅漂移乃至定性翻转的现象（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 52]]）。该概念揭示了即便数据采集真实无欺，实证结论仍高度脆弱地依附于分析者主观模型设定的方法学困境（Xiao, Higgins, & Kasim, 2016）。
 
 > [!concept-lens] 概念透镜

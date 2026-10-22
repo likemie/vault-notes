@@ -34,7 +34,7 @@ created: 2026-07-11
 updated: 2026-10-20
 ---
 
-> [!def] 田野笔记（Field Notes）
+> [!def] Field Notes
 > 田野笔记是研究者在观察现场或观察后尽快记录的文字材料，涵盖观察到的行为、对话、非语言线索、环境特征以及研究者自身的反应和初步分析。它是参与式观察和[[Non-participant Observation\|非参与式观察]]的核心数据载体，也是[[Case Study\|个案研究]]和[[Ethnography\|民族志研究]]的基础材料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 295–296)]]
 
 > [!method-scope] 方法范围

@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 程序性知识（Procedural Knowledge）
+> [!def] Procedural Knowledge
 > 程序性知识（Procedural Knowledge，通常对应“知道如何做”或“knowing how”）是指个体在心智中表征的关于执行特定动作序列、运用技能、遵循操作规程及运算算法的知识体系。在认知心理学与学习科学架构中，程序性知识以“条件-行动”的产生式规则（production rules）形式储存，经由反复练习从陈述性表征编译为自动化操作；而在[[Women's Ways of Knowing\|女性认知方式]]等[[Epistemology\|认识论]]发展模型中，程序性认知特指个体超越主观直觉、系统借助客观方法或共情规程进行证据确证与知识评估的高阶阶段。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
 
 > [!concept-lens] 概念透镜

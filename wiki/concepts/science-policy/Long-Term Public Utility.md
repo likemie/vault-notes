@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 长期公共效用（Long-Term Public Utility）
+> [!def] Long-Term Public Utility
 > 长期公共效用（Long-Term Public Utility）是[[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti）、托卢·奥杜莫苏（Tolu Odumosu）与李·文塞尔（Lee Vinsel）在批判战后科技政策时提出的国家公共研发资助最高准绳。该概念主张，联邦政府财政介入科研活动的正当性标准，应彻底从“项目立项时自述的研究动机是纯科学还是应用技术”，转向“该项研究是否在数十年的宏观时间尺度上服务于国家长远的公共战略福祉，并致力于化解阻碍[[Innovation Ecosystem|创新生态]]顺畅运转的底层瓶颈”。只要具备明确的长远公共效用，无论是近期输出表现为新规律（发现）还是新装备与制造工艺（发明），均享有平等的公共财政全额支持资格。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 > [!concept-lens] 概念透镜

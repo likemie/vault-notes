@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 范例学习（Paradigmatic Learning）
+> [!def] Paradigmatic Learning
 > 范例学习（Paradigmatic Learning）是一种以共同核心和深度范例组织学科内容的课程取舍原则。共同核心提供必要事实、基本概念与整体学科地图，范例则选择最能呈现学科问题、证据和解释方式的对象进行持续研究。课程主动放弃完整覆盖，使有限时间用于学习如何在该学科中思考、想象和判断。[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的早期学科大纲用概略共同核心和多个深度选项落实这一原则。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
 
 > [!concept-lens] 内容选择、学习目标与课程条件

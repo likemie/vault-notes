@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 经合组织化（OECD-fication）
+> [!def] OECD-fication
 > **经合组织化（OECD-fication）** 是指原本作为战后国际经济协调与多边咨询机构的[[OECD|经济合作与发展组织]]（OECD），在缺乏主权国家法定行政强制权、司法裁判权与直接财政制裁手段的情形下，依托跨国大规模标准化测评（如 [[PISA]]、[[Teaching and Learning International Survey|TALIS]]、[[Programme for the International Assessment of Adult Competencies|PIAAC]]）与以硬事实施展软治理的技术，将原本属于民族国家主权专属管辖的公共教育系统，重塑为服务于全球[[Knowledge-Based Economy|知识经济]]与人力资本积累的国际对标议程；进而驱动各国国内教育目标、素养构念、质量监测与行政问责机制，向经合组织所推崇的经济功利主义导向与产出控制范式实质趋同的宏观制度变迁过程。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 278)]]
 
 > [!concept-lens] 概念透镜

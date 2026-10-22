@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 标准误（Standard Error）
+> [!def] Standard Error
 > 标准误（Standard Error, SE）是样本统计量（如均值、比例、回归系数、标准化均数差[[Effect Size|效应量]]）在理论[[Sampling Error|抽样分布]]上的标准差，度量样本估计值围绕总体真实参数的理论变异离散程度。它是[[Central Limit Theorem|中心极限定理]]的直接推论，量化了从样本推断总体时的[[Random Sampling|随机抽样]]不确定性幅度。SE 是构建[[Confidence Interval|置信区间]]（$CI = \text{点估计} \pm Z \times SE$）、执行假设检验以及[[Meta-analysis|元分析]][[Inverse-Variance Weighting|逆方差加权]]（$w = 1/SE^2$）的核心数理基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 150–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25–27)]]
 
 > [!method-scope] 方法范围

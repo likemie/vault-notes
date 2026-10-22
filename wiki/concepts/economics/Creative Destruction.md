@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创造性破坏（Creative Destruction）
+> [!def] Creative Destruction
 > [[Creativity|创造性]]破坏（Creative Destruction）是[[Evolutionary Economics|演化经济学]]与[[Joseph Schumpeter|熊彼特]]创新理论的核心概念，指企业与企业家通过引入根本性创新（激进产品、新工艺、新原材料、新组织方式与新市场），从资本主义系统内部不断摧毁陈旧的经济结构与既有[[Technological Trajectories|技术轨道]]，并持续创造全新生产函数与产业生态的内生产业突变过程；它不仅导致陈旧产业与生产线实物资产的迅速贬值，更引发既有劳动技能、职业分工乃至宏观社会规制结构的系统性震荡。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 
 > [!concept-lens] 概念透镜

@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 非对称人才循环（Asymmetric Brain Circulation）
+> [!def] Asymmetric Brain Circulation
 > **非对称人才循环（Asymmetric Brain Circulation）** 是指在一个国家或地区的科学系统中，高水平学者和科研人才的国际流动呈现出结构性失衡与非对等特征。具体表现为高端核心人才持续净流出至世界科学强国，而流入的引智人才在数量上虽能弥补流失，但在学术水平和研究质量上却主要局限于相对落后的地区，导致科学系统整体呈现学术[[Competitiveness|竞争力]]退化的风险。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 41]])
 
 > [!concept-lens] 概念透镜

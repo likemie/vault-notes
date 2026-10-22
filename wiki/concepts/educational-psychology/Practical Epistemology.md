@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 实践[[Epistemology|认识论]]（Practical Epistemology）是指学生在学校科学探究过程中，实际应用于自身科学[[Knowledge Building Theory|知识建构]]与评估的认识论观念与微观[[Discourse|话语]]规程。
 
-> [!def] 实践认识论（Practical Epistemology）
+> [!def] Practical Epistemology
 > 实践认识论指学生在进行具体科学探究（如实验操作、数据收集与论证构建）时，指导其做出认识论决策的隐性观念与原生活动规程。它直接决定了学生在行动中将何者视为有效数据、如何评估主张与证据的契合度。实践认识论与学生在[[Questionnaire\|问卷调查]]中针对专业科学家所表达的[[Formal Epistemology\|形式认识论]]（Formal Epistemology）存在显著分离，深嵌于微观活动情境之中，并可通过语言游戏中的立足点（stand fast）、意义裂隙（gaps）与关系搭建进行微观[[Discourse Analysis\|话语分析]]。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 635)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 > [!concept-lens] 概念透镜

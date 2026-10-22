@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 批判话语分析（Critical Discourse Analysis）
+> [!def] Critical Discourse Analysis
 > 批判[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, CDA，近年亦称批判话语研究 Critical Discourse Studies, CDS）是一种将语言与符号活动视为社会实践形式的批判性[[Qualitative Research|质性研究]]方法。该方法主张语言使用与话语表征深受权力关系、意识形态与社会结构的塑造，并持续反作用于社会现实的建构与再生产；其核心目标在于穿透文本表层的良性修辞，阐明话语在合法化不平等、维持社会霸权以及推行特定政策议程中的深层机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
 
 > [!method-scope] 方法范围

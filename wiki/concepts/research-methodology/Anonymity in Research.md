@@ -34,7 +34,7 @@ created: 2026-06-18
 updated: 2026-10-22
 ---
 
-> [!def] 研究匿名（Anonymity in Research）
+> [!def] Anonymity in Research
 > 研究匿名的本质是参与者提供的信息绝不应以任何方式揭示其身份（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, p. 100]]）。当研究者或任何其他人无法从所提供的信息中识别参与者时，该参与者即被视为匿名的。例如，一份只包含编号而不包含姓名的[[Questionnaire\|问卷]]即确保了完全匿名。
 
 > [!concept-lens] 概念透镜

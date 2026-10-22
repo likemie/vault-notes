@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 十二年级滑坡（Twelfth-Grade Slump）
+> [!def] Twelfth-Grade Slump
 > 十二年级滑坡（Twelfth-Grade Slump）指高中生已完成毕业所需学分、大学入学筛选又不能通过最后一年课程投入明显改善时，在等待进入大学期间出现的智识投入下降。它描述的是高中毕业要求、大学招生和高年级课程之间的制度性激励断裂，不是对个别学生懒惰的性格判断。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 135–136)]]
 
 > [!concept-lens] 概念透镜

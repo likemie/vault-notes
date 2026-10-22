@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 制度置换（Institutional Displacement）
+> [!def] Institutional Displacement
 > [[Historical Institutionalism|历史制度主义]]中解释制度变迁的核心机制之一；指既有制度规则被彻底废除或边缘化，并由一套全新的规则体系取而代之的过程。它既表现为激进革命或外部危机冲击下的突发性直接替代，也可表现为一个长期、平缓的演进过程——即新制度在旧制度旁设立并展开竞争，随着越来越多行动者背叛旧规则转向新规则，新体制最终累积吞噬并完全取代旧体制。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16)]]
 
 > [!concept-lens] 概念透镜

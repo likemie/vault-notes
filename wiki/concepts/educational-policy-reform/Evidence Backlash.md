@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据反弹（Evidence Backlash）
+> [!def] Evidence Backlash
 > 证据反弹（Evidence Backlash）是指在后真相与社交网络极化环境中，当公众或特定利益群体遭遇与自身既有信念、政治立场或文化认同相冲突的实证研究证据时，不仅拒绝接受该证据，反而激发出更强烈的心理防卫与对“专家群体”及“科学过程”本身的激进贬低、质疑甚至仇视的[[Epistemology\|认识论]]现象。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]引述 Lewandowsky et al.（2017）的诊断，指出证据反弹彻底粉碎了古典循证运动“只要提供严谨数据即可导向理性决策”的理想化假定。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])
 
 > [!concept-lens] 概念透镜

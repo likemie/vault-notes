@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 比较教育的航海隐喻（Navigation Metaphor in Comparative Education）
+> [!def] Navigation Metaphor in Comparative Education
 > **比较教育的航海隐喻（Navigation Metaphor in Comparative Education）** 是指将比较教育研究定位为向政策制定者提供多重备选策略与行动后果预测的知识罗盘，研究者自身恪守学术中立与超然界限，绝不直接越俎代庖替决策者掌舵决策。该隐喻由英国比较教育学家约瑟夫·劳威斯（[[Joseph Lauwerys]]）于 1958 年提出，并在[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）2009 年的学科史考察中被确立为比较教育政策咨询功能光谱中的克制与自主一极。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 
 > [!concept-lens] 概念透镜

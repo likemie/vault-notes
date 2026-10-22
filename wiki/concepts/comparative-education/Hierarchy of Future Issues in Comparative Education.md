@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 比较教育未来议题层级（Hierarchy of Future Issues in Comparative Education）
+> [!def] Hierarchy of Future Issues in Comparative Education
 > 比较教育未来议题层级（Hierarchy of Future Issues in Comparative Education）是学科元研究与议程分析概念，由 [[Robert Cowen]] 于 2023 年提出。它将比较教育学科所关注的研究对象与主题划分为五个递进的智识层级：常规谜题（学校系统运转与常规改革）、热门主题（高产且持续升温的理论热点）、突破性主题（直穿未来的新兴变革力量）、冷门主题与重大沉默（面对战争、革命、帝国等大剧变的集体失声），以及最高维度的[[Readings of the Global\|全球解读]]（[[Geopolitics|地缘政治]]与经济大叙事变迁）。这一框架旨在揭示比较教育如何选择性分配其智识注意力，并批判其因过度沉溺于技术官僚常规业务而丧失前瞻解释力的局限。([[Argument_Cowen_2023_CE\|Cowen, 2023, pp. 329–331]])
 
 > [!concept-lens] 概念透镜

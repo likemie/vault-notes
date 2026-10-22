@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 习得性无助（Learned Helplessness）
+> [!def] Learned Helplessness
 > **习得性无助（Learned Helplessness）** 是指学习者在面对学业挑战、挫折阻碍或过度依赖技术代劳情境时，因主观认定自身匮乏克服困难的能力且该能力无法通过后天努力改变，进而产生的系统性放弃努力、认知退缩与情绪低落的适应不良行为模式。与坚信能力可塑并持续探索策略的掌握导向（Mastery Orientation）相对立，传统习得性无助者表现出低自尊、对失败的深度恐惧以及耐挫力崩塌（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 58–59]]; [[Argument_Lodewyk_2007_EducPsych|Lodewyk, 2007, p. 310]]）；在[[Generative Artificial Intelligence|生成式人工智能]]时代，该机制进一步延伸为**技术性习得性无助与自加[[Reliability|信度]]赤字（Self-Imposed Credibility Deficit）**——学习者因习惯将高阶构思与论证外包给算法，产生自我贬抑与虚假心智无能感，主动认定自己无法独立胜任[[Knowledge Production|知识生产]]，阻断自身求知能力的健康发育。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜

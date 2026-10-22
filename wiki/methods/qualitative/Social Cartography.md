@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 社会制图学（Social Cartography）
+> [!def] Social Cartography
 > **社会制图学（Social Cartography）** 是由美国比较教育学家[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston, 1997, 2000）在 1990 年代首创的质性与视觉认知分析方法。该方法深受后现代哲学空间转向（Spatial Turn）与保罗·吉尔罗伊（Paul Gilroy, 1993）“黑色大西洋”（Black Atlantic）等社会文化空间思想启发，主张将教育理论流派、政策[[Discourse|话语]]争鸣与跨国借用实践视作非线性的多维拓扑[[Champ|场域]]；通过绘制具有空间隐喻的“认知地图”（Cognitive Maps）与“差异社会制图”（Social Cartography of Difference），打破以欧洲[[Enlightenment|启蒙运动]]为代表的线性时间进步史观与[[Positivism|实证主义]]单一真理霸权，直观呈现不同学术阵营的立场位置、边界重叠与张力距离，进而为透视教育[[Policy Mobility|政策流动]]、空间区隔及被边缘化群体的空间[[Governmentality|治理术]]提供启发性工具。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–361)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 
 > [!method-scope] 方法范围

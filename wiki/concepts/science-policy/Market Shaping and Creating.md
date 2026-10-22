@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 市场塑造与市场共创（Market Shaping and Creating）
+> [!def] Market Shaping and Creating
 > **市场塑造与市场共创（Market Shaping and Creating）** 是指一种主张国家与公共机构不仅是被动的规则制定者或事后市场修复者（Market Fixer），而是积极承担早期极高技术与财务风险、通过设定公共议程、前沿研发投入、需求侧战略采购、规制重塑与[[Policy Conditionalities|制度化附加条件]]（Conditionalities）主动构筑并共同创造全新市场与技术形态的[[Innovation Policy Paradigms|创新政策范式]]。该[[Paradigm|范式]]突破了新古典经济学仅在外部性、公共品或信息不对称等[[Market Failure|市场失灵]]出现时才允许国家介入的静态边界，强调通过创造具有变革性的[[Public Value|公共价值]]（Public Value）与培育[[Public Dynamic Capabilities|公共动态能力]]，主动引领经济增长与社会技术转型方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
 
 > [!concept-lens] 概念透镜

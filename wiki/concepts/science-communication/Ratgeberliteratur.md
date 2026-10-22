@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 教学指南文献（德文：Ratgeberliteratur；英文：Teacher Advice Literature）是指由商业教育出版社或专业机构面向基础教育在岗教师与职前师范生发行的教学实用指南、备课手册、班级管理策略读本以及实践导向的行业期刊。
 
-> [!def] 教学指南文献（Ratgeberliteratur）
+> [!def] Ratgeberliteratur
 > 教学指南文献（Ratgeberliteratur）构成了一线教师日常职业实践中最频繁接触的非正式外部专业知识载体。该类文献通常由资深一线教师或培训讲师执笔，以解决明日课堂具体痛点为导向，语言通俗且排版高度视觉化；但由于绝大多数出版物未经过严格的学术同行评议与实证检验，其在提供实用备课灵感的同时，客观上构成了[[Neuromyth|教育神经神话]]（如[[Learning Styles\|学习风格假说]]）与未经检验经验在学校体系中固化蔓延的核心渠道。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 254–255)]]
 
 > [!concept-lens] 概念透镜

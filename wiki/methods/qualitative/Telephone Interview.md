@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 电话访谈（Telephone Interview）
+> [!def] Telephone Interview
 > 电话访谈（Telephone Interview）是通过电话进行的访谈数据收集方法，在[[Survey Research\|调查研究]]中被长期使用。其与面对面访谈的核心区别在于双方均被剥夺了多个沟通渠道（如非语言信息），且通常比面对面访谈更短——受访者通常只愿意在电话上交谈最多 15 分钟（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 471–476]]）。
 
 > [!method-scope] 方法范围

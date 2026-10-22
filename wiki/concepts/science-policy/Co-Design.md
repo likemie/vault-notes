@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 协同设计（Co-Design）
+> [!def] Co-Design
 > **协同设计（Co-Design）** 指在微电子及复杂工程系统的研发全生命周期中，打破传统层级隔离与单向传递的设计流水线，将材料特性、物理模型、器件结构、制造工艺、异构封装、电路拓扑、算法体系及终端应用需求进行全栈双向贯通与同步联合优化的研发[[Paradigm|范式]]。在半导体技术领域，协同设计具体涵盖设计—技术协同优化（Design-Technology Co-Optimization, DTCO）与系统—技术协同优化（System-Technology Co-Optimization, STCO），通过在设计初期同步考量可制造性、热耗散极限、辐射耐受性、物理安全性与全生命周期能效，实现系统级指标的最优权衡。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 13–16, 18–20)]]
 
 > [!concept-lens] 概念透镜

@@ -120,7 +120,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 效应量（Effect Size）
+> [!def] Effect Size
 > 效应量（Effect Size）是量化干预措施效果或[[Variable|变量]]关联强度的标准化统计指标，最常用计算形式为干预组与对照组（或前[[Pre-test and Post-test|后测]]）结果均值差异除以合并标准差，旨在消除不同测验量表的原始单位差异，使不同研究的经验结果具备可比性。效应量是[[Meta-analysis|元分析]]的核心[[Unit of Analysis|分析单位]]，由 [[Gene Glass]]（1976）系统确立为跨研究证据合成的标准化工具，并在 [[John Hattie]] 的《[[Visible Learning|可见的学习]]》（2009）与英国[[Education Endowment Foundation|教育捐赠基金会]]的《[[EEF Teaching and Learning Toolkit|教学与学习工具包]]》中，被广泛用于教育干预排位与循证政策决策。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 36–37)]]; [[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 118)]]
 
 > [!method-scope] 方法范围

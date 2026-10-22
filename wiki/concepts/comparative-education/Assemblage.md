@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 组装（Assemblage）
+> [!def] Assemblage
 > 组装（Assemblage，法文 agencement）是由[[Heterogeneity\|异质性]]（人类与非人类、物质与符号）要素在持续关联中协同运作而生成的社会-物质构型。该概念将制度与秩序界定为通过转译、编码与耐用材料具身化过程而临时维系边界的动态网络效果；这种构型具有一定的稳定性但始终存在内在缝隙，并在特定行动者发生位移或断裂时暴露出建构本质（Fenwick & Edwards, 2010, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–2]]）。
 
 > [!concept-lens] 概念透镜

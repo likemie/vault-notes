@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 规模扩充（Scale Enlargement）
+> [!def] Scale Enlargement
 > 规模扩充（Scale Enlargement，荷文：*Schaalvergroting*），指在高等教育去规制化与公共治理转型背景下，政府通过设定政策激励与自愿协商机制，推动大量分散、微型、单科性院校跨越阵营与学科边界开展横向合并，重组为具备多学科综合架构与战略自律能力的规模化高等学府的制度变革过程。这一过程构成了基层院校承接整笔[[Block Grants|总额预算]]与践行[[Strategic Autonomy|战略自主]]治理能力的组织前提。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 145–146)]]
 
 > [!concept-lens] 概念透镜

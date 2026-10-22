@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 公共部门动态能力（Public Dynamic Capabilities）
+> [!def] Public Dynamic Capabilities
 > **公共部门动态能力（Public Sector Dynamic Capabilities / Public Dynamic Capabilities）** 是指公共机构（包括政府部门、国家战略资助机构、公立大学与科研管理部门）在直面高度技术与社会不确定性时，主动识别宏观战略转型方向、调动跨部门协同资源、开展敏捷实验与风险组合管理，并在持续试错中实现制度化吸收与组织学习（Institutional Learning）的系统性组织能力。该概念由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统提出，旨在打破[[New Public Management|新公共管理]]（New Public Management, NPM）将政府仅视为被动采购者与外包监管者的局限，确立公共部门作为创新第一推动者与[[Market Shaping and Creating|市场共创]]者的能力底座。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
 
 > [!concept-lens] 概念透镜

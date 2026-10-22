@@ -55,7 +55,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-> [!def] 互联网调查（Internet-based Survey）
+> [!def] Internet-based Survey
 > 互联网调查（Internet-based Survey）是通过互联网进行数据收集的调查方式。其形态从电子邮件发展为电子邮件附带[[Questionnaire\|问卷]]附件，再到电子邮件引导受访者访问网站，或直接使用网站。电子邮件调查往往比网站调查获得更高回应，但网站调查有触及更多参与者的潜力（p.290）。
 
 > [!method-scope] 方法范围

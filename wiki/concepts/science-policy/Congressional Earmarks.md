@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国会专项拨款（Congressional Earmarks）
+> [!def] Congressional Earmarks
 > **国会专项拨款（Congressional Earmarks，亦称 Academic Earmarks）** 是指美国国会众议院和参议院议员利用预算法案审议特权，在未经过联邦科研机构公开招标或同行评议竞争程序的情况下，直接在最终拨款法案中指令性列支、专门划拨给其本州或本选区特定高校或产学联合实体的定向科研资金（通常用于建设新建研究大楼、采购专用大型科研仪器或设立特定产业技术攻关中心）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 
 > [!concept-lens] 概念透镜

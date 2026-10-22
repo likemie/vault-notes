@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 比较教育作为交叉领域（Comparative Education as a Cross-Sectional Area）
+> [!def] Comparative Education as a Cross-Sectional Area
 > **比较教育作为交叉领域（Comparative Education as a Cross-Sectional Area / Querschnittsbereich）** 是指将比较教育界定为牢固依附于母体学科[[Allgemeine Pädagogik|普通教育学]]（德文：Allgemeine Pädagogik），同时向历史学、社会学与政治学等邻近学科全方位开放的横截面知识建制形态。该概念由德国比较教育学家[[Oskar Anweiler|奥斯卡·安维勒]]（Oskar Anweiler）于 1967 年提出，并在[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）2009 年的学科史考察中被确立为欧陆比较教育学调和规范育人关怀与跨学科实证解释力的核心建制[[Paradigm|范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜

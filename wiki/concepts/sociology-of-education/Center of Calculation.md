@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 计算中心（Center of Calculation）
+> [!def] Center of Calculation
 > 计算中心（Center of Calculation，法文 centres de calcul），亦称算计中心或运算中心，是[[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour）在[[Actor-Network Theory\|行动者网络理论]]（Actor-Network Theory, ANT）中提出的核心概念，后被政治社会学（Rose, 1999）与批判性教育治理研究（Gorur, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）广泛采纳。它指代这样一种特定的制度化空间节点或组织机构：其核心功能在于将分散在遥远时空、充满[[Heterogeneity\|异质性]]的复杂现实对象（如不同地区和学校的教学、学生的实际学业水平），通过测量、编码与标准化程序转译为流动、稳定且可组合的标准化数据表征（immutable and combinable mobiles / inscriptions）；这些数据在中心节点被集中汇聚、分类统计、模型推演并二次计算，从而生产出具备全域可比性与行动指导力的治理知识，使中心得以在缺乏直接物理在场与行政强制的情况下实现远距离治理（Latour, 1987; Rose, 1999; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–138]]）。
 
 > [!concept-lens] 概念透镜

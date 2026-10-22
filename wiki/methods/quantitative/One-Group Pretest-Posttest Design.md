@@ -33,7 +33,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-> [!def] 单组前测后测设计（One-Group Pretest-Posttest Design）
+> [!def] One-Group Pretest-Posttest Design
 > 单组前后测设计（One-Group Pretest-Posttest Design）是最简单的[[Pre-Experimental Designs\|前实验设计]]：仅对**单一组**参与者进行前测（O₁）、施加干预（X）、再进行后测（O₂），将 O₁−O₂ 的差异归因于干预。该设计无控制组、无[[Random Assignment\|随机分配]]，Campbell and Stanley (1963) 将其列为展示混淆[[Variable\|变量]]危及[[Internal Validity\|内部效度]]的"坏例子"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 326–327]]）。
 
 > [!method-scope] 方法范围

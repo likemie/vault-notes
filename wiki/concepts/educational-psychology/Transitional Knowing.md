@@ -26,7 +26,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 过渡认知（Transitional Knowing）
+> [!def] Transitional Knowing
 > 过渡认知（Transitional Knowing）是 Baxter Magolda (1992) 模型中的第二阶段。个体开始认识到权威并非全知全能，接受了部分知识存在不确定性。但他们往往认为这只是暂时的，期望未来总会找到确定答案。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 99)]]
 
 > [!concept-lens] 概念透镜

@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 样本量确定（Sample Size Determination）
+> [!def] Sample Size Determination
 > **样本量确定（Sample Size Determination）** 是指在实证研究设计阶段，研究者依据[[Research Purpose|研究目的]]、总体规模与[[Heterogeneity|异质性]]、期望统计功效（Power, $1-\beta$）、名义显著性水平（$\alpha$）、容许误差界线（[[Confidence Interval|margin of error]]）以及具体统计模型要求，科学测算并规划所需观测案例规模（学生个体、教师、学校或集群）的量化决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 143–145)]]
 >
 > 在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，受试样本量（$N$ 或 $n$）不仅是计算[[Effect Size|效应量]]精度与逆方差权重（$w_i = 1/v_i$）的数学输入，更是[[Metascience|元科学]]质量审计中核验底层文献数据提取可复现性的生命线。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]

@@ -77,7 +77,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 在做中学（Learning by Doing）
+> [!def] Learning by Doing
 > **在做中学（Learning by Doing）**，在经济学与产业政策文献中常称**干中学**，是指认知主体、产业组织或公共治理系统通过投身真实实践操作、持续试错排障与经验累积，从而内生性获取、提炼并改进深层知识与治理能力的动态学习机制。在 **[[Progressive Education|进步主义教育]]哲学**中，[[John Dewey|约翰·杜威]]（John Dewey）将其确立为打破[[Rote Learning|死记硬背]]、通过真实任务建构行动性理解与[[Critical Thinking|批判性思维]]的核心教学法；[[Argument_Darwish_2009_Queens|(Dewey, 1961; 引自 Darwish, 2009, p. 35)]] 在**产业组织与创新经济学**视角下，干中学表现为随着累积产出规模的扩大，制造良率逐步提升且单位生产成本持续以几何级数下降的[[Learning Economy|学习曲线效应]]，构成了政府通过前期采购或研发补贴分摊沉没风险、帮助新兴产业跨越早期高成本门槛的核心经济学理论辩护；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 102)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]] 在**现代产业战略治理**视角下，干中学表现为公共部门在政策落地执行中敏捷吸收产业反馈、动态推行规制改革与自适应纠偏的关键过程准则。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 14)]]
 
 > [!concept-lens] 概念透镜

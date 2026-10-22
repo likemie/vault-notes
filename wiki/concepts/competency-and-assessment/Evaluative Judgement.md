@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 评价性判断（Evaluative Judgement）
+> [!def] Evaluative Judgement
 > 评价性判断（Evaluative Judgement）是指**学习者理解何为良好工作的质量标准，并能够对自己以及他人的学术成果或实践表现做出审慎、明智评价决策的能力**。由乔安娜·戴（Joanna Tai）与戴维·鲍德（David Boud）等人于 2018 年系统界定，该[[Construct\|构念]]强调评价不仅是教师的单向外部打分，更是学习者在离开正规教育后持续开展[[Learner Autonomy\|自主学习]]与专业实践不可或缺的元能力。在[[Man-Computer Symbiosis|人机共生]]学习中，评价性判断被确立为不可让渡给人工智能算法的核心认识底线。Tai et al. (2018); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
 
 > [!concept-lens] 概念透镜

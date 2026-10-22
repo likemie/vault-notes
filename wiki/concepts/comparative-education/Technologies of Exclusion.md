@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 排除性技术（Technologies of Exclusion）
+> [!def] Technologies of Exclusion
 > 排除性技术（Technologies of Exclusion）是知识社会学与公共政策分析中用以刻画专业群体通过建构技术壁垒以维系权威垄断的概念；指[[Knowledge Production\|知识生产]]者与中介机构借助晦涩的专业术语、复杂的计量统计模型、不透明的测量算法以及排他性的证据等级划分，将未经专业训练的公众、常识性争鸣与[[Heterogeneity\|异质性]]本土经验排斥在政策合法性审议范畴之外的制度化规制技术。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
 
 > [!concept-lens] 概念透镜

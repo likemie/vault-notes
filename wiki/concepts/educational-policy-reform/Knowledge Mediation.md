@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识中介（Knowledge Mediation）
+> [!def] Knowledge Mediation
 > 知识中介（Knowledge Mediation）指将证据生产者与使用者汇聚在一起、旨在促进两者产生实质联结与理解的有意识努力（Gough et al., 2011, p. 23; [[Argument_Torres_2022_KMModels|Torres, 2022b, p. 34]]）。在教育系统与循证政策生态中，知识中介不单纯等同于静态信息的分发，而是涵盖跨界连接、意义转译、信任撮合、需求诊断与长期协作机制维系等复合功能。它与“[[Knowledge Production|知识生产]]”和“知识使用”共同构成现代研究[[Knowledge Mobilisation|知识动员]]生态系统的三大基础构件（Levin, 2013; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 40–41]]）。
 
 > [!concept-lens] 概念透镜

@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 秩相关检验（Begg and Mazumdar Rank Correlation）
+> [!def] Begg and Mazumdar Rank Correlation
 > Begg and Mazumdar Rank Correlation（Begg 与 Mazumdar 秩相关检验，常简称为 Begg's Test）是由统计学家 Colin Begg 与 Madhuchhanda Mazumdar 于 1994 年提出的一种用于检验[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]（及[[Small Study Effects\|小研究效应]]）的经典非参数统计方法。该方法通过计算各独立研究的“标准化[[Effect Size\|效应量]]（Standardized Effect Sizes）”与其“抽样方差（Sampling Variances）”之间的 **Kendall's tau（$\tau$）等级相关系数**；若相关显著（$p < .05$），表明样本量较小（方差较大）的研究系统性地报告了更大的效应量，即存在发表偏倚导致的漏斗图不对称。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, pp. 960–961)]]
 
 > [!method-scope] 方法范围

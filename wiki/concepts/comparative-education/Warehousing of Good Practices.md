@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 最佳实践仓储（Warehousing of Good Practices）
+> [!def] Warehousing of Good Practices
 > 最佳实践仓储（Warehousing of Good Practices）是[[World Bank\|世界银行]]特有的政策[[Knowledge Mediation\|知识中介]]模式，指将来自全球各国的教育项目经验按主题与绩效类别集中收录入库，形成可检索的政策知识仓库，再向成员国政府按需分发、推送政策处方的服务机制。这一模式以世界银行自身历史项目组合作为主要[[Source of Knowledge\|知识来源]]，形成高度自指性的经验汲取循环——世界银行的报告反复援引自身过往的 [[Systems Approach for Better Education Results\|SABER]] 评估指标库与既往贷款项目组合，而非外向性参照其他国家的政策实践。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 545)]]
 
 > [!concept-lens] 与 [[OECD]] 外向型模式的对比

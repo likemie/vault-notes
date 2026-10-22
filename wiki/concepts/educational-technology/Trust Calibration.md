@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 信任校准（Trust Calibration）
+> [!def] Trust Calibration
 > **人机信任校准（Trust Calibration，又称信任校准）** 指人类操作者或学习者对自动化与人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）系统赋予的主观信任水平（Trust），与系统在特定任务情境中的客观真实能力（Capabilities）及有效边界相吻合的动态适应状态。在工效学、认知心理学与人机交互领域，信任校准是决定[[Man-Computer Symbiosis|人机协同]]效能与安全性的核心[[Construct|构念]]；当信任水平超出系统实际能力时发生**过度信任（Overtrust）**，诱发盲目顺从与[[Automation Bias|强自动化偏差]]；当信任水平低于系统实际能力时发生**信任不足（Undertrust / Distrust）**，导致对正确建议的非理性拒绝与技术闲置。在哲学与社会[[Epistemology|认识论]]视角下，信任校准不仅是主观心理感受，更是关于信任分配是否具备客观充分理由的规范性确证机制。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–12)]]
 
 > [!concept-lens] 概念透镜

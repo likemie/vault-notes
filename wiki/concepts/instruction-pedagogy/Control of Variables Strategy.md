@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 变量控制策略（Control of Variables Strategy）
+> [!def] Control of Variables Strategy
 > [[Variable\|变量]]控制策略（Control of Variables Strategy, CVS）指在科学实验与实证探究中，为了确定某一因素对结果的因果效应，学习者或研究者仅系统操纵单一焦点[[Independent Variable\|自变量]]（Focal Variable），同时保持所有其他可能产生影响的外部变量（Extraneous Variables）严格恒定的程序性策略。该策略旨在消除实验中的混淆因素（Confounding），从而使观察到的[[Dependent Variable\|因变量]]变化能够被唯一地归因于目标自变量。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
 
 > [!concept-lens] 概念透镜

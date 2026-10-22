@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 审计追踪（Audit Trail）
+> [!def] Audit Trail
 > **审计追踪（Audit Trail）** 是[[Qualitative Research\|质性研究]]中系统记录研究全过程证据与分析决策链条的结构化程序。它通过完整保存和透明呈现从原始经验资料、中间编码缩减到最终理论命题的全部决策轨迹（decision trail），使独立审计者能够对研究开展外部检验，从而为[[Interpretive Paradigm\|自然主义探究]]确立[[Reliability\|可依赖性]]（dependability）与可确认性（confirmability）（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, pp. 162–163, 206]]；Golafshani, 2003, p. 601）。
 
 > [!concept-lens] 概念透镜

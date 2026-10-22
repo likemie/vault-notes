@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识治理（Epistemic Governance）
+> [!def] Epistemic Governance
 > 知识治理（Epistemic Governance）是指以观念、规范、专业知识与认知分类为基石的全球与跨国治理机制，与依靠强制制裁和行政规制的传统硬治理（Hard Governance）形成互补。该概念在跨国教育与全球治理研究中揭示了高等教育机构、智库与国际组织如何超越单纯的物质权力，通过生产科学证据、确立[[Discourse|话语]]标准、培养全球专家以及输出评估规程，在去中心化网络中行使知识权威，塑造“何谓合理政策与有效知识”的全球认知基准。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145–147)]]; [[Argument_Huang_2020_APJE|(Huang & Kan, 2020, p. 423)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1705)]]
 
 > [!concept-lens] 概念透镜

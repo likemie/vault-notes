@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 民众教育（Popular Education）
+> [!def] Popular Education
 > 民众教育（Popular Education / 西班牙语：Educación Popular）是一项发端于 20 世纪中叶拉丁美洲、深刻影响全球[[Critical Pedagogy|批判教育学]]实践的激进解放教育[[Paradigm|范式]]。该概念拒绝将教育简化为统治阶级自上而下向底层输送技能或政治教化的技术性工具，主张**立足工农贫民与被压迫群体的日常生活经验，通过提问式[[Dialogue in Education|对话教学]]与[[Conscientization|批判意识觉醒]]，使受教育者认清自身受剥削的阶级结构根源，进而组织起来投身重构社会公正与民主权利的集体实践**。在比较政治社会学中，民众教育构成了对 19 世纪以来自由主义国家“教化主权者”（educate the sovereign）虚伪命题的深刻解构，亦是对拉美威权[[State Corporatism|国家法团主义]]利用扫盲推行[[Compensatory Legitimation|补偿性合法化]]恩庇策略的坚决抵抗（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
 
 > [!concept-lens] 概念透镜

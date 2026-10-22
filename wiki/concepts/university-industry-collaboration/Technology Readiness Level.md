@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 技术就绪度（Technology Readiness Level）
+> [!def] Technology Readiness Level
 > **技术就绪度（Technology Readiness Level, TRL，亦称技术成熟度等级）** 是[[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）于 1970 年代创设并在全球科技创新、国防采办与产业政策中广泛采纳的一套 9 级标准化技术成熟度度量体系。该量表从 TRL 1（基础科学原理被观察与报告）线性递进至 TRL 9（实际系统在真实运行环境中成功完成任务验证）。
 >
 > 在当代深科技（Deep-Tech）与[[University-Industry Collaboration|产学合作]]中，TRL 构成了界定技术研发进度、资本配置门槛与[[Research Translation|技术转化]]断层的核心度量标尺：

@@ -43,7 +43,7 @@ created: 2026-07-20
 updated: 2026-10-22
 ---
 
-> [!def] 李克特量表（Likert Scale）
+> [!def] Likert Scale
 > 李克特量表（Likert Scale）由 Rensis Likert 于 1932 年开发，是一种为给定问题或陈述提供程度渐变回应选项的[[Rating Scale\|评定量表]]。典型形式为五点评分：从"强烈不同意"到"强烈同意"，或从"完全没有"到"非常大程度"。其核心假设是**单维性**——量表每次只应测量一件事（Likert, 1932; Oppenheim, 1992, pp. 187–188）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 127–143]]）。
 
 > [!concept-lens] 概念透镜

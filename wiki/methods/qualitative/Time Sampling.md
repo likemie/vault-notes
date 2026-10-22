@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 时间抽样法（Time Sampling）
+> [!def] Time Sampling
 > 时间抽样法（Time Sampling）是一种在行为[[Observation Method|观察研究]]中依据预先设定的时间单位、固定时间间隔或离散时间点，对特定行为或事件是否发生及其持续状态进行系统编码的数据采集技术。该方法通过将连续流动的复杂互动解构为离散的时间切片，规避了观察员需要全神贯注进行连续秒级计时的认知负荷，为行为频率、发生率与时间占比的量化推断提供了高[[Reliability|信度]]的标准化规程。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 8, 16)]]
 
 在外部[[Classroom Observation|课堂观察]]与生态行为评估中，时间抽样法界定了观察员注意力分配与数据编码的结构化边界。

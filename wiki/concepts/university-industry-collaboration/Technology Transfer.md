@@ -102,7 +102,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 技术转移（Technology Transfer）
+> [!def] Technology Transfer
 > **技术转移（Technology Transfer）** 是指将大学、公共科研机构或工业实验室所产出的科学发现、技术发明与工程知识（包括专利发明、实验数据、计算机软件及制造工艺诀窍），转化为产业实际应用、商业化产品及社会生产力的全过程。
 >
 > 在以美国《[[Bayh-Dole Act of 1980|拜杜法案]]》为代表的传统法定模式中，技术转移常被狭义理解为大学通过[[Technology Transfer Office|技术转移办公室]]（TTO）开展知识产权界定、专利独占许可及衍生企业孵化的法律商业化路径；[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]

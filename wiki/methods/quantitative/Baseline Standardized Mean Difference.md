@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 基线等效性标准化均数差（Baseline Standardized Mean Difference）
+> [!def] Baseline Standardized Mean Difference
 > 基线等效性标准化均数差（Baseline Standardized Mean Difference, Baseline SMD / $d_{\text{baseline}}$）是在实验与[[Quasi-Experimental Designs\|准实验设计]]以及循证[[Meta-analysis\|元分析]]中，用于定量度量干预前（[[Pre-test and Post-test\|前测]]）处理组与对照组在目标[[Variable\|变量]]或关键协变量上初始能力等价程度的标准化统计量。
 >
 > 该指标源于[[Causality\|因果推断]]（Causal Inference）[[Counterfactual\|反事实]]等价性理论，由[[Institute of Education Sciences\|美国教育部教育科学研究院]][[Effective Teaching\|有效教学]]策略网（[[What Works Clearinghouse]], WWC）与 [[Robert Slavin]] 的最佳证据百科（[[Best Evidence Encyclopedia]]）系统规范化，确立了以 $0.05$ 与 $0.25$ 标准差（SD）为断点的三级证据准入与模型调整判准。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 8)]]

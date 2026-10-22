@@ -121,7 +121,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 准实验设计（Quasi-Experimental Designs）
+> [!def] Quasi-Experimental Designs
 > **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment\|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design\|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design\|regression discontinuity]]），系统操纵[[Independent Variable\|自变量]]以检验因果假设的量化实验设计方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 317–318]]）。
 >
 > 在当代[[Evidence-Based Education\|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与纯[[Correlational Research\|相关性研究]]的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中对应**中等证据（Moderate Evidence / Tier II）** 法定层级，在[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）中对应**有保留达标（Meets Standards With Reservations）** 标准（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 162–163]]）。

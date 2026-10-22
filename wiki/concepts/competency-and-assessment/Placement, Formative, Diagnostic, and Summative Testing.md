@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 安置性、形成性、诊断性与总结性测验（Placement, Formative, Diagnostic, and Summative Testing）
+> [!def] Placement, Formative, Diagnostic, and Summative Testing
 > 安置性测验（placement testing）在课程开始前进行，识别学生的起始能力和成就，常用作基线评估以测量教学的增值成分。形成性测验（formative testing）在课程进行期间实施，监控学生进步并诊断优势与不足。诊断性测验（diagnostic testing）深入探查学生特定困难的原因和具体弱点领域，要求对同一特征包含多道题目以暴露多种困难类型。总结性测验（summative testing）在课程结束时实施，测量成就、结果或掌握程度（Gronlund & Linn, 1990）。
 
 > [!concept-lens] 概念透镜

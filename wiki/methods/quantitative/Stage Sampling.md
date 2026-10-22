@@ -33,7 +33,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 阶段抽样（Stage Sampling）
+> [!def] Stage Sampling
 > 阶段抽样（Stage Sampling）是[[Cluster Sampling\|整群抽样]]的延伸，从样本中再抽取样本。例如随机选择若干学校（第一阶），从各校随机选择若干班级（第二阶），从各班随机选择若干学生（第三阶）。每阶段均保持随机性，全程贯穿单一的统一目的。核心逻辑是从一般走向具体、从广走向窄、从大走向小。
 
 > [!method-scope] 方法范围

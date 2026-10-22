@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 基于设计的研究（Design-Based Research）
+> [!def] Design-Based Research
 > **基于设计的研究（Design-Based Research, DBR，亦称设计研究或设计实验）** 是一种以多轮实境迭代为核心的方法论框架：研究者与实践者在真实的教育或专业组织情境中共同设计、实施、评估和精炼教学干预与学习环境，在解决复杂实践问题的同时，生成扎根于真实情境的教与学理论，并沉淀可迁移的设计原则（Brown, 1992; Collins, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]; [[Argument_Zhang_2022_SE|Zhang et al., 2022]]）。
 
 > [!method-scope] 方法范围

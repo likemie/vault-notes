@@ -36,7 +36,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 理论抽样（Theoretical Sampling）
+> [!def] Theoretical Sampling
 > 理论抽样（Theoretical Sampling）是[[Grounded Theory\|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、编码和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至[[Saturation\|理论饱和]]（[[Saturation\|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967, p. 61）。
 
 > [!method-scope] 方法范围

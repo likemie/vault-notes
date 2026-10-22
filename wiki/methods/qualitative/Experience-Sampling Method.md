@@ -31,7 +31,7 @@ created: 2026-07-22
 updated: 2026-10-22
 ---
 
-> [!def] 质性经验取样法（Experience-Sampling Method）
+> [!def] Experience-Sampling Method
 > [[Experience Sampling Method\|经验取样法]]（experience-sampling method）是由 Kitwood（1977）发展的一种**质性[[Account Gathering\|陈述收集]]与分析技术**。该方法通过向参与者提供 15 种生活情境列表作为提示，引发他们回忆和叙述在这些情境中的个人经历，然后基于录音访谈进行详细的陈述分析。因为该方法避免审问式提问，浮现的材料比结构化访谈获得的材料更少组织化，因而要求研究者极其熟悉访谈内容，并逐步发展尝试性解释图式，在研究进行中不断修改、确认或[[Falsification\|证伪]]。
 
 > [!method-scope] 方法范围

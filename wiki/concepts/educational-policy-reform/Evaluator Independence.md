@@ -83,7 +83,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 评估者独立性（Evaluator Independence）
+> [!def] Evaluator Independence
 > 评估者独立性（Evaluator Independence），亦称第三方独立评估准则，是指在教育、心理与社会干预的成效评估中，要求研究方案设计、现场实施监督、基线与结果数据采集、统计分析及最终评价报告撰写，必须由与项目开发者（Program Developers）、商业版权方或学术创立团队不存在直接经济利益、版权分成或学术隶属关系的独立研究机构主持完成的方法学治理准则。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 >
 > 实证元评估表明，由干预开发者主导的自评研究（Developer-Led Evaluations）所报告的[[Effect Size\|效应量]]通常系统性显著高于独立评估（平均虚高 50% 至 100% 以上）。在国际循证清算体系中，是否将独立第三方完成的高质量外部复制作为硬性前置条件，构成了划分最高级别证据认证与常规评级的关键分水岭。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 26–27)]]

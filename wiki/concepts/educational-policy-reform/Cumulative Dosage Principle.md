@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 累积剂量原则（Cumulative Dosage Principle）
+> [!def] Cumulative Dosage Principle
 > **累积剂量原则（Cumulative Dosage Principle）** 是指在基础教育政策与干预设计中，主张放弃将单次、短期脉冲式干预作为解决持久教育差距主要手段的假说；该原则强调学生的长期正向学业体验与认知优势，并不取决于某一学期或学年单次高强度干预的短期冲击，而取决于学校从学前班至 12 年级（K–12）连年、系统化地采用经过严格因果实证检验的高质量教学模式，通过科学干预“剂量”的跨年度连贯叠加，最终转化为不可逆转的终身学业资本。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!concept-lens] 概念透镜

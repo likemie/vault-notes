@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 水平思考（Lateral Thinking）
+> [!def] Lateral Thinking
 > 侧向思维（Lateral Thinking），中文学术界常亦称水平思考或横向思维，是由英国认知学者[[Edward de Bono\|爱德华·德·博诺]]（Edward de Bono, 1967, 1970）系统创立的一套有意识逃脱固有认知模式、实现概念飞跃与顿悟的非线性思维体系与启发式技术。德·博诺将其直接对标并互补于传统的“垂直思维（Vertical Thinking，即沿着既有逻辑单向连续递进的分析性思维）”。侧向思维建立在人类大脑作为“自组织模式形成系统（Self-Organizing Pattern-Making System）”的神经认知哲学基础之上，强调通过主动引入“激发与运动（Provocation and Movement / PO）”、“随机输入（Random Entry）”与“概念挑战（Concept Challenge）”等外显心智工具，强迫思维跳出习惯性神经凹槽，从旁侧非常规角度切入以重塑问题表征。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 391)]]; de Bono (1970)
 
 > [!concept-lens] 概念透镜

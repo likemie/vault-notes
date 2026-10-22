@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论连贯性（Epistemological Coherence）
+> [!def] Epistemological Coherence
 > 全流程[[Epistemology\|认识论]]连贯性（Epistemological Coherence）是由[[Ian Menter\|伊恩·门特]]（Ian Menter）与约·赫尔盖通（Jo B. Helgetun）在[[Critique of Evidence-Based Education\|循证教育批判]]与政策[[Translational Research\|转化研究]]中提出的认识论规范概念（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）。该概念主张，一项研究证据要真正具备指导教育实践与政策的合法性，其严谨的科学逻辑必须完整贯穿从**问题概念化 $\rightarrow$ 经验观察 $\rightarrow$ 数据分析 $\rightarrow$ [[Policy Brokerage\|政策中介]]转译 $\rightarrow$ 课堂实践转化**的全链条；如果中间任何一个环节为了迎合政治落地偏好或经过口口相传而剥离了前置条件与样本语境，整个[[Chain of Evidence\|证据链]]条的认识论效度便会彻底崩溃，导致科学真知（$\text{episteme}$）退化为未经检验的意识形态教条（[[Doxa]]）甚至政策伪科学。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 88, 96)]]
 
 > [!concept-lens] 概念透镜

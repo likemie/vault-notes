@@ -88,7 +88,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 全球大学排名（Global Universities Rankings）
+> [!def] Global Universities Rankings
 > 全球大学排名（Global Universities Rankings）是对各国高等教育机构（Higher Education Institutions, HEIs）进行比较性评估和排序的标准化量化工具系统。排名通过选定自然科学研究产出、文献被引频次、跨国学术声誉调查和师生比等指标加权评分，生成连续排位的排行榜（league tables）。它不仅是提供给求学者与雇主的信息参考工具，更已演化为驱动国家高等教育政策转型、重塑院校战略规划并深层固化全球学术权力分层的核心评价基础设施（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 125–126]]）。
 
 > [!concept-lens] 概念透镜

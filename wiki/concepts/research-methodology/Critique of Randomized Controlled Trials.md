@@ -121,7 +121,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 随机对照试验批判（Critique of Randomized Controlled Trials）
+> [!def] Critique of Randomized Controlled Trials
 > [[Critique of Randomized Controlled Trials\|随机对照试验批判]]（Critique of [[Randomised Controlled Trials\|randomized controlled trials]] / RCT Critique）指围绕随机对照试验在教育学、社会政策与公共治理中被奉为证据“黄金标准”所形成的系统性反思与跨学科批评体系。该批判涵盖三个递进层面：一是**复杂性[[Epistemology\|认识论]]层面**，解构其控制[[Variable\|变量]]假设与机械还原论在动态自组织开放教育系统中的[[Ontology\|本体论]]悖论；二是**真实学校效度层面**，揭示主体间干扰（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）、未测量教师质量混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]与大规模实效衰减对内部与[[External Validity\|外部效度]]的破坏；三是**政策治理异化层面**，批判将医学试验教条化为[[Rationalized Myth\|合理化神话]]、跨国金融机构技术[[Screening Off\|屏蔽]]宏观政治经济结构，以及法定单项合格门槛所诱发的“合规假象”与科研供给侧结构性赤字（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]；[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp. 5–9]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 11–13]]）。
 
 > [!concept-lens] 概念透镜

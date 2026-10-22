@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科学本质（Nature of Science）
+> [!def] Nature of Science
 > 科学本质（Nature of Science, NOS）是科学教育学、科学哲学与[[Epistemology\|认识论]]的核心交叉概念，指个体对科学作为一种独特[[Knowledge Production\|知识生产]]体系的[[Metacognition\|元认知]]理解——涵盖科学知识的认识论属性（如实证性、暂时性与可修正性）、科学共同体的[[Epistemic Practices\|认识论实践]]（如假设检验、异常数据排查与同行评议），以及科学活动与社会、历史及文化情境之间复杂的交互共生关系（Lederman, 1992; Lederman et al., 2002; McComas, 1998; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]）。理解科学本质被公认为培育公民[[Scientific Literacy\|科学素养]]（Scientific Literacy）的三大支柱之一，促使学习者从被动接受现成定理的知识消费者转变为具备理性审辨力的探究参与者。
 
 > [!concept-lens] 概念透镜

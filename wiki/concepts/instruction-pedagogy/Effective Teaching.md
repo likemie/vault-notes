@@ -122,7 +122,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 有效教学（Effective Teaching）
+> [!def] Effective Teaching
 > 有效教学（Effective Teaching / God Undervisning）是一个旨在揭示高品质课堂教学通用规律的综合性概念，指教师通过明确领导、清晰目标、即时反馈、学习导向气氛以及与学生先验知识和认知前提的高度适配，从而最大化促进学生学科理解与学业成长的教学过程。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–36)]]
 >
 > 有效教学的核心重心聚焦于教学行为背后的深层质量条件：教学方法与学科内容及目标的适配度、学生对学习路径与[[Success Criteria|成功标准]]的清晰度，以及课堂兼具的心理安全感与学术高挑战。在当代[[Evidence-Based Education|循证教育]]改革视野中，有效教学正经历从抽象通用原则向经过因果检验的具体课程方案与实施支架的实践[[Paradigm|范式]]转向。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–40)]]; [[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]

@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 政策之窗（Policy Window）
+> [!def] Policy Window
 > 政策之窗（Policy Window，亦称政策机会之窗）是[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）在[[Multiple Streams Framework|多源流分析框架]]中提出的核心分析概念，指特定历史时期在政策体系中短暂开启、允许倡导者推动其既定方案或将注意力聚焦于特定紧迫问题的关键机会窗口。当问题流（社会危机与关键指标）、政策方案流（成熟的技术方案）与政治流（民意转变或政府更替）三者在特定契机下交汇耦合时，政策之窗即告打开；但该窗口具有极强的暂时性与脆弱性，一旦关闭，重大制度变革的契机将迅速流逝。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–4, 6)]]
 
 > [!concept-lens] 概念透镜

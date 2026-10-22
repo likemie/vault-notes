@@ -40,7 +40,7 @@ created: 2026-07-21
 updated: 2026-10-22
 ---
 
-> [!def] 评定量表（Rating Scale）
+> [!def] Rating Scale
 > 评定量表是[[Questionnaire\|问卷]]中帮助研究者捕捉**回应程度和敏感性**的工具，通过有序的多级选项将态度、感知或意见转化为可量化的数字，同时仍能生成可进行统计处理的数字。主要类型包括：[[Likert Scale\|李克特量表]]（Likert Scale）、[[Semantic Differential\|语义差异量表]]（Semantic Differential）、瑟斯顿量表（Thurston Scale）和格特曼量表（Guttman Scaling）（Oppenheim, 1992）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 127–143]]）。
 
 > [!concept-lens] 概念透镜

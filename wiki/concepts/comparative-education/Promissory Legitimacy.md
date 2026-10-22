@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 期许性合法性（Promissory Legitimacy）
+> [!def] Promissory Legitimacy
 > **期许性合法性（Promissory Legitimacy）** 是指国际组织和[[Policy Brokerage\|政策中介]]机构在缺乏强制行政管辖权与无法在当下实证检验教育因果效益的制度约束下，将其政策建议与规制权力的正当性建立在对“未来的危机叙事与避险允诺”之上的治理机制。由于教育的因果链条（今天的受教育提升个体未来应对不确定性的能力）只能在不可预测的未来进行回溯检验，治理机构通过将未来建构为当下脆弱现实的逻辑延伸，向主权国家推介“即可采取行动的循证研究”（Actionable Research Evidence），允诺只要当下采纳其量化指标与干预工具即可规避未来危机，从而在当下生产出管理不确定性的政治确定性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
 
 > [!concept-lens] 概念透镜

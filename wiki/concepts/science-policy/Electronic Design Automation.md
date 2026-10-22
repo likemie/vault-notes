@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 电子设计自动化（Electronic Design Automation）
+> [!def] Electronic Design Automation
 > 电子设计自动化（Electronic Design Automation, EDA）是指利用计算机软件算法、硬件描述语言（HDL）与多层次抽象模型，自动化完成超大规模集成电路（[[VLSI Project|VLSI]]）、印刷电路板及微系统的功能规范制定、逻辑综合、物理版图生成、时序收敛、多物理场仿真以及可制造性验证的全套工具链与方法体系。在现代半导体产业链中，EDA 是连接上游芯片架构设想与下游晶圆代工物理制造的核心数字桥梁，直接决定了集成电路的设计效率、芯片性能、功耗与量产良率。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15–16, 23–24)]]
 
 > [!concept-lens] 概念透镜

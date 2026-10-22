@@ -90,7 +90,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 比较案例研究（Comparative Case Study）
+> [!def] Comparative Case Study
 > 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 确立了**过程性的“建构案例”（casing）** 取向，强调案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
 > [!method-scope] 方法范围

@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 标准参照测验（Criterion-Referenced Test）
+> [!def] Criterion-Referenced Test
 > 标准参照测验（Criterion-Referenced Test）将学生的实际表现与预先界定的课程目标、能力要求或质量标准进行比对，用于判断学生掌握了何种知识与技能、表现达到何种质量水平，以及是否达到合格或优秀标准。其判断基准是学习后展现出的实际能力，独立于学生在群体中的相对名次排序；在有效教学的支撑下，全体学生均有可能达到预设标准。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|(Cohen et al., 2011, Ch. 24.3)]]; [[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 64–66, 69)]]
 
 > [!concept-lens] 概念透镜

@@ -104,7 +104,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论认知（Epistemic Cognition）
+> [!def] Epistemic Cognition
 > [[Epistemic Cognition\|认识论认知]]是指个体在获取、理解、证成和运用知识时，对“知识本质”（知识是什么）和“认知过程”（如何获得知识）的潜在信念、标准与思维过程。它回答了学习者内心深处的终极问题：“我如何知道我所知道的是真的？”
 
 > [!concept-lens] 概念透镜

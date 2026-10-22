@@ -39,7 +39,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 合理化神话（Rationalized Myth）
+> [!def] Rationalized Myth
 > 合理化神话（rationalized myth）是组织社会学与新制度主义的核心概念（Meyer & Rowan, 1977），指在特定历史与社会环境中被制度化并被广泛默认、视为理性且理所当然的规则、信念体系与认知框架。之所以称为合理化，是因为其以科学、[[Technical Rationality\|技术理性]]或效率的名义被系统阐述；之所以称为神话，是因为其正当性依赖于广泛的社会认同与规范期待，而非源于技术层面上经过严密检验的实际因果效能。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
 
 > [!concept-lens] 概念透镜

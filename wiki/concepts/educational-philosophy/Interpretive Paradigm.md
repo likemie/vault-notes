@@ -93,7 +93,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 诠释范式（Interpretive Paradigm）
+> [!def] Interpretive Paradigm
 > **诠释[[Paradigm\|范式]]（Interpretive Paradigm）**，亦称**反[[Positivism\|实证主义]]（Anti-positivism）** 或**自然主义探究（Naturalistic Inquiry）**，是与实证主义[[Normative Paradigm\|规范范式]]根本对立的社会与教育研究传统。其核心[[Epistemology\|认识论]]公设在于：人类社会世界绝非独立于人类意识的客观冷酷物象，社会实在只能从置身于行动之中的行动者立场来理解；研究者绝不能扮演居高临下的外在解剖者，而必须进入参与者的参照框架（Frame of Reference），由内而外地领悟行动者赋予世界的动态主观意义（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 15; Beck, 1979）。教育的世界充满历史偶然性、微观互动情境与价值意向，不可被量化还原论原子化拆解，必须置于未受操纵的自然状态中进行整体性探究。
 
 > [!concept-scope] 概念范围

@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 外部审计（External Auditor）
+> [!def] External Auditor
 > 外部审计（External Auditor）是[[Qualitative Research|质性研究]]效度检验体系中的高级验证策略：研究团队聘请一位不熟悉研究者个人背景且未直接参与该项目的独立外部专家，在研究全过程或成稿阶段对[[Audit Trail|审计轨迹]]进行系统核验，评估原始数据[[Transcription in Qualitative Research|转录]]准确性、[[Research Question|研究问题]]与数据关联度以及从原始编码向高阶理论主题提炼的严谨性，进而确立研究的可信度与确证性（Lincoln & Guba, 1985；[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch9, p. 213]]）。
 
 > [!method-scope] 方法范围

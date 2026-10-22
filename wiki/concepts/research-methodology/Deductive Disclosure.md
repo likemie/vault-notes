@@ -29,7 +29,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 演绎披露（Deductive Disclosure）
+> [!def] Deductive Disclosure
 > 演绎披露（deductive disclosure）指读者可以通过重新组合和拼凑研究数据中的细节来识别个体（个人、学校、部门等），即使研究者没有直接披露姓名或其他直接标识符（Boruch & Cecil, 1979）。例如，在一项学校研究中可能只有一位 50 岁教生物的男教师——即便不具名，他也将因这些特征的组合而被识别出来（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 212]]）。
 
 > [!concept-lens] 概念透镜

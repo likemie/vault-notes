@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 货物崇拜科学（Cargo Cult Science）
+> [!def] Cargo Cult Science
 > **货物崇拜科学（Cargo Cult Science）** 是物理学家理查德·费曼（Richard Feynman）于 1974 年提出的科学哲学批判概念，指那些在形式上完整模仿科学探究的外在仪式（如采集大规模数据、绘制复杂图表、运算统计参数与撰写专业报告），但在科学精神实质上系统性缺失“[[Epistemology|认识论]]诚信”（Epistemic Conscientiousness）与竭尽全力证明自身可能出错之可错论精神的实践形态。在教育研究与[[Evidence-Based Education|循证教育]]政策中，该概念被学者用于深度解构那些将教育测量复杂化、以隐藏公式的简单算术平均实施数字霸凌，并依托商业专营渠道规避严格同行评审与反驳检验的流行理论体系。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25, 34–36)]]
 
 > [!concept-lens] 概念透镜

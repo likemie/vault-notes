@@ -26,7 +26,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 未充分报告资金流追踪法（Tracking Underreported Financial Flows）
+> [!def] Tracking Underreported Financial Flows
 > 未充分报告资金流追踪法（Tracking Underreported Financial Flows, TUFF）是由威廉与玛丽学院 AidData 研究实验室开发的一套标准化量化数据搜集与空间编码方法，旨在系统收集、清洗和交叉验证非经济合作与发展组织发展援助委员会（OECD-DAC）成员国对外提供的发展金融、官方援助、教育援建与人力资源培训项目数据。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 77–78)]]
 
 > [!method-scope] 方法范围

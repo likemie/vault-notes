@@ -70,7 +70,7 @@ updated: 2026-10-20
 
 观察协议是现场研究中连接观察者感知与客观数据留痕的标准中介载体。
 
-> [!def] 观察协议（Observation Protocol）
+> [!def] Observation Protocol
 > 观察协议（Observation Protocol），在[[Qualitative Research|质性研究]]中常称观察记录表，在教育与行为科学中亦称[[Classroom Observation|课堂观察]]规程（Observation Schedule），是研究者在进入现场前预先制定的标准化数据采集工具。其核心功能在于规范观察范围、统一记录体例、阻断认知偏误并保留完整[[Chain of Evidence|证据链]]。在经典质性[[Paradigm|范式]]中，它通常以双栏形式严格物理切分现场客观“描述性笔记”（Descriptive Notes）与研究者主观“[[Reflexivity|反思性]]笔记”（Reflexive Notes）（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 9, p. 203]]；Bogdan & Biklen, 1992）；在高推论课堂实证观察中，它演化为集成低推论时间快照（Snapshot）、高推论行为锚定量表（Rubric）与连续事实笔记留痕的双轨标准化协议系统（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019, pp. 16–17]]）。
 
 从研究设计与数据治理视角审视，观察协议界定了现场信息捕捉的边界与颗粒度。

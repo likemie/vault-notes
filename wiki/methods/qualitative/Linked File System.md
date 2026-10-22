@@ -35,7 +35,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 链接文件系统（Linked File System）
+> [!def] Linked File System
 > 链接文件系统（linked file system）是 Lee (1993, p. 173) 提出的一种保护参与者保密性的程序，允许研究者在保证匿名的前提下跨多个时间点收集同一参与者的数据。其核心架构是将数据、身份信息和链接信息分别存储在三个独立文件中，由不同角色控制（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 212–213]]）。
 
 > [!method-position] 方法[[Epistemology\|认识论]]定位

@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 过程追踪法（Process Tracing）
+> [!def] Process Tracing
 > 过程追踪法（Process Tracing）是政治学、历史社会学与公共政策分析中用于案例内[[Causality|因果推断]]的核心[[Qualitative Research|质性研究]]方法。该方法不依赖大样本统计控制，而是深入单一案例或少量比较案例的内部历程，通过对时间序列档案、口述证词与决策现场材料的密集挖掘，追踪连接初始条件（[[Independent Variable|自变量]]）与最终政策产出（[[Dependent Variable|因变量]]）之间的微观中介[[Causal Processes|因果过程]]（Intervening causal processes）与因果机制（Causal mechanisms）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
 
 > [!method-scope] 方法范围

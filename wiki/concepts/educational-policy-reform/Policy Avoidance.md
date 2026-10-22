@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 政策规避（Policy Avoidance）
+> [!def] Policy Avoidance
 > 政策规避（Policy Avoidance）指大众新闻媒体在深度介入教育政策传播与危机建构过程中，将绝大部分版面与受众注意力狂热倾注于炒作抽象的质量危机、排列表落后与政治替罪羊，却对执政精英趁机推出的具体激进改革方案、操作机制及其背后的实证[[Chain of Evidence\|证据链]]条表现出系统性脱敏、冷漠与避而不谈的[[Discourse|话语]]异化现象（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。在政策规避机制下，争议性政策并非因获得社会广泛认同而落地，而是因未受到任何实质性追问与专业核查而在舆论真空中被“默认强化”（Reinforced by default）。
 
 > [!concept-lens] 概念透镜

@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 调解式治理模式（Meditative Mode of Governance）
+> [!def] Meditative Mode of Governance
 > **调解式治理模式（Meditative Mode of Governance）** 是指超国家国际组织在缺乏传统科层行政强制权的情形下，施展软权力与远程治理的双重基础模式之一。在此模式下，国际组织在[[Inquisitive Mode of Governance|探究式治理模式]]完成跨国信息收集与问题界定的基础上，直接介入主权国家的公共政策审议空间，充当政策调解者、权威咨询顾问与知识经纪人；通过将复杂的统计因果关系打包为去情境化的“有效做法”（what works）与最佳实践蓝图，向各成员国推介成套政策工具箱与标准制度模板，引导并促使主权国家教育体系向特定国际基准靠拢。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–271, 274–275)]]
 
 > [!concept-lens] 概念透镜

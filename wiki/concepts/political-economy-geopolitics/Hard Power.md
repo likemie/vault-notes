@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 硬实力（Hard Power）
+> [!def] Hard Power
 > **硬实力（Hard Power，亦称硬权力或物质强制力）** 是国际关系学与[[Strategic Bargaining Theory|战略博弈论]]中的经典核心概念，指政治行为体依据有形的物质资源（包括军事武力、精确打击能力、战略威慑装备以及经济制裁与金融强制手段），通过强迫或利诱等手段直接改变他者行为以实现国家战略目标的能力（Nye, 2004）。
 > 
 > 在 21 世纪的智能化与软件时代，硬实力的物质载体经历了深刻演进：从依赖重工业装甲与火炮平台，转向由敏捷软件架构、人工智能模型、[[Autonomous Drone Swarms|自主无人机蜂群]]与算法决策网络所驱动的新型威慑体系。[[Alexander Karp|亚历山大·卡普]]（Alexander C. Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas W. Zamiska）进一步提出“硬实力与文化信念”的辩证统一命题：现代软件硬实力无法脱离深层的国家认同、防卫意志与战略决断而孤立维系。若一个社会陷入[[Soft Belief|软信念]]（Soft Belief）的避险文化，解构自身的国家认同与卓越标准，即便坐拥庞大经济体量，也将丧失可靠的地缘威慑力；唯有依托长程战略计算、共享文化叙事与实质道德共同体，才能维系坚不可摧的硬实力威慑基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–36)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–204)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–218)]]

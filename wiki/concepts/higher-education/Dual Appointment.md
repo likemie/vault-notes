@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 双重聘任制（Dual Appointment）
+> [!def] Dual Appointment
 > **双重聘任制（Dual Appointment / Joint Appointment）** 是指现代[[Research Universities|研究型大学]]中，专任教师同时在传统的学科院系（Discipline-based Department）和跨学科多资源研究中心（MMURC）拥有正式人事聘任与岗位职责的矩阵式人事治理制度。该制度的核心底线规定：中心的研究人员必须在学科院系持有正式的终身教职或终身教职轨道（Tenured or Tenure-track）编制，不得脱离院系成为孤立的专职中心研究员。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
 
 > [!concept-lens] 概念透镜

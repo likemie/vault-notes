@@ -106,7 +106,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 精神教化（Bildung）
+> [!def] Bildung
 > 教化（Bildung，通常译为教养，古希腊语对应为 *[[Paideia]]*，英文亦作 character formation 或 edification of character）其德语词根为 *Bild*（画像、形象、原型），深层思想史根基可追溯至《圣经·创世记》中人依照“上帝形象”（*imago Dei*）受造的神学渊源，并在德国[[Geisteswissenschaften|精神科学传统]]（*geisteswissenschaftliche Tradition*）与古希腊古典人文主义中演进为超越外在技术性知识传授和工具化技能训练的自主人格形成与精神提升过程。在教育哲学与比较教育思想史视阈下，该概念主张教育的终极本体在于对人（*Anthropos*）的整全教化与自我发现，要求个人在无法预设终点的开放未来中，持续实现人性的自我完善。
 > 
 > 教化是人类决定其知识与技能如何以远超外在被要求和被期望的方式被使用的能力与勇气，具有不可度量性、不可形式化与不可[[Operationalization|操作化]]的内在尊严。它不仅指向个体在与生活世界独立交互中的主体性觉醒，更在文明演进与比较教育视阈中被确立为以人为本的人文科学（[[Humanistic Episteme]]）底线，用以抵御将教育降格为技术官僚流水线[[Human Capital Theory|人力资本]]加工（*Schooling*）的异化危险。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 8)]]；[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 56–57)]]

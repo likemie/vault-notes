@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育的技术赤字（Technology Deficit of Education）
+> [!def] Technology Deficit of Education
 > 教育的技术赤字（Technology Deficit of Education，德语：Technologiedefizit der Erziehung）是指教育系统在将资源投入转化为确定性育人成果时，缺乏如工程学或自然科学般确凿因果技术的结构性困境。该概念由德国社会学家[[Niklas Luhmann\|尼克拉斯·卢曼]]（Niklas Luhmann）与教育学者卡尔-埃伯哈德·舍尔（Karl-Eberhard Schorr）于 1979 年提出。技术本质上是将输入要素稳定转化为预期产出的因果装置，然而教育系统的核心因果链条——“在当下接受特定教育能增强受教育者未来应对复杂世界的能力”——具有根本的时间滞后性与偶联性，其成效只能在遥远的未来显现，在决策的当下完全无法通过实证手段予以确认。这种深层的[[Ontology\|本体论]]不确定性构成了教育公共决策的先天生态，迫使政策制定者依赖量化指标与[[Policy Brokerage\|政策中介]]机构提供的“可操作性行动方案”，以在当下管理对未来不可预测性的集体焦虑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 539–540)]]
 
 > [!concept-lens] 概念透镜

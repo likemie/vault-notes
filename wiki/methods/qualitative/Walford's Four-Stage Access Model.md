@@ -32,7 +32,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] Walford 四阶段准入模型（Walford's Four-Stage Access Model）
+> [!def] Walford's Four-Stage Access Model
 > Walford 的四阶段准入模型是 Walford (2001, pp. 36–47) 提出的在教育研究中获得[[Access and Acceptance in Research\|研究场所准入]]的系统化程序，分为接触（Approach）、兴趣（Interest）、意愿（Desire）和成交（Sale）四个阶段。该模型建立在一个核心前提之上：准入是过程而非一次性决策（Walford, 2001, p. 31），需要研究者持续经营和维护（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 204]]）。
 
 > [!method-position] 方法[[Epistemology\|认识论]]定位

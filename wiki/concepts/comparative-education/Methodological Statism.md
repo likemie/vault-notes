@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法论国家主义（Methodological Statism）
+> [!def] Methodological Statism
 > [[Methodological Statism\|方法论国家主义]]（Methodological Statism，亦称方法论国家中心主义）是全球化教育社会学与比较教育学中的核心批评概念。它指的是在分析教育政策时，默认主权国家及其 government 机构是教育唯一的规划者、出资者、管理和提供者，并直接将“教育治理”等同于“国家行政管理行为”的方法论还原主义偏误。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 > [!concept-lens] 概念透镜

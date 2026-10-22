@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 联合教职（Joint Faculty Appointments）
+> [!def] Joint Faculty Appointments
 > 联合教职任命（Joint Faculty Appointments），亦称双重教职聘任或校企双重雇佣（Joint Faculty Employment），指顶尖学者或研究人员同时持有商业企业正式雇员与[[Research Universities|研究型大学]]专任教授双重法律身份、并在这两种体制角色间实现并行运作的新型[[University-Industry Collaboration|产学合作]]制度构型。与传统的单向[[Sponsored Research Agreement|赞助研究协议]]（SRA）或短期外部咨询协议不同，联合教职在雇佣关系层面实现组织间深度整合：学者在企业以雇员身份攻关具有高度商业保密性的专有工程难题，在大学以教授身份主持开放前沿科研、指导研究生并公开发表学术论文，从而在个体行动者层面架设起化解校企时间尺度与目标脱节的高带宽协同桥梁。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]; [[Argument_Ramming_2025_CorporateSupport|(UIDP, 2024, cited in Ramming, 2025, p. 230)]]
 
 > [!concept-lens] 概念透镜

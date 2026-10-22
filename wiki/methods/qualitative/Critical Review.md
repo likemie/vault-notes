@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 批判性综述（Critical Review）
+> [!def] Critical Review
 > 批判性综述（Critical Review）是一种建立在广泛文献梳理基础上、但超越单纯事实罗列与描述性汇总的质性/概念性[[Research Synthesis|研究综合]]方法。该方法不仅阐明某领域存在何种实证发现，更重在深入剖析既有文献在概念界定、底层假设和推论逻辑上的局限，反思甚至挑战既有的主流理论模型，从而为提出新概念、新理论或新研究议程提供坚实的概念创新发射平台（launch pad）（Grant & Booth, 2009; Gough et al., 2012；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 2–3]]）。
 
 > [!method-scope] 方法范围

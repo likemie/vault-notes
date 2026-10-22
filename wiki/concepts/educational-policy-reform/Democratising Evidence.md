@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据民主化（Democratising Evidence）
+> [!def] Democratising Evidence
 > 证据民主化（Democratising Evidence）指将民主参与、协商与赋权原则系统应用于教育研究证据生产、解释、资助与利用全链条的制度主张与治理行动。该理念强调打破由学术研究者与科研资助机构单向主导的精英化研究模式，主张由政策制定者、一线教育者、青年学生以及历史上遭受排斥的边缘社区共同界定研究议程，确保研究成果服务于教育公平与社会福祉。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–222)]]
 
 > [!concept-lens] 概念透镜

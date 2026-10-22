@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科学主义（Scientism）
+> [!def] Scientism
 > 科学主义是一种将自然科学的方法与权威过度外推至人类精神、社会文化与教育探究领域的排他性[[Epistemic Stances|认识论立场]]。马克斯·霍克海默（Max Horkheimer, 1972）将其界定为“科学对自身的迷信”——深信实证科学是开展探究与解释现象的唯一合法途径，并将关于自然的概念全面数学化；[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1972）进一步揭示科学心态已演变为当代西方社会的新宗教，将全部人类知识窄化为实证科学，扼杀了伦理、价值与审美维度的理性审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。在当代教育领域，科学主义表现为对数字、[[Effect Size|效应量]]与工业研发（R&D）管理逻辑的狂热崇拜（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
 
 > [!concept-lens] 概念透镜

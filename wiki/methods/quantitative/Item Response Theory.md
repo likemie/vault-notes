@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 项目反应理论（Item Response Theory）
+> [!def] Item Response Theory
 > 项目反应理论（Item Response Theory, IRT；又称潜在特质理论 Latent Trait Theory）是现代心理与教育测量学的核心量化建模方法体系。该方法假设个体的可观测测验反应由不可直接观测的潜在特质（Latent Traits, $\theta$）与测验题目的内在计量属性（难度、区分度、伪猜测率）共同决定的非线性数学概率函数所支配；其核心计量突破在于实现了**题目参数估计的样本无关性（Sample Invariance）** 与**受试者能力估计的测验题目无关性（Item Invariance）**，为跨时空测验等值、[[Computerized Adaptive Testing\|计算机自适应测验]]（Computerized Adaptive Testing, CAT）与大规模国家教育监测题库标定提供了根本方法学支撑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
 
 > [!method-scope] 方法范围

@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理想言说情境（Ideal Speech Situation）
+> [!def] Ideal Speech Situation
 > 理想言说情境是[[Jürgen Habermas\|哈贝马斯]]（Habermas, 1979, 1982, 1984, 1987）提出的规范性沟通模型，描述了一种所有参与者能够在平等和自由条件下进行理性对话的理想条件。其核心原则是：共识仅源于更好论证的力量，而非参与者的位置或政治权力，除合作寻求真理外所有动机都被排除。在[[Virtual World\|虚拟世界]]研究中，通过虚拟世界探索议题的观点强烈回响着理想言说情境的原则（Morrison, 1995a, p. 102）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
 
 > [!concept-lens] 概念透镜

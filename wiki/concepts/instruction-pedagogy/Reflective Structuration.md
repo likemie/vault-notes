@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 反思性结构化（Reflective Structuration）
+> [!def] Reflective Structuration
 > [[Reflexivity|反思性]]结构化（Reflective Structuration，亦作反思性共同结构化、反思结构化）是指在协作[[Inquiry-Based Learning|探究学习]]环境中，共同体成员（学生与教师）在探究活动持续推进的过程中，基于对当前认知进展、突现问题与知识缺口的反思性监控，历时性地共同建构、调整与重组共享探究结构（包括探究方向、社会组织构型、实践流程与正当性价值）的社会与时间机制。该概念将[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）的结构化理论[[Creativity|创造性]]迁移至微观科学课堂，阐明结构不仅是外在强加的先验规则，更是由学习者在行使[[Epistemic Agency|认识能动性]]过程中动态生成并反过来中介后续深层探究的媒介。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 890, 893–894)]]
 
 > [!concept-lens] 概念透镜

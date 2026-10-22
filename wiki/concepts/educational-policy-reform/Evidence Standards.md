@@ -118,7 +118,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据标准（Evidence Standards）
+> [!def] Evidence Standards
 > 证据标准（Evidence Standards）指[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs）、[[Educational Evidence Clearinghouses\|证据清算中心]]（Clearinghouses）及网络证据门户在收集、综合与传播研究成果时，用以判定研究设计是否具有方法学[[Reliability\|信度]]、推论是否具备情境相关性，以及能否就干预措施的有效性提出合法功效主张（Evidence Claims）的整套规范性准则与[[Operationalization\|操作化]]评价体系。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 153–156)]]
 
 > [!concept-lens] 概念透镜

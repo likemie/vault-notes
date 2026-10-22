@@ -83,7 +83,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 
 ---
 
-> [!def] 单一个案设计（Single-Case Design）
+> [!def] Single-Case Design
 > 单一个案设计（single-case design, SCD）是一类实验方法，由多种设计组成，涉及在不同条件下对特定行为或技能进行重复测量，以评估干预对个体或小群体的有效性，个体或小群体作为自身的控制组（Kazdin, 2011; [[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p. 460]]）。
 >
 > > "SCDs are experimental methods consisting of various designs involving [[Repeated Measures Design\|repeated measures]] of a specific behavior or skill under different conditions to evaluate the effectiveness of a treatment for an individual or a small group of individuals that serve as their own control." ([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p. 460, citing Kazdin, 2011]])

@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论资源（Epistemic Resources）
+> [!def] Epistemic Resources
 > [[Epistemology\|认识论]]资源（Epistemic Resources）是由 Hammer and Elby (2002) 提出的一种微观认知建构。它彻底抛弃了将个人的[[Epistemology\|认识论]]视为一种类似人格特质、跨情境稳定的“信念阶段”（如处于“绝对主义阶段”），转而认为个体的头脑中包含着大量零散、细粒度的认知资源（如“知识是权威传递的”、“知识是可以由常识推理出来的”）。个体在具体的学习情境中，会根据对当前任务的框架设定（epistemological framing），动态、灵活地激活并调配不同的资源。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 > [!concept-lens] 概念透镜

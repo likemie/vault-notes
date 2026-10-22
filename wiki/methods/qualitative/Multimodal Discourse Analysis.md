@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 多模态话语分析（Multimodal Discourse Analysis）
+> [!def] Multimodal Discourse Analysis
 > [[Multimodal Discourse Analysis\|多模态话语分析]]（Multimodal [[Discourse Analysis]], MDA）是一种拓展传统语言学话语分析的[[Qualitative Research\|质性研究]]方法，**通过系统整合口头言语、书面文字、视觉图像、数字界面操作、手势以及空间布局等多模态符号资源，深入探究参与者在具体社会与技术情境中如何协同建构意义、协商权力并执行[[Epistemology\|认识论]]行动**。在当代数字化与人工智能教育研究中，它成为解析人机交互、多模态生成物评估与协同[[Knowledge Production\|知识生产]]的核心分析工具。[[Argument_Han_Gutierez_2026_IJSE\|(Feng, 2021; Yin & Zeng, 2025; Han & Gutierez, 2026, pp. 8–10)]]
 
 > [!method-scope] 方法范围

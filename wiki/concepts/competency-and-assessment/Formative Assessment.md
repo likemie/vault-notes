@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 形成性评价（Formative Assessment）
+> [!def] Formative Assessment
 > 形成性评价（Formative Assessment，常被称为促学评价 Assessment for Learning）是指在教学进程中系统诱发、解释和利用关于学生学习状况的证据，向教师与学生提供指向下一步改进的反馈，并据此动态调整教与学活动的评价[[Paradigm\|范式]]。其核心在于将评价功能从终结性认证（Certification）转向学习促进（Learning），通过澄清[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]、开展诊断性活动、提供低利害（Low-Stakes）练习机会以及培育自我调节与同伴反思能力，为[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]等[[Higher-Order Thinking Skills\|高阶思维技能]]的生成提供持续的[[Scaffolding\|脚手架]]支持。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 32–34)]]; Black & Wiliam (1998, 2007); Crooks (2008); [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–17)]]
 
 > [!concept-lens] 概念透镜

@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 使命性教育嵌入（Education-for-Mandates）
+> [!def] Education-for-Mandates
 > 使命性教育嵌入（Education-for-Mandates，或称使命驱动型教育干预）是指在跨国公共政策与全球教育治理中，原本未被赋予专门教育政策法定管辖权（Direct Mandate）的非教育类国际组织、区域贸易集团或金融机构，通过将教育议题与自身核心的非教育法定使命——如经济增长、地缘和平、国际理解、可持续发展或[[Knowledge-Based Economy\|知识经济]]——进行策略性语义挂钩，从而为自身涉足教育政策制定、动员专项预算与推行跨国规制工具提供政治合法性与道义正当性的治理机制。该概念由克斯汀·马滕斯（[[Kerstin Martens]]）、丹尼斯·尼曼（Dennis Niemann）与迪尔克·克罗格曼（Dirk Krogmann）于 2024 年系统理论化，并被吉塔·施泰纳-哈姆西等学者用于解释冷战以来全球教育治理中经济与金融机构“反客为主”主导公共教育改革议程的深层制度动因。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 543–544)]]
 
 > [!concept-lens] 概念透镜

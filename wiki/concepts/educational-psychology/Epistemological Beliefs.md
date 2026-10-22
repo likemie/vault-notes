@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论信念（Epistemological Beliefs）
+> [!def] Epistemological Beliefs
 > [[Epistemology\|认识论]]信念（epistemological beliefs）是指个体对于“知识究竟是什么”（知识的本质）以及“人们如何获得知识”（认知的本质）所持有的潜在假设与信念。在教育心理学领域，它不仅是一组零散的观点，更构成了一种指导学习行为和动机的“个人理论”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 88-90)]]
 
 > [!concept-lens] 概念透镜

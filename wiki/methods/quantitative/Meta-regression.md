@@ -83,7 +83,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 元回归（Meta-regression）
+> [!def] Meta-regression
 > 元回归（Meta-regression）是在[[Meta-analysis\|元分析]]框架下，以各纳入初级研究的[[Effect Size\|效应量]]为[[Dependent Variable\|因变量]]、研究层面的特征（调节[[Variable\|变量]]）为[[Independent Variable\|自变量]]，通过加权回归分析检验调节变量对效应量[[Heterogeneity\|异质性]]解释力的统计方法体系。它将元分析的[[Interaction Effect\|调节效应]]检验从离散分类子组比较推广到连续数值变量及多元复合模型，依据各研究的抽样精度（抽样方差倒数）与研究间真实异质性方差进行广义[[Inverse-Variance Weighting\|逆方差加权]]估计。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, pp. 1098–1102)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 5–6, 10–11)]]
 
 > [!method-scope] 方法范围

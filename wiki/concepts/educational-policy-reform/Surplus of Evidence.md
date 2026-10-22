@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据过剩（Surplus of Evidence）
+> [!def] Surplus of Evidence
 > 证据过剩（Surplus of Evidence）是公共政策与比较教育政策学中用于刻画信息超载时代[[Research Utilization|知识利用]]生态的[[Construct|理论构念]]；指在数字化生产与[[Intellectual Capital|知识资本]]急剧繁衍的背景下，可用于同一政策议程的研究文献、统计数据与实证报告呈现出极度饱和与矛盾丛生的状态，导致决策者深陷难以从相互冲突的海量证据洪流中辨别有效行动方向的系统性困境。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
 
 > [!concept-lens] 概念透镜

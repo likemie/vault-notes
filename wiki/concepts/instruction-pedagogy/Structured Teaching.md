@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 结构化教学（Structured Teaching）
+> [!def] Structured Teaching
 > 结构化教学（Structured Teaching）指在教学设计与组织过程中，通过教师或教学系统建立清晰的目标导向、逻辑严密的[[Scaffolding\|认知支架]]（Scaffolding）、有序的课堂活动管理、即时的过程性反馈与理解监控，为学生提供清晰稳定的系统支持，同时维持高度能动的师生与人机交互的教学[[Paradigm\|范式]]。它既不是僵化单向的教师机械讲授，也不是把所有责任全盘推给学生的放任式自学，而是在结构化支持（Structure）与能动性互动（Interaction）之间形成动态平衡，并依据学生的自我调节水平与任务复杂度弹性调整支架强度。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584–585, 592–595)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10–13)]]
 
 > [!concept-lens] 概念透镜

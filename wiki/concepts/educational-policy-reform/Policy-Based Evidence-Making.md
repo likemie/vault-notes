@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 基于政策的证据制造（Policy-Based Evidence-Making）
+> [!def] Policy-Based Evidence-Making
 > 基于政策的证据制造（Policy-Based Evidence-Making, PBEM）是[[Critical Policy Analysis|批判性政策研究]]中的核心概念（Chung, 2016），指在公共政策制定与合法化过程中，决策者预先确立了政治意图、意识形态偏好与既定改革议程，随后通过有针对性地筛选、转译、裁剪甚至定制学术研究、经验数据与国际案例，反向构建支持该政策的[[Chain of Evidence\|证据链]]条。它构成了对传统[[Evidence-Based Policy-Making|循证政策制定]]规范性假设的根本逆转。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–94)]]
 
 > [!concept-lens] 概念透镜

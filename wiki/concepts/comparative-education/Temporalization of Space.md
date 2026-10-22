@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 空间的时间化（Temporalization of Space）
+> [!def] Temporalization of Space
 > 空间的时间化（Temporalization of Space，亦称空间的历时化）是指自欧洲[[Enlightenment|启蒙运动]]以来在西方哲学、历史学与社会科学中占据统治地位的一种[[Epistemology|认识论]][[Paradigm|范式]]。它将原本共时并存的全球地理差异与异质文化，生硬地折算、投射并依附于一条单线演进的人类历史时间轴上；跨越地理距离的空间旅行被构想为跨越文明阶段的时间旅行（Time Travel），生活在异域的非西方人群与本土少数群体则被贴上文明早期的原始（Primitive）标签。在比较教育学中，该概念用于解构追赶式现代化发展论，批判将边缘群体聚居空间预设为“道德规范欠缺、急需外部开化补偿”的教育殖民倾向。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 359–360)]]
 
 > [!concept-lens] 概念透镜

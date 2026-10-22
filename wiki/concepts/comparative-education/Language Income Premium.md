@@ -25,7 +25,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 语言收入溢价（Language Income Premium）
+> [!def] Language Income Premium
 > 语言收入溢价（Language Income Premium），指个体或特定社会阶层通过掌握某一特定跨国通用语或主要商贸大国外语（如英语、汉语、俄语），在本土与跨国劳动力市场中相较于单语人群所获得的超额劳动报酬、优先受雇机会以及职业晋升空间。在文化引力模型（Cultural Gravity Model）中，对未来可观收入溢价的理性预期构成了驱动青年学习者克服异质语言文化距离与繁重习得成本的关键动力机制。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 20, 28, 38)]]
 
 > [!concept-lens] 概念透镜

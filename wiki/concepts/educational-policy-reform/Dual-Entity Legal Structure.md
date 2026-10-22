@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 双层法人架构（Dual-Entity Legal Structure）
+> [!def] Dual-Entity Legal Structure
 > **双层法人架构（Dual-Entity Legal Structure）**，在教育政治经济学与非营利法研究中亦称**双层公司架构（Dual-Corporate Structure）** 或**慈善控股商业套利架构**，是指由顶层享有免税特权的非营利性“注册慈善信托”（Charitable Trust），全资控股底层一家或多家“营利性商业有限责任公司”（Commercial Company Limited by Shares）所形成的混合治理形态。[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）借此架构使商业子公司承接政府外包合同，再将利润以“慈善捐赠”名义免税转移至母体信托，从而合法规避企业所得税，并借助信托外壳规避《官方信息法》（OIA）的信息穿透公开。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 25–26, 47–53)]]
 
 > [!concept-lens] 概念透镜

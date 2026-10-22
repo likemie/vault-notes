@@ -88,7 +88,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 实施与过程评估（Implementation and Process Evaluation）
+> [!def] Implementation and Process Evaluation
 > **实施与过程评估（Implementation and Process Evaluation，IPE）**，亦称**过程评估**，是指在教育干预、公共卫生及社会政策的成效检验中，与量化结果评估（如 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT））并行实施的一种复杂[[Mixed Methods Evaluation Design\|混合方法评估设计]]。该方法通过系统收集质性与量化多源数据，深入追踪干预在现场的递送质量、保真度、参与者依从性、对照组常态活动以及情境与因果机制的中介作用，旨在打开干预成效的黑箱，准确解释干预项目为何有效、为何无效或在何种情境下有效([[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]])。在复杂教育生态与[[Research Utilization\|证据使用]]评估视域下，IPE 进一步拓展为对证据落地全流程、专业审议深度与组织使能条件的形成性诊断机制（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 145]]）。
 
 > [!method-scope] 方法范围

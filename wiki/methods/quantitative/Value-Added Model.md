@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 增值评价模型（Value-Added Model）
+> [!def] Value-Added Model
 > [[Learning Gain|增值评价]]模型（Value-Added Model, VAM）是一类依托纵向追踪测试数据，利用回归分析或[[Hierarchical Linear Model|多层线性模型]]控制学生先期[[Academic Achievement|学业成就]]、个人背景及学校环境[[Variable|变量]]，旨在隔离出特定教师、学校或教育干预对学生学业成长净贡献的教育统计计量方法。在规制型教育治理中，增值模型被广泛作为将标准化考试结果与教师人事评价、绩效激励或学校等级问责直接绑定的量化评估工具。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
 
 > [!method-scope] 方法范围

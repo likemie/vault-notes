@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 用户—生产者互动（User-Producer Interaction）
+> [!def] User-Producer Interaction
 > **用户—生产者互动（User-Producer Interaction）** 指机器设备、零部件或专业服务的生产者（供应方）与这些产品和服务的专业使用者（需求方）之间建立的长期、稳定且双向协作的信息流动与共同解决问题关系；它突破了将交易单纯视作价格机制调节的传统假设，揭示了在面对技术不确定性与复杂非标需求时，供需双方依托面对面沟通、工艺试错与相互信任所开展的制度化“互动学习”机制。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
 
 > [!concept-lens] 概念透镜

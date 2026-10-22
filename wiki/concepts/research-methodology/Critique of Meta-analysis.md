@@ -105,7 +105,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 元分析批判（Critique of Meta-analysis）
+> [!def] Critique of Meta-analysis
 > [[Meta-analysis\|元分析]]批判（Critique of Meta-analysis）指围绕元分析的方法论前提、证据库与操作程序、统计推断、聚合后的政策用途以及[[Epistemic Stances|认识论立场]]形成的批评体系。自 Eysenck (1978) 提出“垃圾进，垃圾出”以来，批评者追问的核心问题是：在什么条件下，把多项研究的[[Effect Size\|效应量]]合并成一个数字是有意义的？[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
 
 > [!concept-lens] 概念透镜

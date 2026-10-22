@@ -121,7 +121,7 @@ created: 2026-07-01
 updated: 2026-10-22
 ---
 
-> [!def] 元认知（Metacognition）
+> [!def] Metacognition
 > 元认知（Metacognition）指个体对自己认知过程的认知、意识与主动调节能力，最早由约翰·弗拉维尔（John Flavell, 1976, 1979）界定为“关于认知的认知（cognition about cognition）”。它主要包含元认知知识（对自身认知特征、任务属性与策略有效性的理解）和元认知调节（在前瞻规划、即时监控与事后评估中对思维过程的控制）。在学习科学与[[Higher-Order Thinking Skills\|高阶思维]]研究中，元认知构成了联结[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的枢纽机制；既在算法流畅性面前维持[[Epistemological Vigilance\|认识论警觉]]、防止盲目[[Cognitive Offloading\|认知外包]]，又在[[Creative Problem Solving\|创造性问题解决]]中主导认知定势的突破与启发式策略的深层内化。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 249)]]; [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10–13)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]
 
 > [!concept-lens] 概念透镜

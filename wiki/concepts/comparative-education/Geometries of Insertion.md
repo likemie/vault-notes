@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 嵌入几何学（Geometries of Insertion）
+> [!def] Geometries of Insertion
 > 嵌入几何学（Geometries of Insertion）是由 [[Robert Cowen]] (2009) 提出的理论关切。它是指当情境被重新概念化并纳入转移、转译、转化及[[Shape-Shifting\|形变]]的理论体系中而被驯服之后，所形成的一套系统分析工具与设计理论，用于指导和刻画如何将一处所创造的教育思想与实践精确植入另一处。([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]])
 
 > [!concept-lens] 概念透镜

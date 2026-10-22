@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 风险慈善（Venture Philanthropy）
+> [!def] Venture Philanthropy
 > 风险慈善（Venture Philanthropy），亦称创投慈善或公益创投，是大型机构信托、企业基金会与高净值私人投资者采用的一种高度金融化的慈善模式。该模式以“投资”（investment）而非传统的“无偿赠款”（granting）或“[[Seed Funding|种子基金]]”（seeding）为底层运行逻辑，将风险投资（venture capital）和私募股权（private equity）的契约规范引入公共领域；其投资通常具备多年期承诺、深度组织治理介入，并明确依据可量化的经济[[Return on Investment\|投资回报]]率（ROI）或社会投资回报率（SROI）评估干预成效（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p. vii]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–5]]）。埃玛·罗威（Emma Rowe）进一步确证其属于[[Philanthrocapitalism\|慈善资本主义]]（Philanthrocapitalism）的具象实践，其投资追求高价值政府委员会要职任命、商业咨询承揽或合法避税等实质回报，促使福利国家演进为向私营中介输送特许特权的异层治理催化平台（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–522]]）。
 
 > [!concept-lens] 概念透镜

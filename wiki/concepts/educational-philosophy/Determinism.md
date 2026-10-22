@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 决定论（Determinism）
+> [!def] Determinism
 > **决定论（Determinism）** 是科学信仰四大基本假设之首，亦是社会科学主客观[[Analytic Framework|分析框架]]中关于“人性本质”的核心[[Ontology|本体论]]维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规则性而非反复无常，确立普适因果法则是经典科学实现对现象预测与控制（prediction and control）的终极基石。
 > 
 > 在现代[[Epistemology|认识论]]与复杂性哲学视域下，[[Karl Popper|卡尔·波普尔]]（Karl Popper, 1965）将决定论的世界观隐喻为“一切皆为精密钟表”（All clouds are clocks），而将真实世界描述为高度不规则、湍流且充满不可预测性的“云团”（Clouds）。卡普与扎米斯卡（2025）进一步指出，执迷于单一宏大体系的“刺猬型”意识形态决定论在高度动态的现实云团面前必然破产，现代[[Engineering Mindset|工程思维]]与狐狸型认知必须打破机械决定论执念，转而建立在概率评估、现场实测与持续反馈修正的基础之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 15)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]

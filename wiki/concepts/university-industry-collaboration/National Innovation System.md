@@ -122,7 +122,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国家创新系统（National Innovation System）
+> [!def] National Innovation System
 > **国家[[Systems of Innovation|创新系统]]（National Innovation System, NIS）** 指由一个国家内部公共与私营部门构成的制度网络，其组织活动、政策工具与多元主体相互作用共同发起、引进、改进与扩散新技术。该概念强调技术创新并非孤立实验室内的单向线性发明，而是深受一国国民教育培训体系、企业专业化研发建制、前竞争技术联合体、实体制造公地、产业链上下游互动网络、承接战略使命的[[Research Universities|研究型大学]]以及国家战略协调规制的共同规约，构成了理解跨国[[Technological Catch-up|技术赶超]]、无形知识积累与经济长期分化的基本[[Unit of Analysis|分析单位]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 54–56)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 
 > [!concept-lens] 概念透镜

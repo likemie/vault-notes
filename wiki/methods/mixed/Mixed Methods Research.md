@@ -107,7 +107,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 混合方法研究（Mixed Methods Research）
+> [!def] Mixed Methods Research
 > 混合方法研究（Mixed Methods Research, MMR）的核心特征是在同一项研究或探究同一底层现象的一系列研究中，系统收集、分析并整合量化与质性数据，以获取超越任一单一方法所能交付的额外洞见与更具解释力的结论。它被公认为继[[Quantitative Research\|量化研究]]与[[Qualitative Research\|质性研究]]之后的“第三次方法论运动”（the third methodological movement, Teddlie & Tashakkori, 2009）、“第三种[[Paradigm\|研究范式]]”（the third research paradigm, Johnson & Onwuegbuzie, 2004; Denscombe, 2008）与“第三条道路”（Gorard & Taylor, 2004）。
 
 > [!method-scope] 方法范围

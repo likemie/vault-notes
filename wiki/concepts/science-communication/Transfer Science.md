@@ -67,7 +67,7 @@ created: 2026-09-26
 updated: 2026-10-22
 ---
 
-> [!def] 转移科学（Transfer Science）
+> [!def] Transfer Science
 > 转移科学（Transferwissenschaft）是将知识、研究证据与创新成果从学术生产端向政策、管理及教育实践端流动的条件、机制、界面与转化过程本身作为独立经验与理论反思对象的专门研究形态。在教育科学语境中，该概念要求教育学不仅作为产出证据的实体学科，更必须作为反省自身研究成果如何被理解、加工与制度化挪用的转移科学（Erziehungswissenschaft als Transferwissenschaft），系统厘清转移对象、行动者网络配置以及干预措施底层的因果作用假设。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 10–12]]
 
 > [!concept-lens] 概念透镜

@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 恶政与教学法可分性命题（Severability of Politics and Pedagogy）
+> [!def] Severability of Politics and Pedagogy
 > 恶政与教学法可分性命题（Severability of Politics and Pedagogy）是比较教育[[Policy Borrowing|政策借用]]史与教育政治哲学中的经典[[Epistemology|认识论]]命题，由 19 世纪美国[[Common School Movement|公共学校运动]]领袖[[Calvin Stowe|卡尔文·斯托]]（Calvin E. Stowe）、[[Horace Mann|霍勒斯·曼]]（[[Horace Mann]]）与[[Henry Barnard|亨利·巴纳德]]（[[Henry Barnard]]）在借用普鲁士初等教育经验的论战中正式阐发。该命题主张：主权国家的政治统治体制与学校内部的微观教学法则在认识论上是“自然可分的（naturally separable）”。专制王权对学校的政治控制并不能抹杀基础学科有效认知规律的客观科学性；借用国完全能够在认识论与制度实践中剥离外来体制所附带的被动顺从意识形态，将高效率的教学方法与师范组织规程加以本土化重塑，转而服务于民主共和政体的公民塑造。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
 
 > [!concept-lens] 概念透镜

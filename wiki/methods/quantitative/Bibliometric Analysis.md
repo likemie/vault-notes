@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 文献计量分析（Bibliometric Analysis）
+> [!def] Bibliometric Analysis
 > 文献计量分析（Bibliometric Analysis）是运用数学与统计学方法对已发表学术文献的载体特征、学者合作网络、关键词共现频率以及引文网络展开量化建模的实证研究方法。该方法主要用于呈现特定学科领域的宏观演进趋势、核心研究前沿、学科分支结构以及学者共同体的引证关联格局。
 
 > [!method-scope] 方法范围

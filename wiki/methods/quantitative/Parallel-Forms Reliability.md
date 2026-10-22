@@ -42,7 +42,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 复本信度（Parallel-Forms Reliability）
+> [!def] Parallel-Forms Reliability
 > 复本信度是使用相似测量工具所得测量结果的一致性程度——即使用同一测量目标的不同测量工具（如两套难度、结构和内容相当的平行[[Questionnaire\|问卷]]），对同一组受试者施测，所得结果的一致性程度（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5）。
 
 > [!concept-lens] 概念透镜

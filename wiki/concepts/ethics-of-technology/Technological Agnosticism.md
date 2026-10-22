@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 技术不可知论（Technological Agnosticism）
+> [!def] Technological Agnosticism
 > 技术不可知论（Technological Agnosticism）是指当代软件工程师、科技创始人与全球化知识精英将技术开发与系统构建视为脱离宏观世界观与政治构想的纯粹创造活动，在面对国家安全、公共利益与伦理善恶等重大规范性议题时，刻意采取[[Value Neutrality|价值中立]]、程序合规与政治回避的意识形态倾向。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–72)]]
 
 > [!concept-lens] 概念透镜

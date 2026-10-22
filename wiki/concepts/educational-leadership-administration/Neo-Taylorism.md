@@ -93,7 +93,7 @@ created: 2026-05-03
 updated: 2026-10-22
 ---
 
-> [!def] 新泰勒主义（Neo-Taylorism）
+> [!def] Neo-Taylorism
 > **新泰勒主义（Neo-Taylorism in Educational Administration）** 指弗雷德里克·温斯洛·泰勒（Frederick W. Taylor, 1911）的科学管理原理在当代教育治理与学校行政中的复兴。它以“寻找唯一最佳方法”（One Best Way）与“最大化投入回报”为核心驱动，借助[[Positivism|实证主义]]量化指标、[[Meta-analysis|元分析]][[Effect Size|效应量]]排行榜以及数字化监控工具，将充满情境复杂性与伦理交往的教育实践拆解为离散、可测算、可标准化的技术操作单元，对一线教师的专业劳动实施自上而下的绩效监控与规训控制。[[Argument_Eacott_2017_SLM|(Eacott, 2017, pp. 418–422)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 14–15)]]
 
 在概念演进中，新泰勒主义构成了批判教育管理学解构当代[[Evidence-Based Education|循证教育]]狂热与量化问责霸权的关键分析范畴。

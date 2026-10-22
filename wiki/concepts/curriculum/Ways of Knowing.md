@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 认知方式（Ways of Knowing, WOK）是[[Epistemology|认识论]]、课程论与科学教育中用于阐释人类个体与共同体如何获取、建构、表达与检验知识的核心分析概念。
 
-> [!def] 认知方式（Ways of Knowing）
+> [!def] Ways of Knowing
 > 认知方式指知者在面对复杂经验现象时，调动感知、语言、推理、情感以及学科特定实践规程以赋予世界以意义的多维路径与能力系统。在[[International Baccalaureate\|国际文凭]]大学预科项目（International Baccalaureate, IB）[[Theory of Knowledge\|知识论]]课程（Theory of Knowledge, TOK）中，它表现为连接认知主体、个人知识、共享知识与[[Areas of Knowledge\|知识领域]]（Areas of Knowledge, AOK）的课程[[Metacognition\|元认知]]分析工具；在当代[[STEM Education\|跨学科科学教育]]与科学实践研究中，它被拓展为不同学科门类与文化共同体所持有的情境化、多样态的[[Epistemic Practices\|认识论实践]]方式。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 154)]]
 
 > [!concept-lens] 概念透镜

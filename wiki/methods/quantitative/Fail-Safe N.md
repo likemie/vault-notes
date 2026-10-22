@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 失安全系数（Fail-Safe N）
+> [!def] Fail-Safe N
 > 失安全系数（Fail-Safe N, 简写为 $N_{\text{fs}}$），又称失安全数（Fail-Safe Number），是由心理统计学家 Robert Rosenthal 于 1979 年提出并在后续由 Orwin（1983）和 Rosenberg（2005）扩展的[[Meta-analysis\|元分析]]敏感性分析方法体系。该方法通过构建极端[[Counterfactual\|反事实]]假设，计算在现有纳入研究的基础上，还需要多少篇无效应（[[Effect Size\|效应量]]为零）的未发表研究才能将当前统计显著的汇总结果拉低至不显著水平（经典法），或将合并效应量稀释至微小无意义阈值（Orwin 法），从而定量测度元分析结论抵抗[[Publication Bias\|发表偏倚]]（抽屉文件效应，File Drawer Effect）的稳健性边界。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]; [[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 8, 12)]]
 
 > [!method-scope] 方法范围

@@ -58,7 +58,7 @@ related_arguments:
 
 ---
 
-> [!def] 中华民族（Zhonghua Minzu）
+> [!def] Zhonghua Minzu
 > 中华民族（Zhonghua Minzu / Chinese nation），是一个现代政治与文化建构概念。该词由梁启超于 1902 年引入，用以指代涵盖中国境内所有民族的单一国族共同体[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 104)]]。1988 年，社会学家[[Fei Xiaotong\|费孝通]]在“中华民族多元一体格局”论述中对其进行了系统重构，强调中华民族作为整体是一体，内部 56 个民族是多元[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]。这一定义在实践中试图将宪法上界定的多民族国家，转变为具有族群多样性的单一国族实体。
 
 > [!concept-lens] 概念透镜

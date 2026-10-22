@@ -33,7 +33,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] Kitwood 矛盾（Kitwood's Paradox）
+> [!def] Kitwood's Paradox
 > Kitwood 矛盾（Kitwood's paradox）是 Kitwood (1977) 提出的访谈研究中[[Reliability\|信度]]与效度之间的根本张力：**通过理性化和标准化增强信度的程度越高，访谈的效度就越低**。其核心洞察在于——访谈作为研究方法的价值恰恰在于其**人际性（interpersonal nature）**，而标准化程序恰恰消除了这种人际性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 213)]]
 
 > [!citation-card] Kitwood (1977) 的经典表述

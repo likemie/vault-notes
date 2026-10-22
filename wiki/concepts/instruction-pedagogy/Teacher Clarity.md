@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教师清晰度（Teacher Clarity）
+> [!def] Teacher Clarity
 > **教师清晰度（Teacher Clarity）** 指执教者在课堂教学中向学习者准确传递学习目标、[[Success Criteria|成功标准]]、学科概念结构与学习操作指引的专业沟通与组织品质。它要求教师语言条理分明、用词精准无歧义、逻辑架构严密，并能提供结构化的实例示范与适切的[[Scaffolding|认知支架]]。在实证教学研究中，清晰度被普遍视作激活学生注意力、压缩理解阻抗与促进[[Academic Achievement|学业成就]]的核心教学行为特质。[[Argument_Terhart_2011_JCS|(Terhart, 2011, p. 432)]]
 
 > [!concept-lens] 概念透镜

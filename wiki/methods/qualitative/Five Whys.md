@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 五问法（Five Whys）
+> [!def] Five Whys
 > **五问法（Five Whys）** 是一种用于探究复杂物理系统故障、软件工程交付延误以及组织跨部门协作障碍深层机理的递进式质性因果诊断方法。该方法由丰田汽车前生产副社长[[Taiichi Ohno|大野耐一]]在创立[[Lean Production|丰田生产方式]]（[[Totally Pedagogised Society|TPS]]）时系统化，后被[[Palantir Technologies|帕兰提尔科技]]等前沿软件企业拓展至“人际与制度系统”诊断；其核心准则在于：当系统出现任何偏差或故障时，坚决抵制将责任归咎于具体个人的懒惰倾向，而是通过连续追问至少五次“为什么”，顺着因果线索一追到底，直至穿透表象锁定导致系统失灵的根本设计缺陷、资源配置失衡、激励机制扭曲或高层人际博弈根源。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 
 > [!method-scope] 方法范围

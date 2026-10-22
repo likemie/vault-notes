@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 流动儿童教育（Migrant Education）
+> [!def] Migrant Education
 > **[[Migrant Children|流动儿童]]教育（Migrant Education）** 是指面向因家庭跨区域经济流动、季节性生计转移、内部务工或跨境身份未决而处于“流转/过渡状态”（in transit）的学龄群体所推行的制度安排、教学供给与公共政策。在比较教育学与批判社会学视角下，流动儿童教育不仅关涉弱势群体的受教育权保障，更是现代国家通过划分地理区域、登记人口身份与划定学校空间边界，对人口流动性（Mobility）实施识别、规制与筛选的核心机制。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 364–366)]]
 
 > [!concept-lens] 概念透镜与理论辨析

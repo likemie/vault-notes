@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 抛锚式教学（Anchored Instruction）
+> [!def] Anchored Instruction
 > 抛锚式教学（Anchored Instruction，亦称锚定教学）是由范德堡大学认知与技术小组（Cognition and Technology Group at Vanderbilt, CTGV, 1990）提出的经典教学[[Paradigm\|范式]]。该模式通过向学生呈现一个包含复杂、真实情节的多媒体“宏观情境故事”（如《贾斯珀·伍德伯里历险记》*The Adventures of Jasper Woodbury*）作为认知“锚点”（Anchor），将解决问题所需的丰富背景与关键参数自然嵌入情节中，引导学生主动定义子问题、提取数据并开展多步因果推理，以此克服抽象学习中普遍存在的“惰性知识”（Inert Knowledge）缺陷。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
 
 > [!concept-lens] 概念透镜

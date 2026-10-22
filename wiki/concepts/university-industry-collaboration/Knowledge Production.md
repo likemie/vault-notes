@@ -148,7 +148,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识生产（Knowledge Production）
+> [!def] Knowledge Production
 > **知识生产（Knowledge Production）** 是指行动者在特定的[[Epistemology|认识论]][[Paradigm|范式]]、制度生态与交互关系中，对经验世界进行符号表征、实证检验并确立其真理性与合法性的社会化实践过程。该概念贯穿了宏观体制治理与微观教学建构两重互补的分析视阈：
 > 1. **宏观体制、地缘政治与公共治理视阈** 揭示大学、国家与产业资本如何重塑科研知识的生产机制与法律所有权；透视跨国治理机构如何凭借自指性量化指标行使[[Soft Power by Hard Facts|硬事实软权力]]；阐明国家教育督导机构如何在行政工作中开展知识生产（如定向挑选学术流派、预先编制单一范式知识综述排除争端、终审定稿清洗批判性制度反思以生产“当前无可争议的知识状态”）；以及在大国博弈升级背景下，知识生产面临地缘技术脱钩与[[Research Security|科研安全]]审查对全球知识策源地地位的深层冲击。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–653)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 > 2. **微观课堂与学习科学视阈** 指涉学习者摆脱被动接受现成灌输的从属地位，作为能动探究主体在本土协商共同体与[[Man-Computer Symbiosis|人机共生]]网络中开展提出、沟通、评估与合法化的四维[[Epistemic Practices|认识论实践]]，将观点作为客观制品持续改进并内化“说服优于强制”的民主审议价值。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–361)]]

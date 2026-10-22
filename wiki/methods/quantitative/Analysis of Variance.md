@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方差分析（Analysis of Variance）
+> [!def] Analysis of Variance
 > 方差分析（Analysis of Variance, ANOVA）是一族用于检验三个或更多处理组（或两个及以上独立样本）在连续数值因[[Variable\|变量]]上的总体均值是否存在统计学显著差异的推断统计方法，由罗纳德·费希尔（Ronald Fisher）开创并以 $F$ 检验统计量为核心判定工具。其数学本质在于将总离差平方和（Total Sum of Squares, $SS_{\text{total}}$）正交分解为可由实验处理解释的“组间变异”（Between-group Variance / $SS_{\text{between}}$）与由随机误差造成的“组内变异”（Within-group Variance / $SS_{\text{within}}$），通过两类均方的比值 $F = MS_{\text{between}} / MS_{\text{within}}$ 检验各组总体均值相等的原假设。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
 
 > [!method-scope] 方法范围

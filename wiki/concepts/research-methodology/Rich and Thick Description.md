@@ -94,7 +94,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 厚描述（Rich and Thick Description）
+> [!def] Rich and Thick Description
 > 深描（Thick Description，亦译厚描述）由英国哲学家[[Gilbert Ryle\|吉尔伯特·赖尔]]（Gilbert Ryle）首创、后由美国人类学家[[Clifford Geertz\|克利福德·格尔茨]]（[[Clifford Geertz]]）在解释人类学中奠立，并广泛进入教育研究质性方法论的[[Central Phenomenon\|核心范畴]]。它不仅要求对情境化人类行为展开细腻的观察记录，还必须系统囊括行动者赋予行为的**主观意义**、参与者对所处情境的**本土诠释**、以及肉眼不可直接观察的**社会文化历史脉络**。深描的根本旨趣在于使读者能够如身临其境般理解行为发生的文化之网，实现对人类社会生活的主位理解，而非仅停留于外在物理动作的扁平记录。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, pp. 403–404)]]
 
 > [!concept-lens] 概念透镜

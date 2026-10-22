@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 框架综合（Framework Synthesis）
+> [!def] Framework Synthesis
 > 框架综合（Framework Synthesis）是[[Systematic Review\|系统综述]]中处理多样化实证证据的一种质性综合方法：研究者先基于既有理论或概念框架构建一个先验的"最佳拟合"[[Analytic Framework\|分析框架]]，再以该框架作为[[Open Coding|初始编码]]与数据组织的模板，在综合过程中允许新主题从数据中[[Emergence\|涌现]]并迭代修订框架（Brunton et al., 2020; Booth et al., 2022; Gough et al., 2017）。框架综合源于框架分析（Framework Analysis），后者最初用于分析研究数据以服务政策议题（Gale et al., 2013）。
 
 > [!method-scope] 方法范围

@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 实施忠实度（Implementation Fidelity）
+> [!def] Implementation Fidelity
 > 实施保真度（Implementation Fidelity），亦称实施忠实度，是指一项教育干预或政策项目在真实学校与课堂环境中，是否按照预设的设计要求、既定的操作规程、足够的交付强度与达标质量得以执行的程度。在教育评估与[[Causality\|因果推断]]中，实施保真度构成了打开干预成效黑箱的关键中介，用于解释干预产生或未产生效应的现场因果机制，并为科学区分实施妥协与理论无效提供核心证据依据。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 112, 120–121)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!concept-lens] 概念透镜

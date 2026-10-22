@@ -27,7 +27,7 @@ created: 2026-10-07
 updated: 2026-10-16
 ---
 
-> [!def] 会话分析（Conversation Analysis）
+> [!def] Conversation Analysis
 > 会话分析（Conversation Analysis）对会话如何生成、建构、运作，以及参与者如何在交谈情境中形成意义进行细致调查。在 [[Discourse Analysis|话语分析]] 的这一进路中，整体会话的顺序和互动细节得到保留，材料不会只被拆成跨情境的主题片段。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
 
 > [!method-scope] 方法范围

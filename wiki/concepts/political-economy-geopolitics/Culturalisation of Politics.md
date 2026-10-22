@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 政治的文化化（Culturalisation of Politics）
+> [!def] Culturalisation of Politics
 > 政治的文化化（Culturalisation of Politics）是由 Chen（2023）提出的理论概念。它指的是当一个政权在公共[[Discourse|话语]]中无法或不愿公开依靠纯粹的政治意识形态（如共产主义、阶级斗争）来论证其统治合法性时，转而使用文化、历史、道德传统和种族归属话语来包装政治控制与权力垄断的治理策略（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 
 > [!concept-lens] 概念透镜

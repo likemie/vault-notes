@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 流动空间（Space of Flows）
+> [!def] Space of Flows
 > **流动空间（Space of Flows）** 指由微电子电信与信息技术网络所支撑、“允许社会实践在无需领土毗连的条件下同时发生的物质安排”（Castells, 2000b, p. 19；[[Argument_Beech_2009_CE|Beech, 2009a, p. 349]]；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 350]]）。流动空间将社会实践从传统的地理“地方”中脱嵌（Dislocation of space from place），构成了[[Network Society|网络社会]]中主导性功能、资本流动与权力运作的物质基础；在跨国教育[[Champ|场域]]中，它体现为由国际组织（[[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]）、跨国咨询顾问、全球学术网络与智库构成的去领土化政策空间。
 
 > [!concept-lens] 概念透镜

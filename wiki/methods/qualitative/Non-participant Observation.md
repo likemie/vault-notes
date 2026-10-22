@@ -46,7 +46,7 @@ created: 2026-07-11
 updated: 2026-10-20
 ---
 
-> [!def] 非参与观察（Non-participant Observation）
+> [!def] Non-participant Observation
 > 非[[Participant Observation\|参与观察]]是研究者不参与被观察群体活动、从外部保持距离地系统观察和记录行为的方法。与参与式观察不同，非参与观察者回避群体成员身份，保持研究者与研究对象之间的明确边界。在 Gold（1958）的观察者角色连续体中，非参与观察涵盖完全观察者和观察者即参与者两种角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。这一方法在[[Case Study\|个案研究]]、[[Classroom Observation|课堂观察]]和结构化行为编码中广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al., 2011, Ch14, pp. 291–292]]）。
 
 > [!method-scope] 方法范围

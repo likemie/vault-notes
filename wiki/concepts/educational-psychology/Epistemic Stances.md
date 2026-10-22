@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识立场（Epistemic Stances）
+> [!def] Epistemic Stances
 > 认识立场（Epistemic Stances）是指个体、专业共同体或国际政策组织对特定知识主张、信息来源或治理模型所持有的差异化承诺程度与[[Reflexivity|反思性]]态度，包括绝对确信、批判性怀疑、暂且接受、作为工作假设（[[Working Hypothesis]]）推演或视其为开放可能性。在学习科学[[Epistemic Cognition|认识论认知]]框架中，该概念取代了传统发展心理学关于“知识要么确定、要么相对”的单一静态发展阶段论；在宏观比较教育与全球治理视阈下，该概念被运用于解构跨国机构（如[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]）在意识形态竞争中对教育本质与发展规律所秉持的规范性认识前设[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]；在当代人工智能中介学习环境中，该概念进一步演进为学习者与生成式系统交互时的**适应性认识立场（Adaptive Epistemic Stances）**，即根据任务风险与系统[[Educational Affordances|可供性]]在工具性信赖、审慎核验与对抗性质疑之间动态切换的主体能力。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, p. 142)]]; [[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 3–4)]]
 
 > [!concept-lens] 概念透镜

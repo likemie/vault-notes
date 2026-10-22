@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 民心相通（People-to-People Connectivity）
+> [!def] People-to-People Connectivity
 > 民心相通（People-to-People Connectivity）指在跨国区域经济合作倡议（如“[[Belt and Road Initiative|一带一路]]”倡议）与[[South-South Cooperation|南南合作]]多边机制中，通过教育深度交流、科技联合攻关、文化艺术互访、青年人员流动以及职业技能培训，跨越不同文明与制度藩篱建立广泛社会认同与互信，从而为长期跨国基础设施投资、贸易产能协作与主权战略合作构筑社会民意根基与道义正当性的政策治理机制与核心[[Discourse|话语]]体系。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–229)]]
 
 > [!concept-lens] 概念透镜

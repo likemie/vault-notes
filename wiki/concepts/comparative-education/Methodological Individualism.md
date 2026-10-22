@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法论个体主义（Methodological Individualism）
+> [!def] Methodological Individualism
 > 方法论个体主义（Methodological Individualism）是一种在社会科学、哲学与教育研究中广泛应用的方法论与[[Epistemology\|认识论]]原则。该原则主张：一切宏观社会现象、集体结构、制度变迁与组织行为，在解释学和因果机制上必须且只能还原为个体行动者的意图、信念、动机、理性选择与微观互动来加以阐明（Weber, 1922; Schumpeter, 1908; Popper, 1945; Boudon, 1982）。在教育研究与[[Research Utilization\|研究使用]]领域，方法论个体主义表现为将复杂的循证实践简化为教师或校长的个人心理特质、态度打分、信息检索技能或个体理性选择（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 6–7]]）。
 
 > [!concept-lens] 概念透镜

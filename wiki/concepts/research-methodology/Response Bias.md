@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 回应偏差（Response Bias）
+> [!def] Response Bias
 > 回应偏差（Response bias）指研究参与者的回应因受其身份、文化背景、动机或对研究情境的反应而**系统性偏离真实值**的现象。在[[Survey Research\|调查研究]]中，最具代表性的形式是无回应偏差（nonresponse bias）——非回应者若做出回应，其回答将显著改变调查的整体结果（Fowler, 2014）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
 
 从更广泛的跨文化和方法论角度看，回应偏差涵盖了研究参与者以系统不同方式回应项目、元素、[[Construct|构念]]或量表的现象——不仅关乎"谁不回应"，还关乎"回应者如何被自身文化和研究情境塑造了回答"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]

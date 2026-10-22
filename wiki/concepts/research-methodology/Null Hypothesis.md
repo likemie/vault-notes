@@ -38,7 +38,7 @@ created: 2026-05-31
 updated: 2026-10-22
 ---
 
-> [!def] 零假设（Null Hypothesis）
+> [!def] Null Hypothesis
 > 零假设是正式假设检验中的一种基本假设形式，预测在总体中[[Variable\|变量]]间不存在关系或组间不存在显著差异。其目的是通过陈述一个否定性预期来反驳理论，通常写作 H₀（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.144]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.140]]）。
 
 > [!concept-lens] 概念透镜

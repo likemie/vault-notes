@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 啄序（Pecking Order）
+> [!def] Pecking Order
 > **啄序（Pecking Order）**，又称**支配等级（Dominance Hierarchy）**，是指群居动物（如鸡、寒鸦、狼等）在群体生活中通过个体间攻击、威胁与屈服博弈所形成的线性格局或金字塔式森严顺位体系。高顺位个体享有优先取食、配偶与筑巢特权，并对低顺位个体实施自上而下的支配与排斥。奥地利动物行为学家[[Konrad Lorenz|康拉德·劳伦兹]]（Konrad Lorenz）在 1949 年《所罗门王的指环》中生动描绘了寒鸦社会的严酷等级；在现代组织批判中，该概念被[[Keith Johnstone|基思·约翰斯通]]以及卡普（[[Alexander Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）引申为**传统科层大企业中层层叠叠、不可逾越的职位特权体系**，指出这种源于动物本能的等级支配严重扼杀了基层的雄心与跨越层级的创新灵感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
 
 > [!concept-lens] 概念透镜

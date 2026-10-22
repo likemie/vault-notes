@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科学资本（Science Capital）
+> [!def] Science Capital
 > 科学资本是指个体所具备的所有与科学相关的知识、经验、态度、日常消费偏好、社会关系网络以及家庭拥有的科学资源总和。它作为一种特定形态的[[Cultural Capital\|文化资本]]与社会资本，深刻影响着青少年是否将科学视作“适合自己”（for me）的可行发展路径及其长远职业抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 > [!concept-lens] 概念透镜

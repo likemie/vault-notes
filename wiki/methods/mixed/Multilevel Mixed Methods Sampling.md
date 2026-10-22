@@ -36,7 +36,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 多层次混合方法抽样（Multilevel Mixed Methods Sampling）
+> [!def] Multilevel Mixed Methods Sampling
 > 多层次[[Mixed Methods Research\|混合方法]]抽样（Multilevel Mixed Methods Sampling）是[[Mixed Methods Research\|混合方法研究]]中的一种抽样设计：在研究的**不同[[Unit of Analysis\|分析单位]]层次**上分别使用[[Random Sampling\|概率抽样]]、[[Non-probability Sampling\|非概率抽样]]或两者的组合，各层次根据自身的[[Research Question\|研究问题]]和数据可得性独立选择最合适的抽样策略（Teddlie & Tashakkori, 2009, pp. 185–91）。Onwuegbuzie and Leech（2007, p. 240）指出，多层次设计支持跨层次子组比较（如个体学生与教师），但提醒不同层次的子[[Sample Size Determination\|样本量]]通常不相等——如 30 名学生可能只有 1–2 名教师对应。
 
 > [!method-scope] 方法范围

@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国防前沿创新模式（DARPA Model）
+> [!def] DARPA Model
 > **[[DARPA]] 模式（DARPA Model）** 指以“防范国家技术突袭并主动制造技术突袭”为法定使命，通过去中心化、扁平化的组织架构，赋予具备深厚技术研判权的流动性项目经理（Program Managers, PMs）极大的立项自由裁量权，运用[[Broad Agency Announcement|广泛领域资助公告]]（BAA）、[[Heilmeier Catechism|海尔迈耶问卷]]（Heilmeier Catechism）与微观非正式[[Network Governance|网络治理]]机制，在前沿高风险硬科技领域主动识别、催化并引导战略[[Technological Trajectories|技术轨道]]的国家创新管理[[Paradigm|范式]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
 
 > [!concept-lens] 概念透镜

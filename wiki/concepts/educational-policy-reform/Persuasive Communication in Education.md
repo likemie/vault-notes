@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育中的说服性沟通策略（Persuasive Communication in Education）
+> [!def] Persuasive Communication in Education
 > 教育中的说服性沟通策略（Persuasive Communication in Education）指商业出版机构、教育咨询公司、政策倡导者或创新推广者，为了促使学校、教育局与一线教师采纳特定教学方案或干预项目，所采用的一整套基于修辞框架、情感共鸣、权威背书与诱人承诺的传播说服技术。加拿大蒙特利尔大学学者 Nora Carrier（2017）在《Educational Research》特刊中指出，许多在学校中迅速扩散的“教育时尚”（educational fads，如脑科学神话、[[Learning Styles|学习风格]]理论等）之所以大获成功，往往不是因为其具备扎实的实证因果证据，而是因为其善于运用高度专业化的说服性沟通策略；这种现象对真实的[[Evidence-Informed Practice\|证据知情实践]]构成了严重干扰。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 
 > [!concept-lens] 概念透镜

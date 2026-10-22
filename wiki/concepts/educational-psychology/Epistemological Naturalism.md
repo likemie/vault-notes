@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论自然主义（Epistemological Naturalism）
+> [!def] Epistemological Naturalism
 > [[Epistemology\|认识论]]自然主义（Epistemological Naturalism）是20世纪中后期最重要的哲学转向之一。它主张放弃对知识“绝对确定性”和基础主义（Foundationalism）的先验（A priori）寻求，转而将认识论视为一门需要依赖[[Scientific Method\|经验科学]]（尤其是心理学、认知科学和进化生物学）来研究人类如何实际获取、生成和评估信念的实证性学科。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 145)]]；[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 > [!concept-lens] 概念透镜

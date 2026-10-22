@@ -103,7 +103,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-> [!def] 脚手架（Scaffolding）
+> [!def] Scaffolding
 > 教学脚手架（Scaffolding）源于 Wood, Bruner, & Ross (1976) 在儿童[[Problem Solving\|问题解决]]辅导研究中的开创性界定，并植根于[[Lev Vygotsky\|维果茨基]]的[[Zone of Proximal Development\|最近发展区]]（ZPD）理论。它指教师、专家同伴或数字化与智能系统在学习者独自难以完成复杂任务时，所提供的具有针对性、自适应且随能力提升逐步撤除（渐隐，Fading）的临时性认知与结构支持。在科学探究与理科教学中，脚手架涵盖过程约束、状态提示、启发线索、概念模板、即时原理解释与操作反思等多种形态，通过分担表层信息检索与规则排错负荷，脚手架使学习者有限的[[Working Memory\|工作记忆]]能够集中于高阶因果推理与证据协调，最终促进外部支持内化为自主认知图式。在智能[[Man-Computer Symbiosis|人机协同]]与决策支持中，脚手架进一步拓展为提供可抗辩性支持与审议所有权的反思机制，校准批判性信任并防范[[Automation Bias|自动化偏差]]。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 3–5)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 4)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 3–4)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–24)]]
 
 > [!concept-lens] 概念透镜

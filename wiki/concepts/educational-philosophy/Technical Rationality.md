@@ -159,7 +159,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 技术理性（Technical Rationality）
+> [!def] Technical Rationality
 > 技术理性将专业实践与教育改革窄化为**自上而下的线性研究灌输与去情境化的工具性计算模型**。在微观实践层面，[[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 127)]] 指出，技术理性将教师贬低为被动执行外部有效性证据的技术人员，因忽视复杂实践情境与教师[[Professional Judgment\|专业判断]]而频遭政策受挫；在宏观比较教育与国际治理层面，[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b, pp. 56–57)]] 揭示技术官僚理性将教育矮化为单纯的“学校教育”（Schooling）与可测量的经济投入产出工程，剥夺了对以人为中心（Anthropocentric）的古典全人教化（*[[Paideia]]*）传统与人类文明伦理危机的哲学反思。
 
 > [!concept-lens] 概念透镜

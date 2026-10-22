@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创新荒漠（Innovation Desert）
+> [!def] Innovation Desert
 > **创新荒漠（Innovation Desert）** 指在公共治理、社会民生与国家安全等关键领域中，因深层的政治争议、官僚程序壁垒、政客避险推责、科技界的消费主义逃避、公共部门薪酬倒挂以及文化精英的[[Luxury Belief|炫耀性信念]]，长期拒绝、排斥或严重滞后吸纳前沿软件算法与现代工程文化的部门与体制空间（涵盖地方执法与公共安全、医疗健康、基础教育、公共人事以及国防采办等系统）。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的分析中，创新荒漠不仅是技术应用层面的空白，更折射出制度激励的扭曲——当公共机构以“[[Procedural Piety|程序虔敬]]”为挡箭牌压制实干创新者、以微薄薪酬将顶尖人才阻隔在体制之外时，整个国家治理能力便会陷入持续退化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 9–11, 14–15)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 176–177)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 180–183)]]
 
 > [!concept-lens] 概念透镜

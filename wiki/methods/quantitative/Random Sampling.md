@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 随机抽样（Random Sampling）
+> [!def] Random Sampling
 > 随机抽样（Random Sampling），亦称概率抽样（Probability Sampling），指从明确界定的研究总体中，依据已知的非零概率（在简单随机抽样中为均等概率）抽取样本单元的方法论策略家族。核心目标是通过概率随机化机制消除抽样过程中的主观选择偏倚，使样本统计量能够以可计算的误差范围无偏推断总体参数，确立研究的外部效度（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch8, pp. 143–145）。
 
 > [!method-scope] 方法范围

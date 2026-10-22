@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识问题（Knowledge Questions）
+> [!def] Knowledge Questions
 > 知识问题（Knowledge Questions，KQ）是[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）课程中关于知识本身的开放且一般化问题。它从具体知识主张或情境出发，追问知识如何形成、获得支持、受到限制或发生变化。问题可以涉及模型、因果、解释、反常、归纳、确定性、不确定性和信念，并由[[Ways of Knowing\|认知方式]]与[[Areas of Knowledge\|知识领域]]提供分析路径 [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 35–36)]]。在[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）的[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）中，它也作为跨学科反思和实践联动的枢纽 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]。
 
 > [!concept-lens] 概念透镜

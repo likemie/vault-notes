@@ -98,7 +98,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 比较教育学科学范式（Scientific Paradigm）
+> [!def] Scientific Paradigm
 > 科学[[Paradigm\|范式]]（Scientific Paradigm）是指在 20 世纪 50 年代末至 70 年代初席卷英美比较教育学界的一种支配性知识体系与研究纲领。在[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）的范式理论视阈下，该范式主张彻底清洗古典历史-哲学传统的[[Subjectivism\|主观主义]]、印象主义与道德思辨，将自然科学与行为经验社会科学（特别是[[Structural Functionalism|结构功能主义]]社会学与计量经济学）的实证准则确立为学科规范，通过[[Variable\|变量]][[Operationalization\|操作化]]、跨国量化共变假设检验或假说-演绎[[Problem Solving\|问题解决]]程序，探寻跨国教育制度与社会结构之间的普遍或权变规律，并为现代国家规划提供确定性的政策咨询。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–62)]]
 
 > [!concept-lens] 概念透镜

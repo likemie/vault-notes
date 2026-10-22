@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 滋养机制（Feeder Mechanism）
+> [!def] Feeder Mechanism
 > 滋养机制（Feeder Mechanism）是一种将课程视为“生成性引擎”的教育隐喻，与之相对立的是追求大一统真理或预设道德终点的传统教育目的论。在[[Baruch Spinoza\|斯宾诺莎]]式的后现代课堂中，教学的重点不是带领学生抵达某个既定的认知终点，而是通过赋予学生运用想象力和转化负面情感的权能，使课堂不断地为新的、跨学科的智识探索“提供养分”（feeding）。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 
 > [!concept-lens] 概念透镜

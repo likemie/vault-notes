@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科研间接成本（Indirect Costs of Research）
+> [!def] Indirect Costs of Research
 > 科研间接成本（Indirect Costs of Research），在当代美国联邦科技资助体系中正式界定为**设施与行政管理费（Facilities and Administrative costs, F&A）**，亦通称为管理费（Overhead），指大学在执行外部科研项目过程中实际发生、但无法直接且明确归因于某一具体课题合同的机构运转与支持性支出（涵盖实验室建筑物折旧、水电通风、安保清洁、图书与网络系统、科研伦理审查及财务法务合规等）；联邦资助机构通常通过在直接研究经费（Direct Costs）之上按经谈判商定的百分比费率（Indirect Cost Rate）向大学提供额外资金补偿。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 5, 11, 15–17)]]
 
 > [!concept-lens] 概念透镜

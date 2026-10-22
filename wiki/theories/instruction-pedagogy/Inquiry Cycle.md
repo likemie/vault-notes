@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 在科学教育与学习科学中，“探究循环”（Inquiry Cycle），亦称[[Inquiry-Based Learning|探究学习]]循环或 Pedaste 探究循环模型，指一种将科学调查活动规范划分为相互联系、循序渐进且动态回流的认知阶段元理论框架。
 
-> [!def] 探究循环（Inquiry Cycle）
+> [!def] Inquiry Cycle
 > 探究循环模型由爱沙尼亚塔尔图大学马尔古斯·佩达斯特（Margus Pedaste）教授联合欧洲多国学习科学家，在对 32 篇代表性科学探究[[Framework for Teaching|教学框架]]开展全面[[Systematic Review\|系统综述]]与语义综合的基础上提炼而成（Pedaste et al., 2015）。该框架指出，真实的科学探究并非混乱随机的盲目摸索，而是围绕[[Problem Solving\|问题解决]]展开的结构化认知循环，包含五大主阶段与次级子阶段：
 > 1. **定向（Orientation）** 激发好奇心并引入核心问题；
 > 2. **概念化（Conceptualization）** 提出[[Research Question\|研究问题]]（Questioning）与生成科学假设（Hypothesizing）；

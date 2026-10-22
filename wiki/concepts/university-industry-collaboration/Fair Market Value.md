@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 公平市场价值（Fair Market Value）
+> [!def] Fair Market Value
 > **公平市场价值（Fair Market Value, FMV）** 是在信息对称、自愿且不受外部强制的独立交易双方之间进行资产、服务或货物转让时达成的公允基准价值。在**国际贸易与产业规制**领域，FMV 指反倾销调查与管理贸易协定中，依据生产商实际制造成本、合理管理销售费用与法定利润率核定的正常出口价格基准，用于防范低于成本掠夺性倾销并设定法定义务价格底线；[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–126)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 85)]] 在**生物医药[[University-Industry Collaboration|产学合作]]** 领域，FMV 指产业方在编制[[University-Industry Collaboration|产学合作]]与[[Clinical Trial|临床试验]]预算时，通过聚合全行业实际历史谈判数据确立的公允报销标准，旨在防范对医疗学术机构形成不当利益输送或合规违规。
 
 > [!concept-lens] 概念透镜

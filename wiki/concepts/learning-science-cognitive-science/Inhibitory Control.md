@@ -52,7 +52,7 @@ created: 2026-09-21
 updated: 2026-10-22
 ---
 
-> [!def] 抑制控制（Inhibitory Control）
+> [!def] Inhibitory Control
 > 抑制控制（Inhibitory Control）是认知心理学、发育神经科学与学习科学中[[Executive Function\|执行功能]]（Executive Function, EF）的三大核心下属成分之一（与[[Working Memory\|工作记忆]]刷新、认知灵活性并列构筑了三宅等人的经典统一与多样性框架；Miyake et al., 2000; Diamond, 2013）。它指个体依据目标或情境规则，**有意识地压制或推迟习惯性、本能性且不合时宜的优势反应（Prepotent Response），并主动抵御外界环境中无关知觉刺激干扰**的核心自上而下（Top-down）神经认知调控机制。
 
 在科学学习与数字化探究环境中，抑制控制充当了认知资源分配的“信息[[Gatekeepers|守门人]]”——帮助学生在面对多参数高动态交互界面时，抑制盲目试错冲动，排除无关噪音[[Variable|变量]]干扰，确保认知带宽定向服务于[[Causality|因果推断]]（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 8]]）。

@@ -100,7 +100,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识动员（Knowledge Mobilisation）
+> [!def] Knowledge Mobilisation
 > 知识动员（Knowledge Mobilisation, KMb）指研究与数据融入或未能融入教育政策与实践的完整中介过程。知识动员本质上是研究者、决策者与实践者通过多方协作共同创造、翻译、重组并制度化应用知识的社会互动与迭代过程，旨在克服研究与实践脱节，培育使证据扎根生长的肥沃土壤。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127, 130)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 66–67)]]
 
 > [!concept-lens] 概念透镜

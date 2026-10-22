@@ -35,7 +35,7 @@ updated: 2026-10-16
 
 ---
 
-> [!def] 共变关系研究（Co-relational Study）
+> [!def] Co-relational Study
 > 共变关系研究是[[Ex Post Facto Research\|事后回溯研究]]中的一种基本设计类型，有时也称因果研究（causal research）。它旨在识别当前条件的先行因素（antecedents），通过收集两组数据（其中一组为回溯性数据）来确定[[Independent Variable\|自变量]]（X）与[[Dependent Variable\|因变量]]（O）之间的关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al., 2011, Ch. 15, p. 307]]）。
 
 > [!concept-lens] 概念透镜

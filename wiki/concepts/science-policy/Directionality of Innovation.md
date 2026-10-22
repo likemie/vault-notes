@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创新的方向性（Directionality of Innovation）
+> [!def] Directionality of Innovation
 > **创新的方向性（Directionality of Innovation / Directionality）** 是指创新活动与技术变革不仅包含发生速率、研发投入规模与专利产出数量等量化维度，更包含指向何种社会目标、遵循何种价值规范的质性演进路径。这一概念强调经济增长与技术演化存在多条相互竞争的潜在轨道，市场自发力量无法保证技术必然流向增进公共福祉或保障国家战略安全的领域；公共政策的核心使命必须超越单纯维护市场中立的新古典视角，通过前瞻性战略与制度设计倾斜市场竞争环境（[[Tilting the Playing Field]]），主动引领创新流向绿色低碳、社会包容、供应链韧性与高质量发展的特定使命方向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]
 
 > [!concept-lens] 概念透镜

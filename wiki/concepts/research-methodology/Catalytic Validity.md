@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 催化效度（Catalytic Validity）
+> [!def] Catalytic Validity
 > 催化效度（Catalytic validity）力求确保**研究导致行动**。在中性层面上，它与[[Participatory Research\|参与式研究]][[Paradigm\|范式]]相呼应——研究不应止于描述或解释，而应推动改变。但 Lather (1986, 1991) 和 Kincheloe and McLaren (1994) 赋予了它更强的政治性：催化效度的议程是**帮助参与者理解他们的世界，以便转变它**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 173–174)]]
 
 > [!concept-lens] 概念透镜

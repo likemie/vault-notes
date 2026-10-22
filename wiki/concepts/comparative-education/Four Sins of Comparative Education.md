@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 比较教育的四种罪过（Four Sins of Comparative Education）
+> [!def] Four Sins of Comparative Education
 > 比较教育的四种罪过（Four Sins of Comparative Education）是比较教育学科史与方法论诊断概念，由 [[Robert Cowen]] 于 2023 年提出。它指学科在两百年的自我合法化进程中，不断重复且常被学术界误视作“理论突破”的四种认知偏差与方法论盲区：进步假设（假设学科必然向科学迈进）、地方主义（将美英轴心视作全球中心）、借用成瘾（机械进口宏[[Big Ideas\|大概念]]以逃避情境分析）以及科学混乱（对科学定义的多重混淆）。这一概念工具旨在解构学科积累的历史陈词滥调，促使学者反思隐藏的[[Epistemology\|认识论]]偏见与[[Geopolitics|地缘政治]]共谋。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 328]])
 
 > [!concept-lens] 概念透镜

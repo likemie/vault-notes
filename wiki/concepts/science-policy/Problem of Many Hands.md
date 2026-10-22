@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 多手难题（Problem of Many Hands）
+> [!def] Problem of Many Hands
 > **多手难题（Problem of Many Hands）** 最初由政治哲学家丹尼斯·F·汤普森（Dennis F. Thompson）于 1980 年提出，后被布赖恩·W·黑德（Brian W. Head）及伊博·范德波尔（Ibo van de Poel）等学者引入公共治理与科技政策领域。在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中，该概念用于刻画应对重大社会挑战时的制度性协调阻碍：在涉及多部委、多行政层级与多类社会行动者的复杂治理网络中，由于行动贡献相互交织且决策链条过长，当政策推进受阻、出现重大延误或产生次生负面后果时，无法将行政与道德责任清晰归因于任何单一组织或个人，导致责任归咎不能与治理僵局（[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020, pp. 476–477]]）。在[[Historical Institutionalism|历史制度主义]]与规制治理研究中，该概念进一步被确立为[[Institutional Layering|制度层叠]]中行动者增厚（Thickening）的典型制度病理：当政府在纵向行政层级或横向规制体制中持续叠加新机构、私营部门与非营利主体时，多重图层重叠导致管辖权模糊与责任虚化，形成系统性归责真空与协调失灵（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, p. 14]]；Light, 1995）。
 
 > [!concept-lens] 概念透镜

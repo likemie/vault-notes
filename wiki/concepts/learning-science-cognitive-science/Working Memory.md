@@ -65,7 +65,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-> [!def] 工作记忆（Working Memory）
+> [!def] Working Memory
 > 工作记忆（Working Memory）是个体在执行理解、推理、[[Problem Solving\|问题解决]]等复杂认知任务过程中，用于对任务相关信息进行短暂动态保持、符号操纵与实时监控的容量受限的认知系统。在认知心理学与神经科学中，工作记忆既是[[Executive Function\|执行功能]]（Executive Function, EF）的核心成分（表现为信息的[[Updating and Monitoring\|更新与监控]]），也是人类认知架构中处理新异信息时最狭窄的瓶颈：未经复述的信息仅能保持数秒至二十秒，且同时容纳的独立信息单元极其有限。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
 
 > [!concept-lens] 概念透镜

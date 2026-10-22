@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 分类资助（Categorical Funding）
+> [!def] Categorical Funding
 > 分类资助（Categorical Funding）亦称定向委托研究（Commissioned Research），是一种由外部资助方（政府部门、研究理事会或跨国多边金融机构）预先设定[[Research Topic|研究主题]]、目标、范围和方法学边界的资助制度。项目承接通常依托标书竞标完成，学术生产在机制上被转化为执行出资方意图的合同化履约劳动。在[[International Education|国际教育]]治理中，以[[World Bank|世界银行]]为代表的机构通过长周期、高额预算的定向资助，将新古典经济学、[[Human Capital Theory|人力资本理论]]与投入产出规程深度嵌入全球[[Knowledge Production|知识生产]]，构成[[Financial-Intellectual Complex|金融-智识复合体]]的核心支柱；而在学术[[Champ|场域]]内部，定向委托合同研究以极端压缩的交付周期迫使学者放弃复杂性探索与批判反思，深刻侵蚀了大学基础科研的自主逻辑。Burgess (1993, p. 1); [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; Ball (2001); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 355)]]
 
 > [!concept-lens] 概念透镜

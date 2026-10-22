@@ -33,7 +33,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 故事作为研究资料（Stories as Research Data）
+> [!def] Stories as Research Data
 > 故事作为研究资料是将故事（stories）和叙事（narratives）视为教育研究证据来源的方法。Bauman（1986, p. 3）将故事定义为**口头文学**，其意义、形式和功能情境性地植根于赋予行动以意义的文化语境、场景和事件中。Bruner（1986）将大量行动视为“**被叙事化的文本（storied text）**”，行动者通过叙事赋予其情境以意义，这呼应了教育研究的诠释取向。
 
 > [!method-scope] 方法范围

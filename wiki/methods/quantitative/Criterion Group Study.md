@@ -39,7 +39,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 标准组研究（Criterion Group Study）
+> [!def] Criterion Group Study
 > 标准组研究是[[Ex Post Facto Research\|事后回溯研究]]中的一种基本设计类型，有时也称因果-比较研究（causal-comparative research）。它通过比较[[Variable\|变量]]存在的被试（标准组）与变量不存在的相似被试（对照组），即注意给定效应在何种情境下出现与不出现，来发现所研究现象的可能原因（Lord, 1973, p. 3）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al., 2011, Ch. 15, p. 307]]）。
 
 > [!concept-lens] 概念透镜

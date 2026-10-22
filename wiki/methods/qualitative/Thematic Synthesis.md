@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 主题综合法（Thematic Synthesis）
+> [!def] Thematic Synthesis
 > 主题综合法（Thematic Synthesis）是由 James Thomas 与 Angela Harden 于 2008 年提出的一种专门用于[[Systematic Review\|系统综述]]中的质性证据整合方法。该方法结合了传统[[Qualitative Research\|质性研究]]中的主题分析（Thematic Analysis）与元[[Ethnography\|民族志]]的综合逻辑，通过对初级研究的结果（Findings）进行“逐行自由编码（Line-by-Line Coding）”、“归纳描述性主题（Descriptive Themes）”以及“生成超越原文献的分析性主题（Analytical Themes）”三个阶段，将来自多元定性、定量描述与[[Mixed Methods Research\|混合方法研究]]的分散发现转化为具有理论解释力的新见解（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 4–5]]）。
 
 > [!method-scope] 方法范围

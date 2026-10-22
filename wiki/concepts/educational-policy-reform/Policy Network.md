@@ -118,7 +118,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 政策网络（Policy Network）
+> [!def] Policy Network
 > 政策网络（Policy Network）指由政府行政机构、[[Knowledge Mediation\|知识中介]]组织、智库、科研院所、慈善基金会以及企业科技资本等多元公私行动者构成的网状治理结构。
 >
 > 在教育研究与治理文献中，该概念展现出三大互补的研究视角：

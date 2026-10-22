@@ -39,7 +39,7 @@ created: 2026-07-11
 updated: 2026-10-22
 ---
 
-> [!def] 插补方法（Imputation Methods）
+> [!def] Imputation Methods
 > 插补方法（Imputation Methods）是用"合理值"填充缺失数据的技术，使数据集完整同时减少无回应偏倚——无回应者的值可能系统性不同于有回应者，直接删除会扭曲结果（Durrant, 2009, p. 295）。Rubin (1987)、Little and Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150)和 Durrant (2006, 2009)系统回顾了这一方法家族。
 
 > [!method-scope] 方法范围

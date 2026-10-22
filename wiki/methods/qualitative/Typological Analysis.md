@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 类型学分析（Typological Analysis）
+> [!def] Typological Analysis
 > 类型学分析（Typological Analysis）是通过明确的分类维度与判据，将复杂的经验现象系统化组织为具有内在逻辑关联的子集、类型矩阵或因果构型的研究方法。在微观质性数据分析中，类型学分析表现为次级编码（Secondary Coding）过程，即将离散的描述性编码依据行为、意义或策略变异进一步汇总归入高阶类别与类型集合（Lofland, 1970；LeCompte & Preissle, 1993；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al., 2011, 29.5]]）；在宏观比较政治与[[Historical Institutionalism|历史制度主义]]中，类型学分析升华为**因果类型学理论（Typological Theory）**，通过将两个或多个具有解释力的维度在性质空间（Property Space）中进行交叉构建（Cross-tabulation），推导出互斥且逻辑完备的因果演变路径与行动者博弈类型，为长时段案例比较与机制追踪提供中观因果命题架构（Lazarsfeld & Barton, 1951；George & Bennett, 2005；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 14–32]]）。
 
 > [!method-scope] 方法范围

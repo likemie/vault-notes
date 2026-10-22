@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 二元逻辑回归（Binary Logistic Regression）
+> [!def] Binary Logistic Regression
 > 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable\|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu\|陪读]]、是否录取、是否流失）的广义线性回归分析方法。它通过 Logit 变换，将[[Dependent Variable\|因变量]]发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为[[Independent Variable\|自变量]]的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance\|统计显著性]]。
 
 > [!method-scope] 方法范围

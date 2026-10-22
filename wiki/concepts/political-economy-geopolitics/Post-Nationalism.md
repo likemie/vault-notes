@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 后国家主义（Post-Nationalism）
+> [!def] Post-Nationalism
 > **后国家主义（Post-Nationalism）** 是一种主张在政治、法律与文化维度逐步超越和解构传统民族国家（Nation-State）合法性边界的规范性政治哲学与社会思潮。它认为传统的国家认同与爱国叙事具有内在的排他性、沙文主义和道德危险性，主张将公民忠诚转向超国家制度联合体、程序性宪政法权或去中心化的多元[[Cosmopolitanism|世界主义]]。在当代地缘战略与政治哲学反思中，该思潮因系统性消解了国家共同体的精神凝聚力、造成公共道德真空并削弱民主阵营防卫威慑力而面临重大危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–194, 198–204)]]
 
 > [!concept-lens] 概念透镜

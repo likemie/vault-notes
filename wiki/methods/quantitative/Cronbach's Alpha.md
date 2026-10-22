@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 克隆巴赫系数（Cronbach's Alpha）
+> [!def] Cronbach's Alpha
 > **克隆巴赫 $\alpha$ 系数（Cronbach's Alpha）** 是[[Classical Test Theory\|经典测量理论]]（CTT）框架下评估多题项复合测量工具[[Internal Consistency\|内部一致性]][[Reliability\|信度]]（Internal Consistency Reliability）最通用的量化指标。它通过计算测验中所有可能折半[[Composite Reliability\|组合信度]]的均值，度量同一量表（或分量表）内各个题项在多大程度上共同测量同一个潜在[[Construct\|构念]]，从而估计由题项抽样变异所引起的测量误差比例。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 310–312)]]
 
 > [!method-scope] 方法范围

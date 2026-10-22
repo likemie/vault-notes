@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 成功标准（Success Criteria）
+> [!def] Success Criteria
 > 成功标准（Success Criteria，又称达成标准或表现成功标准）指伴随 [[Learning Intentions\|学习意图]] 向学生明确呈现的具体质性证据特征、逻辑构成要素与进阶评估阶梯。它界定了“学生做到何种程度即可被视为达成目标”，为学生在学习过程中开展自我调节、[[Peer Assessment|同伴互评]]以及教师提供针对性反馈提供清晰的[[Operationalization\|操作化]]证据参照（Clarke, Timperley, & Hattie, 2003；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。
 
 > [!concept-lens] 概念透镜

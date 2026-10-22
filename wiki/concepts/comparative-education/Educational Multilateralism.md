@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国际教育多边主义（Educational Multilateralism）
+> [!def] Educational Multilateralism
 > 教育多边主义（Educational Multilateralism）是指由三个或三个以上民族国家在普遍行为原则（generalized principles of conduct）基础上，通过国际组织协调国家间教育政策、规则制定与资源分配的制度化机制。在比较教育政治经济学分析中，教育多边主义不仅是一种国际组织合作形式，更是全球权力格局与国际资本流动塑造主权国家教育发展路径的关键制度中介。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!concept-lens] 概念透镜

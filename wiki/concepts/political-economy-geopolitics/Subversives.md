@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 颠覆者（Subversives）
+> [!def] Subversives
 > 颠覆者（Subversives）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过解耦行动者的长期制度维系目标与短期策略遵从行为确立，特指长期目标谋求消灭或取代既有制度（不追求制度维系），但在短期博弈中伪装成模范合规者（遵守既有规则）、在体制内潜伏运作的行动主体。在面临强维持现状阻力与低规则裁量空间（强[[Veto Possibilities|否决可能性]] + 低解释[[Enforcement Discretion|执行裁量权]]）的制度情境下，公开违规或正面挑战必遭否决点严厉封杀，颠覆者只能选择顺从规章表象，在旧制度边缘与缝隙中赞助新规则层叠，如同“地下室白蚁”般悄然侵蚀体制根基，待时机成熟时彻底架空旧制度核心，是驱动[[Institutional Layering|制度层叠]]的主导微观变革行动者（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 25–26, 28, 30–31]]）。
 
 > [!concept-lens] 概念透镜

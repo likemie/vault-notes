@@ -42,7 +42,7 @@ aliases:
 
 ---
 
-> [!def] 复杂性悖论（Complexity Paradox）
+> [!def] Complexity Paradox
 > **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）** 是指现代公共治理中所出现的一种结构性制度异化现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康危机、人口老龄化与绿色数字双转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、退守部门壁垒并陷入碎片化与条块分割。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统引入使命导向政策分析，用以解释为何旨在发挥跨部门宏观协调功能的创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
 
 > [!concept-lens] 概念透镜

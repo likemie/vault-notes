@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 多特质-多方法矩阵（Multitrait-Multimethod Matrix）
+> [!def] Multitrait-Multimethod Matrix
 > **多特质-多方法矩阵（Multitrait-[[Multimethod Research\|multimethod]] Matrix, MTMM）** 是由 Donald T. Campbell 与 Donald W. Fiske 于 1959 年创立的心理测量与[[Construct Validity\|构念效度]]检验方法，指通过同时测量至少两种不同的目标特质（Traits）并分别采用至少两种相互独立的方法（Methods），构建出一套包含全部成对相关系数的对称矩阵，以系统分离特质方差、方法方差与随机误差方差，从而全面确证测量工具的[[Convergent and Discriminant Validity\|收敛效度]]（Convergent Validity）与判别效度（Discriminant Validity）([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, pp. 176–178]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 4]])。
 
 > [!method-scope] 方法范围

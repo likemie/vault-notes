@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 文化民族主义与政治民族主义（Cultural Nationalism vs. Political Nationalism）
+> [!def] Cultural Nationalism vs. Political Nationalism
 > **文化民族主义与政治民族主义（Cultural Nationalism vs. Political Nationalism）** 是指[[Isaac Kandel\|艾萨克·坎德尔]]在 20 世纪 30 至 40 年代直面欧洲极权主义扩张与世界大战危机时确立的比较教育政治哲学核心类型学区分。**政治民族主义**将国家抽象为主权目的本身与外在强权，依托国家官僚机器推行军国主义、侵略性排外狂热与教条化意识形态灌输，将学校完全降格为政权进行政治动员与控制臣民的工具；**文化民族主义**则植根于民族独特的语言文学、艺术遗产与伦理生活传统，以滋养个体内在整全人格（教化）与保障公民文化自由为旨归。坎德尔明确指出，唯有依靠文化民族主义对本国精神传统的深度自觉，人类才能建立起超越狭隘沙文主义、真正建立在彼此欣赏与尊重之上的良性国际主义秩序。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Herzog, 1960; Kazamias, 2009, p. 49, 引自 Kazamias, 2009b)]]
 
 > [!concept-lens] 概念透镜

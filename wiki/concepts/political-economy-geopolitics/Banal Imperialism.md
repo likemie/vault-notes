@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 平庸的帝国主义（Banal Imperialism）
+> [!def] Banal Imperialism
 > 平庸的帝国主义（Banal Imperialism）是当代[[Critical Geopolitics\|批判地缘政治]]与去殖民比较教育学派的核心概念。它指的是超国家评估机构（如 [[OECD]]）借助日常化、技术化、且看似客观中立的跨国学生评估数据（如 [[PISA]] 排名），将西方的教育效率与社会发展指标树立为普世标准，从而在潜移默化中巩固西方中心的[[Epistemology\|认识论]]规则，再生产对非西方社会的“他者化”（Othering）与文化规训的深层霸权机制。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])
 
 > [!concept-lens] 概念透镜

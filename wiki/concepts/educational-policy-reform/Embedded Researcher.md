@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 嵌入式研究者（Embedded Researcher）
+> [!def] Embedded Researcher
 > 嵌入式研究者（Embedded Researcher）指长期置身或直接受聘于政策制定机构（如教育部委、学区行政署）或教育实践机构（如中小学校、校际协作网络）内部，依托科研训练背景与专业方法学素养，在日常行政决策运作或教学实践情境中承担研究证据搜集、转化翻译、跨界协同与知识匹配职能的专业人员（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 77, 87–89]]）。嵌入式研究者打破了传统将研究生产与实践应用截然二分的线性推送模式，通过在真实工作场景中建立持续性的人际信任与互动回路，直接驱动[[Evidence Ecosystem\|证据生态系统]]内部各主体的相互理解与知识吸收。
 
 > [!concept-lens] 概念透镜

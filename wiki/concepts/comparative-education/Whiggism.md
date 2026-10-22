@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 辉格史观（Whiggism）
+> [!def] Whiggism
 > **辉格史观（Whiggism / The Whig Interpretation of History）** 指历史研究中以当下的价值取向、政治制度或学术标准为终极依归，将复杂的历史演进过程简化为通向当下“优越状态”的线性进步叙事，并据此对历史事实与历史当事人展开逆向剪裁与道德裁判的史学方法论倾向。该[[Construct\|构念]]由英国史学家赫伯特·巴特菲尔德（Herbert Butterfield）于 1931 年系统确立。在比较教育学中，辉格史观主要表现为两种形态：一是历史学派学者（如[[Isaac Kandel\|坎德尔]]）在考察国家制度演进时混淆“实然阐释（What is）”与“应然改良（What ought to be）”，以先验的民主改良热忱逆向剪裁史料；二是战[[Postpositivism\|后实证主义]]学者（如诺亚与埃克斯坦）虚构学科从“前科学借用”走向“科学假说检验”的单向进化神话，以 20 世纪量化与[[Value Neutrality\|价值中立]]公理衡量 19 世纪初启蒙先驱，造成严重的时代倒错与原初人文母题的遮蔽。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 32–33)]]
 
 > [!concept-lens] 概念透镜

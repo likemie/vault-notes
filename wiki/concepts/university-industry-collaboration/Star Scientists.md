@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 明星科学家（Star Scientists）
+> [!def] Star Scientists
 > **明星科学家（Star Scientists）** 指在特定科学前沿、颠覆性技术起源期或国家重大战略工程中，凭借极其卓越的原创发现与系统把关能力而掌握**不可编码的隐性专有诀窍（Tacit [[Intellectual Capital]]）** 与崇高学术声誉的极少数顶尖领军学者。他们不仅是基础科学发现的源头，更是前沿技术向产业集群扩散的物理承载者；在国家战略与政治经济学视阈下，明星科学家构筑了国家最高决策层与前沿工程探索之间高度互信的核心纽带，是[[Technological Republic|技术共和国]]组织重大科技动员的领军中枢。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1141)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 
 > [!concept-lens] 概念透镜

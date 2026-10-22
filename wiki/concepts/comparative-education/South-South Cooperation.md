@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 南南合作（South-South Cooperation）
+> [!def] South-South Cooperation
 > 南南合作（South–South Cooperation, SSC）指全球南方（Global South）发展中国家之间在双边、区域或跨区域层面开展的资源、技术、智力与发展经验共享[[Paradigm|范式]]。在[[International Education|国际教育]]与人力资源开发领域，南南合作倡导平等互信、互利共赢与共同发展，摒弃传统南北发展援助中捐助国与受援国的不对称依附关系，主张通过双向人文交流、机构能力建设与发展路径互鉴，支持发展中国家自主探索契合本国国情的发展道路。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 222–223)]]
 
 > [!concept-lens] 概念透镜

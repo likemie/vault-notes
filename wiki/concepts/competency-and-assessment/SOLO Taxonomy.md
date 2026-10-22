@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学习结果结构分类法（SOLO Taxonomy）
+> [!def] SOLO Taxonomy
 > **可观察学习结果结构分类法（Structure of Observed Learning Outcomes, SOLO）** 是澳大利亚教育心理学家[[John Biggs|约翰·比格斯]]（John Biggs）与凯文·柯利斯（Kevin Collis）提出的学习结果与认知复杂性评估框架。该框架以学生在特定学习任务中所呈现回答或表现的内在结构复杂性来界定理解质量，依次划分为前结构、单点结构、多点结构、关联结构与拓展抽象五个层级。它既反映出相关信息从单一要点到多重要点的数量扩展，也揭示出从零散并列向结构整合、跨情境迁移与理论化的质性飞跃，构成了高等教育[[Constructive Alignment|建构性对齐]]与中小学[[Learning Progression|学业进阶]]设计的核心评价工具。[[Argument_Biggs_1999_HERD|(Biggs, 1999, pp. 66–67)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 258)]]
 
 > [!concept-lens] 概念透镜

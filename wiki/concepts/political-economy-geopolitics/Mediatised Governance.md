@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 媒介化治理（Mediatised Governance）
+> [!def] Mediatised Governance
 > 媒介化治理（mediatised governance）指在当代民主社会中，教育政策的议程设置、[[Problem Finding\|问题界定]]与正当性辩护深受大众媒体运作逻辑与政治传播规律塑造的治理形态。由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）等全球性学业测评数据在进入主权国家公共[[Champ\|场域]]时，并不直接引发基于证据的理性政策趋同，而是被本土政治行动者与自主性新闻媒体按照各自的规则与偏好进行选择性重构；双方通过相互交织的危机叙事与耸动排列表，将复杂的跨国数据转化为证明国内教育全面衰退并推行既定激进改革的政治资本。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 110–112, 125–126)]]
 
 > [!concept-lens] 概念透镜

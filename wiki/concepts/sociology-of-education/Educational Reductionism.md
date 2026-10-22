@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育还原主义（Educational Reductionism）
+> [!def] Educational Reductionism
 > 教育还原主义（Educational Reductionism）指在教育理论建构、实证建模与政策议程中，将复杂的[[Academic Achievement|学业成就]]差异、社会流动与生活机会不平等，单向度地还原为学校内部教学安排、评估技巧或个别教师效能的技术主义[[Epistemology|认识论]]倾向。该视角通过将家庭阶级地位、物质贫困、[[Cultural Capital|文化资本]]与社区资源等非学校结构性[[Variable|变量]]作为外部噪音剔除，建构出仅凭课堂技术干预即可弥合学业鸿沟的判断。[[Argument_Grace_2010_NZJES|(Grace, 2010, p. 91)]]
 
 > [!concept-lens] 概念透镜

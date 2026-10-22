@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 以硬事实施展软权力（Soft Power by Hard Facts）
+> [!def] Soft Power by Hard Facts
 > 以硬事实施展[[Soft Power\|软权力]]（[[Soft Power]] by Hard Facts）是指国际组织与超国家治理机构在缺乏主权立法权与硬性法律强制力的制度约束下，通过系统化生产、垄断与推介标准化、可比较的量化指标、跨国学业测评与计量经济学实证数据（“硬事实”），赋予自身政策建议以客观科学理性与普适真理的表象，进而通过跨国基准比照、名次排序与“命名与羞辱”机制，对主权国家教育决策施加远处规制与间接政治问责的治理技术。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538, 548)]]
 
 > [!concept-lens] 概念透镜

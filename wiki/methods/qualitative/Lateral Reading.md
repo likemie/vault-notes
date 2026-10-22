@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 横向阅读（Lateral Reading）
+> [!def] Lateral Reading
 > 横向阅读（Lateral Reading）是由斯坦福大学历史教育课题组的萨姆·温伯格（Sam Wineburg）与萨拉·麦克格鲁（Sarah McGrew, 2019）提出的信息核验与定性批判分析方法。该方法指**在遭遇未经验证的网络文本、机构报告或人工智能模型生成的主张时，读者不深陷在当前单一页面或对话窗口内反复琢磨，而是迅速打开多个浏览器标签页，在外部权威[[Primary and Secondary Documents\|一手文献]]、独立第三方数据库与同行评议成果中横向检索该来源的信誉、资金背景与对立论点，以此实现多源[[Triangulation\|三角互证]]并抵御虚假流畅权威**。Wineburg and McGrew (2019); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–8)]]
 
 > [!method-scope] 方法范围

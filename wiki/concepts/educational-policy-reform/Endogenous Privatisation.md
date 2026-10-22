@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 内生私有化（Endogenous Privatisation）
+> [!def] Endogenous Privatisation
 > **内生私有化（Endogenous Privatisation）**，亦称**公立教育内部的私有化（Privatisation in Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指在保持公立学校名义产权不变的前提下，将私营部门的商业理念、管理技术、量化考核、使用者付费与市场竞争机制全面植入公立教育系统内部运作的制度转型过程。通过推行[[New Public Management|新公共管理]]（NPM）、生均经费预算包干与家长[[School Choice|择校]]竞争，公立学校被改组为在准市场中自负盈亏、竞逐生源的独立核算企业主体，使教育过程由普遍公共育人服务异化为竞争性的私人[[Human Capital Theory|人力资本]]生产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
 > [!concept-lens] 概念透镜

@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理性表象（Façade of Rationality）
+> [!def] Façade of Rationality
 > **[[Façade of Rationality|理性表象]]（Façade of Rationality）** 是指在面临多重解释冲突、公众价值争议以及因果链条不可检验的公共政策生态中，量化数据与指标体系为决策行动所构筑的具备科学客观性、计算精确性与跨情境普适性的外观形态。该[[Construct\|构念]]揭示了量化指标在现代治理中并非单纯的技术测量工具，而是一种政治合法化装置，它通过遮蔽政策选择背后的意识形态偏向与价值权衡，使充满主观裁量的决策过程呈现为基于客观证据的理性产物。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜

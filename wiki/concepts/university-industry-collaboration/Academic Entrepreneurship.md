@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学术创业（Academic Entrepreneurship）
+> [!def] Academic Entrepreneurship
 > **学术创业（Academic Entrepreneurship）**，广义上亦表现为**学术制度创业（Academic Institutional Entrepreneurship）**，是指大学内部学者及协同行动者识别未来战略机遇、调配组织与跨界资源，并通过赋予行动正当性（Legitimacy）来创建全新制度、组织形态、规程与认知框架的能动性过程。该过程不仅包含传统意义上学者创办商业化衍生公司（Spin-offs）的微观市场行为，更包含学者利用政府与产业危机契机，在大学内外重塑跨学科科研中心、共性研发联合体与多方资助生态的组织创新行为。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 285–286)]]
 
 > [!concept-lens] 概念透镜

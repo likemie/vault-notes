@@ -36,7 +36,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 内部推广性（Internal and External Generalizability）
+> [!def] Internal and External Generalizability
 > Onwuegbuzie and Leech（2007）区分了[[Qualitative Research\|质性研究]]中两种不同层次的推广性（[[External Validity\|generalizability]]）：内部推广性（Internal Generalizability）指研究中某个子组的数据发现能够推广到整个样本的其余部分；外部推广性（External Generalizability）指整个样本的发现能够推广到更广泛的总体。这一区分挑战了"质性研究不追求推广"的简单化论断——质性研究可以在内部推广性上有明确追求，而外部推广性虽更困难但也可能，通常需要大样本。
 
 > [!concept-lens] 概念透镜

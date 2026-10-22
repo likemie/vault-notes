@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创新中心（Innovation Hub）
+> [!def] Innovation Hub
 > **创新中心（Innovation Hub / 创新枢纽 / 基于地点的创新中心）** 是一种基于特定地理区位的跨部门研发与产业化协同组织，将区域内的核心利益相关者——[[Research Universities|研究型大学]]、领军企业、初创公司、风险投资者、国家实验室与地方政府紧密组织起来，围绕区域比较优势与国家战略需求形成共同愿景，系统催化新技术的早期发现、中试工程验证、商业化部署及其配套高技能劳动力培养。在实践中，创新中心既是产学研联合体中深度协同的最高形态，也是现代国家产业战略重塑区域[[Industrial Commons|制造业公地]]与供应链安全的核心载体。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 124, 137)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 54–55)]]
 
 > [!concept-lens] 概念透镜

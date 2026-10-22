@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 效力试验（Efficacy Trial）
+> [!def] Efficacy Trial
 > **效力试验（Efficacy Trial，或功效检验）** 是[[Randomised Controlled Trials\|随机对照试验]]（RCT）阶梯式评估管线中的初阶因果验证设计。其核心目标在于检验：某项教育干预或教学法方案在**高度理想化、严格受控、且由方案研发者提供高频密集督导与资源支持**的特权条件下，“能否在统计学上产生预期的因果效应”（即回答“Can it work under ideal conditions?”）。
 >
 > 效力试验以追求最大化[[Internal Validity\|内部效度]]（Internal Validity）为第一准则，旨在排除现场各类组织干扰与执行变形，确立方案从理论设计（[[Theory of Change\|变革理论]]）到学业产出之间的纯粹因果逻辑链条，并测定方案在充分落实状态下的理论最大效能（Theoretical Upper-bound [[Effect Size]]）（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 57–58]]）。

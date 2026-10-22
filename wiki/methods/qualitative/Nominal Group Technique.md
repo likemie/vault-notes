@@ -33,7 +33,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 名义小组技术（Nominal Group Technique）
+> [!def] Nominal Group Technique
 > 名义小组技术是一种结构化的群体数据收集和议题聚焦方法，由 Morrison（1993）在[[Action Research\|行动研究]]语境中提出。它在单次会议中完成数据收集，通过依次经过个体写作、展示评论、聚类优先排序和群体讨论四个阶段，使个体回应被纳入群体共识，同时保持每个参与者的声音。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 286–287)]]
 
 > [!method-scope] 方法范围

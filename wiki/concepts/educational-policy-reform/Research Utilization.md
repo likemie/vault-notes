@@ -152,7 +152,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 研究利用（Research Utilization）
+> [!def] Research Utilization
 > **研究利用（Research Utilization / Research Use，亦称研究使用、知识利用、证据使用）** 指科学研究产出（包括理论概念、实证数据、教学策略、评估工具与方法论程序）以不同路径和形式进入公共教育政策制定、学校组织治理以及一线课堂教学实践的动态转化过程与交互机制。它不仅包含将科研结论直接转化为操作决策的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，更包含通过知识渗透重构行动者心智的概念性使用、为既定立场护航的象征性使用与去政治化护盾；在宏观政策全生命周期中呈现清晰的阶段依随性（Stage-contingent），在微观教学中表现为基于育人伦理与多源知识的能动整合。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–5)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
 
 > [!concept-lens] 概念透镜

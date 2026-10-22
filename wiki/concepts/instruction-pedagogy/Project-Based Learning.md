@@ -66,7 +66,7 @@ created: 2026-09-05
 updated: 2026-10-22
 ---
 
-> [!def] 项目式学习（Project-Based Learning）
+> [!def] Project-Based Learning
 > 项目式学习（Project-Based Learning，常简称为 PBL 或 PjBL）是一种以学生为中心、基于[[Constructivist Paradigm\|建构主义范式]]的探究型教学组织模式。学生在一段持续的时间内，围绕真实、复杂且具挑战性的驱动性问题（Driving Question），通过自主规划、深度协作、资源检索与持续探究，最终设计、生成并公开展示具有真实应用价值的物化制品或解决方案（Artifact / Public Product）。该模式将学科核心概念与能力的学习深度内嵌于制品开发与[[Problem Solving\|问题解决]]的全过程中。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 > [!concept-lens] 概念透镜

@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 情感产出（Affective Outcomes）
+> [!def] Affective Outcomes
 > Affective Outcomes（情感产出 / 情感行为）是教育心理学与教学效果研究中指称学生在**情感领域可观测、可测量产出**的[[Operationalization\|操作化]][[Construct\|构念]]。依据 Krathwohl et al.（1964）的教育目标分类学，情感产出指由内在动机、信念与价值取向等深层心理特质衍生出的行为倾向与自我报告结果，包括[[Student Attitude\|学习态度]]（attitudes）、表现自信心（self-confidence）、学业与内在动机（academic & [[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]]）以及一般学习感知（learning perceptions）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜

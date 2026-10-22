@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 自我改进学校系统（Self-Improving School System）
+> [!def] Self-Improving School System
 > 自我改进学校系统（Self-Improving School System, SISS）指一种以去中心化[[Network Governance\|网络治理]]为核心的学校系统改革与治理取向：学校与教师承担自身持续改进的第一责任，卓越学校与领导者向外辐射专业影响力，学校之间在协作网络中相互学习并从学术研究中汲取证据以扩散有效实践，而中央政府的日常微观支持与行政干预降至最低限度。其根本政策判断在于：“设法确保对中央政府举措的自动服从，会削弱学校系统实现自我改进的内生能力”（DfE, 2010, p. 13，引于 Brown & Greany, 2018, p. 120）。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 120)]]
 
 > [!concept-lens] 概念透镜

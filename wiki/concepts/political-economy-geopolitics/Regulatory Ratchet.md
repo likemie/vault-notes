@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 规制棘轮（Regulatory Ratchet）
+> [!def] Regulatory Ratchet
 > 规制治理（Regulatory Governance）与[[Historical Institutionalism|历史制度主义]]分析中用以刻画规制工具与合规标准单向累积演化的核心概念；指在既有规制体系面对偶发危机、安全事故、公众问责压力或[[Market Failure|市场失灵]]时，政策制定者通过持续向体制顶端叠加更详尽的审查标准、自愿认证与合规审查细则，而极少废除或清理旧有规则，导致规制体系如单向棘轮般只紧不松、只增不减，最终演化出结构冗余、组织适应性丧失与规制不合理性的制度病理。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 
 > [!concept-lens] 概念透镜

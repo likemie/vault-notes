@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 高等教育国际化（Internationalization of Higher Education）
+> [!def] Internationalization of Higher Education
 > 高等教育国际化（Internationalization of Higher Education）指高等教育系统在办学宗旨、教学、科研与社会服务功能中整合国际、跨文化与全球维度的制度化过程。批判教育研究指出，国际化不仅是教育要素的跨境流动，更是国家地缘战略、政[[Governmentality|治理性]]与制度塑造深度交织的复杂实践；其驱动理性经历了从早期以能力建设和援助为特征的现代化[[Developmentalism|发展主义]]，到以全额学费和商业出口为导向的市场理性，并正在向以主导多边学术网络与重塑全球[[Epistemic Governance|知识治理]]为特征的[[Outward-Oriented Internationalization|外向型国际化]]深度转型。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]；[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 
 > [!concept-lens] 概念透镜

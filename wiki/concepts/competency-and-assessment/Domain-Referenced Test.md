@@ -29,7 +29,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 领域参照测验（Domain-Referenced Test）
+> [!def] Domain-Referenced Test
 > 领域参照测验（domain-referenced test）先对待评估的内容全域作出详细规定，再从中抽取具有代表性的题目样本，根据学生在样本上的表现推断他们对整个领域的掌握程度。它由[[Criterion-Referenced Test\|标准参照测验]]发展而来，但更强调内容全域的边界和题目抽样的代表性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]
 
 > [!concept-lens] 概念透镜

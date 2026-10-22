@@ -90,7 +90,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 规训与教学（Disciplina and Doctrina）
+> [!def] Disciplina and Doctrina
 > **Disciplina and Doctrina** 是西方教育史与知识社会学中用于界定知识传递与教育取向的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序、行为约束与正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑、调整与更新人类知识系统的动态实践（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策与循证批判中，这对概念被用于剖析以量化指标为导向的技术官僚控制如何压制教育的开放反思面向（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
 
 > [!concept-lens] 概念透镜

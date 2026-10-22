@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识框架（Knowledge Framework）
+> [!def] Knowledge Framework
 > 知识框架是 [[Theory of Knowledge\|知识论]]课程中用于系统考察[[Areas of Knowledge\|知识领域]]的分析工具。2013 年指南从范围、动机与应用，专门术语与概念，[[Knowledge Production\|知识生产]]方法，关键历史发展，以及与个人知识的互动五个维度组织[[Domain Analysis\|领域分析]]，使学生能够使用共同维度比较不同知识传统。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]
 
 > [!concept-lens] 概念透镜

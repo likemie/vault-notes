@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学业进阶（Learning Progression）
+> [!def] Learning Progression
 > **学业进阶（Learning Progression / Achievement Progression）** 指学生在特定学科领域、核心观念或实践能力上，随着教学干预与认知发展，从朴素直觉与浅层理解逐步走向复杂、严密与[[Reflexivity|反思性]]专家水平的阶梯式发展序列。它将离散孤立的知识点重构为具备内在逻辑递进关系的连续统，为教师研判学情、设定挑战性目标与选择评价工具提供共同语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 
 > [!concept-lens] 概念透镜

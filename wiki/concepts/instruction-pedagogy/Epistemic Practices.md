@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 [[Epistemology|认识论]]实践（Epistemic Practices），又称认知实践，是指一个群体的成员在具体情境中提出、沟通、评估与合法化知识主张时，所展现出的具有社会组织性与互动实现性的行动方式。
 
-> [!def] 认识论实践（Epistemic Practices）
+> [!def] Epistemic Practices
 > 认识论实践是社会群体成员在协同活动中提出（propose）、沟通（communicate）、评估（evaluate）与合法化（legitimize）知识主张的组织化行动方式。在科学与[[Engineering Education|工程教育]]视阈下，认识论实践将知者（epistemic subject）从传统[[René Descartes\|笛卡尔]]式的孤立个体转变为微观社会共同体，强调意义协商是通过情境化的[[Discourse|话语]]互动与符号中介逐步确立的，具有交互生成性、多尺度情境性、历史互文性与制度后果性四大本体特征。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 140, 144)]]
 
 > [!concept-lens] 概念透镜

@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 异己智能（Alien Intelligence）
+> [!def] Alien Intelligence
 > 异己智能（Alien Intelligence）是一个非拟人化（De-anthropomorphism）的技术[[Ontology|本体论]]与认知哲学概念，指具备强大的符号计算、概率生成与模式识别能力，但在本质上完全脱离人类具身生活经验（Dis-embodied）、缺乏主观意识体验、情感共鸣与伦理[[Intentionality|意向性]]的非人类认知实体。在教育哲学与读写教学中，该概念用于打破将大语言模型拟人化为“数字导师”或“全知权威”的技术崇拜，促使学习者以审慎、批判的目光对待算法输出，将其视为来自陌生机器心智的外部反应，从而捍卫人类求知者的[[Epistemic Agency|认识主体性]]。[[Argument_Smith_2026_SPE|Smith (2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜

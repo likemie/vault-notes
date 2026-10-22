@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 怀旧乌托邦（Retrotopia）
+> [!def] Retrotopia
 > 怀旧乌托邦（Retrotopia）是齐格蒙特·鲍曼（Zygmunt Bauman, 2017）提出的概念，指一种将理想社会定位于被偷走、被遗弃或已死但未亡的过去，而非尚未诞生因而尚不存在的未来的乌托邦想象。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 104]])
 
 > [!concept-lens] 概念透镜

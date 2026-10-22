@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 产业区（Industrial District）
+> [!def] Industrial District
 > **产业区（Industrial District，亦称马歇尔产业区）** 指高度集中在特定地理区域内、围绕某一或多个关联产业门类紧密分工协作的中小企业群落及其依托的社会网络；该区域通过地理邻近性、密集的面对面交往、深厚的区域熟练劳动力市场和共享的技术基础设施，形成高强度的外部经济（External Economies）与技术外溢环境。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 
 > [!concept-lens] 概念透镜

@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 批判性思维倾向（Critical Thinking Disposition）
+> [!def] Critical Thinking Disposition
 > [[Critical Thinking|批判性思维]]倾向（Critical Thinking Disposition，亦称批判性思维意向、批判精神或批判性心智习性）是指个体在面对日常情境、学术探究、复杂组织决策与客观现实挑战时，主动、自觉且持续运用批判性思维技能的内在动力、情意态度与心理韧性。它解答了个体“不仅能够思考（Can do），而且愿意并主动去思考（Will do）”的情意动力学机制。根据美国哲学学会（APA）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]与现代认知哲学，批判性思维倾向不仅涵盖求真、开放与审慎，更要求个体具备抵御平庸从众（Likability as a Jail）、承受认知不适并敢于随时推翻自身既有理论的实验反教条品格。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 277–278)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–161)]]
 
 > [!concept-lens] 概念透镜

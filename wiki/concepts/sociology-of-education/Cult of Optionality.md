@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 选择权崇拜（Cult of Optionality）
+> [!def] Cult of Optionality
 > 选择权崇拜（Cult of Optionality）是指受过高等教育的当代精英青年与专业阶层将“保留选择权”（Preserving Optionality）与追求最大灵活性奉为首要生存法则，在学术研究、职业规划、政治参与乃至伦理道德生活中，系统性回避做出排他性的不可逆承诺（Irreversible Commitments）、避免树敌或亮明争议性立场的心态与行为机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 69–70)]]
 
 > [!concept-lens] 概念透镜

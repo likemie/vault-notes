@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 课堂管理（Classroom Management）
+> [!def] Classroom Management
 > 课堂管理（Classroom Management）是指教师为创设并维持高度专注、安全有序且富于支持性的学习环境而采取的一套系统性组织机制。它不仅包括维持课堂秩序与行为规范，更涵盖有效时间利用、明确目标设定、学习活动组织、理解检查、即时反馈、支持性[[Student-Teacher Relationship|师生关系]]以及积极行为引导（[[Argument_Håkansson_2015_TT|Håkansson, 2015a, pp. 591–592；[[Argument_WorldBank_2019_Teach\|World Bank Group]], 2019]]）。
 >
 > 现代教育实证研究表明，课堂管理的本质不在于建立单向严厉的人身控制或消极压制违纪，而在于教师以清晰、可见且具有包容性的方式组织教学进程，最大化保障在任务学习时间，并在维护结构化常规的同时，为学生的自主参与和自我调节能力发展提供安全空间。

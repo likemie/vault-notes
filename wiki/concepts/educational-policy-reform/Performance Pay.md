@@ -76,7 +76,7 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-> [!def] 绩效工资（Performance Pay）
+> [!def] Performance Pay
 > 绩效工资（亦称 merit pay、payment by results、performance-related pay，简称 PRP）指将教师薪资报酬与其测量的教学表现或学生测试产出直接挂钩的制度安排。其核心假设是外在经济激励能够驱动教学质量提升与学生学业改进（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 103]]）。然而在教育治理实践中，该制度常演化为新自由主义问责的核心工具，不仅因测量指标失真、破坏专业合作生态以及缺乏跨国实证支撑而饱受批判（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 116–118]]），更在严密设计的现场随机试验中因教师群体的强烈伦理抗议与内在专业动机冲突而遭遇招募流产（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 55]]）。
 
 > [!concept-lens] 概念透镜

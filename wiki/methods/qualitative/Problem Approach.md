@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 问题法（Problem Approach）
+> [!def] Problem Approach
 > 比较教育学问题法（Problem Approach，又称[[Problem Solving|问题解决]]法）是由英国学者[[Brian Holmes|布赖恩·霍姆斯]]（[[Brian Holmes|Brian Holmes]]）在 1960 年代系统确立的规范性比较研究方法，代表了战后第三代际实证[[Scientism|科学主义]]运动（Discourse 3, 1960–1980）三大流派中的“伦敦学派”。该方法熔铸了[[Karl Popper|卡尔·波普尔]]（[[Karl Popper|Karl Popper]]）的批判理性主义（[[Critical Dualism|批判二元论]]、情境逻辑与可[[Falsification|证伪]]假说）与[[John Dewey|约翰·杜威]]（[[John Dewey|John Dewey]]）的[[Reflective Thinking|反思性思维]]理论，旨在通过甄选现实教育问题、形式化政策假说、系统审查文化规范与客观制度初始条件，并依托情境逻辑严密推导政策实施的预期与非意图后果，从而以理性概率预测指导前瞻性教育决策，实现对经验归纳实证学派与古典历史学派的批判性综合。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 63, 66–67)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 149–151)]]
 
 > [!method-scope] 方法范围

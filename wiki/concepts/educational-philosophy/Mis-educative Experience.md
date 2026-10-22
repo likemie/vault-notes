@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 反教育经验（Mis-educative Experience）
+> [!def] Mis-educative Experience
 > **反教育经验（Mis-[[Educative Experience]]）** 是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中提出的阻碍性经验概念。它指具有截断、停滞或扭曲未来经验生长品质与方向效果的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–31)]]
 
 > [!concept-lens] 概念透镜

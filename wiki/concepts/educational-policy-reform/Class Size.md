@@ -106,7 +106,7 @@ created: '2026-05-03'
 updated: 2026-10-22
 ---
 
-> [!def] 班级规模（Class Size）
+> [!def] Class Size
 > 班级规模（Class Size），又称班额，指单一教学组织单元或班级组内所容纳的学生实际人数。它看似是简单的组织[[Variable|变量]]，实际却同时牵涉教学互动质量、教师劳动负荷、学校资源配置、财政政策成本与实证证据的外推有效性。小班的实践成效取决于学生人数缩减幅度、教师教学方式实质调适、合格师资与校舍供给保障、学生[[Heterogeneity|异质性]]构成以及多元学业与社会情感评价指标的协同。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–102)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 155, 157–158)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 6–7)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 12, 16–17)]]; [[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
 
 > [!concept-lens] 概念透镜

@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 虚拟大学（Virtual University）
+> [!def] Virtual University
 > 虚拟大学（Virtual University）是指主要或完全通过计算机通信技术、互联网和数字媒介进行教学组织、课程交付、师生交互与学术资质认证的高等教育组织形态。在比较教育政治经济学视角下，虚拟大学不仅是远程教育的技术升级，更是全球[[Knowledge-Based Economy|知识经济]]中跨国高等[[GATS and Trade in Education Services|教育服务贸易]]与资本积累的最极端制度表现。它打破了传统实体大学受制于民族国家地理边界的限制，通过跨国特许经营协议（franchising agreements）将中心国家的课程模式直接输出至边缘地区。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
 
 > [!concept-lens] 概念透镜

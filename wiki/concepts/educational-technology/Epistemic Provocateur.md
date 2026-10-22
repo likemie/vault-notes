@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论挑衅者（Epistemic Provocateur）
+> [!def] Epistemic Provocateur
 > [[Epistemology|认识论]]挑衅者（Epistemic Provocateur）是指在[[Man-Computer Symbiosis|人机协同]]探究与[[Knowledge Building Theory|知识建构]]情境中，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）超越单纯的“信息提供者”与“对话伙伴”定位，通过生成具有不完备性、表层顺滑但暗含因果断裂、拟人化修辞或分类缺陷的暂定性内容，反向触发并激活学习者的[[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance），迫使学生主动实施审问、求证、批判与迭代重构的教学中介生态位。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]
 
 > [!concept-lens] 概念透镜

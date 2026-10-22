@@ -101,7 +101,7 @@ updated: 2026-10-22
 
 后[[Positivism|实证主义]]（Postpositivism）是 20 世纪中叶以来对经典实证主义（[[Positivism]]）绝对确定性、机械[[Determinism|决定论]]与幼稚实在论展开全面反思而确立的研究哲学立场。
 
-> [!def] 后实证主义（Postpositivism）
+> [!def] Postpositivism
 > 后实证主义（Postpositivism）是一种批判并超越经典实证主义的哲学[[Epistemology\|认识论]][[Paradigm\|范式]]。它坚决挑战将世界描绘为有序、可控、可预测、标准化、机械、决定论且封闭之系统的现代主义实证世界观（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 729]]）。后实证主义遵循波普尔（[[Karl Popper]]）的批判理性主义立场，主张人类关于世界的知识具有推测性（conjectural）、[[Falsification\|可证伪性]]（falsifiable）与可错性（fallible）；一劳永逸的基础主义确定性被尝试性的推测与多重理据所取代。在当代经验研究中，后实证主义代表了严谨[[Quantitative Research\|量化研究]]、准实验与[[Mixed Methods Research\|混合方法]]的主导哲学底座，坚守概率[[Causality\|因果推断]]与系统性误差审视（Phillips & Burbules, 2000; Creswell, 2022）；在广义社会与历史探究中，它通过恢复德语广义科学（*Wissenschaft*）传统与引入中程非普适[[Working Hypothesis|探索性假说]]，为跨情境理论抽象与人文理解确立了现代科学合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, pp. 731–734)]]; [[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 
 在教育与社会科学探究中，后实证主义架起了客观实在与主体反思之间的认识论桥梁。

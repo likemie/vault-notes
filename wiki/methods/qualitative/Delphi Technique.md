@@ -34,7 +34,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 德尔菲技术（Delphi Technique）
+> [!def] Delphi Technique
 > 德尔菲技术是[[Nominal Group Technique\|名义小组技术]]的书面对应版本，是一种通过多轮书面[[Questionnaire\|问卷]]迭代收集、整理和反馈群体意见的结构化方法。其核心优势是不需要参与者同时到场会面，特别适用于时间宝贵且难以安排全体会议的情境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 287–288)]]
 
 > [!method-scope] 方法范围

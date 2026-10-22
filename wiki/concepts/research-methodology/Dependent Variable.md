@@ -62,7 +62,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-> [!def] 因变量（Dependent Variable）
+> [!def] Dependent Variable
 > 因变量（dependent variable）是实验或[[Quantitative Research\|量化研究]]中的**输出变量**，即**结果变量（outcome variable）**。因变量的变化被假定为[[Independent Variable\|自变量]]的操纵或选择所导致，通过测量因变量在干预前后的变化来评估干预的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 
 在真实验中，因变量在[[Pre-test and Post-test|前测]]和后测两个时间点被测量，前后测之间的差异（控制组与实验组对比）提供了干预效应的估计。在[[Ex Post Facto Research|事后回溯研究]]中，因变量是已发生的自然结果，回溯性地搜索可能的原因变量。

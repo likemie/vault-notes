@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 微观学习学（Learnology）
+> [!def] Learnology
 > **微观学习学（Learnology，亦作 Learneology）** 是 20 世纪晚期英国比较教育学派开创的微观[[Qualitative Research|质性研究]][[Paradigm|范式]]，由英国学者[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot, 1999）正式提出。该范式主张将跨文化比较的视线从宏观的国家学制、财政投入与标准化测验产出，转向教育活动最核心的发生地——课堂，系统考察处于特定文化与社会契约之中的学生如何建构学习者身份、体验评价[[Discourse|话语]]并实现心智发展，致力于在微观深度上复兴比较教育的人文关怀。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 > [!concept-lens] 概念透镜

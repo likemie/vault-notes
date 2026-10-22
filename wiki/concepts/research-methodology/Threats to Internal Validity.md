@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 内部效度威胁（Threats to Internal Validity）
+> [!def] Threats to Internal Validity
 > [[Internal Validity\|内部效度]]威胁（Threats to internal validity）指在研究过程中可能混淆自[[Variable\|变量]]与[[Dependent Variable\|因变量]]之间真实关系、使研究者无法确定观测到的效应究竟是来自研究处理还是来自其他混淆因素的系统性偏差来源。[[Internal Validity\|内部效度]]寻求证明一项研究的解释实际上能为数据所支撑（p.164），而内部效度威胁正是那些**削弱这一证明力的因素**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 164–168)]]
 
 > [!concept-lens] 概念透镜

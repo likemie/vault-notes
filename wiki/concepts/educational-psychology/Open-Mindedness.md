@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 思想开放（Open-Mindedness）
+> [!def] Open-Mindedness
 > 思想开放（Open-Mindedness / Intellectual Open-Mindedness）是指认识主体在面临未知、分歧或挑战性证据时，能够自发、公允地生成并审视替代性观点，并依据更具合理性的理由与证据随时准备调整或修正原有立场的稳定理智品格与认知习惯。在[[Virtue Epistemology|美德认识论]]（Virtue [[Epistemology]]）的德性责任论视角下，思想开放不仅要求主体熟练掌握多角度论证的技术性智力技能，更必须以对真理、知识与理解等认知善品的真诚热爱为内在动机；若仅能罗列多元观点却将其用于诡辩或博取名利，则属于[[Value Neutrality|价值中立]]的操作技能而非真正的[[Epistemic Virtues and Vices|理智美德]]。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270, 273–274, 278–281)]]
 
 > [!concept-lens] 概念透镜

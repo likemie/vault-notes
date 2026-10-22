@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学业求助（Academic Help-Seeking）
+> [!def] Academic Help-Seeking
 > 学业求助（Academic Help-Seeking，亦作学业求助行为）是指学习者在遭遇认知瓶颈、概念困惑或[[Task Structure\|劣构任务]]障碍时，主动觉察自身理解局限并战略性地向外部人力资源（教师、同伴、助教）或技术中介（智能系统、文献数据库、[[Generative Artificial Intelligence\|生成式人工智能]]）寻求支持的高级[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）与[[Epistemology\|认识论]]行为。它并非单纯的认知依赖或被动顺从，而是兼具[[Metacognition\|元认知]]监控、情感调控与社会交往的多维积极探究策略。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108)]]
 
 > [!concept-lens] 概念透镜

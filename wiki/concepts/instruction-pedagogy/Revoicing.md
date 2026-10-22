@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 话语重铸（Revoicing）
+> [!def] Revoicing
 > **重铸（Revoicing）** 是玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）于 1993 年提出的课堂教学[[Discourse|话语]]策略。指教师在课堂师生对话中，将学生提出的初步、粗糙或非正式的日常表述，重新转述为更为严谨、符合学科规范且认知层次更高的学术话语，在此过程中明确保留原意并显性确认该观点属于提出学生本人（即作者权/归属权，Authorship/Ownership），进而引导全班对该观点展开评估与辩论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
 
 > [!concept-lens] 概念透镜

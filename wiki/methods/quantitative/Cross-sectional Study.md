@@ -49,7 +49,7 @@ created: 2026-07-09
 updated: 2026-10-22
 ---
 
-> [!def] 横截面研究（Cross-sectional Study）
+> [!def] Cross-sectional Study
 > 横截面研究（Cross-sectional Study）是在单一时间点产生总体"快照"的研究设计。它通过间接测量从代表性年龄层次抽取的儿童样本在身体和智力发展方面的变化性质和速率，提供某一时刻的总体图景（p.268）。
 
 > [!method-scope] 方法范围

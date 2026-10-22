@@ -23,7 +23,7 @@ created: 2026-10-07
 updated: 2026-10-07
 ---
 
-> [!def] 自传分析（Autobiographical Analysis）
+> [!def] Autobiographical Analysis
 > 自传分析（Autobiographical Analysis）以叙述者同时为故事中心人物的第一人称叙事为对象，分析事件选择、时间组织、个人意义与语言表达。自传兼具主观与客观、回顾与反身的性质；它可以在个人、文化、人际、意识形态和语言层面被解读。这里将其作为 [[Narrative Analysis|叙事分析]] 的具体进路。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.4)]]
 
 > [!method-scope] 方法范围

@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论摩擦（Epistemic Friction）
+> [!def] Epistemic Friction
 > [[Epistemology|认识论]]摩擦（Epistemic Friction）是指认知主体在面对挑战性证据、异质视角、认知失调或复杂决策情境时，所经历的**生产性智识阻力、[[Reflexivity|反思性]]张力与深层心智挣扎**。在社会认识论中，它被视为打破封闭信念体系与抵御认知傲慢的必要调节器；在学习科学与[[Man-Computer Symbiosis|人机协同]]决策中，它是迫使个体调用[[Working Memory|工作记忆]]、激活[[Metacognition|元认知监控]]、抵御算法盲从并校准批判性信任的核心认知与交互机制。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, pp. 2, 10–12)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 4, 20–25)]]
 
 > [!concept-lens] 概念透镜

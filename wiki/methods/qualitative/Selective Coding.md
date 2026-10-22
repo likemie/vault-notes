@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 选择性编码（Selective Coding）
+> [!def] Selective Coding
 > **选择性编码（Selective Coding，又称核心编码、选择式编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的终局分析阶梯：在初级[[Open Coding\|开放编码]]碎化切片与[[Axial Coding\|主轴编码]][[Paradigm\|范式]]关联的基础上，围绕统领全局的主要[[Story Line\|故事线]]，识别并确立统摄所有已建范畴的单一[[Central Phenomenon\|核心范畴]]（Core Category），系统厘清核心范畴与其他范畴在维度水平上的联结网络，并经由经验数据验证与空缺填补，最终构建出具有解释力与概念密度的实质性理论（Strauss & Corbin, 1990, pp. 116–117；Gibbs, 2007；Flick, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 561–562]]）。
 >
 > 施特劳斯与科宾指出，选择性编码在内在操作步骤上与主轴编码高度相似，但处于**更高层级的理论抽象水平（greater level of abstraction）**。主轴编码着眼于梳理局部范畴的条件、策略与结果，而选择性编码则将全部主轴网格收敛至唯一的理论轴心。

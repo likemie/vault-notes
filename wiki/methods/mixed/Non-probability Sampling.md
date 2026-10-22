@@ -59,7 +59,7 @@ created: 2026-06-21
 updated: 2026-10-20
 ---
 
-> [!def] 非概率抽样（Non-probability Sampling）
+> [!def] Non-probability Sampling
 > 非[[Random Sampling\|概率抽样]]（Non-probability Sampling）是研究者有针对性地选择特定群体作为样本的抽样策略，总体中每个成员被选入样本的概率未知。与[[Random Sampling\|概率抽样]]不同，非概率抽样中某些成员肯定会被排除、另一些肯定会被纳入——研究者有意地选择了总体的特定部分。它不试图代表更广泛的总体，只代表自身或同类群体中的实例。尽管存在非代表性的缺点，但设置简单、成本低，在研究不打算推广或仅进行[[Questionnaire\|问卷]]试点时完全够用。
 
 > [!method-scope] 方法范围

@@ -91,7 +91,7 @@ created: 2026-05-30
 updated: 2026-10-20
 ---
 
-> [!def] 民族志（Ethnography）
+> [!def] Ethnography
 > 民族志（Ethnography）是一种源自人类学与社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整的文化群体（cultural group），系统考察其共享的行为模式、语言体系、价值信念与日常行动（Wolcott, 1994; Fetterman, 2010）。玛格丽特·勒孔特与朱迪思·普赖斯尔（Margaret D. LeCompte & Judith Preissle, 1993, p. 235）进一步将民族志界定为兼具**探究方法、探究结果与探究记录**的过程，旨在尽可能生动地重构所研究群体的文化全貌与生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 405–406]]）。
 
 > [!method-scope] 适用范围与产出形态

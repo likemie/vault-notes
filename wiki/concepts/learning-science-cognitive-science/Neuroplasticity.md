@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 神经可塑性（Neuroplasticity）
+> [!def] Neuroplasticity
 > **神经可塑性（Neuroplasticity）**，亦称脑可塑性（Brain Plasticity）或突触可塑性（Synaptic Plasticity），指中枢神经系统在生命全程中受遗传程序、成熟发育与内外经验刺激的[[Interaction Effect|交互作用]]，持续改变解剖生理连接强度与功能组织架构的动态生物学机制。在认知神经科学与学习科学中，神经可塑性主要通过[[Synaptogenesis|突触发生]]、[[Synaptic Pruning|突触修剪]]与轴突[[Myelination|髓鞘化]]等递进与回归过程，构成了个体[[Executive Function|执行功能]]（EF）成熟与认知发展阶段演进的生理物质基础[[Argument_Bolton_2017_ArchPsych|(Bolton & Hattie, 2017, pp. 6–7)]]；在教育哲学视域中，神经可塑性揭示了大脑作为开放、动态生成且具身嵌入的“中介器官”属性，为反思将学习简化为孤立可控物理回路或单一实证量化指标的还原论取向提供了关键[[Ontology|本体论]]判据[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 5–6)]]。
 
 > [!concept-lens] 概念透镜

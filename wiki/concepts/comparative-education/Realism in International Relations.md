@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 现实主义 (国际关系)（Realism in International Relations）
+> [!def] Realism in International Relations
 > 现实主义（Realism，亦称马基雅维利传统 Machiavellian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的保守与权力竞争维度。它将主权领土国家视为国际政治的核心唯一行动者，认为国际社会本质上是一个没有中央权威、处于无政府状态下的自决与自助竞技场（self-help arena）。国家间政治被理解为争夺生存和优势的零和地缘权力博弈。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
 
 > [!concept-lens] 概念透镜

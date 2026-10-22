@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 死亡政治（Necropolitics）
+> [!def] Necropolitics
 > 死亡政治（Necropolitics）是阿奇勒·姆本贝（Achille Mbembe, 2003）提出的政治哲学与社会学概念，指主权权力的最终表达在很大程度上存在于决定谁可以活、谁必须死的权力和能力之中。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 98]]) 这一概念是对福柯（Foucault）生命政治（biopolitics）的延伸与批判：生命政治关注对生命的管理与优化，而死亡政治关注主权权力如何生产和施加死亡（包括肉体消亡、文化毁灭与语言死亡）。
 
 > [!concept-lens] 概念透镜

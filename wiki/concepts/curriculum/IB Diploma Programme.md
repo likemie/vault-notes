@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] IB 文凭项目（IB Diploma Programme）
+> [!def] IB Diploma Programme
 > [[International Baccalaureate\|国际文凭]]大学预科项目（International Baccalaureate Diploma Programme, IB DP）是IB 为 16–19 岁学生设计的两年制课程。学生需完成六个学科组的课程和三项核心要素——[[Theory of Knowledge\|知识论]]（ToK）、[[Extended Essay\|拓展论文]]（Extended Essay, EE）、创造—行动—服务（[[Creativity, Action, Service\|Creativity, Activity, Service]], [[Chinese Academy of Sciences|CAS]]）（[[Argument_Slethaug_2010_InternationalEducation\|Slethaug, 2010, pp.29–31]]）。
 
 > [!concept-lens] 概念透镜

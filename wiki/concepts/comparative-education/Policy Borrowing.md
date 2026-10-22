@@ -148,7 +148,7 @@ updated: 2026-10-22
 
 政策借用揭示了主权国家或地方教育决策者在推行改革时，如何跨越地理与文化边界调动外部经验以服务于本土政治议程。
 
-> [!def] 政策借用（Policy Borrowing）
+> [!def] Policy Borrowing
 > 政策借用（Policy Borrowing），亦称教育借用（Educational Borrowing），指主权国家或地区在教育改革与制度重构中有选择地参照外部教育模式、实践与论述的复杂政治与认知过程。与假设最佳实践从中立技术角度直接跨国移植的理性主义观点不同，政策借用[[Analytic Framework\|分析框架]]指出，决策者往往是**先有国内改革议程或治理危机，再借用外部[[Discourse|话语]]与制度实绩来合法化该议程**。在 19 世纪现代主义发端期，政策借用表现为以救治母国危机为导向的官方行政直接移植（如库森主笔 1833 年法国基佐法案）与政治正当性辩护（如[[Horace Mann\|霍勒斯·曼]]开创的合法化依据借用）；在当代全球化语境下，它演进为政策行动者操纵高声望国际话语以推进国内争议议程的“[[Externalization\|外化]]”修辞策略（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 482]]；[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 24–34]]）；而在数字化数据治理时代，它进一步与[[Topological Spatialisation\|拓扑空间化]]及[[Assemblage\|政策装配]]相交织，通过跨尺度[[Data Infrastructure\|数据基础设施]]将国际指标深层折叠进本土治理网络（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 135–138]]）。
 
 > [!concept-lens] 概念透镜

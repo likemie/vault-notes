@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 纽约湾区（New York Bay Area）
+> [!def] New York Bay Area
 > 纽约湾区（New York Bay Area，亦称金融湾区）是指以美国纽约大都市区为核心、拥有全球顶尖金融资本与现代科技创新实力的世界级都市型湾区。该区域经历从传统制造业中心到全球金融中心、再到国际科技创新高地的多次产业转型。纽约湾区汇聚了纽约证券交易所（New York Stock Exchange, NYSE）与纳斯达克证券交易所（NASDAQ）两大全球性资本交易市场，依托花旗银行、高盛、摩根士丹利等世界顶级金融机构，形成了以金融技术（Financial Technology, Fintech）为核心的研发集聚；同时通过精准的市政税费激励、[[Applied Sciences NYC|应用科学计划]]（如罗斯福岛康奈尔科技校区）以及[[McGovern Center for Venture Development|麦戈文创业孵化中心]]等高校产学研载体，根本性补齐理工科应用研究短板，构建了金融资本与前沿科技创新高度协同的区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!concept-lens] 概念透镜

@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理论视角（Theoretical Perspective）
+> [!def] Theoretical Perspective
 > 理论视角（Theoretical Perspective）是科学研究设计与[[Epistemology|认识论]]中的核心概念，兼具宏观学科认识论与微观研究设计双重内涵。在认识论与方法论层级上，它指统率整个经验探究过程的总体概念框架、价值预设与[[Paradigm|范式]]透镜，决定了研究者“看见什么、如何提问与怎样阐释数据”；在[[Research Proposal|课题申报]]书与研究方案中，它指专门阐明研究理论依据的独立章节，通过彩虹桥梁机制建立[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的演绎逻辑链条，为具体[[Hypothesis|研究假设]]提供理论支撑。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 53)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 
 > [!concept-lens] 概念透镜

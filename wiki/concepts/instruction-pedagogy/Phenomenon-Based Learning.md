@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 现象本位学习（Phenomenon-Based Learning）
+> [!def] Phenomenon-Based Learning
 > 现象本位学习（Phenomenon-based learning, PhBL）是一种以真实或抽象的现象为学习起点的跨学科教学取向。它要求学生围绕复杂现象调动不同学科的知识，同时保持学科自身的深度，不应简单取消学科边界。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
 > 
 > 在芬兰语原版 2014 年国家核心课程中，PhBL 这一英语术语本身并未出现，英语译本中也仅出现少数几次。课程文本更频繁使用的是芬兰语 ilmiö（现象）及其组合词，要求学生观察、描述、理解和解释各种日常、文化、历史、化学或世界观相关现象。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]

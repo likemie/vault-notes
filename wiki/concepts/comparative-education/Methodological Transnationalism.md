@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 方法论跨国主义（Methodological Transnationalism）
+> [!def] Methodological Transnationalism
 > 方法论跨国主义（Methodological Transnationalism）是跨国公共政策与比较教育研究中的一种[[Epistemology\|认识论]]与方法论[[Paradigm\|范式]]。它既拒斥将民族国家预设为自足封闭分析容器的[[Methodological Nationalism\|方法论民族主义]]，亦反对将全球与国家关系机械设定为自上而下、单向线性的等级霸权支配模式；该范式主张将“全球”与“国家”理解为高度相互依存、多维渗透的[[Relational Space\|关系性空间]]而非物理隔离的孤立处所，倡导通过解构政府实体的多元空间尺度（全球、区域、国家）、职能部门（咨询、行政、立法）与公私属性，系统探究行动者在[[Transfer Space\|转移空间]]（Transfer Space）中构建的“全球/国家联结”（Global/National Nexus），重点揭示本土行动者如何策略性动员、转译与重构全球政策工具，以及跨国中介如何内生于国家治理变迁过程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 540)]]
 
 > [!concept-lens] 概念透镜

@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 预注册（Preregistration）
+> [!def] Preregistration
 > 预注册（Preregistration）指在干预实施或数据收集分析开始前，公开登记并时间戳锁定研究设计、[[Sample Size Determination\|样本量]]规划、主要与次要结果测量以及[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）的制度化科研实践。在教育与公共政策评估中，预注册旨在遏制事后数据钓鱼（p-hacking）、结果选择性报告（selective reporting）、[[Publication Bias\|发表偏倚]]以及[[Researcher Degrees of Freedom\|研究者自由度]]，构筑[[Causality\|因果推断]]透明度与证据可[[Reliability\|信度]]的前置防线。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 
 > [!concept-lens] 概念透镜

@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 文化资本（Cultural Capital）
+> [!def] Cultural Capital
 > 文化资本（Cultural Capital）是法国社会学家 [[Pierre Bourdieu]] 提出的核心概念，指个体通过早期家庭社会化与正规教育过程获得、并在特定社会[[Champ\|场域]]中具有合法交换价值与排他性收益的文化资源总和。文化资本存在具身化、客体化和制度化三种形态；学校教育往往将对这一资本的默认占有作为隐性选拔前提，从而将社会出身的不平等转化为[[Academic Achievement\|学业成就]]的客观差距，在实质上履行了社会阶级再生产的功能。在大规模教育实证研究中，它常被[[Operationalization\|操作化]]为家庭藏书量等客体化资源，用以捕捉家庭文化刺激对学生认知与[[Epistemology\|认识论]]发展的深层促进作用。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]；[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 353–355)]]
 
 > [!concept-lens] 概念透镜

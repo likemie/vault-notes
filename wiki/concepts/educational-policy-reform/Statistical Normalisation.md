@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 统计正态化（Statistical Normalisation）
+> [!def] Statistical Normalisation
 > **统计正态化（Statistical Normalisation）** 在[[Evidence-Based Education\|循证教育]]改革、[[Randomised Controlled Trials\|随机对照实验]]与教育政策量化评估中，指一种以高斯正态分布（Gaussian Normal Distribution）为核心数理假设的[[Epistemology\|认识论]]倾向与政策治理机制。该机制将干预手段在样本群体中所取得的平均[[Effect Size\|效应量]]（Mean Effect Size）与集中趋势视为评判干预是否有效与值得推广的最高金标准；其在技术上将分布曲线两端的极端案例、[[Heterogeneity\|异质性]]个体与处于困境的边缘学生判定为可被滤除的统计学离群值（Outliers），在政治与行政上则包装为追求公共财政物有所值（Value for Money）与立即可用性的功利主义修辞，进而从制度层面剥夺了最脆弱弱势群体的受托权益与教师因材施教的专业伦理裁量权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
 > [!concept-lens] 概念透镜

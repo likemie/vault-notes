@@ -188,7 +188,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 可见的学习（Visible Learning）
+> [!def] Visible Learning
 > **可见的学习（Visible Learning, VL）** 是新西兰教育学者[[John Hattie\|约翰·哈蒂]]（John Hattie）开创的教育[[Research Synthesis|证据综合]]与学校改进框架。该框架通过对全球数百项[[Meta-analysis\|元分析]]（涵盖数万项原始研究与数千万学生样本）进行二阶[[Meta-meta-analysis\|元-元分析]]，以标准化[[Effect Size\|效应量]]（$d$）为尺度建立影响教育成就的比较性证据地图；确立平均效应量 $d=0.40$ 为干预“相对有效性”的关节点判准；并将教师界定为教育系统可控的核心因果枢纽（占成就变异的 30%），倡导通过使教师看清自身教学对学生学习的实际影响（Know thy impact）、使学生成为自身学习的主导者，实现教与学的双向可见。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–16)]]; [[Argument_McKnight_2020_Discourse\|(McKnight & Whitburn, 2020, p. 32)]]
 
 > [!concept-lens] 概念透镜

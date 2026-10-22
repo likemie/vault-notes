@@ -89,7 +89,7 @@ created: 2026-08-24
 updated: 2026-10-22
 ---
 
-> [!def] 创造力训练（Creativity Training）
+> [!def] Creativity Training
 > [[Creativity\|创造力]]训练（Creativity Training）指通过显性讲授认知启发式策略、提供结构化[[Problem Solving\|问题解决]]模型、创设探究性教学情境及运用即时任务指导语，系统识别、激发并提升学习者[[Creativity\|创造潜能]]（Creative Potential）与显性创造表现的教育教学干预方案（Scott et al., 2004; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, pp. 6–8]]）。在教育心理学与教学论中，创造力训练确立了创造潜能的教育可塑性（Educational Malleability），打破了将创造力视为少数天才专属特权或神秘不可测灵感的宿命论偏见。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 1–3)]]
 
 > [!concept-lens] 概念透镜

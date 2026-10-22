@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 过程知识（Process Knowledge）
+> [!def] Process Knowledge
 > 过程知识（Process Knowledge）是指深植于熟练工程师、技师与实验科研人员身体经验之中，无法被文字、图纸、配方或专利完全编码的排障手感、即兴调优直觉与复杂工艺权衡经验。它与实体物理工具（如光刻机、反应釜）和显性规程（如工程图纸、标准操作规范）共同构成技术的三大支柱，是决定一项科学理论能否在物理实体世界中被稳定制造并持续迭代的[[21st Century Skills and Competencies Discourse|关键能力]]层。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, p. 47)]]
 > 迈克尔·波兰尼（Michael Polanyi）将其经典界定为“我们知道的比我们能说出来的更多”（We know more than we can tell）。在尖端制造业中，资深焊工听得出焊道内部缺陷，微纳加工专家掌握晶圆清洗中极细微的温湿度调控直觉，制药工程师认得决定批次活性的微妙流体变化，此类认知均无法被完全写入标准操作文档。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 47)]]
 

@@ -54,7 +54,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 研究课题论证（Research Proposal）
+> [!def] Research Proposal
 > 课题论证是将[[Research Question\|研究问题]]或[[Hypothesis\|研究假设]]转化为具体化研究目标的系统过程。课题不仅是一个研究题目，它还要体现[[Research Scope\|研究范围]]、[[Study Population and Sample\|研究样本]]、研究工具、研究内容与[[Research Purpose\|研究目的]]等。课题论证部分是研究写作的重要组成部分（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.2）。
 
 > [!concept-lens] 概念透镜

@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 会员制研究联盟（Membership-based Research Consortium）
+> [!def] Membership-based Research Consortium
 > 会员制研究联盟（Membership-based Research Consortium），亦称会员制研发联合体，是指多家企业以缴纳会费的会员身份共同出资、联合支持高校或研究中心开展前瞻性科研攻关的制度安排。在该模式下，知识产权（Intellectual Property, IP）通常归大学所有或实行全员免版税共享，会员企业获得非独占优先许可权而非排他垄断，既保障了大学研究人员的[[Academic Freedom|学术自由]]与衍生创业权，又建立起出资者即用户的强问责纽带与高频产学协同机制。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 150–151)]]; [[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 238–241)]]
 
 > [!concept-lens] 概念透镜

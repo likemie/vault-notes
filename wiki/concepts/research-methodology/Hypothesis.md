@@ -46,7 +46,7 @@ created: 2026-06-14
 updated: 2026-10-22
 ---
 
-> [!def] 研究假设（Hypothesis）
+> [!def] Hypothesis
 > Kerlinger（1970）将假设定义为两个或多个[[Variable\|变量]]之间关系的推测性陈述（a conjectural statement of the relations between two or more variables），或称之为"一个受过教育的猜测"（an educated guess），但不同于普通猜测，假设往往是大量研究、[[Reflexivity\|反思性]]思考和观察的结果（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Ch.7, pp.138–140]]）。
 
 > [!concept-lens] 概念透镜

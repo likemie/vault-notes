@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论理解（Epistemological Understanding）
+> [!def] Epistemological Understanding
 > [[Epistemology\|认识论]]理解（Epistemological Understanding）是指个体对知识本质的把握、对认知主客观维度的协调能力，以及对认识规范（[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠认识论过程]]）之合理性依据与边界条件的[[Metacognition\|元认知]]审视。在发展心理学中，它体现为从绝对论（[[Absolutist]]，客观主导）、多元论（[[Multiplist]]，主观主导）到评价论（[[Evaluativist]]，主客观协调）的演进；在学科探究实践中，它进一步深化为超越单纯操作规程的元认识论理解（Meta-epistemological Understanding），即理解探究准则为何有效及其适用的因果边界。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 207–208)]]
 
 > [!concept-lens] 概念透镜

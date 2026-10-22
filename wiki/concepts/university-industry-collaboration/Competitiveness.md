@@ -122,7 +122,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 竞争力（Competitiveness）
+> [!def] Competitiveness
 > **竞争力（Competitiveness，包含国家竞争力 National Competitiveness、产业技术竞争力、高等教育竞争力与劳动力竞争力）** 指驱动国家科技创新战略、大学治理变革与劳动力技能重塑的核心逻辑与[[Geopolitics|地缘政治]]装置（Geopolitical Apparatus）。
 >
 > 该[[Construct|构念]]在当代跨学科科技政策、高等教育学与政治经济学中包含六个紧密嵌套的层级构型：

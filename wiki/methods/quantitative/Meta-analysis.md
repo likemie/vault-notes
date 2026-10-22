@@ -151,7 +151,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 元分析（Meta-analysis）
+> [!def] Meta-analysis
 > 元分析（Meta-analysis）是对分析的分析（the analysis of analyses），即对多项针对同一[[Research Question|研究问题]]的独立实证研究进行系统检索、方法学编码、[[Effect Size|效应量]]提取与加权统计合并的研究方法体系。该术语由 [[Gene Glass]] 于 1976 年在美国教育研究协会主席演说中首次提出（Glass, 1976），后由 Glass et al. (1981) 系统阐述其操作规范，Hedges and Olkin (1985) 奠定其统计理论基础。
 >
 > 定量元分析的核心操作是：将不同[[Scale of Measurement|测量尺度]]的初级研究结果转换为标准化的效应量（如 $g, d, r$），利用[[Inverse-Variance Weighting|逆方差加权法]]最小化抽样方差，估计总体加权平均效应量，并通过[[Heterogeneity|异质性]]检验与[[Meta-regression|元回归]]解释跨研究效应变异的实质来源。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 32–37)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]

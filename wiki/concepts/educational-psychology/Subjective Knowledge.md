@@ -27,7 +27,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 主观知识（Subjective Knowledge）
+> [!def] Subjective Knowledge
 > 主观知识（Subjective Knowledge）是 Belenky et al.（1986）模型中的过渡阶段。个体开始认识到绝对真理是不存在的，从而将[[Source of Knowledge\|知识的来源]]从外部权威转向内在自我，认为知识是个人的、私密的和直觉的（与 Perry 的多元论阶段相对应）。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
 
 > [!concept-lens] 概念透镜

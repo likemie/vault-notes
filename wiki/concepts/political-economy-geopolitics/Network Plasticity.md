@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 网络可塑性（Network Plasticity）
+> [!def] Network Plasticity
 > **网络可塑性（Network Plasticity）** 指社会、组织或产业研发网络的拓扑形态、连接密度与信息流转通道并非不可逾越的刚性客观约束，而是能够被具备制度权威、技术研判力或关键资源的能动行动者进行**主动介入、定向修剪、跨界重组与重新编织**的结构弹性属性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
 
 > [!concept-lens] 概念透镜

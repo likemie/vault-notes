@@ -91,7 +91,7 @@ created: 2026-06-01
 updated: 2026-10-20
 ---
 
-> [!def] 评分者间信度（Inter-Rater Reliability）
+> [!def] Inter-Rater Reliability
 > 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一测量工具对相同研究对象进行独立评分或分类时，彼此评分之间达成一致的程度。它是信度作为**等值性（reliability as equivalence）** 的核心形式之一，如果多于一位研究者参与数据采集或编码，人类主观判断极易产生系统性误差与随机波动，必须通过信度检验确保所有研究者在数据记录与等级评定上具备高度的一致性与可互换性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
 
 评分者间信度在经验研究中界定了多位观察者或评判员在面对同一客体时的数据可比性范围。

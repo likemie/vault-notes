@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育政策媒介化（Mediatisation of Education Policy）
+> [!def] Mediatisation of Education Policy
 > **教育政策媒介化（Mediatisation of Education Policy，亦称政策媒介化）** 是指大众传媒场域的运作逻辑、话语叙事模式与时间节奏深度渗透并重构教育政策议程设置、决策辩论与合法化动员过程的社会学现象（Lingard & Rawolle, 2004）。在跨国大规模测评（如[[PISA]]）的背景下，媒介化表现为新闻媒体将复杂的统计排位加工为二元对立的“成就”或“危机”公关事件，迫使教育行政部门顺应媒体关注周期，推行具有高度象征可见性与激进干预色彩的政策改革。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–31)]]
 
 > [!concept-lens] 概念透镜

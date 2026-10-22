@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 地方空间（Space of Places）
+> [!def] Space of Places
 > **地方空间（Space of Places）** 指社会互动形式在物理和体验上均附着于特定连续领土（Territorial Contiguity）的社会组织空间（Castells, 2000a；Giddens, 1990；[[Argument_Beech_2009_CE|Beech, 2009a, p. 349]]；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 354–355]]）。在传统与现代社会中，绝大多数普通人的日常生活、身份认同、劳动实践与情感归属仍然植根于地方空间之中。在教育领域，地方空间特指由具体的中小学、教室、师资培训机构（如[[Normal School|师范学校]]）以及师生面对面的身体共同在场构成的物理微观教学[[Champ|场域]]；其运转高度依赖历史积淀的制度[[Habitus|惯习]]、具体的物质资源约束以及日常教学行动的一致性逻辑。
 
 > [!concept-lens] 概念透镜

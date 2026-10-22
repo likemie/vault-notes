@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科研影响力（Research Impact）
+> [!def] Research Impact
 > 科研影响力（Research Impact），在当代高等教育政策与科研评价语境中，特指经同行评议认定的优秀学术研究对学术共同体之外的广泛领域——包括经济繁荣、公共政策制定、医疗健康改善、文化生活繁荣、教育实践以及生态环境保护等——所带来的可验证、可测度的实质性贡献、效益或积极变革（demonstrable benefits to society and economy）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 > [!concept-lens] 概念透镜

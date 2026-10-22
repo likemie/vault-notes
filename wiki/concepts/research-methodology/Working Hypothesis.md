@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 工作假说（Working Hypothesis）
+> [!def] Working Hypothesis
 > **工作假说（Working [[Hypothesis]]，亦称历史探索性假说）** 是比较史学与质性社会科学研究中的核心方法论[[Construct|构念]]，指研究者在考察具体历史个案与制度变迁时，并不预先设定超越时空的普适公理，而是从经验事实的系统梳理与比较中提炼出一种具有明确适用边界的假定性命题，并将其作为概念透镜与探照工具迁移至新的相似情境中展开检验、修正与互照，从而照亮未知现象并提炼有限规律。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 
 > [!concept-lens] 概念透镜

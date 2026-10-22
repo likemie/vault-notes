@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理智情感（Intellectual Emotions）
+> [!def] Intellectual Emotions
 > 理智情感（Intellectual Emotions，亦称[[Epistemology|认识论]]情感，Epistemic Emotions）是指认知主体在面对知识状态、信息缺口、证据矛盾、理论美感及求知探究活动时所体验到的特定情绪与情感反应，主要包括好奇心（Curiosity）、惊异（Wonder）、着迷（Fascination）、认识论困惑（Epistemic Confusion）及理智敬畏（Intellectual Awe）。在当代[[Virtue Epistemology|德性认识论]]（Virtue Epistemology）与教育心理学中，理智情感被视为将抽象的智力技能（Intellectual Skills）升华转化为稳定[[Epistemic Virtues and Vices|理智美德]]（Intellectual Virtues）的核心心理纽带与动力引擎，能够激发并维系主体对真理、深层理解与解释融贯性等认知善品（Epistemic Goods）的内在非功利热爱。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 278–282)]]
 
 > [!concept-lens] 概念透镜

@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 范畴错误（Category Mistake）
+> [!def] Category Mistake
 > 范畴错误（Category Mistake），也称范畴谬误（Category Error），最初由牛津日常语言哲学家[[Gilbert Ryle|吉尔伯特·赖尔]]（Gilbert Ryle, 1949）在《心的概念》中提出，指将属于特定逻辑或[[Ontology|本体论]]范畴的事实、属性或概念，错误地归入另一范畴并按照后者的逻辑框架进行述谓与处理的思维谬误。在教育实证与[[Research Synthesis|证据综合]]方法论批判中，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人将其扩展为关键的方法论批判判据，特指将宏观制度条件、个体身心特质、长周期综合教学模式与短周期微观教学变体等对照基线与时间跨度完全不可比的异质教育因素，强行在单一[[Effect Size|效应量]]排行榜上进行并列、排序与替代性取舍的范畴[[Commensuration|通约]]失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 > [!concept-lens] 概念透镜

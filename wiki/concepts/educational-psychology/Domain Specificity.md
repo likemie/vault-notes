@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 领域特殊性（Domain Specificity）
+> [!def] Domain Specificity
 > 领域特异性（Domain Specificity，亦称领域特殊性或学科特异性）是指个体的认知结构、思维方式与[[Epistemological Beliefs\|认识论信念]]不具有跨情境的完全通用性（Domain Generality），而是高度依赖并内嵌于具体的[[Areas of Knowledge\|知识领域]]（如物理、数学与历史）或日常判断范畴（如审美、价值观与物理事实）中。个体在一个领域的认知发展水平与推理能力无法自动、平滑地直接推导或平移至另一领域。[[Argument_Greene_2010_JEP\|(Greene et al., 2010)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
 >
 > 现代认知心理学与教育研究表明，领域特异性与领域通用性并非绝对对立的二元极端，而是构成一种**双层互动结构** 通用性的逻辑论证与[[Metacognition\|元认知]]原则（上层）必须与特定学科的核心概念、探究规范及[[Evidence Standards\|证据标准]]（下层）深度融合，才能有效催生[[Higher-Order Thinking Skills\|高阶思维]]能力。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]

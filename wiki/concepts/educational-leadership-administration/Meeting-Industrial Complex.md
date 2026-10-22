@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 会议工业复合体（Meeting-Industrial Complex）
+> [!def] Meeting-Industrial Complex
 > **会议工业复合体（Meeting-Industrial Complex）** 是指在大型现代企业与官僚公共机构中，例行性大规模会议（动辄数十人、频繁召开甚至演化出为开会而开会的预备例会）异化为一套自给自足、吞噬巨量工时的形式主义权力运作体系。卡普（[[Alexander Karp]]）与扎米斯卡（[[Nicholas Zamiska]]）指出，这些漫长冗赘的会议在本质上并非为了解决业务实质问题，而是**企业内部政治精英用来争夺声望、炫耀地位与掠夺资源的表演机制**；哈佛商学院莱斯利·珀洛（Leslie Perlow）等学者的实证调研证实，会议狂热造成了广泛的职场窒息感与心理折磨，成为阻碍敏捷[[Engineering Mindset|工程思维]]成长的典型大企业病。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, p. 126)]]
 
 > [!concept-lens] 概念透镜

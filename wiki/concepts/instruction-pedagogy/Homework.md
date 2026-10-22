@@ -89,7 +89,7 @@ created: 2026-06-08
 updated: 2026-10-22
 ---
 
-> [!def] 家庭作业（Homework）
+> [!def] Homework
 > **家庭作业（Homework）** 指由学校教师布置、要求学生在校外非正规教学时段（通常在家中或课后辅导托管情境）独立或在成人支持下完成的学术性学习任务。在实证教育研究中，家庭作业被普遍假设为延伸课堂学习时间、巩固学科知识技能以及发展学生[[Self-Regulated Learning|自主调节学习]]习惯的核心教学干预。然而，由于该术语在不同历史时期、不同国家学制及不同实证研究中涵盖了[[Heterogeneity|异质性]]极高的活动形态，使得关于其有效性的[[Meta-analysis|元分析]]聚合长期陷入“苹果与橙子”的[[Construct|构念]]混淆困境。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 37–38)]]; [[Argument_Simpson_2017_JEdPolicy|(Simpson, 2017, p. 7)]]
 
 > [!concept-lens] 概念透镜

@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据-创新知识动力学（Evidence-Innovation Knowledge Dynamics）
+> [!def] Evidence-Innovation Knowledge Dynamics
 > 证据-创新知识动力学（Evidence-Innovation Knowledge Dynamics）指在教育生态系统中，教师直面实践难题时，将外部学术研究证据与本土教学情境深度嵌合，经由实验、调试与再创造生成实践新知识，并推动新知识向全系统扩散的动态循环模型（Révai, 2020; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 49–51]]）。该模型的核心理论贡献在于 **“修复”（repair）** 了教育政策中长期存在的体制断层——政策制定者往往一方面孤立谈论规模化推广教育创新（Scaling Innovation），另一方面片面强调提高证据利用率（Increasing Evidence Use），而知识动力学模型证明两者本质上是不可分割、相互共生的有机统一体。
 
 > [!concept-lens] 概念透镜

@@ -36,7 +36,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 分层抽样（Stratified Sampling）
+> [!def] Stratified Sampling
 > 随机分层抽样（Random Stratified Sampling）是将总体按关键特征划分为同质组（层，strata），然后在各组内分别[[Random Sampling\|随机抽样]]的概率抽样方法。它确保样本在所选特征上的比例与总体一致，是[[Random Assignment\|随机化]]与分类化的结合。特征选择应尽量简洁——因素越多，不仅抽样越复杂，样本往往也越大。
 
 > [!method-scope] 方法范围

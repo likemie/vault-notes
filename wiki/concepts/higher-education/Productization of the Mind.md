@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 心智产品化（Productization of the Mind）
+> [!def] Productization of the Mind
 > 心智产品化（Productization of the Mind）是指在当代晚期资本主义与高等教育官僚化浪潮中，大学等核心文化机构不再将激发学生探求真理、审视历史矛盾与培育实质信念视为根本使命，而是将人类智力资源全面商品化与工具化，批量生产专精于狭隘技能（如纯编程、金融衍生品设计、管理咨询建模）却缺乏独立价值反思能力、极易被他人战略操纵的“标准化智力产品”的现象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 71–76)]]
 
 > [!concept-lens] 概念透镜

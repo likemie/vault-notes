@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教学助理（Teaching Assistant）
+> [!def] Teaching Assistant
 > **助教（Teaching Assistants, TAs；英国亦称 Learning Support Assistants 或 Classroom Assistants）** 是英国中小学课堂中由学校雇用的准专业人员（paraprofessionals），在持有正式教师资格的主讲教师（Qualified Teacher）领导下提供课堂教学辅助与个别化支持。助教群体规模庞大——2019 年英格兰雇佣约 38 万名助教，占学校教职总数四分之一以上。在[[Evidence-Based Education\|循证教育]]与教育治理视域下，助教构成了极具代表性的双重研究案例：一方面，常规配置下的逆向效应推动英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）发起基于七项建议的区域规模化战役，提供了[[Knowledge Mediation\|知识中介]]重塑实践的因果验证（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 149–150, 157]]）；另一方面，围绕“助教是否有效”的循证争论，深刻折射出官方中介[[Interactional Expertise\|交互型专长]]与一线教师[[Contributory Expertise\|贡献型专长]]之间的制度博弈与政治化挪用（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 19–21]]）。
 
 > [!concept-lens] 概念透镜

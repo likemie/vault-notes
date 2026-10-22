@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育对话（Dialogue in Education）
+> [!def] Dialogue in Education
 > 教育对话（Dialogue in Education）是[[Active Learning\|主动学习]]与探究性教学的核心中介。[[John Dewey\|杜威]]（John Dewey）将对话理解为在民主学习共同体中“共享经验的过程”；[[Paulo Freire\|弗莱雷]]（Paulo Freire）与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 则进一步将对话确立为一种解放性教学实践——通过平等对话，学习者从被动的知识接受者转变为“批判性共同探究者”（critical co-investigators），通过交流揭露并破除[[Banking Model of Education\|储蓄式教育]]的单向沉积，走向[[Conscientization\|批判意识觉醒]]与[[Critical Thinking\|批判性思维]]发展。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]] [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
 
 > [!concept-lens] 概念透镜

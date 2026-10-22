@@ -82,7 +82,7 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-> [!def] 发表偏差（Publication Bias）
+> [!def] Publication Bias
 > 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术文献库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
 
 在现代[[Evidence-Based Education|循证教育]]评价中，发表偏倚被视为威胁实证合成[[Internal Validity|内部效度]]的关键偏倚源。[[Meta-analysis|元分析]]研究者通常通过[[Funnel Plot|漏斗图]]（[[Funnel Plot]]）、Egger 线性回归、[[Trim and Fill Method|剪补法]]（[[Trim and Fill Method]]）以及[[Fail-Safe N|失安全数]]（[[Fail-Safe N]]）等多重统计工具对发表偏倚进行系统性审计与效应量下调校正。

@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 分层线性模型（Hierarchical Linear Model）
+> [!def] Hierarchical Linear Model
 > **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或[[Random-Effects Model|随机效应]]混合模型 Mixed-Effects Model）** 是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”假设。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算 **[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 
 > [!method-scope] 方法范围

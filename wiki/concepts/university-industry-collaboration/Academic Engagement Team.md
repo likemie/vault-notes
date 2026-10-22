@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学术参与团队（Academic Engagement Team）
+> [!def] Academic Engagement Team
 > [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是跨国企业内部以直接预算责任负责领导、设计与统筹管理大学合作的专业组织单位。AET 并非独立的实体业务部门，而是作为一种跨部门叠加层（overlay）构型嵌入在企业现有的科层网络之中（如设立在首席技术官 CTO 办公室、人力资源部或分散于各业务部门之内）。AET 成员兼具学术界科研规律洞察与商业运营战略敏锐度，扮演组织[[Polymath|通才]]（organizational polymath）角色，其核心职能是克服企业短期季度财务考核与大学多年学术探索之间的断层，将分散在高校的前沿科技与人才资源转化为支持企业长远发展的战略动力。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–218, 222–223)]]
 
 > [!concept-lens] 概念透镜

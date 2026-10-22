@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 在教育[[Experimental Research|实验研究]]、课程评估与政策试验中，“常态教学”（Business as Usual, BAU），亦称常规教学实践或照常教学，指对照组学校、教师与学生在未接受特定实验性干预方案时所维持的既有课程进度、教学常规与专业支持状态。
 
-> [!def] 常态教学（Business as Usual）
+> [!def] Business as Usual
 > 常态教学是构建[[Counterfactual\|反事实]][[Causality\|因果推断]]的核心基线，干预组在此基线之上取得的相对增益被界定为净[[Effect Size\|效应量]]。与医学[[Clinical Trial\|临床试验]]中生理上惰性的安慰剂（Placebo）截然不同，现代学校环境中的常态教学是一个活跃、动态且由具备专业素养的教师日常推进的坚实基线（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。在宏观课程改革与教学法实验中，常态教学往往是由经验丰富的教师实施其操练多年的传统[[Direct Instruction\|直接教学]]，且学生对这一教学流程已高度适应；因此，超越或打平这一高度熟练的常态基准，构成了衡量新型教学法真实有效性的高标准实证检验（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）。
 
 > [!concept-lens] 概念透镜

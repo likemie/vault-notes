@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 共同从属（Co-affiliation）
+> [!def] Co-affiliation
 > **共同从属（Co-affiliation / 机构多重从属性）** 是指[[Policy Network\|政策网络]]中的核心精英行动者跨越公权力机关、跨国金融机构、营利性咨询寡头、非营利组织与慈善基金会，同时（concurrently）或先后（sequentially）担任多重董事兼职（interlocking directorships）、法定理事或政策审查专员的拓扑关联现象。该机制打破了传统韦伯式[[Bureaucracy|科层制]]单一组织忠诚与清晰公私界限的假定，使资金、意识形态与政策模型得以借助行动者的多重身份在异质网络中自由穿梭，进而构筑起“去中心化但[[Epistemology\|认识论]]高度同质”（epistemic homophily）的杂合治理层级（heterarchy）（Ball & Exley, 2010；Avelar & Ball, 2019；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 
 > [!concept-lens] 概念透镜

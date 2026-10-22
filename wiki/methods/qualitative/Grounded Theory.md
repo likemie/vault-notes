@@ -94,7 +94,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 扎根理论（Grounded Theory）
+> [!def] Grounded Theory
 > **扎根理论（Grounded Theory，又称扎根理论方法、扎根理论设计）** 是一种源自社会学的经典[[Qualitative Research\|质性研究]]设计：通过多阶段迭代的数据收集、系统的概念化编码（[[Open Coding\|开放编码]]、[[Axial Coding\|主轴编码]]与[[Selective Coding\|选择性编码]]）、持续比较与理论备忘录撰写，自下而上地从经验材料与参与者行动视角中，归纳推导出解释某一过程、行动或互动机制的实质性理论（Glaser & Strauss, 1967；Strauss & Corbin, 1990；Charmaz, 2006；Corbin & Strauss, 2008, 2015；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 1, 7]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 560–562]]）。
 >
 > 扎根理论的核心特征在于理论直接根植于（grounded in）经验数据本身。研究者并不预先设定僵化的理论假设去验证数据，而是通过严密的归纳程序让概念、范畴与关系网络从现实世界中自然[[Emergence\|涌现]]，最终在经验数据与抽象概念之间达成高度拟合与[[Saturation\|理论饱和]]。

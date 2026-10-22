@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 外向型国际化（Outward-Oriented Internationalization）
+> [!def] Outward-Oriented Internationalization
 > 外向型[[Internationalization of Higher Education|高等教育国际化]]（Outward-Oriented Higher Education Internationalization）是由吴菡/吴林（Wu, 2019a, 2019b）提出、并在[[Geopolitics of Higher Education|高等教育地缘政治]]研究中得到广泛引用的[[Construct|理论构念]]。该概念特指新兴国家（尤其是中国）的高等教育国际化战略发生根本性[[Paradigm|范式]]转向：由改革开放初期至 2000 年代以“向西方先进模式取经、大规模选派公派留学生、引进海外原版课程与聘请外国专家”为主导的**内向型阶段（Inward-Oriented Phase）**，转向以“主动向海外输出高等教育机构与项目、提供高教对外发展援助、实施政府主导的大规模国际留学生吸纳工程”为特征的**外向型战略布局**。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 
 > [!concept-lens] 概念透镜

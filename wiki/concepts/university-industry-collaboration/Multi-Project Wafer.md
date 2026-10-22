@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 多项目晶圆（Multi-Project Wafer）
+> [!def] Multi-Project Wafer
 > 多项目晶圆（Multi-Project Wafer, MPW，行业俗称“拼圆”）是指将多个不同设计团队或研发项目的集成电路掩模版图，合并拼版在同一组光刻掩模版（Mask Set）与物理晶圆表面，由晶圆代工厂进行统一批次流片加工的共享制造机制。在流片完成后，晶圆按照不同区域划片切割并分发给各个客户，从而使各参与方能够按芯片面积比例共同分摊昂贵的光刻掩模与产线开机固定成本。这一机制大幅降低了大学高校、科研机构与小微初创企业的样片制造门槛，构成了微电子领域跨越从实验室原理验证到产业化先导中试（[[Translational Research|lab-to-fab]]）断层的核心制度工具。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24, 27–28)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 
 > [!concept-lens] 概念透镜

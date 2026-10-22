@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论氛围（Epistemic Climate）
+> [!def] Epistemic Climate
 > [[Epistemology\|认识论]]氛围（Epistemic Climate）是指在特定的共同体（如一间实体教室、一个线上学术社区或一个科研实验室）内部，通过日常社会互动和制度安排沉积下来的、共享的隐性认识论规范。它包括该集体如何定义什么是合法的知识、什么是好问题、以及容许何种形式的[[Justificatory Standards\|确证标准]]。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 476)]]
 
 > [!concept-lens] 概念透镜

@@ -78,7 +78,7 @@ created: 2026-06-24
 updated: 2026-10-22
 ---
 
-> [!def] 参与观察（Participant Observation）
+> [!def] Participant Observation
 > 参与观察是[[Qualitative Research\|质性研究]]的核心数据收集方法。研究者进入被研究群体的自然情境，同时扮演"参与者"（加入群体活动、分享经验）和"观察者"（系统记录和分析行为与互动）的双重角色。这一方法植根于[[Ethnography\|民族志]]传统——Malinowski（1922）的"把握土著人的观点"和人类学的[[Fieldwork\|田野工作]]传统——后被广泛应用于教育研究等领域。目标是以内部人视角（主位视角）获取对群体文化、行为和社会互动的深度理解。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 408, 425, 430)]]
 
 > [!method-scope] 方法范围

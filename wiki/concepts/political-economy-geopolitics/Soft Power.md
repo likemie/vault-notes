@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 软实力（Soft Power）
+> [!def] Soft Power
 > 软实力（Soft Power，亦称软权力），是由[[Joseph S. Nye Jr.|约瑟夫·奈]]（Joseph S. Nye）在冷战终结前后围绕美国是否走向相对衰落的学术与政策论辩中系统提出的核心概念，指一个行为体以吸引（Attraction）和说服而非强制（Coercion，如军事行动）或收买（Inducement，如经济制裁与金援附带条件）来塑造他者偏好与行为目标的能力。软实力依托文化吸引力、政治价值观的感召力以及被普遍视为具有合法性（Legitimacy）的对外政策运转。在当代全球教育治理与跨国比较中，这一机制被深化为“[[Soft Power by Hard Facts|以硬事实施展软权力]]”（Soft Power by Hard Facts）：国际组织借助量化统计、可比指标与跨国测评排名，在缺乏硬性法律强制管辖权的前提下对主权国家教育体系施加深远的规范引导与政策重构。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
 
 > [!concept-lens] 概念透镜

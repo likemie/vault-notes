@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 流动基础设施（Infrastructures of Immobility）
+> [!def] Infrastructures of Immobility
 > 流动基础设施（infrastructures of (im)mobility）指一系列制度性与空间性因素——签证机制、地理区位、[[Discourse|话语]]规范、奖学金系统、国际办学网络等——协同运作，实现对跨境流动的引导、规训与筛选。该概念起源于移民研究（Xiang & Lindquist, 2014; Lin et al., 2017），由经济地理学家克莱伯特（J. Kleibert, 2018, 2020）引入跨境高等教育领域。这些制度安排深度嵌入国家与区域的移民制度体系，参与国家的边界管理与人才流动治理，并在话语层面建构着何种流动是合法的、优先的与可控的。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 9–10)]]
 
 > [!concept-lens] 概念透镜

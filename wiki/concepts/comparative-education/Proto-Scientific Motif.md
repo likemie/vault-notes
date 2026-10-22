@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 准科学母题（Proto-Scientific Motif），又称准科学人道改良母题（The Proto-Scientific Humanistic and Meliorist Motif），是指发端于 19 世纪初、以[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）在 1817 年《比较教育工作计划与初步构想》中所奠定的比较教育初始[[Paradigm|范式]]。
 
-> [!def] 准科学母题（Proto-Scientific Motif）
+> [!def] Proto-Scientific Motif
 > 准科学母题是比较教育学科史中将经验事实归纳法与崇高人道主义关怀高度统一的初始[[Epistemology\|认识论]]形态。该母题受到培根科学统一构想与早期[[Positivism\|实证主义]]触动，将教育类比于居维叶的比较解剖学，主张通过统一编制标准分类[[Questionnaire\|问卷调查]]表与比较观察图表（Comparative Observation Tables），客观系统地收集欧洲各国的教育“事实与观察”，进而归纳推导出确定的教育科学普遍原则；同时，这一科学经验探究绝非[[Value Neutrality\|价值无涉]]的技术测量，而是本体性地深嵌于全人体智德教化、消除盲目狂热与实现欧洲[[Perpetual Peace\|永久和平]]的崇高伦理使命之中。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 11–14, 23–24, 33–34)]]
 
 > [!concept-lens] 概念透镜

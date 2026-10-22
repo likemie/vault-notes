@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 交响乐团组织模型（Symphony Orchestra Model）
+> [!def] Symphony Orchestra Model
 > **交响乐团组织模型（Symphony Orchestra Model）** 是指由现代管理学奠基人[[Peter Drucker|彼得·德鲁克]]（Peter F. Drucker）于 1988 年在《哈佛商业评论》（*Harvard Business Review*, HBR）标志性论文《新型组织的到来》（*The Coming of the New Organization*）中提出的知识密集型组织架构[[Paradigm|范式]]。该模型主张，在[[Knowledge-Based Economy|知识经济]]与高科技时代，大型组织不应再模仿传统工业军队的多层级命令控制链，而应仿效交响乐团：由掌握极高专业技艺的专家与艺术家（乐手、顶尖软件工程师）组成，每一位专家均在**无任何中间管理层（如事业部副总裁、群组副总裁）阻隔的前提下，直接与首席执行官（Chief Executive Officer, CEO）兼总指挥建立双向直连与视觉协同**，依靠对共同使命谱系的理解与自身专业标准实现高度自治。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, p. 127)]]
 
 > [!concept-lens] 概念透镜

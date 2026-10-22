@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 上游公众参与（Upstream Public Engagement）
+> [!def] Upstream Public Engagement
 > 上游公众参与（Upstream Public Engagement）是指在科研议程确立、课题优先序遴选、技术路线构思乃至资助申请立项等研究周期的最前端，将多元公众、患者社群与非专业利益相关者实质性引入科研过程的双向互动[[Paradigm\|范式]]；其核心在于超越在科研成果产出后开展单向通知或公关解释的“下游修补”模式，在科技轨迹与社会价值尚未固化的早期阶段共同探讨科技的潜在影响、伦理边界与公众关切。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 92, 100, 105)]]
 
 > [!concept-lens] 概念透镜

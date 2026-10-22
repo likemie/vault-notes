@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 平庸之恶（Banality of Evil）
+> [!def] Banality of Evil
 > **平庸之恶（The Banality of Evil）** 是由德裔美籍思想家汉娜·[[Hannah Arendt|阿伦特]]（Hannah Arendt）在《艾希曼在耶路撒冷》（*Eichmann in Jerusalem*, 1963）中开创性提出的政治哲学与伦理学概念，指在高度专业化、层级化的现代[[Bureaucracy|科层制]]与规训体制中，极端的系统性灾难与道德罪恶往往并非由病态的狂热狂徒或恶魔所发动，而是由成千上万放弃独立批判反思、放弃个体良知判断、仅将“遵守程序与服从上级”奉为最高美德的普通人（即处于“无思状态”的体制齿轮）在日常事务中按部就班执行而成。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
 
 > [!concept-lens] 概念透镜

@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科学虚假信息（Scientific Misinformation）
+> [!def] Scientific Misinformation
 > 科学虚假信息（Scientific Misinformation）是指在大众传媒、数字社交平台与公共[[Discourse|话语]]空间中传播的，在事实层面不准确、存在实质性误导或与当前同行评议科学共识相违背的信息内容。它不仅包括缺乏恶意动机的错误转述或过度简化，也涵盖带有明确政治、商业或意识形态操纵意图的虚假陈述，在公共卫生决策、疫苗接种、气候变化治理等关键领域对个体健康与现代社会运行造成深远危害。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
 
 > [!concept-lens] 概念透镜

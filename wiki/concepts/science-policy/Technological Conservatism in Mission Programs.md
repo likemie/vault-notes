@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 使命项目中的技术保守主义（Technological Conservatism in Mission Programs）
+> [!def] Technological Conservatism in Mission Programs
 > **使命项目中的技术保守主义（Technological Conservatism in Mission Programs / 保守型选型与前沿加速悖论）** 是指在实施国家重大科技工程（如载人航天与重大战略防御工程）过程中，项目管理当局为规避灾难性系统故障与生命安全风险，在核心飞行或关键任务装备中严格坚持选用已充分验证其成熟度与高[[Reliability|可靠性]]的元器件（Conservative Component Selection），但整个工程任务在重量、体积、功耗与环境耐受度等方面的极端物理约束，又在客观上迫使外围工业界加速攻克最前沿元器件与制造工艺的组织行为与技术治理张力机制。该机制由[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）在剖析[[Apollo Program|阿波罗计划]]（Apollo Program）等重大空间项目的技术影响时系统提出。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–17)]]
 
 > [!concept-lens] 概念透镜

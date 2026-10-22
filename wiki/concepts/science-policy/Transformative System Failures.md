@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 变革性系统失灵（Transformative System Failures）
+> [!def] Transformative System Failures
 > **变革性系统失灵（Transformative System Failures）** 是由 K. 马蒂亚斯·韦伯（K. Matthias Weber）与哈拉尔德·罗拉赫（Harald Rohracher）于 2012 年提出的创新政策分析概念，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被作为[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心正当性基础。它指既有[[Systems of Innovation|创新系统]]在应对气候变化、公共健康等重大社会挑战时，由于缺乏方向引导、需求表达受阻、政策协调断裂以及反思能力匮乏，导致整个社会–技术系统无法自发实现根本性转型的一组结构性制度失灵。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]
 
 > [!concept-lens] 概念透镜

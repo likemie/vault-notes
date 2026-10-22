@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 精英生产过剩（Elite Overproduction）
+> [!def] Elite Overproduction
 > **精英生产过剩（Elite Overproduction）** 是由[[Peter Turchin|彼得·图尔钦]]（[[Peter Turchin]]）在结构人口学理论与历史动态学（Cliodynamics）中系统提炼的核心[[Construct|构念]]，指社会高等教育体系与择优晋升机制所培养出的具备高等学位、精英身份认同与高地位期望的人才数量，严重超出了经济与政治体制所能提供的实际精英职位、权力岗位与高额财富配额。在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）对现代科技产业病理的剖析中，美国高等教育向全社会开放虽打破了传统血统贵族垄断，却意外造成了庞大的精英过剩群体；这批具有贵族式文化与教育素养却领着普通中产薪资的高学历工程师，因无法继承既有权力与财富而产生强烈的相对剥夺感，进而将全部工程才智转向开发[[Lifestyle Technology|生活方式科技]]（如打车、外卖、订房与图片社交），试图通过代码在微观层面为自身营造贵族式使唤仆役与安逸生活的阶层幻象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
 
 > [!concept-lens] 概念透镜

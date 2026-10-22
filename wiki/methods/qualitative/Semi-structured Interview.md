@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 半结构化访谈（Semi-structured Interview）
+> [!def] Semi-structured Interview
 > 半结构化访谈（Semi-structured Interview）是在[[Qualitative Interview\|质性访谈]]中，研究者预先准备话题和问题的大纲（[[Interview Protocol\|访谈提纲]]），但在访谈过程中可根据受访者的回应灵活调整问题顺序和措辞的方法。它位于结构化访谈和非结构化访谈之间的连续体上，兼具系统性和灵活性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 413–414]]）。
 
 > [!method-scope] 方法范围

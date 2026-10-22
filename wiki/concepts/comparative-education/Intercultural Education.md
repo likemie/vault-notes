@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 跨文化教育（Intercultural Education）
+> [!def] Intercultural Education
 > 跨文化教育（Intercultural Education）是让不同语言、宗教、族群与国家经验的学习者进入持续交往、平等对话与共同学习的教育理念和实践。在比较教育中，它把分析对象从国家制度间的静态对比，扩展到国界内外的文化配置（cultural configurations），并通过课程、教材、多语言支持和共同生活促进文化理解与社会参与。[[Argument_Mitter_2009_Europe|Mitter (2009, pp. 94, 97–98)]]
 
 > [!concept-lens] 文化交往、制度参与与权力反思

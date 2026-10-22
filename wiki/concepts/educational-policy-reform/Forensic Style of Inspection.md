@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 取证式督导（Forensic Style of Inspection）
+> [!def] Forensic Style of Inspection
 > 取证式督导（Forensic Style of Inspection / Forensic Investigation）是教育政策研究者格雷厄姆·史密斯（Graham Smith, 2000）在剖析英国教育督察体制演变时提出的分析性概念，指国家督导或质量审计机构开展的一种具有高度预设性与辩护性的调查模式。该模式为了支撑既定的政策假定或行政裁决，定向搜罗、拼凑并组装经验材料；调查发现来自对行政主张的事后论证，依循类似法庭公诉取证的逻辑建立问责卷宗。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 653; Smith, 2000, p. 337)]]
 
 > [!concept-lens] 概念透镜

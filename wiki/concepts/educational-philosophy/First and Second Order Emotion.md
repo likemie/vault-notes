@@ -32,7 +32,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 第一级与第二级情感（First and Second Order Emotion）
+> [!def] First and Second Order Emotion
 > 第一级情感（first order emotion）指真实生活中体验到的原始情感；第二级情感（second order emotion）指艺术中体验到的过滤情感（Witkin, 1974; Best, 1992）。一般认为第一级情感在艺术中没有位置，因为它短暂、转瞬即逝，有时可能压倒一切、不可控制；艺术的独特优势在于允许放慢时间，暂停和凝思那些可能否则会从身边溜走的经验（26.7，p. 16）。
 
 > [!concept-lens] 概念透镜

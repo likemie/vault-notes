@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 涌现（Emergence）
+> [!def] Emergence
 > 涌现（Emergence）是[[Complexity Theory|复杂性理论]]、质性[[Interpretive Paradigm|自然主义探究]]与当代前沿计算科学的核心[[Epistemology|认识论]]与[[Ontology|本体论]][[Construct|构念]]，指系统内部低阶组分依据相对简单的局部微观规则持续相互作用时，自发衍生出不可从孤立要素属性中直接预测的高阶复杂性、全局模式与全新系统结构的过程（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, p. 29]]；Davis & Sumara, 2005, p. 313）。涌现的系统具有“整体大于部分之和”的不可逆质变特征，彻底解构了将宏观系统向下还原为孤立原子化零件的机械还原论假定。在[[Qualitative Research|质性研究]]方法论中，涌现表现为理论从实地数据中扎根生发与研究设计的动态演进（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 404–405]]）；在当代[[Generative Artificial Intelligence|生成式人工智能]]领域，涌现专指超大规模人工神经网络在参数规模跨越临界阈值后，在高维隐空间中自发形成超越纯记忆统计的常识推理与概念具象化能力（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska, 2025, pp. 18–20]]）。
 
 > [!concept-lens] 概念透镜

@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科层制（Bureaucracy）
+> [!def] Bureaucracy
 > **科层制（Bureaucracy）**，亦称官僚制，是指一种依据高度专业化的劳动分工、自顶向下的金字塔式权力等级、非人格化的成文规章制度以及依凭专门资格任用人员的理性化组织治理[[Paradigm|范式]]。在古典社会学（如[[Max Weber|马克斯·韦伯]]）理论中，科层制被阐释为工业文明消除人身依附、实现可计算性与法律理性统治的最有效机器；然而，在当代组织批判与实战工程治理（卡普与扎米斯卡，2025）中，科层制展现出严重的病理特征：层层设卡的中层管理架构、微观地位固化与[[Meeting-Industrial Complex|会议工业复合体]]扼杀一线[[Creativity|创造力]]，唯命是从的顺从偏好诱发[[Banality of Evil|平庸之恶]]，采办定制垄断割裂了开发者与前线用户的连接；在跨国与公共治理层面，[[OECD|经济合作与发展组织]]（OECD, 1995; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）指控战后福利国家科层制僵化迟钝并以[[New Public Management|新公共管理]]（NPM）重塑审计网络，其常任秘书处更演化为具有自主议程的国际官僚机构；而在批判性公共治理考察（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）中，科层制虽然具有[[Red Tape|繁文缛节]]，但其成文规章与法定理性维系着代议制民主问责与信息公开，新自由主义去科层化改革反致网络与部落治理蔓延并架空了公共监督。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–444)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vii–viii, 3–7)]]
 
 > [!concept-lens] 概念透镜

@@ -35,7 +35,7 @@ created: 2026-06-23
 updated: 2026-10-22
 ---
 
-> [!def] 霍桑效应（Hawthorne Effect）
+> [!def] Hawthorne Effect
 > 霍桑效应（Hawthorne effect）指研究对象仅仅因为意识到自己正在参与研究而改变其行为或表现的现象。这种改变可能朝向更好或更差的方向——两种情况都不能公平反映其通常的能力或行为模式。在教育实验中，参与者单纯因为身处实验中，而非实验在做什么，就可能改变行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 314–315]]）。
 
 > [!concept-lens] 霍桑效应在效度威胁中的位置

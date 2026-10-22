@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 循证决策（Evidence-Based Policy-Making）
+> [!def] Evidence-Based Policy-Making
 > 证据本位政策制定（Evidence-Based Policy-Making, EBPM），又称循证决策，是指将系统整理、严格检验的[[Scientific Method|经验科学]]研究证据置于公共政策规划、方案设计与结果评价核心地位的治理[[Paradigm|范式]]。该范式主张以客观量化因果证据替代意识形态教条与主观直觉经验，核心诉求在于确证何者有效（What Works），从而实现公共资源的理性配置与治理效能的最优化。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 333–334)]]
 
 > [!concept-lens] 概念透镜

@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学科社会化（Disciplinary Socialization）
+> [!def] Disciplinary Socialization
 > 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念[[Discourse|话语]]、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科并非单纯的知识信息载体，而是一种强有力的认知亚文化环境，持续重塑学生的认识论图式。[[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007, pp. 351–352)]]
 
 > [!concept-lens] 概念透镜

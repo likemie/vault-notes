@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 炫耀性信念（Luxury Belief）
+> [!def] Luxury Belief
 > 炫耀性信念（Luxury Belief）指在当代阶层分化与文化极化背景下，受过高等教育的精英特权阶层为了彰显自身道德声望、智识优越与社会地位而采纳并公开宣扬的激进意识形态或政策立场；这类信念对持有者自身几乎不带来任何实际生活负担，但当其被推行为公共政策或制度规范时，其造成的混乱、安全恶化或经济代价却几乎完全由缺乏社会资本与财富屏障的底层弱势群体承担。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 
 > [!concept-lens] 概念透镜

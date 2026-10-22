@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 博学者（Polymath）
+> [!def] Polymath
 > 博学者（Polymath，亦称博学通才或通识学者）是指跨越多个异质学科领域、兼具深厚理论洞察力与务实工程解决能力，并能将科学技术探索有机融入公共事务与国家治理的学者与政治领袖形态。在 18–19 世纪，博学者无视人为学科区隔，构成了早期[[Technological Republic|技术共和国]]的探索基石；而在现代高度分工的学术体制下，学科壁垒加剧了专门化，致使代议政治中工程与技术人才严重匮乏。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
 
 > [!concept-lens] 概念透镜

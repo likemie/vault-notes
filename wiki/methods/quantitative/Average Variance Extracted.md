@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 平均方差抽取量（Average Variance Extracted）
+> [!def] Average Variance Extracted
 > **平均方差抽取量（Average Variance Extracted, AVE）** 是由 Claes Fornell 与 David F. Larcker 于 1981 年提出的量化心理测量学指标，用于在[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA）与结构方程模型（[[Causal Modeling\|SEM]]）中衡量潜[[Variable\|变量]]所解释的观测指标方差相对于测量误差方差的平均比例。AVE 是确立测量工具[[Convergent and Discriminant Validity\|收敛效度]]（Convergent Validity）与区分效度（Discriminant Validity）的黄金判定标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 6–7)]]
 
 > [!method-scope] 方法范围

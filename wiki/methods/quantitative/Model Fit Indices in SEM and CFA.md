@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 结构方程模型拟合指数（Model Fit Indices in SEM and CFA）
+> [!def] Model Fit Indices in SEM and CFA
 > **结构方程模型与[[Confirmatory Factor Analysis\|验证性因子分析]]拟合指数（Model Fit Indices in [[Causal Modeling\|SEM]] and CFA）** 是一套用于检验理论假设模型所蕴含的协方差矩阵 $\boldsymbol{\Sigma}(\boldsymbol{\theta})$ 与样本实际观测协方差矩阵 $\mathbf{S}$ 之间吻合程度（Goodness of Fit）的多维度量化评价体系。它弥补了传统[[Chi-Squared Test\|卡方拟合优度检验]]（$\chi^2$）对大样本过度敏感而必然拒绝正确模型的缺陷，为评估测量模型（CFA）与结构路径模型（SEM）的经验合法性提供客观决策标准。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 9)]]
 
 > [!method-scope] 方法范围

@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 制度化社会学习（Institutionalising Social Learning）
+> [!def] Institutionalising Social Learning
 > **制度化社会学习（Institutionalising Social Learning）** 是由 R. L. 伊森（R. L. Ison）、K. B. 柯林斯（K. B. Collins）与 P. J. 沃利斯（P. J. Wallis）于 2015 年系统提出的治理理论与学习科学概念，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为破解[[Wicked Problem|棘手问题]]并推动使命导向政策走向收敛的核心机制。它指面对高度复杂、充斥价值争议与[[Scientific Uncertainty|认知不确定性]]的社会转型挑战时，治理体系超越单向的技术知识传递与专家封闭决策，通过在制度层面搭建包容政策制定者、科研人员、企业与公众的协作平台，借助共同愿景塑造（Collective Visioning）、[[Participatory Research|参与式研究]]与认知框架重构（Framing/Reframing），促使异质行动者在持续互动与试错中达成理解互信与行动收敛的集体学习过程。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481, 487)]]
 
 > [!concept-lens] 概念透镜

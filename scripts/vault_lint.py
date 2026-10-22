@@ -1383,16 +1383,10 @@ RETIRED_SECTION_HEADINGS = {"相关研究", "领域应用", "总览", "实证数
 
 
 def expected_def_title(fm: Dict[str, Any]) -> Optional[str]:
-    """主定义标题：中文名（English title）。中文名取 aliases 中第一个含汉字的别名；没有则只写 title。"""
+    """主定义标题：条目英文名（frontmatter title），不加中文翻译。"""
     title = str(fm.get("title") or "").strip()
     if not title:
         return None
-    aliases = fm.get("aliases") or []
-    if isinstance(aliases, str):
-        aliases = [aliases]
-    zh = next((str(a).strip() for a in aliases if re.search(r"[\u4e00-\u9fff]", str(a))), None)
-    if zh and not re.search(r"[\u4e00-\u9fff]", title):
-        return f"{zh}（{title}）"
     return title
 
 

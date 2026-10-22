@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 可靠认识论过程（Reliable Epistemic Processes）
+> [!def] Reliable Epistemic Processes
 > 可靠[[Epistemology\|认识论]]过程（Reliable Epistemic Processes）是个体或科学共同体为了达成[[Epistemic Aims\|认识目标]]而采纳的、能够在特定因果条件下稳定产出真实知识与高质量认识产出的探究程序与[[Epistemic Practices\|认知实践]]流程。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202, 209)]]
 
 > [!concept-lens] 概念透镜

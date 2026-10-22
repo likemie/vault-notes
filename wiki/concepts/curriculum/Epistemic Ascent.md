@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论上升（Epistemic Ascent）
+> [!def] Epistemic Ascent
 > [[Epistemology|认识论]]上升（Epistemic Ascent），在课程论与认知科学中亦称概念进阶（Conceptual Progression），指学习者在特定学科领域中从具体的经验表象与零散运算规则，向高度抽象、系统连贯的学科公理体系与高阶认识论结构逐步攀升的认知演进过程。该概念强调课程标准与教学设计必须超越碎片化知识点的堆砌，遵循学科概念生成的内在秩序，为学生掌握学科特有的认识方式（[[Ways of Knowing]]）提供清晰的阶梯支撑。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 
 > [!concept-lens] 概念透镜

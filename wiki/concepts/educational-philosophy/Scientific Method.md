@@ -107,7 +107,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科学方法（Scientific Method）
+> [!def] Scientific Method
 > 科学方法（Scientific Method）传统上被界定为一套以系统观察、提出假设、隔离[[Variable|变量]]、受控实验检验以及逻辑推理为核心的经验探究程序，其关键特质在于操作程序的可公开复现性与结论的[[Falsification|可证伪性]]。在当代科学哲学、科学社会学与科学教育界，单一标准化的“机械五步法”神话已被消解，科学方法被重构为包含观察建模、历史推演与共同体辩护的多元化社会[[Epistemology|认识论]]实践；而在超国家教育治理中，比较转向被包装为政治决策的科学方法，赋予量化政策中枢无可置疑的客观主义声誉。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 25)]]
 
 > [!concept-lens] 概念透镜

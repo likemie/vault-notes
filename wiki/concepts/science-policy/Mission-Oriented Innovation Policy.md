@@ -95,7 +95,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 使命导向创新政策（Mission-Oriented Innovation Policy）
+> [!def] Mission-Oriented Innovation Policy
 > **使命导向创新政策（Mission-Oriented Innovation Policy, MOIP / MIP）** 是指一种旨在调动前沿科学、技术与产业创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候危机、公共卫生、能源转型与数字包容）的系统性公共政策[[Paradigm|范式]]。不同于传统基于新古典福利经济学被动修补[[Market Failure|市场失灵]]或国家[[Systems of Innovation|创新系统理论]]修补网络失灵的模式，使命导向创新政策强调为经济与社会–技术系统提供明确的方向性（[[Directionality of Innovation|directionality]]），通过主动进行[[Market Shaping and Creating|市场塑造与市场共创]]、[[Picking the Willing|挑选意愿者]]（Picking the willing）、构建三层[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从被动的“支持与衡量”向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”范式转变。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791)]]
 
 > [!concept-lens] 概念透镜

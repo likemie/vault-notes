@@ -30,7 +30,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 志愿者抽样（Volunteer Sampling）
+> [!def] Volunteer Sampling
 > 志愿者抽样（Volunteer Sampling）是[[Non-probability Sampling\|非概率抽样]]的一种。当准入困难时，研究者依赖自愿参与者——可能是个人朋友、朋友的朋友、回应报纸广告者、对研究感兴趣的特定学校人士或参加课程者。有时这是唯一可能的抽样方式（Morrison, 2006），可能比完全不研究更好。
 
 > [!method-scope] 方法范围

@@ -123,7 +123,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论（Epistemology）
+> [!def] Epistemology
 > **认识论（Epistemology）** 是关于知识的本质、形式、获取途径以及如何向他人传播的底层元理论假设（bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings；Burrell & Morgan, 1979）。在社会科学与教育研究哲学中，认识论决定了何种证据构成“合法且有效的知识”，深刻塑造着[[Objectivism|客观主义]]与[[Subjectivism|主观主义]][[Paradigm|范式]]的探究路径；在教育心理学与学习科学中，认识论指代个体关于[[Source of Knowledge|知识来源]]与确定性的[[Metacognition|元认知]]信念系统，其核心发展机制表现为主观维度与客观维度的协调演进[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]][[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
 
 > [!concept-lens] 概念透镜

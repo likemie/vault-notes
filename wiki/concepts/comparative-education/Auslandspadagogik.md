@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 外国教育学是 19 世纪欧陆与北美跨国教育[[Knowledge Production|知识生产]]最主要的文献与实践形态，代表了比较教育学在[[Disciplinary Institutionalization|学科建制化]]前夜的经验积累阶段：
 
-> [!def] 外国教育学（Auslandspadagogik）
+> [!def] Auslandspadagogik
 > **外国教育学（Auslandspädagogik）** 源自德语词汇（由 *Ausland* 异邦/外国 与 *Pädagogik* 教育学 复合而成），特指 19 世纪至 20 世纪初欧美学者、官方教育使节、视学官与旅行者对别国（特别是普鲁士、德意志诸邦、英格兰与法国等国）教育行政体制、学校法令条文、师资培训、课程大纲与统计数据所展开的百科全书式描述性、报道性调查与文献汇纂。它代表了比较教育学形成严格因果分析与对称理论[[Paradigm\|范式]]之前的经验基石，以单向事实搜集、去情境化描述与服务母国行政体制改良为根本特征。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 24–25, 32–33)]]
 
 该概念为辨析早期外国事实编年史与现代分析性比较研究提供了[[Epistemology|认识论]]透镜：

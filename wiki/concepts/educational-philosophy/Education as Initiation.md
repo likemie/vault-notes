@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育即引介（Education as Initiation）
+> [!def] Education as Initiation
 > **教育即引介（Education as Initiation，亦常译为“教育即入会”）** 是英国哲学家理查德·斯坦利·彼得斯（Richard Stanley Peters, 1919–2011）奠立的分析教育哲学经典概念。该概念主张教育本质上是经由具备专业素养与文化底蕴的教师作为向导，引导初学者逐步融入人类世代累积与发展的公共文化传统、科学探究形式、艺术审美经验与道德价值生活（Peters, 1964, 1966；[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 9]]）。教育的核心任务在于开启个体通往公共客观思想世界（波普尔世界三）的大门，使其领悟各探究形式的内在规则与价值标准，成长为具有自主反思能力的文化主体。
 
 > [!concept-lens] 概念透镜

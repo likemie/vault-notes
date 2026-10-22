@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 机会主义模式（Opportunist Mode）
+> [!def] Opportunist Mode
 > 机会主义模式（Opportunist Mode）是[[Yajun Zheng|郑雅君]]（2023）[[Graduation Pathway Typology|毕业出路产生机制四分类]]模型中的一种典型类型，指使用[[Goal-Controlled Mode|目标掌控模式]]但未深入内化逻辑自洽的价值信念的高校毕业生。该群体多来自优势家庭背景，深谙大学选拔与劳动力市场的游戏规则，擅长调动工具理性策略以获取世俗意义上的高回报职位；但因尚未深刻内化成熟的价值图式，其生涯目标多为短期与工具性的，将关于人生意义与职业使命的追问置于策略性[[Epoché|悬置]]状态（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]）。
 
 > [!concept-lens] 概念透镜

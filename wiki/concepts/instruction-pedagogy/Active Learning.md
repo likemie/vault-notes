@@ -77,7 +77,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 主动学习（Active Learning）
+> [!def] Active Learning
 > 主动学习（Active Learning）是一种以学习者为认知与实践主体、强调通过高频反思、探究与互动建构意义的教学与课程[[Paradigm\|范式]]。在经典教育哲学（[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]）传统中，主动学习被界定为由促进[[Critical Thinking\|批判性思维]]、开展民主对话，以及指向改造现实不公的实践（[[Praxis]]）与生长构成的三维课程模型。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
 >
 > 在现代教学论与[[Evidence-Based Education\|循证教育]]改革视阈中，主动学习被进一步识别为[[Effective Teaching\|有效教学]]的一般性通用原则之一；然而实证研究揭示，单纯倡导抽象的“主动学习”口号极难直接转化为课堂产出，必须通过经过实验检验的具体[[Cooperative Learning\|合作学习]]结构（如 [[Cooperative Integrated Reading and Composition\|CIRC]]、[[Success for All\|SFA]]）或结构化探究支架才能切实落地。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]

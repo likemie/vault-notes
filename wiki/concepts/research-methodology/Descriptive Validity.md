@@ -34,7 +34,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 描述效度（Descriptive Validity）
+> [!def] Descriptive Validity
 > 描述效度（Descriptive validity）是 Maxwell (1992) 提出的五种[[Qualitative Validity\|质性效度]]类型中的第一种，指研究者对所研究现象所作描述的**事实准确性（factual accuracy）**——描述不得是编造的（made up）、选择性的（selective）或扭曲的（distorted）（Winter, 2000, p. 4）。在描述效度中，效度**包含了**[[Reliability\|信度]]——如果描述在事实上不准确，它既不可靠也无效。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
 
 > [!concept-lens] 概念透镜

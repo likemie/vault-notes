@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 天花板与地板效应（Floor and Ceiling Effects）
+> [!def] Floor and Ceiling Effects
 > 天花板与地板效应（Floor and Ceiling Effects，亦称量程截断效应）指测评工具（考试、[[Questionnaire\|问卷]]、心理量表）因题项难度设置不合理或有效测量量程（Range）受限，导致受试群体得分严重偏态地堆积在量表最高端（天花板效应）或最低端（地板效应）的心理计量学缺陷（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。这种人为造成的方差收缩（Variance Restriction）抹平了受试者之间的真实能力差异，导致统计模型严重低估教学干预的真实因果[[Effect Size\|效应量]]，成为大规模教育试验频现“微弱效应”或“零效应”的关键技术根源之一。
 
 > [!concept-lens] 概念透镜

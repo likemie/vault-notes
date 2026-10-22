@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 研究主题（Research Topic）
+> [!def] Research Topic
 > 研究主题（research topic）是计划研究的主题或题材，用几个词或短语描述，如"教师教学""组织[[Creativity\|创造力]]"或"心理压力"。研究主题是研究要了解或探索的核心想法，也是后续[[Literature Review\|文献综述]]的出发点（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜

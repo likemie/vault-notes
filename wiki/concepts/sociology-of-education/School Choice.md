@@ -82,7 +82,7 @@ created: 2026-05-26
 updated: 2026-10-22
 ---
 
-> [!def] 择校（School Choice）
+> [!def] School Choice
 > 择校（School Choice），指学龄儿童的家长依据自身教育偏好与资本存量，主动为其选择特定的就读学校，而非被动接受政府刚性就近划片分配的教育实践与制度逻辑。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]
 
 > [!concept-lens] 概念透镜

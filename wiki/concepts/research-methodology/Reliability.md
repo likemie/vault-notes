@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 信度（Reliability）
+> [!def] Reliability
 > 信度（Reliability）指测量工具、数据收集与研究发现在跨越时间、工具和受访者群体时所展现的一致性（consistency）、可依赖性（dependability）与可复制性（replicability）。对于实证研究而言，信度要求在相似情境中对相似群体重复施测时能够发现相似的结果；在[[Quantitative Research|量化研究]]中体现为测量程序的稳定度与误差控制，在[[Qualitative Research|质性研究]]中则转化为对自然生活情境的忠实记录与多观察者解释的可依赖性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 199–200)]]
 
 > [!concept-lens] 概念透镜

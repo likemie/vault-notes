@@ -105,7 +105,7 @@ created: 2026-05-04
 updated: 2026-10-22
 ---
 
-> [!def] 直接教学（Direct Instruction）
+> [!def] Direct Instruction
 > 直接教学（Direct Instruction, DI）是指一种由教师主动规划、高度结构化且循序渐进的显性教学模式。其核心教学流程包括：明确阐述学习目标、小步子分步示范（Modeling）、提供有指导的练习（Guided Practice）、高频检查理解并给予即时矫正性反馈，最终过渡到学生的独立练习与自动化巩固。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
 >
 > 在学术传统中，直接教学存在广义与狭义之分：

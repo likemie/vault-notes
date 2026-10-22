@@ -38,7 +38,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论理论（Epistemological Theories）
+> [!def] Epistemological Theories
 > [[Epistemology\|认识论]]理论（epistemological theories）指个体对“什么是知识（知识的本质）”以及“如何认知（认知的过程）”所持有的朴素信念系统。与早期主张各信念维度完全独立的模型不同，该[[Construct\|构念]]强调这些信念不是零散的事实集合，而是在结构上具有高度内部关联与解释力的连贯“理论”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 117-118)]]
 > 
 > > [!concept-lens] 概念透镜

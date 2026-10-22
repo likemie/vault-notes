@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 研究欺骗（Deception in Research）
+> [!def] Deception in Research
 > **研究欺骗（Deception in Research）**，是指在科学实验或实证调查情境中，研究者有意对受试者隐瞒研究的真实目的、关键实验条件或真实身份，甚至主动提供虚假误导性信息与设置同谋伪装的实验设计实践。欺骗的本质在于不向参与者告知全部真相或主动传递错误事实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 109–110)]] 在战后社会心理学经典实验（如[[Asch Conformity Experiment|阿施从众实验]]与[[Milgram Obedience Experiment|米尔格拉姆服从实验]]）中，欺骗被视作剥离受试者社会形象管理、探查人类深层行为规律不可或缺的方法学手段；但在当代[[Research Ethics|研究伦理]]体系中，它因直接破坏[[Informed Consent|知情同意]]权并可能引发严重心理生理创伤而受到严格的伦理审查与制度限制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 130–136)]]
 
 > [!concept-lens] 概念透镜

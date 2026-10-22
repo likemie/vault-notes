@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 逆推溯因（Retroduction）
+> [!def] Retroduction
 > **逆推溯因（Retroduction，亦称逆推溯因法或溯因推理）** 是[[Critical Realism|批判实在论]]（Critical Realism）哲学的核心[[Epistemology|认识论]]推理模式与[[Causality|因果推断]]策略。由英国哲学家[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar, 1975, 1979）系统奠定，并由地理与社会学方法论学者安德鲁·萨耶尔（Andrew Sayer, 1992）以及贝特·丹纳马克（Berth Danermark et al., 2002）推进为系统的社会科学研究方法。与自下而上的经验归纳（Induction）和自上而下的公理演绎（Deduction）不同，逆推溯因建立在批判实在论“经验界（The Empirical）、实际界（The Actual）与实在界（The Real）”分层[[Ontology|本体论]]基础之上。它以观察到的经验事件为起点，通过追问“该事件或现象得以发生，世界在深层本体上必须具备何种未直接呈现的因果结构与生成机制”，借助[[Counterfactual|反事实]]思考、思想实验与排除替代解释，反向重构潜藏于深层实在中的生成性因果机制。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 687)]]
 
 > [!concept-lens] 概念透镜

@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 真实性教学（Authentic Instruction）
+> [!def] Authentic Instruction
 > 真实性教学（Authentic Instruction，亦常体现为[[Anchored Instruction\|抛锚式教学]]）指通过向学习者呈现源自现实世界的真实问题、复杂案例或情境，激发其探究动机并在解决劣构、多步问题的过程中发展高阶认知能力的教学模式。该教学法强调知识不应脱离实际运用情境而被抽象灌输，而应作为解决具体实际矛盾的思想工具。在[[Critical Thinking\|批判性思维]]教学中，真实性教学涵盖应用型[[Problem Solving\|问题解决]]、[[Role-playing\|角色扮演]]、情境模拟演练与现实困境分析等核心策略。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
 
 > [!concept-lens] 概念透镜

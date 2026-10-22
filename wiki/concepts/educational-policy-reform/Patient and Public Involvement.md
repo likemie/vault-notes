@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 患者与公众参与（Patient and Public Involvement）
+> [!def] Patient and Public Involvement
 > 患者与公众参与（Patient and Public Involvement, PPI）是指在医学、生命科学及相关社会研究中，由患者、照护者以及广大公众作为平等的积极研究伙伴，“与研究者共同开展”（With or by）或“由公众主动主导开展”的研究活动，而不仅仅是“对公众开展”、“关于公众”或“为了公众”进行的被动信息采集。（National Institute for Health and Care Research, 2019; 引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]）
 
 > [!concept-lens] 概念透镜

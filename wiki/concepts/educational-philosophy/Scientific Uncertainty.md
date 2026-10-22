@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 科学不确定性（Scientific Uncertainty）
+> [!def] Scientific Uncertainty
 > **科学不确定性（Scientific Uncertainty）** 指在科学探究、实证测量、理论建构与预测推论过程中，由于客观世界的随机复杂性、测量工具的精度局限、样本抽样的代表性波动、理论模型的抽象简化以及人类认知条件的局限，导致科研产出的证据、假说与结论无法达到完全必然性与绝对确定性的[[Epistemology\|认识论]]与方法论状态。它既包括可通过收集更多数据予以缩减的“认知不确定性（Epistemic Uncertainty）”，也涵盖现实世界内在的“随机不确定性（Aleatory Uncertainty）”。在现代科学哲学与循证实践中，不确定性被视为科学探索的内在属性与知识动态演进的前提，而非研究质量低劣的表征。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
 
 > [!concept-lens] 概念透镜

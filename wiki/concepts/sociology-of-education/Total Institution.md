@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 全控机构（Total Institution）
+> [!def] Total Institution
 > 全控机构（Total Institution）是社会学家[[Erving Goffman|欧文·戈夫曼]]（[[Erving Goffman]]）在《收容所》（*Asylums*, 1961）中提出的制度社会学经典概念，指大量处境相似的个体在相当长的时间内与外部广阔社会相隔绝，并在封闭、受到形式化管理的单一权威与场所中共同度过全部日常生活的一种组织形态。在全控机构中，睡眠、游憩与工作等通常在不同[[Champ|场域]]展开的活动被强行一体化，由统一的严格日程和管理者阶层集中支配。精神病院、监狱、军队、修道院与[[Boarding Schools|寄宿学校]]是其典型范例（Goffman, 1961, p. xxi; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], §31.3）。在当代政治社会学中，该概念进一步被引申为对精英大学及科技企业封闭行政文化、语言自我审查与道德钝化机制的批判透镜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
 
 > [!concept-lens] 概念透镜

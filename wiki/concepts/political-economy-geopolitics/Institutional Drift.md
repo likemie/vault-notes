@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 制度漂移（Institutional Drift）
+> [!def] Institutional Drift
 > [[Historical Institutionalism|历史制度主义]]中解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的核心概念之一；指制度规则在形式上维持不变，但随着外部宏观环境（经济条件、社会结构、人口分布或市场风险）的演化，由于维护体制的行动者或否决玩家未能或故意不予更新调整现有规则，导致制度的实际影响与规制效力发生实质性偏移或衰退。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 17)]]
 
 > [!concept-lens] 概念透镜

@@ -54,7 +54,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 高级市场承诺（Advance Market Commitments）
+> [!def] Advance Market Commitments
 > **高级市场承诺（Advance Market Commitments, [[Academic Medical Center|AMC]]）**，又称“预先市场承诺”或“前瞻性采购承诺”，是一种典型的创新[[Pull Mechanisms for Innovation|拉动机制]]（Pull Mechanism）。指政府、跨国发展机构或慈善基金会在具有重大公共利益但由于外部性强、早期市场需求不确定而导致私人投资严重不足的前沿技术领域（如罕见传染病疫苗、长时储能电池、直接空气碳捕集），预先签署具有法律约束力的采购协议，承诺一旦研发团队成功研制出满足预设技术指标与安全标准的产品，出资方将以保障价格（或按差额补贴方式）向其采购特定规模的最终产品。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29, 452)]]
 
 > [!concept-lens] 概念透镜

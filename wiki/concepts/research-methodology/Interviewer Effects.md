@@ -33,7 +33,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 访谈者效应（Interviewer Effects）
+> [!def] Interviewer Effects
 > 访谈者效应（interviewer effects）指研究者的个人特征和期望系统性地影响访谈数据的质量、深度和诚实度的现象。在[[Sensitive Research\|敏感研究]]中，访谈者效应尤为显著——研究者的性别、年龄、地位、着装、背景乃至对访谈的预期，都可能直接影响参与者披露信息的意愿和完整程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 227–229]]）。
 
 > [!concept-lens] 概念透镜

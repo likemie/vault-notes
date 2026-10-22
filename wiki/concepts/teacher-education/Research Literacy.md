@@ -90,7 +90,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 研究素养（Research Literacy）
+> [!def] Research Literacy
 > **研究素养（Research Literacy）** 指专业人员（涵盖一线教师、学校管理者及公职政策制定者）以维护专业实践完整性与批判审议的方式，理解、评估、鉴别与整合多元方法论科研成果的能力与德性。研究素养不仅要求专业主体读懂学术文献与统计指标，更是一种在干预措施的“有效性”（what works）与具体情境的“适切性”（what is appropriate）之间进行自主权衡把关的专业实践德性（Eriksen, 2022；[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p. 4]]；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。在宏观[[Epistemic Governance\|知识治理]]视域下，研究素养更构成了抵御后真相算法操纵、辨识商业公关虚假包装，以及将[[Scientific Literacy\|科学素养]]捍卫为公民基本民主权利的制度基石（Chalmers et al., 2018；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]]）。
 
 > [!concept-lens] 概念透镜

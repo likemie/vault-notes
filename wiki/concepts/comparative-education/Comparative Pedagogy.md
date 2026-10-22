@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 比较教学论（Comparative Pedagogy）
+> [!def] Comparative Pedagogy
 > 比较教学论（Comparative Pedagogy）是将跨国跨文化比较研究的视轴从宏观国家政策、行政体制与量化成效指标，下沉聚焦至微观中小学课堂教学法、师生[[Discourse|话语]]互动、任务组织与教学思维的研究[[Paradigm\|范式]]。它主张教学法绝非普适中立的行为技术套件，而是深嵌于特定社会的历史传统、价值信念与文化代码之中的复杂文化实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
 
 > [!concept-lens] 概念透镜

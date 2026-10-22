@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 空间生产（Space Production）
+> [!def] Space Production
 > 高等教育空间生产（Space Production in Higher Education）是一个以社会空间理论为基础的[[Analytic Framework\|分析框架]]，将高等教育理解为一种持续参与空间生产与空间治理的制度性实践。它不以空间为高等教育活动的被动容器，而是考察高等教育如何通过其核心功能（人的培养、[[Knowledge Production\|知识生产]]、学术流动、跨境合作），在物质、表征和关系三个彼此嵌套的维度上主动参与全球空间秩序的生产与再生产。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 12–13)]]
 
 > [!concept-lens] 概念透镜

@@ -57,7 +57,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 国际学校（International Schools）
+> [!def] International Schools
 > 国际学校是在一国境内服务跨国流动家庭、多国学生共同体或本地国际课程需求，并在课程、教学语言、升学资格或学校治理上跨越单一国家教育体系的学校。早期形态多为特定国家侨民提供母国课程与大学通道；少数学校从创办之初便面向多国共同体。第二次世界大战后，学生跨国升学与大学选拔压力推动学校协调多套国家课程，并发展共同课程和跨国资格。全球化时期的国际学校还呈现市场化、英语教学和精英升学导向。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, Ch. 2, pp. 15–17)]][[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 20–25)]]
 
 ---

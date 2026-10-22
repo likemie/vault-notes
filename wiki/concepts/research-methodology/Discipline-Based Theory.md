@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学科理论（Discipline-Based Theory）
+> [!def] Discipline-Based Theory
 > 学科理论（Discipline-Based Theory），亦称学科本位理论或实质内容理论，是指源自成熟母学科（社会科学、人文学科或自然科学）的系统性[[Theoretical Knowledge|理论知识]]体系，涵盖事实认知、因果命题与概念结构。该概念在当代教育研究与治理中呈现三重方法论与[[Epistemology|认识论]]意涵：
 > 1. 在[[Mixed Methods Research|混合方法研究]]中，指从成熟学科文献中提取的实质性理论框架，用以界定[[Variable|变量]]与[[Construct|构念]]并指导质性与[[Quantitative Research|量化研究]]设计（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 69]]）；
 > 2. 在比较教育学学术史中，特指大学讲座教授制下植根于母学科（如[[Allgemeine Pädagogik|普通教育学]]、历史学与社会哲学）的学科本体理论，充当抵御缺乏理论依托的技术官僚测验与[[Empiricism|经验主义]]调查的学术壁垒（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 93–94]]）；

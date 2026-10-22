@@ -125,7 +125,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据生态系统（Evidence Ecosystem）
+> [!def] Evidence Ecosystem
 > 证据生态系统（Evidence Ecosystem）指由教育研究者、政策制定者、[[School Leadership\|学校领导]]者、一线教师、中介机构（Brokerage Agencies）及资助主体共同构成的复杂自适应网络。在该系统中，研究证据的产生、综合评价、转译包装、传播流动与实践采纳不再是孤立的单向链条，而是通过多节点互动、自组织网络和非线性反馈回路协同演化的全系统生态；其健康运转高度依赖宏观治理从单纯的结果问责转向过程透明度与形成性自我监控。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]; [[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 144–145)]]
 
 > [!concept-lens] 概念透镜

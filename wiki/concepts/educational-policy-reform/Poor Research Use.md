@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 劣质研究使用（Poor Research Use）
+> [!def] Poor Research Use
 > **劣质[[Research Utilization\|研究使用]]（Poor Research Use）** 指在教育教学与学校管理决策中，脱离学生真实学习需求、缺乏对研究质量与情境适切性的批判性审思，且未在学校组织内部建立全员协同认同与所有权的病态证据利用样态。作为[[Quality Use of Research Evidence Framework\|高质量研究使用]]（Quality Use of Research Evidence）的反面形态，劣质研究使用并不等同于单纯未接触研究的非使用状态，而是表现为对外部学术证据的机械套用、功利追风、行政强加或证实偏见，最终不仅难以促进学生学业与福祉，反而诱发教职工的职业倦怠、抵触怨怼与学校的教学停滞。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 189–191)]]
 
 > [!concept-lens] 概念透镜

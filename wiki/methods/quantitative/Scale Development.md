@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 量表编制（Scale Development）
+> [!def] Scale Development
 > **量表编制与心理计量验证（Scale Development & Psychometric Validation）** 是心理学、教育学及社会科学中，依据[[Classical Test Theory\|经典测量理论]]（Classical Test Theory, CTT）或[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT），将抽象、复杂且不可直接观测的[[Construct\|理论构念]]（如态度、信念、素养、动机、效能感等潜[[Variable\|变量]]）[[Operationalization\|操作化]]为一组标准化、可量化测度的指标题项，并通过多阶段独立样本实证检验确立其构念维度、[[Content Validity\|内容效度]]、[[Construct Validity\|结构效度]]、[[Reliability\|信度]]体系及跨群体[[Measurement Invariance\|测量等值性]]的系统方法论体系。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 4–6)]]
 
 > [!method-scope] 方法范围

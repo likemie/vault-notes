@@ -104,7 +104,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 3T 框架（Transfer Translation Transformation）
+> [!def] Transfer Translation Transformation
 > 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen, 2009b）提出，是一个用来追踪教育思想、制度与实践在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting\|Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
 >
 > 在[[Actor-Network Theory\|行动者网络理论]]（ANT）与教育政策拓扑学中，“转译”（Translation）进一步被扩展为异质行动者（人类官员、统计学者、算法题库、法律条文）在问题化、利益化、征募与动员中被逐步重组并固化为耐用[[Data Infrastructure\|数据基础设施]]的物质[[Discourse|话语]]建网过程。（Callon, 1986; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–138]]）

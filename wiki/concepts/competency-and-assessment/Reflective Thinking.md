@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 反思性思维（Reflective Thinking）
+> [!def] Reflective Thinking
 > [[Reflexivity\|反思性]]思维（reflective thinking / reflective inquiry）最初由[[John Dewey\|约翰·杜威]]在《我们怎样思维》（1910）中界定，指“根据支撑信念的依据以及该信念指向的进一步结论，对任何信念或知识形式所进行的**积极、持续和周密的思考**”[[Argument_Darwish_2009_Queens\|(Dewey, 1910, p. 9; 引自 Darwish, 2009, p. 34)]]。在当代教育心理学中，它被进一步界定为一种极高阶的认知能力，特指个体在面对[[Wicked Problem|劣构问题]]（ill-structured problems）时，能够认识到知识是主动建构且随语境变化的，并能运用批判性质询和概率性辩护来评估不同视角的结论合理性[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 101)]]。
 > 
 > > [!concept-lens] 概念透镜

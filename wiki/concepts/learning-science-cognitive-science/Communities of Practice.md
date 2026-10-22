@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 实践共同体（Communities of Practice）
+> [!def] Communities of Practice
 > 实践共同体（Communities of Practice, CoP）是学习科学与[[Situative Perspective|情境认知]]理论的核心概念，指由一群基于共同的事业追求、关切或热情而集聚的行动者，在持续的日常社会互动中共同开展实践、共享专业资源并提升行动效能的社会化自组织形态；该概念主张学习本质上是共同体实践参与的深化与专业身份认同的建构，而非抽象孤立信息的个体储存。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
 
 > [!concept-lens] 概念透镜

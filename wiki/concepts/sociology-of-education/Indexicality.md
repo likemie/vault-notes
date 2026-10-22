@@ -61,7 +61,7 @@ updated: 2026-10-20
 
 ## 定义
 
-> [!def] 索引性（Indexicality）
+> [!def] Indexicality
 > 索引性（Indexicality，亦译语境依存性或索引性特征）是美国社会学家[[Harold Garfinkel\|哈罗德·加芬克尔]]（[[Harold Garfinkel]]）在常人方法学（[[Ethnomethodology\|俗民方法学]]）中确立的基石概念。该概念指出：一切社会行动、日常言语与情境陈述的意义，均深刻锚定并依赖于产生它们的具体时空背景、物理场合与行动者共同经历的互动历史。词语、符号与肢体动作并非孤立承载着普适自明的客观定义，其真实涵义往往被情境内部的参与者默契共享，而不必（甚至无法）被完全显性言说；一旦脱离其生成的微观索引性脉络，行动与[[Discourse|话语]]就会丧失其原本的社会意义（Garfinkel, 1967）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
 
 > [!concept-lens] 概念透镜

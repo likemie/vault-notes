@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 时空压缩（Time-Space Compression）
+> [!def] Time-Space Compression
 > 时空压缩（Time-Space Compression）源自马克思主义地理学家大卫·哈维（David Harvey）的政治经济学[[Critical Theory|批判理论]]，指在资本主义为克服积累危机而加速资本周转的过程中，借助现代信息通信技术与交通运输手段，大幅缩短克服空间障碍所需的时间，从而在主观体验与客观实践中造成空间距离被时间急剧消解的现象。在比较教育研究中，[[Robert Arnove|阿诺夫]]（Arnove）将时空压缩视为区分当代全球化与传统世界体系历史阶段的根本[[Ontology|本体论]]分水岭。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
 
 > [!concept-lens] 概念透镜

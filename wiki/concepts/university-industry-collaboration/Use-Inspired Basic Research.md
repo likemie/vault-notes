@@ -63,7 +63,7 @@ created: 2026-05-27
 updated: 2026-10-22
 ---
 
-> [!def] 应用启发的基础研究（Use-Inspired Basic Research）
+> [!def] Use-Inspired Basic Research
 > 应用启发的基础研究（Use-Inspired Basic Research）指一种既追求对客观世界和自然规律的深层基础理解（Basic Understanding），又在研究设计伊始即由现实社会需求与实际用途（Considerations of Use）所驱动的科学[[Paradigm|研究范式]]。该概念由[[Donald Stokes|唐纳德·斯托克斯]]（Donald E. Stokes, 1997）在《[[Pasteur's Quadrant|巴斯德象限]]：基础科学与技术创新》中首次提出，以法国微生物学家路易·巴斯德（Louis Pasteur）为典范，打破了二战后[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）报告所确立的“纯基础研究 vs. 纯应用研究”的线性一维对立，成为理解当代[[Research Universities|研究型大学]]科研转型、产学协同与现代国家产业政策的关键[[Epistemology|认识论]]基石。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 39)]]; [[Argument_Wolf_2025_InternationalResearchCollab|(Wolf et al., 2025, p. 310)]]; [[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 
 > [!concept-lens] 概念透镜

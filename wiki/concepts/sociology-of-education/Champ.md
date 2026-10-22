@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 场域（Champ）
+> [!def] Champ
 > **场域（Champ / Field）** 是[[Pierre Bourdieu|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）实践理论的核心概念，指一个由客观位置关系构成的相对自主的社会空间。在场域内部，行动者与机构依据特定的“游戏规则”（rules of the game），动用各自持有的经济、文化、社会及象征资本展开竞争与博弈，以争夺场域特有的权威、资源与规则界定权（Bourdieu, 1990; [[Argument_Eacott_2011_JEAH|Eacott, 2011, p. 48]]）。在教育社会学与比较教育中，场域概念既被用于剖析学校管理、高等教育分流及绩效问责中的微观权力运作（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]]; [[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 4–7]]），也被拓展用于解释超国家机构如何通过跨国流动、数据基础设施与可比指标共同编织出具有通约性的区域政策空间（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 24–25]]）。
 
 > [!concept-lens] 概念透镜

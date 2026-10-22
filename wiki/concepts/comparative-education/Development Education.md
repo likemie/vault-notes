@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 发展教育（Development Education）
+> [!def] Development Education
 > **发展教育（Development Education）**，在比较与国际教育研究中常与“发展中国家教育研究”（Education in Developing Countries）或“国际发展教育”（International Development Education）互称，指聚焦亚洲、非洲、拉丁美洲等全球南方国家的教育体制建设、社会经济现代化、教育扩张、不平等治理以及双多边国际发展援助合作的专门学术研究与政策实务领域。二战后受去殖民化与冷战地缘博弈推动，该领域长期与偏向欧美历史哲学的传统理论比较教育学保持平行分流；后在[[Multilateral Development Bank|多边开发银行]]（以世界银行与[[Inter-American Development Bank|泛美开发银行]]为代表）的深度介入下，演进为依托专业技术官员与主权信贷的实务治理体系。发展教育的实务运作面临项目设计端敏捷吸收先进理念与执行端陷入繁琐审计泥潭、资金拨付考核与学生实质学业成效脱节的制度困境。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 455–457, 470–472)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 
 > [!concept-lens] 概念透镜

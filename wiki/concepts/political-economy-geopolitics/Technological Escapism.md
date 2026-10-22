@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 技术逃避主义（Technological Escapism）
+> [!def] Technological Escapism
 > 技术逃避主义（Technological Escapism）指科技行业与资本市场在追求短期商业回报与规避舆论政治风险的驱动下，形成的一种系统性产业避险倾向与文化心理；表现为科技精英主动从国家防务、城市公共安全、基础教育与重大医学研发等关乎国计民生的复杂公共领域抽身，转而将研发资源与顶尖人才聚集于在线购物、外卖配送、打车出行与休闲游戏等轻量级消费端应用，以解决日常微小不便来掩盖对重大制度性危机的无能为力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 172–173)]]
 
 > [!concept-lens] 概念透镜

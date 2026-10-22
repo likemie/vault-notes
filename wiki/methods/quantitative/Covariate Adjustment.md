@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 协变量控制（Covariate Adjustment）
+> [!def] Covariate Adjustment
 > **协[[Variable\|变量]]调整（Covariate Adjustment）**，亦称**协变量控制**或 **[[Analysis of Covariance\|协方差分析]]（ANCOVA）**，是指在统计模型中系统性纳入可能影响[[Dependent Variable\|结果变量]]的第三变量（基线协变量 $\mathbf{X}$），以重新估计核心[[Independent Variable\|自变量]]与因变量之间关系的量化建模技术。
 >
 > 协变量调整在实证研究中具有截然不同的**双重功能机制**

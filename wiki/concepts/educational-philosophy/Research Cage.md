@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 研究牢笼（Research Cage）
+> [!def] Research Cage
 > **研究牢笼（Research Cage）** 是丹麦教育哲学家托马斯·奥斯特鲁普·罗默（[[Thomas Aastrup Rømer]]）在剖析[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）《[[Visible Learning|可见的学习]]》时铸造的批判性[[Epistemology|认识论]]概念。该概念揭示了由简陋评价理论所构筑的自足封闭实证系统：在该系统内部，作为核心[[Dependent Variable|因变量]]的“[[Academic Achievement|学业成就]]/学习结果”与充当[[Independent Variable|自变量]]的各类教学干预完全依照评价逻辑展开相互界定与循环互证；系统虽凭借术语间的同义反复展现出极高的统计[[Reliability|信度]]与[[Internal Consistency|内部一致性]]，却彻底斩断了与真实教育世界、客观事物及经验客体的实质连结，导致其[[Construct Validity|建构效度]]与外部环境对应性严重耗散（[[Argument_Rømer_2018_EPT|Rømer, 2018, p. 6]]）。
 
 > [!concept-lens] 概念透镜

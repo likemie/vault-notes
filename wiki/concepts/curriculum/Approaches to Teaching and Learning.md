@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教学与学习方法（Approaches to Teaching and Learning）
+> [!def] Approaches to Teaching and Learning
 > 教学与学习方法（Approaches to Teaching and Learning，ATL）是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）项目中的一套框架，包含指导教师教学原则（如探究导向、概念驱动）与培养学生学习技能（如思考、交流、社会交际、自我管理和研究技能）。它旨在打破学科壁垒，通过通用的技能框架支持[[Concurrency of Learning\|并发学习]]（Concurrency of Learning），进而构建一个连贯的核心课程体系 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 221, 225)]]。
 
 > [!concept-lens] 概念透镜

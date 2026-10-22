@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认知转换（Cognitive Shifting）
+> [!def] Cognitive Shifting
 > 认知转换（Cognitive Shifting），亦称[[Cognitive Flexibility\|认知灵活性]]（Cognitive Flexibility）或任务切换（Task Switching），是[[Executive Function\|执行功能]]的核心成分之一，指在多个不同任务、操作或心理集之间来回切换的能力。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]）
 >
 > 在 Miyake 的执行功能统一性与多样性框架中，任务或心理集之间的转换被列为执行功能的三个基本成分之一。（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]）

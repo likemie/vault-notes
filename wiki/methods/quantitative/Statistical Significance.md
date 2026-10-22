@@ -52,7 +52,7 @@ created: '2026-05-05'
 updated: 2026-10-22
 ---
 
-> [!def] 统计显著性（Statistical Significance）
+> [!def] Statistical Significance
 > 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的[[Null Hypothesis\|零假设]]。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 
 > [!concept-lens] 概念透镜

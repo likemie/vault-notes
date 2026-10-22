@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 产业标杆分析（Industrial Benchmarking）
+> [!def] Industrial Benchmarking
 > **产业标杆分析（Industrial Benchmarking）** 是一种通过采集并标准化跨企业、跨产线或跨国别的微观生产运行数据，构建多维度物理与工程[[Performance Indicators|绩效指标]]体系，以精确定位产业制造能力差距、识别最佳工程实践与诊断效率瓶颈的实证[[Quantitative Research|量化研究]]方法。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–117)]]
 
 > [!method-scope] 方法范围

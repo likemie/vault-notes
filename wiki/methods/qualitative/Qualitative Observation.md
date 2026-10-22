@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 质性观察（Qualitative Observation）
+> [!def] Qualitative Observation
 > 质性观察（Qualitative Observation）是[[Qualitative Research\|质性研究]]中研究者在研究现场记录个体行为和活动并撰写[[Field Notes\|田野笔记]]的数据收集方法。研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的问题）。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 199]])
 
 > [!method-scope] 方法范围

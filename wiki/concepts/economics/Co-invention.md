@@ -47,7 +47,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 共同发明（Co-invention）
+> [!def] Co-invention
 > **共同发明（Co-invention / 用户协同发明）** 是指当[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）或重大信息技术平台引入下游应用部门时，采用该技术的企业与用户组织为了使新技术适应自身特定的业务场景、工作流程与组织架构，必须自主开展的一系列互补性二次研发、流程再造、软件定制与组织制度创新活动（Bresnahan & Greenstein, 1996）。蒂莫西·布雷斯纳汉（Timothy Bresnahan）与谢恩·格林斯坦（Shane Greenstein）指出，信息技术供应商所提供的标准化硬件或基础软件仅仅是未完成的半成品，技术潜能无法自动转化为经济绩效；只有当下游用户投入大量[[Tacit Knowledge|隐性知识]]与资本进行共同发明时，通用技术才能真正嵌入现实生产系统。[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）进一步强调，由于信息技术创新高度依赖用户与供应商之间的双向共同发明，大规模部署与先导应用能够催化海量的用户端试错与试验，从而显著反哺和加速基础技术的演进与改良。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 185)]]
 
 > [!concept-lens] 概念透镜

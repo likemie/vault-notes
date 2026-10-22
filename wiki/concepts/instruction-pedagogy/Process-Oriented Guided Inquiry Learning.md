@@ -73,7 +73,7 @@ updated: 2026-10-22
 
 在科学教育与现代教学法中，“过程导向[[Inquiry-Based Learning|指导式探究]]学习”（Process-Oriented Guided Inquiry Learning, POGIL），亦称过程导向探究教学法，指一种依托结构化自学材料、合作性角色分工与三阶段认知学习环，引导学生在无需教师开门见山讲授的前提下自主建构学科核心概念的课堂教学[[Paradigm|范式]]。
 
-> [!def] 过程导向指导式探究学习（Process-Oriented Guided Inquiry Learning）
+> [!def] Process-Oriented Guided Inquiry Learning
 > POGIL 最初由美国化学教育家理查德·穆格（Richard S. Moog）与詹姆斯·斯宾塞（James N. Spencer）于 1990 年代在[[Michael Fullan|富兰]]克林与马歇尔学院等高校发起创立。该模式主张将以教师讲台为中心的灌输式课堂转化为以学生为中心的研究性共同体。其运行严格依托两大支柱：
 > 1. **三阶段认知学习环（Learning Cycle）** 学生循序经历“探索模型（Exploration）➔ 概念发明与形成（Concept Invention / Formation）➔ 迁移应用（Application）”；
 > 2. **过程导向的高阶技能培养** 在习得学科知识的同时，通过明确的小组角色分工，系统训练[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决]]、团队协作与口头交流等跨学科通用过程技能（Moog & Spencer, 2008；Trout et al., 2008；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）。

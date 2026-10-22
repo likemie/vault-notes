@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 游牧教育（Nomadic Education）
+> [!def] Nomadic Education
 > 游牧教育（Nomadic Education）是指针对依托天然草场进行季节性转场放牧的游牧与半游牧群体（Pastoral Nomads）所展开的专门化教育供给与制度安排。该概念处于现代民族国家推进定居化同化工程与传统游牧社群维系生计自主性的持续博弈之中，既是国家抹平流动性、实现空间治理与税收行政整合的规训载体，又是游牧民积累现代[[Cultural Capital|文化资本]]、化解生态风险与破除外部依附的能动策略。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 > [!concept-lens] 概念透镜

@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 目的性抽样（Purposeful Sampling）
+> [!def] Purposeful Sampling
 > 目的性抽样（Purposeful Sampling，亦称立意抽样）是[[Qualitative Research|质性研究]]中依据研究目标和概念框架，有目的地挑选能够提供最丰富信息、最能深化对核心问题理解的个案、行动者、场所或资料的[[Non-probability Sampling|非概率抽样]]策略。该策略立足于信息的深度与典型性，专注于揭示复杂现象的内在机制与情境特质。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 198)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 190)]]
 
 > [!method-scope] 方法范围

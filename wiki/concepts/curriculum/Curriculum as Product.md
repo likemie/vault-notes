@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 作为产物的课程（Curriculum as Product）
+> [!def] Curriculum as Product
 > **作为产物的课程（Curriculum as Product）** 是课程理论中的[[Technical Rationality\|技术理性]][[Paradigm\|范式]] (Grundy, 1987; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 64–65]])。该模式将课程视为一种以达成预设行为目标为目的的技术控制过程：教育专家自上而下制定学习结果指标，教师扮演技术员角色按照既定步骤传递知识存货，学生通过[[Rote Learning\|机械记忆]]与复述再现这些目标。
 
 > [!concept-lens] 概念透镜

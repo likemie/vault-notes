@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 讲好中国故事（Telling China's Story Well）
+> [!def] Telling China's Story Well
 > 讲好中国故事（Telling China's Story Well，全称“讲好中国故事，传播好中国声音”）是中国官方在新时代确立的对外战略传播与公共外交核心理念。该理念主张突破西方主流媒体与政治叙事对中国形象的垄断定性，动员政府、媒体、高校学者、海外留学生及在华外籍师生等多重主体，生动展示中国发展成就、阐释中国特色社会主义制度优势，并向全球南方国家积极推介治国理政经验，以此构建客观多元的国际[[Discourse|话语]]权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–687)]]
 
 > [!concept-lens] 概念透镜

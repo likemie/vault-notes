@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识银行（Knowledge Bank）
+> [!def] Knowledge Bank
 > **知识银行（Knowledge Bank）** 是戴安娜·斯通（Diane Stone）于 2000 年提出的制度分析概念，指[[World Bank|世界银行]]在 20 世纪 90 年代詹姆斯·沃尔芬森（James Wolfensohn）主政时期推行的战略转型：从以物理资本投资、工程建设与基础设施融资为核心的传统开发银行，重构为以全球[[Knowledge Production|知识生产]]、实证数据库建设、[[Warehousing of Good Practices|最佳实践仓储]]与宏观政策咨询为主轴的超国家知识权威中枢。这一转型使世界银行将合法性基础从单纯的“资金融通者”（Bank of Funds）重塑为全球教育与社会发展议程的“理念银行”（Bank of Ideas），确立了其在全球教育治理领域中作为重要[[Policy Brokerage|政策中介]]的机构地位。圈内制度分析同时揭示，知识银行推行的政策建议之所以能够产生实际约束力并付诸实施，根本上依托于主权信贷资金的刚性契约与财政约束。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 543)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
 
 > [!concept-lens] 概念透镜

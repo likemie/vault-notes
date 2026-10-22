@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 计算机自适应测验（Computerized Adaptive Testing）
+> [!def] Computerized Adaptive Testing
 > 计算机自适应测验（computerized adaptive testing, CAT）是一种测验实施方式，其中具体施测哪些题目的决定基于受试者对先前题目的反应（Wainer, 1990; Aiken, 2003, pp. 50–52; Wainer & Dorans, 2000）。首题置于假设能力范围的中位难度；如果受试者答对，下一题难度增加；如果答错，下一题难度降低。受试者按自己的节奏作答，测验即时计分并提供反馈。
 
 > [!concept-lens] 概念透镜

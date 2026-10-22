@@ -31,7 +31,7 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-> [!def] 研究中的背信（Betrayal in Research）
+> [!def] Betrayal in Research
 > 背信（betrayal）通常指在信赖中披露的数据被公开透露，以致引起披露信息的参与者尴尬、焦虑或痛苦的情形。它与保密相反——保密是守约，背信是违约——且往往出于自私的个人或职业动机。Plummer (1983) 评论："在社会学中，当一个社会学家可以进入一个群体和一个人的生活很长一段时间，学习他们最严密保守的秘密，然后以批判的眼光向公众暴露一切，这有点不对劲。"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 108–109]]）
 
 > [!concept-lens] 概念透镜

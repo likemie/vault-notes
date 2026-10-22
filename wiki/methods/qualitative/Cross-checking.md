@@ -34,7 +34,7 @@ created: 2026-07-22
 updated: 2026-10-22
 ---
 
-> [!def] 交叉检查（Cross-checking）
+> [!def] Cross-checking
 > 交叉检查（cross-checking）是[[Qualitative Research\|质性研究]]中的一种**研究者间验证技术**，指多位研究者独立分析相同材料，然后比较和讨论各自的分析结果，以达成对数据的确定解释。其目的是预防单一研究者在访谈或分析中可能产生的持续性但未被识别的偏见（Kitwood, 1977）。
 
 > [!method-scope] 方法范围

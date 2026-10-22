@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 欧米茄平方（Omega-Squared）
+> [!def] Omega-Squared
 > **欧米茄平方（Omega-Squared, $\omega^2$）** 是在单因素或多因素[[Analysis of Variance\|方差分析]]（Analysis of Variance, ANOVA）中用于度量分类[[Independent Variable\|自变量]]（自[[Variable\|变量]]处理或分组）解释连续[[Dependent Variable\|因变量]]总变异比例的总体[[Effect Size\|效应量]]估计量。由统计学家威廉·海斯（William L. Hays, 1963）系统提出，它通过从组间平方和中扣除由随机误差引起的变异，有效克服了传统样本决定系数 Eta-Squared（$\eta^2$）在小样本或多组设计中系统性高估总体效应的样本偏倚。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 27)]]
 
 > [!method-scope] 方法范围

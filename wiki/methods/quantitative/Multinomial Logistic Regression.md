@@ -40,7 +40,7 @@ updated: 2026-10-20
 
 ---
 
-> [!def] 多项逻辑回归（Multinomial Logistic Regression）
+> [!def] Multinomial Logistic Regression
 > 多项逻辑回归（Multinomial Logistic Regression）是[[Binary Logistic Regression\|二元逻辑回归]]的扩展，用于当[[Dependent Variable\|因变量]]分类数大于 2 且各类别之间没有内在大小或顺序（即名义[[Variable\|变量]]）时的回归分析。它通过设定一个“基准类别”（Reference Category），分别计算其他类别相对于基准类别的对数胜率（Log-odds）。
 
 > [!method-scope] 方法范围

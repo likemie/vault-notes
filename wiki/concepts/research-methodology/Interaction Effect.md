@@ -63,7 +63,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-> [!def] 交互效应（Interaction Effect）
+> [!def] Interaction Effect
 > 交互效应（Interaction Effect）指在多因子实验或观测研究中，一个[[Independent Variable\|自变量]]（或干预措施）对[[Dependent Variable\|因变量]]（或结果指标）的效应**依赖于**另一个自[[Variable\|变量]]或调节变量的水平——即两个或多个变量对结果的联合影响并非单项独立效应的线性简单相加，而是表现出条件依赖性与相互调节的非可加性关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 323–324]]）。在统计建模中，交互效应通过乘积项（Product Term）捕获；在[[Causality\|因果推断]]中，交互效应表征了因果[[Heterogeneity\|异质性]]（Causal [[Heterogeneity]]）。
 
 交互效应与**主效应（Main Effect）** 相对：主效应指某个自变量跨越其他所有条件后的独立平均效应；而交互效应揭示了一个自变量的因果作用强度或方向随情境与对象特征而发生转移。在现代学习科学与[[Evidence-Based Education|循证教育]]研究中，探究的核心议题已从单一孤立地提问“某种教学法是否普遍有效”（寻求单一主效应），转向探究“该教学法在何种条件、经由何种序列、针对具备何种认知特征的学生最为有效”（检验高阶交互效应）（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 7–9]]）。

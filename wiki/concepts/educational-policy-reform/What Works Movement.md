@@ -93,7 +93,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 什么有效运动（What Works Movement）
+> [!def] What Works Movement
 > **“什么有效”运动（What Works Movement）**，亦称**循证改革运动（[[Evidence-Based Reform]] Movement）**，发轫于 1990 年代末英美公共管理改革浪潮，是指主张将循证医学的[[Causality\|因果推断]]原则与实验[[Paradigm\|范式]]引入社会和教育政策领域，以[[Randomised Controlled Trials\|随机对照试验]]（RCT）和高质量[[Quasi-Experimental Designs\|准实验设计]]为黄金评估准则，系统识别并推广“已被科学实证证明真正有效”的干预方案，同时依托法定设立的[[Educational Brokerage Agency\|知识中介机构]]推动研究证据向政策问责、财政采购与教学实践转化的跨国治理运动（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–48]]；[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–4]]）。
 
 > [!concept-lens] 治理与[[Epistemology\|认识论]]透镜

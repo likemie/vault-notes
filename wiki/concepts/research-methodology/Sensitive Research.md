@@ -26,7 +26,7 @@ created: 2026-06-22
 updated: 2026-10-22
 ---
 
-> [!def] 敏感研究（Sensitive Research）
+> [!def] Sensitive Research
 > 敏感研究（sensitive research）指"可能对已经或曾经参与其中的人构成实质性威胁"的研究（Lee, 1993, p. 4），或者指被研究对象以某种方式视为不受欢迎的研究（Van Meter, 2000）。敏感研究的核心判断标准是：研究对参与者和利益相关者可能产生的后果和威胁程度（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 199–202]]）。
 
 > [!concept-lens] 概念透镜

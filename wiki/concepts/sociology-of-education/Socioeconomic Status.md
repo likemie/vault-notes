@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 社会经济地位（Socioeconomic Status）
+> [!def] Socioeconomic Status
 > **社会经济地位（Socioeconomic Status, SES）** 指个体或家庭在社会分层结构中所占据的相对位置与综合资源占有状况，通常通过父母[[Educational Level|受教育水平]]、职业声望以及家庭收入或物质资产等多维指标进行[[Operationalization|操作化]]测度。在教育实证研究中，社会经济地位被普遍证实为解释学生认知发展、[[Academic Achievement|学业成就]]与受教育机会变异的最强因果决定因素。然而，在以《[[Visible Learning|可见的学习]]》为代表的部分量化[[Meta-analysis|元分析]]综合中，研究者刻意将 SES 排除在课堂教学干预的调节[[Variable|变量]]之外，引发了关于“阶级盲教学思维（class-blind pedagogical thinking）”的学术批评。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]; [[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 94)]]
 
 > [!concept-lens] 概念透镜

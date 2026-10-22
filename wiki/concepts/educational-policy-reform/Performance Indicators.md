@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 绩效指标（Performance Indicators）
+> [!def] Performance Indicators
 > 绩效指标（Performance Indicators，在教育领域通称“教育指标” Education Indicators），是指经过目的性选择、数学建模与情境化加工的派生统计量（Derived Statistics），专门用于跨时空监测系统运行状况、预警体制弊端并为公共决策提供综合信息依据（Blank, 1993）。从政策工具社会学的视阈，勒加莱斯（Patrick Le Galès, 2016）将绩效指标界定为同时包含 **[[Technical Rationality|技术理性]]成分（Techniques）** 与**权力规制成分（Power）** 的复合体：其技术成分依托数理统计的客观合法性，而其权力成分则在充满不对等关系的行动者网络中运转，通过推动各主体参与评比排名，决定资源再分配并重塑组织行为。在[[Governing by Numbers|数字治理]] 2.0 时代，绩效指标进一步成为中介机构在海量知识过剩与[[Policy Ambiguity|政策歧义性]]生态下，为政策制定者构筑客观、精确与普适之“[[Façade of Rationality|理性表象]]”（Façade of Rationality）的核心政治[[Scaffolding|脚手架]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 7)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜

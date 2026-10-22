@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 测量尺度（Scale of Measurement）
+> [!def] Scale of Measurement
 > **测量尺度（Scale of Measurement，亦称测量量表）** 是[[Quantitative Research\|量化研究]]与心理测量学中将抽象[[Construct\|理论构念]]转化为实证可分析数据的数学规则与赋值层级。它规定了向受试者提供的反应选项属性，或研究者在观察测量参与者时所采集度量单位的数学逻辑（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]]）。测量尺度不仅决定了研究者可运用的统计分析模型边界，更在宏观教育政策与因果评估中决定了终结性结局指标的区分度、量程完整性与公信力。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens] 概念透镜

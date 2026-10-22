@@ -62,7 +62,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 语言技能（Language Skills）
+> [!def] Language Skills
 > 语言技能（Language Skills）是衡量学习者在特定语言环境中运用口头与书面符号进行意义理解、信息提取与交际表达的[[Operationalization\|操作化]]能力系统。在现代二语习得（Second Language Acquisition, SLA）与外语教学（English as a Second/Foreign Language, ESL/EFL）中，它通常基于欧洲语言共同参考框架（Common European Framework of Reference for Languages, CEFR）或美国外语教学学会（American Council on the Teaching of Foreign Languages, ACTFL）准则，通过听力感知、阅读理解、书面产出（写作流利度、语法词汇纠错、体裁组织）以及口语即时交际对话表现进行综合测度。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2–3, 10)]]
 
 > [!concept-lens] 概念透镜

@@ -19,7 +19,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-> [!def] 中文名（English Title）
+> [!def] English Title
 > 用一段话说明概念的核心含义、适用范围和边界，附 Argument citation。
 
 > [!concept-lens] 概念透镜

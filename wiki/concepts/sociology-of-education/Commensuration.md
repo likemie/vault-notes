@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 通约（Commensuration）
+> [!def] Commensuration
 > 通约（Commensuration）指将不同性质、不同质态的异质事物转化为基于共同公分母或标准化尺度的可比较、通常是量化指标的社会建构过程（Espeland & Stevens, 1998）。在教育治理与学校监测中，通约机制通过脱域化编码与算法建模，将复杂的学校生态、生源背景、教学质量及财政支出统一折算为可横向排序与统计对照的数值指标，为政策干预、资源再分配与外部问责提供依据[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 6–7)]]。
 
 > [!concept-lens] 概念透镜

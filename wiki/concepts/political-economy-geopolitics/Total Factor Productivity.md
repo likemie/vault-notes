@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 全要素生产率（Total Factor Productivity）
+> [!def] Total Factor Productivity
 > **全要素生产率（Total Factor Productivity, TFP / 索洛残差）** 是宏观与产业经济学中衡量生产效率的核心指标，指在总产出增长中扣除资本存量与劳动投入等有形要素增长贡献后的剩余部分（Residual）。在柯布-[[Jack Douglas|道格拉斯]]（Cobb-Douglas）生产函数框架下，全要素生产率通常表述为索洛残差（Solow residual）：$\ln A_{jt} = \ln y_{jt} - \alpha_j \ln k_{jt}$（其中 $y_{jt}$ 为人均产出，$k_{jt}$ 为资本劳动比，$\alpha_j$ 为资本产出弹性）。它综合反映了前沿技术进步、工艺改进、组织管理创新、资源重置效率及[[Learning by Doing|干中学]]经验积累对经济增长的总体贡献。在跨国经济竞争与现代产业战略中，先进制造业由于其极高的研发密集度与跨行业外溢性，被公认为驱动全社会全要素生产率持续增长的战略引擎。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1075–1078)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 14–15)]]
 
 > [!concept-lens] 概念透镜

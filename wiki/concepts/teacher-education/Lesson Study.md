@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 课例研究（Lesson Study）
+> [!def] Lesson Study
 > **课例研究（Lesson Study，源自日文“授業研究 / Jugyō Kenkyū”）** 是起源于日本、随后风靡国际教师教育界的协同校本专业发展与[[Action Research\|行动研究]][[Paradigm\|范式]]。其核心操作机制为：由任课教师团队围绕具体学科教学疑难或学生长远[[21st Century Skills and Competencies Discourse\|核心素养]]，共同经历“协同备课[[Design-Based Research\|设计研究]]课 $	o$ 一人执教且同伴聚焦个案学童进行细致观课 $	o$ 基于实证记录展开集体研讨反思 $	o$ 提炼微观教学法并修订教案再教”的循环探究过程。
 >
 > 课例研究的[[Epistemology\|认识论]]旨趣在于将传统孤立封闭的个人课堂转变为公开透明的实证研究现场，使教师从被动的方案执行者转变为深入观察儿童微观认知发生过程的研究型实践者（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]）。

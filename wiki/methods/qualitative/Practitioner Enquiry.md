@@ -64,7 +64,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 实践者探究（Practitioner Enquiry）
+> [!def] Practitioner Enquiry
 > **实践者探究（Practitioner Enquiry / Practitioner Inquiry）**，亦称教师探究，指一线教育工作者（教师、中小学校长及教育管理者）在自身所处的微观教育与课堂情境中，以批判反思为动力、以改善学生学习与优化教学为目的，自主发起并系统实施的实证探究方法（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 3, 14–16]]；Menter et al., 2011；Cochran-Smith & Lytle, 2009）。该方法主张突破外来专家自上而下的线性知识灌输，将教师定位为情境化知识的共创者与研究者，通过在真实课堂中界定问题、收集分析多维证据、批判性对话学术文献并迭代教学策略，实现实践手艺与学术理论的有机融合。
 
 > [!method-scope] 方法范围

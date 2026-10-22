@@ -34,7 +34,7 @@ created: 2026-05-31
 updated: 2026-10-16
 ---
 
-> [!def] 盲法（Blinding）
+> [!def] Blinding
 > 盲法（Blinding）是[[Experimental Research\|实验研究]]中用于降低系统性偏差的技术——在完成所有结果测量评估之前，使实验者和／或受试者不知道受试者所属的研究条件。盲法的核心目的是防止知晓条件分配后产生的期望或行为偏差影响实验结果（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）。
 
 > [!concept-lens] 盲法在偏差控制中的位置

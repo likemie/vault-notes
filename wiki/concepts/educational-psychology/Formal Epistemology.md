@@ -34,7 +34,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 形式认识论（Formal Epistemology）
+> [!def] Formal Epistemology
 > 形式[[Epistemology\|认识论]]（Formal Epistemology）指学生对专业（形式）科学（professional/formal science）及其[[Knowledge Production\|知识生产]]方式所表达出的[[Epistemological Beliefs\|认识论信念]]。在科学教育研究中，它通常等同于传统的[[Nature of Science\|科学本质]]（Nature of Science）研究所测量的信念。Hogan 将其称为远端认识论（distal epistemology），以区别于学生对自己作为科学学习者的认识论信念。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 635)]]
 
 > [!concept-lens] 概念透镜

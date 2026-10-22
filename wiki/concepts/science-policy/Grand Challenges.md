@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 重大挑战（Grand Challenges）
+> [!def] Grand Challenges
 > **重大挑战（Grand Challenges, GCs / 社会重大挑战）** 是指超越单一学科、工业部门或主权国家边界，具有高度系统复杂性、跨期性与广泛社会技术影响的重大科技与现实难题（如气候变化、清洁能源、重大疾病、先进材料与自主智能等）。在科技创新政策理论中，重大挑战标志着全球研发政策从传统的“线性资助与孤立[[Market Failure|市场失灵]]修正”向第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]（MOIP）的[[Ontology|本体论]]跃迁。在现代科学政策与人工智能驱动的研发[[Paradigm|范式]]中，重大挑战更被[[Operationalization|操作化]]为一种 **“高杠杆问题表述”（High-Leverage Problem Formulation）** 与[[Pull Mechanisms for Innovation|拉动机制]]：通过设立明确的客观评测基准与开放竞争平台，将庞大无序的科学未知解空间转化为可攻克的阶段性技术阶梯。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–789)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
 
 > [!concept-lens] 概念透镜

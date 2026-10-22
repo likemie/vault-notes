@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] Pearson相关（Pearson Product-Moment Correlation）
+> [!def] Pearson Product-Moment Correlation
 > 皮尔逊积差相关（Pearson Product-Moment Correlation，简称 Pearson 相关），由[[Karl Pearson|卡尔·皮尔逊]]（[[Karl Pearson]]）基于[[Francis Galton|弗朗西斯·高尔顿]]的工作系统化推导提出，是一种测量两个连续[[Variable|变量]]之间双变量（bivariate）线性关联系数和关联方向的基础推断统计方法，使用统计量 $r$ 呈现。该统计量严格界定在 $[-1, +1]$ 区间内：正值指示两变量同步增减的正向共变，负值指示反向变动，零值指示不存在线性相关趋势（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch8]]）。
 
 > [!method-scope] 方法范围

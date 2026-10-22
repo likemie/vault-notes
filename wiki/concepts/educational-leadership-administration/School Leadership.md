@@ -79,7 +79,7 @@ created: 2026-05-02
 updated: 2026-10-22
 ---
 
-> [!def] 学校领导力（School Leadership）
+> [!def] School Leadership
 > **学校领导力（School Leadership）** 指教育领导者（涵盖校长、中层管理者及分布式领导团队）通过确立学校发展愿景、促进教职员工专业成长、重构[[Organizational Culture\|组织文化]]架构与维系深度人际信任，从而对学生学业成功与学校整体改进产生关键塑造作用的专业实践（[[Argument_Møller_2017_EERJ\|Møller, 2017, p. 376]]）。领导力深具情境特异性（Context-specific），不存在放之四海而皆准的通用卓越处方。在[[Evidence-Informed Practice\|证据知情实践]]与[[Quality Use of Research Evidence Framework\|高质量研究使用]]视域下，学校领导力进一步超越传统的行政管辖与指令下达，确立为以身作则、言行一致（*walk the talk and model its implementation*）示范研究在课堂中的具体转化，并通过制度化排程为教师提供研讨工时与试错心理安全的组织使能杠杆。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376, 380)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 187–188, 191–192)]]
 
 > [!concept-lens] 概念透镜

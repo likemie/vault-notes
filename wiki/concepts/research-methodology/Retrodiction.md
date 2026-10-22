@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 回溯推测（Retrodiction）
+> [!def] Retrodiction
 > 回溯推测（Retrodiction，亦称历史溯因或反向推测）是地质学、古生物学、进化生物学、考古学及宇宙学等历史科学（historical sciences）所特有的核心[[Epistemology\|认识论]]推理策略。由科学教育家 C. R. 奥尔特（C. R. Ault, 1998）等学者深入阐发，回溯推测旨在通过收集和分析当下地层、化石、同位素丰度或宇宙背景辐射中遗留的历史痕迹，反向推导并重构过去发生的独特、不可逆且不可重复的自然演化事件。与经典物理学和化学在受控实验室中基于普遍定律向前“预测”（Prediction）未来状态截然不同，回溯推测依靠多条独立且相互收敛的[[Chain of Evidence\|证据链]]来约束解释的歧义性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 151, 156)]]
 
 > [!concept-lens] 概念透镜

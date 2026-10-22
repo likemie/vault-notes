@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 职业教育国际化（Internationalization of Vocational Education）
+> [!def] Internationalization of Vocational Education
 > 职业教育国际化（Internationalization of Vocational Education，或称职业教育高水平对外开放）是指现代职业教育系统在办学定位、专业规程、人才培养标准与产教协同网络中，系统整合国际规则、跨文化沟通与全球技术标准的制度化变迁过程。该过程不仅指向技能培训要素的跨国流动，更作为新型战略资源深度嵌入国家对外经贸合作与区域产业重构，呈现出从依靠单校经验的点状合作，向依托产业链的线状平台以及跨区域产教合作生态圈深层共建的演进特征。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 286–287, 298–301)]]
 
 > [!concept-lens] 概念透镜

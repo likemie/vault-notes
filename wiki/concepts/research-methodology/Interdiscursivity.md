@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 互话语性（Interdiscursivity）
+> [!def] Interdiscursivity
 > **互[[Discourse|话语]]性（Interdiscursivity，亦称互话语或跨话语性）** 是批判性[[Discourse Analysis|话语分析]]（Critical [[Discourse]] Analysis, [[Critical Discourse Analysis|CDA]]）的核心分析概念，由英国语言学家[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough, 1992, 2003）在继承米哈伊尔·巴赫金（Mikhail Bakhtin）对话理论基础上系统提出。在费尔克拉夫的批判性话语分析三维分析模型中，互话语性特指在特定文本或话语事件中，不同体裁（Genres）、话语类型（Discourses）以及风格（Styles）之间的相互渗透、交叉组合与[[Heterogeneity|异质性]]杂糅。作为中介枢纽，它将微观层面的语言词汇与语法特征，同宏观层面的社会结构、意识形态霸权及[[Order of Discourse|话语秩序]]（Order of Discourse）紧密连接在一起，揭示文本生产与消费如何参与制度变迁与权力关系的再生产。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682, 684)]]
 
 > [!concept-lens] 概念透镜

@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 理性主义 (国际关系)（Rationalism in International Relations）
+> [!def] Rationalism in International Relations
 > 理性主义（Rationalism，亦称格劳秀斯传统 Grotian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的建制与合作维度。它承认[[Geopolitics|地缘政治]]的无政府状态，本能地主张通过多边主义、法律与契约可以予以有效缓和。它将国际社会视为一个“真实的、但存在制度缺陷的社会”（a true society, but institutionally deficient），其运作依赖于国家间的交往规则与制度性合作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 
 > [!concept-lens] 概念透镜

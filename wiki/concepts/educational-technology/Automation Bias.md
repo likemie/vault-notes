@@ -65,7 +65,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 自动化偏差（Automation Bias）
+> [!def] Automation Bias
 > 自动化偏差（Automation Bias）是指人类操作者在[[Man-Computer Symbiosis|人机协同]]决策情境中，将自动化或人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）决策支持系统的提示（或其沉默）作为替代自主信息搜集与审思的启发式替代品，过度依赖系统线索而产生执行错误（Commission Errors）或遗漏错误（Omission Errors）的系统性决策倾向。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 2–5)]] 根据操作者对矛盾证据的接触与认知卷入程度，可进一步划分为两类形态：
 > 1. **弱自动化偏差（Weak Automation Bias）** 操作者在未主动查阅或忽略唾手可得的相左证据的情况下，盲目追随系统的提示或沉默，其认知机制源于认知吝啬与警觉性替代，在伦理上构成应知而未注意的过失疏忽（Culpable Negligence）；
 > 2. **强自动化偏差（Strong Automation Bias）** 操作者在已经察觉、记录或权衡了矛盾证据，甚至自身已形成相反判断的情况下，依然顺从系统的提示或沉默，其根源在于[[Trust Calibration|信任失调]]（Miscalibrated Trust）与过度信任（Overtrust），并在[[Epistemology|认识论]]上构成了对技术系统的[[Epistemic Deference|认识论顺从]]（[[Epistemic Deference]]）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 1–2, 6–11)]]

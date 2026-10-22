@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创新拉动机制（Pull Mechanisms for Innovation）
+> [!def] Pull Mechanisms for Innovation
 > 创新拉动机制（Pull Mechanisms for Innovation）是一类将财政激励对准最终已验证成果、而非前期科研人员工时、设备与耗材投入的创新资助政策工具。传统研发资助（推动机制，Push Mechanism）属于“为努力付费”（paying for effort），无论项目最终是否产出突破均报销既定成本；拉动机制则属于“为结果付费”（paying for success），主要包括重大技术悬赏奖金（Inducement Prizes）、[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）、事后追溯资助（Retroactive Grants）及[[Quadratic Funding in Science|二次方配比资助]]（Quadratic Funding）。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, pp. 28–30)]]
 
 > [!concept-lens] 概念透镜

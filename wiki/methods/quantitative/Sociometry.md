@@ -26,7 +26,7 @@ created: 2026-07-22
 updated: 2026-10-22
 ---
 
-> [!def] 社会计量学（Sociometry）
+> [!def] Sociometry
 > 社会计量学（sociometry）是由 Moreno（1934, 1960）发展的**社会关系强度测量方法**。它通过收集群体成员之间"谁选择谁"的数据，以社会图（sociogram）的形式图示化呈现群体中的关系结构，识别出不同类型的关系角色和模式。
 
 > [!method-scope] 方法范围

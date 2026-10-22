@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 解释与执行裁量权（Enforcement Discretion）
+> [!def] Enforcement Discretion
 > 解释与执行裁量权（Enforcement Discretion / Discretion in Interpretation and Enforcement）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的双维核心解释[[Variable|变量]]之一。该概念打破了将“规则遵从”（[[Strategic Compliance|compliance]]）视为外生常数或自动达成均衡的传统假设，将其确立为充满权力博弈的动态变量；特指成文规约由于认知局限、妥协起草与现实复杂性不可消除的内生模糊性（inherent ambiguity），在司法判例、行政执法与日常实践落实端所留给执行主体的变通解释与操作自由度。成文法条与实际落实之间的“软肋与缝隙”（soft spots and gaps）构成了渐进变迁[[Emergence|涌现]]的微观温床；其高低水平与宏观[[Veto Possibilities|政治否决阻力]]（Veto Possibilities）共同决定了[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]与[[Institutional Conversion|制度转换]]四种演进形态，并对变革行动者角色产生系统筛选效应（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 10–14, 18–22]]）。
 
 > [!concept-lens] 概念透镜

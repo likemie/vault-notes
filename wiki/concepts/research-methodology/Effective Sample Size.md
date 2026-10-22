@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 有效样本量（Effective Sample Size）
+> [!def] Effective Sample Size
 > **有效[[Sample Size Determination\|样本量]]（Effective Sample Size，ESS）** 指在复杂抽样设计、多层嵌套模型或整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster-Randomised Controlled Trials）中，扣除由聚集性（Clustering）和[[Intraclass Correlation Coefficient\|群内相关系数]]（Intra-Cluster Correlation Coefficient，ICC）所引起的方差膨胀与设计效应（Design Effect，Deff）后，样本在统计学上实际等价于“独立同分布[[Random Sampling\|简单随机抽样]]（Simple Random Sampling）”的观测单位数量。它直接决定了统计检验力（Statistical Power）与参数估计的精度（即[[Confidence Interval\|置信区间]]宽度）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜

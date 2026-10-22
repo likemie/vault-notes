@@ -38,7 +38,7 @@ created: 2026-07-13
 updated: 2026-10-22
 ---
 
-> [!def] 仅后测控制组设计（Posttest-Only Control Group Design）
+> [!def] Posttest-Only Control Group Design
 > 仅后测控制组设计（Posttest-Only Control Group Design）是[[True Experimental Design\|真实验设计]]的变体：参与者通过[[Random Assignment\|随机分配]]分为实验组和控制组，**不进行前测**，仅实验组接受干预（X），两组均接受后测。因果效应通过比较两组后测均值来估计（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 320]]）。
 
 > [!method-scope] 方法范围

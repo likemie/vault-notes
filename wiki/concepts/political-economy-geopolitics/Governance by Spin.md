@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 舆论操控（Governance by Spin）
+> [!def] Governance by Spin
 > 舆论操控（spin），或称印象管理（impression management），是指国家试图管理、遏制或使与政策制定 and 实施相关的潜在争议不可见的治理过程。作为一种双重维度的治理技术，它表层上用于控制公众对政策的阅读与解读，深层上则是政策本身的构成性要素——政策[[Discourse|话语]]为了能够被“操控”，在生产时就必须被塑造成兼具灵活性、适应性与一定稳定性的形态。[[Argument_Beech_2009_CE\|Beech, 2009a, p. 357]]
 
 > [!concept-lens] 概念透镜

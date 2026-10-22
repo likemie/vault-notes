@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 可信赖性（Trustworthiness）
+> [!def] Trustworthiness
 > 可信赖性（trustworthiness）是 Lincoln and Guba (1985) 提出的[[Qualitative Research\|质性研究]]质量的替代性总称概念，旨在以一套与[[Interpretive Paradigm\|自然主义探究]][[Epistemology\|认识论]]一致的标准来**替代**[[Positivism\|实证主义]][[Paradigm\|范式]]中的效度和[[Reliability\|信度]]概念。它涵盖了四项核心标准：**可信性（credibility，替代[[Internal Validity\|内部效度]]）**、**可迁移性（transferability，替代[[External Validity\|外部效度]]）**、**可依赖性（dependability，替代信度）** 和**可确认性（confirmability，替代客观性）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, pp. 160–161]]）**。在自然主义研究范式下，可信度被列为 Lincoln and Guba（1985, pp. 39–43）的14条操作性含义之一——"可信度及其组成部分取代更常规的信度和效度观"——同时也是自然主义研究设计十项元素中的第10项：规划可信度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Cohen et al., 2011, pp. 404–405, 411]]）。
 
 > [!concept-lens] 概念透镜

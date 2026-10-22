@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 一国两制（One Country, Two Systems）
+> [!def] One Country, Two Systems
 > 一国两制（One Country, Two Systems，OCTS）是中华人民共和国对香港和澳门特别行政区的基本宪制框架。其核心原则是在坚持中国主权 and 领土完整的前提下，允许特别行政区保留原有的资本主义制度与社会生活方式，享有高度自治（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.149–150]]；[[Argument_Xu_2024_CE\|Xu, 2024, p.574]]）。该原则在国安法后经历了从契约边界论向单一制主权绝对论的官方解释重构。
 
 > [!concept-lens] 概念透镜

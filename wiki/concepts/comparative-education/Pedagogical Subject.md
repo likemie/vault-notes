@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育主体（Pedagogical Subject）
+> [!def] Pedagogical Subject
 > **教育主体（Pedagogical Subject，西语：*Sujeto Pedagógico*）** 是批判教育政治社会学、拉美激进教育史学与欧洲大陆教育哲学中的核心[[Construct|构念]]，指公立教育体系在国家契约与哲学本体层面所培育的具备反思批判意识、政治参与权利、具身教化与公共理性的完整人（whole person）。在拉美[[Critical Theory|批判理论]]视域下，教育主体是公立学校依据宪法契约培育的民主公民，承担对抗新自由主义国家撤资与市场化异化的政治使命（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 79]]）；在欧洲教化哲学视域下，教育主体是立足德意志教化（[[Bildung]]）传统与具身化-延展辩证法的生命存在，以精神自主性抵御[[Cognitive Capitalism|认知资本主义]]与[[Positivism|实证主义]]可见监控对学习的去主体化剥离（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 7–10]]）。
 
 > [!concept-lens] 概念透镜

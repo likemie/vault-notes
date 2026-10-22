@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 高校科研启动配套金（Academic Start-up Packages）
+> [!def] Academic Start-up Packages
 > 高校科研启动配套金（Academic Start-up Packages），指[[Research Universities|研究型大学]]向新招聘理工科教职人员（助理教授及资深教授）由校方内部预算出资提供的专属一次性科研资助包，用于实验室初期建设、大型仪器设备采购、研究生助研津贴、博士后薪资及实验耗材支出；其核心制度功能是为新进学者提供为期约 3 年的资源缓冲期，使其能够产出初始[[Pilot Testing|预实验]]数据（Pilot Data），从而具备角逐国家级外部竞争性资助（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 基金）的初始资本。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24, 30–31)]]
 
 > [!concept-lens] 概念透镜

@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 认识论殖民（Epistemic Coloniality）
+> [!def] Epistemic Coloniality
 > [[Epistemology\|认识论]]殖民（epistemic coloniality）指全球知识体系长期以来以欧洲中心主义的认识论与方法论为基础，构建起的一套隐性但有力的认识论殖民结构。该结构不仅界定了哪些知识可以被看见、被接受、被引用，也在制度运作中固化了象征空间的等级边界——它决定了谁有资格生产知识、何种知识被视为普遍有效以及何种知识被系统性地排斥为局部的、特殊的或非科学的。这一概念由米尼奥洛（W. Mignolo, 2000）和康奈尔（R. Connell, 2007）从不同路径提出并系统阐述。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜

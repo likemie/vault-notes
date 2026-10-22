@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 公民宗教（Civic Religion）
+> [!def] Civic Religion
 > **公民宗教（Civic Religion，或 Civil Religion）** 指一种在现代多元世俗社会中，将国家的建国历史叙事、宪法政治原则、核心思想正典与共同伦理抱负升华而成的公共信仰与价值象征体系。该体系不依附于特定的排他性宗教宗派教义，而是作为凝聚跨越阶层、种族与地域分歧的公民身份纽带，为民主共和国的公共参与、制度信任与集体繁荣提供超越个人私利与狭隘市场功利的深层道德动力与合法性基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!concept-lens] 概念透镜

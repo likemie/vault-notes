@@ -79,7 +79,7 @@ updated: 2026-10-22
 
 双轨学制（Dual School System），又称双轨制学制或阶级分选学制（Selective [[Classroom Assessment Scoring System|CLASS System]] of Schools），是指 19 世纪在西欧与中欧（以法国、普鲁士及英国为典型）形成的自上而下相互平行、互不沟通的二元教育组织架构。
 
-> [!def] 双轨学制（Dual School System）
+> [!def] Dual School System
 > 双轨学制是近代欧洲民族国家在资产阶级革命与工业化进程中确立的阶级再生产制度机器。该体制将适龄人口在法理与组织上划分为两条性质截然对立的轨道：一轨是面向广大劳动平民的初等教育系统（初级小学与高级初小），传授基础读写算与职业技术，以劳动技能培训和道德驯化为轴心，具有不可升学的终点性质；另一轨是面向大资产阶级与贵族子弟的中等教育系统（文理中学预备班 ➔ 文理中学 ➔ 大学），传授文理融通的古典“[[Culture Générale\|普通文化]]”，垄断文凭会考与国家统治精英的晋升渠道。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 28–30)]]
 
 > [!concept-lens] 概念透镜

@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 文化相对主义（Cultural Relativism）
+> [!def] Cultural Relativism
 > 文化相对主义（Cultural Relativism）是指发端于 20 世纪文化人类学、并在战后广泛渗透至高等教育与人文社科的理论[[Paradigm|范式]]；其核心主张认为，人类所创造的一切文化模式与生活方式在存在论与[[Axiology|价值论]]上“共存且同等有效”，任何跨文化的优劣、审美与道德评判都被视作[[Hegemony|文化霸权]]或偏狭特权。在当代技术共和主义视阈下，该理论被批评为一种抹杀客观卓越标准的集体防御教条，不仅直接诱发了大学通识正典的解体，更导致社会丧失辨别卓越与平庸的意志，成为[[Technological Agnosticism|技术不可知论]]与文化虚无主义的深层哲学温床。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 205–207, 212–213)]]
 
 > [!concept-lens] 概念透镜

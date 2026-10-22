@@ -39,7 +39,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育政策的比较转向（Comparative Turn in Education Policy）
+> [!def] Comparative Turn in Education Policy
 > **教育政策的比较转向（Comparative Turn in Education Policy）** 是指自 1980 年代末至 1990 年代初全球教育多边治理领域发生的深层认识论与规制范式转型。在经合组织（OECD）等核心机构主导下，国际教育政策监测全面放弃了此前依赖个案深度走访、立足历史文化脉络与主权国个别协商的个案定性审查传统（Idiographic Country Reviews），转变为依托标准化心理测量指标网络（如 INES、[[PISA]]、[[Teaching and Learning International Survey|TALIS]]）构建统一跨国可比等值空间、实施横向数据排位与联赛对标的法则化量化测评范式（Nomothetic Comparative Assessment）。这一转向使超国家机构得以凭借量化硬事实确立超越民族国家的认知权威，标志着全球教育治理步入以数字进行治理的实证化新时期。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–274)]]
 
 > [!concept-lens] 概念透镜

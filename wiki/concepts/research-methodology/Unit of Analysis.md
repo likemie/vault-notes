@@ -136,7 +136,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 分析单位（Unit of Analysis）
+> [!def] Unit of Analysis
 > **分析单位（Unit of Analysis，又称分析单元）** 是指在经验研究设计、[[Coding in Qualitative Research|质性编码]]与[[Content Analysis|内容分析]]中，被观察、测量、描述和解释的基本实体、信息载体或文本片段。在[[Qualitative Research|质性研究]]与[[Content Analysis|内容分析]]中，分析单位界定了数据拆解切片、赋予编码与范畴聚合的最小操作基准与最大语境边界（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。分析单位的界定直接决定了研究结论的可推广范围、统计推论的聚合尺度以及理论命题的解释力度。
 
 > [!concept-lens] 概念透镜

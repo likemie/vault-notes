@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 累积性知识库（Cumulative Knowledge Base）
+> [!def] Cumulative Knowledge Base
 > **累积性知识库（Cumulative Knowledge Base）** 是指在复杂教育[[Epistemic Governance\|知识治理]]生态中，超越单一孤立个案与单体中介机构局限，通过跨国跨系统元中介协作（Brokering the Brokers）、二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）以及多元异质证据整合，逐步沉淀并动态调适形成的、被政策与[[Communities of Practice|实践共同体]]“准普遍公认建立在坚实基础之上（quasi-universally acknowledged as well founded）”的共享性科学与实践知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55, 66–68]])
 
 > [!concept-lens] 概念透镜

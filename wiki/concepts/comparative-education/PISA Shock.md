@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国际学生评估项目震荡（PISA Shock）
+> [!def] PISA Shock
 > **PISA 震荡（PISA Shock，德语：PISA-Schock）**，亦称国际学生评估项目震荡，特指 2001 年底经济合作与发展组织（Organisation for Economic Co-operation and Development, OECD，简称经合组织）公布首届[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA 2000）测试结果后，德国等德语区国家因其学生学业表现远低于传统自我预期、且暴露出严重的社会经济背景不平等而爆发的全国性政治与社会危机反应。该事件被广泛定性为德语区教育政策制定的“决定性分水岭”（decisive watershed），它打破了二战后德国各联邦州在文化主权掩护下形成的投入规制惯性与改革积压，促成[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）确立七大优先行动领域与 2006 年《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》，并在宪制禁止学校排名的约束下推动国家创设[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]，开启了向产出导向、循证监测与跨尺度数据基础设施装配的现代治理转型。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 135–138)]]; [[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 484–485)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 274–276)]]
 
 > [!concept-lens] 概念透镜

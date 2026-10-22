@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 模板分析（Template Analysis）
+> [!def] Template Analysis
 > 模板分析（Template Analysis）是由 Nigel King et al. 提出并完善的一种[[Qualitative Content Analysis\|质性文本分析]]方法。其核心在于将归纳性的[[Open Coding|开放编码]]（[[Open Coding]]）与基于先验理论/文献概念的演绎性编码模板（A Priori Coding Template）有机结合，用于系统整理和分析大样本[[Qualitative Interview\|质性访谈]]或文档数据。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]
 
 > [!method-scope] 方法范围

@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 专业知识民主化（Democratisation of Expertise）
+> [!def] Democratisation of Expertise
 > 专业知识民主化（Democratisation of Expertise）是指在特定公共政策领域中，专业知识与学术研究失去了由排他性行话、法定理化准入或职业壁垒所赋予的神圣垄断地位，使得广泛的公众、从业者、政治家与媒体均能直接理解、参与评判乃至自诩为行业专家的社会学现象。该概念由科学社会学家莎宾·玛森（Sabine Maasen）与彼得·魏因加特（Peter Weingart）于 2005 年系统提出，后被引入知识政治学与比较政策研究。在教育领域，由于几乎所有社会成员都拥有亲身受教育的经历，教育研究证据呈现出高度的可追溯性与通俗可读性，因而缺乏类似医疗卫生领域的专业排他性技术（[[Technologies of Exclusion]]）；这使得教育政策天然沦为意识形态交锋与公众辩论的激烈争议[[Champ\|场域]]（Contestation），并迫使[[Policy Brokerage\|政策中介]]机构不得不通过确立严苛的证据等级秩序（如将[[Randomised Controlled Trials\|随机对照试验]]奉为黄金标准、将[[OECD\|经合组织]]塑造为超党派中立裁判）来艰难维系自身的专业公信力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 539)]]
 
 > [!concept-lens] 概念透镜

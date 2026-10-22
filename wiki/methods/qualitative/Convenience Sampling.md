@@ -42,7 +42,7 @@ created: 2026-06-22
 updated: 2026-10-20
 ---
 
-> [!def] 便利抽样（Convenience Sampling）
+> [!def] Convenience Sampling
 > 便利抽样（Convenience Sampling），亦称机会抽样（opportunity sampling）或偶遇抽样（accidental sampling），是选择最近便或最容易接触的个体作为受访者的[[Non-probability Sampling\|非概率抽样]]方法，持续至达到所需[[Sample Size Determination\|样本量]]。典型场景包括使用被俘获的受众（如学生或实习教师）。它不寻求对更广泛总体的推广，只代表自身。
 
 > [!method-scope] 方法范围

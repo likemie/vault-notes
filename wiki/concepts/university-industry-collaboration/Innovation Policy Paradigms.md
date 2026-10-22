@@ -78,7 +78,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 创新政策范式（Innovation Policy Paradigms）
+> [!def] Innovation Policy Paradigms
 > 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms，或称创新政策三框架 Three Frames for Innovation Policy）是指学者（Schot & Steinmueller, 2018; Lindner et al., 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）识别出的、自第二次世界大战以来发达经济体科技创新政策所经历的三个核心演化阶段：**科学促增长（Frame 1: Science for Growth）**、**国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）** 与 **[[Transformative Change|变革转型]]／使命导向（Frame 3: Transformative Change & [[Mission-Oriented Innovation Policy|mission-oriented policy]]）**。每个范式代表了国家与公共部门对“创新如何发生”、“政策为何干预”以及“[[Public Value|公共价值]]如何实现”这三大根本问题的不同理论认知与制度回答。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–806)]]
 
 > [!concept-lens] 范式透镜

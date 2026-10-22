@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 证据知情决策（Evidence-Informed Decision-Making）
+> [!def] Evidence-Informed Decision-Making
 > 证据知情决策（Evidence-Informed Decision-Making, EIDM）指决策者在规划、实施或调整公共政策、教育项目与专业服务前，系统咨询包括最佳可用研究证据在内的多元信息来源的专业审议过程（Langer et al., 2016; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 46–47]]）。与传统将证据利用视为单向信息传递或单一技术操作的视角不同，EIDM 框架的核心理论突破在于将证据利用确立为旨在**引发决策者行为改变（changing behaviour）** 的复杂社会心理与制度干预过程。
 
 > [!concept-lens] 概念透镜

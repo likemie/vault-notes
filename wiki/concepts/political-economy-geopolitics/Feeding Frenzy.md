@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 捕食狂欢（Feeding Frenzy）
+> [!def] Feeding Frenzy
 > 捕食狂欢（Feeding Frenzy）是政治传播学与媒介社会学中的经典概念，由政治学家拉里·J. 萨巴托（Larry J. Sabato）在《捕食狂欢：攻击性新闻业如何改变美国政治》（*Feeding Frenzy: How Attack Journalism Has Transformed American Politics*, 1991/1993）中系统提出。该概念借用鲨鱼群闻到血腥味后疯狂撕咬猎物的生物学意象，指现代大众媒体与新闻记者在面对公职候选人或政治人物的微观私人瑕疵、道德传闻或八卦丑闻时，所展开的群体性、全天候且极具毁灭性的围剿式报道狂欢。该机制实质上将公共政治报道的重心从对政策纲领与治理能力的严肃考察，转向对私人道德纯洁性的显微镜式审查。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 61–62)]]; (Sabato, 1993, p. 211)
 
 > [!concept-lens] 概念透镜

@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识的来源（Source of Knowledge）
+> [!def] Source of Knowledge
 > 知识来源（Source of Knowledge）是构成个人[[Epistemological Theories\|认识论理论]]的基石维度之一，隶属于“认知的本质（Nature of Knowing）”范畴。它核心关注知识由何处产生以及驻留在何处：知识是存在于认知者外部、由全知全能的权威（如教师、教科书、学科专家）单向垄断并下达传递，还是认知者在与客观世界的批判性质询互动中，由主体主动参与建构和生成的产物。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
 
 > [!concept-lens] 概念透镜

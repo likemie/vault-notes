@@ -28,7 +28,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 学习档案袋（Learning Portfolio）
+> [!def] Learning Portfolio
 > 学习档案袋（Learning Portfolio，LP）要求学习者选择能够证明学习成果的作品，并说明这些证据如何体现自己已经达到课程目标。档案袋不只是汇集成品的评估容器；学生在准备档案袋的过程中，还要撰写反思日志、参与同伴讨论、接受形成性反馈并修改作品。因此，档案袋可以同时发挥教学／学习活动和评估任务的作用。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 72–73)]]
 
 > [!concept-lens] 概念透镜

@@ -24,7 +24,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 权力走廊（Corridors of Power）
+> [!def] Corridors of Power
 > 权力走廊（Corridors of Power）是由 AidData 研究团队在分析中国在丝绸之路沿线影响力时提出的空间公共外交概念，指外部大国在对象国投放的资金援助、教育合作、语言推广、媒体广播及友城网络等公共外交资源，在地理上表现出高度空间非均质性，紧密依附于关键交通运输走廊、能源管道干线和重点工业经济区，在次国家层面的特定战略省份与枢纽城市形成多重网络复合叠加与高密度空间集聚。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 5–10, 34–36)]]
 
 > [!concept-lens] 概念透镜

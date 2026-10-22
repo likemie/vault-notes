@@ -40,7 +40,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] PISA 扭曲的教育观（PISA Distorted View of Education）
+> [!def] PISA Distorted View of Education
 > **PISA 扭曲的教育观（PISA Distorted View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]针对经合组织（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术构念，指 PISA 将推动国家宏观经济增长与提升个体在劳动力市场中的[[Competitiveness|竞争力]]确立为教育系统存在的唯一合法目的。在这种狭隘的新自由主义功利主义导向下，PISA 仅针对与直接经济产出密切关联的领域（阅读、数学、科学、财经素养与问题解决）进行评估，导致人文、艺术、音乐、体育、社会科学、历史和地理等传统学科，以及公民美德、同理心、好奇心、文化认同与身心健康等攸关人类福祉的全人教育目的在基于排名的政策议程中被边缘化与牺牲。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-lens] 概念透镜

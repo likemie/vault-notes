@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 革命主义（Revolutionism）
+> [!def] Revolutionism
 > 革命主义（Revolutionism，亦称[[Immanuel Kant\|康德]]传统 Kantian tradition）是 Martin Wight [[Wight's Three Traditions of International Theory\|国际关系三大传统]]中的变革性维度。与关注国家实力的现实主义和关注超国家制度的理性主义不同，革命主义将政治的终极现实置于个人与社会群体之间。它预设存在一个**普遍的人类共同体（universal human community）**，其终极实现要求打破传统的国家主权樊篱，“将国际社会硬化、界定并构建为一个世界国家（worldstate）或超国家”。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 418]])
 
 > [!concept-lens] 概念透镜

@@ -45,7 +45,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 军民两用技术（Dual-Use Technology）
+> [!def] Dual-Use Technology
 > 军民两用技术（Dual-Use Technology）是指既具备军事实战与国防安全应用价值，又具备广泛民用工业与商业市场潜力的基础或应用型前沿技术[[Paradigm|范式]]。该概念强调技术知识在军民两大部门间的渗透与流动机制：在产业萌芽与成长初期，军民技术规范高度重叠，国防研发投资与先导采购通过知识基础设施构建、技术衍生（Spinoff）及规模学习效应强力催化民用产业诞生；而当民用商业市场规模反超军用需求后，军民技术要求分化，技术前沿由民用部门主导，演进为由民向军的“逆向技术溢出”（Reverse Spillovers）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–31, 41)]]
 
 > [!concept-lens] 概念透镜

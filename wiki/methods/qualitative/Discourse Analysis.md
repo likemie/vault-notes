@@ -97,7 +97,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 话语分析（Discourse Analysis）
+> [!def] Discourse Analysis
 > [[Discourse|话语]]分析（Discourse Analysis）探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对意义建构的强调表明了话语分析的**行动视角**——语言具有明确的施事功能与能动建构力量：传递信息、说服、指责、谴责、鼓励、建构[[Social Imaginary|社会想象]]及确立治理规训等。
 
 > [!method-scope] 方法范围

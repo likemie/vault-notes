@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 精神科学（Geisteswissenschaften）
+> [!def] Geisteswissenschaften
 > **精神科学（Geisteswissenschaften）**，又译人文科学（Human Sciences），是指以人类历史、社会、文化与精神创造物为研究对象的知识体系总称，由德国哲学家[[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）于 19 世纪末在《精神科学引论》（1883）中系统奠基。狄尔泰确立了精神科学与自然科学（Naturwissenschaften）之间的根本[[Epistemology|认识论]]划界：自然科学面对外在于人的物理客体，旨在通过因果假设与实证测量实现客观说明（*Erklären*）；精神科学面对人类自身生命体验（*Erlebnis*）及其历史精神客观化表达（*Ausdruck*），必须依托阐释学循环进行内在理解（*Verstehen*）。在教育学中，该传统孕育了以诺尔（Herman Nohl）、斯普朗格（Eduard Spranger）为代表的精神科学教育学，并构成了欧洲比较教育学以民族历史、文化形态与哲学理念为核心的古典母体。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89, 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
 
 > [!concept-lens] 概念透镜

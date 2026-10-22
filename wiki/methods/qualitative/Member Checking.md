@@ -42,7 +42,7 @@ created: 2026-06-01
 updated: 2026-10-16
 ---
 
-> [!def] 成员核查（Member Checking）
+> [!def] Member Checking
 > 成员核查（Member Checking）是[[Qualitative Research\|质性研究]]中确定研究发现准确性的一种效度策略：将最终报告或特定描述和主题带回给参与者，并确定这些参与者是否认为它们是准确的。带回的是经过打磨或半打磨的产品部分，如主要发现、主题、案例分析、[[Grounded Theory\|扎根理论]]、文化描述等（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 213]]）。
 
 ## 研究程序

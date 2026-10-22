@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 开放协调法（Open Method of Coordination）
+> [!def] Open Method of Coordination
 > **开放协调法（Open Method of Coordination，OMC / 开放式协调机制）** 是[[EU|欧洲联盟]]在后阿姆斯特丹条约与[[Lisbon Strategy|里斯本战略]]时期确立的一种新型超国家软法治理工具。该机制旨在各成员国保留排他性立法主权、欧盟缺乏直接指令权的政策领域（尤指教育、就业与社会保障），达成跨国政策的协同与趋同。其核心运作逻辑在于：超国家机构并不制定具法律拘束力的统一法令，而是通过拟定共同战略目标、建立量化评估指标体系与发展基准线（Benchmarks）、促进各国“最佳实践”辨识与经验对话，并辅以定期的国家行动计划汇报与同行评议（Peer Review），依靠声誉机制与同侪比较压力（Naming and Shaming），自下而上地引导成员国国内政策向超国家优先议程自主靠拢。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
 > [!concept-lens] 概念透镜

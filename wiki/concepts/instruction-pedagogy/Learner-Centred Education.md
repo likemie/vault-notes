@@ -58,7 +58,7 @@ tags:
   - metax
 ---
 
-> [!def] 以学生为中心的教育（Learner-Centred Education）
+> [!def] Learner-Centred Education
 > 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、[[Dialogue in Education|对话教学]]和[[Critical Thinking\|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的本土化[[Recontextualization|再情境化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
 
 > [!concept-lens] 概念透镜

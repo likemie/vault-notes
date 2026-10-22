@@ -41,7 +41,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 诱人细节效应（Seductive Details Effect）
+> [!def] Seductive Details Effect
 > 诱人细节效应（Seductive Details Effect）是指在教学文本、多媒体课件或图示材料中，加入虽然高度有趣、引人入胜但与核心教学目标和本质语义拓扑无关的细节信息（如装饰性插图、背景音效、生动趣闻或无关视觉动画），反而分散学习者的注意力资源、增加外在认知负荷，并最终显著损害对核心知识的深层理解与[[Higher-Order Thinking Skills\|高阶思维]]迁移的认知心理学现象。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
 
 > [!concept-lens] 概念透镜

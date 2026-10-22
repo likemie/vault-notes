@@ -122,7 +122,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 因果性（Causality）
+> [!def] Causality
 > **因果关系（Causality / Causal Inference）** 指实证研究中通过严密的研究设计与统计分析，确立原因 $X$ 导致结果 $Y$ 发生的推理过程([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 56]])。在科学研究中，建立有效因果推断必须同时满足三大基石要件：(1) **统计关联性（[[Variable\|变量]]间存在稳定的协变证据）**；(2) **时间先后序**（原因在时间上严格先于结果发生）；(3) **排除替代解释**（系统排除潜在混杂变量与虚假关联）([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp. 56–57]])。
 >
 > 在社会科学与教育研究中，因果关系通常体现为 **[[Probabilistic Causation\|概率因果性]]（即[[Independent Variable\|自变量]] $X$ 提高了[[Dependent Variable\|因变量]] $Y$ 发生的概率）**，其经验识别的底层逻辑依赖于 **[[Counterfactual\|反事实]]比较（Counterfactual Comparison）**——即对比干预实际发生的世界与假设该干预未发生的反事实世界之间的状态差异([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 54–59]])。

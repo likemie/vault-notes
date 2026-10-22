@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 组内相关系数（Intraclass Correlation Coefficient）
+> [!def] Intraclass Correlation Coefficient
 > **组内相关系数（Intraclass Correlation Coefficient，简称 ICC，在符号中常记为 $\rho$）** 最初由统计学家罗纳德·费希尔（Ronald Fisher）于 1925 年在[[Analysis of Variance\|方差分析]]框架下提出，是衡量具有嵌套（Nested）或群聚（Clustered）结构数据中**同属于同一群组的个体之间相似程度**的核心统计量。在现代分层线性[[Hierarchical Linear Model\|多水平模型]]（[[Hierarchical Linear Model\|HLM]]）中，ICC 被严格定义为**高层级组间方差占总方差的比例**。在教育实证研究与[[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）中，ICC 捕捉了同校或同班学生因共享教师、校园文化、地理社区及同伴互动而产生的非独立性相关，是测算设计效应（Design Effect）、换算[[Effective Sample Size\|有效样本量]]以及消除[[Standard Error\|标准误]]向下偏倚的生命线参数。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 
 > [!method-scope] 方法范围

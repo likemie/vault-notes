@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 经典之争（Canon Wars）
+> [!def] Canon Wars
 > **经典之争（Canon Wars，亦称正典之争）** 指20世纪60年代以降在美国及西方高等教育界爆发的围绕人文通识课程选目、文化正典（Western Canon）权威性及其政治意涵的长期激烈论战。争论的核心在于：大学是否应当继续要求学生研读以古希腊罗马到[[Enlightenment|启蒙运动]]为主导的西方思想正典以维系共同文化认同与[[Civic Religion|公民宗教]]，抑或将这些正典视为服务于殖民统治、白人男性霸权与排他性权力结构的意识形态构造并予以解构和多元替代。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 83–88, 95–96)]]
 
 > [!concept-lens] 概念透镜

@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 软问责（Soft Accountability）
+> [!def] Soft Accountability
 > 软问责（Soft Accountability）指在教育评价与治理体系中，国家虽常态化推行全员或抽样的大规模标准化测验，但明确将测试结果与针对学校或教师的高利害惩戒后果（如学校关停接管、教师解聘评级、绩效薪酬发放及官方排位表公开）予以解绑，主要用于教学诊断支持、校本反思与宏观系统监测的制度安排。韦尔热等人指出，软问责虽常被视作温和的替代方案，但通过量化指标构造的数字[[Space of Equivalence|等值空间]]，依然会在学校生态中生成隐蔽的表现主义规训效应。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 263–265)]]
 
 > [!concept-lens] 概念透镜

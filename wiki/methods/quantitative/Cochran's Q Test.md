@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] Q 检验（Cochran's Q Test）
+> [!def] Cochran's Q Test
 > Cochran's Q 检验（Cochran's Q Test，亦称 Q 统计量检验）是由 William G. Cochran (1954) 提出并在[[Meta-analysis\|元分析]]中被作为标准检验手段的经典统计假设检验方法。它通过计算各项初级研究[[Effect Size\|效应量]]与其[[Fixed-Effect Model|固定效应]]加权均值之间的**加权离差平方和**，检验“所有研究估计同一真实效应量”（原假设 $H_0: \theta_1 = \dots = \theta_k = \theta$，即 $\tau^2 = 0$）的同质性假设，判定观察到的研究间差异是纯属[[Sampling Error\|抽样误差]]随机波动，还是存在实质性[[Heterogeneity\|异质性]]。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 38–39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围

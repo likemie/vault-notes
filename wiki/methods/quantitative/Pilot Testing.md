@@ -92,7 +92,7 @@ updated: 2026-10-20
 
 在实证研究全流程中，预测试发挥着将概念构思转化为可靠现场工具的桥梁作用。
 
-> [!def] 试点测试（Pilot Testing）
+> [!def] Pilot Testing
 > 试点测试（Pilot Testing），在实验与基础研究中常称为**预实验（Preliminary Experiments / Pilot Studies）**，在调查与现场观察中亦称实地测试（[[Champ|field]] Testing）或前导测试，是在正式数据收集或大规模项目立项前，使用少量代表性样本对研究材料、实验操纵程序、技术路线或高推论观察量表进行小规模预演的质量控制与可行性验证程序。其核心目的在于投入全部资源之前，经验性识别并排除工具、程序、评分者认知负荷或技术方案中的潜在缺陷（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 8]]）。奥本海姆（Oppenheim, 1992, p. 48）指出：**工具上的一切都应经过预测试，甚至包括版式与印刷质量**（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 178]]）。在高推论工具开发中，预测试更是检验观察员能否可靠驾驭复杂行为量规、诊断评分者认知超载并驱动工具架构重组的决定性阶段（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019, pp. 7, 12, 18]]）。而在科研资助体系中，预实验数据甚至外溢为决定课题能否立项的核心前置资本（[[Argument_Stephan_2013_NBER|Stephan, 2013, p. 28]]）。
 
 ---

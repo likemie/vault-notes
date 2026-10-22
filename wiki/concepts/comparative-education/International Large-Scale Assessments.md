@@ -74,7 +74,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 国际大规模评估（International Large-Scale Assessments）
+> [!def] International Large-Scale Assessments
 > 国际大规模评估（International Large-Scale Assessments，ILSAs）是跨国治理机构（如 [[OECD]]）或国际学术评价组织（如 [[IEA]]）跨越国界开展的周期性、标准化教育测评与[[Questionnaire\|问卷调查]][[Paradigm\|范式]]。它采用高级心理测量学算法（如[[Item Response Theory\|项目反应理论]]与[[Hierarchical Linear Model\|多层线性模型]]）与代表性[[Random Sampling\|概率抽样]]，测查特定学龄或成年受试者在[[21st Century Skills and Competencies Discourse\|核心素养]]上的相对表现，并将数字确立为国家与超国家中介机构之间的通用治理语言。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 537, 541, 543)]]
 
 > [!concept-lens] 概念透镜

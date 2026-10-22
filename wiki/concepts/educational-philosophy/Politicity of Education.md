@@ -71,7 +71,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育的政治性（Politicity of Education）
+> [!def] Politicity of Education
 > 教育的政治性（Politicity of Education，源自葡萄牙语 Politicidade da Educação）是由巴西批判教育家[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）系统阐发、[[Critical Pedagogy|批判教育学]]派广泛继承的[[Ontology|本体论]]命题。它坚决否定将教育研究、课程编制和政策制定视为“客观中立”或“纯粹技术性”的技术官僚主义幻觉，明确指出教育在[[Epistemology|认识论]]、分析和伦理三个维度上不可剥离地内嵌于权力和阶级利益关系之中；学校教育与公共政策从来不是[[Value Neutrality|价值中立]]的真空，而是争夺商品服务分配权、国家认同与政治经济路线主导权的争鸣[[Champ|场域]]（Contested Arenas）。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
 
 > [!concept-lens] 概念透镜

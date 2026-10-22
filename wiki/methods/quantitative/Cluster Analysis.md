@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 聚类分析（Cluster Analysis）
+> [!def] Cluster Analysis
 > **聚类分析（Cluster Analysis）** 是一种无监督多元统计分类方法，旨在依据观测对象在多个特征[[Variable\|变量]]上的相似度或距离测度，将未经标注的[[Heterogeneity\|异质性]]样本划分为若干个互不重叠或层次嵌套的同质子群体（即数据簇）。其核心操作原则在于追求簇内相似度最大化与簇间差异度最大化。在教育治理与学校组织研究中，聚类分析常被用于从复杂的态度[[Questionnaire\|问卷]]或行为调查中识别出具有典型表征的行动者类型学。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 27)]]
 
 > [!method-scope] 方法范围

@@ -36,7 +36,7 @@ created: 2026-07-21
 updated: 2026-10-22
 ---
 
-> [!def] 条件题（Contingency Questions）
+> [!def] Contingency Questions
 > 条件题（Contingency Questions）依赖于对前面问题的回答来决定后续题目是否呈现或如何跳转。前面的问题充当**过滤器（Filter）**，后面的问题是条件性的，是前面问题的**分支（Branch）**。典型形式如"如果你对第（1）题的回答是'是'，请跳至第（4）题"。一些[[Questionnaire\|问卷]]用文字写明跳至的问题号，另一些用箭头指示（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 151–153]]）。
 
 > [!concept-lens] 概念透镜

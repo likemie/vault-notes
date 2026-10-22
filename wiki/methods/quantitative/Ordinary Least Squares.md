@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 普通最小二乘法（Ordinary Least Squares）
+> [!def] Ordinary Least Squares
 > **普通最小二乘法（Ordinary Least Squares，简称 OLS）** 是统计学、计量经济学与实证教育研究中最核心、应用最广泛的参数化线性回归估计方法。该方法以代数投影原理为基础，通过最小化样本观测值[[Dependent Variable\|因变量]]与模型线性预测值之间的残差平方和（Sum of Squared Residuals, SSR），求解使误差达到全局最小的回归参数向量 $\hat{\boldsymbol{\beta}}$。在满足高斯-马尔可夫定理（Gauss-Markov Theorem）的古典线性假定下，OLS 估计量是所有线性无偏估计量中方差最小的最佳线性无偏估计（Best Linear Unbiased Estimator, BLUE）。在[[Randomised Controlled Trials\|随机对照试验]]（RCT）中，引入基线[[Pre-test and Post-test\|前测]]的 OLS 模型（即[[Analysis of Covariance\|协方差分析]] ANCOVA 回归形式）能够大幅吸收个体基线能力变异，是[[Covariate Adjustment\|协变量调整]]的主流基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 
 > [!method-scope] 方法范围

@@ -63,7 +63,7 @@ created: 2026-08-31
 updated: 2026-10-22
 ---
 
-> [!def] 自我调节学习（Self-Regulated Learning）
+> [!def] Self-Regulated Learning
 > 自我调节学习（Self-Regulated Learning, SRL）是指学习者在[[Metacognition\|元认知]]、动机和行为层面上主动参与自身学习过程的动态循环系统。学习者通过设定明确的学业目标、选择并实施适切的认知策略、持续监控任务进展与理解状态，并依据反馈对心智操作和外部行为做出适应性调整。在人工智能介入的学习环境中，自我调节学习是发挥“风险中和”功能、决定学生能够将技术作为[[Scaffolding\|认知脚手架]]批判性审视其输出，还是滑向被动顺从与[[Cognitive Offloading\|认知外包]]的核心调节机制。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 7)]]；[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 > [!concept-lens] 概念透镜

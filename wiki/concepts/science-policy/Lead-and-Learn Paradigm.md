@@ -63,7 +63,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 引领与学习范式（Lead-and-Learn Paradigm）
+> [!def] Lead-and-Learn Paradigm
 > **引领与学习[[Paradigm|范式]]（Lead-and-Learn Paradigm / Lead-and-Learn Approach）** 是指一种旨在应对 21 世纪重大社会挑战的新型公共创新治理范式。该范式由雷纳·[[Rainer Kattel|卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）系统确立，旨在彻底替代自 1980 年代以来受[[New Public Management|新公共管理]]（New Public Management, NPM）主导的“支持并测量”（Support-and-Measure）范式。引领与学习范式主张：国家与公共部门不应局限于事后寻找[[Market Failure|市场失灵]]并运用孤立工具进行单点被动补贴（Support），更不能依赖狭隘的短期[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA）与量化控制指标进行机械考核（Measure）；相反，公共机构必须在宏观上展现战略前瞻性与政治决断力，主动开辟并塑造具有开放前景的新市场（Lead），同时在微观和中观上构建涵盖跨界实验、敏捷迭代、用户共创与制度化反思的组织学习机制（Learn）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 
 > [!concept-lens] 概念透镜

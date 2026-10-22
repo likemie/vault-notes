@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 题目功能差异（Differential Item Functioning）
+> [!def] Differential Item Functioning
 > **题目功能差异（Differential Item Functioning, DIF）**（亦称项目功能差异或题目功能偏侧）是心理测量学、测验编制与大规模教育评估中用于识别测验题目潜在偏差（Item Bias）的核心统计技术。当来自不同人口统计学、文化或语言背景的被试群体（通常划分为焦点组 Focal Group 与参照组 Reference Group），在被测潜在特质能力水平完全相等的条件下，对某一道测验题目的答对概率或得分期望值仍存在统计学上的显著差异时，即判定该题存在题目功能差异。DIF 表明题目测量了目标[[Construct|构念]]之外的多余无关维度（Construct-Irrelevant Variance），是评价测验公平性、检验跨国测评[[Space of Equivalence|等值空间]]真实性及保障[[Cross-cultural Validity|跨文化效度]]的技术防线。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]; [[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
 
 > [!method-scope] 方法范围

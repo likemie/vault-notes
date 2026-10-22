@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 公学运动（Common School Movement）是指 19 世纪前中期（约 1830 年代至 1860 年代）在美利坚合众国爆发的一场波澜壮阔的公共教育奠基运动。该运动旨在打破传统的宗教宗派慈善救济办学与富人私人学堂的阶级割裂，建立面向全体平民子弟、由公共税收供养、受地方公众共同管理、完全免收学费，并贯彻无宗派普遍伦理道德的公立初等学校体系。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 31–32)]]
 
-> [!def] 公学运动（Common School Movement）
+> [!def] Common School Movement
 > 公学运动是 19 世纪美国在“共和教育世纪”中确立自由民主政治制度生命线的关键改革。它主张全民普及初等教育是维系共和政体免于专制与愚昧退化的本体基石，并通过吸收欧洲大陆（尤其是普鲁士）的专业师范与人道教学经验，将外国实绩转译为击退国内保守势力阻抗的合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 31–34)]]
 
 > [!concept-lens] 概念透镜

@@ -60,7 +60,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 民族复兴叙事（National Rejuvenation Narrative）
+> [!def] National Rejuvenation Narrative
 > 民族复兴叙事（National Rejuvenation Narrative，主要表现为“[[Zhonghua Minzu|中华民族]]伟大复兴”政治[[Discourse|话语]]）是中国当代内政哲学与对外战略中的主导性历史叙事与意识形态[[Construct|构念]]。在[[Critical Discourse Analysis|批判性政策话语分析]]（Critical [[Discourse Analysis]], CDA）视域下，该叙事与[[Century of Humiliation|百年屈辱]]（Hundred Years of Humiliation）历史创伤叙事构成镜像孪生关系，以近代列强侵略至1949年中华人民共和国成立的历史为对照基准，将经济持续高增长、两个一百年奋斗目标与大国地位重构确立为弥补历史不公的必然路径。在跨国政策与[[Education Going Global|教育出海]]实践中，该叙事赋予国家主导的对外资源整合与全球治理参与以深层的历史合法性与文明复归修辞。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
 > [!concept-lens] 概念透镜

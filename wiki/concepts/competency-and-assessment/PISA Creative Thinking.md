@@ -59,7 +59,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] PISA创造性思维（PISA Creative Thinking）
+> [!def] PISA Creative Thinking
 > **[[PISA]] [[Creativity|创造性思维]]（PISA Creative Thinking）** 是[[OECD|经济合作与发展组织]]（OECD）在 2022 年国际学生评估项目（[[PISA]]）中正式确立并实施的跨学科前沿评估[[Construct|构念]]。该框架将创造性思维界定为个体在面对复杂问题与表达需求时，能够产生多样化构想（Generating Diverse Ideas）、产生新颖且原创构想（Generating Creative/Original Ideas），以及对既有构想进行批判性评估与迭代改进（Evaluating and Improving Ideas）的胜任力组合。这一测评脱离了传统心理学对个体内在特质或“天才创造力”（Big-C）的精英化假设，转向考察在义务教育阶段人人皆可发展的“日常创造力”（Little-c），关注学生将创造性构想运用于书面交流、视觉艺术、社会日常挑战及科学探索情境中的实际表现。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-scope] 概念范围

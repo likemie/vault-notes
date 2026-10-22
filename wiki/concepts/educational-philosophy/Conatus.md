@@ -36,7 +36,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 欲力（Conatus）
+> [!def] Conatus
 > 欲力（conatus，常译为自我保存的努力、生机）是[[Baruch Spinoza\|斯宾诺莎]]主义哲学的核心概念，指实体或个体倾向于持续存在并保存自我（persist in being）的内在力量与挣扎。在教育哲学语境中，它被转译为一种指向学生内在无意识情感（unconscious affects）与主体欲望的[[Learner Autonomy\|自主学习]]驱动力。它主张真正的学习发生在内在情感变动之中，而非受到外部理性或社会契约的强制规训。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 
 > [!concept-lens] 概念透镜

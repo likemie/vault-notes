@@ -88,7 +88,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 死亡之谷（Valley of Death）
+> [!def] Valley of Death
 > **死亡之谷（Valley of Death）** 指技术创新与商业化过程中，从学术实验室的基础研究成果与原理验证阶段向规模化产业应用与市场扩散过渡时面临的关键断裂期。在此阶段，技术成果通常已突破概念验证（[[Technology Readiness Level|TRL]] 3），但尚未达到可吸引传统私人风险资本或产业伙伴进行大规模商业化投产的成熟度（TRL 7），致使大量极具潜力的前沿科技在学术界与产业界之间的制度缝隙中停滞甚至夭折。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8, 11)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
 
 > [!concept-lens] 概念透镜

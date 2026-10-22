@@ -52,7 +52,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 故事线（Story Line）
+> [!def] Story Line
 > 故事线（Story Line）是质性数据分析中将离散编码、碎片化文本与局部主题系统[[Assemblage\|组装]]为具时序性、情境性与因果演进逻辑的解释性叙事架构。该概念主要植根于两大经典方法论传统：
 > 1. 在[[Grounded Theory\|扎根理论]]的[[Selective Coding|选择性编码]]中，故事线是对所研究[[Central Phenomenon\|核心现象]]及其显著特征的描述性总览，是催生统摄性核心范畴并实现高阶理论整合的关键跳板（Strauss & Corbin, 1990; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）；
 > 2. 在质性描述性主题分析中，故事线是指突破孤立主题清单列举、将各主题相互串联以呈现问题发展编年史的解释性叙事链条（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 209]]）。

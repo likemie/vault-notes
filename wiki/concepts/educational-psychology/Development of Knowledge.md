@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 知识的发展（Development of Knowledge）
+> [!def] Development of Knowledge
 > [[Development of Knowledge\|知识的发展]]（Development of Knowledge）是[[Epistemic Cognition\|认识论认知]]中关于“知识性质”（[[Epistemology\|nature of knowledge]]）维度的核心[[Construct\|构念]]，指个体认识到科学与人类知识并非一成不变的客观教条，而是随着新证据出现、理论[[Paradigm\|范式]]革新和共同体探究而处于持续演进、修正与动态建构之中的信念。在[[Meta-analysis\|元分析]]实证中，它是预测[[Academic Achievement\|学业成就]]效力最强、最稳健的单一[[Epistemology\|认识论]]构念。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, p. 1097)]]
 
 > [!concept-lens] 概念透镜

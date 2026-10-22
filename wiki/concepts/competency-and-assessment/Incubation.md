@@ -58,7 +58,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 孕育效应（Incubation）
+> [!def] Incubation
 > 孕育效应（Incubation Effect），又称孵化效应或酝酿效应，是指个体在面临复杂劣构难题陷入僵局时，暂时中断或搁置有意识的直接专注思考，转向休息、散步或从事与原任务无关的轻度认知活动，随后在无意识加工、心理定势消退或环境偶发线索触发下，产生突发性顿悟灵感（Illumination）与[[Creativity\|创造性]]解决方案的心理现象。由格雷厄姆·沃拉斯（Graham Wallas, 1926）在其奠基性的创造力四阶段模型（准备—孕育—豁朗—验证）中正式界定，并在当代认知心理学、[[Creativity Training\|创造力干预]]及[[Meta-analysis\|元分析]]研究中被量化证实为一种普遍稳健的心智优化机制。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3, 10)]]; Wallas (1926); Sio and Ormerod (2009)
 
 > [!concept-lens] 概念透镜

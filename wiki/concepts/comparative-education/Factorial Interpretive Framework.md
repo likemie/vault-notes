@@ -83,7 +83,7 @@ updated: 2026-10-22
 
 因素解释框架（Factorial Interpretive Framework）是 20 世纪前半叶比较教育学历史-哲学传统的核心分析[[Paradigm|范式]]，奠定了历史学派系统解释国家教育制度起源、独特性与演进动力的[[Epistemology|认识论]]基础：
 
-> [!def] 因素解释框架（Factorial Interpretive Framework）
+> [!def] Factorial Interpretive Framework
 > **因素解释框架（Factorial Interpretive Framework）**，亦称**因素分析法（Factorial Analysis in Comparative Education）**，是由俄裔英国比较教育学家[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）于 1949 年集大成确立的比较分析范式。该框架将国民教育体系界定为深嵌于民族历史与[[National Character\|国民性格]]中的活态有机体，主张比较教育的核心使命在于：从历史视角系统分离并分析塑造民族国家相貌（Physiognomy）与精神传统的恒久结构性力量（自然、宗教与世俗因素），进而跨国比照各因素在制度演进中的功能互动，以及各国应对衍生问题所尝试的制度解决方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 49–51; Hans, 1949, pp. 9–11)]]
 
 该概念为理解经典比较教育学如何从浅层经验借用迈向系统因果解释提供了核心分析透镜：

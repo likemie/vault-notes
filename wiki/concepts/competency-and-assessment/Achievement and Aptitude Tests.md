@@ -31,7 +31,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 成就测验与能力倾向测验（Achievement and Aptitude Tests）
+> [!def] Achievement and Aptitude Tests
 > 成就测验（achievement test）测量在特定内容领域中**已实现**的表现，多为总结性，通常与教学大纲和学校经历紧密关联（Gronlund, 1985）。能力倾向测验（aptitude test）旨在**预测**个体的能力、成就潜力、学习潜力和未来成就，测量更一般化的跨学科能力，涵盖校外学习和更广泛的经验（Gronlund, 1985; Hanna, 1993）。但 Cunningham（1998）质疑这两个[[Construct\|构念]]是否真的可以分开——在实践中，二者的区分可能是表面的（cosmetic）而非实质的。
 
 > [!concept-lens] 概念透镜

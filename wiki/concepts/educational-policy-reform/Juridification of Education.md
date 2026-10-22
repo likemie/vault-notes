@@ -42,7 +42,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育司法化（Juridification of Education）
+> [!def] Juridification of Education
 > 教育司法化（Juridification of Education / Juridification of Schooling）指法律框架、成文法条约束、司法审查程序以及行政制裁机制向学校教育制度与微观日常生活的结构性扩张与深度渗透。在教育治理语境中，该过程表现为国家逐步将教学质量、课程设置、德育规范与师生互动，全部转化为具有严格法律拘束力、可诉讼维权且可实施经济或行政处罚的法定权利与法定义务，使法律的形式理性全面取代或重塑教育的专业性与教育学自由度。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648)]]
 
 > [!concept-lens] 概念透镜

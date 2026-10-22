@@ -40,7 +40,7 @@ created: 2026-07-12
 updated: 2026-10-22
 ---
 
-> [!def] 重复测量设计（Repeated Measures Design）
+> [!def] Repeated Measures Design
 > 重复测量设计（Repeated Measures Design）是[[True Experimental Design\|真实验设计]]的变体：同一组受试者在**两种或多种实验条件**下接受测试，同一人可能接受不止一种干预（可能包含或不包含控制条件）。这是[[Matched Pairs Design\|配对设计]]的变体，具有显著的控制潜力——**完全相同的人**接受不同干预，彻底消除了所有个体差异混淆（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, pp. 325–326]]）。
 
 > [!method-scope] 方法范围

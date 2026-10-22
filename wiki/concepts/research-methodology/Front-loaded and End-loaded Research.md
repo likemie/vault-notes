@@ -40,7 +40,7 @@ created: 2026-06-21
 updated: 2026-10-22
 ---
 
-> [!def] 前载型研究（Front-loaded and End-loaded Research）
+> [!def] Front-loaded and End-loaded Research
 > 前载型研究（front-loaded research）指设置阶段耗时较长（如开发、试点和测试工具），但数据收集后处理和分析较快的研究类型。后载型研究（end-loaded research）指设置和开始可能不太耗时，但数据收集和分析可能需要更长时间的研究类型。两者之间的区别在于研究各阶段的时间分布特征（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.124–126]]）。
 
 > [!concept-lens] 概念透镜

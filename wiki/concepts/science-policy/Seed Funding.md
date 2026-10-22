@@ -53,7 +53,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 种子资助（Seed Funding）
+> [!def] Seed Funding
 > **种子资助（Seed Funding / Strategic Seeding）** 在科技政策与高等教育科研资助中包含微观项目与宏观制度两个层面的功能：
 > 1. **微观概念验证种子资助** 指公共研发机构（如 [[DARPA]]）、基金会或风险资本在学者尚未产出大量成熟数据或同行评议论文之前，基于初步概念验证（[[Proof of Concept Programs|proof of concept]]）快速拨付的小额、灵活、低行政负担的早期启动资金，承担高风险探索的催化剂功能。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140, 1142)]]
 > 2. **宏观机构培育种子资助** 指国家科研资助机构（如 [[National Science Foundation|NSF]]）为新建跨学科[[University-Industry Collaboration|产学合作]]实体（如 [[Engineering Research Centers|ERC]]）提供的核心启动引导资金（通常占中心总预算的 30% 左右），通过绑定杠杆配比要求与刚性[[Sunset Provisions|日落条款]]，倒逼中心在培育期内对接产业市场建立自主造血机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 368–369, 374)]]

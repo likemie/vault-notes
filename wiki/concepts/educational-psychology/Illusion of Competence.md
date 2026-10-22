@@ -49,7 +49,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 能力错觉（Illusion of Competence）
+> [!def] Illusion of Competence
 > 能力错觉（Illusion of Competence / Illusion of Knowing）是指学习者或认知主体在学习与[[Problem Solving\|问题解决]]过程中，因**外部线索的即时可得性、材料呈现的清晰性或文本表层语义的极度流畅性**，产生的一种严重的[[Metacognition\|元认知监控]]偏差，错误地将“容易理解、阅读顺畅或有现成答案可用”误判为“自己已经真正掌握、能够独立推导并内化了深层知识图式”。[[Argument_Li_2026_CEAI\|(Bjork et al., 2013; Li et al., 2026, pp. 2, 8, 10)]]
 
 > [!concept-lens] 概念透镜

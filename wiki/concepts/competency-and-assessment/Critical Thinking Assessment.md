@@ -100,7 +100,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 批判性思维测评（Critical Thinking Assessment）
+> [!def] Critical Thinking Assessment
 > [[Critical Thinking\|批判性思维]]测评是对个体在澄清问题、分析论证、评价证据、推导结论、说明理由与自我调节等[[Higher-Order Thinking Skills\|高阶认知技能]]以及求真、开放、探究与理性反思等情意倾向进行[[Operationalization\|操作化]]测定、实证表征与促学反馈的系统化评价过程。它涵盖心理测量学客观测试、主观自陈倾向调查、情境化表现任务与课程嵌入式真实性评分量规等多元技术路径，旨在诊断学生高级思维发展水平、衡量教育干预的纵向[[Learning Gain\|学习增益]]并检验课程教学与评价任务的[[Construct Validity\|构念效度]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 21–28)]] [[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 4–5)]] [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31–35)]]
 
 > [!concept-lens] 概念透镜

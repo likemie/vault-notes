@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 教育研究复现（Replication in Education Research）
+> [!def] Replication in Education Research
 > 教育研究复现（Replication in Education Research）是指由独立研究团队在不同时间、地区、学区生态或学生群体中，严格依照原方案教学规程或概念逻辑重新实施并评估同一教育干预的方法学过程。其核心功能在于检验早期发现的真实性，剥离小样本聚类假阳性、开发者主观期望与特定单一学区的地方性微观生态干扰，确立干预方案在真实世界中的外部概化效度。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 26–27)]]
 
 > [!concept-lens] 概念透镜

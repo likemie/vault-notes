@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 小提琴图（Violin Plot）
+> [!def] Violin Plot
 > **小提琴图（Violin Plot）** 是一种用于呈现连续数值型[[Variable\|变量]]概率分布与汇总统计量的定量数据可视化方法，由杰里·欣策与雷·纳尔逊（Hintze & Nelson, 1998）正式提出。该方法在传统箱线图（Box Plot）的基础上，沿中心对称轴融合了连续变量的平滑双侧**核密度估计（Kernel Density Estimation, KDE）**，能够在紧凑的空间中同时展示数据的集中趋势（中位数）、离散程度（四分位距与极值）以及潜在的多峰（Multimodal）、偏态（Skewness）与厚尾形态。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 15–16)]]
 
 > [!method-scope] 方法范围

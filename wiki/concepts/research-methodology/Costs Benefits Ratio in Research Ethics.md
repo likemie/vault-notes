@@ -30,7 +30,7 @@ created: 2026-06-19
 updated: 2026-10-22
 ---
 
-> [!def] 成本收益比（Costs Benefits Ratio in Research Ethics）
+> [!def] Costs Benefits Ratio in Research Ethics
 > 成本/收益比是社会研究中表达基本伦理困境的根本概念。在规划研究时，研究者必须权衡研究的可能社会收益与参与个体付出的个人成本。这一平衡过程主要是主观的，几乎不存在绝对标准（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 75–76]]）。
 
 > [!concept-lens] 概念透镜

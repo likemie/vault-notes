@@ -50,7 +50,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 随迁儿童（Migrant Children）
+> [!def] Migrant Children
 > 随迁儿童（Migrant Children，在中国政策语境中全称“进城务工人员随迁子女”，常与“流动儿童”互用）指未成年学龄人口中，户籍登记在农村或其他外地管辖区，但跟随进城务工就业的父母一同迁徙、在流入地城镇共同居住生活的儿童与青少年。在中国独特的社会转型背景下，随迁儿童构成了受制于城乡二元[[Hukou System|户籍制度]]（户口制度）的特殊受教育群体，其求学过程深刻交织着国家行政壁垒、城市财政分权与空间治理调控。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 364–365)]]; Liang and Chen (2007)
 
 > [!concept-lens] 概念透镜

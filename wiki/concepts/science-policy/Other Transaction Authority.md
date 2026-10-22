@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ---
 
-> [!def] 其它交易授权（Other Transaction Authority）
+> [!def] Other Transaction Authority
 > **其它交易授权（Other Transaction Authority, OTA / Other Transaction Agreement）** 是指美国国会通过专门立法赋予特定联邦科学与国防机构（如国防部、[[National Aeronautics and Space Administration|国家航空航天局]]与能源部）的法定订约特权，允许机构在开展基础研发、前沿技术原型试制及后续生产转化时，合法豁免于繁琐僵化的《联邦采购条例》（Federal Acquisition Regulation, FAR）及常规政府合规审查法规限制，直接依据灵活的商业条款、知识产权协商机制与里程碑阶段付费方式订立契约。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 41)]]
 
 > [!concept-lens] 概念透镜
