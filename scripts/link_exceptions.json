@@ -191,6 +191,10 @@
     {
       "sentence": "解释学术界（慢车道）与决策界（快车道）在激励机制、时间节奏、语言体系与价值取向上的结构性异质性。",
       "target": "wiki/concepts/research-methodology/Heterogeneity.md"
+    },
+    {
+      "sentence": "**中介网络入场填补认知鸿沟** 教育政策学者克里斯托弗·卢宾斯基（Christopher Lubienski, 2019）指出，在学术研究生产与政府政策制定之间的巨大鸿沟中，涌现出大量咨询公司、智库与基金会等中介网络。",
+      "target": "wiki/concepts/educational-philosophy/Emergence.md"
     }
   ]
 }
