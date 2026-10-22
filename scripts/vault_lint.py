@@ -1380,8 +1380,8 @@ def check_old_references(path: Path, text: str, issues: List[Issue]) -> None:
 
 
 def check_effect_tables(path: Path, text: str, issues: List[Issue]) -> None:
-    """新结构实证表格（含“效应值”列）：指标白名单、数值格式、效应条一致性。见 scripts/effect_table.py。"""
-    if "效应值" not in text:
+    """实证表格：指标白名单、数值格式、效应条一致性；新增行必须有数据。见 scripts/effect_table.py。"""
+    if "table-marker" not in text:
         return
     try:
         sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -1389,7 +1389,11 @@ def check_effect_tables(path: Path, text: str, issues: List[Issue]) -> None:
     except Exception as e:  # pragma: no cover
         issues.append(Issue("WARN", rel(path), f"effect_table.py unavailable: {e}", code="EFFECT_TABLE_TOOL"))
         return
-    for q in lint_file(path, text):
+    try:
+        head_text = subprocess.run(["git", "show", f"HEAD:{rel(path)}"], capture_output=True, text=True, cwd=str(ROOT)).stdout
+    except Exception:
+        head_text = ""
+    for q in lint_file(path, text, head_text):
         issues.append(Issue(q.sev, rel(path), q.msg, line=q.line, code=q.code))
 
 

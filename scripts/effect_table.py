@@ -254,11 +254,59 @@ def process(text: str, write: bool) -> Tuple[str, List[Problem]]:
                         "效应条缺失或与数值不符；运行 python3 scripts/effect_table.py --write <文件>（不要手写效应条）"))
     return "\n".join(lines), probs
 
-def lint_file(path: Path, text: str) -> List[Problem]:
-    """供 vault_lint.py 调用。"""
-    if "效应值" not in text or "/templates/" in str(path).replace("\\", "/"):
+# ---------------------------------------------------------------- 无数据行
+ALL_MARKERS = dict(MARKERS, **{"concept-other-empirical-table-marker": "other"})
+RES_COL = re.compile(r"组别统计|效应值|效应量|汇总效应|原始统计|统计结果|显著|不确定|检验|关键结果|结果|发现|CI")
+DATA = re.compile(r"\d|[一二两三四五六七八九十百千万几]+\s*(倍|成(?![为功果立员本绩就熟形型长])|个百分点|分之)|翻倍|翻番|半数|过半|一半")
+
+def _strip_refs(s: str) -> str:
+    s = re.sub(r'<span class="[^"]*"[^>]*>(?:<span[^>]*></span>)?</span>', "", s)
+    s = re.sub(r"\[\[[^\]|]*\\?\|([^\]]*)\]\]", r"\1", s)
+    s = re.sub(r"\[\[[^\]]*\]\]", "", s)
+    s = re.sub(r"\bpp?\.\s*\d+(?:\s*[–—-]\s*\d+)?(?:\s*[,，、;；]\s*\d+(?:\s*[–—-]\s*\d+)?)*", "", s)
+    s = re.sub(r"\b(1[89]|20)\d\d[a-z]?\b", "", s)
+    return s
+
+def nodata_rows(text: str) -> List[Tuple[int, str]]:
+    """实证表格中结果栏没有任何数据的行：(行号, 行文本)。"""
+    lines = text.split("\n"); out = []; i = 0
+    while i < len(lines):
+        if lines[i].startswith("> [!"):
+            j = i + 1
+            while j < len(lines) and lines[j].startswith(">"):
+                j += 1
+            blk = "\n".join(lines[i:j]); kind = next((v for k, v in ALL_MARKERS.items() if k in blk), None)
+            rows = [k for k in range(i, j) if lines[k].startswith("> |")]
+            if kind and len(rows) >= 3:
+                H = split_cells(lines[rows[0]])
+                first = _strip_refs(H[0])
+                if kind != "other" or re.search(r"研究|文献|来源|调研|项目|监测", first):
+                    rc = [n for n, h in enumerate(H) if n > 0 and RES_COL.search(h)] or list(range(1, len(H)))
+                    for r in rows[2:]:
+                        c = split_cells(lines[r])
+                        if len(c) != len(H): continue
+                        res = " ".join(_strip_refs(c[n]) for n in rc if n < len(c))
+                        if "见亚组表" in res: continue
+                        if not DATA.search(res): out.append((r + 1, lines[r]))
+            i = j
+        else:
+            i += 1
+    return out
+
+def lint_file(path: Path, text: str, head_text: str = None) -> List[Problem]:
+    """供 vault_lint.py 调用。head_text 为 HEAD 版本；已存在于 HEAD 的无数据行不报。"""
+    p = str(path).replace("\\", "/")
+    if "/templates/" in p or "table-marker" not in text:
         return []
-    return process(text, write=False)[1]
+    probs = process(text, write=False)[1] if "效应值" in text else []
+    if "/arguments/" not in p and "Argument_" not in p.split("/")[-1]:
+        old = set(head_text.split("\n")) if head_text else set()
+        for ln, row in nodata_rows(text):
+            if row in old: continue
+            probs.append(Problem("ERROR", ln, "EMPIRICAL_NO_DATA",
+                "实证表格只写有数据的结果：这一行的结果栏没有数值、比例、计数或统计量。"
+                "质性结论、政策文本归纳、仅有样本量的文字结论改写进正文或“相关研究”，或回原文补上数据"))
+    return probs
 
 def iter_targets(args: List[str]) -> List[Path]:
     if args:
