@@ -477,4 +477,5 @@ updated: 2026-10-22
 > - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 基于跨领域 112 篇文献的[[Systematic Review|系统综述]]提出 QURE 框架，以适切证据与审慎实施为核心构件、个体-组织-系统三层使能，推动从是否采纳转向使用质量。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被[[Performativity|表演性]]利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为个案，追踪研究如何被选择、转译为常规督导评估领域，在质量审计中被协商并于定稿前被重写，揭示组织权力与规程文本化。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024)]] — 针对可持续发展目标 4 提出产品型、关系型与系统型三条证据利用变革路径，借助公共卫生对照揭示研究与决策、全球与本土之间的双重反馈回路断裂，并确立区域枢纽治理架构。
 

@@ -191,4 +191,5 @@ updated: 2026-10-22
 > | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 在学科史演进中高度赞誉其在口述史方法上的先锋探索，主张将口述史与概念化研究相结合以抢救学会和学者的隐性历史记忆。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理[[Champ\|场域]]的重塑。 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
+| [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024)]] | 主持教科文组织战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
 

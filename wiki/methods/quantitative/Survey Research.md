@@ -301,3 +301,4 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 75–102)]] — 基于 29 国 37 个教育系统的政策调查，量化比较各类组织在研究生产与促成中的活跃度、网络规模、[[Embedded Researcher\|嵌入式研究者]]等角色与激励机制。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, pp. 103–124)]] — 基于 29 国 37 个教育系统的调查与 6 国访谈，比较促进[[Research Utilization\|研究利用]]的 11 类机制与 13 类障碍，揭示两者错配。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b, pp. 182–199)]] — 基于[[Monash Q Project\|莫纳什 Q 项目]]对澳大利亚 906 名教育工作者的两轮调查，发现质量判断信心、专业学习支持与研讨时间同研究使用显著相关。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024)]] — 针对 103 国 898 名跨部门教育政策利益相关者开展 6 种联合国语言的多语种网络调查，摸底 654 个证据平台与机构，识别可持续发展目标 4 各子目标的实证支撑失衡及全球北方平台的垄断格局。
