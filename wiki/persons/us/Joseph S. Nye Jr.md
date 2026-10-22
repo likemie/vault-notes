@@ -8,7 +8,7 @@ summary: "美国著名国际关系理论家、新自由制度主义奠基人之�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high
 status: draft
 created: 2026-10-08
@@ -100,11 +101,12 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论路径** 开创了国际关系学界的非物质权力研究纲领，引发关于[[Cultural Diplomacy|文化外交]]、[[Knowledge Diplomacy|知识外交]]及量化规制（[[Soft Power by Hard Facts]]）的广泛学术探讨。
 > - **政策路径** 直接影响了美欧及新兴大国外交与公共外交战略编制，促使“国家品牌塑造”、“跨国教育交流”与“语言推广机构”成为大国外交政策的战略核心。
-> - **跨学科传播** 被比较教育学、全球治理与发展研究深度吸纳；如国际发展智库 AidData 在评估大国跨国影响力时，将教育援助项目、留学生全额奖学金、重点高校全英文课程与孔子学院网络全面纳入奈氏软实力的实证测量指标体系。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14, 20)]]
+> - **跨学科传播** 被比较教育学、全球治理与发展研究深度吸纳；如智库 AidData 将教育援助、全额奖学金与语言网络纳入实证指标体系[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14, 20)]]；而在非西方大国外交实践中，奈氏范式被制度化重塑为护卫文化主权的防御性软实力（ruan shili）与自上而下推动对外大战略的进取性软权力（ruan quanli）双重构型[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 74–76)]]。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp and Zamiska (2025)]] — 结合美国科技与防务战略，反思脱离硬实力支撑而单方面夸大软实力自足性所导致的[[Winner's Fallacy|赢家谬误]]。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 运用约瑟夫·奈的软实力理论，全景测度中国在南亚与中亚 13 国通过教育援助、留学生奖学金、全英文授课与孔子学院构建社会纽带的战略成效与转化困境（pp. 14, 20, 72–75）。
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 考察中国对约瑟夫·奈软实力理论的本土化重塑，揭示防御性文化软实力（ruan shili）与进取性国家软权力（ruan quanli）的制度分化，以及高教外交在东南亚面临的地缘安全转化阻滞（pp. 73–78, 85–86）。
 
 ---
 
@@ -128,10 +130,17 @@ updated: 2026-10-22
 > >
 > > - **经典软实力假设** 假定外国受众因被大国生活方式与制度价值观吸引而自发产生政治好感与价值认同。
 > > - **[[Argument_Custer_2021_AidData|Custer et al. (2021)]]** 基于南亚与中亚政策精英民调实证指出，青年学习外语与赴华留学的核心动力是“收入溢价”与经贸就业机会等物质功利预期，而非内在文化价值观认同；当大国外交政策与本土利益发生冲突时，教育交流带来的实用收益难以转化为深层战略信任。
+>
+> > [!axis] 西方自由吸引力范式 vs 国家主导的战略工具化
+> > 围绕软实力是源于公民社会与多元文化的自发吸引，还是可由国家机器直接主导并工具化运作展开理论辩论。
+> >
+> > - **奈氏传统范式** 强调软实力高度依托公民社会、大众文化与自由价值观的自发吸引力，国家直接干预往往削弱其可信度与外部认同。（Nye, 2004）
+> > - **[[Argument_Velasco_2022_CSJ|Velasco (2022)]]** 呈现非西方大国对该理论的结构性重塑，指出中国将软实力重构为由执政党与政府自上而下集中动员的战略工具，依托境外独立校区、留学生定向招收与文化机构网络服务国家大战略（pp. 74–76, 83–85）。
 
 > [!critique] 批评索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp and Zamiska (2025)]] — 批判后冷战时期西方决策界过度沉迷于软实力诱惑，忽视了关键工业制造基础与硬性防务威慑的萎缩。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 揭示教育软实力投入在转化为民意好感时面临“转化悖论”（Conversion Dilemma）：在遭遇驻在国民族认同、地缘军事对峙与国家安全审查时，大规模教育投入难以消除政治戒备与信任赤字。
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 批评奈氏传统范式带有守成霸权国的西方中心预设，忽视非西方国家在护卫文化主权与主动拓展地缘利益时的制度建构，并实证指出教育公共外交投入难以化解周边国家因领土争端而产生的深层安全疑虑（pp. 74–75, 85–86）。
 
 > [!warning] 未解问题与边界
 > 在数字地缘政治与逆全球化浪潮中，软实力的测量长期面临“资源投入与受众行为结果脱节”的方法论难题；如何有效区分基于经贸利益的实用算计与真正的价值认同同化，并解释文化教育软实力在遭遇地缘军事危机时的脆弱性与快速贬值，构成了软实力理论亟待深化的核心边界。
