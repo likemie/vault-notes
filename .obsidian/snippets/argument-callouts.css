@@ -22617,3 +22617,30 @@ body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > 
 }
 body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li:last-child { border-bottom: 0; }
 body .callout.callout.callout[data-callout="metax-errata"] > .callout-content > ul > li > strong { color: rgb(190, 112, 34); font-weight: 650; }
+/* 12b · MetaX 细化：计数并入眉标行；总览表紧凑、数字列右对齐 */
+body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner {
+  font-size: .72rem !important; color: var(--ac-muted, var(--text-muted)) !important; line-height: 1.5;
+}
+body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title .callout-title-inner::before {
+  display: inline-block !important; margin: 0 .55rem 0 0 !important; font-size: .62rem !important; vertical-align: baseline;
+}
+body .callout.callout.callout:is([data-callout="metax-ma"], [data-callout="metax-errata"]) > .callout-title { margin-bottom: .55rem; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content :is(th, td) { padding: .45rem .5rem !important; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content td:nth-child(3) { min-width: 9em !important; }
+body .callout.callout.callout[data-callout="metax"] > .callout-content th:nth-child(n+4)::before { display: block; text-align: right; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(n+3)::before { text-align: right; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content :is(td, th):nth-child(3) { text-align: right; }
+body .callout.callout.callout[data-callout="metax"] .callout[data-callout="metax-ma"] > .callout-content th:nth-child(7)::before { text-align: center; }
+/* 12c · 覆盖通用“≥6 列表格每格 min-width 6.5em”规则，让 MetaX 表按内容收窄 */
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td),
+body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) {
+  min-width: 0 !important; max-width: none !important; width: auto !important;
+}
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(3) { min-width: 9em !important; }
+body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { min-width: 11em !important; }
+body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(2) { min-width: 8em !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:is(:nth-child(1), :nth-child(2), :nth-child(3)),
+body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) td:is(:nth-child(1), :nth-child(2)) { white-space: normal !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { min-width: 6em !important; }
+body .callout.callout.callout[data-callout][data-callout="metax"] > .callout-content :is(table):has(th:nth-child(6)),
+body .callout.callout.callout[data-callout][data-callout="metax-ma"] > .callout-content :is(table):has(th:nth-child(6)) { width: 100% !important; min-width: 0 !important; }
