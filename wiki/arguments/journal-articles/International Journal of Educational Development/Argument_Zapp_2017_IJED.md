@@ -45,6 +45,7 @@ related_theories:
   - "[[Educational Governance Framework]]"
   - "[[World Society Theory]]"
   - "[[Human Capital Theory]]"
+  - "[[Three Pillars of Institutions]]"
 related_methods:
   - "[[Secondary Analysis]]"
   - "[[Trend Study]]"
@@ -54,9 +55,11 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Ralph Waldo Emerson]]"
+  - "[[James Wolfensohn]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
@@ -65,6 +68,9 @@ related_facts:
   - "[[CORE Education]]"
   - "[[Science Media Centre]]"
   - "[[Chinese Academy of Sciences]]"
+  - "[[African Virtual University]]"
+  - "[[World Bank Institute]]"
+  - "[[Open Knowledge Repository]]"
 related_arguments: []
 sources:
   - "[[sources/Zapp_2017_IJED/Zapp_2017_IJED|Zapp_2017_IJED]]"
@@ -78,7 +84,7 @@ title: "Argument_Zapp_2017_IJED"
 argument_key: "Argument_Zapp_2017_IJED"
 argument_display_title: "The World Bank and education: Governing (through) knowledge"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -97,9 +103,9 @@ issuing_organization: ""
 > [[World Bank|世界银行]]已从战后初期的硬通货放贷实体与物理基础设施资助方，演进为全球最重要的教育研究生产中心、知识集散地与跨国基准设定者；其依托[[Knowledge Production|知识生产]]（资助、开展与发表研究）、知识管理（汇聚知识与标准化指标）与知识传播（分发、培训、项目落地与礼仪性赞誉）三重机制所实施的[[Epistemic Governance|认知治理]]（Epistemic Governance），在深层重构了全球教育政策议程与科学知识生产图景。（pp. 1–2, 9–10）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 世界银行自 1944 年创立至 2014 年间的教育信贷投资序列、发展经济学研究局（Development Economics Vice Presidency, DEC）、出版物组合、开放知识库（Open Knowledge Repository, OKR）、[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results, SABER）政策诊断工具、就业与生产力技能项目（Skills Toward Employment and Productivity, STEP）测评项目及全球项目外联网络。（pp. 1–5）
+> - **对象** 世界银行自 1944 年创立至 2014 年间的教育信贷投资序列、发展经济学研究局（Development Economics Vice Presidency, DEC）、出版物组合、[[Open Knowledge Repository|开放知识库]]（Open Knowledge Repository, OKR）、[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results, SABER）政策诊断工具、[[Skills Toward Employment and Productivity|就业与生产力技能项目]]（Skills Toward Employment and Productivity, STEP）测评项目及全球项目外联网络。（pp. 1–5）
 > - **张力** 既有[[International Education|国际教育]]治理研究主要聚焦于强制性/规制性（如贷款附加条件、结构调整）或规范性（如[[Peer Pressure|同行压力]]、开放协调）机制，忽视了以客观科学知识与度量指标为载体的认知/[[Epistemology|认识论]]（Cognitive/Epistemic）机制。（pp. 2–3）
-> - **贡献** 将 Scott (2001) 制度化三支柱理论与 Jakobi (2009) 治理工具分类拓展为国际组织全球教育认知[[Educational Governance Framework|治理分析框架]]，首次全面呈现了世界银行在教育研究产出总量、全球出版物引文影响力与政策诊断基准方面的纵向实证数据。（pp. 2, 5, 9–10）
+> - **贡献** 将 Scott (2001) [[Three Pillars of Institutions|制度化三支柱理论]]与 Jakobi (2009) 治理工具分类拓展为国际组织全球教育认知[[Educational Governance Framework|治理分析框架]]，首次全面呈现了世界银行在教育研究产出总量、全球出版物引文影响力与政策诊断基准方面的纵向实证数据。（pp. 2, 5, 9–10）
 
 ---
 
@@ -195,7 +201,7 @@ issuing_organization: ""
 
 #### 2. 教育知识管理试验将世行重塑为全球智识中枢
 
-1996 年 10 月，世界银行时任行长詹姆斯·沃尔芬森在年会演讲中正式提出建设知识银行的战略倡议，拉开了全行动员的知识转型序幕。
+1996 年 10 月，世界银行时任行长[[James Wolfensohn|詹姆斯·沃尔芬森]]在年会演讲中正式提出建设[[Knowledge Bank|知识银行]]的战略倡议，拉开了全行动员的知识转型序幕。
 
 > [!policy-context] 知识转向的组织制度背景
 > - **发布主体** 世界银行行长詹姆斯·沃尔芬森（James Wolfensohn）与执行董事会。
@@ -207,12 +213,12 @@ issuing_organization: ""
 
 > [!timeline] 世界银行知识转向关键里程碑（1996–2014年）
 > - **1996** 行长詹姆斯·沃尔芬森在年会演讲中正式宣布世界银行转型为知识银行。
-> - **1997** 在多伦多赞助召开首届全球知识大会并建立全球知识伙伴网络；启动战略契约内部改革；创立非洲[[Virtual University|虚拟大学]]（African Virtual University, AVU）。
+> - **1997** 在多伦多赞助召开首届全球知识大会并建立全球知识伙伴网络；启动战略契约内部改革；创立[[African Virtual University|非洲虚拟大学]]（African Virtual University, AVU）。
 > - **1998** 《世界发展报告》（WDR）以知识与发展为主题；正式建成教育知识管理系统（EKMS）；启动本土知识促进发展计划。
 > - **2000** 创立全球远程学习网络（Global Development Learning Network, GDLN）。
 > - **2004** 在上海举办全球扶贫大会并启动全球学习计划。
-> - **2010** 推出开放发展战略，开启开放知识与开放数据倡议；启动就业与生产力技能项目（STEP）。
-> - **2012** 开放知识库（OKR）正式上线运行，实现全球文献免费开放下载。
+> - **2010** 推出开放发展战略，开启开放知识与开放数据倡议；启动[[Skills Toward Employment and Productivity|就业与生产力技能项目]]（STEP）。
+> - **2012** [[Open Knowledge Repository|开放知识库]]（OKR）正式上线运行，实现全球文献免费开放下载。
 > - **2013** 创设开放学习园区（OLC），构建跨国在线教育平台。
 > - **2014** 全面推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）量规对标体系。
 
@@ -315,7 +321,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 世界银行的教学与培训使命构成了认知治理中极少受到关注的一环。
 
 > [!feature] 虚拟研修与专业资格认证体系
-> - **在线平台构建** 世界银行学院（World Bank Institute, WBI）与 2013 年上线的开放学习园区（OLC）开设了超过 100 门交互式网络研修课程，配有移动应用、播客、视频成功案例与多媒体工具包。（p. 8）
+> - **在线平台构建** [[World Bank Institute|世界银行学院]]（World Bank Institute, WBI）与 2013 年上线的开放学习园区（OLC）开设了超过 100 门交互式网络研修课程，配有移动应用、播客、视频成功案例与多媒体工具包。（p. 8）
 > - **名校与专业平台联手** 与剑桥大学、[[Ralph Waldo Emerson|爱默生]]学院、Coursera、edX 等机构建立深度合作，开展[[Gamification|游戏化]]、体验式、同行互评的高阶互动培训，并对合格学员发放获得学术认证的专业证书。（p. 8）
 > - **核心处方课程灌输** 核心课程紧密围绕世行提倡的新自由主义治理机制展开，如[[School Autonomy|学校自主]]与问责、早期儿童发展、学生学业评价及教师激励政策，定向培育认同世行技术方案的借款国技术官僚后备军。（p. 8）
 
@@ -351,7 +357,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > [!matrix-table] 表 3　全球教育知识认知治理机制与实践矩阵（p. 5）
 > | 治理机制 | 治理实践 | 核心功能 | 典型案例 |
 > |---|---|---|---|
-> | **[[Knowledge Production\|知识生产]]** | 资助研究 | 支持学术知识的生成与人才网络培育。 | 罗伯特·S·麦克纳马拉奖学金项目；日世联合研究生奖学金；非洲虚拟大学（培训逾 43,000 名学生）。 |
+> | **[[Knowledge Production\|知识生产]]** | 资助研究 | 支持学术知识的生成与人才网络培育。 | 罗伯特·S·麦克纳马拉奖学金项目；日世联合研究生奖学金；[[African Virtual University|非洲虚拟大学]]（培训逾 43,000 名学生）。 |
 > | | 开展研究 | 机构内部自主生成政策相关研究知识。 | 国别实证研究（如莫桑比克教育普及障碍与近期改革成效分析）。 |
 > | | 发表研究 | 介入并塑造学术界与政策界的认知演进方向。 | 出版学术专著、国际期刊成果、政策研究工作文稿（Policy Research Working Paper, PRWP）系列。 |
 > | **知识管理** | 汇聚知识 | 梳理前沿共识，建立集中化数据库与文献库。 | 开放知识库（OKR）；教育知识管理系统（EKMS）；世界银行战略审查报告。 |

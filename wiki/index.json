@@ -20880,6 +20880,18 @@
     ]
   },
   {
+    "title": "Three Pillars of Institutions",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Three Pillars of Institutions.md",
+    "aliases": [
+      "制度三支柱理论",
+      "制度三支柱",
+      "Three Pillars of Institutions (Scott)",
+      "Scott's Three Pillars",
+      "斯科特制度三支柱理论"
+    ]
+  },
+  {
     "title": "Two Problematics of Educational Inclusion and Exclusion",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Two Problematics of Educational Inclusion and Exclusion.md",
@@ -29649,6 +29661,17 @@
     ]
   },
   {
+    "title": "James Wolfensohn",
+    "type": "person",
+    "path": "wiki/persons/us/James Wolfensohn.md",
+    "aliases": [
+      "詹姆斯·沃尔芬森",
+      "沃尔芬森",
+      "James D. Wolfensohn",
+      "Wolfensohn, J. D."
+    ]
+  },
+  {
     "title": "Jerome E. Schnee",
     "type": "person",
     "path": "wiki/persons/us/Jerome E. Schnee.md",
@@ -30952,6 +30975,17 @@
       "泽韦兰吉·瑟佩尔",
       "Serpell, Z. N.",
       "Zewelanji Serpell"
+    ]
+  },
+  {
+    "title": "African Virtual University",
+    "type": "fact",
+    "path": "wiki/facts/africa/African Virtual University.md",
+    "aliases": [
+      "非洲虚拟大学",
+      "AVU",
+      "非洲虚拟大学项目",
+      "African Virtual University (AVU)"
     ]
   },
   {
@@ -33814,6 +33848,18 @@
     ]
   },
   {
+    "title": "World Bank Institute",
+    "type": "fact",
+    "path": "wiki/facts/global/World Bank Institute.md",
+    "aliases": [
+      "世界银行学院",
+      "WBI",
+      "经济发展学院",
+      "EDI",
+      "World Bank Institute (WBI)"
+    ]
+  },
+  {
     "title": "World Council of Comparative Education Societies",
     "type": "fact",
     "path": "wiki/facts/global/World Council of Comparative Education Societies.md",
@@ -34228,6 +34274,17 @@
     ]
   },
   {
+    "title": "Open Knowledge Repository",
+    "type": "fact",
+    "path": "wiki/facts/global/Open Knowledge Repository.md",
+    "aliases": [
+      "开放知识库",
+      "OKR",
+      "世界银行开放知识库",
+      "Open Knowledge Repository (OKR)"
+    ]
+  },
+  {
     "title": "PIRLS",
     "type": "fact",
     "path": "wiki/facts/global/PIRLS.md",
@@ -34302,6 +34359,17 @@
       "PDB",
       "wwPDB",
       "蛋白质数据银行"
+    ]
+  },
+  {
+    "title": "Skills Toward Employment and Productivity",
+    "type": "fact",
+    "path": "wiki/facts/global/Skills Toward Employment and Productivity.md",
+    "aliases": [
+      "就业与生产力技能项目",
+      "STEP",
+      "STEP项目",
+      "Skills Toward Employment and Productivity (STEP)"
     ]
   },
   {

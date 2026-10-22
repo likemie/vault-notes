@@ -8,6 +8,11 @@ aliases:
 summary: "世界银行第九任行长（1995–2005），知名投资银行家与国际发展金融家；任内发起“知识银行”（Knowledge Bank）战略转型倡议与全面发展框架（CDF），推动重债穷国（HIPC）减债与减贫战略文件（PRSPs）设立，打破单纯工程贷款传统并将教育确立为核心投资领域，开创了战后国际多边金融机构向认知治理与知识赋权演进的制度新范式。"
 type: person
 nationality: us
+person_region: "us"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1933"
 died: "2020"
 lifespan: "1933–2020"
