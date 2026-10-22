@@ -134,9 +134,11 @@ updated: 2026-10-22
 > - **地缘教育走廊重构** 东盟国家由传统依赖欧美前宗主国留学体系，逐步转向依托中国政府奖学金及联合办学项目的多维教育互联网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 9, 10)]]
 > - **本土[[Human Capital Theory|人力资本]]支撑** 紧密衔接“[[Belt and Road Initiative|一带一路]]”倡议基础设施建设项目（如铁路、深水港、工业园区），为东盟发展中国家培养工程、物流与经贸专门技术人才。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 11, 12)]]
 > - **[[Educational Diplomacy|教育外交]]三大支柱成型** 中国在东盟区域逐步确立了依托留学生定向招募、境外独立分校与联合办学、以及深度嵌入大学建制的[[Confucius Institute|孔子学院]]网络三大实践支柱，拓展了多层次人文纽带。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–85)]]
+> - **跨区域职业教育协同与产能对接** 在双边贸易突破 6.41 万亿元人民币背景下，双方依托《中国—东盟战略伙伴关系2030年愿景》推进[[China-ASEAN Education Cooperation Week|中国—东盟教育交流周]]与[[Internationalization of Vocational Education|职业教育高水平开放合作]]，逐步从单一学校协议走向涵盖全产业链的线面平台与产教生态圈，协同培育新质技能人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291, 298–301)]]
 
 > [!stat-cards]- 核心规模数据
 > - **10** （个） 东南亚国家联盟正式成员国总数。
+> - **6.41** （万亿元人民币） 2023 年中国与东盟双边贸易总额，东盟连续四年保持中国第一大贸易伙伴地位。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 291)]]
 > - **98,823** （人） 2018 年在华东盟留学生总数，占中国国际学生总数的 20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]; [[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 83)]]
 > - **31** （所） 截至 2021 年中国在东盟成员国设立并运营的孔子学院总数，深度嵌入在地大学建制。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 85)]]
 > - **3** （所） 中国在东盟重点设立并运营的境外实体独立校区与联合商学院（厦门大学马来西亚分校、老挝苏州大学、泰国曼谷商学院）。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
@@ -178,5 +180,8 @@ updated: 2026-10-22
 > | [[Royal University of Phnom Penh]] | Fact (Organization) | 东盟重要成员国柬埔寨的国家旗舰大学，深度参与中国—东盟高教合作项目。 |
 > | [[Asian Infrastructure Investment Bank]] | Fact (Organization) | 为东盟区域基础设施互联互通提供多边金融支撑的关键金融实体。 |
 > | [[Confucius Institute]] | Fact (Program) | 深度嵌入东盟十国大学建制、推广语言文化与学术交流的合作网络。 |
+> | [[China-ASEAN Education Cooperation Week]] | Fact (Program) | 中国与东盟政府间教育合作与人文交流的旗舰平台。 |
+> | [[Internationalization of Vocational Education]] | Concept | 双边经贸扩张与国际产能重组背景下职业技术人才跨国培养的核心概念。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证分析东盟第一大贸易伙伴背景下中国在东盟（柬埔寨）的高等教育地缘拓展。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统剖析面向东盟的教育外交三大支柱及地缘领土争端下的权力转化困境。 |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 剖析中国—东盟职业教育高水平开放合作的价值立意、逻辑要点与产教生态圈实践进路。 |

@@ -7,7 +7,11 @@ aliases:
   - 职业教育高水平对外开放
 summary: "职业教育系统在办学宗旨、专业标准、人才培养与产教协同中整合国际维度的制度化进程，呈现从单校点状协议向线面平台化、制度化政策协同与跨区域合作生态圈深化的实践进路。"
 type: concept
-domain: comparative-education
+domain: "comparative-education"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept
   - vocational-education
@@ -101,7 +105,7 @@ updated: 2026-10-22
 
 ### 命题二　职业教育国际化合作的深化依托于从单校点状协议向线面高质平台的机制进阶
 
-> [!concept-lens] 平台层级跃迁与资源集成维度
+> [!concept-lens] 平台能级进阶与资源集聚维度
 > 探讨微观办学主体如何克服单校内部资源匮乏与运维断裂，实现高水平可持续合作。
 
 > [!claim] [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]]

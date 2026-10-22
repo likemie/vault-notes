@@ -1144,6 +1144,17 @@
     ]
   },
   {
+    "title": "Internationalization of Vocational Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Internationalization of Vocational Education.md",
+    "aliases": [
+      "职业教育国际化",
+      "职教国际化",
+      "Vocational Education Internationalization",
+      "职业教育高水平对外开放"
+    ]
+  },
+  {
     "title": "Knowledge Bank",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Knowledge Bank.md",
@@ -31998,6 +32009,16 @@
     ]
   },
   {
+    "title": "China-ASEAN Education Cooperation Week",
+    "type": "fact",
+    "path": "wiki/facts/china/China-ASEAN Education Cooperation Week.md",
+    "aliases": [
+      "中国—东盟教育交流周",
+      "东盟教育交流周",
+      "CAECW"
+    ]
+  },
+  {
     "title": "Confucius Institute",
     "type": "fact",
     "path": "wiki/facts/china/Confucius Institute.md",
@@ -40984,6 +41005,11 @@
     "title": "Argument_Freeman_1995_CJE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
+  },
+  {
+    "title": "Argument_Wang_Liang_Chen_2025_CES",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
   },
   {
     "title": "Argument_Velasco_2022_CSJ",

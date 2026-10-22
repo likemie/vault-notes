@@ -1,12 +1,16 @@
 ---
-title: "Argument_Wang_Liang_Chen_2025_CES"
 summary: "系统剖析中国与东盟职业教育高水平对外开放的理论逻辑、实践要点与推进进路，指出职教开放承载着服务国家总体外交、建设职教强国与提升国际话语权的三重立意，论证政策制度协同、高质开放平台与多元育人共同体的支撑机理，并提出以系统思维重构政策体系、推动平台从点到面升级及构建跨区域产教合作生态圈的战略方案"
 type: argument
 subtype: journal-article
 publication_type: journal-article
+title: "Argument_Wang_Liang_Chen_2025_CES"
 argument_key: "Argument_Wang_Liang_Chen_2025_CES"
-argument_display_title: "High-Level Open Cooperation in Vocational Education: Purpose, Criteria and Pathways—Observations on Chinese-ASEAN Cooperation in Vocational Education"
+argument_display_title: "High-level open cooperation in vocational education: Purpose, criteria and pathways—Observations on Chinese-ASEAN cooperation in vocational education"
 argument_kind: "journal-article"
+argument_related_count: 12
+argument_related_level: 1
+argument_related_stars: "⭐"
+argument_related_color: "#dbeafe"
 journal: "Chinese Education & Society"
 authors:
   - "Wang, Y."
@@ -16,10 +20,10 @@ source_language: en
 citation: "Wang, Y., Liang, C., & Chen, Y. (2025). High-level open cooperation in vocational education: Purpose, criteria and pathways—Observations on Chinese-ASEAN cooperation in vocational education. Chinese Education & Society, 58(5–6), 286–302."
 year: 2025
 doi: "10.1080/10611932.2025.2605002"
-isbn: ""
 citation_aliases:
   - "Wang et al., 2025"
   - "Wang et al. (2025)"
+isbn: ""
 tags:
   - vocational-education
   - theme/internationalization
@@ -54,7 +58,6 @@ confidence: medium
 created: 2026-10-22
 updated: 2026-10-22
 ---
-
 ---
 
 > [!question]
@@ -151,7 +154,7 @@ updated: 2026-10-22
 
 > [!critique] 既有政策工具运行的现实短板
 > - **前瞻性与精准性欠缺** 政策文本对职业教育国际化的特殊性考量不足，政策工具缺乏针对具体办学情境的精准干预手段。（pp. 292–293）
-> - **全周期评价机制缺位** 尚未建立涵盖政策出台前科学评估、执行中动态监控与实施后效益追踪的评价闭环，制约了政策效能的长效发挥。（p. 293）
+> - **全周期评价机制缺位** 尚未建立涵盖政策出台前科学评估、执行中动态监控与实施后效益追踪的长效评价机制，制约了政策效能的持续发挥。（p. 293）
 
 制度政策的不完备，使得微观院校在推进跨国项目时往往面临规则真空与权责失衡。
 
@@ -183,7 +186,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 论证步骤三　依托系统思维重构政策体系、扩容合作平台并营造产教生态圈是高质量推进的实践进路
-> 推进职业教育高水平开放合作，需要从制度政策重塑、开放平台跃升与合作生态构建三个维度协同发力。（pp. 296–301）
+> 推进职业教育高水平开放合作，需要从制度政策重塑、开放平台升级与合作生态构建三个维度协同发力。（pp. 296–301）
 
 #### 1. 运用系统思维构建纵向贯通与横向协同的制度化政策体系
 
