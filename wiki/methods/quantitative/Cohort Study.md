@@ -12,9 +12,9 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 33
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -26,23 +26,33 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
+  - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
+  - "[[Construct]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Variable]]"
   - "[[Attrition]]"
   - "[[Pre-test Sensitisation]]"
+  - "[[Independent Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Areas of Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
   - "[[Longitudinal Study]]"
+  - "[[Measurement Invariance]]"
   - "[[Questionnaire]]"
   - "[[Semi-structured Interview]]"
   - "[[Fixed-Effect Model]]"
   - "[[Trend Study]]"
   - "[[Cross-sectional Study]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Data Transformation]]"
+  - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Standard Error]]"
+  - "[[Confidence Interval]]"
   - "[[Survey Research]]"
 related_persons:
   - "[[Robert Arnove]]"
@@ -55,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -76,10 +86,10 @@ updated: 2026-10-22
 
 ---
 
-> [!method-position] 认识论与方法定位
+> [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 发展与历时动态视角；关注个体或组织随时间推移的内生变化、时序因果机制以及微观行动如何拟合为整个社会系统的属性变迁。
 > - **研究者角色** 长期跟踪与多轮次资料收集的组织协调者，需在跨期多节点调查中维护与参与者或机构的持续信任关系。
-> - **有效性标准** 样本在长时段上的代表性（控制流失偏倚）、[[Causality|因果推断]]的[[Internal Validity|内部效度]]、跨期测量工具的[[Reliability|信度]]与构念等值性（Measurement Invariance）。
+> - **有效性标准** 样本在长时段上的代表性（控制流失偏倚）、[[Causality|因果推断]]的[[Internal Validity|内部效度]]、跨期测量工具的[[Reliability|信度]]与[[Construct|构念]]等值性（[[Measurement Invariance]]）。
 > - **不声称回答的问题** 不适用于需要即时交付结论的应急政策评估；在样本发生严重脱落且无法补权修正时，不声称能代替原始总体做无偏推断。
 
 > [!method-stack] 方法层级
@@ -108,16 +118,16 @@ updated: 2026-10-22
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 纵向多轮次追踪面板数据（平衡或非平衡面板）、时变与非时变多层嵌套数据。
 > - **样本与单位** 队列样本（个体或组织）、复测轮次（Waves）、聚类层级（如学校、班级、个体）。
-> - **变量或指标** 基线协变量（非时变背景变量）、时变自变量（政策干预暴露、环境变动）、历时因变量（认知成就、身心发展指标）。
-> - **模型或统计量** 潜变量生长曲线模型（LGCM）、交叉滞后路径模型（CLPM/RI-CLPM）、多层线性生长模型（HLM）、固定效应面板回归（Fixed-Effect Model）。
+> - **变量或指标** 基线协变量（非时变背景变量）、时变[[Independent Variable|自变量]]（政策干预暴露、环境变动）、历时[[Dependent Variable|因变量]]（认知成就、身心发展指标）。
+> - **模型或统计量** 潜变量生长曲线模型（LGCM）、交叉滞后路径模型（CLPM/RI-CLPM）、多层线性生长模型（[[Hierarchical Linear Model|HLM]]）、固定效应面板回归（Fixed-Effect Model）。
 > - **诊断与检验** 样本损耗随机性检验（Little's MCAR 检验）、跨期测量等值性检验（形态等值、弱等值、强等值）、时间序列自相关与异方差检验。
 
 > [!software-impl] 软件实现
-> - **数据处理** 宽数据与长数据转换（`reshape` / `pivot_longer`）、追踪样本跨期匹配合并、缺失值多重插补（`mice` / `Amelia`）。
+> - **数据处理** 宽数据与长[[Data Transformation|数据转换]]（`reshape` / `pivot_longer`）、追踪样本跨期匹配合并、缺失值多重插补（`mice` / `Amelia`）。
 > - **推荐软件** R、Mplus、Stata、Python。
 > - **核心包或命令** R（`lavaan`、`lme4`、`mice`、`plm`）、Mplus（`TYPE=COMPLEX TWOLEVEL`、`GROWTH`）、Stata（`xtreg`、`mixed`、`sem`）、Python（`statsmodels`、`semopy`）。
 > - **实现流程** 将宽数据转换为纵向分析长格式；先拟合无条件线性与非线性生长曲线以估计初始水平（截距）与变化速率（斜率）；随后纳入时变与非时变协变量评估预测效应；最后实施敏感性分析与缺失值校正。
-> - **报告标准** 完整报告各轮次样本保留率与流失特征分析、潜变量截距与斜率的均值与方差估计、模型拟合指数（CFI、TLI、RMSEA、SRMR）、标准误及置信区间。
+> - **报告标准** 完整报告各轮次样本保留率与流失特征分析、潜变量截距与斜率的均值与方差估计、[[Model Fit Indices in SEM and CFA|模型拟合指数]]（CFI、TLI、RMSEA、SRMR）、[[Standard Error|标准误]]及[[Confidence Interval|置信区间]]。
 
 ---
 

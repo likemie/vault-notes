@@ -7,7 +7,7 @@ summary: "英国爱丁堡大学比较与国际教育荣休教授，国际技术�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Chinese Academy of Sciences]]"
+  - "[[NORRAG]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Initiative]]"
   - "[[Confucius Institute]]"
@@ -54,13 +55,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国比较与[[International Education|国际教育]]学者，爱丁堡大学（University of Edinburgh）社会与政治科学学院荣休教授，曾任爱丁堡大学非洲研究中心（Centre of African Studies, [[Chinese Academy of Sciences|CAS]]）主任（1986–2005年），长期担任国际教育与培训政策研究网络（Network for International Policies and Cooperation in Education and Training, NORRAG）协调人。
+> - **身份位置** 英国比较与[[International Education|国际教育]]学者，爱丁堡大学（University of Edinburgh）社会与政治科学学院荣休教授，曾任爱丁堡大学非洲研究中心（Centre of African Studies, [[Chinese Academy of Sciences|CAS]]）主任（1986–2005年），长期担任国际教育与培训政策研究网络（[[NORRAG|Network for International Policies and Cooperation in Education and Training]], NORRAG）协调人。
 > - **核心角色** 发展中国家技术与职业教育培训、技能开发及国际教育援助领域的先驱学者；在中非教育合作与[[Knowledge Diplomacy|知识外交]]研究中奠定了扎实的实证研究传统。
 > - **代表贡献** 出版奠基性学术专著《中国对非洲的援助与[[Soft Power|软实力]]》（*China's Aid and Soft Power in Africa*, 2013）；系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]与“[[Belt and Road Initiative|一带一路]]”倡议的人力资源承诺；深刻剖析[[South-South Cooperation|南南合作]]中受援方主体性（African agency）与单向资源供给之间的结构性张力。
 

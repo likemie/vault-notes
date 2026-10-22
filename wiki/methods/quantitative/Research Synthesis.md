@@ -8,7 +8,7 @@ summary: "研究综合是系统检索、严格评估并整合针对特定研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 44
+method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Study Population and Sample]]"
   - "[[Interaction Effect]]"
+  - "[[Policy Window]]"
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Primary and Secondary Documents]]"
@@ -45,8 +46,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Ethnography]]"
   - "[[Systematic Review]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Umbrella Review]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Qualitative Codebook]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Fixed-Effect Model]]"
@@ -62,7 +63,8 @@ related_instruments:
   - "[[PRISMA]]"
 related_persons:
   - "[[John Hattie]]"
-related_facts: []
+related_facts:
+  - "[[EVIPNet]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Snook_2009_NZJES]]"
@@ -99,7 +101,7 @@ updated: 2026-10-23
 > - **不声称回答的问题** 不能依靠数学平均数消除初级研究本身的测量错误与设计缺陷；不能脱离微观教学情境与组织条件将抽象平均效应直接等同于万能处方。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Systematic Review|系统综述]]设计（Systematic Review Design）、[[Meta-analysis|元分析]]设计（Meta-Analytic Design）、质性元整合设计（[[Meta-meta-analysis|meta-synthesis]]）、[[Umbrella Review|综述之综述]]（Overview of Reviews / [[Meta-meta-analysis|二阶元分析]]）。
+> - **研究设计** [[Systematic Review|系统综述]]设计（Systematic Review Design）、[[Meta-analysis|元分析]]设计（Meta-Analytic Design）、质性元整合设计（meta-synthesis）、[[Umbrella Review|综述之综述]]（Overview of Reviews / [[Meta-meta-analysis|二阶元分析]]）。
 > - **数据收集** 数据库布尔检索、灰色[[Literature Search|文献检索]]、引文滚雪球追溯、双人独立盲审筛选、系统[[Qualitative Codebook|编码手册]]提取。
 > - **分析方法** 量化[[Inverse-Variance Weighting|逆方差加权]]合成（[[Fixed-Effect Model|固定效应]]与[[Random-Effects Model|随机效应模型]]）、亚组分析与[[Meta-regression|元回归]]、质性主题[[Network Analysis|网络分析]]、[[Narrative Synthesis|叙事综合]]（[[Narrative Synthesis|叙事综合]]）。
 > - **辅助技术** PRISMA 流程图、[[Funnel Plot|漏斗图]]（[[Funnel Plot|漏斗图]]）、Egger 回归检验、偏倚风险评估工具（RoB 2、ROBINS-I）、证据质量分级系统（GRADE）。
@@ -117,7 +119,7 @@ updated: 2026-10-23
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 当某一学术议题或政策干预积累了大量分散、相互矛盾甚至对立的独立实证研究，亟需对其因果[[Effect Size|效应量]]级、[[Heterogeneity|异质性]]来源及干预规律进行系统评估时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]] 此外，在公共治理与教育决策中，常设中介实体采用快速证据综合，可在紧迫政策窗口期内为高层决策提供定制化实证简报。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 35)]]
+> - **适合使用** 当某一学术议题或政策干预积累了大量分散、相互矛盾甚至对立的独立实证研究，亟需对其因果[[Effect Size|效应量]]级、[[Heterogeneity|异质性]]来源及干预规律进行系统评估时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]] 此外，在公共治理与教育决策中，常设中介实体采用快速证据综合，可在紧迫[[Policy Window|政策窗口]]期内为高层决策提供定制化实证简报。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 35)]]
 > - **谨慎使用** 原始研究在概念[[Operationalization|操作化]]、测量工具和理论[[Paradigm|范式]]上存在高度异质性时；若强行合并计算总体平均数，会掩盖学科、学段和文化情境的决定性差异。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 96–97)]]
 > - **不适合使用** 处于探索初期的新兴研究领域（原始研究数量极少或缺乏方法学规范）；企图绕过对[[Primary and Secondary Documents|初级文献]]设计缺陷的严格把关，将低质量调查与严谨实验机械混合以追求庞大数据量的粗放操作。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 94–96)]]
 
@@ -144,7 +146,7 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引国际循证[[Policy Network|政策网络]]（EVIPNet）对研究综合的规范定义，严肃审查[[John Hattie|哈蒂]]未审查原始研究质量所带来的理论与政策风险。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引国际循证[[Policy Network|政策网络]]（[[EVIPNet]]）对研究综合的规范定义，严肃审查[[John Hattie|哈蒂]]未审查原始研究质量所带来的理论与政策风险。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] — 将研究综合界定为整合多篇实证成果以为政策和实践提供高质量证据基础的方法家族。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 阐述乌干达快速证据综合中心（ACRES）在数周内为内阁产出高质量实证简报并结合政策对话的常设治理机制。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 在梳理跨国阅读与数学教育干预中阐明研究综合的证据评级与最高方法学筛选标准。

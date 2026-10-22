@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+                "file": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Zapp_2017_IJED.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Niemann_Martens_2018_GSP"
+              "title": "Argument_Zapp_2017_IJED"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.95703125
+    "width": 321.7265625
   },
   "right": {
     "id": "ec50234132d5cb15",
@@ -288,11 +288,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d7b750b1933da6ff",
+  "active": "bd88d0cdfde06150",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+    "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md",
+    "wiki/facts/global/INEE.md",
+    "wiki/facts/global/NORRAG.md",
+    "wiki/facts/global/EVIPNet.md",
+    "wiki/facts/global/Global Education Cooperation Mechanism.md",
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-015/result.json",
     "wiki/facts/us/Every Student Succeeds Act.md",
-    "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md",
     "wiki/facts/chile/SUMMA.md",
     "wiki/facts/global/UN Sustainable Development Goals.md",
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-014/result.json",
@@ -308,7 +313,6 @@
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-008/result.json",
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-007/result.json",
     "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-006/result.json",
-    "output/related-updates/Argument_Steiner-Khamsi_2024_UNESCO-b2ba7cf1/batch-005/result.json",
     "tmp/callout-design-backup-v4/sub-ns-before/Sleeper Effect.md",
     "tmp/callout-design-backup-v4/sub-ns-before/Metacognitive Laziness.md",
     "tmp/callout-design-backup-v4/sub-ns-before/Cognitive Offloading.md",
@@ -322,10 +326,6 @@
     "tmp/callout-design-backup-v4/sub-ns-before/Cooperative Learning.md",
     "tmp/callout-design-backup-v4/sub-ns-before/Concept Mapping.md",
     "tmp/callout-design-backup-v4/sub-ns-before/Blended Learning.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Authentic Instruction.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Mentorship.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Marginal Gains Hypothesis.md",
-    "tmp/callout-design-backup-v4/sub-ns-before/Intelligent Tutoring Systems.md",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig5-2_Summary_Recommendations_Tracks.jpg",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-2_CoCitation_Analysis_Clusters.jpg",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-1_Annual_Scientific_Production.jpg",

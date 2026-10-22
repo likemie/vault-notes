@@ -14,9 +14,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 58
-fact_related_level: 5
-fact_related_stars: "💎⭐⭐"
+fact_related_count: 60
+fact_related_level: 6
+fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
 issuing_organization: "United Nations"
 tags:
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Global Education Governing Complex]]"
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
+  - "[[Output-Oriented Governance]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
   - "[[ROAR Framework]]"
@@ -81,16 +82,17 @@ related_facts:
   - "[[KfW]]"
   - "[[Apollo Program]]"
   - "[[DARPA]]"
+  - "[[Global Education Cooperation Mechanism]]"
   - "[[PISA]]"
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[THE Impact Ranking]]"
   - "[[SDG 4 High-Level Steering Committee]]"
 related_arguments:
-  - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
-  - "[[Argument_Mazzucato_2018_ICC]]"
-  - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: draft
 created: 2026-05-11
@@ -149,7 +151,7 @@ updated: 2026-10-23
 > [!pathways] 实施路径与组织形态
 > - **第三代使命的“孩童”（Child）形态与[[Network Governance|网络化治理]]** 区别于第一代[[Apollo Program|阿波罗计划]]与第二代 [[DARPA]] 具备严密层级或强力项目经理威权的“狮子”（Lion）形态，落实 SDGs 这一第三代使命依赖去中心化、灵活试验、涵盖广泛利益相关者的网络化组织形态，要求公共部门具备动态协调、跨界意愿激发与自下而上共创能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–797)]]
 > - **全球南方基础教育层面的量化基准转译** 通过将 SDG 4 的 10 项具体目标分解为一系列微观基准，国际多边组织直接介入借款国的国家中期教育部门规划（ESDP），强制推动行政数据和测评指标的对接。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
-> - **全球教育合作机制与跨层级区域桥梁** 在联合国教科文组织全球教育合作机制（GCM）与[[SDG 4 High-Level Steering Committee|高级别指导委员会]]（HLSC）统筹下，全球审查主张克服自上而下单向推送，依托区域常设支持枢纽与跨国证据中心，贯通全球平台与本土决策需求。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 38, 45)]]
+> - **[[Global Education Cooperation Mechanism|全球教育合作机制]]与跨层级区域桥梁** 在联合国教科文组织全球教育合作机制（GCM）与高级别指导委员会（HLSC）统筹下，全球审查主张克服自上而下单向推送，依托区域常设支持枢纽与跨国证据中心，贯通全球平台与本土决策需求。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 38, 45)]]
 > - **科技与产业层面的四层使命分解金字塔** 国家与国际组织通过“宏大挑战（SDGs） $\to$ 战略使命（Missions） $\to$ 跨部门研发与创新项目（R&I Projects） $\to$ 自下而上协同探索”的四层架构，将气候中和（SDG 13）、海洋治理（SDG 14）转化为跨越材料、化工、数字、航运与废弃物管理的跨产业联合行动。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
 > - **高等教育系统多渠道嵌入与对齐** 大学通过三大支柱全面融入 SDGs 治理框架（[[Argument_Zapp_2022_Springer|Zapp, 2022, pp. 150–154]]）：
 >   - **研究对齐（Research Alignment）** 全球大学主动将前沿研究重定向至 SDGs 优先领域（如曼彻斯特大学碳足迹计算工具、苏黎世联邦理工学院“2000瓦特社会”能效试验）。
@@ -221,7 +223,7 @@ updated: 2026-10-23
 > | [[Third Mission]] | Concept | SDGs 在高等教育领域被广泛定位为大学超越教学与科研的新型核心使命。 |
 > | [[World Society Theory]] | Theory | 解释主权国家与大学普遍采纳并宣誓效忠 SDGs 全球共同规范的核心宏观社会学理论。 |
 > | [[THE Impact Ranking]] | Instrument | 专门依据联合国 17 项 SDGs 对全球大学社会与生态影响力进行测度的量化工具。 |
-> | [[SDG 4 High-Level Steering Committee]] | Fact | 统筹全球 SDG 4 政策循证治理与区域支持枢纽建设的最高跨国协调机构。 |
+> | [[SDG 4 High-Level Steering Committee]] | Fact | 统筹全球 SDG 4 政策[[Output-Oriented Governance\|循证治理]]与区域支持枢纽建设的最高跨国协调机构。 |
 
 ---
 

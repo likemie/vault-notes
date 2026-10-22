@@ -64,10 +64,10 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Absorptive Capacity]]"
   - "[[Habitus]]"
+  - "[[Discourse]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[Network Governance]]"
   - "[[Legislative Policy Brief]]"
-  - "[[Discourse]]"
   - "[[Performativity]]"
   - "[[Normal School]]"
   - "[[Research-Practice Gap]]"
@@ -161,15 +161,15 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 > [!def] Educational Brokerage Agency
@@ -292,7 +292,7 @@ updated: 2026-10-22
 > **双重活跃度画像与部委联结的脱节悖论** 经合组织（OECD）跨国政策调查（覆盖 29 国 37 个教育系统）实证数据显示，在 16 个报告存在活跃官方中介机构的系统中，机构运作呈现高度[[Heterogeneity\|异质性]]（全流程并重型 vs 单点聚焦型）。尤为突出的是，官方中介机构的活跃度并未自动转化为教育部委的紧密工作联系：在报告中介活跃的 16 个系统中，仅 9 个教育部委报告与其保持经常性联系；丹麦与智利的官方中介虽在政策促成端高度活跃，但两国教育部均报告与之无任何实质联系；英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）保持高度自治与卓越影响力，教育部却报告仅与之维持偶尔性接触；而在哥伦比亚，教育部与官方中介联系最为紧密，却与其国内最主要的[[Knowledge Production\|知识生产]]与中介主体（大学、咨询公司与政策网络）完全脱节。这表明中介机构与中央教育行政部门的联结深受政治资助模式、机构自治定位及科层权力[[Habitus|惯习]]的制约，存在显著的制度性错位。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 81–82, 86–87)]]
 
 > [!claim] Rowe, E.
-> **金融化话语主导与耐用材料的制度装配** 罗威（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）基于对澳大利亚国家级证据中介机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）的企业注册档案、立法修订与跨国网络的深入追踪指出，证据经纪人（evidence broker）与买入（buy in）等核心概念源自金融借贷与风险投资语系。政策网络策略性地运用“耐用材料”（durable materials）——如依据《公司法》注册为担保有限公司、在行政规程中修改特许与慈善界合作条款、制定标准化证据量规（evidence rubrics）与因果实验规程——在空间中固化出一座看似超党派、客观中立的“防野狗围栏”（dingo fence），声称将政治彻底移出课堂；然而，这一无生命客体装配实质上掩蔽了麦肯锡系[[Venture Philanthropy\|风险慈善]]机构长达十年的游说轨迹，为跨国金融资本与营利性咨询寡头合法分包国家公共教育科研议程开辟了特许通道，深层侵蚀了公共教育的民主问责机制。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 2–5, 10–11)]]
+> **金融化[[Discourse|话语]]主导与耐用材料的制度装配** 罗威（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）基于对澳大利亚国家级证据中介机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）的企业注册档案、立法修订与跨国网络的深入追踪指出，证据经纪人（evidence broker）与买入（buy in）等核心概念源自金融借贷与风险投资语系。政策网络策略性地运用“耐用材料”（durable materials）——如依据《公司法》注册为担保有限公司、在行政规程中修改特许与慈善界合作条款、制定标准化证据量规（evidence rubrics）与因果实验规程——在空间中固化出一座看似超党派、客观中立的“防野狗围栏”（dingo fence），声称将政治彻底移出课堂；然而，这一无生命客体装配实质上掩蔽了麦肯锡系[[Venture Philanthropy\|风险慈善]]机构长达十年的游说轨迹，为跨国金融资本与营利性咨询寡头合法分包国家公共教育科研议程开辟了特许通道，深层侵蚀了公共教育的民主问责机制。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 2–5, 10–11)]]
 
 ---
 
@@ -305,7 +305,7 @@ updated: 2026-10-22
 > **超越孤岛推进中介的中介（Brokering the Brokers）** 与医学相比，教育领域长期缺乏一套被广泛认可且基础坚实的[[Cumulative Knowledge Base\|累积性知识库]]（Cumulative Knowledge Base）。单个中介机构即便在本土取得卓越成效，其证据合成规模与情境可迁移性依然受限。正如实证综合已从单项研究综述迈向二阶综述（Reviews of Reviews）一样，中介机构必须建立跨系统、跨语种与跨学科的元中介网络，协同解决证据合成方法学争议、[[Research Utilization\|知识利用]]质量评估标准及联合影响力测度，方能促成真正的教育科学知识累积。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 66–68)]]
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
-> **中车道信息拥堵与全球中介平台孤立运作的治理突破** 施泰纳-哈姆西等对全球 103 个国家 654 个教育研究利用平台的跨国普查表明，中车道（政策中介与知识经纪机构）在爆发式扩张中过度生产政策简报与事实清单，造成决策端的信息超载；同时 74%（484 个）的平台未与区域中介网络建立正式链接，陷入机构孤岛与资源内耗。为此，必须在教育部委内部设立常设证据评估处室与专职知识经纪人，落实法定循证审核约束；并通过区域知识中介枢纽协调各主体分工，形成沟通全球生产与本土实践的双向生态。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13–14, 27, 42, 48–49)]]
+> **中车道信息拥堵与全球中介平台孤立运作的治理突破** 施泰纳-哈姆西等对全球 103 个国家 654 个教育研究利用平台的跨国普查表明，中车道（[[Policy Brokerage|政策中介]]与知识经纪机构）在爆发式扩张中过度生产政策简报与事实清单，造成决策端的信息超载；同时 74%（484 个）的平台未与区域中介网络建立正式链接，陷入机构孤岛与资源内耗。为此，必须在教育部委内部设立常设证据评估处室与专职[[Boundary Spanner|知识经纪人]]，落实法定循证审核约束；并通过区域[[Knowledge Mediation|知识中介]]枢纽协调各主体分工，形成沟通全球生产与本土实践的双向生态。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13–14, 27, 42, 48–49)]]
 
 > [!claim] Gough et al.
 > **[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 实践揭示的元[[Network Governance\|网络治理]]张力** 涵盖欧洲 23 国 36 家机构的 EIPPEE 项目经验表明，跨国中介协作网络长期面临“拓展广度”（吸纳新伙伴开展基础能力建设）与“深化攻关”（资深专家聚焦尖端方法学与机制突破）的内在张力；唯有制度化设计分轨交流结构（网络大会与伙伴闭门会议并行），才能维持多国中介协同演化的稳定性。（Gough et al., 2011; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 67–68]]）

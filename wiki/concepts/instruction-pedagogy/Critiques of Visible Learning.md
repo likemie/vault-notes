@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 170
+related_count: 174
 related_level: 17
 related_stars: "💎💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Policy Network]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Charter Schools]]"
   - "[[Learning Styles]]"
   - "[[Homework]]"
   - "[[Whole Language]]"
@@ -57,6 +58,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
+  - "[[Self-reported Grades]]"
   - "[[Teacher Immediacy]]"
   - "[[Dynamic Assessment]]"
   - "[[Language Experience Approach]]"
@@ -64,6 +66,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Theoretical Standpoint]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Writing Programs]]"
   - "[[Predictive Validity]]"
   - "[[Epoché]]"
   - "[[Critical Thinking]]"
@@ -86,7 +89,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Big Science]]"
   - "[[Intentionality]]"
-  - "[[Self-Efficacy]]"
   - "[[Doxa]]"
   - "[[Scientism]]"
   - "[[Scientific Paradigm]]"
@@ -159,8 +161,10 @@ related_persons:
   - "[[Pierre-Jérôme Bergeron]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[EVIPNet]]"
   - "[[TIMSS]]"
   - "[[PISA]]"
+  - "[[NAPLAN]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[OECD]]"
   - "[[The Scott Report]]"
@@ -197,7 +201,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 > [!tip] 知识网络与批评条目维护分流指引
@@ -280,7 +284,7 @@ updated: 2026-10-22
 #### 二阶聚合中的加权缺失与简单算术平均算法的不透明性
 
 > [!critique-method] 底层初级研究质控缺位与粗糙输入导致荒谬输出（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 94–96]]）
-> [[Ivan Snook|伊万·斯努克]]等新西兰学者指出，依据证据知情[[Policy Network|政策网络]]（Evidence-Informed Policy Network, EVIPNet）标准，严谨的[[Research Synthesis|研究综合]]（Research Synthesis）必须包含系统且显式的[[Primary and Secondary Documents|初级文献]]质量评估规程。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中公开声明不评价原始研究优劣，导致低质研究被无差别纳入二阶聚合，陷入心理学界汉斯·艾森克所批驳的粗糙输入导致荒谬输出（Garbage in, garbage out, GIGO）困境。更严重的是，哈蒂在正文实践中呈现出双重标准：在特许学校（报告 $d=0.20$）中承认剔除劣质研究后效应降至零；在[[Learning Styles|学习风格]]（报告 $d=0.41$）中又因商业动机断然否定该数据。这证实纯粹数字效应量根本无法脱离研究设计质量单独讨论，缺乏客观准入标准的二阶聚合严重破坏了科学客观性。
+> [[Ivan Snook|伊万·斯努克]]等新西兰学者指出，依据证据知情[[Policy Network|政策网络]]（[[EVIPNet|Evidence-Informed Policy Network]], EVIPNet）标准，严谨的[[Research Synthesis|研究综合]]（Research Synthesis）必须包含系统且显式的[[Primary and Secondary Documents|初级文献]]质量评估规程。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中公开声明不评价原始研究优劣，导致低质研究被无差别纳入二阶聚合，陷入心理学界汉斯·艾森克所批驳的粗糙输入导致荒谬输出（Garbage in, garbage out, GIGO）困境。更严重的是，哈蒂在正文实践中呈现出双重标准：在[[Charter Schools|特许学校]]（报告 $d=0.20$）中承认剔除劣质研究后效应降至零；在[[Learning Styles|学习风格]]（报告 $d=0.41$）中又因商业动机断然否定该数据。这证实纯粹数字效应量根本无法脱离研究设计质量单独讨论，缺乏客观准入标准的二阶聚合严重破坏了科学客观性。
 
 > [!case] [[Homework|家庭作业]]效应量的逆向还原与加权缺失（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 25–26]]）
 > [[John Hattie|哈蒂]]仅用一段文字交代方法，综合 5 项元分析（涵盖 161 项研究、逾 10 万名学生）得出典型效应量 $d=0.29$。然而正文中完全未公布具体计算公式：
@@ -413,7 +417,7 @@ updated: 2026-10-22
 >
 > - **数学极值发散** 依据元分析度量转换准则（Borenstein et al., 2009），该公式在 $r \to 1$ 时分母趋近于零导致数值爆炸。更严重的是，该公式对弱相关赋予了不成比例的高效应量。
 > - **微弱相关跨入[[Zone of Desired Effects|期望效应区]]** 仅需 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$ 并跨入哈蒂所谓的[[Zone of Desired Effects|期望效应区]]。然而在[[Meta-regression|元回归]]中 $r = 0.196$ 对应的决定系数仅为 $R^2 = 0.0385$（仅解释 3.85% 方差，剩余 96.15% 全为随机噪声）。
-> - **横向相关混同因果干预** 金（Kim, 2005）的元分析仅测量智商与[[Creativity|创造力]]测验的横向相关，从未测量干预因果增益；排名榜首的学生自我报告成绩（$d=1.44$）实质只是成绩自相关，二者均被偷换为具有强大因果威力的教学干预手段。
+> - **横向相关混同因果干预** 金（Kim, 2005）的元分析仅测量智商与[[Creativity|创造力]]测验的横向相关，从未测量干预因果增益；排名榜首的学生[[Self-reported Grades|自我报告成绩]]（$d=1.44$）实质只是成绩自相关，二者均被偷换为具有强大因果威力的教学干预手段。
 
 ---
 
@@ -482,7 +486,7 @@ updated: 2026-10-22
 > [!critique-method] [[PICO Framework|PICO]] 概念同质性门禁全面失守与文献迭代停滞（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025, pp. 14–17]]）
 > - **四维度全合规率极低（19%）** 全库 301 个可检索因素中仅 19%（$n=56$）完全符合人群、干预、对照与结局界定的 PICO 标准；多达 25% 在四个维度上全部失守。
 > - **人群错位（53% 合格）** 大量混入大学生、职场成人与临床病患。如在抑郁因素中纳入青春期产妇产后抑郁对婴儿发育影响的原始医学调查（Huang et al., 2014）。
-> - **干预错配（46% 合格）** 如在写作项目中直接纳入阅读干预评估（Graham et al., 2018）。
+> - **干预错配（46% 合格）** 如在[[Writing Programs|写作项目]]中直接纳入阅读干预评估（Graham et al., 2018）。
 > - **对照基线混淆（41% 合格）** 大量将两种高效创新干预的头对头对比（主动对照，效应量天然接近零）与常规教学对照粗暴混合平均。
 > - **教育技术文献停滞于 1980 年代** 小学与中学技术应用领域在 2000 年后完全没有更新文献，依然用 1980 年代单色显示器时代的研究指导当代人工智能与数字化教育政策。
 
@@ -647,7 +651,7 @@ updated: 2026-10-22
 > | **谁能保证教学方法的合法性？** | 将教学权威建立在数万项研究与数亿学生样本的庞大[[Big Science\|大科学]]外观之上。 |
 
 > [!critique-logic] 技术理性统治的三重深重代价（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b, pp. 88–89]]）
-> - **师生被原子化为变量** 效应量的原子化直接导致师生被降格为对反馈刺激被动反应的数据变量，[[Intentionality|意向性]]与生活意义被[[Self-Efficacy|自我效能]]等心理量化指标所取代。
+> - **师生被原子化为变量** 效应量的原子化直接导致师生被降格为对反馈刺激被动反应的数据变量，[[Intentionality|意向性]]与生活意义被自我效能等心理量化指标所取代。
 > - **目标神圣化与封闭系统构建** 教师的工作被缩减为通过反馈机制将学生导向预设目标，关于目标本身是否值得追求的价值辩论被完全排除，教学手段被目标赋予了不容置疑的神圣性。
 > - **人际对话被反馈因果链取代** 真正的师生交往被发现问题-实施矫正的技术纠错循环所取代，教学异化为[[Doxa|不言自明]]的意识形态规训。
 
@@ -716,7 +720,7 @@ updated: 2026-10-22
 
 > [!logic-map] [[Cult of the Guru|大师崇拜]]得以形成的三个历史条件（[[Argument_Eacott_2017_SLM|Eacott, 2017, pp. 414–419]]）
 > 借助 Callahan（1962）教育与[[Cult of Efficiency|效率崇拜]]框架，识别出支撑大师权威的三大条件：
-> - **时间条件** 澳大利亚全国学业测试（National Assessment Program – Literacy and Numeracy, NAPLAN）、PISA 与 TIMSS 数据引发公众对学业成绩下滑的集体焦虑，管理修辞围绕理性与控制逻辑凝聚。
+> - **时间条件** 澳大利亚全国学业测试（[[NAPLAN|National Assessment Program – Literacy and Numeracy]], NAPLAN）、PISA 与 TIMSS 数据引发公众对学业成绩下滑的集体焦虑，管理修辞围绕理性与控制逻辑凝聚。
 > - **话语桥梁** Robinson et al.（2008）向教育行政社群引入效应量话语，但仍缺乏微观操作细节。
 > - **权威填补** 哈蒂提供了完全契合行政语言的量化数据清单，填补了管理层的问责需求。
 

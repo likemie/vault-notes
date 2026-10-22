@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 84
+fact_related_count: 88
 fact_related_level: 8
 fact_related_stars: "💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Sustainability Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
+  - "[[Output-Oriented Governance]]"
   - "[[International Education]]"
   - "[[International Schools]]"
   - "[[Paradigm]]"
@@ -92,28 +93,31 @@ related_facts:
   - "[[OECD]]"
   - "[[World Education Indicators]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[EU]]"
+  - "[[UOE Data Collection]]"
   - "[[Lisbon Strategy]]"
   - "[[UNESCO Institute for Statistics]]"
   - "[[Global Education Monitoring Report]]"
   - "[[International Monetary Fund]]"
   - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
+  - "[[Global Education Cooperation Mechanism]]"
   - "[[International Baccalaureate Nutritional Science Course]]"
   - "[[1960 Bellagio Conference]]"
   - "[[SDG 4 High-Level Steering Committee]]"
 related_arguments:
-  - "[[Argument_Arnove_2009_WorldSystems]]"
-  - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Castro_2009_MultilateralBanks]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
-  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
-  - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
-  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Wu_2025_ER]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -162,7 +166,7 @@ updated: 2026-10-23
 >   - **1996** 报告表层诉诸人本主义哲学以对抗世行的经济主义，深层却与世行及经合组织共同把未来全球社会判定为不可逆的信息时代，合力推销由行政分权、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷与巴西等受援国注重博雅积淀的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效，收紧了借款国探索替代性道路的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1996 起** 在 OECD 发布《以知识为基础的经济》后，相继采纳并重申[[Knowledge-Based Economy|知识经济]]政策话语。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 >   - **1997** 联合经合组织与世界银行发起世界[[Performance Indicators|教育指标]]（[[World Education Indicators]]，WEI）项目，将[[International Indicators of Education Systems|INES]]指标方法学推广至转型期非成员国。
->   - **1990s 末** 与[[OECD|经合组织]]及欧盟统计局共建联合国教科文组织-经合组织-欧盟统计局联合数据收集机制（UNESCO-OECD-Eurostat, UOE），实现底层数据同源共享，为欧盟[[Lisbon Strategy|里斯本战略]]的[[Performance Indicators|教育指标]]报告提供高达 50% 至 60% 的基础数据支撑。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
+>   - **1990s 末** 与[[OECD|经合组织]]及[[EU|欧盟]]统计局共建联合国教科文组织-经合组织-欧盟统计局联合数据收集机制（[[UOE Data Collection|UNESCO-OECD-Eurostat]], UOE），实现底层数据同源共享，为欧盟[[Lisbon Strategy|里斯本战略]]的[[Performance Indicators|教育指标]]报告提供高达 50% 至 60% 的基础数据支撑。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
 >   - **1999** 在蒙特利尔成立[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UNESCO Institute for Statistics，UIS），奠定联合国统一教育统计基石。
 >
 > - **2000–2022** **[[UN Sustainable Development Goals|SDG 4]] 全球协调中枢、[[Learning Crisis|学习危机]]界定与数字时代再平衡**
@@ -181,7 +185,7 @@ updated: 2026-10-23
 >
 >   - **2023** 发布《生成式人工智能在教育与研究中的应用指南》。
 >   - **2024** 发布《学生及教师人工智能能力框架》，防范技术依赖导致的批判力削弱。
->   - **2024** 全球教育合作机制（GCM）开展全球教育证据利用战略审查，识别学术与决策、全球与本土的双重反馈断裂，确立以区域枢纽与三维利用路径为支撑的全球循证治理路线图。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13–15, 38–45)]]
+>   - **2024** [[Global Education Cooperation Mechanism|全球教育合作机制]]（GCM）开展全球教育证据利用战略审查，识别学术与决策、全球与本土的双重反馈断裂，确立以区域枢纽与三维利用路径为支撑的全球[[Output-Oriented Governance|循证治理]]路线图。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13–15, 38–45)]]
 
 ---
 

@@ -33622,6 +33622,17 @@
     ]
   },
   {
+    "title": "EVIPNet",
+    "type": "fact",
+    "path": "wiki/facts/global/EVIPNet.md",
+    "aliases": [
+      "证据知情政策网络",
+      "Evidence-informed Policy Network",
+      "证据知情决策网络",
+      "WHO EVIPNet"
+    ]
+  },
+  {
     "title": "GEMS Education",
     "type": "fact",
     "path": "wiki/facts/global/GEMS Education.md",
@@ -33642,6 +33653,16 @@
     ]
   },
   {
+    "title": "Global Education Cooperation Mechanism",
+    "type": "fact",
+    "path": "wiki/facts/global/Global Education Cooperation Mechanism.md",
+    "aliases": [
+      "全球教育合作机制",
+      "GCM",
+      "全球协调机制"
+    ]
+  },
+  {
     "title": "Global Partnership for Education",
     "type": "fact",
     "path": "wiki/facts/global/Global Partnership for Education.md",
@@ -33659,6 +33680,16 @@
     "aliases": [
       "国际教育成就评价协会",
       "International Association for the Evaluation of Educational Achievement"
+    ]
+  },
+  {
+    "title": "INEE",
+    "type": "fact",
+    "path": "wiki/facts/global/INEE.md",
+    "aliases": [
+      "机构间危机教育网络",
+      "Inter-agency Network for Education in Emergencies",
+      "危机教育机构间网络"
     ]
   },
   {
@@ -33750,6 +33781,15 @@
       "诺德安达教育集团",
       "Nord Anglia",
       "Nord Anglia Education PLC"
+    ]
+  },
+  {
+    "title": "NORRAG",
+    "type": "fact",
+    "path": "wiki/facts/global/NORRAG.md",
+    "aliases": [
+      "国际教育与培训合作政策研究网络",
+      "Network for International Policies and Cooperation in Education and Training"
     ]
   },
   {

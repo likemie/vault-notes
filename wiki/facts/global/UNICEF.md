@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Learning Crisis]]"
   - "[[Knowledge Production]]"
+  - "[[Counseling Effects]]"
   - "[[Paradigm]]"
   - "[[Geopolitics]]"
   - "[[Global Education Governing Complex]]"
@@ -48,14 +49,15 @@ related_facts:
   - "[[OECD]]"
   - "[[Learning Data Compact]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[INEE]]"
   - "[[Global Partnership for Education]]"
   - "[[PISA]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Building Evidence in Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -97,7 +99,7 @@ updated: 2026-10-23
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **指南、规程与标准体系** 《爱生学校框架手册》；《紧急情况下教育最低标准》（INEE 核心起草方）；《早期儿童全面发展（ECD）指标框架》；《[[Social-Emotional Learning|社会情感学习]]实施指南》。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 544)]]
+> - **指南、规程与标准体系** 《爱生学校框架手册》；《紧急情况下教育最低标准》（[[INEE]] 核心起草方）；《早期儿童全面发展（ECD）指标框架》；《[[Social-Emotional Learning|社会情感学习]]实施指南》。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 544)]]
 > - **数据库、证据库与监测平台** [[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS）全球微观数据库（涵盖 110 余国逾 300 次大型抽样普查）；儿童教育剥夺与辍学率监测平台。
 > - **旗舰项目、调查与测评** 联合国女童教育倡议（UNGEI）；“受教育不能等待”（Education Cannot Wait）紧急教育基金共建；与 [[UNESCO]]、[[World Bank|世行]]联合签署的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
 > - **教师专业增能与性别平等项目** 资助并设计面向发展中国家农村小学的在职教师培训计划，支持基层女教师专业能力建设与实践自主性（如印度北方邦女教师在职培训项目；Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
@@ -114,7 +116,7 @@ updated: 2026-10-23
 > - **全球证据中介网络核心枢纽** 在全球 654 个证据平台与机构的网络拓扑测绘中，联合国儿童基金会居于中心网络第 3 位（网络连接度 19，核心伙伴为世界银行），与教科文组织、世界银行、经合组织等少数多边机构共同构成主导全球教育证据流动的中枢。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 20–22)]]
 > - **资源与网络规模** 年均总预算超 60–80 亿美元，其中教育领域投入年均逾 10 亿美元；雇员与志愿网络超 15,000 人，驻扎 190 多个国家一线。
 > - **学术与[[Knowledge Production|知识生产]]** [[Multiple Indicator Cluster Surveys|MICS]] 调查成为发展社会学、流行病学与比较教育学衡量微观儿童生存与教育不平等的全球首选数据库，衍生了数万项同行评审学术成果。
-> - **政策与制度渗透** 促使全球超 100 个国家将儿童保护细则、早期儿童保育与教育（ECCE）以及危机心理辅导纳入国家教育法案与财政扶贫纲要。
+> - **政策与制度渗透** 促使全球超 100 个国家将儿童保护细则、早期儿童保育与教育（ECCE）以及危机[[Counseling Effects|心理辅导]]纳入国家教育法案与财政扶贫纲要。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领** 率先打破纯认知纸笔测验的狭隘[[Paradigm|范式]]，将“[[Social-Emotional Learning|社会情感能力]]（SEL）”与“微观家庭福祉”引入全球主流教育政策视野，促成[[OECD|经合组织]]等其他多边机构的政策跟进。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 544)]]

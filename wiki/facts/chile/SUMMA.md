@@ -12,9 +12,9 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 40
-fact_related_level: 4
-fact_related_stars: "💎⭐"
+fact_related_count: 39
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "regional-research-laboratory"
 headquarters: "Santiago, Chile"
@@ -30,8 +30,6 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Evaluation Research]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Policy Brokerage]]"
   - "[[Metacognition]]"
   - "[[Peer-Supported Learning]]"
   - "[[Learnology]]"
@@ -46,7 +44,6 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge Mediation]]"
-  - "[[Social Impact Investing]]"
 related_theories: []
 related_methods:
   - "[[Research Synthesis]]"
@@ -63,14 +60,16 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Global Education Monitoring Report]]"
   - "[[Knowledge and Innovation Exchange]]"
+  - "[[Education Innovation and Research]]"
   - "[[World Bank]]"
+  - "[[INEE]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Evidence for Learning]]"
   - "[[Evidence for Education Network]]"
   - "[[Evidence Network]]"
 related_arguments:
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Rowe_2022_IJER]]"
 confidence: high
@@ -98,12 +97,12 @@ updated: 2026-10-23
 > - **2017 — 循证工具与创新地图发布** 在智利、乌拉圭、厄瓜多尔、墨西哥和哥伦比亚等国相继启动国家级工作网络；在厄瓜多尔基多发布《有效教育实践平台》（Plataforma de Prácticas Efectivas），在智利圣地亚哥上线《教育创新地图》（Mapa de Innovaciones）。
 > - **2018 — 跨国证据生态战略构建与矿业资本注资** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）与[[BHP Foundation|必和必拓基金会]]联合启动为期 5 年的“[[Building a Global Evidence Ecosystem for Teaching|构建全球教学证据生态系统]]”项目，SUMMA 获选为拉美和加勒比地区核心海外中枢，获得长期注资以推动工具包西葡双语转译与本土现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **2019 — 基金会独立法人化与 EDU-LAC 基金启动** 正式依法登记为独立法人“SUMMA 基金会”；携手 EEF 与必和必拓基金会发起设立“EDU-LAC 影响力基金”（Fondo Impacto EDU-LAC），专门资助拉美本土学校层级因果干预评估。
-> - **2020–至今 — 多边枢纽深化与区域网络扩展** 联合[[UNESCO|联合国教科文组织]]（UNESCO）发布拉美区域《[[Global Education Monitoring Report|全球教育监测报告]]》（GEM Report LAC）；携手[[Global Partnership for Education|全球教育伙伴关系]]（GPE）与加拿大 IDRC 建立 [[Knowledge and Innovation Exchange|KIX]] LAC 枢纽；在教科文组织全球战略审查中被评为拉美首个教育创新与研究实验室典范；业务协同国家扩展至 21 国，成为全球南方规模最大的跨国教育证据中介实体。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 43–45)]]
+> - **2020–至今 — 多边枢纽深化与区域网络扩展** 联合[[UNESCO|联合国教科文组织]]（UNESCO）发布拉美区域《[[Global Education Monitoring Report|全球教育监测报告]]》（GEM Report LAC）；携手[[Global Partnership for Education|全球教育伙伴关系]]（GPE）与加拿大 IDRC 建立 [[Knowledge and Innovation Exchange|KIX]] LAC 枢纽；在教科文组织全球战略审查中被评为拉美首个[[Education Innovation and Research|教育创新与研究]]实验室典范；业务协同国家扩展至 21 国，成为全球南方规模最大的跨国教育证据中介实体。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 43–45)]]
 
 ---
 
 > [!actor-grid] 组织治理架构
-> - **董事会（Directorio）** 治理最高权力机构，由来自拉美 10 国的权威学者、前教育部长及国际组织高级专家组成。智利前教育部课程与评估主任克里斯蒂安·考克斯（Cristián Cox）担任主席；哈佛大学教授埃米利亚娜·维加斯（Emiliana Vegas，曾任[[World Bank|世界银行]]教育总监与美洲开发银行教育处长）、哥伦比亚安第斯大学教授恩里克·乔克斯（Enrique Chaux）、秘鲁 GRADE 主任圣地亚哥·奎托（Santiago Cueto）、厄瓜多尔前教育部长蒙塞拉特·克里默（Monserrat Creamer）、墨西哥前国家教育[[Evaluation Research|评估研究]]所（INEE）所长西尔维亚·施梅尔克斯（Sylvia Schmelkes）、巴西世界银行前教育高级总监克劳迪娅·科斯汀（Claudia Costin）、巴拿马前副外长尼维亚·卡斯特雷隆（Nivia Castrellón）及执行总监哈维尔·冈萨雷斯（Javier González）出任董事。
+> - **董事会（Directorio）** 治理最高权力机构，由来自拉美 10 国的权威学者、前教育部长及国际组织高级专家组成。智利前教育部课程与评估主任克里斯蒂安·考克斯（Cristián Cox）担任主席；哈佛大学教授埃米利亚娜·维加斯（Emiliana Vegas，曾任[[World Bank|世界银行]]教育总监与美洲开发银行教育处长）、哥伦比亚安第斯大学教授恩里克·乔克斯（Enrique Chaux）、秘鲁 GRADE 主任圣地亚哥·奎托（Santiago Cueto）、厄瓜多尔前教育部长蒙塞拉特·克里默（Monserrat Creamer）、墨西哥前国家教育[[Evaluation Research|评估研究]]所（[[INEE]]）所长西尔维亚·施梅尔克斯（Sylvia Schmelkes）、巴西世界银行前教育高级总监克劳迪娅·科斯汀（Claudia Costin）、巴拿马前副外长尼维亚·卡斯特雷隆（Nivia Castrellón）及执行总监哈维尔·冈萨雷斯（Javier González）出任董事。
 > - **教育政策咨询委员会（Consejo Asesor de Políticas Educativas, CAPE）** 由拉美 10 余个成员国教育部部长、副部长以及国家教育评价机构最高官员组成，专责审核 SUMMA 战略研发方向，保障研究议程与各主权国家教育优先政策的制度化咬合。
 > - **执行机构与跨学科研发团队** 执行总部设于圣地亚哥，由执行总监 Javier González 与副总监 Rafael Carrasco 领导，汇集经济学、社会学、教育学与数据科学领域的跨国跨学科研究团队（80% 以上拥有硕士学位，约三分之一获博士学位）。
 
@@ -177,11 +176,11 @@ updated: 2026-10-23
 > | [[BHP Foundation]] | Fact (Organization) | 提供长期专项战略慈善资助、支持建设拉美证据生态的跨国矿业资本方。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英国循证母体机构，与 SUMMA 合作开展工具包西葡双语转译与因果评估方法输出。 |
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Organization) | 被 SUMMA 翻译本土化为《有效教育实践平台》的核心实证证据工具箱。 |
-> | [[Evidence for Learning]] | Fact (Organization) | 同受必和必拓基金会资助建立的澳大利亚姊妹证据中介机构。 |
+> | [[Evidence for Learning]] | Fact (Organization) | 同受必和必拓基金会资助建立的澳大利亚姊妹[[Educational Brokerage Agency\|证据中介机构]]。 |
 > | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | 基金会与 EEF 联合发起、SUMMA 作为核心海外受资助中枢的跨国五年战略项目。 |
-> | [[Evidence for Education Network]] | Fact (Organization) | SUMMA 作为拉丁美洲与加勒比核心中枢参与的全球多边常设证据网络。 |
+> | [[Evidence for Education Network]] | Fact (Organization) | SUMMA 作为拉丁美洲与加勒比核心中枢参与的全球多边常设[[Evidence Network\|证据网络]]。 |
 > | [[Global Partnership for Education]] | Fact (Organization) | 联合设立运营 Centro KIX LAC 的多边全球教育伙伴机构。 |
-> | [[Evidence Ecosystem]] | Concept | SUMMA 所致力于在拉美和加勒比多国构建的去中心化循证知识治理生态。 |
+> | [[Evidence Ecosystem]] | Concept | SUMMA 所致力于在拉美和加勒比多国构建的去中心化循证[[Epistemic Governance\|知识治理]]生态。 |
 > | [[Knowledge Mediation]] | Concept | SUMMA 承担的连接国际科研证据与本土一线政策/学校实践的中介职能。 |
 > | [[Educational Brokerage Agency]] | Concept | SUMMA 作为独立教育证据经纪机构的理论与组织属性定性。 |
 > | [[Venture Philanthropy]] | Concept | 必和必拓基金会介入 SUMMA 孵化所体现的现代跨国风险慈善模式。 |
