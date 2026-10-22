@@ -13,7 +13,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,13 +27,12 @@ tags:
   - policy/national-strategy
 related_concepts:
   - "[[Soft Power]]"
-  - "[[Educational Diplomacy]]"
-  - "[[Public Diplomacy]]"
   - "[[Research Universities]]"
-  - "[[Academic Freedom]]"
-  - "[[Internationalization of Higher Education]]"
   - "[[International Branch Campus]]"
+  - "[[Educational Diplomacy]]"
   - "[[Student Mobility]]"
+  - "[[Academic Freedom]]"
+  - "[[Public Diplomacy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -42,8 +41,8 @@ related_facts:
   - "[[Project 211]]"
   - "[[Project 985]]"
   - "[[Thousand Talents Program]]"
-  - "[[Confucius Institute]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Confucius Institute]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Woo_2023_HEP]]"
@@ -82,8 +81,8 @@ updated: 2026-10-22
 
 > [!timeline] 政策时间线
 > - 1993 颁布《中国教育改革和发展纲要》，确立教育与社会主义市场经济、科技体制改革相适应的导向。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
-> - 1995 启动“211 工程”，面向 21 世纪重点建设 100 所左右的高等学校和一批重点学科。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
-> - 1998 启动“985 工程”，重点支持北京大学、清华大学等创建世界一流大学与高水平[[Research Universities|研究型大学]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
+> - 1995 启动“[[Project 211|211 工程]]”，面向 21 世纪重点建设 100 所左右的高等学校和一批重点学科。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
+> - 1998 启动“[[Project 985|985 工程]]”，重点支持北京大学、清华大学等创建世界一流大学与高水平[[Research Universities|研究型大学]]。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 > - 2008 启动海外高层次人才引进“千人计划”，延揽超过 7,600 名海外顶尖科学家与学者任教。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 > - 2015 国务院印发《统筹推进世界一流大学和一流学科建设总体方案》，正式确立“双一流”战略框架。
 > - 2017 三部委正式公布首轮建设高校名单（42 所一流大学建设高校，95 所一流学科建设高校）。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
@@ -151,7 +150,9 @@ updated: 2026-10-22
 > | [[International Branch Campus]] | Concept | 双一流高校如厦门大学与苏州大学在东南亚设立境外独立校区的制度实践。 |
 > | [[Academic Freedom]] | Concept | 围绕大学深度依附国家大战略导向而引发的大学自主权理论争议。 |
 > | [[Student Mobility]] | Concept | 双一流学科建设直接拉动的沿线国家留学生在华流动与国际化指标。 |
-> | [[Thousand Talents Program]] | Fact (Program) | 与双一流学科建设深度协同、延揽海外高层次师资团队的国家引才工程。 |
+> | [[Project 211\|Project 211]] | Fact (Program) | 双一流战略整合与重构的早期国家重点大学和学科建设计划。 |
+| [[Project 985\|Project 985]] | Fact (Program) | 双一流战略整合与重构的早期世界一流大学建设计划。 |
+| [[Thousand Talents Program]] | Fact (Program) | 与双一流学科建设深度协同、延揽海外高层次师资团队的国家引才工程。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 双一流高校定向配置丝路奖学金与共建大学联盟的宏观地缘战略环境。 |
 > | [[Confucius Institute]] | Fact (Program) | 双一流承办大学在海外输出语言教学与文化交流的合作网络。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统梳理中国高教政策演进，剖析科研扩张与财政投入如何支撑国家教育外交与软实力战略。 |

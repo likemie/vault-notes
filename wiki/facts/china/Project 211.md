@@ -4,13 +4,16 @@ aliases:
   - 211工程
   - 211 工程
   - 国家211工程
-  - Project 211
 summary: "中国于1995年启动的国家高水平大学与重点学科建设工程。面向21世纪集中优势资源支持约112所高等学校与一批重点学科，推动教学科研条件改善、高层次人才培养与国家公共服务体系建设，后统筹纳入双一流建设。"
 type: fact
 subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "1995–2019"
 initiator_organization: "中华人民共和国国家教育委员会（现教育部） / 国家计划委员会（现国家发改委） / 财政部"
 tags:
@@ -22,11 +25,8 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
-  - "[[Intellectual Capital]]"
-  - "[[Internationalization of Higher Education]]"
 related_theories: []
-related_methods:
-  - "[[Documentary Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:

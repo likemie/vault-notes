@@ -5,13 +5,16 @@ aliases:
   - 985 工程
   - 国家985工程
   - World-Class University Project
-  - Project 985
 summary: "中国于1998年启动的世界一流大学建设工程。通过中央与地方共建以及超常规财政资助，重点支持39所高水平研究型大学建设世界先进水平一流大学，显著提升国家前沿基础研究实力与国际学术排位，后统筹纳入双一流建设。"
 type: fact
 subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "1998–2019"
 initiator_organization: "中华人民共和国教育部 / 财政部"
 tags:
@@ -24,13 +27,8 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Soft Power]]"
-  - "[[Competitiveness]]"
-  - "[[Intellectual Capital]]"
-  - "[[Academic Freedom]]"
-  - "[[Internationalization of Higher Education]]"
 related_theories: []
-related_methods:
-  - "[[Documentary Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -107,7 +105,7 @@ updated: 2026-10-22
 
 > [!stat-cards]- 关键实证数据
 > - **39** （所） 工程最终认定的世界一流大学建设高校总数，汇聚了中国绝大多数顶级学术科研力量。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
-> - **195万** （篇） 2020 年中国科研学术发文总量，985 工程高校在高质量产出中占据核心支柱地位。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
+> - **1.95M** （篇） 2020 年中国科研学术发文总量，985 工程高校在高质量产出中占据核心支柱地位。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
 > - **1:1+** 绝大多数省部共建协议中地方政府对中央专项资金的配套投入比例，带动了地方高额教育财政倾斜。
 
 ---
@@ -119,7 +117,7 @@ updated: 2026-10-22
 > >
 > > - **资源集中批评** 批评意见指出，全国高教公共财政在较长时期内过度向 39 所高校倾斜，造成了普通高等院校办学条件与师资待遇的严重断层，加剧了不同高校梯队间的马太效应。
 > > - **国家战略辩护** 辩护意见指出，中国作为追赶型发展中国家，在国际高教竞争格局中必须集中要素培育“战略国家队”，唯有在少数节点取得突破才能带动整个创新生态的发展。
-> >
+>
 > > [!axis] 唯量化考核导向 vs 本土使命回归
 > > 针对工程推行中过度依赖西方排名指标与期刊发文数量展开的学术反思。
 > >
