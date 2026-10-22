@@ -174,4 +174,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 引用 Schwichow 等（2016）的[[Meta-analysis|元分析]]反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]：[[Variable\|变量]]控制策略的习得中，显性讲授（g = 0.58）与[[Inquiry-Based Learning\|探究式教学]]（g = 0.65）效果相当。
+> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 引用 Schwichow et al.（2016）的[[Meta-analysis|元分析]]反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]：[[Variable\|变量]]控制策略的习得中，显性讲授（g = 0.58）与[[Inquiry-Based Learning\|探究式教学]]（g = 0.65）效果相当。

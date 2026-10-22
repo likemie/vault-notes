@@ -47,7 +47,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 证据反弹（Evidence Backlash）是指在后真相与社交网络极化环境中，当公众或特定利益群体遭遇与自身既有信念、政治立场或文化认同相冲突的实证研究证据时，不仅拒绝接受该证据，反而激发出更强烈的心理防卫与对“专家群体”及“科学过程”本身的激进贬低、质疑甚至仇视的[[Epistemology\|认识论]]现象。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]引述 Lewandowsky 等人（2017）的诊断，指出证据反弹彻底粉碎了古典循证运动“只要提供严谨数据即可导向理性决策”的理想化假定。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])
+> 证据反弹（Evidence Backlash）是指在后真相与社交网络极化环境中，当公众或特定利益群体遭遇与自身既有信念、政治立场或文化认同相冲突的实证研究证据时，不仅拒绝接受该证据，反而激发出更强烈的心理防卫与对“专家群体”及“科学过程”本身的激进贬低、质疑甚至仇视的[[Epistemology\|认识论]]现象。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]引述 Lewandowsky et al.（2017）的诊断，指出证据反弹彻底粉碎了古典循证运动“只要提供严谨数据即可导向理性决策”的理想化假定。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向证据与受众心理认知/群体认同之间的对抗性互动，表现为“科学事实愈确凿，群体抗拒愈激进”的反常效应。
@@ -75,7 +75,7 @@ updated: 2026-10-22
 > [!finding-cards] 对[[Educational Brokerage Agency\|教育中介机构]]的战略启示
 > - **超越“信息[[Deficit Model of Science Communication\|赤字模型]]”** 中介机构必须认识到，证据不被利用并非单纯因为教师或官员“不懂或看不到”，而是面临深层的[[Epistemology\|认识论]]防卫；因此，单向灌输和海量发布[[Abstract\|研究摘要]]只会加剧反弹。
 > - **采纳[[Technocognition\|技术认知进路]]** 唯有将认知科学的防偏见接种机制与算法架构设计结合，打破信息茧房，才能弱化证据反弹的滋生土壤。
-> - **重建社会关系与人际信任** 正如 Langer 等（2016）所指出，唯有植根于长期社群互动、对话与尊重实践者专业经验的关系网络，才能在充满张力的情境中化解反弹，达成深层的知识转化。
+> - **重建社会关系与人际信任** 正如 Langer et al.（2016）所指出，唯有植根于长期社群互动、对话与尊重实践者专业经验的关系网络，才能在充满张力的情境中化解反弹，达成深层的知识转化。
 
 ---
 

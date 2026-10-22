@@ -176,13 +176,13 @@ updated: 2026-10-22
 > > 批评者指出，在复杂的教育与社会干预中，往往极难清晰剥离出哪些部分属于不可变动的“核心功能”，哪些属于可自由变通的“表面形态”。
 > >
 > > - **实验方法学者（2015）** 认为模糊了核心与形式的界限会导致难以明确干预的真实有效成分。
-> > - **Chambers 等人（2013）** 回应指出必须依赖扎实的干预作用机理研究与形成性[[Implementation and Process Evaluation\|过程评估]]加以厘清。
+> > - **Chambers et al.（2013）** 回应指出必须依赖扎实的干预作用机理研究与形成性[[Implementation and Process Evaluation\|过程评估]]加以厘清。
 >
 > > [!axis] 调适自由度与评估科学性的平衡
 > > 过度鼓励情境调适可能导致不同实施现场产出高度分化的干预版本，增加多中心综合评价与统计[[Meta-analysis\|元分析]]的难度。
 > >
 > > - **定量评价研究者（2018）** 担忧[[Heterogeneity\|异质性]]剧增削弱因果结论的外在效度。
-> > - **Rickinson 等人（2022）** 强调教育实践以解决本土实际问题为第一要义，评估[[Paradigm\|范式]]应当适应情境复杂性。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 144)]]
+> > - **Rickinson et al.（2022）** 强调教育实践以解决本土实际问题为第一要义，评估[[Paradigm\|范式]]应当适应情境复杂性。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 144)]]
 
 > [!critique] 批评索引
 > - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 指出在教育领域推行 DSF 需同步建设教师的[[Research Literacy\|研究素养]]与[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]，否则易滑入形式主义调适。

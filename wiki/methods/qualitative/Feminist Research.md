@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Feminist Research
@@ -118,7 +118,7 @@ updated: 2026-10-16
 
 ### Webb 等的女性主义教学法六项原则
 
-> [!principle] Webb 等（2004）的研究方法论教学中的女性主义教学法原则
+> [!principle] Webb et al.（2004）的研究方法论教学中的女性主义教学法原则
 > 1. 重构教授–学生关系——从等级走向平等和共享。
 > 2. 赋权——为了参与式民主。
 > 3. 建立社区——通过协作学习。

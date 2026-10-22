@@ -122,7 +122,7 @@ Cooper and Schindler (2001, p. 117) 补充了额外保护措施（[[Argument_Coh
 ## 争议与批评
 
 > [!tension] 保密是否应被打破
-> Wiles 等 (2008, p. 419) 讨论了保密是否应因公共或私人安全利益而被打破，涉及（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 102–103]]）：
+> Wiles et al. (2008, p. 419) 讨论了保密是否应因公共或私人安全利益而被打破，涉及（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 102–103]]）：
 > - 实际或预谋的刑事活动
 > - 个人面临风险（如报告被虐待的儿童）
 > - 脆弱群体（儿童、有特殊需要者、最近丧亲者、来自暴力家庭的儿童）

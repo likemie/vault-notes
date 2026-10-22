@@ -79,7 +79,7 @@ updated: 2026-10-22
 
 > [!proposition-chain] 核心命题一｜研究参与由多层生态条件共同决定，不能只从学校内部解释
 > - **前提一** 框架把研究参与嵌入微观、中观、外、宏观与时间五层生态，说明条件分布在各个层面（Godfrey & Brown, 2019）。
-> - **前提二** Hagevold 等人（2026, pp.4–5）以生态模型为个体、组织与系统三个分析层级提供子主题，并在系统层级补充一般社会因素与教育政策政治两个子主题。
+> - **前提二** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, pp.4–5)]]以生态模型为个体、组织与系统三个分析层级提供子主题，并在系统层级补充一般社会因素与教育政策政治两个子主题。
 > - **推导** 因此，评估或改进研究参与必须同时看学校内外多个层面的条件，而不只是学校内部或教师个人。
 
 > [!proposition-chain] 核心命题二｜学校与更大系统之间通过双向[[Knowledge Mobilisation\|知识动员]]相互强化
@@ -128,7 +128,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 发展脉络
 > - **2019 — 框架提出** Godfrey 与 Brown（2019）在《[[Research-Engaged School\|研究参与学校]]的生态系统》中提出五层生态模型，并把[[Knowledge Mobilisation\|知识动员]]表示为学校与系统的双向纽带。
-> - **2026 — 作为先验框架子主题被采用** Hagevold 等人（2026）以生态模型为初始框架的个体、组织与系统层级提供子主题，并据实证结果把[[Governing Mechanisms of Research Use\|研究使用治理机制]]重构为四类跨层机制。
+> - **2026 — 作为先验框架子主题被采用** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]以生态模型为初始框架的个体、组织与系统层级提供子主题，并据实证结果把[[Governing Mechanisms of Research Use\|研究使用治理机制]]重构为四类跨层机制。
 
 ---
 

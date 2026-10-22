@@ -626,6 +626,8 @@ def writing_baseline_key(issue: "Issue") -> Tuple[str, str, str, str]:
     # Link rendering adds spaces around link text and the context is cut at
     # 160 chars, so compare whitespace-free text over a stable prefix.
     head, _, context = _REVIEW_ID_RE.sub("待审查", issue.message).partition(" 语境：")
+    # Mechanical auto-fixes (等 -> et al.) must not turn an old hit into a new one.
+    context = LATIN_DENG_RE.sub(_latin_deng_replacement, context)
     return ("WRITING", issue.path, issue.code, head + "|" + re.sub(r"\s+", "", context)[:100])
 
 
@@ -2285,6 +2287,56 @@ def fix_bold_boundaries(text: str) -> Tuple[str, int]:
     return head + body, len(positions)
 
 
+# CITATION_LATIN_DENG: Latin-script author + 等/等人 before a year is an English
+# citation and takes "et al.": "Hopkins 等, 1996" -> "Hopkins et al., 1996",
+# "Cai 等人（2025）" -> "Cai et al.（2025）". Chinese authors keep 等 ("王等, 2025").
+# Without a year, "X 等" is ordinary Chinese ("PISA、TIMSS 等", "Mignolo、Dussel 等")
+# and is left alone.
+LATIN_DENG_RE = re.compile(
+    r"(?<![A-Za-z\u00C0-\u024F'’\-])"
+    r"(?P<name>[A-Z][A-Za-z\u00C0-\u024F'’\-]*[A-Za-z\u00C0-\u024F]\.?)"
+    r"\s*(?:等人|等)"
+    r"(?:\s*(?P<comma>[，,])\s*|\s*(?P<paren>[（(])\s*)"
+    r"(?P<year>(?:19|20)\d{2}[a-z]?)(?![0-9])"
+)
+
+
+def _latin_deng_replacement(m: re.Match[str]) -> str:
+    name = m.group("name")
+    if m.group("comma"):
+        return f"{name} et al., {m.group('year')}"
+    paren = m.group("paren")
+    return f"{name} et al.{' ' if paren == '(' else ''}{paren}{m.group('year')}"
+
+
+def fix_latin_deng(text: str) -> Tuple[str, int]:
+    """Replace 等/等人 after Latin-script cited authors with et al. (code untouched)."""
+    masked = mask_markdown_code(text)
+    out: List[str] = []
+    pos = 0
+    count = 0
+    for m in LATIN_DENG_RE.finditer(masked):
+        out.append(text[pos:m.start()])
+        out.append(_latin_deng_replacement(m))
+        pos = m.end()
+        count += 1
+    out.append(text[pos:])
+    return "".join(out), count
+
+
+def check_latin_deng(path: Path, text: str, issues: List[Issue]) -> None:
+    if not is_wiki_entry_path(path) or TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
+        return
+    masked = mask_markdown_code(text)
+    for m in LATIN_DENG_RE.finditer(masked):
+        issues.append(Issue(
+            "WARN", rel(path),
+            f"英文作者引用用 et al.，不用“等”：{m.group(0)!r} -> {_latin_deng_replacement(m)!r}",
+            line=line_of_pos(text, m.start(), 1),
+            code="CITATION_LATIN_DENG",
+        ))
+
+
 def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
     # Unclosed code fence.
     if text.count("```") % 2 != 0:
@@ -3391,6 +3443,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_axis_callouts(path, text, issues)
     check_stat_card_titles(path, text, issues)
     check_markdown_misc(path, text, issues)
+    check_latin_deng(path, text, issues)
     check_templater_placeholders(path, text, issues)
 
     data = check_frontmatter(path, text, by_title, issues)
@@ -3760,6 +3813,9 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
         new_text, n2 = fix_summary_quotes(new_text)
         new_text, n3 = fix_axis_callouts(new_text)
         new_text, n4 = fix_bold_boundaries(new_text)
+        if is_wiki_entry_path(path):
+            new_text, n_deng = fix_latin_deng(new_text)
+            n4 += n_deng
         n5 = n6 = 0
         if is_wiki_entry_path(path):
             new_text, n5 = fix_citation_link_displays(new_text, argument_citations)

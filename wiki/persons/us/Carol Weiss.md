@@ -116,7 +116,7 @@ updated: 2026-10-22
 > [!person-network] 关系网络
 > - **同一研究传统** Knorr — 与 Weiss 的框架互补，Knorr（1977）区分[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]与工具性使用，共同构成类型学来源。
 > - **概念传统** [[Research Utilization\|研究利用]]、概念性、工具性与象征性使用 — Weiss 是这两个概念条目的思想源头。
-> - **后继整合** Nutley 等（2007）在公共部门证据使用研究中系统化三分类，直接承继 Weiss 的框架。
+> - **后继整合** Nutley et al.（2007）在公共部门证据使用研究中系统化三分类，直接承继 Weiss 的框架。
 
 ---
 

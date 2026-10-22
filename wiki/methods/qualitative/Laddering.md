@@ -128,4 +128,4 @@ updated: 2026-10-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 以 Crudge and Johnson（2007）分析搜索引擎[[Construct\|构念]]和 Voss 等（2007）识别学生期望的讲师品质为例，说明阶梯法的用法；访谈得到的阶梯结构更复杂。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25]] — 以 Crudge and Johnson（2007）分析搜索引擎[[Construct\|构念]]和 Voss et al.（2007）识别学生期望的讲师品质为例，说明阶梯法的用法；访谈得到的阶梯结构更复杂。

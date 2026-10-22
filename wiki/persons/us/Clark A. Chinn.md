@@ -149,7 +149,7 @@ updated: 2026-10-22
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 作为核心作者之一，提出探究学习六要素[[Analytic Framework\|分析框架]]，运用详实实证反驳[[Direct Instruction\|直接教学]]绝对优越论，确立指导式探究的循证优越性与时序协同模型。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 联合提出基于 AIR 模型的科学论证质量评价新范式，论证初中生如何在真实生态探究中行使[[Epistemic Agency\|认识能动性]]并协同建构可靠性规范。
 > - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 奠基性论文，系统引入当代哲学认识论，确立扩展认识论认知分析维度，为后续 AIR 模型的诞生奠定理论基础。
-> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 Chinn 等人（2011）的认识论认知理论，论证学习者关于知识、证据与确证的认知信念如何塑造其与生成式 AI 交互时的[[Epistemic Dependence\|认识依赖]]与[[Evaluative Judgement\|评价性判断]]。
+> - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]]的认识论认知理论，论证学习者关于知识、证据与确证的认知信念如何塑造其与生成式 AI 交互时的[[Epistemic Dependence\|认识依赖]]与[[Evaluative Judgement\|评价性判断]]。
 
 ---
 

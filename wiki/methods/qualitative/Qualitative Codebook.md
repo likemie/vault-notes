@@ -179,7 +179,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1980s–1990s 经典[[Content Analysis\|内容分析]]与规则公开阶段** 随着量化与[[Qualitative Content Analysis\|质性内容分析]]在社会科学领域的规范化，韦伯（Weber, 1990）与迈林（Mayring, 2004）确立了公开透明的编码规则（Coding Rules），强调依托显性化标准消除编码员主观变异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Mayring, 2004; 引自 Cohen et al., 2011, p. 563)]]
-> - **2000s–2010s [[Qualitative Reliability\|质性信度]]与健康科学多编码员协作阶段** 随着团队[[Qualitative Research\|质性研究]]在健康科学与政策评估领域的普及，Guest 等人（2012）正式将编码手册标准化为包含标签、详略定义、纳入排除准则与引文样例的完整表格工具，成为评估质性[[Reliability\|信度]]的必备规范。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 211)]]
+> - **2000s–2010s [[Qualitative Reliability\|质性信度]]与健康科学多编码员协作阶段** 随着团队[[Qualitative Research\|质性研究]]在健康科学与政策评估领域的普及，Guest et al.（2012）正式将编码手册标准化为包含标签、详略定义、纳入排除准则与引文样例的完整表格工具，成为评估质性[[Reliability\|信度]]的必备规范。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 211)]]
 > - **2010s–2020s [[Qualitative Computer Software\|CAQDAS]] 软件节点架构与层级包容阶段** 计算机辅助质性数据分析软件（如 NVivo、MAXQDA）将编码手册与节点属性库、字典检索系统相融合，Gibbs（2007）提出包容层级与浅层控制原则，编码手册兼具概念检索与矩阵比较功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Gibbs, 2007; 引自 Cohen et al., 2011, p. 562)]]
 > - **2020s 至今 大语言模型驱动的形式化提示词工程阶段** [[Generative Artificial Intelligence\|生成式人工智能]]引入质性分析后，编码手册演变为直接驱动大语言模型（LLM）执行演绎赋码与链式推理的系统提示词协议（System Prompts），实现人机认知协同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, Ch. 30.6)]]
 
@@ -193,7 +193,7 @@ updated: 2026-10-22
 > > 围绕预先确立的编码手册是否会扼杀[[Qualitative Research\|质性研究]]对意外发现的敏锐度存在长期争论。
 > >
 > > - **Ezzy（2002）** 批评预设范畴将数据分析禁锢在先验议程内，剥夺了对经验现实的动态感知，导致[[Content Analysis\|内容分析]]只能验证既有假说而无法生成新理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 574)]]
-> > - **Flick（1998）与 Cohen 等人（2011）** 反驳指出，初期理论演绎并不排斥中后期的经验归纳；通过反向案例核查与范畴动态重构，编码手册兼具理论检验与理论生成的双重弹性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 575)]]
+> > - **Flick（1998）与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]** 反驳指出，初期理论演绎并不排斥中后期的经验归纳；通过反向案例核查与范畴动态重构，编码手册兼具理论检验与理论生成的双重弹性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 575)]]
 >
 > > [!axis] 形式化规则切片 vs 情境叙事保真的张力
 > > 质性研究者担忧机械执行编码手册会造成原始经验生态的碎片化剥离。

@@ -58,7 +58,7 @@ DORA 不反对使用定量指标本身，而是反对不加批判地将期刊层
 
 ## 与产学合作的关系
 
-DORA 倡导的评估改革与激励教师参与[[University-Industry Collaboration|产学合作]]之间存在直接联系。现行终身教职评审制度中，研究成果几乎完全由同行评审出版物衡量，导致专利、[[Technology Transfer|技术转移]]、产业合作等商业化活动被系统地低估。Dean 等（2025）指出，教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间（p.250）。
+DORA 倡导的评估改革与激励教师参与[[University-Industry Collaboration|产学合作]]之间存在直接联系。现行终身教职评审制度中，研究成果几乎完全由同行评审出版物衡量，导致专利、[[Technology Transfer|技术转移]]、产业合作等商业化活动被系统地低估。[[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]]指出，教师可以理解地认为任何不服务于出版物产出的研究活动都是浪费时间（p.250）。
 
 将 DORA 的原则应用于产学合作领域意味着：在评估教师的[[Research Contribution|研究贡献]]时，不应只计算期刊论文数量和影响因子，还应认可产业合作的实际产出——包括专利授权、技术许可、行业标准制定、衍生企业创建、人才培养和社区影响([[Argument_Dean_2025_UICollaborationSupport|Dean et al., 2025, p.251]])。
 

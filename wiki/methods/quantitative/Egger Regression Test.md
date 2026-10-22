@@ -6,7 +6,7 @@ aliases:
   - "Egger Test"
   - "艾格回归检验"
   - "艾格检验"
-summary: "由 Matthias Egger 等人（1997）提出的参数化发表偏倚与漏斗图不对称性检验方法。通过对标准化效应量与其精度（标准误的倒数）建立线性回归方程，根据截距项是否显著偏离零来诊断小研究效应与发表偏倚。"
+summary: "由 Matthias Egger et al.（1997）提出的参数化发表偏倚与漏斗图不对称性检验方法。通过对标准化效应量与其精度（标准误的倒数）建立线性回归方程，根据截距项是否显著偏离零来诊断小研究效应与发表偏倚。"
 type: method
 method_type: quantitative
 method_family: "quantitative"

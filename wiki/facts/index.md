@@ -697,7 +697,7 @@ Total entries: **871**
 
 > [!index-list]- Program (6)
 > - [[Asia-Africa Growth Corridor]] — 印度与日本于2017年联合提出的跨大洲经济与海上互联互通倡议，意在连接亚非海洋经济与基础设施，但在推进中因缺乏非洲本土主体参与而遭遇推进停滞。
-> - [[China-Pakistan Economic Corridor]] — 作为“一带一路”旗舰项目的跨国互联互通综合战略工程，整合能源电站、油气管道、公路铁路干线、光纤网络与瓜达尔深水港，旨在打通中国直达印度洋的海陆通道并驱动沿线产业协同发展。
+> - [[China-Pakistan Economic Corridor]] — 作为“一带一路”倡议的旗舰工程与跨国互联互通战略走廊，整合能源电站、陆海综合交通网络、现代信息通信与瓜达尔深水港，并依托职业教育与留学生交流推进本土劳动力技能转化。
 > - [[International Baccalaureate Nutritional Science Course]] — 东南亚联合世界书院开发的国际文凭校内评价第六科，以本地饮食调查连接多学科知识与社区生活，跨校推广受阻，相关解释涉及师资与培训支持不足。
 > - [[Science Technology and Social Change Curriculum Pilot]] — 1982年提出的国际文凭辅助层级课程试点，通过基金会资助、跨校协作和在职培训把科学学习连接国际社会问题。
 > - [[Sino-Soviet Educational Cooperation]] — 1949至1960年间中苏社会主义同盟框架下的大规模教育与科技援助工程，涵盖万名苏联专家援华、数万中国留苏学生与高教院系调整，后因双边意识形态决裂于1960年骤然解体

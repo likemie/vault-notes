@@ -48,7 +48,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 技术认知法（Technocognition）是一种将**认知科学（Cognitive Science）** 关于人类记忆、偏见防卫与信息加工的心理规律，与**技术架构设计（Design & Technology）**（如推荐算法、事实核查与交互提示）深度结合的跨学科治理方法。该范式由认知心理学家 Stephan Lewandowsky 等人（2017）提出，并在 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 反思后真相时代[[Educational Brokerage Agency\|教育中介机构]]角色的研究中被明确确立为应对算法茧房与科学公信力危机的根本治理进路。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]])
+> 技术认知法（Technocognition）是一种将**认知科学（Cognitive Science）** 关于人类记忆、偏见防卫与信息加工的心理规律，与**技术架构设计（Design & Technology）**（如推荐算法、事实核查与交互提示）深度结合的跨学科治理方法。该范式由认知心理学家 Stephan Lewandowsky et al.（2017）提出，并在 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 反思后真相时代[[Educational Brokerage Agency\|教育中介机构]]角色的研究中被明确确立为应对算法茧房与科学公信力危机的根本治理进路。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 告别“只要提供更多客观证据就能消除错误偏见”的启蒙式古典理性假设，转向在算法技术底层植入认知免疫与主动纠偏机制。

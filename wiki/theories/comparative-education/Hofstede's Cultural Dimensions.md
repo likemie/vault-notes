@@ -89,7 +89,7 @@ updated: 2026-10-22
 > - **解释对象** 国家文化核心价值观模式、跨国组织行为与沟通风格差异、教育交往中的师生权威等级结构、教学法跨国转译的文化阻力，以及技术中介（如生成式 AI）对文化权力屏障的[[Interaction Effect\|调节效应]]。
 > - **理论问题** 如何量化度量不同国家在价值观与社会关系形态上的深层差异？这些宏观文化模式如何规约微观教育活动中的互动规约？在引入外部教学法或智能技术工具时，文化差异如何形塑其实际效能与适用边界？
 > - **理论类型** 宏观比较社会学与组织行为学实证模型、跨文化测量[[Analytic Framework\|分析框架]]，常作为比较教育研究、跨文化教学与教育技术[[Moderator Analysis\|调节效应分析]]中的宏观背景解释透镜。
-> - **知识位置** 由 [[Geert Hofstede]]（1980, 1986）奠基，后续与 Minkov 等人（2010）拓展为六维度体系；在比较教育中既作为教学法跨[[Cultural Validity\|文化适切性]]的假设生成器（[[Argument_Laursen_2015_Paideia\|Laursen, 2015]]），亦成为解构“[[Chinese Learner\|中国学习者]]”本质化刻板印象与“文化地图绘制”的批判焦点（[[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010]]）；近期在前沿教育技术[[Meta-analysis\|元分析]]中被用于解释权力距离对生成式 AI 促学效应的宏观调节机制（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）。
+> - **知识位置** 由 [[Geert Hofstede]]（1980, 1986）奠基，后续与 Minkov et al.（2010）拓展为六维度体系；在比较教育中既作为教学法跨[[Cultural Validity\|文化适切性]]的假设生成器（[[Argument_Laursen_2015_Paideia\|Laursen, 2015]]），亦成为解构“[[Chinese Learner\|中国学习者]]”本质化刻板印象与“文化地图绘制”的批判焦点（[[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010]]）；近期在前沿教育技术[[Meta-analysis\|元分析]]中被用于解释权力距离对生成式 AI 促学效应的宏观调节机制（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）。
 
 > [!claim] 核心主张
 > 文化是使一群人区别于另一群人的“心智软件（software of the mind）”，其核心由相对稳定、代际沉淀的价值观构成。该理论主张通过权力距离、个人主义/集体主义、不确定性规避、男性化/女性化、长期/短期导向与放纵/约束六个维度比较国家文化的结构性坐标。在教育[[Champ\|场域]]中，国家文化并不直接决定具体教学质量的成败，而是深刻规训了师生的权力不对称性、互动模式与不确定性容忍度：高权力距离文化强化了对教师权威的遵从与提问抑制，使得去中心化、低威胁的智能中介工具能够激发显著的“权力壁垒破除效应”；而将宏观文化维度机械套用于个体或遮蔽内部阶层分化，则会引发严重的[[Ecological Fallacy\|生态谬误]]与文化本质化偏误。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 36–37, 40)]]; [[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, pp. 45–46)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 13, 18)]]

@@ -242,4 +242,4 @@ updated: 2026-10-22
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Observation Method\|观察研究]]中的结构化编码体系与访谈质性分析，示范如何在教育研究中通过范畴化提炼核心概念与建构理论逻辑。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 探讨内容分析在[[Mixed Methods Research\|混合方法]]与质性文本研究中的应用，强调如何通过[[Winnowing\|数据筛选]]（Winnowing）将繁复编码收敛为 5–7 个核心解释主题。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 以 MAXQDA 对德国教育行政官员的 12 场[[Expert Interview\|专家访谈]]、2,796 篇报道与 1,500 份公文做混合编码，考察[[Evidence-Based Education\|循证教育]]工具如何被科层实践吸纳。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 征引 Rust 等（1999）与 Larsen（2001）对三大期刊近 2,000 篇论文的内容分析，以历史论文占比跌破 5% 证实学科的[[Historical Amnesia|历史健忘症]]。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 征引 Rust et al.（1999）与 Larsen（2001）对三大期刊近 2,000 篇论文的内容分析，以历史论文占比跌破 5% 证实学科的[[Historical Amnesia|历史健忘症]]。

@@ -36,7 +36,7 @@ related_methods: []
 related_facts:
   - "[[Sputnik Shock 1957]]"
 related_persons: []
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # W. H. G. Armytage
@@ -60,7 +60,7 @@ updated: 2026-10-16
 4. ***The Russian Influence on English Education* (1969)**：分析了十月革命前后的俄罗斯技术培训、复调工农教育与冷战时期人造卫星危机（[[Sputnik Shock 1957|Sputnik Shock]]）所引发的英国科学与数学教育课程反思。
 
 ### 学史定性与方法论范式
-如 Val D. Rust 等人（2009）在评述比较教育学中的“[[Influences Across Cultures|跨文化影响]]”（Cross-Cultural Influences）研究脉络时所指出的：
+如 Val D. [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]在评述比较教育学中的“[[Influences Across Cultures|跨文化影响]]”（Cross-Cultural Influences）研究脉络时所指出的：
 - 阿米蒂奇的四部曲代表了**跨国教育影响实证考证的最高史学[[Paradigm|范式]]**；
 - 这一研究证明：比较教育学中的外部影响考察绝非单纯抽象的政治口号借用，而是建立在浩瀚的历史档案、往来通信、制度立法与思想传播脉络之上的严谨学术探索。
 

@@ -257,7 +257,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **2000s–2010s — 信息素养与实证技能测度** 文献多将研究素养[[Operationalization\|操作化]]为信息检索、科研文献阅读与数据分析技能（Williams & Coles, 2007; Brown & Zhang, 2016）。
 > - **2017 — [[Inquiry Cycle\|探究循环]]视阈下的双素养协同（[[School Enquiry Cycle\|ESTI]]）** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 揭示教师在检索与转译期刊学术论文时面临的研究素养壁垒，提出依托 [[Research Learning Communities\|RLC]] 结构化协议提供中介支架，并倡导职前与在职培训中将研究素养与[[Data Literacy\|数据素养]]一体化协同培育。
-> - **2018 — [[Scientific Literacy\|科学素养]]确立为公民民主权利** Chalmers 等人（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
+> - **2018 — [[Scientific Literacy\|科学素养]]确立为公民民主权利** Chalmers et al.（2018）提出公众对研究证据的批判性理解与使用是现代民主社会中公民不可剥夺的基本权利。
 > - **2022 — 技艺模型与专业德性转向** Eriksen（2022）把研究素养界定为专业德性，在技艺模型框架下提出完整性、讲理与灵活性三德性及三种敏感度。
 > - **2022 — 双轨培训拓展与后真相批判免疫** [[OECD\|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]）将研究素养从教师单轨拓展至“教师教育与公职人员培训”双轨，强调对多元方法论的批判性审议，确立其作为抵御商业营销操纵与后真相偏见的核心防线。
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立研究素养为深思熟虑参与的个体使能构件** [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策领域的 [[PRISMA]] [[Systematic Review\|系统综述]]，将研究素养确立为驱动“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），打破单纯技能[[Deficit Framing\|赤字框架]]，强调[[Knowledge Integration\|知识整合]]与情境化批判审议。
@@ -265,7 +265,7 @@ updated: 2026-10-22
 > - **2023 — 案例应用与[[Recontextualization|再情境化]]** Mausethagen and Hermansen (2023) 在挪威学校案例中展示研究素养在实践中的再情境化过程。
 > - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能赤字的偏见，确立第四代专业敏感型多源知识整合[[Paradigm\|范式]]。
 > - **2025 — 治理负荷与批判素养缺失下的二手依赖** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 揭示市场化中介轰炸下校长批判性研究素养的缺失现状（多数校长不了解研究方法与局限而重度依赖二手摘要），论证制度化[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）对培育真实批判素养的必要性。
-> - **2026 — 纳入跨层治理机制** Hagevold 等人（2026）把研究素养与技能发展机制联系起来，主张技能发展是超出个体层面的系统责任。
+> - **2026 — 纳入跨层治理机制** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]把研究素养与技能发展机制联系起来，主张技能发展是超出个体层面的系统责任。
 
 ---
 

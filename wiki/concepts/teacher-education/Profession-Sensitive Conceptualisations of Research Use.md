@@ -57,7 +57,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 专业敏感型[[Research Utilization\|研究使用]]（Profession-Sensitive Conceptualisations of Research Use）指一种立足教师专业实践特征与复杂知识库的分析[[Paradigm\|范式]]。该概念由 Mausethagen 等人（2025）作为第四代研究使用理论的核心提出。它反对将教师预设为外部科研成果的被动执行者或能力短缺客体，主张将研究使用理解为教师在具体的课堂与育人情境中，依托自身复合多元的知识经验，在专业伦理与价值规范的指引下，对外部科研证据、具体学情与教学内容进行主动权衡、取舍与动态整合（[[Knowledge Integration]]）的专业实践过程。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 7–8)]]
+> 专业敏感型[[Research Utilization\|研究使用]]（Profession-Sensitive Conceptualisations of Research Use）指一种立足教师专业实践特征与复杂知识库的分析[[Paradigm\|范式]]。该概念由 [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]作为第四代研究使用理论的核心提出。它反对将教师预设为外部科研成果的被动执行者或能力短缺客体，主张将研究使用理解为教师在具体的课堂与育人情境中，依托自身复合多元的知识经验，在专业伦理与价值规范的指引下，对外部科研证据、具体学情与教学内容进行主动权衡、取舍与动态整合（[[Knowledge Integration]]）的专业实践过程。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜
 > - **核心转变** 分析焦点从教师是否机械套用论文结论，转向专业教师在日常教学中如何将科研证据与多样化知识资源有机融会。

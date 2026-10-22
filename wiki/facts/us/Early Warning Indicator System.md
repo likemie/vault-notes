@@ -73,7 +73,7 @@ updated: 2026-10-22
 > [!policy-design] 方案设计
 > - **项目目标** 识别学生在关键学业过渡节点（如初升高、高中毕业、大学入学及持续就读）的脱轨风险，实现教育资源的预防性精准滴灌。
 > - **覆盖对象** 幼儿园至 12 年级所有在册学生，重点聚焦 8–9 年级过渡期与高中阶段升学冲刺期。
-> - **算法模型与指标选取** 借鉴 Neild 等人（2007）提出的辍学预警核心指标，构建多[[Variable\|变量]]概率回归模型；输入变量涵盖学生出勤率（Attendance）、停课违纪记录（Discipline）、马萨诸塞州综合评估系统（Massachusetts Comprehensive Assessment System, MCAS）标准化测试分数门槛、核心学科不及格科目数等。
+> - **算法模型与指标选取** 借鉴 Neild et al.（2007）提出的辍学预警核心指标，构建多[[Variable\|变量]]概率回归模型；输入变量涵盖学生出勤率（Attendance）、停课违纪记录（Discipline）、马萨诸塞州综合评估系统（Massachusetts Comprehensive Assessment System, MCAS）标准化测试分数门槛、核心学科不及格科目数等。
 > - **输出形式与风险分级** 系统后台运算后将学生自动划分为三类风险等级：低风险（Low Risk，有望达标）、中风险（Moderate Risk，需持续观察）以及高风险（High Risk，高度可能辍学或大学无法毕业），并在州端与校端仪表盘中予以可视化标色呈现。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
 
 > [!citation-card] [[Massachusetts Department of Elementary and Secondary Education\|DESE]] 官方关于 EWIS 预测逻辑与应用初衷的阐述

@@ -4,7 +4,7 @@ aliases:
   - 数字治理
   - 以数字治理
   - governance by numbers
-summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi 等（2024）进一步拓展为数字治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
+summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数字治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 44
@@ -82,7 +82,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 数字治理（Governing by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 奠基，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；Steiner-Khamsi 等（2024）进一步提出“数字治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
+> 数字治理（Governing by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 奠基，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]进一步提出“数字治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
 
 > [!concept-lens] 概念透镜
 > - **含义** 教育治理依托数据生产、排名比较、指标标准化以及政策中介的证据包装，以软治理方式引导各国教育政策向特定方向协调推进。

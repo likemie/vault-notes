@@ -87,7 +87,7 @@ updated: 2026-10-22
 > [!feature] 核心要素
 > - **产生式规则与条件匹配** 程序性知识以产生式系统为核心单元，每个单元由前件条件（Condition）与后件行动（Action）构成。当当前心理表征或外部情境满足触发条件时，相应的认知或行为操作被激活执行。
 > - **知识编译与自动化机制** 初学者通常以陈述性事实形式记忆操作步骤（如口述公式规则），在经过大量目标导向的练习后，离散步骤被逐步合并、编译为高度流利的单一程序，减少意识层面的繁琐监控，释放宝贵的认知资源。
-> - **[[Epistemology\|认识论]]模型中的程序性认知双路径** 在 Belenky 等人（1986）的[[Women's Ways of Knowing\|女性认知方式]]中，程序性认知被区分为“分离型（separate knowing）”（依靠客观怀疑、逻辑批判与非个人化规程评估证据）与“连结型（connected knowing）”（依靠共情理解、换位思考与情境体验探索他人意图）。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
+> - **[[Epistemology\|认识论]]模型中的程序性认知双路径** 在 Belenky et al.（1986）的[[Women's Ways of Knowing\|女性认知方式]]中，程序性认知被区分为“分离型（separate knowing）”（依靠客观怀疑、逻辑批判与非个人化规程评估证据）与“连结型（connected knowing）”（依靠共情理解、换位思考与情境体验探索他人意图）。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
 
 ---
 
@@ -179,5 +179,5 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 梳理 Belenky 等人（1986）的[[Women's Ways of Knowing\|女性认知方式]]模型，解析程序性[[Epistemology\|认识论]]阶段中分离型与连结型认知在证据评估中的机制。
+> - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 梳理 Belenky et al.（1986）的[[Women's Ways of Knowing\|女性认知方式]]模型，解析程序性[[Epistemology\|认识论]]阶段中分离型与连结型认知在证据评估中的机制。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemic Cognition\|认识论认知]]因果干预[[Meta-analysis\|元分析]]，在[[Academic Achievement\|学业成就]]类型调节分析中实证揭示认识论干预对高阶论证和概念知识的显著促进，以及对程序性知识任务的效能脱节，确立了[[Construct\|构念]]的作用边界。

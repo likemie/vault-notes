@@ -134,7 +134,7 @@ updated: 2026-10-22
 > > 围绕富兰的 [[New Pedagogies for Deep Learning|NPDL]] 究竟是解放教师[[Creativity|创造力]]的专业工具，还是跨国资本开拓的新商业市场。
 > >
 > > - **倡导方（Fullan 等）** 强调 NPDL 提供了一套被全球学校验证的完整实操工具箱，能够跨越官僚阻碍实现立竿见影的课堂教学变革。
-> > - **批判方（O'Neill 等, 2016）** 指出其[[21st Century Skills and Competencies Discourse|核心素养]]内容并未超出国家法定公立课标，但通过注册商标与排他性年费机制，人为制造准入门槛，加剧公立教育对跨国资本的依附。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
+> > - **批判方（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）** 指出其[[21st Century Skills and Competencies Discourse|核心素养]]内容并未超出国家法定公立课标，但通过注册商标与排他性年费机制，人为制造准入门槛，加剧公立教育对跨国资本的依附。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
 > [!critique] 外部批评
 > - **教主崇拜与[[Technical Rationality|技术理性]]异化** 批判学者指出，富兰后期咨询风格呈现出“管理大师光环”（[[Cult of the Guru]]），依赖具有煽动性的商业修辞，将复杂的教育社会公平问题还原为标准化的打卡量规，掩盖了阶层分化与公共投入不足等结构性根源。

@@ -4,7 +4,7 @@ aliases:
   - 研究使用治理机制
   - 研究使用的跨层治理机制
   - Four Governing Mechanisms
-summary: "由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
+summary: "由 Hagevold et al.（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 25
@@ -64,7 +64,7 @@ updated: 2026-10-22
 > - **解释对象** 学校中[[Research Utilization\|研究使用]]为何长期停滞于象征性或浅层[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]，以及什么条件能把它转化为深层的专业整合。
 > - **理论问题** 回应既有研究只识别研究使用的障碍与促成因素清单而缺少治理机制解释的缺口，回答什么机制维持这些持久障碍。
 > - **理论类型** 中层机制[[Analytic Framework\|分析框架]]，跨越社会生态系统层级的横切机制模型。
-> - **知识位置** 由 Hagevold 等人（2026）基于对 109 项实证研究的[[Framework Synthesis\|框架综合]]提出；其先验框架来自 [[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE）、深层使用、[[Research Literacy\|研究素养]]与生态系统模型，[[Epistemic Stances\|认识论立场]]为[[Critical Realism\|批判实在论]]。
+> - **知识位置** 由 [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]基于对 109 项实证研究的[[Framework Synthesis\|框架综合]]提出；其先验框架来自 [[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE）、深层使用、[[Research Literacy\|研究素养]]与生态系统模型，[[Epistemic Stances\|认识论立场]]为[[Critical Realism\|批判实在论]]。
 
 > [!claim] 核心主张
 > 学校中的研究使用不是主要受个体缺陷制约，而是由四类跨越并贯通系统的机制（信任 trust、技能发展 skills development、可持续结构 sustainable structures、关系 relationships）共同塑造；这些机制相互强化、同时在纵向与横向方向运作，因此研究使用无法靠政策指令自上而下强制实现，只能靠塑造这些机制来支持整合。
@@ -147,8 +147,8 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 发展脉络
-> - **1979–2018 — 概念积累** Weiss（1979）提出[[Research Utilization\|研究使用]]的多重意义与概念性／工具性／象征性类型学；Farley-Ripple 等（2018）提出深层使用框架；Rickinson 等（2022）提出 [[Quality Use of Research Evidence Framework\|QURE]]；Godfrey and Brown (2019) 提出[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]。
-> - **2026 — 机制框架提出** Hagevold 等人（2026）以整合这些框架的初始框架为先验透镜进行[[Framework Synthesis\|框架综合]]，配置式分析识别出信任、技能发展、可持续结构与关系四类跨层治理机制，并把初始框架修订为四机制框架。
+> - **1979–2018 — 概念积累** Weiss（1979）提出[[Research Utilization\|研究使用]]的多重意义与概念性／工具性／象征性类型学；Farley-Ripple et al.（2018）提出深层使用框架；Rickinson et al.（2022）提出 [[Quality Use of Research Evidence Framework\|QURE]]；Godfrey and Brown (2019) 提出[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]。
+> - **2026 — 机制框架提出** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]以整合这些框架的初始框架为先验透镜进行[[Framework Synthesis\|框架综合]]，配置式分析识别出信任、技能发展、可持续结构与关系四类跨层治理机制，并把初始框架修订为四机制框架。
 
 ---
 

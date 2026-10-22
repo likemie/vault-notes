@@ -6,7 +6,7 @@ aliases:
   - 干预描述与复制清单
   - Template for Intervention Description and Replication
   - 干预描述和复制指南
-summary: "国际公认的干预方案详细描述与可复现性12项标准化核查清单，由Hoffmann等（2014）研制，用于详尽解构并规范记录复杂干预的变革理论、材料、程序、递送模式、实施剂量与保真度，被EEF强制采纳为破解教育试验黑箱的标准工具。"
+summary: "国际公认的干预方案详细描述与可复现性12项标准化核查清单，由Hoffmann et al.（2014）研制，用于详尽解构并规范记录复杂干预的变革理论、材料、程序、递送模式、实施剂量与保真度，被EEF强制采纳为破解教育试验黑箱的标准工具。"
 type: instrument
 instrument_type: checklist
 instrument_related_count: 14

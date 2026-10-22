@@ -414,7 +414,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 考证第三代使命导向政策如何将 RCT、以人为本服务设计与敏捷原型迭代整合入公共治理试验网络，并强调必须打破[[New Public Management|新公共管理]]的静态“支持并测量”成本效益合规，转向动态的[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
-> - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 批判将单一 RCT 奉为联邦教育政策黄金标准的制度性脱节，剖析 Dynarski 等（2007）教育软件实验揭示的情境敏感性，指出长周期实验导致的技术过时风险，以及劳登布什（Raudenbush, 2015）揭示的孤立因果无法回答宏观系统治理命题。
+> - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 批判将单一 RCT 奉为联邦教育政策黄金标准的制度性脱节，剖析 Dynarski et al.（2007）教育软件实验揭示的情境敏感性，指出长周期实验导致的技术过时风险，以及劳登布什（Raudenbush, 2015）揭示的孤立因果无法回答宏观系统治理命题。
 > - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将[[Research Synthesis|证据综合]]进入 Toolkit 的[[Meta-analysis|元分析]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 49]]）。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]）。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 个教育清算中心对 RCT 的因果审查规程，实证揭示各中心虽均推崇 RCT，但因跨研究综合门槛割裂导致 35.4% 的极端评级冲突（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 9–11, 18–20]]）。

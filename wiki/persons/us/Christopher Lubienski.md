@@ -5,7 +5,7 @@ aliases:
   - Lubienski, C.
   - C. Lubienski
   - Chris Lubienski
-summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育政策研究中心教授；以研究思想市场（Marketplace of Ideas）、教育政策中的智库角色与新自由主义教育改革（私立化、择校制度）闻名。其「思想市场」概念被 Steiner-Khamsi 等（2024）引用，揭示证据过剩时代政策中介机构通过竞争性证据选择推销意识形态处方的政治生态。"
+summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育政策研究中心教授；以研究思想市场（Marketplace of Ideas）、教育政策中的智库角色与新自由主义教育改革（私立化、择校制度）闻名。其「思想市场」概念被 Steiner-Khamsi et al.（2024）引用，揭示证据过剩时代政策中介机构通过竞争性证据选择推销意识形态处方的政治生态。"
 type: person
 nationality: us
 person_region: "us"

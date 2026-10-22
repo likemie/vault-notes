@@ -432,7 +432,7 @@ updated: 2026-10-22
 > - **专业敏感裁决立场（红方）** 主张科研证据仅是多元信息输入之一，教师必须结合具体学情、育人伦理与实践智慧进行审慎整合与情境化重构。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 7)]]
 
 > [!critique] 外部批评
-> - **[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]批判** Mausethagen 等人（2025）批判 30 年来的研究使用文献普遍预设教师存在知识与技能“赤字”，忽视了组织生态与制度支持的系统制约，陷入推论循环。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 4–5)]]
+> - **[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]批判** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]]批判 30 年来的研究使用文献普遍预设教师存在知识与技能“赤字”，忽视了组织生态与制度支持的系统制约，陷入推论循环。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 4–5)]]
 > - **证据应用的“交易型”病理机制批判** [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]批判现行教育治理将证据利用降格为短视的买方逻辑：决策官员把研究者视作现成方案的供应商，仅在遇到技术障碍时采买数据作为闭门背书，逃避在多元利益攸关者之间开展深度民主审议与政治交锋，使循证运动异化为去政治化的行政修补。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 95–96)]]
 
 > [!warning] 适用局限

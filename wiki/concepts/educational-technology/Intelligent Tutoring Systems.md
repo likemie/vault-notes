@@ -321,7 +321,7 @@ updated: 2026-10-22
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 探讨从传统确定性智能辅导系统向[[Generative Artificial Intelligence\|生成式人工智能]]共生学习演进中的[[Epistemic Stances\|认识立场]]分化，提出结合[[Chain-of-Thought Prompting\|思维链提示]]与教学评议的双轨支架体系以捍卫人类[[Epistemic Agency\|认识主体性]]。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明探究式智能导师系统（[[Inq-ITS]]）利用教育数据挖掘追踪复杂科学探究技能、通过智能代理（Rex）提供自适应微观支架，并借助实时教师看板（[[Inq-Blotter]]）实现人机双轨协同教学与跨学期远迁移的前沿机制。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在教育[[AI Agent in Education\|人工智能智能体]]促学[[Meta-analysis\|元分析]]中将智能导师系统作为核心分析类型，证实其对基础教育学段认知表现具有显著的正向促进效应（$g = 0.540$），通过步骤级自适应线索精准支持学习者的[[Procedural Skill\|程序性技能]]习得。
-> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 评述 Hillmayr 等（2020）对中学理科数字工具的元分析（k = 92）：智能辅导系统效应最大（g = 0.65），教师教学法培训是关键调节因素。
+> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 评述 Hillmayr et al.（2020）对中学理科数字工具的元分析（k = 92）：智能辅导系统效应最大（g = 0.65），教师教学法培训是关键调节因素。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 在关于[[Epistemic Dependence\|认识依赖]]的[[Critical Review\|批判性综述]]中，将传统智能导师系统的步骤级透明规则协助作为对照基准，深入辨析其与生成式大语言模型在知识确证分工、协助形态分层（过程性协助 vs 承载判断型协助）及认知可恢复性维护上的本质分野。
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 从[[Virtue Epistemology|美德认识论]]出发对传统 ITS 的直接答案导向设计逻辑提出根本性批判，提出提问型导师（Q-Tutor）作为颠覆性替代架构：以直接答案拦截规则与封闭→开放问题递进序列，将智能导师从答案传递者重构为认知挣扎的催化者，从而防范[[Cognitive Deskilling\|认知去技能化]]并培育[[Epistemic Virtues and Vices|理智美德]]。
 

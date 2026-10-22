@@ -267,4 +267,4 @@ updated: 2026-10-22
 ## 使用此概念的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri 等（2011）的[[Meta-analysis\|元分析]]与 Mayer（2004），区分无指导与有指导发现，确立有支架的发现学习在概念建构上的优势。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反驳[[Direct Instruction\|直接教学]]垄断论，评析 Alfieri et al.（2011）的[[Meta-analysis\|元分析]]与 Mayer（2004），区分无指导与有指导发现，确立有支架的发现学习在概念建构上的优势。

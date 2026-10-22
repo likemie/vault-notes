@@ -129,7 +129,7 @@ updated: 2026-10-22
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 基于[[Positivism|实证主义]]与[[Empiricism|经验主义]]因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性推导出[[Causality|因果关系]]。Cohen 等（2011）将样本随机化列为[[Quantitative Research|量化研究]]效度的实证主义前提之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
+> - **知识观** 基于[[Positivism|实证主义]]与[[Empiricism|经验主义]]因果观。假定通过控制和消除混杂[[Variable|变量]]，可以直接从因果事件的恒常规则性推导出[[Causality|因果关系]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]将样本随机化列为[[Quantitative Research|量化研究]]效度的实证主义前提之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **在因果推断中的角色** 随机分配使两组在期望上等价，将组间任何后续差异无偏归因于干预操作（*ceteris paribus* 假定）。
 > - **研究者角色** 客观中立的实验操控者与观察者，依托算法生成序列排除主观选择偏好。
 > - **有效性标准** [[Internal Validity|内部效度]]优先。高[[Reliability|信度]]的随机分配能最大限度排除选择偏误，但不能自动保证在复杂开放系统中的[[External Validity|外部效度]]。

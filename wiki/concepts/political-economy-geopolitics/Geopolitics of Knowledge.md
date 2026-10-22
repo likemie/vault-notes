@@ -338,7 +338,7 @@ updated: 2026-10-22
 #### 数字治理与学生主体生产：GPK 在教学层面的微观运作
 
 > [!abstract] [[Analytic Framework\|分析框架]]：GPK 的教学层微观运作
-> Thompson 等人（2022）将 GPK 分析延伸至教学治理的微观层面，展示 GPK 逻辑如何通过数字化治理技术渗透到学生主体层面。
+> [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]将 GPK 分析延伸至教学治理的微观层面，展示 GPK 逻辑如何通过数字化治理技术渗透到学生主体层面。
 
 > [!finding-cards|notitle]
 > 1. **竞争力作为地缘政治装置** 大学通过排名、指标化和审计文化被重塑为竞争者。教学领域中，竞争力表现为对学生"潜在未来努力"（potential future effort）的预期管理——大学需要在入学前就预判哪些学生有潜力贡献"成功"指标（[[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.220]]）

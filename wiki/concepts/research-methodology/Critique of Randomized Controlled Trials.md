@@ -116,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Critique of Randomized Controlled Trials
@@ -275,9 +275,9 @@ updated: 2026-10-20
 >
 >   - 2022 — Ronald Helgetun 与 Ian Menter（2022）实证解剖英格兰教师改革中的医学隐喻，提出全流程[[Epistemological Break\|认识论断裂]]与“依策造据”（[[Policy-Based Evidence-Making\|PBEM]]）。
 >   - 2023 — Matthew [[Argument_Kraft_2023_ER|Kraft (2023)]]发布 3,426 项 RCT 效应量分布基准，打破“0.40 铰链点”神话，确立 0.10 的低位现实。
->   - 2024 — Gita Steiner-Khamsi 等（2024）揭露[[World Bank\|世界银行]]微观实验技术利基对宏观政治经济危机的“屏蔽”效应。
->   - 2024 — Geetanjali Wadhwa 等（2024）实证检验 12 家清算中心 1,359 项研究，揭示跨机构评级冲突率达 35.4% 的“RCT 悖论”。
->   - 2024 — Rick Ginsberg 等（2024）基于全美 15 学区 138 项受资助干预审计，量化揭示 [[Every Student Succeeds Act\|ESSA]] 单项 RCT 合格门槛诱发“合规假象”，直指供给侧学段断层与微观构件黑箱。
+>   - 2024 — Gita [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]揭露[[World Bank\|世界银行]]微观实验技术利基对宏观政治经济危机的“屏蔽”效应。
+>   - 2024 — Geetanjali [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]]实证检验 12 家清算中心 1,359 项研究，揭示跨机构评级冲突率达 35.4% 的“RCT 悖论”。
+>   - 2024 — Rick [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]]基于全美 15 学区 138 项受资助干预审计，量化揭示 [[Every Student Succeeds Act\|ESSA]] 单项 RCT 合格门槛诱发“合规假象”，直指供给侧学段断层与微观构件黑箱。
 
 ---
 

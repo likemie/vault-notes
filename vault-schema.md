@@ -234,7 +234,7 @@ citation/
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 ```
 
-Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板执行。Argument 保留 `source_language`、`year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据原始出版语言、`authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式。中文原始文献的 `authors` 使用中英双语显示，但完整 `citation` 和 `citation_aliases` 只使用中文；`wiki_linker.py` 也只按这些中文 aliases 匹配该文献。中文期刊论文使用 `source_language: zh`，citation 采用中文作者、中文篇名和中文期刊名，`argument_display_title` 保留中文原题；英文作者转写只存在于 `authors`，不进入 citation 索引。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板执行。Argument 保留 `source_language`、`year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据原始出版语言、`authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式。中文原始文献的 `authors` 使用中英双语显示，但完整 `citation` 和 `citation_aliases` 只使用中文；`wiki_linker.py` 也只按这些中文 aliases 匹配该文献。中文期刊论文使用 `source_language: zh`，citation 采用中文作者、中文篇名和中文期刊名，`argument_display_title` 保留中文原题；英文作者转写只存在于 `authors`，不进入 citation 索引。英文文献的作者无论在中文正文还是括注中，三位及以上一律写 `et al.`，不写“等”或“等人”（如 `Hopkins et al., 1996`、`Cai et al.（2025）`）；`vault_lint.py` 以 `CITATION_LATIN_DENG` 检查“拉丁字母姓氏 + 等/等人 + 年份”，基础索引自动改写，不带年份的“X 等”（列举）不受影响。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
 
 `doi` 用于论文、报告或有 DOI 的书籍；著作、教材、论文集或章节没有 DOI 时，`doi` 可留空，若能确认 ISBN，则写入 `isbn`。
 
@@ -381,7 +381,7 @@ Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射�
 
 1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），本地与 CI 共用这一入口。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 和新引入的 WARN 都必须解决。增量模式与 `--path` 隐藏基线已有的普通警告（按检查项与提示内容比对，行号变化不影响），未审查的写作用词与句式命中始终列出；`--all-warnings` 显示全部，`--full` 始终显示全部，用于盘点存量。`--no-gate` 只用于调试。
 
-`vault_index.py` 在刷新引用索引后，对 git 中有改动的文件自动执行机械性修复，不需要手动处理，也不再出现在 lint 中：英文双作者引用连接词（叙述用 and、括号内用 &）、加粗边界、summary 引号、`[!axis]` 分隔符、引用链接缺失的 a/b/c 年份后缀、非 Argument 条目中裸 `[[Argument_…]]` 链接补作者年份、与标题重复的 alias、同一段落或 callout 内重复的括号式引用链接；随后把正文有改动的条目 `updated` 设为当天。手动执行同样的修复可用 `vault_lint.py --fix`。
+`vault_index.py` 在刷新引用索引后，对 git 中有改动的文件自动执行机械性修复，不需要手动处理，也不再出现在 lint 中：英文双作者引用连接词（叙述用 and、括号内用 &）、加粗边界、summary 引号、`[!axis]` 分隔符、引用链接缺失的 a/b/c 年份后缀、非 Argument 条目中裸 `[[Argument_…]]` 链接补作者年份、与标题重复的 alias、同一段落或 callout 内重复的括号式引用链接、英文作者引用中的“等/等人”（改为 et al.）；随后把正文有改动的条目 `updated` 设为当天。手动执行同样的修复可用 `vault_lint.py --fix`。
 2. 发布：GitHub Actions 运行 `scripts/vault_lint.py`（期刊注册表、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。CI 使用 `--base` 模式时，写作审查只拦截相对推送基准新增或改写的命中（按条目路径、检查项与去链接后的可见语境比对）；基准中已存在的未审查命中不阻断发布，仍由本地 lint 列出，按本地门禁要求处理。
 
 手动执行与 CI 相同的检查使用 `.venv/bin/python3 scripts/vault_lint.py`。依赖在 `requirements.txt` 中固定，CI 据此安装，不得删除。`scripts/hooks/pre-commit` 保留备用；如需临时恢复钩子：`git config --local core.hooksPath scripts/hooks`。

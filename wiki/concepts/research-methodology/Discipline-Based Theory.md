@@ -134,7 +134,7 @@ updated: 2026-10-22
 ## 核心要素
 
 > [!feature] [[Mixed Methods Research|混合方法]]中学科理论的六大功能
-> 根据 Creswell & Creswell（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 69–70]]）与 Evans 等人（2011）的论述，学科理论在混合方法研究中发挥六项核心整合功能：
+> 根据 Creswell & Creswell（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, pp. 69–70]]）与 Evans et al.（2011）的论述，学科理论在混合方法研究中发挥六项核心整合功能：
 > - **组织与报告框架** 为组织和整合量化数据与质性资料提供统一的概念框架。
 > - **多阶段研究整合** 将相互分离的阶段性调查或独立研究整合在一起，报告共通的概念与思想。
 > - **团队共识建立** 在研究团队成员、利益相关者与资助者之间建立对研究基础架构的共同理解。

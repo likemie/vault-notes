@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Confucius Institute",
-      "path": "wiki/facts/china/Confucius Institute.md"
+      "basename": "Geopolitics",
+      "path": "wiki/concepts/political-economy-geopolitics/Geopolitics.md"
     },
     {
       "basename": "Argument_Custer_2021_AidData",
       "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
+    },
+    {
+      "basename": "Public Diplomacy",
+      "path": "wiki/concepts/political-economy-geopolitics/Public Diplomacy.md"
+    },
+    {
+      "basename": "Luban Workshop",
+      "path": "wiki/facts/china/Luban Workshop.md"
+    },
+    {
+      "basename": "Confucius Institute",
+      "path": "wiki/facts/china/Confucius Institute.md"
     },
     {
       "basename": "Soft Power",
@@ -15,10 +27,6 @@
     {
       "basename": "Meta-meta-analysis",
       "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
-    },
-    {
-      "basename": "Luban Workshop",
-      "path": "wiki/facts/china/Luban Workshop.md"
     },
     {
       "basename": "Critique of Meta-analysis",
@@ -191,14 +199,6 @@
     {
       "basename": "Niklas Luhmann",
       "path": "wiki/persons/germany/Niklas Luhmann.md"
-    },
-    {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
-    },
-    {
-      "basename": "Critique of PISA",
-      "path": "wiki/concepts/comparative-education/Critique of PISA.md"
     }
   ],
   "omittedPaths": [],

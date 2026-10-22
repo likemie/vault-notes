@@ -206,7 +206,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 ---
 
-**第二层：[[Innovation Policy Paradigms|创新政策范式]]作为经济化的制度机制。** Schot and Steinmueller (2018) 与 Lindner 等人 (2024) 识别的三个政策[[Paradigm|范式]]，展示了国家如何通过不同的政策框架将知识系统地经济化([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])：
+**第二层：[[Innovation Policy Paradigms|创新政策范式]]作为经济化的制度机制。** Schot and Steinmueller (2018) 与 Lindner et al. (2024) 识别的三个政策[[Paradigm|范式]]，展示了国家如何通过不同的政策框架将知识系统地经济化([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–35]])：
 
 1. **科学促增长 (1940s–1980s)** 以科学→技术→增长的线性模型为框架，大规模投资大学基础研究，同时通过强化知识产权（如 1980 年美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]]）、研发税收抵免和风险投资促进等手段，将知识从公共产品转化为可私有化和商业化的资产。核心经济化机制：**将科学发现与国家安全和经济增长绑定**。
 

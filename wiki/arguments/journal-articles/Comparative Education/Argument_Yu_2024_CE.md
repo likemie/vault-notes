@@ -65,7 +65,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-21
-updated: 2026-10-20
+updated: 2026-10-22
 year: 2024
 doi: "10.1080/03050068.2023.2273641"
 citation_aliases:
@@ -113,7 +113,7 @@ citation_aliases:
 > |------|----------------|
 > | **教科书分析／批判话语分析**<br>Critical Discourse Analysis (CDA) | 涵盖语文、英语、政治、地理、历史、历史与社会六门中小学必修科目共217册教科书。以[[Confucius]]（孔子）、[[Mencius]]（孟子）、[[Zhu Xi]]（朱熹）及“儒家”为关键词定位文本，分析其修辞策略、话语等价化及象征边界构建 (pp. 64–65)。 |
 > | **深度访谈／最大变异抽样**<br>In-Depth Semi-Structured Interview | 2017年在西北与东南两所大学（西北集中度更高）面对面访谈37名非汉少数民族及宗教背景大学生。通过最大变异抽样 (Miles et al. 2014) 覆盖15个民族、多种宗教信仰及学科分布 (pp. 65–66)。 |
-> | **叙事分析／分类内容取向**<br>Categorical-Content Approach | 采用 Lieblich 等 (1998) 的分类内容法，提取学生关于儒学学习体验、道德/政治功能、灵性追求及跨文化对比的独立语段，归类编码为核心维度 (p. 66)。 |
+> | **叙事分析／分类内容取向**<br>Categorical-Content Approach | 采用 Lieblich et al. (1998) 的分类内容法，提取学生关于儒学学习体验、道德/政治功能、灵性追求及跨文化对比的独立语段，归类编码为核心维度 (p. 66)。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

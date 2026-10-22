@@ -164,7 +164,7 @@ updated: 2026-10-22
 > 市场化的产学[[Technology Transfer|技术转移]]与风投资助初创公司虽在特定点状技术突破上表现亮眼，但在统筹需要数十亿美元与长周期协作的共性工业架构上存在[[Market Failure|市场失灵]]。
 
 > [!claim] Arora, A., Belenzon, S., & Patacconi, A.; Macher, J. T., Mowery, D. C., & Hodges, D. A.
-> **系统集成赤字与长周期能力脆弱性** Arora 等人（2020）与 Macher 等人（1998）指出，大学与初创企业的去中心化组合在商业敏捷性上优于旧体制，但整体上**未能完全填补**大企业中央实验室衰落留下的空白。大学研究缺乏产业制造环境验证，初创企业受制于风险投资的短期变现周期而无法承担重资产底层攻关，导致国家在复杂硬件制造、先进制程与共性材料领域的长周期创新能力面临深层脆弱性。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–42)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 127–131)]]
+> **系统集成赤字与长周期能力脆弱性** Arora et al.（2020）与 [[Argument_Macher_1998_CMR|Macher et al. (1998)]]指出，大学与初创企业的去中心化组合在商业敏捷性上优于旧体制，但整体上**未能完全填补**大企业中央实验室衰落留下的空白。大学研究缺乏产业制造环境验证，初创企业受制于风险投资的短期变现周期而无法承担重资产底层攻关，导致国家在复杂硬件制造、先进制程与共性材料领域的长周期创新能力面临深层脆弱性。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–42)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 127–131)]]
 
 > [!claim] Ramming, C.
 > **产业技术转折点上中央研发建制的破局功能** 当半导体底层物理极限导致登纳德缩放（Dennard Scaling）失效、迫使芯片转向多核架构时，全行业遭遇软件并发编程生态真空与大学人才培养断层。初创企业与分散业务部无力承担长周期共性风险，英特尔研究院（Intel Labs）打破内部技术理事会的小额分散预算格局，统一收归中央战略资金池，与微软联合出资在加利福尼亚大学伯克利分校与伊利诺伊大学厄巴纳-香槟分校设立[[Universal Parallel Computing Research Centers|通用并行计算研究中心]]（UPCRC），印证了具有战略调配权的中央研发建制在化解产业系统性瓶颈中的关键功能。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–236)]]

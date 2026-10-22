@@ -89,7 +89,7 @@ related_methods:
   - "[[Accounts]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-17
+updated: 2026-10-22
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21
 
@@ -602,7 +602,7 @@ Scheurich（1995, p. 240）：即使常规信度程序也力不从心：保持�
 
 ---
 
-**Brenner 等（1985）的 13 步内容分析**（pp.449–450）：
+**Brenner et al.（1985）的 13 步内容分析**（pp.449–450）：
 
 > [!dev-timeline] 开放数据的 13 步内容分析（Brenner et al., 1985）
 > - **准备阶段** 深入理解问题及语境，明确样本类型，与其他已完成工作建立关联。

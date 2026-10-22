@@ -51,7 +51,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 绝对论者（Absolutist）是 Kuhn 等人（1991, 2000）界定的基础[[Epistemology\|认识论]]立场。该立场的个体尚未实现主客体的分化，他们将知识视为源于外部物理现实的、绝对客观的事实，认为在面对冲突观点时必然只有一个正确答案，并且相信专家或权威确切掌握着真理。在[[Generative Artificial Intelligence\|生成式人工智能]]学习环境中，该立场表现为将大语言模型（Large Language Model, LLM）视为无所不知的确定性答案机，全盘接收机器输出而缺乏审问与核验动机。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 104)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–363)]]
+> 绝对论者（Absolutist）是 Kuhn et al.（1991, 2000）界定的基础[[Epistemology\|认识论]]立场。该立场的个体尚未实现主客体的分化，他们将知识视为源于外部物理现实的、绝对客观的事实，认为在面对冲突观点时必然只有一个正确答案，并且相信专家或权威确切掌握着真理。在[[Generative Artificial Intelligence\|生成式人工智能]]学习环境中，该立场表现为将大语言模型（Large Language Model, LLM）视为无所不知的确定性答案机，全盘接收机器输出而缺乏审问与核验动机。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 104)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–363)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体在“[[Certainty of Knowledge\|知识的确定性]]”与“[[Justification for Knowing\|认知的辩护]]”上处于最低层级，完全被外部客观维度主导。
@@ -122,7 +122,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1970–2000 年 — 传统发展心理学二元论定位** Perry (1970) 与 [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将绝对论界定为[[Epistemology\|认识论]]发展的初级阶段，视知识为确定无疑的客观事实。
-> - **2011 年 — 情境化[[Epistemic Stances\|认识立场]]重构** Chinn 等人（2011）指出绝对论并非固定特质，而是学习者在特定学科命题情境中采纳的教条确信姿态。
+> - **2011 年 — 情境化[[Epistemic Stances\|认识立场]]重构** [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]]指出绝对论并非固定特质，而是学习者在特定学科命题情境中采纳的教条确信姿态。
 > - **2025 年 — [[Man-Computer Symbiosis|人机共生]]时代绝对主义顺从与[[Cognitive Offloading\|认知卸载]]研究** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大语言模型交互中绝对主义立场的消极认知卸载机制，并提出双轨支架转化路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 ---

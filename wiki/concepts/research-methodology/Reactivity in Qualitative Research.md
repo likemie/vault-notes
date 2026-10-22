@@ -90,7 +90,7 @@ updated: 2026-10-22
 在[[Observation Method|观察研究]]中，反应性是十类偏误来源之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al., 2011, Ch. 23, 23.12 节]]）。
 
 > [!info] 观察中的需求特征
-> 参与者知道正在被观察时可能改变行为——更努力、更焦虑、表现得更好或更差、以他们认为研究者希望的方式行为或研究者默许的方式行为。Shaughnessy 等人（2003, p. 113）将这种现象称为需求特征（demand characteristics）。
+> 参与者知道正在被观察时可能改变行为——更努力、更焦虑、表现得更好或更差、以他们认为研究者希望的方式行为或研究者默许的方式行为。Shaughnessy et al.（2003, p. 113）将这种现象称为需求特征（demand characteristics）。
 
 > [!contrast-table] 观察中减少反应性的两种策略
 > | 策略 | 方法 | 优势 | 风险 |

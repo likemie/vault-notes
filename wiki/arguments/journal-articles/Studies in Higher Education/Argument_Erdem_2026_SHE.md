@@ -85,7 +85,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-19
+updated: 2026-10-22
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Erdem_2026_SHE"
@@ -271,7 +271,7 @@ issuing_organization: ""
 > | **[[Curiosity-Driven Research\|基础研究]]地点** | 元分析覆盖特定国家或地区时按覆盖地点编码；元分析不限定于任何特定地点的调查时编码为非特定。 |
 > | **高等教育专业** | 编码为医学、牙科、护理、理科与文科。 |
 > | **基础研究抽样方法** | 元分析仅含随机对照组（RCG）时编码为 RCG；同时含随机与非随机对照组时编码为 RCG 与非 RCG。 |
-> | **元分析质量** | 采用 Kung 等（2010）修订的 R-AMSTAR 量表评分，编码为不充分、低、中等与高。 |
+> | **元分析质量** | 采用 Kung et al.（2010）修订的 R-AMSTAR 量表评分，编码为不充分、低、中等与高。 |
 > | **年份范围** | 编码为 2010 前、2011–2020 与 2021 后。 |
 > | **报告类型** | 编码为文章与博士论文。 |
 

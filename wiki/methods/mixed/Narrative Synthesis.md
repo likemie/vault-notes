@@ -3,7 +3,7 @@ title: Narrative Synthesis
 aliases:
   - 叙事综合
   - 叙述性综合
-summary: "由 Jennie Popay 等人（2006）系统化制定的系统综述证据整合方法，专门应对高度异质性研究（涵盖定性访谈、定量实验、政策文本与过程评价）无法开展统计元分析的困境，通过理论开发、初步梳理、关系探索与稳健性评估四阶段程序实现证据的严谨综合。"
+summary: "由 Jennie Popay et al.（2006）系统化制定的系统综述证据整合方法，专门应对高度异质性研究（涵盖定性访谈、定量实验、政策文本与过程评价）无法开展统计元分析的困境，通过理论开发、初步梳理、关系探索与稳健性评估四阶段程序实现证据的严谨综合。"
 type: method
 method_type: mixed
 method_family: "mixed"
@@ -146,4 +146,4 @@ updated: 2026-10-22
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 依据 Popay 等（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity\|异质性]]文献，构建了 [[Quality Use of Research Evidence Framework\|QURE]] 框架。
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 依据 Popay et al.（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity\|异质性]]文献，构建了 [[Quality Use of Research Evidence Framework\|QURE]] 框架。

@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Mixed Methods Appraisal Tool
@@ -119,4 +119,4 @@ updated: 2026-10-16
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 2018 版 | 英语 | 信息专业人员与研究人员，用于[[Systematic Review\|系统综述]]质量评价 | 各设计类型 5 条 + 2 条通用筛选 | 2018 版修订与更新；Hagevold 等人（2026）采用的版本 | Hong et al. (2018) |
+> | 2018 版 | 英语 | 信息专业人员与研究人员，用于[[Systematic Review\|系统综述]]质量评价 | 各设计类型 5 条 + 2 条通用筛选 | 2018 版修订与更新；[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]采用的版本 | Hong et al. (2018) |

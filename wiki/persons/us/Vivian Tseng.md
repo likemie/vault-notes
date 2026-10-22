@@ -112,7 +112,7 @@ updated: 2026-10-22
 > *Funders can democratise evidence through four actions: providing long-term flexible support for partnerships and [[Boundary Spanner\|Boundary Spanners]]; redefining deliverables to value relational trust and organizational capacity; restructuring review processes to include practitioners and communities; and conducting empirical research on funders' own grantmaking practices.*
 
 > [!citation-card] 打破唯论文评价与建立长聘停钟机制
-> 正如 Nutley 等人（2007）所强调，推动[[Research Utilization\|研究利用]]的核心在于人际关系而非学术出版物。大学必须改革内部激励结构，为深入公共部门和薄弱学校协作的学者设立学术停钟制度，暂停终身教职评审钟摆；机构挑战资助正是通过大额资金直接撬动高校制度变革，重塑学者的职业价值取向。（pp. 222–223, 231–232）
+> 正如 Nutley et al.（2007）所强调，推动[[Research Utilization\|研究利用]]的核心在于人际关系而非学术出版物。大学必须改革内部激励结构，为深入公共部门和薄弱学校协作的学者设立学术停钟制度，暂停终身教职评审钟摆；机构挑战资助正是通过大额资金直接撬动高校制度变革，重塑学者的职业价值取向。（pp. 222–223, 231–232）
 >
 > *As Nutley et al. (2007) argue, relationships rather than publications drive research use. Universities must reform reward structures, such as introducing tenure-clock pauses for scholars engaged in deep public partnerships. Institutional Challenge Grants incentivize institutions to reconsider how they value and reward [[Engagement in and with Research\|Research Engagement]].*
 

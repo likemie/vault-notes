@@ -72,7 +72,7 @@ updated: 2026-10-22
 在利益相关者大学中，连接性（connectivity）取代了传统的学术声望成为大学的核心资源。一所大学的价值不再仅由其学术产出定义，更由它在全球高等教育网络中的**连接位置**定义——它与哪些企业合作、吸引哪些国际学生群体、在排名体系中占据什么位置、其校友网络覆盖哪些全球枢纽城市([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp.221–222]])。
 
 > [!abstract] 在竞争性地缘政治中的位置
-> Thompson 等人（2022, pp.221–222）将利益相关者大学定位为 [[Competitiveness\|高等教育竞争力]] 作为[[Geopolitics|地缘政治]]装置运作的组织条件。关键逻辑链条为：
+> [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, pp.221–222)]]将利益相关者大学定位为 [[Competitiveness\|高等教育竞争力]] 作为[[Geopolitics|地缘政治]]装置运作的组织条件。关键逻辑链条为：
 
 1. [[New Public Management|NPM]] 和审计文化将大学重塑为关注绩效的组织
 2. 大学为提升竞争力而主动扩展利益相关者网络——吸引国际学生、对接企业需求、优化排名指标

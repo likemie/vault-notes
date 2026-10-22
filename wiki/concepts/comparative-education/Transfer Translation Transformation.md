@@ -5,7 +5,7 @@ aliases:
   - 3T framework
   - 政策迁移
   - 转移-转译-转化
-summary: "Robert Cowen（2009b）提出、Jason Beech（2009a, 2009b）与 Steiner-Khamsi 等人（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 与场域五位置模型中揭示转移空间的自指性转译、守门人垄断与政策周期政治过滤机制。"
+summary: "Robert Cowen（2009b）提出、Jason Beech（2009a, 2009b）与 Steiner-Khamsi et al.（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 与场域五位置模型中揭示转移空间的自指性转译、守门人垄断与政策周期政治过滤机制。"
 type: concept
 domain: "comparative-education"
 related_count: 73

@@ -13,7 +13,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -70,6 +70,7 @@ related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-19
@@ -101,7 +102,7 @@ updated: 2026-10-22
 > [!policy-design] 方案设计
 > - **项目目标** 构建以“五通”（政策沟通、设施联通、贸易畅通、资金融通、[[People-to-People Connectivity|民心相通]]）为核心支柱的多边经济走廊，推动构建[[Community of Shared Future for Mankind|人类命运共同体]]。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 678)]]
 > - **覆盖对象** 沿线新兴经济体与发展中国家，涵盖能源交通枢纽、自贸港口、产业园区与高等教育合作网络。
-> - **干预措施** 基建工程承包、产能投资基金、本币结算互换、境外合作园区，配套的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》、跨国大学联盟建设、[[Luban Workshop|鲁班工坊]]技能实训输出，以及面向油气、水电与路桥等关键基建工程推行的校企跨国定向培养机制（如 1+4 贯通模式、1+3+1 校企联合培养与 2+2 双学位协同培养）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–193)]]
+> - **干预措施** 基建工程承包、产能投资基金、本币结算互换、境外合作园区，配套的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》、跨国大学联盟建设、[[Luban Workshop|鲁班工坊]]技能实训输出，面向油气、水电与路桥等关键基建工程推行的校企跨国定向培养机制（如 1+4 贯通模式、1+3+1 校企联合培养与 2+2 双学位协同培养），以及在南亚与中亚走廊建设中将金融外交（累计超1260亿美元）与公共外交深度绑定，通过留学生奖学金、孔子学院、鲁班工坊等教育人文网络培育本土技术力量与亲华精英，缓解沿线国家对大规模基建引发的劳动力挤出与债务依赖焦虑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 678–680)]]; [[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, p. 1698)]]; [[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–193)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–10, 24–27)]]
 > - **实施控制** 依托双边政府间合作备忘录、多边峰会磋商机制、重大联合项目工作组与第三方市场合作协议保障项目推进。
 
 > [!citation-card] 一带一路互联互通战略构想（NDRC, 2015）
@@ -150,8 +151,10 @@ updated: 2026-10-22
 > - **多边高等教育[[Epistemic Governance|知识治理]]体系确立** 在高教领域成功培育出 [[University Alliance of the Silk Road|UASR]]（吸纳 38 国 160 余所高校）与 [[Asian Universities Alliance|AUA]]（汇聚 13 国 15 所顶尖大学）等跨国旗舰联盟，使中国在全球学术网络中的中心地位趋于常态化。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1700–1703)]]
 > - **[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]机制有机互补** 跨国大学联盟实践证实：大众开放网络有效投射了基于对等互惠的[[Knowledge Diplomacy|知识外交]]，而精英排他网络则建构起主导学术议程与资助标准的[[Knowledge Power|知识权力]]，两者协同支撑国家整体战略。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **本土工程技术梯队与实体运维自主化** 针对国际舆论关于过度依赖中国外派员工的关切，中国行业院校通过定向联合培养促使留学生毕业后全员回流母国，参与中亚天然气管道、老挝水电站与非洲干线铁路的运维，切实增强了伙伴国自主运营现代化重大工程的能力。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 194–195)]]
+> - **精英认可与大众疑虑的民意结构分化** 在南亚与中亚13国的民意实证测度显示，倡议通过基建投资与高层互访在政界与商界精英中赢得广泛支持，但普通民众对项目落地带来的主权债务风险、贪腐传闻、环境破坏及外来劳动力竞争等负面议题高度敏感，呈现出高层热络与基层疑虑并存的民意张力。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 49–54, 58–60)]]
 
 > [!stat-cards]- 关键实证数据
+> - **\$126B+** （美元） 2000至2017年间中国对南亚与中亚13国承诺的金融外交投资总额，为一带一路区域陆海走廊建设提供了核心资金支持。[[Argument_Custer_2021_AidData|(Custer et al., 2021, p. 9)]]
 > - **150+** 签署合作协议的共建国家数量（个），另有 30 余个国际组织参与。
 > - **32** （个） 截至2019年4月与中国签署共建合作文件的非洲伙伴国总数。[[Argument_King_2020_ECNUROE|(King, 2020, p. 223)]]
 > - **66%** 2017年中国政府奖学金向“一带一路”沿线国家投放的比例份额。[[Argument_King_2020_ECNUROE|(King, 2020, p. 232)]]
@@ -175,6 +178,7 @@ updated: 2026-10-22
 > > - **[[Developmentalism|发展主义叙事]]** 强调通过基础设施互联互通填补全球南方发展缺口，追求非零和经济增长与民心互通。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697)]]
 > > - **地缘博弈现实主义** 批评倡议可能形成不对称经济依赖，并将跨国大学联盟与文化交流作为构建排他性战略影响力的[[Soft Power|软实力]]工具[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]；印日等国进而提出“[[Asia-Africa Growth Corridor|亚非增长走廊]]”试图对冲其影响力，但因起草过程缺乏非洲主体参与而实效受限。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 232–233)]]
 > > - **债务风险与劳动力挤出指责的实证反驳** 刘文（Wei Liu）等学者（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]）实证指出，高校协同重大工程培养留学生完全依托政府与行业资助、免收学费，且通过工程技术人员本土化显著降低了项目长远运营成本，证实国家正当经济利益与受援国自主造血能够良性相容（pp. 194–195）。
+> > - **金融外交体量与文教对冲实证** 针对南亚与中亚的实证追踪表明，基础设施金融外交虽然快速改善了受援国能源与交通短板，但也激发了地缘战略猜忌与民间反弹；中方随后通过扩充丝路奖学金、援建鲁班工坊和职业培训中心等民生文教手段，对冲“外派劳工挤压本土就业”与“新殖民主义”的社会抵触。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 9–13, 24–27, 58–60)]]
 >
 > > [!axis] [[Knowledge Diplomacy|知识外交]]的包容开放 vs [[Knowledge Power|知识权力]]的精英排他
 > > 争论跨国高等教育合作究竟服务于全人类共同危机的多边协作，还是强化特定大国的主导地位。
@@ -203,4 +207,5 @@ updated: 2026-10-22
 > | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 采用叙事[[Case Study\|案例研究]]系统评估中国行业特色高校在“一带一路”重点能源与交通工程中开展知识外交与四方协同定向培养的实证文献。 |
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 剖析[[Forum on China-Africa Cooperation\|中非合作论坛]]与“一带一路”教育行动深度交织及多边教育互联互通机制的实证文献。 |
 | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 基于新朝贡与[[Tianxia Heuristic\|天下观]]视角实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力的代表性文献。 |
+| [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育与公共外交协同布局及精英/大众民意张力的代表性文献。 |
 

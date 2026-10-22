@@ -204,7 +204,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **系统互补命题** | 阐明 DBDM 诊断与 RITP 实证干预在探究循环中的双轮闭环机制 | 校本教研改革、学校诊断改进、循证教学设计 | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]]; [[Julie Nelson\|Nelson]] 等 |
-> | **组织领导命题** | 论证中层领导与协作网络对维持探究循环运作的决定性支撑功能 | 专业学习共同体（PLC）建设、中层领导力培训 | LaPointe-McEwan 等 (2017); [[Carol Campbell\|Campbell]] 等 |
+> | **组织领导命题** | 论证中层领导与协作网络对维持探究循环运作的决定性支撑功能 | 专业学习共同体（PLC）建设、中层领导力培训 | LaPointe-McEwan et al. (2017); [[Carol Campbell\|Campbell]] 等 |
 > | **专业审议命题** | 强调教师[[Professional Judgment\|专业判断]]在探究循环方案情境化改编中的枢纽地位 | 循证策略本地化转译、反对脚本化教学倡导 | [[Jonathan Sharples]] (2013); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] |
 > | **评价防陷命题** | 揭示评价环节缺失导致探究循环断裂并滑入[[Activity Traps\|活动陷阱]]的组织病理 | 探究循环终期评估、循证干预退出机制设计 | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Datnow and Hubbard (2015) |
 

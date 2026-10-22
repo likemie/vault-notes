@@ -31,7 +31,7 @@ updated: 2026-10-22
 ## 定义
 
 > [!def] 核心定义
-> 接收知识（Received Knowledge）是 Belenky 等人（1986）在探讨[[Women's Ways of Knowing\|女性认知方式]]时提出的认识阶段。处于该阶段的个体认为知识是绝对的确切事实，而自己缺乏创造知识的能力。知识只能从全知的外部专家或权威那里被动接收。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
+> 接收知识（Received Knowledge）是 Belenky et al.（1986）在探讨[[Women's Ways of Knowing\|女性认知方式]]时提出的认识阶段。处于该阶段的个体认为知识是绝对的确切事实，而自己缺乏创造知识的能力。知识只能从全知的外部专家或权威那里被动接收。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 作为[[Women's Ways of Knowing]]中的核心认知阶段，标志着个体在“[[Certainty of Knowledge\|知识的确定性]]”与“[[Justification for Knowing\|认知的辩护]]”上所处的水平。

@@ -55,7 +55,7 @@ updated: 2026-10-22
 > [!info] 第一步：空间权重矩阵的构建
 > 空间权重矩阵 $\mathbf{W}$ 定义了 $n$ 个空间单元之间的"邻居关系"。常见构造方式：
 > - **地理距离倒数** $w_{ij} = 1/d_{ij}$（$i \neq j$），距离越近权重越大；$w_{ii} = 0$
-> - **经济-地理复合权重** $\theta_{ij} = NL_j \times 1/d_{ij}$（$i \neq j$），引入经济因子 $NL$ 修正地理距离的非对称性——经济强省对弱省的影响权重大于反向。Fan 等（2024）使用此构造，以地区 GDP 衡量 $NL$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
+> - **经济-地理复合权重** $\theta_{ij} = NL_j \times 1/d_{ij}$（$i \neq j$），引入经济因子 $NL$ 修正地理距离的非对称性——经济强省对弱省的影响权重大于反向。[[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]]使用此构造，以地区 GDP 衡量 $NL$。[[Argument_Fan_Song_Zhai_2024_RSEE\|(Fan et al., 2024, p. 68)]]
 >
 > 权重矩阵需按行标准化（每行之和为 1），以确保空间滞后项的量纲一致。
 

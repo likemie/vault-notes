@@ -204,7 +204,7 @@ citation_aliases:
 
 > [!chain-link] 证据到判断
 > - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King\|埃德蒙·金]]（Edmund King）试图以权威姿态去规训Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
-> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、[[Roger Dale]]、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
+> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、[[Roger Dale]]、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney et al., 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示
 > 当下关于殖民主义与去殖民化的讨论（如 Keita Takayama, Arathi Sriprakash and Raewyn Connell, 2017; Edward Vickers, 2020）正方兴未艾。然而，要避免使其堕为偏差者或门徒（disciples）的口水战，学术界必须对非西方殖民（Non-Western colonisation）保持高度敏感与精确的区域警示。(p.329)
@@ -254,7 +254,7 @@ citation_aliases:
 > - **历史与情境的相似与差异比较（求同存异）**
 >   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 [[Isaac Kandel\|Isaac Leon Kandel]]、[[Nicholas Hans]] and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
 > - **[[Convergence Theory in Comparative Education\|趋同理论]]与同构（Convergence Theory）**
->   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
+>   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey et al., 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
 > - **作为实用工具的[[Policy Science in Comparative Education\|政策科学]]（Policy Science）**
 >   主张比较教育的核心形式是作为政策科学，为决策提供建议。代表人物包括 Holmes (1984)、King (1979)，也见于 2010 年后的世界教育年鉴。其政治预设并非中性，而是公开寻求与自由民主国家中所谓的“民主权力”结盟。它假定决策者是理性的，且应当在“关键决策时刻”（critical points of decision）寻求比较教育学者的建议。这种结盟使学科极易丧失批判性反思的学术距离，降格为服务国家机器治理目标的行政管理工具。(p.333)
 > - **结果导向与测量技术（Outcomes）**

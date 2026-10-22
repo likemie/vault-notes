@@ -110,7 +110,7 @@ updated: 2026-10-22
 > [!influence-path|notitle] 影响路径
 > - **方法论路径** 其[[Case Study|案例研究]]艺术性方法论与罗伯特·殷（Robert K. Yin）的系统化案例研究路径共同构成质性社会科学中最主流的两种案例[[Paradigm|研究范式]]，广泛影响了教育学、政策研究、护理学、组织管理学的质性探究设计。
 > - **[[Epistemology|认识论]]路径** [[Naturalistic Generalization|自然主义概括]]概念重构了[[Qualitative Research|质性研究]]的"推广"逻辑，使案例研究从方法论上摆脱了量化推断的"代表性样本"要求，确立了诠释性案例[[Rich and Thick Description|深描]]的独立合法性。
-> - **比较教育学路径** Rust 等人（2009）在梳理比较教育学方法论议题时直接引用 Stake (1995) 的经典界定，将其作为量化/质性两种研究取向根本差异的权威表述，影响了比较教育学对方法论[[Pluralism|多元主义]]的理论反思。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
+> - **比较教育学路径** [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]在梳理比较教育学方法论议题时直接引用 Stake (1995) 的经典界定，将其作为量化/质性两种研究取向根本差异的权威表述，影响了比较教育学对方法论[[Pluralism|多元主义]]的理论反思。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
 > - **教育评估路径** 回应性评估框架影响了第四代评估（Fourth Generation Evaluation）运动，推动评估从专家技术判断转向多元利益相关者参与的协商过程。
 
 > [!evidence-grid-a] 相关研究索引

@@ -37,7 +37,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # UIC Impact Measurement
@@ -58,7 +58,7 @@ updated: 2026-10-15
 
 ## 影响分类系统
 
-Cohen 等人（2025）通过对 92 篇文献的[[Systematic Review|系统综述]]，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
+[[Argument_Cohen_2025_JTT|Cohen et al. (2025)]]通过对 92 篇文献的[[Systematic Review|系统综述]]，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
 
 ### 六种影响类型
 

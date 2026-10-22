@@ -148,7 +148,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **2000 年代初 — 科学社会学专业壁垒理论发轫** 科学哲学与专业社会学（如 Maasen & Weingart, 2005）提出“专家知识民主化”及其伴随的技术排他机制。
 > - **2010 年代 — 循证医学与黄金标准跨界移植** “排除性技术”概念被引入公共政策学，用以揭示[[Evidence-Based Education\|循证教育]]运动如何通过独尊 [[Randomised Controlled Trials\|RCTs]] 将[[Qualitative Research\|质性研究]]学者边缘化。
-> - **2020 年代至今 — [[Governing by Numbers\|数字治理]] 2.0 与算法黑箱规制** Steiner-Khamsi 等（2024）将其发展为全球教育治理核心分析工具，剖析国际多边中介如何利用指标库黑箱压制本土民主争鸣。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> - **2020 年代至今 — [[Governing by Numbers\|数字治理]] 2.0 与算法黑箱规制** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]将其发展为全球教育治理核心分析工具，剖析国际多边中介如何利用指标库黑箱压制本土民主争鸣。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 ---
 

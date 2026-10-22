@@ -106,8 +106,8 @@ updated: 2026-10-22
 > 5. **质量评估** 用标准工具评估纳入研究质量，并只把低质量研究的独有发现当作弱证据处理。
 > 6. **修订框架并整合呈现** 依据综合结果修订初始框架，输出经经验数据检验的修订框架。
 
-> [!example] 应用示例：Hagevold 等人（2026）的框架综合
-> Hagevold 等人（2026, pp.6–8）以 [[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（Quality [[Research Utilization\|Use of Research Evidence]], QURE）为主框架，将深度使用框架（Farley-Ripple et al., 2018）、[[Research Literacy\|研究素养]]敏感性（Eriksen, 2022）、[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]（Godfrey & Brown, 2019）以及内外复杂性概念（Kvernbekk, 2016; Perry & Morris, 2023）整合为初始框架。第一作者在 NVivo 15 中以"框定与描述""屏障""促进因素"为主节点编码 109 项研究；屏障节点由团队盲编码并以共识达成 100% 一致。随后聚合式分析统计各主代码的来源研究数，配置式分析识别出跨越个体、组织与系统层级的四类治理机制（信任、技能发展、可持续结构、关系），并据此将初始框架修订为四机制框架。
+> [!example] 应用示例：[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]]的框架综合
+> [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026, pp.6–8)]]以 [[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（Quality [[Research Utilization\|Use of Research Evidence]], QURE）为主框架，将深度使用框架（Farley-Ripple et al., 2018）、[[Research Literacy\|研究素养]]敏感性（Eriksen, 2022）、[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]（Godfrey & Brown, 2019）以及内外复杂性概念（Kvernbekk, 2016; Perry & Morris, 2023）整合为初始框架。第一作者在 NVivo 15 中以"框定与描述""屏障""促进因素"为主节点编码 109 项研究；屏障节点由团队盲编码并以共识达成 100% 一致。随后聚合式分析统计各主代码的来源研究数，配置式分析识别出跨越个体、组织与系统层级的四类治理机制（信任、技能发展、可持续结构、关系），并据此将初始框架修订为四机制框架。
 
 ---
 

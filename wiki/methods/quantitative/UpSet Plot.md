@@ -4,7 +4,7 @@ aliases:
   - 集合交集图
   - UpSet
   - UpSet Matrix
-summary: "一种基于矩阵点阵与条形图的定量多集合交集可视化方法，由 Lex 等人（2014）提出。专门用于替代传统韦恩图在处理4个及以上集合交集时的视觉重叠与面积失真缺陷，直观展示交集规模、组合模式及元素属性。"
+summary: "一种基于矩阵点阵与条形图的定量多集合交集可视化方法，由 Lex et al.（2014）提出。专门用于替代传统韦恩图在处理4个及以上集合交集时的视觉重叠与面积失真缺陷，直观展示交集规模、组合模式及元素属性。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
