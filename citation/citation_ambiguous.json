@@ -580,6 +580,58 @@
         "year": "2022"
       }
     ],
+    "Steiner-Khamsi et al., 2024": [
+      {
+        "aliases": [
+          "Steiner-Khamsi et al., 2024a",
+          "Steiner-Khamsi et al. (2024a)"
+        ],
+        "apa7_aliases": [
+          "Steiner-Khamsi, Faul, et al., 2024",
+          "Steiner-Khamsi, Faul, et al. (2024)"
+        ],
+        "argument": "Argument_Steiner-Khamsi_2024_UNESCO",
+        "authors": [
+          "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]",
+          "Faul, M. V.",
+          "Baek, C.",
+          "Hopkins, A. N.",
+          "Iwabuchi, K."
+        ],
+        "citation": "Steiner-Khamsi, G., Faul, M. V., Baek, C., Hopkins, A. N., & Iwabuchi, K. (2024). Strategic review: Improving the use of evidence for education policy, planning and implementation. UNESCO, Paris.",
+        "doi": "",
+        "isbn": "978-92-3-100653-1",
+        "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md",
+        "rule": "authors",
+        "source_language": "en",
+        "title": "Argument_Steiner-Khamsi_2024_UNESCO",
+        "year": "2024"
+      },
+      {
+        "aliases": [
+          "Steiner-Khamsi et al., 2024b",
+          "Steiner-Khamsi et al. (2024b)"
+        ],
+        "apa7_aliases": [
+          "Steiner-Khamsi, Martens, et al., 2024",
+          "Steiner-Khamsi, Martens, et al. (2024)"
+        ],
+        "argument": "Argument_Steiner-Khamsi_2024_CE",
+        "authors": [
+          "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]",
+          "[[Kerstin Martens|Martens, K.]]",
+          "[[Christian Ydesen|Ydesen, C.]]"
+        ],
+        "citation": "Steiner-Khamsi, G., Martens, K., & Ydesen, C. (2024). Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload. Comparative Education, 60(4), 537–554.",
+        "doi": "",
+        "isbn": "",
+        "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
+        "rule": "authors",
+        "source_language": "en",
+        "title": "Argument_Steiner-Khamsi_2024_CE",
+        "year": "2024"
+      }
+    ],
     "Torres, 2022": [
       {
         "aliases": [

@@ -22786,6 +22786,20 @@
     ]
   },
   {
+    "title": "Bibliometric Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Bibliometric Analysis.md",
+    "aliases": [
+      "文献计量分析",
+      "文献计量学",
+      "科学计量分析",
+      "科学计量学",
+      "Bibliometrics",
+      "Scientometrics",
+      "共被引网络分析"
+    ]
+  },
+  {
     "title": "Binary Logistic Regression",
     "type": "method",
     "path": "wiki/methods/quantitative/Binary Logistic Regression.md",
@@ -33779,6 +33793,17 @@
     ]
   },
   {
+    "title": "SDG 4 High-Level Steering Committee",
+    "type": "fact",
+    "path": "wiki/facts/global/SDG 4 High-Level Steering Committee.md",
+    "aliases": [
+      "可持续发展目标4高级别指导委员会",
+      "SDG 4 HLSC",
+      "全球教育合作机制高级别指导委员会",
+      "High-Level Steering Committee for SDG 4"
+    ]
+  },
+  {
     "title": "Standing Conference of Governments of the International Baccalaureate",
     "type": "fact",
     "path": "wiki/facts/global/Standing Conference of Governments of the International Baccalaureate.md",
@@ -42188,6 +42213,11 @@
     "title": "Argument_RoyalSociety_2026_ScienceForSociety_Ch06",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch06.md"
+  },
+  {
+    "title": "Argument_Steiner-Khamsi_2024_UNESCO",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md"
   },
   {
     "title": "Argument_OxfordUIDP_2019_UIPartnerships",

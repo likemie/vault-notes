@@ -10,8 +10,8 @@ citation: "Steiner-Khamsi, G., Martens, K., & Ydesen, C. (2024). Governance by n
 year: 2024
 doi: ""
 citation_aliases:
-  - "Steiner-Khamsi et al., 2024"
-  - "Steiner-Khamsi et al. (2024)"
+  - "Steiner-Khamsi et al., 2024b"
+  - "Steiner-Khamsi et al. (2024b)"
 isbn: ""
 tags:
   - subject/comparative-education
@@ -270,7 +270,7 @@ issuing_organization: ""
 
 #### 2. 世界银行脱离教科文组织人文路线，以放贷权力和回报率指标构建自指性政策帝国
 
-在后殖民时期的全球南方，世界银行成为西方大国与苏联争夺不结盟国家影响力的关键金融与制度杠杆；[[Development Turn in Comparative Education|发展转向]]对全球南方国家的作用，正如量化转向对非共产主义全球北方国家的作用一样——自 1990 年确立首项国际协议《[[Education for All|全民教育]]》（Education for All，EFA）开始，全球南方国家才被系统性置于国际组织的量化规制体系之下。（p.541）
+在后殖民时期的全球南方，世界银行成为西方大国与苏联争夺不结盟国家影响力的关键金融与制度支柱；[[Development Turn in Comparative Education|发展转向]]对全球南方国家的作用，正如量化转向对非共产主义全球北方国家的作用一样——自 1990 年确立首项国际协议《[[Education for All|全民教育]]》（Education for All，EFA）开始，全球南方国家才被系统性置于国际组织的量化规制体系之下。（p.541）
 
 > [!tension-table] 世界银行与[[UNESCO\|联合国教科文组织]]的治理理念与制度[[Paradigm\|范式]]分野
 > | 比较维度 | 世界银行（World Bank） | 联合国教科文组织（UNESCO） |
@@ -360,7 +360,7 @@ issuing_organization: ""
 ---
 
 > [!claim] 论证步骤四　主权国家在转移空间中策略性动员外部权威，但在法定行政出台阶段实施严酷政治过滤
-> 主权国家并非被动接受全球政策中介灌输的受体；基于[[Methodological Transnationalism\|方法论跨国主义]]框架，国家政府在[[Transfer Space\|转移空间]]（Transfer Space）中对外部证据展开策略性利用，呈现出议程设置阶段借力动员、决策出台阶段严苛过滤的周期性断裂特征。（pp.546–548）
+> 主权国家对全球政策中介展现出高度自主的选择性；基于[[Methodological Transnationalism\|方法论跨国主义]]框架，国家政府在[[Transfer Space\|转移空间]]（Transfer Space）中对外部证据展开策略性利用，呈现出议程设置阶段借力动员、决策出台阶段严苛过滤的周期性断裂特征。（pp.546–548）
 
 #### 1. 决策者借助策略性外化将外部中介建构为准客观裁判，以“仿佛有效”的投射打破本土改革僵局
 
@@ -385,12 +385,12 @@ issuing_organization: ""
 
 > [!case] 芬兰“PISA 奇迹”作为规制性投射的按需建构案例
 > - **案例背景与外在化动机** 各国面对旷日持久的国内改革僵局与合法性赤字，急需寻求超越本土纷争的外部参考系，芬兰在国际大规模学生评估中的优异表现被迅速推向全球神坛。（p.546）
-> - **“仿佛有效”的拟似权威** 依据卢曼系统论，芬兰奇迹并非外在客观真理，而是只有当行动者假定其“仿佛（as if）”有效时才具备合法化效力的规制性投射。
+> - **“仿佛有效”的拟似权威** 依据卢曼系统论，芬兰奇迹的规制效力建立在主观认定之上：只有当行动者假定其“仿佛（as if）”有效时，该经验才具备合法化效力。
 > - **按需剪裁的多重归因话语** 针对不同的本土争议，芬兰经验被随意赋予不同解释：推行专业化者将其归因于大学化[[Normal School\|师范教育]]，倡导公平者将其定性为不分流的包容体制，呼吁减负者则将其归结为极少高利害考试的关怀生态。
 > - **治理启示** 证实外部参照点本质上是本土决策者在系统内部按需反向建构的符号工具，服务于国内执政派别的特定施政议程。
 
 > [!policy-design] [[Transfer Space\|转移空间]]中的策略性[[Externalization\|外化]]机制
-> - **治理目标** 打破国家内外的二元隔离，将全球中介力量建构为超越党派纷争的客观裁判，作为化解本土政治博弈僵局的正当性杠杆。（pp.540, 546）
+> - **治理目标** 打破国家内外的二元隔离，将全球中介力量建构为超越党派纷争的客观裁判，作为化解本土政治博弈僵局的正当性支点。（pp.540, 546）
 > - **适用情境** 遭遇国内长期改革僵局、政党轮替压力、地缘政治重组或选民信任危机的主权决策者。
 > - **政策工具** 策略性构建“仿佛有效”的拟似外在参考点，工具性动员国际排名与标杆经验压制异见。
 > - **约束边界** 外部证据的动员深度与取舍偏好，完全受制于能否契合本土执政派别的既定施政蓝图与选拔利益。
@@ -401,7 +401,7 @@ issuing_organization: ""
 
 > [!case] 北欧五国政策咨询实证：挪威与瑞典法定专家委员会的文献断崖式损耗
 > - **北欧五国跨国比较设计与制度背景** 一项涵盖丹麦、芬兰、冰岛、挪威与瑞典的五国实证研究，系统追踪了政府任命的专家委员会所使用的研究证据与教育部在最终行政法令中所引文献的对应关系；挪威与瑞典均拥有高度制度化的法定政策咨询体系，由政府正式任命专家专门委员会为政策草案提供学理依据。（Steiner-Khamsi et al., 2022; p.547）
-> - **令人意外的行政引文脱节** 实证发现，两国教育部在颁布正式行政法令时，极少直接采纳各自专家委员会咨询报告中详列的学术文献，而是另起炉灶、引用另一套完全不同的研究证据为既定决策提供合法性辩护。（Steiner-Khamsi et al., 2022; pp.547–548）
+> - **令人意外的行政引文脱节** 实证发现，两国教育部在颁布正式行政法令时，极少直接采纳各自专家委员会咨询报告中详列的学术文献，往往另起炉灶、引用另一套完全不同的研究证据为既定决策提供合法性辩护。（Steiner-Khamsi et al., 2022; pp.547–548）
 > - **挪威能力改革中的极端损耗率** 以挪威能力导向课程改革为例，5 个专家委员会在咨询报告中累计罗列了 **464 篇参考文献**，营造出充分吸纳循证研究的科学姿态；然而教育部最终出台的行政法令仅引用了 **22 篇参考文献**，文献损耗率高达 95.3%。（pp.547–548）
 > - **经合组织的压倒性权重与学术明星的边缘化** 在这仅存的 22 篇法令引文中，整整 **20 篇**全部出自专门负责审查经合组织[[Definition and Selection of Competencies\|能力界定与选择]]（DeSeCo）项目的同一个委员会；这不仅证明各专家委员会在政治天平上的分量极不均等，更证实经合组织作为政策中介的穿透力压倒了包括[[John Hattie\|约翰·哈蒂]]（John Hattie）在内的个体学术明星。（p.548）
 > - **行政官僚对证据的终极政治主权** 挪威与瑞典的实证共同确证，即便在循证咨询传统最为成熟的北欧国家，行政决策中枢依然牢牢掌握着证据准入与否的终审权；外部政策中介所生产的知识，必须经受本土政治逻辑与执政偏好的严酷筛选。
@@ -431,7 +431,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] [[Policy Brokerage\|政策中介]]的政治化实质
-> 当同一个组织不仅将自己在内部生产的知识向外推介，甚至还打着科学理性的旗号，一手包办[[Knowledge Production\|知识生产]]、中介推介并资助相关项目时，[[Knowledge Mediation\|知识中介]]与政策中介之间的界限便不再分明。因此，我们在本文中主张使用政策中介而非更为中立的知识中介一词。（p.538）
+> 当同一个组织不仅将自己在内部生产的知识向外推介，甚至还打着科学理性的旗号，一手包办[[Knowledge Production\|知识生产]]、中介推介并资助相关项目时，[[Knowledge Mediation\|知识中介]]与政策中介之间的界限便不再分明。因此，本项研究主张采用政策中介这一表述，超越更为中立的知识中介概念。（p.538）
 >
 > *Of course, the differentiation between knowledge brokerage and policy brokerage is fluid when the same organisation brokers knowledge it previously produced in-house or, even more blatantly, produces, brokers, and funds its projects with recourse to scientific rationality. Therefore, we propose to use the term 'policy brokerage' rather than the more neutral term 'knowledge brokerage' throughout this article.*
 
@@ -446,14 +446,14 @@ issuing_organization: ""
 > *It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today's information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use. The [[Research Question]] for policymaking under ambiguity becomes: How do policy brokers convince their users (policymakers) that they know the universe of 'ways of thinking' from which they draw conclusions and make recommendations?*
 
 > [!citation-card] [[Methodological Transnationalism\|方法论跨国主义]]与相互依存空间
-> 我们并不打算放弃国家与全球实体这些分析范畴，因为两者之间的动态联结在很大程度上解释了国家政府的政策制定逻辑。我们把国家与全球理解为相互依存的[[Relational Space\|关系性空间]]，而非彼此隔离的地理实体。基于这一认识，全球并非游离于国家政策制定之外的外部力量。我们发现，政策行动者往往在本土政策陷入胶着时，策略性地动员全球行动者，将其建构为仿佛存在的外部政治权威。这种聚焦全球与国家层级之间关系性维度的视角，与我们坚定践行方法论跨国主义的学术立场完全契合。（p.540）
+> 国家与全球实体这些分析范畴依然具备核心解释力，因为两者之间的动态联结在很大程度上阐明了国家政府的政策制定逻辑。国家与全球被理解为相互依存的[[Relational Space\|关系性空间]]，是深度交织的复合场域。基于这一认识，全球力量始终内在于国家政策制定的动态过程之中。政策行动者往往在本土政策陷入胶着时，策略性地动员全球行动者，将其建构为仿佛存在的外部政治权威。这种聚焦全球与国家层级之间关系性维度的视角，与坚定践行方法论跨国主义的学术立场完全契合。（p.540）
 >
 > *Given our affinity with comparative policy studies, we are not prepared to dismiss the notions of 'national' and 'global' entities because the nexus between the two [[Unit of Analysis\|units of analysis]] explains, to some extent, the policymaking of (national) governments. We conceive of the national and the global as interdependent spaces rather than distinct places. For this reason, we do not view the 'global' as 'external' to national policymaking... We found that policy actors at particular moments of protracted policy constellations tend to instrumentally mobilise global actors as if they were external political forces... Our focus on the relational aspect between the global and national levels of government is very much in line with Stone's (2020, 7) encouragement to unabashedly commit to 'methodological transnationalism.'*
 
 ---
 
 > [!warning] 自述局限
-> 原文指出的研究局限与未来议程包括：当前关于全球[[Policy Brokerage\|政策中介]]的研究仍过度聚焦于先行者[[OECD\|经合组织]]（特别是 [[PISA]]）与[[World Bank\|世界银行]]，未能充分展开对其他涉足教育的国际组织、区域枢纽及新兴公私伙伴的全面比较历史追踪；各国际组织在政策中介互动中的相互依赖机制（究竟是制度模仿、分而治之还是正面竞争）仍处于经验探索初期；面对公众对政治操弄的持续疑虑，政策中介如何在海量竞争者中持久维系科学公信力，仍是一个充满理论与实证张力的未决难题。（pp.544–545, 549–550）
+> 文献自述的研究局限与未来议程包括：当前关于全球[[Policy Brokerage\|政策中介]]的研究仍过度聚焦于先行者[[OECD\|经合组织]]（特别是 [[PISA]]）与[[World Bank\|世界银行]]，未能充分展开对其他涉足教育的国际组织、区域枢纽及新兴公私伙伴的全面比较历史追踪；各国际组织在政策中介互动中的相互依赖机制（究竟是制度模仿、分而治之还是正面竞争）仍处于经验探索初期；面对公众对政治操弄的持续疑虑，政策中介如何在海量竞争者中持久维系科学公信力，仍是一个充满理论与实证张力的未决难题。（pp.544–545, 549–550）
 
 ---
 

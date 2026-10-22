@@ -9,6 +9,12 @@ summary: "联合国教科文组织全球教育合作机制下的最高政治领�
 type: fact
 subtype: organization
 region: global
+fact_region: "global"
+fact_kind: "organization"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: intergovernmental-steering-body
 headquarters: "Paris, France"
 established: "2021"
@@ -81,7 +87,7 @@ updated: 2026-10-22
 > - **战略行动倡导与评估** 定期发布全球教育变革行动进展简报，评估成员国在教师赋能、数字学习与全包容教育方面的制度落地成效。
 
 > [!citation-card] 职能领域一的法定授权与战略意图
-> 职能领域一的核心使命并非设立一个相互脱节的新项目，而是为了巩固、放大并深化不同行动主体已经建立起来的既有举措，促进循证政策制定与规划落地。（Steiner-Khamsi et al., 2024, p. 13）
+> 职能领域一的核心使命在于巩固、放大并深化不同行动主体已经建立起来的既有举措，促进循证政策制定与规划落地。（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a, p. 13]]）
 >
 > *The focus of this function is not creating a new separate initiative, but about consolidating, amplifying and deepening the initiatives already being developed by diverse actors.*
 
@@ -95,4 +101,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024, pp. 10, 13–17, 39–50)]] — 受委员会委托对其跨领域职能领域一（FA1）开展系统性战略审查，剖析全球教育证据利用中的双重反馈回路断裂，并提出以区域枢纽与三维利用路径为支撑的变革路线图。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a, pp. 10, 13–17, 39–50)]] — 受委员会委托对其跨领域职能领域一（FA1）开展系统性战略审查，剖析全球教育证据利用中的双重反馈回路断裂，并提出以区域枢纽与三维利用路径为支撑的变革路线图。
