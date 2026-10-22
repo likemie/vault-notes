@@ -131,13 +131,16 @@ updated: 2026-10-23
 > [!claim] Henry et al.
 > **[[Knowledge Mediation|知识中介]]的去政治化功能** 亨利等人指出，经合组织认知共同体最强大的力量在于其将政治决断去政治化的技术能力；通过复杂精巧的高阶统计学包装与标准化数据发布，共同体将新自由主义对教育的功利主义改造呈现为不证自明的客观公理，使任何批判性反思都被污名化为不讲科学的非理性抗拒。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444, 451)]]
 
+> [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
+> **超国家守门网络建构证据文化与认知层级** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、联合国教科文组织与世界银行官方文本的分析指出，跨国认知共同体（包括全球教育证据顾问小组（Global Education Evidence Advisory Panel, GEEAP）等专家网络）作为知识守门人深度塑造证据文化。共同体借助“爵士乐队”、“智能购买”等修辞隐喻，赋予量化因果评估与全球综合证据以排他性话语特权，同时将政策执行受阻个体化归咎于官员数据素养短板，完成了对地方实践情境的认识论规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 347–348)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **危机议程垄断命题** | 不确定性与政策危机促成国家决策层对跨国专家因果解释的依附 | 跨国评估震荡、全球治理转型与政策恐慌 | Haas; Rizvi & Lingard |
-> | **去政治化技术命题** | 专家共同体依托统计测量与客观性修辞隐蔽意识形态霸权 | 国际比较指标研发、联赛排位与教育量化问责 | Henry et al.; Rose |
+> | **去政治化技术命题** | 专家共同体依托统计测量与客观性修辞隐蔽意识形态霸权 | 国际比较指标研发、联赛排位与教育量化问责 | Henry et al.; Rose; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 
 ---
 
@@ -145,6 +148,7 @@ updated: 2026-10-23
 > - **1990–1992 年 — [[Wight's Three Traditions of International Theory|国际关系理论]]奠基** 恩斯特·哈斯（Ernst Haas, 1990）与彼得·哈斯（Peter Haas, 1992）在《国际组织》（*International Organization*）专刊上系统提出认知共同体理论，解释跨国环境条约与军控协议中的专家网络机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 439)]]
 > - **2000 年代初 — 比较教育与全球治理应用** 亨利、林加德与里兹维等学者将该概念引入跨国教育政策社会学，揭示[[OECD|经合组织]]如何超越传统的成员国协调论坛属性，演变为由统计评测专家驱动的全球“[[Boundary Spanner|知识中介者]]”与政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444, 451)]]
 > - **2010 年代至今 — 全球[[Governing by Numbers|数字治理]]与数据中介网络扩展** 进一步被应用于分析国际[[Big Science|大科学工程]]、人工智能伦理治理、[[World Bank|世界银行]]与经合组织混合数据专家网络的权力运作。
+> - **2026 年 — 超国家认知共同体的修辞隐喻与证据文化建构** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 揭示经合组织、联合国教科文组织与世界银行顾问小组等跨国认知网络如何借助修辞隐喻确立量化实证特权并建构排他性证据文化（pp. 341, 346–348）。
 
 ---
 
@@ -170,4 +174,4 @@ updated: 2026-10-23
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|试题研发]]早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。
-> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341–343)]] — 分析经合组织、[[UNESCO|联合国教科文组织]]与世界银行顾问小组等超国家守门机构如何依托认知共同体界定证据层级与合法动员机制。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341–343, 347–348)]] — 分析经合组织、[[UNESCO|联合国教科文组织]]与世界银行顾问小组等超国家守门机构如何依托认知共同体界定证据层级、建构证据文化与合法动员机制。

@@ -118,7 +118,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -167,6 +167,7 @@ updated: 2026-10-22
 > - **评价认识论的效用转向（Assessment Epistemology & Utilitarian Shift）** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 26–27, 35)]] 揭示，国际大规模测评（如 [[OECD]] 的 [[PISA]]）在教育评价领域确立了新型评价认识论：摆脱具体国家课程知识再现的判准，转向以应对未来生活挑战的通用胜任力、[[Lifelong Learning|终身学习]]倾向及[[Self-Efficacy|自我效能感]]等非认知自我规制特质为有效知识核心，将教育产出重构为支撑[[Knowledge-Based Economy|知识经济]]的直接输入。
 > - **非西方关系性认识论与天下框架（Relational Epistemology & [[Tianxia Heuristic]]）** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, pp. 1703–1705)]] 引入非西方传统中的“天下”认识论启发框架，打破西方实证与后实证主义对个体与实体的绝对二分，强调以关系性与共生共存为认知基底。该认识论将全球等级制与平等主义视作相互渗透的连续体，为解析跨国知识网络、地缘高等教育治理与[[Knowledge Diplomacy|知识外交]]中的不对称权力互动提供了超越二元对立的认识论透镜。
 > - **发生认识论与教育知识的动态可错性（Genetic Epistemology & Dynamic Fallibility）** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 654–655)]] 结合让·[[Jean Piaget|皮亚杰]]（Jean Piaget）的发生认识论与[[Basil Bernstein|伯恩斯坦]]（Basil Bernstein）关于教育学弱语法知识结构的论述，揭示教育知识是一个随着主体情境互动而持续生成的动态演进形态；任何将特定学术流派固化为技术官僚督导标准与审计常模的企图，在认识论上都属于将流变知识虚构为静态客观真理的范畴错置。
+> - **认识论正义与超国家认知层级解构（Epistemic Justice & Supranational Hierarchies）** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 揭示超国家政策话语建构起以跨国量化实验与综合证据为特权的排他性认识论层级，压制本土默会知识；倡导在决策社群中为地方实践者确立包容性审议空间，推进全球—本土间的认识论正义。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
 
 > [!logic-map]- 认识论的双重视角与谱系映射
 > ```mermaid
@@ -296,6 +297,7 @@ updated: 2026-10-22
 > - **当代前沿 — [[Pragmatic Paradigm|实用主义]]整合与复杂适应** [[Mixed Methods Research|混合方法研究]]以实用主义认识论超越量质之争（Johnson et al., 2007）；[[Complexity Theory|复杂性理论]]进一步确立动态[[Emergence|涌现]]与生态反思的非线性认识论架构。
 > - **2024年 — 非西方关系认识论拓展与全球治理知识反思** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 依托“天下”本体与认识论框架（[[Tianxia Heuristic|Tianxia heuristic]]），提出突破主客二元对立与西方中心主义的非西方关系性认识论，论证全球知识体系中的等级制秩序与多中心网络化赋权能够在关系共生中并存，拓展了比较教育与全球[[Epistemic Governance|知识治理]]的认识论视域。
 > - **2020s — 循证治理中“当前知识状态”的认识论批判** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 结合发生认识论与知识社会学，解构了国家督导机构将学术研究冻结为静态审计标准的认识论假设，确立了教育知识流变性与一线践行智慧的情境价值（pp. 654–655）。
+> - **2026年 — 超国家政策话语中的认识论等级与认知正义转向** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 剖析国际组织官方文本如何借助修辞隐喻建构崇尚量化实证的认识论特权，提出破除治理责任个体化并重塑保障本土实践智慧与边缘群体发声权的认识论正义（pp. 340, 347–351）。
 
 ---
 
@@ -315,6 +317,12 @@ updated: 2026-10-22
 >
 > > [!axis] 技术官僚“静态知识状态” vs 发生认识论动态演变
 > > [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022, pp. 654–655)]] 揭示，督导治理预设存在客观完备的“当前知识状态”作为审计标尺；而发生认识论与知识社会学反驳指出，教育学具有弱语法性与持续发生性，任何静态化的真理宣称本质上都是行政权力对学术流变的规训。
+>
+> > [!axis] 全球实证普遍主义 vs 地方情境认识论正义
+> > 争论政策证据应遵循全球统一的因果量化等级，还是确立包容本土实践默会知识的认知正义。
+> >
+> > - **全球普遍主义实证观** 坚信严谨因果评估（如 RCT 与二阶元分析）构成最具效力的跨国证据标准。
+> > - **认识论正义与本土审议立场（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 批判全球实证霸权对地方实践情境的认识论压制，主张在决策社群中保障一线实践者的认知主权与平等审议权。
 
 > [!critique] 外部批评
 > - **批判认识论对[[Value Neutrality|价值中立]]假象的解构** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）批判主流[[Positivism|实证主义]]与技术功能主义将“价值中立”作为唯一的合法[[Scientific Attitude|科学态度]]，指出这种认识论掩盖了资本主义世界体系的剥削机制与不平等现状，沦为服务于统治阶级的“欺骗性认识论”。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
@@ -345,4 +353,5 @@ updated: 2026-10-22
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 引入源自古代中国哲学的“天下”认识论启发框架（[[Tianxia Heuristic|Tianxia heuristic]]），以关系性思维解构全球[[Knowledge Power|知识权力]]结构，揭示等级制集中与多边平权网络并存的跨国高等教育治理图景（pp. 1703–1705）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 结合让·皮亚杰发生认识论与伯恩斯坦知识社会学，解构国家学校督察局将学术研究固化为“当前知识状态”与静态审计标准的官僚认识论幻觉（pp. 654–655）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经济合作与发展组织（OECD）如何通过 PISA 确立脱离国家具体课程的全新评价认识论，将教育产出重新界定为面向未来生活与知识经济的通用胜任力及非认知自我效能感，驱动欧洲教育治理的量化技术理性（pp. 26–27, 35）。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合解释性政策分析解构超国家政策文本中的修辞隐喻与排他性认识论层级，倡导重构兼顾制度使能环境与地方认知正义的包容性决策生态。
 
