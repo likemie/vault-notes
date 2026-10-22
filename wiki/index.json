@@ -9913,6 +9913,17 @@
     ]
   },
   {
+    "title": "Educational Diplomacy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Educational Diplomacy.md",
+    "aliases": [
+      "教育外交",
+      "高等教育外交",
+      "高教外交",
+      "Education Diplomacy"
+    ]
+  },
+  {
     "title": "Elitism Dispositif",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Elitism Dispositif.md",
@@ -29635,6 +29646,19 @@
     ]
   },
   {
+    "title": "Double First-Class Initiative",
+    "type": "fact",
+    "path": "wiki/facts/china/Double First-Class Initiative.md",
+    "aliases": [
+      "双一流",
+      "双一流建设",
+      "世界一流大学和一流学科建设",
+      "Double First Class",
+      "Double World-Class Initiative",
+      "World-Class Universities and First-Class Disciplines"
+    ]
+  },
+  {
     "title": "Gaokao",
     "type": "fact",
     "path": "wiki/facts/china/Gaokao.md",
@@ -38755,6 +38779,11 @@
     "title": "Argument_Freeman_1995_CJE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
+  },
+  {
+    "title": "Argument_Velasco_2022_CSJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
   },
   {
     "title": "Argument_Schaffar_2024_CogentEdu",
