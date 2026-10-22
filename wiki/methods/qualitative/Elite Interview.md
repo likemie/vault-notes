@@ -10,7 +10,7 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"

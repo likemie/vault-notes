@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -21,17 +21,24 @@ tags:
   - method/bibliometrics
   - theme/scientometrics
   - theme/knowledge-production
-related_concepts: []
+related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Unit of Analysis]]"
+  - "[[Operationalization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Network Analysis]]"
+  - "[[Systematic Review]]"
+  - "[[Survey Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -46,7 +53,7 @@ updated: 2026-10-22
 > - **输出形式** 历年发文量增长曲线、引文频次分布、高被引文献排行榜、共被引网络聚类图谱、关键词共现网络及主题演化流向图。
 
 > [!citation-card] 科学图谱与文献计量的计算定位
-> 文献计量分析旨在运用文本分析与引文分析计算技术，生成研究领域的全景图景。该方法是识别核心研究议题并利用计算途径呈现学术宏观图景的标准化范式。通过关键词分析识别核心主题演进，借助共被引分析生成学科领域全景并提取知识聚类。（Steiner-Khamsi et al., 2024, p. 64）
+> 文献计量分析旨在运用文本分析与引文分析计算技术，生成研究领域的全景图景。该方法是识别核心研究议题并利用计算途径呈现学术宏观图景的标准化范式。通过关键词分析识别核心主题演进，借助共被引分析生成学科领域全景并提取知识聚类。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 64)]]
 >
 > *Bibliometric analysis aims to generate a picture of a research field using both text analysis and citation analysis. It is a way of identifying core research topics and illustrating an academic landscape using a computational approach. Here, we used a keyword analysis to identify important themes in education and public health research and how those have changed over time. We also used a co-citation analysis to generate an overview of the field and to extract research clusters.*
 

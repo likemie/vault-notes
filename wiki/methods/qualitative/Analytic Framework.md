@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 75
+method_related_count: 76
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -100,10 +100,11 @@ related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -209,6 +210,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 援引 McLean and Gargani (2019) 规模化分析框架，从向上拓展（制度化）、向外拓展（覆盖面扩大）与向深拓展（规范文化重塑）三维维度，系统解构循证教育改革在规划与实施阶段的结构性赤字（p. 17）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 构建涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构的五维分析框架，系统考察二战后至 2025 年美国[[Social Contract of Science|科学的社会契约]]在稳定期、再协商期、危机重构期与技术型契约转型期的制度演进。

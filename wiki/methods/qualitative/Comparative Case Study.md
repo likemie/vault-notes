@@ -8,7 +8,7 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 58
+method_related_count: 59
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -82,10 +82,11 @@ related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -178,6 +179,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 采用部门间对照比较案例研究设计，对比全球教育治理与全球公共卫生部门在证据层级、知识转化平台与多边治理机制上的异同，提炼教育循证决策改革的借鉴路径（pp. 28–29）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110, 112)]] — 评析比较教育学者如何通过精细的多地点多标度比较[[Case Study|案例研究]]（CCS），结合几内亚与美法阅读教学、以色列分权改革、印度女教师培训、巴布亚新几内亚乡村反抗及巴勒斯坦幼教机构，示范贯通跨国标准、国家中介与微观课堂的跨尺度“双重视野”分析策略。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与[[Geopolitics|地缘政治]]对多领域政策混合体的历史重塑。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。

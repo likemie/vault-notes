@@ -9,7 +9,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 56
+method_related_count: 57
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"

@@ -8,7 +8,7 @@ summary: "研究综合是系统检索、严格评估并整合针对特定研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -66,11 +66,12 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -79,13 +80,13 @@ updated: 2026-10-22
 > 研究综合（Research Synthesis，亦称证据综合 Evidence Synthesis）是一个涵盖性方法家族与学术伞式术语，指运用系统、显式且可复现的方法，对针对特定[[Research Question|研究问题]]或公共政策议题的多项独立原始实证研究进行全面检索、方法学质量严格审查、信息提取与智力整合，旨在形成超越单一研究局限的高阶科学证据或决策咨询报告。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 针对特定主题公开发表或未发表的原始实证研究文献（期刊论文、硕博论文、学术专著、评估报告、预印本等）。
+> - **研究对象** 针对特定主题公开发表或未发表的原始实证研究文献（期刊成果、硕博学位成果、学术专著、评估报告、预印本等）。
 > - **问题类型** 因果效应检验（干预措施是否有效）、[[Phenomenology|现象学]]解释（参与者体验与机制理解）、综合评价（政策方案比较）与证据基础诊断。
 > - **[[Unit of Analysis|分析单位]]** 独立的初级研究（Primary Study）或独立的[[Effect Size|效应量]]估计值（Effect Size）。
 > - **输出形式** 综合效应量估计与[[Confidence Interval|置信区间]]（量化[[Meta-analysis|元分析]]）、质性主题框架（元[[Ethnography|民族志]]/质性元整合）、证据图谱（Evidence Map）或结构化政策简报。
 
 > [!citation-card] 国际循证[[Policy Network|政策网络]]论研究综合的标准界定
-> 研究综合绝非对已有文献的随意翻阅或简单机械汇总，而是对政策决策相关最佳证据的系统化、透明化总结；它必须包含明确的协议规程、系统且显式的方法、严密的数据采集以及对纳入研究质量的严格评估。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 94–95)]]
+> 研究综合是对政策决策相关最佳证据的系统化与透明化总结，严格遵循明确的研究规程、显式系统的方法、规范的数据采集流程以及对纳入研究的方法学质量评估。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 94–95)]]
 >
 > *“A research synthesis is a systematic and transparent summary of the best available evidence relevant to a policy decision. It must involve explicit protocols, systematic and explicit methods, rigorous data collection and the assessment of the quality of the studies included.” (Evidence Informed Policy Network, cited in Snook et al., 2009, pp. 94–95)*
 
@@ -107,7 +108,7 @@ updated: 2026-10-22
 
 > [!proc] 通用程序
 > 1. **界定问题与注册方案** 确立明确的 [[PICO Framework|PICO]]（对象、干预、对照、结果）框架，制定并公开[[Preregistration|预注册]]研究规程（Protocol），避免事后挑选结果。
-> 2. **全面系统检索文献** 检索多个跨学科电子数据库、学术会议论文集、学位论文库及政府政策报告，详细记录检索词式与筛选流程。
+> 2. **全面系统检索文献** 检索多个跨学科电子数据库、学术会议纪要、学位成果库及政府政策报告，详细记录检索词式与筛选流程。
 > 3. **双人独立筛选与质量评估** 依据预设纳入与排除标准进行初筛与全篇复筛，运用经过验证的方法学工具对纳入研究实施质量准入与偏倚风险评分。
 > 4. **数据与特征编码** 建立标准化编码表，抽取[[Study Population and Sample|研究样本]]特征、干预实施细节、测量工具、统计结果及[[Effect Size|效应量]]。
 > 5. **证据整合与[[Heterogeneity|异质性]]检验** 依据数据性质选择量化效应合并或质性综合，严格进行亚组分析、[[Interaction Effect|调节效应]]检验与敏感性分析。
@@ -116,7 +117,7 @@ updated: 2026-10-22
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 当某一学术议题或政策干预积累了大量分散、相互矛盾甚至对立的独立实证研究，亟需对其因果[[Effect Size|效应量]]级、[[Heterogeneity|异质性]]来源及干预规律进行系统评估时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]]
+> - **适合使用** 当某一学术议题或政策干预积累了大量分散、相互矛盾甚至对立的独立实证研究，亟需对其因果[[Effect Size|效应量]]级、[[Heterogeneity|异质性]]来源及干预规律进行系统评估时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]] 此外，在公共治理与教育决策中，常设中介实体采用快速证据综合，可在紧迫政策窗口期内为高层决策提供定制化实证简报。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 35)]]
 > - **谨慎使用** 原始研究在概念[[Operationalization|操作化]]、测量工具和理论[[Paradigm|范式]]上存在高度异质性时；若强行合并计算总体平均数，会掩盖学科、学段和文化情境的决定性差异。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 96–97)]]
 > - **不适合使用** 处于探索初期的新兴研究领域（原始研究数量极少或缺乏方法学规范）；企图绕过对[[Primary and Secondary Documents|初级文献]]设计缺陷的严格把关，将低质量调查与严谨实验机械混合以追求庞大数据量的粗放操作。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 94–96)]]
 
@@ -145,4 +146,5 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引国际循证[[Policy Network|政策网络]]（EVIPNet）对研究综合的规范定义，严肃审查[[John Hattie|哈蒂]]未审查原始研究质量所带来的理论与政策风险。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] — 将研究综合界定为整合多篇实证成果以为政策和实践提供高质量证据基础的方法家族。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 阐述乌干达快速证据综合中心（ACRES）在数周内为内阁产出高质量实证简报并结合政策对话的常设治理机制。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 在梳理跨国阅读与数学教育干预中阐明研究综合的证据评级与最高方法学筛选标准。

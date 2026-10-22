@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 155
+method_related_count: 156
 method_related_level: 15
 method_related_stars: "💎💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -178,12 +178,13 @@ related_arguments:
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 > [!def] Randomised Controlled Trials
@@ -235,7 +236,7 @@ updated: 2026-10-22
 >
 >   *因果识别技术在全球治理与地方采购中面临建制化异化与供给赤字。*
 >
->   - 2024 — Steiner-Khamsi et al. 剖析[[World Bank|世界银行]]将 RCT 确立为自身[[Policy Brokerage|政策中介]]与循证放贷的专属技术利基，微观技术隔离系统性“[[Screening Off|屏蔽]]”了宏观财政与结构性责任（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, pp. 544–548]]）。
+>   - 2024 — Steiner-Khamsi et al. 剖析[[World Bank|世界银行]]将 RCT 确立为自身[[Policy Brokerage|政策中介]]与循证放贷的专属技术利基，微观技术隔离系统性“[[Screening Off|屏蔽]]”了宏观财政与结构性责任（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b, pp. 544–548]]）。
 >   - 2024 — Ginsberg et al. 实证审计 15 个学区 138 项受资助干预，揭示 [[Every Student Succeeds Act|ESSA]] Tier I 法定单项合格门槛导致合规假象（全量研究支持率由 >95% 腰斩至 49%–58%）、学段供给断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, pp. 11–13]]）。
 >   - 2024–2026 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）与白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）将 RCT 及部分随机化/抽签试验（Lottery Allocation）引入科研资助机制与同行评议一致性检验，标志着 RCT 从单一政策干预评估拓展为对科学资助体制本身的科学学实证评估工具（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 31–32]]）。
 
@@ -335,7 +336,7 @@ updated: 2026-10-22
 > [!method-fit] 适用判断
 > - **适合使用** 评估界定清晰、可标准化交付的教学干预、课程包、技术辅助工具或结构化辅导的因果效能；当[[Research Ethics\|研究伦理]]允许[[Random Assignment\|随机分配]]、[[Sample Size Determination\|样本量]]足以保证统计功效（MDES）、且能在班级或学校层面控制干预污染时（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54–56]]; [[Argument_Kraft_2023_ER\|Kraft, 2023, p. 185]]）。
 > - **谨慎使用** 复杂组织变革或系统性政策评估（如学区重组、教师编制改革、高中排课作息调整），极易遭遇学校拒斥导致招募流产或高流失率；存在强同伴互动与溢出效应的微观课堂（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）；从高度受控的小规模[[Efficacy Trial\|效力试验]]向[[Business as Usual\|常态教学]]推广的大规模[[Effectiveness Trial\|实效试验]]阶段（需防范[[Effect Size\|效应量]]断崖式衰减与[[Implementation Fidelity\|实施保真度]]稀释）（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p. 195]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 11–13]]）。
-> - **不适合使用** 探索性理论建构、深层意义诠释与质性文化生态研究；涉及剥夺基础受教育权益或已知救济措施的伦理禁区；宏观历史变迁、制度演化与政治经济结构性制约分析（如财政紧缩、种族隔离制度演变），将此类系统性问题强行降维为微观隔离[[Variable\|变量]]的 RCT 会造成严重的[[Epistemology\|认识论]][[Screening Off\|屏蔽]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 548]]）。
+> - **不适合使用** 探索性理论建构、深层意义诠释与质性文化生态研究；涉及剥夺基础受教育权益或已知救济措施的伦理禁区；宏观历史变迁、制度演化与政治经济结构性制约分析（如财政紧缩、种族隔离制度演变），将此类系统性问题强行降维为微观隔离[[Variable\|变量]]的 RCT 会造成严重的[[Epistemology\|认识论]][[Screening Off\|屏蔽]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b, p. 548]]）。
 
 ---
 
@@ -358,7 +359,7 @@ updated: 2026-10-22
 > [!summary] 方法学与[[Epistemology\|认识论]]批判的三大核心维度
 > 1. **复杂性理论与[[Ontology\|本体论]]解构** 教育系统作为具有非线性、自组织与不可还原动态特征的复杂适应系统，彻底挑战了受控实验将变量原子化隔离的“其他条件不变”（*ceteris paribus*）假定与萨拉·库恩（Sarah Kuhn）五大复杂性公理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011]]）。
 > 2. **真实教育情境中的操作与效度困境** 双盲缺失、常态教学对照组“不作为”幻觉、集群随机化对 SUTVA 假设的违背、家长转组与未测量教师质量的颠覆性混淆，以及从效力试验向实效试验的效应量断崖式衰减（[[Argument_Berk_2011_EvalRev\|Berk, 2011]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
-> 3. **证据治理与政策应用层面的认识论异化** 法定单项合格研究背书的“合规假象”、12 家清算中心 35.4% 的评级冲突悖论、微观技术隔离对宏观政治经济结构的“屏蔽”效应、十年科学发现周期与政策时间系统的时效脱节，以及依策造据（[[Policy-Based Evidence-Making\|PBEM]]）等治理失灵（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]; [[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]）。
+> 3. **证据治理与政策应用层面的认识论异化** 法定单项合格研究背书的“合规假象”、12 家清算中心 35.4% 的评级冲突悖论、微观技术隔离对宏观政治经济结构的“屏蔽”效应、十年科学发现周期与政策时间系统的时效脱节，以及依策造据（[[Policy-Based Evidence-Making\|PBEM]]）等治理失灵（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]; [[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]）。
 
 > [!debates] 真实课堂复合干预 vs 纯净实验室 RCT 的效度论战
 > [[Cognitive Load Theory\|认知负荷理论]]学派（如 Zhang et al., 2022）指责支持探究教学的实证证据多为涵盖师训、技术工具等多重组件的宏观“项目式研究”（Program-based Studies），缺乏高度真空化的单变量实验室 RCT，并质疑常态教学（[[Business as Usual\|BAU]]）对照组的设计公平性。针对这一方法学争论，学习科学学者（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–6]]）展开了系统方法学辩护：
@@ -405,7 +406,8 @@ updated: 2026-10-22
 > - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 针对 15 个学区 138 项干预进行实证审计，揭示法定单项 RCT 合格门槛诱发学区采购的合规假象、科研供给侧学段断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, pp. 11–13]]）。
 > - [[Tennessee STAR Project 1985-1989]] — 师生双重随机分配 RCT 标杆（$N = 6,750$），证实 K–3 小班化具有显著因果收益，同时反映出家长施压转组对随机化完整性的现实挑战。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理、[[Unit of Analysis|分析单位]]转向以及概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]等[[Causality|因果推断]]全景。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 反思早期循证医学过度尊崇单一 RCT 阶梯的弊端，指出微观受控试验难以直接回答复杂公立系统的中观规模化推广难题（pp. 17–18, 33–34）。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 复盘英国 EEF 资助超 200 项教育 RCT 的制度演进，剖析[[Preregistration|预注册]]统计计划、[[Implementation and Process Evaluation|过程评估]]整合与敏捷设计创新。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策[[Discourse|话语]]建构，剖析从研究设计到政策转化中[[Epistemological Coherence|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 结合课堂严格 RCT 证实探究教学的概念优势，并为复杂教育情境中涵盖多元组件的项目式 RCT [[Ecological Validity|生态效度]]提供方法学辩护。

@@ -570,7 +570,7 @@
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -652,11 +652,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T16:30:50.445987+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -730,7 +731,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T16:38:11.451178+00:00"
     },
     {
       "number": 10,

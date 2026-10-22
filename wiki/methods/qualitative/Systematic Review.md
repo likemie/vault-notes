@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
@@ -76,6 +76,7 @@ related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[Education Resources Information Center]]"
@@ -90,7 +91,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -209,6 +210,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 检索 Web of Science 数据库中关于教育（1,825 篇）与公共卫生（1,660 篇）政策证据利用的系统综述文献，以此作为跨部门文献计量比对与共被引网络测绘的底层分析样本（pp. 29–32, 64–65）。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统综述的方法论权威教材，详述研究问题制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 调查全球 15 个代表性证据门户对系统综述标准的采纳率（Table 7.1），解构聚合型与配置型系统综述在国家有效性网络与证据生态中的认识论定位与标准塌陷风险。
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]] — 在 OECD 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域文献开展跨行业系统综述与叙事综合，奠定 QURE 框架的理论基础。
