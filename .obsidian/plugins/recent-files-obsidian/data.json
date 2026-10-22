@@ -9,12 +9,16 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
     },
     {
-      "basename": "Luban Workshop",
-      "path": "wiki/facts/china/Luban Workshop.md"
-    },
-    {
       "basename": "Soft Power",
       "path": "wiki/concepts/political-economy-geopolitics/Soft Power.md"
+    },
+    {
+      "basename": "Meta-meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
+    },
+    {
+      "basename": "Luban Workshop",
+      "path": "wiki/facts/china/Luban Workshop.md"
     },
     {
       "basename": "Critique of Meta-analysis",
@@ -23,10 +27,6 @@
     {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "Meta-meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
     },
     {
       "basename": "Argument_Wadhwa_2024_RER",

@@ -29,9 +29,9 @@ citation_aliases:
   - "Custer et al., 2021"
   - "Custer et al. (2021)"
 isbn: ""
-issuing_organization: "AidData at William & Mary"
-publication_place: "Williamsburg, VA"
-publisher: "AidData at William & Mary"
+issuing_organization: AidData at William & Mary
+publication_place: Williamsburg, VA
+publisher: AidData at William & Mary
 tags:
   - theme/public-diplomacy
   - theme/educational-diplomacy

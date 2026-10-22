@@ -3,7 +3,7 @@
   "root": "/Users/shaoyangwu/Documents/MyNotes",
   "created": "2026-10-21T19:51:58.581171+00:00",
   "argument": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md",
-  "argument_hash": "f9d04532a3b4fb63dbec0f6823892a7d99abb732f8e29fc31fe43b0f324d9af1",
+  "argument_hash": "065143b35de5f2d79f0211c1f0f71379c6efe32b6ec2f4aaf506135765eca6ae",
   "batches": [
     {
       "number": 1,
@@ -215,7 +215,7 @@
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -250,11 +250,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T03:03:55.842284+00:00"
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -286,7 +287,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T03:08:20.349076+00:00"
     },
     {
       "number": 6,
