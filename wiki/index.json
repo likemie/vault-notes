@@ -467,6 +467,15 @@
     ]
   },
   {
+    "title": "Alumnus Effect",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Alumnus Effect.md",
+    "aliases": [
+      "校友效应",
+      "留学生校友效应"
+    ]
+  },
+  {
     "title": "Assemblage",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Assemblage.md",
@@ -12557,6 +12566,18 @@
       "组织文化转型",
       "组织文化重塑",
       "组织文化重构"
+    ]
+  },
+  {
+    "title": "Para-Diplomatic Roles",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Para-Diplomatic Roles.md",
+    "aliases": [
+      "准外交角色",
+      "次外交角色",
+      "留学生准外交职能",
+      "Para-diplomacy",
+      "准外交纽带"
     ]
   },
   {
@@ -31707,6 +31728,16 @@
     "aliases": [
       "丝绸之路大学联盟",
       "UASR"
+    ]
+  },
+  {
+    "title": "Xiamen University Malaysia",
+    "type": "fact",
+    "path": "wiki/facts/china/Xiamen University Malaysia.md",
+    "aliases": [
+      "厦门大学马来西亚分校",
+      "厦大马校",
+      "XMUM"
     ]
   },
   {

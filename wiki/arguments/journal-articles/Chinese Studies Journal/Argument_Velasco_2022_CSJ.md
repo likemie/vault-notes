@@ -38,6 +38,8 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Alumnus Effect]]"
+  - "[[Para-Diplomatic Roles]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Documentary Analysis]]"
@@ -50,6 +52,9 @@ related_facts:
   - "[[ASEAN]]"
   - "[[Thousand Talents Program]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Xiamen University Malaysia]]"
+  - "[[Project 211]]"
+  - "[[Project 985]]"
 confidence: high
 status: draft
 created: 2026-10-22
@@ -60,9 +65,9 @@ title: "Argument_Velasco_2022_CSJ"
 argument_key: "Argument_Velasco_2022_CSJ"
 argument_display_title: "China’s soft power strategy: Education as an apparatus of influence in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 27
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Chinese Studies Journal"
 book_title: ""
@@ -102,14 +107,14 @@ sources:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **政策与法规文献梳理**<br>[[Documentary Analysis]] | 梳理 1990 年代以来中国高等教育改革纲要、211 工程、985 工程、千人计划以及[[Double First-Class Initiative\|世界一流大学和一流学科建设]]（Double First-Class Initiative，简称双一流建设）等核心政策文本，解析高等教育服务国家外交战略的制度安排。 |
+> | **政策与法规文献梳理**<br>[[Documentary Analysis]] | 梳理 1990 年代以来中国高等教育改革纲要、[[Project 211\|211 工程]]、[[Project 985\|985 工程]]、千人计划以及[[Double First-Class Initiative\|世界一流大学和一流学科建设]]（Double First-Class Initiative，简称双一流建设）等核心政策文本，解析高等教育服务国家外交战略的制度安排。 |
 > | **跨国公开统计数据综合比对** | 汇总国家统计局科研数据、教育部高等教育财政支出与来华留学生统计，结合英国波特兰战略沟通咨询公司（Portland）与美国南加州大学联合发布的全球[[Soft Power\|软实力]] 30 强指数（The Soft Power 30, SP30）开展纵向趋势与横向比较分析。 |
 > | **案例与区域机制归纳** | 聚焦[[ASEAN\|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN，简称东盟）区域，选取厦门大学马来西亚分校、老挝苏州大学、泰国曼谷商学院以及 31 所[[Confucius Institute\|孔子学院]]等实践载体，归纳[[Educational Diplomacy\|教育外交]]的三大支柱与作用机制。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **政策样本** | 1993 年《中国教育改革和发展纲要》、1995 年《中华人民共和国教育法》、211 工程实施文件、985 工程实施方案、[[Thousand Talents Program\|千人计划]]引才政策、2015 年国务院双一流建设方案。 |
+> | **政策样本** | 1993 年《中国教育改革和发展纲要》、1995 年《中华人民共和国教育法》、[[Project 211\|211 工程]]实施文件、[[Project 985\|985 工程]]实施方案、[[Thousand Talents Program\|千人计划]]引才政策、2015 年国务院双一流建设方案。 |
 > | **统计样本** | 2010 至 2020 年中国科研产出发表年际总量、2016 至 2020 年高等教育公共支出公报、2014 至 2018 年在华留学生与东盟留学生规模统计、2019 年 SP30 指数分项指标。 |
 > | **区域案例情境** | 涵盖东盟 10 国的高等教育交流网络，重点剖析马来西亚、老挝、泰国与柬埔寨等国的海外校区合作与孔子学院实体办学实践。 |
 
@@ -212,7 +217,7 @@ sources:
 
 > [!dev-timeline] 中国高等教育跨越式发展的政策谱系
 > - **1993年 — 市场化适应与法制奠基** 《中国教育改革和发展纲要》提出建立适应社会主义市场经济的高教体制；1995 年《教育法》为开展中外合作办学确立了法定依据。（Fan, 2020; Huang, 2010, p. 80）
-> - **1995–1998年 — 实施 211 工程与 985 工程** 先后遴选重点高校开展集中建设，明确提出打造一批具有世界先进水平的一流大学和重点学科。（Fang, 2012; Jiang et al., 2020, p. 80）
+> - **1995–1998年 — 实施 211 工程与 985 工程** 先后实施[[Project 211|211 工程]]与[[Project 985|985 工程]]，遴选重点高校开展集中建设，明确打造一批具有世界先进水平的一流大学和重点学科。（Fang, 2012; Jiang et al., 2020, p. 80）
 > - **2008年 — 海外顶尖学者引才工程** 设立[[Thousand Talents Program|千人计划]]，开出优厚待遇延揽超过 7600 名海外优秀科学家与学者全职或短期回国工作，大幅充实了前沿科研力量。（Jia, 2018a, 2018b; Lo & Pan, 2020, p. 80）
 > - **2015年至今 — 统筹推进双一流建设** 确定 42 所高校建设世界一流大学，力争在 2050 年前后跻身全球排名前列，全面强化自然科学和工程技术领域的自主攻坚。（Lo & Pan, 2020, p. 80）
 
@@ -266,7 +271,7 @@ sources:
 
 > [!feature] 东南亚[[Educational Diplomacy|教育外交]]三大支柱构成与运作特征
 > - **支柱一：国际学生定向招募与奖学金配置** 东南亚在华留学生由 2016 年约 7 万人增长至 2018 年约 8 万人；中国大学世界排名的提升与充裕的国家奖学金供给，成为拉动[[ASEAN|东盟]]学生赴华深造的核心动力。（Ahmad & Shah, 2018; ICEF, 2016; Lau, 2021, p. 83）
-> - **支柱二：高水平大学[[International Branch Campus|境外办学]]实体与联合机构** 积极在东盟成员国布局独立校区与联合机构，包括 2013 年在马来西亚设立的厦门大学马来西亚分校（被两国誉为中马友谊之桥）、老挝苏州大学，以及云南财经大学同泰方合作设立的泰国曼谷商学院，实现办学实体的在地化延伸。（Cheng & Koh, 2022; Jie, 2018; Ngeow, 2022, pp. 84–85）
+> - **支柱二：高水平大学[[International Branch Campus|境外办学]]实体与联合机构** 积极在东盟成员国布局独立校区与联合机构，包括 2013 年在马来西亚设立的[[Xiamen University Malaysia|厦门大学马来西亚分校]]（被两国誉为中马友谊之桥）、老挝苏州大学，以及云南财经大学同泰方合作设立的泰国曼谷商学院，实现办学实体的在地化延伸。（Cheng & Koh, 2022; Jie, 2018; Ngeow, 2022, pp. 84–85）
 > - **支柱三：深入大学建制的孔子学院合作网络** 截至 2021 年在东南亚设立运营 31 所孔子学院（[[Confucius]] Institute, CI）；与歌德学院或英国文化协会独立设立文化中心不同，孔院高度嵌入当地承办大学建制，融合语言授课、文化活动、学术研讨与高层互访等多元软实力手段。（Burnay & Pils, 2022; Mohamedbhai, 2013; Pan, 2013; Tan, 2022, p. 85）
 
 为深入把握实体境外办学与合作办学的实践深度，有必要对东南亚各主要合作案例的具体形态进行横向比对（pp. 84–85）。
@@ -274,7 +279,7 @@ sources:
 > [!row-contrast] 东南亚跨境高教办学典型案例比较
 > | 合作办学实体 | 中方主办高校与外方承办载体 | 启动时间与驻在国区位 | 办学模式与制度特征 | 战略功能定位与在地表现 |
 > |:---|:---|:---|:---|:---|
-> | **厦门大学马来西亚分校** | 厦门大学自主全资出资设立 | 2013 年立项 / 马来西亚雪兰莪州 | 中国公立高水平大学首个全功能海外分校，拥有独立实体校园（Jie, 2018） | 被两国官方定位为中马友谊之桥，提供全英文全日制学位（Cheng & Koh, 2022） |
+> | **[[Xiamen University Malaysia\|厦门大学马来西亚分校]]** | 厦门大学自主全资出资设立 | 2013 年立项 / 马来西亚雪兰莪州 | 中国公立高水平大学首个全功能海外分校，拥有独立实体校园（Jie, 2018） | 被两国官方定位为中马友谊之桥，提供全英文全日制学位（Cheng & Koh, 2022） |
 > | **老挝苏州大学** | 苏州大学与老挝教育主管部门合作 | 2011 年创设 / 老挝万象 | 中国政府批准设立的第一所在境外设立的公立全日制综合大学（Ngeow, 2022） | 紧密配合中老铁路与经贸走廊建设，定向培养双语管理与工程技术急需人才 |
 > | **泰国曼谷商学院** | 云南财经大学与泰国兰实大学联合共建 | 2014 年签约 / 泰国曼谷 | 依托联合学位与项目合作形式落地，注重商科与跨国金融实务技能（Ngeow, 2022） | 服务次区域澜湄合作与区域经贸互联，促进中泰民间商业精英互信 |
 > | **东南亚孔子学院网络** | 中国国际中文教育基金会与东盟各地高校联办 | 2004 年起铺开 / 东盟十国共 31 所 | 深度嵌合进所在国高校组织建制，中外双院长制与师资在地联合管理（Mohamedbhai, 2013） | 融汇汉语教学、文化体验、高端学术论坛与地方官员涉华研修，覆盖面最广（Pan, 2013） |
@@ -282,11 +287,11 @@ sources:
 规模庞大的留学生跨国往来，通过由近及远、由浅入深的两重时间机制发挥作用（pp. 83–84）。
 
 > [!phase] 留学生流动的双重时间传导机制
-> - **短期微观层面：校友效应（Alumnus Effect）**
+> - **短期微观层面：[[Alumnus Effect|校友效应（Alumnus Effect）]]**
 >
 >   留学生在华期间亲历城市建设，与中国师生建立日常友谊，毕业回国后普遍保留温馨的情感记忆；这种亲历者的好感在母国民间舆论中形成良性口碑，稀释了外部媒体的负面刻板印象。（Mulvey, 2019, 2020; Tian & Lowe, 2018; Yousaf et al., 2020, p. 84）
 >
-> - **长期宏观层面：准外交角色（Para-diplomatic Roles）**
+> - **长期宏观层面：[[Para-Diplomatic Roles|准外交角色（Para-diplomatic Roles）]]**
 >
 >   随着东盟毕业生进入本国政府部门、大学、企业与研究机构，这批兼具中文能力和专业素养的人才成为跨国沟通的桥梁；他们在公共决策与经贸合作中发挥准外交纽带功能，以贴近本土的方式传播中国发展经验。（Mulvey & Lo, 2021; Yang, 2007, p. 84）
 
