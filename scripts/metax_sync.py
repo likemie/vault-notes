@@ -817,10 +817,10 @@ def cmd_audit(args) -> int:
 
 
 def bar(value: float) -> str:
-    """Inline bar for a mean effect size; width bucket in 0.05 steps (CSS: .mx-bar.b0-b28)."""
+    """Inline bar for a mean effect size; width bucket in 0.05 steps (fixed track .mx-bar, fill .b0-b28, so numbers line up)."""
     if value < 0:
-        return f'<span class="mx-bar neg b{min(28, round(-value * 20))}"></span>'
-    return f'<span class="mx-bar b{min(28, round(value * 20))}"></span>'
+        return f'<span class="mx-bar neg"><span class="b{min(28, round(-value * 20))}"></span></span>'
+    return f'<span class="mx-bar"><span class="b{min(28, round(value * 20))}"></span></span>'
 
 
 def cmd_domains(args) -> int:

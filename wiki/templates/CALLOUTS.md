@@ -50,6 +50,8 @@ updated: 2026-10-21
 
 `[!metax]` 总览、`[!metax-ma]` 元分析明细、`[!metax-errata]` 勘误，均由 `scripts/metax_sync.py` 生成。眉标（VISIBLE LEARNING METAX / META-ANALYSES · 元分析 / ERRATA · 勘误）和表头中文全部由 CSS `content` 生成，Markdown 表头只写代号，因此“变量、元分析、效应量”等词不进入正文。三者整块受 `wiki_linker.py` 保护，不参与补链。CSS 位置：`argument-callouts.css` 末尾 `12 · Visible Learning MetaX` 段。
 
+`[!metax-domain]` 领域汇总总表与 `[!metax-subdomain]-` 各领域子领域表（Visible Learning Meta-X 条目使用），由 `metax_sync.py domains` 生成：表头代号 `dom n ma dm dw med sd rng neg` / `sub n dm dw rng neg` 由 CSS 显示为中文；等权平均 d 前的 `<span class="mx-bar bN">` 条形按 0.05 分档（b0–b28），负值为琥珀色。CSS 位置：`13 · MetaX 领域汇总` 段。
+
 ## 视觉系统 v3 · Prismatic study
 
 在原有丰富组件的基础上，按语义分别设计材质与层次；保留徽章、水印、渐变、计数器、时间轴和悬停反馈。
