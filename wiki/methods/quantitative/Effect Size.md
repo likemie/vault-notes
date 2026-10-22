@@ -264,20 +264,20 @@ updated: 2026-10-22
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 学段 | 小学 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | — | — |
-> |  |  | 高中 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | — |
-> |  | 学科 | 数学 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.32"><span class="b6"></span></span>0.32 | — | — |
-> |  |  | 科学 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.27"><span class="b5"></span></span>0.27 | — | — |
-> |  | 学生能力 | 高能力 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.37"><span class="b7"></span></span>0.37 | — | — |
-> |  |  | 低能力 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.21"><span class="b4"></span></span>0.21 | — | — |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 影响因素领域 | 教师 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | — |
-> |  |  | 课程 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
-> |  |  | 教学法 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.42"><span class="b8"></span></span>0.42 | — | — |
-> |  |  | 学生 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | — |
-> |  |  | 家庭 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
-> |  |  | 学校 | — | <span class="mx-bar ef-bar" title="Cohen's d 0.23"><span class="b5"></span></span>0.23 | — | — |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 学段 | 小学 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | — | — |
+> |  |  | 高中 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | — |
+> |  | 学科 | 数学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.32"><span class="b6"></span></span>0.32 | — | — |
+> |  |  | 科学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.27"><span class="b5"></span></span>0.27 | — | — |
+> |  | 学生能力 | 高能力 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.37"><span class="b7"></span></span>0.37 | — | — |
+> |  |  | 低能力 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.21"><span class="b4"></span></span>0.21 | — | — |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 影响因素领域 | 教师 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | — |
+> |  |  | 课程 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
+> |  |  | 教学法 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.42"><span class="b8"></span></span>0.42 | — | — |
+> |  |  | 学生 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | — |
+> |  |  | 家庭 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
+> |  |  | 学校 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.23"><span class="b5"></span></span>0.23 | — | — |
 
 > [!entry-map] 相关理论与方法
 >

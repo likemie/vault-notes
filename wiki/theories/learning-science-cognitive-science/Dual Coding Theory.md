@@ -103,10 +103,18 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]理论验证数据
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 检验假设 | 汇总效应与 95% [[Confidence Interval\|CI]] | 理论验证结论 |
-> |---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 图形组织器对高阶思维的总体促进效应（$k = 72, N = 4{,}824$） | $g = 0.778$, $[0.642, 0.915]$ | 实证支持双重编码与空间隐喻理论的负荷卸载假设 |
-> | ^ | [[Divergent Thinking\|发散思维]] vs [[Convergent Thinking\|聚合思维]]干预敏感度比较 | $g = 1.167$ vs $0.680$ ($Q_b = 7.07, p < .01$) | 实证支持空间分支双重编码对生成性发散联想的更强赋能 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 检验假设 | 理论验证结论 |
+> | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.778"><span class="b16"></span></span>0.778 | [0.642, 0.915] | Hedges' $g$ | 图形组织器对高阶思维的总体促进效应（$k = 72, N = 4{,}824$） | 实证支持双重编码与空间隐喻理论的负荷卸载假设 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 见亚组表 | — | Hedges' $g$ | [[Divergent Thinking\|发散思维]] vs [[Convergent Thinking\|聚合思维]]干预敏感度比较 | 实证支持空间分支双重编码对生成性发散联想的更强赋能 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 思维类型 | 发散思维 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | — | $Q_b = 7.07, p < .01$ |
+> |  |  | 聚合思维 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | — | — |
 
 ---
 

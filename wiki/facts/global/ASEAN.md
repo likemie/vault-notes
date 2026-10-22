@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -52,6 +52,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
 status: active
 created: 2026-10-20
@@ -96,6 +97,7 @@ updated: 2026-10-22
 >   - **2013–2021** 中国高水平大学在东盟多点布局实体办学（如厦门大学马来西亚分校、老挝苏州大学）与 31 所孔子学院合作网络，推动高教双向深度对接。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 >   - **2015** 正式宣布建成以政治安全、经济、社会文化为支柱的“东盟共同体”。
 >   - **2018** 在华留学的东盟学生规模攀升至 98,823 人，占中国国际学生总数的 20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
+>   - **2022–2024** 成立中国—东盟职业教育联合会（汇聚中外 175 家院校机构与企业），推进“双百计划”，并在广西部区协同机制下立项建设约 10 个中国—东盟技术创新学院与现代工匠学院集群，构建全周期跨国产教协同载体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294, 299)]]
 
 ---
 
@@ -185,3 +187,10 @@ updated: 2026-10-22
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证分析东盟第一大贸易伙伴背景下中国在东盟（柬埔寨）的高等教育地缘拓展。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统剖析面向东盟的教育外交三大支柱及地缘领土争端下的权力转化困境。 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 剖析中国—东盟职业教育高水平开放合作的价值立意、逻辑要点与产教生态圈实践进路。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证分析中国作为东盟第一大贸易伙伴背景下在东盟（柬埔寨）的高等教育地缘拓展与制度博弈。
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 系统剖析面向东盟的教育外交三大支柱及领土争端约束下的软实力权力转化困境。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国—东盟全面战略伙伴关系与经贸走廊建设，系统论述职业教育高水平对外开放的政策链条、多边组织平台与现代工匠学院产教协同机制（pp. 286–301）。

@@ -326,9 +326,21 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]总体结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶[[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | 有效教学六大领域总体综合（教师、课程、教学法、学生、家庭、学校） | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | Cohen's $d$ / 二阶算术平均与分域汇编 | 总体均值 $d = 0.40$（教师 $0.49$、课程 $0.45$、教学法 $0.42$、学生 $0.40$、家庭 $0.31$、学校 $0.23$） | 未设立质控准入门槛（严格实验与松散调查混杂）；文献时效严重滞后（集中于 1980–1990 年代） | 证实多级聚合造成原始经验情境参数系统性损耗（货币汇兑折损）；且教师方差解释力仅 8%–21%，与全能教师[[Discourse\|话语]]脱节 |
+> | 二阶[[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | Cohen's $d$ / 二阶算术平均与分域汇编 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | 有效教学六大领域总体综合（教师、课程、教学法、学生、家庭、学校） | 未设立质控准入门槛（严格实验与松散调查混杂）；文献时效严重滞后（集中于 1980–1990 年代） | 证实多级聚合造成原始经验情境参数系统性损耗（货币汇兑折损）；且教师方差解释力仅 8%–21%，与全能教师[[Discourse\|话语]]脱节 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]（审计 Hattie, 2009） | 影响因素领域 | 教师 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | — |
+> |  |  | 课程 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
+> |  |  | 教学法 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.42"><span class="b8"></span></span>0.42 | — | — |
+> |  |  | 学生 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | — |
+> |  |  | 家庭 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
+> |  |  | 学校 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.23"><span class="b5"></span></span>0.23 | — | — |
 
 > [!ma-table]- 二阶元分析教学角色亚组结果
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

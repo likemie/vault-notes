@@ -198,9 +198,18 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果：微观个体素养塑造（Kazancı Tınmaz & Sezgin, 2023）
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 开展科研与期刊追踪（2×2 设计） | 教师[[Research Literacy\|研究素养]]（技能与使用） | $N=258$（期刊追踪组 $n=73$，开展科研组 $n=82$） | 追踪期刊组使用均值 $4.03 \pm 0.57$ vs 未追踪 $3.69 \pm 0.64$；开展科研组技能均值 $4.04 \pm 0.59$ vs 未开展 $3.60 \pm 0.69$ | 做研究对技能偏 $\eta^2 = .056$；读期刊对使用偏 $\eta^2 = .046$；交互作用 $\eta^2 \le .005$ | 主效应显著（$p \le .005$），交互作用均不显著（$p > .27$） | 横断面 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（MANOVA），实证证实做研究与读期刊具有独立且差异化的塑造机制 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | $\eta^2$ | 见亚组表 | 主效应显著（$p \le .005$），交互作用均不显著（$p > .27$） | 开展科研与期刊追踪（2×2 设计） | 教师[[Research Literacy\|研究素养]]（技能与使用） | $N=258$（期刊追踪组 $n=73$，开展科研组 $n=82$） | 追踪期刊组使用均值 $4.03 \pm 0.57$ vs 未追踪 $3.69 \pm 0.64$；开展科研组技能均值 $4.04 \pm 0.59$ vs 未开展 $3.60 \pm 0.69$ | 横断面 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（MANOVA），实证证实做研究与读期刊具有独立且差异化的塑造机制 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 效应项 | 做研究 → 研究技能偏好 | $\eta^2$ | — | <span class="mx-bar ef-bar conv" title="η² .056 → d ≈ 0.49（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>.056 | — | — |
+> |  |  | 读期刊 → 研究使用偏好 | $\eta^2$ | — | <span class="mx-bar ef-bar conv" title="η² .046 → d ≈ 0.44（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b9"></span></span>.046 | — | — |
+> |  |  | 交互作用 | $\eta^2$ | — | <span class="mx-bar ef-bar conv bound" title="η² ≤ .005 → d ≈ 0.14（d = 2√(v / (1 − v))；两组单因素近似）；下界/上界值"><span class="b3"></span></span>≤ .005 | — | — |
 
 > [!survey-table]- [[OECD\|经合组织]]跨国政策调查关键实证数据：宏观生态与制度激励断层（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]）
 > | 实证测量维度 | 核心量化指标 | 关键数据特征与极值（$N = 37$ 个系统） | 机制诊断与制度启示 |

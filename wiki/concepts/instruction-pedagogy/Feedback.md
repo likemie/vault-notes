@@ -218,9 +218,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; Hattie (2009, 2021) | 干预因素：宏观教学综合中作为顶级影响因素的教学反馈（Feedback）对学业成就的效应 | $M = 23$（五大核心元分析占 $N$ 的 92.4%）；$E = 1,280$；$k = —$；$N = 195,649$ | 标准化均值差 $d$；未加权二阶元综合 | $d = 0.73$（早期版本 $0.79$） | — | 经 [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] 逐篇核查，支撑该效应 92.4% 样本量的 4 项一阶元分析严重偏离反馈构念（混入代币糖果强化、教师人际亲和力与动态测验提示），唯一契合的 Kluger & DeNisi 报告 38% 负效应且均值仅 $0.38$；粗放二阶合成掩盖了构念错位与真实异质性 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; Hattie (2009, 2021) | <span class="mx-bar ef-bar" title="SMD 0.73"><span class="b15"></span></span>0.73 | — | 标准化均值差 $d$；未加权二阶元综合 | $M = 23$（五大核心元分析占 $N$ 的 92.4%）；$E = 1,280$；$k = —$；$N = 195,649$ | 干预因素：宏观教学综合中作为顶级影响因素的教学反馈（Feedback）对学业成就的效应 | — | 经 [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] 逐篇核查，支撑该效应 92.4% 样本量的 4 项一阶元分析严重偏离反馈构念（混入代币糖果强化、教师人际亲和力与动态测验提示），唯一契合的 Kluger & DeNisi 报告 38% 负效应且均值仅 $0.38$；粗放二阶合成掩盖了构念错位与真实异质性；注：早期版本为 $0.79$ |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

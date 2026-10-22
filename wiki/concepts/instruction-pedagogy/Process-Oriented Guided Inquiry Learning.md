@@ -234,10 +234,10 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Walker and Warfa (2017)（课程通过优势比分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | 干预因素：POGIL 教学法对比传统常规讲授大班 | 涵盖多项对照实验 | 优势比（Odds Ratio, OR） | $\text{OR} > 1.0$（统计显著提升） | 挂科与退课率（DFW）显著压低（$p < .01$） | 标杆元分析；证实 POGIL 显著提升学生通过关键科学课程的概率，有效保障学业底线 |
-> | Walker and Warfa (2017b)（标准化考试成绩分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 3–4]]） | 干预因素：POGIL 对比传统[[Direct Instruction\|直接讲授]]的期末考试成绩 | 涵盖多所大学与高中理科 | 标准化平均差（SMD） | $g \approx 0.15 \sim 0.20$（微弱至中等正效应） | 异质性中等 | 证实期末分数提升相对温和，其核心制度性收益在于保底及格率与概念深度 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Walker and Warfa (2017)（课程通过优势比分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | <span class="mx-bar ef-bar conv bound" title="OR &gt; 1.0 → d ≈ 0.00（d = ln(OR) · √3 / π；Logistic 潜变量假设）；下界/上界值"><span class="b0"></span></span>> 1.0 | — | 优势比（Odds Ratio, OR） | 涵盖多项对照实验 | 干预因素：POGIL 教学法对比传统常规讲授大班 | 挂科与退课率（DFW）显著压低（$p < .01$） | 标杆元分析；证实 POGIL 显著提升学生通过关键科学课程的概率，有效保障学业底线 |
+> | Walker and Warfa (2017b)（标准化考试成绩分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 3–4]]） | <span class="mx-bar ef-bar range" title="SMD 0.15–0.20；取区间中点"><span class="b4"></span></span>0.15–0.20 | — | 标准化平均差（SMD） | 涵盖多所大学与高中理科 | 干预因素：POGIL 对比传统[[Direct Instruction\|直接讲授]]的期末考试成绩 | 异质性中等 | 证实期末分数提升相对温和，其核心制度性收益在于保底及格率与概念深度 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

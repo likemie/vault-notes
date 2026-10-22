@@ -55,11 +55,11 @@ METRICS: List[Tuple[str, str, str]] = [
     (r"\\delta|δ|Δ", "d", "δ / Δ"),
     (r"hedges|\bg\s*\+|\bg\b|g_", "d", "Hedges' g"),
     (r"cohen|\bd\b|d_", "d", "Cohen's d"),
-    (r"\bsmd\b|标准化均差|标准化均值差", "d", "SMD"),
+    (r"\bsmd\b|标准化均差|标准化均值差|标准化平均差|标准化均数差", "d", "SMD"),
     (r"\bes\b|效应量差|es 差", "d", "ES"),
     (r"fisher|\bz_?r\b", "z", "Fisher z"),
-    (r"\bor\b|比值比|odds", "or", "OR"),
-    (r"partial|偏\s*\\?eta|偏 η", "var", "partial η²"),
+    (r"\bor\b|比值比|优势比|odds", "or", "OR"),
+    (r"partial|偏\s*\$?\\?eta|偏 η", "var", "partial η²"),
     (r"\\eta|η", "var", "η²"),
     (r"\\omega|ω", "var", "ω²"),
     (r"\br\^2\b|\bR\^2\b|R²|决定系数", "var", "R²"),
@@ -78,9 +78,13 @@ def metric_family(cell: str) -> Tuple[Optional[str], str]:
     c = clean(cell)
     c = re.sub(r"[（(][^）)]*[）)]", lambda m: m.group(0) if re.search(r"\b[dgr]\b|η|ω|β", m.group(0)) else "", c)
     c = re.sub(r"\[\[[^\]|]*\|([^\]]*)\]\]", r"\1", c)
-    for pat, fam, name in METRICS:
-        if re.search(pat, c, re.I if fam not in ("var",) else 0):
-            return fam, name
+    best = None
+    for k, (pat, fam, name) in enumerate(METRICS):
+        m = re.search(pat, c, re.I if fam not in ("var",) else 0)
+        if m and (best is None or (m.start(), k) < best[0]):
+            best = ((m.start(), k), fam, name)
+    if best:
+        return best[1], best[2]
     if c in ("—", "-", ""):
         return None, "—"
     return "unknown", c
@@ -164,7 +168,7 @@ def join_cells(cells: List[str]) -> str:
 
 def header_index(H: List[str], kind: str) -> Tuple[Optional[int], Optional[int]]:
     vi = next((i for i, h in enumerate(H) if h.strip() == "效应值"), None)
-    mi = None if kind == "subgroup" else next((i for i, h in enumerate(H) if "效应指标" in h), None)
+    mi = next((i for i, h in enumerate(H) if "效应指标" in h), None)
     return vi, mi
 
 @dataclass
@@ -205,6 +209,7 @@ def process(text: str, write: bool) -> Tuple[str, List[Problem]]:
             probs.append(Problem("ERROR", rows[0] + 1, "EFFECT_METRIC_COL", "表头有“效应值”但缺少“效应指标”列"))
             continue
         current_study = ""
+        last_sub = ("d", "Cohen's d")
         for r in rows[2:]:
             c = split_cells(lines[r])
             if len(c) != len(H):
@@ -213,7 +218,11 @@ def process(text: str, write: bool) -> Tuple[str, List[Problem]]:
             if c[0]:
                 current_study = clean(c[0])
             if kind == "subgroup":
-                fam, name = study_metric.get(current_study, ("d", "Cohen's d"))
+                if c[0]:
+                    last_sub = study_metric.get(current_study, ("d", "Cohen's d"))
+                if mi is not None and c[mi] and c[mi] not in ("—",):
+                    last_sub = metric_family(c[mi])
+                fam, name = last_sub
             else:
                 fam, name = metric_family(c[mi])
                 study_metric[current_study] = (fam, name) if fam not in (None, "unknown") else ("d", "Cohen's d")
@@ -247,14 +256,14 @@ def process(text: str, write: bool) -> Tuple[str, List[Problem]]:
 
 def lint_file(path: Path, text: str) -> List[Problem]:
     """供 vault_lint.py 调用。"""
-    if "效应值" not in text:
+    if "效应值" not in text or "/templates/" in str(path).replace("\\", "/"):
         return []
     return process(text, write=False)[1]
 
 def iter_targets(args: List[str]) -> List[Path]:
     if args:
         return [Path(a) for a in args]
-    return [p for p in WIKI.rglob("*.md") if "效应值" in p.read_text(encoding="utf-8", errors="ignore")]
+    return [p for p in WIKI.rglob("*.md") if "templates" not in p.parts and "效应值" in p.read_text(encoding="utf-8", errors="ignore")]
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)

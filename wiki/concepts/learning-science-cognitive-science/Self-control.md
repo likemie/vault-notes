@@ -251,11 +251,17 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Creswell_2022_SAGE\|Lekhal (2015; Creswell & Creswell, 2022)]] | 性别差异比较（男 vs 女） | 课堂自我控制评分（包含[[Inhibitory Control\|反应抑制]]、情绪调节、行为切换） | $N = 1,129$ 名学前与小学儿童 | 男童 $M$ 显著低于女童 | $d = -0.42$ | $p = .000$ | 横截面[[Questionnaire\|问卷]]与教师评定；证实女童在基础自控力上存在稳健中等优势，该优势在结构模型中完全中介阻碍学习行为 |
-> | [[Argument_Creswell_2022_SAGE\|Kennett et al. (2008; Creswell & Creswell, 2022, pp. 69–70)]] | 习得性资源感对自我管理支持干预 | 自我控制能力（Rosenbaum SCS 量表）与日常应对策略 | 慢性疼痛患者与对照群体（解释性顺序[[Mixed Methods Research\|混合方法]]） | 干预后 SCS 评分显著提高，[[Qualitative Interview\|质性访谈]]证实个体发展出深层认知重构与行为自我管理技巧 | — | $p < .05$ | 解释性顺序混合方法研究，证实自我控制属于包含具体技能库的习得性资源感，可通过系统训练赋能 |
-> | [[Argument_Golovchin_2019_ESC\|Hattie (2009; Golovchin, 2019, p. 233)]] | 对课外干扰因素的自我控制干预 | 基础[[Academic Achievement\|学业成绩]]与课堂学习表现 | [[Meta-analysis\|元分析]]二阶综合（收录多项中小学实证干预） | 教学策略维度中最低效应值指标之一 |  = 0.04$ | — | [[Meta-meta-analysis\|二阶元分析]]均值，显示脱离教师[[Structured Teaching\|结构化教学]]支持与情境引导的孤立课外抗干扰自控对学业成绩的直接提升微乎其微 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Creswell_2022_SAGE\|Lekhal (2015; Creswell & Creswell, 2022)]] | Cohen's $d$ | <span class="mx-bar ef-bar neg" title="Cohen's d −0.42"><span class="b8"></span></span>−0.42 | $p = .000$ | 性别差异比较（男 vs 女） | 课堂自我控制评分（包含[[Inhibitory Control\|反应抑制]]、情绪调节、行为切换） | $N = 1,129$ 名学前与小学儿童 | 男童 $M$ 显著低于女童 | 横截面[[Questionnaire\|问卷]]与教师评定；证实女童在基础自控力上存在稳健中等优势，该优势在结构模型中完全中介阻碍学习行为 |
+> | [[Argument_Golovchin_2019_ESC\|Hattie (2009; Golovchin, 2019, p. 233)]] | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.04"><span class="b1"></span></span>0.04 | — | 对课外干扰因素的自我控制干预 | 基础[[Academic Achievement\|学业成绩]]与课堂学习表现 | [[Meta-analysis\|元分析]]二阶综合（收录多项中小学实证干预） | 教学策略维度中最低效应值指标之一 | [[Meta-meta-analysis\|二阶元分析]]均值，显示脱离教师[[Structured Teaching\|结构化教学]]支持与情境引导的孤立课外抗干扰自控对学业成绩的直接提升微乎其微 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Creswell_2022_SAGE\|Kennett et al. (2008; Creswell & Creswell, 2022, pp. 69–70)]] | 慢性疼痛患者与对照群体（解释性顺序[[Mixed Methods Research\|混合方法]]） | 习得性资源感对自我管理支持干预 | 自我控制能力（Rosenbaum SCS 量表）与日常应对策略 | 干预后 SCS 评分显著提高，[[Qualitative Interview\|质性访谈]]证实个体发展出深层认知重构与行为自我管理技巧 | $p < .05$ | 解释性顺序混合方法研究，证实自我控制属于包含具体技能库的习得性资源感，可通过系统训练赋能 |
 
 > [!metax] [自我控制 · Self control](https://www.visiblelearningmetax.com/influences/view/self_control)
 > 学生 › 自我

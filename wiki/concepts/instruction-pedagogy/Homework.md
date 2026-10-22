@@ -286,11 +286,19 @@ updated: 2026-10-22
 > [!ma-table]- 一阶与二阶[[Meta-analysis|元分析]]结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析来源 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]或亚组表现 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]（引述 Hattie, 2009） | 教学干预：家庭作业对[[Academic Achievement\|学业成绩]]的综合促进效应 | 涵盖 5 项元分析与 161 项原始研究 | Cohen's $d$ / 随机效应模型 | $d = 0.29$ | 处于教师常态效应区（$0.15 \sim 0.40$） | 粗放合并各类活动形态，掩盖了巨大内部方差；35% 原始研究呈中性或负效应 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 教学干预：学段对家庭作业学业效应的调节比较 | Hattie 数据集学段亚组 | Cohen's $d$ | 小学 $d = 0.15$；中学 $d = 0.64$ | 组间差异极其显著 | 证实作业效益在不同学段具有质的分野，平均值会掩盖高中作业的高价值与小学作业的低产出 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（核查 Hattie 2009） | [[Meta-meta-analysis\|元-元分析]]算法逆向还原：5 项作业元分析的简单算术平均 | 5 项元分析 / 161 项研究 / 逾 10 万名被试 | 简单算术平均与权重均等化 | $d = 0.29$（5 个 $d$ 值直接求和除以 5） | 5 项元分析 $d$ 值分别为 $0.36, 0.21, 0.39, 0.21, 0.28$；研究数介于 15 至 77 项 | 证实[[John Hattie\|哈蒂]]隐匿公式并违背方差反比加权原则，以简单算术平均抹杀[[Sample Size Determination\|样本量]]差异与学段鸿沟 |
+> | 元分析来源 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]或亚组表现 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]（引述 Hattie, 2009） | <span class="mx-bar ef-bar" title="Cohen's d 0.29"><span class="b6"></span></span>0.29 | — | Cohen's $d$ / 随机效应模型 | 涵盖 5 项元分析与 161 项原始研究 | 教学干预：家庭作业对[[Academic Achievement\|学业成绩]]的综合促进效应 | 处于教师常态效应区（$0.15 \sim 0.40$） | 粗放合并各类活动形态，掩盖了巨大内部方差；35% 原始研究呈中性或负效应 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 见亚组表 | — | Cohen's $d$ | Hattie 数据集学段亚组 | 教学干预：学段对家庭作业学业效应的调节比较 | 组间差异极其显著 | 证实作业效益在不同学段具有质的分野，平均值会掩盖高中作业的高价值与小学作业的低产出 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（核查 Hattie 2009） | <span class="mx-bar ef-bar" title="Cohen's d 0.29"><span class="b6"></span></span>0.29 | — | Cohen's $d$ / 简单算术平均与权重均等化 | 5 项元分析 / 161 项研究 / 逾 10 万名被试 | [[Meta-meta-analysis\|元-元分析]]算法逆向还原：5 项作业元分析的简单算术平均 | 5 项元分析 $d$ 值分别为 $0.36, 0.21, 0.39, 0.21, 0.28$；研究数介于 15 至 77 项 | 证实[[John Hattie\|哈蒂]]隐匿公式并违背方差反比加权原则，以简单算术平均抹杀[[Sample Size Determination\|样本量]]差异与学段鸿沟；注：5 个 $d$ 值直接求和除以 5 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 学段 | 小学 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | — | — |
+> |  |  | 中学 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.64"><span class="b13"></span></span>0.64 | — | — |
 
 > [!ref-table]- 循证清算与微观试验实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

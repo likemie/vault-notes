@@ -259,13 +259,27 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Linn et al. (2006)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 5–6]]） | [[Web-based Inquiry Science Environment\|WISE]] 技术增强探究课程 vs 常态传统课程（BAU） | 科学[[Academic Achievement\|学业成就]]（总体与学科） | 逾 8,000 名初中生，6 门独立理科课程 | 探究组在总体成就与 4 门课程中优于对照组 | — | $p < .05$ | 宏观课程准实验；对照组为资深教师实施的常态直接讲授，证实探究能超越熟练常态基线 |
-> | Schuster et al. (2018)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]） | 精心设计的[[Direct Instruction\|直接教学]] vs [[Inquiry-Based Learning\|指导式探究]]（[[Randomised Controlled Trials\|RCT]]） | 核心物理概念掌握 | 5 年、每年逾 100 名学员，8 天密集物理课程 | 两组核心概念测试得分高度接近 | $d \approx 0.00$ | 非显著（$p > .05$） | 受控 RCT；摒弃模糊 BAU，两组均由专业教师规范实施，表明教学法本身在概念掌握上并无绝对优劣 |
-> | Foliano et al. (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]） | [[Growth Mindset\|成长型思维]]全校大班培训 vs 常态教学（BAU） | 英国全国关键阶段统考（KS2）成绩 | 全英数十所小学大规模现场 RCT | 干预组与对照组全国统考成绩无显著差异 | $ES \approx 0.00$ | 非显著（$p > .05$） | 大规模现场 RCT；表明流行心理干预未能显著超越学校既有成熟的常态教学基线 |
-> | Hanley et al. (2015) & Kitmitto et al. (2018)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]） | [[Thinking, Doing, Talking Science\|TDTS]] 科学探究项目（[[Efficacy Trial\|效力试验]] vs [[Effectiveness Trial\|实效试验]]）对比 BAU | 小学科学学业测试与统考 | 效力试验 42 校；实效试验 205 所小学近万名学生 | 效力试验干预组显著优于对照；实效试验两组无差异 | 效力 $ES = +0.22$；实效 $ES = +0.03$ | 效力显著（$p < .05$）；实效不显著（$p > .05$） | 效力试验中 BAU 互动较少显优势；大规模推广中坚实 BAU 互动教研吞噬干预优势 |
-> | Lortie-Forgues and Inglis (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | 英美 141 项中介资助大样本教育 RCT vs BAU | 学科学业表现 | 141 项大型 RCT，跨越英美数万名学生与数百所学校 | 绝大多数干预未能取得大幅度增量 | 中位 $d = 0.06$ | 效应量总体极度微弱 | 揭示在公立教育体系坚实的常态基线之上取得大幅度净增益面临极高生态门槛 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Schuster et al. (2018)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]） | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.00"><span class="b0"></span></span>0.00 | 非显著（$p > .05$） | 精心设计的[[Direct Instruction\|直接教学]] vs [[Inquiry-Based Learning\|指导式探究]]（[[Randomised Controlled Trials\|RCT]]） | 核心物理概念掌握 | 5 年、每年逾 100 名学员，8 天密集物理课程 | 两组核心概念测试得分高度接近 | 受控 RCT；摒弃模糊 BAU，两组均由专业教师规范实施，表明教学法本身在概念掌握上并无绝对优劣 |
+> | Foliano et al. (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]） | ES | <span class="mx-bar ef-bar" title="ES 0.00"><span class="b0"></span></span>0.00 | 非显著（$p > .05$） | [[Growth Mindset\|成长型思维]]全校大班培训 vs 常态教学（BAU） | 英国全国关键阶段统考（KS2）成绩 | 全英数十所小学大规模现场 RCT | 干预组与对照组全国统考成绩无显著差异 | 大规模现场 RCT；表明流行心理干预未能显著超越学校既有成熟的常态教学基线 |
+> | Hanley et al. (2015) & Kitmitto et al. (2018)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]） | ES | 见亚组表 | 效力显著（$p < .05$）；实效不显著（$p > .05$） | [[Thinking, Doing, Talking Science\|TDTS]] 科学探究项目（[[Efficacy Trial\|效力试验]] vs [[Effectiveness Trial\|实效试验]]）对比 BAU | 小学科学学业测试与统考 | 效力试验 42 校；实效试验 205 所小学近万名学生 | 效力试验干预组显著优于对照；实效试验两组无差异 | 效力试验中 BAU 互动较少显优势；大规模推广中坚实 BAU 互动教研吞噬干预优势 |
+> | Lortie-Forgues and Inglis (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | Cohen's $d$（中位数） | <span class="mx-bar ef-bar" title="Cohen's d 0.06"><span class="b1"></span></span>0.06 | 效应量总体极度微弱 | 英美 141 项中介资助大样本教育 RCT vs BAU | 学科学业表现 | 141 项大型 RCT，跨越英美数万名学生与数百所学校 | 绝大多数干预未能取得大幅度增量 | 揭示在公立教育体系坚实的常态基线之上取得大幅度净增益面临极高生态门槛 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Hanley et al. (2015) & Kitmitto et al. (2018)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]） | 试验类型 | 效力试验 | ES | — | <span class="mx-bar ef-bar" title="ES +0.22"><span class="b4"></span></span>+0.22 | — | — |
+> |  |  | 实效试验 | ES | — | <span class="mx-bar ef-bar" title="ES +0.03"><span class="b1"></span></span>+0.03 | — | — |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Linn et al. (2006)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 5–6]]） | 逾 8,000 名初中生，6 门独立理科课程 | [[Web-based Inquiry Science Environment\|WISE]] 技术增强探究课程 vs 常态传统课程（BAU） | 科学[[Academic Achievement\|学业成就]]（总体与学科） | 探究组在总体成就与 4 门课程中优于对照组 | $p < .05$ | 宏观课程准实验；对照组为资深教师实施的常态直接讲授，证实探究能超越熟练常态基线 |
 
 ---
 

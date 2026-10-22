@@ -144,10 +144,10 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]实证结果（教学干预）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：角色扮演对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 5$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.61$ $[0.24, 0.98]$ | $Q(4) = 10.76, p = .030, I^2 = 62.83\%$ | 真实性教学 4 大子策略中效应量最高（$g+=0.61$ vs 应用解题 $0.35$ vs 模拟 $0.26$ vs 两难 $0.11$） |
-> | Fisher (1992, cited in [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, p. 28]]) | 干预因素：社会戏剧性角色扮演（Socio-dramatic Play）对儿童社会认知与发展的促进效应 | 46 项研究 / — | 相关系数 $r$ 与标准分差 $d$ | 综合效应 $r = 0.347$（换算 $d = 0.74$） | — | 包含换位思考（视角转换）与冲动情绪抑制等社会发展指标；其中社会戏剧性角色扮演效应最高（$r = 0.60, d = 1.48$），远超纯想象游戏（$d = 0.28$） |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.61"><span class="b12"></span></span>0.61 | [0.24, 0.98] | Hedges' $g+$ / 随机效应模型 | $k = 5$ / $N = —$ | 干预因素：角色扮演对[[Critical Thinking\|批判性思维]]技能的促进效应 | $Q(4) = 10.76, p = .030, I^2 = 62.83\%$ | 真实性教学 4 大子策略中效应量最高（$g+=0.61$ vs 应用解题 $0.35$ vs 模拟 $0.26$ vs 两难 $0.11$） |
+> | Fisher (1992, cited in [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, p. 28]]) | <span class="mx-bar ef-bar conv" title="r 0.347 → d ≈ 0.74（d = 2r / √(1 − r²)）"><span class="b15"></span></span>0.347 | — | $r$ / 相关系数 $r$ 与标准分差 $d$ | 46 项研究 / — | 干预因素：社会戏剧性角色扮演（Socio-dramatic Play）对儿童社会认知与发展的促进效应 | — | 包含换位思考（视角转换）与冲动情绪抑制等社会发展指标；其中社会戏剧性角色扮演效应最高（$r = 0.60, d = 1.48$），远超纯想象游戏（$d = 0.28$） |
 
 > [!ref-table]- 代表性实证、准实验与组织实践案例
 > <span class="concept-empirical-studies-table-marker" aria-hidden="true"></span>

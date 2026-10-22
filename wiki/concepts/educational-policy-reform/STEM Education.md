@@ -256,10 +256,9 @@ updated: 2026-10-22
 > [!effect-table]- STEM 教学法对比实证研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 > 
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Klahr and Nigam (2004) | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | $d \approx 1.10$ | $p<.001$ | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs 传统单向讲授 | 概念理解、长效迁移、[[Scientific Attitude\|科学态度]]与科学[[Self-Efficacy\|自我效能]] | K-12 科学与 STEM 探究文献综合与[[Systematic Review\|系统综述]] | — | 指导式探究在深层理解与[[Epistemology\|认识论]]维度全面优于纯讲授 | 综合多项元分析[[Chain of Evidence\|证据链]]确证 | 国际学习科学权威综述；证实指导式探究与时序动态整合是最优教学[[Paradigm\|范式]]。 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Klahr and Nigam (2004) | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 1.10"><span class="b22"></span></span>1.10 | $p<.001$ | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

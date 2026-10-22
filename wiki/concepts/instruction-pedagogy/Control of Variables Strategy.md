@@ -153,9 +153,17 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Schwichow et al., 2016） | [[Dependent Variable\|结果变量]]：探讨显性规则教学对比非显性探究对[[Variable\|变量]]控制策略（CVS）掌握的总体效果 | $k = 72$ / — | Hedges' $g$，随机效应 | 显性教学组 $g = 0.58$ [0.46, 0.70]；非显性探究组 $g = 0.65$ [0.51, 0.79] | 原文两组[[Confidence Interval\|置信区间]]重叠，组间无显著差异 | 涵盖 72 项干[[Pilot Testing\|预实验]]，推翻了单项研究关于显性讲授 CVS 具有绝对优越性的断言 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Schwichow et al., 2016） | 见亚组表 | — | Hedges' $g$，随机效应 | $k = 72$ / — | [[Dependent Variable\|结果变量]]：探讨显性规则教学对比非显性探究对[[Variable\|变量]]控制策略（CVS）掌握的总体效果 | 原文两组[[Confidence Interval\|置信区间]]重叠，组间无显著差异 | 涵盖 72 项干[[Pilot Testing\|预实验]]，推翻了单项研究关于显性讲授 CVS 具有绝对优越性的断言 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Schwichow et al., 2016） | 教学方式 | 显性教学组 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.58"><span class="b12"></span></span>0.58 | [0.46, 0.70] | — |
+> |  |  | 非显性探究组 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.65"><span class="b13"></span></span>0.65 | [0.51, 0.79] | — |
 
 ---
 

@@ -59,9 +59,9 @@ updated: 2026-10-22
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | Hedges' $g=0.497$（派生） | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 分析样本 | 组别统计 | 设计与解释边界 | 结果[[Variable\|变量]] |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Hedges' $g$（派生） | <span class="mx-bar ef-bar" title="Hedges' g 0.497"><span class="b10"></span></span>0.497 | $t(380)=4.24$<br>$p<.001$ | DP 与非 DP 毕业生 | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | 组间比较；[[Convenience Sampling\|便利抽样]]；不能排除选课效应，不能将差异归因于 ToK 或 DP | [[Academic Self-Concept General Scale\|ASC]] |
 
 > [!metax] [积极自我概念 · Positive self-concept](https://www.visiblelearningmetax.com/influences/view/positive_self-concept)
 > 学生 › 自我

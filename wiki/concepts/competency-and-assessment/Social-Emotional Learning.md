@@ -169,8 +169,6 @@ updated: 2026-10-22
 > [!warning] 适用局限
 > SEL 的成效高度依赖全校支持性文化与师生信任关系；若将其作为孤立的离散课程或单纯以测验分数进行高利害问责，将导致学生的策略性表演与虚伪伪装。
 
----
-
 > [!metax] [社会情感学习 · Socio-emotional learning](https://www.visiblelearningmetax.com/influences/view/socio-emotional_learning)
 > 课程 › 其他课程项目
 >
@@ -188,6 +186,8 @@ updated: 2026-10-22
 > > | Corcoran et al. (2018) | Social-emotional learning interventions | 40 | 135,495 | 73 | 0.25 |  |
 > > | Shi & Cheung (2024) | SEL on academic performance | 12 | 83,233 | 59 | 0.13 |  |
 > > | Cipriano et al. (2023) | Social-emotional learning interventions | 424 | 575,361 | 2,049 | 0.11 |  |
+
+---
 
 ---
 

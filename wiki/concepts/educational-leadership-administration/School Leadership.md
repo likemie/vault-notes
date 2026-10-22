@@ -246,12 +246,24 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | 循证型 vs 资源型 vs 弱发展型校长 | 教学发展活动（Schuleffektivität） | $N = 304$ 名校长 | 循证型 $M = 3.83$；资源型 $M = 3.58$；弱发展型 $M = 3.56$ | $\omega^2 = 0.04$；循证 vs 资源 $d = 0.48$；循证 vs 弱发展 $d = 0.45$ | $F(2, 301) = 7.99, p < .001$ | 针对奥地利义务教育学校样本的单因素方差分析，证实循证型校长表现出显著更多的教学改进促进行为 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同能力)]] | 循证型 vs 资源型 vs 弱发展型校长 | 协同发展能力（Entwicklungskapazität） | $N = 294$ 名校长 | 循证型 $M = 3.95$；资源型 $M = 3.79$；弱发展型 $M = 3.60$ | $\omega^2 = 0.06$；循证 vs 资源 $d = 0.31$；循证 vs 弱发展 $d = 0.62$ | $F(2, 291) = 9.66, p < .001$ | 教师日常专业协作与发展契合，组间差异达到中等效应量水平 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 授课工时)]] | 循证型 vs 资源型 vs 弱发展型校长 | 课堂直接授课工作时间占比（%） | $N = 302$ 名校长 | 循证型 $19.87\%$；资源型 $29.11\%$；弱发展型 $33.88\%$ | $\omega^2 = 0.06$ | $F(2, 299) = 10.51, p < .001$ | 循证型校长在课堂授课时间上显著低于传统兼课校长，向全职管理身份转型 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 听课工时)]] | 循证型 vs 资源型 vs 弱发展型校长 | 课堂听课观察工作时间占比（%） | $N = 303$ 名校长 | 循证型 $7.29\%$；资源型 $5.33\%$；弱发展型 $5.57\%$ | $\omega^2 = 0.04$；循证 vs 资源 $d = 0.47$；循证 vs 弱发展 $d = 0.41$ | $F(2, 300) = 6.68, p = .001$ | 循证型校长显著增加课堂实地观摩与教学诊断时间 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.04 → d ≈ 0.41（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b8"></span></span>0.04 | $F(2, 301) = 7.99, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 教学发展活动（Schuleffektivität） | $N = 304$ 名校长 | 循证型 $M = 3.83$；资源型 $M = 3.58$；弱发展型 $M = 3.56$ | 针对奥地利义务教育学校样本的单因素方差分析，证实循证型校长表现出显著更多的教学改进促进行为 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同能力)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 291) = 9.66, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 协同发展能力（Entwicklungskapazität） | $N = 294$ 名校长 | 循证型 $M = 3.95$；资源型 $M = 3.79$；弱发展型 $M = 3.60$ | 教师日常专业协作与发展契合，组间差异达到中等效应量水平 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 授课工时)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 299) = 10.51, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 课堂直接授课工作时间占比（%） | $N = 302$ 名校长 | 循证型 $19.87\%$；资源型 $29.11\%$；弱发展型 $33.88\%$ | 循证型校长在课堂授课时间上显著低于传统兼课校长，向全职管理身份转型 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 听课工时)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.04 → d ≈ 0.41（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b8"></span></span>0.04 | $F(2, 300) = 6.68, p = .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 课堂听课观察工作时间占比（%） | $N = 303$ 名校长 | 循证型 $7.29\%$；资源型 $5.33\%$；弱发展型 $5.57\%$ | 循证型校长显著增加课堂实地观摩与教学诊断时间 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.48"><span class="b10"></span></span>0.48 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同能力)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.62"><span class="b12"></span></span>0.62 | — | — |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 听课工时)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.41"><span class="b8"></span></span>0.41 | — | — |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

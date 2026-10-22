@@ -360,7 +360,7 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.76"><span class="b15"></span></span>0.76 | [0.42, 1.11] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维技能（HOTS）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 纳入一阶研究涵盖批判性思维、创造性思维与21世纪技能，样本以印尼为主，全集异质性极高 |
-> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.63"><span class="b13"></span></span>0.63 | [0.12, 1.14] | 标准化均数差 $ES$（Hedges' $g$ / Cohen's $d$）/ 随机效应模型经典逆方差加权 | $M = 19$（总体）；$E = 1$（HOTS 专属亚组）；$k = 29$；$N = 2,966$（HOTS 亚组；全集 $N = 58,702$） | 结果变量：AI 教育应用对高阶思维技能的促进效应（1 项 FOM 专属亚组） | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | HOTS 专属亚组仅 1 项 FOM，置信区间较宽；全集跨学段与学科异质性高（$I^2 = 84.78\%$）；检索范围限 2020–2025 年英语发表文献 |
+> | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | <span class="mx-bar ef-bar" title="SMD 0.63"><span class="b13"></span></span>0.63 | [0.12, 1.14] | 标准化均数差 $ES$（Hedges' $g$ / Cohen's $d$）/ 随机效应模型经典逆方差加权 | $M = 19$（总体）；$E = 1$（HOTS 专属亚组）；$k = 29$；$N = 2,966$（HOTS 亚组；全集 $N = 58,702$） | 结果变量：AI 教育应用对高阶思维技能的促进效应（1 项 FOM 专属亚组） | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | HOTS 专属亚组仅 1 项 FOM，置信区间较宽；全集跨学段与学科异质性高（$I^2 = 84.78\%$）；检索范围限 2020–2025 年英语发表文献 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

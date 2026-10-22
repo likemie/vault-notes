@@ -292,9 +292,17 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | **[[Independent Variable\|预测变量]] vs 结果变量** 创造力测量在全领域二阶元分析中的角色不对称性 | $M = 52$；$E = 164$；$k = 2609$；$N = 1,248,416$ | 皮尔逊相关 $r$ / 多水平 CHE + RVE | 预测变量 **$r = 0.29$** $[0.18, 0.41]$；结果变量 **$r = 0.12$** $[0.05, 0.19]$ | 角色主效应 $F(1, 45.4) = 9.43, p = .007$ | 创造力测量具有强外部成就预测力，但作为结果变量时受效标噪声制约 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 见亚组表 | — | 皮尔逊相关 $r$ / 多水平 CHE + RVE | $M = 52$；$E = 164$；$k = 2609$；$N = 1,248,416$ | **[[Independent Variable\|预测变量]] vs 结果变量** 创造力测量在全领域二阶元分析中的角色不对称性 | 角色主效应 $F(1, 45.4) = 9.43, p = .007$ | 创造力测量具有强外部成就预测力，但作为结果变量时受效标噪声制约 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 变量角色 | 预测变量 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.29 → d ≈ 0.61（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.29 | [0.18, 0.41] | — |
+> |  |  | 结果变量 |  | — | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.05, 0.19] | — |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

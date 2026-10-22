@@ -324,9 +324,9 @@ updated: 2026-10-22
 > [!effect-table]- 校长治理聚类对学校督导评价的单因素[[Analysis of Variance\|方差分析]][[Effect Size\|效应量]]
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或[[Independent Variable\|自变量]] | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计均值与离散度 | [[Effect Size\|效应量]] | 显著性与检验统计量 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 28)]] | 循证型（27.5%） vs 资源型（42.6%） vs 弱发展型（29.9%）校长 | 学校督导与质量对话评价（Schulaufsicht / [[Schulqualität Allgemeinbildung\|SQA]]） | $N = 338$ 名有效填答校长 | 循证型 $M = 3.73$ ($SD = 0.44$)；<br>资源型 $M = 3.23$ ($SD = 0.48$)；<br>弱发展型 $M = 2.77$ ($SD = 0.46$) | $\omega^2 = 0.398$（巨大效应量）；组内相关系数 $\text{ICC} = 0.40$ | $F(2, 335) = 111.45, p < .001$ | 督导对话评价呈现所有 22 项工具中最大的组间区分度，证实督导治理实效高度取决于校长的认知取向 |
+> | 研究 | 效应指标 | 效应值 | 显著性与检验统计量 | 比较或[[Independent Variable\|自变量]] | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计均值与离散度 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 28)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.398 → d ≈ 1.63（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b28"></span></span>0.398 | $F(2, 335) = 111.45, p < .001$ | 循证型（27.5%） vs 资源型（42.6%） vs 弱发展型（29.9%）校长 | 学校督导与质量对话评价（Schulaufsicht / [[Schulqualität Allgemeinbildung\|SQA]]） | $N = 338$ 名有效填答校长 | 循证型 $M = 3.73$ ($SD = 0.44$)；<br>资源型 $M = 3.23$ ($SD = 0.48$)；<br>弱发展型 $M = 2.77$ ($SD = 0.46$) | 督导对话评价呈现所有 22 项工具中最大的组间区分度，证实督导治理实效高度取决于校长的认知取向；注：组内相关系数 $\text{ICC} = 0.40$ |
 
 ---
 

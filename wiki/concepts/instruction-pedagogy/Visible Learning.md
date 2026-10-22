@@ -410,10 +410,10 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶[[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 干预因素：宏观教学与学校创新综合 | $M > 100$；$k > 300,000$ 项底层原始研究 | 标准化均值差 $d$；全域元综合分布 | 平均效应量 $d = 0.40$（标准差 $\approx 0.20$） | 效应量呈正态分布，绝大多数干预 $d > 0$ | 确立 $d=0.40$ 为全行业平均关节点基准，不代表单一干预在特定情境下的确定性效果 |
-> | Hattie (2009, 2015b); [[Visible Learning Meta-X]] | 干预因素：基础教育与高等教育教学影响因素综合（滚存至 Meta-X 数据库） | $M > 800$（2009版）/ 2,100+（Meta-X 现行版）；涵盖数万项原始研究与超 3 亿学生 | 标准化均值差 $d$；排名矩阵与二阶汇聚模型 | 整体均值维持在 $d \approx 0.40$ | 因子效应跨度从 $d = -0.34$ 至 $d = 1.56$ | 汇总横跨数十年跨国研究，存在原始测验工具偏向表层技能与早期人工单方录入局限 |
+> | 二阶[[Meta-analysis\|元分析]] | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | <span class="mx-bar ef-bar" title="SMD 0.40"><span class="b8"></span></span>0.40 | — | 标准化均值差 $d$；全域元综合分布 | $M > 100$；$k > 300,000$ 项底层原始研究 | 干预因素：宏观教学与学校创新综合 | 效应量呈正态分布，绝大多数干预 $d > 0$ | 确立 $d=0.40$ 为全行业平均关节点基准，不代表单一干预在特定情境下的确定性效果；注：效应量分布标准差 $\approx 0.20$ |
+> | Hattie (2009, 2015b); [[Visible Learning Meta-X]] | <span class="mx-bar ef-bar" title="SMD 0.40"><span class="b8"></span></span>0.40 | — | 标准化均值差 $d$；排名矩阵与二阶汇聚模型 | $M > 800$（2009版）/ 2,100+（Meta-X 现行版）；涵盖数万项原始研究与超 3 亿学生 | 干预因素：基础教育与高等教育教学影响因素综合（滚存至 Meta-X 数据库） | 因子效应跨度从 $d = -0.34$ 至 $d = 1.56$ | 汇总横跨数十年跨国研究，存在原始测验工具偏向表层技能与早期人工单方录入局限 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

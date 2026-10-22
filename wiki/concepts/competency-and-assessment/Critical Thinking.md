@@ -403,10 +403,10 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | ToK 学习阶段（Y12 vs Y11） | [[Critical Thinking Strategies Scale\|CTSS]] 批判性思维策略总分 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.85$ ($SD = 1.05$)；Y11 $M = 4.62$ ($SD = 1.08$) | Hedges' $g = 0.216$（派生） | $t(1240) = 3.04, p < .001$ | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 |
-> | 同上 | ToK 学习阶段（Y12 vs Y11） | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] 批判性思维动机分量表 | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.69$ ($SD = 1.15$)；Y11 $M = 4.48$ ($SD = 1.22$) | Hedges' $g = 0.177$（派生） | $t(1240) = 3.04, p < .01$ | 横断调查；自报测量；反映学习动机中的思维策略感知 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 分析样本 | 组别统计 | 设计与解释边界 | 结果[[Variable\|变量]] |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | Hedges' $g$（派生） | <span class="mx-bar ef-bar" title="Hedges' g 0.216"><span class="b4"></span></span>0.216 | $t(1240) = 3.04, p < .001$ | ToK 学习阶段（Y12 vs Y11） | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.85$ ($SD = 1.05$)；Y11 $M = 4.62$ ($SD = 1.08$) | 横断调查；自报测量；年级差异不能证明 ToK 导致能力增长 | [[Critical Thinking Strategies Scale\|CTSS]] 批判性思维策略总分 |
+> | 同上 | Hedges' $g$（派生） | <span class="mx-bar ef-bar" title="Hedges' g 0.177"><span class="b4"></span></span>0.177 | $t(1240) = 3.04, p < .01$ | ToK 学习阶段（Y12 vs Y11） | Y12 $n = 622$；Y11 $n = 620$ | Y12 $M = 4.69$ ($SD = 1.15$)；Y11 $M = 4.48$ ($SD = 1.22$) | 横断调查；自报测量；反映学习动机中的思维策略感知 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] 批判性思维动机分量表 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

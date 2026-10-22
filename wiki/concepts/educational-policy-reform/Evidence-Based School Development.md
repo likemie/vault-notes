@@ -199,11 +199,21 @@ updated: 2026-10-22
 > [!effect-table]- 循证学校发展取向对[[School Leadership\|学校领导]]行为与工时配置的[[Analysis of Variance\|方差分析]][[Effect Size\|效应量]]
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究文献 | 比较或[[Independent Variable\|自变量]] | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计均值与分布 | [[Effect Size\|效应量]] | 显著性与检验统计量 | 解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | 循证型 vs 资源型 vs 弱发展型校长 | 开展校本教学发展活动频次（Schuleffektivität） | $N = 304$ 名校长 | 循证型 $M = 3.83$ ($SD = 0.38$)；<br>资源型 $M = 3.58$ ($SD = 0.53$)；<br>弱发展型 $M = 3.56$ ($SD = 0.58$) | $\omega^2 = 0.04$；循证 vs 资源 $d = 0.48$；循证 vs 弱发展 $d = 0.45$ | $F(2, 301) = 7.99, p < .001$ | 证实循证取向直接驱动校长显著强化对微观教学质量的关注与投入 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同发展)]] | 循证型 vs 资源型 vs 弱发展型校长 | 促进教师专业协同发展能力 | $N = 294$ 名校长 | 循证型 $M = 3.95$ ($SD = 0.28$)；<br>资源型 $M = 3.79$ ($SD = 0.50$)；<br>弱发展型 $M = 3.60$ ($SD = 0.58$) | $\omega^2 = 0.06$；循证 vs 资源 $d = 0.31$；循证 vs 弱发展 $d = 0.62$ | $F(2, 291) = 9.66, p < .001$ | 达到中等效应量水平，印证循证校长更具意愿打造校内专业共同体 |
-> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 授课工时)]] | 循证型 vs 资源型 vs 弱发展型校长 | 课堂直接授课工作时间占比（%） | $N = 302$ 名校长 | 循证型 $19.87\%$ ($SD = 19.67\%$)；<br>资源型 $29.11\%$ ($SD = 22.18\%$)；<br>弱发展型 $33.88\%$ ($SD = 23.95\%$) | $\omega^2 = 0.06$；循证组授课比例较弱发展组净缩减近 $14\%$ | $F(2, 299) = 10.51, p < .001$ | 循证取向驱动校长系统重塑微观工时，将时间让渡给听课诊断与专业领导 |
+> | 研究文献 | 效应指标 | 效应值 | 显著性与检验统计量 | 比较或[[Independent Variable\|自变量]] | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计均值与分布 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.04 → d ≈ 0.41（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b8"></span></span>0.04 | $F(2, 301) = 7.99, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 开展校本教学发展活动频次（Schuleffektivität） | $N = 304$ 名校长 | 循证型 $M = 3.83$ ($SD = 0.38$)；<br>资源型 $M = 3.58$ ($SD = 0.53$)；<br>弱发展型 $M = 3.56$ ($SD = 0.58$) | 证实循证取向直接驱动校长显著强化对微观教学质量的关注与投入 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同发展)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 291) = 9.66, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 促进教师专业协同发展能力 | $N = 294$ 名校长 | 循证型 $M = 3.95$ ($SD = 0.28$)；<br>资源型 $M = 3.79$ ($SD = 0.50$)；<br>弱发展型 $M = 3.60$ ($SD = 0.58$) | 达到中等效应量水平，印证循证校长更具意愿打造校内专业共同体 |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 30, 授课工时)]] | $\omega^2$ | <span class="mx-bar ef-bar conv" title="ω² 0.06 → d ≈ 0.51（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>0.06 | $F(2, 299) = 10.51, p < .001$ | 循证型 vs 资源型 vs 弱发展型校长 | 课堂直接授课工作时间占比（%） | $N = 302$ 名校长 | 循证型 $19.87\%$ ($SD = 19.67\%$)；<br>资源型 $29.11\%$ ($SD = 22.18\%$)；<br>弱发展型 $33.88\%$ ($SD = 23.95\%$) | 循证取向驱动校长系统重塑微观工时，将时间让渡给听课诊断与专业领导；注：循证组授课比例较弱发展组净缩减近 $14\%$ |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.48"><span class="b10"></span></span>0.48 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.45"><span class="b9"></span></span>0.45 | — | — |
+> | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同发展)]] | 组别比较 | 循证 vs 资源 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.31"><span class="b6"></span></span>0.31 | — | — |
+> |  |  | 循证 vs 弱发展 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.62"><span class="b12"></span></span>0.62 | — | — |
 
 ---
 

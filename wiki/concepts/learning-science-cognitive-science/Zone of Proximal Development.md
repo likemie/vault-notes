@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
@@ -280,11 +280,11 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 >
 > 大样本[[Meta-analysis|元分析]]与[[Cohort Study|追踪研究]]为 ZPD 在人机自适应支架及教师辅导中的有效性提供了扎实证据。
 >
-> | 研究 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]]指标 | 显著性或结论 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Tasdelen and Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | ZPD 分步自适应微提示 [[Intelligent Tutoring Systems\|ITS]] vs 常规解题 | 小学数学多位数除法步骤解题表现 | $N = 114$ | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；在学生 ZPD 动态提供微提示促进解题策略内化 |
-> | Feng and Wang (2023)，引自同上 | 具身双语伴读机器人支架 vs 独立听读 | 小学低段英语口语与阅读理解 | $N = 64$ | — | Hedges' $g = 0.76$ | $p < .01$ | 准实验设计；实体机器人作为更有能力的他人（MKO）提供情感与语言支架 |
-> | Kraft, Blazar and Hogan (2018); Popova et al. (2018) | 针对教师 ZPD 的精准课堂辅导 vs 传统讲座培训 | 教师课堂教学实践与学生标准化成绩 | 60 余项辅导项目元分析；跨国发展中国家教师样本 | — | 教学 $d = 0.49$<br>成绩 $d = 0.18$ | 极显著提升教学质量 | 证实针对教师实践 ZPD 的一对一形成性辅导远胜大水漫灌式集中培训 |
+> | 研究 | 效应指标 | 效应值 | 显著性或结论 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Tasdelen and Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | $p < .05$ | ZPD 分步自适应微提示 [[Intelligent Tutoring Systems\|ITS]] vs 常规解题 | 小学数学多位数除法步骤解题表现 | $N = 114$ | — | 准实验设计；在学生 ZPD 动态提供微提示促进解题策略内化 |
+> | Feng and Wang (2023)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | $p < .01$ | 具身双语伴读机器人支架 vs 独立听读 | 小学低段英语口语与阅读理解 | $N = 64$ | — | 准实验设计；实体机器人作为更有能力的他人（MKO）提供情感与语言支架 |
+> | Kraft, Blazar and Hogan (2018); Popova et al. (2018) | Cohen's $d$ | 见亚组表 | 极显著提升教学质量 | 针对教师 ZPD 的精准课堂辅导 vs 传统讲座培训 | 教师课堂教学实践与学生标准化成绩 | 60 余项辅导项目元分析；跨国发展中国家教师样本 | — | 证实针对教师实践 ZPD 的一对一形成性辅导远胜大水漫灌式集中培训 |
 
 元分析进一步揭示了 ZPD 自适应支架对基础教育认知发展的宏观效应量。
 
@@ -294,6 +294,14 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.404"><span class="b8"></span></span>0.404 | [0.242, 0.567] | Hedges' $g$ / 随机效应模型 | $k = 73$ / $N = 3{,}042$ | 机制[[Construct\|构念]]：自适应 AI [[AI Agent in Education\|智能体]]作为 ZPD 外部[[Scaffolding\|认知脚手架]]对 K-12 认知的总体促进效应 | $Q(72) = 813.56, p < .001, I^2 = 91.2\%$ | 证实自适应微提示在学习者 ZPD 内降低认知负荷并促进技能编译 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Kraft, Blazar and Hogan (2018); Popova et al. (2018) | 结果类型 | 教师教学实践 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | — |
+> |  |  | 学生标准化成绩 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.18"><span class="b4"></span></span>0.18 | — | — |
 
 学段亚组分析显示出儿童思维发展过渡期对 ZPD 支架的高度敏感性。
 

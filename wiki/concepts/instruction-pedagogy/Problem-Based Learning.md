@@ -286,10 +286,9 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Schwerdt & Wuppermann (2011, as cited in Hattie, 2015b, p. 86)]] | 将 10 个百分点的教学时间从[[Problem Solving\|问题解决]]转向讲授式呈现 | [[TIMSS]] 测试能力 | 高中样本；N 未报告 | 未报告 | 约提高 0.01 SD | 未报告 | 二手摘要未提供完整模型；不能推广到专业教育中的完整 PBL 系统 |
-> | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 受训团队管理教师与未经专门培训教师实施 Inventorium | 学生保留或参与 | 在线替代性高中；N 未报告 | 100% 保留与几乎全部不参与 | — | 未报告 | 作者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；作者同时经营并倡导该项目 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 分析样本 | 组别统计 | 设计与解释边界 | 结果[[Variable\|变量]] |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Hattie_2015_SOTLP\|Schwerdt & Wuppermann (2011, as cited in Hattie, 2015b, p. 86)]] | ES（SD 单位） | <span class="mx-bar ef-bar" title="ES 0.01"><span class="b0"></span></span>0.01 | 未报告 | 将 10 个百分点的教学时间从[[Problem Solving\|问题解决]]转向讲授式呈现 | 高中样本；N 未报告 | 未报告 | 二手摘要未提供完整模型；不能推广到专业教育中的完整 PBL 系统 | [[TIMSS]] 测试能力 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -311,10 +310,17 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 M / E / k / N | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | 干预因素（PBL）的总体学习结果 | M = 9；k / N 未报告 | Cohen's d；早期二级综合（一级元分析效应的简单算术平均） | d ≈ 0.08；95% CI 未报告 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合，未经[[Inverse-Variance Weighting\|逆方差加权]]；研究情境与结果类型混合 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL）的高等教育学生结果 | M = 20；E = 47；k = 469；N 未报告 | 标准化均差（SMD）；[[Random-Effects Model\|随机效应模型]]；OR 转换 | 观测 d = 0.68 [0.57, 0.79]；剪补调整后 d = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高等教育情境；存在轻微发表偏倚（详见 Argument） |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 M / E / k / N | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；早期二级综合（一级元分析效应的简单算术平均） | M = 9；k / N 未报告 | 干预因素（PBL）的总体学习结果 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合，未经[[Inverse-Variance Weighting\|逆方差加权]]；研究情境与结果类型混合 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.57, 0.79] | Cohen's $d$ / 标准化均差（SMD）；[[Random-Effects Model\|随机效应模型]]；OR 转换 | M = 20；E = 47；k = 469；N 未报告 | 干预因素（PBL）的高等教育学生结果 | Q(46) = 730.67, p < .001, I² = 93.70% | 高等教育情境；存在轻微发表偏倚（详见 Argument）；注：剪补调整后 $d = 0.60$ $[0.49, 0.71]$ |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Blass_2020_JESP\|Blass (2020)]] | 在线替代性高中；N 未报告 | 受训团队管理教师与未经专门培训教师实施 Inventorium | — | 100% 保留与几乎全部不参与 | 未报告 | 作者实施观察，缺少[[Sample Size Determination\|样本量]]与统计检验；作者同时经营并倡导该项目 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

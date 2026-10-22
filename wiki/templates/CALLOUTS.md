@@ -515,13 +515,13 @@ updated: 2026-10-21
   - `|col1-wide`：第一列加宽
   - 整页生效可在 frontmatter 写 `cssclasses`，按组件类型全局生效则改 CSS。
 - **实证数据账本（2026-10-22）**：Concept 等条目的实证表格不写 `## 实证数据` 标题。CSS 依据表内 marker（`concept-effect-table-marker` / `concept-meta-analysis-table-marker` / `concept-second-order-meta-table-marker` / `concept-other-empirical-table-marker`）自动显示 `DATA · EFFECT SIZES / META-ANALYSIS / 2ND-ORDER META / OTHER RESULTS` 标签与数据色带；表格上方可写一段引导说明（显示为灰色小字）。
-- **可计算效应值（2026-10-22，Class Size / Effect Size 两页试点）**：实证表格的效应量拆成可计算列，效应条由脚本生成，禁止手填。
+- **可计算效应值（2026-10-22，全库）**：实证表格的效应量拆成可计算列，效应条由脚本生成，禁止手填。
   - 列顺序：原始研究表 `研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | 结果变量 | 分析样本 | 组别统计 | 设计与解释边界`；一阶 / 二阶元分析表 `元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 | 当前概念角色与总体结果 | 异质性 | 关键解释边界`。
   - “效应指标”只写指标名：Cohen's $d$、Hedges' $g$、SMD、Glass' Δ、$r$、Fisher $z$、OR、$\eta^2$ / 偏 $\eta^2$、$\omega^2$、$R^2$、$\beta$（SD 单位）；可加括号说明“均值 / 中位数”。未登记的指标会被 lint 拦下，需要先在 `scripts/effect_table.py` 的 `METRICS` 中登记。
   - “效应值”只写原文数值：`0.40`、`−0.12`、`0.62–0.66`、`> 0.80`、`—`；不写 `d =`、不写文字、不自行换算。总效应缺失但有亚组时写 `见亚组表`。
   - 一格多值时：总效应留主表，亚组数值进 **亚组表**；分布统计（中位数、百分位、SD）移到异质性列；剪补等校正值写入解释边界。
-  - 亚组表每页一张：`> [!ma-table]- 亚组与调节分析` + `concept-subgroup-table-marker`，列为 `研究 | 调节变量 | 水平 | $k$ | 效应值 | 95% CI | 显著性或组间检验`，同一研究只在首行写研究名、同一调节变量只在首行写变量名，其余留空。
-  - 不是效应量的结果（百分位提升、成功率、计票比例、纯文字结论、词频）不得填入效应值，放进“其他实证结果（无效应量）”或概念角色列。
+  - 亚组表每页一张：`> [!ma-table]- 亚组与调节分析` + `concept-subgroup-table-marker`，列为 `研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验`，同一研究只在首行写研究名、同一调节变量只在首行写变量名与指标，其余留空（留空即沿用上一行）。旧版 `concept-meta-moderator-table-marker` / `concept-second-order-role-subgroup-marker` 亚组表不再新建。
+  - 有数据但不是效应量的结果（百分位提升、成功率、计票比例、检验统计量、测量效度相关）放进“其他实证结果（无效应量）”；没有任何数据的纯文字结论和词频、提及次数这类表层计数不写进实证表格。
   - 写完运行 `python3 scripts/effect_table.py --write <文件>` 生成效应条（统一换算到 $d$ 尺度，只决定条长，单元格仍显示原始数值；换算值显示为斜纹，界值末端渐隐）；`vault_lint.py` 会检查指标、数值格式和效应条是否与数值一致。
 - **`|notitle`**：两种情况加 `|notitle`，只显示眉标：① 不写标题的组件（如 `> [!entry-map|notitle]`），避免 Obsidian 自动补出与眉标重复的类型名；② callout 标题与紧邻的上方章节标题相同（或只多“索引／矩阵／汇总”等字），如 `## 相关研究` 下的 `> [!evidence-grid-a|notitle] 相关研究索引`。提示类（info／note／warning 等）加 `|notitle` 时整行标题隐藏。同一章节下有多个 callout、各自标题区分内容时（如“主要著作”与“思想发展”），保留标题。
 - **折叠统一规则（2026-10-21）**：只有以下几类写 `-` 默认折叠，其余一律不加 `-` / `+`：

@@ -457,11 +457,11 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果与干预[[Effect Size|效应量]]
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]（引述 Timperley, 2004, 2005） | 新西兰 7 所极低 SES（Decile 1）小学基于读写评估数据的教师[[Professional Learning Community\|专业学习共同体]]干预 | 阶段阅读理解与读写达标成绩 | 7 所小学全体低年级学生（毛利与太平洋岛裔占多数） | 干预前读写达标率严重落后全国常模；干预后两年年均进步达全国预期 2–3 倍 | $d > 0.80$ | 统计显著 | 准实验校本追踪；证实形成性数据反馈可打破教师[[Deficit Framing\|赤字归因]]，大幅缩减学业差距 |
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 K-12 阶段符合 [[Every Student Succeeds Act\|ESSA]] 强/中等标准的阅读与数学教学方案（全班教学 Tier 1、助教小组辅导 Tier 2、助教 1 对 1 辅导 Tier 3） | 独立标准化阅读与数学[[Achievement and Aptitude Tests\|成就测验]]（Woodcock-Johnson, Gates-MacGinitie 等） | 全美数十个学区数万名中小学生（涵盖大量 [[Title I of the Elementary and Secondary Education Act\|Title I]] CSI 学校） | 经独立评估验证的 100 余项干预项目加权效应量汇总 | 全班 Tier 1 方案 $ES = +0.10 \sim +0.58$；助教 Tier 2/Tier 3 辅导 $ES = +0.21 \sim +0.86$ | 统计学显著正向增益 | 严格排除开发者自编测验，干预周期 $\ge 12$ 周，证实分层循证教学可大幅提升薄弱学校学业成就 |
-> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 教师 Teach [[Classroom Observation\|课堂观察]]综合得分（每增加 1 个标准差） | 学生标准化测试成绩（学业成就） | 巴基斯坦旁遮普省小学大样本（控制[[Class Size\|班级规模]]、教师学科知识、教师年龄教龄、学生 SES 与初始基线） | 综合得分每提高 1 SD，测试成绩显著提升 0.08–0.12 SD | $0.08 \sim 0.12$ SD | 统计学显著（$p < .05$） | 大样本控制计量回归；证实微观课堂互动质量对发展中国家学生学业增益具有稳健因果预测力 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]（引述 Timperley, 2004, 2005） | Cohen's $d$ | <span class="mx-bar ef-bar bound" title="Cohen's d &gt; 0.80；下界/上界值"><span class="b16"></span></span>> 0.80 | 统计显著 | 新西兰 7 所极低 SES（Decile 1）小学基于读写评估数据的教师[[Professional Learning Community\|专业学习共同体]]干预 | 阶段阅读理解与读写达标成绩 | 7 所小学全体低年级学生（毛利与太平洋岛裔占多数） | 干预前读写达标率严重落后全国常模；干预后两年年均进步达全国预期 2–3 倍 | 准实验校本追踪；证实形成性数据反馈可打破教师[[Deficit Framing\|赤字归因]]，大幅缩减学业差距 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | ES | 见亚组表 | 统计学显著正向增益 | 全美 K-12 阶段符合 [[Every Student Succeeds Act\|ESSA]] 强/中等标准的阅读与数学教学方案（全班教学 Tier 1、助教小组辅导 Tier 2、助教 1 对 1 辅导 Tier 3） | 独立标准化阅读与数学[[Achievement and Aptitude Tests\|成就测验]]（Woodcock-Johnson, Gates-MacGinitie 等） | 全美数十个学区数万名中小学生（涵盖大量 [[Title I of the Elementary and Secondary Education Act\|Title I]] CSI 学校） | 经独立评估验证的 100 余项干预项目加权效应量汇总 | 严格排除开发者自编测验，干预周期 $\ge 12$ 周，证实分层循证教学可大幅提升薄弱学校学业成就 |
+> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | $\beta$（SD 单位） | <span class="mx-bar ef-bar conv range" title="β 0.08–0.12 → d ≈ 0.10（d ≈ β（结果变量已标准化）；仅当结果变量已标准化时近似）；取区间中点"><span class="b2"></span></span>0.08–0.12 | 统计学显著（$p < .05$） | 教师 Teach [[Classroom Observation\|课堂观察]]综合得分（每增加 1 个标准差） | 学生标准化测试成绩（学业成就） | 巴基斯坦旁遮普省小学大样本（控制[[Class Size\|班级规模]]、教师学科知识、教师年龄教龄、学生 SES 与初始基线） | 综合得分每提高 1 SD，测试成绩显著提升 0.08–0.12 SD | 大样本控制计量回归；证实微观课堂互动质量对发展中国家学生学业增益具有稳健因果预测力 |
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
@@ -493,6 +493,14 @@ updated: 2026-10-22
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | <span class="mx-bar ef-bar" title="SMD 0.59"><span class="b12"></span></span>0.59 | [0.37, 0.81] | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $M = 20$；$E = 15$（理论性知识亚组）；$k = 469$；$N = —$ | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对理论性知识的促进效应 | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 理论性知识为知识获取类结果，与学业成就相关但不完全等同；高等教育情境 |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.48, 0.87] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 19$（总体）；$E = 8$（学业成就亚组）；$k = —$；$N = 58,702$（总体） | 结果变量：AI 教育应用对学业成就的促进效应（8 项一阶元分析（First-Order Meta-analysis, FOM）亚组结果） | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | 检索 2020–2025 年 AIEd 元分析，仅限英语文献；AI 类型与成果类型亚组间无显著差异；教育阶段和学科领域存在显著调节效应 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]]（审查 Hattie, 2009） | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | Cohen's $d$ / 二阶简单算术加权 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | 结果变量：影响学生学业成就（Academic Achievement）的全球二阶元分析巨型综合 | 未报告 $Q$ 与 $I^2$；将 $d = 0.40$ 设为期望效应门槛 | 涵盖 138 个影响因素；缺乏初级研究纳入质控标准；未对原始研究异质性进行模型加权调整；底层文献发表年份多集中于 1980–1990 年代 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 方案类型 | 全班 Tier 1 方案 | ES | — | <span class="mx-bar ef-bar range" title="ES +0.10–+0.58；取区间中点"><span class="b7"></span></span>+0.10–+0.58 | — | — |
+> |  |  | 助教 Tier 2 / Tier 3 辅导 | ES | — | <span class="mx-bar ef-bar range" title="ES +0.21–+0.86；取区间中点"><span class="b11"></span></span>+0.21–+0.86 | — | — |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

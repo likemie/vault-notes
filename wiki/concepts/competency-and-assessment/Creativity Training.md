@@ -366,16 +366,16 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **干预因素** [[Creativity\|创造力]]训练项目对大学生各维度创造力的综合提升 | $k = 29$ 项实证研究 (109 ES) / $N = —$ | Hedges' $g$ / 多层随机效应模型 | **$g = 0.628$** $[0.446, 0.809]$ | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 涵盖 14 国高校样本，创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）提升最显著 |
-> | Scott et al. (2004) | **干预因素** 创造力训练综合效果（实验与对照比较） | $k = 70$ 项实验研究 | 标化均值差 $d$ / 随机效应模型 | **$d = 0.74$** (观念生成 $d = 0.75$, 问题解决 $d = 0.84$) | 存在显著异质性 | 奠定认知策略干预有效性基准 |
-> | Ma (2006) | **干预因素** 创造力训练方案综合效果 | $k = 34$ 项研究 | 标化均值差 $d$ / 随机效应模型 | **$d = 0.77$** ($r \approx 0.36$) | 方案类型构成主要调节[[Variable\|变量]] | 复合训练程序效果最优 |
-> | Yunita et al. (2020) | **干预因素** 问题驱动教学法（[[Problem-Based Learning\|PBL]]）对创造性思维的促进 | $k = 24$ 项实验研究 / $N = 1,720$ | Hedges' $g$ / 随机效应模型 | **$g = 0.87$** $[0.64, 1.10]$ | [[Wicked Problem\|劣构问题]]情境效应最强 | 基础教育与高等教育学科课堂嵌入式干预 |
-> | Suganda et al. (2021) | **干预因素** 跨学科 STEAM 教学对创造性思维技能的促进 | $k = 20$ 项实验研究 / $N = 1,485$ | Hedges' $g$ / 随机效应模型 | **$g = 0.76$** $[0.51, 1.01]$ | 强调动手原型制作 | 跨学科[[Project-Based Learning\|项目式学习]]情境 |
-> | Acar et al. (2020) | **干预因素** 显式独创性指导语对[[Divergent Thinking\|发散思维]]表现的即时效应 | $k = 30$ 项实证研究 / $N = 3,369$ | Hedges' $g$ / 随机效应模型 | **$g = 0.53$** (TTCT 图形 $g = 0.62$) | 明确目标要求即时改善表现 | 任务呈现阶段的即时指令操纵 |
-> | DeRosa et al. (2007) | **干预因素** 电子[[Brainstorming\|头脑风暴]]（EBS）对比面对面头脑风暴 | $k = 39$ 项实验研究 / $N = 4,112$ | 标化均值差 $d$ / 随机效应模型 | 数量 **$d = 0.44$**, 质量 **$d = 0.38$** | 群体规模 $\ge 8$ 时优势显著 | 数字化协作平台有效消除生产力阻塞 |
-> | Rose and Lin (1984) | **干预因素** 普渡创造性思维方案（PCTP）训练效果 | $k = 46$ 项研究 | 标化均值差 $d$ / 随机效应模型 | **$d = 0.47$** (言语 $d = 0.58$, 图形 $d = 0.36$) | 练习册结合音频效果最优 | 早期长程标准化方案 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $k = 29$ 项实证研究 (109 ES) / $N = —$ | **干预因素** [[Creativity\|创造力]]训练项目对大学生各维度创造力的综合提升 | $Q(28) = 178.51, p < .001, I^2 = 84.31\%, \tau^2 = 0.189$ | 涵盖 14 国高校样本，创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）提升最显著 |
+> | Scott et al. (2004) | <span class="mx-bar ef-bar" title="Cohen's d 0.74"><span class="b15"></span></span>0.74 | — | 标化均值差 $d$ / 随机效应模型 | $k = 70$ 项实验研究 | **干预因素** 创造力训练综合效果（实验与对照比较） | 存在显著异质性 | 奠定认知策略干预有效性基准 |
+> | Ma (2006) | <span class="mx-bar ef-bar" title="Cohen's d 0.77"><span class="b15"></span></span>0.77 | — | 标化均值差 $d$ / 随机效应模型 | $k = 34$ 项研究 | **干预因素** 创造力训练方案综合效果 | 方案类型构成主要调节[[Variable\|变量]] | 复合训练程序效果最优 |
+> | Yunita et al. (2020) | <span class="mx-bar ef-bar" title="Hedges' g 0.87"><span class="b17"></span></span>0.87 | [0.64, 1.10] | Hedges' $g$ / 随机效应模型 | $k = 24$ 项实验研究 / $N = 1,720$ | **干预因素** 问题驱动教学法（[[Problem-Based Learning\|PBL]]）对创造性思维的促进 | [[Wicked Problem\|劣构问题]]情境效应最强 | 基础教育与高等教育学科课堂嵌入式干预 |
+> | Suganda et al. (2021) | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | [0.51, 1.01] | Hedges' $g$ / 随机效应模型 | $k = 20$ 项实验研究 / $N = 1,485$ | **干预因素** 跨学科 STEAM 教学对创造性思维技能的促进 | 强调动手原型制作 | 跨学科[[Project-Based Learning\|项目式学习]]情境 |
+> | Acar et al. (2020) | <span class="mx-bar ef-bar" title="Hedges' g 0.53"><span class="b11"></span></span>0.53 | — | Hedges' $g$ / 随机效应模型 | $k = 30$ 项实证研究 / $N = 3,369$ | **干预因素** 显式独创性指导语对[[Divergent Thinking\|发散思维]]表现的即时效应 | 明确目标要求即时改善表现 | 任务呈现阶段的即时指令操纵 |
+> | DeRosa et al. (2007) | 见亚组表 | — | 标化均值差 $d$ / 随机效应模型 | $k = 39$ 项实验研究 / $N = 4,112$ | **干预因素** 电子[[Brainstorming\|头脑风暴]]（EBS）对比面对面头脑风暴 | 群体规模 $\ge 8$ 时优势显著 | 数字化协作平台有效消除生产力阻塞 |
+> | Rose and Lin (1984) | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | 标化均值差 $d$ / 随机效应模型 | $k = 46$ 项研究 | **干预因素** 普渡创造性思维方案（PCTP）训练效果 | 练习册结合音频效果最优 | 早期长程标准化方案 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -395,6 +395,19 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.20 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.20 | [0.10, 0.29] | 皮尔逊 $r$ / 多水平 CHE + RVE | $M = 52$；$E = 21$；$k = 2609$；$N = 1,248,416$ | **干预因素** 教育教学干预与创造力的二阶基准关联（亚组模型） | 总体 95% PI $[-0.24, 0.53]$ | 在认知、外认知与人口学等所有外部因素中点估计最高，确立创造潜能的教育可塑性 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Scott et al. (2004) | 结果类型 | 观念生成 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.75"><span class="b15"></span></span>0.75 | — | — |
+> |  |  | 问题解决 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | — | — |
+> | Acar et al. (2020) | 测验类型 | TTCT 图形 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.62"><span class="b12"></span></span>0.62 | — | — |
+> | DeRosa et al. (2007) | 结果维度 | 观念数量 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.44"><span class="b9"></span></span>0.44 | — | — |
+> |  |  | 观念质量 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.38"><span class="b8"></span></span>0.38 | — | — |
+> | Rose and Lin (1984) | 测验类型 | 言语 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
+> |  |  | 图形 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.36"><span class="b7"></span></span>0.36 | — | — |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

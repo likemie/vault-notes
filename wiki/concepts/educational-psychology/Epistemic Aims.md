@@ -192,10 +192,21 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]任务目标对齐与成就类型[[Interaction Effect\|调节效应]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 调节效应：评价测验对齐程度（直接对齐高阶认识目标 vs 远端标准化测验） | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 近端任务对齐 $d = 0.706$ $[0.490, 0.923]$；远端测验对齐 $d = 0.298$ $[0.096, 0.500]$ | 组间差异 $Q_b = 5.259, p < .05$；总体异质性 $Q(58) = 459.739, p < .001$ | 实证表明认识论认知干预高度敏感于任务目标对齐，近端对齐任务展现出更为显著的学业增益 |
-> | 同上 | 调节效应：成就目标类型（论证表现 vs 概念知识 vs [[Procedural Knowledge\|程序知识]]） | 28 篇（59 个效应量） / 4,373 | Cohen's $d$，随机效应模型 | 论证表现 $d = 1.047$ $[0.722, 1.372]$；概念知识 $d = 0.557$ $[0.370, 0.744]$；程序知识 $d = 0.140$ $[-0.076, 0.355]$ | 组间差异 $Q_b = 8.940, p < .05$ | 高阶认识目标（论证与概念理解）对[[Epistemology\|认识论]]干预表现出强烈的因果响应，而低阶程序记忆则无显著提升 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 见亚组表 | — | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 调节效应：评价测验对齐程度（直接对齐高阶认识目标 vs 远端标准化测验） | 组间差异 $Q_b = 5.259, p < .05$；总体异质性 $Q(58) = 459.739, p < .001$ | 实证表明认识论认知干预高度敏感于任务目标对齐，近端对齐任务展现出更为显著的学业增益 |
+> | 同上 | 见亚组表 | — | Cohen's $d$，随机效应模型 | 28 篇（59 个效应量） / 4,373 | 调节效应：成就目标类型（论证表现 vs 概念知识 vs [[Procedural Knowledge\|程序知识]]） | 组间差异 $Q_b = 8.940, p < .05$ | 高阶认识目标（论证与概念理解）对[[Epistemology\|认识论]]干预表现出强烈的因果响应，而低阶程序记忆则无显著提升 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测量对齐 | 近端任务对齐 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.706"><span class="b14"></span></span>0.706 | [0.490, 0.923] | — |
+> |  |  | 远端测验对齐 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.298"><span class="b6"></span></span>0.298 | [0.096, 0.500] | — |
+> | 同上 | 结果类型 | 论证表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | [0.722, 1.372] | — |
+> |  |  | 概念知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | [0.370, 0.744] | — |
+> |  |  | 程序知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | [−0.076, 0.355] | — |
 
 ---
 

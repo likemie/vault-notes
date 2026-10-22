@@ -285,12 +285,11 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | Chen et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | Hedges' $g = 0.52$ | $p < .01$ | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
-> | Tasdelen and Bodemer (2025)，引自同上 | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | Hedges' $g = 0.21$ | $p < .05$ | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
-> | Khazanchi et al. (2025)，引自同上 | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | Hedges' $g = 0.05$ | $p > .05$ | [[Quasi-Experimental Designs\|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
-> | Dickler et al. (2021; Gobert et al., 2023)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 探究式智能导师（[[Inq-ITS]]）+ 教师实时看板（[[Inq-Blotter]]）介入 vs. 无看板常规教学 | 中学生科学探究技能（[[Variable\|变量]]控制 [[Control of Variables Strategy\|CVS]] 与证据推论）及后续任务表现 | 中学科学课堂队列实验 | — | 技能增长显著且跨学期稳健迁移 | $p < .01$ | 准实验与追踪设计；证实算法微观提示与教师宏观介入的人机双轨协同效应 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Chen et al. (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.52"><span class="b10"></span></span>0.52 | $p < .01$ | 历史多源事实导学 ITS vs. 传统课堂讲授 | 历史事实识记与时间线图式构建 | $N = 84$ | — | 准实验设计；ITS 自适应支架有效提升人文历史事实知识掌握度 |
+> | Tasdelen and Bodemer (2025)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | $p < .05$ | 自适应分步微提示 ITS vs. 传统纸笔解题 | 小学数学长除法步骤解题技能 | $N = 114$（干预 $n = 57$, 控制 $n = 57$） | — | 准实验设计；基于认知负荷理论的分步微提示降低外在负荷 |
+> | Khazanchi et al. (2025)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.05"><span class="b1"></span></span>0.05 | $p > .05$ | 代数几何智能导师 vs. 常规教学 | 中学几何辅助线推导与代数解题 | $N = 96$ | — | [[Quasi-Experimental Designs\|准实验设计]]；高抽象度几何证明任务中短期干预效应较温和 |
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

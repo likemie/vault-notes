@@ -234,10 +234,10 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Mullen, Johnson and Salas (1991) | **【干预[[Variable\|变量]]】** 传统面对面口头头脑风暴群体相对于同等规模无交互名义群体的生产力对比 | $k = 25$ 项受控实验 / $N \approx 2,100$ | Cohen's $d$ / 随机效应模型 | **$d = -0.57$** $[-0.76, -0.38]$ | 异质性显著，群体规模越大损失越严重 | 证实面对面口头头脑风暴存在显著的群体生产力损失，名义群体产出显著胜出 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预组织形式调节】** [[Creativity Training\|创造力干预]]中独立练习形式与小组头脑风暴协作形式的效能对比 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **独立 $g = 0.682$**；**小组 $g = 0.567$** | 解释 8.9% 组间方差（$p < .05$） | 证实独立深思训练能规避生产阻塞与群体认知内耗，产生显著更高的净促学收益 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Mullen, Johnson and Salas (1991) | <span class="mx-bar ef-bar neg" title="Cohen's d −0.57"><span class="b11"></span></span>−0.57 | [−0.76, −0.38] | Cohen's $d$ / 随机效应模型 | $k = 25$ 项受控实验 / $N \approx 2,100$ | **【干预[[Variable\|变量]]】** 传统面对面口头头脑风暴群体相对于同等规模无交互名义群体的生产力对比 | 异质性显著，群体规模越大损失越严重 | 证实面对面口头头脑风暴存在显著的群体生产力损失，名义群体产出显著胜出 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 见亚组表 | — | Hedges' $g$ / 多层随机效应模型 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | **【干预组织形式调节】** [[Creativity Training\|创造力干预]]中独立练习形式与小组头脑风暴协作形式的效能对比 | 解释 8.9% 组间方差（$p < .05$） | 证实独立深思训练能规避生产阻塞与群体认知内耗，产生显著更高的净促学收益 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -253,6 +253,14 @@ updated: 2026-10-22
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Ma (2006) | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.52, 0.84] | Cohen's $d$ / 随机效应综合 | 涵盖数十项一阶元分析综合 | **【干预变量】** 传授头脑风暴原则作为单项发散策略组件在全域[[Creativity\|创造力]]训练中的二阶[[Effect Size\|效应量]] | 跨学段普遍显著 | 证实系统掌握头脑风暴规程能显著增强个体在各领域的[[Divergent Thinking\|发散思维]]表现基准 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 构思形式 | 独立构思 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | — | — |
+> |  |  | 小组构思 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | — | — |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

@@ -331,10 +331,10 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Hattie (2009) / Higgins et al. (2016) | **【干预变量】** 元认知与自我调节策略教学（Metacognitive Strategies）在全域教学法中的二阶效应基准 | 基于数万项实证的二阶元分析（[[Education Endowment Foundation\|EEF]] 证据库） | Cohen's $d$ / 随机效应综合 | **$d = 0.69$**（约相当额外 $+7$ 个月学习进展） | 高确定性证据，全域排名前列 | 确立元认知策略教学作为最具有成本效益的[[Higher-Order Thinking Skills\|高阶思维]]与学业干预[[Paradigm\|范式]] |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | **【测量范式/过程指标】** 包含元认知问题表征、监控与评估的创造过程测量二阶综合关联 | $M = 52$ 项一阶元分析；过程测量 $E = 12$ | 皮尔逊相关 $r$ / 多水平 CHE + RVE | **$r = 0.27$** $[0.13, 0.41]$ | 95% PI $[-0.23, 0.64]$ | 过程性元认知测量与外部效标的关联系数显著高于单纯纸笔[[Divergent Thinking\|发散思维]]数量测验 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Hattie (2009) / Higgins et al. (2016) | <span class="mx-bar ef-bar" title="Cohen's d 0.69"><span class="b14"></span></span>0.69 | — | Cohen's $d$ / 随机效应综合 | 基于数万项实证的二阶元分析（[[Education Endowment Foundation\|EEF]] 证据库） | **【干预变量】** 元认知与自我调节策略教学（Metacognitive Strategies）在全域教学法中的二阶效应基准 | 高确定性证据，全域排名前列 | 确立元认知策略教学作为最具有成本效益的[[Higher-Order Thinking Skills\|高阶思维]]与学业干预[[Paradigm\|范式]]；注：约相当于额外 $+7$ 个月学习进展 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.27 → d ≈ 0.56（d = 2r / √(1 − r²)）"><span class="b11"></span></span>0.27 | [0.13, 0.41] | 皮尔逊相关 $r$ / 多水平 CHE + RVE | $M = 52$ 项一阶元分析；过程测量 $E = 12$ | **【测量范式/过程指标】** 包含元认知问题表征、监控与评估的创造过程测量二阶综合关联 | 95% PI $[-0.23, 0.64]$ | 过程性元认知测量与外部效标的关联系数显著高于单纯纸笔[[Divergent Thinking\|发散思维]]数量测验 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

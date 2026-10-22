@@ -201,19 +201,19 @@ updated: 2026-10-22
 
 ---
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]]与经典综合结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 / 经典综合 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Torrance (1972) | **【干预[[Variable\|变量]]】** 提喻法（Synectics）系统教学干预在全域[[Creativity Training\|创造力干预]]综合评估中的成功率 | $k = 142$ 项干预研究综合评估 | 实验成功率百分比（Success Rate） | **成功率 76%**（高度显著有效） | 在各大经典干预中名列前茅（仅次于 [[Creative Problem Solving\|CPS]] 的 90%） | 确立向学习者讲授隐喻类比四大算子能带来极为稳健可靠的[[Creativity\|创造力]]产出提升 |
-
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Ma (2006) | <span class="mx-bar ef-bar" title="Cohen's d 0.70"><span class="b14"></span></span>0.70 | [0.55, 0.85] | Cohen's $d$ / 随机效应综合 | 涵盖数十项一阶元分析综合 | **【干预变量】** 提喻法（Synectics）作为单一系统训练程序在全域创造力干预中的二阶[[Effect Size\|效应量]] | 跨领域普遍稳健有效 | 确立提喻法隐喻训练模式具备中等偏强且高度可靠的创造力增益基准 |
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Torrance (1972) | $k = 142$ 项干预研究综合评估 | 元分析：实验成功率百分比（Success Rate） | **【干预[[Variable\|变量]]】** 提喻法（Synectics）系统教学干预在全域[[Creativity Training\|创造力干预]]综合评估中的成功率 | **成功率 76%**（高度显著有效） | 在各大经典干预中名列前茅（仅次于 [[Creative Problem Solving\|CPS]] 的 90%） | 确立向学习者讲授隐喻类比四大算子能带来极为稳健可靠的[[Creativity\|创造力]]产出提升 |
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 >

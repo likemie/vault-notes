@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
@@ -102,8 +102,8 @@ updated: 2026-10-16
 > [!ma-table]- CAT 与创造性产品评估相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析来源 | 测量对象与[[Construct\|构念]] | 评定者[[Reliability\|信度]]水平 | 二阶效应量与 95% [[Confidence Interval\|CI]] | 核心结论与启示 |
-> |---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 创造性成果（包含 CAT 评定）二阶综合 | 专家评定产品汇总 | **$r = 0.12$** $[−0.02, 0.26]$ | 证实真实产品评定具备极高生态价值，但受情境变异制约 |
+> | 元分析来源 | 效应值 | 95% CI | 效应指标与模型 | 测量对象与[[Construct\|构念]] | 评定者[[Reliability\|信度]]水平 | 核心结论与启示 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [−0.02, 0.26] | $r$ | 创造性成果（包含 CAT 评定）二阶综合 | 专家评定产品汇总 | 证实真实产品评定具备极高生态价值，但受情境变异制约 |
 >
 > 在[[Argument_Park_2026_TSC\|Park et al. (2026)]]的[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]相关[[Meta-analysis\|元分析]]中，产品型评定（如 CAT）被归入与思维型测量（如[[Remote Associates Test\|远距离联想测验]]、发散思维任务）不同的评价标准，这解释了混合测量组合相关较低的现象。

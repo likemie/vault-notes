@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 ---
@@ -331,22 +331,16 @@ updated: 2026-10-20
 > | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 166–168, 188–190)]] | 第二个十年考试工作及 1985 年收入 | 工作语言与政府出资比例 | 约九成学校以英语工作；政府贡献略高于总收入 10%，原先设想约三分之一 | 工作语言分布不等于母语分布；政府代表权不自动带来相应财政投入 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 205–206)]] | 营养科学推广与后续课程试点 | 资助额、培训与预期覆盖 | [[UNESCO]] 营养科学资助 2,000 美元；后续[[Science Technology and Social Change Curriculum Pilot\|科学、技术与社会变迁]]试点安排三周在职培训，作者预计可能进入 6–10 所学校 | 后者是条件性预计，原文明确成功尚不确定，不能列为实际覆盖数 |
 
-> [!effect-table]- [[Critical Thinking|批判性思维]]与学术成就
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 254)]] | DP 学生 12 年级与 11 年级 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | 12 年级 622 人；11 年级 620 人 | 12 年级 4.85（1.05）；11 年级 4.62（1.08） | — | $t(1240)=3.04$；$p<.001$ | 横断调查与自报测量；年级差异不能证明 TOK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人；非 DP 126 人 | DP 300.95（30.05）；非 DP 293.98（27.75） | — | — | 完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 257)]] | DP 与非 DP 毕业生 | ATAR | DP 94 人；非 DP 267 人 | DP 94.13（6.79）；非 DP 89.29（12.07） | — | $t(290)=4.76$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept\|学术自我概念]] | DP 99 人；非 DP 283 人 | DP 6.25（0.96）；非 DP 5.75（1.02） | — | $t(380)=4.24$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
-
 > [!ref-table]- 核心组件效益的其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] | 该文回顾的 [[IB Diploma Programme\|IBDP]] 学生、毕业生和教师研究 | 观察性比较、追踪调查与教师调查 | EE 与大学 [[Academic Achievement\|GPA]]；探究和自我调节；TOK 跨学科联系；CAS 公民责任感 | Inkelas et al. (2012) 报告 EE 成绩与大学 GPA 正相关；Wray (2013) 与 Aulls (2013) 报告大学阶段的独立思考和自我调节表现；Bergeron (2016) 的教师报告强调 TOK 的跨学科联系；Billig and Good (2013) 把 CAS 与成熟和[[Open-Mindedness\|思想开放]]联系起来 | 原综述未在条目中保留具体统计 | 二手综述把多项研究并列为核心组件的可能效益；原始样本、统计和因果边界仍需回到各项原研究核验 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 254)]] | 12 年级 622 人；11 年级 620 人 | DP 学生 12 年级与 11 年级 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | 12 年级 4.85（1.05）；11 年级 4.62（1.08） | $t(1240)=3.04$；$p<.001$ | 横断调查与自报测量；年级差异不能证明 TOK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 42 人；非 DP 126 人 | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 300.95（30.05）；非 DP 293.98（27.75） | — | 完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 257)]] | DP 94 人；非 DP 267 人 | DP 与非 DP 毕业生 | ATAR | DP 94.13（6.79）；非 DP 89.29（12.07） | $t(290)=4.76$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 99 人；非 DP 283 人 | DP 与非 DP 毕业生 | [[Academic Self-Concept\|学术自我概念]] | DP 6.25（0.96）；非 DP 5.75（1.02） | $t(380)=4.24$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
 
 ---
 

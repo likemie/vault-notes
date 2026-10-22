@@ -194,10 +194,10 @@ updated: 2026-10-22
 > [!ma-table]- 社会经济地位在宏观综合中的实证数据对照
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 来源与文献 | [[Variable\|变量]]或干预[[Construct\|构念]] | 样本或研究规模 | [[Effect Size\|效应量]]指标与模型 | 报告效应量或统计值 | 实质定性与真实含义 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | Hattie (2009) 附录数据<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, p. 7)]] | 孤立测算的家庭社会经济地位（SES）效应 | 涵盖数百项原始实证研究 | Cohen's $d$；二阶未加权均值 | $d = 0.57$（部分表述为 $0.59$） | 被[[John Hattie\|哈蒂]]列为排名前列的正向影响因素，但被禁止作为调节变量参与教学法分析 | 隔离处理；将客观社会结构剥离于具体课堂干预之外 |
-> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, pp. 241–242)]] | 底层贫困家庭面临的结构性资源匮乏真实净影响（基准参照反转） | 针对 Hattie $d=0.57$（或 $0.59$）效应量开展数学对偶审计 | 符号转换分析与资本匮乏测算 | 实质为 $d = -0.57$（或 $-0.59$）的极端负向效应 | 成为全书最具破坏力的逆向有害因素，超越留级（$-0.16$）、转学（$-0.34$）与过多看电视（$-0.18$） | 证实单向包装正向均值掩盖阶级压迫；结合挑战者号事故与鱼子酱物价指数比喻批判去情境化未加权汇总 |
+> | 来源与文献 | 效应值 | 95% CI | 效应指标与模型 | 样本或研究规模 | 关键解释边界 | [[Variable\|变量]]或干预[[Construct\|构念]] | 实质定性与真实含义 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Hattie (2009) 附录数据<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, p. 7)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.57"><span class="b11"></span></span>0.57 | — | Cohen's $d$；二阶未加权均值 | 涵盖数百项原始实证研究 | 隔离处理；将客观社会结构剥离于具体课堂干预之外；注：部分表述为 $0.59$ | 孤立测算的家庭社会经济地位（SES）效应 | 被[[John Hattie\|哈蒂]]列为排名前列的正向影响因素，但被禁止作为调节变量参与教学法分析 |
+> | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, pp. 241–242)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.57"><span class="b11"></span></span>−0.57 | — | Cohen's $d$ / 符号转换分析与资本匮乏测算 | 针对 Hattie $d=0.57$（或 $0.59$）效应量开展数学对偶审计 | 证实单向包装正向均值掩盖阶级压迫；结合挑战者号事故与鱼子酱物价指数比喻批判去情境化未加权汇总；注：对 Hattie 同一数值的基准反转审计（或 $-0.59$） | 底层贫困家庭面临的结构性资源匮乏真实净影响（基准参照反转） | 成为全书最具破坏力的逆向有害因素，超越留级（$-0.16$）、转学（$-0.34$）与过多看电视（$-0.18$） |
 
 > [!metax] [同伴社会经济地位 · Peer socioeconomic status](https://www.visiblelearningmetax.com/influences/view/peer_socioeconomic_status)
 > 家庭 › 家庭资源

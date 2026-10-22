@@ -55,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 ---
@@ -96,13 +96,25 @@ updated: 2026-10-16
 > [!ma-table]- TTCT 在干预与[[Meta-meta-analysis\|二阶元分析]]中的实证表现
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | [[Meta-analysis\|元分析]]来源 | 考察情境与干预类型 | TTCT 效应表现 | 统计指标与显著性 | 实践启示 |
-> |---|---|---|---|---|
-> | Rose and Lin (1984) | 普渡[[Creativity\|创造力]]思维计划（PCTP）等认知训练 | TTCT 总分显著提升 | **$d = 0.47$**（言语 $d = 0.58$，图形 $d = 0.36$） | 证实[[Divergent Thinking\|发散思维]]潜能具备高度教学可塑性 |
-> | Acar, Runco and Park (2020) | 显式独创性指导语操纵 | TTCT 图形测验独创性 | **$g = 0.62$**（$p < .001$） | 提示指令可即时激活注意分配与原创取向 |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 发散思维一阶元分析二阶合并 | TTCT 作为发散思维代表工具 | **$r = 0.14$**（95% CI $[0.04, 0.24]$） | 证实发散思维是创造潜能的重要构成，但需与[[Problem Finding\|问题发现]]（$r = 0.27$）互补 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 大学生[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]] | TTCT 作为图形与言语创造力核心评估工具（纳入多项实证研究） | 创造性思维 $g = 0.671$；图形创造力 $g = 0.644$；言语创造力 $g = 0.606$ | 证实 TTCT 测量的发散认知与图形表现对高校教学干预高度敏感 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 学生样本创造力-[[Critical Thinking\|批判性思维]]相关元分析 | TTCT 被编码为客观[[Creativity Assessment\|创造力测量]]（如 Khatami et al., 2023; Misset, 2012; Ulger, 2016 等） | 总体相关 $r = 0.386$；双客观测量组合 $r = 0.317$ | 双主观组合相关更高（$r = 0.509$），提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
+> | [[Meta-analysis\|元分析]]来源 | 效应值 | 95% CI | 效应指标与模型 | 考察情境与干预类型 | TTCT 效应表现 | 实践启示 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | Rose and Lin (1984) | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | Cohen's $d$ | 普渡[[Creativity\|创造力]]思维计划（PCTP）等认知训练 | TTCT 总分显著提升 | 证实[[Divergent Thinking\|发散思维]]潜能具备高度教学可塑性 |
+> | Acar, Runco and Park (2020) | <span class="mx-bar ef-bar" title="Hedges' g 0.62"><span class="b12"></span></span>0.62 | — | Hedges' $g$ | 显式独创性指导语操纵 | TTCT 图形测验独创性 | 提示指令可即时激活注意分配与原创取向；注：$p < .001$ |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.14 → d ≈ 0.28（d = 2r / √(1 − r²)）"><span class="b6"></span></span>0.14 | [0.04, 0.24] | $r$ | 发散思维一阶元分析二阶合并 | TTCT 作为发散思维代表工具 | 证实发散思维是创造潜能的重要构成，但需与[[Problem Finding\|问题发现]]（$r = 0.27$）互补 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | — | Hedges' $g$ | 大学生[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]] | TTCT 作为图形与言语创造力核心评估工具（纳入多项实证研究） | 证实 TTCT 测量的发散认知与图形表现对高校教学干预高度敏感 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.386 → d ≈ 0.84（d = 2r / √(1 − r²)）"><span class="b17"></span></span>0.386 | — | $r$ | 学生样本创造力-[[Critical Thinking\|批判性思维]]相关元分析 | TTCT 被编码为客观[[Creativity Assessment\|创造力测量]]（如 Khatami et al., 2023; Misset, 2012; Ulger, 2016 等） | 双主观组合相关更高（$r = 0.509$），提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | Rose and Lin (1984) | 测验类型 | 言语 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
+> |  |  | 图形 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.36"><span class="b7"></span></span>0.36 | — | — |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 测验类型 | 图形创造力 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.644"><span class="b13"></span></span>0.644 | — | — |
+> |  |  | 言语创造力 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | — | — |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 测量组合 | 双客观测量 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.317 → d ≈ 0.67（d = 2r / √(1 − r²)）"><span class="b13"></span></span>0.317 | — | — |
+> |  |  | 双主观测量 |  | — | <span class="mx-bar ef-bar conv" title="r 0.509 → d ≈ 1.18（d = 2r / √(1 − r²)）"><span class="b24"></span></span>0.509 | — | — |
 
 ---
 

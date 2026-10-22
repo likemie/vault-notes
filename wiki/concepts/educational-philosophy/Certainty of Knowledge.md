@@ -265,9 +265,16 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]因果干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预靶向：包含解构知识确定性（由绝对固定到动态演进）的多维认知干预对[[Academic Achievement\|学业成就]]的因果效应 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 总体效应 $d = 0.509$ $[0.334, 0.684]$；延时后测 $d = 0.966$ $[0.802, 1.131]$ | $Q(58) = 459.739, p < .001$；延时组间 $Q_b = 16.737, p < .001$ | 证实解构知识绝对确定性信念并建立证据确证准则，能显著因果促进高阶论证与概念理解 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | [0.334, 0.684] | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 干预靶向：包含解构知识确定性（由绝对固定到动态演进）的多维认知干预对[[Academic Achievement\|学业成就]]的因果效应 | $Q(58) = 459.739, p < .001$；延时组间 $Q_b = 16.737, p < .001$ | 证实解构知识绝对确定性信念并建立证据确证准则，能显著因果促进高阶论证与概念理解 |
+
+> [!ma-table]- 亚组与调节分析
+> <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验时点 | 延时后测 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.966"><span class="b19"></span></span>0.966 | [0.802, 1.131] | — |
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

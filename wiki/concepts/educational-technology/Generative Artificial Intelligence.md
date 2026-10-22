@@ -525,11 +525,11 @@ updated: 2026-10-22
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 干预因素（生成式 AI 在高等教育中的综合学习成效） | $k = 97$ / $N = 5{,}389$（57 项实验研究） | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ $[0.636, 0.972]$（剪补校正后 $g^+ = 0.321$） | $Q = 1390.16, p < .001, I^2 = 93.09\%$ | 严格控制基线等效性（前测差异 $d < 0.25$）；语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）、情感动机（$g^+ = 0.617$）和高阶思维（$g^+ = 0.580$）显著，但元认知不显著（$g^+ = 0.078$） |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预因素（生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学总成效） | $k = 59$ / 29 项实验与准实验研究 | Hedges' $g$；随机效应模型 | $g = 0.609$ $[0.485, 0.732]$ | $Q = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；证实适度周期与高自主调节能力是释放促学潜能的关键 |
-> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[Generative AI Agent in Education\|生成式智能体]]促学总成效） | $k = 17$ / — | Hedges' $g$；随机效应模型 | $g = 0.421$ $[0.198, 0.645]$ | $Q = 143.76, I^2 = 88.87\%$ | 纳入中小学及高校实证；未作教学反思[[Scaffolding\|脚手架]]约束的研究易产生负向效应 |
+> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.804"><span class="b16"></span></span>0.804 | [0.636, 0.972] | Hedges' $g^+$；随机效应模型 | $k = 97$ / $N = 5{,}389$（57 项实验研究） | 干预因素（生成式 AI 在高等教育中的综合学习成效） | $Q = 1390.16, p < .001, I^2 = 93.09\%$ | 严格控制基线等效性（前测差异 $d < 0.25$）；语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）、情感动机（$g^+ = 0.617$）和高阶思维（$g^+ = 0.580$）显著，但元认知不显著（$g^+ = 0.078$）；注：剪补校正后 $g^+ = 0.321$ |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.609"><span class="b12"></span></span>0.609 | [0.485, 0.732] | Hedges' $g$；随机效应模型 | $k = 59$ / 29 项实验与准实验研究 | 干预因素（生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学总成效） | $Q = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；证实适度周期与高自主调节能力是释放促学潜能的关键 |
+> | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.421"><span class="b8"></span></span>0.421 | [0.198, 0.645] | Hedges' $g$；随机效应模型 | $k = 17$ / — | 干预因素（[[Generative AI Agent in Education\|生成式智能体]]促学总成效） | $Q = 143.76, I^2 = 88.87\%$ | 纳入中小学及高校实证；未作教学反思[[Scaffolding\|脚手架]]约束的研究易产生负向效应 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

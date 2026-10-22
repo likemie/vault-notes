@@ -218,6 +218,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国《[[CHIPS and Science Act\|芯片与科学法案]]》与微电子体系重构（2020–2026） | 先进制程本土回流、开源标准掌控与微电子工程人才梯队 | 授权 2000 亿美元研发支出与 527 亿美元直接制造资助，启动 [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] 跨校攻坚 | 促成[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、英特尔等 24 家企业集聚凤凰城；JUMP 2.0 动员 14 所顶尖大学协同攻坚异构集成，系统验证了国家安全作为创新方向性牵引的巨大动员效能 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟微电子与通信技术重大项目（[[Important Projects of Common European Interest\|IPCEI ME/CT]]） | 绿色低碳转型与微电子核心元器件自主可控 | 动员 14 个成员国，撬动 81 亿欧元公共补贴与 137 亿欧元私人配套投资 | 组建 180 项跨国攻关合作，将超国家战略方向具体落实为泛欧协同研发网络 |
+> | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]] | [[Netherlands Top-sector Policy\|荷兰顶级行业政策]]（Netherlands Top-sector Policy） | 确定农业食品、生命健康等九大重点方向 | 保持全社会 R&D 强度约 2.0% 的同时，推行 1:1 公私配套资助与产业路线图 | 私营部门研发出资实现翻倍，推动荷兰全球[[Competitiveness\|竞争力]]指数升至世界前四，证实明确的方向性引导能大幅提升[[Systems of Innovation\|创新系统]]产出质量 |
 
 ---
 

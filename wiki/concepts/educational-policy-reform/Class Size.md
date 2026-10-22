@@ -354,15 +354,7 @@ updated: 2026-10-22
 > | 研究 | [[Effect Size\|效应指标]] | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | Cohen's $d$ | <span class="mx-bar ef-bar range" title="Cohen's d 0.62–0.66；取区间中点"><span class="b13"></span></span>0.62–0.66 | 极显著（$p < .001$） | 田纳西州 STAR 项目：小班（13–17 人） vs 常规模范大班（22–25 人） | 标准化读写与数学测验 | 79 所学校，逾 6,000 名学生长期追踪 | 小班各科平均得分持续高于大班 | 严格[[Random Assignment\|随机分配]]实验；优势在低年级与少数族裔中最为强劲 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Murnane and Levy (1996) | — | — | 极具组间分化显著性 | 德州 15 所贫困小学对比：每年追加 30 万美元用于缩班与配套教学改革 | 德克萨斯州学业评估（TAAS）达标率 | 德州 15 所贫困小学 / 5 年追踪 | 2 所同步革新教学与社区支持的学校达标率大幅提升；13 所仅单纯缩减人数学校无变化 | 单纯缩减班额无效；唯有缩班与教学模式革新、健康与社区支持深度整合方能成功 |
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | Cohen's $d$ | 见亚组表 | 阅读微弱显著（$p < .05$），数学未达显著 | 法国弱势学校班额减半改革（优先教育网 REP+ 由 24 人降至 12 人） | 标准化法语与数学统考成绩 | 法国优先教育网一、二年级群体 | 实验组阅读略高于常规班，数学无差异 | 全国性政策推广；合格师资与校舍物理条件制约显著稀释了政策预期收益 |
-
-> [!ma-table]- 一阶元分析总体结果
-> <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
->
-> | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Glass and Smith (1978)]] | — | — | 百分位成就差与连续回归拟合（未报告标准化效应量） | $k = 77$ / $N \approx 900,000$（725 次比较） | 干预因素：班级规模缩减对全学科学生[[Academic Achievement\|学业成就]]的回归合成；结果为负相关非线性曲线，40 人减至 1 人提升逾 30 个百分位点 | 实验控制充分的研究斜率陡峭，控制不佳的研究斜率趋平 | 早期元分析未报告现代随机效应异质性统计量；哈蒂二次引用时仅截取平缓局部并误读为 $d=0.09$ |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -374,10 +366,10 @@ updated: 2026-10-22
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
-> |---|---|---|---|---|---|---|
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 结果领域 | 阅读（法语） | — | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | $p < .05$ |
-> |  |  | 数学 | — | — | — | 未达显著 |
+> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 结果领域 | 阅读（法语） | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | $p < .05$ |
+> |  |  | 数学 |  | — | — | — | 未达显著 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -387,6 +379,9 @@ updated: 2026-10-22
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Molina et al. (2018) | 巴基斯坦旁遮普省超 1,000 间小学课堂 | 跨国大样本计量经济学横截面与增值模型 | 控制班级规模、教师学科测试与学生家庭背景后的微观教学实践 | 教师在 Teach 规程上的[[Effective Teaching\|有效教学]]行为显著预测学生标准化测试增值 | $\beta = 0.08\text{–}0.12$ SD（$p < .01$） | 证实控制班级规模后微观实践仍具稳健解释力，但未直接测量班额本身的因果效应 |
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 俄罗斯联邦沃洛格达地区 1,120 名中小学教师 | 区域教师[[Questionnaire\|问卷调查]] | 学校资源配置、班额压力与教师负荷 | 45% 教师反映办学经费严重匮乏，79% 教师每周承受超 10 小时填报重负 | 描述性统计（[[Chi-Squared Test\|卡方检验]]显著） | 证实依凭元分析低效应排名缩减公立学校办学资源与维持大班额，会加剧教师流失与治理陷阱 |
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 丹麦与国际[[Evidence-Based Education\|循证教育]]文献反思 | 概念与方法学底层审计 | 班级规模[[Unit of Analysis\|分析单元]]有效性与 [[Socioeconomic Status\|SES]] 调节作用 | 确立 Berger (1982) 交互原则；指出哈蒂孤立 SES（$d=0.57$）且拒绝作为调节变量 | 质性理论与[[Epistemology\|认识论]]批判 | 论证班级规模无法作为独立分析单元，揭示阶级盲教学思维对教育不平等的技术掩饰 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Murnane and Levy (1996) | 德州 15 所贫困小学 / 5 年追踪 | 德州 15 所贫困小学对比：每年追加 30 万美元用于缩班与配套教学改革 | 德克萨斯州学业评估（TAAS）达标率 | 2 所同步革新教学与社区支持的学校达标率大幅提升；13 所仅单纯缩减人数学校无变化 | 极具组间分化显著性 | 单纯缩减班额无效；唯有缩班与教学模式革新、健康与社区支持深度整合方能成功 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Glass and Smith (1978)]] | $k = 77$ / $N \approx 900,000$（725 次比较） | 元分析：百分位成就差与连续回归拟合（未报告标准化效应量） | 干预因素：班级规模缩减对全学科学生[[Academic Achievement\|学业成就]]的回归合成；结果为负相关非线性曲线，40 人减至 1 人提升逾 30 个百分位点 | 负相关非线性曲线：40 人减至 1 人提升逾 30 个百分位点（百分位成就差与连续回归拟合） | 实验控制充分的研究斜率陡峭，控制不佳的研究斜率趋平 | 早期元分析未报告现代随机效应异质性统计量；哈蒂二次引用时仅截取平缓局部并误读为 $d=0.09$ |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Phillips et al. (2001) | 显著高增益 | — | — | 奥克兰 [[Picking Up the Pace\|PACE 项目]]：班额由 28 人减半至 15 人并实施 3 人微组阅读辅导 | 奥克兰南区处境不利小学低段群体 | 辅导组学生阅读进步速度达到常规对比组两倍以上 |
 
 ---
 

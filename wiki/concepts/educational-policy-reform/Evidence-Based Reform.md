@@ -262,18 +262,18 @@ updated: 2026-10-22
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Slavin_2019_EducPsychol\|Borman et al. (2007, as cited in Slavin, 2019, p. 24)]] | 全校改革项目：[[Success for All]] vs [[Business as Usual\|常态教学]] | K–2 年级阅读成就 | 5 项独立大规模试验 | — | $+0.41$ | $p < .05$（ESSA 强证据） | 整群 RCT / 准实验；全校统整阅读干预 |
-> | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (1997, as cited in Slavin, 2019, p. 24)]] | 全班教学方案：[[Peer-Assisted Learning Strategies\|PALS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.58$ | $p < .05$（ESSA 中等证据） | 整群实验；同伴互助学习策略 |
-> | [[Argument_Slavin_2019_EducPsychol\|Torgesen et al. (2001, as cited in Slavin, 2019, p. 24)]] | 教师小组辅导：[[Lindamood Phoneme Sequencing\|LiPS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.64$ | $p < .05$（ESSA 强证据） | 针对阅读落后学生的语音意识与音素结构干预 |
-> | [[Argument_Slavin_2019_EducPsychol\|Chambers et al. (2011, as cited in Slavin, 2019, p. 24)]] | 助教小组辅导：[[Lightning Squad]] vs 常态教学 | 1–3 年级阅读成就 | 3 项试验 | — | $+0.34$ | $p < .05$（ESSA 强证据） | 教学助教主导的结构化计算机辅助协作阅读 |
-> | [[Argument_Slavin_2019_EducPsychol\|May et al. (2016, as cited in Slavin, 2019, p. 24)]] | 教师一对一辅导：[[Reading Recovery]] vs 常态教学 | 1 年级阅读成就 | 4 项试验 | — | $+0.42$ | $p < .05$（ESSA 强证据） | 专业教师一对一辅导，成本较高但效果稳定 |
-> | [[Argument_Slavin_2019_EducPsychol\|Jacob et al. (2016, as cited in Slavin, 2019, p. 24)]] | 助教一对一辅导：[[Reading Rescue]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.81$ | $p < .05$（ESSA 中等证据） | 教学助教一对一密集阅读辅导 |
-> | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (2013, as cited in Slavin, 2019, p. 25)]] | 助教小组辅导：[[Fraction Face-Off!]] vs 常态教学 | 4 年级分数计算与概念 | 2 项试验 | — | $+0.51$ | $p < .05$（ESSA 强证据） | 助教指导的小组分数针对性强化干预 |
-> | [[Argument_Slavin_2019_EducPsychol\|Clarke et al. (2016, as cited in Slavin, 2019, p. 25)]] | 助教小组辅导：[[ROOTS]] vs 常态教学 | 1 年级数学基础能力 | 2 项试验 | — | $+0.24$ | $p < .05$（ESSA 强证据） | 早期数学概念与数字感小组干预 |
-> | [[Argument_Slavin_2019_EducPsychol\|Torgerson et al. (2011, as cited in Slavin, 2019, p. 25)]] | 教师一对一辅导：[[Numbers Count]] vs 常态教学 | 1–2 年级数学成就 | 1 项试验 | — | $+0.33$ | $p < .05$（ESSA 强证据） | 专业数学教师一对一干预 |
-> | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (2008, as cited in Slavin, 2019, p. 25)]] | 助教一对一辅导：Tutor-Assisted Math [[Problem Solving]] vs 常态教学 | 3 年级数学问题解决 | 1 项试验 | — | $+0.42$ | $p < .05$（ESSA 强证据） | 助教辅导数学应用题与问题解决 |
+> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | [[Argument_Slavin_2019_EducPsychol\|Borman et al. (2007, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.41"><span class="b8"></span></span>+0.41 | $p < .05$（ESSA 强证据） | 全校改革项目：[[Success for All]] vs [[Business as Usual\|常态教学]] | K–2 年级阅读成就 | 5 项独立大规模试验 | — | 整群 RCT / 准实验；全校统整阅读干预 |
+> | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (1997, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.58"><span class="b12"></span></span>+0.58 | $p < .05$（ESSA 中等证据） | 全班教学方案：[[Peer-Assisted Learning Strategies\|PALS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | 整群实验；同伴互助学习策略 |
+> | [[Argument_Slavin_2019_EducPsychol\|Torgesen et al. (2001, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.64"><span class="b13"></span></span>+0.64 | $p < .05$（ESSA 强证据） | 教师小组辅导：[[Lindamood Phoneme Sequencing\|LiPS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | 针对阅读落后学生的语音意识与音素结构干预 |
+> | [[Argument_Slavin_2019_EducPsychol\|Chambers et al. (2011, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.34"><span class="b7"></span></span>+0.34 | $p < .05$（ESSA 强证据） | 助教小组辅导：[[Lightning Squad]] vs 常态教学 | 1–3 年级阅读成就 | 3 项试验 | — | 教学助教主导的结构化计算机辅助协作阅读 |
+> | [[Argument_Slavin_2019_EducPsychol\|May et al. (2016, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.42"><span class="b8"></span></span>+0.42 | $p < .05$（ESSA 强证据） | 教师一对一辅导：[[Reading Recovery]] vs 常态教学 | 1 年级阅读成就 | 4 项试验 | — | 专业教师一对一辅导，成本较高但效果稳定 |
+> | [[Argument_Slavin_2019_EducPsychol\|Jacob et al. (2016, as cited in Slavin, 2019, p. 24)]] | ES | <span class="mx-bar ef-bar" title="ES +0.81"><span class="b16"></span></span>+0.81 | $p < .05$（ESSA 中等证据） | 助教一对一辅导：[[Reading Rescue]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | 教学助教一对一密集阅读辅导 |
+> | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (2013, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.51"><span class="b10"></span></span>+0.51 | $p < .05$（ESSA 强证据） | 助教小组辅导：[[Fraction Face-Off!]] vs 常态教学 | 4 年级分数计算与概念 | 2 项试验 | — | 助教指导的小组分数针对性强化干预 |
+> | [[Argument_Slavin_2019_EducPsychol\|Clarke et al. (2016, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.24"><span class="b5"></span></span>+0.24 | $p < .05$（ESSA 强证据） | 助教小组辅导：[[ROOTS]] vs 常态教学 | 1 年级数学基础能力 | 2 项试验 | — | 早期数学概念与数字感小组干预 |
+> | [[Argument_Slavin_2019_EducPsychol\|Torgerson et al. (2011, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.33"><span class="b7"></span></span>+0.33 | $p < .05$（ESSA 强证据） | 教师一对一辅导：[[Numbers Count]] vs 常态教学 | 1–2 年级数学成就 | 1 项试验 | — | 专业数学教师一对一干预 |
+> | [[Argument_Slavin_2019_EducPsychol\|Fuchs et al. (2008, as cited in Slavin, 2019, p. 25)]] | ES | <span class="mx-bar ef-bar" title="ES +0.42"><span class="b8"></span></span>+0.42 | $p < .05$（ESSA 强证据） | 助教一对一辅导：Tutor-Assisted Math [[Problem Solving]] vs 常态教学 | 3 年级数学问题解决 | 1 项试验 | — | 助教辅导数学应用题与问题解决 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

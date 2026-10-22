@@ -237,19 +237,13 @@ updated: 2026-10-22
 > | **测验类型对比** | 通用批判性思维测验（Generic CT） | 341 | 0.30 | 0.25 | 0.34 | — | 教学对通用与学科特异思维均具促进力，学科特异测验显示更强近迁移效应。 |
 > | | 学科特异思维测验（Content-Specific CT） | 97 | 0.59 | 0.48 | 0.70 | — | |
 
-> [!effect-table]- 一级研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 领域特异性模型 vs 领域一般性模型拟合度对比 | 简单知识维度的[[Confirmatory Factor Analysis\|验证性因子分析]]模型拟合卡方值（CFA） | $N = 740$ | 领域特异性模型拟合更优 | 卡方差异 $\Delta\chi^2(10) = 245.56$ | $p < .001$ | 证明测量维度必须分学科独立构建，强有力支持领域特异性。 |
-
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | $N = 129$ 名跨年龄组样本 | 测量 5 个领域的[[Epistemological Understanding\|认识论理解]] | 跨领域的组合模式（Profile） | 有 83% 的个体呈现混合模式。例如，只有在物理和事实领域，多数个体才能找回评价论，而在价值观领域大比例停滞于多元论或绝对论。 | 跨领域反转规律极强 | 彻底排除了认知发展是领域一般性同步推进的假说。 |
+> | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | $N = 740$ | 领域特异性模型 vs 领域一般性模型拟合度对比 | 简单知识维度的[[Confirmatory Factor Analysis\|验证性因子分析]]模型拟合卡方值（CFA） | 领域特异性模型拟合更优；卡方差异 $\Delta\chi^2(10) = 245.56$ | $p < .001$ | 证明测量维度必须分学科独立构建，强有力支持领域特异性。 |
 
 > [!ma-table]- 一阶元分析特异性层级[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
