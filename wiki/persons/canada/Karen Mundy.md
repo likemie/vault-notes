@@ -7,7 +7,7 @@ summary: "加拿大著名比较教育学者，多伦多大学安大略教育研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,12 +46,13 @@ related_facts:
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Education International]]"
+  - "[[Global Campaign for Education]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论路径** 奠定了全球教育多边治理的政治经济学批判框架，深刻影响了国际比较教育学界对联合国机构和布雷顿森林机构的跨国分析。
 > - **政策路径** 作为 [[Global Partnership for Education|GPE]] 首席技术官，直接参与重塑了当代全球基础教育发展援助的资金筹措、效果监测与受援国教育部门计划审查准则。
-> - **社会倡导路径** 长期指导全球教师联合会（[[Education International]]）与全球教育运动（GCE）等民间网络开展政策问责。
+> - **社会倡导路径** 长期指导全球教师联合会（[[Education International]]）与[[Global Campaign for Education|全球教育运动]]（GCE）等民间网络开展政策问责。
 
 ---
 

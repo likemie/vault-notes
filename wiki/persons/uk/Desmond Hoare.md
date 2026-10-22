@@ -7,7 +7,7 @@ summary: "英国海军工程少将、大西洋学院创校校长，以共同任�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -19,7 +19,8 @@ tags:
   - field/international-education
   - theme/institution-building
   - theme/service-learning
-related_concepts: []
+related_concepts:
+  - "[[Teacher Support for Students]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -29,6 +30,7 @@ related_persons:
   - "[[Louis Mountbatten]]"
 related_facts:
   - "[[United World Colleges]]"
+  - "[[Global Campaign for Education]]"
   - "[[Founding of Atlantic College]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"
@@ -36,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -52,7 +54,7 @@ updated: 2026-10-22
 > - **1958 — 获选创校校长** 筹备委员会先于校址和资金确定领导者，因为校长的人格和判断会影响校址选择、课程形成及捐助者信任。霍尔的幽默、投入、倾听专家和工程实践能力，使他获得教师、首批多国学生与资助者信任。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 3–4)]]
 > - **1961–1962 — 建立学校制度** 参与选择圣多纳特城堡，与历史教师罗伯特·布莱克本（Robert Blackburn）组成实践领导与学术课程互补的团队，并推动学校于 1962 年开学。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 4–7)]]
 > - **开校初期 — 建立救援课程** 利用校园泳池、海岸和悬崖开展救生训练、海上救援与悬崖救援；相关服务到 1981 年被记为挽救约 190 条生命。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 6–9)]]
-> - **1967–1970 — 推动男女同校** 与妻子娜奥米·霍尔（Naomi Hoare）及多数教师支持录取女生。学校自 1967 年接收少量住在教师家中的走读女生，1970 年正式决定男女同校。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 5–6)]]
+> - **1967–1970 — 推动男女同校** 与妻子娜奥米·霍尔（Naomi Hoare）及多数[[Teacher Support for Students|教师支持]]录取女生。学校自 1967 年接收少量住在教师家中的走读女生，1970 年正式决定男女同校。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, Ch. 1, pp. 5–6)]]
 
 ---
 
@@ -90,7 +92,7 @@ updated: 2026-10-22
 
 > [!person-network] 关系网络
 > - **教育愿景** [[Kurt Hahn]] — 提出行动、共同服务与跨国和解原则。
-> - **学术课程** 罗伯特·布莱克本、[[Alec Peterson]] — 设计三门英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level）与辅助学院课程的组合。
+> - **学术课程** 罗伯特·布莱克本、[[Alec Peterson]] — 设计三门英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）与辅助学院课程的组合。
 > - **共同领导** 娜奥米·霍尔 — 共同推动学院由男子学校转向男女同校。
 > - **创校事件** [[Founding of Atlantic College|大西洋学院创办]]。
 > - **课程制度** 1962 年大西洋学院课程方案。

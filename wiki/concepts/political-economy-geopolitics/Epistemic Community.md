@@ -9,7 +9,7 @@ aliases:
 summary: "由彼得·哈斯（Peter Haas）界定、国际关系与公共政策学广泛使用的治理概念。指享有共同核心原则、因果信念、效度检验标准及政策关切的跨国专业专家网络；在缺乏超国家法律强制力与金融借贷制裁手段的情境下，跨国组织通过凝聚认知共同体确立知识霸权与议程设置权，成为远处掌舵的专业话语支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Technical Rationality]]"
   - "[[Value Neutrality]]"
+  - "[[Cognitive Authority]]"
   - "[[Analytical Stance]]"
   - "[[Geopolitics]]"
   - "[[Test Production]]"
@@ -54,13 +55,15 @@ related_facts:
   - "[[PISA]]"
   - "[[World Bank]]"
   - "[[OECD AHELO Project]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -153,7 +156,7 @@ updated: 2026-10-22
 > > - **[[Technical Rationality|技术理性]]主义立场** 倡导者坚称，由一流学者与专业统计官僚组成的共同体代表了人类理性的前沿，他们摆脱了狭隘的政党政治与利益集团纠缠，为全球公共品治理提供了最具公信力的数据基底。
 > > - **批判政策社会学立场** 批评者反驳，没有任何量化模型是纯粹[[Value Neutrality|价值中立]]的；[[OECD|经合组织]]的专家共同体排他性地吸纳新自由主义经济学与心理测量学派，系统性排斥社会学、哲学与本土文化视角，本质上是维系西方资本主义治理秩序的技术护法。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444, 451)]]
 >
-> > [!axis] 超国家认知权威 vs 民族国家教育民主主权之争
+> > [!axis] 超国家[[Cognitive Authority|认知权威]] vs 民族国家教育民主主权之争
 > > 未经民主选举的跨国专家网络深度介入国内政策，是否造成了民主合法性赤字。
 > >
 > > - **民主合法性[[Analytical Stance|批判立场]]** 学者严正指出，教育关涉民族国家公民培养与社会文化传承的根基；当政策制定权被拱手让渡给巴黎经合组织总部的匿名专家共同体时，本国民意与议会审议被深度架空。
@@ -167,4 +170,4 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|试题研发]]早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。
-> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341–343)]] — 分析经合组织、联合国教科文组织与世界银行顾问小组等超国家守门机构如何依托认知共同体界定证据层级与合法动员机制。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341–343)]] — 分析经合组织、[[UNESCO|联合国教科文组织]]与世界银行顾问小组等超国家守门机构如何依托认知共同体界定证据层级与合法动员机制。

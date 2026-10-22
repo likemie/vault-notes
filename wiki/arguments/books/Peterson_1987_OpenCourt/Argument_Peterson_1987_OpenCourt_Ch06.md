@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 36
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 43
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -32,15 +32,19 @@ part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[International Schools]]"
+  - "[[Teacher Support for Students]]"
   - "[[Advanced Placement Program]]"
-  - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
   - "[[Twelfth-Grade Slump]]"
+  - "[[Magnet Schools]]"
   - "[[General Education]]"
   - "[[International Education]]"
   - "[[Liberal Education]]"
   - "[[Achievement and Aptitude Tests]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Foreign Languages]]"
   - "[[Hawthorne Effect]]"
+  - "[[Service Learning]]"
   - "[[Creativity, Action, Service]]"
   - "[[Reliability]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -48,9 +52,11 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Heterogeneity]]"
   - "[[Preregistration]]"
+  - "[[Extracurricular Activities]]"
   - "[[Creativity]]"
   - "[[School Choice]]"
   - "[[Boarding Schools]]"
+  - "[[Teacher Collaboration]]"
 related_persons:
   - "[[Louis Mountbatten]]"
   - "[[Hyman Rickover]]"
@@ -63,6 +69,7 @@ related_facts:
   - "[[United World Colleges]]"
   - "[[International School of Geneva]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[Global Campaign for Education]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Gaokao]]"
   - "[[China Integrated Circuit Industry Investment Fund]]"
@@ -73,7 +80,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-01
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 ---
 
@@ -81,7 +88,7 @@ updated: 2026-10-22
 > 为什么 IB 在六年试验结束后没有主要沿精英预科学校或社区学院扩张，反而在 1980 年后迅速进入美国和加拿大的公立高中？地方课程权、教育改革需求、区域组织和教师实施能力如何共同解释这一转向？
 
 > [!claim] 核心主旨
-> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美的扩张不是[[International Schools\|国际学校]]模式的自然延伸。常春藤预科学校和社区学院两条预想路径相继失败后，公立高中成为主要载体。地方课程自主权允许学校自行采用外部课程，教育质量危机强化对学术挑战的需求，[[International Baccalaureate North America\|国际文凭北美公司]]（International Baccalaureate North America，IBNA）则把本地筹资、项目推广和教师支持连接起来。IB 因而从服务跨国流动学生的资格，转化为学术拔尖、学校差异化、族群融合和地区升学机会的本地改革工具（pp. 131–160）。
+> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美的扩张不是[[International Schools\|国际学校]]模式的自然延伸。常春藤预科学校和社区学院两条预想路径相继失败后，公立高中成为主要载体。地方课程自主权允许学校自行采用外部课程，教育质量危机强化对学术挑战的需求，[[International Baccalaureate North America\|国际文凭北美公司]]（International Baccalaureate North America，IBNA）则把本地筹资、项目推广和[[Teacher Support for Students|教师支持]]连接起来。IB 因而从服务跨国流动学生的资格，转化为学术拔尖、学校差异化、族群融合和地区升学机会的本地改革工具（pp. 131–160）。
 
 > [!phase] 北美扩张的四个阶段
 >
@@ -125,7 +132,7 @@ updated: 2026-10-22
 
 > [!factors] 推动北美扩张的五项条件
 > - **地方课程自主权（local curriculum autonomy）** 美国和加拿大的课程与成绩标准主要由学校和学区掌握，公立高中无需等待全国课程改革即可采用 IB。相同机制在中央课程或统一考试体系中较难出现（pp. 134–136）。
-> - **[[Advanced Placement Program\|大学先修课程项目]]（Advanced Placement Program，AP）** AP 已为高中提供外部课程与大学分班考试的制度先例，也帮助大学理事会与 IB 建立合作；IB 的差异在于整套课程、[[Theory of Knowledge\|知识论]]、[[Extended Essay\|拓展论文]]和社会服务，而非学生自选若干强项科目（pp. 136, 139–140）。
+> - **[[Advanced Placement Program\|大学先修课程项目]]（Advanced Placement Program，AP）** AP 已为高中提供外部课程与大学分班考试的制度先例，也帮助大学理事会与 IB 建立合作；IB 的差异在于整套课程、知识论、[[Extended Essay\|拓展论文]]和社会服务，而非学生自选若干强项科目（pp. 136, 139–140）。
 > - **教育质量危机（crisis of educational standards）** 对“[[Twelfth-Grade Slump\|十二年级滑坡]]”、优秀学生缺少挑战以及学术标准下降的担忧，为学校寻找严格课程提供动机；1983 年的《[[A Nation at Risk 1983\|国家处于危险中]]》把这一问题推向公共议程（pp. 136–139）。
 > - **区域法人化（regional incorporation）** [[International Baccalaureate North America\|IBNA]] 作为纽约非营利法人可向北美基金会募资、聘用高层董事并为本地推广编列预算，同时由日内瓦继续控制课程与考试标准（pp. 140–147）。
 > - **教师实施网络（teacher implementation network）** 介绍会促成学校考虑申请，培训工作坊则让有经验教师、考官与新校教师分享课程知识。教师支持与教师额外劳动之间的平衡决定采用能否持续（pp. 149–152）。
@@ -136,7 +143,7 @@ updated: 2026-10-22
 > |---|---|---|
 > | **学术选择** | IB 为学术能力较强、准备升学的学生提供完整挑战。 | 完整文凭在多数公立高中只覆盖少数学生，单科证书和预备课程才扩大参与面（pp. 139–140, 153–160）。 |
 > | **区域自主** | IBNA 需要独立筹资和本地推广能力。 | 课程、考试与国际标准仍需由日内瓦统一控制，以免区域扩张变成课程“美国化”（pp. 140–147）。 |
-> | **扩张与公平** | 磁石学校可借 IB 跨越社区和族群边界。 | 严格课程本身不能保证不同群体平等进入，也不能由学校荣誉或升学率单独证明因果效果（pp. 154–156）。 |
+> | **扩张与公平** | [[Magnet Schools\|磁石学校]]可借 IB 跨越社区和族群边界。 | 严格课程本身不能保证不同群体平等进入，也不能由学校荣誉或升学率单独证明因果效果（pp. 154–156）。 |
 
 > [!logic-map]- 北美扩张机制
 > ```mermaid
@@ -177,7 +184,7 @@ updated: 2026-10-22
 > [!contrast-table] 美国与英国精英学校的采用条件
 > | 判断维度 | 美国安多佛、埃克塞特等预科学校 | 英国公学 | 对 IB 采用的含义 |
 > |---|---|---|---|
-> | **课程自主能力** | 私立学校已有强教师队伍、资源和较高课程自主权；安多佛判断本校可以设计同等质量的课程 | 普通教育证书（GCE）考试对课程形成更强外部约束 | 美国学校缺少必须借助 IB 才能突破的课程壁垒；英国学校的替代需求理论上更强 |
+> | **课程自主能力** | 私立学校已有强教师队伍、资源和较高课程自主权；安多佛判断本校可以设计同等质量的课程 | 普通教育证书（[[Global Campaign for Education\|GCE]]）考试对课程形成更强外部约束 | 美国学校缺少必须借助 IB 才能突破的课程壁垒；英国学校的替代需求理论上更强 |
 > | **升学声誉** | 校名本身已向大学传递学术质量，成熟推荐与升学网络进一步降低新资格的边际价值 | 同样拥有声誉，但仍要在全国考试制度内处理资格问题 | IB 最能提供的外部信誉，在精英学校原有信誉面前不再稀缺 |
 > | **大学分班渠道** | 大学理事会的 AP 学分或分班，加上学校声望，比完整 IB 文凭更直接 | GCE 体系与大学入学的关系更集中、更制度化 | 美国学校可以选择单科 AP 收益，而不必承担完整 IB 的跨学科结构 |
 > | **实际结果** | 接触和研究未转化为规模采用；作者写作时美国只有一所此类学校开设 IB | 即使制度理由较强，英国也只有一所此类学校开设 IB | 兴趣、课程质量与制度需要之间存在明显断裂（p. 132） |
@@ -275,8 +282,8 @@ updated: 2026-10-22
 > [!evidence-grid] AP 为何既帮助 IB，又没有取代 IB
 > - **共同的制度接口：** 两者都允许高中教授外部设计的课程，并由校外考试者评分；学校和大学因此不必重新学习“外部课程＋大学分班”的基本规则。
 > - **不同的选择单位：** AP 学生可以挑选自己擅长或喜欢的科目参加考试；IB 文凭学生必须面对覆盖完整课程的外部评价。
-> - **不同的整合要求：** IB 还以[[Theory of Knowledge\|知识论]]整合学习，以[[Extended Essay\|拓展论文]]训练独立研究，并要求社区服务；挑战来自课程组合而不只来自单科难度。
-> - **不同的学校影响范围：** IB 正式考试虽只覆盖十一、十二年级，入轨准备会向更低年级延伸。例如其欧洲语言标准预设至少四年外语学习，学校必须提前调整课程序列。
+> - **不同的整合要求：** IB 还以知识论整合学习，以[[Extended Essay\|拓展论文]]训练独立研究，并要求社区服务；挑战来自课程组合而不只来自单科难度。
+> - **不同的学校影响范围：** IB 正式考试虽只覆盖十一、十二年级，入轨准备会向更低年级延伸。例如其欧洲语言标准预设至少四年[[Foreign Languages|外语学习]]，学校必须提前调整课程序列。
 > - **不同的身份功能：** 已经普及的 AP 是熟悉选择；希望处于改革前沿、建立独特定位的磁石学校则可借 IB 与其他学校区分，密尔沃基的鲁弗斯·金高中和芝加哥的林肯公园高中即属此类（p. 139）。
 
 > [!boundary]- 完整课程既是 IB 的附加价值，也是采用边界
@@ -308,7 +315,7 @@ updated: 2026-10-22
 > | **外语／第二语言** | 至少两年外语 | 第二语言为必修领域，较[[Gaokao\|高考]]试标准还要求更早开始准备 | 回应北美外语与国际研究不足，并把改革延伸到 IB 两年课程之前 |
 > | **数学、社会研究与科学** | 三年数学、三年社会研究、三年科学 | 数学、个体与社会、实验科学构成另外三个必修领域 | 五个核心领域与报告高度接近，学校无需从零拼接改革科目 |
 > | **计算机科学** | 《国家处于危险中》另建议半年计算机科学 | 当时在 IB 中属于可选内容 | 显示两者方向接近却并非完全相同，不能把报告误写成 IB 蓝本 |
-> | **服务学习** | 《高中》提出“新的卡内基服务单元” | [[Creativity, Action, Service\|创造、审美与社会服务]]（CASS）要求 | 学术严格性和社会参与被置于同一课程框架，而非互相替代 |
+> | **[[Service Learning\|服务学习]]** | 《高中》提出“新的卡内基服务单元” | [[Creativity, Action, Service\|创造、审美与社会服务]]（CASS）要求 | 学术严格性和社会参与被置于同一课程框架，而非互相替代 |
 > | **高中独立项目** | 围绕重要社会问题、综合学术核心多个领域完成书面论文 | [[Extended Essay\|拓展论文]]及其中可能体现的[[Theory of Knowledge\|知识论]]目标 | 为十二年级提供跨学科、独立且可见的毕业阶段任务（p. 138） |
 
 > [!warrant]- 改革报告提供问题语言，IB 提供可立即组织的课程结构
@@ -587,7 +594,7 @@ updated: 2026-10-22
 > [!case] Ashbury：把国际课程嵌入安大略省毕业制度
 > - **学校背景** Ashbury 于 1891 年在渥太华创办，最初仿照英国公学，学生由 17 人增至约 450 人并含寄宿生；学生虽以加拿大人为主，也来自加勒比、中国、东欧、香港、拉丁美洲、马来西亚、中东、斯堪的纳维亚、英国和美国。
 > - **采用动机** 1975 年引入 IB，学校强调课外学习动机、对资优学生的挑战、国际成绩标准、大学承认、分班利益和结构化课程，并明确把 IB 理解为教育体系而非一组考试。
-> - **课程嵌入** 安大略省高中毕业要求高度分权并依赖教师评价，学生可以用共同课程同时取得省级与国际资格。教师把 [[Theory of Knowledge\|TOK]] 发展为十三年级哲学课程，获得省教育部学分承认；完整文凭作为核心，外围学生参加单科 IB 考试并计入省毕业课程。
+> - **课程嵌入** 安大略省高中毕业要求高度分权并依赖教师评价，学生可以用共同课程同时取得省级与国际资格。教师把 TOK 发展为十三年级哲学课程，获得省教育部学分承认；完整文凭作为核心，外围学生参加单科 IB 考试并计入省毕业课程。
 > - **规模变化** 1985 年十二年级 60 人中，12 人为完整文凭考生，64 人次注册单科考试；1986 年[[Preregistration\|预注册]]显示完整文凭可能增至 20 人。
 > - **解释边界** Ashbury 是收费私立学校且只有小规模奖学金，却与公立磁石学校共享学术卓越目标。案例说明不同财政形式可以采用同一课程，不能据此推断参与机会相同（pp. 156–157）。
 
@@ -600,7 +607,7 @@ updated: 2026-10-22
 
 > [!case] Southfield High School：1979 年在富裕郊区形成 IB 与 AP 并行轨道
 > - **学校背景** 密歇根 Southfield Senior High School 创办于 1951 年，学生超过 3,000 人，具有多族群、多种族和多宗教构成；十一、十二年级近 700 人，开设法语、德语、希伯来语、西班牙语和拉丁语。
-> - **采用动机** 1979 年，在课程副学监威廉·克里茨迈尔（William Kritzmire）建议下加入 IB，以满足学术能力较强学生的需要。IB 与学校五项目标相配，包括扎实学术基础、学会学习、完整课外活动、政治意识、社会化及职业经验。
+> - **采用动机** 1979 年，在课程副学监威廉·克里茨迈尔（William Kritzmire）建议下加入 IB，以满足学术能力较强学生的需要。IB 与学校五项目标相配，包括扎实学术基础、学会学习、完整[[Extracurricular Activities|课外活动]]、政治意识、社会化及职业经验。
 > - **课程嵌入** 学校同时提供 IB 和 AP，完整文凭只覆盖十二年级较小比例。1984 年最大 AP 科目为美国史 25 人，最大 IB 科目为高级第一语言英语 19 人。
 > - **结果记录** 1984 年 11 名完整文凭考生中 8 人通过，另有 9 人参加单科证书；约 65% 毕业生进入高等教育或培训。学校同年成为联邦政府认定的 202 所“示范高中”之一。
 > - **升学去向** 多数 IB 或 AP 毕业生进入密歇根大学安娜堡分校，少数前往康奈尔、达特茅斯或哈佛；当地学生主要在美国国内升学，IB 的国际性并不必然表现为跨国大学流动。
@@ -687,7 +694,7 @@ updated: 2026-10-22
 > IBNA 没有复制一种标准学校模式，而是用介绍会帮助学校识别自身问题，用工作坊教授共同课程和评价标准，再允许学校把项目嵌入不同的毕业制度、磁石政策、语言体系和高级课程组合。标准化发生在课程与考试层面，地方化发生在采用理由与组织方式层面；两者的结合解释了 IB 为何能跨越如此不同的学校环境。
 
 > [!conclusion] 多样案例共享的是组织承诺而非学校类型
-> 北美 IB 学校可以是大型郊区高中、去隔离磁石学校、边境小城学校、私立[[Boarding Schools\|寄宿学校]]、双语国际学校或设有多种荣誉课程的综合高中。共同点不是治理形式、社区财富、学生规模或是否已有 AP，而是管理者和教师愿意把 IB 目标转化为低年级准备、排课、外语连续学习、教师协作、考试和学生支持。启动资金让区域组织先于收入行动，介绍会把学校问题连接到项目，工作坊把意愿转化为实施能力，先行学校又成为下一批学校的培训者和示范点。多样性扩大了项目的适用范围，也意味着本章材料只能解释扩张机制，不能据所选案例推出统一的“IB 学校平均效果”（pp. 148–160）。
+> 北美 IB 学校可以是大型郊区高中、去隔离磁石学校、边境小城学校、私立[[Boarding Schools\|寄宿学校]]、双语国际学校或设有多种荣誉课程的综合高中。共同点不是治理形式、社区财富、学生规模或是否已有 AP，而是管理者和教师愿意把 IB 目标转化为低年级准备、排课、外语连续学习、[[Teacher Collaboration|教师协作]]、考试和学生支持。启动资金让区域组织先于收入行动，介绍会把学校问题连接到项目，工作坊把意愿转化为实施能力，先行学校又成为下一批学校的培训者和示范点。多样性扩大了项目的适用范围，也意味着本章材料只能解释扩张机制，不能据所选案例推出统一的“IB 学校平均效果”（pp. 148–160）。
 
 > [!finding-cards] 章节发现
 > 1. **扩张路径通过失败被发现** 精英预科学校与社区学院没有形成规模，地方自主的公立高中才成为北美增长的主要载体（pp. 131–140）。
@@ -702,7 +709,7 @@ updated: 2026-10-22
 > - **27.0% / 51.5% / 10.3%** 1984/85 年 [[International Baccalaureate|IBO]] 收入中考试费、学校订阅与政府贡献的占比（p. 147）。
 
 > [!citation-card] 完整课程与单科挑战的区别
-> 学生选择擅长的 AP 科目参加考试是一种挑战；准备覆盖完整课程的外部考试、以[[Theory of Knowledge\|知识论]]整合学习、撰写[[Extended Essay\|拓展论文]]并参加社区服务，则是另一种挑战。（p. 139）
+> 学生选择擅长的 AP 科目参加考试是一种挑战；准备覆盖完整课程的外部考试、以知识论整合学习、撰写[[Extended Essay\|拓展论文]]并参加社区服务，则是另一种挑战。（p. 139）
 >
 > *It is one thing for students to prepare for AP examinations in subjects they like and do well in. It is another kind of challenge to prepare for external examinations that cover an entire curriculum, integrate one's learning in the Theory of Knowledge course, write an extended essay and perform community service.*
 

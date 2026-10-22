@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度。既包含以跨文化理解为目的的教育计划，也包含全球化推动的流动市场扩张，以及当代发展型国家依托地缘战略资助推进南南合作的新型治理形态。"
 type: concept
 domain: "higher-education"
-related_count: 65
+related_count: 63
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -28,11 +28,9 @@ related_concepts:
   - "[[People-to-People Connectivity]]"
   - "[[General Education]]"
   - "[[Patriotic Education]]"
-  - "[[Theory of Knowledge]]"
   - "[[Reliability]]"
   - "[[Further Education]]"
   - "[[Educational Multilateralism]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Washington Consensus]]"
   - "[[Beijing Consensus]]"
   - "[[Innovation Park]]"
@@ -50,15 +48,14 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
   - "[[Pluri-Scalar Governance]]"
-related_methods:
-  - "[[Case Study]]"
-  - "[[Effect Size]]"
+related_methods: []
 related_persons:
   - "[[Alec Peterson]]"
   - "[[Robert Arnove]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[PISA]]"
+  - "[[Global Campaign for Education]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[World Trade Organization]]"
@@ -69,6 +66,7 @@ related_facts:
   - "[[International Schools Examination Syndicate]]"
   - "[[International Monetary Fund]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[National Education]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[OECD]]"
   - "[[Education International]]"
@@ -87,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -207,7 +205,7 @@ updated: 2026-10-22
 学校里的教育安排，需要进一步取得学生与大学都能使用的制度位置。
 
 > [!claim] 皮特森
-> **国际课程的制度支柱超越单一教学大纲** 大西洋学院采用英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level）可以暂时维持共同教学，却无法解决国家偏向、语言公平、学科广度、录取时序和学生回国升学。[[International Baccalaureate|国际文凭]]（IB）随后把教师倡议、独立法律组织、连续资金、六学科、[[Theory of Knowledge|知识论]]（TOK）、试验学校、家庭风险和大学有限承认连接起来，才使国际教育从共同生活实验扩展为可用于升学的资格。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 9–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 17–31)]]
+> **国际课程的制度支柱超越单一教学大纲** 大西洋学院采用英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）可以暂时维持共同教学，却无法解决国家偏向、语言公平、学科广度、录取时序和学生回国升学。[[International Baccalaureate|国际文凭]]（IB）随后把教师倡议、独立法律组织、连续资金、六学科、知识论（TOK）、试验学校、家庭风险和大学有限承认连接起来，才使国际教育从共同生活实验扩展为可用于升学的资格。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 9–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 17–31)]]
 
 课程目标取得资格位置以后，还需要评价规则保护其实际内容。
 
@@ -283,7 +281,7 @@ updated: 2026-10-22
 主导机构与财政、贸易规则的变化，会改变国家能够采用的教育政策。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
-> **多边治理的主导规则发生变化** 罗伯特·阿诺夫（Robert Arnove）梳理蒙迪（Mundy, 1998, 1999）对[[Educational Multilateralism|国际教育多边主义]]历史演化的分析指出，国际教育同时涉及跨国人员流动、文化理解和嵌入全球政治经济格局的制度化治理。战后初期（1945–1965 年），以[[UNESCO|联合国教科文组织]]（[[UNESCO]]）为主导的有限再分配性多边主义强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；1970 年代全球南方国家对不平等秩序展开抗争；自 1980 年代起，伴随债务危机与新自由主义崛起，国际教育治理转向以[[World Bank|世界银行]]为核心的防卫性与规训性多边主义，放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（WTO）成立并推行[[GATS and Trade in Education Services|服务贸易总协定]]（GATS），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务受到商品化规则的约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> **多边治理的主导规则发生变化** 罗伯特·阿诺夫（Robert Arnove）梳理蒙迪（Mundy, 1998, 1999）对[[Educational Multilateralism|国际教育多边主义]]历史演化的分析指出，国际教育同时涉及跨国人员流动、文化理解和嵌入全球政治经济格局的制度化治理。战后初期（1945–1965 年），以[[UNESCO|联合国教科文组织]]（[[UNESCO]]）为主导的有限再分配性多边主义强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；1970 年代全球南方国家对不平等秩序展开抗争；自 1980 年代起，伴随债务危机与新自由主义崛起，国际教育治理转向以[[World Bank|世界银行]]为核心的防卫性与规训性多边主义，放弃再分配承诺，通过结构调整方案推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（WTO）成立并推行[[GATS and Trade in Education Services|服务贸易总协定]]（GATS），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务受到商品化规则的约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 ---
 
@@ -334,7 +332,7 @@ updated: 2026-10-22
 > - **国家教育的基线（20 世纪中期以前）** 中小学通常由地方税收支持并反映本地选民价值，大学名称、教育研究和资格制度也深嵌地区或国家。早期海外学校多是殖民或侨民前哨，把母国课程移植到境外，而非建立真正共同的国际课程。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 3–5, 19–24)]]
 > - **共同生活实验与战后有限再分配多边主义（1945–1970 年代）** [[UNESCO|联合国教科文组织]]（[[UNESCO]]）主导战后多边主义，强调教育人道价值与社会福利，支持新兴民族国家扫盲与公立教育建设。同时，[[International Schools|国际学校]]与人员流动扩大；1950–1960 年代大西洋学院开展跨文化实验，国际学校考试联盟（[[International Schools Examination Syndicate|ISES]]）与 [[International Baccalaureate|IBO]] 推动课程、考试与大学承认网络建立；1970 年首批学生获 IB 成绩，1976 年海牙政府间会议将实验确立为常设国际组织。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, pp. 61–97)]]
 > - **学会建制化与国际教育合作前导期（1956–1960 年代）** 1956 年比较教育学会成立，后来更名为[[Comparative and International Education Society|比较与国际教育学会]]（CIES），学术性的比较教育（理论解释）与实践性的国际教育（国际合作、发展援助与师生交流）走向制度化整合；诺亚与埃克斯坦（Noah & Eckstein, 1969）将国际教育合作正式确立为现代比较教育学科发展的重要前导阶段。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 126–127)]]
-> - **债务危机与防卫性规训多边主义（1980 年代）** 全球南方债务危机爆发后，国际教育治理主导权自联合国教科文组织转向[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]；多边机构放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩、削减教育预算与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
+> - **债务危机与防卫性规训多边主义（1980 年代）** 全球南方债务危机爆发后，国际教育治理主导权自联合国教科文组织转向[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]；多边机构放弃再分配承诺，通过结构调整方案推行财政紧缩、削减教育预算与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
 > - **大众流动、[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 贸易规制与全球比较扩张（1990 年代至 2000 年代初）** 国际[[Student Mobility|学生流动]]与[[International Branch Campus|海外分校]]急剧增长；1995 年世贸组织成立并实施服务贸易总协定（GATS），国际教育正式确立为跨国服务贸易门类，推动资格互认与边境壁垒清除；2000 年 [[PISA]] 建立跨国学生评价，2003 年[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）等大学排名系统将大学置入共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–18, 22–28)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–111)]]
 > - **[[Hegemony|文化霸权]]、再生产批判与主权解放反思（21 世纪初至 2010 年代）** 规模扩张暴露出跨文化师资匮乏与西方课程预设偏向，弱小受援国在超国家经贸规制下丧失教育宏观调控权；[[Argument_Rust_2009_Reflections|Rust et al. (2009)]] 揭示跨国教育援助与合作合谋资本主义依附再生产的缺陷，重申主权自决与人道主义解放初心；国际教育研究重心从单纯的流动可行性转向审视[[Knowledge Production|知识生产]]权力、主权再谈判与全球教育正义。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18, 25–34)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–112)]]; [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 > - **发展型国家地缘战略资助模式与南南国际教育新[[Paradigm|范式]]（2020 年代）** [[Argument_Woo_2023_HEP|Woo (2023)]] 系统剖析中国“[[Belt and Road Initiative|一带一路]]”跨国高等教育布局，揭示国际教育从西方新自由主义主导的高额学费出口创汇市场，拓展为由国家全额奖学金与基建产能配套支撑的地缘战略公法工具，并实证诊断出其依附于经济补贴与地缘互信的内在脆弱性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–694)]]
@@ -353,7 +351,7 @@ updated: 2026-10-22
 >
 > > [!axis] 公共人权福利 vs 跨国服务贸易商品
 > > 国际教育应当是[[UNESCO|联合国教科文组织]]倡导的普惠人权与公共福利，还是受[[World Trade Organization|世贸组织]]（WTO）及跨国资本规制的可盈利商业服务？
-> > - **UNESCO 与战后多边主义立场** 倡导教育是普惠社会福利与普遍受教育权，主张国际社会应支持发展中国家构建独立的公共国民教育体系。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
+> > - **UNESCO 与战后多边主义立场** 倡导教育是普惠社会福利与普遍受教育权，主张国际社会应支持发展中国家构建独立的公共[[National Education|国民教育]]体系。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
 > > - **WTO / [[GATS and Trade in Education Services|GATS]] 与跨国教育市场化立场** 将教育界定为可跨国自由流动的服务贸易门类，主张消除边界准入与学历互认壁垒以扩大全球教育市场规模，却削弱了弱小国家的公共教育调控能力。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–111)]]
 >
 > > [!axis] 公共教育还是跨国市场
@@ -365,7 +363,7 @@ updated: 2026-10-22
 > > [!axis] 跨国发展援助推进现代化 vs 中心-边缘依附与强制再生产
 > > 战后国际教育援助与学术交流是将边缘国家导向现代化的发展支持机制，还是西方中心国家对边缘国家实施资本主义依附与不平等制度的强制再生产？
 > > - **现代化与[[Human Capital Theory|人力资本]]视角** 认为国际教育技术援助和资本输入能够帮助发展中国家克服教育资源不足，推动经济与制度发展。
-> > - **[[Dependency Theory|依附论]]与强制再生产批判视角** 揭示国际教育援助往往附带新自由主义[[Structural Adjustment Programs|结构调整方案]]与意识形态前置条件，弱化受援国教育主权；[[Argument_Rust_2009_Reflections|Rust et al. (2009)]] 指出，古巴等国通过坚持主权自决推进了[[Education for All|全民教育]]（EFA），表明人道主义与社会正义才是国际教育合作的核心，必须警惕中心国家通过援助实施强制再生产。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
+> > - **[[Dependency Theory|依附论]]与强制再生产批判视角** 揭示国际教育援助往往附带新自由主义结构调整方案与意识形态前置条件，弱化受援国教育主权；[[Argument_Rust_2009_Reflections|Rust et al. (2009)]] 指出，古巴等国通过坚持主权自决推进了[[Education for All|全民教育]]（EFA），表明人道主义与社会正义才是国际教育合作的核心，必须警惕中心国家通过援助实施强制再生产。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 >
 > > [!axis] 新自由主义出口创汇准市场 vs 发展型国家地缘战略公法推进
 > > 争论国际教育应被定位为基于市场学费信号的教育出口创汇产业，还是服务于国家战略走廊与[[People-to-People Connectivity|民心相通]]的公法资助网络。

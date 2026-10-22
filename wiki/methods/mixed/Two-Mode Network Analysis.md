@@ -11,7 +11,7 @@ summary: "用于刻画并分析两类异质性行动实体（如决策人员与�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 21
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Latin American Campaign for the Right to Education]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -72,7 +73,7 @@ updated: 2026-10-23
 > - **输出形式** 二部图拓扑图谱、关联发生矩阵、度中心度分布表、网络密度系数与独立连通分量子图。
 
 > [!citation-card] 两模证据咨询网络与拓扑结构
-> 为识别网络中最核心的证据源，计算了每个证据源的度中心度，即提名使用该证据源的受访者总数。除拉丁美洲 CLADE 这一区域机构外，调阅频次最高的机构全为国际多边实体，体现了国际多边组织在全局视角下作为各方最大公约数的显赫地位。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23–24)]]
+> 为识别网络中最核心的证据源，计算了每个证据源的度中心度，即提名使用该证据源的受访者总数。除拉丁美洲 [[Latin American Campaign for the Right to Education|CLADE]] 这一区域机构外，调阅频次最高的机构全为国际多边实体，体现了国际多边组织在全局视角下作为各方最大公约数的显赫地位。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23–24)]]
 >
 > *To identify the most central sources in the network, we calculated the degree centrality of a source, which equals the number of respondents indicating that they use the source... It may not be surprising that these most central sources were all international, except one regional source—CLADE—because international sources such as [[UNESCO]], [[OECD]], the [[World Bank]], and [[UNICEF]] are common denominators for all respondents from the global perspective.*
 

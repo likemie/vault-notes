@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[UNESCO]]"
+  - "[[Center for Rapid Evidence Synthesis]]"
   - "[[Global Education Cooperation Mechanism]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
@@ -79,7 +80,7 @@ updated: 2026-10-23
 ---
 
 > [!finding-cards] 核心业务与中介运作支柱
-> - **国家知识转化平台（[[Research Translation|Knowledge Translation]] Platforms, KTPs）** 在成员国教育部委、国家卫生部或顶尖大学内部创设专职多学科转化团队，直接参与国家政策生命周期的前置论证（如乌干达马凯雷雷大学 ACRES 中心）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 35–36)]]
+> - **国家知识转化平台（[[Research Translation|Knowledge Translation]] Platforms, KTPs）** 在成员国教育部委、国家卫生部或顶尖大学内部创设专职多学科转化团队，直接参与国家政策生命周期的前置论证（如乌干达马凯雷雷大学 [[Center for Rapid Evidence Synthesis|ACRES]] 中心）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 35–36)]]
 > - **政策证据简报（Evidence Briefs for Policy）** 区别于学术专著，简报遵循标准化框架系统提炼问题实质、备选干预策略、执行阻碍与本地可行性成本核算。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34, 82)]]
 > - **避风港审议性政策对话（Safe Haven Deliberative Dialogues）** 按照查塔姆研究所规则（Chatham House Rule）举办闭门研讨，在不公开言论归属的安全环境下，促进卫生官员、临床科学家与基层群体面对面坦诚交换隐性实践知识。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34, 82)]]
 > - **快速[[Research Synthesis|证据综合]]（Rapid Evidence Synthesis）机制** 针对突发公共卫生事件与内阁紧迫立项需求，在数天至数周内快速完成高质量[[Systematic Review|系统综述]]的提炼与本土转化交付。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 35, 82)]]

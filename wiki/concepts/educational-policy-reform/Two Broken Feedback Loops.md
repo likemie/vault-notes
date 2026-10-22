@@ -8,10 +8,10 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西等学者于 2024 年提出的教育知识治理诊断概念，揭示了全球教育实证海量积累与政策有效吸纳匮乏并存的结构性根源，即横向的研究生产端与政策决策端断裂，以及纵向的全球集中生产端与国家本土需求端断裂。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-policy-reform
   - theme/evidence-informed-policy
@@ -41,6 +41,8 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Global Education Monitoring Report]]"
   - "[[SUMMA]]"
+  - "[[Latin American Campaign for the Right to Education]]"
+  - "[[Africa Network Campaign on Education for All]]"
   - "[[Global Education Cooperation Mechanism]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
@@ -57,7 +59,7 @@ updated: 2026-10-23
 > - **用途** 帮助研究者诊断为何海量发布的国际最佳实践报告无法转化为具体国家的改革成效，破除将证据转化等同于单向推送的[[Technical Rationality|技术理性]]幻想。
 > - **边界** 聚焦于宏观与中观教育知识生态系统的流动梗阻，不直接解释课堂教学情境中师生微观互动的即时反馈。
 
-> [!def] Two Broken Feedback Loops
+> [!def] Two Broken [[Feedback]] Loops
 > 双重反馈回路断裂（Two Broken [[Feedback]] Loops）是吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景战略审查中确立的诊断模型。该概念系统解释了当代教育治理在面临[[Surplus of Evidence|证据过剩]]的同时却陷入政策有效利用赤字的深层机理：知识流动在横向维度上受阻于学术研究生产端（PRE-4-[[Patient and Public Involvement|PPI]]）与政策决策使用端（URE-4-PPI）之间的节奏与利益分歧；在纵向维度上受阻于全球集中供给平台与国家本土情境化需求之间的空间阻隔。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 12–14)]]
 
 > [!citation-card] 全球证据供需中的双重反馈阻断
@@ -117,7 +119,7 @@ updated: 2026-10-23
 > 探讨如何通过组织架构重组来连接全球多边资源与边缘国家的本土孤岛。
 
 > [!claim] Steiner-Khamsi, G. et al.
-> **区域枢纽的上下双向转译功能** 课题研究团队论证，全球证据生态拓扑网络呈现出极度极化格局，超过半数的国家本土机构处于彼此孤立的边缘状态。全球多边机构无法逐一深入处理数百个主权国家的[[Heterogeneity|异质性]]情境，最可行的治理路径是授权并资助已在地方具备公信力的区域性组织（如拉美地区的 [[SUMMA]]、CLADE 或非洲地区的 ANCEFA）。这些区域枢纽向下汇聚本土政策需求与优先议题，向上调取并重新情境化全球公共知识产品，从而充当修复第二重反馈回路断裂的长效制度中枢。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23–24, 43–47)]]
+> **区域枢纽的上下双向转译功能** 课题研究团队论证，全球证据生态拓扑网络呈现出极度极化格局，超过半数的国家本土机构处于彼此孤立的边缘状态。全球多边机构无法逐一深入处理数百个主权国家的[[Heterogeneity|异质性]]情境，最可行的治理路径是授权并资助已在地方具备公信力的区域性组织（如拉美地区的 [[SUMMA]]、[[Latin American Campaign for the Right to Education|CLADE]] 或非洲地区的 [[Africa Network Campaign on Education for All|ANCEFA]]）。这些区域枢纽向下汇聚本土政策需求与优先议题，向上调取并重新情境化全球公共知识产品，从而充当修复第二重反馈回路断裂的长效制度中枢。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23–24, 43–47)]]
 
 ---
 

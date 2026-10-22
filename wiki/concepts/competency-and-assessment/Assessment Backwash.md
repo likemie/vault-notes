@@ -8,16 +8,17 @@ aliases:
 summary: "评估任务、评分规则、成绩权重及其利害关系提前进入教学与学习决策，进而改变实际课程的机制；方向取决于获分活动与课程目标是否一致，强度取决于后果、权重、任务组合和制度环境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/assessment
   - theme/learning
   - level/higher-ed
 related_concepts:
   - "[[Homework]]"
+  - "[[Learning Strategies]]"
   - "[[Dialogue in Education]]"
   - "[[Praxis]]"
   - "[[Reliability]]"
@@ -38,10 +39,12 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Classroom Observation]]"
   - "[[Pilot Testing]]"
+related_facts:
+  - "[[Global Campaign for Education]]"
 confidence: high
 status: draft
 created: 2026-08-01
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -51,7 +54,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念的三个核心问题
 > - **评价发出了什么信号** 题型、时间限制、评分标准和权重共同说明哪些表现会得到回报。
-> - **师生怎样响应信号** 教师调整内容覆盖、课堂活动与[[Homework\|作业]]，学生重新分配精力并选择学习策略。
+> - **师生怎样响应信号** 教师调整内容覆盖、课堂活动与[[Homework\|作业]]，学生重新分配精力并选择[[Learning Strategies|学习策略]]。
 > - **响应产生什么课程后果** 正式目标可能获得制度保护，也可能被猜题、快速回忆或标准答案训练挤压。
 
 > [!boundary]- 与反馈、应试行为和学习结果的边界
@@ -145,7 +148,7 @@ updated: 2026-10-22
 > 5. **约束** 成本、评分一致性、出分速度和其他考试会怎样改变实施？
 
 > [!chain-link] 建设性反拨的设计顺序
-> 先把课程目标表达为可观察的表现，再选择能够引出这些表现的任务；随后配置不同证据和权重，避免方便计分的任务垄断课程；最后检查教师实际教学、学生学习策略和时间配置是否发生预期变化。[[Constructive Alignment\|建构性对齐]]解决目标、活动与评价的一致性，反拨分析继续追踪这种一致性进入真实课堂后的行为后果。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 68–74)]]
+> 先把课程目标表达为可观察的表现，再选择能够引出这些表现的任务；随后配置不同证据和权重，避免方便计分的任务垄断课程；最后检查教师实际教学、学生[[Learning Strategies|学习策略]]和时间配置是否发生预期变化。[[Constructive Alignment\|建构性对齐]]解决目标、活动与评价的一致性，反拨分析继续追踪这种一致性进入真实课堂后的行为后果。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 68–74)]]
 
 > [!warning] 预期反拨需要由实施证据检验
 > 设计者可以根据题型推断可能出现的备考行为，却不能由任务形式直接断定每间课堂都会产生同样结果。检查反拨需要观察教学内容、课堂互动、学生策略、[[Homework\|作业]]与课时怎样变化，并区分短期备考调整和较持久的学习取向。IB 早期材料充分记录了设计判断，系统[[Classroom Observation|课堂观察]]和长期效果证据仍然有限。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 51–59)]]
@@ -157,7 +160,7 @@ updated: 2026-10-22
 ### IB 语言 A：任务要求改变文学教学
 
 > [!case] 国家评价传统形成三种备考方向
-> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）语言与文学小组认同广泛阅读、个人表达、文学鉴赏、道德判断与审美判断等目标，评价形式却存在明显分歧。英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level）通常要求考生在两小时半内回答四至五道复杂题，每题不足三十分钟，也奖励快速、整洁而清晰的书写。法国和德国常给出四至五小时完成一篇作文或未见诗歌分析，并辅以口试；美国方案则是三篇各一小时的文学论文（pp. 50–52）。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 50–52)]]
+> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）语言与文学小组认同广泛阅读、个人表达、文学鉴赏、道德判断与审美判断等目标，评价形式却存在明显分歧。英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）通常要求考生在两小时半内回答四至五道复杂题，每题不足三十分钟，也奖励快速、整洁而清晰的书写。法国和德国常给出四至五小时完成一篇作文或未见诗歌分析，并辅以口试；美国方案则是三篇各一小时的文学论文（pp. 50–52）。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 50–52)]]
 
 > [!claim] 预期课堂后果推翻了[[Reliability\|可靠性]]较高的方案
 > 英国模式能够抽样指定书目和主要批评观点，评分也较稳定。若课程追求终身阅读兴趣、个人表达及成熟判断，多数学生在时间压力下更可能复述教材、教师笔记或已经准备的相近答案。短时多题会使师生把迅速回忆作品内容和标准观点视为课程目标。IB 因此接受长论文、未见文本鉴赏和结构化口试较大的评分误差，以保护深入阅读、经过思考的写作和对话式教学（pp. 51–52）。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 51–52)]]

@@ -5806,6 +5806,15 @@
     ]
   },
   {
+    "title": "Evidence Culture",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Evidence Culture.md",
+    "aliases": [
+      "证据文化",
+      "Evidence Cultures"
+    ]
+  },
+  {
     "title": "Evidence Ecosystem",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Evidence Ecosystem.md",
@@ -31073,6 +31082,27 @@
     ]
   },
   {
+    "title": "Africa Network Campaign on Education for All",
+    "type": "fact",
+    "path": "wiki/facts/africa/Africa Network Campaign on Education for All.md",
+    "aliases": [
+      "ANCEFA",
+      "全非全民教育网络运动",
+      "African Network Campaign on Education for All"
+    ]
+  },
+  {
+    "title": "Center for Rapid Evidence Synthesis",
+    "type": "fact",
+    "path": "wiki/facts/africa/Center for Rapid Evidence Synthesis.md",
+    "aliases": [
+      "ACRES",
+      "快速证据综合中心",
+      "Center for Rapid Evidence Synthesis (ACRES)",
+      "马凯雷雷大学快速证据综合中心"
+    ]
+  },
+  {
     "title": "African Virtual University",
     "type": "fact",
     "path": "wiki/facts/africa/African Virtual University.md",
@@ -33723,6 +33753,16 @@
     ]
   },
   {
+    "title": "Global Campaign for Education",
+    "type": "fact",
+    "path": "wiki/facts/global/Global Campaign for Education.md",
+    "aliases": [
+      "GCE",
+      "全球教育运动",
+      "全球教育运动同盟"
+    ]
+  },
+  {
     "title": "Global Development Network",
     "type": "fact",
     "path": "wiki/facts/global/Global Development Network.md",
@@ -33739,6 +33779,15 @@
       "全球教育合作机制",
       "GCM",
       "全球协调机制"
+    ]
+  },
+  {
+    "title": "Global Education Evidence Advisory Panel",
+    "type": "fact",
+    "path": "wiki/facts/global/Global Education Evidence Advisory Panel.md",
+    "aliases": [
+      "全球教育证据咨询小组",
+      "GEEAP"
     ]
   },
   {
@@ -34508,6 +34557,16 @@
     ]
   },
   {
+    "title": "RISE Programme",
+    "type": "fact",
+    "path": "wiki/facts/global/RISE Programme.md",
+    "aliases": [
+      "提高教育系统成效研究项目",
+      "RISE项目",
+      "Research on Improving Systems of Education"
+    ]
+  },
+  {
     "title": "Skills Toward Employment and Productivity",
     "type": "fact",
     "path": "wiki/facts/global/Skills Toward Employment and Productivity.md",
@@ -34991,6 +35050,16 @@
       "IDB",
       "BID",
       "Banco Interamericano de Desarrollo"
+    ]
+  },
+  {
+    "title": "Latin American Campaign for the Right to Education",
+    "type": "fact",
+    "path": "wiki/facts/latin-america/Latin American Campaign for the Right to Education.md",
+    "aliases": [
+      "CLADE",
+      "拉丁美洲受教育权运动",
+      "Campaña Latinoamericana por el Derecho a la Educación"
     ]
   },
   {
@@ -41854,6 +41923,11 @@
     "title": "Argument_Grindley_1994_JPAM",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
+  },
+  {
+    "title": "Argument_Campbell_2026_JPCC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
   },
   {
     "title": "Argument_Bergeron_2019_JRIE",

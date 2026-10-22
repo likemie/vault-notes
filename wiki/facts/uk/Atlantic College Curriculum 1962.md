@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_persons:
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
 related_facts:
+  - "[[Global Campaign for Education]]"
   - "[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]"
   - "[[Founding of Atlantic College]]"
 related_arguments:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -47,7 +48,7 @@ updated: 2026-10-22
 > [!fact-profile] 课程方案档案
 > - **形成时间** 1962 年夏，由罗伯特·布莱克本与[[Alec Peterson\|亚历克·皮特森]]设计学术课程；活动课程依据[[Kurt Hahn\|库尔特·哈恩]]原则，由[[Desmond Hoare\|德斯蒙德·霍尔]]等人落实。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 8–13)]]
 > - **资格约束** 学生原则上应返回本国升学，但不同国家依赖不同课程与考试。逐国备考成本过高，也会按国籍分班并破坏共同教学。
-> - **权宜基础** 学院采用英语教学和英国 GCE A-level，使所有学生能够共同上课，并借助1953 年[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953\|欧洲文凭等值公约]]申请欧洲大学。
+> - **权宜基础** 学院采用英语教学和英国 [[Global Campaign for Education|GCE]] A-level，使所有学生能够共同上课，并借助1953 年[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953\|欧洲文凭等值公约]]申请欧洲大学。
 > - **核心矛盾** A-level 只有三门，专业化程度高，具有英国国家内容与英语母语评价优势；它能提供共同资格，却不能独立承担[[International Education\|国际教育]]课程。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 9–12)]]
 
 ---

@@ -9,7 +9,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_facts:
   - "[[International School of Geneva]]"
   - "[[International Schools Association]]"
   - "[[UNESCO]]"
+  - "[[Global Campaign for Education]]"
   - "[[Founding of the International Baccalaureate]]"
   - "[[1967 Sevres International Conference on the IB]]"
 related_arguments:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -166,7 +167,7 @@ updated: 2026-10-22
 ---
 
 > [!term] Syndicate 的来源与法语歧义
-> ISES 名称中的 *Syndicate* 很可能借鉴剑桥普通教育证书（General Certificate of Education，GCE）考试机构 Cambridge Syndicate，显示英国考试制度对命名的影响。在英法双语组织中，这一选择并不理想，因为法语 *syndicat* 通常指工会。1967 年采用 [[International Baccalaureate|IBO]] 名称后，组织名称更直接指向所管理的[[International Baccalaureate\|国际文凭]]项目。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19, 23)]]
+> ISES 名称中的 *Syndicate* 很可能借鉴剑桥普通教育证书（General Certificate of Education，[[Global Campaign for Education|GCE]]）考试机构 Cambridge Syndicate，显示英国考试制度对命名的影响。在英法双语组织中，这一选择并不理想，因为法语 *syndicat* 通常指工会。1967 年采用 [[International Baccalaureate|IBO]] 名称后，组织名称更直接指向所管理的[[International Baccalaureate\|国际文凭]]项目。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19, 23)]]
 
 > [!tension] Oxford 介入的两种当事人叙事
 > - **Martin Mayer 的接管叙事** 1965 年中至 1966 年中，ISES 经历人员、财务和学科会议危机；Ford 谈判停滞后，Oxford 坚定接管项目，执行中心随之转移。

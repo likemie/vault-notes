@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -29,26 +29,27 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Global Campaign for Education]]"
 related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!event-context] EDEXCEL AS Perspectives on Science
-> - **时间地点** 英国，2004 年 11 月草案（EDEXCEL Level 3 AS GCE in History and Philosophy and Ethics）
+> - **时间地点** 英国，2004 年 11 月草案（EDEXCEL Level 3 AS [[Global Campaign for Education|GCE]] in History and Philosophy and Ethics）
 > - **关键主体** EDEXCEL 考试局（Pearson 旗下英国考试认证机构）
 > - **制度背景** 英国 AS 级（Advanced Subsidiary）课程体系，相当于 A-Level 第一年，高中阶段大学预科课程
 > - **触发条件** 英国国家课程改革要求在科学教育中融入[[Nature of Science\|科学本质]]（NOS）和[[Critical Thinking\|批判性思维]]元素的背景下推出
 
 ---
 
-> [!contrast-table] 与 IB [[Theory of Knowledge\|TOK]] 的对比
+> [!contrast-table] 与 IB TOK 的对比
 > | 维度 | EDEXCEL Perspectives on Science | [[Theory of Knowledge\|IB TOK]] |
 > |---|---|---|
 > | **框架选择** | 留在学术学科内部（[[Scientism\|科学主义]]框架） | 创建超学科框架（学生中心） |
@@ -63,7 +64,7 @@ updated: 2026-10-22
 
 ## Zemplén 的对比分析
 
-Zemplén 将 EDEXCEL Perspectives on Science 作为 [[Theory of Knowledge|TOK]] 的对照案例。TOK 的课程开发者选择了超学科框架（extra-disciplinary framework），这导致了框架问题（framework-problem）——课程必须自创一套术语体系，而这套术语反过来规训了学生的思维。EDEXCEL 课程选择了相反的道路：留在[[Scientism|科学主义]]框架内部，以严格的科学报告格式作为评估核心。这个选择避免了 TOK 的框架问题，但代价是课程更加科学主义、更不以学生为中心，80% 的评估权重压在一份规定格式的科学报告上，学生的叙事自由受到显著限制。
+Zemplén 将 EDEXCEL Perspectives on Science 作为 TOK 的对照案例。TOK 的课程开发者选择了超学科框架（extra-disciplinary framework），这导致了框架问题（framework-problem）——课程必须自创一套术语体系，而这套术语反过来规训了学生的思维。EDEXCEL 课程选择了相反的道路：留在[[Scientism|科学主义]]框架内部，以严格的科学报告格式作为评估核心。这个选择避免了 TOK 的框架问题，但代价是课程更加科学主义、更不以学生为中心，80% 的评估权重压在一份规定格式的科学报告上，学生的叙事自由受到显著限制。
 
 [[Argument_Zemplen_2007_SciEduc|(Zemplén, 2007, p. 191, note 9)]]
 

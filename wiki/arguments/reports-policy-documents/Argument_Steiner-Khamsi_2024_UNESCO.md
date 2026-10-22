@@ -7,9 +7,9 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 68
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 72
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]"
@@ -100,7 +100,8 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[UNICEF]]"
-  - "[[Education for All]]"
+  - "[[Latin American Campaign for the Right to Education]]"
+  - "[[Africa Network Campaign on Education for All]]"
   - "[[NORRAG]]"
   - "[[SUMMA]]"
   - "[[PISA]]"
@@ -109,9 +110,12 @@ related_facts:
   - "[[Knowledge and Innovation Exchange]]"
   - "[[UNESCO Institute for Statistics]]"
   - "[[INEE]]"
+  - "[[Global Campaign for Education]]"
+  - "[[RISE Programme]]"
   - "[[Education Endowment Foundation]]"
   - "[[Evidence Network]]"
   - "[[EVIPNet]]"
+  - "[[Center for Rapid Evidence Synthesis]]"
   - "[[PISA for Development]]"
   - "[[Bill & Melinda Gates Foundation]]"
 status: draft
@@ -162,7 +166,7 @@ updated: 2026-10-23
 > | **问卷调查样本** | 共回收 898 份完整问卷；306 名受访者披露居住国，覆盖教科文组织划分的全部五大区域共 103 个国家（亚太 33%、非洲 25%、欧洲与北美 23%、拉美及加勒比 14%、阿拉伯国家 8%）；受访者专业背景涵盖高校与智库研究者（22%）、教育部委官员（19%）、民间社会组织代表（18%）、教师组织与教学专业人员（14%）以及国际组织官员（10%）（pp. 18–19）。 |
 > | **网络拓扑分析子样本** | 在全部 898 名受访者中，共有 286 位决策者与研究者在问卷第三题（Q3）中填报了具体经常调阅的证据源，累计映射出 432 个独立的证据主体与平台（国家级 234 个、国际级 124 个、区域级 74 个），构成图 3.2 拓扑网络的数据实体（pp. 21–24）。 |
 > | **文献计量样本** | 纳入 1999 年后发表在引文索引库中的 1,660 篇公共卫生政策证据利用文献与 1,825 篇教育政策证据利用文献，分别提取关键词共现频次与参考文献共引矩阵，形成包含 510 个高连接度节点的拓扑图谱（pp. 30–32, 64–65）。 |
-> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如拉丁美洲受教育权运动（Latin American Campaign for the Right to Education, CLADE）、全非[[Education for All\|全民教育]]网络运动（Africa Network Campaign on Education for All, ANCEFA）、亚太基础与成人教育协会（Asia South Pacific Association for Basic and Adult Education, ASPBAE））与智库平台（如[[NORRAG\|国际教育与培训合作政策研究网络]]（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、撒哈拉以南非洲教育倡议（Education Sub Saharan Africa））的领导层专家（pp. 19–20）。 |
+> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如[[Latin American Campaign for the Right to Education\|拉丁美洲受教育权运动]]（Latin American Campaign for the Right to Education, CLADE）、[[Africa Network Campaign on Education for All\|全非全民教育网络运动]]（Africa Network Campaign on Education for All, ANCEFA）、亚太基础与成人教育协会（Asia South Pacific Association for Basic and Adult Education, ASPBAE））与智库平台（如[[NORRAG\|国际教育与培训合作政策研究网络]]（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、撒哈拉以南非洲教育倡议（Education Sub Saharan Africa））的领导层专家（pp. 19–20）。 |
 
 ---
 
@@ -251,13 +255,13 @@ updated: 2026-10-23
 > | [[Global Partnership for Education\|全球教育伙伴关系]]（GPE） | 13 | 7 | 多边基金（华盛顿） | 低收入国家教育资助核心机制，依托 [[Knowledge and Innovation Exchange\|KIX]] 项目推动同侪互学 |
 > | [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS） | 8 | 8 | 联合国统计（蒙特利尔） | SDG 4 官方基准数据与全球教育统计监测的唯一法定托管机构 |
 > | [[INEE\|机构间危机教育网络]]（Inter-agency Network for Education in Emergencies, INEE） | 6 | 6 | 专题协作网络 | 战乱与人道危机情境下教育应急响应标准的国际事实基准 |
-> | 全球教育运动（Global Campaign for Education, GCE） | 6 | 10 | 民间联盟（约翰内斯堡） | 代表草根与民间社会发声，推动受教育权公共倡导与监督 |
+> | [[Global Campaign for Education\|全球教育运动]]（Global Campaign for Education, GCE） | 6 | 10 | 民间联盟（约翰内斯堡） | 代表草根与民间社会发声，推动受教育权公共倡导与监督 |
 > | 全球发展中心（Center for Global Development, CGD） | 5 | >15 | 发展智库（华盛顿/伦敦） | 以严谨发展经济学与实证政策评估著称，在政策专家中调阅频次高 |
-> | 拉丁美洲受教育权运动（Latin American Campaign for the Right to Education, CLADE） | 5 | 9 | 区域网络（拉美） | 高频调阅榜中唯一的区域实体，深耕拉美受教育权与公平监测 |
+> | [[Latin American Campaign for the Right to Education\|拉丁美洲受教育权运动]]（Latin American Campaign for the Right to Education, CLADE） | 5 | 9 | 区域网络（拉美） | 高频调阅榜中唯一的区域实体，深耕拉美受教育权与公平监测 |
 > | 联合国教科文组织国际职业技术教育与培训中心（UNEVOC） | 5 | >15 | 联合国专门（波恩） | 全球职业技术教育与终身技能培训证据的专门转化中枢 |
-> | 提高教育系统成效研究项目（Research on Improving Systems of Education, RISE） | ≤4 | 10 | 跨校研究（牛津等） | 系统思维与教育治理宏观研究知名度高，但基层常规调阅相对分流 |
+> | [[RISE Programme\|提高教育系统成效研究项目]]（Research on Improving Systems of Education, RISE） | ≤4 | 10 | 跨校研究（牛津等） | 系统思维与教育治理宏观研究知名度高，但基层常规调阅相对分流 |
 > | 世界经济论坛（World Economic Forum, WEF） | ≤4 | 10 | 基金会/智库（日内瓦） | 未来技能与劳动力市场报告知名度高，但在教育实务中调阅频次有限 |
-> | 全非[[Education for All\|全民教育]]网络运动（ANCEFA） | ≤4 | 13 | 区域网络（达喀尔） | 非洲大陆草根教育维权与民间监督网络，具有较强区域知名度 |
+> | [[Africa Network Campaign on Education for All\|全非全民教育网络运动]]（ANCEFA） | ≤4 | 13 | 区域网络（达喀尔） | 非洲大陆草根教育维权与民间监督网络，具有较强区域知名度 |
 > | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） | ≤4 | 13 | 循证中介（伦敦） | 教学工具包享誉全球，但受制于英国本土国别定位，跨国直接调阅偏低 |
 > | 全球教育伙伴关系[[Knowledge and Innovation Exchange\|知识与创新交流机制]]（KIX） | ≤4 | 13 | 跨国转化机制 | 作为 GPE 旗下较新机制（2019年创设），知名度渐显但调阅多归并于 GPE 母体 |
 >
@@ -380,7 +384,7 @@ updated: 2026-10-23
 > [!case] 跨部门制度化治理标杆：世界卫生组织 [[EVIPNet]] 与国家知识转化平台（KTPs）
 > 在具体的组织建构上，公共卫生领域的跨国协作提供了成熟的常设中介实体范式（pp. 35–37）：
 > - **垂直贯通的双层架构** 世界卫生组织于 2005 年倡导设立[[EVIPNet|证据知情政策网络]]（Evidence-informed Policy Network, EVIPNet），在总部制定证据合成准则，并在成员国内部创设由本土专业团队运营的国家知识转化平台（[[Research Translation|Knowledge Translation]] Platforms, KTPs），构筑起上下互动的双向桥梁（p. 36）。
-> - **常设快速响应与审议机制** 乌干达马凯雷雷大学设立的快速[[Research Synthesis|证据综合]]中心（Center for Rapid Evidence Synthesis, ACRES）以及乌干达卫生政策与系统研究信息交流所，能够在内阁面对疫情或医保重大决策的紧迫数周内，提供高质量实证简报；同时定期召开由医学专家、行政官僚与患者代表共同参与的[[Deliberative Policy Dialogue|审议性政策对话]]（Deliberative Dialogues），将证据内化为社会共识（p. 35）。
+> - **常设快速响应与审议机制** 乌干达马凯雷雷大学设立的[[Center for Rapid Evidence Synthesis|快速证据综合中心]]（Center for Rapid [[Research Synthesis|Evidence Synthesis]], ACRES）以及乌干达卫生政策与系统研究信息交流所，能够在内阁面对疫情或医保重大决策的紧迫数周内，提供高质量实证简报；同时定期召开由医学专家、行政官僚与患者代表共同参与的[[Deliberative Policy Dialogue|审议性政策对话]]（Deliberative Dialogues），将证据内化为社会共识（p. 35）。
 > - **长效基础设施支撑** 英国设立的政策研究小组（Policy Research Units, PRUs）将公务员常驻于大学科研所内部；印度公共卫生基金会（Public Health Foundation of India, PHFI）与巴西奥斯瓦尔多·克鲁斯基金会（Fundação Oswaldo Cruz, Fiocruz）则作为国家级半独立机构，承担连接科研评估与卫生立法审查的法定职能（pp. 36–37）。
 
 ---

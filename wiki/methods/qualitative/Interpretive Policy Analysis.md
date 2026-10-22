@@ -3,11 +3,11 @@ title: Interpretive Policy Analysis
 aliases:
   - 解释性政策分析
   - IPA
-summary: "一种以意义阐释为核心的质性政策研究方法，主张政策并非价值中立的技术规程，而是承载特定信念、价值与权力的文化人工制品；该方法通过识别政策文本、语言符号与行动载体等人工制品，描摹不同诠释社群的意义建构方式，剖析修辞隐喻与话语策略，进而揭示政策制定与执行过程中的价值冲突与认知张力。"
+summary: "一种以意义阐释为核心的质性政策研究方法，主张政策是承载特定信念、价值与权力的文化人工制品；该方法通过识别政策文本、语言符号与行动载体等人工制品，描摹不同诠释社群的意义建构方式，剖析修辞隐喻与话语策略，进而揭示政策制定与执行过程中的价值冲突与认知张力。"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Reliability]]"
   - "[[Central Question]]"
+  - "[[Evidence Culture]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -40,7 +41,8 @@ related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: medium
 status: draft
 created: 2026-10-23
@@ -66,8 +68,8 @@ updated: 2026-10-23
 ---
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 坚持社会建构论立场，认为政策事实并非脱离人类意识的客观实体，证据与政策在特定历史、政治和制度语境中经由语言符号、修辞构架与社会互动共同建构生成。
-> - **研究者角色** 研究者并非抽离现场的客观观察者，而是兼具[[Reflexivity|反思性]]审视与深度阐释能力的参与者，需要对文本语言、隐喻内涵及其背后的制度权力结构保持[[Epistemological Vigilance|认识论警觉]]。
+> - **知识观** 坚持社会建构论立场，认为政策事实、证据与治理工具均在特定历史、政治和制度语境中，经由语言符号、修辞构架与社会互动共同建构生成。
+> - **研究者角色** 研究者作为兼具[[Reflexivity|反思性]]审视与深度阐释能力的积极参与者，需要对文本语言、隐喻内涵及其背后的制度权力结构保持[[Epistemological Vigilance|认识论警觉]]。
 > - **有效性标准** 追求解释的可[[Reliability|信度]]（credibility）、反思性（reflexivity）、语境敏感度（context-sensitivity）与分析透明度（transparency），依托系统化的质性归纳编码与矩阵索引保障推论一致性。
 > - **不声称回答的问题** 不声称提供因果量化归因，不测算政策干预的统计[[Effect Size|效应量]]或显著性水平，亦不脱离具体制度脉络做普适化规律外推。
 
@@ -97,4 +99,4 @@ updated: 2026-10-23
 
 ## 使用此方法的研究
 
-- [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策[[Analytic Framework|分析框架]]（融合 Yanow 四步进路与框架法矩阵），系统审视[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]关于证据利用的核心政策文本，揭示超国家[[Discourse|话语]]如何借助修辞隐喻建构特定证据文化与制度约束。
+- [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策[[Analytic Framework|分析框架]]（融合 Yanow 四步进路与框架法矩阵），系统审视[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]关于证据利用的核心政策文本，揭示超国家[[Discourse|话语]]如何借助修辞隐喻建构特定[[Evidence Culture|证据文化]]与制度约束。

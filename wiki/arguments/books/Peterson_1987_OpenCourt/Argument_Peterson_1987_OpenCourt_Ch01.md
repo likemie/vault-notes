@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Dwight D. Eisenhower]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts:
+  - "[[Global Campaign for Education]]"
   - "[[Grammar School]]"
   - "[[United World Colleges]]"
   - "[[European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953]]"
@@ -59,7 +60,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 ---
 
@@ -67,7 +68,7 @@ updated: 2026-10-22
 > 大西洋学院的创办把[[International Education\|国际教育]]从价值宣言变成一组彼此依赖的制度安排：以共同服务改变青年行动，以创校领导和捐助网络维持组织，以跨国招生和共同生活形成越境关系，再以共同课程和资格承认保障学生前途。英国国家课程只能暂时解决共同上课的问题，却无法同时满足国际取向、公平评价与跨国升学，由此形成发展[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的直接制度动力。
 
 > [!phase] 本章讲述的故事
-> 故事从[[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）在 1952–1954 年马来亚工作期间形成的[[Intercultural Education|跨文化教育]]问题意识开始，经由 1957 年与[[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）相遇，转入大西洋学院的创办。筹备者先选择[[Desmond Hoare\|德斯蒙德·霍尔]]（Desmond Hoare），再取得圣多纳特城堡和捐助资金；学校随后以跨国招生、共同生活、救援服务和宽广课程把和平教育落实为日常制度。故事最后转向一个未解决的矛盾：以英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level）维持共同教学，会重新带来国家偏向、语言不平等和回国升学障碍，大西洋学院因而成为 IB 的课程与制度前史（pp. 1–13）。
+> 故事从[[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）在 1952–1954 年马来亚工作期间形成的[[Intercultural Education|跨文化教育]]问题意识开始，经由 1957 年与[[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）相遇，转入大西洋学院的创办。筹备者先选择[[Desmond Hoare\|德斯蒙德·霍尔]]（Desmond Hoare），再取得圣多纳特城堡和捐助资金；学校随后以跨国招生、共同生活、救援服务和宽广课程把和平教育落实为日常制度。故事最后转向一个未解决的矛盾：以英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）维持共同教学，会重新带来国家偏向、语言不平等和回国升学障碍，大西洋学院因而成为 IB 的课程与制度前史（pp. 1–13）。
 
 > [!framework-table] 章节概念工具
 > | 概念工具 | 在论证中的作用 |

@@ -10,7 +10,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -35,13 +35,14 @@ related_facts:
   - "[[International Schools Examination Syndicate]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
+  - "[[Global Campaign for Education]]"
   - "[[Founding of the International Baccalaureate]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 三天会议的决策结构
-> - **会前组织 — 从开放讨论转为授权者会议** 与会者按其代表的国家、大学、考试和国际组织利益受邀。美国 AP 项目主任、伦敦大学 GCE 委员会秘书、法国 baccalauréat 办公室主任和瑞士成熟证书前负责人首次同桌讨论。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 26)]]
+> - **会前组织 — 从开放讨论转为授权者会议** 与会者按其代表的国家、大学、考试和国际组织利益受邀。美国 AP 项目主任、伦敦大学 [[Global Campaign for Education|GCE]] 委员会秘书、法国 baccalauréat 办公室主任和瑞士成熟证书前负责人首次同桌讨论。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 26)]]
 > - **首次全体会议后 — 分设两个委员会** A 委员会讨论课程结构、标准和教学大纲，由费舍尔-沃尔珀特主持、[[Gerard Renaud\|杰拉德·雷诺]]任顾问；B 委员会讨论考试组织与程序，由罗伯特·布莱克本主持、比尔·霍尔斯任顾问。
 > - **课程与考试原则 — 快速形成共识** 六学科总体结构、高级与辅助程度、成绩补偿原则获得接受。会议由此确认文凭应评价完整课程组合，而不是把六张互不相关的单科成绩简单相加。
 > - **[[Open-Mindedness|开放性]]修正 — 文凭与证书并存** 德斯蒙德·科尔担心 IB 会形成校内精英轨道，提出保留整体文凭，同时向在个别科目达到要求但未取得文凭者颁发单科证书；方案得到一致接受。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 30–31)]]

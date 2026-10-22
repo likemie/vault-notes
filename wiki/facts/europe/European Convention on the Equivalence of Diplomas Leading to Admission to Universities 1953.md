@@ -10,7 +10,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Global Campaign for Education]]"
   - "[[Founding of Atlantic College]]"
   - "[[Atlantic College Curriculum 1962]]"
 related_arguments:
@@ -33,14 +34,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **时间／范围** 1953 年 12 月 11 日形成的欧洲委员会文凭等值安排；皮特森讨论其在 17 个成员国之间的大学申请作用。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 10)]]
-> - **核心问题** 欧洲国家以 baccalauréat、GCE、Abitur、matura 等不同课程和考试控制大学入学，跨国学生持外国中学资格申请时可能仅因资格来源而被排除。
+> - **核心问题** 欧洲国家以 baccalauréat、[[Global Campaign for Education|GCE]]、Abitur、matura 等不同课程和考试控制大学入学，跨国学生持外国中学资格申请时可能仅因资格来源而被排除。
 > - **基本保障** 学生可以把另一成员国取得的文凭提交为进入大学整体的申请资格，大学不能仅以其属于外国资格为由拒绝考虑。
 > - **法律边界** 等值不等于录取，不保证学生满足具体院系的学科先修条件，也不排除申请逾期、名额限制或其他录取标准。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 10–11)]]
 

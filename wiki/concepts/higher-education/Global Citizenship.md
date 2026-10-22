@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,7 +50,8 @@ related_methods:
   - "[[Content Analysis]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
-related_facts: []
+related_facts:
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Klerides_2023_CE]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于 [[Graduate Attributes\|毕业生特质]] — 毕业生特质是涵盖学术技能、团队协作和专业研究等在内的总集，全球公民仅是其中一个涉及全球视野与责任伦理的特定功能子域。
-> - 不适用于 — 完全排斥国际交流、以纯粹本土民族认同与狭隘意识形态输出为唯一职能的刚性封闭国民教育。
+> - 不适用于 — 完全排斥国际交流、以纯粹本土民族认同与狭隘意识形态输出为唯一职能的刚性封闭[[National Education|国民教育]]。
 
 ---
 

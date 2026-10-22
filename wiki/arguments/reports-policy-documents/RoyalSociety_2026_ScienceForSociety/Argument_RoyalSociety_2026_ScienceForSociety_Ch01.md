@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -85,6 +85,7 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[RAiSE Programme]]"
+  - "[[Global Campaign for Education]]"
   - "[[CREST Awards]]"
   - "[[Institute for Research in Schools]]"
   - "[[CERN]]"
@@ -98,7 +99,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 ---
 
@@ -158,7 +159,7 @@ updated: 2026-10-22
 > | **英格兰（England）** | 教育部集中管理，注重知识基础大纲 | 普通中等教育证书（General Certificate of Secondary Education, GCSE，16岁）+ 普通教育高级水平证书（General Certificate of Education Advanced Level, A-level，18岁，通常限 3 门） | 2025 年课程与评估审查建议强化多源证据评估；后 16 岁面临过早专门化分科限制（p. 30） |
 > | **苏格兰（Scotland）** | 卓越课程（Curriculum for Excellence, CfE），强调四大核心能力 | National 5（16岁）+ Highers / Advanced Highers | 通过 CfE 维持较宽学科修读；推行 [[RAiSE Programme\|RAiSE 计划]]强化小学教师学科素养与探究信心（p. 36） |
 > | **威尔士（Wales）** | 威尔士新课程，聚焦跨学科学习领域 | GCSE / 威尔士学士学位资格体系 | 将科学与[[Technology Infusion\|技术整合]]为六大核心学习领域之一，积极扩大后 16 岁学习宽度 |
-> | **北爱尔兰（Northern Ireland）** | 强调[[21st Century Skills and Competencies Discourse\|关键能力]]与基于情境的探究 | GCSE + GCE A-level 体系 | 2025 年课程审查明确提出应增强课程宽度与灵活性，破除过早狭隘分科（p. 34） |
+> | **北爱尔兰（Northern Ireland）** | 强调[[21st Century Skills and Competencies Discourse\|关键能力]]与基于情境的探究 | GCSE + [[Global Campaign for Education\|GCE]] A-level 体系 | 2025 年课程审查明确提出应增强课程宽度与灵活性，破除过早狭隘分科（p. 34） |
 
 ---
 

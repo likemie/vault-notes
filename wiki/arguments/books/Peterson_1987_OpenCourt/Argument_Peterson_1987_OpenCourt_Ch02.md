@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Open-Mindedness]]"
   - "[[Predictive Validity]]"
+  - "[[Diversity Courses]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
@@ -68,6 +69,7 @@ related_facts:
   - "[[International Schools Association]]"
   - "[[UNESCO]]"
   - "[[EU]]"
+  - "[[Global Campaign for Education]]"
   - "[[Oxford Council of Europe Studies in Curriculum and Examinations]]"
   - "[[OECD]]"
 related_arguments:
@@ -77,7 +79,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 ---
 
@@ -85,7 +87,7 @@ updated: 2026-10-22
 > [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的创立是一项分布式制度创新，经过了战后[[International Schools\|国际学校]]需求、日内瓦教师合作、独立考试组织、跨国课程设计、学校与家庭试验及大学有限承认等环节。课程、考试、组织、资金、学校参与和大学承认共同把国际主义理想转化为制度事实（pp. 15–31）。
 
 > [!phase] 本章讲述的故事
-> 故事从 1925 年一份没有得到回应的国际毕业会考[[Questionnaire\|问卷]]开始。战后国际学校扩张和大学入学竞争，使旧设想成为实际需要；1960 年代初，日内瓦教师从历史和社会研究难题发动课程合作，随后建立[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）、取得基金资助并扩大跨国治理。课程改革者在各国传统之间形成六学科、双语和[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）方案，九所学校愿意承担试验风险。1967 年塞夫尔会议再把课程方案、考试原则、学校批准和大学有限承认组合成六年试验，最终使 29 名学生在 1970 年用正式 IB 成绩申请大学（pp. 15–31）。
+> 故事从 1925 年一份没有得到回应的国际毕业会考[[Questionnaire\|问卷]]开始。战后国际学校扩张和大学入学竞争，使旧设想成为实际需要；1960 年代初，日内瓦教师从历史和社会研究难题发动课程合作，随后建立[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）、取得基金资助并扩大跨国治理。课程改革者在各国传统之间形成六学科、双语和知识论（[[Theory of Knowledge]]，TOK）方案，九所学校愿意承担试验风险。1967 年塞夫尔会议再把课程方案、考试原则、学校批准和大学有限承认组合成六年试验，最终使 29 名学生在 1970 年用正式 IB 成绩申请大学（pp. 15–31）。
 
 > [!framework-table] 章节概念工具
 >
@@ -119,7 +121,7 @@ updated: 2026-10-22
 > [!chain-link] 从未获回应的设想到可使用资格的因果链
 > - **设想因缺乏需求而沉寂，又因战后流动而复活** 保罗·迈霍弗（Paul Meyhoffer）1925 年提出国际毕业会考时，还没有足够多的学校、家庭和大学愿意承担改革成本；战后[[International Schools\|国际学校]]扩张、大学竞争和多轨备考的资源浪费，才使共同资格成为现实需要（pp. 15–17）。
 > - **教学问题产生教师倡议，志愿网络又推动组织化** 日内瓦教师从历史、语言和社会研究的国家偏向发动合作，但短期经费只够开会；[[International School of Geneva\|日内瓦国际学校]]（École internationale de Genève，Ecolint）与[[International Schools Association\|国际学校协会]]（International Schools Association，ISA）也无力承担考试责任，因此独立 [[International Schools Examination Syndicate\|ISES]]、连续资金和跨国治理先后形成（pp. 17–24）。
-> - **组织能力使改革课程进入真实学校** 办公室、全职人员和基金会支持使项目能够协调各国改革者，形成六学科、双语与 [[Theory of Knowledge\|TOK]]，并由九所学校及其教师、家长和学生承担试验风险（pp. 24–30）。
+> - **组织能力使改革课程进入真实学校** 办公室、全职人员和基金会支持使项目能够协调各国改革者，形成六学科、双语与 TOK，并由九所学校及其教师、家长和学生承担试验风险（pp. 24–30）。
 > - **大学有限承认把课程试验变成升学资格** 1967 年塞夫尔会议把课程、考试、获批学校、人数上限和大学承认组合为六年试验；1970 年首批 29 名学生使用正式成绩申请大学，完成从倡议到可使用资格的转变（pp. 30–31）。
 
 ---
@@ -173,7 +175,7 @@ updated: 2026-10-22
 > - **1962：社会研究会议首次明确使用 [[International Baccalaureate]] 名称** Bob Leach 领导 Ecolint 社会研究教师召开小型会议，把国际学校的具体课程问题写进以国际毕业会考为目标的工作议程。理念由此进入有主题、经费、工作论文和外部观察者的课程开发阶段（pp. 17–18）。
 
 > [!case] 日内瓦国际学校物理课的四轨分班使共同资格成为实际需要
-> - **一门学科被拆成四套课程** 高级物理学生分别准备瑞士联邦成熟证书、英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，GCE A-level）、法国 baccalauréat 和美国大学理事会[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）。四个小组学习不同大纲，却都由同一所学校提供教学。
+> - **一门学科被拆成四套课程** 高级物理学生分别准备瑞士联邦成熟证书、英国普通教育证书高级程度考试（General Certificate of Education Advanced Level，[[Global Campaign for Education|GCE]] A-level）、法国 baccalauréat 和美国大学理事会[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）。四个小组学习不同大纲，却都由同一所学校提供教学。
 > - **资源浪费转化为共同课程压力** 小班重复占用教师和课时。若其他学科采用同样办法，国际学校越扩展高中课程，重复配置的成本越高。
 > - **国家分轨削弱学校的国际性质** 学生被预期升学国家重新分组，人数较少、无法形成独立课程轨道的国籍群体只能自行适应。语言课程还面临翻译问题，社会研究则带有国家叙事偏向。
 > - **资格问题进入日常教学** 共同考试的意义已经超出国际主义象征。它需要减少课程重复、避免国籍分隔，并让没有强大母国教育通道的学生获得公平的大学准备（pp. 16–17）。
@@ -432,7 +434,7 @@ updated: 2026-10-22
 > [!case] 六学科方案的形成节点存在参与者记忆差异
 > Bob Leach 把 1965 年 10 月大西洋学院会议视为总体课程组合第一次正式出现。Alec Peterson 认为这一判断忽略了 Gerard Renaud 在 3 月会议后的黑板方案，也指出大西洋学院已有课程与后来结构十分接近。两种叙述显示课程并非在单次会议中完整产生：3 月形成选择规则和六科骨架，10 月扩大学校与法国督学参与，随后才继续定型科目和程度（pp. 28–29）。
 
-> [!case] 法国哲学必修要求被改写为所有学生共同修读的[[Theory of Knowledge\|知识论]]
+> [!case] 法国哲学必修要求被改写为所有学生共同修读的知识论
 > 法国曾在欧洲文凭设计中成功坚持哲学必修，并希望国际课程保留同类要求。Gerard Renaud 与哲学总督学特里先生（Monsieur Trie）协商后，把哲学实体学科留在第三组作为可选课程，同时要求所有学生修读范围较窄的 TOK。法国传统对反思和判断的重视由此进入共同核心，国际课程又无需把法国哲学大纲原样施加给所有学生（pp. 29–30）。
 
 > [!phase] 1966 年底：课程结构已经可以试教，资格承认仍未完成
@@ -592,7 +594,7 @@ updated: 2026-10-22
 > 最后一次全体会议上，索非亚大学的尼科洛夫教授（Professor Nikolov）起身宣布保加利亚接受方案，形成会议的戏剧性时刻。多数代表没有得到本国政府或自治大学授予的同等权限，无法在现场作出有约束力的承认。会议取得的是广泛支持、合作意愿和回国争取批准的承诺，还没有形成自动适用于所有与会国家的国际协定。承认工作因此从一次国际会议转入多个国家部门和自治大学的分别谈判（p. 31）。
 
 > [!case] 对试验目的的分歧影响了学校网络应当扩展到什么程度
-> Georges Panchaud 最初把六年试验理解为应用教育研究，希望严格限制学校数量，在少数大学密切追踪学生表现、考试技术的[[Predictive Validity\|预测效度]]与信度，以及国际多元文化课程的影响。学校代表，尤其是大西洋学院，则把试验视为建立永久 IB 的导入期；他们面对现实升学难题，教育研究只是附带收益。前一种路线便于严密控制，后一种路线要求在不同地区和学校类型中证明课程可以使用。ISES／IBO 最终继续扩大而非封闭试验网络，因为过小、过度集中的样本既无法检验普遍适用性，也无法证明考试组织能够形成可持续的财政基础（[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 4, pp. 61–62)]]）。
+> Georges Panchaud 最初把六年试验理解为应用教育研究，希望严格限制学校数量，在少数大学密切追踪学生表现、考试技术的[[Predictive Validity\|预测效度]]与信度，以及国际[[Diversity Courses|多元文化课程]]的影响。学校代表，尤其是大西洋学院，则把试验视为建立永久 IB 的导入期；他们面对现实升学难题，教育研究只是附带收益。前一种路线便于严密控制，后一种路线要求在不同地区和学校类型中证明课程可以使用。ISES／IBO 最终继续扩大而非封闭试验网络，因为过小、过度集中的样本既无法检验普遍适用性，也无法证明考试组织能够形成可持续的财政基础（[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 4, pp. 61–62)]]）。
 
 > [!contrast-table] 不同高等教育体系需要不同的承认路径
 >
@@ -620,7 +622,7 @@ updated: 2026-10-22
 > 2. **草根行动需要组织化** 教师能够识别和设计课程问题，但必须由独立法律组织、连续行政与长期领导承担资格责任（pp. 17–20）。
 > 3. **筹资同时是可[[Reliability\|信度]]机制** 二十世纪基金和福特基金提供资金，其承诺也依赖可行性研究、牛津和美国大学理事会等组织背书（pp. 20–24）。
 > 4. **国际性来自改革联盟而非最低共同标准** IB 借助各国改革者，在小规模国际[[Champ\|场域]]试验本国难以推动的课程方案（pp. 24–26）。
-> 5. **课程统一不要求内容同质** 六学科组、程度、双语、[[Theory of Knowledge\|知识论]]、整体文凭和单科证书共同平衡通识、专门化、国家差异与[[Open-Mindedness|开放性]]（pp. 28–31）。
+> 5. **课程统一不要求内容同质** 六学科组、程度、双语、知识论、整体文凭和单科证书共同平衡通识、专门化、国家差异与[[Open-Mindedness|开放性]]（pp. 28–31）。
 > 6. **资格承认必须通过真实风险验证** 试验学校、家长、学生和大学共同承担有限风险，才使资格从声明走向使用（pp. 24, 26–31）。
 
 > [!citation-card] 从理念到实践必要
