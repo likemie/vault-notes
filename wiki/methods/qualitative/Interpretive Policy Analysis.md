@@ -7,9 +7,9 @@ summary: "一种以意义阐释为核心的质性政策研究方法，主张政�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 22
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method
@@ -28,13 +28,16 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Central Question]]"
   - "[[Evidence Culture]]"
+  - "[[Epistemic Community]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Constructivist Paradigm]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
+  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -61,9 +64,9 @@ updated: 2026-10-23
 > - **输出形式** 话语主题矩阵、修辞与隐喻分类图谱、诠释社群意义对照架构、政策张力与权力关系阐释模型。
 
 > [!citation-card] 解释性政策分析的核心关切
-> 解释性政策分析关注政策文本中所蕴含的意义、假定与话语手段，通过辨析政策人工制品、绘制诠释社群图谱、剖析话语建构并定位冲突根源，超越单纯的[[Technical Rationality|技术理性]]假定。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 343–344)]]
+> "解释性政策分析关注政策文本中所蕴含的意义、假定与话语手段，通过辨析政策人工制品、绘制诠释社群图谱、剖析话语建构并定位冲突根源，超越单纯的技术理性假定。"[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 343–344)]]
 >
-> *The interpretive analysis followed Yanow’s (2000) framework, which involves identifying policy artifacts, mapping interpretive communities, analysing discursive constructions and locating sources of conflict and tension.*
+> *"The interpretive analysis followed Yanow’s (2000) framework, which involves identifying policy artifacts, mapping interpretive communities, analysing discursive constructions and locating sources of conflict and tension."*
 
 ---
 
@@ -97,6 +100,33 @@ updated: 2026-10-23
 
 ---
 
-## 使用此方法的研究
+> [!method-fit] 适用判断
+> - **适合使用** 适合剖析具有高度价值争议、话语冲突或隐喻修辞特征的宏观战略政策文本、跨国机构白皮书与政策审议档案；适合解释政策落地过程中的认知分歧与象征性执行机制。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 343–344)]]
+> - **谨慎使用** 纯技术性规程或缺乏价值交锋的低推论行政细则分析，需补充田野访谈与现场观察以避免过度解读文本修辞。
+> - **不适合使用** 旨在精确测算政策干预净效应量、检验大样本统计显著性或寻求跨情境因果普适规律的量化实证研究。
 
-- [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策[[Analytic Framework|分析框架]]（融合 Yanow 四步进路与框架法矩阵），系统审视[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]关于证据利用的核心政策文本，揭示超国家[[Discourse|话语]]如何借助修辞隐喻建构特定[[Evidence Culture|证据文化]]与制度约束。
+---
+
+> [!method-limits] 方法局限
+> - **偏误来源** 研究者自身的意识形态立场与诠释倾向可能导致文本解读出现选择性偏差，对特定修辞隐喻赋予过强推论。
+> - **适用边界** 结论深度依存于特定历史阶段与制度文化语境，不能直接推广至制度逻辑迥异的治理场域。
+> - **误用风险** 容易滑向纯粹的词句解构与相对主义怀疑论，忽略政策背后客观存在的资源约束与组织结构。
+> - **补救方式** 采用多研究者独立背靠背编码比对、构建透明的证据链矩阵索引、辅以多源政策人工制品交叉互证。
+
+---
+
+> [!entry-map] 相关理论与方法
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Critical Theory]] | 理论 | 为解释性政策分析提供解构权力不对称、意识形态掩盖与合法性话语批判的认识论基石。 |
+> | [[Constructivist Paradigm]] | 理论 | 为政策人工制品的意义生成与多重诠释社群分析提供社会建构论前提。 |
+> | [[Discourse Analysis]] | 基础方法 | 提供微观语言修辞、隐喻分类与叙事策略分析的具体语言学工具。 |
+> | [[Qualitative Content Analysis]] | 替代方法 | 侧重对文本范畴的系统归纳与类属频次统计，而解释性政策分析更侧重深层意义与权力张力解构。 |
+> | [[Analytic Framework]] | 支撑方法 | 为多维度政策人工制品的话语提取与矩阵映射提供结构化分析支架。 |
+> | [[Coding in Qualitative Research]] | 操作技术 | 解释性政策分析依托段落与章节级多轮质性编码落实具体文本分析。 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策分析框架（融合 Yanow 四步进路与框架法矩阵），系统审视经合组织、联合国教科文组织与世界银行关于证据利用的核心政策文本，揭示超国家话语如何借助修辞隐喻建构特定证据文化与制度约束（pp. 343–344）。

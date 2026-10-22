@@ -363,7 +363,7 @@
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -447,11 +447,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T20:00:42.932436+00:00"
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -526,11 +527,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T20:06:53.052682+00:00"
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -562,7 +564,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-22T20:09:09.098600+00:00"
     },
     {
       "number": 8,

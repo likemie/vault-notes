@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 156
+method_related_count: 157
 method_related_level: 15
 method_related_stars: "💎💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -153,6 +153,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Employment Retention and Advancement]]"
 related_arguments:
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Higgins_2016_ROE]]"
@@ -359,7 +360,7 @@ updated: 2026-10-23
 > [!summary] 方法学与[[Epistemology\|认识论]]批判的三大核心维度
 > 1. **复杂性理论与[[Ontology\|本体论]]解构** 教育系统作为具有非线性、自组织与不可还原动态特征的复杂适应系统，彻底挑战了受控实验将变量原子化隔离的“其他条件不变”（*ceteris paribus*）假定与萨拉·库恩（Sarah Kuhn）五大复杂性公理（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011]]）。
 > 2. **真实教育情境中的操作与效度困境** 双盲缺失、常态教学对照组“不作为”幻觉、集群随机化对 SUTVA 假设的违背、家长转组与未测量教师质量的颠覆性混淆，以及从效力试验向实效试验的效应量断崖式衰减（[[Argument_Berk_2011_EvalRev\|Berk, 2011]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
-> 3. **证据治理与政策应用层面的认识论异化** 法定单项合格研究背书的“合规假象”、12 家清算中心 35.4% 的评级冲突悖论、微观技术隔离对宏观政治经济结构的“屏蔽”效应、十年科学发现周期与政策时间系统的时效脱节，以及依策造据（[[Policy-Based Evidence-Making\|PBEM]]）等治理失灵（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]; [[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]）。
+> 3. **证据治理与政策应用层面的认识论异化** 法定单项合格研究背书的“合规假象”、12 家清算中心 35.4% 的评级冲突悖论、微观技术隔离对宏观政治经济结构的“屏蔽”效应、十年科学发现周期与政策时间系统的时效脱节、超国家捐助方对大样本 RCT 的偏好对全球南方本土适应性干预的结构性排斥，以及依策造据（[[Policy-Based Evidence-Making\|PBEM]]）等治理失灵（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]; [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]; [[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]; [[Argument_Campbell_2026_JPCC\|Campbell et al., 2026, pp. 344, 347–348]]）。
 
 > [!debates] 真实课堂复合干预 vs 纯净实验室 RCT 的效度论战
 > [[Cognitive Load Theory\|认知负荷理论]]学派（如 Zhang et al., 2022）指责支持探究教学的实证证据多为涵盖师训、技术工具等多重组件的宏观“项目式研究”（Program-based Studies），缺乏高度真空化的单变量实验室 RCT，并质疑常态教学（[[Business as Usual\|BAU]]）对照组的设计公平性。针对这一方法学争论，学习科学学者（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–6]]）展开了系统方法学辩护：
@@ -398,6 +399,7 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合经合组织、教科文组织与世界银行政策实践，揭示国际捐助方与全球证据库对大样本 RCT 的偏好如何结构性排斥全球南方本土适应性干预，加剧全球实证供给与地方现实需求之间的认识论脱节（pp. 344, 346–348）。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 考证第三代使命导向政策如何将 RCT、以人为本服务设计与敏捷原型迭代整合入公共治理试验网络，并强调必须打破[[New Public Management|新公共管理]]的静态“支持并测量”成本效益合规，转向动态的[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 批判将单一 RCT 奉为联邦教育政策黄金标准的制度性脱节，剖析 Dynarski et al.（2007）教育软件实验揭示的情境敏感性，指出长周期实验导致的技术过时风险，以及劳登布什（Raudenbush, 2015）揭示的孤立因果无法回答宏观系统治理命题。
 > - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将[[Research Synthesis|证据综合]]进入 Toolkit 的[[Meta-analysis|元分析]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 49]]）。

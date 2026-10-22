@@ -8,7 +8,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 73
+method_related_count: 74
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -88,6 +88,7 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
 related_arguments:
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -121,7 +122,7 @@ updated: 2026-10-22
 ---
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 经验文本不具备脱离解释者的纯粹客观性；编码绝非单纯的机械标识，而是研究者理论前见与文本深层意蕴的主动互动对话，旨在通过概念化标签重构经验世界的社会现实（Seidel & Kelle, 1995；Gibbs, 2007）。
+> - **知识观** 经验文本不具备脱离解释者的纯粹客观性；编码构成了研究者理论前见与文本深层意蕴的主动互动对话，超越了单纯的机械标识，旨在通过概念化标签重构经验世界的社会现实（Seidel & Kelle, 1995；Gibbs, 2007）。
 > - **研究者角色** 研究者是编码过程的核心诠释工具，其理论敏感度、分类审慎性与[[Reflexivity\|反身性]]直接决定范畴提炼的深度，必须通过反身性备忘录（[[Memos]]）与[[Audit Trail\|审核追踪]]（audit trail）监控前见与分类偏向。
 > - **有效性标准** 遵循类属反映[[Research Purpose\|研究目的]]、穷尽与互斥三大原则；在[[Grounded Theory\|扎根理论]]取向中追求范畴的概念密度与[[Saturation\|理论饱和]]；在多编码者情境中依托[[Qualitative Codebook\|编码手册]]达到高[[Intercoder Agreement\|编码者间一致性]]（[[Reliability\|信度]] ≥80%）。
 > - **不声称回答的问题** 编码本身不直接等同于因果规律或实质理论建构；离散代码的词频统计不能脱离上下文直接作为心理重要性或因果必然性的充分证据。
@@ -174,7 +175,7 @@ updated: 2026-10-22
 > > - **核心行动与衍生结果** 包括核心现象（处于中心位置的事件或行动模式）、行动与互动策略（应对现象采取的策略过程）与结果（策略直接导致的实质后果）。
 >
 > > [!step] 阶梯四：[[Selective Coding\|选择性编码]]（Selective Coding）
-> > 识别并确立统摄所有已建范畴的单一核心范畴（core category），将其余范畴系统关联至核心范畴并接受经验数据验证。选择性编码遵循五步循环迭代：深度把握主要[[Story Line\|故事线]]（story line）➔ 提炼核心范畴 ➔ 建立维度关联 ➔ 依据经验数据逐一验证 ➔ 填补范畴空缺以实现概念密度（conceptual density）与[[Saturation\|理论饱和]]。
+> > 识别并确立整合所有已建范畴的单一核心范畴（core category），将其余范畴系统关联至核心范畴并接受经验数据验证。选择性编码遵循五步循环迭代：深度把握主要[[Story Line\|故事线]]（story line）➔ 提炼核心范畴 ➔ 建立维度关联 ➔ 依据经验数据逐一验证 ➔ 填补范畴空缺以实现概念密度（conceptual density）与[[Saturation\|理论饱和]]。
 
 > [!quad-grid] Creswell 四类质性编码类型
 > - **预期编码（Expected）** 基于文献和常识，读者预期会出现的常规编码（如校园欺凌研究中的“对自我的态度”）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9)]]
@@ -258,7 +259,7 @@ updated: 2026-10-22
 > 3. **学科生态冲突焦点的结构性分异** 科学课矛盾集中于动手与书本脱节、作业负担过重；音乐课冲突源于选曲权利被剥夺、合唱团偏向与纪律失控。
 
 > [!proc] 课堂连续观察与行为锚定质性编码规程（以[[World Bank|世界银行]] Teach 为例）
-> 在高度动态且情境交织的课堂教学场景中，质性编码需兼顾微观行为的[[Rich and Thick Description|深描]]还原与宏观指标的收敛标准化。世界银行 Teach [[Classroom Observation|课堂观察]]工具确立了一套以知情[[Professional Judgment|专业判断]]为核心的高推论质性赋码范式（[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]）：
+> 在高度动态且情境交织的课堂教学场景中，质性编码需兼顾微观行为的[[Rich and Thick Description|深描]]还原与宏观指标的归纳标准化。世界银行 Teach [[Classroom Observation|课堂观察]]工具确立了一套以知情[[Professional Judgment|专业判断]]为核心的高推论质性赋码范式（[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]）：
 >
 > > [!step] 阶段一：连续质性叙述实录（Continuous Qualitative [[Field Notes]]）
 > > 观察员在 15 分钟连续教学片段中全神贯注记录师生互动细节，包括教师指导语、追问层次、学生反应形态与非语言肢体符号。在此阶段严格禁止过早翻查量表或预先打分，防止赋码前见破坏对现场完整教学互动的注意力分配。
@@ -309,7 +310,7 @@ updated: 2026-10-22
 > | | [[Constant Comparison\|持续比较]] | 核心检验 | 在编码全流程中反复比对新旧文本片段，检验范畴一致性与排除反例。 |
 > | | [[Domain Analysis\|领域分析]] | 范畴建构 | 依据类属包含语义关系将离散编码聚拢为上位象征范畴。 |
 > | **质量控制与支撑工具** | [[Qualitative Codebook\|质性编码手册]] | 质量工具 | 规范编码定义、包容准则与正反样例以保障[[Intercoder Agreement\|编码一致性]]。 |
-> | | [[Intercoder Agreement\|编码者间一致性]] | [[Reliability\|信度]]指标 | 评估不同研究者独立赋码的收敛程度（信度通常要求 ≥80%）。 |
+> | | [[Intercoder Agreement\|编码者间一致性]] | [[Reliability\|信度]]指标 | 评估不同研究者独立赋码的一致程度（信度通常要求 ≥80%）。 |
 > | | [[Inter-Rater Reliability\|评分者间信度]] | 信度保障 | 多位观察员或编码员独立赋码时的等值性与容差认证体系。 |
 > | | [[Teach Classroom Observation Tool]] | 实证工具 | 课堂连续质性实录与行为锚定高推论赋码的典型工具。 |
 > | | [[Qualitative Computer Software\|质性计算机软件]] | 辅助工具 | 提供编码节点管理、层级构建、反身备忘录与自动化布尔检索。 |
@@ -317,6 +318,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 遵循解释性政策分析架构，在段落与章节层级展开多轮质性编码，结合先验五维框架与归纳式类属提炼，系统解析超国家政策文本中的话语隐喻与制度条件（pp. 343–344）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 系统阐释[[Grounded Theory\|扎根理论]]四类编码谱系、鲍格丹与比克连九类描述性编码家族、初筛粗编码与复合双重赋码决策，以及课堂态度矩阵化比较与去情境化风险防范。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 提出 Tesch 八步编码规程与四类编码类型（预期/意外/概念兴趣/预设），并在校园枪击案反应研究中通过[[Emergence\|涌现]]式编码揭示“再触发”深层主题。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Classroom Observation|课堂观察]]与[[In-depth Interview\|深度访谈]]，示范如何在教育[[Qualitative Research\|质性研究]]中通过多级编码程序自下而上提炼本土概念与建构理论[[Analytic Framework\|分析框架]]。

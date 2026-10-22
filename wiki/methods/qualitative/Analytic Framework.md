@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 76
+method_related_count: 77
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -90,6 +90,7 @@ related_persons:
 related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
@@ -172,6 +173,7 @@ updated: 2026-10-23
 > | **政策转移两阶段分析框架** | 将跨国[[Policy Borrowing\|政策借用]]拆解为“意识形态搜寻与政策借用”和“实证规程与工具实施”两个衔接阶段，结合[[Evidence-Based Policy-Making\|循证政策制定]]机会结构解构外来方案的筛选与落地机制 | 解释跨国[[Policy Mobility\|政策流动]]如何受制于意识形态亲和性与实证因果证据位阶的双重塑动 | [[Argument_Legrand_2012_PolStud\|Legrand (2012, pp. 333–336)]] |
 > | **四维[[Critical Policy Analysis\|批判性政策分析]]框架** | 融合费尔克拉夫[[Critical Discourse Analysis\|批判话语分析]]三维模型、[[Policy Framing\|政策框架化]]（诊断/处方/激励）、鲍尔政策分析视角（驱动力/推进工具/价值）与巴斯卡[[Critical Realism\|批判实在论]][[Explanatory Critique\|解释性批判]] | 揭示大国跨国教育对外战略中表层共赢修辞与深层地缘[[Hard Power\|硬实力]]配套机制的结构性脱节 | [[Argument_Woo_2023_HEP\|Woo (2023, pp. 680–687)]] |
 > | **[[Tianxia Heuristic\|天下启发式]]双轨分析框架** | 融合天下秩序观（关系性互联与和而不同）与批判性[[Epistemic Governance\|知识治理]]，区分大众开放网络与精英排他联盟，解析知识权力与知识外交的互补机制 | 解构新兴大国如何通过多轨大学联盟超越西方“霸权对抗与务实合作”二元论 | [[Argument_Chou_Demiryol_2024_HE\|Chou and Demiryol (2024, pp. 1699–1704)]] |
+> | **超国家证据利用五维分析框架** | 涵盖研究与证据界定、行动者定位、证据使用形态（工具/概念/象征）、整合与转译机制、系统与制度条件五大维度，追踪政策话语建构 | 解构超国家组织如何战略性推介特定证据形态、建构证据文化并形塑各层决策社群 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026, pp. 342–344)]] |
 
 > [!proc] 质性分析程序
 > 1. **初读与分段清洗** 熟悉一手材料，标注与[[Central Question|核心研究问题]]相关的关键事件与表述。
@@ -210,6 +212,7 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 构建涵盖证据概念界定、行动者角色、证据使用形态、整合转译机制与系统制度条件的五维分析框架，系统解构经合组织、联合国教科文组织与世界银行官方话语对证据文化的战略性塑造（pp. 342–344）。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 援引 McLean and Gargani (2019) 规模化分析框架，从向上拓展（制度化）、向外拓展（覆盖面扩大）与向深拓展（规范文化重塑）三维维度，系统解构循证教育改革在规划与实施阶段的结构性赤字（p. 17）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
