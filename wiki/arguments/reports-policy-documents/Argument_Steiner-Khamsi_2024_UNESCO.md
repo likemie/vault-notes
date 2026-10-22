@@ -7,7 +7,7 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Elite Interview]]"
   - "[[Survey Research]]"
+  - "[[Network Analysis]]"
   - "[[Comparative Case Study]]"
   - "[[Bibliometric Analysis]]"
   - "[[Systematic Review]]"
@@ -141,6 +142,7 @@ updated: 2026-10-23
 > |---|---|
 > | **全球问卷调查**<br>[[Survey Research\|Survey Research]] | 采用多语种在线问卷调查，在联合国六种官方语言（阿拉伯语、中文、英语、法语、俄语、西班牙语）下收集 898 名全球受访者对现有证据平台使用习惯与 SDG 4 目标支撑度的评估（pp. 18–20）。 |
 > | **关键知情人访谈**<br>Semi-structured Interview | 组织 14 场专题会议对 33 位跨国教育政策决策者、国际组织官员（来自 [[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）、美国国际开发署（United States Agency for International Development, USAID））、区域网络负责人与基金会代表展开深度访谈（pp. 19–20）。 |
+> | **证据咨询二部网络分析**<br>[[Network Analysis\|Two-Mode Network Analysis]] | 提取问卷第三题（Q3）中受访者实际经常调阅的机构实体，构建“受访者—被查阅证据源”两模二部网络（Bipartite Affiliation Network），通过度中心度（Degree Centrality）、网络密度（Network Density）与连通分量分解（Component Analysis）测绘全球教育证据利用的拓扑结构（pp. 22–24, 60–61）。该网络刻画受访者的实际咨询行为，独立于第四章基于引文数据的共被引分析。 |
 > | **对照案例比较**<br>[[Comparative Case Study\|Comparative Case Study]] | 选取全球公共卫生领域作为对照部门，考察循证医学与卫生[[Policy Network\|政策网络]]在处理证据层级、跨国转化与多利益相关者协调中的长效治理经验（pp. 28–29）。 |
 > | **文献计量与共被引网络**<br>[[Bibliometric Analysis\|Bibliometric Analysis]] | 检索 Web of Science 数据库中关于教育（1,825篇）与公共卫生（1,660篇）政策证据利用的[[Systematic Review\|系统综述]]文献，测算年均复合增长率、高被引文献分布并绘制共被引拓扑网络（pp. 29–32, 64–65）。 |
 
@@ -148,8 +150,9 @@ updated: 2026-10-23
 > | 样本层面 | 构成 |
 > |---|---|
 > | **问卷调查样本** | 共回收 898 份完整问卷；306 名受访者披露居住国，覆盖教科文组织划分的全部五大区域共 103 个国家（亚太 33%、非洲 25%、欧洲与北美 23%、拉美及加勒比 14%、阿拉伯国家 8%）；受访者专业背景涵盖高校与智库研究者（22%）、教育部委官员（19%）、民间社会组织代表（18%）、教师组织与教学专业人员（14%）以及国际组织官员（10%）（pp. 18–19）。 |
+> | **网络拓扑分析子样本** | 在全部 898 名受访者中，共有 286 位决策者与研究者在问卷第三题（Q3）中填报了具体经常调阅的证据源，累计映射出 432 个独立的证据主体与平台（国家级 234 个、国际级 124 个、区域级 74 个），构成图 3.2 拓扑网络的数据实体（pp. 21–24）。 |
 > | **文献计量样本** | 纳入 1999 年后发表在引文索引库中的 1,660 篇公共卫生政策证据利用文献与 1,825 篇教育政策证据利用文献，分别提取关键词共现频次与参考文献共引矩阵，形成包含 510 个高连接度节点的拓扑图谱（pp. 30–32, 64–65）。 |
-> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如拉丁美洲受教育权运动（Latin American Campaign for the Right to Education, CLADE）、全非[[Education for All\|全民教育]]网络运动（Africa Network Campaign on Education for All, ANCEFA）、亚太基础与成人教育协会（Asia South Pacific Association for Basic and Adult Education, ASPBAE））与智库平台（如[[International Education\|国际教育]]与培训政策研究网络（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、撒哈拉以南非洲教育倡议（Education Sub Saharan Africa, ESSA））的领导层专家（pp. 19–20）。 |
+> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如拉丁美洲受教育权运动（Latin American Campaign for the Right to Education, CLADE）、全非[[Education for All\|全民教育]]网络运动（Africa Network Campaign on Education for All, ANCEFA）、亚太基础与成人教育协会（Asia South Pacific Association for Basic and Adult Education, ASPBAE））与智库平台（如[[International Education\|国际教育]]与培训政策研究网络（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、撒哈拉以南非洲教育倡议（Education Sub Saharan Africa））的领导层专家（pp. 19–20）。 |
 
 ---
 
@@ -228,36 +231,44 @@ updated: 2026-10-23
 > [!contrast-table] 知名度最高的头部证据源与日常调阅频次（表 3.2 与表 3.3）
 > 受访者认知度最高的头部平台与日常调阅频次最高的机构高度重合，且绝大多数被国际多边组织所占据（pp. 22–24）。下表按受访者“经常查阅频次”统一降序排列，清晰呈现各证据主体的实际使用频度与知名度位阶对照。
 >
-> | 查阅排名 | 证据主体 / 平台 | 经常查阅频次（表 3.3） | 认知知名度位阶（表 3.2） | 机构属性与地理分布 | 生态定位与使用特征 |
-> |---|---|---|---|---|---|
-> | **1** | [[UNESCO\|联合国教科文组织（UNESCO）]] | 64 | 第 1 位 | 国际多边政府组织（巴黎） | 全球教育治理法定中枢，知名度与日常调阅频次均居全球首位 |
-> | **2** | [[OECD\|经济合作与发展组织（OECD）]] | 23 | 第 4 位 | 跨国政策协调组织（巴黎） | 依托 [[PISA]] 等标准化指标，在决策层日常调阅中展现极高实用粘性 |
-> | **3** | [[World Bank\|世界银行（World Bank）]] | 19 | 第 2 位 | 国际金融机构（华盛顿） | 全球最大教育援助与贷款方，主导基础读写与因果[[Intervention Research\|干预研究]] |
-> | **4** | [[UNICEF\|联合国儿童基金会（UNICEF）]] | 18 | 第 3 位 | 国际发展机构（纽约） | 深耕全球南方基层教育项目与女童保护，国家现场调阅广泛 |
-> | **5** | [[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP） | 17 | 第 5 位 | 联合国专业机构（巴黎） | 专注于国家教育行业规划（ESP）与教育官员规划能力建设 |
-> | **6** | [[Global Partnership for Education\|全球教育伙伴关系]]（GPE） | 13 | 第 7 位 | 多边教育基金（华盛顿） | 低收入国家教育资助核心机制，依托 [[Knowledge and Innovation Exchange\|KIX]] 项目推动区域同侪互学 |
-> | **7** | [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS） | 8 | 第 8 位 | 联合国专门统计机构（蒙特利尔） | SDG 4 官方基准数据与全球教育统计监测的唯一法定托管机构 |
-> | **8** | 机构间危机教育网络（Inter-agency Network for Education in Emergencies, INEE） | 6 | 第 6 位 | 国际专题协作网络 | 战乱与人道危机情境下教育应急响应标准的国际事实基准 |
-> | **8** | 全球教育运动（Global Campaign for Education, GCE） | 6 | 第 10 位 | 国际民间倡导联盟（约翰内斯堡） | 代表草根与民间社会发声，推动受教育权公共倡导与监督 |
-> | **10** | 全球发展中心（Center for Global Development, CGD） | 5 | 未入前 15 | 独立国际发展智库（华盛顿/伦敦） | 以严谨发展经济学与实证政策评估著称，在政策专家中调阅频次高 |
-> | **10** | 拉丁美洲受教育权运动（Latin American Campaign for the Right to Education, CLADE） | 5 | 第 9 位 | 区域民间社会网络（拉美与加勒比） | 高频调阅榜中唯一的区域实体，深耕拉美受教育权与公平监测 |
-> | **10** | 联合国教科文组织国际职业技术教育与培训中心（UNEVOC） | 5 | 未入前 15 | 联合国专门机构（波恩） | 全球职业技术教育与终身技能培训证据的专门转化中枢 |
-> | **—** | 提高教育系统成效研究项目（Research on Improving Systems of Education, RISE） | ≤4 | 第 10 位 | 国际跨校研究计划（牛津等） | 系统思维与教育治理宏观研究知名度高，但基层常规调阅相对分流 |
-> | **—** | 世界经济论坛（World Economic Forum, WEF） | ≤4 | 第 10 位 | 跨国基金会与研讨平台（日内瓦） | 未来技能与劳动力市场报告知名度高，但在教育实务中调阅频次有限 |
-> | **—** | 全非[[Education for All\|全民教育]]网络运动（ANCEFA） | ≤4 | 第 13 位 | 区域民间社会网络（非洲，达喀尔） | 非洲大陆草根教育维权与民间监督网络，具有较强区域知名度 |
-> | **—** | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） | ≤4 | 第 13 位 | 国家级循证中介机构（伦敦） | 教学工具包享誉全球，但受制于英国本土国别定位，跨国直接调阅偏低 |
-> | **—** | 全球教育伙伴关系[[Knowledge and Innovation Exchange\|知识与创新交流机制]]（KIX） | ≤4 | 第 13 位 | 跨国知识转化机制 | 作为 GPE 旗下较新机制（2019年创设），知名度渐显但调阅多归并于 GPE 母体 |
+> | 证据主体 / 平台 | 调阅频次 | 知名度位次 | 机构属性 / 驻地 | 生态定位与实务特征 |
+> |---|---|---|---|---|
+> | [[UNESCO\|联合国教科文组织（UNESCO）]] | 64 | 第1位 | 国际多边（巴黎） | 全球教育治理法定中枢，知名度与日常调阅频次均居首位 |
+> | [[OECD\|经济合作与发展组织（OECD）]] | 23 | 第4位 | 跨国协调（巴黎） | 依托 [[PISA]] 等标准化指标，在决策层日常调阅中展现极高实用粘性 |
+> | [[World Bank\|世界银行（World Bank）]] | 19 | 第2位 | 国际金融（华盛顿） | 全球最大教育援助与贷款方，主导基础读写与因果[[Intervention Research\|干预研究]] |
+> | [[UNICEF\|联合国儿童基金会（UNICEF）]] | 18 | 第3位 | 国际发展（纽约） | 深耕全球南方基层教育项目与女童保护，国家现场调阅广泛 |
+> | [[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP） | 17 | 第5位 | 联合国专门（巴黎） | 专注于国家教育行业规划（ESP）与教育官员规划能力建设 |
+> | [[Global Partnership for Education\|全球教育伙伴关系]]（GPE） | 13 | 第7位 | 多边基金（华盛顿） | 低收入国家教育资助核心机制，依托 [[Knowledge and Innovation Exchange\|KIX]] 项目推动同侪互学 |
+> | [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS） | 8 | 第8位 | 联合国统计（蒙特利尔） | SDG 4 官方基准数据与全球教育统计监测的唯一法定托管机构 |
+> | 机构间危机教育网络（Inter-agency Network for Education in Emergencies, INEE） | 6 | 第6位 | 专题协作网络 | 战乱与人道危机情境下教育应急响应标准的国际事实基准 |
+> | 全球教育运动（Global Campaign for Education, GCE） | 6 | 第10位 | 民间联盟（约翰内斯堡） | 代表草根与民间社会发声，推动受教育权公共倡导与监督 |
+> | 全球发展中心（Center for Global Development, CGD） | 5 | 未入前15 | 发展智库（华盛顿/伦敦） | 以严谨发展经济学与实证政策评估著称，在政策专家中调阅频次高 |
+> | 拉丁美洲受教育权运动（Latin American Campaign for the Right to Education, CLADE） | 5 | 第9位 | 区域网络（拉美） | 高频调阅榜中唯一的区域实体，深耕拉美受教育权与公平监测 |
+> | 联合国教科文组织国际职业技术教育与培训中心（UNEVOC） | 5 | 未入前15 | 联合国专门（波恩） | 全球职业技术教育与终身技能培训证据的专门转化中枢 |
+> | 提高教育系统成效研究项目（Research on Improving Systems of Education, RISE） | ≤4 | 第10位 | 跨校研究（牛津等） | 系统思维与教育治理宏观研究知名度高，但基层常规调阅相对分流 |
+> | 世界经济论坛（World Economic Forum, WEF） | ≤4 | 第10位 | 基金会/智库（日内瓦） | 未来技能与劳动力市场报告知名度高，但在教育实务中调阅频次有限 |
+> | 全非[[Education for All\|全民教育]]网络运动（ANCEFA） | ≤4 | 第13位 | 区域网络（达喀尔） | 非洲大陆草根教育维权与民间监督网络，具有较强区域知名度 |
+> | 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） | ≤4 | 第13位 | 循证中介（伦敦） | 教学工具包享誉全球，但受制于英国本土国别定位，跨国直接调阅偏低 |
+> | 全球教育伙伴关系[[Knowledge and Innovation Exchange\|知识与创新交流机制]]（KIX） | ≤4 | 第13位 | 跨国转化机制 | 作为 GPE 旗下较新机制（2019年创设），知名度渐显但调阅多归并于 GPE 母体 |
 >
-> *(数据源自报告表 3.2 与表 3.3。表格按受访者“经常查阅频次”降序排列。由于调查分发渠道影响，统计中未计入调查发起方 NORRAG，以确保样本代表性客观真实；表 3.3 原始报告仅披露提名频次大于 4 次的前 12 大实体，其余知名机构以 ≤4 次标注)*
+> *(数据源自报告表 3.2 与表 3.3，按经常调阅频次降序排列。因调查分发渠道影响，统计中未计入发起方 NORRAG；原始报告仅披露提名频次大于 4 次的前 12 大实体，其余知名机构以 ≤4 次标注)*
 
 > [!figure] 图 3.2　教育政策与规划中的证据来源网络拓扑图
-> 网络结构拓扑分析揭示，全球教育证据生态呈现极度松散与碎片化的形态（网络密度 density = 0.006）。在纳入统计的全部节点中，识别出 121 个完全彼此隔离的独立子网络群（p. 23）。
+> 基于全球问卷调查（Q3：日常经常查阅的倡议、网络与平台）构建的“受访者—证据源”两模二部网络（Bipartite Affiliation Network）。图谱直观展现了全球教育证据利用生态在拓扑上的极端离散度与核心—边缘割裂格局（pp. 22–24）。
 >
 > ![图3.2：教育政策与规划中的证据来源网络拓扑图](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig3-2_Network_Research_Evidence_Sources.jpg)
 
+> [!result-reading] 图 3.2 建模机制与要素图例解析（pp. 22–24, 60–61）
+> - **网络属性与连边定义** 图谱属于实务咨询领域的两模从属网络，用于度量政策决策与研究人员日常调阅证据机构的实际行为。灰色小圆点代表 286 位有效填报日常证据来源的政策决策与研究受访者；彩色节点代表被其提名的 432 个证据主体与知识平台；两类节点之间的连线代表受访者在实际规划工作中对该机构的日常调阅关系。
+> - **节点层级赋色** 证据主体节点根据管辖与地理层级进行色彩编码——**蓝色**为国际多边政府组织（如 UNESCO、OECD、世界银行、UNICEF）；**黄色**为跨国区域协作网络（如 CLADE、INEE）；**红色**为国家本土机构（如各国教育部研究部门、师范大学、本土 NGO）。
+> - **节点几何尺寸** 节点的几何面积严格对应其**度中心度（Degree Centrality）**，数值等于在调查中明确提名该机构的受访者总人数。UNESCO（64 人提名）、OECD（23 人提名）、世界银行（19 人提名）中心度最高，呈现为中央最醒目的宏大节点。
+
 > [!tension] 全球教育证据网络拓扑的核心与边缘分化（pp. 23–24）
-> - **核心主群（国际多边主体）** 居于网络中央（蓝色节点），由 UNESCO、世界银行、OECD、UNICEF 等少数国际组织及关键区域网络牢固主导，彼此之间具有高频连接与极高中心度（Degree Centrality）。
-> - **边缘离散群（国家本土主体）** 分散在外围的 120 个独立子群（红色节点），几乎全部由国家本土科研院所、[[Normal School|师范院校]]和非政府组织构成，与中央核心大群缺乏连通，处于无人问津、自由浮动的孤立状态。
+> - **极低网络密度（Density = 0.006）** 全网测算的网络密度仅为 0.006，数学上表明节点间潜在连边绝大多数处于断开状态，全球教育循证生态呈现出极度稀疏与碎片化的组织学特征。
+> - **连通分量的极端极化（121 Components）** 连通分量分解（Connected Component Analysis）将全网划分为 121 个完全彼此隔离的独立子网络群：
+>   - **中央主连通大群（Main Component，1 个）** 居于网络中央，由 UNESCO、世界银行、OECD、UNICEF 等少数国际多边机构及关键区域网络牢固主导。跨国受访者频繁交叉调阅这些机构，使其成为凝聚全球政策讨论的“公共分母”。
+>   - **外围离散孤立子群（Peripheral Components，120 个）** 环绕在外围的 120 个独立红色小簇，几乎全部由国家本土科研院所、[[Normal School|师范院校]]和本土组织构成。这些机构虽占经常利用机构总数的 54.17%，但绝大多数仅被本国单一受访者调阅，与其他国家的受访者或国际平台完全没有连边交集，在拓扑上呈现 120 个与全球主网彻底绝缘的孤立小岛，处于自由浮动状态。
+> - **区域枢纽的桥接价值与治理断裂** 黄色区域组织（如拉丁美洲 CLADE、危机教育 INEE）数量极少但起到连接局部本土力量的关键桥接作用。这证明单纯增加国际机构自上而下的证据供给无法解决外围 120 个本土孤岛的悬浮困境，必须在治理机制上着力扶持具有双向转译能力的区域性知识枢纽（Regional Hubs）。
 
 ---
 
@@ -400,9 +411,9 @@ updated: 2026-10-23
 > | **全球与国家多边配合** | **5.2.6 全球主体遴选并授权区域枢纽** | 联合国教科文组织全球合作机制协同各盟友，通过非竞争性协作方式正式委任成熟区域网络为常设枢纽（p. 45）。 |
 > | | **5.2.7 各成员国建立长效 MEL 报告机制** | 成员国依据[[Theory of Change\|变革理论]]定期向区域与全球反馈国家循证体系建设成效，确立自适应管理机制（p. 45）。 |
 
-> [!case] 区域中介组织的桥梁运作：[[SUMMA]]、ESSA 与非洲证据网络（AEN）
+> [!case] 区域中介组织的桥梁运作：[[SUMMA]]、撒哈拉以南非洲教育倡议与非洲证据网络（AEN）
 > - **拉丁美洲实践：SUMMA Chile** 作为拉美与加勒比地区首个教育创新与研究实验室，SUMMA 与该区域数十国教育部紧密结盟，研制符合西语与葡语情境的干预实践指南，展现出极强的政策吸收转化力（pp. 43–45）。
-> - **非洲实践：ESSA 与非洲证据网络（AEN）** 撒哈拉以南非洲教育倡议（ESSA）专注于非洲高等教育与教师师资大数据的整合；而成立于南非的非洲证据网络（Africa Evidence Network, AEN）汇聚了全非数千名研究者与行政官员，通过定期举办 Evidence 大会与实地工作坊，形成了深厚的人际信任网络（pp. 44–46）。
+> - **非洲实践：撒哈拉以南非洲教育倡议与非洲证据网络（AEN）** 撒哈拉以南非洲教育倡议（Education Sub Saharan Africa）专注于非洲高等教育与教师师资大数据的整合；而成立于南非的非洲证据网络（Africa Evidence Network, AEN）汇聚了全非数千名研究者与行政官员，通过定期举办 Evidence 大会与实地工作坊，形成了深厚的人际信任网络（pp. 44–46）。
 > - **全球教育伙伴关系 KIX 项目的区域部署** 全球教育伙伴关系知识与创新交流机制（GPE KIX）在非洲、亚太与拉美设立四大区域枢纽，有效打通了跨国资金支持与本土教育政策试点的连接通道（p. 44）。
 
 ---
