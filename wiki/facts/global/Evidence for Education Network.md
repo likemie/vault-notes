@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -111,7 +111,7 @@ updated: 2026-10-22
 
 > [!row-contrast] 全球跨国中介网络覆盖矩阵
 >
-> | 伙伴机构（中文名 / 原文全称 / 缩写） | 国家 / 区域 | 网络角色与定位 | 本地化业务与核心产出 | 官方网站与资源链接 |
+> | 伙伴机构（中文名 / 外文全称 / 缩写） | 国家 / 区域 | 网络角色与定位 | 本地化业务与核心产出 | 官方网站与资源链接 |
 > |:---|:---|:---|:---|:---|
 > | **[[Education Endowment Foundation\|教育捐赠基金会]]**<br>Education Endowment Foundation (EEF) | 英国（英格兰） | **全球网络秘书处与统筹协调中枢**<br>负责标准质控、底层证据模型开发与全球峰会召集 | 英语；《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》知识产权与二阶元分析数据库 | [EEF 官网](https://educationendowmentfoundation.org.uk)<br>[EEN 全球门户](https://evidence.education) |
 > | **[[SUMMA]]**<br>Laboratorio de Investigación e Innovación en Educación para América Latina y el Caribe | 智利（辐射拉美及加勒比） | **拉丁美洲及加勒比大区中枢**<br>常态化协同辐射拉美 21 国教育部与国家教育评价机构 | 西班牙语、葡萄牙语；《有效教育实践平台》（西葡双语工具包）、EDU-LAC 影响力基金 | [SUMMA 官网](https://summaedu.org)<br>[有效教育实践平台](https://practicasefectivas.summaedu.org) |
@@ -159,7 +159,7 @@ updated: 2026-10-22
 > > - **批判政策学者视角（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]；[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]）** 将 EEN 视为跨国金融/矿业资源资本（必和必拓）、慈善中介与英美证据精英合谋编排的全球“异层治理”超级平台。它使私营资本得以借由“中立循证科学”的无上正当性，跨越国界直接指导各国学校预算与教学实践的走向。
 
 > [!citation-card] NatCen 独立终审报告对网络可持续性的定性
-> 建立与关键利益相关者（包括教育工作者、政策制定者、地方行政当局和学术界）的深层信任与政治认同，是维系[[Evidence Ecosystem\|证据生态系统]]长期发展的根本前提。教育证据网络（EEN）的正式设立，为各伙伴机构规范化工作流程、沉淀经验并保持长效协作提供了制度化基石，但后资助时代的财政维系仍需全行业持久的制度投入。(NatCen, 2026)
+> 建立与关键利益相关者（包括教育从业者、政策制定者、地方行政当局和学术界）的深层信任与政治认同，是维系[[Evidence Ecosystem\|证据生态系统]]长期发展的根本前提。教育证据网络（EEN）的正式设立，为各伙伴机构规范化工作流程、总结工作经验并保持长效协作提供了制度化基石，但后资助时代的财政维系仍需全行业持久的制度投入。(NatCen, 2026)
 >
 > *"Building trust and securing buy-in from key stakeholders—including educators, policymakers, local government, and academics—is critical to the long-term sustainability and development of an evidence ecosystem. The formation of the Evidence for Education Network (EEN) may provide a necessary structure to help partners consolidate, [[Document]], and standardize their work, while offering a platform for continued networking and shared learning."*
 
@@ -182,6 +182,6 @@ updated: 2026-10-22
 > | [[Knowledge Mobilisation]] | Concept | EEN 第二大核心业务支柱，推动因果证据深层嵌入课堂日常教学。 |
 > | [[Policy Mobility]] | Concept | EEN 作为英美循证政策向全球南方快速流通（fast policy）的全球制度载体。 |
 > | [[Venture Philanthropy]] | Concept | 必和必拓等矿业资本注资孵化 EEN 所体现的现代跨国[[Social Impact Investing\|风险慈善]]模式。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | Argument | 记录 EEF 跨国拓展与全球证据生态启动的关键论文。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | Argument | 记录 EEF 跨国拓展与全球证据生态启动的关键文献。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | Argument | 揭示 EEF 与必和必拓基金会跨国网络异层治理与快速政策流动的批判研究。 |
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | Argument | 追踪企业慈善资本对大洋洲及跨国证据中介深度渗透的最新文献。 |

@@ -5,6 +5,10 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md"
     },
     {
+      "basename": "UN Sustainable Development Goals",
+      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
+    },
+    {
       "basename": "Two-Communities Theory",
       "path": "wiki/theories/educational-policy-reform/Two-Communities Theory.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Luban Workshop",
       "path": "wiki/facts/china/Luban Workshop.md"
-    },
-    {
-      "basename": "Confucius Institute",
-      "path": "wiki/facts/china/Confucius Institute.md"
     }
   ],
   "omittedPaths": [],
