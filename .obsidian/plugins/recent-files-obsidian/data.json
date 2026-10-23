@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
       "basename": "Argument_Steiner-Khamsi_2024_UNESCO",
       "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md"
+    },
+    {
+      "basename": "Gita Steiner-Khamsi",
+      "path": "wiki/persons/us/Gita Steiner-Khamsi.md"
+    },
+    {
+      "basename": "Argument_Steiner-Khamsi_2024_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
     },
     {
       "basename": "Critique of Meta-analysis",
@@ -39,10 +47,6 @@
     {
       "basename": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",
       "path": "tmp/callout-design-backup-v4/idp-before/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
-    },
-    {
-      "basename": "Argument_Steiner-Khamsi_2024_CE",
-      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
       "basename": "Argument_Grek_2009_JEdPolicy",
@@ -195,10 +199,6 @@
     {
       "basename": "Metacognition",
       "path": "wiki/concepts/competency-and-assessment/Metacognition.md"
-    },
-    {
-      "basename": "Visible Learning Meta-X",
-      "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
     }
   ],
   "omittedPaths": [],
