@@ -97,7 +97,8 @@
               "title": "Literature Search"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -302,12 +303,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "d7b750b1933da6ff",
   "lastOpenFiles": [
+    "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
+    "output/global-evidence-education-governance/03-outline.md",
     "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-010/result.json",
     "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-009/result.json",
     "output/global-evidence-education-governance/01-evidence-map.md",
-    "output/global-evidence-education-governance/03-outline.md",
     "wiki/facts/global/OECD.md",
     "output/global-evidence-education-governance",
     "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-008/result.json",
@@ -333,7 +335,6 @@
     "wiki/facts/switzerland/Aga Khan Foundation.md",
     "wiki/facts/global/Education.org.md",
     "wiki/facts/canada/International Development Research Centre.md",
-    "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-001/result.json",
     "wiki/concepts/research-methodology/Literature Review.md",
     "wiki/theories/educational-policy-reform/Complex Systems Model of Evidence.md",
     "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
