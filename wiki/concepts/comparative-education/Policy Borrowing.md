@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 112
+related_count: 115
 related_level: 11
 related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Center of Calculation]]"
   - "[[Policy Mobility]]"
+  - "[[Policy Ambassador]]"
+  - "[[Representational Knowledge]]"
   - "[[Cross-National Attraction]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Epistemology]]"
@@ -136,10 +138,11 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -445,6 +448,9 @@ updated: 2026-10-22
 > [!claim] Beech, J.
 > **新型跨国借用行动者与国际机构的双重收拢机制** 杰森·比奇（Jason Beech）指出，19 世纪由主权国家特派官员（如库森、曼、萨米恩托）垄断的花园采撷式借用，在当代已被四类跨国新型行动者所打破：携带商业方案周游列国的穿梭咨询专家、开辟海外咨询市场兜售[[School Effectiveness|学校效能]]知识的高校国际发展部门、推行[[Bologna Process|博洛尼亚进程]]与跨国认证的超国家区域联盟（如[[EU|欧盟]]），以及通过[[Public-Private Partnership|公私伙伴关系]]接管学校运营与督导的跨国营利性教育服务集团（如 [[Nord Anglia Education|Nord Anglia]]、[[GEMS Education|GEMS]]）。更为根本的是，以[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]为代表的多边机构充当“[[Knowledge Bank|知识银行]]”，基于紧迫[[Pragmatic Paradigm|实用主义]]将复杂学术话语简化为包含五大支柱（[[Lifelong Learning|终身学习]]、[[Constructivist Instruction|建构主义教学]]、能力本位、机构自主与评估问责、新教师角色）的统一[[Global Educational Discourse|全球教育话语]]普遍方案。国际机构通过“界定危机”与“提供通用解方”的双重收拢机制（Dual Closure），与受援国学术与官僚精英合一的[[Gatekeepers|守门人]]网络相互强化，严重收窄了受援国的政策[[Discursive Field|话语空间]]与本土改革想象力。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
 
+> [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
+> **对国家中心论与中心-边缘单向借用的解构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，传统政策借用框架长期受制于方法论国家主义（Methodological Statism）与中心-边缘单向依附假定，将借用活动窄化为主权国家中央部委对西方发达国家经验的线性引进。拉美经验（如巴西有条件现金转移、参与式预算与公共卫生减害）表明，当代政策流动已突破中央国家垄断与南北单向扩散路径：地方城市政府作为独立主体开展跨国借调，全球南方制度创新反向输出至北方发达都市并推动南南互鉴；政策借用已从双边技术移植演进为依托[[Policy Ambassador|政策大使]]与[[Representational Knowledge|代表性知识]]的多标量、多向度跨国政策循环。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]
+
 > [!citation-card] Beech论知识银行的双重收拢与受援国政策空间收窄
 > 国际机构在教育领域的强大影响，不仅在于其能够提供巨额财政贷款与技术援助，更在于它们充当了‘知识银行’的角色。通过同时垄断关于‘教育危机是什么’的诊断权与‘何种改革有效’的解答权，国际机构实施了一种话语上的双重收拢。这种普遍模型的推销使得发展中国家在面对全球化挑战时，除了接受包含自主权、评估问责与以学生为中心教学的整套包裹式方案外，几乎无法构想任何替代性的政策路径。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 354)]]
 >
@@ -462,7 +468,7 @@ updated: 2026-10-22
 > | **数据基础设施与拓扑装配** | 跨尺度数据流动与算法[[Commensuration\|通约]]取代单一文本借用，将外部基准折叠进微观教学 | 大规模数据监测普及、数字化治理与联邦多级体制 | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
 > | **建制双轨与浅层借用批判** | 德英建制双轨体现政策借用与哲学反思分野，航海隐喻抵御浅层速成借用 | 跨国学科史制度比较、国际测评政策咨询与认识论反思 | [[Wolfgang Mitter\|Mitter, W.]] |
 > | **全球化四维响应批判** | 突破自愿对称假定，将主动接受、草根抵制、文化恢复与强制再生产纳入统一框架 | 全球化下南北非对称教育扩散、依附性制度输出与本土抵抗 | [[Val D. Rust\|Rust, V. D.]], Johnstone, B. & Allaf, C. |
-> | **跨国网络借用与双重收拢** | 借用主体从主权官员扩散至高校、企业与国际机构网络，知识银行通过双重收拢缩窄政策空间 | 全球网络社会、多边机构知识垄断与后发国家外援依附改革语境 | [[Jason Beech\|Beech, J.]] |
+> | **跨国网络借用与多标量解构** | 借用主体从主权官员扩散至多元网络，全球南方经验解构国家中心论与南北单向扩散 | 全球网络社会、多边机构知识垄断、南南合作与跨国政策流动 | [[Jason Beech\|Beech, J.]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] |
 
 ---
 
@@ -487,6 +493,7 @@ updated: 2026-10-22
 > - **2012 — 政治借用与实质学习的系统区隔** 施泰纳-哈姆西系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
 > - **2018 — 媒介化全球治理与罗生门借用模型** 格雷与莫里斯（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）揭示以 [[PISA]] 为代表的大规模跨国测评时代政策借用的新特征：政策借用从传统的官方行政调研升级为高度依赖大众媒介公关的“媒介化借用”；决策者通过“遗漏话语”剪裁外部卓越样板（如上海），而新闻媒体的[[Policy Avoidance\|政策规避]]使得未经检验的合法化借用得以逃避民主问责，使政策借用与[[Rashomon Effect\|罗生门效应]]深度咬合。
 > - **2018 — 拓扑[[Assemblage\|政策装配]]与[[Data Infrastructure\|数据基础设施]]转向** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong, 2018）批判正统政策借用对技术物质性与拓扑尺度的忽视，指出跨尺度数据基础设施（如题库、[[Center of Calculation\|计算中心]]与平台）将国际基准直接折叠进微观教学实践，重构了跨国借用与国内治理的边界。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
+> - **2020 — 政策流动转向与国家中心借用论解构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）提出代表性知识与政策大使构念，批判政策借用框架的方法论国家主义与中心-边缘单向假定，确立全球南方制度创新反向输出与多向跨国政策循环模型（pp. 2–6）。
 > - **2023 — 怀特三大传统地缘解构** [[Eleftherios Klerides\|克莱里德斯]]（Eleftherios Klerides）将国际关系三大思想传统（现实主义、理性主义和[[Revolutionism\|革命主义]]）引入[[Policy Mobility\|政策流动]]研究，将政策借用与[[Geopolitics|地缘政治]]焦虑深度绑定，完成了概念的批判性地缘政治学转向。（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）
 > - **2025 — 威权与高压政治语境下的分析失效边界** 政策借用作为合法化工具的理论适用性被明确界定在“半开放协商政治”的权力边界内，高压威权与行政命令直接接管的现象为该框架确立了失效边界。（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025]]）
 
@@ -537,7 +544,7 @@ updated: 2026-10-22
 
 > [!critique] 学术学理与方法论批判
 > - **书面文本与话语偏见** 传统的政策借用研究过度局限于国家的官方书面政策文件或媒介修辞，忽视了在治理转向中，非官方与去中心化网络中非人类技术客体与算法的微观流转机制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]；[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）。
-> - **[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）** 将主权国家预设为分析的自然与唯一容器单位，遮蔽了跨尺度数据网络在无边界空间中的流动，并掩盖了地缘支配的后殖民权力关系（[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]]；[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 135]]）。
+> - **[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）** 将主权国家预设为分析的自然与唯一容器单位，遮蔽了跨尺度数据网络在无边界空间中的流动，并掩盖了地缘支配的后殖民权力关系（[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]]；[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 135]]；[[Argument_Stone_2020_PolSoc\|Stone et al., 2020, pp. 2–3]]）。
 > - **形态变异的归因模糊性** 在经验上很难清晰辨定，政策转移到本地后的形态变异究竟是决策者在引入阶段的主动裁剪，还是在本土实施过程中被动发生的情境适应（[[Argument_Cowen_2009_CE\|Cowen, 2009b]]）。
 
 > [!warning] 适用局限与边界条件
@@ -557,6 +564,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合拉美减贫、交通与减害治理案例，解构政策借用框架的方法论国家主义与南北单向扩散假定，阐发依托代表性知识与政策大使的多标量政策循环（pp. 2–6）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 比较德国、英格兰、苏格兰与芬兰对 PISA 的政策吸纳，实证揭示跨国政策借用作为“策略性外在化”平息国内争议、推行争议性改革或确证既有路线的政治合法化机制。
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 批判正统政策借用与新制度主义对微观技术物质性的忽视，以德国 [[PISA]] 震荡后教育监测改革为例，揭示跨尺度[[Data Infrastructure\|数据基础设施]]与[[Center of Calculation\|计算中心]]如何实现教育政策的[[Topological Spatialisation\|拓扑学重组]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：[[Victor Cousin\|维克多·库森]]在法国推行的普鲁士教育法案“实定法直接转置”模式，与[[Horace Mann\|霍勒斯·曼]]在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。

@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 81
+related_count: 84
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -25,6 +25,8 @@ tags:
   - theme/policy-network
 related_concepts:
   - "[[Knowledge Mediation]]"
+  - "[[Policy Ambassador]]"
+  - "[[South-South Cooperation]]"
   - "[[Theoretical Perspective]]"
   - "[[Discourse]]"
   - "[[Co-affiliation]]"
@@ -110,10 +112,11 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -289,6 +292,16 @@ updated: 2026-10-22
 
 ---
 
+### 命题十　多标量跨国政策网络依托去中心化协作与政策大使重构中心边缘的单向依附
+
+> [!concept-lens] 跨国政策循环与南南网络拓扑
+> 探讨政策网络超越北方主导的单向知识转移模式，依托跨国城际网络、专业实务网络与南南多边协作，实现南方本土治理经验的反向扩散与多向循环。
+
+> [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
+> **去中心化跨国政策网络对中心-边缘知识依附的重构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，跨国政策网络超越了全球北方资本向南方单向输出规程的异层通道，成为全球南方制度创新实现跨国扩散与多向循环的关键依托。拉美城市与减贫改革经验表明，去中心化的跨国市政网络（如城际联盟）、专业实务人员网络与南南三方合作平台，依托[[Policy Ambassador|政策大使]]的跨文化斡旋，将深植于发展中国家治理边缘的草根默会经验转化为国际多边平台的政策议程，打破了传统中心-边缘政策网络中单向输出的知识等级与依附关系。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -301,6 +314,7 @@ updated: 2026-10-22
 > | **国家催化与异层再分配命题** | 政策网络推动国家演化为市场缔造者，通过立法特许和补贴导致公共财政向中介逆流 | 福利国家转型、公立教育财政危机与[[Philanthrocapitalism\|慈善资本主义]]再分配机制 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 522–523, 527–532)]] |
 > | **多理性网络科层失灵命题** | 专业分工导致多重异质理性并存，去中心网络缺乏绝对顶层，单向科层命令必然失灵并转向激励协商 | 半自治专业公共部门、高校网络与政府间关系 | [[Walter J. M. Kickert\|Kickert (1995, pp. 148–150)]] |
 > | **连锁董事与学术特许突防命题** | 跨界连锁董事网络结合全球学术商标特许代理，绕过传统科层规制实现政策突破与资本积累 | 替代性教师资格认证、教育管理组织跨国扩张与学者商业特许同盟 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 49–54, 65–70)]] |
+> | **多标量网络与南南重构命题** | 去中心化跨国网络依托政策大使推动南方经验反向扩散，重构中心-边缘单向依附 | 跨国市政网络、南南三方合作与发展中国家治理经验跨国扩散 | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020, pp. 2–6)]] |
 
 ---
 
@@ -309,6 +323,7 @@ updated: 2026-10-22
 > - **1980s–1990s 欧陆公共行政与[[Network Governance|网络治理]]理论成型** 莱姆布鲁赫与施密特（Lehmbruch & Schmitter, 1982）奠定[[Neocorporatism|新法团主义]]网络协调；[[Walter J. M. Kickert|瓦尔特·基克特]]（Kickert, 1991, 1995）与罗兹（Rhodes, 1996）系统论证政策网络的去中心化、多理性与相互依赖特征，确立“网络中无绝对顶层”与[[Steering at a Distance|间接调控]]治理[[Paradigm|范式]]。
 > - **2012 跨国政策网络转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（[[Stephen Ball]]）提出全球政策网络与异质治理概念，指涉跨国中介公司、[[Venture Philanthropy\|风险慈善]]基金会以及新自由主义智库对主权国家公共政策的网状操纵。
 > - **2018 证据生态网络的合流** 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）实施全球[[Evidence Ecosystem\|证据生态系统]]计划为代表，政策网络披上“中立科学”外衣，在多国平移复制镜像证据组织（如[[Australian Education Research Organisation\|澳大利亚教育研究组织]]，Australian Education Research Organisation, AERO）。
+> - **2020 跨国市政网络与南南政策循环** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）阐发跨国政策网络超越北方单向输出通道，依托跨国城际网络、专业实务网络与政策大使，推动全球南方制度创新的反向扩散与多向跨国政策循环（pp. 2–6）。
 > - **2022 [[OECD]] 跨国政务网络实证测度** 经合组织（[[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]）首次在 29 国 37 个教育系统全面测度部委政务网络，揭示了网络规模与联结强度的解耦、大网络陷阱与生产依附偏误。
 > - **2022 教师教育政策网络与[[Gatekeepers\|把关人]]实证分析** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 剖析英格兰教师教育政策网络，揭示高层官僚轮换、社交媒体意见领袖与教育部把关人如何共同形塑[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
 > - **2022 [[Network Ethnography\|政策网络民族志]]与无生命客体装配** 埃玛·罗威（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）结合网络[[Ethnography\|民族志]]，通过澳大利亚证券与投资委员会（Australian Securities and Investments Commission, ASIC）企业档案与财务披露解构麦肯锡系风险慈善枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）长达十年的政策游说网络，揭示跨界[[Co-affiliation\|共同从属]]与无生命客体装配如何实现资本对国家科研中介机构的隐蔽掌控。
@@ -424,3 +439,4 @@ updated: 2026-10-22
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 将关系与网络确立为 [[OECD]] 强化教育[[Research Impact\|研究影响力]]五维[[Analytic Framework\|分析框架]]的核心支柱。
 > - [[Argument_Kickert_1995_Governance\|Kickert (1995)]] — 从欧陆公共行政与组织网络理论出发，系统解构韦伯科层命令假定在半自治专业人员构成的政策网络中的结构性失灵，论证向间接激励与理性对话转型的制度必要性。
 > - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 解构新西兰替代性教师培训（[[Teach First New Zealand|TFNZ]]）跨界董事会网络及 [[Visible Learning]] 跨国特许代理网络，揭示政策网络如何绕过代议制科层实现政策突破与隐性商业化。
+> - [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] — 结合拉美城市与减贫治理经验，揭示去中心化跨国市政网络与南南合作平台如何依托政策大使重构传统中心-边缘知识依附（pp. 2–6）。

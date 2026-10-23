@@ -7,7 +7,7 @@ aliases:
 summary: "在证据生产者与使用者之间建立联结、促进理解并维系协作的有意识中介活动，是知识动员生态系统中与知识生产、知识使用并列的三大核心功能之一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -17,6 +17,8 @@ tags:
   - theme/policy-brokerage
   - theme/research-use
 related_concepts:
+  - "[[Policy Ambassador]]"
+  - "[[Representational Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Policy Borrowing]]"
@@ -65,6 +67,7 @@ related_arguments:
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -163,6 +166,9 @@ updated: 2026-10-23
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
 > **超国家知识中介守门网络与生态平等倡导角色** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织（OECD, 2025 全球 288 家中介调研）与跨国组织政策文本的批判分析指出，跨国知识中介机制在实践中呈现深刻断裂：一方面，跨国守门网络借助“爵士乐队”等修辞隐喻确立了量化因果证据的等级特权，将中介异化为自上而下的政策指令分发与合规审计工具；另一方面，中介机构由于缺乏长效财政支持而深陷碎片化生存危机。坎贝尔等呼吁重塑知识中介功能，要求中介者超越被动传声筒角色，转而充当认识论平等的倡导者，为一线实践者开辟赋权对话平台，促进全球证据与本土情境知识的双向有机整合。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 347–348, 350–351)]]
 
+> [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
+> **政策大使作为跨国知识中介与代表性知识转化枢纽** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，跨国政策循环中的知识中介高度依赖兼具双重身份与跨文化斡旋能力的“政策大使”（Policy Ambassadors）。这类知识中介穿梭于母国本土行政体系与国际多边组织之间，凭借实务声望与外交资本，将深植于全球南方治理边缘的扎根经验提炼为“代表性知识”，推入联合国与世界银行等国际议程，开创了跨国知识中介由个体行动者驱动南向北与南南双向流动的新机制。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]
+
 ---
 
 ### 命题三　中层研训与督导机构是知识中介的制度化枢纽但面临严峻的实证成效赤字
@@ -189,7 +195,7 @@ updated: 2026-10-23
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **功能本体命题** | 确立中介的功能属性与跨界重叠性，打破行动者一维组织标签 | 知识动员模型设计、高校教研机构改革、跨界团队建设 | Ben Levin (2013); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
-> | **范式演进命题** | 阐明中介从单向信息分发向关系协同与自组织系统生态枢纽的演进 | 国际组织中介枢纽布局、有效研究所运营、区域教育创新网络 | Gough et al. (2019); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
+> | **范式演进命题** | 阐明中介从单向信息分发向关系协同与自组织系统生态枢纽的演进 | 国际组织中介枢纽布局、有效研究所运营、跨国政策大使转译与区域教育创新网络 | Gough et al. (2019); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020, pp. 2–6)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 > | **制度实证命题** | 揭示中层中介机构作为治理枢纽的核心地位与面临的严峻实证研究赤字 | 州级研训院所改革、学校督导反馈机制、证据清理平台评估 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] |
 > | **跨界中介命题** | 大学依托科研基础设施与人才流动充当国家安全与商业产业间的实体知识中介 | 国家创新体系分析、产学研军民[[Technology Transfer\|技术转移]]与大学基础设施评估 | Fabrizio & Mowery |
 
@@ -201,6 +207,7 @@ updated: 2026-10-23
 > - **2005 — 科技政策视野下的大学跨界知识中介机制确立** 法布里奇奥与莫厄里系统揭示大学如何依托联邦科研基础设施投建与人才流动，在国防公共投资与商业信息技术产业之间充当深层知识中介。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–36)]]
 > - **2011–2019 — Gough 证据生态演进中的中介枢纽化** Gough et al. （[[EPPI-Centre]]）从最初构建生产-中介-使用三元系统（2011），到逆转图式凸显实践需求与中介拉力（2018），最终在双层嵌套模型中确立中介在沟通连接与全系统元研究中的核心地位（2019）。
 > - **2019 — 德语区反思中层中介机构的实证成效与双重脱节** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区各州研训研究所与[[School Inspection|学校督导]]的知识中介功能，指出制度化中介机构在承担枢纽角色的同时面临严重的实证研究赤字，呼吁建立兼顾科学严谨与实践适切的中介研究体系。
+> - **2020 — 政策大使作为新型跨国知识中介** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）提出[[Policy Ambassador|政策大使]]构念，阐发兼具本土扎根实践与国际外交资本的个体知识中介在推动南方[[Representational Knowledge|代表性知识]]进入全球多边议程中的桥梁机制（pp. 2–6）。
 > - **2022 — [[OECD]] 整合比较中的反思与超越** [[Argument_Torres_2022_KMModels|Torres (2022b)]] 横向对比主流模型，指出未来知识中介必须突破单纯的学术证据推销，转向促进证据与教育创新的深度共生（Révai, 2020），并以学生与教师的深度专业学习为崇高目标。
 > - **2026 — 超国家知识中介修辞批判与认识论平等倡导** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 分析经合组织 288 家中介调研报告，解构跨国知识中介的修辞隐喻与守门机制，主张中介机构应超越被动分发管道，充当捍卫本土实践知识与认识论平等的对话平台（pp. 344, 347–348, 350–351）。
 
@@ -239,3 +246,4 @@ updated: 2026-10-23
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与[[Practice-Based Evidence|实践本位证据]]的显著偏好。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 系统剖析德语区中层研训研究所（LIs）与[[School Inspection|学校督导]]（SI）的知识中介枢纽定位，揭示中介平台与机构面临的严峻实证研究赤字及双重脱节风险。（pp. 10–12）
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 344, 347–348, 350–351)]] — 结合经合组织 2025 年全球 288 家中介调研文本，解构超国家知识中介的守门机制与修辞隐喻，提出中介者应充当认识论平等倡导者的生态重塑路径。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 提出政策大使与代表性知识构念，阐发跨越母国行政体系与国际多边组织的新型跨国知识中介机制（pp. 2–6）。
